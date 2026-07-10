@@ -11,7 +11,7 @@ status: stable
 
 
 
-:::deleteme-box
+::: deleteme-box
 **Dalam pelajaran ini Anda akan mempelajari:**
 - Kata tanya dan kata ganti penunjuk dalam nominatif
 - Sandhi dari akhiran -m
@@ -28,7 +28,7 @@ status: stable
 
 
 
-:::grammar-box
+::: grammar-box
 
 | | Nominatif tunggal | Nominatif jamak |
 
@@ -45,7 +45,7 @@ status: stable
 
 
 
-:::grammar-box
+::: grammar-box
 
 | **Suku** ||||
 
@@ -81,16 +81,16 @@ Agar dapat membentuk kalimat dengan kata ganti ini (sarvanāman n.), diperlukan 
 
 
 
-:::grammar-box
+::: grammar-box
 **-m di akhir kata digantikan oleh Anusvāra (-ṃ) sebelum konsonan. Di akhir kalimat atau bait, dan sebelum vokal, -m tetap dipertahankan.**
-::::::
+:::
 ### 4.1.3. Sandhi dari akhiran -e
 
 
 
-:::grammar-box
-1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:**
-   z.B. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Diese Feuer"
+::: grammar-box
+1. **sebelum a- tetap -e tidak berubah: awalan a- dielisi dengan Avagraha:**
+mis. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Api-api ini"
 
 2. **Di depan vokal lain selain a- pendek, -e biasanya diganti dengan -a dengan hiatus. Penggantian dengan -ay juga terjadi:**
    mis. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (langka: imay īśvarāh = ⟪इमयीश्वराः⟫) "TUAN-TUAN ini"
@@ -100,21 +100,18 @@ Agar dapat membentuk kalimat dengan kata ganti ini (sarvanāman n.), diperlukan 
 
 
 
-:::grammar-box
+::: grammar-box
 **-d di akhir suku kata diganti dengan -t dalam jeda serta sebelum gutural tak bersuara (k, kh) dan labial (p, ph).**
 :::
 Penggantian sebelum konsonan lain akan dibahas kemudian. Hindari tabrakan bunyi seperti itu untuk sementara!
 
-:::
 ### 4.1.5. Rumus Pertanyaan
 
 Dengan kata ganti ini, misalnya, dibentuk rumus pertanyaan berikut:
 
 
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | | | |
 
@@ -132,7 +129,7 @@ Dengan kata ganti ini, misalnya, dibentuk rumus pertanyaan berikut:
 
 | | **Femininum** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
 
-:::::::
+:::
 Contoh pertanyaan lain:
 
 > viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Jawaban: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Dalam kalimat nominal, subjek dapat diletakkan di awal, misalnya, untuk menekankan kesinambungan dengan pertanyaan.)
@@ -153,7 +150,7 @@ CATATAN: Jawaban-jawaban yang dapat Anda berikan dengan pengetahuan Sanskerta An
 
 
 
-:::media
+::: media
 ![](/images/lekt0401.webp)
 (Sumber gambar: [Detail](/id/licenses#lekt0401))
 

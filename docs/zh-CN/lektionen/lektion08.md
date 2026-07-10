@@ -5,53 +5,52 @@ lesson_id: 8
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 8
 
-:::deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Die Bildung von Nomina (kṛt- und taddhita-Suffixe) <!-- TODO: Fallback translation -->
-- Wichtige Nominalsuffixe (-a, -ana, -tra, -ti, -tva, -tā) <!-- TODO: Fallback translation -->
-- Die 8. Präsensklasse (tanādi) <!-- TODO: Fallback translation -->
-- Die Konjugation von **kṛ** (tun, machen) <!-- TODO: Fallback translation -->
+::: deleteme-box
+**在本课中，您将学习：**
+- 名词（kṛt-和taddhita后缀）的构成
+- 重要的名词后缀（-a, -ana, -tra, -ti, -tva, -tā）
+- 第八类现在时（tanādi）
+- **kṛ**的变位（tun，意为“做”）
 :::
 ---
 
-## 8.1. Zur Bildung von Nomina
+## 8.1. 名词的构成
 
-In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mit denen Nominalstämme gebildet werden: <!-- TODO: Fallback translation -->
+在传统印度语法中，对于用于构成词干的后缀有如下区分：
 
-- **kṛt-Suffixe (⟪कृत्⟫) (Primärsuffixe):** bilden aus Verbalwurzeln (**dhātu** m. = ⟪धातु⟫) und Verbalstämmen Nominalstämme, Absolutiva und Infinitive. <!-- TODO: Fallback translation -->
-- **taddhita-Suffixe (⟪तद्धित⟫) (Sekundärsuffixe):** treten an Nominalstämme und Indeklinabilia und bilden neue Nominalstämme bzw. Indeklinabilia. <!-- TODO: Fallback translation -->
+- **kṛt后缀（⟪कृत्⟫）（主要后缀）：** 由动词词根（**dhātu**，阳性 = ⟪धातु⟫）和动词词干构成名词词干、绝对式和不定式。
+- **taddhita后缀（⟪तद्धित⟫）（次要后缀）：** 附加于名词词干和不变词之上，构成新的名词词干或不变词。
 
-:::grammar-box
-**Schema:**
-**Wurzel + kṛt-Suffix » Nominalstamm usw. + taddhita-Suffix » neuer Nominalstamm usw.** <!-- TODO: Fallback translation -->
+⟨STRUCT_词干_0⟩
+**模式：**
+**词根 + kṛt后缀 » 名词性词干等。+ taddhita后缀 » 新的名词性词干等。**
 
-**Nominalstamm + Kasusendung » syntaxfähiges Nomen** <!-- TODO: Fallback translation -->
-:::
+**名词性词干 + 格尾 » 可参与句法的名词**
 ---
 
 ## 8.2. Einteilung der Nominalsuffixe
 
-- **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)** <!-- TODO: Fallback translation -->
-  - **kārakakṛt** (⟪कारककृत्⟫) » nomina agentis (bezeichnen jemanden, der das durch die Wurzel Bezeichnete tut) <!-- TODO: Fallback translation -->
-  - **kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (bezeichnen die durch die Wurzel ausgedrückte Handlung) bzw. Abstrakta <!-- TODO: Fallback translation -->
+- **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
+- **kārakakṛt** (⟪कारककृत्⟫) » 施事名词（指代由词根所表示的动作的执行者）
+- **kṛtikṛt** (⟪कृतिकृत्⟫) » 动作名词（指代由词根所表达的行为）或抽象概念
 
-- **taddhita** <!-- TODO: Fallback translation -->
-  - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » Adjektive <!-- TODO: Fallback translation -->
-  - **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » Abstrakta <!-- TODO: Fallback translation -->
-  - **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » besitzanzeigend (z.B. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫) <!-- TODO: Fallback translation -->
-  - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » Steigerung (Komparativ, Superlativ), Vergleich <!-- TODO: Fallback translation -->
-  - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » Ordinalzahlen (erster usw.) <!-- TODO: Fallback translation -->
-  - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » anstelle von Kasusendungen (z.B. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫) <!-- TODO: Fallback translation -->
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-Bildungen ⟪च्वि⟫, **-sāt** -⟪सात्⟫) <!-- TODO: Fallback translation -->
+- **taddhita**
+- **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » 形容词
+- **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » 抽象概念
+- **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » 表所属（例如 **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫）
+- **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » 比较等级（比较级、最高级），比较
+- **pūraṇataddhita** (⟪पूरणतद्धित⟫) » 序数词（第一等）
+- **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » 替代格词尾（例如 **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫）
+- **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » （cvi构词 च्वि, **-sāt** -⟪सात्⟫）
 
-**Einteilung nach dem Ablaut:** <!-- TODO: Fallback translation -->
-- **guṇya** (⟪गुण्य⟫): hochstufige Bildung <!-- TODO: Fallback translation -->
-- **na guṇya** (⟪न⟫ ⟪गुण्य⟫): tiefstufige Bildung <!-- TODO: Fallback translation -->
-- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): dehnstufige Bildung <!-- TODO: Fallback translation -->
+按元音交替（Ablaut）分类：
+- **guṇya** (⟪गुण्य⟫)：强级构词
+- **na guṇya** (⟪न⟫ ⟪गुण्य⟫)：弱级构词
+- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫)：长级构词
 
 ---
 
@@ -61,252 +60,253 @@ In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mi
 
 ### 8.3.1. -a m. (kṛt)
 
-:::grammar-box
-**Das kṛt-Suffix -a bildet maskuline (seltener neutrale) Substantive, die eine Handlung oder einen Zustand bezeichnen, der durch die Wurzel bezeichnet wird; manchmal auch Adjektive oder Substantive, die den Agens (kartṛ) der von der Verbalwurzel bezeichneten Handlung ausdrücken. Für kurze Penultima (= Vokal vor Konsonant, auf den die Wurzel auslautet) oder auslautenden Wurzelvokal wird meist Hochstufe (guṇa) oder Dehnstufe (vṛddhi) substituiert.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**后缀 -a 构成阳性（偶尔中性）名词，表示由词根所指的动作或状态；有时也指代表达动词词根所指示动作的施事者（kartṛ）的形容词或名词。对于短倒数第二个音节（即词根结尾辅音前的元音）或以词根元音结尾的情况，通常替换为强级（guṇa）或长级（vṛddhi）。**
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**示例：**
 
-| Wurzel:br⟪धातु⟫ | + -a (kṛt) | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **ji** 1 P:br⟪आप्⟫:br"siegen" | **jaya** m.:br⟪जय⟫ | "das Siegen, der Sieg" | <!-- TODO: Fallback translation -->
-| **muh** 4 P:br⟪मुह्⟫:br"verwirrt sein" | **moha** m.:br⟪मोह⟫ | "Verwirrung, Verblendung, Irrtum" | <!-- TODO: Fallback translation -->
-| **krudh** 4 P:br⟪क्रुध्⟫:br"zürnen" | **krodha** m.:br⟪क्रोध⟫ | "Zorn" | <!-- TODO: Fallback translation -->
-| **kup** 4 P:br⟪कुप्⟫:br"zürnen" | **kopa** m.:br⟪कोप⟫ | "Zorn" | <!-- TODO: Fallback translation -->
-| **lubh** 4 P:br⟪लुभ्⟫:br"begehren" | **lobha** m.:br⟪लोभ⟫ | "Begierde" | <!-- TODO: Fallback translation -->
-| **labh** 1 Ā:br⟪लभ्⟫:br"bekommen" | **lābha** m.:br⟪लाभ⟫ | "das Bekommen, Gewinn" | <!-- TODO: Fallback translation -->
-| **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) | <!-- TODO: Fallback translation -->
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "das Hören" | <!-- TODO: Fallback translation -->
-| **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" | <!-- TODO: Fallback translation -->
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" | <!-- TODO: Fallback translation -->
+| 词根:br⟪धातु⟫ | + -a (kṛt) | 含义 |
+| :--- | :--- | :--- |
+| **ji** 1 P:br⟪आप्⟫:br“胜利” | **jaya** m.:br⟪जय⟫ | “胜利，得胜者” |
+| **muh** 4 P:br⟪मुह्⟫:br“困惑” | **moha** m.:br⟪मोह⟫ | “困惑，迷惑，错误” |
+| **krudh** 4 P:br⟪क्रुध्⟫:br“愤怒” | **krodha** m.:br⟪क्रोध⟫ | “愤怒” |
+| **kup** 4 P:br⟪कुप्⟫:br“愤怒” | **kopa** m.:br⟪कोप⟫ | “愤怒” |
+| **lubh** 4 P:br⟪लुभ्⟫:br“渴望” | **lobha** m.:br⟪लोभ⟫ | “欲望” |
+| **labh** 1 Ā:br⟪लभ्⟫:br“获得” | **lābha** m.:br⟪लाभ⟫ | “获得，收益” |
+| **sṛj** 6 P:br⟪सृज्⟫:br“释放，使……发出” | **sarga** m.:br⟪सर्ग⟫ | “释放，流注，创造”（关于词法 Sandhi j » g 见后文） |
+| **śru** 5 P:br⟪श्रु⟫:br“听” | **śrava** m.:br⟪श्रव⟫ | “听” |
+| **bhū** 1 P:br⟪भू⟫:br“成为，存在” | **bhāva** m.:br⟪भाव⟫ | “成为，（某物）存在，本性，性质” |
+| **yudh** 4 Ā:br⟪युध्⟫:br“战斗” | **yodha** m.:br⟪योध⟫ | “战士，士兵” |
 
 ---
 
 ### 8.3.2. -ana n. (kṛt)
 
-:::grammar-box
-**Das kṛt-Suffix -ana bildet meist neutrale Substantive, die eine Handlung, einen Zustand oder das Mittel bzw. Werkzeug bezeichnen, durch welches die von der Wurzel oder einem Verbalstamm bezeichnete Handlung zustande gebracht wird. Für eine kurze Penultima oder einen auslautenden Vokal der Wurzel wird gewöhnlich Hochstufe (guṇa) substituiert.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**后缀 -ana 通常构成中性名词，表示由词根或动词词干所指的行动、状态或通过该行动得以实现的手段/工具。对于短元音或词尾的根音节，通常替换为高一级（guṇa）。**
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**示例：**
 
-| Wurzel:br⟪धातु⟫ | + -ana (kṛt) | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gamana** n.:br⟪गमन⟫ | "das Gehen" | <!-- TODO: Fallback translation -->
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nayana** n.:br⟪नयन⟫ | "(das Werkzeug des Führens, d.h.) Auge" | <!-- TODO: Fallback translation -->
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(Hörwerkzeug =) Ohr" | <!-- TODO: Fallback translation -->
-| **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" | <!-- TODO: Fallback translation -->
-| **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "das Werden, Entstehen" | <!-- TODO: Fallback translation -->
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" | <!-- TODO: Fallback translation -->
+| 词根:br⟪धातु⟫ | + -ana (kṛt) | 含义 |
+| :--- | :--- | :--- |
+| **gam** 1 P:br⟪गम्⟫:br“走” | **gamana** n.:br⟪गमन⟫ | “行走” |
+| **nī** 1 U:br⟪नी⟫:br“引导” | **nayana** n.:br⟪नयन⟫ | “（引导的工具，即）眼睛” |
+| **śru** 5 P:br⟪श्रु⟫:br“听” | **śravaṇa** n.:br⟪श्रवण⟫ | “（听的工具 =）耳朵” |
+| **kṛ** 8 U:br⟪कृ⟫:br“做” | **kāraṇa** n.:br⟪कारण⟫ | “（使某事被做的东西，即）原因、理由” |
+| **bhū** 1 P:br⟪भू⟫:br“成为” | **bhavana** n.:br⟪भवन⟫ | “成为、产生” |
+| **dṛś** 4 P:br⟪दृश्⟫:br“看” | **darśana** n.:br⟪दर्शन⟫ | “看、观点、哲学体系、现象，特指：Darśan” |
 
-:::media
+::: media
 ![](/images/lekt0801.webp)
-Abb.: Maa Batakali Darshan, Puri, Orissa
-(Bildquelle: [Details](/licenses#lekt0801)) <!-- TODO: Fallback translation -->
-::::::
-note-box
-**"Darshan"** oder **"Darshana"** ist ein Begriff aus dem Hinduismus für die Sicht und Vision des Heiligen und Göttlichen. Unter *Darshana* wird z.B. das offizielle Treffen von Schüler und Meister verstanden, bei dem der Schüler vom Meister geladen wurde. Es kann aber auch das *sich Versenken* beim Betrachten eines Götterbildes bedeuten. Letztere Bedeutung ist diejenige, die im heutigen Sprachgebrauch des Hindi die häufigste ist. Im Zusammenhang mit Mata Amritanandamayi bedeutet Darshan die Umarmung durch den Guru. <!-- TODO: Fallback translation -->
+图：Maa Batakali Darshan，普里，奥迪沙邦
+（图片来源：[详情](/zh-CN/licenses#lekt0801)）
+:::: note-box
+**“Darshan” 或 “Darshana”** 是印度教中关于神圣和神性视野与愿景的概念。*Darshana* 例如指学生受大师邀请而进行的大师与学生之间的正式会面。它也可以表示在观看神像时“沉浸其中”。后一种含义在现代印地语的使用中最为常见。在涉及 Mata Amritanandamayi 的语境中，Darshan 意味着上师的拥抱。
 
-Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine Statue, in der die geistige Anwesenheit der Gottheit angenommen wird, zu erlangen. In diesem Sinne auch eine Segnung durch die Gottheit. Darshan kann jedoch auch durch eine Vision der Gottheit bei Gebet oder der Meditation empfangen werden. Auch eine lebendige Person, die als Inkarnation der Gottheit angesehen wird, wie z. Bsp. ein Avatara, kann Darshan geben.
-(Quelle: Wikipedia) <!-- TODO: Fallback translation -->
+虔诚的印度教徒前往寺庙，通过被视为神灵精神存在的象征或雕像来获得对神的视野。从这个意义上说，这也是神的一种祝福。然而，Darshan 也可以通过在祈祷或冥想中见到神灵而获得。此外，被视为神化身（如 Avatara）的活生生的人也可以给予 Darshan。
+（来源：维基百科）
+::::
 :::
 ---
 
 ### 8.3.3. -tra n. (kṛt)
 
-:::grammar-box
-**Das kṛt-Suffix -tra bildet (meist) neutrale Substantive, welche das Mittel oder Werkzeug bezeichnen, durch welches die von der Wurzel bezeichnete Handlung zustande kommt. Kurze Penultima und auslautender Vokal der Wurzel wird durch Hochstufe (guṇa) ersetzt.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**后缀-kṛt -tra 通常构成中性名词，表示由词根所指的行动得以实现的手段或工具。短元音的倒数第二个音节和词尾的元音通过强形式（guṇa）替换。**
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**示例：**
 
-| Wurzel:br⟪धातु⟫ | + -tra (kṛt) | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" | <!-- TODO: Fallback translation -->
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" | <!-- TODO: Fallback translation -->
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" | <!-- TODO: Fallback translation -->
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" | <!-- TODO: Fallback translation -->
+| 词根:br⟪धातु⟫ | + -tra (kṛt) | 含义 |
+| :--- | :--- | :--- |
+| **nī** 1 U:br⟪नी⟫:br“引导” | **netra** n.:br⟪नेत्र⟫ | “（引导的手段 =）眼睛” |
+| **śru** 5 P:br⟪श्रु⟫:br“听” | **śrotra** :br⟪श्रोत्र⟫ | “（听觉器官 =）耳朵” |
+| **man** 4 Ā:br⟪मन्⟫:br“思考” | **mantra** **m. (!)** :br⟪मन्त्र⟫ | “（思考工具：）咒语，‘魔法’公式（曼特罗）” |
+| **tan** 8 U:br⟪तन्⟫:br“拉伸” | **tantra** n.:br⟪तन्त्र⟫ | “经线” |
 
-:::media
-**Das Ur-Mantra Oṃ (⟪ॐ⟫) in verschiedenen indischen Schriften** <!-- TODO: Fallback translation -->
+::: media
+**原始曼特罗 Oṃ (⟪ॐ⟫) 在不同印度文献中的形式**
 
-| ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| In Devanāgarī | In Bengali Schrift | <!-- TODO: Fallback translation -->
-| ![](/images/lekt0802.jpg) | ![](/images/lekt0804.jpg) | <!-- TODO: Fallback translation -->
-| In Kannaresischer Schrift | In Tamil-Schrift | <!-- TODO: Fallback translation -->
-| ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) | <!-- TODO: Fallback translation -->
-| In Malayalam-Schrift | Jaina-Oṃ | <!-- TODO: Fallback translation -->
-(Bildquellen: [Details](/licenses#lekt0803)) <!-- TODO: Fallback translation -->
+| ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) |
+| :---: | :---: |
+| In Devanāgarī | In Bengali Schrift |
+| ![](/images/lekt0802.jpg) | ![](/images/lekt0804.jpg) |
+| 在卡纳达文字中 | 在泰米尔文字中 |
+| ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
+| In Malayalam-Schrift | Jaina-Oṃ |
+（图片来源：[详情](/zh-CN/licenses#lekt0803)）
 :::
 ---
 
 ### 8.3.4. -ti f. (kṛt)
 
-:::grammar-box
-**Das kṛt-Suffix -ti bildet feminine Substantive, die im Allgemeinen die von der Wurzel bezeichnete Handlung oder den von der Wurzel bezeichneten Zustand ausdrückt. Die Form der Wurzel ist tiefstufig.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**后缀 -ti 构成阴性名词，通常表示由词根所指的动作或状态。词根的形态为弱级（guṇa 之前的低等级，即 zero-grade）。**
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**示例：**
 
-| Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śruti** f.:br⟪श्रुति⟫ | "das Hören, der Veda" | <!-- TODO: Fallback translation -->
-| **smṛ** 1 P:br⟪स्मृ⟫:br"vergegenwärtigen" | **smṛti** f.:br⟪स्मृति⟫ | "Das Vergegenwärtigen, Erinnerung, Überlieferung, Achtsamkeit" | <!-- TODO: Fallback translation -->
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nīti** f.:br⟪नीति⟫ | "das Führen, Führung, Betragen" | <!-- TODO: Fallback translation -->
-| **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanation, Schöpfung" | <!-- TODO: Fallback translation -->
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" | <!-- TODO: Fallback translation -->
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) | <!-- TODO: Fallback translation -->
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) | <!-- TODO: Fallback translation -->
+| 词根: br⟪धातु⟫ | + -ti (kṛt) | 含义 |
+| :--- | :--- | :--- |
+| **śru** 5 P:br⟪श्रु⟫:br“听” | **śruti** f.:br⟪श्रुति⟫ | “听，吠陀” |
+| **smṛ** 1 P:br⟪स्मृ⟫:br“回忆” | **smṛti** f.:br⟪स्मृति⟫ | “回忆，记忆，传承，正念” |
+| **nī** 1 U:br⟪नी⟫:br“引导” | **nīti** f.:br⟪नीति⟫ | “引导，领导，行为” |
+| **sṛj** 6 P:br⟪सृज्⟫:br“发出，流注” | **sṛṣṭi** f.:br⟪सृष्टि⟫ | “流注，创造” |
+| **dṛś** 4 P:br⟪दृश्⟫:br“看” | **dṛṣṭi** f.:br⟪दृष्टि⟫ | “视，面，见解” |
+| **gam** 1 P:br⟪गम्⟫:br“走” | **gati** f.:br⟪गति⟫ | “行走，轨道，目标”（源自 *gm » ga + -ti）|
+| **man** 4 Ā:br⟪मन्⟫:br“思考” | **mati** f.:br⟪मति⟫ | “思考，想法，意见”（源自 *mn » ma + -ti）|
 
-*Anmerkung: \* vor einer Form bedeutet, dass diese Form im Sanskrit nicht vorkommt, sondern theoretisch erschlossen ist als Voraussetzung für eine bestimmte Bildung. Die Tiefstufe von **gam** ist gṃ = \*gm, das m wird als sogenannte nasalis sonans durch **a** ersetzt » **ga**. Analoges gilt für **man** » **ma**. <!-- TODO: Fallback translation -->
+*注：形式前的 \* 表示该形式在梵语中不存在，而是作为特定构词的前提理论上推导出来的。**gam** 的弱级形式是 gṃ = \*gm，其中的 m 作为响鼻音（nasalis sonans）被 **a** 取代 » **ga**。**man** » **ma** 同理。
 
 ---
 
 ### 8.3.5. -tva n., -tā f. (taddhita)
 
-:::grammar-box
-**Die taddhita-Suffixe -tva n. bzw. -tā f. bilden abstrakte Substantive zu Nomina. Die Form des zugrundeliegenden Nominalstamms bleibt unverändert.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**taddhita后缀 -tva（中性）和 -tā（阴性）用于从名词派生抽象名词。底层名词词干的形态保持不变。**
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**示例：**
 
-| Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen oder Natur eines Lehrers)" | <!-- TODO: Fallback translation -->
-| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" | <!-- TODO: Fallback translation -->
-| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" | <!-- TODO: Fallback translation -->
+| 名词词干：br⟪नामप्रातिपदिक⟫ | + -tva（中性）：br（taddhita） | + -tā（阴性）：br（taddhita） | 含义 |
+| :--- | :--- | :--- | :--- |
+| **guru**：br⟪गुरु⟫：br3“沉重，值得尊敬的”；brm. “导师” | **gurutva**（中性）：br⟪गुरुत्व⟫ | **gurutā**（阴性）：br⟪गुरुता⟫ | “沉重，庄严”；br“作为教师的身份（教师本质或性质）” |
+| **brāhmaṇa**：br⟪ब्राह्मण⟫：brm. “婆罗门” | **brāhmaṇatva**（中性）：br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā**（阴性）：br⟪ब्राह्मणता⟫ | “婆罗门的状态”；br“使某人成为婆罗门的因素”；br“婆罗门的本质/性质” |
+| **deva**：br⟪देव⟫：brm. “天神，神” | — | **devatā**（阴性）：br⟪देवता⟫ | “神性” |
 
-Diese Bildungen können praktisch zu jedem Nomen gebildet werden und sind in wissenschaftlichen Sanskritwerken sehr häufig. <!-- TODO: Fallback translation -->
+这些构词形式几乎可以应用于任何名词，在科学 Sanskrit 著作中非常常见。
 
 ---
 
 ## 8.4. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.")
 
-:::grammar-box
-**Stammbildung:** <!-- TODO: Fallback translation -->
-- **Starker Stamm: Wurzel + -o-** <!-- TODO: Fallback translation -->
-- **Schwacher Stamm: Wurzel + -u- (vor Vokal: -v-)** <!-- TODO: Fallback translation -->
+::: grammar-box
+**词干构成：**
+- **强词干：词根 + -o-**
+- **弱词干：词根 + -u-（元音前为 -v-）**
 
-Beispiel **tan** 8 U (⟪तन्⟫) "dehnen": <!-- TODO: Fallback translation -->
-- 3\. sg. P. **tanoti** :br⟪तनोति⟫ <!-- TODO: Fallback translation -->
-- 3\. pl. P. **tanvanti** :br⟪तन्वन्ति⟫ <!-- TODO: Fallback translation -->
-- 3\. sg. Ā. **tanute** :br⟪तनुते⟫ <!-- TODO: Fallback translation -->
-- 3\. pl. Ā. **tanvate** :br⟪तन्वते⟫ <!-- TODO: Fallback translation -->
+示例 **tan** 第8类主动态 (⟪तन्⟫) “伸展”：
+- 第三人称单数现在时主动态 **tanoti** :br⟪तनोति⟫
+- 第三人称复数现在时主动态 **tanvanti** :br⟪तन्वन्ति⟫
+- 第三人称单数现在时中动态 **tanute** :br⟪तनुते⟫
+- 第三人称复数现在时中动态 **tanvate** :br⟪तन्वते⟫
 :::
-Anmerkung: Zum Streit, ob **tan** eigentlich eine Wurzel der 5. Klasse ist (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265. <!-- TODO: Fallback translation -->
+注：关于 **tan** 是否本质上属于第5类词根（*tn » ta + no-）的争议，参见 Thumb-Hauschild《梵语手册》第二卷，第265页。
 
-Die wichtigste Wurzel der 8. Klasse ist **kṛ** 8 U (⟪कृ⟫) "tun, machen". Ihre Konjugation ist unregelmäßig: <!-- TODO: Fallback translation -->
+第8类最重要的词根是 **kṛ** 第8类主动态 (⟪कृ⟫) “做，制作”。其变位不规则：
 
-:::grammar-box
-**kṛ 8 U (⟪कृ⟫) "machen, tun"** <!-- TODO: Fallback translation -->
-- 3\. sg. P. **karoti** :br⟪करोति⟫ <!-- TODO: Fallback translation -->
-- 3\. pl. P. **kurvanti** :br⟪कुर्वन्ति⟫ <!-- TODO: Fallback translation -->
-- 3\. sg. Ā. **kurute** :br⟪कुरुते⟫ <!-- TODO: Fallback translation -->
-- 3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫ <!-- TODO: Fallback translation -->
+::: grammar-box
+**kṛ 第8类主动态 (⟪कृ⟫) “制作，做”**
+- 第三人称单数现在时主动态 **karoti** :br⟪करोति⟫
+- 第三人称复数现在时主动态 **kurvanti** :br⟪कुर्वन्ति⟫
+- 第三人称单数现在时中动态 **kurute** :br⟪कुरुते⟫
+- 第三人称复数现在时中动态 **kurvate** :br⟪कुर्वते⟫
 :::
 ---
 
 ## 8.5. Wortliste
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**学习以下词汇：**
 
-- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : siegen, besiegen, ersiegen <!-- TODO: Fallback translation -->
-- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : fassen, erhalten, ergreifen <!-- TODO: Fallback translation -->
-- **tu** ⟪तु⟫ : aber (steht nach dem ersten Wort des entgegengesetzten Satzes oder Satzteils) <!-- TODO: Fallback translation -->
-- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : sehen, erblicken (wird als Präsensstamm statt der Wurzel **dṛś** 0 "sehen, erblicken" verwendet) <!-- TODO: Fallback translation -->
-- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : machen, tun <!-- TODO: Fallback translation -->
-- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : dehnen <!-- TODO: Fallback translation -->
-- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : hüten <!-- TODO: Fallback translation -->
-- **sārathi** m. ⟪सारथि⟫ : Wagenlenker, Fuhrmann <!-- TODO: Fallback translation -->
-- **kapi** m. ⟪कपि⟫ : Affe <!-- TODO: Fallback translation -->
-- **kumārī** f. ⟪कुमारी⟫ : das Mädchen, die Jungfrau <!-- TODO: Fallback translation -->
-- **nāga** m. ⟪नाग⟫ : der Nackte, der Elefant, die Schlange (Elefant und Schlange haben kein Fell, ebenso wie der "nackte Affe" Mensch) <!-- TODO: Fallback translation -->
-- **gaja** m. ⟪गज⟫ : Elefant <!-- TODO: Fallback translation -->
-- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : trauern <!-- TODO: Fallback translation -->
-- **śuka** m. ⟪शुक⟫ : Papagei <!-- TODO: Fallback translation -->
-- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : fallen, fliegen <!-- TODO: Fallback translation -->
-- **patrikā** f. ⟪पत्रिका⟫ : Brief <!-- TODO: Fallback translation -->
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : ritzen, schreiben (ursprünglich mit dem Stichel auf einem Palmblatt, dann aber allgemein) <!-- TODO: Fallback translation -->
+- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : 胜利，战胜
+- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : 获得，得到
+- **tu** ⟪तु⟫ : 但是（位于相反分句或句子部分的第一个词之后）
+- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : 看，看见（此处用作现在时词干，替代词根 **dṛś** 0 “看，看见”）
+- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : 做，制作
+- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : 伸展
+- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : 保护
+- **sārathi** m. ⟪सारथि⟫ : 御者，车夫
+- **kapi** m. ⟪कपि⟫ : 猴子
+- **kumārī** f. ⟪कुमारी⟫ : 女孩，少女
+- **nāga** m. ⟪नाग⟫ : 裸体者，大象，蛇（大象和蛇都没有皮毛，正如“无毛的猴子”人类一样）
+- **gaja** m. ⟪गज⟫ : 大象
+- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : 哀悼
+- **śuka** m. ⟪शुक⟫ : 鹦鹉
+- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : 落下，飞行
+- **patrikā** f. ⟪पत्रिका⟫ : 信
+- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : 刻写，书写（最初是用尖笔在棕榈叶上刻写，后来泛指）
 
-:::media
+::: media
 ![](/images/lekt0809.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter
-(Bildquelle: [Details](/licenses#lekt0809)) <!-- TODO: Fallback translation -->
-::::::media
+图：**likh** (⟪लिख्⟫) ：用于在棕榈叶上刻写的钢制印度书写尖笔
+（图片来源：[详情](/zh-CN/licenses#lekt0809)）
+:::: media
 ![](/images/lekt0810.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war
-(Bildquelle: [Details](/licenses#lekt0809)) <!-- TODO: Fallback translation -->
+图：**likh** (⟪लिख्⟫) ：巴塔克人（苏门答腊）使用的书写木棍，推测在印度也曾使用
+（图片来源：[详情](/zh-CN/licenses#lekt0809)）
+::::
 :::
-- **sukha** n. ⟪सुख⟫ : Glück, Wohlsein <!-- TODO: Fallback translation -->
-- **duḥkha** n. ⟪दुःख⟫ : Unglück, Leid <!-- TODO: Fallback translation -->
+- **sukha** n. ⟪सुख⟫ : 幸福，安乐
+- **duḥkha** n. ⟪दुःख⟫ : 不幸，痛苦
 
 ---
 
 ## 8.6. Übung
 
-**A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:** <!-- TODO: Fallback translation -->
-1. lobha <!-- TODO: Fallback translation -->
-2. rakṣa <!-- TODO: Fallback translation -->
-3. śrotra <!-- TODO: Fallback translation -->
-4. mati <!-- TODO: Fallback translation -->
-5. savana <!-- TODO: Fallback translation -->
-6. yodha <!-- TODO: Fallback translation -->
-7. lābha <!-- TODO: Fallback translation -->
-8. kāraṇa <!-- TODO: Fallback translation -->
-9. gati <!-- TODO: Fallback translation -->
-10. khādana <!-- TODO: Fallback translation -->
-11. smara <!-- TODO: Fallback translation -->
-12. sṛṣṭi <!-- TODO: Fallback translation -->
-13. tantra <!-- TODO: Fallback translation -->
-14. bhāva <!-- TODO: Fallback translation -->
-15. darśana <!-- TODO: Fallback translation -->
-16. netra <!-- TODO: Fallback translation -->
-17. veśana <!-- TODO: Fallback translation -->
-18. kopa <!-- TODO: Fallback translation -->
-19. sarga <!-- TODO: Fallback translation -->
-20. yajana <!-- TODO: Fallback translation -->
-21. moha <!-- TODO: Fallback translation -->
-22. śrava <!-- TODO: Fallback translation -->
-23. bhavana <!-- TODO: Fallback translation -->
-24. nīti <!-- TODO: Fallback translation -->
-25. nartana <!-- TODO: Fallback translation -->
-26. jaya <!-- TODO: Fallback translation -->
-27. nayana <!-- TODO: Fallback translation -->
-28. śravaṇa <!-- TODO: Fallback translation -->
+**A) 解释以下名词，需指出其词根、派生出的后缀，并说明性别与含义：**
+1. lobha
+2. rakṣa
+3. śrotra
+4. mati
+5. savana
+6. yodha
+7. lābha
+8. kāraṇa
+9. gati
+10. khādana
+11. smara
+12. sṛṣṭi
+13. tantra
+14. bhāva
+15. darśana
+16. netra
+17. veśana
+18. kopa
+19. sarga
+20. yajana
+21. moha
+22. śrava
+23. bhavana
+24. nīti
+25. nartana
+26. jaya
+27. nayana
+28. śravaṇa
 
-**B) Bilden Sie Abstrakta zu allen bisher gelernten Nomina und überlegen Sie deren Bedeutung (mündlich).** <!-- TODO: Fallback translation -->
+**B) 为所有已学名词构成抽象名词，并思考其含义（口头练习）。**
 
-**C) Setzen Sie als direktes Objekt im Singular und Plural ein:** <!-- TODO: Fallback translation -->
-- kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā) <!-- TODO: Fallback translation -->
+**C) 以单数和复数形式作直接宾语填入：**
+- kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
-**D) Übersetzen Sie:** <!-- TODO: Fallback translation -->
-1. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
-2. Ein heiliger Mann sieht sowohl Himmel als auch Höllen. <!-- TODO: Fallback translation -->
-3. Er besiegt Kṣatriyas. <!-- TODO: Fallback translation -->
-4. Sie spannt die Webkette auf. <!-- TODO: Fallback translation -->
-5. Soldaten kämpfen. <!-- TODO: Fallback translation -->
-6. Der Brahmane macht ein Feuer. <!-- TODO: Fallback translation -->
-7. Brahmanen machen Feuer. <!-- TODO: Fallback translation -->
-8. Was tun diese Kämpfer? <!-- TODO: Fallback translation -->
-9. Wen sieht das Auge? <!-- TODO: Fallback translation -->
-10. Was begehren Götter? <!-- TODO: Fallback translation -->
-11. Was ist der Grund? <!-- TODO: Fallback translation -->
+**D) 翻译：**
+1. Kṣatriyas 既保护 Brahmanen，也保护 Vaiśyas 和 Śūdras。（两种可能）
+2. 一位圣者既看见天堂，也看见地狱。
+3. 他击败 Kṣatriyas。
+4. 她织上经线。
+5. 士兵们战斗。
+6. Brahmane 生火。
+7. Brahmanen 生火。
+8. 这些战士在做什么？
+9. 眼睛看见什么？
+10. Götter 渴望什么？
+11. 原因是什么？
 
 ---
 
 ## 8.7. Lese- und Übersetzungsübung
 
-1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ | <!-- TODO: Fallback translation -->
-2. ⟪कविर्देवं⟫ ⟪यजते⟫ | <!-- TODO: Fallback translation -->
-3. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ | <!-- TODO: Fallback translation -->
-4. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ | <!-- TODO: Fallback translation -->
-5. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ | <!-- TODO: Fallback translation -->
-6. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ | <!-- TODO: Fallback translation -->
-7. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ | <!-- TODO: Fallback translation -->
-8. ⟪देवतां⟫ ⟪यजति⟫ | <!-- TODO: Fallback translation -->
-9. ⟪बाला⟫ ⟪भवति⟫ | <!-- TODO: Fallback translation -->
-10. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ | <!-- TODO: Fallback translation -->
-11. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ | <!-- TODO: Fallback translation -->
-12. ⟪बाला⟫ ⟪लिखति⟫ | <!-- TODO: Fallback translation -->
-13. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ | <!-- TODO: Fallback translation -->
-14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ | <!-- TODO: Fallback translation -->
-15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ | <!-- TODO: Fallback translation -->
-16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Eigenname Vimalā) <!-- TODO: Fallback translation -->
-17. ⟪शुकः⟫ ⟪पतति⟫ | <!-- TODO: Fallback translation -->
-18. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ | <!-- TODO: Fallback translation -->
+1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
+2. ⟪कविर्देवं⟫ ⟪यजते⟫ |
+3. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
+4. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
+5. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
+6. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
+7. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
+8. ⟪देवतां⟫ ⟪यजति⟫ |
+9. ⟪बाला⟫ ⟪भवति⟫ |
+10. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
+11. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
+12. ⟪बाला⟫ ⟪लिखति⟫ |
+13. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
+14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
+15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
+16. ⟪विमला⟫ ⟪शोचति⟫ |（⟪विमला⟩ 人名 Vimalā）
+17. ⟪शुकः⟫ ⟪पतति⟫ |
+18. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |

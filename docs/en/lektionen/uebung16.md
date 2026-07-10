@@ -34,7 +34,7 @@ A) Convert the following expressions into Tatpuruṣa compounds and translate th
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫ — ⟪देवस्तुतिः⟫
 
-B) Resolve the compounds in the following sentences into Sanskrit, thereby forming sentences with inflected nouns, and translate them:
+B) Resolve the compounds in the following sentences into Sanskrit, form sentences with inflected nouns, and translate them:
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
 ⟪पुण्यवान्वैश्यस्य⟫ ⟪पुत्रो⟫ ⟪देवानामिन्द्रस्य⟫ ⟪लोकं⟫ ⟪गच्छति⟫ ⟪।⟫ (or: ⟪पुण्यवतो⟫ ⟪वैश्यस्य⟫ ⟪पुत्रो⟫...)
@@ -50,11 +50,11 @@ The greed of the man rich in cattle for cows / for the cow is not good.
 
 ⟪४⟫. ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मयज्ञैस्तु⟫ ⟪स्वर्गसुखमाप्नुवन्ति⟫ ⟪।⟫
 ⟪न⟫ ⟪पशूनां⟫ ⟪यज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मस्य⟫ ⟪यज्ञैस्तु⟫ ⟪स्वर्गस्य⟫ ⟪सुखमाप्नुवन्ति⟫ ⟪।⟫
-With animal sacrifices people do not go to heaven. With (non-bloody) sacrifices of justice, however, they attain heavenly bliss.
+With animal sacrifices people do not go to heaven. With (non-violent) sacrifices of righteousness, however, they attain heavenly bliss.
 
 ⟪५⟫. ⟪द्विजदासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
 ⟪द्विजानां⟫ ⟪दासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
-Śūdras are called slaves of the twice-born.
+Śūdras nennt man Sklaven der Zweimalgeborenen.
 
 ⟪६⟫. ⟪बालब्राह्मणपुत्राः⟫ ⟪सत्यवन्नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
 ⟪बा्ला⟫ ⟪ब्राह्मणानां⟫ ⟪पुत्राः⟫ ⟪स्त्यवन्तं⟫ ⟪नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
@@ -76,10 +76,10 @@ The strong warriors have gone to the Brahmana village.
 ⟪पुन्यवतो⟫ ⟪वैश्यस्येष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजां⟫ ⟪करोति⟫ ⟪।⟫
 He venerates the personal deity of the meritorious Vaiśya.
 
-:::media
+::: media
 ![](/images/uebung023.webp)
 Fig.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
-(Image source: [Details](/en/licenses#uebung023))
+(Image source: [Details](/licenses#uebung023))
 :::
 ---
 
@@ -87,7 +87,7 @@ Fig.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर
 
 A) Form all previously learned cases for the following words as examples of the declension classes learned so far.
 
-:::grammar-box
+::: grammar-box
 ⟪१⟫. **⟪नर⟫** (m.)
 
 | Case | Singular | Plural |
@@ -186,15 +186,15 @@ A) Form all previously learned cases for the following words as examples of the 
 
 | Case | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
+
 | 1. Nom. | ⟪कस्⟫ (⟪कः⟫) | ⟪किम्⟫ | ⟪का⟫ | ⟪के⟫ | ⟪कानि⟫ | ⟪कास्⟫ (⟪काः⟫) |
-| 2. Acc. | ⟪कम्⟫ | ⟪किम्⟫ | ⟪काम्⟫ | ⟪कान्⟫ | ⟪कानि⟫ | ⟪कास्⟫ (⟪काः⟫) |
+| 2. Akk. | ⟪कम्⟫ | ⟪किम्⟫ | ⟪काम्⟫ | ⟪कान्⟫ | ⟪कानि⟫ | ⟪कास्⟫ (⟪काः⟫) |
 | 3. Instr. | ⟪केन⟫ | — | ⟪कया⟫ | — | — | ⟪काभिस्⟫ (⟪काभिः⟫) |
 | 6. Gen. | ⟪कस्य⟫ | — | ⟪कस्यास्⟫ (⟪कस्याः⟫) | ⟪केषाम्⟫ | — | ⟪कासाम्⟫ |
 
 ⟪११⟫. **⟪तद्⟫** (m./n./f.)
 
 | Case | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
-
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. Nom. | ⟪स⟫ / ⟪सो⟫ / ⟪सः⟫ | ⟪तद्⟫ | ⟪सा⟫ | ⟪ते⟫ | ⟪तानि⟫ | ⟪तास्⟫ (⟪ताः⟫) |
 | 2. Akk. | ⟪तम्⟫ | ⟪तद्⟫ | ⟪ताम्⟫ | ⟪तान्⟫ | ⟪तानि⟫ | ⟪तास्⟫ (⟪ताः⟫) |
@@ -223,42 +223,42 @@ A) Form all previously learned cases for the following words as examples of the 
 
 ## Additional Exercises
 
-B) Translate and resolve all compounds in Sanskrit:
+B) Translate and resolve all compounds into Sanskrit:
 
 ⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪१⟫.⟪२⟫ ⟪॥⟫
 ⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ (or: ⟪वृत्तीनां⟫ ⟪निरोधः⟫) ⟪।⟫
 Yoga is the cessation of mental activity.
 
 ⟪२⟫. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫
-The specific duty of a Brāhmaṇa is: study of the Vedas, teaching the Vedas, performing sacrifices as the patron, performing sacrifices on behalf of others, giving gifts to Brāhmaṇas, receiving gifts.
+The specific duty of the Brāhmaṇa is: study of the Vedas, teaching the Vedas, performing sacrifices as the patron, performing sacrifices on behalf of others, giving gifts to Brāhmaṇas, receiving gifts.
 
 ⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शस्त्राजीवो⟫ ⟪भूतरक्षणं⟫ ⟪च⟫ ⟪॥६॥⟫
 ⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शास्त्रेणाजीवो⟫ ⟪भूतानां⟫ ⟪रक्षणं⟫ ⟪च्⟫ ⟪।⟫
-The specific duty of a Kṣatriya is: study of the Vedas, performing sacrifices as the patron, giving gifts to Brāhmaṇas, earning a living by the sword, protecting living beings.
+The specific duty of a Kṣatriya is: study of the Vedas, performing sacrifices as the patron, giving gifts to Brāhmaṇas, earning a livelihood by the sword, protecting living beings.
 
 ⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिपाशुपाल्ये⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪॥७॥⟫
 ⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪च⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪।⟫
-The specific duty of a Vaiśya is: study of the Vedas, performing sacrifices as the patron, giving gifts to Brāhmaṇas, agriculture and animal husbandry, trade.
+The specific duty of a Vaiśya is: study of the Vedas, performing sacrifices as the patron, giving gifts to Brāhmaṇas, agriculture and cattle-rearing, trade.
 
 ⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥८॥⟫
 ⟪शुड्रस्य⟫ ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारूणां⟫ ⟪कुशीलवानां⟫ ⟪च⟫ ⟪कर्म⟫ ⟪।⟫
-The specific duty of a Śūdra is obedient service to the twice-born, economic activity, and activity as an artisan and showman.
+The specific duty of a Śūdra is obedient service to the Twice-born, economic activity, and work as an artisan and entertainer.
 
 ⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫
 The duty of all is: non-violence, truthfulness, purity, not murmuring about one's lot, freedom from malice, and patient forbearance.
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-:::deleteme-box Explanations
+::: deleteme-box Erklärungen
 Sentence 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nom. Acc.: Dvandva, denoting the two "things"
-Sentence 8: **⟪कर्म⟫** Nom., Acc. sg. Neuter to ⟪कर्मन्⟫ "action"
-Sentence 13: **⟪सर्वेषाम्⟫** Gen. pl. masc. to ⟪सर्व⟫ "each, all" (pronoun, declined not like deva)
+Sentence 8: **⟪कर्म⟫** Nom., Acc. sg. Neuter to ⟪कर्मन्⟫ "act"
+Sentence 13: **⟪सर्वेषाम्⟫** Gen. pl. masc. to ⟪सर्व⟫ "each, all" (pronoun, not declined like deva)
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
-The staff produces acquisition and secure possession of philosophy, Vedic studies, and economics. The wielding of the staff is politics.
+The staff brings about the acquisition and secure possession of philosophy, Vedic studies, and economics. The handling of the staff is politics.
 
-:::media
+::: media
 ![](/images/uebung024.webp)
 Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
-(Image source: [Details](/en/licenses#uebung024))
+(Image source: [Details](/licenses#uebung024))
 :::

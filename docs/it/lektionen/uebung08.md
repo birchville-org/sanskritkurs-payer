@@ -139,7 +139,7 @@ kiṃ kāraṇam?
 
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung007.webp)
 Fig.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung007))
@@ -202,7 +202,7 @@ Il pappagallo vola.
 18\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
 Il ragazzo scrive una lettera.
 
-:::media
+::: media
 ![](/images/uebung008.webp)
 Fig.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung008))

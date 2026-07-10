@@ -120,7 +120,7 @@ Die vedischen Weisen sehen, dass der Dämon auf keinen Fall siegt.
 Was essen und trinken Brahmanen?
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung019.webp)
 Abb.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#uebung019))
@@ -193,7 +193,7 @@ Welchen Göttern opfern Brahmanen, Katriyas und Vaśyas?
 
 D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an:
 
-1. -a vor Vokal (außer a-): -as
+1. -a vor Vokal (ausser a-): -as
 2. -ā- : -a + -a/-ā -ā + a-/ā-
 3. -ā vor Vokal: -ās
 4. -ā vor stimmhaften Konsonanten: -ās
@@ -268,7 +268,7 @@ E) Übersetzen Sie ins Sanskrit:
 11\. Die Opferpriester haben den Soma gepresst.
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung018.webp)
 Abb.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#uebung018))

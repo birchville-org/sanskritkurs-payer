@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercițiul 59
 
-:::media
+::: media
 ![](/images/uebung098.webp)
 Fig.: ⟪रावणः⟫
 (Sursă imagine: [Detalii](/licenses#uebung098))
@@ -211,7 +211,7 @@ Text extras din: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 > ⟪अकृथास्⟫ - ⟪कृ⟫ Aor. 4/1  
 > ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ Caus. Aor. 3
 
-::::media
+::: media
 ![](/images/uebung099.webp)
 Fig.: ⟪रामस्य⟫ ⟪रावणेन⟫ ⟪युद्धः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung099))

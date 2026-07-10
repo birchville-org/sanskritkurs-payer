@@ -5,503 +5,519 @@ lesson_id: 37
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 37
 
 ## 37.1. Das Adverb (⟪क्रियाविशेषणम्⟫)
 
-Adverbien werden im Sanskrit gebildet <!-- TODO: Fallback translation -->
+副词在梵语中构成
 
-1.  durch Kasusformen von Nomina und Pronomina <!-- TODO: Fallback translation -->
-2.  mit Hilfe besonderer Suffixe und Endungen <!-- TODO: Fallback translation -->
+1. 通过名词和代词的格形式
+2. 借助特殊的后缀和词尾
 
-Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fließend. Hierzu gehören als Sonderfall die Adverbien, die erstarrte, alte Kasusformen sind, während in der Deklination andere Formen gebraucht werden bzw. die entsprechenden Nomina nicht mehr als Nomina gebraucht werden. <!-- TODO: Fallback translation -->
+在第一种情况下，活用的格形式与副词之间的界限是流动的。其中包括作为特例的副词，它们是凝固的、古老的格形式；而在变格中则使用其他形式，或者相应的名词不再作为名词使用。
 
-## 37.2. Adverbialer Gebrauch von Kasusformen
+## 37.2. 格形式的副词用法
 
 ### 37.2.1. Akkusativ (⟪द्वितीया⟫)
 
-::::grammar-box
-Der Akkusativ (⟪द्वितीया⟫) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
+::: grammar-box
+宾格（⟪द्वितीया⟫）可作副词用法，用于回答以下问题：
 
-*   in welcher Weise? <!-- TODO: Fallback translation -->
-*   wie lange? <!-- TODO: Fallback translation -->
-*   wohin? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   以何种方式？
+*   持续多久？
+*   去往何处？
+*   等等。
 
-Adverbial gebraucht werden kann der Akkusativ: <!-- TODO: Fallback translation -->
+宾格可作副词用法的情况包括：
 
-*   von Substantiven   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪कामम्⟫ "wunschgemäß, nach Wunsch"  
-    ⟪अर्थम्⟫ "wegen"   <!-- TODO: Fallback translation -->
+*   名词
+例如：  
+⟪कामम्⟫ “如愿地，依意愿”  
+⟪अर्थम्⟫ “因为，由于”
 
-*   von Adjektiven im Neutrum   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪सुखम्⟫ "leicht, glücklich"  
-    ⟪नित्यम्⟫ "stets"  
-    ⟪साधु⟫ "richtig, gut"   <!-- TODO: Fallback translation -->
+*   来自中性形容词
+例如：  
+⟪सुखम्⟫ “容易，幸福”  
+⟪नित्यम्⟫ “总是”  
+⟪साधु⟫ “正确，好”
 
-*   von Pronomina im Neutrum   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪तद्⟫ "dann, darum"  
-    ⟪यद्⟫ "wenn, dass"  
-    ⟪एतद्⟫ "so, hier, jetzt" <!-- TODO: Fallback translation -->
+*   来自中性代词
+例如：  
+⟪तद्⟫ “那么，因此”  
+⟪यद्⟫ “如果，即”  
+⟪एतद्⟫ “如此，这里，现在”
 :::
-### 37.2.2. Instrumentalis (⟪तृतीया⟫)
+### 37.2.2. 工具格（⟪तृतीया⟫）
 
-::::grammar-box
-Der Instrumentalis (⟪तृतीया⟫) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
+::: grammar-box
+工具格（⟪तृतीया⟫）可以作副词使用，回答以下问题：
 
-*   wodurch? <!-- TODO: Fallback translation -->
-*   womit? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   通过什么？
+*   用什么？
+*   等等。
 
-Adverbial gebraucht werden kann der Instrumentalis: <!-- TODO: Fallback translation -->
+工具格可用作状语：
 
-*   von Substantiven   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪अर्थेन⟫ "wegen"  
-    ⟪क्षणेन⟫ "im Augenblick, sofort" (von ⟪क्षण⟫ m. "Augenblick")   <!-- TODO: Fallback translation -->
+*   来自名词
+示例：  
+⟪अर्थेन⟫ “因为”
+⟪क्षणेन⟫ “此刻，立即”（源自 ⟪क्षण⟫ m. “时刻”）
 
-*   von Adjektiven, oft auch in der Pluralform   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪दूरेण⟫ "fern, aus der Ferne" (zu ⟪दूर⟫ 3 "fern, weit von")  
-    ⟪उच्चैस्⟫ "hoch, laut" (zu ⟪उच्च⟫ 3 "hoch, erhöht, laut, schrill (von Stimme)") <!-- TODO: Fallback translation -->
+*   来自形容词，常以复数形式出现
+示例：  
+⟪दूरेण⟫ “遥远，从远处”（源自 ⟪दूर⟫ 3 “遥远，远离”）
+⟪उच्चैस्⟫ “高，大声”（源自 ⟪उच्च⟫ 3 “高，升高，大声，尖锐（指声音）”）
 :::
-### 37.2.3. Dativ (⟪चतुर्थी⟫)
+### 37.2.3. 与格（⟪चतुर्थी⟫）
 
-::::grammar-box
-Selten wird der Dativ (⟪चतुर्थी⟫) adverbial gebraucht auf die Fragen: <!-- TODO: Fallback translation -->
+::: grammar-box
+与格（⟪चतुर्थी⟫）偶尔用作状语，回答以下问题：
 
-*   zu welchem Zweck? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   为了什么目的？
+*   等等。
 
-Beispiel: <!-- TODO: Fallback translation -->
-:::indent
-⟪अर्थाय⟫ "zum Zweck von, um ... willen" <!-- TODO: Fallback translation -->
-::::::
-### 37.2.4. Ablativ (⟪पञ्चमी⟫)
-
-::::grammar-box
-Der Ablativ (⟪पञ्चमी⟫) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
-
-*   warum? <!-- TODO: Fallback translation -->
-*   aufgrund wessen? <!-- TODO: Fallback translation -->
-*   woher? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
-
-Adverbial gebraucht werden kann der Ablativ: <!-- TODO: Fallback translation -->
-
-*   von Substantiven   <!-- TODO: Fallback translation -->
-    z.B. ⟪बलात्⟫ "gewaltsam, mit Gewalt"   <!-- TODO: Fallback translation -->
-
-*   von Adjektiven   <!-- TODO: Fallback translation -->
-    z.B. ⟪दूरात्⟫ "von fern"   <!-- TODO: Fallback translation -->
-
-*   von Pronomina   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪कस्मात्⟫ "warum"  
-    ⟪अकस्मात्⟫ "unerwartet" <!-- TODO: Fallback translation -->
+示例：
 :::
-### 37.2.5. Genetiv (⟪षष्ठी⟫)
-
-::::grammar-box
-Selten wird der Genetiv (⟪षष्ठी⟫) adverbial gebraucht auf die Frage "nach wie langer Zeit?" <!-- TODO: Fallback translation -->
-
-z.B. ⟪चिरस्य⟫ "nach langer Zeit" (zu ⟪चिर⟫ 3 "lang (Zeit)") <!-- TODO: Fallback translation -->
+::: indent
+⟪अर्थाय⟫ “为了……的目的，出于……的原因”
 :::
-### 37.2.6. Lokativ (⟪सप्तमी⟫)
+### 37.2.4. 离格（⟪पञ्चमी⟫）
 
-::::grammar-box
-Der Lokativ (⟪सप्तमी⟫) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
+::: grammar-box
+离格（⟪पञ्चमी⟫）可以作副词用法，回答以下问题：
 
-*   wo? <!-- TODO: Fallback translation -->
-*   unter welchen Umständen? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   为什么？
+*   基于什么原因？
+*   从哪里来？
+*   等等。
 
-Beispiele: <!-- TODO: Fallback translation -->
-:::indent
-\-⟪अर्थे⟫ "wegen"  
-\-⟪कृते⟫ "um willen"  
-⟪दूरे⟫ "fern" <!-- TODO: Fallback translation -->
-::::::
-## 37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusformen
+与格可用于作状语：
 
-Beispiele: <!-- TODO: Fallback translation -->
-:::indent
-⟪जातु⟫ "überhaupt" (ursprünglich "von Geburt, von Natur", Akk.sg.n. zu ⟪जातु⟫ &lt;nicht mehr als Nomen gebräuchlich&gt;) <!-- TODO: Fallback translation -->
+*   来自名词
+例如 ⟪बलात्⟫ “暴力地，以武力”
 
-⟪तूष्णीम्⟫ "schweigend" (Akk.sg. zu einem nicht mehr gebräuchlichen ⟪तूष्णी⟫ f. "Schweigen") <!-- TODO: Fallback translation -->
+*   来自形容词
+例如 ⟪दूरात्⟫ “从远处”
 
-⟪एवम्⟫ "so" (zu einem sonst verloren gegangenen Pronominalstamm ⟪एव⟫ "ein, einzig") <!-- TODO: Fallback translation -->
+*   来自代词
+示例：  
+⟪कस्मात्⟫ “为什么”  
+⟪अकस्मात्⟫ “出乎意料地”
 :::
-## 37.4. Bildung von Adverbien mit Adverbialsuffixen
+### 37.2.5. 属格（⟪षष्ठी⟫）
 
-::::grammar-box
-Von den Pronominalstämmen ⟪तद्⟫, ⟪इदम्⟫ bzw. ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ bzw. ⟪कु⟫ kann man mit den Adverbialsuffixen <!-- TODO: Fallback translation -->
+::: grammar-box
+属格（⟪षष्ठी⟫）很少被用作副词，以回答“多久之后？”的问题。
 
-*   \-⟪तस्⟫ (Ablativ) <!-- TODO: Fallback translation -->
-*   \-⟪त्र⟫ (Lokativ) <!-- TODO: Fallback translation -->
-*   \-⟪था⟫ (Art und Weise) <!-- TODO: Fallback translation -->
-*   \-⟪थम्⟫ (Art und Weise) <!-- TODO: Fallback translation -->
-*   \-⟪दा⟫ (Zeit) <!-- TODO: Fallback translation -->
+例如：⟪चिरस्य⟫“很久之后”（参见⟪चिर⟫ 3 “长（时间）”）
+:::
+### 37.2.6. 位格（⟪सप्तमी⟫）
 
-entsprechende Pronominaladverbien ableiten. <!-- TODO: Fallback translation -->
-:::::::grammar-box
+::: grammar-box
+位格（⟪सप्तमी⟫）可以用作副词，回答以下问题：
 
-| Suffix | Pronominalstamm | | | | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| | **⟪तद्⟫** | **⟪इदम्⟫** :br **⟪अ⟫-** | **⟪यद्⟫** | **⟪किम्⟫** :br **⟪कु⟫-** | <!-- TODO: Fallback translation -->
-| **-⟪तस्⟫** :br(Ablativ) | **⟪ततस्⟫** :brvon da, darauf, deshalb | **⟪इतस्⟫** :br **⟪अतस्⟫** :brvon hier, dieserhalb | **⟪यतस्⟫** :brwoher, wovon | **⟪कुतस्⟫** :brwoher?, weshalb? | <!-- TODO: Fallback translation -->
-| **-⟪त्र⟫** :br(Lokativ) | **⟪तत्र⟫** :brda, dort | **⟪अत्र⟫** :brhier | **⟪यत्र⟫** :brwo | **⟪कुत्र⟫** :brwo? | <!-- TODO: Fallback translation -->
-| **-⟪था⟫** :br(Art und Weise) | **⟪तथा⟫** :brso | | **⟪यथा⟫** :brwie | | <!-- TODO: Fallback translation -->
-| **-⟪थम्⟫** :br(Art und Weise) | | | | **⟪कथम्⟫** :brwie? | <!-- TODO: Fallback translation -->
-| **-⟪दा⟫** :br(Zeit) | **⟪तदा⟫** :brdamals, dann | | **⟪यदा⟫** :brals | **⟪कदा⟫** :brwann? | <!-- TODO: Fallback translation -->
+*   在哪里？
+*   在什么情况下？
+*   等等。
 
-:::::::grammar-box
-Ein weiteres Frageadverb ist: ⟪क्व⟫ "wo?" <!-- TODO: Fallback translation -->
-::::::media
+示例：
+:::
+::: indent
+\-⟪अर्थे⟫ “因为”  
+\-⟪कृते⟫ “为了”  
+⟪दूरे⟫ “遥远”
+:::
+## 37.3. 不再常用的格形式的副词用法
+
+示例：
+::: indent
+⟪जातु⟫ “根本”（原义为“自出生、天生”，是 ⟪जातु⟫ 的宾格单数中性形式 \&lt;不再作为名词使用\&gt;）
+
+⟪तूष्णीम्⟫ “沉默地”（是某个不再常用的 ⟪तूष्णी⟫ 阴性名词“沉默”的宾格单数形式）
+
+⟪एवम्⟫ “如此”（源自一个其他情况下已消失的代词词干 ⟪एव⟫ “一，唯一”）
+:::
+## 37.4. 带有副词后缀的副词构成
+
+::: grammar-box
+从代词词根 ⟪तद्⟫、⟪इदम्⟫ 或 ⟪अ⟫-、⟪यद्⟫、⟪किम्⟫ 或 ⟪कु⟫，可以通过副词后缀
+
+*   \-⟪तस्⟫（离格）
+*   \-⟪त्र⟫（处所格）
+*   \-⟪था⟫（方式）
+*   \-⟪थम्⟫（方式）
+*   \-⟪दा⟫（时间）
+
+派生出相应的代词副词。
+:::
+::: grammar-box
+
+| 后缀 | 代词词根 | | | |
+| :--- | :--- | :--- | :--- | :--- |
+| | **⟪तद्⟫** | **⟪इदम्⟫**:br **⟪अ⟫-** | **⟪यद्⟫** | **⟪किम्⟫**:br **⟪कु⟫-** |
+| **-⟪तस्⟫**:br(离格) | **⟪ततस्⟫**:br由此，因此，所以 | **⟪इतस्⟫**:br **⟪अतस्⟫**:br由此，因此 | **⟪यतस्⟫**:br从哪里，从什么 | **⟪कुतस्⟫**:br从哪里？为什么？ |
+| **-⟪त्र⟫**:br(处所格) | **⟪तत्र⟫**:br那里，在那里 | **⟪अत्र⟫**:br这里 | **⟪यत्र⟫**:br哪里 | **⟪कुत्र⟫**:br哪里？ |
+| **-⟪था⟫**:br(方式) | **⟪तथा⟫**:br如此，这样 | | **⟪यथा⟫**:br如何，怎样 | |
+| **-⟪थम्⟫**:br(方式) | | | | **⟪कथम्⟫**:br如何？怎样？ |
+| **-⟪दा⟫**:br(时间) | **⟪तदा⟫**:br那时，当时 | | **⟪यदा⟫**:br当……时，在……时候 | **⟪कदा⟫**:br何时？ |
+
+:::
+::: grammar-box
+另一个疑问副词是：⟪क्व⟫ “哪里？”
+:::
+::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
-Abb.: ⟪क्व⟫
-(Bildquelle: [Details](/licenses#lekt3701)) <!-- TODO: Fallback translation -->
-:::::::grammar-box
+图：⟪क्व⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3701)）
+:::
+::: grammar-box
 
-**Weitere Adverbialsuffixe** <!-- TODO: Fallback translation -->
+**其他副词后缀**
 
-| Suffix | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. **⟪पुत्रवत्⟫** "wie ein(en) Sohn" | <!-- TODO: Fallback translation -->
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. **⟪आदितस्⟫** "von Anfang an" | <!-- TODO: Fallback translation -->
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. **⟪द्विधा⟫** "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. **⟪समधा⟫** "in gleicher Weise" (zu **⟪सम⟫** 3 "gleich") | <!-- TODO: Fallback translation -->
+| 后缀 | |
+| :--- | :--- |
+| **-⟪वत्⟫** | 可附加于任意名词，以表达“像……一样”之意：例如 **⟪पुत्रवत्⟫** “如子一般” |
+| **-⟪तस्⟫** | 附加于名词和代词。通常具有离格意义“从哪里？”，但也表示“哪里？”、“去哪里？”：例如 **⟪आदितस्⟫** “从一开始” |
+| **-⟪धा⟫** | 1. 用于数词副词，意为“……倍”、“……重”：例如 **⟪द्विधा⟫** “两次”；&lt;br&gt;2. 表示“以……方式”：例如 **⟪समधा⟫** “以相同的方式”（对应于 **⟪सम⟫** 3 “相同”） |
 
 :::
 ## 37.5. Adverbiale Komposita
 
-### 37.5.1. Komposita mit einem Adverb oder adverbial gebrauchtem Kasus als Hinterglied
+### 37.5.1. 以副词或作状语使用的格为后成分的复合词
 
-Beispiel: ⟪सुचिरम्⟫ "sehr lange (Zeit)" <!-- TODO: Fallback translation -->
+示例：⟪सुचिरम्⟫ “非常长（的时间）”
 
 ### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
 
-Beispiel: ⟪रक्षार्थम्⟫ "in der Art von jemandem, dessen Zweck Behüten ist, zum Zweck des Behütens". Kann auch als zu 5.1. gehörig betrachtet werden: -⟪अर्थम्⟫ als adverbiales Hinterglied. <!-- TODO: Fallback translation -->
+Beispiel: ⟪रक्षार्थम्⟫ "in der Art von jemandem, dessen Zweck Behüten ist, zum Zweck des Behütens". Kann auch als zu 5.1. gehörig betrachtet werden: -⟪अर्थम्⟫ als adverbiales Hinterglied。
 
 ### 37.5.3. ⟪अव्ययीभाव⟫-Komposita
 
-⟪अव्ययीभाव⟫ = "unveränderlich/undeklinierbar gewordene" <!-- TODO: Fallback translation -->
+⟪अव्ययीभाव⟫ = “不变/不可变格”
 
-::::grammar-box
-Ein ⟪अव्ययीभाव⟫ ist ein adverbiales Kompositum, dessen Vorderglied ein Indeklinabile (Postposition, Partikel u. ä.) ist, und dessen Hinterglied ein Nomen ist, das die Endung des Akkusativ Singulars Neutrum annnimmt. <!-- TODO: Fallback translation -->
+::: grammar-box
+一个 ⟪अव्ययीभाव⟫ 是一个副词性复合词，其前成分是一个不可变格词（后置词、小品词等），后成分是一个名词，该名词取中性单数宾格词尾。
 
-Bei der Auflösung des Kompositums würde das Vorderglied das Hinterglied regieren: <!-- TODO: Fallback translation -->
+在解析复合词时，前成分支配后成分：
 
-Beispiele: <!-- TODO: Fallback translation -->
-:::indent
-⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "gegen das Feuer" <!-- TODO: Fallback translation -->
-
-⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "nach Kräften" <!-- TODO: Fallback translation -->
-
-⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "nach vorn, entgegen" <!-- TODO: Fallback translation -->
+示例：
 :::
-Besonders wichtig sind ⟪अव्ययीभाव⟫ mit ⟪यथा⟫ "wie" als Vorderglied: <!-- TODO: Fallback translation -->
+::: indent
+⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = “对着火”
 
-z.B. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "wie es der Wunsch ist, nach Wunsch, beliebig" <!-- TODO: Fallback translation -->
-::::::media
+⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = “尽力地”
+
+⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = “向前，迎面”
+:::
+特别重要的是 ⟪अव्ययीभाव⟫ 以 ⟪यथा⟫ “如”作为前成分：
+
+例如 ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = “如愿望所愿，称心如意，随意”
+::: media
 ![lekt3702.jpg](/images/lekt3702.webp)
-Abb.: ⟪यथाशक्ति⟫
-(Bildquelle: [Details](/licenses#lekt3702)) <!-- TODO: Fallback translation -->
+图：⟪यथाशक्ति⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3702)）
 :::
-## 37.6. Syntaktisches
+## 37.6. 句法
 
-::::grammar-box
-Bei den Verben <!-- TODO: Fallback translation -->
+::: grammar-box
+在动词
 
-*   ⟪अस्⟫ 2P "sein" <!-- TODO: Fallback translation -->
-*   ⟪भू⟫ 1P <!-- TODO: Fallback translation -->
-*   ⟪कृ⟫ 8U <!-- TODO: Fallback translation -->
+*   ⟪अस्⟫ 第二人称单数“是”
+*   ⟪भू⟫ 第一人称单数
+*   ⟪कृ⟫ 第八类不规则动词
 
-kann statt eines prädikativen Adjektivs ein prädikatives Adverb stehen: <!-- TODO: Fallback translation -->
+除了谓语形容词外，还可以使用谓语副词：
 
-z.B. ⟪तूष्णीं⟫ ⟪बभूव⟫ "er wurde schweigend, er verstummte" <!-- TODO: Fallback translation -->
-::::::media
+例如 ⟪तूष्णीं⟫ ⟪बभूव⟫ “他变得沉默，他不再说话”
+:::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
-Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
-(Bildquelle: [Details](/licenses#lekt3703)) <!-- TODO: Fallback translation -->
+图：⟪तूष्णीं⟫ ⟪बभूवुः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3703)）
+::::
 :::
-## 37.7. Indefinitpronomina
+## 第37.7节。不定代词
 
-::::grammar-box
-Indefinitpronomina (unbestimmte Fürwörter) werden durch Anfügen von <!-- TODO: Fallback translation -->
+::: grammar-box
+不定代词（indefinite pronouns）通过附加
 
-*   \-⟪चिद्⟫ <!-- TODO: Fallback translation -->
-*   \-⟪चन⟫ <!-- TODO: Fallback translation -->
-*   ⟪अपि⟫ <!-- TODO: Fallback translation -->
+*   \-⟪चिद्⟫
+*   \-⟪चन⟫
+*   ⟪अपि⟫
 
-an die Kasus des Fragepronomens ⟪किम्⟫ gebildet. <!-- TODO: Fallback translation -->
+由疑问代词 ⟪किम्⟫ 的词格构成。
 
-z.B. <!-- TODO: Fallback translation -->
-:::indent
-⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "irgendeiner, irgendjemand"  
-⟪कस्यचिद्⟫ = irgendjemandes <!-- TODO: Fallback translation -->
-::::::
-## 37.8. Der Fragesatz
+例如：
+:::
+::: indent
+⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = “某个人，任何人”  
+⟪कस्यचिद्⟫ = 某人的
+:::
+## 37.8. 疑问句
 
-::::grammar-box
-"Wer?, wie?, was?, wieso? weshalb?, warum?  
-Wer nicht fragt bleibt dumm." <!-- TODO: Fallback translation -->
+::: grammar-box
+“谁？，怎样？，什么？，为何？为什么？  
+不问则愚。”
 
 ⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
 ⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
 ⟪यो⟫ ⟪न⟫ ⟪पृच्छेन्⟫  
-⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
 
-Motto der Sesamstraße, das eine gute Leitlinie fürs Leben und das Sanskritstudium ist <!-- TODO: Fallback translation -->
+《芝麻街》的座右铭，这是关于生活和梵文学习的良好指导原则
 :::
-Siehe auch [Lektion 4](lektion04.md). <!-- TODO: Fallback translation -->
+另见 [第4课](lektion04.md)。
 
-Man muss unterscheiden <!-- TODO: Fallback translation -->
+必须区分
 
-*   Wortfragen (Ergänzungsfragen) <!-- TODO: Fallback translation -->
-*   Satzfragen <!-- TODO: Fallback translation -->
+*   词语问题（补充性问题）
+*   句子问题
 
-Bei Wortfragen wird nach einem Agens (⟪कर्तृ⟫), einem Objekt, einer Tätigkeit, einem Umstand u. ä. gefragt, z.B. <!-- TODO: Fallback translation -->
+在词语疑问句中，会询问施事者（⟪कर्तृ⟫）、宾语、动作、情况等等，例如：
 
-*   wer kommt? <!-- TODO: Fallback translation -->
-*   was tut Rāma? <!-- TODO: Fallback translation -->
-*   wen hört er? <!-- TODO: Fallback translation -->
-*   wie spricht sie Sanskrit? <!-- TODO: Fallback translation -->
-*   wo ist die Mutter? <!-- TODO: Fallback translation -->
+*   谁来了？
+*   Rāma 在做什么？
+*   他听见谁了？
+*   她如何说梵语？
+*   母亲在哪里？
 
-Bei Satzfragen wird der ganze Inhalt des Satzes erfragt, z.B. <!-- TODO: Fallback translation -->
+在句子疑问句中，整个句子的内容被询问，例如：
 
-*   geht Rāma heute nach Ofterdingen? <!-- TODO: Fallback translation -->
-*   ist es richtig, dass ... ? <!-- TODO: Fallback translation -->
+*   Rāma 今天去奥弗丁根吗？
+*   ……是正确的吗？
 
 ### 37.8.1. Wortfragen (Ergänzungsfragen)
 
-::::grammar-box
-Schema: <!-- TODO: Fallback translation -->
+::: grammar-box
+模式：
 
-Fragepronomen/Frageadverb - Satz <!-- TODO: Fallback translation -->
+疑问代词/疑问副词 - 句子
 :::
-Beispiele: <!-- TODO: Fallback translation -->
-:::indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Wer geht ins Dorf?" <!-- TODO: Fallback translation -->
+示例：
+::: indent
+⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = “谁去村庄？”
 
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Was sollten Kinder lernen?" <!-- TODO: Fallback translation -->
+⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = “孩子们应该学什么？”
 
-⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Wo wohnt Rāma? <!-- TODO: Fallback translation -->
-::::::media
+⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = 罗摩住在哪里？
+:::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
-Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Bildquelle: [Details](/licenses#lekt3704)) <!-- TODO: Fallback translation -->
+图：⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3704)）
+::::
 :::
-### 37.8.2. Satzfragen
+### 37.8.2. 疑问句
 
-::::grammar-box
-Manchmal ist es nur aus dem Zusammenhang erkennbar, ob ein Satz ein Fragesatz ist. <!-- TODO: Fallback translation -->
-:::::::grammar-box
-Schema I: <!-- TODO: Fallback translation -->
-
-Verb - restlicher Satz <!-- TODO: Fallback translation -->
+::: grammar-box
+有时仅从语境中才能判断一个句子是否为疑问句。
 :::
-Beispiel: <!-- TODO: Fallback translation -->
-:::indent
-⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Wird der Brahmanenjunge zu einem Meister gehen?" <!-- TODO: Fallback translation -->
-:::::::grammar-box
-Schema II: <!-- TODO: Fallback translation -->
+::: grammar-box
+模式 I：
 
-Fragepartikel (meist am Satzanfang) - Satz <!-- TODO: Fallback translation -->
-
-Die wichtigsten Fragepartikel sind: <!-- TODO: Fallback translation -->
-
-*   ⟪अपि⟫ <!-- TODO: Fallback translation -->
-
-*   ⟪किम्⟫ (lässt oft eine negative Antwort erwarten) <!-- TODO: Fallback translation -->
-
-*   ⟪कच्चिद्⟫ <!-- TODO: Fallback translation -->
-
-Diese Partikel entsprechen dem Fragezeichen. <!-- TODO: Fallback translation -->
+动词 - 句子其余部分
 :::
-Beispiel: <!-- TODO: Fallback translation -->
-:::indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Ist es auch wahr?" <!-- TODO: Fallback translation -->
-
-⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Kann er denn?" <!-- TODO: Fallback translation -->
-
-⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Hat etwa der Kṣatriya die Feinde besiegt?" <!-- TODO: Fallback translation -->
+示例：
+::: indent
+⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ “婆罗门少年将成为一位大师吗？”
 :::
-Anmerkung: ⟪किम्⟫ kann außer "was?" und als Fragepartikel auch "warum?, wozu?" bedeuten. So bes. mit dem Instrumentalis (⟪तृतीया⟫): <!-- TODO: Fallback translation -->
-:::indent
-⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "Wozu der Zorn? Was nützt der Zorn? Was soll der Zorn?" <!-- TODO: Fallback translation -->
+::: grammar-box
+模式 II：
+
+疑问词（通常位于句首）- 句子
+
+最重要的疑问词是：
+
+*   ⟪अपि⟫
+
+*   ⟪किम्⟫（常引发否定回答）
+
+*   ⟪कच्चिद्⟫
+
+这些助词相当于问号。
 :::
-## 37.9. Wortliste
+示例：
+::: indent
+⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ “这难道不是真的吗？”
 
-⟪मूर्ख⟫ 3: stumpfsinnig, blöd, dumm m. Dummkopf <!-- TODO: Fallback translation -->
+⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ “难道他能吗？”
 
-⟪मुनि⟫ m.: Weiser, (Schweige)asket <!-- TODO: Fallback translation -->
+⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ “难道刹帝利已经战胜了敌人吗？”
+:::
+注释：⟪किम्⟫ 除了表示“什么？”和作为疑问助词外，还可以表示“为什么？为了什么？”。因此常与工具格（⟪तृतीया⟫）连用：
+::: indent
+⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ “愤怒有什么用？愤怒有何益处？愤怒意在何为？”
+:::
+## 37.9. 词汇表
 
-:::indent
-⟪शाक्यमुनि⟫ m.: Asket aus dem Geschlecht der ⟪शाक्य⟫ (Kṣatriyas aus ⟪कपिलवस्तु⟫) = Buddha Gautama <!-- TODO: Fallback translation -->
-::::::media
+⟪मूर्ख⟫ 3：愚钝的，愚蠢的，笨拙的 m. 傻瓜
+
+⟪मुनि⟫ m.：智者，（沉默）苦行者
+
+::: indent
+⟪शाक्यमुनि⟫ m.: 来自⟪शाक्य⟫（出自⟪कपिलवस्तु⟫的刹帝利）的苦行者 = 乔达摩佛陀
+:::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Abb.: ⟪शाक्यमुनिः⟫
-(Bildquelle: [Details](/licenses#lekt3705)) <!-- TODO: Fallback translation -->
+图：⟪शाक्यमुनिः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3705)）
+::::
 :::
-⟪दिन⟫ n.: Tag <!-- TODO: Fallback translation -->
+⟪दिन⟫ n.：天
 
-⟪वृक्ष⟫ m.: Baum <!-- TODO: Fallback translation -->
+⟪वृक्ष⟫ m.：树
 
-:::media
+::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Abb.: ⟪वृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3706)) <!-- TODO: Fallback translation -->
+图：⟪वृक्षः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3706)）
 :::
-⟪मुख⟫ n.: Mund, Gesicht, Vorderteil, Anfang <!-- TODO: Fallback translation -->
+⟪मुख⟫ n.：口，脸，前部，开端
 
 ## 37.10. Übung
 
-A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter. Übersetzen Sie die Fragesätze. <!-- TODO: Fallback translation -->
+A）使用括号中指定的词语，用梵语回答以下问题。翻译这些问句。
 
-Beispiel: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+示例：⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
 
-⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫) <!-- TODO: Fallback translation -->
+⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 
-⟪क⟫ ⟪आर्यसत्यान्यजानात्⟫ ⟪॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫) <!-- TODO: Fallback translation -->
+⟪क⟫ ⟪आर्यसत्यान्यजानात्⟫ ⟪॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
 
-⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫) <!-- TODO: Fallback translation -->
+⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ &lt;Absolutiv&gt;) <!-- TODO: Fallback translation -->
+⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟩ \&lt;绝对格\&gt;)
 
-⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫) <!-- TODO: Fallback translation -->
+⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
-⟪किमेव⟫ ⟪शस्त्रं⟫ ⟪छिनत्ति⟫ ⟪॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫) <!-- TODO: Fallback translation -->
+⟪किमेव⟫ ⟪शस्त्रं⟫ ⟪छिनत्ति⟫ ⟪॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
 
-⟪किंकामः⟫ ⟪शत्रुरार्यैः⟫ ⟪सह⟫ ⟪युयुधे⟫ ⟪॥७॥⟫ (⟪धनं⟫ ⟪जि⟫) <!-- TODO: Fallback translation -->
+⟪किंकामः⟫ ⟪शत्रुरार्यैः⟫ ⟪सह⟫ ⟪युयुधे⟫ ⟪॥७॥⟫ (⟪धनं⟫ ⟪जि⟫)
 
-⟪कया⟫ ⟪भिक्षुरादितः⟫ ⟪॥८॥⟫ (⟪गुणवती⟫ ⟪शूद्रा⟫) <!-- TODO: Fallback translation -->
+⟪कया⟫ ⟪भिक्षुरादितः⟫ ⟪॥८॥⟫ (⟪गुणवती⟫ ⟪शूद्रा⟫)
 
-⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫) <!-- TODO: Fallback translation -->
+⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
 
-⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫) <!-- TODO: Fallback translation -->
+⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
 
-⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫) <!-- TODO: Fallback translation -->
+⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫)
 
-⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫) <!-- TODO: Fallback translation -->
+⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫)
 
-:::media
+::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
-Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Bildquelle: [Details](/licenses#lekt3707)) <!-- TODO: Fallback translation -->
+图：⟪कृष्णः⟫ ⟪बलरामश्च⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3707)）
 :::
-⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫) <!-- TODO: Fallback translation -->
+⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
-:::media
+::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
-Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3708)) <!-- TODO: Fallback translation -->
+图：⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3708)）
 :::
-⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫) <!-- TODO: Fallback translation -->
+⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
-⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫) <!-- TODO: Fallback translation -->
+⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫)
 
-⟪कस्मिञ्जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫ ⟪॥१६॥⟫ (⟪पुत्र⟫) <!-- TODO: Fallback translation -->
+⟪कस्मिञ्जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫ ⟪॥१६॥⟫ (⟪पुत्र⟫)
 
-⟪का⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫) <!-- TODO: Fallback translation -->
+⟪का⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
 
-⟪के⟫ ⟪नराः⟫ ⟪सुरूपा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫) <!-- TODO: Fallback translation -->
+⟪के⟫ ⟪नराः⟫ ⟪सुरूपा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
 
-⟪कस्या⟫ ⟪इन्द्रः⟫ ⟪पुत्र्रं⟫ ⟪दास्यति⟫ ⟪॥१९॥⟫ (⟪कृतव्रता⟫ ⟪पुण्यवती⟫ ⟪सुमतिब्राह्मणी⟫) <!-- TODO: Fallback translation -->
+⟪कस्या⟫ ⟪इन्द्रः⟫ ⟪पुत्र्रं⟫ ⟪दास्यति⟫ ⟪॥१९॥⟩ (⟪कृतव्रता⟫ ⟪पुण्यवती⟫ ⟪सुमतिब्राह्मणी⟫)
 
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B）翻译：
 
- ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
 
-⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫
 
-⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥३॥⟫
 
-⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫
 
-C) Übersetzen Sie folgende ⟪अव्ययीभाव⟫ : <!-- TODO: Fallback translation -->
+C) 翻译以下⟪अव्ययीभाव⟫：
 
-1\. ⟪अति⟫ Postposition mit Akk.: "über ... hinaus" <!-- TODO: Fallback translation -->
+1\. ⟪अति⟫ 后置词接宾格：“在……之外”
 
-:::indent
-1.  ⟪अतिमात्रम्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪अतिवसन्तम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+1.  ⟪अतिमात्रम्⟫
+2.  ⟪अतिवसन्तम्⟫
 :::
-2\. ⟪अधि⟫ "in" <!-- TODO: Fallback translation -->
+2\. ⟪अधि⟫ “在……里”
 
-:::indent
-1.  ⟪अधिहरि⟫ <!-- TODO: Fallback translation -->
-2.  ⟪अधिकेरलम्⟫ <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+1.  ⟪अधिहरि⟫
+2.  ⟪अधिकेरलम्⟫
+:::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
-Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
-(Bildquelle: [Details](/licenses#lekt3709)) <!-- TODO: Fallback translation -->
+图：⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3709)）
+::::
 :::
-3\. ⟪अनु⟫ "entsprechend, entlang, nach" <!-- TODO: Fallback translation -->
+3\. ⟪अनु⟫ “根据，沿着，按照”
 
-:::indent
-1.  ⟪अनुरूपम्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪अनुदिनम्⟫ <!-- TODO: Fallback translation -->
-3.  ⟪अनुगङ्गम्⟫ <!-- TODO: Fallback translation -->
-4.  ⟪अनुविष्णुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+1.  ⟪अनुरूपम्⟫
+2.  ⟪अनुदिनम्⟫
+3.  ⟪अनुगङ्गम्⟫
+4.  ⟪अनुविष्णुम्⟫
 :::
-4\. ⟪अप⟫ "ohne" <!-- TODO: Fallback translation -->
+4\. ⟪अप⟫ “没有”
 
-:::indent
-1.  ⟪अपविष्णुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+1.  ⟪अपविष्णुम्⟫
 :::
-5\. ⟪अभि⟫ "in Richtung auf" <!-- TODO: Fallback translation -->
+5\. ⟪अभि⟫ “朝向”
 
-:::indent
-1.  ⟪अभिमुखम्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪अभ्यग्नि⟫ <!-- TODO: Fallback translation -->
+::: indent
+1.  ⟪अभिमुखम्⟫
+2.  ⟪अभ्यग्नि⟫
 :::
-6\. ⟪आ⟫ "seit, bis, einschließlich" <!-- TODO: Fallback translation -->
+6\. ⟪आ⟫ “自从，直到，包括”
 
-:::indent
-1.  ⟪आबालवृद्धम्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪आमरणम्⟫ <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+1.  ⟪आबालवृद्धम्⟫
+2.  ⟪आमरणम्⟫
+:::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
-Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
-(Bildquelle: [Details](/licenses#lekt3710)) <!-- TODO: Fallback translation -->
+图：⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3710)）
+::::
 :::
-7\. ⟪उप⟫ "nahe" <!-- TODO: Fallback translation -->
+7\. ⟪उप⟫ “靠近”
 
-:::indent
-1.  ⟪उपवृक्षम्⟫ <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+1.  ⟪उपवृक्षम्⟫
+:::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
-Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3711)) <!-- TODO: Fallback translation -->
+图：⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3711)）
+::::
 :::
-8\. ⟪यथा⟫ <!-- TODO: Fallback translation -->
+8\. ⟪यथा⟫
 
-:::indent
-1.  ⟪यथास्थानम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Wiederholungsübung
+## 37.11. 复习练习
 
-Übersetzen Sie ins Sanskrit indem Sie ausschließlich Verbformen des Perfekt verwenden: <!-- TODO: Fallback translation -->
+将以下德文翻译成梵文，仅使用完成时态的动词形式：
 
-Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuß eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte fraßen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises! <!-- TODO: Fallback translation -->
+从前有个老人去另一个村子，途中他累了。于是他去到旁边一棵芒果树下休息。这棵树上结着成熟的果实。老人很想吃这些果子，但他无法爬上树去摘取。幸运的是，树上有一些正在吃果子的猴子。老人看到后很高兴。他做了什么？他捡起一些石头，瞄准猴子并扔了过去。被激怒的猴子摘下一些果子砸向老人。老人高兴地接过这些果子，走向他想去的地方。看啊，这老人的命运！
 
-:::deleteme-box
+::: deleteme-box
 
-- **Image lekt3701.jpg** (Abb.: ⟪क्व⟫): [Bildquelle: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3702.jpg** (Abb.: ⟪यथाशक्ति⟫): [Bildquelle: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3703.jpg** (Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Bildquelle: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3704.jpg** (Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
-- **Image lekt3705.jpg** (Abb.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Bildquelle: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3706.jpg** (Abb.: ⟪वृक्षः⟫): Jaipur [Bildquelle: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-- **Image lekt3707.jpg** (Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-- **Image lekt3708.jpg** (Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Bildquelle: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
-- **Image lekt3709.jpg** (Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Bildquelle: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3710.jpg** (Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Bildquelle: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-- **Image lekt3711.jpg** (Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Bildquelle: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+- **图片 lekt3701.jpg**（图：⟪क्व⟫）：[图片来源：Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- 访问日期：2008-12-30. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
+- **图片 lekt3702.jpg**（图：⟪यथाशक्ति⟫）：[图片来源：Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- 访问日期：2008-12-30. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
+- **图片 lekt3703.jpg**（图：⟪तूष्णीं⟫ ⟪बभूवुः⟫）：Chishti（Chishti）Dargah（Dargah），Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [图片来源：Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- 访问日期：2008-12-30. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
+- **图片 lekt3704.jpg**（图：⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫）：Kanchipuram = Kanchipuram [图片来源：mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- 访问日期：2008-12-30. -- 知识共享许可协议（署名）]
+- **图片 lekt3705.jpg**（图：⟪शाक्यमुनिः⟫）：Hussain Sagar = Hussain Sagar，Hyderabad = Hyderabad [图片来源：.krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- 访问日期：2008-12-31. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
+- **图片 lekt3706.jpg**（图：⟪वृक्षः⟫）：Jaipur [图片来源：counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- 访问日期：2008-12-31. -- 知识共享许可协议（署名，非商业性使用，相同方式共享）]
+- **图片 lekt3707.jpg**（图：⟪कृष्णः⟫ ⟪बलरामश्च⟫）：⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ 的画作（1848 - 1906）[图片来源：Wikipedia. Public domain]
+- **图片 lekt3708.jpg**（图：⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫）：⟪काशी⟫ = ⟪वाराणसी⟫ [图片来源：amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- 访问日期：2008-12-31. -- 知识共享许可协议（署名）]
+- **图片 lekt3709.jpg**（图：⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫）：[图片来源：Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- 访问日期：2008-12-31. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
+- **图片 lekt3710.jpg**（图：⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫）：[图片来源：saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- 访问日期：2008-12-31. -- 知识共享许可协议（署名，非商业性使用，相同方式共享）]
+- **图片 lekt3711.jpg**（图：⟪उपवृक्षं⟫ ⟪सीदन्ति⟫）：Delhi = ⟪दहली⟫ / دہلی [图片来源：Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- 访问日期：2008-12-31. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
 :::

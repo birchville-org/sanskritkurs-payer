@@ -72,7 +72,7 @@ B) Inserite negli frasi formate in A) l'agente e il verbo al plurale
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मं⟫ ⟪द्विषन्ति⟫ ⟪।⟫ ⟪द्विषते⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung025.webp)
 Fig.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung025))
@@ -175,7 +175,7 @@ Tradurre le seguenti forme verbali e indicare la radice corrispondente:
 
 ⟪४६⟫. **⟪दिश्यन्न्ते⟫** (⟪दिश्⟫ 6U): vengono mostrati
 
-:::media
+::: media
 ![](/images/uebung026.webp)
 Fig.: ⟪शृणोति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung026))

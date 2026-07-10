@@ -1,9 +1,9 @@
 ---
-title: Lección 42
-subtitle: "Tribus en -ṛ"
+title: Lektion 42
+subtitle: "Stämme auf -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
-category: "Gramática"
+category: "Grammatik"
 status: stable
 ---
 
@@ -13,7 +13,7 @@ status: stable
 
 ### 42.1.1. Tribus con grado de extensión en la raíz fuerte
 
-:::grammar-box
+::: grammar-box
 Todos los masculinos en -ṛ con excepción de las designaciones de parentesco mencionadas en 1.3. A este grupo pertenecen también las designaciones de parentesco:
 
 *   **⟪नप्तृ⟫** m. "nieto"
@@ -32,31 +32,32 @@ La mayor parte de los nombres pertenecientes a este grupo son nombres de agente 
 :::
 Masculino:
 
-:::indent
+::: indent
 **⟪दातृ⟫** m. "dador"
-::::::grammar-box
+:::
+::: grammar-box
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :--- | :--- |
-| ⟪प्रथमा⟫ | ***⟪दाता⟫*** | ⟪दातारस्⟫ |
-| ⟪द्वितीया⟫ | ⟪दातारम्⟫ | ***⟪दातॄन्⟫*** |
+| ⟪प्रथमा⟫ | *⟪दाता⟫* | ⟪दातारस्⟫ |
+| ⟪द्वितीया⟫ | ⟪दातारम्⟫ | *⟪दातॄन्⟫* |
 | ⟪तृतीया⟫ | ⟪दात्रा⟫ | ⟪दातृभिस्⟫ |
 | ⟪चतुर्थी⟫ | ⟪दात्रे⟫ | ⟪दातृभ्यस्⟫ |
-| ⟪पञ्चमी⟫ | ***⟪दातुस्⟫*** | ⟪दातृभ्यस्⟫ |
-| ⟪षष्ठी⟫ | ***⟪दातुस्⟫*** | ***⟪दातॄणाम्⟫*** |
-| ⟪सप्तमी⟫ | ***⟪दातरि⟫*** | ⟪दातृषु⟫ |
+| ⟪पञ्चमी⟫ | *⟪दातुस्⟫* | ⟪दातृभ्यस्⟫ |
+| ⟪षष्ठी⟫ | *⟪दातुस्⟫* | *⟪दातॄणाम्⟫* |
+| ⟪सप्तमी⟫ | *⟪दातरि⟫* | ⟪दातृषु⟫ |
 
 :::
 Para la explicación de las formaciones irregulares, véase Thumb-Hauschild I,2 p. 76 -81
 
 Femenino:
 
-:::indent
+::: indent
 **⟪स्वसृ⟫** f. se declina como **⟪दातृ⟫** con excepción del acusativo (**⟪द्वितीया⟫**) plural: ***⟪स्वसॄस्⟫***.
 :::
 ### 42.1.2. Formación nominal: Sufijo ⟪कृत्⟫ -⟪तृ⟫
 
-:::grammar-box
+::: grammar-box
 Con el muy frecuente sufijo ⟪कृत्⟫ -⟪तृ⟫ se forman nomina agentis (designaciones para el ⟪कर्तृ⟫) a casi cualquier raíz o bien a la raíz causativa.
 
 **Formación:**
@@ -69,7 +70,7 @@ o
 :::
 Ejemplos:
 
-:::indent
+::: indent
 **⟪कर्तृ⟫** m. "Hacedor"
 
 **⟪जेतृ⟫** m. "Vencedor"
@@ -79,11 +80,14 @@ Ejemplos:
 **⟪रक्षितृ⟫** m. "Protector"
 
 **⟪बोधयितृ⟫** m. "Despertador"
-::::::media
+:::
+::: media
 ![lekt4201.jpg](/images/lekt4201.jpg)
 Fig.: ⟪अयं⟫ ⟪बोधयिता⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4201))
-::::::grammar-box
+:::
+
+::: grammar-box
 Los neutros de aparición rara en -⟪तृ⟫ tienen una declinación parcialmente propia (véase Kielhorn, Gramática § 148).
 
 El femenino de las raíces en -⟪तृ⟫ termina en **-⟪त्री⟫** (como **⟪देवी⟫**).
@@ -92,7 +96,7 @@ p.ej. **⟪कर्त्री⟫** f. "Hacedora"
 :::
 ### 42.1.3. Tribus con grado alto en la raíz fuerte
 
-:::grammar-box
+::: grammar-box
 Estos incluyen las siguientes designaciones de parentesco:
 
 *   **⟪पितृ⟫** m. "Padre"
@@ -112,22 +116,23 @@ Estos incluyen las siguientes designaciones de parentesco:
 :::
 Ejemplos:
 
-:::indent
+::: indent
 **⟪पितृ⟫** m. "Padre"
 
 **⟪मातृ⟫** f. "Madre"
-::::::grammar-box
+:::
+::: grammar-box
 
 | | ⟪पुंस्⟫ (⟪एकवचनम्⟫) | ⟪पुंस्⟫ (⟪बहुवचनम्⟫) | ⟪स्त्री⟫ (⟪एकवचनम्⟫) | ⟪स्त्री⟫ (⟪बहुवचनम्⟫) |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪प्रथमा⟫ | ⟪पिता⟫ | ***⟪पितरस्⟫*** | ⟪माता⟫ | ***⟪मातरस्⟫*** |
-| ⟪द्वितीया⟫ | ***⟪पितरम्⟫*** | ⟪पितॄन्⟫ | ***⟪मातरम्⟫*** | ⟪मातॄस्⟫ |
+| ⟪प्रथमा⟫ | ⟪पिता⟫ | *⟪पितरस्⟫* | ⟪माता⟫ | *⟪मातरस्⟫* |
+| ⟪द्वितीया⟫ | *⟪पितरम्⟫* | ⟪पितॄन्⟫ | *⟪मातरम्⟫* | ⟪मातॄस्⟫ |
 | Resto como ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
 ### 42.1.4. Tribus con terminación -ṛ en compuestos
 
-:::grammar-box
+::: grammar-box
 Como primer miembro de un compuesto, los nombres terminados en -ṛ se encuentran, por supuesto, en su forma de raíz débil, es decir,
 
 *   **antes de consonante: -ṛ**
@@ -141,7 +146,7 @@ Como primer miembro de un compuesto, los nombres terminados en -ṛ se encuentra
 
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstenerse, apartarse, mantenerse alejado, permanecer, estar de pie
 
-:::indent
+::: indent
 PPP ⟪अवस्थित⟫ 3: de pie, existente
 :::
 ⟪पुरा⟫ Adv.: antes, anteriormente
@@ -164,7 +169,7 @@ PPP ⟪अवस्थित⟫ 3: de pie, existente
 
 ⟪चल्⟫ 1P ⟪चलति⟫ : entrar en movimiento
 
-:::indent
+::: indent
 Fut. ⟪चलिष्यति⟫  
 Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
@@ -191,7 +196,7 @@ Inf. ⟪चलितुम्⟫
 
 ⟪शंस्⟫ 1P ⟪शंसति⟫ : alabar, ordenar
 
-:::indent
+::: indent
 Fut. ⟪शंसिष्यति⟫  
 Perf. I ⟪शशंस⟫  
 Pass. ⟪शस्यते⟫  
@@ -204,7 +209,7 @@ Inf. ⟪शंसितुम्⟫
 
 ### 42.2.1. Algunas designaciones de parentesco
 
-:::media
+::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
 Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4202))
@@ -268,14 +273,14 @@ Traduzca:
 
 ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥२॥⟫
 
-:::media
+::: media
 ![lekt4203.jpg](/images/lekt4203.webp)
 Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4203))
 :::
 ⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![lekt4204.jpg](/images/lekt4204.webp)
 Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4204))
@@ -294,24 +299,24 @@ Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 
 ## 42.4. Ejercicio de traducción
 
-***⟪सीता⟫***⟪विवाहः⟫
+*⟪सीता⟫*⟪विवाहः⟫
 
-⟪पुरा⟫ ***⟪मिथिलायां⟫*** ***⟪जनको⟫*** ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
+⟪पुरा⟫ *⟪मिथिलायां⟫* *⟪जनको⟫* ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
 
-⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ ***⟪गुरुतरं⟫*** ⟪किमपि⟫ ***⟪धनुरा⟫***⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
+⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ *⟪गुरुतरं⟫* ⟪किमपि⟫ *⟪धनुरा⟫*⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
 
-⟪तां⟫ ⟪तस्य⟫ ⟪प्रतिज्ञां⟫ ⟪श्रुत्वा⟫ ***⟪शतशो⟫*** ⟪राजकुमाराः⟫ ⟪समाजग्मुः⟫ ⟪।⟫ ⟪परं⟫ ⟪नैको⟫ ⟪ऽपि⟫ ⟪तेषां⟫ ⟪तद्धनुश्चलयितुमपि⟫ ⟪शशाक⟫ ⟪।⟫ ***⟪लङ्का⟫***⟪धिपती⟫ ***⟪रावणो⟫*** ⟪ऽपि⟫ ⟪साटोपं⟫ ⟪समेत्य⟫ ⟪सलज्जं⟫ ⟪प्रतिनिवृत्त⟫ ⟪इति⟫ ⟪ज्ञायते⟫ ⟪॥⟫
+⟪तां⟫ ⟪तस्य⟫ ⟪प्रतिज्ञां⟫ ⟪श्रुत्वा⟫ *⟪शतशो⟫* ⟪राजकुमाराः⟫ ⟪समाजग्मुः⟫ ⟪।⟫ ⟪परं⟫ ⟪नैको⟫ ⟪ऽपि⟫ ⟪तेषां⟫ ⟪तद्धनुश्चलयितुमपि⟫ ⟪शशाक⟫ ⟪।⟫ *⟪लङ्का⟫*⟪धिपती⟫ *⟪रावणो⟫* ⟪ऽपि⟫ ⟪साटोपं⟫ ⟪समेत्य⟫ ⟪सलज्जं⟫ ⟪प्रतिनिवृत्त⟫ ⟪इति⟫ ⟪ज्ञायते⟫ ⟪॥⟫
 
-⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ ***⟪ऽयोध्या⟫***⟪धिपते⟫***⟪र्दशरथस्य⟫*** ⟪पुत्रः⟫ ⟪श्री⟫***⟪रामः⟫*** ***⟪सलक्ष्मणो⟫*** ***⟪विश्वामित्रेण⟫*** ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫***⟪रामो⟫*** ⟪महर्षेर्⟫***⟪विश्वामित्र⟫***⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
+⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ *⟪ऽयोध्या⟫*⟪धिपते⟫*⟪र्दशरथस्य⟫* ⟪पुत्रः⟫ ⟪श्री⟫*⟪रामः⟫* *⟪सलक्ष्मणो⟫* *⟪विश्वामित्रेण⟫* ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫*⟪रामो⟫* ⟪महर्षेर्⟫*⟪विश्वामित्र⟫*⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
 
-:::media
+::: media
 ![lekt4208.jpg](/images/lekt4208.webp)
 Fig.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4208))
 :::
 ⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
 
-⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ ***⟪सीतारामयोर्वि⟫***⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
+⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ *⟪सीतारामयोर्वि⟫*⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
 
 (⟪संस्कृतप्रथमादर्शे⟫)
 
@@ -319,14 +324,14 @@ Explicación de las expresiones destacadas en **rojo**:
 
 ⟪सीता⟫ f. Nombre propio: Hija del rey ⟪जनक⟫ de ⟪विदेह⟫. Ella había salido de la tierra cuando el rey aró el campo, de ahí su nombre: ⟪सीता⟫ f. "Surco del campo"
 
-:::media
+::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
 Fig.: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4205))
 :::
 ⟪मिथिला⟫ f. Nombre propio: Capital de ⟪विदेह⟫
 
-:::media
+::: media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4206))
@@ -343,7 +348,7 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 ⟪रावण⟫ m. Nombre propio; gobernante de ⟪लङ्का⟫, gobernante de los ⟪राक्षस⟫.
 
-:::media
+::: media
 ![lekt4207.jpg](/images/lekt4207.webp)
 Fig.: ⟪रावणः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4207))
@@ -360,7 +365,7 @@ Fig.: ⟪रावणः⟫
 
 ⟪सीतारामयोस्⟫ Gen.Loc.Dual de ⟪सीताराम⟫
 
-:::deleteme-box
+::: deleteme-box
 
 * **Fig. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Fuente de la imagen: Wikipedia. Dominio público)
 * **Fig. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. El Diwan I Khas, o Sala de Audiencias Privadas en el Lal Qila (Fuerte Rojo) en Delhi. (Fuente de la imagen: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Acceso el 2009-01-04. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual))
@@ -370,5 +375,4 @@ Fig.: ⟪रावणः⟫
 * **Fig. lekt4206**: Ubicación de ⟪मिथिला⟫ y ⟪विदेह⟫, ⟪अयोध्या⟫ y ⟪कोसल⟫. (Fuente de la imagen: JIJITH NR / Wikipedia. Licencia GNU FD)
 * **Fig. lekt4207**: ⟪रावणः⟫. Máscara de danza Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Fuente de la imagen: Manohara Upadhya / Wikipedia. Licencia GNU FD)
 * **Fig. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Imagen de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Fuente de la imagen: Wikipedia. Dominio público)
-
 :::

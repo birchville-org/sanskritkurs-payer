@@ -8,7 +8,7 @@ Pour jha, la forme suivante est également courante :
 
 ![](/images/schrift010.jpg)
 
-Dans les livres plus anciens, imprimés à Calcutta, on trouve aussi les formes suivantes pour jha :
+Dans les anciens livres imprimés à Calcutta, on trouve aussi les formes suivantes pour jha :
 
 ![](/images/schrift011.jpg)
 
@@ -20,7 +20,7 @@ bhavati yudh dhenuḥ sādhavaḥ bhūmiḥ ḍhuḍhi ghaṭa ḍuḍhauke jhā
 
 B) Lisez et translitérez :
 
- a) ⟪द⟫ ⟪ध⟫ ⟪त⟫ ⟪फ⟫ ⟪प⟫ ⟪न⟫ ⟪च⟫ ⟪ड⟫ ⟪ग⟫ ⟪क⟫ ⟪भ⟫ ⟪ब⟫ ⟪थ⟫ ⟪छ⟫ ⟪य⟫ ⟪ख⟫ ⟪झ⟫
+  a) ⟪द⟫ ⟪ध⟫ ⟪त⟫ ⟪फ⟫ ⟪प⟫ ⟪न⟫ ⟪च⟫ ⟪ड⟫ ⟪ग⟫ ⟪क⟫ ⟪भ⟫ ⟪ब⟫ ⟪थ⟫ ⟪छ⟫ ⟪य⟫ ⟪ख⟫ ⟪झ⟫
 
 b) ⟪भट⟫ ⟪पद⟫ ⟪कड⟫ ⟪मठ⟫ ⟪थन⟫ ⟪खच्⟫ ⟪दध्⟫ ⟪दम⟫ ⟪छद्⟫ ⟪झग⟫ ⟪जड⟫ ⟪फट⟫ ⟪पथ⟫ ⟪बत⟫ ⟪छग⟫ ⟪पढ⟫ ⟪घट⟫
 

@@ -1,18 +1,17 @@
 ---
-title: Leçon 48
+title: Lektion 48
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 48
+# Lektion 48
 
 ## 48.1. ⟪सुभाषितानि⟫
 
-:::
-center
+::: center
 ⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
 
 ⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
@@ -27,175 +26,174 @@ center
 
 ⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫
 :::
-## 48.2. Formation de l'impératif (⟪लोट्⟫) des racines de présent athématique
+## 48.2. Formation de l'impératif (⟪लोट्⟫) des racines de présent athématiques
 
-### 48.2.1. Terminaisons de l’impératif sur les racines de présent athématiques
+### 48.2.1. Terminaisons de l’impératif aux thèmes de présent athématiques
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1re personne**:br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
-| **2e personne**:br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **3e personne**:br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br**3e cl. : -atu**:br(issu de -\*ntu) | \-atām:br(issu de : -\*ntām) |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
+| **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
+| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3.Kl.: -atu** :br(aus. -\*ntu) | \-atām:br(aus: -\*ntām) |
 :::
-Rem. : ¹ Les terminaisons de la 2e et de la 3e personne du singulier peuvent être remplacées par -tāt lorsqu’un vœu de bénédiction est exprimé. -tāt s’ajoute (même à la 3e personne du singulier) à la racine faible.
+Rem. :¹ Les terminaisons de la 2. et 3.sg.P peuvent être remplacées par -tāt, lorsqu’un souhait de bénédiction doit être exprimé. -tāt apparaît (aussi dans la 3.sg.P) à la racine faible.
 
-:::grammar-box
-| **Concernant la forme de la terminaison de la 2e personne du singulier de l’impératif :** ||
+::: grammar-box
+| **Concernant la forme de la terminaison de la 2.sg. de l’impératif :** ||
 | :---: | :--- |
-| **\-ø** | Racines des 5e et 8e classes, devant lesquelles la finale \-u est précédée d’une seule consonne. |
-| **\-āna** | Racines de la 9e classe, se terminant par une consonne, substituent à \-nī+terminaison \-āna |
+| **\-ø** | Racines de la 5ᵉ et de la 8ᵉ classe, lorsque le \-u final est précédé uniquement d’une consonne. |
+| **\-āna** | Racines de la 9ᵉ classe, se terminant par une consonne, substituent à \-nī+terminaison \-āna |
 | **\-hi** | tous les autres stems de présent, se terminant par une voyelle ou une semi-voyelle (exception : **⟪जुहुधि⟫** pour **⟪हु⟫ 3**) |
 | **\-dhi** | Tous les autres cas |
 :::
-### 48.2.2. Form du radical de présent
+### 48.2.2. Forme du stem de présent
 
-:::grammar-box
-**Radical fort :**
+::: grammar-box
+**Racine forte :**
 
-*   **toutes les 1ères personnes de l’impératif**
-*   **3.sg.P imp.**
+*   **3.sg.P Impératif**
+*   **3.sg.P Impératif**
 
-**Radical faible : toutes les autres formes**
+**Faible radical : toutes les autres formes**
 :::
 ### 48.2.3. Deuxième classe de présent (⟪अदादि⟫)
 
 ⟪द्विष्⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1re personne**:br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
-| **2e personne**:br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
-| **3e personne**:br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
 :::
 ⟪आस्⟫ 2Ā
 
-:::grammar-box
+::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1re personne**:br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ |
-| **2e personne**:br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) |
-| **3e personne**:br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ |
 :::
 ⟪दुह्⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1re personne**:br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ |
-| **2e personne**:br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ |
-| **3e personne**:br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ |
 :::
-⟪इ⟫ 2P
+⟪⟪इ⟫⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1re personne**:br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
-| **2e personne**:br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
-| **3e personne**:br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
 :::
-⟪शी⟫ 2Ā (toujours au degré plein !)
+⟪⟪शी⟫⟫ 2Ā (toujours de haut niveau !)
 
-:::grammar-box
+::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1re personne**:br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
-| **2e personne**:br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
-| **3e personne**:br⟪प्रथमः⟫ | ⟪शेताम्⟫ | ***⟪शेरताम्⟫*** |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | *⟪शेरताम्⟫* |
 :::
 ⟪हन्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1re personne**:br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
-| **2e personne**:br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(de : \*hn-ta) |
-| **3e personne**:br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(aus: \*hn-ta) |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
 
 Rem. : ¹ Explication de **⟪जहि⟫** voir Thumb-Hauschild I,2 p. 253
 :::
 ⟪स्तु⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1re personne**:br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
-| **2e personne**:br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br***⟪स्तुवीहि⟫*** | ⟪स्तुत⟫:br***⟪स्तुवीत⟫*** | ⟪स्तुष्व⟫:br***⟪स्तुवीष्व⟫*** | ⟪स्तुध्वम्⟫:br***⟪स्तुवीध्वम्⟫*** |
-| **3e personne**:br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br***⟪स्तवीतु⟫*** | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br***⟪स्तुवीताम्⟫*** | ⟪स्तुवताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br sig[⟪स्तुवीहि⟫] | ⟪स्तुत⟫:br sig[⟪स्तुवीत⟫] | ⟪स्तुष्व⟫:br sig[⟪स्तुवीष्व⟫] | ⟪स्तुध्वम्⟫:br sig[⟪स्तुवीध्वम्⟫] |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br sig[⟪स्तवीतु⟫] | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br sig[⟪स्तुवीताम्⟫] | ⟪स्तुवताम्⟫ |
 :::
-⟪अस्⟫ 2P
+⟪⟪अस्⟫⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1re personne**:br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
-| **2e personne**:br⟪मध्यमः⟫ | ***⟪एधि⟫***:br(de : \*s-dhi) | ⟪स्त⟫ |
-| **3e personne**:br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪एधि⟫] :br(aus: \*s-dhi) | ⟪स्त⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
 :::
 ⟪शास्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-
-| **1re personne**:br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
-| **2e personne**:br⟪मध्यमः⟫ | ***⟪शाधि⟫***:br(de : śās + dhi):brirrégul. à superlatif | ⟪शिष्ट⟫ |
-| **3e personne**:br⟪प्रथमः⟫ | ⟪शास्तु⟫ | ***⟪शासतु⟫***:brirrégul. à superlatif |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. Troisième classe de présent (⟪जुहोत्यादि⟫)
+### 48.2.4. Troisième classe de présent (⟪⟪जुहोत्यादि⟫)
 
-:::grammar-box
+::: grammar-box
 **La 3.pl.P se termine par \-atu !**
 :::
 ⟪हु⟫ 3P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1ère personne**:br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | &lt;⟪जुहवै⟫&gt; | &lt;⟪जुहवामहै⟫&gt; |
-| **2ème personne**:br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brirrégulier¹ | ⟪जुहुत⟫ | &lt;⟪जुहुष्व⟫&gt; | &lt;⟪जुहुध्वम्⟫&gt; |
-| **3ème personne**:br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | &lt;⟪जुहुताम्⟫&gt; | &lt;⟪जुह्वताम्⟫&gt; |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
 
-Rem. : ¹ Dissimilation, de sorte que deux syllabes avec **⟪ह्⟫** ne se suivent pas.
+Rem. : ¹ Dissimilation, afin que deux syllabes avec **⟪ह्⟫** ne se suivent pas.
 :::
 ⟪धा⟫ 3U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1ère personne**:br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
-| **2ème personne**:br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
-| **3ème personne**:br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
 
-Rem. : ¹ **⟪धेहि⟫** issu de \*dhazdhi : disparition de la sifflante indo-européenne z sous allongement compensatoire ; v. Thumb-Hauschild I,1 p. 302
+Rem. : ¹ **⟪धेहि⟫** de \*dhazdhi : chute de la sifflante indo-européenne z avec allongement compensatoire ; v. Thumb-Hauschild I,1 p. 302
 :::
 ⟪हा⟫ 3P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1ère personne**:br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
-| **2ème personne**:br⟪मध्यमः⟫ | ***⟪जहाहि⟫***:brirrég. fort. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
-| **3ème personne**:br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-## 48.3. Sur la formation nominale : suffixes ⟪तद्धित⟫ -a et -ya
+## 48.3. Zur Nominalbildung: ⟪तद्धित⟫-Suffixe -a und -ya
 
-:::grammar-box
+::: grammar-box
 Avec le suffixe **-a** et (plus rarement) **-ya**, un autre nom peut être dérivé d'un nom. La première syllabe du nom original reçoit alors le degré allongé (**⟪वृद्धि⟫**). Si le radical du mot original se termine déjà par **-a**, la **⟪वृद्धि⟫** est le seul signe de la dérivation, car la terminaison du radical ne change pas.
 
 Les mots dérivés ont le sens :
@@ -211,7 +209,7 @@ Les mots formés ainsi sont des adjectifs, mais ils peuvent être substantivés,
 :::
 Exemples :
 
-:::indent
+::: indent
 | Mot de base | Dérivation |
 | :--- | :--- |
 | **⟪शुचि⟫** 3 "brillant, pur" | **⟪शौच⟫** n. "pureté" |
@@ -222,20 +220,21 @@ Exemples :
 | **⟪राजन्⟫** m. "roi" | **⟪राज्य⟫** n. "royauté" |
 | **⟪देव⟫** m. "Céleste, Dieu" | **⟪दैव्य⟫** 3 "céleste" |
 | **⟪ग्राम⟫** m. "village" | **⟪ग्राम्य⟫** 3 "villageois" |
-::::::grammar-box
-| **Traitement de la terminaison du radical avant le suffixe \-a :** ||
+:::
+::: grammar-box
+| **Behandlung des Stammauslautes vor dem Suffix \-a:** ||
 | :---: | :--- |
-| **\-ṛ** | **\-a** s'ajoute généralement à la terminaison **\-r** ::brpar ex. **⟪जेतृ⟫** "vainqueur" » **⟪जैत्र⟫** 3 "vainqueur" |
-| **\-a** | Remplacement du **\-a** du mot de base par le nouveau suffixe **\-a**.:brVoir exemples ci-dessus. |
-| **\-i** | Disparition du **\-i**:brpar ex. **⟪प्रकृति⟫** f. "nature" » **⟪प्राकृत⟫** 3 "naturel, normal, habituel, vulgaire" |
-| **\-u** | le plus souvent : **\-av-a**:brpar ex. **⟪गुरु⟫** 3 "lourd" ; m. "maître, professeur" » **⟪गौरव⟫** 3 "appartenant au maître, provenant du maître" ; n. "poids, lourdeur, dignité" |
+| **\-ṛ** | **\-a** tritt in der Regel an den Auslaut **\-r**::brz.B. ⟪जेतृ⟫ "Sieger" » ⟪जैत्र⟫ 3 "siegreich" |
+| **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brBeispiele siehe oben. |
+| **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
+| **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
 | **autres radicaux de déclinaison :** | voir Wackernagel, Grammaire de l'ancien indien II,2 § 38 |
 
 Avant le suffixe **-ya**, la terminaison du radical est traitée de manière similaire qu'avant le suffixe **-a**.
 :::
 Voir exemples ci-dessus !
 
-:::grammar-box
+::: grammar-box
 **Avec ces suffixes, des dérivations peuvent également être formées à partir de composés.**
 
 par ex. **⟪स्वश्व⟫** m. "celui dont les chevaux sont bons" nom propre » **⟪सौवश्व⟫** m. "descendant de Svaśva"
@@ -243,12 +242,13 @@ par ex. **⟪स्वश्व⟫** m. "celui dont les chevaux sont bons" nom p
 **Pour les composés dans lesquels, en raison du sandhi dans le premier membre, un -i ou un -u final est remplacé par -y ou -v et précède ainsi la première voyelle du mot de base (par ex. composés avec ni-, vi-, su-), la ⟪वृद्धि⟫ est formée comme si -iy ou -uv était présent.**
 
 par ex. **⟪व्याघ्र⟫** m. "tigre" » **⟪वैयाघ्र⟫** 3 "provenant d'un tigre, appartenant à un tigre"
-::::::media
+:::
+::: media
 ![](/images/lekt4801.webp)
 Fig. : ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4801))
 :::
-## 48.4. Liste de mots
+## 48.4. Wortliste
 
 ⟪श्वस्⟫ : demain
 
@@ -260,12 +260,14 @@ Fig. : ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 
 ⟪तन्त्र⟫ n. : corde ; métier à tisser, chaîne de tissage, tissu ; fondement, norme, règle ; doctrine, œuvre d'enseignement ; Tantra ; formule magique ; moyen, astuce, remède ; gouvernement, autorité
 
-:::media
+::: media
 ![](/images/lekt4802.webp)
 Fig. : ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Source de l'image : [Détails](/fr/licenses#lekt4802))
-::::::media
+:::
+
+::: media
 ![](/images/lekt4803.webp)
 Fig. : ⟪तन्त्री⟫
 Joueur de sitar = ⟪सितारवादकः⟫
@@ -275,18 +277,19 @@ Joueur de sitar = ⟪सितारवादकः⟫
 
 Déclinaison :
 
-:::grammar-box
-| **⟪स्त्री⟫ f.** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+::: grammar-box
+| **⟪स्त्री⟫ f.** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :---: | :---: | :---: |
-| **⟪प्रथमा⟫** | ⟪स्त्री⟫ | ⟪स्त्रियस्⟫ |
-| **⟪द्वितीया⟫** | ⟪स्त्रियम्⟫:br⟪स्त्रीयम्⟫ | ⟪स्त्रियस्⟫:br⟪स्त्रीस्⟫ |
-| **⟪तृतीया⟫** | ⟪स्त्रिया⟫ | ⟪स्त्रीभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪स्त्रियै⟫ | ⟪स्त्रीभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪स्त्रियास्⟫ | ⟪स्त्रीभ्यस्⟫ |
-| **⟪षष्ठी⟫** | ⟪स्त्रियास्⟫ | ⟪स्त्रीणाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪स्त्रियाम्⟫ | ⟪स्त्रीषु⟫ |
-| **⟪आमन्त्रितम्⟫** | ⟪स्त्रि⟫ | ⟪स्त्रियस्⟫ |
-::::::media
+| ⟪प्रथमा⟫ | ⟪स्त्री⟫ | ⟪स्त्रियस्⟫ |
+| ⟪द्वितीया⟫ | ⟪स्त्रियम्⟫:br⟪स्त्रीयम्⟫ | ⟪स्त्रियस्⟫:br⟪स्त्रीस्⟫ |
+| ⟪तृतीया⟫ | ⟪स्त्रिया⟫ | ⟪स्त्रीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪स्त्रियै⟫ | ⟪स्त्रीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪स्त्रियास्⟫ | ⟪स्त्रीभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪स्त्रियास्⟫ | ⟪स्त्रीणाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪स्त्रियाम्⟫ | ⟪स्त्रीषु⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪स्त्रि⟫ | ⟪स्त्रियस्⟫ |
+:::
+::: media
 ![](/images/lekt4804.webp)
 Fig. : ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 [Groupe d'entraide (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
@@ -298,7 +301,7 @@ Fig. : ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 
 ⟪कुमार⟫ m. : enfant, jeune homme, prince ; épithète de ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്⟪‍⟫ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
-:::media
+::: media
 ![](/images/lekt4805.webp)
 Fig. : ⟪कुमारः⟫
 Festival Thaipusam = தைப்பூசம், Batu Caves, Malaisie
@@ -306,7 +309,7 @@ Festival Thaipusam = தைப்பூசம், Batu Caves, Malaisie
 :::
 ⟪कुमारी⟫ f. : fille, jeune fille
 
-:::media
+::: media
 ![](/images/lekt4806.webp)
 Fig. : ⟪कुमारी⟫
 ⟪नेपाल⟫
@@ -318,7 +321,7 @@ Fig. : ⟪कुमारी⟫
 
 ⟪स्थविर⟫ 3 : vieux, âgé
 
-:::media
+::: media
 ![](/images/lekt4807.webp)
 Fig. : ⟪स्थविराः⟫
 ⟪जोधपुर⟫
@@ -330,7 +333,7 @@ Fig. : ⟪स्थविराः⟫
 
 ⟪सूक्ष्म⟫ 3 : fin, minuscule, subtil
 
-:::media
+::: media
 ![](/images/lekt4808.webp)
 Fig. : ⟪सूक्ष्मम्⟫
 Lac Karanji = ಕಾರಂಜಿ ಕೆರೆ
@@ -346,13 +349,13 @@ Lac Karanji = ಕಾರಂಜಿ ಕೆರೆ
 
 ⟪जाया⟫ f. : épouse
 
-:::media
+::: media
 ![](/images/lekt4809.webp)
 Fig. : ⟪मम⟫ ⟪जाया⟫
 (Image: Payer)
 (Source de l'image : [Détails](/fr/licenses#lekt4809))
 :::
-## 48.5. Exercice
+## 48.5. Übung
 
 A) Traduisez les ⟪सुभाषितानि⟫ au début de la leçon.
 
@@ -379,11 +382,11 @@ B) Traduisez en sanskrit (utilisez l'impératif et de préférence les racines d
 19. Ils (pl.) doivent s'asseoir dans ma maison.
 20. Les maris doivent entretenir leurs épouses (au sens de soutien).
 
-## 48.6. Exercice de traduction
+## 48.6. Übersetzungsübung
 
 ⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫):
 
-:::indent
+::: indent
 ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫  
 ⟪विषयेषु⟫ ⟪च⟫ ⟪सज्जन्त्यः⟫ ⟪संस्थाप्या⟫ ⟪आत्मनो⟫ ⟪वशे⟫ ⟪॥२॥⟫  
 ⟪पिता⟫ ⟪रक्षति⟫ ⟪कौमरे⟫ ⟪भर्ता⟫ ⟪रक्षति⟫ ⟪यौवने⟫ ⟪।⟫  
@@ -402,7 +405,7 @@ B) Traduisez en sanskrit (utilisez l'impératif et de préférence les racines d
 Explication :  
 ⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ : Gén. (⟪षष्ठी⟫) duel de ⟪द्वे⟫ ⟪कुले⟫ « deux familles »
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt4801:** [Source de l'image : Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Consulté le 2009-01-10. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, pas d'utilisation commerciale, partage à l'identique)]
 

@@ -10,9 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formez le causatif des formes verbales et des formes participiales suivantes :
 
-:::grammar-box
-
-### ⟪१⟫. Avec une racine de niveau de guṇa élevé
+### ⟪१⟫. Avec racine au degré fort (Guṇa)
 
 | Forme | Causatif |
 | :--- | :--- |
@@ -45,9 +43,8 @@ A) Formez le causatif des formes verbales et des formes participiales suivantes 
 | ⟪स्रक्ष्यति⟫ | ⟪सर्जयिष्यति⟫ |
 | ⟪लिम्पन्ति⟫ | ⟪लेपयन्ति⟫ |
 | ⟪वृद्धाः⟫ | ⟪वर्धिताः⟫ |
-::::::grammar-box
 
-### ⟪२⟫. Avec la racine à voyelle allongée (Vṛddhi)
+### ⟪२⟫. Avec racine au degré allongé (Vṛddhi)
 
 | Forme | Causatif |
 | :--- | :--- |
@@ -90,7 +87,6 @@ A) Formez le causatif des formes verbales et des formes participiales suivantes 
 | ⟪सोढायाः⟫ | ⟪साहितायाः⟫ |
 | ⟪हरन्ती⟫ | ⟪हारयन्ती⟫ |
 | ⟪ऊढया⟫ | ⟪वाहितया⟫ |
-::::::grammar-box
 
 ### ⟪३⟫. Causatif en -⟪पय⟫ (et formes spéciales)
 
@@ -101,54 +97,53 @@ A) Formez le causatif des formes verbales et des formes participiales suivantes 
 | ⟪पा⟫ ⟪१⟫ (boire) | ⟪पाययति⟫ | faire boire |
 | ⟪पा⟫ ⟪२⟫ (protéger) | ⟪पालयति⟫ | protéger, garder |
 | ⟪लभ्⟫ | ⟪लम्भयति⟫ | laisser subsister |
-| ⟪हन्⟫ | ⟪घातयति⟫ | faire tuer, faire périr |
+| ⟪हन्⟫ | ⟪घातयति⟫ | faire tuer, tuer |
 | ⟪जि⟫ | ⟪जापयति⟫ | faire triompher |
 | ⟪जीव्⟫ | ⟪जीवयति⟫ | animer |
-:::
 B) Traduisez les phrases suivantes et formez, à l'aide des verbes simples, des phrases exprimant ce qui se produit lorsque ce qui est exprimé par le causatif est réalisé.
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
-Le Kṣatriya, pour vaincre les ennemis, a fait honorer Hari et Hara par un Brahmane avec un sacrifice, et combattra les ennemis.
+Le Kṣatriya a, pour vaincre les ennemis, fait honorer Hari et Hara par un Brahmane avec un sacrifice, et combattra les ennemis.
 (Base : **⟪ब्राह्मणो⟫ ⟪हरिहरं⟫ ⟪यजति⟫ ⟪।⟫**)
 
 ⟪२⟫. **⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫**
 Le maître a enseigné le Veda au garçon, puis est retourné chez lui.
-(Base : **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**)
+(Basis : **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**)
 
 ⟪३⟫. **⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫ ⟪॥३॥⟫**
-Dans le sanctuaire le plus intérieur, l'image de la déesse est présentée.
-(Base : **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**)
+Dans le sanctuaire le plus intérieur, l'image de la déesse est exposée.
+(Basis : **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**)
 
 ⟪४⟫. **⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫**
-L'offrandant donne au feu de la nourriture à manger et une boisson à boire.
-(Base : **⟪अग्निरन्नमत्ति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पिबति⟫ ⟪।⟫**)
+L'offrandant donne à manger et à boire au feu.
+(Basis : **⟪अग्निरन्नमत्ति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पिबति⟫ ⟪।⟫**)
 
 ⟪५⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫ ⟪ब्राह्मणस्तं⟫ ⟪दासं⟫ ⟪गृहं⟫ ⟪प्रवेश्य⟫ ⟪पुत्रं⟫ ⟪पृच्छति⟫ ⟪॥५॥⟫**
-Dès que le fils est né, la Brahmane envoie un serviteur chez le Brahmane. Le Brahmane fait entrer le serviteur dans la maison et demande de ses nouvelles.
-(Base : **⟪दासो⟫ ⟪ब्राह्मणं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪दासो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫**)
+Dès que le fils est né, la femme brahmane envoie un serviteur chez le brahmane. Le brahmane fait entrer le serviteur dans la maison et lui demande des nouvelles de son fils.
+(Basis : **⟪दासो⟫ ⟪ब्राह्मणं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪दासो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫**)
 
 ⟪६⟫. **⟪स्तुवता⟫ ⟪नरेण⟫ ⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪श्राविताः⟫ ⟪॥६॥⟫**
 L'homme qui loue apporte aux dieux les hymnes de louange du grand poète.
-(Base : **⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪शृण्वन्ति⟫ ⟪।⟫**)
+(Basis : **⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪शृण्वन्ति⟫ ⟪।⟫**)
 
 ⟪७⟫. **⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫**
 Les nobles guerriers tuent les ennemis dans la grande bataille.
-(Base : **⟪अरयो⟫ ⟪म्रियन्ते⟫ ⟪।⟫**)
+(Basis : **⟪अरयो⟫ ⟪म्रियन्ते⟫ ⟪।⟫**)
 
 ⟪८⟫. **⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪॥८॥⟫**
-La noble Kṣatriyā fait honorer par un Brahmane sa divinité personnelle.
-(Base : **⟪ब्राह्मण⟫ ⟪इष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫**)
+La noble kṣatriyā fait vénérer sa divinité personnelle par un brahmane.
+(Basis : **⟪ब्राह्मण⟫ ⟪इष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫**)
 
 ⟪९⟫. **⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫**
-Pour conquérir des richesses, le grand Kṣatriya fera observer des vœux aux combattants semblables à des tigres.
-(Base : **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**)
+Pour conquérir des richesses, le grand kṣatriya fera prononcer des vœux aux combattants semblables à des tigres.
+(Basis : **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**)
 
 ⟪१०⟫. **⟪पापाद्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫**
-Pour les affranchir du mal, le Bouddha fait que les personnes nobles comprennent les nobles vérités.
-(Base : **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
+Pour les libérer du mal, le Bouddha fait que les personnes nobles comprennent les nobles vérités.
+(Basis : **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
 
-:::media
+::: media
 ![](/images/uebung045.webp)
 Fig. : ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
-(Source de l'image : [Détails](/fr/licenses#uebung045))
+(Source de l'image : [Détails](/licenses#uebung045))
 :::

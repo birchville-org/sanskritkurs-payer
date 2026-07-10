@@ -84,7 +84,7 @@ Da Brahmanen keine Last tragen, trug der Diener des Brahmanen die Last nach Haus
 
 ⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हीत्वा⟫ ⟪पनर्भवमैत्⟫ ⟪॥४॥⟫
 
-Der Kṣatriyaheld verließ mit seinem Sohn die Familie, um zu kämpfen. Da er im Kampf vom Feind getötet wurde, verließ er seinen Körper und wurde wiedergeboren.
+Der Kṣatriyaheld verliess mit seinem Sohn die Familie, um zu kämpfen. Da er im Kampf vom Feind getötet wurde, verliess er seinen Körper und wurde wiedergeboren.
 
 ⟪क्षत्रियशूराः⟫ ⟪पुत्रानादाय⟫ ⟪योद्धुं⟫ ⟪कुलान्यजहुः⟫ ⟪।⟫ ⟪ते⟫ ⟪युद्धे⟫ ⟪शत्रुहत्वाच्छरीराणि⟫ ⟪हीत्वा⟫ ⟪पुनर्भवमायन्⟫ ⟪॥४॥⟫
 
@@ -106,12 +106,14 @@ Geistig Beschränkte tun Verdienstvolles und unterlassen Böses, weil sie sich v
 
 ⟪मितमतिर्नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहाति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धो⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयात्स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येत्⟫ ⟪।⟫ ⟪स⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुणत्⟫ ⟪।⟫ ... ⟪बिभियात्⟫ ... ⟪॥७॥⟫
 
-:::media
+::: media
 ![](/images/uebung055.webp)
 Abb.: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
 (Bildquelle: [Details](/licenses#uebung055))
-::::::media
+:::
+::: media
 ![](/images/uebung056.webp)
 Abb.: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
 (Bildquelle: [Details](/licenses#uebung056))
 :::
+

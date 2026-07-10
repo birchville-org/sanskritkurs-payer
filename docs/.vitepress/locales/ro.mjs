@@ -17,7 +17,7 @@ export const ro = {
       { text: 'Cuprins', link: '/ro/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Credite', link: '/ro/impressum' },
-      { text: '⚙️', link: '/ro/settings', ariaLabel: 'Deschide setările' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/ro/settings', ariaLabel: 'Deschide setările' }
     ],
     docFooter: {
       prev: 'Lecția anterioară',

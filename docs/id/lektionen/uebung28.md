@@ -10,8 +10,6 @@ last_reconstructed: 2026-05-15
 
 A) Form the causative for the following verb forms and participial forms:
 
-:::grammar-box
-
 ### ⟪१⟫. With high-grade root (Guṇa)
 
 | Form | Causative |
@@ -45,8 +43,6 @@ A) Form the causative for the following verb forms and participial forms:
 | ⟪स्रक्ष्यति⟫ | ⟪सर्जयिष्यति⟫ |
 | ⟪लिम्पन्ति⟫ | ⟪लेपयन्ति⟫ |
 | ⟪वृद्धाः⟫ | ⟪वर्धिताः⟫ |
-::::::grammar-box
-
 ### ⟪२⟫. With lengthened root (Vṛddhi)
 
 | Form | Causative |
@@ -90,8 +86,6 @@ A) Form the causative for the following verb forms and participial forms:
 | ⟪सोढायाः⟫ | ⟪साहितायाः⟫ |
 | ⟪हरन्ती⟫ | ⟪हारयन्ती⟫ |
 | ⟪ऊढया⟫ | ⟪वाहितया⟫ |
-::::::grammar-box
-
 ### ⟪३⟫. Causative in -⟪पय⟫ (and special forms)
 
 | Root | Causative | Meaning |
@@ -104,7 +98,6 @@ A) Form the causative for the following verb forms and participial forms:
 | ⟪हन्⟫ | ⟪घातयति⟫ | to have killed, to cause to die |
 | ⟪जि⟫ | ⟪जापयति⟫ | to cause to conquer |
 | ⟪जीव्⟫ | ⟪जीवयति⟫ | to enliven |
-:::
 B) Translate the following sentences and form sentences using the simple verbs that express what happens when that which is expressed by the causative is brought about.
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
@@ -147,7 +140,7 @@ In order to conquer treasures, the great Kṣatriya will have the tiger-like war
 In order to free them from evil, Buddha causes noble people to realize the noble truths.
 (Basis: **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
 
-:::media
+::: media
 ![](/images/uebung045.webp)
 Fig.: ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
 (Image source: [Details](/en/licenses#uebung045))

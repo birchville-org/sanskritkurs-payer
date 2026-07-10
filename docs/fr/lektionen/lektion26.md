@@ -1,118 +1,121 @@
 ---
-title: Leçon 26
-subtitle: "Loi de cérébralisation de -s- à l'intérieur du mot"
+title: Lektion 26
+subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
 lesson_id: 26
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
 # Leçon 26
 
-## 26.1. Loi de cérébralisation de -s- à l'intérieur des mots
+## 26.1. Loi de cérébralisation du -s- à l'intérieur du mot
 
-:::grammar-box
-**-s-** est remplacé par **-ṣ-**, lorsque **k, r, l** ou une **voyelle** — sauf **a, ā** — précède immédiatement ou seulement séparée par **⟪अनुस्वार⟫** ou **⟪विसर्ग⟫** et qu'un autre son que **ṛ, r** suit.
+::: grammar-box
+**-s-** est remplacé par **-ṣ-** lorsque **k, r, l** ou une **voyelle** — sauf **a, ā** — précède immédiatement ou seulement séparée par **⟪अनुस्वार⟫** ou **⟪विसर्ग⟫** et qu’un autre son que **ṛ, r** suit.
 
-Ce sandhi s'applique aussi à **⟪दुस्⟫-** devant les gutturaux sourds et les labiales dans les composés.
+Ce sandhi s’applique également à **⟪दुस्⟫-** devant les gutturaux et les labiales sourdes dans les composés.
 :::
 *Exemples :*
-:::indent
-**⟪तेषाम्⟫** (de : *te-sām*)
+::: indent
+**⟪तेषाम्⟫** (issu de : *te-sām*)
 
 mais : **⟪तासाम्⟫** (*tā-sām*)
 :::
 ## 26.2. Loi de cérébralisation des dentales à l'intérieur du mot
 
-:::grammar-box
+::: grammar-box
 Les occlusives dentales sont remplacées par les rétroflexes correspondantes après les rétroflexes (y compris **-ṣ-**):
 
 - **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
 - **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
-  *(**ṣ** dû au **i** précédent, **ṭh** dû au **ṣ** qui le suit)*
+  *(**ṣ** en raison du **i** précédent, **ṭh** en raison du **ṣ** qui le précède ensuite)*
 :::
 ## 26.3. Wortsandhi pour les palataux, gutturaux, ṣ, h + -s
 
-:::grammar-box
-**-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
+::: grammar-box
+**-k, -kh, -g, -gh ; -c, -j ; -ś, -ṣ ; -h** + **s-** » **-kṣ**
 
 Exemples ci-dessous
 :::
-## 26.4. Loi de dissimilation de l’aspiration de Grassmann
+## 26.4. Loi de dissimilation par aspiration de Grassmann
 
-::::grammar-box
-**Une conséquence immédiate de deux aspirées (aspirée - voyelle - aspirée) est la perte de l’aspiration du premier son :**
+::: grammar-box
+**Une conséquence immédiate de deux aspirées (aspirée - voyelle - aspirée) est la perte de l'aspiration du premier son :**
 
 Exemple :
 
-:::indent
-\*dhu(gh) » du(g)h
 :::
-**Si, en vertu de lois phonétiques, le deuxième son perd son aspiration, alors l’aspiration réapparaît sur le premier son.**
+::: indent
+\dhu(gh) » du(g)h
+:::
+**Si le second son perd son aspiration en raison des lois phonétiques, l'aspiration réapparaît alors sur le premier son.**
 
-Exemples : voir ci-dessous le futur de  ⟪दुह्⟫ et  ⟪बुध्⟫
-:::::::media
+Exemples : voir ci-dessous le futur de  ⟪दुह्⟫ et  ⟪बुध्⟫
+::: media
 ![](/images/lekt2601.webp)
-Fig. : Hermann Grassmann
-(Source de l’image : [Détails](/fr/licenses#lekt2601))
+Fig. : Hermann Graßmann
+(Source de l'image : [Détails](/fr/licenses#lekt2601))
 :::
-## 26.5. Wortsandhi für -m, -n vor Zischlaut
+## 26.5. Sandhi lexical pour -m, -n devant une sifflante
 
-:::grammar-box
+::: grammar-box
 **Devant les consonnes fricatives, -n et -m sont remplacés par -ṃ- :**
 
-Exemple : v. ci-dessous le futur de ⟪मन्⟫
+Exemple : v. ci-dessous Futur de ⟪मन्⟫
 :::
 ## 26.6. Usage du futur simple (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
-:::grammar-box
-**Le Futur Simple (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) exprime :**
+::: grammar-box
+**Le futur simple (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) exprime :**
 
-- **le futur**
-- **une action intentionnée ou voulue ("je vais partir", "je veux partir")**
-- **une attente ("cela se produira ainsi")**
-- **l'espoir**
-- **la crainte**
-- **la probabilité**
-- **l'opinion de l'interlocuteur**
-- **l'ordre**
+- **l'avenir**
+- **une action intentionnelle ou souhaitée (« je vais partir », « je veux partir »)**
+- **une attente (« cela se produira ainsi »)**
+- **espoir**
+- **crainte**
+- **probabilité**
+- **opinion de l'énonciateur**
+- **ordre**
 
-**Le futur est en concurrence partielle avec l'optatif (voir plus loin).**
+**Le futur est en concurrence partielle avec l’optatif (voir plus loin).**
 :::
-p. ex. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Quelqu'un qui souhaite faire un vœu se rend au temple."
+par ex. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = « Quelqu’un qui souhaite faire un vœu se rend au temple. »
 
-
-:::media
+::: media
 ![](/images/lekt2602.webp)
 Fig. : ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2602))
 :::
-## 26.7. Formation du futur simple (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+## 26.7. Formation du futur simple (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
-::::grammar-box
+::: grammar-box
 **Futur simple :**
 
-:::indent
-**Radical du futur + désinences primaires**
-:::::::::::grammar-box
+:::
+::: indent
+**Radical du futur + terminaisons primaires**
+:::
+::: grammar-box
 **Radical du futur :**
 
-:::indent
-**(généralement) racine au degré plein + -sya**  
-**ou**  
-**(généralement) racine au degré plein + -i- + -sya (= - iṣya)**
 :::
-**Il faut apprendre avec les formes de base quelle racine forme quel type de radical du futur !**  
-**En général, la forme de la racine et le voyelle de jonction du futur correspondent à ceux de l’infinitif.**  
-**Certaines racines peuvent former le futur de manière optionnelle, avec ou sans la voyelle de jonction -i-.**  
-**Le participe au parasmaipada du futur se forme en ajoutant le suffixe -nt- au radical du futur, le féminin facultativement en -ntī ou -tī :**
+::: indent
+**(généralement) degré plein de la racine + -sya**  
+**ou**  
+**(généralement) degré plein de la racine + -i- + -sya (= - iṣya)**
+:::
+**Quelle racine possède quelle formation du futur, il faut l’apprendre avec les formes de base !**  
+**En général, la forme de la racine et la voyelle de liaison du futur coïncident avec l’infinitif.**  
+**Certaines racines peuvent former le futur optionnellement avec et sans la voyelle de liaison -i-.**  
+**Le participe Parasmaipada du futur se forme en ajoutant le suffixe -nt- à la base du futur, le féminin facultativement en -ntī ou -tī :**
 
-:::indent
+::: indent
 ⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫
-:::::::
+:::
 Exemples :
 
-::::grammar-box
+::: grammar-box
 
 | Racine | Futur 3. sg. P (Ā) |
 | :--- | :--- |
@@ -127,14 +130,14 @@ Exemples :
 | ⟪पद्⟫ | ⟪पत्स्यति⟫ |
 | ⟪अद्⟫ | ⟪अत्स्यति⟫ |
 | ⟪दुह्⟫ | ⟪धोक्ष्यति⟫ (⟪दोग्⟫ +  ⟪स्य⟫ + ⟪ति⟫) |
-| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ devant sourde = ⟪भोत्⟫) |
+| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ devant sourd = ⟪भोत्⟫) |
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
-::::
+:::
 ## 26.8. Exercice
 
-Formez les formes futures correspondantes en nombre, personne et genre verbal (Parasmaipada, Ātmanepada) :  
-  
+Formez les formes futures correspondant en nombre, personne et genre verbal (Parasmaipada, Ātmanepada) :
+
 A) sans voyelle de liaison -i- :
 
 1.  ⟪अत्ति⟫
@@ -144,7 +147,7 @@ A) sans voyelle de liaison -i- :
 5.  ⟪दहन्⟫
 6.  ⟪आदिशन्ति⟫
 7.  ⟪दोग्धि⟫
-8.  ⟪पश्यति⟫ (former le futur de ⟪दृश्⟫)
+8.  ⟪पश्यति⟫ (Futur von ⟪दृश्⟫ bilden)
 9.  ⟪उपानयन्ति⟫
 10.  ⟪पचति⟫
 11.  ⟪उपपद्यन्ते⟫
@@ -199,8 +202,9 @@ B) Avec voyelle de liaison -i- :
 22.  ⟪अर्हन्ति⟫
 23.  ⟪कुप्यन्ति⟫
 
-C) Futur optionnellement avec et sans -i- :
+C) Futur optionnel avec et sans -i- :
 
 1.  ⟪मुह्यन्ति⟫
 2.  ⟪वर्तते⟫
-3.  ⟪अश्नुवते⟫ (au futur Parasmaipada)
+3.  ⟪अश्नुवते⟫ (au futur, paradigma Parasmaipada)
+

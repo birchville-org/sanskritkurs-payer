@@ -15,7 +15,7 @@ last_reconstructed: 2026-04-30
 
 
 
-:::grammar-box
+::: grammar-box
 **Skema: Predikat Nomina - Subjek**
 
 misalnya, devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu adalah seorang dewa."
@@ -62,7 +62,7 @@ Dalam kamus bahasa Sanskerta, kata benda dicantumkan dalam **batang nominal**:
 
 
 
-:::grammar-box
+::: grammar-box
 **Nominatif tunggal berakhir dengan -s = -⟪स्⟫ atau bebas akhiran.**
 
 :::
@@ -72,7 +72,7 @@ Berikut adalah akar nomina yang berakhir dengan vokal, membentuk Nominatif Singu
 
 
 
-:::grammar-box
+::: grammar-box
 **Maskulinum berakhiran -a:** mis. deva m. = ⟪देव⟫ "tuhan" -- Nom. sg.: devas = ⟪देवस्⟫
 **Maskulinum berakhiran -i:** mis. kavi m. = ⟪कवि⟫ "penyair" -- Nom. sg.: kavis = ⟪कविस्⟫
 **Maskulinum berakhiran -u:** mis. guru m. = ⟪गुरु⟫ "guru" -- Nom. sg.: gurus = ⟪गुरुस्⟫
@@ -135,8 +135,7 @@ Auslautendes **-s**:
 
 
 
-:::
-tip Empat kasta (varna)
+::: tip Empat kasta (varna)
 Menurut teori klasik (mis. Manusmṛti I, 88-91), tugas-tugas dibagi:
 
 - **para Brahmana**
@@ -172,7 +171,7 @@ Keempat varṇa (m.) sering disamakan dengan kasta. Namun, keempat varṇa — b
 
 
 
-:::media
+::: media
 ![](/images/lekt0201.webp)
 Gambar: Penggambaran pembagian kasta masyarakat Eropa Abad Pertengahan (ukiran kayu dari akhir abad ke-15).
 (Sumber gambar: [Detail](/id/licenses#lekt0201))
@@ -185,12 +184,11 @@ Gambar: Penggambaran pembagian kasta masyarakat Eropa Abad Pertengahan (ukiran k
 
 Ketiga kasta mengenakan pakaian khas masing-masing kasta. Di atas kasta-kasta — yang dengan demikian disebut sebagai kehendak ilahi — takhta Kristus.
 
-Max Weber &lt;1864 – 1920&gt; mendefinisikan Stand sebagai berikut:
+Max Weber \&lt;1864 – 1920\&gt; mendefinisikan Stand sebagai berikut:
 
 
 
-:::
-note-box
+::: note-box
 "**Stand**" haruslah bermakna suatu kumpulan orang yang, dalam suatu ikatan,
 a) menuntut penilaian khusus berdasarkan status — mungkin juga
 b) menuntut monopoli khusus berdasarkan status.
@@ -208,7 +206,7 @@ Sementara kelas-kelas ekonomi tumbuh di atas dasar ekonomi berorientasi pasar, k
 
 Setiap masyarakat kasta bersifat konvensional, diatur oleh aturan-aturan hidup, sehingga menciptakan kondisi konsumsi yang secara ekonomi irasional dan dengan demikian menghambat pembentukan pasar bebas melalui apropriasi monopoli dan dengan mengecualikan kebebasan untuk mengatur kemampuan penghasilan sendiri.
 
-[**Weber, Max &lt;1864 – 1920&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max \&lt;1864 – 1920\&gt;:** Ekonomi dan Masyarakat : Kerangka Sosiologi Memahami. – Edisi ke-5, direvisi. – Tübingen : Mohr, 1976. – Hlm. 625 f.]
 
 :::
 Varṇa adalah kasta kelahiran.
@@ -219,7 +217,7 @@ Varṇa adalah kasta kelahiran.
 
 
 
-:::media
+::: media
 ![](/images/lekt0203.jpg)
 Gambar: Dewa Agni, miniatur, abad ke-18.
 (Sumber gambar: [Rincian](/id/licenses#lekt0203))
@@ -231,7 +229,7 @@ Gambar: Dewa Agni, miniatur, abad ke-18.
 
 
 
-:::media
+::: media
 ![](/images/lekt0202.webp)
 Gambar: Sādhu (⟪साधु⟫), Kuil Pashupatinath, Kathmandu.
 (Sumber gambar: [Rincian](/id/licenses#lekt0202))

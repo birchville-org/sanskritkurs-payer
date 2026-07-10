@@ -1,14 +1,14 @@
 ---
-title: Leçon 32
+title: Lektion 32
 lesson_id: 32
 status: stable
 ---
 
-# Leçon 32
+# Lektion 32
 
-## 32.1. Les temps du passé
+## 32.1. Die Vergangenheitstempora
 
-::::grammar-box
+::: grammar-box
 **Dans la littérature sanskrite ancienne et selon les grammairiens indigènes, les trois temps du passé sont clairement distingués dans leur usage :**
 
 *   **l’Aoriste (⟪लुङ्⟫ , ⟪अद्यतनी⟫) désigne soit simplement l’accomplissement d’une action, soit ce qui s’est produit au cours de la journée en cours, le passé récent**
@@ -16,10 +16,10 @@ status: stable
 *   **le Parfait (⟪लिट्⟫) désigne, comme l’Imparfait, le passé lointain, mais est utilisé, par opposition à l’Imparfait, uniquement pour des événements que le locuteur n’a pas vus lui-même**
 
 **Dans la littérature sanskrite classique, les trois temps du passé sont employés sans différence de sens (exception : le poème didactique de ⟪भारवि⟫, ⟪किरातार्जुनीय⟫).**
-::::
-## 32.2. L’imparfait (⟪लङ्⟫)
+:::
+## 32.2. Das Imperfekt (⟪लङ्⟫)
 
-::::grammar-box
+::: grammar-box
 **Formation :**
 
 **Augment a- + radical de présent + terminaison secondaire**
@@ -27,24 +27,24 @@ status: stable
 **Les trois personnes du singulier du parasmaipada à l’imparfait sont formées, pour les racines athématiques, à partir du radical de présent fort ; toutes les autres formes sont formées à partir du radical de présent faible.**
 
 **L’imparfait n’a que l’indicatif.**
-::::
+:::
 Exemples :
 
-:::indent
+::: indent
 **⟪भू⟫** 3. sg. Imp. P. **⟪अभवत्⟫** (a-bhava-t)
 
-**⟪सु⟫**
+⟪सु⟫
 *   3. sg. Imp. P. **⟪असुनोत्⟫** (a-suno-t)
 *   3. pl. Imp. P. **⟪असुन्वन्⟫** (a + sunu + an)
 :::
 ## 32.3. Règles pour l’augment
 
-::::grammar-box
+::: grammar-box
 **1. Lorsque l’augment a- précède une racine commençant par une voyelle, l’augment et le début de la racine fusionnent en ⟪वृद्धि⟫ de la voyelle de la racine.**
-::::
+:::
 Exemples :
 
-::::grammar-box
+::: grammar-box
 
 | | 3 sg. Imparf. | 3 pl. Imparf. |
 | :--- | :--- | :--- |
@@ -52,12 +52,13 @@ Exemples :
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
 | ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
-::::::::grammar-box
+:::
+::: grammar-box
 **2. Lorsque des préfixes précèdent une racine, l’augment a- se place après les préfixes, immédiatement avant la racine.**
-::::
+:::
 Exemples :
 
-::::grammar-box
+::: grammar-box
 
 | | 3 sg. Imparf. |
 | :--- | :--- |
@@ -66,57 +67,57 @@ Exemples :
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
-::::
+:::
 ## 32.4. Exemples de formation de l'imparfait
 
-:::
+::: important
 important
-**Pour démontrer la formation des formes, des formes Ātmanepada sont également formées ici pour les racines Parasmaipada ! Ces formes artificielles sont placées entre &lt; &gt;.**
+**Pour démontrer la formation des formes, des formes Ātmanepada sont également formées ici pour les racines Parasmaipada ! Ces formes artificielles sont placées entre \< \>.**
 :::
-### 32.4.1. Classes thématiques de présent
+### 32.4.1. Thematische Präsensklassen
 
-::::grammar-box
+::: grammar-box
 
-| Classe de présent | Racine:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | &lt;⟪अभवत⟫&gt; | &lt;⟪अभवन्त⟫&gt; |
-| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | &lt;⟪अनृत्यत⟫&gt; | &lt;⟪अनृत्यन्त⟫&gt; |
-| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | &lt;⟪अविशत⟫&gt; | &lt;⟪अविशन्त⟫&gt; |
-| 10. / Caus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
-| Passif | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
+| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \<⟪अभवत⟫\> | \<⟪अभवन्त⟫\> |
+| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \<⟪अनृत्यत⟫\> | \<⟪अनृत्यन्त⟫\> |
+| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \<⟪अविशत⟫\> | \<⟪अविशन्त⟫\> |
+| 10. / Kaus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
+| Passiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
-::::
-### 32.4.2. Classes de présent athématiques
+:::
+### 32.4.2. Athematische Präsensklassen
 
-::::grammar-box
+::: grammar-box
 
-| Classe de présent | Racine:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ > adveṣ > adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
-| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t > adogdh > adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
+| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ \> adveṣ \> adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
+| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t \> adogdh \> adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
 | 2. | ⟪इ⟫ | ⟪ऐत्⟫ | ⟪आयन्⟫ | | |
 | 2. | ⟪हन्⟫ | ⟪अहन्⟫:br(aus *ahant) | ⟪अघ्नन्⟫ | | |
 | 2. | ⟪स्तु⟫ | ⟪अस्तौत्⟫:br⟪अस्तवीत्⟫ | ⟪अस्तुवन्⟫ | ⟪अस्तुत⟫ | ⟪अस्तुवत⟫ |
 | 2. | ⟪अस्⟫ | ⟪आसीत्⟫ | ⟪आसन्⟫ | | |
 | 5. | ⟪सु⟫ | ⟪असुनोत्⟫ | ⟪असुन्वन्⟫ | ⟪असुनुत⟫ | ⟪असुन्वत⟫ |
-| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | &lt;⟪आप्नुत⟫&gt; | &lt;⟪आप्नुवत⟫&gt; |
+| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \<⟪आप्नुत⟫\> | \<⟪आप्नुवत⟫\> |
 | 8. | ⟪तन्⟫ | ⟪अतनोत्⟫ | ⟪अतन्वन्⟫ | ⟪अतनुत⟫ | ⟪अतन्वत⟫ |
 | 8. | ⟪कृ⟫ | ⟪अकरोत्⟫ | ⟪अकुर्वन्⟫ | ⟪अकुरुत⟫ | ⟪अकुर्वत⟫ |
-| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t > ayunakt > ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
-| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t > aruṇaddh > aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
+| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t \> ayunakt \> ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
+| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t \> aruṇaddh \> aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
-::::
-## 32.5. Liste de mots
+:::
+## 32.5. Wortliste
 
 **⟪अग्र⟫ n. :** pointe, extrémité
 
 **⟪मही⟫ f. :** terre, fond et sol (litt. : la Grande)
 
-**⟪एकदा⟫**
+⟪एकदा⟫
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
-:::indent
+::: indent
 ⟪श्रमिष्यते⟫:br
 ⟪श्रम्यते⟫:br
 ⟪श्रमयति⟫:br
@@ -125,26 +126,26 @@ important
 -⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
 :::
-**⟪पार्श्व⟫**
+⟪पार्श्व⟫
 
-**⟪चूत⟫**
+⟪चूत⟫
 
-:::media
+::: media
 ![](/images/lekt3202.webp)
 Fig. : ⟪चूतः⟫
 Manguiers, Kanpur.
 (Source de l'image : [Détails](/fr/licenses#lekt3202))
 :::
-**⟪तरु⟫** **⟪वृक्ष⟫**
+⟪तरु⟫ ⟪वृक्ष⟫
 
-**⟪पचेलिम⟫**
+⟪पचेलिम⟫
 
-**⟪स्पृहा⟫**
+⟪स्पृहा⟫
 
-**⟪परम्⟫**
+⟪परम्⟫
 
 **⟪रुह्⟫ ⟪रोहति⟫**
-:::indent
+::: indent
 ⟪रोक्ष्यति⟫:br
 ⟪रुह्यते⟫:br
 ⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
@@ -153,7 +154,7 @@ Manguiers, Kanpur.
 ⟪रोढुम्⟫
 :::
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
-:::indent
+::: indent
 ⟪ग्रहीष्यति⟫ (!):br
 ⟪गृह्यते⟫:br
 ⟪ग्राहयति⟫:br
@@ -163,42 +164,42 @@ Manguiers, Kanpur.
 :::
 **⟪वानर⟫ ⟪कपि⟫**
 
-:::media
+::: media
 ![](/images/lekt3203.webp)
 Fig. : ⟪वानराः⟫
 Singes (macaques rhésus) à Delhi.
 (Source de l'image : [Détails](/fr/licenses#lekt3203))
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
-:::indent
+::: indent
 ⟪लोकयिष्यति⟫:br
 ⟪लोक्यते⟫:br
 ⟪लोकित⟫:br
 -⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
 :::
-**⟪प्रहर्ष⟫**
+⟪प्रहर्ष⟫
 
-**⟪कति⟫**
+⟪कति⟫
 
-**⟪उपल⟫**
+⟪उपल⟫
 
-:::media
+::: media
 ![](/images/lekt3204.webp)
 Fig. : ⟪उपलाः⟫
 Carrière de pierre au sud de Pune, Maharashtra.
 (Source de l'image : [Détails](/fr/licenses#lekt3204))
 :::
-**⟪लक्ष्य⟫**
+⟪लक्ष्य⟫
 
-:::media
+::: media
 ![](/images/lekt3205.webp)
 Fig. : ⟪लक्ष्यम्⟫
 Exercice de tir / cible à flèches, Karnataka.
 (Source de l'image : [Détails](/fr/licenses#lekt3205))
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
-:::indent
+::: indent
 ⟪क्षेप्स्यति⟫:br
 ⟪क्षिप्यते⟫:br
 ⟪क्षेपयति⟫:br
@@ -207,14 +208,15 @@ Exercice de tir / cible à flèches, Karnataka.
 ⟪क्षेप्तुम्⟫
 :::
 **⟪चि⟫ ⟪चिनोति⟫**
-:::indent
+::: indent
 ⟪चेष्यति⟫:br
 ⟪चीयते⟫:br
 ⟪चाययति⟫:br
 ⟪चित⟫:br
 -⟪चित्य⟫:br
 ⟪चेतुम्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3207.webp)
 Fig. : ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
 Brûlage de galettes de bouse de vache au Rajasthan.
@@ -222,13 +224,13 @@ Brûlage de galettes de bouse de vache au Rajasthan.
 :::
 **⟪चि⟫ ⟪अव⟫**
 
-**⟪प्रति⟫**
+⟪प्रति⟫
 
-**⟪अहो⟫**
+⟪अहो⟫
 
 **⟪कौशल⟫ ⟪कुशल⟫**
 
-:::media
+::: media
 ![](/images/lekt3206.webp)
 Fig. : ⟪कौशलम्⟫
 Peinture Mehndi sur les mains à Mumbai.
@@ -326,7 +328,7 @@ B) Traduisez et résolvez les composés en sanskrit :
 
 ⟪बुद्धपुत्राः⟫ ⟪सत्यमाजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫
 
-:::media
+::: media
 ![](/images/lekt3208.webp)
 Fig. : ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
 Moine bouddhiste au Sri Lanka.
@@ -549,7 +551,7 @@ C) Traduisez en sanskrit :
 
 52. Au revoir !
 
-:::media
+::: media
 ![](/images/lekt3209.webp)
 Fig. : ⟪पुनर्दर्शनाय⟫
 Salutation / adieu indien.
@@ -600,11 +602,10 @@ Traduisez et analysez les formes de mots suivantes :
 39. ⟪यत्सु⟫
 40. ⟪रोत्स्यन्ती⟫
 
-## 32.9. Exercice de traduction
+## 32.9. Übersetzungsübung
 
-:::
-compact
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫**⟪न्पथि⟫** ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
+::: compact
+⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
 ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫:br
@@ -612,28 +613,30 @@ compact
 ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫:br
 ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫:br
 ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫:br
-⟪स⟫ ⟪कतिचिदुपला⟫**⟪नादाय⟫** ⟪वानरां⟫**⟪ल्लक्ष्यीकृत्य⟫** ⟪प्राक्षिपत्⟫ ⟪।⟫:br
+⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫:br
 ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫:br
-⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫**⟪दाय⟫** ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
+⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 :::
 (d'après : ⟪संस्कृतबालादर्श⟫)
 
-
 Explications :
 
-:::indent
+::: indent
 **⟪पथि⟫** Loc. sg. de **⟪पथ्⟫ m.** "chemin" (déclinaison irrégulière)
 
 **⟪लक्ष्यीकृ⟫** ⟪च्विऽ⟫-suffixe ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : faire quelque chose en tant que ⟪लक्ष्य⟫, ce qui n'était pas auparavant ⟪लक्ष्य⟫
 
 **⟪आदाय⟫** Absolutif de **⟪आ⟫-⟪दा⟫** (3e classe de présent) "prendre"
-::::::media
+:::
+::: media
 ![](/images/lekt3210.webp)
 Fig. : ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Singes dans les manguiers.
 (Source de l'image : [Détails](/fr/licenses#lekt3210))
-::::::deleteme-box
+:::
+
+::: deleteme-box
 
 **lekt3202:** Manguiers, Kanpur. [Source de l'image : AmarChandra / Wikipedia. CC BY-SA]
 
@@ -653,3 +656,4 @@ Singes dans les manguiers.
 
 **lekt3210:** Singes dans les manguiers. [Source de l'image : Wikipedia. GNU FDL]
 :::
+

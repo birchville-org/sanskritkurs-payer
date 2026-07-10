@@ -13,7 +13,7 @@ status: stable
 
 ### 46.1.1. ਅੰਤ
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **ਪਰਠ ਅੰਤ** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -21,12 +21,12 @@ status: stable
 :::
 ਧਿਆਨ ਦਿਓ ਕਿ ਅੰਤ -- ਜ਼ਿਆਦਾਤਰ ਪਰ ਰੂਪ ਨਹੀਂ! -- 2.ਬ. ਦੀ 1. ਅਤੇ 3.ਇ.ਪਰ ਨਾਲ ਮੇਲ ਖਾਂਦੀ ਹੈ⟪।⟫
 
-:::grammar-box
+::: grammar-box
 ਜ਼ਿਆਦਾਤਰ ਮੂਲਾਂ ਵਿੱਚ -ṛ ਤੋਂ ਪਹਿਲਾਂ -tha ਆਉਣ 'ਤੇ ਕੋਈ ਜੋੜਨ ਵਾਲਾ ਸਵਰਨ \-i- ਨਹੀਂ ਆਉਂਦਾ⟪।⟫ ਕੁਝ ਮੂਲਾਂ ਵਿੱਚ \-tha ਤੋਂ ਪਹਿਲਾਂ \-i- ਵਿਕਲਪਿਕ ਹੈ⟪।⟫
 :::
 ### 46.1.2. ਅੰਤਿਮ -dhve ਦਾ ਉਚਾਰਣ ਬਦਲਾਅ
 
-:::grammar-box
+::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
 ### 46.1.3. ਪਰਫੈਕਟ ਪ੍ਰਕਾਰ I: ਕੋਈ ਮੂਲ ਸ਼ਬਦ ਅਵਨਤੀ ਨਹੀਂ
@@ -38,12 +38,12 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 *   a-ਸੰਜ਼ਕਤ(-ਸੰਜ਼ਕਤ)
 *   ā-Konsonant
 
-:::grammar-box
+::: grammar-box
 1.ਸਿੰ.ਪ = 3.ਸਿੰ.ਪ = 2.ਬਹੁ.ਪ
 :::
 ⟪बन्ध्⟫ 9P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -51,19 +51,19 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪जीव्⟫ 1P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | &lt;⟪जिजीविषे⟫&gt; | &lt;⟪जिजीविध्वे⟫&gt;:br&lt;⟪जिजीविढ्वे⟫&gt; |
+| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \<⟪जिजीविषे⟫\> | \<⟪जिजीविध्वे⟫\>:br\<⟪जिजीविढ्वे⟫\> |
 :::
 ⟪अस्⟫ 2P, 4P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪आसिथ⟫ | ⟪आस⟫ | &lt;⟪आसिषे⟫&gt; | &lt;⟪आसिध्वे⟫&gt; |
+| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
 :::
 ### 46.1.4. ਪਰਫੈਕਟ ਪ੍ਰਕਾਰ II: ਮਜ਼ਬੂਤ਼ ਸ਼ਾਖਾ ਉੱਚ ਸ਼੍ਰੇਣੀ, ਕਮਜ਼ੋਰ ਸ਼ਾਖਾ ਘੱਟ ਸ਼੍ਰੇਣੀ
 
@@ -73,7 +73,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 
 ⟪भिद्⟫ 7U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -81,7 +81,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪मुह्⟫ 4P ਵਿਕਲਪਿਕ ⟪अनिट्⟫
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -98,7 +98,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 
 ⟪इ⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -106,7 +106,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪नी⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -114,7 +114,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪स्तु⟫ 2U (⟪अनिट्⟫)
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -122,7 +122,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪कृ⟫ 8U (⟪अनिट्⟫)
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -137,7 +137,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 
 ⟪पॄ⟫ 3P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -145,7 +145,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪संस्कृ⟫ 8U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -159,7 +159,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 
 ⟪दा⟫ 3U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -167,7 +167,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪गै⟫ 1P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -179,7 +179,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 
 ਉਹ ਕ੍ਰਿਆਵਾਂ ਜੋ ਇਸ ਪ੍ਰਕਾਰ ਦੀ ਪਾਲਣਾ ਕਰਦੀਆਂ ਹਨ:
 
-:::indent
+::: indent
 1.  gam "ਜਾਣਾ"
 2.  han (»ghan) "ਮਾਰਨਾ"
 3.  jan "ਜੰਮਣਾ"
@@ -190,7 +190,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪गम्⟫ 1P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -198,7 +198,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪हन्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -206,7 +206,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪जन्⟫ 4Ā
 
-:::grammar-box
+::: grammar-box
 | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -214,7 +214,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪यज्⟫ 1U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -222,7 +222,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪वच्⟫ 1P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -230,7 +230,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪वह्⟫ 1U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -238,7 +238,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪वद्⟫ 1P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -246,7 +246,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪स्वप्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -254,12 +254,12 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 #### 46.1.7.2. ਪਰਫੈਕਟ ਪ੍ਰਕਾਰ Vb: ਸੰਧੀ-ਅ-ਸੰਧੀ, ਸ਼ੁਰੂਆਤੀ ਸੰਧੀ ਗੁੱਤਰੀ ਨਹੀਂ, ਅਸਪਿਰੰਟ, h, ਕਮਜ਼ੋਰ ਸ਼ਾਖਾ ਬਿਨਾਂ ਪੁਨਰਾਵਰਤਨ, -e- ਨਾਲ
 
-:::grammar-box
+::: grammar-box
 ਜਦੋਂ ਸੰਯੋਜਕ ਸਵਰ -i- ਆਉਂਦਾ ਹੈ, ਤਾਂ 2.ਸਗ.ਪ. ਕਮਜ਼ੋਰ ਸ਼ਾਖਾ ਤੋਂ ਬਣਾਇਆ ਜਾਂਦਾ ਹੈ⟪।⟫
 :::
 ⟪पच्⟫ 1U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -273,7 +273,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 
 ⟪क्रम्⟫ 1U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -283,7 +283,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 
 ⟪विद्⟫ 2P ਪ੍ਰੇਜ਼ੈਂਟਿਸ਼ ਪਰਫੈਕਟ
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -291,7 +291,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪अह्⟫
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -299,7 +299,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪भू⟫ 1P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -307,7 +307,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪जि⟫ 1P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -330,7 +330,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 
 ⟪बन्ध्⟫ ਕੌਸੇਟਿਵ
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -340,7 +340,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 
 ⟪सम⟫ 3: ਬਰਾਬਰ, ਠੀਕ, ਸਮਾਨ
 
-:::indent
+::: indent
 ਇਸ ਤੋਂ:
 ⟪समम्⟫ Adv.: ਸਮਾਨ ਰੂਪ ਵਿੱਚ, ਇੱਕੋ ਸਮੇਂ (⟪तृतीयया⟫), ਸਮਾਨ ਰੂਪ ਵਿੱਚ
 ⟪समता⟫ f.: ਸਮਤਾ
@@ -349,7 +349,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : ਫੜਨਾ, ਫੜਨਾ, ਫੜਨਾ
 
-:::indent
+::: indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
 Fut. ⟪ग्र⟫***⟪ही⟫***⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
@@ -373,27 +373,30 @@ Absol. -⟪ग्राह्य⟫
 :::
 ⟪राहु⟫ ਅਤੇ ⟪केतु⟫ ਲਈ ਦੇਖੋ:
 
-> **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : ਪ੍ਰਵੇਸ਼ ਅਤੇ ਝਾਤ. -- 10. ਸੰਸਕਾਰ ਅਤੇ ਅੰਤਰਿਕ੍ਰਿਆਵਾਂ (ਸੰਸਕਾਰ). -- ਅਨੁਸੂਚੀ C: ਰਾਹੁ ਅਤੇ ਕੇਤੂ, ਅਦ੍ਰਿਸ਼ਟ ਚਲਦੇ ਤਾਰੇ . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
-:::media
+> **Payer, Alois \<1944 - \>:** Dharmashastra : ਪ੍ਰਵੇਸ਼ ਅਤੇ ਝਾਤ. -- 10. ਸੰਸਕਾਰ ਅਤੇ ਅੰਤਰਿਕ੍ਰਿਆਵਾਂ (ਸੰਸਕਾਰ). -- ਅਨੁਸੂਚੀ C: ਰਾਹੁ ਅਤੇ ਕੇਤੂ, ਅਦ੍ਰਿਸ਼ਟ ਚਲਦੇ ਤਾਰੇ . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: media
 ![](/images/lekt4602.webp)
 ਚਿੱਤਰ: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/pa/licenses#lekt4602)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4602))
-::::::media
+:::: media
 ![](/images/lekt4603.webp)
 ਚਿੱਤਰ: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/pa/licenses#lekt4603)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4603))
-::::::media
+::::
+:::
+::: media
 ![](/images/lekt4604.webp)
 ਚਿੱਤਰ: [⟪शुक्रः⟫, ⟪शनिः⟫](/pa/licenses#lekt4604)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4604))
-::::::media
+:::
+::: media
 ![](/images/lekt4605.webp)
 ਚਿੱਤਰ: [⟪राहुः⟫, ⟪केतुः⟫](/pa/licenses#lekt4605)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4605))
 :::
 ⟪तुष्⟫ 4P ⟪तुष्यति⟫ : ਸੰਤੁਸ਼ਟ ਹੋਣਾ, (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫) ਨਾਲ ਸੰਤੁਸ਼ਟ ਹੋਣਾ
 
-:::indent
+::: indent
 Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
 Fut. ⟪तोक्ष्यति⟫  
 Pass. ⟪तुष्यते⟫  
@@ -404,7 +407,7 @@ Inf. ⟪तोष्टुम्⟫
 :::
 ⟪नम्⟫ 1P ⟪नमति⟫ : ਝੁਕਣਾ, ਪ੍ਰਣਾਮ ਕਰਨਾ, ਝੁਕਣਾ, ਪ੍ਰਣਾਮ ਕਰਨਾ
 
-:::indent
+::: indent
 Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
 Fut. ⟪नंस्यति⟫  
 Pass. ⟪नम्यते⟫  
@@ -412,14 +415,15 @@ Kaus. ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫
 PPP ⟪नत⟫  
 Inf. ⟪नन्तुम्⟫
 
-::::::media
+:::: media
 ![](/images/lekt4607.webp)
 ਚਿੱਤਰ: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/pa/licenses#lekt4607)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4607))
+::::
 :::
 ⟪रुह्⟫ 1P ⟪रोहति⟫ : ਚੜ੍ਹਨਾ, ਚੜ੍ਹਨਾ
 
-:::indent
+::: indent
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Fut. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
@@ -427,14 +431,15 @@ Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***⟪प⟫***⟪यति
 PPP. ***⟪रूढ⟫***  
 Inf. ⟪रोढुम्⟫
 
-::::::media
+:::: media
 ![](/images/lekt4606.webp)
 ਚਿੱਤਰ: [⟪अश्वरोहकः⟫](/pa/licenses#lekt4606)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4606))
+::::
 :::
 ⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : ਬੁਲਾਉਣਾ, ਬੁਲਾਉਣਾ
 
-:::indent
+::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
 Fut. ⟪ह्वास्यति⟫  
 Pass. ⟪हूयते⟫  
@@ -443,11 +448,13 @@ PPP ⟪हूत⟫
 Inf. ⟪ह्वातुम्⟫  
 Absol. -⟪हूय⟫
 
-::::::media
+:::: media
 ![](/images/lekt4608.webp)
 ਚਿੱਤਰ: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/pa/licenses#lekt4608)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4608))
-::::::indent
+::::
+:::
+::: indent
 1 ⟪महामात्र⟫ m. "ਮਾਹੁਤ"; ⟪चरिष्णु⟫ 3 "ਚਾਲਕ", ⟪दूरशब्द⟫ m. "ਦੂਰ ਸੰਚਾਰ, ਟੈਲੀਫੋਨ" » ⟪चरिष्णुदूरशब्द⟫ "ਮੋਬਾਈਲ ਫੋਨ" (ਸ਼ਬਦ ਬਣਤਰ: A. Payer)
 
 :::
@@ -457,7 +464,7 @@ Absol. -⟪हूय⟫
 
 ⟪श्रम्⟫ 4P ***⟪श्रा⟫***⟪म्यति⟫ : ਥੱਕਣਾ, ਥੱਕ ਜਾਣਾ
 
-:::indent
+::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Fut. ⟪श्रमिष्यति⟫  
 Pass. ⟪श्रम्यते⟫  
@@ -468,14 +475,15 @@ Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्�
 ਇਸ ਤੋਂ:
 ⟪आश्रम⟫ m.n.
 
-::::::media
+:::: media
 ![](/images/lekt4609.webp)
 ਚਿੱਤਰ: [⟪श्रान्तः⟫](/pa/licenses#lekt4609)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4609))
+::::
 :::
 ⟪श्रि⟫ 1U ⟪श्रयति⟫ : ਟਿਕਣਾ, ਟਿਕਾਉਣਾ, ਸਹਾਰਾ ਪ੍ਰਾਪਤ ਕਰਨਾ, ਕਿਸੇ ਕੋਲ ਜਾਣਾ (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
-:::indent
+::: indent
 ਪਰੰਪਰਾ IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
 ਭਵਿੱਖ ⟪श्रयिष्यति⟫  
 ਪਾਸ. ⟪श्रीयते⟫  
@@ -486,7 +494,7 @@ PPP ⟪श्रित⟫
 :::
 ⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : ਚਿਪਕਣਾ, ਚਿਪਕਣਾ (⟪सप्तम्या⟫)
 
-:::indent
+::: indent
 ਪਰੰਪਰਾ I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
 ਭਵਿੱਖ ⟪संक्ष्यति⟫  
 ਪਾਸ. ⟪सज्यते⟫  
@@ -496,14 +504,15 @@ PPP ⟪सक्त⟫
 ਇਸ ਤੋਂ:
 ⟪सङ्ग⟫ m.: ਚਿਪਕਣਾ, ਸੰਪਰਕ (⟪तृतीयया⟫)
 
-::::::media
+:::: media
 ![](/images/lekt4610.webp)
 ਚਿੱਤਰ: [⟪सङ्गः⟫](/pa/licenses#lekt4610)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4610))
+::::
 :::
 ⟪द्रु⟫ 1P ⟪द्रवति⟫ : ਦੌੜਨਾ, ਤੇਜ਼ੀ ਨਾਲ ਜਾਣਾ
 
-:::indent
+::: indent
 ਪਰੰਪਰਾ IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
 ਭਵਿੱਖ ⟪द्रोष्यति⟫  
 ਪਾਸ. ⟪द्रूयते⟫  
@@ -515,7 +524,7 @@ PPP ⟪द्रुत⟫
 :::
 ⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : ਭਟਕਣਾ, ਭਟਕਣਾ
 
-:::indent
+::: indent
 ਪਰੰਪਰਾ Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
 ਭਵਿੱਖ ⟪भ्रमिष्यति⟫  
 ਕਾਰਣ. ⟪भ्रमयति⟫  
@@ -528,7 +537,7 @@ PPP ***⟪भ्रा⟫***⟪न्त⟫
 :::
 ⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : ਲਟਕਣਾ (⟪सप्तम्या⟫), ਟਿਕਣਾ (⟪सप्तम्या⟫)
 
-:::indent
+::: indent
 ਪਰੰਪਰਾ I ⟪ललम्बे⟫  
 ਭਵਿੱਖ ⟪लम्बिष्यते⟫  
 ਪਾਸ. ⟪लम्ब्यते⟫  
@@ -537,10 +546,11 @@ PPP ⟪लम्बित⟫
 ਅਨੰਤ. ⟪लम्बितुम्⟫  
 ਨਿਰਪੇਖ. -⟪लम्ब्य⟫
 
-::::::media
+:::: media
 ![](/images/lekt4601.jpg)
 ਚਿੱਤਰ: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/pa/licenses#lekt4601)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4601))
+::::
 :::
 ⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : ਟਿਕਣਾ (⟪द्वितीयया⟫)
 
@@ -548,20 +558,20 @@ PPP ⟪लम्बित⟫
 
 ⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : ਘੇਰਨਾ, ਜਿੱਤਣਾ, ਹਰਾਉਣਾ
 
-:::indent
+::: indent
 PPP ⟪परिभूत⟫ 3: ਹਰਾਇਆ, ਨਿੰਦਿਤ, ਨਿਮਨ
 
 :::
 ⟪नि⟫ ਪ੍ਰਯੋਗ: ਹੇਠਾਂ, ਹੇਠਾਂ, ਅੰਦਰ, ਪਿੱਛੇ
 
-:::indent
+::: indent
 ਉਦਾਹਰਣ ਵਜੋਂ
 ⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : ਹੇਠਾਂ ਬੈਠਣਾ
 
 :::
 ⟪भोस्⟫ ਸੰਬੋਧਨ ਕਣ: ਸੰਬੋਧਨ ਦਾ ਵਿਸ਼ੇਸ਼ ਅਵਾਜ਼, ਉਦਾਹਰਣ: ਹੇ, ਹੇਡਾ, ਓ, ਏ, ਹੈਲੋ, ਹਾਈ! ਅਕਸਰ ਅਨੁਵਾਦ ਨਹੀਂ ਕੀਤਾ ਜਾ ਸਕਦਾ. ਇਸ ਕਣ ਦਾ ਇੱਕ ਵਿਸ਼ੇਸ਼ ਸੰਧੀ ਹੈ: ਸਾਰੇ ਅਨੁਨਾਸਿਕ ਧ⟪्व⟫ਨੀਆਂ ਤੋਂ ਪਹਿਲਾਂ, ਇਹ ***⟪भो⟫*** ਹੈ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt4611.webp)
 ਚਿੱਤਰ: [⟪भोः⟫](/pa/licenses#lekt4611)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4611))
@@ -627,7 +637,7 @@ B) ਅਨੁਵਾਦ ਕਰੋ:
 
 ⟪प्रजहाति⟫ ⟪यदा⟫ ⟪कामानात्मन्येवात्मना⟫ ⟪तुष्टः⟫ ⟪स्थितप्रज्ञस्तदोच्यते⟫ ⟪॥१॥⟫
 
-:::indent
+::: indent
 ⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫  
 ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫  
 ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫  
@@ -636,11 +646,12 @@ B) ਅਨੁਵਾਦ ਕਰੋ:
 :::
 ⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt4612.webp)
 ਚਿੱਤਰ: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/pa/licenses#lekt4612)
 (ਚਿੱਤਰ ਸਰੋਤ: [ਵੇਰਵੇ](/pa/licenses#lekt4612))
-::::::deleteme-box
+:::
+::: deleteme-box
 
 ਨਵਗ੍ਰਹਿ ਚਿੱਤਰ ਸਰੋਤ: Redtigerxyz / ਵਿਕੀਪੀਡੀਆ. GNU FDLicense
 

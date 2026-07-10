@@ -1,23 +1,21 @@
-# Release Notes — v1.5 «Hebrew & PWA Stability»
+# Release Notes — v1.5 «Hebrew, Arabic, Aramaic & PWA Stability»
 
-**Veröffentlicht:** 2026-06-21  
+**Veröffentlicht:** 2026-07-10  
 **Vorherige Version:** v1.4.1  
 **Phasen:** 22–23
 
 ---
 
-## 15. Sprache: Hebräisch (HE)
+## 🌎 Neue Sprachen: Hebräisch, Arabisch, Aramäisch & Chinesisch (zh-CN)
 
-Das Projekt unterstützt nun eine vollständige RTL-Sprache (Right-To-Left). Hebräisch wurde vollumfänglich übersetzt und in das System integriert:
-- 61 Lektionen
-- 61 Übungen
-- Einführung in die Schrift
-- Komplettes alphabetisches Glossar und Wortliste
-- Inhaltsverzeichnis und Themenregister
+Das Projekt wurde um vier wichtige Weltsprachen erweitert. Hebräisch (HE), Arabisch (AR), Aramäisch (ARC) und Vereinfachtes Chinesisch (zh-CN) wurden vollumfänglich übersetzt und nahtlos integriert:
+- **Jeweils 61 Lektionen, 61 Übungen und Einführungen in die Schrift.**
+* **Komplette Glossare und alphabetische Wortlisten.**
+* **Inhaltsverzeichnisse und Themenregister.**
 
-**RTL-Integration & UI**
-- Das Hebräische Layout greift nativ auf `dir="rtl"` zurück.
-- Die Einstellungsseite (`/he/settings`) wurde vollständig lokalisiert, sodass Nutzer das Interface komplett auf Hebräisch bedienen können.
+**RTL-Integration (Arabisch & Hebräisch)**
+- Die arabischen und hebräischen Layouts greifen nativ auf `dir="rtl"` zurück, um eine korrekte Rechts-nach-Links-Leserichtung zu gewährleisten.
+- Die Einstellungsseiten wurden vollständig lokalisiert, sodass Nutzer das Interface komplett in ihrer Landessprache bedienen können.
 
 ---
 

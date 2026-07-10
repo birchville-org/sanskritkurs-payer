@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 5
 
-:::deleteme-box
+::: deleteme-box
 **In dieser Lektion lernen Sie:**
 - Grundlagen der Nominalkomposita (samāsa)
 - Fachterminologie für Komposita
@@ -18,7 +18,7 @@ status: stable
 :::
 ## 5.1. Nominalkomposita (samāsa m. = ⟪समास⟫)
 
-Die Bildung von Wortzusammensetzungen in sehr großem Umfang ist ein Charakteristikum des Sanskrit.
+Die Bildung von Wortzusammensetzungen in sehr grossem Umfang ist ein Charakteristikum des Sanskrit.
 
 Die wichtigsten Bildungsformen von Komposita sind:
 - **kopulative Komposita** (dvandva n. = ⟪द्वन्द्व⟫)
@@ -27,7 +27,6 @@ Die wichtigsten Bildungsformen von Komposita sind:
 
 (Zu den beiden letztgenannten siehe später!)
 
----
 
 ## 5.2. Zur Sanskrit-Terminologie für Komposita
 
@@ -38,13 +37,12 @@ Die wichtigsten Bildungsformen von Komposita sind:
 - **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Kompositum, dessen Vorderglieder ohne Kasusendungen sind (der Normalfall)
 - **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Kompositum, in dem ein oder mehrere mittlere Glieder ausgelassen werden
 
----
 
 ## 5.3. Kopulative Komposita (Dvandva n. = ⟪द्वन्द्व⟫)
 
 Die kopulativen Komposita dienen zur Verknüpfung von grammatisch gleichartigen, koordinierten Gliedern (Substantiven oder Adjektiven).
 
-:::grammar-box
+::: grammar-box
 **Ein Dvandva bezeichnet:**
 
 1. **entweder die summative Verbindung der durch seine einzelnen Glieder bezeichneten Personen, Dinge, Eigenschaften:**
@@ -85,7 +83,7 @@ Beispiele für Pluraldvandva:
 > (Anmerkung: "Ein Dichter und ein Lehrer" müsste im Dual stehen!)
 
 **Für die Reihenfolge der Glieder in einem Dvandva gelten u.a. folgende Regeln:**
-- Die Bezeichnung der verschiedenen Stände (**varṇa**) soll gemäß ihrer Hierarchie (höchster zuerst) geordnet werden.
+- Die Bezeichnung der verschiedenen Stände (**varṇa**) soll gemäss ihrer Hierarchie (höchster zuerst) geordnet werden.
 - Der Name des älteren Bruders soll dem Namen des jüngeren Bruders vorangestellt werden.
 - Im Allgemeinen soll das wichtigere Wort an den Anfang gestellt werden.
 - Wörter, die auf **-i** oder **-u** enden, sollen vorausgehen.
@@ -94,7 +92,6 @@ Beispiele für Pluraldvandva:
 
 Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen können, soll immer die später gegebene Regel befolgt werden. (Beispiele von Dualdvandva zu diesen Regeln bei Kielhorn, Grammatik § 570).
 
----
 
 ## 5.4. Wortliste
 
@@ -104,7 +101,7 @@ Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen könne
 
 **kāma** m. = ⟪काम⟫ : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma.
 
-:::media
+::: media
 ![](/images/lekt0501.webp)
 Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 (Bildquelle: Wikipedia, Public domain)
@@ -140,7 +137,6 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : sowohl ... als auch.
 
----
 
 ## 5.5. Übung
 
@@ -178,7 +174,6 @@ Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
    (Nach Kauṭilīya-arthaśāstra 1.2.1.)
    ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
 
----
 
 ## 5.6. Wiederholungsübung
 

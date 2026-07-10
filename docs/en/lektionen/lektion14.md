@@ -1,18 +1,18 @@
 ---
-title: Lesson 14
-subtitle: "Expressing the relationship of what is designated by nouns: the genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)"
+title: Lektion 14
+subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
 # Lesson 14
 
-## 14.1. The Expression of the Relationship of that Designated by Nouns: the Genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)
+## 14.1. The Expression of the Relationship of Noun-Designated Entities: the Genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)
 
-:::grammar-box
-If the relationship expressed by two nouns is to be designated, the genitive (ṣaṣṭhī f. "sixth case ending") is used. The genitive differs from all other cases in that it -- with few exceptions -- does not serve for the closer determination of the action expressed by the verb, but for the expression of the relationship between persons or things designated by nouns. Frequently the genitive stands in answer to the question: Whose?
+::: grammar-box
+If the relationship expressed by two nouns is to be indicated, the genitive (ṣaṣṭhī f. "sixth case ending") is used. The genitive differs from all other cases in that it -- with a few exceptions -- does not serve to further specify the action expressed by the verb, but rather to express the relationship between persons or things designated by nouns. Frequently, the genitive answers the question: Whose?
 :::
 Examples:
 
@@ -22,122 +22,117 @@ Examples:
 
 ⟪नगरस्यार्धम्⟫ "The half of the city"
 
-⟪रामस्य⟫ ⟪कृतम्⟫ "The / One deed of Rāma"
+⟪रामस्य⟫ ⟪कृतम्⟫ "The / A deed of Rāma"
 
-:::grammar-box
+::: grammar-box
 The normal word order is:
 
 > **Determining word in the genitive — Further specified noun in another case**
 :::
 **Genitive and PPP:**
 
-:::grammar-box
-With PPPs, the genitive can stand instead of the instrumental (tṛtīyā) for the agent (kartṛ); In the construction with the instrumental, the PPP is regarded as a passive verbal form (that standing in the instrumental designates the agent), in the construction with the genitive, the PPP is regarded as a noun or adjective (that standing in the genitive is thus not actually an agent).
+::: grammar-box
+With PPPs, the genitive can stand instead of the instrumental (tṛtīyā) for the agent (kartṛ); In the construction with the instrumental, the PPP is regarded as a passive verbal form (that which stands in the instrumental denotes the agent), in the construction with the genitive, the PPP is regarded as a noun or adjective (that which stands in the genitive is thus not actually an agent).
 
-According to Pāṇini 2.3.67, with a PPP the genitive stands if the PPP has present meaning (see above), the instrumental if the PPP has past meaning:
+According to Pāṇini 2.3.67, with a PPP in the genitive, if the PPP has present-tense meaning (see above), the instrumental is used if the PPP has past-tense meaning:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "The fruit desired by Rāma = The fruit that Rāma desires at present"
+> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "The fruit desired by Rāma = The fruit that Rāma currently desires"
 > 
 > ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "The fruit that Rāma has desired"
 
-Naturally, with a PPP neuter singular, which is used as a verbal abstract -- i.e. as a noun -- the genitive stands.
+Naturally, with a neuter singular PPP used as a verbal abstract -- i.e., as a noun -- the genitive is used.
 :::
 ## 14.2. Formation of Genitive Forms (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
-The genitive is formed for verbal stems with stem gradation from the weak stem.
+The genitive is formed from the weak stem for verbal stems with stem gradation.
 
 **Genitive of consonant-ending stems:**
 
-::::grammar-box
+::: grammar-box
 
 After a consonant, the regular genitive endings are:
 * Singular: **-as**
 * Plural: **-ām**
 
 :::
-center
+::: center
 
-| Nominal Stem | Weak Stem | Genitive Singular | Genitive Plural |
+| Nominal Stem | Schwacher Stem | Genitive Singular | Genitive Plural |
 | :--- | :--- | :--- | :--- |
-| **guṇa-vant-**:br**⟪गुणवन्त्⟫** | **guṇa-vat-**:br**⟪गुणवत्⟫** | **guṇa-vat-as**:br**⟪गुणवतस्⟫** | **guṇa-vat-ām**:br**⟪गुणवताम्⟫** |
-| **paśu-mant-**:br**⟪पशुमन्त्⟫** | **paśu-mat-**:br**⟪पशुमत्⟫** | **paśu-mat-as**:br**⟪पशुमतस्⟫** | **paśu-mat-ām**:br**⟪पशुमताम्⟫** |
+| **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
+| **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
-:::::::
-**Genitive of vowel-ending stems, except for monosyllabic root nouns and diphthong-ending stems:**
+:::
+**Genitive of vowel-ending stems, except monosyllabic root nouns and diphthong-ending stems:**
 
 **Plural:**
 
-::::grammar-box
+::: grammar-box
 
 The genitive plural of vowel-ending stems is formed as follows:
 
-> **-long vowel of the stem + -nām**
+> **-long final vowel of the stem + -nām**
 
 :::
-center
+::: center
 
-| Nominal Stem | Genitive Plural |
+| Nominal stem | Genitive Plural |
 | :--- | :--- |
-| **deva** m.:br**⟪देव⟫** | **devā-nām**:br**⟪देवानाम्⟫** |
-| **phala** n.:br**⟪फल⟫** | **phalā-nām**:br**⟪फलानाम्⟫** |
-| **devatā** f.:br**⟪देवता⟫** | **devatā-nām**:br**⟪देवतानाम्⟫** |
-| **kavi** m.:br**⟪कवि⟫** | **kavī-nām**:br**⟪कवीनाम्⟫** |
-| **śruti** f.:br**⟪श्रुति⟫** | **śrutī-nām**:br**⟪श्रुतीनाम्⟫** |
-| **devī** f.:br**⟪देवी⟫** | **devī-nām**:br**⟪देवीनाम्⟫** |
-| **paśu** m.:br**⟪पशु⟫** | **paśū-nām**:br**⟪पशूनाम्⟫** |
-| **dhenu** f.:br**⟪धेनु⟫** | **dhenū-nām**:br**⟪धेनूनाम्⟫** |
-
-:::::::
-**Genitive Singular of vowel-ending stems:**
-
-::::grammar-box
-
-The genitive singular of vowel-ending stems is formed irregularly and must be memorized well.
+| **deva** m.:br ⟪देव⟫ | **devā-nām** :br ⟪देवानाम्⟫ |
+| **phala** n.:br ⟪फल⟫ | **phalā-nām** :br ⟪फलानाम्⟫ |
+| **devatā** f.:br ⟪देवता⟫ | **devatā-nām** :br ⟪देवतानाम्⟫ |
+| **kavi** m.:br ⟪कवि⟫ | **kavī-nām** :br ⟪कवीनाम्⟫ |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutī-nām** :br ⟪श्रुतीनाम्⟫ |
+| **devī** f.:br ⟪देवी⟫ | **devī-nām** :br ⟪देवीनाम्⟫ |
+| **paśu** m.:br ⟪पशु⟫ | **paśū-nām** :br ⟪पशूनाम्⟫ |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-center
+**Genitive singular of vowel-final stems:**
+
+::: grammar-box
+
+The genitive singular of vowel-final stems is formed irregularly and must be memorized well.
+
+:::
+::: center
 
 | Stem | Genitive Singular |
 | :--- | :--- |
-| **deva** m.:br**⟪देव⟫** | **devasya**:br**⟪देवस्य⟫** |
-| **phala** n.:br**⟪फल⟫** | **phalasya**:br**⟪फलस्य⟫** |
-| **devatā** f.:br**⟪देवता⟫** | **devatāyās**:br**⟪देवतायास्⟫** |
-| **kavi** m.:br**⟪कवि⟫** | **kaves**:br**⟪कवेस्⟫** |
-| **paśu** m.:br**⟪पशु⟫** | **paśos**:br**⟪पशोस्⟫** |
-| **devī** f.:br**⟪देवी⟫** | **devyās**:br**⟪देव्यास्⟫** |
-| **śruti** f.:br**⟪श्रुति⟫** | **śrutes / śrutyās**:br**⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫**:br(i.e. either like kavi or like devī) |
-| **dhenu** f.:br**⟪धेनु⟫** | **dhenos / dhenvās**:br**⟪धेनोस्⟫ / ⟪धेन्वास्⟫**:br(i.e. either like paśu or like polysyllabic feminines ending in -ū) |
-
-:::::::
-**Interrogative and Demonstrative Pronouns:**
-
-::::grammar-box
+| **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
+| **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
+| **devatā** f.:br ⟪देवता⟫ | **devatāyās** :br ⟪देवतायास्⟫ |
+| **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
+| **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
+| **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
-center
+**Interrogative and demonstrative pronouns:**
+
+::: center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Masculine / Neuter** | **Genitive Singular** | kasya:br**⟪कस्य⟫** | tasya:br**⟪तस्य⟫** | etasya:br**⟪एतस्य⟫** | asya:br**⟪अस्य⟫** |
-| | **Genitive Plural** | keṣām:br**⟪केषाम्⟫** | teṣām:br**⟪तेषाम्⟫** | eteṣām:br**⟪एतेषाम्⟫** | eṣām:br**⟪एषाम्⟫** |
-| **Feminine** | **Genitive Singular** | kasyās:br**⟪कस्यास्⟫** | tasyās:br**⟪तस्यास्⟫** | etasyās:br**⟪एतस्यास्⟫** | asyās:br**⟪अस्यास्⟫** |
-
-| | **Genitive Plural** | kāsām:br**⟪कासाम्⟫** | tāsām:br**⟪तासाम्⟫** | etāsām:br**⟪एतासाम्⟫** | āsām:br**⟪आसाम्⟫** |
-
-:::::::
-**Formal Identity:**
+| **Masculine / Neuter** | **Genitive Singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **Genitive Plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **Feminine** | **Genitive Singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **Genitive Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
-important
+**Formal identity:**
 
-For all nominal stems except masculines and neuters ending in -a, and except for pronouns, the form of the Genitive Singular is identical to that of the Ablative (pañcamī "fifth case ending") Singular!
+::: important
 
-Note that for stems ending in a consonant, the Ablative and Genitive Singular sound the same as the Accusative Plural Masculine and Feminine!
+In all nominal stems except for masculines and neuters ending in -a, and except for pronouns, the form of the genitive singular is identical to that of the ablative (pañcamī "fifth case ending") singular!
+
+Note that in consonant-final stems, the ablative and genitive singular sound the same as the accusative plural masculine and feminine!
 
 :::
-## 14.3. Further on the Use of the Genitive (⟪षष्ठी⟫)
+## 14.3. Further on the use of the genitive (⟪षष्ठी⟫)
 
-:::grammar-box
+::: grammar-box
 Contrary to the basic rule above, the genitive is used to express the object of certain verbs, e.g. verbs of remembrance:
 
 > ⟪देवानां⟫ ⟪स्मरति⟫ "He remembers the gods"
@@ -151,10 +146,10 @@ More on this later.
 ## 14.4. Word List
 
 * **śīla n.** (⟪शील⟫) : (good) character, morality
-* **bhūṣ-aṇa n** (⟪भूषण⟫) : jewelry
+* **bhūṣ-aṇa n** (⟪भूषण⟫) : ornament
 * **dīpa m.** (⟪दीप⟫) : lamp
 
-:::media
+::: media
 ![](/images/lekt1405.webp)
 Fig.: ⟪दीपाः⟫
 (Image source: [Details](/en/licenses#lekt1405))
@@ -189,7 +184,7 @@ Translate the following proverbs and memorize them:
 
 ## 14.6. Exercise
 
-**A) Form the Genitive Singular and Plural for the following words. Provide the meaning and gender of the words:**
+**A) Form the Genitive Singular and Plural for the following words. Provide meaning and gender for the words:**
 
 ⟪१⟫. ⟪अनृत⟫
 
@@ -241,7 +236,7 @@ Translate the following proverbs and memorize them:
 
 ⟪२५⟫. ⟪पुत्रवती⟫
 
-:::media
+::: media
 ![](/images/lekt1404.webp)
 Fig.: ⟪पुत्रवती⟫
 (Image source: [Details](/en/licenses#lekt1404))
@@ -302,7 +297,7 @@ Fig.: ⟪पुत्रवती⟫
 
 ⟪५३⟫. ⟪किम्⟫
 
-:::media
+::: media
 ![](/images/lekt1403.webp)
 Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#lekt1403))
@@ -335,7 +330,7 @@ Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1402.webp)
 Fig.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#lekt1402))

@@ -1,0 +1,43 @@
+# Devanāgarī = ⟪देवनागरी⟫
+
+## Script Exercise 1
+
+Sanskrit was and is written in a multitude of scripts. The following overview provides a small excerpt from these scripts:
+
+![](/images/schrift001.webp)  
+Fig.: Script samples Sanskrit  
+\[Image source: Wikipedia, GNU FDL License\]
+
+Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+
+![](/images/schrift002.webp)
+
+Each consonant character denotes a following "a" with the consonant. If the pure consonant is to be written (without following vowel), this must be indicated by an underlined slash -- virāma = ⟪विराम⟫ --:
+
+⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
+
+Vowels following a consonant -- except "a" -- are written as follows:
+
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
+
+⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
+
+The order when writing these combinations of consonant + vowel is:
+
+![](/images/schrift003.jpg)
+
+When writing, each letter including the crossbar is completed on the upper line before the next letter is written.
+
+## Exercise
+
+Schreiben Sie in Devanāgarī:
+
+kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
+
+Read and transliterate:
+
+⟪तॄ⟫ ⟪पाप⟫ ⟪चट्⟫ ⟪चि⟫ ⟪चाप⟫ ⟪पॄ⟫ ⟪पति⟫ ⟪पितृ⟫ ⟪कॢप्⟫ ⟪कृ⟫ ⟪कुप्⟫ ⟪कुतो⟫ ⟪चैक⟫ ⟪पुट⟫ ⟪पचति⟫ ⟪तौ⟫ ⟪पू⟫ ⟪चेत्⟫ ⟪पतति⟫ ⟪ततो⟫ ⟪तट⟫ ⟪तपति⟫ ⟪तु⟫ ⟪ते⟫ ⟪कृ⟫ ⟪पीतौ⟫
+
+Additional reading exercise:
+
+⟪पिता⟩ Father, ⟪कपि⟩ Monkey, ⟪कृत⟩ done,  ⟪टीका⟩ Subcommentary, ⟪तत्⟩ this, ⟪तट⟩ Shore, ⟪पत्⟩ shoot forth, ⟪पट⟩ Fabric, ⟪काच⟩ Glass,  ⟪काकुत्⟩ Palate, ⟪चित्⟩ perceive, ⟪पृच्⟩ mix,  ⟪पोटक⟩ Servant, ⟪चेतु⟩ Intention, ⟪तौतातित⟩ Disciple of Kumārila (Mīmāṃsā), ⟪तूत⟩ Mulberry tree, ⟪पीत⟩ drunk,  ⟪पीति⟩ Drink, ⟪कॢप्⟩  fit, ⟪कृपते⟩ he laments, ⟪पुटी⟩ Fold, ⟪चापि⟩ likewise, ⟪तोक⟩ Offspring, ⟪तृपत्⟩ full, ⟪पॄ⟩ fill, ⟪कृकाटी⟩ Neck joint, ⟪पूपौ⟩ two cakes, ⟪पैतृकी⟩ paternal (fem.), ⟪कौट⟩ fraudulent, ⟪कच⟩ Head hair, ⟪कुतपे⟩ on the goat-hair mat, ⟪कुचौ⟩ Bosom, ⟪चकिता⟩ startled (fem.)

@@ -15,9 +15,11 @@
 </template>
 
 <script setup>
-import { ref, onMounted } from 'vue'
+import { ref, onMounted, watch } from 'vue'
+import { useData } from 'vitepress'
 
 const isWide = ref(false)
+const { frontmatter } = useData()
 
 const toggleWide = () => {
   const scrollPos = window.scrollY
@@ -37,11 +39,23 @@ const toggleWide = () => {
 
 onMounted(() => {
   const saved = localStorage.getItem('payer_wide_mode')
-  if (saved === 'true') {
+  if (saved === 'true' && frontmatter?.value?.layout !== 'home') {
     isWide.value = true
     document.documentElement.classList.add('is-wide')
   }
 })
+
+watch(() => frontmatter?.value?.layout, (layout) => {
+  if (layout === 'home') {
+    isWide.value = false
+    if (typeof document !== 'undefined') {
+      document.documentElement.classList.remove('is-wide')
+    }
+    if (typeof localStorage !== 'undefined') {
+      localStorage.setItem('payer_wide_mode', 'false')
+    }
+  }
+}, { immediate: true })
 </script>
 
 <style scoped>

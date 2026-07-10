@@ -1,80 +1,82 @@
 ---
-title: Leçon 41
-subtitle: "⟪सुभाषिते⟫  (deux proverbes)"
+title: Lektion 41
+subtitle: "⟪सुभाषिते⟫  (zwei Sprichwörter)"
 lesson_id: 41
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 41
+# Lektion 41
 
-## 41.1. ⟪सुभाषिते⟫ (deux proverbes)
+## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter)
 
-:::indent
-⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫
-⟪परहस्ते⟫ ⟪च⟫ ⟪यद्धनम्⟫ ⟪।⟫
-⟪कार्यकाले⟫ ⟪समुत्पन्ने⟫
+::: indent
+⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫  
+⟪परहस्ते⟫ ⟪च⟫ ⟪यद्धनम्⟫ ⟪।⟫  
+⟪कार्यकाले⟫ ⟪समुत्पन्ने⟫  
 ⟪न⟫ ⟪सा⟫ ⟪विद्या⟫ ⟪न⟫ ⟪तद्धनम्⟫ ⟪॥१॥⟫
 :::
 Explication : ⟪पर⟫ « autre »
 
-:::media
+::: media
 ![lekt4102.jpg](/images/lekt4102.webp)
 Fig. : ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
 (Source de l'image : [Détails](/fr/licenses#lekt4102))
-::::::indent
-⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫
-⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫
-⟪पयःपानं⟫ ⟪भुजङ्गानां⟫
+:::
+
+::: indent
+⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫  
+⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫  
+⟪पयःपानं⟫ ⟪भुजङ्गानां⟫  
 ⟪केवलं⟫ ⟪विषवर्धनम्⟫ ⟪॥२॥⟫
 :::
 Explication : ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
-## 41.2. Autres formations ⟪कृत्⟫ en -a
+## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a
 
-### 41.2.1. Participe présent (⟪लडादेशः⟫) Ā, Participe présent (⟪लडादेशः⟫) Passif, Participe futur (⟪ऌडादेशः⟫) Ā
+### 41.2.1. Participe présent (⟪लडादेशः⟫) Ā, Participe présent (⟪लडादेशः⟫) passif, Participe futur (⟪ऌडादेशः⟫) Ā
 
-#### 41.2.1.1. Thèmes de présent thématique, passif et futur
+#### 41.2.1.1. Thèmes de présent thématiques, passif et futur
 
-:::grammar-box
-**Formation :**
+::: grammar-box
+**Éducation :**
 
-Thème de présent / thème de passif / thème de futur + -māna (fém. mānā)
+Präsensstamm / Passivstamm / Futurstamm + -māna (fem. mānā)
 :::
 Exemples :
 
-⟪यज्⟫ 1U, Part.Prés.Ā ⟪यजमान⟫ 3 « quelqu’un qui est honoré par un sacrifice dans son propre intérêt = maître du sacrifice »
+⟪यज्⟫ 1U, Part.Prés.Ā ⟪यजमान⟫ 3 « quelqu’un qui est honoré par un sacrifice dans son propre intérêt = maître de l’offrande »
 
-⟪मन्⟫ 4Ā, Part.Prés.Ā  ⟪मन्यमान⟫ 3 « un penseur »
+⟪मन्⟫ 4Ā, Part.Prés.Ā  ⟪मन्यमान⟫ 3 « un pensant »
 
-⟪कृ⟫ 8U, Part.Prés.Passif ⟪क्रियमाण⟫ 3 « quelque chose qui est fait »
+⟪कृ⟫ 8U, Part.Prés.Pass. ⟪क्रियमाण⟫ 3 « quelque chose qui est fait »
 
-⟪दा⟫ 3U, Part.Fut.Ā ⟪दास्यमान⟫ 3 « quelqu’un qui donnera dans son propre intérêt »
+⟪दा⟫ 3U, Part.Fut.Ā ⟪दास्यमान⟫ 3 «celui qui donnera dans son propre intérêt»
 
-#### 41.2.1.2. Classes de présent athématique
+#### 41.2.1.2. Classes de présent athématiques
 
-:::grammar-box
-**Formation :**
+::: grammar-box
+**Éducation :**
 
-Thème de présent faible (sous la forme qu’il a avant la terminaison -ate de la 3.pl.Ā) + -āna (fém. -ānā)
+Faible radical de présent (dans la forme qu'il a avant la terminaison -ate de la 3.pl.Ā) + -āna (fém. -ānā)
 :::
 Exemples :
 
-:::grammar-box
+::: grammar-box
 | Racine / Classe | Participe présent Ā |
 | :--- | :--- |
 | **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | &lt;⟪जुह्वान⟫&gt;:brju-hu + āna |
+| **⟪हु⟫** 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
 | **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
 | **⟪क्री⟫** 9U | ⟪क्रीणान⟫:brkrī + n-āna |
 :::
-### 41.2.2. « Participe » de la nécessité passive (Gerundivum) (⟪कृत्य⟫)
+### 41.2.2. « Participe » de la nécessité passive (Gérondif) (⟪कृत्य⟫)
 
-:::grammar-box
-**Pour exprimer la nécessité passive (« ce qui doit être fait/should être fait »), on peut former des adjectifs à partir de racines et de stems verbaux dérivés en choisissant les suffixes suivants :**
+::: grammar-box
+**Pour exprimer la nécessité passive (« ce qui doit être fait / devrait être fait », on peut former des adjectifs à partir de racines et de thèmes verbaux dérivés, en choisissant parmi les suffixes suivants :**
 
 * **-⟪तव्य⟫** (fém. **-⟪तव्या⟫**)
 * **-⟪अनीय⟫** (fém. **-⟪अनीया⟫**)
@@ -83,227 +85,237 @@ Exemples :
 :::
 #### 41.2.2.1. Le suffixe -⟪तव्य⟫ / -⟪तव्या⟫
 
-:::grammar-box
-**Le suffixe -⟪तव्य⟫ / -⟪तव्या⟫ est ajouté aux racines et aux stems verbaux dérivés (par exemple le causatif) de la même manière que le suffixe infinitif -⟪तुम्⟫ (voir [Leçon 23](lektion23.md)), c’est-à-dire**
+::: grammar-box
+**Le suffixe -⟪⟪तव्य⟫ / -⟪⟪तव्या⟫ s’ajoute aux racines et aux stems verbaux dérivés (par exemple le causatif) de la même manière que le suffixe infinitif -⟪⟪तुम्⟫ (voir [Leçon 23](lektion23.md)), c’est-à-dire.**
 
-* **racine au degré fort + ⟪तव्य⟫**
+* **racine de haut niveau + ⟪तव्य⟫**
 
 ou
 
-* **racine au degré fort + -i- + ⟪तव्य⟫**
+* **racine de haut niveau + -i- + ⟪तव्य⟫**
 
 **Au causatif :**
 
-* **stem causatif en -ay + -i- + ⟪तव्य⟫**
+* **Stème causatif en -ay + -i- + ⟪तव्य⟫**
 :::
 Exemples :
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪जि⟫ 1P | ⟪जेतव्य⟫ 3 | « quelqu’un qui doit être vaincu ; un à vaincre » |
-| ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | « ce où l’on doit se trouver » |
-| ⟪बुध्⟫ Caus. | ⟪बोधयितव्य⟫ | « quelqu’un qui doit être réveillé ; un à réveiller » |
+| ⟪जि⟫ 1P | ⟪जेतव्य⟫ 3 | "jemand, der besiegt werden muss; ein zu besiegender" |
+| ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | "das, wo man sich befinden soll" |
+| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" |
 
 :::
 #### 41.2.2.2. Le suffixe -⟪अनीय⟫ / -⟪अनीया⟫
 
-:::grammar-box
-**Formation :**
+::: grammar-box
+**Éducation :**
 
-Racine au degré fort + -⟪अनीय⟫ / -⟪अनीया⟫
+Racine de haut niveau + -⟪अनीय⟫ / -⟪अनीया⟫
 
-**Causatif et 10e classe de présent :**
+**Causatif et 10\<sup\>e\</sup\> classe de présent :**
 
-Racine, telle qu’elle apparaît dans le stem causatif, sans -aya- + -⟪अनीय⟫ / -⟪अनीया⟫
+Racine, telle qu’elle apparaît dans le causatif, sans -aya- + -⟪अनीय⟫ / -⟪अनीया⟫
 :::
 Exemples :
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪दा⟫ 3U | ⟪दानीय⟫ 3 | « à donner ; ce qui doit être donné » |
-| ⟪जि⟫ 1P | ⟪जयनीय⟫ 3 | « à vaincre » |
-| ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | « à faire » |
-| ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | « ce qui doit être vu ; digne d’être vu » |
-| ⟪बुध्⟫ Caus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | « un à réveiller » |
-| ⟪दा⟫ Caus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | « ce qui doit être donné (par quelqu’un) » |
+| ⟪दा⟫ 3U | ⟪दानीय⟫ 3 | "zu gebendes; was gegeben werden muss" |
+| ⟪जि⟫ 1P | ⟪जयनीय⟫ 3 | "zu besiegender" |
+| ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "zu tuendes" |
+| ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "was man sehen muss; sehenswertes" |
+| ⟪बुध्⟫ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "ein zu weckender" |
+| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" |
 
 :::
 #### 41.2.2.3. Le suffixe -⟪य⟫ / -⟪या⟫
 
-:::grammar-box
-**Formation :**
+::: grammar-box
+**Éducation :**
 
-Racine (au degré faible, fort ou allongé) + -⟪य⟫
+Racine (au niveau profond, élevé ou allongé) + -⟪य⟫
 
-Pour les règles détaillées, voir Kielhorn, Grammatik der Sanskrit-Sprache, p. 195 - 197 !
+Pour les règles exactes, voir Kielhorn, Grammaire de la langue sanskrite, p. 195 - 197 !
 :::
 Traitement des voyelles finales :
 
-:::grammar-box
-**1. Les racines en -ā forment ce gerundif en -eya**
+::: grammar-box
+**1. Les racines en -ā forment ce gérondif en -eya**
 :::
 Exemples :
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | « à savoir ; ce qui doit être reconnu » |
-| ⟪दा⟫ 3U | ⟪देय⟫ 3 | « ce qui doit être donné » |
+| ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | "zu wissendes; was erkannt werden muss" |
+| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" |
 
-::::::grammar-box
-**2. Les racines en -i /-ī / -u / -ū /-ṛ ont généralement le degré fort ou allongé, sauf si elles appartiennent aux racines en -i / -u /-ṛ qui forment un gerundif avec le suffixe -⟪त्य⟫ (fém. -⟪त्या⟫) (liste de ces racines dans Kielhorn, Grammatik §537).**
+:::
+::: grammar-box
+**2. Les racines en -i /-ī / -u / -ū /-ṛ ont généralement le degré plein ou le degré allongé, à moins qu’elles ne fassent partie des racines en -i / -u /-ṛ qui forment un gérondif avec le suffixe -⟪त्य⟫ (fém. -⟪त्या⟫) (liste de ces racines chez Kielhorn, Grammatik §537).**
 :::
 Exemple :
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्मृ⟫ 1P |  ⟪स्मर्य⟫ 3 | « auquel il faut se souvenir » |
+| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "woran man sich erinnern muss" |
 
-::::::grammar-box
-**2a. Les racines en -i/-ī ont le degré fort**
+:::
+::: grammar-box
+**2a. Les racines en -i/-ī ont un grade fort**
 :::
 Exemples :
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | « à vendre ; vendable » |
-| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | « à mener » |
+| ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "zu verkaufen; verkäuflich" |
+| ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "zu führender" |
 
-::::::media
+:::
+::: media
 ![lekt4103.jpg](/images/lekt4103.webp)
 Fig. : ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
-(Source de l’image : [Détails](/fr/licenses#lekt4103))
-::::::grammar-box
-**2b. Les racines en -u /-ū remplacent le -o au degré fort devant le -ya par -av, et le -au au degré allongé par -āv. Une formation au degré allongé signifie dans ce cas une nécessité.**
+(Source de l'image : [Détails](/fr/licenses#lekt4103))
+:::
 
+::: grammar-box
+**2b. Les racines en -u /-ū remplacent le -o de niveau aigu avant -ya par -av, et le -au de niveau allongé par -āv. La formation de niveau allongé signifie dans ce cas une nécessité.**
 :::
 Exemple :
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | « ce qui doit être loué » |
-|   | ⟪स्ताव्य⟫ 3 | « ce qui doit être loué de manière nécessaire » |
+| ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "was gepriesen werden soll" |
+|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" |
 
 :::
-Exemples de racines à terminaison consonantique (règles voir Kielhorn, Grammaire § 533ss.) :
+Exemples de racines se terminant par une consonne (règles voir Kielhorn, Grammaire § 533ss.) :
 
-Formation au niveau profond :
+Éducation de niveau très bas :
 
 Exemples :
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | « digne d’être vu » |
-| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | « celui qui doit être enseigné = élève » |
+| ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "sehenswert" |
+| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" |
 
-::::::media
+:::
+::: media
 ![lekt4106.jpg](/images/lekt4106.webp)
 Fig. : ⟪दृश्यो⟫ ⟪मन्दिरः⟫
-(Source de l’image : [Détails](/fr/licenses#lekt4106))
+(Source de l'image : [Détails](/fr/licenses#lekt4106))
 :::
-Formation au niveau élevé :
+Éducation de haut niveau :
 
 Exemples :
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪द्विष्⟫ 2U | ⟪द्वेष्य⟫ 3 | « à haïr = ennemi » |
-| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | « à fendre » |
+| ⟪द्विष्⟫ 2U | ⟪द्वेष्य⟫ 3 | "zu hassender = Feind" |
+| ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "zu spaltender" |
 
-::::::grammar-box
-**Causatifs et verbes de la 10e classe de présent (⟪चुरादि⟫)**
+:::
+::: grammar-box
+**Causatif et verbes de la 10ᵉ classe de présent (⟪चुरादि⟫)**
 
-**Formation :**
+**Éducation :**
 
-Stame causatif/présent sans -aya- + -⟪य⟫
+Stème causatif/présent sans -aya- + -⟪य⟫
 :::
 Exemple :
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪मन्⟫ Causatif¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | « à honorer, très vénéré » |
+| ⟪मन्⟫ Kausativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "zu ehrender, hochverehrter" |
 
-::::::indent
-¹ en réalité Dénominal de **⟪मान⟫**
-::::::media
+:::
+::: indent
+¹ en réalité, Dérivé de **⟪मान⟫**
+:::
+::: media
 ![lekt4107.jpg](/images/lekt4107.jpg)
 Fig. : ⟪मान्यः⟫
-(Source de l’image : [Détails](/fr/licenses#lekt4107))
+(Source de l'image : [Détails](/fr/licenses#lekt4107))
 :::
 #### 41.2.2.4. Le suffixe -⟪त्य⟫ / ⟪त्या⟫ (au lieu de -⟪य⟫ / -⟪या⟫)
 
-:::grammar-box
-Liste des racines en -i / -u /-ṛ, qui forment un gérondif au lieu de -⟪य⟫ / -⟪या⟫ avec le suffixe -⟪त्य⟫ (fém. -⟪त्या⟫), chez Kielhorn, Grammaire §537.
+::: grammar-box
+Liste des racines en -i / -u /-ṛ, qui forment un gérondif au lieu de -⟪य⟫ / -⟪या⟫ avec le suffixe -⟪त्य⟫ (fém. -⟪त्या⟫), chez Kielhorn, Grammatik §537.
 
-**Formation :**
+**Éducation :**
 
-racine au niveau profond + -⟪त्य⟫ / -⟪त्या⟫
+racine de bas niveau + -⟪त्य⟫ / -⟪त्या⟫
 :::
 Exemples :
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | « à aller » |
-|  ⟪श्रु⟫ 5P |  ⟪श्रुत्य⟫ 3 | « à entendre » |
-| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | « à faire » |
+| ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "zu gehender" |
+| ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "zu hörender" |
+| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" |
 
 :::
 ### 41.2.3. Aspects syntaxiques du « participe » de la nécessité passive (Gérondif) (⟪कृत्य⟫)
 
-::::grammar-box
-Le gérondif peut être utilisé de manière attributive :
+::: grammar-box
+Le gérondif peut être utilisé attributivement :
 
-:::indent
-**⟪दर्शनीयं⟫ ⟪नगरम्⟫** = « une ville qu'il faut voir ; une ville à voir »
 :::
-Le gérondif peut également être utilisé comme nom prédicatif dans des phrases avec une construction passive exprimant une obligation ou un ordre (avec ⟪न⟫ une interdiction, une impossibilité) :
+::: indent
+**⟪दर्शनीयं⟫ ⟪नगरम्⟫** = «une ville qu'il faut voir ; une ville à voir»
+:::
+Le gérondif peut également être utilisé comme nom prédicatif dans des phrases avec des constructions passives exprimant une obligation ou un ordre (avec ⟪न⟫ une interdiction, une impossibilité) :
 
-:::indent
-**⟪काशी⟫ ⟪द्विजैर्द्रष्टव्या⟫** = « Les double-nés doivent voir Bénarès »
-::::::::::media
+::: indent
+**⟪काशी⟫ ⟪द्विजैर्द्रष्टव्या⟫** = «Les deux fois nés doivent voir Bénarès»
+:::
+::: media
 ![lekt4108.jpg](/images/lekt4108.webp)
 Fig. : ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4108))
 :::
-### 41.2.4. Différences dans l'utilisation des suffixes du gérondif
+### 41.2.4. Différences dans l'utilisation des suffixes gérondifs
 
-:::grammar-box
-L'utilisation de ces suffixes se recoupe largement
+::: grammar-box
+Dans une large mesure, l'utilisation de ces suffixes se chevauche
 
-* **-⟪तव्य⟫ (fém. -⟪तव्या⟫) :** exprime toujours une nécessité et est utilisé de préférence de manière prédicative (plus rarement attributive). Les formations avec ce suffixe ne doivent pas être utilisées dans les composés nominaux.
-* **-⟪अनीय⟫ (fém. -⟪अनीया⟫) et -⟪य⟫ (fém. -⟪या⟫) / -⟪त्य⟫ (fém. -⟪त्या⟫) (au lieu de -⟪य⟫/-⟪या⟫) :** peuvent avoir une signification supplémentaire (surtout -⟪य⟫) au sens de l'allemand "-wert" (par ex. "digne d'être vu") ou seulement une possibilité "-bar" (⟪दृश्य⟫ "visible"). Les formations avec ces suffixes peuvent être niées par ⟪अ⟫/-⟪अन्⟫- (mais pas les formations avec -⟪तव्य⟫) et il existe ⟪तत्पुरुष⟫ comme leur élément final auquel elles apparaissent.
+* **-⟪तव्य⟫ (fém. -⟪तव्या⟫) :** exprime toujours une nécessité et est de préférence utilisé de manière predicative (plus rarement attributive). Les formations avec ce suffixe ne doivent pas être utilisées dans des composés nominaux.
+* **-⟪अनीय⟫ (fém. -⟪अनीया⟫) et -⟪य⟫ (fém. -⟪या⟫) / -⟪त्य⟫ (fém. -⟪त्या⟫) (au lieu de -⟪य⟫/-⟪या⟫) :** peuvent avoir une signification supplémentaire (notamment -⟪य⟫) au sens de l'allemand "-valeur" (par ex. "digne d'être vu") ou seulement une possibilité "-able" (⟪दृश्य⟩ "visible"). Les formations avec ces suffixes peuvent être niées par ⟪अ⟩-/-⟪अन्⟩- (mais pas les formations avec -⟪तव्य⟩) et il existe ⟪तत्पुरुष⟩ comme leur composant final auquel elles apparaissent.
 :::
-### 41.2.5. Pas de connexion avec ⟪सु⟫- et ⟪दुस्⟫-
+### 41.2.5. Pas de connexion avec ⟪सु⟩- et ⟪दुस्⟩-
 
-:::grammar-box
-Avec ⟪सु⟫- et ⟪दुस्⟫- signifiant « léger » ou « lourd », les gérondifs ne doivent pas être employés. À la place, on utilise des ⟪तत्पुरुष⟫ de type ⟪सुकर⟫ 3 (« facile à faire ») (v. [Leçon 18](lektion18.md)).
+::: grammar-box
+Avec ⟪सु⟫ et ⟪दुस्⟫ signifiant « léger » ou « lourd », les gérondifs ne doivent pas être combinés. À la place, on trouve des ⟪तत्पुरुष⟫ de type ⟪सुकर⟫ 3 (« facile à faire ») (voir [Leçon 18](lektion18.md)).
 :::
-## 41.3. Liste de mots
+## 41.3. Liste de vocabulaire
 
 ⟪मूर्ख⟫ m = ⟪मूढ⟫
 
 ⟪भुजङ्ग⟫ m. : serpent
 
-:::media
+::: media
 ![lekt4105.jpg](/images/lekt4105.webp)
 Fig. : ⟪भुजङ्गः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4105))
@@ -312,14 +324,14 @@ Fig. : ⟪भुजङ्गः⟫
 
 ⟪विष⟫ n. : poison
 
-:::media
+::: media
 ![lekt4104.jpg](/images/lekt4104.webp)
 Fig. : ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4104))
 :::
 ⟪शास्⟫ 2P ⟪शास्ति⟫ : réprimander, maîtriser, ordonner, enseigner
 
-:::indent
+::: indent
 a le radical de présent faible **⟪शिष्⟫** : **⟪शिष्मस्⟫**, mais la 3e personne du pluriel au présent a un radical fort : **⟪शासति⟫** (!! terminaison -ati) à côté de **⟪शासन्ति⟫** occasionnel. **⟪अशासुर्⟫**. Tout le ⟪आत्मनेपद⟫ a également, dans la mesure où il apparaît, le radical fort : **⟪शास्ते⟫**
 
 Parfait I **⟪शशास⟫**, **⟪शशासुर्⟫**  
@@ -332,29 +344,35 @@ Absol. **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
 dont :
 
 **⟪शासना⟫** f. : édit royal, enseignement, religion
-::::::media
+:::
+::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
 Fig. : ⟪शासना⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4109))
-::::::indent
+:::
+
+::: indent
 **⟪शास्त्र⟫** n. : enseignement, œuvre didactique
 
 **⟪शास्त्रिन्⟫** m. : érudit, savant
-::::::media
+:::
+::: media
 ![lekt4110.jpg](/images/lekt4110.webp)
 Fig. : ⟪शास्त्री⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4110))
-::::::indent
+:::
+
+::: indent
 **⟪शिष्य⟫** 3 : celui qui doit être instruit = élève
 :::
 ⟪शरण⟫ 3 : protecteur, abritant ; n. protection, refuge, le fait de prendre refuge
 
 ⟪सङ्घ⟫ n. : (à ⟪सम्⟫-⟪हन्⟫ : frapper ensemble) : groupe, foule, communauté (par exemple bouddhiste)
 
-:::deleteme-box
+::: deleteme-box
 voir aussi :
 
-**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit monastique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \<1944 - \>:** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit monastique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f. : jeune fille, fille, vierge
 
@@ -362,10 +380,10 @@ voir aussi :
 
 ⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : passer
 
-:::indent
+::: indent
 PPP **⟪अतीत⟫** : n. passé
 :::
-## 41.4. Exercice
+## 41.4. Übung
 
 A) Traduisez les deux proverbes au début de la leçon.
 
@@ -375,7 +393,7 @@ B) Traduisez :
 
 ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥२॥⟫
 
-:::media
+::: media
 ![lekt4111.jpg](/images/lekt4111.webp)
 Fig. : ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ...
 (Source de l'image : [Détails](/fr/licenses#lekt4111))
@@ -386,7 +404,7 @@ Fig. : ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां�
 
 ⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥५॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 - **Image lekt4102.jpg** (Fig. : ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Source de l'image : souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Consulté le 2009-01-02. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale)]
 - **Image lekt4103.jpg** (Fig. : ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [Source de l'image : Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Consulté le 2009-01-03. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
@@ -398,5 +416,4 @@ Fig. : ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां�
 - **Image lekt4109.jpg** (Fig. : ⟪शासना⟫): Édit d'Aśoka, Dhauli, Orissa [Source de l'image : vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Consulté le 2009-01-03. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale)]
 - **Image lekt4110.jpg** (Fig. : ⟪शास्त्री⟫): Max Müller (1823 - 1900), vers 1898 [Source de l'image : Wikipedia. Domaine public]
 - **Image lekt4111.jpg** (Fig. : ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [Source de l'image : jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Consulté le 2009-01-04. -- Licence Creative Commons (Attribution, pas de travaux dérivés)]
-
 :::

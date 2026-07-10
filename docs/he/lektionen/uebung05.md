@@ -90,7 +90,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪आन्वीक्षिकी⟫ ⟪त्रयी⟫ ⟪वार्त्ता⟫ ⟪दण्डनीतिश्च⟫ ⟪विद्याः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung010.webp)
 תמונה: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 (מקור התמונה: [פרטים](/licenses#uebung010))
@@ -163,7 +163,7 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 
 ⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung009.webp)
 תמונה: ⟪ऋग्वेदः⟫
 (מקור התמונה: [פרטים](/licenses#uebung009))

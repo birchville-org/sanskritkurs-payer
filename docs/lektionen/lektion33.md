@@ -15,66 +15,70 @@ status: stable
 * das Frequentativum und
 * das Desiderativum
 
-werden mittels Reduplikation gebildet. Der Teil einer reduplizierten Form, der vor die Wurzel gesetzt wird, heißt Reduplikationssilbe.
+werden mittels Reduplikation gebildet. Der Teil einer reduplizierten Form, der vor die Wurzel gesetzt wird, heisst Reduplikationssilbe.
 
 Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal.
 
 ### 33.1.1. Der Reduplikationskonsonant
 
-:::grammar-box
+::: grammar-box
 **1. Gewöhnlich:**  
 **Wiederholung des ersten Konsonanten der Wurzel**
 :::
 Beispiele:
 
-:::indent
-**⟪दा⟫** 3 "geben"
-* 3.sg.P.Ind.Präs. **⟪ददाति⟫**
+::: indent
+⟪दा⟫ 3 "geben"
+* 3.sg.P.Ind.Präs. ⟪ददाति⟫
 
-**⟪पॄ⟫** 3 "füllen"
-* 3.sg.P.Ind.Präs. ***⟪पि⟫***⟪पर्ति⟫
+⟪पॄ⟫ 3 "füllen"
+* 3.sg.P.Ind.Präs. sig[⟪पि⟫]⟪पर्ति⟫
 
-**⟪मा⟫** 3Ā "messen"
-* 3.sg.Ā.Ind.Präs. ***⟪मि⟫***⟪मीते⟫
-::::::grammar-box
+⟪मा⟫ 3Ā "messen"
+* 3.sg.Ā.Ind.Präs. sig[⟪मि⟫]⟪मीते⟫
+:::
+::: grammar-box
 **2. Ein aspirierter Anfangskonsonant einer Wurzel wird durch den entsprechenden nicht-aspirierten Konsonanten redupliziert.**
 :::
 Beispiele:
 
-:::indent
-**⟪धा⟫** 3 "setzen"
-* 3.sg.P.Ind.Präs. **⟪दधाति⟫**
+::: indent
+⟪धा⟫ 3 "setzen"
+* 3.sg.P.Ind.Präs. ⟪दधाति⟫
 
-**⟪भी⟫** 3 "fürchten"
-* 3.sg.P.Ind.Präs. ***⟪बि⟫***⟪भेति⟫
-::::::grammar-box
+⟪भी⟫ 3 "fürchten"
+* 3.sg.P.Ind.Präs. sig[⟪बि⟫]⟪भेति⟫
+:::
+::: grammar-box
 **3. Ein Guttural wird durch den ihm entsprechenden nicht-aspirierten Palatal redupliziert:**
 
-:::indent
-**⟪क्⟫**, **⟪ख्⟫** durch **⟪च्⟫**  
-**⟪ग्⟫**, **⟪घ्⟫** durch **⟪ज्⟫**
+:::
+::: indent
+⟪क्⟫, ⟪ख्⟫ durch ⟪च्⟫  
+⟪ग्⟫, ⟪घ्⟫ durch ⟪ज्⟫
 :::
 **⟪ह्⟫ wird immer durch ⟪ज्⟫ redupliziert.**
-:::
 Beispiele:
 
-:::indent
-**⟪हु⟫** 3 "(zum Opfer) ins Feuer gießen"
-* 3.sg.P.Ind.Präs. **⟪जुहोति⟫**
-::::::grammar-box
+::: indent
+⟪हु⟫ 3 "(zum Opfer) ins Feuer giessen"
+* 3.sg.P.Ind.Präs. ⟪जुहोति⟫
+:::
+::: grammar-box
 **4. Beginnt eine Wurzel mit mehreren Konsonanten, so wird nur der erste (gegebenenfalls unter Anwendung von Regel 2 bzw. 3) wiederholt.**
-::::::grammar-box
-**5. Beginnt eine Wurzel mit einer Konsonantengruppe Zischlaut + tonloser Konsonant, so wird nicht der Zischlaut, sondern der darauf folgende tonlose Konsonant gemäß obigen Regeln redupliziert.**
+:::
+::: grammar-box
+**5. Beginnt eine Wurzel mit einer Konsonantengruppe Zischlaut + tonloser Konsonant, so wird nicht der Zischlaut, sondern der darauf folgende tonlose Konsonant gemäss obigen Regeln redupliziert.**
 :::
 Beispiel:
 
-:::indent
-**⟪स्था⟫** 1 "stehen"
-* 3.sg.P.Ind.Präs. **⟪तिष्ठति⟫**
+::: indent
+⟪स्था⟫ 1 "stehen"
+* 3.sg.P.Ind.Präs. ⟪तिष्ठति⟫
 :::
 ## 33.2. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ u.s.w.")
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
 **starker Stamm:**  
@@ -87,24 +91,24 @@ Beispiel:
 :::
 ### 33.2.1. Der Reduplikationsvokal der 3. Präsensklasse
 
-:::grammar-box
-* **Der regelmäßige Reduplikationsvokal ist -i-**
+::: grammar-box
+* **Der regelmässige Reduplikationsvokal ist -i-**
 * **u-haltige Wurzeln reduplizieren mit -u-**
 * **die Wurzeln ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ mit -a-**
 :::
 Beispiele:
 
-:::grammar-box
-**⟪हु⟫** 3P "(zum Opfer) ins Feuer gießen"
+::: grammar-box
+⟪हु⟫ 3P "(zum Opfer) ins Feuer giessen"
 
 * **starker Stamm:** ⟪जुहो⟫
 * **schwacher Stamm:** ⟪जुहु⟫
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | &lt;⟪जुहुते⟫&gt; | &lt;⟪जुह्वते⟫&gt;:brjuhu + ate |
-| **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | &lt;⟪अजुहुत⟫&gt; | &lt;⟪अजुह्वत⟫&gt;:bra-juhu + ata |
-| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | &lt;⟪जुह्वीत⟫&gt;:brjuhu + ī-ta | &lt;⟪जुह्वीरन्⟫&gt;:brjuhu + ī-ran |
+| **Indikativ Präsens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
+| **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
+| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
 ## 33.3. Zum Ablaut von ā
 
@@ -115,63 +119,66 @@ Beispiele:
 
 Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
-:::grammar-box
+::: grammar-box
 **A.**
 
 * **Tiefstufe**
   * **vor Konsonant: -i-**  
-    z.B. **⟪धा⟫** PPP: **⟪हित⟫** (hi-ta)
+    z.B. ⟪धा⟫ PPP: ⟪हित⟫ (hi-ta)
   * **vor Vokal: Ø**  
-    z.B. **⟪धा⟫** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
+    z.B. ⟪धा⟫ 3.pl.P.Ind.Präs. ⟪दधति⟫ (dadh-ati)
 * **Hochstufe: -ā-**  
-  z.B. **⟪धा⟫** 3.sg.P.Ind.Präs. **⟪दधाति⟫**
+  z.B. ⟪धा⟫ 3.sg.P.Ind.Präs. ⟪दधाति⟫
 :::
 Hierher gehört z.B. auch:
 
-:::indent
-**⟪स्था⟫** 1
-* PPP **⟪स्थित⟫** (sthi-ta)
-* 3.sg.P.Fut. **⟪स्थास्यति⟫** (sthā-sya-ti)
-::::::grammar-box
+::: indent
+⟪स्था⟫ 1
+* PPP ⟪स्थित⟫ (sthi-ta)
+* 3.sg.P.Fut. ⟪स्थास्यति⟫ (sthā-sya-ti)
+:::
+::: grammar-box
 **B.**
 
 * **Tiefstufe: -ī-**  
-  z.B. **⟪पा⟫** 1: PPP **⟪पीत⟫** (pī-ta)
+  z.B. ⟪पा⟫ 1: PPP ⟪पीत⟫ (pī-ta)
 * **Hochstufe: -ā-**  
-  z.B. **⟪पा⟫** 1: Inf. **⟪पातुम्⟫**
+  z.B. ⟪पा⟫ 1: Inf. ⟪पातुम्⟫
 :::
 ## 33.4. Wurzeln auf -ā der dritten Präsensklasse
 
-:::grammar-box
-**Wurzeln auf -ā (außer ⟪दा⟫ und ⟪धा⟫) lauten im schwachen Stamm gewöhnlich auf -ī- ab** (siehe dazu Thumb-Hauschild Bd. 1,1 S. 271. Vermutlich wirkte dabei die oben  genannte Ablautreihe B als Vorbild, obwohl diese Wurzeln sonst nach Reihe A ablauten), **vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A).**
+::: grammar-box
+**Wurzeln auf -ā (ausser ⟪दा⟫ und ⟪धा⟫) lauten im schwachen Stamm gewöhnlich auf -ī- ab** (siehe dazu Thumb-Hauschild Bd. 1,1 S. 271. Vermutlich wirkte dabei die oben  genannte Ablautreihe B als Vorbild, obwohl diese Wurzeln sonst nach Reihe A ablauten), **vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A).**
 :::
 Beispiele:
 
-:::grammar-box
-**⟪मा⟫** 3Ā "messen"
+::: grammar-box
+⟪मा⟫ 3Ā "messen"
 
 | | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- |
 | **Indikativ Präsens** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
 | **Imperfekt** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ |
 | **Optativ** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
-::::::grammar-box
-**⟪हा⟫** 3P "verlassen"
+:::
+::: grammar-box
+⟪हा⟫ 3P "verlassen"
 
 | | 3. sg. P. | 3. pl. P. |
 | :--- | :--- | :--- |
 | **Indikativ Präsens** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
 | **Imperfekt** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
-| **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel **⟪हा⟫** hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
+| **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Die Wurzeln **⟪दा⟫** und **⟪धा⟫**
+### 33.4.1. Die Wurzeln ⟪दा⟫ und ⟪धा⟫
 
-:::grammar-box
+::: grammar-box
 **Die Wurzeln ⟪दा⟫ und ⟪धा⟫ reduplizieren mit dem Vokal -a- und verlieren im schwachen Stamm den Wurzelvokal.**
 
 **Beachten Sie bei ⟪धा⟫ das Hauchdissimilationsgesetz!**
-::::::grammar-box
-**⟪धा⟫** 3U "setzen, festsetzen, zuteilen"
+:::
+::: grammar-box
+⟪धा⟫ 3U "setzen, festsetzen, zuteilen"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -179,10 +186,10 @@ Beispiele:
 | **Imperfekt** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Die Formen von **⟪दा⟫** erhält man, indem man im Paradigma von **⟪धा⟫** **dh** durch **d** ersetzt. Also:
+Die Formen von ⟪दा⟫ erhält man, indem man im Paradigma von ⟪धा⟫ **dh** durch **d** ersetzt. Also:
 
-:::grammar-box
-**⟪दा⟫** 3U "geben"
+::: grammar-box
+⟪दा⟫ 3U "geben"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -192,14 +199,14 @@ Die Formen von **⟪दा⟫** erhält man, indem man im Paradigma von **⟪ध
 :::
 ## 33.5. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
 
-:::grammar-box
+::: grammar-box
 **Die Verben der 3. Klasse bilden alle Formen des Partizip Präsens Parasmaipada vom schwachen Stamm.**
 
 **Ausnahme: Nominativ/Akkusativ Plural Neutrum kann wahlweise vom starken oder schwachen Stamm gebildet werden.**
 :::
-**⟪दा⟫** Partizip Präsens Parasmaipada:
+⟪दा⟫ Partizip Präsens Parasmaipada:
 
-:::grammar-box
+::: grammar-box
 | | Maskulinum:br⟪पुंल्लिङ्ग⟫ | Neutrum:br⟪नपुंसकलिङ्ग⟫ | Femininum:br⟪स्त्रीलिङ्ग⟫ |
 | :--- | :--- | :--- | :--- |
 | **Singular** | | | |
@@ -209,13 +216,13 @@ Die Formen von **⟪दा⟫** erhält man, indem man im Paradigma von **⟪ध
 | **1. Nominativ** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
 | **2. Akkusativ** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
 :::
-Ähnlich **⟪जुह्वत्⟫** (juhu-at + s)
+Ähnlich ⟪जुह्वत्⟫ (juhu-at + s)
 
 ## 33.6. Wortliste
 
-**⟪दा⟫** 3U **⟪ददाति⟫**: geben
+⟪दा⟫ 3U ⟪ददाति⟫: geben
 
-:::indent
+::: indent
 **Fut.**  ⟪दास्यति⟫  
 **Pass.** ⟪दीयते⟫  
 **Kaus.** ⟪दापयति⟫  
@@ -224,60 +231,63 @@ Die Formen von **⟪दा⟫** erhält man, indem man im Paradigma von **⟪ध
 
 davon:
 
-**⟪दान⟫** n.: Geben, Gabe, Freigebigkeit
-::::::media
+⟪दान⟫ n.: Geben, Gabe, Freigebigkeit
+:::
+::: media
 ![](/images/lekt3306.webp)
 Abb.: ⟪दानम्⟫
 (Bildquelle: [Details](/licenses#lekt3306))
 :::
-**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
+⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
 
-:::indent
+::: indent
 **Absol.** ⟪आदाय⟫: mit Akk.: in Begleitung von, mit
-::::::media
+:::
+::: media
 ![](/images/lekt3307.webp)
 Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Bildquelle: [Details](/licenses#lekt3307))
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: setzen, festsetzen, zuteilen
+sig[⟪धा⟫] 3U sig[⟪दधाति⟫]: setzen, festsetzen, zuteilen
 
-:::indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Kaus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫***
+::: indent
+**Fut.** sig[⟪धास्यति⟫]  
+**Pass.** sig[⟪धीयते⟫]  
+**Kaus.** sig[⟪धापयति⟫]  
+**PPP** sig[⟪हित⟫] (!!)  
+**Inf.** sig[⟪धातुम्⟫]
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: die ganze Aufmerksamkeit auf etwas richten, sich sammeln
+⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: die ganze Aufmerksamkeit auf etwas richten, sich sammeln
 
-:::indent
+::: indent
 davon:
 
-**⟪समाधि⟫** m.: innere Sammlung, höchste Aufmerksamkeit
-::::::media
+⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit
+:::
+::: media
 ![](/images/lekt3305.webp)
 Abb.: ⟪समाधि⟫
 (Bildquelle: [Details](/licenses#lekt3305))
 :::
-**⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: füllen, erfüllen
+⟪पॄ⟫ 3P ⟪पिपर्ति⟫: füllen, erfüllen
 
-:::indent
+::: indent
 Merke:
-3.pl.P ***⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪अपिपर्⟫*** (aus: \*apipart)  
-3.pl.Impf.P ***⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪पिपूर्यात्⟫***
+3.pl.P sig[⟪पिपुरति⟫]  
+3.sg.Impf.P sig[⟪अपिपर्⟫] (aus: \*apipart)  
+3.pl.Impf.P sig[⟪अपिपरुर्⟫]  
+3.sg.Opt.P sig[⟪पिपूर्यात्⟫]
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
 **Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
 **PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
 :::
-**⟪पॄ⟫** + **⟪सम्⟫** nur **Pass.** ⟪सम्पूर्यते⟫ und **Kaus.**: gänzlich füllen
+⟪पॄ⟫ + ⟪सम्⟫ nur **Pass.** ⟪सम्पूर्यते⟫ und **Kaus.**: gänzlich füllen
 
-**⟪भी⟫** 3P **⟪बिभेति⟫**: sich fürchten vor (Abl., Gen.)
+⟪भी⟫ 3P ⟪बिभेति⟫: sich fürchten vor (Abl., Gen.)
 
-:::indent
+::: indent
 **Fut.** ⟪भेष्यति⟫  
 **Pass.** ⟪भीयते⟫  
 **Kaus.** ⟪भाययति⟫  
@@ -286,15 +296,16 @@ Merke:
 
 davon:
 
-**⟪भय⟫** n.: Angst, Furcht; Gefahr (die subjektive und die objektive Seite)
-::::::media
+⟪भय⟫ n.: Angst, Furcht; Gefahr (die subjektive und die objektive Seite)
+:::
+::: media
 ![](/images/lekt3304.webp)
 Abb.: ⟪भयम्⟫
 (Bildquelle: [Details](/licenses#lekt3304))
 :::
-**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: tragen, bringen; erhalten, ernähren
+⟪भृ⟫ 3U ⟪बिभर्ति⟫: tragen, bringen; erhalten, ernähren
 
-:::indent
+::: indent
 **Fut.** ⟪भरिष्यति⟫  
 **Pass.** ⟪भ्रियते⟫  
 **Kaus.** ⟪भारयति⟫  
@@ -303,59 +314,60 @@ Abb.: ⟪भयम्⟫
 
 davon:
 
-**⟪भार⟫** m.: Last
+⟪भार⟫ m.: Last
 :::
-**⟪मा⟫** 3Ā **⟪मिमीते⟫**: messen
+⟪मा⟫ 3Ā ⟪मिमीते⟫: messen
 
-:::indent
+::: indent
 **Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
 **Pass.** ⟪मीयते⟫  
 **Kaus.** ⟪मापयति⟫  
 **PPP** ⟪मित⟫  
 **Inf.** ⟪मातुम्⟫
 :::
-**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫**: vergleichen
+⟪मा⟫ + ⟪उप⟫ 3Ā ⟪उपमिमीते⟫: vergleichen
 
-:::indent
+::: indent
 davon:
 
-**⟪उपमा⟫** f.: Vergleich
+⟪उपमा⟫ f.: Vergleich
 
-**⟪प्रतिमा⟫** f.: Abbild
+⟪प्रतिमा⟫ f.: Abbild
 :::
-**⟪हा⟫** 3P **⟪जहाति⟫**: verlassen
+⟪हा⟫ 3P ⟪जहाति⟫: verlassen
 
-:::indent
+::: indent
 **Fut.** ⟪हास्यति⟫  
 **Pass.** ⟪हीयते⟫  
 **Kaus.** ⟪हापयति⟫  
 **PPP** ⟪हीन⟫: verlassen von, ermangelnd, mangelhaft  
 **Inf.** ⟪हातुम्⟫
-von PPP **⟪हीन⟫**:
+von PPP ⟪हीन⟫:
 
-**⟪हीनयान⟫** n.: das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "großen Fahrzeugs", des **⟪महायान⟫**; der mangelhafte Weg (**⟪यान⟫** zu **⟪या⟫** 2: gehen, fahren). Der Ausdruck ⟪हीनयान⟫ sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heißt **⟪थेरवाद⟫**.
-::::::media
+⟪हीनयान⟫ n.: das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "grossen Fahrzeugs", des ⟪महायान⟫; der mangelhafte Weg (⟪यान⟫ zu ⟪या⟫ 2: gehen, fahren). Der Ausdruck ⟪हीनयान⟫ sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heisst ⟪थेरवाद⟫.
+:::
+::: media
 ![](/images/lekt3303.webp)
 Abb.: ⟪हीनयानमेव⟫
 (Bildquelle: [Details](/licenses#lekt3303))
 :::
-**⟪हु⟫** 3P **⟪जुहोति⟫**: ins Feuer gießen (als Opfer, bes. Schmelzbutter)
+⟪हु⟫ 3P ⟪जुहोति⟫: ins Feuer giessen (als Opfer, bes. Schmelzbutter)
 
-:::indent
+::: indent
 **Fut.** ⟪होष्यति⟫  
 **Pass.** ⟪हूयते⟫  
 **Kaus.** ⟪हावयति⟫  
 **PPP** ⟪हुत⟫  
 **Inf.** ⟪होतुम्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3302.webp)
 Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 (Bildquelle: [Details](/licenses#lekt3302))
 :::
-**⟪घृत⟫** n.: Schmelzbutter, Ghee (⟪घी⟫ / گھی / ঘী)
+⟪घृत⟫ n.: Schmelzbutter, Ghee (⟪घी⟫ / گھی / ঘী)
 
-:::
-note-box
+::: note-box
 "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
 
 [Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26]
@@ -392,7 +404,7 @@ C) Übersetzen Sie und wandeln Sie Singularsätze in Pluralsätze um und umgekeh
 
 ⟪ब्राह्मणा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪ब्राह्मणदासो⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt3308.webp)
 Abb.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪स्त्री⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫
 (Bildquelle: [Details](/licenses#lekt3308))
@@ -405,7 +417,7 @@ Abb.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्र�
 
 ⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **Ghee Definition & Details:**
 * Quelle: http://en.wikipedia.org/wiki/Ghee (Zugriff: 2008-12-26)

@@ -151,7 +151,7 @@ Noi vrem să fim conduși de tine.
 ⟪३४⟫. **⟪सुखाय⟫ ⟪भवतात्⟫ ⟪॥⟫ ⟪३४⟫ ⟪॥⟫**
 Să fie spre noroc! (Urare de binecuvântare)
 
-:::media
+::: media
 ![](/images/uebung075.webp)
 Fig.: ⟪माद्यत⟫
 (Sursa imaginii: [Detalii](/licenses#uebung075))

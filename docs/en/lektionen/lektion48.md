@@ -1,9 +1,9 @@
 ---
-title: Lesson 48
+title: Lektion 48
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,8 +11,7 @@ status: stable
 
 ## 48.1. ⟪सुभाषितानि⟫
 
-:::
-center
+::: center
 ⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
 
 ⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
@@ -31,172 +30,171 @@ center
 
 ### 48.2.1. Endings of the Imperative on athematic present stems
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
-| **2nd Person**:br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **3rd Person**:br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br**3rd Cl.: -atu**:br(alt. -\*ntu) | \-atām:br(alt.: -\*ntām) |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
+| **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
+| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3.Kl.: -atu** :br(aus. -\*ntu) | \-atām:br(aus: -\*ntām) |
 :::
-Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessing is to be expressed. -tāt occurs (also in the 3rd sg.) with the weak stem.
+Note: ¹ The endings of the 2nd and 3rd sg.P can be replaced by -tāt if a blessing is to be expressed. -tāt occurs (also in the 3rd sg.P) on the weak stem.
 
-:::grammar-box
-| **Regarding the form of the 2.sg. Imperative ending:** ||
+::: grammar-box
+| **Zur Form der Ending der 2.sg.Imperative.P:** ||
 | :---: | :--- |
-| **\-ø** | Roots of the 5th and 8th class, where a final \-u is preceded only by a consonant. |
-| **\-āna** | Roots of the 9th class, ending in a consonant, substitute \-nī+ending with \-āna |
-| **\-hi** | all other present stems ending in a vowel or semivowel (exception: **⟪जुहुधि⟫** to **⟪हु⟫ 3**) |
+| **\-ø** | Rootn der 5. und 8. Klasse, bei denen dem auslautenden \-u nur ein Konsonant vorausgeht. |
+| **\-āna** | Rootn der 9. Klasse, die auf Konsonant enden, substituieren für \-nī+Ending \-āna |
+| **\-hi** | all other present stems, ending in a vowel or semivowel (exception: **⟪जुहुधि⟫** to **⟪हु⟫ 3**) |
 | **\-dhi** | All other cases |
 :::
-### 48.2.2. Form of the Present Stem
+### 48.2.2. Form of the present stem
 
-:::grammar-box
-**Strong Stem:**
+::: grammar-box
+**Strong stem:**
 
-*   **all 1st person Imperatives**
-*   **3.sg. Imperative**
+*   **all 1st persons of the Imperative**
+*   **3.sg.P Imperative**
 
-**Weak Stem: all other forms**
+**Weak stem: all other forms**
 :::
 ### 48.2.3. Second Present Class (⟪अदादि⟫)
 
 ⟪द्विष्⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
 :::
 ⟪आस्⟫ 2Ā
 
-:::grammar-box
+::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ |
 :::
 ⟪दुह्⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ |
 :::
 ⟪इ⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
 :::
-⟪शी⟫ 2Ā (always with full grade!)
+⟪शी⟫ 2Ā (always high-grade!)
 
-:::grammar-box
+::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪शेताम्⟫ | ***⟪शेरताम्⟫*** |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | *⟪शेरताम्⟫* |
 :::
 ⟪हन्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(from: \*hn-ta) |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(aus: \*hn-ta) |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
 
-Note: ¹ Explanation of **⟪जहि⟫*** see Thumb-Hauschild I,2 p. 253
+Note: ¹ Explanation of **⟪जहि⟫** see Thumb-Hauschild I,2 p. 253
 :::
 ⟪स्तु⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br***⟪स्तुवीहि⟫*** | ⟪स्तुत⟫:br***⟪स्तुवीत⟫*** | ⟪स्तुष्व⟫:br***⟪स्तुवीष्व⟫*** | ⟪स्तुध्वम्⟫:br***⟪स्तुवीध्वम्⟫*** |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br***⟪स्तवीतु⟫*** | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br***⟪स्तुवीताम्⟫*** | ⟪स्तुवताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br sig[⟪स्तुवीहि⟫] | ⟪स्तुत⟫:br sig[⟪स्तुवीत⟫] | ⟪स्तुष्व⟫:br sig[⟪स्तुवीष्व⟫] | ⟪स्तुध्वम्⟫:br sig[⟪स्तुवीध्वम्⟫] |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br sig[⟪स्तवीतु⟫] | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br sig[⟪स्तुवीताम्⟫] | ⟪स्तुवताम्⟫ |
 :::
 ⟪अस्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ***⟪एधि⟫***:br(from: \*s-dhi) | ⟪स्त⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪एधि⟫] :br(aus: \*s-dhi) | ⟪स्त⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
 :::
 ⟪शास्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-
-| **1st Person**:br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ***⟪शाधि⟫***:br(from: śās + dhi):brirreg. guṇe | ⟪शिष्ट⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪शास्तु⟫ | ***⟪शासतु⟫***:brirreg. guṇe |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
 ### 48.2.4. Third Present Class (⟪जुहोत्यादि⟫)
 
-:::grammar-box
+::: grammar-box
 **The 3.pl.P ends in \-atu !**
 :::
 ⟪हु⟫ 3P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | &lt;⟪जुहवै⟫&gt; | &lt;⟪जुहवामहै⟫&gt; |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brirregular¹ | ⟪जुहुत⟫ | &lt;⟪जुहुष्व⟫&gt; | &lt;⟪जुहुध्वम्⟫&gt; |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | &lt;⟪जुहुताम्⟫&gt; | &lt;⟪जुह्वताम्⟫&gt; |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
 
 Note: ¹ Dissimilation, so that two syllables with **⟪ह्⟫** do not follow each other.
 :::
 ⟪धा⟫ 3U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
 
 Note: ¹ **⟪धेहि⟫** from \*dhazdhi: loss of the Indo-European sibilant z under compensatory lengthening; see Thumb-Hauschild I,1 p. 302
 :::
 ⟪हा⟫ 3P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ***⟪जहाहि⟫***:brirreg. strong. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-## 48.3. On nominal derivation: ⟪तद्धित⟫ suffixes -a and -ya
+## 48.3. On nominal derivation: ⟪तद्धित⟫-suffixes -a and -ya
 
-:::grammar-box
-With the suffix **-a** and (rarely) **-ya**, a noun can be derived from another noun. In doing so, the first syllable of the original noun receives the guṇa grade (**⟪वृद्धि⟫**). If the original stem already ends in **-a**, then the **⟪वृद्धि⟫** is the only marker of derivation, since the final sound of the stem remains unchanged.
+::: grammar-box
+With the suffix **-a** and (less frequently) **-ya**, a noun can be derived from another noun. In this process, the first syllable of the original noun receives the guṇa grade (**⟪वृद्धि⟫**). If the original stem already ends in **-a**, then the **⟪वृद्धि⟫** is the only marker of derivation, since the final sound of the stem remains unchanged.
 
 The derived words have the meaning:
 
@@ -207,11 +205,11 @@ e.g.
 *   "originating from"
 *   "belonging to"
 
-The words formed in this way are adjectives, but can be substantivized, e.g. as patronymics (name formation after the father: "son of N.N.") or abstracta (mostly neuter).
+The words formed in this way are adjectives, but can be substantivized, e.g. as patronymics (name formation after the father: "son of N.N.") or abstract nouns (mostly neuter).
 :::
 Examples:
 
-:::indent
+::: indent
 | Base word | Derivation |
 | :--- | :--- |
 | **⟪शुचि⟫** 3 "shining, pure" | **⟪शौच⟫** n. "purity" |
@@ -220,30 +218,32 @@ Examples:
 | **⟪ब्रह्मन्⟫** n. "formulated truth, Veda, Absolute" | **⟪ब्राह्मण⟫** m. "formulator of truth, Brāhmaṇa" |
 | **⟪शूर⟫** 3 "heroic" | **⟪शौर्य⟫** n. "heroism, bravery" |
 | **⟪राजन्⟫** m. "king" | **⟪राज्य⟫** n. "kingship" |
-| **⟪देव⟫** m. "Heavenly one, god" | **⟪दैव्य⟫** 3 "heavenly" |
-| **⟪ग्राम⟫** m. "village" | **⟪ग्राम्य⟫** 3 "village-related" |
-::::::grammar-box
-| **Treatment of the stem final before the suffix \-a:** ||
+| **⟪देव⟫** m. "Heavenly, god" | **⟪दैव्य⟫** 3 "heavenly" |
+| **⟪ग्राम⟫** m. "village" | **⟪ग्राम्य⟫** 3 "village-like" |
+:::
+::: grammar-box
+| **Behandlung des Stemauslautes vor dem Suffix \-a:** ||
 | :---: | :--- |
-| **\-ṛ** | **\-a** generally attaches to the final **\-r**::bre.g. **⟪जेतृ⟫** "winner" » **⟪जैत्र⟫** 3 "victorious" |
-| **\-a** | Replacement of the **\-a** of the base word by the new suffix **\-a**.:brSee examples above. |
-| **\-i** | Loss of the **\-i**:bre.g. **⟪प्रकृति⟫** f. "nature" » **⟪प्राकृत⟫** 3 "natural, normal, usual, vulgar" |
-| **\-u** | mostly: **\-av-a**:bre.g. **⟪गुरु⟫** 3 "heavy"; m. "master, teacher" » **⟪गौरव⟫** 3 "belonging to the master, originating from the master"; n. "weight, heaviness, dignity" |
+| **\-ṛ** | **\-a** tritt in der Regel an den Auslaut **\-r**::brz.B. ⟪जेतृ⟫ "Sieger" » ⟪जैत्र⟫ 3 "siegreich" |
+| **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brExamples siehe oben. |
+| **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
+| **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
 | **other declension stems:** | see Wackernagel, Altind. Grammatik II,2 § 38 |
 
 Before the suffix **-ya**, the stem final is treated similarly to before the suffix **-a**.
 :::
 See examples above!
 
-:::grammar-box
+::: grammar-box
 **Derivations can also be formed from compounds using these suffixes.**
 
-e.g. **⟪स्वश्व⟫** m. "he, whose horses are good" proper name » **⟪सौवश्व⟫** m. "descendant of Svaśva"
+e.g. **⟪स्वश्व⟫** m. "he, whose horses are good" proper name » **⟪सौवश्व⟫** m. "Descendant of Svaśva"
 
-**In compounds, in which due to sandhi in the prior member final -i or -u is replaced by -y or -v and thus precede the first vowel of the base word (e.g. compounds with ni-, vi-, su-), the ⟪वृद्धि⟫ is formed as if -iy or -uv were present.**
+**In compounds, where due to Sandhi the final -i or -u of the first member is replaced by -y or -v and thus precede the first vowel of the base word (e.g. compounds with ni-, vi-, su-), the ⟪वृद्धि⟫ is formed as if -iy or -uv were present.**
 
-e.g. **⟪व्याघ्र⟫** m. "tiger" » **⟪वैयाघ्र⟫** 3 "originating from a tiger, belonging to a tiger"
-::::::media
+e.g. **⟪व्याघ्र⟫** m. "Tiger" » **⟪वैयाघ्र⟫** 3 "descended from a tiger, belonging to a tiger"
+:::
+::: media
 ![](/images/lekt4801.webp)
 Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Image source: [Details](/en/licenses#lekt4801))
@@ -254,71 +254,74 @@ Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 
 ⟪अद्य⟫ : today
 
-⟪लघु⟫ 3: easy (not hard, not difficult), fast, short (in expression)
+⟪लघु⟫ 3: easy (not heavy, not difficult), fast, short (in expression)
 
-⟪व्याकरण⟫ n.: grammar (to ⟪व्याकृ⟫)
+⟪व्याकरण⟫ n.: Grammar (to ⟪व्याकृ⟫)
 
-⟪तन्त्र⟫ n.: string; loom, warp, fabric; foundation, norm, rule; doctrine, textbook; Tantra; magical formula; means, trick, medicine; government, authority
+⟪तन्त्र⟫ n.: String ; Loom, warp, fabric ; Basis, norm, rule ; Doctrine, textbook ; Tantra ; Magic formula ; Means, trick, medicine ; Government, authority
 
-:::media
+::: media
 ![](/images/lekt4802.webp)
 Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Image source: [Details](/en/licenses#lekt4802))
-::::::media
+:::
+
+::: media
 ![](/images/lekt4803.webp)
 Fig.: ⟪तन्त्री⟫
 Sitar player = ⟪सितारवादकः⟫
 (Image source: [Details](/en/licenses#lekt4803))
 :::
-⟪स्त्री⟫ f.: woman, wife; feminine
+⟪स्त्री⟫ f.: Woman, wife ; Feminine
 
 Declension:
 
-:::grammar-box
-| **⟪स्त्री⟫ f.** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+::: grammar-box
+| **⟪स्त्री⟫ f.** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :---: | :---: | :---: |
-| **⟪प्रथमा⟫** | ⟪स्त्री⟫ | ⟪स्त्रियस्⟫ |
-| **⟪द्वितीया⟫** | ⟪स्त्रियम्⟫:br⟪स्त्रीयम्⟫ | ⟪स्त्रियस्⟫:br⟪स्त्रीस्⟫ |
-| **⟪तृतीया⟫** | ⟪स्त्रिया⟫ | ⟪स्त्रीभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪स्त्रियै⟫ | ⟪स्त्रीभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪स्त्रियास्⟫ | ⟪स्त्रीभ्यस्⟫ |
-| **⟪षष्ठी⟫** | ⟪स्त्रियास्⟫ | ⟪स्त्रीणाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪स्त्रियाम्⟫ | ⟪स्त्रीषु⟫ |
-| **⟪आमन्त्रितम्⟫** | ⟪स्त्रि⟫ | ⟪स्त्रियस्⟫ |
-::::::media
+| ⟪प्रथमा⟫ | ⟪स्त्री⟫ | ⟪स्त्रियस्⟫ |
+| ⟪द्वितीया⟫ | ⟪स्त्रियम्⟫:br⟪स्त्रीयम्⟫ | ⟪स्त्रियस्⟫:br⟪स्त्रीस्⟫ |
+| ⟪तृतीया⟫ | ⟪स्त्रिया⟫ | ⟪स्त्रीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪स्त्रियै⟫ | ⟪स्त्रीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪स्त्रियास्⟫ | ⟪स्त्रीभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪स्त्रियास्⟫ | ⟪स्त्रीणाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪स्त्रियाम्⟫ | ⟪स्त्रीषु⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪स्त्रि⟫ | ⟪स्त्रियस्⟫ |
+:::
+::: media
 ![](/images/lekt4804.webp)
 Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Image source: [Details](/en/licenses#lekt4804))
 :::
-⟪दिवानिशम्⟫ Adverb: by day and night
+⟪दिवानिशम्⟫ Adverb: by day and by night
 
 ⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : to hang, to adhere
 
-⟪कुमार⟫ m.: child, youth, prince; epithet of ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്⟪‍⟫ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
+⟪कुमार⟫ m.: Child, youth, prince; epithet of ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
-:::media
+::: media
 ![](/images/lekt4805.webp)
 Fig.: ⟪कुमारः⟫
 Thaipusam festival = தைப்பூசம், Batu Caves, Malaysia
 (Image source: [Details](/en/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: girl, daughter
+⟪कुमारी⟫ f.: Girl, daughter
 
-:::media
+::: media
 ![](/images/lekt4806.webp)
 Fig.: ⟪कुमारी⟫
 ⟪नेपाल⟫
 (Image source: [Details](/en/licenses#lekt4806))
 :::
-⟪कौमर⟫ n.: childhood
+⟪कौमर⟫ n.: Childhood
 
-⟪यौवन⟫ n.: youth
+⟪यौवन⟫ n.: Youth
 
 ⟪स्थविर⟫ 3: old, aged
 
-:::media
+::: media
 ![](/images/lekt4807.webp)
 Fig.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
@@ -330,23 +333,23 @@ Fig.: ⟪स्थविराः⟫
 
 ⟪सूक्ष्म⟫ 3: fine, tiny, subtle
 
-:::media
+::: media
 ![](/images/lekt4808.webp)
 Fig.: ⟪सूक्ष्मम्⟫
 Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 (Image source: [Details](/en/licenses#lekt4808))
 :::
-⟪प्रसङ्ग⟫ m.: attachment, inclination; opportunity
+⟪प्रसङ्ग⟫ m.: attachment, inclination ; opportunity
 
 ⟪विशेष⟫ m.: difference, peculiarity
 
 ⟪प्रसूति⟫ f.: birth, offspring
 
-⟪चरित्र⟫ n.: custom, habit, customary law; conduct
+⟪चरित्र⟫ n.: custom, habit, customary law ; conduct
 
 ⟪जाया⟫ f.: wife
 
-:::media
+::: media
 ![](/images/lekt4809.webp)
 Fig.: ⟪मम⟫ ⟪जाया⟫
 (Image: Payer)
@@ -356,10 +359,10 @@ Fig.: ⟪मम⟫ ⟪जाया⟫
 
 A) Translate the ⟪सुभाषितानि⟫ at the beginning of the lesson.
 
-B) Translate into Sanskrit (using the imperative and preferably roots of the 2nd and 3rd present class):
+B) Translate into Sanskrit (use the imperative and preferably roots of the 2nd and 3rd present class):
 
-1. After you have obtained a son, leave the family!
-2. Descendants of Puru, fear those who have done evil!
+1. After you have received a son, leave the family!
+2. Offspring of Puru, fear those who have done evil!
 3. The girls should give food to the beggars.
 4. We want to speak.
 5. With the words "Come, monk!" Buddha admitted the man into the monastic order (⟪उपसम्पद्⟫ causative).
@@ -377,13 +380,13 @@ B) Translate into Sanskrit (using the imperative and preferably roots of the 2nd
 17. Teach the students the Veda!
 18. He should put on new clothes.
 19. They (pl.) should sit in my house.
-20. Husbands should maintain their wives (in the sense of providing sustenance).
+20. Husbands should maintain their wives (i.e. as in provision).
 
-## 48.6. Translation Exercise
+## 48.6. Translation exercise
 
 ⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫):
 
-:::indent
+::: indent
 ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫  
 ⟪विषयेषु⟫ ⟪च⟫ ⟪सज्जन्त्यः⟫ ⟪संस्थाप्या⟫ ⟪आत्मनो⟫ ⟪वशे⟫ ⟪॥२॥⟫  
 ⟪पिता⟫ ⟪रक्षति⟫ ⟪कौमरे⟫ ⟪भर्ता⟫ ⟪रक्षति⟫ ⟪यौवने⟫ ⟪।⟫  
@@ -402,23 +405,23 @@ B) Translate into Sanskrit (using the imperative and preferably roots of the 2nd
 Explanation:  
 ⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Dual to ⟪द्वे⟫ ⟪कुले⟫ "two families"
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt4801:** [Image source: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, Non-commercial, Share alike)]
+**lekt4801:** [Image source: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
 
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Image source: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, Non-commercial, Share alike)]
+**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Image source: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
 
 **lekt4803:** Sitar player = ⟪सितारवादकः⟫ [Image source: Wikipedia. Public domain]
 
-**lekt4804:** [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Image source: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribution, Non-commercial)]
+**lekt4804:** [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Image source: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribution, non-commercial use)]
 
 **lekt4805:** Thaipusam festival = தைப்பூசம், Batu Caves, Malaysia [Image source: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
 
-**lekt4806:** ⟪नेपाल⟫ [Image source: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, Non-commercial, No derivatives)]
+**lekt4806:** ⟪नेपाल⟫ [Image source: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
 
-**lekt4807:** ⟪जोधपुर⟫ [Image source: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, Non-commercial, No derivatives)]
+**lekt4807:** ⟪जोधपुर⟫ [Image source: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
 
-**lekt4808:** Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [Image source: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribution, Share alike)]
+**lekt4808:** Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [Image source: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribution, share alike)]
 
 **lekt4809:** (Image: Payer)
 :::

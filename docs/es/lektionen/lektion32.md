@@ -1,5 +1,5 @@
 ---
-title: Lección 32
+title: Lektion 32
 lesson_id: 32
 status: stable
 ---
@@ -8,7 +8,7 @@ status: stable
 
 ## 32.1. Los tiempos del pasado
 
-::::grammar-box
+::: grammar-box
 **En la literatura sánscrita más antigua y por parte de los gramáticos nativos, los tres tiempos del pasado se distinguen claramente en su uso:**
 
 *   **el aoristo (⟪लुङ्⟫ , ⟪अद्यतनी⟫) designa simplemente la completitud de una acción o lo que ocurrió durante el día actual, el pasado reciente**
@@ -16,10 +16,10 @@ status: stable
 *   **el perfecto (⟪लिट्⟫) designa, como el imperfecto, el pasado lejano, pero, a diferencia del imperfecto, solo se usa para eventos que el hablante no vio personalmente**
 
 **En la literatura sánscrita clásica, los tres tiempos del pasado se usan sin diferencia de significado (excepción: el poema artístico de ⟪भारवि⟫ ⟪किरातार्जुनीय⟫).**
-::::
+:::
 ## 32.2. El imperfecto (⟪लङ्⟫)
 
-::::grammar-box
+::: grammar-box
 **Formación:**
 
 **Augmento a- + raíz del presente + terminación secundaria**
@@ -27,24 +27,24 @@ status: stable
 **Las tres personas del singular del Parasmaipada en imperfecto se forman a partir de la raíz del presente fuerte para las raíces átemáticas; todas las demás formas se forman a partir de la raíz del presente débil.**
 
 **El imperfecto solo tiene el indicativo.**
-::::
+:::
 Ejemplos:
 
-:::indent
+::: indent
 **⟪भू⟫** 3. sg. Imp. P. **⟪अभवत्⟫** (a-bhava-t)
 
-**⟪सु⟫**
+⟪सु⟫
 *   3. sg. Imp. P. **⟪असुनोत्⟫** (a-suno-t)
 *   3. pl. Imp. P. **⟪असुन्वन्⟫** (a + sunu + an)
 :::
 ## 32.3. Reglas para el Augmento
 
-::::grammar-box
+::: grammar-box
 **1. Si el augmento a- precede a una raíz que comienza con vocal, el augmento y el inicio de la raíz se fusionan en la ⟪वृद्धि⟫ de la vocal de la raíz.**
-::::
+:::
 Ejemplos:
 
-::::grammar-box
+::: grammar-box
 
 | | 3. sg. Imparf. | 3. pl. Imparf. |
 | :--- | :--- | :--- |
@@ -52,12 +52,13 @@ Ejemplos:
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
 | ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
-::::::::grammar-box
+:::
+::: grammar-box
 **2. Si hay prefijos antes de una raíz, el augmento a- aparece después de los prefijos, inmediatamente antes de la raíz.**
-::::
+:::
 Ejemplos:
 
-::::grammar-box
+::: grammar-box
 
 | | 3. sg. Imparf. |
 | :--- | :--- |
@@ -66,57 +67,56 @@ Ejemplos:
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
-::::
+:::
 ## 32.4. Ejemplos de formación del imperfecto
 
-:::
-important
-**Para demostrar la formación de las formas, aquí también se forman formas de Ātmanepada a partir de raíces de Parasmaipada. ¡Estas formas artificiales están entre &lt; &gt;.**
+::: important
+**Para demostrar la formación de las formas, aquí también se forman formas de Ātmanepada a partir de raíces de Parasmaipada. ¡Estas formas artificiales están entre \< \>.**
 :::
 ### 32.4.1. Clases temáticas de presente
 
-::::grammar-box
+::: grammar-box
 
-| Clase de presente | Raíz:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Presenteklasse | Raíz:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | &lt;⟪अभवत⟫&gt; | &lt;⟪अभवन्त⟫&gt; |
-| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | &lt;⟪अनृत्यत⟫&gt; | &lt;⟪अनृत्यन्त⟫&gt; |
-| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | &lt;⟪अविशत⟫&gt; | &lt;⟪अविशन्त⟫&gt; |
+| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \<⟪अभवत⟫\> | \<⟪अभवन्त⟫\> |
+| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \<⟪अनृत्यत⟫\> | \<⟪अनृत्यन्त⟫\> |
+| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \<⟪अविशत⟫\> | \<⟪अविशन्त⟫\> |
 | 10. / Caus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
 | Pasivo | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
-::::
+:::
 ### 32.4.2. Clases de presente átemático
 
-::::grammar-box
+::: grammar-box
 
-| Clase de presente | Raíz:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Presenteklasse | Raíz:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ &gt; adveṣ &gt; adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
-| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t &gt; adogdh &gt; adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
+| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ \> adveṣ \> adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
+| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t \> adogdh \> adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
 | 2. | ⟪इ⟫ | ⟪ऐत्⟫ | ⟪आयन्⟫ | | |
 | 2. | ⟪हन्⟫ | ⟪अहन्⟫:br(aus *ahant) | ⟪अघ्नन्⟫ | | |
 | 2. | ⟪स्तु⟫ | ⟪अस्तौत्⟫:br⟪अस्तवीत्⟫ | ⟪अस्तुवन्⟫ | ⟪अस्तुत⟫ | ⟪अस्तुवत⟫ |
 | 2. | ⟪अस्⟫ | ⟪आसीत्⟫ | ⟪आसन्⟫ | | |
 | 5. | ⟪सु⟫ | ⟪असुनोत्⟫ | ⟪असुन्वन्⟫ | ⟪असुनुत⟫ | ⟪असुन्वत⟫ |
-| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | &lt;⟪आप्नुत⟫&gt; | &lt;⟪आप्नुवत⟫&gt; |
+| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \<⟪आप्नुत⟫\> | \<⟪आप्नुवत⟫\> |
 | 8. | ⟪तन्⟫ | ⟪अतनोत्⟫ | ⟪अतन्वन्⟫ | ⟪अतनुत⟫ | ⟪अतन्वत⟫ |
 | 8. | ⟪कृ⟫ | ⟪अकरोत्⟫ | ⟪अकुर्वन्⟫ | ⟪अकुरुत⟫ | ⟪अकुर्वत⟫ |
-| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t &gt; ayunakt &gt; ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
-| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t &gt; aruṇaddh &gt; aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
+| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t \> ayunakt \> ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
+| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t \> aruṇaddh \> aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
-::::
+:::
 ## 32.5. Lista de vocabulario
 
 **⟪अग्र⟫ n.:** Punta, extremo más alejado
 
 **⟪मही⟫ f.:** Tierra, base y suelo (literalmente: la Grande)
 
-**⟪एकदा⟫**
+⟪एकदा⟫
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
-:::indent
+::: indent
 ⟪श्रमिष्यते⟫:br
 ⟪श्रम्यते⟫:br
 ⟪श्रमयति⟫:br
@@ -125,26 +125,26 @@ important
 -⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
 :::
-**⟪पार्श्व⟫**
+⟪पार्श्व⟫
 
-**⟪चूत⟫**
+⟪चूत⟫
 
-:::media
+::: media
 ![](/images/lekt3202.webp)
 Fig.: ⟪चूतः⟫
 Árbol de mango, Kanpur.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3202))
 :::
-**⟪तरु⟫** **⟪वृक्ष⟫**
+⟪तरु⟫ ⟪वृक्ष⟫
 
-**⟪पचेलिम⟫**
+⟪पचेलिम⟫
 
-**⟪स्पृहा⟫**
+⟪स्पृहा⟫
 
-**⟪परम्⟫**
+⟪परम्⟫
 
 **⟪रुह्⟫ ⟪रोहति⟫**
-:::indent
+::: indent
 ⟪रोक्ष्यति⟫:br
 ⟪रुह्यते⟫:br
 ⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
@@ -153,7 +153,7 @@ Fig.: ⟪चूतः⟫
 ⟪रोढुम्⟫
 :::
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
-:::indent
+::: indent
 ⟪ग्रहीष्यति⟫ (!):br
 ⟪गृह्यते⟫:br
 ⟪ग्राहयति⟫:br
@@ -163,42 +163,42 @@ Fig.: ⟪चूतः⟫
 :::
 **⟪वानर⟫ ⟪कपि⟫**
 
-:::media
+::: media
 ![](/images/lekt3203.webp)
 Fig.: ⟪वानराः⟫
 Monos (macacos rhesus) en Delhi.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3203))
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
-:::indent
+::: indent
 ⟪लोकयिष्यति⟫:br
 ⟪लोक्यते⟫:br
 ⟪लोकित⟫:br
 -⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
 :::
-**⟪प्रहर्ष⟫**
+⟪प्रहर्ष⟫
 
-**⟪कति⟫**
+⟪कति⟫
 
-**⟪उपल⟫**
+⟪उपल⟫
 
-:::media
+::: media
 ![](/images/lekt3204.webp)
 Fig.: ⟪उपलाः⟫
 Cantera de piedra al sur de Pune, Maharashtra.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3204))
 :::
-**⟪लक्ष्य⟫**
+⟪लक्ष्य⟫
 
-:::media
+::: media
 ![](/images/lekt3205.webp)
 Fig.: ⟪लक्ष्यम्⟫
 Práctica de tiro / blanco de flechas, Karnataka.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3205))
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
-:::indent
+::: indent
 ⟪क्षेप्स्यति⟫:br
 ⟪क्षिप्यते⟫:br
 ⟪क्षेपयति⟫:br
@@ -207,14 +207,15 @@ Práctica de tiro / blanco de flechas, Karnataka.
 ⟪क्षेप्तुम्⟫
 :::
 **⟪चि⟫ ⟪चिनोति⟫**
-:::indent
+::: indent
 ⟪चेष्यति⟫:br
 ⟪चीयते⟫:br
 ⟪चाययति⟫:br
 ⟪चित⟫:br
 -⟪चित्य⟫:br
 ⟪चेतुम्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3207.webp)
 Fig.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
 Quema de ladrillos de estiércol de vaca en Rajasthan.
@@ -222,13 +223,13 @@ Quema de ladrillos de estiércol de vaca en Rajasthan.
 :::
 **⟪चि⟫ ⟪अव⟫**
 
-**⟪प्रति⟫**
+⟪प्रति⟫
 
-**⟪अहो⟫**
+⟪अहो⟫
 
 **⟪कौशल⟫ ⟪कुशल⟫**
 
-:::media
+::: media
 ![](/images/lekt3206.webp)
 Fig.: ⟪कौशलम्⟫
 Pintura de mehndi en manos en Mumbai.
@@ -326,7 +327,7 @@ B) Traduzca y descomponga los compuestos en sánscrito:
 
 ⟪बुद्धपुत्राः⟫ ⟪सत्यमाजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫
 
-:::media
+::: media
 ![](/images/lekt3208.webp)
 Fig.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
 Monje budista en Sri Lanka.
@@ -549,7 +550,7 @@ C) Traduzca al sánscrito:
 
 52. ¡Adiós!
 
-:::media
+::: media
 ![](/images/lekt3209.webp)
 Fig.: ⟪पुनर्दर्शनाय⟫
 Saludo / despedida india.
@@ -602,9 +603,8 @@ Traduzca y determine las siguientes formas de palabras:
 
 ## 32.9. Ejercicio de traducción
 
-:::
-compact
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫**⟪न्पथि⟫** ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
+::: compact
+⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
 ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫:br
@@ -612,29 +612,30 @@ compact
 ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫:br
 ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫:br
 ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫:br
-⟪स⟫ ⟪कतिचिदुपला⟫**⟪नादाय⟫** ⟪वानरां⟫**⟪ल्लक्ष्यीकृत्य⟫** ⟪प्राक्षिपत्⟫ ⟪।⟫:br
+⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫:br
 ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫:br
-⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫**⟪दाय⟫** ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
+⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 :::
 (de: ⟪संस्कृतबालादर्श⟫)
 
-
 Explicaciones:
 
-:::indent
+::: indent
 **⟪पथि⟫** Loc. sg. de **⟪पथ्⟫ m.** "camino" (declinación irregular)
 
 **⟪लक्ष्यीकृ⟫** ⟪च्विऽ⟫-sufijo ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : hacer algo de ⟪लक्ष्य⟫, lo que antes no ⟪लक्ष्य⟫ era
 
 **⟪आदाय⟫** Absoluto de **⟪आ⟫-⟪दा⟫** (3. clase de presente) "tomar"
-::::::media
+:::
+::: media
 ![](/images/lekt3210.webp)
 Fig.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Monos en árboles de mango.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3210))
-::::::deleteme-box
+:::
 
+::: deleteme-box
 
 **lekt3202:** Árbol de mango, Kanpur. [Fuente de la imagen: AmarChandra / Wikipedia. CC BY-SA]
 
@@ -654,3 +655,4 @@ Monos en árboles de mango.
 
 **lekt3210:** Monos en árboles de mango. [Fuente de la imagen: Wikipedia. GNU FDL]
 :::
+

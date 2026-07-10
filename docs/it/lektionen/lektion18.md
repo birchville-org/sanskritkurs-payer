@@ -1,5 +1,5 @@
 ---
-title: Lezione 18
+title: Lektion 18
 lesson_id: 18
 ---
 
@@ -7,7 +7,7 @@ lesson_id: 18
 
 ## 18.1. ⟪सुभाषितम्⟫
 
-:::indent
+::: indent
 ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
 ⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
@@ -22,14 +22,14 @@ Come elemento anteriore avverbiale (indeclinabile) possono
 *   particelle
 *   altri indeclinabili
 
-:::indent
+::: indent
 essere utilizzati. Tali Tatpuruṣa appartengono per lo più alla classe dei Nityasamāsa = ⟪नित्यसमास⟫ (m. "composto fisso"), cioè dei composti che non possono essere affatto o non solo risolti mediante le parole presenti nel composto stesso.
 :::
 Esempi:
 
 ⟪अति⟫ "oltre":
 
-:::indent
+::: indent
 ⟪अतिगुरु⟫ 3: estremamente pesante, di grande importanza
 
 ⟪अतिपुरुष⟫ m.: uomo superiore, Superman, eroe
@@ -44,7 +44,7 @@ Gli elementi anteriori avverbiali più importanti sono a-/an-, su-, dus-.
 
 Esempi:
 
-:::indent
+::: indent
 ⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): falsità, bugia
 
 ⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: non fatto, non eseguito
@@ -57,7 +57,7 @@ Esempi:
 
 Esempi:
 
-:::indent
+::: indent
 ⟪सुकवि⟫ m.: un buon poeta
 
 ⟪सुकृत⟫ n.: buona azione
@@ -70,14 +70,14 @@ Esempi:
 
 Esempi:
 
-:::indent
+::: indent
 ⟪दुर्नय⟫ m.: cattiva guida, cattiva condotta
 
 ⟪दुष्करण⟫ n.: azione cattiva, azione difficile
 :::
 Si applica la seguente regola:
 
-::::grammar-box
+::: grammar-box
 
 Cambiamento fonetico di -s nei composti
 
@@ -87,16 +87,17 @@ A differenza del Sandhi di frase, nella posizione finale dell'elemento anteriore
 
 Perciò: ⟪दुष्करण⟫
 
-::::
+:::
 ### 18.2.1. Composti di tipo ⟪सुकर⟫ / ⟪दुष्कर⟫
 
-::::grammar-box
+::: grammar-box
 
 I composti di tipo ⟪सुकर⟫ / ⟪दुष्कर⟫ hanno principalmente il significato di possibilità passiva:
 
 Esempi:
 
-:::indent
+:::
+::: indent
 ⟪सुकर⟫ 3: facile da fare
 
 ⟪सुगम⟫ 3: facile da andare
@@ -104,7 +105,7 @@ Esempi:
 ⟪दुर्गम⟫ 3: difficile da andare
 
 ⟪सुदुर्गम⟫ 3: molto difficile da andare
-:::::::
+:::
 ### 18.2.2. Significati di nañ-Tatpuruṣa (a- / an-)
 
 I Tatpuruṣa con a- / an- possono avere i seguenti significati:
@@ -124,7 +125,7 @@ I Tatpuruṣa con a- / an- possono avere i seguenti significati:
 
 Il seguente verso riassume questi significati:
 
-:::indent
+::: indent
 ⟪तत्सादृश्यमभावश्च⟫  
 ⟪तदन्यत्वं⟫ ⟪तदल्पता⟫ ⟪।⟫  
 ⟪अप्राशास्त्यं⟫ ⟪निरोधश्च⟫  
@@ -134,9 +135,7 @@ Si nominano sei significati di nañ (= a-/an-) ....
 :::
 ## 18.3. Composti verbali
 
-::::grammar-box
-
-:::indent
+::: indent
 ⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
 ⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
 ⟪गङ्गासलिलमाधुर्यं⟫  
@@ -146,18 +145,18 @@ Si nominano sei significati di nañ (= a-/an-) ....
 
 Una preposizione verbale modifica violentemente il significato di una radice, come l'acqua dolce del Gange viene alterata dall'acqua di mare.
 
-::::::::grammar-box
+::: grammar-box
 
 I verbi possono essere combinati in sanscrito con preposizioni verbali (⟪उपसर्ग⟫ m.). In genere si applica il Sandhi della frase. Le preposizioni verbali possono, a volte, modificare significativamente il significato della radice, per cui in molti casi il significato di una radice con preposizione verbale deve essere appreso separatamente. I verbi con preposizione verbale possono avere un modo diverso (P, Ā) rispetto alla radice semplice. Possono essere poste contemporaneamente più preposizioni verbali prima di una radice.
 
-::::
+:::
 Alcune importanti preposizioni verbali sono:
 
 ⟪उप⟫ "a, verso, contro"
 
 Esempi:
 
-:::indent
+::: indent
 ⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : andare verso, procedere verso
 
 ⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : indicare, insegnare, consigliare
@@ -172,7 +171,7 @@ Esempi:
 
 Esempi:
 
-:::indent
+::: indent
 ⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : ottenere
 
 ⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : mostrare
@@ -191,7 +190,7 @@ Esempi:
 
 Esempi:
 
-:::indent
+::: indent
 ⟪विगम्⟫ 1 ⟪विगच्छति⟫ : separarsi, passare, scomparire
 
 ⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : sconfiggere
@@ -208,7 +207,7 @@ Esempi:
 
 Esempi:
 
-:::indent
+::: indent
 ⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : sedere insieme, sostare, abitare
 
 ⟪समि⟫ 2 ⟪समेति⟫ : riunirsi, unirsi
@@ -224,30 +223,31 @@ Esempi:
 ⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : essere concesso a qualcuno, riuscire
 
 *   PPP ⟪सम्पन्न⟫ 3: dotato di (strumentale)
-:::::::grammar-box
+:::
+::: grammar-box
 
 La radice ⟪कृ⟫ "fare" mostra, in combinazione con le preposizioni verbali ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ anche la forma ⟪स्कृ⟫
 
-::::
+:::
 Esempio:
 
-:::indent
+::: indent
 sam-kṛ 8 ⟪संस्करोति⟫ : preparare, preparare per il sacrificio, consacrare
 
 *   PPP ⟪संस्कृत⟫ 3: preparato per il sacrificio ; ⟪संस्कृत⟫ n.: sanscrito: la lingua adatta per il sacrificio ; opposto ⟪प्राकृत⟫ 3: comune, ordinario ; ⟪प्राकृत⟫ n.: lingua comune, Prakrit (denominazione delle lingue popolari e di comunicazione, correlate al sanscrito)
 :::
 ### 18.3.1. Derivazione nominale da composti verbali
 
-::::grammar-box
+::: grammar-box
 
 Da radici con prefissi possono essere derivati nominali mediante suffissi kṛt.
 
-::::
+:::
 Esempi:
 
 sam-kṛ + -a = ⟪संस्कार⟫ m.: consacrazione, preparazione; riti di transizione = termine per le cerimonie che accompagnano le varie fasi della vita, dal concepimento alla morte (si veda a riguardo l'eccellente sintesi di Basham, Meraviglie, pp. 160-170!)
 
-:::media
+::: media
 ![](/images/lekt1804.webp)
 Fig.: ⟪विवाहः⟫
 Matrimonio = ⟪विवाह⟫ m., un importante ⟪संस्कारः⟫
@@ -255,12 +255,12 @@ Matrimonio = ⟪विवाह⟫ m., un importante ⟪संस्कारः
 :::
 upa-nī + -ana = ⟪उपनयन⟫ n.: l'avvicinare (al fuoco sacrificale) = cerimonia mediante la quale ai maschi appartenenti ai tre ordini superiori viene posta la corda sacra (⟪यज्ञोपवीत⟫ n.) e sussurrato all'orecchio il verso sacro ⟪सावित्री⟫, che essi dovranno recitare quotidianamente all'alba e al tramonto. Per i Brahmani il Ṛgveda III.62.10 recita:
 
-:::indent
+::: indent
 "Possiamo ricevere l'eccellente splendore del Dio 'Colui che guida', che metta in movimento i nostri pensieri."
 :::
 Attraverso l'Upanayana avviene la seconda nascita, pertanto: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
 
-:::media
+::: media
 ![](/images/lekt1801.webp)
 Fig.: ⟪उपनयनम्⟫
 "Un giovane ragazzo è visto durante il rituale di upanayana. Il filo giallo, sottile, che va dalla spalla sinistra alla vita è Yagnopaivta. Si noti anche la cintura di erba munja intorno alla vita. Il rametto nella mano destra (di solito dall'albero peepa) siginifica il suo ingresso in Brahmacharya."
@@ -394,7 +394,7 @@ A) Risolvere i seguenti composti in sanscrito e fornire proposte di traduzione:
 
 ⟪९⟫. ⟪कुलोपदेश⟫ m.
 
-:::media
+::: media
 ![](/images/lekt1802.webp)
 Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Stampa
@@ -414,7 +414,7 @@ B) Tradurre utilizzando verbi della seconda classe di presente:
 
 6\. Così parla colui che [ha percorso bene il sentiero delle rinascite] all'allievo.
 
-:::media
+::: media
 ![](/images/lekt1803.webp)
 Fig.: ⟪सुगतः⟫
 ⟪गन्धार⟫ 1./2. Sec. d.C.
@@ -426,8 +426,7 @@ D) Tradurre:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 
-:::deleteme-box
-
+::: deleteme-box
 
 **lekt1801:** "Un giovane ragazzo è visto durante il rituale di upanayana. Il filo giallo, sottile, che va dalla spalla sinistra alla vita è Yagnopaivta. Si noti anche la cintura di erba munja intorno alla vita. Il rametto nella mano destra (di solito dall'albero peepa) siginifica il suo ingresso in Brahmacharya." [Fonte dell'immagine: Nagesh Rao / Wikipedia, GNU FDLicense]
 

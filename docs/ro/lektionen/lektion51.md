@@ -11,7 +11,7 @@ status: stabil
 
 ## 51.1. Compozite ⟪उपपद⟫
 
-::::grammar-box
+::: grammar-box
 **Compozitele ⟪उपपद⟫ (⟪उपपद⟫ n. "cuvânt de însoțire") sunt ⟪तत्पुरुष⟫ cu un substantiv verbal ca element final, care apare doar ca element final al compozitelor, dar nu ca cuvânt independent, singular. ⟪उपपद⟫ se formează cu sufixele ⟪कृत्⟫**
 * **-Ø**
 * **-a**
@@ -23,46 +23,49 @@ status: stabil
 
 Exemple:
 
-:::indent
+:::
+::: indent
 ⟪सुखकरः⟫ = ⟪सुखं⟫ ⟪करोतीति⟫ ⟪सुखकरः⟫
 
 ⟪कुलघ्नः⟫ = ⟪कुलम्हन्तीति⟫ ⟪कुलघ्नः⟫
-:::::::
+:::
 Exemple:
 
 a) Sufixul ⟪कृत्⟫ \-Ø
 
-:::indent
+::: indent
 \-⟪नी⟫ 3 "ducând" de ex. ⟪सेनानी⟫ m. "comandant de armată" (⟪सेना⟫ f. "armată")
 
 \-⟪भुज्⟫ 3 "gustând, mâncând" de ex. ⟪भूमिभुज्⟫ m. "rege" (⟪भूमि⟫ f. "pământ")
 
 \-⟪विद्⟫ 3 "știind" de ex. ⟪धर्मविद्⟫  3 "cunoscător al Dharma"
-::::::media
+:::: media
 ![](/images/lekt5101.webp)
 Fig.: ⟪भूमिभुज्⟫
 ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5101))
+::::
 :::
 b) Sufixul ⟪कृत्⟫ -t
 
-::::indent
+::: indent
 \-⟪कृत्⟫ 3 "făcând" de ex.
 
-:::indent
+:::
+::: indent
 ⟪कुलक्षयकृत्⟫ 3 "cauzând distrugerea familiei"
 
 ⟪पापकृत्⟫ 3 "făcând rău, făptuitor de rău"
 :::
 \-⟪जित्⟫ 3 "învingând", de ex.
 
-:::indent
+::: indent
 ⟪शत्रुजित्⟫ 3 "învingând pe dușmani"
 
 ⟪पुरुजित्⟫ 3 "învingând pe mulți" (⟪पुरु⟫ 3 "mult, abundent")
 :::
 \-⟪भृत्⟫ 3 "purtând" de ex.  ⟪भूमिभृत्⟫ m. "rege"
-:::::::media
+::: media
 ![](/images/lekt5103.webp)
 Fig.: ⟪पापकृत्⟫
 ⟪भरतपुर⟫, ⟪राजस्थान⟫
@@ -70,7 +73,7 @@ Fig.: ⟪पापकृत्⟫
 :::
 c) Sufixul ⟪कृत्⟫ -a
 
-:::indent
+::: indent
 \-⟪ग⟫ 3 "mergând (în, către)" (probabil la rădăcina gā, forma profundă g + a) de ex. ⟪खग⟫ 3 "zburând" m. "pasăre, planetă" (⟪ख⟫ n. "gaură, spațiu 'aerian'")
 
 \-⟪घ्न⟫ 3 "lovind" de ex. ⟪कुलघ⟫ 3 "ucidând familii"
@@ -90,22 +93,23 @@ c) Sufixul ⟪कृत्⟫ -a
 \-⟪कर⟫ 3 "cauzând, făcând" de ex. ⟪सुखकर⟫ 3 "aducând fericire"
 
 \-⟪स्मर⟫ 3 "amintindu-și" de ex. ⟪जातिस्मर⟫ 3 "amintindu-și nașteri anterioare"
-::::::media
+:::: media
 ![](/images/lekt5102.webp)
 Fig.: ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪हस्तेन⟫ ⟪च⟫ ⟪मुखेन⟫ ⟪च⟫
 ⟪नेपाल⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5102))
+::::
 :::
 ## 51.2. Declinarea stemelor care se termină într-o consoană simplă (în afară de nazală, semivocală, -s)
 
-:::grammar-box
+::: grammar-box
 **Stemele care se termină într-o consoană simplă (în afară de nazală, semivocală, -s) nu au alternanță de stemă. Declinarea se face complet regulat, prin adăugarea terminațiilor cazuale regulate.**
 
 **Singura neregularitate: în Nom., Akk., Vok. pl. Neutru, se inserează o nazală înainte de terminația stemei.**
 :::
 ### 51.2.1. Trible pe consoane ocluzive nepalatale
 
-:::grammar-box
+::: grammar-box
 **Se aplică regulile obişnuite de schimbare fonetică, adică**
 * **la final de cuvânt se află corespondentul neaspirat surd**
 * **înaintea sufixului -su al genitivului plural, finalul de cuvânt este mai întâi înlocuit cu corespondentul neaspirat surd, apoi au loc modificările fonetice corespunzătoare**
@@ -115,32 +119,34 @@ Exemple:
 
 ⟪शत्रुजित्⟫ 3 "Învingând duşmanii"
 
-::::indent
+::: indent
 Masculin, Feminin:
 
-::::indent
+:::
+::: indent
 Singular:
 
-:::indent
+:::
+::: indent
 Nom.Voc. ⟪शत्रुजित्⟫ (śatrujit + s)
 Ac. ⟪शत्रुजितम्⟫
 :::
 Plural:
 
-:::indent
+::: indent
 Nom.Ac.Voc. ⟪शत्रुजितस्⟫
 Ins. ⟪शत्रुजिद्भिस्⟫
 Loc. ⟪शत्रुजित्सु⟫
-:::::::
+:::
 Neutru
 
-:::indent
+::: indent
 Singular Nom.Ac.Voc. ⟪शत्रुजित्⟫
 Plural Nom.Ac.Voc. ***⟪शत्रुजिन्ति⟫***
-:::::::
+:::
 ⟪सुयुध्⟫ 3 "luptând bine"
 
-:::indent
+::: indent
 Singular.Nom.Voc.m.f.n. ⟪सुयुत्⟫
 etc.
 :::
@@ -148,7 +154,7 @@ Paradigme complete la Kielhorn, Gramatică p. 16ss.
 
 ### 51.2.2. Tulpuri pe consoane de închidere palatale (c, ch, j), ś, ṣ
 
-:::grammar-box
+::: grammar-box
 **Înainte de o terminație care începe cu o vocală, finalul tulpinii rămâne neschimbat.**
 
 **Înainte de celelalte terminații, se aplică:**
@@ -170,79 +176,86 @@ Exemple:
 
 ⟪सत्यवाच्⟫ 3 "vorbind adevărul" (⟪बहुव्रीहि⟫)
 
-::::indent
+::: indent
 Masculin, Feminin:
 
-::::indent
+:::
+::: indent
 Singular:
 
-:::indent
+:::
+::: indent
 Nom.Voc. ⟪सत्यवाक्⟫
 Ac. ⟪सत्यवाचम्⟫
 Instr. ⟪सत्यवाचा⟫
 :::
 Plural:
 
-:::indent
+::: indent
 Instr. ⟪सत्यवाग्भिस्⟫
 Loc. ⟪सत्यवाक्षु⟫
-:::::::
+:::
 Neutru
 
-:::indent
+::: indent
 Singular Nom.Ac.Voc. ⟪सत्यवाक्⟫
 Plural Nom.Ac.Voc. ⟪सत्यवाञ्चि⟫
-:::::::
+:::
 ⟪शेषभुज्⟫ 3 "mâncând resturi de mâncare"
 
-::::indent
+::: indent
 Masculin, Feminin:
 
-::::indent
+:::
+::: indent
 Singular:
 
-:::indent
+:::
+::: indent
 Nom.Voc. ⟪शेषभुक्⟫
 Ac. ⟪शेषभुजम्⟫
 :::
 Plural:
 
-:::indent
+::: indent
 Instr. ⟪शेषभुग्भिस्⟫
 Loc. ⟪शेषभुक्षु⟫
-:::::::
+:::
 Neutru
 
-:::indent
+::: indent
 Singular Nom.Ac.Voc. ⟪शेषभुक्⟫
 Plural Nom.Ac.Voc. ⟪शेषभुञ्जि⟫
-:::::::
+:::
 ⟪परिव्राज्⟫ m. "călugăr itinerant"
 
-::::indent
+::: indent
 Masculin, Feminin:
 
-::::indent
+:::
+::: indent
 Singular:
 
-:::indent
+:::
+::: indent
 Nom.Voc. ⟪परिव्राट्⟫
 Ac. ⟪परिव्राजम्⟫
 :::
 Plural:
 
-:::indent
+::: indent
 Instr. ⟪परिव्राड्भिस्⟫
 Loc. ⟪परिव्राट्सु⟫
-::::::::::::::media
+:::: media
 ![](/images/lekt5104.webp)
 Fig.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5104))
+::::
 :::
 ### 51.2.3. Teme pe -h
 
-:::grammar-box
+::: grammar-box
 **Înainte de o terminație care începe cu o vocală, -h rămâne neschimbat.**
 
 **Înainte de celelalte terminații**
@@ -256,76 +269,82 @@ Fig.: ⟪परिव्राट्⟫
 :::
 Exemple:
 
-::::indent
+::: indent
 ⟪गुह्⟫ 3 "ascunzând"
 
 Masculin, Feminin:
 
-::::indent
+:::
+::: indent
 Singular:
 
-:::indent
+:::
+::: indent
 Nom.Voc. ⟪घुट्⟫ (Legea disimilării suflului lui Grassmann: ⟪गुढ्⟫ + s)
 Akk. ⟪गुहम्⟫
 :::
 Plural:
 
-:::indent
+::: indent
 Instr. ⟪घुड्भिस्⟫
 Lok. ⟪घुट्सु⟫
-:::::::
+:::
 ⟪द्रुह्⟫ "dăunător, urând" (opțional -ḍh/-gh)
 
 Masculin, Feminin:
 
-::::indent
+::: indent
 Singular:
 
-:::indent
+:::
+::: indent
 Nom.Voc. ⟪ध्रुट्⟫ ⟪।⟫ ⟪ध्रुक्⟫
 Akk. ⟪द्रुहम्⟫
 :::
 Plural:
 
-:::indent
+::: indent
 Instr. ⟪ध्रुड्भिस्⟫ ⟪।⟫ ⟪ध्रुग्भिस्⟫
 Lok. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
-:::::::::::
+:::
 ## 51.3. Sandhi de h- inițial
 
-::::grammar-box
+::: grammar-box
 **Înainte de un h- inițial, un consoană oclusivă precedentă este înlocuită cu corespunzătorul său sonor neaspirat, iar h- inițial este înlocuit cu corespunzătorul său sonor aspirat:**
 
-:::indent
+:::
+::: indent
 ⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि⟫
 
 ⟪वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि⟫
 
 ⟪परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
-:::::::
+:::
 ## 51.4. Sandhi al ch- inițial
 
-::::grammar-box
+::: grammar-box
 **ch- inițial este înlocuit cu cch- după o vocală scurtă, după ⟪मा⟫ „nu” și după ⟪आ⟫ „la”:**
 
-:::indent
+:::
+::: indent
 ⟪न⟫ + ⟪छिन्दति⟫ » ⟪न⟫ ⟪च्छिन्दति⟫
-:::::::
+:::
 ## 51.5. -ch- în interiorul cuvântului
 
-::::grammar-box
+::: grammar-box
 **În interiorul cuvântului, -ch- se înlocuiește cu -cch- după toate vocalele:**
 
-:::indent
+:::
+::: indent
 ex. ⟪छिद्⟫ » ⟪चिच्छेद⟫
-:::::::
+:::
 ## 51.6. Listă de cuvinte
 
 ⟪अजिन⟫ n.: blană de antilopă, în special blana antilopii negre (antilopă cerb-capră: _Antilope cervicapra_ L.). Era originar pe întregul subcontinent indian, de la Punjab și Sind până în Bengal și de la Nepal până la Kanyakumari (Capul Comorin) (Tamil: கன்னியாகுமரி) Vezi:
 
 > **Mamiferele lumii lui Walker** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 vol. -- ISBN 0-8018-5789-9. -- Vol. 2. -- p. 1193f.
 
-:::media
+::: media
 ![](/images/lekt5105.webp)
 Fig.:
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5105))
@@ -338,20 +357,21 @@ Fig.:
 
 ⟪ऋतु⟫ m.: proces periodic, anotimp, perioadă de timp, menstruație, timp în care femeia este fertilă și are dreptul la coabitare cu soțul ei.
 
-:::indent
+::: indent
 Referitor la ⟪ऋतु⟫ vezi Manu III, 45-48: conform acestuia, ⟪ऋतु⟫ durează 16 zile (conform traducerii alternative: 20 zile) de la începutul menstruației, primii patru zile de la începutul sângerării sunt interzise relațiile sexuale (conform traducerii alternative: primii opt (4 + 4) zile), precum și a 11-a (respectiv a 15-a) și a 13-a (respectiv a 18-a) zi. Femeia concepe fii în zilele pare și fiice în zilele impare. Pentru următoarele se presupune un ⟪ऋतु⟫ de 16 zile în total (nu traducerea alternativă), așa cum fac și majoritatea comentariilor locale, și ceea ce a fost, așadar, opinia dominantă.
 
 Deoarece ovulația are loc cu 14 zile înainte de începutul menstruației, această determinare a perioadei fertile garantează aproape „sigur” fertilitatea pentru o distanță a menstruațiilor de la 19 la 30 de zile. Zilele interzise (11-a și 13-a) îmbunătățesc probabilitatea relațiilor sexuale în ziua a 12-a și a 14-a, adică probabilitatea concepției într-un ciclu de 28 de zile (durata de viață a spermatozoizilor în femeie este de aproximativ 3 zile). Aceste dispoziții sunt ca un fel de aplicare pozitivă a metodei Knaus-Ogino.
-::::::media
+:::: media
 ![](/images/lekt5106.jpg)
 Fig.: ⟪ऋतुः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5106))
+::::
 :::
 ⟪एकत्र⟫ Adv.: într-un loc
 
 ⟪जटा⟫ f.: coadă de cal (coafură a ascetului)
 
-:::media
+::: media
 ![](/images/lekt5107.webp)
 Fig.: ⟪जटा⟫
 ⟪ऋषिकेश⟫
@@ -371,7 +391,7 @@ Fig.: ⟪जटा⟫
 
 ⟪शिष्⟫ 7P ⟪शिनष्टि⟫ : a abandona, a lăsa în urmă
 
-:::indent
+::: indent
 Perf.II ⟪शिशेषे⟫, ⟪शिशिषुर्⟫
 Fut. ⟪शेक्ष्यति⟫
 Pass. ⟪शिष्यते⟫
@@ -381,28 +401,28 @@ Absol. -⟪शिष्य⟫
 :::
 ⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : a distinge
 
-:::indent
+::: indent
 Pass. ⟪विशिष्यते⟫ : a se distinge de (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), a fi mai bun decât (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), a fi cel mai bun printre (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
 :::
 ⟪समान⟫ 3: de același fel, egal, similar; m.: coleg de vârstă
 
 ⟪स्व⟫ 3: propriu, al său (al meu, al tău etc.) Se declină ca ⟪सर्व⟫. În Abl.Loc.sg.m.n și în Nom.pl.m poate fi, de asemenea, declinat ca ⟪देव⟫:
 
-:::indent
+::: indent
 Gen. sg. masc. neut. ⟪स्वस्मात्⟫ ⟪।⟫ ***⟪स्वात्⟫***
 Loc. sg. masc. neut. ⟪स्वस्मिन्⟫ ⟪।⟫ ***⟪स्⟫***⟪वे⟫
 Nom. pl. masc. ⟪स्वे⟫ ⟪।⟫ ***⟪स्वास्⟫***
 :::
 ⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : maldice, mustră
 
-:::indent
+::: indent
 Perf. I ⟪जगर्हे⟫
 Fut. ⟪गर्हिष्यते⟫
 PPP ⟪गर्हित⟫
 :::
 ⟪पिशित⟫ n.: (preparat) carne
 
-:::media
+::: media
 ![](/images/lekt5108.webp)
 Fig.: ⟪पिशितम्⟫
 Kolkata = কলকাতা
@@ -412,7 +432,7 @@ Kolkata = কলকাতা
 
 ⟪मधु⟫ n.: miere, băutură dulce, hidromel (vin de miere)
 
-:::media
+::: media
 ![](/images/lekt5109.webp)
 Fig.: ⟪मधु⟫
 Palatul Orașului, ⟪उदयपुर⟫
@@ -422,7 +442,7 @@ Palatul Orașului, ⟪उदयपुर⟫
 
 ⟪मृगया⟫ f.: vânătoare
 
-:::media
+::: media
 ![](/images/lekt5110.webp)
 Fig.: ⟪मृगया⟫
 Vânătoare cu ⟪चीता⟫ (_Acinonyx jubatus venaticus\") Gujarat = ગુજરાત, 1812
@@ -430,7 +450,7 @@ Vânătoare cu ⟪चीता⟫ (_Acinonyx jubatus venaticus\") Gujarat = ગ�
 :::
 ⟪शिवा⟫ f.: (fem.) șacal (șacal auriu = _Canis aureus\")
 
-:::media
+::: media
 ![](/images/lekt5111.webp)
 Fig.: ⟪शिवा⟫
 _Canis aureus\", Sanctuarul Kalatop Khajjiar
@@ -440,7 +460,7 @@ _Canis aureus\", Sanctuarul Kalatop Khajjiar
 
 ⟪कौशिक⟫ m.: bufniță
 
-:::media
+::: media
 ![](/images/lekt5112.webp)
 Fig.: ⟪कौशिकः⟫
 Bufnița lui Brahma (_Athene brama\"), Mahesana = મહેસાણા
@@ -450,15 +470,16 @@ Bufnița lui Brahma (_Athene brama\"), Mahesana = મહેસાણા
 
 ⟪श्वन्⟫ m.: câine
 
-:::indent
+::: indent
 stam forte ⟪श्वान्⟫
 stam slab înainte de vocală ⟪सुन्⟫
 stam slab înainte de consoană ⟪श्व⟫
-::::::media
+:::: media
 ![](/images/lekt5113.jpg)
 Fig.: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
 Karnataka = ಕರ್ನಾಟક
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5113))
+::::
 :::
 ⟪परिचित⟫ 3: familiar, cunoscut
 
@@ -468,7 +489,7 @@ Karnataka = ಕರ್ನಾಟક
 
 ⟪आपान⟫(⟪क⟫) n.: petrecere, beție
 
-:::media
+::: media
 ![](/images/lekt5114.webp)
 Fig.: ⟪आपानकम्⟫
 ⟪जोधपुर⟫
@@ -478,7 +499,7 @@ Fig.: ⟪आपानकम्⟫
 
 ⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : unge, unsură
 
-:::indent
+::: indent
 Perf. II ⟪दिदेह⟫
 Fut. ⟪धेक्ष्यति⟫
 Pass. ⟪दिह्यते⟫
@@ -487,7 +508,7 @@ PPP ⟪दिग्ध⟫
 :::
 ⟪विष⟫ n.: venin
 
-:::media
+::: media
 ![](/images/lekt5115.webp)
 Fig.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
@@ -495,7 +516,7 @@ Bangalore = ಬೆಂಗಳೂರು
 :::
 ⟪भुजंग⟫ m: șarpe
 
-:::media
+::: media
 ![](/images/lekt5116.webp)
 Fig.: ⟪भुजंगः⟫
 Vipera lanț (_Daboia russelii\"), Bangalore = ಬೆಂಗಳೂರು
@@ -521,7 +542,7 @@ Vipera lanț (_Daboia russelii\"), Bangalore = ಬೆಂಗಳೂರು
 
 ⟪मणि⟫ m.: bijuterie
 
-:::media
+::: media
 ![](/images/lekt5118.webp)
 Fig.: ⟪मणिः⟫
 Diamantul Hope din Guntur = ગુંતૂર, astăzi Muzeul Național de Istorie Naturală Smithsonian, Washington DC
@@ -531,7 +552,7 @@ Diamantul Hope din Guntur = ગુંતૂર, astăzi Muzeul Național de Isto
 
 ⟪मद⟫ m.: de asemenea „suc de rută” al unui elefant (în [Musht](http://en.wikipedia.org/wiki/Musth))
 
-:::media
+::: media
 ![](/images/lekt5117.webp)
 Fig.: ⟪मदः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5117))
@@ -542,7 +563,7 @@ Fig.: ⟪मदः⟫
 
 ⟪खन्⟫ 1U ⟪खनति⟫ : săpa
 
-:::indent
+::: indent
 Perf. ⟪चखान⟫, ⟪चखने⟫
 Fut. ⟪खनिष्यति⟫
 Kaus. ⟪खानयति⟫
@@ -566,7 +587,7 @@ Explicație: -⟪अभिषेकौ⟫ Nom.Acc.Voc.Dual.masc. (Dualdvandva)
 
 ⟪२⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟫ Despre necesitatea respectării ⟪वर्नाश्रमधर्म⟫
 
-:::indent
+::: indent
 ⟪तस्मात्स्वधर्मं⟫ ⟪भूतानाम्⟫
 ⟪राजा⟫ ⟪न⟫ ⟪व्यभिचारयेत्⟫ ⟪।स्⟫
 ⟪स्वधर्मं⟫ ⟪संदधानो⟫ ⟪हि⟫
@@ -584,7 +605,7 @@ Explicație: -⟪अभिषेकौ⟫ Nom.Acc.Voc.Dual.masc. (Dualdvandva)
 
 ⟪आसीच्चेति⟫ ⟪।⟫ ⟪मे⟫ ⟪मम⟫ ⟪मनसि⟫ ⟪चित्त⟫ ⟪आसीद्बभूव⟫ ⟪।⟫ ⟪खेद⟫ ⟪इति⟫ ⟪शेषः⟫ ⟪।⟫ ⟪तदेव⟫ ⟪दर्शयति⟫ -- ⟪अहो⟫ ⟪इत्यादिना⟫ ⟪।⟫ ⟪अहो⟫ ⟪इत्याश्चर्ये⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪भिल्लानां⟫ ⟪जीवितं⟫ ⟪प्राणितं⟫ ⟪मोहो⟫ ⟪ऽज्ञानं⟫ ⟪प्रायं⟫ ⟪प्रचुरं⟫ ⟪यत्र⟫ ⟪तादृशम्⟫ ⟪।⟫ ⟪चः⟫ ⟪पुनरर्थे⟫ ⟪।⟫ ⟪चरितमाचरणं⟫ ⟪साधुजनैः⟫ ⟪सज्जनजनैर्गर्हितं⟫ ⟪निन्दितम्⟫ ⟪।⟫ ⟪तदेव⟫ ⟪विशेषतो⟫ ⟪दर्शयति⟫ -- ⟪तथा⟫ ⟪हीति⟫ ⟪।⟫ ⟪पुरुषेति⟫ ⟪।⟫ ⟪पुरुषस्य⟫ ⟪पुंसो⟫ ⟪यत्पिशितं⟫ ⟪मांसं⟫ ⟪तस्य⟫ ⟪य⟫ ⟪उपहारो⟫ ⟪भगवत्यै⟫ ⟪नैवेद्यदर्शनं⟫ ⟪तस्मिन्धर्मबुद्धिः⟫ ⟪श्रेयोधीः⟫ ⟪।⟫ ⟪आहार⟫ ⟪इति⟫ ⟪।⟫ ⟪आहारः⟫ ⟪प्रत्यवसानं⟫ ⟪साधुजनैर्गर्हितो⟫ ⟪निन्दितो⟫ ⟪मधुमांसादिर्मधुः⟫ ⟪मद्यं⟫ ⟪माक्षिकं⟫ ⟪वा⟫ ⟪।⟫ ⟪मांसं⟫ ⟪प्रतीतम्⟫ ⟪।⟫ ⟪ते⟫ ⟪आदौ⟫ ⟪यस्येति⟫ ⟪बहुव्रीहिः⟫ ⟪।⟫ ⟪आदिशब्दात्कन्दादिपरिग्रहः⟫ ⟪।⟫ ⟪श्रम⟫ ⟪इति⟫ ⟪।⟫ ⟪श्रमः⟫ ⟪शक्तिसाधनायासो⟫ ⟪मृगयाखेटकः⟫ ⟪।⟫ ⟪शास्त्रमिति⟫ ⟪।⟫ ⟪शिवा⟫ ⟪सृगाली⟫ ⟪तस्य⟫ ⟪रुतं⟫ ⟪शब्दितं⟫ ⟪शास्त्रमुच्चस्वरवेदपाठः⟫ ⟪।⟫ ⟪प्रबोधजनकत्वसाम्यात्तदुपमानम्⟫ ⟪।⟫ ⟪सदिति⟫ ⟪।⟫ ⟪सदसतां⟫ ⟪शुभाशुभानां⟫ ⟪समुपदेष्टारो⟫ ⟪बोधकाः⟫ ⟪कौशिका⟫ ⟪उलूकाः⟫ ⟪।⟫ ⟪प्रज्ञेति⟫ ⟪।⟫ ⟪शकुनयः⟫ ⟪पत्त्रिणस्तेषां⟫ ⟪स्थूलमहत्त्वादिना⟫ ⟪ज्ञानं⟫ ⟪तदेव⟫ ⟪प्रज्ञा⟫ ⟪विवेकबुद्धिः⟫ ⟪।⟫ ⟪परीति⟫ ⟪।⟫ ⟪श्वानः⟫ ⟪सारमेयाः⟫ ⟪परिचिता⟫ ⟪विश्वासपालत्राणि⟫ ⟪।⟫ ⟪राज्यमिति⟫ ⟪।⟫ ⟪शून्यासु⟫ ⟪जनरहितासु⟫ ⟪विन्ध्याटवीषु⟫ ⟪राज्यं⟫ ⟪स्वामित्वम्⟫ ⟪।⟫ ⟪आपानकेति⟫ ⟪।⟫ ⟪उत्सवः⟫ ⟪संतुष्टिकार्यं⟫ ⟪तदेवापानमेवापानकम्⟫ ⟪।⟫ ⟪स्वार्थे⟫ ⟪कः⟫ ⟪।⟫ ⟪पानगोष्ठिका⟫ ⟪।⟫ ⟪मित्राणीति⟫ ⟪।⟫ ⟪क्रूरं⟫ ⟪यत्कर्म⟫ ⟪तत्साधनानि⟫ ⟪तद्धेतुभूतानि⟫ ⟪धनूंष्येव⟫ ⟪चापान्येव⟫ ⟪मित्राणि⟫ ⟪सहृदः⟫ ⟪।⟫ ⟪हितचिन्तकानीति⟫ ⟪यावत्⟫ ⟪।⟫ ⟪सहाया⟫ ⟪इति⟫ ⟪।⟫ ⟪विषेण⟫ ⟪दिग्धं⟫ ⟪मुखमाननं⟫ ⟪येषामेवंविधाः⟫ ⟪सायका⟫ ⟪बाणास्त⟫ ⟪एव⟫ ⟪सहाया⟫ ⟪इष्टकार्यकर्तृत्वात्साहाय्यकारिणः⟫ ⟪।⟫ ⟪क⟫ ⟪इव⟫ ⟪।⟫ ⟪भुजंगाः⟫ ⟪सर्पा⟫ ⟪इव⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪विषदिग्धमुखत्वं⟫ ⟪स्वाभाविकम्⟫ ⟪।⟫ ⟪तेषामौपाधिकमिति⟫ ⟪भावः⟫ ⟪।⟫ ⟪गीतमिति⟫ ⟪।⟫ ⟪मुग्धा⟫ ⟪अनभिज्ञा⟫ ⟪ये⟫ ⟪मृगा⟫ ⟪हरिणास्तेषामुत्साहकारि⟫ ⟪स्तब्धताविधायि⟫ ⟪गीतं⟫ ⟪गानम्⟫ ⟪।⟫ ⟪कलत्रेति⟫ ⟪।⟫ ⟪परयोषितो⟫ ⟪ऽन्यस्त्रिय⟫ ⟪एव⟫ ⟪बन्दी⟫ ⟪ग्रहकस्तद्रूपत्वेन⟫ ⟪गृहीताः⟫ ⟪स्त्रीकृताः⟫ ⟪कलत्राणि⟫ ⟪स्वपत्न्यः⟫ ⟪।⟫ ⟪क्रूरेति⟫ ⟪।⟫ ⟪क्रूरात्मभिर्दुष्टात्मभिः⟫ ⟪शार्दुलैश्चित्रकैः⟫ ⟪समं⟫ ⟪संवासः⟫ ⟪सहावस्थानम्⟫ ⟪।⟫ ⟪पश्वेति⟫ ⟪।⟫ ⟪पशवो⟫ ⟪महिषास्तेषां⟫ ⟪रुधिरेण⟫ ⟪रक्तेन⟫ ⟪देवतार्चनं⟫ ⟪देवपूजनम्⟫ ⟪।⟫ ⟪मांसेनेति⟫ ⟪।⟫ ⟪मांसेन⟫ ⟪पिशितेन⟫ ⟪बलिर्हन्तकरस्तत्कर्म⟫ ⟪तत्कृत्यम्⟫ ⟪।⟫ ⟪चौर्येणेति⟫ ⟪।⟫ ⟪चौर्येण⟫ ⟪परद्रव्यापहारेण⟫ ⟪जीवनं⟫ ⟪प्राणधारणम्⟫ ⟪।⟫ ⟪भूषणनीति⟫ ⟪।⟫ ⟪भूषणान्याभरणानि⟫ ⟪भुजंगमणयः⟫ ⟪सर्परत्नानि⟫ ⟪।⟫ ⟪पर्वतवासित्वात्तेषां⟫ ⟪ते⟫ ⟪सुलभा⟫ ⟪इति⟫ ⟪भावः⟫ ⟪।⟫ ⟪वनेति⟫ ⟪।⟫ ⟪वनकरिणामरण्यहस्तिनां⟫ ⟪मदैर्दानवारिभिरङ्गरागो⟫ ⟪विलेपनम्⟫ ⟪।⟫ ⟪यस्मिन्निति⟫ ⟪।⟫ ⟪अनिर्दिष्टनामनि⟫ ⟪कानने⟫ ⟪वने⟫ ⟪निवसन्ति⟫ ⟪निवासं⟫ ⟪कुर्वन्ति⟫ ⟪तदेव⟫ ⟪काननमशेषतः⟫ ⟪समग्रत⟫ ⟪उत्खातमुत्पाटितं⟫ ⟪मूलं⟫ ⟪मध्यभागो⟫ ⟪यस्यैवंभूतं⟫ ⟪कुर्वते⟫ ⟪विदधत⟫ ⟪इति⟫ ⟪पूर्वोक्तप्रकारेण⟫ ⟪मयि⟫ ⟪चन्तयति⟫ ⟪ध्यायति⟫ ⟪सत्येव⟫ ... ⟪॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [Sursa imaginii: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Accesat la 2009-01-13. -- [Licență Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribuire)]
 

@@ -18,7 +18,7 @@ export const en = {
       { text: 'TOC', link: '/en/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Credits', link: '/en/impressum' },
-      { text: '⚙️', link: '/en/settings', ariaLabel: 'Open Settings' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/en/settings', ariaLabel: 'Open Settings' }
     ],
     docFooter: {
       prev: 'Previous Lesson',

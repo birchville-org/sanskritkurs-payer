@@ -1,9 +1,9 @@
 ---
-title: Lezione 23
-subtitle: "L'Infinito (⟪तुमुन्⟫)"
+title: Lektion 23
+subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
-category: "Grammatica"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,7 +11,7 @@ status: stable
 
 ## 23.1. L'Infinito (⟪तुमुन्⟫)
 
-:::grammar-box
+::: grammar-box
 **Se si vuole esprimere in sanscrito che un'azione avviene per un'altra azione ("per"), si può usare l'infinito (⟪तुमुन्⟫) per l'azione per cui avviene. L'infinito indica principalmente lo scopo o l'intenzione:**
 
 > ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma è andato per ascoltare il discorso del maestro."
@@ -53,7 +53,7 @@ ad esempio
 :::
 ## 23.2. Formazione dell'infinito (⟪तुमुन्⟫)
 
-:::grammar-box
+::: grammar-box
 **radice in grado superlativo + -tum**
 
 **oppure**
@@ -66,7 +66,7 @@ ad esempio
 :::
 Esempi:
 
-:::indent
+::: indent
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
 :::
@@ -74,14 +74,14 @@ Non è possibile stabilire regole fisse riguardo all'uso della vocale di congiun
 
 Tra le radici finora studiate, si prestano particolare attenzione i seguenti infiniti:
 
-:::indent
+::: indent
 ⟪गम्⟫ : ⟪गन्तुम्⟫
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
 -ra- come grado alto di -ṛ- hanno nell'infinito:
 
-:::indent
+::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
@@ -229,7 +229,7 @@ D) Tradurre e risolvere le composizioni:
 
 ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt2303.webp)
 Fig.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 ทำบุญ = ⟪पुण्यकरणम्⟫, Thailandia = ประเทศไทย
@@ -237,7 +237,7 @@ Fig.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 :::
 ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
-:::media
+::: media
 ![](/images/lekt2301.webp)
 Fig.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thailandia = เชียงใหม่, ประเทศไทย
@@ -260,7 +260,7 @@ C) Tradurre il seguente ⟪सुभाषितम्⟫
 
 Spiegazione: ⟪हीन⟫ ⟪३⟫: PPP per ⟪हा⟫ 3: lasciare ; ⟪धर्मे⟫ = Locativo sing. "nel ..."
 
-:::media
+::: media
 ![](/images/lekt2302.webp)
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
@@ -286,7 +286,7 @@ A) Tradurre in sanscrito:
 
 7\. Il "bastone" causa l'acquisizione e il possesso sicuro di filosofia, Veda ed economia. La guida di questo bastone è la politica.
 
-:::media
+::: media
 ![](/images/lekt2304.jpg)
 Fig.: ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Primo ministro dell'India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, dal 2004 [fonte immagine: Wikipedia, dominio pubblico]
@@ -316,7 +316,7 @@ C) Fornire le forme fondamentali (significato, classe del presente, modo, 3. sg.
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt2301:** Chiang Mai, Thailandia = เชียงใหม่, ประเทศไทย [Fonte dell'immagine: Wikipedia. Licenza GNU FD]
 

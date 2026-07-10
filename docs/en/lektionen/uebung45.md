@@ -6,12 +6,12 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Lesson 45
+# Exercise 45
 
-A) Translate into Sanskrit (use the Imperfect for the past tense):
+A) Translate into Sanskrit (use the imperfect for the past tense):
 
 ⟪१⟫. **⟪सङ्घं⟫ ⟪भिनत्सि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-You are dividing the (Buddhist) community.
+You split the (Buddhist) community.
 
 ⟪२⟫. **⟪किं⟫ ⟪महीमभुङ्क्त⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 Have you enjoyed the earth?
@@ -47,19 +47,19 @@ Have you, O poet, perhaps measured the worlds?
 B) Translate:
 
 ⟪१⟫. **⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Arjuna, either you will be killed and attain heaven, or you will conquer and enjoy the earth. Therefore, you must fight.
+Arjuna, either you will be killed and attain heaven, or you will win and enjoy the earth. Therefore, fighting is to be done by you (you must fight).
 
 ⟪२⟫. **⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 Venerable one, how have you ended the infinite suffering?
 
 ⟪३⟫. **⟪ब्राह्मण⟫ ⟪किमग्नौ⟫ ⟪घृतमजुहोः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Brahmin, have you poured ghee into the sacrificial fire?
+Brāhmaṇa, have you poured ghee into the sacrificial fire?
 
 ⟪४⟫. **⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 Enemy, with the sword you do not split the soul (life).
 
-:::media
+::: media
 ![](/images/uebung074.webp)
 Fig.: ⟪हस्तिनो⟫ ⟪बन्धनानि⟫ ⟪न⟫ ⟪भञ्ज्यात⟫ ⟪।⟫ ⟪भिन्द्यात⟫
-(Image source: [Details](/en/licenses#uebung074))
+(Image source: [Details](/licenses#uebung074))
 :::

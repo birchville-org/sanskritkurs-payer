@@ -60,7 +60,7 @@ kāmaḥ krodho lobhaś ca.
 
 ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫
 
-Explanation: brahmavihāra: "abiding states of Brahma", also called "the immeasurables": unlimited attitudes. They represent Buddhist meditation forms with which the meditator gradually, step by step, "radiates" the entire reality. These four also play a role in Yoga (Yogasūtra 1,33) in calming the mind.
+Explanation: brahmavihāra: "abiding states of Brahma", also called "the immeasurables": unlimited attitudes. They represent Buddhist meditation forms with which the meditator gradually, step by step, "radiates" the entire reality. These four also play a role in Yoga (Yogasūtra 1,33) in bringing the consciousness to rest.
 
 The immeasurable attitudes are: goodwill, compassion, sympathetic joy, and equanimity.
 
@@ -74,7 +74,7 @@ maitrī karuṇā muditopekṣā ca catvāro brahmavihārāḥ.
 
 Explanation: pañca = "five"
 
-The five afflictions are: ignorance, egoism, greed, hatred, and clinging.
+The five afflictions are: ignorance, egoism, passion, aversion, and clinging to life.
 
 avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
@@ -90,10 +90,10 @@ Sciences are philosophy, Vedic studies, economics, and politics.
 
 ⟪आन्वीक्षिकी⟫ ⟪त्रयी⟫ ⟪वार्त्ता⟫ ⟪दण्डनीतिश्च⟫ ⟪विद्याः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung010.webp)
 Fig.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
-(Image source: [Details](/en/licenses#uebung010))
+(Image source: [Details](/licenses#uebung010))
 :::
 ---
 
@@ -111,7 +111,7 @@ Economics is a science.
 
 ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫
 
-The three twice-born castes are: Brāhmaṇa, Kṣatriya, and Vaiśya.
+The three twice-born castes are: Brahmin, Kṣatriya, and Vaiśya.
 
 3\. dvijā vaiśyāḥ. (2 possibilities)
 
@@ -157,14 +157,14 @@ sāmaveda ṛgvedo yajurvedaś ca trayī / ... yajurvedas trayī
 
 D) Translate into Sanskrit in two ways (once with a compound, once without):
 
-"Abodes of Brāhma" are: friendly goodwill, compassion, sympathetic joy, equanimity.
+"The abodes of Brahman" are: friendly goodwill, compassion, sympathetic joy, equanimity.
 
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā (ca) brahmavihārāḥ.
 
 ⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung009.webp)
 Fig.: ⟪ऋग्वेदः⟫
-(Image source: [Details](/en/licenses#uebung009))
+(Image source: [Details](/licenses#uebung009))
 :::

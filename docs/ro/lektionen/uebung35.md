@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formați formele de perfect corespunzătoare pentru următoarele forme verbale:
 
-:::grammar-box
+::: grammar-box
 | Prezent / Imperfect | Perfect |
 | :--- | :--- |
 | ⟪१⟫. **⟪गायन्ति⟫** | ⟪जगुः⟫ |
@@ -83,7 +83,7 @@ C) Transformați propozițiile din exercițiul B) înlocuind perfectele cu imper
 
 ⟪४⟫. ⟪अर्हन्तः⟫ ⟪कुलबन्धनमभिन्दंल्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪चारुन्धन्सत्यमजानन्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमाप्नुवन्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung058.webp)
 Fig.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
 (Sursă imagine: [Detalii](/licenses#uebung058))

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formez la **2e personne** correspondante en temps, nombre, mode, etc. des formes verbales suivantes :
 
-:::grammar-box
+::: grammar-box
 | 1re personne / 3e personne | 2e personne |
 | :--- | :--- |
 | ⟪१⟫. **⟪आर्हम्⟫** | ⟪आर्हः⟫ |
@@ -65,10 +65,11 @@ A) Formez la **2e personne** correspondante en temps, nombre, mode, etc. des for
 | ⟪५०⟫. **⟪सीदामि⟫** | ⟪सीदसि⟫ |
 | ⟪५१⟫. **⟪तिष्ठन्ति⟫** | ⟪तिष्ठथ⟫ |
 | ⟪५२⟫. **⟪आहरत्⟫** | ⟪आहरः⟫ |
-::::::media
+:::: media
 ![](/images/uebung070.webp)
 Fig. : ⟪दिशसि⟫
 (Source de l'image : [Détails](/fr/licenses#uebung070))
+::::
 :::
 ---
 
@@ -106,7 +107,7 @@ Dans quelle ville es-tu né ?
 ⟪१०⟫. **⟪कथं⟫ ⟪शत्रुं⟫ ⟪तरसि⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 Comment te sauves-tu (traverses-tu le courant) devant l’ennemi ?
 
-:::media
+::: media
 ![](/images/uebung071.jpg)
 Fig. : ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 (Source de l’image : [Détails](/fr/licenses#uebung071))

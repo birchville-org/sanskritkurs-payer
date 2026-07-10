@@ -102,7 +102,7 @@ sādhur guruḥ.
 
 ⟪साधुर्गुरुः⟫
 
-:::media
+::: media
 ![](/images/uebung002.jpg)
 अभ.: ⟪ईश्वरः⟫ ⟪शिवः⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung002))

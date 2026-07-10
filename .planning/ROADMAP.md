@@ -1,4 +1,4 @@
-# Project Roadmap - Milestone v1.5
+# Project Roadmap - Milestone v1.6
 
 ## Milestones
 
@@ -7,8 +7,8 @@
 - ✅ **v1.2 Search, Index & I18n Expansion** — Phasen 10-14 (shipped 2026-05-27)
 - ✅ **v1.3 Polyglot & Polish** — Phasen 15-17 (shipped 2026-06-11)
 - ✅ **v1.4 Offline-First PWA** — Phasen 18-21 (shipped 2026-06-15)
-- 🚧 **v1.5 QA-Authoring-Split & UAT** — Phase 22 (Tech done, UAT pending)
-- 📝 **v1.6 Developer Experience / Extension** — Phase 23 (Backlog)
+- ✅ **v1.5 QA-Authoring-Split & UAT** — Phase 22 (shipped 2026-07-10)
+- 🚧 **v1.6 Developer Experience / Extension** — Phase 23 (In Progress)
 
 
 ## Phasen
@@ -216,9 +216,9 @@ Trennung von Public- und Authoring-Version mit dedizierten Domains und Builds.
 </details>
 
 <details closed>
-<summary>📋 v1.6 Developer Experience (Phase 23 — BACKLOG)</summary>
+<summary>📋 v1.6 Developer Experience & Translations (Phase 23 — BACKLOG)</summary>
 
-### Phase 23: VSCode Markdown Extension
+### Phase 23a: VSCode Markdown Extension
 Entwicklung einer VSCode-Erweiterung (`vscode-payer-markdown`) als Template für selbstdefinierte Markdown Extensions. Die Extension klinkt sich in VSCode ein und liefert Syntax-Highlighting und Snippets für Payer-spezifische Container.
 
 **Stufe 1 (Syntax & Snippets)**:
@@ -229,6 +229,12 @@ Entwicklung einer VSCode-Erweiterung (`vscode-payer-markdown`) als Template für
 **Stufe 2 (Preview Rendering)**:
 - Integration von `markdown-it` Plugins in den nativen VSCode-Preview.
 - Live-Darstellung der Boxen direkt im VSCode-Vorschaufenster.
+
+### Phase 23b: Thai (`th`) & Modern Greek (`el`) Translations
+Vollständige Übersetzung und Integration der thailändischen und neugriechischen Übersetzungspakete.
+- Aktivierung der Locales `th` und `el` in `docs/.vitepress/config.mjs` und `docs/.vitepress/theme/lang-settings.js`
+- Durchführung der automatischen Übersetzungen (Lektionen, Übungen, Schriften, Wortlisten, Lizenzen)
+- Layout-Synchronisation und Verifikation
 
 **Status**: Backlog
 **Reference**: .planning/phases/23-vscode-extension/23-1-PLAN.md

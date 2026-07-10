@@ -1,5 +1,5 @@
 ---
-title: Lesson 34
+title: Lektion 34
 lesson_id: 34
 status: stable
 ---
@@ -8,13 +8,14 @@ status: stable
 
 ## 34.1. The Perfect (⟪लिट्⟫)
 
-In Classical Sanskrit, the perfect stem has only indicative and participle forms.
+In classical Sanskrit, the perfect stem has only indicative and participle forms.
 
-:::grammar-box
+::: grammar-box
 **There are two types of perfect formation:**
 *   **the reduplicated perfect = ⟪द्वित्वलिट्⟫**
 *   **the periphrastic perfect = ⟪अनुप्रयोगलिट्⟫**
-::::::grammar-box
+:::
+::: grammar-box
 **The periphrastic perfect (⟪अनुप्रयोगलिट्⟫) is used:**
 1. **in derived conjugations (causative, desiderative, frequentative, denominative)**
 2. **with roots that begin with a long vowel (except ā-) or with a vowel (except a-) before two consonants**
@@ -22,122 +23,126 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 :::
 ## 34.2. The reduplicated perfect (⟪द्वित्वलिट्⟫)
 
-### 34.2.1. Stem Gradation
+### 34.2.1. Stem gradation
 
-:::grammar-box
+::: grammar-box
 **Formation:**
 
-**strong stem:** Singular Parasmaipada
-*   **reduplicated guṇa or vṛddhi stem + perfect ending**
+**strong stem:** singular parasmaipada
+*   **reduplicated strong-grade or guṇa-grade root + perfect ending**
 
 **weak stem:** all other forms
-*   **reduplicated zero-grade stem + perfect ending**
-::::::grammar-box
-**Generally (also outside the perfect), stems of the following forms do not undergo stem gradation:**
-*   **(Consonant)-Consonant-Long Vowel-Consonant**
-*   **(Consonant)-Consonant-Vowel-Consonant-Consonant**
-
-**In the perfect, additionally, stems of the following forms do not undergo stem gradation:**
-*   **a-Consonant**
-*   **ā-Consonant**
+*   **reduplicated weak-grade root + perfect ending**
 :::
-### 34.2.2. The Perfect Endings
+::: grammar-box
+**Generally (also outside the perfect), roots of the following forms do not undergo stem gradation:**
+*   **(consonant)-consonant-long vowel-consonant**
+*   **(consonant)-consonant-vowel-consonant-consonant**
 
-::::grammar-box
+**In the perfect, roots of the following forms additionally do not undergo stem gradation:**
+*   **a-consonant**
+*   **ā-consonant**
+:::
+### 34.2.2. The perfect endings
+
+::: grammar-box
 
 | | 3. Singular | 3. Plural |
 | :--- | :--- | :--- |
 | **Parasmaipada** | **-a** | **-ur** |
-| **Ātmanepada** | **-e** | **-re** |
+| **ātmanepada** | **-e** | **-re** |
 
-::::
-### 34.2.3. Connecting Vowel -i-
-
-:::grammar-box
-**The connecting vowel -i- always precedes the 3rd person plural ending -re, and precedes other consonant-initial endings for the majority of roots.**
 :::
-### 34.2.4. Reduplication of roots beginning with a consonant
+### 34.2.3. Connecting vowel -i-
 
-:::grammar-box
-**For the reduplication of initial consonants, the rules given in [Lesson 33](lektion33.md) apply.**
+::: grammar-box
+**Before the ending of the 3.pl.āt (-re), the connecting vowel -i- always appears; before other consonant-initial endings in the plural, for most roots.**
+:::
+### 34.2.4. Reduplication of consonant-initial roots
 
-**The reduplication vowel for roots beginning with a consonant is the short root vowel.**
+::: grammar-box
+**The rules given in [Lesson 33](lektion33.md) apply to the reduplication of initial consonants.**
 
-**Diphthongs before a consonant are reduced to the corresponding short low-grade vowel.**
+**The reduplication vowel for consonant-initial roots is the short root vowel.**
+
+**Diphthongs before a consonant are reduced to the corresponding short weak-grade vowel.**
 
 **ṛ, ṝ, ḷ, and final diphthongs are reduplicated with -a-.**
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | Root | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪भिद्⟫ | ***⟪बि⟫***⟪भेद⟫ |
-| ⟪मुच्⟫ | ***⟪मु⟫***⟪मोच⟫ |
-| ⟪भृ⟫ | ***⟪ब⟫***⟪भार⟫ |
+| ⟪भिद्⟫ | *⟪बि⟫*⟪भेद⟫ |
+| ⟪मुच्⟫ | *⟪मु⟫*⟪मोच⟫ |
+| ⟪भृ⟫ | *⟪ब⟫*⟪भार⟫ |
 
-:::::::grammar-box
-**Some roots beginning with y- or v- reduplicate with i- or u-, which in the weak forms "merges" with the root vowel.**
+:::
+::: grammar-box
+**Some roots beginning with y- or v- reduplicate with i- or u-, which "merges" with the root vowel in the weak forms.**
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
-::::
-### 34.2.5. Reduplication of Vowel-Initial Roots
+:::
+### 34.2.5. Reduplication of vowel-initial roots
 
-:::grammar-box
-**1. Initial a-, ā- is reduplicated with a-, resulting in ā-.**
+::: grammar-box
+**1. initial a-, ā- is reduplicated with a-, resulting in ā-.**
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | Root | 3. sg. Perf. P. |
 | :--- | :--- |
 | ⟪अस्⟫ 2 "to be" and ⟪अस्⟫ 4 "to throw" | ⟪आस⟫:bra + as-a |
 
-:::::::grammar-box
-**2. Roots with initial i- have iy- as the reduplicating syllable in the strong stem, and i- in the weak stem, which merges with the root vowel to form ī-. The same applies to initial u-.**
+:::
+::: grammar-box
+**2. Roots with initial i- have as reduplication syllable in the strong stem iy-, in the weak stem i-, which "merges" with the root vowel to ī-. The same applies to initial u-.**
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
 | ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
-:::::::grammar-box
-**3. Roots that begin with a- followed by two consonants, or with ṛ-, have ān- as the reduplicating syllable.**
+:::
+::: grammar-box
+**3. Roots that begin with a- before two consonants or with ṛ- have ān- as reduplication syllable**
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
-::::
+:::
 ## 34.3. Types of the reduplicated perfect
 
 Classification principle: Peculiarities of stem gradation:
 *   Perfect without stem gradation: Type I
-*   Perfect with stem gradation: Types II - V
+*   Perfect with stem gradation: Type II - V
 *   irregular perfect formations
 
 ## 34.4. Perfect Type I: Perfect without stem gradation
 
-:::grammar-box
+::: grammar-box
 **Perfect Type I (without stem gradation) have roots of the types:**
 *   **(Consonant)-Consonant-LongVowel-Consonant**
 *   **(Consonant)-Consonant-Vowel-Consonant-Consonant**
@@ -146,30 +151,30 @@ Classification principle: Peculiarities of stem gradation:
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | Root | 3. sg. Perf. | 3. pl. Perf. |
 | :--- | :--- | :--- |
 | ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ |
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
-| ⟪अस्⟫ 2P "to be":br⟪अस्⟫ 4 "to throw" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brirregular reduplication! | ⟪आनशिरे⟫ |
+| ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
-::::
-## 34.5. Perfect Type II: Strong stem with Vṛddhi grade, weak stem with Guṇa grade
+:::
+## 34.5. Perfect Type II: Strong stem high grade, weak stem low grade
 
-:::grammar-box
-**Formed from roots of the form:**
+::: grammar-box
+**Formed by roots of the form:**
 *   **(Consonant)-(Consonant)-i/u/ṛ/ḷ-Consonant**
 
 **Formation:**
-*   **strong stem: Vṛddhi grade**
-*   **weak stem: Guṇa grade**
+*   **strong stem: high grade**
+*   **weak stem: low grade**
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -179,59 +184,61 @@ Examples:
 | ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ |
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
-::::
-## 34.6. Word List
+:::
+## 34.6. Word list
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. and pl.:** seed, crop, grain
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. and pl.: seed, crop, grain**
 
-:::media
+::: media
 ![](/images/lekt3406.webp)
 Fig.: ⟪सस्यम्⟫
 Rice field in India.
 (Image source: [Details](/en/licenses#lekt3406))
 :::
-**⟪यावत्⟫ :** how long, how great
+**⟪यावत्⟫ :** how long, how big
 
-**⟪तावत्⟫ :** so long, so great
+**⟪तावत्⟫ :** so long, so big
 
 **⟪उत्तम⟫ 3:** highest
 
-**⟪द्वीप⟫ m.n.:** island, continent
+**⟪द्वीप⟫ m.n.: island, continent**
 
-:::media
+::: media
 ![](/images/lekt3405.webp)
 Fig.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
 (Image source: [Details](/en/licenses#lekt3405))
 :::
-**⟪मर्त्य⟫ 3:** mortal (from **⟪मृ⟫**)
+**⟪मर्त्य⟫ 3:** mortal (to **⟪मृ⟫**)
 
-**⟪तिल⟫ m.:** sesame (seed) (*Sesamum indicum* L.)
+**⟪तिल⟫ m.: sesame (seed) (*Sesamum indicum* L.)**
 
-:::media
+::: media
 ![](/images/lekt3403.webp)
 Fig.: ⟪तिलाः⟫
 Sesame seeds.
 (Image source: [Details](/en/licenses#lekt3403))
-::::::media
+:::
+
+::: media
 ![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Sesame plant flowering.
 (Image source: [Details](/en/licenses#lekt3404))
 :::
-**⟪स्वर्ण⟫ n.:** (beautifully colored =) gold
+**⟪स्वर्ण⟫ n.:** (beautiful-colored =) Gold
 
-:::media
+::: media
 ![](/images/lekt3402.webp)
 Fig.: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
 (Image source: [Details](/en/licenses#lekt3402))
 :::
-**⟪निकेतन⟫ n.:** dwelling, temple
+**⟪निकेतन⟫ n.:** dwelling place, temple
 
-**⟪कोटि⟫ f.:** peak; 10 million
+**⟪कोटि⟫ f.:** tip; 10 million
 
 **⟪श्रेष्ठ⟫ 3:** best
 
@@ -239,17 +246,17 @@ Golden Temple (Harmandir Sahib), Amritsar.
 
 **⟪ऋषभ⟫ m.:** bull
 
-:::media
+::: media
 ![](/images/lekt3401.webp)
 Fig.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
 (Image source: [Details](/en/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** restrain, hold, offer, grant
+**⟪यम्⟫ 1P ⟪यच्छति⟫ :** to restrain, to hold, to offer, to grant
 
-**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** extend, offer, deliver
+**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** to hold out, to offer, to deliver
 
-**⟪या⟫ 2P ⟪याति⟫ :** go, travel
+**⟪या⟫ 2P ⟪याति⟫ :** to go, to travel
 
 **⟪कन्या⟫ f.:** girl, maiden
 
@@ -293,36 +300,38 @@ Form the corresponding perfect forms in person, number, and gender for the follo
 
 Translate the following text from the ⟪पद्मपुराण⟫ regarding gifts to Brahmins:
 
-⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫***⟪त्तम⟫*** ⟪।⟫  
-⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫***⟪श्चतुर्दश⟫*** ⟪॥१॥⟫  
-***⟪सप्त⟫***⟪द्वीपां⟫ ⟪महीं⟫ ⟪दत्त्वा⟫ ⟪यत्पुण्यं⟫ ⟪प्राप्यते⟫ ⟪द्विज⟫ ⟪।⟫  
+⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫*⟪त्तम⟫* ⟪।⟫  
+⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫*⟪श्चतुर्दश⟫* ⟪॥१॥⟫  
+*⟪सप्त⟫*⟪द्वीपां⟫ ⟪महीं⟫ ⟪दत्त्वा⟫ ⟪यत्पुण्यं⟫ ⟪प्राप्यते⟫ ⟪द्विज⟫ ⟪।⟫  
 ⟪तत्पुण्यं⟫ ⟪प्राप्नुयान्मर्त्यो⟫ ⟪धेनुं⟫ ⟪यच्छन्द्विजातये⟫ ⟪॥२॥⟫  
 ⟪तिलप्रमाणं⟫ ⟪स्वर्णं⟫ ⟪यो⟫ ⟪ब्राह्मणाय⟫ ⟪प्रयच्छति⟫ ⟪।⟫  
 ⟪हरिनिकेतनं⟫ ⟪याति⟫ ⟪युक्तं⟫ ⟪कोटिकुलैरपि⟫ ⟪॥३॥⟫  
 ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫  
-⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫  
+⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫*⟪र्जन्म⟫* ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫  
 ⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तं⟫ ⟪महीतले⟫ ⟪।⟫  
 ⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
 
 Explanations:
 
-:::indent
-**Vocative singular** of Masculine / Neuter nouns ending in -a ends in -a: e.g. **⟪देव⟫** "God!"
+::: indent
+**Vocative sg.** of masculines / neuters ending in -a ends in -a: e.g. **⟪देव⟫** "O God!"
 
 **⟪चतुर्दश⟫** fourteen
 
 **⟪सप्त⟫** seven
 
-**⟪जन्म⟫** Nom./Acc. sg. of **⟪जन्मन्⟫** n. birth
+**⟪जन्म⟫** Nom./Akk. sg. of **⟪जन्मन्⟫ n.** birth
 
-**⟪सर्व⟫ 3** "all, entire" (declined according to pronominal declension)
-::::::media
+**⟪सर्व⟫ 3** "all, whole" (declined according to pronominal declension)
+:::
+::: media
 ![](/images/lekt3407.webp)
 Fig.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Hindu wedding ritual.
 (Image source: [Details](/en/licenses#lekt3407))
-::::::deleteme-box
+:::
 
+::: deleteme-box
 
 **lekt3401:** Nandi Bull statue, Chamundi Hills, Mysore. [Image source: Luna Park / Flickr. CC BY-NC-ND]
 
@@ -338,3 +347,4 @@ Hindu wedding ritual.
 
 **lekt3407:** Hindu wedding ritual. [Image source: BriceFR / Flickr. CC BY-NC-SA]
 :::
+

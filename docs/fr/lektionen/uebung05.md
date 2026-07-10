@@ -90,7 +90,7 @@ Les sciences sont la philosophie, la védique, l'économie et la politique.
 
 ⟪आन्वीक्षिकी⟫ ⟪त्रयी⟫ ⟪वार्त्ता⟫ ⟪दण्डनीतिश्च⟫ ⟪विद्याः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung010.webp)
 Fig. : ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 (Source de l'image : [Détails](/fr/licenses#uebung010))
@@ -163,7 +163,7 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 
 ⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung009.webp)
 Fig. : ⟪ऋग्वेदः⟫
 (Source de l'image : [Détails](/fr/licenses#uebung009))

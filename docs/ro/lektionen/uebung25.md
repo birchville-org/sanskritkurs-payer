@@ -10,8 +10,6 @@ last_reconstructed: 2026-05-15
 
 A) Completați exemplele de declinare din Lecția 16, adăugând 4. Dativ (⟪चतुर्थी⟫) și 5. Ablativ (⟪पञ्चमी⟫).
 
-:::grammar-box
-
 ### ⟪१⟫. **⟪सन्त्⟫** (fiind, bun)
 
 | Caz | m. Singular | m. Plural | n. Singular | n. Plural |
@@ -41,7 +39,6 @@ A) Completați exemplele de declinare din Lecția 16, adăugând 4. Dativ (⟪�
 | 3. Instr. | ⟪येन⟫ | ⟪यैः⟫ | ⟪येन⟫ | ⟪यैः⟫ | ⟪यया⟫ | ⟪याभिः⟫ |
 | 4. Dat. | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्यै⟫ | ⟪याभ्यः⟫ |
 | 5. Abl. | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्याः⟫ | ⟪याभ्यः⟫ |
-:::
 B) Traduceți și rezolvați compozițiile în sanscrită:
 
 ⟪१⟫. **⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫**
@@ -66,7 +63,7 @@ Buddha și arhanții sunt eliberați de suferință. Ei au atins, într-adevăr,
 ⟪७⟫. **⟪लोभ⟫en ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫**
 Din lăcomie, ură și neștiință, oamenii se pierd. Când vine timpul, ei cad într-o iad.
 
-:::media
+::: media
 ![](/images/uebung040.webp)
 Fig.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung040))
@@ -117,7 +114,7 @@ Dacă cineva, din mândrie, lăcomie, mânie sau frică, pronunță o sentință
 ⟪दारिद्र्यमप्रदानेन⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫  
 Iadurile iau naștere din rău, răul provine din sărăcie, sărăcia provine din ne-dăruire.
 
-:::media
+::: media
 ![](/images/uebung041.webp)
 Fig.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung041))
@@ -133,7 +130,7 @@ Un hoit este eliberat de vinovăția furtului prin pedeapsă sau prin eliberare.
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
 Economia este utilă, deoarece produce cereale, animale, aur, metale și muncă.
 
-:::media
+::: media
 ![](/images/uebung042.webp)
 Fig.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Sursa imaginii: [Detalii](/licenses#uebung042))

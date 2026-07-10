@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) המר את צורות הפועל הבאות לצורות משאל המתאימות לאיש, מספר וGenus verbi:
 
-:::grammar-box
+::: grammar-box
 | נוכחי | משאל |
 | :--- | :--- |
 | ⟪१⟫. **⟪ह्रियते⟫** | ⟪ह्रियेत⟫ |
@@ -116,7 +116,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 **⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫** (מנו IV.138)  
 יש לומר אמת נעימה, לא יש לומר אמת לא נעימה; לא יש לומר שקר נעים, זהו החוק הנצחי.
 
-:::media
+::: media
 ![](/images/uebung048.webp)
 תמונה: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (מקור התמונה: [פרטים](/licenses#uebung048))
@@ -127,7 +127,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 
 קבעו ותרגמו את צורות המילים הבאות:
 
-:::grammar-box
+::: grammar-box
 | צורת מילה | קביעה | משמעות |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪भारे⟫** | לוק. יח' ז' | על המשא |
@@ -171,8 +171,9 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 | | ⟪३८⟫. **⟪तस्यै⟫** | דא' ס' נ' | לה |
 | | ⟪३९⟫. **⟪तस्मिन्⟫** | לוק' ס' ז'/נ' | בתוכו, בזה |
 | | ⟪४०⟫. **⟪सते⟫** | דא' ס' ז'/נ' | לנמצא / הטוב |
-::::::media
+:::: media
 ![](/images/uebung047.webp)
 תמונה: ⟪भक्त्याः⟫
 (מקור התמונה: [פרטים](/licenses#uebung047))
+::::
 :::

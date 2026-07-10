@@ -1,15 +1,15 @@
 ---
 gsd_state_version: 1.0
-milestone: v1.5
-milestone_name: QA-Authoring-Split & UAT
-status: UAT / Visual Inspection
-last_updated: "2026-06-30T14:40:00.000Z"
+milestone: v1.6
+milestone_name: Developer Experience / Extension
+status: Initialized
+last_updated: "2026-07-10T07:10:00.000Z"
 progress:
-  total_phases: 22
+  total_phases: 23
   completed_phases: 22
-  total_plans: 64
+  total_plans: 67
   completed_plans: 64
-  percent: 100
+  percent: 95
 ---
 
 # Project State: Payer Sanskrit Course Migration
@@ -18,12 +18,16 @@ progress:
 
 Standardizing and migrating 61 Sanskrit lessons from legacy HTML to "Gold Standard" VitePress Markdown.
 
-## Milestone: v1.5 (QA-Authoring-Split & UAT)
+## Milestone: v1.6 (Developer Experience / Extension)
 
-### Status: UAT / Visual Inspection
+### Status: Initialized
+
+- Phase 23: Developer Experience / Extension — 🚧 in progress (2026-07-10)
+
+## Previous Milestone: v1.5 (QA-Authoring-Split & UAT)
 
 - Phase 22: QA Mode Split — ✅ complete (2026-06-30)
-- Pending: Visuelle Inspektion und Komplettierung der Übersetzungen durch den User (Maintenance Mode Transition).
+- Visual Inspection & Translation Completion — ✅ complete (2026-07-10)
 
 ## Previous Milestone: v1.4 (Offline-First PWA)
 
@@ -42,6 +46,7 @@ Standardizing and migrating 61 Sanskrit lessons from legacy HTML to "Gold Standa
 
 ## Recent Activity
 
+- 2026-07-10: Milestone v1.5 closed after translation completion and build validation. Initializing Milestone v1.6.
 - 2026-06-30: Phase 21 and Phase 22 formally closed. Milestone v1.5 awaiting UAT/Visual Inspection.
 - 2026-06-12: v1.3 closed, v1.4 Offline-First PWA initialized.
 - 2026-06-12: Impressum "Hinweis zu den Schriftzeichen" from all 14 locales removed.

@@ -11,7 +11,7 @@ status: stable
 
 ## 30.1. Clasa a 9-a de prezintă (⟪क्र्यादि⟫ = "⟪क्री⟫ etc.")
 
-:::grammar-box
+::: grammar-box
 **Formare:**
 
 *   stemă puternică: rădăcină în gradul cel mai scăzut + -nā-
@@ -24,9 +24,10 @@ status: stable
 :::
 Exemplu:
 
-:::indent
+::: indent
 ⟪क्री⟫ 9U "a cumpăra"
-::::::grammar-box
+:::
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -36,7 +37,7 @@ Exemplu:
 :::
 La această clasă de prezintă, trebuie acordată o atenție deosebită formării stemei de prezent pentru rădăcina ⟪ज्ञा⟫ 9U "a recunoaște, a ști":
 
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -50,9 +51,10 @@ Unele rădăcini cu vocale lungi le scurtează înainte de sufixul de stemă de 
 
 Exemplu:
 
-:::indent
+::: indent
 ⟪पू⟫ 9U "a curăța"
-::::::grammar-box
+:::
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -64,14 +66,14 @@ Formarea participiului de prezent Parasmaipada:
 
 Exemplu:
 
-:::indent
+::: indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
 :::
 ## 30.2. Utilizarea optativului (⟪लिङ्⟫)
 
 Optativul este folosit:
 
-:::grammar-box
+::: grammar-box
 **1. pentru exprimarea**
 
 *   **a unui dor**
@@ -82,9 +84,10 @@ Optativul este folosit:
 :::
 Exemplu:
 
-:::indent
+::: indent
 ⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Să vină sclavul în sat"
-::::::grammar-box
+:::
+::: grammar-box
 **2. Când ceva este prezentat**
 
 *   **ca posibil**
@@ -95,21 +98,22 @@ Exemplu:
 :::
 Exemplu:
 
-:::indent
+::: indent
 ⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "Dacă ar ieși din sat, nu l-ar auzi pe maestru"
-::::::grammar-box
+:::
+::: grammar-box
 **3. Propozițiile relative cu optativ au uneori sensul: "Dacă cineva ..."**
 :::
 Exemplu:
 
-:::indent
+::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Dacă cineva ar spune minciuna, ar cădea în iad = Dacă cineva spune minciuna, cade în iad"
 :::
 ## 30.3. Desinențe secundare ale persoanei a III-a singular și plural
 
 Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪लुङ्⟫), prekativul (⟪आशिर्लिङ्⟫) și condiționalul au desinențele numite secundare:
 
-:::grammar-box
+::: grammar-box
 
 | |Persoana a III-a singular|Persoana a III-a plural|
 | :--- | :--- | :--- |
@@ -121,7 +125,7 @@ Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪ल�
 
 ### 30.4.1. Clase tematice de prezent
 
-:::grammar-box
+::: grammar-box
 **înaintea terminațiilor care încep cu consoană:**
 
 **Stem de prezent + -i- (care se contopește cu -a- în -e-) + terminații secundare**
@@ -135,7 +139,7 @@ Exemple:
 1\. Clasa de prezent:
 
 ⟪भू⟫
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -146,7 +150,7 @@ Exemple:
 4\. Clasa de prezent:
 
 ⟪नृत्⟫
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -157,7 +161,7 @@ Exemple:
 6\. Clasa de prezent
 
 ⟪विश्⟫
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -168,7 +172,7 @@ Exemple:
 10\. Clasa de prezent și cauzativele
 
 ⟪चुर्⟫
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -178,7 +182,7 @@ Exemple:
 :::
 ### 30.4.2. Clase de prezent atematic
 
-:::grammar-box
+::: grammar-box
 **Parasmaipada:**
 
 **tămân de prezent slab + -yā- (în fața -ur: -y-) + terminație secundară**
@@ -192,7 +196,7 @@ Exemple:
 2\. Clasa de prezent:
 
 ⟪द्विष्⟫
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -203,7 +207,7 @@ Exemple:
 5\. Clasa de prezent
 
 ⟪सु⟫
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -214,7 +218,7 @@ Exemple:
 8\. Clasa de prezent
 
 ⟪तन्⟫
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -224,14 +228,15 @@ Exemple:
 :::
 **kṛ**:br(⟪कृ⟫)
 
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
 |**Persoana a 3-a:brParasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
 |**Persoana a 3-a:brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
 
-::::::grammar-box
+:::
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -241,14 +246,14 @@ Exemple:
 :::
 ## 30.5. Sandhi al sunetelor finale -r
 
-:::grammar-box
+::: grammar-box
 **În afară de -ar, regulile de Sandhi pentru sunetele finale -r sunt aceleași ca pentru sunetele finale -s.**
 
 **-ar înainte de sunete voilate rămâne -ar, dar înainte de r- se pierde -r, iar -a- este înlocuit cu -ā-.**
 :::
 Exemple:
 
-:::indent
+::: indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
 
 ⟪पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः⟫
@@ -259,7 +264,7 @@ Exemple:
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : cumpăra
 
-:::indent
+::: indent
 Fut. ⟪क्रेष्यति⟫  
 Pass. ⟪क्रीयते⟫  
 PPP ⟪क्रीत⟫  
@@ -267,17 +272,18 @@ Inf. ⟪क्रेतुम्⟫
 :::
 ⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : vinde
 
-:::indent
+::: indent
 Absol. ⟪विक्रीय⟫
-::::::media
+:::: media
 ![](/images/lekt3001.webp)
 Fig.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3001))
+::::
 :::
 ⟪ज्ञा⟫ 9U ⟪जानाति⟫ : cunoaște, recunoaște, ști, înțelege
 
-:::indent
+::: indent
 Fut. ⟪ज्ञास्यति⟫  
 Pass. ⟪ज्ञायते⟫  
 Kaus. ⟪ज्ञापयति⟫  
@@ -290,74 +296,78 @@ din care:
 ⟪ज्ञाति⟫ m.: (rude de) sânge (rudele sunt cei pe care îi cunoști!)
 
 ⟪ज्ञान⟫ n.: cunoaștere, știință, recunoaștere (în special a „adevărurilor superioare” în religie și filosofie)
-::::::media
+:::: media
 ![](/images/lekt3002.webp)
 Fig.: ⟪ज्ञातयः⟫
 Darewadi, Districtul Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3002))
+::::
 :::
 ⟪पू⟫ 9U ⟪पुनाति⟫ : curăța
 
-:::indent
+::: indent
 Fut. ⟪पविष्यति⟫  
 Pass. ⟪पूयते⟫  
 Kaus. ⟪पावयति⟫  
 PPP ⟪पूत⟫  
 Inf. ⟪पवितुम्⟫
-::::::media
+:::: media
 ![](/images/lekt3003.webp)
 Fig.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3003))
+::::
 :::
 ⟪अश्⟫ 9P ⟪अश्नाति⟫ : mânca, consuma
 
-:::indent
+::: indent
 Fut. ⟪अशिष्यति⟫  
 Pass. ⟪अश्यते⟫  
 Kaus. ⟪आशयति⟫  
 PPP ⟪अशित⟫  
 Inf. ⟪अशितुम्⟫
-::::::media
+:::: media
 ![](/images/lekt3005.webp)
 Fig.: ⟪अश्नीयात्⟫
 ⟪थाली⟫, India de Sud
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3005))
+::::
 :::
 ⟪प्रिय⟫ ⟪३⟫: iubit, iubitor, prietenos
 
-:::media
+::: media
 ![](/images/lekt3004.webp)
 Fig.: ⟪प्रिया⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3004))
 :::
 ⟪चेत्⟫ Conjuncție: dacă; cu condiția ca (nu apare niciodată la începutul unei propoziții)
 
-:::indent
+::: indent
 ⟪न⟫ ⟪चेत्⟫ : dacă nu
 :::
 ⟪यदि⟫ Conjuncție: dacă
 
-:::indent
+::: indent
 ⟪यद्यपि⟫ : chiar dacă, deși, chiar și dacă
 
 ⟪यद्येवम्⟫ : dacă este așa, în aceste circumstanțe
 :::
 ⟪पुनर्⟫ : din nou, din nou și din nou, înapoi, din nou, în schimb, dar
 
-:::indent
+::: indent
 ⟪पुनः⟫ ⟪पुनर्⟫ : din nou și din nou
 
 din care:
 
 ⟪पुनर्भव⟫ m.: renaștere
-::::::media
+:::: media
 ![](/images/lekt2904.webp)
 Fig.: ⟪पुनर्भवः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2904))
+::::
 :::
 ⟪जीव्⟫ 1P ⟪जीवति⟫ : trăi
 
-:::indent
+::: indent
 Fut. ⟪जीविष्यति⟫  
 Pass. ⟪जीव्यते⟫  
 Kaus. ⟪जीवयति⟫  
@@ -506,7 +516,7 @@ Determinați și traduceți următoarele forme de cuvânt:
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Sursa imaginii: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Accesat la 2008-12-21. -- Licență Creative Commons (Atribuire, fără utilizare comercială, fără opere derivate)]
 **lekt3002:** Darewadi, Districtul Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Sursa imaginii: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Accesat la 2008-12-21. -- Licență Creative Commons (Atribuire, fără utilizare comercială, share alike)]

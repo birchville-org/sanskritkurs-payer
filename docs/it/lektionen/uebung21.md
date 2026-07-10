@@ -46,7 +46,7 @@ Un due volte nato è un uomo che è stato iniziato dal maestro nel Veda.
 ⟪६⟫. ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥⟫
 Chi ha vinto la collera non odia un nemico, anche se questi lo uccide. Chi invece è vinto dalla collera, odia.
 
-:::media
+::: media
 ![](/images/uebung033.webp)
 Fig.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung033))

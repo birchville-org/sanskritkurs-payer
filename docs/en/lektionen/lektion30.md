@@ -1,9 +1,9 @@
 ---
-title: Lesson 30
-subtitle: "The 9th Present Class (⟪क्र्यादि⟫ = \"⟪क्री⟫ etc.\")"
+title: Lektion 30
+subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
 lesson_id: 30
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,67 +11,69 @@ status: stable
 
 ## 30.1. The 9th Present Class (⟪क्र्यादि⟫ = "⟪क्री⟫ etc.")
 
-:::grammar-box
+::: grammar-box
 **Formation:**
 
-*   strong stem: root in guṇa grade + -nā-
-    
+*   strong stem: low-grade root + -nā-
+
 *   weak stem:
-    
-    *   before consonant: root in zero grade + -nī-
-        
-    *   before vowel: root in zero grade + -n-
+
+    *   before consonant: low-grade root + -nī-
+
+    *   before vowel: low-grade root + -n-
 :::
 Example:
 
-:::indent
+::: indent
 ⟪क्री⟫ 9U "to buy"
-::::::grammar-box
+:::
+::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
-|**3rd Person:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
+| **3rd Person:brParasmaipada** | ⟪क्रीणाति⟫:br(krī + nā + ti) | ⟪क्रीणन्ति⟫:br(krī + n + anti) |
+| **3rd Person:brĀtmanepada** | ⟪क्रीणीते⟫:br(krī + nī + te) | ⟪क्रीणते⟫:br(krī + n + ate) |
 
 :::
-In this present class, special attention must be paid to the formation of the present stem from the root ⟪ज्ञा⟫ 9U "to know, to recognize":
+With this present class, special attention must be paid to the formation of the present stem for the root ⟪ज्ञा⟫ 9U "to recognize, to know":
 
-:::grammar-box
+::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
-|**3rd Person:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
+| **3rd Person:brParasmaipada** | ⟪जानाति⟫:br(jā-nā-ti) | ⟪जानन्ति⟫:br(jā-n-anti) |
+| **3rd Person:brĀtmanepada** | ⟪जानीते⟫:br(jā-nī-te) | ⟪जानते⟫:br(jā-n-ate) |
 
 :::
-The form ⟪जा⟫, which underlies the present stem of ⟪ज्ञा⟫, can be explained either by an ablaut series -ā (zero grade) -nā (guṇa grade) or by dissimilation from *jñā-nā-ti.
+The form ⟪जा⟫, which underlies the present stem of ⟪ज्ञा⟫, is either to be explained by an ablaut series -ā (low grade) -nā (high grade), or by dissimilation from *jñā-nā-ti.
 
 Some roots with long vowels shorten this vowel before the present stem suffix of the 9th class:
 
 Example:
 
-:::indent
+::: indent
 ⟪पू⟫ 9U "to purify"
-::::::grammar-box
+:::
+::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
-|**3rd Person:brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
+| **3rd Person:brParasmaipada** | ⟪पुनाति⟫:br(pu-nā-ti) | ⟪पुनन्ति⟫:br(pu-n-anti) |
+| **3rd Person:brĀtmanepada** | ⟪पुनीते⟫:br(pu-nī-te) | ⟪पुनते⟫:br(pu-n-ate) |
 
 :::
 Formation of the Present Participle Parasmaipada:
 
 Example:
 
-:::indent
+::: indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
 :::
-## 30.2. Use of the Optative (⟪लिङ्⟫)
+## 30.2. Usage of the Optative (⟪लिङ्⟫)
 
 The optative is used:
 
-:::grammar-box
+::: grammar-box
 **1. to express**
 
 *   **a wish**
@@ -82,49 +84,51 @@ The optative is used:
 :::
 Example:
 
-:::indent
+::: indent
 ⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Let the serf come to the village"
-::::::grammar-box
-**2. When something is to be presented as**
+:::
+::: grammar-box
+**2. When something is presented as**
 
-*   **possible**
-*   **probable**
-*   **presumed**
+*   **presumably**
+*   **probably**
+*   **presumably**
 
 **to be the case.**
 :::
 Example:
 
-:::indent
-⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "If he were to leave the village, he would not hear the master"
-::::::grammar-box
+::: indent
+⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "If he were to go out of the village, he would not hear the master"
+:::
+::: grammar-box
 **3. Relative clauses with the optative sometimes have the meaning: "If someone ..."**
 :::
 Example:
 
-:::indent
-⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "If someone were to tell a lie, he would fall into hell = If someone tells a lie, he falls into hell"
+::: indent
+⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "If someone were to speak untruth, he would fall into hell = If someone speaks untruth, he falls into hell"
 :::
-## 30.3. Secondary endings of the 3rd person singular and plural
+## 30.3. Secondary endings of the 3rd persons singular and plural
 
-The optative (⟪लिङ्⟫), the imperfect (⟪लङ्⟫), the aorist (⟪लुङ्⟫), the precative (⟪आशिर्लिङ्⟫) and the conditional have the so-called secondary endings:
+The optative (⟪लिङ्⟫), the imperfect (⟪लङ्⟫), the aorist (⟪लुङ्⟫), the precative (⟪आशिर्लिङ्⟫), and the conditional have the so-called secondary endings:
 
-:::grammar-box
+::: grammar-box
 
-| |3rd person singular|3rd person plural|
+| | 3. Person Singular | 3. Person Plural |
 | :--- | :--- | :--- |
-|**Parasmaipada**|**-t**|athematic classes: **-an** or **-ur**:brOptative: **-ur**|
-|**Ātmanepada**|**-ta**|athematic classes: **-ata** (from *nta):brOptative: **-ran**|
+| **Parasmaipada** | **-t** | athematische Klassen: **-an** oder **-ur** :brOptative: **-ur** |
+| **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptative: **-ran** |
 
 :::
 ## 30.4. Formation of the Optative Present (⟪लिङ्⟫)
 
 ### 30.4.1. Thematic Present Classes
 
-:::grammar-box
+::: grammar-box
 **before endings beginning with a consonant:**
 
-**Present stem + -i- (which merges with -a- to form -e-) + secondary endings**
+**Present stem + -i- (which merges with the -a- to become -e-) + secondary endings**
 
 **before endings beginning with a vowel:**
 
@@ -135,50 +139,50 @@ Examples:
 1\. Present class:
 
 ⟪भू⟫
-:::grammar-box
+::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
-|**3rd Person:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
+| **3rd Person:brParasmaipada** | ⟪भवेत्⟫:br(bhava + i + t) | ⟪भवेयुर्⟫:br(bhava + i + y + ur) |
+| **3rd Person:brĀtmanepada** | ⟪भवेत⟫:br(bhava + i + ta) | ⟪भवेरन्⟫:br(bhava + i + ran) |
 
 :::
 4\. Present class:
 
 ⟪नृत्⟫
-:::grammar-box
+::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
-|**3rd Person:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
+| **3rd Person:brParasmaipada** | ⟪नृत्येत्⟫:br(nṛtya + i + t) | ⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur) |
+| **3rd Person:brĀtmanepada** | ⟪नृत्येत⟫:br(nṛtya + i + ta) | ⟪नृत्येरन्⟫:br(nṛtya + i + ran) |
 
 :::
 6\. Present class
 
 ⟪विश्⟫
-:::grammar-box
+::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
-|**3rd Person:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
+| **3rd Person:brParasmaipada** | ⟪विशेत्⟫:br(viśa + i + t) | ⟪विशेयुर्⟫:br(viśa + i + y + ur) |
+| **3rd Person:brĀtmanepada** | ⟪विशेत⟫:br(viśa + i + ta) | ⟪विशेरन्⟫:br(viśa + i + ran) |
 
 :::
-10\. Present class and causatives
+10\. Present Class and Causatives
 
 ⟪चुर्⟫
-:::grammar-box
+::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
-|**3rd Person:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
+| **3rd Person:brParasmaipada** | ⟪चोरयेत्⟫:br(coraya + i + t) | ⟪चोरयेयुर्⟫:br(coraya + i + y + ur) |
+| **3rd Person:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
 
 :::
-### 30.4.2. Atheric Present Classes
+### 30.4.2. Athetic Present Classes
 
-:::grammar-box
+::: grammar-box
 **Parasmaipada:**
 
 **weak present stem + -yā- (before -ur: -y-) + secondary ending**
@@ -189,77 +193,78 @@ Examples:
 :::
 Examples:
 
-2. Present class:
+2\. Present class:
 
 ⟪द्विष्⟫
-:::grammar-box
+::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
-|**3rd Person:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
+| **3rd Person:brParasmaipada** | ⟪द्विष्यात्⟫:br(dviṣ-yā-t) | ⟪द्विष्युर्⟫:br(dviṣ-y-ur) |
+| **3rd Person:brĀtmanepada** | ⟪द्विषीत⟫:br(dviṣ-ī-ta) | ⟪द्विषीरन्⟫:br(dviṣ-ī-ran) |
 
 :::
-5. Present class
+5\. Present class
 
 ⟪सु⟫
-:::grammar-box
+::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
-|**3rd Person:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
+| **3rd Person:brParasmaipada** | ⟪सुनुयात्⟫:br(sunu-yā-t) | ⟪सुनुयुर्⟫:br(sunu-y-ur) |
+| **3rd Person:brĀtmanepada** | ⟪सुन्वीत⟫:br(sunu + ī + ta) | ⟪सुन्वीरन्⟫:br(sunu + ī + ran) |
 
 :::
-8. Present class
+8\. Present class
 
 ⟪तन्⟫
-:::grammar-box
+::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
-|**3rd Person:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
+| **3rd Person:brParasmaipada** | ⟪तनुयात्⟫:br(tanu-yā-t) | ⟪तनुयुर्⟫:br(tanu-y-ur) |
+| **3rd Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ**:br(⟪कृ⟫)
+**kṛ** :br(⟪कृ⟫)
 
-:::grammar-box
+::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
-|**3rd Person:brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
+| **3rd Person:brParasmaipada** | ⟪कुर्यात्⟫ | ⟪कुर्युर्⟫ |
+| **3. Person:brātmanepada** | ⟪कुर्वीत⟫ | ⟪कुर्वीरन्⟫ |
 
-::::::grammar-box
+:::
+::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3rd Person Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
-|**3rd Person Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
+| **3. Person Parasmaipada** | ⟪क्रीणीयात्⟫:br(krīṇī-yā-t) | ⟪क्रीणीयुर्⟫:br(krīṇī-y-ur) |
+| **3. Person Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
 
 :::
 ## 30.5. Sandhi of final -r
 
-:::grammar-box
+::: grammar-box
 **Except for -ar, the same Sandhi rules apply to final -r as to final -s.**
 
-**-ar before voiced sounds remains -ar, but before r- the -r is lost and the -a- is replaced by -ā-.**
+**-ar before voiced sounds remains -ar, but before r- the -r is dropped and the -a- is replaced by -ā-.**
 :::
 Examples:
 
-:::indent
+::: indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
 
 ⟪पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः⟫
 
 ⟪पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना⟫ ⟪रोदिति⟫
 :::
-## 30.6. Word List
+## 30.6. Vocabulary List
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : to buy
 
-:::indent
+::: indent
 Fut. ⟪क्रेष्यति⟫  
 Pass. ⟪क्रीयते⟫  
 PPP ⟪क्रीत⟫  
@@ -267,9 +272,10 @@ Inf. ⟪क्रेतुम्⟫
 :::
 ⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : to sell
 
-:::indent
+::: indent
 Absol. ⟪विक्रीय⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3001.webp)
 Fig.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
@@ -277,20 +283,21 @@ Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 :::
 ⟪ज्ञा⟫ 9U ⟪जानाति⟫ : to know, to recognize, to know, to understand
 
-:::indent
+::: indent
 Fut. ⟪ज्ञास्यति⟫  
 Pass. ⟪ज्ञायते⟫  
-Caus. ⟪ज्ञापयति⟫  
-Caus. PPP ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫  
+Kaus. ⟪ज्ञापयति⟫  
+Kaus. PPP ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫  
 PPP ⟪ज्ञात⟫  
 Inf. ⟪ज्ञातुम्⟫
 
-from which:
+therefrom:
 
-⟪ज्ञाति⟫ m.: (blood) relative (relatives are those whom one knows!)
+⟪ज्ञाति⟫ m.: (blood-)relative (relatives are those whom one knows!)
 
 ⟪ज्ञान⟫ n.: knowledge, wisdom, understanding (esp. of the "higher" truths in religion and philosophy)
-::::::media
+:::
+::: media
 ![](/images/lekt3002.webp)
 Fig.: ⟪ज्ञातयः⟫
 Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
@@ -298,26 +305,28 @@ Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪�
 :::
 ⟪पू⟫ 9U ⟪पुनाति⟫ : to purify
 
-:::indent
+::: indent
 Fut. ⟪पविष्यति⟫  
 Pass. ⟪पूयते⟫  
-Caus. ⟪पावयति⟫  
+Kaus. ⟪पावयति⟫  
 PPP ⟪पूत⟫  
 Inf. ⟪पवितुम्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3003.webp)
 Fig.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Image source: [Details](/en/licenses#lekt3003))
 :::
 ⟪अश्⟫ 9P ⟪अश्नाति⟫ : to eat, to consume
 
-:::indent
+::: indent
 Fut. ⟪अशिष्यति⟫  
 Pass. ⟪अश्यते⟫  
-Caus. ⟪आशयति⟫  
+Kaus. ⟪आशयति⟫  
 PPP ⟪अशित⟫  
 Inf. ⟪अशितुम्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3005.webp)
 Fig.: ⟪अश्नीयात्⟫
 ⟪थाली⟫, South India
@@ -325,46 +334,47 @@ Fig.: ⟪अश्नीयात्⟫
 :::
 ⟪प्रिय⟫ ⟪३⟫: dear, loving, friendly
 
-:::media
+::: media
 ![](/images/lekt3004.webp)
 Fig.: ⟪प्रिया⟫
 (Image source: [Details](/en/licenses#lekt3004))
 :::
-⟪चेत्⟫ Conjunction: if; provided that (never occurs at the beginning of a sentence)
+⟪चेत्⟫ Conjunction: if; provided that (never stands at the beginning of a sentence)
 
-:::indent
+::: indent
 ⟪न⟫ ⟪चेत्⟫ : if not
 :::
 ⟪यदि⟫ Conjunction: if
 
-:::indent
+::: indent
 ⟪यद्यपि⟫ : even if, although
 
-⟪यद्येवम्⟫ : if so, under these circumstances
+⟪यद्येवम्⟫ : if it is so, under these circumstances
 :::
 ⟪पुनर्⟫ : again, repeatedly, back, once more, on the contrary, but
 
-:::indent
+::: indent
 ⟪पुनः⟫ ⟪पुनर्⟫ : repeatedly
 
-from which:
+therefrom:
 
 ⟪पुनर्भव⟫ m.: rebirth
-::::::media
+:::
+::: media
 ![](/images/lekt2904.webp)
 Fig.: ⟪पुनर्भवः⟫
 (Image source: [Details](/en/licenses#lekt2904))
 :::
 ⟪जीव्⟫ 1P ⟪जीवति⟫ : to live
 
-:::indent
+::: indent
 Fut. ⟪जीविष्यति⟫  
 Pass. ⟪जीव्यते⟫  
-Caus. ⟪जीवयति⟫  
+Kaus. ⟪जीवयति⟫  
 PPP ⟪जीवित⟫ : living  
 Inf. ⟪जीवितुम्⟫
 
-from which:
+therefrom:
 
 ⟪जीव⟫ m./n.: life, individual soul
 :::
@@ -372,7 +382,7 @@ from which:
 
 ## 30.7. Exercise
 
-A) Convert the following verbal forms into the corresponding optative forms in person, number, and gender:
+A) Convert the following verbal forms into the corresponding optative forms in person, number, and genus verbi:
 
 1.  ⟪ह्रियते⟫
 2.  ⟪ध्नन्ति⟫
@@ -461,7 +471,7 @@ B) Translate the following sentences and resolve the compounds in Sanskrit:
 ⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
 ⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
 
-## 30.8. Form Exercise
+## 30.8. Review Exercise on Morphology
 
 Determine and translate the following word forms:
 
@@ -506,7 +516,7 @@ Determine and translate the following word forms:
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Image source: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Non-commercial, No derivatives)]
 **lekt3002:** Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Image source: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Non-commercial, ShareAlike)]

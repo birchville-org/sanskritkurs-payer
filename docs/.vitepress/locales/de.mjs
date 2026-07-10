@@ -16,7 +16,7 @@ export const de = {
       { text: 'Inhaltsverzeichnis', link: '/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Impressum', link: '/impressum' },
-      { text: '⚙️', link: '/settings', ariaLabel: 'Einstellungen öffnen' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/settings', ariaLabel: 'Einstellungen öffnen' }
     ],
     docFooter: {
       prev: 'Vorherige Lektion',

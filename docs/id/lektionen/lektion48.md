@@ -11,8 +11,7 @@ status: stable
 
 ## 48.1. ⟪सुभाषितानि⟫
 
-:::
-center
+::: center
 ⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
 
 ⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
@@ -31,7 +30,7 @@ center
 
 ### 48.2.1. Endings of the Imperative on athematic present stems
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -41,7 +40,7 @@ center
 :::
 Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessing is to be expressed. -tāt occurs (also in the 3rd sg.) with the weak stem.
 
-:::grammar-box
+::: grammar-box
 | **Regarding the form of the 2.sg. Imperative ending:** ||
 | :---: | :--- |
 | **\-ø** | Roots of the 5th and 8th class, where a final \-u is preceded only by a consonant. |
@@ -51,7 +50,7 @@ Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessi
 :::
 ### 48.2.2. Form of the Present Stem
 
-:::grammar-box
+::: grammar-box
 **Strong Stem:**
 
 *   **all 1st person Imperatives**
@@ -63,7 +62,7 @@ Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessi
 
 ⟪द्विष्⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -73,7 +72,7 @@ Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessi
 :::
 ⟪आस्⟫ 2Ā
 
-:::grammar-box
+::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -83,7 +82,7 @@ Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessi
 :::
 ⟪दुह्⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -93,7 +92,7 @@ Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessi
 :::
 ⟪इ⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -103,7 +102,7 @@ Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessi
 :::
 ⟪शी⟫ 2Ā (always with full grade!)
 
-:::grammar-box
+::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -113,7 +112,7 @@ Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessi
 :::
 ⟪हन्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -125,7 +124,7 @@ Note: ¹ Explanation of **⟪जहि⟫*** see Thumb-Hauschild I,2 p. 253
 :::
 ⟪स्तु⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -135,7 +134,7 @@ Note: ¹ Explanation of **⟪जहि⟫*** see Thumb-Hauschild I,2 p. 253
 :::
 ⟪अस्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -145,7 +144,7 @@ Note: ¹ Explanation of **⟪जहि⟫*** see Thumb-Hauschild I,2 p. 253
 :::
 ⟪शास्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -156,24 +155,24 @@ Note: ¹ Explanation of **⟪जहि⟫*** see Thumb-Hauschild I,2 p. 253
 :::
 ### 48.2.4. Third Present Class (⟪जुहोत्यादि⟫)
 
-:::grammar-box
+::: grammar-box
 **The 3.pl.P ends in \-atu !**
 :::
 ⟪हु⟫ 3P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | &lt;⟪जुहवै⟫&gt; | &lt;⟪जुहवामहै⟫&gt; |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brirregular¹ | ⟪जुहुत⟫ | &lt;⟪जुहुष्व⟫&gt; | &lt;⟪जुहुध्वम्⟫&gt; |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | &lt;⟪जुहुताम्⟫&gt; | &lt;⟪जुह्वताम्⟫&gt; |
+| **1st Person**:br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
+| **2nd Person**:br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brirregular¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
+| **3rd Person**:br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
 
 Note: ¹ Dissimilation, so that two syllables with **⟪ह्⟫** do not follow each other.
 :::
 ⟪धा⟫ 3U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -185,7 +184,7 @@ Note: ¹ **⟪धेहि⟫** from \*dhazdhi: loss of the Indo-European sibila
 :::
 ⟪हा⟫ 3P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -195,7 +194,7 @@ Note: ¹ **⟪धेहि⟫** from \*dhazdhi: loss of the Indo-European sibila
 :::
 ## 48.3. On nominal derivation: ⟪तद्धित⟫ suffixes -a and -ya
 
-:::grammar-box
+::: grammar-box
 With the suffix **-a** and (rarely) **-ya**, a noun can be derived from another noun. In doing so, the first syllable of the original noun receives the guṇa grade (**⟪वृद्धि⟫**). If the original stem already ends in **-a**, then the **⟪वृद्धि⟫** is the only marker of derivation, since the final sound of the stem remains unchanged.
 
 The derived words have the meaning:
@@ -211,7 +210,7 @@ The words formed in this way are adjectives, but can be substantivized, e.g. as 
 :::
 Examples:
 
-:::indent
+::: indent
 | Base word | Derivation |
 | :--- | :--- |
 | **⟪शुचि⟫** 3 "shining, pure" | **⟪शौच⟫** n. "purity" |
@@ -222,7 +221,8 @@ Examples:
 | **⟪राजन्⟫** m. "king" | **⟪राज्य⟫** n. "kingship" |
 | **⟪देव⟫** m. "Heavenly one, god" | **⟪दैव्य⟫** 3 "heavenly" |
 | **⟪ग्राम⟫** m. "village" | **⟪ग्राम्य⟫** 3 "village-related" |
-::::::grammar-box
+:::
+::: grammar-box
 | **Treatment of the stem final before the suffix \-a:** ||
 | :---: | :--- |
 | **\-ṛ** | **\-a** generally attaches to the final **\-r**::bre.g. **⟪जेतृ⟫** "winner" » **⟪जैत्र⟫** 3 "victorious" |
@@ -235,7 +235,7 @@ Before the suffix **-ya**, the stem final is treated similarly to before the suf
 :::
 See examples above!
 
-:::grammar-box
+::: grammar-box
 **Derivations can also be formed from compounds using these suffixes.**
 
 e.g. **⟪स्वश्व⟫** m. "he, whose horses are good" proper name » **⟪सौवश्व⟫** m. "descendant of Svaśva"
@@ -243,10 +243,11 @@ e.g. **⟪स्वश्व⟫** m. "he, whose horses are good" proper name » 
 **In compounds, in which due to sandhi in the prior member final -i or -u is replaced by -y or -v and thus precede the first vowel of the base word (e.g. compounds with ni-, vi-, su-), the ⟪वृद्धि⟫ is formed as if -iy or -uv were present.**
 
 e.g. **⟪व्याघ्र⟫** m. "tiger" » **⟪वैयाघ्र⟫** 3 "originating from a tiger, belonging to a tiger"
-::::::media
+:::: media
 ![](/images/lekt4801.webp)
 Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Image source: [Details](/en/licenses#lekt4801))
+::::
 :::
 ## 48.4. Word List
 
@@ -260,22 +261,23 @@ Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 
 ⟪तन्त्र⟫ n.: string; loom, warp, fabric; foundation, norm, rule; doctrine, textbook; Tantra; magical formula; means, trick, medicine; government, authority
 
-:::media
+::: media
 ![](/images/lekt4802.webp)
 Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Image source: [Details](/en/licenses#lekt4802))
-::::::media
+:::: media
 ![](/images/lekt4803.webp)
 Fig.: ⟪तन्त्री⟫
 Sitar player = ⟪सितारवादकः⟫
 (Image source: [Details](/en/licenses#lekt4803))
+::::
 :::
 ⟪स्त्री⟫ f.: woman, wife; feminine
 
 Declension:
 
-:::grammar-box
+::: grammar-box
 | **⟪स्त्री⟫ f.** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | :---: | :---: | :---: |
 | **⟪प्रथमा⟫** | ⟪स्त्री⟫ | ⟪स्त्रियस्⟫ |
@@ -286,11 +288,12 @@ Declension:
 | **⟪षष्ठी⟫** | ⟪स्त्रियास्⟫ | ⟪स्त्रीणाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪स्त्रियाम्⟫ | ⟪स्त्रीषु⟫ |
 | **⟪आमन्त्रितम्⟫** | ⟪स्त्रि⟫ | ⟪स्त्रियस्⟫ |
-::::::media
+:::: media
 ![](/images/lekt4804.webp)
 Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Image source: [Details](/en/licenses#lekt4804))
+::::
 :::
 ⟪दिवानिशम्⟫ Adverb: by day and night
 
@@ -298,7 +301,7 @@ Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 
 ⟪कुमार⟫ m.: child, youth, prince; epithet of ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്⟪‍⟫ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
-:::media
+::: media
 ![](/images/lekt4805.webp)
 Fig.: ⟪कुमारः⟫
 Thaipusam festival = தைப்பூசம், Batu Caves, Malaysia
@@ -306,7 +309,7 @@ Thaipusam festival = தைப்பூசம், Batu Caves, Malaysia
 :::
 ⟪कुमारी⟫ f.: girl, daughter
 
-:::media
+::: media
 ![](/images/lekt4806.webp)
 Fig.: ⟪कुमारी⟫
 ⟪नेपाल⟫
@@ -318,7 +321,7 @@ Fig.: ⟪कुमारी⟫
 
 ⟪स्थविर⟫ 3: old, aged
 
-:::media
+::: media
 ![](/images/lekt4807.webp)
 Fig.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
@@ -330,7 +333,7 @@ Fig.: ⟪स्थविराः⟫
 
 ⟪सूक्ष्म⟫ 3: fine, tiny, subtle
 
-:::media
+::: media
 ![](/images/lekt4808.webp)
 Fig.: ⟪सूक्ष्मम्⟫
 Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
@@ -346,7 +349,7 @@ Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 
 ⟪जाया⟫ f.: wife
 
-:::media
+::: media
 ![](/images/lekt4809.webp)
 Fig.: ⟪मम⟫ ⟪जाया⟫
 (Image: Payer)
@@ -383,7 +386,7 @@ B) Translate into Sanskrit (using the imperative and preferably roots of the 2nd
 
 ⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫):
 
-:::indent
+::: indent
 ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫  
 ⟪विषयेषु⟫ ⟪च⟫ ⟪सज्जन्त्यः⟫ ⟪संस्थाप्या⟫ ⟪आत्मनो⟫ ⟪वशे⟫ ⟪॥२॥⟫  
 ⟪पिता⟫ ⟪रक्षति⟫ ⟪कौमरे⟫ ⟪भर्ता⟫ ⟪रक्षति⟫ ⟪यौवने⟫ ⟪।⟫  
@@ -402,7 +405,7 @@ B) Translate into Sanskrit (using the imperative and preferably roots of the 2nd
 Explanation:  
 ⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Dual to ⟪द्वे⟫ ⟪कुले⟫ "two families"
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt4801:** [Image source: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, Non-commercial, Share alike)]
 

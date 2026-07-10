@@ -144,7 +144,7 @@ kiṃ kāraṇam?
 
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung007.webp)
 Abb.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#uebung007))
@@ -207,7 +207,7 @@ Der Papagei fliegt.
 18\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
 Der Knabe schreibt einen Brief.
 
-:::media
+::: media
 ![](/images/uebung008.webp)
 Abb.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Bildquelle: [Details](/licenses#uebung008))

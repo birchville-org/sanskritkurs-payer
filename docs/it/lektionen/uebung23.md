@@ -107,7 +107,7 @@ Poiché voleva ascoltare il Dharma, la Brahmana è andata nella grande città co
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫  
 Mangiare, dormire, paura e sesso sono comuni agli esseri umani e al bestiame. La differenza distintiva degli esseri umani risiede nel Dharma. Senza Dharma, essi sono uguali al bestiame.
 
-:::media
+::: media
 ![](/images/uebung035.webp)
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung035))
@@ -168,7 +168,7 @@ B) Declinate in tutti i casi a voi noti **⟪क्षत्रिया⟫** (f
 
 C) Fornite le forme della radice (significato, classe del presente, modo, 3. sg. presente indicativo, 3. sg. passivo, PPP, assolutivi, infinito) per i seguenti verbi:
 
-:::grammar-box
+::: grammar-box
 ⟪१⟫. **⟪सह्⟫** (1Ā, sopportare)
 
 | Forma | Valore |
@@ -212,8 +212,9 @@ C) Fornite le forme della radice (significato, classe del presente, modo, 3. sg.
 | Assolutivo 1 | ⟪हत्वा⟫ |
 | Assolutivo 2 | -⟪हत्य⟫ |
 | Infinito | ⟪हन्तुम्⟫ |
-::::::media
+:::: media
 ![](/images/uebung036.webp)
 Fig.: ⟪बालाः⟫ ⟪पिबन्ति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung036))
+::::
 :::

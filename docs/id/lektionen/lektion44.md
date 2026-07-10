@@ -11,16 +11,17 @@ status: stable
 
 ## 44.1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems with vocally ending suffix
 
-:::media
+::: media
 ![](/images/lekt4301.jpg)
-::::::grammar-box
+:::
+::: grammar-box
 **The 3.sg.Ā.Imperfect is formally identical with the 2.pl.P.Imperfect!!!**
 :::
 ### 44.1.1. Fifth Present Class (⟪स्वादि⟫)
 
 ⟪सु⟫ 5U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -32,7 +33,7 @@ status: stable
 
 ⟪तन्⟫ 8U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -42,7 +43,7 @@ status: stable
 :::
 ⟪कृ⟫ 8U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -52,7 +53,7 @@ status: stable
 :::
 ### 44.1.3. Ninth Present Class (⟪क्र्यादि⟫)
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -70,7 +71,7 @@ Furthermore, the following rules of word-sandhi apply.
 
 ### 44.2.1. On Word-Sandhi for dh-
 
-:::grammar-box
+::: grammar-box
 1. **An aspirate before an aspirate is replaced by the corresponding non-aspirate:**
    e.g. **⟪रुध्⟫** 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » **⟪रुन्द्ध्वे⟫** (run**ddh**ve)
 2. **-h + dh- » -gdh-**
@@ -82,7 +83,7 @@ Furthermore, the following rules of word-sandhi apply.
 :::
 ### 44.2.2. On s-Sandhi
 
-:::grammar-box
+::: grammar-box
 1. **-s + s- » -ts- or (not optionally!) -ss-** (as in the 2nd Present class)
    Examples:
    * **⟪वस्⟫** 1P: Future: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
@@ -94,7 +95,7 @@ Furthermore, the following rules of word-sandhi apply.
 
 ### 44.3.1. Second Present Class (⟪अदादि⟫)
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -104,7 +105,7 @@ Furthermore, the following rules of word-sandhi apply.
 :::
 ⟪आस्⟫ 2Ā
 
-:::grammar-box
+::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -114,7 +115,7 @@ Furthermore, the following rules of word-sandhi apply.
 :::
 ⟪दुह्⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -124,14 +125,15 @@ Furthermore, the following rules of word-sandhi apply.
 :::
 ⟪इ⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | &lt;⟪इषे⟫&gt; | &lt;⟪इध्वे⟫&gt; |
+| **Indicative Present**:br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪इषे⟫\> | \<⟪इध्वे⟫\> |
 | **Imperfect**:br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
 | **Optative**:br⟪विधिलिङ्⟫ |  ⟪इयास्⟫ |  ⟪इयात⟫ |  ⟪इयीथास्⟫:briy-ī-thās |  ⟪इयीध्वम्⟫ |
-::::::grammar-box
+:::
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -141,7 +143,7 @@ Furthermore, the following rules of word-sandhi apply.
 :::
 ⟪स्तु⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -151,7 +153,7 @@ Furthermore, the following rules of word-sandhi apply.
 :::
 ⟪अस्⟫ 2P (especially to be remembered!)
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -163,14 +165,15 @@ Furthermore, the following rules of word-sandhi apply.
 
 ⟪शास्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | **Indicative Present**:br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
-::::::grammar-box
+:::
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -183,22 +186,24 @@ Furthermore, the following rules of word-sandhi apply.
 
 The native grammarians do not consider the vocative (⟪आमन्त्रितम्⟫) as an independent case, but only as a modification of the nominative (⟪प्रथमा⟫).
 
-::::
-important
+::: important
 **The vocative serves for calling out, addressing, and stands outside the context of the rest of the sentence, thus differing from the other cases that express a relationship to the verb or to another noun.**
 
 **Mostly, the vocative is placed at the beginning of the sentence:**
 
-:::indent
+:::
+::: indent
 ⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Child, what are you saying?"
-::::::::::
-important
+:::: important
 **Avoid translating the vocative with "**O** ...". We constantly use vocatives in German when we say, for example: "Darling, what are we cooking today?". Nobody would say in this meaning: "**O** Darling, what are we cooking today?"**
-::::::media
+::::
+:::
+::: media
 ![](/images/lekt4402.webp)
 Fig.: On the correct use of "O" in German: **"O man!"**
 (Image source: [Details](/en/licenses#lekt4402))
-::::::grammar-box
+:::
+::: grammar-box
 **The forms of the vocative plural and dual are identical to those of the nominative (⟪प्रथमा⟫) plural and dual.**
 
 **The forms of the vocative singular are given in [Lesson 45](lektion45.md).**
@@ -207,7 +212,7 @@ Fig.: On the correct use of "O" in German: **"O man!"**
 
 ⟪प्रति⟫ Preverb: back, against, toward - away
 
-:::indent
+::: indent
 e.g.
 
 **⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : to strike back
@@ -218,7 +223,7 @@ e.g.
 :::
 ⟪या⟫ 2P ⟪याति⟫ : to go, to travel
 
-:::indent
+::: indent
 Perf. IV ⟪ययौ⟫  
 Fut. ⟪यास्यति⟫  
 Pass. ⟪यायते⟫  
@@ -229,14 +234,15 @@ Inf. ⟪यातुम्⟫
 therefrom:
 
 **⟪यान⟫** n.: going, path, vehicle
-::::::media
+:::: media
 ![](/images/lekt4403.webp)
 Fig.: ⟪रेल्यानम्⟫
 (Image source: [Details](/en/licenses#lekt4403))
+::::
 :::
 **⟪शी⟫** 2Ā ⟪शेते⟫ : to lie. This root has in all forms of the present stem **Strong Grade:** 1.sg.Ind.Pres.Ā ***⟪शेये⟫*** (śe + e). The following forms are particularly noteworthy: 3.pl.Ind.Pres.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
 
-:::indent
+::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
 Fut. ⟪शयिष्यते⟫  
 Caus. ⟪शापयति⟫  
@@ -246,14 +252,15 @@ Inf. ⟪शयितुम्⟫
 therefrom:
 
 **⟪शयन⟫** n.: couch, bed
-::::::media
+:::: media
 ![](/images/lekt4404.webp)
 Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Image source: [Details](/en/licenses#lekt4404))
+::::
 :::
 ⟪नन्द्⟫ 1P ⟪नन्दति⟫ : to rejoice in (⟪तृतीयया⟫)
 
-:::indent
+::: indent
 Perf. I ⟪ननन्द⟫  
 Fut. ⟪नन्दिष्यति⟫  
 Pass.: ⟪नन्द्यते⟫  
@@ -266,16 +273,17 @@ Gerundive ⟪नन्द्य⟫
 therefrom:
 
 **⟪नन्दिन्⟫** 3: characterized by (special) joy, joyful; m. name of the mount (⟪वहन⟫) of the ⟪शिव⟫ (a bull)
-::::::media
+:::: media
 ![](/images/lekt4405.webp)
 Fig.: ⟪नन्दी⟫
 (Image source: [Details](/en/licenses#lekt4405))
+::::
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : to take pleasure in (⟪द्वितीयया⟫), to greet someone joyfully, to welcome
 
 **⟪यम्⟫** 1P ***⟪यच्छति⟫*** : to hold, to carry; to offer, to grant; to hold together, to restrain, to bridle, to conquer
 
-:::indent
+::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
@@ -286,12 +294,13 @@ Absol. -⟪यम्य⟫
 :::
 **⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : to extend, to stretch out
 
-:::indent
+::: indent
 PPP ⟪आयत⟫ 3: long stretched out
-::::::media
+:::: media
 ![](/images/lekt4406.webp)
 Fig.: ⟪आयतो⟫ ⟪मरुः⟫
 (Image source: [Details](/en/licenses#lekt4406))
+::::
 :::
 ⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : to offer, to present, to hand over
 
@@ -299,7 +308,7 @@ Fig.: ⟪आयतो⟫ ⟪मरुः⟫
 
 ⟪यत्⟫ 1Ā ⟪यतते⟫ : to strive for (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
-:::indent
+::: indent
 Perf. Vb ⟪येते⟫  
 Fut. ⟪यतिष्यते⟫  
 Pass. ⟪यत्यते⟫  
@@ -310,14 +319,15 @@ Inf. ⟪यतितुम्⟫
 therefrom:
 
 **⟪यत्न⟫** m.: effort, exertion
-::::::media
+:::: media
 ![](/images/lekt4407.webp)
 Fig.: ⟪यत्नेन⟫
 (Image source: [Details](/en/licenses#lekt4407))
+::::
 :::
 **⟪रभ्⟫** 1Ā ⟪रभते⟫ (variant form to ⟪लभ्⟫): to grasp
 
-:::indent
+::: indent
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
@@ -330,15 +340,16 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (to ⟪प्र⟫-⟪व्रज्⟫): the going out from home into homelessness; ceremony with which one becomes a Buddhist novice (Pali: ⟪पब्बजा⟫)
 
-:::deleteme-box
+::: deleteme-box
 See:
 
-**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \<1944 - \>:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
-::::::media
+:::: media
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Image source: [Details](/en/licenses#lekt4408))
+::::
 :::
 ## 44.6. Exercise
 
@@ -397,7 +408,7 @@ A) Identify and translate the following forms:
 51.  ⟪हथ⟫
 52.  ⟪हतः⟫
 
-:::media
+::: media
 ![](/images/lekt4409.webp)
 Fig.: ⟪कस्माद्रोदिषि⟫
 (Image source: [Details](/en/licenses#lekt4409))
@@ -467,7 +478,7 @@ Determine the following forms:
 40.  ⟪कृत्येन⟫
 
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt4301.jpg**: Details in licenses.md
 

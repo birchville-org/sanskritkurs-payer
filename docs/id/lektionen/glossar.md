@@ -2,11 +2,11 @@
 outline: 2
 ---
 
-:::deleteme-box
+::: deleteme-box
 **Quelle & Urheberrecht**
 
 :::
-# Glossary Sanskrit–English
+# Glosarium Sanskerta–Indonesia
 
 *Compiled from the word lists of Alois Payer's Sanskrit course.*
 
@@ -14,7 +14,7 @@ outline: 2
 
 ## ⟪अ⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪अखिल⟫ | [akhila](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=akhila&filter=roman&accent=no&transLit=roman) | 3 | seamless, whole | [52](/en/lektionen/lektion52#_52-7-word-list) |
 | ⟪अगार⟫ | [agāra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=agāra&filter=roman&accent=no&transLit=roman) | n | ⟪।⟫ ⟪आगार⟫ n.: house, home | [36](/en/lektionen/lektion36#_36-4-word-list) |
@@ -66,7 +66,7 @@ outline: 2
 
 ## ⟪आ⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪आख्यान⟫ | [ākhyāna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ākhyāna&filter=roman&accent=no&transLit=roman) | n | narration | [24](/en/lektionen/lektion24#_24-4-word-list) |
 | ⟪आजीव⟫ | [ājīva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ājīva&filter=roman&accent=no&transLit=roman) | m | livelihood | [16](/en/lektionen/lektion16#_16-2-word-list) |
@@ -92,7 +92,7 @@ outline: 2
 
 ## ⟪इ⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪इति⟫ | [iti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iti&filter=roman&accent=no&transLit=roman) | — | thus | [11](/en/lektionen/lektion11#_11-2-word-list) |
 | ⟪इत्थम्⟫ | [ittham](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ittham&filter=roman&accent=no&transLit=roman) | Adv | in this way, so | [43](/en/lektionen/lektion43#_43-4-word-list) |
@@ -104,13 +104,13 @@ outline: 2
 
 ## ⟪ई⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪ईश्वर⟫ | [īśvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=īśvara&filter=roman&accent=no&transLit=roman) | m | Lord, ruler, god (monotheistic) | [2](/en/lektionen/lektion02#_2-5-word-list) |
 
 ## ⟪उ⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪उत्तम⟫ | [uttama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=uttama&filter=roman&accent=no&transLit=roman) | 3 | highest, best | [43](/en/lektionen/lektion43#_43-4-word-list) |
 | ⟪उत्साद⟫ | [utsāda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=utsāda&filter=roman&accent=no&transLit=roman) | m | destruction | [51](/en/lektionen/lektion51#_51-6-word-list) |
@@ -122,21 +122,21 @@ outline: 2
 
 ## ⟪ऊ⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪ऊह⟫ | [ūha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ūha&filter=roman&accent=no&transLit=roman) | m | consideration, argumentation | [24](/en/lektionen/lektion24#_24-4-word-list) |
 | ⟪ऊहापोह⟫ | [ūhāpoha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ūhāpoha&filter=roman&accent=no&transLit=roman) | m | discussion of the pros and cons | [24](/en/lektionen/lektion24#_24-4-word-list) |
 
 ## ⟪ऋ⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪ऋतु⟫ | [ṛtu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛtu&filter=roman&accent=no&transLit=roman) | m | periodic event, season, time period, menstruation, time during which the woman is fertile and has a right to intercourse | [51](/en/lektionen/lektion51#_51-6-word-list) |
 | ⟪ऋषि⟫ | [ṛṣi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛṣi&filter=roman&accent=no&transLit=roman) | m | Vedic sage, author of Vedic hymns | [10](/en/lektionen/lektion10#_10-5-word-list) |
 
 ## ⟪ए⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | Adv | in one place | [51](/en/lektionen/lektion51#_51-6-word-list) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | emphasizes the preceding word | [13](/en/lektionen/lektion13#_13-9-word-list) |
@@ -144,19 +144,19 @@ outline: 2
 
 ## ⟪ओ⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪ओष्ठ⟫ | [oṣṭha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=oṣṭha&filter=roman&accent=no&transLit=roman) | m | lip | [20](/en/lektionen/lektion20#_20-9-word-list) |
 
 ## ⟪औ⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪औपकारिक⟫ | [aupakārika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aupakārika&filter=roman&accent=no&transLit=roman) | 3 | f.: -⟪ई⟫ : useful | [24](/en/lektionen/lektion24#_24-4-word-list) |
 
 ## ⟪क⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪कदली⟫ | [kadalī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kadalī&filter=roman&accent=no&transLit=roman) | f | banana tree (_Musa_ sp.) | [52](/en/lektionen/lektion52#_52-7-word-list) |
 | ⟪कन्या⟫ | [kanyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kanyā&filter=roman&accent=no&transLit=roman) | f | young girl, daughter, maiden | [41](/en/lektionen/lektion41#_41-3-word-list) |
@@ -205,14 +205,14 @@ outline: 2
 
 ## ⟪ख⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪खाद्⟫ ⟪खादति⟫ | [khād](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=khād&filter=roman&accent=no&transLit=roman) | 1 P (khādati) | to chew, to eat | [7](/en/lektionen/lektion07#_7-6-word-list) |
 | ⟪खिल⟫ | [khila](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=khila&filter=roman&accent=no&transLit=roman) | m | fallow field, wasteland | [52](/en/lektionen/lektion52#_52-7-word-list) |
 
 ## ⟪ग⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪गज⟫ | [gaja](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gaja&filter=roman&accent=no&transLit=roman) | m | elephant | [8](/en/lektionen/lektion08#_8-5-word-list) |
 | ⟪गम्⟫ ⟪गच्छति⟫ | [gam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gam&filter=roman&accent=no&transLit=roman) | 1 P (gacchati) | to go (According to the indigenous verb classification, it belongs to Present Class 1, but in reality it is a formation  | [7](/en/lektionen/lektion07#_7-6-word-list) |
@@ -229,13 +229,13 @@ outline: 2
 
 ## ⟪घ⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪घात⟫ | [ghāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghāta&filter=roman&accent=no&transLit=roman) | m | killing, slaughter | [17](/en/lektionen/lektion17#_17-6-word-list) |
 
 ## ⟪च⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪चक्र⟫ | [cakra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cakra&filter=roman&accent=no&transLit=roman) | n | wheel | [52](/en/lektionen/lektion52#_52-7-word-list) |
 | ⟪चरित्र⟫ | [caritra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=caritra&filter=roman&accent=no&transLit=roman) | n | custom, habit, customary law; conduct | [48](/en/lektionen/lektion48#_48-4-word-list) |
@@ -246,13 +246,13 @@ outline: 2
 
 ## ⟪छ⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪छन्न⟫ | [channa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=channa&filter=roman&accent=no&transLit=roman) | n | blanket, hiding place | [49](/en/lektionen/lektion49#_49-4-word-list) |
 
 ## ⟪ज⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪जटा⟫ | [jaṭā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jaṭā&filter=roman&accent=no&transLit=roman) | f | hair plait (ascetic hairstyle) | [51](/en/lektionen/lektion51#_51-6-word-list) |
 | ⟪जन्मन्⟫ | [janman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=janman&filter=roman&accent=no&transLit=roman) | n | birth | [43](/en/lektionen/lektion43#_43-4-word-list) |
@@ -266,7 +266,7 @@ outline: 2
 
 ## ⟪त⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪तत्त्व⟫ | [tattva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tattva&filter=roman&accent=no&transLit=roman) | n | true nature, truth, reality (⟪तद्⟫ + ⟪त्व⟫ = this-ness) | [24](/en/lektionen/lektion24#_24-4-word-list) |
 | ⟪तन्⟫ ⟪तनोति⟫ | [tan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tan&filter=roman&accent=no&transLit=roman) | 8 U (tanoti) | to extend | [8](/en/lektionen/lektion08#_8-5-word-list) |
@@ -288,7 +288,7 @@ outline: 2
 
 ## ⟪द⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪दण्ड⟫ | [daṇḍa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daṇḍa&filter=roman&accent=no&transLit=roman) | m | stick, cudgel, punishment | [18](/en/lektionen/lektion18#_18-4-word-list) |
 | ⟪दण्डनीति⟫ | [daṇḍanīti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daṇḍanīti&filter=roman&accent=no&transLit=roman) | f | politics (a Tatpuruṣa compound from daṇḍa m. = "stick, power, rule, punishment" and nīti f. = "right guidance") | [5](/en/lektionen/lektion05#_5-4-word-list) |
@@ -318,7 +318,7 @@ outline: 2
 
 ## ⟪ध⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | ("that which holds firm", i.e.) right, law, custom, character | [11](/en/lektionen/lektion11#_11-2-word-list) |
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | that which is firm and holds firm = Dharma | [25](/en/lektionen/lektion25#_25-5-word-list) |
@@ -329,7 +329,7 @@ outline: 2
 
 ## ⟪न⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪नगर⟫ | [nagara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nagara&filter=roman&accent=no&transLit=roman) | n | city | [10](/en/lektionen/lektion10#_10-5-word-list) |
 | ⟪ननान्दृ⟫ | [nanāndṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=nanāndṛ&filter=roman&accent=no&transLit=roman) | f | Sister of the husband | [42](/en/lektionen/lektion42#_42-2-word-list) |
@@ -356,7 +356,7 @@ outline: 2
 
 ## ⟪प⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪पञ्जर⟫ | [pañjara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pañjara&filter=roman&accent=no&transLit=roman) | n | cage | [49](/en/lektionen/lektion49#_49-4-word-list) |
 | ⟪पण्डित⟫ | [paṇḍita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paṇḍita&filter=roman&accent=no&transLit=roman) | 3 | clever, wise, learned | [50](/en/lektionen/lektion50#_50-2-word-list) |
@@ -415,13 +415,13 @@ outline: 2
 
 ## ⟪फ⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪फल⟫ | [phala](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=phala&filter=roman&accent=no&transLit=roman) | n | fruit (also in a figurative sense: (karmic) fruit of an action) | [7](/en/lektionen/lektion07#_7-6-word-list) |
 
 ## ⟪ब⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪बन्दी⟫ | [bandī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bandī&filter=roman&accent=no&transLit=roman) | f | captive, plunder | [51](/en/lektionen/lektion51#_51-6-word-list) |
 | ⟪बलि⟫ | [bali](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bali&filter=roman&accent=no&transLit=roman) | m | payment, donation, tribute | [51](/en/lektionen/lektion51#_51-6-word-list) |
@@ -436,7 +436,7 @@ outline: 2
 
 ## ⟪भ⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪भज्⟫ | ⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫ | (actually a desiderative form of | to wish that one participates): to beg | [21](/en/lektionen/lektion21#_21-4-word-list) |
 | ⟪भद्र⟫ | [bhadra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhadra&filter=roman&accent=no&transLit=roman) | 3 | good, happy; vocative: my dear! | [43](/en/lektionen/lektion43#_43-4-word-list) |
@@ -453,7 +453,7 @@ outline: 2
 
 ## ⟪म⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪मणि⟫ | [maṇi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=maṇi&filter=roman&accent=no&transLit=roman) | m | jewel | [51](/en/lektionen/lektion51#_51-6-word-list) |
 | ⟪मत्स्य⟫ | [matsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=matsya&filter=roman&accent=no&transLit=roman) | m | fish | [29](/en/lektionen/lektion29#_29-2-word-list) |
@@ -497,7 +497,7 @@ outline: 2
 
 ## ⟪य⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪यज्⟫ ⟪यजति⟫ | [yaj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yaj&filter=roman&accent=no&transLit=roman) | 1 U (yajati) | to honor with a sacrifice, to sacrifice | [6](/en/lektionen/lektion06#_6-7-word-list) |
 | ⟪यज्ञ⟫ | [yajña](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yajña&filter=roman&accent=no&transLit=roman) | m | sacrifice | [10](/en/lektionen/lektion10#_10-5-word-list) |
@@ -512,7 +512,7 @@ outline: 2
 
 ## ⟪र⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪रक्ष्⟫ ⟪रक्षति⟫ | [rakṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rakṣ&filter=roman&accent=no&transLit=roman) | 1 P (rakṣati) | to guard | [8](/en/lektionen/lektion08#_8-5-word-list) |
 | ⟪रहस्⟫ | [rahas](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rahas&filter=roman&accent=no&transLit=roman) | n | secret, solitude | [50](/en/lektionen/lektion50#_50-2-word-list) |
@@ -528,7 +528,7 @@ outline: 2
 
 ## ⟪ल⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪लक्षण⟫ | [lakṣaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lakṣaṇa&filter=roman&accent=no&transLit=roman) | n | feature, characteristic, attribute | [20](/en/lektionen/lektion20#_20-9-word-list) |
 | ⟪लघु⟫ | [laghu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=laghu&filter=roman&accent=no&transLit=roman) | 3 | easy (not hard, not difficult), fast, short (in expression) | [48](/en/lektionen/lektion48#_48-4-word-list) |
@@ -541,7 +541,7 @@ outline: 2
 
 ## ⟪व⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪वञ्चक⟫ | [vañcaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vañcaka&filter=roman&accent=no&transLit=roman) | m | fraudster | [43](/en/lektionen/lektion43#_43-4-word-list) |
 | ⟪वणिज्⟫ | [vaṇij](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaṇij&filter=roman&accent=no&transLit=roman) | m | merchant | [43](/en/lektionen/lektion43#_43-4-word-list) |
@@ -599,7 +599,7 @@ outline: 2
 
 ## ⟪श⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪शकुनि⟫ | [śakuni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śakuni&filter=roman&accent=no&transLit=roman) | m | bird | [51](/en/lektionen/lektion51#_51-6-word-list) |
 | ⟪शब्द⟫ | [śabda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śabda&filter=roman&accent=no&transLit=roman) | m | sound, tone, signal sound: word | [18](/en/lektionen/lektion18#_18-4-word-list) |
@@ -636,7 +636,7 @@ outline: 2
 
 ## ⟪स⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪संख्या⟫ | [saṃkhyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṃkhyā&filter=roman&accent=no&transLit=roman) | f | counting, enumeration; ⟪सांख्य⟫ n.: one of the six philosophical systems (short: Basham, Wonder p. 326f.) | [24](/en/lektionen/lektion24#_24-4-word-list) |
 | ⟪संपुट⟫ | [saṃpuṭa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṃpuṭa&filter=roman&accent=no&transLit=roman) | m | box (here: package, bundle) | [43](/en/lektionen/lektion43#_43-4-word-list) |
@@ -699,7 +699,7 @@ outline: 2
 
 ## ⟪ह⟫
 
-| Sanskrit | IAST | Genus | English | Lesson |
+| Sanskrit | IAST | Genus | Indonesia | Lesson |
 |---|---|---|---|---|
 | ⟪हर्ष⟫ | [harṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harṣa&filter=roman&accent=no&transLit=roman) | m | (raising of the body hair), joy | [25](/en/lektionen/lektion25#_25-5-word-list) |
 | ⟪हस्त⟫ | [hasta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hasta&filter=roman&accent=no&transLit=roman) | m | hand | [18](/en/lektionen/lektion18#_18-4-word-list) |

@@ -1,297 +1,303 @@
 ---
-title: Lektion 34
+title: 第34课
 lesson_id: 34
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 34
 
 ## 34.1. Das Perfekt (⟪लिट्⟫)
 
-Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ und Partizip. <!-- TODO: Fallback translation -->
+在古典梵语中，完成时词干仅有直陈式和分词两种形式。
 
-:::grammar-box
-**Es gibt zwei Arten der Perfektbildung:** <!-- TODO: Fallback translation -->
-*   **das reduplizierte Perfekt = ⟪द्वित्वलिट्⟫** <!-- TODO: Fallback translation -->
-*   **das periphrastische Perfekt = ⟪अनुप्रयोगलिट्⟫** <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Das periphrastische Perfekt (⟪अनुप्रयोगलिट्⟫) wird gebraucht:** <!-- TODO: Fallback translation -->
-1. **bei den abgeleiteten Konjugationen (Kausativ, Desiderativ, Frequentativ, Denominativa)** <!-- TODO: Fallback translation -->
-2. **bei Wurzeln, die mit einem langen Vokal (außer ā-) beginnen, bzw. mit einem Vokal (außer a-) vor zwei Konsonanten** <!-- TODO: Fallback translation -->
-3. **bei einigen sonstigen Wurzeln** <!-- TODO: Fallback translation -->
+::: grammar-box
+**存在两种完成时构成方式：**
+*   **重叠式完成时 = ⟪द्वित्वलिट्⟫**
+*   **迂回式完成时 = ⟪अनुप्रयोगलिट्⟫**
 :::
-## 34.2. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
+::: grammar-box
+**迂回式完成时（⟪अनुप्रयोगलिट्⟫）用于：**
+1. **派生变位（使役、欲求、频繁、依名动词）**
+2. **以长元音（除 ā- 外）开头，或以元音（除 a- 外）后接两个辅音的词根**
+3. **以及其他一些词根**
+:::
+## 34.2. 重叠式完成时（⟪द्वित्वलिट्⟫）
 
 ### 34.2.1. Stammabstufung
 
-:::grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**教育：**
 
-**starker Stamm:** Singular Parasmaipada <!-- TODO: Fallback translation -->
-*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung** <!-- TODO: Fallback translation -->
+**starker Stamm:** Singular Parasmaipada
+*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung**
 
-**schwacher Stamm:** alle übrigen Formen <!-- TODO: Fallback translation -->
-*   **reduplizierte tiefstufige Wurzel + Perfektendung** <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Generell (auch außerhalb des Perfekt) keine Stammabstufung haben Wurzeln der Form:** <!-- TODO: Fallback translation -->
-*   **(Konsonant)-Konsonant-Langvokal-Konsonant** <!-- TODO: Fallback translation -->
-*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant** <!-- TODO: Fallback translation -->
+**schwacher Stamm:** alle übrigen Formen
+*   **reduplizierte tiefstufige Wurzel + Perfektendung**
+:::
+::: grammar-box
+**Generell (auch außerhalb des Perfekt) keine Stammabstufung haben Wurzeln der Form:**
+*   **(Konsonant)-Konsonant-Langvokal-Konsonant**
+*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
 
-**Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:** <!-- TODO: Fallback translation -->
-*   **a-Konsonant** <!-- TODO: Fallback translation -->
-*   **ā-Konsonant** <!-- TODO: Fallback translation -->
+**Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:**
+*   **a-Konsonant**
+*   **ā-Konsonant**
 :::
 ### 34.2.2. Die Perfektendungen
 
-::::grammar-box
+::: grammar-box
 
-| | 3. Singular | 3. Plural | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Parasmaipada** | **-a** | **-ur** | <!-- TODO: Fallback translation -->
-| **Ātmanepada** | **-e** | **-re** | <!-- TODO: Fallback translation -->
+| | 3. 单数 | 3. 复数 |
+| :--- | :--- | :--- |
+| **Parasmaipada** | **-a** | **-ur** |
+| **Ātmanepada** | **-e** | **-re** |
 
 :::
 ### 34.2.3. Bindevokal -i-
 
-:::grammar-box
-**Vor die Endung der 3.pl.Ā (-re) tritt immer der Bindevokal -i-, vor die anderen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**在第三人称复数词尾 -re 之前，总是插入连接元音 -i-；在其他以辅音开头的词尾之前，对于大多数词根也是如此。**
 :::
-### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
+### 34.2.4. 以辅音开头的词根的叠音
 
-:::grammar-box
-**Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**对于词首辅音的重叠，适用[第33课](lektion33.md)中给出的规则。**
 
-**Reduplikationsvokal bei konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.** <!-- TODO: Fallback translation -->
+**辅音开头的词根，其重叠元音为短元根元音。**
 
-**Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.** <!-- TODO: Fallback translation -->
+**双元音在辅音前会缩减为相应的短低阶元音。**
 
-**ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.** <!-- TODO: Fallback translation -->
+**ṛ, ṝ, ḷ 以及词尾双元音通过 -a- 进行重音复辅音化。**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-::::grammar-box
+::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪भिद्⟫ | ***⟪बि⟫***⟪भेद⟫ | <!-- TODO: Fallback translation -->
-| ⟪मुच्⟫ | ***⟪मु⟫***⟪मोच⟫ | <!-- TODO: Fallback translation -->
-| ⟪भृ⟫ | ***⟪ब⟫***⟪भार⟫ | <!-- TODO: Fallback translation -->
-
-::::::grammar-box
-**Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".** <!-- TODO: Fallback translation -->
-:::
-Beispiele: <!-- TODO: Fallback translation -->
-
-::::grammar-box
-
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur | <!-- TODO: Fallback translation -->
-| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur | <!-- TODO: Fallback translation -->
+| 词根 | 第三人称单数完成时中动语态 |
+| :--- | :--- |
+| ⟪भिद्⟫ | ***⟪बि⟫***⟪भेद⟫ |
+| ⟪मुच्⟫ | ***⟪मु⟫***⟪मोच⟫ |
+| ⟪भृ⟫ | ***⟪ब⟫***⟪भार⟫ |
 
 :::
-### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
-
-:::grammar-box
-**1. anlautendes a-, ā- wird mit a- redupliziert, sodass ā- erscheint.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**一些以 y 或 v 开头的词根，其重叠形式使用 i 或 u，该元音在弱式中与词根元音“融合”。**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+例如：
 
-::::grammar-box
+::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | <!-- TODO: Fallback translation -->
+| 词根 | 第三人称单数完成时中动语态 | 第三人称复数完成时中动语态 |
+| :--- | :--- | :--- |
+| ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
+| ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
-::::::grammar-box
-**2. Wurzeln mit anlautendem i- haben als Reduplikationssilbe im starken Stamm iy-, im schwachen Stamm i-, das mit dem Wurzelvokal zu ī- "verschmilzt. Analoges gilt für anlautendes u-.** <!-- TODO: Fallback translation -->
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+### 34.2.5. 元音起始词根的叠音
 
-::::grammar-box
-
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur | <!-- TODO: Fallback translation -->
-| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur | <!-- TODO: Fallback translation -->
-
-::::::grammar-box
-**3. Wurzeln die mit a- vor zwei Konsonanten oder mit ṛ- anlauten, haben als Reduplikationssilbe ān-** <!-- TODO: Fallback translation -->
+::: grammar-box
+**1. 词首的 a-、ā- 通过 a- 进行重音化，从而出现 ā-。**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-::::grammar-box
+::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ | <!-- TODO: Fallback translation -->
-| ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ | <!-- TODO: Fallback translation -->
+| 词根 | 第三人称单数完成时中动语态 |
+| :--- | :--- |
+| ⟪अस्⟫ 2 “存在” 和 ⟪अस्⟫ 4 “投掷” | ⟪आस⟩:bra + as-a |
+
+:::
+::: grammar-box
+**2. 以 i- 开头的词根，其强干重叠音节为 iy-，弱干为 i-，后者与词根元音“融合”为 ī-。以 u- 开头的情况同理。**
+:::
+例如：
+
+::: grammar-box
+
+| 词根 | 第三人称单数完成时中动语态 | 第三人称复数完成时中动语态 |
+| :--- | :--- | :--- |
+| ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
+| ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
+
+:::
+::: grammar-box
+**3. 以 a- 开头并在两个辅音前，或以 ṛ- 开头的词根，其重叠音节为 ān-**
+:::
+例如：
+
+::: grammar-box
+
+| 词根 | 第三人称单数完成时被动 | 第三人称复数完成时被动 |
+| :--- | :--- | :--- |
+| ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
+| ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
 :::
 ## 34.3. Typen des reduplizierten Perfekts
 
-Einteilungsprinzip: Besonderheiten der Stammabstufung: <!-- TODO: Fallback translation -->
-*   Perfekt ohne Stammabstufung: Typ I <!-- TODO: Fallback translation -->
-*   Perfekt mit Stammabstufung: Typ II - V <!-- TODO: Fallback translation -->
-*   unregelmäßige Perfektbildungen <!-- TODO: Fallback translation -->
+Einteilungsprinzip: Besonderheiten der Stammabstufung:
+*   Perfekt ohne Stammabstufung: Typ I
+*   Perfekt mit Stammabstufung: Typ II - V
+*   unregelmäßige Perfektbildungen
 
-## 34.4. Perfekt Typ I: Perfekt ohne Stammabstufung
+## 34.4. 第一类完成时：无词干变格的完成时
 
-:::grammar-box
-**Perfekt Typ I (ohne Stammabstufung) haben Wurzeln der Typen:** <!-- TODO: Fallback translation -->
-*   **(Konsonant)-Konsonant-Langvokal-Konsonant** <!-- TODO: Fallback translation -->
-*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant** <!-- TODO: Fallback translation -->
-*   **a-Konsonant** <!-- TODO: Fallback translation -->
-*   **ā-Konsonant** <!-- TODO: Fallback translation -->
+::: grammar-box
+**完成时类型 I（无词干交替）包含以下类型的词根：**
+*   **（辅音）-辅音-长元音-辅音**
+*   **（辅音）-辅音-元音-辅音-辅音**
+*   **a-辅音**
+*   **ā-辅音**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-::::grammar-box
+::: grammar-box
 
-| Wurzel | 3. sg. Perf. | 3. pl. Perf. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ | <!-- TODO: Fallback translation -->
-| ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ | <!-- TODO: Fallback translation -->
-| ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ | <!-- TODO: Fallback translation -->
-| ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ | <!-- TODO: Fallback translation -->
-| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmäßige Reduplikation! | ⟪आनशिरे⟫ | <!-- TODO: Fallback translation -->
+| 词根 | 第三人称单数完成时 | 第三人称复数完成时 |
+| :--- | :--- | :--- |
+| ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ |
+| ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
+| ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
+| ⟪अस्⟫ 2P “存在”：br⟪अस्⟫ 4 “投掷” | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmäßige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
-## 34.5. Perfekt Typ II: Starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+## 34.5. Perfekt Typ II: Starker Stamm in Hochstufe, schwacher Stamm in Tiefstufe
 
-:::grammar-box
-**Wird gebildet von Wurzeln der Form:** <!-- TODO: Fallback translation -->
-*   **(Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant** <!-- TODO: Fallback translation -->
+::: grammar-box
+**由以下形式的词根构成：**
+*   **(辅音)-(辅音)-i/u/ṛ/ḷ-辅音**
 
-**Bildung:** <!-- TODO: Fallback translation -->
-*   **starker Stamm: Hochstufe** <!-- TODO: Fallback translation -->
-*   **schwacher Stamm: Tiefstufe** <!-- TODO: Fallback translation -->
+**Bildung:**
+*   **starker Stamm: Hochstufe**
+*   **schwacher Stamm: Tiefstufe**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
-::::grammar-box
+::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪भिद्⟫ | ⟪बिभेद⟫ | ⟪बिभिदुर्⟫ | ⟪बिभिदे⟫ | ⟪बिभिदिरे⟫ | <!-- TODO: Fallback translation -->
-| ⟪इष्⟫ | ⟪इयेष⟫ | ⟪ईषुर्⟫ | | | <!-- TODO: Fallback translation -->
-| ⟪मुच्⟫ | ⟪मुमोच⟫ | ⟪मुमुचुर्⟫ | ⟪मुमुचे⟫ | ⟪मुमुचिरे⟫ | <!-- TODO: Fallback translation -->
-| ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ | <!-- TODO: Fallback translation -->
-| ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ | <!-- TODO: Fallback translation -->
+| 词根 | 第三人称单数完成时主动态 | 第三人称复数完成时主动态 | 第三人称单数完成时中动态 | 第三人称复数完成时中动态 |
+| :--- | :--- | :--- | :--- | :--- |
+| ⟪भिद्⟫ | ⟪बिभेद⟫ | ⟪बिभिदुर्⟫ | ⟪बिभिदे⟫ | ⟪बिभिदिरे⟫ |
+| ⟪इष्⟫ | ⟪इयेष⟫ | ⟪ईषुर्⟫ | | |
+| ⟪मुच्⟫ | ⟪मुमोच⟫ | ⟪मुमुचुर्⟫ | ⟪मुमुचे⟫ | ⟪मुमुचिरे⟫ |
+| ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ |
+| ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
 :::
 ## 34.6. Wortliste
 
-**⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫** <!-- TODO: Fallback translation -->
+**⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
-**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** Saat, Feldfrucht, Getreide <!-- TODO: Fallback translation -->
+**⟪शस्य⟫ = ⟪सस्य⟫ n. sg. u. pl.:** 种子，田产，谷物
 
-:::media
+::: media
 ![](/images/lekt3406.webp)
-Abb.: ⟪सस्यम्⟫
-Rice field in India.
-(Bildquelle: [Details](/licenses#lekt3406)) <!-- TODO: Fallback translation -->
+图：⟪सस्यम्⟫
+印度的稻田。
+（图片来源：[详情](/zh-CN/licenses#lekt3406)）
 :::
-**⟪यावत्⟫ :** wie lange, wie groß <!-- TODO: Fallback translation -->
+**⟪यावत्⟫**：多久，多大
 
-**⟪तावत्⟫ :** so lange, so groß <!-- TODO: Fallback translation -->
+**⟪तावत्⟫**：如此之久，如此之大
 
-**⟪उत्तम⟫ 3:** höchster <!-- TODO: Fallback translation -->
+**⟪उत्तम⟫ 3：** 最高
 
-**⟪द्वीप⟫ m.n.:** Insel, Kontinent <!-- TODO: Fallback translation -->
+**⟪द्वीप⟫ m.n.:** 岛屿，大陆
 
-:::media
+::: media
 ![](/images/lekt3405.webp)
-Abb.: ⟪लक्षद्वीपाः⟫
-Lakshadweep Islands Map.
-(Bildquelle: [Details](/licenses#lekt3405)) <!-- TODO: Fallback translation -->
+图：⟪लक्षद्वीपाः⟫
+拉克沙迪普群岛地图。
+（图片来源：[详情](/zh-CN/licenses#lekt3405)）
 :::
-**⟪मर्त्य⟫ 3:** sterblich (zu **⟪मृ⟫**) <!-- TODO: Fallback translation -->
+**⟪मर्त्य⟫ 3：** 有死的（源自**⟪मृ⟫**）
 
-**⟪तिल⟫ m.:** Sesam(korn) (*Sesamum indicum* L.) <!-- TODO: Fallback translation -->
+**⟪तिल⟫ m.:** 芝麻（芝麻 *Sesamum indicum* L.）
 
-:::media
+::: media
 ![](/images/lekt3403.webp)
-Abb.: ⟪तिलाः⟫
-Sesame seeds.
-(Bildquelle: [Details](/licenses#lekt3403)) <!-- TODO: Fallback translation -->
-::::::media
+图：⟪तिलाः⟫
+芝麻。
+（图片来源：[详情](/zh-CN/licenses#lekt3403)）
+:::: media
 ![](/images/lekt3404.webp)
-Abb.: *Sesamum indicum* L.
-Sesame plant flowering.
-(Bildquelle: [Details](/licenses#lekt3404)) <!-- TODO: Fallback translation -->
+图：*Sesamum indicum* L.
+芝麻植株开花。
+（图片来源：[详情](/zh-CN/licenses#lekt3404)）
+::::
 :::
-**⟪स्वर्ण⟫ n.:** (schönfarbig =) Gold <!-- TODO: Fallback translation -->
+**⟪स्वर्ण⟫ n.:**（色彩美丽 =）黄金
 
-:::media
+::: media
 ![](/images/lekt3402.webp)
-Abb.: ⟪स्वर्णम्⟫
-Golden Temple (Harmandir Sahib), Amritsar.
-(Bildquelle: [Details](/licenses#lekt3402)) <!-- TODO: Fallback translation -->
+图：⟪स्वर्णम्⟫
+金庙（哈曼迪尔·萨希卜），阿姆利则。
+（图片来源：[详情](/zh-CN/licenses#lekt3402)）
 :::
-**⟪निकेतन⟫ n.:** Wohnstatt, Tempel <!-- TODO: Fallback translation -->
+**⟪निकेतन⟫ n.：**住所，寺庙
 
-**⟪कोटि⟫ f.:** Spitze; 10 Millionen <!-- TODO: Fallback translation -->
+**⟪कोटि⟫ f.:** 尖端；1000万
 
-**⟪श्रेष्ठ⟫ 3:** bester <!-- TODO: Fallback translation -->
+**⟪श्रेष्ठ⟫ 3:** 最好的
 
-**⟪तल⟫ m.n.:** Ebene, Fläche <!-- TODO: Fallback translation -->
+**⟪तल⟫ m.n.:** 平面，区域
 
-**⟪ऋषभ⟫ m.:** Stier <!-- TODO: Fallback translation -->
+**⟪ऋषभ⟫ m.：** 公牛
 
-:::media
+::: media
 ![](/images/lekt3401.webp)
-Abb.: ⟪ऋषभः⟫
-Nandi Bull statue, Chamundi Hills, Mysore.
-(Bildquelle: [Details](/licenses#lekt3401)) <!-- TODO: Fallback translation -->
+图：⟪ऋषभः⟫
+南迪公牛雕像，昌迪山，迈索尔。
+（图片来源：[详情](/zh-CN/licenses#lekt3401)）
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** zurückhalten, halten, darbieten, gewähren <!-- TODO: Fallback translation -->
+**⟪यम्⟫ 1P ⟪यच्छति⟫ ：克制，持有，提供，赐予**
 
-**⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** hinhalten, anbieten, abliefern <!-- TODO: Fallback translation -->
+**⟪यम्⟫ + ⟪प्र⟫ 第一人称单数 प्रयच्छति⟫ ：呈上，提供，交付
 
-**⟪या⟫ 2P ⟪याति⟫ :** gehen, fahren <!-- TODO: Fallback translation -->
+**⟪या⟫ 2P ⟪याति⟫ ：走，行驶**
 
-**⟪कन्या⟫ f.:** Mädchen, Jungfrau <!-- TODO: Fallback translation -->
+**⟪कन्या⟫ f.:** 女孩，处女
 
 ## 34.7. Übung
 
-Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden Perfektformen: <!-- TODO: Fallback translation -->
+Bildet die Perfektformen, die in Person, Zahl und Genus den folgenden Verbformen entsprechen:
 
-1. ⟪रक्षिष्यन्ति⟫ <!-- TODO: Fallback translation -->
-2. ⟪स्रक्ष्यति⟫ <!-- TODO: Fallback translation -->
-3. ⟪सिञ्चते⟫ <!-- TODO: Fallback translation -->
-4. ⟪वर्तते⟫ <!-- TODO: Fallback translation -->
-5. ⟪प्रवेक्ष्यति⟫ <!-- TODO: Fallback translation -->
-6. ⟪भनक्ति⟫ <!-- TODO: Fallback translation -->
-7. ⟪लुभ्यन्ति⟫ <!-- TODO: Fallback translation -->
-8. ⟪रुन्धते⟫ <!-- TODO: Fallback translation -->
-9. ⟪रोदित⟫i -&gt; ⟪रोदिति⟫ <!-- TODO: Fallback translation -->
-10. ⟪बध्नाति⟫ <!-- TODO: Fallback translation -->
-11. ⟪युध्यन्ते⟫ <!-- TODO: Fallback translation -->
-12. ⟪युङ्क्ते⟫ <!-- TODO: Fallback translation -->
-13. ⟪मुह्यन्ति⟫ <!-- TODO: Fallback translation -->
-14. ⟪मुञ्चते⟫ <!-- TODO: Fallback translation -->
-15. ⟪जीवन्ति⟫ <!-- TODO: Fallback translation -->
-16. ⟪भोक्ष्यते⟫ <!-- TODO: Fallback translation -->
-17. ⟪आप्नुवन्ति⟫ <!-- TODO: Fallback translation -->
-18. ⟪भिन्त्ते⟫ <!-- TODO: Fallback translation -->
-19. ⟪भोत्स्यन्ते⟫ <!-- TODO: Fallback translation -->
-20. ⟪नर्तिष्यति⟫ <!-- TODO: Fallback translation -->
-21. ⟪अश्नाति⟫ <!-- TODO: Fallback translation -->
-22. ⟪द्वेष्टि⟫ <!-- TODO: Fallback translation -->
-23. ⟪पश्यन्ति⟫ <!-- TODO: Fallback translation -->
-24. ⟪दुग्धे⟫ <!-- TODO: Fallback translation -->
-25. ⟪सन्ति⟫ <!-- TODO: Fallback translation -->
-26. ⟪आदेक्ष्यन्ति⟫ <!-- TODO: Fallback translation -->
-27. ⟪छिनत्ति⟫ <!-- TODO: Fallback translation -->
-28. ⟪क्रुध्यति⟫ <!-- TODO: Fallback translation -->
-29. ⟪अस्यति⟫ <!-- TODO: Fallback translation -->
-30. ⟪कुप्यन्ति⟫ <!-- TODO: Fallback translation -->
-31. ⟪इच्छन्ति⟫ <!-- TODO: Fallback translation -->
+1. ⟪रक्षिष्यन्ति⟫
+2. ⟪स्रक्ष्यति⟫
+3. ⟪सिञ्चते⟫
+4. ⟪वर्तते⟫
+5. ⟪प्रवेक्ष्यति⟫
+6. ⟪भनक्ति⟫
+7. ⟪लुभ्यन्ति⟫
+8. ⟪रुन्धते⟫
+9. ⟪रोदित⟫i → ⟪रोदिति⟫
+10. ⟪बध्नाति⟫
+11. ⟪युध्यन्ते⟫
+12. ⟪युङ्क्ते⟫
+13. ⟪मुह्यन्ति⟫
+14. ⟪मुञ्चते⟫
+15. ⟪जीवन्ति⟫
+16. ⟪भोक्ष्यते⟫
+17. ⟪आप्नुवन्ति⟫
+18. ⟪भिन्त्ते⟫
+19. ⟪भोत्स्यन्ते⟫
+20. ⟪नर्तिष्यति⟫
+21. ⟪अश्नाति⟫
+22. ⟪द्वेष्टि⟫
+23. ⟪पश्यन्ति⟫
+24. ⟪दुग्धे⟫
+25. ⟪सन्ति⟫
+26. ⟪आदेक्ष्यन्ति⟫
+27. ⟪छिनत्ति⟫
+28. ⟪क्रुध्यति⟫
+29. ⟪अस्यति⟫
+30. ⟪कुप्यन्ति⟫
+31. ⟪इच्छन्ति⟫
 
 ## 34.8. Übersetzungsübung
 
-Übersetzen Sie folgenden Text aus dem ⟪पद्मपुराण⟫ über Gaben an Brahmanen: <!-- TODO: Fallback translation -->
+请翻译以下关于向婆罗门布施的文本，出自 ⟪पद्मपुराण⟫：
 
 ⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫***⟪त्तम⟫*** ⟪।⟫  
 ⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫***⟪श्चतुर्दश⟫*** ⟪॥१॥⟫  
@@ -302,38 +308,40 @@ Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus entsprechenden 
 ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫  
 ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫  
 ⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तं⟫ ⟪महीतले⟫ ⟪।⟫  
-⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
 
-Erklärungen: <!-- TODO: Fallback translation -->
+说明：
 
-:::indent
-**Vokativ sg.** der Maskulina / Neutra auf -a lautet auf -a: z.B. **⟪देव⟫** "Gott!" <!-- TODO: Fallback translation -->
+::: indent
+**单数呼格** 以 -a 结尾的阳性/中性名词，其词尾为 -a：例如，**⟪देव⟫** “神啊！”
 
-**⟪चतुर्दश⟫** vierzehn <!-- TODO: Fallback translation -->
+**⟪चतुर्दश⟫** 十四
 
-**⟪सप्त⟫** sieben <!-- TODO: Fallback translation -->
+**⟪सप्त⟫** 七
 
-**⟪जन्म⟫** Nom./Akk. sg. zu **⟪जन्मन्⟫ n.** Geburt <!-- TODO: Fallback translation -->
+**⟪जन्म⟫** 主格/宾格单数，对应 **⟪जन्मन्⟫** n. 出生
 
-**⟪सर्व⟫ 3** "alle, ganz" (dekliniert nach Pronominaldeklination) <!-- TODO: Fallback translation -->
-::::::media
+**⟪सर्व⟫ 3** “所有，全部”（按代词变格法变格）
+:::: media
 ![](/images/lekt3407.webp)
-Abb.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
-Hindu wedding ritual.
-(Bildquelle: [Details](/licenses#lekt3407)) <!-- TODO: Fallback translation -->
-::::::deleteme-box
+图：⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟩***⟪र्जन्म*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
+印度婚礼仪式。
+（图片来源：[详情](/zh-CN/licenses#lekt3407)）
+::::
+:::
+::: deleteme-box
 
-**lekt3401:** Nandi Bull statue, Chamundi Hills, Mysore. [Bildquelle: Luna Park / Flickr. CC BY-NC-ND] <!-- TODO: Fallback translation -->
+**lekt3401:** Nandi-Stierstatue, Chamundi-Hügel, Mysore. [Bildquelle: Luna Park / Flickr. CC BY-NC-ND]
 
-**lekt3402:** Golden Temple (Harmandir Sahib), Amritsar. [Bildquelle: Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
+**lekt3402:** Goldener Tempel (Harmandir Sahib), Amritsar. [Bildquelle: Wikipedia. GNU FDL]
 
-**lekt3403:** Sesame seeds. [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt3403:** 芝麻。[图片来源：维基百科。公有领域]
 
-**lekt3404:** Sesame plant flowering. [Bildquelle: Franz Xaver / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
+**lekt3404:** Sesamblüte. [Bildquelle: Franz Xaver / Wikipedia. GNU FDL]
 
-**lekt3405:** Lakshadweep Islands Map. [Bildquelle: CIA World Factbook. Public domain] <!-- TODO: Fallback translation -->
+**lekt3405:** Lakshadweep群岛地图。[图片来源：CIA World Factbook。公有领域]
 
-**lekt3406:** Rice field in India. [Bildquelle: Ray Witlin / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
+**lekt3406:** Reisfeld in Indien. [Bildquelle: Ray Witlin / Weltbank. CC BY-NC-ND]
 
-**lekt3407:** Hindu wedding ritual. [Bildquelle: BriceFR / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
+**lekt3407:** Hinduistisches Hochzeitsritual. [Bildquelle: BriceFR / Flickr. CC BY-NC-SA]
 :::

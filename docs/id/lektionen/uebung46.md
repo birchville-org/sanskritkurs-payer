@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Determine and translate the following forms:
 
-:::grammar-box
+::: grammar-box
 | Word form | Determination | Meaning |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪वित्थ⟫** | ⟪विद्⟫ (2P) 2. pl. P. Ind. Pres. | you know |
@@ -83,7 +83,7 @@ From anger arises delusion; from delusion arises the confusion of mindfulness (r
 ⟪३⟫. **⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 For the uncontrolled (non-yogin) there is no insight.
 
-:::media
+::: media
 ![](/images/uebung080.webp)
 Fig.: ⟪सक्तः⟫
 (Image source: [Details](/en/licenses#uebung080))

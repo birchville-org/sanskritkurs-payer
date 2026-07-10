@@ -12,7 +12,7 @@ A) Translate and resolve the compounds into Sanskrit:
 
 ⟪१⟫. ⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫
 ⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪ऽनार्या⟫ ⟪देवानामिन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪।⟫ (or: ⟪इन्द्रस्य⟫ ⟪शत्रव⟫ ⟪एवानार्या⟫...)
-The lord of the gods defeats the non-Aryans, the enemies of Indra (or: whose enemy Indra is).
+The lord of the gods defeats the non-Aryans, the enemies of Indra are (or: whose enemy is Indra).
 
 ⟪२⟫. ⟪शूरबलक्षत्रिययोधः⟫ ⟪शूरपुत्रमिच्छति⟫ ⟪॥२॥⟫
 ⟪शूरस्य⟫ ⟪बलं⟫ ⟪यस्य⟫ ⟪स⟫ ⟪क्षत्रिय⟫ ⟪एव⟫ ⟪योधः⟫ ⟪शूरमेव⟫ ⟪पुत्रमि्च्छति⟫ ⟪॥⟫
@@ -20,7 +20,7 @@ The Kṣatriya warrior with the strength of a hero desires a hero-son.
 
 ⟪३⟫. ⟪सुदुर्गममार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकमार्गः⟫ ⟪॥३॥⟫
 ⟪सुदुर्गमेण⟫ ⟪मार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकस्य⟫ ⟪मार्गः⟫ ⟪॥⟫
-On a very arduous path one comes into a heaven. The path to a hell, however, is simple.
+On a very arduous path one comes to a heaven. The path to a hell, however, is simple.
 
 ⟪४⟫. ⟪मृतपुत्रब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥४॥⟫
 ⟪मृतः⟫ ⟪पुत्रो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥⟫
@@ -40,17 +40,17 @@ The Kṣatriyas who have come to power kill the enemies as soon as they see them
 
 ⟪८⟫. ⟪जितशत्रुयोधाः⟫ ⟪शत्रुजितान्मुञ्चन्ति⟫ ⟪॥८॥⟫
 ⟪जितः⟫ ⟪शत्रुर्यैस्ते⟫ ⟪योधाः⟫ ⟪शत्रुणा⟫ ⟪जितान्मुञ्चन्ति⟫ ⟪।⟫ (or: ⟪जिताः⟫ ⟪शत्रवो⟫ ⟪यैस्त्ते⟫...)
-The warriors, who had defeated the enemy, liberate the defeated by the enemy.
+The warriors, who had defeated the enemy, free the defeated by the enemy.
 
 ⟪९⟫. ⟪कृतोपनयनबालः⟫ ⟪शिवादिदेवपूजां⟫ ⟪करोति⟫ ⟪॥९॥⟫
 ⟪कृतमुपनयनं⟫ ⟪यय्स⟫ ⟪स⟫ ⟪बालः⟫ ⟪शिव⟫ ⟪आदिर्येषां⟫ ⟪तेषां⟫ ⟪देवानां⟫ ⟪पुजां⟫ ⟪करोति⟫ ⟪॥⟫
-The boy initiated into the Vedas venerates Śiva and the other gods.
+The boy initiated into the Veda venerates Śiva and the other gods.
 
 ⟪१०⟫. ⟪बुद्धगता⟫ ⟪दुःखादिसत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥१०॥⟫
 ⟪बुद्धं⟫ ⟪गता⟫ ⟪दुःखमादिर्येषां⟫ ⟪तानि⟫ ⟪सत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 Those who have gone to Buddha hear the truth about suffering and the other (noble) truths.
 
-B) Translate into Sanskrit using compounds:
+B) Translate using compounds into Sanskrit:
 
 1. A Kṣatriya who does not hold the staff in his hand does not protect the people.
 ⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (or: ⟪जनान्रक्षति⟫ ⟪।⟫)
@@ -61,19 +61,19 @@ B) Translate into Sanskrit using compounds:
 3. A Kṣatriya earns his livelihood through weapons.
 ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫ ⟪।⟫
 
-4. Even Śūdra women have as dharma non-violence, truth, purity, non-complaining, non-maliciousness, and forbearance.
+4. Even Śūdra women have as dharma non-violence, truth, purity, non-grumbling, non-maliciousness, and forbearance.
 ⟪अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः⟫ ⟪शूद्रा⟫ ⟪अपि⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung031.webp)
 Fig.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
-(Image source: [Details](/en/licenses#uebung031))
+(Image source: [Details](/licenses#uebung031))
 :::
 ---
 
 ## Compound Analysis
 
-Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa in all ways you consider possible in Sanskrit.
+Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa into all forms you consider possible in Sanskrit.
 
 ⟪१⟫. **⟪इन्द्रशत्रवः⟫** ⟪।⟫ ⟪इन्द्रस्य⟫ ⟪शत्रवः⟫ ⟪।⟫ (or: ⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪।⟫)
 
@@ -113,7 +113,7 @@ Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa 
 
 ⟪१९⟫. **⟪गतमात्रम्⟫** ⟪।⟫ ⟪गतं⟫ ⟪मात्रम्⟫ ⟪।⟫ (or: ⟪गतं⟫ ⟪मात्रमेव⟫ ⟪यस्य⟫ ⟪तम्⟫ ⟪।⟫)
 
-⟪२०⟫. **⟪इन्द्रपुत्रा⟫** ⟪।⟫ ⟪इन्द्रः⟫ ⟪पुत्रो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ (mother of Indra = ⟪पृथिवी⟫)
+⟪२०⟫. **⟪इन्द्रपुत्रा⟫** ⟪।⟫ ⟪इन्द्रः⟫ ⟪पुत्रो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ (Mother of Indra = ⟪पृथिवी⟫)
 
 ⟪२१⟫. **⟪तद्गुणाः⟫** ⟪।⟫ ⟪तस्य⟫ ⟪गुणाः⟫ ⟪।⟫ (or: ⟪स⟫ ⟪गुणो⟫ ⟪येषां⟫ ⟪ते⟫ ⟪।⟫)
 
@@ -135,7 +135,7 @@ Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa 
 
 ⟪३०⟫. **⟪दुर्गमः⟫** ⟪।⟫ difficult to walk
 
-⟪३१⟫. **⟪समयकारः⟫** ⟪।⟫ ⟪समयस्य⟫ ⟪कारः⟫ ⟪।⟫ (appointment)
+⟪३१⟫. **⟪समयकारः⟫** ⟪।⟫ ⟪समयस्य⟫ ⟪कारः⟫ ⟪।⟫ (Appointment)
 
 ⟪३२⟫. **⟪सम्पन्नरूपाम्⟫** ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्यास्ताम्⟫ ⟪।⟫
 
@@ -145,7 +145,7 @@ Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa 
 
 ⟪३५⟫. **⟪मृतगृहाणि⟫** ⟪।⟫ ⟪मृतानां⟫ ⟪गृहाणि⟫ ⟪।⟫ (houses of the dead)
 
-⟪३६⟫. **⟪अजनस्य⟫** ⟪।⟫ devoid of people
+⟪३६⟫. **⟪अजनस्य⟫** ⟪।⟫ deserted
 
 ⟪३७⟫. **⟪तद्देवतैः⟫** ⟪।⟫ ⟪सा⟫ ⟪देवता⟫ ⟪येषां⟫ ⟪तैः⟫ ⟪।⟫
 
@@ -155,13 +155,13 @@ Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa 
 
 ⟪४०⟫. **⟪भूतसर्गेण⟫** ⟪।⟫ ⟪भूतानां⟫ ⟪सर्गेण⟫ ⟪।⟫
 
-⟪४१⟫. **⟪मतिदर्शनम्⟫** ⟪।⟫ ⟪मतीनां⟫ ⟪दर्शनम्⟫ ⟪।⟫ (seeing of thoughts)
+⟪४१⟫. **⟪मतिदर्शनम्⟫** ⟪।⟫ ⟪मतीनां⟫ ⟪दर्शनम्⟫ ⟪।⟫ (seeing thoughts)
 
 ⟪४२⟫. **⟪मुक्तहस्ता⟫** ⟪।⟫ ⟪मुक्तं⟫ ⟪हस्तं⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ (generous)
 
 ⟪४३⟫. **⟪तदन्तः⟫** ⟪।⟫ ⟪तस्यान्तः⟫ ⟪।⟫ (or: ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫)
 
-⟪४४⟫. **⟪जातिमात्रम्⟫** ⟪।⟫ ⟪जातिरेव⟫ ⟪मात्रं⟫ ⟪यस्य⟫ ⟪तम्⟫ ⟪।⟫ (only by birth)
+⟪४४⟫. **⟪जातिमात्रम्⟫** ⟪।⟫ ⟪जातिरेव⟫ ⟪मात्रं⟫ ⟪यस्य⟫ ⟪तम्⟫ ⟪।⟫ (by birth only)
 
 ⟪४५⟫. **⟪तज्जयेन⟫** ⟪।⟫ ⟪तस्य⟫ ⟪जयेन⟫ ⟪।⟫ (or: ⟪तस्य⟫ ⟪जयो⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪।⟫)
 
@@ -171,7 +171,7 @@ Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa 
 
 ⟪४८⟫. **⟪सकारणः⟫** ⟪।⟫ with one cause
 
-⟪४९⟫. **⟪तनादयः⟫** ⟪।⟫ ⟪तन्⟫ etc. (= 8. class of present tense)
+⟪४९⟫. **⟪तनादयः⟫** ⟪।⟫ ⟪तन्⟫ etc. (= 8th class of verbs)
 
 ⟪५०⟫. **⟪जातमात्राम्⟫** ⟪।⟫ ⟪जातमेव⟫ ⟪मात्रं⟫ ⟪यस्यस्ताम्⟫ ⟪।⟫ (just arisen)
 
@@ -179,7 +179,7 @@ Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa 
 
 ⟪५२⟫. **⟪हतपुत्रः⟫** ⟪।⟫ ⟪हतः⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫
 
-⟪५३⟫. **⟪दुरासितम्⟫** ⟪।⟫ bad manner of sitting
+⟪५३⟫. **⟪दुरासितम्⟫** ⟪।⟫ bad way of sitting
 
 ⟪५४⟫. **⟪इष्टदेवतया⟫** ⟪।⟫ ⟪इष्टा⟫ ⟪देवता⟫ ⟪यस्यास्तया⟫ ⟪।⟫
 
@@ -195,9 +195,9 @@ Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa 
 
 ⟪६०⟫. **⟪जातिधर्मः⟫** ⟪।⟫ ⟪जातीनां⟫ ⟪धर्मः⟫ ⟪।⟫
 
-⟪६१⟫. **⟪तत्प्रभृतयः⟫** ⟪।⟫ ⟪सा⟫ ⟪प्रभृतिर्येषां⟫ ⟪ते⟫ ⟪।⟫ (that etc.)
+⟪६१⟫. **⟪तत्प्रभृतयः⟫** ⟪।⟫ ⟪सा⟫ ⟪प्रभृतिर्येषां⟫ ⟪ते⟫ ⟪।⟫ (etc.)
 
-⟪६२⟫. **⟪सुदुर्जयः⟫** ⟪।⟫ very difficult to conquer
+⟪६२⟫. **⟪सुदुर्जयः⟫** ⟪।⟫ very hard to conquer
 
 ⟪६३⟫. **⟪जितक्रोधेन⟫** ⟪।⟫ ⟪जितः⟫ ⟪क्रोधो⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪।⟫
 
@@ -223,13 +223,13 @@ Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa 
 
 ⟪७४⟫. **⟪दृष्टमात्रः⟫** ⟪।⟫ as soon as he was seen
 
-⟪७५⟫. **⟪भूतकालः⟫** ⟪।⟫ Past
+⟪७५⟫. **⟪भूतकालः⟫** ⟪।⟫ past
 
 ⟪७६⟫. **⟪सुनेत्राः⟫** ⟪।⟫ having good eyes
 
 ⟪७७⟫. **⟪तदादीनाम्⟫** ⟪।⟫ ⟪सादिर्येषां⟫ ⟪तेषाम्⟫ ⟪।⟫
 
-⟪७८⟫. **⟪जातिस्मरणम्⟫** ⟪।⟫ Remembrance of previous births
+⟪७८⟫. **⟪जातिस्मरणम्⟫** ⟪।⟫ memory of previous births
 
 ⟪७९⟫. **⟪सफलम्⟫** ⟪।⟫ fertile
 
@@ -237,10 +237,10 @@ Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa 
 
 ⟪८१⟫. **⟪सोढदुःखाः⟫** ⟪।⟫ ⟪सोढं⟫ ⟪दुःखं⟫ ⟪यैस्ते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung030.webp)
 Fig.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
-(Image source: [Details](/en/licenses#uebung030))
+(Image source: [Details](/licenses#uebung030))
 :::
 ---
 
@@ -251,17 +251,17 @@ The clarification of the mind occurs through the unfolding of friendly goodwill,
 
 ⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪१⟫ ⟪॥⟫  
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
-Yoga of action is asceticism, study of the Vedas, and attentive service to the LORD. It has as its goal the unfolding of concentration and the weakening of the "afflictions".
+Karma Yoga is asceticism, Vedic study, and attentive service to the LORD. Its goal is the unfolding of concentration and the weakening of "suffering."
 
-:::deleteme-box Explanation
-The five "afflictions" (⟪क्लेश⟫) are: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — ignorance, egoism, greed, hatred, and attachment to the body.
+::: deleteme-box Erläuterung
+The five "sufferings" (⟪क्लेश⟫) are: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — ignorance, egoism, greed, hatred, and attachment to the body.
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
 The highest goal of man is that triple suffering disappears completely. (*Triple suffering: from oneself, from objects, from the gods.*)
 
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  
 ⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२२⟫ ⟪॥⟫  
-Suffering is characterized by distress. Liberation is the complete freedom from it.
+Suffering is characterized by distress. Liberation is complete freedom from it.
 
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫  
 ⟪नैव⟫ ⟪वर्णाश्रमादीनां⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫  
@@ -271,7 +271,7 @@ There is no heaven, no liberation, no transcendent soul, nor are there fruitful 
 ⟪विप्राणां⟫ ⟪करदा⟫ ⟪नृपाः⟫ ⟪।⟫  
 ⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
 ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫  
-Brahmins give taxes to the gods, Brahmins give taxes to kings, kings give taxes to the people, the people give taxes to the earth.
+Brahmins give offerings to the gods, Brahmins receive offerings from kings, kings receive offerings from the people, the earth receives offerings from the people.
 
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫  
 ⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫  
@@ -283,16 +283,16 @@ Wife, son, and serf, these three are traditionally without property. What they a
 ⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫  
 ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫  
 ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫  
-Slender in the middle, wide at the hips, with red lips, black eyes, with a curved navel and full breasts, which man does not kill such a beautiful woman's body?
+Slender in the middle, broad at the hips, with red lips, black eyes, with a curved navel and full breasts, which man does not slay such a beautiful female body?
 
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫  
 ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫  
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫  
-Poor, who do not desire, have very many sons, the rich have not a single son. Strange is the course of creation.
+Those who do not desire have many sons, the rich have not a single son. Strange is the course of creation.
 
-:::media
+::: media
 ![](/images/uebung032.webp)
 Fig.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
-(Image source: [Details](/en/licenses#uebung032))
+(Image source: [Details](/licenses#uebung032))
 :::

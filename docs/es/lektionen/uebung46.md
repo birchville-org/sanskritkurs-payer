@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Determine y traduzca las siguientes formas:
 
-:::grammar-box
+::: grammar-box
 | Forma de la palabra | Determinación | Significado |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪वित्थ⟫** | ⟪विद्⟫ (2P) 2. pl. P. Ind. Pres. | vosotros sabéis |
@@ -83,7 +83,7 @@ De la ira surge la ceguera; de la ceguera, la confusión de la atención (recuer
 ⟪३⟫. **⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 Para el indomable (no yogui) no hay comprensión.
 
-:::media
+::: media
 ![](/images/uebung080.webp)
 Fig.: ⟪सक्तः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung080))

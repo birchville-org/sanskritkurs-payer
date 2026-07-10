@@ -9,7 +9,7 @@ status: stable
 
 # Lecția 11
 
-:::deleteme-box
+::: deleteme-box
 **În această lecție veți învăța:**
 - Acuzativul dublu (Acuzativul persoanei și al lucrului)
 - Utilizarea particulelor **iti**, **evam** și **na**
@@ -18,7 +18,7 @@ status: stable
 :::
 ## 11.1. Dublu acuzativ
 
-:::grammar-box
+::: grammar-box
 **Unele verbe pot guverna un dublu acuzativ (dvitīyā): acuzativul persoanei și acuzativul lucrului.**
 
 **Între acestea se numără:**
@@ -66,7 +66,7 @@ de ex. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫
   - **vāda** m. ⟪वाद⟫ : afirmație, declarație, cuvânt
   - **vadana** n. ⟪वदन⟫ : vorbirea; instrumentul vorbirii: gură, față
 
-:::media
+::: media
 ![](/images/lekt1102.webp)
 Fig.: **vadanāni** = ⟪वदनानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1102))
@@ -102,7 +102,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 
 **D) Formați vocea pasivă pentru propozițiile obținute la punctul C).**
 
-:::media
+::: media
 ![](/images/lekt1101.webp)
 Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1101))
@@ -144,7 +144,7 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 
 **E) Transformați propozițiile C) 1-5 în construcții active.**
 
-:::media
+::: media
 ![](/images/lekt1103.webp)
 Fig.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1103))

@@ -11,7 +11,7 @@ status: stable
 
 ## 23.1. Der Infinitiv (⟪तुमुन्⟫)
 
-:::grammar-box
+::: grammar-box
 **Will man in Sanskrit ausdrücken, dass eine Tätigkeit um einer anderen Tätigkeit willen geschieht ("um zu"), kann man für die Tätigkeit, um deren willen es geschieht, den Infinitiv (⟪तुमुन्⟫) verwenden. Der Infinitiv bezeichnet in erster Linie den Zweck oder die Absicht:**
 
 > ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma ist gegangen, um die Rede des Meisters zu hören."
@@ -53,7 +53,7 @@ z.B.
 :::
 ## 23.2. Bildung des Infinitiv (⟪तुमुन्⟫)
 
-:::grammar-box
+::: grammar-box
 **hochstufige Wurzel + -tum**
 
 **oder**
@@ -66,7 +66,7 @@ z.B.
 :::
 Beispiele:
 
-:::indent
+::: indent
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
 :::
@@ -74,14 +74,14 @@ Beispiele:
 
 Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten:
 
-:::indent
+::: indent
 ⟪गम्⟫ : ⟪गन्तुम्⟫
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
 -ra- als Hochstufe zu -ṛ- haben im Infinitiv:
 
-:::indent
+::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
@@ -160,7 +160,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 
 ⟪सामान्य⟫ n.: Gleichheit, Übereinstimmung
 
-⟪अधिक⟫ ⟪३⟫ : überschüssig, zusätzlich, größer, besser, außerordentlich
+⟪अधिक⟫ ⟪३⟫ : überschüssig, zusätzlich, grösser, besser, ausserordentlich
 
 ⟪विशेष⟫ m.: Besonderheit, Spezifikation, differentia specifica
 
@@ -233,7 +233,7 @@ D) Übersetzen Sie und lösen Sie die Komposita auf:
 
 ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt2303.webp)
 Abb.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย
@@ -241,7 +241,7 @@ Abb.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 :::
 ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
-:::media
+::: media
 ![](/images/lekt2301.webp)
 Abb.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
@@ -264,7 +264,7 @@ C) Übersetzen Sie folgendes ⟪सुभाषितम्⟫
 
 Erklärung: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..."
 
-:::media
+::: media
 ![](/images/lekt2302.webp)
 Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
@@ -290,13 +290,13 @@ A) Übersetzen Sie ins Sanskrit:
 
 7\. Der "Stock" bewirkt Erwerb und sicheren Besitz von Philosophie, Veda und Ökonomie. Die Führung dieses Stocks ist Politik.
 
-:::media
+::: media
 ![](/images/lekt2304.jpg)
 Abb.: ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, seit 2004
 (Bildquelle: [Details](/licenses#lekt2304))
 :::
-8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäß der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
+8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäss der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
 
 9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden.
 
@@ -320,7 +320,7 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Bildquelle: Wikipedia. GNU FDLicense]
 

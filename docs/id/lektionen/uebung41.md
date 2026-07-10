@@ -27,15 +27,12 @@ B) Translate:
 ⟪१⟫. **⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪धर्मं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪सङ्घं⟫ ⟪शरणं⟫ ⟪गच्छामीति⟫ ⟪बुद्धगतैर्वक्तव्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 "I take refuge in the Buddha, I take refuge in the Dharma, I take refuge in the Sangha" — this is to be said by those who have gone to the Buddha.
 
-:::grammar-box
-
 ### Sidebar: The Three Refuges
 This triple refuge is crucial for possessing the necessary motivation and perseverance on the path to liberation. Since there are countless teachers of wisdom, it is impossible to follow each of them individually. One must make a choice. The personality of a teacher must appear trustworthy (**Refuge in the Buddha**).
 
 The essential point, however, is not the liberator's personality, but the doctrine of liberation, which enables the individual to walk the path themselves. One must be so convinced by the teaching that one expends the energy to test it for its truth value (**Refuge in the Dharma**).
 
 Furthermore, one must be convinced that others have successfully walked this path. This is the **Refuge in the Sangha**, the community of those who have reached liberation on the Buddha's path.
-:::
 ⟪२⟫. **⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 "I will go to Benares (Kāśī), see the Ganges, and die there" — with this thought, the venerable old man left behind sons, grandsons, and property, and moved to Benares. I think that by doing so, he will overcome the suffering that is to be ended.
 
@@ -48,7 +45,7 @@ After having sold the goods for sale, the childless Vaiśya gave the proceeds to
 ⟪५⟫. **⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 Students are to be instructed by teachers; students are to study the curriculum.
 
-:::media
+::: media
 ![](/images/uebung067.jpg)
 Fig.: ⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫
 (Image source: [Details](/en/licenses#uebung067))

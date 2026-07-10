@@ -10,8 +10,8 @@ last_reconstructed: 2026-05-15
 
 A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammern ein und übersetzen Sie:
 
-:::grammar-box
-⟪१⟫. **⟪राज्ञि⟫** (oder: **⟪राजनि⟫**) **⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (⟪राजन्⟫)
+::: grammar-box
+⟪१⟫. ⟪राज्ञि⟫ (oder: ⟪राजनि⟫) **⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (⟪राजन्⟫)
 Wenn der König Recht und Sitte hütet, sind die Leute ohne Furcht.
 
 ⟪२⟫. **⟪आसीद्राजपुत्रो⟫ ⟪गौतमो⟫ ⟪नाम⟫ ⟪सुकृतकर्मोपपन्नो⟫ ⟪बुद्ध्या⟫ ⟪रूप्यमितबलः⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫** (⟪नामन्⟫)
@@ -27,7 +27,7 @@ Was für Namen haben Vaiśyas?
 Welche Namen tragen die Vaiśyas?
 
 ⟪६⟫. **⟪कर्मण्यकर्म⟫ ⟪यः⟫ ⟪पश्येदकर्मणि⟫ ⟪च⟫ ⟪कर्म⟫ ⟪यः⟫ ⟪स⟫ ⟪बुद्धिमान्मनुष्येषु⟫ ⟪स⟫ ⟪युक्त⟫ ⟪इति⟫ ⟪भगवद्गीतायाम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫** (⟪कर्मन्⟫ — ⟪सप्तमी⟫ ⟪एकवचन⟫)
-"Wer im Tun Nichttun sieht und im Nichttun Tun, der ist weise unter den Menschen, der ist ein Yogi" — so heißt es in der Bhagavadgītā.
+"Wer im Tun Nichttun sieht und im Nichttun Tun, der ist weise unter den Menschen, der ist ein Yogi" — so heisst es in der Bhagavadgītā.
 
 ⟪७⟫. **⟪किं⟫ ⟪कर्म⟫ ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫** (⟪कर्मन्⟫)
 Selbst Dichter sind darüber verwirrt, was Tun und was Nichttun ist.
@@ -39,7 +39,7 @@ Wer zum Absoluten geworden ist und wessen Seele abgeklärt ist, der trauert nich
 Man sagt, dass eine gut getane Tat eine gute Frucht bringt.
 
 ⟪१०⟫. **⟪महीभोगो⟫ ⟪राज्ञां⟫ ⟪धर्मः⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫** (⟪राजन्⟫ — ⟪षष्ठी⟫ ⟪बहुवचन⟫)
-Das Genießen der Welt ist die Pflicht der Könige.
+Das Geniessen der Welt ist die Pflicht der Könige.
 
 ⟪११⟫. **⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫** (⟪बलिन्⟫, ⟪हस्तिन्⟫)
 Starke Elefanten soll man dem König geben.
@@ -55,7 +55,8 @@ Gute Könige schenken den Menschen Furchtlosigkeit.
 
 ⟪१५⟫. **⟪राजसु⟫ ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫** (⟪राजन्⟫)
 Wenn Könige Recht und Sitte nicht hüten, sind die Menschen voll Furcht.
-::::::media
+:::
+::: media
 ![](/images/uebung063.webp)
 Abb.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (Bildquelle: [Details](/licenses#uebung063))
@@ -71,4 +72,5 @@ Abb.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫
 **Übersetzung:**
 Zehn Deppen. Das Treiben von Toren ist meist unterhaltsam. So zum Beispiel: Einst sind zehn Toren aufgebrochen, um im Land herumzuschweifen. Als sie ein Stück weit gegangen waren, stellte sich ihnen ein tiefer Fluss in den Weg. Mit den Armen rudernd überquerten sie irgendwie den Fluss und gelangten ans andere Ufer.
 
-Unter ihnen war ein Alter. Er wollte wissen, ob alle ans Ufer gekommen seien, und zählte darum jeden einzelnen. Aber er zählte nur neun. Da schrie er: "Hallo! Wir sind zu zehnt aufgebrochen, jetzt sind wir nur neun! Sicherlich ist einer im Fluss ertrunken! Sucht nach ihm!" Daraufhin zählte jeder einzelne von ihnen nach. Aber es waren immer nur neun! Da wurden sie aufgeregt und es entstand ein großes Geschrei. Nicht weit von dort war die Einsiedelei eines Ṛṣi. Der dort wohnende Weise betrachtete ihr Gebaren und lachte laut. Die Toren hörten sein Gelächter, eilten zu ihm und fragten nach dem Grund. Der Ṛṣi sagte: "Ha! Ihr kennt euch selbst nicht. Jeder einzelne von euch hat sich selbst nicht mitgezählt. Deswegen ist diese Verwirrung entstanden." Als sie das hörten, zogen die Toren beschämt und mit gesenktem Haupt ab.
+Unter ihnen war ein Alter. Er wollte wissen, ob alle ans Ufer gekommen seien, und zählte darum jeden einzelnen. Aber er zählte nur neun. Da schrie er: "Hallo! Wir sind zu zehnt aufgebrochen, jetzt sind wir nur neun! Sicherlich ist einer im Fluss ertrunken! Sucht nach ihm!" Daraufhin zählte jeder einzelne von ihnen nach. Aber es waren immer nur neun! Da wurden sie aufgeregt und es entstand ein grosses Geschrei. Nicht weit von dort war die Einsiedelei eines Ṛṣi. Der dort wohnende Weise betrachtete ihr Gebaren und lachte laut. Die Toren hörten sein Gelächter, eilten zu ihm und fragten nach dem Grund. Der Ṛṣi sagte: "Ha! Ihr kennt euch selbst nicht. Jeder einzelne von euch hat sich selbst nicht mitgezählt. Deswegen ist diese Verwirrung entstanden." Als sie das hörten, zogen die Toren beschämt und mit gesenktem Haupt ab.
+

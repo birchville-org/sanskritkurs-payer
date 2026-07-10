@@ -1,241 +1,242 @@
 ---
-title: Lektion 3
-subtitle: "Den Nominativ Singular des Femininums"
+title: 第3课
+subtitle: "阴性单数主格"
 lesson_id: 3
 last_reconstructed: 2026-05-07
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 3
 
-:::deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- den Nominativ Singular des Femininums <!-- TODO: Fallback translation -->
-- den Nominativ Plural des Maskulinums und Femininums <!-- TODO: Fallback translation -->
-- die Bildung des Femininums zu Maskulina <!-- TODO: Fallback translation -->
-- Vokalsandhi <!-- TODO: Fallback translation -->
-- Satzsandhi von -ās <!-- TODO: Fallback translation -->
+::: deleteme-box
+**在本课中，您将学习：**
+- 阴性名词的单数主格
+- 阳性和阴性名词的复数主格
+- 由阳性名词构成阴性名词的方法
+- 元音连声（Vokalsandhi）
+- Satzsandhi von -ās
 :::
-## 3.1. Nominativ Singular des Femininums
+## 3.1. 阴性名词的单数主格
 
 ### 3.1.1. Nominativ Singular auf -s
 
-Auch folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**: <!-- TODO: Fallback translation -->
+此外，以下以元音结尾的名词词干，其单数主格以 **-s** 结尾：
 
-:::grammar-box
-- **Feminina auf -i**: z.B. **śruti** f. "das Hören" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -u**: z.B. **dhenu** f. "Milchkuh" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫ <!-- TODO: Fallback translation -->
+::: grammar-box
+- **以 -i 结尾的阴性名词**：例如 **śruti** 阴性，“聆听”——主格单数：**śrutis** = ⟪श्रुतिस्⟫
+- **以 -u 结尾的阴性名词**：例如 **dhenu** 阴性，“母牛”——主格单数：**dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominativ Singular ohne Endung
+### 3.1.2. 无词尾的主格单数
 
-Den Nominativ Singular bilden ohne Endung: <!-- TODO: Fallback translation -->
+不带词尾构成单数主格：
 
-:::grammar-box
-- **Feminina auf -ā**: z.B. **devatā** f. "Gottheit" -- Nom. sg.: **devatā** = ⟪देवता⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -ī**: z.B. **devī** f. "Göttin" -- Nom. sg.: **devī** = ⟪देवी⟫ <!-- TODO: Fallback translation -->
-::::::
-important
-**Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf -ī, deren Nominativ Singular auf -s endet: z.B. dhī f. "Gedanke" -- Nom. sg.: dhīs = ⟪धीस्⟫. Auch lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "Boot" und tantrī (⟪तन्त्री⟫) f. "Saite" bilden unregelmäßig den Nominativ Singular auf -s: lakṣmīs = ⟪लक्ष्मीस्⟫. <!-- TODO: Fallback translation -->
+::: grammar-box
+- **以 -ā 结尾的阴性名词**：例如 **devatā** 阴性 “神” -- 主格单数：**devatā** = ⟪देवता⟫
+- **以 -ī 结尾的阴性名词**：例如 **devī** 阴性 “女神” -- 主格单数：**devī** = ⟪देवी⟫
+:::: important
+**注意！** 此外，还存在一些以 -ī 结尾的单音节阴性词根名词，其主格单数以 -s 结尾：例如 dhī 阴性 “思想” -- 主格单数：dhīs = ⟪धीस्⟫。此外，lakṣmī（⟪लक्ष्मी⟫）阴性、tarī（⟪तरी⟫）阴性 “船” 以及 tantrī（⟪तन्त्री⟫）阴性 “弦” 均以不规则方式构成主格单数，以 -s 结尾：lakṣmīs = ⟪लक्ष्मीस्⟫。
+::::
 :::
 ---
 
-## 3.2. Bildung der Feminina zu Maskulina
+## 3.2. 阳性名词阴性形式的构成
 
-:::grammar-box
-**Maskulina auf -a:** <!-- TODO: Fallback translation -->
-- **Femininum auf -ā**: z.B. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriyafrau" = ⟪क्षत्रिया⟫ <!-- TODO: Fallback translation -->
-- **Femininum auf -ī**: z.B. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ⟪ब्राह्मणी⟫ <!-- TODO: Fallback translation -->
+::: grammar-box
+**以-a结尾的中性名词：**
+- **以-ā结尾的阴性名词**：例如 **kṣatriya** 阳性 » **kṣatriyā** 阴性 “刹帝利女子” = ⟪क्षत्रिया⟫
+- **以-ī结尾的阴性名词**：例如 **brāhmaṇa** 阳性 » **brāhmaṇī** 阴性 “婆罗门女子” = ⟪ब्राह्मणी⟫
 
-**Maskulina auf -u:** <!-- TODO: Fallback translation -->
-- **Femininum auf -ī**: z.B. **sādhu** m. » **sādhvī** f. (gut, Heilige) = ⟪साध्वी⟫ <!-- TODO: Fallback translation -->
-  (**-u-** wird vor Vokal zu **-v-**, daher **-u- + -ī** » **-vī**) <!-- TODO: Fallback translation -->
+**以 -u 结尾的中性名词：**
+- **以 -ī 结尾的阴性名词**：例如 **sādhu** 阳性 » **sādhvī** 阴性（善良，圣人）= ⟪साध्वी⟫
+  （**-u-** 在元音前变为 **-v-**，因此 **-u- + -ī** » **-vī**）
 :::
 ---
 
 ## 3.3. Nominativ Plural Maskulinum und Femininum
 
-:::grammar-box
-Die Endung des Nominativ Plural im Maskulinum und Femininum ist **-as**. <!-- TODO: Fallback translation -->
-- **Maskulina auf -a**: **deva- + -as** » **devās** = ⟪देवास्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫ <!-- TODO: Fallback translation -->
-- **Maskulina auf -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫ <!-- TODO: Fallback translation -->
-- **Maskulina auf -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫ <!-- TODO: Fallback translation -->
+::: grammar-box
+阳性复数主格词尾为 **-as**。
+- **以 -a 结尾的阳性名词**：**deva- + -as** » **devās** = ⟪देवास्⟫
+- **以 -ā 结尾的阴性名词**：**devatā- + -as** » **devatās** = ⟪देवतास्⟫
+- **以 -i 结尾的阳性名词**：**kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+- **以 -i 结尾的阴性名词**：**śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+- **以 -ī 结尾的阴性名词**：**devī- + -as** » **devyas** = ⟪देव्यस्⟫
+- **以 -u 结尾的阳性名词**：**guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+- **以 -u 结尾的阴性名词**：**dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 :::
-Anmerkung: **e** ist Hochstufe (**guṇa**) zu **i**, **o** ist Hochstufe zu **u**. <!-- TODO: Fallback translation -->
+注：**e** 是 **i** 的强级（**guṇa**），**o** 是 **u** 的强级。
 
 ---
 
 ## 3.4. Vokalsandhi
 
-:::grammar-box
-**Einfache Vokale, die sich nicht oder nur in ihrer Länge unterscheiden, "verschmelzen" zum entsprechenden langen Vokal:** <!-- TODO: Fallback translation -->
-- -a / -ā + a- / ā- » **-ā-** <!-- TODO: Fallback translation -->
-- -i / -ī + i- / ī- » **-ī-** <!-- TODO: Fallback translation -->
-- -u / -ū + u- / ū- » **-ū-** <!-- TODO: Fallback translation -->
-- (-ṛ + ṛ- » **-ṝ-**) <!-- TODO: Fallback translation -->
+::: grammar-box
+**简单的元音，如果它们仅在长度上有所不同，则“融合”为相应的长元音：**
+- -a / -ā + a- / ā- » **-ā-**
+- -i / -ī + i- / ī- » **-ī-**
+- -u / -ū + u- / ū- » **-ū-**
+- (-ṛ + ṛ- » **-ṝ-**)
 :::
-z.B. <!-- TODO: Fallback translation -->
+例如
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā ist eine Gottheit" = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
+devatā + annapūrṇā » devatānnapūrṇā “Annapūrṇā ist eine Gottheit” = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā ist die Göttin der Speisen und des Kochens, sie gilt als eine Verkörperung Pārvatī's, der Gattin Śivas.) <!-- TODO: Fallback translation -->
+> （安娜普尔那是食物与烹饪的女神，被视为湿婆之妻帕尔瓦蒂的化身。）
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = ⟪देवीन्द्राणी⟫ <!-- TODO: Fallback translation -->
+devī + indrāṇī » devīndrāṇī “因陀罗尼是一位女神” = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī ist die Gattin des Gottes Indra.) <!-- TODO: Fallback translation -->
+> （因陀罗尼是神祇因陀罗的妻子。）
 
-:::media
+::: media
 ![](/images/lekt0301.webp)
-Abb.: Indra und Indrāṇī auf dem Elefanten Airavata, Miniatur, Rājasthān, 1670/80
-(Bildquelle: [Details](/licenses#lekt0301)) <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Einfache Vokale (außer -a / -ā) werden vor unähnlichen Vokalen durch den entsprechenden Halbvokal ersetzt:** <!-- TODO: Fallback translation -->
-- -i / -ī » **-y-** <!-- TODO: Fallback translation -->
-- -u / -ū » **-v-** <!-- TODO: Fallback translation -->
-- -ṛ » **-r-** <!-- TODO: Fallback translation -->
-(!! Zu dieser Regel gibt es insbesondere für Dualformen Ausnahmen !!) <!-- TODO: Fallback translation -->
+图：因陀罗与因陀罗尼骑在大象艾拉瓦塔上，拉杰斯坦邦，1670/80年
+（图片来源：[详情](/zh-CN/licenses#lekt0301)）
 :::
-z.B. <!-- TODO: Fallback translation -->
-
-devī + umā » devy umā "Umā ist eine / die Göttin" = ⟪देव्युमा⟫ <!-- TODO: Fallback translation -->
-
-> (Umā ist ein Name für Pārvatī, die Gattin Śivas) <!-- TODO: Fallback translation -->
-
-:::grammar-box
-**-a / -ā vor unähnlichem Vokal:** <!-- TODO: Fallback translation -->
-- -a / -ā + i- / ī- » **-e-** <!-- TODO: Fallback translation -->
-- -a / -ā + ṛ- » **-ar-** <!-- TODO: Fallback translation -->
-- -a / -ā + e- / ai- » **-ai-** <!-- TODO: Fallback translation -->
-- -a / -ā + o- / au- » **-au-** <!-- TODO: Fallback translation -->
+::: grammar-box
+**简单元音（除 -a / -ā 外）在不相似的元音前由相应的半元音替代：**
+- -i / -ī » **-y-**
+- -u / -ū » **-v-**
+- -ṛ » **-r-**
+（!! 关于此规则，尤其是双数形式存在例外 !!）
 :::
-Für diesen Sandhi gilt also folgendes Schema: <!-- TODO: Fallback translation -->
+例如
 
-:::media
+devī + umā » devy umā “乌玛是一位/那位女神” = ⟪देव्युमा⟫
+
+>（乌玛是帕尔瓦蒂的名字，湿婆的妻子）
+
+::: grammar-box
+**-a / -ā 在异质元音前：**
+- -a / -ā + i- / ī- » **-e-**
+- -a / -ā + ṛ- » **-ar-**
+- -a / -ā + e- / ai- » **-ai-**
+- -a / -ā + o- / au- » **-au-**
+:::
+因此，该桑迪亚（Sandhi）遵循以下模式：
+
+::: media
 ![](/images/lekt0302.jpg)
-(Bildquelle: [Details](/licenses#lekt0302)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt0302)）
 :::
-Zu dieser sog. Stammabstufung siehe später! <!-- TODO: Fallback translation -->
+关于这种所谓的“种姓等级”，请参见后文！
 
-z.B. <!-- TODO: Fallback translation -->
+例如
 
-śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = ⟪शूद्रेतरा⟫ <!-- TODO: Fallback translation -->
+śūdrā + itarā » śudretarā “Itarā 是一位 Śūdra 妇女” = ⟪शूद्रेतरा⟫
 
 ---
 
 ## 3.5. Satzsandhi von -ās
 
-:::grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-z.B. <!-- TODO: Fallback translation -->
+例如
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = ⟪द्विजा⟫ ⟪वैश्याः⟫ <!-- TODO: Fallback translation -->
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ “婆罗门与吠舍：吠舍是再生者” = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
 ---
 
 ## 3.6. Wortliste
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**学习以下词汇：**
 
-**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's). <!-- TODO: Fallback translation -->
+**śruti** f. = ⟪श्रुति⟫ : 聆听，永恒的传承（指吠陀和梵书）。
 
-**smṛti** f. = ⟪स्मृति⟫ : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst: <!-- TODO: Fallback translation -->
-- die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫) <!-- TODO: Fallback translation -->
-  1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache <!-- TODO: Fallback translation -->
-  2. **chandas** n. (⟪छन्दस्⟫): Metrum <!-- TODO: Fallback translation -->
-  3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik <!-- TODO: Fallback translation -->
-  4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie <!-- TODO: Fallback translation -->
-  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre <!-- TODO: Fallback translation -->
-  6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell <!-- TODO: Fallback translation -->
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der großen Opfer <!-- TODO: Fallback translation -->
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens <!-- TODO: Fallback translation -->
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten) <!-- TODO: Fallback translation -->
-- die großen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫) <!-- TODO: Fallback translation -->
-- die **purāṇa** n. (⟪पुराण⟫) <!-- TODO: Fallback translation -->
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit <!-- TODO: Fallback translation -->
+**smṛti** f. = ⟪स्मृति⟫ ：重现、记忆、冥想中的重现 = 正念、传承（与 **śruti** 相对的概念）。包括：
+- 六个 **vedāṅga** n. (⟪वेदाङ्ग⟫)
+  1. **śikṣā** f. (⟪शिक्षा⟫)：正确的发音
+  2. **chandas** n. (⟪छन्दस्⟫)：韵律
+  3. **vyākaraṇa** n. (⟪व्याकरण⟫)：语法
+  4. **nirukta** n. (⟪निरुक्त⟫) ：词义解释、词源学
+  5. **jyotiṣa** n. (⟪ज्योतिष⟫) ：天文学、历法学
+  6. **kalpa** m. (⟪कल्प⟫) ：仪式规程
+- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) ：关于大型祭祀执行的经典
+- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) ：关于日常生活仪式和祭祀的经典
+- **dharmasūtra** n. (⟪धर्मसूत्र⟫) 和 **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) ：关于法律和习俗的经典（正确的行为）
+- 两大史诗 **mahābhārata** n. (⟪महाभारत⟫) 和 **rāmāyaṇa** n. (⟪रामायण⟫)
+- **purāṇa** n. (⟪पुराण⟫)
+- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) ：处世智慧经典
 
-**smṛti** ist besonders auch Bezeichnung für Dharmalehrwerke. <!-- TODO: Fallback translation -->
+**smṛti** 也是 Dharmalehrwerke 的特别称呼。
 
-**dhenu** f. = ⟪धेनु⟫ : (Milch-)kuh. <!-- TODO: Fallback translation -->
+**dhenu** f. = ⟪धेनु⟫ :（母）牛。
 
-**paśu** m. = ⟪पशु⟫ : domestiziertes Nutztier, Vieh (Kollektivum). <!-- TODO: Fallback translation -->
+**paśu** m. = ⟪पशु⟫ ：驯化的家畜，牲畜（集合名词）。
 
-**devatā** f. = ⟪देवता⟫ : Gottheit (abstrakt und konkret). <!-- TODO: Fallback translation -->
+**devatā** f. = ⟪देवता⟫ ：神祇（抽象与具体）。
 
-**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin. <!-- TODO: Fallback translation -->
+**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : 婆罗门女。
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya. <!-- TODO: Fallback translation -->
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : 女性刹帝利。
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya. <!-- TODO: Fallback translation -->
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : 刹帝利的妻子。
 
-**vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya. <!-- TODO: Fallback translation -->
+**vaiśyā** f. = ⟪वैश्या⟫ : 女性吠舍。
 
-**śūdrā** f. = ⟪शूद्रा⟫ : weibliche Śūdra. <!-- TODO: Fallback translation -->
+**śūdrā** f. = ⟪शूद्रा⟫ : 女性首陀罗。
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Frau eines Śūdra. <!-- TODO: Fallback translation -->
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ ：首陀罗男子的妻子。
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫. <!-- TODO: Fallback translation -->
+**devī** 阴性词 = ⟪देवी⟫ ：女神，特别是杜尔迦（Durgā）阴性词 = ⟪दुर्गा⟫，湿婆（Śiva）的配偶 = ⟪शिव⟫。
 
-:::media
+::: media
 ![](/images/lekt0303.webp)
-Abb.: Durgā = ⟪दुर्गा⟫, Orissa
-(Bildquelle: [Details](/images/lekt0303)) <!-- TODO: Fallback translation -->
+图：杜尔迦 = ⟪दुर्गा⟫，奥里萨邦
+（图片来源：[详情](/images/lekt0303)）
 :::
-**sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu. <!-- TODO: Fallback translation -->
+**sādhvī** 阴性 = ⟪साध्वी⟫：sādhu 的阴性形式。
 
-**gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru. <!-- TODO: Fallback translation -->
+**gurvī** f. = ⟪गुर्वी⟫ : 阴性，源自 guru。
 
-**asmitā** f. = ⟪अस्मिता⟫ : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw. <!-- TODO: Fallback translation -->
+**asmitā** f. = ⟪अस्मिता⟫：“我性”，即（错误的）信念：**我**是那个看见等的人。
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt). <!-- TODO: Fallback translation -->
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : 哲学（通过逻辑上正确的推理得出结论的学问）。
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : Nichtbeachtung, Gleichmut. <!-- TODO: Fallback translation -->
+**upekṣā** f. = ⟪उपेक्षा⟫ : 忽视，平等心。
 
-**karuṇā** f. = ⟪करुणा⟫ : Mitgefühl, Mitleid. <!-- TODO: Fallback translation -->
+**karuṇā** f. = ⟪करुणा⟫ : 同情，怜悯。
 
-**muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid). <!-- TODO: Fallback translation -->
+**muditā** f. = ⟪मुदिता⟫ : 喜悦，特别是随喜（与嫉妒相对）。
 
 ---
 
 ## 3.7. Übung
 
-**A) Setzen Sie folgende Sätze in den Plural:** <!-- TODO: Fallback translation -->
+**A) 将以下句子变为复数：**
 
-1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫ <!-- TODO: Fallback translation -->
-3. dvijo vaiśyaḥ = ⟪द्विजो⟫ ⟪वैश्यः⟫ <!-- TODO: Fallback translation -->
-4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-5. sādhur guruḥ = ⟪साधुर्गुरुः⟫ <!-- TODO: Fallback translation -->
-6. guruḥ kaviḥ = ⟪गुरुः⟫ ⟪कविः⟫ <!-- TODO: Fallback translation -->
-7. sādhvī brāhmaṇī = ⟪साध्वी⟫ ⟪ब्राह्मणी⟫ <!-- TODO: Fallback translation -->
-8. devatā guruḥ = ⟪देवता⟫ ⟪गुरुः⟫ <!-- TODO: Fallback translation -->
-9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫ <!-- TODO: Fallback translation -->
-10. gurvī sādhvī = ⟪गुर्वी⟫ ⟪साध्वी⟫ <!-- TODO: Fallback translation -->
+1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
+2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫
+3. dvijo vaiśyaḥ = ⟪द्विजो⟫ ⟪वैश्यः⟫
+4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
+5. sādhur guruḥ = ⟪साधुर्गुरुः⟫
+6. guruḥ kaviḥ = ⟪गुरुः⟫ ⟪कविः⟫
+7. sādhvī brāhmaṇī = ⟪साध्वी⟫ ⟪ब्राह्मणी⟫
+8. devatā guruḥ = ⟪देवता⟫ ⟪गुरुः⟫
+9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫
+10. gurvī sādhvī = ⟪गुर्वी⟫ ⟪साध्वी⟫
 
-**B) Bilden Sie durch Einsetzen Nominalsätze:** <!-- TODO: Fallback translation -->
+**B) 通过填入内容构成名词性从句：**
 
-1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫ <!-- TODO: Fallback translation -->
-2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫ <!-- TODO: Fallback translation -->
-3. devī ... (durgā, umā, indrāṇī) = ⟪देवी⟫ ... ⟪दुर्गा⟫, ⟪उमा⟫, ⟪इन्द्राणी⟫ <!-- TODO: Fallback translation -->
-4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫ <!-- TODO: Fallback translation -->
-5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫ <!-- TODO: Fallback translation -->
+1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
+2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫
+3. devī ... (durgā, umā, indrāṇī) = ⟪देवी⟫ ... ⟪दुर्गा⟫, ⟪उमा⟫, ⟪इन्द्राणी⟫
+4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫
+5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫
 
-**C) Übertragen Sie ins Femininum:** <!-- TODO: Fallback translation -->
+**C) 转换为阴性形式：**
 
-1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-2. sādhur guruḥ = ⟪साधुर्गुरुः⟫ <!-- TODO: Fallback translation -->
-3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫ <!-- TODO: Fallback translation -->
+1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
+2. sādhur guruḥ = ⟪साधुर्गुरुः⟫
+3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫
 
-**D) Übersetzen Sie ins Sanskrit:** <!-- TODO: Fallback translation -->
+**D) 翻译成梵文：**
 
-1. Umā ist eine Göttin. <!-- TODO: Fallback translation -->
-2. Der Veda ist śruti. <!-- TODO: Fallback translation -->
-3. Die Lehrerinnen sind Göttinnen. <!-- TODO: Fallback translation -->
-4. Milchkühe sind domestizierte Tiere. <!-- TODO: Fallback translation -->
-5. Dichter sind Lehrer. <!-- TODO: Fallback translation -->
-6. Kṣatriyas sind Zweimalgeborene. <!-- TODO: Fallback translation -->
-7. Die heiligen Männer sind Śūdras. <!-- TODO: Fallback translation -->
+1. Umā 是一位女神。
+2. 《吠陀》是 śruti（天启）。
+3. 女教师们是女神。
+4. 奶牛是家养动物。
+5. 诗人是教师。
+6. Kṣatriyas 是再生者。
+7. 圣人是 Śūdras。

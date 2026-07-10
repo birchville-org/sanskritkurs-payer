@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Transformați următoarele forme verbale în forme optative corespunzătoare persoanei, numărului și genului verbi:
 
-:::grammar-box
+::: grammar-box
 | Prezent | Optativ |
 | :--- | :--- |
 | ⟪१⟫. **⟪ह्रियते⟫** | ⟪ह्रियेत⟫ |
@@ -116,7 +116,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 **⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫** (Manu IV.138)  
 Să se spună adevăruri plăcute, să nu se spună adevăruri neplăcute; să nu se spună minciuni plăcute, acesta este legea veșnică.
 
-:::media
+::: media
 ![](/images/uebung048.webp)
 Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (Sursa imaginii: [Detalii](/licenses#uebung048))
@@ -127,7 +127,7 @@ Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्त�
 
 Determinați și traduceți următoarele forme de cuvânt:
 
-:::grammar-box
+::: grammar-box
 | Formă de cuvânt | Determinare | Semnificație |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪भारे⟫** | Loc. sg. m. | pe povară |
@@ -170,8 +170,9 @@ Determinați și traduceți următoarele forme de cuvânt:
 | ⟪३८⟫. **⟪तस्यै⟫** | Dat. sg. f. | ei |
 | ⟪३९⟫. **⟪तस्मिन्⟫** | Loc. sg. m./n. | în acesta, în acest |
 | ⟪४०⟫. **⟪सते⟫** | Dat. sg. m./n. | Ființei / Bunei |
-::::::media
+:::: media
 ![](/images/uebung047.webp)
 Fig.: ⟪भक्त्याः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung047))
+::::
 :::

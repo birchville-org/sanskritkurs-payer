@@ -5,259 +5,262 @@ lesson_id: 47
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 47
 
 ## 47.1. Der Imperativ (⟪लोट्⟫)
 
-:::grammar-box
-Der Imperativ (⟪लोट्⟫) bezeichnet <!-- TODO: Fallback translation -->
+::: grammar-box
+命令式（⟪लोट्⟫）表示
 
-*   **Befehl** (wird auch durch das Gerundivum (⟪कृत्य⟫) ausgedrückt) <!-- TODO: Fallback translation -->
-*   **Vorschrift** <!-- TODO: Fallback translation -->
-*   **Forderung** <!-- TODO: Fallback translation -->
-*   **Wunsch** <!-- TODO: Fallback translation -->
-*   **Bitte** <!-- TODO: Fallback translation -->
-*   **Einladung** <!-- TODO: Fallback translation -->
-*   **Überlegung** <!-- TODO: Fallback translation -->
-*   **Frage** <!-- TODO: Fallback translation -->
+*   **命令**（也可通过绝对分词/动名词 ⟨⟪कृत्य⟫⟩ 表达）
+*   **规定**
+*   **要求**
+*   **愿望**
+*   **请求**
+*   **邀请**
+*   **思考/考量**
+*   **疑问**
 
-Die genannten Bedeutungen hat er mit dem Optativ (⟪विधिलिङ्⟫) gemeinsam. <!-- TODO: Fallback translation -->
+上述含义也是祈愿式（⟪विधिलिङ्⟫）所共有的。
 
-Mit dem Imperativ drückt man auch aus: <!-- TODO: Fallback translation -->
+使用命令式还可以表达：
 
-*   **Erlaubnis** <!-- TODO: Fallback translation -->
-*   **dass eine Handlung an der Zeit ist** (wird auch durch das Gerundivum (⟪कृत्य⟫) ausgedrückt) <!-- TODO: Fallback translation -->
-*   **Segenswunsch** <!-- TODO: Fallback translation -->
+*   **许可**
+*   **某事时机已到**（也可通过动形词（⟪कृत्य⟩）表达）
+*   **祝福**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪एहि⟫ ⟪।⟫ "Komm!" <!-- TODO: Fallback translation -->
+::: indent
+⟪एहि⟫ ⟪।⟫ “来吧！”
 
-⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ oder Optativ : ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ "Kommen Sie zum Dorf!" <!-- TODO: Fallback translation -->
+⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ 或 optativ：⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ “请到村子里来！”
 
-⟪वेदमध्ययै⟫ ⟪।⟫ oder Optativ: ⟪वेदमधीयीय⟫ ⟪।⟫ "Ich möchte den Veda studieren." <!-- TODO: Fallback translation -->
+⟪वेदमध्ययै⟫ ⟪।⟫ 或 optativ：⟪वेदमधीयीय⟫ ⟪।⟫ “我想研习吠陀。”
 
-⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ oder Optativ:  ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ "Ich wünsche, sie mögen essen." <!-- TODO: Fallback translation -->
+⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ 或愿望式： ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ “我希望，他们吃饭。”
 
-⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ oder Optativ: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ "Sollte ich den Veda studieren?" <!-- TODO: Fallback translation -->
+⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ 或愿望式： ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ “我应该学习吠陀吗？”
 
-⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ oder Gerundiv: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ "Machen Sie ein Messer!" ; "Sie dürfen ein Messer machen." ; "Es ist an der Zeit, dass Sie ein Messer machen." <!-- TODO: Fallback translation -->
+⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ 或动形词： ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ “做一把刀！”；“你可以做一把刀。”；“现在是您做一把刀的时候了。”
 
-⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ "Lange mögen Sie leben!" <!-- TODO: Fallback translation -->
-::::::grammar-box
-Höfliche Befehle werden gerne durch Passiv-Imperative ausgedrückt. <!-- TODO: Fallback translation -->
+⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ “愿您长寿！”
 :::
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ "Treten Sie **bitte** ein!" <!-- TODO: Fallback translation -->
-
-⟪निषद्यताम्⟫ ⟪।⟫ "Bitte, setzen Sie sich!" <!-- TODO: Fallback translation -->
+::: grammar-box
+礼貌的命令通常通过被动祈使句来表达。
 :::
-Im Imperativ des klassischen Sanskrit sind die Formen der 1. Personen alte Konjunktivformen. Der vedische Konjunktiv ist vor allem der Modus, der einen Wunsch ausdrückt: "Wir wollen gehen!" "Lasst uns gehen!" <!-- TODO: Fallback translation -->
+例如：
 
-:::grammar-box
-Der Imperativ wird vom Präsensstamm gebildet. <!-- TODO: Fallback translation -->
+::: indent
+⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ “请**务必**进来！”
+
+⟪निषद्यताम्⟫ ⟪।⟫ “请坐！”
 :::
-## 47.2. Bildung des Imperativs (⟪लोट्⟫) thematischer Präsensstämme
+在古典梵语的祈使语气中，第一人称的形式是古老的虚拟式形式。吠陀语中的虚拟式主要是表达愿望的语气：“我们要走！”“让我们走吧！”
 
-### 47.2.1. Endungen des Imperativ an thematischen Präsensstämmen
-
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **Endungen** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām | <!-- TODO: Fallback translation -->
+::: grammar-box
+祈使语气由现在时词干构成。
 :::
-Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn ein Segenswunsch ausgedrückt werden soll: <!-- TODO: Fallback translation -->
+## 47.2. 祈使语气的构成（⟪लोट्⟫）主题现在时词干
 
-:::indent
-⟪भद्रो⟫ ⟪भवतात्⟫ "Mögest du glücklich sein!" "Er möge glücklich sein!" <!-- TODO: Fallback translation -->
+### 47.2.1. 主题现在时词干的祈使语气词尾
 
-⟪शुभं⟫ ⟪भवतु⟫ oder ⟪शुभं⟫ ⟪भवतात्⟫ "Möge es gut sein!" "Alles Gute!" <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| **词尾** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **第一人称** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
+| **第二人称** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
+| **第三人称** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
-### 47.2.2. Erste Präsensklasse (⟪भ्वादि⟫)
+注：¹第二和第三人称单数的词尾可以用 -tāt 代替，以表达祝福的愿望：
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪भू⟫ 1P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | &lt;⟪भवै⟫&gt; | &lt;⟪भवामहै⟫&gt; | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | &lt;⟪भवस्व⟫&gt; | &lt;⟪भवध्वम्⟫&gt; | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | &lt;⟪भ्वताम्⟫&gt; | &lt;⟪भवन्ताम्⟫&gt; | <!-- TODO: Fallback translation -->
+::: indent
+⟪भद्रो⟫ ⟪भवतात्⟫ “愿你幸福！”“愿他/她幸福！”
+
+⟪शुभं⟫ ⟪भवतु⟫ 或 ⟪शुभं⟫ ⟪भवतात्⟫ “愿一切安好！”“万事如意！”
 :::
-### 47.2.3. Sechste Präsensklasse (⟪तुदादि⟫)
+### 47.2.2. 第一现在时类（⟪भ्वादि⟫）
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪विश्⟫ 6P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | &lt;⟪विशै⟫&gt;:br(viś-a + ai) | &lt;⟪विशामहै⟫&gt; | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | &lt;⟪विशस्व⟫&gt; | &lt;⟪विशध्वम्⟫&gt; | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | &lt;⟪विशताम्⟫&gt; | &lt;⟪विशन्ताम्⟫&gt; | <!-- TODO: Fallback translation -->
-::::::media
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| **⟪भू⟫ 第一人称** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **第一人称** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \&lt;⟪भवै⟫\&gt; | \&lt;⟪भवामहै⟫\&gt; |
+| **第二人称** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \&lt;⟪भवस्व⟫\&gt; | \&lt;⟪भवध्वम्⟫\&gt; |
+| **第三人称** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \&lt;⟪भ्वताम्⟫\&gt; | \&lt;⟪भवन्ताम्⟫\&gt; |
+:::
+### 47.2.3. 第六现在时类（⟪तुदादि⟫）
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| **⟪विश्⟫ 6P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **第一人称** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \&lt;⟪विशै⟫\&gt;:br(viś-a + ai) | \&lt;⟪विशामहै⟫\&gt; |
+| **第二人称** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \&lt;⟪विशस्व⟫\&gt; | \&lt;⟪विशध्वम्⟫\&gt; |
+| **第三人称** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \&lt;⟪विशताम्⟫\&gt; | \&lt;⟪विशन्ताम्⟫\&gt; |
+:::: media
 ![](/images/lekt4702.webp)
-Abb.: ⟪प्रविशत⟫
-Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
-(Bildquelle: [Details](/licenses#lekt4702)) <!-- TODO: Fallback translation -->
+图：⟪प्रविशत⟫
+哈努曼神庙，德里 = ⟪हनुमान्⟫ ⟪मन्दिर⟫，⟪दिल्ली⟫ / دہلی
+（图片来源：[详情](/zh-CN/licenses#lekt4702)）
+::::
 :::
-### 47.2.4. Vierte Präsensklasse (⟪दिवादि⟫)
+### 47.2.4. 第四现在时类（⟪दिवादि⟫）
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪नृत्⟫ 4P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | &lt;⟪नृत्यै⟫&gt; | &lt;⟪नृत्यामहै⟫&gt; | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | &lt;⟪नृत्यस्व⟫&gt; | &lt;⟪नृत्यध्वम्⟫&gt; | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | &lt;⟪नृत्यताम्⟫&gt; | &lt;⟪नृत्यन्ताम्⟫&gt; | <!-- TODO: Fallback translation -->
-::::::media
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| **⟪नृत्⟫ 4P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **第一人称** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \&lt;⟪नृत्यै⟫\&gt; | \&lt;⟪नृत्यामहै⟫\&gt; |
+| **第二人称** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \&lt;⟪नृत्यस्व⟫\&gt; | \&lt;⟪नृत्यध्वम्⟫\&gt; |
+| **第三人称** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \&lt;⟪नृत्यताम्⟫\&gt; | \&lt;⟪नृत्यन्ताम्⟫\&gt; |
+:::: media
 ![](/images/lekt4701.webp)
-Abb.: ⟪नृत्यत⟫
-(Bildquelle: [Details](/licenses#lekt4701)) <!-- TODO: Fallback translation -->
+图：⟪नृत्यत⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4701)）
+::::
 :::
-### 47.2.5. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative
+### 47.2.5. 第十现在时类（⟪चुरादि⟫）与使动语态
 
-⟪चुर्⟫ 10U <!-- TODO: Fallback translation -->
+⟪चुर्⟫ 10U
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **第一人称** :br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
+| **第二人称** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
+| **第三人称** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
 :::
-### 47.2.6. Passiv
+### 47.2.6. 被动语态
 
-⟪ईक्ष्⟫ 1Ā <!-- TODO: Fallback translation -->
+⟪ईक्ष्⟫ 1Ā
 
-:::grammar-box
-| | ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **第一人称** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
+| **第二人称** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
+| **第三人称** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::
-## 47.3. Übung
+## 47.3. 练习
 
-A) Übersetzen Sie: <!-- TODO: Fallback translation -->
+A) 翻译：
 
-⟪यदि⟫ ⟪गच्छसि⟫ ⟪गच्छ⟫ ⟪त्वम्⟫ ⟪।⟫ ⟪अहं⟫ ⟪न⟫ ⟪गमिष्यामि⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪यदि⟫ ⟪गच्छसि⟫ ⟪गच्छ⟫ ⟪त्वम्⟫ ⟪।⟫ ⟪अहं⟫ ⟪न⟫ ⟪गमिष्यामि⟫ ⟪॥१॥⟫
 
-⟪आर्य⟫ ⟪प्रेक्षस्व⟫ ⟪मे⟫ ⟪परिभवम्⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪आर्य⟫ ⟪प्रेक्षस्व⟫ ⟪मे⟫ ⟪परिभवम्⟫ ⟪॥२॥⟫
 
-⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तव्यं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तव्यं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt4703.webp)
-Abb.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
-(Bildquelle: [Details](/licenses#lekt4703)) <!-- TODO: Fallback translation -->
+图：⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4703)）
 :::
-⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫
 
-⟪प्रसीदत्वार्यः⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪प्रसीदत्वार्यः⟫ ⟪॥५॥⟫
 
-⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫ ⟪॥६॥⟫
 
-:::media
+::: media
 ![](/images/lekt4704.webp)
-Abb.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
-(Bildquelle: [Details](/licenses#lekt4704)) <!-- TODO: Fallback translation -->
+图：⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4704)）
 :::
-⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫
 
-⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥८॥⟫
 
-⟪प्रश्नः⟫ : ⟪कस्मात्त्वं⟫ ⟪भीतः⟫ ⟪।⟫ ⟪प्रतिवचनम्⟫ : ⟪तस्य⟫ ⟪रामस्य⟫ ⟪गुणेभ्यः⟫ ⟪।⟫ ⟪प्रष्टा⟫ : ⟪के⟫ ⟪तस्य⟫ ⟪गुणा⟫ ⟪यस्य⟫ ⟪गृहं⟫ ⟪प्रविश्याशितव्यमपि⟫ ⟪नास्ति⟫ ⟪॥९॥⟫ <!-- TODO: Fallback translation -->
+⟪प्रश्नः⟫ ：⟪कस्मात्त्वं⟫ ⟪भीतः⟫ ⟪।⟫ ⟪प्रतिवचनम्⟫ ：⟪तस्य⟫ ⟪रामस्य⟫ ⟪गुणेभ्यः⟫ ⟪।⟫ ⟪प्रष्टा⟫ ：⟪के⟫ ⟪तस्य⟫ ⟪गुणा⟫ ⟪यस्य⟫ ⟪गृहं⟫ ⟪प्रविश्याशितव्यमपि⟫ ⟪नास्ति⟫ ⟪॥९॥⟫
 
-⟪तवैव⟫ ⟪हस्ते⟫ ⟪शस्त्रं⟫ ⟪तिष्ठतु⟫ ⟪॥१०॥⟫ <!-- TODO: Fallback translation -->
+⟪तवैव⟫ ⟪हस्ते⟫ ⟪शस्त्रं⟫ ⟪तिष्ठतु⟫ ⟪॥१०॥⟫
 
-⟪भवति⟫ ⟪न⟫ ⟪ते⟫ ⟪परिभवस्तत्रभवतो⟫ ⟪रामस्य⟫ ⟪निवेदयितव्यः⟫ ⟪॥११॥⟫ <!-- TODO: Fallback translation -->
+⟪भवति⟫ ⟪न⟫ ⟪ते⟫ ⟪परिभवस्तत्रभवतो⟫ ⟪रामस्य⟫ ⟪निवेदयितव्यः⟫ ⟪॥११॥⟫
 
-B.) Übersetzen Sie ins Sanskrit (verwenden Sie den Imperativ): <!-- TODO: Fallback translation -->
+B.) 翻译成梵文（使用祈使语气）：
 
-1\. Ich will erhalten werden. <!-- TODO: Fallback translation -->
+1\. 我希望被获得。
 
-2\. Er soll zufrieden sein. <!-- TODO: Fallback translation -->
+2\. 他应当知足。
 
-3\. Wir wollen rufen. <!-- TODO: Fallback translation -->
+3\. 我们要呼喊。
 
-4\. Ich will mich dir (⟪चतुर्थ्या⟫) beugen. <!-- TODO: Fallback translation -->
+4\. 我愿向你（⟪चतुर्थ्या⟫）俯首。
 
-5\. Diese Tat soll getan werden. <!-- TODO: Fallback translation -->
+5\. 此行为应当被执行。
 
-6\. Sie sollen schlafen (Passivkonstruktion). <!-- TODO: Fallback translation -->
+6\. 他们应当睡觉（被动结构）。
 
-7\. Mein Sohn strebe nach Reichtum! <!-- TODO: Fallback translation -->
+7\. 我的儿子啊，追求财富吧！
 
-8\. Beginnt das Studium! <!-- TODO: Fallback translation -->
+8\. 开始学习吧！
 
-9\. Gebt (⟪प्र⟫-⟪यम्⟫) den Ahnvätern Reisbällchen! <!-- TODO: Fallback translation -->
+9\. （⟪प्र⟫-⟪यम्⟫）向祖先供奉米饭团！
 
-10\. Sie sollen sich freuen! <!-- TODO: Fallback translation -->
+10\. 你们应当欢喜！
 
-11\. Ich will auf die Welt hinabblicken. <!-- TODO: Fallback translation -->
+11\. 我将俯视世间。
 
-12\. Wir wollen nach Benares gehen (⟪पद्⟫). <!-- TODO: Fallback translation -->
+12\. 我们欲前往瓦拉纳西（⟪पद्⟫）。
 
-13\. Sie (pl.) sollen als Opferherren die Götter mit einem Opfer verehren. <!-- TODO: Fallback translation -->
+13\. 他们（复数）应作为祭主以祭祀敬奉诸神。
 
-14\. Singe ein Loblied! <!-- TODO: Fallback translation -->
+14\. 唱一首赞歌！
 
-15\. Söhne sollen mir geboren werden! <!-- TODO: Fallback translation -->
+15\. 我要生下儿子们！
 
-16\. Ich will dir mein Haus zeigen. <!-- TODO: Fallback translation -->
+16\. 我要向你展示我的房子。
 
-17\. Gehe von mir weg! <!-- TODO: Fallback translation -->
+17\. 从我这里离开！
 
-18\. Er soll befreit werden! <!-- TODO: Fallback translation -->
+18. 他应当被释放！
 
-19\. Ich will deine Gattin behüten. <!-- TODO: Fallback translation -->
+19. 我要守护你的妻子。
 
-20\. Stirb, Feind! <!-- TODO: Fallback translation -->
+20. 死吧，敌人！
 
-21\. Kämpft! <!-- TODO: Fallback translation -->
+21. 战斗！
 
-22\. Sie (pl.) mögen befehlen. <!-- TODO: Fallback translation -->
+22\. Sie（复数）可以命令。
 
-23\. Wir wollen in deinem Haus wohnen. <!-- TODO: Fallback translation -->
+23\. 我们想住在你的家里。
 
-24\. So soll es geschehen! <!-- TODO: Fallback translation -->
+24\. 事情应当如此发生！
 
-25\. Schlage das Pferd! <!-- TODO: Fallback translation -->
+25\. 打这匹马！
 
-26\. Sie (pl.) sollen umherirren. <!-- TODO: Fallback translation -->
+26\. 他们（复数）应当四处流浪。
 
-27\. Berauscht euch! <!-- TODO: Fallback translation -->
+27\. 你们要沉醉！
 
-28\. Das Pferd soll die Last ziehen. <!-- TODO: Fallback translation -->
+28\. 马应当拉载重物。
 
-29\. Wir wollen die Welten in Ordnung bringen. <!-- TODO: Fallback translation -->
+29\. 我们要使诸界井然有序。
 
-30\. Trinke den Trank! <!-- TODO: Fallback translation -->
+30\. 饮下这杯饮品！
 
-31\. Denke! <!-- TODO: Fallback translation -->
+31\. 思考！
 
-32\. Sie (pl.) sollen besiegt werden! <!-- TODO: Fallback translation -->
+32\. 他们（复数）应被征服！
 
-33\. Wir wollen von dir geführt werden. <!-- TODO: Fallback translation -->
+33\. 我们愿由你引导。
 
-34\. Es möge zum Glück gereichen (geschehen)! (Segenswunsch) <!-- TODO: Fallback translation -->
+34\. Es möge zum Glück gereichen (geschehen)! (Segenswunsch)
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt4702:** Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Bildquelle: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Zugriff am 2009-01-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt4702:** 哈努曼神庙，德里 = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [图片来源：Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/)。-- 访问日期：2009-01-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (署名，禁止演绎)]
 
-**lekt4701:** [Bildquelle: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Zugriff am 2009-01-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt4701:** [图片来源：lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/)。-- 访问日期：2009-01-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (署名，非商业性使用，相同方式共享)]
 
-**lekt4703:** [Bildquelle: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt4703:** [图片来源：said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de) (署名)]
 
-**lekt4704:** [Bildquelle: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt4704:** [图片来源：imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (署名，非商业性使用，禁止演绎)]
 
 :::

@@ -1,76 +1,77 @@
 ---
-title: Leçon 42
-subtitle: "Tribus en -ṛ"
+title: Lektion 42
+subtitle: "Stämme auf -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 42
+# Lektion 42
 
-## 42.1. Les tribus en -ṛ
+## 42.1. Stämme auf -ṛ
 
-### 42.1.1. Tribus avec grade long dans le thème fort
+### 42.1.1. Tribus avec degré allongé dans le thème fort
 
-:::grammar-box
+::: grammar-box
 Tous les masculins en -ṛ à l'exception des termes de parenté mentionnés en 1.3. Appartiennent également à cette catégorie les termes de parenté suivants :
 
-*   **⟪नप्तृ⟫** m. "petit-fils"
-*   **⟪भर्तृ⟫** m. "époux (littér. 'celui qui entretient')"
+*   **⟪नप्तृ⟫** m. « Petit-fils »
+*   **⟪भर्तृ⟫** m. « Époux (littér. « celui qui préserve ») »
 
-La majorité des noms appartenant à cette catégorie sont des noms d'agent formés avec le suffixe ⟪कृत्⟫ -⟪तृ⟫.
+La majorité des noms appartenant à cette catégorie sont des noms d’agent formés avec le suffixe -⟪तृ⟫ कृत्.
 
-**Formation :**
+**Éducation :**
 
 *   **Thème fort : -ār**
 *   **Thème faible**
     *   **devant voyelle : -r**
     *   **devant consonne : -ṛ**
 
-Remarquez les formations irrégulières (marquées en **rouge** ) !
+Veuillez noter les formations irrégulières (marquées en **rouge**) !
 :::
 Masculin :
 
-:::indent
-**⟪दातृ⟫** m. "donneur"
-::::::grammar-box
+::: indent
+**⟪दातृ⟫** m. "Donneur"
+:::
+::: grammar-box
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :--- | :--- |
-| ⟪प्रथमा⟫ | ***⟪दाता⟫*** | ⟪दातारस्⟫ |
-| ⟪द्वितीया⟫ | ⟪दातारम्⟫ | ***⟪दातॄन्⟫*** |
+| ⟪प्रथमा⟫ | *⟪दाता⟫* | ⟪दातारस्⟫ |
+| ⟪द्वितीया⟫ | ⟪दातारम्⟫ | *⟪दातॄन्⟫* |
 | ⟪तृतीया⟫ | ⟪दात्रा⟫ | ⟪दातृभिस्⟫ |
 | ⟪चतुर्थी⟫ | ⟪दात्रे⟫ | ⟪दातृभ्यस्⟫ |
-| ⟪पञ्चमी⟫ | ***⟪दातुस्⟫*** | ⟪दातृभ्यस्⟫ |
-| ⟪षष्ठी⟫ | ***⟪दातुस्⟫*** | ***⟪दातॄणाम्⟫*** |
-| ⟪सप्तमी⟫ | ***⟪दातरि⟫*** | ⟪दातृषु⟫ |
+| ⟪पञ्चमी⟫ | *⟪दातुस्⟫* | ⟪दातृभ्यस्⟫ |
+| ⟪षष्ठी⟫ | *⟪दातुस्⟫* | *⟪दातॄणाम्⟫* |
+| ⟪सप्तमी⟫ | *⟪दातरि⟫* | ⟪दातृषु⟫ |
 
 :::
 Pour l'explication des formations irrégulières, voir Thumb-Hauschild I,2 p. 76-81
 
 Féminin :
 
-:::indent
+::: indent
 **⟪स्वसृ⟫** f. se décline comme **⟪दातृ⟫** à l'exception de l'accusatif (**⟪द्वितीया⟫**) pluriel : ***⟪स्वसॄस्⟫***.
 :::
-### 42.1.2. Formation nominale : Suffixe ⟪कृत्⟫ -⟪तृ⟫
+### 42.1.2. Formation nominale : suffixe -⟪तृ⟫ de ⟪कृत्⟫
 
-:::grammar-box
-Avec le suffixe très fréquent ⟪कृत्⟫ -⟪तृ⟫, on forme des noms d'agent (désignations pour le ⟪कर्तृ⟫) à partir de presque toutes les racines ou les formes causatives.
+::: grammar-box
+Avec le suffixe très fréquent ⟪कृत्⟫ -⟪तृ⟫, on forme des noms d'agent (désignations pour le ⟪कर्तृ⟫) à partir de presque toutes les racines ou les stems causatifs.
 
-**Formation :**
+**Éducation :**
 
-*   **racine au degré plein + -tṛ**
+*   **racine de haut niveau + -tṛ**
 
 ou
 
-*   **racine au degré plein / forme causative + i + tṛ**
+*   **racine de haut degré / thème causatif + i + tṛ**
 :::
 Exemples :
 
-:::indent
-**⟪कर्तृ⟫** m. « Fauteur »
+::: indent
+**⟪कर्तृ⟫** m. « Auteur »
 
 **⟪जेतृ⟫** m. « Vainqueur »
 
@@ -78,57 +79,61 @@ Exemples :
 
 **⟪रक्षितृ⟫** m. « Protecteur »
 
-**⟪बोधयितृ⟫** m. « Réveilleur »
-::::::media
+**⟪बोधयितृ⟫** m. « Réveil »
+:::
+::: media
 ![lekt4201.jpg](/images/lekt4201.jpg)
 Fig. : ⟪अयं⟫ ⟪बोधयिता⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4201))
-::::::grammar-box
-Les neutres rares en -⟪तृ⟫ ont une déclinaison partiellement autonome (cf. Kielhorn, Grammatik § 148).
-
-Le féminin des stems en -⟪तृ⟫ se termine par **-⟪त्री⟫** (comme **⟪देवी⟫**).
-
-p. ex. **⟪कर्त्री⟫** f. « Fauteuse »
 :::
-### 42.1.3. Les tribus avec un grade supérieur dans la racine forte
 
-:::grammar-box
-Cela comprend les termes de parenté suivants :
+::: grammar-box
+Les neutres rares en -⟪तृ⟫ ont une déclinaison partiellement autonome (v. Kielhorn, Grammaire § 148).
 
-*   **⟪पितृ⟫** m. "Père"
-*   **⟪मातृ⟫** f. "Mère"
-*   **⟪दुहितृ⟫** f. "Fille"
-*   **⟪भ्रातृ⟫** m. "Frère"
-*   **⟪देवृ⟫** m. "Frère du mari (beau-frère de la femme)"
-*   **⟪यातृ⟫** f. "Femme du frère du mari"
-*   **⟪ननान्दृ⟫** f. "Sœur du mari (belle-sœur de la femme)"
+Le féminin des stems en -⟪तृ⟫ est **-⟪त्री⟫** (comme **⟪देवी⟫**).
 
-**Formation :**
+par exemple, **⟪कर्त्री⟫** f. « auteure »
+:::
+### 42.1.3. Tribus avec grade élevé dans le thème fort
 
-*   **racine forte : -ar**
-*   **racine faible**
+::: grammar-box
+Cela inclut les appellations de parenté suivantes :
+
+*   **⟪पितृ⟫** m. « Père »
+*   **⟪मातृ⟫** f. « Mère »
+*   **⟪दुहितृ⟫** f. « Fille »
+*   **⟪भ्रातृ⟫** m. « Frère »
+*   **⟪देवृ⟫** m. « Frère du mari (beau-frère de la femme) »
+*   **⟪यातृ⟫** f. « Femme du frère du mari »
+*   **⟪ननान्दृ⟫** f. « Sœur du mari (belle-sœur de la femme) »
+
+**Éducation :**
+
+*   **radical fort : -ar**
+*   **radical faible**
     *   **devant voyelle : -r**
     *   **devant consonne : -ṛ**
 :::
 Exemples :
 
-:::indent
-**⟪पितृ⟫** m. "Père"
+::: indent
+**⟪पितृ⟫** m. « Père »
 
-**⟪मातृ⟫** f. "Mère"
-::::::grammar-box
+**⟪मातृ⟫** f. « Mère »
+:::
+::: grammar-box
 
 | | ⟪पुंस्⟫ (⟪एकवचनम्⟫) | ⟪पुंस्⟫ (⟪बहुवचनम्⟫) | ⟪स्त्री⟫ (⟪एकवचनम्⟫) | ⟪स्त्री⟫ (⟪बहुवचनम्⟫) |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪प्रथमा⟫ | ⟪पिता⟫ | ***⟪पितरस्⟫*** | ⟪माता⟫ | ***⟪मातरस्⟫*** |
-| ⟪द्वितीया⟫ | ***⟪पितरम्⟫*** | ⟪पितॄन्⟫ | ***⟪मातरम्⟫*** | ⟪मातॄस्⟫ |
-| Reste comme ⟪दातृ⟫ | ← | ← | ← | ← |
+| ⟪प्रथमा⟫ | ⟪पिता⟫ | *⟪पितरस्⟫* | ⟪माता⟫ | *⟪मातरस्⟫* |
+| ⟪द्वितीया⟫ | *⟪पितरम्⟫* | ⟪पितॄन्⟫ | *⟪मातरम्⟫* | ⟪मातॄस्⟫ |
+| Rest wie ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
 ### 42.1.4. Les tribus en -ṛ dans les composés
 
-:::grammar-box
-En tant que premier membre d'un composé, les noms en -ṛ se présentent naturellement dans leur forme faible, c'est-à-dire :
+::: grammar-box
+En tant que premier membre d'un composé, les noms en -ṛ se trouvent naturellement dans leur thème faible, c'est-à-dire
 
 *   **devant une consonne : -ṛ**
 *   **devant une voyelle : -r**
@@ -141,7 +146,7 @@ En tant que premier membre d'un composé, les noms en -ṛ se présentent nature
 
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : s'abstenir de, prendre ses distances, s'éloigner, rester, se tenir debout
 
-:::indent
+::: indent
 PPP ⟪अवस्थित⟫ 3 : debout, présent
 :::
 ⟪पुरा⟫ Adv. : autrefois, auparavant
@@ -164,7 +169,7 @@ PPP ⟪अवस्थित⟫ 3 : debout, présent
 
 ⟪चल्⟫ 1P ⟪चलति⟫ : entrer en mouvement
 
-:::indent
+::: indent
 Fut. ⟪चलिष्यति⟫  
 Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
@@ -191,7 +196,7 @@ Inf. ⟪चलितुम्⟫
 
 ⟪शंस्⟫ 1P ⟪शंसति⟫ : louer, ordonner
 
-:::indent
+::: indent
 Fut. ⟪शंसिष्यति⟫  
 Perf. I ⟪शशंस⟫  
 Pass. ⟪शस्यते⟫  
@@ -202,65 +207,65 @@ Inf. ⟪शंसितुम्⟫
 :::
 ⟪हृदय⟫ n. : cœur
 
-### 42.2.1. Certaines désignations de parenté
+### 42.2.1. Einige Verwandtschaftsbezeichnungen
 
-:::media
+::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
 Fig. : ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4202))
 :::
-⟪भर्तृ⟫ m. (de ⟪भृ⟫ "porter, maintenir") : celui qui maintient, celui qui nourrit, époux
+⟪भर्तृ⟫ m. (de ⟪भृ⟫ "porter, soutenir") : celui qui soutient, celui qui nourrit, époux
 
-⟪भार्या⟫ f., ⟪जाया⟫ f. ⟪पत्नी⟫ f. : épouse (⟪भार्या⟫ = gérondif de ⟪भृ⟫ : celle qui doit être portée, celle qui doit être maintenue, ayant droit à l'entretien)
+⟪भार्या⟫ f., ⟪जाया⟫ f. ⟪पत्नी⟫ f. : épouse (⟪भार्या⟩ = gérondif de ⟪भृ⟩ : à porter, à maintenir, ayant droit à l'entretien)
 
-⟪पितृ⟫ m. : père
+⟪पितृ⟫ : m. Padre
 
-⟪पितृ⟫ m. Pluriel : les ancêtres masculins décédés, c'est-à-dire
+⟪पितृ⟫ m. Pluriel : les ancêtres mâles décédés, c.-à-d.
 
-1.  père, grand-père, arrière-grand-père
-2.  les ancêtres de l'humanité
+1.  ⟪अनेक⟫ 3 : nombreux (pas quelques-uns)
+2.  ⟪कुमार⟫ m. : prince
 
-Des rites sont accomplis pour les deux, appelés ⟪श्राद्ध⟫ n. Chaque jour, on offre de l'eau et, à certaines occasions, des boulettes de riz ou de farine (⟪पिण्ड⟫ m. "boulettes") à trois ancêtres masculins respectivement (du côté paternel et maternel). Ainsi, les ancêtres reçoivent de la nourriture. La réalisation de cette cérémonie est l'une des raisons pour lesquelles un homme doit engendrer un fils. Ceux qui sont liés par cette offrande de ⟪पिण्ड⟫ sont appelés ⟪सपिण्ड⟫ (ceux auxquels ⟪पिण्ड⟫ est commun). ⟪सपिण्ड⟫ englobe six générations : trois en arrière (jusqu'à l'arrière-grand-père) et trois en avant (jusqu'au petit-fils du fils).
+Les deux rites sont accomplis, appelés ⟪श्राद्ध⟫ n. Chaque jour, on offre de l’eau et, à certaines occasions, des boulettes de riz ou de farine (⟪पिण्ड⟫ m. « boulettes ») à trois ancêtres mâles (du côté paternel et maternel). Ainsi, les ancêtres reçoivent de la nourriture. L’accomplissement de cette cérémonie est l’une des raisons pour lesquelles un homme doit engendrer un fils. Ceux qui sont liés par cette ⟪पिण्ड⟫ sont appelés ⟪सपिण्ड⟫ (ceux avec qui ⟪पिण्ड⟫ est partagé). ⟪सपिण्ड⟫ englobe six générations : trois en arrière (jusqu’au grand-père du grand-père) et trois en avant (jusqu’au petit-fils du petit-fils).
 
-⟪तात⟫ m. : papa
+⟪तात⟫ m.: Pecché
 
-⟪मातृ⟫ f. : mère
+⟪मातृ⟫ f. : Mère
 
-⟪पुत्र⟫ m. : fils
+⟪पुत्र⟫ m. :  Fils
 
 ⟪दुहितृ⟫ f. ⟪सुता⟫ f. : fille
 
-⟪नप्तृ⟫ m. : petit-fils
+⟪नप्तृ⟫ m. : Petit-fils
 
-⟪भ्रातृ⟫ m. : frère
+⟪भ्रातृ⟫ m. : Frère
 
-⟪स्वसृ⟫ f., ⟪भगिनी⟫ f. : sœur
+⟪स्वसृ⟫ f., ⟪भगिनी⟫ f. : Sœur
 
-⟪देवृ⟫ m. : frère du mari (beau-frère de la femme)
+⟪देवृ⟫ : m. : Frère du mari (beau-frère de la femme)
 
-⟪यातृ⟫ m. : épouse du frère du mari
+⟪यातृ⟫ m. : belle-sœur (épouse du frère du mari)
 
-⟪ननान्दृ⟫ f. : sœur de l'homme
+⟪ननान्दृ⟫ f. : Sœur de l'homme
 
-⟪श्वसुर⟫ f. : beau-père (à l'époque ancienne : seulement de la femme)
+⟪श्वसुर⟫ f. : sueur (en ancien temps : uniquement de la femme)
 
-⟪श्वस्रू⟫ f. : belle-mère (la déclinaison suivra plus tard)
+⟪श्वस्रू⟫ : f. : belle-mère (la déclinaison est présentée plus loin)
 
-⟪मातुल⟫ m. : oncle maternel (frère de la mère)
+⟪मातुल⟫ m. : Oncle maternel
 
-⟪मातुलानी⟫ f. : épouse de l'oncle maternel (femme de l'oncle maternel)
+⟪मातुलानी⟫ f. : belle-sœur paternelle (épouse du frère maternel)
 
-⟪पितृव्य⟫ m. : oncle paternel (frère du père)
+⟪पितृव्य⟫ m. : Oncle paternel
 
-⟪पितामह⟫ m. : grand-père paternel
+⟪पितामह⟫ m.: Grand-père paternel
 
-⟪पितामही⟫ f. : grand-mère paternelle
+⟪पितामही⟫ f. : Grand-mère paternelle
 
-⟪मातामह⟫ m. : grand-père maternel
+⟪मातामह⟫ : m. : grand-père maternel
 
-⟪मातामही⟫ f. : grand-mère maternelle
+⟪मातामही⟫ f. : Grand-mère maternelle
 
-## 42.3. Exercice
+## 42.3. Übung
 
 Traduisez :
 
@@ -268,14 +273,14 @@ Traduisez :
 
 ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥२॥⟫
 
-:::media
+::: media
 ![lekt4203.jpg](/images/lekt4203.webp)
 Fig. : ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4203))
 :::
 ⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![lekt4204.jpg](/images/lekt4204.webp)
 Fig. : ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4204))
@@ -292,41 +297,41 @@ Fig. : ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 
 ⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥९॥⟫
 
-## 42.4. Exercice de traduction
+## 42.4. Übersetzungsübung
 
-***⟪सीता⟫***⟪विवाहः⟫
+*⟪सीता⟫*⟪विवाहः⟫
 
-⟪पुरा⟫ ***⟪मिथिलायां⟫*** ***⟪जनको⟫*** ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
+⟪पुरा⟫ *⟪मिथिलायां⟫* *⟪जनको⟫* ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
 
-⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ ***⟪गुरुतरं⟫*** ⟪किमपि⟫ ***⟪धनुरा⟫***⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
+⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ *⟪गुरुतरं⟫* ⟪किमपि⟫ *⟪धनुरा⟫*⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
 
-⟪तां⟫ ⟪तस्य⟫ ⟪प्रतिज्ञां⟫ ⟪श्रुत्वा⟫ ***⟪शतशो⟫*** ⟪राजकुमाराः⟫ ⟪समाजग्मुः⟫ ⟪।⟫ ⟪परं⟫ ⟪नैको⟫ ⟪ऽपि⟫ ⟪तेषां⟫ ⟪तद्धनुश्चलयितुमपि⟫ ⟪शशाक⟫ ⟪।⟫ ***⟪लङ्का⟫***⟪धिपती⟫ ***⟪रावणो⟫*** ⟪ऽपि⟫ ⟪साटोपं⟫ ⟪समेत्य⟫ ⟪सलज्जं⟫ ⟪प्रतिनिवृत्त⟫ ⟪इति⟫ ⟪ज्ञायते⟫ ⟪॥⟫
+⟪तां⟫ ⟪तस्य⟫ ⟪प्रतिज्ञां⟫ ⟪श्रुत्वा⟫ *⟪शतशो⟫* ⟪राजकुमाराः⟫ ⟪समाजग्मुः⟫ ⟪।⟫ ⟪परं⟫ ⟪नैको⟫ ⟪ऽपि⟫ ⟪तेषां⟫ ⟪तद्धनुश्चलयितुमपि⟫ ⟪शशाक⟫ ⟪।⟫ *⟪लङ्का⟫*⟪धिपती⟫ *⟪रावणो⟫* ⟪ऽपि⟫ ⟪साटोपं⟫ ⟪समेत्य⟫ ⟪सलज्जं⟫ ⟪प्रतिनिवृत्त⟫ ⟪इति⟫ ⟪ज्ञायते⟫ ⟪॥⟫
 
-⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ ***⟪ऽयोध्या⟫***⟪धिपते⟫***⟪र्दशरथस्य⟫*** ⟪पुत्रः⟫ ⟪श्री⟫***⟪रामः⟫*** ***⟪सलक्ष्मणो⟫*** ***⟪विश्वामित्रेण⟫*** ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫***⟪रामो⟫*** ⟪महर्षेर्⟫***⟪विश्वामित्र⟫***⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
+⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ *⟪ऽयोध्या⟫*⟪धिपते⟫*⟪र्दशरथस्य⟫* ⟪पुत्रः⟫ ⟪श्री⟫*⟪रामः⟫* *⟪सलक्ष्मणो⟫* *⟪विश्वामित्रेण⟫* ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫*⟪रामो⟫* ⟪महर्षेर्⟫*⟪विश्वामित्र⟫*⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
 
-:::media
+::: media
 ![lekt4208.jpg](/images/lekt4208.webp)
 Fig. : ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4208))
 :::
 ⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
 
-⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ ***⟪सीतारामयोर्वि⟫***⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
+⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ *⟪सीतारामयोर्वि⟫*⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
 
 (⟪संस्कृतप्रथमादर्शे⟫)
 
-Explication des expressions mises en évidence en **rouge** :
+Explication des expressions mises en **rouge** :
 
 ⟪सीता⟫ f. nom propre : fille du roi ⟪जनक⟫ de ⟪विदेह⟫. Elle était sortie de la terre lorsque le roi labourait le champ, d'où son nom : ⟪सीता⟫ f. "sillon du champ"
 
-:::media
+::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
 Fig. : ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4205))
 :::
 ⟪मिथिला⟫ f. nom propre : capitale de ⟪विदेह⟫
 
-:::media
+::: media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Fig. : ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4206))
@@ -343,7 +348,7 @@ Fig. : ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य
 
 ⟪रावण⟫ m. noms propres ; souverain de ⟪लङ्का⟫, souverain des ⟪राक्षस⟫.
 
-:::media
+::: media
 ![lekt4207.jpg](/images/lekt4207.webp)
 Fig. : ⟪रावणः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4207))
@@ -360,7 +365,7 @@ Fig. : ⟪रावणः⟫
 
 ⟪सीतारामयोस्⟫ Gén.Loc.Dual de ⟪सीताराम⟫
 
-:::deleteme-box
+::: deleteme-box
 
 * **Fig. lekt4201** : ⟪अयं⟫ ⟪बोधयिता⟫. (Source de l'image : Wikipédia. Domaine public)
 * **Fig. lekt4202** : ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. Le Diwan I Khas, ou Salle des audiences privées au Lal Qila (Fort Rouge) à Delhi. (Source de l'image : Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Consulté le 2009-01-04. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique))
@@ -370,5 +375,4 @@ Fig. : ⟪रावणः⟫
 * **Fig. lekt4206** : Emplacement de ⟪मिथिला⟫ et ⟪विदेह⟫, ⟪अयोध्या⟫ et ⟪कोसल⟫. (Source de l'image : JIJITH NR / Wikipédia. Licence GNU FD)
 * **Fig. lekt4207** : ⟪रावणः⟫. Masque de danse Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Source de l'image : Manohara Upadhya / Wikipédia. Licence GNU FD)
 * **Fig. lekt4208** : ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Image de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Source de l'image : Wikipédia. Domaine public)
-
 :::

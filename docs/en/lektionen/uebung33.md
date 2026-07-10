@@ -28,7 +28,7 @@ A) Insert the corresponding forms of the words in parentheses into the following
 
 ⟪रामो⟫ ⟪धेनवे⟫ ⟪ऽन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेन्वायन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेन्वा⟫ ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेनुभ्यो⟫ ⟪ऽन्नं⟫ ⟪ददाति⟫ ⟪॥⟫
 
-B) Insert the corresponding forms of the verbs specified in parentheses in the Indicative Present, Imperfect, and Optative:
+B) Insert the corresponding forms of the verbs specified in parentheses in the indicative present, imperfect, and optative:
 
 ⟪ब्राह्मनो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
 
@@ -84,13 +84,13 @@ Since Brahmins carry no burden, the servant of the Brahmin carried the burden ho
 
 ⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हीत्वा⟫ ⟪पनर्भवमैत्⟫ ⟪॥४॥⟫
 
-The Kṣatriya hero left his family with his son to fight. Since he was killed by the enemy in battle, he left his body and was reborn.
+The Kṣatriya hero left his family with his son to fight. Since he was killed by the enemy in battle, he abandoned his body and was reborn.
 
 ⟪क्षत्रियशूराः⟫ ⟪पुत्रानादाय⟫ ⟪योद्धुं⟫ ⟪कुलान्यजहुः⟫ ⟪।⟫ ⟪ते⟫ ⟪युद्धे⟫ ⟪शत्रुहत्वाच्छरीराणि⟫ ⟪हीत्वा⟫ ⟪पुनर्भवमायन्⟫ ⟪॥४॥⟫
 
 ⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
 
-Happiness bestowed even by the gods does not fulfill the desire for liberation from suffering. This desire is fulfilled only through liberating insight.
+Even happiness bestowed by the gods does not fulfill the wish for liberation from suffering. This wish is fulfilled only by liberating insight.
 
 ⟪देवदत्तान्यपि⟫ ⟪सुखानि⟫ ⟪दुःखमोक्षेष्तीर्न⟫ ⟪पिपुरति⟫ ⟪।⟫ ⟪ता⟫ ⟪इष्टयः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यन्ते⟫ ⟪॥५॥⟫
 
@@ -102,16 +102,18 @@ Before a sage who grants fearlessness to beings, beings do not fear, and he does
 
 ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-Intellectually limited beings perform meritorious deeds and refrain from evil because they fear hells and desire heavens. Those who have awakened to unlimited insight do not fear hells nor desire heavens. They have ended fear and desire.
+Those mentally restricted perform meritorious deeds and refrain from evil because they fear hells and desire heavens. Those who have awakened to unlimited insight do not fear hells and desire no heavens. They have ended fear and desire.
 
 ⟪मितमतिर्नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहाति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धो⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयात्स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येत्⟫ ⟪।⟫ ⟪स⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुणत्⟫ ⟪।⟫ ... ⟪बिभियात्⟫ ... ⟪॥७॥⟫
 
-::::media
+::: media
 ![](/images/uebung055.webp)
 Fig.: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
-(Image source: [Details](/en/licenses#uebung055))
-::::::media
+(Image source: [Details](/licenses#uebung055))
+:::
+
+::: media
 ![](/images/uebung056.webp)
 Fig.: ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
-(Image source: [Details](/en/licenses#uebung056))
+(Image source: [Details](/licenses#uebung056))
 :::

@@ -1,25 +1,25 @@
 ---
-title: Leçon 10
-subtitle: "La phrase passive (Instrumental de l'agent)"
+title: Lektion 10
+subtitle: "Den Passivsatz (Instrumentalis des Agens)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 10
+# Lektion 10
 
-:::deleteme-box
+::: deleteme-box
 **Dans cette leçon, vous apprendrez :**
 - La phrase passive (Instrumental de l'agent)
 - La déclinaison de l'instrumental (tṛtīyā)
 - La loi de cérébralisation pour -n- (sandhi lexical)
-- La formation du passif (yak) à l'indicatif présent
+- La formation de la voix passive (yak) à l'indicatif présent
 - Vocabulaire relatif aux sacrifices, à la vérité et aux rôles sociaux
 :::
 ## 10.1. La phrase passive
 
-:::grammar-box
+::: grammar-box
 **Schéma :**
 **(Agent - kartṛ - au cas instrumental (tṛtīyā)) - (objet direct - karman - au cas nominatif) - forme verbale passive**
 
@@ -27,32 +27,37 @@ p. ex. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪�
 
 Cette phrase est **totalement (!) synonyme** de la phrase :
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫
-::::::grammar-box
+:::
+
+::: grammar-box
 - Dans une phrase passive, l’agent (**kartṛ**) se trouve au **cas instrumental** (tṛtīyā f. « troisième terminaison casuelle »), et l’objet direct (**karman** n.) au **cas nominatif** (prathamā f.).
 - Les phrases passives où l’agent n’est pas exprimé ont généralement un sens impersonnel (« on ») :
   p. ex. **ijyate** = ⟪इज्यते⟫ « On sacrifie » (littéralement : « il est vénéré avec un sacrifice. »).
-::::::grammar-box
+:::
+
+::: grammar-box
 **Même si la phrase active correspondante contiendrait un accusatif (dvitīyā) de destination, celui-ci peut être mis au cas nominatif (prathamā) dans la phrase passive :**
 
 À la phrase active **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = « Rāma va au village. » correspondent les phrases passives :
 - **rāmeṇa grāmaṃ gamyate** = ⟪रामेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫
 - ou bien : **rāmeṇa grāmo gamyate** = ⟪रामेण⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫
-::::::grammar-box
+:::
+
+::: grammar-box
 **Les verbes intransitifs (verbes sans objet direct) ont fréquemment des constructions passives, surtout dans les formules de politesse :**
 - **praviśyatām** = ⟪प्रविश्यताम्⟫ = « Qu’on veuille bien entrer = Veuillez entrer = Entrez ! »
 - **niṣadyatām** = ⟪निषद्यताम्⟫ = « Qu’on veuille bien s’asseoir = Veuillez vous asseoir = Prenez place, s’il vous plaît »
 :::
 Les constructions passives en sanskrit sont extrêmement fréquentes : le passif est en effet plus facile à former que, par exemple, de nombreuses racines de présent.
 
-:::
+::: important
 important
 **Les phrases passives en sanskrit ne doivent généralement pas être rendues en allemand par une phrase passive, car le passif allemand a une fonction stylistique tout à fait différente.**
 :::
----
 
-## 10.2. L’Instrumental (tṛtīyā f. = ⟪तृतीया⟫ = « troisième désinence casuelle »)
+## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
 
-:::grammar-box
+::: grammar-box
 **Les désinences régulières de l’Instrumental (tṛtīyā) :**
 - **Singulier : -ā**
 - **Pluriel : -bhis**
@@ -61,85 +66,84 @@ important
 
 | | Instrumental Singulier | Instrumental Pluriel |
 | :--- | :--- | :--- |
-| **Féminins en -i** ::brśruti:br⟪श्रुति⟫ | **śruty-ā**:br⟪श्रुत्या⟫ | **śruti-bhis**:br⟪श्रुतिभिस्⟫ |
-| **Féminins en -ī** ::brdevī:br⟪देवी⟫ | **devy-ā**:br⟪देव्या⟫ | **devī-bhis**:br⟪देवीभिस्⟫ |
-| **Féminins en -u** ::brdhenu:br⟪धेनु⟫ | **dhenv-ā**:br⟪धेन्वा⟫ | **dhenu-bhis**:br⟪धेनुभिस्⟫ |
+| **Feminina auf -i**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
+| **Feminina auf -ī**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
+| **Feminina auf -u**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
 
 **Formations irrégulières (Singulier) :**
 
 | | Instrumental Singulier | Instrumental Pluriel |
 | :--- | :--- | :--- |
-| **Masculins en -i** ::brkavi:br⟪कवि⟫ | **kavi-n-ā**:br⟪कविना⟫ | **kavi-bhis**:br⟪कविभिस्⟫ |
-| **Masculins en -u** ::brpaśu:br⟪पशु⟫ | **paśu-n-ā**:br⟪पशुना⟫ | **paśu-bhis**:br⟪पशुभिस्⟫ |
-| **Féminins en -ā** ::brdevatā:br⟪देवता⟫ | **devat-ay-ā**:br⟪देवतया⟫ | **devatā-bhis**:br⟪देवताभिस्⟫ |
+| **Maskulina auf -i**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
+| **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
+| **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
 
 **Masculins et Neutres en -a (irréguliers au singulier et au pluriel) :**
 
 | | Instrumental Singulier | Instrumental Pluriel |
 | :--- | :--- | :--- |
-| **Masculins en -a** ::brdeva:br⟪देव⟫ | **devena**:br⟪देवेन⟫ | **devais**:br⟪देवैस्⟫ |
-| **Neutres en -a** ::brphala:br⟪फल⟫ | **phalena**:br⟪फलेन⟫ | **phalais**:br⟪फलैस्⟫ |
+| **Maskulina auf -a**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
+| **Neutra auf -a**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
 
 **Pronom interrogatif kim :**
 
 | | Instrumental Singulier | Instrumental Pluriel |
 | :--- | :--- | :--- |
-| **Masculin / Neutre** | **kena**:br⟪केन⟫ | **kais**:br⟪कैस्⟫ |
-| **Féminin** | **kayā**:br⟪कया⟫ | **kābhis**:br⟪काभिस्⟫ |
+| **Masculin / Neutre** | **kena** :br⟪केन⟫ | **kais** :br⟪कैस्⟫ |
+| **Féminin** | **kayā** :br⟪कया⟫ | **kābhis** :br⟪काभिस्⟫ |
 
 **Pronoms démonstratifs :**
 
 | Pronom | Genre | Instrumental Singulier | Instrumental Pluriel |
 | :--- | :--- | :--- | :--- |
-| **tad**:br« lui, elle, cela ; le, la, celui, celle, celui-ci, celle-ci » (mentionné):br⟪तद्⟫ | M/N | **tena**:br⟪तेन⟫ | **tais**:br⟪तैस्⟫ |
-| | F | **tayā**:br⟪तया⟫ | **tābhis**:br⟪ताभिस्⟫ |
-| **etad**:br« ce, cette, ceci » (très proche de l’interlocuteur):br⟪एतद्⟫ | M/N | **etena / enena**:br⟪एतेन⟫ / ⟪एनेन⟫ | **etais**:br⟪एतैस्⟫ |
-| | F | **etayā / enayā**:br⟪एतया⟫ / ⟪एनया⟫ | **etābhis**:br⟪एताभिस्⟫ |
-| **idam**:br« ce, cette, ceci » (proche):br⟪इदम्⟫ | M/N | **anena / enena**:br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis**:br⟪एभिस्⟫ |
-| | F | **anayā / enayā**:br⟪अनया⟫ / ⟪एनया⟫ | **ābhis**:br⟪आभिस्⟫ |
-::::::deleteme-box
+| **tad** :br"er, sie, es; der, die, das" (Erwähnte):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
+| | F | **tayā** :br⟪तया⟫ | **tābhis** :br⟪ताभिस्⟫ |
+| **etad** :br"dieser, diese, dieses" (dem Sprechenden sehr Nahe):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
+| | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
+| **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
+| | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
+:::
+
+::: deleteme-box
 À l’exception du Nominatif et de l’Accusatif, les formes des Neutres en -a, du pronom interrogatif et des pronoms démonstratifs sont identiques à celles des masculins correspondants.
 :::
----
 
-### 10.2.1. Sur l’usage de l’instrumental (tṛtīyā = ⟪तृतीया⟫)
+### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
 
-:::grammar-box
-**L’instrumental (tṛtīyā) répond principalement aux questions suivantes :**
-- **Par quoi ?**
-- **Avec quoi ?**
-- **Avec qui ?**
+::: grammar-box
+**Les désinences régulières de l’Instrumental (tṛtīyā) :**
+- **Singulier : -ā**
+- **Pluriel : -bhis**
+- **Formations régulières :**
 
-**Il est utilisé**
-1. **dans les phrases passives : l’agent (kartṛ) est à l’instrumental**
-2. **pour indiquer le moyen ou l’outil avec lequel quelque chose est accompli**
-3. **pour indiquer le chemin par lequel quelqu’un atteint une destination**
-4. **pour exprimer la connexion, l’union, l’accompagnement de**
-5. **avec les postpositions signifiant « ensemble avec, avec » ; par ex. saha = ⟪सह⟫ = « avec »**:brpar ex.:br**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = « conjointement avec le brāhmaṇa »
+**Il est**
+1. | **Féminins en -i** ::brśruti:br⟪श्रुति⟫ | **śruty-ā**:br⟪श्रुत्या⟫ | **śruti-bhis**:br⟪श्रुतिभिस्⟫ |
+2. | **Féminins en -ī** ::brdevī:br⟪देवी⟫ | **devy-ā**:br⟪देव्या⟫ | **devī-bhis**:br⟪देवीभिस्⟫ |
+3. | **Féminins en -u** ::brdhenu:br⟪धेनु⟫ | **dhenv-ā**:br⟪धेन्वा⟫ | **dhenu-bhis**:br⟪धेनुभिस्⟫ |
+4. **Formations irrégulières (Singulier) :**
+5. **avec les postpositions signifiant « avec, avec » ; par ex. saha = ⟪सह⟫ = « avec »** :brz.B.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = « conjointement avec le Brahmane »
 :::
-D’autres usages de l’instrumental (tṛtīyā) suivront plus tard.
+D'autres usages de l'instrumental (tṛtīyā) suivront plus tard.
 
----
+## 10.3. La loi dite de cérébralisation pour -n- (un sandhi de mot)
 
-## 10.3. La soi-disant loi de cérébralisation pour -n- (un sandha de mot)
-
-:::grammar-box
+::: grammar-box
 Un **-n-**, suivi d'une voyelle ou de **n, m, y, v**, est remplacé par **-ṇ-**, lorsque **ṛ, ṝ, r, ṣ** précèdent le **-n-** dans le mot, ou qu'aucun autre son que des voyelles, des gutturales, des labiales, **y, v, h** ou Anusvāra ne se trouve entre ces sons et le **-n-** suivant dans le mot.
 :::
 **Par conséquent :**
 
-:::grammar-box
+::: grammar-box
 | | Instrumental Singulier |
 | :--- | :--- |
-| **guru**:br⟪गुरु⟫ | **guruṇā**:br⟪गुरुणा⟫ |
-| **śūdra**:br⟪शूद्र⟫ | **śūdreṇa**:br⟪शूद्रेण⟫ |
-| **īśvara**:br⟪ईश्वर⟫ | **īśvereṇa**:br⟪ईश्वरेण⟫ |
-| **kṣatriya**:br⟪क्षत्रिय⟫ | **kṣatriyeṇa**:br⟪क्षत्रियेण⟫ |
-| **naraka**:br⟪नरक⟫ | **narakeṇa**:br⟪नरकेण⟫ |
+| **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
+| **śūdra** :br⟪शूद्र⟫ | **śūdreṇa** :br⟪शूद्रेण⟫ |
+| **īśvara** :br⟪ईश्वर⟫ | **īśvereṇa** :br⟪ईश्वरेण⟫ |
+| **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
+| **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
 :::
-**Aussi, l' -ṇ- est-il à expliquer dans :**
+**Ainsi, le -ṇ- s’explique également dans :**
 
-:::indent
+::: indent
 **śravaṇa** ⟪श्रवण⟫
 
 **śṛṇoti** ⟪शृणोति⟫
@@ -148,120 +152,124 @@ Un **-n-**, suivi d'une voyelle ou de **n, m, y, v**, est remplacé par **-ṇ-*
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
----
 
-## 10.4. Le Passif, Indicatif Présent (yak = ⟪यक्⟫)
+## 10.4. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
 
-:::grammar-box
+::: grammar-box
 **Formation :**
 **(généralement) racine au degré zéro + -ya- + terminaison Ātmanepada**
 :::
 par ex.
 
-| Racine:br⟪धातु⟫ | 3. sg. Pass. Prés. Ind.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Prés. Ind.:br⟪यक्⟫ ⟪लट्⟫ |
+| Wurzel:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
-| **nī**:br1 U:br(nayati) | **nīyate**:br(⟪नीयते⟫):br"il est conduit" | **nīyante**:br(⟪नीयन्ते⟫) |
-| **man**:br4 Ā:br(manyate) | **manyate**:br(⟪मन्यते⟫):br"il est pensé" | **manyante**:br(⟪मन्यन्ते⟫) |
-| **viś**:br6 P:br(viśati) | **viśyate**:br(⟪विश्यते⟫):br"il est entré" | **viśyante**:br(⟪विश्यन्ते⟫) |
+| **nī**:br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"er wird geführt" | **nīyante** :br(⟪नीयन्ते⟫) |
+| **man**:br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
+| **viś**:br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
 **Remarquez que pour les verbes de la 4e classe de présent, les formes Ātmanepada et passif sont identiques ! Dans ce cas, on ne peut déterminer s'il s'agit d'un Ātmanepada ou d'un passif qu'à partir de la construction de la phrase.**
 
----
-
 ### 10.4.1. Règles spéciales pour la formation du passif
 
-1. **Les racines en -i ou -u** allongent leur voyelle avant le suffixe passif **-ya-** :
-   * **ji** 1 P : **jīyate**, **jīyante**:br⟪जीयते⟫, ⟪जीयन्ते⟫
-   * **śru** 5 P : **śrūyate**, **śrūyante**:br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-   * **su** 5 U : **sūyate**, **sūyante**:br⟪सूयते⟫, ⟪सूयन्ते⟫
+1. **Les racines en -i ou -u** allongent leur voyelle devant le suffixe passif **-ya-** :
+   * **Formation :**
+   * | :--- | :--- | :--- |
+   * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
 
-2. **Les racines avec -a- entre consonnes** (sauf nasales, y, r, v) conservent le niveau haut :
-   * **labh** 1 Ā : **labhyate**, **labhyante**:br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+2. | **viś**:br6 P:br(viśati) | **viśyate**:br(⟪विश्यते⟫):br"il est entré" | **viśyante**:br(⟪विश्यन्ते⟫) |
+   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
-3. **Certaines racines forment leur passif au niveau haut** (ou au degré d’ablaut du radical de présent) :
-   * **āp** 5 P : **āpyate**, **āpyante**:br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P : **khādyate**, **khādyante**:br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P : **smaryate**, **smaryante**:br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+3. **Remarquez que pour les verbes de la 4e classe de présent, les formes Ātmanepada et passif sont identiques ! Dans ce cas, on ne peut déterminer s'il s'agit d'un Ātmanepada ou d'un passif qu'à partir de la construction de la phrase.**
+   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
+   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
-4. **Degré bas des verbes commençant par ya, va, ra, ou lorsque ces sons se trouvent après une autre consonne (Samprasāraṇa = ⟪सम्प्रसारण⟫) :**
+4. **Niveau profond des verbes commençant par ya, va, ra, ou lorsque ces sons se trouvent après une autre consonne (Samprasāraṇa = ⟪सम्प्रसारण⟫) :**
 
-   | Racine:br⟪धातु⟫ | Degré bas:br⟪सम्प्रसारण⟫ | Passif:br⟪यक्⟫ |
+   | Wurzel:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
    | :--- | :--- | :--- |
-   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate**:br⟪इज्यते⟫:br**ijyante**:br⟪इज्यन्ते⟫ |
-   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate**:br⟪उद्यते⟫:br**udyante**:br⟪उद्यन्ते⟫ |
-   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate**:br⟪पृच्छ्यते⟫:br**pṛcchyante**:br⟪पृच्छ्यन्ते⟫ |
+   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
+   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
+   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
-   La désignation traditionnelle autochtone pour cette formation du degré bas des verbes avec **ya** ou **va** est **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
+La désignation traditionnelle autochtone pour cette formation du niveau profond des verbes avec **ya** ou **va** est **Samprasāraṇa** (⟪नपुंसकम्⟩ = ⟪सम्प्रसारण⟫).
 
-5. **-ṛ final** après une seule consonne est remplacé par **-ri-** avant le suffixe passif **-ya-** :
-   * **kṛ** 8 U : **kriyate**, **kriyante**:br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * Mais : **smṛ** 1 P : **smaryate**:br⟪स्मर्यते⟫
+5. **Auslautendes -ṛ** nach einem einzigen Konsonanten wird vor dem Passivsuffix **-ya-** durch **-ri-** ersetzt:
+   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
+   * Aber: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
 
-6. **Certaines racines en -an** ont alternativement deux formations du radical passif :
+6. **Certaines racines en -an ont alternativement deux formations de radical passif :**
    * une **-an-ya**
-   * une **-ā-ya-** (le long **ā** est un représentant d’un nasal hypothétique long)
+   * une **-ā-ya-** (le **ā** long est un représentant d'un hypothétique nasale longue)
 
-   Par ex. **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte**:br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte**:br⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
+p. ex. **tan** 8 U.
+   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
+   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
 
----
+## 10.5. Wortliste
 
-## 10.5. Liste des mots
-
-**Apprenez les mots suivants :**
+**gṛha** n. ⟪गृह⟫ : Maison
 
 - **gṛha** n. ⟪गृह⟫ : maison
 - **grāma** m. ⟪ग्राम⟫ : village
 - **nagara** n. ⟪नगर⟫ : ville
 
-  :::note-box
+  ::: note-box
   Pour la vie urbaine et rurale, voir Basham, *Wonder*, chap. 6.
-  :::- **yajña** m. ⟪यज्ञ⟫ : sacrifice
+  :::
 
-  :::note-box
-  En Inde, le sacrifice est avant tout une vénération de la divinité en tant qu'hôte. Par cela, on s'engage envers la divinité.
-  
-  Formation du mot : **yaj** 1 U + suffixe kṛt **-na-**.
-  :::- **puṇya** n. ⟪पुण्य⟫ : bonne action, mérite
+- **yajña** m. ⟪यज्ञ⟫ : Sacrifice
 
-  :::note-box
-  Par quoi on mérite le bien-être et de bonnes renaissances.
-  :::- **pāpa** n. ⟪पाप⟫ : méfait, mal (contraire de **puṇya**)
+  ::: note-box
+**yajña** m. ⟪यज्ञ⟫ : Sacrifice
+
+Formation du mot : **yaj** 1 U + suffixe kṛt **-na-**.
+  :::
+
+- **puṇya** n. ⟪पुण्य⟫ : œuvre méritoire, mérite
+
+  ::: note-box
+**satya** n. ⟪सत्य⟫ : vérité
+  :::
+
+- **pāpa** n. ⟪पाप⟫ : méfait, mal (contraire de **puṇya**)
 - **satya** n. ⟪सत्य⟫ : vérité
 
-:::
-note-box
-En Inde, on attribuait au mot vrai un pouvoir magique, et même tout l'ordre cosmique est maintenu et créé par le mot vrai. Pour cette conception importante, voir l'ouvrage fondamental :
+::: note-box
+En Inde, on attribuait au mot véritable un pouvoir magique, et en fait, tout l'ordre cosmique est maintenu et créé par le mot véritable. Pour cette conception importante, voir l'œuvre fondamentale :
 
-Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Publié à partir des archives par Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna et le Ṛta. -- 1959. -- XXIII p., p. 340 - 764
-::::::media
+Lüders, Heinrich \<1869 - 1943\> : Varuna / Heinrich Lüders. Éd. posthume par Ludwig Alsdorf. - Göttingue : Vandenhoeck & Ruprecht. -- Vol. 2 : Varuna et le Ṛta. -- 1959. -- XXIII p., p. 340 - 764
+:::
+
+::: media
 ![](/images/lekt1003.webp)
 Fig. : ⟪वरुणः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : fausseté, mensonge (contraire de **satya**)
+- **anṛta** n. ⟪अनृत⟫ : Fausseté, mensonge (contraire de **satya**)
 
-  :::note-box
+  ::: note-box
   Formation du mot **an-** (« non- ») + **ṛta** n.
-  
-  **ṛta** est un concept central du Veda, dont la traduction est controversée : « vérité » (Lüders, Thieme), « ordre » (Renou).
-  :::- **ṛṣi** m. ⟪ऋषि⟫ : sage védique, auteur des chants védiques
 
-  :::note-box
-  Les noms de ces **ṛṣi**s sont mentionnés dans les Brāhmaṇas ainsi que dans des listes propres aux Védas. Tous les Brahmanes font remonter leur origine à de tels **ṛṣi**s, dont leurs **gotra** (⟪गोत्र⟫) tirent leur nom. Pour le concept de **gotra**, voir Basham, *Wonder*, chap. 5.
-  ::::::media
+  **ṛta** est un concept central du Veda, dont la traduction est controversée : « vérité » (Lüders, Thieme), « ordre » (Renou).
+  :::
+
+- **ṛṣi** m. ⟪ऋषि⟫ : rishi védique, auteur des hymnes védiques
+
+  ::: note-box
+  Les noms de ces **ṛṣi**s sont mentionnés dans les Brāhmaṇas ainsi que dans des catalogues propres aux Védas. Tous les Brahmanes font remonter leur origine à de tels **ṛṣi**s, dont leur **gotra** (⟪गोत्र⟫) tire son nom. Voir le terme **gotra** dans Basham, *Wonder*, chap. 5.
+  :::
+
+::: media
 ![](/images/lekt1002.jpg)
 Fig. : ⟪विश्वामित्रः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1002))
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : dire, parler
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : demander (quelqu'un : Acc. ; quelque chose : Acc.)
-- **saha** ⟪सह⟫ : avec, conjointement avec (aussi dans le cas de « combattre avec », etc.) (Postposition avec le instrumental)
+- **saha** ⟪सह⟫ : avec, conjointement avec (aussi dans « combattre avec », etc.) (Postposition avec le instrumental)
 
----
-
-## 10.6. Exercice
+## 10.6. Übung
 
 **A) Formez la voix passive des formes verbales suivantes (avec traduction de la forme verbale) :**
 
@@ -314,7 +322,7 @@ Fig. : ⟪विश्वामित्रः⟫
 3. Le Veda est appelé śruti. (**vad**)
 4. On tend la chaîne de la trame. (2 possibilités)
 
-:::media
+::: media
 ![](/images/lekt1004.jpg)
 Fig. : ⟪तन्तुवायः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1004))
@@ -326,9 +334,7 @@ Fig. : ⟪तन्तुवायः⟫
 9. Le kṣatriya vénère le SEIGNEUR avec un sacrifice. (Construction passive, sans utiliser le mot **yajña**)
 10. Par la générosité, un disciple de Bouddha atteint un ciel.
 
----
-
-## 10.7. Liste de mots 2
+## 10.7. Wortliste 2
 
 - **makṣikā** f. ⟪मक्षिका⟫ : mouche, abeille
 - **vraṇa** m. ⟪व्रण⟫ : plaie, erreur, dommage
@@ -355,17 +361,14 @@ Fig. : ⟪तन्तुवायः⟫
 - **iha** ⟪इह⟫ : ici
 - **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : être beau, briller
 
----
-
-## 10.8. Exercice de lecture et de traduction
+## 10.8. Lese- und Übersetzungsübung
 
 **Lisez et traduisez, puis mettez à la forme passive :**
 
-**⟪क⟫**
+⟪क⟫
 
 ⟪१⟫.
-:::
-center
+::: center
 ⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
 ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
@@ -381,7 +384,7 @@ center
 ⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ | |
 ⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
 
-**⟪ख⟫**
+⟪ख⟫
 
 ⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ | |
 ⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ | |

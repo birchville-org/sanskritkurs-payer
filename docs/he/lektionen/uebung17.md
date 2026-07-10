@@ -72,7 +72,7 @@ Ein Śūdra ist Knecht der Zweimalgeborenen.
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मं⟫ ⟪द्विषन्ति⟫ ⟪।⟫ ⟪द्विषते⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung025.webp)
 מקור: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (מקור התמונה: [פרטים](/licenses#uebung025))
@@ -174,7 +174,7 @@ Ein Śūdra ist Knecht der Zweimalgeborenen.
 ⟪४५⟫. **⟪जीव्यते⟫** (⟪जीव्⟫ 1P): חיים
 
 ⟪४६⟫. **⟪दिश्यन्न्ते⟫** (⟪दिश्⟫ 6U): הם מוצגים
-:::media
+::: media
 ![](/images/uebung026.webp)
 תמונה: ⟪शृणोति⟫
 (מקור התמונה: [פרטים](/licenses#uebung026))

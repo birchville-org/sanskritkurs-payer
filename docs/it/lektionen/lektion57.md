@@ -1,9 +1,9 @@
 ---
-title: Lezione 57
-subtitle: "Aoristo 4: s-Aoristo"
+title: Lektion 57
+subtitle: "Aorist 4: s-Aorist"
 lesson_id: 57
 last_reconstructed: 2026-05-21
-category: "Grammatica"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,42 +11,50 @@ status: stable
 
 ## 57.1. Aoristo 4: s-Aorist
 
-:::grammar-box
+::: grammar-box
 **Lo s-Aorist si forma per la maggior parte delle radici ⟪अनिट्⟫, purché non abbiano esclusivamente un'altra forma di aoristo. Le radici ⟪अनिट्⟫ facoltative possono in generale formare opzionalmente questo o l'iṣ-Aorist. Anche le radici ⟪अनिट्⟫, che formano lo ⟪परस्मैपद⟫ dopo la 1., 2. o 6. forma dell'aoristo, formano lo ⟪आत्मनेपद⟫ secondo lo s-Aorist.**
 
 **Formazione: Augmento + Radice + s + desinenze secondarie atematiche**
 :::
 Tabella delle desinenze con suffisso di formazione del tema
 
-:::grammar-box
+::: grammar-box
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
-| :--- | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | -sam | -sma | -si | -smahi |
 | **2. ⟪द्वितीयः⟫** | **-sīs** | -sta | -sthās | **-dhvam** |
 | **3. ⟪प्रथमः⟫** | **-sīt** | -sur | -sta | -sata |
-:::::::grammar-box
+:::
+::: grammar-box
 **Si applica la legge fonetica generale secondo cui un fricativo tra due occlusive cade (cfr. ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), cioè il suffisso di formazione del tema -s- prima delle desinenze che iniziano con -t- o -th- cade (ma non dopo nasali o r-).**
 
 Esempi:
 
-:::indent
+:::
+::: indent
 3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***⟪क्षिप्त⟫***
 2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***⟪क्षिप्था⟫***⟪स्⟫
 :::
 Tali forme potrebbero appartenere anche al radice-aorist e probabilmente appartengono in parte anche a quello.
-::::
 I grammatici indiani hanno contato anche forme come ⟪अकृत⟫ (3.sg.Ā) allo s-Aorist, che appartengono chiaramente al radice-aorist. A questo scopo, i grammatici indiani hanno inventato la seguente regola fonetica ad hoc per lo s-Aorist:
 
-:::indent
+::: indent
 "Dopo una vocale breve, le 'desinenze' che iniziano con -st- o -sth- perdono la -s-."
 :::
 In caso contrario, si devono osservare le regole fonetiche per la connessione di consonanti finali con s-.
 
 Per -dhvam vale:
 
-::::grammar-box
+::: grammar-box
+**Il -dh- di -dhvam viene sostituito da -ḍh- dopo tutte le vocali diverse da a/ā, nonché dopo -r.**
+
+:::
+::: indent
+ad es. ***⟪चि⟫*** 5U: 2.pl.Ā ***⟪अचेढ्वम्⟫***
+:::
+::: grammar-box
 **La forma della radice:**
 
 *   **⟪परस्मैपद⟫ : Grado allungato**
@@ -73,58 +81,58 @@ Esempi:
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
 |   | **sg.Ā** |
-| ⟪दा⟫ 3U | ⟪अदिषि⟫:br**⟪अदिथास्⟫**:br**⟪अदित⟫** |
+| ⟪दा⟫ 3U | ⟪अदिषि⟫:br ⟪अदिथास्⟫ :br ⟪अदित⟫ |
 |   | **1.sg.Ā** |
 | ⟪कृ⟫ 8U | ⟪अकृषि⟫ |
 | ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
 
-::::grammar-box
+::: grammar-box
 **⟪दृश्⟫ e ⟪सृज्⟫ hanno nel ⟪परस्मैपद⟫ Grado allungato con dittongo crescente -rā-:**
 
-:::indent
+:::
+::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫***⟪द्राक्षी⟫***⟪त्⟫
 :::
 Anche l'aoristo di altre radici con -ṛ- in posizione penultima può essere formato in questo modo:
 
-:::indent
+::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***⟪क्राक्षी⟫***⟪त्⟫
-:::::::
+:::
 Paradigmi:
 
 ⟪नी⟫ 1U "condurre"
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
-
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अनैषम्⟫ | ⟪अनैष्म⟫ | ⟪अनेषि⟫ | ⟪अनेष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫***⟪ढ्वम्⟫*** |
+| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫*⟪ढ्वम्⟫* |
 | **3. ⟪प्रथमः⟫** | ⟪अनैषीत्⟫ | ⟪अनैषुर्⟫ | ⟪नेष्ट⟫ | ⟪अनेषत⟫ |
 
-:::media
+::: media
 ![](/images/lekt5701.webp)
 Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5701))
 :::
 ⟪कृ⟫ 8U "fare"
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अकार्षम्⟫ | ⟪अकार्ष्म⟫ | ⟪अकृषि⟫ | ⟪अकृष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | ***⟪अकृथास्⟫*** | ⟪अकृढ्वम्⟫ |
-| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | ***⟪अकृत⟫*** | ⟪अकृषत⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | *⟪अकृथास्⟫* | ⟪अकृढ्वम्⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | *⟪अकृत⟫* | ⟪अकृषत⟫ |
 
 ⟪तुद्⟫ 6U "colpire"
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अतौत्सम्⟫ | ⟪अतौत्स्म⟫ | ⟪अतुत्सि⟫ | ⟪अतुत्स्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अतौत्सीस्⟫ | ⟪अतौत्त⟫:brda: a-taut + s + ta | ⟪अतुत्थास्⟫ | ⟪अतुद्ध्वम्⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अतौत्सीस्⟫ | ⟪अतौत्त⟫:braus: a-taut + s + ta | ⟪अतुत्थास्⟫ | ⟪अतुद्ध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अतौत्सीत्⟫ | ⟪अतौत्सुर्⟫ | ⟪अतुत्त⟫ | ⟪अतुत्सत⟫ |
 
-:::grammar-box
+::: grammar-box
 **Forme irregolari:**
 
 **1. Le radici con nasale (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) formano l'aoristo in s con grado acuto:**
@@ -227,7 +235,7 @@ B) Tradurre e determinare le seguenti forme:
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt5701:** [Fonte dell'immagine: Wikipedia. Dominio pubblico]
 

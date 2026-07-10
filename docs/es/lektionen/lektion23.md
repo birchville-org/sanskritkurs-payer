@@ -1,9 +1,9 @@
 ---
-title: Lección 23
-subtitle: "El infinitivo (⟪तुमुन्⟫)"
+title: Lektion 23
+subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
-category: "Gramática"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,7 +11,7 @@ status: stable
 
 ## 23.1. El infinitivo (⟪तुमुन्⟫)
 
-:::grammar-box
+::: grammar-box
 **Si se desea expresar en sánscrito que una actividad se realiza con el fin de otra actividad ("para"), se puede usar el infinitivo (⟪तुमुन्⟫) para la actividad con cuyo fin se realiza. El infinitivo designa principalmente el propósito o la intención:**
 
 > ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma se ha ido para escuchar el discurso del maestro."
@@ -53,7 +53,7 @@ por ejemplo
 :::
 ## 23.2. Formación del infinitivo (⟪तुमुन्⟫)
 
-:::grammar-box
+::: grammar-box
 **raíz en grado pleno + -tum**
 
 **o**
@@ -66,7 +66,7 @@ por ejemplo
 :::
 Ejemplos:
 
-:::indent
+::: indent
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
 :::
@@ -74,14 +74,14 @@ No se pueden establecer reglas fijas sobre el uso de la vocal de enlace -i-. En 
 
 Entre las raíces aprendidas hasta ahora, se deben tener en cuenta especialmente los siguientes infinitivos:
 
-:::indent
+::: indent
 ⟪गम्⟫ : ⟪गन्तुम्⟫
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
 -ra- como grado pleno de -ṛ- tienen en el infinitivo:
 
-:::indent
+::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
@@ -229,7 +229,7 @@ D) Traduzca y resuelva los compuestos:
 
 ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt2303.webp)
 Fig.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 ทำบุญ = ⟪पुण्यकरणम्⟫, Tailandia = ประเทศไทย
@@ -237,7 +237,7 @@ Fig.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 :::
 ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
-:::media
+::: media
 ![](/images/lekt2301.webp)
 Fig.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Tailandia = เชียงใหม่, ประเทศไทย
@@ -260,7 +260,7 @@ C) Traduzca el siguiente ⟪सुभाषितम्⟫
 
 Explicación: ⟪हीन⟫ ⟪३⟫: PPP a ⟪हा⟫ 3: abandonar ; ⟪धर्मे⟫ = locativo sg. "en el ..."
 
-:::media
+::: media
 ![](/images/lekt2302.webp)
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
@@ -286,7 +286,7 @@ A) Traduzca al sánscrito:
 
 7\. El "bastón" provoca la adquisición y la posesión segura de filosofía, Veda y economía. La dirección de este bastón es la política.
 
-:::media
+::: media
 ![](/images/lekt2304.jpg)
 Fig.: ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Primer Ministro de la India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, desde 2004
@@ -316,7 +316,7 @@ C) Proporcione las formas raíz (significado, clase de presente, modo, 3. sg. pr
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt2301:** Chiang Mai, Tailandia = เชียงใหม่, ประเทศไทย [Fuente de la imagen: Wikipedia. Licencia GNU FDL]
 

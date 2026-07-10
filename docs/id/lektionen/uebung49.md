@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Determine the following forms:
 
-:::grammar-box
+::: grammar-box
 | Nr. | Form | Determination |
 |:---|:---|:---|
 | ⟪१⟫. | **⟪गृहाणि⟫** | *⟪गृह⟫* n.: Nom. Acc. Pl. n. |
@@ -52,10 +52,11 @@ Determine the following forms:
 | ⟪३७⟫. | **⟪बन्धनीय⟫** | *⟪बन्ध्⟫* 9P: Gerundiv Voc. Sg. m. n. |
 | ⟪३८⟫. | **⟪गायी⟫** | *⟪गायिन्⟫*: Nom. Sg. m. |
 | ⟪३९⟫. | **⟪मह्यम्⟫** | *⟪अहम्⟫*: Dat. Sg. |
-::::::media
+:::: media
 ![](/images/uebung078.webp)
 Fig.: ⟪गायी⟫
 (Image source: [Details](/en/licenses#uebung078))
+::::
 :::
 ---
 
@@ -71,7 +72,7 @@ Questions of the King **⟪शूद्रक⟫** of **⟪विदिशा⟫
 >
 > Vaiśampāyana, however, who had been asked by the Lord of the Earth with spontaneously arising curiosity with great respect, thought for a moment and then answered with full reverence: "King, that is a long story. If you are interested, lend me your ear!"
 
-:::media
+::: media
 ![](/images/uebung079.webp)
 Fig.: ⟪शुकः⟫
 (Image source: [Details](/en/licenses#uebung079))

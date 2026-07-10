@@ -9,7 +9,7 @@ status: stable
 
 # Lecția 12
 
-:::deleteme-box
+::: deleteme-box
 **În această lecție veți învăța:**
 - Participiul Perfect Pasiv (PPP)
 - Semnificația PPP-ului
@@ -23,14 +23,14 @@ status: stable
 
 O modalitate de a forma propozițiile la pasiv în trecut este construcția cu așa-numitul Participiu Perfect Pasiv (PPP).
 
-:::grammar-box
+::: grammar-box
 **În realitate, PPP nu este un participiu adevărat, deoarece nu se formează dintr-o rădăcină de timp. El este, mai degrabă, o formare nominală a rădăcinii cu sufixul primar -ta, respectiv -na. De aceea, în gramatica indiană se vorbește despre sufixul kta.**
 :::
 ---
 
 ### 12.1.1. Schema pentru verbe tranzitive
 
-:::grammar-box
+::: grammar-box
 **Agent (kartṛ) în instrumental (tṛtīyā) -- obiect direct (karman) în nominativ (prathamā) -- participiu perfect pasiv**
 
 În acest caz, PPP-ul se acordă în număr, caz și gen cu obiectul.
@@ -46,7 +46,7 @@ Exemple:
 
 ### 12.1.2. Schema I pentru verbe intranzitive și verbe de mișcare
 
-:::grammar-box
+::: grammar-box
 **Agent (kartṛ) la nominativ (prathamā) -- Participiul Perfecț Passiv**
 
 În acest caz, PPP-ul se acordă cu agentul în număr, caz și gen. Participiul Perfecț „Passiv” are, în cazul verbelor intranzitive (verbe fără obiect direct) și al verbelor de mișcare, un sens activ.
@@ -58,7 +58,7 @@ Exemplu:
 
 ### 12.1.3. Schema II pentru verbe intranzitive și verbe de mișcare
 
-:::grammar-box
+::: grammar-box
 **Agent (kartṛ) în instrumental (tṛtīyā) -- PPP la nominativ singular neutru**
 
 Exemplu:
@@ -80,7 +80,7 @@ de ex.
 
 ## 12.3. Formarea PPP-ului
 
-:::grammar-box
+::: grammar-box
 Se întâlnesc următoarele modalități de formare (pentru fiecare rădăcină trebuie învățat PPP-ul corespunzător!):
 
 **(în majoritate) rădăcină la nivel vocalic coborât**
@@ -100,14 +100,14 @@ Stemurile feminine se termină în: **-tā**, **-itā**, **-nā**; neutrul se de
 
 *aniṭ* = „fără (*an-*) sufixul plasat înainte de (*-i-*) *t*“ (adică, fără vocala de legătură *i*).
 
-:::grammar-box
+::: grammar-box
 Fără vocală de legătură, participa trecut pasiv (PPP) se formează, în general, de la rădăcini care se termină vocalic, precum și de la multe alte rădăcini, fără ca să se poată da o regulă fixă privind structura rădăcinilor care determină apariția sau lipsa vocalei de legătură.
 
 O listă a rădăcinilor *aniṭ* se găsește la Kielhorn, *Gramatik* § 298.
 :::
 **Exemple:**
 
-:::grammar-box
+::: grammar-box
 | Rădăcină | PPP (kta) |
 | :--- | :--- |
 | **bhū** 1 P:br(⟪भू⟫) | **bhū-ta**:br(⟪भूत⟫) |
@@ -116,11 +116,11 @@ O listă a rădăcinilor *aniṭ* se găsește la Kielhorn, *Gramatik* § 298.
 | **nī** 1 U:br(⟪नी⟫) | **nī-ta**:br(⟪नीत⟫) |
 | **man** 4 Ā:br(⟪मन्⟫) | **ma-ta** (\*mn-ta):br(⟪मत⟫) |
 | **su** 5 U:br(⟪सु⟫) | **su-ta**:br(⟪सुत⟫) |
-| **gam** 1 P:br(⟪गम्⟫) | **ga-ta** (&lt; \*gm-ta):br(⟪गत⟫) |
+| **gam** 1 P:br(⟪गम्⟫) | **ga-ta** (\< \*gm-ta):br(⟪गत⟫) |
 | **ji** 1 P:br(⟪जि⟫) | **ji-ta**:br(⟪जित⟫) |
 | **śru** 5 P:br(⟪श्रु⟫) | **śru-ta**:br(⟪श्रुत⟫) |
 | **kṛ** 8 U:br(⟪कृ⟫) | **kṛ-ta**:br(⟪कृत⟫) |
-| **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (&lt; \*tn-ta):br(⟪तत⟫) |
+| **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa**:br(⟪इष्ट⟫) |
 :::
 #### 12.3.1.2. Cu vocală de legătură -i- (seṭ)
@@ -129,13 +129,13 @@ O listă a rădăcinilor *aniṭ* se găsește la Kielhorn, *Gramatik* § 298.
 
 **Exemple:**
 
-:::grammar-box
+::: grammar-box
 | Rădăcină | PPP (kta) |
 | :--- | :--- |
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta**:br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta**:br(⟪खादित⟫) |
 | **rakṣ** 1 P:br(⟪रक्ष्⟫) | **rakṣ-i-ta**:br(⟪रक्षित⟫) |
-| **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (&lt; \*vd-i-ta):br(⟪उदित⟫) |
+| **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
 :::
 ---
 
@@ -143,26 +143,24 @@ O listă a rădăcinilor *aniṭ* se găsește la Kielhorn, *Gramatik* § 298.
 
 În formările *aniṭ* se au în vedere următoarele legi ale combinațiilor fonetice în cuvânt. **Aceste legi sunt foarte importante pentru înțelegul întregii morfologii sanscrite.**
 
-::::grammar-box
-
-:::no-header
+::: no-header
 | | |
 | :--- | :--- |
 | **1. k, t, p înaintea unei consoane ocluse surde (de ex. t, th) rămân neschimbate:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
 | **2. ct este înlocuit cu kt = ⟪क्त्⟫:** | **muc + ta » muk-ta** = **⟪मुक्त⟫** |
 | **3. śt este înlocuit cu ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = **⟪दृष्टि⟫**:br**dṛś + ta » dṛṣṭa** = **⟪दृष्ट⟫**:br**viś + ta » viṣṭa** = **⟪विष्ट⟫** |
 | **4. Consoana ocluză sonoră neaspirată – cu excepția lui j – este înlocuită înaintea unui sunet surd de corespunzătoarea sa consoană ocluză surdă neaspirată:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (important pentru a 2-a clasă de prezente) |
-| **5. jt este înlocuit cu kt sau ṣṭ (nu facultativ!):** | **yuj + ta » yuk-ta** = **⟪युक्त⟫**:br**yaj + ta » iṣ-ṭa** = **⟪इष्ट⟫** (&lt; \*yj-ta):br**sṛj + ta » sṛṣ-ṭa** = **⟪सृष्ट⟫**:br**sṛj + ti » sṛṣ-ṭi** = **⟪सृष्टि⟫** |
+| **5. jt este înlocuit cu kt sau ṣṭ (nu facultativ!):** | **yuj + ta » yuk-ta** = **⟪युक्त⟫**:br**yaj + ta » iṣ-ṭa** = **⟪इष्ट⟫** (\< \*yj-ta):br**sṛj + ta » sṛṣ-ṭa** = **⟪सृष्ट⟫**:br**sṛj + ti » sṛṣ-ṭi** = **⟪सृष्टि⟫** |
 | **6. Consoana ocluză sonoră aspirată + consoană ocluză surdă » consoană ocluză sonoră neaspirată + consoană ocluză sonoră aspirată (Legea aspirării Bartholomaei):** | **bh-t » b-dh:**:br**labh + ta » lab-dha** = **⟪लब्ध⟫**:br**dh-t » d-dh:**:br**budh + ta » bud-dha** = **⟪बुद्ध⟫**:br**yudh + ta » yud-dha** = **⟪युद्ध⟫**:br**krudh + ta » krud-dha** = **⟪क्रुद्ध⟫** |
 | **7. h-t este înlocuit cu ḍh cu lungirea unui i sau u anterior; sau cu gdh. Înaintea unui astfel de ḍh, a este înlocuit cu o, rar cu ā:** | **dah + ta » dag-dha** = **⟪दग्ध⟫**:br**guh + ta » gūḍha** = **⟪गूढ⟫** (guh 1 (gūhati) „a ascunde ceva”):br**muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫**:br**sah + ta » soḍha** = **⟪सोढ⟫** |
-:::::::
+:::
 ---
 
 ## 12.5. Listă de cuvinte
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : a se trezi, a se trezi la cunoaștere, a recunoaște; PPP **buddha** 3 trezit, prin urmare **Buddha** = „cel trezit” (nu: cel iluminat)
 
-:::media
+::: media
 ![](/images/lekt1201.webp)
 Fig.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1201))
@@ -172,7 +170,7 @@ Fig.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 - **mṛga** m. ⟪मृग⟫ : animal sălbatic
 - **mārga** m. ⟪मार्ग⟫ : cale (drumurile erau adesea potecile animalelor sălbatice)
 
-:::media
+::: media
 ![](/images/lekt1202.webp)
 Fig.: ⟪मार्गः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1202))
@@ -190,7 +188,7 @@ La formarea cuvintelor:
 - **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : stropire a unui rege la încoronare, încoronare
 - **budh**: **bodhi** m./f. ⟪बोधि⟫ : trezirea (prin care un Buddha sau Jina ajunge la înțelegerea mântuitoare)
 
-:::media
+::: media
 ![](/images/lekt1203.webp)
 Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1203))

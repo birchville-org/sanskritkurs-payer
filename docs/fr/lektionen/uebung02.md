@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Leçon 2
 
-A) Insérez, dans les phrases suivantes, en respectant le sandhi, les noms et noms communs indiqués, et formez des phrases nominales :
+A) Insérez les noms et noms communs indiqués dans les phrases suivantes en respectant le sandhi, et formez des phrases nominales :
 
 1\. devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra) = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 
@@ -48,7 +48,7 @@ kaviḥ kālidāsaḥ. kavir māghaḥ. kavir bhāraviḥ. kavir harṣadevaḥ.
 
 B) Traduisez en sanskrit :
 
-1\. Rāma est un brāhmaṇa.
+1\. Rāma est un brahmane.
 
 brāhmaṇo rāmaḥ.
 
@@ -84,7 +84,7 @@ guruḥ kaviḥ.
 
 ⟪शिव⟫ ⟪ईश्वरः⟫
 
-7\. Le deux-fois-né est un brāhmaṇa.
+7\. Le deux-fois-né est un brahmane.
 
 brāhmaṇo dvijaḥ.
 
@@ -102,8 +102,8 @@ sādhur guruḥ.
 
 ⟪साधुर्गुरुः⟫
 
-:::media
+::: media
 ![](/images/uebung002.jpg)
 Fig. : ⟪ईश्वरः⟫ ⟪शिवः⟫
-(Source de l'image : [Détails](/fr/licenses#uebung002))
+(Source de l'image : [Détails](/licenses#uebung002))
 :::

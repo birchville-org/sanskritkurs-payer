@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Übung 59
 
-:::media
+::: media
 ![](/images/uebung098.webp)
 Abb.: ⟪रावणः⟫
 (Bildquelle: [Details](/licenses#uebung098))
@@ -39,7 +39,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 ⟪ते⟫ ⟪ऽभ्यगुर्भवनं⟫ ⟪तस्य⟫ ⟪सुप्तं⟫ ⟪चैक्षिषताथ⟫ ⟪तम्⟫ ⟪।⟫  
 ⟪व्याहार्षुस्तुमुलाञ्छब्दान्दण्डैश्चावधिषुर्द्रुतम्⟫ ⟪॥२॥⟫
 
-> Diese gingen zu dessen Haus und erblickten diesen schlafend. Sie stießen tumultöse Laute aus und schlugen schnell mit Stöcken.
+> Diese gingen zu dessen Haus und erblickten diesen schlafend. Sie stiessen tumultöse Laute aus und schlugen schnell mit Stöcken.
 >
 > ⟪अभ्यगुर्⟫ - ⟪अभि⟫-⟪गा⟫ (für ⟪इ⟫) Aor. 1 P  
 > ⟪अक्षिषत⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā (3.pl.)  
@@ -49,7 +49,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 ⟪केशानलुञ्चिषुस्तस्य⟫ ⟪गजान्गात्रेष्वभिभ्रमन्⟫ ⟪।⟫  
 ⟪शीतैरभ्यषिचंस्तोयैरलातैश्चाप्यदम्भिषुः⟫ ⟪॥३॥⟫
 
-> Sie zerrten seine Haare, ließen Elefanten auf seinen Gliedern herumirren; sie besprengten ihn mit kaltem Wasser und verletzten ihn mit Feuern.
+> Sie zerrten seine Haare, liessen Elefanten auf seinen Gliedern herumirren; sie besprengten ihn mit kaltem Wasser und verletzten ihn mit Feuern.
 >
 > ⟪अलुञ्चिषुर्⟫ - ⟪लुञ्च्⟫ Aor. 5  
 > ⟪अबिभ्रमन्⟫ - ⟪भ्रम्⟫ Kaus. Aor. 3  
@@ -59,7 +59,7 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 ⟪नखैरकर्तिषुस्तीक्ष्णैरदाङ्क्षुर्दशनैस्तथा⟫ ⟪।⟫  
 ⟪शितैरतौत्सुः⟫ ⟪शूलैश्च⟫ ⟪भेरीश्चावीवदञ्छुभाः⟫ ⟪॥४॥⟫
 
-> Sie schnitten ihn mit scharfen Fingernägeln und sie bissen ihn mit den Zähnen, sie schlugen ihn mit scharfen Spießen und sie ließen helle Trommeln ertönen.
+> Sie schnitten ihn mit scharfen Fingernägeln und sie bissen ihn mit den Zähnen, sie schlugen ihn mit scharfen Spiessen und sie liessen helle Trommeln ertönen.
 >
 > ⟪अकर्तिषुर्⟫ - ⟪कृत्⟫ Aor. 5  
 > ⟪अदाङ्क्षुर्⟫ - ⟪दंश्⟫ Aor. 4  
@@ -205,13 +205,13 @@ Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f.
 ⟪संधानकारणां⟫ ⟪तेजो⟫ ⟪न्यगभूत्ते⟫ ⟪ऽकृथास्तथा⟫ ⟪।⟫  
 ⟪यत्त्वं⟫ ⟪वैराणि⟫ ⟪कोशं⟫ ⟪च⟫ ⟪सहदण्डमजिग्लपः⟫ ⟪॥१८॥⟫
 
-> Deine Macht, die Grundlage für ein Bündnis, ist geschwunden. Du hast so gehandelt, dass du deine Heere und deinen Schatz samt der politischen Macht dahinschwinden ließest."
+> Deine Macht, die Grundlage für ein Bündnis, ist geschwunden. Du hast so gehandelt, dass du deine Heere und deinen Schatz samt der politischen Macht dahinschwinden liessest."
 >
 > ⟪अभूत्⟫ - ⟪भू⟫ Aor. 1  
 > ⟪अकृथास्⟫ - ⟪कृ⟫ Aor. 4/1  
 > ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ Kaus. Aor. 3
 
-:::media
+::: media
 ![](/images/uebung099.webp)
 Abb.: ⟪रामस्य⟫ ⟪रावणेन⟫ ⟪युद्धः⟫
 (Bildquelle: [Details](/licenses#uebung099))

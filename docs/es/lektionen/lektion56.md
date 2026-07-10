@@ -1,13 +1,17 @@
 ---
+title: Lektion 56
+subtitle: "Der reduplizierte Aorist"
 lesson_id: 56
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lección 56
 
 ## 56.1. El aoristo reduplicado
 
-:::grammar-box
+::: grammar-box
 **Formación:**
 
 **Aumento + raíz reduplicada + a + terminación secundaria temática**
@@ -22,9 +26,9 @@ Paradigma:
 
 ⟪श्रि⟫ 1U "dirigirse hacia, apoyarse"
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अशिश्रियम्⟫:br(⟪अ⟫-⟪शि⟫-⟪श्रिय्⟫-⟪अम्⟫) | ⟪अशिश्रियाम⟫ | ⟪अशिश्रिये⟫ | ⟪अशिश्रियामहि⟫ |
 | **2. ⟪द्वितीयः⟫** | ⟪अशिश्रियस्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियथास्⟫ | ⟪अशिश्रियध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अशिश्रियत्⟫ | ⟪अशिश्रियन्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियन्त⟫ |
@@ -37,14 +41,14 @@ Esta forma de aoristo la forman, entre otros:
 *   ⟪पत्⟫ 1P "caer": ⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = grado profundo de pat)
 *   ⟪वच्⟫ 2P "decir": ⟪अवोचत्⟫ (a-va + uc-a-t)
 
-:::grammar-box
+::: grammar-box
 **Todas las raíces de la 10. clase de presente, así como todos los causativos, forman siempre el aoristo reduplicado.**
 :::
 ### 56.1.1. Formación del aoristo de las causativas y de las raíces de la 10. clase de presente
 
 Sílaba de la raíz:
 
-:::grammar-box
+::: grammar-box
 **El punto de partida es la forma de la raíz del presente o de la raíz causativa, tal como queda tras la eliminación del elemento formador -aya- (es decir, raíz terminada en -p en las causativas en -paya-).**
 
 **El vocalismo de esta llamada «sílaba de la raíz» se determina en el aoristo según las siguientes reglas:**
@@ -54,10 +58,10 @@ Sílaba de la raíz:
     ⟪द्रु⟫ 1P: Caus. ***⟪द्राव⟫***⟪यति⟫, Aor. ⟪अदु⟫***⟪द्रव⟫***⟪त्⟫ / ⟪अदि⟫***⟪द्रव⟫***⟪त्⟫  
     ⟪नी⟫ 1U: Caus.  ***⟪नाय⟫***⟪यति⟫, Aor. ⟪अनी⟫***⟪नय⟫***⟪त्⟫  
     ⟪ज्ञा⟫ 9U: Caus. ***⟪ज्ञाप⟫***⟪यति⟫, Aor. ⟪अजि⟫***⟪ज्ञप⟫***⟪त्⟫  
-     
+
 *   **\-ī-, -e-, -ai- ante un consonante simple se sustituyen por -i-:**  
     ⟪चित्⟫ 1P: Caus. ***⟪चेत⟫***⟪यति⟫, Aor. (Ā) ⟪अची⟫***⟪चित⟫***⟪त⟫  
-     
+
 *   **\-u-, -o-, -au- ante un consonante simple se sustituyen por -u-:**  
     ⟪चुर्⟫ 10U: ***⟪चोर⟫***⟪यति⟫, Aor. ⟪अचू⟫***⟪चुर⟫***⟪त्⟫
 
@@ -71,7 +75,7 @@ Vocalismo de la sílaba de reduplicación:
 
 Una vez aplicadas las reglas mencionadas anteriormente a la sílaba de la raíz, deben seguirse las siguientes reglas para el vocalismo de la sílaba de reduplicación:
 
-::::grammar-box
+::: grammar-box
 **El punto de partida es el vocalismo regular de reduplicación, es decir:**
 
 *   a para a, ā, ṛ,  ṝ, ḷ
@@ -83,7 +87,7 @@ Una vez aplicadas las reglas mencionadas anteriormente a la sílaba de la raíz,
 *   **i, u se sustituyen por ī, ū cuando la sílaba de la raíz comienza con una sola consonante y es métricamente breve:**  
     ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भिदत्⟫  
     ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫***⟪तू⟫***⟪तुदत्⟫  
-     
+
 *   **a se sustituye por ī cuando la sílaba de la raíz es métricamente breve y comienza con una sola consonante. Si la sílaba de la raíz es métricamente breve y comienza con más de una consonante, el a de la sílaba de reduplicación se sustituye por i. Si la sílaba de la raíz es métricamente larga, el a se conserva:**  
     ⟪नी⟫ 1U: Caus. ⟪नाययति⟫, raíz del aor. ⟪नय्⟫, Aor. ⟪अ⟫***⟪नी⟫***⟪नयत्⟫  
     ⟪कृ⟫ 8U: Caus. ⟪कारयति⟫, raíz del aor. ⟪कर्⟫, Aor. ⟪अ⟫***⟪ची⟫***⟪करत्⟫  
@@ -98,7 +102,8 @@ Particularidades de ciertas raíces en Kielhorn, Grammatik § 435c ss.
 
 Vocal - primera consonante que le sigue (o su representante correspondiente en una sílaba de reduplicación) - **i** - todas las consonantes restantes
 
-:::indent
+:::
+::: indent
 ⟪अश्⟫ 9P: Caus. ⟪आशयति⟫, sílaba de reduplicación ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
 ⟪इष्⟫ 6P: Caus. ⟪एषयति⟫, sílaba de reduplicación ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫
 ⟪ईक्ष्⟫ 1Ā: Caus. ⟪ईक्षयति⟫, sílaba de reduplicación ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
@@ -107,27 +112,28 @@ Vocal - primera consonante que le sigue (o su representante correspondiente en u
 
 Vocal - primer consonante - segundo consonante (representante) - i - segundo consonante
 
-:::indent
+::: indent
 ⟪अञ्ज्⟫ 7P: Caus. ⟪अञ्जयति⟫, sílaba de reduplicación ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत्⟫
 ⟪ऋ⟫ 1P: Caus. ⟪अर्पयति⟫, sílaba de reduplicación ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत्⟫
 ⟪अर्ह्⟫ 1P: Caus. ⟪अर्हयति⟫, sílaba de reduplicación ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
 :::
 Esta forma de reduplicación de raíces derivadas que comienzan por vocal (causativos) se denomina "reduplicación ática".
-::::
 ## 56.2. El Injuntivo
 
-:::grammar-box
+::: grammar-box
 **El injuntivo es la forma sin augumento de las formas con augumento, es decir, sus formas son idénticas a las formas sin augumento del indicativo imperfecto o aoristo. La gramática india autóctona no reconoció el injuntivo como una categoría gramatical especial.**
 :::
 De acuerdo con la obra fundamental:
 
-:::media
+::: media
 ![](/images/lekt5601.jpg)
 Fig.:
 Profesor de Lingüística Comparada, Universidad de Erlangen-Núremberg (1955 - 1983)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5601))
-::::::indent
-Hoffmann, Karl &lt;1915 - 1996&gt;: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
+:::
+
+::: indent
+Hoffmann, Karl \<1915 - 1996\>: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
 :::
 el injuntivo en el Veda posee las siguientes propiedades:
 
@@ -136,7 +142,7 @@ el injuntivo en el Veda posee las siguientes propiedades:
 *   el injuntivo presente (= imperfecto sin augumento) denota el aspecto imperfectivo
 *   el injuntivo aoristo denota el aspecto perfectivo.
 
-:::grammar-box
+::: grammar-box
 **En el sánscrito postvédico, el injuntivo solo aparece en conexión con la partícula prohibitiva ⟪मा⟫ (+ injuntivo aoristo) o bien ⟪मा⟫ ⟪स्म⟫ (+ injuntivo presente o aoristo); la distinción de aspecto ya no suele tener relevancia.**
 
 (con aspecto
@@ -148,7 +154,7 @@ Sin embargo, esta distinción no suele hacerse en el sánscrito clásico.)
 :::
 ## 56.3. La oración prohibitiva
 
-:::grammar-box
+::: grammar-box
 **Forma principal:**
 
 **⟪मा⟫ + Injuntivo Aoristo**
@@ -157,11 +163,12 @@ Sin embargo, esta distinción no suele hacerse en el sánscrito clásico.)
 :::
 Ejemplos:
 
-:::indent
+::: indent
 ⟪मा⟫ ⟪कर्महेतुर्भूः⟫ «¡No te conviertas en aquel por quien motiva el fruto de la acción!» (Injuntivo Aoristo) (⟪भगवद्गीता⟫ 2,47c)
 
 ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ «¡No te hagas cobarde!» (Injuntivo Aoristo) (⟪भगवद्गीता⟫ 2,3a)
-::::::media
+:::
+::: media
 ![](/images/lekt5602.webp)
 Fig.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
 Póster (Ernesto "Che" Guevara) de un partido político en Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). «La traducción aproximada de lo escrito en él sería: El martirio es una experiencia fascinante para un revolucionario. Y un recurso desalentador para un cobarde. Che no es un modelo a seguir para los cobardes.»
@@ -169,7 +176,7 @@ Póster (Ernesto "Che" Guevara) de un partido político en Vallachira (വാല
 :::
 Ambos ejemplos tienen sentido prohibitivo. El Injuntivo Aoristo se emplea aquí en su significado original. (El predominio del Injuntivo Aoristo en este tipo de oraciones quizás se explique por la mayor frecuencia de las oraciones prohibitivas frente a las inhibitivas, aunque esta cuestión debería investigarse aún para el sánscrito clásico.)
 
-::::grammar-box
+::: grammar-box
 **Otras formas de las oraciones prohibitivas:**
 
 *   **⟪मा⟫ + (⟪स्म⟫) + Imperativo (raro)**  
@@ -182,25 +189,28 @@ Ambos ejemplos tienen sentido prohibitivo. El Injuntivo Aoristo se emplea aquí 
 
 Además, existen otras formas menos frecuentes de oraciones prohibitivas; véase, por ejemplo:
 
-:::indent
-Speyer, Jacob S. (Jacob Samuel) &lt;1849-1913&gt;: Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
-::::::::::media
+:::
+::: indent
+Speyer, Jacob S. (Jacob Samuel) \<1849-1913\>: Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
+:::
+::: media
 ![](/images/lekt5603.webp)
 Fig.: ⟪अलं⟫ ⟪विषादेन⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5603))
 :::
 ## 56.4. ⟪स्म⟫
 
-::::grammar-box
+::: grammar-box
 **⟪स्म⟫ destaca: "verdad, sin embargo, con seguridad, precisamente"**
 
 **Además, la siguiente construcción es muy importante:**
 
-:::indent
+:::
+::: indent
 ⟪स्म⟫ + Indicativo Presente se utiliza para narrar en el pasado, especialmente para indicar una duración en el pasado:
 
 por ejemplo, ⟪वसति⟫ ⟪स्म⟫ "habitó una vez" (⟪स्म⟫ a veces puede faltar).
-:::::::
+:::
 ## 56.5. Ejercicio
 
 A) Determine y traduzca las siguientes formas sin utilizar materiales de ayuda (!):
@@ -286,8 +296,7 @@ A) Determine y traduzca las siguientes formas sin utilizar materiales de ayuda (
 79.  ⟪मित्रध्रुक्⟫
 80.  ⟪अवोचन्⟫
 
-:::deleteme-box
-
+::: deleteme-box
 
 **lekt5601:** Profesor de Lingüística Comparada, Universidad de Erlangen-Núremberg (1955 - 1983) [Fuente de la imagen: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Acceso el 27-02-2009]
 

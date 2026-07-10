@@ -7,85 +7,88 @@ lesson_id: 19
 
 ## 19.1. Der Relativsatz
 
-:::grammar-box
+::: grammar-box
 
 **Schema:**
 
-:::indent
+
 **Relativpronomen -- Relativsatz, der das Nomen enthält, auf den sich der Relativsatz bezieht -- (Demonstrativpronomen) -- Hauptsatz**
-:::
+
 **Der Relativsatz kann auch nach dem Hauptsatz stehen, er kann aber nicht in den Hauptsatz eingeschoben werden.**
 
 **Das Relativpronomen und das Beziehungswort, das ja - im Gegensatz zum Deutschen - im Relativsatz steht, stehen in dem Kasus, den der Relativsatz syntaktisch erfordert. Das Demonstrativpronomen steht in dem Kasus, den der Hauptsatz syntaktisch erfordert.**
-
 :::
+
 Beispiele:
 
 Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstelle des Indikativs verwendet. Viele unserer Beispiele würden also bevorzugt im Optativ stehen.
 
 **1. Der Agens (⟪कर्तृ⟫) des Satzes wird durch einen Relativsatz näher bestimmt:**
 
-:::indent
+::: indent
 ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪स⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ =  ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ = ⟪येन⟫ ⟪नरेण⟫ ⟪पुण्यम्⟫ ⟪क्रियते⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ u.s.w. = "Ein Mann, der Verdienstvolles tut, kommt in den Himmel."
 :::
 **2. Das direkte Objekt (⟪कर्म⟫) des Hauptsatzes wird durch den Relativsatz näher bestimmt:**
 
-:::indent
+::: indent
 ⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "Die Götter beschützen einen Brahmanen, der ihnen als Opferherr opfert."
 :::
 **3. Die nähere Bestimmung eines Nomens des Hauptsatzes steht im Relativsatz:**
 
-:::indent
+::: indent
 ⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "Söhne von Männern, die Böses tun, erhalten keinen Reichtum."
 :::
 **4. Relativpronomen und Beziehungswort stehen im Genetiv (⟪षष्ठी⟫):**
 
-:::indent
+::: indent
 ⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "Nicht ist der Mann glücklich, dessen Söhne Böses tun."
 :::
 **5. Relativpronomen und Beziehungswort stehen im Instrumentalis (⟪तृतीया⟫):**
 
-:::indent
+::: indent
 ⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "Sie hassen den Feind, der ihr Dorf besiegt / erobert hat."
 :::
 **6. Relativpronomen und Beziehungswort stehen im Akkusativ (⟪द्वितीया⟫):**
 
-:::indent
+::: indent
 ⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = "Ein Mann, den die Göttin beschützt, erlangt Glück."
 :::
 ## 19.2. Das Relativpronomen = ⟪व्यपेक्षकसर्वनाम⟫ n.
 
-:::grammar-box
+::: grammar-box
 
-**⟪यद्⟫ "welcher, welche, welches" dekliniert wie ⟪तद्⟫, aber mit regelmäßigem Sandhi.**
+**⟪यद्⟫ "welcher, welche, welches" dekliniert wie ⟪तद्⟫, aber mit regelmässigem Sandhi.**
 
-| | | **Maskulinum** :br **⟪पुंस्⟫** | **Neutrum** :br **⟪नपुंसक⟫** | **Femininum** :br **⟪स्त्री⟫** |
+| | | **Maskulinum** :br ⟪पुंस्⟫ | **Neutrum** :br ⟪नपुंसक⟫ | **Femininum** :br ⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular** :br **⟪एकवचन⟫** | **1. Nominativ** :br **⟪प्रथमा⟫** | **yas** :br **⟪यस्⟫** | **yad** :br **⟪यद्⟫** | **yā** :br **⟪या⟫** |
-| | **2. Akkusativ** :br **⟪द्वितीया⟫** | **yam** :br **⟪यम्⟫** | **yad** :br **⟪यद्⟫** | **yām** :br **⟪याम्⟫** |
-| | **3. Instrumentalis** :br **⟪तृतीया⟫** | **yena** :br **⟪येन⟫** | **yena** :br **⟪येन⟫** | **yayā** :br **⟪यया⟫** |
-| | **6. Genetiv** :br **⟪षष्ठी⟫** | **yasya** :br **⟪यस्य⟫** | **yasya** :br **⟪यस्य⟫** | **yasyās** :br **⟪यस्यास्⟫** |
-| **Plural** :br **⟪बहुवचन⟫** | **1. Nominativ** :br **⟪प्रथमा⟫** | **ye** :br **⟪ये⟫** | **yāni** :br **⟪यानि⟫** | **yās** :br **⟪यास्⟫** |
-| | **2. Akkusativ** :br **⟪द्वितीया⟫** | **yān** :br **⟪यान्⟫** | **yāni** :br **⟪यानि⟫** | **yās** :br **⟪यास्⟫** |
-| | **3. Instrumentalis** :br **⟪तृतीया⟫** | **yais** :br **⟪यैस्⟫** | **yais** :br **⟪यैस्⟫** | **yābhis** :br **⟪याभिस्⟫** |
-| | **6. Genetiv** :br **⟪षष्ठी⟫** | **yeṣām** :br **⟪येषाम्⟫** | **yeṣām** :br **⟪येषाम्⟫** | **yāsām** :br **⟪यासाम्⟫** |
+| **Singular** :br ⟪एकवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **yas** :br ⟪यस्⟫ | **yad** :br ⟪यद्⟫ | **yā** :br ⟪या⟫ |
+| | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |
+| | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yena** :br ⟪येन⟫ | **yena** :br ⟪येन⟫ | **yayā** :br ⟪यया⟫ |
+| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yasya** :br ⟪यस्य⟫ | **yasya** :br ⟪यस्य⟫ | **yasyās** :br ⟪यस्यास्⟫ |
+| **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
+| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
 
 **Als Vorderglied von Komposita erscheint der Stamm ⟪यद्⟫ (unter Beachtung des Sandhi).**
 
 :::
+
+
 ## 19.3. Wortliste
 
-**⟪अर्थ⟫ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. **⟪अर्थम्⟫** (Akk.), **⟪अर्थेन⟫** (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu.
+**⟪अर्थ⟫ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. ⟪अर्थम्⟫ (Akk.), ⟪अर्थेन⟫ (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu.
 
-**⟪अर्थ⟫** ist einer der drei Lebenszwecke (**⟪पुरुषार्थ⟫**), wie sie in der weltlichen und religiösen Literatur beschrieben werden:
+⟪अर्थ⟫ ist einer der drei Lebenszwecke (⟪पुरुषार्थ⟫), wie sie in der weltlichen und religiösen Literatur beschrieben werden:
 
-:::indent
+::: indent
 **⟪धर्म⟫ m.:** Erlangung von Verdienst durch das Tun, was für einen Recht ist, bzw. zumindest Vermeiden von Übel, welches aus der Nichtbefolgung des Dharma folgen würde
 
 **⟪अर्थ⟫ m.:** zweckrationales Verhalten, Erlangung von Wohlstand
 
 **⟪काम⟫ m.:** Sinnenlust, insbes. auch auf sexuellem Gebiet
-::::::media
+:::
+::: media
 ![](/images/lekt1809.webp)
 Abb.: ⟪कामः⟫
 Illustration zum ⟪कामसूत्र⟫
@@ -97,20 +100,21 @@ Illustration zum ⟪कामसूत्र⟫
 
 **⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** aufbrechen, davongehen
 
-von **⟪स्था⟫** :
+von ⟪स्था⟫ :
 
-:::indent
+::: indent
 **⟪स्थान⟫ n.:** Stelle, (rechter) Ort, Standort
 
 **⟪स्थिति⟫ f.:** Verweilen, Standhaftigkeit, Beharren
 :::
-**⟪गर्भ⟫ m.:** Gebärmutter, Schoß, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
+**⟪गर्भ⟫ m.:** Gebärmutter, Schoss, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
 
-:::indent
+::: indent
 **⟪धनगर्भ⟫ 3:** "dessen Inneres Geld ist = in dem sich Geld befindet"
 
 **⟪गर्भगृह⟫ n.:** der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
-::::::media
+:::
+::: media
 ![](/images/lekt1901.webp)
 Abb.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
@@ -118,7 +122,7 @@ Badami (ಬದಾಮಿ)
 :::
 **⟪वारिद⟫ m.:** Wassergeber = Regenwolke
 
-:::media
+::: media
 ![](/images/lekt1902.jpg)
 Abb.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
@@ -128,14 +132,14 @@ Goa (⟪गोंय⟫)
 
 davon:
 
-:::indent
+::: indent
 **⟪वात⟫ m.:** Wind
 :::
 **⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** führen, fahren (trans.)
 
 **⟪छत्त्र⟫ n.:** Sonnenschirm, Schirm
 
-:::media
+::: media
 ![](/images/lekt1904.webp)
 Abb.: ⟪छत्त्रम्⟫
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
@@ -143,7 +147,7 @@ Abb.: ⟪छत्त्रम्⟫
 :::
 **⟪पण्डित⟫ m.:** Gelehrter, Weiser ; 3: klug, bewandert (in)
 
-:::media
+::: media
 ![](/images/lekt1903.jpg)
 Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
 ⟪१९५९⟫
@@ -189,7 +193,7 @@ Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **Übersetzen Sie:**
 
-:::indent
+::: indent
 ⟪येन⟫ ⟪येन⟫ ⟪च⟫ ⟪वातेन⟫  
 ⟪वारिदो⟫ ⟪वारि⟫ ⟪मुञ्चति⟫ ⟪।⟫  
 ⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫  
@@ -197,7 +201,7 @@ Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 :::
 Erklärung: ⟪वारि⟫ Nom., Akk. sg. zu ⟪वारि⟫ n.: Wasser
 
-:::indent
+::: indent
 ⟪यो⟫ ⟪धर्ममर्थं⟫ ⟪कामं⟫ ⟪च⟫  
 ⟪यथाकालं⟫ ⟪निषेवते⟫ ⟪।⟫  
 ⟪धर्मार्थकामसंयोगं⟫  
@@ -205,12 +209,12 @@ Erklärung: ⟪वारि⟫ Nom., Akk. sg. zu ⟪वारि⟫ n.: Wasser
 :::
 Erklärung: ⟪यथाकालम्⟫ Avyayībhāvakompositum: zur rechten Zeit ; immer, wenn dafür der rechte Zeitpunkt vorliegt.
 
-:::indent
+::: indent
 ⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
 ⟪स⟫ ⟪पुत्रो⟫ ⟪यस्तु⟫ ⟪जीवति⟫ ⟪।⟫  
 ⟪स⟫ ⟪जीवति⟫ ⟪गुणो⟫ ⟪यस्य⟫  
 ⟪धर्मो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪जीवति⟫ ⟪॥३॥⟫
-::::::indent
+
 ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫  
 ⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
@@ -218,7 +222,7 @@ Erklärung: ⟪यथाकालम्⟫ Avyayībhāvakompositum: zur rechten 
 :::
 Erklärung: ⟪पुमान्⟫ Nom. sg. zu ⟪पुंस्⟫ "Mann" ; ⟪लोके⟫ Lokativ sg. zu ⟪लोक⟫ m.: in der ...
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt1809:** Illustration zum ⟪कामसूत्र⟫ [Bildquelle: Wikipedia, Public domain]
 

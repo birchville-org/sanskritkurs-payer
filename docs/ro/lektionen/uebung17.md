@@ -72,7 +72,7 @@ B) Introduceți agentul și verbul la plural în propozițiile formate în A)
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मं⟫ ⟪द्विषन्ति⟫ ⟪।⟫ ⟪द्विषते⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung025.webp)
 Fig.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung025))
@@ -174,7 +174,7 @@ Traduceți următoarele forme verbale și indicați rădăcina corespunzătoare:
 ⟪४५⟫. **⟪जीव्यते⟫** (⟪जीव्⟫ 1P): se trăiește
 
 ⟪४६⟫. **⟪दिश्यन्न्ते⟫** (⟪दिश्⟫ 6U): ei sunt arătați
-:::media
+::: media
 ![](/images/uebung026.webp)
 Fig.: ⟪शृणोति⟫
 (Sursă imagine: [Detalii](/licenses#uebung026))

@@ -1,21 +1,19 @@
 ---
-title: Lesson 13
-subtitle: "PPP in -na-"
+title: Lektion 13
+subtitle: "PPP auf -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
 # Lesson 13
 
----
-
 ## 13.1. PPP on -na-
 
 No fixed rules can be established for the distribution of PPPs on -ta- or -na-. However:
 
-:::grammar-box
+::: grammar-box
 
 Almost all roots ending in -d form the PPP on -na-. In this case, -d-n- is replaced by -n-n-, which otherwise does not occur in word sandhi, but is an imitation of sentence sandhi.
 
@@ -23,130 +21,122 @@ Example:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 :::
----
 
-## 13.2. Further on the Use of the PPP
+## 13.2. Further on the usage of the PPP
 
-::::grammar-box
+::: grammar-box
 
-1. The PPP of verbs meaning "to think," "to wish," "to know," "to know (be acquainted with)," "to revere," as well as certain other verbs marked in the Dhātupāṭha, the root list for Pāṇini, by ñi, does not only have past-tense meaning, but can also be used with present-tense meaning:
+**1. The PPP of verbs meaning "to think", "to wish", "to know", "to know", "to revere" as well as some other verbs, which are marked in the Dhātupāṭha, the root list of Pāṇini, by ñi, does not only have past tense meaning, but can also be used in present tense meaning:**
+e.g.
+:::
+::: indent
+⟪इष्ट⟫ "desired" (i.e. not only desired in the past, but also in the present)
+⟪त्वरित⟫ "hastening, hurried" (PPP to tvar 1 Ā "to hasten"; Dhātupāṭha: ñitvárā)
+:::
 
-    e.g.
+**2. The PPP can be used attributively as an adjective:**
+e.g.
+::: indent
+⟪इष्टं⟫ ⟪फलम्⟫ "the desired fruit (e.g. of actions)"
+:::
 
-    :::indent
-    ⟪इष्ट⟫ "desired" (i.e., not only wished for in the past, but also in the present)
+If in this case ⟪अपि⟫ follows the PPP, then ⟪अपि⟫ has the meaning "although":
+e.g.
+::: indent
+⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Although he desires the fruit, he does not obtain it."
+:::
 
-    ⟪त्वरित⟫ "hastening, hurried" (PPP to tvar 1 Ā "to hasten"; Dhātupāṭha: ñitvárā)
-    :::2. The PPP can be used attributively as an adjective:
+**3. The neuter singular of the PPP of any verb can also be used as a verbal abstract:**
+e.g.
+::: indent
+⟪गत⟫ n.: "the going, the gait"
+⟪नृत्त⟫ n.: "the dancing, the dance"
+:::
 
-    e.g.
+## 13.3. Attributive determinations of nouns (word order)
 
-    :::indent
-    ⟪इष्टं⟫ ⟪फलम्⟫ "the desired fruit (e.g., of actions)"
-    :::If ⟪अपि⟫ follows the PPP in this case, ⟪अपि⟫ has the meaning "although":
+::: grammar-box
 
-    e.g.
-
-    :::indent
-    ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Although he desires the fruit, he does not obtain it."
-    :::3. The neuter singular of the PPP of any verb can also be used as a verbal abstract:
-
-    e.g.
-
-    :::indent
-    ⟪गत⟫ n.: "the going, the gait"
-
-    ⟪नृत्त⟫ n.: "the dancing, the dance"
-    :::::::---
-
-## 13.3. Attributive Determinations of Nouns (Word Order)
-
-::::grammar-box
-
-Attributes (modifiers) appear in prose in the normal word order before the word they modify. Adjectival attributes agree with the noun in number, case, and gender:
+Attributes (modifiers) stand in prose in the normal word order before the word they specify. Adjectival attributes agree with the noun in number, case, and gender:
 
 Example:
 
-:::indent
-⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "A holy person sees the desired fruit (of their deeds)."
-:::::::
----
+:::
+::: indent
+⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "A holy one sees the desired fruit (of his works)."
+:::
 
-## 13.4. Formation of Adjectives in -mant and -vant (taddhita)
+## 13.4. Formation of adjectives on -mant and -vant (taddhita)
 
-::::grammar-box
+::: grammar-box
 
-Possessive adjectives are formed from nouns using the taddhita suffixes -mant or -vant. Their meaning is: "possessing that which is denoted by the underlying noun."
+Using the taddhita suffixes -mant or -vant, possessive adjectives are formed from nouns. Their meaning is: "possessing that which is designated by the underlying noun".
 
 -vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
 
 Examples:
 
-:::indent
+:::
+::: indent
 ⟪पशुमन्त्⟫ "possessing cattle"
 
 ⟪गुणवन्त्⟫ "possessing good qualities / virtue"
-:::::::
----
+:::
 
-## 13.5. Stem Inflection of Nouns
+## 13.5. Stem gradation of nouns
 
-Stems ending in -mant or -vant belong to the nominal stems with stem gradation.
+The stems on -mant or -vant belong to the nominal stems with stem gradation.
 
-:::grammar-box
+::: grammar-box
 In nominal stems with stem gradation, one distinguishes between strong and weak cases (cases). In the strong cases, the stem-forming suffix — in the case of root nouns, the root-like component — has the strong grade or lengthened grade, in the weak cases the weak grade.
 :::
 **Strong cases are:**
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **For Masculine and Feminine**:br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ | Nominative:br⟪प्रथमा⟫:br:brVocative:br⟪सम्बोधनप्रथमा⟫ |
-| **For Neuter**:br⟪नपुंसक⟫ | — | — | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ |
+| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ | Nominative:br⟪प्रथमा⟫:br:brVocative:br⟪सम्बोधनप्रथमा⟫ |
+| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ |
 
 **All other cases are weak.**
 
-:::grammar-box
-As the first member of a compound, a noun with stem gradation stands in the weak stem (in the case of three-stemmed nouns, in the so-called middle stem).
+::: grammar-box
+As the first member of a compound, a noun with stem gradation stands in the weak stem (in the so-called middle stem for three-stem nouns).
 :::
----
 
 ## 13.6. On Word Sandhi
 
 To understand the individual forms of the declension of nouns ending in -mant and -vant, the following laws of word sandhi are necessary:
 
-::::grammar-box
+::: grammar-box
+1. Number of final consonants of a word: Of two or more consonants that a word would end with, only the first consonant remains, the others are dropped. The combination -r- + consonant is permitted.
 
-1. Number of final consonants of a word: If a word ends in two or more consonants, only the first consonant is retained, the others are dropped. The combination -r- + consonant is permitted.
+2. A voiceless stop before a voiced stop (not a nasal) is replaced by the corresponding voiced stop:
+:::
+Examples:
+::: indent
+-t + bh- » -d-bh- ⟪द्भ्⟫
 
-2. A voiceless stop is replaced by the corresponding voiced stop before a voiced stop (not a nasal):
+-k + bh- » -g-bh- ⟪ग्भ्⟫
 
-    Examples:
+-c + bh- » -g-bh- ⟪ग्भ्⟫
 
-    :::indent
-    -t + bh- » -d-bh- ⟪द्भ्⟫
+-c + dh- » -g-dh- ⟪ग्ध्⟫
+:::
 
-    -k + bh- » -g-bh- ⟪ग्भ्⟫
+## 13.7. Case Endings of Consonant Stems
 
-    -c + bh- » -g-bh- ⟪ग्भ्⟫
+::: grammar-box
 
-    -c + dh- » -g-dh- ⟪ग्ध्⟫
-    :::::::---
-
-## 13.7. Case endings of consonant stems
-
-:::grammar-box
-
-For consonant-ending stems:
-* the ending of the accusative (dvitīyā) plural masculine and feminine is -as.
-* for regularly formed stems, the neuter in nominative (prathamā) and accusative (dvitīyā) singular is without ending.
-* for regularly formed stems, the neuter has the ending of the nominative and accusative plural -i.
+With consonant-final stems:
+* the ending of the Accusative (dvitīyā) Plural Masculine and Feminine is -as.
+* with regularly formed stems, the Neuter in Nominative (prathamā) and Accusative (dvitīyā) Singular is without ending.
+* with regularly formed stems, in the Neuter, the ending of the Nominative and Accusative Plural is -i.
 
 :::
----
 
-## 13.8. Declension of stems in -mant and -vant
+## 13.8. Declension of Stems ending in -mant and -vant
 
-:::grammar-box
+::: grammar-box
 
 * strong stem: Noun + -mant- / -vant-
 * weak stem: Noun + -mat- / -vat- (from: *-mnt- / *-vnt-)
@@ -162,13 +152,12 @@ For consonant-ending stems:
 
 Feminine:
 
-The feminine stem of stems in -mant- and -vant- ends in -mat-ī or -vat-ī. The declension follows that of devī, i.e., there is no stem gradation.
+The feminine stem of the stems ending in -mant- and -vant- ends in -mat-ī or -vat-ī. The declension proceeds as with devī, i.e., there is no stem gradation.
 
 Example:
 * paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
 
 :::
----
 
 ## 13.9. Word List
 
@@ -187,28 +176,28 @@ Learn the following words:
 >
 > In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
 >
-> [Source: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Source: **Dowson, John \<1820-1881\>:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
-:::media
+::: media
 ![](/images/lekt1301.webp)
 Fig.: ⟪महिषासुरः⟫
 (Image source: [Details](/en/licenses#lekt1301))
 :::
 - **guṇa** m. ⟪गुण⟫ : thread, cord; quality, good quality
 - **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : to go, to fall into
-- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : to be, to exist
-- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : to throw, (away-)cast
+- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : to be, to be present
+- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : to throw, to hurl (away)
 - **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : to go
 - **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : to protect, to guard
 
-:::indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : to drink (traditionally counted among the 1st class)
+::: indent
+**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : to drink (traditionally counted in the 1st class)
 :::
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : to hate, to be hostile to
+- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : to hate, to be hostile towards
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : to eat, to consume
 - **anna** n. ⟪अन्न⟫ : food (from PPP: *ad-na: that which is eaten)
 
-:::media
+::: media
 ![](/images/lekt1304.webp)
 Fig.: ⟪अन्नम्⟫
 (Image source: [Details](/en/licenses#lekt1304))
@@ -217,21 +206,22 @@ Word formation:
 
 pad 4 Ā:
 
-:::indent
+::: indent
 **pada** n. ⟪पद⟫ : step, location, place
 
 **pāda** m. ⟪पाद⟫ : foot, a quarter, verse line
-::::::media
+:::
+
+::: media
 ![](/images/lekt1303.webp)
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Image source: [Details](/en/licenses#lekt1303))
 :::
 dviṣ 2 U:
 
-:::indent
+::: indent
 **dveṣa** ⟪द्वेष⟫ : hatred
 :::
----
 
 ## 13.10. Exercise
 
@@ -241,7 +231,7 @@ A) Translate and convert into active present tense sentences:
 ⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
 ⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1305.webp)
 Fig.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
 (Image source: [Details](/en/licenses#lekt1305))
@@ -274,8 +264,6 @@ B) Translate and convert into passive sentences of the past tense:
 ⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
 ⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
 
----
-
 ## 13.11. Review Exercise
 
 A) Translate the following sentences:
@@ -299,16 +287,16 @@ B) Convert the sentences from Exercise A) into the passive voice.
 
 C) Form a PPP construction for the sentences from Exercise A).
 
-:::media
+::: media
 ![](/images/lekt1302.webp)
 Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
 (Image source: [Details](/en/licenses#lekt1302))
 :::
 D) From which sound combinations could the following Sandhi forms have arisen? Provide all possibilities:
 
-1. -a before a vowel (except a-)
+1. -a before vowel (except a-)
 2. -ā-
-3. -ā before a vowel
+3. -ā before vowel
 4. -ā before voiced consonants
 5. -ī-
 6. -ū-
@@ -320,20 +308,20 @@ D) From which sound combinations could the following Sandhi forms have arisen? P
 12. -o before voiced consonants
 13. -ai-
 14. -au-
-15. -y before a vowel
-16. -v before a vowel
-17. -r before a vowel
-18. -ay before a vowel
-19. -av before a vowel
+15. -y before vowel
+16. -v before vowel
+17. -r before vowel
+18. -ay before vowel
+19. -av before vowel
 20. -ar-
-21. -ir before a vowel or a voiced consonant
-22. -īr before a vowel or a voiced consonant
-23. -ur before a vowel or a voiced consonant
-24. -ūr before a vowel or a voiced consonant
-25. -er before a vowel or a voiced consonant
-26. -or before a vowel or a voiced consonant
-27. -air before a vowel or a voiced consonant
-28. -aur before a vowel or a voiced consonant
+21. -ir before vowel or voiced consonant
+22. -īr before vowel or voiced consonant
+23. -ur before vowel or voiced consonant
+24. -ūr before vowel or voiced consonant
+25. -er before vowel or voiced consonant
+26. -or before vowel or voiced consonant
+27. -air before vowel or voiced consonant
+28. -aur before vowel or voiced consonant
 29. -ñj-
 30. -ñś-
 31. -ñch-
@@ -341,21 +329,21 @@ D) From which sound combinations could the following Sandhi forms have arisen? P
 33. -śc-
 34. -ṣṭ-
 35. -st(h)-
-36. Anusvāra before a consonant
+36. Anusvāra before consonant
 37. -ṃśc-
 38. -ṃṣṭ-
 39. -mst-
 
 E) Translate into Sanskrit:
 
-1. The goddess was angered.
-2. Śūdras have reached a heaven.
-3. The farmers have walked the path.
-4. The people were liberated by the Buddha's teaching.
+1. The goddess was enraged.
+2. Śūdras have entered into a heaven.
+3. The farmers have gone the way.
+4. By the Buddha's teaching, the people were liberated.
 5. The son danced.
 6. The amulet has protected the teacher.
 7. A Brāhmaṇa has not spoken an untruth.
-8. Śūdra women have honored the goddess with offerings.
+8. Śūdra women have worshipped the goddess with offerings.
 9. Buddha has awakened to the truth = Buddha has recognized the truth.
 10. The Vedic sages have heard the Śruti.
 11. The sacrificial priests have pressed the Soma.

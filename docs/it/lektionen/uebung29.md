@@ -16,7 +16,7 @@ Tradurre letteralmente in un buon tedesco e imparare a memoria i testi sanscriti
 
 L'ignoranza significa considerare ciò che è impermanente, impuro, sofferente e non-assoluto come permanente, puro, gioioso o assoluto.
 
-:::deleteme-box Spiegazione
+::: deleteme-box Spiegazione
 **⟪आत्मसु⟫** = Loc. sg. di ⟪आत्मन्⟫ m. "Anima; l'Assoluto, nella misura in cui si realizza nell'individuo"
 :::
 ### ⟪२⟫. Sul corretto uso dello ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4)
@@ -35,7 +35,7 @@ Gli essenti devono tremare davanti a un governo troppo severo (daṇḍa). Un go
 > Gioioso per l'attività secondo il proprio diritto e la propria consuetudine  
 > Si muove sulle proprie vie.
 
-:::deleteme-box Glossario & Grammatica
+::: deleteme-box Glossario & Grammatica
 - **⟪उद्वेजनीय⟫** (3): qualcosa di cui si deve tremare
 - **⟪विज्ञात⟫** (3): riconosciuto; n.: riconoscimento
 - **⟪योजयति⟫** (Caus. di **⟪युज्⟫**): imbracare, collegare con
@@ -46,8 +46,9 @@ Gli essenti devono tremare davanti a un governo troppo severo (daṇḍa). Un go
 - **⟪राज्ञा⟫**: Istr. sg. masc. di **⟪राजन्⟫** (Re)
 - **⟪स्वेषु⟫**: Loc. plur. masc./neutr. di **⟪स्व⟫** (proprio)
 - **⟪वर्त्मसु⟫**: Loc. plur neutr. di **⟪वर्त्मन्⟫** (via, sentiero)
-::::::media
+:::: media
 ![](/images/uebung046.webp)
 Fig.: ⟪चतुर्वर्णाश्रमो⟫ ⟪लोको⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung046))
+::::
 :::

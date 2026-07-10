@@ -1,570 +1,588 @@
 ---
-title: Lektion 20
-subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
+title: 第20课
+subtitle: "占有复合词 = ⟪बहुव्रीहि⟫ 阳性"
 lesson_id: 20
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 20
 
 ## 20.1. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
 
-:::media
+::: media
 ![](/images/lekt2004.webp)
-Abb.: ⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
-Jodhpur = ⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt2004)) <!-- TODO: Fallback translation -->
+图：⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
+焦特布尔 = ⟪जोधपुर⟫
+（图片来源：[详情](/zh-CN/licenses#lekt2004)）
 :::
-⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, der viel Reis besitzt" <!-- TODO: Fallback translation -->
+⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = “拥有大量大米的人”
 
-::::grammar-box
+::: grammar-box
 
-**Ein Bahuvrīhi bezeichnet im Unterschied zum Tatpuruṣa etwas anderes, als durch seine Glieder ausgedrückt wird: während ⟪बालपुत्रः⟫ als Tatpuruṣa aufgelöst "ein junger Sohn" bedeutet, also etwas, das durch das Schlussglied des Kompositums (⟪पुत्र⟫) ausgedrückt wird, bedeutet ⟪बालपुत्रः⟫ als Bahuvrīhi aufgelöst "einer, dessen Sohn jung ist", d.h. das Bezeichnete ist weder der Sohn (⟪पुत्र⟫) noch unbedingt jung (⟪बाल⟫), sondern eine vom jungen Sohn verschiedene Person, nämlich sein Vater.** <!-- TODO: Fallback translation -->
+**Bahuvrīhi（复合词）与Tatpuruṣa（持业释）不同，其所指并非由其组成部分直接表达：当⟪बालपुत्रः⟫作为Tatpuruṣa解析时意为“年轻的儿子”，即由复合词的末成分（⟪पुत्र⟫）所表达的内容；而⟪बालपुत्रः⟫作为Bahuvrīhi解析时意为“其子年轻之人”，即所指对象既非儿子（⟪पुत्र⟫），也不一定是年轻的（⟪बाल⟫），而是与年轻儿子不同的另一人，即其父亲。**
 
-**Possessivkomposita sind zunächst immer Adjektive, die allerdings substantiviert werden können. Deshalb hängt das grammatische Geschlecht eine Bahuvrīhi von dem ab, worauf sich das Bahuvrīhi bezieht, und nicht von Geschlecht des letzten Kompositionsgliedes.** <!-- TODO: Fallback translation -->
-
-:::::::grammar-box
-
-**Schema für die Auflösung eines Bahuvrīhi:** <!-- TODO: Fallback translation -->
-
-**1. Glied meist im Nominativ (⟪प्रथमा⟫) Sing., Dual oder Plural -- 2. Glied im Nominativ Sing., Dual oder Plural -- Relativpronomen in einem anderen Kasus als Nominativ (meist Genetiv - ⟪षष्ठी⟫) und in Geschlecht und Zahl des Gesamtbahuvrīhi -- Demonstrativpronomen in Zahl, Fall und Geschlecht des Gesamtbahuvrīhi.** <!-- TODO: Fallback translation -->
+**占有复合词首先始终是形容词，尽管它们可以被名词化。因此，Bahuvrīhi的语法性别取决于Bahuvrīhi所指的对象，而不是最后一个复合成分的性别。**
 
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+::: grammar-box
 
-:::indent
-⟪गतपापः⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, dessen Böses gegangen ist" = "einer, der frei von Übeltaten ist" <!-- TODO: Fallback translation -->
+**复合词解析模式：**
 
-Akk. sg. ⟪गतपापम्⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तम्⟫ <!-- TODO: Fallback translation -->
-
-Inst. sg. ⟪गतपापेन⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तेन⟫ <!-- TODO: Fallback translation -->
-
-Gen. sg. ⟪गतपापस्य⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तस्य⟫ <!-- TODO: Fallback translation -->
-
-Nom. pl. ⟪गतपापाः⟫ = ⟪गतानि⟫ ⟪पापानि⟫ ye⟪षां⟫ ⟪ते⟫ <!-- TODO: Fallback translation -->
-
-usw. <!-- TODO: Fallback translation -->
-
-⟪अस्तमोहा⟫ = ⟪अस्तो⟫ ⟪मोहो⟫ ⟪यया⟫ ⟪सा⟫ = "eine (Frau), die die Verblendung abgeworfen hat" <!-- TODO: Fallback translation -->
-
-⟪प्राप्तोदको⟫ ⟪ग्रामः⟫ = ⟪प्राप्तमुदकं⟫ ⟪यं⟫ s ⟪ग्रामः⟫ = "Ein Dorf, an das das Wasser herangekommen ist" = "ein von der Überschwemmung bedrohtes Dorf" <!-- TODO: Fallback translation -->
-
-⟪पुण्यवत्पुत्रः⟫ als Bahuvrīhi = ⟪पुण्यवान्पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫, oder: ⟪पुण्यवन्तः⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer, dessen Sohn Verdienst besitzt" oder: "einer, dessen Söhne Verdienst besitzen" <!-- TODO: Fallback translation -->
-:::::::grammar-box
-
-**Das Verhältnis von Vorderglied zu Hinterglied kann bei einem Bahuvrīhi sein:** <!-- TODO: Fallback translation -->
-
-*   **attributiv** <!-- TODO: Fallback translation -->
-*   **appositionell** <!-- TODO: Fallback translation -->
-*   **kasuell** <!-- TODO: Fallback translation -->
-*   **adverbial** <!-- TODO: Fallback translation -->
-
-**Wie beim Tatpuruṣa steht das näher bestimmte Glied meist an zweiter Stelle.** <!-- TODO: Fallback translation -->
+**1.成员通常为主格（⟪प्रथमा⟫）单数、双数或复数——2.成员为主格单数、双数或复数——关系代词处于主格以外的其他格（通常为属格——⟪षष्ठी⟫），且性数与复合词整体一致——指示代词的性数格与复合词整体一致。**
 
 :::
-Traditionell unterscheidet man: <!-- TODO: Fallback translation -->
+示例：
 
-*   ⟪समानाधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ stehen Vorderglied und Hinterglied im selben Kasus <!-- TODO: Fallback translation -->
+::: indent
+⟪गतपापः⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪सः⟫ = “一个其恶已去者” = “一个无恶行者”
 
-*   ⟪व्यधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ stehen Vorderglied und Hinterglied in verschiedenen Kasus <!-- TODO: Fallback translation -->
+Akk. sg. ⟪गतपापम्⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तम्⟫
+
+工具格单数 ⟪⟪गतपापेन⟩⟫ = ⟪⟪गतं⟩⟫ ⟪⟪पापं⟩⟫ ⟪⟪यस्य⟩⟫ ⟪⟪तेन⟩⟫
+
+通用单数 ⟪गतपापस्य⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तस्य⟫
+
+主格复数 ⟪गतपापाः⟫ = ⟪गतानि⟫ ⟪पापानि⟫ ye⟪षां⟫ ⟪ते⟫
+
+等等。
+
+⟪अस्तमोहा⟫ = ⟪अस्तो⟫ ⟪मोहो⟫ ⟪यया⟫ ⟪सा⟫ = “已舍弃愚昧（的女性）”
+
+⟪प्राप्तोदको⟫ ⟪ग्रामः⟫ = ⟪प्राप्तमुदकं⟫ ⟪यं⟫ s ⟪ग्रामः⟫ = “一个已接近水边的村庄” = “一个受洪水威胁的村庄”
+
+⟪पुण्यवत्पुत्रः⟫ 作为 Bahuvrīhi（外摩多）复合词 = ⟪पुण्यवान्पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫，或：⟪पुण्यवन्तः⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪सः⟫ = “拥有功德之子的（人）”或：“拥有拥有功德之儿子们（的人）”
+:::
+::: grammar-box
+
+**前分与后分的关系在 Bahuvrīhi 复合词中可能是：**
+
+*   **attributive**
+*   **appositiv**
+*   **kausal**
+*   **adverbial**
+
+**与Tatpuruṣa类似，被限定的成分通常位于第二位。**
+
+:::
+传统上，人们区分：
+
+*   ⟪समानाधिकरणबहुव्रीहिः⟫ : 在 ⟪विग्रहवाक्य⟫ 中，前件与后件处于相同的格
+
+*   ⟪व्यधिकरणबहुव्रीहिः⟫ : 在 ⟪विग्रहवाक्य⟫ 中，前件与后件处于不同的格
 
 ## 20.2. Bahuvrīhi mit attributivem Vorderglied
 
-::::grammar-box
+::: grammar-box
 
-**Schema:** <!-- TODO: Fallback translation -->
+**Schema:**
 
-:::indent
-**Adjektiv -- Nomen** <!-- TODO: Fallback translation -->
 :::
-**Beispiel:** <!-- TODO: Fallback translation -->
-
-:::indent
-⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = "ein Brahmane, dessen Sohn / Söhne gute Eigenschaften besitzt / besitzen" <!-- TODO: Fallback translation -->
+::: indent
+**形容词 -- 名词**
 :::
-**Besonders häufig ist die -- bei Tatpuruṣa seltene -- Attributivbestimmung durch ein PPP. Das Relativpronomen steht dann bei der Auflösung meist im Instrumentalis (⟪तृतीया⟫) (seltener im Genetiv / ⟪षष्ठी⟫).** <!-- TODO: Fallback translation -->
+**示例：**
 
-**Faustregel:** <!-- TODO: Fallback translation -->
-
-*   **PPP - Substantiv = meistens Bahuvrīhi** <!-- TODO: Fallback translation -->
-*   **Substantiv -- PPP = meistens Tatpuruṣa** <!-- TODO: Fallback translation -->
-
-**Beispiel:** <!-- TODO: Fallback translation -->
-
-:::indent
-⟪कृतफल⟫ ⟪३⟫ = ⟪कृतं⟫ ⟪फलं⟫ ye⟪न⟫ ⟪सः⟫ ⟪।⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫ ye⟪न⟫ ⟪तत्⟫ = "einer / eine / eines, der / die / das ein Ergebnis hervorgebracht hat, jemand / etwas effektives" <!-- TODO: Fallback translation -->
-::::::
-## 20.3. Bahuvrīhi mit appositionellem Vorderglied
-
-::::grammar-box
-
-**Schema:** <!-- TODO: Fallback translation -->
-
-:::indent
-**Substantiv -- Substantiv** <!-- TODO: Fallback translation -->
+::: indent
+⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = “一位拥有良好品质的儿子/众儿子的婆罗门”
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**非常常见的是——在Tatpuruṣa中罕见的——由PPP（过去分词）构成的定语修饰。在解析时，关系代词通常位于工具格（⟪तृतीया⟫）（较少见于属格/⟪षष्ठी⟫）。**
 
-:::indent
-⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = "ein Mann, dessen Söhne Helden sind" <!-- TODO: Fallback translation -->
+**Faustregel:**
 
-⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "der / die / das, dessen Ende dieses ist" = "damit endender" <!-- TODO: Fallback translation -->
-::::::::::grammar-box
+*   **PPP - 名词 = 多为 Bahuvrīhi（持业释）**
+*   **名词 -- PPP = 多为 Tatpuruṣa（依主释）**
 
-**Sehr wichtig sind appositionelle Bahuvrīhi mit den Endgliedern ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ "erster, Anfang", seltener ⟪प्रभृति⟫ "Anfang". Solche Komposita entsprechen dem "u.s.w.":** <!-- TODO: Fallback translation -->
+**示例：**
 
-**Beispiel:** <!-- TODO: Fallback translation -->
-
-:::indent
-⟪देवा⟫ ⟪इन्द्रादयः⟫ =  ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪ते⟫ ⟪देवाः⟫ = "Die Götter, deren Anfang Indra ist" = "die Götter Indra u.s.w." = "Indra und die übrigen Götter" <!-- TODO: Fallback translation -->
+::: indent
+⟪कृतफल⟫ ⟪३⟫ = ⟪कृतं⟫ ⟪फलं⟫ ye⟪न⟫ ⟪सः⟫ ⟪।⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫ ye⟪न⟫ ⟪तत्⟫ = “一个/一位/一个，其产生了结果的人/事物，某个人/某物，有效的”
 :::
-**Zum Ausdruck von "nur" kann man bahuvrīhis mit ⟪मात्रा⟫ f. "Maß, Begrenzung" als Hinterglied verwenden:** <!-- TODO: Fallback translation -->
+## 20.3. 带有同位语前成分的复合词（Bahuvrīhi）
 
-**Beispiel:** <!-- TODO: Fallback translation -->
+::: grammar-box
 
-:::indent
-⟪शब्दमात्रम्⟫ = ⟪शब्दो⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तत्⟫ = "das, dessen Maß ein Wort ist" = "nur ein Wort" <!-- TODO: Fallback translation -->
+**Schema:**
+
 :::
-**⟪मात्र⟫ nach einem PPP ist mit "sobald als" zu übersetzen:** <!-- TODO: Fallback translation -->
+::: indent
+**名词 -- 名词**
+:::
+**示例：**
 
-**Beispiel:** <!-- TODO: Fallback translation -->
+::: indent
+⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = “一位其子皆为英雄的男子”
 
-:::indent
-⟪जातमात्रं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = ⟪जातं⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = "sie erschlagen einen Feind, dessen Maß das Entstehen ist" = "sie erschlagen den Feind, sobald er entstanden ist" <!-- TODO: Fallback translation -->
-:::::::::media
+⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = “……的（那个/那个/那个），其终点是此者” = “以此终结的”
+:::
+::: grammar-box
+
+**非常重要的是带有后缀⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ “第一，开端”的同位语 Bahuvrīhi 复合词，较少见的是⟪प्रभृति⟩ “开端”。此类复合词相当于“等等”：**
+
+**示例：**
+
+:::
+::: indent
+⟪देवा⟫ ⟪इन्द्रादयः⟫ =  ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪ते⟫ ⟪देवाः⟩ = “以因陀罗为首的众神” = “因陀罗等众神” = “因陀罗及其他众神”
+:::
+**表达“仅”时，可使用以 ⟪मात्रा⟫ f. “度量、界限”为后成分的 bahuvrīhi 复合词：**
+
+**示例：**
+
+::: indent
+⟪शब्दमात्रम्⟫ = ⟪शब्दो⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तत्⟫ = “其量为一词者” = “仅一词”
+:::
+**⟪मात्र⟫ 在过去分词（PPP）之后，应译为“一旦……”：**
+
+**示例：**
+
+::: indent
+⟪जातमात्रं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = ⟪जातं⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = “他们击杀其量即为生起之敌” = “他们击杀已生起之敌”
+:::: media
 ![](/images/lekt2005.webp)
-Abb.: ⟪देवा⟫ ⟪यीश्वादयः⟫
-Jesus und die übrigen Götter, Ahmedabad
-(Bildquelle: [Details](/licenses#lekt2005)) <!-- TODO: Fallback translation -->
+图：⟪देवा⟫ ⟪यीश्वादयः⟫
+耶稣与其他诸神，艾哈迈达巴德
+（图片来源：[详情](/zh-CN/licenses#lekt2005)）
+::::
 :::
-## 20.4. Bahuvrīhi mit kasuellem Vorderglied
+## 20.4. 前成分为与格的多限定复合词
 
-d.h. Bahuvrīhi, deren Vorderglied einen anderen Kasus als den Nominativ (⟪प्रथमा⟫) vertritt. <!-- TODO: Fallback translation -->
+即 Bahuvrīhi（多限定复合词），其前成分代表除主格（⟪प्रथमा⟩）之外的其他格。
 
-Beispiel: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪देवरूपा⟫ = ⟪देवस्यैव⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ = "eine (Frau), deren Gestalt die eines Gottes ist" "eine Frau von göttlichem Aussehen" <!-- TODO: Fallback translation -->
-:::::::grammar-box
+::: indent
+⟪देवरूपा⟫ = ⟪देवस्यैव⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ = “一位（女性），其形貌如神” “一位具有神圣外貌的女子”
+:::
+::: grammar-box
 
-**Ausnahme zur allgemeinen Regel über die Reihenfolge der Kompositionsglieder:** <!-- TODO: Fallback translation -->
+**一般规则关于构图要素顺序的例外：**
 
-**Das kasuelle Glied steht an zweiter Stelle, wenn es einen Körperteil (bes. die Hand) bezeichnet:** <!-- TODO: Fallback translation -->
+**当“偶发成分”指代身体部位（尤其是手）时，它位于第二位：**
 
-**Beispiel:** <!-- TODO: Fallback translation -->
+**示例：**
 
-:::indent
-⟪दण्डहस्तः⟫ =  ⟪दण्डो⟫ ⟪हस्ते⟫ (Lok. sg.) ⟪यस्य⟫ ⟪सः⟫ = "einer, in dessen Hand sich ein Stock befindet" = "einer, der einen Stock in der Hand trägt." <!-- TODO: Fallback translation -->
-:::::::::media
+:::
+::: indent
+⟪दण्डहस्तः⟫ =  ⟪दण्डो⟫ ⟪हस्ते⟫ (Lok. sg.) ⟪यस्य⟫ ⟪सः⟫ = “手持棍棒之人” = “手持棍棒者”。
+:::: media
 ![](/images/lekt2001.webp)
-Abb.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
-Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr.
-(Bildquelle: [Details](/licenses#lekt2001)) <!-- TODO: Fallback translation -->
+图：⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
+暹粒（ក្រុងសៀមរាប），柬埔寨，公元9世纪。
+（图片来源：[详情](/zh-CN/licenses#lekt2001)）
+::::
 :::
-## 20.5. Bahuvrīhi mit adverbiellem Vorderglied
+## 20.5. 以前置副词成分为特征的复合词（Bahuvrīhi）
 
-Im Vorderglied steht ein Adverb, eine Präposition, ein Präverb oder ein anderes Indeklinabile; solche Komposita sind in der Regel ⟪नित्यसमास⟫. <!-- TODO: Fallback translation -->
+在前分句中，出现的是副词、介词、前缀或其他不变词；此类复合词通常为⟪नित्यसमास⟫。
 
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪अपुत्रो⟫ ⟪नरः⟫ = ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪नास्ति⟫ ⟪स⟫ ⟪नरः⟫ = "ein Mann, der keinen Sohn hat" = "ein sohnloser Mann" <!-- TODO: Fallback translation -->
+::: indent
+⟪अपुत्रो⟫ ⟪नरः⟫ = ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪नास्ति⟫ ⟪स⟫ ⟪नरः⟫ = “无子之男子” = “无子男子”
 
-⟪दुर्बल⟫ ⟪३⟫ = "jemand / etwas, dessen Kraft schlecht ist" = "kraftlos, schwach" <!-- TODO: Fallback translation -->
-:::::::grammar-box
+⟪दुर्बल⟫ ⟪३⟫ = “某人/某物，其力量不良” = “无力，虚弱”
+:::
+::: grammar-box
 
-**⟪सह⟫ "mit" als Vorderglied eines Bahuvrīhi wird oft durch ⟪स⟫ ersetzt.** <!-- TODO: Fallback translation -->
+**⟪सह⟫“mit”作为Bahuvrīhi的前半部分，经常被⟪स⟫所替代。**
 
-**Beispiel:** <!-- TODO: Fallback translation -->
+**示例：**
 
-:::indent
-⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = "mit einem Sohn", "von einem Sohn begleitet" <!-- TODO: Fallback translation -->
-:::::::::media
+:::
+::: indent
+⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = “有一个儿子”，“由一个儿子陪伴”
+:::: media
 ![](/images/lekt2006.webp)
-Abb.: ⟪सपुत्रा⟫
-Madhya Pradesh
-(Bildquelle: [Details](/licenses#lekt2006)) <!-- TODO: Fallback translation -->
+图：⟪सपुत्रा⟫
+中央邦
+（图片来源：[详情](/zh-CN/licenses#lekt2006)）
+::::
 :::
-## 20.6. Flexion des Schlussglieds eines Bahuvrīhi
+## 20.6. Bahuvrīhi复合词末尾成分的变格
 
-::::grammar-box
+::: grammar-box
 
-**Das Schlussglied eines Bahuvrīhi wird unabhängig von seinem ursprünglichen Geschlecht als mehrgeschlechtliches Adjektiv flektiert. Hat also in einem Kompositum das Schlussglied ein anderes als sein ursprüngliches Geschlecht, so muss es ein Bahuvrīhi sein, wenn es kein Samāhāradvanva (Neutrum sing.) ist.** <!-- TODO: Fallback translation -->
+复合词 Bahuvrīhi 的后半部分，无论其原始性别如何，均作为多性形容词进行变格。因此，如果复合词的后半部分具有与其原始性别不同的性别，且它不是 Samāhāradvanva（单数中性），那么它必须是一个 Bahuvrīhi。
 
-**Bei der Adjektivierung werden** <!-- TODO: Fallback translation -->
+**在形容词化过程中**
 
-*   **-ā-Stämme im Maskulinum und Neutrum zu -a-Stämmen** <!-- TODO: Fallback translation -->
-*   **-a-Stämme (m., n.) bilden ihr Femininum auf -ā oder -ī** <!-- TODO: Fallback translation -->
-*   **-ī-Stämme (f.) müssen am Ende von Bahuvrīhis das Suffix -ka, -kā, -ka (n.) annehmen; dieses Suffix können bzw. müssen auch viele andere Bahuvrīhi annehmen** <!-- TODO: Fallback translation -->
+*   **-ā词干在阳性和中性中与-a词干相关**
+*   **-a词干（阳、中）以-ā或-ī构成其阴性形式**
+*   **-ī词干（阴）在复合限定名（Bahuvrīhi）末尾必须添加后缀-ka、-kā、-ka（中）；许多其他复合限定名也可以或必须添加该后缀**
 
 :::
 ## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
 
-Die Beispiele sind hier zur späteren Durcharbeitung gegeben, für einige sind bisher die nötige Grammatik und der Wortschatz noch nicht besprochen <!-- TODO: Fallback translation -->
+此处提供的示例供后续练习使用，部分示例所需的语法和词汇尚未讨论。
 
-1.  qualifizierendes Wort im Vorderglied -- qualifiziertes Wort im Hinterglied: ⟪स्थिरचित्तः⟫ = ⟪स्थिरं⟫ ⟪चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫ <!-- TODO: Fallback translation -->
-2.  Indeklinabile im Vorderglied: ⟪उच्चैःश्रवस्⟫ <!-- TODO: Fallback translation -->
-3.  Vergleich im Vorderglied: ⟪कुशाग्रधीः⟫ =  ⟪कुशाग्र⟫ ⟪इव⟫ ⟪धीर्यस्य⟫ ⟪सः⟫ <!-- TODO: Fallback translation -->
-4.  Impliziter Vergleich: ⟪उष्ट्रमुखः⟫ = ⟪उष्ट्रस्य⟫ ⟪मुखमिव⟫ ⟪मुखं⟫ ⟪यस्य⟫ ⟪सः⟫ = "kamelmündig" = dessen Mund wie der eines Kamels ist <!-- TODO: Fallback translation -->
-5.  Numerale als Hinterglied bei ungefährer Zahl:. ⟪उपसशाः⟫ = ⟪दशानां⟫ ⟪समीपे⟫ ⟪ये⟫ ⟪सन्ति⟫ ⟪ते⟫ = "ungefähr zehn" <!-- TODO: Fallback translation -->
-6.  beide Glieder sind Numeralia: ⟪एकद्वाः⟫ = ⟪एको⟫ ⟪वा⟫ ⟪द्वौ⟫ ⟪वा⟫ = "ein oder zwei" <!-- TODO: Fallback translation -->
-7.  mit sa-/saha- im Vorderglied: ⟪सपुत्रः⟫ ⟪।⟫ ⟪सहपुत्रः⟫ <!-- TODO: Fallback translation -->
-8.  mit sa- (= ⟪समान⟫) im Vorderglied: ⟪सजनपदः⟫ = ⟪समानो⟫ ⟪जनपदो⟫ ⟪यस्य⟫ ⟪सः⟫ <!-- TODO: Fallback translation -->
-9.  ⟪नञ्बहुव्रीहिः⟫ = mit a-/an- im Vorderglied: ⟪अपुत्रः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ; ⟪अनङ्गः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪अङ्गं⟫ ⟪यस्य⟫ ⟪सः⟫ <!-- TODO: Fallback translation -->
-10.  mit Präposition u.ä. im Vorderglied: ⟪प्रवातः⟫ =⟪प्रकृष्टो⟫ ⟪वातो⟫ ⟪यस्मिन्⟫ ⟪सः⟫ ; ⟪निर्धनः⟫ = ⟪निर्गतं⟫ ⟪धनं⟫ ⟪यस्मात्सः⟫ ; ⟪सुबुद्धिः⟫ = ⟪सुष्ठु⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ ; ⟪दुर्बुद्धिः⟫ = ⟪दुष्टा⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ <!-- TODO: Fallback translation -->
-11.  Richtungsbezeichnungen um Zwischenrichtungen zu bezeichnen: ⟪पुर्वोत्तरा⟫ "nordöstlich" <!-- TODO: Fallback translation -->
-12.  PPP als Vorderglied: ⟪कृतकटः⟫ = ⟪कृतः⟫ ⟪कटो⟫ ⟪येन⟫ ⟪सः⟫ <!-- TODO: Fallback translation -->
-13.  und andere <!-- TODO: Fallback translation -->
+1.  修饰语在前半部分——被修饰语在后半部分：⟪स्थिरचित्तः⟫ = ⟪स्थिरं⟫ ⟪चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫
+2.  前半部分中的不变词：⟪उच्चैःश्रवस्⟫
+3.  前半部分中的比较：⟪कुशाग्रधीः⟫ =  ⟪कुशाग्र⟫ ⟪इव⟫ ⟪धीर्यस्य⟫ ⟪सः⟫
+4.  隐含的比较：⟪उष्ट्रमुखः⟫ = ⟪उष्ट्रस्य⟫ ⟪मुखमिव⟫ ⟪मुखं⟫ ⟪यस्य⟫ ⟪सः⟫ = “骆驼嘴” = 其嘴像骆驼的嘴
+5.  近似数中的后半部分为数词：⟪उपसशाः⟫ = ⟪दशानां⟫ ⟪समीपे⟫ ⟪ये⟫ ⟪सन्ति⟫ ⟪ते⟫ = “大约十个”
+6.  两部分均为数词：⟪एकद्वाः⟫ = ⟪एको⟫ ⟪वा⟫ ⟪द्वौ⟫ ⟪वा⟫ = “一或二”
+7.  前半部分包含 sa-/saha-：⟪सपुत्रः⟫ ⟪।⟫ ⟪सहपुत्रः⟫
+8.  前半部分包含 sa-（= ⟪समान⟫）：⟪सजनपदः⟫ = ⟪समानो⟫ ⟪जनपदो⟫ ⟪यस्य⟫ ⟪सः⟫
+9.  ⟪नञ्बहुव्रीहिः⟫ = 前半部分包含 a-/an-：⟪अपुत्रः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ; ⟪अनङ्गः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪अङ्गं⟫ ⟪यस्य⟫ ⟪सः⟫
+10.  前半部分包含介词等：⟪प्रवातः⟫ =⟪प्रकृष्टो⟫ ⟪वातो⟫ ⟪यस्मिन्⟫ ⟪सः⟫ ; ⟪निर्धनः⟫ = ⟪निर्गतं⟫ ⟪धनं⟫ ⟪यस्मात्सः⟫ ; ⟪सुबुद्धिः⟫ = ⟪सुष्ठु⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ ; ⟪दुर्बुद्धिः⟫ = ⟪दुष्टा⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫
+11.  用于表示中间方向的方位词：⟪पुर्वोत्तरा⟫ “东北”
+12.  前半部分为过去分词（PPP）：⟪कृतकटः⟫ = ⟪कृतः⟫ ⟪कटो⟫ ⟪येन⟫ ⟪सः⟫
+13.  以及其他
 
-:::media
+::: media
 ![](/images/lekt2007.webp)
-Abb.: ⟪कृतकटा⟫
-Chennai = சென்னை
-(Bildquelle: [Details](/licenses#lekt2007)) <!-- TODO: Fallback translation -->
+图：⟪कृतकटा⟫
+金奈 = சென்னை
+（图片来源：[详情](/zh-CN/licenses#lekt2007)）
 :::
-## 20.8. Verhältnis von Bahuvrīhi und Relativsatz
+## 20.8. 复合词（Bahuvrīhi）与关系从句的关系
 
-Obwohl jedes Bahuvrīhi durch einen Relativsatz aufgelöst wird, kann nicht jeder Relativsatz durch ein Bahuvrīhi ersetzt werden. Hermann Georg Jacobi (1850 - 1937), der das Verhältnis beider näher untersucht hat (Compositum und Nebensatz, 1897), schreibt: <!-- TODO: Fallback translation -->
+尽管每个 Bahuvrīhi 都可以通过关系从句来解析，但并非每个关系从句都可以用 Bahuvrīhi 替换。赫尔曼·格奥尔格·雅各比（Hermann Georg Jacobi，1850-1937）对两者的关系进行了更深入的考察（《复合词与从句》，1897），他写道：
 
-:::indent
-"Wenn man aus dem Deutschen oder einer anderen modernen Sprache ins Sanskrit übersetzt, dürfen nicht alle Nebensätze durch Composita wiedergegeben werden, sondern nur die ausschmückenden und beschreibenden; diejenigen aber, welche eine begrifflich notwendige oder wichtige Bestimmung enthalten, erscheinen auch im Sanskrit als Relativsätze." <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+“当从德语或其他现代语言翻译为梵语时，并非所有从句都可以通过复合词来表达，而只有修饰性和描述性的从句可以；而那些包含概念上必要或重要限定的从句，在梵语中也会以关系从句的形式出现。”
+:::: media
 ![](/images/lekt2002.jpg)
-Abb.: Hermann Jacobi
-(Bildquelle: [Details](/licenses#lekt2002)) <!-- TODO: Fallback translation -->
+图：赫尔曼·雅各比
+（图片来源：[详情](/zh-CN/licenses#lekt2002)）
+::::
 :::
-Das mag stimmen. Allerdings sehen dann die Inder vieles als ausschmückend und beschreibend an, was wir als "begrifflich notwendig oder wichtig" ansehen würden. <!-- TODO: Fallback translation -->
+这可能成立。然而，印度人将许多我们认为“概念上必要或重要”的内容视为修饰性和描述性的。
 
 ## 20.9. Wortliste
 
-⟪वा⟫ : oder <!-- TODO: Fallback translation -->
+⟪वा⟫ ：或者
 
-⟪आश्रम⟫ m., n.: Einsiedelei, Lebensstadium, Lebensabschnitt (nämlich als ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ und evtl. als ⟪सन्न्यासिन्⟫ ; siehe Basham, Wonder S. 159f.) <!-- TODO: Fallback translation -->
+⟪आश्रम⟫，阳性，中性：隐居，人生阶段，生命时期（即作为⟪ब्रह्मचरिन्⟫，⟪गृहस्थ⟫，⟪वनप्रस्थ⟫以及可能的⟪सन्न्यासिन्⟫；参见Basham，《奇迹》第159-160页）
 
-:::media
+::: media
 ![](/images/lekt2008.webp)
-Abb.: ⟪आश्रमः⟫
-Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
-(Bildquelle: [Details](/licenses#lekt2008)) <!-- TODO: Fallback translation -->
+图：⟪आश्रमः⟫
+里希凯什 = ⟪ऋषिकेश⟫。“这实际上是披头士乐队在里希凯什停留时所在的道场的一部分。他们当时那里还没有这个特定部分，但它看起来确实很酷。”
+（图片来源：[详情](/zh-CN/licenses#lekt2008)）
 :::
-⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tuend, machend, bewirkend <!-- TODO: Fallback translation -->
+⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ ：做、制造、引起
 
-⟪कर⟫ m.: Hand (zu ⟪कृ⟫ 8) <!-- TODO: Fallback translation -->
+⟪कर⟫ m.: 手（参见⟪कृ⟫ 8）
 
-⟪कर⟫ m.: Abgabe, Tribut, Steuer (nicht zu ⟪कृ⟫, sondern vermutlich Lehnwort aus dem Tamil - தமிழ்) <!-- TODO: Fallback translation -->
+⟪कर⟫ m.：贡品，赋税，税（不与⟪कृ⟫相关，大概是从泰米尔语 - தமிழ்借用的借词）
 
-⟪क्रिया⟫ f.: Handlung, heilige Handlung, Opferhandlung, Zeremonie (zu ⟪कृ⟫ 8) <!-- TODO: Fallback translation -->
+⟪क्रिया⟫ f.：行为，神圣行为，祭祀行为，仪式（参见⟪कृ⟫ 8）
 
-⟪अधि⟫ Präverb: über, auf, er-, mit Bezug auf  <!-- TODO: Fallback translation -->
+⟪अधि⟫ 前缀：关于、在……之上、使、与……相关
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : antreffen, gelangen zu, erlangen <!-- TODO: Fallback translation -->
+⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ ：遇见，到达，获得
 
-⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : verringern, schwächen <!-- TODO: Fallback translation -->
+⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : 减少，削弱
 
-⟪दायक⟫ ⟪३⟫ f.: ⟪दायिका⟫ : gebend, schenkend <!-- TODO: Fallback translation -->
+⟪दायक⟫ ⟪३⟫ f.: ⟪दायिका⟫ : 给予的，施予的
 
-⟪नृप⟫ m.: "Beschützer der Männer" = König <!-- TODO: Fallback translation -->
+⟪नृप⟫ m.：“男子的保护者”= 国王
 
-⟪प्रणिधान⟫ n.: Anwendung, Anstrengung, Aufmerksamkeit gegen, Dienstfertigkeit, Nachdenken, Gelübde <!-- TODO: Fallback translation -->
+⟪प्रणिधान⟫ n.：应用，努力，对……的专注，服务，思考，誓言
 
-⟪बाधना⟫ f.: Bedrängnis, Plage, Pein <!-- TODO: Fallback translation -->
+⟪बाधना⟫ f.: 困境，折磨，痛苦
 
-⟪भार्या⟫ f.: "zu Erhaltende" = Gattin <!-- TODO: Fallback translation -->
+⟪भार्या⟫ f.：“应被维持者” = 妻子
 
-⟪भावना⟫ f.: meditative Entfaltung (zu ⟪भू⟫ Kausativ) <!-- TODO: Fallback translation -->
+⟪भावना⟫ f.：冥想展开（源自⟪भू⟫使役动词）
 
-⟪मही⟫ f.: Erde, Grund und Boden <!-- TODO: Fallback translation -->
+⟪मही⟫ f.: 土地，大地和土壤
 
-⟪लक्षण⟫ n.: Merkmal, Kennzeichen, Attribut <!-- TODO: Fallback translation -->
+⟪लक्षण⟫ n.: 特征，标志，属性
 
-⟪विप्र⟫ m.: "Zitterer" = Dichter, Sänger, Priester, Brahmane <!-- TODO: Fallback translation -->
+⟪विप्र⟫ m.：“颤抖者”=诗人、歌手、祭司、婆罗门
 
-⟪विषय⟫ m.: Gebiet, Bereich, Objekt, Sinnesobjekt <!-- TODO: Fallback translation -->
+⟪विषय⟫ m.: 领域，范围，对象，感官对象
 
-⟪अपवर्ग⟫ m.: Ende, Erlösung <!-- TODO: Fallback translation -->
+⟪अपवर्ग⟫ m.: 终点，解脱
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts <!-- TODO: Fallback translation -->
+⟪नि⟫ 前缀：向下、往下、进入、向后
 
-⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ : umkehren, zurückkehren <!-- TODO: Fallback translation -->
+⟪वृत्⟫ + ⟪नि⟫ 1 Ā ⟪निवर्तते⟫ ：返回，回来
 
-⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : sitzen, sich niederlassen <!-- TODO: Fallback translation -->
+⟪सद्⟫ 1 P ⟪सीदति⟫ (!) 通格 ⟪सद्यते⟫ 过去分词 ⟪सन्न⟫ ：坐，坐下
 
-⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : sich setzen, gesetzt werden (im übertragenen Sinn) = abgeklärt, ruhig, heiter werden ; jemandem (Genetiv ⟪षष्ठी⟫) gnädig sein <!-- TODO: Fallback translation -->
+⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ ：坐下，被放置（引申义）= 变得镇定、平静、愉快；对某人（⟪षष्ठी⟫ 的属格）施以恩惠
 
-⟪समाधि⟫ m.: innere Sammlung, höchste Aufmerksamkeit, meditative "Versenkung" <!-- TODO: Fallback translation -->
+⟪समाधि⟫ m.: 内在集中，最高专注，冥想“入定”
 
-⟪स्वाध्याय⟫ m.: "Selbststudium", Rezitation (besonders des Veda), Vedastudium <!-- TODO: Fallback translation -->
+⟪स्वाध्याय⟫ m.：“自学”，诵读（尤其是吠陀的诵读），吠陀研究
 
-⟪परलौकिक⟫ ⟪३⟫ : das Jenseits betreffend, jenseitig <!-- TODO: Fallback translation -->
+⟪परलौकिक⟫ ⟪३⟫ ：关于彼岸，超自然的
 
-⟪तनु⟫ ⟪३⟫ : schlank <!-- TODO: Fallback translation -->
+⟪तनु⟫ ⟪३⟫ : 苗条
 
-⟪मध्य⟫ ⟪३⟫ : mittlerer; n. Mitte <!-- TODO: Fallback translation -->
+⟪मध्य⟫ ⟪३⟫ : 中间的；n. 中心
 
-⟪पृथु⟫ ⟪३⟫ (⟪पृथ्वी⟫) : weit, breit, groß <!-- TODO: Fallback translation -->
+⟪पृथु⟫ ⟪३⟫ (⟪पृथ्वी⟫) : weit, breit, groß
 
-⟪श्रोणि⟫ ⟪।⟫ ⟪श्रोणी⟫ f.: Hüfte <!-- TODO: Fallback translation -->
+⟪श्रोणि⟫ ⟪।⟫ ⟪श्रोणी⟫ f.: 臀部
 
-⟪रक्त⟫ ⟪३⟫ : gefärbt, rot <!-- TODO: Fallback translation -->
+⟪रक्त⟫ ⟪३⟫ ：染色的，红色的
 
-⟪ओष्ठ⟫ m.: Lippe <!-- TODO: Fallback translation -->
+⟪ओष्ठ⟫ m.: 嘴唇
 
-⟪असित⟫ ⟪३⟫ : dunkel, schwarz <!-- TODO: Fallback translation -->
+⟪असित⟫ ⟪३⟫ : 黑暗，黑色
 
-⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ Pass. ⟪ईक्ष्यते⟫ PPP ⟪ईक्षित⟫ : sehen <!-- TODO: Fallback translation -->
+⟪ईक्ष्⟫ 1 Ā ⟪ईक्षते⟫ 被动语态分词 ⟪ईक्ष्यते⟫ 过去被动分词 ⟪ईक्षित⟫ ：看见
 
-⟪नम्⟫ 1 P ⟪नमति⟫ Pass. ⟪नम्यते⟫ PPP ⟪नत⟫ : beugen <!-- TODO: Fallback translation -->
+⟪नम्⟫ 1 P ⟪नमति⟩ Pass. ⟪नम्यते⟩ PPP ⟪नत⟩ ：弯曲
 
-⟪उद्⟫ Präverb: auf, hinauf, hinaus, aus, aus- <!-- TODO: Fallback translation -->
+⟪उद्⟫ 前缀：上、向上、向外、出、出-
 
-⟪नाभि⟫ f.: Nabel <!-- TODO: Fallback translation -->
+⟪नाभि⟫ f.: 肚脐
 
-⟪वपुस्⟫ n.: Schönheit, Gestalt Körper (Deklination siehe später) <!-- TODO: Fallback translation -->
+⟪वपुस्⟫ n.：美，形体（词形变化见后）
 
-⟪स्त्री⟫ f.: Frau <!-- TODO: Fallback translation -->
+⟪स्त्री⟫ f.: 妻子
 
-⟪स्तन⟫ m.: Brust <!-- TODO: Fallback translation -->
+⟪स्तन⟫ m.: 胸部
 
-⟪दरैद्र⟫ ⟪३⟫ : arm <!-- TODO: Fallback translation -->
+⟪दरैद्र⟫ ⟪३⟫ ：手臂
 
-⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟫ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : gedeihen <!-- TODO: Fallback translation -->
+⟪ऋध्⟫ 5 P ⟪ऋध्नोति⟩ Pass. ⟪ऋध्यते⟫ PPP ⟪ऋद्ध⟫ : 繁荣
 
-⟪ऋध्⟫ + ⟪सम्⟫ : gedeihen; PPP: gelungen, reich <!-- TODO: Fallback translation -->
+⟪ऋध्⟫ + ⟪सम्⟫ : 繁荣；过去分词（PPP）：成功，丰富
 
-⟪विचित्र⟫ ⟪३⟫ : bunt, verschiedenartig, schön, wunderbar, seltsam <!-- TODO: Fallback translation -->
+⟪विचित्र⟫ ⟪३⟫ ：多彩的，各种各样的，美丽的，奇妙的，奇怪的
 
-⟪विधि⟫ m.(!): Anordnung, Gesetz, Vorschrift; Schöpfung, Schicksal <!-- TODO: Fallback translation -->
+⟪विधि⟫ m.(!)：安排，法律，规定；创造，命运
 
-⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : sich regen <!-- TODO: Fallback translation -->
+⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ 被动语态分词 ⟪चेष्ट्यते⟫ 过去被动分词 ⟪चेष्टित⟫ ：活动
 
 ## 20.10. Übung 1
 
-Lösen Sie die folgenden Komposita als Bahuvrīhi und/oder Dvandva und/oder Tatpuruṣa auf alle Ihnen als möglich erscheinenden Arten in Sanskrit auf (Ausnahme: Komposita mit adverbiellem Vorderglied). Übersetzen Sie diese verschieden aufgelösten Komposita ins Deutsche, geben Sie Geschlecht, Fall und Zahl des Gesamtkompositums an. <!-- TODO: Fallback translation -->
+将以下复合词解析为 Bahuvrīhi 和/或 Dvandva 和/或 Tatpuruṣa，以所有你认为可能的形式在梵语中解析（例外：带有副词性前成分的复合词）。将这些不同解析的复合词翻译成德语，并给出整个复合词的性、格和数。
 
-1.  ⟪इन्द्रशत्रवः⟫ <!-- TODO: Fallback translation -->
-2.  ⟪दुष्कुलायाः⟫ <!-- TODO: Fallback translation -->
-3.  ⟪जातिमात्रस्य⟫ <!-- TODO: Fallback translation -->
-4.  ⟪प्राप्तोदकाः⟫ <!-- TODO: Fallback translation -->
-5.  ⟪सुनीतिभिः⟫ <!-- TODO: Fallback translation -->
-6.  ⟪मृतपुत्रः⟫ <!-- TODO: Fallback translation -->
-7.  ⟪गतपुण्येन⟫ <!-- TODO: Fallback translation -->
-8.  ⟪आर्यरूपम्⟫ <!-- TODO: Fallback translation -->
-9.  ⟪मुक्तासनया⟫ <!-- TODO: Fallback translation -->
-10.  ⟪तद्रूपः⟫ <!-- TODO: Fallback translation -->
-11.  ⟪कृतफलानाम्⟫ <!-- TODO: Fallback translation -->
-12.  ⟪व्याघ्रबलाः⟫ <!-- TODO: Fallback translation -->
-13.  ⟪प्राप्तकाला⟫ <!-- TODO: Fallback translation -->
-14.  ⟪शूरपुत्राम्⟫ <!-- TODO: Fallback translation -->
-15.  ⟪कृताभिषेकः⟫ <!-- TODO: Fallback translation -->
-16.  ⟪शूरबलान्⟫ <!-- TODO: Fallback translation -->
-17.  ⟪वीतमोहः⟫ <!-- TODO: Fallback translation -->
-18.  ⟪द्ण्डहस्तस्य⟫ <!-- TODO: Fallback translation -->
-19.  ⟪गतमात्रम्⟫ <!-- TODO: Fallback translation -->
-20.  ⟪इन्द्रपुत्रा⟫ <!-- TODO: Fallback translation -->
-21.  ⟪तद्गुणाः⟫ <!-- TODO: Fallback translation -->
-22.  ⟪उपल्ब्धसुखैः⟫ <!-- TODO: Fallback translation -->
-23.  ⟪प्राप्तप्रभावः⟫ <!-- TODO: Fallback translation -->
-24.  ⟪तन्मात्राणि⟫ <!-- TODO: Fallback translation -->
-25.  ⟪प्रभूतरूपा⟫ <!-- TODO: Fallback translation -->
-26.  ⟪कृतोपनयनाः⟫ <!-- TODO: Fallback translation -->
-27.  ⟪विगतनयनम्⟫ <!-- TODO: Fallback translation -->
-28.  ⟪बुद्धमार्गेण⟫ <!-- TODO: Fallback translation -->
-29.  ⟪विजयफलान्⟫ <!-- TODO: Fallback translation -->
-30.  ⟪दुर्गमः⟫ <!-- TODO: Fallback translation -->
-31.  ⟪समयकारः⟫ <!-- TODO: Fallback translation -->
-32.  ⟪सम्पन्नरूपाम्⟫ <!-- TODO: Fallback translation -->
-33.  ⟪रूपसम्पन्नाम्⟫ <!-- TODO: Fallback translation -->
-34.  ⟪अपुण्यानाम्⟫ <!-- TODO: Fallback translation -->
-35.  ⟪मृतगृहाणि⟫ <!-- TODO: Fallback translation -->
-36.  ⟪अजनस्य⟫ <!-- TODO: Fallback translation -->
-37.  ⟪तद्देवतैः⟫ <!-- TODO: Fallback translation -->
-38.  ⟪जातपुत्राः⟫ <!-- TODO: Fallback translation -->
-39.  ⟪दुरन्ताभिः⟫ <!-- TODO: Fallback translation -->
-40.  ⟪भूतसर्गेण⟫ <!-- TODO: Fallback translation -->
-41.  ⟪मतिदर्शनम्⟫ <!-- TODO: Fallback translation -->
-42.  ⟪मुक्तहस्ता⟫ <!-- TODO: Fallback translation -->
-43.  ⟪तदन्तः⟫ <!-- TODO: Fallback translation -->
-44.  ⟪जातिमात्रम्⟫ <!-- TODO: Fallback translation -->
-45.  ⟪तज्जयेन⟫ <!-- TODO: Fallback translation -->
-46.  ⟪लब्धधनानाम्⟫ <!-- TODO: Fallback translation -->
-47.  ⟪सुदर्शः⟫ <!-- TODO: Fallback translation -->
-48.  ⟪सकारणः⟫ <!-- TODO: Fallback translation -->
-49.  ⟪तनादयः⟫ <!-- TODO: Fallback translation -->
-50.  ⟪जातमात्राम्⟫ <!-- TODO: Fallback translation -->
-51.  ⟪दुर्जातयः⟫ <!-- TODO: Fallback translation -->
-52.  ⟪हतपुत्रः⟫ <!-- TODO: Fallback translation -->
-53.  ⟪दुरासितम्⟫ <!-- TODO: Fallback translation -->
-54.  ⟪इष्टदेवतया⟫ <!-- TODO: Fallback translation -->
-55.  ⟪कृतपुण्याभिः⟫ <!-- TODO: Fallback translation -->
-56.  ⟪श्रुत्युदितम्⟫ <!-- TODO: Fallback translation -->
-57.  ⟪गतपापैः⟫ <!-- TODO: Fallback translation -->
-58.  ⟪जितारिणा⟫ <!-- TODO: Fallback translation -->
-59.  ⟪जातकोपा⟫ <!-- TODO: Fallback translation -->
-60.  ⟪जातिधर्मः⟫ <!-- TODO: Fallback translation -->
-61.  ⟪तत्प्रभृतयः⟫ <!-- TODO: Fallback translation -->
-62.  ⟪सुदुर्जयः⟫ <!-- TODO: Fallback translation -->
-63.  ⟪जितक्रोधेन⟫ <!-- TODO: Fallback translation -->
-64.  ⟪दुरुपदेशम्⟫ <!-- TODO: Fallback translation -->
-65.  ⟪लब्धलाभा⟫ <!-- TODO: Fallback translation -->
-66.  ⟪बुद्धदासः⟫ <!-- TODO: Fallback translation -->
-67.  ⟪मुक्तबुद्धिः⟫ <!-- TODO: Fallback translation -->
-68.  ⟪यज्ञकालम्⟫ <!-- TODO: Fallback translation -->
-69.  ⟪जितशत्रून्⟫ <!-- TODO: Fallback translation -->
-70.  ⟪शत्रुजितान्⟫ <!-- TODO: Fallback translation -->
-71.  ⟪तत्फलः⟫ <!-- TODO: Fallback translation -->
-72.  ⟪सुगुणा⟫ <!-- TODO: Fallback translation -->
-73.  ⟪जातक्रोधः⟫ <!-- TODO: Fallback translation -->
-74.  ⟪दृष्टमात्रः⟫ <!-- TODO: Fallback translation -->
-75.  ⟪भूतकालः⟫ <!-- TODO: Fallback translation -->
-76.  ⟪सुनेत्राः⟫ <!-- TODO: Fallback translation -->
-77.  ⟪तदादीनाम्⟫ <!-- TODO: Fallback translation -->
-78.  ⟪जातिस्मरणम्⟫ <!-- TODO: Fallback translation -->
-79.  ⟪सफलम्⟫ <!-- TODO: Fallback translation -->
-80.  ⟪अकरुणस्य⟫ <!-- TODO: Fallback translation -->
-81.  ⟪सोढदुःखाः⟫ <!-- TODO: Fallback translation -->
+1.  ⟪इन्द्रशत्रवः⟫
+2.  ⟪दुष्कुलायाः⟫
+3.  ⟪जातिमात्रस्य⟫
+4.  ⟪प्राप्तोदकाः⟫
+5.  ⟪सुनीतिभिः⟫
+6.  ⟪मृतपुत्रः⟫
+7.  ⟪गतपुण्येन⟫
+8.  ⟪आर्यरूपम्⟫
+9.  ⟪मुक्तासनया⟫
+10.  ⟪तद्रूपः⟫
+11.  ⟪कृतफलानाम्⟫
+12.  ⟪व्याघ्रबलाः⟫
+13.  ⟪प्राप्तकाला⟫
+14.  ⟪शूरपुत्राम्⟫
+15.  ⟪कृताभिषेकः⟫
+16.  ⟪शूरबलान्⟫
+17.  ⟪वीतमोहः⟫
+18.  ⟪द्ण्डहस्तस्य⟫
+19.  ⟪गतमात्रम्⟫
+20.  ⟪इन्द्रपुत्रा⟫
+21.  ⟪तद्गुणाः⟫
+22.  ⟪उपल्ब्धसुखैः⟫
+23.  ⟪प्राप्तप्रभावः⟫
+24.  ⟪तन्मात्राणि⟫
+25.  ⟪प्रभूतरूपा⟫
+26.  ⟪कृतोपनयनाः⟫
+27.  ⟪विगतनयनम्⟫
+28.  ⟪बुद्धमार्गेण⟫
+29.  ⟪विजयफलान्⟫
+30.  ⟪दुर्गमः⟫
+31.  ⟪समयकारः⟫
+32.  ⟪सम्पन्नरूपाम्⟫
+33.  ⟪रूपसम्पन्नाम्⟫
+34.  ⟪अपुण्यानाम्⟫
+35.  ⟪मृतगृहाणि⟫
+36.  ⟪अजनस्य⟫
+37.  ⟪तद्देवतैः⟫
+38.  ⟪जातपुत्राः⟫
+39.  ⟪दुरन्ताभिः⟫
+40.  ⟪भूतसर्गेण⟫
+41.  ⟪मतिदर्शनम्⟫
+42.  ⟪मुक्तहस्ता⟫
+43.  ⟪तदन्तः⟫
+44.  ⟪जातिमात्रम्⟫
+45.  ⟪तज्जयेन⟫
+46.  ⟪लब्धधनानाम्⟫
+47.  ⟪सुदर्शः⟫
+48.  ⟪सकारणः⟫
+49.  ⟪तनादयः⟫
+50.  ⟪जातमात्राम्⟫
+51.  ⟪दुर्जातयः⟫
+52.  ⟪हतपुत्रः⟫
+53.  ⟪दुरासितम्⟫
+54.  ⟪इष्टदेवतया⟫
+55.  ⟪कृतपुण्याभिः⟫
+56.  ⟪श्रुत्युदितम्⟫
+57.  ⟪गतपापैः⟫
+58.  ⟪जितारिणा⟫
+59.  ⟪जातकोपा⟫
+60.  ⟪जातिधर्मः⟫
+61.  ⟪तत्प्रभृतयः⟫
+62.  ⟪सुदुर्जयः⟫
+63.  ⟪जितक्रोधेन⟫
+64.  ⟪दुरुपदेशम्⟫
+65.  ⟪लब्धलाभा⟫
+66.  ⟪बुद्धदासः⟫
+67.  ⟪मुक्तबुद्धिः⟫
+68.  ⟪यज्ञकालम्⟫
+69.  ⟪जितशत्रून्⟫
+70.  ⟪शत्रुजितान्⟫
+71.  ⟪तत्फलः⟫
+72.  ⟪सुगुणा⟫
+73.  ⟪जातक्रोधः⟫
+74.  ⟪दृष्टमात्रः⟫
+75.  ⟪भूतकालः⟫
+76.  ⟪सुनेत्राः⟫
+77.  ⟪तदादीनाम्⟫
+78.  ⟪जातिस्मरणम्⟫
+79.  ⟪सफलम्⟫
+80.  ⟪अकरुणस्य⟫
+81.  ⟪सोढदुःखाः⟫
 
 ## 20.11. Übung 2
 
-A) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: <!-- TODO: Fallback translation -->
+A) 翻译并解析以下梵文复合词：
 
-⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫
 
-⟪शूरबलक्षत्रिययोधः⟫ ⟪शूरपुत्रमिच्छति⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪शूरबलक्षत्रिययोधः⟫ ⟪शूरपुत्रमिच्छति⟫ ⟪॥२॥⟫
 
-⟪सुदुर्गममार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकमार्गः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪सुदुर्गममार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकमार्गः⟫ ⟪॥३॥⟫
 
-⟪मृतपुत्रब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪मृतपुत्रब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥४॥⟫
 
-⟪वीतमोहब्राह्मणः⟫ ⟪सम्पन्नरूपामपि⟫ ⟪शूद्रां⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪वीतमोहब्राह्मणः⟫ ⟪सम्पन्नरूपामपि⟫ ⟪शूद्रां⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥५॥⟫
 
-⟪सुनीतिपुत्रः⟫ ⟪प्राप्तमतिदर्शनसाधुं⟫ ⟪गच्छति⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪सुनीतिपुत्रः⟫ ⟪प्राप्तमतिदर्शनसाधुं⟫ ⟪गच्छति⟫ ⟪॥६॥⟫
 
-⟪प्राप्तप्रभावक्षत्रिया⟫ ⟪दृष्टमात्राञ्छत्रून्घ्नन्ति⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪प्राप्तप्रभावक्षत्रिया⟫ ⟪दृष्टमात्राञ्छत्रून्घ्नन्ति⟫ ⟪॥७॥⟫
 
-⟪जितशत्रुयोधाः⟫ ⟪शत्रुजितान्मुञ्चन्ति⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪जितशत्रुयोधाः⟫ ⟪शत्रुजितान्मुञ्चन्ति⟫ ⟪॥८॥⟫
 
-⟪कृतोपनयनबालः⟫ ⟪शिवादिदेवपूजां⟫ ⟪करोति⟫ ⟪॥९॥⟫ <!-- TODO: Fallback translation -->
+⟪कृतोपनयनबालः⟫ ⟪शिवादिदेवपूजां⟫ ⟪करोति⟫ ⟪॥९॥⟫
 
-⟪बुद्धगता⟫ ⟪दुःखादिसत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥१०॥⟫ <!-- TODO: Fallback translation -->
+⟪बुद्धगता⟫ ⟪दुःखादिसत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥१०॥⟫
 
-B) Übersetzen Sie unter Verwendung von Komposita ins Sanskrit: <!-- TODO: Fallback translation -->
+B) 使用复合词翻译成梵语：
 
-1\. Ein Kṣatriya, der den Stock nicht in der Hand hält, behütet das Volk nicht. <!-- TODO: Fallback translation -->
+1\. 手持棍棒的刹帝利，方能护佑民众。
 
-2\. Kālidāsa und die übrigen Dichter sind die Lehrer im Sanskrit. <!-- TODO: Fallback translation -->
+2\. 迦梨陀娑及其他诗人是梵语的导师。
 
-3\. Ein Kṣatriya hat seinen Lebensunterhalt durch Waffen. <!-- TODO: Fallback translation -->
+3\. 刹帝利以武器为生。
 
-4\. Auch Śūdrafrauen haben als Dharma Gewaltlosigkeit, Wahrheit, Reinheit, Nicht-Murren, Nicht-Boshaftigkeit und Langmut. <!-- TODO: Fallback translation -->
+4\. 首陀罗妇女作为正法，也具备不暴力、真理、纯洁、不抱怨、不邪恶和忍耐。
 
 ## 20.12. Übersetzungsübung
 
-⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪३३॥⟫ <!-- TODO: Fallback translation -->
+⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫。⟪३३॥⟫
 
-:::indent
-Erklärung: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + Suffix -tas, das ablativische Bedeutung hat. Übersetzen Sie: "aufgrund von ..." oder ähnlich. <!-- TODO: Fallback translation -->
+::: indent
+解释：⟪भाव्नातस्⟫ = ⟪भावना⟫ + 后缀 -tas，具有离格（ablativ）含义。请翻译：“由于……”或类似表达。
 :::
 ⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪१॥⟫  
-⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪२॥⟫ <!-- TODO: Fallback translation -->
+⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪२॥⟫
 
-:::indent
-Erklärung: ⟪तपस्⟫ n. (Deklination später): Glut, Hitze, Qual ; Askeseglut, Kasteiung <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+释义：⟪तपस्⟫ n.（后期变格）：炽热、高温、痛苦；苦行炽热、苦修
+:::: media
 ![](/images/lekt2010.webp)
-Abb.: ⟪तपस्⟫
-Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt.
-(Bildquelle: [Details](/licenses#lekt2010)) <!-- TODO: Fallback translation -->
+图：⟪तपस्⟫
+佛陀作为苦行者在获得解脱智慧之前，犍陀罗，公元2/3世纪。
+（图片来源：[详情](/zh-CN/licenses#lekt2010)）
+::::
 :::
-⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (Zum Sāṃkhyasystem siehe Basham, Wonder S. 324f.) <!-- TODO: Fallback translation -->
+⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫（关于数论体系，参见巴沙姆《奇迹》第324-325页。）
 
-:::indent
-Erklärung: ⟪त्रिविध⟫ ⟪३⟫ : "dreifach" <!-- TODO: Fallback translation -->
+::: indent
+解释：⟪त्रिविध⟫ ⟪३⟫：“三重的”
 :::
-Definition der Erlösung nach dem Nyāyasystem: <!-- TODO: Fallback translation -->
+根据《正理》体系对解脱的定义：
 
-:::indent
-⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२१॥⟫ <!-- TODO: Fallback translation -->
+::: indent
+⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२१॥⟫
 
-⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२२॥⟫ <!-- TODO: Fallback translation -->
+⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫。⟪२२॥⟫
 :::
-Ausspruch der Materialisten nach dem ⟪सर्वदर्शनसंग्रह⟫ : <!-- TODO: Fallback translation -->
+唯物主义者根据⟪सर्वदर्शनसंग्रह⟫的言论：
 
-:::indent
+::: indent
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
-⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
 
-Erklärung: ⟪अत्मा⟫ = Nom.sg. mask. zu ⟪आत्मन्⟫ m. "Selbst, Seele ; das Absolute, insofern es in einem Individuum realisiert wird" <!-- TODO: Fallback translation -->
+Erklärung: ⟪अत्मा⟫ = Nom.sg. mask. zu ⟪आत्मन्⟫ m. "Selbst, Seele ; das Absolute, insofern es in einem Individuum realisiert wird"
 :::
-Ein ⟪सुभाषितम्⟫ : <!-- TODO: Fallback translation -->
+Ein ⟪सुभाषितम्⟫ :
 
-:::indent
+::: indent
 ⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
 ⟪विप्राणां⟫ ⟪करदा⟫ ⟪नृपाः⟫ ⟪।⟫  
 ⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
-⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫
 
-Erläuterung: -da am Ende eines Kompositums: "gebend" <!-- TODO: Fallback translation -->
-::::::media
+Erläuterung: -da am Ende eines Kompositums: "gebend"
+:::: media
 ![](/images/lekt2009.webp)
 Abb.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
 Karnataka
-(Bildquelle: [Details](/licenses#lekt2009)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/zh-CN/licenses#lekt2009))
+::::
 :::
-Über Besitzverhältnisse: <!-- TODO: Fallback translation -->
+Über Besitzverhältnisse:
 
-:::indent
+::: indent
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫
 ⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫
 ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫
-⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪४१६॥⟫ <!-- TODO: Fallback translation -->
+⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪४१६॥⟫
 
-Erklärung: ⟪त्रयस्⟫ = Nom. mask. pl. zu ⟪त्रि⟫ "drei" <!-- TODO: Fallback translation -->
+Erklärung: ⟪त्रयस्⟫ = Nom. mask. pl. zu ⟪त्रि⟫ "drei"
 :::
-Ein ⟪सुभाषितम्⟫ über weibliche Schönheit: <!-- TODO: Fallback translation -->
+Ein ⟪सुभाषितम्⟫ über weibliche Schönheit:
 
-:::indent
+::: indent
 ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 ⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫
 ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫
-⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫
 
-Erklärung: alle Formen außer ⟪कं⟫ und ⟪स्त्रीणाम्⟫ sind Nom. sg. neut. und beziehen sich auf ⟪वपुस्⟫. <!-- TODO: Fallback translation -->
-::::::media
+说明：除 ⟪कं⟫ 和 ⟪स्त्रीणाम्⟫ 外的所有形式均为中性单数主格，指代 ⟪वपुस्⟫。
+:::: media
 ![](/images/lekt2003.webp)
-Abb.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
-Sanchi = ⟪सांची⟫
-(Bildquelle: [Details](/licenses#lekt2003)) <!-- TODO: Fallback translation -->
+图：⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
+桑奇 = ⟪सांची⟫
+（图片来源：[详情](/zh-CN/licenses#lekt2003)）
+::::
 :::
-Noch ein ⟪सुभाषितम्⟫ : <!-- TODO: Fallback translation -->
+又一个 ⟪सुभाषितम्⟫ ：
 
-:::indent
+::: indent
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫
 ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫
-⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
-Erklärung: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P zu ⟪इष्⟫ : der wünschenden <!-- TODO: Fallback translation -->
-::::::deleteme-box
+Erklärung: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P zu ⟪इष्⟫ : der wünschenden
+:::
+::: deleteme-box
 
-**lekt2001:** Siemreap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr. [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2001:** Siem Reap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr. [Bildquelle: Wikipedia, Public domain]
 
-**lekt2002:** [Bildquelle: Beiträge zur Literaturwissenschaft und Geistesgeschichte Indiens. -- Bonn, 1926] <!-- TODO: Fallback translation -->
+**lekt2002:** [图片来源：《印度文学与思想史研究》。——波恩，1926年]
 
-**lekt2003:** Sanchi = ⟪सांची⟫ [Bildquelle Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2003:** Sanchi = ⟪सांची⟫ [图片来源：维基百科，公有领域]
 
-**lekt2004:** Jodhpur = ⟪जोधपुर⟫ [Bildquelle: Jared Zimmerman. -- http://www.flickr.com/photos/spoinknet/35414570/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2004:** 乔德普尔 = ⟪जोधपुर⟫ [图片来源：Jared Zimmerman。-- http://www.flickr.com/photos/spoinknet/35414570/。-- 访问日期：2008-12-11。-- 知识共享许可协议（署名、非商业性使用、禁止演绎）]
 
-**lekt2005:** Jesus und die übrigen Götter, Ahmedabad [Bildquelle: von ganuullu. -- http://www.flickr.com/photos/ganuullu/373131240/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2005：** 耶稣与其他诸神，艾哈迈达巴德 [图片来源：由 ganuullu 提供。-- http://www.flickr.com/photos/ganuullu/373131240/。-- 访问日期：2008-12-11。-- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
 
-**lekt2006:** Madhya Pradesh [Bildquelle: dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2006:** 中央邦 [图片来源：dhyanji. -- http://www.flickr.com/photos/dhyanji/147056147/. -- 访问日期：2008-12-11. -- 知识共享许可协议（署名-非商业性使用-禁止演绎）]
 
-**lekt2007:** Chennai = சென்னை [Bildquelle: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2007:** Chennai = சென்னை [图片来源：calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- 访问日期：2008-12-11. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
 
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Bildquelle: von ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt2008:** 里希凯什 = ⟪ऋषिकेश⟫。“这实际上是里希凯什修道院的一部分，披头士乐队曾在此居住。他们当时这里还没有这个部分，但它看起来确实很酷。”[图片来源：由 ogimogi 提供。-- http://www.flickr.com/photos/ogimogi/284517677/。-- 访问日期：2008-12-11。-- 知识共享许可协议（署名）]
 
-**lekt2009:** Karnataka [Bildquelle: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt2009:** 卡纳塔克邦 [图片来源：mattlogelin。-- http://www.flickr.com/photos/mattlogelin/188758072/。-- 访问日期：2008-12-11。-- 知识共享许可协议（署名，非商业性使用）]
 
-**lekt2010:** Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt. [Bildquelle: Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2010:** Buddha als Asket vor seiner erlösenden Einsicht, Gandhara, 2./3. Jhdt. [Bildquelle: Wikipedia, GNU FDLicense]
 :::

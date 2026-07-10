@@ -1,15 +1,15 @@
 ---
-title: Leçon 37
-subtitle: "L'adverbe (⟪क्रियाविशेषणम्⟫)"
+title: Lektion 37
+subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 37
+# Lektion 37
 
-## 37.1. L’adverbe (⟪क्रियाविशेषणम्⟫)
+## 37.1. Das Adverb (⟪क्रियाविशेषणम्⟫)
 
 Les adverbes sont formés en sanskrit
 
@@ -20,126 +20,128 @@ Dans le premier cas, la frontière entre le cas vivant et l’adverbe est fluide
 
 ## 37.2. Usage adverbial des formes casuelles
 
-### 37.2.1. Accusatif (⟪द्वितीया⟫)
+### 37.2.1. Akkusativ (⟪द्वितीया⟫)
 
-::::grammar-box
-L’accusatif (⟪द्वितीया⟫) peut être utilisé de manière adverbiale pour les questions suivantes :
+::: grammar-box
+L'accusatif (⟪द्वितीया⟫) peut être employé adverbialement pour les questions :
 
-*   de quelle manière ?
-*   combien de temps ?
-*   vers où ?
-*   etc.
+*   où ?
+*   et c.
+*   où ?
+*   et c.
 
-L’accusatif peut être utilisé de manière adverbiale :
+L’accusatif peut être utilisé comme adverbe :
 
-*   par des substantifs  
+*   des substantifs  
     Exemples :  
-    ⟪कामम्⟫ "selon le souhait, à la demande"  
-    ⟪अर्थम्⟫ "à cause de"  
-     
-*   par des adjectifs au neutre  
+    ⟪कामम्⟩ « selon le souhait, à volonté »  
+    ⟪अर्थम्⟩ « en raison de »
+
+*   des adjectifs au neutre  
     Exemples :  
-    ⟪सुखम्⟫ "facilement, heureusement"  
+    ⟪सुखम्⟫ "léger, heureux"  
     ⟪नित्यम्⟫ "toujours"  
-    ⟪साधु⟫ "correctement, bien"  
-     
-*   par des pronoms au neutre  
+    ⟪साधु⟫ "correct, bon"
+
+*   des pronoms au neutre  
     Exemples :  
     ⟪तद्⟫ "alors, c'est pourquoi"  
     ⟪यद्⟫ "si, que"  
     ⟪एतद्⟫ "ainsi, ici, maintenant"
-::::
+:::
 ### 37.2.2. Instrumental (⟪तृतीया⟫)
 
-::::grammar-box
-L’Instrumental (⟪तृतीया⟫) peut être utilisé de manière adverbiale pour les questions suivantes :
+::: grammar-box
+L’instrumental (⟪तृतीया⟫) peut être employé adverbialement pour les questions :
 
 *   par quoi ?
 *   avec quoi ?
-*   etc.
+*   et c. p.
 
-L’Instrumental peut être utilisé de manière adverbiale :
+L'instrumental peut être utilisé comme un adverbe :
 
-*   avec des substantifs  
+*   des substantifs  
     Exemples :  
-    ⟪अर्थेन⟫ "à cause de"  
-    ⟪क्षणेन⟫ "au moment, immédiatement" (de ⟪क्षण⟫ m. "moment")  
-     
-*   avec des adjectifs, souvent aussi au pluriel  
+    ⟪अर्थेन⟫ "en raison de"  
+    ⟪क्षणेन⟫ "au moment précis, immédiatement" (de ⟪क्षण⟫ m. "moment")
+
+*   des adjectifs, souvent aussi au pluriel  
     Exemples :  
-    ⟪दूरेण⟫ "loin, de loin" (de ⟪दूर⟫ 3 "loin, éloigné de")  
-    ⟪उच्चैस्⟫ "haut, fort" (de ⟪उच्च⟫ 3 "haut, élevé, fort, perçant (de la voix)")
-::::
+    ⟪दूरेण⟫ "loin, de loin" (à ⟪दूर⟫ 3 "loin, loin de")  
+    ⟪उच्चैस्⟫ "haut, fort" (à ⟪उच्च⟫ 3 "haut, élevé, fort, aigu (de voix)")
+:::
 ### 37.2.3. Datif (⟪चतुर्थी⟫)
 
-::::grammar-box
-Rarement le datif (⟪चतुर्थी⟫) est utilisé de manière adverbiale pour les questions :
+::: grammar-box
+On utilise rarement le datif (⟪चतुर्थी⟫) de manière adverbiale pour les questions :
 
-*   à quelle fin ?
-*   et ainsi de suite.
+*   et c.
+*   et c.
 
 Exemple :
-:::indent
-⟪अर्थाय⟫ « dans le but de, pour l’amour de ... »
-:::::::
-### 37.2.4. Ablatif (⟪पञ्चमी⟫)
+:::
+::: indent
+⟪अर्थाय⟫ « dans le but de, afin de ... »
+:::
+### 37.2.4. Ablativ (⟪पञ्चमी⟫)
 
-::::grammar-box
-L’ablatif (⟪पञ्चमी⟫) peut être utilisé de manière adverbiale pour les questions suivantes :
+::: grammar-box
+L'ablatif (⟪पञ्चमी⟫) peut être utilisé adverbialement pour les questions :
 
 *   pourquoi ?
-*   à cause de quoi ?
+*   et c.
 *   d’où ?
-*   etc.
+*   et c.
 
-L’ablatif peut être utilisé de manière adverbiale :
+L'ablatif peut être utilisé comme un complément circonstanciel :
 
-*   avec des substantifs  
-    par ex. ⟪बलात्⟫ « violemment, avec violence »  
-     
-*   avec des adjectifs  
-    par ex. ⟪दूरात्⟫ « de loin »  
-     
-*   avec des pronoms  
+*   des substantifs  
+    p. ex. ⟪बलात्⟩ « avec violence, par la force »
+
+*   des adjectifs  
+    p. ex. ⟪दूरात्⟩ « de loin »
+
+*   des pronom
     Exemples :  
-    ⟪कस्मात्⟫ « pourquoi »  
-    ⟪अकस्मात्⟫ « inattendu »
-::::
+    ⟪कस्मात्⟫ "pourquoi"  
+    ⟪अकस्मात्⟫ "inattendu"
+:::
 ### 37.2.5. Génitif (⟪षष्ठी⟫)
 
-::::grammar-box
-Rarement, le génitif (⟪षष्ठी⟫) est utilisé de manière adverbiale pour la question « après combien de temps ? »
+::: grammar-box
+On utilise rarement le génitif (⟪षष्ठी⟫) de manière adverbiale pour la question « après combien de temps ? »
 
-p. ex. ⟪चिरस्य⟫ « après une longue période » (cf. ⟪चिर⟫ 3 « long (temps) »)
-::::
+p. ex. ⟪चिरस्य⟫ «après une longue période» (à ⟪चिर⟫ 3 «long (temps)»)
+:::
 ### 37.2.6. Locatif (⟪सप्तमी⟫)
 
-::::grammar-box
+::: grammar-box
 Le locatif (⟪सप्तमी⟫) peut être utilisé adverbialement pour les questions :
 
 *   où ?
-*   dans quelles circonstances ?
-*   etc.
+*   et c.
+*   et c.
 
 Exemples :
-:::indent
-\-⟪अर्थे⟫ "à cause de"  
-\-⟪कृते⟫ "pour l'amour de"  
-⟪दूरे⟫ "loin"
-:::::::
+:::
+::: indent
+\-⟪अर्थे⟫ « en raison de »
+\-⟪कृते⟫ « en vue de »
+⟪दूरे⟫ « loin »
+:::
 ## 37.3. Usage adverbial des formes casuelles autrefois courantes
 
 Exemples :
-:::indent
-⟪जातु⟫ « en général » (originellement « par naissance, par nature », acc.sg.n. de ⟪जातु⟫ &lt;n’est plus utilisé comme nom&gt;)
+::: indent
+⟪जातु⟫ « en général » (originellement « par naissance, par nature », acc.sg.n. de ⟪जातु⟫ \<n’est plus utilisé comme nom\>)
 
 ⟪तूष्णीम्⟫ « silencieusement » (acc.sg. d’un ⟪तूष्णी⟫ f. « silence » autrefois courants)
 
 ⟪एवम्⟫ « ainsi » (dérivé d’une racine pronominale ⟪एव⟫ « un, unique » par ailleurs perdue)
 :::
-## 37.4. Formation des adverbes avec des suffixes adverbiaux
+## 37.4. Bildung von Adverbien mit Adverbialsuffixen
 
-::::grammar-box
+::: grammar-box
 À partir des radicaux pronominaux ⟪तद्⟫, ⟪इदम्⟫ ou ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ ou ⟪कु⟫, on peut dériver des adverbes pronominaux correspondants à l'aide des suffixes adverbiaux
 
 *   \-⟪तस्⟫ (ablatif)
@@ -148,55 +150,62 @@ Exemples :
 *   \-⟪थम्⟫ (manière)
 *   \-⟪दा⟫ (temps)
 
-::::::::grammar-box
+dériver les adverbes pronominaux correspondants.
+:::
+::: grammar-box
 
-| Suffixe | Radical pronominal | | | |
+| :--- | :--- | | | |
 | :--- | :--- | :--- | :--- | :--- |
-| | **⟪तद्⟫** | **⟪इदम्⟫**:br**⟪अ⟫-** | **⟪यद्⟫** | **⟪किम्⟫**:br**⟪कु⟫-** |
-| **-⟪तस्⟫**:br(ablatif) | **⟪ततस्⟫**:brde là, par conséquent | **⟪इतस्⟫**:br**⟪अतस्⟫**:brd'ici, pour cette raison | **⟪यतस्⟫**:brd'où, de quoi | **⟪कुतस्⟫**:brd'où ?, pourquoi ? |
-| **-⟪त्र⟫**:br(locatif) | **⟪तत्र⟫**:brlà, là-bas | **⟪अत्र⟫**:brici | **⟪यत्र⟫**:broù | **⟪कुत्र⟫**:broù ? |
-| **-⟪था⟫**:br(manière) | **⟪तथा⟫**:brainsi | | **⟪यथा⟫**:brcomment | |
-| **-⟪थम्⟫**:br(manière) | | | | **⟪कथम्⟫**:brcomment ? |
-| **-⟪दा⟫**:br(temps) | **⟪तदा⟫**:bralors, à ce moment-là | | **⟪यदा⟫**:brquand | **⟪कदा⟫**:brquand ? |
+| | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
+| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
+| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
+| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
+| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
-::::::::grammar-box
+:::
+::: grammar-box
 Un autre adverbe interrogatif est : ⟪क्व⟫ "où ?"
-:::::::media
+:::
+::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
 Fig. : ⟪क्व⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3701))
-:::::::grammar-box
+:::
+
+::: grammar-box
 
 **Autres suffixes adverbiaux**
 
-| Suffixe | |
+| :--- | |
 | :--- | :--- |
-| **-⟪वत्⟫** | peut être ajouté à n'importe quels noms pour exprimer "à la manière de, semblable à":brpar ex. **⟪पुत्रवत्⟫** "comme un fils" |
-| **-⟪तस्⟫** | aux noms et aux pronoms. Généralement sens ablatif "d'où ?", mais aussi "où ?", "où aller ?":brpar ex. **⟪आदितस्⟫** "depuis le commencement" |
-| **-⟪धा⟫** | 1. Avec les adverbes numéraux dans le sens "-fois", "-pluriel":brpar ex. **⟪द्विधा⟫** "double":br2. dans le sens "de la manière dont":brpar ex. **⟪समधा⟫** "de la même manière" (à **⟪सम⟫** 3 "semblable") |
+| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
+| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
-::::
-## 37.5. Les composés adverbiaux
+:::
+## 37.5. Adverbiale Komposita
 
-### 37.5.1. Compositions avec un adverbe ou un cas utilisé adverbialement comme second membre
+### 37.5.1. Compositions avec un adverbe ou un cas employé adverbialement comme second membre
 
-Exemple : ⟪सुचिरम्⟫ « très longtemps (temps) »
+Exemple : ⟪सुचिरम्⟩ « très longue (période) »
 
-### 37.5.2. Usage adverbial de ⟪बहुव्रीहि⟫
+### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
 
-Exemple : ⟪रक्षार्थम्⟫ « de la manière de quelqu’un dont le but est de protéger, dans le but de protéger ». Peut aussi être considéré comme appartenant à 5.1. : -⟪अर्थम्⟫ comme membre adverbial postérieur.
+Exemple : ⟪रक्षार्थम्⟩ « de la manière de quelqu’un dont le but est la protection, dans le but de protéger ». Peut également être considéré comme appartenant à 5.1. : -⟪अर्थम्⟩ comme complément adverbial.
 
 ### 37.5.3. ⟪अव्ययीभाव⟫-Komposita
 
 ⟪अव्ययीभाव⟫ = « devenu invariant / indeclinable »
 
-::::grammar-box
+::: grammar-box
 Un ⟪अव्ययीभाव⟫ est un composé adverbial dont le premier membre est un indeclinable (postposition, particule, etc.) et dont le second membre est un nom prenant la terminaison de l’accusatif singulier neutre.
 
 Lors de la résolution du composé, le premier membre gouverne le second :
 
 Exemples :
-:::indent
+:::
+::: indent
 ⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = « contre le feu »
 
 ⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = « selon ses forces »
@@ -206,14 +215,14 @@ Exemples :
 Particulièrement importants sont les ⟪अव्ययीभाव⟫ avec ⟪यथा⟫ « comme » comme premier membre :
 
 par ex. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = « comme le souhait, selon le souhait, arbitrairement »
-:::::::media
+::: media
 ![lekt3702.jpg](/images/lekt3702.webp)
 Fig. : ⟪यथाशक्ति⟫
 (Source de l’image : [Détails](/fr/licenses#lekt3702))
 :::
-## 37.6. Syntaxe
+## 37.6. Syntaktisches
 
-::::grammar-box
+::: grammar-box
 Pour les verbes
 
 *   ⟪अस्⟫ 2P "être"
@@ -223,14 +232,15 @@ Pour les verbes
 au lieu d'un adjectif predicatif, un adverbe predicatif peut se trouver :
 
 par ex. ⟪तूष्णीं⟫ ⟪बभूव⟫ "il devint silencieux, il se tut"
-:::::::media
+:::
+::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
 Fig. : ⟪तूष्णीं⟫ ⟪बभूवुः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3703))
 :::
-## 37.7. Pronoms indéfinis
+## 37.7. Indefinitpronomina
 
-::::grammar-box
+::: grammar-box
 Les pronoms indéfinis (pronomina indefinita) se forment en ajoutant
 
 *   \-⟪चिद्⟫
@@ -240,13 +250,14 @@ Les pronoms indéfinis (pronomina indefinita) se forment en ajoutant
 aux cas du pronom interrogatif ⟪किम्⟫.
 
 par ex.
-:::indent
+:::
+::: indent
 ⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = « quelqu'un, quelqu'un quelconque »  
 ⟪कस्यचिद्⟫ = de quelqu'un
-:::::::
-## 37.8. La phrase interrogative
+:::
+## 37.8. Der Fragesatz
 
-::::grammar-box
+::: grammar-box
 « Qui ?, comment ?, quoi, pourquoi ?  
 Celui qui ne demande reste stupide. »
 
@@ -256,7 +267,7 @@ Celui qui ne demande reste stupide. »
 ⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
 
 Devise de la Rue Sésame, qui constitue une bonne ligne directrice pour la vie et l'étude du sanskrit
-::::
+:::
 Voir aussi [Leçon 4](lektion04.md).
 
 Il faut distinguer
@@ -277,73 +288,76 @@ Dans les questions de phrase, tout le contenu de la phrase est interrogé, par e
 *   Rāma va-t-il aujourd'hui à Ofterdingen ?
 *   est-il correct que ... ?
 
-### 37.8.1. Questions sur les mots (questions complémentaires)
+### 37.8.1. Wortfragen (Ergänzungsfragen)
 
-::::grammar-box
+::: grammar-box
 Schéma :
 
-Pronom interrogatif/Adverbe interrogatif - Phrase
-::::
-Exemples :
-:::indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = « Qui va au village ? »
-
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = « Que devraient apprendre les enfants ? »
-
-⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Où habite Rāma ?
-::::::media
-![lekt3704.jpg](/images/lekt3704.webp)
-Fig. : ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Source de l'image : [Détails](/fr/licenses#lekt3704))
+« Qui ?, comment ?, quoi, pourquoi ?  
+Celui qui ne demande reste stupide. »
 :::
-### 37.8.2. Questions
+Exemples :
+::: indent
+Devise de la Rue Sésame, qui constitue une bonne ligne directrice pour la vie et l'étude du sanskrit
 
-::::grammar-box
-Parfois, il n’est évident qu’un phrase est une question qu’à partir du contexte.
-::::::::grammar-box
+Voir aussi [Leçon 4](lektion04.md).
+
+Les questions par mots (questions complémentaires)
+:::
+::: media
+Les questions de phrase
+:::
+### 37.8.2. Les questions de phrase
+
+::: grammar-box
+Devise de la Rue Sésame, qui constitue une bonne ligne directrice pour la vie et l'étude du sanskrit
+:::
+::: grammar-box
 Schéma I :
 
-Verbe - reste de la phrase
-::::
-Exemple :
-:::indent
-⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ « Le jeune brahmane ira-t-il devenir un maître ? »
-:::::::grammar-box
+Voir aussi [Leçon 4](lektion04.md).
+:::
+Il faut distinguer
+::: indent
+Les questions par mots (questions complémentaires)
+:::
+::: grammar-box
 Schéma II :
 
-Particule interrogative (généralement au début de la phrase) - phrase
+Les questions de phrase
 
-Les particules interrogatives les plus importantes sont :
+Dans les questions par mots, on demande un agent (⟪कर्तृ⟫), un objet, une action, une circonstance, etc., par exemple
 
 *   ⟪अपि⟫
-    
-*   ⟪किम्⟫ (laisse souvent attendre une réponse négative)
-    
+
+*   que fait Rāma ?
+
 *   ⟪कच्चिद्⟫
-    
 
-Ces particules correspondent au point d’interrogation.
-::::
-Exemple :
-:::indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ « Est-ce aussi vrai ? »
-
-⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ « Peut-il donc ? »
-
-⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ « Le kṣatriya aurait-il vaincu les ennemis ? »
+comment parle-t-elle le sanskrit ?
 :::
-Remarque : ⟪किम्⟫ peut signifier, outre « que ? » et comme particule interrogative, « pourquoi ?, à quoi ? ». Ainsi, surtout avec l’instrumental (⟪तृतीया⟫) :
-:::indent
-⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ « À quoi la colère ? À quoi sert la colère ? Que doit faire la colère ? »
+où est la mère ?
+::: indent
+Dans les questions de phrase, tout le contenu de la phrase est interrogé, par exemple
+
+Rāma va-t-il aujourd'hui à Ofterdingen ?
+
+est-il correct que ... ?
+:::
+Remarque : ⟪किम्⟫ peut signifier, outre « que ? » et en tant que particule interrogative, « pourquoi ?, à quoi bon ? ». Notamment avec l’instrumental (⟪तृतीया⟫) :
+::: indent
+⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ « À quoi bon la colère ? À quoi sert la colère ? Que vaut la colère ? »
 :::
 ## 37.9. Liste de mots
 
 ⟪मूर्ख⟫ 3 : stupide, idiot, bête m. Idiot
 
 ⟪मुनि⟫ m. : Sage, (ascète) muet
-:::indent
+
+::: indent
 ⟪शाक्यमुनि⟫ m. : Ascète de la caste des ⟪शाक्य⟫ (Kṣatriyas de ⟪कपिलवस्तु⟫) = Bouddha Gautama
-::::::media
+:::
+::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Fig. : ⟪शाक्यमुनिः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3705))
@@ -351,14 +365,15 @@ Fig. : ⟪शाक्यमुनिः⟫
 ⟪दिन⟫ n. : Jour
 
 ⟪वृक्ष⟫ m. : Arbre
-:::media
+
+::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
 Fig. : ⟪वृक्षः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3706))
 :::
 ⟪मुख⟫ n. : Bouche, visage, partie antérieure, commencement
 
-## 37.10. Exercice
+## 37.10. Übung
 
 A) Répondez aux questions suivantes en sanskrit en utilisant les mots indiqués entre parenthèses. Traduisez les phrases interrogatives.
 
@@ -370,7 +385,7 @@ Exemple : ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » �
 
 ⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ &lt;Absolutif&gt;)
+⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<Absolutif\>)
 
 ⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
@@ -388,14 +403,14 @@ Exemple : ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » �
 
 ⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫)
 
-:::media
+::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
 Fig. : ⟪कृष्णः⟫ ⟪बलरामश्च⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3707))
 :::
 ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
-:::media
+::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
 Fig. : ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3708))
@@ -414,7 +429,7 @@ Fig. : ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इ�
 
 B) Traduisez :
 
- ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
+ ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
 
 ⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫
 
@@ -426,23 +441,24 @@ C) Traduisez les ⟪अव्ययीभाव⟫ suivantes :
 
 1\. ⟪अति⟫ Postposition avec Acc. : "au-delà de ..."
 
-:::indent
+::: indent
 1.  ⟪अतिमात्रम्⟫
 2.  ⟪अतिवसन्तम्⟫
 :::
 2\. ⟪अधि⟫ "dans"
 
-:::indent
+::: indent
 1.  ⟪अधिहरि⟫
 2.  ⟪अधिकेरलम्⟫
-::::::media
+:::
+::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
 Fig. : ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3709))
 :::
 3\. ⟪अनु⟫ "selon, le long de, d'après"
 
-:::indent
+::: indent
 1.  ⟪अनुरूपम्⟫
 2.  ⟪अनुदिनम्⟫
 3.  ⟪अनुगङ्गम्⟫
@@ -450,46 +466,48 @@ Fig. : ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 :::
 4\. ⟪अप⟫ "sans"
 
-:::indent
+::: indent
 1.  ⟪अपविष्णुम्⟫
 :::
 5\. ⟪अभि⟫ "en direction de"
 
-:::indent
+::: indent
 1.  ⟪अभिमुखम्⟫
 2.  ⟪अभ्यग्नि⟫
 :::
 6\. ⟪आ⟫ "depuis, jusqu'à, y compris"
 
-:::indent
+::: indent
 1.  ⟪आबालवृद्धम्⟫
 2.  ⟪आमरणम्⟫
-::::::media
+:::
+::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
 Fig. : ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3710))
 :::
 7\. ⟪उप⟫ "près de"
 
-:::indent
+::: indent
 1.  ⟪उपवृक्षम्⟫
-::::::media
+:::
+::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
 Fig. : ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3711))
 :::
 8\. ⟪यथा⟫
 
-:::indent
+::: indent
 1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Exercice de révision
+## 37.11. Wiederholungsübung
 
 Traduisez en sanskrit en utilisant exclusivement des formes verbales du parfait :
 
 Comme un jour un vieillard se rendit dans un autre village, il se fatigua en chemin. Alors il alla, pour se reposer, au pied d’un manguier qui se trouvait sur le côté. Sur cet arbre il y avait des fruits mûrs. Le vieillard eut envie de ces fruits. Mais il ne put grimper à l’arbre et saisir les fruits. Par chance, il y avait sur cet arbre des singes qui mangeaient des fruits. Lorsqu’il les aperçut, le vieillard se réjouit. Que fit-il ? Il prit quelques pierres, visa les singes et lança. Les singes, furieux, cueillirent des fruits et les jetèrent sur le vieillard. Le vieillard prit ces fruits avec joie et se rendit dans la région qu’il souhaitait. Voyez, le destin du vieillard !
 
-:::deleteme-box
+::: deleteme-box
 
 - **Image lekt3701.jpg** (Abb. : ⟪क्व⟫) : [Source de l’image : Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Consulté le 2008-12-30. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, pas de travaux dérivés)]
 - **Image lekt3702.jpg** (Abb. : ⟪यथाशक्ति⟫) : [Source de l’image : Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Consulté le 2008-12-30. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, pas de travaux dérivés)]
@@ -502,5 +520,4 @@ Comme un jour un vieillard se rendit dans un autre village, il se fatigua en che
 - **Image lekt3709.jpg** (Abb. : ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫) : [Source de l’image : Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Consulté le 2008-12-31. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, pas de travaux dérivés)]
 - **Image lekt3710.jpg** (Abb. : ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫) : [Source de l’image : saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Consulté le 2008-12-31. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, partage à l’identique)]
 - **Image lekt3711.jpg** (Abb. : ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫) : Delhi = ⟪दहली⟫ / دہلی [Source de l’image : Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Consulté le 2008-12-31. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale, pas de travaux dérivés)]
-
 :::

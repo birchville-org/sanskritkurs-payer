@@ -4,7 +4,7 @@
 
 ![](/images/schrift006.webp)
 
-Anusvāra ṃ : point au-dessus de la lettre. qui précède le son : ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫
+Anusvāra ṃ : point au-dessus de la lettre. précédant le son : ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫
 
 Écriture :
 
@@ -24,4 +24,4 @@ B) Lisez et translittérez :
 
 À la leçon 6
 
-À l'exercice d'écriture 5
+À l’exercice d’écriture 5

@@ -1,9 +1,9 @@
 ---
-title: Lezione 55
-subtitle: "L'aoristo in -a (Aoristo con vocale tematica)"
+title: Lektion 55
+subtitle: "Der a-Aorist (Aorist mit Themavokal)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
-category: "Grammatica"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,7 +11,7 @@ status: stable
 
 ## 55.1. L'aoristo in -a (Aoristo con vocale tematica)
 
-:::grammar-box
+::: grammar-box
 **L'aoristo in -a si forma come un imperfetto (⟪लङ्⟫) della 6ª classe di presente (⟪तुदादि⟫), cioè:**
 
 **Augumento + radice in grado debole + a + desinenza secondaria**
@@ -28,7 +28,7 @@ Esempio:
 
 ⟪सिच्⟫ 6U "bagnare"
 
-:::indent
+::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -38,7 +38,7 @@ Esempio:
 :::
 Formazioni irregolari:
 
-:::indent
+::: indent
 ⟪अस्⟫ 4P "gettare": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (Spiegazione vedi Thumb-Hauschild §541,4)
 
 ⟪ख्या⟫ + ⟪आ⟫ 2P "raccontare": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
@@ -47,7 +47,7 @@ Formazioni irregolari:
 :::
 Nota:
 
-:::indent
+::: indent
 ⟪शास्⟫ 2P "ordinare": ⟪अशिषत्⟫ (grado debole regolare!)
 :::
 ## 55.2. Esercizio
@@ -87,12 +87,14 @@ Determinare e tradurre per iscritto le seguenti forme e formare le forme corrisp
 31.  ⟪अशुष्याम⟫
 32.  ⟪सिष्णेह⟫
 
-:::media
+::: media
 ![](/images/lekt5501.webp)
 Fig.: ⟪अजीर्यमिति⟫
 'Inâyat Khân morente, progetto per una miniatura di un manoscritto per Jahângîr = جهانگير, ca. 1618
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5501))
-::::::deleteme-box
+:::
+
+::: deleteme-box
 
 **lekt5501:** 'Inâyat Khân morente, progetto per una miniatura di un manoscritto per Jahângîr = جهانگير, ca. 1618 [Fonte dell'immagine: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Accesso il 2009-01-28. Di pubblico dominio]
 

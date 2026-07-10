@@ -43,60 +43,60 @@ This page provides a systematic overview of all grammatical topics of the Sanskr
 ### 2.2 Pronouns & Adverbs
 
 *   **Pronouns**:
-    *   Interrogative and demonstrative pronouns -> [Lesson 4](/en/lektionen/lektion04)
-    *   Relative pronoun (yad) -> [Lesson 19](/en/lektionen/lektion19)
-    *   Personal pronouns (1st & 2nd person) -> [Lesson 46](/en/lektionen/lektion46), [Lesson 47](/en/lektionen/lektion47)
-    *   Indefinite pronouns -> [Lesson 37](/en/lektionen/lektion37)
+    *   Interrogative and demonstrative pronouns -\> [Lesson 4](/en/lektionen/lektion04)
+    *   Relative pronoun (yad) -\> [Lesson 19](/en/lektionen/lektion19)
+    *   Personal pronouns (1st & 2nd person) -\> [Lesson 46](/en/lektionen/lektion46), [Lesson 47](/en/lektionen/lektion47)
+    *   Indefinite pronouns -\> [Lesson 37](/en/lektionen/lektion37)
 *   **Adverbs & Address**:
-    *   Formation of adverbs -> [Lesson 37](/en/lektionen/lektion37), [Lesson 52](/en/lektionen/lektion52)
-    *   Polite address & vocative -> [Lesson 21](/en/lektionen/lektion21), [Lesson 44](/en/lektionen/lektion44)
+    *   Formation of adverbs -\> [Lesson 37](/en/lektionen/lektion37), [Lesson 52](/en/lektionen/lektion52)
+    *   Polite address & vocative -\> [Lesson 21](/en/lektionen/lektion21), [Lesson 44](/en/lektionen/lektion44)
 
 ### 2.3 Verbs (Conjugation)
 
 *   **The Present System (Indicative)**:
-    *   Personal endings (3rd, 2nd, 1st person) -> [Lesson 6](/en/lektionen/lektion06), [Lesson 44](/en/lektionen/lektion44), [Lesson 39](/en/lektionen/lektion39)
-    *   Thematic classes (1, 4, 6, 10) -> [Lesson 6](/en/lektionen/lektion06), [Lesson 28](/en/lektionen/lektion28)
-    *   Athematic classes -> [Lesson 17](/en/lektionen/lektion17), [Lesson 33](/en/lektionen/lektion33), [Lesson 7](/en/lektionen/lektion07), [Lesson 31](/en/lektionen/lektion31), [Lesson 8](/en/lektionen/lektion08), [Lesson 30](/en/lektionen/lektion30)
+    *   Personal endings (3rd, 2nd, 1st person) -\> [Lesson 6](/en/lektionen/lektion06), [Lesson 44](/en/lektionen/lektion44), [Lesson 39](/en/lektionen/lektion39)
+    *   Thematic classes (1, 4, 6, 10) -\> [Lesson 6](/en/lektionen/lektion06), [Lesson 28](/en/lektionen/lektion28)
+    *   Athematic classes -\> [Lesson 17](/en/lektionen/lektion17), [Lesson 33](/en/lektionen/lektion33), [Lesson 7](/en/lektionen/lektion07), [Lesson 31](/en/lektionen/lektion31), [Lesson 8](/en/lektionen/lektion08), [Lesson 30](/en/lektionen/lektion30)
 *   **Other Tenses & Moods**:
-    *   **Imperfect** (Past) -> [Lesson 32](/en/lektionen/lektion32)
-    *   **Optative & Imperative** -> [Lesson 30](/en/lektionen/lektion30), [Lesson 48](/en/lektionen/lektion48)
-    *   **Perfect** (Singular/Plural) -> [Lesson 34](/en/lektionen/lektion34), [Lesson 35](/en/lektionen/lektion35), [Lesson 36](/en/lektionen/lektion36)
-    *   **Perfect (Dual)** -> [Lesson 60](/en/lektionen/lektion60)
-    *   **Future** (Simple & Periphrastic) -> [Lesson 26](/en/lektionen/lektion26), [Lesson 61](/en/lektionen/lektion61)
-    *   **Aorist** (Past) -> [Lesson 54](/en/lektionen/lektion54), [Lesson 55](/en/lektionen/lektion55), [Lesson 56](/en/lektionen/lektion56), [Lesson 57](/en/lektionen/lektion57), [Lesson 58](/en/lektionen/lektion58)
+    *   **Imperfect** (Past) -\> [Lesson 32](/en/lektionen/lektion32)
+    *   **Optative & Imperative** -\> [Lesson 30](/en/lektionen/lektion30), [Lesson 48](/en/lektionen/lektion48)
+    *   **Perfect** (Singular/Plural) -\> [Lesson 34](/en/lektionen/lektion34), [Lesson 35](/en/lektionen/lektion35), [Lesson 36](/en/lektionen/lektion36)
+    *   **Perfect (Dual)** -\> [Lesson 60](/en/lektionen/lektion60)
+    *   **Future** (Simple & Periphrastic) -\> [Lesson 26](/en/lektionen/lektion26), [Lesson 61](/en/lektionen/lektion61)
+    *   **Aorist** (Past) -\> [Lesson 54](/en/lektionen/lektion54), [Lesson 55](/en/lektionen/lektion55), [Lesson 56](/en/lektionen/lektion56), [Lesson 57](/en/lektionen/lektion57), [Lesson 58](/en/lektionen/lektion58)
 *   **Derived Verb Forms**:
-    *   **Passive & Causative** -> [Lesson 10](/en/lektionen/lektion10), [Lesson 28](/en/lektionen/lektion28), [Lesson 29](/en/lektionen/lektion29)
-    *   **Intensive & Denominative** -> [Lesson 61](/en/lektionen/lektion61)
-*   **Verbs in the Dual (Dual Number)** -> [Lesson 59](/en/lektionen/lektion59), [Lesson 60](/en/lektionen/lektion60)
+    *   **Passive & Causative** -\> [Lesson 10](/en/lektionen/lektion10), [Lesson 28](/en/lektionen/lektion28), [Lesson 29](/en/lektionen/lektion29)
+    *   **Intensive & Denominative** -\> [Lesson 61](/en/lektionen/lektion61)
+*   **Verbs in the Dual (Dual Number)** -\> [Lesson 59](/en/lektionen/lektion59), [Lesson 60](/en/lektionen/lektion60)
 
 ### 2.4 Nominal Derivations & Compounds
 
 *   **Compounds (Samāsa)**:
-    *   **Dvandva** (Copulative Compound) -> [Lesson 5](/en/lektionen/lektion05), [Lesson 9](/en/lektionen/lektion09)
-    *   **Tatpuruṣa** (Determinative) -> [Lesson 15](/en/lektionen/lektion15), [Lesson 18](/en/lektionen/lektion18)
-    *   Upapada Compounds -> [Lesson 51](/en/lektionen/lektion51)
-    *   **Bahuvrīhi** (Possessive) -> [Lesson 20](/en/lektionen/lektion20)
+    *   **Dvandva** (Copulative Compound) -\> [Lesson 5](/en/lektionen/lektion05), [Lesson 9](/en/lektionen/lektion09)
+    *   **Tatpuruṣa** (Determinative) -\> [Lesson 15](/en/lektionen/lektion15), [Lesson 18](/en/lektionen/lektion18)
+    *   Upapada Compounds -\> [Lesson 51](/en/lektionen/lektion51)
+    *   **Bahuvrīhi** (Possessive) -\> [Lesson 20](/en/lektionen/lektion20)
 *   **Suffixes & Participles**:
-    *   Important Suffixes (-a, -ana, -tra, etc.) -> [Lesson 8](/en/lektionen/lektion08), [Lesson 9](/en/lektionen/lektion09)
-    *   **PPP** (Past Participle Passive) -> [Lesson 12](/en/lektionen/lektion12), [Lesson 13](/en/lektionen/lektion13)
-    *   **PPA** (Past Participle Active) -> [Lesson 52](/en/lektionen/lektion52)
-    *   **Absolutive & Infinitive** -> [Lesson 22](/en/lektionen/lektion22), [Lesson 23](/en/lektionen/lektion23)
+    *   Important Suffixes (-a, -ana, -tra, etc.) -\> [Lesson 8](/en/lektionen/lektion08), [Lesson 9](/en/lektionen/lektion09)
+    *   **PPP** (Past Participle Passive) -\> [Lesson 12](/en/lektionen/lektion12), [Lesson 13](/en/lektionen/lektion13)
+    *   **PPA** (Past Participle Active) -\> [Lesson 52](/en/lektionen/lektion52)
+    *   **Absolutive & Infinitive** -\> [Lesson 22](/en/lektionen/lektion22), [Lesson 23](/en/lektionen/lektion23)
 
 ## 3. Sentence Structure (Syntax)
 
-*   **The nominal sentence** -> [Lesson 2](/en/lektionen/lektion02)
-*   **The interrogative sentence** -> [Lesson 37](/en/lektionen/lektion37)
+*   **The nominal sentence** -\> [Lesson 2](/en/lektionen/lektion02)
+*   **The interrogative sentence** -\> [Lesson 37](/en/lektionen/lektion37)
 *   **Case usage**:
-    *   Nominal sentence & Nominative -> [Lesson 2](/en/lektionen/lektion02)
-    *   Accusative (also double) -> [Lesson 7](/en/lektionen/lektion07), [Lesson 11](/en/lektionen/lektion11)
-    *   Instrumental -> [Lesson 10](/en/lektionen/lektion10)
-    *   Genitive -> [Lesson 14](/en/lektionen/lektion14)
-    *   Dative -> [Lesson 24](/en/lektionen/lektion24)
-    *   Ablative -> [Lesson 25](/en/lektionen/lektion25)
-    *   Locative -> [Lesson 27](/en/lektionen/lektion27)
+    *   Nominal sentence & Nominative -\> [Lesson 2](/en/lektionen/lektion02)
+    *   Accusative (also double) -\> [Lesson 7](/en/lektionen/lektion07), [Lesson 11](/en/lektionen/lektion11)
+    *   Instrumental -\> [Lesson 10](/en/lektionen/lektion10)
+    *   Genitive -\> [Lesson 14](/en/lektionen/lektion14)
+    *   Dative -\> [Lesson 24](/en/lektionen/lektion24)
+    *   Ablative -\> [Lesson 25](/en/lektionen/lektion25)
+    *   Locative -\> [Lesson 27](/en/lektionen/lektion27)
 *   **Subordinate clauses**:
-    *   Relative clauses -> [Lesson 19](/en/lektionen/lektion19)
-    *   Usage of participles -> [Lesson 12](/en/lektionen/lektion12), [Lesson 44](/en/lektionen/lektion44)
+    *   Relative clauses -\> [Lesson 19](/en/lektionen/lektion19)
+    *   Usage of participles -\> [Lesson 12](/en/lektionen/lektion12), [Lesson 44](/en/lektionen/lektion44)
 
 ## 4. Metrics (Verse Studies)
 

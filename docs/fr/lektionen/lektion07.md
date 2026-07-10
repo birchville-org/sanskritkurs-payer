@@ -1,46 +1,47 @@
 ---
-title: Leçon 7
-subtitle: "La proposition verbale avec objet direct"
+title: Lektion 7
+subtitle: "Den Verbalsatz mit direktem Objekt"
 lesson_id: 7
 last_reconstructed: 2026-05-07
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 7
+# Lektion 7
 
-:::deleteme-box
+::: deleteme-box
 **Dans cette leçon, vous apprendrez :**
-- La proposition verbale avec objet direct
+- La phrase verbale avec un objet direct
 - L'accusatif des noms et des pronoms
-- Le Sandhi de la finale -n
+- Le sandhi du -n final
 - Le neutre des thèmes en a
 - Les classes de présent athématiques (exemple de la 5e classe)
 :::
-## Proverbe de la semaine
 
+::: center
+**Proverbe de la semaine**
 :::
-center
+
+::: center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
-⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ |
+⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
-⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ||
+⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ⟪||⟫
 
 **dharmo jayati nādharmaḥ**
 **satyaṃ jayati nānṛtam |**
 **kṣamā jayati na krodho**
 **devo jayati nāsuraḥ ||**
 
-Le droit triomphe, non l’injustice,
+Le droit triomphe, non le tort,
 La vérité triomphe, non le mensonge,
 La clémence triomphe, non la colère,
 Dieu triomphe, non le faux-dieu.
 :::
----
 
-## 7.1. La proposition verbale avec objet direct
+## 7.1. La phrase verbale avec un objet direct
 
-:::grammar-box
+::: grammar-box
 **Schéma :**
 **(Agent = kartṛ m. = ⟪कर्तृ⟫) – objet direct (karman n. = ⟪कर्मन्⟫) – verbe**
 
@@ -50,83 +51,76 @@ p. ex.
 :::
 Lorsque le verbe est au Parasmaipada ou au Ātmanepada, l’objet direct (**karman** n. = ⟪कर्मन्⟫) se trouve généralement à l’**accusatif** (cas direct, dvitīyā f. = ⟪द्वितीया⟫).
 
----
+## 7.2. Der Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
 
-## 7.2. L’accusatif (cas direct, dvitīyā f. = ⟪द्वितीया⟫ = « deuxième terminaison casuelle »)
-
-:::grammar-box
+::: grammar-box
 **Terminaison de l’accusatif singulier masculin et féminin après une voyelle : -m**
 
 | Masculins en | Accusatif singulier |
 | :--- | :--- |
-| **-a** : deva | **devam**:br⟪देवम्⟫ |
-| **-i** : kavi | **kavim**:br⟪कविम्⟫ |
-| **-u** : guru | **gurum**:br⟪गुरुम्⟫ |
-
+| **-a**: deva | **devam** :br⟪देवम्⟫ |
+| **-i**: kavi | **kavim** :br⟪कविम्⟫ |
+| **-u**: guru | **gurum** :br⟪गुरुम्⟫ |
 | Féminins en | Accusatif singulier |
-| :--- | :--- |
-| **-ā** : devatā | **devatām**:br⟪देवताम्⟫ |
-| **-i** : śruti | **śrutim**:br⟪श्रुतिम्⟫ |
-| **-ī** : devī | **devīm**:br⟪देवीम्⟫ |
-| **-u** : dhenu | **dhenum**:br⟪धेनुम्⟫ |
-::::::grammar-box
+| **-ā**: devatā | **devatām** :br⟪देवताम्⟫ |
+| **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ |
+| **-ī**: devī | **devīm** :br⟪देवीम्⟫ |
+| **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ |
+:::
+::: grammar-box
 **Accusatif pluriel masculin des thèmes en voyelle (exception : les thèmes raciniques monosyllabiques en voyelle longue) : allongement de la voyelle finale + -n**
 
 | Masculins en | Accusatif pluriel |
 | :--- | :--- |
-| **-a** : deva | **devān**:br⟪देवान्⟫ |
-| **-i** : kavi | **kavīn**:br⟪कवीन्⟫ |
-| **-u** : guru | **gurūn**:br⟪गुरून्⟫ |
-::::::grammar-box
+| **-a**: deva | **devān** :br⟪देवान्⟫ |
+| **-i**: kavi | **kavīn** :br⟪कवीन्⟫ |
+| **-u**: guru | **gurūn** :br⟪गुरून्⟫ |
+:::
+::: grammar-box
 **Accusatif pluriel féminin des thèmes en voyelle (exception : les thèmes raciniques monosyllabiques en voyelle longue) : allongement de la voyelle finale + -s**
 
 | Féminins en | Accusatif pluriel |
 | :--- | :--- |
-| **-ā** : devatā | **devatās**:br⟪देवतास्⟫ |
-| **-i** : śruti | **śrutīs**:br⟪श्रुतीस्⟫ |
-| **-ī** : devī | **devīs**:br⟪देवीस्⟫ |
-| **-u** : dhenu | **dhenūs**:br⟪धेनूस्⟫ |
+| **-ā**: devatā | **devatās** :br⟪देवतास्⟫ |
+| **-i**: śruti | **śrutīs** :br⟪श्रुतीस्⟫ |
+| **-ī**: devī | **devīs** :br⟪देवीस्⟫ |
+| **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
----
 
-### 7.2.1. Singulier et pluriel de l’accusatif des pronoms interrogatifs et démonstratifs
+### 7.2.1. Akkusativ Singular und Plural der Frage- und Demonstrativpronomina
 
-:::grammar-box
-| | | Masculin | Féminin | Neutre |
+::: grammar-box
+| || Masculin | Féminin | Neutre |
 | :--- | :--- | :--- | :--- | :--- |
-| **kim**:brqui/quoi | sg. | **kam**:br⟪कम्⟫ | **kām**:br⟪काम्⟫ | **kim**:br⟪किम्⟫ |
-| | pl. | **kān**:br⟪कान्⟫ | **kās**:br⟪कास्⟫ | **kāni**:br⟪कानि⟫ |
-| **tad**:bril/cela/celui-là | sg. | **tam**:br⟪तम्⟫ | **tām**:br⟪ताम्⟫ | **tad**:br⟪तद्⟫ |
-| | pl. | **tān**:br⟪तान्⟫ | **tās**:br⟪तास्⟫ | **tāni**:br⟪तानि⟫ |
-| **etad**:brcelui-ci ici | sg. | **etam / enam**:br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām**:br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad**:br⟪एतद्⟫ / ⟪एनद्⟫ |
-| | pl. | **etān / enān**:br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās**:br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni**:br⟪एतानि⟫ / ⟪एनानि⟫ |
-| **idam**:brcelui-ci | sg. | **imam / enam**:br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām**:br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad**:br⟪इदम्⟫ / ⟪एनद्⟫ |
-| | pl. | **imān / enān**:br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās**:br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni**:br⟪इमानि⟫ / ⟪एनानि⟫ |
+| :--- | :--- | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
+| | **devam**:br⟪देवम्⟫ | **kān** :br⟪कान्⟫ | **kās** :br⟪कास्⟫ | **kāni** :br⟪कानि⟫ |
+| **-i** : kavi | **kavim**:br⟪कविम्⟫ | **tam** :br⟪तम्⟫ | **tām** :br⟪ताम्⟫ | **tad** :br⟪तद्⟫ |
+| | **gurum**:br⟪गुरुम्⟫ | **tān** :br⟪तान्⟫ | **tās** :br⟪तास्⟫ | **tāni** :br⟪तानि⟫ |
+| Féminins en | Accusatif singulier | **etam / enam** :br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām** :br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad** :br⟪एतद्⟫ / ⟪एनद्⟫ |
+| | :--- | **etān / enān** :br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās** :br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni** :br⟪एतानि⟫ / ⟪एनानि⟫ |
+| **-ā** : devatā | **devatām**:br⟪देवताम्⟫ | **imam / enam** :br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām** :br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad** :br⟪इदम्⟫ / ⟪एनद्⟫ |
+| | **śrutim**:br⟪श्रुतिम्⟫ | **imān / enān** :br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās** :br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni** :br⟪इमानि⟫ / ⟪एनानि⟫ |
 :::
-Les formes **enam** (⟪एनम्⟫), etc., appartiennent à la racine **enad** (⟪एनद्⟫), qui ne forme des cas que dans certains cas. Elles sont utilisées à la place des formes de **etad** et **idam** lorsque ce qui est désigné a déjà été mentionné précédemment.
-par ex. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : « Il est un dieu. On lui sacrifie. »
+Les formes **enam** (⟪एनम्⟫) etc. appartiennent au radical **enad** (⟪एनद्⟫), qui ne forme des cas que dans quelques déclinaisons. Elles sont utilisées à la place des formes de **etad** et **idam** lorsque ce qui est désigné a déjà été mentionné précédemment.
+par ex. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : « Il est un dieu. On lui offre un sacrifice. »
 
----
+### 7.2.2. Usage de l'accusatif (cas direct, dvitīyā f. = ⟪द्वितीया⟫ = "deuxième terminaison casuelle")
 
-### 7.2.2. Utilisation de l’accusatif (cas direct, dvitīyā f. = ⟪द्वितीया⟫ = « deuxième terminaison casuelle »)
-
-:::grammar-box
-L’accusatif (dvitīyā f. = ⟪द्वितीया⟫) exprime :
-1. Dans une proposition verbale non passive : l’**objet direct** (karman n. = ⟪कर्मन्⟫) de l’action exprimée par le verbe :
-   Par exemple :
-   - **devaṃ yajati** = ⟪देवं⟫ ⟪यजति⟫ : « Il vénère un dieu par un sacrifice. »
-   - **phalam āpnoti** = ⟪फलमाप्नोति⟫ : « Il obtient le fruit (par exemple, de son action). »
-2. Avec des verbes exprimant un mouvement, une action de se diriger, de conduire ou similaire vers quelque chose, l’accusatif indique la destination du mouvement :
-   Par exemple :
-   - **narakaṃ gacchati** = ⟪नरकं⟫ ⟪गच्छति⟫ : « Il va en enfer. »
+::: grammar-box
+**Terminaison du accusatif singulier masculin et féminin après une voyelle : -m**
+1. | Masculins en | Accusatif singulier |
+   par exemple.
+   - **devaṃ yajati** = ⟪देवं⟫ ⟪यजति⟫ : « Il vénère un dieu avec un sacrifice. »
+   - **phalam āpnoti** = ⟪फलमाप्नोति⟫ : « Il obtient le fruit (par exemple de son action). »
+2. | **-u** : guru | **gurum**:br⟪गुरुम्⟫ |
+   par exemple.
+   - | :--- | :--- |
 :::
-D’autres emplois de l’accusatif seront traités ultérieurement.
+D'autres utilisations du accusatif seront traitées plus tard.
 
----
+## 7.3. Sandhi von auslautendem -n
 
-## 7.3. Sandhi du -n final
-
-:::grammar-box
+::: grammar-box
 **-n final :**
 
 1. Est remplacé devant les sparśa palataux et rétroflexes sonores et devant **ś-** par la nasale correspondant à ces sons :
@@ -148,28 +142,26 @@ D’autres emplois de l’accusatif seront traités ultérieurement.
 
 4. Sauf après une voyelle brève (voir plus tard), le **-n** final reste inchangé dans tous les autres cas.
 :::
----
 
-## 7.4. Le neutre (napuṃsaka n. = ⟪नपुंसक⟫)
+## 7.4. Das Neutrum (napuṃsaka n. = ⟪नपुंसक⟫)
 
-:::grammar-box
+::: grammar-box
 **Au neutre, les formes du nominatif (prathamā) et de l’accusatif (dvitīyā) sont identiques.**
 :::
-### 7.4.1. Neutre des stems en -a
+### 7.4.1. Neutrum der Stämme auf -a
 
-:::grammar-box
-- **Terminaison Nominatif / Accusatif Singulier : -m**
-  par ex. **phala** n. = ⟪फल⟫ = « fruit » : Nom. / Acc. sg. **phalam** = ⟪फलम्⟫
-- **Terminaison Nominatif / Accusatif Pluriel : -āni**
-  par ex. **phala** n. = ⟪फल⟫ : Nom. / Acc. pl. **phalāni** = ⟪फलानि⟫
+::: grammar-box
+- **Au neutre, les formes du nominatif (prathamā) et de l’accusatif (dvitīyā) sont identiques.**
+  Par exemple, **phala** n. = ⟪फल⟫ = "fruit" : Nom. / Akk. sg. **phalam** = ⟪फलम्⟫
+- **Terminaison du nominatif / accusatif pluriel : -āni**
+  Par exemple, **phala** n. = ⟪फल⟫ : Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
 :::
----
 
-## 7.5. Classes de présent athématique
+## 7.5. Athematische Präsensklassen
 
 La 5e classe de présent forme ce qu'on appelle un radical de présent athématique, c'est-à-dire que le radical de présent ne se termine pas, contrairement aux classes de présent thématiques (classes 1, 4, 6, 10), par la « voyelle thématique » **-a**.
 
-:::grammar-box
+::: grammar-box
 **Les classes de présent athématique présentent une alternance de grade du radical, c'est-à-dire qu'il existe deux formes du radical de présent :**
 1. **radical fort** : grade plein (rarement grade allongé)
 2. **radical faible** : grade nul
@@ -181,33 +173,31 @@ La 5e classe de présent forme ce qu'on appelle un radical de présent athémati
 
 **Toutes les autres formes possèdent le radical de présent faible.**
 :::
-### 7.5.1. Terminaisons primaires de la 3e personne du pluriel pour les racines athématiques
+### 7.5.1. Primärendungen der 3. Person Plural bei athematischen Stämmen
 
-:::grammar-box
-**Pour les racines de présent athématiques, les terminaisons primaires de la 3e personne du pluriel sont :**
-- **Parasmaipada : -anti**
-- **Ātmanepada : -ate**
+::: grammar-box
+La 5e classe de présent forme ce qu'on appelle un radical de présent athématique, c'est-à-dire que le radical de présent ne se termine pas, contrairement aux classes de présent thématiques (classes 1, 4, 6, 10), par la « voyelle thématique » **-a**.
+- **Parasmaipada: -anti**
+- **radical fort** : grade plein (rarement grade allongé)
 :::
-### 7.5.2. La 5e classe de présent (svādi = ⟪स्वादि⟫ = "su, etc.")
+### 7.5.2. La 5e classe de présent (svādi = ⟪स्वादि⟫ = "su etc.")
 
-:::grammar-box
-- **Thème fort** : (généralement) racine au degré zéro (comme indiqué) + **-no-**
-- **Thème faible** : (généralement) racine au degré zéro (comme indiqué) + **-nu-**
+::: grammar-box
+- La 5e classe de présent forme ce qu'on appelle un radical de présent athématique, c'est-à-dire que le radical de présent ne se termine pas, contrairement aux classes de présent thématiques (classes 1, 4, 6, 10), par la « voyelle thématique » **-a**.
+- **Les classes de présent athématique présentent une alternance de grade du radical, c'est-à-dire qu'il existe deux formes du radical de présent :**
 
-**Devant les terminaisons vocaliques, -nu- est remplacé par -nv- pour les racines se terminant par une voyelle, et -nu- est remplacé par -nuv- pour les racines se terminant par une consonne.**
+**radical fort** : grade plein (rarement grade allongé)
 :::
-**Exemples :**
+**radical faible** : grade nul
 
-| Racine:br⟪धातु⟫ | Thème fort | Thème faible | Devant voyelle:br(faible) |
+| Wurzel:br⟪धातु⟫ | Starker Stamm | Schwacher Stamm | Vor Vokal:br(schwach) |
 | :--- | :--- | :--- | :--- |
-| **āp**:br5 P:br⟪आप्⟫:br"atteindre" | **āp-no**:br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv**:br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
-| **aś**:br5 Ā:br⟪अश्⟫:br"atteindre" | — | **aś-nu**:br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv**:br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
-| **su**:br5 U:br⟪सु⟫:br"presser" | **su-no**:br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu**:br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv**:br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
-| **śru**:br5 P:br⟪श्रु⟫:br"écouter" | **śṛ-ṇo**:br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv**:br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
+| **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
+| **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
+| **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
----
-
-## 7.6. Liste des mots
+## 7.6. Wortliste
 
 **Apprenez les mots suivants :**
 
@@ -219,7 +209,7 @@ La 5e classe de présent forme ce qu'on appelle un radical de présent athémati
 - **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : entendre (quelque chose : accusatif, quelqu'un : génitif ou accusatif ; sur : accusatif ; de quelqu'un : génitif, ablatif, instrumental)
 - **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : presser
 - **soma** m. ⟪सोम⟫ : boisson pressée, Soma ; Lune (La plante dont le Soma a été pressé reste à ce jour débattue).
-:::media
+::: media
 ![](/images/lekt0701.webp)
 Fig. : S'agissait-il de la plante védique du Soma ? : Amanite tue-mouches : *Amanita muscaria* (L.) Lam.
 (Source de l'image : [Détails](/fr/licenses#lekt0701))
@@ -231,18 +221,14 @@ Fig. : S'agissait-il de la plante védique du Soma ? : Amanite tue-mouches : *Am
 - **aṅga** n. ⟪अङ्ग⟫ : membre du corps, composant ; aussi = **vedāṅga** = ⟪वेदाङ्ग⟫
 - **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : aller (Selon la classification verbale indigène, il appartient à la classe de présent 1, mais en réalité c'est une formation avec un suffixe de formation de radical de présent **-ccha-** : **gam** » forme profonde (**gm** ») **ga-ccha-ti**)
 
-
-
----
-
-## 7.7. Exercice
+## 7.7. Übung
 
 **A) Insérez respectivement au singulier et au pluriel l’objet direct ou l’accusatif de direction :**
 
 1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
    ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
 
-:::media
+::: media
 ![](/images/lekt0704.webp)
 Fig. : Viṣṇu = ⟪विष्णु⟫, VIIIe/IXe siècle.
 (Source de l’image : [Détails](/fr/licenses#lekt0704))
@@ -282,7 +268,7 @@ Fig. : Viṣṇu = ⟪विष्णु⟫, VIIIe/IXe siècle.
 4. yajati.
    ⟪यजति⟫ |
 
-:::media
+::: media
 ![](/images/lekt0702.webp)
 Fig. : **yajati** = ⟪यजति⟫ — Sacrifice védique = **yajña** m. = ⟪यज्ञ⟫
 (Source de l’image : [Détails](/fr/licenses#lekt0702))
@@ -303,7 +289,7 @@ Fig. : **yajati** = ⟪यजति⟫ — Sacrifice védique = **yajña** m. = 
    ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
 8. À quel dieu ce Brahmane sacrifie-t-il ?
 
-:::media
+::: media
 ![](/images/lekt0703.webp)
 Fig. : À quel dieu sacrifie-t-on ici ? Réponse : Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
 (Source de l’image : [Détails](/fr/licenses#lekt0703))
@@ -311,3 +297,4 @@ Fig. : À quel dieu sacrifie-t-on ici ? Réponse : Gaṇeśa (Gaṇapati) = ⟪�
 9. Que mâche cet homme saint ?
 10. Que pressent ces (ici) ?
 11. Il est le professeur. On l’écoute (= ils l’écoutent).
+

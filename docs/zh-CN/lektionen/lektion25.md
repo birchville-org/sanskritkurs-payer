@@ -1,446 +1,456 @@
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: 第25课
+subtitle: "生成离格（⟪पञ्चमी⟫ = “第五格词尾”）"
 lesson_id: 25
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 25
 
 ## 25.1. Bildung des Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung")
 
-:::grammar-box
-Außer bei Maskulina / Neutra auf -a sowie den Pronomina sind im Singular in allen Deklinationsklassen die Formen des Ablativ (⟪पञ्चमी⟫) mit denen des Genetiv (⟪षष्ठी⟫) identisch. <!-- TODO: Fallback translation -->
+::: grammar-box
+除了以-a结尾的阳性/中性名词以及代词外，单数中所有变格类的离格（⟪पञ्चमी⟫）与属格（⟪षष्ठी⟫）形式相同。
 
-Außer bei den Personalpronomina sind in allen Deklinationen im Plural die Formen des Ablativ mit denen des Dativ (⟪चतुर्थी⟫) identisch. <!-- TODO: Fallback translation -->
+除了人称代词外，所有变格在复数中，离格（⟪चतुर्थी⟩）的形式与与格相同。
 :::
-Jetzt erkennen Sie den Grund für die Reihenfolge der Kasus (⟪विभक्ति⟫) im Sanskrit: sie sind so angeordnet, dass gleichlautende Formen möglichst beieinander - bzw. untereinander - stehen. <!-- TODO: Fallback translation -->
+现在您明白了梵语中格（⟪विभक्ति⟩）的顺序原因：它们的排列方式使得同音形式尽可能彼此相邻——或上下相邻。
 
-:::grammar-box
-**Ablativ Singular der Maskulina / Neutra auf -a** <!-- TODO: Fallback translation -->
+::: grammar-box
+**阳性/中性以 -a 结尾的形容词/名词的夺格单数**
 
-- **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫) <!-- TODO: Fallback translation -->
+- **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
-Frage-, Relativ- und Demonstrativpronomina: <!-- TODO: Fallback translation -->
+疑问代词、关系代词和指示代词：
 
-::::grammar-box
+::: grammar-box
 
-| | Ablativ Singular:brMaskulinum / Neutrum | Ablativ Singular:brFemininum | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **⟪किम्⟫** | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) | <!-- TODO: Fallback translation -->
-| **⟪यद्⟫** | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) | <!-- TODO: Fallback translation -->
-| **⟪तद्⟫** | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) | <!-- TODO: Fallback translation -->
-| **⟪एतद्⟫** | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) | <!-- TODO: Fallback translation -->
-| **⟪इदम्⟫** | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) | <!-- TODO: Fallback translation -->
+| | 单数夺格：阳性 / 中性 | 单数夺格：阴性 |
+| :--- | :--- | :--- |
+| **⟪किम्⟫** | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) |
+| **⟪यद्⟫** | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
+| **⟪तद्⟫** | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) |
+| **⟪एतद्⟫** | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) |
+| **⟪इदम्⟫** | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
 ## 25.2. Gebrauch des Ablativ (⟪पञ्चमी⟫)
 
-"Der Ablativ bezeichnet dasjenige, das fest bleibt, wenn etwas davon weggeht." <!-- TODO: Fallback translation -->
+“夺格表示当某物离开时，保持不动的那个事物。”
 
-Pāṇini 2,3,28 + 1,4,24 <!-- TODO: Fallback translation -->
+# 第2课
 
-Der Ablativ steht vor allem auf die Fragen "Woher?", "Warum?". <!-- TODO: Fallback translation -->
+与格主要回答“从哪里？”、“为什么？”的问题。
 
-:::grammar-box
-1\. Der Ablativ bezeichnet also den Ausgangspunkt, die Herkunft und den Stoff. <!-- TODO: Fallback translation -->
+::: grammar-box
+1\. 因此，离格表示起点、来源和材料。
 
-Der Ablativ kann daher auch die Person bezeichnen, von der man etwas kauft, hört, wünscht usw. <!-- TODO: Fallback translation -->
+因此，离格也可以表示从那里购买、听到、祈求等的人。
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+例子：
 
-:::indent
-⟪ग्रमादागच्छति⟫ = "Er kommt aus dem Dorf" <!-- TODO: Fallback translation -->
+::: indent
+⟪ग्रमादागच्छति⟫ = “他来自村庄”
 
-⟪अश्वात्पतितः⟫ = "vom Pferde gefallen" <!-- TODO: Fallback translation -->
+⟪अश्वात्पतितः⟫ = “从马上摔落”
 
-⟪तेभ्यो⟫ ⟪लब्धम्⟫ = "von ihnen (her) empfangen" <!-- TODO: Fallback translation -->
+⟪तेभ्यो⟫ ⟪लब्धम्⟫ = “von ihnen (her) empfangen”
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
-:::indent
-⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "er hört vom Lehrer über den Dharma" <!-- TODO: Fallback translation -->
+::: indent
+⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = “他从老师那里听闻正法”
 
-⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "der Brahmane wünscht sich vom Kṣatriya eine Milchkuh" <!-- TODO: Fallback translation -->
-::::::grammar-box
-2\. Der Ablativ steht bei Verben mit den Bedeutungen "abhalten von", "schützen vor", "verteidigen gegen", "sich fürchten vor": <!-- TODO: Fallback translation -->
+⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = “婆罗门向刹帝利求一头奶牛”
 :::
-Beispiel: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "er schützt vor den Feinden" <!-- TODO: Fallback translation -->
-::::::grammar-box
-3\. Der Ablativ bezeichnet den Grund oder die Ursache: <!-- TODO: Fallback translation -->
+::: grammar-box
+2\. 表示“阻止”、“保护”、“防御”、“害怕”等意义的动词后接离格：
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+例如：
 
-:::indent
-⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "Er erschlägt seinen Sohn aus Zorn" <!-- TODO: Fallback translation -->
-
-⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Weil er Böses getan hat, kommt er in die Hölle" (« Weil er einer ist, durch den Böses getan wurde) <!-- TODO: Fallback translation -->
-
-⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Weil er Böses tut / tat, kommt er in die Hölle" <!-- TODO: Fallback translation -->
+::: indent
+⟪अरिभ्यो⟫ ⟪रक्षति⟫ = “他保护免受敌人侵害”
 :::
-Nomina, die nicht Feminina sind, können, um den Grund einer Tätigkeit zu bezeichnen, im Instrumentalis (⟪तृतीया⟫) oder Ablativ (⟪पञ्चमी⟫) stehen. Feminina stehen in diesem Sinn in der Regel im Instrumentalis, können aber gelegentlich auch im Ablativ stehen. <!-- TODO: Fallback translation -->
+::: grammar-box
+3\. 从格表示原因或理由：
+:::
+示例：
+
+::: indent
+⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = “他因愤怒而杀死他的儿子”
+
+⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = “因为他做了恶，他堕入地狱”（“因为他是一个通过他做了恶的人”）
+
+⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = “因为他作恶/曾作恶，他堕入地狱”
+:::
+非阴性名词在表示行为原因时，可置于工具格（⟪तृतीया⟫）或离格（⟪पञ्चमी⟫）。阴性名词在此意义上通常置于工具格，但偶尔也可置于离格。
 
 ## 25.3. Das Suffix -⟪तस्⟫
 
-:::grammar-box
-Will man im Singular (eindeutig) ausdrücken, dass das Wort in ablativischer Bedeutung verwendet wird, kann man an den Wortstamm das Suffix -⟪तस्⟫ anhängen, das Adverbien mit meist ablativischer Bedeutung bildet (auf die Frage "Woher?"): <!-- TODO: Fallback translation -->
+::: grammar-box
+如果要在单数中明确表达该词用于离格意义，可以在词干后附加后缀 -⟪तस्⟫，该后缀构成通常具有离格意义的副词（回答“从哪里？”的问题）：
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪आदितस्⟫ = "von Anfang an" <!-- TODO: Fallback translation -->
+::: indent
+⟪आदितस्⟫ = “从一开始”
 
-⟪धर्मतस्⟫ = "wegen des Dharma, aufgrund des Dharma" <!-- TODO: Fallback translation -->
-::::::grammar-box
-Das Suffix -⟪तस्⟫ tritt auch an Pronominalstämme: <!-- TODO: Fallback translation -->
-::::::indent
-⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "von dort, dort, dorthin, darauf, dann, darum" <!-- TODO: Fallback translation -->
-
-⟪यद्⟫ : ⟪यतस्⟫ "von welchem, wovon, woher, wo, wohin, weshalb, weil" (relativ) <!-- TODO: Fallback translation -->
-
-⟪किम्⟫ :  ⟪कुतस्⟫ "woher?" "warum?" <!-- TODO: Fallback translation -->
+⟪धर्मतस्⟫ = “因法，基于法”
 :::
-## 25.4. Andere Möglichkeiten, Begründungen auszudrücken
-
-:::grammar-box
-**1\. Relativsätze** <!-- TODO: Fallback translation -->
-
-Relativsätze drücken oft eine kausale (begründende), konsekutive (folgernde) oder finale (bezweckende) Beziehung zum Hauptsatz aus. <!-- TODO: Fallback translation -->
-
-Formen des Relativpronomens, die als kausale Konjunktion dienen: <!-- TODO: Fallback translation -->
-
-*   ablativisch: <!-- TODO: Fallback translation -->
-    *   ⟪यतस्⟫ ... Nebensatz ... ⟪ततस्⟫ ... Hauptsatz ... = "weil ..., deshalb ..." <!-- TODO: Fallback translation -->
-    *   ⟪यस्मात्⟫ ... Nebensatz ... ⟪तस्मात्⟫ ... Hauptsatz ... = "weil ..., deshalb ..." <!-- TODO: Fallback translation -->
-*   instrumental: <!-- TODO: Fallback translation -->
-    *   ⟪येन⟫ ... Nebensatz ... ⟪तेन⟫ ... Hauptsatz ... = "wodurch/weil ..., dadurch / deswegen ..." <!-- TODO: Fallback translation -->
+::: grammar-box
+后缀 -⟪तस्⟫ 也出现在代词词干上：
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+::: indent
+⟪तद्⟫ : ⟪ततस्⟫ (“ta-tas”) “从那里，那里，向那里，对此，然后，因此”
 
-:::indent
-⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो⟫ ⟪व्रतं⟫ ⟪चरति⟫ = "Weil Rāma Wohlstand wünscht, praktiziert er das Gelübde" <!-- TODO: Fallback translation -->
-::::::grammar-box
-**2\. ⟪हि⟫** <!-- TODO: Fallback translation -->
+⟪यद्⟫ : ⟪यतस्⟫ “von welchem, wovon, woher, wo, wohin, weshalb, weil” (relativ)
 
-Hauptsätze kann man mittels der Partikel ⟪हि⟫ "denn, weil" miteinander verknüpfen. Ein Satz mit ⟪हि⟫ (das nicht an erster Stelle stehen darf, sondern in Prosa an zweiter Stelle stehen muss) gibt eine Begründung an entweder für den vorhergehenden Satz oder für den darauffolgenden Satz: <!-- TODO: Fallback translation -->
+⟪किम्⟫：⟪कुतस्⟫ “从哪里？”“为什么？”
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+## 25.4. 表达理由的其他方法
 
-:::indent
-⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "Die Leute tun Verdienstliches. Sie wollen nämlich in den Himmel kommen." <!-- TODO: Fallback translation -->
-::::::grammar-box
-**3\. Instrumentalis (⟪तृतीया⟫)** <!-- TODO: Fallback translation -->
+::: grammar-box
+**1\. 关系从句**
 
-Neben dem Ablativ (⟪पञ्चमी⟫) wird der Instrumentalis (⟪तृतीया⟫) zur Angabe des Grundes oder der Ursache verwendet. Bei femininen Nomina ist der Instrumentalis im Allgemeinen obligatorisch. <!-- TODO: Fallback translation -->
+关系从句通常表达与主句之间的因果（理由）、结果（推论）或目的（意图）关系。
+
+Relativpronomenformen, die als kausale Konjunktion dienen:
+
+*   从格用法：
+    *   ⟪यतस्⟫ …… 从句 …… ⟪ततस्⟫ …… 主句 …… = “因为 ……，所以 ……”
+    *   ⟪यस्मात्⟫ …… 从句 …… ⟪तस्मात्⟫ …… 主句 …… = “因为 ……，所以 ……”
+*   工具格：
+    *   ⟪येन⟫ …… 从句 …… ⟪तेन⟫ …… 主句 …… = “通过/因为 ……，因此/所以 ……”
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+例子：
 
-:::indent
-⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "Er erschlägt seinen Sohn aus Zorn" = "Er erschlägt seinen Sohn im Zorn" <!-- TODO: Fallback translation -->
-::::::grammar-box
-**4\. Nomina** <!-- TODO: Fallback translation -->
-
-Daneben kann man selbstverständlich Begründungen auch ausdrücken durch Konstruktionen mit <!-- TODO: Fallback translation -->
-
-*   ⟪कारण⟫ n. "Ursache": ⟪कारणात्⟫ ⟪।⟫ ⟪कारणेन⟫ <!-- TODO: Fallback translation -->
-*   ⟪हेतु⟫ m. <!-- TODO: Fallback translation -->
-*   andere Nomina in der Bedeutung "Ursache" <!-- TODO: Fallback translation -->
-
-\+ Genetiv (⟪षष्ठी⟫) oder als Hinterglied von Komposita: <!-- TODO: Fallback translation -->
+::: indent
+⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो⟫ ⟪व्रतं⟫ ⟪चरति⟫ = “因为罗摩渴望繁荣，他践行这一誓愿”
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+::: grammar-box
+**2\. ⟪हि⟫**
 
-:::indent
-⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ u.s.w.) = "wegen des Verdienstes" <!-- TODO: Fallback translation -->
-::::::grammar-box
-**5\. ⟪इति⟫** <!-- TODO: Fallback translation -->
-
-Das Motiv für eine Tätigkeit kann man als Gedanken mit ⟪इति⟫ angeben: <!-- TODO: Fallback translation -->
+主句可以通过粒子⟪हि⟩“因为，由于”连接起来。带有⟪हि⟩（该词不得位于首位，而在散文中必须位于第二位）的句子，要么为前一句，要么为后一句提供理由：
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+例如：
 
-:::indent
-⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Weil der Sugata vollkommen zur Wahrheit erwacht ist, fragt Ānanda den Gautama nach seiner Lehre" (« "Denkend "Der Sugata ist vollkommen zur Wahrheit erwacht" ...) <!-- TODO: Fallback translation -->
+::: indent
+⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = “人们行善。因为他们想要升入天堂。”
 :::
-## 25.5. Wortliste
+::: grammar-box
+**3\.工具格（⟪तृतीया⟫）**
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫  verlassen, aufgeben, im Stich lassen <!-- TODO: Fallback translation -->
-
-:::indent
-Fut. ⟪त्यक्ष्यति⟫  
-Pass. ⟪त्यज्यते⟫  
-PPP ⟪त्यक्त⟫  
-Inf. ⟪त्यक्तुम्⟫  
-Absol. 2: -⟪त्यज्य⟫ <!-- TODO: Fallback translation -->
-
-davon: <!-- TODO: Fallback translation -->
-
-⟪त्याग⟫ m.: Aufgeben, Verzicht, Meiden <!-- TODO: Fallback translation -->
+除了从格（⟪पञ्चमी⟫）之外，工具格（⟪तृतीया⟫）也用于表示原因或理由。对于阴性名词，工具格通常是强制性的。
 :::
-⟪दार⟫ m. pl. (!!!): Ehefrau <!-- TODO: Fallback translation -->
+示例：
 
-⟪द्रव्य⟫ n.: Gegenstand, Habe, materieller Besitz, Geld <!-- TODO: Fallback translation -->
+::: indent
+⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = “Er erschlägt seinen Sohn aus Zorn” = “Er erschlägt seinen Sohn im Zorn”
+:::
+::: grammar-box
+**4\. Substantive**
 
-⟪धान्य⟫ n.:  gedroschenes Getreide <!-- TODO: Fallback translation -->
+此外，当然也可以通过带有
 
-:::media
+*   ⟪कारण⟫ n. “原因”：⟪कारणात्⟩ ⟪।⟩ ⟪कारणेन⟩
+*   ⟪हेतु⟩ m.
+*   其他表示“原因”含义的名词
+
+\+ Genitiv (⟪षष्ठी⟫) oder als zweites Glied von Komposita:
+:::
+Beispiel:
+
+::: indent
+⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ 等) = “由于功德”
+:::
+::: grammar-box
+**5\. ⟪इति⟫**
+
+活动的动机可以表述为带有⟪इति⟫的思想：
+:::
+例如：
+
+::: indent
+⟪⟪सम्यक्संबुद्धः⟫⟫ ⟨⟪सुगत⟫⟫ ⟨⟪इत्यानन्दो⟫⟫ ⟨⟪गौतमं⟫⟫ ⟨⟪धर्मं⟫⟫ ⟨⟪पृच्छति⟫⟫ = “因为 Sugata 已完全觉醒于真理，Ānanda 向 Gautama 询问他的教义”（“Thinking ‘The Sugata has fully awakened to the truth’ ...）
+:::
+## 25.5. 词汇表
+
+⟪त्यज्⟫ 1P ⟪त्यजति⟫ 离开，放弃，抛弃
+
+::: indent
+将来时 ⟪त्यक्ष्यति⟫  
+被动语态 ⟪त्यज्यते⟫  
+过去分词 ⟪त्यक्त⟫  
+不定式 ⟪त्यक्तुम्⟫  
+绝对格 2: -⟪त्यज्य⟫
+
+davon:
+
+⟪त्याग⟫ m.: 放弃，舍弃，避免
+:::
+⟪दार⟫ m. pl. (!!!)：妻子
+
+⟪द्रव्य⟫ n.：对象，财产，物质财富，金钱
+
+⟪धान्य⟫ n.: 脱粒的谷物
+
+::: media
 ![](/images/lekt2501.webp)
-Abb.: ⟪धान्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2501)) <!-- TODO: Fallback translation -->
+图：⟪धान्यम्⟫
+（图片来源：[详情](/zh-CN/licenses#lekt2501)）
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : halten, festhalten <!-- TODO: Fallback translation -->
+⟪धृ⟫ 1U ⟪धरति⟫ ：持有，抓住
 
-:::indent
-Fut. ⟪धरिष्यति⟫  
-Pass. ⟪ध्रियते⟫  
-PPP ⟪धृत⟫  
-Inf. ⟪धर्तुम्⟫  
-Absol. 2: -⟪धृत्य⟫ <!-- TODO: Fallback translation -->
+::: indent
+将来时 ⟪धरिष्यति⟫  
+被动语态 ⟪ध्रियते⟫  
+过去分词 ⟪धृत⟫  
+不定式 ⟪धर्तुम्⟫  
+绝对格 2: -⟪धृत्य⟫
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-⟪धर्म⟫ m.: das, was fest ist und fest hält = Dharma <!-- TODO: Fallback translation -->
+⟪धर्म⟫：阳性名词，意为“稳固且持存之物” = Dharma（法）
 :::
-⟪नित्य⟫ ⟪३⟫ : ständig, beständig, ewig <!-- TODO: Fallback translation -->
+⟪नित्य⟫ ⟪३⟫：持续地、恒常地、永恒地
 
-:::indent
-⟪नित्यम्⟫ Adv.: stets, beständig immer <!-- TODO: Fallback translation -->
+::: indent
+⟪नित्यम्⟫ 副词：始终，持续地，总是
 :::
-⟪प्रज्ञा⟫ f.:  Weisheit, Erkenntnis <!-- TODO: Fallback translation -->
+⟪प्रज्ञा⟫ 阴性名词：智慧，知识
 
-⟪प्रदान⟫ n.: Geben, Spenden ; Gabe, Spende <!-- TODO: Fallback translation -->
+⟪प्रदान⟫ n.：给予，捐赠；礼物，捐赠
 
-⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : sich freuen, sich an etwas (Instr., Gen., Lok.) berauschen <!-- TODO: Fallback translation -->
+⟪मद्⟫ 4 P ⟪माद्यति⟫ (!)：感到高兴，因某事（工具格、属格、处所格）而陶醉
 
-:::indent
-Fut. ⟪मदिष्यति⟫  
-Pass. ⟪मद्यते⟫  
-PPP ⟪मत्त⟫  
-Inf. ⟪मदितुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+将来时 ⟪मदिष्यति⟫  
+被动语态 ⟪मद्यते⟫  
+过去分词（PPP） ⟪मत्त⟫
+不定式 ⟪मदितुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-⟪मद⟫ m.: Rausch, Sinnenrausch = Sinneslust <!-- TODO: Fallback translation -->
+⟪मद⟫ m.: 陶醉，感官陶醉 = 感官享乐
 :::
-⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen) <!-- TODO: Fallback translation -->
+⟪मान⟫ m.: 评估，声誉，名声，荣誉，骄傲，傲慢，自卑感；（人们以他人为标准衡量自己）
 
-⟪यदि⟫ Konjunktion: wenn <!-- TODO: Fallback translation -->
+⟪यदि⟫ 连词：如果
 
-⟪न्याय⟫ m.: Regel, Prinzip, Methode, Urteil (jurist.), Logik (aus ni + i +a) <!-- TODO: Fallback translation -->
+⟪न्याय⟫：阳性名词：规则、原则、方法、判断（法律）、逻辑（源自 ni + i + a）
 
-⟪अन्यथा⟫ Adv.: anders, sonst, fälschlich, unrichtig <!-- TODO: Fallback translation -->
+⟪अन्यथा⟫ 副词：其他，否则，错误地，不正确地
 
-⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫ <!-- TODO: Fallback translation -->
+⟪या⟫ 第二人称 ⟪याति⟫，⟪यान्ति⟫ = ⟪गम्⟫
 
-:::indent
-Pass. ⟪यायते⟫  
-PPP ⟪यात⟫  
-Inf. ⟪यातुम्⟫  
-Absol. 2: -⟪याय⟫ <!-- TODO: Fallback translation -->
+::: indent
+被动态 ⟪यायते⟫  
+过去分词 ⟪यात⟫  
+不定式 ⟪यातुम्⟫
+绝对格 2: -⟪याय⟫
 :::
-⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫ <!-- TODO: Fallback translation -->
+⟪दारिद्र्य⟫ 名词 = ⟪दरिद्रस्य⟫ ⟪भावः⟫
 
-⟪प्रदान⟫ n. = ⟪दान⟫ <!-- TODO: Fallback translation -->
+⟪प्रदान⟫ n. = ⟪दान⟫
 
-⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : befehlen, lehren, bestrafen <!-- TODO: Fallback translation -->
+⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) ：命令，教导，惩罚
 
-:::indent
-Pass. ⟪शिष्यते⟫  
-PPP ⟪शिष्ट⟫ ⟪३⟫ : gelehrt  
-Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫ <!-- TODO: Fallback translation -->
+::: indent
+过去分词。 ⟪⟪शिष्यते⟫⟫  
+过去分词 ⟪⟪शिष्ट⟫⟫ ⟪⟪३⟫⟫ ：博学的  
+绝对格 1.: ⟪⟪शासित्वा⟫⟫ / ⟪⟪शिष्त्वा⟫⟫
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-⟪शिक्षा⟫ f.: Wissenschaft, Unterricht ; Phonetik <!-- TODO: Fallback translation -->
+⟪शिक्षा⟫ f.: 科学，教学；语音学
 :::
-⟪स्तेन⟫ m.: Dieb <!-- TODO: Fallback translation -->
+⟪स्तेन⟫ m.: 小偷
 
-⟪स्तेय⟫ n.: Diebstahl <!-- TODO: Fallback translation -->
+⟪स्तेय⟫ n.: 盗窃
 
-⟪किल्बिष⟫ n.: Schuld, Beleidigung, Sünde <!-- TODO: Fallback translation -->
+⟪किल्बिष⟫ n.: 罪过，冒犯，罪恶
 
-⟪विना⟫ Postposition: ohne, außer (mit  Akk., Instr., Abl.) <!-- TODO: Fallback translation -->
+⟪विना⟫ 后置词：没有，除了（接宾格、工具格、离格）
 
-⟪मूल⟫ n.: Wurzel <!-- TODO: Fallback translation -->
+⟪मूल⟫ n.: 词根
 
-:::media
+::: media
 ![](/images/lekt2502.webp)
 Abb.: ⟪मूलानि⟫
-(Bildquelle: [Details](/licenses#lekt2502)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/zh-CN/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bestreichen, beschmieren <!-- TODO: Fallback translation -->
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bestreichen, beschmieren
 
-:::indent
-Fut. ⟪लेप्स्यति⟫  
-Pass. ⟪लिप्यते⟫  
-PPP ⟪लिप्त⟫  
-Inf. ⟪लेप्तुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+将来时 ⟪लेप्स्यति⟫  
+被动语态 ⟪लिप्यते⟫  
+过去被动分词 (PPP) ⟪लिप्त⟫  
+不定式 ⟪लेप्तुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-⟪लिप्ति⟫ f.: Bestreichen, Schreiben, Schrift <!-- TODO: Fallback translation -->
-::::::media
+⟪लिप्ति⟫ f.: 涂抹，书写，文字
+:::: media
 ![](/images/lekt2503.webp)
-Abb.: ⟪लिप्तिः⟫
-(Bildquelle: [Details](/licenses#lekt2503)) <!-- TODO: Fallback translation -->
+图：⟪लिप्तिः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt2503)）
+::::
 :::
-⟪वर्ष⟫ n.,m.: Regen, Regenzeit, Jahr <!-- TODO: Fallback translation -->
+⟪वर्ष⟫ n.,m.: 雨，雨季，年
 
-⟪वह्⟫ 1U ⟪वहति⟫ : führen, fahren, wehen (Wind) <!-- TODO: Fallback translation -->
+⟪वह्⟫ 1U ⟪वहति⟫ : 引导，驾驶，飘动（风）
 
-:::indent
-Fut. ⟪वक्ष्यति⟫  
-Pass. ⟪उह्यते⟫  
-PPP ⟪ऊढ⟫  
-Inf. ⟪वोढुम्⟫  
-Absol 2: -⟪उह्य⟫ <!-- TODO: Fallback translation -->
+::: indent
+将来时 ⟪वक्ष्यति⟫  
+被动语态 ⟪उह्यते⟫  
+过去分词 ⟪ऊढ⟫  
+不定式 ⟪वोढुम्⟫  
+绝对格 2：-⟪उह्य⟫
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten <!-- TODO: Fallback translation -->
+⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : 带走（即把新娘从父母家带走）= 结婚
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-⟪विवाह⟫ m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171) <!-- TODO: Fallback translation -->
-::::::media
+⟪विवाह⟫ m.: 带走，娶妻（工具格，saha）（关于婚礼，参见Basham，《奇迹》第166-171页）
+:::: media
 ![](/images/lekt2504.webp)
-Abb.: ⟪विवाहः⟫
-(Bildquelle: [Details](/licenses#lekt2504)) <!-- TODO: Fallback translation -->
+图：⟪विवाहः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt2504)）
+::::
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : wegführen, unterrichten, erziehen <!-- TODO: Fallback translation -->
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ ：带走，教导，教育
 
-:::indent
-davon: <!-- TODO: Fallback translation -->
+::: indent
+ davon：
 
-⟪विनय⟫ m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht <!-- TODO: Fallback translation -->
+⟪विनय⟫ m.: 移除，教育，训练，佛教：僧团纪律，僧团戒律
 :::
-⟪विज्ञान⟫ n.: Erkenntnis, Kenntnis <!-- TODO: Fallback translation -->
+⟪विज्ञान⟫ n.: 认识，知识
 
-⟪विष्टि⟫ f.: Arbeit, Frondienst <!-- TODO: Fallback translation -->
+⟪विष्टि⟫ f.: 工作，劳役
 
-:::media
+::: media
 ![](/images/lekt2505.webp)
 Abb.: ⟪विष्टिः⟫
-(Bildquelle: [Details](/licenses#lekt2505)) <!-- TODO: Fallback translation -->
+(Quelle des Bildes: [Details](/zh-CN/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : wachsen, größer werden <!-- TODO: Fallback translation -->
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : wachsen, größer werden
 
-:::indent
-Fut. ⟪वर्धिष्यते⟫  
-Pass. ⟪वृध्यते⟫  
-PPP ⟪वृद्ध⟫ : erwachsen, alte, vermehrt  
-Inf. ⟪वर्धितुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+将来时 ⟪वर्धिष्यते⟫  
+被动语态 ⟪वृध्यते⟫  
+过去分词（PPP） ⟪वृद्ध⟫：成长，年长的，增加  
+不定式 ⟪वर्धितुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-⟪वृद्धि⟫ f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti) <!-- TODO: Fallback translation -->
+⟪वृद्धि⟫ f.：生长，成长，扩展级（源自：vṛdh-ti）
 :::
-⟪सामर्थ्य⟫ n.: das seinem Zweck Entsprechen <!-- TODO: Fallback translation -->
+⟪सामर्थ्य⟫ n.：符合其目的
 
-⟪स्वभाव⟫ m.: Wesen, Natur, Charakter <!-- TODO: Fallback translation -->
+⟪स्वभाव⟫ m.: 存在，本质，性格
 
-⟪हर्ष⟫ m.: (Aufrichten der Körperhärchen), Freude <!-- TODO: Fallback translation -->
+⟪हर्ष⟫ m.：（汗毛竖起），喜悦
 
-⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: Gold, Geld, Reichtum <!-- TODO: Fallback translation -->
+⟪हिरण्य⟫ ⟪३⟫ ：金色的；名词：黄金，金钱，财富
 
-:::media
+::: media
 ![](/images/lekt2506.webp)
-Abb.: ⟪हिरण्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2506)) <!-- TODO: Fallback translation -->
+图：⟪हिरण्यम्⟫
+（图片来源：[详情](/zh-CN/licenses#lekt2506)）
 :::
-⟪अणु⟫ ⟪३⟫ : dünn, fein, sehr klein ; m.: Atom <!-- TODO: Fallback translation -->
+⟪अणु⟫ ⟪३⟫ ：细，微，极小；阳性：原子
 
-⟪गोदान⟫ n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein ⟪संस्कार⟫) <!-- TODO: Fallback translation -->
+⟪गोदान⟫ n.：赠送母牛/一头母牛；第二次剃发仪式（一种 ⟪संस्कार⟫）
 
 ## 25.6. Übung
 
-A) Ergänzen Sie die Deklinationsbeispiele von [Lektion 16](lektion16.md), Wiederholungsübung A durch Hinzufügen von 4. Dativ (⟪चतुर्थी⟫) und 5. Ablativ (⟪पञ्चमी⟫). Bilden Sie außerdem Deklinationsreihen mit allen bisher gelernten Formen zu <!-- TODO: Fallback translation -->
+A) 补充第 [16 课](lektion16.md) 的变位示例，通过添加第 4. 与格（⟪चतुर्थी⟫）和第 5. 离格（⟪पञ्चमी⟫）来完成复习练习 A。此外，使用迄今为止所学的所有形式构建变位序列
 
-⟪१⟫. ⟪सन्त्⟫ (m., n.) <!-- TODO: Fallback translation -->
+⟪१⟫。⟪सन्त्⟫（阳性，中性）
 
-⟪२⟫. ⟪महान्त्⟫ (m., n.) <!-- TODO: Fallback translation -->
+⟪२⟫。⟪महान्त्⟫（阳性，中性）
 
-⟪३⟫. ⟪यद्⟫ (m., n., f.) <!-- TODO: Fallback translation -->
+⟪३⟫。⟪यद्⟫（阳性、中性、阴性）
 
-Lernen Sie diese Deklinationsparadigmen auswendig! <!-- TODO: Fallback translation -->
+记住这些变格范式！
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: <!-- TODO: Fallback translation -->
+B) 翻译并解析以下梵文复合词：
 
-⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫
 
-⟪गुरोरधर्मः⟫ ⟪श्रोतुं⟫ ⟪न⟫ ⟪शक्यत⟫ ⟪इति⟫ ⟪श्रुत्या⟫ ⟪च⟫ ⟪स्मृतिभिश्चोद्यते⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪गुरोरधर्मः⟫ ⟪श्रोतुं⟫ ⟪न⟫ ⟪शक्यत⟫ ⟪इति⟫ ⟪श्रुत्या⟫ ⟪च⟫ ⟪स्मृतिभिश्चोद्यते⟫ ⟪॥२॥⟫
 
-⟪क्षत्रिया⟫ ⟪जनाञ्छत्रुभ्यो⟫ ⟪रक्षितुमर्हन्तीति⟫ ⟪क्षत्रियधर्मः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪क्षत्रिया⟫ ⟪जनाञ्छत्रुभ्यो⟫ ⟪रक्षितुमर्हन्तीति⟫ ⟪क्षत्रियधर्मः⟫ ⟪॥३॥⟫
 
-⟪कृतयज्ञदोषत्वाद्ब्राह्मणो⟫ ⟪धनं⟫ ⟪लब्धुं⟫ ⟪नार्हति⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪कृतयज्ञदोषत्वाद्ब्राह्मणो⟫ ⟪धनं⟫ ⟪लब्धुं⟫ ⟪नार्हति⟫ ⟪॥४॥⟫
 
-⟪धनलाभहेतोस्ते⟫ ⟪वैश्या⟫ ⟪व्रतं⟫ ⟪कृत्वा⟫ ⟪ब्रह्मचर्यं⟫ ⟪चरन्ति⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪धनलाभहेतोस्ते⟫ ⟪वैश्या⟫ ⟪व्रतं⟫ ⟪कृत्वा⟫ ⟪ब्रह्मचर्यं⟫ ⟪चरन्ति⟫ ⟪॥५॥⟫
 
-⟪बुद्द्धाश्चार्हन्तश्च⟫ ⟪दुःखान्मुक्ताः⟫ ⟪।⟫ ⟪मुञ्चन्ती⟫ ⟪बुद्धिर्हि⟫ ⟪तैः⟫ ⟪प्राप्ता⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪बुद्द्धाश्चार्हन्तश्च⟫ ⟪दुःखान्मुक्ताः⟫ ⟪।⟫ ⟪मुञ्चन्ती⟫ ⟪बुद्धिर्हि⟫ ⟪तैः⟫ ⟪प्राप्ता⟫ ⟪॥६॥⟫
 
-⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫
 
-⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫
 
-⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫ <!-- TODO: Fallback translation -->
+⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫
 
-⟪लब्धपुत्रत्वाद्द्विजेन⟫ ⟪महासुखमाप्तम्⟫ ⟪॥१०॥⟫ <!-- TODO: Fallback translation -->
+⟪लब्धपुत्रत्वाद्द्विजेन⟫ ⟪महासुखमाप्तम्⟫ ⟪॥१०॥⟫
 
-⟪विष्णुर्भक्तान्मरणात्पाति⟫ ⟪॥११॥⟫ <!-- TODO: Fallback translation -->
+⟪विष्णुर्भक्तान्मरणात्पाति⟫ ⟪॥११॥⟫
 
-⟪रामाद्विना⟫ =  ⟪रामं⟫ ⟪विना⟫ = ⟪रामेण⟫ ⟪विना⟫ ⟪॥१२॥⟫ <!-- TODO: Fallback translation -->
+⟪रामाद्विना⟫ =  ⟪रामं⟫ ⟪विना⟫ = ⟪रामेण⟫ ⟪विना⟫ ⟪॥१२॥⟫
 
-⟪साधोः⟫ ⟪शिक्षा⟫ ⟪गुणाय⟫ ⟪संपद्यते⟫ ⟪नासाधोः⟫ ⟪॥१३॥⟫ <!-- TODO: Fallback translation -->
+⟪साधोः⟫ ⟪शिक्षा⟫ ⟪गुणाय⟫ ⟪संपद्यते⟫ ⟪नासाधोः⟫ ⟪॥१३॥⟫
 
-⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫ <!-- TODO: Fallback translation -->
+⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫
 
-⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫ <!-- TODO: Fallback translation -->
+⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫
 
-⟪अलं⟫ ⟪भयेन⟫ ⟪॥१६॥⟫ <!-- TODO: Fallback translation -->
+⟪अलं⟫ ⟪भयेन⟫ ⟪॥१६॥⟫
 
-⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫ (⟪हर⟫i m. = ⟪विष्णु⟫ / ⟪कृष्ण⟫) <!-- TODO: Fallback translation -->
+⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫ (⟪हर⟫i m. = ⟪विष्णु⟫ / ⟪कृष्ण⟫)
 
-:::media
+::: media
 ![](/images/lekt2507.webp)
-Abb.: ⟪लोकादधिको⟫ ⟪हरिः⟫ <!-- TODO: Fallback translation -->
+图：⟪लोकादधिको⟫ ⟪हरिः⟫
 :::
 ## 25.7. ⟪सुभाषितानि⟫
 
 ⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫  
 ⟪ततस्ततो⟫ ⟪विमुच्यते⟫ ⟪।⟫  
 ⟪निवर्तनाद्धि⟫ ⟪सर्वतो⟫  
-⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥१॥⟫
 
-:::indent
-Erklärung: ⟪सर्वतस्⟫ = sarva "jeder, alle" + -tas ; ⟪अणु⟫ = Nom., Akk. sg. neutr. <!-- TODO: Fallback translation -->
+::: indent
+解释：⟪सर्वतस्⟫ = sarva “每个，所有” + -tas ； ⟪अणु⟫ = 主格，宾格 单数 中性
 :::
 ⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
 ⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
 ⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫  
-⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥२॥⟫
 
 ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫  
 ⟪पापं⟫ ⟪दारिद्र्यसंभवम्⟫ ⟪।⟫  
-⟪दारिद्र्यमप्रदानेन⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪दारिद्र्यमप्रदानेन⟫ ⟪॥३॥⟫
 
 ⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫  
 ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫  
-⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪३१६॥⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫。⟪३१६॥⟫ ⟪॥४॥⟫
 
-:::indent
-Erklärung: ⟪राजा⟫ = Nom. sg. zu ⟪राजन्⟫ m. = ⟪नृप⟫ <!-- TODO: Fallback translation -->
+::: indent
+解释：⟪राजा⟫ = 主格单数，对应⟪राजन्⟫（阳性）= ⟪नृप⟫
 :::
-## 25.8. Übersetzungsübung
+## 25.8. 翻译练习
 
-1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. über den Nutzen der Ökonomie: <!-- TODO: Fallback translation -->
+1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. 论经济学的益处：
 
-⟪वार्त्ता⟫ ⟪धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪वार्त्ता⟫ ⟪धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫
 
-2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. über die Ausbildung eines Fürsten: <!-- TODO: Fallback translation -->
+2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. 关于王子的教育：
 
 ⟪तस्माद्दण्डमूला⟫***⟪स्तिस्रो⟫*** ⟪विद्याः⟫ ⟪॥१॥⟫  
 ⟪विनयमूलो⟫ ⟪दण्डः⟫ ***⟪प्राणभृतां⟫*** ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
@@ -456,24 +466,24 @@ Erklärung: ⟪राजा⟫ = Nom. sg. zu ⟪राजन्⟫ m. = ⟪न�
 ... ⟪॥⟫  
 ⟪श्रुता⟫***⟪द्धि⟫*** ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫***⟪दात्मवत्ते⟫***⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
 ... ⟪॥⟫  
-⟪कामक्रोधलोभमानमदहर्षत्यागा⟫***⟪त्कार्यः⟫*** ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪कामक्रोधलोभमानमदहर्षत्यागा⟫***⟪त्कार्यः⟫*** ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
-Erklärung der im obigen Text rot hervorgehobenen Wörter: <!-- TODO: Fallback translation -->
+Erklärung der im obigen Text rot hervorgehobenen Wörter:
 
-1.5.1. ⟪तिस्रस्⟫ : Nom, Akk, fem. zu ⟪त्रि⟫ "drei" <!-- TODO: Fallback translation -->
+1.5.1. ⟪तिस्रस्⟫：名词，宾格，阴性，对应⟪त्रि⟫“三”
 
-1.5.2. ⟪प्राणभृताम्⟫ : Gen. pl. m. zu ⟪प्राणभृत्⟫ m. "Lebewesen" <!-- TODO: Fallback translation -->
+1.5.2. ⟪प्राणभृताम्⟫：属格复数阳性，对应 ⟪प्राणभृत्⟫ 阳性名词“生物”
 
-1.5.5.  ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "anderer" <!-- TODO: Fallback translation -->
+1.5.5. ⟪इतरम्⟫ 属格 单数 阳性 对应 ⟪इतर⟫ ⟪३⟫ “其他”
 
-1.5.7. ⟪कर्मा⟫ : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "Tat, Werk" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā zu upa-yuj 7 "sich aneignen": "er möge sich aneignen" <!-- TODO: Fallback translation -->
+1.5.7. ⟪कर्माकर्मन्⟫：中性单数主格“行为、作品”；⟪उपयुञ्जीत⟫：Ā词干第七变位动词 upa-yuj 的第三人称单数祈愿式：“愿他获得”
 
-1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Abl., Dat. pl. zu ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "Theoretiker und Praktiker" <!-- TODO: Fallback translation -->
+1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ 与格、复数，对应 ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) “理论与实务者”
 
-1.5.9. ⟪षोडश⟫ ⟪३⟫ : "sechzehnter" <!-- TODO: Fallback translation -->
+1.5.9. ⟪षोडश⟫ ⟪३⟫ ：“第十六”
 
-1.5.10. ⟪कर्म⟫ Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "Tat" <!-- TODO: Fallback translation -->
+1.5.10. ⟪कर्म⟫主格、宾格单数，对应⟪कर्मन्⟫中性名词“行为”
 
-1.5.16. ⟪धि⟫ Sandhiform zu ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "Selbstbesitz" <!-- TODO: Fallback translation -->
+1.5.16. ⟪धि⟫ Sandhi形式 至 ⟪हि⟫ ; ⟪आत्मवत्ता⟫ 阴性名词：“自我拥有”
 
-1.6.1. ⟪कार्य⟫ ⟪३⟫ "zu tuendes, was getan werden muss" <!-- TODO: Fallback translation -->
+1.6.1. ⟪कार्य⟫ ⟪३⟫ “应做之事，即必须做之事”

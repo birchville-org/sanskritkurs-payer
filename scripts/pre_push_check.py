@@ -50,9 +50,20 @@ PLACEHOLDER_PATTERNS = [
 ]
 
 # HTML-Tags die in Markdown nicht erlaubt sind (Zero-HTML Policy)
-HTML_TAG_RE = re.compile(
-    r'<(?!(?:br\s*/?>|!--|/!--|img\s|/img|a\s|/a|strong|/strong|span|/span|'
-    r'code|/code|em|/em|mark|/mark|sub|/sub|sup|/sup|s>|/s>|del|/del))[a-zA-Z/][^>]*>',
+# Erlaubte Inline-Tags (kein Fehler):
+_HTML_ALLOWED = frozenset([
+    'br', 'img', 'a', 'strong', 'span', 'code', 'em', 'mark', 'sub', 'sup',
+    's', 'del', '!--', '/!--',
+])
+# Bekannte Block-/Struktur-Tags die wir NICHT in .md haben wollen:
+_HTML_BLOCK_TAGS = re.compile(
+    r'<(?:/?)(?:'
+    r'div|p|table|thead|tbody|tr|th|td|ul|ol|li|dl|dt|dd|'
+    r'blockquote|pre|h[1-6]|section|article|aside|header|footer|nav|main|'
+    r'figure|figcaption|details|summary|form|input|button|select|option|'
+    r'iframe|script|style|link|meta|head|body|html|'
+    r'font|center|b|i|u|tt|strike'
+    r')(?:\s[^>]*)?>',
     re.IGNORECASE
 )
 
@@ -117,27 +128,72 @@ def check_yaml_frontmatter(files):
             errors.append((path, 'Frontmatter nicht geschlossen'))
             continue
         fm = content[4:end]
-        # Prüfe auf bekannte YAML-Probleme
+        
         for i, line in enumerate(fm.split('\n'), 1):
-            # Unquotete Strings die mit " beginnen
-            m = re.match(r'^(\w+):\s+"([^"]+)"\s+\S', line)
-            if m:
-                errors.append((path, f'Zeile {i}: YAML-Wert könnte Parser brechen: {line.strip()[:60]}'))
+            line_str = line.strip()
+            if not line_str or line_str.startswith('#'):
+                continue
+            if ':' not in line_str:
+                errors.append((path, f'Frontmatter Zeile {i}: Kein Doppelpunkt gefunden in: {line_str[:60]}'))
+                continue
+            
+            parts = line_str.split(':', 1)
+            key = parts[0].strip()
+            val = parts[1].strip()
+            
+            if not val:
+                continue
+            
+            # Fall A: Wert fängt mit " an
+            if val.startswith('"'):
+                if not val.endswith('"') or len(val) < 2:
+                    errors.append((path, f'Frontmatter Zeile {i} ({key}): Zitierter String (mit ") ist am Ende ungeschlossen oder fehlerhaft: {val[:60]}'))
+                    continue
+                inner = val[1:-1]
+                inner_escaped_clean = inner.replace('\\"', '')
+                if '"' in inner_escaped_clean:
+                    errors.append((path, f'Frontmatter Zeile {i} ({key}): Zitierter String enthält unmaskierte Anführungszeichen in der Mitte: {val[:60]}'))
+                    
+            # Fall B: Wert fängt mit ' an
+            elif val.startswith("'"):
+                if not val.endswith("'") or len(val) < 2:
+                    errors.append((path, f'Frontmatter Zeile {i} ({key}): Zitierter String (mit \') ist am Ende ungeschlossen oder fehlerhaft: {val[:60]}'))
+                    continue
+                inner = val[1:-1]
+                inner_escaped_clean = inner.replace("\\'", '')
+                if "'" in inner_escaped_clean:
+                    errors.append((path, f'Frontmatter Zeile {i} ({key}): Zitierter String enthält unmaskierte einfache Anführungszeichen in der Mitte: {val[:60]}'))
+                    
+            # Fall C: Unzitierter Wert
+            else:
+                if '"' in val or "'" in val:
+                    errors.append((path, f'Frontmatter Zeile {i} ({key}): Unzitierter Wert enthält Anführungszeichen. String sollte komplett in einfache Anführungszeichen \'...\' gesetzt werden: {val[:60]}'))
+                    continue
+                if ': ' in val:
+                    errors.append((path, f'Frontmatter Zeile {i} ({key}): Unzitierter Wert enthält ": ". String sollte komplett in einfache Anführungszeichen \'...\' gesetzt werden: {val[:60]}'))
+                    continue
+                if val[0] in ('{', '}', '[', ']', '|', '>', '#', '-', '&', '*', '?'):
+                    if val.startswith('[') and val.endswith(']'):
+                        continue
+                    errors.append((path, f'Frontmatter Zeile {i} ({key}): Unzitierter Wert beginnt mit YAML-Steuerzeichen "{val[0]}". String sollte komplett in einfache Anführungszeichen \'...\' gesetzt werden: {val[:60]}'))
+                    continue
     return errors
 
 def check_zero_html(files):
-    """Prüft auf rohes HTML (Zero-HTML-Policy)."""
+    """Prüft auf rohes HTML (Zero-HTML-Policy).
+    Matcht nur bekannte Block-/Struktur-HTML-Tags — keine linguistischen
+    Anmerkungen wie <person> oder <she, it>.
+    """
     errors = []
     for path in files:
         if 'lektionen' not in str(path):
             continue
         content = path.read_text(encoding='utf-8', errors='replace')
-        matches = HTML_TAG_RE.findall(content)
-        # Ignoriere HTML in deleteme-box (unsichtbar)
-        # Ignoriere &lt; / &gt; Entitäten
-        real = [m for m in matches if '&' not in m]
-        if real:
-            errors.append((path, f'{len(real)} HTML-Tag(s): {real[:3]}'))
+        matches = _HTML_BLOCK_TAGS.findall(content)
+        if matches:
+            # Nur die äußeren Matches für die Anzeige rekonstruieren
+            display = _HTML_BLOCK_TAGS.findall(content)
+            errors.append((path, f'{len(display)} HTML-Tag(s): {[f"<{t}>" for t in display[:3]]}'))
     return errors
 
 def check_placeholders(files):
@@ -299,6 +355,8 @@ def check_qa_viewer_dropdowns():
     for l in active_locales:
         if l == 'de':
             expected_values.add("lektionen/lektion01")
+        elif l == 'zhCN':
+            expected_values.add("zh-CN/lektionen/lektion01")
         elif l:
             expected_values.add(f"{l}/lektionen/lektion01")
 
@@ -330,6 +388,29 @@ def check_qa_viewer_dropdowns():
         errors.append(f"Inaktive/Überflüssige Sprachen im Dropdown: {extra}")
         
     return "\n     ".join(errors) if errors else None
+
+def check_container_syntax(files, fix=False):
+    """Prüft die Container-Syntax (::::) mithilfe von syntax_repair."""
+    # lazy import um zyklische imports zu vermeiden
+    sys.path.insert(0, str(ROOT / 'scripts'))
+    try:
+        import syntax_repair
+    except ImportError:
+        return [("syntax_repair.py", "Modul konnte nicht geladen werden.")]
+        
+    errors = []
+    for path in files:
+        if path.suffix != '.md':
+            continue
+        # Reparatur-Routine aufrufen
+        ct = syntax_repair.repair_containers(path, fix=fix)
+        if ct:
+            if fix:
+                errors.append((path, f"Automatisch repariert: {len(ct)} Container-Fehler"))
+            else:
+                # Nur eine Übersicht statt aller Details (sonst zu lang im Push-Log)
+                errors.append((path, f"Container-Syntax-Fehler ({len(ct)} ungeschlossene/falsche ::-Tags). Tipp: --fix"))
+    return errors
 
 # ── Hauptprogramm ──────────────────────────────────────────────────────────────
 
@@ -465,6 +546,18 @@ def main():
             total_errors += 1
     else:
         print("  ✓ OK — Dropdowns sind synchron und entsprechen allLocales")
+
+    # ── 5d. Container-Syntax (::: öffner/schließer) ─────────────────────────
+    print("\n[5d] Container-Syntax (::::) prüfen...")
+    errs = check_container_syntax(files, fix=fix_mode)
+    if errs:
+        for path, msg in errs:
+            icon = '✓' if fix_mode else '❌'
+            print(f"  {icon} {path.relative_to(ROOT)}: {msg}")
+        if not fix_mode:
+            total_errors += len(errs)
+    else:
+        print(f"  ✓ OK")
 
     # ── 8. Lizenzen (nur bei --scope=all oder wenn DE-Dateien im Diff) ───────
     de_files = [f for f in files if lang_from_path(f) == 'de']

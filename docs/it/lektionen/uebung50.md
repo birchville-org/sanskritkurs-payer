@@ -55,7 +55,7 @@ A) Per ripetere la declinazione: Il seguente verso contiene tutte le forme decli
 
 > Una famiglia in cui il marito è sempre soddisfatto della moglie e la moglie del marito, in una tale famiglia è certa la felicità costante.
 
-:::media
+::: media
 ![](/images/uebung081.webp)
 Fig.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫ ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫ ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫ ⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung081))
@@ -76,7 +76,7 @@ Fig.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्त
 
 > Ci si impegni sempre nello studio dei Veda e nei riti per gli dèi. Chi infatti si impegna nei riti per gli dèi, ottiene questo mondo fatto di viventi e non viventi. Il sacrificio, che viene getto correttamente nel fuoco, va al Sole, dal Sole nasce la pioggia, dalla pioggia nasce il cibo, da ciò gli esseri viventi.
 
-:::media
+::: media
 ![](/images/uebung082.webp)
 Fig.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫ ⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung082))

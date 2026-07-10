@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Lesson 34
+# Exercise 34
 
 A) Form the corresponding perfect tense forms in person, number, and genus verbi for the following verb forms:
 
@@ -42,7 +42,7 @@ A) Form the corresponding perfect tense forms in person, number, and genus verbi
 30.  ⟪कुप्यन्ति⟫ ⟪।⟫ ⟪चुकुपुर्⟫
 31.  ⟪इच्छन्ति⟫ ⟪।⟫ ⟪ईषुर्⟫
 
-Translate the following text from the ⟪पद्मपुराण⟫ regarding gifts to Brahmins:
+Translate the following text from the ⟪पद्मपुराण⟩ regarding gifts to Brahmins:
 
 > ⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजोत्तम⟫ ⟪।⟫  
 > ⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्राश्चतुर्दश⟫ ⟪॥१॥⟫  
@@ -55,22 +55,22 @@ Translate the following text from the ⟪पद्मपुराण⟫ regardin
 > ⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तम्⟫ ⟪महीतले⟫ ⟪।⟫  
 > ⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
 
-Best of the Twice-born! He who gives the earth with its crops to a Brahmin enjoys the world of Viṣṇu as long as fourteen Indras. Twice-born! The merit that one obtains who gives away the entire world with its seven continents, that merit does a mortal obtain who gives a cow to a Brahmin. He who gives gold to a Brahmin as small as a sesame seed, comes to the city of residence of Haris (Viṣṇu) together with 10 million families. Best of the Twice-born! A man who gives a girl along with jewelry (to a Brahmin), comes to the seat of Brahmās and has no more rebirth. Best of the Twice-born! He who has given food and water on the surface of the earth, has given all gifts, Bull among the Twice-born! 
+Best of the Twice-Born! He who gives the earth along with its crops to a Brahmin enjoys the world of Viṣṇu as long as fourteen Indras. Twice-Born! The merit that one who gives away the entire world with its seven continents acquires, that does a mortal who gives a cow to a Brahmin. He who gives gold to a Brahmin as small as a sesame seed comes to the city of residence of Haris (Viṣṇu) together with 10 million families. Best of the Twice-Born! A man who gives a girl along with jewelry (to a Brahmin) comes to the seat of Brahmā and has no more rebirth. Best of the Twice-Born! He who has given food and water on the surface of the earth has given all gifts, Bull among the Twice-Born! 
 
 Explanations:
 
-Vocative singular of masculines / neuters ending in -a ends in -a: e.g. ⟪देव⟫ "God!"
+Vocative singular of masculines/neuters ending in -a ends in -a: e.g. ⟪देव⟫ "God!"
 
 ⟪चतुर्दश⟫ fourteen
 
 ⟪सप्त⟫ seven
 
-⟪जन्म⟫ Nom./Acc. sg. of ⟪जन्मन्⟫ n. birth
+⟪जन्म⟫ Nom./Akk. sg. of ⟪जन्मन्⟫ n. birth
 
 ⟪सर्व⟫ 3 "all, whole" (declined according to pronominal declension)
 
-::::media
+::: media
 ![](/images/uebung057.jpg)
 Fig.: ⟪तिलप्रमाणम्⟫
-(Image source: [Details](/en/licenses#uebung057))
+(Image source: [Details](/licenses#uebung057))
 :::

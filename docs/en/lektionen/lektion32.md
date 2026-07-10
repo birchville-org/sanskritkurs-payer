@@ -1,5 +1,5 @@
 ---
-title: Lesson 32
+title: Lektion 32
 lesson_id: 32
 status: stable
 ---
@@ -8,143 +8,143 @@ status: stable
 
 ## 32.1. The Past Tenses
 
-::::grammar-box
-**In older Sanskrit literature and according to native grammarians, the three past tenses are clearly distinguished in their usage:**
+::: grammar-box
+**In older Sanskrit literature and among native grammarians, the three past tenses are clearly distinguished in their usage:**
 
-*   **The Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) denotes either simply the completion of an action or refers to events that occurred on the current day, i.e., the recent past.**
-*   **The Imperfect (⟪लङ्⟫) denotes events that occurred prior to the current day, i.e., the distant past.**
-*   **The Perfect (⟪लिट्⟫), like the Imperfect, denotes the distant past; however, in contrast to the Imperfect, it is used exclusively for events that the speaker themselves did not witness.**
+*   **the Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) denotes either simply the completion of an action or what happened on the current day, the near past**
+*   **the Imperfect (⟪लङ्⟫) denotes what happened before the current day, the distant past**
+*   **the Perfect (⟪लिट्⟫) denotes, like the Imperfect, the distant past, but is used, in contrast to the Imperfect, only for events that the speaker himself has not witnessed**
 
-**In classical Sanskrit literature, the three past tenses are used without semantic distinction (exception: Bhāravi’s poetic work ⟪किरातार्जुनीय⟫).**
-::::
+**In classical Sanskrit literature, the three past tenses are used without distinction of meaning (exception: ⟪भारवि⟫'s poetic work ⟪किरातार्जुनीय⟫).**
+:::
 ## 32.2. The Imperfect (⟪लङ्⟫)
 
-::::grammar-box
+::: grammar-box
 **Formation:**
 
 **Augment a- + Present stem + Secondary ending**
 
-**The three singular persons of the Parasmaipada Imperfect are formed from the strong present stem for athematic stems; all other forms are derived from the weak present stem.**
+**The three singular persons of the Parasmaipada Imperfect are formed from the strong present stem for athematic stems; all other forms are formed from the weak present stem.**
 
-**The Imperfect has only the indicative mood.**
-::::
+**The Imperfect has only the Indicative.**
+:::
 Examples:
 
-:::indent
-**⟪भू⟫** 3rd sg. Impf. P. **⟪अभवत्⟫** (a-bhava-t)
+::: indent
+**⟪भू⟫** 3. sg. Impf. P. **⟪अभवत्⟫** (a-bhava-t)
 
-**⟪सु⟫**
-*   3rd sg. Impf. P. **⟪असुनोत्⟫** (a-suno-t)
-*   3rd pl. Impf. P. **⟪असुन्वन्⟫** (a + sunu + an)
+⟪सु⟫
+*   3. sg. Impf. P. **⟪असुनोत्⟫** (a-suno-t)
+*   3. pl. Impf. P. **⟪असुन्वन्⟫** (a + sunu + an)
 :::
 ## 32.3. Rules for the Augment
 
-::::grammar-box
-**1. If the augment *a-* precedes a root beginning with a vowel, the augment and the initial vowel of the root fuse to form the *vṛddhi* grade of the root vowel.**
-::::
+::: grammar-box
+**1. If the augment a- precedes a root beginning with a vowel, the augment and the initial sound of the root merge to form the ⟪वृद्धि⟫ of the root vowel.**
+:::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
-| | 3. sg. Imperfect | 3. pl. Imperfect |
+| | 3. sg. Impf. | 3. pl. Impf. |
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
 | ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
-::::::::grammar-box
-**2. If preverbs precede a root, the augment *a-* follows the preverbs and immediately precedes the root.**
-::::
+:::
+::: grammar-box
+**2. If prepositions precede a root, the augment a- appears after the prepositions, immediately before the root.**
+:::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
-| | 3. sg. Imperfect |
+| | 3. sg. Impf. |
 | :--- | :--- |
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
-::::
+:::
 ## 32.4. Examples of Imperfect Formation
 
-:::
-important
-**To demonstrate the formation of forms, Ātmanepada forms are also generated for Parasmaipada roots here! These artificial forms are enclosed within &lt; &gt;.**
+::: important
+**To demonstrate the formation of forms, Ātmanepada forms are also created here for Parasmaipada roots! These artificial forms stand between \< \>.**
 :::
 ### 32.4.1. Thematic Present Classes
 
-::::grammar-box
+::: grammar-box
 
-| Present Class | Root:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Presentklasse | Root:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | &lt;⟪अभवत⟫&gt; | &lt;⟪अभवन्त⟫&gt; |
-| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | &lt;⟪अनृत्यत⟫&gt; | &lt;⟪अनृत्यन्त⟫&gt; |
-| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | &lt;⟪अविशत⟫&gt; | &lt;⟪अविशन्त⟫&gt; |
+| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \<⟪अभवत⟫\> | \<⟪अभवन्त⟫\> |
+| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \<⟪अनृत्यत⟫\> | \<⟪अनृत्यन्त⟫\> |
+| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \<⟪अविशत⟫\> | \<⟪अविशन्त⟫\> |
 | 10. / Caus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
 | Passive | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
-::::
-### 32.4.2. Atherematic Present Classes
+:::
+### 32.4.2. Athematic Present Classes
 
-::::grammar-box
+::: grammar-box
 
-| Present Class | Root:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Presentklasse | Root:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ > adveṣ > adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
-| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t > adogdh > adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
+| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ \> adveṣ \> adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
+| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t \> adogdh \> adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
 | 2. | ⟪इ⟫ | ⟪ऐत्⟫ | ⟪आयन्⟫ | | |
-| 2. | ⟪हन्⟫ | ⟪अहन्⟫:br(from *ahant) | ⟪अघ्नन्⟫ | | |
+| 2. | ⟪हन्⟫ | ⟪अहन्⟫:br(aus *ahant) | ⟪अघ्नन्⟫ | | |
 | 2. | ⟪स्तु⟫ | ⟪अस्तौत्⟫:br⟪अस्तवीत्⟫ | ⟪अस्तुवन्⟫ | ⟪अस्तुत⟫ | ⟪अस्तुवत⟫ |
 | 2. | ⟪अस्⟫ | ⟪आसीत्⟫ | ⟪आसन्⟫ | | |
 | 5. | ⟪सु⟫ | ⟪असुनोत्⟫ | ⟪असुन्वन्⟫ | ⟪असुनुत⟫ | ⟪असुन्वत⟫ |
-| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | &lt;⟪आप्नुत⟫&gt; | &lt;⟪आप्नुवत⟫&gt; |
+| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \<⟪आप्नुत⟫\> | \<⟪आप्नुवत⟫\> |
 | 8. | ⟪तन्⟫ | ⟪अतनोत्⟫ | ⟪अतन्वन्⟫ | ⟪अतनुत⟫ | ⟪अतन्वत⟫ |
 | 8. | ⟪कृ⟫ | ⟪अकरोत्⟫ | ⟪अकुर्वन्⟫ | ⟪अकुरुत⟫ | ⟪अकुर्वत⟫ |
-| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t > ayunakt > ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
-| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t > aruṇaddh > aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
+| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t \> ayunakt \> ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
+| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t \> aruṇaddh \> aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
-::::
+:::
 ## 32.5. Word List
 
 **⟪अग्र⟫ n.:** tip, extreme end
 
-**⟪मही⟫ f.:** earth, ground (lit.: the Great One)
+**⟪मही⟫ f.:** earth, ground and soil (lit.: the Great One)
 
-**⟪एकदा⟫**
+⟪एकदा⟫
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
-:::indent
+::: indent
 ⟪श्रमिष्यते⟫:br
 ⟪श्रम्यते⟫:br
 ⟪श्रमयति⟫:br
 ⟪श्रान्त⟫:br
 ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
 -⟪श्रम्य⟫:br
-⟪श्रितुम्⟫
+⟪श्रमितुम्⟫
 :::
-**⟪पार्श्व⟫**
+⟪पार्श्व⟫
 
-**⟪चूत⟫**
+⟪चूत⟫
 
-:::media
+::: media
 ![](/images/lekt3202.webp)
 Fig.: ⟪चूतः⟫
 Mango tree, Kanpur.
 (Image source: [Details](/en/licenses#lekt3202))
 :::
-**⟪तरु⟫** **⟪वृक्ष⟫**
+⟪तरु⟫ ⟪वृक्ष⟫
 
-**⟪पचेलिम⟫**
+⟪पचेलिम⟫
 
-**⟪स्पृहा⟫**
+⟪स्पृहा⟫
 
-**⟪परम्⟫**
+⟪परम्⟫
 
 **⟪रुह्⟫ ⟪रोहति⟫**
-:::indent
+::: indent
 ⟪रोक्ष्यति⟫:br
 ⟪रुह्यते⟫:br
 ⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
@@ -153,7 +153,7 @@ Mango tree, Kanpur.
 ⟪रोढुम्⟫
 :::
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
-:::indent
+::: indent
 ⟪ग्रहीष्यति⟫ (!):br
 ⟪गृह्यते⟫:br
 ⟪ग्राहयति⟫:br
@@ -163,42 +163,42 @@ Mango tree, Kanpur.
 :::
 **⟪वानर⟫ ⟪कपि⟫**
 
-:::media
+::: media
 ![](/images/lekt3203.webp)
 Fig.: ⟪वानराः⟫
 Monkeys (rhesus macaques) in Delhi.
 (Image source: [Details](/en/licenses#lekt3203))
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
-:::indent
+::: indent
 ⟪लोकयिष्यति⟫:br
 ⟪लोक्यते⟫:br
 ⟪लोकित⟫:br
 -⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
 :::
-**⟪प्रहर्ष⟫**
+⟪प्रहर्ष⟫
 
-**⟪कति⟫**
+⟪कति⟫
 
-**⟪उपल⟫**
+⟪उपल⟫
 
-:::media
+::: media
 ![](/images/lekt3204.webp)
 Fig.: ⟪उपलाः⟫
 Stone quarry south of Pune, Maharashtra.
 (Image source: [Details](/en/licenses#lekt3204))
 :::
-**⟪लक्ष्य⟫**
+⟪लक्ष्य⟫
 
-:::media
+::: media
 ![](/images/lekt3205.webp)
 Fig.: ⟪लक्ष्यम्⟫
 Target practice / arrow target, Karnataka.
 (Image source: [Details](/en/licenses#lekt3205))
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
-:::indent
+::: indent
 ⟪क्षेप्स्यति⟫:br
 ⟪क्षिप्यते⟫:br
 ⟪क्षेपयति⟫:br
@@ -207,28 +207,29 @@ Target practice / arrow target, Karnataka.
 ⟪क्षेप्तुम्⟫
 :::
 **⟪चि⟫ ⟪चिनोति⟫**
-:::indent
+::: indent
 ⟪चेष्यति⟫:br
 ⟪चीयते⟫:br
 ⟪चाययति⟫:br
 ⟪चित⟫:br
 -⟪चित्य⟫:br
 ⟪चेतुम्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3207.webp)
 Fig.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
-Burning cow dung patties in Rajasthan.
+Burning cowdung patties in Rajasthan.
 (Image source: [Details](/en/licenses#lekt3207))
 :::
 **⟪चि⟫ ⟪अव⟫**
 
-**⟪प्रति⟫**
+⟪प्रति⟫
 
-**⟪अहो⟫**
+⟪अहो⟫
 
 **⟪कौशल⟫ ⟪कुशल⟫**
 
-:::media
+::: media
 ![](/images/lekt3206.webp)
 Fig.: ⟪कौशलम्⟫
 Mehndi painting on hands in Mumbai.
@@ -236,9 +237,9 @@ Mehndi painting on hands in Mumbai.
 :::
 ## 32.6. Exercise
 
-A) Identify the following verb forms and form the corresponding imperfect forms with respect to person, number, and verbal gender (genus verbi):
+A) Determine the following verb forms and form the corresponding imperfect forms in person, number, and genus verbum:
 
-1. ⟪हरिष्यन्ते⟫
+1. ⟪हरि्ष्यन्ते⟫
 2. ⟪घातयति⟫
 3. ⟪विहन्ति⟫
 4. ⟪घ्नन्ति⟫
@@ -326,17 +327,17 @@ B) Translate and resolve the compounds in Sanskrit:
 
 ⟪बुद्धपुत्राः⟫ ⟪सत्यमाजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫
 
-:::media
+::: media
 ![](/images/lekt3208.webp)
 Fig.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
 Buddhist monk in Sri Lanka.
 (Image source: [Details](/en/licenses#lekt3208))
 :::
-## 32.7. Review Exercise for the Christmas Holidays
+## 32.7. Review Exercise over the Christmas Holidays
 
-Note: Originally, this was taught at the University of Tübingen in each winter semester. The two-week Christmas holidays began with Lesson 32.
+Note: originally this was held at the University of Tübingen each in the winter semester. With Lesson 32, the two-week Christmas holidays began.
 
-A) Identify and translate the following words:
+A) Determine and translate the following words:
 
 1. ⟪देवस्य⟫
 2. ⟪उषितायाः⟫
@@ -423,7 +424,7 @@ A) Identify and translate the following words:
 83. ⟪अध्यापयति⟫
 84. ⟪वाचयन्ति⟫
 
-B) Sandhi Exercise: Insert the words in parentheses into the following sentences. Pay particular attention to the Sandhi:
+B) Exercise on Sandhi: Insert the words in the following sentences from the parentheses. Pay special attention to the Sandhi:
 
 ⟪१⟫. ⟪रामो⟫ ⟪ग्रामात्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪लोकेश्वरनगर⟫ ⟪।⟫ ⟪कविगृह⟫ )
 
@@ -445,37 +446,37 @@ B) Sandhi Exercise: Insert the words in parentheses into the following sentences
 
 C) Translate into Sanskrit:
 
-1. After the son is born, the Brahmin woman sends a servant to the Brahmin. The Brahmin has this servant enter the house and then asks about the son. The servant says that the son is well. Upon hearing this, the Brahmin becomes happy.
+1. After the son is born, the Brahmin woman sends a servant to the Brahmin. The Brahmin has this servant enter the house and then asks about the son. The servant says that the son is well. When he has heard this, the Brahmin becomes happy.
 
-2. The holy one has endured the evil done (to him).
+2. The holy man has endured the evil done (to him).
 
 3. Morality is the ornament of man.
 
-4. The mighty warriors have gone to the Brahmin village.
+4. The powerful warriors have gone to the Brahmin village.
 
 5. The girl is weeping.
 
-6. There is no disease equal to sensuality, no enemy equal to confusion, no fire equal to anger, no happiness equal to knowledge.
+6. There is no disease equal to lust, there is no enemy like confusion, there is no fire like anger, there is no happiness like knowledge.
 
 7. A man protected by the goddess is happy.
 
-8. With whatever wind a cloud releases water (⟪वारि⟫ n.), with that wind a scholar moves his umbrella.
+8. With whatever wind a cloud lets water (⟪वारि⟩ n.) fall, with that wind a scholar moves his umbrella.
 
-9. There are no fruitful activities pertaining to castes, life stages, etc.
+9. There are no fruitful activities of castes, stages of life, etc.
 
 10. The cycle of rebirths has no beginning.
 
-11. It is time to attend to eating.
+11. It is time to devote oneself to eating.
 
-12. Welcome the Queen.
+12. Welcome the queen.
 
-13. For heaven’s sake, people perform meritorious deeds.
+13. For the sake of heaven, people do meritorious deeds.
 
-14. A man who falsely pronounces a judgment out of arrogance, greed, anger, or fear goes to hell.
+14. A man who falsely pronounces a judgment out of arrogance, greed, anger, or fear goes to a hell.
 
-15. Rāma, by the teacher’s instruction, left the village for the town, entered the holy man’s house, stood respectfully before the sage, and spoke: “Abandon anger!”
+15. Rāma went from the village to the city by the teacher's instruction, entered the house of the holy man, stood respectfully before the holy man, and says: "Abandon anger!"
 
-16. Always (let his) association with those who have grown in the sciences be such that his education/good conduct may flourish. (This) because education/good conduct has (this association) as its root.
+16. Always (be) his connection with those who have grown in the sciences, so that his education/good conduct may grow. (This) because education/good conduct has this (the connection with such) as its root.
 
 17. While the teacher stands, the boy must not sit.
 
@@ -485,71 +486,71 @@ C) Translate into Sanskrit:
 
 20. Govinda has Devadatta cook rice.
 
-21. The Dharma of the Āryas is that young Brāhmaṇas repeatedly study the sections of the Veda and the Smṛti.
+21. The Dharma of the Āryas is that young Brahmins repeatedly study the sections of the Veda and the Smṛti.
 
-22. The teacher taught the boys the Veda and then went home.
+22. The teacher taught the boys the Veda and then went into the house.
 
-23. Which amulet protected the girl?
+23. Which amulet has protected the girl?
 
 24. Truth is the lamp of the world.
 
-25. To whom do these houses belong?
+25. Whom do these houses belong to?
 
-26. The Dharma of all is: non-injury, truth, purity, absence of envy, absence of malice, and patience.
+26. Dharma of all: non-injury, truth, purity, freedom from envy, non-maliciousness, and patience.
 
 27. The Kṣatriyas, who have defeated the enemies, sit in the house.
 
-28. She is a (true) wife who speaks love; he is a (true) son who lives. He lives who possesses good qualities; he lives who possesses Dharma.
+28. She is a (real) wife who speaks love; but he is a (real) son who lives. He lives who possesses good qualities; he lives who possesses Dharma.
 
-29. The lord of the gods defeats the non-Āryas, the enemies of Indra. (Passive)
+29. The lord of gods defeats the non-Aryans, who are the enemies of Indra. (Passive)
 
-30. The Yoga of action consists of asceticism (tapas n.), (Veda) recitation, and service to the LORD. It serves the unfolding of meditative absorption and the weakening of kleśas.
+30. Yoga of action is asceticism (tapas n.), (Veda) recitation, servitude towards the LORD. He serves the unfolding of meditative absorption and the weakening of kleśas.
 
-31. Eating, sleeping, fear, and mating: this is a commonality of humans with animals. In Dharma, indeed, lies their additional distinction. Abandoned by Dharma, they are equal to animals (Instrumental).
+31. Food intake, sleep, fear, and mating: this is a commonality of humans with animals. In Dharma (lies) namely their added particularity. Abandoned by Dharma, they are equal to animals (Instr.).
 
 32. People are born to die.
 
-33. Hells exist because of evil. Evil has poverty as its origin. Poverty arises from not giving.
+33. Hells are because of evil. Evil has poverty as its origin. Poverty arises through non-giving.
 
-34. It is the Dharma of the Kṣatriyas that the Kṣatriyas protect the people from enemies.
+34. It is Dharma of the Kṣatriyas that the Kṣatriyas protect the people from the enemies.
 
-35. Therefore, the three (tisras) sciences have governance as their root. Governance, which has education/good conduct as its root, brings benefit and secure possession to living beings (⟪प्राणभृत्⟫).
+35. Therefore, the three (tisras) sciences have government as their root. Government, which has education/good conduct as its root, brings benefit and secure possession to living beings (⟪प्राणभृत्⟫).
 
-36. Evil people do not listen when the teacher speaks about Dharma.
+36. Evil people do not listen (when) the teacher speaks about Dharma.
 
 37. Homage to this Rāma!
 
-38. The exalted Hari is my path/goal, who sent his enemies to heaven, let his followers know the meaning of the Veda, gave the gods immortality-food to eat, taught the Veda to the creator (⟪विधि⟫), and established the earth in water.
+38. The exalted Hari is my path/goal, who sent his enemies to a heaven, let his followers know the meaning of the Veda, gave the gods immortality-food to eat, taught the Veda to the creator (⟪विधि⟫), set the earth firmly in water.
 
 39. Viṣṇu shows himself to his devotees.
 
-40. A governance that is not exercised brings about the norm of fish.
+40. A government that is not exercised causes the norm of fish.
 
-41. Whoever possesses wealth has friends; whoever possesses wealth has relatives; whoever possesses wealth is a man (⟪पुमान्⟫, nominative singular) in the world; indeed, whoever possesses wealth is a scholar.
+41. He who possesses wealth has friends; he who possesses wealth has relatives; he who possesses wealth is a man (⟪पुमान्⟫ Nom. sq.) in the world; he who possesses wealth is indeed a scholar.
 
-42. The fire that burns the deceased also burns the good widow.
+42. The fire, which burns the deceased, also burns the good widow.
 
-43. The Brahmin’s servant has cooked the food and now eats it.
+43. The servant of the Brahmin has cooked the food and eats it (now).
 
-44. Enough now!
+44. That's enough now!
 
-45. This fruit suffices for him as food.
+45. This fruit is sufficient for him to eat.
 
-46. The innermost shrine of the temple is a house for the image of the deity.
+46. The innermost temple shrine is a house for the image of the god.
 
-47. A thief is absolved of theft either through punishment or through release. However, if the king (⟪राजा⟫, nominative singular) does not punish (the thief), he incurs the sin of the thief.
+47. A thief is freed from theft by punishment or by release. But if the king (⟪राजा⟫ Nom. sg.) does not punish (the thief), he receives the guilt of the thief.
 
-48. Because he committed an error during the sacrifice, the Brahmin is unworthy to receive wealth.
+48. Because he made a mistake in the sacrifice, the Brahmin is not worthy to receive wealth.
 
-49. After the initiation ceremony has taken place, he should acquire the Veda and philosophy from scholars and economics from department heads (⟪उपयुज्⟫).
+49. If the initiation ceremony has taken place, he should acquire the Veda and philosophy from scholars, economics from department heads (⟪उपयुज्⟫).
 
-50. Vaiśyadharma is that the Vaiśyas live by buying and selling. Since this is the case, the sons of Vaiśyas engage in buying and selling.
+50. Vaiśyadharma is that the Vaiśyas live by buying and selling. Since it is so, the Vaiśya sons buy and sell.
 
 51. One should speak the truth; one should speak what is pleasant. One should not speak an unpleasant truth, nor should one speak an unpleasant untruth. This is the eternal Dharma.
 
-52. Farewell!
+52. Goodbye!
 
-:::media
+::: media
 ![](/images/lekt3209.webp)
 Fig.: ⟪पुनर्दर्शनाय⟫
 Indian greeting / farewell.
@@ -557,7 +558,7 @@ Indian greeting / farewell.
 :::
 ## 32.8. Review Exercise
 
-Translate and analyze the following word forms:
+Translate and determine the following word forms:
 
 1. ⟪अदुग्ध⟫
 2. ⟪स्युः⟫
@@ -602,9 +603,8 @@ Translate and analyze the following word forms:
 
 ## 32.9. Translation Exercise
 
-:::
-compact
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫**⟪न्पथि⟫** ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
+::: compact
+⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
 ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫:br
@@ -612,28 +612,30 @@ compact
 ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫:br
 ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫:br
 ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫:br
-⟪स⟫ ⟪कतिचिदुपला⟫**⟪नादाय⟫** ⟪वानरां⟫**⟪ल्लक्ष्यीकृत्य⟫** ⟪प्राक्षिपत्⟫ ⟪।⟫:br
+⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫:br
 ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫:br
-⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫**⟪दाय⟫** ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
+⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 :::
 (from: ⟪संस्कृतबालादर्श⟫)
 
 Explanations:
 
-:::indent
+::: indent
 **⟪पथि⟫** Loc. sg. of **⟪पथ्⟫ m.** "path" (irregular declension)
 
-**⟪लक्ष्यीकृ⟫** Chvi-suffix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : to make something a ⟪लक्ष्य⟫ (target/object of aim) that was not previously a ⟪लक्ष्य⟫
+**⟪लक्ष्यीकृ⟫** ⟪च्विऽ⟫-suffix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : to make something into a ⟪लक्ष्य⟫, which was previously not ⟪लक्ष्य⟫
 
-**⟪आदाय⟫** Absolutive of **⟪आ⟫-⟪दा⟫** (3rd Present Class) "to take"
-::::::media
+**⟪आदाय⟫** Absolutive of **⟪आ⟫-⟪दा⟫** (3rd present class) "to take"
+:::
+::: media
 ![](/images/lekt3210.webp)
 Fig.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Monkeys in mango trees.
 (Image source: [Details](/en/licenses#lekt3210))
-::::::deleteme-box
+:::
 
+::: deleteme-box
 
 **lekt3202:** Mango tree, Kanpur. [Image source: AmarChandra / Wikipedia. CC BY-SA]
 
@@ -643,7 +645,7 @@ Monkeys in mango trees.
 
 **lekt3205:** Target practice / arrow target, Karnataka. [Image source: mattlogelin / Flickr. CC BY-NC]
 
-**lekt3207:** Burning cow dung patties in Rajasthan. [Image source: thebigdurian / Flickr. CC BY-NC-SA]
+**lekt3207:** Burning cowdung patties in Rajasthan. [Image source: thebigdurian / Flickr. CC BY-NC-SA]
 
 **lekt3206:** Mehndi painting on hands in Mumbai. [Image source: the_gman / Flickr. CC BY-NC-SA]
 
@@ -653,3 +655,4 @@ Monkeys in mango trees.
 
 **lekt3210:** Monkeys in mango trees. [Image source: Wikipedia. GNU FDL]
 :::
+

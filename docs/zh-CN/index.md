@@ -22,8 +22,7 @@ features:
     details: 基于VitePress构建，实现极致速度。
 ---
 
-:::
-tip 版本 1.4 — 离线优先 PWA
+::: tip 版本 1.4 — 离线优先 PWA
 **v1.4（2026年6月）新增功能：**
 
 - **渐进式 Web 应用 (PWA)：** 现在可以将课程作为应用程序安装在桌面和智能手机（iOS/Android）上。

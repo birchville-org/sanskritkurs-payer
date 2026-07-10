@@ -4,7 +4,7 @@
 
 [First rule see in [Writing Exercise 8](schrift08.md)]
 
-If the first of the consonants to be combined does not end with a vertical stroke, then the following consonant is placed under the first consonant with loss of its horizontal stroke.
+If the first of the consonants to be combined does not end with a vertical stroke, then the following consonant is placed under the first consonant, losing its horizontal stroke.
 
 Exceptions: If ⟪म्⟫ or ⟪य्⟫ is the second member of the ligature, they are written shortened after the first character:
 
@@ -26,9 +26,9 @@ Examples (exceptions are underlined):
 
 ### Exercise
 
-Write out all the ligatures listed above
+Write all the ligatures listed above
 
-### List of the most common ligatures in the typeface of Kielhorn's Grammar
+### List of the most common ligatures in the script type of Kielhorn's Grammar
 
 ![](/images/schrift023.jpg)
 

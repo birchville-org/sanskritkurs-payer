@@ -1,14 +1,14 @@
 ---
-title: Leçon 35
+title: Lektion 35
 lesson_id: 35
 status: stable
 ---
 
-# Leçon 35
+# Lektion 35
 
-## 35.1. Type de parfait III : Radical fort, grade renforcé/grade allongé
+## 35.1. Type de parfait III : Radical fort avec grade fort/allongé
 
-:::grammar-box
+::: grammar-box
 **Formation :**
 
 **radical fort :**
@@ -18,28 +18,26 @@ status: stable
 
 **radical faible :** voir les sous-types
 :::
-### 35.1.1. Type de parfait IIIa : Radical fort en grade fort/long, radical faible en grade réduit
+### 35.1.1. Type de parfait IIIa : Radical fort en niveau fort/élongé, radical faible en niveau faible
 
-::::grammar-box
+::: grammar-box
 **Formation :**
 
-:::indent
-**radical faible :** grade réduit
 :::
-Est formé à partir des racines des types :
-*   (Consonne)-(Consonne) - i/ī/u/ū
-*   (Consonne) - ṛ
+::: indent
+**radical fort :**
+:::
+3.sg.P : grade renforcé
+*   2.sg.P : grade fort
+*   1.sg.P : grade fort ou grade renforcé, au choix
 
-Devant une terminaison commençant par une voyelle, on remplace :
+**radical faible :** voir les sous-types
 *   -i/-ī par -iy
 *   -u/-ū par -uv
 *   -ṛ durch r
-::::
 Exemples :
 
-::::grammar-box
-
-| Racine | 3. sg. Parfait P. | 3. pl. Parfait P. | 3. sg. Parfait Ā. | 3. pl. Parfait Ā. |
+| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इयाय⟫:briy-ai + a | ⟪ईयुर्⟫:bri + iy + ur | | |
 | ⟪नी⟫ 1U | ⟪निनाय⟫ | ⟪निन्युर्⟫:brni-nī + ur | ⟪निन्ये⟫ | ⟪निन्यिरे⟫ |
@@ -47,33 +45,29 @@ Exemples :
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-::::
-### 35.1.2. Type IIIb du parfait : radical fort en grade élevé/long, radical faible en grade élevé
+### 35.1.2. Type de parfait IIIb : Radical fort en degré élevé/étendu, radical faible en degré élevé
 
-::::grammar-box
+::: grammar-box
 **Formation :**
 
-:::indent
-**radical faible :** grade élevé
 :::
-Est formé à partir des racines des types :
-*   (Consonne)-(Consonne)-ṝ
-*   Consonne-Consonne-ṛ (c.-à-d. racines se terminant par -ṛ, lorsque plusieurs consonnes les précèdent)
-::::
-Exemples :
+::: indent
+**radical fort :**
+:::
+3.sg.P : grade renforcé
+*   2.sg.P : grade fort
+*   1.sg.P : grade fort ou grade renforcé, au choix
+**radical faible :** voir les sous-types
 
-::::grammar-box
-
-| Racine | 3. sg. Parf. P. | 3. pl. Parf. P. | 3. sg. Parf. Ā. | 3. pl. Parf. Ā. |
+| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पॄ⟫ 3P | ⟪पपार⟫ | ⟪पपरुर्⟫ | | |
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-::::
 ## 35.2. Type IV du parfait : racines en -ā / -āi
 
-:::grammar-box
+::: grammar-box
 **Formation :**
 
 **thème fort :**
@@ -88,16 +82,13 @@ Formé à partir de racines en -ā / -āi
 :::
 Exemple :
 
-::::grammar-box
-
 | Racine | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-::::
-## 35.3. Type de parfait : Racines Consonne-a-Consonne
+## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
 
-:::grammar-box
+::: grammar-box
 **Formation :**
 
 **thème fort :**
@@ -109,84 +100,76 @@ Exemple :
 
 Se forme à partir de racines de type (Consonne)-Consonne-a-Consonne
 :::
-### 35.3.1. Type de parfait Va : radical faible, degré profond
+### 35.3.1. Type de parfait Va : radical faible degré profond
 
-::::grammar-box
+::: grammar-box
 **Formation :**
 
-:::indent
-**radical faible :** degré profond
 :::
-Est formé, entre autres, à partir des racines :
+::: indent
+**thème fort :**
+:::
+3.sg.P : Stade allongé
 *   ⟪गम्⟫
 *   ⟪हन्⟫
 *   ⟪जन्⟫
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-::::
 Exemples :
 
-::::grammar-box
-
-| Racine | 3. sg. Parf. P. | 3. pl. Parf. P. | 3. sg. Parf. Ā. | 3. pl. Parf. Ā. |
+| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
-| ⟪हन्⟫ 2P | ***⟪जघान⟫***:brja-**ghān**-a | ***⟪जघ्नुर्⟫*** | | |
+| ⟪हन्⟫ 2P | sig[⟪जघान⟫] :brja-**ghān**-a | *⟪जघ्नुर्⟫* | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | &lt;⟪ऊदे⟫&gt; | &lt;⟪ऊदिरे⟫&gt; |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-::::
 ### 35.3.2. Type Vb de parfait : radical faible, contraction (type e)
 
-::::grammar-box
+::: grammar-box
 **Formation :**
 
-:::indent
-**radical faible :** aucune reduplication. Remplacement du -a- de la racine par -e-  
+:::
+::: indent
+**racine faible :** aucune reduplication. Remplacement du -a- de la racine par -e-
 (pour l'explication, voir Thumb-Hauschild 1,2 p. 286s.)
 :::
-Est formé à partir de racines contenant un -a- entre deux consonnes simples, dont la consonne initiale de la syllabe de reduplication n'est pas modifiée (c'est-à-dire que la consonne initiale de la racine n'est ni un guttural, ni un aspiré, ni un h).
-::::
+Est formé à partir de racines avec -a- entre deux consonnes simples, dont la consonne initiale dans la syllabe de reduplication n'est pas modifiée (c'est-à-dire dont la consonne initiale n'est pas un guttural, un aspiré ou h).
+**thème fort :**
 Exemple :
 
-::::grammar-box
-
-| Racine | 3. sg. Parf. P. | 3. pl. Parf. P. | 3. sg. Parf. Ā. | 3. pl. Parf. Ā. |
+| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | ***⟪पे⟫***⟪चुर्⟫ | ***⟪पे⟫***⟪चे⟫ | ***⟪पे⟫***⟪चिरे⟫ |
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *⟪पे⟫*⟪चुर्⟫ | *⟪पे⟫*⟪चे⟫ | *⟪पे⟫*⟪चिरे⟫ |
 
-::::
-### 35.3.3. Type Vc du parfait : racines à structure Consonne-a-Consonne. Radical faible au degré fort
+### 35.3.3. Type de parfait Vc : Racines Consonne-a-Consonne. Forme faible au degré plein
 
-:::grammar-box
+::: grammar-box
 **Formation :**
 
-**radical faible :** degré fort
+**thème fort :**
 
-Est formé à partir de toutes les autres racines contenant un -a- médian, c'est-à-dire des racines à -a- médian
-*   qui commencent par deux consonnes
-*   qui commencent par une gutturale
-*   qui commencent par une aspirée
-*   qui commencent par h
+3.sg.P : Stade allongé
+*   2.sg.P : Stade élevé
+*   1.sg.P : Stade élevé ou allongé, au choix
+*   **thème faible :** voir sous-types
+*   Se forme à partir de racines de type (Consonne)-Consonne-a-Consonne
 
-à condition qu'elles n'appartiennent pas au Type Va du parfait.
+si elles ne font pas partie du type de parfait Va.
 :::
 Exemple :
 
-::::grammar-box
-
-| Racine | 3. sg. Parf. P. | 3. pl. Parf. P. | 3. sg. Parf. Ā. | 3. pl. Parf. Ā. |
+| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-::::
-## 35.4. Liste de mots
+## 35.4. Wortliste
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : périr, se perdre, disparaître
-:::indent
+::: indent
 **Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**:br
 **Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
 **Kaus. ⟪नाशयति⟫**:br
@@ -195,7 +178,7 @@ Exemple :
 **⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : disparaître, se perdre, périr
 
 **⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : avancer, aller
-:::indent
+::: indent
 **Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
 **Fut. ⟪क्रमिष्यति⟫**:br
 **Pass. ⟪क्रम्यते⟫**:br
@@ -203,14 +186,15 @@ Exemple :
 **PPP ***⟪क्रा⟫***⟪न्त⟫**:br
 **Inf. ⟪क्रमितुम्⟫**:br
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
-::::::media
+:::
+::: media
 ![](/images/lekt3502.webp)
 Fig. : ⟪क्रामन्ति⟫
 Personnes marchant, Sénégal.
 (Source de l'image : [Détails](/fr/licenses#lekt3502))
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti) : chanter, réciter sur un ton chantant, annoncer en vers
-:::indent
+::: indent
 **IV Perf. ⟪जगौ⟫, ⟪जगुर्⟫**:br
 **Fut. ⟪गास्यति⟫**:br
 **Pass. ⟪गीयते⟫**:br
@@ -220,13 +204,14 @@ Personnes marchant, Sénégal.
 
 dont :
 **⟪गीता⟫ f.** : chant, hymne
-::::::media
+:::
+::: media
 ![](/images/lekt3501.webp)
 Fig. : ⟪जगुः⟫
 Musiciens du temple Kaadu Malleswara Temple Bangalore.
 (Source de l'image : [Détails](/fr/licenses#lekt3501))
 :::
-## 35.5. Exercice
+## 35.5. Übung
 
 A) Formez les formes de parfait correspondantes aux formes verbales suivantes :
 
@@ -259,12 +244,13 @@ A) Formez les formes de parfait correspondantes aux formes verbales suivantes :
 27. ⟪अक्रामन्⟫
 28. ⟪अशृण्वन्⟫
 29. ⟪मिमति⟫  
-    :::media
-    ![](/images/lekt3503.webp)
+::: media
+![](/images/lekt3503.webp)
     Fig. : ⟪मिमति⟫
     Marché à Vadaseri, Tamil Nadu.
     (Source de l'image : [Détails](/fr/licenses#lekt3503))
-    :::30. ⟪अपद्यत⟫
+:::
+30. ⟪अपद्यत⟫
 31. ⟪सुनोति⟫
 32. ⟪अतिष्ठत्⟫
 33. ⟪पतिष्यन्ति⟫
@@ -285,7 +271,7 @@ B) Traduisez :
 
 ⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt3504.webp)
 Fig. : ... ⟪ब्राह्मणाश्चेजुः⟫
 Yajña ceremony, Shiva ashram, Ganeshpuri.
@@ -293,15 +279,15 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 :::
 ⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 
-C) Transformez les phrases de l'exercice B) en remplaçant les imparfaits par des imparfaits.
-
-:::deleteme-box
-
 **lekt3501 :** Musiciens du temple Kaadu Malleswara Temple Bangalore. [Source de l'image : Samuelraj / Flickr. CC BY-NC]
+
+::: deleteme-box
 
 **lekt3502 :** Personnes marchant, Sénégal. [Source de l'image : Curt Carnemark / Banque mondiale. CC BY-NC-ND]
 
 **lekt3503 :** Marché à Vadaseri, Tamil Nadu. [Source de l'image : kifo / Flickr. CC BY-SA]
 
 **lekt3504 :** Cérémonie Yajña, ashram Shiva, Ganeshpuri. [Source de l'image : Dey / Flickr. CC BY-NC-SA]
+
+**lekt3504:** Cérémonie du Yajña, ashram de Shiva, Ganeshpuri. [Source de l'image : Dey / Flickr. CC BY-NC-SA]
 :::

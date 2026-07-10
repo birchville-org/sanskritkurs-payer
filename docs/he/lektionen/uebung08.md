@@ -138,7 +138,7 @@ devāḥ kiṃ lubhyanti?
 kiṃ kāraṇam?
 
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
-:::media
+::: media
 ![](/images/uebung007.webp)
 תמונה: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (מקור התמונה: [פרטים](/licenses#uebung007))
@@ -192,7 +192,7 @@ Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 הילד מוביל את הפיל.
 
-16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ שם עצם Vimalā)
+16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟩ שם עצם Vimalā)
 Vimalā ist traurig.
 
 17\. ⟪शुकः⟫ ⟪पतति⟫ |
@@ -201,7 +201,7 @@ Vimalā ist traurig.
 18\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
 הילד כותב מכתב.
 
-:::media
+::: media
 ![](/images/uebung008.webp)
 תמונה: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (מקור התמונה: [פרטים](/licenses#uebung008))

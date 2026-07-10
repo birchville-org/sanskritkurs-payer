@@ -11,7 +11,7 @@ status: stable
 
 ## 55.1. Aoristul cu tema vocală a (Aoristul cu vocala de temă)
 
-:::grammar-box
+::: grammar-box
 **Aoristul cu tema vocală a se formează ca un imperfect (⟪लङ्⟫) al celei de-a șasea clase de prezente (⟪तुदादि⟫), adică:**
 
 **Augment + rădăcină la gradul redus + a + terminație secundară**
@@ -28,7 +28,7 @@ Exemplu:
 
 ⟪सिच्⟫ 6U "a stropi"
 
-:::indent
+::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -38,7 +38,7 @@ Exemplu:
 :::
 Formări neregulate:
 
-:::indent
+::: indent
 ⟪अस्⟫ 4P "a arunca": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (Explicație vezi Thumb-Hauschild §541,4)
 
 ⟪ख्या⟫ + ⟪आ⟫ 2P "a povesti": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
@@ -47,7 +47,7 @@ Formări neregulate:
 :::
 Observați:
 
-:::indent
+::: indent
 ⟪शास्⟫ 2P "a porunci": ⟪अशिषत्⟫ (gradul redus regulat!)
 :::
 ## 55.2. Exercițiu
@@ -87,12 +87,13 @@ Determinați și traduceți scris următoarele forme și formați formele coresp
 31.  ⟪अशुष्याम⟫
 32.  ⟪सिष्णेह⟫
 
-:::media
+::: media
 ![](/images/lekt5501.webp)
 Fig.: ⟪अजीर्यमिति⟫
 'Inâyat Khân pe patul de moarte, schiță pentru o miniatură a unui manuscris pentru Jahângîr = جهانگير, circa 1618
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5501))
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt5501:** 'Inâyat Khân pe patul de moarte, schiță pentru o miniatură a unui manuscris pentru Jahângîr = جهانگير, circa 1618 [Sursa imaginii: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Accesat la 2009-01-28. Domeniu public]
 

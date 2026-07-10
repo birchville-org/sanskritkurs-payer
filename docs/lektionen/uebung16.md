@@ -76,7 +76,7 @@ Die starken Krieger sind ins Brahmanendorf gegangen.
 ⟪पुन्यवतो⟫ ⟪वैश्यस्येष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजां⟫ ⟪करोति⟫ ⟪।⟫
 Er verehrt die persönliche Gottheit des verdienstvollen Vaiśya.
 
-:::media
+::: media
 ![](/images/uebung023.webp)
 Abb.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Bildquelle: [Details](/licenses#uebung023))
@@ -87,8 +87,8 @@ Abb.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर
 
 A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele für die bisher gelernten Deklinationsklassen.
 
-:::grammar-box
-⟪१⟫. **⟪नर⟫** (m.)
+::: grammar-box
+⟪१⟫. ⟪नर⟫ (m.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -97,7 +97,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 | 3. Instr. | ⟪नरेण⟫ | ⟪नरैस्⟫ (⟪नरैः⟫) |
 | 6. Gen. | ⟪नरस्य⟫ | ⟪नराणाम्⟫ |
 
-⟪२⟫. **⟪फल⟫** (n.)
+⟪२⟫. ⟪फल⟫ (n.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -106,7 +106,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 | 3. Instr. | ⟪फलेन⟫ | ⟪फलैस्⟫ (⟪फलैः⟫) |
 | 6. Gen. | ⟪फलस्य⟫ | ⟪फलानाम्⟫ |
 
-⟪३⟫. **⟪क्षत्रिया⟫** (f.)
+⟪३⟫. ⟪क्षत्रिया⟫ (f.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -115,7 +115,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 | 3. Instr. | ⟪क्षत्रियया⟫ | ⟪क्षत्रियाभिस्⟫ (⟪क्षत्रियाभिः⟫) |
 | 6. Gen. | ⟪क्षत्रियायास्⟫ (⟪क्षत्रियायाः⟫) | ⟪क्षत्रियाणाम्⟫ |
 
-⟪४⟫. **⟪अरि⟫** (m.)
+⟪४⟫. ⟪अरि⟫ (m.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -124,7 +124,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 | 3. Instr. | ⟪अरिणा⟫ | ⟪अरिभिस्⟫ (⟪अरिभिः⟫) |
 | 6. Gen. | ⟪अरेस्⟫ (⟪अरेः⟫) | ⟪अरीणाम्⟫ |
 
-⟪५⟫. **⟪मति⟫** (f.)
+⟪५⟫. ⟪मति⟫ (f.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -133,7 +133,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 | 3. Instr. | ⟪मत्या⟫ | ⟪मतिभिस्⟫ (⟪मतिभिः⟫) |
 | 6. Gen. | ⟪मतेस्⟫ (⟪मतेः⟫) / ⟪मत्यास्⟫ (⟪मत्याः⟫) | ⟪मतीनाम्⟫ |
 
-⟪६⟫. **⟪गुरु⟫** (m.)
+⟪६⟫. ⟪गुरु⟫ (m.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -142,7 +142,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 | 3. Instr. | ⟪गुरुणा⟫ | ⟪गुरुभिस्⟫ (⟪गुरुभिः⟫) |
 | 6. Gen. | ⟪गुरोस्⟫ (⟪गुरोः⟫) | ⟪गुरूणाम्⟫ |
 
-⟪७⟫. **⟪धेनु⟫** (f.)
+⟪७⟫. ⟪धेनु⟫ (f.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -151,7 +151,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 | 3. Instr. | ⟪धेन्वा⟫ | ⟪धेनुभिस्⟫ (⟪धेनुभिः⟫) |
 | 6. Gen. | ⟪धेनोस्⟫ (⟪धेनोः⟫) / ⟪धेन्वास्⟫ (⟪धेन्वाः⟫) | ⟪धेनूनाम्⟫ |
 
-⟪८⟫. **⟪देवी⟫** (f.)
+⟪८⟫. ⟪देवी⟫ (f.)
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -160,7 +160,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 | 3. Instr. | ⟪देव्या⟫ | ⟪देवीभिस्⟫ (⟪देवीभिः⟫) |
 | 6. Gen. | ⟪देव्यास्⟫ (⟪देव्याः⟫) | ⟪देवीनाम्⟫ |
 
-⟪९⟫. **⟪गुणवन्त्⟫** (m./n.)
+⟪९⟫. ⟪गुणवन्त्⟫ (m./n.)
 
 **Maskulinum:**
 
@@ -180,9 +180,9 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 | 3. Instr. | ⟪गुणवता⟫ | ⟪गुणवद्भिस्⟫ (⟪गुणवद्भिः⟫) |
 | 6. Gen. | ⟪गुणवतस्⟫ (⟪गुणवतः⟫) | ⟪गुण्वताम्⟫ |
 
-(Femininum **⟪गुणवती⟫** dekliniert wie **⟪देवी⟫**)
+(Femininum ⟪गुणवती⟫ dekliniert wie ⟪देवी⟫)
 
-⟪१०⟫. **⟪किम्⟫** (m./n./f.)
+⟪१०⟫. ⟪किम्⟫ (m./n./f.)
 
 | Kasus | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -191,7 +191,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 | 3. Instr. | ⟪केन⟫ | — | ⟪कया⟫ | — | — | ⟪काभिस्⟫ (⟪काभिः⟫) |
 | 6. Gen. | ⟪कस्य⟫ | — | ⟪कस्यास्⟫ (⟪कस्याः⟫) | ⟪केषाम्⟫ | — | ⟪कासाम्⟫ |
 
-⟪११⟫. **⟪तद्⟫** (m./n./f.)
+⟪११⟫. ⟪तद्⟫ (m./n./f.)
 
 | Kasus | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -200,7 +200,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 | 3. Instr. | ⟪तेन⟫ | — | ⟪तया⟫ | ⟪तैस्⟫ (⟪तैः⟫) | — | ⟪ताभिस्⟫ (⟪ताभिः⟫) |
 | 6. Gen. | ⟪तस्य⟫ | — | ⟪तस्यास्⟫ (⟪तस्याः⟫) | ⟪तेषाम्⟫ | — | ⟪तासाम्⟫ |
 
-⟪१२⟫. **⟪एतद्⟫** (m./n./f.)
+⟪१२⟫. ⟪एतद्⟫ (m./n./f.)
 
 | Kasus | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -209,7 +209,7 @@ A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele f�
 | 3. Instr. | ⟪एतेन⟫ / ⟪एनेन⟫ | — | ⟪एतया⟫ / ⟪एनया⟫ | ⟪तैस्⟫ (⟪तैः⟫) | — | ⟪ताभिस्⟫ (⟪ताभिः⟫) |
 | 6. Gen. | ⟪एतस्य⟫ | — | ⟪तस्यास्⟫ (⟪तस्याः⟫) | ⟪तेषाम्⟫ | — | ⟪तासाम्⟫ |
 
-⟪१३⟫. **⟪इदम्⟫** (m./n./f.)
+⟪१३⟫. ⟪इदम्⟫ (m./n./f.)
 
 | Kasus | Sg. m. | Sg. n. | Sg. f. | Pl. m. | Pl. n. | Pl. f. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -247,16 +247,16 @@ Die spezifische Pflicht eines Śūdra ist gehorsamer Dienst an den Zweimalgebore
 Pflicht aller ist: Gewaltlosigkeit, Wahrhaftigkeit, Reinheit, Nicht über sein Los murren, Freisein von Boshaftigkeit und geduldige Nachsicht.
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-:::deleteme-box Erklärungen
-Satz 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nom. Akk.: Dvandva, das zwei "Sachen" bezeichnet
-Satz 8: **⟪कर्म⟫** Nom., Akk. sg. Neutrum zu ⟪कर्मन्⟫ "Tat"
-Satz 13: **⟪सर्वेषाम्⟫** Gen. pl. mask. zu ⟪सर्व⟫ "jeder, alle" (Pronomen, dekliniert nicht wie deva)
+::: deleteme-box Erklärungen
+Satz 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Akk.: Dvandva, das zwei "Sachen" bezeichnet
+Satz 8: ⟪कर्म⟫ Nom., Akk. sg. Neutrum zu ⟪कर्मन्⟫ "Tat"
+Satz 13: ⟪सर्वेषाम्⟫ Gen. pl. mask. zu ⟪सर्व⟫ "jeder, alle" (Pronomen, dekliniert nicht wie deva)
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 Der Prügel bewirkt Erwerb und sicheren Besitz von Philosophie, Vedististik und Ökonomie. Die Führung des Prügels ist Politik.
 
-:::media
+::: media
 ![](/images/uebung024.webp)
 Abb.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Bildquelle: [Details](/licenses#uebung024))

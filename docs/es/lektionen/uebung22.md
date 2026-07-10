@@ -87,7 +87,7 @@ Los hombres dignos del león se han enfrentado a los enemigos que no son Ārya, 
 ⟪१०⟫. **⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫**
 Si ha realizado acciones meritorias y solo ha hablado la verdad, un ser humano no cae en ningún infierno.
 
-:::media
+::: media
 ![](/images/uebung034.jpg)
 Fig.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung034))

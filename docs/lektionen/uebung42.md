@@ -11,13 +11,13 @@ last_reconstructed: 2026-05-15
 Übersetzen Sie:
 
 ⟪१⟫. **⟪प्रकृत्यैव⟫ ⟪यः⟫ ⟪कर्माणि⟫ ⟪क्रियमाणानि⟫ ⟪पश्यति⟫ ⟪स⟫ ⟪आत्मानमकर्तरं⟫ ⟪पश्यति⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Wer sieht, dass die Handlungen (allein) durch die materielle Natur (**⟪प्रकृति⟫**) vollzogen werden, der sieht, dass das Selbst (**⟪आत्मा⟫**) untätig ist.
+Wer sieht, dass die Handlungen (allein) durch die materielle Natur (⟪प्रकृति⟫) vollzogen werden, der sieht, dass das Selbst (⟪आत्मा⟫) untätig ist.
 
 ⟪२⟫. **⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Kṛṣṇa ist Vater, Mutter, Großvater und Schöpfer dieser Welt.
+Kṛṣṇa ist Vater, Mutter, Grossvater und Schöpfer dieser Welt.
 
 ⟪३⟫. **⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-"Lehrer, Väter, Söhne, Großväter, Schwiegerväter und Enkel haben sich zum Kampf aufgestellt. Diese will ich nicht töten!" — so sprach Arjuna in der Bhagavadgītā.
+"Lehrer, Väter, Söhne, Grossväter, Schwiegerväter und Enkel haben sich zum Kampf aufgestellt. Diese will ich nicht töten!" — so sprach Arjuna in der Bhagavadgītā.
 
 ⟪४⟫. **⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 Dichter priesen Väter und Mütter für die Erlangung der Vaterschaft (bzw. Elternschaft).
@@ -26,7 +26,7 @@ Dichter priesen Väter und Mütter für die Erlangung der Vaterschaft (bzw. Elte
 Die Gattin ist vom Gatten zu unterhalten. Deshalb wird sie "bhāryā" (die zu Erhaltende) genannt.
 
 ⟪६⟫. **⟪सत्पुत्रः⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्ददाति⟫ ⟪।⟫ ⟪पितृभिः⟫ ⟪पिण्डदानमश्यत⟫ ⟪एवं⟫ ⟪च⟫ ⟪सुखजीवो⟫ ⟪जीवितुं⟫ ⟪शक्यते⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Ein guter Sohn gibt seinen Vorvätern Speiseopfer (**⟪पिण्ड⟫**). Durch die Vorväter wird die Gabe der Speise gegessen, und so kann man ein glückliches Leben führen.
+Ein guter Sohn gibt seinen Vorvätern Speiseopfer (⟪पिण्ड⟫). Durch die Vorväter wird die Gabe der Speise gegessen, und so kann man ein glückliches Leben führen.
 
 ⟪७⟫. **⟪भ्रात्रा⟫ ⟪स्वसा⟫ ⟪न⟫ ⟪विवोड्धव्या⟫ ⟪।⟫ ⟪भातरि⟫ ⟪स्वसारं⟫ ⟪कामयमाने⟫ ⟪देवाः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 Ein Bruder darf seine Schwester nicht heiraten. Wenn ein Bruder seine Schwester begehrt, zürnen die Götter.
@@ -37,7 +37,7 @@ Wie wird der Bruder des Ehemanns genannt? Der Gattenbruder ist als "devara" (Sch
 ⟪९⟫. **⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
 Der Vater wünschte die Erlangung von Enkeln.
 
-:::media
+::: media
 ![](/images/uebung068.webp)
 Abb.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Bildquelle: [Details](/licenses#uebung068))
@@ -61,15 +61,15 @@ Abb.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पि
 **Übersetzung:**
 Einstmals gab es in Mithilā einen König namens Janaka. Er hatte eine Tochter namens Sītā. Sie war unvergleichlich an Schönheit und Tugend. Viele Prinzen, die sie heiraten wollten, sandten Boten zu Janaka.
 
-Janaka aber wollte sie einem kraftvollen Kṣatriya-Prinzen geben. Deshalb bestimmte er, dass sie durch Heldenkraft "erkauft" werden müsse. Es verhielt sich so: Er besaß einen überaus schweren Bogen. Janaka versprach: "Wer diesen Bogen aufhebt und einen Pfeil darauf spannt, der soll meine Tochter heiraten."
+Janaka aber wollte sie einem kraftvollen Kṣatriya-Prinzen geben. Deshalb bestimmte er, dass sie durch Heldenkraft "erkauft" werden müsse. Es verhielt sich so: Er besass einen überaus schweren Bogen. Janaka versprach: "Wer diesen Bogen aufhebt und einen Pfeil darauf spannt, der soll meine Tochter heiraten."
 
-Als sie dieses Versprechen hörten, kamen Prinzen zu hunderten herbei. Doch nicht einer von ihnen vermochte den Bogen auch nur zu bewegen. Es ist bekannt, dass selbst Rāvaṇa, der Herrscher von Laṅkā, voller Hochmut erschien und beschämt umkehrte. Als Janaka sah, dass alle Prinzen zurückkehrten, wurde er voller Sorge, wer wohl der Gatte seiner Tochter sein würde. Inzwischen führte Viśvāmitra den Rāma, den Sohn des Königs Daśaratha von Ayodhyā, zusammen mit Lakṣmaṇa dorthin. Auf Geheiß des großen Ṛṣi Viśvāmitra hob der herrliche Rāma den Bogen spielend leicht auf. Sobald er einen Pfeil darauf anlegte, zerbrach der Bogen in zwei Teile.
+Als sie dieses Versprechen hörten, kamen Prinzen zu hunderten herbei. Doch nicht einer von ihnen vermochte den Bogen auch nur zu bewegen. Es ist bekannt, dass selbst Rāvaṇa, der Herrscher von Laṅkā, voller Hochmut erschien und beschämt umkehrte. Als Janaka sah, dass alle Prinzen zurückkehrten, wurde er voller Sorge, wer wohl der Gatte seiner Tochter sein würde. Inzwischen führte Viśvāmitra den Rāma, den Sohn des Königs Daśaratha von Ayodhyā, zusammen mit Lakṣmaṇa dorthin. Auf Geheiss des grossen Ṛṣi Viśvāmitra hob der herrliche Rāma den Bogen spielend leicht auf. Sobald er einen Pfeil darauf anlegte, zerbrach der Bogen in zwei Teile.
 
 "Gut, gut!" — so priesen die Leute die Heldenkraft des herrlichen Rāma.
 
-Das Herz des Königs Janaka war hocherfreut. Dann ließ er Daśaratha und die anderen kommen und feierte mit großem Prunk das Hochzeitsfest von Sītā und Rāma.
+Das Herz des Königs Janaka war hocherfreut. Dann liess er Daśaratha und die anderen kommen und feierte mit grossem Prunk das Hochzeitsfest von Sītā und Rāma.
 
-:::media
+::: media
 ![](/images/uebung069.webp)
 Abb.: ⟪श्रीसीता⟫ ⟪श्रीरामश्च⟫
 (Bildquelle: [Details](/licenses#uebung069))

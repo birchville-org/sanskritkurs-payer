@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 7
 
-A) Insert in each case the singular and plural (if they are not proper names) the direct object or the accusative of direction:
+A) Insert in each case the singular and plural (if they are not proper names) the direct object or the directional accusative:
 
 1\. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
 
@@ -144,7 +144,7 @@ yajate.
 
 ⟪यजते⟫ ⟪।⟫
 
-E) Form the accusative (dvitīyā) sg. and pl. for all nouns learned so far.
+E) Form the accusative (dvitīyā) singular and plural for all nouns learned so far.
 
 F) Translate:
 
@@ -158,64 +158,64 @@ They go to heaven and hells.
 
 ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
 
-They listen however to the masters.
+But they listen to the masters.
 
-3. Shūdras attain a heaven.
+3\. Śūdras attain a heaven.
 
 śūdrāḥ svargam āpnuvanti.
 
 ⟪शूद्राः⟫ ⟪स्वर्गमाप्नुवन्ति⟫ ⟪।⟫
 
-4. The Kṣatriyas, as sacrifice-lords, worship the goddesses with sacrifices.
+4\. The Kṣatriyas worship the goddesses with sacrifices as sacrifice-lords.
 
 kṣatriyā devīr yajante.
 
 ⟪क्षत्रिया⟫ ⟪देवीर्यजन्ते⟫ ⟪।⟫
 
-5. Vaiśya-women worship deities with sacrifices.
+5\. Vaiśya women worship deities with sacrifices.
 
 vaiśyā devatā yajante.
 
 ⟪वैश्या⟫ ⟪देवता⟫ ⟪यजन्ते⟫ ⟪।⟫
 
-6. The LORD is angry.
+6\. The LORD is angry.
 
 īśvaraḥ kupyati / īśvaraḥ krudhyati.
 
 ⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (According to Kauṭilīya-arthaṣāstra 1.3.3.) Explanation: chando = Nom., Acc. sg. of chandas n.)
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (After Kauṭilīya-arthaṣāstra 1.3.3.) Explanation: chando = Nom., Acc. sg. to chandas n.)
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 
-The auxiliary sciences of Vedic studies are: phonetics, ritualistics, grammar, etymology, metrics, and calendrical science.
+The auxiliary sciences of Vedic studies are: phonetics, ritualistics, grammar, etymology, metrics, calendar science.
 
-8. To which god does this Brahmin sacrifice?
+8\. To which god does this Brahmin sacrifice?
 
 ayaṃ brāhmaṇaḥ kaṃ devaṃ yajati / yajate?
 
 ⟪अयं⟫ ⟪ब्राह्मणः⟫ ⟪कं⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
 
-9. What is this holy man chewing?
+9\. What is this holy man chewing?
 
 ayaṃ sādhuḥ kiṃ khādati?
 
 ⟪अयं⟫ ⟪साधुः⟫ ⟪किं⟫ ⟪खाद⟫ati ⟪।⟫
 
-10. What are these (here) pressing out?
+10\. What are these (here) pressing out?
 
 ete kiṃ sunvanti / sunvate?
 
 ⟪एते⟫ ⟪किं⟫ ⟪सुन्वन्ति⟫ / ⟪सुन्वते⟫ ⟪।⟫
 
-11. He is the teacher. One listens to him (= they listen to him).
+11\. He is the teacher. To him one listens (= they listen).
 
 sa guruḥ. enaṃ śṛṇvanti.
 
 ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung006.jpg)
 Fig.: ⟪स⟫ ⟪गुरुः⟫ ⟪।⟫ ⟪एनं⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
-(Image source: [Details](/en/licenses#uebung006))
+(Image source: [Details](/licenses#uebung006))
 :::

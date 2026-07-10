@@ -16,7 +16,7 @@ Traduzca literalmente a un buen alemán y memorice los textos sánscritos:
 
 La ignorancia significa considerar lo impermanente, lo impuro, lo doloroso y lo no-absoluto como permanente, puro, gozoso o absoluto.
 
-:::deleteme-box Explicación
+::: deleteme-box Explicación
 **⟪आत्मसु⟫** = Loc. sg. de ⟪आत्मन्⟫ m. "Alma; lo Absoluto, en la medida en que se realiza en el individuo"
 :::
 ### ⟪२⟫. Sobre el uso correcto del ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4)
@@ -35,7 +35,7 @@ Ante un gobierno demasiado severo (daṇḍa), los seres deben temblar. Un gobie
 > Alegre por la actividad según su propio derecho y costumbre  
 > Se mueve en sus propias vías.
 
-:::deleteme-box Glosario y Gramática
+::: deleteme-box Glosario y Gramática
 - **⟪उद्वेजनीय⟫** (3): algo de lo que se debe temblar
 - **⟪विज्ञात⟫** (3): reconocido; n.: reconocimiento
 - **⟪योजयति⟫** (Caus. de **⟪युज्⟫**): engañar, unir con
@@ -46,8 +46,9 @@ Ante un gobierno demasiado severo (daṇḍa), los seres deben temblar. Un gobie
 - **⟪राज्ञा⟫**: Instr. sg. masc. de **⟪राजन्⟫** (rey)
 - **⟪स्वेषु⟫**: Loc. plur. masc./neutr. de **⟪स्व⟫** (propio)
 - **⟪वर्त्मसु⟫**: Loc. plur neutr. de **⟪वर्त्मन्⟫** (vía, camino)
-::::::media
+:::: media
 ![](/images/uebung046.webp)
 Fig.: ⟪चतुर्वर्णाश्रमो⟫ ⟪लोको⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung046))
+::::
 :::

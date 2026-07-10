@@ -11,7 +11,7 @@ status: stable
 
 
 
-:::deleteme-box
+::: deleteme-box
 **Dalam pelajaran ini Anda akan mempelajari:**
 - Dasar-dasar majemuk nominal (samāsa)
 - Terminologi khusus untuk majemuk
@@ -49,7 +49,7 @@ Komposita kopulatif berfungsi untuk menghubungkan elemen-elemen tata bahasa yang
 
 
 
-:::grammar-box
+::: grammar-box
 **Dvandva merujuk pada:**
 
 1. **baiklah gabungan summatif dari orang-orang, benda-benda, sifat-sifat yang ditunjuk oleh anggota-anggota individunya:**
@@ -112,7 +112,7 @@ Apabila dua dari tiga ketentuan yang disebutkan terakhir dapat berlaku secara be
 
 
 
-:::media
+::: media
 ![](/images/lekt0501.webp)
 Gambar: Dewa Kāma = kāmadeva = ⟪कामदेव⟫, abad ke-18
 (Sumber gambar: Wikipedia, Domain Publik)

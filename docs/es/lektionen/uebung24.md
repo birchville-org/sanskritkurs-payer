@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Forme el dativo singular y el dativo (respectivamente ablativo) plural y proporcione el significado de la raíz nominal:
 
-:::grammar-box
+::: grammar-box
 | Palabra | Significado | Dat. Sg. | Dat. Pl. |
 | :--- | :--- | :--- | :--- |
 | ⟪१⟫. **⟪श्रव⟫** | Escuchar | ⟪श्रवणाय⟫ | ⟪श्रवणेभ्यः⟫ |
@@ -79,7 +79,7 @@ Los dioses se encolerizan con estos brahmanes, que no les rendían adoración.
 ⟪९⟫. **⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫**
 Para morir, los seres nacen.
 
-:::media
+::: media
 ![](/images/uebung037.webp)
 Fig.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung037))
@@ -153,7 +153,7 @@ E) Sustituya en la oración B) 6 el dativo por una construcción con **-⟪अ�
 15\. ¡Adiós! (Sánscrito moderno)
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
 
-:::media
+::: media
 ![](/images/uebung038.webp)
 Fig.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung038))

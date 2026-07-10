@@ -29,7 +29,7 @@ Quien tiene comprensión, se libera del sufrimiento; por lo tanto, quien desea l
 (⟪मोहेन⟫ ⟪सहितः⟫ ⟪।⟫ ⟪शोभनं⟫ ⟪रूपं⟫ ⟪यासां⟫ ⟪ताः⟫ ⟪।⟫ ⟪वीतो⟫ ⟪मोहो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫)
 Un ignorante disfruta de buena comida y hermosas mujeres. Quien ha desaparecido su ignorancia, no desea buena comida ni mujer de cuerpo perfecto. Él evita el deseo y el odio, y se concentra en la comprensión.
 
-:::media
+::: media
 ![](/images/uebung049.webp)
 Fig.: ⟪कुलबन्धनम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung049))
@@ -39,8 +39,6 @@ Fig.: ⟪कुलबन्धनम्⟫
 ## Paradigmas verbales (7.º curso)
 
 B) Forme las personas de tercera persona del singular y plural (P y Ā) del indicativo y optativo de presente, para las siguientes raíces de la 7.ª clase:
-
-:::grammar-box
 
 ### ⟪१⟫. **⟪छिद्⟫** (columnas)
 
@@ -76,4 +74,3 @@ B) Forme las personas de tercera persona del singular y plural (P y Ā) del indi
 | :--- | :--- | :--- |
 | **⟪लट्⟫** (Ind.) | ⟪भनक्ति⟫ | ⟪भञ्जन्ति⟫ |
 | **⟪विधिलिङ्⟫** (Opt.) | ⟪भञ्ज्यात्⟫ | ⟪भञ्ज्युः⟫ |
-:::

@@ -18,7 +18,7 @@ export const uk = {
       { text: 'Зміст', link: '/uk/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Автори', link: '/uk/impressum' },
-      { text: '⚙️', link: '/uk/settings', ariaLabel: 'Відкрити налаштування' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/uk/settings', ariaLabel: 'Відкрити налаштування' }
     ],
     docFooter: {
       prev: 'Попередня лекція',

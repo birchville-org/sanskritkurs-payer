@@ -1,471 +1,486 @@
 ---
-title: Lektion 28
+title: 第28课
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 28
 
 ## 28.1. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
-:::grammar-box
-**Will man ausdrücken, dass jemand oder etwas veranlasst oder bewirkt, dass jemand anderer oder etwas anderes etwas tut oder erleidet, was durch eine Wurzel (mit oder ohne Präverb) ausgedrückt wird, so verwendet man das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).** <!-- TODO: Fallback translation -->
+::: grammar-box
+**如果要表达某人或某事致使另一人或另一事物执行或遭受由词根（带或不带前缀）所表达的动作，则使用使役语态（⟪णि⟫，⟪णिच्⟫，⟪कारित⟫）。**
 
-Beispiel:
-⟪गम्⟫ "gehen" » Kausativ: ⟪गमयति⟫ "er veranlasst, dass jemand geht; er schickt"
-⟪दृश्⟫ "sehen" » Kausativ: ⟪दर्शयति⟫ "er macht sehen = er zeigt" <!-- TODO: Fallback translation -->
+示例：
+⟪गम्⟫ “走” » 使役：⟪गमयति⟫ “他使人走；他派遣”
+⟪दृश्⟫ “看” » 使役：⟪दर्शयति⟫ “他使人看见 = 他展示”
 :::
 ---
 
-## 28.2. Satzkonstruktion mit dem Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.2. 带使役式的句子结构（⟪णि⟫，⟪णिच्⟫，⟪कारित⟫）
 
-:::grammar-box
-**Schema 1:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**模式 1：**
 
-**Wenn die dem Kausativ zugrundeliegende Wurzel (mit oder ohne Präverb) INTRANSITIV ist (d.h. kein Akkusativobjekt bei sich haben kann) oder Bewegung, Wissen, Information oder Essen ausdrückt:** <!-- TODO: Fallback translation -->
+**如果以使役动词为词根的动词（带前缀或不带前缀）是不及物动词（即不能带宾格宾语）或表示运动、知识、信息或进食：**
 
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Akkusativ (⟪द्वितीया⟫) — (Ziel der Bewegung, Objekt des Wissens usw. im Akkusativ = ⟪द्वितीया⟫) — Verb im Kausativ** <!-- TODO: Fallback translation -->
+**Kausativ-Agens (⟪कर्ता⟫) im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Akkusativ (⟪द्वितीया⟫) — (Bewegungsziel, Wissensobjekt etc. im Akkusativ = ⟪द्वितीया⟫) — Kausativ-Verb**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
-⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "ein böser Mensch bewirkt, dass Rāma verwirrt ist = verwirrt den Rāma = bewirkt, dass Rāma irrt"
-Ergebnis: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma ist verwirrt / verblendet / irrt." <!-- TODO: Fallback translation -->
+⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = “一个恶人使罗摩困惑 = 使罗摩困惑 = 导致罗摩犯错”
+结果：⟪रामो⟫ ⟪मुह्यति⟫ = “罗摩感到困惑 / 被蒙蔽 / 犯错。”
 
-⟪रामः⟫ ⟪शत्रून्स्वर्गं⟫ ⟪गमयति⟫ = "Rāma macht die Feinde in den Himmel gehen = schickt die Feinde in den Himmel"
-Ergebnis: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = "die Feinde gehen zum Himmel / kommen in den Himmel" <!-- TODO: Fallback translation -->
+⟪रामः⟫ ⟪शत्रून्स्वर्गं⟫ ⟪गमयति⟫ = “Rāma 使敌人升天 = 将敌人送往天国”
+结果：⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = “敌人前往天国 / 进入天国”
 
-⟪गुरू⟫ ⟪रामं⟫ ⟪वेदार्थं⟫ ⟪वेदयति⟫ = "Der Meister macht Rāma den Sinn des Veda wissen = erklärt / lehrt Rāma den Sinn des Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = "Rāma kennt / versteht den Sinn des Veda" <!-- TODO: Fallback translation -->
+⟪गुरू⟫ ⟪रामं⟫ ⟪वेदार्थं⟫ ⟪वेदयति⟫ = “大师使罗摩知晓吠陀的真义 = 向罗摩阐释/教授吠陀的真义”
+结果：⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = “罗摩知晓/理解吠陀的真义”
 
-⟪स⟫ ⟪रामं⟫ ⟪वेदमध्यापयति⟫ = "er lehrt Rāma den Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदमधीते⟫ "Rāma studiert den Veda" <!-- TODO: Fallback translation -->
+⟪स⟫ ⟪रामं⟫ ⟪वेदमध्यापयति⟫ = “他教导罗摩吠陀”
+结果：⟪रामो⟫ ⟪वेदमधीते⟫ “罗摩学习吠陀”
 
-⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Rāma lässt die Götter Unsterblichkeitsspeise essen = gibt den Göttern Unsterblichkeitsspeise zu essen" (⟪अश्⟫ 9 "essen")
-Ergebnis: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Die Götter essen Unsterblichkeitsspeise" <!-- TODO: Fallback translation -->
+⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = “罗摩让众神食用不死之食 = 给众神食用不死之食”（⟪अश्⟫ 9 “食用”）
+结果：⟪देवा⟫ ⟪अमृतमश्नन्ति⟩ “众神食用不死之食”
 
-:::media
+::: media
 ![](/images/lekt2802.webp)
-Abb.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
-ISKCON Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt2801)) <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Nach Schema 1 konstruiert u.a. auch die Wurzel ⟪दृश्⟫:** <!-- TODO: Fallback translation -->
-
-**Ausnahmen zu Schema 1 siehe unter Schema 2** <!-- TODO: Fallback translation -->
-
-Beispiel:
-(⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "er zeigt dem Rāma den Sohn" <!-- TODO: Fallback translation -->
+图：⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
+ISKCON 班加罗尔寺庙。
+（图片来源：[详情](/zh-CN/licenses#lekt2801)）
 :::
-Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusammen (bei den Verbalformen handelt es sich jeweils um die 3. Person Imperfekt Parasmaipada): <!-- TODO: Fallback translation -->
+::: grammar-box
+**按照模式1构造，还包括词根 ⟪दृश्⟫：**
+
+**关于例外情况，请参阅 Schema 2**
+
+示例：
+(⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = “他向罗摩展示儿子”
+:::
+以下偈颂总结了按模式1构成的使役动词的示例（动词形式均为第三人称未完成时外格语态）：
 
 ⟪शत्रूनगमयत्स्वर्गं⟫
 ⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
 ⟪आशयच्चामृतं⟫ ⟪देवान्⟫
 ⟪वेदमध्यापयद्विधिम्⟫ ⟪।⟫
 ⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
-⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
 
-:::indent
-Meine Zuflucht und mein Ziel ist Hari,
-Der die Feinde in den Himmel schickte,
-Der die Seinen die Bedeutung des Veda lehrte,
-Der die Götter mit Unsterblichkeitsspeise speiste,
-Der den Schöpfer den Veda lehrte,
-Der die Erde in das Wasser setzte. <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+我的庇护与目标乃是哈里，
+他将敌人送入天国，
+他教导其追随者吠陀的含义，
+他以不朽的食物供养众神，
+他教导创造者吠陀，
+他将大地置于水中。
+:::: media
 ![](/images/lekt2801.webp)
-Abb.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
-Jadavpur University Management building.
-(Bildquelle: [Details](/licenses#lekt2802)) <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Schema 2:** <!-- TODO: Fallback translation -->
+图：⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
+贾德夫普尔大学管理大楼。
+（图片来源：[详情](/zh-CN/licenses#lekt2802)）
+::::
+:::
+::: grammar-box
+**图式 2：**
 
-**Bei transitiven Verben (außer den unter Schema 1 genannten). Ebenfalls bei allen Verben, wenn das durch das Kausativ Bezeichnete veranlasst wird (wenn das Kausativ also ein Kausativ zum Kausativ ist):** <!-- TODO: Fallback translation -->
+**对于及物动词（除模式1中列出的外）。此外，在所有动词中，如果由使役形式所指称的动作被引发（即如果使役形式是“使役的使役”）：**
 
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Instrumentalis (⟪तृतीया⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum** <!-- TODO: Fallback translation -->
-::::::indent
+**Kausativum的施事者（⟪कर्ता⟫）在主格中（⟪प्रथमा⟫）——被引发动作的施事者在工具格中（⟪तृतीया⟫）——被引发动作的对象处于该对象在简单动词中应有的格位（即通常在对格）——动词采用使动形式**
+:::
+::: indent
+示例：
+(⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = “他促使罗摩离开他的妻子”
+结果：⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = “罗摩离开了他的妻子”
+
+⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = “Viṣṇumitra veranlasst den Rāma, dass dieser den Govinda veranlasst zu gehen = Viṣṇumitra lässt Rāma den Govinda fortschicken”
+Ergebnis: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = “Rāma schickt den Govinda fort”
+Ergebnis dieses Ergebnisses: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = “Govinda geht”
+:::
+::: grammar-box
+**Ausnahmen zu Schema 1:**
+
+**按照模式2，还可以构造以下动词：**
+
+**Kausativ zu:**
+- **⟪नी⟫ "führen"**
+- **⟪वह्⟫ "fahren" (nur wenn der Agens der veranlassten Handlung kein Fahrer ist)**
+- **⟪स्मृ⟫ "vergegenwärtigen" (es gibt dazu Ausnahmen)**
+- **⟪अद्⟫ "essen"**
+- **⟪खाद्⟫ "kauen"**
+:::
 Beispiele:
-(⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = "Er veranlasst den Rāma, seine Frau zu verlassen"
-Ergebnis: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma verlässt seine Frau" <!-- TODO: Fallback translation -->
 
-⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Viṣṇumitra veranlasst den Rāma, dass dieser den Govinda veranlasst zu gehen = Viṣṇumitra lässt Rāma den Govinda fortschicken"
-Ergebnis: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Rāma schickt den Govinda fort"
-Ergebnis dieses Ergebnisses: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda geht" <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Ausnahmen zu Schema 1:** <!-- TODO: Fallback translation -->
+⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = “罗摩让仆人承担或运送重物”
+结果：⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = “仆人承担或运送重物”
 
-**Nach Schema 2 konstruieren u.a. auch folgende Verben:** <!-- TODO: Fallback translation -->
+⟪रामो⟫ ⟪बालेनान्नमादयति⟫ ⟪खादयति⟫ ⟪वा⟫ = “罗摩让男孩进食或咀嚼食物”
+结果：⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति⟫ ⟪वा⟫ = “男孩进食或咀嚼食物”
 
-**Kausativ zu:** <!-- TODO: Fallback translation -->
-- **⟪नी⟫ "führen"** <!-- TODO: Fallback translation -->
-- **⟪वह्⟫ "fahren" (nur wenn der Agens der veranlassten Handlung kein Fahrer ist)** <!-- TODO: Fallback translation -->
-- **⟪स्मृ⟫ "vergegenwärtigen" (es gibt dazu Ausnahmen)** <!-- TODO: Fallback translation -->
-- **⟪अद्⟫ "essen"** <!-- TODO: Fallback translation -->
-- **⟪खाद्⟫ "kauen"** <!-- TODO: Fallback translation -->
+(⟪स⟫) ⟪रामेण⟫ ⟪स्मारयति⟫ = “他使罗摩想起”
+结果：⟪रामः⟫ ⟪स्मरति⟫ = “罗摩想起”
+
+::: grammar-box
+**以下使动动词既可按照第一模式，也可按照第二模式进行构造：**
+
+- **⟪हृ⟫ "halten, holen"**
+- **⟪कृ⟫ "tun, machen"**
+- **Ātmanepadakausativ zu ⟪दृश्⟫**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma lässt den Diener die Last führen bzw. fahren"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "Der Diener führt bzw. fährt die Last" <!-- TODO: Fallback translation -->
-
-⟪रामो⟫ ⟪बालेनान्नमादयति⟫ ⟪खादयति⟫ ⟪वा⟫ = "Rāma lässt den Knaben Speise essen bzw. kauen"
-Ergebnis: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति⟫ ⟪वा⟫ = "der Knabe isst oder kaut Speise" <!-- TODO: Fallback translation -->
-
-(⟪स⟫) ⟪रामेण⟫ ⟪स्मारयति⟫ = "Er bewirkt, dass Rāma sich erinnert"
-Ergebnis: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma erinnert sich" <!-- TODO: Fallback translation -->
-
-:::grammar-box
-**Folgende Kausative können sowohl nach Schema 1 als auch nach Schema 2 konstruieren:** <!-- TODO: Fallback translation -->
-
-- **⟪हृ⟫ "halten, holen"** <!-- TODO: Fallback translation -->
-- **⟪कृ⟫ "tun, machen"** <!-- TODO: Fallback translation -->
-- **Ātmanepadakausativ zu ⟪दृश्⟫** <!-- TODO: Fallback translation -->
-:::
-Beispiele: <!-- TODO: Fallback translation -->
-
-⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma lässt den Diener eine Matte (⟪कट⟫ m.) machen bzw. holen"
-oder:
+⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = “罗摩让仆人制作或取来一张席子（⟪कट⟫阴性）”
+或者：
 ⟪रामो⟫ ⟪भृत्येन⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ ⟪हरति⟫ ⟪वा⟫ = "Der Diener macht bzw. holt eine Matte" <!-- TODO: Fallback translation -->
+结果：⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ ⟪हरति⟫ ⟪वा⟫ = “仆人制作或取来一张席子”
 
-⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = "Rāma lässt den Knaben das Bildnis sehen = zeigt dem Knaben das Bildnis (im eigenen Interesse)"
-oder:
+⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = “罗摩让男孩观看画像 = 向男孩展示画像（出于自身利益）”
+或者：
 ⟪रामो⟫ ⟪बालेन⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫
-Ergebnis: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "der Knabe sieht das Bildnis" <!-- TODO: Fallback translation -->
+结果：⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = “男孩观看画像”
 
-Wird das Kausativum in einer Passivkonstruktion verwendet, so findet fast immer folgendes Schema Anwendung: <!-- TODO: Fallback translation -->
+Wenn das Kausativum in einer Passivkonstruktion verwendet wird, so findet fast immer folgendes Schema Anwendung:
 
-:::grammar-box
-**Schema A (Passivkonstruktion):** <!-- TODO: Fallback translation -->
+::: grammar-box
+**模式 A（被动结构）：**
 
-**Agens des Kausativums im Instrumentalis (⟪तृतीया⟫) — Agens der veranlassten Handlung im Nominativ (⟪प्रथमा⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum** <!-- TODO: Fallback translation -->
+**Kausativum-Agens im Instrumental (⟪तृतीया⟫) — Veranlassungshandlungs-Agens im Nominativ (⟪प्रथमा⟫) — Veranlassungshandlungs-Objekt in dem Kasus, den es nach dem einfachen Verb hätte (d. h. meist im Akkusativ) — Verb im Kausativum**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
-
-⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "Der Meister schickt Rāma ins Dorf"
-Ergebnis: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma geht ins Dorf" <!-- TODO: Fallback translation -->
-
-⟪रामेण⟫ ⟪भृत्यः⟫ ⟪कटं⟫ ⟪कार्यते⟫ = "Rāma lässt den Diener eine Matte machen"
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "Der Diener macht eine Matte" <!-- TODO: Fallback translation -->
-
-⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma lässt den Diener die Last holen"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der Diener holt die Last" <!-- TODO: Fallback translation -->
-
----
-
-## 28.3. Bildung des Präsensstamms zum Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-
-:::grammar-box
-**An den Kausativstamm treten die thematischen Endungen des Präsensstamms** <!-- TODO: Fallback translation -->
-:::
-Es gibt verschiedene Bildungstypen: <!-- TODO: Fallback translation -->
-
-:::grammar-box
-**Bildungstyp 1: (meist) hochstufige Wurzel + -aya-** <!-- TODO: Fallback translation -->
-:::
-Beispiele: <!-- TODO: Fallback translation -->
-
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪विश्⟫ | ⟪वेशयति⟫ | er/sie/es lässt eintreten, führt hinein | <!-- TODO: Fallback translation -->
-| ⟪लुभ्⟫ | ⟪लोभयति⟫ | begehren machen, begehrlich machen, verlocken | <!-- TODO: Fallback translation -->
-| ⟪दृश्⟫ | ⟪दर्शयति⟫ | sehen machen = zeigen | <!-- TODO: Fallback translation -->
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen | <!-- TODO: Fallback translation -->
-
-:::grammar-box
-**Bildungstyp 2: dehnstufige Wurzel + -aya-** <!-- TODO: Fallback translation -->
-
-**Oft bei Wurzeln, die vokalisch enden, und bei Wurzeln, bei denen auf -a- ein einziger Endkonsonant folgt.** <!-- TODO: Fallback translation -->
-:::
-Beispiele: <!-- TODO: Fallback translation -->
-
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen | <!-- TODO: Fallback translation -->
-| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht | <!-- TODO: Fallback translation -->
-| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen | <!-- TODO: Fallback translation -->
-| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen | <!-- TODO: Fallback translation -->
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen | <!-- TODO: Fallback translation -->
-
-:::grammar-box
-**Bildungstyp 3: tiefstufige Wurzel + -aya-** <!-- TODO: Fallback translation -->
-
-**Kommt vor.** <!-- TODO: Fallback translation -->
-:::
-Beispiel: <!-- TODO: Fallback translation -->
-
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben | <!-- TODO: Fallback translation -->
-
-:::grammar-box
-**Bildungstyp 4: Wurzel + -paya-** <!-- TODO: Fallback translation -->
-
-**Bei Wurzeln auf -ā und einigen anderen Wurzeln.** <!-- TODO: Fallback translation -->
-:::
-Beispiele: <!-- TODO: Fallback translation -->
-
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen | <!-- TODO: Fallback translation -->
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten | <!-- TODO: Fallback translation -->
-
-:::grammar-box
-**Unregelmäßige Bildungen:** <!-- TODO: Fallback translation -->
-
-**Einheimische Grammatiker betrachten folgende Formen als Kausativa:** <!-- TODO: Fallback translation -->
-
-- **han** : Kaus. **ghātayati**¹ "erschlagen lassen, töten lassen" <!-- TODO: Fallback translation -->
-- **pā** 2 "hüten": **pālayati**² "hinüberbringen, retten, schützen" <!-- TODO: Fallback translation -->
-:::
-Anmerkungen: <!-- TODO: Fallback translation -->
-1. **ghātayati** ist in Wirklichkeit ein Verb, das vom Substantiv **ghāta** m. "Schlag" abgeleitet ist (denominativum) und anstelle des Kausativums von **han** verwendet wird. <!-- TODO: Fallback translation -->
-2. **pālayati** ist ein echtes Kausativum, allerdings zur Wurzel **pṛ** 3 "hinüberbringen, retten, schützen": **pārayati** (pār-aya-ti) » **pālayati** (in einigen Gegenden Indiens entspricht dem r ein l, in anderen umgekehrt dem l ein r). <!-- TODO: Fallback translation -->
-
----
-
-## 28.4. Bildung des Passivs (⟪यक्⟫) zum Kausativ
-
-:::grammar-box
-**Das Passiv zum Kausativ wird so gebildet:** <!-- TODO: Fallback translation -->
-
-**Kausativstamm OHNE -aya- + Passivsuffix -ya-** <!-- TODO: Fallback translation -->
-
 Beispiele:
-**bhāvyate** (bhāv-ya-te) "er/sie/es wird hervorgebracht"
-**sthāpyate** (sthāp-ya-te) "er/sie/es wird aufgestellt" <!-- TODO: Fallback translation -->
-:::
-Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird. <!-- TODO: Fallback translation -->
+
+⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = “大师派遣罗摩前往村庄”
+结果：⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = “罗摩前往村庄”
+
+⟪रामेण⟫ ⟪भृत्यः⟫ ⟪कटं⟫ ⟪कार्यते⟫ = “罗摩让仆人制作席子”
+结果：⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = “仆人制作席子”
+
+⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = “罗摩让仆人取回重物”
+结果：⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = “仆人取回重物”
 
 ---
 
-## 28.5. Bildung des Futurs (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) zum Kausativ
+## 28.3. 致使现在词干的构成（⟪णि⟫，⟪णिच्⟫，⟪कारित⟫）
 
-:::grammar-box
-**Das Futur des Kausativs wird vom Kausativstamm gebildet, dabei fällt das auslautende -a- des Kausativsuffixes aus:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**向使役词干附加现在时词干的主题词尾**
+:::
+存在几种不同的构词类型：
 
-**-ay-iṣya-** <!-- TODO: Fallback translation -->
+::: grammar-box
+**Bildungstyp 1: (meist) hochstufige Wurzel + -aya-**
+:::
+Beispiele:
 
-Beispiel:
-**budh** Futur-Kausativ: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "er/sie/es wird aufwecken" <!-- TODO: Fallback translation -->
+| 词根 | 使役式 第三人称单数 直陈式 现在时 | 含义 |
+| :--- | :--- | :--- |
+| ⟪विश्⟫ | ⟪वेशयति⟫ | 使发生，引入 |
+| ⟪लुभ्⟫ | ⟪लोभयति⟫ | 使产生欲望，使变得渴望，诱惑 |
+| ⟪दृश्⟫ | ⟪दर्शयति⟫ | 使看见 = 展示 |
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | 使旋转，使转向（及物），使滚动（及物），使开始滚动 |
+
+::: grammar-box
+**词型2：长元音根 + -aya-**
+
+**常见于以元音结尾的词根，以及以 -a- 后接单个词尾辅音的词根。**
+:::
+示例：
+
+| 词根 | 使役 第三人称单数 直陈式 现在时 | 含义 |
+| :--- | :--- | :--- |
+| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | 致使某人或某物成为，产生 |
+| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | 致使某人前往 |
+| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | 引导 |
+| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | 使做 |
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | 使说，使言说，（使诵读文本 =）朗读 |
+
+::: grammar-box
+**Bildungstyp 3: tiefstufige Wurzel + -aya-**
+
+**出现。**
+:::
+例如：
+
+| 词根 | 使役 3. sg. 直陈式 现在时 | 意义 |
+| :--- | :--- | :--- |
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | （使）败坏 |
+
+::: grammar-box
+**词法类型 4：词根 + -paya-**
+
+**对于以 -ā 结尾的词根及其他一些词根。**
+:::
+例如：
+
+| 词根 | 使役式 第三人称单数 直陈式 现在时 | 含义 |
+| :--- | :--- | :--- |
+| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | 使站立，放置 |
+| ⟪इ⟫ + ⟪अधि⟫:br"学习" | ⟪अध्यापयति⟫:br(前缀：adhi+ā-paya-ti):br(解释参见Thumb-Hauschildt第一卷第2页341) | 使学习，教导 |
+
+::: grammar-box
+**不规则形式：**
+
+**本土语法学家将以下形式视为使役态：**
+
+- **han** : Kaus. **ghātayati**¹ „erschlagen lassen, töten lassen“
+- **pā** 2 „hüten“: **pālayati**² „hinüberbringen, retten, schützen“
+:::
+Anmerkungen:
+1. **ghātayati** ist in Wirklichkeit ein Verb, das vom Substantiv **ghāta** m. „Schlag“ abgeleitet ist (denominativum) und anstelle des Kausativums von **han** verwendet wird.
+2. **pālayati** ist ein echtes Kausativum, allerdings zur Wurzel **pṛ** 3 „hinüberbringen, retten, schützen“: **pārayati** (pār-aya-ti) » **pālayati** (in einigen Gegenden Indiens entspricht dem r ein l, in anderen umgekehrt dem l ein r).
+
+---
+
+## 28.4. 构成使役式的被动语态（⟪यक्⟫）
+
+::: grammar-box
+**使动态的被动语态按如下方式构成：**
+
+**使役词干无 -aya- + 被动后缀 -ya-**
+
+示例：
+**bhāvyate** (bhāv-ya-te) “被产生”
+**sthāpyate** (sthāp-ya-te) “被放置”
+:::
+与通常由弱级词根构成的被动语态不同，使役被动语态通常由强级或长元音级的词根构成，据此可以识别。
+
+---
+
+## 28.5. 使役动词将来时的构成（⟪ऌट्⟫，⟪भविष्यन्ती⟫阴性）
+
+::: grammar-box
+**使役未来式由使役词干构成，此时使役后缀末尾的 -a- 脱落：**
+
+**-ay-iṣya-**
+
+示例：
+**budh** 将来时使役： **bodhayiṣyati** (bodh-ay-i-ṣya-ti)：“他/她/它将唤醒”
 :::
 ---
 
 ## 28.6. Bildung des PPP (⟪क्त⟫) zum Kausativ
 
-:::grammar-box
-**Kausativstamm auf -ay- (ohne auslautendes a) + -i- + -ta** <!-- TODO: Fallback translation -->
+::: grammar-box
+**使役词干以 -ay- 结尾（无词尾 a）+ -i- + -ta**
 
-Beispiele:
-**gam** — **gamayati** — **gamita** (gam-i-ta) "gesendet" (PPP der einfachen Wurzel: **gata**)
-**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "aufgestellt" <!-- TODO: Fallback translation -->
+示例：
+**gam** — **gamayati** — **gamita** (gam-i-ta) “派遣”（简单词根的PPP：**gata**）
+**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) “建立”
 :::
 ---
 
-## 28.7. Bildung des Absolutivs (⟪क्त्वा⟫ . ⟪ल्यप्⟫) zum Kausativ
+## 28.7. 绝对分词（⟪क्त्वा⟫ . ⟪ल्यप्⟫）的构成（基于使动语态）
 
-:::grammar-box
-**Das Absolutivum auf -tvā wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**以 -tvā 结尾的绝对分词由以 -ay-（无词尾 a）结尾的使动词干构成：**
 
-**Kausativstamm auf -ay- + -i- + -tvā** <!-- TODO: Fallback translation -->
+**使役词干以 -ay- + -i- + -tvā 结尾**
 
-Beispiel:
-**sthāpayitvā** (sthā-pay-i-tvā) "nachdem er aufgestellt hat" <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Das Absolutivum auf -ya tritt bei Kausativa mit Präverb in der Regel an Kausativstamm OHNE -aya-** <!-- TODO: Fallback translation -->
+示例：
+**sthāpayitvā** (sthā-pay-i-tvā) “在建立之后”
+:::
+::: grammar-box
+**带有前缀的使役动词的绝对分词通常以 -ya 结尾，且使役词干中不含 -aya-**
 
 Beispiele:
-**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "nachdem er aufgeweckt hat"
-**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "nachdem er heranführen gelassen hat, nachdem er bringen gelassen hat" <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Enthält jedoch die Wurzelsilbe des Kausativs ein kurzes -a- vor einem einzigen Konsonanten, tritt das -ya des Absolutivums an den Kausativstamm auf -ay- (ohne auslautendes a)** <!-- TODO: Fallback translation -->
+**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) „nachdem er aufgeweckt hat“
+**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) „nachdem er heranführen gelassen hat, nachdem er bringen gelassen hat“
+:::
+::: grammar-box
+**Enthält jedoch die Wurzelsilbe des Kausativs ein kurzes -a- vor einem einzigen Konsonanten, tritt das -ya des Absolutivums an den Kausativstamm auf -ay- (ohne auslautendes a)**
 
 Beispiel:
-**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "nachdem er kommen gelassen hat" <!-- TODO: Fallback translation -->
+**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) “nachdem er kommen gelassen hat”
 :::
 ---
 
-## 28.8. Bildung des Infinitivs (⟪तुमुन्⟫) zum Kausativ
+## 28.8. 使役动词不定式的构成（⟪तुमुन्⟫）
 
-:::grammar-box
-**Der Infinitiv zum Kausativ wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**使役不定式由使役词干以 -ay-（无词尾 a）构成：**
 
-**Kausativstamm auf -ay- + -i- + -tum** <!-- TODO: Fallback translation -->
+**使役词干以 -ay- + -i- + -tum 结尾**
 
 Beispiel:
-**jan** — **janayati** — **janayitum** (janay-i-tum) "um zu erzeugen" <!-- TODO: Fallback translation -->
+**jan** — **janayati** — **janayitum** (janay-i-tum) “um zu erzeugen”
 :::
 ---
 
 ## 28.9. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.)
 
-:::grammar-box
-**In gleicher Weise wie die Kausativa bilden das Präsens (und die anderen tempora) einige Wurzeln der 10. Präsensklasse, ohne Kausativa zu sein.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**在同样的方式下，第十类词根的现在时（以及其他时态）形成一些词根，而没有使役形式。**
 
-Beispiele: <!-- TODO: Fallback translation -->
-1.  Dehnstufige Wurzel + -aya- : **⟪कम्⟫** 10Ā **⟪कामयते⟫** "lieben" <!-- TODO: Fallback translation -->
-2.  Hochstufige Wurzel + -aya- : **cur** 10U **corayati** "stehlen"; Futur: **corayiṣyate**; Pass.: **coryate** <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Die Formen des Kausativs zu Verben der 10. Präsensklasse sind identisch mit den Formen des einfachen Verbs. Die Entscheidung darüber, ob ein Kausativ vorliegt, ist nur aus dem Sinn bzw. manchmal aus der Konstruktion möglich.** <!-- TODO: Fallback translation -->
+示例：
+1. 长音级词根 + -aya-：**⟪कम्⟫** 10Ā **⟪कामयते⟫** “爱”
+2. 强级词根 + -aya-：**cur** 10U **corayati** “偷窃”；将来时：**corayiṣyate**；被动语态：**coryate**
+:::
+::: grammar-box
+**第十类动词的使役形式与简单动词形式相同。判断是否存在使役意义，仅能依据语义，有时依据句法结构。**
 :::
 ---
 
 ## 28.10. Wortliste
 
-:::indent
-**⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: wissen, kennen
-Fut. **vediṣyati**
-Pass. **vidyate**
-Kaus. **vedayati**
-PPP **vidita**
-Inf. **vediṣyum**
-davon: **vidyā** f., **veda** m. <!-- TODO: Fallback translation -->
-::::::indent
-**⟪विद्⟫** 6U **⟪विन्दति⟫** (!): finden
-Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: es gibt, es ist vorhanden
-Kaus. **vedayati**
-PPP **vinna** / **vitta**
-Inf. **vediṣtum** / **vettum** <!-- TODO: Fallback translation -->
-::::::indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
-Kaus. **adhyāpayati**: studieren lassen, unterrichten
-davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen) <!-- TODO: Fallback translation -->
-::::::indent
-**⟪कम्⟫** 10Ā **⟪कामयते⟫**: lieben
-Fut. **kāmayiṣyate** / **kamiṣyate**
-Pass. **kāmyate**
-Kaus. **kāmayati**
-PPP **kānta** (!)
-Inf. **kāmayitum** / **kamitum** <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+**⟪विद्⟫** 第二人称 **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: 知道，认识
+将来时 **vediṣyati**
+被动语态 **vidyate**
+使役 **vedayati**
+过去分词 **vidita**
+不定式 **vediṣyum**
+派生词：**vidyā** 阴性，**veda** 阳性
+:::: indent
+**⟪विद्⟫** 第六类 **⟪विन्दति⟫**（注意）：找到
+将来时 **vediṣyati** / **vetsyat**
+被动语态 **vidyate**：存在，有
+使役 **vedayati**
+过去分词 **vinna** / **vitta**
+不定式 **vediṣtum** / **vettum**
+::::
+:::
+::: indent
+**i + adhi** 第二类 **adhīte**, **adhīyate**：学习，背诵
+使役 **adhyāpayati**：让学习，教导
+派生词：**adhyayana** 中性：学习（特指吠陀的学习）；**adhyāya** 阳性：课程，章节（用于背诵的部分）
+:::
+::: indent
+**⟪कम्⟫** 第十类 **⟪कामयते⟫**：爱
+将来时 **kāmayiṣyate** / **kamiṣyate**
+被动语态 **kāmyate**
+使役 **kāmayati**
+过去分词 **kānta**（注意）
+不定式 **kāmayitum** / **kamitum**
+:::
+::: media
 ![](/images/lekt2804.webp)
-Abb.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
-Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
-(Bildquelle: [Details](/licenses#lekt2804)) <!-- TODO: Fallback translation -->
-::::::indent
-**⟪चुर्⟫** 10 **⟪चोरयति⟫**: stehlen
-Fut. **corayiṣyati**
-Pass. **coryate**
-Kaus. **corayati**
-PPP **corita**
-Inf. **coritum** <!-- TODO: Fallback translation -->
-::::::indent
-**Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
-**dṛś** — **darśayati**: zeigen
-**man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
-**vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
-**vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen <!-- TODO: Fallback translation -->
-::::::media
+图：⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
+⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ 的画作（1848 - 1906）
+（图片来源：[详情](/zh-CN/licenses#lekt2804)）
+:::
+::: indent
+**⟪चुर्⟫** 第十类 **⟪चोरयति⟫**：偷窃
+将来时 **corayiṣyati**
+被动语态 **coryate**
+使役 **corayati**
+过去分词 **corita**
+不定式 **coritum**
+:::
+::: indent
+**请特别注意以下动词使役形式的含义：**
+**dṛś** — **darśayati**：展示
+**man** — **mānayati**：敬重，尊敬（但可能是派生自动词 **māna** “荣誉”）
+**vac** — **vācayati**：也指大声朗读（使文本发声）
+**vad** — **vādayati**：也指使乐器发声 = 演奏乐器
+:::
+::: media
 ![](/images/lekt2803.webp)
-Abb.: ⟪वीणां⟫ ⟪वादयति⟫
+图：⟪वीणां⟫ ⟪वादयति⟫
 Vīṇā-Spielerin.
-(Bildquelle: [Details](/licenses#lekt2803)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt2803)）
 :::
-**⟪भार⟫** m.: Last <!-- TODO: Fallback translation -->
+**⟪भार⟫** 阳性：负担
 
-:::media
+::: media
 ![](/images/lekt2805.webp)
-Abb.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
-Mädchen trägt Last. Bei Ahmedabad.
-(Bildquelle: [Details](/licenses#lekt2805)) <!-- TODO: Fallback translation -->
+图：⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
+女孩负重。位于艾哈迈达巴德。
+（图片来源：[详情](/zh-CN/licenses#lekt2805)）
 :::
-**⟪भृत्य⟫** m.: Untergebener, Diener <!-- TODO: Fallback translation -->
+**⟪भृत्य⟫** m.：下属，仆人
 
 ---
 
 ## 28.11. Übung
 
-**A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und geben Sie die Bedeutung an:** <!-- TODO: Fallback translation -->
+**A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und geben Sie die Bedeutung an:**
 
-**1. Mit hochstufiger Wurzel:** <!-- TODO: Fallback translation -->
-1. ⟪अर्हन्ति⟫ <!-- TODO: Fallback translation -->
-2. ⟪प्राप्य⟫ <!-- TODO: Fallback translation -->
-3. ⟪एषिष्यन्ति⟫ <!-- TODO: Fallback translation -->
-4. ⟪कुप्यति⟫ <!-- TODO: Fallback translation -->
-5. ⟪कर्क्ष्यति⟫ <!-- TODO: Fallback translation -->
-6. ⟪क्रुध्यन्ती⟫ <!-- TODO: Fallback translation -->
-7. ⟪चोर्यते⟫ <!-- TODO: Fallback translation -->
-8. ⟪गन्तुम्⟫ <!-- TODO: Fallback translation -->
-9. ⟪जातः⟫ <!-- TODO: Fallback translation -->
-10. ⟪देक्ष्यन्ति⟫ <!-- TODO: Fallback translation -->
-11. ⟪दोग्धि⟫ <!-- TODO: Fallback translation -->
-12. ⟪माद्यन्⟫ <!-- TODO: Fallback translation -->
-13. ⟪द्रक्ष्यति⟫ <!-- TODO: Fallback translation -->
-14. ⟪द्वेष्टि⟫ <!-- TODO: Fallback translation -->
-15. ⟪नर्तितुम्⟫ <!-- TODO: Fallback translation -->
-16. ⟪भोत्स्यन्ते⟫ <!-- TODO: Fallback translation -->
-17. ⟪मुञ्चन्ति⟫ <!-- TODO: Fallback translation -->
-18. ⟪पृच्छन्ति⟫ <!-- TODO: Fallback translation -->
-19. ⟪मुह्यति⟫ <!-- TODO: Fallback translation -->
-20. ⟪योत्स्यन्⟫ <!-- TODO: Fallback translation -->
-21. ⟪रक्ष्यते⟫ <!-- TODO: Fallback translation -->
-22. ⟪रोदिति⟫ <!-- TODO: Fallback translation -->
-23. ⟪लुब्धा⟫ <!-- TODO: Fallback translation -->
-24. ⟪प्रविश्य⟫ <!-- TODO: Fallback translation -->
-25. ⟪वर्तते⟫ <!-- TODO: Fallback translation -->
-26. ⟪सिक्त्वा⟫ <!-- TODO: Fallback translation -->
-27. ⟪स्रक्ष्यति⟫ <!-- TODO: Fallback translation -->
-28. ⟪लिम्पन्ति⟫ <!-- TODO: Fallback translation -->
-29. ⟪वृद्धाः⟫ <!-- TODO: Fallback translation -->
+**1. Mit hochstufiger Wurzel:**
+1. ⟪अर्हन्ति⟫
+2. ⟪प्राप्य⟫
+3. ⟪एषिष्यन्ति⟫
+4. ⟪कुप्यति⟫
+5. ⟪कर्क्ष्यति⟫
+6. ⟪क्रुध्यन्ती⟫
+7. ⟪चोर्यते⟫
+8. ⟪गन्तुम्⟫
+9. ⟪जातः⟫
+10. ⟪देक्ष्यन्ति⟫
+11. ⟪दोग्धि⟫
+12. ⟪माद्यन्⟫
+13. ⟪द्रक्ष्यति⟫
+14. ⟪द्वेष्टि⟫
+15. ⟪नर्तितुम्⟫
+16. ⟪भोत्स्यन्ते⟫
+17. ⟪मुञ्चन्ति⟫
+18. ⟪पृच्छन्ति⟫
+19. ⟪मुह्यति⟫
+20. ⟪योत्स्यन्⟫
+21. ⟪रक्ष्यते⟫
+22. ⟪रोदिति⟫
+23. ⟪लुब्धा⟫
+24. ⟪प्रविश्य⟫
+25. ⟪वर्तते⟫
+26. ⟪सिक्त्वा⟫
+27. ⟪स्रक्ष्यति⟫
+28. ⟪लिम्पन्ति⟫
+29. ⟪वृद्धाः⟫
 
-**2. Mit dehnstufiger Wurzel:** <!-- TODO: Fallback translation -->
-1. ⟪अत्ति⟫ <!-- TODO: Fallback translation -->
-2. ⟪अस्यन्ति⟫ <!-- TODO: Fallback translation -->
-3. ⟪एष्यति⟫ <!-- TODO: Fallback translation -->
-4. ⟪संस्कृतम्⟫ <!-- TODO: Fallback translation -->
-5. ⟪चरति⟫ <!-- TODO: Fallback translation -->
-6. ⟪तनोति⟫ <!-- TODO: Fallback translation -->
-7. ⟪खाद्यते⟫ <!-- TODO: Fallback translation -->
-8. ⟪धक्ष्यति⟫ <!-- TODO: Fallback translation -->
-9. ⟪उपानैष्यति⟫ <!-- TODO: Fallback translation -->
-10. ⟪पच्यते⟫ <!-- TODO: Fallback translation -->
-11. ⟪पतन्ति⟫ <!-- TODO: Fallback translation -->
-12. ⟪पत्स्यते⟫ <!-- TODO: Fallback translation -->
-13. ⟪भक्तः⟫ <!-- TODO: Fallback translation -->
-14. ⟪भवति⟫ <!-- TODO: Fallback translation -->
-15. ⟪मंस्यन्ते⟫ <!-- TODO: Fallback translation -->
-16. ⟪म्रियते⟫ <!-- TODO: Fallback translation -->
-17. ⟪इज्यते⟫ <!-- TODO: Fallback translation -->
-18. ⟪वक्ति⟫ <!-- TODO: Fallback translation -->
-19. ⟪प्रोद्य⟫ <!-- TODO: Fallback translation -->
-20. ⟪शृणोति⟫ <!-- TODO: Fallback translation -->
-21. ⟪सुन्वन्ति⟫ <!-- TODO: Fallback translation -->
-22. ⟪स्तौति⟫ <!-- TODO: Fallback translation -->
-23. ⟪विस्मृत्य⟫ <!-- TODO: Fallback translation -->
-24. ⟪उषितः⟫ <!-- TODO: Fallback translation -->
-25. ⟪वसिता⟫ <!-- TODO: Fallback translation -->
-26. ⟪अश्नुते⟫ <!-- TODO: Fallback translation -->
-27. ⟪आस्ते⟫ <!-- TODO: Fallback translation -->
-28. ⟪त्यक्ष्यता⟫ <!-- TODO: Fallback translation -->
-29. ⟪धृतेन⟫ <!-- TODO: Fallback translation -->
-30. ⟪म्रियन्ते⟫ <!-- TODO: Fallback translation -->
-31. ⟪यजतः⟫ <!-- TODO: Fallback translation -->
-32. ⟪उक्ते⟫ <!-- TODO: Fallback translation -->
-33. ⟪उद्यन्ते⟫ <!-- TODO: Fallback translation -->
-34. ⟪शक्नुवन्ति⟫ <!-- TODO: Fallback translation -->
-35. ⟪श्रोष्यन्तः⟫ <!-- TODO: Fallback translation -->
-36. ⟪सीदति⟫ <!-- TODO: Fallback translation -->
-37. ⟪सोढायाः⟫ <!-- TODO: Fallback translation -->
-38. ⟪हरन्ती⟫ <!-- TODO: Fallback translation -->
-39. ⟪ऊढया⟫ <!-- TODO: Fallback translation -->
+**2. 带有延长元音词根的：**
+1. ⟪अत्ति⟫
+2. ⟪अस्यन्ति⟫
+3. ⟪एष्यति⟫
+4. ⟪संस्कृतम्⟫
+5. ⟪चरति⟫
+6. ⟪तनोति⟫
+7. ⟪खाद्यते⟫
+8. ⟪धक्ष्यति⟫
+9. ⟪उपानैष्यति⟫
+10. ⟪पच्यते⟫
+11. ⟪पतन्ति⟫
+12. ⟪पत्स्यते⟫
+13. ⟪भक्तः⟫
+14. ⟪भवति⟫
+15. ⟪मंस्यन्ते⟫
+16. ⟪म्रियते⟫
+17. ⟪इज्यते⟫
+18. ⟪वक्ति⟫
+19. ⟪प्रोद्य⟫
+20. ⟪शृणोति⟫
+21. ⟪सुन्वन्ति⟫
+22. ⟪स्तौति⟫
+23. ⟪विस्मृत्य⟫
+24. ⟪उषितः⟫
+25. ⟪वसिता⟫
+26. ⟪अश्नुते⟫
+27. ⟪आस्ते⟫
+28. ⟪त्यक्ष्यता⟫
+29. ⟪धृतेन⟫
+30. ⟪म्रियन्ते⟫
+31. ⟪यजतः⟫
+32. ⟪उक्ते⟫
+33. ⟪उद्यन्ते⟫
+34. ⟪शक्नुवन्ति⟫
+35. ⟪श्रोष्यन्तः⟫
+36. ⟪सीदति⟫
+37. ⟪सोढायाः⟫
+38. ⟪हरन्ती⟫
+39. ⟪ऊढया⟫
 
-**3. Kausativ auf -⟪पय⟫** <!-- TODO: Fallback translation -->
-1. ⟪स्थित्वा⟫ <!-- TODO: Fallback translation -->
+**3. Kausativ auf -⟪पय⟫**
+1. ⟪स्थित्वा⟫
 
-**4. Beachten und lernen Sie besonders folgende Kausativbildungen** <!-- TODO: Fallback translation -->
-1. ⟪दुष्⟫ — ⟪दूषयति⟫ <!-- TODO: Fallback translation -->
-2. ⟪पा⟫ 1 ("trinken") — ⟪पाययति⟫ <!-- TODO: Fallback translation -->
-3. ⟪पा⟫ 2 ("schützen") — ⟪पालयति⟫ <!-- TODO: Fallback translation -->
-4. ⟪लभ्⟫ — ⟪लम्भयति⟫ <!-- TODO: Fallback translation -->
-5. ⟪हन्⟫ — ⟪घातयति⟫ <!-- TODO: Fallback translation -->
-6. ⟪जि⟫ — ⟪जापयति⟫ <!-- TODO: Fallback translation -->
-7. ⟪जीव्⟫ — ⟪जीवयति⟫ <!-- TODO: Fallback translation -->
+**4. 特别注意并学习以下使动形式**
+1. ⟪दुष्⟫ — ⟪दूषयति⟫
+2. ⟪पा⟫ 1（“饮用”）— ⟪पाययति⟫
+3. ⟪पा⟫ 2（“保护”）— ⟪पालयति⟫
+4. ⟪लभ्⟫ — ⟪लम्भयति⟫
+5. ⟪हन्⟫ — ⟪घातयति⟫
+6. ⟪जि⟫ — ⟪जापयति⟫
+7. ⟪जीव्⟫ — ⟪जीवयति⟫
 
-**B. Übersetzen Sie folgende Sätze, lösen Sie die Komposita in Sanskrit auf und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird:** <!-- TODO: Fallback translation -->
+**B. 翻译以下句子，解析其中的梵文复合词，并使用简单动词构造句子，表达由使役动词所表示的动作发生时会发生的情况：**
 
-Beispiel: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫ <!-- TODO: Fallback translation -->
+示例：⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫
 
 ⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫
 ⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫
@@ -476,13 +491,13 @@ Beispiel: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हार�
 ⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫
 ⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪।⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ ⟪पूजां⟫ ⟪कृत्वा⟫ ⟪क्षत्रियाया⟫ ⟪धनमेषिष्यति⟫ ⟪॥८॥⟫
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
-⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫ <!-- TODO: Fallback translation -->
+⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt2801:** Jadavpur University Management building. [Bildquelle: noii's Flickr, 2008-12-19, CC BY-SA]
-**lekt2802:** ISKCON Temple Bangalore. [Bildquelle: Ramki's reflections Flickr, 2008-12-19, CC BY-NC-ND]
-**lekt2803:** Vīṇā-Spielerin. [Bildquelle: Kelvin Kay / Wikipedia. GNU FDLicense]
-**lekt2804:** Kṛṣṇa und Rādhā. Gemälde von Rāja Ravi Varmā. [Bildquelle: Wikipedia. Public domain]
-**lekt2805:** Mädchen trägt Last. Bei Ahmedabad. [Bildquelle: m-bot. Flickr, 2008-12-20. CC BY-SA] <!-- TODO: Fallback translation -->
+**lekt2801:** 贾达夫普尔大学管理大楼。[图片来源：noii's Flickr，2008-12-19，CC BY-SA]
+**lekt2802:** 班加罗尔ISKCON寺庙。[图片来源：Ramki's reflections Flickr，2008-12-19，CC BY-NC-ND]
+**lekt2803:** 维纳琴演奏家。[图片来源：Kelvin Kay / 维基百科。GNU FDLicense]
+**lekt2804:** 克里希纳与拉达。拉贾·拉维·瓦尔马画作。[图片来源：维基百科。公有领域]
+**lekt2805:** 女孩负重。在艾哈迈达巴德附近。[图片来源：m-bot. Flickr，2008-12-20。CC BY-SA]
 :::

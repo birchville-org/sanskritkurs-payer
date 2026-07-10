@@ -138,8 +138,8 @@ C) Future optionally with and without **-i-**:
 
 ⟪३⟫. **⟪अश्नुवते⟫** (in the Future Parasmaipada) — ⟪अशिष्यन्ति⟫ / ⟪अक्ष्यन्ति⟫
 
-:::media
+::: media
 ![](/images/uebung043.webp)
 Fig.: ⟪अविपालो⟫ ⟪ऽविं⟫ ⟪रक्षति⟫
-(Image source: [Details](/en/licenses#uebung043))
+(Image source: [Details](/licenses#uebung043))
 :::

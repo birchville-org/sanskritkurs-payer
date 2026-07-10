@@ -7,12 +7,12 @@ outline: false
 
 El Índice Gramatical enumera todos los temas y fenómenos gramáticos del curso de sánscrito y permite un acceso rápido a lecciones específicas.
 
-&lt;!DOCTYPE html&gt;
-&lt;html lang="es"&gt;
-&lt;head&gt;
-    &lt;meta charset="UTF-8"&gt;
-    &lt;meta name="viewport" content="width=device-width, initial-scale=1.0"&gt;
-    &lt;title&gt;Índice de Temas del Pagador&lt;/title&gt;
+\<!DOCTYPE html\>
+\<html lang="es"\>
+\<head\>
+    \<meta charset="UTF-8"\>
+    \<meta name="viewport" content="width=device-width, initial-scale=1.0"\>
+    \<title\>Índice de Temas del Pagador\</title\>
     <style>
         body {
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -66,21 +66,21 @@ El Índice Gramatical enumera todos los temas y fenómenos gramáticos del curso
             margin-left: 10px;
         }
     </style>
-&lt;/head&gt;
-&lt;body&gt;
+\</head\>
+\<body\>
 
-&lt;div class="container"&gt;
-    &lt;h1&gt;Índice de Temas del Pagador&lt;/h1&gt;
-    &lt;p&gt;Bienvenido al panel de gestión de pagos. Seleccione un tema para ver los detalles.&lt;/p&gt;
+\<div class="container"\>
+    \<h1\>Índice de Temas del Pagador\</h1\>
+    \<p\>Bienvenido al panel de gestión de pagos. Seleccione un tema para ver los detalles.\</p\>
     
-    &lt;!-- Placeholder for dynamic content --&gt;
-    &lt;ul id="payerTopicsList"&gt;
-        &lt;!-- Items will be populated via JavaScript --&gt;
-        &lt;li&gt;Cargando temas...&lt;/li&gt;
-    &lt;/ul&gt;
-&lt;/div&gt;
+    \<!-- Placeholder for dynamic content -→
+    \<ul id="payerTopicsList"\>
+        \<!-- Items will be populated via JavaScript -→
+        \<li\>Cargando temas...\</li\>
+    \</ul\>
+\</div\>
 
-&lt;script&gt;
+\<script\>
     // Simulated data for demonstration purposes
     const payerTopics = [
         { id: 1, title: "Configuración de Métodos de Pago", status: "Activo" },
@@ -99,15 +99,15 @@ El Índice Gramatical enumera todos los temas y fenómenos gramáticos del curso
     payerTopics.forEach(topic => {
         const li = document.createElement('li');
         li.innerHTML = `
-            &lt;a href="#topic-${topic.id}"&gt;${topic.title}&lt;/a&gt;
-            &lt;span class="badge"&gt;${topic.status}&lt;/span&gt;
+            \<a href="#topic-${topic.id}"\>${topic.title}\</a\>
+            \<span class="badge"\>${topic.status}\</span\>
         `;
         listContainer.appendChild(li);
     });
-&lt;/script&gt;
+\</script\>
 
-&lt;/body&gt;
-&lt;/html&gt;
+\</body\>
+\</html\>
 
 <style>
 /* Ajustar diseño para índice de ancho completo */

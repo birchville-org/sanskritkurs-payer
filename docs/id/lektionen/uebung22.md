@@ -66,7 +66,7 @@ Even if he has never sacrificed, a person attains liberation solely through devo
 
 ⟪५⟫. **⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरो⟫ ⟪वक्ति⟫ ⟪॥५॥⟫**
 (⟪गृहस्य⟫ ⟪गर्भम्⟫ ⟪।⟫ ⟪ब्राह्मणस्य⟫ ⟪पुत्रम्⟫ ⟪।⟫ ⟪क्षत्रिय⟫ ⟪एव⟫ ⟪शूरः⟫)
-Der Kṣatriyaheld betritt das Innere des Hauses, stellte sich in ehrerbietiger Haltung vor den Sohn des Brahmanen und spricht.
+Pahlawan Kṣatriya memasuki bagian dalam rumah, berdiri dengan sikap hormat di depan putra Brahmana dan berbicara.
 
 ⟪६⟫. **⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫**
 (⟪दुःखमादिर्येषां⟫ ⟪तान्यार्याणि⟫ ⟪सत्यानि⟫ ⟪।⟫ ⟪सुष्टु⟫ ⟪गतः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪मार्गेण⟫)
@@ -87,7 +87,7 @@ The lion-like men have encountered the enemies who are not Āryas, and they achi
 ⟪१०⟫. **⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫**
 If he has done meritorious deeds and spoken only the truth, a person does not go to any hell.
 
-:::media
+::: media
 ![](/images/uebung034.jpg)
 Fig.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
 (Image source: [Details](/en/licenses#uebung034))

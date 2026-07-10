@@ -8,23 +8,23 @@ last_reconstructed: 2026-05-15
 
 # Exercise 12
 
-A) Form passive sentences in the past from the active sentences of [Lesson 7](lektion07.md), Exercise A, and for intransitive verbs and verbs of motion, form active sentences in the past.
+A) Form passive sentences in the past tense from the active sentences of [Lesson 7](lektion07.md), Exercise A, and for intransitive verbs and verbs of motion, form active sentences in the past tense.
 
 ⟪१⟫. ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इष्टः⟫ ⟪।⟫ ⟪देवीष्टा⟫ ⟪।⟫ ⟪विष्णुरिष्टः⟫ ⟪।⟫ ⟪ब्राह्मणेनाग्निरिष्टः⟫ ⟪।⟫ ⟪देवतेष्टा⟫ ⟪।⟫
 
 ⟪२⟫. The fruit was eaten by the teacher.
 ⟪गुरुणा⟫ ⟪फलं⟫ ⟪खादितम्⟫ ⟪।⟫
 
-⟪३⟫. The sage has gone to heaven.
+⟪३⟫. The virtuous one has gone to heaven.
 ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गतः⟫ ⟪।⟫
 
-⟪४⟫. The Shudra woman has gone to hell.
+⟪४⟫. The Śūdrā has gone to hell.
 ⟪शूद्रा⟫ ⟪नरकं⟫ ⟪गता⟫ ⟪।⟫
 
-⟪५⟫. The Shudra man was defeated ⟪॥⟫
+⟪५⟫. The Śūdra was defeated ⟪॥⟫
 ⟪शूद्रो⟫ ⟪जितः⟫ ⟪॥⟫
 
-B) Form the corresponding PPPs (Past Participle) for the verb forms of [Lesson 10](lektion10.md), Exercise A. Note that a form like sṛjati corresponds to PPPs in all three genders.
+B) Form the corresponding PPPs (Past Participle Passive) for the verb forms of [Lesson 10](lektion10.md), Exercise A. Note that a form like sṛjati corresponds to PPPs in all three genders.
 
 1. sṛjati ⟪सृजति⟫ : ⟪सृष्टः⟫ ⟪३⟫ (⟪सृष्टः⟫ ⟪।⟫ ⟪सृष्टा⟫ ⟪।⟫ ⟪सृष्टम्⟫)
 2. yudhyate ⟪युध्यते⟫ : ⟪युद्धः⟫ ⟪३⟫
@@ -49,15 +49,15 @@ B) Form the corresponding PPPs (Past Participle) for the verb forms of [Lesson 1
 21. pṛcchanti ⟪पृच्छन्ति⟫ : ⟪पृष्टाः⟫ ⟪३⟫
 22. tanvanti ⟪तन्वन्ति⟫ : ⟪तताः⟫ ⟪३⟫
 
-C) Put the sentences of [Lesson 10](lektion10.md), Exercise C, into the passive in the past.
+C) Put the sentences of [Lesson 10](lektion10.md), Exercise C, into the passive voice in the past tense.
 
-1\. The Brahmin worships the goddess. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
+1\. The Brāhmaṇa worships the goddess. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 ⟪ब्रामणेन⟫ ⟪देवीष्टा⟫ ⟪।⟫
 
-2\. The sage goes to heaven. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫
+2\. The virtuous one goes to heaven. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫
 ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गतः⟫ ⟪।⟫
 
-3\. He defeats the Shudra. ⟪शूद्रं⟫ ⟪जय⟫ti
+3\. He defeats the Śūdra. ⟪शूद्रं⟫ ⟪जय⟫ti
 ⟪शूद्रो⟫ ⟪जितः⟫ ⟪।⟫
 
 4\. The teacher eats the fruits. ⟪गुरुः⟫ ⟪फलानि⟫ ⟪खादति⟫
@@ -72,35 +72,35 @@ C) Put the sentences of [Lesson 10](lektion10.md), Exercise C, into the passive 
 7\. This poet remembers the mantra. ⟪अयं⟫ ⟪कविर्मन्त्रं⟫ ⟪स्मरति⟫
 ⟪अनेन⟫ ⟪कविना⟫ ⟪मन्त्रः⟫ ⟪स्मृतः⟫ ⟪।⟫
 
-8\. This goddess protects the Kshatriya. ⟪इयं⟫ ⟪देवी⟫ ⟪क्त्रिया⟫ ⟪रक्षति⟫
+8\. This goddess protects the Kṣatriyā. ⟪इयं⟫ ⟪देवी⟫ ⟪क्त्रिया⟫ ⟪रक्षति⟫
 ⟪अनया⟫ ⟪देव्या⟫ ⟪क्षत्रिया⟫ ⟪रक्षिताः⟫ ⟪।⟫
 
-9\. The Kshatriya women worship Vishnu. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 possibilities)
+9\. The Kṣatriyās worship Viṣṇu. ⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫ (2 possibilities)
 ⟪क्षत्रियैर्विष्णुरिष्टः⟫ ⟪।⟫ ⟪क्षत्रियाभिर्विष्णुरिष्टः⟫ ⟪।⟫
 
-10\. The Brahmin performs the fire ritual. ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
+10\. The Brāhmaṇa performs the fire ritual. ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
 ⟪ब्राह्मणेनाग्निः⟫ ⟪कृतः⟫ ⟪।⟫
 
-11\. The Vaishyas go to this village. ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫
+11\. The Vaiśyas go to this village. ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫
 ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गताः⟫ ⟪।⟫
 
-12\. These men hear the teachers. ⟪एते⟫ ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
+12\. These men listen to the teachers. ⟪एते⟫ ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
 ⟪एतैर्गुरवस्तु⟫ ⟪श्रुताः⟫ ⟪।⟫
 
-13\. The sage attains heaven. ⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫
+13\. The virtuous one attains heaven. ⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫
 ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्ताः⟫ ⟪।⟫
 
-14\. The Brahmins press the soma. ⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫
+14\. The Brāhmāṇās press the Soma. ⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫
 ⟪ब्राह्मणैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪।⟫
 
-15\. He obtains the cattle. ⟪पशूल्ंलभते⟫
+15. He obtains animals. ⟪पशूल्ंलभते⟫
 ⟪पशवो⟫ ⟪लब्धाः⟫ ⟪।⟫
 
-16\. Which warriors fight with the Kshatriyas? ⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫
+16. Which warriors fight together with the Kṣatriyas. ⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫
 ⟪कैर्योधैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युद्धम्⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung020.webp)
 Fig.: ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
-(Image source: [Details](/en/licenses#uebung020))
+(Image source: [Details](/licenses#uebung020))
 :::

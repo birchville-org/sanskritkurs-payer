@@ -58,7 +58,7 @@ Qui a la prospérité, celui-là a des parents,
 Qui a la prospérité, celui-là est dans le monde un homme,  
 Qui en effet a la prospérité, celui-là est un érudit.
 
-:::media
+::: media
 ![](/images/uebung029.webp)
 Légende : ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫
 (Source de l’image : [Détails](/fr/licenses#uebung029))

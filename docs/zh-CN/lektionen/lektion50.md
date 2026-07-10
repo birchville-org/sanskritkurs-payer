@@ -1,242 +1,249 @@
 ---
-title: Lektion 50
-subtitle: "Nominalbildung: regelmäßige Steigerung"
+title: 第50课
+subtitle: "名词构成：规则比较"
 lesson_id: 50
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 50
 
 ## 50.1. Nominalbildung: regelmäßige Steigerung
 
-:::grammar-box
-**Die regelmäßige Steigerung erfolgt im Sanskrit mit den ⟪तद्धित⟫-Suffixen** <!-- TODO: Fallback translation -->
-* **-⟪तर⟫ (fem.: ⟪तरा⟫) im "Komparativ"** <!-- TODO: Fallback translation -->
-* **⟪तम⟫ (fem.: ⟪तमा⟫) im "Superlativ"** <!-- TODO: Fallback translation -->
+::: grammar-box
+**梵语中的规则比较级通过 ⟪तद्धित⟫ 后缀构成**
+* **-⟪तर⟫（阴性：⟪तरा⟫）用于“比较级”**
+* **⟪तम⟫（阴性：⟪तमा⟫）用于“最高级”**
 
-**Diese Suffixe werden bei Adjektiven an den Maskulinstamm angefügt. Bei Nomina mit Stammabstufung werden sie an den schwachen Stamm angefügt, die die form hat wie vor der Endung -su des Lokativ (⟪पञ्चमी⟫) Plural.** <!-- TODO: Fallback translation -->
-::::::media
+**这些后缀附加于形容词的阳性词干。对于具有词干交替的名词，它们附加于弱词干，其形式与方位格复数后缀 -su 之前相同（⟪पञ्चमी⟫）。**
+:::: media
 ![](/images/lekt5007.webp)
-Abb.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
-⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
-(Bildquelle: [Details](/licenses#lekt5007)) <!-- TODO: Fallback translation -->
-:::::::grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
-
-**Der "Komparativ" bedeutet, wenn kein verglichener Gegenstand ausgedrückt wird: "ziemlich, sehr, zu":** <!-- TODO: Fallback translation -->
-
-:::indent
-z.B. ⟪सुचितर⟫ 3 "ziemlich rein", "sehr rein", "zu rein" <!-- TODO: Fallback translation -->
+图：⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
+⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = 珠穆朗玛峰
+（图片来源：[详情](/zh-CN/licenses#lekt5007)）
+::::
 :::
-**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Ablativ (⟪पञ्चमी⟫). Komparativ + Ablativ entspricht der Steigerung mit "als" im Deutschen.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**含义：**
 
-:::indent
-z.B. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = wörtl.: "von Devadatta aus gesehen ist Rāma einsichtiger" = "Rāma ist einsichtiger als Devadatta" <!-- TODO: Fallback translation -->
+**“比较级”在未表达被比较对象时，意为“相当、非常、过于”：**
+
 :::
-**Der "Superlativ" bedeutet, wen kein verglichener Gegenstand ausgedrückt wird: "äußerst, sehr":** <!-- TODO: Fallback translation -->
-
-:::indent
-z.B. ⟪सत्तम⟫ 3 (zu ⟪सन्त्⟫) "äußerst gut, sehr gut" <!-- TODO: Fallback translation -->
+::: indent
+例如 ⟪सुचितर⟫ 3 “相当纯净”，“非常纯净”，“过于纯净”
 :::
-**Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Genetiv (⟪षष्ठी⟫) ("von", "unter") und der Superlativ entspricht dem deutschen Superlativ (Höchststufe):** <!-- TODO: Fallback translation -->
+**如果表达被比较的对象，则该对象以夺格（⟪पञ्चमी⟫）出现。德语中，比较级加夺格相当于使用“作为”进行的程度变化。**
 
-:::indent
-z.B. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "der beste der Zweimalgeborenen" <!-- TODO: Fallback translation -->
+::: indent
+例如，⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = 字面意思：“从 Devadatta 的角度看，Rāma 更有见识” = “Rāma 比 Devadatta 更有见识”
 :::
-**Die Suffixe -⟪तर⟫ und -⟪तम⟫ können nicht nur an Adjektive treten, sondern auch an Substantive, Indeklinabilia und sogar Verbalformen:** <!-- TODO: Fallback translation -->
+**“最高级”表示未提及比较对象，意为“极其、非常”：**
 
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪गजतम⟫ m. "der beste Elefant" (⟪गज⟫) (auch Bezeichnung Buddhas) <!-- TODO: Fallback translation -->
-
-⟪गोतम⟫ m. "der größte Ochse" (⟪गो⟫) oder: "am reichsten an Rindern" <!-- TODO: Fallback translation -->
-
-⟪उद्⟫ Indekl. "auf", "hinauf" » ⟪उत्तर⟫ 3 "höherer" » ⟪उत्तम⟫ 3 "höchster" <!-- TODO: Fallback translation -->
+::: indent
+例如 ⟪सत्तम⟫ 3（关于 ⟪सन्त्⟫）“极好，非常好”
 :::
-**Treten diese Suffixe an eine Verbalform, so erscheinen sie stets in der adverbialen Form:** <!-- TODO: Fallback translation -->
+**如果表达被比较的对象，则该对象位于属格（⟪षष्ठी⟫）（“的”，“在……之下”），且最高级对应于德语的最高级（最高程度）：**
 
-* **-⟪तराम्⟫** <!-- TODO: Fallback translation -->
-* **-⟪तमाम्⟫** <!-- TODO: Fallback translation -->
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪पचतितराम्⟫ "er/sie/es kocht besser" <!-- TODO: Fallback translation -->
-
-⟪पचतितमाम्⟫ "er/sie/es kocht am besten" <!-- TODO: Fallback translation -->
+::: indent
+例如，⟪द्विजानां⟫ ⟪सत्तमः⟫ = “诸圣者中最胜者”
 :::
-**Diese Form haben diese Suffixe auch, wenn sie an ein Indeklinabile treten und das abgeleitete Wort adverbial gebraucht wird:** <!-- TODO: Fallback translation -->
+**后缀 -⟪तर⟫ 和 -⟪तम⟫ 不仅可附加于形容词，亦可附加于名词、不变词甚至动词形式：**
 
-:::indent
-z.B. ⟪सुतराम्⟫ (zu ⟪सु⟫) "auf bessere Weise" (adverbial) <!-- TODO: Fallback translation -->
-:::::::::media
+示例：
+
+::: indent
+⟪गजतम⟫ m. “最胜象”（⟪गज⟫）（亦为佛陀的称谓）
+
+⟪गोतम⟫ m. “最伟大的公牛”（⟪गो⟫）或：“拥有最多牛只者”
+
+⟪उद्⟫ 作独立词，意为“向”、“向上” » ⟪उत्तर⟫ 3 “较高的” » ⟪उत्तम⟫ 3 “最高的”
+:::
+**当这些后缀附加于动词形式时，它们始终以副词形式出现：**
+
+* **-⟪⟪तराम्⟫⟫**
+* **-⟪⟪तमाम्⟫⟫**
+
+示例：
+
+::: indent
+⟪पचतितराम्⟫ “er/sie/es kocht besser”
+
+⟪पचतितमाम्⟫ “他/她/它煮得最好”
+:::
+**当这些后缀附着于不可变词（indeclinable）且派生词被用作副词时，这些形式同样存在：**
+
+::: indent
+例如 ⟪सुतराम्⟫（关于 ⟪सु⟫）“以更好的方式”（副词用法）
+:::: media
 ![](/images/lekt5006.webp)
-Abb.: ⟪का⟫ ⟪पचतितमाम्⟫
-Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Bildquelle: [Details](/licenses#lekt5006)) <!-- TODO: Fallback translation -->
+图：⟪का⟫ ⟪पचतितमाम्⟫
+Lisu = 傈僳族，⟪अरुणाचल⟫ ⟪प्रदेश⟫
+（图片来源：[详细信息](/zh-CN/licenses#lekt5006)）
+::::
 :::
-## 50.2. Wortliste
+## 50.2. 词汇表
 
-⟪ध्रुव⟫ 3: fest, unveränderlich <!-- TODO: Fallback translation -->
+⟪ध्रुव⟫ 3：坚定，不可改变
 
-⟪निषेक⟫ m.: Besprengung, Befruchtung, Flüssigkeit, Ejakulat, Zeremonie bei der Zeugung <!-- TODO: Fallback translation -->
+⟪निषेक⟫ m.: 洒水，受精，液体，精液，授精仪式
 
-⟪पण्डित⟫ 3: klug, weise, gelehrt <!-- TODO: Fallback translation -->
+⟪पण्डित⟫ 3: 聪明，智慧，博学
 
-⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ : missachten, verachten <!-- TODO: Fallback translation -->
+⟪मन्⟫ + ⟪अव⟫ 4Ā ⟪अवमन्यते⟫ ：轻视，蔑视
 
-⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister <!-- TODO: Fallback translation -->
+⟪मन्त्रिन्⟫ 3：有指导意义的；阳性：顾问、市议员、部长
 
-:::media
+::: media
 ![](/images/lekt5001.jpg)
-Abb.: ⟪मन्त्री⟫
-Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
-(Bildquelle: [Details](/licenses#lekt5001)) <!-- TODO: Fallback translation -->
+图：⟪मन्त्री⟫
+卡皮尔·西巴尔（1948年－），自2006年起担任科学与信息技术部及地球科学部部长（联邦部长）
+（图片来源：[详情](/zh-CN/licenses#lekt5001)）
 :::
-⟪रहस्⟫ n.: Geheimnis, Einsamkeit <!-- TODO: Fallback translation -->
+⟪रहस्⟫ n.：秘密，孤独
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen <!-- TODO: Fallback translation -->
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : 受损，失败，损坏
 
-:::indent
-Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
-Fut. ⟪रेषिष्यति⟫
-Pass. ⟪रिष्यते⟫
-Kaus. ⟪रेषयति⟫
-PPP ⟪रिष्ट⟫ <!-- TODO: Fallback translation -->
+::: indent
+ Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
+ Fut. ⟪रेषिष्यति⟫
+ Pass. ⟪रिष्यते⟫
+ Kaus. ⟪रेषयति⟫
+ PPP ⟪रिष्ट⟫
+ :::
+ **⟪लुप्⟫ 6U *⟪लुम्प⟫*⟪ति⟫** : 破裂，破坏
+
 :::
-**⟪लुप्⟫ 6U *⟪लुम्प⟫*⟪ति⟫** : brechen, zerstören <!-- TODO: Fallback translation -->
-
-:::indent
-Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
-Fut. ⟪लोप्स्यति⟫
-Pass. ⟪लुप्यते⟫
-Kaus. ⟪लोपयति⟫
-PPP ⟪लुप्त⟫
-Inf. ⟪लोप्तुम्⟫
-Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫ <!-- TODO: Fallback translation -->
+::: indent
+完成时 II ⟪लुलोप⟫, ⟪लुलुपे⟫
+将来时 ⟪लोप्स्यति⟫
+被动语态 ⟪लुप्यते⟫
+使役语态 ⟪लोपयति⟫
+过去分词（PPP） ⟪लुप्त⟫
+不定式 ⟪लोप्तुम्⟫
+未来被动分词（Gerundiv） ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
 :::
-⟪विधि⟫ m.: auch: Schicksal (zu ⟪विधा⟫) <!-- TODO: Fallback translation -->
+⟪विधि⟫ 阳性名词：亦指：命运（源出 ⟪विधा⟫）
 
-⟪वृष्⟫ 1P ⟪वर्षति⟫ : regnen (meist mit einem ⟪कर्तृ⟫ -- einem Gott oder einer Wolke) <!-- TODO: Fallback translation -->
+⟪वृष्⟫ 1P ⟪वर्षति⟫ : 下雨（通常与⟪कर्तृ⟫——一位神或云——一起）
 
-:::indent
-Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
-Fut. ⟪वर्षिष्यति⟫
-Pass. ⟪वृष्यते⟫
-Kaus. ⟪वर्षयति⟫
-PPP ⟪वृष्ट⟫
-Inf. ⟪वर्षितुम्⟫
-Absol. ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
-Absol.-⟪वृष्य⟫ <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+完成时 II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
+将来时 ⟪वर्षिष्यति⟫
+被动语态 ⟪वृष्यते⟫
+使役 ⟪वर्षयति⟫
+过去被动分词 (PPP) ⟪वृष्ट⟫
+不定式 ⟪वर्षितुम्⟫
+绝对语 ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
+绝对语-⟪वृष्य⟫
+:::: media
 ![](/images/lekt5002.jpg)
-Abb.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
-Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5002)) <!-- TODO: Fallback translation -->
+图：⟪महामेघो⟫ ⟪वर्षिष्यति⟫
+季风到来，班加罗尔  ಬೆಂಗಳೂರು
+（图片来源：[详情](/zh-CN/licenses#lekt5002)）
+::::
 :::
-⟪संयक्⟫ Adv.: richtig, wahrhaft, auf die gehörige Weise ; durchaus, vollständig <!-- TODO: Fallback translation -->
+⟪संयक्⟫ 副词：正确，真实，以适当的方式；完全地，彻底地
 
-⟪आदित्य⟫ m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse <!-- TODO: Fallback translation -->
+⟪आदित्य⟫ m.: 太阳；复数：[Āditya](http://en.wikipedia.org/wiki/Aditya)：一类特定的神祇
 
-:::media
+::: media
 ![](/images/lekt5005.jpg)
 Abb.: ⟪आदित्यः⟫
-(Bildquelle: [Details](/licenses#lekt5005)) <!-- TODO: Fallback translation -->
+(图片来源：[详细信息](/zh-CN/licenses#lekt5005))
 :::
-⟪सर्व⟫ 3: jeder, alle <!-- TODO: Fallback translation -->
+⟪सर्व⟫ 3: 每个，所有
 
-Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum) <!-- TODO: Fallback translation -->
+变位同 ⟪यद्⟫（例外：主格/宾格单数中性）
 
-:::grammar-box
-| | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || || <!-- TODO: Fallback translation -->
-| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ | <!-- TODO: Fallback translation -->
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ | <!-- TODO: Fallback translation -->
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ | <!-- TODO: Fallback translation -->
-| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ | <!-- TODO: Fallback translation -->
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | 单数:br⟪एकवचनम्⟫ || || 复数:br⟪बहुवचनम्⟫ || ||
+| | **阳性:br⟪पुंस्⟫** | **中性:br⟪नपुंसकम्⟫** | **阴性:br⟪स्त्री⟫** | **阳性:br⟪पुंस्⟫** | **中性:br⟪नपुंसकम्⟫** | **阴性:br⟪स्त्री⟫** |
+| :---: | :---: | :---: | :---: | :---: | :---: | :---: |
+| **1. 主格:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. 宾格:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **3. 工具格:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
+| **4. 与格:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **5. 离格:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **6. 属格:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
+| **7. 位格:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
 :::
-⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber <!-- TODO: Fallback translation -->
+⟪वै⟫ : 助词，用于强调前面的词：确实，的确，但是
 
-⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫ <!-- TODO: Fallback translation -->
+⟪इह⟫ 副词：这里，在此世间，到这里；现在。在位于格名词（⟪षष्ठी⟫）前时，与⟪अस्मिन्⟫、⟪अस्याम्⟫同义。
 
-⟪कल्प⟫ m: Satzung, Brauch, Ritual ; [Weltperiode](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (zu ⟪कॢप्⟫) <!-- TODO: Fallback translation -->
+⟪कल्प⟫ m: 法规，习俗，仪式；[世界周期](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\))（对应 ⟪कॢप्⟫）
 
-⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :schön <!-- TODO: Fallback translation -->
+⟪कल्याण⟫ 3（阴性：⟪कल्याणी⟫）：美丽
 
-:::media
+::: media
 ![](/images/lekt5003.webp)
-Abb.: ⟪कल्याणी⟫
-(Bildquelle: [Details](/licenses#lekt5003)) <!-- TODO: Fallback translation -->
+图：⟪कल्याणी⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5003)）
 :::
-⟪कु⟫- : als Vorderglied von Komposita: schlecht <!-- TODO: Fallback translation -->
+⟪कु⟫-：作为复合词的前半部分：不好
 
-:::media
+::: media
 ![](/images/lekt5004.webp)
-Abb.: ⟪कुनगरम्⟫
-⟪धारावी⟫, ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5004)) <!-- TODO: Fallback translation -->
+图：⟪कुनगरम्⟫
+⟪धारावी⟫，⟪मुंबई⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5004)）
 :::
-⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : sehen <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ ：看
 
-:::indent
-Perf. ⟪चचक्षे⟫
-in den übrigen Tempora nicht verwendet <!-- TODO: Fallback translation -->
+::: indent
+完成时 ⟪चचक्षे⟫
+在其他时态中不使用
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : erzählen, halten für, nennen <!-- TODO: Fallback translation -->
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ ：讲述，认为是，称呼
 
-⟪देश⟫ m.: Ort, Platz, Land, Gegend <!-- TODO: Fallback translation -->
+⟪देश⟫ m.: 地点，位置，土地，地区
 
 ## 50.3. Übersetzungsübung
 
-A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsformen im Singular zu ⟪गुरु⟫ m.: <!-- TODO: Fallback translation -->
+A) 复习变位：以下偈颂包含⟪गुरु⟫（阳性）单数形式的全部变位：
 
-:::indent
+::: indent
 ⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫
 ⟪गुरुणैव⟫ ⟪सहास्मि⟫ ⟪नमो⟫ ⟪गुरवे⟫ ⟪।⟫
 ⟪न⟫ ⟪गुरोः⟫ ⟪परमं⟫ ⟪शिशुरस्मि⟫ ⟪गुरोर्⟫
-⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
-::::::media
+⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫
+:::: media
 ![](/images/lekt5008.webp)
-Abb.: ⟪गुरुमेव⟫ ⟪भजे⟫
-Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt
-(Bildquelle: [Details](/licenses#lekt5008)) <!-- TODO: Fallback translation -->
+图：⟪गुरुमेव⟫ ⟪भजे⟫
+甘尼什普里，距离孟买（⟪मुंबई⟫）80公里
+（图片来源：[详情](/zh-CN/licenses#lekt5008)）
+::::
 :::
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B）翻译：
 
-⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫ <!-- TODO: Fallback translation -->
+⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫
 
-:::indent
+::: indent
 ⟪येनास्य⟫ ⟪पितरो⟫ ⟪याता⟫
 ⟪येन⟫ ⟪याताः⟫ ⟪पितामहाः⟫ ⟪।⟫
 ⟪तेन⟫ ⟪यायात्सतां⟫ ⟪मार्गम्⟫
-⟪तेन⟫ ⟪गच्छन्न⟫ ⟪रिष्यते⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪तेन⟫ ⟪गच्छन्न⟫ ⟪रिष्यते⟫ ⟪॥१॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫ <!-- TODO: Fallback translation -->
+⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
 
-:::indent
+::: indent
 ⟪कुविवाहैः⟫ ⟪क्रियालोपैर्⟫
 ⟪वेदानध्ययनेन⟫ ⟪च⟫ ⟪।⟫
 ⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫
-⟪ब्राह्मणातिक्रमेण⟫ ⟪च⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪ब्राह्मणातिक्रमेण⟫ ⟪च⟫ ⟪॥२॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫ <!-- TODO: Fallback translation -->
+⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
 
-:::indent
+::: indent
 ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫
 ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫
 ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫
-⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥३॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers <!-- TODO: Fallback translation -->
+⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫：论祭祀的必要性
 
-:::indent
+::: indent
 ⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫
 ⟪दैवे⟫ ⟪चैवेह⟫ ⟪कर्मणि⟫ ⟪।⟫
 ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫
@@ -244,61 +251,62 @@ B) Übersetzen Sie: <!-- TODO: Fallback translation -->
 ⟪अग्नौ⟫ ⟪प्रास्ताहुतिः⟫ ⟪सम्यग्⟫
 ⟪आदित्यमुपतिष्ठते⟫ ⟪।⟫
 ⟪आदित्याज्जायते⟫ ⟪वृष्टिर्⟫
-⟪वृष्टेरन्नं⟫ ⟪ततः⟫ ⟪प्रजाः⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪वृष्टेरन्नं⟫ ⟪ततः⟫ ⟪प्रजाः⟫ ⟪॥५॥⟫
 :::
-⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫ <!-- TODO: Fallback translation -->
+⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
 
-:::indent
+::: indent
 ⟪हेयं⟫ ⟪दुःखमनागतम्⟫ ⟪॥६॥⟫
-***⟪द्रष्टृदृश्ययोः⟫*** ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+***⟪द्रष्टृदृश्ययोः⟫*** ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
 
-Erklärung:
-⟪द्रष्टृदृश्ययोः⟫ : Gen.Lok.m.n.f.Dual (Dualdvandva) <!-- TODO: Fallback translation -->
+解释：
+⟪द्रष्टृदृश्ययोः⟫：属格/方位格/中性/阴性/双数（双数复合词）
 :::
-⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs <!-- TODO: Fallback translation -->
+⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫，⟪१५⟫：关于国王的顾问
 
-:::indent
+::: indent
 ⟪न⟫ ⟪किंचिदवमन्येत⟫
 ⟪सर्वस्य⟫ ⟪शृणुयानमतम्⟫ ⟪।⟫
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫
-⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥८॥⟫
 :::
-⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition von ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫ <!-- TODO: Fallback translation -->
+⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: ⟪आचार्य⟫、⟪उपाध्याय⟫、⟪गुरु⟫ 的定义
 
-:::indent
+::: indent
 ⟪उपनीय⟫ ⟪तु⟫ ⟪यः⟫ ⟪शिष्यं⟫
 ⟪वेदमधापयेत्द्द्विजः⟫ ⟪।⟫
 ⟪सकल्पं⟫ ⟪सरहस्यं⟫ ⟪च⟫
-⟪तमाचार्यां⟫ ⟪प्रचक्षते⟫ ⟪॥९॥⟫ <!-- TODO: Fallback translation -->
+⟪तमाचार्यां⟫ ⟪प्रचक्षते⟫ ⟪॥९॥⟫
 
 ⟪एकदेशं⟫ ⟪तु⟫ ⟪वेदस्य⟫
 ⟪वेदाङ्गान्यपि⟫ ⟪वा⟫ ⟪पुनः⟫ ⟪।⟫
 ⟪यो⟫ ⟪ऽध्यापयति⟫ ⟪वृत्त्यर्थम्⟫
-⟪उपाध्यायः⟫ ⟪स⟫ ⟪उच्यते⟫ ⟪॥१०॥⟫ <!-- TODO: Fallback translation -->
+⟪उपाध्यायः⟫ ⟪स⟫ ⟪उच्यते⟫ ⟪॥१०॥⟫
 
 ⟪निषेका⟫***⟪दीनि⟫*** ⟪कर्माणि⟫
 ⟪यः⟫ ⟪करोति⟫ ⟪यथाविधि⟫ ⟪।⟫
 ⟪संभावयति⟫ ⟪चान्नेन⟫
-⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥११॥⟫ <!-- TODO: Fallback translation -->
+⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥११॥⟫
 
 Erklärungen:
-⟪निषेकादीनि⟫ : Nom.Akk.pl.Neutrum <!-- TODO: Fallback translation -->
-::::::deleteme-box
+⟪निषेकादीनि⟫ : Nom.Akk.pl.Neutrum
+:::
+::: deleteme-box
 
-**lekt5007:** Abb.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Bildquelle: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5007:** Abb.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Bildquelle: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)]
 
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Bildquelle: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5006:** 傈僳族 = Lisu, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [图片来源：parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/)。-- 访问日期：2009-01-12。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 
-**lekt5001:** Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006) [Bildquelle: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5001:** Kapil Sibal（1948年—），自2006年起担任科学与信息技术部及地球科学部联邦部长【图片来源：世界经济论坛。——[http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/)。——访问日期：2009-01-12。——[知识共享许可协议](http://creativecommons.org/licenses/by-sa/2.0/deed.de)（署名，相同方式共享）】
 
-**lekt5002:** Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು [Bildquelle: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5002:** 季风抵达，班加罗尔  ಬೆಂಗಳೂರು [图片来源：vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- 访问日期：2009-01-12. -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 
-**lekt5005:** [Bildquelle: sunder\_iyer. -- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5005：**[图片来源：sunder\_iyer。-- [http://www.flickr.com/photos/sunder\_iyer/2225272284/](http://www.flickr.com/photos/sunder_iyer/2225272284/)。-- 访问日期：2009-01-12。-- [知识共享许可协议](http://creativecommons.org/licenses/by-sa/2.0/deed.de)（署名，相同方式共享）]
 
-**lekt5003:** [Bildquelle: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5003:** [图片来源：dhyanji。-- [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/)。-- 访问日期：2009-01-12。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [Bildquelle: Kounosu / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [图片来源：Kounosu / 维基百科。GNU FDLicense]
 
-**lekt5008:** Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt [Bildquelle: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5008:** Ganeshpuri，距离孟买80公里（⟪मुंबई⟫）[图片来源：Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/)。 -- 访问日期：2009-01-13。 -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
 
 :::

@@ -7,7 +7,7 @@ lesson_id: 18
 
 ## 18.1. ⟪सुभाषितम्⟫
 
-:::indent
+::: indent
 ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
 ⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
@@ -22,14 +22,14 @@ Ca element anterior (nedeclinabil) adverbial pot fi utilizate
 *   particule
 *   alte indeclinabile
 
-:::indent
+::: indent
 să fie utilizate. Astfel de Tatpuruṣa aparțin de obicei clasei Nityasamāsa = ⟪नित्यसमास⟫ (m. „compus constant”), adică a compuselor care nu pot fi deloc sau nu pot fi decât parțial rezolvate exclusiv prin intermediul cuvintelor prezente în compusul însuși.
 :::
 Exemple:
 
 ⟪अति⟫ „în plus”:
 
-:::indent
+::: indent
 ⟪अतिगुरु⟫ 3: extrem de greu, extrem de important
 
 ⟪अतिपुरुष⟫ m.: om desăvârșit, Superman, erou
@@ -44,7 +44,7 @@ Cele mai importante elemente adverbiale anterioare sunt a-/an-, su-, dus-.
 
 Exemple:
 
-:::indent
+::: indent
 ⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): minciună, falsitate
 
 ⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: neted, netrecut
@@ -57,7 +57,7 @@ Exemple:
 
 Exemple:
 
-:::indent
+::: indent
 ⟪सुकवि⟫ m.: un poet bun
 
 ⟪सुकृत⟫ n.: faptă bună
@@ -70,14 +70,14 @@ Exemple:
 
 Exemple:
 
-:::indent
+::: indent
 ⟪दुर्नय⟫ m.: conducere proastă, comportament necinstit
 
 ⟪दुष्करण⟫ n.: faptă rea, faptă dificilă
 :::
 Se aplică următoarea regulă:
 
-::::grammar-box
+::: grammar-box
 
 Modificarea fonetică a lui -s în compuse
 
@@ -87,16 +87,17 @@ Modificarea fonetică a lui -s în compuse
 
 Prin urmare: ⟪दुष्करण⟫
 
-::::
+:::
 ### 18.2.1. Compuse de tipul ⟪सुकर⟫ / ⟪दुष्कर⟫
 
-::::grammar-box
+::: grammar-box
 
 Compusele de tipul ⟪सुकर⟫ / ⟪दुष्कर⟫ au în principal sensul posibilității pasive:
 
 Exemple:
 
-:::indent
+:::
+::: indent
 ⟪सुकर⟫ 3: ușor de făcut
 
 ⟪सुगम⟫ 3: ușor de mers
@@ -104,7 +105,7 @@ Exemple:
 ⟪दुर्गम⟫ 3: greu de mers
 
 ⟪सुदुर्गम⟫ 3: foarte greu de mers
-:::::::
+:::
 ### 18.2.2. Semantici ai Tatpuruṣa cu a- / an-
 
 Tatpuruṣa cu a- / an- pot avea următoarele semnificații:
@@ -124,7 +125,7 @@ Tatpuruṣa cu a- / an- pot avea următoarele semnificații:
 
 Următorul verset rezumă aceste semnificații:
 
-:::indent
+::: indent
 ⟪तत्सादृश्यमभावश्च⟫  
 ⟪तदन्यत्वं⟫ ⟪तदल्पता⟫ ⟪।⟫  
 ⟪अप्राशास्त्यं⟫ ⟪निरोधश्च⟫  
@@ -134,9 +135,7 @@ Se numesc șase semnificații ale nañ (= a-/an-) ....
 :::
 ## 18.3. Compuși verbalici
 
-::::grammar-box
-
-:::indent
+::: indent
 ⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
 ⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
 ⟪गङ्गासलिलमाधुर्यं⟫  
@@ -146,18 +145,18 @@ Se numesc șase semnificații ale nañ (= a-/an-) ....
 
 Un prefix modifică violent sensul unei rădăcini, la fel cum apa dulce a Gangei este modificată de apa mării.
 
-::::::::grammar-box
+::: grammar-box
 
 În sanscrită, verbele pot fi combinate cu prefixe (⟪उपसर्ग⟫ m.). În general, se aplică sandhi-ul de propoziție. Prefixele pot modifica semnificativ sensul rădăcinii, astfel încât, în multe cazuri, sensul unui verb cu prefix trebuie învățat separat. Verbele cu prefix pot avea un mod diferit (P, Ā) față de rădăcina simplă. Mai multe prefixe pot fi plasate simultan înainte de o rădăcină.
 
-::::
+:::
 Unele prefixe importante sunt:
 
 ⟪उप⟫ "către, spre, împotriva"
 
 Exemple:
 
-:::indent
+::: indent
 ⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : a merge, a se apropia
 
 ⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : a indica, a învăța, a sfătui
@@ -172,7 +171,7 @@ Exemple:
 
 Exemple:
 
-:::indent
+::: indent
 ⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : a obține
 
 ⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : a arăta
@@ -191,7 +190,7 @@ Exemple:
 
 Exemple:
 
-:::indent
+::: indent
 ⟪विगम्⟫ 1 ⟪विगच्छति⟫ : a se despărți, a trece, a dispărea
 
 ⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : a învinge
@@ -208,7 +207,7 @@ Exemple:
 
 Exemple:
 
-:::indent
+::: indent
 ⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : a sta împreună, a locui, a rezida
 
 ⟪समि⟫ 2 ⟪समेति⟫ : a se aduna, a se uni
@@ -224,30 +223,31 @@ Exemple:
 ⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : a fi acordat cuiva, a reuși
 
 *   PPP ⟪सम्पन्न⟫ 3: dotat cu (Instrumental)
-:::::::grammar-box
+:::
+::: grammar-box
 
 Rădăcina ⟪कृ⟫ "a face" arată, în combinație cu prefixele ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫, și forma ⟪स्कृ⟫
 
-::::
+:::
 Exemplu:
 
-:::indent
+::: indent
 sam-kṛ 8 ⟪संस्करोति⟫ : a pregăti, a pregăti pentru jertfă, a consacra
 
 *   PPP ⟪संस्कृत⟫ 3: pregătit pentru jertfă ; ⟪संस्कृत⟫ n.: sanscrită: limba potrivită pentru jertfă ; opus ⟪प्राकृत⟫ 3: obișnuit, vulgar ; ⟪प्राकृत⟫ n.: limbă obișnuită, Prakrit (denumire pentru limbile vorbite și de circulație, înrudite cu sanscrita)
 :::
 ### 18.3.1. Formarea substantivelor din compusele verbale
 
-::::grammar-box
+::: grammar-box
 
 Din rădăcini cu preverb, se pot forma substantive prin intermediul sufixelor kṛt.
 
-::::
+:::
 Exemple:
 
 sam-kṛ + -a = ⟪संस्कार⟫ m.: inițiere, preparare; Ritualuri de tranziție = denumire pentru ceremoniile care însoțesc diferitele etape ale vieții, de la concepție până la moarte (a se vedea rezumatul excelent de Basham, Wonder pp. 160 - 170!)
 
-:::media
+::: media
 ![](/images/lekt1804.webp)
 Fig.: ⟪विवाहः⟫
 Nuntă = ⟪विवाह⟫ m., un important ⟪संस्कारः⟫
@@ -255,12 +255,12 @@ Nuntă = ⟪विवाह⟫ m., un important ⟪संस्कारः⟫
 :::
 upa-nī + -ana = ⟪उपनयन⟫ n.: aducerea (la focul de jertfă) = ceremonie în care membrilor masculini ai celor trei caste superioare li se atașează coarda sacră (⟪यज्ञोपवीत⟫ n.) și li se șoptește în ureche versul sacru ⟪सावित्री⟫, pe care ei îl vor recita zilnic la răsăritul și apusul soarelui. Pentru brahmani, Ṛgveda III.62.10:
 
-:::indent
+::: indent
 „Să primim strălucirea excelentă a zeului 'Stimulent', care să ne pună gândurile în mișcare.”
 :::
 Prin Upanayana are loc a doua naștere, de aceea: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
 
-:::media
+::: media
 ![](/images/lekt1801.webp)
 Fig.: ⟪उपनयनम्⟫
 „Se vede un tânăr băiat în timpul ritualului upanayana. Firul galben, subțire, care trece de la umărul stâng la talie este Yagnopaivta. De asemenea, se observă brățara de iarbă munja de la talie. Crenguța din mâna dreaptă (de obicei din copacul peepa) semnifică intrarea sa în Brahmacharya.”
@@ -394,7 +394,7 @@ A) Rezolvați următoarele compuse în sanscrită și oferiți propuneri de trad
 
 ⟪९⟫. ⟪कुलोपदेश⟫ m.
 
-:::media
+::: media
 ![](/images/lekt1802.webp)
 Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Imprimat
@@ -414,7 +414,7 @@ B) Traduceți folosind verbe din clasa a II-a de prezent:
 
 6\. Așa vorbește cel care [a parcurs bine calea renașterilor] către ucenic.
 
-:::media
+::: media
 ![](/images/lekt1803.webp)
 Fig.: ⟪सुगतः⟫
 ⟪गन्धार⟫ Sec. I/II d.Hr.
@@ -426,7 +426,7 @@ D) Traduceți:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt1801:** "Se vede un băiat tânăr în timpul ritualului upanayana. Firul galben, subțire, care trece de la umărul stâng la talie este Yagnopaivta. De asemenea, observați centura de iarbă munja de la talie. Crenguța din mâna dreaptă (de obicei din copacul peepa) semnifică intrarea sa în Brahmacharya." [Sursa imaginii: Nagesh Rao / Wikipedia, Licență GNU FDL]
 

@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 10
 
-A) Form the passive for the following verb forms (with translation of the verb form), i.e. the passive that corresponds to the verb form in person and number:
+A) Form the passive for the following verb forms (with translation of the verb form), i.e., the passive that corresponds to the verb form in person and number:
 
 1. sṛjati ⟪सृजति⟫ : sṛjyate ⟪सृज्यते⟫
 2. yudhyate ⟪युध्यते⟫ : yudhyate ⟪युध्यते⟫
@@ -111,7 +111,7 @@ etair guravas tu śrūyante.
 
 ⟪एतैर्गुरवस्तु⟫ ⟪श्रूयन्ते⟫ ⟪।⟫
 
-They listen to their masters, however.
+But they obey their masters.
 
 13\. sādhuḥ svargamāpnoti. ⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫
 
@@ -119,7 +119,7 @@ sādhunā svarga āpyate.
 
 ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫
 
-A saint attains heaven.
+A holy person attains heaven.
 
 14\. brāhmāṇāḥ somaṃ sunvanti. ⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫
 
@@ -127,7 +127,7 @@ brāhmaṇaiḥ somaḥ sūyate.
 
 ⟪ब्राह्मणैः⟫ ⟪सोमः⟫ ⟪सूयते⟫ ⟪।⟫
 
-Brahmanen pressen Soma.
+Brahmins press Soma.
 
 15\. paśūṃllabhate. ⟪पशूल्ंलभते⟫
 
@@ -135,7 +135,7 @@ paśavo labhyante.
 
 ⟪पशवो⟫ ⟪लभ्यन्ते⟫ ⟪।⟫
 
-One obtains livestock.
+One obtains domestic animals.
 
 16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. ⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫
 
@@ -147,7 +147,7 @@ Which soldiers fight (together) with the Kṣatriyas?
 
 D) Translate into Sanskrit:
 
-1\. A Brahman goes to the village with a Vaiśya.
+1\. A Brahmin goes to the village with a Vaiśya.
 
 brāhmano vaiśyena saha grāmaṃ gacchati.
 
@@ -171,7 +171,7 @@ tantraṃ tanyate / tāyate / tanvanti.
 
 ⟪तन्त्रं⟫ ⟪तन्यते⟫ / ⟪तायते⟫ / ⟪तन्वन्ति⟫ ⟪।⟫
 
-5\. Teachers ask. (Passive construction)
+5\. Teachers ask questions. (Passive construction)
 
 gurubhiḥ pṛcchyate.
 
@@ -207,16 +207,16 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 
 ⟪दानेन⟫ ⟪श्रावकः⟫ ⟪स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung011.webp)
 Fig.: ⟪ग्रामः⟫
-(Image source: [Details](/en/licenses#uebung011))
+(Image source: [Details](/licenses#uebung011))
 :::
 ---
 
 ## Reading Exercise
 
-Read and translate, and convert into the passive:
+Read and translate, and put into the passive:
 
 **⟪क⟫**
 
@@ -231,14 +231,14 @@ Read and translate, and convert into the passive:
 > ⟪नीचैः⟫ ⟪कलह⟫ ⟪इष्यते⟫
 > ⟪शान्तिरिष्यते⟫ ⟪साध⟫u⟪भिः⟫ ⟪॥⟫
 
-Birds desire a wound,
+Flies desire a wound,
 Kings desire wealth,
-Villains desire strife,
-Holy ones desire peace.
+Vile persons desire strife,
+Holy persons desire peace.
 
 ⟪२⟫. ⟪नरान्सृजति⟫ ⟪देवः⟫ |
 ⟪नरा⟫ ⟪देवैः⟫ ⟪सृज्यन्ते⟫ ⟪।⟫
-The gods create the people.
+The gods create humans.
 
 ⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ |
 ⟪कविभिर्धनं⟫ ⟪लभ्यते⟫ ⟪।⟫
@@ -250,7 +250,7 @@ The Vedic sage sees the Vedic songs.
 
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ |
 ⟪विष्णुरृषिणेज्यते⟫ ⟪।⟫
-The Vedic sage sacrifices to Viṣṇu.
+Der vedische Weise opfert Viṣṇu.
 
 ⟪६⟫. ⟪गुरूञ्शिष्यांश्च⟫ ⟪पश्यति⟫ |
 ⟪गुरवः⟫ ⟪शिष्याश्च⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
@@ -266,7 +266,7 @@ There a Vedic sage greets the sun.
 
 ⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
 ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
-They go into the village.
+They go to the village.
 
 ⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
 ⟪दानानि⟫ ⟪वृष्यन्ते⟫ ⟪नृपैः⟫ ⟪॥⟫
@@ -276,23 +276,23 @@ Kings cause gifts to rain.
 
 ⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ |
 ⟪सदा⟫ ⟪देवाः⟫ ⟪स्मर्यन्ते।⟫
-They constantly visualize the gods.
+They constantly recall the gods.
 
 ⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ |
 ⟪ऋषिभिः⟫ ⟪सह⟫ ⟪रामेणोष्यते⟫ ⟪।⟫
-Rāma dwells with the Vedic sages.
+Rāma wohnt bei den vedischen Weisen.
 
 ⟪३⟫. ⟪हरिं⟫ ⟪क्षीरेण⟫ ⟪यजति⟫ |
 ⟪हरिः⟫ ⟪क्षीरेणेज्यते⟫ ⟪।⟫
-He venerates Hari with a milk sacrifice.
+He worships Hari with a milk offering.
 
 ⟪४⟫. ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
 ⟪मार्गेन⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪मार्गेन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
-They go on the path into the village.
+They go along the path to the village.
 
 ⟪५⟫. ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪नराः⟫ |
 ⟪धनेने⟫ ⟪नरैः⟫ ⟪सुखमिष्यते⟫ ⟪।⟫
-The people desire happiness through wealth.
+People desire happiness through wealth.
 
 ⟪६⟫. ⟪एवं⟫ ⟪वदन्ति⟫ |
 ⟪एवमुद्यते⟫ ⟪।⟫
@@ -300,7 +300,7 @@ Thus it is said.
 
 ⟪७⟫. ⟪शान्त्यर्षय⟫ ⟪इह⟫ ⟪शोभन्ते⟫ |
 ⟪शान्त्यर्षिभिरिह⟫ ⟪शुभ्यते⟫ ⟪।⟫
-On earth holy ones shine through peacefulness.
+On earth, sages shine through peacefulness.
 
 ⟪८⟫. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
 ⟪कपिभिः⟫ ⟪फलानि⟫ ⟪खाद्यन्ते⟫ ⟪।⟫
@@ -316,10 +316,10 @@ Hari goes home.
 
 ⟪११⟫. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ ||
 ⟪सारथिना⟫ ⟪रथो⟫ ⟪नीयते⟫ ⟪॥⟫
-The charioteer steers the chariot.
+The charioteer guides the chariot.
 
-:::media
+::: media
 ![](/images/uebung012.webp)
 Fig.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
-(Image source: [Details](/en/licenses#uebung012))
+(Image source: [Details](/licenses#uebung012))
 :::

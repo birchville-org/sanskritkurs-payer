@@ -1,410 +1,427 @@
 ---
-title: Lektion 24
-subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
+title: 第24课
+subtitle: "与格（⟪चतुर्थी⟫ = \"第四格词尾\"）"
 lesson_id: 24
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 24
 
 ## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
 
-::::grammar-box
-**1. Um den Zweck oder eine Absicht ("um zu") einer Handlung wiederzugeben, kann man statt des Infinitivs (⟪तुमुन्⟫) auch ein Nomen mit kṛt-Suffix, das eine Handlung oder einen Zustand bezeichnet, im Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung") verwenden.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**1. 为了表达某个行为的“目的”或“意图”（“为了”），除了使用不定式（⟪तुमुन्⟫）之外，还可以使用带有 kṛt 后缀、表示行为或状态的名词，并赋予其与格（⟪चतुर्थी⟫ = “第四格词尾”）。**
 
-Beispiel: <!-- TODO: Fallback translation -->
+示例：
 
-anstatt: <!-- TODO: Fallback translation -->
+代替：
 
-:::indent
-⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
 :::
-kann man auch sagen: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
-
-oder: <!-- TODO: Fallback translation -->
-
-⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+::: indent
+⟪⟪रामो⟫⟫ ⟪⟪गुरुवचनं⟫⟫ ⟪⟪श्रोतुं⟫⟫ ⟪⟪गतः⟫⟫ ⟪⟪।⟫⟫
 :::
-= "Rāma ist gegangen, um die Rede des Lehrers zu hören." <!-- TODO: Fallback translation -->
-::::::media
+也可以这样说：
+
+::: indent
+⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
+
+或者：
+
+⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
+:::
+= “罗摩已离去，去聆听老师的演讲。”
+::: media
 ![](/images/lekt2404.webp)
-Abb.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
-(Bildquelle: [Details](/licenses#lekt2404)) <!-- TODO: Fallback translation -->
-:::::::grammar-box
-**2. Der Dativ (⟪चतुर्थी⟫) kann auch das Objekt eines zu ergänzenden Infinitivs des Zweckes bezeichnen:** <!-- TODO: Fallback translation -->
-
-Beispiel: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Er geht zum Zweck von Früchten ins Dorf = Er geht ins Dorf, um Früchte zu holen." <!-- TODO: Fallback translation -->
+图：⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt2404)）
 :::
-**In gleicher Weise bezeichnet der Dativ (⟪चतुर्थी⟫) den Zweck eines Dinges oder einer Handlung:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**2. 与格（⟪चतुर्थी⟫）也可表示目的不定式所隐含的宾语：**
 
-Beispiel: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪यज्ञायान्नम्⟫ = "Speise zum Zweck eines Opfers = Speise für ein Opfer" <!-- TODO: Fallback translation -->
-:::::::::media
+:::
+::: indent
+⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = “他为了果实的缘故前往村庄 = 他前往村庄以获取果实。”
+:::
+**同样地，与格（⟪चतुर्थी⟫）表示某物或行为的目的：**
+
+示例：
+
+::: indent
+⟪यज्ञायान्नम्⟫ = “为祭祀目的的食物 = 为祭祀而准备的食物”
+:::: media
 ![](/images/lekt2401.webp)
-Abb.: ⟪यज्ञायान्नम्⟫
-'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
-(Bildquelle: [Details](/licenses#lekt2401)) <!-- TODO: Fallback translation -->
-:::::::grammar-box
-**3. Der Dativ (⟪चतुर्थी⟫) bezeichnet auch die Person oder Sache, für die das Objekt einer Handlung bestimmt ist (indirektes Objekt ; Frage: wem?). (Beachten Sie aber die Verben mit doppeltem Akkusativ (⟪द्वितीया⟫)!)** <!-- TODO: Fallback translation -->
-
-Beispiel: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "Er gibt dem Rāma eine Frucht." (Wurzel ⟪दा⟫ 3. Präsensklasse) <!-- TODO: Fallback translation -->
-:::::::::media
-![](/images/lekt2402.webp)
-Abb.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
-Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
-(Bildquelle: [Details](/licenses#lekt2402)) <!-- TODO: Fallback translation -->
-:::::::grammar-box
-**4. Der Dativ steht bei einigen Verben (und einigen anderen Wörtern) ähnlich wie im Deutschen auf die Frage "wem?":** <!-- TODO: Fallback translation -->
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "Der Gott zürnt den Männern." <!-- TODO: Fallback translation -->
-
-⟪अलम्⟫ Adverb: "genug, hinreichend, gewachsen": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "ein Krieger ist dem anderen Krieger gewachsen" <!-- TODO: Fallback translation -->
-:::::::::media
-![](/images/lekt2403.webp)
-Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
-"Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
-(Bildquelle: [Details](/licenses#lekt2403)) <!-- TODO: Fallback translation -->
+图：⟪यज्ञायान्नम्⟫
+‘Annakut’ [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] 是一个传统的印度教活动，在印度教新年庆典期间于所有 BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] 寺庙举行。在这一天，数百道素食菜肴被供奉给 Bhagwan Swaminarayan [સ્વામિનારાયણ]。
+（图片来源：[详情](/zh-CN/licenses#lekt2401)）
+::::
 :::
-Weitere Verwendungen des Dativ später. <!-- TODO: Fallback translation -->
+::: grammar-box
+**3. 与格（⟪चतुर्थी⟫）也指动作对象所确定的受益人或事物（间接宾语；疑问词：谁？）。（但请注意带有双宾语的动词（⟪द्वितीया⟫）！）**
+
+示例：
+
+:::
+::: indent
+⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = “他给罗摩一个水果。”（词根 ⟪दा⟫ 第三类，现在时）
+:::: media
+![](/images/lekt2402.webp)
+图：⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
+拉克沙班丹（Raksha Bandhan）在印度各地以热烈和喜悦的氛围庆祝。这个节日体现了兄弟姐妹之间无条件的爱。
+（图片来源：[详情](/zh-CN/licenses#lekt2402)）
+::::
+:::
+::: grammar-box
+**4. 与德语类似，某些动词（及某些其他词语）的与格回答“给谁？”的问题：**
+
+示例：
+
+:::
+::: indent
+⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = “神对男人们感到愤怒。”
+
+⟪अलम्⟫ 副词：“足够，充分，胜任”：⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = “一位战士与另一位战士势均力敌”
+:::: media
+![](/images/lekt2403.webp)
+图：⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
+“罗摩（右侧）坐在哈努曼的肩上，与魔王罗波那作战。”约1820年
+（图片来源：[详情](/zh-CN/licenses#lekt2403)）
+::::
+:::
+与格的其他用法稍后介绍。
 
 ## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
 
-:::grammar-box
-**Die regelmäßigen Endungen des Dativ sind:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**与格的标准词尾是：**
 
-* **Singular: -e ; vokalisch endende Femininstämme: -ai** <!-- TODO: Fallback translation -->
-* **Plural: Dativ und Ablativ ⟪पञ्चमी⟫: -bhyas** <!-- TODO: Fallback translation -->
+* **单数：-e ；以元音结尾的阴性词干：-ai**
+* **复数：与格和离格 ⟪पञ्चमी⟫：-bhyas**
 :::
-### 24.2.1. Konsonantische Stämme
+### 24.2.1. 辅音词干
 
-::::grammar-box
+::: grammar-box
 
-| | Dativ Singular | Dativ Plural | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪यजन्त्⟫ | **⟪यजते⟫** :bryaja-t-e | **⟪यजद्भ्यस्⟫** :braus yaja-t-bhyas | <!-- TODO: Fallback translation -->
-| ⟪महान्त्⟫ | **⟪महते⟫** | **⟪महद्भ्यस्⟫** | <!-- TODO: Fallback translation -->
-| ⟪पशुमन्त्⟫ | **⟪पशुमते⟫** | **⟪पशुमद्भ्यस्⟫** | <!-- TODO: Fallback translation -->
-| ⟪गुणवन्त्⟫ | **⟪गुणवते⟫** | **⟪गुणवद्भ्यस्⟫** | <!-- TODO: Fallback translation -->
+| | 与格单数 | 与格复数 |
+| :--- | :--- | :--- |
+| ⟪यजन्त्⟫ | **⟪यजते⟫** :bryaja-t-e | **⟪यजद्भ्यस्⟫** :braus yaja-t-bhyas |
+| ⟪महान्त्⟫ | **⟪महते⟫** | **⟪महद्भ्यस्⟫** |
+| ⟪पशुमन्त्⟫ | **⟪पशुमते⟫** | **⟪पशुमद्भ्यस्⟫** |
+| ⟪गुणवन्त्⟫ | **⟪गुणवते⟫** | **⟪गुणवद्भ्यस्⟫** |
 
 :::
 ### 24.2.2. Fragepronomen
 
-::::grammar-box
+::: grammar-box
 
-| | Maskulinum / Neutrum | Femininum | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Dativ Singular** | **⟪कस्मै⟫** | **⟪कस्यै⟫** | <!-- TODO: Fallback translation -->
-| **Dativ Plural** | **⟪केभ्यस्⟫** | **⟪काभ्यस्⟫** | <!-- TODO: Fallback translation -->
+| | 阳性 / 中性 | 阴性 |
+| :--- | :--- | :--- |
+| **与格单数** | **⟪कस्मै⟫** | **⟪कस्यै⟫** |
+| **与格复数** | **⟪केभ्यस्⟫** | **⟪काभ्यस्⟫** |
 
 :::
 ### 24.2.3. Demonstrativpronomina
 
-::::grammar-box
+::: grammar-box
 
-| | | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Maskulinum / Neutrum** | **Dat. sg.** | **⟪तस्मै⟫** | **⟪एतस्मै⟫** | **⟪अस्मै⟫** | <!-- TODO: Fallback translation -->
-| | **Dat. pl.** | **⟪तेभ्यस्⟫** | **⟪एतेभ्यस्⟫** | **⟪एभ्यस्⟫** | <!-- TODO: Fallback translation -->
-| **Femininum** | **Dat. sg.** | **⟪तस्यै⟫** | **⟪एतस्यै⟫** | **⟪अस्यै⟫** | <!-- TODO: Fallback translation -->
-| | **Dat. pl.** | **⟪ताभ्यस्⟫** | **⟪एताभ्यस्⟫** | **⟪आभ्यस्⟫** | <!-- TODO: Fallback translation -->
+| | | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ |
+| :--- | :--- | :--- | :--- | :--- |
+| **阳性 / 中性** | **与格单数** | **⟪तस्मै⟫** | **⟪एतस्मै⟫** | **⟪अस्मै⟫** |
+| | **与格复数** | **⟪तेभ्यस्⟫** | **⟪एतेभ्यस्⟫** | **⟪एभ्यस्⟫** |
+| **阴性** | **与格单数** | **⟪तस्यै⟫** | **⟪एतस्यै⟫** | **⟪अस्यै⟫** |
+| | **与格复数** | **⟪ताभ्यस्⟫** | **⟪एताभ्यस्⟫** | **⟪आभ्यस्⟫** |
 
 :::
 ### 24.2.4. Vokalische Stämme
 
-:::grammar-box
-**Vokalische Stämme** <!-- TODO: Fallback translation -->
+::: grammar-box
+**元音词干**
 
-* **Maskulina / Neutra auf -a:** ⟪देव⟫ <!-- TODO: Fallback translation -->
-  * Dat. sg. **⟪देवाय⟫** <!-- TODO: Fallback translation -->
-  * Dat. pl. **⟪देवेभ्यस्⟫** <!-- TODO: Fallback translation -->
-* **Maskulina auf -i:** ⟪कवि⟫ <!-- TODO: Fallback translation -->
-  * Dat. sg. **⟪कवये⟫** <!-- TODO: Fallback translation -->
-  * Dat. pl. **⟪कविभ्यस्⟫** <!-- TODO: Fallback translation -->
-* **Maskulina auf -u:** ⟪पशु⟫ <!-- TODO: Fallback translation -->
-  * Dat. sg. **⟪पशवे⟫** <!-- TODO: Fallback translation -->
-  * Dat. pl. **⟪पशुभ्यस्⟫** <!-- TODO: Fallback translation -->
-* **Feminina auf -ā:** ⟪देवता⟫ <!-- TODO: Fallback translation -->
-  * Dat. sg. **⟪देवतायै⟫** <!-- TODO: Fallback translation -->
-  * Dat. pl. **⟪देवताभ्यस्⟫** <!-- TODO: Fallback translation -->
-* **Feminina auf -ī:** ⟪देवी⟫ <!-- TODO: Fallback translation -->
-  * Dat. sg. **⟪देव्यै⟫** <!-- TODO: Fallback translation -->
-  * Dat. pl. **⟪देवीभ्यस्⟫** <!-- TODO: Fallback translation -->
-* **Feminina auf -i:** ⟪श्रुति⟫ <!-- TODO: Fallback translation -->
-  * Dat. sg. **⟪श्रुतये⟫** oder **⟪श्रुत्यै⟫** (d.h. wie ⟪कवि⟫ oder wie ⟪देवी⟫) <!-- TODO: Fallback translation -->
-  * Dat. pl. **⟪श्रुतिभ्यस्⟫** <!-- TODO: Fallback translation -->
-* **Feminina auf -u:** ⟪धेनु⟫ <!-- TODO: Fallback translation -->
-  * Dat. sg. **⟪धेनवे⟫** oder **⟪धेन्वै⟫** <!-- TODO: Fallback translation -->
-  * Dat. pl. **⟪धेनुभ्यस्⟫** <!-- TODO: Fallback translation -->
+* **阳性/中性以 -a 结尾：** ⟪देव⟫
+  * 与格单数 **⟪देवाय⟫**
+  * 与格复数 **⟪देवेभ्यस्⟫**
+* **阳性以 -i 结尾：** ⟪कवि⟫
+  * 与格单数 **⟪कवये⟫**
+  * 与格复数 **⟪कविभ्यस्⟫**
+* **阳性以 -u 结尾：** ⟪पशु⟫
+  * 与格单数 **⟪पशवे⟫**
+  * 与格复数 **⟪पशुभ्यस्⟫**
+* **阴性以 -ā 结尾：** ⟪देवता⟫
+  * 与格单数 **⟪देवतायै⟫**
+  * 与格复数 **⟪देवताभ्यस्⟫**
+* **阴性以 -ī 结尾：** ⟪देवी⟫
+  * 与格单数 **⟪देव्यै⟫**
+  * 与格复数 **⟪देवीभ्यस्⟫**
+* **阴性以 -i 结尾：** ⟪श्रुति⟫
+  * 与格单数 **⟪श्रुतये⟫** 或 **⟪श्रुत्यै⟫**（即如 ⟪कवि⟫ 或如 ⟪देवी⟫）
+  * 与格复数 **⟪श्रुतिभ्यस्⟫**
+* **阴性以 -u 结尾：** ⟪धेनु⟫
+  * 与格单数 **⟪धेनवे⟫** 或 **⟪धेन्वै⟫**
+  * 与格复数 **⟪धेनुभ्यस्⟫**
 :::
-## 24.3. Sandhi von auslautendem -ai und -au
+## 24.3. 词尾 -ai 和 -au 的连音（Sandhi）
 
-::::grammar-box
-**Sandhi von auslautendem -ai und -au** <!-- TODO: Fallback translation -->
+::: grammar-box
+**词尾 -ai 和 -au 的连音变化**
 
-* **-ai vor anlautendem Vokal wird in der Regel durch -ā ersetzt (seltener durch -āy wie im Wortinneren)** <!-- TODO: Fallback translation -->
-* **-au vor Vokal wird in der Regel durch -āv ersetzt (seltener durch -ā)** <!-- TODO: Fallback translation -->
+* **-ai 在词首元音前通常被 -ā 取代（较少见的是被 -āy 取代，如词内）**
+* **-au 在元音前通常被 -āv 取代（较少见的是被 -ā 取代）**
 
-Beispiel: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "diesem Feuer" <!-- TODO: Fallback translation -->
-::::::
-## 24.4. Wortliste
+:::
+::: indent
+⟪⟪तस्मै⟫⟫ + ⟪⟪अग्नये⟫⟫ » ⟪⟪तस्मा⟫⟫ ⟪⟪अग्नये⟫⟫ = “这堆火”
+:::
+## 24.4. 词汇表
 
-⟪अलम्⟫ Adverb: genug, hinreichend, (jemandem, etwas) gewachsen ; mit Dativ: genug für, hinreichend für, dem gewachsen ; mit Instrumentalis: genug mit, lass ab von , z.B. ⟪अलं⟫ ⟪क्रोधेन⟫ = "genug mit dem Zorn = lass ab vom Zorn!" <!-- TODO: Fallback translation -->
+⟪अलम्⟫ 副词：足够，充分，（对某人、某事）胜任；带与格：对……足够，对……充分，胜任……；带工具格：对……够了，停止……，例如 ⟪अलं⟫ ⟪क्रोधेन⟫ = “对愤怒够了 = 停止愤怒！”
 
-In gleicher Weise wie ⟪अलम्⟫ mit Instrumentalis wird verwendet: <!-- TODO: Fallback translation -->
+在同样的方式下，⟪अलम्⟫与工具格一起使用：
 
-⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "Es ist getan mit dem Zorn = lass ab vom Zorn!" <!-- TODO: Fallback translation -->
+⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = “愤怒已止 = 放下愤怒！”
 
-⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : schmücken <!-- TODO: Fallback translation -->
+⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : 装饰
 
-:::indent
-⟪अलंकार⟫ m.: Schmuck, Schmuckmittel (in der Dichtung) <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+⟪अलंकार⟫ m.: 装饰，装饰品（在诗歌中）
+:::: media
 ![](/images/lekt2405.webp)
-Abb.: ⟪अलंकारः⟫
-(Bildquelle: [Details](/licenses#lekt2405)) <!-- TODO: Fallback translation -->
+图：⟪अलंकारः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt2405)）
+::::
 :::
-⟪हेतु⟫ m.: Antribe, Veranslassung, Ursache, Grund ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ mit Genetiv oder als Hinterglied eines Kompositums = "um ... willen, wegen" <!-- TODO: Fallback translation -->
+⟪हेतु⟫ m.: 动力，动机，原因，理由；⟪हेतुना⟫，⟪हेतोस्⟫，⟪हेतवे⟫ 接属格或作为复合词的后半部分 = “为了……，因为……”
 
-⟪प्रतिमा⟫ f.: Bildnis, Abbild <!-- TODO: Fallback translation -->
+⟪प्रतिमा⟫ f.: 肖像，图像
 
-:::media
+::: media
 ![](/images/lekt2406.webp)
-Abb.: ⟪देवीप्रतिमा⟫
-Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt2406)) <!-- TODO: Fallback translation -->
+图：⟪देवीप्रतिमा⟫
+亨皮 = ಹಂಪೆ，卡纳塔克邦 = ಕರ್ನಾಟಕ
+（图片来源：[详情](/zh-CN/licenses#lekt2406)）
 :::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : erfolgen, geschehen, entstehen <!-- TODO: Fallback translation -->
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ ：发生，出现，产生
 
-Von ⟪वृत्⟫: <!-- TODO: Fallback translation -->
+从 ⟪वृत्⟫：
 
-:::indent
-⟪वृत्ति⟫ f.: Benehmen, Tätigkeit, Lebensweise <!-- TODO: Fallback translation -->
+::: indent
+⟪वृत्ति⟫ f.：行为，活动，生活方式
 
-⟪वृत्त⟫ n.: Benehmen <!-- TODO: Fallback translation -->
+⟪वृत्त⟫ n.: 行为
 :::
-⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an <!-- TODO: Fallback translation -->
+⟪अभि⟫ 前缀： 被-, 向- 去, 到- 来, 到- 去, 对, 在- 里面, 关于, 在, 上, 在
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts <!-- TODO: Fallback translation -->
+⟪नि⟫ 前缀：向下、往下、进入、向后
 
-⟪आ⟫ Präposition / Postposition: vor Ablativ oder nach Akkusativ: bis hin, bis zu ; mit Ablativ: von her, von an, seit <!-- TODO: Fallback translation -->
+⟪आ⟫ 介词/后置词：接于离格之前或接于宾格之后：直到；接于离格：从……起，自……以来
 
-⟪अतस्⟫ Indeklinabile: von da, dann, deshalb, daher (Pronominalstamm a- "dieser" + Ablativsuffix -tas) <!-- TODO: Fallback translation -->
+⟪अतस्⟫ 不变位词：从那里，然后，因此，由此（代词词干 a- “这个” + 夺格后缀 -tas）
 
-⟪अध्यक्ष⟫ m.: Aufseher, Departementschef ; Augenzeuge <!-- TODO: Fallback translation -->
+⟪अध्यक्ष⟫ m.: 主管，部门负责人；目击者
 
-⟪इन्द्रिय⟫ n.: Kraft, Sinnesorgan <!-- TODO: Fallback translation -->
+⟪इन्द्रिय⟫ n.: 力量，感官
 
-⟪ऊह⟫ m.: Überlegung, Argumentation <!-- TODO: Fallback translation -->
+⟪ऊह⟫ m.: 思考，论证
 
-davon <!-- TODO: Fallback translation -->
+从中
 
-:::indent
-⟪अपोह⟫ m.: Negierung (⟪अप⟫ + ⟪ऊह⟫) <!-- TODO: Fallback translation -->
+::: indent
+⟪अपोह⟫ m.: 否定（⟪अप⟫ + ⟪ऊह⟫）
 
-⟪ऊहापोह⟫ m.: Diskussion des Für und Wider <!-- TODO: Fallback translation -->
-::::::media
+⟪ऊहापोह⟫ m.: 利弊讨论
+:::: media
 ![](/images/lekt2407.webp)
-Abb.: ⟪ऊहापोहः⟫
-"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
-(Bildquelle: [Details](/licenses#lekt2407)) <!-- TODO: Fallback translation -->
+图：⟪ऊहापोहः⟫
+“新德里/印度，2008年11月16日——CNN-IBN网络18印度副国际编辑Suhasini Haidar主持了2008年新德里世界经济论坛印度经济峰会的小组讨论。”
+（图片来源：[详情](/zh-CN/licenses#lekt2407)）
+::::
 :::
-⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : nützlich <!-- TODO: Fallback translation -->
+⟪औपकारिक⟫ 3 f.：-⟪ई⟫：有用的
 
-⟪कुप्य⟫ n.: Walderzeugnis, Metall (nicht Edelmetall) <!-- TODO: Fallback translation -->
+⟪कुप्य⟫ n.：森林产物，金属（非贵金属）
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : sehen, sichtbar werden ; nennen, erklären, mitteilen <!-- TODO: Fallback translation -->
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ ：看见，变得可见；称呼，解释，告知
 
-:::indent
-⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : erzählen <!-- TODO: Fallback translation -->
+::: indent
+⟪ख्या⟫ + ⟪आ⟫ 第二人称 ⟪आख्यात⟫ ：讲述
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-⟪आख्यान⟫ n.: Erzählung <!-- TODO: Fallback translation -->
-::::::media
+⟪आख्यान⟫ n.: 故事
+:::: media
 ![](/images/lekt2408.webp)
-Abb.: ⟪आख्यानम्⟫
-"San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
-(Bildquelle: [Details](/licenses#lekt2408)) <!-- TODO: Fallback translation -->
-::::::indent
-⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : zusammenzählen, berechnen <!-- TODO: Fallback translation -->
-
-davon: <!-- TODO: Fallback translation -->
-
-⟪संख्या⟫ f.: Zählung, Aufzählung ; ⟪सांख्य⟫ n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.) <!-- TODO: Fallback translation -->
+图：⟪आख्यानम्⟫
+“旧金山说书人杰夫·拜尔斯（Jeff Byers）向切内里（Chenneri）——一个伊鲁拉（Irula）村庄的居民讲述故事。说书人吉瓦·拉古纳特（Jeeva Raghunath）为村民翻译成泰米尔语。”
+（图片来源：[详情](/zh-CN/licenses#lekt2408)）
+::::
 :::
-⟪ग्रहण⟫ n.: Ergreifen <!-- TODO: Fallback translation -->
+::: indent
+⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ ：相加，计算
 
-⟪चौल⟫ n.: Zermonie (⟪संस्कार⟫) des Haarschneidens (im Alter von 3 Jahren) <!-- TODO: Fallback translation -->
+davon:
 
-⟪तत्त्व⟫ n.: wahres Wesen, Wahrheit, Realität (⟪तद्⟫ + ⟪त्व⟫ = Dies-heit) <!-- TODO: Fallback translation -->
+⟪संख्या⟫ f.: 计数，列举；⟪सांख्य⟫ n.：六个哲学体系之一（简参：Basham, Wonder S. 326f.）
+:::
+⟪ग्रहण⟫ n.: 抓取
 
-⟪स्वस्ति⟫ f.: Glück, Heil (Nominalbildung aus ⟪सु⟫ ⟪अस्ति⟫ = "es ist gut") <!-- TODO: Fallback translation -->
+⟪चौल⟫ n.：（⟪संस्कार⟫）剪发仪式（在三岁时）
 
-⟪नमस्⟫ n.: Verbeugung, Verehrung, Gruß (Deklination später). Begrüßungsformel: ⟪नमो⟫ ⟪नमः⟫ <!-- TODO: Fallback translation -->
+⟪तत्त्व⟫ n.：真实本质、真理、实在（⟪तद्⟫ + ⟪त्व⟫ = 此性）
 
-davon: <!-- TODO: Fallback translation -->
+⟪स्वस्ति⟫ f.：幸福，吉祥（由⟪सु⟫ ⟪अस्ति⟫ = “它很好”构成的名词）
 
-:::indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : sich verbeugen, verehren, begrüßen <!-- TODO: Fallback translation -->
-::::::media
+⟪नमस्⟫ n.：鞠躬，崇敬，问候（词形变化稍后介绍）。问候语：⟪नमो⟫ ⟪नमः⟫
+
+davon:
+
+::: indent
+⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ ：鞠躬，崇拜，问候
+:::: media
 ![](/images/lekt2411.webp)
-Abb.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
-Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
-(Bildquelle: [Details](/licenses#lekt2411)) <!-- TODO: Fallback translation -->
+图：⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
+⟪गीतगोविन्द⟫手稿，公元1730年
+（图片来源：[详情](/zh-CN/licenses#lekt2411)）
+::::
 :::
-⟪स्वागत⟫ n.: Willkommen (aus su-ā-gata) <!-- TODO: Fallback translation -->
+⟪स्वागत⟫ n.：欢迎（源自 su-ā-gata）
 
-⟪तृण⟫ n.: Grashalm <!-- TODO: Fallback translation -->
+⟪तृण⟫ n.: 草茎
 
-⟪पुनर्⟫ Adverb: wiederum, wieder, zurück, aber <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ 副词：又，再，回，但
 
 ## 24.5. Übung
 
-A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an: <!-- TODO: Fallback translation -->
+A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an:
 
-1.  ⟪श्रव⟫ <!-- TODO: Fallback translation -->
-2.  ⟪भवन⟫ <!-- TODO: Fallback translation -->
-3.  ⟪गति⟫ <!-- TODO: Fallback translation -->
-4.  ⟪ऋषि⟫ <!-- TODO: Fallback translation -->
-5.  ⟪सुख⟫ <!-- TODO: Fallback translation -->
-6.  ⟪गमन⟫ <!-- TODO: Fallback translation -->
-7.  ⟪जय⟫ <!-- TODO: Fallback translation -->
-8.  ⟪साधु⟫ <!-- TODO: Fallback translation -->
-9.  ⟪धेनु⟫ <!-- TODO: Fallback translation -->
-10.  ⟪शुद्रा⟫ <!-- TODO: Fallback translation -->
-11.  ⟪ब्राह्मणी⟫ <!-- TODO: Fallback translation -->
-12.  ⟪अग्नि⟫ <!-- TODO: Fallback translation -->
-13.  ⟪एतद्⟫ ⟪३⟫ <!-- TODO: Fallback translation -->
-14.  ⟪सन्त्⟫ <!-- TODO: Fallback translation -->
-15.  ⟪बुद्धिमन्त्⟫ <!-- TODO: Fallback translation -->
-16.  ⟪यज्ञ⟫ <!-- TODO: Fallback translation -->
-17.  ⟪वचन⟫ <!-- TODO: Fallback translation -->
-18.  ⟪सत्यवन्त्⟫ <!-- TODO: Fallback translation -->
-19.  ⟪स्मृति⟫ <!-- TODO: Fallback translation -->
-20.  ⟪सर्ग⟫ <!-- TODO: Fallback translation -->
-21.  ⟪स्वर्ग⟫ <!-- TODO: Fallback translation -->
-22.  ⟪दर्शन⟫ <!-- TODO: Fallback translation -->
-23.  ⟪सृष्टि⟫ <!-- TODO: Fallback translation -->
-24.  ⟪अर्हन्त्⟫ <!-- TODO: Fallback translation -->
-25.  ⟪भक्ति⟫ <!-- TODO: Fallback translation -->
-26.  ⟪दोष⟫ <!-- TODO: Fallback translation -->
-27.  ⟪पूजा⟫ <!-- TODO: Fallback translation -->
-28.  ⟪दासी⟫ <!-- TODO: Fallback translation -->
-29.  ⟪गुरु⟫ <!-- TODO: Fallback translation -->
+1.  ⟪श्रव⟫
+2.  ⟪भवन⟫
+3.  ⟪गति⟫
+4.  ⟪ऋषि⟫
+5.  ⟪सुख⟫
+6.  ⟪गमन⟫
+7.  ⟪जय⟫
+8.  ⟪साधु⟫
+9.  ⟪धेनु⟫
+10.  ⟪शुद्रा⟫
+11.  ⟪ब्राह्मणी⟫
+12.  ⟪अग्नि⟫
+13.  ⟪एतद्⟫ ⟪३⟫
+14.  ⟪सन्त्⟫
+15.  ⟪बुद्धिमन्त्⟫
+16.  ⟪यज्ञ⟫
+17.  ⟪वचन⟫
+18.  ⟪सत्यवन्त्⟫
+19.  ⟪स्मृति⟫
+20.  ⟪सर्ग⟫
+21.  ⟪स्वर्ग⟫
+22.  ⟪दर्शन⟫
+23.  ⟪सृष्टि⟫
+24.  ⟪अर्हन्त्⟫
+25.  ⟪भक्ति⟫
+26.  ⟪दोष⟫
+27.  ⟪पूजा⟫
+28.  ⟪दासी⟫
+29.  ⟪गुरु⟫
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: <!-- TODO: Fallback translation -->
+B) 翻译并解析以下梵语复合词：
 
-⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥१॥⟫
 
-⟪नरा⟫ ⟪धनलाभाय⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪नरा⟫ ⟪धनलाभाय⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥२॥⟫
 
-⟪गुरुर्धर्मोपदेशाय⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪गुरुर्धर्मोपदेशाय⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥३॥⟫
 
-⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनश्रुत्यै⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनश्रुत्यै⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥४॥⟫
 
-⟪देवप्रतिमायै⟫ ⟪गृहं⟫ ⟪गर्भगृहम्⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪देवप्रतिमायै⟫ ⟪गृहं⟫ ⟪गर्भगृहम्⟫ ⟪॥५॥⟫
 
-⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥६॥⟫
 
-⟪मोक्षार्थं⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪मोक्षार्थं⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥७॥⟫
 
-⟪देवास्तेभ्यो⟫ ⟪ऽकृतपूजाब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪देवास्तेभ्यो⟫ ⟪ऽकृतपूजाब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥८॥⟫
 
-⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫ <!-- TODO: Fallback translation -->
+⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫
 
-C) Geben Sie die Sätze A) 1-4 in Sanskrit wieder, indem Sie statt der Dative Infinitive (⟪तुमुन्⟫) setzen. Beachten Sie, dass der Infinitiv den gleichen Kasus regiert wie das entsprechende Verb. <!-- TODO: Fallback translation -->
+C) 用梵语重写句子 A) 1-4，将不定式 ⟨⟪तुमुन्⟩⟩ 替换为 ⟨⟪तुमुन्⟩⟩。请注意，不定式所支配的格与相应动词所支配的格相同。
 
-D) Ersetzen Sie in Satz A) 7 die Konstruktion mit -⟪अर्थ⟫ durch einen gleichwertigen Dativ. <!-- TODO: Fallback translation -->
+D) 在句子 A) 7 中，将带有 -⟪अर्थ⟫ 的结构替换为等价的与格。
 
-E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Konstruktion mit -⟪अर्थ⟫ <!-- TODO: Fallback translation -->
+E) 在句子 A) 6 中，将与格结构替换为等价的带有 -⟪अर्थ⟫ 的结构
 
-## 24.6. Weitere Übungen zum Gebrauch des Dativ
+## 24.6. 与格用法的进一步练习
 
-Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+翻译成梵文：
 
-1\. Die Göttin, der man nicht geopfert hat, zürnt den Menschen. <!-- TODO: Fallback translation -->
+1\. 未向她献祭的女神会对人类发怒。
 
-2\. Er lässt die Kuh ins Dorf los. <!-- TODO: Fallback translation -->
+2\. 他让母牛进入村庄。
 
-3\. Jetzt reichts = Genug mit der Geduld. <!-- TODO: Fallback translation -->
+3\. 现在够了 = 耐心已尽。
 
-4\. Das ist gut (⟪हित⟫, ⟪सुख⟫) für einen Brahmanen. <!-- TODO: Fallback translation -->
+4\. 这对婆罗门来说是好的（⟪हित⟫, ⟪सुख⟫）。
 
-5\. Verehrung (⟪नमस्⟫)  sei Śiva! Verehrung sei Śrī Gaṇeśa! <!-- TODO: Fallback translation -->
+5\. 崇拜（⟪नमस्⟫）愿湿婆受崇拜！愿吉祥天女迦尼萨受崇拜！
 
-:::media
+::: media
 ![](/images/lekt2409.webp)
-Abb.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-(Bildquelle: [Details](/licenses#lekt2409)) <!-- TODO: Fallback translation -->
+图：⟪श्रीगणेशाय⟫ ⟪नमः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt2409)）
 :::
-6\. Auf Wiedersehen! (= Wohlergehen (⟪स्वस्ति⟫ f.)  Ihnen!) <!-- TODO: Fallback translation -->
+6. 再见！（愿您安好（⟪स्वस्ति⟫ f.）！）
 
-7\. Diese Frucht reicht zum Essen. <!-- TODO: Fallback translation -->
+7\. 这种果实足以食用。
 
-8\. Ein Kämpfer ist dem (anderen) Kämpfer gewachsen (⟪शक्त⟫). <!-- TODO: Fallback translation -->
+8. 一名战士与（另一位）战士相当（⟪शक्त⟫）。
 
-9\. Selbst Viṣṇu übertrifft (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva nicht. <!-- TODO: Fallback translation -->
+9\. 即使毗湿奴（⟪प्र⟫-⟪भू⟫ + 与格）也不超越湿婆。
 
-10\. Nachdem ich mich vor den drei Weisen (Akk.) verbeugt habe (⟪नमस्कृ⟫)... Er verbeugt sich vor Narasiṃha (Dat.) <!-- TODO: Fallback translation -->
+10\. Nachdem ich mich vor den drei Weisen (Akk.) verbeugt habe (⟪नमस्कृ⟫)... Er verbeugt sich vor Narasiṃha (Dat.)
 
-:::indent
-Erklärung: ⟪मुनित्रयम्⟫ "die Dreiheit der Weisen = die drei Weisen" = die Grammatiker ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫ <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+解释：⟪मुनित्रयम्⟫ “三位智者 = 三位智者” = 语法学家 ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
+:::: media
 ![](/images/lekt2410.webp)
-Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
-⟪नरसिंह⟫ zerfleischt ⟪हिरण्यकशिपु⟫, Blatt aus einem Manuskript des ⟪भागवतपुराण⟫
-(Bildquelle: [Details](/licenses#lekt2410)) <!-- TODO: Fallback translation -->
+图：⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
+⟪नरसिंह⟫ 撕碎 ⟪हिरण्यकशिपु⟫, ⟪भागवतपुराण⟫ 手稿的一页
+（图片来源：[详情](/zh-CN/licenses#lekt2410)）
+::::
 :::
-11\. Willkommen (⟪स्वागतम्⟫)  Ihnen. Willkommen der Königin. <!-- TODO: Fallback translation -->
+11\. 欢迎（⟪स्वागतम्⟫）您。欢迎王后。
 
-12\. Ich wünsche Ihnen Wohlergehen (⟪कुशल⟫) = Wohlergehen Ihnen! <!-- TODO: Fallback translation -->
+12. 我祝您安康（⟪कुशल⟫）= 愿您安康！
 
-13\. Er betrachtet ihn nicht als Grashalm. <!-- TODO: Fallback translation -->
+13\. 他不将其视为草茎。
 
-14\. Es reicht eine Frucht zum Essen und Wasser zum Trinken. <!-- TODO: Fallback translation -->
+14\. 仅需一果为食，饮水以解渴。
 
-15⟪१५⟫. Auf Widersehen! (Neusanskrit: ⟪पुनर्दर्शनाय⟫) <!-- TODO: Fallback translation -->
+15⟪१५⟫。再见！（新梵语：⟪पुनर्दर्शनाय⟫）
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day. [Bildquelle: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt2401:** “Annakut” [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] 是印度教的一项传统活动，在印度教新年庆典期间于所有 BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] 寺庙举行。当天，数百道素食菜肴被供奉给 Bhagwan Swaminarayan [સ્વામિનારાયણ]。[图片来源：chiragkpatel。-- http://www.flickr.com/photos/chiragkpatel/61224686/。-- 访问日期：2008-12-14。-- 知识共享许可协议（署名，非商业性使用）]
 
-**lekt2402:** Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters. [Bildquelle: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt2402：** 拉克沙班丹（Raksha Bandhan）在印度各地以热烈而喜悦的氛围庆祝。这一节日体现了兄弟姐妹之间无条件的爱。[图片来源：yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- 访问日期：2008-12-14. -- 知识共享许可协议（署名，非商业性使用，相同方式共享）]
 
-**lekt2403:** "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820 [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2403:** “Rama (rechts) auf den Schultern Hanumans sitzend, bekämpft den Dämonenkönig Rāvaṇa.” ca. 1820 [Bildquelle: Wikipedia, Gemeinfrei]
 
-**lekt2404:** [Bildquelle: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2404:** [图片来源：sknaB nolA。-- http://www.flickr.com/photos/nolasknab/110920752/。-- 访问日期：2008-12-14。-- 知识共享许可协议（署名，禁止演绎）]
 
-**lekt2405:** [Bildquelle: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2405:** [图片来源：sarboo。-- http://www.flickr.com/photos/sarboo/320741523/。-- 访问日期：2008-12-14。-- 知识共享许可协议（署名-非商业性使用-禁止演绎）]
 
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Bildquelle: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [图片来源：thaths。-- http://www.flickr.com/photos/thaths/862012190/。-- 访问日期：2008-12-14。-- 知识共享许可协议（署名，非商业性使用）]
 
-**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi." [Bildquelle: World Economic Forum / Photo by Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt2407:** “NEUDELHI/INDIEN, 16NOV08 – Suhasini Haidar, stellvertretende Auslandredakteurin des CNN-IBN-Netzwerks 18, Indien, moderiert eine Podiumsdiskussion auf dem Wirtschaftsgipfel Indiens 2008 des Weltwirtschaftsforums in Neu-Delhi.” [Bildquelle: Weltwirtschaftsforum / Foto von Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Zugriff am 2008-12-14. -- Creative-Commons-Lizenz (Namensnennung, Weitergabe unter gleichen Bedingungen)]
 
-**lekt2408:** "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers." [Bildquelle: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt2408:** “San Francisco 的故事讲述者 Jeff Byers 向切内里（Chenneri）——一个伊鲁拉（Irula）村庄的居民分享了一个故事。故事讲述者 Jeeva Raghunath 为村民们翻译成泰米尔语。” [图片来源：ereneta。-- http://www.flickr.com/photos/tereneta/3062024840/。-- 访问日期：2008-12-14。-- 知识共享许可协议（署名，非商业性使用）]
 
-**lekt2409:** [Bildquelle: Redtigerxyz / Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2409:** [图片来源：Redtigerxyz / 维基百科，GNU FDL许可证]
 
-**lekt2410:** ⟪नरसिंह⟫ zerfleischt ⟪हिरण्यकशिपु⟫, Blatt aus einem Manuskript des ⟪भागवतपुराण⟫ [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2410:** ⟪नरसिंह⟫ 撕碎 ⟪हिरण्यकशिपु⟫，⟪भागवतपुराण⟫ 手稿的一页 [图片来源：维基百科，公共领域]
 
-**lekt2411:** Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr. [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2411:** 手稿 ⟪गीतगोविन्द⟫，公元1730年 [图片来源：维基百科，公有领域]
 :::

@@ -1,58 +1,62 @@
 ---
-title: Lesson 10
-subtitle: "The passive sentence (instrumental of the agent)"
+title: Lektion 10
+subtitle: "Den Passivsatz (Instrumentalis des Agens)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
 # Lesson 10
 
-:::deleteme-box
-**In this lesson, you will learn:**
+::: deleteme-box
+**In this lesson you will learn:**
 - The passive sentence (Instrumental of the Agent)
 - The declension of the Instrumental (tṛtīyā)
-- The law of cerebralization for -n- (word sandhi)
+- The cerebralization rule for -n- (word sandhi)
 - The formation of the passive (yak) in the Indicative Present
 - Vocabulary related to sacrifice, truth, and social roles
 :::
 ## 10.1. The Passive Sentence
 
-:::grammar-box
+::: grammar-box
 **Schema:**
 **(Agent - kartṛ - in the Instrumental (tṛtīyā)) - (direct object - karman - in the Nominative) - passive verbal form**
 
-e.g. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इज्यते⟫ = "A Brahman venerates a god with a sacrifice" (literally: "A god is venerated by a Brahman with a sacrifice.")
+e.g. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इज्यते⟫ = "A Brahman worships a god with a sacrifice" (literally: "A god is worshipped by a Brahman with a sacrifice.")
 
 This sentence is **completely (!) semantically identical** to the sentence:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫
-::::::grammar-box
-- In a passive sentence, the agent (**kartṛ**) stands in the **Instrumental** (tṛtīyā f. "third case ending"), the direct object (**karman** n.) in the **Nominative** (prathamā f.).
+:::
+
+::: grammar-box
+- In the passive sentence, the agent (**kartṛ**) stands in the **Instrumental** (tṛtīyā f. "third case ending"), and the direct object (**karman** n.) stands in the **Nominative** (prathamā f.).
 - Passive sentences in which the agent is not specified usually have an impersonal meaning ("one"):
-  e.g. **ijyate** = ⟪इज्यते⟫ "One sacrifices" (literally: "it is venerated with a sacrifice").
-::::::grammar-box
+  e.g. **ijyate** = ⟪इज्यते⟫ "One sacrifices" (literally: "it is worshipped with a sacrifice").
+:::
+
+::: grammar-box
 **Even if the corresponding active sentence contained an accusative (dvitīyā) of the goal, this can be put into the Nominative (prathamā) in the passive sentence:**
 
 The active sentence **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma goes to the village." corresponds to the passive sentences:
 - **rāmeṇa grāmaṃ gamyate** = ⟪रामेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫
 - alternatively: **rāmeṇa grāmo gamyate** = ⟪रामेण⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫
-::::::grammar-box
-**Intransitive verbs (verbs without a direct object) frequently have passive constructions, esp. also in polite requests:**
+:::
+
+::: grammar-box
+**Intransitive verbs (verbs without a direct object) frequently have passive constructions, especially in polite requests:**
 - **praviśyatām** = ⟪प्रविश्यताम्⟫ = "One may enter = Please enter = Come in!"
 - **niṣadyatām** = ⟪निषद्यताम्⟫ = "One may sit down = Please sit down = Please take a seat"
 :::
-Sanskrit passive constructions are extremely frequent: the passive is also easier to form than, e.g., numerous present stems.
+Sanskrit passive constructions are extremely frequent: the passive is, after all, easier to form than, for example, numerous present stems.
 
+::: important
+**Sanskrit passive sentences generally must not be rendered in German by a passive sentence, since the German passive has a completely different stylistic function.**
 :::
-important
-**Sanskrit passive sentences generally should not be rendered in German by a passive sentence, since the German passive has a completely different stylistic function.**
-:::
----
 
 ## 10.2. The Instrumental (tṛtīyā f. = ⟪तृतीया⟫ = "third case ending")
 
-:::grammar-box
+::: grammar-box
 **The regular endings of the Instrumental (tṛtīyā):**
 - **Singular: -ā**
 - **Plural: -bhis**
@@ -61,85 +65,84 @@ important
 
 | | Instrumental Singular | Instrumental Plural |
 | :--- | :--- | :--- |
-| **Feminines in -i**::brśruti:br⟪श्रुति⟫ | **śruty-ā**:br⟪श्रुत्या⟫ | **śruti-bhis**:br⟪श्रुतिभिस्⟫ |
-| **Feminines in -ī**::brdevī:br⟪देवी⟫ | **devy-ā**:br⟪देव्या⟫ | **devī-bhis**:br⟪देवीभिस्⟫ |
-| **Feminines in -u**::brdhenu:br⟪धेनु⟫ | **dhenv-ā**:br⟪धेन्वा⟫ | **dhenu-bhis**:br⟪धेनुभिस्⟫ |
+| **Feminina auf -i**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
+| **Feminina auf -ī**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
+| **Feminina auf -u**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
 
-**Irregular formations (Singular):**
-
-| | Instrumental Singular | Instrumental Plural |
-| :--- | :--- | :--- |
-| **Masculines in -i**::brkavi:br⟪कवि⟫ | **kavi-n-ā**:br⟪कविना⟫ | **kavi-bhis**:br⟪कविभिस्⟫ |
-| **Masculines in -u**::brpaśu:br⟪पशु⟫ | **paśu-n-ā**:br⟪पशुना⟫ | **paśu-bhis**:br⟪पशुभिस्⟫ |
-| **Feminines in -ā**::brdevatā:br⟪देवता⟫ | **devat-ay-ā**:br⟪देवतया⟫ | **devatā-bhis**:br⟪देवताभिस्⟫ |
-
-**Masculines and Neuters in -a (irregular in singular and plural):**
+**Irregular Forms (Singular):**
 
 | | Instrumental Singular | Instrumental Plural |
 | :--- | :--- | :--- |
-| **Masculines in -a**::brdeva:br⟪देव⟫ | **devena**:br⟪देवेन⟫ | **devais**:br⟪देवैस्⟫ |
-| **Neuters in -a**::brphala:br⟪फल⟫ | **phalena**:br⟪फलेन⟫ | **phalais**:br⟪फलैस्⟫ |
+| **Maskulina auf -i**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
+| **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
+| **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
+
+**Masculines and Neuters in -a (irregular in Singular and Plural):**
+
+| | Instrumental Singular | Instrumental Plural |
+| :--- | :--- | :--- |
+| **Maskulina auf -a**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
+| **Neutra auf -a**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
 
 **Interrogative pronoun kim:**
 
 | | Instrumental Singular | Instrumental Plural |
 | :--- | :--- | :--- |
-| **Masculine / Neuter** | **kena**:br⟪केन⟫ | **kais**:br⟪कैस्⟫ |
-| **Feminine** | **kayā**:br⟪कया⟫ | **kābhis**:br⟪काभिस्⟫ |
+| **Masculine / Neuter** | **kena** :br⟪केन⟫ | **kais** :br⟪कैस्⟫ |
+| **Feminine** | **kayā** :br⟪कया⟫ | **kābhis** :br⟪काभिस्⟫ |
 
-**Demonstrative pronouns:**
+**Demonstrative Pronouns:**
 
 | Pronoun | Gender | Instrumental Singular | Instrumental Plural |
 | :--- | :--- | :--- | :--- |
-| **tad**:br"he, she, it; the, the, the" (mentioned):br⟪तद्⟫ | M/N | **tena**:br⟪तेन⟫ | **tais**:br⟪तैस्⟫ |
-| | F | **tayā**:br⟪तया⟫ | **tābhis**:br⟪ताभिस्⟫ |
-| **etad**:br"this, this, this" (very close to the speaker):br⟪एतद्⟫ | M/N | **etena / enena**:br⟪एतेन⟫ / ⟪एनेन⟫ | **etais**:br⟪एतैस्⟫ |
-| | F | **etayā / enayā**:br⟪एतया⟫ / ⟪एनया⟫ | **etābhis**:br⟪एताभिस्⟫ |
-| **idam**:br"this, this, this" (near):br⟪इदम्⟫ | M/N | **anena / enena**:br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis**:br⟪एभिस्⟫ |
-| | F | **anayā / enayā**:br⟪अनया⟫ / ⟪एनया⟫ | **ābhis**:br⟪आभिस्⟫ |
-::::::deleteme-box
+| **tad** :br"er, sie, es; der, die, das" (Erwähnte):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
+| | F | **tayā** :br⟪तया⟫ | **tābhis** :br⟪ताभिस्⟫ |
+| **etad** :br"dieser, diese, dieses" (dem Sprechenden sehr Nahe):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
+| | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
+| **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
+| | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
+:::
+
+::: deleteme-box
 Except in the Nominative and Accusative, the forms of the Neuters in -a, of the interrogative pronoun, and of the demonstrative pronouns are identical to the forms of the corresponding Masculine.
 :::
----
 
-### 10.2.1. On the Use of the Instrumental (tṛtīyā = ⟪तृतीया⟫)
+### 10.2.1. On the Usage of the Instrumental (tṛtīyā = ⟪तृतीया⟫)
 
-:::grammar-box
-**The Instrumental (tṛtīyā) is primarily used in response to the questions:**
+::: grammar-box
+**The Instrumental (tṛtīyā) primarily answers the questions:**
 - **By what?**
 - **With what?**
 - **With whom?**
 
-**It is used**
-1. **in passive sentences: agent (kartṛ) in the Instrumental**
+**It stands**
+1. **in passive sentences: Agent (kartṛ) in the Instrumental**
 2. **to indicate the means or instrument with which something is accomplished**
-3. **to indicate the path by which someone reaches a destination**
-4. **to express connection, union, or accompaniment by**
-5. **with postpositions meaning "together with, with"; e.g. saha = ⟪सह⟫ = "with"**:bre.g.:br**brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "together with the Brahmin"
+3. **to indicate the path by which someone reaches somewhere**
+4. **to express connection, union, accompaniment with**
+5. **with postpositions meaning "together with, with"; e.g. saha = ⟪सह⟫ = "with"** :brz.B.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "together with the Brahmin"
 :::
-Further uses of the Instrumental (tṛtīyā) will follow later.
+Further uses of the Instrumental (tṛtīyā) follow later.
 
----
+## 10.3. The so-called Cerebralization Law for -n- (a word sandhi)
 
-## 10.3. The so-called Cerebralisationsgesetz for -n- (a word-sandhi)
-
-:::grammar-box
-An **-n-**, followed by a vowel or **n, m, y, v**, is replaced by **-ṇ-** if **ṛ, ṝ, r, ṣ** precede the **-n-** in the word, or if no other sound than vowels, gutturals, labials, **y, v, h** or Anusvāra stands between these sounds and the following **-n-** in the word.
+::: grammar-box
+An **-n-**, followed by a vowel or **n, m, y, v**, is replaced by **-ṇ-** if **ṛ, ṝ, r, ṣ** precede the **-n-** in the word or if no other sound than vowels, Gutturals, Labials, **y, v, h** or Anusvāra stands between these sounds and the following **-n-** in the word.
 :::
 **Therefore:**
 
-:::grammar-box
+::: grammar-box
 | | Instrumental Singular |
 | :--- | :--- |
-| **guru**:br⟪गुरु⟫ | **guruṇā**:br⟪गुरुणा⟫ |
-| **śūdra**:br⟪शूद्र⟫ | **śūdreṇa**:br⟪शूद्रेण⟫ |
-| **īśvara**:br⟪ईश्वर⟫ | **īśvereṇa**:br⟪ईश्वरेण⟫ |
-| **kṣatriya**:br⟪क्षत्रिय⟫ | **kṣatriyeṇa**:br⟪क्षत्रियेण⟫ |
-| **naraka**:br⟪नरक⟫ | **narakeṇa**:br⟪नरकेण⟫ |
+| **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
+| **śūdra** :br⟪शूद्र⟫ | **śūdreṇa** :br⟪शूद्रेण⟫ |
+| **īśvara** :br⟪ईश्वर⟫ | **īśvereṇa** :br⟪ईश्वरेण⟫ |
+| **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
+| **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
 :::
-**Thus, the -ṇ- is also to be explained in:**
+**Thus the -ṇ- is also to be explained in:**
 
-:::indent
+::: indent
 **śravaṇa** ⟪श्रवण⟫
 
 **śṛṇoti** ⟪शृणोति⟫
@@ -148,122 +151,126 @@ An **-n-**, followed by a vowel or **n, m, y, v**, is replaced by **-ṇ-** if *
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
----
 
 ## 10.4. The Passive, Indicative Present (yak = ⟪यक्⟫)
 
-:::grammar-box
+::: grammar-box
 **Formation:**
 **(mostly) guṇa-grade root + -ya- + Ātmanepada ending**
 :::
 e.g.
 
-| Root:br⟪धातु⟫ | 3. sg. Pass. Pres. Indic.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Pres. Indic.:br⟪यक्⟫ ⟪लट्⟫ |
+| Root:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
-| **nī**:br1 U:br(nayati) | **nīyate**:br(⟪नीयते⟫):br"he is led" | **nīyante**:br(⟪नीयन्ते⟫) |
-| **man**:br4 Ā:br(manyate) | **manyate**:br(⟪मन्यते⟫):br"it is thought" | **manyante**:br(⟪मन्यन्ते⟫) |
-| **viś**:br6 P:br(viśati) | **viśyate**:br(⟪विश्यते⟫):br"it is entered" | **viśyante**:br(⟪विश्यन्ते⟫) |
+| **nī** :br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"er wird geführt" | **nīyante** :br(⟪नीयन्ते⟫) |
+| **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
+| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
-**Note that for verbs of the 4th present class, the Ātmanepada and the Passive have identical forms! Whether Ātmanepada or Passive is present can only be inferred from the sentence structure in this case.**
+**Note that for verbs of the 4th present class, the Ātmanepada and the passive have identical forms! Whether Ātmanepada or passive is present can only be inferred from the sentence construction in this case.**
 
----
-
-### 10.4.1. Special Rules for Forming the Passive
+### 10.4.1. Special rules for the formation of the passive
 
 1. **Roots ending in -i or -u** lengthen their vowel before the passive suffix **-ya-**:
-   * **ji** 1 P: **jīyate**, **jīyante**:br⟪जीयते⟫, ⟪जीयन्ते⟫
-   * **śru** 5 P: **śrūyate**, **śrūyante**:br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-   * **su** 5 U: **sūyate**, **sūyante**:br⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
+   * **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+   * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
 
-2. **Roots with -a- between consonants** (except nasals, y, r, v) remain high-grade:
-   * **labh** 1 Ā: **labhyate**, **labhyante**:br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+2. **Roots with -a- between consonants** (except nasals, y, r, v) remain in guṇa-grade:
+   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
-3. **Some roots form their passive in high-grade** (or in the ablaut stage of the present stem):
-   * **āp** 5 P: **āpyate**, **āpyante**:br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-   * **khād** 1 P: **khādyate**, **khādyante**:br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-   * **smṛ** 1 P: **smaryate**, **smaryante**:br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+3. **Some roots form their passive in guṇa-grade** (or in the ablaut grade of the present stem):
+   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
+   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
-4. **Low-grade of verbs beginning with ya, va, ra, or having these sounds after another consonant (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
+4. **Low-grade of verbs beginning with ya, va, ra, or where these sounds stand after another consonant (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
-   | Root:br⟪धातु⟫ | Low-grade:br⟪सम्प्रसारण⟫ | Passive:br⟪यक्⟫ |
+   | Root:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
    | :--- | :--- | :--- |
-   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate**:br⟪इज्यते⟫:br**ijyante**:br⟪इज्यन्ते⟫ |
-   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate**:br⟪उद्यते⟫:br**udyante**:br⟪उद्यन्ते⟫ |
-   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate**:br⟪पृच्छ्यते⟫:br**pṛcchyante**:br⟪पृच्छ्यन्ते⟫ |
+   | **yaj** 1 U:br⟪यज्⟫ | \*yj » ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
+   | **vad** 1 P:br⟪वद्⟫ | \*vd » ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
+   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch » pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
-   The traditional native term for this formation of the low-grade in verbs with **ya** or **va** is **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
+The traditional indigenous name for this formation of the lower level in verbs with **ya** or **va** is **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **Final -ṛ** after a single consonant is replaced by **-ri-** before the passive suffix **-ya-**:
-   * **kṛ** 8 U: **kriyate**, **kriyante**:br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * But: **smṛ** 1 P: **smaryate**:br⟪स्मर्यते⟫
+   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
+   * But: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
 
-6. **Some roots ending in -an** alternatively have two passive stem formations:
-   * one **-an-ya**
-   * one **-ā-ya-** (the long **ā** is a representative of a hypothetical long nasal)
+6. **Some roots ending in -an have alternatively two passive stem formations:**
+   * an **-an-ya**
+   * an **-ā-ya-** (the long **ā** is a representative of a hypothetical long nasal)
 
    e.g. **tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte**:br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte**:br⟪तायते⟫, ⟪तायन्ते⟫ (from \*tn-ya-nte)
+   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
+   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (from \*tn-ya-nte)
 
----
+## 10.5. Vocabulary
 
-## 10.5. Word List
-
-**Learn the following words:**
+**gṛha** n. ⟪गृह⟫ : House
 
 - **gṛha** n. ⟪गृह⟫ : house
 - **grāma** m. ⟪ग्राम⟫ : village
 - **nagara** n. ⟪नगर⟫ : city
 
-  :::note-box
-  For urban and village life, see Basham, *Wonder*, Chapter 6.
-  :::- **yajña** m. ⟪यज्ञ⟫ : sacrifice
+  ::: note-box
+**yajña** m. ⟪यज्ञ⟫ : sacrifice
+  :::
 
-  :::note-box
-  In India, sacrifice is primarily an honoring of the deity as a guest. Through this, one incurs an obligation toward the deity.
-  
-  Word formation: **yaj** 1 U + kṛt suffix **-na-**.
-  :::- **puṇya** n. ⟪पुण्य⟫ : good deed, merit
+- **yajña** m. ⟪यज्ञ⟫ : sacrifice
 
-  :::note-box
-  Through which one earns well-being and good rebirths.
-  :::- **pāpa** n. ⟪पाप⟫ : evil deed, evil (opposite of **puṇya**)
+  ::: note-box
+  In India, sacrifice is primarily an honoring of the deity as a guest. By this, one obligates oneself to the deity.
+
+  Word formation: **yaj** 1 U + kṛt-suffix **-na-**.
+  :::
+
+- **puṇya** n. ⟪पुण्य⟫ : good deed, merit
+
+  ::: note-box
+**satya** n. ⟪सत्य⟫ : truth
+  :::
+
+- **pāpa** n. ⟪पाप⟫ : misdeed, evil (opposite of **puṇya**)
 - **satya** n. ⟪सत्य⟫ : truth
 
-:::
-note-box
-In India, the true word was attributed with magical power; indeed, the entire cosmic order is maintained and created by the true word. For this important concept, see the fundamental work:
+::: note-box
+In India, true speech was attributed with magical power; indeed, the entire cosmic order is maintained and created by true speech. For this important concept, see the fundamental work:
 
-Lüders, Heinrich &lt;1869 - 1943&gt;: Varuṇa / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuṇa and Ṛta. -- 1959. -- XXIII pp., pp. 340 - 764
-::::::media
+Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII pages, pages 340 - 764
+:::
+
+::: media
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
 (Image source: [Details](/en/licenses#lekt1003))
 :::
 - **anṛta** n. ⟪अनृत⟫ : untruth, lie (opposite of **satya**)
 
-  :::note-box
-  Word formation **an-** ("un-") + **ṛta** n.
-  
-  **ṛta** is a central concept in the Veda, whose translation is disputed: "truth" (Lüders, Thieme), "order" (Renou).
-  :::- **ṛṣi** m. ⟪ऋषि⟫ : Vedic sage, author of Vedic hymns
+  ::: note-box
+  Word formation **an-** (“un-”) + **ṛta** n.
 
-  :::note-box
-  The names of these **ṛṣi**s are mentioned in the Brāhmaṇas as well as in separate lists for the Vedas. All Brāhmaṇas trace their lineage to such **ṛṣi**s, after whose names their **gotra** (⟪गोत्र⟫) are named. For the concept of **gotra**, see Basham, *Wonder*, Chapter 5.
-  ::::::media
+  **ṛta** is a central concept in the Veda, whose translation is disputed: “truth” (Lüders, Thieme), “order” (Renou).
+  :::
+
+- **ṛṣi** m. ⟪ऋषि⟫ : Vedic seer, author of Vedic hymns
+
+  ::: note-box
+  The names of these **ṛṣi**s are mentioned in the Brāhmaṇas as well as in separate lists of the Vedas. All Brahmins trace their origin to such **ṛṣi**s, after whom their **gotra** (⟪गोत्र⟫) are named. For the concept of **gotra**, see Basham, *Wonder*, Chapter 5.
+  :::
+
+::: media
 ![](/images/lekt1002.jpg)
 Fig.: ⟪विश्वामित्रः⟫
 (Image source: [Details](/en/licenses#lekt1002))
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : to say, to speak
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : to ask (someone: Acc.; about something: Acc.)
-- **saha** ⟪सह⟫ : together with, jointly with (also with "fight with" etc.) (postposition with instrumental case)
-
----
+- **saha** ⟪सह⟫ : together with, jointly with (also in "to fight with" etc.) (Postposition with Instrumental)
 
 ## 10.6. Exercise
 
-**A) Form the passive of the following verb forms (with translation of the verb form):**
+**A) Form the passive for the following verb forms (with translation of the verb form):**
 
 1. **sṛjati** (⟪सृजति⟫)
 2. **yudhyate** (⟪युध्यते⟫)
@@ -273,7 +280,7 @@ Fig.: ⟪विश्वामित्रः⟫
 6. **nayanti** (⟪नयन्ति⟫)
 7. **smarati** (⟪स्मरति⟫)
 8. **śṛṇvanti** (⟪शृण्वन्ति⟫)
-9. **paśyati** (⟪पश्यति⟫) (Passive is formed from **dṛś**!)
+9. **paśyati** (⟪पश्यति⟫) (passive is formed from **dṛś**!)
 10. **jayanti** (⟪जयन्ति⟫)
 11. **kurvate** (⟪कुर्वते⟫)
 12. **āpnuvanti** (⟪आप्नुवन्ति⟫)
@@ -290,7 +297,7 @@ Fig.: ⟪विश्वामित्रः⟫
 
 **B) Form the instrumental singular and plural for all nouns learned so far.**
 
-**C) Convert the following sentences into the passive and translate them:**
+**C) Convert the following sentences into the passive voice and translate them:**
 1. **brāhmaṇo devīm yajati.** (⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫)
 2. **sādhuḥ svargaṃ gacchati.** (⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫)
 3. **śūdraṃ jayati.** (⟪शूद्रं⟫ ⟪जयति⟫)
@@ -309,63 +316,58 @@ Fig.: ⟪विश्वामित्रः⟫
 16. **ke yodhāḥ kṣatriyaiḥ saha yudhyante.** (⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫)
 
 **D) Translate into Sanskrit:**
-1. A Brāhmaṇa goes to the village with a Vaiśya.
+1. A Brahman goes to the village with a Vaiśya.
 2. He venerates Viṣṇu with a sacrifice. (Express sacrifice as **yajña**!)
 3. The Veda is called śruti. (**vad**)
 4. The warp is stretched. (2 possibilities)
 
-:::media
+::: media
 ![](/images/lekt1004.jpg)
-Fig.: ⟪तन्तुवायः⟫
-(Image source: [Details](/en/licenses#lekt1004))
+Abb.: ⟪तन्तुवायः⟫
+(Bildquelle: [Details](/en/licenses#lekt1004))
 :::
-5. Teachers are asked. (Passive construction)
-6. The eye leads. (Passive construction)
-7. The poet sees a deity. (Passive construction)
-8. Who (fem.) tends the girl? (Passive construction)
-9. The Kṣatriya venerates the LORD with a sacrifice. (Passive construction, without using the word **yajña**)
-10. Through generosity, a follower of the Buddha attains a heaven.
-
----
+5. Der Lehrer fragt. (Passivkonstruktion)
+6. Das Auge führt. (Passivkonstruktion)
+7. Der Dichter sieht eine Gottheit. (Passivkonstruktion)
+8. Wer (fem.) pflegt das Mädchen? (Passivkonstruktion)
+9. Der Kṣatriya verehrt den HERRN mit einem Opfer. (Passivkonstruktion, ohne das Wort **yajña** zu verwenden)
+10. Durch Großzügigkeit erreicht ein Anhänger des Buddha den Himmel.
 
 ## 10.7. Word List 2
 
-- **makṣikā** f. ⟪मक्षिका⟫ : fly, bee
-- **vraṇa** m. ⟪व्रण⟫ : wound, fault, damage
-- **dhana** n. ⟪धन⟫ : reward, money, wealth, possession
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : to wish
-- **pārthiva** m. ⟪पार्थिव⟫ : king
-- **nīca** 3 ⟪नीच⟫ : low, deep
-- **kalaha** m. ⟪कलह⟫ : dispute, quarrel
-- **śānti** f. ⟪शान्ति⟫ : cessation, peace, tranquility
-- **śam** 4 P (śāmyati !) ⟪शम्⟫ ⟪शाम्यति⟫ : to be calm, to become calm
-- **nara** m. ⟪नर⟫ : man, human being
-- **lubh** 4 P (lubhyati) ⟪लुभ्⟫ ⟪लुभ्यति⟫ : to desire
-- **sūkta** 3 ⟪सूक्त⟫ : well spoken, beautifully spoken; n. song
-- **śiṣya** m. ⟪शिष्य⟫ : student
-- **atra** ⟪अत्र⟫ : here
-- **tatra** ⟪तत्र⟫ : there
-- **bhānu** m. ⟪भानु⟫ : radiance, sun
-- **vand** 1 Ā (vandate) ⟪वन्द्⟫ ⟪वन्दते⟫ : to greet, to honor
-- **vṛṣ** 1 P (varṣati) ⟪वृष्⟫ ⟪वर्षति⟫ : to rain
-- **nṛpa** m. ⟪नृप⟫ : king, prince
-- **kṣīra** n. ⟪क्षीर⟫ : milk
-- **mārga** m. ⟪मार्ग⟫ : path
-- **evam** ⟪एवम्⟫ : thus
-- **iha** ⟪इह⟫ : here
-- **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : to be beautiful, to shine
-
----
+- **makṣikā** f. ⟪मक्षिका⟩ : fly, bee
+- **vraṇa** m. ⟪व्रण⟩ : wound, error, damage
+- **dhana** n. ⟪धन⟩ : wage, money, wealth, property
+- **iṣ** 6 P (icchati) ⟪इष्⟩ ⟪इच्छति⟩ : to wish
+- **pārthiva** m. ⟪पार्थिव⟩ : king
+- **nīca** 3 ⟪नीच⟩ : low, deep
+- **kalaha** m. ⟪कलह⟩ : dispute, quarrel
+- **śānti** f. ⟪शान्ति⟩ : cessation, peace, tranquility
+- **śam** 4 P (śāmyati !) ⟪शम्⟩ ⟪शाम्यति⟩ : to be calm, to become calm
+- **nara** m. ⟪नर⟩ : man, human being
+- **lubh** 4 P (lubhyati) ⟪लुभ्⟩ ⟪लुभ्यति⟩ : to desire
+- **sūkta** 3 ⟪सूक्त⟩ : well said, beautifully spoken; n. song
+- **śiṣya** m. ⟪शिष्य⟩ : student
+- **atra** ⟪अत्र⟩ : here
+- **tatra** ⟪तत्र⟩ : there
+- **bhānu** m. ⟪भानु⟩ : radiance, sun
+- **vand** 1 Ā (vandate) ⟪वन्द्⟩ ⟪वन्दते⟩ : to greet, to honor
+- **vṛṣ** 1 P (varṣati) ⟪वृष्⟩ ⟪वर्षति⟩ : to rain
+- **nṛpa** m. ⟪नृप⟩ : king, prince
+- **kṣīra** n. ⟪क्षीर⟩ : milk
+- **mārga** m. ⟪मार्ग⟩ : path
+- **evam** ⟪एवम्⟩ : thus
+- **iha** ⟪इह⟩ : here
+- **śubh** 1 Ā (śobhate) ⟪शुभ्⟩ ⟪शोभते⟩ : to be beautiful, to shine
 
 ## 10.8. Reading and Translation Exercise
 
-**Read and translate, and convert to the passive voice:**
+**Read and translate, and convert into the passive voice:**
 
-**⟪क⟫**
+⟪क⟫
 
 ⟪१⟫.
-:::
-center
+::: center
 ⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
 ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
@@ -381,7 +383,7 @@ center
 ⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ | |
 ⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
 
-**⟪ख⟫**
+⟪ख⟫
 
 ⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ | |
 ⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ | |

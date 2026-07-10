@@ -11,7 +11,7 @@ status: stable
 
 ## 54.1. Vorbemerkung
 
-Mit Lektion 54 beginnt im Universitätsunterricht das 2. Semester. Ab jetzt läuft der Kurs nur noch neben dem Hauptthema dieses Semesters: der Lektüre der ganzen Bhagavadgītā. Lernziel ist eine solche Geläufigkeit im Lesen eines mittelschweren Textes, dass im letzten Drittel des Semesters große Teile der Bhagavadgītā aus dem Stegreif übersetzt werden können. Zu Beginn wurden im Universitätsunterricht noch Wortlisten ausgeteilt, später mussten die Studierenden selbst entsprechende Wörterbücher (Monier-Williams, Apte, PW) benutzen.
+Mit Lektion 54 beginnt im Universitätsunterricht das 2. Semester. Ab jetzt läuft der Kurs nur noch neben dem Hauptthema dieses Semesters: der Lektüre der ganzen Bhagavadgītā. Lernziel ist eine solche Geläufigkeit im Lesen eines mittelschweren Textes, dass im letzten Drittel des Semesters grosse Teile der Bhagavadgītā aus dem Stegreif übersetzt werden können. Zu Beginn wurden im Universitätsunterricht noch Wortlisten ausgeteilt, später mussten die Studierenden selbst entsprechende Wörterbücher (Monier-Williams, Apte, PW) benutzen.
 
 Der Kurs zur Bhagavadgītā wird vorläufig noch nicht online zur Verfügung gestellt.
 
@@ -19,16 +19,18 @@ Die Lektionen des Sanskritkurses behandeln Themen der Sanskritgrammatik, die bis
 
 ## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
 
-:::grammar-box
+::: grammar-box
 **An Desiderativstämme (⟪इच्छाप्रकृति⟫) ("etwas zu tun wünschen" ; "im Begriffe sein, etwas zu tun") tritt zur Bildung von Nomina agentis das Suffix -u.**
 
 (Bildung der Desiderativstämme folgt später)
 
 Beispiel:
 
-:::indent
+:::
+::: indent
 ⟪युयुत्सु⟫ (yu-yudh + s + u) "kampfebegierig, im Begriffe, zu kämpfen"
-:::::::::media
+:::
+::: media
 ![](/images/lekt5402.webp)
 Abb.: ⟪अयुयुत्सुरर्जुनः⟫
 ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
@@ -36,7 +38,7 @@ Abb.: ⟪अयुयुत्सुरर्जुनः⟫
 :::
 ## 54.3. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫
 
-:::grammar-box
+::: grammar-box
 Die ⟪त्रिष्टुभ्⟫ ("Drei-Jauchzer") erscheint in den Epen inmitten der üblichen ⟪श्लोक⟫-Partien gerade an Stellen, wo Stimmung oder Handlung einen besonderen Aufschwung oder Abschluss erfahren.
 
 Die ⟪त्रिष्टुभ्⟫-Strophe besteht aus vier elfsilbigen ⟪पाद⟫, die sich im Bau nicht voneinander unterscheiden.
@@ -46,58 +48,55 @@ Die ⟪त्रिष्टुभ्⟫ hat zwei Grundschemata, je nachdem, ob 
 Schema I:
 
 :::
-metrik-schema
+::: metrik-schema
 × — × — / × ◡ — **— ◡ — —**
 :::
 Schema II:
 
-:::
-metrik-schema
+::: metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
 Die Quantität der vier letzten Silben ist also in beiden Schemata gleich.
 
 ⟪जगती⟫-Grundform: wie bei ⟪त्रिष्टुभ्⟫, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten:
 
-:::
-metrik-schema
+::: metrik-schema
 **— ◡ — ◡ —**
 :::
 Daneben gibt es die sog. typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die weitergeht wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied:
 
-:::
-metrik-schema
+::: metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
 In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind:
 
 a) ⟪इन्द्रवज्रा⟫
 
-:::
-metrik-schema
+::: metrik-schema
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-:::
-metrik-schema
+::: metrik-schema
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫
 
-:::indent
+::: indent
 ⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ und ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ sind in eine Strophe gemischt.
-:::::::::grammar-box
+:::
+::: grammar-box
 **Merkverse:**
 
 **⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
 
-:::indent
+:::
+::: indent
 "Es ist eine Indravājrā, wenn die Silben in allen Pādas ta ta ja ga ga sind.
 :::
 ⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
 
-:::indent
+::: indent
 "Eine Upendravajrā ist wie eine Indravajrā, die am Anfang eine leichte Silben hat"
 :::
 ⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
@@ -105,9 +104,9 @@ c) ⟪उपजाति⟫
 ⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
 ⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
 
-:::indent
+::: indent
 "Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā haben, an einem Vers beteiligt sind, dann sind es Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti."
-::::::
+:::
 ## 54.4. Übung zur Metrik
 
 Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
@@ -116,11 +115,12 @@ Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3]
 
 ## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫)
 
-:::grammar-box
+::: grammar-box
 **Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (⟪लङ्⟫) vorgesetzt wird.**
 
 Vom Aorist sind im Sanskrit nur Indikativ und Prekativ gebvräuchlich.
-::::::grammar-box
+:::
+::: grammar-box
 **Es gibt folgende Bildungstypen des Aorist (⟪लुङ्⟫):**
 
 1.  Nichtsibilantische (asigmatische) Aoriste: 
@@ -137,7 +137,7 @@ Verteilung der Wurzeln auf die einzelnen Bildungstypen siehe bei den einzelnen T
 :::
 ## 54.6. Wurzelaorist
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
 **Augment + Wurzel + Sekundärendung**
@@ -148,7 +148,7 @@ Beispiel:
 
 ⟪पा⟫ 1P "trinken"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
@@ -172,18 +172,18 @@ Nur von 12 Wurzeln wird der Wurzelaorist gebildet:
 
 Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet:
 
-:::grammar-box
+::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
+| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | sig[⟪अभूवन्⟫] (!!!) |
 :::
 ### 54.6.1. Der Aorist der 3.sg.Passiv
 
 Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann von allen Wurzeln gebildet werden.
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
 **Augment + Wurzel + i**
@@ -192,10 +192,10 @@ Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann vo
 
 Hochstufe:
 
-*   Wurzeln mit kurzem Vokal (außer a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Wurzeln auf -am  
+*   Wurzeln mit kurzem Vokal (ausser a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Wurzeln auf -am  
     Beispiele:  
     ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"  
-    ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestoßen"
+    ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestossen"
 
 Dehnstufe:
 
@@ -206,7 +206,7 @@ Dehnstufe:
     ⟪कृ⟫ 8U: ⟪अकारि⟫ "es wurde gemacht"  
      
     
-*   Wurzeln mit a vor einfachem Konsonanten (außer ⟪जन्⟫ und Wurzeln auf -am)  
+*   Wurzeln mit a vor einfachem Konsonanten (ausser ⟪जन्⟫ und Wurzeln auf -am)  
     Beispiel:  
     ⟪वद्⟫ 1P: ⟪अवादि⟫ "es wurde gesagt"  
     aber:  
@@ -262,15 +262,18 @@ Nasalinfix:
 22.  ⟪गीयते⟫
 23.  ⟪गम्यते⟫
 
-:::media
+::: media
 ![](/images/lekt5401.webp)
 Abb.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Bildquelle: [Details](/licenses#lekt5401))
-::::::deleteme-box
+:::
+
+::: deleteme-box
 
 **lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Bildquelle: Raji Srinivas / Wikipedia. GNU FDLicense]
 
 **lekt5401:** Tamil Nadu [Bildquelle: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Zugriff am 2009-01-28. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, shre alike)]
 
 :::
+

@@ -1,15 +1,15 @@
 ---
-title: Lección 3
-subtitle: "El nominativo singular del femenino"
+title: Lektion 3
+subtitle: "Den Nominativ Singular des Femininums"
 lesson_id: 3
 last_reconstructed: 2026-05-07
-category: "Gramática"
+category: "Grammatik"
 status: stable
 ---
 
 # Lección 3
 
-:::deleteme-box
+::: deleteme-box
 **En esta lección aprenderá:**
 - el nominativo singular del femenino
 - el nominativo plural del masculino y del femenino
@@ -23,7 +23,7 @@ status: stable
 
 Los siguientes stems nominales, que terminan en una vocal, también forman el nominativo singular en **-s**:
 
-:::grammar-box
+::: grammar-box
 - **Femeninos en -i**: p. ej. **śruti** f. "la escucha" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **Femeninos en -u**: p. ej. **dhenu** f. "vaca lechera" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
@@ -31,18 +31,17 @@ Los siguientes stems nominales, que terminan en una vocal, también forman el no
 
 El nominativo singular se forma sin terminación:
 
-:::grammar-box
+::: grammar-box
 - **Femeninos en -ā**: p. ej. **devatā** f. "divinidad" -- Nom. sg.: **devatā** = ⟪देवता⟫
 - **Femeninos en -ī**: p. ej. **devī** f. "diosa" -- Nom. sg.: **devī** = ⟪देवी⟫
-::::::
-important
+:::
+::: important
 **¡Atención!** Además, existen nombres radicales femeninos monosílabos en -ī, cuyo nominativo singular termina en -s: p. ej. dhī f. "pensamiento" -- Nom. sg.: dhīs = ⟪धीस्⟫. También **lakṣmī** (⟪लक्ष्मी⟫) f., **tarī** (⟪तरी⟫) f. "barca" y **tantrī** (⟪तन्त्री⟫) f. "cuerda" forman irregularmente el nominativo singular en -s: **lakṣmīs** = ⟪लक्ष्मीस्⟫.
 :::
----
 
 ## 3.2. Formación de los femeninos a partir de los masculinos
 
-:::grammar-box
+::: grammar-box
 **Masculinos en -a:**
 - **Femenino en -ā**: p. ej. **kṣatriya** m. » **kṣatriyā** f. «Mujer kṣatriya» = ⟪क्षत्रिया⟫
 - **Femenino en -ī**: p. ej. **brāhmaṇa** m. » **brāhmaṇī** f. «Brahmana» = ⟪ब्राह्मणी⟫
@@ -51,11 +50,10 @@ important
 - **Femenino en -ī**: p. ej. **sādhu** m. » **sādhvī** f. (bueno, santa) = ⟪साध्वी⟫
   (**-u-** se convierte en **-v-** antes de vocal, por lo tanto **-u- + -ī** » **-vī**)
 :::
----
 
 ## 3.3. Nominativo plural masculino y femenino
 
-:::grammar-box
+::: grammar-box
 La terminación del nominativo plural en masculino y femenino es **-as**.
 - **Masculinos en -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
 - **Femeninos en -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
@@ -67,11 +65,9 @@ La terminación del nominativo plural en masculino y femenino es **-as**.
 :::
 Nota: **e** es la forma reforzada (**guṇa**) de **i**, **o** es la forma reforzada de **u**.
 
----
-
 ## 3.4. Sandhi de vocales
 
-:::grammar-box
+::: grammar-box
 **Las vocales simples, que no difieren o solo difieren en su longitud, "se fusionan" en la vocal larga correspondiente:**
 - -a / -ā + a- / ā- » **-ā-**
 - -i / -ī + i- / ī- » **-ī-**
@@ -88,11 +84,13 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī es una diosa" = ⟪देव
 
 > (Indrāṇī es la esposa del dios Indra.)
 
-:::media
+::: media
 ![](/images/lekt0301.webp)
 Fig.: Indra e Indrāṇī sobre el elefante Airavata, miniatura, Rājasthān, 1670/80
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0301))
-::::::grammar-box
+:::
+
+::: grammar-box
 **Las vocales simples (excepto -a / -ā) se reemplazan por la semivocal correspondiente ante vocales no similares:**
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
@@ -105,7 +103,7 @@ devī + umā » devy umā "Umā es una / la diosa" = ⟪देव्युमा
 
 > (Umā es un nombre para Pārvatī, la esposa de Śiva)
 
-:::grammar-box
+::: grammar-box
 **-a / -ā ante vocal no similar:**
 - -a / -ā + i- / ī- » **-e-**
 - -a / -ā + ṛ- » **-ar-**
@@ -114,7 +112,7 @@ devī + umā » devy umā "Umā es una / la diosa" = ⟪देव्युमा
 :::
 Para este sandhi se aplica el siguiente esquema:
 
-:::media
+::: media
 ![](/images/lekt0302.jpg)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0302))
 :::
@@ -124,18 +122,14 @@ p. ej.
 
 śūdrā + itarā » śudretarā "Itarā es una mujer śūdra" = ⟪शूद्रेतरा⟫
 
----
-
 ## 3.5. Sandhi de oración de -ās
 
-:::grammar-box
+::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
 por ejemplo
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Los vaiśyas son dos veces nacidos" = ⟪द्विजा⟫ ⟪वैश्याः⟫
-
----
 
 ## 3.6. Lista de palabras
 
@@ -180,7 +174,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Los vaiśyas son dos veces nacidos"
 
 **devī** f. = ⟪देवी⟫ : diosa, en especial Durgā f. = ⟪दुर्गा⟫, la esposa de Śiva = ⟪शिव⟫.
 
-:::media
+::: media
 ![](/images/lekt0303.webp)
 Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 (Fuente de la imagen: [Detalles](/images/lekt0303))
@@ -198,8 +192,6 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 **karuṇā** f. = ⟪करुणा⟫ : compasión, lástima.
 
 **muditā** f. = ⟪मुदिता⟫ : alegría, especialmente alegría compartida (opuesto a la envidia).
-
----
 
 ## 3.7. Ejercicio
 
@@ -239,3 +231,4 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 5. Los poetas son maestros.
 6. Los kṣatriyas son dos veces nacidos.
 7. Los hombres sagrados son śūdras.
+

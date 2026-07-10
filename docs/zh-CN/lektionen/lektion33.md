@@ -1,421 +1,433 @@
 ---
-title: Lektion 33
+title: 第33课
 lesson_id: 33
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 33
 
 ## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
 
-* Die dritte Präsensklasse <!-- TODO: Fallback translation -->
-* (sowie einige Verben anderer Präsensklassen), <!-- TODO: Fallback translation -->
-* das Perfekt, <!-- TODO: Fallback translation -->
-* der reduplizierte Aorist, <!-- TODO: Fallback translation -->
-* das Frequentativum und <!-- TODO: Fallback translation -->
-* das Desiderativum <!-- TODO: Fallback translation -->
+* 第三现在时类
+* （以及其他现在时类的某些动词），
+* 完成时，
+* 重音过去时，
+* 频繁体，以及
+* 欲求体
 
-werden mittels Reduplikation gebildet. Der Teil einer reduplizierten Form, der vor die Wurzel gesetzt wird, heißt Reduplikationssilbe. <!-- TODO: Fallback translation -->
+通过重叠方式构成。重叠形式中置于词根之前的部分称为重叠音节。
 
-Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal. <!-- TODO: Fallback translation -->
+重叠音节由（一个辅音和）一个元音组成。
 
 ### 33.1.1. Der Reduplikationskonsonant
 
-:::grammar-box
-**1. Gewöhnlich:**  
-**Wiederholung des ersten Konsonanten der Wurzel** <!-- TODO: Fallback translation -->
+::: grammar-box
+**1. 通常：**
+**重复词根的第一个辅音**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+例如：
 
-:::indent
-**⟪दा⟫** 3 "geben" <!-- TODO: Fallback translation -->
-* 3.sg.P.Ind.Präs. **⟪ददाति⟫** <!-- TODO: Fallback translation -->
+::: indent
+**⟪दा⟫** 3 “给予”
+* 3.sg.P.Ind.Präs. **⟪ददाति⟫**
 
-**⟪पॄ⟫** 3 "füllen" <!-- TODO: Fallback translation -->
-* 3.sg.P.Ind.Präs. ***⟪पि⟫***⟪पर्ति⟫ <!-- TODO: Fallback translation -->
+**⟪पॄ⟫** 3 “充满”
+* 3.sg.P.Ind.Präs. ***⟪पि⟫***⟪पर्ति⟫
 
-**⟪मा⟫** 3Ā "messen" <!-- TODO: Fallback translation -->
-* 3.sg.Ā.Ind.Präs. ***⟪मि⟫***⟪मीते⟫ <!-- TODO: Fallback translation -->
-::::::grammar-box
-**2. Ein aspirierter Anfangskonsonant einer Wurzel wird durch den entsprechenden nicht-aspirierten Konsonanten redupliziert.** <!-- TODO: Fallback translation -->
+**⟪मा⟫** 3Ā “messen”
+* 3.sg.Ā.Ind.Präs. ***⟪मि⟫***⟪मीते⟫
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+::: grammar-box
+**2. Ein aspirierter Anfangskonsonant einer Wurzel wird durch den entsprechenden nicht-aspirierten Konsonanten redupliziert.**
+:::
+Beispiele:
 
-:::indent
-**⟪धा⟫** 3 "setzen" <!-- TODO: Fallback translation -->
-* 3.sg.P.Ind.Präs. **⟪दधाति⟫** <!-- TODO: Fallback translation -->
+::: indent
+**⟪धा⟫** 3 “setzen”
+* 3.sg.P.Ind.Präs. **⟪दधाति⟫**
 
-**⟪भी⟫** 3 "fürchten" <!-- TODO: Fallback translation -->
-* 3.sg.P.Ind.Präs. ***⟪बि⟫***⟪भेति⟫ <!-- TODO: Fallback translation -->
-:::::::grammar-box
-**3. Ein Guttural wird durch den ihm entsprechenden nicht-aspirierten Palatal redupliziert:** <!-- TODO: Fallback translation -->
+**⟪भी⟫** 3 “fürchten”
+* 3.sg.P.Ind.Präs. ***⟪बि⟫***⟪भेति⟫
+:::
+::: grammar-box
+**3. Ein Guttural wird durch den ihm entsprechenden nicht-aspirierten Palatal redupliziert:**
 
-:::indent
+:::
+::: indent
 **⟪क्⟫**, **⟪ख्⟫** durch **⟪च्⟫**  
-**⟪ग्⟫**, **⟪घ्⟫** durch **⟪ज्⟫** <!-- TODO: Fallback translation -->
+**⟪ग्⟫**, **⟪घ्⟫** durch **⟪ज्⟫**
 :::
-**⟪ह्⟫ wird immer durch ⟪ज्⟫ redupliziert.** <!-- TODO: Fallback translation -->
-:::
-Beispiele: <!-- TODO: Fallback translation -->
+**⟪ह्⟫ wird immer durch ⟪ज्⟫ redupliziert.**
+Beispiele:
 
-:::indent
-**⟪हु⟫** 3 "(zum Opfer) ins Feuer gießen" <!-- TODO: Fallback translation -->
-* 3.sg.P.Ind.Präs. **⟪जुहोति⟫** <!-- TODO: Fallback translation -->
-::::::grammar-box
-**4. Beginnt eine Wurzel mit mehreren Konsonanten, so wird nur der erste (gegebenenfalls unter Anwendung von Regel 2 bzw. 3) wiederholt.** <!-- TODO: Fallback translation -->
-::::::grammar-box
-**5. Beginnt eine Wurzel mit einer Konsonantengruppe Zischlaut + tonloser Konsonant, so wird nicht der Zischlaut, sondern der darauf folgende tonlose Konsonant gemäß obigen Regeln redupliziert.** <!-- TODO: Fallback translation -->
+::: indent
+**⟪हु⟫** 3 “向火中倾倒（作为祭品）”
+* 第三人称单数指示语气现在时 **⟪जुहोति⟫**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
-
-:::indent
-**⟪स्था⟫** 1 "stehen" <!-- TODO: Fallback translation -->
-* 3.sg.P.Ind.Präs. **⟪तिष्ठति⟫** <!-- TODO: Fallback translation -->
+::: grammar-box
+**4. 若词根以多个辅音开头，则仅重复第一个辅音（必要时应用规则2或规则3）。**
 :::
-## 33.2. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ u.s.w.")
+::: grammar-box
+**5. 若词根以一组辅音（擦音+清辅音）开头，则不重复擦音，而是根据上述规则重复其后的清辅音。**
+:::
+示例：
 
-:::grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+::: indent
+**⟪स्था⟫** 1 “站立”
+* 3.sg.P.Ind.Präs. **⟪तिष्ठति⟫**
+:::
+## 33.2. 第三类现在时（⟪जुहोत्यादि⟫ = “⟪जुहोति⟫ 等”）
+
+::: grammar-box
+**教育：**
 
 **starker Stamm:**  
-**reduplizierte hochstufige Wurzel + Endung** <!-- TODO: Fallback translation -->
+**reduplizierte hochstufige Wurzel + Endung**
 
-**schwacher Stamm:**  
-**reduplizierte tiefstufige Wurzel + Endung** <!-- TODO: Fallback translation -->
+**弱词干：**  
+**带词尾的重叠低声调词根**
 
-**Für den Reduplikationskonsonanten gelten die oben gegebenen Regeln.** <!-- TODO: Fallback translation -->
+**关于重叠辅音，适用上述给出的规则。**
 :::
-### 33.2.1. Der Reduplikationsvokal der 3. Präsensklasse
+### 33.2.1. 第三现在时类的重叠元音
 
-:::grammar-box
-* **Der regelmäßige Reduplikationsvokal ist -i-** <!-- TODO: Fallback translation -->
-* **u-haltige Wurzeln reduplizieren mit -u-** <!-- TODO: Fallback translation -->
-* **die Wurzeln ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ mit -a-** <!-- TODO: Fallback translation -->
+::: grammar-box
+* **Der regelmäßige Reduplikationsvokal ist -i-**
+* **u-haltige Wurzeln reduplizieren mit -u-**
+* **die Wurzeln ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ mit -a-**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
-::::grammar-box
-**⟪हु⟫** 3P "(zum Opfer) ins Feuer gießen" <!-- TODO: Fallback translation -->
+::: grammar-box
+**⟪हु⟫** 第三人称单数 “（向祭品）倒入火中”
 
-* **starker Stamm:** ⟪जुहो⟫ <!-- TODO: Fallback translation -->
-* **schwacher Stamm:** ⟪जुहु⟫ <!-- TODO: Fallback translation -->
+* **starker Stamm:** ⟪जुहो⟫
+* **schwacher Stamm:** ⟪जुहु⟫
 
-| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | &lt;⟪जुहुते⟫&gt; | &lt;⟪जुह्वते⟫&gt;:brjuhu + ate | <!-- TODO: Fallback translation -->
-| **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | &lt;⟪अजुहुत⟫&gt; | &lt;⟪अजुह्वत⟫&gt;:bra-juhu + ata | <!-- TODO: Fallback translation -->
-| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | &lt;⟪जुह्वीत⟫&gt;:brjuhu + ī-ta | &lt;⟪जुह्वीरन्⟫&gt;:brjuhu + ī-ran | <!-- TODO: Fallback translation -->
+| | 第三人称单数主动语态 | 第三人称复数主动语态 | 第三人称单数中动语态 | 第三人称复数中动语态 |
+| :--- | :--- | :--- | :--- | :--- |
+| **现在时直陈式** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
+| **未完成时** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
+| **虚拟式** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
-## 33.3. Zum Ablaut von ā
+## 33.3. 关于长音 ā 的元音交替
 
-ā kann <!-- TODO: Fallback translation -->
+ā kann
 
-* einerseits Dehnstufe einer der Ablautreihen mit -a- sein <!-- TODO: Fallback translation -->
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein <!-- TODO: Fallback translation -->
+* 一方面，它是元音交替系列之一，带有 -a-
+* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback translation -->
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
-:::grammar-box
-**A.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**A.**
 
-* **Tiefstufe** <!-- TODO: Fallback translation -->
-  * **vor Konsonant: -i-**   <!-- TODO: Fallback translation -->
-    z.B. **⟪धा⟫** PPP: **⟪हित⟫** (hi-ta) <!-- TODO: Fallback translation -->
-  * **vor Vokal: Ø**   <!-- TODO: Fallback translation -->
-    z.B. **⟪धा⟫** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati) <!-- TODO: Fallback translation -->
-* **Hochstufe: -ā-**   <!-- TODO: Fallback translation -->
-  z.B. **⟪धा⟫** 3.sg.P.Ind.Präs. **⟪दधाति⟫** <!-- TODO: Fallback translation -->
+* **Tiefstufe**
+  * **vor Konsonant: -i-**  
+    z.B. **⟪धा⟫** PPP: **⟪हित⟫** (hi-ta)
+  * **vor Vokal: Ø**  
+    z.B. **⟪धा⟫** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
+* **Hochstufe: -ā-**  
+  z.B. **⟪धा⟫** 3.sg.P.Ind.Präs. **⟪दधाति⟫**
 :::
-Hierher gehört z.B. auch: <!-- TODO: Fallback translation -->
+Hierher gehört z.B. auch:
 
-:::indent
-**⟪स्था⟫** 1 <!-- TODO: Fallback translation -->
-* PPP **⟪स्थित⟫** (sthi-ta) <!-- TODO: Fallback translation -->
-* 3.sg.P.Fut. **⟪स्थास्यति⟫** (sthā-sya-ti) <!-- TODO: Fallback translation -->
-:::::::grammar-box
-**B.** <!-- TODO: Fallback translation -->
-
-* **Tiefstufe: -ī-**   <!-- TODO: Fallback translation -->
-  z.B. **⟪पा⟫** 1: PPP **⟪पीत⟫** (pī-ta) <!-- TODO: Fallback translation -->
-* **Hochstufe: -ā-**   <!-- TODO: Fallback translation -->
-  z.B. **⟪पा⟫** 1: Inf. **⟪पातुम्⟫** <!-- TODO: Fallback translation -->
+::: indent
+**⟪स्था⟫** 1
+* PPP **⟪स्थित⟫** (sthi-ta)
+* 3.sg.P.Fut. **⟪स्थास्यति⟫** (sthā-sya-ti)
 :::
-## 33.4. Wurzeln auf -ā der dritten Präsensklasse
+::: grammar-box
+**B.**
 
-:::grammar-box
-**Wurzeln auf -ā (außer ⟪दा⟫ und ⟪धा⟫) lauten im schwachen Stamm gewöhnlich auf -ī- ab** (siehe dazu Thumb-Hauschild Bd. 1,1 S. 271. Vermutlich wirkte dabei die oben  genannte Ablautreihe B als Vorbild, obwohl diese Wurzeln sonst nach Reihe A ablauten), **vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A).** <!-- TODO: Fallback translation -->
+* **深等级：-ī-**  
+  例如 **⟪पा⟫** 1：PPP **⟪पीत⟫** (pī-ta)
+* **高等级：-ā-**  
+  例如 **⟪पा⟫** 1：不定式 **⟪पातुम्⟫**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+## 33.4. 第三现在时类的 -ā 词根
 
-::::grammar-box
-**⟪मा⟫** 3Ā "messen" <!-- TODO: Fallback translation -->
-
-| | 3. sg. Ā. | 3. pl. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate | <!-- TODO: Fallback translation -->
-| **Imperfekt** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran | <!-- TODO: Fallback translation -->
-:::::::grammar-box
-**⟪हा⟫** 3P "verlassen" <!-- TODO: Fallback translation -->
-
-| | 3. sg. P. | 3. pl. P. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati | <!-- TODO: Fallback translation -->
-| **Imperfekt** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel **⟪हा⟫** hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur | <!-- TODO: Fallback translation -->
+::: grammar-box
+**词根以 -ā 结尾（⟪दा⟫ 和 ⟪धा⟫ 除外）**，在弱式词干中通常以 -ī- 结尾**（参见 Thumb-Hauschild 第 1 卷第 1 部分第 271 页。推测此处以上述提到的 B 类元音交替为范本，尽管这些词根通常遵循 A 类交替）；**在元音词尾前，词根元音完全消失（参见 A 类元音交替）。**
 :::
-### 33.4.1. Die Wurzeln **⟪दा⟫** und **⟪धा⟫**
+示例：
 
-:::grammar-box
-**Die Wurzeln ⟪दा⟫ und ⟪धा⟫ reduplizieren mit dem Vokal -a- und verlieren im schwachen Stamm den Wurzelvokal.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**⟪मा⟫** 3Ā “测量”
 
-**Beachten Sie bei ⟪धा⟫ das Hauchdissimilationsgesetz!** <!-- TODO: Fallback translation -->
-:::::::grammar-box
-**⟪धा⟫** 3U "setzen, festsetzen, zuteilen" <!-- TODO: Fallback translation -->
-
-| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Erklärung: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate | <!-- TODO: Fallback translation -->
-| **Imperfekt** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ | <!-- TODO: Fallback translation -->
+| | 3. sg. Ā. | 3. pl. Ā. |
+| :--- | :--- | :--- |
+| **陈述语气现在时** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
+| **未完成过去时** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ |
+| **虚拟语气** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
 :::
-Die Formen von **⟪दा⟫** erhält man, indem man im Paradigma von **⟪धा⟫** **dh** durch **d** ersetzt. Also: <!-- TODO: Fallback translation -->
+::: grammar-box
+**⟪हा⟫** 第三人称单数 “离开”
 
-::::grammar-box
-**⟪दा⟫** 3U "geben" <!-- TODO: Fallback translation -->
-
-| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ | <!-- TODO: Fallback translation -->
+| | 第三人称单数现在时 | 第三人称复数现在时 |
+| :--- | :--- | :--- |
+| **直陈式现在时** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
+| **未完成过去时** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
+| **虚拟式** | ⟪जह्यात्⟫:brjah-yā-t:br（词根**⟪हा⟫**在虚拟式后缀-yā/y之前，其形式与在元音之前相同！） | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-## 33.5. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
+### 33.4.1. 词根 **⟪दा⟫** 和 **⟪धा⟫**
 
-:::grammar-box
-**Die Verben der 3. Klasse bilden alle Formen des Partizip Präsens Parasmaipada vom schwachen Stamm.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**词根 ⟪दा⟫ 和 ⟪धा⟫ 以元音 -a- 进行重音，并在弱词干中失去词根元音。**
 
-**Ausnahme: Nominativ/Akkusativ Plural Neutrum kann wahlweise vom starken oder schwachen Stamm gebildet werden.** <!-- TODO: Fallback translation -->
+**注意 ⟪धा⟫ 中的送气同位异化规则！**
 :::
-**⟪दा⟫** Partizip Präsens Parasmaipada: <!-- TODO: Fallback translation -->
+::: grammar-box
+**⟪धा⟫** 3U “放置，确定，分配”
 
-::::grammar-box
-| | Maskulinum:br⟪पुंल्लिङ्ग⟫ | Neutrum:br⟪नपुंसकलिङ्ग⟫ | Femininum:br⟪स्त्रीलिङ्ग⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Singular** | | | | <!-- TODO: Fallback translation -->
-| **1. Nominativ** | ⟪ददत्⟫:brdad-at + s | ⟪ददत्⟫:brdad-at-Ø | ⟪ददती⟫ | <!-- TODO: Fallback translation -->
-| **2. Akkusativ** | ⟪ददतम्⟫:brdad-at-am | ⟪ददत्⟫ | | <!-- TODO: Fallback translation -->
-| **Plural** | | | | <!-- TODO: Fallback translation -->
-| **1. Nominativ** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | | <!-- TODO: Fallback translation -->
-| **2. Akkusativ** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | | <!-- TODO: Fallback translation -->
+| | 第三人称单数主动 | 第三人称复数主动 | 第三人称单数被动 | 第三人称复数被动 |
+| :--- | :--- | :--- | :--- | :--- |
+| **现在时直陈式** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(解释：Thumb-Hauschild 1,1 第302-303页) | ⟪दधते⟫:brdadh-ate |
+| **未完成时** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
+| **虚拟式** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Ähnlich **⟪जुह्वत्⟫** (juhu-at + s) <!-- TODO: Fallback translation -->
+**⟪दा⟫** 的形式是通过在 **⟪धा⟫** 的变位表中将 **dh** 替换为 **d** 得到的。即：
+
+::: grammar-box
+**⟪दा⟫** 3U “给予”
+
+| | 第三人称单数主动语态 | 第三人称复数主动语态 | 第三人称单数中动态 | 第三人称复数中动态 |
+| :--- | :--- | :--- | :--- | :--- |
+| **现在时直陈式** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
+| **未完成时** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
+| **祈愿语气** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
+:::
+## 33.5. 第三现在时类词根的主动语态现在时分词
+
+::: grammar-box
+**第三类动词的所有形式都来自弱词干的Parasmaipada现在分词。**
+
+**例外：中性复数主格/宾格可选择由强词干或弱词干构成。**
+:::
+**⟪दा⟫** 现在时主动语态分词：
+
+::: grammar-box
+| | 阳性：br⟪पुंल्लिङ्ग⟫ | 中性：br⟪नपुंसकलिङ्ग⟫ | 阴性：br⟪स्त्रीलिङ्ग⟫ |
+| :--- | :--- | :--- | :--- |
+| **单数** | | | |
+| **1. 主格** | ⟪ददत्⟫:brdad-at + s | ⟪ददत्⟫:brdad-at-Ø | ⟪ददती⟫ |
+| **2. 宾格** | ⟪ददतम्⟫:brdad-at-am | ⟪ददत्⟫ | |
+| **复数** | | | |
+| **1. 主格** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
+| **2. 宾格** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
+:::
+类似地 **⟪जुह्वत्⟫** (juhu-at + s)
 
 ## 33.6. Wortliste
 
-**⟪दा⟫** 3U **⟪ददाति⟫**: geben <!-- TODO: Fallback translation -->
+**⟪दा⟫** 3U **⟪ददाति⟫**: 给予
 
-:::indent
-**Fut.**  ⟪दास्यति⟫  
-**Pass.** ⟪दीयते⟫  
-**Kaus.** ⟪दापयति⟫  
-**PPP** ⟪दत्त⟫  
-**Inf.** ⟪दातुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+**将来时**  ⟪दास्यति⟫  
+**被动态**  ⟪दीयते⟫  
+**使役态**  ⟪दापयति⟫  
+**过去被动分词**  ⟪दत्त⟫  
+**不定式**  ⟪दातुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-**⟪दान⟫** n.: Geben, Gabe, Freigebigkeit <!-- TODO: Fallback translation -->
-::::::media
+**⟪दान⟫** n.：给予，礼物，慷慨
+:::: media
 ![](/images/lekt3306.webp)
-Abb.: ⟪दानम्⟫
-(Bildquelle: [Details](/licenses#lekt3306)) <!-- TODO: Fallback translation -->
+图：⟪दानम्⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3306)）
+::::
 :::
-**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (in Empfang) nehmen, in Besitz nehmen, mitnehmen <!-- TODO: Fallback translation -->
+**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**：（接收）接受，占有，带走
 
-:::indent
-**Absol.** ⟪आदाय⟫: mit Akk.: in Begleitung von, mit <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+**绝对。** ⟪आदाय⟫：带宾格：与……一起，伴随
+:::: media
 ![](/images/lekt3307.webp)
-Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
-(Bildquelle: [Details](/licenses#lekt3307)) <!-- TODO: Fallback translation -->
+图：⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3307)）
+::::
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: setzen, festsetzen, zuteilen <!-- TODO: Fallback translation -->
+***⟪धा⟫*** 3U ***⟪दधाति⟫***：放置，设定，分配
 
-:::indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Kaus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫*** <!-- TODO: Fallback translation -->
+::: indent
+**将来时** ***⟪धास्यति⟫***  
+**被动语态** ***⟪धीयते⟫***  
+**使役式** ***⟪धापयति⟫***  
+**过去被动分词** ***⟪हित⟫*** (!!)  
+**不定式** ***⟪धातुम्⟫***
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: die ganze Aufmerksamkeit auf etwas richten, sich sammeln <!-- TODO: Fallback translation -->
+**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 第三变位 **⟪समादधाति⟫**：将全部注意力集中于某事，集中精神
 
-:::indent
-davon: <!-- TODO: Fallback translation -->
+::: indent
+其中：
 
-**⟪समाधि⟫** m.: innere Sammlung, höchste Aufmerksamkeit <!-- TODO: Fallback translation -->
-::::::media
+**⟪समाधि⟫** m.: 内在的集中，最高的专注
+:::: media
 ![](/images/lekt3305.webp)
-Abb.: ⟪समाधि⟫
-(Bildquelle: [Details](/licenses#lekt3305)) <!-- TODO: Fallback translation -->
+图：⟪समाधि⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3305)）
+::::
 :::
-**⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: füllen, erfüllen <!-- TODO: Fallback translation -->
+**⟪पॄ⟫** 3P **⟪पिपर्ति⟫**：充满，实现
 
-:::indent
-Merke:
-3.pl.P ***⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪अपिपर्⟫*** (aus: \*apipart)  
-3.pl.Impf.P ***⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪पिपूर्यात्⟫*** <!-- TODO: Fallback translation -->
+::: indent
+注意：
+第三人称复数现在时主动态 ***⟪पिपुरति⟫***  
+第三人称单数未完成时主动态 ***⟪अपिपर्⟫*** （源自：\*apipart）  
+第三人称复数未完成时主动态 ***⟪अपिपरुर्⟫***  
+第三人称单数祈愿语态主动态 ***⟪पिपूर्यात्⟫***
 
-**Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
-**Pass.** ⟪पूर्यते⟫  
-**Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
-**PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫ <!-- TODO: Fallback translation -->
+**将来時** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
+**受動態** ⟪पूर्यते⟫  
+**使役法** ⟪पूरयति⟫ / ⟪पारयति⟫  
+**PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
 :::
-**⟪पॄ⟫** + **⟪सम्⟫** nur **Pass.** ⟪सम्पूर्यते⟫ und **Kaus.**: gänzlich füllen <!-- TODO: Fallback translation -->
+**⟪पॄ⟫** + **⟪सम्⟫** は **受動態** ⟪सम्पूर्यते⟫ および **使役法** のみ：完全に埋める
 
-**⟪भी⟫** 3P **⟪बिभेति⟫**: sich fürchten vor (Abl., Gen.) <!-- TODO: Fallback translation -->
+**⟪भी⟫** 3P **⟪बिभेति⟫**: 对（与格，属格）感到恐惧
 
-:::indent
-**Fut.** ⟪भेष्यति⟫  
-**Pass.** ⟪भीयते⟫  
-**Kaus.** ⟪भाययति⟫  
-**PPP** ⟪भीत⟫  
-**Inf.** ⟪भेतुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+**将来时** ⟪भेष्यति⟫  
+**被动态** ⟪भीयते⟫  
+**使役态** ⟪भाययति⟫  
+**过去被动分词** ⟪भीत⟫  
+**不定式** ⟪भेतुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-**⟪भय⟫** n.: Angst, Furcht; Gefahr (die subjektive und die objektive Seite) <!-- TODO: Fallback translation -->
-::::::media
+**⟪भय⟫** n.：恐惧，害怕；危险（主观和客观方面）
+:::: media
 ![](/images/lekt3304.webp)
-Abb.: ⟪भयम्⟫
-(Bildquelle: [Details](/licenses#lekt3304)) <!-- TODO: Fallback translation -->
+图：⟪भयम्⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3304)）
+::::
 :::
-**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: tragen, bringen; erhalten, ernähren <!-- TODO: Fallback translation -->
+**⟪भृ⟫** 3U **⟪बिभर्ति⟫**：承载，带来；维持，滋养
 
-:::indent
-**Fut.** ⟪भरिष्यति⟫  
-**Pass.** ⟪भ्रियते⟫  
-**Kaus.** ⟪भारयति⟫  
-**PPP** ⟪भृत⟫  
-**Inf.** ⟪भर्तुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+**将来时** ⟪भरिष्यति⟫  
+**被动语态** ⟪भ्रियते⟫  
+**使役** ⟪भारयति⟫  
+**过去被动分词** ⟪भृत⟫  
+**不定式** ⟪भर्तुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-**⟪भार⟫** m.: Last <!-- TODO: Fallback translation -->
+**⟪भार⟫** m.: 负担
 :::
-**⟪मा⟫** 3Ā **⟪मिमीते⟫**: messen <!-- TODO: Fallback translation -->
+**⟪मा⟫** 3Ā **⟪मिमीते⟫**: 测量
 
-:::indent
-**Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
-**Pass.** ⟪मीयते⟫  
-**Kaus.** ⟪मापयति⟫  
-**PPP** ⟪मित⟫  
-**Inf.** ⟪मातुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+**将来时** ⟪मास्यति⟫ / ⟪मास्यते⟫  
+**被动语态** ⟪मीयते⟫  
+**使役语态** ⟪मापयति⟫  
+**过去被动分词 (PPP)** ⟪मित⟫  
+**不定式** ⟪मातुम्⟫
 :::
-**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫**: vergleichen <!-- TODO: Fallback translation -->
+**⟪मा⟫** + **⟪उप⟫** 第三人称单数 **⟪उपमिमीते⟫**：比较
 
-:::indent
-davon: <!-- TODO: Fallback translation -->
+::: indent
+其中：
 
-**⟪उपमा⟫** f.: Vergleich <!-- TODO: Fallback translation -->
+**⟪उपमा⟫** f.: 比较
 
-**⟪प्रतिमा⟫** f.: Abbild <!-- TODO: Fallback translation -->
+**⟪प्रतिमा⟫** f.: 图像
 :::
-**⟪हा⟫** 3P **⟪जहाति⟫**: verlassen <!-- TODO: Fallback translation -->
+**⟪हा⟫** 第三人称 **⟪जहाति⟫**：离开
 
-:::indent
-**Fut.** ⟪हास्यति⟫  
-**Pass.** ⟪हीयते⟫  
-**Kaus.** ⟪हापयति⟫  
-**PPP** ⟪हीन⟫: verlassen von, ermangelnd, mangelhaft  
-**Inf.** ⟪हातुम्⟫
-von PPP **⟪हीन⟫**: <!-- TODO: Fallback translation -->
+::: indent
+**将来时** ⟪हास्यति⟫  
+**被动语态** ⟪हीयते⟫  
+**使役** ⟪हापयति⟫  
+**过去被动分词** ⟪हीन⟫：被遗弃，缺乏，有缺陷  
+**不定式** ⟪हातुम्⟫
+由过去被动分词 **⟪हीन⟫** 构成：
 
-**⟪हीनयान⟫** n.: das mangelhafte Fahrzeug (des Buddhismus): verächtliche Bezeichnung durch die Vertreter des "großen Fahrzeugs", des **⟪महायान⟫**; der mangelhafte Weg (**⟪यान⟫** zu **⟪या⟫** 2: gehen, fahren). Der Ausdruck ⟪हीनयान⟫ sollte nicht mehr verwendet werden. Die heute noch existierende Form des alten Buddhismus heißt **⟪थेरवाद⟫**. <!-- TODO: Fallback translation -->
-::::::media
+**⟪हीनयान⟫** n.：有缺陷的交通工具（佛教）：由“大乘”代表使用的蔑称，即**⟪महायान⟫**；有缺陷的道路（**⟪यान⟫** 至 **⟪या⟫** 2：走，行）。表达式 ⟪हीनयान⟫ 不应再使用。当今仍存在的古老佛教形式称为 **⟪थेरवाद⟫**。
+:::: media
 ![](/images/lekt3303.webp)
-Abb.: ⟪हीनयानमेव⟫
-(Bildquelle: [Details](/licenses#lekt3303)) <!-- TODO: Fallback translation -->
+图：⟪हीनयानमेव⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3303)）
+::::
 :::
-**⟪हु⟫** 3P **⟪जुहोति⟫**: ins Feuer gießen (als Opfer, bes. Schmelzbutter) <!-- TODO: Fallback translation -->
+**⟪हु⟫** 3P **⟪जुहोति⟫**：倒入火中（作为祭品，特别是融化的酥油）
 
-:::indent
-**Fut.** ⟪होष्यति⟫  
-**Pass.** ⟪हूयते⟫  
-**Kaus.** ⟪हावयति⟫  
-**PPP** ⟪हुत⟫  
-**Inf.** ⟪होतुम्⟫ <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+**将来时** ⟪होष्यति⟫  
+**被动语态** ⟪हूयते⟫  
+**使役** ⟪हावयति⟫  
+**过去被动分词** ⟪हुत⟫  
+**不定式** ⟪होतुम्⟫
+:::: media
 ![](/images/lekt3302.webp)
-Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
-(Bildquelle: [Details](/licenses#lekt3302)) <!-- TODO: Fallback translation -->
+图：⟪घृतमग्नौ⟫ ⟪जुहोति⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3302)）
+::::
 :::
-**⟪घृत⟫** n.: Schmelzbutter, Ghee (⟪घी⟫ / گھی / ঘী) <!-- TODO: Fallback translation -->
+**⟪घृत⟫** n.：酥油，澄清黄油（⟪घी⟫ / گھی / ঘী）
 
+::: note-box
+“酥油是通过在大型锅中慢煮无盐黄油制成的，直到所有水分蒸发且蛋白质沉淀到底部。然后将煮好的澄清黄油舀出，以免搅动锅底残留的乳固体。与黄油不同，只要将酥油存放在密封容器中以防止氧化并保持干燥，它就可以在不冷藏的情况下长期保存。酥油的质地、颜色或味道取决于制作黄油所用的奶源。在印度，酥油通常由水牛奶制成，因为水牛奶的颜色往往比牛奶更白。”
+
+[来源：http://en.wikipedia.org/wiki/Ghee。——访问于2008-12-26]
 :::
-note-box
-"Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk." <!-- TODO: Fallback translation -->
+## 33.7. 练习
 
-[Quelle: http://en.wikipedia.org/wiki/Ghee. -- Zugriff am 2008-12-26] <!-- TODO: Fallback translation -->
-:::
-## 33.7. Übung
+A) 在以下句型中填入括号内单词的相应形式：
 
-A) Setzen Sie in folgendem Satzmuster die entsprechenden Formen der Wörter in der Klammer ein: <!-- TODO: Fallback translation -->
+⟪रामस्⟫ ... (⟪⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 
-⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫) <!-- TODO: Fallback translation -->
+B) Fügen Sie die entsprechenden Formen der in Klammern angegebenen Verben im Indikativ Präsens, Imperfekt und Optativ ein:
 
-B) Setzen Sie die entsprechenden Formen der in Klammern angegebenen Verben im Indikativ Präsens, Imperfekt und Optativ ein: <!-- TODO: Fallback translation -->
+⟪ब्राह्मणो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
 
-⟪ब्राह्मणो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪बुद्धगता⟫ ⟪भयान्न⟫ ... (⟪भी⟫) ⟪॥२॥⟫
 
-⟪बुद्धगता⟫ ⟪भयान्न⟫ ... (⟪भी⟫) ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪सुगतः⟫ ⟪कुलम्⟫ ... (⟪हा⟫) ⟪॥३॥⟫
 
-⟪सुगतः⟫ ⟪कुलम्⟫ ... (⟪हा⟫) ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪दुर्जना⟫ ⟪भिक्षुभ्यो⟫ ⟪ऽन्नं⟫ ⟪न⟫ ... (⟪दा⟫) ⟪॥४॥⟫
 
-⟪दुर्जना⟫ ⟪भिक्षुभ्यो⟫ ⟪ऽन्नं⟫ ⟪न⟫ ... (⟪दा⟫) ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪साधुः⟫ ⟪कृष्णे⟫ ⟪मतिम्⟫ ... (⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫) ⟪॥५॥⟫
 
-⟪साधुः⟫ ⟪कृष्णे⟫ ⟪मतिम्⟫ ... (⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫) ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪ईश्वरो⟫ ⟪लोकान्⟫ ... ⟪जनास्तु⟫ ⟪न⟫ ... (⟪मा⟫) ⟪॥६॥⟫
 
-⟪ईश्वरो⟫ ⟪लोकान्⟫ ... ⟪जनास्तु⟫ ⟪न⟫ ... (⟪मा⟫) ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪दासा⟫ ⟪भारान्⟫ ... (⟪भृ⟫) ⟪॥७॥⟫
 
-⟪दासा⟫ ⟪भारान्⟫ ... (⟪भृ⟫) ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेन⟫ ... (⟪पॄ⟫) ⟪॥८॥⟫
 
-⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेन⟫ ... (⟪पॄ⟫) ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+C) 翻译并将单数句转换为复数句，反之亦然：
 
-C) Übersetzen Sie und wandeln Sie Singularsätze in Pluralsätze um und umgekehrt: <!-- TODO: Fallback translation -->
+⟪योगयुक्तो⟫ ⟪मतिं⟫ ⟪दुःखमक्षनयन्त्यां⟫ ⟪प्रज्ञायां⟫ ⟪समाधत्ते⟫ ⟪॥१॥⟫
 
-⟪योगयुक्तो⟫ ⟪मतिं⟫ ⟪दुःखमक्षनयन्त्यां⟫ ⟪प्रज्ञायां⟫ ⟪समाधत्ते⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪यो⟫ ⟪भिक्षवे⟫ ⟪दानानि⟫ ⟪दद्यात्सो⟫ ⟪ऽपि⟫ ⟪दानपुण्यमाददीत⟫ ⟪॥२॥⟫
 
-⟪यो⟫ ⟪भिक्षवे⟫ ⟪दानानि⟫ ⟪दद्यात्सो⟫ ⟪ऽपि⟫ ⟪दानपुण्यमाददीत⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪ब्राह्मणा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪ब्राह्मणदासो⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫ ⟪॥३॥⟫
 
-⟪ब्राह्मणा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪ब्राह्मणदासो⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
-
-:::media
+::: media
 ![](/images/lekt3308.webp)
-Abb.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪स्त्री⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫
-(Bildquelle: [Details](/licenses#lekt3308)) <!-- TODO: Fallback translation -->
+图：⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪स्त्री⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt3308)）
 :::
-⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
 
-⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
 
-⟪यः⟫ ⟪साधुर्भूतेभ्यो⟫ ⟪ऽभयं⟫ ⟪ददाति⟫ ⟪तस्माद्भूतानि⟫ ⟪न⟫ ⟪बिभ्यति⟫ ⟪स⟫ ⟪च⟫ ⟪तेभ्यो⟫ ⟪न⟫ ⟪बिभेति⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪यः⟫ ⟪साधुर्भूतेभ्यो⟫ ⟪ऽभयं⟫ ⟪ददाति⟫ ⟪तस्माद्भूतानि⟫ ⟪न⟫ ⟪बिभ्यति⟫ ⟪स⟫ ⟪च⟫ ⟪तेभ्यो⟫ ⟪न⟫ ⟪बिभेति⟫ ⟪॥६॥⟫
 
-⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
-**Ghee Definition & Details:** <!-- TODO: Fallback translation -->
-* Quelle: http://en.wikipedia.org/wiki/Ghee (Zugriff: 2008-12-26) <!-- TODO: Fallback translation -->
+**Ghee-Definition und -Details:**
+* Quelle: http://en.wikipedia.org/wiki/Ghee (Zugriff: 2008-12-26)
 
-**Abbildungsverzeichnis & Lizenzen:** <!-- TODO: Fallback translation -->
-* **Abb. lekt3306 (wedding party, Chennai):** Bildquelle: http://www.pbase.com/chandra/image/62118318 (Zugriff am 2008-12-27). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike). <!-- TODO: Fallback translation -->
-* **Abb. lekt3307 (Udaipur carrier):** Bildquelle: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, Zugriff am 2008-12-27). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung). <!-- TODO: Fallback translation -->
-* **Abb. lekt3305 (Samadhi yogini, Kaveripakkam):** Bildquelle: Quadell / Wikipedia (GNU FDLicense). <!-- TODO: Fallback translation -->
-* **Abb. lekt3304 (bhaya carrier, Mumbai):** Bildquelle: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, Zugriff am 2008-12-26). Creative Commons Lizenz (Namensnennung). <!-- TODO: Fallback translation -->
-* **Abb. lekt3303 (Hinayana Thailand):** Bildquelle: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, Zugriff am 2008-12-26). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung). <!-- TODO: Fallback translation -->
-* **Abb. lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Bildquelle: Dey (http://www.flickr.com/photos/dey/466758922/, Zugriff am 2008-12-26). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike). <!-- TODO: Fallback translation -->
-* **Abb. lekt3308 (woman carrier, Delhi):** Bildquelle: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, Zugriff am 2008-12-27). Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung). <!-- TODO: Fallback translation -->
+**图片目录与许可协议：**
+* **图 lekt3306（婚礼队伍，金奈）：** 图片来源：http://www.pbase.com/chandra/image/62118318（访问日期：2008-12-27）。知识共享许可协议（署名，非商业性使用，相同方式共享）。
+* **图 lekt3307（乌代浦尔搬运工）：** 图片来源：gscottie8（http://www.flickr.com/photos/gscottie/2152543713/，访问日期：2008-12-27）。知识共享许可协议（署名，非商业性使用，禁止演绎）。
+* **图 lekt3305（萨玛迪瑜伽尼，卡韦里帕坎）：** 图片来源：Quadell / 维基百科（GNU自由文档许可证）。
+* **图 lekt3304（恐惧搬运工，孟买）：** 图片来源：sameer5678in（http://www.flickr.com/photos/guptasameer/3080350405/，访问日期：2008-12-26）。知识共享许可协议（署名）。
+* **图 lekt3303（小乘佛教，泰国）：** 图片来源：grrrrl（http://www.flickr.com/photos/11619899@N00/867938692/，访问日期：2008-12-26）。知识共享许可协议（署名，非商业性使用）。
+* **图 lekt3302（耶尼亚祭祀，湿婆林伽，甘尼什普里）：** 图片来源：Dey（http://www.flickr.com/photos/dey/466758922/，访问日期：2008-12-26）。知识共享许可协议（署名，非商业性使用，相同方式共享）。
+* **图 lekt3308（女性搬运工，德里）：** 图片来源：Ondrej Jaura（http://www.flickr.com/photos/ondrejj/2073900069/，访问日期：2008-12-27）。知识共享许可协议（署名，非商业性使用，禁止演绎）。
 :::

@@ -20,13 +20,13 @@ Noble one, behold my humiliation!
 Lord Rāma, if I must go, then let this girl be my companion.
 
 ⟪४⟫. **⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Noble lady, stay, stay. You need not be afraid.
+Madam, stay, stay. You need not be afraid.
 
 ⟪५⟫. **⟪प्रसीदत्वार्यः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 Calm yourself, noble lord!
 
 ⟪६⟫. **⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Welcome, noble lady!
+Welcome, madam!
 
 ⟪७⟫. **⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 Noble lord, please command what I should do.
@@ -35,25 +35,25 @@ Noble lord, please command what I should do.
 Arm yourself for battle, so that no harm will befall you.
 
 ⟪९⟫. **⟪कस्मात्त्वं⟫ ⟪भीतः⟫ ⟪।⟫ ⟪प्रतिवचनम्⟫ : ⟪तस्य⟫ ⟪रामस्य⟫ ⟪गुणेभ्यः⟫ ⟪।⟫ ⟪प्रष्टा⟫ : ⟪के⟫ ⟪तस्य⟫ ⟪गुणा⟫ ⟪यस्य⟫ ⟪गृहं⟫ ⟪प्रविश्याशितव्यमपि⟫ ⟪नास्ति⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Question: "Of what are you afraid?" Answer: "Of the merits of this Rāma." Questioner: "What kind of merits are these of a man, in whose house there is nothing to eat when one enters?"
+Question: "What do you fear?" Answer: "The merits of this Rāma." Questioner: "What kind of merits are these of a man, in whose house there is nothing to eat when one enters?"
 
 ⟪१०⟫. **⟪तवैव⟫ ⟪हस्ते⟫ ⟪शस्त्रं⟫ ⟪तिष्ठतु⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 Let the sword remain in your hand!
 
 ⟪११⟫. **⟪भवति⟫ ⟪न⟫ ⟪ते⟫ ⟪परिभवस्तत्रभवतो⟫ ⟪रामस्य⟫ ⟪निवेदयितव्यः⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
-Noble lady, your humiliation shall not be reported to Lord Rāma.
+Madam, your humiliation should not be reported to Lord Rāma.
 
 ---
 
 ## Translations into Sanskrit (Imperative)
 
-B) Translate into Sanskrit using the Imperative:
+B) Translate into Sanskrit using the imperative:
 
 ⟪१⟫. **⟪भ्रियै⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-I wish to be received.
+I wish to be obtained.
 
 ⟪२⟫. **⟪तुष्यतु⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-He shall be content.
+He should be satisfied.
 
 ⟪३⟫. **⟪ह्वयाम⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 We wish to call.
@@ -62,10 +62,10 @@ We wish to call.
 I wish to bow to you.
 
 ⟪५⟫. **⟪एतत्कर्म⟫ ⟪क्रियताम्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-This deed shall be done.
+This deed should be done.
 
 ⟪६⟫. **⟪भवता⟫ ⟪सुप्यताम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-They shall sleep. (Passive construction)
+They should sleep. (Passive construction)
 
 ⟪७⟫. **⟪पुत्र⟫ ⟪धने⟫ ⟪यतस्व⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫** (Or: **... ⟪धनं⟫ / ⟪धनाय⟫ ...**)
 My son, strive for wealth!
@@ -77,7 +77,7 @@ Begin the study!
 Give food offerings to the forefathers!
 
 ⟪१०⟫. **⟪नन्दन्तु⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
-They shall rejoice!
+They should rejoice!
 
 ⟪११⟫. **⟪लोकमवेक्षै⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
 I wish to look upon the world.
@@ -86,13 +86,13 @@ I wish to look upon the world.
 We wish to go to Benares.
 
 ⟪१३⟫. **⟪देवान्यजन्ताम्⟫ ⟪॥⟫ ⟪१३⟫ ⟪॥⟫**
-They shall worship the gods as sacrifice-lords.
+They should worship the gods as sacrifice-lords.
 
 ⟪१४⟫. **⟪स्तोत्रं⟫ ⟪गाय⟫ ⟪॥⟫ ⟪१४⟫ ⟪॥⟫**
 Sing a hymn of praise!
 
 ⟪१५⟫. **⟪पुत्रा⟫ ⟪मे⟫ ⟪जायन्ताम्⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫**
-Sons shall be born to me!
+Sons should be born to me!
 
 ⟪१६⟫. **⟪तुभ्यं⟫ ⟪मे⟫ ⟪गृहं⟫ ⟪दिशानि⟫ ⟪॥⟫ ⟪१६⟫ ⟪॥⟫**
 I wish to show you my house.
@@ -101,10 +101,10 @@ I wish to show you my house.
 Go away from me!
 
 ⟪१८⟫. **⟪मुच्यताम्⟫ ⟪॥⟫ ⟪१८⟫ ⟪॥⟫**
-He shall be liberated!
+Let him be freed!
 
 ⟪१९⟫. **⟪तव⟫ ⟪भार्यां⟫ ⟪रक्षाणि⟫ ⟪॥⟫ ⟪१९⟫ ⟪॥⟫**
-I wish to protect your wife.
+I will protect your wife.
 
 ⟪२०⟫. **⟪शत्रो⟫ ⟪म्रियस्व⟫ ⟪॥⟫ ⟪२०⟫ ⟪॥⟫**
 Die, enemy!
@@ -113,28 +113,28 @@ Die, enemy!
 Fight!
 
 ⟪२२⟫. **⟪आज्ञापयन्तु⟫ ⟪॥⟫ ⟪२२⟫ ⟪॥⟫**
-They may command.
+Let them command.
 
 ⟪२३⟫. **⟪तव⟫ ⟪गृहे⟫ ⟪वसाम⟫ ⟪॥⟫ ⟪२३⟫ ⟪॥⟫**
-We wish to dwell in your house.
+We want to live in your house.
 
 ⟪२४⟫. **⟪एवं⟫ ⟪भवतु⟫ ⟪॥⟫ ⟪२४⟫ ⟪॥⟫**
-Thus shall it happen!
+So let it be done!
 
 ⟪२५⟫. **⟪अश्वं⟫ ⟪तुद⟫ ⟪॥⟫ ⟪२५⟫ ⟪॥⟫**
 Strike the horse!
 
 ⟪२६⟫. **⟪भ्रमन्तु⟫ ⟪॥⟫ ⟪२६⟫ ⟪॥⟫**
-They shall wander about.
+Let them wander about.
 
 ⟪२७⟫. **⟪माद्यत⟫ ⟪॥⟫ ⟪२७⟫ ⟪॥⟫**
 Intoxicate yourselves!
 
 ⟪२८⟫. **⟪अश्वो⟫ ⟪भारं⟫ ⟪कर्षतु⟫ ⟪॥⟫ ⟪२८⟫ ⟪॥⟫**
-The horse shall draw the load.
+Let the horse pull the load.
 
 ⟪२९⟫. **⟪लोकान्कल्पयाम⟫ ⟪॥⟫ ⟪२९⟫ ⟪॥⟫**
-We wish to order the worlds.
+We want to order the worlds.
 
 ⟪३०⟫. **⟪पानं⟫ ⟪पिब⟫ ⟪॥⟫ ⟪३०⟫ ⟪॥⟫**
 Drink the draught!
@@ -143,16 +143,16 @@ Drink the draught!
 Think!
 
 ⟪३२⟫. **⟪जीयन्ताम्⟫ ⟪॥⟫ ⟪३२⟫ ⟪॥⟫**
-They shall be conquered!
+Let them be conquered!
 
 ⟪३३⟫. **⟪त्वया⟫ ⟪नीयामहै⟫ ⟪॥⟫ ⟪३३⟫ ⟪॥⟫**
-We wish to be led by you.
+We want to be led by you.
 
 ⟪३४⟫. **⟪सुखाय⟫ ⟪भवतात्⟫ ⟪॥⟫ ⟪३४⟫ ⟪॥⟫**
-May it bring good fortune! (Blessing)
+May it bring good fortune! (Blessing wish)
 
-:::media
+::: media
 ![](/images/uebung075.webp)
 Fig.: ⟪माद्यत⟫
-(Image source: [Details](/en/licenses#uebung075))
+(Image source: [Details](/licenses#uebung075))
 :::

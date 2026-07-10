@@ -859,7 +859,8 @@ a.VPLink[href="/bg/"] {
 .vp-doc .grammar-box table strong:not(.signalrot):not(:has(.sanskrit-dev)) {
   color: inherit !important;
 }
-.vp-doc .signalrot, .vp-doc .signalrot .sanskrit-dev { color: #ff0000 !important; font-weight: bold; }
+.vp-doc .signalrot { color: #ff0000 !important; font-weight: bold; }
+.vp-doc .signalrot .sanskrit-dev { color: #ff0000 !important; font-weight: 600 !important; }
 
 /* Custom settings gear icon */
 .nav-gear-icon {
@@ -872,4 +873,69 @@ a.VPLink[href="/bg/"] {
   mask-position: center;
   mask-size: contain;
   vertical-align: middle;
+}
+
+/* Consistent dropdown select & translations styling (Scholarly parchment style) */
+select,
+.vp-translations select,
+select.control-btn,
+.VPNavBarTranslations button,
+.VPNavBarTranslations select,
+.VPNavBarMenuLink.translations {
+  font-family: 'Inter', sans-serif !important;
+  font-size: 11px !important;
+  font-weight: 600 !important;
+  text-transform: uppercase !important;
+  letter-spacing: 0.03em !important;
+  padding: 6px 12px !important;
+  border-radius: 6px !important;
+  border: none !important;
+  background-color: var(--color-parchment-dark, #f1eee7) !important;
+  color: var(--color-ink, #03192e) !important;
+  outline: none !important;
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.08) !important;
+  transition: all 0.2s ease !important;
+  cursor: pointer !important;
+}
+
+.dark select,
+.dark .vp-translations select,
+.dark select.control-btn,
+.dark .VPNavBarTranslations button,
+.dark .VPNavBarTranslations select,
+.dark .VPNavBarMenuLink.translations {
+  background-color: #241500 !important; /* dark burnt umber */
+  color: #fcf9f2 !important; /* parchment text */
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.3) !important;
+}
+
+/* Dropdown list styling */
+.VPNavBarTranslations .menu,
+.VPNavBarTranslations .items,
+.VPNavBarTranslations .VPMenu {
+  background-color: var(--color-parchment, #fcf9f2) !important;
+  border: 1px solid var(--color-parchment-dark, #f1eee7) !important;
+  border-radius: 6px !important;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1) !important;
+}
+
+.dark .VPNavBarTranslations .menu,
+.dark .VPNavBarTranslations .items,
+.dark .VPNavBarTranslations .VPMenu {
+  background-color: #241500 !important;
+  border-color: rgba(255, 255, 255, 0.1) !important;
+}
+
+.VPNavBarTranslations .item,
+.VPNavBarTranslations .action {
+  color: var(--color-ink, #03192e) !important;
+  font-weight: 600 !important;
+  font-family: 'Inter', sans-serif !important;
+  font-size: 11px !important;
+  text-transform: uppercase !important;
+}
+
+.VPNavBarTranslations .item:hover,
+.VPNavBarTranslations .action:hover {
+  background-color: var(--color-parchment-dark, #f1eee7) !important;
 }

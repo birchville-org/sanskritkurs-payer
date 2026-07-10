@@ -18,7 +18,7 @@ export const hi = {
       { text: 'विषय-सूची', link: '/hi/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'श्रेय', link: '/hi/impressum' },
-      { text: '⚙️', link: '/hi/settings', ariaLabel: 'सेटिंग्स खोलें' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/hi/settings', ariaLabel: 'सेटिंग्स खोलें' }
     ],
     docFooter: {
       prev: 'पिछला पाठ',

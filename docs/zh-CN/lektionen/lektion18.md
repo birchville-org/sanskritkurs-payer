@@ -1,438 +1,438 @@
 ---
-title: Lektion 18
+title: 第18课
 lesson_id: 18
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 18
 
 ## 18.1. ⟪सुभाषितम्⟫
 
-:::indent
+::: indent
 ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
 ⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
-⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
 :::
-## 18.2. Determinativkomposita (⟪तत्पुरुष⟫) mit adverbialem Vorderglied
+## 18.2. 限定复合词（⟪तत्पुरुष⟫），带有副词性前成分
 
-Als adverbiales (nichtdeklinierbares) Vorderglied können <!-- TODO: Fallback translation -->
+作为副词性（不可变格）的前置成分，可以
 
-*   Adverbien <!-- TODO: Fallback translation -->
-*   Präpositionen <!-- TODO: Fallback translation -->
-*   Partikel <!-- TODO: Fallback translation -->
-*   andere Indeklinabilia <!-- TODO: Fallback translation -->
+*   副词
+*   介词
+*   小品词
+*   其他不变词
 
-:::indent
-verwendet werden. Solche Tatpuruṣa gehören meist zur Klasse der Nityasamāsa = ⟪नित्यसमास⟫ (m. "ständiges Kompositum"), d.h. der Komposita, die man überhaupt nicht oder nicht nur mittels der im Kompositum selbst vorkommenden Wörter auflösen kann. <!-- TODO: Fallback translation -->
+::: indent
+可以使用。此类 Tatpuruṣa 通常属于 Nityasamāsa = ⟪नित्यसमास⟫（阳性“固定复合词”）类别，即那些根本无法仅凭复合词本身出现的词语，或不能仅凭这些词语来解析的复合词。
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+例如：
 
-⟪अति⟫ "darüber hinaus": <!-- TODO: Fallback translation -->
+⟪अति⟫ “darüber hinaus”:
 
-:::indent
-⟪अतिगुरु⟫ 3: überaus schwer, überaus gewichtig <!-- TODO: Fallback translation -->
+::: indent
+⟪अतिगुरु⟫ 3：极其困难，极其沉重
 
-⟪अतिपुरुष⟫ m.: überragender Mann, Superman, Held <!-- TODO: Fallback translation -->
+⟪अतिपुरुष⟫ m.: 卓越之人，超人，英雄
 
-⟪अतिस्तुति⟫ f.: übermäßiges Lob <!-- TODO: Fallback translation -->
+⟪अतिस्तुति⟫ f.: 过度的赞美
 
-⟪अत्युक्ति⟫ f.: übermäßiges Sprechen, Übertreibung <!-- TODO: Fallback translation -->
+⟪अत्युक्ति⟫ f.：多言，夸大
 :::
-Die wichtigsten adverbialen Vorderglieder sind a-/an-, su-, dus-. <!-- TODO: Fallback translation -->
+最重要的副词前成分有 a-/an-、su-、dus-。
 
-⟪अ⟫ (vor Konsonant), ⟪अन्⟫ (vor Vokal): un-: steht im Kompositum anstelle von ⟪न⟫ "nicht". <!-- TODO: Fallback translation -->
+⟪अ⟫（辅音前），⟪अन्⟫（元音前）：un-：在复合词中代替 ⟪न⟫ “不”。
 
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): Unwahrheit, Lüge <!-- TODO: Fallback translation -->
+::: indent
+⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): 不真实，谎言
 
-⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: nicht getan, ungetan <!-- TODO: Fallback translation -->
+⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3：未做，未成
 
-⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : eine Nichtbrahmanin, Unbrahmanin <!-- TODO: Fallback translation -->
+⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ ：一名非婆罗门女性，非婆罗门出身的女性
 
-⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : ein Nichtgott, Ungott <!-- TODO: Fallback translation -->
+⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : ein Nichtgott, Ungott
 :::
-⟪सु⟫ "wohl, gut"; wird bei der Auflösung des Kompositums von den Kommentatoren durch ein Adjektiv mit der Bedeutung "gut" (z.B. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) ersetzt. <!-- TODO: Fallback translation -->
+⟪सु⟫ "wohl, gut"; wird bei der Auflösung des Kompositums von den Kommentatoren durch ein Adjektiv mit der Bedeutung "gut" (z.B. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) ersetzt.
 
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪सुकवि⟫ m.: ein guter Dichter <!-- TODO: Fallback translation -->
+::: indent
+⟪सुकवि⟫：男：一位优秀的诗人
 
-⟪सुकृत⟫ n.: gute Tat <!-- TODO: Fallback translation -->
+⟪सुकृत⟫ n.: 善行
 
-⟪सुखादित⟫ 3: gut gekaut <!-- TODO: Fallback translation -->
+⟪सुखादित⟫ 3：充分咀嚼
 
-⟪सुदुःख⟫ n.: großes Leid <!-- TODO: Fallback translation -->
+⟪सुदुःख⟫ n.: großes Leid
 :::
-⟪दुस्⟫ "übel, schlecht" (Sandhi beachten!). <!-- TODO: Fallback translation -->
+⟪दुस्⟫ "übel, schlecht" (Sandhi beachten!).
 
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪दुर्नय⟫ m.: schlechte Führung, schlechtes Betragen <!-- TODO: Fallback translation -->
+::: indent
+⟪दुर्नय⟫ m.: 不良引导，不良行为
 
-⟪दुष्करण⟫ n.: schlechte Tat, schwierige Tat <!-- TODO: Fallback translation -->
+⟪दुष्करण⟫ n.: 恶行，艰难之行
 :::
-Dabei gilt folgendes Gesetz: <!-- TODO: Fallback translation -->
+在此适用以下法则：
 
-::::grammar-box
+::: grammar-box
 
-Lautveränderung von -s in Komposita <!-- TODO: Fallback translation -->
+复合词中 -s 的音变
 
-Entgegen dem Satzsandhi gilt im Auslaut des Vorderglieds von Komposita: <!-- TODO: Fallback translation -->
+与句法连音（Satsandhi）相反，复合词前成分的词尾遵循以下规则：
 
-\-s nach -i- oder -u- vor tonlosem Guttural oder Labial » -ṣ <!-- TODO: Fallback translation -->
+-s 在 -i- 或 -u- 之后，位于清软腭音或双唇音之前，变为 » -ṣ
 
-Deshalb: ⟪दुष्करण⟫ <!-- TODO: Fallback translation -->
+因此：⟪दुष्करण⟫
 
 :::
 ### 18.2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
 
-::::grammar-box
+::: grammar-box
 
-Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫ haben hauptsächlich die Bedeutung der passiven Möglichkeit: <!-- TODO: Fallback translation -->
+由 ⟪सुकर⟫ / ⟪दुष्कर⟫ 类型的复合词主要具有被动可能性的含义：
 
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪सुकर⟫ 3: leicht zu tun <!-- TODO: Fallback translation -->
+:::
+::: indent
+⟪सुकर⟫ 3: leicht zu tun
 
-⟪सुगम⟫ 3: leicht zu gehen <!-- TODO: Fallback translation -->
+⟪सुगम⟫ 3：易于行走
 
-⟪दुर्गम⟫ 3: schwer zu gehen <!-- TODO: Fallback translation -->
+⟪दुर्गम⟫ 3：难以行走
 
-⟪सुदुर्गम⟫ 3: sehr schwer zu gehen <!-- TODO: Fallback translation -->
-::::::
-### 18.2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
+⟪सुदुर्गम⟫ 3：极难行走
+:::
+### 18.2.2. nañ-Tatpuruṣa（a- / an-）的含义
 
-Tatpuruṣa mit a- / an- können folgende Bedeutungen haben: <!-- TODO: Fallback translation -->
+Tatpuruṣa mit a- / an- können folgende Bedeutungen haben:
 
-1.  Ähnlichkeit (⟪तत्सादृश्यम्⟫):   <!-- TODO: Fallback translation -->
-    ⟪अब्राह्मणः⟫ = ein Kṣatriya oder Vaiśya, der die heilige Schnur (⟪यज्ञोपवीत⟫ n.) trägt und somit einem Brahmanen ähnelt, ohne einer zu sein <!-- TODO: Fallback translation -->
-2.  Fehlen, Nichtvorhandensein (⟪तदभावः⟫):   <!-- TODO: Fallback translation -->
-    ⟪अज्ञानम्⟫ = Unwissenheit (Fehlen von Wissen) <!-- TODO: Fallback translation -->
-3.  Andersheit (⟪तदन्यत्वम्⟫):   <!-- TODO: Fallback translation -->
-    ⟪अपटम्⟫ = etwas, das kein Stoff / Gewand (⟪पट⟫ m: Gewebe, Gewand) ist <!-- TODO: Fallback translation -->
-4.  Kleinheit (⟪तदल्पता⟫):   <!-- TODO: Fallback translation -->
-    ⟪अनुदरम्⟫ = ein kleiner Bauch (ein Nicht-Bauch) <!-- TODO: Fallback translation -->
-5.  Missbilligung (⟪अप्राशास्त्यम्⟫):   <!-- TODO: Fallback translation -->
-    ⟪अकालः⟫ = Unzeit <!-- TODO: Fallback translation -->
-6.  Feindschaft (⟪निरोधः⟫):   <!-- TODO: Fallback translation -->
-    ⟪असुरः⟫ = Gegengott (nach der falschen Etymologie a-sura) <!-- TODO: Fallback translation -->
+1. 相似性（⟪तत्सादृश्यम्⟫）：  
+    ⟪अब्राह्मणः⟫ = 佩戴圣线（⟪यज्ञोपवीत⟫ 阴性名词）的刹帝利或吠舍，因而看似婆罗门，实则并非婆罗门
+2. 缺乏，不存在（⟪तदभावः⟫）：  
+    ⟪अज्ञानम्⟫ = 无知（缺乏知识）
+3. 差异性（⟪तदन्यत्वम्⟫）：  
+    ⟪अपटम्⟫ = 非布料/衣物（⟪पट⟫ 阳性名词：织物，衣物）之物
+4. 微小性（⟪तदल्पता⟫）：  
+    ⟪अनुदरम्⟫ = 小腹部（非腹部）
+5. 不赞同（⟪अप्राशास्त्यम्⟫）：  
+    ⟪अकालः⟫ = 非时
+6. 敌意（⟪निरोधः⟫）：  
+    ⟪असुरः⟫ = 敌神（根据错误的词源 a-sura）
 
-Folgender Vers fasst diese Bedeutungen zusammen: <!-- TODO: Fallback translation -->
+以下偈颂总结了这些含义：
 
-:::indent
+::: indent
 ⟪तत्सादृश्यमभावश्च⟫  
 ⟪तदन्यत्वं⟫ ⟪तदल्पता⟫ ⟪।⟫  
 ⟪अप्राशास्त्यं⟫ ⟪निरोधश्च⟫  
-⟪नजर्थाः⟫ ⟪षट्प्रकीर्तिताः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪नजर्थाः⟫ ⟪षट्प्रकीर्तिताः⟫ ⟪॥⟫
 
-Man nennt sechs Bedeutungen von nañ (= a-/an-) .... <!-- TODO: Fallback translation -->
+人们称 nañ (= a-/an-) 有六种含义……
 :::
-## 18.3. Verbalkomposita
+## 18.3. 动词复合词
 
-::::grammar-box
-
-:::indent
+::: indent
 ⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
 ⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
 ⟪गङ्गासलिलमाधुर्यं⟫  
-⟪सागरेण⟫ ⟪यथाम्भसा⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪सागरेण⟫ ⟪यथाम्भसा⟫ ⟪॥⟫
 :::
-⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ S. 2 Zl. 14f. <!-- TODO: Fallback translation -->
+⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ 第2页 第14-15行
 
-Durch ein Präverb wird die Bedeutung einer Wurzel gewaltsam verändert, so wie die Süße des Gangeswassers durch Meerwasser. <!-- TODO: Fallback translation -->
+通过前缀，词根的意义被强行改变，就像恒河水的甜味被海水改变一样。
 
-:::::::grammar-box
+::: grammar-box
 
-Verben können im Sanskrit mit Präverben (⟪उपसर्ग⟫ m.) verbunden werden. Dabei gilt meist der Satzsandhi. Präverbe können die Bedeutung der Wurzel u. U. bedeutend modifizieren, sodass in vielen Fällen die Bedeutung einer Wurzel mit Präverb gesondert gelernt werden muss. Verben mit Präverb können einen anderen Modus (P, Ā) haben als die einfache Wurzel. Vor eine Wurzel können gleichzeitig mehrere Präverbe gesetzt werden. <!-- TODO: Fallback translation -->
-
-:::
-Einige wichtige Präverbe sind: <!-- TODO: Fallback translation -->
-
-⟪उप⟫ "zu, hin, gegen" <!-- TODO: Fallback translation -->
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : hingehen, darangehen <!-- TODO: Fallback translation -->
-
-⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : hinweisen, belehren, anraten <!-- TODO: Fallback translation -->
-
-⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : hingelangen <!-- TODO: Fallback translation -->
-
-*   PPP ⟪उपपन्न⟫ 3: ausgestattet mit (Instrumentalis) <!-- TODO: Fallback translation -->
-
-⟪उपलभ्⟫ 1 Ā ⟪उपलभते⟫ : erfassen, erlangen <!-- TODO: Fallback translation -->
-:::
-⟪प्र⟫ "vorwärts, hervor" <!-- TODO: Fallback translation -->
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : erlangen <!-- TODO: Fallback translation -->
-
-⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : zeigen <!-- TODO: Fallback translation -->
-
-⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : aufwachen, erkennen <!-- TODO: Fallback translation -->
-
-⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : hervorkommen, herausragen, Macht haben über (Gen., Lok. Dat.) <!-- TODO: Fallback translation -->
-
-⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : erklären, mitteilen, aussprechen <!-- TODO: Fallback translation -->
-
-⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : aussprechen, bezeichnen als, erklären für <!-- TODO: Fallback translation -->
-
-⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : preisen vor, laut preisen, auf etwas zu sprechen kommen, beginnen <!-- TODO: Fallback translation -->
-:::
-⟪वि⟫ "auseinander, weg, zer-, ver-" <!-- TODO: Fallback translation -->
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪विगम्⟫ 1 ⟪विगच्छति⟫ : auseinandergehen, vergehen, verschwinden <!-- TODO: Fallback translation -->
-
-⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : besiegen <!-- TODO: Fallback translation -->
-
-⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : ablösen, befreien <!-- TODO: Fallback translation -->
-
-⟪विवद्⟫ 1 ⟪विवदति⟫ : disputieren, auseinandersetzen, erzählen <!-- TODO: Fallback translation -->
-
-⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : vergessen <!-- TODO: Fallback translation -->
-
-⟪विहन्⟫ 2 ⟪विहन्ति⟫ : zerschlagen, zerstören, vernichten <!-- TODO: Fallback translation -->
-:::
-⟪सम्⟫ "zusammen, mit" <!-- TODO: Fallback translation -->
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : zusammensitzen, sich aufhalten, wohnen <!-- TODO: Fallback translation -->
-
-⟪समि⟫ 2 ⟪समेति⟫ : zusammenkommen, sich vereinigen <!-- TODO: Fallback translation -->
-
-⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : zusammenkommen, aufeinandertreffen (freundlich oder feindlich), Geschlechtsverkehr haben mit (Akk.) <!-- TODO: Fallback translation -->
-
-⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : entstehen <!-- TODO: Fallback translation -->
-
-*   PPP ⟪संजात⟫ 3: geboren, entstanden, geworden <!-- TODO: Fallback translation -->
-
-⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : vollständig erwachen (zur Wahrheit) <!-- TODO: Fallback translation -->
-
-⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : jemandem zuteil werden, gelingen <!-- TODO: Fallback translation -->
-
-*   PPP ⟪सम्पन्न⟫ 3: versehen mit (Instr.) <!-- TODO: Fallback translation -->
-:::::::grammar-box
-
-Die Wurzel ⟪कृ⟫ "tun" zeigt in Verbindung mit den Präverben ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ auch die Form ⟪स्कृ⟫ <!-- TODO: Fallback translation -->
+动词在梵语中可以与前缀（⟪उपसर्ग⟩ 阳性）结合。通常适用句法连音（Satsandhi）。前缀有时会对词根的意义产生显著修改，因此在许多情况下，必须将带有前缀的词根意义作为整体单独学习。带有前缀的动词可能具有与简单词根不同的语式（P，Ā）。一个词根前可以同时放置多个前缀。
 
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+一些重要的前缀动词是：
 
-:::indent
-sam-kṛ 8 ⟪संस्करोति⟫ : zubereiten, fürs Opfer zubereiten, weihen <!-- TODO: Fallback translation -->
+⟪उप⟫ “向，朝，对”
 
-*   PPP ⟪संस्कृत⟫ 3: fürs Opfer zubereitet ; ⟪संस्कृत⟫ n.: Sanskrit: die fürs Opfer geeignete Sprache ; Gegenstück ⟪प्राकृत⟫ 3: gewöhnlich, ordinär ; ⟪प्राकृत⟫ n.: gewöhnliche Sprache, Prakrit (Bezeichnung für die Volks- und Verkehrssprachen, die mit dem Sanskrit verwandt sind) <!-- TODO: Fallback translation -->
+示例：
+
+::: indent
+⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : hingehen, darangehen
+
+⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ ：指出，教导，建议
+
+⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ ：达到
+
+*   PPP ⟪उपपन्न⟫ 3: 配备（工具格）
+
+⟪उपलभ्⟫ 1 阿 ⟪उपलभते⟫ ：理解，获得
 :::
-### 18.3.1. Nominalbildungen zu Verbalkomposita
+⟪प्र⟫ “向前，突出”
 
-::::grammar-box
+示例：
 
-Von Wurzeln mit Präverben können mittels kṛt-Suffixen Nomina gebildet werden. <!-- TODO: Fallback translation -->
+::: indent
+⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ ：获得
+
+⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : 展示
+
+⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ ：觉醒，认知
+
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ ：出现，突出，对（属格、位格、与格）拥有权力
+
+⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫（“pra + ukta”）：解释、告知、说出
+
+⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : 发音，称为，解释为
+
+⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ ：赞美、高声赞美、提及某事、开始
+:::
+⟪वि⟫ “分离、远离、破碎、分散-”
+
+示例：
+
+::: indent
+⟪विगम्⟫ 1 ⟪विगच्छति⟫ : auseinandergehen, vergehen, verschwinden
+
+⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ ：战胜
+
+⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ ：解除，解放
+
+⟪विवद्⟫ 1 ⟪विवदति⟫ ：辩论，探讨，讲述
+
+⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : 忘记
+
+⟪विहन्⟫ 2 ⟪विहन्ति⟫：粉碎、破坏、消灭
+:::
+⟪सम्⟫“一起，与”
+
+示例：
+
+::: indent
+⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : 坐在一起，停留，居住
+
+⟪समि⟫ 2 ⟪समेति⟫ ：聚集，联合
+
+⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : 聚集，相遇（友好或敌对），与（宾格）发生性关系
+
+⟪संजन्⟫ 4 Ā ⟪संजायते⟫ ：产生
+
+*   PPP ⟪संजात⟫ 3：出生，产生，成为
+
+⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ ：完全觉醒（对真理）
+
+⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : 获得，成功
+
+*   PPP ⟪सम्पन्न⟫ 3：带有（工具格）
+:::
+::: grammar-box
+
+词根 ⟪कृ⟫ “做” 与前缀 ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ 结合时，也呈现出形式 ⟪स्कृ⟫
 
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-sam-kṛ + -a = ⟪संस्कार⟫ m.: Weihe, Zubereitung ; Übergangsrituale = Bezeichnung für die Zeremonien, die die verschiedenen Lebensabschnitte von der Empfängnis bis zum Tod begleiten (s. dazu die ausgezeichnete Zusammenfassung bei Basham, Wonder S. 160 - 170!) <!-- TODO: Fallback translation -->
+::: indent
+sam-kṛ 8 ⟪संस्करोति⟫ : 准备，为祭祀准备，奉献
 
-:::media
+*   PPP ⟪संस्कृत⟫ 3：为祭祀而准备；⟪संस्कृत⟫ n.：梵语：适合祭祀的语言；对应词 ⟪प्राकृत⟫ 3：普通的，平凡的；⟪प्राकृत⟫ n.：普通语言，巴利语（指与梵语相关的民间和通用语言的名称）
+:::
+### 18.3.1. 动词复合词的名词化
+
+::: grammar-box
+
+带有前缀的词根可以通过 kṛt 后缀形成名词。
+
+:::
+示例：
+
+sam-kṛ + -a = ⟪संस्कार⟫ m.: 奉献，准备；过渡仪式 = 指伴随人生各个阶段（从受孕到死亡）的仪式（参见 Basham，《奇迹》第 160 - 170 页的精彩总结！）
+
+::: media
 ![](/images/lekt1804.webp)
-Abb.: ⟪विवाहः⟫
-Hochzeit = ⟪विवाह⟫ m., ein wichtiger ⟪संस्कारः⟫
-(Bildquelle: [Details](/licenses#lekt1804)) <!-- TODO: Fallback translation -->
+图：⟪विवाहः⟫
+婚礼 = ⟪विवाह⟫ 阳性名词，一项重要的 ⟪संस्कारः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt1804)）
 :::
-upa-nī + -ana = ⟪उपनयन⟫ n.: das Heranführen (ans Opferfeuer) = Zeremonie, bei der den männlichen Angehörigen der drei oberen Stände die heilige Schnur (⟪यज्ञोपवीत⟫ n.) angelegt wird sowie der hl. Vers ⟪सावित्री⟫ ins Ohr geflüstert wird, den sie von nun an täglich bei Sonnenauf- und Sonnenuntergang rezitieren. Für die Brahmanen ist das Ṛgveda III.62.10: <!-- TODO: Fallback translation -->
+upa-nī + -ana = ⟪उपनयन⟫ 中性名词：引导（至祭火旁）= 仪式，在此仪式中，上层三个种姓的男性成员佩戴圣线（⟪यज्ञोपवीत⟫ 中性名词），并将神圣诗句 ⟪सावित्री⟫ 低语入耳，从今日起，他们每日在日出和日落时诵读。对于婆罗门而言，这是《梨俱吠陀》III.62.10：
 
-:::indent
-"Mögen wir den vorzüglichen Glanz des Gottes 'Antreiber' empfangen, der unsere Gedanken in Bewegung setzen möge." <!-- TODO: Fallback translation -->
+::: indent
+“愿我们领受殊胜的神祇‘驱策者’之光耀，愿其激发我们的思绪。”
 :::
-Durch das Upanayana geschieht die zweite Geburt, deshalb: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫ <!-- TODO: Fallback translation -->
+通过授圣线仪式（Upanayana）实现第二次诞生，因此：⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
 
-:::media
+::: media
 ![](/images/lekt1801.webp)
 Abb.: ⟪उपनयनम्⟫
-"A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
-(Bildquelle: [Details](/licenses#lekt1801)) <!-- TODO: Fallback translation -->
+„Ein junger Junge ist während des Upanayana-Rituals zu sehen. Der vergilbte, dünne Faden, der von der linken Schulter zur Taille verläuft, ist das Yajñopavīta. Beachten Sie auch den Gürtel aus Munja-Gras um die Taille. Der Zweig in der rechten Hand (normalerweise vom Pippal-Baum) symbolisiert seinen Eintritt in das Brahmacharya.“
+(Bildquelle: [Details](/zh-CN/licenses#lekt1801))
 :::
 ## 18.4. Wortliste
 
-⟪सुष्टु⟫ 3: hochgepriesen, ausgezeichnet, gut <!-- TODO: Fallback translation -->
+⟪सुष्टु⟫ 3: hochgepriesen, ausgezeichnet, gut
 
-⟪शोभन⟫ 3: glänzend, prächtig, herrlich, schön, gut <!-- TODO: Fallback translation -->
+⟪शोभन⟫ 3: 光辉，壮丽，辉煌，美丽，良好
 
-⟪सम⟫ 3: gleich, eben, ähnlich (mit Instrumentalis) <!-- TODO: Fallback translation -->
+⟪सम⟫ 3: gleich, eben, ähnlich (mit Instrumentalis)
 
-⟪व्याधि⟫ m.: Krankheit <!-- TODO: Fallback translation -->
+⟪व्याधि⟫ m.: 疾病
 
-⟪रिपु⟫ m. = ⟪शत्रु⟫ , Betrüger <!-- TODO: Fallback translation -->
+⟪रिपु⟫ m. = ⟪शत्रु⟫ , 骗子
 
-⟪वह्नि⟫ m. = ⟪अग्नि⟫ <!-- TODO: Fallback translation -->
+⟪वह्नि⟫ m. = ⟪अग्नि⟫
 
-⟪ज्ञान⟫ n.: Erkenntnis <!-- TODO: Fallback translation -->
+⟪ज्ञान⟫ n.: 知识
 
-⟪शूर⟫ 3: tapfer, heldenhaft ; m.: Held <!-- TODO: Fallback translation -->
+⟪शूर⟫ 3：勇敢的，英勇的；m.：英雄
 
-⟪शब्द⟫ m.: Laut, Ton, Signallaut: Wort <!-- TODO: Fallback translation -->
+⟪शब्द⟫ m.: 声音，音调，信号声：词
 
-⟪उदक⟫ n.: Wasser <!-- TODO: Fallback translation -->
+⟪उदक⟫ n.: 水
 
-⟪अन्त⟫ m.: Ende, Grenze <!-- TODO: Fallback translation -->
+⟪अन्त⟫ m.: 终点，界限
 
-⟪आदि⟫ m.: Anfang <!-- TODO: Fallback translation -->
+⟪आदि⟫ m.: 开端
 
-⟪दण्ड⟫ m.: Stock, Prügel, Strafe <!-- TODO: Fallback translation -->
+⟪दण्ड⟫ m.: 棍棒，鞭打，惩罚
 
-⟪मात्रा⟫ f. ⟪मात्र⟫ n.: Maß, Begrenzung <!-- TODO: Fallback translation -->
+⟪मात्रा⟫ f. ⟪मात्र⟫ n.：界限，限制
 
-⟪सहित⟫ 3: vereinigt, versehen mit <!-- TODO: Fallback translation -->
+⟪सहित⟫ 3: 联合，配备
 
-⟪हस्त⟫ m.: Hand <!-- TODO: Fallback translation -->
+⟪हस्त⟫ m.: 手
 
-⟪प्रभृति⟫ f.: Anfang <!-- TODO: Fallback translation -->
+⟪प्रभृति⟫ f.: 开始
 
 ## 18.5. Übung
 
-A) Übersetzen Sie das ⟪सुभाषित⟫ am Beginn der Lektion. <!-- TODO: Fallback translation -->
+A) 翻译位于课程开头的 ⟪सुभाषित⟫。
 
-B) Übersetzen Sie folgende Tatpuruṣa: <!-- TODO: Fallback translation -->
+B) 翻译以下持业释：
 
-⟪१⟫. ⟪सुकर⟫ ⟪३⟫ <!-- TODO: Fallback translation -->
+⟪१⟫。⟪सुकर⟫ ⟪३⟫
 
-⟪२⟫. ⟪सुकुल⟫ n. <!-- TODO: Fallback translation -->
+⟪२⟫。⟪सुकुल⟫。名词
 
-⟪३⟫. ⟪सुकृती⟫ f. <!-- TODO: Fallback translation -->
+⟪३⟫。⟪सुकृती⟫。阴性
 
-⟪४⟫. ⟪अकरण⟫ n. <!-- TODO: Fallback translation -->
+⟪४⟫。⟪अकरण⟫。名词
 
-⟪५⟫. ⟪दुरिष्ट⟫ n. <!-- TODO: Fallback translation -->
+⟪५⟫。⟪दुरिष्ट⟫。名词
 
-⟪६⟫. ⟪दुरिष्टि⟫ f. <!-- TODO: Fallback translation -->
+⟪६⟫。⟪दुरिष्टि⟫。阴性
 
-⟪७⟫. ⟪सुखादित⟫ 3 <!-- TODO: Fallback translation -->
+⟪७⟫。⟪सुखादित⟫ 3
 
-⟪८⟫. ⟪दुष्कर⟫ 3 <!-- TODO: Fallback translation -->
+⟪८⟫。⟪दुष्कर⟫ 3
 
-⟪९⟫. ⟪दुर्जय⟫ 3 <!-- TODO: Fallback translation -->
+⟪९⟫。⟪दुर्जय⟫ 3
 
-⟪१०⟫. ⟪सुगत⟫ m. <!-- TODO: Fallback translation -->
+⟪१०⟫。⟪सुगत⟫。阳性
 
-⟪११⟫. ⟪सुजन⟫ m. <!-- TODO: Fallback translation -->
+⟪११⟫。⟪सुजन⟫。阳性
 
-⟪१२⟫. ⟪दुरुक्ति⟫ f. <!-- TODO: Fallback translation -->
+⟪१२⟫。⟪दुरुक्ति⟫。阴性
 
-⟪१३⟫. ⟪दुरुपदेश⟫ m. <!-- TODO: Fallback translation -->
+⟪१३⟫。⟪दुरुपदेश⟫。阳性
 
-⟪१४⟫. ⟪सुजात⟫ 3 <!-- TODO: Fallback translation -->
+⟪१४⟫。⟪सुजात⟫ 3
 
-⟪१५⟫. ⟪सुगुरु⟫ 3 <!-- TODO: Fallback translation -->
+⟪१५⟫。⟪सुगुरु⟫ 3
 
-⟪१६⟫. ⟪अनाप्त⟫ 3 <!-- TODO: Fallback translation -->
+⟪१६⟫。⟪अनाप्त⟫ 3
 
-⟪१७⟫. ⟪अनीति⟫ f. <!-- TODO: Fallback translation -->
+⟪१७⟫。⟪अनीति⟫。阴性
 
-⟪१८⟫. ⟪अनीश्वरत्व⟫ n. <!-- TODO: Fallback translation -->
+⟪१८⟫。⟪अनीश्वरत्व⟫。名词
 
-⟪१९⟫. ⟪सुदुःख⟫ n. <!-- TODO: Fallback translation -->
+⟪१९⟫。⟪सुदुःख⟫。名词
 
-⟪२०⟫. ⟪दुर्जन⟫ m. <!-- TODO: Fallback translation -->
+⟪२०⟫。⟪दुर्जन⟫。阳性
 
-⟪२१⟫. ⟪दुर्दग्ध⟫ 3 <!-- TODO: Fallback translation -->
+⟪२१⟫。⟪दुर्दग्ध⟫ 3
 
-⟪२२⟫. ⟪अतिकृत⟫ 3 <!-- TODO: Fallback translation -->
+⟪२२⟫。⟪अतिकृत⟫ 3
 
-⟪२३⟫. ⟪सुपुत्र⟫ m. <!-- TODO: Fallback translation -->
+⟪२३⟫。⟪सुपुत्र⟫。阳性
 
-⟪२४⟫. ⟪सुबुद्धि⟫ f. <!-- TODO: Fallback translation -->
+⟪२४⟫。⟪सुबुद्धि⟫。阴性
 
-⟪२५⟫. ⟪दुष्पुत्र⟫ m. <!-- TODO: Fallback translation -->
+⟪२५⟫。⟪दुष्पुत्र⟫。阳性
 
-⟪२६⟫. ⟪दुष्प्रणीत⟫ 3 <!-- TODO: Fallback translation -->
+⟪२६⟫。⟪दुष्प्रणीत⟫ 3
 
-⟪२७⟫. ⟪सुमति⟫ f. <!-- TODO: Fallback translation -->
+⟪२७⟫。⟪सुमति⟫。阴性
 
-⟪२८⟫. ⟪दुर्लभ⟫ 3 <!-- TODO: Fallback translation -->
+⟪२८⟫。⟪दुर्लभ⟫ 3
 
-⟪२९⟫. ⟪दुर्वच⟫ 3 <!-- TODO: Fallback translation -->
+⟪२९⟫。⟪दुर्वच⟫ 3
 
-⟪३०⟫. ⟪दुर्वचन⟫ n. <!-- TODO: Fallback translation -->
+⟪३०⟫。⟪दुर्वचन⟫。名词
 
-⟪३१⟫. ⟪अमृत⟫ n. <!-- TODO: Fallback translation -->
+⟪३१⟫。⟪अमृत⟫。名词
 
 ## 18.6. Wiederholungsübung
 
-Bitte keine Hilfsmittel benutzen! <!-- TODO: Fallback translation -->
+请勿使用任何辅助工具！
 
-A) Lösen Sie folgende Komposita in Sanskrit auf und geben Sie Übersetzungsvorschläge: <!-- TODO: Fallback translation -->
+A) 解析以下梵语复合词，并提供翻译建议：
 
-⟪१⟫. ⟪अन्तगत⟫ 3 <!-- TODO: Fallback translation -->
+⟪१⟫。⟪अन्तगत⟫ 3
 
-⟪२⟫. ⟪क्षमाकर⟫ 3 <!-- TODO: Fallback translation -->
+⟪२⟫。⟪क्षमाकर⟫ 3
 
-⟪३⟫. ⟪क्षेमेन्द्र⟫ m. <!-- TODO: Fallback translation -->
+⟪३⟫。⟪क्षेमेन्द्र⟫。阳性
 
-⟪४⟫. ⟪शस्त्रकोपनिरोध⟫ m. <!-- TODO: Fallback translation -->
+⟪४⟫。⟪शस्त्रकोपनिरोध⟫。阳性
 
-⟪५⟫. ⟪सिंहसंहनन⟫ n. <!-- TODO: Fallback translation -->
+⟪५⟫。⟪सिंहसंहनन⟫。名词
 
-⟪६⟫. ⟪अरिसिंह⟫ m. <!-- TODO: Fallback translation -->
+⟪६⟫。⟪अरिसिंह⟫。阳性
 
-⟪७⟫. ⟪आहारनिद्राभय⟫ n. <!-- TODO: Fallback translation -->
+⟪७⟫。⟪आहारनिद्राभय⟫。名词
 
-⟪८⟫. ⟪मृतिसाधनी⟫ f. <!-- TODO: Fallback translation -->
+⟪८⟫。⟪मृतिसाधनी⟫。阴性
 
-⟪९⟫. ⟪कुलोपदेश⟫ m. <!-- TODO: Fallback translation -->
+⟪९⟫。⟪कुलोपदेश⟫。阳性
 
-:::media
+::: media
 ![](/images/lekt1802.webp)
-Abb.: ⟪मृतिसाधनी⟫ ⟪काली⟫
-1770 Print
-(Bildquelle: [Details](/licenses#lekt1802)) <!-- TODO: Fallback translation -->
+图：⟪मृतिसाधनी⟫ ⟪काली⟫
+1770 印刷品
+（图片来源：[详情](/zh-CN/licenses#lekt1802)）
 :::
-B) Übersetzen Sie unter Verwendung von Verben der 2. Präsensklasse: <!-- TODO: Fallback translation -->
+B) 使用第二现在时类的动词进行翻译：
 
-1\. Der Brahmane preist die Göttinnen. <!-- TODO: Fallback translation -->
+1\. 婆罗门赞美女神们。
 
-2\. Die Helden gehen auf dem schwer begehbaren Weg ins Dorf der Arier. <!-- TODO: Fallback translation -->
+2\.英雄们走在通往雅利安人村庄的崎岖小径上。
 
-3\. Die Hausmagd melkt die Kühe. <!-- TODO: Fallback translation -->
+3\. 女仆挤牛奶。
 
-4\. Die Feinde der Arier erschlagen die mächtigen Kṣatriyas. <!-- TODO: Fallback translation -->
+4\. 阿利安人的敌人击杀了强大的刹帝利。
 
-5\. Ein Gespenst isst keine Früchte. <!-- TODO: Fallback translation -->
+5\. 幽灵不吃水果。
 
-6\. So spricht der, der [den Weg durch die Wiedergeburten] gut gegangen ist zum Jünger. <!-- TODO: Fallback translation -->
+6\. 因此，那位[已善行穿越轮回之]道者对弟子如是说。
 
-:::media
+::: media
 ![](/images/lekt1803.webp)
-Abb.: ⟪सुगतः⟫
-⟪गन्धार⟫ 1./2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt1803)) <!-- TODO: Fallback translation -->
+图：⟪सुगतः⟫
+⟪गन्धार⟫ 公元1/2世纪
+（图片来源：[详情](/zh-CN/licenses#lekt1803)）
 :::
-C) Geben Sie in Sanskrit die Definition von Yoga auf zwei Weisen: einmal unter Verwendung eines Kompositums, einmal indem Sie das Kompositum auflösen. <!-- TODO: Fallback translation -->
+C) 用梵语以两种方式给出瑜伽的定义：一种使用复合词，另一种将复合词展开。
 
-D) Übersetzen Sie: <!-- TODO: Fallback translation -->
+D) 翻译：
 
-(⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+（⟪धर्मः⟫）⟪⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫）
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt1801:** "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya." [Bildquelle: Nagesh Rao / Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt1801:** “Ein junger Knabe wird während des Upanayana-Ritus gezeigt. Der vergilbte, dünne, vom linken Schulter zum Taillenbereich verlaufende Faden ist das Yajñopavīta. Beachten Sie auch den Gürtel aus Munja-Gras um die Taille. Der Zweig in der rechten Hand (üblicherweise vom Pippala-Baum) symbolisiert seinen Eintritt in die Brahmacharya.” [Bildquelle: Nagesh Rao / Wikipedia, GNU FDL]
 
-**lekt1802:** 1770 Print [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt1802:** 1770 印刷品 [图片来源：维基百科，公共领域]
 
-**lekt1803:** ⟪गन्धार⟫ 1./2. Jhdt. n. Chr. [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt1803:** ⟪गन्धार⟫ 1./2. 世纪公元 [图片来源：维基百科，公共领域]
 
-**lekt1804:** Hochzeit = ⟪विवाह⟫ m., ein wichtiger ⟪संस्कारः⟫ [Bildquelle: Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt1804:** 婚礼 = ⟪विवाह⟫ 阳性名词，一个重要的 ⟪संस्कारः⟫ [图片来源：Saad.Akhtar. -- http://www.flickr.com/photos/saad/64770385/. -- 访问日期：2008-12-08. -- 知识共享许可协议（署名-非商业性使用-禁止演绎）]
 :::

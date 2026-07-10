@@ -66,7 +66,7 @@ sādhuḥ śūdraḥ.
 
 ⟪साधुः⟫ ⟪शूद्रः⟫
 
-4\. Der Dichter ist der Lehrer.
+4\. המשורר הוא המורה.
 
 guruḥ kaviḥ.
 
@@ -84,25 +84,25 @@ guruḥ kaviḥ.
 
 ⟪शिव⟫ ⟪ईश्वरः⟫
 
-7\. Der Zweimalgeborene ist ein Brahmane.
+7\. הכהן הדואג נולד פעמיים הוא כוהן.
 
 brāhmaṇo dvijaḥ.
 
 ⟪ब्राह्मणो⟫ ⟪द्विजः⟫
 
-8\. Der heilige Mann ist ein Lehrer.
+8\. האיש הקדוש הוא מורה.
 
 guruḥ sādhuḥ.
 
 ⟪गुरुः⟫ ⟪साधुः⟫
 
-9\. Der Lehrer ist ein heiliger Mann.
+9\. המורה הוא אדם קדוש.
 
 sādhur guruḥ.
 
 ⟪साधुर्गुरुः⟫
 
-:::media
+::: media
 ![](/images/uebung002.jpg)
 תמונה: ⟪ईश्वरः⟫ ⟪शिवः⟫
 (מקור התמונה: [פרטים](/licenses#uebung002))

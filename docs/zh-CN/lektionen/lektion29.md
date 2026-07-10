@@ -1,268 +1,272 @@
 ---
-title: Lektion 29
-subtitle: "Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum"
+title: 第29课
+subtitle: "使役式中 Parasmaipada（⟪परस्मैपद⟫）与 Ātmanepada（⟪आत्मनेपद⟫）的用法"
 lesson_id: 29
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 29
 
 ## 29.1. Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum
 
-:::grammar-box
-**Das Kausativ ist mit wenigen Ausnahmen Ubhayapada (⟪उभयपद⟫)** <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Im Kausativum wird das Ātmanepada (⟪आत्मनेपद⟫) verwendet:** <!-- TODO: Fallback translation -->
-
-**1. Wenn die Frucht der veranlassten Handlung dem Veranlasser zugute kommt:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**除少数例外外，使役语态属于双格动词（⟪उभयपद⟫）**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+::: grammar-box
+**在使役语态中，使用自词形式（⟪आत्मनेपद⟫）：**
 
-⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma lässt für sich (im eigenen Interesse) eine Matte machen" <!-- TODO: Fallback translation -->
+**1. Wenn der Nutzen der veranlassten Handlung dem Veranlasser zugutekommt:**
+:::
+Beispiel:
 
-**2. Wenn das Kausativum transitiver Verben reflexiv gebraucht wird ("sich zeigen" "sich hören lassen" u.ä.), bzw. wenn das Objekt des einfachen Verbs Agens (⟪कर्तृ⟫) des Kausativs ist:** <!-- TODO: Fallback translation -->
+⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = “罗摩为自己（出于自身利益）制作了一张垫子”
 
-Beispiel: <!-- TODO: Fallback translation -->
+**2. 当及物动词的使役式被反身使用（“显示自己”、“让人听见”等），或者当简单动词的宾语是使役式的施事者（⟪कर्तृ⟫）时：**
 
-⟪विष्णुर्भक्तान्दर्शयते⟫ = "Viṣṇu zeigt sich seinen Verehrern" <!-- TODO: Fallback translation -->
+示例：
 
-Ergebnis: ⟪भक्ता⟫ ⟪विष्णुं⟫ ⟪पश्यन्ति⟫ = "Die Gläubigen sehen Viṣṇu" <!-- TODO: Fallback translation -->
+⟪विष्णुर्भक्तान्दर्शयते⟫ = “毗湿奴向他的信徒显现”
 
-Die Regeln entsprechen also i.A. den Regeln für die Verwendung des Ātmanepada (⟪आत्मनेपद⟫) bei Ubhayapada (⟪उभयपद⟫)-Verben. <!-- TODO: Fallback translation -->
+结果：⟪भक्ता⟫ ⟪विष्णुं⟫ ⟪पश्यन्ति⟫ = “信徒们看见毗湿奴”
+
+因此，这些规则通常与使用 Ātmanepada（⟪आत्मनेपद⟫）的规则一致，适用于 Ubhayapada（⟪उभयपद⟫）动词。
 
 ## 29.2. Wortliste
 
-Präverben: <!-- TODO: Fallback translation -->
+前缀：
 
-:::indent
-⟪उद्⟫° : auf, hinauf, empor, hinaus, aus, aus- <!-- TODO: Fallback translation -->
+::: indent
+⟪उद्⟫° ：向上、高处、升起、向外、出、出-
 
-⟪परि⟫° : herum, um (Ort, Zeit), umher <!-- TODO: Fallback translation -->
+⟪परि⟫° : herum, um (Ort, Zeit), umher
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (um jemanden herum werden = einkreisen =) bemeistern, besiegen ; missachten, verachten <!-- TODO: Fallback translation -->
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (um jemanden herum werden = einkreisen =) bemeistern, besiegen ; missachten, verachten
 
-⟪अवज्ञान⟫ n.: Missachtung <!-- TODO: Fallback translation -->
+⟪अवज्ञान⟫ n.: 轻视
 
-⟪गुप्त⟫ 3: behütet, beschützt <!-- TODO: Fallback translation -->
+⟪गुप्त⟫ 3: 保护，庇护
 
-⟪गृहस्थ⟫ 3: im Hause befindlich ; m. Hausvater (jemand, der sich im 2. ⟪आश्रम⟫ befindet) <!-- TODO: Fallback translation -->
+⟪गृहस्थ⟫ 3：在家中；阳性名词：家父（指位于第二个⟪आश्रम⟫中的人）
 
-⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : verzehren, fressen <!-- TODO: Fallback translation -->
+⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ ：吃，吞食
 
-:::indent
-Fut. ⟪ग्रसिष्यते⟫  
-Pass. ⟪ग्रस्यते⟫  
-Kaus. ⟪ग्रासयति⟫  
-PPP ⟪ग्रस्त⟫  
-Inf. ⟪ग्रसितुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+将来时 ⟪ग्रसिष्यते⟫  
+被动语态 ⟪ग्रस्यते⟫  
+使役式 ⟪ग्रासयति⟫
+过去分词（PPP） ⟪ग्रस्त⟫
+不定词 ⟪ग्रसितुम्⟫
 :::
-⟪तीक्ष्ण⟫ 3: "wild", scharf, spitz, streng, heftig, scharfzüngig <!-- TODO: Fallback translation -->
+⟪तीक्ष्ण⟫ 3：“野性的”，尖锐的，锋利的，严厉的，猛烈的，言辞犀利的
 
-⟪न्याय⟫ m.: Norm, Regel, rechte Art und Weise; Methode, Logik (von ⟪इ⟫ + ⟪नि⟫) <!-- TODO: Fallback translation -->
+⟪न्याय⟫：m. 规范，规则，正确的方式；方法，逻辑（源自⟪इ⟫ + ⟪नि⟫）
 
-⟪परिव्राजक⟫ m.: Umherwanderer, Wandermönch, Pilger <!-- TODO: Fallback translation -->
+⟪परिव्राजक⟫ m.: 流浪者，游方僧，朝圣者
 
-:::media
+::: media
 ![](/images/lekt2903.webp)
-Abb.: ⟪परिव्राजकाः⟫
-Pushkar = ⟪पुष्कर⟫
-(Bildquelle: [Details](/licenses#lekt2903)) <!-- TODO: Fallback translation -->
+图：⟪परिव्राजकाः⟫
+普什卡 = ⟪पुष्कर⟫
+（图片来源：[详情](/zh-CN/licenses#lekt2903)）
 :::
-⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫ <!-- TODO: Fallback translation -->
+⟪पालयति⟫：亦与⟪पाति⟫意义相同
 
-⟪पुनर्⟫ Indekl.: wieder, immer wieder, zurück, noch einmal ; dagegen, aber (vor stimmhaften Lauten außer r-: ⟪पुनर्⟫) <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ 副词性用法：再次，反复，返回，又一次；然而，但是（在浊音前，除 r- 外：⟪पुनर्⟫）
 
-⟪प्रजा⟫ f.: Zeugung, Geburt, Nachkommenschaft <!-- TODO: Fallback translation -->
+⟪प्रजा⟫ f.：生殖、出生、后代
 
-⟪मत्स्य⟫ m.: Fisch <!-- TODO: Fallback translation -->
+⟪मत्स्य⟫ m.: 鱼
 
-davon: <!-- TODO: Fallback translation -->
-:::indent
-⟪मात्स्य⟫ 3: zum Fisch (zu Fischen) gehörig <!-- TODO: Fallback translation -->
-::::::media
+davon:
+::: indent
+⟪मात्स्य⟫ 3: zum Fisch (zu Fischen) gehörig
+:::: media
 ![](/images/lekt2901.webp)
 Abb.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
-(Bildquelle: [Details](/licenses#lekt2901)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/zh-CN/licenses#lekt2901))
+::::
 :::
-⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach <!-- TODO: Fallback translation -->
+⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
 
-⟪यथा⟫ Adv.: wie, gleichsam <!-- TODO: Fallback translation -->
+⟪यथा⟫ 副词：如何，仿佛
 
-⟪रम्⟫ 1Ā ⟪रमते⟫ : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen <!-- TODO: Fallback translation -->
+⟪रम्⟫ 1Ā ⟪रमते⟫ ：静止，安住，停留；喜爱，享受
 
-:::indent
-Fut. ⟪रंस्यते⟫  
-Pass. ⟪रम्यते⟫  
-Kaus. ⟪रमयति⟫  
-PPP ⟪रत⟫  
-Inf. ⟪रन्तुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+将来时 ⟪रंस्यते⟫  
+被动语态 ⟪रम्यते⟫  
+使役语态 ⟪रमयति⟫
+过去分词 ⟪रत⟫
+不定式 ⟪रन्तुम्⟫
 :::
-⟪वानप्रस्थ⟫ m.: Waldeinsiedler (jemand, der sich im 3. ⟪आश्रम⟫ befindet) <!-- TODO: Fallback translation -->
+⟪वानप्रस्थ⟫ 阳性：隐士（指身处第三个⟪आश्रम⟫中的人）
 
-⟪शुचि⟫ 3: leuchtend, glänzend, fein ; m.: Reinheit <!-- TODO: Fallback translation -->
+⟪शुचि⟫ 3：光辉的，闪耀的，精细的；阳性名词：纯洁
 
-⟪पूज्⟫ 10P ⟪पूजयति⟫ : ehren, verehren <!-- TODO: Fallback translation -->
+⟪पूज्⟫ 10P ⟪पूजयति⟫ : 尊敬，崇拜
 
-:::indent
-PPP ⟪पूजित⟫ <!-- TODO: Fallback translation -->
+::: indent
+PPP ⟪पूजित⟫
 :::
-## 29.3. Übersetzungsübung zur Wiederholung
+## 29.3. 复习翻译练习
 
-Übersetzen Sie wortgetreu in gutes Deutsch und lernen Sie die Sanskrittexte auswendig: <!-- TODO: Fallback translation -->
+请逐字翻译成优美的德语，并背诵梵文文本：
 
-1\. Definition von ⟪अविद्या⟫ : <!-- TODO: Fallback translation -->
+1\. 定义 ⟪अविद्या⟫ ：
 
-⟪अनित्याशुचिदुःखा⟫***⟪नात्मसु⟫*** ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫ <!-- TODO: Fallback translation -->
+⟪अनित्याशुचिदुःखा⟫***⟪नात्मसु⟫*** ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
 
-Erklärung: ⟪आत्मसु⟫ = Lok. sg. zu ⟪आत्मन्⟫ m. "Seele ; das Absolute, insofern es im Individuum verwirklicht wird" <!-- TODO: Fallback translation -->
+解释：⟪आत्मसु⟫ = 与⟪आत्मन्⟫ m. “灵魂；绝对者，就其在个体中实现而言”相关的局部单数
 
-2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. über den rechten Gebrauch des ⟪दण्ड⟫ : <!-- TODO: Fallback translation -->
+2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. 关于 ⟪दण्ड⟫ 的正确使用：
 
-⟪तीक्ष्णदण्डो⟫ ⟪भूताना⟫***⟪मुद्वेजनीयो⟫*** ⟪भवति⟫ ⟪।८।⟫ <!-- TODO: Fallback translation -->
+⟪तीक्ष्णदण्डो⟫ ⟪भूताना⟫***⟪मुद्वेजनीयो⟫*** ⟪भवति⟫ ⟪।८।⟫
 
-⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।९।⟫ <!-- TODO: Fallback translation -->
+⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।९।⟫
 
-⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।१०।⟫ <!-- TODO: Fallback translation -->
+⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।१०।⟫
 
-⟪सु⟫***⟪विज्ञात⟫***⟪प्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामै⟫***⟪र्योजयति⟫*** ⟪।११।⟫ <!-- TODO: Fallback translation -->
+⟪सु⟫***⟪⟪विज्ञात⟫***⟪प्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामै⟫***⟪र्योजयति⟫*** ⟪।११।⟫
 
-⟪दुष्प्रणीतः⟫ ***⟪कामक्रोधाभ्याम⟫***⟪वज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, ***⟪किमङ्ग⟫*** ⟪पुनर्गृहस्थान्⟫ ⟪।१२।⟫ <!-- TODO: Fallback translation -->
+⟪दुष्प्रणीतः⟫ ***⟪कामक्रोधाभ्याम⟫***⟪वज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫，***⟪किमङ्ग⟫*** ⟪पुनर्गृहस्थान्⟫ ⟪।१२।⟫
 
-⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।१३।⟫ <!-- TODO: Fallback translation -->
+⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।१३।⟫
 
-**⟪बलीयान⟫**⟪अबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।१४।⟫ <!-- TODO: Fallback translation -->
+**⟪बलीयान⟫⟪अबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।१४।⟫**
 
-⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।१५।⟫ <!-- TODO: Fallback translation -->
-:::indent
+⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।१५।⟫
+::: indent
 **⟪चतुर्व⟫**⟪र्णाश्रमो⟫ ⟪लोको⟫  
 **⟪राज्ञा⟫** ⟪दण्डेन⟫ ⟪पालितः⟫ ⟪।⟫  
 ⟪स्वधर्मकर्माभिरतो⟫  
-⟪वर्तते⟫ **⟪स्वेषु⟫ ⟪वर्त्मसु⟫** ⟪॥१६॥⟫ <!-- TODO: Fallback translation -->
-::::::media
+⟪वर्तते⟫ **⟪स्वेषु⟫ ⟪वर्त्मसु⟫** ⟪॥१६॥⟫
+:::: media
 ![](/images/lekt2902.jpg)
-Abb.: ⟪मात्स्यन्याय⟫:
-(Zeichnung: Namcha Payer, 2002-11)
-(Bildquelle: [Details](/licenses#lekt2902)) <!-- TODO: Fallback translation -->
+图：⟪मात्स्यन्याय⟫：
+（绘图：Namcha Payer，2002-11）
+（图片来源：[详情](/zh-CN/licenses#lekt2902)）
+::::
 :::
-Erklärungen: <!-- TODO: Fallback translation -->
+解释：
 
-⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "etwas (jemand), vor dem man schaudern muss" <!-- TODO: Fallback translation -->
+⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ “令人畏惧之人/物”
 
-⟪।११।⟫ ⟪विज्ञात⟫ ⟪३⟫ "erkannt" ; n.: Erkennen <!-- TODO: Fallback translation -->
+⟪।११।⟫ ⟪विज्ञात⟫ ⟪३⟫ “认知”；n.：认知
 
-⟪।११।⟫ ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫) "anschirren, verbinden mit, vereinigen mit" <!-- TODO: Fallback translation -->
+⟪।११।⟫ ⟪योजयति⟫（Kaus. 至 ⟪युज्⟫）“套上，与……结合，与……联合”
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva) <!-- TODO: Fallback translation -->
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ ：语法说明，与格、离格，双数阴性，源自 ⟪कामक्रोध⟫ （双数复合）
 
-⟪।१२।⟫ ⟪किमङ्ग⟫ "um wieviel mehr" <!-- TODO: Fallback translation -->
+⟪।१२।⟫ ⟪किमङ्ग⟫ “更何况”
 
-⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. mask. zu ⟪बलीयस्⟫ ⟪३⟫ "stärker" <!-- TODO: Fallback translation -->
+⟪।१४।⟫ ⟪बलीयान्⟫：主格单数阳性，对应 ⟪बलीयस्⟫ ⟪३⟫“更强”
 
-⟪।१६।⟫ ⟪चतुर्⟫ "vier" als Vorderglied eines Kompositums <!-- TODO: Fallback translation -->
+⟪।१६।⟫ ⟪चतुर्⟫ "चतुर्" (catus) 作为复合词的前半部分
 
-⟪राज्ञा⟫ Instr. sg. mask. zu ⟪राजन्⟫ m. "König" <!-- TODO: Fallback translation -->
+⟪राज्ञा⟫ Instr. sg. mask. zu ⟪राजन्⟫ m. "König"
 
-⟪स्वेषु⟫ : Lok. plur. mask. / neutr. zu ⟪स्व⟫ ⟪३⟫ "eigen (mein, dein, sein usw.)" <!-- TODO: Fallback translation -->
+⟪स्वेषु⟫：Lok. 复数 阳性/中性 对应 ⟪स्व⟫ ⟪३⟫ “自己的（我的、你的、他的等）”
 
-⟪वर्त्मसु⟫ : Lok. plur neutr. zu ⟪वर्त्मन्⟫ n. "Bahn, Gleis, Pfad" <!-- TODO: Fallback translation -->
+⟪वर्त्मसु⟫ : 地方复数中性，对应 ⟪वर्त्मन्⟫ n. “道路、轨道、路径”
 
-## 29.4. Futur und Kausativ zu den bisher gelernten Wurzeln
+## 29.4. 此前所学词根的未来时与使动语态
 
-:::grammar-box
+::: grammar-box
 
-| Wurzel:br⟪धातु⟫ | Futur:br⟪ऌत्⟫ | Kausativ:br⟪कारित⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-|⟪अद्⟫ ⟪२⟫ ⟪प⟫|⟪अत्स्यति⟫|⟪आदयति⟫| <!-- TODO: Fallback translation -->
-|⟪अर्ह्⟫ ⟪१⟫ ⟪प⟫|⟪अर्हिष्यति⟫|⟪अर्हयति⟫| <!-- TODO: Fallback translation -->
-|⟪अश्⟫ ⟪५⟫ ⟪आ⟫|⟪अशिष्यते⟫:br⟪अक्ष्यते⟫|⟪आशयति⟫| <!-- TODO: Fallback translation -->
-|⟪अस्⟫ ⟪२⟫ ⟪प⟫|--|--| <!-- TODO: Fallback translation -->
-|⟪अस्⟫ ⟪४⟫ ⟪प⟫|⟪असिष्यति⟫|⟪आसयति⟫| <!-- TODO: Fallback translation -->
-|⟪आप्⟫ ⟪५⟫ ⟪प⟫|⟪आप्स्यति⟫|⟪आपयति⟫| <!-- TODO: Fallback translation -->
-|⟪आस्⟫ ⟪२⟫ ⟪आ⟫|⟪आसिष्यते⟫|⟪आसयति⟫| <!-- TODO: Fallback translation -->
-|⟪इ⟫ ⟪२⟫ ⟪प⟫|⟪एष्यति⟫|⟪आययति⟫| <!-- TODO: Fallback translation -->
-|⟪इष्⟫ ⟪६⟫ ⟪प⟫|⟪एषिष्यति⟫|⟪एषयति⟫| <!-- TODO: Fallback translation -->
-|⟪कम्⟫ ⟪१०⟫ ⟪आ⟫|⟪कामयिष्यते⟫:br⟪कमिष्यते⟫|⟪कामयति⟫| <!-- TODO: Fallback translation -->
-|⟪कुप्⟫ ⟪४⟫ ⟪प⟫|⟪कोपिष्यति⟫|⟪कोपयति⟫| <!-- TODO: Fallback translation -->
-|⟪कृ⟫ ⟪८⟫ ⟪उ⟫|⟪करिष्यति⟫|⟪कारयति⟫| <!-- TODO: Fallback translation -->
-|⟪कृष्⟫ ⟪१⟫ ⟪प⟫, ⟪६⟫ ⟪उ⟫|⟪कर्क्ष्यति⟫:br⟪क्रक्ष्यति⟫|⟪कर्षयति⟫| <!-- TODO: Fallback translation -->
-|⟪क्रुध्⟫ ⟪४⟫ ⟪प⟫|⟪क्रोत्स्यति⟫|⟪क्रोधयति⟫| <!-- TODO: Fallback translation -->
-|⟪खाद्⟫ ⟪१⟫ ⟪प⟫|⟪खादिष्यति⟫|⟪खादयति⟫| <!-- TODO: Fallback translation -->
-|⟪ख्या⟫ ⟪२⟫ ⟪प⟫|--|--| <!-- TODO: Fallback translation -->
-|⟪गम्⟫ ⟪१⟫ ⟪प⟫|⟪गमिष्यति⟫|⟪गमयति⟫| <!-- TODO: Fallback translation -->
-|⟪चर्⟫ ⟪१⟫ ⟪प⟫|⟪चरिष्यति⟫|⟪चारयति⟫| <!-- TODO: Fallback translation -->
-|⟪चुर्⟫ ⟪१०⟫ ⟪उ⟫|⟪चोरयिष्यति⟫|⟪चोरयति⟫| <!-- TODO: Fallback translation -->
-|⟪चेष्ट्⟫ ⟪१⟫ ⟪आ⟫|⟪चेष्टिष्यते⟫|⟪चेष्टयति⟫| <!-- TODO: Fallback translation -->
-|⟪जन्⟫ ⟪४⟫ ⟪आ⟫|⟪जनिष्यते⟫|⟪जनयति⟫| <!-- TODO: Fallback translation -->
-|⟪जि⟫ ⟪१⟫ ⟪प⟫|⟪जेष्यति⟫|⟪जापयति⟫| <!-- TODO: Fallback translation -->
-|⟪जीव्⟫ ⟪१⟫ ⟪प⟫|⟪जीविष्यति⟫|⟪जीवयति⟫| <!-- TODO: Fallback translation -->
-|⟪तन्⟫ ⟪८⟫ ⟪उ⟫|⟪तनिष्यति⟫|⟪तानयति⟫| <!-- TODO: Fallback translation -->
-|⟪त्यज्⟫ ⟪१⟫ ⟪प⟫|⟪त्यक्ष्यति⟫|⟪त्याजयति⟫| <!-- TODO: Fallback translation -->
-|⟪त्वर्⟫ ⟪१⟫ ⟪आ⟫|⟪त्वरिष्यते⟫|⟪त्वरयति⟫| <!-- TODO: Fallback translation -->
-|⟪दह्⟫ ⟪१⟫ ⟪प⟫|⟪धक्ष्यति⟫|⟪दाहयति⟫| <!-- TODO: Fallback translation -->
-|⟪दिश्⟫ ⟪६⟫ ⟪उ⟫|⟪देक्ष्यति⟫|⟪देशयति⟫| <!-- TODO: Fallback translation -->
-|⟪दुष्⟫ ⟪४⟫ ⟪प⟫|⟪दोक्ष्यति⟫|⟪दूषयति⟫:br⟪दोषयति⟫| <!-- TODO: Fallback translation -->
-|⟪दुह्⟫ ⟪२⟫ ⟪उ⟫|⟪धोक्ष्यति⟫|⟪दोहयति⟫| <!-- TODO: Fallback translation -->
-|⟪दृश्⟫|⟪द्रक्ष्यति⟫|⟪दर्शयति⟫| <!-- TODO: Fallback translation -->
-|⟪द्विष्⟫ ⟪२⟫ ⟪उ⟫|⟪द्वेक्ष्यति⟫|⟪द्वेषयति⟫| <!-- TODO: Fallback translation -->
-|⟪धृ⟫ ⟪१⟫ ⟪उ⟫|⟪धरिष्यति⟫|⟪धारयति⟫| <!-- TODO: Fallback translation -->
-|⟪नी⟫ ⟪१⟫ ⟪उ⟫|⟪नेष्यति⟫|⟪नाययति⟫| <!-- TODO: Fallback translation -->
-|⟪नृत्⟫ ⟪४⟫ ⟪प⟫|⟪नर्तिष्यति⟫|⟪नर्तयति⟫| <!-- TODO: Fallback translation -->
-|⟪पच्⟫ ⟪१⟫ ⟪उ⟫|⟪पक्ष्यति⟫|⟪पाचयति⟫| <!-- TODO: Fallback translation -->
-|⟪पत्⟫ ⟪१⟫ ⟪प⟫|⟪पतिष्यति⟫|⟪पातयति⟫| <!-- TODO: Fallback translation -->
-|⟪पद्⟫ ⟪४⟫ ⟪आ⟫|⟪पत्स्यते⟫|⟪पादयति⟫| <!-- TODO: Fallback translation -->
-|⟪पा⟫ ⟪१⟫ ⟪प⟫|⟪पास्यति⟫|⟪पाययति⟫| <!-- TODO: Fallback translation -->
-|⟪पा⟫ ⟪२⟫ ⟪प⟫|⟪पास्यति⟫|⟪पालयति⟫| <!-- TODO: Fallback translation -->
-|⟪प्रच्छ्⟫ ⟪६⟫ ⟪प⟫|⟪प्रक्ष्यति⟫|⟪प्रच्छयति⟫| <!-- TODO: Fallback translation -->
-|⟪बुध्⟫ ⟪१⟫ ⟪उ⟫|⟪बोधिष्यति⟫|⟪बोधयति⟫| <!-- TODO: Fallback translation -->
-|⟪बुध्⟫ ⟪४⟫ ⟪आ⟫|⟪भोत्स्यते⟫|⟪बोधयति⟫| <!-- TODO: Fallback translation -->
-|⟪ब्रू⟫ ⟪२⟫ ⟪उ⟫|--|--| <!-- TODO: Fallback translation -->
-|⟪भज्⟫ ⟪१⟫ ⟪उ⟫|⟪भक्ष्यति⟫|⟪भाजयति⟫| <!-- TODO: Fallback translation -->
-|⟪भू⟫ ⟪१⟫ ⟪प⟫|⟪भविष्यति⟫|⟪भावयति⟫| <!-- TODO: Fallback translation -->
-|⟪मद्⟫ ⟪४⟫ ⟪प⟫|⟪मदिष्यति⟫|⟪मदयति⟫:br⟪मादयति⟫| <!-- TODO: Fallback translation -->
-|⟪मन्⟫ ⟪४⟫ ⟪आ⟫|⟪मंस्यते⟫|⟪मानयति⟫| <!-- TODO: Fallback translation -->
-|⟪मुच्⟫ ⟪६⟫ ⟪उ⟫|⟪मोक्ष्यति⟫|⟪मोचयति⟫| <!-- TODO: Fallback translation -->
-|⟪मुह्⟫ ⟪४⟫ ⟪प⟫|⟪मोक्ष्यति⟫:br⟪मोहिष्यति⟫|⟪मोहयति⟫| <!-- TODO: Fallback translation -->
-|⟪मृ⟫ ⟪४⟫ ⟪आ⟫|⟪मरिष्यति⟫|⟪मारयति⟫| <!-- TODO: Fallback translation -->
-|⟪यज्⟫ ⟪१⟫ ⟪उ⟫|⟪यक्ष्यति⟫|⟪याजयति⟫| <!-- TODO: Fallback translation -->
-|⟪या⟫ ⟪२⟫ ⟪प⟫|⟪यास्यति⟫|⟪यापयति⟫| <!-- TODO: Fallback translation -->
-|⟪युध्⟫ ⟪४⟫ ⟪आ⟫|⟪योत्स्यते⟫|⟪योधयति⟫| <!-- TODO: Fallback translation -->
-|⟪रक्ष्⟫ ⟪१⟫ ⟪प⟫|⟪रक्षिष्यति⟫|⟪रक्षयति⟫| <!-- TODO: Fallback translation -->
-|⟪रुद्⟫ ⟪२⟫ ⟪प⟫|⟪रोदिष्यति⟫|⟪रोदयति⟫| <!-- TODO: Fallback translation -->
-|⟪लभ्⟫ ⟪१⟫ ⟪आ⟫|⟪लप्स्यते⟫|⟪लम्भयति⟫| <!-- TODO: Fallback translation -->
-|⟪लिप्⟫ ⟪६⟫ ⟪उ⟫|⟪लेप्स्यति⟫|⟪लेपयति⟫| <!-- TODO: Fallback translation -->
-|⟪लुभ्⟫ ⟪४⟫ ⟪प⟫|⟪लोभिष्यते⟫|⟪लोभयति⟫| <!-- TODO: Fallback translation -->
-|⟪वच्⟫ ⟪२⟫ ⟪प⟫|⟪वक्ष्यति⟫|⟪वाचयति⟫| <!-- TODO: Fallback translation -->
-|⟪वद्⟫ ⟪१⟫ ⟪प⟫|⟪वदिष्यति⟫|⟪वाद्यायति⟫| <!-- TODO: Fallback translation -->
-|⟪वस्⟫ ⟪१⟫ ⟪प⟫|⟪वत्स्यति⟫|⟪वासयति⟫| <!-- TODO: Fallback translation -->
-|⟪वस्⟫ ⟪२⟫ ⟪आ⟫|⟪वसिष्यते⟫|⟪वासयति⟫| <!-- TODO: Fallback translation -->
-|⟪वह्⟫ ⟪१⟫ ⟪उ⟫|⟪वक्ष्यति⟫|⟪वाहयति⟫| <!-- TODO: Fallback translation -->
-|⟪वा⟫ ⟪२⟫ ⟪प⟫|⟪वास्यति⟫|⟪वापयति⟫| <!-- TODO: Fallback translation -->
-|⟪विद्⟫ ⟪२⟫ ⟪प⟫|⟪वेदिष्यति⟫|⟪वेदयति⟫| <!-- TODO: Fallback translation -->
-|⟪विद्⟫ ⟪६⟫ ⟪उ⟫|⟪वेदिष्यति⟫:br⟪वेत्स्यति⟫|⟪वेदयति⟫| <!-- TODO: Fallback translation -->
-|⟪विश्⟫ ⟪६⟫ ⟪प⟫|⟪वेक्ष्यति⟫|⟪वेशयति⟫| <!-- TODO: Fallback translation -->
-|⟪वृत्⟫ ⟪१⟫ ⟪आ⟫|⟪वर्तिष्यते⟫:br⟪वर्त्स्यति⟫|⟪वर्तयति⟫| <!-- TODO: Fallback translation -->
-|⟪वृध्⟫ ⟪१⟫ ⟪आ⟫|⟪वर्धिष्यते⟫|⟪वर्धयति⟫| <!-- TODO: Fallback translation -->
-|⟪शक्⟫ ⟪५⟫ ⟪प⟫|⟪शक्ष्यति⟫|⟪शाकयति⟫| <!-- TODO: Fallback translation -->
-|⟪शास्⟫ ⟪२⟫ ⟪प⟫|⟪शासिष्यति⟫|⟪शासयति⟫| <!-- TODO: Fallback translation -->
-|⟪श्रु⟫ ⟪५⟫ ⟪प⟫|⟪श्रोष्यति⟫|⟪श्रावयति⟫| <!-- TODO: Fallback translation -->
-|⟪सद्⟫ ⟪१⟫ ⟪प⟫|⟪सत्स्यति⟫|⟪सादयति⟫| <!-- TODO: Fallback translation -->
-|⟪सह्⟫ ⟪१⟫ ⟪आ⟫|⟪सहिष्यते⟫|⟪साहयति⟫| <!-- TODO: Fallback translation -->
-|⟪सिच्⟫ ⟪६⟫ ⟪उ⟫|⟪सेक्ष्यति⟫|⟪सेचयति⟫| <!-- TODO: Fallback translation -->
-|⟪सु⟫ ⟪५⟫ ⟪उ⟫|⟪सोष्यति⟫|⟪सावयति⟫| <!-- TODO: Fallback translation -->
-|⟪सृज्⟫ ⟪६⟫ ⟪प⟫|⟪स्रक्ष्यति⟫|⟪सर्जयति⟫| <!-- TODO: Fallback translation -->
-|⟪सेव्⟫ ⟪१⟫ ⟪आ⟫|⟪सेविष्यते⟫|⟪सेवयति⟫| <!-- TODO: Fallback translation -->
-|⟪स्तु⟫ ⟪२⟫ ⟪उ⟫|⟪स्तोष्यति⟫|⟪स्तावयति⟫| <!-- TODO: Fallback translation -->
-|⟪स्था⟫ ⟪१⟫ ⟪प⟫|⟪स्थास्यति⟫|⟪स्थापयति⟫| <!-- TODO: Fallback translation -->
-|⟪स्मृ⟫ ⟪१⟫ ⟪प⟫|⟪स्मरिष्यति⟫|⟪स्मारयति⟫:br⟪स्मरयति⟫| <!-- TODO: Fallback translation -->
-|⟪हन्⟫ ⟪२⟫ ⟪प⟫|⟪हनिष्यति⟫|⟪घातयति⟫| <!-- TODO: Fallback translation -->
-|⟪हृ⟫ ⟪१⟫ ⟪उ⟫|⟪हरिष्यति⟫|⟪हारयति⟫| <!-- TODO: Fallback translation -->
+| 词根：br⟪धातु⟫ | 将来时：br⟪ऌत्⟫ | 使役：br⟪कारित⟫ |
+| :--- | :--- | :--- |
+|⟪अद्⟫ ⟪२⟫ ⟪प⟫|⟪अत्स्यति⟫|⟪आदयति⟫|
+|⟪अर्ह्⟫ ⟪१⟫ ⟪प⟫|⟪अर्हिष्यति⟫|⟪अर्हयति⟫|
+|⟪अश्⟫ ⟪५⟫ ⟪आ⟫|⟪अशिष्यते⟫:br⟪अक्ष्यते⟫|⟪आशयति⟫|
+|⟪अस्⟫ ⟪२⟫ ⟪प⟫|--|--|
+|⟪अस्⟫ ⟪४⟫ ⟪प⟫|⟪असिष्यति⟫|⟪आसयति⟫|
+|⟪आप्⟫ ⟪५⟫ ⟪प⟫|⟪आप्स्यति⟫|⟪आपयति⟫|
+|⟪आस्⟫ ⟪२⟫ ⟪आ⟫|⟪आसिष्यते⟫|⟪आसयति⟫|
+|⟪इ⟫ ⟪२⟫ ⟪प⟫|⟪एष्यति⟫|⟪आययति⟫|
+|⟪इष्⟫ ⟪६⟫ ⟪प⟫|⟪एषिष्यति⟫|⟪एषयति⟫|
+|⟪कम्⟫ ⟪१०⟫ ⟪आ⟫|⟪कामयिष्यते⟫:br⟪कमिष्यते⟫|⟪कामयति⟫|
+|⟪कुप्⟫ ⟪४⟫ ⟪प⟫|⟪कोपिष्यति⟫|⟪कोपयति⟫|
+|⟪कृ⟫ ⟪८⟫ ⟪उ⟫|⟪करिष्यति⟫|⟪कारयति⟫|
+|⟪कृष्⟫ ⟪१⟫ ⟪प⟫, ⟪६⟫ ⟪उ⟫|⟪कर्क्ष्यति⟫:br⟪क्रक्ष्यति⟫|⟪कर्षयति⟫|
+|⟪क्रुध्⟫ ⟪४⟫ ⟪प⟫|⟪क्रोत्स्यति⟫|⟪क्रोधयति⟫|
+|⟪खाद्⟫ ⟪१⟫ ⟪प⟫|⟪खादिष्यति⟫|⟪खादयति⟫|
+|⟪ख्या⟫ ⟪२⟫ ⟪प⟫|--|--|
+|⟪गम्⟫ ⟪१⟫ ⟪प⟫|⟪गमिष्यति⟫|⟪गमयति⟫|
+|⟪चर्⟫ ⟪१⟫ ⟪प⟫|⟪चरिष्यति⟫|⟪चारयति⟫|
+|⟪चुर्⟫ ⟪१०⟫ ⟪उ⟫|⟪चोरयिष्यति⟫|⟪चोरयति⟫|
+|⟪चेष्ट्⟫ ⟪१⟫ ⟪आ⟫|⟪चेष्टिष्यते⟫|⟪चेष्टयति⟫|
+|⟪जन्⟫ ⟪४⟫ ⟪आ⟫|⟪जनिष्यते⟫|⟪जनयति⟫|
+|⟪जि⟫ ⟪१⟫ ⟪प⟫|⟪जेष्यति⟫|⟪जापयति⟫|
+|⟪जीव्⟫ ⟪१⟫ ⟪प⟫|⟪जीविष्यति⟫|⟪जीवयति⟫|
+|⟪तन्⟫ ⟪८⟫ ⟪उ⟫|⟪तनिष्यति⟫|⟪तानयति⟫|
+|⟪त्यज्⟫ ⟪१⟫ ⟪प⟫|⟪त्यक्ष्यति⟫|⟪त्याजयति⟫|
+|⟪त्वर्⟫ ⟪१⟫ ⟪आ⟫|⟪त्वरिष्यते⟫|⟪त्वरयति⟫|
+|⟪दह्⟫ ⟪१⟫ ⟪प⟫|⟪धक्ष्यति⟫|⟪दाहयति⟫|
+|⟪दिश्⟫ ⟪६⟫ ⟪उ⟫|⟪देक्ष्यति⟫|⟪देशयति⟫|
+|⟪दुष्⟫ ⟪४⟫ ⟪प⟫|⟪दोक्ष्यति⟫|⟪दूषयति⟫:br⟪दोषयति⟫|
+|⟪दुह्⟫ ⟪२⟫ ⟪उ⟫|⟪धोक्ष्यति⟫|⟪दोहयति⟫|
+|⟪दृश्⟫|⟪द्रक्ष्यति⟫|⟪दर्शयति⟫|
+|⟪द्विष्⟫ ⟪२⟫ ⟪उ⟫|⟪द्वेक्ष्यति⟫|⟪द्वेषयति⟫|
+|⟪धृ⟫ ⟪१⟫ ⟪उ⟫|⟪धरिष्यति⟫|⟪धारयति⟫|
+|⟪नी⟫ ⟪१⟫ ⟪उ⟫|⟪नेष्यति⟫|⟪नाययति⟫|
+|⟪नृत्⟫ ⟪४⟫ ⟪प⟫|⟪नर्तिष्यति⟫|⟪नर्तयति⟫|
+|⟪पच्⟫ ⟪१⟫ ⟪उ⟫|⟪पक्ष्यति⟫|⟪पाचयति⟫|
+|⟪पत्⟫ ⟪१⟫ ⟪प⟫|⟪पतिष्यति⟫|⟪पातयति⟫|
+|⟪पद्⟫ ⟪४⟫ ⟪आ⟫|⟪पत्स्यते⟫|⟪पादयति⟫|
+|⟪पा⟫ ⟪१⟫ ⟪प⟫|⟪पास्यति⟫|⟪पाययति⟫|
+|⟪पा⟫ ⟪२⟫ ⟪प⟫|⟪पास्यति⟫|⟪पालयति⟫|
+|⟪प्रच्छ्⟫ ⟪६⟫ ⟪प⟫|⟪प्रक्ष्यति⟫|⟪प्रच्छयति⟫|
+|⟪बुध्⟫ ⟪१⟫ ⟪उ⟫|⟪बोधिष्यति⟫|⟪बोधयति⟫|
+|⟪बुध्⟫ ⟪४⟫ ⟪आ⟫|⟪भोत्स्यते⟫|⟪बोधयति⟫|
+|⟪ब्रू⟫ ⟪२⟫ ⟪उ⟫|--|--|
+|⟪भज्⟫ ⟪१⟫ ⟪उ⟫|⟪भक्ष्यति⟫|⟪भाजयति⟫|
+|⟪भू⟫ ⟪१⟫ ⟪प⟫|⟪भविष्यति⟫|⟪भावयति⟫|
+|⟪मद्⟫ ⟪४⟫ ⟪प⟫|⟪मदिष्यति⟫|⟪मदयति⟫:br⟪मादयति⟫|
+|⟪मन्⟫ ⟪४⟫ ⟪आ⟫|⟪मंस्यते⟫|⟪मानयति⟫|
+|⟪मुच्⟫ ⟪६⟫ ⟪उ⟫|⟪मोक्ष्यति⟫|⟪मोचयति⟫|
+|⟪मुह्⟫ ⟪४⟫ ⟪प⟫|⟪मोक्ष्यति⟫:br⟪मोहिष्यति⟫|⟪मोहयति⟫|
+|⟪मृ⟫ ⟪४⟫ ⟪आ⟫|⟪मरिष्यति⟫|⟪मारयति⟫|
+|⟪यज्⟫ ⟪१⟫ ⟪उ⟫|⟪यक्ष्यति⟫|⟪याजयति⟫|
+|⟪या⟫ ⟪२⟫ ⟪प⟫|⟪यास्यति⟫|⟪यापयति⟫|
+|⟪युध्⟫ ⟪४⟫ ⟪आ⟫|⟪योत्स्यते⟫|⟪योधयति⟫|
+|⟪रक्ष्⟫ ⟪१⟫ ⟪प⟫|⟪रक्षिष्यति⟫|⟪रक्षयति⟫|
+|⟪रुद्⟫ ⟪२⟫ ⟪प⟫|⟪रोदिष्यति⟫|⟪रोदयति⟫|
+|⟪लभ्⟫ ⟪१⟫ ⟪आ⟫|⟪लप्स्यते⟫|⟪लम्भयति⟫|
+|⟪लिप्⟫ ⟪६⟫ ⟪उ⟫|⟪लेप्स्यति⟫|⟪लेपयति⟫|
+|⟪लुभ्⟫ ⟪४⟫ ⟪प⟫|⟪लोभिष्यते⟫|⟪लोभयति⟫|
+|⟪वच्⟫ ⟪२⟫ ⟪प⟫|⟪वक्ष्यति⟫|⟪वाचयति⟫|
+|⟪वद्⟫ ⟪१⟫ ⟪प⟫|⟪वदिष्यति⟫|⟪वाद्यायति⟫|
+|⟪वस्⟫ ⟪१⟫ ⟪प⟫|⟪वत्स्यति⟫|⟪वासयति⟫|
+|⟪वस्⟫ ⟪२⟫ ⟪आ⟫|⟪वसिष्यते⟫|⟪वासयति⟫|
+|⟪वह्⟫ ⟪१⟫ ⟪उ⟫|⟪वक्ष्यति⟫|⟪वाहयति⟫|
+|⟪वा⟫ ⟪२⟫ ⟪प⟫|⟪वास्यति⟫|⟪वापयति⟫|
+|⟪विद्⟫ ⟪२⟫ ⟪प⟫|⟪वेदिष्यति⟫|⟪वेदयति⟫|
+|⟪विद्⟫ ⟪६⟫ ⟪उ⟫|⟪वेदिष्यति⟫:br⟪वेत्स्यति⟫|⟪वेदयति⟫|
+|⟪विश्⟫ ⟪६⟫ ⟪प⟫|⟪वेक्ष्यति⟫|⟪वेशयति⟫|
+|⟪वृत्⟫ ⟪१⟫ ⟪आ⟫|⟪वर्तिष्यते⟫:br⟪वर्त्स्यति⟫|⟪वर्तयति⟫|
+|⟪वृध्⟫ ⟪१⟫ ⟪आ⟫|⟪वर्धिष्यते⟫|⟪वर्धयति⟫|
+|⟪शक्⟫ ⟪५⟫ ⟪प⟫|⟪शक्ष्यति⟫|⟪शाकयति⟫|
+|⟪शास्⟫ ⟪२⟫ ⟪प⟫|⟪शासिष्यति⟫|⟪शासयति⟫|
+|⟪श्रु⟫ ⟪५⟫ ⟪प⟫|⟪श्रोष्यति⟫|⟪श्रावयति⟫|
+|⟪सद्⟫ ⟪१⟫ ⟪प⟫|⟪सत्स्यति⟫|⟪सादयति⟫|
+|⟪सह्⟫ ⟪१⟫ ⟪आ⟫|⟪सहिष्यते⟫|⟪साहयति⟫|
+|⟪सिच्⟫ ⟪६⟫ ⟪उ⟫|⟪सेक्ष्यति⟫|⟪सेचयति⟫|
+|⟪सु⟫ ⟪५⟫ ⟪उ⟫|⟪सोष्यति⟫|⟪सावयति⟫|
+|⟪सृज्⟫ ⟪६⟫ ⟪प⟫|⟪स्रक्ष्यति⟫|⟪सर्जयति⟫|
+|⟪सेव्⟫ ⟪१⟫ ⟪आ⟫|⟪सेविष्यते⟫|⟪सेवयति⟫|
+|⟪स्तु⟫ ⟪२⟫ ⟪उ⟫|⟪स्तोष्यति⟫|⟪स्तावयति⟫|
+|⟪स्था⟫ ⟪१⟫ ⟪प⟫|⟪स्थास्यति⟫|⟪स्थापयति⟫|
+|⟪स्मृ⟫ ⟪१⟫ ⟪प⟫|⟪स्मरिष्यति⟫|⟪स्मारयति⟫:br⟪स्मरयति⟫|
+|⟪हन्⟫ ⟪२⟫ ⟪प⟫|⟪हनिष्यति⟫|⟪घातयति⟫|
+|⟪हृ⟫ ⟪१⟫ ⟪उ⟫|⟪हरिष्यति⟫|⟪हारयति⟫|
 
-::::::deleteme-box
+:::
+::: deleteme-box
 
-**lekt2903:** Pushkar = ⟪पुष्कर⟫ [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
-**lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [Bildquelle: Khalid Mahmood / Wikipedia. GNU FDLicense]
-**lekt2902:** (Zeichnung: Namcha Payer, 2002-11) <!-- TODO: Fallback translation -->
+**lekt2903:** Pushkar = ⟪पुष्कर⟫ [图片来源：pyjama。-- http://www.flickr.com/photos/rpt/387636532/。-- 访问日期：2008-12-20。-- 知识共享许可协议（署名，非商业性使用，相同方式共享）]
+**lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [图片来源：Khalid Mahmood / 维基百科。GNU FDLicense]
+**lekt2902:** (绘图：Namcha Payer，2002-11)
 :::

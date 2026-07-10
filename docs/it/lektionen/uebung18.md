@@ -83,7 +83,7 @@ B) Tradurre i seguenti Tatpuruṣa:
 
 ⟪३१⟫. ⟪अमृत⟫ n. — immortalità, cibo di immortalità, bevanda di immortalità
 
-:::media
+::: media
 ![](/images/uebung027.jpg)
 Fig.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung027))
@@ -141,7 +141,7 @@ D) Tradurre:
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 Dovere di tutti è: non violenza, veridicità, purezza, non lamentarsi del proprio destino, assenza di malizia e pazienza tollerante.
 
-:::media
+::: media
 ![](/images/uebung028.webp)
 Fig.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung028))

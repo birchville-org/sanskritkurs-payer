@@ -1,9 +1,9 @@
 ---
-title: Lesson 16
-subtitle: "On the sandhi of final consonants"
+title: Lektion 16
+subtitle: "Zum Sandhi auslautender Konsonanten"
 lesson_id: 16
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,37 +11,33 @@ status: stable
 
 ## 16.1. On the Sandhi of Final Consonants
 
-For the formation of compounds whose first member ends in consonantal stems, the following rules are required:
+To form compounds whose first member consists of stems ending in a consonant, the following rules are required:
 
 Final guttural, retroflex, dental, and labial stops (i.e., not nasals and not palatals).
 
-::::grammar-box
+::: no-header
 
-:::no-header
-
-| | |
+|   |   |
 | :--- | :--- |
-| **in pause and before voiceless sounds** | **Replacement by the corresponding voiceless unaspirated sound:** :br **e.g.** :br [[indent]] -g + p- » -kp- :br [[indent]] -d + ph- » -tph- :br [[indent]] -dh + p- » -tp- |
-| **before voiced non-nasal sounds** | **Replacement by the corresponding voiced unaspirated sound:** :br **e.g.** :br [[indent]] -t + g- » -dg- :br [[indent]] -k + b- » -gb- :br [[indent]] -dh + d- » -dd- :br [[indent]] -k + a- » -ga- |
-| **before nasals** | **Replacement by the corresponding nasal:** :br **e.g.** :br [[indent]] -t + n- » -nn- :br [[indent]] -p + n- » -mn- |
+| **in pause and before voiceless sounds** | **Replacement by the corresponding voiceless non-aspirated sound:** :br **e.g.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **before voiced non-nasal sounds** | **Replacement by the corresponding voiced non-aspirated sound:** :br **e.g.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **before nasals** | **Replacement by the corresponding nasal sound:** :br **e.g.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
-:::::::
+:::
 Exception to the above rule:
 
 Final dental stop (not nasal):
 
-::::grammar-box
+::: no-header
 
-:::no-header
-
-| | |
+|   |   |
 | :--- | :--- |
-| **before palatals** | **Replacement by the relevant unaspirated palatal:** :br **i.e.** :br [[indent]] -t + c- » -cc- :br [[indent]] -d + c- » -cc- :br [[indent]] -th + c- » -cc- :br [[indent]] -dh + c- » -cc- :br [[indent]] -t/-th/-d/-dh + ch- » -cch- :br [[indent]] -t/-th/-d/-dh + j- » -jj- :br [[indent]] -t/-th/-d/-dh + jh- » -jjh- |
+| **before palatals** | **Replacement by the relevant unaspirated palatal:** :br **i.e.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
 | **+ ś** | **» -cś- or -cch-** |
-| **before retroflexes** | **Replacement by the relevant unaspirated retroflex:** :br **i.e.** :br [[indent]] -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br [[indent]] -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **before l-** | **Replacement by -l:** :br **i.e.** :br [[indent]] -t/-th/-d/-dh + l- » -ll- |
+| **before retroflexes** | **Replacement by the relevant unaspirated retroflex:** :br **i.e.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **before l-** | **Replacement by -l:** :br **i.e.** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
-:::::::
+:::
 Examples:
 
 ⟪तद्⟫ + ⟪फल⟫ = ⟪तत्फल⟫
@@ -60,51 +56,51 @@ Examples:
 
 ⟪बलवत्⟫ + ⟪शत्रु⟫ = ⟪बलवच्छत्रु⟫
 
-## 16.2. Word List
+## 16.2. Vocabulary
 
-⟪अध्यापन⟫ n.: Teaching, instruction
+⟪अध्यापन⟩ n.: Teaching, instruction
 
-:::media
+::: media
 ![](/images/lekt1602.webp)
 Fig.: ⟪अध्यापनम्⟫
-"This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the occasion of Mahāśivarātri. This is a Vedic school where children memorize the sacred texts known as the Vedas. The school teaches the Krishna Yajurveda and certain portions of the Samaveda. I am writing my master’s thesis on this school."
+"This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
 (Image source: [Details](/en/licenses#lekt1602))
 :::
-⟪अनसूया⟫ f.: Absence of grumbling, freedom from envy
+⟪अनसूया⟫ f.: Non-murmuring, envylessness
 
-⟪नृशंस्य⟫ n.: Cruelty, baseness
+⟪नृशंस्य⟫ n.: Malice, baseness
 
-from this:
+therefrom:
 
-:::indent
-⟪अनृशंस्य⟫ n.: Absence of cruelty
+::: indent
+⟪अनृशंस्य⟫ n.: Non-maliciousness
 :::
 ⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : to live
 
-from this:
+therefrom:
 
-:::indent
+::: indent
 ⟪आजीव⟫ m.: livelihood
 :::
-⟪क्षमा⟫ f.: Patience, forbearance, tolerance
+⟪क्षमा⟫ f.: Patience, forbearance, leniency
 
-⟪क्षेम⟫ n.: Rest, peace, well-being, secure possession
+⟪क्षेम⟫ n.: Calm, peace, well-being, secure possession
 
-⟪चित्त⟫ n.: Consciousness, thought, mind
+⟪चित्त⟫ n.: Consciousness, thinking, mind
 
 ⟪निरोध⟫ m.: Stopping, bringing to a standstill
 
-* **bhūta n.** (⟪भूत⟫) (PPP from bhū): being, spirit, ghost
+* **bhūta n.** (⟪भूत⟫) (PPP from bhū): Being, ghost
 
 ⟪योग⟫ m.: Harnessing, connection, union, acquisition; Yoga
 
-:::media
+::: media
 ![](/images/lekt1601.webp)
 Fig.: ⟪योगी⟫
 Birla Mandir, Delhi
 (Image source: [Details](/en/licenses#lekt1601))
 :::
-⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : to turn, to turn oneself, to be (somewhere), to dwell
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : to turn, to turn around, to be (somewhere), to dwell
 
 ⟪शस्त्र⟫ (śastra) n.: Cutting tool, cutting weapon, sword, weapon
 
@@ -112,17 +108,17 @@ Birla Mandir, Delhi
 
 ⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: leading to the goal, effective
 
-⟪अहिंसा⟫ f.: The act of harming no one, non-injury, non-violence
+⟪अहिंसा⟫ f.: not causing harm to anyone, non-injury, non-violence
 
-:::media
+::: media
 ![](/images/lekt1603.jpg)
 Fig.: ⟪अहिंसा⟫
-"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the center is 'ahimsa.' The wheel represents the dharmacakra, which stands for the resolve to halt the cycle of reincarnation through the relentless pursuit of truth and non-violence."
+"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
 (Image source: [Details](/en/licenses#lekt1603))
 :::
 ## 16.3. Exercise
 
-A) Transform the following expressions into Tatpuruṣa compounds and translate them:
+A) Convert the following expressions into Tatpuruṣa compounds and translate them:
 
 ⟪१⟫. ⟪देवस्य⟫ ⟪पुरुषः⟫ ⟪।⟫
 
@@ -132,15 +128,15 @@ A) Transform the following expressions into Tatpuruṣa compounds and translate 
 
 ⟪४⟫. ⟪पशुमन्तो⟫ ⟪जनाः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1604.webp)
 Fig.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
-⟪हरियाणा⟫ / ਹਰਿਆਣਾ
+⟪हरियाणा⟫ / Haryāṇā
 (Image source: [Details](/en/licenses#lekt1604))
 :::
 ⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
-⟪६⟫. ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
+⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
 ⟪७⟫. ⟪कवेरुक्त्याः⟫ ⟪सत्यम्⟫ ⟪।⟫
 
@@ -154,7 +150,7 @@ Fig.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫
 
-B) Resolve the following compounds in Sanskrit into independent sentences, forming sentences with inflected nouns, and translate them:
+B) Resolve the following compounds in Sanskrit, form sentences with inflected nouns, and translate:
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
 
@@ -178,50 +174,50 @@ B) Resolve the following compounds in Sanskrit into independent sentences, formi
 
 ## 16.4. Review Exercise
 
-A) Form all previously learned cases for the following words as examples of the declension classes studied thus far.
+A) Form all cases learned so far for the following words as examples of the declension classes learned so far.
 
-For this purpose, use the following schema, which corresponds to the order of cases used by Indian grammarians and which, due to its (to be discussed later) advantages, was also adopted by Western grammarians:
+Use the following schema, which corresponds to the order of cases among Indian grammarians and which was also adopted by Western grammarians due to its - later to be discussed - advantages:
 
 | Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
 | :--- | :--- |
-| **1. ⟪प्रथमा⟫**:brNominative | **1. ⟪प्रथमा⟫** |
-| **2. ⟪द्वितीया⟫**:brAccusative | **2. ⟪द्वितीया⟫** |
-| **3. ⟪तृतीया⟫**:brInstrumental | **3. ⟪तृतीया⟫** |
-| **6. ⟪षष्ठी⟫**:brGenitive | **6. ⟪षष्ठी⟫** |
+| **⟪१⟫. ⟪प्रथमा⟫** :brNominative | **⟪१⟫. ⟪प्रथमा⟫** |
+| **⟪२⟫. ⟪द्वितीया⟫** :brAccusative | **⟪२⟫. ⟪द्वितीया⟫** |
+| **⟪३⟫. ⟪तृतीया⟫** :brInstrumental | **⟪३⟫. ⟪तृतीया⟫** |
+| **⟪६⟫. ⟪षष्ठी⟫** :brGenitive | **⟪६⟫. ⟪षष्ठी⟫** |
 
 Memorize the declension patterns based on these examples!!!
 
-1. ⟪नर⟫ m.
+⟪१⟫. ⟪नर⟫ m.
 
-2. ⟪फल⟫ n.
+⟪२⟫. ⟪फल⟫ n.
 
-3. ⟪क्षत्रिया⟫ f.
+⟪३⟫. ⟪क्षत्रिया⟫ f.
 
-4. ⟪अरि⟫ m.
+⟪४⟫. ⟪अरि⟫ m.
 
-5. ⟪मति⟫ f.
+⟪५⟫. ⟪मति⟫ f.
 
-6. ⟪गुरु⟫ m.
+⟪६⟫. ⟪गुरु⟫ m.
 
-7. ⟪धेनु⟫ f.
+⟪७⟫. ⟪धेनु⟫ f.
 
-8. ⟪देवी⟫ f.
+⟪८⟫. ⟪देवी⟫ f.
 
-9. ⟪गुणवन्त्⟫ m., n., f.
+⟪९⟫. ⟪गुणवन्त्⟫ m., n., f.
 
-10. ⟪किम्⟫  m., n., f.
+⟪१०⟫. ⟪किम्⟫  m., n., f.
 
-11. ⟪तद्⟫ m., n., f.
+⟪११⟫. ⟪तद्⟫ m., n., f.
 
-12. ⟪एतद्⟫ m., n., f.
+⟪१२⟫. ⟪एतद्⟫ m., n., f.
 
-13. ⟪इदम्⟫ m., n., f.
+⟪१३⟫. ⟪इदम्⟫ m., n., f.
 
-B) Translate and resolve all Sanskrit compounds:
+B) Translate and resolve all compounds into Sanskrit:
 
-1. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪२॥⟫
+⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪२॥⟫
 
-2. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫
+⟪२⟫. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫
 
 ⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शस्त्राजीवो⟫ ⟪भूतरक्षणं⟫ ⟪च⟫ ⟪॥६॥⟫
 
@@ -231,27 +227,26 @@ B) Translate and resolve all Sanskrit compounds:
 
 ⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫
 
-(Kaṭhīya Arthaśāstra 1.3.5-8, 13)
+(⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-:::indent
+::: indent
 Explanations;
 
-Sentence 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom./Akk.: Dvandva, denoting two "things"
+Sentence 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Acc.: Dvandva, denoting the two "things"
 
-Sentence 8: ⟪कर्म⟫ Nom./Akk. sg. Neuter from ⟪कर्मन्⟫ "deed"
+Sentence 8: ⟪कर्म⟫ Nom., Acc. sg. Neuter to ⟪कर्मन्⟫ "deed"
 
-Sentence 13: ⟪सर्वेषाम्⟫ Gen. pl. masc. from ⟪सर्व⟫ "every, all" (pronoun, not declined like deva)
+Sentence 13: ⟪सर्वेषाम्⟫ Gen. pl. masc. to ⟪सर्व⟫ "each, all" (pronoun, not declined like deva)
 :::
-3. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
+**lekt1601:** Birla Mandir, Delhi [Image source: Deepak / Wikipedia ; Creative Commons License (Attribution, share alike)]
 
-**lekt1601:** Birla Mandir, Delhi [Image source: Deepak / Wikipedia; Creative Commons License (Attribution, ShareAlike)]
+**lekt1602:** "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school." [Image source: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Accessed on 2008-12-07. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
 
-**lekt1602:** "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the occasion of Mahāśivarātri. This is a Vedic school where children memorize the sacred texts known as the Vedas. The school teaches the Krishna Yajurveda and certain portions of the Samaveda. I am writing my master’s thesis on this school." [Image source: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Accessed on 2008-12-07. -- Creative Commons License (Attribution, Non-Commercial, No Derivative Works)]
+**lekt1603:** "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence." [Image source: Wikipedia, Public domain]
 
-**lekt1603:** "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the center is 'ahimsa.' The wheel represents the dharmacakra, which stands for the resolve to halt the cycle of reincarnation through the relentless pursuit of truth and non-violence." [Image source: Wikipedia, Public domain]
-
-**lekt1604:** ⟪हरियाणा⟫ / ਹਰਿਆਣਾ [Image source: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Accessed on 2008-12-07. -- Creative Commons License (Attribution, Non-Commercial, No Derivative Works)]
+**lekt1604:** ⟪हरियाणा⟫ / ਹਰਿਆਣਾ [Image source: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Accessed on 2008-12-07. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
 :::

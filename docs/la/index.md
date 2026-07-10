@@ -22,8 +22,7 @@ features:
     details: Aedificatum super fundamentum VitePress pro maxima celeritate.
 ---
 
-:::
-tip Version 1.5 — Hebrew Translation & Typography
+::: tip Version 1.5 — Hebrew Translation & Typography
 **Novum in v1.5 (Iunius 2026):**
 
 - **Lingua nova (Hebraica):** Totus cursus nunc etiam Hebraice praebetur (cum supportio RTL).

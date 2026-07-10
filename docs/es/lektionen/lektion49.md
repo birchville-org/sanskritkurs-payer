@@ -1,6 +1,10 @@
 ---
+title: Lektion 49
+subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lección 49
@@ -11,136 +15,140 @@ last_reconstructed: 2026-05-21
 
 ⟪युज्⟫ 7U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. persona**:br⟪तृतीयः⟫ | ⟪युनजानि⟫:bryu-na-j-āni | ⟪युनजाम⟫ | ⟪युनजै⟫ | ⟪युनजामहै⟫ |
-| **2. persona**:br⟪मध्यमः⟫ | ⟪युङ्ग्धि⟫:bryu-n-j + dhi:br⟪युङ्धि⟫ | ⟪युङ्क्त⟫:br⟪युङ्त⟫ | ⟪युङ्क्ष्व⟫ | ⟪युङ्ग्ध्वं⟫:br⟪युङ्ध्वम्⟫ |
-| **3. persona**:br⟪प्रथमः⟫ | ⟪युनक्तु⟫:bryu-na-j + tu | ⟪युञ्जन्तु⟫ | ⟪युङ्क्ताम्⟫:br⟪यु्ङ्ताम्⟫ | ⟪युञ्जताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪युनजानि⟫:bryu-na-j-āni | ⟪युनजाम⟫ | ⟪युनजै⟫ | ⟪युनजामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪युङ्ग्धि⟫:bryu-n-j + dhi:br⟪युङ्धि⟫ | ⟪युङ्क्त⟫:br⟪युङ्त⟫ | ⟪युङ्क्ष्व⟫ | ⟪युङ्ग्ध्वं⟫:br⟪युङ्ध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪युनक्तु⟫:bryu-na-j + tu | ⟪युञ्जन्तु⟫ | ⟪युङ्क्ताम्⟫:br⟪यु्ङ्ताम्⟫ | ⟪युञ्जताम्⟫ |
 :::
 ⟪रुध्⟫ 7U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. persona**:br⟪तृतीयः⟫ | ⟪रुणधानि⟫:brru-ṇa-dh-āni | ⟪रुणधाम⟫ | ⟪रुणधै⟫ | ⟪रुणधामहै⟫ |
-| **2. persona**:br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
-| **3. persona**:br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪रुणधानि⟫:brru-ṇa-dh-āni | ⟪रुणधाम⟫ | ⟪रुणधै⟫ | ⟪रुणधामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
 :::
 ### 49.1.2. Quinta clase de presente (⟪स्वादि⟫)
 
-:::grammar-box
+::: grammar-box
 La 2.sg.P Imperativo es sin desinencia en raíces de la 5. y 8. clase, donde al -u final del sufijo solo le precede una consonante.
 :::
 ⟪सु⟫ 5U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persona**:br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
-| **2. Persona**:br⟪मध्यमः⟫ | ***⟪सुनु⟫*** | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
-| **3. Persona**:br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
+| :---: | :---: | :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *⟪सुनु⟫* | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
 :::
 ⟪आप्⟫ 5P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persona**:br⟪तृतीयः⟫ | ⟪आप्नवानि⟫ | ⟪आप्नवाम⟫ |
-| **2. Persona**:br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
-| **3. Persona**:br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪आप्नवानि⟫ | ⟪आप्नवाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
 :::
 ### 49.1.3. Octava clase de presente (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persona**:br⟪तृतीयः⟫ | ⟪तनवानि⟫ | ⟪तनवाम⟫ | ⟪तनवै⟫ | ⟪तनवामहै⟫ |
-| **2. Persona**:br⟪मध्यमः⟫ | ***⟪तनु⟫*** | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
-| **3. Persona**:br⟪प्रथमः⟫ | ⟪तनोतु⟫ | ⟪तन्वन्तु⟫ | ⟪तनुताम्⟫ | ⟪तन्वताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪तनवानि⟫ | ⟪तनवाम⟫ | ⟪तनवै⟫ | ⟪तनवामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *⟪तनु⟫* | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪तनोतु⟫ | ⟪तन्वन्तु⟫ | ⟪तनुताम्⟫ | ⟪तन्वताम्⟫ |
 :::
 ⟪कृ⟫ 8U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persona**:br⟪तृतीयः⟫ | ⟪करवाणि⟫ | ⟪करवाम⟫ | ⟪करवै⟫ | ⟪करवामहै⟫ |
-| **2. Persona**:br⟪मध्यमः⟫ | ***⟪कुरु⟫*** | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
-| **3. Persona**:br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪करवाणि⟫ | ⟪करवाम⟫ | ⟪करवै⟫ | ⟪करवामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *⟪कुरु⟫* | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
 :::
 ### 49.1.4. Novena clase de presente (⟪क्र्यादि⟫)
 
 ⟪क्री⟫ 9U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persona**:br⟪तृतीयः⟫ | ⟪क्रीणानि⟫:brkrī-ṇā + āni | ⟪क्रीणाम⟫ | ⟪क्रीणै⟫:brkrī-ṇā + ai | ⟪क्रीणामहै⟫ |
-| **2. Persona**:br⟪मध्यमः⟫ | ⟪क्रीणीहि⟫ | ⟪क्रीणीत⟫ | ⟪क्रीणीष्व⟫ | ⟪क्रीणीध्वम्⟫ |
-| **3. Persona**:br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
-::::::grammar-box
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪क्रीणानि⟫:brkrī-ṇā + āni | ⟪क्रीणाम⟫ | ⟪क्रीणै⟫:brkrī-ṇā + ai | ⟪क्रीणामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪क्रीणीहि⟫ | ⟪क्रीणीत⟫ | ⟪क्रीणीष्व⟫ | ⟪क्रीणीध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
+:::
+::: grammar-box
 Las raíces de la 9.ª clase que terminan en consonante reemplazan el -nī-hi final del imperativo 2.sg. por -āna
 :::
 ⟪ग्रह्⟫ 9U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persona**:br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
-| **2. Persona**:br⟪मध्यमः⟫ | ***⟪गृहाण⟫*** | ⟪गृह्णीत⟫ |
-| **3. Persona**:br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *⟪गृहाण⟫* | ⟪गृह्णीत⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
 :::
 ## 49.2. Declinación de las raíces nominales en -as, -is, -us
 
 #### Neutros (⟪नपुंसक⟫)
 
-:::grammar-box
-| | **⟪मनस्⟫ n.**:br"Pensamiento" | **⟪हविस्⟫ n.**:br"Ofrenda" | **⟪चक्षुस्⟫ n.**:br"Ojo" |
+::: grammar-box
+| | **⟪मनस्⟫ n.** :br"Gedanke" | **⟪हविस्⟫ n.** :br"Opferspende" | **⟪चक्षुस्⟫ n.** :br"Auge" |
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | | | |
+| ⟪एकवचनम्⟫ | | | |
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪मनस्⟫ | ⟪हविस्⟫ | ⟪चक्षुस्⟫ |
-| **⟪तृतीया⟫** | ⟪मनसा⟫ | ⟪हविषा⟫ | ⟪चक्षुषा⟫ |
-| **⟪चतुर्थी⟫** | ⟪मनसे⟫ | ⟪हविषे⟫ | ⟪चक्षुषे⟫ |
-| **⟪पञ्चमी⟫** | ⟪मनसस्⟫ | ⟪हविषस्⟫ | ⟪कक्षुषस्⟫ |
-| **⟪षष्ठी⟫** | ⟪मनसस्⟫ | ⟪हविषस्⟫ | ⟪चक्षुषस्⟫ |
-| **⟪सप्तमी⟫** | ⟪मनसि⟫ | ⟪हविषि⟫ | ⟪चक्षुषि⟫ |
-| **⟪बहुवचनम्⟫** | | | |
+| ⟪तृतीया⟫ | ⟪मनसा⟫ | ⟪हविषा⟫ | ⟪चक्षुषा⟫ |
+| ⟪चतुर्थी⟫ | ⟪मनसे⟫ | ⟪हविषे⟫ | ⟪चक्षुषे⟫ |
+| ⟪पञ्चमी⟫ | ⟪मनसस्⟫ | ⟪हविषस्⟫ | ⟪कक्षुषस्⟫ |
+| ⟪षष्ठी⟫ | ⟪मनसस्⟫ | ⟪हविषस्⟫ | ⟪चक्षुषस्⟫ |
+| ⟪सप्तमी⟫ | ⟪मनसि⟫ | ⟪हविषि⟫ | ⟪चक्षुषि⟫ |
+| ⟪बहुवचनम्⟫ | | | |
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪मनांसि⟫ | ⟪हवींषि⟫ | ⟪चक्षूंषि⟫ |
-| **⟪तृतीया⟫** | ⟪मनोभिस्⟫ | ⟪हविर्भिस्⟫ | ⟪चक्षुर्भिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪मनोभ्यस्⟫ | ⟪हविर्भ्यस्⟫ | ⟪चक्षुर्भ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪मनोभ्यस्⟫ | ⟪हविर्भ्यस्⟫ | ⟪चक्षुर्भ्यस्⟫ |
-| **⟪षष्ठी⟫** | ⟪मनसाम्⟫ | ⟪हविषाम्⟫ | ⟪चक्षुषाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪मनस्सु⟫:br⟪मनःसु⟫ | ⟪हविष्षु⟫:br⟪हविःषु⟫ | ⟪चक्षुष्षु⟫:br⟪चक्षुःषु⟫ |
+| ⟪तृतीया⟫ | ⟪मनोभिस्⟫ | ⟪हविर्भिस्⟫ | ⟪चक्षुर्भिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪मनोभ्यस्⟫ | ⟪हविर्भ्यस्⟫ | ⟪चक्षुर्भ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪मनोभ्यस्⟫ | ⟪हविर्भ्यस्⟫ | ⟪चक्षुर्भ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪मनसाम्⟫ | ⟪हविषाम्⟫ | ⟪चक्षुषाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪मनस्सु⟫:br⟪मनःसु⟫ | ⟪हविष्षु⟫:br⟪हविःषु⟫ | ⟪चक्षुष्षु⟫:br⟪चक्षुःषु⟫ |
 :::
 #### Masculinos (⟪पुंस्⟫) y Femeninos (⟪स्त्री⟫)
 
 La mayoría de los casos son **⟪बहुव्रीहि⟫** con una raíz en -s (originalmente neutro) en el segundo miembro.
 
-:::grammar-box
-| | **⟪सुमनस्⟫ 3**:br"de buen pensamiento, benevolente" | **⟪दीर्घायुस्⟫ 3**:br"longevo" |
+::: grammar-box
+| | **⟪सुमनस्⟫ 3** :br"von gutem Denken, wohlwollend | **⟪दीर्घायुस्⟫ 3** :br"langlebig" |
 | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | | |
-| **⟪प्रथम⟫** | ⟪सुमनास्⟫ | ⟪दीर्घायुस्⟫ |
-| **⟪द्विटिया⟫** | ⟪सुमनसम्⟫ | ⟪दीर्घायुषम्⟫ |
-| **⟪आमन्त्रितम्⟫** | ⟪सुमनस्⟫ | ⟪दीर्घायुस्⟫ |
-::::::indent
+| ⟪एकवचनम्⟫ | | |
+| ⟪प्रथम⟫ | ⟪सुमनास्⟫ | ⟪दीर्घायुस्⟫ |
+| ⟪द्विटिया⟫ | ⟪सुमनसम्⟫ | ⟪दीर्घायुषम्⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪सुमनस्⟫ | ⟪दीर्घायुस्⟫ |
+:::
+::: indent
 El resto de los casos del singular como el neutro
-::::::grammar-box
+:::
+::: grammar-box
 | | **⟪सुमनस्⟫ 3** | **⟪दीर्घायुस्⟫ 3** |
 | :---: | :---: | :---: |
-| **⟪बहुवचनम्⟫** | | |
+| ⟪बहुवचनम्⟫ | | |
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसस्⟫ | ⟪दीर्घायुषस्⟫ |
-::::::indent
+:::
+::: indent
 El resto de los casos del plural como el neutro
 :::
 ## 49.3. Formación nominal: ⟪कृत्⟫-sufijo -as Neutro
@@ -151,7 +159,7 @@ La vocal breve de la raíz ante una consonante simple, así como la vocal final 
 
 Ejemplos:
 
-:::grammar-box
+::: grammar-box
 | Raíz | Sustantivo en -as |
 | --- | --- |
 | ⟪मन्⟫ 4Ā "pensar" | ⟪मनस्⟫ n. "Pensamiento, idea, órgano del pensamiento" |
@@ -160,7 +168,7 @@ Ejemplos:
 :::
 Los sustantivos en -is y -us son relativamente raros.
 
-:::media
+::: media
 ![](/images/lekt4907.webp)
 Fig.: ⟪नमस्ते⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4907))
@@ -173,19 +181,20 @@ Fig.: ⟪नमस्ते⟫
 
 ⟪आयुस्⟫ n.: tiempo de vida (el tiempo de vida completo que se puede vivir, si nada interviene) ;
 
-::::indent
+::: indent
 de ello:
 
 ⟪आयुर्वेद⟫ m.: el sistema médico tradicional de la India
 
 véase:
 
-:::indent
-**Carakasaṃhitā:** Textos seleccionados del Carakasaṃhitā / traducidos y comentados por Alois Payer &lt;1944 - &gt;. -- 0. Introducción. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
-:::::::
+:::
+::: indent
+**Carakasaṃhitā:** Textos seleccionados del Carakasaṃhitā / traducidos y comentados por Alois Payer \<1944 - \>. -- 0. Introducción. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+:::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : lanzar, arrojar
 
-:::indent
+::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
 Fut. ⟪क्षेप्स्यति⟫
 Pass. ⟪क्षिप्यते⟫
@@ -197,7 +206,7 @@ Gerundiv: ⟪क्षेप्य⟫
 :::
 ⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : apresurarse
 
-:::indent
+::: indent
 Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
@@ -207,7 +216,7 @@ Inf. ⟪त्वरितुम्⟫
 :::
 ⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : dañar
 
-:::indent
+::: indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
 Fut. ⟪द्रोहिष्यति⟫ ⟪।⟫ ⟪ध्रोक्ष्यति⟫
 Pass. ⟪द्रुह्यते⟫
@@ -217,7 +226,7 @@ Inf. ⟪द्रोग्धुम्⟫
 :::
 ⟪कुलूहल⟫ n.: curiosidad, interés
 
-:::media
+::: media
 ![](/images/lekt4901.webp)
 Fig.: ⟪कुलूहलम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4901))
@@ -228,7 +237,7 @@ Fig.: ⟪कुलूहलम्⟫
 
 ⟪कला⟫ f.: arte
 
-:::media
+::: media
 ![](/images/lekt4902.webp)
 Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, siglo XI.
@@ -240,14 +249,14 @@ Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 
 ⟪विहंग⟫ m.: ave ("en el sueño del aire ⟪स्⟫ - ⟪विह⟫ - yendo")
 
-:::media
+::: media
 ![](/images/lekt4903.jpg)
 Fig.: ⟪विहंगः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4903))
 :::
 ⟪वेष⟫ m.: vestido, apariencia, exterior
 
-:::media
+::: media
 ![](/images/lekt4904.webp)
 Fig.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
@@ -257,7 +266,7 @@ Fig.: ⟪वेषः⟫
 
 ⟪पञ्जर⟫ n.: jaula
 
-:::media
+::: media
 ![](/images/lekt4909.webp)
 Fig.: ⟪पञ्जरम्⟫
 Adivino con loro en jaula: el loro saca papeletas en las que se indica el destino. Mysore.
@@ -273,7 +282,7 @@ Adivino con loro en jaula: el loro saca papeletas en las que se indica el destin
 
 ⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : imaginarse, pensar
 
-:::indent
+::: indent
 Perf. IV ⟪दध्यौ⟫
 Fut. ⟪ध्यास्यति⟫
 Pass. ⟪ध्यायते⟫
@@ -284,7 +293,7 @@ Gerundiv ⟪ध्येय⟫
 :::
 ⟪आदर⟫ m.: consideración, atención, respeto
 
-:::media
+::: media
 ![](/images/lekt4905.webp)
 Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
@@ -296,7 +305,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 
 ⟪शिशु⟫ m.: niño, cría
 
-:::media
+::: media
 ![](/images/lekt4906.webp)
 Fig.: ⟪गजशिशुः⟫
 Sri Lanka
@@ -356,13 +365,14 @@ Preguntas del rey ⟪शूद्रक⟫ de ⟪विदिशा⟫ al loro �
 
 ⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/lekt4908.webp)
 Fig.: ⟪शुकः⟫
 Loro cabecigrís = Psittacula cyanocephala
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4908))
-::::::deleteme-box
+:::
 
+::: deleteme-box
 
 **lekt4907:** [Fuente de la imagen: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Acceso el 2009-01-10. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
 
@@ -383,3 +393,4 @@ Loro cabecigrís = Psittacula cyanocephala
 **lekt4908:** Loro cabecigrís _= Psittacula cyanocephala_[Fuente de la imagen: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Acceso el 2009-01-12. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribución, uso no comercial, compartir igual)]
 
 :::
+

@@ -18,7 +18,7 @@ export const it = {
       { text: 'Sommario', link: '/it/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Crediti', link: '/it/impressum' },
-      { text: '⚙️', link: '/it/settings', ariaLabel: 'Apri Impostazioni' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/it/settings', ariaLabel: 'Apri Impostazioni' }
     ],
     docFooter: {
       prev: 'Lezione precedente',

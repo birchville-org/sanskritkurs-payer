@@ -207,7 +207,7 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 
 ⟪दानेन⟫ ⟪श्रावकः⟫ ⟪स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung011.webp)
 Abb.: ⟪ग्रामः⟫
 (Bildquelle: [Details](/licenses#uebung011))
@@ -218,7 +218,7 @@ Abb.: ⟪ग्रामः⟫
 
 Lesen und übersetzen Sie und setzen Sie ins Passiv:
 
-**⟪क⟫**
+⟪क⟫
 
 ⟪१⟫.
 > ⟪मक्सिका⟫ ⟪व्रणमिच्छन्ति⟫
@@ -262,7 +262,7 @@ Sie erlangen den Himmel.
 
 ⟪८⟫. ⟪अत्रर्षिर्भानुं⟫ ⟪वन्दते⟫ |
 ⟪अत्रर्षिणा⟫ ⟪भानुर्वन्स्यते⟫ ⟪।⟫
-Dort begrüßt ein vedischer Weiser die Sonne.
+Dort begrüsst ein vedischer Weiser die Sonne.
 
 ⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
 ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
@@ -272,7 +272,7 @@ Sie gehen ins Dorf.
 ⟪दानानि⟫ ⟪वृष्यन्ते⟫ ⟪नृपैः⟫ ⟪॥⟫
 Könige lassen Geschenke regnen.
 
-**⟪ख⟫**
+⟪ख⟫
 
 ⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ |
 ⟪सदा⟫ ⟪देवाः⟫ ⟪स्मर्यन्ते।⟫
@@ -318,7 +318,7 @@ Hari geht nachhause.
 ⟪सारथिना⟫ ⟪रथो⟫ ⟪नीयते⟫ ⟪॥⟫
 Der Fuhrmann lenkt den Wagen.
 
-:::media
+::: media
 ![](/images/uebung012.webp)
 Abb.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
 (Bildquelle: [Details](/licenses#uebung012))

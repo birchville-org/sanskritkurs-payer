@@ -11,7 +11,7 @@ status: stable
 
 
 
-:::deleteme-box
+::: deleteme-box
 **Dalam pelajaran ini Anda akan belajar:**
 - nominatif tunggal kata benda perempuan
 - nominatif jamak kata benda laki-laki dan perempuan
@@ -28,7 +28,7 @@ Selanjutnya, stem nominal berikut yang berakhir dengan vokal membentuk Nominatif
 
 
 
-:::grammar-box
+::: grammar-box
 - **Feminina pada -i**: Contoh **śruti** f. "mendengar" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **Feminina pada -u**: Contoh **dhenu** f. "sapi perah" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 
@@ -39,14 +39,14 @@ Membentuk nominatif tunggal tanpa akhiran:
 
 
 
-:::grammar-box
+::: grammar-box
 - **Feminina pada -ā**: Contoh **devatā** f. "dewa" -- Nom. sg.: **devatā** = ⟪देवता⟫
 - **Feminina pada -ī**: Contoh **devī** f. "dewi" -- Nom. sg.: **devī** = ⟪देवी⟫
 
-::::::
-important
+:::: important
 **Perhatian!** Di samping itu, terdapat nomina akar feminin bersuku kata tunggal berakhiran -ī, yang Nominatif Singularnya berakhiran -s: misalnya dhī f. "pikiran" -- Nom. sg.: dhīs = ⟪धीस्⟫. Lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "perahu", dan tantrī (⟪तन्त्री⟫) f. "senar" juga membentuk Nominatif Singular secara tidak beraturan dengan akhiran -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 
+::::
 :::
 ---
 
@@ -54,7 +54,7 @@ important
 
 
 
-:::grammar-box
+::: grammar-box
 **Maskulinum berakhiran -a:**
 - **Femininum berakhiran -ā**: mis. **kṣatriya** m. » **kṣatriyā** f. "perempuan Kṣatriya" = ⟪क्षत्रिया⟫
 - **Femininum berakhiran -ī**: mis. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ⟪ब्राह्मणी⟫
@@ -70,7 +70,7 @@ important
 
 
 
-:::grammar-box
+::: grammar-box
 Akhiran Nominatif Jamak pada Maskulin dan Feminin adalah **-as**.
 - **Maskulin berakhiran -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
 - **Feminin berakhiran -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
@@ -87,8 +87,7 @@ Catatan: **e** adalah tingkat tinggi (**guṇa**) dari **i**, **o** adalah tingk
 
 ## 3.4. Sandhi Vokal
 
-:::
-info Etimologi dan Penjelasan
+::: info Etimologi dan Penjelasan
 **Sandhi** (Sanskerta: ⟪संधि⟫, *saṃdhi*) secara harfiah berarti "pertemuan", "sambungan", atau "aliansi". Dalam tata bahasa Sanskerta, istilah ini mengacu pada aturan fonologis yang mengatur bagaimana bunyi-bunyi pada batas kata berinteraksi dan menyatu ketika kata-kata tersebut diucapkan secara berurutan.
 
 **Vokalsandhi** adalah subset khusus dari sandhi yang melibatkan vokal. Aturan-aturan ini menentukan bagaimana dua vokal yang bersebelahan (satu dari akhir kata pertama dan satu dari awal kata kedua) berubah atau bergabung menjadi satu vokal baru, atau tetap terpisah tergantung pada konteks fonetiknya.
@@ -96,6 +95,7 @@ info Etimologi dan Penjelasan
 Tujuan dari sandhi adalah untuk memastikan kelancaran ucapan (*pratyāhāra*) dan menjaga ritme puisi serta mantra. Tanpa sandhi, ucapan Sanskerta akan terdengar patah-patah dan tidak alami.
 
 
+:::
 ### Prinsip Dasar Vokalsandhi
 
 Vokalsandhi terjadi ketika sebuah kata berakhir dengan vokal dan kata berikutnya dimulai dengan vokal. Aturan-aturan ini sangat sistematis dan dapat diprediksi.
@@ -149,7 +149,7 @@ Jika kata pertama berakhir dengan *i* atau *ī*, dan kata kedua dimulai dengan *
 
 
 
-:::grammar-box
+::: grammar-box
 **Vokal sederhana yang hanya berbeda dalam panjangnya, atau tidak berbeda sama sekali, "berfusi" menjadi vokal panjang yang sesuai:**
 - -a / -ā + a- / ā- » **-ā-**
 - -i / -ī + i- / ī- » **-ī-**
@@ -169,18 +169,19 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī adalah seorang dewi" = ⟪�
 
 
 
-:::media
+::: media
 ![](/images/lekt0301.webp)
 Gambar: Indra dan Indrāṇī di atas gajah Airavata, miniatur, Rājasthān, 1670/80
 (Sumber gambar: [Details](/id/licenses#lekt0301))
 
-::::::grammar-box
+:::
+::: grammar-box
 **Vokal sederhana (kecuali -a / -ā) diganti dengan semivokal yang sesuai sebelum vokal yang tidak serupa:**
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
 (!! Terdapat pengecualian untuk aturan ini, khususnya untuk bentuk dwitunggal !!)
-::::::
+:::
 misalnya
 
 devī + umā » devy umā "Umā adalah seorang / sang Dewi" = ⟪देव्युमा⟫
@@ -189,7 +190,7 @@ devī + umā » devy umā "Umā adalah seorang / sang Dewi" = ⟪देव्य
 
 
 
-:::grammar-box
+::: grammar-box
 **-a / -ā sebelum vokal yang tidak serupa:**
 - -a / -ā + i- / ī- » **-e-**
 - -a / -ā + ṛ- » **-ar-**
@@ -201,7 +202,7 @@ Untuk Sandhi ini, skema berikut berlaku:
 
 
 
-:::media
+::: media
 ![](/images/lekt0302.jpg)
 (Sumber gambar: [Rincian](/id/licenses#lekt0302))
 
@@ -218,7 +219,7 @@ misalnya
 
 
 
-:::grammar-box
+::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 
 :::
@@ -273,7 +274,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas adalah orang yang lahir du
 
 
 
-:::media
+::: media
 ![](/images/lekt0303.webp)
 Gambar: Durgā = ⟪दुर्गा⟫, Orissa
 (Sumber gambar: [Details](/images/lekt0303))

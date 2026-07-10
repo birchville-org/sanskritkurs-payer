@@ -64,7 +64,7 @@ B) Traduceți folosind compusele în sanscrită:
 4\. Chiar și femeile śūdra au ca dharma non-violența, adevărul, puritatea, lipsa de cârtire, lipsa de răutate și răbdarea.
 ⟪अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः⟫ ⟪शूद्रा⟫ ⟪अपि⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung031.webp)
 Fig.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung031))
@@ -237,7 +237,7 @@ Rezolvați următoarele compuse ca Bahuvrīhi și/sau Dvandva și/sau Tatpuruṣ
 
 ⟪८१⟫. **⟪सोढदुःखाः⟫** ⟪।⟫ ⟪सोढं⟫ ⟪दुःखं⟫ ⟪यैस्ते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung030.webp)
 Fig.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (Sursa imaginii: [Detalii](/licenses#uebung030))
@@ -253,7 +253,7 @@ Clarificarea minții se realizează prin cultivarea iubirii binevoitoare, compas
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
 Yoga acțiunii este ascetismul, studierea Vedei și slujirea atentă a DOMNULUI. Are ca scop dezvoltarea concentrării și atenuarea „suferințelor”.
 
-:::deleteme-box Explicație
+::: deleteme-box Explicație
 Cele cinci „suferințe” (⟪क्लेश⟫) sunt: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Sūtra de Yoga 2.3) — ignoranța, egoismul, lăcomia, ura și atașamentul față de corp.
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
@@ -291,7 +291,7 @@ Mijlocie și subțire, largă la șolduri, cu buze roșii, ochi negri, cu ombili
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫  
 Săracii, care nu doresc, au foarte mulți fii, bogații nu au niciun fiu. Ciudat este cursul creației.
 
-:::media
+::: media
 ![](/images/uebung032.webp)
 Ilustr.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Sursă imagine: [Detalii](/licenses#uebung032))

@@ -15,7 +15,7 @@ status: stable
 
 No fixed rules can be established for the distribution of PPPs on -ta- or -na-. However:
 
-:::grammar-box
+::: grammar-box
 
 Almost all roots ending in -d form the PPP on -na-. In this case, -d-n- is replaced by -n-n-, which otherwise does not occur in word sandhi, but is an imitation of sentence sandhi.
 
@@ -27,13 +27,14 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 ## 13.2. Further on the Use of the PPP
 
-::::grammar-box
+::: grammar-box
 
 1. The PPP of verbs meaning "to think," "to wish," "to know," "to know (be acquainted with)," "to revere," as well as certain other verbs marked in the Dhātupāṭha, the root list for Pāṇini, by ñi, does not only have past-tense meaning, but can also be used with present-tense meaning:
 
     e.g.
 
-    :::indent
+:::
+::: indent
     ⟪इष्ट⟫ "desired" (i.e., not only wished for in the past, but also in the present)
 
     ⟪त्वरित⟫ "hastening, hurried" (PPP to tvar 1 Ā "to hasten"; Dhātupāṭha: ñitvárā)
@@ -41,40 +42,43 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
     e.g.
 
-    :::indent
+:::
+::: indent
     ⟪इष्टं⟫ ⟪फलम्⟫ "the desired fruit (e.g., of actions)"
     :::If ⟪अपि⟫ follows the PPP in this case, ⟪अपि⟫ has the meaning "although":
 
     e.g.
 
-    :::indent
+:::
+::: indent
     ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Although he desires the fruit, he does not obtain it."
     :::3. The neuter singular of the PPP of any verb can also be used as a verbal abstract:
 
     e.g.
 
-    :::indent
+:::
+::: indent
     ⟪गत⟫ n.: "the going, the gait"
 
     ⟪नृत्त⟫ n.: "the dancing, the dance"
-    :::::::---
-
+:::
 ## 13.3. Attributive Determinations of Nouns (Word Order)
 
-::::grammar-box
+::: grammar-box
 
 Attributes (modifiers) appear in prose in the normal word order before the word they modify. Adjectival attributes agree with the noun in number, case, and gender:
 
 Example:
 
-:::indent
+:::
+::: indent
 ⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "A holy person sees the desired fruit (of their deeds)."
-:::::::
+:::
 ---
 
 ## 13.4. Formation of Adjectives in -mant and -vant (taddhita)
 
-::::grammar-box
+::: grammar-box
 
 Possessive adjectives are formed from nouns using the taddhita suffixes -mant or -vant. Their meaning is: "possessing that which is denoted by the underlying noun."
 
@@ -82,18 +86,19 @@ Possessive adjectives are formed from nouns using the taddhita suffixes -mant or
 
 Examples:
 
-:::indent
+:::
+::: indent
 ⟪पशुमन्त्⟫ "possessing cattle"
 
 ⟪गुणवन्त्⟫ "possessing good qualities / virtue"
-:::::::
+:::
 ---
 
 ## 13.5. Stem Inflection of Nouns
 
 Stems ending in -mant or -vant belong to the nominal stems with stem gradation.
 
-:::grammar-box
+::: grammar-box
 In nominal stems with stem gradation, one distinguishes between strong and weak cases (cases). In the strong cases, the stem-forming suffix — in the case of root nouns, the root-like component — has the strong grade or lengthened grade, in the weak cases the weak grade.
 :::
 **Strong cases are:**
@@ -105,7 +110,7 @@ In nominal stems with stem gradation, one distinguishes between strong and weak 
 
 **All other cases are weak.**
 
-:::grammar-box
+::: grammar-box
 As the first member of a compound, a noun with stem gradation stands in the weak stem (in the case of three-stemmed nouns, in the so-called middle stem).
 :::
 ---
@@ -114,7 +119,7 @@ As the first member of a compound, a noun with stem gradation stands in the weak
 
 To understand the individual forms of the declension of nouns ending in -mant and -vant, the following laws of word sandhi are necessary:
 
-::::grammar-box
+::: grammar-box
 
 1. Number of final consonants of a word: If a word ends in two or more consonants, only the first consonant is retained, the others are dropped. The combination -r- + consonant is permitted.
 
@@ -122,7 +127,8 @@ To understand the individual forms of the declension of nouns ending in -mant an
 
     Examples:
 
-    :::indent
+:::
+::: indent
     -t + bh- » -d-bh- ⟪द्भ्⟫
 
     -k + bh- » -g-bh- ⟪ग्भ्⟫
@@ -130,11 +136,10 @@ To understand the individual forms of the declension of nouns ending in -mant an
     -c + bh- » -g-bh- ⟪ग्भ्⟫
 
     -c + dh- » -g-dh- ⟪ग्ध्⟫
-    :::::::---
-
+:::
 ## 13.7. Case endings of consonant stems
 
-:::grammar-box
+::: grammar-box
 
 For consonant-ending stems:
 * the ending of the accusative (dvitīyā) plural masculine and feminine is -as.
@@ -146,7 +151,7 @@ For consonant-ending stems:
 
 ## 13.8. Declension of stems in -mant and -vant
 
-:::grammar-box
+::: grammar-box
 
 * strong stem: Noun + -mant- / -vant-
 * weak stem: Noun + -mat- / -vat- (from: *-mnt- / *-vnt-)
@@ -187,9 +192,9 @@ Learn the following words:
 >
 > In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
 >
-> [Source: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Source: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
-:::media
+::: media
 ![](/images/lekt1301.webp)
 Fig.: ⟪महिषासुरः⟫
 (Image source: [Details](/en/licenses#lekt1301))
@@ -201,14 +206,14 @@ Fig.: ⟪महिषासुरः⟫
 - **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : to go
 - **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : to protect, to guard
 
-:::indent
+::: indent
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : to drink (traditionally counted among the 1st class)
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : to hate, to be hostile to
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : to eat, to consume
 - **anna** n. ⟪अन्न⟫ : food (from PPP: *ad-na: that which is eaten)
 
-:::media
+::: media
 ![](/images/lekt1304.webp)
 Fig.: ⟪अन्नम्⟫
 (Image source: [Details](/en/licenses#lekt1304))
@@ -217,18 +222,19 @@ Word formation:
 
 pad 4 Ā:
 
-:::indent
+::: indent
 **pada** n. ⟪पद⟫ : step, location, place
 
 **pāda** m. ⟪पाद⟫ : foot, a quarter, verse line
-::::::media
+:::: media
 ![](/images/lekt1303.webp)
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Image source: [Details](/en/licenses#lekt1303))
+::::
 :::
 dviṣ 2 U:
 
-:::indent
+::: indent
 **dveṣa** ⟪द्वेष⟫ : hatred
 :::
 ---
@@ -241,7 +247,7 @@ A) Translate and convert into active present tense sentences:
 ⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
 ⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1305.webp)
 Fig.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
 (Image source: [Details](/en/licenses#lekt1305))
@@ -299,7 +305,7 @@ B) Convert the sentences from Exercise A) into the passive voice.
 
 C) Form a PPP construction for the sentences from Exercise A).
 
-:::media
+::: media
 ![](/images/lekt1302.webp)
 Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
 (Image source: [Details](/en/licenses#lekt1302))
@@ -359,3 +365,7 @@ E) Translate into Sanskrit:
 9. Buddha has awakened to the truth = Buddha has recognized the truth.
 10. The Vedic sages have heard the Śruti.
 11. The sacrificial priests have pressed the Soma.
+
+
+
+

@@ -1,26 +1,27 @@
 ---
-title: Lección 1
-subtitle: "Los sonidos del sánscrito"
+title: Lektion 1
+subtitle: "Die Laute des Sanskrit"
 lesson_id: 1
-category: "Gramática"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
 # Lección 1
 
-
-:::
-center
+::: center
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Veneración de Gaṇeśa
-::::::media
+:::
+
+::: media
 ![](/images/lekt0102.webp)
 Fig.: Gaṇeśa, Adamspeak, Sri Lanka
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0102))
-::::::
-center
+:::
+
+::: center
 ⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫
 ⟪सततं⟫ ⟪मोदकप्रिय⟫ |
 ⟪निर्विघ्नं⟫ ⟪कुरु⟫ ⟪मे⟫ ⟪देव⟫
@@ -36,19 +37,20 @@ siempre sea para ti veneración.
 ¡Oh dios, haz mis empresas
 siempre libres de obstáculos!
 :::
----
 
-:::
-center
+::: center
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Comienzo auspicioso"
-::::::media
+:::
+
+::: media
 ![](/images/lekt0101.webp)
 Fig.: Ardhanarīśvara
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0101))
-::::::
-center
+:::
+
+::: center
 ⟪वागर्थाविव⟫ ⟪संपृक्तौ⟫
 ⟪वागर्थप्रतिपत्तये⟫ |
 ⟪जगतः⟫ ⟪पितरौ⟫ ⟪वन्दे⟫
@@ -67,76 +69,75 @@ Que están tan firmemente unidos
 Como el significado y el sentido para la comprensión
 Del significado de la palabra.
 :::
----
 
 Al principio, una curiosidad:
 
-:::
-note-box
-"Cuando William Jones [1746–1794] y Henry Thomas Colebrooke (1765—1857) estudiaron por primera vez el sánscrito en profundidad, lo tradujeron en parte y descubrieron que poseía una rica literatura y una notable parentesco con las lenguas clásicas, se toparon con una considerable resistencia. Dado que esta íntima relación del sánscrito con las lenguas europeas geográficamente tan distantes no podía conciliarse con las antiguas concepciones, que o bien derivaban todas las lenguas del hebreo o las mantenían en gran medida aisladas entre sí, el famoso filólogo Dugald Steward (1753—1828) tomó la salida más sencilla, declarando toda la historia con la lengua sánscrita como una mentira. Escribió un ensayo en el que intentó demostrar que había sido forjada por los bribones brahmanes a imitación del griego y el latín, y que tanto la lengua como la literatura eran una falsificación. Esta opinión fue desarrollada aún más ampliamente en 1840 por el profesor de Dublín, Charles William Wall (Anuncios eruditos de Gotinga 1842 p. 1888)."
-:::
-> [Fuente: **Kemmerich**, Max &lt;1876-1932&gt;: Kultur-Kuriosa. -- Múnich : Langen. -- Vol. 2. -- 1923. -- p. 74. -- En línea: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Acceso el 2010-01-10]
+>"Cuando William Jones [1746–1794] y Henry Thomas Colebrooke (1765—1857) estudiaron por primera vez el sánscrito de manera exhaustiva, lo tradujeron en parte y descubrieron que poseía una rica literatura y una notable parentesco con las lenguas clásicas, se toparon con una considerable resistencia. Dado que esta íntima relación del sánscrito con las lenguas europeas geográficamente tan distantes no podía conciliarse con las concepciones antiguas, las cuales o bien derivaban todas las lenguas del hebreo o las aislaban en gran medida, el famoso filólogo Dugald Stewart (1753—1828) tomó la salida más sencilla, declarando toda la historia con la lengua sánscrita como una mentira. Escribió un ensayo en el que intentó demostrar que había sido forjada por los astutos brahmanes siguiendo el modelo del griego y el latín, y que tanto la lengua como la literatura eran una falsificación. Esta opinión la desarrolló aún más en 1840 el profesor de Dublín, Charles William Wall, extensamente (Anuncios eruditos de Gotinga 1842 p. 1888)."
+>
+>[Fuente: **Kemmerich**, Max \<1876-1932\>: Kultur-Kuriosa. -- Múnich : Langen. -- Vol. 2. -- 1923. -- p. 74. -- En línea: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Acceso el 2010-01-10]
 
 ## 1.1. Literatura para principiantes en Estudios de la India
 
-:::media
+::: media
 ![](/images/lekt0103.webp)
 Fig.: Portada de una edición de bolsillo
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0103))
 :::
-> **Basham**, A. L. (Arthur Llewellyn) &lt;1914-1986&gt; _The wonder that was India_ Parte: Un estudio de la cultura del subcontinente indio antes de la llegada de los musulmanes. -- Londres : Sidgwick & Jackson, 1954. -- Desde entonces, muchas ediciones, también ediciones de bolsillo. -- **Lectura obligatoria.** Una buena visión general de la vida, la historia y la cultura en la India preislámica. Visión general de las diversas áreas de los estudios clásicos de la India.
 
-:::media
+>**Basham**, A. L. (Arthur Llewellyn) \<1914-1986\> _The wonder that was India_ Parte: Un estudio de la cultura del subcontinente indio antes de la llegada de los musulmanes. -- Londres : Sidgwick & Jackson, 1954. -- Desde entonces, muchas ediciones, también ediciones de bolsillo. -- **Lectura obligatoria.** Una buena visión general de la vida, la historia y la cultura en la India preislámica. Visión general de las diversas áreas de los estudios clásicos de la India.
+
+::: media
 ![](/images/lekt0104.webp)
 Fig.: Página de título
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0104))
 :::
+
 **La mejor gramática sistemática**
 
-> **Kielhorn**, Franz &lt;1840-1908&gt;: Grammatik der Sanskrit-Sprache / Traducido del inglés por W. Solf [1862 - 1936]. -- Berlín : Dümmler, 1888. -- XIII, 238 p. -- Título original: A grammar of the Sanscrit language
+> **Kielhorn**, Franz \<1840-1908\>: Grammatik der Sanskrit-Sprache / Traducido del inglés por W. Solf [1862 - 1936]. -- Berlín : Dümmler, 1888. -- XIII, 238 p. -- Título original: A grammar of the Sanscrit language
 
-:::media
+::: media
 ![](/images/lekt0105.webp)
 Fig.: Portada
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0105))
 :::
+
 **Buena gramática sistemática basada en los gramáticos nativos y, al mismo tiempo, una introducción a Pāṇini:**
 
 > **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originalmente escrito en malayalam. Traducido al inglés por K.V.R. Pai. -- Parathode : Autoedición, 1983. -- 818 p. ; 23 cm.
 
-:::media
+::: media
 ![](/images/lekt0107.jpg)
 Fig.: Portada
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0107))
 :::
+
 Una buena y concisa exposición de la terminología lingüística europea se encuentra en:
 
-> **Diccionario Etimológico de la Lengua Alemana** / [Friedrich] Kluge &lt;1856 - 1926&gt;. Editado por Elmar Seebold. -- 24.ª ed. revisada y ampliada. -- Berlín [y otros] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Tapa blanda. -- Págs. XIII - XLVII.
+> **Diccionario Etimológico de la Lengua Alemana** / [Friedrich] Kluge \<1856 - 1926\>. Editado por Elmar Seebold. -- 24.ª ed. revisada y ampliada. -- Berlín [y otros] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Tapa blanda. -- Págs. XIII - XLVII.
 
-:::media
+::: media
 ![](/images/lekt0108.jpg)
 Fig.: Portada
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0108))
 :::
+
 Para los curiosos que desean consultar:
 
 > **Diccionario de Lingüística** / Editado por Hadumod Bußmann. -- 4.ª ed. revisada y completada bibliográficamente / con la colaboración de Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
-
----
 
 ## 1.2. Los fonemas del sánscrito
 
 Los fonemas del sánscrito según la clasificación india tradicional y su transcripción científica.
 
-:::media
+::: media
 ![](/images/lekt0106.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0106))
 :::
 Los diccionarios modernos de sánscrito están ordenados según esta clasificación. Esta clasificación y el orden de los fonemas son esenciales para comprender la gramática del sánscrito y, por lo tanto, deben memorizarse:
 
-:::
-tip Clasificación
-
+::: note-box
+Clasificación
 - **vocales simples** (samānākṣara -- ⟪समानाक्षर⟫):
   ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
 - **diptongos** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
@@ -153,8 +154,7 @@ tip Clasificación
 :::
 ### 1.2.1. Sobre la pronunciación de sonidos individuales
 
-:::
-laut-table
+::: laut-table
 | Sonido | Descripción |
 | :--- | :--- |
 | **a - ⟪अ⟫** | La "a breve" es pronunciada por los indios, ya desde tiempos antiguos, a menudo como ə. En Europa se pronuncia como una a breve, en Bengala como una o breve oscura. |
@@ -168,8 +168,6 @@ laut-table
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Antes de sonidos sibilantes, h, l: nasalización de la vocal. Al final de palabra = m. En medio de palabra antes de consonantes: la nasal correspondiente a la consonante siguiente: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::
 La mejor pronunciación se logra cuando se leen las frases, versos o palabras bastante lentamente y de manera monótona, considerando con precisión la longitud de las vocales.
-
----
 
 ## 1.3. Ejercicio
 

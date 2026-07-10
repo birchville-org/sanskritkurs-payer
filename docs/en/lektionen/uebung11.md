@@ -14,31 +14,31 @@ A) Translate the following sentences
 The Vedic sage speaks the truth.
 
 ⟪२⟫. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ ⟪।⟫
-A Brahmin desires a son.
+A Brāhmaṇa desires a son.
 
 ⟪३⟫. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ ⟪।⟫
 A holy person comes to heaven.
 
 ⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-The Smṛti says that a Brahmin does not speak untruth.
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
 
 ⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-A Kṣatriya asks the Brahmin about dharma.
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
-Thus the Brahmin offers a sacrifice to the god.
+Thus the Brāhmaṇa offers a sacrifice to the god.
 
 ⟪७⟫. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ ⟪।⟫
 The Vaiśyā woman thinks that her son does evil.
 
 ⟪८⟫. ⟪क्षत्रियः⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫ ⟪।⟫
-Kṣatriya fights with Kṣatriya.
+A Kṣatriya fights with a Kṣatriya.
 
 ⟪९⟫. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫
 Since untruth is wrong, the son commits no misdeed.
 
 ⟪१०⟫. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
-This Kṣatriya protects dharma.
+This Kṣatriya protects the Dharma.
 
 ⟪११⟫. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ ⟪।⟫
 Who venerates the fire (god Agni) with a sacrifice?
@@ -72,7 +72,7 @@ B) Put the sentences from A) into passive construction
 
 ⟪१२⟫. ⟪तेन⟫ ⟪श्रावकेण⟫ ⟪बुद्धो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪॥⟫
 
-C) In the sentences from A), where it makes sense, put subject, object, and predicate into the plural
+C) In the sentences from A), where it makes sense, put the subject, object, and predicate into the plural
 
 ⟪१⟫. ⟪ऋषयः⟫ ⟪सत्यं⟫ ⟪वदन्ति⟫ ⟪।⟫
 
@@ -124,10 +124,10 @@ D) Form the passive construction for the sentences formed in C)
 
 ⟪१२⟫. ⟪तैः⟫ ⟪श्रावकैर्बुद्धो⟫ ⟪धर्मं⟫ ⟪प्र्च्छ्यते⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung022.webp)
 Fig.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
-(Image source: [Details](/en/licenses#uebung022))
+(Image source: [Details](/licenses#uebung022))
 :::
 ---
 
@@ -135,41 +135,41 @@ Fig.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 
 A) Translate into Sanskrit using passive constructions:
 
-1. Vaiśya women ask Brahmins about the Dharma.
+1\. Vaiśya women ask Brahmins about the Dharma.
 
 ⟪वैश्याभिर्ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪।⟫
 
-2. The teacher recites a mantra.
+2\. The teacher utters a mantra.
 
 ⟪गुरुणा⟫ ⟪मन्त्र⟫ ⟪उद्यते⟫ ⟪।⟫
 
-3. Holy women attain a heaven.
+3\. Holy women attain to a heaven.
 
 ⟪साध्वीभिः⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪ऽश्यते⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫
 
-4. A Vedic sage does no evil.
+4\. A Vedic sage does no evil.
 
 ⟪ऋषिणा⟫ ⟪पापं⟫ ⟪न⟫ ⟪क्रियते⟫ ⟪।⟫
 
-5. Brahmins, as sacrificial priests, worship the goddess with sacrifices.
+5\. Brahmins, as sacrificial priests, worship the goddess with offerings.
 
 ⟪ब्राह्मनैर्देवीज्यते⟫ ⟪।⟫
 
-6. The Śūdra woman goes to the village.
+6\. The Śūdra woman goes to the village.
 
 ⟪शूद्रया⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
 
-7. Who sees the truth?
+7\. Who sees the truth?
 
 ⟪केन⟫ ⟪सत्यं⟫ ⟪दृश्यते⟫ ⟪॥⟫
 
 B)
 
-1. State the duties of all twice-born using a Dvandva. Resolve the compound in Sanskrit.
+1\. State the duties of all twice-born men using a Dvandva compound. Resolve the compound in Sanskrit.
 
 ⟪इज्याध्ययनदानानि⟫ = ⟪इज्याध्ययनं⟫ ⟪दानं⟫ ⟪च⟫
 
-2. State the duties of the Vaiśyas using a Dvandva. Resolve the compound in Sanskrit.
+2\. State the duties of the Vaiśyas using a Dvandva compound. Resolve the compound in Sanskrit.
 
 ⟪कृषिवाणिज्यपाशुपाल्यकुसीदानि⟫ = ⟪कृषीर्वाणिज्यं⟫ (⟪वाणिज्या⟫, ⟪वणिज्या⟫) ⟪कुसीदं⟫ ⟪च⟫ ⟪।⟫
 
@@ -188,18 +188,18 @@ A Buddha follower sacrifices to no LORD.
 The amulet protects the master.
 
 ⟪५⟫. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यते⟫ ⟪।⟫
-A Brahmin speaks no untruth.
+A Brahman speaks no untruth.
 
 ⟪६⟫. ⟪शूद्रेतरा⟫ ⟪।⟫
-Itarā is a Śūdra woman.
+Itarā ist eine Śūdrafrau.
 
 ⟪७⟫. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ ⟪।⟫
-Auxiliary sciences of the Veda are: phonetics, ritualistics, grammar, etymology, metrics, and calendrical science.
+Auxiliary sciences of the Veda are: Phonetics, Ritualistics, Grammar, Etymology, Metrics, and Calendrical science.
 
 ⟪८⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪॥⟫
-Sciences are: philosophy, Vedic studies, economics, and political science.
+Sciences are: Philosophy, Vedic studies, Economics, and Political science.
 
-D) Translate and put the agent, object, and verb into the plural in Sanskrit:
+D) Translate and put the agent, object, and verb in Sanskrit into the plural:
 
 ⟪१⟫. ⟪फलमश्नुते⟫ ⟪।⟫
 He receives a fruit.
@@ -229,8 +229,9 @@ E) Transform sentences C)1-5 into active constructions.
 
 ⟪५⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदति⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung021.webp)
 Fig.: ⟪फलान्यश्नुते⟫
-(Image source: [Details](/en/licenses#uebung021))
+(Image source: [Details](/licenses#uebung021))
+
 :::

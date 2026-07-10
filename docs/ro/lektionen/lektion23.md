@@ -11,7 +11,7 @@ status: stable
 
 ## 23.1. Infinitivul (⟪तुमुन्⟫)
 
-:::grammar-box
+::: grammar-box
 **Dacă se dorește exprimarea în sanscrită că o acțiune se întreprinde în scopul altei acțiuni („pentru a”), se poate folosi infinitivul (⟪तुमुन्⟫) pentru acțiunea în scopul căreia se întreprinde acțiunea principală. Infinitivul indică, în primul rând, scopul sau intenția:**
 
 > ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = „Rāma a plecat pentru a asculta discursul maestrului.”
@@ -53,7 +53,7 @@ de exemplu,
 :::
 ## 23.2. Formarea infinitivului (⟪तुमुन्⟫)
 
-:::grammar-box
+::: grammar-box
 **radacina la gradul maxim + -tum**
 
 **sau**
@@ -66,7 +66,7 @@ de exemplu,
 :::
 Exemple:
 
-:::indent
+::: indent
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
 :::
@@ -74,14 +74,14 @@ Nu se pot stabili reguli fixe privind utilizarea vocalei de legătură -i-. În 
 
 Între radacinile învățate până acum, următorii infinitivi merită o atenție deosebită:
 
-:::indent
+::: indent
 ⟪गम्⟫ : ⟪गन्तुम्⟫
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
 -ra- als Hochstufe zu -ṛ- haben im Infinitiv:
 
-:::indent
+::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
@@ -229,7 +229,7 @@ D) Traduceți și descompuneți compusele:
 
 ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt2303.webp)
 Fig.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 ทำบุญ = ⟪पुण्यकरणम्⟫, Thailanda = ประเทศไทย
@@ -237,7 +237,7 @@ Fig.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 :::
 ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
-:::media
+::: media
 ![](/images/lekt2301.webp)
 Fig.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thailanda = เชียงใหม่, ประเทศไทย
@@ -260,7 +260,7 @@ C) Traduceți următorul ⟪सुभाषितम्⟫
 
 Explicație: ⟪हीन⟫ ⟪३⟫: PPP la ⟪हा⟫ 3: a părăsi ; ⟪धर्मे⟫ = Locativ sg. "în ..."
 
-:::media
+::: media
 ![](/images/lekt2302.webp)
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
@@ -286,7 +286,7 @@ A) Traduceți în sanscrită:
 
 7\. "Bastonul" provoacă dobândirea și posesia sigură a filosofiei, Vedei și economiei. Conducerea acestui baston este politica.
 
-:::media
+::: media
 ![](/images/lekt2304.jpg)
 Fig.: ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prim-ministru al Indiei = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, din 2004
@@ -316,7 +316,7 @@ C) Dați formele de bază (semnificație, clasa de prezent, modul, 3. sg. Prezen
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt2301:** Chiang Mai, Thailanda = เชียงใหม่, ประเทศไทย [Sursa imaginii: Wikipedia. Licență GNU FD]
 

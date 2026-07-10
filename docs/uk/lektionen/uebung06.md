@@ -140,7 +140,7 @@ sā brāhmaṇī nṛtyati.
 
 ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪नृत्यति⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung004.jpg)
 Мал.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (Джерело зображення: [Деталі](/uk/licenses#uebung004))
@@ -597,7 +597,7 @@ sarvathā kuśalam.
 
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung005.webp)
 Мал.: ⟪देवतान्नपूर्णा⟫
 (Джерело зображення: [Деталі](/uk/licenses#uebung005))

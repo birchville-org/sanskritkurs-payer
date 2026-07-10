@@ -4,774 +4,792 @@ subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 61
 
 ## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
 
-### 61.1.1. Wurzelnomina auf -ā am Ende von ⟪तत्पुरुष⟫
+### 61.1.1. 词干名词以 -ā 结尾于 ⟪तत्पुरुष⟫ 处
 
-:::grammar-box
-**Vor vokalischen Endungen hat der Stammvokal in den schwachen Kasus die Schwundstufe Ø.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**在元音词尾前，弱格中的词干元音为脱落阶段 Ø。**
 
-**Die Deklination im Maskulinum und Femininum ist identisch.** <!-- TODO: Fallback translation -->
+**阳性与阴性变位完全相同。**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+变格表：
 
-⟪विश्वपा⟫ m.f. "das All beschützend" <!-- TODO: Fallback translation -->
+⟪विश्वपा⟫ m.f. “守护一切”
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪विश्वपास्⟫ | ⟪विश्वपौ⟫ | ⟪विश्वपास्⟫ | <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪विश्वपाम्⟫ | ^^ | ⟪विश्वपस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | ⟪विश्वपा⟫ | ⟪विश्वपाभ्याम्⟫ | ⟪विश्वपाभस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | ⟪विश्वपे⟫ | ^^ | ⟪विश्वपाभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | ⟪विश्वपस्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪विश्वपास्⟫ | ⟪विश्वपौ⟫ | ⟪विश्वपास्⟫ |
+| **⟪द्वितीया⟫** | ⟪विश्वपाम्⟫ | ^^ | ⟪विश्वपस्⟫ |
+| **⟪तृतीया⟫** | ⟪विश्वपा⟫ | ⟪विश्वपाभ्याम्⟫ | ⟪विश्वपाभस्⟫ |
+| **⟪चतुर्थी⟫** | ⟪विश्वपे⟫ | ^^ | ⟪विश्वपाभ्यस्⟫ |
+| **⟪पञ्चमी⟫** | ⟪विश्वपस्⟫ | ^^ | ^^ |
+| **⟪षष्ठी⟫** | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
+| **⟪सप्तमी⟫** | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
 ### 61.1.2. Feminine Wurzelnomina auf -ī
 
-:::grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
-**Neben den Bildungen mit den regulären Kasusendungen kommen im Dat.Ab.Gen.Lok.sg. und Gen.pl. auch Bildungen nach dem Muster mehrsilbiger Feminina auf -ī (⟪देवी⟫) vor.** <!-- TODO: Fallback translation -->
+**除了带有常规格词尾的构形外，在与格/夺格/属格/位格的单数以及属格的复数中，也存在按照多音节阴性名词以 -ī 结尾的模式构成的形式（⟪देवी⟫）。**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+变格表：
 
-⟪धी⟫ f. "Gedanke" <!-- TODO: Fallback translation -->
+⟪धी⟫ f. “思想”
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪धीस्⟫ | ⟪धियौ⟫ | ⟪धियस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪धियम्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | ⟪धिया⟫ | ⟪धीभ्याम्⟫ | ⟪धीभिस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | ⟪धिये⟫ / ⟪धियै⟫ | ^^ | ⟪धीभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | ⟪धियस्⟫ / ⟪धिया्स्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪धीस्⟫ | ⟪धियौ⟫ | ⟪धियस्⟫ |
+| **⟪द्वितीया⟫** | ⟪धियम्⟫ | ^^ | ^^ |
+| **⟪तृतीया⟫** | ⟪धिया⟫ | ⟪धीभ्याम्⟫ | ⟪धीभिस्⟫ |
+| **⟪चतुर्थी⟫** | ⟪धिये⟫ / ⟪धियै⟫ | ^^ | ⟪धीभ्यस्⟫ |
+| **⟪पञ्चमी⟫** | ⟪धियस्⟫ / ⟪धिया्स्⟫ | ^^ | ^^ |
+| **⟪षष्ठी⟫** | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ |
+| **⟪सप्तमी⟫** | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ |
 
-Unregelmäßig: ⟪स्त्री⟫ f. "Frau" <!-- TODO: Fallback translation -->
+不规则：⟪स्त्री⟫ f. “妻子”
 
-:::grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫** | ⟪स्त्री⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪स्त्रियम्⟫ / ⟪स्त्रीम्⟫ | ^^ | ⟪स्त्रियस्⟫ / ⟪स्त्रीस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | ⟪स्त्रिया⟫ | ⟪स्त्रीभ्याम्⟫ | ⟪स्त्रीभिस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | ⟪स्त्रियै⟫ | ^^ | ⟪स्त्रीभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | ⟪स्त्रियास्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | ^^ | ⟪स्त्रियोस्⟫ | ⟪स्त्रीणाम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | ⟪स्त्रियाम्⟫ | ^^ | ⟪स्त्रीषु⟫ | <!-- TODO: Fallback translation -->
-| **⟪आमन्त्रितम्⟫** | ⟪स्त्रि⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ | <!-- TODO: Fallback translation -->
-::::::media
+::: grammar-box
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟫** | ⟪स्त्री⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ |
+| **⟪द्वितीया⟫** | ⟪स्त्रियम्⟫ / ⟪स्त्रीम्⟫ | ^^ | ⟪स्त्रियस्⟫ / ⟪स्त्रीस्⟫ |
+| **⟪तृतीया⟫** | ⟪स्त्रिया⟫ | ⟪स्त्रीभ्याम्⟫ | ⟪स्त्रीभिस्⟫ |
+| **⟪चतुर्थी⟫** | ⟪स्त्रियै⟫ | ^^ | ⟪स्त्रीभ्यस्⟫ |
+| **⟪पञ्चमी⟫** | ⟪स्त्रियास्⟫ | ^^ | ^^ |
+| **⟪षष्ठी⟫** | ^^ | ⟪स्त्रियोस्⟫ | ⟪स्त्रीणाम्⟫ |
+| **⟪सप्तमी⟫** | ⟪स्त्रियाम्⟫ | ^^ | ⟪स्त्रीषु⟫ |
+| **⟪आमन्त्रितम्⟫** | ⟪स्त्रि⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ |
+:::: media
 ![](/images/lekt6102.webp)
-Abb.: ⟪स्त्रियः⟫
-(Bildquelle: [Details](/licenses#lekt6102)) <!-- TODO: Fallback translation -->
+图：⟪स्त्रियः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt6102)）
+::::
 :::
-### 61.1.3. Wurzelnomina auf -ī am Ende von ⟪तत्पुरुष⟫
+### 61.1.3. 以 -ī 结尾的根名词在 ⟪तत्पुरुष⟫ 末尾
 
-:::grammar-box
-**Vor vokalischen Endungen wird -ī durch -y ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ī vor vokalischer Endung durch -iy ersetzt.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**在元音词尾前，如果 -ī 前面只有一个属于词的辅音，则 -ī 被替换为 -y。如果前面有多个属于词的辅音，则在元音词尾前的 -ī 被替换为 -iy。**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.** <!-- TODO: Fallback translation -->
+**阳性与阴性变格相同。**
 
-**Unregelmäßigkeit: Komposita auf -⟪नी⟫ "führend" haben im Lok.sg die Endung -ām (wie ⟪देवी⟫):**
-z.B. ⟪ग्रामणी⟫ "eine Schar/ein Dorf führend": Lok.sg.m.f. ⟪ग्रामण्याम्⟫ <!-- TODO: Fallback translation -->
+**不规则：以-⟪नी⟩“引领”结尾的复合词，其单数位格带有后缀-ām（如⟪देवी⟩）：**
+例如，⟪ग्रामणी⟩“引领一群/一个村庄”：单数位格，阳性/阴性⟪ग्रामण्याम्⟩
 :::
-Paradigmen: <!-- TODO: Fallback translation -->
+变格表：
 
-⟪शुद्धधी⟫ m., f. "Reines denkend" <!-- TODO: Fallback translation -->
+⟪शुद्धधी⟩，阳性/阴性，“思维纯净”
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪शुद्धधीस्⟫ | ⟪शुद्धध्यौ⟫ | ⟪शुद्धध्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪शुद्धध्यम्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | ⟪शुद्धध्या⟫ | ⟪शुद्धधीभ्याम्⟫ | ⟪शुद्धधीभिस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | ⟪शुद्धध्ये⟫ | ^^ | ⟪शुद्धधीभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | ⟪शुद्धध्यस्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟩ | ⟪द्विवचनम्⟩ | ⟪बहुवचनम्⟩ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟩ /:br⟪आमन्त्रितम्⟩** | ⟪शुद्धधीस्⟩ | ⟪शुद्धध्यौ⟩ | ⟪शुद्धध्यस्⟩ |
+| **⟪द्वितीया⟩** | ⟪शुद्धध्यम्⟩ | ^^ | ^^ |
+| **⟪तृतीया⟩** | ⟪शुद्धध्या⟩ | ⟪शुद्धधीभ्याम्⟩ | ⟪शुद्धधीभिस्⟩ |
+| **⟪चतुर्थी⟩** | ⟪शुद्धध्ये⟩ | ^^ | ⟪शुद्धधीभ्यस्⟩ |
+| **⟪पञ्चमी⟩** | ⟪शुद्धध्यस्⟩ | ^^ | ^^ |
+| **⟪षष्ठी⟩** | ^^ | ⟪शुद्धध्योस्⟩ | ⟪शुद्धध्याम्⟩ |
+| **⟪सप्तमी⟩** | ⟪शुद्धध्यि⟩ | ^^ | ⟪शुद्धधीषु⟩ |
 
-⟪यवक्री⟫ m., f. "Gerste kaufend" <!-- TODO: Fallback translation -->
+⟪यवक्री⟩，阳性/阴性，“购买大麦”
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪यवक्रीस्⟫ | ⟪यवक्रियौ⟫ | ⟪यवक्रियस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪यवक्रियम्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | ⟪यवक्रिया⟫ | ⟪यवक्रीभ्याम्⟫ | ⟪यवक्रीभिस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | ⟪यवक्रिये⟫ | ^^ | ⟪यवक्रीभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | ⟪यवक्रियस्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪यवक्रीस्⟫ | ⟪यवक्रियौ⟫ | ⟪यवक्रियस्⟫ |
+| **⟪द्वितीया⟫** | ⟪यवक्रियम्⟫ | ^^ | ^^ |
+| **⟪तृतीया⟫** | ⟪यवक्रिया⟫ | ⟪यवक्रीभ्याम्⟫ | ⟪यवक्रीभिस्⟫ |
+| **⟪चतुर्थी⟫** | ⟪यवक्रिये⟫ | ^^ | ⟪यवक्रीभ्यस्⟫ |
+| **⟪पञ्चमी⟫** | ⟪यवक्रियस्⟫ | ^^ | ^^ |
+| **⟪षष्ठी⟫** | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
+| **⟪सप्तमी⟫** | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
 ### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
 
-:::grammar-box
-**Stamm vor Vokal: -uv** <!-- TODO: Fallback translation -->
+::: grammar-box
+**元音前的词干：-uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī** <!-- TODO: Fallback translation -->
+**Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+变格范式：
 
-⟪भू⟫ f. "Erde" <!-- TODO: Fallback translation -->
+⟪भू⟫ f. “大地”
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪भूस्⟫ | ⟪भुवौ⟫ | ⟪भुवस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪भुवम्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | ⟪भुवा⟫ | ⟪भूभ्याम्⟫ | ⟪भूभिस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | ⟪भुवे⟫ / ⟪भुवै⟫ | ^^ | ⟪भूभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | ⟪भुवस्⟫ / ⟪भुवास्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪भूस्⟫ | ⟪भुवौ⟫ | ⟪भुवस्⟫ |
+| **⟪द्वितीया⟫** | ⟪भुवम्⟫ | ^^ | ^^ |
+| **⟪तृतीया⟫** | ⟪भुवा⟫ | ⟪भूभ्याम्⟫ | ⟪भूभिस्⟫ |
+| **⟪चतुर्थी⟫** | ⟪भुवे⟫ / ⟪भुवै⟫ | ^^ | ⟪भूभ्यस्⟫ |
+| **⟪पञ्चमी⟫** | ⟪भुवस्⟫ / ⟪भुवास्⟫ | ^^ | ^^ |
+| **⟪षष्ठी⟫** | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
+| **⟪सप्तमी⟫** | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. Wurzelnomina auf -ū am Ende von ⟪तत्पुरुष⟫
+### 61.1.5. 词干名词以 -ū 结尾，位于 ⟪तत्पुरुष⟫ 末尾
 
-:::grammar-box
-**Vor vokalischen Endungen wird -ū durch -v ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ū vor vokalischer Endung durch -uv ersetzt.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**在元音词尾前，若 -ū 之前仅有一个属于词根的辅音，则 -ū 被替换为 -v。若前面有多个属于词根的辅音，则元音词尾前的 -ū 被替换为 -uv。**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.** <!-- TODO: Fallback translation -->
+**阳性与阴性形式的变格完全相同。**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+变格范式：
 
-⟪खलपू⟫ m., f. "die Scheune kehrend" <!-- TODO: Fallback translation -->
+⟪खलपू⟫ m., f. “清扫谷仓者”
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪खलपूस्⟫ | ⟪खलप्वौ⟫ | ⟪खलप्वस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪खलप्वम्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | ⟪खलप्वा⟫ | ⟪खलपूभ्याम्⟫ | ⟪खलपूभिस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | ⟪खलप्वे⟫ | ^^ | ⟪खलपूभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | ⟪खलप्वस्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | ^^ | ⟪खलप्वोस्⟫ | ⟪खलप्वाम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | ⟪खलप्वि⟫ | ^^ | ⟪खलपूषु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪खलपूस्⟫ | ⟪⟪खलप्वौ⟫ | ⟪खलप्वस्⟫ |
+| **⟪द्वितीया⟫** | ⟪खलप्वम्⟫ | ^^ | ^^ |
+| **⟪तृतीया⟫** | ⟪खलप्वा⟫ | ⟪खलपूभ्याम्⟫ | ⟪खलपूभिस्⟫ |
+| **⟪चतुर्थी⟫** | ⟪खलप्वे⟫ | ^^ | ⟪खलपूभ्यस्⟫ |
+| **⟪पञ्चमी⟫** | ⟪खलप्वस्⟫ | ^^ | ^^ |
+| **⟪षष्ठी⟫** | ^^ | ⟪खलप्वोस्⟫ | ⟪खलप्वाम्⟫ |
+| **⟪सप्तमी⟫** | ⟪खलप्वि⟫ | ^^ | ⟪खलपूषु⟫ |
 
-:::media
+::: media
 ![](/images/lekt6106.webp)
-Abb.: ⟪रथ्याप्वः⟫
+图：⟪रथ्याप्वः⟫
 ⟪काशीपुर⟫
-(Bildquelle: [Details](/licenses#lekt6106)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt6106)）
 :::
-### 61.1.6. Deklination mehrsilbiger Feminina auf -ū
+### 61.1.6. 多音节阴性名词以 -ū 结尾的变格
 
-:::grammar-box
-**Mehrsilbige Feminina auf -ū werden analog zu mehrsilbigen Stämmen auf -ī (⟪देवी⟫) dekliniert, sie enden aber im Nom. sg. auf -s.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**以 -ū 结尾的多音节阴性名词，其变格方式与以 -ī（⟪देवी⟫）结尾的多音节词干类似，但在主格单数中以 -s 结尾。**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+变格表：
 
-⟪वधू⟫ f. "junge Frau, Braut" <!-- TODO: Fallback translation -->
+⟪वधू⟫ f. “年轻女子，新娘”
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫** | ⟪वधूस्⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪वधूम्⟫ | ^^ | ⟪वधूस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | ⟪वध्वा⟫ | ⟪वधूभ्याम्⟫ | ⟪वधूभिस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | ⟪वध्वै⟫ | ^^ | ⟪वधूभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | ⟪वध्वास्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | ^^ | ⟪वध्वोस्⟫ | ⟪वधूनाम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | ⟪वध्वाम्⟫ | ^^ | ⟪वधूषु⟫ | <!-- TODO: Fallback translation -->
-| **⟪आमन्त्रितम्⟫** | ⟪वधु⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟫** | ⟪वधूस्⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ |
+| **⟪द्वितीया⟫** | ⟪वधूम्⟫ | ^^ | ⟪वधूस्⟫ |
+| **⟪तृतीया⟫** | ⟪वध्वा⟫ | ⟪वधूभ्याम्⟫ | ⟪वधूभिस्⟫ |
+| **⟪चतुर्थी⟫** | ⟪वध्वै⟫ | ^^ | ⟪वधूभ्यस्⟫ |
+| **⟪पञ्चमी⟫** | ⟪वध्वास्⟫ | ^^ | ^^ |
+| **⟪षष्ठी⟫** | ^^ | ⟪वध्वोस्⟫ | ⟪वधूनाम्⟫ |
+| **⟪सप्तमी⟫** | ⟪वध्वाम्⟫ | ^^ | ⟪वधूषु⟫ |
+| **⟪आमन्त्रितम्⟫** | ⟪वधु⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ |
 
-:::media
+::: media
 ![](/images/lekt6107.webp)
-Abb.: ⟪वध्वौ⟫
+图：⟪वध्वौ⟫
 ⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt6107)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt6107)）
 :::
-## 61.2. Das periphrastische Futur (⟪लुट्⟫)
+## 61.2. 迂回将来时（⟪लुट्⟫）
 
-:::grammar-box
-**Neben dem einfachen Futur (⟪ऌत्⟫) gibt es ein periphrastisches Futur (⟪लुट्⟫). Nach der Lehre der einheimischen Grammatiker wird es verwendet, um die entfernte Zukunft ("nach dem laufenden Tag") zu bezeichnen, während das einfache Futur die nahe Zukunft ("am laufenden Tag") bezeichnet. Im klassischen Sanskrit scheint meist kein Unterschied im Gebrauch der beiden Futura gemacht zu werden.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**除了简单将来时（⟪ऌत्⟫）之外，还存在一种迂回将来时（⟪लुट्⟫）。根据本土语法学家的理论，迂回将来时用于表示遥远的未来（“在当天之后”），而简单将来时表示近处的未来（“在当天内”。）在古典梵语中，似乎通常不对这两种将来时的用法进行区分。**
 
-**Bildung:** <!-- TODO: Fallback translation -->
+**构成：**
 
-**Das periphrastische Futur wird gebildet durch die Verbindung eines nomen agentis auf -tṛ mit dem Präsens von ⟪अस्⟫ 2. Als dritte Person dient das einfache Nomen in der entsprechenden Zahl, ohne Unterscheidung im grammatischen Geschlecht. Bei den Verbindungen mit ⟪अस्⟫ hat das Nomen in allen Personen und Numeri die Form des Nom.sg. auf -tā.** <!-- TODO: Fallback translation -->
+**迂回将来时由词根名词（agent noun，后缀为 -tṛ）与 ⟪अस्⟫ 的现在时结合构成。第三人称仅使用相应数目的简单名词形式，不区分语法性别。在与 ⟪अस्⟫ 结合时，所有人称和数中的名词形式均为单数主格后缀 -tā。**
 :::
-Die Endungen des periphrastischen Futur lauten also: <!-- TODO: Fallback translation -->
+因此，迂回将来时的词尾如下：
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ ||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1\. ⟪तृतीयः⟫** | \-tāsmi:br(-tā + asmi) | \-tāsvas | \-tāsmas:br(-tā smas) | **\-tāhe** | \-tāsvahe | \-tāsmahe | <!-- TODO: Fallback translation -->
-| **2\. ⟪मध्यमः⟫** | \-tāsi | \-tāsthas | \-tāstha | \-tāse | \-tāsāthe | \-tādhve | <!-- TODO: Fallback translation -->
-| **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras | <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Form der Wurzel: Die Wurzel hat im allgemeinen dieselbe Form wie im einfachen Futur. Dasselbe gilt für den Bindevokal -i-.** <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1\. ⟪तृतीयः⟫** | \-tāsmi:br(-tā + asmi) | \-tāsvas | \-tāsmas:br(-tā smas) | **\-tāhe** | \-tāsvahe | \-tāsmahe |
+| **2\. ⟪मध्यमः⟫** | \-tāsi | \-tāsthas | \-tāstha | \-tāse | \-tāsāthe | \-tādhve |
+| **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
 :::
-Beispiele: <!-- TODO: Fallback translation -->
-
-| ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪भू⟫ 1P | ⟪भवितास्मि⟫ ... ⟪भाविता⟫ usw. | <!-- TODO: Fallback translation -->
-| ⟪तुद्⟫ 6U | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ usw. | <!-- TODO: Fallback translation -->
-| ⟪गै⟫ 1P | ⟪गातास्मि⟫ ... ⟪गाता⟫ usw. | <!-- TODO: Fallback translation -->
-
-Paradigma: <!-- TODO: Fallback translation -->
-
-⟪दा⟫ 3U <!-- TODO: Fallback translation -->
-
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ ||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | ***⟪दाताहे⟫*** | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ | <!-- TODO: Fallback translation -->
-| **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ | <!-- TODO: Fallback translation -->
-| **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Nur ganz selten wird das Verb ⟪अस्⟫ vom Nominalstamm getrennt.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**词根形式：词根通常与简单将来时的形式相同。连接元音 -i- 亦同此理。**
 :::
-## 61.3. Das Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
+示例：
 
-:::grammar-box
-**Von jeder einsilbigen, konsonantisch anlautenden Wurzel der ersten neun Präsensklassen kan ein Intensivum (⟪चर्करीतम्⟫)  gebildet werden; das heißt: mit wenigen Ausnahmen kann von zweisilbigen Wurzeln (z.B. ⟪जागृ⟫), vokalisch anlautenden Wurzeln und Wurzeln der 10. Präsensklasse (⟪चुरादिगण⟫) kein Intensivum gebildet werden.** <!-- TODO: Fallback translation -->
+| ⟪दा⟫ 第三组 | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ 等 |
+| --- | --- |
+| ⟪भू⟫ 第一组 | ⟪भवितास्मि⟫ ... ⟪भाविता⟫ 等 |
+| ⟪तुद्⟫ 第六组 | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ 等 |
+| ⟪गै⟫ 第一组 | ⟪गातास्मि⟫ ... ⟪गाता⟫ 等 |
 
-**Das Intensivum bedeutet:** <!-- TODO: Fallback translation -->
+变位表：
 
-*   **dass eine Person oder Sache immer wieder tut oder erleidet, was durch die Wurzel ausgedrückt wird**   <!-- TODO: Fallback translation -->
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut immer wieder"  
-    ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "er ist (wird) oft"   <!-- TODO: Fallback translation -->
+⟪दा⟫ 3U
 
-*   **dass eine Person oder Sache intensiv tut oder erleidet, was durch die Wurzel ausgedrückt wird:**   <!-- TODO: Fallback translation -->
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut intensiv, er tut tüchtig"   <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | ***⟪दाताहे⟫*** | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
+| **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ |
+| **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
+:::
+::: grammar-box
+**只有极其罕见的情况下，动词 ⟪अस्⟫ 才会与名词词干分离。**
+:::
+## 61.3. 强化式（频繁式）(⟪चर्करीतम्⟫)
 
-*   **bei Wurzeln, die eine Bewegung ausdrücken, bedeutet das Intensivum die gekrümmte Bewegung:**   <!-- TODO: Fallback translation -->
-    ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "er geht in Krümmungen" (NICHT: "er geht oft")   <!-- TODO: Fallback translation -->
+::: grammar-box
+**每一个单音节、以辅音开头的属于前九种现在时词根的动词，都可以构成一个强化式（⟪चर्करीतम्⟫）；也就是说：除了少数例外，双音节词根（例如 ⟪जागृ⟫）、以元音开头的词根以及第十种现在时类的词根（⟪चुरादिगण⟫）无法构成强化式。**
 
-*   **bei einigen Wurzeln (Aufzählung: Kielhorn, Grammatik § 458b) bedeutet das Intensivum Tadel:**   <!-- TODO: Fallback translation -->
-    ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "er schneidet schlecht"  
-    ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "er setzt sich schlecht" <!-- TODO: Fallback translation -->
-::::::media
+**强化式的含义是：**
+
+*   **表示某人或某物反复做或经历由词根所表达的动作**
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ “他反复做”
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ “他（变得）经常”
+
+*   **表示某人或某物强烈地做或经历由词根所表达的动作：**
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ “他强烈地做，他做得很努力”
+
+*   **对于表示运动的词根，强化式（Intensivum）意味着弯曲的运动：**
+⟪व्रज्⟫ 1P: ⟪वव्रज्यते⟫ “他弯曲地行走”（并非：“他经常行走”）
+
+*   **对于某些词根（列举：Kielhorn，语法 § 458b），强化式表示贬义：**
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ “他切得不好”
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ “他坐得不好”
+:::: media
 ![](/images/lekt6104.webp)
-Abb.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
-Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt6104)) <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Bildung des Intensivums:** <!-- TODO: Fallback translation -->
-
-**Es gibt zwei Bildungstypen des Intensivums:** <!-- TODO: Fallback translation -->
-
-*   **Ātmanepada-Intensivum** <!-- TODO: Fallback translation -->
-*   **Parasmaipada-Intensivum** <!-- TODO: Fallback translation -->
-
-**Beide werden von der mit starker Reduplikation reduplizierten Wurzel gebildet. Beide unterscheiden sich in der Bedeutung nicht. Beide können zu denselben Wurzeln gebildet werden.** <!-- TODO: Fallback translation -->
+图：⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
+卡纳塔克邦 = ಕರ್ನಾಟಕ
+（图片来源：[详情](/zh-CN/licenses#lekt6104)）
+::::
 :::
-### 61.3.1. Ātmanepada-Intensivum
+::: grammar-box
+**强化式的构成：**
 
-::::grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**存在两种强化式（Intensivum）的构词类型：**
 
-**reduplizierte Wurzel + -ya-** <!-- TODO: Fallback translation -->
+*   **阿特曼帕达强化式（Ātmanepada-Intensivum）**
+*   **帕拉沙帕达强化式（Parasmaipada-Intensivum）**
 
-**Form der Wurzel: im allgemeinen wie im Passiv, d.h. meist tiefstufig:** <!-- TODO: Fallback translation -->
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
-⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫ <!-- TODO: Fallback translation -->
+**两者均由带有强烈重音（Reduplikation）的根词通过重叠构成。两者在意义上没有区别。两者都可以由相同的词根构成。**
 :::
-Die Regeln im einzelnen bei Kielhorn, Grammatik § 461. <!-- TODO: Fallback translation -->
+### 61.3.1. 阿特曼帕达强化式（Ātmanepada-Intensivum）
 
-**Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o** <!-- TODO: Fallback translation -->
+::: grammar-box
+**构成：**
+
+**重复的词根 + -ya-**
+
+**词形：通常与被动语态相同，即多为中音：**
+
+示例：
+
 :::
-Beispiele: <!-- TODO: Fallback translation -->
-
-| ⟪दा⟫ 3U | ⟪देदीय⟫- | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪भू⟫ 1P | ⟪बोभूय⟫- | <!-- TODO: Fallback translation -->
-| ⟪कृ⟫ 8U | ⟪चेक्रीय⟫- | <!-- TODO: Fallback translation -->
-| ⟪जीव्⟫ 1P | ⟪जेजीव्य⟫- | <!-- TODO: Fallback translation -->
-| ⟪शास्⟫ 2P | ⟪शेशिष्य⟫- | <!-- TODO: Fallback translation -->
-| ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- | <!-- TODO: Fallback translation -->
-
-::::grammar-box
-**Wurzeln der Form -a-Nasal verlängern in der Reduplikationssilbe den Vokal nicht, sondern wiederholen den Nasal.** <!-- TODO: Fallback translation -->
-
-:::indent
-z.B. ⟪यम्⟫ 1P: ⟪यंयम्य⟫- <!-- TODO: Fallback translation -->
+::: indent
+⟪स्वप्⟫ 第二人称：被动语态 ⟪सुप्यते⟫；强化形式 ⟪सोषुप्यते⟫
+⟪दा⟫ 第三人称：被动语态 ⟪दीयते⟫；强化形式 ⟪देदीयते⟫
 :::
-**Bei einigen Wurzeln tritt zwischen den Vokal der Reduplikationssilbe und den anlautenden Konsonanten der Wurzel -nī- bzw. -rī- (-rī- bei Wurzeln, die im Intensiv ein ṛ enthalten).** <!-- TODO: Fallback translation -->
+具体规则见 Kielhorn《语法》第461节。
 
-:::indent
-z.B.
-⟪पत्⟫ 1P: ⟪प⟫***⟪नी⟫***⟪पत्य⟫-
-⟪वृत्⟫ 1Ā: ⟪व⟫***⟪री⟫***⟪वृत्य⟫- <!-- TODO: Fallback translation -->
-:::::::::grammar-box
-**Konjugation:** <!-- TODO: Fallback translation -->
+**Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
+示例：
 
-*   **Präsensstamm: wie ein Ātmanepada der 4. Präsensklasse (⟪दिवादिगण⟫).** <!-- TODO: Fallback translation -->
-*   **Passiv und übrige Tempusstämme: geht dem -ya- des Intensivstammes ein Vokal voraus, so wird das -ya- durch -y- ersetzt, geht dem -ya- ein Konsonant voraus, so entfällt das -ya-:** <!-- TODO: Fallback translation -->
-    *   **Passiv Präsens: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫** <!-- TODO: Fallback translation -->
-    *   **Perfekt: periphrastisch:  ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫** <!-- TODO: Fallback translation -->
-    *   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫** <!-- TODO: Fallback translation -->
-    *   **Futur: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫** <!-- TODO: Fallback translation -->
-    *   **periphrastisches Futur: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫** <!-- TODO: Fallback translation -->
+| ⟪दा⟫ 3U | ⟪देदीय⟫- |
+| --- | --- |
+| ⟪भू⟫ 1P | ⟪बोभूय⟫- |
+| ⟪कृ⟫ 8U | ⟪चेक्रीय⟫- |
+| ⟪जीव्⟫ 1P | ⟪जेजीव्य⟫- |
+| ⟪शास्⟫ 2P | ⟪शेशिष्य⟫- |
+| ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
+
+::: grammar-box
+**以 -a 为词根的动词在重叠音节中不延长元音，而是重复鼻音。**
+
 :::
-### 61.3.2. Parasmaipada-Intensivum
-
-:::grammar-box
-**Präsensstamm (andere Formen sind äußerst selten): Bildung und Konjugation wie ein Verb der 3. Präsensklasse (⟪जुहोत्यादिगण⟫) mit dem Unterschied, dass der Vokal der Reduplikationssilbe hochstufig, bei -a- dehnstufig ist.** <!-- TODO: Fallback translation -->
-
-**Im Singular Indikativ Präsens sowie 2.3.sg. Imperfekt und 3.sg.Imperativ kann zwischen Wurzel und Endung ein -ī- eingeschoben werden. Wird dieses -ī- eingeschoben, darf ein kurzer Vokal an vorletzter Stelle nicht guṇiert werden.** <!-- TODO: Fallback translation -->
-
-**Bezüglich der Reduplikation mit Nasal sowie der Einschiebung von -nī- bzw. -rī- gilt dasselbe wie für das Ātmanepada-Intensivum. Statt -rī- kann wahlweise -ri- stehen.** <!-- TODO: Fallback translation -->
+::: indent
+例如，⟪यम्⟫ 1P：⟪यंयम्य⟫-
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+**在某些词根中，重叠音节的元音与词根的起始辅音之间会插入 -nī- 或 -rī-（若词根在强化形式中含有 ṛ，则插入 -rī-）。**
 
-⟪भू⟫ 1P <!-- TODO: Fallback translation -->
-
-Indikativ Präsens (⟪लट्⟫): <!-- TODO: Fallback translation -->
-
-:::grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ | <!-- TODO: Fallback translation -->
+::: indent
+例如
+⟪पत्⟫ 第一人称单数主动语态: ⟪प⟫***⟪नी⟫***⟪पत्य⟫-
+⟪वृत्⟫ 第一人称单数中动语态: ⟪व⟫***⟪री⟫***⟪वृत्य⟫-
 :::
-Imperfekt (⟪लङ्⟫): <!-- TODO: Fallback translation -->
+::: grammar-box
+**变位：**
 
-:::grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ | <!-- TODO: Fallback translation -->
+*   **现在时词干：如同第四类现在时的主动语态（⟪दिवादिगण⟫）。**
+*   **被动语态及其他时态词干：若 intensives -ya- 前接元音，则将其替换为 -y-；若前接辅音，则省略 -ya-：**
+*   **被动语态现在时：⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+*   **完成时：迂回式： ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+*   **不定过去时：iṣ-不定过去时（第五类不定过去时）：⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+*   **将来时：带 seṭ 的：⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+*   **迂回式将来时：⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
-Imperativ (⟪लोट्⟫): <!-- TODO: Fallback translation -->
+### 61.3.2. 主动语态强化形式
 
-:::grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+**现在时词干（其他形式极为罕见）：构成与变位如同第三类现在时的动词（⟪जुहोत्यादिगण⟫），区别在于重叠音节的元音为高音量级，若为 -a- 则为长音量级。**
+
+**在单数直陈式现在时以及第二、三人称单数未完成过去时和第三人称单数祈使式中，词根与词尾之间可插入 -ī-。若插入此 -ī-，倒数第二个位置的短元音不得进行 guṇa 增强。**
+
+**关于带有鼻音的重复以及插入 -nī- 或 -rī- 的情况，自语态强化式（Ātmanepada-Intensivum）的规则同样适用。除了 -rī- 之外，也可以选用 -ri-。**
 :::
-Optativ (⟪विधिलिङ्⟫): <!-- TODO: Fallback translation -->
+范式：
 
-:::grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ | <!-- TODO: Fallback translation -->
+⟪भू⟫ 第一人称单数（1P）
+
+现在时直陈式（⟪लट्⟫）：
+
+::: grammar-box
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
 :::
-## 61.4. Denominativa (⟪नामधातु⟫)
+过去时（⟪लङ्⟫）：
 
-Denominativa (⟪नामधातवः⟫) werden, im Gegensatz zu den bisher behandelten Verben, nicht von einer Verbalwurzel, sondern von einem Nominalstamm gebildet. Dabei gibt es verschiedene Bildungstypen. <!-- TODO: Fallback translation -->
-
-### 61.4.1. Bildung ohne besonderes Suffix, Parasmaipada
-
-::::grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
-
-:::indent
-**eine Person oder Sache verhält sich so wie das, oder gleicht dem, was vom Nominalstamm bezeichnet wird.** <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
-**Konjugation:** <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）：
 
-:::indent
-**im Präsensstamm wie ein Verb der 1. Präsensklasse (⟪भ्वादिगण⟫). Hat das Nomen mehl als einen vokal, so wird nur der letzte Vokal wie der Wurzelvokal der 1. Klasse behandelt. Auslautendes -a entfällt vor dem Themavokal. Vokal vor auslautendem Nasal wird durch den entsprechenden Langvokal ersetzt.** <!-- TODO: Fallback translation -->
-::::::
-Beispiele: <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
+:::
+愿语气（⟪विधिलिङ्⟫）：
 
-| ⟪कवि⟫ m. "Dichter" | ⟪कवयति⟫ "er verhält sich wie ein Dichter" | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪भू⟫ f. "Erde" | ⟪भवति⟫ "er verhält sich wie die Erde" | <!-- TODO: Fallback translation -->
-| ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" | <!-- TODO: Fallback translation -->
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" | <!-- TODO: Fallback translation -->
-| ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" | <!-- TODO: Fallback translation -->
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ |
+:::
+## 61.4. 派生动词（⟪नामधातु⟫）
+
+派生动词（⟪नामधातवः⟫）与迄今为止讨论的动词不同，它们不是由词根构成，而是由名词词干构成。其中存在多种构型类型。
+
+### 61.4.1. 不带特殊后缀的构成，Parasmaipada（他称）
+
+::: grammar-box
+**含义：**
+
+:::
+::: indent
+**一个人或事物以某种方式表现，如同名词词根所指称的那样；或与后者相似。**
+:::
+**变位法：**
+
+::: indent
+**在现在时词干中，如同第一类现在时动词（⟪भ्वादिगण⟫）。如果名词以元音结尾，则仅最后一个元音按第一类动词的词根元音方式处理。词尾的 -a 在主题元音前省略。词尾鼻音前的元音由相应的长元音替代。**
+:::
+例如：
+
+| ⟪कवि⟫ 阳性，“诗人” | ⟪कवयति⟫ “他表现得像一位诗人” |
+| --- | --- |
+| ⟪भू⟫ 阴性，“大地” | ⟪भवति⟫ “他表现得像大地” |
+| ⟪पितृ⟫ “父亲” | ⟪पितरति⟫ “他表现得像一位父亲” |
+| ⟪कृष्ण⟫ 阳性，Kṛṣṇa | ⟪कृष्णति⟫ “他表现得像Kṛṣṇa” |
+| ⟪माला⟫ 阴性，“花环” | ⟪मालाति⟫ “它类似于一个花环” |
+| ⟪राजन्⟫ 阳性，“国王” | ⟪राजानति⟫ “他表现得像一位国王” |
 
 ### 61.4.2. Bildung mit Suffix -ya, Parasmaipada
 
-::::grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**意义：**
 
-*   **jemand wünscht sich das, was durch den Nominalstamm bezeichnet wird** <!-- TODO: Fallback translation -->
-*   **jemand behandelt oder betrachtet eine Person oder Sache wie das, was vom Nominalstamm bezeichnet wird** <!-- TODO: Fallback translation -->
+*   **某人希望获得由名词词干所指称的事物**
+*   **某人将某个人或事物视为或对待为由名词词干所指称的事物**
 
-**Stammbildung:** <!-- TODO: Fallback translation -->
+**词干构成：**
 
-:::indent
-**vor dem -ya unterliegt der Auslauts des Nominalstamms folgenden Veränderungen:** <!-- TODO: Fallback translation -->
+:::
+::: indent
+**在 -ya 之前，名词词干的尾音会经历以下变化：**
 
-*   **a, ā » ī :** ⟪पुत्र⟫ » ⟪पुत्रीय⟫- <!-- TODO: Fallback translation -->
-*   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫- <!-- TODO: Fallback translation -->
-*   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫- <!-- TODO: Fallback translation -->
-*   **o » av :** ⟪गो⟫ » ⟪गव्य⟫- <!-- TODO: Fallback translation -->
-*   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫- <!-- TODO: Fallback translation -->
-*   **auslautender Nasal fällt ab, davor stehender Vokal wird nach den eben genannten Regeln behandelt:** ⟪राजन्⟫ » ⟪राजीय⟫- <!-- TODO: Fallback translation -->
-*   **andere auslautende Konsonanten bleiben unverändert** <!-- TODO: Fallback translation -->
-::::::
-Beispiele: <!-- TODO: Fallback translation -->
+*   **a, ā » ī ：⟪पुत्र⟫ » ⟪पुत्रीय⟫-**
+*   **i, u » ī, ū ：⟪कवि⟫ » ⟪कवीय⟫-**
+*   **ṛ » rī ：⟪कर्तृ⟫ » ⟪कर्त्रीय⟫-**
+*   **o » av ：⟪गो⟫ » ⟪गव्य⟫-**
+*   **au » āv ：⟪नौ⟫ » ⟪नाव्य⟫-**
+*   **词尾鼻音脱落，其前的元音按上述规则处理：⟪राजन्⟫ » ⟪राजीय⟫-**
+*   **其他词尾辅音保持不变**
+:::
+示例：
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रीयति⟫ "er wünscht sich einen Sohn" | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪कवि⟫ m. "Dichter" | ⟪कवीयति⟫ "er wünscht sich einen Dichter" | <!-- TODO: Fallback translation -->
-| ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" | <!-- TODO: Fallback translation -->
-| ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" | <!-- TODO: Fallback translation -->
-| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" | <!-- TODO: Fallback translation -->
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" | <!-- TODO: Fallback translation -->
+| ⟪पुत्र⟫ 阳性 “儿子” | ⟪पुत्रीयति⟫ “他祈求一个儿子” |
+| --- | --- |
+| ⟪कवि⟫ 阳性 “诗人” | ⟪कवीयति⟫ “他祈求一位诗人” |
+| ⟪गो⟫ 阴性 “母牛” | ⟪गव्यति⟫ “他祈求一头母牛” |
+| ⟪राजन्⟫ 阳性 “国王” | ⟪राजीयति⟫ “他祈求一位国王” |
+| ⟪विष्णु⟫ 阳性 毗湿奴 (Viṣṇu) | ⟪विष्णूयति⟫ “他将某人视为毗湿奴” |
+| ⟪प्रासाद⟫ 阳性 “宫殿” | ⟪प्रासादीयति⟫ “他将（例如他的茅屋）视为宫殿” |
 
-Beachten sie die Bedeutung von: <!-- TODO: Fallback translation -->
+请注意以下含义：
 
-| ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" | <!-- TODO: Fallback translation -->
+| ⟪तपस्⟫ 中性 “苦行” | ⟪तपस्यति⟫ “他进行苦修” |
+| --- | --- |
+| ⟪नमस्⟫ 中性 “崇拜” | ⟪नमस्यति⟫ “他进行礼拜/供奉” |
 
-:::media
+::: media
 ![](/images/lekt6105.webp)
-Abb.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
+图：⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ？
 ⟪हरिद्वार⟫
-(Bildquelle: [Details](/licenses#lekt6105)) <!-- TODO: Fallback translation -->
-::::::media
+（图片来源：[详情](/zh-CN/licenses#lekt6105)）
+:::: media
 ![](/images/lekt6103.webp)
-Abb.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt6103)) <!-- TODO: Fallback translation -->
+图：⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
+（图片来源：[详情](/zh-CN/licenses#lekt6103)）
+::::
 :::
-### 61.4.3. Bildung mit dem Suffix -kāmya, Parasmaipada
+### 61.4.3. 带有后缀 -kāmya 的构成，Parasmaipada（他称）
 
-:::grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**含义：**
 
-**jemand wünsch sich das, was durch den Nominalstamm bezeichnet wird** <!-- TODO: Fallback translation -->
+**某人祈求名词词根所表示的事物**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" | <!-- TODO: Fallback translation -->
+| ⟪पुत्र⟫ m. “儿子” | ⟪पुत्रकाय्म्यति⟫ “他祈求一个儿子” |
+| --- | --- |
+| ⟪यशस्⟫ n. “名声” | ⟪यशस्काम्यति⟫ “他祈求名声” |
 
-:::media
+::: media
 ![](/images/lekt6109.webp)
-Abb.: ⟪यशस्काम्यन्ति⟫
+图：⟪यशस्काम्यन्ति⟫
 ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt6109)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt6109)）
 :::
-### 61.4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
+### 61.4.4. 带有后缀 -sya 或 -asya 的构成，Parasmaipada（他动）
 
-::::grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**含义：**
 
-:::indent
-**jemand verlangt heftig nach dem, was durch den Nominalstamm bezeichnet wird.** <!-- TODO: Fallback translation -->
-::::::
-Beispiele: <!-- TODO: Fallback translation -->
+:::
+::: indent
+**某人强烈渴望名词词根所指的事物。**
+:::
+示例：
 
-:::grammar-box
-| ⟪मधु⟫ n. "Honig" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "er verlangt heftig nach Honig" | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪अश्व⟫ m. "Hengst" | ⟪अश्वस्यति⟫ "(die Stute) verlangt heftig nach dem Hengst" | <!-- TODO: Fallback translation -->
-::::::media
+::: grammar-box
+| ⟪मधु⟫ n. “蜂蜜” | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ “他强烈渴望蜂蜜” |
+| --- | --- |
+| ⟪अश्व⟫ m. “公马” | ⟪अश्वस्यति⟫ “（母马）强烈渴望公马” |
+:::: media
 ![](/images/lekt6110.webp)
-Abb.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
-Karli
-(Bildquelle: [Details](/licenses#lekt6110)) <!-- TODO: Fallback translation -->
+图：⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
+卡尔利（Karli）
+（图片来源：[详情](/zh-CN/licenses#lekt6110)）
+::::
 :::
-### 61.4.5. Bildung mit dem Suffix -ya, Ātmanepada
+### 61.4.5. 带有后缀 -ya 的构成，Ātmanepada（自动）
 
-::::grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
-
-:::indent
-**jemand verhält sich als das, oder gleicht dem, was durch den Nominalstamm bezeichnet wird.** <!-- TODO: Fallback translation -->
-:::
-**Bildung:** <!-- TODO: Fallback translation -->
-
-*   **auslautendes -a » -ā** <!-- TODO: Fallback translation -->
-*   **auslautendes -ā bleibt unverändert** <!-- TODO: Fallback translation -->
-*   **sonst wie vor -ya, Parasmaipada (siehe oben 4.2.)** <!-- TODO: Fallback translation -->
-*   **auslautendes -as wahlweise » -ā** <!-- TODO: Fallback translation -->
-*   **Femininstamm meist » Maskulinstamm** <!-- TODO: Fallback translation -->
+::: grammar-box
+**意义：**
 
 :::
-Beispiele: <!-- TODO: Fallback translation -->
-
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" | <!-- TODO: Fallback translation -->
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" | <!-- TODO: Fallback translation -->
-
-::::grammar-box
-**Bei einigen Nominalstämmen bedeutet dieses Suffix: etwas wird wie das, oder wird zu dem, was durch den Nominalstamm bezeichnet wird:** <!-- TODO: Fallback translation -->
-
-:::indent
-z.B. ⟪उन्मनस्⟫ 3 "erregt": ⟪उन्मनायते⟫ "er wird erregt" <!-- TODO: Fallback translation -->
+::: indent
+**某人以……的方式行事，或与名词词干所指称的事物相似。**
 :::
-**In einigen Fällen werden mit diesem Suffix Verben in anderen Bedeutungen gebildet:** <!-- TODO: Fallback translation -->
+**构成：**
 
-Beispiele: <!-- TODO: Fallback translation -->
+*   **词尾的 -a 变为 » -ā**
+*   **词尾的 -ā 保持不变**
+*   **其余情况同前接 -ya，他称（见上文 4.2。）**
+*   **词尾的 -as 可选地变为 » -ā**
+*   **阴性词干通常变为 » 阳性词干**
 
-:::indent
-⟪दुःख⟫ n. "Leid" : ⟪दुःखायते⟫ "er empfindet Leid"
-⟪शब्द⟫ m. "Laut" : ⟪शब्दायते⟫ "er gibt einen Ton von sich" <!-- TODO: Fallback translation -->
-:::::::::media
+示例：
+
+| ⟪कृष्ण⟫ 阳性词，克里希纳（Kṛ᣽na） | ⟪कृष्णायते⟫ “他表现得像克里希纳” |
+| --- | --- |
+| ⟪यशस्⟫ 3 “著名” | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ “他表现得像一位名人” |
+| ⟪कुमारी⟫ 阴性词，“女孩” | ⟪कुमारायते⟫ “他表现得像一个女孩” |
+
+::: grammar-box
+**对于某些名词词干，该后缀表示：某物变得如同由该名词词干所指称的事物，或成为该事物：**
+
+:::
+::: indent
+例如，⟪उन्मनस्⟫ 3 “激起”：⟪उन्मनायते⟫ “他变得被激起”
+:::
+**在某些情况下，使用该后缀以其他含义构成动词：**
+
+示例：
+
+::: indent
+⟪दुःख⟫ n. “痛苦”：⟪दुःखायते⟫ “他感到痛苦”
+⟪शब्द⟫ m. “声音”：⟪शब्दायते⟫ “他发出声响”
+:::: media
 ![](/images/lekt6111.webp)
-Abb.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
-(Bildquelle: [Details](/licenses#lekt6111)) <!-- TODO: Fallback translation -->
+图注：⟪श्वानौ⟫ ⟪शब्दायेते⟫
+（图片来源：[详情](/zh-CN/licenses#lekt6111)）
+::::
 :::
-### 61.4.6. Bildung mit dem Suffix -aya, -āpaya
+### 61.4.6. 带有后缀 -aya, -āpaya 的构成
 
-:::grammar-box
-**Verschiedene Bedeutungen.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**不同的含义。**
 
-**Konjugiert wie Kausativa.** <!-- TODO: Fallback translation -->
+**变位同使役动词。**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-| ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" | <!-- TODO: Fallback translation -->
+| ⟪सत्य⟫ 3 “真实” | ⟪स्तयपायति⟫ “他宣称为真” |
+| --- | --- |
+| ⟪मुण्ड⟫ 3 “剃光” | ⟪मुण्डयति⟫ “他剃光头” |
 
-:::media
+::: media
 ![](/images/lekt6113.webp)
-Abb.: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
-Thailand - เมืองไทย
-(Bildquelle: [Details](/licenses#lekt6113)) <!-- TODO: Fallback translation -->
+图：⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
+泰国 - เมืองไทย
+（图片来源：[详情](/zh-CN/licenses#lekt6113)）
 :::
-Eine Liste von Denominative z.B. in: <!-- TODO: Fallback translation -->
+例如，与格（Dative）的列表：
 
-:::media
+::: media
 ![](/images/lekt6112.jpg)
-Abb.:
-1845 - 1878 Professor der indisch-orientalischen Philologie an der Universität Kopenhagen
-(Bildquelle: [Details](/licenses#lekt6112)) <!-- TODO: Fallback translation -->
-::::::indent
-**Westergaard**, Niels Ludvig &lt;1815-1878&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341. <!-- TODO: Fallback translation -->
+图：
+1845 - 1878年，哥本哈根大学印度东方语文学教授
+（图片来源：[详情](/zh-CN/licenses#lekt6112)）
+:::: indent
+**韦斯特加德（Westergaard）**，尼尔斯·吕维格 \&lt;1815-1878\&gt;：《梵语词根，依语法家规定确定并辅以精选例证阐释》 / N. L. 韦斯特加德。——波恩：科尼希出版社，1841年。——第335 - 341页。
+::::
 :::
-## 61.5. Der Benediktiv (⟪आशीर्लिङ्⟫)
+## 61.5. 祝愿式（⟪आशीर्लिङ्⟫）
 
-::::grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
-
-:::indent
-**Segenswunsch** <!-- TODO: Fallback translation -->
-:::
-**Bildung:** <!-- TODO: Fallback translation -->
-
-**Parasmaipada:** <!-- TODO: Fallback translation -->
-
-**tiefstufige Wurzel + yās + Sekundärendung** <!-- TODO: Fallback translation -->
-
-:::indent
-z.B. ⟪बुध्यासम्⟫ "möge ich erkennen!" <!-- TODO: Fallback translation -->
-:::
-**Ātmanepada:** <!-- TODO: Fallback translation -->
-
-**(meist) hochstufige Wurzel + sī(y) + Sekundärendung** <!-- TODO: Fallback translation -->
-
-**oder:** <!-- TODO: Fallback translation -->
-
-**(hochstufige) Wurzel + ⟪ै⟫ + sī(y) + Sekundäraendung** <!-- TODO: Fallback translation -->
-
-:::indent
-z.B.
-⟪जि⟫ : ⟪जेषीय⟫ "möge ich im eigenen Interesse siegen!"
-⟪बुध्⟫ : ⟪बोधिषीय⟫ "möge ich erkennen" <!-- TODO: Fallback translation -->
-:::
-**Die Regeln zur Form der Wurzel im Einzelnen bei Kielhorn, Grammatik § 380ff.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**含义：**
 
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+::: indent
+**祝福祈愿**
+:::
+**构成：**
 
-⟪बुध्⟫ "erwachen" <!-- TODO: Fallback translation -->
+**Parasmaipada：**
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ ||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ | <!-- TODO: Fallback translation -->
-| **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3\. ⟪प्रथमः⟫** | ***⟪बुध्यात्⟫*** | ⟪बुध्यास्ताम्⟫ | ***⟪बुध्यासुर्⟫*** | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ | <!-- TODO: Fallback translation -->
-::::::media
+**低等级词根 + yās + 次要后缀**
+
+::: indent
+例如，⟪बुध्यासम्⟫ “愿我知晓！”
+:::
+**Ātmanepada:**
+
+**（通常）高等级词根 + sī(y) + 次要后缀**
+
+**或者：**
+
+**(高阶)词根 + ⟪ै⟫ + sī(y) + 次要词尾**
+
+::: indent
+例如：
+⟪जि⟫ : ⟪जेषीय⟫ “愿我为自身利益而胜利！”
+⟪बुध्⟫ : ⟪बोधिषीय⟫ “愿我认知”
+:::
+**关于词根形式的具体规则，参见基尔霍恩（Kielhorn）《语法》第380节及以下。**
+
+范式：
+
+⟪बुध्⟫ “觉醒”
+
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ |
+| **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ |
+| **3\. ⟪प्रथमः⟫** | ***⟪बुध्यात्⟫*** | ⟪बुध्यास्ताम्⟫ | ***⟪बुध्यासुर्⟫*** | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
+:::: media
 ![](/images/lekt6114.webp)
-Abb.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
-Santa Cruz Basilica, Kochi = കൊച്ചി
-(Bildquelle: [Details](/licenses#lekt6114)) <!-- TODO: Fallback translation -->
+图：⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
+圣十字大教堂，科钦 = കൊച്ചി
+（图片来源：[详情](/zh-CN/licenses#lekt6114)）
+::::
 :::
-## 61.6. Der Konditionalis (⟪ऌङ्⟫)
+## 61.6. 条件式（⟪ऌङ्⟫）
 
-:::grammar-box
-**Der Konditionalis (⟪ऌङ्⟫) wird verwendet, wenn man in Bedingungssätzen ausdrücken will, dass das, was als Bedingung genannt wird, nicht der Fall ist / gewesen ist / sein wird. Der Konditionalis muss bei solchen Sätzen sowohl im Bedingungssatz wie im Hauptsatz verwendet werden.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**条件式（⟪ऌङ्⟫）用于在条件句中表达所提及的条件并非事实/未曾发生/将不会发生。在此类句子中，条件从句和主句都必须使用条件式。**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Wenn es gut geregnet hätte (oder regnen würde), würde es trreichlich Nahrung geben. (Es hat aber nicht (genügend) geregnet.)" <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Bildung des Konditionalis (⟪ऌङ्⟫):** <!-- TODO: Fallback translation -->
-
-**Augment + Stamm des einfachen Futur (⟪ऌत्⟫) + Sekundärendung** <!-- TODO: Fallback translation -->
-
-d.h. wie ein Imperfekt (⟪लङ्⟫) zum Futurstamm. <!-- TODO: Fallback translation -->
-
-z.B. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ “如果（过去）雨下得好（或者将来会下雨），就会有丰富的食物。（但事实上没有/未曾足够降雨。）”
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+::: grammar-box
+**条件式（⟪ऌङ्⟫）的构成：**
 
-⟪भू⟫ "sein, werden" <!-- TODO: Fallback translation -->
+**Augment + 简单将来时词干（⟪ऌत्⟫）+ 次要词尾**
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ ||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1\. ⟪तृतीयः⟫** | ⟪अभविष्यम्⟫ | ⟪अभविष्याव⟫ | ⟪अभविष्याम⟫ | ⟪अभविष्ये⟫ | ⟪अभविष्यावहि⟫ | ⟪अभविष्यामहि⟫ | <!-- TODO: Fallback translation -->
-| **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ | <!-- TODO: Fallback translation -->
+即，如同将来时词干的过去未完成时（⟪लङ्⟫）。
+
+例如，⟪अदास्यम्⟫；⟪अभविष्यम्⟫；⟪अतोत्स्यम्⟫
 :::
-## 61.7. Deklination der Nomina auf -ai, -o, -au
+变位表：
 
-:::grammar-box
-**Vor Konsonant lauten diese Stämme auf -ai, -o, -au; vor Konsonant auf -āy, -av, -āv** <!-- TODO: Fallback translation -->
+⟪भू⟫ “是，成为”
 
-**⟪गो⟫ m.f. "Ochse, Kuh" hat Stammabstufung.** Siehe die Erklärung im Einzelnen bei Thumb-Hauschild § 296/7. <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪अभविष्यम्⟫ | ⟪अभविष्याव⟫ | ⟪अभविष्याम⟫ | ⟪अभविष्ये⟫ | ⟪अभविष्यावहि⟫ | ⟪अभविष्यामहि⟫ |
+| **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
+| **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
 :::
-Paradigmen: Kielhorn, Grammatik § 153: <!-- TODO: Fallback translation -->
+## 61.7. 以 -ai, -o, -au 结尾的名词变格
 
-:::media
+::: grammar-box
+**在辅音前，这些词干读作 -ai, -o, -au；在元音前读作 -āy, -av, -āv**
+
+**⟪गो⟩ m.f. “公牛、母牛” 存在词干强弱交替。** 详见 Thumb-Hauschild § 296/7 中的解释。
+:::
+变格表：Kielhorn, Grammatik § 153:
+
+::: media
 ![](/images/lekt6115.webp)
-(Bildquelle: [Details](/licenses#lekt6115)) <!-- TODO: Fallback translation -->
-::::::media
+（图片来源：[详情](/zh-CN/licenses#lekt6115)）
+:::: media
 ![](/images/lekt6118.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt6118)) <!-- TODO: Fallback translation -->
+图：⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
+（图片来源：[详情](/zh-CN/licenses#lekt6118)）
+::::
 :::
-## 61.8. Restliche Pronomina
+## 61.8. 其余代词
 
 ### 61.8.1. Personalpronomen des Dual
 
-Kielhorn, Grammatik § 177: <!-- TODO: Fallback translation -->
+基尔霍恩，《语法》第177节：
 
-:::media
+::: media
 ![](/images/lekt6116.jpg)
-(Bildquelle: [Details](/licenses#lekt6116)) <!-- TODO: Fallback translation -->
-::::::media
+（图片来源：[详情](/zh-CN/licenses#lekt6116)）
+:::: media
 ![](/images/lekt6117.webp)
-Abb.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
-Apatani-Volk, Arunachal Pradesh
-(Bildquelle: [Details](/licenses#lekt6117)) <!-- TODO: Fallback translation -->
+图：⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
+阿帕塔尼族，阿鲁纳恰尔邦
+（图片来源：[详情](/zh-CN/licenses#lekt6117)）
+::::
 :::
-### 61.8.2. Demonstrativpronomen ⟪अदस्⟫ "jener (entfernte)"
+### 61.8.2. 指示代词 ⟪अदस्⟫ “那个（远处的）”
 
-Maskulinum (⟪पुंस्⟫) <!-- TODO: Fallback translation -->
+阳性（⟪पुंस्⟫）
 
-:::grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫** | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमी⟫ | <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪अमुम्⟫ | ^^ | ⟪अमून्⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमीभिस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | ⟪अमुष्मै⟫ | ^^ | ⟪अमीभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | ⟪अमुष्मात्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| :--- | :---: | :---: | :---: |
+| **⟪प्रथमा⟫** | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमी⟫ |
+| **⟪द्वितीया⟫** | ⟪अमुम्⟫ | ^^ | ⟪अमून्⟫ |
+| **⟪तृतीया⟫** | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमीभिस्⟫ |
+| **⟪चतुर्थी⟫** | ⟪अमुष्मै⟫ | ^^ | ⟪अमीभ्यस्⟫ |
+| **⟪पञ्चमी⟫** | ⟪अमुष्मात्⟫ | ^^ | ^^ |
+| **⟪षष्ठी⟫** | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
+| **⟪सप्तमी⟫** | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
 :::
-Neutrum (⟪नपुंसक⟫) <!-- TODO: Fallback translation -->
+中性（⟪नपुंसक⟫）
 
-:::grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫** | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ | <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ^^ | ^^ | ^^ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| :--- | :---: | :---: | :---: |
+| **⟪प्रथमा⟫** | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
+| **⟪द्वितीया⟫** | ^^ | ^^ | ^^ |
 
-Rest wie Maskulinum <!-- TODO: Fallback translation -->
+其余同阳性
 
 :::
-Femininum (⟪स्त्री⟫) <!-- TODO: Fallback translation -->
+阴性（⟪स्त्री⟫）
 
-:::grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫** | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमूस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪अमूम्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमूभिस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | ⟪अमुष्यै⟫ | ^^ | ⟪अमूभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | ⟪अमुष्यास्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| :--- | :---: | :---: | :---: |
+| **⟪प्रथमा⟫** | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमूस्⟫ |
+| **⟪द्वितीया⟫** | ⟪अमूम्⟫ | ^^ | ^^ |
+| **⟪तृतीया⟫** | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमूभिस्⟫ |
+| **⟪चतुर्थी⟫** | ⟪अमुष्यै⟫ | ^^ | ⟪अमूभ्यस्⟫ |
+| **⟪पञ्चमी⟫** | ⟪अमुष्यास्⟫ | ^^ | ^^ |
+| **⟪षष्ठी⟫** | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
+| **⟪सप्तमी⟫** | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+## 61.9. 释入梵语文学之海：શ્રીગણનાथ / ⟪श्रीगणनाथ⟫
 
-Nach dem Abschluss des Sanskritkurses beginnt erst das eigentliche "Schwimmen" im Ozean der Sanskritliteratur. Da dieser Ozean voller Hindernisse ist, ist es angemessen, diesen neuen Lebensabschnitt mit einer Anrufung Gaṇeśas zu beginnen: <!-- TODO: Fallback translation -->
+在完成梵语课程之后，真正的“游泳”于梵语文献之海才刚刚开始。由于这片海洋充满障碍，以向伽内什（Gaṇeśa）的祈请开启这一新的生活阶段是恰当的：
 
-:::media
+::: media
 ![](/images/lekt6101.webp)
-Abb.: ⟪श्रीगणनाथः⟫
-Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt6101)) <!-- TODO: Fallback translation -->
-:::::::grammar-box
-:::no-header
-|   |   | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ | <!-- TODO: Fallback translation -->
-::::::
-***ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫*** von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564) <!-- TODO: Fallback translation -->
+图：⟪श्रीगणनाथः⟫
+哈莱德杜（Halebidu，ಹಳೆಬೀಡು），公元12/13世纪
+（图片来源：[详情](/zh-CN/licenses#lekt6101)）
+:::
+::: no-header
+|   |   |
+| --- | --- |
+| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
+:::
+***श्रீगणनाथ / ⟪श्रीगणनाथ⟫*** by Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
-Komponist und Dichter: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564) <!-- TODO: Fallback translation -->
+作曲者与诗人：Purandaradāsa（ಪುರಂದರ ದಾಸ）(1484 - 1564)
 
-Rāga: Malahari (zu ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை): <!-- TODO: Fallback translation -->
+Rāga：Malahari（对应于 ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை）：
 
-*   ārohaṇa: s r1 m1 p d1 S <!-- TODO: Fallback translation -->
+*   上行：s r1 m1 p d1 S
 
-*   avarohaṇa: S d1 p m1 g3 r1 s <!-- TODO: Fallback translation -->
+*   下行：S d1 p m1 g3 r1 s
 
-Tāla: Rūpaka: o |4 <!-- TODO: Fallback translation -->
+塔拉（节奏）：鲁帕卡（Rūpaka）：o |4
 
-:::media
+::: media
 ![](/images/lekt6119.webp)
-Abb.: Melodie, auf c bezogen, kann je nach Stimmlage transponiert werden.
-(Bildquelle: [Details](/licenses#lekt6119)) <!-- TODO: Fallback translation -->
+图：以c为基准的旋律，可根据音域进行移调。
+（图片来源：[详情](/zh-CN/licenses#lekt6119)）
 :::
-ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ steht am Beginn des Unterrichts in kannaresischer Musik. Siehe das Video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Zugriff am 2009-03-05  <!-- TODO: Fallback translation -->
+斯里伽纳塔 / ⟪श्रीगणनाथ⟫位于卡纳达音乐课程的开端。参见视频：[http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY)。——访问日期：2009-03-05
 
-Nachdem Sie jetzt die Grundlagen des Sanskrit gelernt haben, sind Sie hoffentlich wie die Kleinkinder im Video: manchmal ungeschickt, aber lern- und wissensbegierig und mit Freude bei der Sache. Behalten Sie bis an Ihr Lebensende "a beginner's mind". <!-- TODO: Fallback translation -->
+既然您已经掌握了梵语的基础知识，希望您能像视频中的幼儿一样：偶尔笨拙，但充满学习渴望、求知欲强，并乐在其中。请保持“初学者的心态”，直至生命尽头。
 
-:::
-center
-Das wünscht Ihnen Ihr Alois Payer <!-- TODO: Fallback translation -->
+::: center
+您的 Alois Payer 祝您
 
-Ofterdingen, 2009-03-09 <!-- TODO: Fallback translation -->
+奥弗特丁根，2009-03-09
 
-***⟪ॐ⟫*** <!-- TODO: Fallback translation -->
+***⟪ॐ⟫***
 
-ENDE DES SANSKRITKURSES <!-- TODO: Fallback translation -->
+梵语课程结束
 :::
 ---
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt6102:** [Bildquelle: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Zugriff am 2009-03-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6102:** [图片来源：世界银行 / Curt Carnemark。-- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/)。-- 访问日期：2009-03-06。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 
-**lekt6106:** ⟪काशीपुर⟫ [Bildquelle: Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)]] <!-- TODO: Fallback translation -->
+**lekt6106:** ⟪काशीपुर⟫ [图片来源：Sumit。-- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]]
 
-**lekt6107:** ⟪जोधपुर⟫ [Bildquelle: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt6107:** ⟪जोधपुर⟫ [图片来源：thebigdurian。-- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
 
-**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [Bildquelle: Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Zugriff am 2009-03-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6104:** 卡纳塔克邦 = ಕರ್ನಾಟಕ [图片来源：Jessica Rabbit's Flickr。-- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/)。-- 访问日期：2009-03-08。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 
-**lekt6105:** ⟪हरिद्वार⟫ [Bildquelle: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Zugriff am 2009-03-08. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt6105:** ⟪हरिद्वार⟫ [图片来源：Naresh Dhiman。-- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/)。-- 访问日期：2009-03-08。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de) (署名)]
 
-**lekt6103:** [Bildquelle: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Zugriff am 2009-03-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt6103:** [图片来源：frisse82。-- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/)。-- 访问日期：2009-03-08。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (署名，非商业性使用)]
 
-**lekt6109:** ⟪मुंबई⟫ [Bildquelle: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6109:** ⟪मुंबई⟫ [图片来源：FrogStarB。-- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/)。--- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (署名，非商业性使用，禁止演绎)]
 
-**lekt6110:** Karli [Bildquelle: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6110:** 卡尔利 [图片来源：Makwa。-- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (署名，非商业性使用，禁止演绎)]
 
-**lekt6111:** [Bildquelle: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt6111:** [图片来源：technicolorcavalry。-- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-sa/2.0/deed.de)（署名，相同方式共享）]
 
-**lekt6113:** Thailand - เมืองไทย [Bildquelle: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6113:** 泰国 - เมืองไทย [图片来源：Sailing "Footprints: Real to Reel" (Ronn ashore)。-- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 
-**lekt6112:** 1845 - 1878 Professor der indisch-orientalischen Philologie an der Universität Kopenhagen <!-- TODO: Fallback translation -->
+**lekt6112:** 1845 - 1878年 哥本哈根大学印度东方语文学教授
 
-**lekt6114:** Santa Cruz Basilica, Kochi = കൊച്ചി [Bildquelle: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt6114:** 科钦圣十字大教堂 = കൊച്ചി [图片来源：monsieur paradis。-- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc/2.0/deed.de)（署名，非商业性使用）]
 
-**lekt6118:** [Bildquelle: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt6118:** [图片来源：mckaysavage。-- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de) (署名)]
 
-**lekt6117:** Apatani-Volk, Arunachal Pradesh [Bildquelle: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt6117:** 阿帕塔尼族，阿鲁纳恰尔邦 [图片来源：ahinsajain。-- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/)。-- 访问日期：2009-03-09。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de) (署名)]
 
-**lekt6101:** Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt6101:** 哈莱比杜（ಹಳೆಬೀಡು），公元12/13世纪 [图片来源：Quadell / 维基百科。GNU自由文档许可证]
 
 :::

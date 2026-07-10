@@ -23,7 +23,7 @@ status: stable
 
 ⟪बन्ध्⟫ 9P "binden"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ |
@@ -32,7 +32,7 @@ status: stable
 :::
 ⟪भाष्⟫ 1Ā "sprechen"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪बभाषिवहे⟫ |
@@ -43,7 +43,7 @@ status: stable
 
 ⟪भिद्⟫ 7U "to split"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪बिभिदिव⟫ | ⟪बिभिदिवहे⟫ |
@@ -56,7 +56,7 @@ status: stable
 
 ⟪नी⟫ 1U "to lead"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪निन्यिव⟫ | ⟪निन्यिवहे⟫ |
@@ -65,7 +65,7 @@ status: stable
 :::
 ⟪स्तु⟫ 2U (⟪अनिट्⟫) "to praise"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुष्टुव⟫ | ⟪तुष्तुवहे⟫ |
@@ -74,7 +74,7 @@ status: stable
 :::
 ⟪कृ⟫ 8U (⟪अनिट्⟫) "to do, to make"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
@@ -85,7 +85,7 @@ status: stable
 
 ⟪स्मृ⟫ 1P "to make present"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
@@ -96,7 +96,7 @@ status: stable
 
 ⟪दा⟫ 3U "to give"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪ददिव⟫ | ⟪ददिवहे⟫ |
@@ -111,7 +111,7 @@ status: stable
 
 ⟪गम्⟫ 1U "to go"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
@@ -122,7 +122,7 @@ status: stable
 
 ⟪पच्⟫ 1U "to cook"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
@@ -133,7 +133,7 @@ status: stable
 
 ⟪क्रम्⟫ 1U "to stride"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
@@ -144,7 +144,7 @@ status: stable
 
 ⟪गण्⟫ 10P "to count"
 
-:::grammar-box
+::: grammar-box
 |   | **⟪परस्मैपदम्⟫** |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
@@ -153,7 +153,7 @@ status: stable
 :::
 ⟪आस्⟫ 2Ā "to sit"
 
-:::grammar-box
+::: grammar-box
 |   | **⟪आत्मनेपदम्⟫** |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
@@ -162,7 +162,7 @@ status: stable
 :::
 ## 60.4. The Participle ⟪परस्मैपद⟫ of the reduplicated perfect (⟪द्वित्वलिट्⟫)
 
-:::grammar-box
+::: grammar-box
 **Formation:**
 
 **weak perfect stem + vāṃs**
@@ -178,7 +178,7 @@ Examples:
 | ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "one who has cooked" |
 | ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "one who has gone" |
 
-:::grammar-box
+::: grammar-box
 **Declension:**
 
 *   **strong stem: -vāṃs**
@@ -196,21 +196,22 @@ Example: ⟪विदुषी⟫ "a knowing one"
 :::
 Paradigms see Kielhorn, Grammar § 124:
 
-:::media
+::: media
 ![](/images/lekt6001.webp)
 (Image source: [Details](/en/licenses#lekt6001))
-::::::media
+:::: media
 ![](/images/lekt6002.webp)
 (Image source: [Details](/en/licenses#lekt6002))
+::::
 :::
 ## 60.5. Declension of stems ending in -añc (-ac)
 
-:::grammar-box
+::: grammar-box
 **Stems ending in -añc/-ac are compounds of prefixes, etc., with the root noun of the root ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "to move".**
 :::
 ### 60.5.1. Tri-stemmed stems in -añc
 
-:::grammar-box
+::: grammar-box
 **Formation:**
 
 *   **strong stem: -añc**
@@ -232,12 +233,13 @@ Example: ⟪प्रतीची⟫
 :::
 ####  Paradigms see Kielhorn, Grammar § 128:
 
-:::media
+::: media
 ![](/images/lekt6003.webp)
 (Image source: [Details](/en/licenses#lekt6003))
-::::::media
+:::: media
 ![](/images/lekt6004.webp)
 (Image source: [Details](/en/licenses#lekt6004))
+::::
 :::
 Here belong:
 
@@ -257,7 +259,7 @@ Here belong:
 
 ### 60.5.2. Two-stemmed tribes on -añc
 
-:::grammar-box
+::: grammar-box
 **Formation:**
 
 *   **strong stem: -añc**
@@ -281,7 +283,7 @@ The main directions of the sky
 
 ## 60.6. The Desiderative (⟪सन्⟫)
 
-:::grammar-box
+::: grammar-box
 **A desiderative (⟪सन्⟫) can be formed from every root as well as from the causative. The desiderative can be conjugated in all tenses and moods of the P, Ā and Passive. Desiderative forms outside the present stem, however, are very rare.**
 
 **Meaning:**
@@ -299,7 +301,7 @@ The main directions of the sky
 
 ### 60.6.1. Formation of the Desiderative Stem
 
-:::grammar-box
+::: grammar-box
 **Roots of Present Classes 1 - 9:**
 
 **reduplicated root + sa**
@@ -313,7 +315,8 @@ See Kielhorn, Grammar §§ 443 - 445 for the rules on the use of the connecting 
 **Roots of the 10th Present Class and Causatives:**
 
 **reduplicated present stem + i + ṣa**
-::::::grammar-box
+:::
+::: grammar-box
 **Form of the Root:**
 
 1.  The root is mostly in the guṇa grade: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
@@ -349,7 +352,8 @@ See Kielhorn, Grammar §§ 443 - 445 for the rules on the use of the connecting 
              
         2.  optional: roots of the form Consonant - (Consonant -) i/u - Consonant except -v\_  
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "to wish to flash"
-::::::grammar-box
+:::
+::: grammar-box
 **On Reduplication:**
 
 1.  Consonant-initial roots: Reduplication occurs on the roots modified according to the above rules, following the usual rules. Instead of a as the reduplication vowel, i appears:  
@@ -365,57 +369,61 @@ See Kielhorn, Grammar §§ 443 - 445 for the rules on the use of the connecting 
     ⟪ऋ⟫ » ⟪अरिरिष⟫-  
      
 3.  On the special desiderative formation of certain roots, see Kielhorn, Grammar § 451.
-::::::grammar-box
+:::
+::: grammar-box
 **Desideratives without desiderative meaning are formed for some roots. Desideratives with desiderative meaning can be formed for these desideratives.**
 :::
 List in Kielhorn, Grammar § 452:
 
-:::media
+::: media
 ![](/images/lekt6006.webp)
 (Image source: [Details](/en/licenses#lekt6006))
 :::
 ### 60.6.2. Conjugation of the Desiderative (⟪सन्⟫)
 
-::::grammar-box
+::: grammar-box
 **The Desiderative is - with a few exceptions - P, Ā, or U, depending on whether the underlying root (or underlying verbal stem) is P, Ā, or U.**
 
 **Present stem: Conjugated like a thematic stem:**
 
 ⟪यज्⟫ 1U:
 
-:::indent
+:::
+::: indent
 P: ⟪यियक्षति⟫ "he wishes to sacrifice for another"
 Ā: ⟪यियक्षते⟫ "he wishes to sacrifice for himself (as the sacrificer)"
 Passive: ⟪यियक्ष्यते⟫ "it is wished to sacrifice"
 :::
 **Perfect: periphrastic:**
 
-:::indent
+::: indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "he wished to attain"
 :::
 **Aorist: iṣ-Aorist:**
 
-:::indent
+::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
 **Future: ⟪सेट्⟫**
 
-:::indent
+::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
-:::::::
+:::
 For the formation of agent nouns in -u from the desiderative stem, see [Lesson 54](lektion54.md).
 
 ## 60.7. Exercise
 
 A) Study in Kielhorn, Grammar § 451 the irregular desiderative formations for verbs learned so far:
 
-:::media
+::: media
 ![](/images/lekt6007.webp)
 (Image source: [Details](/en/licenses#lekt6007))
-::::::media
+:::: media
 ![](/images/lekt6008.webp)
 (Image source: [Details](/en/licenses#lekt6008))
-::::::media
+::::
+:::
+::: media
 ![](/images/lekt6009.webp)
 (Image source: [Details](/en/licenses#lekt6009))
 :::

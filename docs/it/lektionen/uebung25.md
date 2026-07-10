@@ -10,8 +10,6 @@ last_reconstructed: 2026-05-15
 
 A) Completare gli esempi di declinazione della Lezione 16 aggiungendo il 4. Dativo (⟪चतुर्थी⟫) e il 5. Ablativo (⟪पञ्चमी⟫).
 
-:::grammar-box
-
 ### ⟪१⟫. **⟪सन्त्⟫** (essere, buono)
 
 | Caso | m. Singolare | m. Plurale | n. Singolare | n. Plurale |
@@ -41,7 +39,6 @@ A) Completare gli esempi di declinazione della Lezione 16 aggiungendo il 4. Dati
 | 3. Instr. | ⟪येन⟫ | ⟪यैः⟫ | ⟪येन⟫ | ⟪यैः⟫ | ⟪यया⟫ | ⟪याभिः⟫ |
 | 4. Dat. | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्यै⟫ | ⟪याभ्यः⟫ |
 | 5. Abl. | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्याः⟫ | ⟪याभ्यः⟫ |
-:::
 B) Tradurre e risolvere i composti in sanscrito:
 
 ⟪१⟫. **⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫**
@@ -66,7 +63,7 @@ I Buddha e gli Arhat sono liberati dalla sofferenza. Hanno infatti raggiunto la 
 ⟪७⟫. **⟪लोभ⟫en ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫**
 A causa dell'avidità, dell'odio e dell'ignoranza, gli uomini si corrompono. Quando è giunto il momento, cadono poi in un inferno.
 
-:::media
+::: media
 ![](/images/uebung040.webp)
 Fig.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung040))
@@ -117,7 +114,7 @@ Se qualcuno emette un falso verdetto giudiziario per superbia, avidità, ira o p
 ⟪दारिद्र्यमप्रदानेन⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫  
 Gli inferni sorgono a causa del male, il male sorge dalla povertà, la povertà sorge dal non dare.
 
-:::media
+::: media
 ![](/images/uebung041.webp)
 Fig.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung041))
@@ -133,7 +130,7 @@ Un ladro viene liberato dalla colpa del furto mediante la punizione o mediante i
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
 L'economia è utile perché produce grano, bestiame, oro, metalli e lavoro.
 
-:::media
+::: media
 ![](/images/uebung042.webp)
 Fig.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung042))

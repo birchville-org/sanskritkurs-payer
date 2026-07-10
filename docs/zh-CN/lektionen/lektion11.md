@@ -1,151 +1,151 @@
 ---
-title: Lektion 11
-subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
+title: 第11课
+subtitle: "双重宾语（人与事物的宾格）"
 lesson_id: 11
 last_reconstructed: 2026-05-07
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 11
 
-:::deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Den doppelten Akkusativ (Akkusativ der Person und der Sache) <!-- TODO: Fallback translation -->
-- Den Gebrauch der Partikel **iti**, **evam** und **na** <!-- TODO: Fallback translation -->
-- Grundlegende Begriffe wie **dharma**, **adharma** und **putra** <!-- TODO: Fallback translation -->
-- Die Bildung von Nomina zu den Wurzeln **vad**, **prach** und **iṣ** <!-- TODO: Fallback translation -->
+::: deleteme-box
+**在本课中，您将学习：**
+- 双宾语（人称宾语与事物宾语）
+- 小品词 **iti**、**evam** 和 **na** 的用法
+- 基本概念如 **dharma**、**adharma** 和 **putra**
+- 由词根 **vad**、**prach** 和 **iṣ** 构成名词的方法
 :::
-## 11.1. Doppelter Akkusativ
+## 11.1. 双宾语
 
-:::grammar-box
-**Einige Verben können einen doppelten Akkusativ (dvitīyā) regieren: Akkusativ der Person und Akkusativ der Sache.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**某些动词可支配双宾格（dvitīyā）：表示人的宾格和表示事物的宾格。**
 
-**Hierzu gehören:** <!-- TODO: Fallback translation -->
-- **Verben des Sprechens**: spreche zu jemandem (Akkusativ) über etwas (Akkusativ); jemandem (Akkusativ) etwas (Akkusativ) sagen <!-- TODO: Fallback translation -->
-- **Verben des Fragens**: jemanden (Akkusativ) nach etwas (Akkusativ) fragen <!-- TODO: Fallback translation -->
-- **Verben des Lehrens**: jemanden (Akkusativ) etwas (Akkusativ) lehren <!-- TODO: Fallback translation -->
-- einige weitere Verben, bei denen es in den Wortlisten vermerkt wird <!-- TODO: Fallback translation -->
+**包括以下内容：**
+- **表“说”的动词**：对某人（宾格）说关于某事（宾格）；对某人（宾格）说某事（宾格）
+- **表“问”的动词**：向某人（宾格）询问某事（宾格）
+- **表“教”的动词**：教某人（宾格）某事（宾格）
+- 其他一些动词，其用法会在词汇表中注明
 
-**Wird eine solche Konstruktion ins Passiv gesetzt, wird die Person (die gefragt wird usw.) in den Nominativ (prathamā) gesetzt, die Sache (nach der gefragt wird usw.) bleibt im Akkusativ.** <!-- TODO: Fallback translation -->
+**如果将此类结构变为被动语态，被询问的人（即提问者等）将被置于主格（prathamā），而被询问的事物（即被问的内容等）则保留在宾格。**
 
-z.B. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt den Brahmanen nach dem Dharma."
-» Passiv: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫ <!-- TODO: Fallback translation -->
+例如，**rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = “罗摩向婆罗门询问正法。”
+» 被动语态：**rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫
 
-**Diese Regel gilt nur, wenn sowohl Person als auch Sache Objekt sind. Ist eine Sache das einzige Objekt, steht diese nach dem Grundschema des Passivsatzes im Nominativ (prathamā):** <!-- TODO: Fallback translation -->
+**此规则仅在人与物均为宾语时适用。若物为唯一宾语，则依被动句基本模式置于主格（第一格）：**
 
-z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt nach dem Dharma."
-» Passiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫ <!-- TODO: Fallback translation -->
+例如，**rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = “罗摩询问正法。”
+» 被动语态：**rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
 :::
 ---
 
 ## 11.2. Wortliste
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**学习以下词汇：**
 
-- **iti** ⟪इति⟫ : so <!-- TODO: Fallback translation -->
-  - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen ("). <!-- TODO: Fallback translation -->
-  - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen". <!-- TODO: Fallback translation -->
-  - Im Sanskrit gibt es keine indirekte Rede; Bildungen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden. <!-- TODO: Fallback translation -->
-  - **... (Zitat) ... iti śrutiḥ** = "so der Veda". <!-- TODO: Fallback translation -->
-  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er..."). <!-- TODO: Fallback translation -->
+- **iti** ⟪इति⟫ : so
+  - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
+  - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
+  - Im Sanskrit gibt es keine indirekte Rede; Bildungen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
+  - **... (Zitat) ... iti śrutiḥ** = "so der Veda".
+  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergegeben (z.B. "Weil er Hunger hat, geht er...").
 
-- **evam** ⟪एवम्⟫ : so (adverbiell, z.B. **evaṃ jayati** "so siegt er"). <!-- TODO: Fallback translation -->
-- **na** ⟪न⟫ : nicht <!-- TODO: Fallback translation -->
-  - Verneint einzelne Worte (steht unmittelbar davor: **na sādhuḥ** "ein nicht guter") oder ganze Sätze (steht zu Beginn oder unmittelbar vor dem Verb). <!-- TODO: Fallback translation -->
+- **evam** ⟪एवम्⟫ : 如此（副词用法，例如 **evaṃ jayati** “如此他获胜”）。
+- **na** ⟪न⟫ : 不
+  - 否定单个词语（位于该词之前：**na sādhuḥ** “一个不好的”）或整个句子（位于句首或动词之前）。
 
-- **putra** m. ⟪पुत्र⟫ : Sohn (In Indien war es notwendig, einen Sohn zu zeugen, der die Opfer für die Vorfahren darbringen konnte.) <!-- TODO: Fallback translation -->
-- **dharma** m. ⟪धर्म⟫ : ("das, was fest ist", d.h.) Recht, Gesetz, Sitte, Charakter. <!-- TODO: Fallback translation -->
-  - Entspricht am ehesten dem Naturgesetz/Sittengesetz. Jeder hat nach **varṇa** und **āśrama** (Lebensstadium) seine eigenen Pflichten (**svadharma**). <!-- TODO: Fallback translation -->
-- **adharma** m. ⟪अधर्म⟫ : Unrecht (Gegensatz zu **dharma**). <!-- TODO: Fallback translation -->
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : wünschen (**iṣ-ccha-ti**). <!-- TODO: Fallback translation -->
+- **putra** m. ⟪पुत्र⟫ : 儿子（在印度，有必要生育一个儿子，以便为祖先举行祭祀。）
+- **dharma** m. ⟪धर्म⟫ : （“那稳固之物”，即）正义、法律、习俗、品格。
+  - 最接近自然法则/道德法则。每个人都根据**varṇa**和**āśrama**（人生阶段）承担其自身的职责（**svadharma**）。
+- **adharma** m. ⟪अधर्म⟫ : 不义（与**dharma**相对）。
+- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : 渴望（**iṣ-ccha-ti**）。
 
-**Einige Nominalbildungen:** <!-- TODO: Fallback translation -->
+**一些名词构成：**
 
-- **vad** 1 P ⟪वद्⟫ : sagen <!-- TODO: Fallback translation -->
-  - **vāda** m. ⟪वाद⟫ : Ausspruch, Aussage, Wort <!-- TODO: Fallback translation -->
-  - **vadana** n. ⟪वदन⟫ : das Sprechen; Sprechwerkzeug: Mund, Gesicht <!-- TODO: Fallback translation -->
+- **vad** 1 P ⟪⟪वद्⟫⟫ : 说
+  - **vāda** m. ⟪⟪वाद⟫⟫ : 声明，陈述，话语
+  - **vadana** n. ⟪⟪वदन⟫⟫ : 说话；说话的工具：嘴，脸
 
-:::media
+::: media
 ![](/images/lekt1102.webp)
 Abb.: **vadanāni** = ⟪वदनानि⟫
-(Bildquelle: [Details](/licenses#lekt1102)) <!-- TODO: Fallback translation -->
+(图片来源：[详细信息](/zh-CN/licenses#lekt1102))
 :::
-- **prach** 6 P ⟪प्रच्छ्⟫ : fragen <!-- TODO: Fallback translation -->
-  - **praśna** m. ⟪प्रश्न⟫ : Frage (Suffix **-na** wie in **yaj-ña**) <!-- TODO: Fallback translation -->
+- **prach** 6 P ⟪प्रच्छ्⟫ ：询问
+  - **praśna** m. ⟪प्रश्न⟫ ：问题（后缀 **-na** 同 **yaj-ña**）
 
-- **iṣ** 6 P ⟪इष्⟫ : wünschen <!-- TODO: Fallback translation -->
-  - **iṣṭi** f. ⟪इष्टि⟫ : Wunsch (**iṣ** + **-ti**) <!-- TODO: Fallback translation -->
+- **iṣ** 第六人称 ⟪इष्⟫ : 渴望
+  - **iṣṭi** 阴性名词 ⟪इष्टि⟫ : 愿望（**iṣ** + **-ti**）
 
 ---
 
 ## 11.3. Übung
 
-**A) Übersetzen Sie untenstehende Sätze:** <!-- TODO: Fallback translation -->
+**A) 翻译下列句子：**
 
-1. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ | <!-- TODO: Fallback translation -->
-2. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ | <!-- TODO: Fallback translation -->
-3. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ | <!-- TODO: Fallback translation -->
-4. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ | <!-- TODO: Fallback translation -->
-5. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ | <!-- TODO: Fallback translation -->
-6. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ | <!-- TODO: Fallback translation -->
-7. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ | <!-- TODO: Fallback translation -->
-8. ⟪क्षत्रियः⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫ <!-- TODO: Fallback translation -->
-9. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ | | <!-- TODO: Fallback translation -->
-10. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ | | <!-- TODO: Fallback translation -->
-11. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ | | <!-- TODO: Fallback translation -->
-12. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ || <!-- TODO: Fallback translation -->
+1. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ |
+2. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ |
+3. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ |
+4. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ |
+5. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ |
+6. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ |
+7. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ |
+8. ⟪क्षत्रियः⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫
+9. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ | |
+10. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ | |
+11. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ | |
+12. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ||
 
-**B) Setzen Sie die Sätze von A) in Passivkonstruktion.** <!-- TODO: Fallback translation -->
+**B) 将A)中的句子转换为被动语态结构。**
 
-**C) Setzen Sie in den Sätzen A), wo es sinnvoll ist, Subjekt, Objekt und Prädikat in den Plural.** <!-- TODO: Fallback translation -->
+**C) 在句子 A) 中，如合适，请将主语、宾语和谓语变为复数形式。**
 
-**D) Bilden Sie zu den nach C) gebildeten Sätzen die Passivkonstruktion.** <!-- TODO: Fallback translation -->
+**D) 根据C)中构成的句子，构建被动语态结构。**
 
-:::media
+::: media
 ![](/images/lekt1101.webp)
-Abb.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
-(Bildquelle: [Details](/licenses#lekt1101)) <!-- TODO: Fallback translation -->
+图：**śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt1101)）
 :::
 ---
 
 ## 11.4. Wiederholungsübung
 
-**A) Übersetzen Sie ins Sanskrit mit Passivkonstruktionen:** <!-- TODO: Fallback translation -->
-1. Vaiśyafrauen fragen Brahmanen nach dem Dharma. <!-- TODO: Fallback translation -->
-2. Der Lehrer spricht ein Mantra. <!-- TODO: Fallback translation -->
-3. Heilige Frauen gelangen in einen Himmel. <!-- TODO: Fallback translation -->
-4. Ein vedischer Weiser tut nichts Böses. <!-- TODO: Fallback translation -->
-5. Brahmanen verehren als Opferpriester die Göttin mit Opfern. <!-- TODO: Fallback translation -->
-6. Die Śūdrafrau geht ins Dorf. <!-- TODO: Fallback translation -->
-7. Wer sieht die Wahrheit? <!-- TODO: Fallback translation -->
+**A) 用带有被动结构的梵语翻译：**
+1. 吠舍妇女向婆罗门询问达摩。
+2. 老师诵念一个曼怛罗。
+3. 圣洁的女性升入一个天界。
+4. 一位吠陀仙人不做任何坏事。
+5. 婆罗门作为祭祭司以供品崇拜女神。
+6. 首陀罗妇女前往村庄。
+7. 谁看到了真理？
 
-**B)** <!-- TODO: Fallback translation -->
-1. Geben Sie mit einem Dvandva die Aufgaben aller Zweimalgeborenen an. Lösen Sie das Kompositum in Sanskrit auf. <!-- TODO: Fallback translation -->
-2. Geben Sie mit einem Dvandva die Aufgaben der Vaiśyas an. Lösen Sie das Kompositum in Sanskrit auf. <!-- TODO: Fallback translation -->
+**B)**
+1. 使用复合词（Dvandva）说明所有再生族（Dvija）的职责。用梵语分解该复合词。
+2. 使用复合词（Dvandva）说明吠舍（Vaiśyas）的职责。用梵语分解该复合词。
 
-**C) Übersetzen Sie:** <!-- TODO: Fallback translation -->
+**C) 翻译：**
 
-1. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ | | <!-- TODO: Fallback translation -->
-2. ⟪कर्षर्कैः⟫ ⟪कृष्यते⟫ | | <!-- TODO: Fallback translation -->
-3. ⟪श्रावकेणेश्वरो⟫ ⟪नेज्यते⟫ | | <!-- TODO: Fallback translation -->
-4. ⟪रक्षिक्या⟫ ⟪गुरू⟫ ⟪रक्ष्यते⟫ | | <!-- TODO: Fallback translation -->
-5. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यते⟫ | | <!-- TODO: Fallback translation -->
-6. ⟪शूद्रेतरा⟫ | | <!-- TODO: Fallback translation -->
-7. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ | | <!-- TODO: Fallback translation -->
-8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ || <!-- TODO: Fallback translation -->
+1. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ | |
+2. ⟪कर्षर्कैः⟫ ⟪कृष्यते⟫ | |
+3. ⟪श्रावकेणेश्वरो⟫ ⟪नेज्यते⟫ | |
+4. ⟪रक्षिक्या⟫ ⟪गुरू⟫ ⟪रक्ष्यते⟫ | |
+5. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यते⟫ | |
+6. ⟪शूद्रेतरा⟫ | |
+7. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ | |
+8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ||
 
-**D) Übersetzen Sie und setzen Sie in Sanskrit Agens, Objekt und Verb in den Plural:** <!-- TODO: Fallback translation -->
+**D) 翻译并转换为梵语复数形式的施事、受事和动词：**
 
-1. ⟪फलमश्नुते⟫ | | <!-- TODO: Fallback translation -->
-2. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ | | <!-- TODO: Fallback translation -->
-3. ⟪वैश्यः⟫ ⟪पशुं⟫ ⟪लभते⟫ | | <!-- TODO: Fallback translation -->
-4. ⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ || <!-- TODO: Fallback translation -->
+1. ⟪फलमश्नुते⟫ | |
+2. ⟪⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ | |
+3. ⟪⟪वैश्यः⟫ ⟪पशुं⟫ ⟪लभते⟫ | |
+4. ⟪⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ||
 
-**E) Verwandeln Sie die Sätze C) 1-5 in Aktivkonstruktionen.** <!-- TODO: Fallback translation -->
+**E) 将句子 C) 1-5 转换为主动结构。**
 
-:::media
+::: media
 ![](/images/lekt1103.webp)
-Abb.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
-(Bildquelle: [Details](/licenses#lekt1103)) <!-- TODO: Fallback translation -->
+图：**karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
+（图片来源：[详情](/zh-CN/licenses#lekt1103)）
 :::

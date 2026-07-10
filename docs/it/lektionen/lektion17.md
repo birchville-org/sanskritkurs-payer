@@ -1,9 +1,9 @@
 ---
-title: Lezione 17
-subtitle: "Seconda classe del presente (⟪अदादि⟫ = ⟪अद्⟫ ecc.)"
+title: Lektion 17
+subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
-category: "Grammatica"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,31 +11,29 @@ status: stable
 
 ## 17.1. Seconda classe del presente (⟪अदादि⟫ = ⟪अद्⟫ ecc.)
 
-Le desinenze verbali si attaccano direttamente alla radice. In questo contesto, è necessario prestare attenzione alle variazioni fonetiche risultanti dal sandhi lessicale.
+Le desinenze verbali si attaccano direttamente alla radice. In questo caso, bisogna tenere conto delle alterazioni fonetiche risultanti dal sandhi lessicale.
 
-::::grammar-box
+::: grammar-box
 
 Esistono le seguenti forme di formazione nella seconda classe del presente:
 
-1.  Radici con ablazione della radice (stemma)
-    *   nella maggior parte dei casi: grado pieno - grado ridotto
+1.  Radici con ablaut della radice
+    *   per lo più: grado pieno - grado ridotto
     *   alcune radici: grado allungato - grado ridotto
-2.  Radici senza ablazione della radice (stemma)
-3.  Radici bisillabiche in -i/-ī con ablazione della radice (stemma)
+2.  Radici senza ablaut della radice
+3.  Radici bisillabe in -i/-ī con ablaut della radice
 
-::::
-## 17.2. Radici della seconda classe di presente con alternanza di grado della radice: grado forte - grado debole
+:::
+## 17.2. Radici della seconda classe del presente con ablaut della radice grado pieno - grado ridotto
 
 Esempi:
 
 ⟪द्विष्⟫ 2 U "odiare"
 
-*   radice di presente forte: dveṣ-
-*   radice di presente debole: dviṣ-
+*   tema del presente forte: dveṣ-
+*   tema del presente debole: dviṣ-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -44,25 +42,24 @@ Esempi:
 | 3\. sg. Pres. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
 | 3\. pl. Pres. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
-:::::::
-In questo caso opera la seguente regola di sandhi lessicale:
+:::
+In questo caso, agisce la seguente regola del sandhi lessicale:
 
+::: grammar-box
 Sandhi lessicale di -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
-
+:::
 Altri esempi:
 
 ⟪इ⟫ 2 P "andare" (Ā dopo certe preverbi)
 
-*   radice di presente forte: e-
-*   radice di presente debole:
+*   tema del presente forte: e-
+*   tema del presente debole:
     *   davanti a consonante: i-
     *   davanti a vocale: y-/iy-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -71,15 +68,13 @@ Altri esempi:
 | 3\. sg. Pres. Ā | ⟪इते⟫ (i-te) |
 | 3\. pl. Pres. Ā | ⟪इयते⟫ (iy-ate) |
 
-:::::::
+:::
 ⟪दुह्⟫ 2 U "mungere"
 
-*   radice di presente forte: doh-
-*   radice di presente debole: duh-
+*   tema del presente forte: doh-
+*   tema del presente debole: duh-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -88,17 +83,15 @@ Altri esempi:
 | 3\. sg. Pres. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
 | 3\. pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) |
 
-:::::::
-⟪हन्⟫ 2 P "colpire, uccidere"
+:::
+⟪हन्⟫ 2 P "colpire, uccidere, ammazzare"
 
-*   radice di presente forte: han-
-*   radice di presente debole:
+*   tema del presente forte: han-
+*   tema del presente debole:
     *   davanti a consonante: ha- (« \*hn-)
     *   davanti a vocale: ghn-/han-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -107,206 +100,194 @@ Altri esempi:
 | 3\. sg. Pres. Ā | ⟪हते⟫ (ha-te) |
 | 3\. pl. Pres. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
-:::::::
+:::
 ⟪अस्⟫ 2 P "essere"
 
-*   radice di presente forte: as-
-*   radice di presente debole: s-
+*   tema del presente forte: as-
+*   tema del presente debole: s-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | ⟪अस्ति⟫ (as-ti) |
 | 3\. pl. Pres. P | ⟪सन्ति⟫ (s-anti) |
 
-:::::::
-## 17.3. Radici della seconda classe del presente con alternanza di grado della radice: grado allungato - grado ridotto
+:::
+## 17.3. Radici della seconda classe del presente con ablaut della radice grado allungato - grado ridotto
 
 Esempio:
 
 ⟪स्तु⟫ 2 U "lodare"
 
-*   radice del presente forte: stau-
-*   radice del presente debole:
+*   tema del presente forte: stau-
+*   tema del presente debole:
     *   davanti a consonante: stu-
     *   davanti a vocale: stuv-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sing. Pres. P | ⟪स्तौति⟫ (stau-ti):broppure: ⟪स्तवीति⟫ |
+| 3\. sg. Pres. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
 | 3\. pl. Pres. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
-| 3\. sing. Pres. Ā | ⟪स्तुते⟫ (stu-te) |
+| 3\. sg. Pres. Ā | ⟪स्तुते⟫ (stu-te) |
 | 3\. pl. Pres. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
-:::::::
-## 17.4. Radici della seconda classe del presente senza ablaut
+:::
+## 17.4. Radici della seconda classe del presente senza ablaut della radice
 
-Senza ablaut, le radici della seconda classe del presente terminano in -ā
-
+::: grammar-box
+Senza ablaut della radice sono le radici della seconda classe del presente in -ā
+:::
 Esempio:
 
 ⟪पा⟫ 2 P "proteggere, custodire, difendere"
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | ⟪पाति⟫ (pā-ti) |
 | 3\. pl. Pres. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
-:::::::
-Anche altre radici della seconda classe non presentano ablaut:
+:::
+Anche alcune altre radici della seconda classe non presentano ablazione del tema:
 
 Esempi:
 
 ⟪अद्⟫ 2 P "mangiare"
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | ⟪अत्ति⟫ (« ad- + -ti) |
 | 3\. pl. Pres. P | ⟪अदन्ति⟫ (ad-anti) |
 
-:::::::
+:::
 ⟪आस्⟫ 2 Ā "sedersi"
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. Ā | ⟪आस्ते⟫ (ās-te) |
 | 3\. pl. Pres. Ā | ⟪आसते⟫ (ās-ate) |
 
-:::::::
+:::
 ⟪वच्⟫ 2 P "dire"
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Pres. P | non si attesta |
+| 3\. pl. Pres. P | non si riscontra |
 
-:::::::
-## 17.5. Radici bisillabiche in -i/-ī con ablazione della radice
+:::
+## 17.5. Radici bisillabe in -i/-ī con ablazione del tema
 
-Diverse radici presentano, in una serie di forme, una struttura bisillabica, ovvero possiedono una vocale -i (o, in alcuni casi, -ī) prima di desinenze consonantiche. Nonostante ciò, i grammatici tradizionali e i lessici le classificano comunque come radici monosillabiche.
+Diverse radici sono bisillabe in una serie di forme, cioè presentano una -i (o in alcuni casi -ī) prima di desinenza consonantica. Queste radici vengono tuttavia considerate dai grammatici indigeni e nei dizionari ecc. come monosillabiche.
 
 Esempi:
 
 ⟪रुद्⟫ 2 P "piangere, ululare"
 
-*   tema forte del presente: rodi-
-*   tema debole del presente:
+*   tema del presente forte: rodi-
+*   tema del presente debole:
     *   prima di consonante: rudi-
     *   prima di vocale: rud-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sing. Pres. P | ⟪रोदिति⟫ (rodi-ti) |
+| 3\. sg. Pres. P | ⟪रोदिति⟫ (rodi-ti) |
 | 3\. pl. Pres. P | ⟪रुदन्ति⟫ (rud-anti) |
 
-:::::::
+:::
 ⟪ब्रू⟫ 2 U "parlare"
 
-*   tema forte del presente: bravī- (« bro- + -ī)
-*   tema debole del presente:
-    *   prima di consonante: brū-
+*   tema del presente forte: bravī- (« bro- + -ī)
+*   tema del presente debole:
+    *   vor Konsonant: brū-
     *   prima di vocale: bruv-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sing. Pres. P | ⟪ब्रवीति⟫ (bravī-ti) |
+| 3\. sg. Pres. P | ⟪ब्रवीति⟫ (bravī-ti) |
 | 3\. pl. Pres. P | ⟪ब्रुवन्ति⟫ (bruv-anti) |
-| 3\. sing. Pres. Ā | ⟪ब्रूते⟫ (brū-te) |
+| 3\. sg. Pres. Ā | ⟪ब्रूते⟫ (brū-te) |
 | 3\. pl. Pres. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
-:::::::
-Anche ⟪स्तु⟫ 2 U "lodare" presenta, oltre alle forme indicate al punto 3, forme secondo questo schema:
+:::
+Anche ⟪स्तु⟫ 2 U "lodare" ha, accanto alle forme indicate al punto 3, forme secondo questo modello:
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sing. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broppure: ⟪स्तौति⟫ |
+| 3\. sg. Pres. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
-:::::::
-## 17.6. Glossario
+:::
+## 17.6. Lista di parole
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫ PPP ⟪हत⟫ : colpire, uccidere, ammazzare
 
-da ciò:
+di cui:
 
-:::indent
+::: indent
 ⟪घात⟫ m.: uccisione
-::::::media
+:::
+
+::: media
 ![](/images/lekt1703.webp)
 Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1703))
 :::
-⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sedere
+⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : sedersi
 
-da ciò:
+di cui:
 
-:::indent
-⟪आसन⟫ n.: il sedersi, sedile; anche: posizioni yogiche (āsana)
-::::::media
+::: indent
+⟪आसन⟫ n.: il sedersi, posizione seduta; anche: posizioni di meditazione dello yogin
+:::
+
+::: media
 ![](/images/lekt1701.webp)
 Fig.: ⟪योगासनम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1701))
 :::
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : piangere, ululare
 
-da ciò:
+di cui:
 
-:::indent
-⟪रुद्र⟫ m.: (l'Ululante =) il dio della tempesta Rudra
+::: indent
+⟪रुद्र⟫ m.: (l'ululante =) il dio della tempesta Rudra
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ nessun Passivo e PPP: parlare, dire (a qualcuno: doppio accusativo)
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ nessun Passivo e PPP: parlare, dire (qualcosa a qualcuno: doppio accusativo)
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : mungere
 
-:::media
+::: media
 ![](/images/lekt1702.webp)
 Fig.: ⟪दोग्धि⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : mostrare, indicare, ordinare
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : mostrare, ordinare, comandare
 
-da ciò:
+di cui:
 
-:::indent
-⟪दिष्टि⟫ f.: istruzione, felice combinazione
+::: indent
+⟪दिष्टि⟫ f.: istruzione, felice disposizione
 
-⟪दिष्ट्या⟫ Instr.: (letteralmente: attraverso una felice combinazione) O felice combinazione (esclamazione di gioia e beatitudine)
+⟪दिष्ट्या⟫ Strum.: (letteralmente: attraverso una felice disposizione) O felice disposizione (esclamazione di gioia e beatitudine)
 :::
+
 ## 17.7. Esercizio 1
 
 A) Inserite il verbo nelle seguenti frasi e traducete:
@@ -331,11 +312,11 @@ A) Inserite il verbo nelle seguenti frasi e traducete:
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫)
 
-B) Al plurale, inserite l'agente e il verbo nelle frasi formate nella sezione A).
+B) Inserite negli esempi formati in A) l'agente e il verbo al plurale
 
 ## 17.8. Esercizio 2
 
-Tradurre le seguenti forme verbali e indicare la radice corrispondente:
+Traducete le seguenti forme verbali e indicate la radice corrispondente:
 
 ⟪१⟫. ⟪अदन्ति⟫
 
@@ -429,12 +410,11 @@ Tradurre le seguenti forme verbali e indicare la radice corrispondente:
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
 
-:::deleteme-box
-
+::: deleteme-box
 
 **lekt1701:** [Fonte dell'immagine: di tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Accesso il 2008-12-07. -- Licenza Creative Commons (Attribuzione, nessuna opera derivata)]
 
-**lekt1702:** [Fonte dell'immagine: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Accesso il 2008-12-07. -- Licenza Creative Commons (Attribuzione, non commerciale, allo stesso modo)]
+**lekt1702:** [Fonte dell'immagine: Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Accesso il 2008-12-07. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)]
 
-**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Fonte dell'immagine: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Accesso il 2008-12-07. -- Licenza Creative Commons (Attribuzione, non commerciale)]
+**lekt1703:** Bangalore = ಬೆಂಗಳೂರು [Fonte dell'immagine: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Accesso il 2008-12-07. -- Licenza Creative Commons (Attribuzione, uso non commerciale)]
 :::

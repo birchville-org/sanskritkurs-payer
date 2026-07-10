@@ -6,7 +6,7 @@ The following two spellings are common:
 
 ![](/images/schrift026.jpg)
 
-Variant in the typeface of Kielhorn’s Grammar:
+Variant in the typeface of Kielhorn's Grammar:
 
 ![](/images/schrift027.jpg)
 
@@ -20,7 +20,7 @@ B) Read and transliterate:
 
 ⟪१२⟫ ⟪२३⟫ ⟪२४⟫ ⟪५३६⟫ ⟪६५⟫ ⟪८७⟫ ⟪१९४४⟫ ⟪२००८⟫ ⟪९९०⟫ ⟪८७⟫ ⟪७६⟫ ⟪६५⟫ ⟪५४⟫ ⟪४३⟫ ⟪३२⟫ ⟪२१⟫ ⟪१९⟫ ⟪२८⟫ ⟪८३⟫ ⟪७४⟫ ⟪५७⟫ ⟪६६⟫
 
-### Classification of Sanskrit Sounds (from: Kielhorn: Grammar of the Sanskrit Language)
+### Classification of the Sounds of Sanskrit (from: Kielhorn: Grammar of the Sanskrit Language)
 
 ![](/images/schrift028.webp)
 

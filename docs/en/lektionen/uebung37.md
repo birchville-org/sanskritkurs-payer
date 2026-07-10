@@ -6,12 +6,12 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Lesson 37
+# Exercise 37
 
 A) Answer the following questions in Sanskrit using the words specified in parentheses:
 
 ⟪१⟫. **⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
-- **⟪भिक्षवे⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫** (Or plural: **⟪भिक्षुभ्यो⟫ ...**)
+- **⟪भिक्षवे⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫** (Or rather Plural: **⟪भिक्षुभ्यो⟫ ...**)
 - **⟪बालायै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫**
 - **⟪दासाय⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫**
 - **⟪भगवते⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫**
@@ -81,16 +81,16 @@ A) Answer the following questions in Sanskrit using the words specified in paren
 
 ## Interrogative Sentences
 
-B) Translate:
+B) Translate the following:
 
 ⟪१⟫. **⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्रेषु⟫ ⟪वसेत्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Should someone whose insight is firmly established go into homelessness, or should he remain at home with his sons?
+Should one, whose insight is firmly established, go into homelessness, or should he remain at home with his sons?
 
 ⟪२⟫. **⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Does the Master also know the truth?
+Does the teacher also know the truth?
 
 ⟪३⟫. **⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Are the Śūdras perhaps servants of the Twice-born?
+Are the Śūdras perhaps servants of the twice-born?
 
 ⟪४⟫. **⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 Has the Śūdra perhaps borne the burden?
@@ -101,7 +101,7 @@ Has the Śūdra perhaps borne the burden?
 
 C) Determine and translate the following compounds:
 
-:::grammar-box
+::: grammar-box
 | Compound | Meaning | Explanation |
 | :--- | :--- | :--- |
 | **⟪अतिमात्रम्⟫** | excessively | ⟪मात्रामतीत्य⟫ (beyond measure) |
@@ -119,14 +119,16 @@ C) Determine and translate the following compounds:
 | **⟪आमरणम्⟫** | until death | ⟪आ⟫ ⟪मरणात्⟫ (until dying) |
 | **⟪उपवृक्षम्⟫** | at the tree | ⟪वृक्षस्य⟫ ⟪समीपे⟫ (near the tree) |
 | **⟪यथास्थानम्⟫** | in the right place | ⟪स्थानमनतिक्रम्य⟫ (not exceeding the place) |
-::::::media
+:::
+
+::: media
 ![](/images/uebung062.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
-(Image source: [Details](/en/licenses#uebung062))
+(Image source: [Details](/licenses#uebung062))
 :::
 ---
 
-## Narrative Perfect (The Story of the Old Man)
+## Narrative Perfect (The Story of the Elder)
 
 Translate into Sanskrit, using exclusively perfect tense verb forms:
 

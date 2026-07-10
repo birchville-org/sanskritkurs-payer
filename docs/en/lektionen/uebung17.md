@@ -12,7 +12,7 @@ A) Insert the verb in the following sentences and translate:
 
 ⟪१⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫) ⟪।⟫
 ⟪ब्रवीति⟫ ⟪।⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪वदति⟫ ⟪।⟫
-A Brāhmaṇa does not tell a lie.
+A Brahmana does not speak a lie.
 
 ⟪२⟫. ⟪क्षत्रियो⟫ ⟪जनान्⟫ ... (⟪पा⟫ ⟪।⟫ ⟪रक्ष्⟫) ⟪।⟫
 ⟪पाति⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫
@@ -20,11 +20,11 @@ A Kṣatriya protects the people.
 
 ⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫) ⟪।⟫
 ⟪द्विजारीञ्जयति⟫ ⟪।⟫ ⟪द्विजारीन्हन्ति⟫ ⟪।⟫ ⟪युध्यते⟫ ⟪।⟫
-The powerful warrior defeats / kills / fights the enemies of the twice-born.
+The mighty warrior defeats / kills / fights the enemies of the twice-born.
 
 ⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫) ⟪।⟫
 ⟪स्तौति⟫ ⟪।⟫ ⟪स्तुते⟫ ⟪।⟫ ⟪यजते⟫ ⟪।⟫ ⟪यजति⟫ ⟪।⟫
-The Brāhmaṇa poet praises the LORD of the world. (or: ...sacrifices... to the LORD of the world)
+The Brahminical poet praises the LORD of the world. (or: ...sacrifices... to the LORD of the world)
 
 ⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫) ⟪।⟫
 ⟪अत्ति⟫ ⟪।⟫ ⟪दहति⟫ ⟪।⟫
@@ -32,19 +32,19 @@ The fire consumes / burns the food.
 
 ⟪६⟫. ⟪बालवैश्यो⟫ ⟪धेनुम्⟫ ... (⟪दुह्⟫ ⟪।⟫ ⟪रक्ष्⟫ ⟪।⟫ ⟪पा⟫) ⟪।⟫
 ⟪दोग्धि⟫ ⟪।⟫ ⟪दुग्धे⟫ ⟪।⟫ ⟪रक्षति⟫ ⟪।⟫ ⟪पाति⟫ ⟪।⟫
-The young Vaiśya milks / tends the cow.
+The young Vaiśya milks / protects the cow.
 
 ⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫) ⟪।⟫
 ⟪गच्छति⟫ ⟪।⟫ ⟪एति⟫ ⟪।⟫ ⟪पद्यते⟫ ⟪।⟫
-A servant of the twice-born goes on the game trail to the Brāhmaṇa village.
+A servant of the twice-born goes on the game trail to the Brahmana village.
 
 ⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫) ⟪।⟫
 ⟪द्विजदासः⟫ ⟪शूद्रो⟫ ⟪ऽस्ति⟫ ⟪।⟫ ... ⟪शूद्रो⟫ ⟪भवति⟫ ⟪।⟫
-A Śūdra is the servant of the twice-born.
+Ein Śūdra ist Knecht der Zweimalgeborenen.
 
 ⟪९⟫. ⟪बालब्राह्मणी⟫ ... (⟪रुद्⟫ ⟪।⟫ ⟪आस्⟫ ⟪।⟫ ⟪मृ⟫) ⟪।⟫
 ⟪रोदिति⟫ ⟪।⟫ ⟪बालब्राह्मण्याते⟫ ⟪।⟫ ⟪म्रियते⟫ ⟪।⟫
-The young Brāhmaṇī weeps / sits / dies.
+The young Brahmin girl weeps / sits / dies.
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫) ⟪।⟫
 ⟪द्वेष्टि⟫ ⟪।⟫ ⟪द्विष्टे⟫ ⟪।⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫ ⟪न⟫ ⟪कुरुते⟫ ⟪।⟫
@@ -72,14 +72,14 @@ B) Insert the agent and verb in the plural in the sentences formed in A)
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मं⟫ ⟪द्विषन्ति⟫ ⟪।⟫ ⟪द्विषते⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung025.webp)
 Fig.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
-(Image source: [Details](/en/licenses#uebung025))
+(Image source: [Details](/licenses#uebung025))
 :::
 ---
 
-## Verb Forms Exercise
+## Verb Form Exercise
 
 Translate the following verb forms and provide the corresponding root:
 
@@ -153,13 +153,13 @@ Translate the following verb forms and provide the corresponding root:
 
 ⟪३५⟫. **⟪स्तौति⟫** (⟪स्तु⟫ 2U): he praises
 
-⟪३६⟫. **⟪स्मरति⟫** (⟪स्मृ⟫ 1P): he actualizes
+⟪३६⟫. **⟪स्मरति⟫** (⟪स्मृ⟫ 1P): he makes present
 
 ⟪३७⟫. **⟪हन्ति⟫** (⟪हन्⟫ 2P): he strikes dead
 
-⟪३८⟫. **⟪अश्नुवते⟫** (⟪अश्⟫ 5Ā): they attain
+⟪३८⟫. **⟪अश्नुवते⟫** (⟪अश्⟫ 5Ā): they reach
 
-⟪३९⟫. **⟪कुप्यते⟫** (⟪कुप्⟫ 4P): anger is aroused
+⟪३९⟫. **⟪कुप्यते⟫** (⟪कुप्⟫ 4P): anger is directed
 
 ⟪४०⟫. **⟪कर्षन्ति⟫** (⟪कृष्⟫ 6U): they draw
 
@@ -169,14 +169,14 @@ Translate the following verb forms and provide the corresponding root:
 
 ⟪४३⟫. **⟪सिच्यन्ते⟫** (⟪सिच्⟫ 6U): they are sprinkled
 
-⟪४४⟫. **⟪आप्नोति⟫** (⟪आप्⟫ 5P): he attains
+⟪४४⟫. **⟪आप्नोति⟫** (⟪आप्⟫ 5P): he reaches
 
 ⟪४५⟫. **⟪जीव्यते⟫** (⟪जीव्⟫ 1P): it is lived
 
 ⟪४६⟫. **⟪दिश्यन्न्ते⟫** (⟪दिश्⟫ 6U): they are shown
 
-:::media
+::: media
 ![](/images/uebung026.webp)
 Fig.: ⟪शृणोति⟫
-(Image source: [Details](/en/licenses#uebung026))
+(Image source: [Details](/licenses#uebung026))
 :::

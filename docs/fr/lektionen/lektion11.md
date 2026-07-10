@@ -1,45 +1,44 @@
 ---
-title: Leçon 11
-subtitle: "L'accusatif double (accusatif de la personne et de la chose)"
+title: Lektion 11
+subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
 # Leçon 11
 
-:::deleteme-box
+::: deleteme-box
 **Dans cette leçon, vous apprendrez :**
 - L'accusatif double (accusatif de la personne et de la chose)
 - L'utilisation des particules **iti**, **evam** et **na**
 - Les concepts fondamentaux tels que **dharma**, **adharma** et **putra**
-- La formation des noms à partir des racines **vad**, **prach** et **iṣ**
+- La formation de noms à partir des racines **vad**, **prach** et **iṣ**
 :::
 ## 11.1. Accusatif double
 
-:::grammar-box
-**Certains verbes peuvent régir un double accusatif (dvitīyā) : l'accusatif de la personne et l'accusatif de la chose.**
+::: grammar-box
+**Certains verbes peuvent régir un double accusatif (dvitīyā) : l’accusatif de la personne et l’accusatif de la chose.**
 
-**Il s'agit notamment de :**
-- **Verbes de parole** : parler à quelqu'un (accusatif) de quelque chose (accusatif) ; dire à quelqu'un (accusatif) quelque chose (accusatif)
-- **Verbes de question** : demander à quelqu'un (accusatif) quelque chose (accusatif)
-- **Verbes d'enseignement** : enseigner quelque chose (accusatif) à quelqu'un (accusatif)
-- quelques autres verbes, dont la mention figure dans les listes de vocabulaire
+**Cela comprend :**
+- **Verbes de parole** : parler à quelqu’un (accusatif) de quelque chose (accusatif) ; dire à quelqu’un (accusatif) quelque chose (accusatif)
+- **Verbes de question** : demander à quelqu’un (accusatif) quelque chose (accusatif)
+- **Verbes d’enseignement** : enseigner à quelqu’un (accusatif) quelque chose (accusatif)
+- quelques autres verbes, dont la mention figure dans les listes de mots
 
-**Lorsqu'une telle construction est mise à la voix passive, la personne (celle qui est interrogée, etc.) est mise au nominatif (prathamā), tandis que la chose (ce dont on demande) reste à l'accusatif.**
+**Lorsqu'une telle construction est mise à la voix passive, la personne (interrogée, etc.) est placée au nominatif (prathamā), tandis que la chose (sur laquelle on interroge, etc.) reste à l'accusatif.**
 
-p. ex. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = « Rāma demande au brāhmaṇa le dharma. »
+par ex. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = « Rāma demande au Brahmane le Dharma. »
 » Passif : **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫
 
-**Cette règle ne s'applique que lorsque la personne et la chose sont toutes deux des objets. Si une chose est le seul objet, elle se trouve, selon le schéma de base de la phrase passive, au nominatif (prathamā) :**
+**Cette règle ne s’applique que lorsque la personne et la chose sont toutes deux objets. Si une chose est le seul objet, elle se trouve au nominatif (prathamā) selon le schéma de base de la phrase passive :**
 
-p. ex. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = « Rāma demande le dharma. »
+par ex. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = « Rāma demande le dharma. »
 » Passif : **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
 :::
----
 
-## 11.2. Liste des mots
+## 11.2. Wortliste
 
 **Apprenez les mots suivants :**
 
@@ -66,7 +65,7 @@ p. ex. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫
   - **vāda** m. ⟪वाद⟫ : déclaration, affirmation, mot
   - **vadana** n. ⟪वदन⟫ : le parler ; instrument de parole : bouche, visage
 
-:::media
+::: media
 ![](/images/lekt1102.webp)
 Fig. : **vadanāni** = ⟪वदनानि⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1102))
@@ -77,9 +76,7 @@ Fig. : **vadanāni** = ⟪वदनानि⟫
 - **iṣ** 6 P ⟪इष्⟫ : souhaiter
   - **iṣṭi** f. ⟪इष्टि⟫ : souhait (**iṣ** + **-ti**)
 
----
-
-## 11.3. Exercice
+## 11.3. Übung
 
 **A) Traduisez les phrases ci-dessous :**
 
@@ -102,14 +99,13 @@ Fig. : **vadanāni** = ⟪वदनानि⟫
 
 **D) Formez la construction passive des phrases formées selon C).**
 
-:::media
+::: media
 ![](/images/lekt1101.webp)
 Fig. : **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1101))
 :::
----
 
-## 11.4. Exercice de révision
+## 11.4. Wiederholungsübung
 
 **A) Traduisez en sanskrit avec des constructions passives :**
 1. Les femmes vaiśya interrogent les brahmanes sur le dharma.
@@ -144,7 +140,7 @@ Fig. : **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪मह�
 
 **E) Transformez les phrases C) 1-5 en constructions actives.**
 
-:::media
+::: media
 ![](/images/lekt1103.webp)
 Lég. : **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1103))

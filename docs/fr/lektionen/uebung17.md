@@ -20,11 +20,11 @@ Un kṣatriya garde le peuple.
 
 ⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫) ⟪।⟫
 ⟪द्विजारीञ्जयति⟫ ⟪।⟫ ⟪द्विजारीन्हन्ति⟫ ⟪।⟫ ⟪युध्यते⟫ ⟪।⟫
-Le guerrier puissant vainc / tue / combat les ennemis des dvija.
+Le puissant guerrier vainc / tue / combat les ennemis des dvija.
 
 ⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫) ⟪।⟫
 ⟪स्तौति⟫ ⟪।⟫ ⟪स्तुते⟫ ⟪।⟫ ⟪यजते⟫ ⟪।⟫ ⟪यजति⟫ ⟪।⟫
-Le poète brāhmaṇa loue le SEIGNEUR du monde. (ou : ...sacrifie... au SEIGNEUR du monde)
+Le poète brāhmaṇa loue le SEIGNEUR du monde. (ou : ...offre un sacrifice... au SEIGNEUR du monde)
 
 ⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫) ⟪।⟫
 ⟪अत्ति⟫ ⟪।⟫ ⟪दहति⟫ ⟪।⟫
@@ -36,7 +36,7 @@ Le jeune vaiśya traie / garde la vache.
 
 ⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫) ⟪।⟫
 ⟪गच्छति⟫ ⟪।⟫ ⟪एति⟫ ⟪।⟫ ⟪पद्यते⟫ ⟪।⟫
-Un serviteur des dvija se rend sur le sentier de gibier vers le village des brāhmaṇa.
+Un serviteur des dvija se rend sur le sentier de chasse vers le village brāhmaṇa.
 
 ⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫) ⟪।⟫
 ⟪द्विजदासः⟫ ⟪शूद्रो⟫ ⟪ऽस्ति⟫ ⟪।⟫ ... ⟪शूद्रो⟫ ⟪भवति⟫ ⟪।⟫
@@ -72,14 +72,14 @@ B) Insérez l'agent et le verbe au pluriel dans les phrases formées en A)
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मं⟫ ⟪द्विषन्ति⟫ ⟪।⟫ ⟪द्विषते⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung025.webp)
 Fig. : ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
-(Source de l'image : [Détails](/fr/licenses#uebung025))
+(Source de l'image : [Détails](/licenses#uebung025))
 :::
 ---
 
-## Exercice sur les formes verbales
+## Exercice de formes verbales
 
 Traduisez les formes verbales suivantes et indiquez la racine correspondante :
 
@@ -93,7 +93,7 @@ Traduisez les formes verbales suivantes et indiquez la racine correspondante :
 
 ⟪५⟫. **⟪इच्छति⟫** (⟪इष्⟫ 6P) : il souhaite
 
-⟪६⟫. **⟪कुर्वते⟫** (⟪कृ⟫ 8U) : ils agissent (dans leur propre intérêt)
+⟪६⟫. **⟪कुर्वते⟫** (⟪कृ⟫ 8U) : ils font (pour leur propre intérêt)
 
 ⟪७⟫. **⟪गच्छन्ति⟫** (⟪गम्⟫ 1P) : ils vont
 
@@ -111,7 +111,7 @@ Traduisez les formes verbales suivantes et indiquez la racine correspondante :
 
 ⟪१४⟫. **⟪द्विष्टे⟫** (⟪द्विष्⟫ 2U) : il hait
 
-⟪१५⟫. **⟪नयन्ति⟫** (⟪नी⟫ 1U) : ils conduisent
+⟪१५⟫. **⟪नयन्ति⟫** (⟪नी⟫ 1U) : ils mènent
 
 ⟪१६⟫. **⟪नृत्यति⟫** (⟪नृत्⟫ 4P) : il danse
 
@@ -135,7 +135,7 @@ Traduisez les formes verbales suivantes et indiquez la racine correspondante :
 
 ⟪२६⟫. **⟪म्रियन्ते⟫** (⟪मृ⟫ 4Ā) : ils meurent
 
-⟪२७⟫. **⟪यजते⟫** (⟪यज्⟫ 1U) : il offre un sacrifice en tant que maître de l'offrande
+⟪२७⟫. **⟪यजते⟫** (⟪यज्⟫ 1U) : il sacrifie en tant que maître de l'offrande
 
 ⟪२८⟫. **⟪युध्यन्ते⟫** (⟪युध्⟫ 4Ā) : ils combattent
 
@@ -155,15 +155,15 @@ Traduisez les formes verbales suivantes et indiquez la racine correspondante :
 
 ⟪३६⟫. **⟪स्मरति⟫** (⟪स्मृ⟫ 1P) : il actualise
 
-⟪३७⟫. **⟪हन्ति⟫** (⟪हन्⟫ 2P) : il frappe à mort
+⟪३७⟫. **⟪हन्ति⟫** (⟪हन्⟫ 2P) : il tue
 
 ⟪३८⟫. **⟪अश्नुवते⟫** (⟪अश्⟫ 5Ā) : ils atteignent
 
-⟪३९⟫. **⟪कुप्यते⟫** (⟪कुप्⟫ 4P) : on se met en colère
+⟪३९⟫. **⟪कुप्यते⟫** (⟪कुप्⟫ 4P) : il est courroucé
 
 ⟪४०⟫. **⟪कर्षन्ति⟫** (⟪कृष्⟫ 6U) : ils partent
 
-⟪४१⟫. **⟪उद्यते⟫** (⟪वद्⟫ 1P) : on dit
+⟪४१⟫. **⟪उद्यते⟫** (⟪वद्⟫ 1P) : il est dit
 
 ⟪४२⟫. **⟪सहन्ते⟫** (⟪सह्⟫ 1Ā) : ils supportent
 
@@ -171,11 +171,12 @@ Traduisez les formes verbales suivantes et indiquez la racine correspondante :
 
 ⟪४४⟫. **⟪आप्नोति⟫** (⟪आप्⟫ 5P) : il atteint
 
-⟪४५⟫. **⟪जीव्यते⟫** (⟪जीव्⟫ 1P) : on vit
+⟪४५⟫. **⟪जीव्यते⟫** (⟪जीव्⟫ 1P) : il est vécu
 
 ⟪४६⟫. **⟪दिश्यन्न्ते⟫** (⟪दिश्⟫ 6U) : ils sont montrés
-:::media
+
+::: media
 ![](/images/uebung026.webp)
 Fig. : ⟪शृणोति⟫
-(Source de l'image : [Détails](/fr/licenses#uebung026))
+(Source de l'image : [Détails](/licenses#uebung026))
 :::

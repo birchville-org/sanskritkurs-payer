@@ -15,7 +15,7 @@ status: stable
 
 ⟪युज्⟫ 7U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -25,7 +25,7 @@ status: stable
 :::
 ⟪रुध्⟫ 7U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -35,12 +35,12 @@ status: stable
 :::
 ### 49.1.2. Fifth Present Class (⟪स्वादि⟫)
 
-:::grammar-box
+::: grammar-box
 The 2.sg.P Imperative is endingless for roots of the 5th and 8th class, where only a consonant precedes the final -u of the suffix.
 :::
 ⟪सु⟫ 5U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -50,7 +50,7 @@ The 2.sg.P Imperative is endingless for roots of the 5th and 8th class, where on
 :::
 ⟪आप्⟫ 5P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -62,7 +62,7 @@ The 2.sg.P Imperative is endingless for roots of the 5th and 8th class, where on
 
 ⟪तन्⟫ 8U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -72,7 +72,7 @@ The 2.sg.P Imperative is endingless for roots of the 5th and 8th class, where on
 :::
 ⟪कृ⟫ 8U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -84,19 +84,20 @@ The 2.sg.P Imperative is endingless for roots of the 5th and 8th class, where on
 
 ⟪क्री⟫ 9U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | **1st Person**:br⟪तृतीयः⟫ | ⟪क्रीणानि⟫:brkrī-ṇā + āni | ⟪क्रीणाम⟫ | ⟪क्रीणै⟫:brkrī-ṇā + ai | ⟪क्रीणामहै⟫ |
 | **2nd Person**:br⟪मध्यमः⟫ | ⟪क्रीणीहि⟫ | ⟪क्रीणीत⟫ | ⟪क्रीणीष्व⟫ | ⟪क्रीणीध्वम्⟫ |
 | **3rd Person**:br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
-::::::grammar-box
+:::
+::: grammar-box
 Roots of the 9th class ending in a consonant replace the final -nī-hi of the 2.sg. Imperative with -āna
 :::
 ⟪ग्रह्⟫ 9U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -108,7 +109,7 @@ Roots of the 9th class ending in a consonant replace the final -nī-hi of the 2.
 
 #### Neuters (⟪नपुंसक⟫)
 
-:::grammar-box
+::: grammar-box
 | | **⟪मनस्⟫ n.**:br"thought" | **⟪हविस्⟫ n.**:br"sacrificial offering" | **⟪चक्षुस्⟫ n.**:br"eye" |
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | | | |
@@ -130,21 +131,24 @@ Roots of the 9th class ending in a consonant replace the final -nī-hi of the 2.
 
 Most cases are **⟪बहुव्रीहि⟫** with a -s stem (originally neuter) in the second member.
 
-:::grammar-box
+::: grammar-box
 | | **⟪सुमनस्⟫ 3**:br"of good thinking, benevolent" | **⟪दीर्घायुस्⟫ 3**:br"long-lived" |
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | | |
 | **⟪प्रथम⟫** | ⟪सुमनास्⟫ | ⟪दीर्घायुस्⟫ |
 | **⟪द्विटिया⟫** | ⟪सुमनसम्⟫ | ⟪दीर्घायुषम्⟫ |
 | **⟪आमन्त्रितम्⟫** | ⟪सुमनस्⟫ | ⟪दीर्घायुस्⟫ |
-::::::indent
+:::: indent
 Remaining cases of the singular as with Neuter
-::::::grammar-box
+::::
+:::
+::: grammar-box
 | | **⟪सुमनस्⟫ 3** | **⟪दीर्घायुस्⟫ 3** |
 | :---: | :---: | :---: | :---: |
 | **⟪बहुवचनम्⟫** | | |
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसस्⟫ | ⟪दीर्घायुषस्⟫ |
-::::::indent
+:::
+::: indent
 Remaining cases of the plural as with Neuter
 :::
 ## 49.3. Nominal Derivation: ⟪कृत्⟫-Suffix -as Neuter
@@ -155,7 +159,7 @@ A short vowel of the root before a simple consonant and a final root vowel appea
 
 Examples:
 
-:::grammar-box
+::: grammar-box
 | Root | Noun on -as |
 | --- | --- |
 | ⟪मन्⟫ 4Ā "to think" | ⟪मनस्⟫ n. "thinking, thought, organ of thought" |
@@ -164,7 +168,7 @@ Examples:
 :::
 Nouns on -is and -us are relatively rare.
 
-:::media
+::: media
 ![](/images/lekt4907.webp)
 Fig.: ⟪नमस्ते⟫
 (Image source: [Details](/en/licenses#lekt4907))
@@ -177,19 +181,20 @@ Fig.: ⟪नमस्ते⟫
 
 ⟪आयुस्⟫ n.: lifespan (the full lifespan that one can live, if nothing comes in between) ;
 
-::::indent
+::: indent
 from this:
 
 ⟪आयुर्वेद⟫ m.: the traditional medical system of India
 
 see:
 
-:::indent
-**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer &lt;1944 - &gt;. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
-:::::::
+:::
+::: indent
+**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer \<1944 - \>. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+:::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : throw, hurl
 
-:::indent
+::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
 Fut. ⟪क्षेप्स्यति⟫
 Pass. ⟪क्षिप्यते⟫
@@ -201,7 +206,7 @@ Gerundive: ⟪क्षेप्य⟫
 :::
 ⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : hasten
 
-:::indent
+::: indent
 Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
@@ -211,7 +216,7 @@ Inf. ⟪त्वरितुम्⟫
 :::
 ⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : harm
 
-:::indent
+::: indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
 Fut. ⟪द्रोहिष्यति⟫ ⟪।⟫ ⟪ध्रोक्ष्यति⟫
 Pass. ⟪द्रुह्यते⟫
@@ -221,7 +226,7 @@ Inf. ⟪द्रोग्धुम्⟫
 :::
 ⟪कुलूहल⟫ n.: curiosity, interest
 
-:::media
+::: media
 ![](/images/lekt4901.webp)
 Fig.: ⟪कुलूहलम्⟫
 (Image source: [Details](/en/licenses#lekt4901))
@@ -232,7 +237,7 @@ Fig.: ⟪कुलूहलम्⟫
 
 ⟪कला⟫ f.: art
 
-:::media
+::: media
 ![](/images/lekt4902.webp)
 Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, 11th cent.
@@ -244,14 +249,14 @@ Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 
 ⟪विहंग⟫ m.: bird ("going into the air⟪स्⟫dream - ⟪विह⟫ -")
 
-:::media
+::: media
 ![](/images/lekt4903.jpg)
 Fig.: ⟪विहंगः⟫
 (Image source: [Details](/en/licenses#lekt4903))
 :::
 ⟪वेष⟫ m.: garment, appearance, exterior
 
-:::media
+::: media
 ![](/images/lekt4904.webp)
 Fig.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
@@ -261,7 +266,7 @@ Fig.: ⟪वेषः⟫
 
 ⟪पञ्जर⟫ n.: cage
 
-:::media
+::: media
 ![](/images/lekt4909.webp)
 Fig.: ⟪पञ्जरम्⟫
 Fortune teller with parrot in cage: the parrot draws slips of paper on which fate is written Mysore
@@ -277,7 +282,7 @@ Fortune teller with parrot in cage: the parrot draws slips of paper on which fat
 
 ⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : imagine, think
 
-:::indent
+::: indent
 Perf. IV ⟪दध्यौ⟫
 Fut. ⟪ध्यास्यति⟫
 Pass. ⟪ध्यायते⟫
@@ -288,7 +293,7 @@ Gerundive ⟪ध्येय⟫
 :::
 ⟪आदर⟫ m.: consideration, attention, respect
 
-:::media
+::: media
 ![](/images/lekt4905.webp)
 Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
@@ -300,7 +305,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 
 ⟪शिशु⟫ m.: child, young
 
-:::media
+::: media
 ![](/images/lekt4906.webp)
 Fig.: ⟪गजशिशुः⟫
 Sri Lanka
@@ -360,12 +365,13 @@ Questions of King ⟪शूद्रक⟫ of ⟪विदिशा⟫ to the Pa
 
 ⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/lekt4908.webp)
 Fig.: ⟪शुकः⟫
 Plum-headed parakeet = Psittacula cyanocephala
 (Image source: [Details](/en/licenses#lekt4908))
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt4907:** [Image source: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
 

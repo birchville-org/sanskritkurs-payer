@@ -151,7 +151,7 @@ We wish to be led by you.
 ⟪३४⟫. **⟪सुखाय⟫ ⟪भवतात्⟫ ⟪॥⟫ ⟪३४⟫ ⟪॥⟫**
 May it bring good fortune! (Blessing)
 
-:::media
+::: media
 ![](/images/uebung075.webp)
 Fig.: ⟪माद्यत⟫
 (Image source: [Details](/en/licenses#uebung075))

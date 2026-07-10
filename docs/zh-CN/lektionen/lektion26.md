@@ -1,206 +1,210 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: 第26课
+subtitle: "词内-s-的脑化规律"
 lesson_id: 26
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 26
 
-## 26.1. Cerebralisationsgesetz für -s- im Wortinnern
+## 26.1. 词中-s-的脑化定律
 
-:::grammar-box
-**-s-** wird durch **-ṣ-** ersetzt, wenn **k, r, l** oder ein **Vokal** — außer **a, ā** — unmittelbar oder nur durch **⟪अनुस्वार⟫** oder **⟪विसर्ग⟫** getrennt vorausgeht und ein anderer Laut als **ṛ, r** folgt. <!-- TODO: Fallback translation -->
+::: grammar-box
+**-s-** 被 **-ṣ-** 替换，当 **k, r, l** 或一个 **元音** —— 除 **a, ā** 外 —— 直接地或通过仅由 **⟪अनुस्वार⟫** 或 **⟪विसर्ग⟫** 分隔地 preceding，且后接一个不同于 **ṛ, r** 的音素时。
 
-Diesem Sandhi folgt auch **⟪दुस्⟫-** vor tonlosen Gutturalen und Labialen in Komposita. <!-- TODO: Fallback translation -->
+此 Sandhi 亦出现在复合词中，清软腭音和双唇音之前的 **⟪दुस्⟫-**。
 :::
-*Beispiele:* <!-- TODO: Fallback translation -->
-:::indent
-**⟪तेषाम्⟫** (aus: *te-sām*) <!-- TODO: Fallback translation -->
+*示例：*
+::: indent
+**⟪तेषाम्⟫**（源自：*te-sām*）
 
-aber: **⟪तासाम्⟫** (*tā-sām*) <!-- TODO: Fallback translation -->
+aber: **⟪तासाम्⟫** (*tā-sām*)
 :::
-## 26.2. Cerebralisationsgesetz für Dentale im Wortinnern
+## 26.2. Gesetz der Cerebralisierung von Dentalen im Wortinneren
 
-:::grammar-box
-Dentale Verschlusslaute werden nach Retroflexen (inklusive **-ṣ-**) durch die entsprechenden Retroflexe ersetzt: <!-- TODO: Fallback translation -->
+::: grammar-box
+齿塞音在卷舌音（包括 **-ṣ-**）之后，由相应的卷舌音替换：
 
-- **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫) <!-- TODO: Fallback translation -->
-- **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫) <!-- TODO: Fallback translation -->
-  *(**ṣ** wegen des vorangehenden **i**, **ṭh** wegen des dann vorausgehenden **ṣ**)* <!-- TODO: Fallback translation -->
+- **iṣ** + **-ta** = **iṣṭa**（⟪इष्ट⟫）
+- **ti** + **sth** + **a** + **ti** = **tiṣṭhati**（⟪तिष्ठति⟫）
+  *（**ṣ** 是因为前面的 **i**，**ṭh** 是因为随后的 **ṣ**）*
 :::
-## 26.3. Wortsandhi für Palatal, Guttural, ṣ, h + -s
+## 26.3. 腭音、软腭音、ṣ、h 与 -s 的词法连音（Wortsandhi）
 
-:::grammar-box
-**-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ** <!-- TODO: Fallback translation -->
+::: grammar-box
+**-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
-Beispiele siehe unten <!-- TODO: Fallback translation -->
+示例见下文
 :::
-## 26.4. Grassmannsches Hauchdissimilationsgesetz
+## 26.4. Grassmann的呼气同位异化定律
 
-::::grammar-box
-**Eine unmittelbare Folge zweier Aspirata (Aspirata - Vokal - Aspirata) hat den Verlust der Behauchung des ersten Lautes zur Folge:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**双送气音（送气音-元音-送气音）的直接后果是第一个音的送气特征丢失：**
 
-Beispiel: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-\*dhu(gh) » du(g)h <!-- TODO: Fallback translation -->
 :::
-**Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.** <!-- TODO: Fallback translation -->
+::: indent
+*dhu(gh) » du(g)h
+:::
+**Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.**
 
-Beispiele: siehe unten Futur von  ⟪दुह्⟫ und  ⟪बुध्⟫ <!-- TODO: Fallback translation -->
-::::::media
+示例：见下方 ⟨⟪दुह्⟫⟩ 和 ⟨⟪बुध्⟫⟩ 的将来时形式
+::: media
 ![](/images/lekt2601.webp)
-Abb.: Hermann Graßmann
-(Bildquelle: [Details](/licenses#lekt2601)) <!-- TODO: Fallback translation -->
+图：赫尔曼·格拉斯曼
+（图片来源：[详情](/zh-CN/licenses#lekt2601)）
 :::
-## 26.5. Wortsandhi für -m, -n vor Zischlaut
+## 26.5. 辅音 -m, -n 在咝音前的连声
 
-:::grammar-box
-**Vor Zischlauten werden -n und -m durch -ṃ- ersetzt:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**在咝音前，-n 和 -m 被替换为 -ṃ-：**
 
-Beispiel: s. unten Futur von ⟪मन्⟫ <!-- TODO: Fallback translation -->
+示例：见下文将来时 ⟪मन्⟫
 :::
-## 26.6. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.6. 简单将来时的用法（⟪ऌत्⟫，⟪भविष्यन्ती⟫ 阴性）
 
-:::grammar-box
-**Das Einfache Futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) drückt aus:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**简单将来时（⟪ऌत्⟫，⟪भविष्यन्ती⟫阴性）表示：**
 
-- **die Zukunft** <!-- TODO: Fallback translation -->
-- **eine beabsichtigte oder gewollte Handlung ("ich werde gehen", "ich will gehen")** <!-- TODO: Fallback translation -->
-- **eine Erwartung ("es wird so geschehen")** <!-- TODO: Fallback translation -->
-- **Hoffnung** <!-- TODO: Fallback translation -->
-- **Befürchtung** <!-- TODO: Fallback translation -->
-- **Wahrscheinlichkeit** <!-- TODO: Fallback translation -->
-- **Meinung des Sprechenden** <!-- TODO: Fallback translation -->
-- **Befehl** <!-- TODO: Fallback translation -->
+- **未来**
+- **预期的或有意为之的行为（“我将去”，“我想去”）**
+- **预期（“事情将会如此发生”）**
+- **希望**
+- **担忧**
+- **可能性**
+- **说话者的观点**
+- **命令**
 
-**Das Futur steht teilweise in Konkurrenz zum Optativ (siehe später).** <!-- TODO: Fallback translation -->
+**将来时部分与愿语气竞争（见后文）。**
 :::
-z. B. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Jemand, der ein Gelübde zu machen wünscht, geht zum Tempel." <!-- TODO: Fallback translation -->
+例如，⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = “发愿者前往寺庙。”
 
-:::media
+::: media
 ![](/images/lekt2602.webp)
-Abb.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
-(Bildquelle: [Details](/licenses#lekt2602)) <!-- TODO: Fallback translation -->
+图：⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
+（图片来源：[详情](/zh-CN/licenses#lekt2602)）
 :::
-## 26.7. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+## 第26课。简单将来时的构成（⟪ऌत्⟫，⟪भविष्यन्ती⟫ 阴性）
 
-::::grammar-box
-**Einfaches Futur:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**简单将来时：**
 
-:::indent
-**Futursstamm + Primärendung** <!-- TODO: Fallback translation -->
-::::::::::grammar-box
-**Futurstamm:** <!-- TODO: Fallback translation -->
-
-:::indent
-**(meist) hochstufige Wurzel + -sya**  
-**oder**  
-**(meist) hochstufige Wurzel + -i- + -sya (= - iṣya)** <!-- TODO: Fallback translation -->
 :::
-**Welche Wurzel welche Bildung des Futurstamms hat, muss man mit den Stammformen lernen!**  
-**Im Allgemeinen stimmt Wurzelform und Bindevokal des Futurs mit dem Infinitiv überein.**  
-**Manche Wurzeln können das Futur optionell mit und ohne Bindevokal -i- bilden.**  
-**Das Partizip Parasmaipada des Futurs wird durch Anfügen des Suffixes -nt- an den Futurstamm gebildet, Femininum fakultativ auf -ntī oder -tī:** <!-- TODO: Fallback translation -->
+::: indent
+**将来时词干 + 主要词尾**
+:::
+::: grammar-box
+**将来时词干：**
 
-:::indent
-⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫ <!-- TODO: Fallback translation -->
-::::::
-Beispiele: <!-- TODO: Fallback translation -->
+:::
+::: indent
+**（通常）高音质词根 + -sya**  
+**或**  
+**（通常）高音质词根 + -i- + -sya (= - iṣya)**
+:::
+**哪一词根具有哪种将来时词干形式，必须通过词干形式来学习！**
+**一般来说，词根形式和将来时的连接元音与不定式一致。**
+**某些词根可以选择性地带有或不带有连接元音 -i- 来构成将来时。**
+**将来时的 Parasmaipada 分词是通过在将来时词干后添加后缀 -nt- 构成的，阴性形式可选地以 -ntī 或 -tī 结尾：**
 
-::::grammar-box
+::: indent
+⟪कृ⟫ :  ⟪करिष्यन्त्⟫, ⟪करिष्यन्ती⟫ / ⟪करिष्यती⟫
+:::
+示例：
 
-| Wurzel | Futur 3. sg. P (Ā) | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪नी⟫ | ⟪नेष्यति⟫ | <!-- TODO: Fallback translation -->
-| ⟪भू⟫ | ⟪भविष्यति⟫ (⟪भो⟫ +  ⟪इ⟫ + ⟪स्य⟫ + ⟪ति⟫) | <!-- TODO: Fallback translation -->
-| ⟪दिश्⟫ | ⟪देक्ष्यति⟫ (⟪देश्⟫ + ⟪स्य⟫ + ⟪ति⟫) | <!-- TODO: Fallback translation -->
-| ⟪दृश्⟫ | ⟪द्रक्ष्यति⟫ | <!-- TODO: Fallback translation -->
-| ⟪पच्⟫ | ⟪पक्ष्यति⟫ | <!-- TODO: Fallback translation -->
-| ⟪प्रच्छ्⟫ | ⟪प्रक्ष्यति⟫ | <!-- TODO: Fallback translation -->
-| ⟪यज्⟫ | ⟪यक्ष्यति⟫ | <!-- TODO: Fallback translation -->
-| ⟪सृज्⟫ | ⟪स्रक्ष्यति⟫ | <!-- TODO: Fallback translation -->
-| ⟪पद्⟫ | ⟪पत्स्यति⟫ | <!-- TODO: Fallback translation -->
-| ⟪अद्⟫ | ⟪अत्स्यति⟫ | <!-- TODO: Fallback translation -->
-| ⟪दुह्⟫ | ⟪धोक्ष्यति⟫ (⟪दोग्⟫ +  ⟪स्य⟫ + ⟪ति⟫) | <!-- TODO: Fallback translation -->
-| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ vor Stimmlosem = ⟪भोत्⟫) | <!-- TODO: Fallback translation -->
-| ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) | <!-- TODO: Fallback translation -->
+::: grammar-box
+
+| 词根 | 将来时 第三人称单数 主动语态 (Ā) |
+| :--- | :--- |
+| ⟪नी⟫ | ⟪नेष्यति⟫ |
+| ⟪भू⟫ | ⟪भविष्यति⟫ (⟪भो⟫ +  ⟪इ⟫ + ⟪स्य⟫ + ⟪ति⟫) |
+| ⟪दिश्⟫ | ⟪देक्ष्यति⟫ (⟪देश्⟫ + ⟪स्य⟫ + ⟪ति⟫) |
+| ⟪दृश्⟫ | ⟪द्रक्ष्यति⟫ |
+| ⟪पच्⟫ | ⟪पक्ष्यति⟫ |
+| ⟪प्रच्छ्⟫ | ⟪प्रक्ष्यति⟫ |
+| ⟪यज्⟫ | ⟪यक्ष्यति⟫ |
+| ⟪सृज्⟫ | ⟪स्रक्ष्यति⟫ |
+| ⟪पद्⟫ | ⟪पत्स्यति⟫ |
+| ⟪अद्⟫ | ⟪अत्स्यति⟫ |
+| ⟪दुह्⟫ | ⟪धोक्ष्यति⟫ (⟪दोग्⟫ +  ⟪स्य⟫ + ⟪ति⟫) |
+| ⟪बुध्⟫ | ⟪भोत्स्यते⟫ (⟪बोध्⟫ 在清辅音前 = ⟪भोत्⟫) |
+| ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
 :::
 ## 26.8. Übung
 
-Bilden Sie die in Zahl, Person und Genus verbi (Parasmaipada, Ātmanepada) entsprechenden Futurformen:   <!-- TODO: Fallback translation -->
+构成与数、人称和语态（Parasmaipada，Ātmanepada）相应的将来时形式：
 
-A) ohne Bindevokal -i-: <!-- TODO: Fallback translation -->
+A) 无连接元音 -i-：
 
-1.  ⟪अत्ति⟫ <!-- TODO: Fallback translation -->
-2.  ⟪प्राप्नुवन्ति⟫ <!-- TODO: Fallback translation -->
-3.  ⟪सम्यन्ति⟫ <!-- TODO: Fallback translation -->
-4.  ⟪विजयन्ते⟫ <!-- TODO: Fallback translation -->
-5.  ⟪दहन्⟫ <!-- TODO: Fallback translation -->
-6.  ⟪आदिशन्ति⟫ <!-- TODO: Fallback translation -->
-7.  ⟪दोग्धि⟫ <!-- TODO: Fallback translation -->
-8.  ⟪पश्यति⟫ (Futur von ⟪दृश्⟫ bilden) <!-- TODO: Fallback translation -->
-9.  ⟪उपानयन्ति⟫ <!-- TODO: Fallback translation -->
-10.  ⟪पचति⟫ <!-- TODO: Fallback translation -->
-11.  ⟪उपपद्यन्ते⟫ <!-- TODO: Fallback translation -->
-12.  ⟪पिबति⟫ <!-- TODO: Fallback translation -->
-13.  ⟪पृच्छति⟫ <!-- TODO: Fallback translation -->
-14.  ⟪बुध्यन्ते⟫ <!-- TODO: Fallback translation -->
-15.  ⟪मन्यते⟫ <!-- TODO: Fallback translation -->
-16.  ⟪मुञ्चति⟫ <!-- TODO: Fallback translation -->
-17.  ⟪यजते⟫ <!-- TODO: Fallback translation -->
-18.  ⟪युध्यन्ते⟫ <!-- TODO: Fallback translation -->
-19.  ⟪भजति⟫ <!-- TODO: Fallback translation -->
-20.  ⟪कृषति⟫ <!-- TODO: Fallback translation -->
-21.  ⟪क्रुध्यन्ति⟫ <!-- TODO: Fallback translation -->
-22.  ⟪दुष्यति⟫ <!-- TODO: Fallback translation -->
-23.  ⟪द्वेष्टि⟫ <!-- TODO: Fallback translation -->
-24.  ⟪पान्ति⟫ <!-- TODO: Fallback translation -->
-25.  ⟪सीदति⟫ <!-- TODO: Fallback translation -->
-26.  ⟪लभते⟫ <!-- TODO: Fallback translation -->
-27.  ⟪वक्ति⟫ <!-- TODO: Fallback translation -->
-28.  ⟪प्रविशन्ति⟫ <!-- TODO: Fallback translation -->
-29.  ⟪शक्नोति⟫ <!-- TODO: Fallback translation -->
-30.  ⟪शृणोति⟫ <!-- TODO: Fallback translation -->
-31.  ⟪सिञ्चति⟫ <!-- TODO: Fallback translation -->
-32.  ⟪सुन्वन्ति⟫ <!-- TODO: Fallback translation -->
-33.  ⟪सृजति⟫ <!-- TODO: Fallback translation -->
-34.  ⟪स्तौति⟫ <!-- TODO: Fallback translation -->
-35.  ⟪तिष्ठति⟫ <!-- TODO: Fallback translation -->
+1.  ⟪अत्ति⟫
+2.  ⟪⟪प्राप्नुवन्ति⟫⟫
+3.  ⟪सम्यन्ति⟫
+4.  ⟪विजयन्ते⟫
+5.  ⟪दहन्⟫
+6.  ⟪आदिशन्ति⟫
+7.  ⟪दोग्धि⟫
+8.  ⟪पश्यति⟫（构成⟪दृश्⟫的将来时）
+9.  ⟪उपानयन्ति⟫
+10.  ⟪पचति⟫
+11.  ⟪उपपद्यन्ते⟫
+12.  ⟪पिबति⟫
+13.  ⟪पृच्छति⟫
+14.  ⟪बुध्यन्ते⟫
+15.  ⟪मन्यते⟫
+16.  ⟪मुञ्चति⟫
+17.  ⟪यजते⟫
+18.  ⟪युध्यन्ते⟫
+19.  ⟪भजति⟫
+20.  ⟪कृषति⟫
+21.  ⟪क्रुध्यन्ति⟫
+22.  ⟪दुष्यति⟫
+23.  ⟪द्वेष्टि⟫
+24.  ⟪पान्ति⟫
+25.  ⟪सीदति⟫
+26.  ⟪लभते⟫
+27.  ⟪वक्ति⟫
+28.  ⟪प्रविशन्ति⟫
+29.  ⟪शक्नोति⟫
+30.  ⟪शृणोति⟫
+31.  ⟪सिञ्चति⟫
+32.  ⟪सुन्वन्ति⟫
+33.  ⟪सृजति⟫
+34.  ⟪स्तौति⟫
+35.  ⟪तिष्ठति⟫
 
-B) Mit Bindevokal -i-: <!-- TODO: Fallback translation -->
+B) 带连接元音 -i-：
 
-1.  ⟪अस्यति⟫ <!-- TODO: Fallback translation -->
-2.  ⟪आसते⟫ <!-- TODO: Fallback translation -->
-3.  ⟪इच्छति⟫ <!-- TODO: Fallback translation -->
-4.  ⟪संस्करोति⟫ <!-- TODO: Fallback translation -->
-5.  ⟪खादति⟫ <!-- TODO: Fallback translation -->
-6.  ⟪लुभ्यति⟫ <!-- TODO: Fallback translation -->
-7.  ⟪तनुते⟫ <!-- TODO: Fallback translation -->
-8.  ⟪उपागच्छन्ति⟫ <!-- TODO: Fallback translation -->
-9.  ⟪चरति⟫ <!-- TODO: Fallback translation -->
-10.  ⟪जायन्ते⟫ <!-- TODO: Fallback translation -->
-11.  ⟪नृत्यति⟫ <!-- TODO: Fallback translation -->
-12.  ⟪सहते⟫ <!-- TODO: Fallback translation -->
-13.  ⟪पतन्ति⟫ <!-- TODO: Fallback translation -->
-14.  ⟪रोदिति⟫ <!-- TODO: Fallback translation -->
-15.  ⟪प्रभवति⟫ <!-- TODO: Fallback translation -->
-16.  ⟪म्रियन्ते⟫ (im Futur Parasmaipada) <!-- TODO: Fallback translation -->
-17.  ⟪जीवन्ति⟫ <!-- TODO: Fallback translation -->
-18.  ⟪रक्षति⟫ <!-- TODO: Fallback translation -->
-19.  ⟪वदति⟫ <!-- TODO: Fallback translation -->
-20.  ⟪स्मरति⟫ <!-- TODO: Fallback translation -->
-21.  ⟪घ्नन्ति⟫ <!-- TODO: Fallback translation -->
-22.  ⟪अर्हन्ति⟫ <!-- TODO: Fallback translation -->
-23.  ⟪कुप्यन्ति⟫ <!-- TODO: Fallback translation -->
+1.  ⟪अस्यति⟫
+2.  ⟪⟪आसते⟫⟫
+3.  ⟪इच्छति⟫
+4.  ⟪संस्करोति⟫
+5.  ⟪खादति⟫
+6.  ⟪लुभ्यति⟫
+7.  ⟪तनुते⟫
+8.  ⟪उपागच्छन्ति⟫
+9.  ⟪चरति⟫
+10.  ⟪जायन्ते⟫
+11.  ⟪नृत्यति⟫
+12.  ⟪सहते⟫
+13.  ⟪पतन्ति⟫
+14.  ⟪रोदिति⟫
+15.  ⟪प्रभवति⟫
+16.  ⟪म्रियन्ते⟫（将来时 Parasmaipada 形式）
+17.  ⟪जीवन्ति⟫
+18.  ⟪रक्षति⟫
+19.  ⟪वदति⟫
+20.  ⟪स्मरति⟫
+21.  ⟪घ्नन्ति⟫
+22.  ⟪अर्हन्ति⟫
+23.  ⟪कुप्यन्ति⟫
 
-C) Futur optionell mit und ohne -i-: <!-- TODO: Fallback translation -->
+C) 将来时可选形式，带 -i- 与不带 -i-：
 
-1.  ⟪मुह्यन्ति⟫ <!-- TODO: Fallback translation -->
-2.  ⟪वर्तते⟫ <!-- TODO: Fallback translation -->
-3.  ⟪अश्नुवते⟫ (im Futur Parasmaipada) <!-- TODO: Fallback translation -->
+1.  ⟪मुह्यन्ति⟫
+2.  ⟪वर्तते⟫
+3.  ⟪अश्नुवते⟫（将来时 Parasmaipada 形式）
 

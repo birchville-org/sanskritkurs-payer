@@ -1,6 +1,6 @@
 ---
 title: Lektion 50
-subtitle: "Nominalbildung: regelmäßige Steigerung"
+subtitle: "Nominalbildung: regelmässige Steigerung"
 lesson_id: 50
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,50 +9,54 @@ status: stable
 
 # Lektion 50
 
-## 50.1. Nominalbildung: regelmäßige Steigerung
+## 50.1. Nominalbildung: regelmässige Steigerung
 
-:::grammar-box
-**Die regelmäßige Steigerung erfolgt im Sanskrit mit den ⟪तद्धित⟫-Suffixen**
+::: grammar-box
+**Die regelmässige Steigerung erfolgt im Sanskrit mit den ⟪तद्धित⟫-Suffixen**
 * **-⟪तर⟫ (fem.: ⟪तरा⟫) im "Komparativ"**
 * **⟪तम⟫ (fem.: ⟪तमा⟫) im "Superlativ"**
 
 **Diese Suffixe werden bei Adjektiven an den Maskulinstamm angefügt. Bei Nomina mit Stammabstufung werden sie an den schwachen Stamm angefügt, die die form hat wie vor der Endung -su des Lokativ (⟪पञ्चमी⟫) Plural.**
-::::::media
+:::
+::: media
 ![](/images/lekt5007.webp)
 Abb.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
 ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
 (Bildquelle: [Details](/licenses#lekt5007))
-::::::grammar-box
+:::
+
+::: grammar-box
 **Bedeutung:**
 
 **Der "Komparativ" bedeutet, wenn kein verglichener Gegenstand ausgedrückt wird: "ziemlich, sehr, zu":**
 
-:::indent
+:::
+::: indent
 z.B. ⟪सुचितर⟫ 3 "ziemlich rein", "sehr rein", "zu rein"
 :::
 **Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Ablativ (⟪पञ्चमी⟫). Komparativ + Ablativ entspricht der Steigerung mit "als" im Deutschen.**
 
-:::indent
+::: indent
 z.B. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = wörtl.: "von Devadatta aus gesehen ist Rāma einsichtiger" = "Rāma ist einsichtiger als Devadatta"
 :::
-**Der "Superlativ" bedeutet, wen kein verglichener Gegenstand ausgedrückt wird: "äußerst, sehr":**
+**Der "Superlativ" bedeutet, wen kein verglichener Gegenstand ausgedrückt wird: "äusserst, sehr":**
 
-:::indent
-z.B. ⟪सत्तम⟫ 3 (zu ⟪सन्त्⟫) "äußerst gut, sehr gut"
+::: indent
+z.B. ⟪सत्तम⟫ 3 (zu ⟪सन्त्⟫) "äusserst gut, sehr gut"
 :::
 **Wird ein verglichener Gegenstand ausgedrückt, so steht dieser im Genetiv (⟪षष्ठी⟫) ("von", "unter") und der Superlativ entspricht dem deutschen Superlativ (Höchststufe):**
 
-:::indent
+::: indent
 z.B. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "der beste der Zweimalgeborenen"
 :::
 **Die Suffixe -⟪तर⟫ und -⟪तम⟫ können nicht nur an Adjektive treten, sondern auch an Substantive, Indeklinabilia und sogar Verbalformen:**
 
 Beispiele:
 
-:::indent
+::: indent
 ⟪गजतम⟫ m. "der beste Elefant" (⟪गज⟫) (auch Bezeichnung Buddhas)
 
-⟪गोतम⟫ m. "der größte Ochse" (⟪गो⟫) oder: "am reichsten an Rindern"
+⟪गोतम⟫ m. "der grösste Ochse" (⟪गो⟫) oder: "am reichsten an Rindern"
 
 ⟪उद्⟫ Indekl. "auf", "hinauf" » ⟪उत्तर⟫ 3 "höherer" » ⟪उत्तम⟫ 3 "höchster"
 :::
@@ -63,16 +67,17 @@ Beispiele:
 
 Beispiele:
 
-:::indent
+::: indent
 ⟪पचतितराम्⟫ "er/sie/es kocht besser"
 
 ⟪पचतितमाम्⟫ "er/sie/es kocht am besten"
 :::
 **Diese Form haben diese Suffixe auch, wenn sie an ein Indeklinabile treten und das abgeleitete Wort adverbial gebraucht wird:**
 
-:::indent
+::: indent
 z.B. ⟪सुतराम्⟫ (zu ⟪सु⟫) "auf bessere Weise" (adverbial)
-:::::::::media
+:::
+::: media
 ![](/images/lekt5006.webp)
 Abb.: ⟪का⟫ ⟪पचतितमाम्⟫
 Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
@@ -90,7 +95,7 @@ Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 
 ⟪मन्त्रिन्⟫ 3: ratgebend ; m.: Berater, Ratsherr, Minister
 
-:::media
+::: media
 ![](/images/lekt5001.jpg)
 Abb.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
@@ -100,16 +105,16 @@ Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and M
 
 ⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : geschädigt werden, misslingen, beschädigen
 
-:::indent
+::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
 Fut. ⟪रेषिष्यति⟫
 Pass. ⟪रिष्यते⟫
 Kaus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U *⟪लुम्प⟫*⟪ति⟫** : brechen, zerstören
+**⟪लुप्⟫ 6U sig[⟪लुम्प⟫]⟪ति⟫** : brechen, zerstören
 
-:::indent
+::: indent
 Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
 Fut. ⟪लोप्स्यति⟫
 Pass. ⟪लुप्यते⟫
@@ -122,7 +127,7 @@ Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
 
 ⟪वृष्⟫ 1P ⟪वर्षति⟫ : regnen (meist mit einem ⟪कर्तृ⟫ -- einem Gott oder einer Wolke)
 
-:::indent
+::: indent
 Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
 Fut. ⟪वर्षिष्यति⟫
 Pass. ⟪वृष्यते⟫
@@ -131,7 +136,8 @@ PPP ⟪वृष्ट⟫
 Inf. ⟪वर्षितुम्⟫
 Absol. ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
 Absol.-⟪वृष्य⟫
-::::::media
+:::
+::: media
 ![](/images/lekt5002.jpg)
 Abb.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
@@ -141,7 +147,7 @@ Ankunft des Monsun, Bangalore  ಬೆಂಗಳೂರು
 
 ⟪आदित्य⟫ m.: Sonne ; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : eine bestimmte Götterklasse
 
-:::media
+::: media
 ![](/images/lekt5005.jpg)
 Abb.: ⟪आदित्यः⟫
 (Bildquelle: [Details](/licenses#lekt5005))
@@ -150,12 +156,12 @@ Abb.: ⟪आदित्यः⟫
 
 Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
 
-:::grammar-box
+::: grammar-box
 | | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
 | | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
 | **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
 | **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
@@ -170,14 +176,14 @@ Deklination wie ⟪यद्⟫ (Ausnahme: Nom.Akk.sg.Neutrum)
 
 ⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :schön
 
-:::media
+::: media
 ![](/images/lekt5003.webp)
 Abb.: ⟪कल्याणी⟫
 (Bildquelle: [Details](/licenses#lekt5003))
 :::
 ⟪कु⟫- : als Vorderglied von Komposita: schlecht
 
-:::media
+::: media
 ![](/images/lekt5004.webp)
 Abb.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
@@ -185,7 +191,7 @@ Abb.: ⟪कुनगरम्⟫
 :::
 ⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : sehen
 
-:::indent
+::: indent
 Perf. ⟪चचक्षे⟫
 in den übrigen Tempora nicht verwendet
 :::
@@ -197,12 +203,13 @@ in den übrigen Tempora nicht verwendet
 
 A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsformen im Singular zu ⟪गुरु⟫ m.:
 
-:::indent
+::: indent
 ⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫
 ⟪गुरुणैव⟫ ⟪सहास्मि⟫ ⟪नमो⟫ ⟪गुरवे⟫ ⟪।⟫
 ⟪न⟫ ⟪गुरोः⟫ ⟪परमं⟫ ⟪शिशुरस्मि⟫ ⟪गुरोर्⟫
 ⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫
-::::::media
+:::
+::: media
 ![](/images/lekt5008.webp)
 Abb.: ⟪गुरुमेव⟫ ⟪भजे⟫
 Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt
@@ -212,7 +219,7 @@ B) Übersetzen Sie:
 
 ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫
 
-:::indent
+::: indent
 ⟪येनास्य⟫ ⟪पितरो⟫ ⟪याता⟫
 ⟪येन⟫ ⟪याताः⟫ ⟪पितामहाः⟫ ⟪।⟫
 ⟪तेन⟫ ⟪यायात्सतां⟫ ⟪मार्गम्⟫
@@ -220,7 +227,7 @@ B) Übersetzen Sie:
 :::
 ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
 
-:::indent
+::: indent
 ⟪कुविवाहैः⟫ ⟪क्रियालोपैर्⟫
 ⟪वेदानध्ययनेन⟫ ⟪च⟫ ⟪।⟫
 ⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫
@@ -228,7 +235,7 @@ B) Übersetzen Sie:
 :::
 ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
 
-:::indent
+::: indent
 ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫
 ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫
 ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫
@@ -236,7 +243,7 @@ B) Übersetzen Sie:
 :::
 ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Über die Notwendigkeit des Opfers
 
-:::indent
+::: indent
 ⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫
 ⟪दैवे⟫ ⟪चैवेह⟫ ⟪कर्मणि⟫ ⟪।⟫
 ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫
@@ -248,16 +255,16 @@ B) Übersetzen Sie:
 :::
 ⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
 
-:::indent
+::: indent
 ⟪हेयं⟫ ⟪दुःखमनागतम्⟫ ⟪॥६॥⟫
-***⟪द्रष्टृदृश्ययोः⟫*** ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
+sig[⟪द्रष्टृदृश्ययोः⟫] ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
 
 Erklärung:
 ⟪द्रष्टृदृश्ययोः⟫ : Gen.Lok.m.n.f.Dual (Dualdvandva)
 :::
 ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Über Ratgeber des Königs
 
-:::indent
+::: indent
 ⟪न⟫ ⟪किंचिदवमन्येत⟫
 ⟪सर्वस्य⟫ ⟪शृणुयानमतम्⟫ ⟪।⟫
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫
@@ -265,7 +272,7 @@ Erklärung:
 :::
 ⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition von ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
 
-:::indent
+::: indent
 ⟪उपनीय⟫ ⟪तु⟫ ⟪यः⟫ ⟪शिष्यं⟫
 ⟪वेदमधापयेत्द्द्विजः⟫ ⟪।⟫
 ⟪सकल्पं⟫ ⟪सरहस्यं⟫ ⟪च⟫
@@ -276,14 +283,15 @@ Erklärung:
 ⟪यो⟫ ⟪ऽध्यापयति⟫ ⟪वृत्त्यर्थम्⟫
 ⟪उपाध्यायः⟫ ⟪स⟫ ⟪उच्यते⟫ ⟪॥१०॥⟫
 
-⟪निषेका⟫***⟪दीनि⟫*** ⟪कर्माणि⟫
+⟪निषेका⟫sig[⟪दीनि⟫] ⟪कर्माणि⟫
 ⟪यः⟫ ⟪करोति⟫ ⟪यथाविधि⟫ ⟪।⟫
 ⟪संभावयति⟫ ⟪चान्नेन⟫
 ⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥११॥⟫
 
 Erklärungen:
 ⟪निषेकादीनि⟫ : Nom.Akk.pl.Neutrum
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt5007:** Abb.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Bildquelle: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)]
 
@@ -302,3 +310,4 @@ Erklärungen:
 **lekt5008:** Ganeshpuri, 80 km von Mumbai (⟪मुंबई⟫) entfernt [Bildquelle: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)]
 
 :::
+

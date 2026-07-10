@@ -175,7 +175,7 @@ A chi appartengono queste case?
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 Di chi il cibo ha sacrificato questo saggio vedico?
 
-:::media
+::: media
 ![](/images/uebung017.webp)
 Fig.: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung017))

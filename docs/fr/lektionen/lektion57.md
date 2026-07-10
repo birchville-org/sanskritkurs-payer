@@ -1,65 +1,68 @@
 ---
-title: Leçon 57
-subtitle: "Aoriste 4 : s-aoriste"
+title: Lektion 57
+subtitle: "Aorist 4: s-Aorist"
 lesson_id: 57
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 57
+# Lektion 57
 
-## 57.1. Aoriste 4 : s-aoriste
+## 57.1. Aorist 4: s-Aorist
 
-:::grammar-box
+::: grammar-box
 **Le s-aoriste se forme pour la plupart des racines ⟪अनिट्⟫, à moins qu’elles n’aient exclusivement une autre forme d’aoriste. Les racines facultatives ⟪अनिट्⟫ peuvent généralement former soit ce aoriste, soit l’iṣ-aoriste. Les racines ⟪अनिट्⟫ qui forment le ⟪परस्मैपद⟫ après la 1re, 2e ou 6e forme de l’aoriste forment également le ⟪आत्मनेपद⟫ selon le s-aoriste.**
 
 **Formation : Augment + racine + s + désinences secondaires athématiques**
 :::
 Table des désinences avec suffixe de formation de la base
 
-:::grammar-box
+::: grammar-box
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | -sam | -sma | -si | -smahi |
 | **2. ⟪द्वितीयः⟫** | **-sīs** | -sta | -sthās | **-dhvam** |
 | **3. ⟪प्रथमः⟫** | **-sīt** | -sur | -sta | -sata |
-:::::::grammar-box
+:::
+::: grammar-box
 **On applique la loi phonétique générale selon laquelle une fricative s’efface entre deux occlusives (cf. ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), c’est-à-dire que le suffixe de formation de la base -s- disparaît devant les désinences commençant par -t- ou -th- (mais pas après les nasales ou r-).**
 
 Exemples :
 
-:::indent
+:::
+::: indent
 3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***⟪क्षिप्त⟫***
 2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***⟪क्षिप्था⟫***⟪स्⟫
 :::
-De telles formes pourraient également appartenir au racine-aoriste et appartiennent probablement en partie à celui-ci.
-::::
+De telles formes pourraient également appartenir à l'aorist de la racine et appartiennent probablement en partie à celui-ci.
 Les grammairiens indiens ont également compté des formes telles que ⟪अकृत⟫ (3.sg.Ā) parmi le s-aoriste, qui appartiennent clairement au racine-aoriste. À cette fin, les grammairiens indiens ont inventé la règle phonétique ad hoc suivante pour le s-aoriste :
 
-:::indent
+::: indent
 « Après une voyelle brève, les « désinences » commençant par -st- ou -sth- perdent le -s-. »
 :::
 Par ailleurs, les règles phonétiques concernant la liaison des consonnes finales avec s- doivent être respectées.
 
 Pour -dhvam :
 
-::::grammar-box
+::: grammar-box
 **Le -dh- de -dhvam est remplacé par -ḍh- après toutes les voyelles autres que a/ā, ainsi qu’après -r.**
 
-:::indent
+:::
+::: indent
 par ex. ***⟪चि⟫*** 5U : 2.pl.Ā ***⟪अचेढ्वम्⟫***
-::::::::::grammar-box
-**Forme de la racine :**
+:::
+::: grammar-box
+**Form de la racine :**
 
 *   **⟪परस्मैपद⟫ : degré allongé**
 *   **⟪आत्मनेपद⟫ :**
+    *   **Forme de la racine :**
     *   **Racines se terminant par i/ī/u/ū : degré fort**
     *   **-ṝ final est remplacé par -īr ou -ūr**
     *   **Racines à ablaut en ā/e/o : degré faible**
-    *   **autres voyelles de racine : inchangées (c’est-à-dire généralement au degré faible)**
 :::
 Exemples :
 
@@ -72,64 +75,64 @@ Exemples :
 | ⟪भञ्ज्⟫ 7P | ⟪अभाङ्क्षीत्⟫ |
 | ⟪भुज्⟫ 7U | ⟪अभौक्षीत्⟫ |
 
-|   | **3.sg.Ā** |
+|   | --- |
 | --- | --- |
 | ⟪चि⟫ 5U | ⟪अचेष्ट⟫ |
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
+|   | --- |
+| ⟪दा⟫ 3U | ⟪अदिषि⟫:br ⟪अदिथास्⟫ :br ⟪अदित⟫ |
 |   | **sg.Ā** |
-| ⟪दा⟫ 3U | ⟪अदिषि⟫:br**⟪अदिथास्⟫**:br**⟪अदित⟫** |
-|   | **1.sg.Ā** |
 | ⟪कृ⟫ 8U | ⟪अकृषि⟫ |
 | ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
 
-::::grammar-box
+::: grammar-box
 **⟪दृश्⟫ et ⟪सृज्⟫ ont au ⟪परस्मैपद⟫ un degré allongé avec un diphtongue montant -rā- :**
 
-:::indent
+:::
+::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫***⟪द्राक्षी⟫***⟪त्⟫
 :::
-L'aoriste d'autres racines avec -ṛ- en avant-dernière position peut aussi être formé ainsi :
+Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
-:::indent
+::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***⟪क्राक्षी⟫***⟪त्⟫
-:::::::
+:::
 Paradigmes :
 
 ⟪नी⟫ 1U « mener »
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
-
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अनैषम्⟫ | ⟪अनैष्म⟫ | ⟪अनेषि⟫ | ⟪अनेष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫***⟪ढ्वम्⟫*** |
+| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫*⟪ढ्वम्⟫* |
 | **3. ⟪प्रथमः⟫** | ⟪अनैषीत्⟫ | ⟪अनैषुर्⟫ | ⟪नेष्ट⟫ | ⟪अनेषत⟫ |
 
-:::media
+::: media
 ![](/images/lekt5701.webp)
 Fig. : ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
 (Source de l'image : [Détails](/fr/licenses#lekt5701))
 :::
 ⟪कृ⟫ 8U "faire"
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अकार्षम्⟫ | ⟪अकार्ष्म⟫ | ⟪अकृषि⟫ | ⟪अकृष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | ***⟪अकृथास्⟫*** | ⟪अकृढ्वम्⟫ |
-| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | ***⟪अकृत⟫*** | ⟪अकृषत⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | *⟪अकृथास्⟫* | ⟪अकृढ्वम्⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | *⟪अकृत⟫* | ⟪अकृषत⟫ |
 
 ⟪तुद्⟫ 6U "frapper"
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अतौत्सम्⟫ | ⟪अतौत्स्म⟫ | ⟪अतुत्सि⟫ | ⟪अतुत्स्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अतौत्सीस्⟫ | ⟪अतौत्त⟫:brde : a-taut + s + ta | ⟪अतुत्थास्⟫ | ⟪अतुद्ध्वम्⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अतौत्सीस्⟫ | ⟪अतौत्त⟫:braus: a-taut + s + ta | ⟪अतुत्थास्⟫ | ⟪अतुद्ध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अतौत्सीत्⟫ | ⟪अतौत्सुर्⟫ | ⟪अतुत्त⟫ | ⟪अतुत्सत⟫ |
 
-:::grammar-box
+::: grammar-box
 **Formes irrégulières :**
 
 **1. Les racines en nasal (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) forment l'aoriste en s à degré plein :**
@@ -143,7 +146,7 @@ Fig. : ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर�
 3.  ⟪बुध्⟫ Ā peut à la 3.sg.Ā prendre optionnellement la forme de l'aoriste de racine passif :
     ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "il a reconnu"
 :::
-## 57.2. Exercice
+## 57.2. Übung
 
 A) Traduisez et identifiez sans aide les formes suivantes, puis formez les formes correspondantes de l’aoriste. Sauf pour les causatifs et les racines qui forment l’aoriste en s, la classe de l’aoriste correspondant est indiquée entre parenthèses :
 
@@ -232,7 +235,7 @@ B) Traduisez et identifiez les formes suivantes :
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt5701 :** [Source de l'image : Wikipédia. Domaine public]
 

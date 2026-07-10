@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Determine the following forms:
 
-:::grammar-box
+::: grammar-box
 | Nr. | Form | Determination |
 |:---|:---|:---|
 | ⟪१⟫. | **⟪गृहाणि⟫** | *⟪गृह⟫* n.: Nom. Acc. Pl. n. |
@@ -52,14 +52,16 @@ Determine the following forms:
 | ⟪३७⟫. | **⟪बन्धनीय⟫** | *⟪बन्ध्⟫* 9P: Gerundiv Voc. Sg. m. n. |
 | ⟪३८⟫. | **⟪गायी⟫** | *⟪गायिन्⟫*: Nom. Sg. m. |
 | ⟪३९⟫. | **⟪मह्यम्⟫** | *⟪अहम्⟫*: Dat. Sg. |
-::::::media
+:::
+
+::: media
 ![](/images/uebung078.webp)
 Fig.: ⟪गायी⟫
-(Image source: [Details](/en/licenses#uebung078))
+(Image source: [Details](/licenses#uebung078))
 :::
 ---
 
-## ⟪बाण⟫ (⟪७⟫. Cent. AD): ⟪कादम्बरी⟫
+## ⟪बाण⟫ (⟪७⟫. Cent. A.D.): ⟪कादम्बरी⟫
 
 Questions of the King **⟪शूद्रक⟫** of **⟪विदिशा⟫** to the Parrot **⟪वैशम्पायन⟫**:
 
@@ -67,12 +69,12 @@ Questions of the King **⟪शूद्रक⟫** of **⟪विदिशा⟫
 
 **⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫**
 
-> The King spoke: "Let all that be! Satisfy our curiosity! Sir, tell us from the beginning: In which country were you born? Who gave you the name? Who is your mother? How did you obtain the Vedas? How did you familiarize yourself with the treatises? From where did you acquire the arts? Can you remember previous births or fulfill wishes? Or do you, by wearing the garment of a bird, inhabit a hiding place? Or where did you dwell previously? Or how old are you? How were you caught in a cage? And how did you come into the hands of Cāṇḍālas? Or how did you come here?"
+> The King said: "Let all that be! Satisfy our curiosity! Sir, tell us from the beginning: In which country were you born? Who gave you the name? Who is your mother? How did you obtain the Vedas? How did you familiarize yourself with the treatises? From where did you acquire the arts? Can you remember previous births or fulfill wishes? Or do you, by wearing the garment of a bird, inhabit a hiding place? Or where did you dwell earlier? Or how old are you? How were you captured in a cage? And how did you come into the hands of Cāṇḍālas? Or how did you come here?"
 >
-> Vaiśampāyana, however, who had been asked by the Lord of the Earth with spontaneously arising curiosity with great respect, thought for a moment and then answered with full reverence: "King, that is a long story. If you are interested, lend me your ear!"
+> Vaiśampāyana, however, who had been asked by the Lord of the Earth with spontaneously arising curiosity with great respect, thought for a moment and then replied with full reverence: "King, this is a long story. If you are interested, lend me your ear!"
 
-:::media
+::: media
 ![](/images/uebung079.webp)
 Fig.: ⟪शुकः⟫
-(Image source: [Details](/en/licenses#uebung079))
+(Image source: [Details](/licenses#uebung079))
 :::

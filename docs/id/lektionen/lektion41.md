@@ -11,7 +11,7 @@ status: stable
 
 ## 41.1. ⟪सुभाषिते⟫  (two proverbs)
 
-:::indent
+::: indent
 ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫  
 ⟪परहस्ते⟫ ⟪च⟫ ⟪यद्धनम्⟫ ⟪।⟫  
 ⟪कार्यकाले⟫ ⟪समुत्पन्ने⟫  
@@ -19,15 +19,16 @@ status: stable
 :::
 Explanation: ⟪पर⟫ "other"
 
-:::media
+::: media
 ![lekt4102.jpg](/images/lekt4102.webp)
 Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
 (Image source: [Details](/en/licenses#lekt4102))
-::::::indent
+:::: indent
 ⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫  
 ⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫  
 ⟪पयःपानं⟫ ⟪भुजङ्गानां⟫  
 ⟪केवलं⟫ ⟪विषवर्धनम्⟫ ⟪॥२॥⟫
+::::
 :::
 Explanation: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
@@ -37,7 +38,7 @@ Explanation: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
 #### 41.2.1.1. Thematic Present Stems, Passive and Future
 
-:::grammar-box
+::: grammar-box
 **Formation:**
 
 Present stem / Passive stem / Future stem + -māna (fem. mānā)
@@ -54,18 +55,18 @@ Examples:
 
 #### 41.2.1.2. Atematic Present Classes
 
-:::grammar-box
+::: grammar-box
 **Formation:**
 
 Weak present stem (in the form it has before the ending -ate of the 3.pl.Ā) + -āna (fem. -ānā)
 :::
 Examples:
 
-:::grammar-box
+::: grammar-box
 | Root / Class | Present Participle Ā |
 | :--- | :--- |
 | **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | &lt;⟪जुह्वान⟫&gt;:brju-hu + āna |
+| **⟪हु⟫** 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
 | **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
@@ -73,7 +74,7 @@ Examples:
 :::
 ### 41.2.2. "Participle" of passive necessity (Gerundivum) (⟪कृत्य⟫)
 
-:::grammar-box
+::: grammar-box
 **To express passive necessity ("what must/should be done"), adjectives derived from roots and derived verbal stems can optionally be formed with the following suffixes:**
 
 * **-⟪तव्य⟫** (fem. **-⟪तव्या⟫**)
@@ -83,7 +84,7 @@ Examples:
 :::
 #### 41.2.2.1. The suffix -⟪तव्य⟫ / -⟪तव्या⟫
 
-:::grammar-box
+::: grammar-box
 **The suffix -⟪तव्य⟫ / -⟪तव्या⟫ is attached to roots and derived verbal stems (e.g., causative) in the same way as the infinitive suffix -⟪तुम्⟫ (see [Lesson 23](lektion23.md)), i.e.**
 
 * **guṇa-grade root + ⟪तव्य⟫**
@@ -98,7 +99,7 @@ or
 :::
 Examples:
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
@@ -109,7 +110,7 @@ Examples:
 :::
 #### 41.2.2.2. The suffix -⟪अनीय⟫ / -⟪अनीया⟫
 
-:::grammar-box
+::: grammar-box
 **Formation:**
 
 Guṇa-grade root + -⟪अनीय⟫ / -⟪अनीया⟫
@@ -120,7 +121,7 @@ Root, as it appears in the causative stem, without -aya- + -⟪अनीय⟫ /
 :::
 Examples:
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
@@ -134,7 +135,7 @@ Examples:
 :::
 #### 41.2.2.3. The suffix -⟪य⟫ / -⟪या⟫
 
-:::grammar-box
+::: grammar-box
 **Formation:**
 
 Root (in strong, guṇa, or vṛddhi grade) + -⟪य⟫
@@ -143,52 +144,56 @@ For the exact rules, see Kielhorn, Grammar of the Sanskrit Language, pp. 195 - 1
 :::
 Treatment of final vowels:
 
-:::grammar-box
+::: grammar-box
 **1. Roots ending in -ā form this gerundive on -eya**
 :::
 Examples:
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
 | ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | "to be known; what must be recognized" |
 | ⟪दा⟫ 3U | ⟪देय⟫ 3 | "what must be given" |
 
-::::::grammar-box
+:::
+::: grammar-box
 **2. Roots ending in -i /-ī / -u / -ū /-ṛ generally have guṇa or vṛddhi grade, unless they belong to those roots ending in -i / -u /-ṛ that form a gerundive with the suffix -⟪त्य⟫ (fem. -⟪त्या⟫) (list of these roots in Kielhorn, Grammar §537).**
 :::
 Example:
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
 | ⟪स्मृ⟫ 1P |  ⟪स्मर्य⟫ 3 | "that which must be remembered" |
 
-::::::grammar-box
+:::
+::: grammar-box
 **2a. Roots ending in -i/-ī have guṇa grade**
 :::
 Examples:
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
 | ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "to be sold; saleable" |
 | ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "to be led" |
 
-::::::media
+:::: media
 ![lekt4103.jpg](/images/lekt4103.webp)
 Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 (Image source: [Details](/en/licenses#lekt4103))
-::::::grammar-box
+::::
+:::
+::: grammar-box
 **2b. Roots ending in -u /-ū replace the guṇa-grade -o before -ya with -av, and the vṛddhi-grade -au with -āv. Vṛddhi-grade formation implies necessity in this case.**
 
 :::
 Example:
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
@@ -202,30 +207,32 @@ Low-grade formation:
 
 Examples:
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
 | ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "worth seeing" |
 | ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "one who ought to be taught = student" |
 
-::::::media
+:::: media
 ![lekt4106.jpg](/images/lekt4106.webp)
 Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
 (Image source: [Details](/en/licenses#lekt4106))
+::::
 :::
 High-grade formation:
 
 Examples:
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
 | ⟪द्विष्⟫ 2U | ⟪द्वेष्य⟫ 3 | "to be hated = enemy" |
 | ⟪भिद्⟫ 7U | ⟪भेद्य⟫ 3 | "to be split" |
 
-::::::grammar-box
+:::
+::: grammar-box
 **Causatives and Verbs of the 10th Present Class (⟪चुरादि⟫)**
 
 **Formation:**
@@ -234,22 +241,24 @@ Causative/present stem without -aya- + -⟪य⟫
 :::
 Example:
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
 | ⟪मन्⟫ Causative¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "to be honored, highly revered" |
 
-::::::indent
+:::: indent
 ¹ actually a denominative from **⟪मान⟫**
-::::::media
+::::
+:::
+::: media
 ![lekt4107.jpg](/images/lekt4107.jpg)
 Fig.: ⟪मान्यः⟫
 (Image source: [Details](/en/licenses#lekt4107))
 :::
 #### 41.2.2.4. The Suffix -⟪त्य⟫ / ⟪त्या⟫ (instead of -⟪य⟫ / -⟪या⟫)
 
-:::grammar-box
+::: grammar-box
 List of roots ending in -i / -u /-ṛ that form a gerundive with the suffix -⟪त्य⟫ (fem. -⟪त्या⟫) instead of with -⟪य⟫ / -⟪या⟫, in Kielhorn, Grammar §537.
 
 **Formation:**
@@ -258,7 +267,7 @@ low-grade root + -⟪त्य⟫ / -⟪त्या⟫
 :::
 Examples:
 
-:::no-header
+::: no-header
 
 | | | |
 | :--- | :--- | :--- |
@@ -269,24 +278,26 @@ Examples:
 :::
 ### 41.2.3. Syntactic aspects of the "Participle" of passive necessity (Gerundivum) (⟪कृत्य⟫)
 
-::::grammar-box
+::: grammar-box
 The Gerundive can be used attributively:
 
-:::indent
+:::
+::: indent
 **⟪दर्शनीयं⟫ ⟪नगरम्⟫** = "a city that must be seen; a city worth seeing"
 :::
 The Gerundive can also be used as a predicative noun in sentences with a passive construction that expresses an obligation or command (with ⟪न⟫ a prohibition, an impossibility):
 
-:::indent
+::: indent
 **⟪काशी⟫ ⟪द्विजैर्द्रष्टव्या⟫** = "The twice-born must see Benares"
-::::::::::media
+:::: media
 ![lekt4108.jpg](/images/lekt4108.webp)
 Fig.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
 (Image source: [Details](/en/licenses#lekt4108))
+::::
 :::
 ### 41.2.4. Differences in the Usage of the Gerundive Suffixes
 
-:::grammar-box
+::: grammar-box
 The usage of these suffixes largely overlaps
 
 * **-⟪तव्य⟫ (fem. -⟪तव्या⟫):** always expresses necessity and is preferably used predicatively (rarely attributively). Forms with this suffix should not be used in nominal compounds.
@@ -294,7 +305,7 @@ The usage of these suffixes largely overlaps
 :::
 ### 41.2.5. No connection with ⟪सु⟫- and ⟪दुस्⟫-
 
-:::grammar-box
+::: grammar-box
 ⟪सु⟫- and ⟪दुस्⟫-, meaning "light" or "heavy" respectively, must not be combined with gerundives. Instead, ⟪तत्पुरुष⟫ of type ⟪सुकर⟫ 3 ("easy to do") are used (see [Lesson 18](lektion18.md)).
 :::
 ## 41.3. Word List
@@ -303,7 +314,7 @@ The usage of these suffixes largely overlaps
 
 ⟪भुजङ्ग⟫ m.: snake
 
-:::media
+::: media
 ![lekt4105.jpg](/images/lekt4105.webp)
 Fig.: ⟪भुजङ्गः⟫
 (Image source: [Details](/en/licenses#lekt4105))
@@ -312,14 +323,14 @@ Fig.: ⟪भुजङ्गः⟫
 
 ⟪विष⟫ n.: poison
 
-:::media
+::: media
 ![lekt4104.jpg](/images/lekt4104.webp)
 Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
 (Image source: [Details](/en/licenses#lekt4104))
 :::
 ⟪शास्⟫ 2P ⟪शास्ति⟫ : reprimand, control, command, teach
 
-:::indent
+::: indent
 has the weak present stem **⟪शिष्⟫** : **⟪शिष्मस्⟫**, but the 3rd pl. P. has the strong stem: **⟪शासति⟫** (!! ending -ati) alongside occasional **⟪शासन्ति⟫**. **⟪अशासुर्⟫**. Also the entire ⟪आत्मनेपद⟫ has, insofar as it occurs, the strong stem: **⟪शास्ते⟫**
 
 Perf I **⟪शशास⟫**, **⟪शशासुर्⟫**  
@@ -332,29 +343,33 @@ Absol. **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
 thereof:
 
 **⟪शासना⟫** f.: royal edict, teaching, religion
-::::::media
+:::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
 Fig.: ⟪शासना⟫
 (Image source: [Details](/en/licenses#lekt4109))
-::::::indent
+::::
+:::
+::: indent
 **⟪शास्त्र⟫** n.: teaching, treatise
 
 **⟪शास्त्रिन्⟫** m.: learned, scholar
-::::::media
+:::
+::: media
 ![lekt4110.jpg](/images/lekt4110.webp)
 Fig.: ⟪शास्त्री⟫
 (Image source: [Details](/en/licenses#lekt4110))
-::::::indent
+:::
+::: indent
 **⟪शिष्य⟫** 3: one to be instructed = student
 :::
 ⟪शरण⟫ 3: protecting, shielding; n. protection, refuge, taking refuge
 
 ⟪सङ्घ⟫ n.: (to ⟪सम्⟫-⟪हन्⟫ : to strike together): group, heap, community (e.g. Buddhist)
 
-:::deleteme-box
+::: deleteme-box
 see also:
 
-**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \<1944 - \>:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: young girl, daughter, maiden
 
@@ -362,7 +377,7 @@ see also:
 
 ⟪इ⟫ + ⟪अति⟫ 2P ⟪अत्येति⟫ : to pass by
 
-:::indent
+::: indent
 PPP **⟪अतीत⟫** : n. past
 :::
 ## 41.4. Exercise
@@ -375,7 +390,7 @@ B) Translate:
 
 ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ⟪तत्र⟫ ⟪च⟫ ⟪मरिष्यामीति⟫ ⟪मन्यमानो⟫ ⟪मान्यो⟫ ⟪वृद्धनरः⟫ ⟪पुत्रांश्च⟫ ⟪पुत्रपुत्रांश्च⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याज⟫ ⟪काशीं⟫ ⟪च⟫ ⟪प्राव्रजत्⟫ ⟪।⟫ ⟪एवं⟫ ⟪च⟫ ⟪रोध्यं⟫ ⟪दुःखं⟫ ⟪तरिष्यतीति⟫ ⟪मन्ये⟫ ⟪॥२॥⟫
 
-:::media
+::: media
 ![lekt4111.jpg](/images/lekt4111.webp)
 Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ...
 (Image source: [Details](/en/licenses#lekt4111))
@@ -386,7 +401,7 @@ Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫
 
 ⟪गुरुभिः⟫ ⟪शिष्याः⟫ ⟪शासितव्याः⟫ ⟪शिष्यैरध्ययनमध्येतव्यम्⟫ ⟪॥५॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 - **Image lekt4102.jpg** (Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Image source: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, non-commercial use)]
 - **Image lekt4103.jpg** (Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [Image source: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Accessed on 2009-01-03. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]

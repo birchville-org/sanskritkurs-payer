@@ -8,48 +8,48 @@ last_reconstructed: 2026-05-15
 
 # Leçon 59
 
-:::media
+::: media
 ![](/images/uebung098.webp)
 Fig. : ⟪रावणः⟫
-(Source de l'image : [Détails](/fr/licenses#uebung098))
+(Source de l'image : [Détails](/licenses#uebung098))
 :::
 ---
 
 ## A) Analyse du texte
 
-Traduisez le texte suivant et identifiez toutes les formes verbales qui y figurent.
+Traduisez le texte suivant et déterminez toutes les formes verbales qui y figurent.
 
 La traduction est volontairement maladroite, afin de servir d'aide à la traduction.
 
-_Aide à la traduction:_ Vers 6: ⟪दिदृक्षते⟫ \= Désidératif de ⟪दृश्⟫
+_Aide à la traduction :_ Vers 6 : ⟪दिदृक्षते⟫ \= Désidératif de ⟪दृश्⟫
 
-Texte tiré de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s.
+Texte tiré de : Otto Böhtlingk : Sanskrit-Chrestomathie p. 127s.
 
 ⟪राक्षसेन्द्रस्ततो⟫ ⟪ऽभैषीदैक्षिष्ट⟫ ⟪परितः⟫ ⟪पुरम्⟫ ⟪।⟫  
 ⟪प्रातिष्ठिपच्च⟫ ⟪बोधार्थं⟫ ⟪कुम्भकर्णस्य⟫ ⟪राक्षसान्⟫ ⟪॥१॥⟫
 
-> Là-dessus, le seigneur des démons eut peur. Il regarda autour de la ville et envoya les Rākṣasas pour réveiller Kumbhakarṇa¹.
+> Là-dessus, le prince des démons eut peur. Il regarda autour de la ville et envoya les Rākṣasas pour réveiller Kumbhakarṇa¹.
 >
 > ⟪अभैषीत्⟫ -  ⟪भी⟫ Aor. 4 P  
 > ⟪ऐक्षिष्ट⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā  
 > ⟪प्रातिष्ठिपत्⟫ - ⟪प्र⟫-⟪स्था⟫ irrég. (voir Pāṇini 7.4.5) Aor. 3
 >
-> 1 Kumbhkarṇa, le frère de Rāvaṇa, est, en punition de ses méfaits, dans un sommeil perpuel
+> 1 Kumbhkarṇa, le frère de Rāvaṇa, est, en punition de ses méfaits, dans un sommeil perpuel.
 
 ⟪ते⟫ ⟪ऽभ्यगुर्भवनं⟫ ⟪तस्य⟫ ⟪सुप्तं⟫ ⟪चैक्षिषताथ⟫ ⟪तम्⟫ ⟪।⟫  
 ⟪व्याहार्षुस्तुमुलाञ्छब्दान्दण्डैश्चावधिषुर्द्रुतम्⟫ ⟪॥२॥⟫
 
-> Ceux-ci allèrent à sa maison et le virent endormi. Ils firent des bruits tumultueux et frappèrent rapidement avec des bâtons.
+> Ceux-ci allèrent à sa maison et le virent endormi. Ils émettaient des bruits tumultueux et frappaient rapidement avec des bâtons.
 >
 > ⟪अभ्यगुर्⟫ - ⟪अभि⟫-⟪गा⟫ (pour ⟪इ⟫) Aor. 1 P  
 > ⟪अक्षिषत⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā (3.pl.)  
-> ⟪व्याहार्षुर्⟫ - ⟪वि⟫-⟪आ⟫-⟪हृ⟫ prononcer, dire Aor. 4 P  
+> ⟪व्याहार्षुर्⟫ - ⟪वि⟫-⟪आ⟫-⟪हृ⟫ exprimer, dire Aor. 4 P  
 > ⟪अवधिषुर्⟫ - ⟪वध्⟫ (au lieu de ⟪हन्⟫) Aor. 5
 
 ⟪केशानलुञ्चिषुस्तस्य⟫ ⟪गजान्गात्रेष्वभिभ्रमन्⟫ ⟪।⟫  
 ⟪शीतैरभ्यषिचंस्तोयैरलातैश्चाप्यदम्भिषुः⟫ ⟪॥३॥⟫
 
-> Ils tirèrent ses cheveux, firent errer des éléphants sur ses membres; ils l'aspergèrent d'eau froide et le blessèrent avec des feux.
+> Ils tiraient ses cheveux, faisaient errer des éléphants sur ses membres ; ils l'aspergeaient d'eau froide et le blessaient avec des feux.
 >
 > ⟪अलुञ्चिषुर्⟫ - ⟪लुञ्च्⟫ Aor. 5  
 > ⟪अबिभ्रमन्⟫ - ⟪भ्रम्⟫ Caus. Aor. 3  
@@ -59,7 +59,7 @@ Texte tiré de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s.
 ⟪नखैरकर्तिषुस्तीक्ष्णैरदाङ्क्षुर्दशनैस्तथा⟫ ⟪।⟫  
 ⟪शितैरतौत्सुः⟫ ⟪शूलैश्च⟫ ⟪भेरीश्चावीवदञ्छुभाः⟫ ⟪॥४॥⟫
 
-> Ils le coupèrent avec de sharp ongles et le mordirent avec les dents, ils le frappèrent avec de sharp piques et firent retentir de clairs tambours.
+> Ils le coupaient avec des ongles tranchants et le mordaient avec les dents, ils le frappaient avec des lances acérées et faisaient retentir des tambours clairs.
 >
 > ⟪अकर्तिषुर्⟫ - ⟪कृत्⟫ Aor. 5  
 > ⟪अदाङ्क्षुर्⟫ - ⟪दंश्⟫ Aor. 4  
@@ -69,7 +69,7 @@ Texte tiré de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s.
 ⟪स⟫ ⟪तान्नाजीगणत्सर्वानिच्छयाबुद्ध⟫ ⟪च⟫ ⟪स्वयम्⟫ ⟪।⟫  
 ⟪अबूबुधत⟫ ⟪कस्मान्मामप्राक्षीच्च⟫ ⟪निशाचरान्⟫ ⟪॥५॥⟫
 
-> Il ne prêta attention à aucun d'eux, par sa propre volonté, il se réveilla lui-même et interrogea les somnambules: "Pourquoi m'avez-vous réveillé?"
+> Il ne prêta attention à aucun d'eux ; par sa propre volonté, il s'éveilla lui-même et interrogea les somnambules : "Pourquoi m'avez-vous réveillé ?"
 >
 > ⟪अजीगणत्⟫ - ⟪गण्⟫ 10 Aor 3  
 > ⟪अबुद्ध⟫ - ⟪बुध्⟫ Aor 4 (à côté de ⟪अबोधि⟫)  
@@ -79,7 +79,7 @@ Texte tiré de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s.
 ⟪ते⟫ ⟪ऽभाषिषत⟫ ⟪राजा⟫ ⟪त्वां⟫ ⟪दिदृक्षुः⟫ ⟪क्षणदाचर⟫ ⟪।⟫  
 ⟪सो⟫ ⟪ऽस्नासीद्व्यलिपन्मांसमप्सासीद्वारुणीमपात्⟫ ⟪॥६॥⟫
 
-> Ceux-ci dirent: "Le roi est désireux de vous voir, somnambule!" Il se baigna, se frotta de crème, dévora de la viande, but du vin de palme;
+> Ceux-ci dirent : "Le roi a le désir de te voir, somnambule !" Il se baigna, se frotta de crème, dévora de la viande, but du vin de palme ;
 >
 > ⟪अभाषिषत⟫ - ⟪भाष्⟫ Ā Aor. 5  
 > ⟪अस्नासीत्⟫ - ⟪स्ना⟫ Aor. 6  
@@ -88,79 +88,79 @@ Texte tiré de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s.
 > ⟪अपात्⟫ - ⟪पा⟫ Aor. 1
 
 ⟪न्यवसिष्ट⟫ ⟪ततो⟫ ⟪द्रष्टुं⟫ ⟪रावणं⟫ ⟪प्रावृतद्गृहात्⟫ ⟪।⟫  
-⟪राजायान्तं⟫ ⟪तमद्राक्षीदुदस्थाच्चेषदासनात्⟫ ⟪॥७॥⟫
+⟪राजायान्तं⟫ ⟪तमद्राक्षीदुदस्थाच्चेषदासनात्⟫ ⟪॥७॥⟩
 
-> Il s'habilla, puis sortit de chez lui pour voir Rāvaṇa. Le roi le vit arriver et se leva un peu de son siège.
+> Il s'habilla, puis sortit de chez lui pour voir Rāvaṇa. Le roi le vit arriver et se leva légèrement de son siège.
 >
-> ⟪न्यवसिष्ट⟫ - ⟪नि⟫-⟪वस्⟫ 2Ā Aor. 5  
-> ⟪प्रावृतत्⟫ - ⟪प्र⟫-⟪वृत्⟫ Ā Aor. 2 P (dans l'Aor. aussi P!)  
-> ⟪अद्राक्षीत्⟫ - ⟪दृश्⟫  Aor. 4  
-> ⟪उदस्थात्⟫ - ⟪उद्⟫-⟪स्था⟫ Aor. 1
+> ⟪न्यवसिष्ट⟩ - ⟪नि⟩-⟪वस्⟩ 2Ā Aor. 5  
+> ⟪प्रावृतत्⟩ - ⟪प्र⟩-⟪वृत्⟩ Ā Aor. 2 P (imparfait aussi P !)  
+> ⟪अद्राक्षीत्⟩ - ⟪दृश्⟩  Aor. 4  
+> ⟪उदस्थात्⟩ - ⟪उद्⟩-⟪स्था⟩ Aor. 1
 
-⟪अतुषत्पीठमासन्ने⟫ ⟪निरदिक्षच्च⟫ ⟪काञ्चनम्⟫ ⟪।⟫  
-⟪अस्मेष्ट⟫ ⟪कुम्भकर्णो⟫ ⟪ऽल्पमुपाविक्षदथान्तिके⟫ ⟪॥८॥⟫
+⟪अतुषत्पीठमासन्ने⟩ ⟪निरदिक्षच्च⟩ ⟪काञ्चनम्⟩ ⟪।⟩  
+⟪अस्मेष्ट⟩ ⟪कुम्भकर्णो⟩ ⟪ऽल्पमुपाविक्षदथान्तिके⟩ ⟪॥८॥⟩
 
-> Il était satisfait et lui indiqua un siège doré à proximité. Kumbhkarṇa sourit légèrement, puis s’assit à proximité.
+> Il fut satisfait et lui désigna un siège doré à proximité. Kumbhkarṇa sourit légèrement et s'assit alors près de lui.
 >
-> ⟪अतुषत्⟫ - ⟪तुष्⟫ Aor. 2  
-> ⟪निरदिक्षत्⟫ - ⟪निर्⟫-⟪दिश्⟫ Aor. 7  
-> ⟪अस्मेष्ट⟫ - ⟪स्मि⟫ Ā Aor. 4  
-> ⟪उपाविक्षत्⟫ - ⟪उप⟫-⟪विश्⟫ Aor. 7
+> ⟪अतुषत्⟩ - ⟪तुष्⟩ Aor. 2  
+> ⟪निरदिक्षत्⟩ - ⟪निर्⟩-⟪दिश्⟩ Aor. 7  
+> ⟪अस्मेष्ट⟩ - ⟪स्मि⟩ Ā Aor. 4  
+> ⟪उपाविक्षत्⟩ - ⟪उप⟩-⟪विश्⟩ Aor. 7
 
-⟪अवादीन्मां⟫ ⟪किमित्याह्वो⟫ ⟪राज्ञा⟫ ⟪च⟫ ⟪प्रत्यवादि⟫ ⟪सः⟫ ⟪।⟫  
-⟪नाज्ञासीस्त्वं⟫ ⟪सुखी⟫ ⟪रामो⟫ ⟪यदकार्षीत्स⟫ ⟪रक्षसाम्⟫ ⟪॥९॥⟫
+⟪अवादीन्मां⟩ ⟪किमित्याह्वो⟩ ⟪राज्ञा⟩ ⟪च⟩ ⟪प्रत्यवादि⟩ ⟪सः⟩ ⟪।⟩  
+⟪नाज्ञासीस्त्वं⟩ ⟪सुखी⟩ ⟪रामो⟩ ⟪यदकार्षीत्स⟩ ⟪रक्षसाम्⟩ ⟪॥९॥⟩
 
-> Il parla : « Pourquoi m’as-tu convoqué ? » Le roi lui répondit : « Heureux, tu n’as pas reconnu ce que Rāma a fait aux démons.
+> Il parla : « Pourquoi m'as-tu appelé ? » Le roi lui répondit : « Heureux, tu n'as pas reconnu ce que Rāma a fait aux démons.
 >
-> ⟪अवादीत्⟫ - ⟪वद्⟫ Aor. 5  
-> ⟪आह्वस्⟫ - ⟪आ⟫-⟪ह्वे⟫ Aor. 2  
-> ⟪प्रत्यवादि⟫ - ⟪प्रति⟫-⟪वद्⟫ Passivaorist  
-> ⟪अज्ञासीस्⟫ - ⟪ज्ञा⟫ Aor. 6  
-> ⟪अकार्षीत्⟫ - ⟪कृ⟫ Aor. 4
+> ⟪अवादीत्⟩ - ⟪वद्⟩ Aor. 5  
+> ⟪आह्वस्⟩ - ⟪आ⟩-⟪ह्वे⟩ Aor. 2  
+> ⟪प्रत्यवादि⟩ - ⟪प्रति⟩-⟪वद्⟩ Passivaorist  
+> ⟪अज्ञासीस्⟩ - ⟪ज्ञा⟩ Aor. 6  
+> ⟪अकार्षीत्⟩ - ⟪कृ⟩ Aor. 4
 
-⟪उदतारीदुदन्वन्तं⟫ ⟪पुरं⟫ ⟪नः⟫ ⟪परितो⟫ ⟪ऽरुधत्⟫ ⟪।⟫  
-⟪व्यद्योतिष्ट⟫ ⟪रणे⟫ ⟪शस्त्रैरनैषीद्राक्षसान्क्षयम्⟫ ⟪॥१०॥⟫
+⟪उदतारीदुदन्वन्तं⟩ ⟪पुरं⟩ ⟪नः⟩ ⟪परितो⟩ ⟪ऽरुधत्⟩ ⟪।⟩  
+⟪व्यद्योतिष्ट⟩ ⟪रणे⟩ ⟪शस्त्रैरनैषीद्राक्षसान्क्षयम्⟩ ⟪॥१०॥⟩
 
-> Il a traversé l’océan, a bloqué notre ville de tous côtés, il a brillé au combat avec des armes tranchantes, il a conduit les démons à la destruction.
+> Il a traversé l'océan, a bloqué notre ville tout autour, il a brillé dans la bataille avec des armes tranchantes, il a conduit les démons à la destruction.
 >
-> ⟪उदतारीत्⟫ - ⟪उद्⟫-⟪तॄ⟫ Aor. 5  
-> ⟪अरुधत्⟫ - ⟪रुध्⟫ Aor. 2  
-> ⟪व्यद्योतिष्ट⟫ - ⟪वि⟫-⟪द्युत्⟫  Aor. 5  
-> ⟪अनैषीत्⟫ - ⟪नी⟫ Aor. 4
+> ⟪उदतारीत्⟩ - ⟪उद्⟩-⟪तॄ⟩ Aor. 5  
+> ⟪अरुधत्⟩ - ⟪रुध्⟩ Aor. 2  
+> ⟪व्यद्योतिष्ट⟩ - ⟪वि⟩-⟪द्युत्⟩  Aor. 5  
+> ⟪अनैषीत्⟩ - ⟪नी⟩ Aor. 4
 
-⟪न⟫ ⟪प्रावोचमहं⟫ ⟪किंचित्प्रियं⟫ ⟪यावदजीविषम्⟫ ⟪।⟫  
-⟪बन्धुस्त्वमर्चितः⟫ ⟪स्नेहान्मा⟫ ⟪द्विषो⟫ ⟪न⟫ ⟪वधीर्मम⟫ ⟪॥११॥⟫
+⟪न⟩ ⟪प्रावोचमहं⟩ ⟪किंचित्प्रियं⟩ ⟪यावदजीविषम्⟩ ⟪।⟩  
+⟪बन्धुस्त्वमर्चितः⟩ ⟪स्नेहान्मा⟩ ⟪द्विषो⟩ ⟪न⟩ ⟪वधीर्मम⟩ ⟪॥११॥⟩
 
-> Je n’ai, de mon vivant, prononcé aucune flatterie. Tu es mon parent chéri par amour. Ne cesse pas de massacrer mes ennemis !
+> Je n'ai jamais dit de flatterie tant que j'ai vécu. Tu es mon parent chéri par amour. Ne cesse pas de massacrer mes ennemis !
 >
-> ⟪प्रावोचम्⟫ - ⟪प्र⟫-⟪वच्⟫ Aor. 3  
-> ⟪अजीविषम्⟫ - ⟪जीव्⟫ Aor. 5  
-> ⟪वधीस्⟫ - ⟪वध्⟫ Injunktiv Aor. 5
+> ⟪प्रावोचम्⟩ - ⟪प्र⟩-⟪वच्⟩ Aor. 3  
+> ⟪अजीविषम्⟩ - ⟪जीव्⟩ Aor. 5  
+> ⟪वधीस्⟩ - ⟪वध्⟩ Injunktiv Aor. 5
 
-⟪वीर्यं⟫ ⟪मा⟫ ⟪न⟫ ⟪ददर्शस्त्वं⟫ ⟪मा⟫ ⟪न⟫ ⟪त्रास्थाः⟫ ⟪क्षतां⟫ ⟪पुरम्⟫ ⟪।⟫  
-⟪तवाद्राक्ष्म⟫ ⟪वयं⟫ ⟪वीर्यं⟫ ⟪त्वमजैषीः⟫ ⟪पुरा⟫ ⟪सुरान्⟫ ⟪॥१२॥⟫
+⟪वीर्यं⟩ ⟪मा⟩ ⟪न⟩ ⟪ददर्शस्त्वं⟩ ⟪मा⟩ ⟪न⟩ ⟪त्रास्थाः⟩ ⟪क्षतां⟩ ⟪पुरम्⟩ ⟪।⟩  
+⟪तवाद्राक्ष्म⟩ ⟪वयं⟩ ⟪वीर्यं⟩ ⟪त्वमजैषीः⟩ ⟪पुरा⟩ ⟪सुरान्⟩ ⟪॥१२॥⟩
 
-> Ne cesse pas de montrer ton courage viril, ne cesse pas de sauver la ville blessée ! Nous avons vu ton courage. Tu as autrefois vaincu les dieux. »
+> Ne cesse pas de montrer ta virilité, ne cesse pas de sauver la ville blessée ! Nous avons vu ta virilité. Tu as autrefois vaincu les dieux."
 >
-> ⟪ददर्शस्⟫ - ⟪दृश्⟫ Kaus. Injunktiv Aor. 3  
-> ⟪त्रास्थास्⟫ - ⟪त्रै⟫ Ā Injunktiv. Aor. 4  
-> ⟪अद्राक्ष्म⟫ - ⟪दृश्⟫ Aor. 4  
-> ⟪अजैषीस्⟫ - ⟪जि⟫ Aor. 4
+> ⟪ददर्शस्⟩ - ⟪दृश्⟩ Kaus. Injunktiv Aor. 3  
+> ⟪त्रास्थास्⟩ - ⟪त्रै⟩ Ā Injunktiv. Aor. 4  
+> ⟪अद्राक्ष्म⟩ - ⟪दृश्⟩ Aor. 4  
+> ⟪अजैषीस्⟩ - ⟪जि⟩ Aor. 4
 
-⟪अवोचत्कुम्भकर्णस्तं⟫ ⟪वयं⟫ ⟪मन्त्रे⟫ ⟪ऽभ्यधाम⟫ ⟪यत्⟫ ⟪।⟫  
-⟪न⟫ ⟪त्वं⟫ ⟪सर्वं⟫ ⟪तदश्रौषीः⟫ ⟪फलं⟫ ⟪तस्येदमागमत्⟫ ⟪॥१३॥⟫
+⟪अवोचत्कुम्भकर्णस्तं⟩ ⟪वयं⟩ ⟪मन्त्रे⟩ ⟪ऽभ्यधाम⟩ ⟪यत्⟩ ⟪।⟩  
+⟪न⟩ ⟪त्वं⟩ ⟪सर्वं⟩ ⟪तदश्रौषीः⟩ ⟪फलं⟩ ⟪तस्येदमागमत्⟩ ⟪॥१३॥⟩
 
-> Kumbhakarṇa lui parla : « Ce que nous avons exposé lors de la consultation, tu n’as pas écouté tout cela. Cela est venu comme fruit de cela.
+> Kumbhakarṇa lui parla : « Ce que nous avons exposé lors de la consultation, tu n'as pas écouté tout cela. Cela est venu comme fruit de cela.
 >
-> ⟪अवोचत्⟫ - ⟪वच्⟫ Aor. 3  
-> ⟪अभ्यधाम⟫ - ⟪अभि⟫-⟪धा⟫ Aor. 1  
-> ⟪अश्रौषीस्⟫ - ⟪श्रु⟫ Aor. 4  
-> ⟪आगमत्⟫ - ⟪आ⟫-⟪गम्⟫ Aor. 2
+> ⟪अवोचत्⟩ - ⟪वच्⟩ Aor. 3  
+> ⟪अभ्यधाम⟩ - ⟪अभि⟩-⟪धा⟩ Aor. 1  
+> ⟪अश्रौषीस्⟩ - ⟪श्रु⟩ Aor. 4  
+> ⟪आगमत्⟩ - ⟪आ⟩-⟪गम्⟩ Aor. 2
 
-⟪प्राज्ञवाक्यान्यवामामंस्था⟫ ⟪मूर्खवाक्येष्ववास्थिथाः⟫ ⟪।⟫  
-⟪अध्यगीष्ठाश्च⟫ ⟪शास्त्राणि⟫ ⟪प्रत्यपत्था⟫ ⟪हितं⟫ ⟪न⟫ ⟪च⟫ ⟪॥१४॥⟫
+⟪प्राज्ञवाक्यान्यवामामंस्था⟩ ⟪मूर्खवाक्येष्ववास्थिथाः⟩ ⟪।⟩  
+⟪अध्यगीष्ठाश्च⟩ ⟪शास्त्राणि⟩ ⟪प्रत्यपत्था⟩ ⟪हितं⟩ ⟪न⟩ ⟪च⟩ ⟪॥१४॥⟩
 
-> Tu as méprisé les paroles des sages, tu t’es fié aux paroles des imbéciles, tu as étudié les traités et n’es pas [pourtant] parvenu au salut.
+> Tu as méprisé les paroles des sages, tu t'es fié aux paroles des insensés, tu as étudié les traités et n'es pas [pourtant] parvenu au salut.
 >
 > ⟪अवामामंस्थास्⟫ - ⟪अव⟫-⟪मन्⟫ Aor. 4  
 > ⟪अवास्थिथास्⟫ - ⟪अव⟫-⟪स्था⟫ Aor. 4  
@@ -170,7 +170,7 @@ Texte tiré de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s.
 ⟪मूर्खास्त्वामववञ्चन्त⟫ ⟪ये⟫ ⟪विग्रहमचीकरन्⟫ ⟪।⟫  
 ⟪अभाणीन्माल्यवान्युक्तमक्षंस्थास्त्वं⟫ ⟪न⟫ ⟪तन्मदात्⟫ ⟪॥१५॥⟫
 
-> Les imbéciles, qui ont provoqué la discorde, t’ont trompé. Mālyavant¹ parla ce qui convenait. Tu ne lui as pas pardonné à cause de ton ivresse.
+> Les insensés qui ont provoqué la discorde t'ont trompé. Mālyavant¹ a parlé convenablement. Tu ne lui as pas pardonné en raison de ton ivresse.
 >
 > ⟪अववञ्चन्त⟫ - ⟪वञ्च्⟫ Kaus. Aor. 3  
 > ⟪अचीकरन्⟫ - ⟪कृ⟫ Aor. 3  
@@ -182,13 +182,13 @@ Texte tiré de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s.
 ⟪राघवस्यामुषः⟫ ⟪कान्तामाप्तैरुक्तो⟫ ⟪न⟫ ⟪चार्पिपः⟫ ⟪।⟫  
 ⟪मा⟫ ⟪नानुभूः⟫ ⟪स्वकान्दोषान्मा⟫ ⟪मुहो⟫ ⟪मा⟫ ⟪रुषो⟫ ⟪ऽधुना⟫ ⟪॥१६॥⟫
 
-> Tu as volé l'épouse du descendant de Raghu¹. Bien qu'on te l'eût ordonné par des personnes autorisées, tu ne l'as pas renvoyée. Cesse de ne pas reconnaître tes propres erreurs ! Ne sois pas confus, ne te mets pas en colère maintenant !
+> Tu as volé l'épouse du descendant de Raghu¹. Bien qu'on te l'eût dit par des personnes autorisées, tu ne l'as pas renvoyée. Cesse de ne pas reconnaître tes propres fautes ! Ne sois pas confus, ne te fâche pas maintenant !
 >
 > ⟪अमुषस्⟫ - ⟪मुष्⟫ Aor. 2  
-> ⟪आर्पि्पस्⟫ - ⟪ऋ⟫ Caus. Aor. 3  
-> ⟪अनुभूस्⟫ - ⟪अनु⟫-⟪भू⟫ Inj. Aor. 1  
-> ⟪मुहस्⟫ - ⟪मुह्⟫ Inj. Aor. 2  
-> ⟪रुषस्⟫ - ⟪रुष्⟫ Inj. Aor. 2
+> ⟪आर्पि्पस्⟫ - ⟪ऋ⟫ Kaus. Aor. 3  
+> ⟪अनुभूस्⟫ - ⟪अनु⟫-⟪भू⟫ Injunktiv Aor. 1  
+> ⟪मुहस्⟫ - ⟪मुह्⟫ Injunktiv Aor. 2  
+> ⟪रुषस्⟫ - ⟪रुष्⟫ Injunktiv Aor. 2
 >
 > 1 Rāma
 
@@ -199,20 +199,20 @@ Texte tiré de: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127s.
 >
 > ⟪अत्यक्रमीत्⟫ - ⟪क्रम्⟫ Aor. 5  
 > ⟪अवादिषम्⟫ - ⟪वद्⟫ Aor. 5  
-> ⟪अघानिषत⟫ - ⟪हन्⟫ Pass. Aor. 3.pl.  
+> ⟪अघानिषत⟫ - ⟪हन्⟫ Passivaorist 3.pl.  
 > ⟪अव्ययीस्⟫ - ⟪व्यय्⟫ Aor. 5
 
 ⟪संधानकारणां⟫ ⟪तेजो⟫ ⟪न्यगभूत्ते⟫ ⟪ऽकृथास्तथा⟫ ⟪।⟫  
 ⟪यत्त्वं⟫ ⟪वैराणि⟫ ⟪कोशं⟫ ⟪च⟫ ⟪सहदण्डमजिग्लपः⟫ ⟪॥१८॥⟫
 
-> Ton pouvoir, fondement d'une alliance, s'est dissipé. Tu as agi de telle manière que tu as laissé tes armées et ton trésor, ainsi que le pouvoir politique, s'évanouir."
+> Ton pouvoir, fondement d'une alliance, s'est évanoui. Tu as agi de telle manière que tu as laissé s'évanouir tes armées, ton trésor ainsi que le pouvoir politique."
 >
 > ⟪अभूत्⟫ - ⟪भू⟫ Aor. 1  
 > ⟪अकृथास्⟫ - ⟪कृ⟫ Aor. 4/1  
-> ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ Caus. Aor. 3
+> ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ Kaus. Aor. 3
 
-::::media
+::: media
 ![](/images/uebung099.webp)
 Fig. : ⟪रामस्य⟫ ⟪रावणेन⟫ ⟪युद्धः⟫
-(Source de l'image : [Détails](/fr/licenses#uebung099))
+(Source de l'image : [Détails](/licenses#uebung099))
 :::

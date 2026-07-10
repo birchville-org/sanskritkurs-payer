@@ -1,41 +1,36 @@
 ---
-title: Leçon 9
-subtitle: "Samāhāradvandva & suffixes nominaux -ka/-aka"
+title: Lektion 9
+subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
 lesson_id: 9
-category: "Grammaire"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
-# Leçon 9
+# Lektion 9
 
-:::deleteme-box
+::: deleteme-box
 **Dans cette leçon, vous apprendrez :**
 - Le Samāhāradvandva (« dvandva de résumé »)
-- La formation de radicaux nominaux avec les suffixes **-ka** (taddhita) et **-aka** (kṛt)
-- Le vocabulaire relatif aux professions et aux rôles sociaux
-- Des citations tirées de textes classiques de Dharmaśāstra
+- La formation de stems nominaux avec les suffixes **-ka** (taddhita) et **-aka** (kṛt)
+- Le vocabulaire sur le thème des professions et des rôles sociaux
+- Des citations tirées de textes classiques de loi (Dharmaśāstras)
 :::
----
 
-## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = « résumé dvandva »)
+## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva")
 
-:::grammar-box
+::: grammar-box
 **Si un dvandva doit exprimer qu’une série de choses, etc., forment une unité, il est généralement au singulier neutre :**
 
 p. ex. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ ne signifie pas simplement « prise de nourriture (**āhāra** m.), sommeil (**nidrā** f.), accouplement (**maithuna** n.) et peur (**bhaya** n.) », mais ces quatre comme **unité**, qui caractérise la vie animale.
 :::
 Outre cette règle fondamentale de formation des Samāhāradvandvas, il existe une série d’autres règles que l’on trouve chez Pāṇini 2,4,2-17 ou par ex. Mr R. Kale, A higher Sanskrit grammar, réimpression 1969, § 189 - 192 a. Aux différentes étapes du développement linguistique, les mêmes règles n’ont pas toujours été respectées !
 
----
-
 ## 9.2. Sur la formation des thèmes nominaux
-
----
 
 ### 9.2.1. -ka (taddhita)
 
-:::grammar-box
+::: grammar-box
 **Le suffixe taddhita -ka forme notamment :**
 
 1\. **Diminutifs (formes diminutives comme l'allemand -chen, -lein, -li, -le) :**
@@ -51,57 +46,54 @@ Outre cette règle fondamentale de formation des Samāhāradvandvas, il existe u
    **kāśi f. "Bénarès" » kāśika 3 ⟪काशिक⟫ "né à Bénarès, originaire de Bénarès"**
    **rūpa n. "forme" » rūpaka 3 ⟪रूपक⟫ "ayant la forme de quelque chose"**
 :::
----
 
-### 9.2.2. -aka (kṛt), fém. souvent -ikā
+### 9.2.2. -aka (kṛt), fem. oft -ikā
 
-:::grammar-box
-**Le suffixe kṛt -aka, au féminin souvent -ikā, forme des noms d’agent (noms exprimant l’exécutant) à partir de n’importe quelle racine.**
+::: grammar-box
+**Le suffixe kṛt -aka, au féminin souvent -ikā, forme des noms d'agent (noms exprimant l'exécutant) à partir de n'importe quelle racine.**
 
-Une voyelle finale de la racine, ainsi qu’une voyelle **-a-** à l’avant-dernière position de la racine, sont remplacées par leur degré allongé (**vṛddhi**) (il existe quelques exceptions) ; les autres voyelles sont remplacées par leur degré renforcé (**guṇa**).
+Un vocalisme final de la racine, ainsi que **-a-** à l'avant-dernière position de la racine, sont remplacés par leur degré allongé (**vṛddhi**) (il existe quelques exceptions), les autres voyelles sont remplacées par leur degré renforcé (**guṇa**).
 :::
 **Exemples :**
 
-| Racine:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Signification |
+| Wurzel:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
-| **kṛ**:br8 U:br⟪कृ⟫:br"faire" | **kāraka**:br(⟪कारक⟫) | "Celui qui cause, faisant" |
-| **śru**:br5 P:br⟪श्रु⟫:br"entendre" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Auditeur, élève,:brbouddh. : disciple du Bouddha" |
-| **nī**:br1 U:br⟪नी⟫:br"conduire" | **nāyaka** m.:br(⟪नायक⟫) /:br**nāyikā** f.:br(⟪नायिका⟫) | "Chef, maître, époux,:bramant / amante, dame" |
-| **yaj**:br1 U:br⟪यज्⟫:br"sacrifier" | **yājaka** m.:br(⟪याजक⟫) | "Celui qui sacrifie, prêtre sacrificateur" |
-| **nṛt**:br4 P:br⟪नृत्⟫:br"danser" | **nartaka** m.:br(⟪नर्तक⟫) /:br**nartakī** f.:br(⟪नर्तकी⟫) | "Danseur / Danseuse" |
-| **ji**:br1 P:br⟪जि⟫:br"vaincre" | **jayaka** 3:br(⟪जयक⟫) | "victorieux" |
+| **kṛ** :br8 U:br⟪कृ⟫:br"machen" | **kāraka** :br(⟪कारक⟫) | "Bewirker, machend" |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Hörer, Schüler,:brbuddh.: Anhänger des Buddha" |
+| **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Führer, Gebieter, Gatte,:brLiebhaber / Geliebte, Dame" |
+| **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Opferer, Opferpriester" |
+| **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Tänzer / Tänzerin" |
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
 
-:::grammar-box
-**Certaines de ces formations ont le sens plus restreint : "celui qui accomplit habituellement ou comme obligation ou bien ce qui est exprimé par la racine".**
+::: grammar-box
+**Certaines de ces formations ont le sens plus restreint : « celui qui accommode habituellement ou par obligation ou bien ce qui est exprimé par la racine ».**
 :::
 voir ci-dessus par ex. **śrāvaka**, **yājaka**, **jayaka**
 
 **Exemples :**
 
-| Racine:br⟪धातु⟫ | + -aka (kṛt) | Signification |
+| Wurzel:br⟪धातु⟫ | + -aka (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
-| **kṛṣ**:br6 U:br⟪कृष्⟫:br"labourer" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Laboureur":br(degré réduit !) |
-| **kliś**:br9 P:br⟪क्लिशु⟫:br"tourmenter" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Celui qui tourmente" |
-| **khād**:br1 P:br⟪खाद्⟫:br"mâcher, manger" | **khādaka** m.:br(⟪खादक⟫) | "Celui qui mange, mangeur" |
+| **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Ackerbauer":br(tiefstufig!) |
+| **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" |
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" |
 
-Par ailleurs, il existe encore quelques utilisations moins importantes du suffixe **-aka**. Voir Wackernagel, Grammaire de l'ancien indien, II, §45ss.
+Il existe également quelques utilisations moins importantes du suffixe **-aka**. Voir Wackernagel, Altindische Grammatik, II, §45ff.
 
----
-
-## 9.3. Liste des mots
+## 9.3. Wortliste
 
 **Apprenez les mots suivants :**
 
 - **adhyayana** n. (⟪अध्ययन⟫) : Apprentissage, en particulier l'étude des Védas
 
-:::media
+::: media
 ![](/images/lekt0903.webp)
 Fig. : **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram près de Madurai.
 (Source de l'image : [Détails](/fr/licenses#lekt0903))
 :::
 - **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artisan
 
-:::media
+::: media
 ![](/images/lekt0902.webp)
 Fig. : **kāru** = ⟪कारु⟫, Gujarat.
 (Source de l'image : [Détails](/fr/licenses#lekt0902))
@@ -122,9 +114,7 @@ Fig. : **kāru** = ⟪कारु⟫, Gujarat.
 - **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Commerce
 - **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Obéissance, service obéissant
 
----
-
-## 9.4. Exercice
+## 9.4. Übung
 
 **A) Essayez de déterminer les significations possibles des mots suivants :**
 1\. **brāhmāṇaka** ⟪ब्राह्मणक⟫
@@ -135,7 +125,7 @@ Fig. : **kāru** = ⟪कारु⟫, Gujarat.
 6\. **rakṣikā** ⟪रक्षिका⟫
 7\. **karṣaka** ⟪कर्षक⟫
 
-:::media
+::: media
 ![](/images/lekt0901.webp)
 Fig. : **karṣaka** = ⟪कर्षक⟫.
 (Source de l'image : [Détails](/fr/licenses#lekt0901))

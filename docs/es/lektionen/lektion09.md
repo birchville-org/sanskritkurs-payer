@@ -1,41 +1,36 @@
 ---
-title: Lección 9
-subtitle: "Samāhāradvandva y sufijos nominales -ka/-aka"
+title: Lektion 9
+subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
 lesson_id: 9
-category: "Gramática"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
 # Lección 9
 
-:::deleteme-box
+::: deleteme-box
 **En esta lección aprenderá:**
 - El Samāhāradvandva ("dvandva de resumen")
 - La formación de raíces nominales con los sufijos **-ka** (taddhita) y **-aka** (kṛt)
 - Vocabulario sobre profesiones y roles sociales
 - Citas de textos clásicos de derecho (Dharmaśāstras)
 :::
----
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Resumen de dvandva")
 
-:::grammar-box
+::: grammar-box
 **Cuando un dvandva debe expresar que una serie de cosas, etc., forman una unidad, generalmente está en singular neutro:**
 
 por ejemplo, **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ no significa simplemente "ingesta de alimentos (**āhāra** m.), sueño (**nidrā** f.), apareamiento (**maithuna** n.) y miedo (**bhaya** n.)", sino estas cuatro como una **unidad**, que caracteriza la vida animal.
 :::
 Además de esta regla básica para la formación de Samāhāradvandvas, hay una serie de otras reglas que se pueden encontrar en Pāṇini 2,4,2-17 o, por ejemplo, en Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. ¡En las diferentes etapas del desarrollo del lenguaje no siempre se respetaron las mismas reglas!
 
----
-
 ## 9.2. Sobre la formación de raíces nominales
-
----
 
 ### 9.2.1. -ka (taddhita)
 
-:::grammar-box
+::: grammar-box
 **El sufijo taddhita -ka forma, entre otros:**
 
 1\. **Diminutivos (formas de diminución como alemán -chen, -lein, -li, -le):**
@@ -51,11 +46,10 @@ Además de esta regla básica para la formación de Samāhāradvandvas, hay una 
    **kāśi f. "Benarés" » kāśika 3 ⟪काशिक⟫ "originario de Benarés, procedente de Benarés"**
    **rūpa n. "forma" » rūpaka 3 ⟪रूपक⟫ "que posee la forma de algo"**
 :::
----
 
 ### 9.2.2. -aka (kṛt), f. a menudo -ikā
 
-:::grammar-box
+::: grammar-box
 **El sufijo kṛt -aka, femenino a menudo -ikā, forma nombres de agente (nombres que expresan al agente) a cualquier raíz.**
 
 Una vocal final de la raíz, así como **-a-** en la penúltima posición de la raíz, se reemplazan por su grado de alargamiento (**vṛddhi**) (hay algunas excepciones), las demás vocales se reemplazan por su grado alto (**guṇa**).
@@ -64,14 +58,14 @@ Una vocal final de la raíz, así como **-a-** en la penúltima posición de la 
 
 | Raíz:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Significado |
 | :--- | :--- | :--- |
-| **kṛ**:br8 U:br⟪कृ⟫:br"hacer" | **kāraka**:br(⟪कारक⟫) | "Causante, haciendo" |
-| **śru**:br5 P:br⟪श्रु⟫:br"oír" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Oyente, discípulo,:brbudh.: seguidor del Buda" |
-| **nī**:br1 U:br⟪नी⟫:br"guiar" | **nāyaka** m.:br(⟪नायक⟫) /:br**nāyikā** f.:br(⟪नायिका⟫) | "Líder, señor, esposo,:bramante / amada, dama" |
-| **yaj**:br1 U:br⟪यज्⟫:br"sacrificar" | **yājaka** m.:br(⟪याजक⟫) | "Sacrificador, sacerdote" |
-| **nṛt**:br4 P:br⟪नृत्⟫:br"bailar" | **nartaka** m.:br(⟪नर्तक⟫) /:br**nartakī** f.:br(⟪नर्तकी⟫) | "Bailarín / Bailarina" |
-| **ji**:br1 P:br⟪जि⟫:br"vencer" | **jayaka** 3:br(⟪जयक⟫) | "victorioso" |
+| **kṛ** :br8 U:br⟪कृ⟫:br"machen" | **kāraka** :br(⟪कारक⟫) | "Causante, haciendo" |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Oyente, discípulo,:brbudh.: seguidor del Buda" |
+| **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Líder, señor, esposo,:bramante / amada, dama" |
+| **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Sacrificador, sacerdote" |
+| **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Bailarín / Bailarina" |
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "victorioso" |
 
-:::grammar-box
+::: grammar-box
 **Algunas de estas formaciones tienen el significado más estricto: "el que habitualmente o como obligación o bien realiza lo expresado por la raíz".**
 :::
 ver arriba por ejemplo **śrāvaka**, **yājaka**, **jayaka**
@@ -80,13 +74,11 @@ ver arriba por ejemplo **śrāvaka**, **yājaka**, **jayaka**
 
 | Raíz:br⟪धातु⟫ | + -aka (kṛt) | Significado |
 | :--- | :--- | :--- |
-| **kṛṣ**:br6 U:br⟪कृष्⟫:br"arar" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Agricultor":br(¡grado reducido!) |
-| **kliś**:br9 P:br⟪क्लिशु⟫:br"atormentar" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Torturador" |
-| **khād**:br1 P:br⟪खाद्⟫:br"masticar, comer" | **khādaka** m.:br(⟪खादक⟫) | "Comedor, devorador" |
+| **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Agricultor":br(¡grado reducido!) |
+| **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Torturador" |
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Comedor, devorador" |
 
 Además, existen algunos usos menos importantes del sufijo **-aka**. Véase Wackernagel, Gramática sánscrita antigua, II, §45ss.
-
----
 
 ## 9.3. Lista de palabras
 
@@ -94,14 +86,14 @@ Además, existen algunos usos menos importantes del sufijo **-aka**. Véase Wack
 
 - **adhyayana** n. (⟪अध्ययन⟫) : Aprendizaje, en especial estudio de los Vedas
 
-:::media
+::: media
 ![](/images/lekt0903.webp)
 Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram cerca de Madurai.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0903))
 :::
 - **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artesano
 
-:::media
+::: media
 ![](/images/lekt0902.webp)
 Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0902))
@@ -122,8 +114,6 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 - **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Comercio
 - **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Obediencia, servicio obediente
 
----
-
 ## 9.4. Ejercicio
 
 **A) Intente determinar los posibles significados de las siguientes palabras:**
@@ -135,7 +125,7 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 6\. **rakṣikā** ⟪रक्षिका⟫
 7\. **karṣaka** ⟪कर्षक⟫
 
-:::media
+::: media
 ![](/images/lekt0901.webp)
 Fig.: **karṣaka** = ⟪कर्षक⟫.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0901))

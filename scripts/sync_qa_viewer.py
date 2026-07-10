@@ -30,7 +30,6 @@ LANG_NAMES = {
     'id': 'Bahasa Indonesia (ID)',
     'he': 'עברית (HE)',
     'zh-CN': 'Simplified Chinese (ZH-CN)',
-    'zh-TW': 'Traditional Chinese (ZH-TW)',
     'th': 'Thai (TH)',
     'la': 'Latin (LA)',
     'rm': 'Romansh Grischun (RM)',
@@ -54,8 +53,9 @@ def generate_options(locales, default_lang='de'):
         lines.append('                <option value="qa/lektion01.html">Original HTML</option>')
 
     for l in locales:
-        name = LANG_NAMES.get(l, l.upper())
-        val = 'lektionen/lektion01' if l == 'de' else f'{l}/lektionen/lektion01'
+        val_lang = 'zh-CN' if l == 'zhCN' else l
+        name = LANG_NAMES.get(val_lang, val_lang.upper())
+        val = 'lektionen/lektion01' if val_lang == 'de' else f'{val_lang}/lektionen/lektion01'
         selected = ' selected' if l == default_lang else ''
         lines.append(f'                <option value="{val}"{selected}>{name}</option>')
         

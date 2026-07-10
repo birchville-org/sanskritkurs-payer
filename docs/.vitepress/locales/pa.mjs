@@ -12,7 +12,7 @@ export const pa = {
       { text: 'ਵਿਸ਼ਾ ਸੂਚੀ', link: '/pa/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'ਯੋਗਦਾਨੀ', link: '/pa/impressum' },
-      { text: '⚙️', link: '/pa/settings', ariaLabel: 'ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/pa/settings', ariaLabel: 'ਸੈਟਿੰਗਾਂ ਖੋਲ੍ਹੋ' }
     ],
     docFooter: {
       prev: 'ਪਿਛਲਾ ਪਾਠ',

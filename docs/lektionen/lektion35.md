@@ -8,7 +8,7 @@ status: stable
 
 ## 35.1. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
 **starker Stamm:**
@@ -20,10 +20,11 @@ status: stable
 :::
 ### 35.1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
-:::indent
+:::
+::: indent
 **schwacher Stamm:** Tiefstufe
 :::
 Wird gebildet von Wurzeln der Typen:
@@ -34,10 +35,8 @@ Vor vokalisch anlautender Endung wird ersetzt:
 *   -i/-ī durch -iy
 *   -u/-ū durch -uv
 *   -ṛ durch r
-:::
 Beispiele:
 
-:::grammar-box
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -47,22 +46,20 @@ Beispiele:
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-:::
 ### 35.1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
-:::indent
+:::
+::: indent
 **schwacher Stamm:** Hochstufe
 :::
 Wird gebildet von Wurzeln der Typen:
 *   (Konsonant)-(Konsonant)-ṝ
 *   Konsonant-Konsonant-ṛ (d.h. Wurzeln auf -ṛ, wenn diesem mehrere Konsonanten vorausgehen)
-:::
 Beispiele:
 
-:::grammar-box
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -70,10 +67,9 @@ Beispiele:
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-:::
 ## 35.2. Perfekt Typ IV: Wurzeln auf -ā / -āi
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
 **starker Stamm:**
@@ -88,16 +84,14 @@ Wird gebildet von Wurzeln auf -ā / -āi
 :::
 Beispiel:
 
-:::grammar-box
 
 | Wurzel | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-:::
 ## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
 **starker Stamm:**
@@ -111,10 +105,11 @@ Wird gebildet von Wurzeln des Typs (Konsonant)-Konsonant-a-Konsonant
 :::
 ### 35.3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
-:::indent
+:::
+::: indent
 **schwacher Stamm:** Tiefstufe
 :::
 Wird gebildet u.a. von den Wurzeln:
@@ -124,44 +119,38 @@ Wird gebildet u.a. von den Wurzeln:
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-:::
 Beispiele:
 
-:::grammar-box
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
-| ⟪हन्⟫ 2P | ***⟪जघान⟫*** :brja-**ghān**-a | ***⟪जघ्नुर्⟫*** | | |
+| ⟪हन्⟫ 2P | sig[⟪जघान⟫] :brja-**ghān**-a | sig[⟪जघ्नुर्⟫] | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | &lt;⟪ऊदे⟫&gt; | &lt;⟪ऊदिरे⟫&gt; |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-:::
 ### 35.3.2. Perfekt Typ Vb: schwacher Stamm Kontraktion (e-Typ)
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
-:::indent
+:::
+::: indent
 **schwacher Stamm:** keine Reduplikation. Ersetzung des -a- der Wurzel durch -e-  
 (zur Erklärung siehe Thumb-Hauschild 1,2 S. 286f.)
 :::
 Wird gebildet von Wurzeln mit -a- zwischen zwei einfachen Konsonanten, deren Anfangskonsonant in der Reduplikationssilbe nicht verändert wird (d.h. deren Anfangskonsonant kein Guttural, Aspirat oder h ist).
-:::
 Beispiel:
-
-:::grammar-box
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | ***⟪पे⟫***⟪चुर्⟫ | ***⟪पे⟫***⟪चे⟫ | ***⟪पे⟫***⟪चिरे⟫ |
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | sig[⟪पे⟫]⟪चुर्⟫ | sig[⟪पे⟫]⟪चे⟫ | sig[⟪पे⟫]⟪चिरे⟫ |
 
-:::
 ### 35.3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
 **schwacher Stamm:** Hochstufe
@@ -176,41 +165,39 @@ sofern sie nicht zu Perfekt Typ Va gehören.
 :::
 Beispiel:
 
-:::grammar-box
-
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-:::
 ## 35.4. Wortliste
 
-**⟪नश्⟫** 4P **⟪नश्यति⟫** : verloren gehen, zugrundegehen, verschwinden
-:::indent
+⟪नश्⟫ 4P ⟪नश्यति⟫ : verloren gehen, zugrundegehen, verschwinden
+::: indent
 **Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
 **Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :br
 **Kaus. ⟪नाशयति⟫** :br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen
+**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫sig[⟪ण⟫]⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen
 
-**⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : schreiten, gehen
-:::indent
+⟪क्रम्⟫ 1U sig[⟪क्रा⟫]⟪मति⟫, 4P sig[⟪क्रा⟫]⟪म्यति⟫ : schreiten, gehen
+::: indent
 **Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
 **Fut. ⟪क्रमिष्यति⟫** :br
 **Pass. ⟪क्रम्यते⟫** :br
 **Kaus. ⟪क्रमयति⟫** :br
-**PPP ***⟪क्रा⟫***⟪न्त⟫** :br
+**PPP sig[⟪क्रा⟫]⟪न्त⟫** :br
 **Inf. ⟪क्रमितुम्⟫** :br
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
-::::::media
+:::
+::: media
 ![](/images/lekt3502.webp)
 Abb.: ⟪क्रामन्ति⟫
 People walking, Senegal.
 (Bildquelle: [Details](/licenses#lekt3502))
 :::
-**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
-:::indent
+⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden
+::: indent
 **Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
 **Fut. ⟪गास्यति⟫** :br
 **Pass. ⟪गीयते⟫** :br
@@ -220,7 +207,8 @@ People walking, Senegal.
 
 davon:
 **⟪गीता⟫ f.:** Lied, Gesang
-::::::media
+:::
+::: media
 ![](/images/lekt3501.webp)
 Abb.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
@@ -244,7 +232,7 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 12. ⟪पिपुरति⟫
 13. ⟪दत्ते⟫
 14. ⟪यजन्ते⟫
-15. ⟪भजन्ति⟫ unregelmäßig, nach Typ Vb!
+15. ⟪भजन्ति⟫ unregelmässig, nach Typ Vb!
 16. ⟪वक्ति⟫
 17. ⟪अदधुः⟫
 18. ⟪बिभ्रते⟫
@@ -259,12 +247,13 @@ A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen:
 27. ⟪अक्रामन्⟫
 28. ⟪अशृण्वन्⟫
 29. ⟪मिमति⟫  
-    :::media
-    ![](/images/lekt3503.webp)
-    Abb.: ⟪मिमति⟫
+::: media
+![](/images/lekt3503.webp)
+Abb.: ⟪मिमति⟫
 Market in Vadaseri, Tamil Nadu.
-    (Bildquelle: [Details](/licenses#lekt3503))
-    :::30. ⟪अपद्यत⟫
+(Bildquelle: [Details](/licenses#lekt3503))
+:::
+30. ⟪अपद्यत⟫
 31. ⟪सुनोति⟫
 32. ⟪अतिष्ठत्⟫
 33. ⟪पतिष्यन्ति⟫
@@ -285,7 +274,7 @@ B) Übersetzen Sie:
 
 ⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt3504.webp)
 Abb.: ... ⟪ब्राह्मणाश्चेजुः⟫
 Yajña ceremony, Shiva ashram, Ganeshpuri.
@@ -295,7 +284,7 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 
 C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen.
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt3501:** Temple musicians Kaadu Malleswara Temple Bangalore. [Bildquelle: Samuelraj / Flickr. CC BY-NC]
 

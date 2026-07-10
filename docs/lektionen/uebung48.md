@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Übung 48
 
-A) Übersetzen Sie die **⟪सुभाषितानि⟫** zu Beginn der Lektion:
+A) Übersetzen Sie die ⟪सुभाषितानि⟫ zu Beginn der Lektion:
 
 ⟪१⟫. **⟪सत्यं⟫ ⟪वद⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 Sprich die Wahrheit!
@@ -31,7 +31,7 @@ Ein Mensch ohne Bildung ist ein Vieh.
 ⟪७⟫. **⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 Die Kürze ist der Schmuck des Grammatikers.
 
-:::media
+::: media
 ![](/images/uebung083.webp)
 Abb.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
 (Bildquelle: [Details](/licenses#uebung083))
@@ -54,7 +54,7 @@ Die Mädchen sollen den Bettlern Speise geben.
 ⟪४⟫. **⟪ब्रवाम⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫** (Oder: **⟪वचाम⟫ ⟪॥⟫**)
 Wir wollen sprechen.
 
-:::media
+::: media
 ![](/images/uebung085.webp)
 Abb.: ⟪वचाम⟫
 (Bildquelle: [Details](/licenses#uebung085))
@@ -107,7 +107,7 @@ Sie sollen in meinem Haus sitzen.
 ⟪२०⟫. **⟪भर्तारो⟫ ⟪भार्या⟫ ⟪बिभ्रतु⟫ ⟪॥⟫ ⟪२०⟫ ⟪॥⟫**
 Ehemänner sollen ihre Gattinnen erhalten.
 
-:::media
+::: media
 ![](/images/uebung076.webp)
 Abb.: ⟪तानि⟫ ⟪फलान्यदाम⟫
 (Bildquelle: [Details](/licenses#uebung076))
@@ -144,14 +144,16 @@ Wer seine Frau sorgsam behütet, der behütet wahrlich seine Nachkommenschaft, s
 
 **⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫ ⟪।⟫**  
 **⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**  
-Der Gatte tritt in seine Gattin ein, wird zum Embryo und wird dann hier geboren; darin besteht das "Gattinnensein" (**⟪जायात्वम्⟫**) der Gattin, dass der Gatte in ihr wiedergeboren wird.
+Der Gatte tritt in seine Gattin ein, wird zum Embryo und wird dann hier geboren; darin besteht das "Gattinnensein" (⟪जायात्वम्⟫) der Gattin, dass der Gatte in ihr wiedergeboren wird.
 
-:::media
+::: media
 ![](/images/uebung084.webp)
 Abb.: ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#uebung084))
-::::::media
+:::
+::: media
 ![](/images/uebung077.webp)
 Abb.: ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫
 (Bildquelle: [Details](/licenses#uebung077))
 :::
+

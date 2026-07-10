@@ -207,7 +207,7 @@ dānena śrāvakaḥ svargam āpnoti / aśnute.
 
 ⟪दानेन⟫ ⟪श्रावकः⟫ ⟪स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung011.webp)
 Fig.: ⟪ग्रामः⟫
 (Image source: [Details](/en/licenses#uebung011))
@@ -318,7 +318,7 @@ Hari goes home.
 ⟪सारथिना⟫ ⟪रथो⟫ ⟪नीयते⟫ ⟪॥⟫
 The charioteer steers the chariot.
 
-:::media
+::: media
 ![](/images/uebung012.webp)
 Fig.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
 (Image source: [Details](/en/licenses#uebung012))

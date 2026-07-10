@@ -140,7 +140,7 @@ sā brāhmaṇī nṛtyati.
 
 ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪नृत्यति⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung004.jpg)
 Abb.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#uebung004))
@@ -531,7 +531,7 @@ paśavo viśanti.
 
 ⟪पशवो⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-9\. Viṣṇu lässt emanieren = Viṣṇu erschafft.
+9\. விஷ்ணு வெளியிடுகிறார் = விஷ்ணு படைக்கிறார்.
 
 viṣṇuḥ sṛjati.
 
@@ -543,7 +543,7 @@ sādhavo dvijātayaḥ.
 
 ⟪साधवो⟫ ⟪द्विजातयः⟫ ⟪।⟫
 
-11\. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten)
+11\. மும்மை (அறிவு) சாமவேதம், Ṛgவேதம் மற்றும் யஜுர்வேதம் ஆகும். (2 வாய்ப்புகள்)
 
 sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
@@ -555,7 +555,7 @@ sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
 ⟪साध्व्यीयं⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्व्येषा⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्वी⟫ ⟪सा⟫ ⟪देवी⟫ ⟪।⟫
 
-13\. Die fünf "Qualen" sind: Nichtwissen, Ichwahn, Leidenschaft (Liebe), Hass, Anhänglichkeit an den Leib. (2 Möglichkeiten)
+13\. ஐந்து "வலிகள்" இவை: அறியாமை, நான் என்ற கருத்து, ஆசை (காதல்), வெறுப்பு, உடலுக்கான பற்று. (2 வழிகள்)
 
 avidyāsmitārāgadveṣābhniveśāḥ pañca kleśāḥ / avidyāsmitā rāgo dveṣo 'bhiniveśaś ca pañca kleśāḥ.
 
@@ -567,19 +567,19 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ / maitrī karuṇā muditopek�
 
 ⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪।⟫
 
-15\. Diese Brahmanen opfern im Auftrag anderer.
+15. இந்த பிராமணர்கள் மற்றவர்களின் ஆணையின்படி யாகம் செய்கிறார்கள்.
 
 ete / ime brāhmaṇā yajanti.
 
 ⟪एते⟫ / ⟪इमे⟫ ⟪ब्राह्मणा⟫ ⟪यजन्ति⟫ ⟪।⟫
 
-16\. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten)
+16\. பிராமணர், க்ஷத்திரியர் மற்றும் வசியர் இரட்டைப் பிறப்புடையவர்கள். (2 வாய்ப்புகள்)
 
 dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣatriyā vaiśyāś ca.
 
 ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ⟪।⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
-17\. Die Wissenschaften (für eine Fürsten) sind: Philosophie, das dreifache (Vedawissen), Ökonomie und Politik. (2 Möglichkeiten)
+17\. அறிவியல்கள் (ஒரு அரசனுக்காக) ஆகும்: தத்துவம், மும்மை (வேத அறிவு), பொருளியல் மற்றும் அரசியல். (2 வாய்ப்புகள்)
 
 ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ / ānvīkṣikī trayī vārttā daṇḍanītiś ca vidyāḥ.
 
@@ -597,7 +597,7 @@ sarvathā kuśalam.
 
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung005.webp)
 அணி: ⟪देवतान्नपूर्णा⟫
 (படம் மூலம்: [விவரங்கள்](/licenses#uebung005))

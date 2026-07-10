@@ -8,9 +8,9 @@ last_reconstructed: 2026-05-15
 
 # Exercise 43
 
-A) Form the corresponding **second person** of the following verb forms in tense, number, mood, etc.:
+A) Form the corresponding **2nd person** of the following verb forms in tense, number, mood, etc.:
 
-:::grammar-box
+::: grammar-box
 | 1st Person / 3rd Person | 2nd Person |
 | :--- | :--- |
 | ⟪१⟫. **⟪आर्हम्⟫** | ⟪आर्हः⟫ |
@@ -65,10 +65,12 @@ A) Form the corresponding **second person** of the following verb forms in tense
 | ⟪५०⟫. **⟪सीदामि⟫** | ⟪सीदसि⟫ |
 | ⟪५१⟫. **⟪तिष्ठन्ति⟫** | ⟪तिष्ठथ⟫ |
 | ⟪५२⟫. **⟪आहरत्⟫** | ⟪आहरः⟫ |
-::::::media
+:::
+
+::: media
 ![](/images/uebung070.webp)
 Fig.: ⟪दिशसि⟫
-(Image source: [Details](/en/licenses#uebung070))
+(Image source: [Details](/licenses#uebung070))
 :::
 ---
 
@@ -83,7 +85,7 @@ Why are you sitting while the teacher stands?
 Do you doubt whether a good deed has a good fruit?
 
 ⟪३⟫. **⟪कच्चित्पितरं⟫ ⟪गर्भगृहं⟫ ⟪दर्शयिष्यथ⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫** (Or: **⟪कच्चित्पित्रे⟫ ... ⟪देक्ष्यथ⟫ ⟪॥⟫**)
-Will you show the innermost shrine of the temple to the father?
+Will you show the father the innermost shrine of the temple?
 
 ⟪४⟫. **⟪कस्य⟫ ⟪कवेः⟫ ⟪स्तोत्रमगायः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 Which poet's hymn have you sung?
@@ -98,7 +100,7 @@ What have you commanded?
 When did you stay in Benares?
 
 ⟪८⟫. **⟪कच्चिद्देवानयजध्वम्⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-Have you (as sacrifice masters) honored the gods with a sacrifice?
+Have you (as the host of the sacrifice) honored the gods with a sacrifice?
 
 ⟪९⟫. **⟪कस्मिन्नगरे⟫ ⟪ऽजायथाः⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
 In which city were you born?
@@ -106,10 +108,10 @@ In which city were you born?
 ⟪१०⟫. **⟪कथं⟫ ⟪शत्रुं⟫ ⟪तरसि⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 How do you save yourself (cross the river) from the enemy?
 
-:::media
+::: media
 ![](/images/uebung071.jpg)
 Fig.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
-(Image source: [Details](/en/licenses#uebung071))
+(Image source: [Details](/licenses#uebung071))
 :::
 ---
 
@@ -123,9 +125,9 @@ Fig.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 | **⟪अशोकः⟫ : ⟪आम्⟫ ⟪।⟫ ⟪अद्य⟫ ⟪पितृपादानां⟫ ⟪जन्मदिनोत्सवः⟫ ⟪॥⟫** | Aśoka: Yes, today is the birthday of my revered father. |
 | **⟪सुरेशः⟫ : ⟪किं⟫ ⟪वयस्तव⟫ ⟪पितृचरणानाम्⟫ ⟪॥⟫** | Sureśa: How old is your revered father? |
 | **⟪अशोकः⟫ : ⟪पञ्चषष्टिसमायुतं⟫ ⟪मम⟫ ⟪पितुर्वयः⟫ ⟪।⟫ ⟪अद्य⟫ ⟪मम⟫ ⟪गृहे⟫ ⟪बहवः⟫ ⟪संबन्धिनो⟫ ⟪मित्राणि⟫ ⟪चागमिष्यन्ति⟫ ⟪।⟫ ⟪त्वयाप्यागन्तव्यम्⟫ ⟪॥⟫** | Aśoka: My father is 65 years old. Many relatives and friends are coming to me today; you must come too! |
-| **⟪सुरेशः⟫ : ⟪भद्र⟫ ⟪कतिवादने⟫ ⟪आगमिष्यन्ति⟫ ⟪जनाः⟫ ⟪॥⟫** | Sureśa: My good friend, at what time are the people coming? |
+| **⟪सुरेशः⟫ : ⟪भद्र⟫ ⟪कतिवादने⟫ ⟪आगमिष्यन्ति⟫ ⟪जनाः⟫ ⟪॥⟫** | Sureśa: My good man, at what time are the people coming? |
 | **⟪अशोकः⟫ : ⟪समयं⟫ ⟪किं⟫ ⟪पृच्छसि⟫ ⟪।⟫ ⟪षड्वादनं⟫ ⟪यावदागच्छ⟫ ⟪॥⟫** | Aśoka: Why do you ask about the time? Come by six o'clock at the latest! |
-| **⟪सुरेशः⟫ : ⟪सार्धषड्वादनं⟫ ⟪यावदागच्छामि⟫ ⟪चेत्⟫ ⟪॥⟫** | Sureśa: And what if I arrive only around half past six? |
+| **⟪सुरेशः⟫ : ⟪सार्धषड्वादनं⟫ ⟪यावदागच्छामि⟫ ⟪चेत्⟫ ⟪॥⟫** | Sureśa: And what if I only arrive around half past six? |
 | **⟪अशोकः⟫ : ⟪नैव⟫ ⟪षड्वादन⟫ ⟪एव⟫ ⟪निश्चितरूपेणागन्तव्यं⟫ ⟪त्वया⟫ ⟪॥⟫** | Aśoka: Under no circumstances! You must arrive punctually at six o'clock. |
 | **⟪सुरेशः⟫ : ⟪अस्तु⟫ ⟪।⟫ ⟪तर्हि⟫ ⟪गच्छ⟫ ⟪त्वं⟫ ⟪।⟫ ⟪नोचेद्विलम्बो⟫ ⟪भविष्यति⟫ ⟪॥⟫** | Sureśa: Alright. Then go now, otherwise you will be late. |
 | **(⟪विपण्यां⟫ ⟪प्रविशति⟫ ⟪वणिजमुपसृत्य⟫ ⟪वदति⟫ ⟪च⟫)** | (Enters the shop, goes to the merchant and speaks:) |
@@ -134,16 +136,16 @@ Fig.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 | **⟪अशोकः⟫ : ⟪सेरभारा⟫ ⟪शर्करा⟫ ⟪कियता⟫ ⟪मूल्येन⟫ ⟪विक्रीयते⟫ ⟪॥⟫** | Aśoka: How much does one seer of sugar cost? |
 | **⟪वणिक्⟫ : ⟪नाधिक्यं⟫ ⟪मूल्यम्⟫ ⟪।⟫ ⟪केवलमष्टाणकेन⟫ ⟪दास्यामि⟫ ⟪सेरभारां⟫ ⟪शर्कराम्⟫ ⟪॥⟫** | Merchant: Not much. I will give you one seer of sugar for only eight annas. |
 | **⟪अशोकः⟫ : ⟪तर्हि⟫ ⟪तोलयित्वा⟫ ⟪शीघ्रं⟫ ⟪सेरपरिमितां⟫ ⟪शर्करां⟫ ⟪देहि⟫ ⟪॥⟫** | Aśoka: Then weigh out one seer for me quickly and give it to me! |
-| **⟪वणिक्⟫ : (⟪शर्करां⟫ ⟪कर्गले⟫ ⟪संपुटीकृत्य⟫) ⟪बाल⟫ ⟪गृहाण⟫ ⟪शर्कराम्⟫ ⟪।⟫ ⟪देहि⟫ ⟪च⟫ ⟪मह्यमाणकाष्टकम्⟫ ⟪।⟫ ⟪सत्वरं⟫ ⟪देहि⟫ ⟪॥⟫** | Merchant: (wraps the sugar in paper): Boy, take the sugar! And give me eight annas for it, but quickly! |
-| **⟪अशोकः⟫ : (⟪आदाय⟫ ⟪हस्ते⟫ ⟪तस्य⟫ ⟪भारं⟫ ⟪चाल्पं⟫ ⟪विलोक्य⟫) ⟪भो⟫ ⟪वणिक्⟫ ⟪।⟫ ⟪नैषा⟫ ⟪सेरभारा⟫ ⟪शर्करा⟫ ⟪दृश्यते⟫ ⟪।⟫ ⟪पुनः⟫ ⟪सम्यक्तोलयित्वा⟫ ⟪देहि⟫ ⟪॥⟫** | Aśoka: (takes it in his hand and notices the light weight): Hey, merchant! This does not seem to be a full seer of sugar. Weigh it out properly again! |
-| **⟪वणिक्⟫ : (⟪सहासम्⟫) ⟪किमनेन⟫ ⟪।⟫ ⟪अकिञ्चित्करमेतत्⟫ ⟪।⟫ ⟪तव⟫ ⟪भारवहनक्लेशो⟫ ⟪ऽल्पो⟫ ⟪भविष्यति⟫ ⟪॥⟫** | Merchant: (laughing): What does it matter? It is insignificant. Thus you have less trouble carrying the load. |
 
-| **⟪अशोकः⟫ : (⟪मनसि⟫ ⟪किंचिद्विचार्याणकचतुष्टयं⟫ ⟪च⟫ ⟪तस्य⟫ ⟪पुरत⟫ ⟪उपस्थाप्य⟫) ⟪भो⟫ ⟪श्रेष्ठिन्गृहाण⟫ ⟪मूल्यम्⟫ ⟪।⟫ ⟪मया⟫ ⟪हि⟫ ⟪शीघ्रं⟫ ⟪गृहं⟫ ⟪गन्तव्यम्⟫ ⟪॥⟫** | Aśoka: (thinks for a moment and places four annas with him): Merchant, here is the price. I must, after all, hurry home. |
-| **⟪वणिक्⟫ : ⟪रे⟫ ⟪बालक⟫ ⟪।⟫ ⟪एह्येहि⟫ ⟪शृणु⟫ ⟪तावत्⟫ ⟪।⟫ ⟪अल्पमेव⟫ ⟪मूल्यं⟫ ⟪दत्त्वा⟫ ⟪क्व⟫ ⟪व्रजसि⟫ ⟪।⟫ ⟪आणकचतुष्टयमन्यदपि⟫ ⟪देहि⟫ ⟪॥⟫** | Merchant: Hey, boy! Come back! Listen! Where are you going after having paid so little? Give me the remaining four annas! |
-| **⟪अशोकः⟫ : ⟪श्रेष्ठिन्⟫ ⟪।⟫ ⟪किमनेन⟫ ⟪।⟫ ⟪अकिंचित्करमेतत्⟫ ⟪।⟫ ⟪नाणकगणनाक्लेशस्ते⟫ ⟪ऽल्पीयान्भविष्यति⟫ ⟪॥⟫** | Aśoka: Merchant! What does it matter? It is meaningless. Thus you have less trouble counting the coins! |
+| **⟪वणिक्⟫ : (⟪शर्करां⟫ ⟪कर्गले⟫ ⟪संपुटीकृत्य⟫) ⟪बाल⟫ ⟪गृहाण⟫ ⟪शर्कराम्⟫ ⟪।⟫ ⟪देहि⟫ ⟪च⟫ ⟪मह्यमाणकाष्टकम्⟫ ⟪।⟫ ⟪सत्वरं⟫ ⟪देहि⟫ ⟪॥⟫** | Merchant: (wraps the sugar in paper): Boy, take the sugar! And give me eight Anna for it, but quickly! |
+| **⟪अशोकः⟫ : (⟪आदाय⟫ ⟪हस्ते⟫ ⟪तस्य⟫ ⟪भारं⟫ ⟪चाल्पं⟫ ⟪विलोक्य⟫) ⟪भो⟫ ⟪वणिक्⟫ ⟪।⟫ ⟪नैषा⟫ ⟪सेरभारा⟫ ⟪शर्करा⟫ ⟪दृश्यते⟫ ⟪।⟫ ⟪पुनः⟫ ⟪सम्यक्तोलयित्वा⟫ ⟪देहि⟫ ⟪॥⟫** | Aśoka: (takes it in his hand and notices the light weight): Hey, Merchant! This does not seem to be a full Seer of sugar. Weigh it again properly! |
+| **⟪वणिक्⟫ : (⟪सहासम्⟫) ⟪किमनेन⟫ ⟪।⟫ ⟪अकिञ्चित्करमेतत्⟫ ⟪।⟫ ⟪तव⟫ ⟪भारवहनक्लेशो⟫ ⟪ऽल्पो⟫ ⟪भविष्यति⟫ ⟪॥⟫** | Merchant: (laughing): What does it matter? It is insignificant. Thus you have less trouble carrying the load. |
+| **⟪अशोकः⟫ : (⟪मनसि⟫ ⟪किंचिद्विचार्याणकचतुष्टयं⟫ ⟪च⟫ ⟪तस्य⟫ ⟪पुरत⟫ ⟪उपस्थाप्य⟫) ⟪भो⟫ ⟪श्रेष्ठिन्गृहाण⟫ ⟪मूल्यम्⟫ ⟪।⟫ ⟪मया⟫ ⟪हि⟫ ⟪शीघ्रं⟫ ⟪गृहं⟫ ⟪गन्तव्यम्⟫ ⟪॥⟫** | Aśoka: (thinks for a moment and places four Anna before him): Sir Merchant, here is the price. I must, after all, hurry home. |
+| **⟪वणिक्⟫ : ⟪रे⟫ ⟪बालक⟫ ⟪।⟫ ⟪एह्येहि⟫ ⟪शृणु⟫ ⟪तावत्⟫ ⟪।⟫ ⟪अल्पमेव⟫ ⟪मूल्यं⟫ ⟪दत्त्वा⟫ ⟪क्व⟫ ⟪व्रजसि⟫ ⟪।⟫ ⟪आणकचतुष्टयमन्यदपि⟫ ⟪देहि⟫ ⟪॥⟫** | Merchant: Hey, Boy! Come back! Listen! Where are you going after paying so little? Give me the remaining four Anna! |
+| **⟪अशोकः⟫ : ⟪श्रेष्ठिन्⟫ ⟪।⟫ ⟪किमनेन⟫ ⟪।⟫ ⟪अकिंचित्करमेतत्⟫ ⟪।⟫ ⟪नाणकगणनाक्लेशस्ते⟫ ⟪ऽल्पीयान्भविष्यति⟫ ⟪॥⟫** | Aśoka: Merchant! What does it matter? It is insignificant. Thus you have less trouble counting the coins! |
 | **(⟪इत्युक्त्वा⟫ ⟪ततो⟫ ⟪जवेन⟫ ⟪द्रवति⟫)** | (Says this and runs away hastily.) |
 
 **(⟪विपणिस्थो⟫ ⟪वञ्चको⟫ ⟪वणिक्⟫ ⟪किमपि⟫ ⟪कर्तुमशक्नोत्केवलं⟫ ⟪तस्य⟫ ⟪मनसि⟫ ⟪पश्चात्ताप⟫ ⟪एवासीत्⟫ ⟪।⟫ ⟪अशोको⟫ ⟪गृहमागत्य⟫ ⟪सर्वमपीतिवृत्तमकथयत्⟫ ⟪।⟫ ⟪तत्रस्था⟫ ⟪सर्वे⟫ ⟪ऽपि⟫ ⟪बान्धवा⟫ ⟪मित्राणि⟫ ⟪च⟫ ⟪परमानन्दं⟫ ⟪प्रापुः⟫ ⟪।⟫ ⟪इत्थं⟫ ⟪जन्मोत्सवः⟫ ⟪सानन्दं⟫ ⟪समाप्तिं⟫ ⟪यातः⟫ ⟪॥⟫)**
 
 **Summary:**
-The fraudulent merchant in his shop could do nothing and felt only regret in his heart. Aśoka came home and told the whole story. All relatives and friends enjoyed themselves greatly. Thus the birthday celebration found a happy end.
+The fraudulent merchant in his shop could do nothing and felt only regret in his heart. Aśoka came home and told the whole incident. All relatives and friends enjoyed themselves greatly. Thus, the birthday celebration found a happy end.

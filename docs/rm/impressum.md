@@ -8,7 +8,7 @@ title: Impressum & Citar
 *Il suandant text è stà separà durant la conversiun dals documents da leziun, per meglierar il fluss da lectura.*
 
 ## Citar | cite as:
-**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- Fassung da 2010. -- URL: http://www.payer.de/sanskritkurs/
+**Payer, Alois \<1944 - \>:** Sanskritkurs. -- Fassung da 2010. -- URL: http://www.payer.de/sanskritkurs/
 
 ## Motiw
 Creà per las cursas da magistrala 1980 - 1984

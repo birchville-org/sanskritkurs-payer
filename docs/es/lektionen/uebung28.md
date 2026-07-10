@@ -10,8 +10,6 @@ last_reconstructed: 2026-05-15
 
 A) Forme el causativo de las siguientes formas verbales y formas participiales:
 
-:::grammar-box
-
 ### ⟪१⟫. Con raíz de nivel superior (Guṇa)
 
 | Forma | Causativo |
@@ -45,8 +43,6 @@ A) Forme el causativo de las siguientes formas verbales y formas participiales:
 | ⟪स्रक्ष्यति⟫ | ⟪सर्जयिष्यति⟫ |
 | ⟪लिम्पन्ति⟫ | ⟪लेपयन्ति⟫ |
 | ⟪वृद्धाः⟫ | ⟪वर्धिताः⟫ |
-::::::grammar-box
-
 ### ⟪२⟫. Con raíz de grado aumentado (Vṛddhi)
 
 | Forma | Causativo |
@@ -90,8 +86,6 @@ A) Forme el causativo de las siguientes formas verbales y formas participiales:
 | ⟪सोढायाः⟫ | ⟪साहितायाः⟫ |
 | ⟪हरन्ती⟫ | ⟪हारयन्ती⟫ |
 | ⟪ऊढया⟫ | ⟪वाहितया⟫ |
-::::::grammar-box
-
 ### ⟪३⟫. Causativo en -⟪पय⟫ (y formas especiales)
 
 | Raíz | Causativo | Significado |
@@ -104,7 +98,6 @@ A) Forme el causativo de las siguientes formas verbales y formas participiales:
 | ⟪हन्⟫ | ⟪घातयति⟫ | hacer matar, asesinar |
 | ⟪जि⟫ | ⟪जापयति⟫ | hacer vencer |
 | ⟪जीव्⟫ | ⟪जीवयति⟫ | animar |
-:::
 B) Traduzca las siguientes oraciones y forme, mediante los verbos simples, oraciones que expresen lo que ocurre cuando se realiza lo expresado por el causativo.
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
@@ -147,7 +140,7 @@ Para conquistar riquezas, el gran kṣatriya hará mantener votos a los combatie
 Para liberarlos del mal, Buda hace que personas nobles comprendan las verdades nobles.
 (Base: **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
 
-:::media
+::: media
 ![](/images/uebung045.webp)
 Fig.: ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung045))

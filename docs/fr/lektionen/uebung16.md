@@ -76,7 +76,7 @@ Les guerriers forts sont allés au village de Brahmanes.
 ⟪पुन्यवतो⟫ ⟪वैश्यस्येष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजां⟫ ⟪करोति⟫ ⟪।⟫
 Il vénère la divinité personnelle du Vaiśya méritoire.
 
-:::media
+::: media
 ![](/images/uebung023.webp)
 Légende : ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#uebung023))
@@ -87,7 +87,7 @@ Légende : ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्�
 
 A) Formez tous les cas appris jusqu'à présent pour les mots suivants, à titre d'exemples des classes de déclinaison apprises jusqu'à présent.
 
-:::grammar-box
+::: grammar-box
 ⟪१⟫. **⟪नर⟫** (m.)
 
 | Cas | Singulier | Pluriel |
@@ -248,7 +248,7 @@ La fonction spécifique d'un śūdra est le service obéissant des deux fois né
 La fonction de tous est : non-violence, véracité, pureté, ne pas se plaindre de son sort, absence de méchanceté et patience indulgente.
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-:::deleteme-box Explications
+::: deleteme-box Explications
 Phrase 7 : **⟪कृषिपाशुपाल्ये⟫** duel, nom. acc. : dvandva, désignant les deux "choses"
 Phrase 8 : **⟪कर्म⟫** nom., acc. sg. neutre à ⟪कर्मन्⟫ "acte"
 Phrase 13 : **⟪सर्वेषाम्⟫** gén. pl. masc. à ⟪सर्व⟫ "chaque, tous" (pronom, ne se décline pas comme deva)
@@ -257,7 +257,7 @@ Phrase 13 : **⟪सर्वेषाम्⟫** gén. pl. masc. à ⟪सर�
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 Le bâton provoque l'acquisition et la possession sûre de la philosophie, de la védologie et de l'économie. La direction du bâton est la politique.
 
-:::media
+::: media
 ![](/images/uebung024.webp)
 Fig. : ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Source de l'image : [Détails](/fr/licenses#uebung024))

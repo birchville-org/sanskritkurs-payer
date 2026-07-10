@@ -1,13 +1,13 @@
 ---
-title: Leçon 16
-subtitle: "Sur le sandha des consonnes finales"
+title: Lektion 16
+subtitle: "Zum Sandhi auslautender Konsonanten"
 lesson_id: 16
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 16
+# Lektion 16
 
 ## 16.1. Sur le sandhi des consonnes finales
 
@@ -15,33 +15,29 @@ Pour former des composés dont le premier membre est un thème se terminant par 
 
 Consonnes occlusives gutturales, rétroflexes, dentales et labiales finales (c’est-à-dire pas de nasales et pas de palatales).
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 |   |   |
 | :--- | :--- |
-| **en pause et devant des sons sourds** | **Remplacement par le son sourd non aspiré correspondant :** :br **par ex.** :br [[indent]] -g + p- » -kp- :br [[indent]] -d + ph- » -tph- :br [[indent]] -dh + p- » -tp- |
-| **devant des sons sonores non nasaux** | **Remplacement par le son sonore non aspiré correspondant :** :br **par ex.** :br [[indent]] -t + g- » -dg- :br [[indent]] -k + b- » -gb- :br [[indent]] -dh + d- » -dd- :br [[indent]] -k + a- » -ga- |
-| **devant des nasales** | **Remplacement par la nasale correspondante :** :br **par ex.** :br [[indent]] -t + n- » -nn- :br [[indent]] -p + n- » -mn- |
+| **en pause et devant des sons sourds** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **devant des sons sonores non nasaux** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **devant des nasales** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
-:::::::
+:::
 Exception à la règle ci-dessus :
 
 Occlusive dentale finale (pas de nasale) :
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 |   |   |
 | :--- | :--- |
-| **devant une palatale** | **Remplacement par la palatale non aspirée concernée :** :br **c’est-à-dire** :br [[indent]] -t + c- » -cc- :br [[indent]] -d + c- » -cc- :br [[indent]] -th + c- » -cc- :br [[indent]] -dh + c- » -cc- :br [[indent]] -t/-th/-d/-dh + ch- » -cch- :br [[indent]] -t/-th/-d/-dh + j- » -jj- :br [[indent]] -t/-th/-d/-dh + jh- » -jjh- |
-| **+ ś** | **» -cś- ou -cch-** |
-| **devant une rétroflexe** | **Remplacement par la rétroflexe non aspirée concernée :** :br **c’est-à-dire** :br [[indent]] -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br [[indent]] -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **devant l-** | **Remplacement par -l :** :br **c’est-à-dire** :br [[indent]] -t/-th/-d/-dh + l- » -ll- |
+| **devant une palatale** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
+| **+ ś** | **» -cś- oder -cch-** |
+| **devant une rétroflexe** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
-:::::::
+:::
 Exemples :
 
 ⟪तद्⟫ + ⟪फल⟫ = ⟪तत्फल⟫
@@ -60,11 +56,11 @@ Exemples :
 
 ⟪बलवत्⟫ + ⟪शत्रु⟫ = ⟪बलवच्छत्रु⟫
 
-## 16.2. Liste de mots
+## 16.2. Wortliste
 
 ⟪अध्यापन⟫ n. : Enseignement, instruction
 
-:::media
+::: media
 ![](/images/lekt1602.webp)
 Fig. : ⟪अध्यापनम्⟫
 « Il s’agit d’une cérémonie spéciale dans un petit temple de Satara (⟪सातारा⟫). Elle est accomplie par les étudiants de la Swami Muktananda Vedashala à l’occasion de la célébration de Mahāśivarātri. Il s’agit d’une école védique où les enfants apprennent par cœur les textes sacrés appelés les Védas. Cette école enseigne le Krishna Yajurveda et certaines parties du Samaveda. Je rédige mon mémoire de master sur cette école. »
@@ -76,14 +72,14 @@ Fig. : ⟪अध्यापनम्⟫
 
 dont :
 
-:::indent
+::: indent
 ⟪अनृशंस्य⟫ n. : Absence de méchanceté
 :::
 ⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : vivre
 
 dont :
 
-:::indent
+::: indent
 ⟪आजीव⟫ m. : Subsistance
 :::
 ⟪क्षमा⟫ f. : Patience, longanimité, indulgence
@@ -98,7 +94,7 @@ dont :
 
 ⟪योग⟫ m. : Attelage, connexion, union, acquisition ; Yoga
 
-:::media
+::: media
 ![](/images/lekt1601.webp)
 Fig. : ⟪योगी⟫
 Temple Birla, Delhi
@@ -114,13 +110,13 @@ Temple Birla, Delhi
 
 ⟪अहिंसा⟫ f. : Ne nuire à personne, non-violence
 
-:::media
+::: media
 ![](/images/lekt1603.jpg)
 Fig. : ⟪अहिंसा⟫
 « La main avec une roue sur la paume symbolise le vœu jaïn d’Ahimsa. Le mot au milieu est « ahimsa ». La roue représente le dharmacakra, qui symbolise la résolution d’arrêter le cycle des réincarnations par une poursuite implacable de la vérité et de la non-violence. »
 (Source de l’image : [Détails](/fr/licenses#lekt1603))
 :::
-## 16.3. Exercice
+## 16.3. Übung
 
 A) Transformez les expressions suivantes en Tatpuruṣa et traduisez-les :
 
@@ -132,7 +128,7 @@ A) Transformez les expressions suivantes en Tatpuruṣa et traduisez-les :
 
 ⟪४⟫. ⟪पशुमन्तो⟫ ⟪जनाः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1604.webp)
 Fig. : ⟪पशुमन्तो⟫ ⟪जनाः⟫
 ⟪हरियाणा⟫ / ਹਰਿਆਣਾ
@@ -140,7 +136,7 @@ Fig. : ⟪पशुमन्तो⟫ ⟪जनाः⟫
 :::
 ⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
-⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
+⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
 ⟪७⟫. ⟪कवेरुक्त्याः⟫ ⟪सत्यम्⟫ ⟪।⟫
 
@@ -176,18 +172,18 @@ B) Résolvez les composés suivants en sanskrit, formez des phrases avec des nom
 
 ⟪१०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
 
-## 16.4. Exercice de révision
+## 16.4. Wiederholungsübung
 
 A) Formez tous les cas appris jusqu'à présent pour les mots suivants, comme exemples des classes de déclinaison apprises jusqu'à présent.
 
 Utilisez à cet effet le schéma suivant, qui correspond à l'ordre des cas chez les grammairiens indiens et qui a été également adopté par les grammairiens occidentaux en raison de ses avantages — à discuter plus tard — :
 
-| Singulier:br⟪एकवचनम्⟫ | Pluriel:br⟪बहुवचनम्⟫ |
+| Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
 | :--- | :--- |
-| **⟪१⟫. ⟪प्रथमा⟫**:brNominatif | **⟪१⟫. ⟪प्रथमा⟫** |
-| **⟪२⟫. ⟪द्वितीया⟫**:brAccusatif | **⟪२⟫. ⟪द्वितीया⟫** |
-| **⟪३⟫. ⟪तृतीया⟫**:brInstrumental | **⟪३⟫. ⟪तृतीया⟫** |
-| **⟪६⟫. ⟪षष्ठी⟫**:brGénitif | **⟪६⟫. ⟪षष्ठी⟫** |
+| **⟪१⟫. ⟪प्रथमा⟫** :brNominativ | **⟪१⟫. ⟪प्रथमा⟫** |
+| **⟪२⟫. ⟪द्वितीया⟫** :brAkkusativ | **⟪२⟫. ⟪द्वितीया⟫** |
+| **⟪३⟫. ⟪तृतीया⟫** :brInstrumentalis | **⟪३⟫. ⟪तृतीया⟫** |
+| **⟪६⟫. ⟪षष्ठी⟫** :brGenetiv | **⟪६⟫. ⟪षष्ठी⟫** |
 
 Apprenez par cœur les modèles de déclinaison à partir de ces exemples!!!
 
@@ -233,7 +229,7 @@ B) Traduisez et résolvez en sanskrit tous les composés :
 
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-:::indent
+::: indent
 Explications ;
 
 Phrase 7 : ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Acc. : Dvandva, qui désigne deux "choses"
@@ -244,7 +240,7 @@ Phrase 13 : ⟪सर्वेषाम्⟫ Gén. pl. masc. à ⟪सर्व
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt1601 :** Temple Birla, Delhi [Source de l'image : Deepak / Wikipedia ; Licence Creative Commons (Attribution, partage à l'identique)]
 

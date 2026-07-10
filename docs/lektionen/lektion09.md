@@ -9,33 +9,30 @@ last_reconstructed: 2026-05-07
 
 # Lektion 9
 
-:::deleteme-box
+::: deleteme-box
 **In dieser Lektion lernen Sie:**
 - Das Samāhāradvandva ("Zusammenfassungsdvandva")
 - Die Bildung von Nominalstämmen mit den Suffixen **-ka** (taddhita) und **-aka** (kṛt)
 - Wortschatz zum Thema Berufe und soziale Rollen
 - Zitate aus klassischen Gesetzestexten (Dharmaśāstras)
 :::
----
+
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva")
 
-:::grammar-box
+::: grammar-box
 **Wenn ein Dvandva ausdrücken soll, dass eine Reihe von Dingen usw. eine Einheit bilden, dann steht es im Allgemeinen im Singular Neutrum:**
 
 z.B. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ bedeutet nicht einfach "Nahrungsaufnahme (**āhāra** m.), Schlaf (**nidrā** f.), Paarung (**maithuna** n.) und Angst (**bhaya** n.)", sondern diese vier als **Einheit**, die das tierische Leben charakterisiert.
 :::
 Neben dieser Grundregel zur Bildung von Samāhāradvandvas gibt es noch eine Reihe weiterer Regeln, die man bei Pāṇini 2,4,2-17 oder z.B. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a findet. In den verschiedenen Stufen der Sprachentwicklung wurden nicht immer die gleichen Regeln eingehalten!
 
----
 
 ## 9.2. Zur Bildung von Nominalstämmen
 
----
-
 ### 9.2.1. -ka (taddhita)
 
-:::grammar-box
+::: grammar-box
 **Das taddhita-Suffix -ka bildet u.a.:**
 
 1\. **Diminutiva (Verkleinerungsformen wie deutsch -chen, -lein, -li, -le):**
@@ -51,11 +48,10 @@ Neben dieser Grundregel zur Bildung von Samāhāradvandvas gibt es noch eine Rei
    **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "in Benares gebürtig, aus Benares stammend"**
    **rūpa n. "Gestalt" » rūpaka 3 ⟪रूपक⟫ "die Gestalt von etwas besitzend"**
 :::
----
 
 ### 9.2.2. -aka (kṛt), fem. oft -ikā
 
-:::grammar-box
+::: grammar-box
 **Das kṛt-Suffix -aka, Femininum oft -ikā, bildet Nomina agentis (Nomina, die den Täter ausdrücken) zu jeder Wurzel.**
 
 Ein auslautender Vokal der Wurzel sowie **-a-** an vorletzter Stelle der Wurzel werden durch ihre Dehnstufe (**vṛddhi**) ersetzt (es gibt einige Ausnahmen), die übrigen Vokale werden durch ihre Hochstufe (**guṇa**) ersetzt.
@@ -71,8 +67,8 @@ Ein auslautender Vokal der Wurzel sowie **-a-** an vorletzter Stelle der Wurzel 
 | **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Tänzer / Tänzerin" |
 | **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
 
-:::grammar-box
-**Einige dieser Bildungen haben die engere Bedeutung: "das durch die Wurzel ausgedrückte gewohnheitsmäßig oder als Obliegenheit oder gut vollziehend".**
+::: grammar-box
+**Einige dieser Bildungen haben die engere Bedeutung: "das durch die Wurzel ausgedrückte gewohnheitsmässig oder als Obliegenheit oder gut vollziehend".**
 :::
 siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka**
 
@@ -86,7 +82,6 @@ siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka**
 
 Daneben gibt es noch einige weniger wichtige Verwendungen des Suffixes **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff.
 
----
 
 ## 9.3. Wortliste
 
@@ -94,14 +89,14 @@ Daneben gibt es noch einige weniger wichtige Verwendungen des Suffixes **-aka**.
 
 - **adhyayana** n. (⟪अध्ययन⟫) : Lernen, insbes. Vedastudium
 
-:::media
+::: media
 ![](/images/lekt0903.webp)
 Abb.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai.
 (Bildquelle: [Details](/licenses#lekt0903))
 :::
 - **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Handwerker
 
-:::media
+::: media
 ![](/images/lekt0902.webp)
 Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 (Bildquelle: [Details](/licenses#lekt0902))
@@ -122,7 +117,6 @@ Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 - **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Handel
 - **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Gehorsam, gehorsamer Dienst
 
----
 
 ## 9.4. Übung
 
@@ -135,7 +129,7 @@ Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 6\. **rakṣikā** ⟪रक्षिका⟫
 7\. **karṣaka** ⟪कर्षक⟫
 
-:::media
+::: media
 ![](/images/lekt0901.webp)
 Abb.: **karṣaka** = ⟪कर्षक⟫.
 (Bildquelle: [Details](/licenses#lekt0901))

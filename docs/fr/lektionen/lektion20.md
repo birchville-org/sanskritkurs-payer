@@ -1,5 +1,5 @@
 ---
-title: Leçon 20
+title: Lektion 20
 subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
 lesson_id: 20
 last_reconstructed: 2026-05-21
@@ -7,34 +7,34 @@ category: "Grammatik"
 status: stable
 ---
 
-# Leçon 20
+# Lektion 20
 
-## 20.1. Les composés possessifs = ⟪बहुव्रीहि⟫ m.
+## 20.1. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
 
-:::media
+::: media
 ![](/images/lekt2004.webp)
 Fig. : ⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2004))
 :::
 ⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "celui qui possède beaucoup de riz"
 
-::::grammar-box
+::: grammar-box
 
 **Un Bahuvrīhi désigne, par opposition au Tatpuruṣa, quelque chose d'autre que ce qui est exprimé par ses membres : tandis que ⟪बालपुत्रः⟫ dissous en Tatpuruṣa signifie "un jeune fils", c'est-à-dire quelque chose qui est exprimé par le dernier membre du composé (⟪पुत्र⟫), ⟪बालपुत्रः⟫ dissous en Bahuvrīhi signifie "celui dont le fils est jeune", c'est-à-dire que ce qui est désigné n'est ni le fils (⟪पुत्र⟫) ni nécessairement jeune (⟪बाल⟫), mais une personne différente du jeune fils, à savoir son père.**
 
 **Les composés possessifs sont avant tout des adjectifs, qui peuvent toutefois être substantivés. Par conséquent, le genre grammatical d'un Bahuvrīhi dépend de ce à quoi se rapporte le Bahuvrīhi, et non du genre du dernier membre de la composition.**
 
-::::::::grammar-box
+:::
+::: grammar-box
 
 **Schéma pour la dissolution d'un Bahuvrīhi :**
 
 **1. Premier membre généralement au nominatif (⟪प्रथमा⟫) Sing., duel ou pluriel -- 2. Deuxième membre au nominatif Sing., duel ou pluriel -- pronom relatif dans un cas autre que le nominatif (généralement le génitif - ⟪षष्ठी⟫) et en genre et nombre du Bahuvrīhi total -- pronom démonstratif en nombre, cas et genre du Bahuvrīhi total.**
 
-::::
+:::
 Exemples :
 
-
-:::indent
+::: indent
 ⟪गतपापः⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪सः⟫ = "celui dont le mal est parti" = "celui qui est exempt de mauvaises actions"
 
 Acc. sg. ⟪गतपापम्⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तम्⟫
@@ -52,36 +52,38 @@ etc.
 ⟪प्राप्तोदको⟫ ⟪ग्रामः⟫ = ⟪प्राप्तमुदकं⟫ ⟪यं⟫ s ⟪ग्रामः⟫ = "Un village auquel l'eau est arrivée" = "un village menacé par une inondation"
 
 ⟪पुण्यवत्पुत्रः⟫ en tant que Bahuvrīhi = ⟪पुण्यवान्पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫, ou : ⟪पुण्यवन्तः⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪सः⟫ = "celui dont le fils possède du mérite" ou : "celui dont les fils possèdent du mérite"
-:::::::grammar-box
+:::
+::: grammar-box
 
 **La relation entre le premier membre et le second membre peut être, dans un Bahuvrīhi :**
 
-*   **attributive**
-*   **appositionnelle**
-*   **casuelle**
-*   **adverbiale**
+*   **attributif**
+*   **appositionnel**
+*   **casuel**
+*   **adverbial**
 
 **Comme pour le Tatpuruṣa, le membre le plus déterminé se trouve généralement en deuxième position.**
 
-::::
+:::
 Traditionnellement, on distingue :
 
 *   ⟪समानाधिकरणबहुव्रीहिः⟫ : dans ⟪विग्रहवाक्य⟫, le premier membre et le second membre sont dans le même cas
-    
+
 *   ⟪व्यधिकरणबहुव्रीहिः⟫ : dans ⟪विग्रहवाक्य⟫, le premier membre et le second membre sont dans des cas différents
 
-## 20.2. Bahuvrīhi avec un membre antérieur attributif
+## 20.2. Bahuvrīhi mit attributivem Vorderglied
 
-::::grammar-box
+::: grammar-box
 
 **Schéma :**
 
-:::indent
+:::
+::: indent
 **Adjectif -- Nom**
 :::
 **Exemple :**
 
-:::indent
+::: indent
 ⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = « un brāhmaṇa, dont le fils / les fils possède / possèdent de bonnes qualités »
 :::
 **Particulièrement fréquent est la détermination attributive — rare dans le Tatpuruṣa — par un participe passé passif (PPP). Le pronom relatif se trouve alors dans la résolution généralement au instrumental (⟪तृतीया⟫) (plus rarement au génitif / ⟪षष्ठी⟫).**
@@ -93,60 +95,66 @@ Traditionnellement, on distingue :
 
 **Exemple :**
 
-:::indent
+::: indent
 ⟪कृतफल⟫ ⟪३⟫ = ⟪कृतं⟫ ⟪फलं⟫ ye⟪न⟫ ⟪सः⟫ ⟪।⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫ ye⟪न⟫ ⟪तत्⟫ = « un / une / un, qui / qui / qui a produit un résultat, quelqu'un / quelque chose d'efficace »
-:::::::
-## 20.3. Bahuvrīhi avec un membre antérieur en apposition
+:::
+## 20.3. Bahuvrīhi mit appositionellem Vorderglied
 
-::::grammar-box
+::: grammar-box
 
 **Schéma :**
 
-:::indent
+:::
+::: indent
 **Nom -- Nom**
 :::
 **Exemples :**
 
-:::indent
+::: indent
 ⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = « un homme dont les fils sont des héros »
 
 ⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = « celui / celle / ce, dont la fin est ceci » = « qui se termine par cela »
-:::::::::::grammar-box
+:::
+::: grammar-box
 
 **Il est très important des Bahuvrīhi en apposition avec les membres finals ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ « premier, commencement », plus rarement ⟪प्रभृति⟫ « commencement ». De telles composées correspondent à « etc. » :**
 
 **Exemple :**
 
-:::indent
+:::
+::: indent
 ⟪देवा⟫ ⟪इन्द्रादयः⟫ =  ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪ते⟫ ⟪देवाः⟫ = « Les dieux, dont le commencement est Indra » = « les dieux Indra etc. » = « Indra et les autres dieux »
 :::
 **Pour exprimer « seulement », on peut utiliser des bahuvrīhis avec ⟪मात्रा⟫ f. « mesure, limite » comme membre final :**
 
 **Exemple :**
 
-:::indent
+::: indent
 ⟪शब्दमात्रम्⟫ = ⟪शब्दो⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तत्⟫ = « ce, dont la mesure est un mot » = « seulement un mot »
 :::
 **⟪मात्र⟫ après un PPP doit être traduit par « dès que » :**
 
 **Exemple :**
 
-:::indent
+::: indent
 ⟪जातमात्रं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = ⟪जातं⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = « ils tuent un ennemi dont la mesure est l’apparition » = « ils tuent l’ennemi dès qu’il est apparu »
-::::::::::media
+:::
+::: media
 ![](/images/lekt2005.webp)
 Fig. : ⟪देवा⟫ ⟪यीश्वादयः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2005))
 :::
+
 ## 20.4. Bahuvrīhi mit kasuellem Vorderglied
 
 c.-à-d. Bahuvrīhi, dont le premier membre occupe un cas autre que le nominatif (⟪प्रथमा⟫).
 
 Exemple :
 
-:::indent
+::: indent
 ⟪देवरूपा⟫ = ⟪देवस्यैव⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ = « une (femme), dont la forme est celle d’une déesse » « une femme d’apparence divine »
-:::::::grammar-box
+:::
+::: grammar-box
 
 **Exception à la règle générale sur l’ordre des membres de la composition :**
 
@@ -154,39 +162,44 @@ Exemple :
 
 **Exemple :**
 
-:::indent
+:::
+::: indent
 ⟪दण्डहस्तः⟫ =  ⟪दण्डो⟫ ⟪हस्ते⟫ (Loc. sg.) ⟪यस्य⟫ ⟪सः⟫ = « celui, dans la main duquel se trouve un bâton » = « celui qui porte un bâton à la main. »
-::::::::::media
+:::
+::: media
 ![](/images/lekt2001.webp)
 Fig. : ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
 (Source de l’image : [Détails](/fr/licenses#lekt2001))
 :::
-## 20.5. Bahuvrīhi avec un avant-proposition adverbiale
+## 20.5. Bahuvrīhi mit adverbiellem Vorderglied
 
 Dans le premier membre se trouve un adverbe, une préposition, un préfixe verbal ou un autre indeclinable ; de tels composés sont généralement ⟪नित्यसमास⟫.
 
 Exemples :
 
-:::indent
+::: indent
 ⟪अपुत्रो⟫ ⟪नरः⟫ = ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪नास्ति⟫ ⟪स⟫ ⟪नरः⟫ = "un homme qui n'a pas de fils" = "un homme sans fils"
 
 ⟪दुर्बल⟫ ⟪३⟫ = "quelqu'un / quelque chose dont la force est mauvaise" = "sans force, faible"
-:::::::grammar-box
+:::
+::: grammar-box
 
 **⟪सह⟫ "avec" comme avant-proposition d'un Bahuvrīhi est souvent remplacé par ⟪स⟫.**
 
 **Exemple :**
 
-:::indent
+:::
+::: indent
 ⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = "avec un fils", "accompagné d'un fils"
-::::::::::media
+:::
+::: media
 ![](/images/lekt2006.webp)
 Fig. : ⟪सपुत्रा⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2006))
 :::
-## 20.6. Flexion du membre final d'un Bahuvrīhi
+## 20.6. Flexion du terme final d'un Bahuvrīhi
 
-::::grammar-box
+::: grammar-box
 
 **Le membre final d'un Bahuvrīhi est fléchi comme un adjectif à genre multiple, indépendamment de son genre original. Ainsi, si dans un composé le membre final a un genre différent de son genre original, il doit s'agir d'un Bahuvrīhi, à moins qu'il ne s'agisse d'un Samāhāradvanva (neutre singulier).**
 
@@ -196,10 +209,8 @@ Fig. : ⟪सपुत्रा⟫
 *   **les stems en -a (m., n.) forment leur féminin en -ā ou -ī**
 *   **les stems en -ī (f.) doivent prendre le suffixe -ka, -kā, -ka (n.) à la fin des Bahuvrīhis ; ce suffixe peut ou doit aussi être pris par de nombreux autres Bahuvrīhis**
 
-::::
-**
-
-## 20.7. Une autre classification des types de Bahuvrīhis
+:::
+## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
 
 Les exemples sont ici donnés pour un travail ultérieur ; pour certains, la grammaire et le vocabulaire nécessaires n'ont pas encore été abordés.
 
@@ -217,7 +228,7 @@ Les exemples sont ici donnés pour un travail ultérieur ; pour certains, la gra
 12.  Participe passé passif comme premier membre : ⟪कृतकटः⟫ = ⟪कृतः⟫ ⟪कटो⟫ ⟪येन⟫ ⟪सः⟫
 13.  et autres
 
-:::media
+::: media
 ![](/images/lekt2007.webp)
 Fig. : ⟪कृतकटा⟫
 Chennai = சென்னை
@@ -227,22 +238,23 @@ Chennai = சென்னை
 
 Bien que chaque Bahuvrīhi puisse être résolu par une proposition relative, il n'est pas possible de remplacer chaque proposition relative par un Bahuvrīhi. Hermann Georg Jacobi (1850 - 1937), qui a examiné de plus près la relation entre les deux (Compositum und Nebensatz, 1897), écrit :
 
-:::indent
+::: indent
 « Lorsque l'on traduit de l'allemand ou d'une autre langue moderne en sanskrit, toutes les propositions subordonnées ne peuvent pas être rendues par des composés, mais seulement les qualificatifs et descriptifs ; celles qui contiennent une détermination conceptuellement nécessaire ou importante apparaissent également en sanskrit comme des propositions relatives. »
-::::::media
+:::
+::: media
 ![](/images/lekt2002.jpg)
 Fig. : Hermann Jacobi
 (Source de l'image : [Détails](/fr/licenses#lekt2002))
 :::
 Cela peut être vrai. Cependant, les Indiens considèrent alors comme qualificatif et descriptif ce que nous considérerions comme « conceptuellement nécessaire ou important ».
 
-## 20.9. Liste de mots
+## 20.9. Wortliste
 
 ⟪वा⟫ : ou
 
 ⟪आश्रम⟫ m., n. : ermitage, stade de vie, phase de vie (à savoir comme ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ et éventuellement comme ⟪सन्न्यासिन्⟫ ; voir Basham, Wonder p. 159s.)
 
-:::media
+::: media
 ![](/images/lekt2008.webp)
 Fig. : ⟪आश्रमः⟫
 Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
@@ -338,7 +350,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : s'agiter
 
-## 20.10. Exercice 1
+## 20.10. Übung 1
 
 Résolvez les composés suivants comme Bahuvrīhi et/ou Dvandva et/ou Tatpuruṣa de toutes les manières qui vous semblent possibles en sanskrit (exception : composés avec un membre antérieur adverbial). Traduisez ces composés résolus différemment en allemand, indiquez le genre, le cas et le nombre du composé total.
 
@@ -424,7 +436,7 @@ Résolvez les composés suivants comme Bahuvrīhi et/ou Dvandva et/ou Tatpuruṣ
 80.  ⟪अकरुणस्य⟫
 81.  ⟪सोढदुःखाः⟫
 
-## 20.11. Exercice 2
+## 20.11. Übung 2
 
 A) Traduisez et décomposez les composés en sanskrit :
 
@@ -450,27 +462,28 @@ A) Traduisez et décomposez les composés en sanskrit :
 
 B) Traduisez en sanskrit en utilisant des composés :
 
-1. Un kṣatriya qui ne tient pas le bâton dans sa main ne protège pas le peuple.
+Un kṣatriya qui ne tient pas le bâton dans sa main ne protège pas le peuple.
 
-2. Kālidāsa et les autres poètes sont les enseignants en sanskrit.
+Kālidāsa et les autres poètes sont les enseignants en sanskrit.
 
-3. Un kṣatriya gagne sa vie par les armes.
+Un kṣatriya gagne sa vie par les armes.
 
-4. Les femmes śūdra ont aussi, en tant que dharma, la non-violence, la vérité, la pureté, l'absence de murmures, l'absence de méchanceté et la patience.
+Les femmes śūdra ont aussi, en tant que dharma, la non-violence, la vérité, la pureté, l'absence de murmures, l'absence de méchanceté et la patience.
 
-## 20.12. Exercice de traduction
+## 20.12. Übersetzungsübung
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪३३॥⟫
 
-:::indent
+::: indent
 Explication : ⟪भाव्नातस्⟫ = ⟪भावना⟫ + suffixe -tas, qui a une signification ablatif. Traduisez : « en raison de... » ou similaire.
 :::
 ⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪१॥⟫  
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪२॥⟫
 
-:::indent
+::: indent
 Explication : ⟪तपस्⟫ n. (déclinaison plus tard) : braise, chaleur, tourment ; ardeur ascétique, pénitence
-::::::media
+:::
+::: media
 ![](/images/lekt2010.webp)
 Fig. : ⟪तपस्⟫
 Bouddha en ascète avant son insight salvatrice, Gandhara, 2./3e siècle.
@@ -478,19 +491,19 @@ Bouddha en ascète avant son insight salvatrice, Gandhara, 2./3e siècle.
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (Pour le système Sāṃkhya, voir Basham, Wonder p. 324s.)
 
-:::indent
+::: indent
 Explication : ⟪त्रिविध⟫ ⟪३⟫ : « triple »
 :::
 Définition de la libération selon le système Nyāya :
 
-:::indent
+::: indent
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२१॥⟫
 
 ⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२२॥⟫
 :::
 Proposition des matérialistes selon le ⟪सर्वदर्शनसंग्रह⟫ :
 
-:::indent
+::: indent
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
 ⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
 
@@ -498,14 +511,15 @@ Explication : ⟪अत्मा⟫ = nom. sg. masc. de ⟪आत्मन्⟫
 :::
 Un ⟪सुभाषितम्⟫ :
 
-:::indent
+::: indent
 ⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
 ⟪विप्राणां⟫ ⟪करदा⟫ ⟪नृपाः⟫ ⟪।⟫  
 ⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
 ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫
 
 Explication : -da à la fin d'un composé : « donnant »
-::::::media
+:::
+::: media
 ![](/images/lekt2009.webp)
 Fig. : ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
 Karnataka
@@ -513,7 +527,7 @@ Karnataka
 :::
 Sur les relations de possession :
 
-:::indent
+::: indent
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫
 ⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫
 ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫
@@ -523,28 +537,30 @@ Explication : ⟪त्रयस्⟫ = nom. masc. pl. de ⟪त्रि⟫ «
 :::
 Un ⟪सुभाषितम्⟫ sur la beauté féminine :
 
-:::indent
+::: indent
 ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 ⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫
 ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫
 ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫
 
 Explication : toutes les formes sauf ⟪कं⟫ et ⟪स्त्रीणाम्⟫ sont nom. sg. neut. et se réfèrent à ⟪वपुस्⟫.
-::::::media
+:::
+::: media
 ![](/images/lekt2003.webp)
 Fig. : ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2003))
 :::
 Encore un ⟪सुभाषितम्⟫ :
 
-:::indent
+::: indent
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫
 ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
 Explication : ⟪इच्छताम्⟫ = gén. pl. Part Prés. P de ⟪इष्⟫ : celui qui souhaite
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt2001 :** Siemreap (ក្រុងសៀមរាប), Cambodge, 9e siècle apr. J.-C. [Source de l'image : Wikipédia, domaine public]
 
@@ -566,3 +582,4 @@ Explication : ⟪इच्छताम्⟫ = gén. pl. Part Prés. P de ⟪इ
 
 **lekt2010:** Bouddha en ascète avant son insight salvatrice, Gandhara, 2./3e siècle. [Source de l'image : Wikipedia, GNU FDLicense]
 :::
+

@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 3
 
-A) Convert the following sentences into the plural:
+A) Put the following sentences into the plural:
 
 1\. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
 
@@ -141,32 +141,32 @@ devyo gurvyaḥ.
 
 ⟪देव्यो⟫ ⟪गुर्व्यः⟫
 
-4\. Milk cows are domesticated animals.
+4\. Milchkühe sind domestizierte Tiere.
 
 paśavo dhenavaḥ.
 
 ⟪पशवो⟫ ⟪धेनवः⟫
 
-5\. Poets are teachers.
+5\. Dichter sind Lehrer.
 
 guravaḥ kavayaḥ.
 
 ⟪गुरवः⟫ ⟪कवयः⟫
 
-6\. Kṣatriyas are twice-born.
+6\. Kṣatriyas sind Zweimalgeborene.
 
 dvijāḥ kṣatriyāḥ.
 
 ⟪द्वि्जाः⟫ ⟪क्षत्रियाः⟫
 
-7\. The holy men are Śūdras.
+7\. Die heiligen Männer sind Śūdras.
 
 śūdrāḥ sādhavaḥ.
 
 ⟪शूद्राः⟫ ⟪साधवः⟫
 
-:::media
+::: media
 ![](/images/uebung001.webp)
 Fig.: ⟪पशुर्धेनुः⟫
-(Image source: [Details](/en/licenses#uebung001))
+(Image source: [Details](/licenses#uebung001))
 :::

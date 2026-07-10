@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-07
 
 # Lecția 9
 
-:::deleteme-box
+::: deleteme-box
 **În această lecție veți învăța:**
 - Samāhāradvandva („dvandva de sumarizare”)
 - Formarea rădăcinilor nominale cu sufixele **-ka** (taddhita) și **-aka** (kṛt)
@@ -20,7 +20,7 @@ last_reconstructed: 2026-05-07
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Sumarizare-dvandva")
 
-:::grammar-box
+::: grammar-box
 **Dacă un Dvandva trebuie să exprime că o serie de lucruri etc. formează o unitate, atunci acesta se află, în general, la singularul neutru:**
 
 de ex. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ nu înseamnă simplu "consum de alimente (**āhāra** m.), somn (**nidrā** f.), împerechere (**maithuna** n.) și frică (**bhaya** n.)", ci aceste patru ca o **unitate**, care caracterizează viața animalică.
@@ -35,7 +35,7 @@ de ex. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्राम
 
 ### 9.2.1. -ka (taddhita)
 
-:::grammar-box
+::: grammar-box
 **Sufixul taddhita -ka formează, printre altele:**
 
 1\. **Diminutive (forme de diminutiv, precum în germană -chen, -lein, -li, -le):**
@@ -55,7 +55,7 @@ de ex. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्राम
 
 ### 9.2.2. -aka (kṛt), fem. adesea -ikā
 
-:::grammar-box
+::: grammar-box
 **Sufixul kṛt -aka, Feminin adesea -ikā, formează nume de agent (nume care exprimă făptuitorul) pentru orice rădăcină.**
 
 Un vocal final al rădăcinii, precum și **-a-** la penultima poziție a rădăcinii, sunt înlocuite cu gradul lor de lungime (**vṛddhi**) (există câteva excepții), iar celelalte vocale sunt înlocuite cu gradul lor intens (**guṇa**).
@@ -71,7 +71,7 @@ Un vocal final al rădăcinii, precum și **-a-** la penultima poziție a rădă
 | **nṛt**:br4 P:br⟪नृत्⟫:br"a dansa" | **nartaka** m.:br(⟪नर्तक⟫) /:br**nartakī** f.:br(⟪नर्तकी⟫) | "Dansator / Dansatoare" |
 | **ji**:br1 P:br⟪जि⟫:br"a învinge" | **jayaka** 3:br(⟪जयक⟫) | "învingător" |
 
-:::grammar-box
+::: grammar-box
 **Unele dintre aceste forme au semnificația mai restrânsă: "cel care realizează în mod obișnuit, ca datorie sau bine, ceea ce este exprimat de rădăcină".**
 :::
 vezi mai sus, de ex. **śrāvaka**, **yājaka**, **jayaka**
@@ -94,14 +94,14 @@ vezi mai sus, de ex. **śrāvaka**, **yājaka**, **jayaka**
 
 - **adhyayana** n. (⟪अध्ययन⟫) : învățare, în special studiu vedic
 
-:::media
+::: media
 ![](/images/lekt0903.webp)
 Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram lângă Madurai.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0903))
 :::
 - **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : meșter
 
-:::media
+::: media
 ![](/images/lekt0902.webp)
 Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0902))
@@ -135,7 +135,7 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 6\. **rakṣikā** ⟪रक्षिका⟫
 7\. **karṣaka** ⟪कर्षक⟫
 
-:::media
+::: media
 ![](/images/lekt0901.webp)
 Fig.: **karṣaka** = ⟪कर्षक⟫.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0901))

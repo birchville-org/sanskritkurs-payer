@@ -72,7 +72,7 @@ B) Insert the agent and verb in the plural in the sentences formed in A)
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मं⟫ ⟪द्विषन्ति⟫ ⟪।⟫ ⟪द्विषते⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung025.webp)
 Fig.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Image source: [Details](/en/licenses#uebung025))
@@ -175,7 +175,7 @@ Translate the following verb forms and provide the corresponding root:
 
 ⟪४६⟫. **⟪दिश्यन्न्ते⟫** (⟪दिश्⟫ 6U): they are shown
 
-:::media
+::: media
 ![](/images/uebung026.webp)
 Fig.: ⟪शृणोति⟫
 (Image source: [Details](/en/licenses#uebung026))

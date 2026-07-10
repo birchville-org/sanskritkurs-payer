@@ -102,7 +102,7 @@ sādhur guruḥ.
 
 ⟪साधुर्गुरुः⟫
 
-:::media
+::: media
 ![](/images/uebung002.jpg)
 ஒளிப்படம்: ⟪ईश्वरः⟫ ⟪शिवः⟫
 (படத்தின் மூலம்: [விவரங்கள்](/licenses#uebung002))

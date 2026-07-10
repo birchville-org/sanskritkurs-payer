@@ -90,7 +90,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪आन्वीक्षिकी⟫ ⟪त्रयी⟫ ⟪वार्त्ता⟫ ⟪दण्डनीतिश्च⟫ ⟪विद्याः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung010.webp)
 Fig.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung010))
@@ -111,7 +111,7 @@ A) Übersetzen Sie:
 
 ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫
 
-Die drei zweimalgeborenen Stände sind: Brahmane, Kṣatriya und Vaiśya.
+Cele trei caste de două ori născute sunt: Brāhmaṇa, Kṣatriya și Vaiśya.
 
 3\. dvijā vaiśyāḥ. (2 Möglichkeiten)
 
@@ -119,7 +119,7 @@ Die drei zweimalgeborenen Stände sind: Brahmane, Kṣatriya und Vaiśya.
 
 Vaiśyas sind Zweimalgeborene / Vaiśyafrauen sind Zweimalgeborene.
 
-B) Setzen Sie die entsprechende Form ein:
+B) Completați forma corespunzătoare:
 
 (dvija, sādhu, kavi) ... rāmaḥ
 
@@ -145,7 +145,7 @@ dvijātayo vaiśyāḥ. dvijātayaḥ kṣatriyāḥ.
 
 ⟪द्विजातयो⟫ ⟪वश्याः⟫ ⟪।⟫ ⟪द्विजातयः⟫ ⟪क्षत्रियाः⟫ ⟪॥⟫
 
-C) Lösen Sie das Kompositum in folgendem Satz in Sanskrit auf und bilden Sie mit dieser aufgelösten Form denselben Satz:
+[C0] C) Rezolvați compusul din următorul propoziție în sanscrită și formați cu această formă rezolvată aceeași propoziție:
 
 sāmargyajurvedās trayī.
 
@@ -155,7 +155,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī / ... yajurvedas trayī
 
 ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫ ... ⟪यजुर्वेदस्त्रयी⟫ ⟪॥⟫
 
-D) Übersetzen Sie auf zwei Weisen ins Sanskrit (einmal mit einem Kompositum, einmal ohne):
+D) Traduceți în sanscrită în două moduri (o dată cu un compus, o dată fără):
 
 "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut.
 
@@ -163,7 +163,7 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 
 ⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung009.webp)
 Abb.: ⟪ऋग्वेदः⟫
 (Bildquelle: [Details](/licenses#uebung009))

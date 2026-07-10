@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Déterminez les formes verbales suivantes et formez les formes d'imparfait correspondantes en personne, nombre et genre verbal :
 
-:::grammar-box
+::: grammar-box
 | Présent / Futur | Imparfait |
 | :--- | :--- |
 | ⟪१⟫. **⟪हरिष्यन्ते⟫** | ⟪अहरन्त⟫ |
@@ -86,6 +86,7 @@ A) Déterminez les formes verbales suivantes et formez les formes d'imparfait co
 | ⟪७१⟫. **⟪उपदेक्ष्यन्ति⟫** | ⟪उपादिशन्⟫ |
 | ⟪७२⟫. **⟪धक्ष्यति⟫** | ⟪अदहत्⟫ |
 | ⟪७३⟫. **⟪तनोति⟫** | ⟪अतनोत्⟫ |
+
 | ⟪७४⟫. **⟪प्रजानीते⟫** | ⟪प्राजानीत⟫ |
 | ⟪७५⟫. **⟪जीवन्ति⟫** | ⟪अजीवन्⟫ |
 :::
@@ -93,132 +94,135 @@ B) Traduisez et résolvez les composés en sanskrit :
 
 ⟪१⟫. **⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫**
 (⟪जनस्य⟫ ⟪इन्द्रस्य⟫ ⟪अग्रे⟫ ⟪।⟫ ⟪महत्⟫-⟪पुण्यम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪लोके⟫)
-Il était une fois un prince qui possédait toutes les qualités désirables, de belle apparence. Il se distinguait parmi tous les princes des hommes. Il offrait des sacrifices aux dieux, vainquit les ennemis, protégea le peuple et accomplit de nombreuses actions méritoires ; c'est pourquoi, après sa mort, il fut réincarné dans un monde divin.
+Il était une fois un prince qui possédait toutes les qualités désirables, de belle apparence. Il se distinguait parmi tous les princes humains. Il offrait des sacrifices aux dieux, vaincait les ennemis, protégeait le peuple et accomplissait de nombreuses actions méritoires ; c'est pourquoi, après sa mort, il fut réincarné dans un monde divin.
 
 ⟪२⟫. **⟪ब्राह्मणो⟫ ⟪महानगरे⟫ ⟪ऽवसत्⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमागमय्यावक्⟫ ⟪।⟫ ⟪ब्राह्मणपुत्रो⟫ ⟪वेदं⟫ ⟪गुरावधीयीतेति⟫ ⟪॥२॥⟫**
 (⟪ब्राह्मणस्य⟫ ⟪पुत्रः⟫ ⟪।⟫ ⟪गुरोः⟫ ⟪गृहे⟫)
-Un brahmane résidait dans une grande ville. Il fit venir son fils et lui dit : « Un fils de brahmane doit étudier le Veda auprès d’un maître. » À ces mots, le fils alla chez un maître pour étudier. Il entra dans la maison du maître et se présenta avec révérence devant lui. Le maître s’enquit du brahmane. Ensuite, il offrit de la nourriture à ce fils.
+Un brahmane résidait dans une grande ville. Il fit venir son fils et dit : « Un fils de brahmane doit étudier le Veda auprès d'un maître. » À ces mots, le fils alla chez un maître pour étudier. Il entra dans la maison du maître et se présenta avec révérence devant le maître. Le maître s'enquit du brahmane. Ensuite, il donna à manger à ce fils.
 
 ⟪३⟫. **⟪राम⟫ ⟪आचर्यमुपसंगम्य⟫ ⟪वचनमब्रवीत्⟫ ⟪॥३॥⟫**
-Rāma alla voir le professeur et prononça (ces mots).
+Rāma alla chez le professeur et parla (les mots).
 
 ⟪४⟫. **⟪ब्राह्मणा⟫ ⟪वेदमध्यैयत⟫ ⟪चाध्यापयंश्च⟫ ⟪देवांश्चायजन्नयजन्त⟫ ⟪च⟫ ⟪क्षत्रियाः⟫ ⟪श्रुतिमध्यैयत⟫ ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त⟫ ⟪वैश्या⟫ ⟪वेदमध्यैयत⟫ ⟪देवानयजन्ताक्रीणन्व्यक्रीणत⟫ ⟪च⟫ ⟪द्विजदासास्तु⟫ ⟪शूद्रा⟫ ⟪आसन्⟫ ⟪॥४॥⟫**
 (⟪द्विजानां⟫ ⟪दासाः⟫)
-Les brahmanes ont étudié et enseigné le Veda, ont offert des sacrifices aux dieux en tant que maîtres des offrandes, et ont sacrifié pour le compte d’autrui. Les kṣatriyas ont étudié le Veda, protégé le peuple, joui de la terre et offert des sacrifices aux dieux en tant que maîtres des offrandes. Les vaiśyas ont étudié le Veda, offert des sacrifices aux dieux en tant que maîtres des offrandes, acheté et vendu. Mais les śūdras étaient les serviteurs des deux fois nés.
+Les brahmanes ont étudié et enseigné le Veda, offert des sacrifices en tant que maîtres d'offrande aux dieux et sacrifié pour le compte d'autrui. Les kṣatriyas ont étudié le Veda, protégé le peuple, joui de la terre et offert des sacrifices en tant que maîtres d'offrande aux dieux. Les vaiśyas ont étudié le Veda, offert des sacrifices en tant que maîtres d'offrande aux dieux, acheté et vendu. Les śūdras, quant à eux, étaient les serviteurs des deux fois nés.
 
 ⟪५⟫. **⟪बुद्धपुत्राः⟫ ⟪सत्यमजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫**
 (⟪बुद्धस्य⟫ ⟪पुत्राः⟫)
-Les fils de Bouddha ont reconnu la vérité, arrêté la souffrance et atteint la libération. Un moine est désigné comme « fils de Bouddha » s’il suit la voie de Bouddha.
+Les fils de Bouddha ont reconnu la vérité, arrêté la souffrance et atteint la libération. Un moine est désigné comme « fils de Bouddha » s'il suit la voie de Bouddha.
 
-:::media
+::: media
 ![](/images/uebung050.webp)
 Fig. : ⟪सम्पन्नरूपा⟫
-(Source de l’image : [Détails](/fr/licenses#uebung050))
+(Source de l'image : [Détails](/licenses#uebung050))
 :::
 ---
 
-## Détermination de la forme du mot
+## Détermination des formes de mots
 
 Déterminez et traduisez les mots suivants :
 
-:::grammar-box
-| Forme du mot | Détermination | Signification |
+::: grammar-box
+| Forme de mot | Détermination | Signification |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪देवस्य⟫** | Gén. sg. m. | du dieu |
-| ⟪२⟫. **⟪उषितायाः⟫** | Abl./Gén. sg. f. PPP | (de) l'habité |
-| ⟪३⟫. **⟪लप्स्यन्ते⟫** | 3. pl. Ā. Fut. | ils maintiendront |
-| ⟪४⟫. **⟪गुरौ⟫** | Loc. sg. m. | auprès du maître |
+| ⟪२⟫. **⟪उषितायाः⟫** | Abl./Gén. sg. PPP | (de) l'habitée |
+| ⟪३⟫. **⟪लप्स्यन्ते⟫** | 3. pl. Ā. Fut. | ils seront maintenus |
+| ⟪४⟫. **⟪गुरौ⟫** | Loc. sg. m. | chez le professeur |
 | ⟪५⟫. **⟪भाव्यते⟫** | 3. sg. Ind. Prés. Caus. Passif | il est produit |
 | ⟪६⟫. **⟪अग्न⟫ye** | Dat. sg. m. | au feu |
 | ⟪७⟫. **⟪मोक्तुम्⟫** | Inf. | pour libérer |
-| ⟪८⟫. **⟪वितत्य⟫** | Absol. | après avoir étendu |
+| ⟪८⟫. **⟪वितत्य⟫** | Absol. | après avoir déployé |
+
 | ⟪९⟫. **⟪स्मृत्यै⟫** | Dat. sg. f. | pour la représentation |
-| ⟪१०⟫. **⟪देवताः⟫** | Nom./Acc. pl. f. | les divinités |
-| ⟪११⟫. **⟪ब्रवीति⟫** | 3. sg. P. Ind. Prés. | il parle |
+| ⟪१०⟫. **⟪देवताः⟫** | Nom./Akk. pl. f. | les divinités |
+| ⟪११⟫. **⟪ब्रवीति⟫** | 3. sg. P. Ind. Präs. | il dit |
 | ⟪१२⟫. **⟪प्रक्ष्यन्ति⟫** | 3. pl. P. Fut. | ils demanderont |
-| ⟪१३⟫. **⟪पततः⟫** | Gén. sg. m./n. Part. Prés. | de celui qui tombe |
+| ⟪१३⟫. **⟪पततः⟫** | Gen. sg. m./n. Part. Präs. | du tombant |
 | ⟪१४⟫. **⟪पत्स्यन्ते⟫** | 3. pl. Ā. Fut. | ils avanceront |
-| ⟪१५⟫. **⟪आसते⟫** | 3. pl. Ā. Ind. Prés. | ils sont assis |
-| ⟪१६⟫. **⟪महान्ति⟫** | Nom./Acc. pl. n. | les grands |
-| ⟪१७⟫. **⟪घ्नता⟫** | Instr. sg. m./n. Part. Prés. | par le tueur |
-| ⟪१८⟫. **⟪आययन्ति⟫** | 3. pl. P. Ind. Prés. Caus. | ils envoient / font venir |
-| ⟪१९⟫. **⟪एषिता⟫** | Nom. sg. f. Caus. PPP | celle qui est souhaitée |
-| ⟪२०⟫. **⟪आनाय्य⟫** | Absol. Caus. | après avoir fait venir |
+| ⟪१५⟫. **⟪आसते⟫** | 3. pl. Ā. Ind. Präs. | ils sont assis |
+| ⟪१६⟫. **⟪महान्ति⟫** | Nom./Akk. pl. n. | les grands |
+| ⟪१७⟫. **⟪घ्नता⟫** | Instr. sg. m./n. Part. Präs. | par le Tueur |
+| ⟪१८⟫. **⟪आययन्ति⟫** | 3. pl. P. Ind. Präs. Kaus. | ils envoient / font venir |
+| ⟪१९⟫. **⟪एषिता⟫** | Nom. sg. f. Kaus. PPP | celle qui est souhaitée |
+| ⟪२०⟫. **⟪आनाय्य⟫** | Absol. Kaus. | après qu'il eut fait venir |
 | ⟪२१⟫. **⟪अनृताय⟫** | Dat. sg. n. | pour le mensonge |
 | ⟪२२⟫. **⟪पूजया⟫** | Instr. sg. f. | par le culte |
 | ⟪२३⟫. **⟪प्रश्नेभ्यः⟫** | Dat./Abl. pl. m. | (des) questions |
 | ⟪२४⟫. **⟪धक्ष्यन्ति⟫** | 3. pl. P. Fut. | ils brûleront |
-| ⟪२५⟫. **⟪मृगान्⟫** | Acc. pl. m. | les animaux sauvages |
-| ⟪२६⟫. **⟪बोधिम्⟫** | Acc. sg. f. | l'intuition |
+| ⟪२५⟫. **⟪मृगान्⟫** | Akk. pl. m. | les animaux sauvages |
+| ⟪२६⟫. **⟪बोधिम्⟫** | Akk. sg. f. | l'intuition |
 | ⟪२७⟫. **⟪गुणैः⟫** | Instr. pl. m. | par les propriétés |
-| ⟪२८⟫. **⟪सन्ति⟫** | 3. pl. P. Ind. Prés. | ils sont / les vrais |
-| ⟪२९⟫. **⟪यन्ति⟫** | 3. pl. P. Ind. Prés. | ils vont |
-| ⟪३०⟫. **⟪क्रियते⟫** | 3. sg. Ind. Prés. Pass. | cela est fait |
+| ⟪२८⟫. **⟪सन्ति⟫** | 3. pl. P. Ind. Präs. | ils sont / les vrais |
+| ⟪२९⟫. **⟪यन्ति⟫** | 3. pl. P. Ind. Präs. | ils vont |
+| ⟪३०⟫. **⟪क्रियते⟫** | 3. sg. Ind. Präs. Pass. | il est fait |
 | ⟪३१⟫. **⟪विगत्य⟫** | Absol. | après qu'il est passé |
 | ⟪३२⟫. **⟪चरित्वा⟫** | Absol. | après qu'il a brouté |
-| ⟪३३⟫. **⟪पीते⟫** | Loc. sg. m./n. PPP | dans le bu |
-| ⟪३४⟫. **⟪अन्नानि⟫** | Nom./Acc. pl. n. | les aliments |
-| ⟪३५⟫. **⟪जलम्⟫** | Nom./Acc. sg. n. | l'eau |
-| ⟪३६⟫. **⟪वक्ति⟫** | 3. sg. P. Ind. Prés. | il dit |
+| ⟪३३⟫. **⟪पीते⟫** | Lok. sg. m./n. PPP | dans le bu |
+| ⟪३४⟫. **⟪अन्नानि⟫** | Nom./Akk. pl. n. | les aliments |
+| ⟪३५⟫. **⟪जलम्⟫** | Nom./Akk. sg. n. | l'eau |
+| ⟪३६⟫. **⟪वक्ति⟫** | 3. sg. P. Ind. Präs. | il dit |
 | ⟪३७⟫. **⟪उक्तिः⟫** | Nom. sg. f. | l'expression |
 | ⟪३८⟫. **⟪अर्धात्⟫** | Abl. sg. m./n. | du demi |
 | ⟪३९⟫. **⟪अर्थेन⟫** | Instr. sg. m. | par le but |
-| ⟪४०⟫. **⟪स्तूयन्ते⟫** | 3. pl. Ind. Prés. Pass. | ils sont loués |
+| ⟪४०⟫. **⟪स्तूयन्ते⟫** | 3. pl. Ind. Präs. Pass. | ils sont loués |
 | ⟪४१⟫. **⟪श्रोष्यति⟫** | 3. sg. P. Fut. | il entendra |
 | ⟪४२⟫. **⟪स्रष्टुम्⟫** | Inf. | pour puiser |
-| ⟪४३⟫. **⟪पशुम्⟫** | Acc. sg. m. | l'animal |
-| ⟪४४⟫. **⟪स्तुतीः⟫** | Acc. pl. f. | les louanges |
+| ⟪४३⟫. **⟪पशुम्⟫** | Akk. sg. m. | l'animal |
+| ⟪४४⟫. **⟪स्तुतीः⟫** | Akk. pl. f. | les louanges |
 | ⟪४५⟫. **⟪अरयः⟫** | Nom. pl. m. | les ennemis |
 | ⟪४६⟫. **⟪जात्या⟫** | Instr. sg. f. | par la naissance |
-| ⟪४७⟫. **⟪जाताम्⟫** | Acc. sg. f. PPP | celle qui est née |
+| ⟪४७⟫. **⟪जाताम्⟫** | Akk. sg. f. PPP | celle qui est née |
 | ⟪४८⟫. **⟪देक्ष्यति⟫** | 3. sg. P. Fut. | il montrera |
-| ⟪४९⟫. **⟪दर्शितः⟫** | Nom. sg. m. Caus. PPP | celui qui est montré |
+| ⟪४९⟫. **⟪दर्शितः⟫** | Nom. sg. m. Kaus. PPP | celui qui est montré |
 | ⟪५०⟫. **⟪दुष्टाः⟫** | Nom. pl. m. PPP | corrompus |
-| ⟪५१⟫. **⟪द्विजातीन्⟫** | Acc. pl. m. | les deux fois nés |
-
+| ⟪५१⟫. **⟪द्विजातीन्⟫** | Akk. pl. m. | les deux fois nés |
 | ⟪५२⟫. **⟪मृत्योः⟫** | Abl./Gen. sg. m. | de la mort |
 | ⟪५३⟫. **⟪दुग्धानाम्⟫** | Gen. pl. PPP | des traites |
 | ⟪५४⟫. **⟪दिष्टिभिः⟫** | Instr. pl. f. | par les instructions |
 | ⟪५५⟫. **⟪मात्रायाम्⟫** | Lok. sg. f. | dans la mesure |
 | ⟪५६⟫. **⟪अत्ति⟫** | 3. sg. P. Ind. Präs. | il mange |
-| ⟪५७⟫. **⟪जायन्ते⟫** | 3. pl. Ā. Ind. Präs. | ils naissent |
+| ⟪५७⟫. **⟪जायन्ते⟫** | 3. pl. Ā. Ind. Präs. | ils naîtront |
 | ⟪५८⟫. **⟪जीयन्ते⟫** | 3. pl. Ind. Präs. Pass. | ils sont vaincus |
+
 | ⟪५९⟫. **⟪जयन्ति⟫** | 3. pl. P. Ind. Präs. | ils triomphent |
-| ⟪६०⟫. **⟪जनयन्ति⟫** | 3. pl. P. Ind. Präs. Kaus. | ils engendrent |
-| ⟪६१⟫. **⟪प्रभृतेः⟫** | Abl./Gen. sg. f. | du commencement |
+| ⟪६०⟫. **⟪जनयन्ति⟫** | 3. pl. P. Ind. Präs. Caus. | ils engendrent |
+| ⟪६१⟫. **⟪प्रभृतेः⟫** | Abl./Gén. sg. f. | du commencement |
 | ⟪६२⟫. **⟪उपतिष्ठन्ति⟫** | 3. pl. P. Ind. Präs. | ils se tiennent devant |
-| ⟪६३⟫. **⟪स्थित्याम्⟫** | Lok. sg. f. | dans l'établissement |
-| ⟪६४⟫. **⟪भिक्षुषु⟫** | Lok. pl. m. | auprès des moines |
+| ⟪६३⟫. **⟪स्थित्याम्⟫** | Loc. sg. f. | dans la fixation |
+| ⟪६४⟫. **⟪भिक्षुषु⟫** | Loc. pl. m. | auprès des moines |
 | ⟪६५⟫. **⟪पक्त्वा⟫** | Absol. | après avoir cuit |
 | ⟪६६⟫. **⟪योद्धुम्⟫** | Inf. | pour combattre |
-| ⟪६७⟫. **⟪मारयित्वा⟫** | Absol. Kaus. | après avoir tué |
+| ⟪६७⟫. **⟪मारयित्वा⟫** | Absol. Caus. | après avoir tué |
 | ⟪६८⟫. **⟪धेन्वा⟫** | Instr. sg. f. | par la vache laitière |
 | ⟪६९⟫. **⟪मंस्यन्ते⟫** | 3. pl. Ā. Fut. | ils penseront |
 | ⟪७०⟫. **⟪इज्यते⟫** | 3. sg. Ind. Präs. Pass. | il est sacrifié |
 | ⟪७१⟫. **⟪प्रोद्य⟫** | Absol. | après avoir proclamé |
-| ⟪७२⟫. **⟪लम्भयति⟫** | 3. sg. Ind. Präs. Kaus. | il fait conserver |
-| ⟪७३⟫. **⟪स्थापिताभिः⟫** | Instr. pl. f. Kaus. PPP | par les disposés |
+| ⟪७२⟫. **⟪लम्भयति⟫** | 3. sg. Ind. Präs. Caus. | il fait conserver |
+| ⟪७३⟫. **⟪स्थापिताभिः⟫** | Instr. pl. f. Caus. PPP | par les placés |
 | ⟪७४⟫. **⟪शक्तिभ्यः⟫** | Dat./Abl. pl. f. | (des) forces |
 | ⟪७५⟫. **⟪अलम्⟫** | Adv. | assez |
-| ⟪७६⟫. **⟪हेतून्⟫** | Akk. pl. m. | les raisons |
-| ⟪७७⟫. **⟪प्रतिमासु⟫** | Lok. pl. f. | auprès des images |
-| ⟪७८⟫. **⟪यस्याः⟫** | Gen. sg. f. Rel. | de laquelle |
-| ⟪७९⟫. **⟪हि⟫** | Konj. | car, en effet |
-| ⟪८०⟫. **⟪तस्मिन्⟫** | Lok. sg. m./n. Dem. | dans celui-ci |
+| ⟪७६⟫. **⟪हेतून्⟫** | Acc. pl. m. | les raisons |
+| ⟪७७⟫. **⟪प्रतिमासु⟫** | Loc. pl. f. | auprès des images |
+| ⟪७८⟫. **⟪यस्याः⟫** | Gén. sg. f. Rel. | de laquelle |
+| ⟪७९⟫. **⟪हि⟫** | Conj. | car, en effet |
+| ⟪८०⟫. **⟪तस्मिन्⟫** | Loc. sg. m./n. Dém. | dans celui-ci |
 | ⟪८१⟫. **⟪ह्रियन्ते⟫** | 3. pl. Ind. Präs. Pass. | ils sont pris |
-| ⟪८२⟫. **⟪अधिकृतेषु⟫** | Lok. pl. m./n. PPP | auprès des chargés |
-| ⟪८३⟫. **⟪अध्यापयति⟫** | 3. sg. P. Ind. Präs. Kaus. | il enseigne |
-| ⟪८४⟫. **⟪वाचयन्ति⟫** | 3. pl. P. Ind. Präs. Kaus. | ils font lire |
-::::::media
+| ⟪८२⟫. **⟪अधिकृतेषु⟫** | Loc. pl. m./n. PPP | auprès des chargés |
+| ⟪८३⟫. **⟪अध्यापयति⟫** | 3. sg. P. Ind. Präs. Caus. | il instruit |
+| ⟪८४⟫. **⟪वाचयन्ति⟫** | 3. pl. P. Ind. Präs. Caus. | ils font lire |
+:::
+
+::: media
 ![](/images/uebung051.webp)
 Fig. : ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
-(Source de l'image : [Détails](/fr/licenses#uebung051))
+(Source de l'image : [Détails](/licenses#uebung051))
 :::
 ---
 
 ## Exercice sur le Sandhi
 
-Insérez les mots entre parenthèses dans les phrases suivantes, en respectant les règles du Sandhi :
+Insérez les mots entre parenthèses dans les phrases suivantes et respectez les règles du Sandhi :
 
 ⟪१⟫. **⟪रामो⟫ ⟪ग्रामात्⟫ ... ⟪गच्छति⟫ ⟪।⟫** (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪कविगृह⟫)
 - ⟪रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गच्छति⟫ ⟪।⟫
@@ -251,10 +255,10 @@ Insérez les mots entre parenthèses dans les phrases suivantes, en respectant l
 
 ## Traductions supplémentaires de sanskrit
 
-1\. Une fois le fils né, la brahmane envoie un serviteur chez le brahmane.
+1\. Après que le fils est né, la brahmane envoie un serviteur au brahmane.
 **⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫**
 
-2\. Le saint a enduré le mal qui lui a été fait.
+2\. Le saint a enduré le mal qui lui a été infligé.
 **⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪॥⟫**
 
 3\. La vertu est l'ornement de l'homme.
@@ -273,7 +277,7 @@ Insérez les mots entre parenthèses dans les phrases suivantes, en respectant l
 7\. Un homme protégé par la déesse est heureux.
 **⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखवान्⟫ ⟪॥⟫**
 
-8\. Avec quel vent qu'une nuage laisse tomber de l'eau, avec ce vent un érigent déplace son parasol.
+8\. Avec quel vent qu'une nuage laisse tomber de l'eau, avec ce vent un érudit déplace son parasol.
 **⟪येन⟫ ⟪येन⟫ ⟪च⟫ ⟪वातेन⟫ ⟪वारिदो⟫ ⟪वारिं⟫ ⟪मुञ्चति⟫ ⟪।⟫**
 **⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫ ⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥⟫**
 
@@ -289,10 +293,10 @@ Insérez les mots entre parenthèses dans les phrases suivantes, en respectant l
 12\. Au revoir !
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
 
-:::media
+::: media
 ![](/images/uebung052.webp)
 Fig. : ⟪पुनर्दर्शनाय⟫
-(Source de l'image : [Détails](/fr/licenses#uebung052))
+(Source de l'image : [Détails](/licenses#uebung052))
 :::
 ---
 
@@ -300,24 +304,25 @@ Fig. : ⟪पुनर्दर्शनाय⟫
 
 **⟪शत्रूनगमयत्स्वर्गं⟫ ⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫**  
 **⟪आशयच्चामृतं⟫ ⟪देवान्वेदमध्यापयद्विधिम्⟫ ⟪।⟫**  
-**⟪आसयत्सलिले⟫ ⟪पृथ्वीं⟫ ⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिर्गतिः⟫ ⟪॥⟫** Le sublime Hari est mon refuge, celui qui envoya ses ennemis au ciel, fit connaître à ses fidèles le sens du Veda, offrit aux dieux l’Amṛta à manger, enseigna le Veda au Créateur, et ancrât la terre dans les eaux.
+**⟪आसयत्सलिले⟫ ⟪पृथ्वीं⟫ ⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिर्गतिः⟫ ⟪॥⟫**  
+Le vénéré Hari est mon refuge, celui qui a envoyé ses ennemis au ciel, qui a fait connaître à ses disciples le sens du Veda, qui a donné l'Amṛta aux dieux à manger, qui a enseigné le Veda au créateur et qui a fixé la terre dans l'eau.
 
-:::media
+::: media
 ![](/images/uebung053.webp)
 Fig. : ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
-(Source de l’image : [Détails](/fr/licenses#uebung053))
+(Source de l'image : [Détails](/licenses#uebung053))
 :::
 ---
 
-## Récit : Le Vieillard et les Singes (Sanskrit-Bālādarśa)
+## Récit : Le vieillard et les singes (Sanskrit-Bālādarśa)
 
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमगच्छत्⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाती⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 
 **Traduction :**
-Un jour, un vieillard se rendit dans un autre village et se fatigua en chemin. Pour se reposer, il alla se poser au pied d’un manguier au bord du chemin. Sur cet arbre pendaient des fruits mûrs. Le vieillard eut envie de les manger, mais il ne pouvait pas grimper à l’arbre pour les cueillir. Heureusement, il y avait sur l’arbre quelques singes qui mangeaient des fruits. Lorsque le vieillard vit cela, il se réjouit. Que fit-il ? Il prit quelques pierres, visa les singes et les lança. Les singes devinrent furieux, cueillirent quelques fruits et les lancèrent sur le vieillard. Le vieillard prit joyeusement les fruits et poursuivit son chemin. Quelle habileté remarquable que celle de ce vieillard !
+Un jour, un vieillard se rendit dans un autre village et devint fatigué en chemin. Pour se reposer, il s'assit au pied d'un manguier au bord du chemin. Sur cet arbre pendaient des fruits mûrs. Le vieillard eût envie de les manger, mais il ne pouvait pas grimper à l'arbre pour les cueillir. Par chance, il y avait sur l'arbre quelques singes qui mangeaient des fruits. Lorsque le vieillard vit cela, il se réjouit. Que fit-il ? Il prit quelques pierres, visa les singes et les lança. Les singes devinrent furieux, cueillirent quelques fruits et les jetèrent sur le vieillard. Le vieillard prit joyeusement les fruits et poursuivit son chemin. Quelle habileté remarquable que celle du vieillard !
 
-:::media
+::: media
 ![](/images/uebung054.webp)
 Fig. : ⟪वानरः⟫ ⟪कुपितः⟫
-(Source de l’image : [Détails](/fr/licenses#uebung054))
+(Source de l'image : [Détails](/licenses#uebung054))
 :::

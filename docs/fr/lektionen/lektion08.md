@@ -1,22 +1,21 @@
 ---
-title: Leçon 8
-subtitle: "Formation des noms & 8. classe de présent"
+title: Lektion 8
+subtitle: "Bildung von Nomina & 8. Präsensklasse"
 lesson_id: 8
-category: "Grammaire"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
-# Leçon 8
+# Lektion 8
 
-:::deleteme-box
+::: deleteme-box
 **Dans cette leçon, vous apprendrez :**
 - La formation des noms (suffixes kṛt- et taddhita-)
 - Les suffixes nominaux importants (-a, -ana, -tra, -ti, -tva, -tā)
-- La 8. classe de présent (tanādi)
+- La 8e classe de présent (tanādi)
 - La conjugaison de **kṛ** (tun, faire)
 :::
----
 
 ## 8.1. Sur la formation des noms
 
@@ -25,15 +24,14 @@ Dans la grammaire indienne traditionnelle, on distingue, parmi les suffixes serv
 - **Suffixes kṛt (⟪कृत्⟫) (primaires) :** forment à partir des racines verbales (**dhātu** m. = ⟪धातु⟫) et des stems verbaux des stems nominaux, des absolutifs et des infinitifs.
 - **Suffixes taddhita (⟪तद्धित⟫) (secondaires) :** s’ajoutent aux stems nominaux et aux indeclinables, et forment de nouveaux stems nominaux ou indeclinables.
 
-:::grammar-box
+::: grammar-box
 **Schéma :**
 **Racine + suffixe kṛt » stem nominal, etc. + suffixe taddhita » nouveau stem nominal, etc.**
 
 **Stem nominal + terminaison casuelle » nom syntaxiquement fonctionnel**
 :::
----
 
-## 8.2. Classification des suffixes nominaux
+## 8.2. Einteilung der Nominalsuffixe
 
 - **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
   - **kārakakṛt** (⟪कारककृत्⟫) » noms d'agent (désignent celui qui accomplit l'action désignée par la racine)
@@ -53,132 +51,123 @@ Dans la grammaire indienne traditionnelle, on distingue, parmi les suffixes serv
 - **na guṇya** (⟪न⟫ ⟪गुण्य⟫) : formation au degré faible
 - **vṛddhyarha** (⟪वृद्ध्यर्ह⟫) : formation au degré allongé
 
----
-
-## 8.3. Quelques suffixes nominaux importants
-
----
+## 8.3. Einige wichtige Nominalsuffixe
 
 ### 8.3.1. -a m. (kṛt)
 
-:::grammar-box
+::: grammar-box
 **Le suffixe kṛt -a forme des substantifs masculins (plus rarement neutres) qui désignent une action ou un état indiqué par la racine ; parfois aussi des adjectifs ou des substantifs exprimant l’agent (kartṛ) de l’action indiquée par la racine verbale. Pour une pénulti courte (= voyelle avant la consonne sur laquelle la racine se termine) ou une voyelle finale de racine, on substitue généralement le degré élevé (guṇa) ou le degré allongé (vṛddhi).**
 :::
 **Exemples :**
 
-| Racine:br⟪धातु⟫ | + -a (kṛt) | Signification |
+| Wurzel:br⟪धातु⟫ | + -a (kṛt) | Signification |
 | :--- | :--- | :--- |
-| **ji** 1 P:br⟪आप्⟫:br"vaincre" | **jaya** m.:br⟪जय⟫ | "la victoire, le vainqueur" |
-| **muh** 4 P:br⟪मुह्⟫:br"être confus" | **moha** m.:br⟪मोह⟫ | "confusion, illusion, erreur" |
-| **krudh** 4 P:br⟪क्रुध्⟫:br"se fâcher" | **krodha** m.:br⟪क्रोध⟫ | "colère" |
-| **kup** 4 P:br⟪कुप्⟫:br"se fâcher" | **kopa** m.:br⟪कोप⟫ | "colère" |
-| **lubh** 4 P:br⟪लुभ्⟫:br"désirer" | **lobha** m.:br⟪लोभ⟫ | "désir" |
-| **labh** 1 Ā:br⟪लभ्⟫:br"obtenir" | **lābha** m.:br⟪लाभ⟫ | "l'obtention, le gain" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"libérer,:brlaisser émaner" | **sarga** m.:br⟪सर्ग⟫ | "la libération, l'émanation, la création" (pour le sandha du mot j » g, voir plus loin) |
-| **śru** 5 P:br⟪श्रु⟫:br"écouter" | **śrava** m.:br⟪श्रव⟫ | "l'écoute" |
-| **bhū** 1 P:br⟪भू⟫:br"devenir, être" | **bhāva** m.:br⟪भाव⟫ | "le devenir, l'être (quelque chose), nature, caractère" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"combattre" | **yodha** m.:br⟪योध⟫ | "combattant, guerrier, soldat" |
-
----
+| **ji** 1 P:br⟪आप्⟫:br"siegen" | **jaya** m.:br⟪जय⟫ | "la victoire, le vainqueur" |
+| **muh** 4 P:br⟪मुह्⟫:br"verwirrt sein" | **moha** m.:br⟪मोह⟫ | "confusion, illusion, erreur" |
+| **krudh** 4 P:br⟪क्रुध्⟫:br"zürnen" | **krodha** m.:br⟪क्रोध⟫ | "colère" |
+| **kup** 4 P:br⟪कुप्⟫:br"zürnen" | **kopa** m.:br⟪कोप⟫ | "colère" |
+| **lubh** 4 P:br⟪लुभ्⟫:br"begehren" | **lobha** m.:br⟪लोभ⟫ | "désir" |
+| **labh** 1 Ā:br⟪लभ्⟫:br"bekommen" | **lābha** m.:br⟪लाभ⟫ | "l'obtention, le gain" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "la libération, l'émanation, la création" (pour le sandha du mot j » g, voir plus loin) |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "l'écoute" |
+| **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "le devenir, l'être (quelque chose), nature, caractère" |
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "combattant, guerrier, soldat" |
 
 ### 8.3.2. -ana n. (kṛt)
 
-:::grammar-box
+::: grammar-box
 **Le suffixe kṛt -ana forme généralement des substantifs neutres qui désignent une action, un état ou le moyen/outil par lequel l'action désignée par la racine ou le radical verbal est accomplie. Pour une pénulti brève ou une voyelle finale de la racine, on substitue habituellement le degré plein (guṇa).**
 :::
 **Exemples :**
 
-| Racine:br⟪धातु⟫ | + -ana (kṛt) | Signification |
+| Wurzel:br⟪धातु⟫ | + -ana (kṛt) | Signification |
 | :--- | :--- | :--- |
-| **gam** 1 P:br⟪गम्⟫:br"aller" | **gamana** n.:br⟪गमन⟫ | "l'action d'aller" |
-| **nī** 1 U:br⟪नी⟫:br"conduire" | **nayana** n.:br⟪नयन⟫ | "(l'outil de conduite, c.-à-d.) œil" |
-| **śru** 5 P:br⟪श्रु⟫:br"écouter" | **śravaṇa** n.:br⟪श्रवण⟫ | "(organe d'écoute =) oreille" |
-| **kṛ** 8 U:br⟪कृ⟫:br"faire" | **kāraṇa** n.:br⟪कारण⟫ | "(ce par quoi quelque chose est fait, c.-à-d.) cause, motif" |
-| **bhū** 1 P:br⟪भू⟫:br"devenir" | **bhavana** n.:br⟪भवन⟫ | "le devenir, l'émergence" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"voir" | **darśana** n.:br⟪दर्शन⟫ | "la vision, point de vue, système philosophique, apparition, spécialement : Darśan" |
+| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gamana** n.:br⟪गमन⟫ | "l'action d'aller" |
+| **nī** 1 U:br⟪नी⟫:br"führen" | **nayana** n.:br⟪नयन⟫ | "(l'outil de conduite, c.-à-d.) œil" |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(organe d'écoute =) oreille" |
+| **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(ce par quoi quelque chose est fait, c.-à-d.) cause, motif" |
+| **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "le devenir, l'émergence" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "la vision, point de vue, système philosophique, apparition, spécialement : Darśan" |
 
-:::media
+::: media
 ![](/images/lekt0801.webp)
 Fig. : Maa Batakali Darshan, Puri, Orissa
 (Source de l'image : [Détails](/fr/licenses#lekt0801))
-::::::
+:::
+
+::: note-box
 note-box
 **"Darshan"** ou **"Darshana"** est un terme de l'hindouisme désignant la vision et la contemplation du sacré et du divin. Sous *Darshana*, on entend par exemple la rencontre officielle entre élève et maître, où l'élève a été invité par le maître. Mais cela peut aussi signifier l'*absorption* lors de la contemplation d'une image divine. Cette dernière signification est celle qui est la plus courante dans l'usage actuel de l'hindi. Dans le contexte de Mata Amritanandamayi, Darshan signifie l'étreinte par le Guru.
 
 Les hindous pieux vont au temple pour obtenir la vision de Dieu à travers un symbole ou une statue, dans laquelle on suppose la présence spirituelle de la divinité. En ce sens, c'est aussi une bénédiction par la divinité. Darshan peut cependant aussi être reçu par une vision de la divinité lors de la prière ou de la méditation. Une personne vivante, considérée comme une incarnation de la divinité, comme par exemple un Avatara, peut aussi donner Darshan.
 (Source : Wikipédia)
 :::
----
 
 ### 8.3.3. -tra n. (kṛt)
 
-:::grammar-box
+::: grammar-box
 **Le suffixe kṛt -tra forme (la plupart du temps) des substantifs neutres, qui désignent le moyen ou l'instrument par lequel l'action désignée par la racine se réalise. La pénultième courte et la voyelle finale de la racine sont remplacées par le degré renforcé (guṇa).**
 :::
+
 **Exemples :**
 
-| Racine:br⟪धातु⟫ | + -tra (kṛt) | Signification |
+| Wurzel:br⟪धातु⟫ | + -tra (kṛt) | Signification |
 | :--- | :--- | :--- |
-| **nī** 1 U:br⟪नी⟫:br"conduire" | **netra** n.:br⟪नेत्र⟫ | "(Moyen de conduite =) œil" |
-| **śru** 5 P:br⟪श्रु⟫:br"écouter" | **śrotra**:br⟪श्रोत्र⟫ | "(Instrument d'écoute =) oreille" |
-| **man** 4 Ā:br⟪मन्⟫:br"penser" | **mantra** **m. (!)**:br⟪मन्त्र⟫ | "(Instrument de pensée :) formule, formule 'magique' (mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"tendre" | **tantra** n.:br⟪तन्त्र⟫ | "chaîne de trame" |
+| **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Moyen de conduite =) œil" |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Instrument d'écoute =) oreille" |
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Instrument de pensée :) formule, formule 'magique' (mantra)" |
+| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "chaîne de trame" |
 
-:::media
+::: media
 **L'Ur-Mantra Oṃ (⟪ॐ⟫) dans divers textes indiens**
 
 | ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) |
 | :---: | :---: |
 | In Devanāgarī | In Bengali Schrift |
 | ![](/images/lekt0802.jpg) | ![](/images/lekt0804.jpg) |
-| En écriture kannaraise | En écriture tamoule |
+| En écriture kannaraise | In Tamil-Schrift |
 | ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
 | In Malayalam-Schrift | Jaina-Oṃ |
 (Origines des images : [Détails](/fr/licenses#lekt0803))
 :::
----
 
 ### 8.3.4. -ti f. (kṛt)
 
-:::grammar-box
+::: grammar-box
 **Le suffixe kṛt -ti forme des substantifs féminins qui expriment généralement l'action désignée par la racine ou l'état désigné par la racine. La forme de la racine est au degré inférieur.**
 :::
 **Exemples :**
 
-| Racine:br⟪धातु⟫ | + -ti (kṛt) | Signification |
+| Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Signification |
 | :--- | :--- | :--- |
-| **śru** 5 P:br⟪श्रु⟫:br"écouter" | **śruti** f.:br⟪श्रुति⟫ | "l'écoute, le Veda" |
-| **smṛ** 1 P:br⟪स्मृ⟫:br"rappeler" | **smṛti** f.:br⟪स्मृति⟫ | "La remémoration, mémoire, tradition, attention" |
-| **nī** 1 U:br⟪नी⟫:br"conduire" | **nīti** f.:br⟪नीति⟫ | "la conduite, direction, comportement" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"faire émaner" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Émanation, création" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"voir" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Regard, vue, perspective" |
-| **gam** 1 P:br⟪गम्⟫:br"aller" | **gati** f.:br⟪गति⟫ | "Allure, trajectoire, but de l'action d'aller" (de *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"penser" | **mati** f.:br⟪मति⟫ | "Pensée, pensée, opinion" (de *mn » ma + -ti) |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śruti** f.:br⟪श्रुति⟫ | "l'écoute, le Veda" |
+| **smṛ** 1 P:br⟪स्मृ⟫:br"vergegenwärtigen" | **smṛti** f.:br⟪स्मृति⟫ | "La remémoration, mémoire, tradition, attention" |
+| **nī** 1 U:br⟪नी⟫:br"führen" | **nīti** f.:br⟪नीति⟫ | "la conduite, direction, comportement" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Émanation, création" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Regard, vue, perspective" |
+| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
 
 *Remarque : \* devant une forme signifie que cette forme n'apparaît pas en sanskrit, mais est déduite théoriquement comme condition préalable à une certaine formation. Le degré inférieur de **gam** est gṃ = \*gm, le m est remplacé par une nasale sonore par **a** » **ga**. Il en va de même pour **man** » **ma**.
 
----
-
 ### 8.3.5. -tva n., -tā f. (taddhita)
 
-:::grammar-box
+::: grammar-box
 **Les suffixes taddhita -tva n. et -tā f. forment des substantifs abstraits à partir de noms. La forme de la racine nominale sous-jacente reste inchangée.**
 :::
 **Exemples :**
 
-| Racine nominale:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Signification |
+| Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Signification |
 | :--- | :--- | :--- | :--- |
-| **guru**:br⟪गुरु⟫:br3 "lourd, digne,:brm. Maître" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Lourdeur, dignité,:brLe fait d'être enseignant (essence ou nature d'un enseignant)" |
-| **brāhmaṇa**:br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "Le fait d'être Brahmane,:brce qui fait d'un homme un Brahmane,:brEssence / nature d'un Brahmane" |
-| **deva**:br⟪देव⟫:brm. "Céleste, Dieu" | — | **devatā** f.:br⟪देवता⟫ | "Divinité" |
+| **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Lourdeur, dignité,:brLe fait d'être enseignant (essence ou nature d'un enseignant)" |
+| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
+| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Divinité" |
 
 Ces formations peuvent être pratiquement formées à partir de n'importe quel nom et sont très fréquentes dans les œuvres savantes en sanskrit.
 
----
+## 8.4. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.")
 
-## 8.4. La 8e classe de présent (tanādi = ⟪तनादि⟫ = « tan, etc. »)
-
-:::grammar-box
+::: grammar-box
 **Formation de la racine :**
 - **Racine forte : racine + -o-**
 - **Racine faible : racine + -u- (devant voyelle : -v-)**
@@ -193,16 +182,15 @@ Remarque : Concernant le débat sur le point de savoir si **tan** est en réalit
 
 La racine la plus importante de la 8e classe est **kṛ** 8 U (⟪कृ⟫) « faire, accomplir ». Sa conjugaison est irrégulière :
 
-:::grammar-box
+::: grammar-box
 **kṛ 8 U (⟪कृ⟫) « faire, accomplir »**
 - 3\. sg. P. **karoti**:br⟪करोति⟫
 - 3\. pl. P. **kurvanti**:br⟪कुर्वन्ति⟫
 - 3\. sg. Ā. **kurute**:br⟪कुरुते⟫
 - 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
 :::
----
 
-## 8.5. Liste de mots
+## 8.5. Wortliste
 
 **Apprenez les mots suivants :**
 
@@ -224,11 +212,13 @@ La racine la plus importante de la 8e classe est **kṛ** 8 U (⟪कृ⟫) « 
 - **patrikā** f. ⟪पत्रिका⟫ : lettre
 - **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : graver, écrire (à l'origine avec un stylet sur une feuille de palmier, puis de manière générale)
 
-:::media
+::: media
 ![](/images/lekt0809.jpg)
 Fig. : **likh** (⟪लिख्⟫) : Stylet d'écriture indien en acier pour graver sur des feuilles de palmier
 (Source de l'image : [Détails](/fr/licenses#lekt0809))
-::::::media
+:::
+
+::: media
 ![](/images/lekt0810.jpg)
 Fig. : **likh** (⟪लिख्⟫) : Bâton d'écriture des Batak (Sumatra), tel qu'il était probablement également utilisé en Inde
 (Source de l'image : [Détails](/fr/licenses#lekt0809))
@@ -236,9 +226,7 @@ Fig. : **likh** (⟪लिख्⟫) : Bâton d'écriture des Batak (Sumatra), t
 - **sukha** n. ⟪सुख⟫ : bonheur, bien-être
 - **duḥkha** n. ⟪दुःख⟫ : malheur, souffrance
 
----
-
-## 8.6. Exercice
+## 8.6. Übung
 
 **A) Expliquez les noms suivants en indiquant la racine dont ils sont dérivés, ainsi que le suffixe nominal. Indiquez le genre et le sens :**
 1. lobha
@@ -288,9 +276,7 @@ Fig. : **likh** (⟪लिख्⟫) : Bâton d'écriture des Batak (Sumatra), t
 10. Que désirent les dieux ?
 11. Quelle est la raison ?
 
----
-
-## 8.7. Exercice de lecture et de traduction
+## 8.7. Lese- und Übersetzungsübung
 
 1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
 2. ⟪कविर्देवं⟫ ⟪यजते⟫ |

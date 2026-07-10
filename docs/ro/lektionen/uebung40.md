@@ -28,7 +28,7 @@ Un student primește un sfert (al cunoașterii) de la învățătorul său, un s
 
 B) Transformați următoarele forme verbale în formele corespunzătoare de Perfect (persoana I):
 
-:::grammar-box
+::: grammar-box
 | Prezent / Imperfect | Perfect (persoana I) |
 | :--- | :--- |
 | ⟪१⟫. **⟪अश्नीमः⟫** | ⟪आशिम⟫ |
@@ -100,10 +100,11 @@ B) Transformați următoarele forme verbale în formele corespunzătoare de Perf
 | ⟪६७⟫. **⟪अहनम्⟫** | ⟪जघान⟫ / ⟪जघन⟫ |
 | ⟪६८⟫. **⟪पश्यामः⟫** | ⟪ददृशिम⟫ |
 | ⟪६९⟫. **⟪ईक्षे⟫** | ⟪ईक्षां⟫ ⟪चक्रे⟫ |
-::::::media
+:::: media
 ![](/images/uebung065.webp)
 Fig.: ⟪आशिमेति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung065))
+::::
 :::
 ---
 
@@ -111,7 +112,7 @@ Fig.: ⟪आशिमेति⟫
 
 Determinați și traduceți următoarele forme de cuvânt:
 
-:::grammar-box
+::: grammar-box
 | Formă de cuvânt | Determinare | Semnificație |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | am dat / el a dat pentru sine |
@@ -148,8 +149,9 @@ Determinați și traduceți următoarele forme de cuvânt:
 | ⟪३२⟫. **⟪ऐक्षे⟫** | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | am văzut |
 | ⟪३३⟫. **⟪आह⟫** | ⟪अह्⟫ (P) 3. sg. P. Perf. | el a spus |
 | ⟪३४⟫. **⟪आहन्⟫** | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | el a lovit |
-::::::media
+:::: media
 ![](/images/uebung066.webp)
 Fig.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung066))
+::::
 :::

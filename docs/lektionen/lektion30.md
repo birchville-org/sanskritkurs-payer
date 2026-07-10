@@ -11,7 +11,7 @@ status: stable
 
 ## 30.1. Die 9. Präsensklasse (⟪क्र्यादि⟫ = "⟪क्री⟫ u.s.w.")
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
 *   starker Stamm: tiefstufige Wurzel + -nā-
@@ -24,9 +24,10 @@ status: stable
 :::
 Beispiel:
 
-:::indent
+::: indent
 ⟪क्री⟫ 9U "kaufen"
-::::::grammar-box
+:::
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -36,7 +37,7 @@ Beispiel:
 :::
 Bei dieser Präsensklasse ist besonders zu beachten die Bildung des Präsensstamms zur Wurzel ⟪ज्ञा⟫ 9U "erkennen, wissen":
 
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -50,9 +51,10 @@ Einige Wurzeln auf langen Vokal verkürzen diesen vor dem Präsensstammsuffix de
 
 Beispiel:
 
-:::indent
+::: indent
 ⟪पू⟫ 9U "reinigen"
-::::::grammar-box
+:::
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -64,14 +66,14 @@ Bildung des Partizip Präsens Parasmaipada:
 
 Beispiel:
 
-:::indent
+::: indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
 :::
 ## 30.2. Gebrauch des Optativ (⟪लिङ्⟫)
 
 Der Optativ wird gebraucht:
 
-:::grammar-box
+::: grammar-box
 **1. zur Bezeichnung**
 
 *   **eines Wunsches**
@@ -82,9 +84,10 @@ Der Optativ wird gebraucht:
 :::
 Beispiel:
 
-:::indent
+::: indent
 ⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Der Leibeigene möge ins Dorf kommen"
-::::::grammar-box
+:::
+::: grammar-box
 **2. Wenn etwas als**
 
 *   **möglich**
@@ -95,21 +98,22 @@ Beispiel:
 :::
 Beispiel:
 
-:::indent
+::: indent
 ⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "Wenn er aus dem Dorf ginge, würde er den Meister nicht hören"
-::::::grammar-box
+:::
+::: grammar-box
 **3. Relativsätze mit Optativ haben manchmal die Bedeutung: "Wenn jemand ..."**
 :::
 Beispiel:
 
-:::indent
+::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Wenn jemand die Unwahrheit sagen würde, würde er in die Hölle fallen = Wenn jemand Unwahrheit sagt, fällt er in die Hölle"
 :::
 ## 30.3. Sekundärendungen der 3. Personen Singular und Plural
 
 Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (⟪लुङ्⟫), Prekativ (⟪आशिर्लिङ्⟫) und Konditionalis haben die sog. Sekundärendungen:
 
-:::grammar-box
+::: grammar-box
 
 | |3. Person Singular|3. Person Plural|
 | :--- | :--- | :--- |
@@ -121,7 +125,7 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 
 ### 30.4.1. Thematische Präsensklassen
 
-:::grammar-box
+::: grammar-box
 **vor konsonantisch anlautenden Endungen:**
 
 **Präsensstamm + -i- (das mit dem -a- zu -e- verschmilzt) + Sekundärendungen**
@@ -135,7 +139,7 @@ Beispiele:
 1\. Präsensklasse:
 
 ⟪भू⟫
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -146,7 +150,7 @@ Beispiele:
 4\. Präsensklasse:
 
 ⟪नृत्⟫
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -157,7 +161,7 @@ Beispiele:
 6\. Präsensklasse
 
 ⟪विश्⟫
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -168,7 +172,7 @@ Beispiele:
 10\. Präsensklasse und Kausative
 
 ⟪चुर्⟫
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -178,7 +182,7 @@ Beispiele:
 :::
 ### 30.4.2. Athematische Präsensklassen
 
-:::grammar-box
+::: grammar-box
 **Parasmaipada:**
 
 **schwacher Präsensstamm + -yā- (vor -ur: -y-) + Sekundärendung**
@@ -192,7 +196,7 @@ Beispiele:
 2\. Präsensklasse:
 
 ⟪द्विष्⟫
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -203,7 +207,7 @@ Beispiele:
 5\. Präsensklasse
 
 ⟪सु⟫
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -214,7 +218,7 @@ Beispiele:
 8\. Präsensklasse
 
 ⟪तन्⟫
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -224,14 +228,15 @@ Beispiele:
 :::
 **kṛ** :br(⟪कृ⟫)
 
-:::grammar-box
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
 |**3. Person:brParasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
 |**3. Person:brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
 
-::::::grammar-box
+:::
+::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
@@ -241,14 +246,14 @@ Beispiele:
 :::
 ## 30.5. Sandhi von auslautendem -r
 
-:::grammar-box
-**Außer für -ar gelten für auslautendes -r dieselben Sandhiregeln wie für auslautendes -s.**
+::: grammar-box
+**Ausser für -ar gelten für auslautendes -r dieselben Sandhiregeln wie für auslautendes -s.**
 
 **-ar vor tönenden Lauten bleibt -ar, vor r- aber fällt das -r aus und das -a- wird durch -ā- ersetzt.**
 :::
 Beispiele:
 
-:::indent
+::: indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
 
 ⟪पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः⟫
@@ -259,7 +264,7 @@ Beispiele:
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : kaufen
 
-:::indent
+::: indent
 Fut. ⟪क्रेष्यति⟫  
 Pass. ⟪क्रीयते⟫  
 PPP ⟪क्रीत⟫  
@@ -267,9 +272,10 @@ Inf. ⟪क्रेतुम्⟫
 :::
 ⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : verkaufen
 
-:::indent
+::: indent
 Absol. ⟪विक्रीय⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3001.webp)
 Abb.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
@@ -277,7 +283,7 @@ Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 :::
 ⟪ज्ञा⟫ 9U ⟪जानाति⟫ : kennen, erkennen, wissen, verstehen
 
-:::indent
+::: indent
 Fut. ⟪ज्ञास्यति⟫  
 Pass. ⟪ज्ञायते⟫  
 Kaus. ⟪ज्ञापयति⟫  
@@ -290,7 +296,8 @@ davon:
 ⟪ज्ञाति⟫ m.: (Bluts-)Verwandter (Verwandte sind diejenigen, die man kennt!)
 
 ⟪ज्ञान⟫ n.: Erkenntnis, Wissen, Erkennen (bes. der "höheren" Wahrheiten in Religion und Philosophie)
-::::::media
+:::
+::: media
 ![](/images/lekt3002.webp)
 Abb.: ⟪ज्ञातयः⟫
 Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
@@ -298,26 +305,28 @@ Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪�
 :::
 ⟪पू⟫ 9U ⟪पुनाति⟫ : reinigen
 
-:::indent
+::: indent
 Fut. ⟪पविष्यति⟫  
 Pass. ⟪पूयते⟫  
 Kaus. ⟪पावयति⟫  
 PPP ⟪पूत⟫  
 Inf. ⟪पवितुम्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3003.webp)
 Abb.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Bildquelle: [Details](/licenses#lekt3003))
 :::
 ⟪अश्⟫ 9P ⟪अश्नाति⟫ : essen, verzehren
 
-:::indent
+::: indent
 Fut. ⟪अशिष्यति⟫  
 Pass. ⟪अश्यते⟫  
 Kaus. ⟪आशयति⟫  
 PPP ⟪अशित⟫  
 Inf. ⟪अशितुम्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3005.webp)
 Abb.: ⟪अश्नीयात्⟫
 ⟪थाली⟫, Südindien
@@ -325,39 +334,40 @@ Abb.: ⟪अश्नीयात्⟫
 :::
 ⟪प्रिय⟫ ⟪३⟫: lieb, liebend, freundlich
 
-:::media
+::: media
 ![](/images/lekt3004.webp)
 Abb.: ⟪प्रिया⟫
 (Bildquelle: [Details](/licenses#lekt3004))
 :::
 ⟪चेत्⟫ Konjunktion: wenn; vorausgesetzt, dass (steht nie am Anfang eines Satzes)
 
-:::indent
+::: indent
 ⟪न⟫ ⟪चेत्⟫ : wenn nicht
 :::
 ⟪यदि⟫ Konjunktion: wenn
 
-:::indent
+::: indent
 ⟪यद्यपि⟫ : wenn auch, selbst wenn, obgleich
 
 ⟪यद्येवम्⟫ : wenn es so ist, unter diesen Umständen
 :::
 ⟪पुनर्⟫ : wieder, immer wieder, zurück, noch einmal, dagegen, aber
 
-:::indent
+::: indent
 ⟪पुनः⟫ ⟪पुनर्⟫ : immer wieder
 
 davon:
 
 ⟪पुनर्भव⟫ m.: Wiedergeburt
-::::::media
+:::
+::: media
 ![](/images/lekt2904.webp)
 Abb.: ⟪पुनर्भवः⟫
 (Bildquelle: [Details](/licenses#lekt2904))
 :::
 ⟪जीव्⟫ 1P ⟪जीवति⟫ : leben
 
-:::indent
+::: indent
 Fut. ⟪जीविष्यति⟫  
 Pass. ⟪जीव्यते⟫  
 Kaus. ⟪जीवयति⟫  
@@ -506,7 +516,7 @@ Bestimmen und übersetzen Sie folgende Wortformen:
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Bildquelle: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 **lekt3002:** Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Bildquelle: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Zugriff am 2008-12-21. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]

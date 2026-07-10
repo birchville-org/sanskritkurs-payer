@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Insert the corresponding form of the words in parentheses in the following sentences and translate:
 
-:::grammar-box
+::: grammar-box
 ⟪१⟫. **⟪राज्ञि⟫** (or: **⟪राजनि⟫**) **⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (⟪राजन्⟫)
 If the king upholds justice and custom, the people are without fear.
 
@@ -55,10 +55,11 @@ Good kings grant people fearlessness.
 
 ⟪१५⟫. **⟪राजसु⟫ ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫** (⟪राजन्⟫)
 If kings do not uphold justice and custom, the people are full of fear.
-::::::media
+:::: media
 ![](/images/uebung063.webp)
 Fig.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
 (Image source: [Details](/en/licenses#uebung063))
+::::
 :::
 ---
 

@@ -1,232 +1,235 @@
 ---
-title: Lektion 19
+title: 第19课
 lesson_id: 19
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 19
 
 ## 19.1. Der Relativsatz
 
-::::grammar-box
+::: grammar-box
 
-**Schema:** <!-- TODO: Fallback translation -->
-
-:::indent
-**Relativpronomen -- Relativsatz, der das Nomen enthält, auf den sich der Relativsatz bezieht -- (Demonstrativpronomen) -- Hauptsatz** <!-- TODO: Fallback translation -->
-:::
-**Der Relativsatz kann auch nach dem Hauptsatz stehen, er kann aber nicht in den Hauptsatz eingeschoben werden.** <!-- TODO: Fallback translation -->
-
-**Das Relativpronomen und das Beziehungswort, das ja - im Gegensatz zum Deutschen - im Relativsatz steht, stehen in dem Kasus, den der Relativsatz syntaktisch erfordert. Das Demonstrativpronomen steht in dem Kasus, den der Hauptsatz syntaktisch erfordert.** <!-- TODO: Fallback translation -->
+**Schema:**
 
 :::
-Beispiele: <!-- TODO: Fallback translation -->
-
-Anmerkung: In Relativen allgemeingültigen Inhalts wird gerne der Optativ anstelle des Indikativs verwendet. Viele unserer Beispiele würden also bevorzugt im Optativ stehen. <!-- TODO: Fallback translation -->
-
-**1. Der Agens (⟪कर्तृ⟫) des Satzes wird durch einen Relativsatz näher bestimmt:** <!-- TODO: Fallback translation -->
-
-:::indent
-⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪स⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ =  ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ = ⟪येन⟫ ⟪नरेण⟫ ⟪पुण्यम्⟫ ⟪क्रियते⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ u.s.w. = "Ein Mann, der Verdienstvolles tut, kommt in den Himmel." <!-- TODO: Fallback translation -->
+::: indent
+**关系代词 -- 包含关系代词所指名词的关系从句 -- (指示代词) -- 主句**
 :::
-**2. Das direkte Objekt (⟪कर्म⟫) des Hauptsatzes wird durch den Relativsatz näher bestimmt:** <!-- TODO: Fallback translation -->
+**关系从句也可以位于主句之后，但不能插入到主句中。**
 
-:::indent
-⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "Die Götter beschützen einen Brahmanen, der ihnen als Opferherr opfert." <!-- TODO: Fallback translation -->
+**关系代词以及关系词（与德语不同，关系词位于关系从句中）采用关系从句在句法上所需的格。指示代词采用主句在句法上所需的格。**
+
+示例：
+
+注：在表达普遍性内容的关系句中，常使用虚拟语气而非直陈语气。因此，我们的许多例句更倾向于采用虚拟语气。
+
+**1. 句子的施事者（⟪कर्तृ⟫）通过一个关系从句进一步确定：**
+
+::: indent
+⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪स⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ =  ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ = ⟪येन⟫ ⟪नरेण⟫ ⟪पुण्यम्⟫ ⟪क्रियते⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ 等等 = “行善之人，得生天界。”
 :::
-**3. Die nähere Bestimmung eines Nomens des Hauptsatzes steht im Relativsatz:** <!-- TODO: Fallback translation -->
+**2. 主句的直接宾语（⟪कर्म⟫）由关系从句进一步限定：**
 
-:::indent
-⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "Söhne von Männern, die Böses tun, erhalten keinen Reichtum." <!-- TODO: Fallback translation -->
+::: indent
+⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = “保护那些作为祭主向他们献祭的婆罗门的神灵。”
 :::
-**4. Relativpronomen und Beziehungswort stehen im Genetiv (⟪षष्ठी⟫):** <!-- TODO: Fallback translation -->
+**3. 主句中名词的进一步限定位于关系从句中：**
 
-:::indent
-⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "Nicht ist der Mann glücklich, dessen Söhne Böses tun." <!-- TODO: Fallback translation -->
+::: indent
+⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = “作恶之人的儿子们无法获得财富。”
 :::
-**5. Relativpronomen und Beziehungswort stehen im Instrumentalis (⟪तृतीया⟫):** <!-- TODO: Fallback translation -->
+**4. 关系代词和关联词处于属格（⟪षष्ठी⟫）：**
 
-:::indent
-⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "Sie hassen den Feind, der ihr Dorf besiegt / erobert hat." <!-- TODO: Fallback translation -->
+::: indent
+⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = “人并不幸福，如果他的儿子们作恶。”
 :::
-**6. Relativpronomen und Beziehungswort stehen im Akkusativ (⟪द्वितीया⟫):** <!-- TODO: Fallback translation -->
+**5. 关系代词和关系词处于工具格（⟪तृतीया⟫）：**
 
-:::indent
-⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = "Ein Mann, den die Göttin beschützt, erlangt Glück." <!-- TODO: Fallback translation -->
+::: indent
+⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = “他们憎恨击败/征服其村庄的敌人。”
 :::
-## 19.2. Das Relativpronomen = ⟪व्यपेक्षकसर्वनाम⟫ n.
+**6. 关系代词和关联词处于宾格（⟪द्वितीया⟫）：**
 
-::::grammar-box
+::: indent
+⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = “受到女神庇佑之人，必获吉祥。”
+:::
+## 19.2. 关系代词 = ⟪व्यपेक्षकसर्वनाम⟫ n.
 
-**⟪यद्⟫ "welcher, welche, welches" dekliniert wie ⟪तद्⟫, aber mit regelmäßigem Sandhi.** <!-- TODO: Fallback translation -->
+::: grammar-box
 
-| | | **Maskulinum** :br **⟪पुंस्⟫** | **Neutrum** :br **⟪नपुंसक⟫** | **Femininum** :br **⟪स्त्री⟫** | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Singular** :br **⟪एकवचन⟫** | **1. Nominativ** :br **⟪प्रथमा⟫** | **yas** :br **⟪यस्⟫** | **yad** :br **⟪यद्⟫** | **yā** :br **⟪या⟫** | <!-- TODO: Fallback translation -->
-| | **2. Akkusativ** :br **⟪द्वितीया⟫** | **yam** :br **⟪यम्⟫** | **yad** :br **⟪यद्⟫** | **yām** :br **⟪याम्⟫** | <!-- TODO: Fallback translation -->
-| | **3. Instrumentalis** :br **⟪तृतीया⟫** | **yena** :br **⟪येन⟫** | **yena** :br **⟪येन⟫** | **yayā** :br **⟪यया⟫** | <!-- TODO: Fallback translation -->
-| | **6. Genetiv** :br **⟪षष्ठी⟫** | **yasya** :br **⟪यस्य⟫** | **yasya** :br **⟪यस्य⟫** | **yasyās** :br **⟪यस्यास्⟫** | <!-- TODO: Fallback translation -->
-| **Plural** :br **⟪बहुवचन⟫** | **1. Nominativ** :br **⟪प्रथमा⟫** | **ye** :br **⟪ये⟫** | **yāni** :br **⟪यानि⟫** | **yās** :br **⟪यास्⟫** | <!-- TODO: Fallback translation -->
-| | **2. Akkusativ** :br **⟪द्वितीया⟫** | **yān** :br **⟪यान्⟫** | **yāni** :br **⟪यानि⟫** | **yās** :br **⟪यास्⟫** | <!-- TODO: Fallback translation -->
-| | **3. Instrumentalis** :br **⟪तृतीया⟫** | **yais** :br **⟪यैस्⟫** | **yais** :br **⟪यैस्⟫** | **yābhis** :br **⟪याभिस्⟫** | <!-- TODO: Fallback translation -->
-| | **6. Genetiv** :br **⟪षष्ठी⟫** | **yeṣām** :br **⟪येषाम्⟫** | **yeṣām** :br **⟪येषाम्⟫** | **yāsām** :br **⟪यासाम्⟫** | <!-- TODO: Fallback translation -->
+**⟪यद्⟫“谁，哪些，哪个”像⟪तद्⟫一样变格，但具有规则的连音。**
 
-**Als Vorderglied von Komposita erscheint der Stamm ⟪यद्⟫ (unter Beachtung des Sandhi).** <!-- TODO: Fallback translation -->
+| | | **阳性** :br **⟪पुंस्⟫** | **中性** :br **⟪नपुंसक⟫** | **阴性** :br **⟪स्त्री⟫** |
+| :--- | :--- | :--- | :--- | :--- |
+| **单数** :br **⟪एकवचन⟫** | **1. 主格** :br **⟪प्रथमा⟫** | **yas** :br **⟪यस्⟫** | **yad** :br **⟪यद्⟫** | **yā** :br **⟪या⟫** |
+| | **2. 宾格** :br **⟪द्वितीया⟫** | **yam** :br **⟪यम्⟫** | **yad** :br **⟪यद्⟫** | **yām** :br **⟪याम्⟫** |
+| | **3. 工具格** :br **⟪तृतीया⟫** | **yena** :br **⟪येन⟫** | **yena** :br **⟪येन⟫** | **yayā** :br **⟪यया⟫** |
+| | **6. 属格** :br **⟪षष्ठी⟫** | **yasya** :br **⟪यस्य⟫** | **yasya** :br **⟪यस्य⟫** | **yasyās** :br **⟪यस्यास्⟫** |
+| **复数** :br **⟪बहुवचन⟫** | **1. 主格** :br **⟪प्रथमा⟫** | **ye** :br **⟪ये⟫** | **yāni** :br **⟪यानि⟫** | **yās** :br **⟪यास्⟫** |
+| | **2. 宾格** :br **⟪द्वितीया⟫** | **yān** :br **⟪यान्⟫** | **yāni** :br **⟪यानि⟫** | **yās** :br **⟪यास्⟫** |
+| | **3. 工具格** :br **⟪तृतीया⟫** | **yais** :br **⟪यैस्⟫** | **yais** :br **⟪यैस्⟫** | **yābhis** :br **⟪याभिस्⟫** |
+| | **6. 属格** :br **⟪षष्ठी⟫** | **yeṣām** :br **⟪येषाम्⟫** | **yeṣām** :br **⟪येषाम्⟫** | **yāsām** :br **⟪यासाम्⟫** |
+
+**作为复合词的前成分，词干⟪यद्⟫出现（注意连音变化）。**
 
 :::
 ## 19.3. Wortliste
 
-**⟪अर्थ⟫ m.:** Zweck, Ziel, Bedeutung (eines Wortes), Reichtum, Besitz, Vermögen. **⟪अर्थम्⟫** (Akk.), **⟪अर्थेन⟫** (Instr.) mit Gen. oder als Hinterglied eines Tatpuruṣa: um ... willen, um zu. <!-- TODO: Fallback translation -->
+**⟪अर्थ⟫**：m. 目的，目标，（词语的）意义，财富，财产，资产。**⟪अर्थम्⟫**（宾格），**⟪अर्थेन⟫**（工具格）带属格或作为Tatpuruṣa的后半部分：为了……的缘故，为了。
 
-**⟪अर्थ⟫** ist einer der drei Lebenszwecke (**⟪पुरुषार्थ⟫**), wie sie in der weltlichen und religiösen Literatur beschrieben werden: <!-- TODO: Fallback translation -->
+**⟪अर्थ⟫**是世俗与宗教文献中所描述的三大人生目标之一（**⟪पुरुषार्थ⟫**）：
 
-:::indent
-**⟪धर्म⟫ m.:** Erlangung von Verdienst durch das Tun, was für einen Recht ist, bzw. zumindest Vermeiden von Übel, welches aus der Nichtbefolgung des Dharma folgen würde <!-- TODO: Fallback translation -->
+::: indent
+**⟪धर्म⟫ m.：** 通过履行正当行为而获得的功德，或至少避免因不遵循达摩（Dharma）而导致的恶果
 
-**⟪अर्थ⟫ m.:** zweckrationales Verhalten, Erlangung von Wohlstand <!-- TODO: Fallback translation -->
+**⟪अर्थ⟫ m.:** 目的理性行为，获得财富
 
-**⟪काम⟫ m.:** Sinnenlust, insbes. auch auf sexuellem Gebiet <!-- TODO: Fallback translation -->
-::::::media
+**⟪काम⟫ m.：**感官享乐，尤指性领域
+:::: media
 ![](/images/lekt1809.webp)
-Abb.: ⟪कामः⟫
-Illustration zum ⟪कामसूत्र⟫
-(Bildquelle: [Details](/licenses#lekt1809)) <!-- TODO: Fallback translation -->
+图：⟪कामः⟫
+⟪कामसूत्र⟫ 插图
+（图片来源：[详情](/zh-CN/licenses#lekt1809)）
+::::
 :::
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stehen, bleiben, bestehen bleiben, sich befinden. (Wird traditionell zur 1. Präsensklasse gerechnet, obwohl es sich um eine reduplizierende thematische Präsensklasse handelt, wie ⟪पा⟫ 1 ⟪पिबति⟫) <!-- TODO: Fallback translation -->
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ 被动态 ⟪स्थीयते⟫ 过去分词 ⟪स्थित⟫ ：站立，停留，坚持，位于。（传统上归入第一现在时类，尽管它实际上是一个重叠主题现在时类，如 ⟪पा⟫ 1 ⟪पिबति⟫ 所示）**
 
-**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** hintreten, sich in ehrerbietiger Haltung vor jemandem hinstellen <!-- TODO: Fallback translation -->
+**⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ ：走近，以恭敬的姿态站在某人面前
 
-**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ :** aufbrechen, davongehen <!-- TODO: Fallback translation -->
+**⟪स्था⟫ + ⟪प्र⟫ 1 Ā ⟪प्रतिष्ठते⟫ ：出发，离开
 
-von **⟪स्था⟫** : <!-- TODO: Fallback translation -->
+由 **⟪स्था⟫** 提供：
 
-:::indent
-**⟪स्थान⟫ n.:** Stelle, (rechter) Ort, Standort <!-- TODO: Fallback translation -->
+::: indent
+**⟪स्थान⟫ n.:** 地点，（正确的）位置，地点
 
-**⟪स्थिति⟫ f.:** Verweilen, Standhaftigkeit, Beharren <!-- TODO: Fallback translation -->
+**⟪स्थिति⟫ f.:** Verweilen, Standhaftigkeit, Beharren
 :::
-**⟪गर्भ⟫ m.:** Gebärmutter, Schoß, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B. <!-- TODO: Fallback translation -->
+**⟪गर्भ⟫ m.:** Gebärmutter, Schoß, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
 
-:::indent
-**⟪धनगर्भ⟫ 3:** "dessen Inneres Geld ist = in dem sich Geld befindet" <!-- TODO: Fallback translation -->
+::: indent
+**⟪धनगर्भ⟫ 3:** “其内在为金钱 = 其中存有金钱”
 
-**⟪गर्भगृह⟫ n.:** der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968) <!-- TODO: Fallback translation -->
-::::::media
+**⟪गर्भगृह⟫ n.:** der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
+:::: media
 ![](/images/lekt1901.webp)
 Abb.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
-(Bildquelle: [Details](/licenses#lekt1901)) <!-- TODO: Fallback translation -->
+(图片来源：[详细信息](/zh-CN/licenses#lekt1901))
+::::
 :::
-**⟪वारिद⟫ m.:** Wassergeber = Regenwolke <!-- TODO: Fallback translation -->
+**⟪वारिद⟫ m.:** 持水者 = 雨云
 
-:::media
+::: media
 ![](/images/lekt1902.jpg)
-Abb.: ⟪वारिदः⟫
-Goa (⟪गोंय⟫)
-(Bildquelle: [Details](/licenses#lekt1902)) <!-- TODO: Fallback translation -->
+图：⟪वारिदः⟫
+果阿（⟪गोंय⟫）
+（图片来源：[详情](/zh-CN/licenses#lekt1902)）
 :::
-**⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** wehen <!-- TODO: Fallback translation -->
+**⟪वा⟫ 2 P ⟪वाति⟫ 被动态 ⟪वायते⟫ 过去分词 ⟪वान⟫ / ⟪वात⟫ ：吹拂**
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-:::indent
-**⟪वात⟫ m.:** Wind <!-- TODO: Fallback translation -->
+::: indent
+**⟪वात⟫ m.:** Wind
 :::
-**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** führen, fahren (trans.) <!-- TODO: Fallback translation -->
+**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** führen, fahren (trans.)
 
-**⟪छत्त्र⟫ n.:** Sonnenschirm, Schirm <!-- TODO: Fallback translation -->
+**⟪छत्त्र⟫ n.:** 伞，遮阳伞
 
-:::media
+::: media
 ![](/images/lekt1904.webp)
-Abb.: ⟪छत्त्रम्⟫
-"_Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-(Bildquelle: [Details](/licenses#lekt1904)) <!-- TODO: Fallback translation -->
+图：⟪छत्त्रम्⟫
+“Onappottan（ഓണപ്പൊട്ടന്⟪‍⟫）身着传统服饰，是喀拉拉邦南部地区的一种习俗。Onappottan 在 Onam 节日期间拜访各家并赐予祝福。近来，Onappottan 已变得罕见，仅限于村庄中可见。”
+（图片来源：[详情](/zh-CN/licenses#lekt1904)）
 :::
-**⟪पण्डित⟫ m.:** Gelehrter, Weiser ; 3: klug, bewandert (in) <!-- TODO: Fallback translation -->
+**⟪पण्डित⟫ m.：**学者，智者；3：聪明，精通（在）
 
-:::media
+::: media
 ![](/images/lekt1903.jpg)
-Abb.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
+图：⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
 ⟪१९५९⟫
-(Bildquelle: [Details](/licenses#lekt1903)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt1903)）
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** wohnen bei, bewohnen (Akk., Lok.) ; besuchen, sich begeben zu (Akk.) ; bedienen, pflegen, verehren ; üben, gebrauchen ; beiwohnen, Geschlechtsverkehr haben <!-- TODO: Fallback translation -->
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ 被动语态 ⟪सेव्यते⟫ 过去分词 ⟪सेवित⟫ ：** 居住于，占有（宾格，处格）；拜访，前往（宾格）；侍奉，护理，崇拜；练习，使用；陪伴，发生性关系
 
-**⟪नि⟫ Präverb:** nieder, hinein <!-- TODO: Fallback translation -->
+**⟪नि⟫ 前缀：**向下，进入
 
-**⟪सेव्⟫ + ⟪नि⟫  1 Ā ⟪निषेवते⟫ :** wohnen bei, bewohnen, besuchen <!-- TODO: Fallback translation -->
+**⟪सेव्⟫ + ⟪नि⟫ 1 Ā ⟪निषेवते⟫ ：居住，占有，拜访
 
-**⟪अमुत्र⟫ :** dort, im Jenseits <!-- TODO: Fallback translation -->
+**⟪अमुत्र⟫**：那里，在彼岸
 
-**⟪इह⟫ :** hier, im Diesseits <!-- TODO: Fallback translation -->
+**⟪इह⟫**：此处，在此世
 
-**⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** finden <!-- TODO: Fallback translation -->
+**⟪विद्⟫ 6 U ⟪⟪विन्दति⟫ 词形变化。 ⟪विद्यते⟫ 过去分词 ⟪विन्न⟫ / ⟪वित्त⟫ ：找到**
 
-**⟪भार्या⟫ f.:** zu Erhaltende = Gattin <!-- TODO: Fallback translation -->
+**⟪भार्या⟫ f.：应得者 = 妻子**
 
-**⟪प्रिय⟫ 3:** lieb, angenehm <!-- TODO: Fallback translation -->
+**⟪प्रिय⟫ 3：** 可爱，令人愉悦
 
-**⟪मित्र⟫ n. (!):** Freund <!-- TODO: Fallback translation -->
+**⟪मित्र⟫ n. (!): 朋友**
 
-**⟪बान्धव⟫ m.:** Verwandter <!-- TODO: Fallback translation -->
+**⟪बान्धव⟫ m.:** 亲戚
 
-**⟪हि⟫ :** denn, ja nämlich (darf nie am Satzanfang stehen) <!-- TODO: Fallback translation -->
+**⟪हि⟫**：因为，确实（绝对不允许出现在句首）
 
 ## 19.4. Übung
 
-**Übersetzen Sie ins Sanskrit:** <!-- TODO: Fallback translation -->
+**翻译成梵文：**
 
-1\. Die Vaiśyafrau, deren Sohn gestorben ist, weint. <!-- TODO: Fallback translation -->
+1\. 那位儿子去世的吠舍妇女在哭泣。
 
-2\. Rāma opfert der Gottheit, die ihn behütet. <!-- TODO: Fallback translation -->
+2\. 罗摩向庇佑他的神明献祭。
 
-3\. Der Dichter preist den Kṣatriya, dessen Reichtum er begehrt. <!-- TODO: Fallback translation -->
+3\. 诗人赞美他渴望财富的刹帝利。
 
-4\. Feuer verbrennt das Haus des Mannes, der Agni nicht mit einem Opfer verehrt. <!-- TODO: Fallback translation -->
+4\. 火会烧毁不向阿耆尼献祭之人的房屋。
 
-5\. Der tigergleiche Mann erschlägt die Kṣatriya-Krieger, die Rāma besiegt haben (Passiv). <!-- TODO: Fallback translation -->
+5\. 那位如虎般的男子击毙了被罗摩击败的刹帝利武士（被动语态）。
 
 ## 19.5. ⟪सुभाषितानि⟫
 
-**Übersetzen Sie:** <!-- TODO: Fallback translation -->
+**翻译：**
 
-:::indent
+::: indent
 ⟪येन⟫ ⟪येन⟫ ⟪च⟫ ⟪वातेन⟫  
 ⟪वारिदो⟫ ⟪वारि⟫ ⟪मुञ्चति⟫ ⟪।⟫  
 ⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫  
-⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥१॥⟫
 :::
-Erklärung: ⟪वारि⟫ Nom., Akk. sg. zu ⟪वारि⟫ n.: Wasser <!-- TODO: Fallback translation -->
+解释：⟪वारि⟫ 主格，宾格，单数，对应⟪वारि⟫ 名词：水
 
-:::indent
+::: indent
 ⟪यो⟫ ⟪धर्ममर्थं⟫ ⟪कामं⟫ ⟪च⟫  
 ⟪यथाकालं⟫ ⟪निषेवते⟫ ⟪।⟫  
 ⟪धर्मार्थकामसंयोगं⟫  
-⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫
 :::
-Erklärung: ⟪यथाकालम्⟫ Avyayībhāvakompositum: zur rechten Zeit ; immer, wenn dafür der rechte Zeitpunkt vorliegt. <!-- TODO: Fallback translation -->
+解释：⟪यथाकालम्⟩ 不变词复合词：恰当时机；每当有合适的时机。
 
-:::indent
+::: indent
 ⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
 ⟪स⟫ ⟪पुत्रो⟫ ⟪यस्तु⟫ ⟪जीवति⟫ ⟪।⟫  
 ⟪स⟫ ⟪जीवति⟫ ⟪गुणो⟫ ⟪यस्य⟫  
-⟪धर्मो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪जीवति⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
-::::::indent
+⟪धर्मो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪जीवति⟫ ⟪॥३॥⟫
+:::: indent
 ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫  
 ⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
-⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫
+::::
 :::
-Erklärung: ⟪पुमान्⟫ Nom. sg. zu ⟪पुंस्⟫ "Mann" ; ⟪लोके⟫ Lokativ sg. zu ⟪लोक⟫ m.: in der ... <!-- TODO: Fallback translation -->
+解释：⟪पुमान्⟫ 单数主格，对应⟪पुंस्⟫“男人”；⟪लोके⟫ 单数方位格，对应⟪लोक⟫ 阳性：在……
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt1809:** Illustration zum ⟪कामसूत्र⟫ [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt1809:** ⟪कामसूत्र⟫ 插图 [图片来源：维基百科，公共领域]
 
-**lekt1901:** Badami (ಬದಾಮಿ) [Bildquelle: Sudarshan Bhat Khandige / Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt1901:** Badami (ಬದಾಮಿ) [图片来源：Sudarshan Bhat Khandige / 维基百科，公共领域]
 
-**lekt1902:** Goa (⟪गोंय⟫) [Bildquelle: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt1902:** 果阿（⟪गोंय⟫）[图片来源：pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- 访问日期：2008-12-08. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
 
-**lekt1903:** ⟪१९५९⟫ [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt1903:** ⟪१९५९⟫ [图片来源：维基百科，公共领域]
 
-**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages." [Bildquelle: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Zugriff am 2008-12-08. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt1904:** “Onappottan”（ഓണപ്പൊട്ടന്⟪‍⟫）身着传统服饰，是喀拉拉邦南部地区的一种习俗。Onappottan 在 Onam 节日期间走访各家并赐予祝福。近来，Onappottan 已变得罕见，仅限于乡村地区。[图片来源：Captain Nidish。-- http://www.flickr.com/photos/captain_nidish/280389572/。-- 访问日期：2008-12-08。-- 知识共享许可协议（署名）]
 :::

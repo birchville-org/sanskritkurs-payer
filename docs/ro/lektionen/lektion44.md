@@ -11,16 +11,17 @@ status: stable
 
 ## 44.1. Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) ale rădăcinilor neatomice cu sufix cu final vocalică
 
-:::media
+::: media
 ![](/images/lekt4301.jpg)
-::::::grammar-box
+:::
+::: grammar-box
 **A 3.sg.Ā.Imperfect este identică formal cu a 2.pl.P.Imperfect!!!**
 :::
 ### 44.1.1. Cincia clasă de prezenț (⟪स्वादि⟫)
 
 ⟪सु⟫ 5U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -32,7 +33,7 @@ status: stable
 
 ⟪तन्⟫ 8U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -42,7 +43,7 @@ status: stable
 :::
 ⟪कृ⟫ 8U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -52,7 +53,7 @@ status: stable
 :::
 ### 44.1.3. A noua clasă de prezent (⟪क्र्यादि⟫)
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -70,7 +71,7 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 
 ### 44.2.1. Despre sandhi-ul de cuvinte pentru dh-
 
-:::grammar-box
+::: grammar-box
 1. **Aspirata este înlocuită înainte de aspirată de corespunzătoarea neaspirată:**
    de ex. **⟪रुध्⟫** 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » **⟪रुन्द्ध्वे⟫** (run**ddh**ve)
 2. **-h + dh- » -gdh-**
@@ -82,7 +83,7 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 :::
 ### 44.2.2. Despre sandhi-ul de cuvinte pentru s-
 
-:::grammar-box
+::: grammar-box
 1. **-s + s- » -ts- sau (nu opțional!) -ss-** (așa cum este în clasa de prezent 2)
    Exemple:
    * **⟪वस्⟫** Pers. 1: Viitor: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
@@ -94,7 +95,7 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 
 ### 44.3.1. A doua clasă de prezent (⟪अदादि⟫)
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -104,7 +105,7 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 :::
 ⟪आस्⟫ 2Ā
 
-:::grammar-box
+::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -114,7 +115,7 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 :::
 ⟪दुह्⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -124,14 +125,15 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 :::
 ⟪इ⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | &lt;⟪इषे⟫&gt; | &lt;⟪इध्वे⟫&gt; |
+| **Indicativ Prezent**:br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \&lt;⟪इषे⟫\&gt; | \&lt;⟪इध्वे⟫\&gt; |
 | **Imperfect**:br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
 | **Optativ**:br⟪विधिलिङ्⟫ |  ⟪इयास्⟫ |  ⟪इयात⟫ |  ⟪इयीथास्⟫:briy-ī-thās |  ⟪इयीध्वम्⟫ |
-::::::grammar-box
+:::
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -141,7 +143,7 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 :::
 ⟪स्तु⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -151,7 +153,7 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 :::
 ⟪अस्⟫ 2P (de reținut în mod special!)
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -163,14 +165,15 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 
 ⟪शास्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | **Indicativ Prezent**:br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
 | **Imperfect**:br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
 | **Optativ**:br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
-::::::grammar-box
+:::
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -183,22 +186,24 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 
 Gramaticienii indigeni nu consideră vocativul (⟪आमन्त्रितम्⟫) ca un caz distinct, ci doar ca o modificare a nominativului (⟪प्रथमा⟫).
 
-::::
-important
+::: important
 **Vocativul servește pentru adresare, pentru vorbirea directă și se află în afara relației cu restul propoziției, distingându-se astfel de celelalte cazuri, care exprimă o relație cu verbul sau cu un alt substantiv.**
 
 **În majoritatea cazurilor, vocativul este plasat la începutul propoziției:**
 
-:::indent
+:::
+::: indent
 ⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = „Copile, ce spui?”
-::::::::::
-important
+:::: important
 **Evitați traducerea vocativului cu „**O** ...”. În limba germană folosim constant vocativi, de exemplu când spunem: „Dragule, ce gătim astăzi?”. Nimeni nu va spune în acest sens: „**O** dragule, ce gătim astăzi?”**
-::::::media
+::::
+:::
+::: media
 ![](/images/lekt4402.webp)
 Ilustr.: Utilizarea corectă a „O” în limba germană: **„O Doamne!”**
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4402))
-::::::grammar-box
+:::
+::: grammar-box
 **Formele vocativului la plural și dual sunt identice cu cele ale nominativului (⟪प्रथमा⟫) la plural, respectiv dual.**
 
 **Formele vocativului la singular sunt prezentate în [Lecția 45](lektion45.md).**
@@ -207,7 +212,7 @@ Ilustr.: Utilizarea corectă a „O” în limba germană: **„O Doamne!”**
 
 ⟪प्रति⟫ Prefix verbal: înapoi, împotriva, contra - înainte
 
-:::indent
+::: indent
 de ex.
 
 **⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : a lovi înapoi
@@ -218,7 +223,7 @@ de ex.
 :::
 ⟪या⟫ 2P ⟪याति⟫ : a merge, a călători
 
-:::indent
+::: indent
 Perf. IV ⟪ययौ⟫  
 Fut. ⟪यास्यति⟫  
 Pass. ⟪यायते⟫  
@@ -229,14 +234,15 @@ Inf. ⟪यातुम्⟫
 din care:
 
 **⟪यान⟫** n.: mers, drum, vehicul
-::::::media
+:::: media
 ![](/images/lekt4403.webp)
 Fig.: ⟪रेल्यानम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4403))
+::::
 :::
 **⟪शी⟫** 2Ā ⟪शेते⟫ : a se întinde. Această rădăcină are în toate formele temei prezentului **gradul înalt:** 1.sg.Ind.Prez.Ā ***⟪शेये⟫*** (śe + e). Formele următoare sunt deosebit de importante: 3.pl.Ind.Prez.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
 
-:::indent
+::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
 Fut. ⟪शयिष्यते⟫  
 Kaus. ⟪शापयति⟫  
@@ -246,14 +252,15 @@ Inf. ⟪शयितुम्⟫
 din care:
 
 **⟪शयन⟫** n.: culcare, pat
-::::::media
+:::: media
 ![](/images/lekt4404.webp)
 Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4404))
+::::
 :::
 ⟪नन्द्⟫ 1P ⟪नन्दति⟫ : a se bucura de (⟪तृतीयया⟫)
 
-:::indent
+::: indent
 Perf. I ⟪ननन्द⟫  
 Fut. ⟪नन्दिष्यति⟫  
 Pass.: ⟪नन्द्यते⟫  
@@ -266,16 +273,17 @@ Gerundiv ⟪नन्द्य⟫
 din care:
 
 **⟪नन्दिन्⟫** 3: caracterizat prin (o) bucurie (specială), vesele; m. numele animalului de călărie (⟪वहन⟫) al lui ⟪शिव⟫ (un taur)
-::::::media
+:::: media
 ![](/images/lekt4405.webp)
 Fig.: ⟪नन्दी⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4405))
+::::
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : a-și găsi bucuria în (⟪द्वितीयया⟫), a întâmpina pe cineva cu bucurie, a bineveni
 
 **⟪यम्⟫** 1P ***⟪यच्छति⟫*** : a ține, a purta; a oferi, a acorda; a țunit împreună, a stăpâni, a frâna, a învinge
 
-:::indent
+::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
@@ -286,12 +294,13 @@ Absol. -⟪यम्य⟫
 :::
 **⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : a întinde, a întinde afară
 
-:::indent
+::: indent
 PPP ⟪आयत⟫ 3: întins lung
-::::::media
+:::: media
 ![](/images/lekt4406.webp)
 Fig.: ⟪आयतो⟫ ⟪मरुः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4406))
+::::
 :::
 ⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : a oferi, a prezenta, a predă
 
@@ -299,7 +308,7 @@ Fig.: ⟪आयतो⟫ ⟪मरुः⟫
 
 ⟪यत्⟫ 1Ā ⟪यतते⟫ : a ținti spre (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
-:::indent
+::: indent
 Perf. Vb ⟪येते⟫  
 Fut. ⟪यतिष्यते⟫  
 Pass. ⟪यत्यते⟫  
@@ -310,14 +319,15 @@ Inf. ⟪यतितुम्⟫
 din care:
 
 **⟪यत्न⟫** m.: efort, strădanie
-::::::media
+:::: media
 ![](/images/lekt4407.webp)
 Fig.: ⟪यत्नेन⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4407))
+::::
 :::
 **⟪रभ्⟫** 1Ā ⟪रभते⟫ (formă alternativă la ⟪लभ्⟫): a prinde
 
-:::indent
+::: indent
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
@@ -330,15 +340,16 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (la ⟪प्र⟫-⟪व्रज्⟫): ieșirea din casă în lipsa de casă; ceremonie prin care devii novic buddhist (Pali: ⟪पब्बजा⟫)
 
-:::deleteme-box
+::: deleteme-box
 Vezi:
 
-**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Concepte fundamentale ale regulilor monahale și ale dreptului monahal al Theravāda. -- Partea I. -- (Materiale pentru conceptele fundamentale ale buddhismului). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concepte fundamentale ale regulilor monahale și ale dreptului monahal al Theravāda. -- Partea I. -- (Materiale pentru conceptele fundamentale ale buddhismului). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
-::::::media
+:::: media
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt4408))
+::::
 :::
 ## 44.6. Exercițiu
 
@@ -397,7 +408,7 @@ A) Determinați și traduceți următoarele forme:
 51.  ⟪हथ⟫
 52.  ⟪हतः⟫
 
-:::media
+::: media
 ![](/images/lekt4409.webp)
 Fig.: ⟪कस्माद्रोदिषि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4409))
@@ -467,7 +478,7 @@ Determinați următoarele forme:
 40.  ⟪कृत्येन⟫
 
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt4301.jpg**: Detalii în licenses.md
 

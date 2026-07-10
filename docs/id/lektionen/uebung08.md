@@ -144,7 +144,7 @@ kiṃ kāraṇam?
 
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung007.webp)
 Fig.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#uebung007))
@@ -207,7 +207,7 @@ The parrot flies.
 18\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
 The boy writes a letter.
 
-:::media
+::: media
 ![](/images/uebung008.webp)
 Fig.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Image source: [Details](/en/licenses#uebung008))

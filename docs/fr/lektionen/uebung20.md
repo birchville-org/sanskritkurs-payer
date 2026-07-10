@@ -64,7 +64,7 @@ B) Traduisez en sanskrit en utilisant des composés :
 4\. Les femmes śūdra ont également, en tant que dharma, la non-violence, la vérité, la pureté, l’absence de murmures, l’absence de méchanceté et la patience.
 ⟪अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः⟫ ⟪शूद्रा⟫ ⟪अपि⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung031.webp)
 Fig. : ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 (Source de l’image : [Détails](/fr/licenses#uebung031))
@@ -237,7 +237,7 @@ Résolvez les composés suivants comme Bahuvrīhi et/ou Dvandva et/ou Tatpuruṣ
 
 ⟪८१⟫. **⟪सोढदुःखाः⟫** ⟪।⟫ ⟪सोढं⟫ ⟪दुःखं⟫ ⟪यैस्ते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung030.webp)
 Fig. : ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (Source de l’image : [Détails](/fr/licenses#uebung030))
@@ -253,7 +253,7 @@ La clarification de l'esprit se fait par le développement de la bienveillance a
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
 Le yoga de l'action est l'ascèse, l'étude des Védas et le service attentif au SEIGNEUR. Il a pour but le développement de la concentration et l'affaiblissement des "souffrances".
 
-:::deleteme-box Explication
+::: deleteme-box Explication
 Les cinq "souffrances" (⟪क्लेश⟫) sont : **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — l'ignorance, l'egoïsme, l'avidité, la haine et l'attachement au corps.
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
@@ -291,7 +291,7 @@ Au milieu mince, aux hanches larges, aux lèvres rouges, aux yeux noirs, avec un
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫  
 Les pauvres, qui ne le souhaitent pas, ont beaucoup de fils, les riches n'ont aucun fils. Étrange est le cours de la création.
 
-:::media
+::: media
 ![](/images/uebung032.webp)
 Fig. : ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Source de l'image : [Détails](/fr/licenses#uebung032))

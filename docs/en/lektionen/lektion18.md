@@ -1,5 +1,5 @@
 ---
-title: Lesson 18
+title: Lektion 18
 lesson_id: 18
 ---
 
@@ -7,34 +7,29 @@ lesson_id: 18
 
 ## 18.1. ⟪सुभाषितम्⟫
 
-::::grammar-box
-
-:::indent
+::: indent
 ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
 ⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
 ⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
 :::
-⟪चाणक्य⟫
+## 18.2. Determinative compounds (⟪तत्पुरुष⟫) with adverbial first member
 
-::::
-## 18.2. Determinative Compounds (⟪तत्पुरुष⟫) with Adverbial First Member
-
-As an adverbial (indeclinable) first member,
+As an adverbial (indeclinable) first member, the following can be used:
 
 *   adverbs
 *   prepositions
 *   particles
 *   other indeclinables
 
-:::indent
-may be used. Such Tatpuruṣa compounds mostly belong to the class of Nityasamāsa = ⟪नित्यसमास⟫ (m. "permanent compound"), i.e., compounds that cannot be resolved at all, or not merely by means of the words occurring within the compound itself.
+::: indent
+can be used. Such Tatpuruṣa compounds mostly belong to the class of Nityasamāsa = ⟪नित्यसमास⟫ (m. "permanent compound"), i.e., compounds that cannot be resolved at all or not merely by means of the words occurring in the compound itself.
 :::
 Examples:
 
-⟪अति⟫ "beyond, moreover":
+⟪अति⟫ "beyond that":
 
-:::indent
+::: indent
 ⟪अतिगुरु⟫ 3: extremely heavy, extremely weighty
 
 ⟪अतिपुरुष⟫ m.: outstanding man, Superman, hero
@@ -45,24 +40,24 @@ Examples:
 :::
 The most important adverbial first members are a-/an-, su-, dus-.
 
-⟪अ⟫ (before consonants), ⟪अन्⟫ (before vowels): un-: stands in the compound in place of ⟪न⟫ "not".
+⟪अ⟫ (before consonant), ⟪अन्⟫ (before vowel): un-: stands in the compound instead of ⟪न⟫ "not".
 
 Examples:
 
-:::indent
+::: indent
 ⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): untruth, lie
 
 ⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3: not done, undone
 
-⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : a non-Brahmin woman, non-Brahmin
+⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : a non-Brahmin woman, un-Brahmin
 
-⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : a non-god, non-god
+⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : a non-god, un-god
 :::
 ⟪सु⟫ "well, good"; when resolving the compound, commentators replace it with an adjective meaning "good" (e.g., ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
 
 Examples:
 
-:::indent
+::: indent
 ⟪सुकवि⟫ m.: a good poet
 
 ⟪सुकृत⟫ n.: good deed
@@ -75,16 +70,16 @@ Examples:
 
 Examples:
 
-:::indent
-⟪दुर्नय⟫ m.: bad guidance, bad conduct
+::: indent
+⟪दुर्नय⟫ m.: bad guidance, bad behavior
 
 ⟪दुष्करण⟫ n.: bad deed, difficult deed
 :::
-The following rule applies:
+The following rule applies here:
 
-::::grammar-box
+::: grammar-box
 
-Phonetic Change of -s in Compounds
+Sound change of -s in compounds
 
 Contrary to sentence Sandhi, in the final position of the first member of compounds:
 
@@ -92,16 +87,17 @@ Contrary to sentence Sandhi, in the final position of the first member of compou
 
 Therefore: ⟪दुष्करण⟫
 
-::::
-### 18.2.1. Compounds of Type ⟪सुकर⟫ / ⟪दुष्कर⟫
+:::
+### 18.2.1. Compounds of the type ⟪सुकर⟫ / ⟪दुष्कर⟫
 
-::::grammar-box
+::: grammar-box
 
-Compounds of Type ⟪सुकर⟫ / ⟪दुष्कर⟫ primarily denote the meaning of passive possibility:
+Compounds of the type ⟪सुकर⟫ / ⟪दुष्कर⟫ mainly have the meaning of passive possibility:
 
 Examples:
 
-:::indent
+:::
+::: indent
 ⟪सुकर⟫ 3: easy to do
 
 ⟪सुगम⟫ 3: easy to go
@@ -109,7 +105,7 @@ Examples:
 ⟪दुर्गम⟫ 3: difficult to go
 
 ⟪सुदुर्गम⟫ 3: very difficult to go
-:::::::
+:::
 ### 18.2.2. Meanings of nañ-Tatpuruṣa (a- / an-)
 
 Tatpuruṣa with a- / an- can have the following meanings:
@@ -123,13 +119,13 @@ Tatpuruṣa with a- / an- can have the following meanings:
 4.  Smallness (⟪तदल्पता⟫):  
     ⟪अनुदरम्⟫ = a small belly (a non-belly)
 5.  Disapproval (⟪अप्राशास्त्यम्⟫):  
-    ⟪अकालः⟫ = unseasonableness
+    ⟪अकालः⟫ = unseasonal time
 6.  Hostility (⟪निरोधः⟫):  
-    ⟪असुरः⟫ = anti-god (according to the false etymology a-sura)
+    ⟪असुरः⟫ = counter-god (according to the false etymology a-sura)
 
 The following verse summarizes these meanings:
 
-:::indent
+::: indent
 ⟪तत्सादृश्यमभावश्च⟫  
 ⟪तदन्यत्वं⟫ ⟪तदल्पता⟫ ⟪।⟫  
 ⟪अप्राशास्त्यं⟫ ⟪निरोधश्च⟫  
@@ -139,30 +135,28 @@ Six meanings of nañ (= a-/an-) are named ....
 :::
 ## 18.3. Verbal Compounds
 
-::::grammar-box
-
-:::indent
+::: indent
 ⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
 ⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
 ⟪गङ्गासलिलमाधुर्यं⟫  
 ⟪सागरेण⟫ ⟪यथाम्भसा⟫ ⟪॥⟫
 :::
-⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ p. 2 l. 14f.
+⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ p. 2 line 14f.
 
-A prefix violently alters the meaning of a root, just as the sweetness of the Ganges water is altered by seawater.
+A prefix forcibly changes the meaning of a root, just as the sweetness of the Ganges water is changed by seawater.
 
-::::::::grammar-box
+::: grammar-box
 
-Verbs in Sanskrit can be combined with prefixes (⟪उपसर्ग⟫ m.). In doing so, sentence sandhi usually applies. Prefixes can significantly modify the meaning of the root, so that in many cases the meaning of a root with a prefix must be learned separately. Verbs with a prefix can have a different mood (P, Ā) than the simple root. Multiple prefixes can be placed before a root simultaneously.
+Verbs in Sanskrit can be combined with prefixes (⟪उपसर्ग⟫ m.). In most cases, sentence sandhi applies. Prefixes can, under certain circumstances, significantly modify the meaning of the root, so that in many cases the meaning of a root with a prefix must be learned separately. Verbs with a prefix may have a different mood (P, Ā) than the simple root. Multiple prefixes can be placed before a root simultaneously.
 
-::::
+:::
 Some important prefixes are:
 
 ⟪उप⟫ "to, towards, against"
 
 Examples:
 
-:::indent
+::: indent
 ⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : to go towards, to approach
 
 ⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : to point out, to instruct, to advise
@@ -177,31 +171,31 @@ Examples:
 
 Examples:
 
-:::indent
+::: indent
 ⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : to attain
 
 ⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : to show
 
-⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : to awaken, to recognize
+⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : to wake up, to recognize
 
-⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : to come forth, to stand out, to have power over (Gen., Loc. Dat.)
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : to emerge, to stand out, to have power over (Gen., Loc. Dat.)
 
 ⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : to explain, to communicate, to utter
 
-⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : to utter, to designate as, to declare as
+⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : to utter, to designate as, to declare to be
 
-⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : to praise before, to loudly praise, to mention something, to begin
+⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : to praise before, to praise loudly, to mention something, to begin
 :::
-⟪वि⟫ "apart, away, apart, ver-"
+⟪वि⟫ "apart, away, apart, dis-, vi-"
 
 Examples:
 
-:::indent
+::: indent
 ⟪विगम्⟫ 1 ⟪विगच्छति⟫ : to go apart, to pass away, to disappear
 
 ⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : to conquer
 
-⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : to release, to free
+⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : to detach, to liberate
 
 ⟪विवद्⟫ 1 ⟪विवदति⟫ : to dispute, to discuss, to tell
 
@@ -213,7 +207,7 @@ Examples:
 
 Examples:
 
-:::indent
+::: indent
 ⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : to sit together, to stay, to dwell
 
 ⟪समि⟫ 2 ⟪समेति⟫ : to come together, to unite
@@ -224,70 +218,71 @@ Examples:
 
 *   PPP ⟪संजात⟫ 3: born, arisen, become
 
-⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : to fully awaken (to the truth)
+⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : to awaken completely (to the truth)
 
 ⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : to be granted to someone, to succeed
 
 *   PPP ⟪सम्पन्न⟫ 3: provided with (Instr.)
-:::::::grammar-box
+:::
+::: grammar-box
 
-The root ⟪कृ⟫ "to do" shows, in connection with the prefixes ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫, also the form ⟪स्कृ⟫
+The root ⟪कृ⟫ "to do" shows, in combination with the prefixes ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ also the form ⟪स्कृ⟫
 
-::::
+:::
 Example:
 
-:::indent
+::: indent
 sam-kṛ 8 ⟪संस्करोति⟫ : to prepare, to prepare for sacrifice, to consecrate
 
-*   PPP ⟪संस्कृत⟫ 3: prepared for sacrifice ; ⟪संस्कृत⟫ n.: Sanskrit: the language suitable for sacrifice ; counterpart ⟪प्राकृत⟫ 3: ordinary, common ; ⟪प्राकृत⟫ n.: common language, Prakrit (designation for the folk and trade languages related to Sanskrit)
+*   PPP ⟪संस्कृत⟫ 3: prepared for the sacrifice ; ⟪संस्कृत⟫ n.: Sanskrit: the language suitable for the sacrifice ; counterpart ⟪प्राकृत⟫ 3: ordinary, common ; ⟪प्राकृत⟫ n.: ordinary language, Prakrit (designation for the vernacular and trade languages related to Sanskrit)
 :::
 ### 18.3.1. Nominal formations from verbal compounds
 
-::::grammar-box
+::: grammar-box
 
-From roots with preverbs, nouns can be formed using kṛt suffixes.
+From roots with prefixes, nouns can be formed using kṛt suffixes.
 
-::::
+:::
 Examples:
 
-sam-kṛ + -a = ⟪संस्कार⟫ m.: consecration, preparation ; transition rituals = designation for the ceremonies that accompany the various stages of life from conception to death (see the excellent summary by Basham, Wonder pp. 160 - 170!)
+sam-kṛ + -a = ⟪संस्कार⟫ m.: consecration, preparation ; transition rituals = designation for the ceremonies that accompany the various stages of life from conception to death (see the excellent summary in Basham, Wonder pp. 160 - 170!)
 
-:::media
+::: media
 ![](/images/lekt1804.webp)
 Fig.: ⟪विवाहः⟫
 Wedding = ⟪विवाह⟫ m., an important ⟪संस्कारः⟫
 (Image source: [Details](/en/licenses#lekt1804))
 :::
-upa-nī + -ana = ⟪उपनयन⟫ n.: the leading near (to the sacrificial fire) = ceremony in which the sacred thread (⟪यज्ञोपवीत⟫ n.) is placed on the male members of the three upper castes and the sacred verse ⟪सावित्री⟫ is whispered into their ear, which they are to recite daily at sunrise and sunset from then on. For the Brahmins, this is Ṛgveda III.62.10:
+upa-nī + -ana = ⟪उपनयन⟫ n.: the bringing near (to the sacrificial fire) = ceremony in which the sacred thread (⟪यज्ञोपवीत⟫ n.) is placed on the male members of the three upper castes and the sacred verse ⟪सावित्री⟫ is whispered into their ear, which they are to recite daily at sunrise and sunset. For the Brahmins, the Ṛgveda III.62.10:
 
-:::indent
-"May we receive the excellent radiance of the god 'Driver,' who may set our thoughts in motion."
+::: indent
+"May we receive the excellent brilliance of the god 'Driver,' who may set our thoughts in motion."
 :::
 Through the Upanayana, the second birth occurs, therefore: ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
 
-:::media
+::: media
 ![](/images/lekt1801.webp)
 Fig.: ⟪उपनयनम्⟫
 "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
 (Image source: [Details](/en/licenses#lekt1801))
 :::
-## 18.4. Word List
+## 18.4. Vocabulary list
 
-⟪सुष्टु⟫ 3: highly praised, distinguished, good
+⟪सुष्टु⟫ 3: highly praised, excellent, good
 
-⟪शोभन⟫ 3: brilliant, magnificent, splendid, beautiful, good
+⟪शोभन⟫ 3: brilliant, splendid, majestic, beautiful, good
 
-⟪सम⟫ 3: equal, even, similar (with instrumental case)
+⟪सम⟫ 3: equal, even, similar (with instrumental)
 
 ⟪व्याधि⟫ m.: illness
 
-⟪रिपु⟫ m. = ⟪शत्रु⟫, deceiver
+⟪रिपु⟫ m. = ⟪शत्रु⟫ , fraudster
 
 ⟪वह्नि⟫ m. = ⟪अग्नि⟫
 
 ⟪ज्ञान⟫ n.: knowledge
 
-⟪शूर⟫ 3: brave, heroic; m.: hero
+⟪शूर⟫ 3: brave, heroic ; m.: hero
 
 ⟪शब्द⟫ m.: sound, tone, signal sound: word
 
@@ -297,7 +292,7 @@ Fig.: ⟪उपनयनम्⟫
 
 ⟪आदि⟫ m.: beginning
 
-⟪दण्ड⟫ m.: stick, cudgel, punishment
+⟪दण्ड⟫ m.: stick, rod, punishment
 
 ⟪मात्रा⟫ f. ⟪मात्र⟫ n.: measure, limitation
 
@@ -311,7 +306,7 @@ Fig.: ⟪उपनयनम्⟫
 
 A) Translate the ⟪सुभाषित⟫ at the beginning of the lesson.
 
-B) Translate the following Tatpuruṣa compounds:
+B) Translate the following Tatpuruṣa:
 
 ⟪१⟫. ⟪सुकर⟫ ⟪३⟫
 
@@ -399,7 +394,7 @@ A) Resolve the following Sanskrit compounds and provide translation suggestions:
 
 ⟪९⟫. ⟪कुलोपदेश⟫ m.
 
-:::media
+::: media
 ![](/images/lekt1802.webp)
 Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Print
@@ -407,19 +402,19 @@ Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 :::
 B) Translate using verbs of the 2nd present class:
 
-1. The Brahmin praises the goddesses.
+1\. The Brahmin praises the goddesses.
 
-2. The heroes go on the difficult-to-traverse path to the village of the Āryas.
+2\. The heroes proceed along the difficult-to-traverse path into the village of the Āryas.
 
-3. The housemaid milks the cows.
+3\. The housemaid milks the cows.
 
-4. The enemies of the Āryas slay the powerful Kṣatriyas.
+4\. The enemies of the Aryans slay the mighty Kṣatriyas.
 
-5. A ghost eats no fruits.
+5\. A ghost eats no fruit.
 
-6. Thus speaks he who has [walked the path of rebirths] well to the disciple.
+6\. Thus speaks he who has [well traversed the path through rebirths] to the disciple.
 
-:::media
+::: media
 ![](/images/lekt1803.webp)
 Fig.: ⟪सुगतः⟫
 ⟪गन्धार⟫ 1st/2nd cent. CE
@@ -431,8 +426,7 @@ D) Translate:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 
-:::deleteme-box
-
+::: deleteme-box
 
 **lekt1801:** "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya." [Image source: Nagesh Rao / Wikipedia, GNU FDLicense]
 

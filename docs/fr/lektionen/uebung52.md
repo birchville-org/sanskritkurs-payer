@@ -25,7 +25,7 @@ last_reconstructed: 2026-05-15
 
 > Ce qui, accompli, procure une satisfaction intérieure, qu'on le fasse avec empressement ; mais qu'on s'abstienne du contraire.
 
-:::media
+::: media
 ![](/images/uebung087.webp)
 Fig. : ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 (Source de l'image : [Détails](/fr/licenses#uebung087))
@@ -117,7 +117,7 @@ La connaissance salvatrice des Bouddhas :
 
 > « Ces êtres vivants, qui ont accompli de mauvaises actions, vont dans une mauvaise existence ; ces autres, qui ont un bon karma, renaissent dans le ciel d’Indra. »
 
-:::media
+::: media
 ![](/images/uebung088.webp)
 Fig. : ⟪कदलीगर्भनिःसारः⟫
 (Source de l’image : [Détails](/fr/licenses#uebung088))

@@ -1,388 +1,390 @@
 ---
-title: Lektion 48
+title: 第48课
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 48
 
 ## 48.1. ⟪सुभाषितानि⟫
 
+中心
+⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
+
+⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
+
+⟪मातृदेवो⟫ ⟪भव⟫ ⟪॥३॥⟫
+
+⟪गौरवं⟫ ⟪प्राप्यते⟫ ⟪दानात्⟫ ⟪॥४॥⟫
+
+⟪श्वः⟫ ⟪कार्यमद्य⟫ ⟪कुर्वीत⟫ ⟪॥५॥⟫
+
+⟪विद्याविहीनः⟫ ⟪पशुः⟫ ⟪॥६॥⟫
+
+⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫
+## 48.2. 祈使式的构成（⟪लोट्⟫）非主题现在词干
+
+### 48.2.1. 词尾：非主题现在词干
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **第一人称** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
+| **第二人称** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
+| **第三人称** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **第三类：-atu** :br(省略形式 -\*ntu) | \-atām:br(省略形式: -\*ntām) |
 :::
-center
-⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+注：¹ 第二和第三人称单数（sg.P）的词尾可以用 -tāt 代替，以表达祝福的愿望。-tāt（包括在第三人称单数中）附加在弱词干上。
 
-⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
-
-⟪मातृदेवो⟫ ⟪भव⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
-
-⟪गौरवं⟫ ⟪प्राप्यते⟫ ⟪दानात्⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
-
-⟪श्वः⟫ ⟪कार्यमद्य⟫ ⟪कुर्वीत⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
-
-⟪विद्याविहीनः⟫ ⟪पशुः⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
-
-⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+::: grammar-box
+| **关于第二人称单数命令式词尾的形式：** ||
+| :---: | :--- |
+| **\-ø** | 第五类和第八类词根，其末尾\-u前仅有一个辅音。 |
+| **\-āna** | 第九类词根，以辅音结尾，用\-nī+词尾\-āna替代 |
+| **\-hi** | 所有其他以元音或半元音结尾的现在时词干（例外：**⟪जुहुधि⟫** 对应 **⟪हु⟫ 3**） |
+| **\-dhi** | 所有其他情况 |
 :::
-## 48.2. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme
+### 48.2.2. 现在时词干的形式
 
-### 48.2.1. Endungen des Imperativ an athematischen Präsensstämmen
+::: grammar-box
+**强词干：**
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3.Kl.: -atu** :br(aus. -\*ntu) | \-atām:br(aus: -\*ntām) | <!-- TODO: Fallback translation -->
+*   **所有第一人称祈使式**
+*   **第三人称单数祈使式**
+
+**弱词根：所有其他形式**
 :::
-Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn ein Segenswunsch ausgedrückt werden soll. -tāt tritt (auch in der 3.sg.P) an den schwachen Stamm. <!-- TODO: Fallback translation -->
+### 48.2.3. 第二现在时类（⟪अदादि⟫）
 
-:::grammar-box
-| **Zur Form der Endung der 2.sg.Imperativ.P:** || <!-- TODO: Fallback translation -->
-| :---: | :--- | <!-- TODO: Fallback translation -->
-| **\-ø** | Wurzeln der 5. und 8. Klasse, bei denen dem auslautenden \-u nur ein Konsonant vorausgeht. | <!-- TODO: Fallback translation -->
-| **\-āna** | Wurzeln der 9. Klasse, die auf Konsonant enden, substituieren für \-nī+Endung \-āna | <!-- TODO: Fallback translation -->
-| **\-hi** | alle übrigen Präsensstämme, die auf Vokal oder Halbvokal enden (Ausnahme: **⟪जुहुधि⟫** zu **⟪हु⟫ 3**) | <!-- TODO: Fallback translation -->
-| **\-dhi** | Alle übrigen Fälle | <!-- TODO: Fallback translation -->
+⟪द्विष्⟫ 2U
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **第一人称** :br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
+| **第二人称** :br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
+| **第三人称** :br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
 :::
-### 48.2.2. Form des Präsensstamms
+⟪आस्⟫ 2Ā
 
-:::grammar-box
-**Starker Stamm:** <!-- TODO: Fallback translation -->
-
-*   **alle 1. Personen des Imperativ** <!-- TODO: Fallback translation -->
-*   **3.sg.P Imperativ** <!-- TODO: Fallback translation -->
-
-**Schwacher Stamm: alle übrigen Formen** <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪आत्मनेपदम्⟫⟫ ||
+| :---: | :---: | :---: |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **1. Person** :br⟪⟪तृतीयः⟫⟫ | ⟪⟪आसै⟫⟫ | ⟪⟪आसामहै⟫⟫ |
+| **2. Person** :br⟪⟪मध्यमः⟫⟫ | ⟪⟪आस्स्व⟫⟫ | ⟪⟪आध्वम्⟫⟫:br(ās + dhvam) |
+| **3. Person** :br⟪⟪प्रथमः⟫⟫ | ⟪⟪आस्ताम्⟫⟫ | ⟪⟪आसताम्⟫⟫ |
 :::
-### 48.2.3. Zweite Präsensklasse (⟪अदादि⟫)
+⟪⟪दुह्⟫⟫ 2U
 
-⟪द्विष्⟫ 2U <!-- TODO: Fallback translation -->
-
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **1. Person** :br⟪⟪तृतीयः⟫⟫ | ⟪⟪दोहानि⟫⟫ | ⟪⟪दोहाम⟫⟫ | ⟪⟪दोहै⟫⟫ | ⟪⟪दोहामहै⟫⟫ |
+| **2. Person** :br⟪⟪मध्यमः⟫⟫ | ⟪⟪दुग्धि⟫⟫:br(duh + dhi) | ⟪⟪दुग्ध⟫⟫:br(duh + ta) | ⟪⟪धुक्ष्व⟫⟫:br(duh + sva) | ⟪⟪धुग्ध्वम्⟫⟫ |
+| **3. Person** :br⟪⟪प्रथमः⟫⟫ | ⟪⟪दोग्धु⟫⟫:br(doh + tu) | ⟪⟪दुहन्तु⟫⟫ | ⟪⟪दुग्धाम्⟫⟫ | ⟪⟪दुहताम्⟫⟫ |
 :::
-⟪आस्⟫ 2Ā <!-- TODO: Fallback translation -->
+⟪⟪इ⟫⟫ 2P
 
-:::grammar-box
-| | ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ ||
+| :---: | :---: | :---: |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **第一人称** :br⟪⟪तृतीयः⟫⟫ | ⟪⟪अयानि⟫⟫:br(e + āni) | ⟪⟪अयाम⟫⟫ |
+| **第二人称** :br⟪⟪मध्यमः⟫⟫ | ⟪⟪इहि⟫⟫ | ⟪⟪इत⟫⟫ |
+| **第三人称** :br⟪⟪प्रथमः⟫⟫ | ⟪⟪एतु⟫⟫ | ⟪⟪यन्तु⟫⟫:br(y-antu) |
 :::
-⟪दुह्⟫ 2U <!-- TODO: Fallback translation -->
+⟪⟪शी⟫⟫ 2Ā (始终高重音！)
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **第一人称** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
+| **第二人称** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
+| **第三人称** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | ***⟪शेरताम्⟫*** |
 :::
-⟪इ⟫ 2P <!-- TODO: Fallback translation -->
+⟪हन्⟫ 第二人称
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ ||
+| :---: | :---: | :---: |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **第一人称** :br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
+| **第二人称** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(源自: \*hn-ta) |
+| **第三人称** :br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
+
+注：¹ **⟪जहि⟫** 的解释见 Thumb-Hauschild I,2 第 253 页
 :::
-⟪शी⟫ 2Ā (immer hochstufig!) <!-- TODO: Fallback translation -->
+⟪स्तु⟫ 2U
 
-:::grammar-box
-| | ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | ***⟪शेरताम्⟫*** | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **第一人称** :br⟪⟪तृतीयः⟫⟫ | ⟪⟪स्तवानि⟫⟫:br(sto + āni) | ⟪⟪स्तवाम⟫⟫ | ⟪⟪स्तवै⟫⟫ | ⟪⟪स्तवामहै⟫⟫ |
+| **第二人称** :br⟪⟪मध्यमः⟫⟫ | ⟪⟪स्तुहि⟫⟫:br ***⟪⟪स्तुवीहि⟫⟫*** | ⟪⟪स्तुत⟫⟫:br ***⟪⟪स्तुवीत⟫⟫*** | ⟪⟪स्तुष्व⟫⟫:br ***⟪⟪स्तुवीष्व⟫⟫*** | ⟪⟪स्तुध्वम्⟫⟫:br ***⟪⟪स्तुवीध्वम्⟫⟫*** |
+| **第三人称** :br⟪⟪प्रथमः⟫⟫ | ⟪⟪स्तौतु⟫⟫:br ***⟪⟪स्तवीतु⟫⟫*** | ⟪⟪स्तुवन्तु⟫⟫ | ⟪⟪स्तुताम्⟫⟫:br ***⟪⟪स्तुवीताम्⟫⟫*** | ⟪⟪स्तुवताम्⟫⟫ |
 :::
-⟪हन्⟫ 2P <!-- TODO: Fallback translation -->
+⟪⟪अस्⟫⟫ 第二人称
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(aus: \*hn-ta) | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ | <!-- TODO: Fallback translation -->
-
-Anm.: ¹ Erklärung von **⟪जहि⟫** siehe Thumb-Hauschild I,2 S. 253 <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ ||
+| :---: | :---: | :---: |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **第一人称** :br⟪⟪तृतीयः⟫⟫ | ⟪⟪असानि⟫⟫ | ⟪⟪असाम⟫⟫ |
+| **第二人称** :br⟪⟪मध्यमः⟫⟫ | ***⟪⟪एधि⟫⟫*** :br(源自: \*s-dhi) | ⟪⟪स्त⟫⟫ |
+| **第三人称** :br⟪⟪प्रथमः⟫⟫ | ⟪⟪अस्तु⟫⟫ | ⟪⟪सन्तु⟫⟫ |
 :::
-⟪स्तु⟫ 2U <!-- TODO: Fallback translation -->
+⟪⟪शास्⟫⟫ 第二人称
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br ***⟪स्तुवीहि⟫*** | ⟪स्तुत⟫:br ***⟪स्तुवीत⟫*** | ⟪स्तुष्व⟫:br ***⟪स्तुवीष्व⟫*** | ⟪स्तुध्वम्⟫:br ***⟪स्तुवीध्वम्⟫*** | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br ***⟪स्तवीतु⟫*** | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br ***⟪स्तुवीताम्⟫*** | ⟪स्तुवताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ ||
+| :---: | :---: | :---: |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **第一人称** :br⟪⟪तृतीयः⟫⟫ | ⟪⟪शासानि⟫⟫ | ⟪⟪शासाम⟫⟫ |
+| **第二人称** :br⟪⟪मध्यमः⟫⟫ | ***⟪⟪शाधि⟫⟫*** :br（源自：śās + dhi）:br不规则高根 | ⟪⟪शिष्ट⟫⟫ |
+| **第三人称** :br⟪⟪प्रथमः⟫⟫ | ⟪⟪शास्तु⟫⟫ | ***⟪⟪शासतु⟫⟫*** :br不规则高根 |
 :::
-⟪अस्⟫ 2P <!-- TODO: Fallback translation -->
+### 48.2.4. 第三现在时类（⟪⟪जुहोत्यादि⟫⟫）
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ***⟪एधि⟫*** :br(aus: \*s-dhi) | ⟪स्त⟫ | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+**第三人称复数（3.pl.P）以 \-atu 结尾！**
 :::
-⟪शास्⟫ 2P <!-- TODO: Fallback translation -->
+⟪हु⟫ 第三人称
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ***⟪शाधि⟫*** :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | ***⟪शासतु⟫*** :brunregelm. hochstufig | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **第一人称** :br⟪⟪तृतीयः⟫⟫ | ⟪⟪जुहवानि⟫⟫:br(ju-ho + āni) | ⟪⟪जुहवाम⟫⟫ | \<⟪⟪जुहवै⟫⟫\> | \<⟪⟪जुहवामहै⟫⟫\> |
+| **第二人称** :br⟪⟪मध्यमः⟫⟫ | ⟪⟪जुहुधि⟫⟫:brunregelmäßig¹ | ⟪⟪जुहुत⟫⟫ | \<⟪⟪जुहुष्व⟫⟫\> | \<⟪⟪जुहुध्वम्⟫⟫\> |
+| **第三人称** :br⟪⟪प्रथमः⟫⟫ | ⟪⟪जुहोतु⟫⟫ | ⟪⟪जुह्वतु⟫⟫:br(ju-hu + atu) | \<⟪⟪जुहुताम्⟫⟫\> | \<⟪⟪जुह्वताम्⟫⟫\> |
+
+Anm.: ¹ Dissimilation, sodass nicht zwei Silben mit **⟪ह्⟫** aufeinanderfolgen.
 :::
-### 48.2.4. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
+⟪धा⟫ 3U
 
-:::grammar-box
-**Die 3.pl.P endet auf \-atu !** <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **1. Person** :br⟪⟪तृतीयः⟫⟫ | ⟪⟪दधानि⟫⟫:br(da-dhā + āni) | ⟪⟪दधाम⟫⟫ | ⟪⟪दधै⟫⟫:br(da-dhā + ai) | ⟪⟪दधामहै⟫⟫ |
+| **2. Person** :br⟪⟪मध्यमः⟫⟫ | ⟪⟪धेहि⟫⟫¹ | ⟪⟪धत्त⟫⟫:br(da-dh + ta) | ⟪⟪धत्स्व⟫⟫ | ⟪⟪धद्ध्वम्⟫⟫ |
+| **3. Person** :br⟪⟪प्रथमः⟫⟫ | ⟪⟪दधातु⟫⟫ | ⟪⟪दधतु⟫⟫:br(da-dh-atu) | ⟪⟪धत्ताम्⟫⟫ | ⟪⟪दधताम्⟫⟫ |
+
+注：¹ **⟪धेहि⟫** 源自 \*dhazdhi：原始印欧语擦音 z 的脱落，伴随补偿性延长；参见 Thumb-Hauschild I,1 第 302 页
 :::
-⟪हु⟫ 3P <!-- TODO: Fallback translation -->
+⟪हा⟫ 第三人称
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | &lt;⟪जुहवै⟫&gt; | &lt;⟪जुहवामहै⟫&gt; | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmäßig¹ | ⟪जुहुत⟫ | &lt;⟪जुहुष्व⟫&gt; | &lt;⟪जुहुध्वम्⟫&gt; | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | &lt;⟪जुहुताम्⟫&gt; | &lt;⟪जुह्वताम्⟫&gt; | <!-- TODO: Fallback translation -->
-
-Anm.: ¹ Dissimilation, sodass nicht zwei Silben mit **⟪ह्⟫** aufeinanderfolgen. <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ ||
+| :---: | :---: | :---: |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **第一人称** :br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
+| **第二人称** :br⟪मध्यमः⟫ | ***⟪जहाहि⟫*** :br不规则强变化。主格:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
+| **第三人称** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-⟪धा⟫ 3U <!-- TODO: Fallback translation -->
+## 48.3. 关于名词构成：⟪तद्धित⟫后缀 -a 和 -ya
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+通过后缀 **-a** 和（较少见的）**-ya**，可以从一个名词派生出另一个名词。此时，原名词的第一个音节变为长音阶段（**⟪वृद्धि⟫**）。如果原词干已经以 **-a** 结尾，那么 **⟪वृद्धि⟫** 就是唯一的派生标志，因为词干词尾没有变化。
 
-Anm.: ¹ **⟪धेहि⟫** aus \*dhazdhi: Wegfall des indogermanischen Zischlauts z unter Ersatzdehnung; s. Thumb-Hauschild I,1 S. 302 <!-- TODO: Fallback translation -->
+派生词具有如下含义：
+
+> “拥有与词根所指涉者相关的某种关系”
+
+例如
+
+*   “stammend von”
+*   “gehörig zu”
+
+由此构成的词是形容词，但可以被名词化，例如作为父名（根据父亲的名字命名：“N.N.的儿子”）或抽象名词（多为中性）。
 :::
-⟪हा⟫ 3P <!-- TODO: Fallback translation -->
+例子：
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ***⟪जहाहि⟫*** :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) | <!-- TODO: Fallback translation -->
+::: indent
+| 词根 | 派生词 |
+| :--- | :--- |
+| **⟪शुचि⟫** 3 “发光，纯净” | **⟪शौच⟫** n. “纯洁” |
+| **⟪पुत्र⟫** m. “儿子” | **⟪पौत्र⟫** m. “由儿子衍生 = 孙，曾孙” |
+| **⟪गोतम⟫** m. “拥有极多牛者” 专有名词 | **⟪गौतम⟫** m. “Gotama之子” |
+| **⟪ब्रह्मन्⟫** n. “表述的真理，吠陀，绝对者” | **⟪ब्राह्मण⟫** m. “真理表述者，婆罗门” |
+| **⟪शूर⟫** 3 “英勇的” | **⟪शौर्य⟫** n. “英勇，勇敢” |
+| **⟪राजन्⟫** m. “国王” | **⟪राज्य⟫** n. “王权” |
+| **⟪देव⟫** m. “天界的，神” | **⟪दैव्य⟫** 3 “天界的” |
+| **⟪ग्राम⟫** m. “村庄” | **⟪ग्राम्य⟫** 3 “乡村的” |
 :::
-## 48.3. Zur Nominalbildung: ⟪तद्धित⟫-Suffixe -a und -ya
+::: grammar-box
+| **词干尾音在后缀 \-a 前的处理：** ||
+| :---: | :--- |
+| **\-ṛ** | **\-a** 通常接在尾音 **\-r** 之后::br例如 **⟪जेतृ⟫** “胜利者” » **⟪जैत्र⟫** 3 “胜利的” |
+| **\-a** | 用新的后缀 **\-a** 替换词根中的 **\-a**。.:br参见上文示例。 |
+| **\-i** | **\-i** 脱落 :br例如 **⟪प्रकृति⟫** f. “自然” » **⟪प्राकृत⟫** 3 “自然的，正常的，普通的，粗俗的” |
+| **\-u** | 通常为：**\-av-a** :br例如 **⟪गुरु⟫** 3 “困难”；m. “大师，老师” » **⟪गौरव⟫** 3 “属于大师的，由大师衍生”；n. “重量，沉重，尊严” |
+| **其他变格词干：** | 参见 Wackernagel, Altind. Grammatik II,2 § 38 |
 
-:::grammar-box
-Mit dem Suffix **-a** und (seltener) **-ya** kann aus einem Nomen ein anderes Nomen abgeleitet werden. Dabei erhält die erste Silbe des ursprünglichen Nomens Dehnstufe (**⟪वृद्धि⟫**). Endet der ursprüngliche Wortstamm bereits auf **-a** so ist die **⟪वृद्धि⟫** das einzige Zeichen der Ableitung, da sich am Stammauslaut nichts ändert. <!-- TODO: Fallback translation -->
-
-Die abgeleiteten Wörter haben die Bedeutung: <!-- TODO: Fallback translation -->
-
-> "irgendeine Beziehung zu dem durch das Grundwort Bezeichnete habend" <!-- TODO: Fallback translation -->
-
-z.B. <!-- TODO: Fallback translation -->
-
-*   "stammend von" <!-- TODO: Fallback translation -->
-*   "gehörig zu" <!-- TODO: Fallback translation -->
-
-Die so gebildeten Wörter sind Adjektive, können aber substantiviert werden, z.B. als Patronymica (Namensbildung nach dem Vater: "Sohn des N.N.") oder Abstrakta (meist Neutra). <!-- TODO: Fallback translation -->
+在后缀 **-ya** 之前，词干结尾的处理方式类似于后缀 **-a** 之前的情况。
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例见上文！
 
-:::indent
-| Grundwort | Ableitung | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **⟪शुचि⟫** 3 "leuchtend, rein" | **⟪शौच⟫** n. "Reinheit" | <!-- TODO: Fallback translation -->
-| **⟪पुत्र⟫** m. "Sohn" | **⟪पौत्र⟫** m. "vom Sohn stammend = Sohnessohn, Enkel" | <!-- TODO: Fallback translation -->
-| **⟪गोतम⟫** m. "Besitzer sehr vieler Rinder" Eigenname | **⟪गौतम⟫** m. "Sohn des Gotama" | <!-- TODO: Fallback translation -->
-| **⟪ब्रह्मन्⟫** n. "formulierte Wahrheit, Veda, Absolutes" | **⟪ब्राह्मण⟫** m. "Wahrheitsformulierer, Brahmane" | <!-- TODO: Fallback translation -->
-| **⟪शूर⟫** 3 "heldenhaft" | **⟪शौर्य⟫** n. "Heldenhaftigkeit, Tapferkeit" | <!-- TODO: Fallback translation -->
-| **⟪राजन्⟫** m. "König" | **⟪राज्य⟫** n. "Königsherrschaft" | <!-- TODO: Fallback translation -->
-| **⟪देव⟫** m. "Himmlischer, Gott" | **⟪दैव्य⟫** 3 "himmlisch" | <!-- TODO: Fallback translation -->
-| **⟪ग्राम⟫** m. "Dorf" | **⟪ग्राम्य⟫** 3 "dörfisch" | <!-- TODO: Fallback translation -->
-::::::grammar-box
-| **Behandlung des Stammauslautes vor dem Suffix \-a:** || <!-- TODO: Fallback translation -->
-| :---: | :--- | <!-- TODO: Fallback translation -->
-| **\-ṛ** | **\-a** tritt in der Regel an den Auslaut **\-r**::brz.B. **⟪जेतृ⟫** "Sieger" » **⟪जैत्र⟫** 3 "siegreich" | <!-- TODO: Fallback translation -->
-| **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brBeispiele siehe oben. | <!-- TODO: Fallback translation -->
-| **\-i** | Wegfall des **\-i** :brz.B. **⟪प्रकृति⟫** f. "Natur" » **⟪प्राकृत⟫** 3 "natürlich, normal, üblich, vulgär" | <!-- TODO: Fallback translation -->
-| **\-u** | meistens: **\-av-a** :brz.B. **⟪गुरु⟫** 3 "schwer"; m. "Meister, Lehrer" » **⟪गौरव⟫** 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" | <!-- TODO: Fallback translation -->
-| **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 | <!-- TODO: Fallback translation -->
+::: grammar-box
+**通过这些后缀，也可以从复合词派生。**
 
-Vor dem Suffix **-ya** wird der Stammauslaut ähnlich wie vor dem Suffix **-a** behandelt. <!-- TODO: Fallback translation -->
-:::
-Beispiele siehe oben! <!-- TODO: Fallback translation -->
+例如，**⟪स्वश्व⟫** m. “马匹优良者”专有名词 » **⟪सौवश्व⟫** m. “Svaśva的后裔”
 
-:::grammar-box
-**Mittels dieser Suffixe können auch von Komposita Ableitungen gebildet werden.** <!-- TODO: Fallback translation -->
+**对于复合词，若因连声（sandhi）导致前成分末尾的 -i 或 -u 被替换为 -y 或 -v，并因此置于词根首元音之前（例如含有 ni-、vi-、su- 的复合词），则⟪वृद्धि⟫的构成方式，仿佛其后跟随的是 -iy 或 -uv。**
 
-z.B. **⟪स्वश्व⟫** m. "der, dessen Pferde gut sind" Eigenname » **⟪सौवश्व⟫** m. "Nachkomme des Svaśva" <!-- TODO: Fallback translation -->
-
-**Bei Komposita, in denen infolge des Sandhi im Vorderglied auslautendes -i oder -u durch -y bzw. -v ersetzt werden und so dem ersten Vokal des Grundwortes vorausgehen (z.B. Komposita mit ni-, vi-, su-), wird die ⟪वृद्धि⟫ so gebildet, als ob -iy bzw. -uv dastehen würde.** <!-- TODO: Fallback translation -->
-
-z.B. **⟪व्याघ्र⟫** m. "Tiger" » **⟪वैयाघ्र⟫** 3 "von einem Tiger stammend, zu einem Tiger gehörend" <!-- TODO: Fallback translation -->
-::::::media
+z.B. **⟪व्याघ्र⟫** m. "Tiger" » **⟪वैयाघ्र⟫** 3 "von einem Tiger stammend, zu einem Tiger gehörend"
+:::: media
 ![](/images/lekt4801.webp)
 Abb.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
-(Bildquelle: [Details](/licenses#lekt4801)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/zh-CN/licenses#lekt4801))
+::::
 :::
 ## 48.4. Wortliste
 
-⟪श्वस्⟫ : morgen <!-- TODO: Fallback translation -->
+⟪श्वस्⟫ : 明天
 
-⟪अद्य⟫ : heute <!-- TODO: Fallback translation -->
+⟪अद्य⟫ ：今天
 
-⟪लघु⟫ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz (im Ausdruck) <!-- TODO: Fallback translation -->
+⟪लघु⟫ 3: 容易（不困难，不复杂），快速，简短（在表达上）
 
-⟪व्याकरण⟫ n.: Grammatik (zu ⟪व्याकृ⟫) <!-- TODO: Fallback translation -->
+⟪व्याकरण⟫ n.：语法（参见⟪व्याकृ⟫）
 
-⟪तन्त्र⟫ n.: Saite ; Webstuhl, Webkette, Gewebe ; Grundlage, Norm, Regel ; Lehre, Lehrwerk ; Tantra ; Zauberformel ; Mittel, Trick, Arzneimittel ; Regierung, Autorität <!-- TODO: Fallback translation -->
+⟪तन्त्र⟫ n.：弦；织机，经线，织物；基础，标准，规则；教义，教材； Tantra；咒语；手段，技巧，药物；政府，权威
 
-:::media
+::: media
 ![](/images/lekt4802.webp)
-Abb.: ⟪तन्त्रम्⟫
+图：⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
-(Bildquelle: [Details](/licenses#lekt4802)) <!-- TODO: Fallback translation -->
-::::::media
+（图片来源：[详情](/zh-CN/licenses#lekt4802)）
+:::: media
 ![](/images/lekt4803.webp)
-Abb.: ⟪तन्त्री⟫
-Sitarspieler = ⟪सितारवादकः⟫
-(Bildquelle: [Details](/licenses#lekt4803)) <!-- TODO: Fallback translation -->
+图：⟪तन्त्री⟫
+西塔尔琴演奏者 = ⟪सितारवादकः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4803)）
+::::
 :::
-⟪स्त्री⟫ f.: Frau, Gattin ; Femininum <!-- TODO: Fallback translation -->
+⟪स्त्री⟫ f.：女性，妻子；阴性
 
-Deklination: <!-- TODO: Fallback translation -->
+变格：
 
-:::grammar-box
-| **⟪स्त्री⟫ f.** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫** | ⟪स्त्री⟫ | ⟪स्त्रियस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪स्त्रियम्⟫:br⟪स्त्रीयम्⟫ | ⟪स्त्रियस्⟫:br⟪स्त्रीस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | ⟪स्त्रिया⟫ | ⟪स्त्रीभिस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | ⟪स्त्रियै⟫ | ⟪स्त्रीभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | ⟪स्त्रियास्⟫ | ⟪स्त्रीभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | ⟪स्त्रियास्⟫ | ⟪स्त्रीणाम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | ⟪स्त्रियाम्⟫ | ⟪स्त्रीषु⟫ | <!-- TODO: Fallback translation -->
-| **⟪आमन्त्रितम्⟫** | ⟪स्त्रि⟫ | ⟪स्त्रियस्⟫ | <!-- TODO: Fallback translation -->
-::::::media
+::: grammar-box
+| **⟪स्त्री⟫ f.** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| :---: | :---: | :---: |
+| **⟪प्रथमा⟫** | ⟪स्त्री⟫ | ⟪स्त्रियस्⟫ |
+| **⟪द्वितीया⟫** | ⟪स्त्रियम्⟫:br⟪स्त्रीयम्⟫ | ⟪स्त्रियस्⟫:br⟪स्त्रीस्⟫ |
+| **⟪तृतीया⟫** | ⟪स्त्रिया⟫ | ⟪स्त्रीभिस्⟫ |
+| **⟪चतुर्थी⟫** | ⟪स्त्रियै⟫ | ⟪स्त्रीभ्यस्⟫ |
+| **⟪पञ्चमी⟫** | ⟪स्त्रियास्⟫ | ⟪स्त्रीभ्यस्⟫ |
+| **⟪षष्ठी⟫** | ⟪स्त्रियास्⟫ | ⟪स्त्रीणाम्⟫ |
+| **⟪सप्तमी⟫** | ⟪स्त्रियाम्⟫ | ⟪स्त्रीषु⟫ |
+| **⟪आमन्त्रितम्⟫** | ⟪स्त्रि⟫ | ⟪स्त्रियस्⟫ |
+:::: media
 ![](/images/lekt4804.webp)
-Abb.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
-[Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
-(Bildquelle: [Details](/licenses#lekt4804)) <!-- TODO: Fallback translation -->
+图：⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
+[自助小组 (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), 泰米尔纳德邦 = தமிழ்நாடு
+(图片来源：[详情](/zh-CN/licenses#lekt4804))
+::::
 :::
-⟪दिवानिशम्⟫ Adverb: bei Tag und Nacht <!-- TODO: Fallback translation -->
+⟪दिवानिशम्⟫ 副词：日夜
 
-⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : hängen, anhaften <!-- TODO: Fallback translation -->
+⟪सज्ज्⟫ 1P ⟪सज्जति⟫ ：悬挂，附着
 
-⟪कुमार⟫ m.: Kind, Jüngling, Prinz; Beiname des ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്⟪‍⟫ / Subrahmanya = ಸುಬ್ರಹ್มಣ್ಯ <!-- TODO: Fallback translation -->
+⟪कुमार⟫ m.: 孩子，青年，王子；⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്⟪‍⟫ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ的别名
 
-:::media
+::: media
 ![](/images/lekt4805.webp)
-Abb.: ⟪कुमारः⟫
-Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
-(Bildquelle: [Details](/licenses#lekt4805)) <!-- TODO: Fallback translation -->
+图：⟪कुमारः⟫
+泰普瑟姆节 = தைப்பூச姆，黑风洞，马来西亚
+（图片来源：[详情](/zh-CN/licenses#lekt4805)）
 :::
-⟪कुमारी⟫ f.: Mädchen, Tochter <!-- TODO: Fallback translation -->
+⟪कुमारी⟫ 阴性：女孩，女儿
 
-:::media
+::: media
 ![](/images/lekt4806.webp)
-Abb.: ⟪कुमारी⟫
+图：⟪कुमारी⟫
 ⟪नेपाल⟫
-(Bildquelle: [Details](/licenses#lekt4806)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt4806)）
 :::
-⟪कौमर⟫ n.: Kindheit <!-- TODO: Fallback translation -->
+⟪कौमर⟫ n.：童年
 
-⟪यौवन⟫ n.: Jugend <!-- TODO: Fallback translation -->
+⟪यौवन⟫ n.: 青春
 
-⟪स्थविर⟫ 3: alt, betagt <!-- TODO: Fallback translation -->
+⟪स्थविर⟫ 3: alt, betagt
 
-:::media
+::: media
 ![](/images/lekt4807.webp)
-Abb.: ⟪स्थविराः⟫
+图：⟪स्थविराः⟫
 ⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt4807)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt4807)）
 :::
-⟪स्थाविर⟫ n.: (hohes) Alter <!-- TODO: Fallback translation -->
+⟪स्थाविर⟫ n.：（高）年龄
 
-⟪वाच्य⟫ 3: auch: tadelnswert <!-- TODO: Fallback translation -->
+⟪वाच्य⟫ 3: auch: tadelnswert
 
-⟪सूक्ष्म⟫ 3: fein, winzig, subtil <!-- TODO: Fallback translation -->
+⟪सूक्ष्म⟫ 3：精细，微小，微妙
 
-:::media
+::: media
 ![](/images/lekt4808.webp)
-Abb.: ⟪सूक्ष्मम्⟫
-Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
-(Bildquelle: [Details](/licenses#lekt4808)) <!-- TODO: Fallback translation -->
+图：⟪सूक्ष्मम्⟫
+Karanji湖 = ಕಾರಂಜಿ ಕೆರೆ
+（图片来源：[详情](/zh-CN/licenses#lekt4808)）
 :::
-⟪प्रसङ्ग⟫ m.: Anhaftung, Neigung ; Gelegenheit <!-- TODO: Fallback translation -->
+⟪प्रसङ्ग⟫ m.：执着，倾向；机会
 
-⟪विशेष⟫ m.: Unterschied, Besonderheit <!-- TODO: Fallback translation -->
+⟪विशेष⟫ m.: 差异，特点
 
-⟪प्रसूति⟫ f.: Geburt, Nachkommenschaft <!-- TODO: Fallback translation -->
+⟪प्रसूति⟫ f.: 出生，后代
 
-⟪चरित्र⟫ n.: Brauch, Sitte, Gewohnheitsrecht ; Wandel <!-- TODO: Fallback translation -->
+⟪चरित्र⟫ n.：习俗、惯例、习惯法；行为方式
 
-⟪जाया⟫ f.: Ehefrau <!-- TODO: Fallback translation -->
+⟪जाया⟫ f.: 妻子
 
-:::media
+::: media
 ![](/images/lekt4809.webp)
-Abb.: ⟪मम⟫ ⟪जाया⟫
-(Bild: Payer)
-(Bildquelle: [Details](/licenses#lekt4809)) <!-- TODO: Fallback translation -->
+图：⟪मम⟫ ⟪जाया⟫
+（图片：Payer）
+（图片来源：[详情](/zh-CN/licenses#lekt4809)）
 :::
-## 48.5. Übung
+## 48.5. 练习
 
-A) Übersetzen Sie die ⟪सुभाषितानि⟫ zu Beginn der Lektion. <!-- TODO: Fallback translation -->
+A) 翻译位于课程开头的 ⟪सुभाषितानि⟫。
 
-B) Übersetzen Sie ins Sanskrit (verwenden Sie dabei den Imperativ und möglichst Wurzeln der 2. und 3. Präsensklasse): <!-- TODO: Fallback translation -->
+B) 翻译成梵文（使用祈使语气，并尽可能使用第二和第三现在时类的词根）：
 
-1. Nachdem du einen Sohn bekommen hast, verlasse die Familie! <!-- TODO: Fallback translation -->
-2. Nachkommen des Puru, fürchtet euch vor denen, die Böses getan haben! <!-- TODO: Fallback translation -->
-3. Die Mädchen sollen den Bettlern Speise geben. <!-- TODO: Fallback translation -->
-4. Wir wollen sprechen. <!-- TODO: Fallback translation -->
-5. Mit den Worten "Komm Mönch!" nahm Buddha den Mann in den Mönchsorden auf (⟪उपसम्पद्⟫ Kausativ). <!-- TODO: Fallback translation -->
-6. Seid wahre Nachfahren Manus! <!-- TODO: Fallback translation -->
-7. Ich will ⟪शिव⟫ und die anderen Götter preisen. <!-- TODO: Fallback translation -->
-8. Erzähle! <!-- TODO: Fallback translation -->
-9. Miss die Höllen aus! <!-- TODO: Fallback translation -->
-10. Sie (pl.) sollen auf diesen Liegen liegen. <!-- TODO: Fallback translation -->
-11. Die tigergleichen Männer sollen die töten, die Indra feind sind. <!-- TODO: Fallback translation -->
-12. Konzentriere dich! <!-- TODO: Fallback translation -->
-13. Sitzt hier! <!-- TODO: Fallback translation -->
-14. Wir wollen diese Früchte essen. <!-- TODO: Fallback translation -->
-15. Der Diener soll die Kuh melken. <!-- TODO: Fallback translation -->
-16. König, hüte den Dharma und die Leute. <!-- TODO: Fallback translation -->
-17. Lehre die Schüler den Veda! <!-- TODO: Fallback translation -->
-18. Er soll neue Kleider anziehen. <!-- TODO: Fallback translation -->
-19. Sie (pl.) sollen in meinem Haus sitzen. <!-- TODO: Fallback translation -->
-20. Ehemänner sollen ihre Gattinnen erhalten (i. S. v. Unterhalt). <!-- TODO: Fallback translation -->
+1. 当你有了儿子后，离开家庭！
+2. 婆罗多族的后裔，畏惧那些作恶之人！
+3. 女孩们应当给乞丐食物。
+4. 我们要说话。
+5. 佛陀用“来吧，僧人！”的话语接纳了该男子进入僧团（⟪उपसम्पद्⟩ 使动）。
+6. 做曼纽的真正后裔！
+7. 我要赞美⟪शिव⟩和其他神祇。
+8. 讲述！
+9. 丈量地狱！
+10. 他们（复数）应当躺在这张床上。
+11. 虎一般的男子应当杀死那些与因陀罗为敌的人。
+12. 集中注意力！
+13. 坐在这里！
+14. 我们要吃这些水果。
+15. 仆人应当挤牛奶。
+16. 国王，守护正法与人民。
+17. 教导学生吠陀！
+18. 他应当穿上新衣服。
+19. 他们（复数）应当坐在我家里。
+20. 丈夫们应当供养他们的妻子（意为：维持生计）。
 
 ## 48.6. Übersetzungsübung
 
-⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫): <!-- TODO: Fallback translation -->
+⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫)：
 
-:::indent
+::: indent
 ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫  
 ⟪विषयेषु⟫ ⟪च⟫ ⟪सज्जन्त्यः⟫ ⟪संस्थाप्या⟫ ⟪आत्मनो⟫ ⟪वशे⟫ ⟪॥२॥⟫  
 ⟪पिता⟫ ⟪रक्षति⟫ ⟪कौमरे⟫ ⟪भर्ता⟫ ⟪रक्षति⟫ ⟪यौवने⟫ ⟪।⟫  
@@ -396,28 +398,28 @@ B) Übersetzen Sie ins Sanskrit (verwenden Sie dabei den Imperativ und möglichs
 ⟪स्वां⟫ ⟪प्रसूतिं⟫ ⟪चरित्रं⟫ ⟪च⟫ ⟪कुलमात्मानमेव⟫ ⟪च⟫ ⟪।⟫  
 ⟪स्वं⟫ ⟪च⟫ ⟪धर्मं⟫ ⟪प्रयत्नेन⟫ ⟪जायां⟫ ⟪रक्षन्हि⟫ ⟪रक्षति⟫ ⟪॥७॥⟫  
 ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫ ⟪।⟫  
-⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫
 :::
-Erklärung:  
-⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Dual zu ⟪द्वे⟫ ⟪कुले⟫ "zwei Familien" <!-- TODO: Fallback translation -->
+解释：  
+⟪द्वयोर्हि⟫ ⟪कुलयोः⟫：属格（⟪षष्ठी⟫）双数形式，对应⟪द्वे⟫ ⟪कुले�“两个家庭”
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt4801:** [Bildquelle: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt4801:** [图片来源：Gunnlaugur Þ. Briem。-- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
 
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Bildquelle: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [图片来源：Ken McChesney。-- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
 
-**lekt4803:** Sitarspieler = ⟪सितारवादकः⟫ [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt4803:** 西塔琴演奏者 = ⟪सितारवादकः⟫ [图片来源：维基百科。公有领域]
 
-**lekt4804:** [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Bildquelle: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt4804:** [Selbsthilfegruppe (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Bildquelle: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)]
 
-**lekt4805:** Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia [Bildquelle: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt4805:** Thaipusam节 = தைப்பூசம்，马来西亚黑风洞 [图片来源：tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/)。 -- 访问于2009-01-10。 -- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de)（署名）]
 
-**lekt4806:** ⟪नेपाल⟫ [Bildquelle: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt4806:** ⟪नेपाल⟫ [图片来源：changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 
-**lekt4807:** ⟪जोधपुर⟫ [Bildquelle: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt4807:** ⟪जोधपुर⟫ [图片来源：zz77。 -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/)。 -- 访问日期：2009-01-10。 -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 
-**lekt4808:** Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [Bildquelle: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt4808:** Karanji 湖 = ಕಾರಂಜಿ ಕೆರೆ [图片来源：Nagesh Kamath。-- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/)。-- 访问日期：2009-01-10。-- [知识共享许可协议](http://creativecommons.org/licenses/by-sa/2.0/deed.de)（署名，相同方式共享）]
 
-**lekt4809:** (Bild: Payer) <!-- TODO: Fallback translation -->
+**lekt4809:** (Bild: Payer)
 :::

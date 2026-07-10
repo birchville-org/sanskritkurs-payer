@@ -83,7 +83,7 @@ B) Traduceți următoarele Tatpuruṣa:
 
 ⟪३१⟫. ⟪अमृत⟫ n. — nemurire, hrană nemuritoare, băutură nemuritoare
 
-:::media
+::: media
 ![](/images/uebung027.jpg)
 Fig.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung027))
@@ -141,7 +141,7 @@ D) Traduceți:
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 Datoria tuturor este: non-violența, veridicitatea, puritatea, a nu cârti împotriva destinului, lipsa de răutate și toleranța răbdătoare.
 
-:::media
+::: media
 ![](/images/uebung028.webp)
 Fig.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung028))

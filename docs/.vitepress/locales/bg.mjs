@@ -18,7 +18,7 @@ export const bg = {
       { text: 'Съдържание', link: '/bg/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Кредити', link: '/bg/impressum' },
-      { text: '⚙️', link: '/bg/settings', ariaLabel: 'Отвори настройки' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/bg/settings', ariaLabel: 'Отвори настройки' }
     ],
     docFooter: {
       prev: 'Предишен урок',

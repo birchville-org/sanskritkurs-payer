@@ -1,15 +1,15 @@
 ---
-title: Lección 5
-subtitle: "Fundamentos de los compuestos nominales (samāsa)"
+title: Lektion 5
+subtitle: "Grundlagen der Nominalkomposita (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
-category: "Gramática"
+category: "Grammatik"
 status: stable
 ---
 
 # Lección 5
 
-:::deleteme-box
+::: deleteme-box
 **En esta lección aprenderá:**
 - Fundamentos de los compuestos nominales (samāsa)
 - Terminología técnica para compuestos
@@ -27,8 +27,6 @@ Las formas de formación más importantes de compuestos son:
 
 (¡Véase más adelante sobre los dos últimos mencionados!)
 
----
-
 ## 5.2. Sobre la terminología sánscrita para los compuestos
 
 - **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Miembros de un compuesto
@@ -38,13 +36,11 @@ Las formas de formación más importantes de compuestos son:
 - **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Compuesto cuyos primeros miembros carecen de terminaciones casuáticas (el caso normal)
 - **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Compuesto en el que se omiten uno o varios miembros intermedios
 
----
-
 ## 5.3. Compuestos copulativos (Dvandva n. = ⟪द्वन्द्व⟫)
 
 Los compuestos copulativos sirven para vincular miembros gramaticalmente similares, coordinados (sustantivos o adjetivos).
 
-:::grammar-box
+::: grammar-box
 **Un Dvandva designa:**
 
 1. **ya sea la conexión sumativa de las personas, cosas o propiedades designadas por sus miembros individuales:**
@@ -87,14 +83,12 @@ Ejemplos de Pluraldvandva:
 **Para el orden de los miembros en un Dvandva se aplican, entre otras, las siguientes reglas:**
 - La designación de los distintos estamentos (**varṇa**) debe ordenarse según su jerarquía (el más alto primero).
 - El nombre del hermano mayor debe anteceder al nombre del hermano menor.
-> En general, la palabra más importante debe colocarse al principio.
+- En general, la palabra más importante debe colocarse al principio.
 - Las palabras que terminan en **-i** o **-u** deben anteceder.
 - Las palabras que terminan en **-a** y empiezan con una vocal deben anteceder.
 - Las palabras que contienen menos sílabas deben anteceder.
 
 Cuando dos de las tres últimas prescripciones mencionadas puedan aplicarse simultáneamente, siempre se debe seguir la regla dada posteriormente. (Ejemplos de Dualdvandva para estas reglas en Kielhorn, Gramática § 570).
-
----
 
 ## 5.4. Lista de palabras
 
@@ -104,7 +98,7 @@ Cuando dos de las tres últimas prescripciones mencionadas puedan aplicarse simu
 
 **kāma** m. = ⟪काम⟫ : deseo, anhelo, don deseado, placer sensual, amor; dios del amor Kāma.
 
-:::media
+::: media
 ![](/images/lekt0501.webp)
 Fig.: Dios Kāma = kāmadeva = ⟪कामदेव⟫, siglo XVIII.
 (Fuente de la imagen: Wikipedia, dominio público)
@@ -139,8 +133,6 @@ Fig.: Dios Kāma = kāmadeva = ⟪कामदेव⟫, siglo XVIII.
 (se pospone a la palabra que une. Cuando se unen varias palabras, se coloca idealmente después de la primera palabra del último elemento de la unión: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : tanto ... como.
-
----
 
 ## 5.5. Ejercicio
 
@@ -177,8 +169,6 @@ Fig.: Dios Kāma = kāmadeva = ⟪कामदेव⟫, siglo XVIII.
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
    (Según Kauṭilīya-arthaśāstra 1.2.1.)
    ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
-
----
 
 ## 5.6. Ejercicio de repaso
 

@@ -9,7 +9,7 @@ status: stable
 
 # Lecția 4
 
-:::deleteme-box
+::: deleteme-box
 **În această lecție veți învăța:**
 - Pronumele interogative și pronumele demonstrative la nominativ
 - Sandhi pentru -m final
@@ -23,7 +23,7 @@ status: stable
 
 #### 4.1.1.1. Pronume interogative (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
-:::grammar-box
+::: grammar-box
 | | Nominativ singular | Nominativ plural |
 | :--- | :--- | :--- |
 | **Neutrum** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
@@ -32,7 +32,7 @@ status: stable
 :::
 #### 4.1.1.2. Pronume demonstrative (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
-:::grammar-box
+::: grammar-box
 | **Steme** ||||
 | :--- | :---: | :---: | :---: |
 | | **tad = ⟪तद्⟫:br"el, ea, el; acela, aceea, acela":br(Menționat)** | **etad = ⟪एतद्⟫:br"acest, această, acest":br(Foarte aproape de vorbitor)** | **idam = ⟪इदम्⟫:br"acest, această, acest":br(Aproape)** |
@@ -54,12 +54,12 @@ Pentru a putea forma propoziții cu aceste pronume (sarvanāman n.), este necesa
 
 ### 4.1.2. Sandhi al sunetului -m
 
-:::grammar-box
+::: grammar-box
 **Sunetul -m final este înlocuit cu Anusvāra (-ṃ) în fața consoanelor. La sfârșitul propoziției sau versului și în fața vocalelor, -m se păstrează.**
 :::
 ### 4.1.3. Sandhi de -e final
 
-:::grammar-box
+::: grammar-box
 1. **înaintea lui a-, -e rămâne neschimbat: a- inițial se elidează cu Avagraha:**
    ex. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Aceste focuri"
 
@@ -68,7 +68,7 @@ Pentru a putea forma propoziții cu aceste pronume (sarvanāman n.), este necesa
 :::
 ### 4.1.4. Sandhi al sunetului -d
 
-:::grammar-box
+::: grammar-box
 **Sunetul final -d se înlocuiește cu -t în pauză, precum și în fața guturalelor surde (k, kh) și a labialelor (p, ph).**
 
 Înlocuirea în fața altor consoane va fi discutată mai târziu. Evitați pe cât posibil aceste coliziuni fonetice!
@@ -77,8 +77,7 @@ Pentru a putea forma propoziții cu aceste pronume (sarvanāman n.), este necesa
 
 Prin intermediul acestor pronume se formează, de exemplu, următoarele formule de întrebare:
 
-::::grammar-box
-:::no-header
+::: no-header
 | | | | |
 | :--- | :--- | :--- | :--- |
 | **Singular** | **Neutru** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "Ce este acesta?" |
@@ -87,7 +86,7 @@ Prin intermediul acestor pronume se formează, de exemplu, următoarele formule 
 | **Plural** | **Neutru** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
 | | **Masculin** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
 | | **Feminin** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
-:::::::
+:::
 Un exemplu de alte întrebări:
 
 > viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Răspuns: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (În această construcție nominală, se poate plasa subiectul, de exemplu, la început, pentru a sublinia legătura cu întrebarea.)
@@ -106,7 +105,7 @@ NOTĂ: Răspunsurile pe care le puteți oferi la astfel de întrebări, folosind
 
 **B) Formați întrebări conform modelului etat kim (⟪एतत्किम्⟫) pentru următorul exercițiu de lectură și răspundeți la întrebări folosind cuvintele indicate și pronumele demonstrative, de exemplu eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):**
 
-:::media
+::: media
 ![](/images/lekt0401.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0401))
 :::

@@ -1,126 +1,126 @@
 ---
-title: Lektion 9
-subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
+title: 第9课
+subtitle: "Samāhāradvandva 与名词后缀 -ka/-aka"
 lesson_id: 9
-category: "Grammatik"
+category: "语法"
 status: "stable"
 last_reconstructed: 2026-05-07
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 9
 
-:::deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Das Samāhāradvandva ("Zusammenfassungsdvandva") <!-- TODO: Fallback translation -->
-- Die Bildung von Nominalstämmen mit den Suffixen **-ka** (taddhita) und **-aka** (kṛt) <!-- TODO: Fallback translation -->
-- Wortschatz zum Thema Berufe und soziale Rollen <!-- TODO: Fallback translation -->
-- Zitate aus klassischen Gesetzestexten (Dharmaśāstras) <!-- TODO: Fallback translation -->
+::: deleteme-box
+**在本课中，您将学习：**
+- 萨玛哈拉德万杜瓦（Samāhāradvandva，“综合复合词”）
+- 带有后缀 **-ka**（taddhita）和 **-aka**（kṛt）的名词词干构成
+- 关于职业和社会角色的词汇
+- 古典法论（Dharmaśāstras）中的引文
 :::
 ---
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva")
 
-:::grammar-box
-**Wenn ein Dvandva ausdrücken soll, dass eine Reihe von Dingen usw. eine Einheit bilden, dann steht es im Allgemeinen im Singular Neutrum:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**如果一个复合词意在表达一系列事物等构成一个整体，那么它通常以中性单数形式出现：**
 
-z.B. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ bedeutet nicht einfach "Nahrungsaufnahme (**āhāra** m.), Schlaf (**nidrā** f.), Paarung (**maithuna** n.) und Angst (**bhaya** n.)", sondern diese vier als **Einheit**, die das tierische Leben charakterisiert. <!-- TODO: Fallback translation -->
+例如，**āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ 并不简单地意味着“摄取食物（**āhāra** 阳性）、睡眠（**nidrā** 阴性）、交配（**maithuna** 中性）和恐惧（**bhaya** 中性）”，而是指作为**整体**的这四项，它们构成了动物生命的特征。
 :::
-Neben dieser Grundregel zur Bildung von Samāhāradvandvas gibt es noch eine Reihe weiterer Regeln, die man bei Pāṇini 2,4,2-17 oder z.B. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a findet. In den verschiedenen Stufen der Sprachentwicklung wurden nicht immer die gleichen Regeln eingehalten! <!-- TODO: Fallback translation -->
+除了这个构成 Samāhāradvandvas（复合词）的基本规则外，还有另外一系列规则，可以在帕尼尼 2,4,2-17 或例如 Mr. R. Kale 的《高级梵文语法》（1969 年重印版）§ 189 - 192 a 中找到。在语言发展的不同阶段，并非总是遵守相同的规则！
 
 ---
 
-## 9.2. Zur Bildung von Nominalstämmen
+## 9.2. 名词词干的构成
 
 ---
 
 ### 9.2.1. -ka (taddhita)
 
-:::grammar-box
-**Das taddhita-Suffix -ka bildet u.a.:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**taddhita后缀 -ka 主要构成：**
 
 1\. **Diminutiva (Verkleinerungsformen wie deutsch -chen, -lein, -li, -le):**
-   **putra m. "Sohn" » putraka m. ⟪पुत्रक⟫ "Söhnchen"** <!-- TODO: Fallback translation -->
+   **putra m. "Sohn" » putraka m. ⟪पुत्रक⟫ "小儿子"**
 
-2\. **Nomina, die eine annähernde Ähnlichkeit bezeichnen:**
-   **aśva m. "Pferd" » aśvaka m. ⟪अश्वक⟫ "Rösslein, ein dem Pferd ähnliches Ding"** <!-- TODO: Fallback translation -->
+2\. **Nomen, die eine annähernde Ähnlichkeit bezeichnen:**
+   **aśva m. "Pferd" » aśvaka m. ⟪अश्वक⟫ "Rösslein, ein dem Pferd ähnliches Ding"**
 
-3\. **Nomina ohne Bedeutungsunterschied zum zugrundeliegenden Nomen:**
-   **putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫** <!-- TODO: Fallback translation -->
+3\. **名词，其意义与基础名词无差异：**
+   **putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**
 
-4\. **Nomina, die ausdrücken "zum Begriff des Grundwortes in Beziehung stehend":**
+4\. **Nomen, die „zum Begriff des Grundwortes in Beziehung stehend“ ausdrücken:**
    **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "in Benares gebürtig, aus Benares stammend"**
-   **rūpa n. "Gestalt" » rūpaka 3 ⟪रूपक⟫ "die Gestalt von etwas besitzend"** <!-- TODO: Fallback translation -->
+   **rūpa n. "Gestalt" » rūpaka 3 ⟪रूपक⟫ "die Gestalt von etwas besitzend"**
 :::
 ---
 
 ### 9.2.2. -aka (kṛt), fem. oft -ikā
 
-:::grammar-box
-**Das kṛt-Suffix -aka, Femininum oft -ikā, bildet Nomina agentis (Nomina, die den Täter ausdrücken) zu jeder Wurzel.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**后缀 -aka（阴性常为 -ikā）用于构成动词名词（表示施事者的名词），适用于任何词根。**
 
-Ein auslautender Vokal der Wurzel sowie **-a-** an vorletzter Stelle der Wurzel werden durch ihre Dehnstufe (**vṛddhi**) ersetzt (es gibt einige Ausnahmen), die übrigen Vokale werden durch ihre Hochstufe (**guṇa**) ersetzt. <!-- TODO: Fallback translation -->
+词根末尾的元音以及词根倒数第二个位置的**-a-**会被其延长阶段（**vṛddhi**）所取代（存在一些例外），其余元音则会被其增强阶段（**guṇa**）所取代。
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**示例：**
 
-| Wurzel:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **kṛ** :br8 U:br⟪कृ⟫:br"machen" | **kāraka** :br(⟪कारक⟫) | "Bewirker, machend" | <!-- TODO: Fallback translation -->
-| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Hörer, Schüler,:brbuddh.: Anhänger des Buddha" | <!-- TODO: Fallback translation -->
-| **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Führer, Gebieter, Gatte,:brLiebhaber / Geliebte, Dame" | <!-- TODO: Fallback translation -->
-| **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Opferer, Opferpriester" | <!-- TODO: Fallback translation -->
-| **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Tänzer / Tänzerin" | <!-- TODO: Fallback translation -->
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" | <!-- TODO: Fallback translation -->
+| 词根: br⟪धातु⟫ | + -aka / -ikā (kṛt) | 含义 |
+| :--- | :--- | :--- |
+| **kṛ** :br8 U:br⟪कृ⟫:br“做” | **kāraka** :br(⟪कारक⟫) | “使因者，制造者” |
+| **śru** :br5 P:br⟪श्रु⟫:br“听” | **śrāvaka** m.:br(⟪श्रावक⟫) | “听者，弟子,:br佛教：佛陀的追随者” |
+| **nī** :br1 U:br⟪नी⟫:br“引导” | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | “领袖，主人，丈夫,:br情人 / 爱人，女士” |
+| **yaj** :br1 U:br⟪यज्⟫:br“祭祀” | **yājaka** m.:br(⟪याजक⟫) | “祭祀者，祭司” |
+| **nṛt** :br4 P:br⟪नृत्⟫:br“跳舞” | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | “舞者 / 舞女” |
+| **ji** :br1 P:br⟪जि⟫:br“胜利” | **jayaka** 3:br(⟪जयक⟫) | “胜利的” |
 
-:::grammar-box
-**Einige dieser Bildungen haben die engere Bedeutung: "das durch die Wurzel ausgedrückte gewohnheitsmäßig oder als Obliegenheit oder gut vollziehend".** <!-- TODO: Fallback translation -->
+::: grammar-box
+**这些构词中的一些具有更狭窄的含义：“以词根所表达的习惯性或义务性或良好地执行者”。**
 :::
-siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka** <!-- TODO: Fallback translation -->
+参见上文，例如 **śrāvaka**、**yājaka**、**jayaka**
 
-**Beispiele:** <!-- TODO: Fallback translation -->
+**Beispiele:**
 
-| Wurzel:br⟪धातु⟫ | + -aka (kṛt) | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Ackerbauer":br(tiefstufig!) | <!-- TODO: Fallback translation -->
-| **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" | <!-- TODO: Fallback translation -->
-| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" | <!-- TODO: Fallback translation -->
+| 词根: br⟪धातु⟩ | + -aka (kṛt) | 含义 |
+| :--- | :--- | :--- |
+| **kṛṣ** :br6 U:br⟪कृष्⟩:br“耕种” | **kṛṣaka** m.:br(⟪कृषक⟩) | “农夫”:br(弱级!) |
+| **kliś** :br9 P:br⟪क्लिशु⟩:br“折磨” | **kleśaka** m.:br(⟪क्लेशक⟩) | “折磨者” |
+| **khād** :br1 P:br⟪खाद्⟩:br“咀嚼，吃” | **khādaka** m.:br(⟪खादक⟩) | “食者，吃者” |
 
-Daneben gibt es noch einige weniger wichtige Verwendungen des Suffixes **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff. <!-- TODO: Fallback translation -->
+此外，后缀 **-aka** 还有一些不太重要的用法。参见 Wackernagel，《古印度语法》，第二卷，§45ff。
 
 ---
 
 ## 9.3. Wortliste
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**学习以下词汇：**
 
-- **adhyayana** n. (⟪अध्ययन⟫) : Lernen, insbes. Vedastudium <!-- TODO: Fallback translation -->
+- **adhyayana** n. (⟪अध्ययन⟫) : 学习，尤指吠陀研究
 
-:::media
+::: media
 ![](/images/lekt0903.webp)
-Abb.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai.
-(Bildquelle: [Details](/licenses#lekt0903)) <!-- TODO: Fallback translation -->
+图： **adhyayana** = ⟪अध्ययन⟫，斯里坎达古鲁维达亚拉姆，蒂鲁帕伦库德姆，马杜赖附近。
+（图片来源：[详情](/zh-CN/licenses#lekt0903)）
 :::
-- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Handwerker <!-- TODO: Fallback translation -->
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫)：工匠
 
-:::media
+::: media
 ![](/images/lekt0902.webp)
-Abb.: **kāru** = ⟪कारु⟫, Gujarat.
-(Bildquelle: [Details](/licenses#lekt0902)) <!-- TODO: Fallback translation -->
+图：**kāru** = ⟪कारु⟫，古吉拉特邦。
+（图片来源：[详情](/zh-CN/licenses#lekt0902)）
 :::
-- **kuśīlava** m. (⟪कुशीलव⟫) : (fahrender) Schausteller, Schauspieler, Sänger <!-- TODO: Fallback translation -->
-- **kusīda** n. (⟪कुसीद⟫) : Wucher <!-- TODO: Fallback translation -->
-- **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : ziehen <!-- TODO: Fallback translation -->
-- **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : pflügen <!-- TODO: Fallback translation -->
-  - davon: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : Ackerbau <!-- TODO: Fallback translation -->
-- **dāna** n. (⟪दान⟫) : Geben, Gabe, Freigebigkeit <!-- TODO: Fallback translation -->
-- **pratigraha** m. (⟪प्रतिग्रह⟫) : Empfangen, Geschenk <!-- TODO: Fallback translation -->
-- **pravacana** n. (⟪प्रवचन⟫) : Rede, (mündlicher) Unterricht <!-- TODO: Fallback translation -->
-- **pāśupālya** n. (⟪पाशुपाल्य⟫) : Viehhaltung, Viehzucht <!-- TODO: Fallback translation -->
-- zu **yaj** 1 U: <!-- TODO: Fallback translation -->
-  - **ijyā** f. (⟪इज्या⟫) : Opfer (aus \*yj » ij + Suffix **yā**) <!-- TODO: Fallback translation -->
-  - **yajana** n. (⟪यजन⟫) : Opfer im Auftrag von jemand anderem <!-- TODO: Fallback translation -->
-- **rūpa** n. (⟪रूप⟫) : Aussehen, Form, schöne Form, Natur, Wesen <!-- TODO: Fallback translation -->
-- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Handel <!-- TODO: Fallback translation -->
-- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Gehorsam, gehorsamer Dienst <!-- TODO: Fallback translation -->
+- **kuśīlava** 阳性名词（⟪कुशीलव⟫）：（巡回的）杂耍艺人，演员，歌手
+- **kusīda** 中性名词（⟪कुसीद⟫）：高利贷
+- **kṛṣ** 第一人称单数现在时（karṣati）⟪कृष्⟫ ⟪कर्षति⟫：拉
+- **kṛṣ** 第六人称单数现在时（kṛṣati）⟪कृष्⟫ ⟪कृषति⟫：耕种
+  - 派生词：**kṛṣi** 阴性名词 / **kṛṣikā** 阴性名词（⟪कृषि⟫ / ⟪कृषिका⟫）：农业
+- **dāna** 中性名词（⟪दान⟫）：给予，礼物，慷慨
+- **pratigraha** 阳性名词（⟪प्रतिग्रह⟫）：接受，礼物
+- **pravacana** 中性名词（⟪प्रवचन⟫）：演讲，（口头的）教学
+- **pāśupālya** 中性名词（⟪पाशुपाल्य⟫）：畜牧业，牲畜饲养
+- 关于 **yaj** 第一人称单数现在时：
+  - **ijyā** 阴性名词（⟪इज्या⟫）：祭祀（源自 \*yj » ij + 后缀 **yā**）
+  - **yajana** 中性名词（⟪यजन⟫）：代他人进行的祭祀
+- **rūpa** 中性名词（⟪रूप⟫）：外貌，形状，美好的形态，自然，本质
+- **vāṇijya** 中性名词 / **vāṇijyā** 阴性名词 / **vaṇijyā** 阴性名词（⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫）：商业
+- **śuśrūṣā** 阴性名词（⟪शुश्रूषा⟫）：服从，顺从的服务
 
 ---
 
@@ -133,55 +133,55 @@ Abb.: **kāru** = ⟪कारु⟫, Gujarat.
 4\. **dhenuka** m. ⟪धेनुका⟫
 5\. **jayaka** ⟪जयक⟫
 6\. **rakṣikā** ⟪रक्षिका⟫
-7\. **karṣaka** ⟪कर्षक⟫ <!-- TODO: Fallback translation -->
+7\. **karṣaka** ⟪कर्षक⟫
 
-:::media
+::: media
 ![](/images/lekt0901.webp)
-Abb.: **karṣaka** = ⟪कर्षक⟫.
-(Bildquelle: [Details](/licenses#lekt0901)) <!-- TODO: Fallback translation -->
+图：**karṣaka** = ⟪कर्षक⟫。
+（图片来源：[详情](/zh-CN/licenses#lekt0901)）
 :::
-8\. kleśa (⟪क्लेश⟫)
-9\. nāyikātva (⟪नायिकात्व⟫)
-10\. tantraka (⟪तन्त्रक⟫)
-11\. nartaka (f. nartakī) (⟪नर्तक⟫ / ⟪नर्तकी⟫)
-12\. naraka (⟪नरक⟫)
-13\. lābhaka (⟪लाभक⟫)
-14\. īśvaratā (⟪ईश्वरता⟫)
-15\. dhenukā f. (⟪धेनुका⟫)
-16\. yodhaka (⟪योधक⟫)
-17\. kopa (⟪कोप⟫)
-18\. veśaka (⟪वेशक⟫)
-19\. darśaka (⟪दर्शक⟫)
-20\. kopaka (⟪कोपक⟫) <!-- TODO: Fallback translation -->
+8\. kleśa（⟪क्लेश⟫）
+9\. nāyikātva（⟪नायिकात्व⟫）
+10\. tantraka（⟪तन्त्रक⟫）
+11\. nartaka（阴性 nartakī）（⟪नर्तक⟫ / ⟪नर्तकी⟫）
+12\. naraka（⟪नरक⟫）
+13\. lābhaka（⟪लाभक⟫）
+14\. īśvaratā（⟪ईश्वरता⟫）
+15\. dhenukā 阴性（⟪धेनुका⟫）
+16\. yodhaka（⟪योधक⟫）
+17\. kopa（⟪कोप⟫）
+18\. veśaka（⟪वेशक⟫）
+19\. darśaka（⟪दर्शक⟫）
+20\. kopaka（⟪कोपक⟫）
 
-**B) Übersetzen Sie:** <!-- TODO: Fallback translation -->
+**B) 翻译：**
 
-1. Aufgaben aller Zweimalgeborenen: <!-- TODO: Fallback translation -->
+1. 所有再生者的职责：
    **ijyādhyayanadānāni**
    ⟪इज्याध्ययनदानानि⟫
-   (Yājñavalkyadharmaśāstra I, 118) <!-- TODO: Fallback translation -->
+   (《耶若伏吉法论》I, 118)
 
-2. Spezifische Aufgaben eines Brahmanen: <!-- TODO: Fallback translation -->
+2. 婆罗门的具体职责：
    **pravacanayājanapratigrahāḥ**
    ⟪प्रवचनयाजनप्रतिग्रहाः⟫
-   (Gautamadharmasūtra X, 2) <!-- TODO: Fallback translation -->
+   (《高塔玛法论》第十卷，第二章)
 
-3. Spezifische Aufgaben eines Kṣatriya: <!-- TODO: Fallback translation -->
+3. 刹帝利的特定职责：
    **rakṣaṇaṃ sarvabhūtānām**
    ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-   (sarvabhūtānām = Genitiv (Wesfall): "aller Wesen"; Gautamadharmasūtra X, 7) <!-- TODO: Fallback translation -->
+   (sarvabhūtānām = 属格（所有格）：“所有众生”；《乔荼波尼法论》X, 7)
 
-4. Spezifische Aufgaben eines Vaiśya: <!-- TODO: Fallback translation -->
+4. 吠舍的具体职责：
    **kṛṣivāṇijyapāśupālyakusīdam**
    ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
-   (nach Gautamadharmasūtra X, 49) <!-- TODO: Fallback translation -->
+   （据《高塔玛法论》第十卷第49条）
 
-5. Aufgaben eines Śūdra: <!-- TODO: Fallback translation -->
+5. Śūdra的职责：
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
    ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
-   (nach Kauṭilīya-Arthaśāstra 1.3.8.)
-   Erklärung: dvijātīnām = Genitiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen"); kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten). <!-- TODO: Fallback translation -->
+   （据《考底利耶政事论》1.3.8）
+   释义：dvijātīnām = 复数属格（与格）dvijāti（此处译为：“相对于再生者”）；kārukuśīlavakarma 是一个前成分为复合词（kārukuśīlava）的持业释。karma = karman n. “行为、活动、业”（词根 kṛ 8 U）的单数主格。请翻译“……（由复合词所指代者）的行为/活动”（属格）。
 
-6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.** <!-- TODO: Fallback translation -->
+6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
-   (nach Kauṭilīya-Arthaśāstra 1.4.1.) <!-- TODO: Fallback translation -->
+   （据《政事论》1.4.1。）

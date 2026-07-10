@@ -48,7 +48,7 @@ A) Try to determine the possible meanings of the following words:
 
 19\. darśaka ⟪दर्शक⟫ : 3 seeing
 
-20\. kopaka ⟪कोपक⟫ : 3 someone who is easily angered, hot-tempered
+20\. kopaka ⟪कोपक⟫ : 3 someone who is easily angry, short-tempered
 
 B) Translate:
 
@@ -66,7 +66,7 @@ pravacanayājanapratigrahāḥ ⟪प्रवचनयाजनप्रति�
 
 (Gautamadharmasūtra X,2)
 
-Teaching, sacrificing on behalf of others, accepting gifts.
+Teaching, sacrificing on behalf, accepting gifts.
 
 3\. Specific duties of a Kṣatriya:
 
@@ -95,7 +95,7 @@ dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्वि�
 Explanation:
 dvijātīnām = Genitive (oblique case) plural of dvijāti (translate here: "towards the twice-born")
 
-kārukuśīlavakarma is a Tatpuruṣa compound with a Dvandva (kārukuśīlava) in the prior member. karma = Nom. sg. of karman n. "deed, activity, karma" from the root kṛ 8 U). Translate "deed / activity of the ... (Genitive)" (designated by the Dvandva).
+kārukuśīlavakarma is a Tatpuruṣa compound with a Dvandva (kārukuśīlava) in the prior member. karma = Nom. sg. of karman n. "deed, activity, karma" from the root kṛ 8 U). Translate "deed / activity of the ... (genitive)" (designated by the Dvandva).
 
 Obedience towards the twice-born, activities for livelihood, activity as a craftsman or wandering showman.
 
@@ -105,8 +105,8 @@ Obedience towards the twice-born, activities for livelihood, activity as a craft
 
 Economy is farming, animal husbandry, and trade.
 
-:::media
+::: media
 ![](/images/uebung013.webp)
-Fig.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-(Image source: [Details](/en/licenses#uebung013))
+Fig.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟩
+(Image source: [Details](/licenses#uebung013))
 :::

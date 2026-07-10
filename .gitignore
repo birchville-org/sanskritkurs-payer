@@ -18,3 +18,84 @@ start_translation.sh
 .gsd/
 README_GSD_PROJ_INIT.md
 author-server/node_modules
+
+# ── Aufräumung Juni 2025 ──────────────────────────────────────
+# Build / CI Artefakte
+audit_results.txt
+/lighthouse-*
+build_log.txt
+
+# Einmalige Root-Artefakte
+index.html
+wortliste_prev.md
+update_settings.py
+external.yml
+
+# Test-Dateien in docs/
+docs/test*.md
+docs/test*.mjs
+docs/testfile.md
+docs/grid-test.md
+docs/sanskrit-grid-test.md
+
+# Einmalige Fix-Scripts (bereits abgearbeitet)
+scripts/fix_gramboxes_*.py
+scripts/fix_signalrot.py
+scripts/fix_syntax.py
+scripts/start_mlx_server.sh
+scripts/lektion02_test.md
+
+# Komplettes Archiv (History bleibt in Git)
+archive/
+
+# Scratch & Temporary Testing Scripts
+.agents/
+.codegraph/
+*.bak
+*.png
+venv/
+proj
+/check_*.py
+/auto_fix_*.py
+/analyze_*.py
+/find_*.py
+/fix_*.py
+/inspect_*.js
+/normalize_to_3.py
+/qa_viewer_dump.html
+/repair_typos.py
+/restart_devserver.sh
+/revert_syntax.py
+/scan_syntax.py
+/scratch_*.html
+/scratch_*.js
+/screenshot_tab.js
+/strong_rules.txt
+/test_*.py
+/test_*.js
+/test_*.mjs
+/test_*.html
+/unnest_media.py
+docs/public/test_hydration.html
+scripts/fix_*.py
+scripts/migrate_*.py
+scripts/remove_*.py
+scripts/repair_*.py
+scripts/sync_*.py
+scripts/syntax_*.py
+
+# Planned/Inactive languages (not in v1.5)
+docs/akk/
+docs/cop/
+docs/el/
+docs/fa/
+docs/grc/
+docs/zh/
+
+# Development helper guides/scripts
+/files_to_translate.txt
+/cleanup.sh
+docs/AUTHORS_GUIDE.md
+docs/public/qa_help.md
+
+

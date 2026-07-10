@@ -2,11 +2,11 @@
 outline: 2
 ---
 
-:::deleteme-box
+::: deleteme-box
 **מקור וזכויות יוצרים**
 
 :::
-# מילון סנסקריט–גרמני
+# מילון סנסקריט–עברית
 
 *מכין מתוך רשימות המילים של קורס הסנסקריט של אלוויס פאיר.  
 © סימון דונהייזן (FS 2011), לקציות 1–46. משולב עם לקציות 47–61.*
@@ -99,7 +99,7 @@ outline: 2
 
 ## ⟪इ⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪इति⟫ | [iti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=iti&filter=roman&accent=no&transLit=roman) | — | כך | [11](/lektionen/lektion11#_11-2-wortliste) |
 | ⟪इत्थम्⟫ | [ittham](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ittham&filter=roman&accent=no&transLit=roman) | Adv | בדרך זו, כך | [43](/lektionen/lektion43#_43-4-wortliste) |
@@ -113,13 +113,13 @@ outline: 2
 
 ## ⟪ई⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪ईश्वर⟫ | [īśvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=īśvara&filter=roman&accent=no&transLit=roman) | m | אדון, שליט, אלוהים (מונואיסטי) | [2](/lektionen/lektion02#_2-5-wortliste) |
 
 ## ⟪उ⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪उत्तम⟫ | [uttama](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=uttama&filter=roman&accent=no&transLit=roman) | 3 | עליון, הטוב ביותר | [43](/lektionen/lektion43#_43-4-wortliste) |
 | ⟪उत्साद⟫ | [utsāda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=utsāda&filter=roman&accent=no&transLit=roman) | m | אובדן | [51](/lektionen/lektion51#_51-6-wortliste) |
@@ -131,7 +131,7 @@ outline: 2
 
 ## ⟪ऊ⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪ऊह⟫ | [ūha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ūha&filter=roman&accent=no&transLit=roman) | m | מחשבה, נימוק | [24](/lektionen/lektion24#_24-4-wortliste) |
 
@@ -139,34 +139,34 @@ outline: 2
 
 ## ⟪ऋ⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪ऋतु⟫ | [ṛtu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṛtu&filter=roman&accent=no&transLit=roman) | m | תהליך מחזורי, עונה, תקופת זמן, וסת, זמן שבו האישה פורייה ומוכנה להפריד | [51](/lektionen/lektion51#_51-6-wortliste) |
 | ⟪ऋषि⟫ | [ṹṣi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ṹṣi&filter=roman&accent=no&transLit=roman) | m | חכם ודאי, מחבר שירי ודאי | [10](/lektionen/lektion10#_10-5-wortliste) |
 
 ## ⟪ए⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| סנסקריט | IAST | מין | עברית | שיעור |
 |---|---|---|---|---|
-| ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | Adv | במקום אחד | [51](/lektionen/lektion51#_51-6-wortliste) |
+| ⟪एकत्र⟫ | [ekatra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ekatra&filter=roman&accent=no&transLit=roman) | מילת תואר | במקום אחד | [51](/lektionen/lektion51#_51-6-wortliste) |
 | ⟪एव⟫ | [eva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=eva&filter=roman&accent=no&transLit=roman) | — | מדגיש את המילה הקודמת | [13](/lektionen/lektion13#_13-9-wortliste) |
 | ⟪एवम्⟫ | [evam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=evam&filter=roman&accent=no&transLit=roman) | — | כך (באופן תלוי, למשל **evaṃ jayati** "כך הוא מנצח") | [11](/lektionen/lektion11#_11-2-wortliste) |
 
 ## ⟪ओ⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| संस्कृतम् | IAST | लिंगम् | עברית | שיעור |
 |---|---|---|---|---|
 | ⟪ओष्ठ⟫ | [oṣṭha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=oṣṭha&filter=roman&accent=no&transLit=roman) | m | שפה | [20](/lektionen/lektion20#_20-9-wortliste) |
 
 ## ⟪औ⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| संस्कृतम् | IAST | लिंगम् | עברית | שיעור |
 |---|---|---|---|---|
 | ⟪औपकारिक⟫ | [aupakārika](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aupakārika&filter=roman&accent=no&transLit=roman) | 3 | f.: -⟪ई⟫ : מועיל | [24](/lektionen/lektion24#_24-4-wortliste) |
 
 ## ⟪क⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| סנסקריט | IAST | מין | עברית | שיעור |
 |---|---|---|---|---|
 | ⟪कदली⟫ | [kadalī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kadalī&filter=roman&accent=no&transLit=roman) | f | עץ בננה (_Musa_ sp.) | [52](/lektionen/lektion52#_52-7-wortliste) |
 | ⟪कन्या⟫ | [kanyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=kanyā&filter=roman&accent=no&transLit=roman) | f | נערה צעירה, בת, בתולה | [41](/lektionen/lektion41#_41-3-wortliste) |
@@ -246,13 +246,13 @@ outline: 2
 
 ## ⟪घ⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪घात⟫ | [ghāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghāta&filter=roman&accent=no&transLit=roman) | m | רצח | [17](/lektionen/lektion17#_17-6-wortliste) |
 
 ## ⟪च⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪चक्र⟫ | [cakra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=cakra&filter=roman&accent=no&transLit=roman) | n | גלגל | [52](/lektionen/lektion52#_52-7-wortliste) |
 | ⟪चतुर्थ⟫ | [caturtha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=caturtha&filter=roman&accent=no&transLit=roman) | 3 | (f.: ⟪चतुर्थी⟩): רביעי | [15](/lektionen/lektion15#_15-8-wortliste) |
@@ -265,13 +265,13 @@ outline: 2
 
 ## ⟪छ⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| संस्कृतम् | IAST | लिंगम् | עברית | שיעור |
 |---|---|---|---|---|
 | ⟪छन्न⟫ | [channa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=channa&filter=roman&accent=no&transLit=roman) | n | שמיכה, מחסה | [49](/lektionen/lektion49#_49-4-wortliste) |
 
 ## ⟪ज⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪जटा⟫ | [jaṭā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=jaṭā&filter=roman&accent=no&transLit=roman) | f | צמה (תסרוקת של אסכט) | [51](/lektionen/lektion51#_51-6-wortliste) |
 | ⟪जन्मन्⟫ | [janman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=janman&filter=roman&accent=no&transLit=roman) | n | לידה | [43](/lektionen/lektion43#_43-4-wortliste) |
@@ -286,7 +286,7 @@ outline: 2
 
 ## ⟪त⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪तत्त्व⟫ | [tattva](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tattva&filter=roman&accent=no&transLit=roman) | n | אמיתות, אמת, מציאות (⟪तद्⟫ + ⟪त्व⟫ = זה-יות) | [24](/lektionen/lektion24#_24-4-wortliste) |
 | ⟪तन्⟫ ⟪तनोति⟫ | [tan](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=tan&filter=roman&accent=no&transLit=roman) | 8 U (tanoti) | מתיחה | [8](/lektionen/lektion08#_8-5-wortliste) |
@@ -309,7 +309,7 @@ outline: 2
 
 ## ⟪द⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪दण्ड⟫ | [daṇḍa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daṇḍa&filter=roman&accent=no&transLit=roman) | m | מקל, מוטות, עונש | [18](/lektionen/lektion18#_18-4-wortliste) |
 | ⟪दण्डनीति⟫ | [daṇḍanīti](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=daṇḍanīti&filter=roman&accent=no&transLit=roman) | f | פוליטיקה (טאטפורושה מ-daṇḍa m. = "מקל, כוח, שלטון, עונש" ו-nīti f. = "ניהול נכון") | [5](/lektionen/lektion05#_5-4-wortliste) |
@@ -343,7 +343,7 @@ outline: 2
 
 ## ⟪ध⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | ("מה שנקבע", כלומר) צדק, חוק, מנהג, אופי | [11](/lektionen/lektion11#_11-2-wortliste) |
 | ⟪धर्म⟫ | [dharma](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=dharma&filter=roman&accent=no&transLit=roman) | m | מה שנקבע ומחזיק = דהרמה | [25](/lektionen/lektion25#_25-5-wortliste) |
@@ -382,7 +382,7 @@ outline: 2
 
 ## ⟪प⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪पञ्जर⟫ | [pañjara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=pañjara&filter=roman&accent=no&transLit=roman) | n | כלוב | [49](/lektionen/lektion49#_49-4-wortliste) |
 | ⟪पण्डित⟫ | [paṇḍita](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=paṇḍita&filter=roman&accent=no&transLit=roman) | 3 | חכם, פקיד, למדן | [50](/lektionen/lektion50#_50-2-wortliste) |
@@ -449,13 +449,13 @@ outline: 2
 
 ## ⟪फ⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| סנסקריט | IAST | מין | עברית | שיעור |
 |---|---|---|---|---|
-| ⟪फल⟫ | [phala](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=phala&filter=roman&accent=no&transLit=roman) | n | פרי (גם במובן העקיף: פרי (קארמי) של מעשה) | [7](/lektionen/lektion07#_7-6-wortliste) |
+| ⟪फल⟫ | [phala](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=phala&filter=roman&accent=no&transLit=roman) | n | פרי (גם במובן העקיף: תוצאה של מעשה) | [7](/lektionen/lektion07#_7-6-wortliste) |
 
 ## ⟪ब⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪बन्दी⟫ | [bandī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bandī&filter=roman&accent=no&transLit=roman) | f | אסירה, שלל | [51](/lektionen/lektion51#_51-6-wortliste) |
 | ⟪बलि⟫ | [bali](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bali&filter=roman&accent=no&transLit=roman) | m | מס, תרומה, שבח | [51](/lektionen/lektion51#_51-6-wortliste) |
@@ -488,7 +488,7 @@ outline: 2
 
 ## ⟪म⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪मणि⟫ | [maṇi](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=maṇi&filter=roman&accent=no&transLit=roman) | m | אבן־יקרה | [51](/lektionen/lektion51#_51-6-wortliste) |
 | ⟪मत्स्य⟫ | [matsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=matsya&filter=roman&accent=no&transLit=roman) | m | דג | [29](/lektionen/lektion29#_29-2-wortliste) |
@@ -538,7 +538,7 @@ outline: 2
 
 ## ⟪य⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪यज्⟫ ⟪यजति⟫ | [yaj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yaj&filter=roman&accent=no&transLit=roman) | 1 U (yajati) | להכבד בקורבן, להקריב | [6](/lektionen/lektion06#_6-7-wortliste) |
 | ⟪यज्ञ⟫ | [yajña](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yajña&filter=roman&accent=no&transLit=roman) | m | קורבן | [10](/lektionen/lektion10#_10-5-wortliste) |
@@ -553,7 +553,7 @@ outline: 2
 
 ## ⟪र⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| संस्कृत | IAST | מין | עברית | לֵקְצִיָּה |
 |---|---|---|---|---|
 | ⟪रक्ष्⟫ ⟪रक्षति⟫ | [rakṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=rakṣ&filter=roman&accent=no&transLit=roman) | 1 P (rakṣati) | לשמור | [8](/lektionen/lektion08#_8-5-wortliste) |
 
@@ -570,7 +570,7 @@ outline: 2
 
 ## ⟪ल⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪लक्षण⟫ | [lakṣaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=lakṣaṇa&filter=roman&accent=no&transLit=roman) | n | סימן, תכונה, תכונה | [20](/lektionen/lektion20#_20-9-wortliste) |
 | ⟪लघु⟫ | [laghu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=laghu&filter=roman&accent=no&transLit=roman) | 3 | קל (לא כבד, לא קשה), מהיר, קצר (בהבעה) | [48](/lektionen/lektion48#_48-4-wortliste) |
@@ -584,7 +584,7 @@ outline: 2
 
 ## ⟪व⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪वञ्चक⟫ | [vañcaka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vañcaka&filter=roman&accent=no&transLit=roman) | m | מרמה | [43](/lektionen/lektion43#_43-4-wortliste) |
 | ⟪वणिज्⟫ | [vaṇij](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaṇij&filter=roman&accent=no&transLit=roman) | m | סוחר | [43](/lektionen/lektion43#_43-4-wortliste) |
@@ -647,7 +647,7 @@ outline: 2
 
 ## ⟪श⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪शकुनि⟫ | [śakuni](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śakuni&filter=roman&accent=no&transLit=roman) | m | ציפור | [51](/lektionen/lektion51#_51-6-wortliste) |
 | ⟪शब्द⟫ | [śabda](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śabda&filter=roman&accent=no&transLit=roman) | m | צליל, קול, אות קול: מילה | [18](/lektionen/lektion18#_18-4-wortliste) |
@@ -686,13 +686,13 @@ outline: 2
 
 ## ⟪स⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪संख्या⟫ | [saṃkhyā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṃkhyā&filter=roman&accent=no&transLit=roman) | f | ספירה, מניין; ⟪सांख्य⟫ n.: אחד מששת המערכות הפילוסופיות (בקיצור: Basham, Wonder עמ' 326f.) | [24](/lektionen/lektion24#_24-4-wortliste) |
 
 | ⟪संपुट⟫ | [saṃpuṭa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṃpuṭa&filter=roman&accent=no&transLit=roman) | m | קופסה (כאן: חבילה, ערימה) | [43](/lektionen/lektion43#_43-4-wortliste) |
 | ⟪संयक्⟫ | [saṃyak](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṃyak&filter=roman&accent=no&transLit=roman) | Adv | נכון, אמת, בדרך הראויה; לחלוטין, במלואו | [50](/lektionen/lektion50#_50-2-wortliste) |
-| ⟪सकाश⟫ | [sakāśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sakāśa&filter=roman&accent=no&transLit=roman) | m | נוכחות, נ存在 | [42](/lektionen/lektion42#_42-2-wortliste) |
+| ⟪सकाश⟫ | [sakāśa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sakāśa&filter=roman&accent=no&transLit=roman) | m | נוכחות | [42](/lektionen/lektion42#_42-2-wortliste) |
 | ⟪सङ्ग⟫ | [saṅga](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅga&filter=roman&accent=no&transLit=roman) | m | הדבקות ב-, מגע עם (⟪तृतीयया⟫) | [46](/lektionen/lektion46#_46-2-wortliste) |
 | ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | n | (ל-⟪सम्⟫-⟪हन्⟩: להכות יחד): להקה, אשף, קהילה (למשל בודהיסטית) | [41](/lektionen/lektion41#_41-3-wortliste) |
 | ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | אמת | [10](/lektionen/lektion10#_10-5-wortliste) |
@@ -757,7 +757,7 @@ outline: 2
 
 ## ⟪ह⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| Sanskrit | IAST | Genus | עברית | Lektion |
 |---|---|---|---|---|
 | ⟪हर्ष⟫ | [harṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=harṣa&filter=roman&accent=no&transLit=roman) | m | (הרמת שערות הגוף), שמחה | [25](/lektionen/lektion25#_25-5-wortliste) |
 | ⟪हस्त⟫ | [hasta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=hasta&filter=roman&accent=no&transLit=roman) | m | יד | [18](/lektionen/lektion18#_18-4-wortliste) |

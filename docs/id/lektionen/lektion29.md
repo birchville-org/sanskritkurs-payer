@@ -12,9 +12,10 @@ status: stable
 ## 29.1. Use of the Parasmaipada (⟪परस्मैपद⟫) and Ātmanepada (⟪आत्मनेपद⟫) in the Causative
 
 
-:::grammar-box
+::: grammar-box
 **The causative is Ubhayapada (⟪उभयपद⟫) with few exceptions**
-::::::grammar-box
+:::
+::: grammar-box
 **In the causative, the Ātmanepada (⟪आत्मनेपद⟫) is used:**
 
 **1. When the result of the caused action benefits the causer:**
@@ -38,7 +39,7 @@ Thus, the rules generally correspond to the rules for the use of the Ātmanepada
 
 Prefixes:
 
-:::indent
+::: indent
 ⟪उद्⟫° : up, upward, aloft, out, out-
 
 ⟪परि⟫° : around, about (place, time), about
@@ -53,7 +54,7 @@ Prefixes:
 
 ⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : to consume, to devour
 
-:::indent
+::: indent
 Fut. ⟪ग्रसिष्यते⟫  
 Pass. ⟪ग्रस्यते⟫  
 Caus. ⟪ग्रासयति⟫  
@@ -66,7 +67,7 @@ Inf. ⟪ग्रसितुम्⟫
 
 ⟪परिव्राजक⟫ m.: wanderer, wandering monk, pilgrim
 
-:::media
+::: media
 ![](/images/lekt2903.webp)
 Fig.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
@@ -81,12 +82,13 @@ Pushkar = ⟪पुष्कर⟫
 ⟪मत्स्य⟫ m.: fish
 
 from which:
-:::indent
+::: indent
 ⟪मात्स्य⟫ 3: belonging to fish (to fish)
-::::::media
+:::: media
 ![](/images/lekt2901.webp)
 Fig.: ⟪मत्स्यः⟫
 (Image source: [Details](/en/licenses#lekt2901))
+::::
 :::
 ⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): gentle, mild, soft; slow, weak
 
@@ -94,7 +96,7 @@ Fig.: ⟪मत्स्यः⟫
 
 ⟪रम्⟫ 1Ā ⟪रमते⟫ : to stand still, to rest, to linger; to take pleasure, to delight
 
-:::indent
+::: indent
 Fut. ⟪रंस्यते⟫  
 Pass. ⟪रम्यते⟫  
 Caus. ⟪रमयति⟫  
@@ -107,7 +109,7 @@ Inf. ⟪रन्तुम्⟫
 
 ⟪पूज्⟫ 10P ⟪पूजयति⟫ : to honor, to revere
 
-:::indent
+::: indent
 PPP ⟪पूजित⟫
 :::
 ## 29.3. Translation Exercise for Review
@@ -137,15 +139,16 @@ Explanation: ⟪आत्मसु⟫ = Loc. sg. of ⟪आत्मन्⟫ m. 
 **⟪बलीयान⟫**⟪अबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।१४।⟫
 
 ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।१५।⟫
-:::indent
+::: indent
 **⟪चतुर्व⟫**⟪र्णाश्रमो⟫ ⟪लोको⟫  
 **⟪राज्ञा⟫** ⟪दण्डेन⟫ ⟪पालितः⟫ ⟪।⟫  
 ⟪स्वधर्मकर्माभिरतो⟫  
 ⟪वर्तते⟫ **⟪स्वेषु⟫ ⟪वर्त्मसु⟫** ⟪॥१६॥⟫
-::::::media
+:::: media
 ![](/images/lekt2902.jpg)
 Fig.: ⟪मात्स्यन्याय⟫:
 (Image source: [Details](/en/licenses#lekt2902))
+::::
 :::
 Explanations:
 
@@ -171,7 +174,7 @@ Explanations:
 
 ## 29.4. Future and Causative for the Roots Learned So Far
 
-:::grammar-box
+::: grammar-box
 
 | Root:br⟪धातु⟫ | Future:br⟪ऌत्⟫ | Causative:br⟪कारित⟫ |
 | :--- | :--- | :--- |
@@ -260,6 +263,8 @@ Explanations:
 |⟪हन्⟫ ⟪२⟫ ⟪प⟫|⟪हनिष्यति⟫|⟪घातयति⟫|
 |⟪हृ⟫ ⟪१⟫ ⟪उ⟫|⟪हरिष्यति⟫|⟪हारयति⟫|
 
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt2903:** Pushkar = ⟪पुष्कर⟫ [Image source: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Accessed 2008-12-20. -- Creative Commons License (Attribution, non-commercial use, share alike)]
+:::

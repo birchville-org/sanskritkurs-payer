@@ -1,18 +1,18 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Writing Exercise 1
+## Script Exercise 1
 
-Sanskrit has been and continues to be written in a variety of scripts. The following overview provides a small selection from these scripts:
+Sanskrit was and is written in a multitude of scripts. The following overview provides a small selection from these scripts:
 
 ![](/images/schrift001.webp)  
 Fig.: Script samples Sanskrit  
 \[Image source: Wikipedia, GNU FDL License\]
 
-The most important modern North Indian Sanskrit script is Devanāgarī:
+Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
 ![](/images/schrift002.webp)
 
-Each consonant character denotes a following "a" with the consonant. If the pure consonant is to be written (without a following vowel), this must be indicated by an underlined slash -- virāma = ⟪विराम⟫ --:
+Each consonant character denotes a following "a" with the consonant. If the pure consonant is to be written (without following vowel), this must be indicated by an underlined slash -- virāma = ⟪विराम⟫ --:
 
 ⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
 
@@ -26,11 +26,11 @@ The order when writing these combinations of consonant + vowel is:
 
 ![](/images/schrift003.jpg)
 
-When writing, each letter including the crossbar is completed on the top line before the next letter is written.
+When writing, each letter including the crossbar is completed on the upper line before the next letter is written.
 
 ## Exercise
 
-Write in Devanāgarī:
+Schreiben Sie in Devanāgarī:
 
 kaka kāka kapa kapi kaṭa kuṭi tap tac cāpa kṛta caita cūta pat pitā pīta puta cātu cāti ṭīkā ṭāka ṭoṭa tepa tṛta kḷp kopa kaupa poka peta tṝ pṝ pṛc pat pati capeṭā
 
@@ -40,4 +40,4 @@ Read and transliterate:
 
 Additional reading exercise:
 
-⟪पिता⟫ Father, ⟪कपि⟫ Monkey, ⟪कृत⟫ done, ⟪टीका⟫ Subcommentary, ⟪तत्⟫ this, ⟪तट⟫ Shore, ⟪पत्⟫ to shoot forth, ⟪पट⟫ Fabric, ⟪काच⟫ Glass, ⟪काकुत्⟫ Palate, ⟪चित्⟫ to perceive, ⟪पृच्⟫ to mix, ⟪पोटक⟫ Servant, ⟪चेतु⟫ Intention, ⟪तौतातित⟫ Follower of Kumārila (Mīmāṃsā), ⟪तूत⟫ Mulberry tree, ⟪पीत⟫ drunk, ⟪पीति⟫ Drink, ⟪कॢप्⟫ to fit, ⟪कृपते⟫ he laments, ⟪पुटी⟫ Fold, ⟪चापि⟫ likewise, ⟪तोक⟫ Offspring, ⟪तृपत्⟫ full, ⟪पॄ⟫ to fill, ⟪कृकाटी⟫ Neck joint, ⟪पूपौ⟫ two cakes, ⟪पैतृकी⟫ paternal (fem.), ⟪कौट⟫ fraudulent, ⟪कच⟫ Topknot, ⟪कुतपे⟫ on the goat-hair mat, ⟪कुचौ⟫ Breast, ⟪चकिता⟫ frightened (fem.)
+⟪पिता⟩ Father, ⟪कपि⟩ Monkey, ⟪कृत⟩ done,  ⟪टीका⟩ Subcommentary, ⟪तत्⟩ this, ⟪तट⟩ Shore, ⟪पत्⟩ to shoot forth, ⟪पट⟩ Fabric, ⟪काच⟩ Glass,  ⟪काकुत्⟩ Palate, ⟪चित्⟩ to perceive, ⟪पृच्⟩ to mix,  ⟪पोटक⟩ Servant, ⟪चेतु⟩ Intention, ⟪तौतातित⟩ Follower of Kumārila (Mīmāṃsā), ⟪तूत⟩ Mulberry tree, ⟪पीत⟩ drunk,  ⟪पीति⟩ Drink, ⟪कॢप्⟩  to fit, ⟪कृपते⟩ he laments, ⟪पुटी⟩ Fold, ⟪चापि⟩ likewise, ⟪तोक⟩ Offspring, ⟪तृपत्⟩ full, ⟪पॄ⟩ to fill, ⟪कृकाटी⟩ Neck joint, ⟪पूपौ⟩ two cakes, ⟪पैतृकी⟩ paternal (fem.), ⟪कौट⟩ fraudulent, ⟪कच⟩ Head hair, ⟪कुतपे⟩ on the goat-hair mat, ⟪कुचौ⟩ Bosom, ⟪चकिता⟩ startled (fem.)

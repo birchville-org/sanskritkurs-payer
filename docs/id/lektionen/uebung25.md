@@ -10,8 +10,6 @@ last_reconstructed: 2026-05-15
 
 A) Complete the declension examples from Lesson 16 by adding 4. Dative (⟪चतुर्थी⟫) and 5. Ablative (⟪पञ्चमी⟫).
 
-:::grammar-box
-
 ### ⟪१⟫. **⟪सन्त्⟫** (being, good)
 
 | Case | m. Singular | m. Plural | n. Singular | n. Plural |
@@ -41,7 +39,6 @@ A) Complete the declension examples from Lesson 16 by adding 4. Dative (⟪च�
 | 3. Instr. | ⟪येन⟫ | ⟪यैः⟫ | ⟪येन⟫ | ⟪यैः⟫ | ⟪यया⟫ | ⟪याभिः⟫ |
 | 4. Dat. | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्यै⟫ | ⟪याभ्यः⟫ |
 | 5. Abl. | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्याः⟫ | ⟪याभ्यः⟫ |
-:::
 B) Translate and resolve the compounds into Sanskrit:
 
 ⟪१⟫. **⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫**
@@ -66,7 +63,7 @@ Buddhas and Arhants are freed from suffering. For they have attained the liberat
 ⟪७⟫. **⟪लोभ⟫en ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫**
 Through greed, hatred, and delusion, people are ruined. When the time has come, they then fall into a hell.
 
-:::media
+::: media
 ![](/images/uebung040.webp)
 Fig.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
 (Image source: [Details](/en/licenses#uebung040))
@@ -117,7 +114,7 @@ If someone, out of arrogance, greed, anger, or fear, pronounces a false judicial
 ⟪दारिद्र्यमप्रदानेन⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫  
 Hells arise because of evil, evil arises from poverty, poverty arises from not giving.
 
-:::media
+::: media
 ![](/images/uebung041.webp)
 Fig.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Image source: [Details](/en/licenses#uebung041))
@@ -133,7 +130,7 @@ A thief is freed from the guilt of theft through punishment or through release. 
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
 The economy is useful because it produces grain, cattle, gold, metals, and labor.
 
-:::media
+::: media
 ![](/images/uebung042.webp)
 Fig.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Image source: [Details](/en/licenses#uebung042))

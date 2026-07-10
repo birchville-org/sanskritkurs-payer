@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Determine las siguientes formas:
 
-:::grammar-box
+::: grammar-box
 | Núm. | Forma | Determinación |
 |:---|:---|:---|
 | ⟪१⟫. | **⟪गृहाणि⟫** | *⟪गृह⟫* n.: Nom. Acus. Pl. n. |
@@ -52,10 +52,11 @@ Determine las siguientes formas:
 | ⟪३७⟫. | **⟪बन्धनीय⟫** | *⟪बन्ध्⟫* 9P: Ger. Voc. Sg. m. n. |
 | ⟪३८⟫. | **⟪गायी⟫** | *⟪गायिन्⟫*: Nom. Sg. m. |
 | ⟪३९⟫. | **⟪मह्यम्⟫** | *⟪अहम्⟫*: Dat. Sg. |
-::::::media
+:::: media
 ![](/images/uebung078.webp)
 Fig.: ⟪गायी⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung078))
+::::
 :::
 ---
 
@@ -71,7 +72,7 @@ Preguntas del rey **⟪शूद्रक⟫** de **⟪विदिशा⟫** a
 >
 > Sin embargo, Vaiśampāyana, quien había sido preguntado por el Señor de la Tierra con una curiosidad espontánea y gran respeto, reflexionó un momento y luego respondió con gran reverencia: «Rey, esta es una historia larga. Si le interesa, ¡presteme su oído!»
 
-:::media
+::: media
 ![](/images/uebung079.webp)
 Fig.: ⟪शुकः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung079))

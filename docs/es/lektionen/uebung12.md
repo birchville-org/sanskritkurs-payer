@@ -99,7 +99,7 @@ C) Transforme las oraciones de [Lección 10](lektion10.md), Ejercicio C, al pasi
 16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. ⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫
 ⟪कैर्योधैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युद्धम्⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung020.webp)
 Abb.: ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung020))

@@ -11,19 +11,20 @@ status: stable
 
 ## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
 
-:::grammar-box
+::: grammar-box
 **1. Um den Zweck oder eine Absicht ("um zu") einer Handlung wiederzugeben, kann man statt des Infinitivs (⟪तुमुन्⟫) auch ein Nomen mit kṛt-Suffix, das eine Handlung oder einen Zustand bezeichnet, im Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung") verwenden.**
 
 Beispiel:
 
 anstatt:
 
-:::indent
+:::
+::: indent
 ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫
 :::
 kann man auch sagen:
 
-:::indent
+::: indent
 ⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
 
 oder:
@@ -31,51 +32,63 @@ oder:
 ⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
 :::
 = "Rāma ist gegangen, um die Rede des Lehrers zu hören."
-::::::media
+::: media
 ![](/images/lekt2404.webp)
 Abb.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
 (Bildquelle: [Details](/licenses#lekt2404))
-::::::grammar-box
+:::
+
+::: grammar-box
 **2. Der Dativ (⟪चतुर्थी⟫) kann auch das Objekt eines zu ergänzenden Infinitivs des Zweckes bezeichnen:**
 
 Beispiel:
 
-:::indent
+:::
+::: indent
 ⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Er geht zum Zweck von Früchten ins Dorf = Er geht ins Dorf, um Früchte zu holen."
 :::
 **In gleicher Weise bezeichnet der Dativ (⟪चतुर्थी⟫) den Zweck eines Dinges oder einer Handlung:**
 
 Beispiel:
 
-:::indent
+::: indent
 ⟪यज्ञायान्नम्⟫ = "Speise zum Zweck eines Opfers = Speise für ein Opfer"
-:::::::::media
+:::
+::: media
 ![](/images/lekt2401.webp)
 Abb.: ⟪यज्ञायान्नम्⟫
 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
 (Bildquelle: [Details](/licenses#lekt2401))
-::::::grammar-box
+:::
+
+::: grammar-box
 **3. Der Dativ (⟪चतुर्थी⟫) bezeichnet auch die Person oder Sache, für die das Objekt einer Handlung bestimmt ist (indirektes Objekt ; Frage: wem?). (Beachten Sie aber die Verben mit doppeltem Akkusativ (⟪द्वितीया⟫)!)**
 
 Beispiel:
 
-:::indent
+:::
+::: indent
 ⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "Er gibt dem Rāma eine Frucht." (Wurzel ⟪दा⟫ 3. Präsensklasse)
-:::::::::media
+:::
+::: media
 ![](/images/lekt2402.webp)
 Abb.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
 Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
 (Bildquelle: [Details](/licenses#lekt2402))
-::::::grammar-box
+:::
+
+::: grammar-box
 **4. Der Dativ steht bei einigen Verben (und einigen anderen Wörtern) ähnlich wie im Deutschen auf die Frage "wem?":**
 
 Beispiele:
 
-:::indent
+:::
+::: indent
 ⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "Der Gott zürnt den Männern."
 
 ⟪अलम्⟫ Adverb: "genug, hinreichend, gewachsen": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "ein Krieger ist dem anderen Krieger gewachsen"
-:::::::::media
+:::
+::: media
 ![](/images/lekt2403.webp)
 Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
@@ -85,76 +98,76 @@ Weitere Verwendungen des Dativ später.
 
 ## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
 
-:::grammar-box
-**Die regelmäßigen Endungen des Dativ sind:**
+::: grammar-box
+**Die regelmässigen Endungen des Dativ sind:**
 
 * **Singular: -e ; vokalisch endende Femininstämme: -ai**
 * **Plural: Dativ und Ablativ ⟪पञ्चमी⟫: -bhyas**
 :::
 ### 24.2.1. Konsonantische Stämme
 
-:::grammar-box
+::: grammar-box
 
 | | Dativ Singular | Dativ Plural |
 | :--- | :--- | :--- |
-| ⟪यजन्त्⟫ | **⟪यजते⟫** :bryaja-t-e | **⟪यजद्भ्यस्⟫** :braus yaja-t-bhyas |
-| ⟪महान्त्⟫ | **⟪महते⟫** | **⟪महद्भ्यस्⟫** |
-| ⟪पशुमन्त्⟫ | **⟪पशुमते⟫** | **⟪पशुमद्भ्यस्⟫** |
-| ⟪गुणवन्त्⟫ | **⟪गुणवते⟫** | **⟪गुणवद्भ्यस्⟫** |
+| ⟪यजन्त्⟫ | ⟪यजते⟫ :bryaja-t-e | ⟪यजद्भ्यस्⟫ :braus yaja-t-bhyas |
+| ⟪महान्त्⟫ | ⟪महते⟫ | ⟪महद्भ्यस्⟫ |
+| ⟪पशुमन्त्⟫ | ⟪पशुमते⟫ | ⟪पशुमद्भ्यस्⟫ |
+| ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ |
 
 :::
 ### 24.2.2. Fragepronomen
 
-:::grammar-box
+::: grammar-box
 
 | | Maskulinum / Neutrum | Femininum |
 | :--- | :--- | :--- |
-| **Dativ Singular** | **⟪कस्मै⟫** | **⟪कस्यै⟫** |
-| **Dativ Plural** | **⟪केभ्यस्⟫** | **⟪काभ्यस्⟫** |
+| **Dativ Singular** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
+| **Dativ Plural** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
 ### 24.2.3. Demonstrativpronomina
 
-:::grammar-box
+::: grammar-box
 
 | | | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Dat. sg.** | **⟪तस्मै⟫** | **⟪एतस्मै⟫** | **⟪अस्मै⟫** |
-| | **Dat. pl.** | **⟪तेभ्यस्⟫** | **⟪एतेभ्यस्⟫** | **⟪एभ्यस्⟫** |
-| **Femininum** | **Dat. sg.** | **⟪तस्यै⟫** | **⟪एतस्यै⟫** | **⟪अस्यै⟫** |
-| | **Dat. pl.** | **⟪ताभ्यस्⟫** | **⟪एताभ्यस्⟫** | **⟪आभ्यस्⟫** |
+| **Maskulinum / Neutrum** | **Dat. sg.** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
+| | **Dat. pl.** | ⟪तेभ्यस्⟫ | ⟪एतेभ्यस्⟫ | ⟪एभ्यस्⟫ |
+| **Femininum** | **Dat. sg.** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
+| | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
 ### 24.2.4. Vokalische Stämme
 
-:::grammar-box
+::: grammar-box
 **Vokalische Stämme**
 
 * **Maskulina / Neutra auf -a:** ⟪देव⟫
-  * Dat. sg. **⟪देवाय⟫**
-  * Dat. pl. **⟪देवेभ्यस्⟫**
+  * Dat. sg. ⟪देवाय⟫
+  * Dat. pl. ⟪देवेभ्यस्⟫
 * **Maskulina auf -i:** ⟪कवि⟫
-  * Dat. sg. **⟪कवये⟫**
-  * Dat. pl. **⟪कविभ्यस्⟫**
+  * Dat. sg. ⟪कवये⟫
+  * Dat. pl. ⟪कविभ्यस्⟫
 * **Maskulina auf -u:** ⟪पशु⟫
-  * Dat. sg. **⟪पशवे⟫**
-  * Dat. pl. **⟪पशुभ्यस्⟫**
+  * Dat. sg. ⟪पशवे⟫
+  * Dat. pl. ⟪पशुभ्यस्⟫
 * **Feminina auf -ā:** ⟪देवता⟫
-  * Dat. sg. **⟪देवतायै⟫**
-  * Dat. pl. **⟪देवताभ्यस्⟫**
+  * Dat. sg. ⟪देवतायै⟫
+  * Dat. pl. ⟪देवताभ्यस्⟫
 * **Feminina auf -ī:** ⟪देवी⟫
-  * Dat. sg. **⟪देव्यै⟫**
-  * Dat. pl. **⟪देवीभ्यस्⟫**
+  * Dat. sg. ⟪देव्यै⟫
+  * Dat. pl. ⟪देवीभ्यस्⟫
 * **Feminina auf -i:** ⟪श्रुति⟫
-  * Dat. sg. **⟪श्रुतये⟫** oder **⟪श्रुत्यै⟫** (d.h. wie ⟪कवि⟫ oder wie ⟪देवी⟫)
-  * Dat. pl. **⟪श्रुतिभ्यस्⟫**
+  * Dat. sg. ⟪श्रुतये⟫ oder ⟪श्रुत्यै⟫ (d.h. wie ⟪कवि⟫ oder wie ⟪देवी⟫)
+  * Dat. pl. ⟪श्रुतिभ्यस्⟫
 * **Feminina auf -u:** ⟪धेनु⟫
-  * Dat. sg. **⟪धेनवे⟫** oder **⟪धेन्वै⟫**
-  * Dat. pl. **⟪धेनुभ्यस्⟫**
+  * Dat. sg. ⟪धेनवे⟫ oder ⟪धेन्वै⟫
+  * Dat. pl. ⟪धेनुभ्यस्⟫
 :::
 ## 24.3. Sandhi von auslautendem -ai und -au
 
-:::grammar-box
+::: grammar-box
 **Sandhi von auslautendem -ai und -au**
 
 * **-ai vor anlautendem Vokal wird in der Regel durch -ā ersetzt (seltener durch -āy wie im Wortinneren)**
@@ -162,9 +175,10 @@ Weitere Verwendungen des Dativ später.
 
 Beispiel:
 
-:::indent
+:::
+::: indent
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "diesem Feuer"
-::::::
+:::
 ## 24.4. Wortliste
 
 ⟪अलम्⟫ Adverb: genug, hinreichend, (jemandem, etwas) gewachsen ; mit Dativ: genug für, hinreichend für, dem gewachsen ; mit Instrumentalis: genug mit, lass ab von , z.B. ⟪अलं⟫ ⟪क्रोधेन⟫ = "genug mit dem Zorn = lass ab vom Zorn!"
@@ -175,9 +189,10 @@ In gleicher Weise wie ⟪अलम्⟫ mit Instrumentalis wird verwendet:
 
 ⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : schmücken
 
-:::indent
+::: indent
 ⟪अलंकार⟫ m.: Schmuck, Schmuckmittel (in der Dichtung)
-::::::media
+:::
+::: media
 ![](/images/lekt2405.webp)
 Abb.: ⟪अलंकारः⟫
 (Bildquelle: [Details](/licenses#lekt2405))
@@ -186,7 +201,7 @@ Abb.: ⟪अलंकारः⟫
 
 ⟪प्रतिमा⟫ f.: Bildnis, Abbild
 
-:::media
+::: media
 ![](/images/lekt2406.webp)
 Abb.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
@@ -196,7 +211,7 @@ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 
 Von ⟪वृत्⟫:
 
-:::indent
+::: indent
 ⟪वृत्ति⟫ f.: Benehmen, Tätigkeit, Lebensweise
 
 ⟪वृत्त⟫ n.: Benehmen
@@ -217,11 +232,12 @@ Von ⟪वृत्⟫:
 
 davon
 
-:::indent
+::: indent
 ⟪अपोह⟫ m.: Negierung (⟪अप⟫ + ⟪ऊह⟫)
 
 ⟪ऊहापोह⟫ m.: Diskussion des Für und Wider
-::::::media
+:::
+::: media
 ![](/images/lekt2407.webp)
 Abb.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
@@ -233,18 +249,21 @@ Abb.: ⟪ऊहापोहः⟫
 
 ⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : sehen, sichtbar werden ; nennen, erklären, mitteilen
 
-:::indent
+::: indent
 ⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : erzählen
 
 davon:
 
 ⟪आख्यान⟫ n.: Erzählung
-::::::media
+:::
+::: media
 ![](/images/lekt2408.webp)
 Abb.: ⟪आख्यानम्⟫
 "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
 (Bildquelle: [Details](/licenses#lekt2408))
-::::::indent
+:::
+
+::: indent
 ⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : zusammenzählen, berechnen
 
 davon:
@@ -259,13 +278,14 @@ davon:
 
 ⟪स्वस्ति⟫ f.: Glück, Heil (Nominalbildung aus ⟪सु⟫ ⟪अस्ति⟫ = "es ist gut")
 
-⟪नमस्⟫ n.: Verbeugung, Verehrung, Gruß (Deklination später). Begrüßungsformel: ⟪नमो⟫ ⟪नमः⟫
+⟪नमस्⟫ n.: Verbeugung, Verehrung, Gruss (Deklination später). Begrüssungsformel: ⟪नमो⟫ ⟪नमः⟫
 
 davon:
 
-:::indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : sich verbeugen, verehren, begrüßen
-::::::media
+::: indent
+⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : sich verbeugen, verehren, begrüssen
+:::
+::: media
 ![](/images/lekt2411.webp)
 Abb.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
@@ -351,7 +371,7 @@ E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Kons
 
 5\. Verehrung (⟪नमस्⟫)  sei Śiva! Verehrung sei Śrī Gaṇeśa!
 
-:::media
+::: media
 ![](/images/lekt2409.webp)
 Abb.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 (Bildquelle: [Details](/licenses#lekt2409))
@@ -366,9 +386,10 @@ Abb.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 
 10\. Nachdem ich mich vor den drei Weisen (Akk.) verbeugt habe (⟪नमस्कृ⟫)... Er verbeugt sich vor Narasiṃha (Dat.)
 
-:::indent
+::: indent
 Erklärung: ⟪मुनित्रयम्⟫ "die Dreiheit der Weisen = die drei Weisen" = die Grammatiker ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
-::::::media
+:::
+::: media
 ![](/images/lekt2410.webp)
 Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
 ⟪नरसिंह⟫ zerfleischt ⟪हिरण्यकशिपु⟫, Blatt aus einem Manuskript des ⟪भागवतपुराण⟫
@@ -384,7 +405,7 @@ Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोत
 
 15⟪१५⟫. Auf Widersehen! (Neusanskrit: ⟪पुनर्दर्शनाय⟫)
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day. [Bildquelle: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
 

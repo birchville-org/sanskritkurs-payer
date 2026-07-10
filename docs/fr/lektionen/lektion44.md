@@ -1,66 +1,67 @@
 ---
-title: Leçon 44
-subtitle: "Formation des formes verbales de la 2ᵉ personne (⟪मध्यमः⟫) des thèmes athématiques avec suffixe à terminaison vocalique"
+title: Lektion 44
+subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
 lesson_id: 44
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 44
+# Lektion 44
 
 ## 44.1. Formation des formes verbales de la 2ᵉ personne (⟪मध्यमः⟫) des thèmes athématiques avec suffixe à terminaison vocalique
 
-:::media
+::: media
 ![](/images/lekt4301.jpg)
-::::::grammar-box
+:::
+::: grammar-box
 **La 3.sg.Ā.Imparfait est identique en forme à la 2.pl.P.Imparfait!!!**
 :::
 ### 44.1.1. Cinquième classe de présent (⟪स्वादि⟫)
 
 ⟪सु⟫ 5U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicatif présent**:br⟪लट्⟫ | ⟪सुनोषि⟫:brCérébralisation ! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCérébralisation ! | ⟪सुनुध्वे⟫ |
-| **Imparfait**:br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
-| **Optatif**:br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralisation! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralisation! | ⟪सुनुध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
 :::
-### 44.1.2. Huitième classe de présent (⟪तनादि⟫)
+### 44.1.2. Achte Präsensklasse (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicatif présent**:br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
-| **Imparfait**:br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
-| **Optatif**:br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
 :::
-⟪कृ⟫ 8U
+⟪⟪कृ⟫⟫ 8U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicatif présent**:br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
-| **Imparfait**:br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
-| **Optatif**:br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
 :::
-### 44.1.3. Neuvième classe de présent (⟪क्र्यादि⟫)
+### 44.1.3. Neunte Präsensklasse (⟪क्र्यादि⟫)
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicatif présent**:br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCérébralisation ! | ⟪क्रीणीध्वे⟫ |
-| **Imparfait**:br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
-| **Optatif**:br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
 :::
-## 44.2. Sur le sandhi des mots
+## 44.2. Zum Wortsandhi
 
 Pour les thèmes de présent à consonne finale, les lois du sandhi des mots déjà traitées doivent être respectées.
 
@@ -68,146 +69,152 @@ De plus, les lois suivantes du sandhi des mots s'appliquent.
 
 (Résumé détaillé de toutes les modifications phonétiques relevant de ce domaine chez Kielhorn, Grammatik p. 76s.)
 
-### 44.2.1. Sur le Wortsandhi pour dh-
+### 44.2.1. Zum Wortsandhi für dh-
 
-:::grammar-box
-1. **Une aspirée est remplacée par la non-aspirée correspondante devant une aspirée :**
-   par ex. **⟪रुध्⟫** 7U : ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » **⟪रुन्द्ध्वे⟫** (run**ddh**ve)
+::: grammar-box
+1. Pour les thèmes de présent à consonne finale, les lois du sandhi des mots déjà traitées doivent être respectées.
+De plus, les lois suivantes du sandhi des mots s'appliquent.
 2. **-h + dh- » -gdh-**
-   par ex. **⟪दुह्⟫** 2U : ⟪दुह्⟫ + ⟪ध्वे⟫ » **⟪धुग्ध्वे⟫** (dhu**gdh**ve)
+   Par exemple, **⟪दुह्⟫** 2U : ⟪दुह्⟫ + ⟪ध्वे⟫ » **⟪धुग्ध्वे⟫** (dhu**gdh**ve)
 3. **-ṣ + dh- » -ḍḍh-** (Cette règle ne s'applique qu'à la conjugaison !)
-   par ex. **⟪द्विष्⟫** 2U : ⟪द्विष्⟫ + ⟪ध्वे⟫ » **⟪द्विड्ढ्वे⟫** (dvi**ḍḍh**ve)
+   Par exemple, **⟪द्विष्⟫** 2U : ⟪द्विष्⟫ + ⟪ध्वे⟫ » **⟪द्विड्ढ्वे⟫** (dvi**ḍḍh**ve)
 4. **-s + dh- » -dh-** (Disparition du -s)
-   par ex. **⟪आस्⟫** 2Ā : ⟪आस्⟫ + ⟪ध्वे⟫ » **⟪आध्वे⟫** (ādhve)
+   Par exemple, **⟪आस्⟫** 2Ā : ⟪आस्⟫ + ⟪ध्वे⟫ » **⟪आध्वे⟫** (ādhve)
 :::
-### 44.2.2. Sur le sandhi des mots pour s-
+### 44.2.2. Sur le sandhi lexical pour s-
 
-:::grammar-box
-1. **-s + s- » -ts- ou (non optionnel !) -ss-** (ainsi dans la 2e classe de présent)
-   Exemples :
-   * **⟪वस्⟫** 1P : Futur : ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
-   * **⟪वस्⟫** 2Ā : ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
+::: grammar-box
+1. Pour les thèmes de présent à consonne finale, les lois du sandhi des mots déjà traitées doivent être respectées.
+   Beispiele:
+   * (Résumé détaillé de toutes les modifications phonétiques relevant de ce domaine chez Kielhorn, Grammatik p. 76s.)
+   * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
-   par ex. **⟪द्विष्⟫** 2U : ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
+   z.B. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
 :::
-## 44.3. Formation des formes verbales de la 2ᵉ personne (⟪मध्यमः⟫) des thèmes athématiques sans suffixe à terminaison vocalique
+## 44.3. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix
 
-### 44.3.1. Deuxième classe de présent (⟪अदादि⟫)
+### 44.3.1. Zweite Präsensklasse (⟪अदादि⟫)
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicatif Présent**:br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
-| **Imparfait**:br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
-| **Optatif**:br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
 :::
 ⟪आस्⟫ 2Ā
 
-:::grammar-box
+::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicatif Présent**:br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
-| **Imparfait**:br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
-| **Optatif**:br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
 :::
 ⟪दुह्⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicatif Présent**:br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
-| **Imparfait**:br⟪लङ्⟫ | ⟪अधोक्⟫:brde : adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
-| **Optatif**:br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अधोक्⟫:braus: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
 :::
-⟪इ⟫ 2P
+⟪⟪इ⟫⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicatif Présent**:br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | &lt;⟪इषे⟫&gt; | &lt;⟪इध्वे⟫&gt; |
-| **Imparfait**:br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
-| **Optatif**:br⟪विधिलिङ्⟫ |  ⟪इयास्⟫ |  ⟪इयात⟫ |  ⟪इयीथास्⟫:briy-ī-thās |  ⟪इयीध्वम्⟫ |
-::::::grammar-box
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪इषे⟫\> | \<⟪इध्वे⟫\> |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪इयास्⟫ | ⟪इयात⟫ | ⟪इयीथास्⟫:briy-ī-thās | ⟪इयीध्वम्⟫ |
+:::
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicatif Présent**:br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:brde : *hn + ta |
-| **Imparfait**:br⟪लङ्⟫ | ⟪अहन्⟫:brde : a-han + s | ⟪अहत⟫:brde : a-*hn + ta |
-| **Optatif**:br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:braus: *hn + ta |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अहन्⟫:braus: a-han + s | ⟪अहत⟫:braus: a-*hn + ta |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
 :::
 ⟪स्तु⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicatif Présent**:br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
-| **Imparfait**:br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
-| **Optatif**:br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
 :::
 ⟪अस्⟫ 2P (particulièrement à retenir !)
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicatif Présent**:br⟪लट्⟫ | ***⟪असि⟫*** | ***⟪स्थ⟫*** |
-| **Imparfait**:br⟪लङ्⟫ | ***⟪आसीस्⟫*** | ***⟪आस्त⟫*** |
-| **Optatif**:br⟪विधिलिङ्⟫ | ***⟪स्यास्⟫*** | ***⟪स्यात⟫*** |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | *⟪असि⟫* | *⟪स्थ⟫* |
+| **Imperfekt** :br⟪लङ्⟫ | *⟪आसीस्⟫* | *⟪आस्त⟫* |
+| **Optativ** :br⟪विधिलिङ्⟫ | *⟪स्यास्⟫* | *⟪स्यात⟫* |
 :::
 ⟪तत्त्वमसि⟫
 
 ⟪शास्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicatif Présent**:br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
-| **Imparfait**:br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
-| **Optatif**:br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
-::::::grammar-box
-| | ⟪परस्मैपदम्⟫ ||
-| --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicatif Présent**:br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
-
-| **Imparfait**:br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
-| **Optatif**:br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
 :::
-## 44.4. Le vocatif (⟪आमन्त्रितम्⟫)
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ ||
+| --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
+:::
+## 44.4. Der Vokativ (⟪आमन्त्रितम्⟫)
 
 Les grammairiens indigènes ne considèrent pas le vocatif (⟪आमन्त्रितम्⟫) comme un cas à part, mais seulement comme une modification du nominatif (⟪प्रथमा⟫).
 
-::::
+::: important
 important
 **Le vocatif sert à l'appel, à l'adresse, et se trouve en dehors de la relation avec le reste de la phrase, se distinguant ainsi des autres cas qui expriment une relation avec le verbe ou un autre nom.**
 
 **Le vocatif est le plus souvent placé au début de la phrase :**
 
-:::indent
+:::
+::: indent
 ⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = « Enfant, que dis-tu ? »
-::::::::::
+:::
+::: important
 important
 **Évitez de traduire le vocatif par « *Ô* ... ». Nous utilisons constamment des vocatifs en allemand, par exemple lorsque nous disons : « Chéri, que cuisons-nous aujourd'hui ? ». Personne ne dira dans ce sens : « *Ô* chéri, que cuisons-nous aujourd'hui ? »**
-::::::media
+:::
+::: media
 ![](/images/lekt4402.webp)
 Légende : Pour une bonne utilisation de « Ô » en allemand : **« Ô homme ! »**
 (Source de l'image : [Détails](/fr/licenses#lekt4402))
-::::::grammar-box
+:::
+
+::: grammar-box
 **Les formes du vocatif au pluriel et au duel sont identiques à celles du nominatif (⟪प्रथमा⟫) au pluriel ou au duel.**
 
 **Les formes du vocatif au singulier sont présentées dans [Leçon 45](lektion45.md).**
 :::
-## 44.5. Liste de mots
+## 44.5. Wortliste
 
 ⟪प्रति⟫ Préfixe verbal : en arrière, à l’encontre, contre - vers
 
-:::indent
+::: indent
 par ex.
 
 **⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : frapper en arrière
@@ -218,7 +225,7 @@ par ex.
 :::
 ⟪या⟫ 2P ⟪याति⟫ : aller, voyager
 
-:::indent
+::: indent
 Parfait IV ⟪ययौ⟫  
 Futur ⟪यास्यति⟫  
 Passif ⟪यायते⟫  
@@ -229,14 +236,15 @@ Inf. ⟪यातुम्⟫
 dont :
 
 **⟪यान⟫** n. : aller, chemin, véhicule
-::::::media
+:::
+::: media
 ![](/images/lekt4403.webp)
 Fig. : ⟪रेल्यानम्⟫
 (Source de l’image : [Détails](/fr/licenses#lekt4403))
 :::
 **⟪शी⟫** 2Ā ⟪शेते⟫ : être couché. Cette racine a, dans toutes les formes du thème présent, **haute intensité :** 1.sg.Ind.Prés.Ā ***⟪शेये⟫*** (śe + e). Les formes suivantes sont particulièrement à noter : 3.pl.Ind.Prés.Ā ***⟪शेरते⟫***, 3.pl.Imparf.Ā ***⟪अशेरत⟫***
 
-:::indent
+::: indent
 Parfait IIIa ⟪शिश्ये⟫ (śi-śī + e)  
 Futur ⟪शयिष्यते⟫  
 Causatif ⟪शापयति⟫  
@@ -246,14 +254,15 @@ Inf. ⟪शयितुम्⟫
 dont :
 
 **⟪शयन⟫** n. : couchette, lit
-::::::media
+:::
+::: media
 ![](/images/lekt4404.webp)
 Fig. : ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Source de l’image : [Détails](/fr/licenses#lekt4404))
 :::
 ⟪नन्द्⟫ 1P ⟪नन्दति⟫ : se réjouir de (⟪तृतीयया⟫)
 
-:::indent
+::: indent
 Parfait I ⟪ननन्द⟫  
 Futur ⟪नन्दिष्यति⟫  
 Passif : ⟪नन्द्यते⟫  
@@ -266,7 +275,8 @@ Gérondif ⟪नन्द्य⟫
 dont :
 
 **⟪नन्दिन्⟫** 3 : caractérisé par (une) joie particulière, joyeux ; m. nom de la monture (⟪वहन⟫) de ⟪शिव⟫ (un taureau)
-::::::media
+:::
+::: media
 ![](/images/lekt4405.webp)
 Fig. : ⟪नन्दी⟫
 (Source de l’image : [Détails](/fr/licenses#lekt4405))
@@ -275,7 +285,7 @@ Fig. : ⟪नन्दी⟫
 
 **⟪यम्⟫** 1P ***⟪यच्छति⟫*** : tenir, porter ; offrir, accorder ; maintenir ensemble, dompter, brider, conquérir
 
-:::indent
+::: indent
 Parfait Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Futur ⟪यंस्यति⟫  
 Passif ⟪यम्यते⟫  
@@ -286,9 +296,10 @@ Absol. -⟪यम्य⟫
 :::
 **⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : étendre, allonger
 
-:::indent
+::: indent
 PPP ⟪आयत⟫ 3 : longuement étendu
-::::::media
+:::
+::: media
 ![](/images/lekt4406.webp)
 Fig. : ⟪आयतो⟫ ⟪मरुः⟫
 (Source de l’image : [Détails](/fr/licenses#lekt4406))
@@ -299,7 +310,7 @@ Fig. : ⟪आयतो⟫ ⟪मरुः⟫
 
 ⟪यत्⟫ 1Ā ⟪यतते⟫ : aspirer à (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
-:::indent
+::: indent
 Parfait Vb ⟪येते⟫  
 Futur ⟪यतिष्यते⟫  
 Passif ⟪यत्यते⟫  
@@ -310,14 +321,15 @@ Inf. ⟪यतितुम्⟫
 dont :
 
 **⟪यत्न⟫** m. : effort, diligence
-::::::media
+:::
+::: media
 ![](/images/lekt4407.webp)
 Fig. : ⟪यत्नेन⟫
 (Source de l’image : [Détails](/fr/licenses#lekt4407))
 :::
 **⟪रभ्⟫** 1Ā ⟪रभते⟫ (forme alternative à ⟪लभ्⟫) : saisir
 
-:::indent
+::: indent
 Parfait Vb ⟪रेभे⟫  
 Futur ⟪रप्स्यते⟫  
 Passif ⟪रभ्यते⟫  
@@ -330,17 +342,17 @@ Absol. -⟪रभ्य⟫
 
 ⟪प्रव्रज्या⟫ f. (à ⟪प्र⟫-⟪व्रज्⟫) : le fait de quitter le foyer pour l’errance ; cérémonie par laquelle on devient novice bouddhiste (pali : ⟪पब्बजा⟫)
 
-:::deleteme-box
+::: deleteme-box
 Voir :
 
-**Payer, Alois &lt;1944 - &gt; :** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit canonique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-
-::::::media
+**Payer, Alois \<1944 - \> :** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit canonique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+:::
+::: media
 ![](/images/lekt4408.webp)
 Fig. : ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4408))
 :::
-## 44.6. Exercice
+## 44.6. Übung
 
 A) Déterminez et traduisez les formes suivantes :
 
@@ -397,7 +409,7 @@ A) Déterminez et traduisez les formes suivantes :
 51.  ⟪हथ⟫
 52.  ⟪हतः⟫
 
-:::media
+::: media
 ![](/images/lekt4409.webp)
 Fig. : ⟪कस्माद्रोदिषि⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4409))
@@ -421,7 +433,7 @@ B) Traduisez :
 ⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
 ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫
 
-## 44.7. Exercice de révision sur la morphologie
+## 44.7. Wiederholungsübung zur Formenlehre
 
 Déterminez les formes suivantes :
 
@@ -466,8 +478,7 @@ Déterminez les formes suivantes :
 39.  ⟪कैः⟫
 40.  ⟪कृत्येन⟫
 
-
-:::deleteme-box
+::: deleteme-box
 
 **lekt4301.jpg** : Détails dans licenses.md
 

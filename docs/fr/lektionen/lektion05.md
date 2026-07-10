@@ -1,22 +1,22 @@
 ---
-title: Leçon 5
-subtitle: "Fondamentaux des composés nominaux (samāsa)"
+title: Lektion 5
+subtitle: "Grundlagen der Nominalkomposita (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 5
+# Lektion 5
 
-:::deleteme-box
+::: deleteme-box
 **Dans cette leçon, vous apprendrez :**
-- Les fondamentaux des composés nominaux (samāsa)
-- La terminologie technique des composés
+- Les bases des composés nominaux (samāsa)
+- La terminologie technique pour les composés
 - Les composés copulatifs (Dvandva)
-- L'ordre des membres dans les Dvandvas
+- L'ordre des éléments dans les Dvandvas
 :::
-## 5.1. Les composés nominaux (samāsa m. = ⟪समास⟫)
+## 5.1. Composés nominaux (samāsa m. = ⟪समास⟫)
 
 La formation de composés de mots dans une très grande ampleur est une caractéristique du sanskrit.
 
@@ -27,9 +27,7 @@ Les formes de composition les plus importantes sont :
 
 (Pour les deux derniers, voir plus loin !)
 
----
-
-## 5.2. Sur la terminologie sanskrite des composés
+## 5.2. Zur Sanskrit-Terminologie für Komposita
 
 - **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : membres d'un composé
 - **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : analyse d'un composé
@@ -38,13 +36,11 @@ Les formes de composition les plus importantes sont :
 - **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : composé dont les premiers membres sont sans terminaisons casuelles (cas normal)
 - **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : composé dans lequel un ou plusieurs membres intermédiaires sont omis
 
----
-
-## 5.3. Composés copulatifs (Dvandva n. = ⟪द्वन्द्व⟫)
+## 5.3. Kopulative Komposita (Dvandva n. = ⟪द्वन्द्व⟫)
 
 Les composés copulatifs servent à relier des membres grammaticalement similaires, coordonnés (noms ou adjectifs).
 
-:::grammar-box
+::: grammar-box
 **Un Dvandva désigne :**
 
 1. **soit la connexion sommative des personnes, choses, propriétés désignées par ses membres individuels :**
@@ -64,9 +60,9 @@ Se fait avec « et » (**ca** = ⟪च⟫), parfois avec « ou » (**vā** = ⟪
 :::
 Voir plus loin pour les Dvandva duels !
 
-### 5.3.1. Avant-composés de composés
+### 5.3.1. Vorderglieder von Komposita
 
-Les avant-composés de composés (pas seulement les Dvandvas) ont généralement la forme de la **base nominale** inchangée. Les membres individuels des composés sont liés selon les règles du **Sandhi de phrase** (c'est-à-dire du Sandhi que nous avons appris jusqu'à présent, par opposition au Sandhi de mot, qui s'applique à l'intérieur du mot avant les éléments formatifs).
+Les composés copulatifs servent à relier des membres grammaticalement similaires, coordonnés (noms ou adjectifs).
 
 ### 5.3.2. Plural-Itaretaradvandva
 
@@ -94,9 +90,7 @@ Exemples de Pluraldvandva :
 
 Lorsque deux des trois dernières prescriptions peuvent simultanément s'appliquer, il faut toujours suivre la règle donnée en dernier. (Exemples de Dualdvandva pour ces règles chez Kielhorn, Grammatik § 570).
 
----
-
-## 5.4. Liste de mots
+## 5.4. Wortliste
 
 **Apprenez les mots suivants :**
 
@@ -104,7 +98,7 @@ Lorsque deux des trois dernières prescriptions peuvent simultanément s'appliqu
 
 **kāma** m. = ⟪काम⟫ : désir, appétit, don souhaité, plaisir des sens, amour ; dieu de l'amour Kāma.
 
-:::media
+::: media
 ![](/images/lekt0501.webp)
 Fig. : Dieu Kāma = kāmadeva = ⟪कामदेव⟫, XVIIIe siècle.
 (Source de l'image : Wikipedia, domaine public)
@@ -140,9 +134,7 @@ Fig. : Dieu Kāma = kāmadeva = ⟪कामदेव⟫, XVIIIe siècle.
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : à la fois ... et.
 
----
-
-## 5.5. Exercice
+## 5.5. Übung
 
 **A) Traduisez les phrases et les composés suivants, et résolvez les Dvandvas qui s’y trouvent en sanskrit :**
 
@@ -178,9 +170,7 @@ Fig. : Dieu Kāma = kāmadeva = ⟪कामदेव⟫, XVIIIe siècle.
    (D’après Kauṭilīya-arthaśāstra 1.2.1.)
    ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
 
----
-
-## 5.6. Exercice de révision
+## 5.6. Wiederholungsübung
 
 **A) Traduisez :**
 

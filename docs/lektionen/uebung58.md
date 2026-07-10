@@ -19,7 +19,7 @@ Bestimmen und übersetzen Sie die folgenden Formen und bilden Sie die entspreche
     
 5.  ⟪खादामः⟫ - ⟪खाद्⟫ 1P 1.pl.Ind.Präs.P wir kauen - ⟪अखादिष्म⟫
 6.  ⟪नेद⟫ - ⟪नद्⟫ 1P 2.pl.Perf.P ihr ertöntet - ⟪अनादिष्ट⟫ ⟪।⟫ ⟪अनदिष्ट⟫
-7.  ⟪आश्नीत⟫ -⟪अश्⟫ 9P 2.pl.Impf.P ihr aßt - ⟪आशिष्ट⟫
+7.  ⟪आश्नीत⟫ -⟪अश्⟫ 9P 2.pl.Impf.P ihr asst - ⟪आशिष्ट⟫
 8.  ⟪पुनते⟫ - ⟪पू⟫ 9U 3.pl.Ind.Präs.Ā sie reinigen im eigenen Interesse - ⟪अपविषत⟫
 9.  ⟪अशेरत⟫ - ⟪शी⟫ 2Ā 3.pl.Impf.Ā sie lagen - ⟪अशयिषत⟫
 10.  ⟪इयेषिथ⟫ - ⟪इष्⟫ 6P 2.sg.Perf.P du hast gewünscht - ⟪ऐषीः⟫
@@ -33,7 +33,7 @@ Bestimmen und übersetzen Sie die folgenden Formen und bilden Sie die entspreche
 18.  ⟪ऐक्षध्वम्⟫ - ⟪ईक्ष्⟫ 1Ā 2.pl.Impf.Ā ihr saht - ⟪ऐक्षिध्वम्⟫
 19.  ⟪अचेतः⟫ - ⟪चित्⟫ 1P 2.sg.Impf.P du nahmst wahr - ⟪अचेतीः⟫
 
-:::media
+::: media
 ![](/images/uebung095.webp)
 Abb.: ⟪तब्लाः⟫
 (Bildquelle: [Details](/licenses#uebung095))
@@ -44,7 +44,7 @@ Abb.: ⟪तब्लाः⟫
 
 Bestimmen und übersetzen Sie die folgenden Formen:
 
-:::media
+::: media
 ![](/images/uebung097.webp)
 Abb.: ⟪मातुलङ्गविक्रेतायं⟫ ⟪ना⟫ ⟪॥⟫  
 Pune - ⟪पुणे⟫  

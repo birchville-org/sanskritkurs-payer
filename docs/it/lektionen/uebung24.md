@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formare il dativo singolare e il dativo (ovvero l'ablativo) plurale e indicare il significato della radice nominale:
 
-:::grammar-box
+::: grammar-box
 | Parola | Significato | Dat. Sing. | Dat. Pl. |
 | :--- | :--- | :--- | :--- |
 | ⟪१⟫. **⟪श्रव⟫** | Ascolto | ⟪श्रवणाय⟫ | ⟪श्रवणेभ्यः⟫ |
@@ -79,7 +79,7 @@ Gli dèi si adirano con questi brāhmaṇa, che non loro rendevano venerazione.
 ⟪९⟫. **⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫**
 Per morire, gli esseri viventi nascono.
 
-:::media
+::: media
 ![](/images/uebung037.webp)
 Fig.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung037))
@@ -153,7 +153,7 @@ E) Sostituire nella frase B) 6 il dativo con una costruzione con **-⟪अर्
 15\. Addio! (Neosanscrito)
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
 
-:::media
+::: media
 ![](/images/uebung038.webp)
 Fig.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung038))

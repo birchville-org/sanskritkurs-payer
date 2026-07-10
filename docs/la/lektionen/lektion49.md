@@ -1,0 +1,396 @@
+---
+title: Lektion 49
+subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+lesson_id: 49
+last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
+---
+
+# Lectio 49
+
+## 49.1. Formativus imperativi (⟪लोट्⟫) stemmatum praesentis athematicorum (continuatio)
+
+### 49.1.1. Classies septima praesentis (⟪रुधादि⟫)
+
+⟪युज्⟫ 7U
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Persona prima** :br⟪तृतीयः⟫ | ⟪युनजानि⟫:bryu-na-j-āni | ⟪युनजाम⟫ | ⟪युनजै⟫ | ⟪युनजामहै⟫ |
+| **Persona secunda** :br⟪मध्यमः⟫ | ⟪युङ्ग्धि⟫:bryu-n-j + dhi:br⟪युङ्धि⟫ | ⟪युङ्क्त⟫:br⟪युङ्त⟫ | ⟪युङ्क्ष्व⟫ | ⟪युङ्ग्ध्वं⟫:br⟪युङ्ध्वम्⟫ |
+| **Persona tertia** :br⟪प्रथमः⟫ | ⟪युनक्तु⟫:bryu-na-j + tu | ⟪युञ्जन्तु⟫ | ⟪युङ्क्ताम्⟫:br⟪यु्ङ्ताम्⟫ | ⟪युञ्जताम्⟫ |
+:::
+⟪रुध्⟫ 7U
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Persona prima** :br⟪तृतीयः⟫ | ⟪रुणधानि⟫:brru-ṇa-dh-āni | ⟪रुणधाम⟫ | ⟪रुणधै⟫ | ⟪रुणधामहै⟫ |
+| **Persona secunda** :br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
+| **Persona tertia** :br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
+:::
+### 49.1.2. Quinta classis praesentis (⟪स्वादि⟫)
+
+::: grammar-box
+Imperativus 2.sg. sine desinentia est in radicibus quintae et octavae classis, quibus post -u desinentem suffixi solus consonans praecedit.
+:::
+⟪सु⟫ 5U
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Persona prima** :br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
+| **Persona secunda** :br⟪मध्यमः⟫ | sig[⟪सुनु⟫] | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
+| **Persona tertia** :br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
+:::
+⟪आप्⟫ 5P
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ ||
+| :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Persona prima** :br⟪तृतीयः⟫ | ⟪आप्नवानि⟫ | ⟪आप्नवाम⟫ |
+| **Persona secunda** :br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
+| **Persona tertia** :br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
+:::
+### 49.1.3. Octava classis praesentis (⟪तनादि⟫)
+
+⟪तन्⟫ 8U
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Persona prima** :br⟪तृतीयः⟫ | ⟪तनवानि⟫ | ⟪तनवाम⟫ | ⟪तनवै⟫ | ⟪तनवामहै⟫ |
+| **Persona secunda** :br⟪मध्यमः⟫ | sig[⟪तनु⟫] | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
+| **Persona tertia** :br⟪प्रथमः⟫ | ⟪तनोतु⟫ | ⟪तन्वन्तु⟫ | ⟪तनुताम्⟫ | ⟪तन्वताम्⟫ |
+:::
+⟪कृ⟫ 8U
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Persona prima** :br⟪तृतीयः⟫ | ⟪करवाणि⟫ | ⟪करवाम⟫ | ⟪करवै⟫ | ⟪करवामहै⟫ |
+| **Persona secunda** :br⟪मध्यमः⟫ | sig[⟪कुरु⟫] | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
+| **Persona tertia** :br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
+:::
+### 49.1.4. Nonus classis praesentis (⟪क्र्यादि⟫)
+
+⟪क्री⟫ 9U
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪क्रीणानि⟫:brkrī-ṇā + āni | ⟪क्रीणाम⟫ | ⟪क्रीणै⟫:brkrī-ṇā + ai | ⟪क्रीणामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪क्रीणीहि⟫ | ⟪क्रीणीत⟫ | ⟪क्रीणीष्व⟫ | ⟪क्रीणीध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
+:::
+::: grammar-box
+Radices nonae classis, quae consonante terminantur, -nī-hi finalem pro 2.sg.P imperativo per -āna substituunt.
+:::
+⟪ग्रह्⟫ 9U
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ ||
+| :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪गृहाण⟫] | ⟪गृह्णीत⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
+:::
+## 49.2. Declinatio nominalium radicum in -as, -is, -us
+
+#### Neutra (⟪नपुंसक⟫)
+
+::: grammar-box
+| | **⟪मनस्⟫ n.** :br"Cogitatio" | **⟪हविस्⟫ n.** :br"Hostia" | **⟪चक्षुस्⟫ n.** :br"Oculus" |
+| :---: | :---: | :---: | :---: |
+| ⟪एकवचनम्⟫ | | | |
+| **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪मनस्⟫ | ⟪हविस्⟫ | ⟪चक्षुस्⟫ |
+| ⟪तृतीया⟫ | ⟪मनसा⟫ | ⟪हविषा⟫ | ⟪चक्षुषा⟫ |
+| ⟪चतुर्थी⟫ | ⟪मनसे⟫ | ⟪हविषे⟫ | ⟪चक्षुषे⟫ |
+| ⟪पञ्चमी⟫ | ⟪मनसस्⟫ | ⟪हविषस्⟫ | ⟪कक्षुषस्⟫ |
+| ⟪षष्ठी⟫ | ⟪मनसस्⟫ | ⟪हविषस्⟫ | ⟪चक्षुषस्⟫ |
+| ⟪सप्तमी⟫ | ⟪मनसि⟫ | ⟪हविषि⟫ | ⟪चक्षुषि⟫ |
+| ⟪बहुवचनम्⟫ | | | |
+| **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪मनांसि⟫ | ⟪हवींषि⟫ | ⟪चक्षूंषि⟫ |
+| ⟪तृतीया⟫ | ⟪मनोभिस्⟫ | ⟪हविर्भिस्⟫ | ⟪चक्षुर्भिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪मनोभ्यस्⟫ | ⟪हविर्भ्यस्⟫ | ⟪चक्षुर्भ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪मनोभ्यस्⟫ | ⟪हविर्भ्यस्⟫ | ⟪चक्षुर्भ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪मनसाम्⟫ | ⟪हविषाम्⟫ | ⟪चक्षुषाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪मनस्सु⟫:br⟪मनःसु⟫ | ⟪हविष्षु⟫:br⟪हविःषु⟫ | ⟪चक्षुष्षु⟫:br⟪चक्षुःषु⟫ |
+:::
+#### Masculina (⟪पुंस्⟫) et Feminina (⟪स्त्री⟫)
+
+Plures casus sunt ⟪बहुव्रीहि⟫ cum radicis -s (originale Neutrum) in parte posteriori.
+
+::: grammar-box
+| | **⟪सुमनस्⟫ 3** :br"bonae mentis, benignus | **⟪दीर्घायुस्⟫ 3** :br"longaevus" |
+| :---: | :---: | :---: |
+| ⟪एकवचनम्⟫ | | |
+| ⟪प्रथम⟫ | ⟪सुमनास्⟫ | ⟪दीर्घायुस्⟫ |
+| ⟪द्विटिया⟫ | ⟪सुमनसम्⟫ | ⟪दीर्घायुषम्⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪सुमनस्⟫ | ⟪दीर्घायुस्⟫ |
+:::
+::: indent
+Ceteri casus singularis ut Neutrum
+:::
+::: grammar-box
+| | **⟪सुमनस्⟫ 3** | **⟪दीर्घायुस्⟫ 3** |
+| :---: | :---: | :---: |
+| ⟪बहुवचनम्⟫ | | |
+| **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसस्⟫ | ⟪दीर्घायुषस्⟫ |
+:::
+::: indent
+Ceteri casus pluralis ut Neutrum
+:::
+## 49.3. Nominalis constructio: ⟪कृत्⟫-suffixum -as Neutrum
+
+Cum ⟪कृत्⟫-suffixo -as Neutrum multa substantiva formantur. Pleraque sunt abstracta vel nomina actionis (verba quae actionem significant).
+
+Vocalis brevis radicis ante consonantem simplicem necnon vocalis finalis radices in gradu alto apparent.
+
+Exempla:
+
+::: grammar-box
+| Radix | Nomen in -as |
+| --- | --- |
+| ⟪मन्⟫ 4Ā "cogitare" | ⟪मनस्⟫ n. "Cogitatio, cogitatum, organum cogitandi" |
+| ⟪नम्⟫ 1P "flectere" | ⟪नमस्⟫ n. "Flectio, reverentia" |
+| ⟪चित्⟫ 1P "percipere, cogitare" | ⟪चेतस्⟫ n. "Intelligentia" |
+:::
+Nomina in -is et -us relative rara sunt.
+
+::: media
+![](/images/lekt4907.webp)
+Fig.: ⟪नमस्ते⟫
+(Fons imaginis: [Detalia](/la/licenses#lekt4907))
+:::
+## 49.4. Lexicon
+
+⟪दीर्घ⟫ 3: longus, -a, -um
+
+⟪ह्रस्व⟫ 3: brevis, -e
+
+⟪आयुस्⟫ n.: aetas (vita integra, quae vivitur si nihil intercedat);
+
+::: indent
+unde:
+
+⟪आयुर्वेद⟫ m.: systema medicinale traditionale Indiae
+
+vide:
+
+:::
+::: indent
+**Carakasaṃhitā:** Textus selecti e Carakasaṃhitā / traducti et illustrati ab Aloisio Payer \&lt;1944 - \&gt;. -- 0. Introductio. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+:::
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : iacere, fundere
+
+::: indent
+Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
+Fut. ⟪क्षेप्स्यति⟫
+Pass. ⟪क्षिप्यते⟫
+Kaus. ⟪क्षेपयति⟫
+PPP ⟪क्षिप्त⟫
+Inf. ⟪क्षेप्तुम्⟫
+Absol. -⟪क्षिप्य⟫
+Gerundivum: ⟪क्षेप्य⟫
+:::
+⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : festinare
+
+::: indent
+Perf. Vc ⟪तत्वरे⟫
+Fut. ⟪त्वरिष्यते⟫
+Pass. ⟪त्वर्यते⟫
+Kaus. ⟪त्वरयति⟫
+PPP ⟪त्वरित⟫ ⟪।⟫ sig[⟪तू्र्⟫]⟪ण⟫
+Inf. ⟪त्वरितुम्⟫
+:::
+⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : laedere
+
+::: indent
+Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
+Fut. ⟪द्रोहिष्यति⟫ ⟪।⟫ ⟪ध्रोक्ष्यति⟫
+Pass. ⟪द्रुह्यते⟫
+Kaus. ⟪द्रोहयति⟫
+PPP ⟪द्रुग्ध⟫ ⟪।⟫ ⟪द्रूढ⟫
+Inf. ⟪द्रोग्धुम्⟫
+:::
+⟪कुलूहल⟫ n.: curiositas, interest
+
+::: media
+![](/images/lekt4901.webp)
+Abb.: ⟪कुलूहलम्⟫
+(Bildquelle: [Details](/la/licenses#lekt4901))
+:::
+⟪कृत्स्न⟫ 3: totus, integer
+
+⟪परिचय⟫ m.: cognitio
+
+⟪कला⟫ f.: ars
+
+::: media
+![](/images/lekt4902.webp)
+Abb.: ⟪उत्तमा⟫ ⟪काला⟫
+⟪शिवो⟫ ⟪नटराजा⟫, saec. XI
+(Fons imaginis: [Detalia](/la/licenses#lekt4902))
+:::
+⟪वर⟫ m.n.: voluntas
+
+⟪उत⟫ Indeclinabile: et, quoque, an
+
+⟪विहंग⟫ m.: avis ("in aerem स्⟫traum - विह⟫ - eunt")
+
+::: media
+![](/images/lekt4903.jpg)
+Fig.: ⟪विहंगः⟫
+(Fons imaginis: [Detalia](/la/licenses#lekt4903))
+:::
+⟪वेष⟫ m.: vestis, aspectus, exterius
+
+::: media
+![](/images/lekt4904.webp)
+Fig.: ⟪वेषः⟫
+⟪वाराणस्याम्⟫
+(Fons imaginis: [Detalia](/la/licenses#lekt4904))
+:::
+⟪छन्न⟫ n.: tegmen, latebra
+
+⟪पञ्जर⟫ n.: cavea
+
+::: media
+![](/images/lekt4909.webp)
+Fig.: ⟪पञ्जरम्⟫
+Augur cum psittaco in cavea: psittacus chartulas trahit, quibus fatum scriptum est Mysore
+(Fons imaginis: [Detalia](/la/licenses#lekt4909))
+:::
+⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: infimus gradus [Dalit](http://de.wikipedia.org/wiki/Dalit)
+
+⟪स्वयम्⟫ Indekl.: ipsē, sponte
+
+⟪अवनि⟫ f.: terra
+
+⟪मुहूर्त⟫ m.,n.: momentum, tempus opportūnum
+
+⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : imaginārī, cogitāre
+
+::: indent
+Perf. IV ⟪दध्यौ⟫
+Fut. ⟪ध्यास्यति⟫
+Pass. ⟪ध्यायते⟫
+Kaus. ⟪ध्यापयति⟫
+PPP ⟪ध्यात⟫
+Inf. ⟪ध्यातुम्⟫
+Gerundiv ⟪ध्येय⟫
+:::
+⟪आदर⟫ m.: Consideratio, observantia, reverentia
+
+::: media
+![](/images/lekt4905.webp)
+Fig.: ⟪सादरः⟫
+Amritsar = ਅੰਮ੍ਰਿਤਸਰ
+(Fons imaginis: [Detalia](/la/licenses#lekt4905))
+:::
+⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
+
+⟪परम⟫ 3: remotissimus, altissimus ; ⟪पञ्चम्या⟫ : melior quam, altior quam
+
+⟪शिशु⟫ m.: Puer, fetus
+
+::: media
+![](/images/lekt4906.webp)
+Fig.: ⟪गजशिशुः⟫
+Sri Lanka
+(Fons imaginis: [Detalia](/la/licenses#lekt4906))
+:::
+## 49.5. Exercitium repetitionis de morphologia
+
+Formas sequentes determinate:
+
+1.  ⟪गृहाणि⟫
+2.  ⟪नमानि⟫
+3.  ⟪नामानि⟫
+4.  ⟪नामनि⟫
+5.  ⟪मत्यै⟫
+6.  ⟪मन्यै⟫
+7.  ⟪मान्यै⟫
+8.  ⟪मान्यैः⟫
+9.  ⟪अहम्⟫
+10.  ⟪अहन्⟫
+11.  ⟪आत्थ⟫
+12.  ⟪आत्त⟫
+13.  ⟪आध्वम्⟫
+14.  ⟪अत्थ⟫
+15.  ⟪ते⟫
+16.  ⟪स्थ⟫
+17.  ⟪तस्थ⟫
+18.  ⟪तस्य⟫
+19.  ⟪दाता⟫
+20.  ⟪तता⟫
+21.  ⟪तथा⟫
+22.  ⟪तदा⟫
+23.  ⟪तुद⟫
+24.  ⟪शेकिथ⟫
+25.  ⟪अनृतम्⟫
+26.  ⟪अदूष्यः⟫
+27.  ⟪अदुष्यः⟫
+28.  ⟪त्वत्⟫
+29.  ⟪यदि⟫
+30.  ⟪यति⟫
+31.  ⟪याति⟫
+32.  ⟪यातुः⟫
+33.  ⟪यतः⟫
+34.  ⟪यातः⟫
+35.  ⟪आसीथाः⟫
+36.  ⟪वक्थ⟫
+37.  ⟪बन्धनीय⟫
+38.  ⟪गायी⟫
+39.  ⟪मय्हम्⟫
+
+## 49.6. Exercitium translationis
+
+⟪बान⟫ (saec. VII p. Chr.): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, p. 35sqq.
+
+Interrogationes Regis ⟪शूद्रक⟫ ex ⟪विदिशा⟫ ad Psittacum ⟪वैशम्पायन⟫:
+
+⟪नरपतिरब्रवीत्⟫ ⟪।⟫ ⟪आस्तां⟫ ⟪तावत्सर्वमेवेदम्⟫ ⟪।⟫ ⟪अपनयतु⟫ ⟪नः⟫ ⟪कुतूहलम्⟫ ⟪।⟫ ⟪आवेदयतु⟫ ⟪भवानादितः⟫ ⟪प्रभृति⟫ ⟪कार्त्न्येनात्मनो⟫ ⟪जन्म⟫ ⟪कस्मिन्देशे⟫ ⟪।⟫ ⟪भवान्कथं⟫ ⟪जातः⟫ ⟪।⟫ ⟪केन⟫ ⟪वा⟫ ⟪नाम⟫ ⟪कृतम्⟫ ⟪।⟫ ⟪का⟫ ⟪माता⟫ ⟪।⟫ ⟪कस्ते⟫ ⟪पिता⟫ ⟪।⟫ ⟪कथं⟫ ⟪वेदानामागमः⟫ ⟪।⟫ ⟪कथं⟫ ⟪शास्त्राणां⟫ ⟪परिचयः⟫ ⟪।⟫ ⟪कुतः⟫ ⟪कलाः⟫ ⟪समासादिताः⟫ ⟪।⟫ ⟪किं⟫ ⟪जन्मान्तरानुस्मरणमुत⟫ ⟪वरप्रदानम्⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विहंगवेषधारी⟫ ⟪कश्चिच्छन्नं⟫ ⟪विवससि⟫ ⟪।⟫ ⟪क्व⟫ ⟪वा⟫ ⟪पूर्वमुषितम्⟫ ⟪।⟫ ⟪कियद्वा⟫ ⟪वयः⟫ ⟪।⟫ ⟪कथं⟫ ⟪पञ्जरबन्धः⟫ ⟪।⟫ ⟪कथं⟫ ⟪चाण्डालहस्तगमनम्⟫ ⟪।⟫ ⟪इह⟫ ⟪वा⟫ ⟪कथमागमनमिति⟫ ⟪।⟫
+
+⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫
+
+::: media
+![](/images/lekt4908.webp)
+Fig.: ⟪शुकः⟫
+Psittacula cyanocephala (Cyanopsitta)
+(Fons imaginis: [Detalia](/la/licenses#lekt4908))
+:::
+
+::: deleteme-box
+
+**lekt4907:** [Imago a Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Accessus die 2009-01-10. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attributio, usus non commercialis, share alike)]
+
+**lekt4901:** [Imago a younee. -- [http://www.flickr.com/photos/younee/1708474353/](http://www.flickr.com/photos/younee/1708474353/). -- Accessus die 2009-01-11. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attributio, nulla modificatio)]
+
+**lekt4902:** ⟪शिवो⟫ ⟪नटराजा⟫, saec. XI. [Imago a Vassil / Wikipedia. Dominium publicum]
+
+**lekt4903:** [Imago a Toji Leon. -- [http://www.flickr.com/photos/tojileon/295384395/](http://www.flickr.com/photos/tojileon/295384395/). -- Accessus die 2009-01-11. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatio)]
+
+**lekt4904:** ⟪वाराणस्याम्⟫ [Imago fontis: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Accessus die 2009-01-11. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attributio, usus non commercialis, share alike)]
+
+**lekt4909:** Augur cum psittaco in cavea: psittacus chartulas trahit, quibus fatum scriptum est Mysore [Imago fontis: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Accessus die 2009-01-12. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)]
+
+**lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Imago fontis: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Accessus die 2009-01-11. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Attributio)]
+
+**lekt4906:** Sri Lanka [Imago fontis: Carmelo Aquilina. -- [http://www.flickr.com/photos/carmelos-pictures/113895562/](http://www.flickr.com/photos/carmelos-pictures/113895562/). -- Accessus die 2009-01-11. -- [Licentia Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attributio, usus non commercialis, nulla modificatio)]
+
+**lekt4908:** Psittacus cyanocephala _= Psittacula cyanocephala_[Fontes imaginis: Arbor Candelae. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Accessus die 2009-01-12. -- [Licentia Creative Communis](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attributio, usus non commercialis, share alike)]
+
+:::
+

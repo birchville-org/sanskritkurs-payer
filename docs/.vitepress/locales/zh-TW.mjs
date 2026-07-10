@@ -17,7 +17,7 @@ export const zhTW = {
       { text: 'TOC', link: '/zh-TW/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Credits', link: '/zh-TW/impressum' },
-      { text: '⚙️', link: '/zh-TW/settings', ariaLabel: 'Open Settings' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/zh-TW/settings', ariaLabel: 'Open Settings' }
     ],
     docFooter: {
       prev: 'Previous Lesson',

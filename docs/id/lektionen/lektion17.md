@@ -13,7 +13,7 @@ status: stable
 
 The verbal endings are attached directly to the root. In doing so, the phonetic changes resulting from word-sandhi must be taken into account.
 
-::::grammar-box
+::: grammar-box
 
 The following forms of formation exist in the second present class:
 
@@ -23,7 +23,7 @@ The following forms of formation exist in the second present class:
 2.  Roots without stem-apophony (gradation)
 3.  Two-syllable roots ending in -i/-ī with stem-apophony (gradation)
 
-::::
+:::
 ## 17.2. Roots of the Second Present Class with Stem Ablation: Strong Grade – Weak Grade
 
 Examples:
@@ -33,9 +33,7 @@ Examples:
 *   strong present stem: dveṣ-
 *   weak present stem: dviṣ-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -44,7 +42,7 @@ Examples:
 | 3\. sg. Pres. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
 | 3\. pl. Pres. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
-:::::::
+:::
 The following word-sandhi rule applies here:
 
 Word-sandhi of -ṣ + t(h)-
@@ -60,9 +58,7 @@ Further examples:
     *   before consonant: i-
     *   before vowel: y-/iy-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -71,15 +67,13 @@ Further examples:
 | 3\. sg. Pres. Ā | ⟪इते⟫ (i-te) |
 | 3\. pl. Pres. Ā | ⟪इयते⟫ (iy-ate) |
 
-:::::::
+:::
 ⟪दुह्⟫ 2 U "to milk"
 
 *   strong present stem: doh-
 *   weak present stem: duh-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -88,7 +82,7 @@ Further examples:
 | 3\. sg. Pres. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
 | 3\. pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) |
 
-:::::::
+:::
 ⟪हन्⟫ 2 P "to strike, to kill, to slay"
 
 *   strong present stem: han-
@@ -96,9 +90,7 @@ Further examples:
     *   before consonant: ha- (« \*hn-)
     *   before vowel: ghn-/han-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -107,22 +99,20 @@ Further examples:
 | 3\. sg. Pres. Ā | ⟪हते⟫ (ha-te) |
 | 3\. pl. Pres. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
-:::::::
+:::
 ⟪अस्⟫ 2 P "to be"
 
 *   strong present stem: as-
 *   weak present stem: s-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | ⟪अस्ति⟫ (as-ti) |
 | 3\. pl. Pres. P | ⟪सन्ति⟫ (s-anti) |
 
-:::::::
+:::
 ## 17.3. Roots of the Second Present Class with Stem Gradation: Guṇa Grade - Zero Grade
 
 Example:
@@ -134,9 +124,7 @@ Example:
     *   before consonant: stu-
     *   before vowel: stuv-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -145,7 +133,7 @@ Example:
 | 3\. sg. Pres. Ā | ⟪स्तुते⟫ (stu-te) |
 | 3\. pl. Pres. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
-:::::::
+:::
 ## 17.4. Roots of the Second Present Class without Stem Gradation
 
 Roots of the second present class without stem gradation end in *-ā*.
@@ -154,56 +142,48 @@ Example:
 
 ⟪पा⟫ 2 P “to protect, guard, watch over”
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | ⟪पाति⟫ (pā-ti) |
 | 3\. pl. Pres. P | ⟪पान्ति⟫ (pā- + -anti) |
 
-:::::::
+:::
 A few other roots of the second class also lack stem gradation:
 
 Examples:
 
 ⟪अद्⟫ 2 P “to eat”
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | ⟪अत्ति⟫ (ad- + -ti) |
 | 3\. pl. Pres. P | ⟪अदन्ति⟫ (ad-anti) |
 
-:::::::
+:::
 ⟪आस्⟫ 2 Ā “to sit”
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. Ā | ⟪आस्ते⟫ (ās-te) |
 | 3\. pl. Pres. Ā | ⟪आसते⟫ (ās-ate) |
 
-:::::::
+:::
 ⟪वच्⟫ 2 P “to speak”
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | ⟪वक्ति⟫ (vac- + -ti) |
 | 3\. pl. Pres. P | does not occur |
 
-:::::::
+:::
 ## 17.5. Disyllabic roots ending in -i/-ī with stem gradation
 
 Several roots are disyllabic in a number of forms, i.e., they have an -i (or, before certain endings, -ī) before a consonantal ending. Nevertheless, these roots are treated by indigenous grammarians and in dictionaries, etc., as monosyllabic.
@@ -217,16 +197,14 @@ Examples:
     *   before consonant: rudi-
     *   before vowel: rud-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | ⟪रोदिति⟫ (rodi-ti) |
 | 3\. pl. Pres. P | ⟪रुदन्ति⟫ (rud-anti) |
 
-:::::::
+:::
 ⟪ब्रू⟫ 2 U “to speak”
 
 *   strong present stem: bravī- (“bro- + -ī)
@@ -234,9 +212,7 @@ Examples:
     *   before consonant: brū-
     *   before vowel: bruv-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -245,55 +221,55 @@ Examples:
 | 3\. sg. Pres. Ā | ⟪ब्रूते⟫ (brū-te) |
 | 3\. pl. Pres. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
-:::::::
+:::
 ⟪स्तु⟫ 2 U “to praise” also has forms according to this pattern, in addition to the forms given under 3.:
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Pres. P | ⟪स्तवीति⟫ (“sto + ī + ti):bror: ⟪स्तौति⟫ |
 
-:::::::
+:::
 ## 17.6. Word List
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫ PPP ⟪हत⟫ : to strike, to kill, to slay
 
 from this:
 
-:::indent
+::: indent
 ⟪घात⟫ m.: killing, slaughter
-::::::media
+:::: media
 ![](/images/lekt1703.webp)
 Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Image source: [Details](/en/licenses#lekt1703))
+::::
 :::
 ⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : to sit
 
 from this:
 
-:::indent
+::: indent
 ⟪आसन⟫ n.: sitting, seat; also: yoga postures (āsanas) of the yogin
-::::::media
+:::: media
 ![](/images/lekt1701.webp)
 Fig.: ⟪योगासनम्⟫
 (Image source: [Details](/en/licenses#lekt1701))
+::::
 :::
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : to weep, to howl
 
 from this:
 
-:::indent
+::: indent
 ⟪रुद्र⟫ m.: (the howler =) the storm god Rudra
 :::
 ⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ no passive and no PPP: to speak, to say (to someone: double accusative)
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : to milk
 
-:::media
+::: media
 ![](/images/lekt1702.webp)
 Fig.: ⟪दोग्धि⟫
 (Image source: [Details](/en/licenses#lekt1702))
@@ -302,7 +278,7 @@ Fig.: ⟪दोग्धि⟫
 
 from this:
 
-:::indent
+::: indent
 ⟪दिष्टि⟫ f.: instruction, fortunate occurrence
 
 ⟪दिष्ट्या⟫ Instr.: (literally: by a fortunate occurrence) O fortunate occurrence (exclamation of joy and felicity)
@@ -384,7 +360,7 @@ Translate the following verb forms and provide the corresponding root:
 45. **⟪जीव्यते⟫** (*jīvyate*) – to live (root: **⟪जीव्⟫** *jīv*)
 46. **⟪दिश्यन्ते⟫** (*diśyante*) – to be shown (root: **⟪दिश्⟫** *diś*)
 
-:::deleteme-box
+::: deleteme-box
 
 
 **lekt1701:** [Image source: by tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Accessed on 2008-12-07. -- Creative Commons License (Attribution, no derivatives)]

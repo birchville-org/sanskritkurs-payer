@@ -1,8 +1,8 @@
 ---
-title: Lesson 2
-subtitle: "The Nominal Sentence and the Fundamentals of Declension"
+title: Lektion 2
+subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
 lesson_id: 2
-category: "Grammar"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
@@ -11,8 +11,8 @@ last_reconstructed: 2026-04-30
 
 ## 2.1. The Nominal Sentence
 
-:::grammar-box
-**Schema: Predicative Noun - Subject**
+::: grammar-box
+**Schema: Predicate Noun - Subject**
 
 e.g. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu is a god."
 :::
@@ -20,15 +20,13 @@ A verbal copula ("is", "are", "am", "art", "be") is not necessary, but may somet
 
 There are **no articles**: **devaḥ** -- ⟪देवः⟫ can mean "the god" or "a god".
 
-Although Sanskrit word order is quite free (especially in verses), when translating a nominal sentence, one must always primarily consider a translation according to the standard schema above.
+Although in Sanskrit word order is quite free (especially in verses), when translating a nominal sentence one must always primarily consider a translation according to the above standard schema.
 
-In the nominal sentence, the subject is in the nominative (first case = **prathamā** f. = ⟪प्रथमा⟫). The predicative noun agrees with the subject in number and case; if the predicative noun is an adjective, also in gender.
-
----
+In the nominal sentence, the subject is in the nominative (first case = **prathamā** f. = ⟪प्रथमा⟫). The predicate noun agrees with the subject in number and case; if the predicate noun is an adjective, also in gender.
 
 ## 2.2. On Declension (Inflection of Nouns)
 
-In Sanskrit, there are:
+In Sanskrit there are:
 
 - **three numbers** (forms of counting) = **vacana** n. -- ⟪वचन⟫
   - Singular (singular number) = **ekavacana** n. -- ⟪एकवचन⟫
@@ -40,34 +38,31 @@ In Sanskrit, there are:
   - Neuter (neuter) = **napuṃsaka** n. -- ⟪नपुंसक⟫
 - **eight cases** (cases) = **sup** -- ⟪सुप्⟫ (= case endings)
 
-For declension, the case endings (**sup** = ⟪सुप्⟫) are attached to the so-called **nominal stem** (form of the noun without case endings).
+For declension, the case endings (**sup** = ⟪सुप्⟫) attach to the so-called **nominal stem** (form of the noun without case endings).
 
-Example: **devas** = ⟪देवस्⟫ (Nominative Singular Masculine) "the/a god" = **deva-** -- ⟪देव⟫- (nominal stem) + **-s** -- -⟪स्⟫ (case ending).
+Example: **devas** = ⟪देवस्⟫ (nominative singular masculine) "the/a god" = **deva-** -- ⟪देव⟫- (nominal stem) + **-s** -- -⟪स्⟫ (case ending).
 
 In Sanskrit dictionaries, nouns are listed in the **nominal stem**:
 - **deva** m. -- ⟪देव⟫ m. (masculine)
 - **vacana** n. -- ⟪वचन⟫ n. (neuter)
 - **vyakti** f. -- ⟪व्यक्ति⟫ f. (feminine)
 
----
-
 ## 2.3. The Nominative Singular
 
 **Nominative Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
-:::grammar-box
-**The Nominative Singular ends in -s = -⟪स्⟫ or is zero-ending.**
+::: grammar-box
+**The nominative singular ends in -s = -⟪स्⟫ or is endingless.**
 :::
 ### 2.3.1. Nominative Singular ending in -s
 
-The following nominal stems, which end in a vowel, form the nominative singular with **-s**:
+The following nominal stems, which end in a vowel, form the nominative singular in **-s**:
 
-:::grammar-box
+::: grammar-box
 **Masculines in -a:** e.g. deva m. = ⟪देव⟫ "god" -- Nom. sg.: devas = ⟪देवस्⟫
 **Masculines in -i:** e.g. kavi m. = ⟪कवि⟫ "poet" -- Nom. sg.: kavis = ⟪कविस्⟫
 **Masculines in -u:** e.g. guru m. = ⟪गुरु⟫ "teacher" -- Nom. sg.: gurus = ⟪गुरुस्⟫
 :::
----
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
@@ -77,7 +72,7 @@ The final sound of a word in Sanskrit is also determined by the initial sound of
 
 See also the overview:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi of final -s. -- (Materials on Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois \<1944 - \>:** Sandhi of final -s. -- (Materials on Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Final **-s**:
 
@@ -103,10 +98,8 @@ Final **-s**:
     - before voiced consonants/a: it becomes **-o** (initial a drops out » ⟪ऽ⟫)
       - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
       - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
-    - before other vowels: it becomes **-a** (Hiatus)
+    - before other vowels: it becomes **-a** (hiatus)
       - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
-
----
 
 ## 2.5. Word List
 
@@ -114,16 +107,15 @@ Final **-s**:
 
 **īśvara** m. -- ⟪ईश्वर⟫ : Lord, ruler, god (monotheistic).
 
-**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmin (priestly estate).
+**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmin (priestly class).
 
-**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (noble and military estate).
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (aristocratic and military class).
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (agricultural and merchant estate).
+**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (agricultural and merchant class).
 
-**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (service estate).
+**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (service class).
 
-:::
-tip The four estates (varna)
+::: note-box Die vier Stände (varna)
 According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distributed:
 
 - **of the Brahmins**
@@ -134,62 +126,61 @@ According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distr
   - giving
   - receiving gifts
 - **of the Kṣatriyas**
-  - protect the people
-  - give gifts (to Brahmins)
-  - sacrifice for oneself
+  - protecting the people
+  - giving gifts (to Brahmins)
+  - sacrificing for oneself
   - study of the Vedas
 - **of the Vaiśyas**
-  - animal husbandry
+  - cattle rearing
   - agriculture
   - trade
   - money lending
-  - sacrifice for oneself
-  - give gifts (to Brahmins)
-  - sacrifice for oneself
+  - sacrificing for oneself
+  - giving gifts (to Brahmins)
+  - sacrificing for oneself
   - study of the Vedas
 - **of the Śūdras**
-  - serve the three upper classes
+  - serving the three upper classes
 :::
-**dvija** m. -- ⟪द्विज⟫ : "Twice-born" (initiates of the upper three estates: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- ⟪द्विज⟫ : "Twice-born" (initiates of the upper three classes: Brāhmaṇa, Kṣatriya, Vaiśya).
 
-**varṇa** m. -- ⟪वर्ण⟫ : Color, birth estate (aspiration).
+**varṇa** m. -- ⟪वर्ण⟫ : Color, birth class (aspiration).
 
-The four estates (**varṇa** m.) are often confused with castes. However, the four estates are -- in contrast to castes -- not specifically Indian; in Europe, we also had (partly up to the First World War) an estate system, as the following illustration from the 15th century confirms:
+The four classes (**varṇa** m.) are often confused with castes. However, the four classes are -- in contrast to castes -- not specifically Indian; in Europe, we also had a class system (partly up to the First World War), as the following illustration from the 15th century confirms:
 
-:::media
+::: media
 ![](/images/lekt0201.webp)
-Fig.: Representation of the estate division of the European Middle Ages (woodcut from the late 15th century).
+Fig.: Representation of the class division of the European Middle Ages (woodcut from the late 15th century).
 (Image source: [Details](/en/licenses#lekt0201))
 :::
-**Labels:**
-- **Priestly estate** (~Brāhmaṇa): Tu supplex ora = You pray earnestly!
-- **Noble estate** (~Kṣatriya): Tu protege = You protect!
-- **Peasant estate** (~Vaiśya/Śūdra): Tuque labora = And you work!
+**Labeling:**
+- **Priestly class** (~Brāhmaṇa): Tu supplex ora = You pray earnestly!
+- **Nobility** (~Kṣatriya): Tu protege = You protect!
+- **Peasantry** (~Vaiśya/Śūdra): Tuque labora = And you work!
 
-The three estates wear the respective estate attire. Above them -- thus designated as willed by God -- Christ reigns.
+The three estates wear the respective estate attire. Over the – thereby designated as willed by God – estates sits Christ.
 
-Max Weber &lt;1864 – 1920&gt; defines estate as follows:
+Max Weber \<1864 – 1920\> defines estate as follows:
 
-:::
-note-box
-"**Estate**" is meant to denote a multitude of people who, within an association, effectively
-a) claim an estate-specific special esteem, - possibly also
+::: note-box
+"**Estate**" shall mean a multitude of people who, within an association, effectively
+a) claim an estate-specific special valuation, - possibly also
 b) estate-specific special monopolies.
 
 Estates can arise
-a) primarily, through their own estate-specific way of life, particularly through the type of **profession** (**estate-based or professional estates**),
-b) secondarily, hereditarily charismatic, through successful prestige claims based on estate-based **descent** (**birth estates**),
-c) through estate-based **appropriation** of political or hierocratic lordships as monopolies (**political or hierocratic estates**).
+a) primarily, through their own estate-specific way of life, particularly through the type of **profession** (**way of life or professional estates**),
+b) secondarily, hereditary-charismatic, through successful prestige claims based on estate-specific **descent** (**birth estates**),
+c) through estate-specific **appropriation** of political or hierocratic lordships as monopolies (**political or hierocratic estates**).
 
-The development of birth estates is regularly a form of (hereditary) appropriation of privileges to an association or to qualified individuals. Any fixed appropriation of opportunities, particularly [of] lordships [or livelihood] opportunities, tends to lead to the formation of estates. Any formation of estates tends to lead to the monopolistic appropriation of lordships and livelihood opportunities.
+The birth-estate development is regularly a form of (hereditary) appropriation of privileges to an association or to qualified individuals. Any fixed appropriation of opportunities, particularly [of] lord [ships or acquisition] opportunities, tends to lead to the formation of estates. Any formation of estates tends to lead to the monopolistic appropriation of lordships and acquisition opportunities.
 
-As occupational classes grow on the basis of a market-oriented economy, estates arise and persist preferably on the basis of monopolistic liturgical or feudal or corporately patrimonial provision of associations.
+While economic classes grow on the basis of market-oriented economy, estates arise and exist preferably on the basis of the monopolistically directed liturgical or feudal or estate-patrimonial needs coverage of associations.
 
-»**Corporately**« is meant to signify a society when the social stratification occurs preferably by estates, »**classically**«, when it occurs preferably by classes. The «estate» is closest to the «social» class among the «classes», the «occupational class» is furthest. Estates are often formed by property classes according to their focus.
+"**Estate-based**" shall mean a society if the social division is preferably according to estates, "**class-based**," if it is preferably according to classes. The "estate" is closest to the "social" class among the "classes," and the "economic class" is furthest. Estates are often formed by possession classes according to their focus.
 
-Every corporately organized society is conventional, ordered by rules of conduct, thereby creates economically irrational consumption conditions and hinders free market formation in this manner through monopolistic appropriations and by excluding free disposal of one's own earning capacity.
+Every estate-based society is conventional, ordered by rules of life conduct, thereby creates economically irrational consumption conditions and hinders free market formation in this way through monopolistic appropriations and by excluding free disposal over one's own earning capacity.
 
-[**Weber, Max &lt;1864 – 1920&gt;: Economy and Society : Outline of Understanding Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – P. 625 f.]
+[**Weber, Max \<1864 – 1920\>:** Economy and Society : Outline of Interpretive Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – P. 625 f.]
 :::
 Varṇas are accordingly birth estates.
 
@@ -197,16 +188,16 @@ Varṇas are accordingly birth estates.
 
 **agni** m. -- ⟪अग्नि⟫ : Fire, God Agni.
 
-:::media
+::: media
 ![](/images/lekt0203.jpg)
-Fig.: God Agni, Miniature, 18th century.
+Fig.: God Agni, miniature, 18th century.
 (Image source: [Details](/en/licenses#lekt0203))
 :::
 **sādhu** 3 -- ⟪साधु⟫ : correct, good.
 
 **sādhu** m. -- ⟪साधु⟫ : "holy" man, Sādhu.
 
-:::media
+::: media
 ![](/images/lekt0202.webp)
 Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
 (Image source: [Details](/en/licenses#lekt0202))
@@ -215,11 +206,9 @@ Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
 
 **guru** m. -- ⟪गुरु⟫ : worthy of veneration person: father, mother, older relative, esp. teacher, master
 
----
-
 ## 2.6. Exercise
 
-**A) Insert with due regard to Sandhi and form nominal sentences:**
+**A) Insert considering the Sandhi and form nominal sentences:**
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
    = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)

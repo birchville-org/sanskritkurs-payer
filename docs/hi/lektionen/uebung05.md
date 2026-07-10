@@ -46,7 +46,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
 
-4\. Die drei Feinde des Menschen, die das Tor zur Hölle bilden (Viṣṇusmṛti 33,1+6): kāmakrodhalobhāḥ
+4. मनुष्य के तीन शत्रु, जो नरक का द्वार बनाते हैं (विष्णुस्मृति 33,1+6): कामक्रोधलोभाः
 
 ⟪कामक्रोधलोभाः⟫
 
@@ -90,7 +90,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪आन्वीक्षिकी⟫ ⟪त्रयी⟫ ⟪वार्त्ता⟫ ⟪दण्डनीतिश्च⟫ ⟪विद्याः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung010.webp)
 अभ.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung010))
@@ -163,7 +163,7 @@ maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā
 
 ⟪मैत्रीकरुणामुदितोपेक्षा⟫ ⟪ब्रह्मविहाराः⟫ ⟪।⟫ ⟪मैत्री⟫ ⟪करुणा⟫ ⟪मुदितोपेक्षा⟫ (⟪च⟫) ⟪ब्रह्मविहाराः⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung009.webp)
 अभ.: ⟪ऋग्वेदः⟫
 (छवि स्रोत: [विवरण](/hi/licenses#uebung009))

@@ -11,7 +11,7 @@ status: stable
 
 ## 23.1. The Infinitive (⟪तुमुन्⟫)
 
-:::grammar-box
+::: grammar-box
 **If one wants to express in Sanskrit that an action is performed for the sake of another action ("in order to"), one can use the infinitive (⟪तुमुन्⟫) for the action for whose sake it is performed. The infinitive primarily denotes purpose or intention:**
 
 > ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma has gone to listen to the teacher's speech."
@@ -53,7 +53,7 @@ e.g.
 :::
 ## 23.2. Formation of the Infinitive (⟪तुमुन्⟫)
 
-:::grammar-box
+::: grammar-box
 **guṇa-grade root + -tum**
 
 **or**
@@ -66,7 +66,7 @@ e.g.
 :::
 Examples:
 
-:::indent
+::: indent
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
 :::
@@ -74,14 +74,14 @@ No fixed rules can be established regarding the use of the connecting vowel -i-.
 
 Among the roots learned so far, the following infinitives deserve particular attention:
 
-:::indent
+::: indent
 ⟪गम्⟫ : ⟪गन्तुम्⟫
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
 -ra- as strong grade of -ṛ- have in the infinitive:
 
-:::indent
+::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
@@ -229,7 +229,7 @@ D) Translate and resolve the compounds:
 
 ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt2303.webp)
 Fig.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย
@@ -237,7 +237,7 @@ Fig.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 :::
 ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
-:::media
+::: media
 ![](/images/lekt2301.webp)
 Fig.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
@@ -260,7 +260,7 @@ C) Translate the following ⟪सुभाषितम्⟫
 
 Explanation: ⟪हीन⟫ ⟪३⟫: PPP to ⟪हा⟫ 3: to leave; ⟪धर्मे⟫ = locative sg. "in the ..."
 
-:::media
+::: media
 ![](/images/lekt2302.webp)
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
@@ -286,7 +286,7 @@ A) Translate into Sanskrit:
 
 7\. The "staff" brings about acquisition and secure possession of philosophy, Veda, and economics. The wielding of this staff is politics.
 
-:::media
+::: media
 ![](/images/lekt2304.jpg)
 Fig.: ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, since 2004
@@ -316,7 +316,7 @@ C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicat
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Image source: Wikipedia. GNU FDL]
 

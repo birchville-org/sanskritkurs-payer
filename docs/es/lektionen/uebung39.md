@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Forme las formas de la primera persona que corresponden a las siguientes formas verbales en número, tiempo, modo (indicativo, optativo) y aspecto (P, Ā, voz pasiva):
 
-:::grammar-box
+::: grammar-box
 | 3. persona | 1. persona |
 | :--- | :--- |
 | ⟪१⟫. **⟪अदन्ति⟫** | ⟪अद्मः⟫ |
@@ -103,8 +103,9 @@ A) Forme las formas de la primera persona que corresponden a las siguientes form
 
 | ⟪८८⟫. **⟪अजुहवुः⟫** | ⟪अजुहुम⟫ |
 | ⟪८९⟫. **⟪हरति⟫** | ⟪हरामि⟫ |
-::::::media
+:::: media
 ![](/images/uebung064.webp)
 Fig.: ⟪आगारे⟫ ⟪सीदामः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung064))
+::::
 :::

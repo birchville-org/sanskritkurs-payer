@@ -1,47 +1,48 @@
 ---
-title: Leçon 30
-subtitle: "La 9. classe de présent (⟪क्र्यादि⟫ = « ⟪क्री⟫ et ainsi de suite »)"
+title: Lektion 30
+subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
 lesson_id: 30
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 30
+# Lektion 30
 
-## 30.1. La 9e classe de présent (⟪क्र्यादि⟫ = "⟪क्री⟫ etc.")
+## 30.1. Die 9. Präsensklasse (⟪क्र्यादि⟫ = "⟪क्री⟫ u.s.w.")
 
-:::grammar-box
+::: grammar-box
 **Formation :**
 
 *   radical fort : racine au degré zéro + -nā-
-    
+
 *   radical faible :
-    
+
     *   devant consonne : racine au degré zéro + -nī-
-        
+
     *   devant voyelle : racine au degré zéro + -n-
 :::
 Exemple :
 
-:::indent
+::: indent
 ⟪क्री⟫ 9U "acheter"
-::::::grammar-box
+:::
+::: grammar-box
 
-| |Singulier:br⟪एकवचन⟫|Pluriel:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3e personne:brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
-|**3e personne:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
+| **3e personne:brParasmaipada** | ⟪क्रीणाति⟫:br(krī + nā + ti) | ⟪क्रीणन्ति⟫:br(krī + n + anti) |
+| **3e personne:brĀtmanepada** | ⟪क्रीणीते⟫:br(krī + nī + te) | ⟪क्रीणते⟫:br(krī + n + ate) |
 
 :::
 Pour cette classe de présent, il convient de noter particulièrement la formation du radical de présent à partir de la racine ⟪ज्ञा⟫ 9U "connaître, savoir" :
 
-:::grammar-box
+::: grammar-box
 
-| |Singulier:br⟪एकवचन⟫|Pluriel:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3e personne:brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
-|**3e personne:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
+| **3e personne:brParasmaipada** | ⟪जानाति⟫:br(jā-nā-ti) | ⟪जानन्ति⟫:br(jā-n-anti) |
+| **3e personne:brĀtmanepada** | ⟪जानीते⟫:br(jā-nī-te) | ⟪जानते⟫:br(jā-n-ate) |
 
 :::
 La forme ⟪जा⟫ qui sous-tend le radical de présent de ⟪ज्ञा⟫ s'explique soit par une série d'apophonie -ā (degré zéro) -nā (degré plein), soit par dissimilation à partir de *jñā-nā-ti.
@@ -50,28 +51,29 @@ Certaines racines se terminant par une voyelle longue raccourcissent celle-ci de
 
 Exemple :
 
-:::indent
+::: indent
 ⟪पू⟫ 9U "purifier"
-::::::grammar-box
+:::
+::: grammar-box
 
-| |Singulier:br⟪एकवचन⟫|Pluriel:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3e personne:brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
-|**3e personne:brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
+| **3e personne:brParasmaipada** | ⟪पुनाति⟫:br(pu-nā-ti) | ⟪पुनन्ति⟫:br(pu-n-anti) |
+| **3e personne:brĀtmanepada** | ⟪पुनीते⟫:br(pu-nī-te) | ⟪पुनते⟫:br(pu-n-ate) |
 
 :::
 Formation du participe présent Parasmaipada :
 
 Exemple :
 
-:::indent
+::: indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fém. : ⟪क्रीणती⟫ (krī + n + at + ī)
 :::
 ## 30.2. Usage de l'optatif (⟪लिङ्⟫)
 
 L'optatif est utilisé :
 
-:::grammar-box
+::: grammar-box
 **1. pour exprimer**
 
 *   **un souhait**
@@ -82,184 +84,187 @@ L'optatif est utilisé :
 :::
 Exemple :
 
-:::indent
+::: indent
 ⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = « Que le serf vienne au village. »
-::::::grammar-box
+:::
+::: grammar-box
 **2. Lorsque quelque chose est présenté comme**
 
-*   **possible**
-*   **probable**
 *   **vraisemblable**
+*   **wahrscheinlich**
+*   **vermutlich**
 
 **doit être représenté.**
 :::
 Exemple :
 
-:::indent
+::: indent
 ⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = « S'il sortait du village, il n'entendrait pas le maître. »
-::::::grammar-box
+:::
+::: grammar-box
 **3. Les propositions relatives à l'optatif ont parfois le sens : « Si quelqu'un... »**
 :::
 Exemple :
 
-:::indent
+::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = « Si quelqu'un disait le mensonge, il tomberait en enfer = Si quelqu'un dit le mensonge, il tombe en enfer. »
 :::
-## 30.3. Désinences secondaires de la 3e personne du singulier et du pluriel
+## 30.3. Sekundärendungen der 3. Personen Singular und Plural
 
 L'optatif (⟪लिङ्⟫), l'imparfait (⟪लङ्⟫), l'aoriste (⟪लुङ्⟫), le précatif (⟪आशिर्लिङ्⟫) et le conditionnel possèdent les dites désinences secondaires :
 
-:::grammar-box
+::: grammar-box
 
-| |3e personne du singulier|3e personne du pluriel|
+| | 3e personne du singulier | 3e personne du pluriel |
 | :--- | :--- | :--- |
-|**Parasmaipada**|**-t**|classes athématiques : **-an** ou **-ur**:brOptatif : **-ur**|
-|**Ātmanepada**|**-ta**|classes athématiques : **-ata** (de *nta):brOptatif : **-ran**|
+| **Parasmaipada** | **-t** | athematische Klassen: **-an** oder **-ur** :brOptativ: **-ur** |
+| **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran** |
 
 :::
 ## 30.4. Formation de l'optatif présent (⟪लिङ्⟫)
 
-### 30.4.1. Classes thématiques du présent
+### 30.4.1. Thematische Präsensklassen
 
-:::grammar-box
-**devant des terminaisons commençant par une consonne :**
+::: grammar-box
+**devant les terminaisons commençant par une consonne :**
 
-**radical du présent + -i- (qui fusionne avec le -a- en -e-) + terminaisons secondaires**
+**Présent de la racine + -i- (qui fusionne avec le -a- en -e-) + désinences secondaires**
 
-**devant des terminaisons commençant par une voyelle :**
+**devant les terminaisons commençant par une voyelle :**
 
-**radical du présent + -i- (» -e-) + -y- + terminaison secondaire**
+**Präsensstamm + -i- (» -e-) + -y- + Sekundärendung**
 :::
 Exemples :
 
 1\. Classe du présent :
 
 ⟪भू⟫
-:::grammar-box
+::: grammar-box
 
-| |Singulier:br⟪एकवचन⟫|Pluriel:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ᵉ personne:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
-|**3ᵉ personne:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
+| **3. Person:brParasmaipada** | ⟪भवेत्⟫:br(bhava + i + t) | ⟪भवेयुर्⟫:br(bhava + i + y + ur) |
+| **3. Person:brĀtmanepada** | ⟪भवेत⟫:br(bhava + i + ta) | ⟪भवेरन्⟫:br(bhava + i + ran) |
 
 :::
-4\. Classe du présent :
+4\. Classe de présent :
 
 ⟪नृत्⟫
-:::grammar-box
+::: grammar-box
 
-| |Singulier:br⟪एकवचन⟫|Pluriel:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ᵉ personne:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
-|**3ᵉ personne:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
+| **3. Person:brParasmaipada** | ⟪नृत्येत्⟫:br(nṛtya + i + t) | ⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur) |
+| **3. Person:brĀtmanepada** | ⟪नृत्येत⟫:br(nṛtya + i + ta) | ⟪नृत्येरन्⟫:br(nṛtya + i + ran) |
 
 :::
-6\. Classe du présent
+6\. Classe de présent
 
 ⟪विश्⟫
-:::grammar-box
+::: grammar-box
 
-| |Singulier:br⟪एकवचन⟫|Pluriel:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ᵉ personne:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
-|**3ᵉ personne:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
+| **3. Person:brParasmaipada** | ⟪विशेत्⟫:br(viśa + i + t) | ⟪विशेयुर्⟫:br(viśa + i + y + ur) |
+| **3. Person:brĀtmanepada** | ⟪विशेत⟫:br(viśa + i + ta) | ⟪विशेरन्⟫:br(viśa + i + ran) |
 
 :::
 10\. Classe du présent et causatifs
 
 ⟪चुर्⟫
-:::grammar-box
+::: grammar-box
 
-| |Singulier:br⟪एकवचन⟫|Pluriel:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ᵉ personne:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
-|**3ᵉ personne:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
+| **3. Person:brParasmaipada** | ⟪चोरयेत्⟫:br(coraya + i + t) | ⟪चोरयेयुर्⟫:br(coraya + i + y + ur) |
+| **3. Person:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
 
 :::
-### 30.4.2. Classes de présent athématiques
+### 30.4.2. Athematische Präsensklassen
 
-:::grammar-box
+::: grammar-box
 **Parasmaipada :**
 
-**radical de présent faible + -yā- (devant -ur : -y-) + terminaison secondaire**
+**faible thème de présent + -yā- (devant -ur : -y-) + désinence secondaire**
 
 **Ātmanepada:**
 
-**radical de présent faible + -ī- + terminaison secondaire**
+**faible radical de présent + -ī- + désinence secondaire**
 :::
 Exemples :
 
-2\. classe de présent :
+2\. Classe du présent :
 
 ⟪द्विष्⟫
-:::grammar-box
+::: grammar-box
 
-| |Singulier:br⟪एकवचन⟫|Pluriel:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ᵉ personne:brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
-|**3ᵉ personne:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
+| **3. Person:brParasmaipada** | ⟪द्विष्यात्⟫:br(dviṣ-yā-t) | ⟪द्विष्युर्⟫:br(dviṣ-y-ur) |
+| **3. Person:brĀtmanepada** | ⟪द्विषीत⟫:br(dviṣ-ī-ta) | ⟪द्विषीरन्⟫:br(dviṣ-ī-ran) |
 
 :::
-5\. classe de présent
+5\. Classe du présent
 
 ⟪सु⟫
-:::grammar-box
+::: grammar-box
 
-| |Singulier:br⟪एकवचन⟫|Pluriel:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ᵉ personne:brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
-|**3ᵉ personne:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
+| **3. Person:brParasmaipada** | ⟪सुनुयात्⟫:br(sunu-yā-t) | ⟪सुनुयुर्⟫:br(sunu-y-ur) |
+| **3. Person:brĀtmanepada** | ⟪सुन्वीत⟫:br(sunu + ī + ta) | ⟪सुन्वीरन्⟫:br(sunu + ī + ran) |
 
 :::
-8\. classe de présent
+8\. Classe du présent
 
 ⟪तन्⟫
-:::grammar-box
+::: grammar-box
 
-| |Singulier:br⟪एकवचन⟫|Pluriel:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ᵉ personne:brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
-|**3ᵉ personne:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
+| **3. Person:brParasmaipada** | ⟪तनुयात्⟫:br(tanu-yā-t) | ⟪तनुयुर्⟫:br(tanu-y-ur) |
+| **3. Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
-**kṛ**:br(⟪कृ⟫)
+**kṛ** :br(⟪कृ⟫)
 
-:::grammar-box
+::: grammar-box
 
-| |Singulier:br⟪एकवचन⟫|Pluriel:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ᵉ personne:brParasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
-|**3ᵉ personne:brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
-
-::::::grammar-box
-
-| |Singulier:br⟪एकवचन⟫|Pluriel:br⟪बहुवचन⟫|
-| :--- | :--- | :--- |
-|**3ᵉ personne Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
-|**3ᵉ personne Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
+| **3. Person:brParasmaipada** | ⟪कुर्यात्⟫ | ⟪कुर्युर्⟫ |
+| **3. Person:brĀtmanepada** | ⟪कुर्वीत⟫ | ⟪कुर्वीरन्⟫ |
 
 :::
-## 30.5. Sandhi des auslautenden -r
+::: grammar-box
 
-:::grammar-box
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| :--- | :--- | :--- |
+| **3. Person Parasmaipada** | ⟪क्रीणीयात्⟫:br(krīṇī-yā-t) | ⟪क्रीणीयुर्⟫:br(krīṇī-y-ur) |
+| **3. Person Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
+
+:::
+## 30.5. Sandhi von auslautendem -r
+
+::: grammar-box
 **À l'exception de -ar, les mêmes règles de Sandhi s'appliquent au -r final qu'au -s final.**
 
 **-ar devant des sons sonores reste -ar, mais devant r-, le -r tombe et le -a- est remplacé par -ā-.**
 :::
 Exemples :
 
-:::indent
+::: indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
 
 ⟪पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः⟫
 
 ⟪पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना⟫ ⟪रोदिति⟫
 :::
-## 30.6. Liste de mots
+## 30.6. Wortliste
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : acheter
 
-:::indent
+::: indent
 Fut. ⟪क्रेष्यति⟫  
 Pass. ⟪क्रीयते⟫  
 PPP ⟪क्रीत⟫  
@@ -267,9 +272,10 @@ Inf. ⟪क्रेतुम्⟫
 :::
 ⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : vendre
 
-:::indent
+::: indent
 Absol. ⟪विक्रीय⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3001.webp)
 Fig. : ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
@@ -277,7 +283,7 @@ Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 :::
 ⟪ज्ञा⟫ 9U ⟪जानाति⟫ : connaître, reconnaître, savoir, comprendre
 
-:::indent
+::: indent
 Fut. ⟪ज्ञास्यति⟫  
 Pass. ⟪ज्ञायते⟫  
 Caus. ⟪ज्ञापयति⟫  
@@ -290,7 +296,8 @@ dont :
 ⟪ज्ञाति⟫ m. : (consanguin) parent (les parents sont ceux que l'on connaît !)
 
 ⟪ज्ञान⟫ n. : connaissance, savoir, compréhension (surtout des "vérités" supérieures en religion et philosophie)
-::::::media
+:::
+::: media
 ![](/images/lekt3002.webp)
 Fig. : ⟪ज्ञातयः⟫
 Darewadi, district d'Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
@@ -298,26 +305,28 @@ Darewadi, district d'Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = �
 :::
 ⟪पू⟫ 9U ⟪पुनाति⟫ : purifier
 
-:::indent
+::: indent
 Fut. ⟪पविष्यति⟫  
 Pass. ⟪पूयते⟫  
 Caus. ⟪पावयति⟫  
 PPP ⟪पूत⟫  
 Inf. ⟪पवितुम्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3003.webp)
 Fig. : ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3003))
 :::
 ⟪अश्⟫ 9P ⟪अश्नाति⟫ : manger, consommer
 
-:::indent
+::: indent
 Fut. ⟪अशिष्यति⟫  
 Pass. ⟪अश्यते⟫  
 Caus. ⟪आशयति⟫  
 PPP ⟪अशित⟫  
 Inf. ⟪अशितुम्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3005.webp)
 Fig. : ⟪अश्नीयात्⟫
 ⟪थाली⟫, Inde du Sud
@@ -325,39 +334,40 @@ Fig. : ⟪अश्नीयात्⟫
 :::
 ⟪प्रिय⟫ ⟪३⟫ : cher, aimant, amical
 
-:::media
+::: media
 ![](/images/lekt3004.webp)
 Fig. : ⟪प्रिया⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3004))
 :::
 ⟪चेत्⟫ Conjonction : si ; à condition que (ne se trouve jamais au début d'une phrase)
 
-:::indent
+::: indent
 ⟪न⟫ ⟪चेत्⟫ : si ce n'est
 :::
 ⟪यदि⟫ Conjonction : si
 
-:::indent
+::: indent
 ⟪यद्यपि⟫ : même si, bien que
 
 ⟪यद्येवम्⟫ : si c'est le cas, dans ces circonstances
 :::
 ⟪पुनर्⟫ : de nouveau, toujours, de retour, encore une fois, au contraire, mais
 
-:::indent
+::: indent
 ⟪पुनः⟫ ⟪पुनर्⟫ : de nouveau
 
 dont :
 
 ⟪पुनर्भव⟫ m. : renaissance
-::::::media
+:::
+::: media
 ![](/images/lekt2904.webp)
 Fig. : ⟪पुनर्भवः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2904))
 :::
 ⟪जीव्⟫ 1P ⟪जीवति⟫ : vivre
 
-:::indent
+::: indent
 Fut. ⟪जीविष्यति⟫  
 Pass. ⟪जीव्यते⟫  
 Caus. ⟪जीवयति⟫  
@@ -370,7 +380,7 @@ dont :
 :::
 ⟪सनातन⟫ ⟪३⟫ fém. : ⟪सनातनी⟫ : éternel, impérissable, durable
 
-## 30.7. Exercice
+## 30.7. Übung
 
 A) Transformez les formes verbales suivantes en formes optatives correspondant à la personne, au nombre et au genre verbal :
 
@@ -461,7 +471,7 @@ B) Traduisez les phrases suivantes et résolvez les composés en sanskrit :
 ⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
 ⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
 
-## 30.8. Exercice de révision sur la morphologie
+## 30.8. Wiederholungsübung zur Formenlehre
 
 Déterminez et traduisez les formes de mots suivantes :
 
@@ -506,7 +516,7 @@ Déterminez et traduisez les formes de mots suivantes :
 39.  ⟪तस्मिन्⟫
 40.  ⟪सते⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Source de l'image : earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Consulté le 2008-12-21. -- Licence Creative Commons (Attribution, utilisation non commerciale, pas de travaux dérivés)]
 **lekt3002:** Darewadi, district d'Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Source de l'image : Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Consulté le 2008-12-21. -- Licence Creative Commons (Attribution, utilisation non commerciale, partage à l'identique)]

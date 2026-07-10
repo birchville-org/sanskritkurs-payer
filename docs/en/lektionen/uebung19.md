@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Translate into Sanskrit:
 
-1. The Vaiśya woman, whose son has died, weeps.
+1. The Vaiśyā woman, whose son has died, weeps.
 ⟪यस्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रो⟫ ⟪मृतः⟫ ⟪सा⟫ ⟪रोदिति⟫ ⟪।⟫ (or: ⟪यस्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रो⟫ ⟪मृतो⟫ ⟪रोदिति⟫ ⟪।⟫)
 
 2. Rāma sacrifices to the deity who protects him.
@@ -31,23 +31,23 @@ B) Translate:
 ⟪वारिदो⟫ ⟪वारि⟫ ⟪मुञ्चति⟫ ⟪।⟫  
 ⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫  
 ⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥१॥⟫  
-With which wind the cloud lets fall water, with that wind moves a scholar his umbrella.
-(Corresponds to: *Behind the wind sails the wise one. / As the wind, so turns the flag.*)
+With which wind the cloud lets fall water, with that wind a scholar moves his umbrella.
+(Corresponds to: *Behind the wind sails the wise man. / As the wind blows, so turns the flag.*)
 
 ⟪यो⟫ ⟪धर्ममर्थं⟫ ⟪कामं⟫ ⟪च⟫  
 ⟪यथाकालं⟫ ⟪निषेवते⟫ ⟪।⟫  
 ⟪धर्मार्थकामसंयोगं⟫  
 ⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫  
-He who at the right time indulges in religion (dharma), profitable activity (artha) or love (kāma), finds in this world and in the hereafter communion with religion, profit and love.
+He who at the right time follows religion (dharma), profitable activity (artha) or love (kāma), finds in this world and in the hereafter communion with religion, profit, and love.
 
 ⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
 ⟪स⟫ ⟪पुत्रो⟫ ⟪यस्तु⟫ ⟪जीवति⟫ ⟪।⟫  
 ⟪स⟫ ⟪जीवति⟫ ⟪गुणो⟫ ⟪यस्य⟫  
 ⟪धर्मो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪जीवति⟫ ⟪॥३॥⟫  
-This is his wife, who speaks love,  
-This is however a son, who lives,  
+That is his wife, who speaks love,  
+That is a son, who lives,  
 He lives, who has virtue,  
-He who has religion, law and custom, lives.
+He who has religion, law, and custom, lives.
 
 ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫  
 ⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
@@ -55,11 +55,11 @@ He who has religion, law and custom, lives.
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫  
 He who has prosperity, has friends,  
 He who has prosperity, has relatives,  
-He who has prosperity, is in the world a man,  
+He who has prosperity, is a man in the world,  
 He who indeed has prosperity, is a scholar.
 
-:::media
+::: media
 ![](/images/uebung029.webp)
 Fig.: ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫
-(Image source: [Details](/en/licenses#uebung029))
+(Image source: [Details](/licenses#uebung029))
 :::

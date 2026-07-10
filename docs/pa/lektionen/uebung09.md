@@ -105,7 +105,7 @@ kārukuśīlavakarma ਇੱਕ Tatpuruṣa ਹੈ ਜਿਸਦੇ ਅਗਲੇ �
 
 ਅਰਥਸ਼ਾਸਤਰ ਖੇਤੀਬਾੜੀ, ਪਸ਼ੂ ਪਾਲਣ ਅਤੇ ਵਪਾਰ ਹੈ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung013.webp)
 Abb.: ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 (Bildquelle: [Details](/licenses#uebung013))

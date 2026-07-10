@@ -1,214 +1,214 @@
 ---
-title: Lektion 5
-subtitle: "Grundlagen der Nominalkomposita (samāsa)"
+title: 第5课
+subtitle: "名词复合词（samāsa）基础"
 lesson_id: 5
 last_reconstructed: 2026-05-07
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 5
 
-:::deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Grundlagen der Nominalkomposita (samāsa) <!-- TODO: Fallback translation -->
-- Fachterminologie für Komposita <!-- TODO: Fallback translation -->
-- Kopulative Komposita (Dvandva) <!-- TODO: Fallback translation -->
-- Die Reihenfolge der Glieder in Dvandvas <!-- TODO: Fallback translation -->
+::: deleteme-box
+**在本课中，您将学习：**
+- 复合名词（samāsa）的基础知识
+- 复合名词的专业术语
+- 并列复合词（Dvandva）
+- Dvandva 中各组成部分的顺序
 :::
-## 5.1. Nominalkomposita (samāsa m. = ⟪समास⟫)
+## 5.1. 复合名词（samāsa m. = ⟪समास⟫）
 
-Die Bildung von Wortzusammensetzungen in sehr großem Umfang ist ein Charakteristikum des Sanskrit. <!-- TODO: Fallback translation -->
+大量构词是梵语的一个特征。
 
-Die wichtigsten Bildungsformen von Komposita sind: <!-- TODO: Fallback translation -->
-- **kopulative Komposita** (dvandva n. = ⟪द्वन्द्व⟫) <!-- TODO: Fallback translation -->
-- **determinative Komposita** (tatpuruṣa m. = ⟪तत्पुरुष⟫) <!-- TODO: Fallback translation -->
-- **Possesivkomposita** (bahuvrīhi m. = ⟪बहुव्रीहि⟫) <!-- TODO: Fallback translation -->
+复合词最重要的构成形式有：
+- **并列复合词**（dvandva n. = ⟪द्वन्द्व⟫）
+- **限定复合词**（tatpuruṣa m. = ⟪तत्पुरुष⟫）
+- **属格复合词**（bahuvrīhi m. = ⟪बहुव्रीहि⟫）
 
-(Zu den beiden letztgenannten siehe später!) <!-- TODO: Fallback translation -->
+（关于最后提到的两项，详见后文！）
 
 ---
 
 ## 5.2. Zur Sanskrit-Terminologie für Komposita
 
-- **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Glieder eines Kompositums <!-- TODO: Fallback translation -->
-- **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : Auflösung eines Kompositums <!-- TODO: Fallback translation -->
-- **nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ : Kompositum, für das es kein vigrahavākya gibt oder dessen vigrahavākya nicht möglich ist mit den Wörtern des Kompositums. <!-- TODO: Fallback translation -->
-- **aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : Kompositum, in dem das Vorderglied eine Kasusendung behält <!-- TODO: Fallback translation -->
-- **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Kompositum, dessen Vorderglieder ohne Kasusendungen sind (der Normalfall) <!-- TODO: Fallback translation -->
-- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Kompositum, in dem ein oder mehrere mittlere Glieder ausgelassen werden <!-- TODO: Fallback translation -->
+- **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫：复合词的组成部分
+- **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫：复合词的展开（解析）
+- **nityasamāsaḥ** m. = ⟪नित्यसमासः⟫：没有展开句（vigrahavākya）或其展开句无法用复合词中的词语构成的复合词。
+- **aluksamāsaḥ** m. = ⟪अलुक्समासः⟫：前一部分保留格词尾的复合词
+- **luksamāsaḥ** m. = ⟪लुक्समासः⟫：前一部分没有格词尾的复合词（正常情况）
+- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫：省略了一个或多个中间部分的复合词
 
 ---
 
 ## 5.3. Kopulative Komposita (Dvandva n. = ⟪द्वन्द्व⟫)
 
-Die kopulativen Komposita dienen zur Verknüpfung von grammatisch gleichartigen, koordinierten Gliedern (Substantiven oder Adjektiven). <!-- TODO: Fallback translation -->
+黏着复合词用于连接语法上对等、并列的成分（名词或形容词）。
 
-:::grammar-box
-**Ein Dvandva bezeichnet:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**一个 Dvandva 指的是：**
 
-1. **entweder die summative Verbindung der durch seine einzelnen Glieder bezeichneten Personen, Dinge, Eigenschaften:** <!-- TODO: Fallback translation -->
-   Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫ <!-- TODO: Fallback translation -->
+1. **要么通过其各个成员所指代的人、事物、属性进行的总和连接：**
+   Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
 
-2. **oder es fasst diese Personen, Dinge oder Eigenschaften zu einer Einheit zusammen:** <!-- TODO: Fallback translation -->
-   Samāhāradvandva ("Zusammenfassungsdvandva") = ⟪समाहारद्वन्द्व⟫ <!-- TODO: Fallback translation -->
+2. **或者将这些人物、事物或属性归纳为一个整体：**
+   Samāhāradvandva（“归纳性双数”）= ⟪समाहारद्वन्द्व⟫
 
-**Im ersten Fall (Itaretaradvandva):**
-Das Dvandva erhält das grammatische Geschlecht seines letzten Gliedes und die Endungen des Duals (bei zwei Dingen) bzw. des Plurals (bei mehr als zwei Dingen). Auch Singularendungen sind zulässig. <!-- TODO: Fallback translation -->
+**在第一种情况（Itaretaradvandva，即“互列复合词”）中：**
+Dvandva（互列复合词）获得其最后一个成分的语法性别，以及双数（对于两个事物）或复数（对于多于两个事物）的词尾。单数词尾也是允许的。
 
-**Im zweiten Fall (Samāhāradvandva):**
-Das Dvandva ist im Allgemeinen ein Neutrum (unabhängig vom Geschlecht des letzten Gliedes) und steht im Singular. <!-- TODO: Fallback translation -->
+**在第二种情况（Samāhāradvandva）中：**  
+Dvandva 通常是一个中性词（无论最后一个词干的性别如何），并且以单数形式出现。
 
-**Die Auflösung:**
-Erfolgt mit "und" (**ca** = ⟪च⟫), gelegentlich mit "oder" (**vā** = ⟪वा⟫) oder "je". <!-- TODO: Fallback translation -->
+**解答：**
+由“和”（**ca** = ⟪च⟫）连接，偶尔由“或”（**vā** = ⟪वा⟫）或“各自”连接。
 :::
-Zu den Dualdvandva siehe später! <!-- TODO: Fallback translation -->
+有关双数并列复合词（Dualdvandva），请参见后文！
 
 ### 5.3.1. Vorderglieder von Komposita
 
-Die Vorderglieder von Komposita (nicht nur Dvandvas) haben in der Regel die Form des unveränderten **Nominalstamms**. Die einzelnen Glieder von Komposita werden nach den Regeln des **Satzsandhi** verbunden (d.h. des Sandhi, den wir bisher kennengelernt haben, im Gegensatz zum Wortsandhi, der innerhalb des Wortes vor formativen Elementen Anwendung findet). <!-- TODO: Fallback translation -->
+复合词的前置成分（不仅限于持业释）通常呈现为**名词词干**的不变形式。复合词的各个成分依据**句法连声**的规则进行连接（即指我们迄今为止所了解的连声，与在词内形态成分之前应用的**词法连声**相对）。
 
 ### 5.3.2. Plural-Itaretaradvandva
 
-Beispiele für Pluraldvandva: <!-- TODO: Fallback translation -->
+Beispiele für Pluraldvandva:
 
-**brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ <!-- TODO: Fallback translation -->
-> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫ <!-- TODO: Fallback translation -->
-> (Brahmanen, Kṣatriyas, Vaiśyas und Śūdras) <!-- TODO: Fallback translation -->
->  <!-- TODO: Fallback translation -->
-> oder = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫ <!-- TODO: Fallback translation -->
-> ((ein/der) Brahmane, Kṣatriya, Vaiśya und Śūdra) <!-- TODO: Fallback translation -->
+**brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
+> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
+> （婆罗门、刹帝利、吠舍和首陀罗）
+> 
+> 或者 = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
+> （一位/那位婆罗门、刹帝利、吠舍和首陀罗）
 
-**kavi-guravaḥ** = ⟪कविगुरवः⟫ <!-- TODO: Fallback translation -->
-> = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫ <!-- TODO: Fallback translation -->
-> (Dichter und Lehrer [Plur.]) <!-- TODO: Fallback translation -->
-> (Anmerkung: "Ein Dichter und ein Lehrer" müsste im Dual stehen!) <!-- TODO: Fallback translation -->
+**kavi-guravaḥ** = ⟪कविगुरवः⟫
+> = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
+> (Dichter und Lehrer [Plural])
+> (Anmerkung: „Ein Dichter und ein Lehrer“ müsste im Dual stehen!)
 
-**Für die Reihenfolge der Glieder in einem Dvandva gelten u.a. folgende Regeln:** <!-- TODO: Fallback translation -->
-- Die Bezeichnung der verschiedenen Stände (**varṇa**) soll gemäß ihrer Hierarchie (höchster zuerst) geordnet werden. <!-- TODO: Fallback translation -->
-- Der Name des älteren Bruders soll dem Namen des jüngeren Bruders vorangestellt werden. <!-- TODO: Fallback translation -->
-- Im Allgemeinen soll das wichtigere Wort an den Anfang gestellt werden. <!-- TODO: Fallback translation -->
-- Wörter, die auf **-i** oder **-u** enden, sollen vorausgehen. <!-- TODO: Fallback translation -->
-- Wörter, die auf **-a** enden und mit einem Vokal anfangen, sollen vorausgehen. <!-- TODO: Fallback translation -->
-- Wörter, die weniger Silben enthalten, sollen vorausgehen. <!-- TODO: Fallback translation -->
+**关于复合词（Dvandva）中各组成部分的顺序，适用以下规则：**
+- 不同种姓（**varṇa**）的称谓应依其等级顺序排列（最高者在前）。
+- 年长兄弟的名字应置于年幼兄弟名字之前。
+- 一般而言，更重要的词应置于开头。
+- 以**-i**或**-u**结尾的词应置于前面。
+- 以**-a**结尾并以元音开头的词应置于前面。
+- 音节较少的词应置于前面。
 
-Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen können, soll immer die später gegebene Regel befolgt werden. (Beispiele von Dualdvandva zu diesen Regeln bei Kielhorn, Grammatik § 570). <!-- TODO: Fallback translation -->
+当最后提到的三项规则中的两项同时适用时，应始终遵循后给出的规则。（关于此类双数复合词的示例，参见Kielhorn《语法》§570）。
 
 ---
 
 ## 5.4. Wortliste
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**学习以下词汇：**
 
-**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : Neigung zu, Hartnäckigkeit, Bestehen auf; speziell: Anhänglichkeit an den Leib als sei er etwas Eigenes. <!-- TODO: Fallback translation -->
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : 倾向，固执，坚持；特指：对身体的执着，视其为“自我”所有。
 
-**kāma** m. = ⟪काम⟫ : Wunsch, Begehren, erwünschte Gabe, Sinnenlust, Liebe; Liebesgott Kāma. <!-- TODO: Fallback translation -->
+**kāma** m. = ⟪काम⟫ : 愿望，欲望，所求之赐，感官之乐，爱；爱神kāma。
 
-:::media
+::: media
 ![](/images/lekt0501.webp)
-Abb.: Gott Kāma = kāmadeva = ⟪कामदेव⟫, 18. Jhdt.
-(Bildquelle: Wikipedia, Public domain) <!-- TODO: Fallback translation -->
+图：神祇kāma = kāmadeva = ⟪कामदेव⟫，18世纪
+（图片来源：维基百科，公有领域）
 :::
-**krodha** m. = ⟪क्रोध⟫ : Zorn. <!-- TODO: Fallback translation -->
+**krodha** m. = ⟪क्रोध⟫ ：愤怒。
 
-**kleśa** m. = ⟪क्लेश⟫ : Qual, Plage. <!-- TODO: Fallback translation -->
+**kleśa** m. = ⟪क्लेश⟫ ：痛苦，折磨。
 
-**trayī** f. = ⟪त्रयी⟫ : Dreizahl; insbes. die drei Veden (Ṛgveda, Sāmaveda, Yajurveda). <!-- TODO: Fallback translation -->
+**trayī** f. = ⟪त्रयी⟫ : 三数；特指三部吠陀（《梨俱吠陀》、《娑摩吠陀》、《夜柔吠陀》）。
 
-**daṇḍanīti** f. = ⟪दण्डनीति⟫ : Politik (ein Tatpuruṣa aus daṇḍa m. = "Stock, Macht, Herrschaft, Strafe" und nīti f. = "rechte Führung"). <!-- TODO: Fallback translation -->
+**daṇḍanīti** f. = ⟪दण्डनीति⟫ ：政治（由 daṇḍa m. = “棍棒、权力、统治、惩罚”和 nīti f. = “正确引导”构成的 Tatpuruṣa 复合词）。
 
-**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : Zweimalgeborener. <!-- TODO: Fallback translation -->
+**dvijāti** 3 / **dvija** 3 = ⟪द्विजाति⟫ / ⟪द्विज⟫ : 再生者。
 
-**dveṣa** m. = ⟪द्वेष⟫ : Hass. <!-- TODO: Fallback translation -->
+**dveṣa** m. = ⟪द्वेष⟫ : 憎恶。
 
-**maitrī** f. = ⟪मैत्री⟫ : Freundschaft, Freundlichkeit, freundliches Wohlwollen. <!-- TODO: Fallback translation -->
+**maitrī** f. = ⟪मैत्री⟫ : 友谊，友好，友善的善意。
 
-**rāga** m. = ⟪राग⟫ : (rote) Farbe, Leidenschaft, Liebe. <!-- TODO: Fallback translation -->
+**rāga** 阳性名词 = ⟪राग⟫ ：（红色）颜色，激情，爱。
 
-**lobha** m. = ⟪लोभ⟫ : Gier, Habsucht. <!-- TODO: Fallback translation -->
+**lobha** m. = ⟪लोभ⟫ : 贪婪，贪欲。
 
-**varṇa** m. = ⟪वर्ण⟫ : Farbe, Gattung, Stand. <!-- TODO: Fallback translation -->
+**varṇa** m. = ⟪वर्ण⟫ ：颜色，种类，种姓。
 
-**vārttā** f. = ⟪वार्त्ता⟫ : Erwerb, Ökonomie (Wirtschaft). <!-- TODO: Fallback translation -->
+**vārttā** f. = ⟪वार्त्ता⟫ : 谋生，经济学（经济）。
 
-**vidyā** f. = ⟪विद्या⟫ : Wissen, Wissenschaft. <!-- TODO: Fallback translation -->
+**vidyā** f. = ⟪विद्या⟫ : 知识，科学。
 
-**avidyā** f. = ⟪अविद्या⟫ : Unwissenheit, Nichtwissen. <!-- TODO: Fallback translation -->
+**avidyā** f. = ⟪अविद्या⟫ : 无知，不知。
 
-**ca** = ⟪च⟫ : und.
-(Wird dem Wort, welches es anknüpft, nachgestellt. Werden mehrere Wörter verknüpft, steht es idealerweise hinter dem ersten Wort des letzten Verknüpfungsgliedes: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫). <!-- TODO: Fallback translation -->
+**ca** = ⟪च⟫ ：以及。
+（置于其所连接的词之后。若连接多个词，理想情况下置于最后一个连接词组的第一个词之后：brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫）。
 
-**ca ... ca** = ⟪च⟫ ... ⟪च⟫ : sowohl ... als auch. <!-- TODO: Fallback translation -->
+**ca ... ca** = ⟪च⟫ ... ⟪च⟫：既……又……
 
 ---
 
 ## 5.5. Übung
 
-**A) Übersetzen Sie folgende Sätze und Komposita und lösen Sie die darin vorkommenden Dvandvas in Sanskrit auf:** <!-- TODO: Fallback translation -->
+**A) 翻译以下句子和复合词，并用梵语解析其中出现的并列复合词（Dvandvas）：**
 
-1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ. <!-- TODO: Fallback translation -->
+1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ.
    (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
    ⟪चत्वारो⟫ ⟪वर्णा⟫ ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫ ||
-   (Erklärung: catvāras = ⟪चत्वारस्⟫ = "vier") <!-- TODO: Fallback translation -->
+   (解释：catvāras = ⟪चत्वारस्⟫ = “四”)
 
-2. trayo varṇā dvijātayo brāhmaṇakṣatriyavaiśyāḥ. <!-- TODO: Fallback translation -->
-   (Vāsiṣṭhadharmaśāstra II,1)
+2. 三种姓为再生族：婆罗门、刹帝利、吠舍。
+   (《瓦西什塔法论》II,1)
    ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ||
-   (Erklärung: trayas = ⟪त्रयस्⟫ = "drei") <!-- TODO: Fallback translation -->
+   (解释：trayas = ⟪त्रयस्⟫ = “三”)
 
-3. sāmavedargvedayajurvedās trayī. <!-- TODO: Fallback translation -->
-   (Kauṭilīya-arthaśāstra 1.3.1. / in gutem Sanskrit: sāmārgyajurvedās trayī)
+3. sāma-, yajur- 和 ṛgveda 三吠陀。
+   (《政事论》1.3.1. / 在标准梵语中：sāmārgyajurvedās trayī)
    ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫ ||
-   (in gutem Sanskrit: ⟪सामार्यजुर्वेदास्त्रयी⟫) <!-- TODO: Fallback translation -->
+   (在标准梵语中：⟪सामार्यजुर्वेदास्त्रयी⟫)
 
-4. Die drei Feinde des Menschen, die das Tor zur Hölle bilden (Viṣṇusmṛti 33,1+6): <!-- TODO: Fallback translation -->
+4. 人类的三大敌人，构成通往地狱之门（《毗湿奴法典》33,1+6）：
    kāmakrodhalobhāḥ
-   ⟪कामक्रोधलोभाः⟫ || <!-- TODO: Fallback translation -->
+   ⟪कामक्रोधलोभाः⟫ ||
 
-5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ. <!-- TODO: Fallback translation -->
-   ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫ ||
-   (Erklärung: brahmavihāra: "Verweilungszustände Brahmas", auch "Unermessliche" genannt. Es sind buddhistische Meditationsformen.) <!-- TODO: Fallback translation -->
+5. maitrīkaruṇāmuditopekṣāś catvāro brahmavihārāḥ.
+   ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟥ ||
+   （释义：brahmavihāra：“梵住”，亦称“无量”。它们是佛教的冥想形式。）
 
-6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ. <!-- TODO: Fallback translation -->
+6. avidyāsmitārāgadveṣābhiniveṣāḥ pañca kleśāḥ.
    (Yogasūtra 2,3)
    ⟪अविद्यास्मितारागद्वेषाभिनिवेषाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ||
-   (Erklärung: pañca = "fünf") <!-- TODO: Fallback translation -->
+   (解释：pañca = “五”)
 
-7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. <!-- TODO: Fallback translation -->
-   (Nach Kauṭilīya-arthaśāstra 1.2.1.)
-   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ || <!-- TODO: Fallback translation -->
+7. 逻辑学、吠陀、经济学和刑法是四种知识。
+   （据考提利耶《政事论》1.2.1。）
+   ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
 
 ---
 
 ## 5.6. Wiederholungsübung
 
-**A) Übersetzen Sie:** <!-- TODO: Fallback translation -->
+**A) 翻译：**
 
-1. vidyā vārttā. <!-- TODO: Fallback translation -->
-   ⟪विद्या⟫ ⟪वार्त्ता⟫ | <!-- TODO: Fallback translation -->
+1. 知识生计。
+   ⟪विद्या⟫ ⟪वार्त्ता⟫ |
 
-2. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ. <!-- TODO: Fallback translation -->
-   ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫ | <!-- TODO: Fallback translation -->
+2. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
+   ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫ |
 
-3. dvijā vaiśyāḥ. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
-   ⟪द्विजा⟫ ⟪वैश्याः⟫ | <!-- TODO: Fallback translation -->
+3. dvijā vaiśyāḥ. (2 Möglichkeiten)
+   ⟪द्विजा⟫ ⟪वैश्याः⟫ |
 
-**B) Setzen Sie die entsprechende Form ein:** <!-- TODO: Fallback translation -->
+**B) 填入相应的形式：**
 
-1. (dvija, sādhu, kavi) ... rāmaḥ <!-- TODO: Fallback translation -->
-   (⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ | <!-- TODO: Fallback translation -->
+1. (dvija, sādhu, kavi) ... rāmaḥ
+   (⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
 
-2. (devī) ... indrāṇī <!-- TODO: Fallback translation -->
-   (⟪देवी⟫) ... ⟪इन्द्राणी⟫ | <!-- TODO: Fallback translation -->
+2. (devī) ... indrāṇī
+   (⟪देवी⟫) ... ⟪इन्द्राणी⟫ |
 
-3. dvijātayas ... (vaiśyā, kṣatriya) <!-- TODO: Fallback translation -->
-   ⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) | <!-- TODO: Fallback translation -->
+3. dvijātayas ... (vaiśyā, kṣatriya)
+   ⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
 
-**C) Lösen Sie das Kompositum in folgendem Satz in Sanskrit auf und bilden Sie mit dieser aufgelösten Form denselben Satz:** <!-- TODO: Fallback translation -->
+**C) 在以下梵文句子中分解复合词，并使用该分解形式构造相同的句子：**
 
 sāmargyajurvedās trayī.
-⟪सामर्ग्यजुर्वेदास्त्रयी⟫ | <!-- TODO: Fallback translation -->
+⟪सामर्ग्यजुर्वेदास्त्रयी⟫ |
 
-**D) Übersetzen Sie auf zwei Weisen ins Sanskrit (einmal mit einem Kompositum, einmal ohne):** <!-- TODO: Fallback translation -->
+**D) 将以下句子以两种方式翻译成梵文（一种使用复合词，一种不使用）：**
 
-"Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. <!-- TODO: Fallback translation -->
+“梵住”是：慈、悲、喜、舍。

@@ -7,45 +7,50 @@ lesson_id: 53
 
 ## 53.1. Der Dual (⟪द्विवचन⟫ n.) der Nomina
 
-:::grammar-box
+::: grammar-box
 **Der Dual (⟪द्विवचनम्⟫) wird verwendet, um "zwei" zu bezeichnen:**
 
-:::indent
-**⟪अश्विनौ⟫** "die beiden Aśvin"
+:::
+::: indent
+⟪अश्विनौ⟫ "die beiden Aśvin"
 :::
 **Die Verwendung des Dual ist dort obligatorisch, wo es sich um zwei Dinge usw. handelt:**
 
-:::indent
-**⟪हस्तौ⟫** "die Hände (eines Individuums)"
-**⟪पादौ⟫** "die Füße (eines Menschen, Affen oder sonstigen Zweifüßers)"
+::: indent
+⟪हस्तौ⟫ "die Hände (eines Individuums)"
+⟪पादौ⟫ "die Füsse (eines Menschen, Affen oder sonstigen Zweifüssers)"
 :::
 **Manchmal bezeichnet der Dual ein männliches plus ein weibliches Exemplar derselben Klasse (Art, Gattung):**
 
-:::indent
-**⟪पितरौ⟫** "Vater und Mutter = Eltern"
+::: indent
+⟪पितरौ⟫ "Vater und Mutter = Eltern"
 :::
 **Wörter, die "ein Paar" bedeuten - z.B. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - werden aber immer im Singular verwendet, es sei denn es handle sich um zwei oder mehr Paare:**
 
-:::indent
-**⟪बाहुद्वयम्⟫** "ein Paar Arme"
-:::::::::media
+::: indent
+⟪बाहुद्वयम्⟫ "ein Paar Arme"
+:::
+::: media
 ![](/images/lekt5301.webp)
 Abb.: ⟪मार्जारयुगम्⟫
 (Bildquelle: [Details](/licenses#lekt5301))
-::::::media
+:::
+
+::: media
 ![](/images/lekt5302.webp)
 Abb.: ⟪हस्तौ⟫
 (Bildquelle: [Details](/licenses#lekt5302))
 :::
 ## 53.2. Dualendungen des Nomen
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | -bhyām ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
-::::::grammar-box
+:::
+::: grammar-box
 **Bei Nomina mit Stammabstufung haben der Nom.Akk.Vok.Dual m.f. den starken Stamm**
 :::
 ## 53.3. Der Dual konsonantisch auslautender Stämme
@@ -54,7 +59,7 @@ Abb.: ⟪हस्तौ⟫
 
 ⟪सत्यवाच्⟫ 3 "die Wahrheit sprechend"
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫
@@ -63,7 +68,7 @@ Abb.: ⟪हस्तौ⟫
 :::
 ⟪बलिन⟫ 3 "(besonders) stark"
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫
@@ -72,7 +77,7 @@ Abb.: ⟪हस्तौ⟫
 :::
 ⟪सुमनस्⟫ 3 "wohlgesinnt"
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫
@@ -81,7 +86,7 @@ Abb.: ⟪हस्तौ⟫
 :::
 ⟪हविस्⟫ n. "Opfergabe"
 
-:::grammar-box
+::: grammar-box
 |   | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪हविषी⟫ |
@@ -90,7 +95,7 @@ Abb.: ⟪हस्तौ⟫
 :::
 ⟪दीर्घायुस्⟫ 3 "langlebig"
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫
@@ -103,20 +108,21 @@ Abb.: ⟪हस्तौ⟫
 
 ⟪भरन्त्⟫ 3 "tragend"
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***⟪भरन्ती⟫ (!)***
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | sig[⟪भरन्ती⟫] (!)
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ ||
-::::::media
+:::
+::: media
 ![](/images/lekt5305.webp)
 Abb.: ⟪भरन्तौ⟫
 (Bildquelle: [Details](/licenses#lekt5305))
 :::
 ⟪ददत्⟫ 3 "gebend"
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫
@@ -127,16 +133,16 @@ Abb.: ⟪भरन्तौ⟫
 
 ⟪पशुमन्त्⟫ 3 "Vieh besitzend"
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पशुमतोस्⟫ ||
 :::
-⟪महान्त्⟫ 3 "groß"
+⟪महान्त्⟫ 3 "gross"
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫
@@ -145,7 +151,7 @@ Abb.: ⟪भरन्तौ⟫
 :::
 ⟪आत्मन्⟫ m.
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪आत्मानौ⟫ |
@@ -154,7 +160,7 @@ Abb.: ⟪भरन्तौ⟫
 :::
 ⟪ब्रह्मन्⟫ n.
 
-:::grammar-box
+::: grammar-box
 |   | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ब्रह्मणी⟫ |
@@ -163,7 +169,7 @@ Abb.: ⟪भरन्तौ⟫
 :::
 ⟪राजन्⟫ m. "König"
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪राजानौ⟫ |
@@ -172,7 +178,7 @@ Abb.: ⟪भरन्तौ⟫
 :::
 ⟪सीमन्⟫ f. "Grenze"
 
-:::grammar-box
+::: grammar-box
 |   | Femininum :br ⟪स्त्री⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सीमानौ⟫ |
@@ -181,10 +187,10 @@ Abb.: ⟪भरन्तौ⟫
 :::
 ⟪नामन्⟫ n. "Name"
 
-:::grammar-box
+::: grammar-box
 |   | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br ***⟪नामानी⟫*** |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br sig[⟪नामानी⟫] |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
@@ -195,13 +201,14 @@ Abb.: ⟪भरन्तौ⟫
 ⟪देव⟫ m. "Gott"  
 ⟪फल⟫ n. "Frucht"
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ |
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ***⟪देवाभ्याम्⟫*** | ***⟪फलाभ्याम्⟫*** |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ***⟪देवयोस्⟫*** | ***⟪फलयोस्⟫*** |
-::::::media
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | sig[⟪देवाभ्याम्⟫] | sig[⟪फलाभ्याम्⟫] |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | sig[⟪देवयोस्⟫] | sig[⟪फलयोस्⟫] |
+:::
+::: media
 ![](/images/lekt5306.webp)
 Abb.: ⟪फले⟫
 (Bildquelle: [Details](/licenses#lekt5306))
@@ -212,10 +219,10 @@ Abb.: ⟪फले⟫
 ⟪वारि⟫ n. "Wasser"  
 ⟪मति⟫ f. "Gedanke"
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪अग्नी⟫*** | ***⟪मती⟫*** | ⟪वारिणी⟫ |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | sig[⟪अग्नी⟫] | sig[⟪मती⟫] | ⟪वारिणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
@@ -225,13 +232,14 @@ Abb.: ⟪फले⟫
 ⟪धिनु⟫ f.  
 ⟪मधु⟫ n.
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪शत्रू⟫*** | ***⟪धेनू⟫*** | ⟪मधुनी⟫ |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | sig[⟪शत्रू⟫] | sig[⟪धेनू⟫] | ⟪मधुनी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪शत्र्वोस्⟫ | ⟪धेन्वोस्⟫ | ⟪मधुनोस्⟫ |
-::::::media
+:::
+::: media
 ![](/images/lekt5307.webp)
 Abb.: ⟪धेनू⟫
 (Bildquelle: [Details](/licenses#lekt5307))
@@ -240,18 +248,18 @@ Abb.: ⟪धेनू⟫
 
 ⟪कन्या⟫ f. "Mädchen"
 
-:::grammar-box
+::: grammar-box
 |   | Femininum :br ⟪स्त्री⟫ |
 | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪कन्ये⟫*** |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | sig[⟪कन्ये⟫] |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ***⟪कन्ययोस्⟫*** |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | sig[⟪कन्ययोस्⟫] |
 :::
 **Mehrsilbige Stämme auf -ī**
 
 ⟪देवी⟫ f. "Göttin"
 
-:::grammar-box
+::: grammar-box
 |   | Femininum :br ⟪स्त्री⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देव्यौ⟫ |
@@ -262,16 +270,16 @@ Abb.: ⟪धेनू⟫
 
 ⟪दातृ⟫ 3 "Geber"
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
 | :---: | :---: | :---:
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | ***⟪दातृणी⟫***
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | sig[⟪दातृणी⟫]
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
 ⟪पितृ⟫ m. "Vater"
 
-:::grammar-box
+::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ |
@@ -282,52 +290,54 @@ Abb.: ⟪धेनू⟫
 
 Beispiele:
 
-:::indent
-**⟪अर्थधर्मौ⟫** "Nutzen (⟪अर्थ⟫) und Dharma"
-**⟪युधिष्ठिरार्जुनौ⟫** "Yudhiṣṭhira und Arjuna"
-**⟪सुखदुःखे⟫** (neben: ⟪सुखदुःखम्⟫) "Glück und Leid"
-**⟪शीतोष्णे⟫** "Kälte und Wärme"
-::::::grammar-box
+::: indent
+⟪अर्थधर्मौ⟫ "Nutzen (⟪अर्थ⟫) und Dharma"
+⟪युधिष्ठिरार्जुनौ⟫ "Yudhiṣṭhira und Arjuna"
+⟪सुखदुःखे⟫ (neben: ⟪सुखदुःखम्⟫) "Glück und Leid"
+⟪शीतोष्णे⟫ "Kälte und Wärme"
+:::
+::: grammar-box
 **Werden zwei Verwandtschaftswörter auf -ṛ (oder zwei Substantive auf -ṛ, die Bezeichnungen für Opferpriester sind) zu einem Dvandva komponiert, so steht das erste Glied in der Form des Nominativ Singular:**
 
-:::indent
-⟪मा⟫***⟪ता⟫***⟪पितरौ⟫ "Mutter und Vater"
+:::
+::: indent
+⟪मा⟫sig[⟪ता⟫]⟪पितरौ⟫ "Mutter und Vater"
 :::
 **Dasselbe geschieht mit einem solchen Verwandtschaftswort in einem Dvandva vor -⟪पुत्र⟫ :**
 
-:::indent
-**⟪पितापुत्रौ⟫** "Vater und Sohn"
+::: indent
+⟪पितापुत्रौ⟫ "Vater und Sohn"
 :::
 **Bilden die Namen zweier Gottheiten, die gewöhnlich bei Opfern genannt werden, ein Dvandva, so wird der auslautende Vokal des ersten Gliedes gewöhnlich verlängert:**
 
-:::indent
-⟪मि⟫***⟪त्रा⟫***⟪वरुणौ⟫ "Mitra und Varuṇa"
-**⟪अग्नीसोमौ⟫** "Agni und Soma"
+::: indent
+⟪मि⟫sig[⟪त्रा⟫]⟪वरुणौ⟫ "Mitra und Varuṇa"
+⟪अग्नीसोमौ⟫ "Agni und Soma"
 :::
 **Auch bei anderen Dvandva kommt diese Vokalverlängerung vor.**
-::::::media
+::: media
 ![](/images/lekt5308.webp)
 Abb.: ⟪पितापुत्रौ⟫
 (Bildquelle: [Details](/licenses#lekt5308))
 :::
 ## 53.6. Der Dual von Pronomina
 
-:::grammar-box
+::: grammar-box
 |   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫
 | :--- | :---: | :---: | :---: | :---: | :---:
 | **Maskulinum** |   |   |   |   |  
-| **⟪प्रथमा⟫** | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
-| **⟪द्वितीया⟫** | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫
 |   |   |   |   |   |  
 | **Neutrum** |   |   |   |   |  
-| **⟪प्रथमा⟫** | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
-| **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
+| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
 |   | Rest wie Maskulinum ||||||||
 | **Femininum** |   |   |   |   |  
-| **⟪प्रथमा⟫** | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
-| **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
+| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
 |   | Rest wie Maskulinum ||||||||
 :::
 ⟪कतर⟫ 3 "wer von beiden" und ⟪कतम⟫ 3 "wer von mehreren" werden in allen Kasus wie ⟪यद्⟫ dekliniert.
@@ -340,7 +350,7 @@ Folgende Pronominaladjektive werden in allen Kasus wie ⟪यद्⟫ deklinier
 *   ⟪अन्यतर⟫ 3 "einer von zweien"
 *   ⟪इतर⟫ 3 "der andere"
 
-*   ⟪सर्व⟫ 3 "jeder, alle" wird in allen Kasus außer dem Nom.Akk.sg.n (⟪सर्वम्⟫) wie ⟪यद्⟫ dekliniert.
+*   ⟪सर्व⟫ 3 "jeder, alle" wird in allen Kasus ausser dem Nom.Akk.sg.n (⟪सर्वम्⟫) wie ⟪यद्⟫ dekliniert.
 *   ⟪उभय⟫ 3 "beide" hat keinen Dual. Im Singular und Plural mask. und neutr. wird es wie ⟪सर्व⟫ dekliniert. Femininum: ⟪उभयी⟫ (wie ⟪देवी⟫).
 *   ⟪उभ⟫ 3 "beide" wird nur im Dual gebraucht und wird wie ⟪देव⟫ m., ⟪फल⟫ n. bzw. ⟪देवता⟫ f. dekliniert.
 
@@ -352,9 +362,9 @@ Folgende Pronominaladjektive werden wie ⟪सर्व⟫ dekliniert. Im Abl.Lo
 *   ⟪पूर्व⟫ 3 "der vorausgehende, östliche"
 *   ⟪स्व⟫ 3 "eigen (mein, dein, sein ...)"
 
-## 53.8. Unregelmäßige Steigerung
+## 53.8. Unregelmässige Steigerung
 
-:::grammar-box
+::: grammar-box
 **Eine Anzahl von Adjektiven bildet den Komparativ bzw. Superlativ mit folgenden ⟪कृत्⟫-Suffixen (!):**
 
 *   Komparativ: **-īyas**
@@ -368,48 +378,50 @@ Folgende Pronominaladjektive werden wie ⟪सर्व⟫ dekliniert. Im Abl.Lo
 :::
 Beispiele:
 
-:::grammar-box
+::: grammar-box
 | Wurzel | Adjektiv | Komparativ | Superlativ |
 | --- | --- | ---
-| ⟪क्षिप्⟫ 6P "werfen" | ⟪क्षिप्र⟫ 3 "schnell" | ***⟪क्षेपीयस्⟫*** 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | ***⟪क्षेपिष्ठ⟫*** 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
-| ⟪स्था⟫ 1P "stehen" | ⟪स्थिर⟫ 3 "beständig, fest" | ***⟪स्थेयस्⟫*** 3 "fester" :br ⟪स्थिरतर⟫ 3 | ***⟪स्थेष्ठ⟫*** 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
+| ⟪क्षिप्⟫ 6P "werfen" | ⟪क्षिप्र⟫ 3 "schnell" | sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
+| ⟪स्था⟫ 1P "stehen" | ⟪स्थिर⟫ 3 "beständig, fest" | sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
 :::
 **Besondere Regeln für die Anfügung dieser Suffixe:**
 
-:::grammar-box
+::: grammar-box
 **Regel 1:** **Der auslautende Vokal eines mehrsilbigen Maskulinstammes oder der auslautende Vokal und der vorausgehende Vokal fallen ab.**
 :::
 Beispiele:
 
-:::grammar-box
+::: grammar-box
 | Adjektiv | Komparativ | Superlativ |
 | --- | ---
-| ⟪पाप⟫ 3 "böse" | ⟪पा⟫***⟪पी⟫***⟪यस्⟫ | ⟪पा⟫***⟪पि⟫***⟪ष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "groß" | ⟪म⟫***⟪ही⟫***⟪यस्⟫ | ⟪म⟫***⟪हि⟫***⟪ष्ठ⟫ |
-::::::grammar-box
+| ⟪पाप⟫ 3 "böse" | ⟪पा⟫sig[⟪पी⟫]⟪यस्⟫ | ⟪पा⟫sig[⟪पि⟫]⟪ष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "gross" | ⟪म⟫sig[⟪ही⟫]⟪यस्⟫ | ⟪म⟫sig[⟪हि⟫]⟪ष्ठ⟫ |
+:::
+::: grammar-box
 **Regel 2:** **Possessivsuffixe (-mant, vant, -vin, -in u.ä.) fallen ab. Besteht der übrig bleibende Teil nur aus einer Silbe, wird er nicht weiter verändert, nur durch die Verbindung mit dem Possesivsuffix bedingte Lautveränderungen werden rückgängig gemacht. Besteht der Rest aber aus mehr als einer Silbe, tritt Regel 1 in Kraft.**
 :::
 Beispiele:
 
-:::grammar-box
+::: grammar-box
 | Adjektiv | Komparativ | Superlativ |
 | --- | ---
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪ध⟫***⟪नी⟫***⟪यस्⟫ | ⟪ध⟫***⟪नि⟫***⟪ष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪ब⟫***⟪ली⟫***⟪यस्⟫ | ⟪ब⟫***⟪लि⟫***⟪ष्ठ⟫ |
-| ⟪वसुमन्त्⟫ "Güter besitzend" | ⟪व⟫***⟪सी⟫***⟪यस्⟫ | ⟪व⟫***⟪सि⟫***⟪ष्ठ⟫ |
-::::::grammar-box
+| ⟪धनवन्त्⟫ 3 "reich" | ⟪ध⟫sig[⟪नी⟫]⟪यस्⟫ | ⟪ध⟫sig[⟪नि⟫]⟪ष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪ब⟫sig[⟪ली⟫]⟪यस्⟫ | ⟪ब⟫sig[⟪लि⟫]⟪ष्ठ⟫ |
+| ⟪वसुमन्त्⟫ "Güter besitzend" | ⟪व⟫sig[⟪सी⟫]⟪यस्⟫ | ⟪व⟫sig[⟪सि⟫]⟪ष्ठ⟫ |
+:::
+::: grammar-box
 **Regel 3:** **Für -ṛ-, dem ein Anfangsvokal vorausgeht und auf das nur ein einziger Konsonant folgt, wird -ra- substituiert.**
 :::
 Beispiel:
 
-:::grammar-box
+::: grammar-box
 | Adjektiv | Komparativ | Superlativ |
 | --- | ---
 | ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
 :::
 **Verzeichnis der häufigsten Steigerungsformen solcher Art zu bisher gelernten Adjektiven:**
 
-:::grammar-box
+::: grammar-box
 | Adjektiv | Komparativ | Superlativ |
 | --- | ---
 | ⟪अल्प⟫ 3 "klein, wenig" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
@@ -422,18 +434,19 @@ Beispiel:
 | ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
 | ⟪प्रिय⟫ 3 "lieb" | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ |
 | ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "groß" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "gross" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
 | ⟪युवन्⟫ 3 "jung" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
 | ⟪स्थिर⟫ 3 "fest" :br (zu ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
 | ⟪ह्रस्व⟫ 3 "kurz" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
-::::::media
+:::
+::: media
 ![](/images/lekt5309.webp)
 Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 (Bildquelle: [Details](/licenses#lekt5309))
 :::
 **Einige Steigerungsformen dieser Art haben überhaupt keine wurzelverwandte Grundform, sie sind "defektiv". Deshalb sind folgende Reihen besonders zu merken:**
 
-:::grammar-box
+::: grammar-box
 | (Adjektiv) | Komparativ | Superlativ |
 | --- | ---
 | (⟪अल्प⟫ 3 "klein, wenig") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
@@ -445,49 +458,50 @@ Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 :::
 ## 53.9. Deklination der Komparative auf -īyas
 
-:::grammar-box
+::: grammar-box
 **Komparative auf -īyas bilden das Femininum auf -īyasī (Deklination wie ⟪देवी⟫). Das maskulinum und Neutrum wird nach folgendem Paradigma dekliniert.**
-::::::grammar-box
-
-|   | **⟪एकवचनम्⟫** || **⟪द्विवचनम्⟫** || **⟪बहुवचनम्⟫** ||
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-|   | **⟪पुमान्⟫** | **⟪नपुंसकम्⟫** | **⟪पुमान्⟫** | **⟪नपुंसकम्⟫** | **⟪पुमान्⟫** | **⟪नपुंसकम्⟫** |
-| **⟪प्रथमा⟫** | ⟪गरीयान्⟫ | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
-| **⟪द्वितीया⟫** | ⟪गरीयांसम्⟫ | ⟪गरीयस्⟫ | ^^ | ^^ | ⟪गरीयसस्⟫ | ^^ |
-| **⟪तृतीया⟫** | ⟪गरीयसा⟫ || ⟪गरीयोभ्याम्⟫ || ⟪गरीयोभिस्⟫ ||
-| **⟪चतुर्थी⟫** | ⟪गरीयसे⟫ || ^^ || ⟪गरीयोभ्यस्⟫ ||
-| **⟪पञ्चमी⟫** | ⟪गरीयसस्⟫ || ^^ || ^^ ||
-| **⟪षष्ठी⟫** | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
-| **⟪सप्तमी⟫** | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
-| **⟪आमन्त्रितम्⟫** | ***⟪गरीयान्⟫*** | **⟪गरीयस्⟫** | **⟪गरीयांसौ⟫** | **⟪गरीयसी⟫** | **⟪गरीयांसस्⟫** | **⟪गरीयांसि⟫** |
 :::
-## 53.10. Metrik (Lehre von den Versmaßen)
+::: grammar-box
 
-:::media
+|   | ⟪एकवचनम्⟫ || ⟪द्विवचनम्⟫ || ⟪बहुवचनम्⟫ ||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ |
+| ⟪प्रथमा⟫ | ⟪गरीयान्⟫ | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+| ⟪द्वितीया⟫ | ⟪गरीयांसम्⟫ | ⟪गरीयस्⟫ | ^^ | ^^ | ⟪गरीयसस्⟫ | ^^ |
+| ⟪तृतीया⟫ | ⟪गरीयसा⟫ || ⟪गरीयोभ्याम्⟫ || ⟪गरीयोभिस्⟫ ||
+| ⟪चतुर्थी⟫ | ⟪गरीयसे⟫ || ^^ || ⟪गरीयोभ्यस्⟫ ||
+| ⟪पञ्चमी⟫ | ⟪गरीयसस्⟫ || ^^ || ^^ ||
+| ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
+| ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
+| ⟪आमन्त्रितम्⟫ | sig[⟪गरीयान्⟫] | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+:::
+## 53.10. Metrik (Lehre von den Versmassen)
+
+::: media
 ![](/images/lekt5303.jpg)
 Abb.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
 (Bildquelle: [Details](/licenses#lekt5303))
 :::
 Siehe auch:
 
-> **Payer, Alois &lt;1944 - &gt;:** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois \<1944 - \>:** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Bedeutung der Bestimmung des Metrums
 
 Die Bestimmung des Metrums ist aus folgenden Gründen wichtig:
 
-1.  **Ästhetisch:** das Versmaß macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmaße u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmaße werden je verschieden rezitiert. :br Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
-2.  **Textkritisch:** Fehler im Versmaß können ein Hinweis darauf sein, dass der Text an einer Stelle nicht korrekt überliefert ist. Das Versmaß hilft, Textverbesserungen vorzunehmen.
-3.  **Chronologisch:** gewisse Versmaße gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann &lt;1854 - 1920&gt;:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in: :br **Oldenberg, Hermann &lt;1854 - 1920&gt;:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+1.  **Ästhetisch:** das Versmass macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmasse u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmasse werden je verschieden rezitiert. :br Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+2.  **Textkritisch:** Fehler im Versmass können ein Hinweis darauf sein, dass der Text an einer Stelle nicht korrekt überliefert ist. Das Versmass hilft, Textverbesserungen vorzunehmen.
+3.  **Chronologisch:** gewisse Versmasse gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in: :br **Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
-:::media
+::: media
 ![](/images/lekt5304.jpg)
 Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 (Bildquelle: [Details](/licenses#lekt5304))
 :::
 ### 53.10.2. Arten von Metren
 
-:::grammar-box
+::: grammar-box
 **Die Inder unterscheiden:**
 
 *   **⟪वृत्त⟫ n.:** Metren, bei denen die Zahl der Silben (⟪अक्षर⟫) festgelegt ist
@@ -500,10 +514,11 @@ Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 :::
 ### 53.10.3. Die metrische Quantität von Silben
 
-:::grammar-box
+::: grammar-box
 **Merkvers**
 
-:::indent
+:::
+::: indent
 ⟪सानुस्वारश्च⟫ ⟪दीर्घश्च⟫
 ⟪विसर्गी⟫ ⟪च⟫ ⟪गुरुर्भवेत्⟫ ⟪।⟫
 ⟪वर्णः⟫ ⟪संयोगपूर्वश्च⟫
@@ -516,7 +531,7 @@ Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 *   einen Visarga hat,
 *   ebenso wenn er vor einer Konsonantenverbindung steht
 *   sowie wenn die Silbe am Schluss eines Viertelverses (Pāda) steht."
-::::::grammar-box
+::: grammar-box
 **Eine Silbe ist**
 
 *   entweder **⟪लघु⟫ = leicht**
@@ -542,25 +557,25 @@ In der metrischen Analyse bedeutet:
 :::
 Beispiel: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 
-:::indent
+::: indent
 ⟪धर्मक्षेत्रे⟫ ⟪कुरुक्षेत्रे⟫ ⟪समवेता⟫ ⟪युयुत्सवः⟫ ⟪।⟫
 ⟪मामकाः⟫ ⟪पाण्डवाश्चैव⟫ ⟪किम्⟫ ⟪अकुर्वत⟫ ⟪संजय⟫ ⟪॥१॥⟫
 :::
 Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ :
 
-:::
-metrik-schema
+::: metrik-schema
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
-::::::
-metrik-schema
+:::
+::: metrik-schema
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
 ### 53.10.4. Der epische Śloka (⟪श्लोक⟫ m.)
 
-:::grammar-box
+::: grammar-box
 **Merkvers:**
 
-:::indent
+:::
+::: indent
 ⟪श्लोके⟫ ⟪षष्ठं⟫ ⟪गुरु⟫ ⟪ज्ञेयं⟫
 ⟪सर्वत्र⟫ ⟪लघु⟫ ⟪पञ्चमम्⟫ ⟪।⟫
 ⟪द्विचतुष्पादयोर्ह्रस्वं⟫
@@ -569,11 +584,10 @@ metrik-schema
 "Im Śloka ist die sechste Silbe eines Pāda schwer,  
 die fünfte in allen Pādas leicht  
 Die siebte Silbe ist im zweiten und vierten Pāda kurz, lang in den beiden anderen."
-:::
-Das wichtigste Versmaß in den Epen (⟪महाभारत⟫, ⟪रामायण⟫) sowie unzähligen anderen Werken ist der Śloka ("Ruf", "Geräusch", "Strophe" zu ⟪श्रु⟫ "hören").
+Das wichtigste Versmass in den Epen (⟪महाभारत⟫, ⟪रामायण⟫) sowie unzähligen anderen Werken ist der Śloka ("Ruf", "Geräusch", "Strophe" zu ⟪श्रु⟫ "hören").
 
-:::grammar-box
-**Der ⟪श्लोक⟫ ist eine Doppelvers aus Halbversen zu je 16 Silben. Jeder Halbvers zerfällt wieder in zwei Viertelverse (⟪पाद⟫) zu je 8 Silben. Jeder Viertelvers zerfällt in zwei Teile zu je 4 Silben. Der ganze Vers (⟪पद्य⟫ n.) besteht also aus vier ⟪पाद⟫ (m. "Fuß, Viertel"). Die vier ⟪पाद⟫ werden mit a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫) durchgezählt.**
+::: grammar-box
+**Der ⟪श्लोक⟫ ist eine Doppelvers aus Halbversen zu je 16 Silben. Jeder Halbvers zerfällt wieder in zwei Viertelverse (⟪पाद⟫) zu je 8 Silben. Jeder Viertelvers zerfällt in zwei Teile zu je 4 Silben. Der ganze Vers (⟪पद्य⟫ n.) besteht also aus vier ⟪पाद⟫ (m. "Fuss, Viertel"). Die vier ⟪पाद⟫ werden mit a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫) durchgezählt.**
 
 **Aufbau des Śloka:**
 
@@ -581,12 +595,11 @@ Das wichtigste Versmaß in den Epen (⟪महाभारत⟫, ⟪राम�
 
 **a = c:**
 :::
-metrik-schema
+::: metrik-schema
 × × × ×   **◡ — — —**
 :::
 **b = d:**
-:::
-metrik-schema
+::: metrik-schema
 × × × ×   **◡ — ◡ —**
 :::
 Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪लघु⟫ sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein.
@@ -594,47 +607,45 @@ Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪ल�
 **Nebenschemata (⟪विपुला⟫) für a und c:**
 
 **⟪विपुला⟫ 1:**
-:::
-metrik-schema
+::: metrik-schema
 × × × —   ◡ ◡ ◡ —
 :::
 **⟪विपुला⟫ 2:**
-:::
-metrik-schema
+::: metrik-schema
 × — ◡ —   — ◡ ◡ —
 :::
 **⟪विपुला⟫ 3:**
-:::
-metrik-schema
+::: metrik-schema
 × — ◡ —   — / — — —
 :::
 **⟪विपुला⟫ 4:**
-:::
-metrik-schema
+::: metrik-schema
 × × × ×   / — ◡ — —
 :::
 **Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. ⟪पाद⟫ : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.**
-:::
 ## 53.11. Übung
 
-:::grammar-box
-**Bestimmen sie unter allen bisher gelernten Versen die Ślokas. Machen Sie zu diesen schriftlich das metrische Schema. Weisen Sie auf eventuelle Unregelmäßigkeiten bzw. Vipulāformen hin.**
-::::::
-center
+::: grammar-box
+**Bestimmen sie unter allen bisher gelernten Versen die Ślokas. Machen Sie zu diesen schriftlich das metrische Schema. Weisen Sie auf eventuelle Unregelmässigkeiten bzw. Vipulāformen hin.**
+:::
+::: center
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-::::::deleteme-box
+:::
+::: deleteme-box
 **Quellen**
 
-**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
 Alois Maria Payer  
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-::::::deleteme-box
-
-**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
 :::
+::: deleteme-box
+
+**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
+:::
+

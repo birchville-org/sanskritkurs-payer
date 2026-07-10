@@ -1,29 +1,30 @@
 ---
-title: Leçon 24
-subtitle: "Le datif (⟪चतुर्थी⟫ = \"quatrième terminaison casuelle\")"
+title: Lektion 24
+subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
 lesson_id: 24
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 24
+# Lektion 24
 
-## 24.1. Le datif (⟪चतुर्थी⟫ = "quatrième terminaison casuelle")
+## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
 
-::::grammar-box
+::: grammar-box
 **1. Pour rendre le but ou l'intention ("afin de") d'une action, on peut, au lieu de l'infinitif (⟪तुमुन्⟫), utiliser un nom avec un suffixe kṛt, qui désigne une action ou un état, au datif (⟪चतुर्थी⟫ = "quatrième terminaison casuelle").**
 
 Exemple :
 
 au lieu de :
 
-:::indent
+:::
+::: indent
 ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫
 :::
 on peut aussi dire :
 
-:::indent
+::: indent
 ⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
 
 ou :
@@ -31,51 +32,63 @@ ou :
 ⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
 :::
 = "Rāma est parti pour écouter le discours du maître."
-:::::::media
+::: media
 ![](/images/lekt2404.webp)
 Fig. : ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2404))
-:::::::grammar-box
+:::
+
+::: grammar-box
 **2. Le datif (⟪चतुर्थी⟫) peut également désigner l'objet d'un infinitif de but à ajouter :**
 
 Exemple :
 
-:::indent
+:::
+::: indent
 ⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Il va au village dans le but de fruits = Il va au village pour cueillir des fruits."
 :::
 **De la même manière, le datif (⟪चतुर्थी⟫) désigne le but d'une chose ou d'une action :**
 
 Exemple :
 
-:::indent
+::: indent
 ⟪यज्ञायान्नम्⟫ = "Nourriture dans le but d'un sacrifice = Nourriture pour un sacrifice"
-::::::::::media
+:::
+::: media
 ![](/images/lekt2401.webp)
 Fig. : ⟪यज्ञायान्नम्⟫
 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] est un événement hindou traditionnel qui a lieu lors des célébrations du Nouvel An hindou dans tous les mandirs BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Des centaines de plats végétariens sont offerts à Bhagwan Swaminarayan [સ્વામિનારાયણ] ce jour-là.
 (Source de l'image : [Détails](/fr/licenses#lekt2401))
-:::::::grammar-box
+:::
+
+::: grammar-box
 **3. Le datif (⟪चतुर्थी⟫) désigne également la personne ou la chose pour laquelle l'objet d'une action est destiné (objet indirect ; question : à qui ?). (Notez cependant les verbes à double accusatif (⟪द्वितीया⟫) !)**
 
 Exemple :
 
-:::indent
+:::
+::: indent
 ⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "Il donne une fruit à Rāma." (Racine ⟪दा⟫ 3. classe de présent)
-::::::::::media
+:::
+::: media
 ![](/images/lekt2402.webp)
 Fig. : ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
 Le Raksha bandhan est célébré avec ferveur et joie dans toute l'Inde. Ce festival incarne l'amour inconditionnel entre frères et sœurs.
 (Source de l'image : [Détails](/fr/licenses#lekt2402))
-:::::::grammar-box
+:::
+
+::: grammar-box
 **4. Le datif se trouve avec certains verbes (et certains autres mots) de manière similaire à l'allemand, répondant à la question "à qui ?" :**
 
 Exemples :
 
-:::indent
+:::
+::: indent
 ⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "Le Dieu se fâche contre les hommes."
 
 ⟪अलम्⟫ Adverbe : "assez, suffisant, capable" : ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "un guerrier est à la hauteur de l'autre guerrier"
-::::::::::media
+:::
+::: media
 ![](/images/lekt2403.webp)
 Fig. : ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 "Rama (à droite) assis sur les épaules de Hanuman, combat le roi-démon Ravana." vers 1820
@@ -83,54 +96,54 @@ Fig. : ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 :::
 Autres utilisations du datif plus loin.
 
-## 24.2. Formation du datif (⟪चतुर्थी⟫)
+## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
 
-:::grammar-box
+::: grammar-box
 **Les terminaisons régulières du datif sont :**
 
 * **Singulier : -e ; les stems de féminin se terminant par une voyelle : -ai**
 * **Pluriel : Datif et ablatif ⟪पञ्चमी⟫ : -bhyas**
 :::
-### 24.2.1. Stèmes consonantiques
+### 24.2.1. Konsonantische Stämme
 
-::::grammar-box
+::: grammar-box
 
-| | Datif Singulier | Datif Pluriel |
+| | Dativ Singular | Dativ Plural |
 | :--- | :--- | :--- |
-| ⟪यजन्त्⟫ | **⟪यजते⟫**:bryaja-t-e | **⟪यजद्भ्यस्⟫**:braus yaja-t-bhyas |
-| ⟪महान्त्⟫ | **⟪महते⟫** | **⟪महद्भ्यस्⟫** |
-| ⟪पशुमन्त्⟫ | **⟪पशुमते⟫** | **⟪पशुमद्भ्यस्⟫** |
-| ⟪गुणवन्त्⟫ | **⟪गुणवते⟫** | **⟪गुणवद्भ्यस्⟫** |
+| ⟪यजन्त्⟫ | ⟪यजते⟫ :bryaja-t-e | ⟪यजद्भ्यस्⟫ :braus yaja-t-bhyas |
+| ⟪महान्त्⟫ | ⟪महते⟫ | ⟪महद्भ्यस्⟫ |
+| ⟪पशुमन्त्⟫ | ⟪पशुमते⟫ | ⟪पशुमद्भ्यस्⟫ |
+| ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ |
 
-::::
-### 24.2.2. Pronoms interrogatifs
+:::
+### 24.2.2. Fragepronomen
 
-::::grammar-box
+::: grammar-box
 
-| | Masculin / Neutre | Féminin |
+| | Maskulinum / Neutrum | Femininum |
 | :--- | :--- | :--- |
-| **Datif Singulier** | **⟪कस्मै⟫** | **⟪कस्यै⟫** |
-| **Datif Pluriel** | **⟪केभ्यस्⟫** | **⟪काभ्यस्⟫** |
+| **Dativ Singular** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
+| **Dativ Plural** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
-::::
-### 24.2.3. Pronoms démonstratifs
+:::
+### 24.2.3. Demonstrativpronomina
 
-::::grammar-box
+::: grammar-box
 
 | | | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Masculin / Neutre** | **Dat. sg.** | **⟪तस्मै⟫** | **⟪एतस्मै⟫** | **⟪अस्मै⟫** |
-| | **Dat. pl.** | **⟪तेभ्यस्⟫** | **⟪एतेभ्यस्⟫** | **⟪एभ्यस्⟫** |
-| **Féminin** | **Dat. sg.** | **⟪तस्यै⟫** | **⟪एतस्यै⟫** | **⟪अस्यै⟫** |
-| | **Dat. pl.** | **⟪ताभ्यस्⟫** | **⟪एताभ्यस्⟫** | **⟪आभ्यस्⟫** |
+| **Maskulinum / Neutrum** | **Dat. sg.** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
+| | **Dat. pl.** | ⟪तेभ्यस्⟫ | ⟪एतेभ्यस्⟫ | ⟪एभ्यस्⟫ |
+| **Femininum** | **Dat. sg.** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
+| | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
-::::
-### 24.2.4. Souches vocaliques
+:::
+### 24.2.4. Vokalische Stämme
 
-:::grammar-box
-**Souches vocaliques**
+::: grammar-box
+**Les terminaisons régulières du datif sont :**
 
-* **Masculins / Neutres en -a :** ⟪देव⟫
+* **Singulier : -e ; les stems de féminin se terminant par une voyelle : -ai**
   * Dat. sg. **⟪देवाय⟫**
   * Dat. pl. **⟪देवेभ्यस्⟫**
 * **Masculins en -i :** ⟪कवि⟫
@@ -152,9 +165,9 @@ Autres utilisations du datif plus loin.
   * Dat. sg. **⟪धेनवे⟫** ou **⟪धेन्वै⟫**
   * Dat. pl. **⟪धेनुभ्यस्⟫**
 :::
-## 24.3. Sandhi de -ai et -au en position finale
+## 24.3. Sandhi de -ai et -au en fin de mot
 
-::::grammar-box
+::: grammar-box
 **Sandhi de -ai et -au en position finale**
 
 * **-ai devant un voyelle initiale est généralement remplacé par -ā (plus rarement par -āy comme à l'intérieur du mot)**
@@ -162,10 +175,11 @@ Autres utilisations du datif plus loin.
 
 Exemple :
 
-:::indent
+:::
+::: indent
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = « ce feu »
-:::::::
-## 24.4. Liste de mots
+:::
+## 24.4. Wortliste
 
 ⟪अलम्⟫ Adv. : assez, suffisant, (à qqn, qqch) à la hauteur ; avec datif : assez pour, suffisant pour, à la hauteur de ; avec instrumental : assez avec, cesse de , p. ex. ⟪अलं⟫ ⟪क्रोधेन⟫ = « assez de colère = cesse de te fâcher ! »
 
@@ -175,9 +189,10 @@ De la même manière que ⟪अलम्⟫ avec l'instrumental est utilisé :
 
 ⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : parer
 
-:::indent
+::: indent
 ⟪अलंकार⟫ m. : ornement, moyen d'ornement (en poésie)
-::::::media
+:::
+::: media
 ![](/images/lekt2405.webp)
 Fig. : ⟪अलंकारः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2405))
@@ -186,7 +201,7 @@ Fig. : ⟪अलंकारः⟫
 
 ⟪प्रतिमा⟫ f. : image, représentation
 
-:::media
+::: media
 ![](/images/lekt2406.webp)
 Fig. : ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
@@ -196,7 +211,7 @@ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
 
 De ⟪वृत्⟫ :
 
-:::indent
+::: indent
 ⟪वृत्ति⟫ f. : comportement, activité, mode de vie
 
 ⟪वृत्त⟫ n. : comportement
@@ -217,11 +232,12 @@ De ⟪वृत्⟫ :
 
 de cela
 
-:::indent
+::: indent
 ⟪अपोह⟫ m. : négation (⟪अप⟫ + ⟪ऊह⟫)
 
 ⟪ऊहापोह⟫ m. : discussion du pour et du contre
-::::::media
+:::
+::: media
 ![](/images/lekt2407.webp)
 Fig. : ⟪ऊहापोहः⟫
 « NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, rédactrice adjointe des affaires étrangères, CNN-IBN Network 18, Inde, modère un panel de discussion lors du Sommet économique de l'Indie 2008 du Forum économique mondial à New Delhi. »
@@ -233,18 +249,21 @@ Fig. : ⟪ऊहापोहः⟫
 
 ⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : voir, devenir visible ; nommer, expliquer, communiquer
 
-:::indent
+::: indent
 ⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : raconter
 
 de cela :
 
 ⟪आख्यान⟫ n. : récit
-::::::media
+:::
+::: media
 ![](/images/lekt2408.webp)
 Fig. : ⟪आख्यानम्⟫
 « Le conteur de San Francisco Jeff Byers partage une histoire avec les résidents de Chenneri, un village Irula. Le conteur Jeeva Raghunath traduit en tamoul pour les villageois. »
 (Source de l'image : [Détails](/fr/licenses#lekt2408))
-::::::indent
+:::
+
+::: indent
 ⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : additionner, calculer
 
 de cela :
@@ -263,10 +282,10 @@ de cela :
 
 de cela :
 
-:::indent
+::: indent
 ⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : s'incliner, vénérer, saluer
-
-::::::media
+:::
+::: media
 ![](/images/lekt2411.webp)
 Fig. : ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 Manuscrit du ⟪गीतगोविन्द⟫, 1730 après J.-C.
@@ -278,7 +297,7 @@ Manuscrit du ⟪गीतगोविन्द⟫, 1730 après J.-C.
 
 ⟪पुनर्⟫ Adv. : à nouveau, de nouveau, en arrière, mais
 
-## 24.5. Exercice
+## 24.5. Übung
 
 A) Formez le datif singulier et le datif/(ablatif) pluriel, et indiquez la signification de la base nominale :
 
@@ -338,54 +357,55 @@ D) Remplacez dans la phrase A) 7 la construction avec -⟪अर्थ⟫ par un
 
 E) Remplacez dans la phrase A) 6 la construction au datif par une construction équivalente avec -⟪अर्थ⟫
 
-## 24.6. Autres exercices sur l’usage du datif
+## 24.6. Autres exercices sur l'utilisation du datif
 
 Traduisez en sanskrit :
 
-1. La déesse, à qui on n’a pas sacrifié, se fâche contre les hommes.
+La déesse, à qui on n’a pas sacrifié, se fâche contre les hommes.
 
-2. Il laisse la vache entrer dans le village.
+Il laisse la vache entrer dans le village.
 
-3. Maintenant, ça suffit = Assez avec la patience.
+Maintenant, ça suffit = Assez avec la patience.
 
-4. C’est bien (⟪हित⟫, ⟪सुख⟫) pour un brahmane.
+C’est bien (⟪हित⟫, ⟪सुख⟫) pour un brahmane.
 
-5. La vénération (⟪नमस्⟫) soit à Śiva ! La vénération soit à Śrī Gaṇeśa !
+La vénération (⟪नमस्⟫) soit à Śiva ! La vénération soit à Śrī Gaṇeśa !
 
-:::media
+::: media
 ![](/images/lekt2409.webp)
 Fig. : ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 (Source de l’image : [Détails](/fr/licenses#lekt2409))
 :::
-6. Au revoir ! (= Bien-être (⟪स्वस्ति⟫ f.) à vous !)
+Au revoir ! (= Bien-être (⟪स्वस्ति⟫ f.) à vous !)
 
-7. Ce fruit suffit pour manger.
+Ce fruit suffit pour manger.
 
-8. Un combattant est à la hauteur (⟪शक्त⟫) de l’autre combattant.
+Un combattant est à la hauteur (⟪शक्त⟫) de l’autre combattant.
 
-9. Même Viṣṇu ne surpasse pas (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva.
+Même Viṣṇu ne surpasse pas (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva.
 
-10. Après m’être incliné devant les trois sages (Acc.) (⟪नमस्कृ⟫)... Il s’incline devant Narasiṃha (Dat.)
+Après m’être incliné devant les trois sages (Acc.) (⟪नमस्कृ⟫)... Il s’incline devant Narasiṃha (Dat.)
 
-:::indent
+::: indent
 Explication : ⟪मुनित्रयम्⟫ "la Trinité des sages = les trois sages" = les grammairiens ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
-::::::media
+:::
+::: media
 ![](/images/lekt2410.webp)
 Fig. : ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
 ⟪नरसिंह⟫ déchiquette ⟪हिरण्यकशिपु⟫, page d’un manuscrit du ⟪भागवतपुराण⟫
 (Source de l’image : [Détails](/fr/licenses#lekt2410))
 :::
-11. Bienvenue (⟪स्वागतम्⟫) à vous. Bienvenue à la reine.
+Bienvenue (⟪स्वागतम्⟫) à vous. Bienvenue à la reine.
 
-12. Je vous souhaite le bien-être (⟪कुशल⟫) = Bien-être à vous !
+Je vous souhaite le bien-être (⟪कुशल⟫) = Bien-être à vous !
 
-13. Il ne le considère pas comme une paille.
+Il ne le considère pas comme une paille.
 
-14. Il suffit d’un fruit pour manger et d’eau pour boire.
+Il suffit d’un fruit pour manger et d’eau pour boire.
 
 15⟪१५⟫. Au revoir ! (Sanskrit moderne : ⟪पुनर्दर्शनाय⟫)
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] est un événement hindou traditionnel qui a lieu lors des célébrations du Nouvel An hindou dans tous les mandirs BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Des centaines de plats végétariens sont offerts à Bhagwan Swaminarayan [સ્વામિનારાયણ] ce jour-là. [Source de l’image : chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Consulté le 14-12-2008. -- Licence Creative Commons (Attribution, pas d’utilisation commerciale)]
 

@@ -11,9 +11,9 @@ status: stable
 
 ## 36.1. Formări speciale ale perfectului
 
-::::grammar-box
+::: grammar-box
 1\. Unele rădăcini arată, după silaba de reduplicare, o modificare a inițialului rădăcinii.
-::::
+:::
 Exemple:
 
 | Rădăcină:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
@@ -22,42 +22,48 @@ Exemple:
 | **⟪चि⟫** 5U:brPerf. IIIa | ⟪चि⟫***⟪का⟫***⟪य⟫:br**⟪चिचाय⟫** | ⟪चि⟫***⟪क्यु⟫***⟪र्⟫:br**⟪चिच्युर्⟫** | ⟪चि⟫***⟪क्ये⟫***:br**⟪चिच्ये⟫** | ⟪चि⟫***⟪क्यि⟫***⟪रे⟫:br**⟪चिच्यिरे⟫** |
 | **⟪हन्⟫** 2P:brPerf. Va | ⟪ज⟫***⟪घा⟫***⟪न⟫ | ⟪ज⟫***⟪घ्नु⟫***⟪र्⟫ | | |
 
-::::grammar-box
+::: grammar-box
 2\. Rădăcina ⟪विद्⟫ 2P "a ști" are un perfect cu sens prezentic.
-::::::::grammar-box
+:::
+::: grammar-box
 | Rădăcină:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | **⟪विद्⟫** 2P | **⟪वेद⟫**:brel/ea/ea știe | **⟪विदुर्⟫**:brei/ele știu |
-::::::::grammar-box
+:::
+::: grammar-box
 3\. Rădăcina ⟪अह्⟫ "a spune" are doar forme de perfect (Perfect I). Acestea au sens prezentic.
-::::::::grammar-box
+:::
+::: grammar-box
 | Rădăcină:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | **⟪अह्⟫**:brPerf. I | **⟪आह⟫**:brel/ea/ea spune | **⟪आहुर्⟫**:brei/ele spun |
-::::::::grammar-box
+:::
+::: grammar-box
 4\. Rădăcina ⟪भू⟫ 1P are tema de perfect ⟪बभू⟫, înaintea vocalelor ⟪बभूव्⟫.
-::::::::grammar-box
+:::
+::: grammar-box
 | Rădăcină:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | **⟪भू⟫** 1P | **⟪बभूव⟫** | **⟪बभूवुर्⟫** |
-::::
+:::
 ## 36.2. Perfektul perifrastic (⟪अनुप्रयोगलिट्⟫)
 
-::::grammar-box
+::: grammar-box
 Perfektul perifrastic (⟪अनुप्रयोगलिट्⟫) este folosit:
 
 1. la conjugările derivate (cauzativ, desiderativ, frecventativ, denominative)
 2. la rădăcini care încep cu o vocală lungă (în afară de ā-) sau cu o vocală (în afară de a-) urmată de două consoane
 3. la unele alte rădăcini
-::::::::grammar-box
+:::
+::: grammar-box
 **Formare:**
 
 timp prezent (slab) + -ām + forma corespunzătoare de perfect a lui ⟪कृ⟫, ⟪अस्⟫ sau ⟪भू⟫
 
-- Auslautender Stammvokal wird vor -ām guṇiert.
-- ⟪अस्⟫ și ⟪भू⟫ sunt, de asemenea, conjugate la Parasmaipada pentru verbele Ātmanepada.
-::::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+[0] - Auslautender Stammvokal wird vor -ām guṇiert.
+[1] - ⟪अस्⟫ și ⟪भू⟫ sunt, de asemenea, conjugate la Parasmaipada pentru verbele Ātmanepada.
+[2] :::
+[3] Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 Exemple:
 
@@ -66,14 +72,16 @@ Exemple:
 | **⟪ईक्ष्⟫** 1Ā | | | **⟪ईक्षां⟫ ⟪चक्रे⟫**:br**⟪ईक्षामास⟫**:br**⟪ईक्षां⟫ ⟪बभूव⟫** | **⟪ईक्षां⟫ ⟪चक्रिरे⟫**:br**⟪ईक्षामासुर्⟫**:br**⟪ईक्षां⟫ ⟪बभूवुर्⟫** |
 | **⟪बन्ध्⟫**:brCauzativ: ⟪बन्धय⟫-:br"a face să lege" | **⟪बन्धयां⟫ ⟪चकार⟫**:br**⟪बन्धयामास⟫**:br**⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫**:br**⟪बन्धयामासुर्⟫**:br**⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
 
+:::
 ## 36.3. Perfect Pasiv
 
-::::grammar-box
+::: grammar-box
 În Perfect, pentru Pasiv se folosesc formele Ātmanepadei. În contrast, se preferă utilizarea PPP. Construcția este în ambele cazuri cea a propozițiilor pasive:
 
-:::indent
+:::
+::: indent
 ⟪तेन⟫ ⟪पुण्यं⟫ ⟪चक्रे⟫ = ⟪तेन⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ = "El a făcut o faptă meritorie"
-:::::::
+:::
 ## 36.4. Listă de cuvinte
 
 ⟪अह्⟫ P doar Perfect cu sens de Prezent ⟪आह⟫, ⟪आहुर्⟫ : a spune, a vorbi
@@ -82,7 +90,7 @@ Exemple:
 
 ⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : a vedea, (a) privi, a contempla
 
-:::indent
+::: indent
 Perfect. ⟪ईक्षां⟫ ⟪चक्रे⟫  
 Viitor. ⟪ईक्षिष्यते⟫  
 Pasiv. ⟪ईक्ष्यते⟫  
@@ -92,21 +100,22 @@ Inf. ⟪ईक्षितुम्⟫
 :::
 ⟪चि⟫ 5U ⟪चिनोति⟫ : a amassa, a colecta
 
-:::indent
+::: indent
 Perfect. ⟪चिकाय⟫ ⟪।⟫ ⟪चिचाय⟫  
 Viitor. ⟪चेष्यति⟫  
 Pasiv. ⟪चीयते⟫  
 Cauzativ. ⟪चाययति⟫ ⟪।⟫ ⟪चापयति⟫  
 PPP ⟪चित⟫  
 Inf. ⟪चेतुम्⟫
-::::::media
+:::: media
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3601))
+::::
 :::
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : a pașna, a merge, a pleca
 
-:::indent
+::: indent
 Perfect. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
 Viitor. ⟪व्रजिष्यति⟫  
 Pasiv. ⟪व्रज्यते⟫  
@@ -118,15 +127,17 @@ Inf. ⟪व्रजितुम्⟫
 
 ⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: casă, cămin
 
-:::media
+::: media
 ![](/images/lekt3602.webp)
 Fig.: ⟪अगारम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3602))
-::::::indent
+:::: indent
 din care:
 
 ⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: lipsa casei a unui monah sau novic budist
-::::::media
+::::
+:::
+::: media
 ![](/images/lekt3603.webp)
 Fig.: ⟪अनगार्यम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3603))
@@ -141,14 +152,14 @@ Fig.: ⟪अनगार्यम्⟫
 
 ⟪पृष्ठ⟫ n: spate, parte din spate
 
-:::indent
+::: indent
 ⟪पृष्ठम्⟫ : în spate
 :::
 ⟪प्रजापति⟫ m.: stăpânul creaturilor, zeul creator
 
 ⟪अनु⟫ Pref.: după, de-a lungul, peste - în, lung, conform, adăugat, în spate - în
 
-:::indent
+::: indent
 de ex.
 
 ⟪अनुकृ⟫ : a imita, a copia
@@ -157,7 +168,7 @@ de ex.
 :::
 ⟪अभि⟫ : a, după - în, către - în, către - în, împotriva, în - în, cu referire la, pe, peste, la
 
-:::indent
+::: indent
 de ex.
 
 ⟪अभिगम्⟫ : a merge, a se apropia
@@ -166,7 +177,7 @@ de ex.
 :::
 ⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : a simți disconfort, a dispărea
 
-:::indent
+::: indent
 Perfect. IV ⟪जग्लौ⟫  
 Viitor. ⟪ग्लास्यति⟫  
 Pasiv. ⟪ग्लायते⟫  
@@ -177,7 +188,7 @@ Absol. -⟪ग्लाय⟫
 :::
 ⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : a mirosi ceva
 
-:::indent
+::: indent
 Perfect. IV ⟪जघ्रौ⟫  
 Viitor. ⟪घ्रास्यति⟫  
 Pasiv. ⟪घ्रायते⟫  
@@ -190,7 +201,7 @@ Absol. -⟪घ्राय⟫
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : a se bucura
 
-:::indent
+::: indent
 Perfect. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
 Viitor. ⟪प्रेष्यति⟫  
 Pasiv. ⟪प्रीयते⟫  
@@ -200,7 +211,7 @@ Inf. ⟪प्रेतुम्⟫
 :::
 ⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : a atinge
 
-:::indent
+::: indent
 Perfect IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
 Viitor. ⟪स्पर्क्ष्यति⟫ ⟪।⟫ ⟪स्प्रक्ष्यति⟫  
 Pasiv. ⟪स्पृश्यते⟫  
@@ -208,23 +219,25 @@ Cauzativ. ⟪स्पर्शयति⟫
 PPP ⟪स्पृष्ट⟫  
 Inf. ⟪स्पर्ष्तुम्⟫ ⟪।⟫ ⟪स्प्रष्तुम्⟫  
 Absol. -⟪स्पृश्य⟫
-::::::media
+:::: media
 ![](/images/lekt3606.webp)
 Fig.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3606))
+::::
 :::
 ⟪हृष्⟫ 4P ⟪हृष्यति⟫ : a deveni rigid: a se ridica (părul), a se bucura de (Instr., Akk., Lok.)
 
-:::indent
+::: indent
 Perfect II ⟪जहर्ष⟫  
 Viitor. ⟪हर्षिष्यति⟫  
 Pasiv. ⟪हृष्यते⟫  
 Cauzativ. ⟪हर्षयति⟫  
 PPP ⟪हृषित⟫
-::::::media
+:::: media
 ![](/images/lekt3604.webp)
 Fig.: ⟪लोमहर्षः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3604))
+::::
 :::
 ⟪स्वक⟫ 3: propriu (al meu, al tău ...) ; m.: membru
 
@@ -264,7 +277,7 @@ D) Traduceți:
 
 ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ ⟪।⟫ ⟪बुद्ध्यार्यसत्यानि⟫ ⟪प्रज्ञाय⟫ ⟪प्रज्ञया⟫ ⟪च⟫ ⟪दुःखान्मुक्तो⟫ ⟪मोक्तुकामार्यजनान्बोधयामासेति⟫ ⟪भिक्षव⟫ ⟪आहुः⟫ ⟪॥१॥⟫
 
-:::media
+::: media
 ![](/images/lekt3605.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3605))
@@ -392,7 +405,7 @@ Traduceți:
 
 1\. ⟪महाभारत⟫ ⟪१३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫
 
-:::indent
+::: indent
 ⟪येन⟫ ⟪प्रीणति⟫ ***⟪पितरं⟫***
 ⟪तेन⟫ ⟪प्रीतः⟫ ⟪प्रजापतिः⟫ ⟪।⟫
 ⟪प्रीणति⟫ ***⟪मातरं⟫*** ⟪येन⟫
@@ -417,20 +430,21 @@ Explicații:
 ⟪त्रयस्⟫ : Nom. pl. masc. la ⟪त्रि⟫ "trei"
 
 ⟪सर्वास्⟫ : Nom./Ac. pl. fem. la ⟪सर्व⟫ "toți, fiecare"
-::::::media
+:::: media
 ![](/images/lekt3607.webp)
 Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt3607))
+::::
 :::
 2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ despre comportamentul corect față de vârstnici:
 
-:::indent
+::: indent
 ⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫
 ⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫
 :::
 3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Cine este un ⟪जितेन्द्रिय⟫:
 
-:::indent
+::: indent
 ⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫
 ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ***⟪विज्ञेयो⟫*** ⟪जितेन्द्रियः⟫ ⟪॥⟫
 
@@ -438,7 +452,7 @@ Explicație: ⟪विज्ञेय⟫ ⟪३⟫: unul care poate fi recunoscu
 :::
 4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ despre comportamentul corect al unui brahman:
 
-:::indent
+::: indent
 ⟪नापृष्टः⟫ ⟪कस्यचिद्ब्रूयान्न⟫ ⟪चान्यायेन⟫ ⟪पृच्छतः⟫ ⟪।⟫
 ⟪जानन्नपि⟫ ⟪हि⟫ ⟪मेधावी⟫ ⟪जडवल्लोक⟫ ⟪आचरेत्⟫ ⟪॥⟫
 
@@ -495,7 +509,7 @@ Determinați și traduceți următoarele forme de cuvânt în toate modurile pos
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-:::deleteme-box
+::: deleteme-box
 
 - **lekt3601.jpg**: Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫ Udaipur = ⟪उदयपुर⟫ [Sursă imagine: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Accesat la  2008-12-28. --   Licență Creative Commons (Atribuire, utilizare non-comercială)]
 - **lekt3602.jpg**: Fig.: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Sursă imagine: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Accesat la  2008-12-28. --   Licență Creative Commons (Atribuire, similar cu anteriorul)]

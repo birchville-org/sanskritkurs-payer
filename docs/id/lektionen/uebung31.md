@@ -29,7 +29,7 @@ One who has insight is freed from suffering; therefore, someone who desires libe
 (⟪मोहेन⟫ ⟪सहितः⟫ ⟪।⟫ ⟪शोभनं⟫ ⟪रूपं⟫ ⟪यासां⟫ ⟪ताः⟫ ⟪।⟫ ⟪वीतो⟫ ⟪मोहो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫)
 A deluded person enjoys good food and beautiful women. Whose delusion has disappeared, desires no good food and no woman with a perfect body. He prevents greed and hatred and concentrates on insight.
 
-:::media
+::: media
 ![](/images/uebung049.webp)
 Fig.: ⟪कुलबन्धनम्⟫
 (Image source: [Details](/en/licenses#uebung049))
@@ -39,8 +39,6 @@ Fig.: ⟪कुलबन्धनम्⟫
 ## Verb Paradigms (7th Grade)
 
 B) Form the 3rd person singular and plural (P and Ā) of the Indicative and Optative Present for the following 7th class roots:
-
-:::grammar-box
 
 ### ⟪१⟫. **⟪छिद्⟫** (columns)
 
@@ -76,4 +74,3 @@ B) Form the 3rd person singular and plural (P and Ā) of the Indicative and Opta
 | :--- | :--- | :--- |
 | **⟪लट्⟫** (Ind.) | ⟪भनक्ति⟫ | ⟪भञ्जन्ति⟫ |
 | **⟪विधिलिङ्⟫** (Opt.) | ⟪भञ्ज्यात्⟫ | ⟪भञ्ज्युः⟫ |
-:::

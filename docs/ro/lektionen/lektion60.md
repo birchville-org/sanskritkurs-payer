@@ -23,7 +23,7 @@ status: stable
 
 ⟪बन्ध्⟫ 9P "a lega"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ |
@@ -32,7 +32,7 @@ status: stable
 :::
 ⟪भाष्⟫ 1Ā "a vorbi"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बभाषिवहे⟫ |
@@ -43,7 +43,7 @@ status: stable
 
 ⟪भिद्⟫ 7U "a despica"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बिभिदिव⟫ | ⟪बिभिदिवहे⟫ |
@@ -56,7 +56,7 @@ status: stable
 
 ⟪नी⟫ 1U „a conduce”
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪निन्यिव⟫ | ⟪निन्यिवहे⟫ |
@@ -65,7 +65,7 @@ status: stable
 :::
 ⟪स्तु⟫ 2U (⟪अनिट्⟫) „a lăuda”
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुष्टुव⟫ | ⟪तुष्तुवहे⟫ |
@@ -74,7 +74,7 @@ status: stable
 :::
 ⟪कृ⟫ 8U (⟪अनिट्⟫) „a face, a face”
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
@@ -85,7 +85,7 @@ status: stable
 
 ⟪स्मृ⟫ 1P „a prezenta, a reprezenta”
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
@@ -96,7 +96,7 @@ status: stable
 
 ⟪दा⟫ 3U "a da"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪ददिव⟫ | ⟪ददिवहे⟫ |
@@ -111,7 +111,7 @@ status: stable
 
 ⟪गम्⟫ 1U "a merge"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
@@ -122,7 +122,7 @@ status: stable
 
 ⟪पच्⟫ 1U "a găti"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
@@ -133,7 +133,7 @@ status: stable
 
 ⟪क्रम्⟫ 1U "a pașna"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
@@ -144,7 +144,7 @@ status: stable
 
 ⟪गण्⟫ 10P "număra"
 
-:::grammar-box
+::: grammar-box
 |   | **⟪परस्मैपदम्⟫** |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
@@ -153,7 +153,7 @@ status: stable
 :::
 ⟪आस्⟫ 2Ā "ședea"
 
-:::grammar-box
+::: grammar-box
 |   | **⟪आत्मनेपदम्⟫** |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
@@ -162,7 +162,7 @@ status: stable
 :::
 ## 60.4. Participiul ⟪परस्मैपद⟫ al perfectului reduplicat (⟪द्वित्वलिट्⟫)
 
-:::grammar-box
+::: grammar-box
 **Formare:**
 
 **trecut perfect slab + vāṃs**
@@ -178,7 +178,7 @@ Exemple:
 | ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "cel care a fierpt" |
 | ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "cel care a mers" |
 
-:::grammar-box
+::: grammar-box
 **Declinare:**
 
 *   **trecut puternic: -vāṃs**
@@ -196,21 +196,22 @@ Exemplu: ⟪विदुषी⟫ "o înțeleaptă"
 :::
 Paradigme vezi Kielhorn, Gramatică § 124:
 
-:::media
+::: media
 ![](/images/lekt6001.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6001))
-::::::media
+:::: media
 ![](/images/lekt6002.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6002))
+::::
 :::
 ## 60.5. Declinarea stemelor în -añc (-ac)
 
-:::grammar-box
+::: grammar-box
 **Stemele în -añc/-ac sunt combinații de preverbe etc. cu substantivul de rădăcină al rădăcinii ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "a se mișca".**
 :::
 ### 60.5.1. Stamuri cu trei silabe în -añc
 
-:::grammar-box
+::: grammar-box
 **Formare:**
 
 *   **formă puternică: -añc**
@@ -232,12 +233,13 @@ Exemplu: ⟪प्रतीची⟫
 :::
 ####  Vezi paradigmă la Kielhorn, Gramatikă § 128:
 
-:::media
+::: media
 ![](/images/lekt6003.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6003))
-::::::media
+:::: media
 ![](/images/lekt6004.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6004))
+::::
 :::
 Aici apar:
 
@@ -257,7 +259,7 @@ Aici apar:
 
 ### 60.5.2. Stame cu două rădăcini în -añc
 
-:::grammar-box
+::: grammar-box
 **Formare:**
 
 *   **stăvân puternic: -añc**
@@ -281,7 +283,7 @@ Direcțiile principale ale cerului
 
 ## 60.6. Desiderativul (⟪सन्⟫)
 
-:::grammar-box
+::: grammar-box
 **Din fiecare rădăcină, precum și din cauzativ, se poate forma un Desiderativ (⟪सन्⟫). Desiderativul se poate conjuga în toate timpurile și modurile din P, Ā și Passiv. Formele desiderative în afara temei de prezent sunt, totuși, foarte rare.**
 
 **Semnificație:**
@@ -299,7 +301,7 @@ Direcțiile principale ale cerului
 
 ### 60.6.1. Formarea rădăcinii desiderative
 
-:::grammar-box
+::: grammar-box
 **Rădăcinile claselor de prezent 1 - 9:**
 
 **rădăcină reduplicată + sa**
@@ -313,7 +315,8 @@ Regulile privind utilizarea vocalei de legătură -i- se găsesc la Kielhorn, Gr
 **Rădăcinile clasei a 10-a de prezent și causativele:**
 
 **stam de prezent reduplicat + i + ṣa**
-::::::grammar-box
+:::
+::: grammar-box
 **Forma rădăcinii:**
 
 1.  Rădăcina este de obicei în gradul inferior: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
@@ -349,7 +352,8 @@ Regulile privind utilizarea vocalei de legătură -i- se găsesc la Kielhorn, Gr
              
         2.  opțional: rădăcini de forma Consoană - (Consoană -) i/u - Consoană exceptând -v\_  
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "a dori să scânteieze"
-::::::grammar-box
+:::
+::: grammar-box
 **Privind reduplicarea:**
 
 1.  Rădăcinile care încep cu consoană: Reduplicarea se face pe rădăcinile modificate conform regulilor de mai sus, după regulile obișnuite. În loc de a ca vocală de reduplicare apare i:  
@@ -365,57 +369,61 @@ Regulile privind utilizarea vocalei de legătură -i- se găsesc la Kielhorn, Gr
     ⟪ऋ⟫ » ⟪अरिरिष⟫-  
      
 3.  Formarea specială a desiderativelor pentru anumite rădăcini se găsește la Kielhorn, Gramatik § 451.
-::::::grammar-box
+:::
+::: grammar-box
 **Pentru unele rădăcini se formează desiderative fără sens desiderativ. Pentru aceste desiderative se pot forma desiderative cu sens desiderativ.**
 :::
 Lista la Kielhorn, Gramatik § 452:
 
-:::media
+::: media
 ![](/images/lekt6006.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6006))
 :::
 ### 60.6.2. Conjugarea desiderativului (⟪सन्⟫)
 
-::::grammar-box
+::: grammar-box
 **Desiderativul este, cu puține excepții, P, Ā sau U, în funcție de faptul dacă rădăcina de bază (sau, respectiv, tema verbală de bază) este P, Ā sau U.**
 
 **Tema de prezent: conjugare ca o temă tematică:**
 
 ⟪यज्⟫ 1U:
 
-:::indent
+:::
+::: indent
 P: ⟪यियक्षति⟫ "el dorește să sacrifice pentru altcineva"
 Ā: ⟪यियक्षते⟫ "el dorește să sacrifice pentru sine însuși (ca stăpân al ofrandei)"
 Pasiv: ⟪यियक्ष्यते⟫ "se dorește sacrificarea"
 :::
 **Perfect: perifrastic:**
 
-:::indent
+::: indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "el dorise să obțină"
 :::
 **Aorist: iṣ-Aorist:**
 
-:::indent
+::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
 **Viitor: ⟪सेट्⟫**
 
-:::indent
+::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
-:::::::
+:::
 Pentru formarea substantivelor de agent pe -u din tema desiderativului, vezi [Lecția 54](lektion54.md).
 
 ## 60.7. Exercițiu
 
 A) Studiați în Kielhorn, Gramatică § 451 formele neregulate de desiderativ pentru verbele învățate până acum:
 
-:::media
+::: media
 ![](/images/lekt6007.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6007))
-::::::media
+:::: media
 ![](/images/lekt6008.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6008))
-::::::media
+::::
+:::
+::: media
 ![](/images/lekt6009.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6009))
 :::

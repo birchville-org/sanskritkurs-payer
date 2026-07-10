@@ -12,7 +12,7 @@ export const es = {
       { text: 'Contenido', link: '/es/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Créditos', link: '/es/impressum' },
-      { text: '⚙️', link: '/es/settings', ariaLabel: 'Abrir configuración' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/es/settings', ariaLabel: 'Abrir configuración' }
     ],
     docFooter: {
       prev: 'Lección anterior',

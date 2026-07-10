@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Determine and translate the following forms and form the corresponding forms of the **a-aorist**:
 
-:::grammar-box
+::: grammar-box
 | Nr. | Form | Determination / Meaning | a-aorist |
 |:---|:---|:---|:---|
 | ⟪१⟫. | **⟪दोक्ष्यन्ति⟫** | *⟪दुष्⟫* 4P: 3. Pl. Fut. P. (they will perish) | **⟪अदुषन्⟫** |
@@ -46,8 +46,9 @@ Determine and translate the following forms and form the corresponding forms of 
 | ⟪३१⟫. | **⟪अशुष्याम⟫** | *⟪शुष्⟫* 4P: 1. Pl. Impf. P. (we became dry) | **⟪अशुषाम⟫** |
 | ⟪३२⟫. | **⟪सिष्णेह⟫** | *⟪स्निह्⟫* 4P: 1. 3. Sg. Perf. P. (I loved / he loved) | **⟪अस्निहम्⟫ / ⟪अस्निहत्⟫** |
 
-::::::media
+:::: media
 ![](/images/uebung092.webp)
 Fig.: ⟪अशोभथाः⟫ ⟪।⟫ ⟪अशुभः⟫
 (Image source: [Details](/en/licenses#uebung092))
+::::
 :::

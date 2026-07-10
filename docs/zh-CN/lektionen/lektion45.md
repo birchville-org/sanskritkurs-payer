@@ -1,152 +1,154 @@
 ---
-title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+title: 第45课
+subtitle: "第二人称动词形式（⟪मध्यमः⟫）无元音结尾后缀的非主题词干的构成（续）"
 lesson_id: 45
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 45
 
-## 45.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)
+## 45.1. 第二人称动词形式（⟪मध्यमः⟫）的非元音后缀结尾的无气息词干的构成（续）
 
 ### 45.1.1. Dritte Präsensklasse (⟪जुहोत्यादि⟫)
 
-⟪हु⟫ 3P <!-- TODO: Fallback translation -->
+⟪हु⟫ 第三人称
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | &lt;⟪जुहुषे⟫&gt; | &lt;⟪जुहुध्वे⟫&gt; | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | &lt;⟪अजुहुथास्⟫&gt; | &lt;⟪अजुहुध्वम्⟫&gt; | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | &lt;⟪जुह्वीथास्⟫&gt; | &lt;⟪जुह्वीध्वम्⟫&gt; | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
+| --- | --- | --- | --- | --- |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **直陈式现在时** :br⟪⟪लट्⟫⟫ | ⟪⟪जुहोषि⟫⟫ | ⟪⟪जुहुथ⟫⟫ | \<⟪⟪जुहुषे⟫⟫\> | \<⟪⟪जुहुध्वे⟫⟫\> |
+| **未完成过去时** :br⟪⟪लङ्⟫⟫ | ⟪⟪अजुहोस्⟫⟫ | ⟪⟪अजुहुत⟫⟫ | \<⟪⟪अजुहुथास्⟫⟫\> | \<⟪⟪अजुहुध्वम्⟫⟫\> |
+| **愿语气** :br⟪⟪विधिलिङ्⟫⟫ | ⟪⟪जुहुयास्⟫⟫ | ⟪⟪जुहुयात⟫⟫ | \<⟪⟪जुह्वीथास्⟫⟫\> | \<⟪⟪जुह्वीध्वम्⟫⟫\> |
 :::
-⟪धा⟫ 2U <!-- TODO: Fallback translation -->
+⟪⟪धा⟫⟫ 2U
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:braus: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **现在时直陈式** :br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:braus: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
+| **未完成时** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
+| **虚拟语气** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
 :::
-### 45.1.2. Siebte Präsensklasse (⟪रुधादि⟫)
+### 45.1.2. 第七现在时类（⟪रुधादि⟫）
 
-:::grammar-box
-**Wenn auslautendes k/g der Wurzel zwischen den Nasal ṅ und einen Dental der Endung zu stehen kommt, so kann wahlweise das k/g wegfallen** <!-- TODO: Fallback translation -->
+::: grammar-box
+**当词根末尾的 k/g 出现在鼻音 ṅ 和词尾的齿音之间时，k/g 可以选择性地脱落**
 
-z.B. **⟪युज्⟫** 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ oder ⟪यु⟫***⟪ङ्ते⟫*** <!-- TODO: Fallback translation -->
+z.B. **⟪युज्⟫** 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ oder ⟪यु⟫***⟪ङ्ते⟫***
 :::
-⟪युज्⟫ 7U <!-- TODO: Fallback translation -->
+⟪युज्⟫ 7U
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अयुनक्⟫:braus: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
+| --- | --- | --- | --- | --- |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **直陈式现在时** :br⟪⟪लट्⟫⟫ | ⟪⟪युनक्षि⟫⟫:bryu-na-j + si | ⟪⟪युङ्क्थ⟫⟫:br⟪⟪युङ्थ⟫⟫ | ⟪⟪युङ्क्षे⟫⟫ | ⟪⟪युङ्ग्ध्वे⟫⟫:br⟪⟪युङ्ध्वे⟫⟫ |
+| **未完成过去时** :br⟪⟪लङ्⟫⟫ | ⟪⟪अयुनक्⟫⟫:braus: a-yu-na-j + s | ⟪⟪युङ्क्त⟫⟫:br⟪⟪अयुङ्त⟫⟫ | ⟪⟪अयुङ्क्थास्⟫⟫:br⟪⟪अयुङ्थास्⟫⟫ | ⟪⟪अयुङ्ग्ध्वम्⟫⟫:br⟪⟪अयुङ्ध्वम्⟫⟫ |
+| **虚拟式** :br⟪⟪विधिलिङ्⟫⟫ | ⟪⟪युञ्ज्यास्⟫⟫ | ⟪⟪युञ्ज्यात⟫⟫ | ⟪⟪युञ्जीथास्⟫⟫ | ⟪⟪युञ्जीध्वम्⟫⟫ |
 :::
-⟪रुध्⟫ 7U <!-- TODO: Fallback translation -->
+⟪⟪रुध्⟫⟫ 7U
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br ***⟪अरुण्स्⟫*** (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **现在时直陈式** :br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
+| **未完成时** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br ***⟪अरुण्स्⟫*** (不规则！) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
+| **愿语气** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
 :::
-## 45.2. Der Vokativ Singular (⟪आमन्त्रितमेकवचने⟫)
+## 45.2. 呼语单数（⟪आमन्त्रितमेकवचने⟫）
 
-:::grammar-box
-**Die meisten Vokative des Singular sind der Stamm mit hochstufigem Auslaut.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**大多数单数呼格是词干加高音质尾音。**
 
-z.B. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** u.s.w. <!-- TODO: Fallback translation -->
+例如，**⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** 等等。
 
-**Ausnahmen sind die Feminina auf -ā und -ī sowie die Stämme auf -in, deren Vokativ sg. besonders zu merken ist.** <!-- TODO: Fallback translation -->
-:::::::grammar-box
-:::no-header
-| | Vokativ Singular | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| Maskulina auf -a | ⟪देव⟫ | <!-- TODO: Fallback translation -->
-| Neutra auf -a | ⟪फल⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -ā | ⟪देवते⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -i | ⟪कवे⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -i | ⟪मते⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -u | ⟪शत्रो⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -u | ⟪धेनो⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -ī | ⟪देवि⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -ṛ | ⟪पितर्⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -ṛ | ⟪मातर्⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -an | ⟪राजन्⟫ | <!-- TODO: Fallback translation -->
-| Neutra auf -an | ⟪नामन्⟫:br⟪नाम⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -man/-van | ⟪आत्मन्⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -in | ⟪बलिन्⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -ant | ⟪बलिन्⟫:br⟪बलि⟫ | <!-- TODO: Fallback translation -->
-| mahānt m. | ⟪महन्⟫ | <!-- TODO: Fallback translation -->
-| mahānt n. | ⟪महत्⟫:br= Nominativ | <!-- TODO: Fallback translation -->
-| Maskulina auf -mant/-vant | ⟪गुणवन्⟫ | <!-- TODO: Fallback translation -->
-| Neutra auf -mant/-vant | ⟪गुणवत्⟫:br= Nominativ | <!-- TODO: Fallback translation -->
-| Pronomina | ein Vokativ wird nicht gebildet | <!-- TODO: Fallback translation -->
-:::::::::media
+**例外情况是词尾为 -ā 和 -ī 的阴性名词，以及词干为 -in 的名词，其单数呼格的用法需要特别牢记。**
+:::
+::: no-header
+| | 单数呼格 |
+| --- | --- |
+| 词干为 -a 的阳性名词 | ⟪देव⟫ |
+| 词干为 -a 的中性名词 | ⟪फल⟫ |
+| 词干为 -ā 的阴性名词 | ⟪देवते⟫ |
+| 词干为 -i 的阳性名词 | ⟪कवे⟫ |
+| 词干为 -i 的阴性名词 | ⟪मते⟫ |
+| 词干为 -u 的阳性名词 | ⟪शत्रो⟫ |
+| 词干为 -u 的阴性名词 | ⟪धेनो⟫ |
+| 词干为 -ī 的阴性名词 | ⟪देवि⟫ |
+| 词干为 -ṛ 的阳性名词 | ⟪पितर्⟫ |
+| 词干为 -ṛ 的阴性名词 | ⟪मातर्⟫ |
+| 词干为 -an 的阳性名词 | ⟪राजन्⟫ |
+| 词干为 -an 的中性名词 | ⟪नामन्⟫:br⟪नाम⟫ |
+| 词干为 -man/-van 的阳性名词 | ⟪आत्मन्⟫ |
+| 词干为 -in 的阳性名词 | ⟪बलिन्⟫ |
+| 词干为 -ant 的阳性名词 | ⟪बलिन्⟫:br⟪बलि⟫ |
+| mahānt 阳性 | ⟪महन्⟫ |
+| mahānt 中性 | ⟪महत्⟫:br= 主格 |
+| 词干为 -mant/-vant 的阳性名词 | ⟪गुणवन्⟫ |
+| 词干为 -mant/-vant 的中性名词 | ⟪गुणवत्⟫:br= 主格 |
+| 代词 | 不形成呼格 |
+:::: media
 ![](/images/lekt4501.webp)
-Abb.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
-(Bildquelle: [Details](/licenses#lekt4501)) <!-- TODO: Fallback translation -->
+图：⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
+（图片来源：[详细信息](/zh-CN/licenses#lekt4501)）
+::::
 :::
-## 45.3. Wortliste
+## 45.3. 词汇表
 
-⟪वा⟫ ... ⟪वा⟫ : entweder ... oder <!-- TODO: Fallback translation -->
+⟪वा⟫ … ⟪वा⟫ : entweder … oder
 
 ## 45.4. Übung
 
-A) Übersetzen Sie ins Sanskrit (für Vergangenheitsformen bitte das Imperfekt &lt;⟪लङ्⟫&gt; verwenden): <!-- TODO: Fallback translation -->
+A) 翻译成梵文（对于过去时态，请使用未完成体 \<⟪लङ्⟫\>）：
 
-1\. Du spaltest die (buddhistische) Gemeinde. <!-- TODO: Fallback translation -->
+1\. 你分裂了（佛教）僧团。
 
-:::indent
-zur Gemeindespaltung (⟪सङ्घभेद⟫) siehe: <!-- TODO: Fallback translation -->
+::: indent
+关于教团分裂（⟪सङ्घभेद⟫）参见：
 
-**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm) <!-- TODO: Fallback translation -->
+**Payer, Alois \<1944 - \>:** Vinayamukha：上座部佛教戒律与僧团法的基本概念。-- 第一部分。--（佛教基本概念资料）。-- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-2\. Habt ihr die Erde genossen? <!-- TODO: Fallback translation -->
+2\. 你们是否已享受过大地？
 
-3\. Hast du vom König eine Gabe empfangen? <!-- TODO: Fallback translation -->
+3\. Hast du vom König eine Gabe empfangen?
 
-4\. Heiliger Mann, warum fürchtest du dich nicht vor Gefahren? <!-- TODO: Fallback translation -->
+4\. Heiliger Mann, warum fürchtest du dich nicht vor Gefahren?
 
-5\. Vater, wohin verlässt du die Familie? <!-- TODO: Fallback translation -->
+5\. 父亲，你为何抛弃家庭？
 
-6\. Śūdrafrau, hast du die Last ins Haus des reichen Brahmanen getragen? <!-- TODO: Fallback translation -->
+6\. 首陀罗妇女，你是否将重物搬入了那位富有的婆罗门的家中？
 
-7\. Göttin, du solltest den Wunsch nach Glück des Vaiśya, der Verdienstvolles getan hat, erfüllen. <!-- TODO: Fallback translation -->
+7\. 女神啊，你应当实现那位行善之吠舍对幸福的渴望。
 
-8\. Elefanten, ihr solltet die Fesseln nicht zerbrechen. <!-- TODO: Fallback translation -->
+8\. 大象们，你们不应折断束缚。
 
-9\. Du löwengleicher Mann, warum richtest du nicht deine ganze Aufmerksamkeit auf das Absolute (Brahman)? <!-- TODO: Fallback translation -->
+9\. 你这如狮之人，为何不将全部注意力集中于绝对者（梵）？
 
-10\. Hast du, Dichter, die Welten gemessen? <!-- TODO: Fallback translation -->
+10\. Hast du, Dichter, die Welten gemessen?
 
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B) 翻译：
 
-⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥१॥⟫
 
-⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥२॥⟫
 
-⟪ब्राह्मण⟫ ⟪किमग्नौ⟫ ⟪घृतमजुहोः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪ब्राह्मण⟫ ⟪किमग्नौ⟫ ⟪घृतमजुहोः⟫ ⟪॥३॥⟫
 
-⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥४॥⟫
 
-:::media
+::: media
 ![](/images/lekt4502.jpg)
-Abb.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
-(Bildquelle: [Details](/licenses#lekt4502)) <!-- TODO: Fallback translation -->
-::::::deleteme-box
+图：⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4502)）
+:::
+::: deleteme-box
 
-**lekt4501.jpg**: Textil-Blockdruck, Ahmedabad. -- Bildquelle: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
+**lekt4501.jpg**: 纺织品木版印刷，艾哈迈达巴德。-- 图片来源：Daveybot。-- http://www.flickr.com/photos/davemorris/316429534/。-- 访问日期：2009-01-08。-- 知识共享许可协议（署名，非商业性使用，相同方式共享）
 
-**lekt4502.jpg**: Bildquelle: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
+**lekt4502.jpg**: Bildquelle: John Isaac / Weltbank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)
 :::

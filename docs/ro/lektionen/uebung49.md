@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Determinați următoarele forme:
 
-:::grammar-box
+::: grammar-box
 | Nr. | Formă | Determinare |
 |:---|:---|:---|
 | ⟪१⟫. | **⟪गृहाणि⟫** | *⟪गृह⟫* n.: Nom. Ac. Pl. n. |
@@ -52,10 +52,11 @@ Determinați următoarele forme:
 | ⟪३७⟫. | **⟪बन्धनीय⟫** | *⟪बन्ध्⟫* 9P: Ger. Voc. Sg. m. n. |
 | ⟪३८⟫. | **⟪गायी⟫** | *⟪गायिन्⟫*: Nom. Sg. m. |
 | ⟪३९⟫. | **⟪मह्यम्⟫** | *⟪अहम्⟫*: Dat. Sg. |
-::::::media
+:::: media
 ![](/images/uebung078.webp)
 Fig.: ⟪गायी⟫
 (Sursa imaginii: [Detalii](/licenses#uebung078))
+::::
 :::
 ---
 
@@ -71,7 +72,7 @@ Fig.: ⟪गायी⟫
 >
 > Vaiśampāyana, însă, care fusese întrebat de Stăpânul Pământului cu o curiozitate spontană și cu mare respect, a reflectat o clipă și apoi a răspuns cu mare respect: „Rege, aceasta este o poveste lungă. Dacă te interesează, împrumută-mi urechea ta!”
 
-:::media
+::: media
 ![](/images/uebung079.webp)
 Fig.: ⟪शुकः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung079))

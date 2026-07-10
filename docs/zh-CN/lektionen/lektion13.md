@@ -1,261 +1,265 @@
 ---
-title: Lektion 13
-subtitle: "PPP auf -na-"
+title: 第13课
+subtitle: "以-na-结尾的过去分词"
 lesson_id: 13
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 13
+# 第13课
 
 ---
 
-## 13.1. PPP auf -na-
+## 13.1. 以-na-结尾的过去分词
 
-Für die Verteilung der PPPs auf -ta- bzw. -na- lassen sich keine festen Regeln aufstellen. Doch: <!-- TODO: Fallback translation -->
+对于以-ta-或-na-结尾的过去分词的分布，无法制定固定的规则。但是：
 
-:::grammar-box
+::: grammar-box
 
-Fast alle Wurzeln auf -d bilden das PPP auf -na-. In diesem Fall wird -d-n- durch -n-n- ersetzt, was sonst im Wortsandhi nicht geschieht, sondern eine Nachahmung des Satzsandhi ist. <!-- TODO: Fallback translation -->
+几乎所有以-d结尾的词根都生成以-na-结尾的过去分词。在这种情况下，-d-n-被-n-n-取代，这在词间连声（Wortsandhi）中通常不会发生，而是对句间连声（Satzsandhi）的模仿。
 
-Beispiel:
-pad 4 Ā PPP: panna 3 = ⟪पन्न⟫ <!-- TODO: Fallback translation -->
+示例：
+pad 4 Ā 过去分词：panna 3 = ⟪पन्न⟫
 
 :::
 ---
 
-## 13.2. Weiteres zum Gebrauch des PPP
+## 13.2. 过去分词用法的补充说明
 
-::::grammar-box
+::: grammar-box
 
-1. Das PPP zu Verben der Bedeutung "denken", "wünschen", "kennen", "wissen", "verehren" sowie einiger weiterer Verben, die im Dhātupāṭha, dem Wurzelverzeichnis zu Pāṇini, durch ñi gekennzeichnet sind, hat nicht nur Vergangenheitsbedeutung, sondern kann auch in präsentischer Bedeutung verwendet werden: <!-- TODO: Fallback translation -->
-
-    z.B. <!-- TODO: Fallback translation -->
-
-    :::indent
-    ⟪इष्ट⟫ "erwünscht" (d.h. nicht nur in der Vergangenheit gewünscht, sondern auch in der Gegenwart) <!-- TODO: Fallback translation -->
-
-    ⟪त्वरित⟫ "eilend, eilig" (PPP zu tvar 1 Ā "eilen"; Dhātupāṭha: ñitvárā) <!-- TODO: Fallback translation -->
-    :::2. Das PPP kann als Adjektiv attributiv verwendet werden: <!-- TODO: Fallback translation -->
-
-    z.B. <!-- TODO: Fallback translation -->
-
-    :::indent
-    ⟪इष्टं⟫ ⟪फलम्⟫ "die erwünschte Frucht (z.B. der Taten)" <!-- TODO: Fallback translation -->
-    :::Wenn in diesem Fall ⟪अपि⟫ nach dem PPP steht, hat ⟪अपि⟫ die Bedeutung "obwohl": <!-- TODO: Fallback translation -->
-
-    z.B. <!-- TODO: Fallback translation -->
-
-    :::indent
-    ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Obwohl der die Frucht wünscht, erhält er sie nicht." <!-- TODO: Fallback translation -->
-    :::3. Das Neutrum Singular des PPP von jedem Verb kann auch als Verbalabstraktum verwendet werden: <!-- TODO: Fallback translation -->
-
-    z.B. <!-- TODO: Fallback translation -->
-
-    :::indent
-    ⟪गत⟫ n.: "das Gehen, der Gang" <!-- TODO: Fallback translation -->
-
-    ⟪नृत्त⟫ n.: "das Tanzen, der Tanz" <!-- TODO: Fallback translation -->
-    ::::::---
-
-## 13.3. Attributive Bestimmungen von Nomina (Wortstellung)
-
-::::grammar-box
-
-Attribute (Beifügungen) stehen in Prosa in der normalen Wortfolge vor dem Wort, das sie näher bestimmen. Adjektivische Attribute stimmen mit dem Nomen in Zahl, Fall und Geschlecht überein: <!-- TODO: Fallback translation -->
-
-Beispiel: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Ein Heiliger sieht die erwünschte Frucht (seiner Werke)." <!-- TODO: Fallback translation -->
-::::::
----
-
-## 13.4. Bildung von Adjektiven auf -mant und -vant (taddhita)
-
-::::grammar-box
-
-Mittels der taddhita-Suffixe -mant bzw. -vant werden von Nomina besitzanzeigende Adjektive gebildet. Ihre Bedeutung ist: "das durch das zugrundeliegende Nomen Bezeichnete besitzend". <!-- TODO: Fallback translation -->
-
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant. <!-- TODO: Fallback translation -->
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪पशुमन्त्⟫ "Vieh besitzend" <!-- TODO: Fallback translation -->
-
-⟪गुणवन्त्⟫ "gute Eigenschaften / Tugend besitzend" <!-- TODO: Fallback translation -->
-::::::
----
-
-## 13.5. Stammabstufung von Nomina
-
-Die Stämme auf -mant bzw. -vant gehören zu den Nominalstämmen mit Stammabstufung. <!-- TODO: Fallback translation -->
-
-:::grammar-box
-Bei Nominalstämmen mit Stammabstufung unterscheidet man zwischen starken und schwachen Kasus (Fällen). In den starken Kasus hat das stammbildende Suffix — bei Wurzelnomina der wurzelhafte Bestandteil — Hochstufe bzw. Dehnstufe, in den schwachen Kasus Tiefstufe. <!-- TODO: Fallback translation -->
+**1. 意为“思考”、“希望”、“认识”、“知道”、“崇拜”的动词，以及《经》（Dhātupāṭha，即帕尼尼的词根目录）中由ñi标记的其他一些动词的过去分词，不仅具有过去时的含义，还可以以现在时的意义使用：**
+例如：
 :::
-**Starke Kasus sind:** <!-- TODO: Fallback translation -->
+::: indent
+⟪इष्ट⟫ “被希望的”（即不仅在过去被希望，而且在现在也被希望）
+⟪त्वरित⟫ “匆忙的”（动词tvar 1 Ā“匆忙”的过去分词；《经》：ñitvárā）
+:::
 
-| | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVokativ:br⟪सम्बोधनप्रथमा⟫ | <!-- TODO: Fallback translation -->
-| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | <!-- TODO: Fallback translation -->
+**2. 过去分词可以作为定语形容词使用：**
+例如：
+::: indent
+⟪इष्टं⟫ ⟪फलम्⟫ “所期望的果实（例如行为的果实）”
+:::
 
-**Alle übrigen Kasus sind schwach.** <!-- TODO: Fallback translation -->
+如果在这种情况下，⟪अपि⟫ 出现在过去分词之后，则⟪अपि⟫ 具有“虽然”的含义：
+例如：
+::: indent
+⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = “虽然他希望获得果实，但他并未得到它。”
+:::
 
-:::grammar-box
-Als Vorderglied eines Kompositums steht ein Nomen mit Stammabstufung im schwachen Stamm (bei dreistämmigen Nomina im sog. mittleren). <!-- TODO: Fallback translation -->
+**3. 任何动词的过去分词的中性单数形式也可以用作动词抽象名词：**
+例如：
+::: indent
+⟪गत⟫ n.：“行走，步伐”
+⟪नृत्त⟫ n.：“舞蹈”
+:::
+
+---
+
+## 13.3. 名词的定语（语序）
+
+::: grammar-box
+
+定语（修饰语）在散文中的正常语序中位于其所修饰的词之前。形容词性定语在数、格和性上与名词一致：
+
+示例：
+
+:::
+::: indent
+⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = “圣人看到他所期望的果实（其行为的果实）。”
 :::
 ---
 
-## 13.6. Zum Wortsandhi
+## 13.4. 以-mant和-vant结尾的形容词的构成（派生词缀）
 
-Zum Verständnis der einzelnen Formen der Deklination von Nomina auf -mant und -vant sind folgende Gesetze des Wortsandhi nötig: <!-- TODO: Fallback translation -->
+::: grammar-box
 
-::::grammar-box
+通过使用taddhita后缀-mant或-vant，可以从名词构成表示拥有的形容词。其含义是：“拥有以底层名词所指代之物的”。
 
-1. Anzahl der auslautenden Konsonanten eines Wortes: Von zwei oder mehr Konsonanten, auf die ein Wort schließen würde, bleibt nur der erste Konsonant erhalten, die übrigen fallen ab. Erlaubt ist die Verbindung -r- + Konsonant. <!-- TODO: Fallback translation -->
+-vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
 
-2. Stimmloser Verschlusslaut wird vor stimmhaftem Verschlusslaut (nicht Nasal) durch den ihm entsprechenden stimmhaften Verschlusslaut ersetzt: <!-- TODO: Fallback translation -->
+示例：
 
-    Beispiele: <!-- TODO: Fallback translation -->
+:::
+::: indent
+⟪पशुमन्त्⟫ “拥有牲畜的”
 
-    :::indent
-    -t + bh- » -d-bh- ⟪द्भ्⟫ <!-- TODO: Fallback translation -->
-
-    -k + bh- » -g-bh- ⟪ग्भ्⟫ <!-- TODO: Fallback translation -->
-
-    -c + bh- » -g-bh- ⟪ग्भ्⟫ <!-- TODO: Fallback translation -->
-
-    -c + dh- » -g-dh- ⟪ग्ध्⟫ <!-- TODO: Fallback translation -->
-    ::::::---
-
-## 13.7. Kasusendungen konsonantischer Stämme
-
-:::grammar-box
-
-Bei konsonantisch auslautenden Stämmen: <!-- TODO: Fallback translation -->
-* ist die Endung des Akkusativ (dvitīyā) Plural Maskulinum und Femininum -as. <!-- TODO: Fallback translation -->
-* ist bei regelmäßig bildenden Stämmen das Neutrum in Nominativ (prathamā) und Akkusativ (dvitīyā) Singular endungslos. <!-- TODO: Fallback translation -->
-* ist bei regelmäßig bildenden Stämmen im Neutrum die Endung des Nominativ und Akkusativ Plural -i. <!-- TODO: Fallback translation -->
-
+⟪गुणवन्त्⟫ “拥有良好品质/美德的”
 :::
 ---
 
-## 13.8. Deklination der Stämme auf -mant und -vant
+## 13.5. 名词的词干变格
 
-:::grammar-box
+以-mant或-vant结尾的词干属于具有词干变格的名词词干。
 
-* starker Stamm: Nomen + -mant- / -vant- <!-- TODO: Fallback translation -->
-* schwacher Stamm: Nomen + -mat- / -vat- (aus: *-mnt- / *-vnt-) <!-- TODO: Fallback translation -->
+::: grammar-box
+对于具有词干变格的名词词干，强格（Case）和弱格（Case）之间存在区别。在强格中，构成词干的后缀——对于词根名词则是词根部分——表现为高一级（强式）或延长级；在弱格中表现为低一级（弱式）。
+:::
+**强格包括：**
 
-| | | Maskulinum || Neutrum || <!-- TODO: Fallback translation -->
-| :--- | :--- | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| Singular:br⟪एकवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ | <!-- TODO: Fallback translation -->
-| | Akkusativ:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ | <!-- TODO: Fallback translation -->
-| | Instrumentalis:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | <!-- TODO: Fallback translation -->
-| Plural:br⟪बहुवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ | <!-- TODO: Fallback translation -->
-| | Akkusativ:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ | <!-- TODO: Fallback translation -->
-| | Instrumentalis:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | <!-- TODO: Fallback translation -->
+| | 单数：br⟪एकवचन⟫ | 双数：br⟪द्विवचन⟫ | 复数：br⟪बहुवचन⟫ |
 
-Femininum: <!-- TODO: Fallback translation -->
+| :--- | :--- | :--- | :--- |
+| **对于阳性和阴性名词** :br⟪पुंस्⟫, ⟪⟪स्त्री⟫ | 主格:br⟪प्रथमा⟫:br宾格:br⟪द्वितीया⟫:br呼格:br⟪सम्बोधनप्रथमा⟫ | 主格:br⟪प्रथमा⟫:br宾格:br⟪द्वितीया⟫:br呼格:br⟪सम्बोधनप्रथमा⟫ | 主格:br⟪प्रथमा⟫:br:br呼格:br⟪सम्बोधनप्रथमा⟫ |
+| **对于中性名词** :br⟪नपुंसक⟫ | — | — | 主格:br⟪प्रथमा⟫:br宾格:br⟪द्वितीया⟫:br呼格:br⟪सम्बोधनप्रथमा⟫ |
 
-Der Femininstamm der Stämme auf -mant- und -vant- lautet auf -mat-ī bzw. -vat-ī. Die Deklination geht wie bei devī, d.h. es gibt keine Stammabstufung. <!-- TODO: Fallback translation -->
+**所有其他格均为弱格。**
 
-Beispiel: <!-- TODO: Fallback translation -->
-* paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫ <!-- TODO: Fallback translation -->
+::: grammar-box
+作为复合词的前半部分，具有词干交替的名词以弱词干形式出现（对于三词干名词，即所谓的“中间”词干）。
+:::
+---
+
+## 13.6. 关于词音变（Wortsandhi）
+
+为了理解以 -mant 和 -vant 结尾的名词的各种变格形式，需要以下词音变定律：
+
+::: grammar-box
+1. 词尾辅音的数量：如果一个词以两个或更多辅音结尾，则只保留第一个辅音，其余辅音脱落。允许的组合是 -r- + 辅音。
+
+2. 清塞音在浊塞音（非鼻音）前被相应的浊塞音取代：
+:::
+示例：
+::: indent
+-t + bh- » -d-bh- ⟪द्भ्⟫
+
+-k + bh- » -g-bh- ⟪ग्भ्⟫
+
+-c + bh- » -g-bh- ⟪ग्भ्⟫
+
+-c + dh- » -g-dh- ⟪ग्ध्⟫
+:::
+---
+
+## 13.7. 辅音词干的格尾
+
+::: grammar-box
+
+对于以辅音结尾的词干：
+* 复数阳性和阴性宾格（dvitīyā）的词尾是 -as。
+* 对于规则构成的词干，中性名词在主格（prathamā）和宾格（dvitīyā）单数中无词尾。
+* 对于规则构成的词干，中性名词在主格和宾格复数中的词尾是 -i。
 
 :::
 ---
 
-## 13.9. Wortliste
+## 13.8. 以 -mant 和 -vant 结尾的词干的变格
 
-Lernen Sie folgende Wörter: <!-- TODO: Fallback translation -->
+::: grammar-box
 
-- **eva** ⟪एव⟫ : betont vorhergehendes Wort <!-- TODO: Fallback translation -->
-- **asura** m. ⟪असुर⟫ : Dämon <!-- TODO: Fallback translation -->
+* 强词干：名词 + -mant- / -vant-
+* 弱词干：名词 + -mat- / -vat-（源自：*-mnt- / *-vnt-）
 
-> **ASURA.** 'Spiritual, divine.' <!-- TODO: Fallback translation -->
-&gt; <!-- TODO: Fallback translation -->
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods. <!-- TODO: Fallback translation -->
-&gt; <!-- TODO: Fallback translation -->
-> The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis. <!-- TODO: Fallback translation -->
-&gt; <!-- TODO: Fallback translation -->
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya. <!-- TODO: Fallback translation -->
-&gt; <!-- TODO: Fallback translation -->
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'" <!-- TODO: Fallback translation -->
-&gt; <!-- TODO: Fallback translation -->
-> [Quelle: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ] <!-- TODO: Fallback translation -->
+| | | 阳性 || 中性 ||
+| :--- | :--- | :---: | :---: | :---: | :---: |
+| 单数:br⟪एकवचन⟫ | 主格:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | 宾格:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | 工具格:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
+| 复数:br⟪बहुवचन⟫ | 主格:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | 宾格:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | 工具格:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 
-:::media
+阴性：
+
+以 -mant- 和 -vant- 结尾的词干的阴性形式以 -mat-ī 或 -vat-ī 结尾。其变格类似于 devī，即没有词干交替。
+
+示例：
+* paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
+
+:::
+---
+
+## 13.9. 词汇表
+
+学习以下词汇：
+
+- **eva** ⟪एव⟫ : 强调前一个词
+- **asura** 阳性 ⟪असुर⟫ : 恶魔
+
+> **ASURA。** “精神，神圣的。”
+>
+> 在《梨俱吠陀》最古老的部分中，这个词被用来指代至高精神，与琐罗亚斯德教徒的阿胡拉（Ahura）相同。在“神”的意义上，它被应用于几位主要神祇，如因陀罗（Indra）、阿格尼（Agni）和伐楼那（Varuṇa）。后来它获得了完全相反的含义，并像现在一样，意指恶魔或神的敌人。
+>
+> 这个词在《梨俱吠陀》较晚的部分，特别是最后一卷中，以及在《阿闼婆吠陀》中，都以此意义出现。《梵书》赋予它相同的含义，并记录了许多阿修罗与神之间的争斗。根据《泰帝里亚梵书》，梵天的呼吸（*asu*）变得有活力，并且“凭借那呼吸，他创造了我阿修罗。”在《同一作品的另一部分》中说，梵天“怀孕了。他从腹部创造了阿修罗。”《百道梵书》与前者陈述一致，并指出“他从下呼吸创造了阿修罗。”《泰帝里亚森林书》认为，梵天从水中创造了神、人、祖先、乾闼婆（Gandharvas）和阿普萨拉斯（Apsarases），而阿修罗、罗刹（Rakṣasas）和毗舍遮（piśācas）是从洒出的水滴中产生的。摩奴的说法是，他们是由梵天众（Prajāpatis）创造的。
+>
+> 根据《毗湿奴往世书》，他们是从梵天（prajāpati）的腹股沟产生的。《火神往世书》的记载是：“阿修罗首先作为儿子从他的（梵天）腹股沟产生。*Asu* 被《梵书》声明为呼吸。从它产生了这些生物；因此他们是阿修罗。”这个词长期以来一直用作神的敌人的总称，包括戴提亚（Daityas）和达那婆（Danavas）以及迦叶波（Kaśyapa）的其他后代，但不包括从普拉斯蒂耶（Pulastya） descendants 产生的罗刹（Rakṣasas）。
+>
+> 在此意义上，人们为它找到了不同的词源：词源不再是 *asu*（“呼吸”），而是将初始 *a* 视为否定前缀，因此 *asura* 意为“非神”；因此，根据某些人的说法，产生了词 *sura*，通常用于“神”。”
+>
+> [来源：**Dowson, John \<1820-1881\>：** 印度神话、宗教、地理、历史和文学古典词典。——伦敦，特布纳出版社，1879年。——词条。]
+
+::: media
 ![](/images/lekt1301.webp)
-Abb.: ⟪महिषासुरः⟫
-(Bildquelle: [Details](/licenses#lekt1301)) <!-- TODO: Fallback translation -->
+图：⟪महिषासुरः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt1301)）
 :::
-- **guṇa** m. ⟪गुण⟫ : Faden, Schnur; Eigenschaft, gute Eigenschaft <!-- TODO: Fallback translation -->
-- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : gehen, geraten in <!-- TODO: Fallback translation -->
-- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : sein, da sein <!-- TODO: Fallback translation -->
-- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : schleudern, (weg-)werfen <!-- TODO: Fallback translation -->
-- **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : gehen <!-- TODO: Fallback translation -->
-- **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : schützen, behüten <!-- TODO: Fallback translation -->
+- **guṇa** 阳性 ⟪गुण⟫ : 线，绳；性质，好性质
+- **pad** 4 Ā (padyate)，被动态：padyate，PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : 走，陷入
+- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : 存在，在那里
+- **as** 4 P (asyati)，被动态：asyate，PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : 投掷，（扔）走
+- **i** 2 P (eti)，被动态：īyate，PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : 走
+- **pā** 2 P (pāti)，被动态 pāyate，PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : 保护，守护
 
-:::indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : trinken (traditionell zur 1. Klasse gerechnet) <!-- TODO: Fallback translation -->
+::: indent
+**pā** 1 P (pibati)，被动态 pīyate，PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : 喝（传统上归入第一类）
+
 :::
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : hassen, anfeinden <!-- TODO: Fallback translation -->
-- **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : essen, verzehren <!-- TODO: Fallback translation -->
-- **anna** n. ⟪अन्न⟫ : Speise (aus PPP: *ad-na: das Gegessene) <!-- TODO: Fallback translation -->
+- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : 憎恨，敌视
+- **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : 吃，消耗
+- **anna** n. ⟪अन्न⟫ : 食物（源自PPP：*ad-na：所食之物）
 
-:::media
+::: media
 ![](/images/lekt1304.webp)
-Abb.: ⟪अन्नम्⟫
-(Bildquelle: [Details](/licenses#lekt1304)) <!-- TODO: Fallback translation -->
+图：⟪अन्नम्⟫
+（图片来源：[详情](/zh-CN/licenses#lekt1304)）
 :::
-Wortbildung: <!-- TODO: Fallback translation -->
+构词法：
 
-pad 4 Ā: <!-- TODO: Fallback translation -->
+pad 4 Ā：
 
-:::indent
-**pada** n. ⟪पद⟫ : Schritt, Standort, Stätte <!-- TODO: Fallback translation -->
+::: indent
+**pada** n. ⟪पद⟫ ：脚步，地点，场所
 
-**pāda** m. ⟪पाद⟫ : Fuß, ein Viertel, Verszeile <!-- TODO: Fallback translation -->
-::::::media
+**pāda** m. ⟪पाद⟫ ：脚，四分之一，诗句
+:::
+
+::: media
 ![](/images/lekt1303.webp)
-Abb.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
-(Bildquelle: [Details](/licenses#lekt1303)) <!-- TODO: Fallback translation -->
+图：⟪चत्वारः⟫ ⟪पादाः⟫ ：⟪गजः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt1303)）
 :::
-dviṣ 2 U: <!-- TODO: Fallback translation -->
+dviṣ 2 U：
 
-:::indent
-**dveṣa** ⟪द्वेष⟫ : Hass <!-- TODO: Fallback translation -->
+::: indent
+**dveṣa** ⟪द्वेष⟫ ：憎恨
 :::
 ---
 
-## 13.10. Übung
+## 13.10. 练习
 
-A) Übersetzen Sie und verwandeln Sie in aktive Präsenssätze: <!-- TODO: Fallback translation -->
+A) 翻译并转换为主动语态现在时句子：
 
 ⟪१⟫. ⟪अग्निना⟫ ⟪गृहं⟫ ⟪दग्धम्⟫ ⟪।⟫
 ⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
-⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1305.webp)
-Abb.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
-(Bildquelle: [Details](/licenses#lekt1305)) <!-- TODO: Fallback translation -->
+图：⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt1305)）
 :::
-⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 Möglichkeiten)
+⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ （两种可能）
 ⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
 ⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
 ⟪९⟫. ⟪साधुनाधर्मो⟫ ⟪न⟫ ⟪कृतम्⟫ ⟪।⟫
 ⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
-⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
 
-B) Übersetzen Sie und verwandeln Sie in Passivsätze der Vergangenheit: <!-- TODO: Fallback translation -->
+B) 翻译并转换为过去时被动语态句子：
 
 ⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
 ⟪२⟫. ⟪योद्धा⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫
@@ -272,13 +276,13 @@ B) Übersetzen Sie und verwandeln Sie in Passivsätze der Vergangenheit: <!-- TO
 ⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫
 ⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
 ⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
-⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
 
 ---
 
-## 13.11. Wiederholungsübung
+## 13.11. 复习练习
 
-A) Übersetzen Sie folgende Sätze: <!-- TODO: Fallback translation -->
+A) 翻译以下句子：
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 ⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
@@ -293,69 +297,69 @@ A) Übersetzen Sie folgende Sätze: <!-- TODO: Fallback translation -->
 ⟪११⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्येन⟫ ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
 ⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
 ⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
-⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
 
-B) Setzen Sie die Sätze Übung A) ins Passiv. <!-- TODO: Fallback translation -->
+B) 将练习A中的句子转换为被动语态。
 
-C) Bilden Sie zu den Sätzen Übung A) eine PPP-Konstruktion. <!-- TODO: Fallback translation -->
+C) 为练习A中的句子构建PPP结构。
 
-:::media
+::: media
 ![](/images/lekt1302.webp)
-Abb.: ⟪सत्यमेव⟫ ⟪जयते⟫
-(Bildquelle: [Details](/licenses#lekt1302)) <!-- TODO: Fallback translation -->
+图：⟪सत्यमेव⟫ ⟪जयते⟫
+（图片来源：[详情](/zh-CN/licenses#lekt1302)）
 :::
-D) Aus welchen Lautverbindungen können folgende Sandhiformen entstanden sein? Geben Sie alle Möglichkeiten an: <!-- TODO: Fallback translation -->
+D) 以下桑迪亚（Sandhi）形式可能由哪些语音组合演变而来？请列出所有可能性：
 
-1. -a vor Vokal (außer a-) <!-- TODO: Fallback translation -->
-2. -ā- <!-- TODO: Fallback translation -->
-3. -ā vor Vokal <!-- TODO: Fallback translation -->
-4. -ā vor stimmhaften Konsonanten <!-- TODO: Fallback translation -->
-5. -ī- <!-- TODO: Fallback translation -->
-6. -ū- <!-- TODO: Fallback translation -->
-7. -ṝ- <!-- TODO: Fallback translation -->
-8. -e- <!-- TODO: Fallback translation -->
-9. -e vor Avagraha <!-- TODO: Fallback translation -->
-10. -o- <!-- TODO: Fallback translation -->
-11. -o vor Avagraha <!-- TODO: Fallback translation -->
-12. -o vor stimmhaften Konsonanten <!-- TODO: Fallback translation -->
-13. -ai- <!-- TODO: Fallback translation -->
-14. -au- <!-- TODO: Fallback translation -->
-15. -y vor Vokal <!-- TODO: Fallback translation -->
-16. -v vor Vokal <!-- TODO: Fallback translation -->
-17. -r vor Vokal <!-- TODO: Fallback translation -->
-18. -ay vor Vokal <!-- TODO: Fallback translation -->
-19. -av vor Vokal <!-- TODO: Fallback translation -->
-20. -ar- <!-- TODO: Fallback translation -->
-21. -ir vor Vokal oder stimmhaftem Konsonanten <!-- TODO: Fallback translation -->
-22. -īr vor Vokal oder stimmhaftem Konsonanten <!-- TODO: Fallback translation -->
-23. -ur vor Vokal oder stimmhaftem Konsonanten <!-- TODO: Fallback translation -->
-24. -ūr vor Vokal oder stimmhaftem Konsonanten <!-- TODO: Fallback translation -->
-25. -er vor Vokal oder stimmhaftem Konsonanten <!-- TODO: Fallback translation -->
-26. -or vor Vokal oder stimmhaftem Konsonanten <!-- TODO: Fallback translation -->
-27. -air vor Vokal oder stimmhaftem Konsonanten <!-- TODO: Fallback translation -->
-28. -aur vor Vokal oder stimmhaftem Konsonanten <!-- TODO: Fallback translation -->
-29. -ñj- <!-- TODO: Fallback translation -->
-30. -ñś- <!-- TODO: Fallback translation -->
-31. -ñch- <!-- TODO: Fallback translation -->
-32. -ṇḍ(h)- <!-- TODO: Fallback translation -->
-33. -śc- <!-- TODO: Fallback translation -->
-34. -ṣṭ- <!-- TODO: Fallback translation -->
-35. -st(h)- <!-- TODO: Fallback translation -->
-36. Anusvāra vor Konsonant <!-- TODO: Fallback translation -->
-37. -ṃśc- <!-- TODO: Fallback translation -->
-38. -ṃṣṭ- <!-- TODO: Fallback translation -->
-39. -mst- <!-- TODO: Fallback translation -->
+1. -a 在元音前（除 a- 外）
+2. -ā-
+3. -ā 在元音前
+4. -ā 在浊辅音前
+5. -ī-
+6. -ū-
+7. -ṝ-
+8. -e-
+9. -e 在阿瓦格拉哈（Avagraha）前
+10. -o-
+11. -o 在阿瓦格拉哈（Avagraha）前
+12. -o 在浊辅音前
+13. -ai-
+14. -au-
+15. -y 在元音前
+16. -v 在元音前
+17. -r 在元音前
+18. -ay 在元音前
+19. -av 在元音前
+20. -ar-
+21. -ir 在元音或浊辅音前
+22. -īr 在元音或浊辅音前
+23. -ur 在元音或浊辅音前
+24. -ūr 在元音或浊辅音前
+25. -er 在元音或浊辅音前
+26. -or 在元音或浊辅音前
+27. -air 在元音或浊辅音前
+28. -aur 在元音或浊辅音前
+29. -ñj-
+30. -ñś-
+31. -ñch-
+32. -ṇḍ(h)-
+33. -śc-
+34. -ṣṭ-
+35. -st(h)-
+36. 辅音前的安努斯瓦拉（Anusvāra）
+37. -ṃśc-
+38. -ṃṣṭ-
+39. -mst-
 
-E) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+E) 翻译成梵语：
 
-1. Die Göttin war erzürnt. <!-- TODO: Fallback translation -->
-2. Śūdras sind in einen Himmel gelangt. <!-- TODO: Fallback translation -->
-3. Die Bauern sind den Weg gegangen. <!-- TODO: Fallback translation -->
-4. Durch die Buddhalehre wurden die Leute befreit. <!-- TODO: Fallback translation -->
-5. Der Sohn tanzte. <!-- TODO: Fallback translation -->
-6. Das Amulett hat den Lehrer beschützt. <!-- TODO: Fallback translation -->
-7. Ein Brahmane hat keine Unwahrheit gesagt. <!-- TODO: Fallback translation -->
-8. Śūdrafrauen haben die Göttin mit Opfern verehrt. <!-- TODO: Fallback translation -->
-9. Buddha ist zur Wahrheit erwacht = Buddha hat die Wahrheit erkannt. <!-- TODO: Fallback translation -->
-10. Die vedischen Weisen haben die Śruti gehört. <!-- TODO: Fallback translation -->
-11. Die Opferpriester haben den Soma gepresst. <!-- TODO: Fallback translation -->
+1. 女神感到愤怒。
+2. 首陀罗人进入了一个天堂。
+3. 农民们走了路。
+4. 人们通过佛法得到了解脱。
+5. 儿子跳舞了。
+6. 护身符保护了老师。
+7. 婆罗门没有说假话。
+8. 首陀罗妇女用供品崇拜女神。
+9. 佛陀觉悟了真理 = 佛陀认识了真理。
+10. 吠仙人们听到了《声论》（Śruti）。
+11. 祭祀祭司们压榨了苏摩酒。

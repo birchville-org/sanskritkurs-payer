@@ -151,7 +151,7 @@ Nous voulons être guidés par toi.
 ⟪३४⟫. **⟪सुखाय⟫ ⟪भवतात्⟫ ⟪॥⟫ ⟪३४⟫ ⟪॥⟫**
 Puise au bonheur ! (Vœu de bénédiction)
 
-:::media
+::: media
 ![](/images/uebung075.webp)
 Fig. : ⟪माद्यत⟫
 (Source de l'image : [Détails](/fr/licenses#uebung075))

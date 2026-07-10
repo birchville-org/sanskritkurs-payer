@@ -1,17 +1,17 @@
 ---
-title: Leçon 47
-subtitle: "L'impératif (⟪लोट्⟫)"
+title: Lektion 47
+subtitle: "Der Imperativ (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 47
+# Lektion 47
 
-## 47.1. L’impératif (⟪लोट्⟫)
+## 47.1. Der Imperativ (⟪लोट्⟫)
 
-:::grammar-box
+::: grammar-box
 L’impératif (⟪लोट्⟫) exprime
 
 *   **l’ordre** (peut aussi être exprimé par le gérondif (⟪कृत्य⟫))
@@ -33,7 +33,7 @@ L’impératif exprime également :
 :::
 Exemples :
 
-:::indent
+::: indent
 ⟪एहि⟫ ⟪।⟫ « Viens ! »
 
 ⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ ou optatif : ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ « Viens au village ! »
@@ -47,60 +47,62 @@ Exemples :
 ⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ ou gérondif : ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ « Fabrique un couteau ! » ; « Tu as le droit de fabriquer un couteau. » ; « Il est temps que tu fabriques un couteau. »
 
 ⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ « Puisses-tu vivre longtemps ! »
-::::::grammar-box
+:::
+::: grammar-box
 Les ordres polis sont volontiers exprimés par des impératifs passifs.
 :::
 Exemples :
 
-:::indent
+::: indent
 ⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ « Entrez **s’il vous plaît** ! »
 
 ⟪निषद्यताम्⟫ ⟪।⟫ « Veuillez vous asseoir ! »
 :::
 Dans l’impératif du sanskrit classique, les formes de la première personne sont d’anciennes formes de subjonctif. Le subjonctif védique est principalement le mode exprimant un souhait : « Nous voulons partir ! » « Partons ! »
 
-:::grammar-box
+::: grammar-box
 L’impératif est formé à partir du radical de présent.
 :::
-## 47.2. Formation de l'impératif (⟪लोट्⟫) des thèmes de présent thématiques
+## 47.2. Bildung des Imperativs (⟪लोट्⟫) thematischer Präsensstämme
 
 ### 47.2.1. Terminaisons de l’impératif aux thèmes de présent thématiques
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **Terminaisons** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1re personne**:br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
-| **2e personne**:br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
-| **3e personne**:br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
+| **Terminaisons** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
+| **2. Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
+| **3. Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
-Rem. : ¹ Les terminaisons de la 2e et de la 3e personne du singulier peuvent être remplacées par -tāt lorsqu’on veut exprimer un vœu de bénédiction :
+Rem. :¹ Les terminaisons de la 2e et 3e sg. peuvent être remplacées par -tāt lorsqu’un vœu de bénédiction doit être exprimé :
 
-:::indent
-⟪भद्रो⟫ ⟪भवतात्⟫ « Puisses-tu être heureux ! » « Qu’il soit heureux ! »
+::: indent
+⟪भद्रो⟫ ⟪भवतात्⟫ «Que tu sois heureux !» «Qu’il soit heureux !»
 
 ⟪शुभं⟫ ⟪भवतु⟫ ou ⟪शुभं⟫ ⟪भवतात्⟫ « Que cela soit bon ! » « Tout bien ! »
 :::
 ### 47.2.2. Première classe de présent (⟪भ्वादि⟫)
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **⟪भू⟫ 1P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1re personne**:br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | &lt;⟪भवै⟫&gt; | &lt;⟪भवामहै⟫&gt; |
-| **2e personne**:br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | &lt;⟪भवस्व⟫&gt; | &lt;⟪भवध्वम्⟫&gt; |
-| **3e personne**:br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | &lt;⟪भ्वताम्⟫&gt; | &lt;⟪भवन्ताम्⟫&gt; |
+| **⟪भू⟫ 1P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \<⟪भवै⟫\> | \<⟪भवामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \<⟪भवस्व⟫\> | \<⟪भवध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \<⟪भ्वताम्⟫\> | \<⟪भवन्ताम्⟫\> |
 :::
-### 47.2.3. Sixième classe de présent (⟪तुदादि⟫)
+### 47.2.3. Sechste Präsensklasse (⟪तुदादि⟫)
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **⟪विश्⟫ 6P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Personne**:br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | &lt;⟪विशै⟫&gt;:br(viś-a + ai) | &lt;⟪विशामहै⟫&gt; |
-| **2. Personne**:br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | &lt;⟪विशस्व⟫&gt; | &lt;⟪विशध्वम्⟫&gt; |
-| **3. Personne**:br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | &lt;⟪विशताम्⟫&gt; | &lt;⟪विशन्ताम्⟫&gt; |
-::::::media
+| **⟪विश्⟫ 6P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \<⟪विशै⟫\>:br(viś-a + ai) | \<⟪विशामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \<⟪विशस्व⟫\> | \<⟪विशध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \<⟪विशताम्⟫\> | \<⟪विशन्ताम्⟫\> |
+:::
+::: media
 ![](/images/lekt4702.webp)
 Fig. : ⟪प्रविशत⟫
 Temple Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
@@ -108,14 +110,15 @@ Temple Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, �
 :::
 ### 47.2.4. Quatrième classe de présent (⟪दिवादि⟫)
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **⟪नृत्⟫ 4P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1re personne**:br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | &lt;⟪नृत्यै⟫&gt; | &lt;⟪नृत्यामहै⟫&gt; |
-| **2e personne**:br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | &lt;⟪नृत्यस्व⟫&gt; | &lt;⟪नृत्यध्वम्⟫&gt; |
-| **3e personne**:br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | &lt;⟪नृत्यताम्⟫&gt; | &lt;⟪नृत्यन्ताम्⟫&gt; |
-::::::media
+| **⟪नृत्⟫ 4P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \<⟪नृत्यै⟫\> | \<⟪नृत्यामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \<⟪नृत्यस्व⟫\> | \<⟪नृत्यध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \<⟪नृत्यताम्⟫\> | \<⟪नृत्यन्ताम्⟫\> |
+:::
+::: media
 ![](/images/lekt4701.webp)
 Fig. : ⟪नृत्यत⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4701))
@@ -124,27 +127,27 @@ Fig. : ⟪नृत्यत⟫
 
 ⟪चुर्⟫ 10U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1re personne**:br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
-| **2e personne**:br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
-| **3e personne**:br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
 :::
-### 47.2.6. Passif
+### 47.2.6. Passiv
 
 ⟪ईक्ष्⟫ 1Ā
 
-:::grammar-box
+::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Personne**:br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
-| **2. Personne**:br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
-| **3. Personne**:br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::
-## 47.3. Exercice
+## 47.3. Übung
 
 A) Traduisez :
 
@@ -154,7 +157,7 @@ A) Traduisez :
 
 ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तव्यं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt4703.webp)
 Fig. : ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4703))
@@ -165,7 +168,7 @@ Fig. : ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्
 
 ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫ ⟪॥६॥⟫
 
-:::media
+::: media
 ![](/images/lekt4704.webp)
 Fig. : ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4704))
@@ -250,7 +253,7 @@ B.) Traduisez en sanskrit (utilisez l'impératif) :
 
 34). Qu'il apporte le bonheur (se produise) ! (Vœu de bénédiction)
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt4702:** Temple Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Source de l'image : Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Consulté le 2009-01-09. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Attribution, pas de travaux dérivés)]
 

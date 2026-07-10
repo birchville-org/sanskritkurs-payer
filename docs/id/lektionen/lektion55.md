@@ -11,7 +11,7 @@ status: stable
 
 ## 55.1. The a-aorist (Aorist with thematic vowel)
 
-:::grammar-box
+::: grammar-box
 **The a-aorist is formed like an imperfect (⟪लङ्⟫) of the 6th present class (⟪तुदादि⟫), i.e.:**
 
 **Augment + zero-grade root + a + secondary ending**
@@ -28,7 +28,7 @@ Example:
 
 ⟪सिच्⟫ 6U "to sprinkle"
 
-:::indent
+::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -38,7 +38,7 @@ Example:
 :::
 Irregular formations:
 
-:::indent
+::: indent
 ⟪अस्⟫ 4P "to throw": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (Explanation see Thumb-Hauschild §541,4)
 
 ⟪ख्या⟫ + ⟪आ⟫ 2P "to tell": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
@@ -47,7 +47,7 @@ Irregular formations:
 :::
 Note:
 
-:::indent
+::: indent
 ⟪शास्⟫ 2P "to command": ⟪अशिषत्⟫ (regular zero-grade!)
 :::
 ## 55.2. Exercise
@@ -87,12 +87,13 @@ Determine and translate the following forms in writing, and form the correspondi
 31.  ⟪अशुष्याम⟫
 32.  ⟪सिष्णेह⟫
 
-:::media
+::: media
 ![](/images/lekt5501.webp)
 Fig.: ⟪अजीर्यमिति⟫
 'Inâyat Khân on his deathbed, sketch for a miniature of a manuscript for Jahângîr = جهانگير, ca. 1618
 (Image source: [Details](/en/licenses#lekt5501))
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt5501:** 'Inâyat Khân on his deathbed, sketch for a miniature of a manuscript for Jahângîr = جهانگير, ca. 1618 [Image source: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Accessed on 2009-01-28. Public domain]
 

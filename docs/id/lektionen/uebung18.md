@@ -83,7 +83,7 @@ B) Translate the following Tatpuruṣa compounds:
 
 ⟪३१⟫. ⟪अमृत⟫ n. — immortality, nectar, ambrosia
 
-:::media
+::: media
 ![](/images/uebung027.jpg)
 Fig.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
 (Image source: [Details](/en/licenses#uebung027))
@@ -141,7 +141,7 @@ D) Translate:
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 The duty of all is: non-violence, truthfulness, purity, not murmuring about one's lot, freedom from malice, and patient forbearance.
 
-:::media
+::: media
 ![](/images/uebung028.webp)
 Fig.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
 (Image source: [Details](/en/licenses#uebung028))

@@ -95,6 +95,16 @@ function mergeTableCells() {
     });
 }
 
+function fixTableColors() {
+    // Safari workaround for :has() bug on client-side navigation
+    const targets = document.querySelectorAll('.vp-doc .grammar-box table strong em, .vp-doc .grammar-box table em strong');
+    targets.forEach(el => {
+        if (!el.querySelector('.sanskrit-dev')) {
+            el.style.setProperty('color', 'inherit', 'important');
+        }
+    });
+}
+
 export default {
   extends: DefaultTheme,
   Layout: () => h(DefaultTheme.Layout, null, {
@@ -123,6 +133,7 @@ export default {
              setTimeout(() => {
                  closeInactiveGroups();
                  mergeTableCells();
+                 fixTableColors();
                  filterSidebarByLocales();
              }, 250);
              

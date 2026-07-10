@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Convertire le seguenti forme verbali nelle corrispondenti forme ottative per persona, numero e genere verbi:
 
-:::grammar-box
+::: grammar-box
 | Presente | Ottativo |
 | :--- | :--- |
 | ⟪१⟫. **⟪ह्रियते⟫** | ⟪ह्रियेत⟫ |
@@ -116,7 +116,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 **⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫** (Manu IV.138)  
 Si dica la verità che è piacevole, non si dica la verità sgradevole; non si dica una falsa verità piacevole, questa è la legge eterna.
 
-:::media
+::: media
 ![](/images/uebung048.webp)
 Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung048))
@@ -127,7 +127,7 @@ Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्त�
 
 Determinare e tradurre le seguenti forme:
 
-:::grammar-box
+::: grammar-box
 | Forma | Determinazione | Significato |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪भारे⟫** | Loc. sg. m. | sul carico |
@@ -170,8 +170,9 @@ Determinare e tradurre le seguenti forme:
 | ⟪३८⟫. **⟪तस्यै⟫** | Dat. sg. f. | a lei |
 | ⟪३९⟫. **⟪तस्मिन्⟫** | Loc. sg. m./n. | in esso, in questo |
 | ⟪४०⟫. **⟪सते⟫** | Dat. sg. m./n. | all'Essente / al Buono |
-::::::media
+:::: media
 ![](/images/uebung047.webp)
 Fig.: ⟪भक्त्याः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung047))
+::::
 :::

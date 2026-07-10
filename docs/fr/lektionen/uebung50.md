@@ -55,7 +55,7 @@ A) Pour revoir la déclinaison : Le verset suivant contient toutes les formes de
 
 > Une famille où le mari est toujours satisfait de son épouse, et l'épouse de son mari, une telle famille est assurée d'un bonheur constant.
 
-:::media
+::: media
 ![](/images/uebung081.webp)
 Fig. : ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫ ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫ ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫ ⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫
 (Source de l'image : [Détails](/fr/licenses#uebung081))
@@ -76,7 +76,7 @@ Fig. : ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्�
 
 > Qu'on s'engage toujours dans l'étude des Veda et dans les rituels destinés aux dieux. Car celui qui s'engage dans les rituels pour les dieux obtient ce monde, fait de vivant et de non-vivant. L'offrande, jetée correctement dans le feu, va au soleil ; du soleil provient la pluie ; de la pluie, la nourriture ; de celle-ci, les créatures.
 
-:::media
+::: media
 ![](/images/uebung082.webp)
 Fig. : ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫ ⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥⟫
 (Source de l'image : [Détails](/fr/licenses#uebung082))

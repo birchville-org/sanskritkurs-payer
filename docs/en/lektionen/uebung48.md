@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 48
+# Lesson 48
 
 A) Translate the **⟪सुभाषितानि⟫** at the beginning of the lesson:
 
@@ -20,7 +20,7 @@ Act according to righteousness and custom!
 Regard your mother as a deity!
 
 ⟪४⟫. **⟪गौरवं⟫ ⟪प्राप्यते⟫ ⟪दानात्⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Dignity is attained through generosity.
+Honor is attained through generosity.
 
 ⟪५⟫. **⟪श्वः⟫ ⟪कार्यमद्य⟫ ⟪कुर्वी⟫it ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 What is to be done tomorrow, do today. (Do not postpone until tomorrow what you can do today!)
@@ -31,10 +31,10 @@ A person without education is livestock.
 ⟪७⟫. **⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 Brevity is the ornament of the grammarian.
 
-:::media
+::: media
 ![](/images/uebung083.webp)
 Fig.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
-(Image source: [Details](/en/licenses#uebung083))
+(Image source: [Details](/licenses#uebung083))
 :::
 ---
 
@@ -43,7 +43,7 @@ Fig.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
 B) Translate into Sanskrit using the imperative (preferably roots of the 2nd and 3rd class):
 
 ⟪१⟫. **⟪पुत्रं⟫ ⟪लब्ध्वा⟫ ⟪कुलं⟫ ⟪जहाहि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (Or: **... ⟪जहीहि⟫ / ⟪जहिहि⟫ ⟪॥⟫**)
-Having obtained a son, abandon the family!
+Having obtained a son, leave the family!
 
 ⟪२⟫. **⟪पौरवाः⟫ ⟪कृतपापेभ्यो⟫ ⟪बिभीत⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 Descendants of Puru, fear those who have done evil!
@@ -54,13 +54,13 @@ The girls should give food to the beggars.
 ⟪४⟫. **⟪ब्रवाम⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫** (Or: **⟪वचाम⟫ ⟪॥⟫**)
 We want to speak.
 
-:::media
+::: media
 ![](/images/uebung085.webp)
 Fig.: ⟪वचाम⟫
-(Image source: [Details](/en/licenses#uebung085))
+(Image source: [Details](/licenses#uebung085))
 :::
 ⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-With the words "Come, monk!" the Buddha admitted the man into the order.
+With the words "Come, monk!" the Buddha initiated the man into the order.
 
 ⟪६⟫. **⟪सन्मानवाः⟫ ⟪स्त⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 Be true humans (descendants of Manu)!
@@ -107,10 +107,11 @@ They should sit in my house.
 ⟪२०⟫. **⟪भर्तारो⟫ ⟪भार्या⟫ ⟪बिभ्रतु⟫ ⟪॥⟫ ⟪२०⟫ ⟪॥⟫**
 Husbands should maintain their wives.
 
-:::media
+::: media
 ![](/images/uebung076.webp)
 Fig.: ⟪तानि⟫ ⟪फलान्यदाम⟫
-(Image source: [Details](/en/licenses#uebung076))
+(Image source: [Details](/licenses#uebung076))
+
 :::
 ---
 
@@ -132,26 +133,28 @@ Blameworthy is the father who does not marry her at the right time; blameworthy 
 
 **⟪सूक्ष्मेभ्यो⟫ ⟪ऽपि⟫ ⟪प्रसङ्गेभ्यः⟫ ⟪स्त्रियो⟫ ⟪रक्ष्या⟫ ⟪विशेषतः⟫ ⟪।⟫**  
 **⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ ⟪शोकमावहेयुररक्षिताः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**  
-Women are to be protected especially against minor occasions; for unprotected, they would plunge two families into sorrow.
+Women are to be protected especially from trivial occasions; for unprotected, they would plunge two families into sorrow.
 
 **⟪इमं⟫ ⟪हि⟫ ⟪सर्ववर्णानां⟫ ⟪पश्यन्तो⟫ ⟪धर्ममुत्तमम्⟫ ⟪।⟫**  
 **⟪यतन्ते⟫ ⟪रक्षितुं⟫ ⟪भार्यां⟫ ⟪भर्तारो⟫ ⟪दुर्बला⟫ ⟪अपि⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**  
-Since they recognize this as the highest duty of all estates, even weak husbands strive to protect their wife.
+Recognizing this as the highest duty of all estates, even weak husbands strive to protect their wives.
 
 **⟪स्वां⟫ ⟪प्रसूतिं⟫ ⟪चरित्रं⟫ ⟪च⟫ ⟪कुलमात्मानमेव⟫ ⟪च⟫ ⟪।⟫**  
 **⟪स्वं⟫ ⟪च⟫ ⟪धर्मं⟫ ⟪प्रयत्नेन⟫ ⟪जायां⟫ ⟪रक्षन्हि⟫ ⟪रक्षति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**  
-Whoever carefully protects his wife, truly protects his offspring, his way of life, his family, himself, and his religious duty.
+Whoever carefully protects his wife, truly protects his offspring, his conduct, his family, himself, and his religious duty.
 
 **⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫ ⟪।⟫**  
 **⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**  
-The husband enters into his wife, becomes an embryo, and is then born here; this constitutes the "wifeness" (**⟪जायात्वम्⟫**) of the wife, that the husband is reborn in her.
+The husband enters into his wife, becomes an embryo, and is then born here; this is the "husband-having" (**⟪जायात्वम्⟫**) of the wife, that the husband is reborn in her.
 
-:::media
+::: media
 ![](/images/uebung084.webp)
 Fig.: ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫
-(Image source: [Details](/en/licenses#uebung084))
-::::::media
+(Image source: [Details](/licenses#uebung084))
+:::
+
+::: media
 ![](/images/uebung077.webp)
 Fig.: ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫
-(Image source: [Details](/en/licenses#uebung077))
+(Image source: [Details](/licenses#uebung077))
 :::

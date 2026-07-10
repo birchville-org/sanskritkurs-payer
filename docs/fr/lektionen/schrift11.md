@@ -20,7 +20,7 @@ B) Lisez et translitérez :
 
 ⟪१२⟫ ⟪२३⟫ ⟪२४⟫ ⟪५३६⟫ ⟪६५⟫ ⟪८७⟫ ⟪१९४४⟫ ⟪२००८⟫ ⟪९९०⟫ ⟪८७⟫ ⟪७६⟫ ⟪६५⟫ ⟪५४⟫ ⟪४३⟫ ⟪३२⟫ ⟪२१⟫ ⟪१९⟫ ⟪२८⟫ ⟪८३⟫ ⟪७४⟫ ⟪५७⟫ ⟪६६⟫
 
-### Classification des sons du sanskrit (d’après : Kielhorn : Grammaire de la langue sanskrite)
+### Classification des sons du sanskrit (extrait de : Kielhorn : Grammaire de la langue sanskrite)
 
 ![](/images/schrift028.webp)
 

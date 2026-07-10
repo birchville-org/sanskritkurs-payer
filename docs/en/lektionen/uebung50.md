@@ -16,9 +16,9 @@ A) For reviewing declension: The following verse contains all declension forms i
 **⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫**
 
 > My teacher is my refuge,  
-> I honor my teacher,  
+> I worship my teacher,  
 > I am with my teacher,  
-> Homage to my teacher,  
+> Reverence to my teacher,  
 > There is nothing higher than the teacher,  
 > I am the child of my teacher,  
 > My heart is with my teacher,  
@@ -35,7 +35,7 @@ A) For reviewing declension: The following verse contains all declension forms i
 **⟪तेन⟫ ⟪यायात्सतां⟫ ⟪मार्गम्⟫**  
 **⟪तेन⟫ ⟪गच्छन्न⟫ ⟪रिष्यते⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 
-> Go along the path of the good, along which the fathers have gone, along which the grandfathers have gone. If one goes along this path, then one suffers no harm.
+> One should walk on the path of the good, on which the fathers have walked, on which the grandfathers have walked. If one walks on this path, then one suffers no harm.
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
 
@@ -44,7 +44,7 @@ A) For reviewing declension: The following verse contains all declension forms i
 **⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫**  
 **⟪ब्राह्मणातिक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
-> Families become non-families through bad marriages, through neglect of rituals, through non-study of the Vedas, and through transgressions against Brāhmaṇas.
+> Families become non-families through bad marriages, through omission of rituals, through non-study of the Vedas, and through transgression against Brahmins.
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
 
@@ -53,16 +53,16 @@ A) For reviewing declension: The following verse contains all declension forms i
 **⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫**  
 **⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 
-> A family in which the husband is always content with the wife, and the wife with the husband, in such a family, happiness is assured.
+> A family in which the husband is always content with the wife and the wife with the husband, in such a family, constant happiness is certain.
 
-:::media
+::: media
 ![](/images/uebung081.webp)
 Fig.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫ ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫ ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫ ⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫
-(Image source: [Details](/en/licenses#uebung081))
+(Image source: [Details](/licenses#uebung081))
 :::
 ---
 
-### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: On the Necessity of Sacrifice
+### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: On the necessity of sacrifice
 
 **⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫**  
 **⟪दैवे⟫ ⟪चैवेह⟫ ⟪कर्मणि⟫ ⟪।⟫**  
@@ -74,12 +74,12 @@ Fig.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्त
 **⟪आदित्याज्जायते⟫ ⟪वृष्टिर्⟫**  
 **⟪वृष्टेरन्नं⟫ ⟪ततः⟫ ⟪प्रजाः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 
-> One should always engage in the study of the Vedas and in the rituals for the gods. For one who engages in the rituals for the gods obtains this world of the living and the non-living. The sacrifice that is properly cast into the fire goes to the sun; from the sun rain arises; from rain food; from that, creatures.
+> One should always engage in Vedic study and in rituals for the gods. For one who engages in rituals for the gods, indeed obtains this world of animate and inanimate things. The sacrifice that is properly thrown into the fire goes to the sun, from the sun rain arises, from rain food arises, from that creatures arise.
 
-:::media
+::: media
 ![](/images/uebung082.webp)
 Fig.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫ ⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥⟫
-(Image source: [Details](/en/licenses#uebung082))
+(Image source: [Details](/licenses#uebung082))
 :::
 ---
 
@@ -89,18 +89,18 @@ Fig.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪�
 **⟪द्रष्टृदृश्ययोः⟫ ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
 > Future suffering is to be abandoned.  
-> The cause of this abandonment is the connection between the seer and the seen [= the perceiver and the perceived].
+> The cause of this abandoner is the connection of the seer and the seen [= perceiver and perceived].
 
 ---
 
-### ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: On the King’s Advisors
+### ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: On Advisors of the King
 
 **⟪न⟫ ⟪किंचिदवमन्येत⟫**  
 **⟪सर्वस्य⟫ ⟪शृणुयान्मतम्⟫ ⟪।⟫**  
 **⟪बालस्याप्यर्थवद्वाक्यम्⟫**  
 **⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 
-> [The King] should not disdain anything; he should listen to the opinion of everyone. A scholar also adopts the words of a boy, if they are significant.
+> [The King] should not disdain anything; he should listen to the opinion of everyone. A scholar also adopts the word of a boy, if it is significant.
 
 ---
 
@@ -111,14 +111,14 @@ Fig.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪�
 **⟪सकल्पं⟫ ⟪सरहस्यं⟫ ⟪च⟫**  
 **⟪तमाचार्यां⟫ ⟪प्रचक्षते⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
 
-> **Ācārya** is called the twice-born who gives Upanayana to the student and then teaches him the Veda, the ritual, and the secret doctrine.
+> **Ācārya** is called the Twice-born who gives Upanayana to the student and then teaches him the Veda, the ritual, and the esoteric doctrine.
 
 **⟪एकदेशं⟫ ⟪तु⟫ ⟪वेदस्य⟫**  
 **⟪वेदाङ्गान्यपि⟫ ⟪वा⟫ ⟪पुनः⟫ ⟪।⟫**  
 **⟪यो⟫ ⟪ऽध्यापयति⟫ ⟪वृत्त्यर्थम्⟫**  
 **⟪उपाध्यायः⟫ ⟪स⟫ ⟪उच्यते⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 
-> **Upādhyāya** is called the one who teaches a part of the Veda or the auxiliary sciences for the sake of his livelihood.
+> **Upādhyāya** is called the one who, for the sake of his livelihood, teaches a part of the Veda or the auxiliary sciences.
 
 **⟪निषेकादीनि⟫ ⟪कर्माणि⟫**  
 **⟪यः⟫ ⟪करोति⟫ ⟪यथाविधि⟫ ⟪।⟫**  

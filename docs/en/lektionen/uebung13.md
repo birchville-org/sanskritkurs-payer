@@ -11,7 +11,7 @@ last_reconstructed: 2026-05-15
 A) Translate and convert into active present tense sentences:
 
 ⟪१⟫. ⟪अग्निना⟫ ⟪गृहं⟫ ⟪दग्धम्⟫ ⟪।⟫
-A fire has burned down the house.
+A fire has burned the house.
 ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 
 ⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
@@ -19,7 +19,7 @@ Buddha has awakened to the truth. Buddha has recognized the truth.
 ⟪बुद्धः⟫ ⟪सत्यं⟫ ⟪बुध्यते⟫ / ⟪बोधति⟫ ⟪।⟫
 
 ⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
-Knowledge has liberated Gautama. By means of knowledge, Gautama was liberated.
+The knowledge has liberated Gautama. By the knowledge, Gautama was liberated.
 ⟪बोधिर्गौतमं⟫ ⟪मुञ्चति⟫ ⟪।⟫
 
 ⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 possibilities)
@@ -31,7 +31,7 @@ The Brahmin desired liberation.
 ⟪ब्राह्मणो⟫ ⟪मोक्षमिच्छति⟫ ⟪।⟫
 
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
-Rāma performed a meritorious deed. Rāma did something meritorious.
+Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
 ⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
 
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
@@ -39,11 +39,11 @@ It is said that Vedic sages have spoken only the truth.
 ⟪ऋषयः⟫ ⟪सत्यमेव⟫ ⟪वदन्तीति⟫ ⟪वदन्ति⟫ ⟪।⟫
 
 ⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
-Dharma has led to a heaven.
+The Dharma has led to a heaven.
 ⟪धर्मः⟫ ⟪स्वर्गं⟫ ⟪नयति⟫ ⟪।⟫
 
 ⟪९⟫. ⟪साधुनाधर्मो⟫ ⟪न⟫ ⟪कृतम्⟫ ⟪।⟫
-A saint has done no wrong.
+A saint has done nothing wrongful.
 ⟪साधुरधर्मं⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫
 
 ⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
@@ -61,7 +61,7 @@ Although Rāma desires liberation, he does not attain it.
 ⟪रामेणेष्टो⟫ ⟪ऽपि⟫ ⟪मोक्षो⟫ ⟪न⟫ ⟪लब्धः⟫ ⟪।⟫
 
 ⟪२⟫. ⟪योज्ञो⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫
-Sacrifices do not liberate.
+Sacrifice does not liberate.
 ⟪यज्ञेन⟫ ⟪न⟫ ⟪मुक्तः⟫ ⟪।⟫
 
 ⟪३⟫. ⟪साधवो⟫ ⟪देवान्स्मरन्ति⟫ ⟪।⟫
@@ -73,11 +73,11 @@ The virtuous son sacrifices to the gods.
 ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪देवा⟫ ⟪इष्टाः⟫ ⟪।⟫
 
 ⟪५⟫. ⟪सुखवान्क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
-The fortunate Kṣatriya guards Dharma.
+The fortunate Kṣatriya guards the Dharma.
 ⟪सुखवता⟫ ⟪क्षत्रियेण⟫ ⟪धर्मो⟫ ⟪रक्षितः⟫ ⟪।⟫
 
 ⟪६⟫. ⟪पुत्रवान्नरकं⟫ ⟪न⟫ ⟪गच्छति⟫ ⟪।⟫
-He who has sons does not go to any hell.
+Whoever has sons, comes to no hell.
 ⟪पुत्रवान्न्रकं⟫ ⟪न⟫ ⟪गतः⟫ ⟪।⟫
 
 ⟪७⟫. ⟪धर्मवती⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोतीति⟫ ⟪गुरुर्वदति⟫ ⟪।⟫
@@ -85,11 +85,11 @@ The master says that a pious woman does no evil.
 ⟪धर्मवत्या⟫ ⟪पापं⟫ ⟪न⟫ ⟪कृतमिति⟫ ⟪गुरुणोदितम्⟫ ⟪।⟫
 
 ⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪प्र्च्छन्ति⟫ ⟪।⟫
-The insightful question those who possess the truth about Dharma.
+The insightful question those who possess the truth about the Dharma.
 ⟪बुद्धिमद्भिः⟫ ⟪सत्यवन्तो⟫ ⟪धर्मं⟫ ⟪पृष्टाः⟫ ⟪।⟫
 
 ⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-Religious persons do meritorious deeds that bear fruit.
+Religious persons do meritorious deeds, which bear fruit.
 ⟪धर्मवद्भिः⟫ ⟪फलवत्पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 
 ⟪१०⟫. ⟪ब्राह्मणा⟫ ⟪गुणवतः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫
@@ -105,25 +105,25 @@ What does the LORD create?
 ⟪किमीश्वरेण⟫ ⟪सृष्टम्⟫ ⟪।⟫
 
 ⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫
-A saint endures evil inflicted upon him.
+A holy person endures evil inflicted upon him.
 ⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪।⟫
 
 ⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
-Lowly people think that rulers desire wealth.
+Low-minded people think that rulers desire wealth.
 ⟪पार्थिवेन⟫ ⟪धनमिष्टमिति⟫ ⟪नीचैर्मतम्⟫ ⟪।⟫
 
 ⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
-The Vedic sages see that the demon by no means wins.
+The Vedic sages see that the demon does not win in any case.
 ⟪नैवासुरेण⟫ ⟪जितमित्यृषिभिर्दृष्टम्⟫ ⟪।⟫
 
 ⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
 What do Brahmins eat and drink?
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung019.webp)
 Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
-(Image source: [Details](/en/licenses#uebung019))
+(Image source: [Details](/licenses#uebung019))
 :::
 ---
 
@@ -131,12 +131,12 @@ Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 
 A) Translate the following sentences.
 
-B) Convert the sentences from Exercise A) into the passive voice.
+B) Put the sentences from Exercise A) into the passive voice.
 
 C) Form a PPP construction for the sentences from Exercise A).
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
-Rāma walks on the path to the village.
+Rāma geht auf dem Weg ins Dorf.
 ⟪रामेण⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गतम्⟫ ⟪।⟫
 
 ⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
@@ -168,7 +168,7 @@ A virtuous person does not fight his enemy, even if he is hateful to him.
 ⟪गुणवता⟫ ⟪द्विष्तो⟫ ⟪ऽपि⟫ ⟪शत्रुर्न⟫ ⟪युध्यते⟫ ⟪।⟫ ⟪युद्धः⟫ ⟪।⟫
 
 ⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
-The Vedic sage says that anger, hatred, and greed are wrong.
+The Vedic sage says that anger, hatred, and greed are unjust.
 ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिणोद्यते⟫ ⟪।⟫ ⟪लोभश्चेत्यृषिणोदितम्⟫ ⟪।⟫
 
 ⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫
@@ -176,7 +176,7 @@ Boys become strong through food.
 ⟪बालैरन्नेन⟫ ⟪बलमाप्यते⟫ ⟪।⟫ ⟪बालाभिरन्नेन⟫ ⟪बलमाप्यते⟫ ⟪।⟫ ⟪बलमाप्तम्⟫ ⟪।⟫
 
 ⟪११⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्य⟫en ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
-The insightful attain liberation through truth.
+The insightful attain liberation through the truth.
 ⟪बुद्धिमद्भिः⟫ ⟪सत्येन⟫ ⟪मोक्षो⟫ ⟪लभ्यते⟫ ⟪।⟫ ⟪लब्धः⟫ ⟪।⟫
 
 ⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
@@ -188,10 +188,10 @@ Which deity does the Ṛṣi see?
 ⟪का⟫ ⟪देवतर्षिना⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪दृष्टा⟫ ⟪।⟫
 
 ⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
-To which gods do Brāhmaṇas, Kṣatriyas, and Vaiśyas sacrifice?
+To which gods do Brahmins, Katriyas, and Vaśyas sacrifice?
 ⟪के⟫ ⟪देवा⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिज्यन्ते⟫ ⟪।⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिष्टाः⟫ ⟪॥⟫
 
-D) From which sound combinations could the following Sandhi forms have arisen? Give all possibilities:
+D) From which sound combinations could the following Sandhi forms have arisen? Provide all possibilities:
 
 1. -a before vowel (except a-): -as
 2. -ā- : -a + -a/-ā -ā + a-/ā-
@@ -228,7 +228,7 @@ D) From which sound combinations could the following Sandhi forms have arisen? G
 33. -śc-: -s + c-
 34. -ṣṭ-: -s + t-
 35. -st(h)-: -s + t(h)-
-36. Anusvāra before consonant: -m
+36. Anusvara before consonant: -m
 37. -ṃśc-: -n + c-
 38. -ṃṣṭ-: -n + ṭ-
 39. -mst-: -n + t-
@@ -238,13 +238,13 @@ E) Translate into Sanskrit:
 1. The goddess was angry.
 ⟪देवी⟫ ⟪कुपिता⟫ ⟪।⟫ ⟪देव्या⟫ ⟪कुपितम्⟫
 
-2. Śūdras have reached a heaven.
+2. Śūdras have gone to a heaven.
 ⟪शूद्रैः⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪ऽष्टः⟫ ⟪।⟫
 
 3. The farmers have gone the way.
 ⟪कर्षकैर्मार्गो⟫ ⟪गतः⟫ ⟪।⟫ ⟪कर्षका⟫ ⟪मार्गं⟫ ⟪गताः⟫ ⟪।⟫
 
-4. The people were liberated by the Buddha's teaching.
+4. The people were liberated through the Buddha's teaching.
 ⟪धर्मेण⟫ ⟪जना⟫ ⟪मुक्ताः⟫ ⟪।⟫
 
 5. The son danced.
@@ -253,7 +253,7 @@ E) Translate into Sanskrit:
 6. The amulet protected the teacher.
 ⟪रक्षिकया⟫ ⟪गुरू⟫ ⟪रक्षितः⟫ ⟪।⟫
 
-7. A Brahmin did not tell a falsehood.
+7. A Brāhmaṇa did not speak an untruth.
 ⟪ब्राह्मणेनानृतं⟫ ⟪नोदितम्⟫ ⟪।⟫
 
 8. Śūdra women worshipped the goddess with offerings.
@@ -268,8 +268,8 @@ E) Translate into Sanskrit:
 11. The sacrificial priests have pressed the Soma.
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung018.webp)
 Fig.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
-(Image source: [Details](/en/licenses#uebung018))
+(Image source: [Details](/licenses#uebung018))
 :::

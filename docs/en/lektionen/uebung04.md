@@ -46,14 +46,14 @@ kālidāsaḥ kaḥ? kaviḥ kālidāsaḥ.
 
 ⟪कालिदासः⟫ ⟪कः⟫ ⟪।⟫ ⟪कविः⟫ ⟪कालिदासः⟫ ⟪॥⟫
 
-B) Form questions for the following reading exercise according to the pattern etat kim (⟪एतत्किम्⟫) and answer the questions with the specified words and demonstrative pronouns, e.g. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
+B) Form questions for the following reading exercise according to the pattern etat kim (⟪एतत्किम्⟫) and answer the questions using the specified words and demonstrative pronouns, e.g. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
 
-:::media
+::: media
 ![](/images/lekt0401.webp)
 Fig.: ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫ ⟪एषा⟫ ⟪का⟫ ⟪।⟫ ⟪एषा⟫ ⟪बाला⟫ ⟪।⟫ ⟪इयं⟫ ⟪बाला⟫ ⟪।⟫ ⟪सा⟫ ⟪बाला⟫ ⟪।⟫
-(Image source: [Details](/en/licenses#lekt0401))
+(Image source: [Details](/licenses#lekt0401))
 :::
-eṣa kaḥ? eṣa gajaḥ / ayaṃ gajaḥ / sa gajaḥ.
+Who is this? This is an elephant / This is an elephant / That is an elephant.
 
 ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫
 
@@ -89,8 +89,8 @@ etat kim? eṣā pipīlikā.
 
 ⟪एतत्किम्⟫ ⟪।⟫ ⟪एषा⟫ ⟪पिपीलिका⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung003.webp)
 Fig.: ⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪काकः⟫ ⟪।⟫
-(Image source: [Details](/en/licenses#uebung003))
+(Image source: [Details](/licenses#uebung003))
 :::

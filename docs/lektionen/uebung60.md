@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Übung 60
 
-A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmäßigen Desiderativbildungen zu bisher gelernten Verben
+A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmässigen Desiderativbildungen zu bisher gelernten Verben
 
 B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
 
@@ -48,7 +48,7 @@ B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
      
 18.  ⟪रुरुषिषुः⟫ - ⟪रुरुषिषु⟫ (zu Desid. von ⟪रुष्⟫ 4/10P) Nom.sg.m. einer, der zürnen will
      
-19.  ⟪अपिप्रीणताम्⟫ - ⟪प्री⟫ 9U Kaus. 3.du.Aor(3).P die beiden ließen lieben
+19.  ⟪अपिप्रीणताम्⟫ - ⟪प्री⟫ 9U Kaus. 3.du.Aor(3).P die beiden liessen lieben
      
 20.  ⟪अपिप्रीषतम्⟫ - ⟪प्री⟫ 9U Desid. 2.du.Impf.P ihr beide wünschtet zu lieben
      
@@ -78,7 +78,7 @@ B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
      
 33.  ⟪दित्सामि⟫ - ⟪दा⟫ 3U Desid. 1.sg.Ind.Präs.P ich wünsche zu geben
      
-34.  ⟪अचीकृतम्⟫ - ⟪कॄत्⟫ 10P 1.sg.Aor(3).P ich habe gepriesen ;  ⟪कृत्⟫ 6P Kaus. 1.sg.Aor(3).P ich ließ schneiden
+34.  ⟪अचीकृतम्⟫ - ⟪कॄत्⟫ 10P 1.sg.Aor(3).P ich habe gepriesen ;  ⟪कृत्⟫ 6P Kaus. 1.sg.Aor(3).P ich liess schneiden
      
 35.  ⟪विजिगीषौ⟫ - ⟪विजिगीषु⟫ (zu Desid. von ⟪वि⟫-⟪जि⟫) Lok.sg.m.n. beim Eroberungsbegierigen
      
@@ -88,7 +88,7 @@ B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
      
 38.  ⟪संगणय्य⟫ - ⟪सम्⟫-⟪गण्⟫ 10P Absol. nachdem er zusammengezählt hat
      
-39.  ⟪अतिस्तराव⟫ - ⟪स्तॄ⟫ 5/9U Kaus. 1.du.Aor(3).P wir beide ließen streuen
+39.  ⟪अतिस्तराव⟫ - ⟪स्तॄ⟫ 5/9U Kaus. 1.du.Aor(3).P wir beide liessen streuen
      
 40.  ⟪त्रिलोक्याः⟫ - ⟪त्रिलोकी⟫ f. Ab.Gen.sg. (aus) der Dreiwelt
      
@@ -102,7 +102,7 @@ B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
      
 45.  ⟪ईशाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā 1.3.sg.PeriphPerf.Ā ich / er herrschte
      
-46.  ⟪ईशयाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā Kaus. 1.3.sg.PeriphPerf.Ā ich / er ließ im eigenen Interesse herrschen
+46.  ⟪ईशयाञ्चक्रे⟫ - ⟪ईश्⟫ 2Ā Kaus. 1.3.sg.PeriphPerf.Ā ich / er liess im eigenen Interesse herrschen
      
 47.  ⟪षण्णाम्⟫ - ⟪षष्⟫ Gen. der sechs
      

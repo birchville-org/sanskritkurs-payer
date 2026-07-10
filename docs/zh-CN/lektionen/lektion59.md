@@ -1,792 +1,793 @@
 ---
-title: Lektion 59
-subtitle: "Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)"
+title: 第59课
+subtitle: "双数次要词尾与命令式词尾（⟪द्विवचनम्⟫）"
 lesson_id: 59
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 59
 
-## 59.1. Die Sekundärendungen und Imperativendungen des Dual (⟪द्विवचनम्⟫)
+## 59.1. 双数次要词尾与祈使语气词尾（⟪द्विवचनम्⟫）
 
-:::grammar-box
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | sekundär | Imperativ (⟪लोट्⟫) | sekundär thematisch | sekundär athematisch:brOptativ (⟪विधिलिङ्⟫) | Imperativ (⟪लोट्⟫) | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | -va | -āva | -vahi || -āvahai | <!-- TODO: Fallback translation -->
-| **2. ⟪मध्यमः⟫** | -tam:br-tām || -īthām | -āthām | -īthām / āthām | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | ^^ || -ītām | -ātām | -ītām / -ātām | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | **⟪⟪परस्मैपदम्⟫** || **⟪⟪आत्मनेपदम्⟫** |||
+| :--- | :---: | :---: | :---: | :---: | :---: |
+|   | 次要 | 祈使语气（⟪⟪लोट्⟫） | 次要主题式 | 次要非主题式：br祈愿语气（⟪⟪विधिलिङ्⟫） | 祈使语气（⟪⟪लोट्⟫） |
+| **1. ⟪⟪तृतीयः⟫** | -va | -āva | -vahi || -āvahai |
+| **2. ⟪⟪मध्यमः⟫** | -tam:br-tām || -īthām | -āthām | -īthām / āthām |
+| **3. ⟪⟪प्रथमः⟫** | ^^ || -ītām | -ātām | -ītām / -ātām |
 :::
-## 59.2. Der Dual thematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+## 59.2. 主题式现在时类的双数：祈愿语气（⟪⟪विधिलिङ्⟫），未完成时（⟪⟪लङ्⟫），祈使语气（⟪⟪लोट्⟫）
 
-:::grammar-box
-**Vor -va und -vahi wird der Themavokal -a- durch -ā- ersetzt.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**前缀 -va 和 -vahi 中，主题元音 -a- 被替换为 -ā-。**
 :::
-### 59.2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
+### 59.2.1. 第一现在时类（⟪भ्वादिगणः⟫）
 
-⟪भू⟫ 1P "werden, sein" <!-- TODO: Fallback translation -->
+⟪भू⟫ 1P “成为，存在”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪भवेव⟫ | &lt;⟪भवेवहि⟫&gt; | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪भवेतम्⟫ | &lt;⟪भवेयाथाम्⟫&gt; | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪भवेताम्⟫ | &lt;⟪भवेयाताम्⟫&gt; | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪भवेव⟫ | \<⟪भवेवहि⟫\> |
+| 2\. ⟪मध्यमः⟫ | ⟪भवेतम्⟫ | \<⟪भवेयाथाम्⟫\> |
+| 3\. ⟪प्रथमः⟫ | ⟪भवेताम्⟫ | \<⟪भवेयाताम्⟫\> |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अभवाव⟫ | &lt;⟪अभवावहि⟫&gt; | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अभवतम्⟫ | &lt;⟪अभवेथाम्⟫&gt; | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अभवताम्⟫ | &lt;⟪भभवेताम्⟫&gt; | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अभवाव⟫ | \<⟪अभवावहि⟫\> |
+| 2\. ⟪मध्यमः⟫ | ⟪अभवतम्⟫ | \<⟪अभवेथाम्⟫\> |
+| 3\. ⟪प्रथमः⟫ | ⟪अभवताम्⟫ | \<⟪भभवेताम्⟫\> |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+命令式（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪भवाव⟫ | &lt;⟪भवावहै⟫&gt; | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪भवतम्⟫ | &lt;⟪भवेथाम्⟫&gt; | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪भवताम्⟫ | &lt;⟪भवेताम्⟫&gt; | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪भवाव⟫ | \<⟪भवावहै⟫\> |
+| 2\. ⟪मध्यमः⟫ | ⟪भवतम्⟫ | \<⟪भवेथाम्⟫\> |
+| 3\. ⟪प्रथमः⟫ | ⟪भवताम्⟫ | \<⟪भवेताम्⟫\> |
 :::
-### 59.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
+### 59.2.2. 第四现在时类（⟪दिवादिगणः⟫）
 
-⟪नृत्⟫ 4P "tanzen" <!-- TODO: Fallback translation -->
+⟪नृत्⟫ 4P “跳舞”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪नृत्येव⟫ | &lt;⟪नृत्येवहि⟫&gt; | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪नृत्येतम्⟫ | &lt;⟪नृत्येयाथाम्⟫&gt; | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪नृत्येताम्⟫ | &lt;⟪नृत्येयाताम्⟫&gt; | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪नृत्येव⟫ | \<⟪नृत्येवहि⟫\> |
+| 2\. ⟪मध्यमः⟫ | ⟪नृत्येतम्⟫ | \<⟪नृत्येयाथाम्⟫\> |
+| 3\. ⟪प्रथमः⟫ | ⟪नृत्येताम्⟫ | \<⟪नृत्येयाताम्⟫\> |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अनृत्याव⟫ | &lt;⟪अनृत्यावहि⟫&gt; | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अनृत्यतम्⟫ | &lt;⟪अनृत्येथाम्⟫&gt; | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अनृत्यताम्⟫ | &lt;⟪नृत्येताम्⟫&gt; | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अनृत्याव⟫ | \<⟪अनृत्यावहि⟫\> |
+| 2\. ⟪मध्यमः⟫ | ⟪अनृत्यतम्⟫ | \<⟪अनृत्येथाम्⟫\> |
+| 3\. ⟪प्रथमः⟫ | ⟪अनृत्यताम्⟫ | \<⟪नृत्येताम्⟫\> |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+命令式（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪नृत्याव⟫ | &lt;⟪नृत्यावहै⟫&gt; | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪नृत्यतम्⟫ | &lt;⟪नृत्येथाम्⟫&gt; | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪नृत्यताम्⟫ | &lt;⟪नृत्येताम्⟫&gt; | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪नृत्याव⟫ | \<⟪नृत्यावहै⟫\> |
+| 2\. ⟪मध्यमः⟫ | ⟪नृत्यतम्⟫ | \<⟪नृत्येथाम्⟫\> |
+| 3\. ⟪प्रथमः⟫ | ⟪नृत्यताम्⟫ | \<⟪नृत्येताम्⟫\> |
 :::
-### 59.2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
+### 59.2.3. 第六现在时类（⟪तुदादिगणः⟫）
 
-⟪तुद्⟫ 6U "stoßen, schlagen" <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U “推，打”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪तुदेव⟫ | ⟪तुदेवहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪तुदेतम्⟫ | ⟪तुदेयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪तुदेताम्⟫ | ⟪तुदेयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪तुदेव⟫ | ⟪तुदेवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪तुदेतम्⟫ | ⟪तुदेयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪तुदेताम्⟫ | ⟪तुदेयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अतुदाव⟫ | ⟪अतुदावहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अतुदतम्⟫ | ⟪अतुदेथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अतुदताम्⟫ | ⟪अतुदेताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अतुदाव⟫ | ⟪अतुदावहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अतुदतम्⟫ | ⟪अतुदेथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अतुदताम्⟫ | ⟪अतुदेताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪तुदाव⟫ | ⟪तुदावहै⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪तुदतम्⟫ | ⟪तुदेथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪तुदताम्⟫ | ⟪तुदेताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪तुदाव⟫ | ⟪तुदावहै⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪तुदतम्⟫ | ⟪तुदेथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪तुदताम्⟫ | ⟪तुदेताम्⟫ |
 :::
-### 59.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
+### 59.2.4. 第十类现在时（⟪चुरादिगणः⟫）与使役动词（⟪णिजन्त⟫）
 
-⟪चुर्⟫ 10U "stehlen" <!-- TODO: Fallback translation -->
+⟪चुर्⟫ 10U “盗窃”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪चोरयेव⟫ | ⟪चोरयेवहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪चोरयेतम्⟫ | ⟪चोरयेयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪चोरयेताम्⟫ | ⟪चोरयेयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪चोरयेव⟫ | ⟪चोरयेवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪चोरयेतम्⟫ | ⟪चोरयेयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪चोरयेताम्⟫ | ⟪चोरयेयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अचोरयाव⟫ | ⟪अचोरयावहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अचोरयतम्⟫ | ⟪अचोरयेथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अचोरयताम्⟫ | ⟪अचोरयेताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अचोरयाव⟫ | ⟪अचोरयावहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अचोरयतम्⟫ | ⟪अचोरयेथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अचोरयताम्⟫ | ⟪अचोरयेताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪चोरयाव⟫ | ⟪चोरयावहै⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪चोरयतम्⟫ | ⟪चोरयेथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪चोरयताम्⟫ | ⟪चोरयेताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪चोरयाव⟫ | ⟪चोरयावहै⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪चोरयतम्⟫ | ⟪चोरयेथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪चोरयताम्⟫ | ⟪चोरयेताम्⟫ |
 :::
-### 59.2.5. Der Passiv (Suffix -⟪यक्⟫)
+### 59.2.5. 被动语态（后缀 -⟪यक्⟫）
 
-⟪तुद्⟫ 6U "stoßen, schlagen" <!-- TODO: Fallback translation -->
+⟪तुद्⟫ 6U “推，打”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-| 1\. ⟪तृतीयः⟫ | ⟪तुद्येवहि⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪तुद्येयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪तुद्येयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| 1\. ⟪तृतीयः⟫ | ⟪तुद्येवहि⟫ |
+| --- | --- |
+| 2\. ⟪मध्यमः⟫ | ⟪तुद्येयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪तुद्येयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+未完成时态（⟪लङ्⟫）
 
-:::grammar-box
-| 1\. ⟪तृतीयः⟫ | ⟪अतुद्यावहि⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अतुद्येथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अतुद्येताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| 1\. ⟪तृतीयः⟫ | ⟪अतुद्यावहि⟫ |
+| --- | --- |
+| 2\. ⟪मध्यमः⟫ | ⟪अतुद्येथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अतुद्येताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+命令式（⟪लोट्⟫）
 
-:::grammar-box
-| 1\. ⟪तृतीयः⟫ | ⟪तुद्यावहै⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪तुद्येथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪तुद्येताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| 1\. ⟪तृतीयः⟫ | ⟪तुद्यावहै⟫ |
+| --- | --- |
+| 2\. ⟪मध्यमः⟫ | ⟪तुद्येथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪तुद्येताम्⟫ |
 :::
-## 59.3. Der Dual athematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+## 59.3. 非词根现在时类的双数：愿语气（⟪विधिलिङ्⟫）、未完成时（⟪लङ्⟫）、命令语气（⟪लोट्⟫）
 
 ### 59.3.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
 
-⟪द्विष्⟫ 2U "hassen" <!-- TODO: Fallback translation -->
+⟪द्विष्⟫ 2U “hassen”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪द्विष्याव⟫ | ⟪द्विषीवहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪द्विष्यातम्⟫ | ⟪द्विषीयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪द्विष्याताम्⟫ | ⟪द्विषीयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪द्विष्याव⟫ | ⟪द्विषीवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪द्विष्यातम्⟫ | ⟪द्विषीयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪द्विष्याताम्⟫ | ⟪द्विषीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अद्विष्व⟫ | ⟪अद्विष्वहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अद्विष्टम्⟫ | ⟪अद्विषाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अद्विष्टाम्⟫ | ⟪अद्विषाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अद्विष्व⟫ | ⟪अद्विष्वहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अद्विष्टम्⟫ | ⟪अद्विषाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अद्विष्टाम्⟫ | ⟪अद्विषाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪द्वेषाव⟫ | ⟪द्वेषावहै⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪द्विष्टम्⟫ | ⟪द्विषाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪द्वेषाव⟫ | ⟪द्वेषावहै⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪द्विष्टम्⟫ | ⟪द्विषाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषाताम्⟫ |
 :::
-⟪दुह्⟫ 2U "melken" <!-- TODO: Fallback translation -->
+⟪दुह्⟩ 2U “挤奶”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪दुह्याव⟫ | ⟪दुहीवहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪दुह्यातम्⟫ | ⟪दुहीयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪दुह्याताम्⟫ | ⟪दुहीयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪दुह्याव⟫ | ⟪दुहीवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪दुह्यातम्⟫ | ⟪दुहीयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪दुह्याताम्⟫ | ⟪दुहीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अदुह्व⟫ | ⟪अदुह्वहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अदुग्धम्⟫ | ⟪अदुहाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अदुग्धाम्⟫ | ⟪अदुहाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अदुह्व⟫ | ⟪अदुह्वहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अदुग्धम्⟫ | ⟪अदुहाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अदुग्धाम्⟫ | ⟪अदुहाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪दोहाव⟫ | ⟪दोहावहै⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪दुग्धम्⟫ | ⟪दुहाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪दुग्धाम्⟫ | ⟪दुहाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪दोहाव⟫ | ⟪दोहावहै⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪दुग्धम्⟫ | ⟪दुहाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪दुग्धाम्⟫ | ⟪दुहाताम्⟫ |
 :::
-⟪इ⟫ 2P "gehen" <!-- TODO: Fallback translation -->
+⟪इ⟫ 第二人称单数 “走”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪इयाव⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪इयातम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪इयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪इयाव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪इयातम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪इयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪ऐव⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪ऐतम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪ऐताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪ऐव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪ऐतम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪ऐताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अयाव⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪इतम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪इताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अयाव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪इतम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪इताम्⟫ |
 :::
-⟪इ⟫ + ⟪अधि⟫ 2Ā "studieren" <!-- TODO: Fallback translation -->
+⟪इ⟫ + ⟪अधि⟫ 2Ā “学习”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अधीयीवहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अधीयीयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अधीयीयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪आत्मनेपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अधीयीवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अधीयीयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अधीयीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अध्यैवहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अध्यैयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अध्यैयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪आत्मनेपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अध्यैवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अध्यैयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अध्यैयाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अध्यैयावहै⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अधीयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अधीयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪आत्मनेपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अध्यैयावहै⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अधीयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अधीयाताम्⟫ |
 :::
-⟪हन्⟫ 2P "erschlagen" <!-- TODO: Fallback translation -->
+⟪हन्⟫ 第二人称“击打”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪हन्याव⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪हन्यातम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪हन्याताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪हन्याव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪हन्यातम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪हन्याताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अहन्व⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अहतम्⟫   | <!-- TODO: Fallback translation -->
-| \*a-hn-tam | | | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अहताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अहन्व⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अहतम्⟫   |
+| \*a-hn-tam | | |
+| 3\. ⟪प्रथमः⟫ | ⟪अहताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪हनाव⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪हतम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪हताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪हनाव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪हतम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪हताम्⟫ |
 :::
-⟪अस्⟫ 2P "sein" <!-- TODO: Fallback translation -->
+⟪अस्⟫ 第二人称 “是”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪स्याव⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪स्यातम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪स्याताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪स्याव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪स्यातम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪स्याताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪आस्व⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪आस्तम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪आस्व⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪आस्तम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪आस्ताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪असाव⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪स्तम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪स्ताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪असाव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪स्तम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪स्ताम्⟫ |
 :::
-### 59.3.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
+### 59.3.2. 第三现在时类（⟪जुहोत्यादिगणः⟫）
 
-⟪हु⟫ 3P "ins Opferfeuer gießen" <!-- TODO: Fallback translation -->
+⟪हु⟫ 第三人称复数 “向祭火中倾倒”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪जुहुयाव⟫ | &lt;⟪जुह्वीवहि⟫&gt; | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪जुहुयातम्⟫ | &lt;⟪जुह्वीयाथाम्⟫&gt; | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪जुहुयाताम्⟫ | &lt;⟪जुह्वीयाताम्⟫&gt; | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪जुहुयाव⟫ | \<⟪जुह्वीवहि⟫\> |
+| 2\. ⟪मध्यमः⟫ | ⟪जुहुयातम्⟫ | \<⟪जुह्वीयाथाम्⟫\> |
+| 3\. ⟪प्रथमः⟫ | ⟪जुहुयाताम्⟫ | \<⟪जुह्वीयाताम्⟫\> |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अजुहुव⟫ | &lt;⟪अजुहुवहि⟫&gt; | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अजुहुतम्⟫ | &lt;⟪अजुह्वाथाम्⟫&gt; | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अजुहुताम्⟫ | &lt;⟪अजुह्वाताम्⟫&gt; | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अजुहुव⟫ | \<⟪अजुहुवहि⟫\> |
+| 2\. ⟪मध्यमः⟫ | ⟪अजुहुतम्⟫ | \<⟪अजुह्वाथाम्⟫\> |
+| 3\. ⟪प्रथमः⟫ | ⟪अजुहुताम्⟫ | \<⟪अजुह्वाताम्⟫\> |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+命令式（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪जुहवाव⟫ | &lt;⟪जुहवावहै⟫&gt; | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪जुहुतम्⟫ | &lt;⟪जुह्वाथाम्⟫&gt; | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪जुहुताम्⟫ | &lt;⟪जुह्वाताम्⟫&gt; | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪जुहवाव⟫ | \<⟪जुहवावहै⟫\> |
+| 2\. ⟪मध्यमः⟫ | ⟪जुहुतम्⟫ | \<⟪जुह्वाथाम्⟫\> |
+| 3\. ⟪प्रथमः⟫ | ⟪जुहुताम्⟫ | \<⟪जुह्वाताम्⟫\> |
 :::
-⟪धा⟫ 3U "setzen, legen, stellen" <!-- TODO: Fallback translation -->
+⟪धा⟫ 3U “放置，安放，竖立”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪दध्याव⟫ | ⟪दधीवहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪दध्यातम्⟫ | ⟪दधीयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪दध्याताम्⟫ | ⟪दधीयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪दध्याव⟫ | ⟪दधीवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪दध्यातम्⟫ | ⟪दधीयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪दध्याताम्⟫ | ⟪दधीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अदध्व⟫ | ⟪अदध्वहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अधत्तम्⟫ | ⟪अदधाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अधत्ताम्⟫ | ⟪अदधाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अदध्व⟫ | ⟪अदध्वहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अधत्तम्⟫ | ⟪अदधाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अधत्ताम्⟫ | ⟪अदधाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪दधाव⟫ | ⟪दधावहै⟫   | <!-- TODO: Fallback translation -->
-| da-dhā + āvahai | | | | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪धत्तम्⟫ | ⟪दधाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪धत्ताम्⟫ | ⟪दधाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪दधाव⟫ | ⟪दधावहै⟫   |
+| da-dhā + āvahai | | | |
+| 2\. ⟪मध्यमः⟫ | ⟪धत्तम्⟫ | ⟪दधाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪धत्ताम्⟫ | ⟪दधाताम्⟫ |
 :::
-### 59.3.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
+### 59.3.3. 第五现在时类（⟪स्वादिगणः⟫）
 
-⟪सु⟫ 5U "auspressen" <!-- TODO: Fallback translation -->
+⟪सु⟫ 5U “压榨”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪सुनुयाव⟫ | ⟪सुन्वीवहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪सुनुयातम्⟫ | ⟪सुन्वीयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪सुनुयाताम्⟫ | ⟪सुन्वीयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪सुनुयाव⟫ | ⟪सुन्वीवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪सुनुयातम्⟫ | ⟪सुन्वीयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪सुनुयाताम्⟫ | ⟪सुन्वीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪असुनुव⟫ / ⟪असुन्व⟫ | ⟪असुनुवहि⟫ / ⟪असुन्वहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪असुनुतम्⟫ | ⟪असुन्वाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪असुनुताम्⟫ | ⟪असुन्वाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪असुनुव⟫ / ⟪असुन्व⟫ | ⟪असुनुवहि⟫ / ⟪असुन्वहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪असुनुतम्⟫ | ⟪असुन्वाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪असुनुताम्⟫ | ⟪असुन्वाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪सुनवाव⟫ | ⟪सुनवावहै⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪सुनुतम्⟫ | ⟪सुन्वाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪सुनवाव⟫ | ⟪सुनवावहै⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪सुनुतम्⟫ | ⟪सुन्वाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वाताम्⟫ |
 :::
-### 59.3.4. Achte Präsensklasse (⟪तनादिगणः⟫)
+### 59.3.4. 第八类现在时（⟪तनादिगणः⟫）
 
-⟪तन्⟫ 8U "aufspannen" <!-- TODO: Fallback translation -->
+⟪तन्⟫ 8U “aufspannen”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪तनुयाव⟫ | ⟪तन्वीवहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪तनुयातम्⟫ | ⟪तन्वीयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪तनुयाताम्⟫ | ⟪तन्वीयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪तनुयाव⟫ | ⟪तन्वीवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪तनुयातम्⟫ | ⟪तन्वीयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪तनुयाताम्⟫ | ⟪तन्वीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अतनुव⟫ / ⟪अतन्व⟫ | ⟪अतनुवहि⟫ / ⟪अतन्वहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अतनुतम्⟫ | ⟪अतन्वाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अतनुताम्⟫ | ⟪अतन्वताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अतनुव⟫ / ⟪अतन्व⟫ | ⟪अतनुवहि⟫ / ⟪अतन्वहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अतनुतम्⟫ | ⟪अतन्वाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अतनुताम्⟫ | ⟪अतन्वताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪तनवाव⟫ | ⟪तनवावहै⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪तनुतम्⟫ | ⟪तन्वाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪तनुताम्⟫ | ⟪तन्वाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪तनवाव⟫ | ⟪तनवावहै⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪तनुतम्⟫ | ⟪तन्वाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪तनुताम्⟫ | ⟪तन्वाताम्⟫ |
 :::
-⟪कृ⟫ 8U "tun, machen" <!-- TODO: Fallback translation -->
+⟪कृ⟩ 8U “做，制作”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪कुर्याव⟫ | ⟪कुर्वीवहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪कुर्यातम्⟫ | ⟪कुर्वीयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪कुर्याताम्⟫ | ⟪कुर्वीयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪कुर्याव⟫ | ⟪कुर्वीवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪कुर्यातम्⟫ | ⟪कुर्वीयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪कुर्याताम्⟫ | ⟪कुर्वीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अकुर्व⟫ | ⟪अकुर्वहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अकुरुतम्⟫ | ⟪अकुर्वाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अकुरुताम्⟫ | ⟪अकुर्वाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अकुर्व⟫ | ⟪अकुर्वहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अकुरुतम्⟫ | ⟪अकुर्वाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अकुरुताम्⟫ | ⟪अकुर्वाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪करवाव⟫ | ⟪करवावहै⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪कुरुतम्⟫ | ⟪कुर्वाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪करवाव⟫ | ⟪करवावहै⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪कुरुतम्⟫ | ⟪कुर्वाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वाताम्⟫ |
 :::
-### 59.3.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
+### 59.3.5. 第七类现在时（⟪रुधादिगणः⟫）
 
-⟪रुध्⟫ 7U "stoppen" <!-- TODO: Fallback translation -->
+⟪रुध्⟫ 7U “stoppen”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪रुन्ध्याव⟫ | ⟪रुन्धीवहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪रुन्ध्यातम्⟫ | ⟪रुन्धीयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪रुन्ध्याताम्⟫ | ⟪रुन्धीयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪रुन्ध्याव⟫ | ⟪रुन्धीवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪रुन्ध्यातम्⟫ | ⟪रुन्धीयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪रुन्ध्याताम्⟫ | ⟪रुन्धीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अरुन्ध्व⟫ | ⟪अरुन्ध्वहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अरुन्द्धम्⟫ | ⟪अरुन्धाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अरुन्द्धाम्⟫ | ⟪अरुन्धाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अरुन्ध्व⟫ | ⟪अरुन्ध्वहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अरुन्द्धम्⟫ | ⟪अरुन्धाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अरुन्द्धाम्⟫ | ⟪अरुन्धाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪रुणधाव⟫ | ⟪रुणधावहै⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪रुन्द्धम्⟫ | ⟪रुन्धाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪रुणधाव⟫ | ⟪रुणधावहै⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪रुन्द्धम्⟫ | ⟪रुन्धाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धाताम्⟫ |
 :::
-⟪युज्⟫ 7U "anschirren" <!-- TODO: Fallback translation -->
+⟪युज्⟩ 7U “系紧”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪युञ्ज्याव⟫ | ⟪युञ्जीवहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪युञ्ज्यातम्⟫ | ⟪युञ्जीयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪युञ्ज्याताम्⟫ | ⟪युञ्जीयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪युञ्ज्याव⟫ | ⟪युञ्जीवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪युञ्ज्यातम्⟫ | ⟪युञ्जीयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪युञ्ज्याताम्⟫ | ⟪युञ्जीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अयुञ्ज्व⟫ | ⟪युञ्ज्वहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अयुङ्क्तम्⟫ | ⟪अयुञ्जाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अयुङ्क्ताम्⟫ | ⟪युञ्जाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अयुञ्ज्व⟫ | ⟪युञ्ज्वहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अयुङ्क्तम्⟫ | ⟪अयुञ्जाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अयुङ्क्ताम्⟫ | ⟪युञ्जाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪युनजाव⟫ | ⟪युनजावहै⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪युङ्क्तम्⟫ | ⟪युञ्जाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪युङ्क्ताम्⟫ | ⟪युञ्जाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪युनजाव⟫ | ⟪युनजावहै⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪युङ्क्तम्⟫ | ⟪युञ्जाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪युङ्क्ताम्⟫ | ⟪युञ्जाताम्⟫ |
 :::
-### 59.3.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
+### 59.3.6. 第九现在时类（⟪क्र्यादिगणः⟫）
 
-⟪क्री⟫ 9U "kaufen" <!-- TODO: Fallback translation -->
+⟪क्री⟫ 9U “购买”
 
-Optativ (⟪विधिलिङ्⟫) <!-- TODO: Fallback translation -->
+Optativ (⟪विधिलिङ्⟫)
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪क्रीणीयाव⟫ | ⟪क्रीणीवहि⟫:brkrī + n + ī + vahi | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪क्रीणीयातम्⟫ | ⟪क्रीणीयाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪क्रीणीयाताम्⟫ | ⟪क्रीणीयाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪क्रीणीयाव⟫ | ⟪क्रीणीवहि⟫:brkrī + n + ī + vahi |
+| 2\. ⟪मध्यमः⟫ | ⟪क्रीणीयातम्⟫ | ⟪क्रीणीयाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪क्रीणीयाताम्⟫ | ⟪क्रीणीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫) <!-- TODO: Fallback translation -->
+过去时（⟪लङ्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अक्रीणीव⟫ | ⟪अक्रीणीवहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अक्रीणीतम्⟫ | ⟪अक्रीणाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अक्रीणीताम्⟫ | ⟪अक्रीणाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अक्रीणीव⟫ | ⟪अक्रीणीवहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अक्रीणीतम्⟫ | ⟪अक्रीणाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अक्रीणीताम्⟫ | ⟪अक्रीणाताम्⟫ |
 :::
-Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+祈使语气（⟪लोट्⟫）
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪क्रीणाव⟫ | ⟪क्रीणावहै⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪क्रीणीतम्⟫ | ⟪क्रीणाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪क्रीणीताम्⟫ | ⟪क्रीणाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪क्रीणाव⟫ | ⟪क्रीणावहै⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪क्रीणीतम्⟫ | ⟪क्रीणाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪क्रीणीताम्⟫ | ⟪क्रीणाताम्⟫ |
 :::
-## 59.4. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
+## 59.4. 双数（⟪द्विवचनम्⟫）未完成过去时（⟪लुङ्⟫）
 
 ### 59.4.1. Wurzelaorist
 
-⟪पा⟫ 1P "trinken" <!-- TODO: Fallback translation -->
+⟪पा⟫ 1P “饮用”
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अपाव⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अपातम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अपाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
+| --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अपाव⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अपातम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अपाताम्⟫ |
 :::
-### 59.4.2. a-Aorist
+### 59.4.2. a-词干过去时
 
-⟪सिच्⟫ 6U "beträufeln" <!-- TODO: Fallback translation -->
+⟪सिच्⟫ 6U “浇洒”
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪असिचाव⟫ | ⟪असिचावहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪असिचतम्⟫ | ⟪असिचेथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪असिचताम्⟫ | ⟪असिचेताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪असिचाव⟫ | ⟪असिचावहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪असिचतम्⟫ | ⟪असिचेथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪असिचताम्⟫ | ⟪असिचेताम्⟫ |
 :::
-### 59.4.3. Reduplizierter Aorist
+### 59.4.3. 重叠式过去时
 
-⟪श्रि⟫ 1U "sich begeben zu" <!-- TODO: Fallback translation -->
+⟪श्रि⟫ 1U “前往”
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अशिश्रियाव⟫ | ⟪अशिश्रियावहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अशिश्रियतम्⟫ | ⟪अशिश्रियेथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪शिश्रियताम्⟫ | ⟪अशिश्रियेताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अशिश्रियाव⟫ | ⟪अशिश्रियावहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अशिश्रियतम्⟫ | ⟪अशिश्रियेथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪शिश्रियताम्⟫ | ⟪अशिश्रियेताम्⟫ |
 :::
-### 59.4.4. s-Aorist
+### 59.4.4. s-词干过去时
 
-⟪नी⟫ 1U "führen" <!-- TODO: Fallback translation -->
+⟪नी⟫ 1U “引导”
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अनैष्व⟫ | ⟪अनेष्वहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अनैष्टम्⟫ | ⟪अनेषाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अनैष्टाम्⟫ | ⟪अनेषाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अनैष्व⟫ | ⟪अनेष्वहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अनैष्टम्⟫ | ⟪अनेषाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अनैष्टाम्⟫ | ⟪अनेषाताम्⟫ |
 :::
-⟪तुद्⟫ 6U "stoßen" <!-- TODO: Fallback translation -->
+⟪तुद्⟩ 6U “推”
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अतौत्स्व⟫ | ⟪अतुत्स्वहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अतौत्तम्⟫   | | <!-- TODO: Fallback translation -->
-| a-taut+s+tam | ⟪अतुत्साथाम्⟫ | | | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अतौत्ताम्⟫ | ⟪अतित्साताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अतौत्स्व⟫ | ⟪अतुत्स्वहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अतौत्तम्⟫   | |
+| a-taut+s+tam | ⟪अतुत्साथाम्⟫ | | |
+| 3\. ⟪प्रथमः⟫ | ⟪अतौत्ताम्⟫ | ⟪अतित्साताम्⟫ |
 :::
 ### 59.4.5. iṣ-Aorist
 
-⟪पू⟫ 9U "reinigen" <!-- TODO: Fallback translation -->
+⟪पू⟫ 9U “净化”
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अपाविष⟫ | ⟪अपविष्वहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अपाविष्टम्⟫ | ⟪अपविषाथाम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪पाविष्टाम्⟫ | ⟪अपविषाताम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अपाविष⟫ | ⟪अपविष्वहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अपाविष्टम्⟫ | ⟪अपविषाथाम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪पाविष्टाम्⟫ | ⟪अपविषाताम्⟫ |
 :::
-## 59.5. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (nur P)
+## 59.5. 过去时（⟪लुङ्⟫） 6：siṣ-过去时（仅第三人称）
 
-:::grammar-box
-**Den siṣ-Aorist bilden im P alle Wurzeln auf -ā, -e, -o, -ai, die nicht auf den 1.,2. oder 3. Aorist beschränkt sind, sowie einige weitere Wurzeln, u.a. ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. Im Ā bilden alle diese Wurzeln den s-Aorist.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**在巴利语中，构成 siṣ-过去式的词根包括所有以 -ā、-e、-o、-ai 结尾且不限于第一、第二或第三过去式的词根，以及一些其他词根，例如 ⟪नम्⟫、⟪यम्⟫、⟪रम्⟫。在阿维斯塔语中，所有这些词根均构成 s-过去式。**
 
-**Bildung:** <!-- TODO: Fallback translation -->
+**教育：**
 
-**Augment + hochstufige Wurzel + s + i + ṣ + athematische Sekundärendung (wie iṣ-Aorist)** <!-- TODO: Fallback translation -->
+**Augment + hochstufige Wurzel + s + i + ṣ + athematische Sekundärendung (wie iṣ-Aorist)**
 :::
-Stammbildungssuffix + Endungen des siṣ-Aorist lauten also: <!-- TODO: Fallback translation -->
+Stammbildungssuffix + Endungen des siṣ-Aorist lauten also:
 
-:::grammar-box
-|   | **⟪परस्मैपदम्⟫** ||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | **⟪एकवचनम्⟫** | **⟪द्विवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | **-siṣam** | **-siṣva** | **-siṣma** | <!-- TODO: Fallback translation -->
-| **2. ⟪द्वितीयः⟫** | **-sīs** | **-siṣṭam** | **-siṣṭa** | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | **-sīt** | **-siṣṭām** | **-siṣur** | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | **⟪परस्मैपदम्⟫** |||
+| :--- | :---: | :---: | :---: |
+|   | **⟪एकवचनम्⟫** | **⟪द्विवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **1. ⟪तृतीयः⟫** | **-siṣam** | **-siṣva** | **-siṣma** |
+| **2. ⟪द्वितीयः⟫** | **-sīs** | **-siṣṭam** | **-siṣṭa** |
+| **3. ⟪प्रथमः⟫** | **-sīt** | **-siṣṭām** | **-siṣur** |
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+范式：
 
-⟪या⟫ 2P "gehen" <!-- TODO: Fallback translation -->
+⟪या⟫ 第二人称单数“去”
 
-:::indent
-|   | **⟪परस्मैपदम्⟫** ||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | **⟪एकवचनम्⟫** | **⟪द्विवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | ⟪अयासिषम्⟫ | ⟪अयासिष्व⟫ | ⟪अयासिष्म⟫ | <!-- TODO: Fallback translation -->
-| **2. ⟪द्वितीयः⟫** | ***⟪अयासीस्⟫*** | ⟪अयासिष्टम्⟫ | ⟪अयासिष्ट⟫ | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | ***⟪अयासीत्⟫*** | ⟪अयासिष्टाम्⟫ | ⟪अयासिषुर्⟫ | <!-- TODO: Fallback translation -->
+::: indent
+|   | **⟪परस्मैपदम्⟫** |||
+| :--- | :---: | :---: | :---: |
+|   | **⟪एकवचनम्⟫** | **⟪द्विवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **1. ⟪तृतीयः⟫** | ⟪अयासिषम्⟫ | ⟪अयासिष्व⟫ | ⟪अयासिष्म⟫ |
+| **2. ⟪द्वितीयः⟫** | ***⟪अयासीस्⟫*** | ⟪अयासिष्टम्⟫ | ⟪अयासिष्ट⟫ |
+| **3. ⟪प्रथमः⟫** | ***⟪अयासीत्⟫*** | ⟪अयासिष्टाम्⟫ | ⟪अयासिषुर्⟫ |
 :::
-## 59.6. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematischer s-Aorist)
+## 59.6. 不定过去时（⟪लुङ्⟫）7：sa-不定过去时（主题s-不定过去时）
 
-:::grammar-box
-**Den sa-Aorist bilden die meisten ⟪अनिट्⟫-Wurzeln, die auf -ś, -ṣ oder -h auslauten und an deren vorletzter Stelle i, u oder ṛ steht. Fakultative ⟪अनिट्⟫-Wurzeln dieser Gestalt bilden wahlweise den sa-Aorist oder den iṣ-Aorist.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**大多数以 -ś、-ṣ 或 -h 结尾，且倒数第二个音节为 i、u 或 ṛ 的 ⟪अनिट्⟫ 词根构成 sa-不定过去时。可选的 ⟪अनिट्⟫ 词根可按选择构成 sa-不定过去时或 iṣ-不定过去时。**
 
-**Bildung:** <!-- TODO: Fallback translation -->
+**教育：**
 
-**Augment + tiefstufige Wurzel + s + a + thematische Sekundärendung** <!-- TODO: Fallback translation -->
+**Augment + 词根深层形式 + s + a + 主题性次要词尾**
 
-**Die 1.sg.2.3.du.Ā werden vom s-Aorist, d.h. athematisch gebildet.** <!-- TODO: Fallback translation -->
+**第一人称、第二人称和第三人称的双数Ā由s-词干构成，即非主题形式构成。**
 :::
-Stammbildungssuffix + Endungen des sa-Aorist lauten also: <!-- TODO: Fallback translation -->
+词干构成后缀加上s-词干词尾如下：
 
-:::grammar-box
-|   | **⟪परस्मैपदम्⟫** ||| **⟪आत्मनेपदम्⟫** ||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | **⟪एकवचनम्⟫** | **⟪द्विवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪द्विवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | **-sam** | **-sāva** | **-sāma** | **-si** | **-sāvahī** | **-sāmahi** | <!-- TODO: Fallback translation -->
-| **2. ⟪द्वितीयः⟫** | **-sas** | **-satam** | **-sata** | **-sathās** | **-sāthām** | **-sadhvam** | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | **-sat** | **-satām** | **-san** | **-sata** | **-sātām** | **-santa** | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | **⟪परस्मैपदम्⟫** ||| **⟪आत्मनेपदम्⟫** |||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | **⟪एकवचनम्⟫** | **⟪द्विवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪द्विवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **1. ⟪तृतीयः⟫** | **-sam** | **-sāva** | **-sāma** | **-si** | **-sāvahī** | **-sāmahi** |
+| **2. ⟪द्वितीयः⟫** | **-sas** | **-satam** | **-sata** | **-sathās** | **-sāthām** | **-sadhvam** |
+| **3. ⟪प्रथमः⟫** | **-sat** | **-satām** | **-san** | **-sata** | **-sātām** | **-santa** |
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+变位表：
 
-⟪दिश्⟫ 6U "zeigen" <!-- TODO: Fallback translation -->
+⟪दिश्⟫ 6U “显示”
 
-:::indent
-|   | **⟪परस्मैपदम्⟫** ||| **⟪आत्मनेपदम्⟫** ||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | **⟪एकवचनम्⟫** | **⟪द्विवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪द्विवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | ⟪अदिक्षम्⟫ | ⟪अदिक्षाव⟫ | ⟪अदिक्षाम⟫ | ***⟪अदिक्षि⟫*** | ⟪अदिक्षावहि⟫ | ⟪अदिक्षामहि⟫ | <!-- TODO: Fallback translation -->
-| **2. ⟪द्वितीयः⟫** | ⟪अदिक्षस्⟫ | ⟪अदिक्षतम्⟫ | ⟪अदिक्षत⟫ | ⟪अदिक्षथास्⟫ | ***⟪अदिक्षाथाम्⟫*** | ⟪अदिक्षध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | ⟪अदिक्षत्⟫ | ⟪अदिक्षताम्⟫ | ⟪अदिक्षन्⟫ | ⟪अदिक्षत⟫ | ***⟪अदिक्षाताम्⟫*** | ⟪अदिक्षन्त⟫ | <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Besonderheiten:** <!-- TODO: Fallback translation -->
-
-**Winige wurzeln auf -h (⟪गुह्⟫, ⟪दिह्⟫, ⟪दुह्⟫, ⟪लिह्⟫) können im Ā die 2.3.sg.1.du.2.pl. wahlweise ohne -sa- bilden.** <!-- TODO: Fallback translation -->
+::: indent
+|   | **⟪परस्मैपदम्⟫** ||| **⟪आत्मनेपदम्⟫** |||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | **⟪एकवचनम्⟫** | **⟪द्विवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪द्विवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **1. ⟪तृतीयः⟫** | ⟪अदिक्षम्⟫ | ⟪अदिक्षाव⟫ | ⟪अदिक्षाम⟫ | ***⟪अदिक्षि⟫*** | ⟪अदिक्षावहि⟫ | ⟪अदिक्षामहि⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अदिक्षस्⟫ | ⟪अदिक्षतम्⟫ | ⟪अदिक्षत⟫ | ⟪अदिक्षथास्⟫ | ***⟪अदिक्षाथाम्⟫*** | ⟪अदिक्षध्वम्⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अदिक्षत्⟫ | ⟪अदिक्षताम्⟫ | ⟪अदिक्षन्⟫ | ⟪अदिक्षत⟫ | ***⟪अदिक्षाताम्⟫*** | ⟪अदिक्षन्त⟫ |
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+::: grammar-box
+**特殊之处：**
 
-⟪दिह्⟫ 2U "bestreichen" <!-- TODO: Fallback translation -->
-
-:::indent
-|   | **⟪आत्मनेपदम्⟫** ||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | **⟪एकवचनम्⟫** | **⟪द्विवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **1. ⟪तृतीयः⟫** | ⟪अधिक्षि⟫ | ⟪अधिक्षावहै⟫ / ***⟪अदिह्वहि⟫*** | ⟪अधिक्षामहि⟫ | <!-- TODO: Fallback translation -->
-| **2. ⟪द्वितीयः⟫** | ⟪अधिक्षथास्⟫ / ***⟪अधिग्धास्⟫*** | ⟪अधिक्षथाम्⟫ | ⟪अधिक्षध्वम्⟫ / ***⟪अधिग्ध्वम्⟫*** | <!-- TODO: Fallback translation -->
-| **3. ⟪प्रथमः⟫** | ⟪अधिक्षत⟫ / ***⟪अदिग्ध⟫*** | ⟪अधिक्षताम्⟫ | ⟪अधिक्षन्त⟫ | <!-- TODO: Fallback translation -->
+**Winige wurzeln auf -h (⟪गुह्⟫, ⟪दिह्⟫, ⟪दुह्⟫, ⟪लिह्⟫) können im Ā die 2.3.sg.1.du.2.pl. wahlweise ohne -sa- bilden.**
 :::
-## 59.7. Übung
+Paradigma:
 
-A) Übersetzen Sie den folgenden Text und bestimmen Sie alle darin vorkommenden Verbalformen. <!-- TODO: Fallback translation -->
+⟪दिह्⟫ 2U “涂抹”
 
-_Vorbemerkung:_ <!-- TODO: Fallback translation -->
+::: indent
+|   | **⟪आत्मनेपदम्⟫** |||
+| :--- | :---: | :---: | :---: |
+|   | **⟪एकवचनम्⟫** | **⟪द्विवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **1. ⟪तृतीयः⟫** | ⟪अधिक्षि⟫ | ⟪अधिक्षावहै⟫ / ***⟪अदिह्वहि⟫*** | ⟪अधिक्षामहि⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अधिक्षथास्⟫ / ***⟪अधिग्धास्⟫*** | ⟪अधिक्षथाम्⟫ | ⟪अधिक्षध्वम्⟫ / ***⟪अधिग्ध्वम्⟫*** |
+| **3. ⟪प्रथमः⟫** | ⟪अधिक्षत⟫ / ***⟪अदिग्ध⟫*** | ⟪अधिक्षताम्⟫ | ⟪अधिक्षन्त⟫ |
+:::
+## 59.7. 练习
 
-Der folgende Text stammt aus dem ⟪भट्टिकाव्य⟫ ("Kunstgedicht des \[Dichters\] Bhaṭṭi"). Das ⟪भट्टिकाव्य⟫ erzählt in 22 Gesängen die Geschichte von ⟪राम⟫, belegt aber gleichzeitig die Regeln der Grammatik und Poetik durch Beispiele. <!-- TODO: Fallback translation -->
+A) 翻译以下文本，并确定其中出现的所有动词形式。
 
-Das Gedicht hat vier Abschnitte: <!-- TODO: Fallback translation -->
+_前言：_
 
-1.  Gesang 1-5: vermischte Regeln <!-- TODO: Fallback translation -->
-2.  Gesang 6-9: Hauptregeln von Pāṇinis Grammatik <!-- TODO: Fallback translation -->
-3.  Gesang 10-13: die wichtigsten poetischen Schmuckmittel <!-- TODO: Fallback translation -->
-4.  Gesang 14-22: Gebrauch der Tempora und Modi <!-- TODO: Fallback translation -->
+以下文本出自⟪भट्टिकाव्य⟫（“诗人\[Bhaṭṭi\]的诗作”）。该⟪भट्टिकाव्य⟩以22个歌篇讲述了⟪राम⟩的故事，同时通过实例证明了语法和诗学的规则。
 
-Das ⟪भट्टिकाव्य⟫ ist in der Zeit zwischen 495 und 641 n. Chr. entstanden. <!-- TODO: Fallback translation -->
+这首诗有四个部分：
 
-:::media
+1.  歌篇1-5：混合规则
+2.  歌篇6-9：帕尼尼语法的主要规则
+3.  歌篇10-13：最重要的诗歌修辞手法
+4.  歌篇14-22：时态和语气的用法
+
+भट्टिकाव्य成书于公元495年至641年之间。
+
+::: media
 ![](/images/lekt5902.webp)
-Abb.: ⟪रावणः⟫
-(Bildquelle: [Details](/licenses#lekt5902)) <!-- TODO: Fallback translation -->
+图：⟪रावणः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5902)）
 :::
-Der folgende Abschnitt ist der Beginn des 15. Gesangs, der dem Aorist gewidmet ist. ⟪रावण⟫, der Dämonenkönig, der dem ⟪राम⟫ dessen Frau ⟪सीता⟫ geraubt hat, schickt nach seinem Bruder ⟪कुम्भकर्ण⟫ ("Topfohr"), der als Strafe für seine Übeltaten in einer Art Dauerschlaf liegt. <!-- TODO: Fallback translation -->
+以下段落是第十五歌的开头，该歌专门讲述不定过去时。⟪रावण⟫，恶魔之王，因劫走了⟪राम⟫的妻子⟪सीता⟫，派遣他的兄弟⟪कुम्भकर्ण⟫（“陶耳”）前去，后者因罪孽深重而处于一种持续的沉睡状态中。
 
-:::media
+::: media
 ![](/images/lekt5903.webp)
-Abb.: ⟪कुम्भकर्णः⟫
-Kecak-Tanz, Bali (Indonesien)
-(Bildquelle: [Details](/licenses#lekt5903)) <!-- TODO: Fallback translation -->
+图：⟪कुम्भकर्णः⟫
+ Kecak舞蹈，巴厘岛（印度尼西亚）
+（图片来源：[详情](/zh-CN/licenses#lekt5903)）
 :::
-_Übersetzungshilfe:_ Vers 6: ⟪दिदृक्षते⟫ \= Desiderativ zu ⟪दृश्⟫ <!-- TODO: Fallback translation -->
+_翻译辅助：_ 第6句：⟪दिदृक्षते⟫ \= 欲求态，源自⟪दृश्⟫
 
-:::media
+::: media
 ![](/images/lekt5901.webp)
-(Bildquelle: [Details](/licenses#lekt5901)) <!-- TODO: Fallback translation -->
+(图片来源：[详细信息](/zh-CN/licenses#lekt5901))
 :::
-Text aus: Otto Böhtlingk: Sanskrit-Chrestomathie S. 127f. <!-- TODO: Fallback translation -->
+文本出自：奥托·博特林克：《梵文选读》第127-128页
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt5902:** [Bildquelle: Henryart/Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt5902:** [Bildquelle: Henryart/Wikipedia. Gemeinfrei]
 
-**lekt5903:** Kecak-Tanz, Bali (Indonesien) [Bildquelle: Flying Pharmacist / Wikipedia. [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/3.0/) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5903:** Kecak舞蹈，巴厘岛（印度尼西亚）[图片来源：Flying Pharmacist / 维基百科。[知识共享许可协议](http://creativecommons.org/licenses/by-sa/3.0/)（署名，相同方式共享）]
 
 :::

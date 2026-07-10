@@ -64,7 +64,7 @@ B) Traduzca utilizando compuestos al sánscrito:
 4\. Incluso las mujeres śūdra tienen como dharma la no violencia, la verdad, la pureza, la no queja, la no maldad y la paciencia.
 ⟪अहिंसासत्यशौचानसूयानृशंस्यक्षमाधर्माः⟫ ⟪शूद्रा⟫ ⟪अपि⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung031.webp)
 Fig.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung031))
@@ -237,7 +237,7 @@ Resuelva los siguientes compuestos como Bahuvrīhi y/o Dvandva y/o Tatpuruṣa d
 
 ⟪८१⟫. **⟪सोढदुःखाः⟫** ⟪।⟫ ⟪सोढं⟫ ⟪दुःखं⟫ ⟪यैस्ते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung030.webp)
 Fig.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्ना⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung030))
@@ -253,7 +253,7 @@ La clarificación de la mente se logra mediante el desarrollo de la benevolencia
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
 El yoga de la acción es austeridad, estudio de los Vedas y servicio atento al SEÑOR. Tiene como objetivo el desarrollo de la concentración y la debilitamiento de los "dolor".
 
-:::deleteme-box Explicación
+::: deleteme-box Explicación
 Los cinco "dolor" (⟪क्लेश⟫) son: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — Ignorancia, egoísmo, codicia, aversión y apego al cuerpo.
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
@@ -291,7 +291,7 @@ En el centro delgada, de caderas anchas, con labios rojos, ojos negros, con un o
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫  
 Los pobres, que no desean, tienen muchos hijos, los ricos no tienen un solo hijo. Extraño es el curso de la creación.
 
-:::media
+::: media
 ![](/images/uebung032.webp)
 Fig.: ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणाम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung032))

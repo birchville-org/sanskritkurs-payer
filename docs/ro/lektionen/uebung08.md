@@ -139,7 +139,7 @@ kiṃ kāraṇam?
 
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung007.webp)
 Fig.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung007))
@@ -202,7 +202,7 @@ Papagalul zboară.
 18\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
 Copilul scrie o scrisoare.
 
-:::media
+::: media
 ![](/images/uebung008.webp)
 Fig.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung008))

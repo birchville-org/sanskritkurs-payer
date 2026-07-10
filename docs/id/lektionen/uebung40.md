@@ -28,7 +28,7 @@ A student receives one quarter (of knowledge) from his teacher, one quarter thro
 
 B) Transform the following verbal forms into the corresponding perfect forms (1st person):
 
-:::grammar-box
+::: grammar-box
 | Present / Imperfect | Perfect (1st person) |
 | :--- | :--- |
 | ⟪१⟫. **⟪अश्नीमः⟫** | ⟪आशिम⟫ |
@@ -100,10 +100,11 @@ B) Transform the following verbal forms into the corresponding perfect forms (1s
 | ⟪६७⟫. **⟪अहनम्⟫** | ⟪जघान⟫ / ⟪जघन⟫ |
 | ⟪६८⟫. **⟪पश्यामः⟫** | ⟪ददृशिम⟫ |
 | ⟪६९⟫. **⟪ईक्षे⟫** | ⟪ईक्षां⟫ ⟪चक्रे⟫ |
-::::::media
+:::: media
 ![](/images/uebung065.webp)
 Fig.: ⟪आशिमेति⟫
 (Image source: [Details](/en/licenses#uebung065))
+::::
 :::
 ---
 
@@ -111,7 +112,7 @@ Fig.: ⟪आशिमेति⟫
 
 Determine and translate the following word forms:
 
-:::grammar-box
+::: grammar-box
 | Word Form | Determination | Meaning |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | I gave / he gave for himself |
@@ -148,8 +149,9 @@ Determine and translate the following word forms:
 | ⟪३२⟫. **⟪ऐक्षे⟫** | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | I saw |
 | ⟪३३⟫. **⟪आह⟫** | ⟪अह्⟫ (P) 3. sg. P. Perf. | he said |
 | ⟪३४⟫. **⟪आहन्⟫** | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | he struck |
-::::::media
+:::: media
 ![](/images/uebung066.webp)
 Fig.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
 (Image source: [Details](/en/licenses#uebung066))
+::::
 :::

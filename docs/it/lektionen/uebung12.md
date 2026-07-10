@@ -99,7 +99,7 @@ C) Convert the sentences of [Lesson 10](lektion10.md), Exercise C, into the pass
 16\. Quali guerrieri combattono con i kṣatriya? ⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫
 ⟪कैर्योधैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युद्धम्⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung020.webp)
 Fig.: ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung020))

@@ -1,37 +1,34 @@
 ---
 layout: doc
-title: Aviso legal y citación
+title: Impresión y Citación
 ---
 
-# Aviso legal, Derechos de autor y Normas de citación
+# Impresión, Copyright y Forma de Citación
 
-*El siguiente texto se extrajo durante la conversión de los archivos de lección para mejorar la fluidez de lectura.*
+*El siguiente texto fue extraído durante la conversión desde los archivos de lecciones para mejorar el flujo de lectura.*
 
-## Forma de citación | cite as:
-**Payer, Alois &lt;1944 - &gt;:** Curso de sánscrito. -- Versión de 2010. -- URL: http://www.payer.de/sanskritkurs/
+## Forma de Citación | cite as:
+**Payer, Alois \<1944 - \>:** Curso de Sánscrito. -- Versión de 2010. -- URL: http://www.payer.de/sanskritkurs/
 
 ## Motivo
-Creado para los cursos de 1980 - 1984
+Creado para los cursos docentes 1980 - 1984
 
-## Derechos de autor
-Este texto está disponible para el público en general. 
-Cualquier explotación en publicaciones que vaya más allá de las citas habituales requiere la autorización expresa del autor.
+## Copyright
+Este texto está a disposición del público en general.
+Cualquier aprovechamiento en publicaciones que exceda las citas habituales requiere la autorización expresa del autor.
 
-Este texto forma parte de la sección de sánscrito de **Tüpfli's Global Village Library**.
+Este texto es parte del Departamento de Sánscrito de **Tüpfli's Global Village Library**.
 
 ---
 
 ## Licencia de esta publicación
 
-**Texto original** (lecciones en alemán): © Alois Payer. El texto está a disposición del público; cualquier uso en publicaciones requiere la autorización expresa del autor.
+**Texto original** (lecciones en alemán): © Alois Payer. El texto está a disposición del público en general; cualquier aprovechamiento en publicaciones requiere la autorización expresa del autor.
 
-**Traducciones generadas por IA** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) y **pipeline técnica** (scripts, visor de QA, configuración de VitePress):
+**Traducciones generadas por IA** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) y **pipeline técnico** (scripts, visualizador de QA, configuración de VitePress):
 
 - Traducciones: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Atribución, Compartir igual
-- Código/Pipeline: [MIT License](https://opensource.org/licenses/MIT)
+- Código/Pipeline: [Licencia MIT](https://opensource.org/licenses/MIT)
 
-**Cita para las traducciones:**
-> Payer, Alois: Curso de sánscrito. Traducido con asistencia de IA. Marco Demarmels (ed.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
-
-
-
+**Forma de citación para las traducciones:**
+> Payer, Alois: Curso de Sánscrito. Traducido con apoyo de IA. Marco Demarmels (ed.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0

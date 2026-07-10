@@ -151,7 +151,7 @@ Wir wollen von dir geführt werden.
 ⟪३४⟫. **⟪सुखाय⟫ ⟪भवतात्⟫ ⟪॥⟫ ⟪३४⟫ ⟪॥⟫**
 Es möge zum Glück gereichen! (Segenswunsch)
 
-:::media
+::: media
 ![](/images/uebung075.webp)
 Abb.: ⟪माद्यत⟫
 (Bildquelle: [Details](/licenses#uebung075))

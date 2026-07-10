@@ -90,8 +90,8 @@ To liberate the worlds, the Buddha teaches the noble truths.
 (⟪लोभेन⟫ ⟪सम्पन्ना⟫ ⟪नराः⟫ ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्यास्ताम्⟫)
 Full of greed, the men went to see the beautiful maid dance.
 
-⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert.
+[ L 0 ] ⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
+[ L 1 ] Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert.
 
 ⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
 (⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)
@@ -107,7 +107,7 @@ Because she wanted to hear about the Dharma, the Brāhmaṇī went with her son 
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫  
 Eating, sleeping, fear, and sex are shared by humans and cattle. The distinguishing difference of humans lies in dharma. Without dharma, they are equal to cattle.
 
-:::media
+::: media
 ![](/images/uebung035.webp)
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Image source: [Details](/en/licenses#uebung035))
@@ -168,7 +168,7 @@ B) Decline **⟪क्षत्रिया⟫** (f.) in all cases known to you:
 
 C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicative, 3rd sg. passive, PPP, absolutes, infinitive) for the following verbs:
 
-:::grammar-box
+::: grammar-box
 ⟪१⟫. **⟪सह्⟫** (1Ā, to endure)
 
 | Form | Value |
@@ -212,8 +212,9 @@ C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicat
 | Absolute 1 | ⟪हत्वा⟫ |
 | Absolute 2 | -⟪हत्य⟫ |
 | Infinitive | ⟪हन्तुम्⟫ |
-::::::media
+:::: media
 ![](/images/uebung036.webp)
 Fig.: ⟪बालाः⟫ ⟪पिबन्ति⟫
 (Image source: [Details](/en/licenses#uebung036))
+::::
 :::

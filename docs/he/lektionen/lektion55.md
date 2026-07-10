@@ -1,17 +1,17 @@
 ---
-title: שיעור 55
-subtitle: "האָ-אָוריסט (אָוריסט עם תנועת נושא)"
+title: Lektion 55
+subtitle: "Der a-Aorist (Aorist mit Themavokal)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
-category: "דקדוק"
+category: "Grammatik"
 status: stable
 ---
 
-# שיעור 55
+# Lektion 55
 
-## 55.1. האָ-אָוריסט (אָוריסט עם תנועת נושא)
+## 55.1. Der a-Aorist (Aorist mit Themavokal)
 
-:::grammar-box
+::: grammar-box
 **האָ-אָוריסט נבנה כמו אימפרפקט (⟪लङ्⟫) של כיתה השישית של הפרסנס (⟪तुदादि⟩), כלומר:**
 
 **אוגמנט + שורש במצב נמוך + a + סיומת משנית**
@@ -28,7 +28,7 @@ status: stable
 
 ⟪सिच्⟫ 6U "לרסס"
 
-:::indent
+::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -38,7 +38,7 @@ status: stable
 :::
 בנייות לא סדירות:
 
-:::indent
+::: indent
 ⟪अस्⟫ 4P "לזרוק": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (הסבר ראה ת'ום-האוסצ'ילד §541,4)
 
 ⟪ख्या⟫ + ⟪आ⟫ 2P "לספר": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
@@ -47,10 +47,10 @@ status: stable
 :::
 שים לב:
 
-:::indent
+::: indent
 ⟪शास्⟫ 2P "לצוות": ⟪अशिषत्⟫ (מצב נמוך סדיר!)
 :::
-## 55.2. תרגול
+## 55.2. Übung
 
 קבע ותרגם בכתב את הצורות הבאות וצור את הצורות המתאימות של האָ-אָוריסט:
 
@@ -87,12 +87,14 @@ status: stable
 31.  ⟪अशुष्याम⟫
 32.  ⟪सिष्णेह⟫
 
-:::media
+::: media
 ![](/images/lekt5501.webp)
 איור: ⟪अजीर्यमिति⟫
 'אינאא'ת ח'אן על ערש דווי, שרטוט למיניאטורה של כתב יד עבור ג'אהאנג'יר = جهانگير, סביב 1618
 (מקור התמונה: [פרטים](/he/licenses#lekt5501))
-::::::deleteme-box
+:::
+
+::: deleteme-box
 
 **lekt5501:** 'אינאא'ת ח'אן על ערש דווי, שרטוט למיניאטורה של כתב יד עבור ג'אהאנג'יר = جهانگיר, סביב 1618 [מקור תמונה: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- נגיש ב-2009-01-28. רכוש ציבורי]
 

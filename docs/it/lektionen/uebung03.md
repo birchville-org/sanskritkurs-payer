@@ -165,7 +165,7 @@ dvijāḥ kṣatriyāḥ.
 
 ⟪शूद्राः⟫ ⟪साधवः⟫
 
-:::media
+::: media
 ![](/images/uebung001.webp)
 Fig.: ⟪पशुर्धेनुः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung001))

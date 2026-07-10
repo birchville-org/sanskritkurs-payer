@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Sanskritkurs
   text: Ein vollständiger Lehrgang
-  tagline: von Alois Payer (Tüpfli's Global Village Library)
+  tagline: "von Alois Payer (Tüpfli's Global Village Library)"
   actions:
     - theme: brand
       text: Kurs Starten
@@ -22,14 +22,17 @@ features:
     details: Erbaut auf dem Fundament von VitePress für maximale Geschwindigkeit.
 ---
 
-:::
-tip Version 1.5 — Hebrew Translation & Typography
-**Neu in v1.5 (Juni 2026):**
+::: note-box  Version 1.5 — More Languages & Editor for Authors
+**Neu in v1.5 (Juli 2026):**
 
-- **Neue Sprache (Hebräisch):** Der gesamte Kurs ist nun auch auf Hebräisch verfügbar (inkl. RTL-Support).
+- **Zusätzliche automatisch übersetzte Sprachen (Qualität nicht gesichert; Machbarkeitsstudie ohne Lektoren/Kuratoren)
 - **Sanskrit Typografie:** Systemweite Vereinheitlichung und farbliche Hervorhebung von Devanagari in allen Übersetzungssprachen.
 - **PWA Verbesserungen:** Weitere Stabilisierung der Progressive Web App für die Offline-Nutzung.
+- **Autoren Version mit integriertem Markdown Editor:** Kompletter Editor für Lektoren mit persönlichem Login.
 
-**Bemerkungen und Fehlermeldungen:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Als Autor oder Korrektor mitwirken:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Bemerkungen und Fehlermeldungen willkommen an:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Als Lektor oder Kurator mitwirken:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)**
+
+- Für Autoren (und wer einen leichten Markdown Standalone-Editor nutzen möchte), steht ein open-source editor zur Verfügung auf https://github.com/marcodem/zentauri
+
 :::

@@ -1,15 +1,15 @@
 ---
-title: Lección 11
-subtitle: "El doble acusativo (acusativo de persona y cosa)"
+title: Lektion 11
+subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
-category: "Gramática"
+category: "Grammatik"
 status: stable
 ---
 
 # Lección 11
 
-:::deleteme-box
+::: deleteme-box
 **En esta lección aprenderá:**
 - El doble acusativo (acusativo de persona y cosa)
 - El uso de las partículas **iti**, **evam** y **na**
@@ -18,7 +18,7 @@ status: stable
 :::
 ## 11.1. Acusativo doble
 
-:::grammar-box
+::: grammar-box
 **Algunos verbos pueden regir un doble acusativo (dvitīyā): acusativo de la persona y acusativo de la cosa.**
 
 **Entre ellos se incluyen:**
@@ -37,7 +37,6 @@ p.ej. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब�
 p.ej. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma pregunta por el dharma."
 » Pasiva: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
 :::
----
 
 ## 11.2. Lista de palabras
 
@@ -66,7 +65,7 @@ p.ej. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ 
   - **vāda** m. ⟪वाद⟫ : declaración, afirmación, palabra
   - **vadana** n. ⟪वदन⟫ : el hablar; instrumento de habla: boca, rostro
 
-:::media
+::: media
 ![](/images/lekt1102.webp)
 Fig.: **vadanāni** = ⟪वदनानि⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1102))
@@ -76,8 +75,6 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 
 - **iṣ** 6 P ⟪इष्⟫ : desear
   - **iṣṭi** f. ⟪इष्टि⟫ : deseo (**iṣ** + **-ti**)
-
----
 
 ## 11.3. Ejercicio
 
@@ -102,12 +99,11 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 
 **D) Forme la construcción pasiva para las oraciones formadas según C).**
 
-:::media
+::: media
 ![](/images/lekt1101.webp)
 Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1101))
 :::
----
 
 ## 11.4. Ejercicio de repaso
 
@@ -144,7 +140,7 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 
 **E) Transforme las oraciones C) 1-5 en construcciones activas.**
 
-:::media
+::: media
 ![](/images/lekt1103.webp)
 Fig.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt1103))

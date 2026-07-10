@@ -4,7 +4,7 @@ layout: home
 hero:
   name: Corso di sanscrito
   text: Un corso completo
-  tagline: di Alois Payer (Tüpfli's Global Village Library)
+  tagline: "di Alois Payer (Tüpfli's Global Village Library)"
   actions:
     - theme: brand
       text: Avvia il corso
@@ -22,9 +22,8 @@ features:
     details: Costruito sulle fondamenta di VitePress per la massima velocità.
 ---
 
-:::
-tip Version 1.5 — Hebrew Translation & Typography
-**Novità nella v1.5 (giugno 2026):**
+::: tip Version 1.5 — Hebrew Translation & Typography
+**Novità in v1.5 (giugno 2026):**
 
 - **Nuova lingua (ebraico):** L'intero corso è ora disponibile anche in ebraico (incluso il supporto RTL).
 - **Tipografia sanscrita:** Uniformità a livello di sistema e evidenziazione cromatica del Devanagari in tutte le lingue di traduzione.

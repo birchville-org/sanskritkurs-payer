@@ -10,11 +10,12 @@ status: stable
 
 În sanscrita clasică, din tema perfectului există doar indicativul și participiul.
 
-:::grammar-box
+::: grammar-box
 **Există două tipuri de formare a perfectului:**
 *   **perfectul reduplicat = ⟪द्वित्वलिट्⟫**
 *   **perfectul perifrastic = ⟪अनुप्रयोगलिट्⟫**
-::::::grammar-box
+:::
+::: grammar-box
 **Perfectul perifrastic (⟪अनुप्रयोगलिट्⟫) este utilizat:**
 1. **la conjugările derivate (cauzativ, desiderativ, frecventativ, denominative)**
 2. **la rădăcini care încep cu o vocală lungă (în afară de ā-) sau cu o vocală (în afară de a-) urmată de două consoane**
@@ -24,7 +25,7 @@ status: stable
 
 ### 34.2.1. Gradarea rădăcinii
 
-:::grammar-box
+::: grammar-box
 **Formare:**
 
 **rădăcină puternică:** Singular Parasmaipada
@@ -32,7 +33,8 @@ status: stable
 
 **rădăcină slabă:** toate celelalte forme
 *   **rădăcină reduplicată, în gradul minim, + terminația perfectului**
-::::::grammar-box
+:::
+::: grammar-box
 **În general (și în afara perfectului) nu au gradarea rădăcinii rădăcinile de forma:**
 *   **(Consonant)-Consonant-Vocal lung-Consonant**
 *   **(Consonant)-Consonant-Vocal-Consonant-Consonant**
@@ -43,22 +45,22 @@ status: stable
 :::
 ### 34.2.2. Formele perfectului
 
-::::grammar-box
+::: grammar-box
 
 | | 3. Singular | 3. Plural |
 | :--- | :--- | :--- |
 | **Parasmaipada** | **-a** | **-ur** |
 | **Ātmanepada** | **-e** | **-re** |
 
-::::
+:::
 ### 34.2.3. Voca de legătură -i-
 
-:::grammar-box
+::: grammar-box
 **Înainte de terminația de pers.3.pl.Ā (-re) apare întotdeauna vocaul de legătură -i-, înainte de celelalte terminații care încep cu consoanță, la majoritatea rădăcinilor.**
 :::
 ### 34.2.4. Reduplicarea rădăcinilor care încep cu consoană
 
-:::grammar-box
+::: grammar-box
 **Pentru reduplicarea consoanelor inițiale se aplică regulile date în [Lecția 33](lektion33.md).**
 
 **Vocala de reduplicare la rădăcinile care încep cu consoană este vocala scurtă a rădăcinii.**
@@ -69,7 +71,7 @@ status: stable
 :::
 Exemple:
 
-::::grammar-box
+::: grammar-box
 
 | Rădăcină | 3. sg. Perf. P. |
 | :--- | :--- |
@@ -77,57 +79,60 @@ Exemple:
 | ⟪मुच्⟫ | ***⟪मु⟫***⟪मोच⟫ |
 | ⟪भृ⟫ | ***⟪ब⟫***⟪भार⟫ |
 
-:::::::grammar-box
+:::
+::: grammar-box
 **Unele rădăcini care încep cu y- sau v- se reduplică cu i- sau u-, care în formele slabe se „fuzionează” cu vocala rădăcinii.**
 :::
 Exemple:
 
-::::grammar-box
+::: grammar-box
 
 | Rădăcină | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
-::::
+:::
 ### 34.2.5. Reduplicarea rădăcinilor care încep cu vocală
 
-:::grammar-box
+::: grammar-box
 **1. a-, ā- inițial se reduplică cu a-, rezultând ā-.**
 :::
 Exemple:
 
-::::grammar-box
+::: grammar-box
 
 | Rădăcină | Pers. 3 sg. Perf. P. |
 | :--- | :--- |
 | ⟪अस्⟫ 2 "a fi" și ⟪अस्⟫ 4 "a arunca" | ⟪आस⟫:bra + as-a |
 
-:::::::grammar-box
+:::
+::: grammar-box
 **2. Rădăcinile care încep cu i- au ca silabă de reduplicare în tema puternică iy-, iar în tema slabă i-, care se "fuzionează" cu vocala rădăcină rezultând ī-. Analog se aplică și pentru u- inițial.**
 :::
 Exemple:
 
-::::grammar-box
+::: grammar-box
 
 | Rădăcină | Pers. 3 sg. Perf. P. | Pers. 3 pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
 | ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
-:::::::grammar-box
+:::
+::: grammar-box
 **3. Rădăcinile care încep cu a- urmat de două consoane sau cu ṛ- au ca silabă de reduplicare ān-**
 :::
 Exemple:
 
-::::grammar-box
+::: grammar-box
 
 | Rădăcină | Pers. 3 sg. Perf. P. | Pers. 3 pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
-::::
+:::
 ## 34.3. Tipuri ale perfectului cu reduplicare
 
 Principiul de clasificare: particularități ale alternanței stem-ului:
@@ -137,7 +142,7 @@ Principiul de clasificare: particularități ale alternanței stem-ului:
 
 ## 34.4. Tipul I al Perfectului: Perfect fără reducere a temei
 
-:::grammar-box
+::: grammar-box
 **Tipul I al Perfectului (fără reducere a temei) au rădăcini de tipurile:**
 *   **(Consonant)-Consonant-Vocal lung-Consonant**
 *   **(Consonant)-Consonant-Vocal-Consonant-Consonant**
@@ -146,7 +151,7 @@ Principiul de clasificare: particularități ale alternanței stem-ului:
 :::
 Exemple:
 
-::::grammar-box
+::: grammar-box
 
 | Rădăcină | 3. sg. Perf. | 3. pl. Perf. |
 | :--- | :--- | :--- |
@@ -156,10 +161,10 @@ Exemple:
 | ⟪अस्⟫ 2P "a fi":br⟪अस्⟫ 4 "a arunca" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
 | ⟪अश्⟫ | ⟪आनशे⟫:brreduplicare neregulată! | ⟪आनशिरे⟫ |
 
-::::
+:::
 ## 34.5. Tipul II al Perfectului: Rădăcină puternică la treapta superioară, rădăcină slabă la treapta inferioară
 
-:::grammar-box
+::: grammar-box
 **Se formează din rădăcini de forma:**
 *   **(Consonant)-(Consonant)-i/u/ṛ/ḷ-Consonant**
 
@@ -169,7 +174,7 @@ Exemple:
 :::
 Exemple:
 
-::::grammar-box
+::: grammar-box
 
 | Rădăcină | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -179,14 +184,14 @@ Exemple:
 | ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ |
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
-::::
+:::
 ## 34.6. Listă de cuvinte
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
 **⟪शस्य⟫ = ⟪सस्य⟫ n. sg. și pl.:** semințe, cultură, cereale
 
-:::media
+::: media
 ![](/images/lekt3406.webp)
 Fig.: ⟪सस्यम्⟫
 Câmp de orez în India.
@@ -200,7 +205,7 @@ Câmp de orez în India.
 
 **⟪द्वीप⟫ m.n.:** insulă, continent
 
-:::media
+::: media
 ![](/images/lekt3405.webp)
 Fig.: ⟪लक्षद्वीपाः⟫
 Harta Insulelor Lakshadweep.
@@ -210,20 +215,21 @@ Harta Insulelor Lakshadweep.
 
 **⟪तिल⟫ m.:** susan (Sesamum indicum L.)
 
-:::media
+::: media
 ![](/images/lekt3403.webp)
 Fig.: ⟪तिलाः⟫
 Semințe de susan.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3403))
-::::::media
+:::: media
 ![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Înflorește planta de susan.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3404))
+::::
 :::
 **⟪स्वर्ण⟫ n.:** (frumos colorat =) aur
 
-:::media
+::: media
 ![](/images/lekt3402.webp)
 Fig.: ⟪स्वर्णम्⟫
 Templul de Aur (Harmandir Sahib), Amritsar.
@@ -239,7 +245,7 @@ Templul de Aur (Harmandir Sahib), Amritsar.
 
 **⟪ऋषभ⟫ m.:** taur
 
-:::media
+::: media
 ![](/images/lekt3401.webp)
 Fig.: ⟪ऋषभः⟫
 Statuia Taurului Nandi, Dealurile Chamundi, Mysore.
@@ -306,7 +312,7 @@ Traduceți următorul text din ⟪पद्मपुराण⟫ despre daruri a
 
 Explicații:
 
-:::indent
+::: indent
 **Vocativ singular** al masculinelor / neutrelor în -a se termină în -a: de ex. **⟪देव⟫** "Dumnezeule!"
 
 **⟪चतुर्दश⟫** paisprezece
@@ -316,12 +322,14 @@ Explicații:
 **⟪जन्म⟫** Nom./Ac. sg. al lui **⟪जन्मन्⟫ n.** naștere
 
 **⟪सर्व⟫ 3** "toți, întregi" (declinat conform declinării pronominale)
-::::::media
+:::: media
 ![](/images/lekt3407.webp)
 Fig.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Ritual de nuntă hindus.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3407))
-::::::deleteme-box
+::::
+:::
+::: deleteme-box
 
 **lekt3401:** Statuia taurului Nandi, Dealurile Chamundi, Mysore. [Sursa imaginii: Luna Park / Flickr. CC BY-NC-ND]
 

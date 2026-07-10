@@ -15,7 +15,7 @@ status: stable
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -41,6 +41,7 @@ status: stable
 
 
 
+:::
 ## 39.2. יצירת צורות הפועל של האדם הראשון בשרשי ההווה התמטיים
 
 
@@ -56,7 +57,7 @@ status: stable
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -74,14 +75,14 @@ status: stable
 
 
 
-::::
+:::
 ### 39.2.2. כיתה הווה שישית (⟪तुदादि⟫)
 
 ⟪विश्⟫ 6P
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -99,14 +100,14 @@ status: stable
 
 
 
-::::
+:::
 ### 39.2.3. המחלקה הרביעית של הנרתיק (⟪दिवादि⟫)
 
 ⟪नृत्⟫ 1P
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -124,14 +125,14 @@ status: stable
 
 
 
-::::
+:::
 ### 39.2.4. המחלקה העשירית של הנכוח (⟪चुरादि⟫) וצורות הגורם (⟪णिजन्त⟫)
 
 ⟪चुर्⟫ 10U
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -149,14 +150,14 @@ status: stable
 
 
 
-::::
+:::
 ### 39.2.5. בניין פסיבי (Suffix ⟪यक्⟫)
 
 ⟪ईक्ष्⟫ 1Ā
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -172,7 +173,7 @@ status: stable
 
 
 
-::::
+:::
 ## 39.3. בניית צורות הפועל של הגוף הראשון בעתיד הפשוט  - ⟪ऌत्⟫
 
 
@@ -189,7 +190,7 @@ status: stable
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -203,14 +204,14 @@ status: stable
 
 
 
-::::
+:::
 ### 39.3.2. יצירת ⟪सेट्⟫
 
 ⟪भू⟫ 1P
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -224,7 +225,7 @@ status: stable
 
 
 
-::::
+:::
 ## 39.4. בניית צורות הפועל של הגוף הראשון בשורשי הווה אתמטיים
 
 
@@ -246,7 +247,7 @@ status: stable
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -264,12 +265,12 @@ status: stable
 
 
 
-::::
+:::
 ⟪अस्⟫ 2P
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -287,18 +288,19 @@ status: stable
 
 
 
-:::::::media
+:::: media
 ![lekt3901.jpg](/images/lekt3901.jpg)
 איור: ⟪सो⟫ ⟪ऽस्मि⟫
 (מקור התמונה: [פרטים](/he/licenses#lekt3901))
-::::::
+::::
+:::
 ### 39.4.2. כיתה הווה שלישית (⟪जुहोत्यादि⟫)
 
 ⟪हु⟫ 3P
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -316,12 +318,12 @@ status: stable
 
 
 
-::::
+:::
 ⟪धा⟫ 3U
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -339,7 +341,7 @@ status: stable
 
 
 
-::::
+:::
 ### 39.4.3. המחלקה החמישית של הנוכחי (⟪स्वादि⟫)
 
 
@@ -352,7 +354,7 @@ status: stable
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -370,14 +372,14 @@ status: stable
 
 
 
-::::
+:::
 ### 39.4.4. הכיתה השמינית לנוכח (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -395,12 +397,12 @@ status: stable
 
 
 
-::::
+:::
 ⟪कृ⟫ 8U
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -418,14 +420,14 @@ status: stable
 
 
 
-::::
+:::
 ### 39.4.5. המחלקה השביעית של הנפרז (⟪रुधादि⟫)
 
 ⟪युज्⟫ 7U
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -443,14 +445,14 @@ status: stable
 
 
 
-::::
+:::
 ### 39.4.6. קבוצת ההווה התשיעית (⟪क्र्यादि⟫)
 
 ⟪क्री⟫ 9U
 
 
 
-::::grammar-box
+::: grammar-box
 
 
 
@@ -468,7 +470,7 @@ status: stable
 
 
 
-::::
+:::
 ## 39.5. תרגול
 
 צֵר את צורות הגוף הראשון התואמות לצורות הפועל הבאות מבחינת מספר, זמן, מצב (אינדיקטיב, אופטיב) וקול (פּ, אָ, פָּעוּל).

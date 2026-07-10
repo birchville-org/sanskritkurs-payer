@@ -18,7 +18,7 @@ export const rm = {
       { text: 'Cuntegn', link: '/rm/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Credits', link: '/rm/impressum' },
-      { text: '⚙️', link: '/rm/settings', ariaLabel: 'Avrir parameters' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/rm/settings', ariaLabel: 'Avrir parameters' }
     ],
     docFooter: {
       prev: 'Lecziun precedenta',

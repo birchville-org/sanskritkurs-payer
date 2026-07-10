@@ -11,7 +11,7 @@ status: stable
 
 ## 20.1. Compuse posesive = ⟪बहुव्रीहि⟫ m.
 
-:::media
+::: media
 ![](/images/lekt2004.webp)
 Fig.: ⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
 Jodhpur = ⟪जोधपुर⟫
@@ -19,23 +19,24 @@ Jodhpur = ⟪जोधपुर⟫
 :::
 ⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "cel care posedă mult orez"
 
-::::grammar-box
+::: grammar-box
 
 **Un Bahuvrīhi, spre deosebire de un Tatpuruṣa, denumește ceva diferit de ceea ce este exprimat prin componentele sale: în timp ce ⟪बालपुत्रः⟫, descompus ca Tatpuruṣa, înseamnă "un fiu tânăr", adică ceva exprimat de componenta finală a compusului (⟪पुत्र⟫), ⟪बालपुत्रः⟫, descompus ca Bahuvrīhi, înseamnă "cel al cărui fiu este tânăr", adică denumitul nu este nici fiul (⟪पुत्र⟫) nici neapărat tânăr (⟪बाल⟫), ci o persoană diferită de fiul tânăr, anume tatăl său.**
 
 **Compusele posesive sunt inițial întotul adjectiva, care pot fi însă substantive. De aceea, genul gramatical al unui Bahuvrīhi depinde de ceea la care se referă Bahuvrīhi, și nu de genul ultimei componente a compusului.**
 
-::::::::grammar-box
+:::
+::: grammar-box
 
 **Schema pentru descompunerea unui Bahuvrīhi:**
 
 **1. Prima componentă, de obicei în Nominativ (⟪प्रथमा⟫) Singular, Dual sau Plural -- 2. A doua componentă în Nominativ Singular, Dual sau Plural -- Pronume relativ într-un caz diferit de Nominativ (de obicei Genitiv - ⟪षष्ठी⟫) și în gen și număr al Bahuvrīhi-ului total -- Pronume demonstrativ în număr, caz și gen al Bahuvrīhi-ului total.**
 
-::::
+:::
 Exemple:
 
 
-:::indent
+::: indent
 ⟪गतपापः⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪सः⟫ = "cel al cărui rău a mers" = "cel care este liber de fapte rele"
 
 Ac. sg. ⟪गतपापम्⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तम्⟫
@@ -53,7 +54,8 @@ etc.
 ⟪प्राप्तोदको⟫ ⟪ग्रामः⟫ = ⟪प्राप्तमुदकं⟫ ⟪यं⟫ s ⟪ग्रामः⟫ = "Un sat, la care a ajuns apa" = "un sat amenințat de inundații"
 
 ⟪पुण्यवत्पुत्रः⟫ ca Bahuvrīhi = ⟪पुण्यवान्पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫, sau: ⟪पुण्यवन्तः⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪सः⟫ = "cel al cărui fiu posedă merit" sau: "cel al cărui fii posedă merit"
-:::::::grammar-box
+:::
+::: grammar-box
 
 **Relația dintre prima componentă și a doua componentă poate fi la un Bahuvrīhi:**
 
@@ -64,7 +66,7 @@ etc.
 
 **La fel ca la Tatpuruṣa, componenta mai determinată se află de obicei pe locul al doilea.**
 
-::::
+:::
 Tradițional, se face distincția între:
 
 *   ⟪समानाधिकरणबहुव्रीहिः⟫ : în ⟪विग्रहवाक्य⟫ prima componentă și a doua componentă se află în același caz
@@ -73,16 +75,17 @@ Tradițional, se face distincția între:
 
 ## 20.2. Bahuvrīhi cu un component anterior atributiv
 
-::::grammar-box
+::: grammar-box
 
 **Schema:**
 
-:::indent
+:::
+::: indent
 **Adjectiv -- Substantiv**
 :::
 **Exemplu:**
 
-:::indent
+::: indent
 ⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = "un brahman, al cărui fiu / fii posedă / posedă însușiri bune"
 :::
 **Foarte frecvent este determinarea atributivă — rară în cazul Tatpuruṣa — printr-un PPP. Pronumele relativ se află atunci, în general, în instrumental (⟪तृतीया⟫) (mai rar în genitiv / ⟪षष्ठी⟫).**
@@ -94,51 +97,55 @@ Tradițional, se face distincția între:
 
 **Exemplu:**
 
-:::indent
+::: indent
 ⟪कृतफल⟫ ⟪३⟫ = ⟪कृतं⟫ ⟪फलं⟫ ye⟪न⟫ ⟪सः⟫ ⟪।⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫ ye⟪न⟫ ⟪तत्⟫ = "cel / cea / cel care a născut un rezultat, cineva / ceva eficient"
-:::::::
+:::
 ## 20.3. Bahuvrīhi cu un component anterior apositional
 
-::::grammar-box
+::: grammar-box
 
 **Schema:**
 
-:::indent
+:::
+::: indent
 **Substantiv -- Substantiv**
 :::
 **Exemple:**
 
-:::indent
+::: indent
 ⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = "un bărbat, al cărui fii sunt eroi"
 
 ⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "cel / cea / care, al cărui sfârșit este acesta" = "care se termină cu acesta"
-:::::::::::grammar-box
+:::
+::: grammar-box
 
 **Foarte importante sunt bahuvrīhi-urile cu component final apositional ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ "primul, început", mai rar ⟪प्रभृति⟫ "început". Astfel de compuse corespund cu "etc.":**
 
 **Exemplu:**
 
-:::indent
+:::
+::: indent
 ⟪देवा⟫ ⟪इन्द्रादयः⟫ =  ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪ते⟫ ⟪देवाः⟫ = "Zeii, al căror început este Indra" = "Zeii Indra etc." = "Indra și ceilalți zei"
 :::
 **Pentru exprimarea "doar" se pot folosi bahuvrīhi-uri cu ⟪मात्रा⟫ f. "măsură, limită" ca component final:**
 
 **Exemplu:**
 
-:::indent
+::: indent
 ⟪शब्दमात्रम्⟫ = ⟪शब्दो⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तत्⟫ = "cel al cărui măsură este un cuvânt" = "doar un cuvânt"
 :::
 **⟪मात्र⟫ după un PPP se traduce cu "de îndată ce":**
 
 **Exemplu:**
 
-:::indent
+::: indent
 ⟪जातमात्रं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = ⟪जातं⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = "ei ucid un dușman al cărui măsură este apariția" = "ei ucid dușmanul de îndată ce a apărut"
-::::::::::media
+:::: media
 ![](/images/lekt2005.webp)
 Fig.: ⟪देवा⟫ ⟪यीश्वादयः⟫
 Isus și ceilalți zei, Ahmedabad
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2005))
+::::
 :::
 ## 20.4. Bahuvrīhi cu un prim element cauzal
 
@@ -146,9 +153,10 @@ adică Bahuvrīhi, al cărui prim element reprezintă un caz altul decât nomina
 
 Exemplu:
 
-:::indent
+::: indent
 ⟪देवरूपा⟫ = ⟪देवस्यैव⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ = "o (femeie), a cărei formă este cea a unui zeu" "o femeie cu înfățișare divină"
-:::::::grammar-box
+:::
+::: grammar-box
 
 **Excepție de la regula generală privind ordinea componentelor compoziției:**
 
@@ -156,13 +164,15 @@ Exemplu:
 
 **Exemplu:**
 
-:::indent
+:::
+::: indent
 ⟪दण्डहस्तः⟫ =  ⟪दण्डो⟫ ⟪हस्ते⟫ (Loc. sg.) ⟪यस्य⟫ ⟪सः⟫ = "cel în a cărui mână se află un baston" = "cel care poartă un baston în mână."
-::::::::::media
+:::: media
 ![](/images/lekt2001.webp)
 Fig.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
 Siemreap (ក្រុងសៀមរាប), Cambodgia, sec. al IX-lea d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2001))
+::::
 :::
 ## 20.5. Bahuvrīhi cu element anterior adverbial
 
@@ -170,27 +180,30 @@ Siemreap (ក្រុងសៀមរាប), Cambodgia, sec. al IX-lea d.Hr.
 
 Exemple:
 
-:::indent
+::: indent
 ⟪अपुत्रो⟫ ⟪नरः⟫ = ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪नास्ति⟫ ⟪स⟫ ⟪नरः⟫ = "un om care nu are fiu" = "un om fără fiu"
 
 ⟪दुर्बल⟫ ⟪३⟫ = "cineva / ceva a cărui putere este rea" = "fără putere, slab"
-:::::::grammar-box
+:::
+::: grammar-box
 
 **⟪सह⟫ "cu" ca element anterior al unui Bahuvrīhi este adesea înlocuit cu ⟪स⟫.**
 
 **Exemplu:**
 
-:::indent
+:::
+::: indent
 ⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = "cu un fiu", "însoțit de un fiu"
-::::::::::media
+:::: media
 ![](/images/lekt2006.webp)
 Fig.: ⟪सपुत्रा⟫
 Madhya Pradesh
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2006))
+::::
 :::
 ## 20.6. Flexiunea componentei finale a unui Bahuvrīhi
 
-::::grammar-box
+::: grammar-box
 
 **Componenta finală a unui Bahuvrīhi se declină independent de genul său original ca un adjectiv plurigen. Astfel, dacă într-un compus componenta finală are un gen diferit de cel al său original, aceasta trebuie să fie un Bahuvrīhi, dacă nu este un Samāhāradvanva (Neutru singular).**
 
@@ -200,7 +213,7 @@ Madhya Pradesh
 *   **Stemele în -a (m., n.) își formează Femininul pe -ā sau -ī**
 *   **Stemele în -ī (f.) trebuie să ia la finalul unui Bahuvrīhi sufixul -ka, -kā, -ka (n.); acest sufix îl pot, respectiv trebuie, să ia și multe alte Bahuvrīhi**
 
-::::
+:::
 ## 20.7. O altă clasificare a tipurilor de Bahuvrīhi
 
 Exemplele sunt date aici pentru studiere ulterioară, pentru unele gramatica necesară și vocabularul nu au fost încă discutate
@@ -219,7 +232,7 @@ Exemplele sunt date aici pentru studiere ulterioară, pentru unele gramatica nec
 12.  PPP ca prima parte: ⟪कृतकटः⟫ = ⟪कृतः⟫ ⟪कटो⟫ ⟪येन⟫ ⟪सः⟫
 13.  și altele
 
-:::media
+::: media
 ![](/images/lekt2007.webp)
 Fig.: ⟪कृतकटा⟫
 Chennai = சென்னை
@@ -229,12 +242,13 @@ Chennai = சென்னை
 
 Deși fiecare Bahuvrīhi poate fi descompus într-o propoziție relativă, nu fiecare propoziție relativă poate fi înlocuită cu un Bahuvrīhi. Hermann Georg Jacobi (1850 - 1937), care a examinat mai îndeaproape relația dintre cele două (Compositum und Nebensatz, 1897), scrie:
 
-:::indent
+::: indent
 „Când traduci din germană sau dintr-o altă limbă modernă în sanscrită, nu toate propozițiile secundare pot fi redate prin compuse, ci doar cele ornamentale și descriptive; cele care conțin o determinare conceptual necesară sau importantă apar, de asemenea, în sanscrită ca propoziții relative.”
-::::::media
+:::: media
 ![](/images/lekt2002.jpg)
 Fig.: Hermann Jacobi
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2002))
+::::
 :::
 Acest lucru poate fi adevărat. Cu toate acestea, indienii consideră atunci multe lucruri ca fiind ornamentale și descriptive, ceea ce noi am considera „conceptual necesar sau important”.
 
@@ -244,7 +258,7 @@ Acest lucru poate fi adevărat. Cu toate acestea, indienii consideră atunci mul
 
 ⟪आश्रम⟫ m., n.: ascet, stadiu al vieții, etapă de viață (anume ca ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ și eventual ca ⟪सन्न्यासिन्⟫ ; vezi Basham, Minuni p. 159f.)
 
-:::media
+::: media
 ![](/images/lekt2008.webp)
 Fig.: ⟪आश्रमः⟫
 Rishikesh = ⟪ऋषिकेश⟫. "Aceasta este de fapt o parte din Ashramul din Rishikesh unde au stat Beatles. Această parte specifică nu exista când erau ei acolo, dar arată foarte bine."
@@ -464,35 +478,36 @@ B) Traduceți folosind compuse în sanscrită:
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪३३॥⟫
 
-:::indent
+::: indent
 Explicație: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + sufixul -tas, care are sensul ablativ. Traduceți: "din cauza..." sau similar.
 :::
 ⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪१॥⟫  
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪२॥⟫
 
-:::indent
+::: indent
 Explicație: ⟪तपस्⟫ n. (declinare mai târziu): cărbune încins, căldură, chin; ascetism, asceză
-::::::media
+:::: media
 ![](/images/lekt2010.webp)
 Ilustr.: ⟪तपस्⟫
 Buddha ca ascet înainte de iluminarea sa eliberatoare, Gandhara, sec. 2./3. d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2010))
+::::
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (Pentru sistemul Sāṃkhya, vezi Basham, Minuni p. 324f.)
 
-:::indent
+::: indent
 Explicație: ⟪त्रिविध⟫ ⟪३⟫ : "triplicat"
 :::
 Definirea eliberării conform sistemului Nyāya:
 
-:::indent
+::: indent
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२१॥⟫
 
 ⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२२॥⟫
 :::
 Declarația materialistelor conform ⟪सर्वदर्शनसंग्रह⟫ :
 
-:::indent
+::: indent
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
 ⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
 
@@ -500,22 +515,23 @@ Explicație: ⟪अत्मा⟫ = Nominativ singular masculin la ⟪आत्
 :::
 Un ⟪सुभाषितम्⟫ :
 
-:::indent
+::: indent
 ⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
 ⟪विप्राणां⟫ ⟪करदा⟫ ⟪नृपाः⟫ ⟪।⟫  
 ⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
 ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫
 
 Explicație: -da la finalul unui compus: "dând"
-::::::media
+:::: media
 ![](/images/lekt2009.webp)
 Ilustr.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
 Karnataka
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2009))
+::::
 :::
 Despre relațiile de proprietate:
 
-:::indent
+::: indent
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫
 ⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫
 ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫
@@ -525,29 +541,31 @@ Explicație: ⟪त्रयस्⟫ = Nominativ masculin plural la ⟪त्�
 :::
 Un ⟪सुभाषितम्⟫ despre frumusețea feminină:
 
-:::indent
+::: indent
 ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 ⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫
 ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫
 ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫
 
 Explicație: toate formele, cu excepția ⟪कं⟫ și ⟪स्त्रीणाम्⟫, sunt Nominativ singular neutru și se referă la ⟪वपुस्⟫.
-::::::media
+:::: media
 ![](/images/lekt2003.webp)
 Ilustr.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2003))
+::::
 :::
 Încă un ⟪सुभाषितम्⟫ :
 
-:::indent
+::: indent
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫
 ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
 Explicație: ⟪इच्छताम्⟫ = genitiv plural Participiu Prezent P la ⟪इष्⟫ : al celor care doresc
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt2001:** Siemreap (ក្រុងសៀមរាប), Cambodgia, sec. 9 d.Hr. [Sursa imaginii: Wikipedia, Domeniu public]
 

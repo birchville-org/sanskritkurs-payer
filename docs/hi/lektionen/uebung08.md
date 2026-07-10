@@ -139,7 +139,7 @@ brāhmaṇā agniṃ kurvanti.
 
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung007.webp)
 अभ.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#uebung007))
@@ -187,7 +187,7 @@ brāhmaṇā agniṃ kurvanti.
 13\. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
 कन्या घर में प्रवेश करती है।
 
-14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
+14. ⟪⟪देवो⟫⟫ ⟪⟪नागं⟫⟫ ⟪⟪सृजति⟫⟫ |
 Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
@@ -202,7 +202,7 @@ Vimalā ist traurig.
 18\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
 बालक एक पत्र लिखता है।
 
-:::media
+::: media
 ![](/images/uebung008.webp)
 अभ.: ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (छवि स्रोत: [विवरण](/hi/licenses#uebung008))

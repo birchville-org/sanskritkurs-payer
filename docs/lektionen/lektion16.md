@@ -15,9 +15,7 @@ Zur Bildung von Komposita, deren Vorderglied konsonantisch auslautende Stämme b
 
 Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. keine Nasale und keine Palatale).
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 |   |   |
 | :--- | :--- |
@@ -25,14 +23,12 @@ Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. kei
 | **vor stimmhaften nichtnasalen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
 | **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
-::::::
+:::
 Ausnahme zu obiger Regel:
 
 Auslautender dentaler Verschlusslaut (nicht Nasal):
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 |   |   |
 | :--- | :--- |
@@ -41,7 +37,7 @@ Auslautender dentaler Verschlusslaut (nicht Nasal):
 | **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
 | **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
-::::::
+:::
 Beispiele:
 
 ⟪तद्⟫ + ⟪फल⟫ = ⟪तत्फल⟫
@@ -64,7 +60,7 @@ Beispiele:
 
 ⟪अध्यापन⟫ n.: Unterrichten, Unterricht
 
-:::media
+::: media
 ![](/images/lekt1602.webp)
 Abb.: ⟪अध्यापनम्⟫
 "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
@@ -76,14 +72,14 @@ Abb.: ⟪अध्यापनम्⟫
 
 davon:
 
-:::indent
+::: indent
 ⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit
 :::
 ⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : leben
 
 davon:
 
-:::indent
+::: indent
 ⟪आजीव⟫ m.: Lebensunterhalt
 :::
 ⟪क्षमा⟫ f.: Geduld, Langmut, Nachsicht
@@ -98,7 +94,7 @@ davon:
 
 ⟪योग⟫ m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga
 
-:::media
+::: media
 ![](/images/lekt1601.webp)
 Abb.: ⟪योगी⟫
 Birla Mandir, Delhi
@@ -114,7 +110,7 @@ Birla Mandir, Delhi
 
 ⟪अहिंसा⟫ f.: das Niemandem-etwas-zu-Leide-Tun, Nichtverletzen, Gewaltlosigkeit
 
-:::media
+::: media
 ![](/images/lekt1603.jpg)
 Abb.: ⟪अहिंसा⟫
 "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
@@ -132,7 +128,7 @@ A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie:
 
 ⟪४⟫. ⟪पशुमन्तो⟫ ⟪जनाः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1604.webp)
 Abb.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 ⟪हरियाणा⟫ / ਹਰਿਆਣਾ
@@ -233,7 +229,7 @@ B) Übersetzen Sie und lösen Sie alle Komposita in Sanskrit auf:
 
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-:::indent
+::: indent
 Erklärungen;
 
 Satz 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Akk.: Dvandva, das zwei "Sachen" bezeichnet
@@ -244,7 +240,7 @@ Satz 13: ⟪सर्वेषाम्⟫ Gen. pl. mask. zu ⟪सर्व⟫ 
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt1601:** Birla Mandir, Delhi [Bildquelle: Deepak / Wikipedia ; Creative Commons Lizenz (Namensnennung, share alike)]
 

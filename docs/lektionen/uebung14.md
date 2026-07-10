@@ -32,7 +32,7 @@ A) Bilden Sie den Genetiv Singular und Plural zu folgenden Wörtern. Geben Sie B
 
 ⟪२⟫. ⟪ऋषि⟫ : m. vedischer Weiser — ⟪ऋषेः⟫ ⟪ऋषीणाम्⟫
 
-⟪३⟫. ⟪पाद⟫ : m. Fuß — ⟪पादस्य⟫ ⟪पादानाम्⟫
+⟪३⟫. ⟪पाद⟫ : m. Fuss — ⟪पादस्य⟫ ⟪पादानाम्⟫
 
 ⟪४⟫. ⟪बुद्धि⟫ : f. Erkenntnis — ⟪बुद्धेः⟫ (⟪बुद्ध्याः⟫) ⟪बुद्धीनाम्⟫
 
@@ -175,7 +175,7 @@ Wem gehören diese Häuser?
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 Wessen Speise hat dieser vedische Weise geopfert?
 
-:::media
+::: media
 ![](/images/uebung017.webp)
 Abb.: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (Bildquelle: [Details](/licenses#uebung017))

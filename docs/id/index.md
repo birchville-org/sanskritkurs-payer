@@ -22,8 +22,7 @@ features:
     details: Dibangun di atas fondasi VitePress untuk kecepatan maksimal.
 ---
 
-:::
-tip Version 1.5 — Hebrew Translation & Typography
+::: tip Version 1.5 — Hebrew Translation & Typography
 **Baru di v1.5 (Juni 2026):**
 
 - **Bahasa Baru (Ibrani):** Seluruh kursus kini juga tersedia dalam bahasa Ibrani (termasuk dukungan RTL).

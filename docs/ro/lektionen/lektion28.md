@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-16
 
 ## 28.1. Cauzalul (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
-:::grammar-box
+::: grammar-box
 **Dacă se dorește exprimarea faptului că cineva sau ceva determină sau provoacă pe cineva altcineva sau altceva să facă sau să sufere ceva, ceea ce este exprimat printr-o rădăcină (cu sau fără prefix), se utilizează cauzalul (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
 
 Exemplu:
@@ -20,7 +20,7 @@ Exemplu:
 
 ## 28.2. Construcția propoziției cu causativul (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
-:::grammar-box
+::: grammar-box
 **Schema 1:**
 
 **Dacă rădăcina de bază a causativului (cu sau fără prefix verbal) este INTRANSITIVĂ (adică nu poate avea un complement direct) sau exprimă mișcare, cunoaștere, informație sau mâncare:**
@@ -44,12 +44,13 @@ Rezultat: ⟪रामो⟫ ⟪वेदमधीते⟫ "Rāma studiază Ved
 ⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Rāma îi face pe zei să mănânce hrana nemuririi = le oferă zeilor hrana nemuririi de mâncat" (⟪अश्⟫ 9 "a mânca")
 Rezultat: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Zeii mănâncă hrana nemuririi"
 
-:::media
+::: media
 ![](/images/lekt2802.webp)
 Fig.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
 Templul ISKCON Bangalore.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2801))
-::::::grammar-box
+:::
+::: grammar-box
 **Construită după Schema 1 este, printre altele, și rădăcina ⟪दृश्⟫:**
 
 **Excepții de la Schema 1 vezi la Schema 2**
@@ -66,25 +67,28 @@ Următorul vers rezumă exemple pentru formarea causativului conform Schemei 1 (
 ⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
 ⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
 
-:::indent
+::: indent
 Refugiul și scopul meu este Hari,
 Cel care i-a trimis pe inamici în cer,
 Cel care i-a învățat pe ai săi sensul Vedei,
 Cel care i-a hrănit pe zei cu hrana nemuririi,
 Cel care l-a învățat pe creator Veda,
 Cel care a așezat pământul în apă.
-::::::media
+:::: media
 ![](/images/lekt2801.webp)
 Fig.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
 Clădirea de management a Universității Jadavpur.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2802))
-::::::grammar-box
+::::
+:::
+::: grammar-box
 **Schema 2:**
 
 **La verbele tranzitive (în afară de cele menționate la Schema 1). De asemenea, la toate verbele, atunci când ceea ce este indicat de causativ este cauzat (când causativul este deci un causativ al unui causativ):**
 
 **Agentul (⟪कर्ता⟫) causativului în Nominativ (⟪प्रथमा⟫) — Agentul acțiunii cauzate în Instrumental (⟪तृतीया⟫) — Obiectul acțiunii cauzate în cazul pe care l-ar avea după verbul simplu (adică de obicei în Acuzativ) — Verb la Causativ**
-::::::indent
+:::
+::: indent
 Exemple:
 (⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = "El îl determină pe Rāma să își părăsească soția"
 Rezultat: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma își părăsește soția"
@@ -92,7 +96,8 @@ Rezultat: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति�
 ⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Viṣṇumitra determină pe Rāma ca acesta să-l determine pe Govinda să meargă = Viṣṇumitra îl trimite pe Govinda pe Rāma"
 Rezultat: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Rāma îl trimite pe Govinda"
 Rezultatul acestui rezultat: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda merge"
-::::::grammar-box
+:::
+::: grammar-box
 **Excepții de la Schema 1:**
 
 **Construite conform Schemei 2 sunt, de asemenea, următoarele verbe:**
@@ -115,7 +120,7 @@ Rezultat: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादत�
 (⟪स⟫) ⟪रामेण⟫ ⟪स्मारयति⟫ = "El determină ca Rāma să-și amintească"
 Rezultat: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma își amintește"
 
-:::grammar-box
+::: grammar-box
 **Următoarele cauzative pot construi atât conform Schemei 1, cât și conform Schemei 2:**
 
 - **⟪हृ⟫ "a ține, a aduce"**
@@ -136,7 +141,7 @@ Rezultat: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यत�
 
 Când cauzativul este utilizat într-o construcție pasivă, se aplică aproape întotdeauna următoarea schemă:
 
-:::grammar-box
+::: grammar-box
 **Schema A (construcție pasivă):**
 
 **Agentul cauzativului în instrumental (⟪तृतीया⟫) — Agentul acțiunii determinate în nominativ (⟪प्रथमा⟫) — Obiectul acțiunii determinate în cazul pe care l-ar avea conform verbului simplu (adică, de obicei, în acuzativ) — Verbul la cauzativ**
@@ -156,12 +161,12 @@ Rezultat: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Sluj
 
 ## 28.3. Formarea rădăcinii prezente la cauzativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
-:::grammar-box
+::: grammar-box
 **La rădăcina cauzativă se adaugă terminațiile tematice ale prezentei**
 :::
 Există diferite tipuri de formare:
 
-:::grammar-box
+::: grammar-box
 **Tipul de formare 1: (de obicei) gradul plin al rădăcinii + -aya-**
 :::
 Exemple:
@@ -173,7 +178,7 @@ Exemple:
 | ⟪दृश्⟫ | ⟪दर्शयति⟫ | a face să vadă = a arăta |
 | ⟪वृत्⟫ | ⟪वर्तयति⟫ | a face să se rotească, a întoarce (transitiv), a rula (transitiv), a pune în mișcare |
 
-:::grammar-box
+::: grammar-box
 **Tipul de formare 2: gradul alungit al rădăcinii + -aya-**
 
 **Adesea la rădăcinile care se termină vocalic și la rădăcinile în care după -a urmează un singur consonant final.**
@@ -188,7 +193,7 @@ Exemple:
 | ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | a lăsa să facă |
 | ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | a lăsa să vorbească, a face să vorbească, (a face să rostească un text =) a citi cu voce tare |
 
-:::grammar-box
+::: grammar-box
 **Tipul de formare 3: gradul scurt al rădăcinii + -aya-**
 
 **Apare.**
@@ -199,7 +204,7 @@ Exemplu:
 | :--- | :--- | :--- |
 | ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | a corupe (pe cineva) |
 
-:::grammar-box
+::: grammar-box
 **Tipul de formare 4: rădăcină + -paya-**
 
 **La rădăcinile pe -ā și la unele alte rădăcini.**
@@ -211,7 +216,7 @@ Exemple:
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | a face să stea, a amplasa |
 | ⟪इ⟫ + ⟪अधि⟫:br"a studia" | ⟪अध्यापयति⟫:br(din: adhi+ā-paya-ti):br(pentru explicații vezi Thumb-Hauschildt Vol. I,2 p. 341) | a lăsa să studieze, a instrui |
 
-:::grammar-box
+::: grammar-box
 **Formări neregulate:**
 
 **Gramaticienii indieni consideră următoarele forme ca fiind cauzative:**
@@ -227,7 +232,7 @@ Note:
 
 ## 28.4. Formarea pasivului (⟪यक्⟫) la cauzativ
 
-:::grammar-box
+::: grammar-box
 **Pasivul la cauzativ se formează astfel:**
 
 **Stemul cauzativ FĂRĂ -aya- + sufixul pasiv -ya-**
@@ -242,7 +247,7 @@ Exemple:
 
 ## 28.5. Formarea viitorului (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) la cauzativ
 
-:::grammar-box
+::: grammar-box
 **Viitorul cauzativului se formează de la tema cauzativă, în care vocala finală -a a sufixului cauzativ dispare:**
 
 **-ay-iṣya-**
@@ -254,7 +259,7 @@ Exemplu:
 
 ## 28.6. Formarea PPP (⟪क्त⟫) la Causativ
 
-:::grammar-box
+::: grammar-box
 **Stemul causativ pe -ay- (fără vocală finală) + -i- + -ta**
 
 Exemple:
@@ -265,20 +270,22 @@ Exemple:
 
 ## 28.7. Formarea abstractivei (⟪क्त्वा⟫ . ⟪ल्यप्⟫) la cauzativ
 
-:::grammar-box
+::: grammar-box
 **Abstractivul în -tvā se formează din tema cauzativă în -ay- (fără vocala finală a):**
 
 **Temă cauzativă în -ay- + -i- + -tvā**
 
 Exemplu:
 **sthāpayitvā** (sthā-pay-i-tvā) „după ce a așezat”
-::::::grammar-box
+:::
+::: grammar-box
 **Abstractivul în -ya apare la cauzativele cu prefix, de regulă, pe tema cauzativă FĂRĂ -aya-**
 
 Exemple:
 **prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) „după ce a trezit”
 **ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) „după ce a făcut să vină, după ce a făcut să aducă”
-::::::grammar-box
+:::
+::: grammar-box
 **Dacă, totuși, silaba radicală a cauzativului conține un -a scurt, urmat de un singur consoană, -ya al abstractivei se atașează la tema cauzativă în -ay- (fără vocala finală a)**
 
 Exemplu:
@@ -288,7 +295,7 @@ Exemplu:
 
 ## 28.8. Formarea infinitivului (⟪तुमुन्⟫) la cauzativ
 
-:::grammar-box
+::: grammar-box
 **Infinitivul la cauzativ se formează de la rădăcina cauzativă în -ay- (fără vocala finală a):**
 
 **Rădăcină cauzativă în -ay- + -i- + -tum**
@@ -300,20 +307,21 @@ Exemplu:
 
 ## 28.9. A zecea clasă de prezent (⟪चुरादि⟫ = ⟪चुर्⟫ etc.)
 
-:::grammar-box
+::: grammar-box
 **La fel cum fac verbele cauzative, unele rădăcini ale celei de-a zecea clase de prezent formează prezentul (și celelalte timpuri), fără a fi cauzative.**
 
 Exemple:
 1. Rădăcină cu lungirea vocalei + -aya-: **⟪कम्⟫** 10A **⟪कामयते⟫** "a iubi"
 2. Rădăcină cu gradul maxim + -aya-: **cur** 10U **corayati** "a fura"; viitor: **corayiṣyate**; pasiv: **coryate**
-::::::grammar-box
+:::
+::: grammar-box
 **Formele cauzativului pentru verbele din cea de-a zecea clasă de prezent sunt identice cu formele verbului simplu. Decizia dacă există un cauzativ se poate face doar din sens, sau uneori din construcție.**
 :::
 ---
 
 ## 28.10. Listă de cuvinte
 
-:::indent
+::: indent
 **⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: a ști, a cunoaște
 Fut. **vediṣyati**
 Pass. **vidyate**
@@ -321,43 +329,50 @@ Kaus. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
 derivat: **vidyā** f., **veda** m.
-::::::indent
+:::: indent
 **⟪विद्⟫** 6U **⟪विन्दति⟫** (!): a găsi
 Fut. **vediṣyati** / **vetsyat**
 Pass. **vidyate**: există, este prezent
 Kaus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
-::::::indent
+::::
+:::
+::: indent
 **i + adhi** 2Ā **adhīte**, **adhīyate**: a studia, a învăța pe de rost
 Kaus. **adhyāpayati**: a lăsa să studieze, a predă
 derivat: **adhyayana** n.: studiu (în special al Vedei); **adhyāya** m.: lecție, capitol (secțiune pentru învățarea pe de rost)
-::::::indent
+:::
+::: indent
 **⟪कम्⟫** 10Ā **⟪कामयते⟫**: a iubi
 Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Kaus. **kāmayati**
 PPP **kānta** (!)
 Inf. **kāmayitum** / **kamitum**
-::::::media
+:::
+::: media
 ![](/images/lekt2804.webp)
 Fig.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
 Pictură de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2804))
-::::::indent
+:::
+::: indent
 **⟪चुर्⟫** 10 **⟪चोरयति⟫**: a fura
 Fut. **corayiṣyati**
 Pass. **coryate**
 Kaus. **corayati**
 PPP **corita**
 Inf. **coritum**
-::::::indent
+:::
+::: indent
 **Rețineți în mod special semnificația cauzativelor pentru următoarele verbe:**
 **dṛś** — **darśayati**: a arăta
 **man** — **mānayati**: a prețui, a onora (probabil, dar, este un denominativ derivat din **māna** "onoare")
 **vac** — **vācayati**: de asemenea: a citi cu voce tare (a face ca un text să fie rostit)
 **vad** — **vādayati**: de asemenea: a face ca un instrument muzical să "vorbească" = a cânta la un instrument muzical
-::::::media
+:::
+::: media
 ![](/images/lekt2803.webp)
 Fig.: ⟪वीणां⟫ ⟪वादयति⟫
 Vīṇā-Spielerin.
@@ -365,7 +380,7 @@ Vīṇā-Spielerin.
 :::
 **⟪भार⟫** m.: povară
 
-:::media
+::: media
 ![](/images/lekt2805.webp)
 Fig.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
 Fetiță poartă povara. Lângă Ahmedabad.
@@ -479,7 +494,7 @@ Exemplu: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हार�
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt2801:** Clădirea de management a Universității Jadavpur. [Sursa imaginii: Flickr-ul lui noii, 2008-12-19, CC BY-SA]
 **lekt2802:** Templul ISKCON din Bangalore. [Sursa imaginii: Flickr-ul „Ramki's reflections”, 2008-12-19, CC BY-NC-ND]

@@ -175,7 +175,7 @@ To whom do these houses belong?
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 Whose food has this Vedic sage sacrificed?
 
-:::media
+::: media
 ![](/images/uebung017.webp)
 Fig.: ⟪नायकश्च⟫ ⟪नायिका⟫ ⟪च⟫
 (Image source: [Details](/en/licenses#uebung017))

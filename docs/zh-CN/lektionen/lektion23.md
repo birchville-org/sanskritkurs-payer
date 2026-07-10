@@ -1,328 +1,328 @@
 ---
-title: Lektion 23
-subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
+title: 第23课
+subtitle: "不定式（⟪तुमुन्⟫）"
 lesson_id: 23
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 23
 
 ## 23.1. Der Infinitiv (⟪तुमुन्⟫)
 
-:::grammar-box
-**Will man in Sanskrit ausdrücken, dass eine Tätigkeit um einer anderen Tätigkeit willen geschieht ("um zu"), kann man für die Tätigkeit, um deren willen es geschieht, den Infinitiv (⟪तुमुन्⟫) verwenden. Der Infinitiv bezeichnet in erster Linie den Zweck oder die Absicht:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**如果要表达“为了做某事而做另一件事”（“为了”），可以使用不定式（⟪तुमुन्⟫）来表示目的行为。不定式主要表示目的或意图：**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma ist gegangen, um die Rede des Meisters zu hören." <!-- TODO: Fallback translation -->
+> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = “罗摩已离去，去聆听导师的教诲。”
 
-**Beachten Sie, dass der Infinitiv - mit einigen fest definierten Ausnahmen - nicht als Subjekt oder Objekt eines Verbs stehen kann:** <!-- TODO: Fallback translation -->
+**请注意，不定式——除了一些明确定义的例外情况——不能作为动词的主语或宾语：**
 
-> "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen"). <!-- TODO: Fallback translation -->
+> “Er lernt tanzen”因此不能用不定式（“tanzen”）来翻译，而必须使用动名词，例如：⟪नर्तनमधीते⟫（⟪इ⟫ + ⟪अधि⟫ 2 Ā：“学习”）。
 
-**Der Infinitiv wird auch verwendet mit Verben und Substantiven in der Bedeutung "wünschen" oder "sich sehnen", wenn der Agens (⟪कर्तृ⟫) des Infinitivs und des Verbs identisch sind:** <!-- TODO: Fallback translation -->
+**不定式也用于表示“想要”或“渴望”含义的动词和名词，当不定式的施事者（⟪कर्तृ⟫）与动词的施事者相同时：**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma wünscht, die Rede des Meisters zu hören." <!-- TODO: Fallback translation -->
+> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = “罗摩希望聆听导师的教诲。”
 
-**Der Infinitiv wird u.a. auch verwendet bei Verben in den Bedeutungen "fähig sein", "es gibt", "wissen", "beginnen":** <!-- TODO: Fallback translation -->
+**不定式还用于表示“有能力”、“存在”、“知道”、“开始”等意义的动词中：**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Ein Heiliger kann kein Unrecht tun."   <!-- TODO: Fallback translation -->
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Es gibt Speise zu essen" (⟪भुज्⟫ 7: Ā: esssen, P: regieren) <!-- TODO: Fallback translation -->
+> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = “圣人不会作恶。”  
+> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = “有食物可食”（⟪भुज्⟫ 7: Ā: 吃，P: 统治）
 
-**Der Infinitiv wird auch verwendet mit Wörtern in den Bedeutungen "ausreichend", "fähig" und mit Substantiven in den Bedeutungen "Fähigkeit", "Kraft", "Geschicklichkeit":** <!-- TODO: Fallback translation -->
+**不定式也用于表示“足够”、“有能力”的词，以及表示“能力”、“力量”、“技巧”的名词：**
 
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Feuer hat die Macht, alles zu verbrennen." <!-- TODO: Fallback translation -->
+> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = “火具有燃烧一切的力量。”
 
-**Auch mit Wörtern in der Bedeutung "Zeit" kann der Infinitiv verwendet werden in Ausdrücken wie "Es ist Zeit zu ...":** <!-- TODO: Fallback translation -->
+**Auch mit Wörtern in der Bedeutung "Zeit" kann der Infinitiv verwendet werden in Ausdrücken wie "Es ist Zeit zu ...":**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "Es ist Zeit, sich dem Essen zu widmen" = "Es ist Zeit zu essen" <!-- TODO: Fallback translation -->
+> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = “现在是时候专注于进食了” = “现在是时候吃饭了”
 
-**Der Infinitiv kann aktivisch und passivisch verwendet werden. Ein passiver Infinitiv im Deutschen wird im Sanskrit dadurch wiedergegeben, dass das Verb (besonders häufig ⟪शक्⟫ "fähig sein, können"), von dem der Infinitiv abhängt, ins Passiv gesetzt wird.** <!-- TODO: Fallback translation -->
+**不定式可以以主动或被动方式使用。德语中的被动不定式在梵语中通过将从属的不定式（尤其是⟪शक्⟩“能够”）变为被动语态来表达。**
 
-**Bezüglich des Objekts verhält sich der Infinitiv wie eine Verbalform, d.h. das direkte Objekt (⟪कर्मन्⟫) steht bei aktivisch gebrauchtem Infinitiv im Akkusativ (⟪द्वितीया⟫), bzw. dem Kasus, den das betr. Verb verlangt ; bei passivisch gebrauchtem Infinitiv steht das direkte Objekt im Nominativ.** <!-- TODO: Fallback translation -->
+**关于宾语，不定式 behaves like a verbal form, i.e., the direct object (⟪कर्मन्⟫) stands in the accusative case (⟪द्वितीया⟫) when the infinitive is used actively, or in the case required by the relevant verb; when the infinitive is used passively, the direct object stands in the nominative.**
 
-z.B. <!-- TODO: Fallback translation -->
+例如
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Ein Heiliger kann kein Unrecht tun." <!-- TODO: Fallback translation -->
+> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = “圣人不会作恶。”
 
-**In der 2. Person wird ⟪अर्ह्⟫ + Infinitiv oft als milder Befehl verwendet: "Du solltest".** <!-- TODO: Fallback translation -->
+**在第二人称中，⟪अर्ह्⟫ + 不定式常用作委婉的命令：“你应该”。**
 
-**Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem Kompositum verbunden werden. Ausgenommen sind Bahuvrīhi, deren zweites Glied ⟪काम⟫ oder ⟪मनस्⟫ ist:** <!-- TODO: Fallback translation -->
+**如果不定式受名词支配，则不得将其与该名词复合为复合词。Bahuvrīhi（有财复合）除外，其第二个成分为⟪काम⟫或⟪मनस्⟫：**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer dessen Wunsch es ist, zu sprechen; einer, der zu sprechen wünscht". <!-- TODO: Fallback translation -->
+> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = “一个其愿望是说话的人；一个希望说话的人”。
 :::
-## 23.2. Bildung des Infinitiv (⟪तुमुन्⟫)
+## 23.2. 不定式的构成（⟪तुमुन्⟫）
 
-:::grammar-box
-**hochstufige Wurzel + -tum** <!-- TODO: Fallback translation -->
+::: grammar-box
+**高阶词根 + -tum**
 
-**oder** <!-- TODO: Fallback translation -->
+**或者**
 
-**hochstufige Wurzel + -i- + -tum** <!-- TODO: Fallback translation -->
+**高阶词根 + -i- + -tum**
 
-**Auslautende Konsonanten der Wurzel werden vor -tum nach denselben Regeln verändert wie vor dem -ta des PPP.** <!-- TODO: Fallback translation -->
+**词根末尾的辅音在 -tum 前，其变化规则与在派生过去分词（PPP）的 -ta 前相同。**
 
-**Verben mit Präverb bilden den Infinitiv in gleicher Weise wie die einfachen Wurzeln.** <!-- TODO: Fallback translation -->
+**带有前缀的动词以与简单词根相同的方式构成不定式。**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+例如：
 
-:::indent
-⟪दिश्⟫ : ⟪देष्टुम्⟫  
-⟪रुद्⟫ : ⟪रोदितुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+⟪दिश्⟫：⟪देष्टुम्⟫
+⟪रुद्⟫：⟪रोदितुम्⟫
 :::
-Über die Verwendung des Bindevokals -i- lassen sich keine festen Regeln aufstellen. Im Wesentlichen stimmt die Verteilung des Bindevokals beim Infinitiv mit der des Futurs überein. <!-- TODO: Fallback translation -->
+关于连接元音 -i- 的使用，无法制定固定的规则。基本上，不定式（Infinitiv）中连接元音的分布与将来时（Futur）一致。
 
-Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten: <!-- TODO: Fallback translation -->
+到目前为止所学到的词根中，以下不定式需要特别注意：
 
-:::indent
-⟪गम्⟫ : ⟪गन्तुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+⟪गम्⟫：⟪गन्तुम्⟫
 
-⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫ <!-- TODO: Fallback translation -->
+⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv:
 
-:::indent
-⟪दृश्⟫ : ⟪द्रष्टुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+⟪दृश्⟫：⟪द्रष्टुम्⟫
 
-⟪सृज्⟫ : ⟪स्रष्टुम्⟫ <!-- TODO: Fallback translation -->
+⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
-## 23.3. Der Infinitiv (⟪तुमुन्⟫) zu den bisher gelernten Wurzeln
+## 23.3. 不定式（⟪तुमुन्⟫）与迄今所学词根
 
-⟪अद्⟫ 2P ⟪अत्तुम्⟫  
-⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
-⟪अस्⟫ 2P —  
-⟪अस्⟫ 4P ⟪असितुम्⟫  
-⟪आप्⟫ 5P ⟪आप्तुम्⟫  
-⟪आस्⟫ 2Ā ⟪आसितुम्⟫  
-⟪इ⟫ 2P ⟪एतुम्⟫  
-⟪इष्⟫ 6P ⟪एष्टुम्⟫ ⟪।⟫ ⟪एषितुम्⟫  
-⟪कुप्⟫ 4P ⟪कोपितुम्⟫  
-⟪कृ⟫ 8U ⟪कर्तुम्⟫  
-⟪कृष्⟫ 1P ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
-⟪कृष्⟫ 6U ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
-⟪क्रुध्⟫ 4P ⟪कोद्धुम्⟫  
-⟪खाद्⟫ 1P ⟪खादितुम्⟫  
-⟪गम्⟫ 1P ⟪गन्तुम्⟫  
-⟪जन्⟫ 4Ā ⟪जनितुम्⟫  
-⟪जि⟫ 1P ⟪जेतुम्⟫  
-⟪जीव्⟫ 1P ⟪जीवितुम्⟫  
-⟪तन्⟫ 8U ⟪तनितुम्⟫  
-⟪दह्⟫ 1P ⟪दग्धुम्⟫  
-⟪दिश्⟫ 6U ⟪देष्टुम्⟫  
-⟪दुष्⟫ 4P —  
-⟪दुह्⟫ 2U ⟪दोग्धुम्⟫  
+⟪अद्⟫ 第二人称 ⟪अत्तुम्⟫  
+⟪अश्⟫ 第五长音节 ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
+⟪अस्⟫ 第二人称 —  
+⟪अस्⟫ 第四人称 ⟪असितुम्⟫  
+⟪आप्⟫ 第五人称 ⟪आप्तुम्⟫  
+⟪आस्⟫ 第二长音节 ⟪आसितुम्⟫  
+⟪इ⟫ 第二人称 ⟪एतुम्⟫  
+⟪इष्⟫ 第六人称 ⟪एष्टुम्⟫ ⟪।⟫ ⟪एषितुम्⟫  
+⟪कुप्⟫ 第四人称 ⟪कोपितुम्⟫  
+⟪कृ⟫ 第八短音节 ⟪कर्तुम्⟫  
+⟪कृष्⟫ 第一人称 ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
+⟪कृष्⟫ 第六短音节 ⟪कर्ष्टुम्⟫ ⟪।⟫ ⟪क्राष्टुम्⟫  
+⟪क्रुध्⟫ 第四人称 ⟪कोद्धुम्⟫  
+⟪खाद्⟫ 第一人称 ⟪खादितुम्⟫  
+⟪गम्⟫ 第一人称 ⟪गन्तुम्⟫  
+⟪जन्⟫ 第四长音节 ⟪जनितुम्⟫  
+⟪जि⟫ 第一人称 ⟪जेतुम्⟫  
+⟪जीव्⟫ 第一人称 ⟪जीवितुम्⟫  
+⟪तन्⟫ 第八短音节 ⟪तनितुम्⟫  
+⟪दह्⟫ 第一人称 ⟪दग्धुम्⟫  
+⟪दिश्⟫ 第六短音节 ⟪देष्टुम्⟫  
+⟪दुष्⟫ 第四人称 —  
+⟪दुह्⟫ 第二短音节 ⟪दोग्धुम्⟫  
 ⟪दृश्⟫ ⟪द्रष्टुम्⟫  
-⟪द्विष्⟫ 2U ⟪द्वेष्टुम्⟫  
-⟪नी⟫ 1U ⟪नेतुम्⟫  
-⟪नृत्⟫ 4P ⟪नर्तितुम्⟫  
-⟪पच्⟫ 1U ⟪पक्तुम्⟫  
-⟪पद्⟫ 4Ā ⟪पत्तुम्⟫  
-⟪पा⟫ 1P ⟪पातुम्⟫  
-⟪पा⟫ 2P ⟪पातुम्⟫  
-⟪प्रच्छ्⟫ 6P ⟪प्रष्टुम्⟫  
-⟪बुध्⟫ 1U, 4Ā ⟪बोधितुम्⟫ ⟪।⟫ ⟪बोद्धुम्⟫  
-⟪ब्रू⟫ 2U —  
-⟪भज्⟫ 1U ⟪भक्तुम्⟫  
-⟪भू⟫ 1P ⟪भवितुम्⟫  
-⟪मन्⟫ 4Ā ⟪मन्तुम्⟫  
-⟪मुच्⟫ 6U ⟪मोक्तुम्⟫  
-⟪मुह्⟫ 4P ⟪मोहितुम्⟫ ⟪।⟫ ⟪मोग्धुम्⟫ ⟪।⟫ ⟪मोढुम्⟫  
-⟪मृ⟫ 4Ā ⟪मर्तुम्⟫  
-⟪यज्⟫ 1U ⟪यष्टुम्⟫  
-⟪युध्⟫ 4Ā ⟪योद्धुम्⟫  
-⟪रक्ष्⟫ 1P ⟪रक्षितुम्⟫  
-⟪रुद्⟫ 2P ⟪रोदितुम्⟫  
-⟪लभ्⟫ 1Ā ⟪लब्धुम्⟫  
-⟪लुभ्⟫ 4P ⟪लोभितुम्⟫  
-⟪वच्⟫ 2P ⟪वक्तुम्⟫  
-⟪वद्⟫ 1P ⟪वदितुम्⟫  
-⟪विश्⟫ 6P ⟪वेष्टुम्⟫  
-⟪वृत्⟫ 1Ā ⟪वर्तितुम्⟫  
-⟪श्रु⟫ 5P ⟪श्रोतुम्⟫  
-⟪सद्⟫ 1P ⟪सत्तुम्⟫  
-⟪सह्⟫ 1Ā ⟪सहितुम्⟫ ⟪।⟫ ⟪सोढुम्⟫  
-⟪सिच्⟫ 6U ⟪सेक्तुम्⟫  
-⟪सु⟫ 5U ⟪सोतुम्⟫  
-⟪सृज्⟫ 6P ⟪स्रष्टुम्⟫  
-⟪स्तु⟫ 2U ⟪स्तोतुम्⟫  
-⟪स्था⟫ 1P ⟪स्थातुम्⟫  
-⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
-⟪हन्⟫ 2P ⟪हन्तुम्⟫   <!-- TODO: Fallback translation -->
+⟪द्विष्⟫ 第二短音节 ⟪द्वेष्टुम्⟫  
+⟪नी⟫ 第一短音节 ⟪नेतुम्⟫  
+⟪नृत्⟫ 第四人称 ⟪नर्तितुम्⟫  
+⟪पच्⟫ 第一短音节 ⟪पक्तुम्⟫  
+⟪पद्⟫ 第四长音节 ⟪पत्तुम्⟫  
+⟪पा⟫ 第一人称 ⟪पातुम्⟫  
+⟪पा⟫ 第二人称 ⟪पातुम्⟫  
+⟪प्रच्छ्⟫ 第六人称 ⟪प्रष्टुम्⟫  
+⟪बुध्⟫ 第一短音节，第四长音节 ⟪बोधितुम्⟫ ⟪।⟫ ⟪बोद्धुम्⟫  
+⟪ब्रू⟫ 第二短音节 —  
+⟪भज्⟫ 第一短音节 ⟪भक्तुम्⟫  
+⟪भू⟫ 第一人称 ⟪भवितुम्⟫  
+⟪मन्⟫ 第四长音节 ⟪मन्तुम्⟫  
+⟪मुच्⟫ 第六短音节 ⟪मोक्तुम्⟫  
+⟪मुह्⟫ 第四人称 ⟪मोहितुम्⟫ ⟪।⟫ ⟪मोग्धुम्⟫ ⟪।⟫ ⟪मोढुम्⟫  
+⟪मृ⟫ 第四长音节 ⟪मर्तुम्⟫  
+⟪यज्⟫ 第一短音节 ⟪यष्टुम्⟫  
+⟪युध्⟫ 第四长音节 ⟪योद्धुम्⟫  
+⟪रक्ष्⟫ 第一人称 ⟪रक्षितुम्⟫  
+⟪रुद्⟫ 第二人称 ⟪रोदितुम्⟫  
+⟪लभ्⟫ 第一长音节 ⟪लब्धुम्⟫  
+⟪लुभ्⟫ 第四人称 ⟪लोभितुम्⟫  
+⟪वच्⟫ 第二人称 ⟪वक्तुम्⟫  
+⟪वद्⟫ 第一人称 ⟪वदितुम्⟫  
+⟪विश्⟫ 第六人称 ⟪वेष्टुम्⟫  
+⟪वृत्⟫ 第一长音节 ⟪वर्तितुम्⟫  
+⟪श्रु⟫ 第五人称 ⟪श्रोतुम्⟫  
+⟪सद्⟫ 第一人称 ⟪सत्तुम्⟫  
+⟪सह्⟫ 第一长音节 ⟪सहितुम्⟫ ⟪।⟫ ⟪सोढुम्⟫  
+⟪सिच्⟫ 第六短音节 ⟪सेक्तुम्⟫  
+⟪सु⟫ 第五短音节 ⟪सोतुम्⟫  
+⟪सृज्⟫ 第六人称 ⟪स्रष्टुम्⟫  
+⟪स्तु⟫ 第二短音节 ⟪स्तोतुम्⟫  
+⟪स्था⟫ 第一人称 ⟪स्थातुम्⟫  
+⟪स्मृ⟫ 第一人称 ⟪स्मर्तुम्⟫  
+⟪हन्⟫ 第二人称 ⟪हन्तुम्⟫
 
 ## 23.4. Wortliste
 
-⟪समान⟫ ⟪३⟫: gleich <!-- TODO: Fallback translation -->
+⟪समान⟫ ⟪३⟫: gleich
 
-⟪सामान्य⟫ n.: Gleichheit, Übereinstimmung <!-- TODO: Fallback translation -->
+⟪सामान्य⟫ n.: 平等，一致
 
-⟪अधिक⟫ ⟪३⟫ : überschüssig, zusätzlich, größer, besser, außerordentlich <!-- TODO: Fallback translation -->
+⟪अधिक⟫ ⟪३⟫ : 多余的，额外的，更大的，更好的，非凡的
 
-⟪विशेष⟫ m.: Besonderheit, Spezifikation, differentia specifica <!-- TODO: Fallback translation -->
+⟪विशेष⟫ m.: 特性，规范，不同种差
 
 ## 23.5. Übung
 
-A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Infinitiv unter Beachtung der Lautveränderungen zu: <!-- TODO: Fallback translation -->
+A) 以下词根构成不带连接元音 -i- 的动词不定式。请根据语音变化规则，构成下列动词的不定式：
 
-1.  ⟪आप्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪इ⟫ <!-- TODO: Fallback translation -->
-3.  ⟪गम्⟫ <!-- TODO: Fallback translation -->
-4.  ⟪कृ⟫ <!-- TODO: Fallback translation -->
-5.  ⟪क्रुध्⟫ <!-- TODO: Fallback translation -->
-6.  ⟪जि⟫ <!-- TODO: Fallback translation -->
-7.  duh (⟪दुह्⟫) <!-- TODO: Fallback translation -->
-8.  ⟪दिश्⟫ <!-- TODO: Fallback translation -->
-9.  ⟪दह्⟫ <!-- TODO: Fallback translation -->
-10.  ⟪सृज्⟫ <!-- TODO: Fallback translation -->
-11.  ⟪द्विष्⟫ <!-- TODO: Fallback translation -->
-12.  ⟪नी⟫ <!-- TODO: Fallback translation -->
-13.  ⟪पद्⟫ <!-- TODO: Fallback translation -->
-14.  ⟪पा⟫ ⟪१⟫ <!-- TODO: Fallback translation -->
-15.  ⟪पा⟫ ⟪२⟫ <!-- TODO: Fallback translation -->
-16.  ⟪भज्⟫ <!-- TODO: Fallback translation -->
-17.  ⟪कृष्⟫ <!-- TODO: Fallback translation -->
-18.  ⟪सु⟫ <!-- TODO: Fallback translation -->
-19.  ⟪मन्⟫ <!-- TODO: Fallback translation -->
-20.  ⟪मुच्⟫ <!-- TODO: Fallback translation -->
-21.  ⟪मृ⟫ <!-- TODO: Fallback translation -->
-22.  ⟪यज्⟫ <!-- TODO: Fallback translation -->
-23.  ⟪युध्⟫ <!-- TODO: Fallback translation -->
-24.  ⟪वच्⟫ <!-- TODO: Fallback translation -->
-25.  ⟪विश्⟫ <!-- TODO: Fallback translation -->
-26.  ⟪श्रु⟫ <!-- TODO: Fallback translation -->
-27.  ⟪प्रच्छ्⟫ <!-- TODO: Fallback translation -->
-28.  ⟪सिच्⟫ <!-- TODO: Fallback translation -->
-29.  ⟪स्तु⟫ <!-- TODO: Fallback translation -->
-30.  ⟪स्था⟫ <!-- TODO: Fallback translation -->
-31.  ⟪स्मृ⟫ <!-- TODO: Fallback translation -->
-32.  ⟪हन्⟫ <!-- TODO: Fallback translation -->
-33.  ⟪लभ्⟫ <!-- TODO: Fallback translation -->
-34.  ⟪अद्⟫ <!-- TODO: Fallback translation -->
-35.  ⟪दृश्⟫ <!-- TODO: Fallback translation -->
-36.  ⟪पच्⟫ <!-- TODO: Fallback translation -->
-37.  ⟪सद्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪आप्⟫
+2.  ⟪इ⟫
+3.  ⟪गम्⟫
+4.  ⟪कृ⟫
+5.  ⟪क्रुध्⟫
+6.  ⟪जि⟫
+7.  duh（⟪दुह्⟫）
+8.  ⟪दिश्⟫
+9.  ⟪दह्⟫
+10.  ⟪सृज्⟫
+11.  ⟪द्विष्⟫
+12.  ⟪नी⟫
+13.  ⟪पद्⟫
+14.  ⟪पा⟫ ⟪१⟫
+15.  ⟪पा⟫ ⟪२⟫
+16.  ⟪भज्⟫
+17.  ⟪कृष्⟫
+18.  ⟪सु⟫
+19.  ⟪मन्⟫
+20.  ⟪मुच्⟫
+21.  ⟪मृ⟫
+22.  ⟪यज्⟫
+23.  ⟪युध्⟫
+24.  ⟪वच्⟫
+25.  ⟪विश्⟫
+26.  ⟪श्रु⟫
+27.  ⟪प्रच्छ्⟫
+28.  ⟪सिच्⟫
+29.  ⟪स्तु⟫
+30.  ⟪स्था⟫
+31.  ⟪स्मृ⟫
+32.  ⟪हन्⟫
+33.  ⟪लभ्⟫
+34.  ⟪अद्⟫
+35.  ⟪दृश्⟫
+36.  ⟪पच्⟫
+37.  ⟪सद्⟫
 
-B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infinitiv zu: <!-- TODO: Fallback translation -->
+B) 以下词根通过连接元音 -i- 构成不定式。请构成下列词根的不定式：
 
-1.  ⟪आस्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪नृत्⟫ <!-- TODO: Fallback translation -->
-3.  ⟪रक्ष्⟫ <!-- TODO: Fallback translation -->
-4.  ⟪रुद्⟫ <!-- TODO: Fallback translation -->
-5.  ⟪वद्⟫ <!-- TODO: Fallback translation -->
-6.  ⟪वृत्⟫ <!-- TODO: Fallback translation -->
-7.  ⟪कुप्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪आस्⟫
+2.  ⟪नृत्⟫
+3.  ⟪रक्ष्⟫
+4.  ⟪रुद्⟫
+5.  ⟪वद्⟫
+6.  ⟪वृत्⟫
+7.  ⟪कुप्⟫
 
-C) Folgende Wurzeln wahlweise mit oder ohne Bindevokal: <!-- TODO: Fallback translation -->
+C) 以下词根可选带或不带连接元音：
 
-1.  ⟪अश्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪इष्⟫ <!-- TODO: Fallback translation -->
-3.  ⟪बुध्⟫ <!-- TODO: Fallback translation -->
-4.  ⟪मुह्⟫ (3 Formen!) <!-- TODO: Fallback translation -->
-5.  ⟪सह्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪अश्⟫
+2.  ⟪इष्⟫
+3.  ⟪बुध्⟫
+4.  ⟪मुह्⟫（三种形式！）
+5.  ⟪सह्⟫
 
-D) Übersetzen Sie und lösen Sie die Komposita auf: <!-- TODO: Fallback translation -->
+D) 翻译并分解复合词：
 
-⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫
 
-⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫
 
-⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt2303.webp)
-Abb.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
-ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย
-(Bildquelle: [Details](/licenses#lekt2303)) <!-- TODO: Fallback translation -->
+图：⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
+做功德 = ⟪पुण्यकरणम्⟫，泰国 = ประเทศไทย
+（图片来源：[详情](/zh-CN/licenses#lekt2303)）
 :::
-⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
-:::media
+::: media
 ![](/images/lekt2301.webp)
-Abb.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
-Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
-(Bildquelle: [Details](/licenses#lekt2301)) <!-- TODO: Fallback translation -->
+图：⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
+清迈，泰国 = เชียงใหม่, ประเทศไทย
+（图片来源：[详情](/zh-CN/licenses#lekt2301)）
 :::
-⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
 
-⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫
 
-⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫
 
-⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫
 
-C) Übersetzen Sie folgendes ⟪सुभाषितम्⟫ <!-- TODO: Fallback translation -->
+C) 翻译以下 ⟪सुभाषितम्⟫
 
 ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫  
 ⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  
 ⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
-⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
 
-Erklärung: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..." <!-- TODO: Fallback translation -->
+Erklärung: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..."
 
-:::media
+::: media
 ![](/images/lekt2302.webp)
-Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
-Chittorgarh = ⟪चित्तौडगढ⟫
-(Bildquelle: [Details](/licenses#lekt2302)) <!-- TODO: Fallback translation -->
+图：⟪⟪आहारनिद्राभयमैथुनं⟫⟫ ⟪⟪च⟫⟫
+Chittorgarh = ⟪⟪चित्तौडगढ⟫⟫
+（图片来源：[详情](/zh-CN/licenses#lekt2302)）
 :::
-## 23.6. Wiederholungsübung
+## 23.6. 复习练习
 
-Bitte keine Hilfsmittel benutzen! <!-- TODO: Fallback translation -->
+请勿使用任何辅助工具！
 
-A) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+A) 翻译成梵文：
 
-1\. Die fünf (⟪पञ्च⟫) "Qualen" sind: Unwissenheit, der falsche Glaube ans Ich, Zuneigung, Abneigung und Anhänglichkeit an den Leib. <!-- TODO: Fallback translation -->
+1\. 五种（⟪पञ्च⟫）“苦”是：无明、错误的我见、贪爱、嗔恚和对身体的执着。
 
-2\. Wissen gibt es für Gehorsam gegenüber einem Lehrer oder für viel Geld oder im Austausch gegen Wissen. Eine vierte Art von Wissenserwerb gibt es nicht. <!-- TODO: Fallback translation -->
+2\. 知识可以通过对老师的服从、大量的金钱或知识的交换来获得。不存在第四种获取知识的方式。
 
-3\. Ein Niedriger spricht, handelt aber nicht ; ein Guter spricht nicht, sondern handelt nur. <!-- TODO: Fallback translation -->
+3\. 一个低贱者说话而不行动；一个善良者不说话，只行动。
 
-4\. Die Hilfswissenschaften zum Veda sind: Aussprachelehre, Ritualistik, Grammatik, Bedeutungslehre, Metrik (⟪छन्दस्⟫) und Kalenderlehre. <!-- TODO: Fallback translation -->
+4\. 吠陀的辅助学科包括：发音学、仪式学、语法学、语义学、韵律学（⟪छन्दस्⟫）和历法学。
 
-5\. Yoga ist das Stoppen der Tätigkeiten des Denkorgans. <!-- TODO: Fallback translation -->
+5\. 瑜伽是停止思维器官的活动。
 
-6\. Recht siegt, nicht Unrecht ; Wahrheit siegt, nicht Lüge ; Geduld siegt, nicht Zorn ; Gott siegt, nicht ein Gegengott. (Passiv) <!-- TODO: Fallback translation -->
+6\. 正义战胜不义；真理战胜虚妄；忍耐战胜愤怒；神战胜伪神。（被动语态）
 
-7\. Der "Stock" bewirkt Erwerb und sicheren Besitz von Philosophie, Veda und Ökonomie. Die Führung dieses Stocks ist Politik. <!-- TODO: Fallback translation -->
+7. “杖”能带来哲学、吠陀和经济学的获取与安全持有。执掌此杖即为政治学。
 
-:::media
+::: media
 ![](/images/lekt2304.jpg)
-Abb.: ⟪दण्डनीतिः⟫
-Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, seit 2004
-(Bildquelle: [Details](/licenses#lekt2304)) <!-- TODO: Fallback translation -->
+图：⟪दण्डनीतिः⟫
+曼莫汉·辛德 = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫，印度总理 = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫，自2004年起
+（图片来源：[详情](/zh-CN/licenses#lekt2304)）
 :::
-8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäß der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören. <!-- TODO: Fallback translation -->
+8\. 妻子、儿子和奴隶，这三者（⟪त्रयस्⟫）根据传统被视为无财产者。他们所带来的，归属于拥有他们这三者的人。
 
-9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden. <!-- TODO: Fallback translation -->
+9\. 蚊子渴望伤口，统治者渴望财产，卑劣者渴望争斗，善良者渴望和平。
 
-10\. Die spezifische Pflicht eines Brahmanen ist: Studium, Lehren, Opfern als Opferherr, Opfern im Auftrag, Geben und Empfangen ; die eines Kṣatriya ist: Studium, Opfern als Opferherr, Geben, Lebensunterhalt durch Waffen, Hüten der Wesen ; die eines Vaiśya: Studium, Opfern als Opferherr, Geben, Ackerbau, Viehhaltung und Handel ; die eines Śūdra: Gehorsam gegenüber den Zweimalgeborenen, Wirtschaftstätigkeit, Tätigkeit (⟪कर्म⟫) von Handwerkern und Schaustellern. <!-- TODO: Fallback translation -->
+10\. 婆罗门特有的职责是：学习、教学、作为祭主进行祭祀、为他人进行祭祀、布施和接受；刹帝利的职责是：学习、作为祭主进行祭祀、布施、以武器维持生计、保护众生；吠舍的职责是：学习、作为祭主进行祭祀、布施、农业、畜牧业和商业；首陀罗的职责是：服从再生者、从事经济活动、从事工匠和表演者的工作（⟪कर्म⟫）。
 
-11\. Abklärung des Bewusstseins geschieht aufgrund der meditativen Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die als Objekt Glück und Leid, Gutes und Böses haben. <!-- TODO: Fallback translation -->
+11\. 意识的澄清源于慈、悲、喜、舍四种禅修对象的扩展，其对象分别为乐与苦、善与恶。
 
-12\. Arme haben viele Söhne, obwohl sie sie nicht wünschen. Reiche haben keinen Sohn. Seltsam ist die Regung des Schicksals. <!-- TODO: Fallback translation -->
+12\. 穷人有许多儿子，尽管他们并不希望如此。富人却没有儿子。命运的波动真是奇怪。
 
-13\. Wen erschlägt nicht ein Frauenkörper (⟪वपुस्⟫ n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten. <!-- TODO: Fallback translation -->
+13\. 谁不被拥有纤细腰肢、宽阔臀部、红唇、黑眸、脐窝微凹、乳房挺拔的女性躯体（⟪वपुस्⟫ n.）所击杀？
 
-B) Deklinieren Sie in allen Ihnen bekannten Kasus ⟪क्षत्रिया⟫ f. <!-- TODO: Fallback translation -->
+B) 用所有你熟悉的格变位⟪क्षत्रिया⟫（阴性）。
 
-C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben: <!-- TODO: Fallback translation -->
+C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben:
 
-⟪१⟫. ⟪सह्⟫ <!-- TODO: Fallback translation -->
+⟪१⟫。⟪सह्⟫
 
-⟪२⟫. ⟪पा⟫ (2x) <!-- TODO: Fallback translation -->
+⟪२⟫。⟪पा⟫（两次）
 
-⟪३⟫. ⟪वच्⟫ <!-- TODO: Fallback translation -->
+⟪३⟫。⟪वच्⟫
 
-⟪४⟫. ⟪हन्⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪४⟫。⟪हन्⟫ ⟪॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Bildquelle: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2301:** 清迈，泰国 = เชียงใหม่, ประเทศไทย [图片来源：维基百科。GNU FDLicense]
 
-**lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Bildquelle: von zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Zugriff am 2008-12-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2302:** 奇陶尔加尔 = ⟪चित्तौडगढ⟫ [图片来源：由 zz77 提供。-- http://www.flickr.com/photos/zz77/2256200876/. -- 访问日期：2008-12-13。-- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
 
-**lekt2303:** ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย [Bildquelle: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Zugriff am 2008-12-13. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2303:** ทำบุญ = ⟪पुण्यकरणम्⟫, ประเทศไทย = 泰国 [图片来源：Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- 访问日期：2008-12-13. -- 知识共享许可协议（署名，禁止演绎）]
 
-**lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, seit 2004 [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2304:** 曼莫汉·辛格 = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫，印度总理 = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫，自2004年 [图片来源：维基百科，公有领域]
 :::

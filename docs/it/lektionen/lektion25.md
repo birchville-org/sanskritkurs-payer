@@ -1,9 +1,9 @@
 ---
-title: Lezione 25
-subtitle: "Formazione dell'ablativo (⟪पञ्चमी⟫ = \"quinta desinenza casuale\")"
+title: Lektion 25
+subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
 lesson_id: 25
 last_reconstructed: 2026-05-21
-category: "Grammatica"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,31 +11,31 @@ status: stable
 
 ## 25.1. Formazione dell'ablativo (⟪पञ्चमी⟫ = "quinta desinenza casuale")
 
-:::grammar-box
+::: grammar-box
 Tranne nei maschili/neutri in -a e nei pronomi, nel singolare tutte le classi di declinazione presentano forme dell'ablativo (⟪पञ्चमी⟫) identiche a quelle del genitivo (⟪षष्ठी⟫).
 
 Tranne nei pronomi personali, in tutte le declinazioni nel plurale le forme dell'ablativo sono identiche a quelle del dativo (⟪चतुर्थी⟫).
 :::
 Ora riconoscete il motivo dell'ordine dei casi (⟪विभक्ति⟫) nel sanscrito: sono disposti in modo che le forme identiche siano il più possibile vicine tra loro, o comunque raggruppate.
 
-:::grammar-box
+::: grammar-box
 **Ablativo singolare dei maschili/neutri in -a**
 
 - **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
 Pronomi interrogativi, relativi e dimostrativi:
 
-::::grammar-box
+::: grammar-box
 
-| | Ablativo singolare:brMaschile / Neutro | Ablativo singolare:brFemminile |
+| | Ablativo Singolare:brMaschile / Neutro | Ablativo Singolare:brFemminile |
 | :--- | :--- | :--- |
-| **⟪किम्⟫** | **kasmāt**:br(⟪कस्मात्⟫) | **kasyāḥ**:br(⟪कस्याः⟫) |
-| **⟪यद्⟫** | **yasmāt**:br(⟪यस्मात्⟫) | **yasyāḥ**:br(⟪यस्याः⟫) |
-| **⟪तद्⟫** | **tasmāt**:br(⟪तस्मात्⟫) | **tasyāḥ**:br(⟪तस्याः⟫) |
-| **⟪एतद्⟫** | **etasmāt**:br(⟪एतस्मात्⟫) | **etasyāḥ**:br(⟪एतस्याः⟫) |
-| **⟪इदम्⟫** | **asmāt**:br(⟪अस्मात्⟫) | **asyāḥ**:br(⟪अस्याः⟫) |
+| ⟪किम्⟫ | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) |
+| ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
+| ⟪तद्⟫ | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) |
+| ⟪एतद्⟫ | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) |
+| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
-::::
+:::
 ## 25.2. Uso dell'ablativo (⟪पञ्चमी⟫)
 
 "L'ablativo indica ciò che rimane fisso quando qualcosa se ne va."
@@ -44,14 +44,14 @@ Pāṇini 2,3,28 + 1,4,24
 
 L'ablativo risponde soprattutto alle domande "Da dove?", "Perché?".
 
-:::grammar-box
+::: grammar-box
 1\. L'ablativo indica quindi il punto di partenza, l'origine e la materia.
 
 L'ablativo può quindi indicare anche la persona da cui si compra, si sente, si desidera, ecc.
 :::
 Esempi:
 
-:::indent
+::: indent
 ⟪ग्रमादागच्छति⟫ = "Lui viene dal villaggio"
 
 ⟪अश्वात्पतितः⟫ = "caduto dal cavallo"
@@ -60,23 +60,25 @@ Esempi:
 :::
 Esempi:
 
-:::indent
+::: indent
 ⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "lui sente dal maestro riguardo al Dharma"
 
 ⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "il brāhmaṇo desidera dal kṣatriya una mucca da latte"
-::::::grammar-box
+:::
+::: grammar-box
 2\. L'ablativo si usa con verbi che significano "trattenere da", "proteggere da", "difendere contro", "temere":
 :::
 Esempio:
 
-:::indent
+::: indent
 ⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "lui protegge dai nemici"
-::::::grammar-box
+:::
+::: grammar-box
 3\. L'ablativo indica la ragione o la causa:
 :::
 Esempi:
 
-:::indent
+::: indent
 ⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "Uccide suo figlio per rabbia"
 
 ⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Poiché ha fatto del male, va all'inferno" (« Poiché è uno attraverso il quale è stato fatto del male)
@@ -87,18 +89,20 @@ I nomi che non sono femminili possono, per indicare la ragione di un'azione, ess
 
 ## 25.3. Il suffisso -⟪तस्⟫
 
-:::grammar-box
+::: grammar-box
 Se si vuole esprimere in modo inequivocabile al singolare che la parola è utilizzata con significato ablativo, si può aggiungere allo stelo della parola il suffisso -⟪तस्⟫, che forma avverbi con significato prevalentemente ablativo (alla domanda "Da dove?"):
 :::
 Esempi:
 
-:::indent
+::: indent
 ⟪आदितस्⟫ = "fin dall'inizio"
 
 ⟪धर्मतस्⟫ = "a causa del Dharma, in base al Dharma"
-::::::grammar-box
+:::
+::: grammar-box
 Il suffisso -⟪तस्⟫ appare anche su steli pronominali:
-::::::indent
+:::
+::: indent
 ⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "da lì, lì, verso lì, su quello, allora, per questo"
 
 ⟪यद्⟫ : ⟪यतस्⟫ "da quale, da ciò di cui, da dove, dove, verso dove, perché, poiché" (relativo)
@@ -107,7 +111,7 @@ Il suffisso -⟪तस्⟫ appare anche su steli pronominali:
 :::
 ## 25.4. Altre possibilità di esprimere motivazioni
 
-:::grammar-box
+::: grammar-box
 **1\. Frasi relative**
 
 Le frasi relative esprimono spesso una relazione causale (motivante), consecutiva (concludente) o finale (finalistica) rispetto alla frase principale.
@@ -122,27 +126,30 @@ Forme del pronome relativo che fungono da congiunzione causale:
 :::
 Esempio:
 
-:::indent
+::: indent
 ⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो⟫ ⟪व्रतं⟫ ⟪चरति⟫ = "Poiché Rāma desidera la prosperità, osserva il voto"
-::::::grammar-box
+:::
+::: grammar-box
 **2\. ⟪हि⟫**
 
 Le proposizioni principali possono essere collegate tra loro mediante la particella ⟪हि⟫ "infatti, poiché". Una proposizione con ⟪हि⟫ (che non può trovarsi in prima posizione, ma deve trovarsi in seconda posizione in prosa) indica una motivazione sia per la proposizione precedente sia per quella seguente:
 :::
 Esempio:
 
-:::indent
+::: indent
 ⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "Le persone compiono azioni meritorie. Vogliono infatti andare in cielo."
-::::::grammar-box
+:::
+::: grammar-box
 **3\. Strumentale (⟪तृतीया⟫)**
 
 Oltre all'ablativo (⟪पञ्चमी⟫), il caso strumentale (⟪तृतीया⟫) viene utilizzato per indicare la ragione o la causa. Con i sostantivi femminili lo strumentale è in generale obbligatorio.
 :::
 Esempio:
 
-:::indent
+::: indent
 ⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "Uccide suo figlio per rabbia" = "Uccide suo figlio nella rabbia"
-::::::grammar-box
+:::
+::: grammar-box
 **4\. Sostantivi**
 
 Inoltre, naturalmente, si possono esprimere motivazioni anche attraverso costruzioni con
@@ -155,23 +162,24 @@ Inoltre, naturalmente, si possono esprimere motivazioni anche attraverso costruz
 :::
 Esempio:
 
-:::indent
+::: indent
 ⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ ecc.) = "a causa del merito"
-::::::grammar-box
+:::
+::: grammar-box
 **5\. ⟪इति⟫**
 
 La motivazione di un'azione può essere espressa come pensiero con ⟪इति⟫:
 :::
 Esempio:
 
-:::indent
+::: indent
 ⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Poiché il Sugata si è completamente risvegliato alla verità, Ānanda chiede al Gautama della sua dottrina" (« "Pensando "Il Sugata si è completamente risvegliato alla verità" ...)
 :::
 ## 25.5. Elenco di parole
 
 ⟪त्यज्⟫ 1P ⟪त्यजति⟫  lasciare, abbandonare, lasciare in balìa
 
-:::indent
+::: indent
 Fut. ⟪त्यक्ष्यति⟫  
 Pass. ⟪त्यज्यते⟫  
 PPP ⟪त्यक्त⟫  
@@ -188,14 +196,14 @@ di cui:
 
 ⟪धान्य⟫ n.: cereali sgranati
 
-:::media
+::: media
 ![](/images/lekt2501.webp)
 Fig.: ⟪धान्यम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2501))
 :::
 ⟪धृ⟫ 1U ⟪धरति⟫ : tenere, trattenere
 
-:::indent
+::: indent
 Fut. ⟪धरिष्यति⟫  
 Pass. ⟪ध्रियते⟫  
 PPP ⟪धृत⟫  
@@ -208,7 +216,7 @@ di cui:
 :::
 ⟪नित्य⟫ ⟪३⟫ : costantemente, stabile, eterno
 
-:::indent
+::: indent
 ⟪नित्यम्⟫ Avv.: sempre, costantemente, sempre
 :::
 ⟪प्रज्ञा⟫ f.:  saggezza, conoscenza
@@ -217,7 +225,7 @@ di cui:
 
 ⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : rallegrarsi, ebbriarsi di qualcosa (Istr., Gen., Loc.)
 
-:::indent
+::: indent
 Fut. ⟪मदिष्यति⟫  
 Pass. ⟪मद्यते⟫  
 PPP ⟪मत्त⟫  
@@ -237,7 +245,7 @@ di cui:
 
 ⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫
 
-:::indent
+::: indent
 Pass. ⟪यायते⟫  
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫  
@@ -249,7 +257,7 @@ Absol. 2: -⟪याय⟫
 
 ⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : ordinare, insegnare, punire
 
-:::indent
+::: indent
 Pass. ⟪शिष्यते⟫  
 PPP ⟪शिष्ट⟫ ⟪३⟫ : insegnato  
 Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
@@ -268,14 +276,14 @@ di cui:
 
 ⟪मूल⟫ n.: radice
 
-:::media
+::: media
 ![](/images/lekt2502.webp)
 Fig.: ⟪मूलानि⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2502))
 :::
 ⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): ungere, spalmare
 
-:::indent
+::: indent
 Fut. ⟪लेप्स्यति⟫  
 Pass. ⟪लिप्यते⟫  
 PPP ⟪लिप्त⟫  
@@ -284,7 +292,8 @@ Inf. ⟪लेप्तुम्⟫
 di cui:
 
 ⟪लिप्ति⟫ f.: ungere, scrivere, scrittura
-::::::media
+:::
+::: media
 ![](/images/lekt2503.webp)
 Fig.: ⟪लिप्तिः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2503))
@@ -293,7 +302,7 @@ Fig.: ⟪लिप्तिः⟫
 
 ⟪वह्⟫ 1U ⟪वहति⟫ : condurre, guidare, soffiare (vento)
 
-:::indent
+::: indent
 Fut. ⟪वक्ष्यति⟫  
 Pass. ⟪उह्यते⟫  
 PPP ⟪ऊढ⟫  
@@ -305,14 +314,15 @@ Absol 2: -⟪उह्य⟫
 di cui:
 
 ⟪विवाह⟫ m.: condurre via, matrimonio di una donna (Istr., saha) (per il matrimonio vedere Basham, Meraviglie pag. 166 -171)
-::::::media
+:::
+::: media
 ![](/images/lekt2504.webp)
 Fig.: ⟪विवाहः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2504))
 :::
 ⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : condurre via, istruire, educare
 
-:::indent
+::: indent
 di cui:
 
 ⟪विनय⟫ m.: allontanamento, educazione, disciplina, buddh.: disciplina monastica, diritto monastico
@@ -321,14 +331,14 @@ di cui:
 
 ⟪विष्टि⟫ f.: lavoro, lavoro forzato
 
-:::media
+::: media
 ![](/images/lekt2505.webp)
 Fig.: ⟪विष्टिः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2505))
 :::
 ⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : crescere, diventare più grande
 
-:::indent
+::: indent
 Fut. ⟪वर्धिष्यते⟫  
 Pass. ⟪वृध्यते⟫  
 PPP ⟪वृद्ध⟫ : adulto, vecchio, aumentato  
@@ -346,7 +356,7 @@ davanti:
 
 ⟪हिरण्य⟫ ⟪३⟫ : dorato ; n.: oro, denaro, ricchezza
 
-:::media
+::: media
 ![](/images/lekt2506.webp)
 Fig.: ⟪हिरण्यम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2506))
@@ -403,7 +413,7 @@ B) Tradurre e risolvere i composti in sanscrito:
 
 ⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫ (⟪हर⟫i m. = ⟪विष्णु⟫ / ⟪कृष्ण⟫)
 
-:::media
+::: media
 ![](/images/lekt2507.webp)
 Fig.: ⟪लोकादधिको⟫ ⟪हरिः⟫
 :::
@@ -414,7 +424,7 @@ Fig.: ⟪लोकादधिको⟫ ⟪हरिः⟫
 ⟪निवर्तनाद्धि⟫ ⟪सर्वतो⟫  
 ⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥१॥⟫
 
-:::indent
+::: indent
 Spiegazione: ⟪सर्वतस्⟫ = sarva "ogni, tutti" + -tas ; ⟪अणु⟫ = Nom., Acc. sg. neut.
 :::
 ⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
@@ -431,7 +441,7 @@ Spiegazione: ⟪सर्वतस्⟫ = sarva "ogni, tutti" + -tas ; ⟪अ�
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫  
 ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪३१६॥⟫ ⟪॥४॥⟫
 
-:::indent
+::: indent
 Spiegazione: ⟪राजा⟫ = Nom. sg. da ⟪राजन्⟫ m. = ⟪नृप⟫
 :::
 ## 25.8. Esercizio di traduzione
@@ -442,22 +452,21 @@ Spiegazione: ⟪राजा⟫ = Nom. sg. da ⟪राजन्⟫ m. = ⟪न�
 
 2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. sulla formazione di un principe:
 
-⟪तस्माद्दण्डमूला⟫***⟪स्तिस्रो⟫*** ⟪विद्याः⟫ ⟪॥१॥⟫  
-⟪विनयमूलो⟫ ⟪दण्डः⟫ ***⟪प्राणभृतां⟫*** ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
+⟪तस्माद्दण्डमूला⟫*⟪स्तिस्रो⟫* ⟪विद्याः⟫ ⟪॥१॥⟫  
+⟪विनयमूलो⟫ ⟪दण्डः⟫ *⟪प्राणभृतां⟫* ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
 ⟪कृतकः⟫ ⟪स्वाभाविकश्च⟫ ⟪विनयः⟫ ⟪॥३॥⟫  
 ⟪क्रिया⟫ ⟪हि⟫ ⟪द्रव्यं⟫ ⟪विनयति⟫ ⟪नाद्रव्यम्⟫ ⟪॥४॥⟫  
-⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ ***⟪नेतरम्⟫*** ⟪॥५॥⟫  
+⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ *⟪नेतरम्⟫* ⟪॥५॥⟫  
 ... ⟪॥⟫  
-⟪वृत्तचौल⟫***⟪कर्मा⟫*** ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫***⟪पयुन्ञ्जीत⟫*** ⟪॥७॥⟫  
-⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ ***⟪वक्तृप्रयोक्तृभ्यः⟫*** ⟪॥८॥⟫  
-⟪ब्रह्मचर्यं⟫ ⟪चा⟫ ***⟪षोडशाद्व⟫***⟪र्षाद्⟫ ⟪॥९॥⟫  
-⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫***⟪कर्म⟫*** ⟪चास्य⟫ ⟪॥१०॥⟫  
+⟪वृत्तचौल⟫*⟪कर्मा⟫* ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫*⟪पयुन्ञ्जीत⟫* ⟪॥७॥⟫  
+⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ *⟪वक्तृप्रयोक्तृभ्यः⟫* ⟪॥८॥⟫  
+⟪ब्रह्मचर्यं⟫ ⟪चा⟫ *⟪षोडशाद्व⟫*⟪र्षाद्⟫ ⟪॥९॥⟫  
+⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫*⟪कर्म⟫* ⟪चास्य⟫ ⟪॥१०॥⟫  
 ⟪नित्यश्च⟫ ⟪विद्यावृद्धसंयोगो⟫ ⟪विनयवृद्ध्यर्थम्⟫, ⟪तन्मूलत्वाद्विनयस्य⟫ ⟪॥११॥⟫  
 ... ⟪॥⟫  
-⟪श्रुता⟫***⟪द्धि⟫*** ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫***⟪दात्मवत्ते⟫***⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
+⟪श्रुता⟫*⟪द्धि⟫* ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫*⟪दात्मवत्ते⟫*⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
 ... ⟪॥⟫  
-⟪कामक्रोधलोभमानमदहर्षत्यागा⟫***⟪त्कार्यः⟫*** ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
-
+⟪कामक्रोधलोभमानमदहर्षत्यागा⟫*⟪त्कार्यः⟫* ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
 Spiegazione delle parole evidenziate in rosso nel testo sopra:
 
@@ -478,3 +487,4 @@ Spiegazione delle parole evidenziate in rosso nel testo sopra:
 1.5.16. ⟪धि⟫ Forma di sandhi da ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "auto-proprietà"
 
 1.6.1. ⟪कार्य⟫ ⟪३⟫ "da fare, ciò che deve essere fatto"
+

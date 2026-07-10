@@ -10,11 +10,12 @@ status: stable
 
 In Classical Sanskrit, the perfect stem has only indicative and participle forms.
 
-:::grammar-box
+::: grammar-box
 **There are two types of perfect formation:**
 *   **the reduplicated perfect = ⟪द्वित्वलिट्⟫**
 *   **the periphrastic perfect = ⟪अनुप्रयोगलिट्⟫**
-::::::grammar-box
+:::
+::: grammar-box
 **The periphrastic perfect (⟪अनुप्रयोगलिट्⟫) is used:**
 1. **in derived conjugations (causative, desiderative, frequentative, denominative)**
 2. **with roots that begin with a long vowel (except ā-) or with a vowel (except a-) before two consonants**
@@ -24,7 +25,7 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 
 ### 34.2.1. Stem Gradation
 
-:::grammar-box
+::: grammar-box
 **Formation:**
 
 **strong stem:** Singular Parasmaipada
@@ -32,7 +33,8 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 
 **weak stem:** all other forms
 *   **reduplicated zero-grade stem + perfect ending**
-::::::grammar-box
+:::
+::: grammar-box
 **Generally (also outside the perfect), stems of the following forms do not undergo stem gradation:**
 *   **(Consonant)-Consonant-Long Vowel-Consonant**
 *   **(Consonant)-Consonant-Vowel-Consonant-Consonant**
@@ -43,22 +45,22 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 :::
 ### 34.2.2. The Perfect Endings
 
-::::grammar-box
+::: grammar-box
 
 | | 3. Singular | 3. Plural |
 | :--- | :--- | :--- |
 | **Parasmaipada** | **-a** | **-ur** |
 | **Ātmanepada** | **-e** | **-re** |
 
-::::
+:::
 ### 34.2.3. Connecting Vowel -i-
 
-:::grammar-box
+::: grammar-box
 **The connecting vowel -i- always precedes the 3rd person plural ending -re, and precedes other consonant-initial endings for the majority of roots.**
 :::
 ### 34.2.4. Reduplication of roots beginning with a consonant
 
-:::grammar-box
+::: grammar-box
 **For the reduplication of initial consonants, the rules given in [Lesson 33](lektion33.md) apply.**
 
 **The reduplication vowel for roots beginning with a consonant is the short root vowel.**
@@ -69,7 +71,7 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | Root | 3. sg. Perf. P. |
 | :--- | :--- |
@@ -77,57 +79,60 @@ Examples:
 | ⟪मुच्⟫ | ***⟪मु⟫***⟪मोच⟫ |
 | ⟪भृ⟫ | ***⟪ब⟫***⟪भार⟫ |
 
-:::::::grammar-box
+:::
+::: grammar-box
 **Some roots beginning with y- or v- reduplicate with i- or u-, which in the weak forms "merges" with the root vowel.**
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
-::::
+:::
 ### 34.2.5. Reduplication of Vowel-Initial Roots
 
-:::grammar-box
+::: grammar-box
 **1. Initial a-, ā- is reduplicated with a-, resulting in ā-.**
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | Root | 3. sg. Perf. P. |
 | :--- | :--- |
 | ⟪अस्⟫ 2 "to be" and ⟪अस्⟫ 4 "to throw" | ⟪आस⟫:bra + as-a |
 
-:::::::grammar-box
+:::
+::: grammar-box
 **2. Roots with initial i- have iy- as the reduplicating syllable in the strong stem, and i- in the weak stem, which merges with the root vowel to form ī-. The same applies to initial u-.**
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
 | ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
-:::::::grammar-box
+:::
+::: grammar-box
 **3. Roots that begin with a- followed by two consonants, or with ṛ-, have ān- as the reduplicating syllable.**
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
-::::
+:::
 ## 34.3. Types of the reduplicated perfect
 
 Classification principle: Peculiarities of stem gradation:
@@ -137,7 +142,7 @@ Classification principle: Peculiarities of stem gradation:
 
 ## 34.4. Perfect Type I: Perfect without stem gradation
 
-:::grammar-box
+::: grammar-box
 **Perfect Type I (without stem gradation) have roots of the types:**
 *   **(Consonant)-Consonant-LongVowel-Consonant**
 *   **(Consonant)-Consonant-Vowel-Consonant-Consonant**
@@ -146,7 +151,7 @@ Classification principle: Peculiarities of stem gradation:
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | Root | 3. sg. Perf. | 3. pl. Perf. |
 | :--- | :--- | :--- |
@@ -156,10 +161,10 @@ Examples:
 | ⟪अस्⟫ 2P "to be":br⟪अस्⟫ 4 "to throw" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
 | ⟪अश्⟫ | ⟪आनशे⟫:brirregular reduplication! | ⟪आनशिरे⟫ |
 
-::::
+:::
 ## 34.5. Perfect Type II: Strong stem with Vṛddhi grade, weak stem with Guṇa grade
 
-:::grammar-box
+::: grammar-box
 **Formed from roots of the form:**
 *   **(Consonant)-(Consonant)-i/u/ṛ/ḷ-Consonant**
 
@@ -169,7 +174,7 @@ Examples:
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -179,14 +184,14 @@ Examples:
 | ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ |
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
-::::
+:::
 ## 34.6. Word List
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
 **⟪शस्य⟫ = ⟪सस्य⟫ n. sg. and pl.:** seed, crop, grain
 
-:::media
+::: media
 ![](/images/lekt3406.webp)
 Fig.: ⟪सस्यम्⟫
 Rice field in India.
@@ -200,7 +205,7 @@ Rice field in India.
 
 **⟪द्वीप⟫ m.n.:** island, continent
 
-:::media
+::: media
 ![](/images/lekt3405.webp)
 Fig.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
@@ -210,20 +215,21 @@ Lakshadweep Islands Map.
 
 **⟪तिल⟫ m.:** sesame (seed) (*Sesamum indicum* L.)
 
-:::media
+::: media
 ![](/images/lekt3403.webp)
 Fig.: ⟪तिलाः⟫
 Sesame seeds.
 (Image source: [Details](/en/licenses#lekt3403))
-::::::media
+:::: media
 ![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Sesame plant flowering.
 (Image source: [Details](/en/licenses#lekt3404))
+::::
 :::
 **⟪स्वर्ण⟫ n.:** (beautifully colored =) gold
 
-:::media
+::: media
 ![](/images/lekt3402.webp)
 Fig.: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
@@ -239,7 +245,7 @@ Golden Temple (Harmandir Sahib), Amritsar.
 
 **⟪ऋषभ⟫ m.:** bull
 
-:::media
+::: media
 ![](/images/lekt3401.webp)
 Fig.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
@@ -306,7 +312,7 @@ Translate the following text from the ⟪पद्मपुराण⟫ regardin
 
 Explanations:
 
-:::indent
+::: indent
 **Vocative singular** of Masculine / Neuter nouns ending in -a ends in -a: e.g. **⟪देव⟫** "God!"
 
 **⟪चतुर्दश⟫** fourteen
@@ -316,12 +322,14 @@ Explanations:
 **⟪जन्म⟫** Nom./Acc. sg. of **⟪जन्मन्⟫** n. birth
 
 **⟪सर्व⟫ 3** "all, entire" (declined according to pronominal declension)
-::::::media
+:::: media
 ![](/images/lekt3407.webp)
 Fig.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Hindu wedding ritual.
 (Image source: [Details](/en/licenses#lekt3407))
-::::::deleteme-box
+::::
+:::
+::: deleteme-box
 
 
 **lekt3401:** Nandi Bull statue, Chamundi Hills, Mysore. [Image source: Luna Park / Flickr. CC BY-NC-ND]
@@ -330,7 +338,7 @@ Hindu wedding ritual.
 
 **lekt3403:** Sesame seeds. [Image source: Wikipedia. Public domain]
 
-**lekt3404:** Sesame plant flowering. [Image source: Franz Xaver / Wikipedia. GNU FDL]
+**lekt3404:** Bunga tanaman wijen. [Sumber gambar: Franz Xaver / Wikipedia. GNU FDL]
 
 **lekt3405:** Lakshadweep Islands Map. [Image source: CIA World Factbook. Public domain]
 

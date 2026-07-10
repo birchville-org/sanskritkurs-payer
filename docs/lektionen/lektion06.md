@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 6
 
-:::deleteme-box
+::: deleteme-box
 **In dieser Lektion lernen Sie:**
 - Den Aufbau des Verbalsatzes (Agens und Verbalform)
 - Die Bildung von Verbalformen (Parasmaipada, Ātmanepada, Passiv)
@@ -20,7 +20,7 @@ status: stable
 :::
 ## 6.1. Der Verbalsatz
 
-:::grammar-box
+::: grammar-box
 **Schema I: Verbalform**
 - z.B. **yajati** = ⟪यजति⟫ = "Er (sie, es) verehrt mit einem Opfer", "Er (sie, es) opfert"
 
@@ -29,14 +29,13 @@ status: stable
 :::
 Wird der Agens (**kartṛ** m. = ⟪कर्तृ⟫) in einem Verbalsatz genannt, der nicht im Passiv steht, dann steht der Agens im **Nominativ** (erster Fall, prathamā = ⟪प्रथमा⟫). Im Numerus (Zahl, vacana n. = ⟪वचन⟫) stimmen dann Agens und Verbalform überein.
 
----
 
 ## 6.2. Zur Bildung der Verbalformen
 
 Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sanskrit Folgendes aus:
 
 1. **Bedeutung** (**artha** m. ⟪अर्थ⟫)
-2. **Person** und **Numerus** (Zahl, **vacana** n. = ⟪वचन⟫) (ich, du, er \&lt;sie, es\&gt;, wir beide, ihr beide, sie beide, wir, ihr, sie)
+2. **Person** und **Numerus** (Zahl, **vacana** n. = ⟪वचन⟫) (ich, du, er \<sie, es\>, wir beide, ihr beide, sie beide, wir, ihr, sie)
 3. Verhaltensweise (genus verbi):
    1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("Wortform mit Bezug auf einen anderen"): Aktivum. z.B. **yajati** = ⟪यजति⟫ = "Er verehrt mit einem Opfer" (nämlich der Priester, der für jemanden anderen das Opfer vollzieht)
    2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("Wortform mit Bezug auf sich selbst"): Medium. z.B. **yajate** = ⟪यजते⟫ = "Er verehrt mit einem Opfer im eigenen Interesse" (nämlich der Opferherr, der für sich und seine Familie opfert)
@@ -62,13 +61,12 @@ Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sans
 
    Die Zeiten werden von Tempusstämmen gebildet: Präsensstamm, Aoriststamm, Perfektstamm, Futurstamm.
 
----
 
 ## 6.3. Indikativ Präsens (laṭ = ⟪लट्⟫)
 
 Das Präsens ist das Tempus der Gegenwart, insbesondere auch der Dauer.
 
-:::grammar-box
+::: grammar-box
 **Der Indikativ (Aussageform) Präsens wird gebildet, indem an den Präsensstamm die sogenannten Primärendungen angefügt werden.**
 :::
 Beispiele:
@@ -79,11 +77,10 @@ Beispiele:
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" |
 | **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" |
 
----
 
 ## 6.4. Primärendungen der dritten Person (prathama m. = ⟪प्रथम⟫ = "erste (!) Person")
 
-:::grammar-box
+::: grammar-box
 | | Singular (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
@@ -91,18 +88,17 @@ Beispiele:
 :::
 Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern":
 - Präsensstamm: **yaja** = ⟪यज⟫
-- 3. sg. P. **yajati** = ⟪यजति⟫
-- 3. pl. P. **yajanti** = ⟪यजन्ति⟫
-- 3. sg. Ā. **yajate** = ⟪यजते⟫
-- 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
+  - 3. sg. P. **yajati** = ⟪यजति⟫
+  - 3. pl. P. **yajanti** = ⟪यजन्ति⟫
+  - 3. sg. Ā. **yajate** = ⟪यजते⟫
+  - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
----
 
 ## 6.5. Bildung des Präsensstamms
 
 ### 6.5.1. Verben der 6. Präsensklasse (tudādi = ⟪तुदादि⟫ = "tud usw.")
 
-:::grammar-box
+::: grammar-box
 **Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + a-**
 
 | Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm |
@@ -112,7 +108,7 @@ Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern":
 :::
 ### 6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
 
-:::grammar-box
+::: grammar-box
 | Präsensstamm = Wurzel in Hochstufe (selten Dehnstufe) + a- ||||
 | Wurzel (dhātu m.):br⟪धातु⟫ | Hochstufe | Hochstufe vor a- | Präsensstamm |
 | :--- | :--- | :--- | :--- |
@@ -128,7 +124,7 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 
 #### 6.5.2.2. Lautabstufung (Ablaut)
 
-:::grammar-box
+::: grammar-box
 | Tiefstufe:brSchwundstufe | Hochstufe:brVollstufe:brGuṇa m.:br⟪गुण⟫ | Dehnstufe:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -139,7 +135,7 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 :::
 ### 6.5.3. Verben der 4. Präsensklasse (divādi = ⟪दिवादि⟫ = "div usw.")
 
-:::grammar-box
+::: grammar-box
 **Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + ya-**
 
 | Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm |
@@ -151,25 +147,23 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt.
 :::
 ### 6.5.4. Themavokal, thematische Präsensklassen
 
-:::grammar-box
-Das **a** in den Stammbildungssuffixen von Präsensklassen nennt man **Themavokal**. Präsensklassen mit **a** im Stammbildungssuffix heißen deswegen "thematische Präsensklassen".
+::: grammar-box
+Das **a** in den Stammbildungssuffixen von Präsensklassen nennt man **Themavokal**. Präsensklassen mit **a** im Stammbildungssuffix heissen deswegen "thematische Präsensklassen".
 :::
----
 
 ## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
 
-:::grammar-box
+::: grammar-box
 - **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Was tut N. N.?"
 - **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = "Was tun die N.N.s?"
 - (karoti, kurvanti zu **kṛ** = ⟪कृ⟫ 8 U: "tun, machen")
 - **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = "Geht es Ihnen gut?, Wie geht es Ihnen?"
 - Antwort: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Es geht mir) in jeder Hinsicht gut."
 :::
----
 
 ## 6.7. Wortliste
 
-:::grammar-box
+::: grammar-box
 Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach der Wurzel bedeutet die **Konjugationsklasse**.
 
 - **P:** Wurzel ist nur Parasmaipada
@@ -189,7 +183,6 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 - **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : eintreten
 - **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : loslassen, aus sich entlassen, emanieren lassen
 
----
 
 ## 6.8. Übung
 
@@ -220,13 +213,12 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 12. Wer (fem.) tanzt?
 13. Die (erwähnte) Brahmanin tanzt.
 
-:::media
+::: media
 ![](/images/lekt0601.webp)
 **Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
 (Bildquelle: Wikipedia, CC-BY-SA 2.5)
 :::
----
 
 ## 6.9. Wiederholungsübung
 
@@ -299,7 +291,7 @@ Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach d
 2. Durgā ist eine Göttin.
 3. Mīnākṣī ist eine Göttin.
 
-:::media
+::: media
 ![](/images/lekt0602.webp)
 **Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī-Tempel, Madurai, Tamil Nadu
 (Bildquelle: Wikipedia, Public domain)

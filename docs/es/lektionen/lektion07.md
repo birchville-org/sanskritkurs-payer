@@ -1,15 +1,15 @@
 ---
-title: Lección 7
-subtitle: "La oración verbal con objeto directo"
+title: Lektion 7
+subtitle: "Den Verbalsatz mit direktem Objekt"
 lesson_id: 7
 last_reconstructed: 2026-05-07
-category: "Gramática"
+category: "Grammatik"
 status: stable
 ---
 
 # Lección 7
 
-:::deleteme-box
+::: deleteme-box
 **En esta lección aprenderá:**
 - La oración verbal con objeto directo
 - El acusativo de los sustantivos y pronombres
@@ -17,14 +17,16 @@ status: stable
 - El neutro de las raíces en a
 - Las clases de presente atemático (como ejemplo, la 5.ª clase)
 :::
-## Aforismo de la semana
 
+::: center
+**Frase de la semana**
 :::
-center
+
+::: center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
-⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ |
+⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
-⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ||
+⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ⟪||⟫
 
 **dharmo jayati nādharmaḥ**
 **satyaṃ jayati nānṛtam |**
@@ -36,11 +38,10 @@ La verdad prevalece, no la falsedad,
 La indulgencia prevalece, no la ira,
 Dios prevalece, no el adversario divino.
 :::
----
 
 ## 7.1. La oración verbal con objeto directo
 
-:::grammar-box
+::: grammar-box
 **Esquema:**
 **(Agente = kartṛ m. = ⟪कर्तृ⟫) – objeto directo (karman n. = ⟪कर्मन्⟫) – verbo**
 
@@ -50,67 +51,62 @@ p.ej.
 :::
 Si el verbo está en parasmaipada o Ātmanepada, el objeto directo (**karman** n. = ⟪कर्मन्⟫) está generalmente en **acusativo** (caso directo, dvitīyā f. = ⟪द्वितीया⟫).
 
----
-
 ## 7.2. El acusativo (caso directo, dvitīyā f. = ⟪द्वितीया⟫ = "segunda terminación casual")
 
-:::grammar-box
+::: grammar-box
 **Terminación del acusativo singular masculino y femenino tras vocal: -m**
 
-| Masculinos en | Acusativo singular |
+| Masculinos en | Acusativo Singular |
 | :--- | :--- |
-| **-a**: deva | **devam**:br⟪देवम्⟫ |
-| **-i**: kavi | **kavim**:br⟪कविम्⟫ |
-| **-u**: guru | **gurum**:br⟪गुरुम्⟫ |
-
-| Femeninos en | Acusativo singular |
-| :--- | :--- |
-| **-ā**: devatā | **devatām**:br⟪देवताम्⟫ |
-| **-i**: śruti | **śrutim**:br⟪श्रुतिम्⟫ |
-| **-ī**: devī | **devīm**:br⟪देवीम्⟫ |
-| **-u**: dhenu | **dhenum**:br⟪धेनुम्⟫ |
-::::::grammar-box
+| **-a**: deva | **devam** :br⟪देवम्⟫ |
+| **-i**: kavi | **kavim** :br⟪कविम्⟫ |
+| **-u**: guru | **gurum** :br⟪गुरुम्⟫ |
+| Femeninos en | Acusativo Singular |
+| **-ā**: devatā | **devatām** :br⟪देवताम्⟫ |
+| **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ |
+| **-ī**: devī | **devīm** :br⟪देवीम्⟫ |
+| **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ |
+:::
+::: grammar-box
 **Acusativo plural masculino de las raíces en vocal (excepción: raíces monosilábicas en vocal larga): alargamiento de la vocal final + -n**
 
-| Masculinos en | Acusativo plural |
+| Masculinos en | Acusativo Plural |
 | :--- | :--- |
-| **-a**: deva | **devān**:br⟪देवान्⟫ |
-| **-i**: kavi | **kavīn**:br⟪कवीन्⟫ |
-| **-u**: guru | **gurūn**:br⟪गुरून्⟫ |
-::::::grammar-box
+| **-a**: deva | **devān** :br⟪देवान्⟫ |
+| **-i**: kavi | **kavīn** :br⟪कवीन्⟫ |
+| **-u**: guru | **gurūn** :br⟪गुरून्⟫ |
+:::
+::: grammar-box
 **Acusativo plural femenino de las raíces en vocal (excepción: raíces monosilábicas en vocal larga): alargamiento de la vocal final + -s**
 
-| Femeninos en | Acusativo plural |
+| Femeninos en | Acusativo Plural |
 | :--- | :--- |
-| **-ā**: devatā | **devatās**:br⟪देवतास्⟫ |
-| **-i**: śruti | **śrutīs**:br⟪श्रुतीस्⟫ |
-| **-ī**: devī | **devīs**:br⟪देवीस्⟫ |
-| **-u**: dhenu | **dhenūs**:br⟪धेनूस्⟫ |
+| **-ā**: devatā | **devatās** :br⟪देवतास्⟫ |
+| **-i**: śruti | **śrutīs** :br⟪श्रुतीस्⟫ |
+| **-ī**: devī | **devīs** :br⟪देवीस्⟫ |
+| **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
----
 
 ### 7.2.1. Acusativo singular y plural de los pronombres interrogativos y demostrativos
 
-:::grammar-box
-| | | Masculino | Femenino | Neutro |
+::: grammar-box
+| || Masculino | Femenino | Neutro |
 | :--- | :--- | :--- | :--- | :--- |
-| **kim**:brquién/cosa | sg. | **kam**:br⟪कम्⟫ | **kām**:br⟪काम्⟫ | **kim**:br⟪किम्⟫ |
-| | pl. | **kān**:br⟪कान्⟫ | **kās**:br⟪कास्⟫ | **kāni**:br⟪कानि⟫ |
-| **tad**:brél/eso/aquel | sg. | **tam**:br⟪तम्⟫ | **tām**:br⟪ताम्⟫ | **tad**:br⟪तद्⟫ |
-| | pl. | **tān**:br⟪तान्⟫ | **tās**:br⟪तास्⟫ | **tāni**:br⟪तानि⟫ |
-| **etad**:breste aquí | sg. | **etam / enam**:br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām**:br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad**:br⟪एतद्⟫ / ⟪एनद्⟫ |
-| | pl. | **etān / enān**:br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās**:br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni**:br⟪एतानि⟫ / ⟪एनानि⟫ |
-| **idam**:breste | sg. | **imam / enam**:br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām**:br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad**:br⟪इदम्⟫ / ⟪एनद्⟫ |
-| | pl. | **imān / enān**:br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās**:br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni**:br⟪इमानि⟫ / ⟪एनानि⟫ |
+| **kim**:brquién/cosa | sg. | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
+| | pl. | **kān** :br⟪कान्⟫ | **kās** :br⟪कास्⟫ | **kāni** :br⟪कानि⟫ |
+| **tad**:brél/eso/aquel | sg. | **tam** :br⟪तम्⟫ | **tām** :br⟪ताम्⟫ | **tad** :br⟪तद्⟫ |
+| | pl. | **tān** :br⟪तान्⟫ | **tās** :br⟪तास्⟫ | **tāni** :br⟪तानि⟫ |
+| **etad**:breste aquí | sg. | **etam / enam** :br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām** :br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad** :br⟪एतद्⟫ / ⟪एनद्⟫ |
+| | pl. | **etān / enān** :br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās** :br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni** :br⟪एतानि⟫ / ⟪एनानि⟫ |
+| **idam**:breste | sg. | **imam / enam** :br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām** :br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad** :br⟪इदम्⟫ / ⟪एनद्⟫ |
+| | pl. | **imān / enān** :br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās** :br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni** :br⟪इमानि⟫ / ⟪एनानि⟫ |
 :::
 Las formas **enam** (⟪एनम्⟫) etc. pertenecen a la raíz **enad** (⟪एनद्⟫), la cual forma casos solo en algunas declinaciones. Estas se usan en lugar de las formas de **etad** e **idam** cuando lo designado ya ha sido mencionado anteriormente.
 p.ej. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : "Él es un dios. Le sacrifican."
 
----
-
 ### 7.2.2. Uso del acusativo (dvitīyā f. = ⟪द्वितीया⟫ = "segunda terminación casuál")
 
-:::grammar-box
+::: grammar-box
 El acusativo (dvitīyā f. = ⟪द्वितीया⟫) designa:
 1. En la oración verbal no pasiva: el **objeto directo** (karman n. = ⟪कर्मन्⟫) de la acción expresada por el verbo:
    p. ej.
@@ -122,11 +118,9 @@ El acusativo (dvitīyā f. = ⟪द्वितीया⟫) designa:
 :::
 Otros usos del acusativo se tratarán más adelante.
 
----
-
 ## 7.3. Sandhi de la -n final
 
-:::grammar-box
+::: grammar-box
 **La -n final:**
 
 1. Se reemplaza por la nasal correspondiente a estos sonantes antes de los sparśa palatales y retroflejos sonoros y antes de **ś-**:
@@ -148,28 +142,26 @@ Otros usos del acusativo se tratarán más adelante.
 
 4. Excepto después de una vocal corta (ver más adelante), la **-n** final permanece inalterada en todos los demás casos.
 :::
----
 
 ## 7.4. El neutro (napuṃsaka n. = ⟪नपुंसक⟫)
 
-:::grammar-box
+::: grammar-box
 **En el neutro, las formas del nominativo (prathamā) y del acusativo (dvitīyā) son idénticas.**
 :::
 ### 7.4.1. Neutro de las raíces en -a
 
-:::grammar-box
+::: grammar-box
 - **Terminación Nominativo / Acusativo Singular: -m**
   p. ej. **phala** n. = ⟪फल⟫ = "fruto": Nom. / Ac. sg. **phalam** = ⟪फलम्⟫
 - **Terminación Nominativo / Acusativo Plural: -āni**
   p. ej. **phala** n. = ⟪फल⟫: Nom. / Ac. pl. **phalāni** = ⟪फलानि⟫
 :::
----
 
 ## 7.5. Clases de presente atemático
 
 La 5.ª clase de presente forma un llamado tema de presente atemático, es decir, el tema de presente no termina en la "vocal temática" **-a** como en las clases de presente temático (1., 4., 6., 10.ª clase).
 
-:::grammar-box
+::: grammar-box
 **Las clases de presente atemático tienen ablación del tema, es decir, existen dos formas del tema de presente:**
 1. **fuerte**: grado alto (raramente grado alargado)
 2. **débil**: grado bajo
@@ -183,14 +175,14 @@ La 5.ª clase de presente forma un llamado tema de presente atemático, es decir
 :::
 ### 7.5.1. Desinencias primarias de la tercera persona del plural en raíces atemáticas
 
-:::grammar-box
+::: grammar-box
 **En las raíces de presente atemáticas, las desinencias primarias de la tercera persona del plural son:**
 - **Parasmaipada: -anti**
 - **Ātmanepada: -ate**
 :::
 ### 7.5.2. La 5. clase de presente (svādi = ⟪स्वादि⟫ = "su, etc.")
 
-:::grammar-box
+::: grammar-box
 - **Tema fuerte**: (por lo general) raíz en grado cero (como se indica) + **-no-**
 - **Tema débil**: (por lo general) raíz en grado cero (como se indica) + **-nu-**
 
@@ -198,14 +190,12 @@ La 5.ª clase de presente forma un llamado tema de presente atemático, es decir
 :::
 **Ejemplos:**
 
-| Raíz:br⟪धातु⟫ | Tema fuerte | Tema débil | Ante vocal:br(débil) |
+| Raíz:br⟪धातु⟫ | Starker Tema | Schwacher Tema | Ante vocal:br(débil) |
 | :--- | :--- | :--- | :--- |
-| **āp**:br5 P:br⟪आप्⟫:br"alcanzar" | **āp-no**:br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv**:br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
-| **aś**:br5 Ā:br⟪अश्⟫:br"alcanzar" | — | **aś-nu**:br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv**:br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
-| **su**:br5 U:br⟪सु⟫:br"exprimir" | **su-no**:br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu**:br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv**:br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
-| **śru**:br5 P:br⟪श्रु⟫:br"oír" | **śṛ-ṇo**:br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv**:br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
-
----
+| **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
+| **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
+| **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
 ## 7.6. Lista de palabras
 
@@ -219,7 +209,7 @@ La 5.ª clase de presente forma un llamado tema de presente atemático, es decir
 - **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : oír (algo: acusativo, alguien: genitivo o acusativo; sobre: acusativo; de alguien: genitivo, ablativo, instrumental)
 - **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : prensar
 - **soma** m. ⟪सोम⟫ : bebida prensada, Soma; Luna (De qué planta se prensaba el Soma sigue siendo objeto de debate hasta el día de hoy).
-:::media
+::: media
 ![](/images/lekt0701.webp)
 Fig.: ¿Era esta la planta vedica del Soma?: Hongo matamoscas: *Amanita muscaria* (L.) Lam.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0701))
@@ -231,10 +221,6 @@ Fig.: ¿Era esta la planta vedica del Soma?: Hongo matamoscas: *Amanita muscaria
 - **aṅga** n. ⟪अङ्ग⟫ : miembro del cuerpo, parte; también = **vedāṅga** = ⟪वेदाङ्ग⟫
 - **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : ir (Según la clasificación de clases verbales nativa pertenece a la clase de presente 1, pero en realidad es una formación con un sufijo de formación de raíz de presente **-ccha-**: **gam** » grado profundo (**gm** ») **ga-ccha-ti**)
 
-
-
----
-
 ## 7.7. Ejercicio
 
 **A) Complete cada vez en singular y plural el objeto directo o el acusativo de dirección:**
@@ -242,7 +228,7 @@ Fig.: ¿Era esta la planta vedica del Soma?: Hongo matamoscas: *Amanita muscaria
 1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
    ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
 
-:::media
+::: media
 ![](/images/lekt0704.webp)
 Fig.: Viṣṇu = ⟪विष्णु⟫, siglos VIII/IX.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0704))
@@ -282,7 +268,7 @@ Fig.: Viṣṇu = ⟪विष्णु⟫, siglos VIII/IX.
 4. yajati.
    ⟪यजति⟫ |
 
-:::media
+::: media
 ![](/images/lekt0702.webp)
 Fig.: **yajati** = ⟪यजति⟫ — Sacrificio védico = **yajña** m. = ⟪यज्ञ⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0702))
@@ -303,7 +289,7 @@ Fig.: **yajati** = ⟪यजति⟫ — Sacrificio védico = **yajña** m. = �
    ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
 8. ¿A qué dios sacrifica este brahmán?
 
-:::media
+::: media
 ![](/images/lekt0703.webp)
 Fig.: ¿A qué dios se sacrifica aquí? Respuesta: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0703))
@@ -311,3 +297,4 @@ Fig.: ¿A qué dios se sacrifica aquí? Respuesta: Gaṇeśa (Gaṇapati) = ⟪�
 9. ¿Qué mastican este hombre sagrado?
 10. ¿Qué exprimen estos (aquí)?
 11. Él es el maestro. A él se escucha (= escuchan ellos).
+

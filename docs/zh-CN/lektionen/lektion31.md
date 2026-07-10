@@ -1,224 +1,228 @@
 ---
-title: Lektion 31
+title: 第31课
 lesson_id: 31
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 31
 
 ## 31.1. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.")
 
-::::grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**教育：**
 
-**Vor den auslautenden Konsonanten der tiefstufigen Wurzel wird ein sog. Nasalinfix (-na- bzw. -n-) eingeschoben:** <!-- TODO: Fallback translation -->
+**在低调词根的尾辅音前，插入一个所谓的鼻音词缀（-na- 或 -n-）：**
 
-*   **im starken Stamm: -na-** <!-- TODO: Fallback translation -->
-*   **im schwachen Stamm: -n-** <!-- TODO: Fallback translation -->
+*   **im starken Stamm: -na-**
+*   **im schwachen Stamm: -n-**
 
-**Für die Verbindung der Endkonsonanten der Wurzel mit konsonantisch beginnenden Endungen gelten dieselben Regeln wie für die 2. Präsensklasse.** <!-- TODO: Fallback translation -->
+**对于词根末尾辅音与以辅音开头的词尾的连接，适用与第二现在时类相同的规则。**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+例如：
 
-⟪युज्⟫ 7U "verbinden, anschirren" <!-- TODO: Fallback translation -->
+⟪युज्⟫ 7U “连接，套上”
 
-::::grammar-box
+::: grammar-box
 
-| | | Parasmaipada | Ātmanepada | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Indikativ** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) | <!-- TODO: Fallback translation -->
-| | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate | <!-- TODO: Fallback translation -->
-| **Optativ** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta | <!-- TODO: Fallback translation -->
-| | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran | <!-- TODO: Fallback translation -->
-| **Partizip Präsens** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | | <!-- TODO: Fallback translation -->
+| | | Parasmaipada | Ātmanepada |
+| :--- | :--- | :--- | :--- |
+| **直陈语气** | **第三人称单数** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br（词内软腭音前的鼻音以 -ṅ- 替代）|
+| | **第三人称复数** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
+| **虚拟语气** | **第三人称单数** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
+| | **第三人称复数** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
+| **现在分词** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:br阴性形式：⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
 :::
-⟪रुध्⟫ 7U "stoppen, zum Stillstand bringen" <!-- TODO: Fallback translation -->
+⟪रुध्⟫ 7U “停止，使静止”
 
-::::grammar-box
+::: grammar-box
 
-| | | Parasmaipada | Ātmanepada | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Indikativ** | **3. sg.** | ⟪रुणद्धि⟫:brru + na + dh + ti | ⟪रुन्द्धे⟫:brru-n + dh + te | <!-- TODO: Fallback translation -->
-| | **3. pl.** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate | <!-- TODO: Fallback translation -->
-| **Optativ** | **3. sg.** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta | <!-- TODO: Fallback translation -->
-| | **3. pl.** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran | <!-- TODO: Fallback translation -->
-| **Partizip Präsens** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | | <!-- TODO: Fallback translation -->
+| | | Parasmaipada | Ātmanepada |
+| :--- | :--- | :--- | :--- |
+| **直陈语气** | **第三人称单数** | ⟪रुणद्धि⟫:brru + na + dh + ti | ⟪रुन्द्धे⟫:brru-n + dh + te |
+| | **第三人称复数** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate |
+| **虚拟语气** | **第三人称单数** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta |
+| | **第三人称复数** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran |
+| **现在分词** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
 
-:::::::grammar-box
-**Bei einigen Wurzeln ist das -n- des schwachen Präsensstamms auch in außerpräsentische Tempora eingedrungen, sodass diese Wurzeln mit infigiertem Nasal angesetzt werden.** <!-- TODO: Fallback translation -->
 :::
-Beispiel: <!-- TODO: Fallback translation -->
-
-**⟪भञ्ज्⟫** 7P "brechen" <!-- TODO: Fallback translation -->
-
-:::indent
-*   Indikativ Präsens <!-- TODO: Fallback translation -->
-    *   3.sg.P. **⟪भनक्ति⟫** (bha-na + j + ti) <!-- TODO: Fallback translation -->
-    *   3.pl.P. **⟪भञ्जन्ति⟫** (bha + n + j-anti) <!-- TODO: Fallback translation -->
-*   Futur: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti) <!-- TODO: Fallback translation -->
-*   Passiv: **⟪भज्यते⟫** (entweder aus ursprünglicher Wurzel **⟪भज्⟫** oder aus *bhñj-ya-te) <!-- TODO: Fallback translation -->
-*   PPP: **⟪भग्न⟫** (evtl. aus *bhñj + na) <!-- TODO: Fallback translation -->
+::: grammar-box
+**在某些词根中，弱现在时词干中的 -n- 也渗透到了非现在时态中，因此这些词根被认为带有插入的鼻音。**
 :::
-## 31.2. Wortliste
+例如：
 
-**⟪युज्⟫** 7U **⟪युनक्ति⟫** : anschirren, anjochen, anspannen, befestigen ; Ā auch: sich anspannen (= sich anstrengen), sich verbinden mit, sich konzentrieren auf (Lokativ, ⟪सप्तमी⟫) <!-- TODO: Fallback translation -->
-:::indent
-**Fut. ⟪योक्ष्यति⟫**
-**Pass. ⟪युज्यते⟫**
-**Kaus. ⟪योजयति⟫**
+**⟪भञ्ज्⟫** 7P “brechen”
+
+::: indent
+*   现在时直陈式
+    *   第三人称单数 **⟪भनक्ति⟫** (bha-na + j + ti)
+    *   第三人称复数 **⟪भञ्जन्ति⟫** (bha + n + j-anti)
+*   将来时: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
+*   被动语态: **⟪भज्यते⟫** (要么源自原始词根 **⟪भज्⟫**，要么源自 *bhñj-ya-te)
+*   过去分词: **⟪भग्न⟫** (可能源自 *bhñj + na)
+:::
+## 31.2. 词汇表
+
+**⟪युज्⟫** 7U **⟪युनक्ति⟫**：套上，系上，绑紧，固定；Ā 亦：用力（= 努力），与……结合，专注于（与格，⟪सप्तमी⟫）
+::: indent
+**将来时 ⟪योक्ष्यति⟫**
+**被动语态 ⟪युज्यते⟫**
+**使役 ⟪योजयति⟫**
 **PPP ⟪युक्त⟫**
-**Inf. ⟪योक्तुम्⟫** <!-- TODO: Fallback translation -->
+**不定式 ⟪योक्तुम्⟫**
 
 davon:
-**⟪युग⟫ n. -&gt; ⟪युग⟫ n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter: <!-- TODO: Fallback translation -->
-1. **⟪कृत⟫** <!-- TODO: Fallback translation -->
-2. **⟪त्रेता⟫** <!-- TODO: Fallback translation -->
-3. **⟪द्वापर⟫** <!-- TODO: Fallback translation -->
-4. **⟪कलि⟫** <!-- TODO: Fallback translation -->
+**⟪युग⟫ n. → ⟪युग⟫ n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
+1. **⟪कृत⟫**
+2. **⟪त्रेता⟫**
+3. **⟪द्वापर⟫**
+4. **⟪कलि⟫**
 
-Das **⟪कलियुग⟫** begann um 3102 v. Chr., dem Jahr des **⟪महाभारत⟫**-Krieges. Näheres bei Basham, Wonder S. 323) <!-- TODO: Fallback translation -->
+**⟪कलियुग⟫** 始于公元前3102年，即**⟪महाभारत⟫**战争之年。详见Basham，《奇迹》第323页）
 
-**⟪योग⟫ m.:** "Anschirrung, Anspannung", Anstrengung, Verbindung, Yoga (siehe dazu Basham, Wonder S. 327ff.) <!-- TODO: Fallback translation -->
-::::::media
+**⟪योग⟫ m.**：“束缚，张紧”，努力，联系，瑜伽（参见Basham，《奇迹》第327页及以下）
+:::: media
 ![](/images/lekt3101.webp)
-Abb.: ⟪योगः⟫
-Yoga-Darstellung.
-(Bildquelle: [Details](/licenses#lekt3101)) <!-- TODO: Fallback translation -->
+图：⟪योगः⟫
+瑜伽图示。
+（图片来源：[详情](/zh-CN/licenses#lekt3101)）
+::::
 :::
-**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : stoppen, zum Stillstand bringen, zurückhalten = einschließen, verdecken <!-- TODO: Fallback translation -->
-:::indent
-**Fut. ⟪रोत्स्यति⟫**
-**Pass. ⟪रुध्यते⟫**
-**Kaus. ⟪रोधयति⟫**
+**⟪रुध्⟫** 7U **⟪रुणद्धि⟫**：停止，使静止，抑制 = 包含，遮蔽
+::: indent
+**将来时 ⟪रोत्स्यति⟫**
+**被动语态 ⟪रुध्यते⟫**
+**使役 ⟪रोधयति⟫**
 **PPP ⟪रुद्ध⟫**
-**Inf. ⟪रोद्धुम्⟫** <!-- TODO: Fallback translation -->
+**不定式 ⟪रोद्धुम्⟫**
 :::
-**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : abschneiden <!-- TODO: Fallback translation -->
-:::indent
-**Fut. ⟪छेत्स्यति⟫**
-**Pass. ⟪छिद्यते⟫**
-**Kaus. ⟪छेदयति⟫**
+**⟪छिद्⟫** 7U **⟪छिनत्ति⟫**：切断
+::: indent
+**将来时 ⟪छेत्स्यति⟫**
+**被动语态 ⟪छिद्यते⟫**
+**使役 ⟪छेदयति⟫**
 **PPP ⟪छिन्न⟫**
-**Inf. ⟪छेत्तुम्⟫** <!-- TODO: Fallback translation -->
+**不定式 ⟪छेत्तुम्⟫**
 :::
-**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : (etwas) zerbrechen <!-- TODO: Fallback translation -->
-:::indent
-**Fut. ⟪भङ्क्ष्यति⟫**
-**Pass. ⟪भज्यते⟫**
-**PPP ⟪भग्न⟫** <!-- TODO: Fallback translation -->
+**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫**：（某物）破碎
+::: indent
+**将来时 ⟪भङ्क्ष्यति⟫**
+**被动语态 ⟪भज्यते⟫**
+**PPP ⟪भग्न⟫**
 :::
-**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : salben, beschmieren <!-- TODO: Fallback translation -->
-:::indent
-**Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
-**Pass. ⟪अज्यते⟫**
-**Kaus. ⟪अञ्जयति⟫**
+**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫**：涂抹，抹上
+::: indent
+**将来时 ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
+**被动语态 ⟪अज्यते⟫**
+**使役 ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
-**Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫** <!-- TODO: Fallback translation -->
+**不定式 ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
 :::
-**⟪अञ्ज्⟫ + vi -&gt; ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : auseinanderschmieren = sich schminken, sich unterschieden machen <!-- TODO: Fallback translation -->
-:::indent
-**PPP ⟪व्यक्त⟫ :** unterschieden, entfaltet <!-- TODO: Fallback translation -->
+**⟪अञ्ज्⟫ + vi -\> ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫**：分开涂抹 = 化妆，区分自己
+::: indent
+**PPP ⟪व्यक्त⟫：** 区分，展开
 
-davon:
-**⟪व्यञ्जन⟫ n.:** Unterscheidungsmittel = Schminke, Gewürz, Kennzeichen, Konsonant (das, wodurch die Bedeutungen unterschieden werden) <!-- TODO: Fallback translation -->
-::::::media
+由此：
+**⟪व्यञ्जन⟫ n.:** 区分手段 = 化妆品、香料、特征、辅音（即区分意义之物）
+:::: media
 ![](/images/lekt3102.webp)
-Abb.: ⟪व्यञ्जनम्⟫
-Vorbereitung zum Kathakali-Tanz, Kochi.
-(Bildquelle: [Details](/licenses#lekt3102)) <!-- TODO: Fallback translation -->
+图： ⟪व्यञ्जनम्⟫
+卡塔卡利舞（Kathakali）的准备工作，科契。
+（图片来源：[详情](/zh-CN/licenses#lekt3102)）
+::::
 :::
-**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : spalten <!-- TODO: Fallback translation -->
-:::indent
-**Fut. ⟪भेत्स्यति⟫**
-**Pass. ⟪भिद्यते⟫**
-**Kaus. ⟪भेदयति⟫**
-**PPP ⟪भिन्न⟫**
-**Inf. ⟪भेत्तुम्⟫** <!-- TODO: Fallback translation -->
+**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** ：劈开
+::: indent
+**将来时 ⟪भेत्स्यति⟫**
+**被动语态 ⟪भिद्यते⟫**
+**使役式 ⟪भेदयति⟫**
+**过去被动分词 (PPP) ⟪भिन्न⟫**
+**不定式 ⟪भेत्तुम्⟫**
 :::
-**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : genießen (z.B. Essen ; "die Erde genießen" = die Erde beherrschen) <!-- TODO: Fallback translation -->
-:::indent
-**Fut. ⟪भोक्ष्यति⟫**
-**Pass. ⟪भुज्यते⟫**
-**Kaus. ⟪भोजयति⟫**
-**PPP bhukt -&gt; PPP ⟪भुक्त⟫**
-**Inf. ⟪भोक्तुम्⟫** <!-- TODO: Fallback translation -->
+**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** ：享受（例如食物；“享受大地” = 统治大地）
+::: indent
+**将来时 ⟪भोक्ष्यति⟫**
+**被动语态 ⟪भुज्यते⟫**
+**使役式 ⟪भोजयति⟫**
+**过去被动分词 (PPP) bhukt -\> 过去被动分词 (PPP) ⟪भुक्त⟫**
+**不定式 ⟪भोक्तुम्⟫**
 
 davon:
-**⟪भोग⟫ m.:** Genuss, Essen, Lust, Nutzen, Steuer, Abgabe <!-- TODO: Fallback translation -->
+**⟪भोग⟫ m.:** 享受，食物，欲望，利益，税，费用
 :::
-**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): binden, anbinden <!-- TODO: Fallback translation -->
-:::indent
+**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): 绑定，系紧
+::: indent
 **Fut. ⟪भन्त्स्यति⟫**
 **Pass. ⟪बध्यते⟫**
 **Kaus. ⟪बन्धयति⟫**
 **PPP ⟪बद्ध⟫**
-**Inf. ⟪बद्धुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪बद्धुम्⟫**
 
 davon:
-**⟪बन्धन⟫ n.:** Binden, Fessel <!-- TODO: Fallback translation -->
+**⟪बन्धन⟫ n.:** 束缚，锁链
 :::
-**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : erkennen, verstehen <!-- TODO: Fallback translation -->
-:::indent
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : 认识，理解
+::: indent
 davon:
-**⟪प्रज्ञा⟫ f.:** Weisheit, Erkenntnis <!-- TODO: Fallback translation -->
-::::::media
+**⟪प्रज्ञा⟫ f.:** 智慧，认知
+:::: media
 ![](/images/lekt3103.webp)
-Abb.: ⟪प्रज्ञापारमिता⟫
+图：⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
-(Bildquelle: [Details](/licenses#lekt3103)) <!-- TODO: Fallback translation -->
+(图片来源：[详情](/zh-CN/licenses#lekt3103))
+::::
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : entstehen, existieren <!-- TODO: Fallback translation -->
+**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : 产生，存在
 
-**⟪शरीर⟫ n.:** Leib, Körper <!-- TODO: Fallback translation -->
+**⟪शरीर⟫ n.:** 身体，躯体
 
 ## 31.3. Übung
 
-A) Übersetzen Sie folgende Sätze und lösen Sie die Komposita auf: <!-- TODO: Fallback translation -->
+A) 翻译以下句子并分解复合词：
 
-⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫
 
-⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫ ⟪॥२॥⟫
 
-:::media
+::: media
 ![](/images/lekt3105.jpg)
-Abb.: ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
-Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War.
-(Bildquelle: [Details](/licenses#lekt3105)) <!-- TODO: Fallback translation -->
+图：⟪⟪शस्त्राणि⟫⟫ ⟪⟪शरीरमेव⟫⟫ ⟪⟪छिन्दन्ति⟫⟫ ⟪⟪जीवस्तु⟫⟫ ⟪⟪न⟫⟫ ⟪⟪म्रियत⟫⟫ ⟪⟪इति⟫⟫ ⟪⟪भगवद्गीतायां⟫⟫ ⟪⟪भगवतोच्यते⟫⟫
+1965年印巴战争期间，印度陆军第18骑兵团的坦克正在行进。
+（图片来源：[详情](/zh-CN/licenses#lekt3105)）
 :::
-⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪⟪बुद्ध्या⟫⟫ ⟪⟪युक्तो⟫⟫ ⟪⟪दुःखान्मुच्यते⟫⟫ ⟪⟪तस्मान्मोक्षमिच्छन्नरो⟫⟫ ⟪⟪योगेन⟫⟫ ⟪⟪युञ्जीत⟫⟫ ⟪⟪॥३॥⟫⟫
 
-⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫
 
-:::media
+::: media
 ![](/images/lekt3104.webp)
-Abb.: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
+图：⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
 Rāhula, der Sohn Buddhas, Laos.
-(Bildquelle: [Details](/licenses#lekt3104)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt3104)）
 :::
-⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
-B) Bilden Sie zu folgenden Wurzeln der 7. Klasse alle 3. Personen Singular und Plural, P und Ā, des Indikativ und Optativ Präsens: <!-- TODO: Fallback translation -->
+B) 为以下第七类词根，构成第三人称单数和复数，P（Parasmaipada）和Ā（Ātmanepada）语态的现在时直陈式和虚拟式：
 
-⟪१⟫. ⟪छिद्⟫ <!-- TODO: Fallback translation -->
+⟪१⟫。⟪छिद्⟫
 
-⟪२⟫. ⟪भिद्⟫ <!-- TODO: Fallback translation -->
+⟪२⟫。⟪भिद्⟫
 
-⟪३⟫. ⟪भुज्⟫ <!-- TODO: Fallback translation -->
+⟪३⟫。⟪भुज्⟫
 
-⟪४⟫. ⟪अञ्ज्⟫ (nur P) <!-- TODO: Fallback translation -->
+⟪४⟫。⟪अञ्ज्⟫（仅P）
 
-⟪५⟫. ⟪भञ्ज्⟫ (nur P) <!-- TODO: Fallback translation -->
+⟪५⟫。⟪भञ्ज्⟫（仅P）
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt3101:** Yoga-Darstellung. [Bildquelle: Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
+**lekt3101:** Yoga-Darstellung. [Bildquelle: Flickr, 2008-12-25. CC BY]
 
-**lekt3102:** Vorbereitung zum Kathakali-Tanz, Kochi. [Bildquelle: winchrisabi. Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
+**lekt3102:** 卡塔克利舞（Kathakali）排练，科钦。[图片来源：winchrisabi。Flickr，2008-12-25。CC BY]
 
-**lekt3103:** Aus einem Prajñāpāramitā-Manuskript. [Bildquelle: zeno.org. Gemeinfrei] <!-- TODO: Fallback translation -->
+**lekt3103:** 出自《般若波罗蜜多》手稿。[图片来源：zeno.org。公有领域]
 
-**lekt3105:** Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War. [Bildquelle: Hari Singh Deora / Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt3105:** Panzer des 18. Kavallerieregiments (Indische Armee) während des Indo-Pakistan-Krieges 1965. [Bildquelle: Hari Singh Deora / Wikipedia. Gemeinfrei]
 
-**lekt3104:** Rāhula, der Sohn Buddhas, Laos. [Bildquelle: Sacca / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
+**lekt3104:** 佛陀之子罗睺罗，老挝。[图片来源：Sacca / 维基百科。GNU FDL]
 :::

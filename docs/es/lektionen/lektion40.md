@@ -1,13 +1,17 @@
 ---
+title: Lektion 40
+subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lección 40
 
 ## 40.1. ⟪सुभाषितानि⟫
 
-:::indent
+::: indent
 ⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫  
 ⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫  
 ⟪पात्रत्वाद्धनमाप्नोति⟫  
@@ -22,7 +26,8 @@ last_reconstructed: 2026-05-21
 ⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫  
 ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫  
 ⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥३॥⟫
-::::::media
+:::
+::: media
 ![lekt4005.jpg](/images/lekt4005.webp)
 Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4005))
@@ -31,14 +36,15 @@ Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 
 Desinencias de la primera persona (⟪तृतीयः⟫) en el perfecto (⟪लिट्⟫)
 
-::::grammar-box
+::: grammar-box
 
-| **⟪परस्मैपदम्⟫** | ← | **⟪आत्मनेपदम्⟫** | ← |
+| ⟪परस्मैपदम्⟫ | ← | ⟪आत्मनेपदम्⟫ | ← |
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **-a** | **-ma** | **-e** | **-mahe** |
 
-:::::::grammar-box
+:::
+::: grammar-box
 Obsérvese que las desinencias de la primera persona singular P,Ā son idénticas a las de la tercera persona singular. Por consiguiente, en todos los tipos de perfecto excepto los tipos III(a,b) y V(a,b,c), las formas de la primera persona singular P y Ā son siempre idénticas a las de la tercera persona singular P y Ā, respectivamente.
 
 En el tipo IV, la primera persona singular P termina en -au, igual que la tercera persona singular P.
@@ -46,7 +52,8 @@ En el tipo IV, la primera persona singular P termina en -au, igual que la tercer
 En los tipos de perfecto III y V, la primera persona singular Ā es siempre idéntica a la tercera persona singular Ā.
 
 En los tipos de perfecto III y V, la primera persona singular P y la tercera persona singular P son opcionalmente idénticas: la tercera persona singular P debe estar siempre en grado de extensión (dehnstufig) en estos tipos de formación, mientras que la primera persona singular P puede estar opcionalmente en grado alto (hochstufig) o en grado de extensión.
-::::::grammar-box
+:::
+::: grammar-box
 Ante desinencias que comienzan por consonante, la mayoría de las raíces insertan la vocal de unión -i-.
 
 Excepto ante la desinencia -re, ante la cual debe insertarse siempre -i-, la vocal de unión ante desinencias que comienzan por consonante no aparece en ocho raíces terminadas en -ṛ o -u, a saber:
@@ -75,25 +82,25 @@ Verbos que siguen este tipo:
 
 ⟪बन्ध्⟫ 9P
 
-:::indent
+::: indent
 *   1.sg.P ⟪बबन्ध⟫
 *   1.pl.P ⟪बबन्धिम⟫
 :::
 ⟪जीव्⟫ 1P
 
-:::indent
+::: indent
 *   1.sg.P ⟪जिजीव⟫
 *   1.pl.P ⟪जिजिविम⟫
 :::
 ⟪अश्⟫ 5Ā
 
-:::indent
+::: indent
 *   1.sg.Ā ⟪आनशे⟫
 *   1.pl.Ā ⟪आनशिमहे⟫
 :::
 ⟪अस्⟫ 2P y ⟪अस्⟫ 4P
 
-:::indent
+::: indent
 *   1.sg.P ⟪आस⟫
 *   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
 :::
@@ -105,20 +112,20 @@ Verbos que siguen este tipo:
 
 ⟪भिद्⟫ 7U
 
-:::indent
+::: indent
 *   1.sg.P ⟪बिभेद⟫
-    
+
 *   1.pl.P ⟪बिभिदिम⟫
-    
+
 *   1.sg.Ā ⟪बिभिदे⟫
-    
+
 *   1.pl.Ā ⟪बिभिदिमहे⟫
 :::
 ⟪मुह्⟫ 4P facultativo ⟪अनिट्⟫
 
-:::indent
+::: indent
 *   1.sg.P ⟪मुमोह⟫
-    
+
 *   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
 :::
 ### 40.2.3. Tipo de Perfecto III: Raíz fuerte en grado pleno/gradación larga
@@ -134,42 +141,42 @@ Verbos que siguen este tipo:
 
 ⟪इ⟫ 2P
 
-:::indent
+::: indent
 *   1.sg.P ⟪इयाय⟫ ⟪।⟫ ⟪इयय⟫ (i+e+a)
-    
+
 *   1.pl.P ⟪ईयिम⟫ (i+iy+i+ma)
 :::
 ⟪नी⟫ 1U
 
-:::indent
+::: indent
 *   1.sg.P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫
-    
+
 *   1.pl.P ⟪निन्यिम⟫ (ni-nī + i + ma !!!)
-    
+
 *   1.sg.Ā ⟪निन्ये⟫
-    
+
 *   1.pl.Ā ⟪निन्यिमहे⟫
 :::
 ⟪स्तु⟫ 2U estrictamente ⟪अनिट्⟫
 
-:::indent
+::: indent
 *   1.sg.P ⟪तुष्टाव⟫ ⟪।⟫ ⟪तुष्टव⟫ (tu-sto + a)
-    
+
 *   1.pl.P ⟪तुष्टुम⟫
-    
+
 *   1.sg.Ā ⟪तुष्टुवे⟫
-    
+
 *   1.pl.Ā ⟪तुष्टुमहे⟫
 :::
 ⟪कृ⟫ 8U estrictamente ⟪अनिट्⟫
 
-:::indent
+::: indent
 *   1.sg.P ⟪चकार⟫ ⟪।⟫ ⟪चकर⟫
-    
+
 *   1.pl.P ⟪चकृम⟫
-    
+
 *   1.sg.Ā ⟪चक्रे⟫
-    
+
 *   1.pl.Ā ⟪चकृमहे⟫
 :::
 #### 40.2.3.2. Tipo de Perfecto IIIb: Raíz fuerte en grado pleno/gradación larga, raíz fuerte en grado pleno
@@ -181,27 +188,27 @@ Verbos que siguen este tipo:
 
 ⟪पॄ⟫ 3P
 
-:::indent
+::: indent
 *   1.sg.P ⟪पपार⟫ ⟪।⟫ ⟪पपर⟫
-    
+
 *   1.pl.P ⟪पपरिम⟫
 :::
 ⟪स्मृ⟫ 1P
 
-:::indent
+::: indent
 *   1.sg.P ⟪सस्मार⟫ ⟪।⟫ ⟪सस्मर⟫
-    
+
 *   1.pl.P ⟪सस्मरिम⟫
 :::
 ⟪संस्कृ⟫ 8U
 
-:::indent
+::: indent
 *   1.sg.P ⟪सञ्चस्कार⟫ ⟪।⟫ ⟪सञ्चस्कर⟫
-    
+
 *   1.pl.P ⟪सञ्चस्करिम⟫
-    
+
 *   1.sg.Ā ⟪सञ्चस्करे⟫
-    
+
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
 :::
 ### 40.2.4. Tipo IV del perfecto: raíces terminadas en -ā / -ai
@@ -214,13 +221,13 @@ Verbos que siguen este tipo:
 
 ⟪दा⟫ 3U
 
-:::indent
+::: indent
 *   1.sg.P ⟪ददौ⟫
-    
+
 *   1.pl.P ⟪ददिम⟫ (da-d-i-ma)
-    
+
 *   1.sg.Ā ⟪ददे⟫
-    
+
 *   1.pl.Ā ⟪ददिमहे⟫
 :::
 ### 40.2.5. Tipo V del Perfecto: Consonante-a-Consonante
@@ -231,7 +238,7 @@ Verbos que siguen este tipo:
 
 Verbos que siguen este tipo:
 
-:::indent
+::: indent
 1.  gam "ir"
 2.  han (»ghan) "golpear"
 3.  jan "nacer"
@@ -242,65 +249,65 @@ Verbos que siguen este tipo:
 :::
 ⟪गम्⟫ 1P
 
-:::indent
+::: indent
 *   1.sg.P ⟪जगाम⟫ ⟪।⟫ ⟪जगम⟫
-    
+
 *   1.pl.P ⟪जग्मिम⟫ (ja-gm-i-ma)
 :::
 ⟪हन्⟫ 2P
 
-:::indent
+::: indent
 *   1.sg.P ⟪जघान⟫ ⟪।⟫ ⟪जघन⟫
-    
+
 *   1.pl.P ⟪जघ्निम⟫
 :::
 ⟪जन्⟫ 4Ā
 
-:::indent
+::: indent
 *   1.sg.Ā ⟪जज्ञे⟫
-    
+
 *   1.pl.Ā ⟪जज्ञिमहे⟫
 :::
 ⟪वच्⟫ 2P
 
-:::indent
+::: indent
 *   1.sg.P ⟪उवाच⟫ ⟪।⟫ ⟪उवच⟫
-    
+
 *   1.pl.P ⟪ऊचिम⟫ (u + uc-ima)
 :::
 ⟪वद्⟫ 1P (Ā)
 
-:::indent
+::: indent
 *   1.sg.P ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫
-    
+
 *   1.pl.P ⟪ऊदिम⟫
-    
+
 *   1.sg.Ā ⟪ऊदे⟫
-    
+
 *   1.pl.Ā  ⟪ऊदिमहे⟫
 :::
 ⟪यज्⟫ 1U
 
-:::indent
+::: indent
 *   1.sg.P ⟪इयाज⟫ ⟪।⟫ ⟪इयज⟫
-    
+
 *   1.pl.P ⟪ईजिम⟫
-    
+
 *   1.sg.Ā ⟪ईजे⟫
-    
+
 *   1.pl.Ā ⟪ईजिमहे⟫
 :::
 #### 40.2.5.2. Tipo Vb del Perfecto: Consonante-a-Consonante, consonante inicial no gutural, no aspirada, no h, raíz débil sin reduplicación, con -e-
 
 ⟪पच्⟫ 1U
 
-:::indent
+::: indent
 *   1.sg.P ⟪पपाच⟫ ⟪।⟫ ⟪पपच⟫
-    
+
 *   1.pl.P ⟪पेचिम⟫
-    
+
 *   1.sg.Ā ⟪पेचे⟫
-    
+
 *   1.pl.Ā ⟪पेचिमहे⟫
 :::
 #### 40.2.5.3. Tipo Vc del Perfecto: Consonante-a-Consonante, raíz débil en grado fuerte (Hochstufe)
@@ -311,38 +318,38 @@ Verbos que siguen este tipo:
 
 ⟪क्रम्⟫ 1U
 
-:::indent
+::: indent
 *   1.sg.P ⟪चक्राम⟫ ⟪।⟫ ⟪चक्रम⟫
-    
+
 *   1.pl.P ⟪चक्रमिम⟫
-    
+
 *   1.sg.Ā ⟪चक्रमे⟫
-    
+
 *   1.pl.Ā ⟪चक्रमिमहे⟫
 :::
 ### 40.2.6. Formaciones especiales del perfecto
 
 ⟪विद्⟫ 2P perfecto presente:
 
-:::indent
+::: indent
 *   1.sg.P ⟪वेद⟫ (= 3.sg.P)
-    
+
 *   1.pl.P ⟪विद्म⟫
 :::
 ⟪अह्⟫ 1ª persona no es de uso común.
 
 ⟪भू⟫ 1P
 
-:::indent
+::: indent
 *   1.sg.P ⟪बभूव⟫ (= 3.sg.P)
-    
+
 *   1.pl.P ⟪बभूविम⟫
 :::
 ⟪जि⟫ 1P
 
-:::indent
+::: indent
 *   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
-    
+
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
 :::
 ## 40.3. Formación de las formas verbales de la primera persona del perfecto perifrástico (⟪अनुप्रयोगलिट्⟫)
@@ -362,52 +369,56 @@ El perfecto perifrástico se forma a partir de:
 
 ⟪ईक्ष्⟫ 1Ā
 
-:::indent
+::: indent
 *   1.sg.Ā ⟪ईक्षां⟫ ⟪चक्रे⟫ ⟪।⟫ ⟪ईक्षामास⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूव⟫
-    
+
 *   1.pl.Ā ⟪ईक्षां⟫ ⟪चकृमहे⟫ ⟪।⟫ ⟪ईक्षामासिम⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूविम⟫
 :::
 ⟪बन्ध्⟫ Causativo P: ⟪बन्धयति⟫
 
-:::indent
+::: indent
 *   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P)
-    
+
 *   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
 :::
 ## 40.4. Aspectos sintácticos sobre la primera persona (⟪तृतीयः⟫)
 
-:::grammar-box
+::: grammar-box
 Dado que un verbo finito (verbo conjugado) expresa por sí mismo el Agente (⟪कर्तृ⟫), no es necesario añadir un pronombre personal para expresar "yo" o "nosotros" en oraciones verbales no pasivas con verbo finito.
 :::
 ## 40.5. Pronombres personales (⟪पुरुषार्थकसर्वनाम⟫) de la primera persona, singular y plural
 
-:::grammar-box
+::: grammar-box
 La forma del pronombre personal (pronombre personal) es la misma para todos los géneros.
-:::::::grammar-box
+:::
+::: grammar-box
 
-| | **⟪एकवचनम्⟫**:br"yo" | **⟪बहुवचनम्⟫**:br"nosotros" |
+| | ⟪एकवचनम्⟫ :br"ich" | ⟪बहुवचनम्⟫ :br"wir" |
 | :---: | :---: | :---: |
-| **⟪प्रथमा⟫** | **⟪अहम्⟫** | **⟪वयम्⟫** |
-| **⟪द्वितीया⟫** | **⟪माम्⟫** / **⟪मा⟫** | **⟪अस्मान्⟫** / **⟪नस्⟫** |
-| **⟪तृतीया⟫** | **⟪मया⟫** | **⟪अस्माभिस्⟫** |
-| **⟪चतुर्थी⟫** | **⟪मह्यम्⟫** / **⟪मे⟫** | **⟪अस्मभ्यम्⟫** / **⟪नस्⟫** |
-| **⟪पञ्चमी⟫** | **⟪मत्⟫** | **⟪अस्मत्⟫** |
-| **⟪षष्ठी⟫** | **⟪मम⟫** / **⟪मे⟫** | **⟪अस्माकम्⟫** / **⟪नस्⟫** |
-| **⟪सप्तमी⟫** | **⟪मयि⟫** | **⟪अस्मासु⟫** |
+| ⟪प्रथमा⟫ | ⟪अहम्⟫ | ⟪वयम्⟫ |
+| ⟪द्वितीया⟫ | ⟪माम्⟫ / ⟪मा⟫ | ⟪अस्मान्⟫ / ⟪नस्⟫ |
+| ⟪तृतीया⟫ | ⟪मया⟫ | ⟪अस्माभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪मह्यम्⟫ / ⟪मे⟫ | ⟪अस्मभ्यम्⟫ / ⟪नस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪मत्⟫ | ⟪अस्मत्⟫ |
+| ⟪षष्ठी⟫ | ⟪मम⟫ / ⟪मे⟫ | ⟪अस्माकम्⟫ / ⟪नस्⟫ |
+| ⟪सप्तमी⟫ | ⟪मयि⟫ | ⟪अस्मासु⟫ |
 
-:::::::grammar-box
+:::
+::: grammar-box
 Las formas más cortas, que aparecen en segundo lugar en la tabla anterior (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), nunca deben utilizarse al inicio de una oración o verso.
 
 Ante las partículas ⟪च⟫, ⟪वा⟫, ⟪एव⟫, tampoco se pueden emplear estas denominadas formas enclíticas:
 
 solo: ... ⟪मां⟫ ⟪च⟫ ... "y a mí"
-::::::grammar-box
+:::
+::: grammar-box
 El genitivo (⟪षष्ठी⟫) de los pronombres personales se utiliza como pronombre posesivo:
 
 ⟪मम⟫ ⟪।⟫ ⟪मे⟫ = "mi"
 
 ⟪अस्माकम्⟫ ⟪।⟫ ⟪नस्⟫ = "nuestro"
-::::::grammar-box
+:::
+::: grammar-box
 Como primer miembro de compuestos, estos pronombres tienen las siguientes raíces:
 
 *   sg. ⟪मद्⟫
@@ -425,7 +436,7 @@ p. ej. ⟪मत्पुस्तकम्⟫ "mi libro" ; ⟪अस्मद�
 
 ⟪कॢप्⟫ 1Ā ⟪कल्पते⟫: estar en orden correcto, corresponder a (Loc.); formarse, constituirse; decidirse por, conformarse con (Dat.)
 
-:::indent
+::: indent
 Perf. II ⟪चकॢप⟫é facultativo ⟪अनिट्⟫  
 Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
 Caus. ⟪कल्पयति⟫: poner en orden, crear, formar en la fantasía, imaginarse  
@@ -438,14 +449,14 @@ de ello:
 :::
 ⟪कॢप्⟫ + ⟪वि⟫ Caus. ⟪विकल्पयति⟫: (imaginarse de diversas maneras =) cuestionar, dudar
 
-:::indent
+::: indent
 de ello:
 
 ⟪विक्ल्प⟫ m.: Alternativa, duda
 :::
 ⟪तुद्⟫ 6U ⟪तुदति⟫: golpear
 
-:::indent
+::: indent
 Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
 Fut. ⟪तोत्स्यति⟫  
 Pass. ⟪तुद्यते⟫  
@@ -455,7 +466,7 @@ Inf. ⟪तोत्तुम्⟫
 :::
 ⟪तॄ⟫ 1P ⟪तरति⟫: cruzar, sobrepasar, salvarse de alguien (Akk. = sobrepasar a alguien)
 
-:::indent
+::: indent
 Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
 Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫  
 Pass. ⟪तीर्यते⟫  
@@ -466,13 +477,17 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 de ello:
 
 ⟪तीर्थ⟫ n.: Vado, lugar sagrado de baños, lugar de peregrinaje
-::::::media
+:::
+::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4003))
-::::::indent
+:::
+
+::: indent
 ⟪तीर्थङ्कर⟫ m. (de: ⟪तीर्थम्⟫+ ⟪कृ⟫): Hacedor de vados (a través del sufrimiento) = los 24 maestros de los jainistas
-::::::media
+:::
+::: media
 ![lekt4002.jpg](/images/lekt4002.webp)
 Fig.: ⟪तीर्थङ्करः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4002))
@@ -481,18 +496,19 @@ Fig.: ⟪तीर्थङ्करः⟫
 
 ⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫: descender
 
-:::indent
+::: indent
 de ello:
 
 ⟪अवतार⟫ m.: (Descendedor, descenso) Encarnación de un dios, especialmente las 10 encarnaciones de Viṣṇu (véase Basham, Maravillas, págs. 304 - 309)
-::::::media
+:::
+::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
 Fig.: ⟪विष्णोर्दशावताराः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4001))
 :::
 ⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫: dormir, acostarse a dormir
 
-:::indent
+::: indent
 Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
 Perf. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
 Fut. ⟪स्वप्स्यति⟫  
@@ -506,7 +522,8 @@ de ello:
 ⟪स्वप्न⟫ m.: Sueño, sueño onírico
 
 ⟪सुप्ति⟫ f. (de \*svp-ti): Sueño, especialmente sueño profundo
-::::::media
+:::
+::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
 Fig.: ⟪स्वपन्ति⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4004))
@@ -630,8 +647,7 @@ B) Transforme las siguientes formas verbales en sus correspondientes formas de p
 37.  ⟪आह⟫
 38.  ⟪आहन्⟫
 
-:::deleteme-box
-
+::: deleteme-box
 
 - **Image lekt4005.jpg** (Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫): Vadaseri, Distrito de Thanjavur = தஞ்சாவூர் மாவட்டam [Fuente de la imagen: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Acceso el 2009-01-02. -- Licencia Creative Commons (Atribución, Compartir Igual)]
 - **Image lekt4003.jpg** (Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫): [Fuente de la imagen: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Acceso el 2009-01-02. -- Licencia Creative Commons (Atribución)]

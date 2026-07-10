@@ -111,7 +111,7 @@ etair guravas tu śrūyante.
 
 ⟪एतैर्गुरवस्तु⟫ ⟪श्रूयन्ते⟫ ⟪।⟫
 
-Ils écoutent mais leurs maîtres.
+Ils écoutent cependant leurs maîtres.
 
 13\. sādhuḥ svargamāpnoti. ⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫
 
@@ -119,7 +119,7 @@ sādhunā svarga āpyate.
 
 ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्यते⟫ ⟪।⟫
 
-Un saint atteint le ciel.
+Un saint obtient le ciel.
 
 14\. brāhmāṇāḥ somaṃ sunvanti. ⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫
 
@@ -127,7 +127,7 @@ brāhmaṇaiḥ somaḥ sūyate.
 
 ⟪ब्राह्मणैः⟫ ⟪सोमः⟫ ⟪सूयते⟫ ⟪।⟫
 
-Les Brāhmaṇes pressent le Soma.
+Les Brahmanes pressent le Soma.
 
 15\. paśūṃllabhate. ⟪पशूल्ंलभते⟫
 
@@ -147,13 +147,13 @@ Quels soldats combattent (ensemble) avec les Kṣatriyas ?
 
 D) Traduisez en sanskrit :
 
-1\. Un Brāhmaṇe se rend au village avec un Vaiśya.
+1\. Un Brahmane va au village avec un Vaiśya.
 
 brāhmano vaiśyena saha grāmaṃ gacchati.
 
 ⟪ब्राह्मणो⟫ ⟪वैश्येन⟫ ⟪सह⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 
-2\. Il vénère Viṣṇu par un sacrifice. (exprimer le sacrifice par yajña !)
+2\. Il vénère Viṣṇu avec un sacrifice. (Exprimer le sacrifice par yajña !)
 
 yajñena viṣṇuṃ yajati / yajate.
 
@@ -171,52 +171,52 @@ tantraṃ tanyate / tāyate / tanvanti.
 
 ⟪तन्त्रं⟫ ⟪तन्यते⟫ / ⟪तायते⟫ / ⟪तन्वन्ति⟫ ⟪।⟫
 
-5\. Les enseignants posent des questions. (construction passive)
+5\. Les enseignants posent des questions. (Construction passive)
 
 gurubhiḥ pṛcchyate.
 
 ⟪गुरुभिः⟫ ⟪प्र्च्छ्यते⟫ ⟪।⟫
 
-6\. L’œil conduit. (construction passive) (Les yeux et les oreilles sont normalement au duel)
+6\. L'œil conduit. (Construction passive) (L'œil et l'oreille sont normalement au duel)
 
 netreṇa nīyate.
 
 ⟪नेत्रेण⟫ ⟪नीयते⟫ ⟪।⟫
 
-7\. Le poète voit une divinité. (construction passive)
+7\. Le poète voit une divinité. (Construction passive)
 
 kavinā devatā dṛśyate.
 
 ⟪कविना⟫ ⟪देवता⟫ ⟪दृश्यते⟫ ⟪।⟫
 
-8\. Qui (fém.) garde la jeune fille ? (construction passive)
+8\. Qui (fém.) garde la jeune fille ? (Construction passive)
 
 kayā bālā rakṣyate.
 
 ⟪कया⟫ ⟪बाला⟫ ⟪रक्ष्यते⟫ ⟪।⟫
 
-9\. Le Kṣatriya vénère le SEIGNEUR par un sacrifice. (construction passive, sans utiliser le mot yajña)
+9\. Le Kṣatriya vénère le SEIGNEUR avec un sacrifice. (Construction passive, sans utiliser le mot yajña)
 
 kṣatriyeṇeśvara ijyate.
 
 ⟪क्षत्रियेनेश्वर⟫ ⟪इज्यते⟫ ⟪।⟫
 
-10\. Par la générosité, un disciple de Bouddha atteint un ciel.
+10\. Par la générosité, un disciple du Bouddha obtient un ciel.
 
 dānena śrāvakaḥ svargam āpnoti / aśnute.
 
 ⟪दानेन⟫ ⟪श्रावकः⟫ ⟪स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung011.webp)
 Fig. : ⟪ग्रामः⟫
-(Source de l'image : [Détails](/fr/licenses#uebung011))
+(Source de l'image : [Détails](/licenses#uebung011))
 :::
 ---
 
 ## Exercice de lecture
 
-Lisez et traduisez, puis mettez à la voix passive :
+Lisez et traduisez, puis mettez à la forme passive :
 
 **⟪क⟫**
 
@@ -231,7 +231,7 @@ Lisez et traduisez, puis mettez à la voix passive :
 > ⟪नीचैः⟫ ⟪कलह⟫ ⟪इष्यते⟫
 > ⟪शान्तिरिष्यते⟫ ⟪साध⟫u⟪भिः⟫ ⟪॥⟫
 
-Les mouches à mouche souhaitent une blessure,
+Les mouches souhaitent une blessure,
 Les rois souhaitent la richesse,
 Les vils souhaitent la discorde,
 Les saints souhaitent la paix.
@@ -246,7 +246,7 @@ Les poètes convoitent la richesse.
 
 ⟪४⟫. ⟪ऋषिः⟫ ⟪सूक्तानि⟫ ⟪पश्यति⟫ |
 ⟪ऋषिणा⟫ ⟪सूक्तानि⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
-Le sage védique voit les hymnes védiques.
+Le sage védique voit les chants védiques.
 
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ |
 ⟪विष्णुरृषिणेज्यते⟫ ⟪।⟫
@@ -254,29 +254,29 @@ Der vedische Weise opfert Viṣṇu.
 
 ⟪६⟫. ⟪गुरूञ्शिष्यांश्च⟫ ⟪पश्यति⟫ |
 ⟪गुरवः⟫ ⟪शिष्याश्च⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
-Il voit le maître et l'élève.
+Il voit les maîtres et les élèves.
 
 ⟪७⟫. ⟪स्वर्गं⟫ ⟪लभन्ते⟫ |
 ⟪स्वर्गो⟫ ⟪लभ्यते⟫ ⟪।⟫
-Ils obtiennent le ciel.
+Ils atteignent le ciel.
 
 ⟪८⟫. ⟪अत्रर्षिर्भानुं⟫ ⟪वन्दते⟫ |
 ⟪अत्रर्षिणा⟫ ⟪भानुर्वन्स्यते⟫ ⟪।⟫
-Là, un sage védique salue le soleil.
+Un sage védique y accueille le soleil.
 
 ⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
 ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
-Ils vont au village.
+Ils entrent dans le village.
 
 ⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
 ⟪दानानि⟫ ⟪वृष्यन्ते⟫ ⟪नृपैः⟫ ⟪॥⟫
-Les rois font pleuvoir des cadeaux.
+Les rois font pleuvoir des offrandes.
 
 **⟪ख⟫**
 
 ⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ |
 ⟪सदा⟫ ⟪देवाः⟫ ⟪स्मर्यन्ते।⟫
-Ils se rappellent toujours les dieux.
+Ils se représentent constamment les dieux.
 
 ⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ |
 ⟪ऋषिभिः⟫ ⟪सह⟫ ⟪रामेणोष्यते⟫ ⟪।⟫
@@ -284,15 +284,15 @@ Rāma wohnt bei den vedischen Weisen.
 
 ⟪३⟫. ⟪हरिं⟫ ⟪क्षीरेण⟫ ⟪यजति⟫ |
 ⟪हरिः⟫ ⟪क्षीरेणेज्यते⟫ ⟪।⟫
-Il vénère Hari avec un sacrifice de lait.
+Il vénère Hari par un sacrifice de lait.
 
 ⟪४⟫. ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
 ⟪मार्गेन⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪मार्गेन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
-Ils vont sur le chemin au village.
+Ils marchent sur le chemin vers le village.
 
 ⟪५⟫. ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪नराः⟫ |
 ⟪धनेने⟫ ⟪नरैः⟫ ⟪सुखमिष्यते⟫ ⟪।⟫
-Les hommes veulent le bonheur par la richesse.
+Les gens souhaitent le bonheur par la richesse.
 
 ⟪६⟫. ⟪एवं⟫ ⟪वदन्ति⟫ |
 ⟪एवमुद्यते⟫ ⟪।⟫
@@ -300,7 +300,7 @@ Ainsi dit-on.
 
 ⟪७⟫. ⟪शान्त्यर्षय⟫ ⟪इह⟫ ⟪शोभन्ते⟫ |
 ⟪शान्त्यर्षिभिरिह⟫ ⟪शुभ्यते⟫ ⟪।⟫
-Sur terre, les saints brillent par la pacificité.
+Sur terre, les saints brillent par leur pacificité.
 
 ⟪८⟫. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
 ⟪कपिभिः⟫ ⟪फलानि⟫ ⟪खाद्यन्ते⟫ ⟪।⟫
@@ -318,8 +318,8 @@ Hari rentre chez lui.
 ⟪सारथिना⟫ ⟪रथो⟫ ⟪नीयते⟫ ⟪॥⟫
 Le cocher conduit le char.
 
-:::media
+::: media
 ![](/images/uebung012.webp)
 Fig. : ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
-(Source de l'image : [Détails](/fr/licenses#uebung012))
+(Source de l'image : [Détails](/licenses#uebung012))
 :::

@@ -15,9 +15,7 @@ For the formation of compounds whose first member ends in consonantal stems, the
 
 Final guttural, retroflex, dental, and labial stops (i.e., not nasals and not palatals).
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -25,14 +23,12 @@ Final guttural, retroflex, dental, and labial stops (i.e., not nasals and not pa
 | **before voiced non-nasal sounds** | **Replacement by the corresponding voiced unaspirated sound:** :br **e.g.** :br [[indent]] -t + g- » -dg- :br [[indent]] -k + b- » -gb- :br [[indent]] -dh + d- » -dd- :br [[indent]] -k + a- » -ga- |
 | **before nasals** | **Replacement by the corresponding nasal:** :br **e.g.** :br [[indent]] -t + n- » -nn- :br [[indent]] -p + n- » -mn- |
 
-:::::::
+:::
 Exception to the above rule:
 
 Final dental stop (not nasal):
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -41,7 +37,7 @@ Final dental stop (not nasal):
 | **before retroflexes** | **Replacement by the relevant unaspirated retroflex:** :br **i.e.** :br [[indent]] -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br [[indent]] -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
 | **before l-** | **Replacement by -l:** :br **i.e.** :br [[indent]] -t/-th/-d/-dh + l- » -ll- |
 
-:::::::
+:::
 Examples:
 
 ⟪तद्⟫ + ⟪फल⟫ = ⟪तत्फल⟫
@@ -64,7 +60,7 @@ Examples:
 
 ⟪अध्यापन⟫ n.: Teaching, instruction
 
-:::media
+::: media
 ![](/images/lekt1602.webp)
 Fig.: ⟪अध्यापनम्⟫
 "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the occasion of Mahāśivarātri. This is a Vedic school where children memorize the sacred texts known as the Vedas. The school teaches the Krishna Yajurveda and certain portions of the Samaveda. I am writing my master’s thesis on this school."
@@ -76,14 +72,14 @@ Fig.: ⟪अध्यापनम्⟫
 
 from this:
 
-:::indent
+::: indent
 ⟪अनृशंस्य⟫ n.: Absence of cruelty
 :::
 ⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : to live
 
 from this:
 
-:::indent
+::: indent
 ⟪आजीव⟫ m.: livelihood
 :::
 ⟪क्षमा⟫ f.: Patience, forbearance, tolerance
@@ -98,7 +94,7 @@ from this:
 
 ⟪योग⟫ m.: Harnessing, connection, union, acquisition; Yoga
 
-:::media
+::: media
 ![](/images/lekt1601.webp)
 Fig.: ⟪योगी⟫
 Birla Mandir, Delhi
@@ -114,7 +110,7 @@ Birla Mandir, Delhi
 
 ⟪अहिंसा⟫ f.: The act of harming no one, non-injury, non-violence
 
-:::media
+::: media
 ![](/images/lekt1603.jpg)
 Fig.: ⟪अहिंसा⟫
 "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the center is 'ahimsa.' The wheel represents the dharmacakra, which stands for the resolve to halt the cycle of reincarnation through the relentless pursuit of truth and non-violence."
@@ -132,7 +128,7 @@ A) Transform the following expressions into Tatpuruṣa compounds and translate 
 
 ⟪४⟫. ⟪पशुमन्तो⟫ ⟪जनाः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1604.webp)
 Fig.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 ⟪हरियाणा⟫ / ਹਰਿਆਣਾ
@@ -233,7 +229,7 @@ B) Translate and resolve all Sanskrit compounds:
 
 (Kaṭhīya Arthaśāstra 1.3.5-8, 13)
 
-:::indent
+::: indent
 Explanations;
 
 Sentence 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom./Akk.: Dvandva, denoting two "things"
@@ -244,7 +240,7 @@ Sentence 13: ⟪सर्वेषाम्⟫ Gen. pl. masc. from ⟪सर्�
 :::
 3. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 
 **lekt1601:** Birla Mandir, Delhi [Image source: Deepak / Wikipedia; Creative Commons License (Attribution, ShareAlike)]

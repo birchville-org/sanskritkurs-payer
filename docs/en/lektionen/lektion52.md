@@ -1,150 +1,155 @@
 ---
-title: Lesson 52
-subtitle: "Neuter of Stems in -i and -u"
+title: Lektion 52
+subtitle: "Neutrum der Stämme auf -i und -u"
 lesson_id: 52
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
 # Lesson 52
 
-## 52.1. Neuter of stems ending in -i and -u
+## 52.1. Neuter of stems in -i and -u
 
-:::grammar-box
-**Before endings starting with a vowel, an -n- is inserted; this is an influence of the n-stems (-in).**
-::::::grammar-box
-| | **⟪वारि⟫ n.:br"water"** | **⟪मधु⟫ n.:br"honey"** |
-| :--- | :---: | :---: |
-| **⟪एकवचनम्⟫** |||
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫** | ⟪वारि⟫ | ⟪मधु⟫ |
-| **⟪तृतीया⟫** | ⟪वारिणा⟫ | ⟪मधुना⟫ |
-| **⟪चतुर्थी⟫** | ⟪वारिणे⟫ | ⟪मधुने⟫ |
-| **⟪पञ्चमी⟫** | ⟪वारिणस्⟫ | ⟪मधुनस्⟫ |
-| **⟪षष्ठी⟫** | ⟪वारिणस्⟫ | ⟪मधुनस्⟫ |
-| **⟪सप्तमी⟫** | ⟪वारिणि⟫ | ⟪मधुनि⟫ |
-| **⟪आमन्त्रितम्⟫** | ⟪वारि⟫:br⟪वारे⟫ | ⟪मधु⟫:br⟪मधो⟫ |
-| **⟪बहुवचनम्⟫** |||
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪वारीणि⟫ | ⟪मधूनि⟫ |
-| **⟪तृतीया⟫** | ⟪वारिभिस्⟫ | ⟪मधुभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪वारिभ्यस्⟫ | ⟪मधुभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪वारिभ्यस्⟫ | ⟪मधुभ्यस्⟫ |
-| **⟪षष्ठी⟫** | ⟪वारीणाम्⟫ | ⟪मधूनाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪वारिषु⟫ | ⟪मधुषु⟫ |
+::: grammar-box
+**Before endings beginning with a vowel, an -n- is inserted; this is an influence of the n-stems (-in).**
 :::
-## 52.2. Nominal Derivation
+::: grammar-box
+| | **⟪वारि⟫ n.:br"Wasser"** | **⟪मधु⟫ n.:br"Honig"** |
+| :--- | :---: | :---: |
+| ⟪एकवचनम्⟫ |||
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫** | ⟪वारि⟫ | ⟪मधु⟫ |
+| ⟪तृतीया⟫ | ⟪वारिणा⟫ | ⟪मधुना⟫ |
+| ⟪चतुर्थी⟫ | ⟪वारिणे⟫ | ⟪मधुने⟫ |
+| ⟪पञ्चमी⟫ | ⟪वारिणस्⟫ | ⟪मधुनस्⟫ |
+| ⟪षष्ठी⟫ | ⟪वारिणस्⟫ | ⟪मधुनस्⟫ |
+| ⟪सप्तमी⟫ | ⟪वारिणि⟫ | ⟪मधुनि⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪वारि⟫:br⟪वारे⟫ | ⟪मधु⟫:br⟪मधो⟫ |
+| ⟪बहुवचनम्⟫ |||
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪वारीणि⟫ | ⟪मधूनि⟫ |
+| ⟪तृतीया⟫ | ⟪वारिभिस्⟫ | ⟪मधुभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪वारिभ्यस्⟫ | ⟪मधुभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪वारिभ्यस्⟫ | ⟪मधुभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪वारीणाम्⟫ | ⟪मधूनाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪वारिषु⟫ | ⟪मधुषु⟫ |
+:::
+## 52.2. Nominal formation
 
-### 52.2.1. PPP + -vant: Past Participle of the Parasmaipada
+### 52.2.1. PPP + -vant: Past participle Parasmaipada
 
-:::grammar-box
-**A past participle of the Parasmaipada is formed as follows:**
+::: grammar-box
+**A past participle Parasmaipada is formed as follows:**
 
 **PPP + -vant / fem.: vatī**
-**Declension like the stems in -vant respectively f. ⟪देवी⟫**
+**Declension like the stems in -vant or f. ⟪देवी⟫**
 :::
 PPP + -vant / fem.: vatī
 
-Declension like the stems in -vant respectively f. ⟪देवी⟫
+Declension like the stems in -vant or f. ⟪देवी⟫
 
 Examples:
 
-:::indent
-⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "one/one, who/who has done"
+::: indent
+⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "one/one, who/that has done"
 
 ⟪भिन्नवन्त्⟫ "one who has split"
 :::
-### 52.2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
+### 52.2.2. ⟪तद्धित⟫-suffix -maya / -mayī
 
-:::grammar-box
-**The ⟪तद्धित⟫-suffix -maya / f.: -mayī forms adjectives from nouns with the meaning**
+::: grammar-box
+**The ⟪तद्धित⟫-suffix -maya / f.: -mayī forms adjectives from nouns meaning**
 
 *   **"made of"**
 *   **"consisting of"**
 *   **"rich in"**
 
-**Before -maya (as before -⟪मात्र⟫), final plosives of the citation form must be replaced by their corresponding nasal.**
+**Before -maya (as before -⟪मात्र⟫), final plosives of the pause form must be replaced by their corresponding nasal.**
 :::
 Examples:
 
-:::indent
+::: indent
 ⟪अन्नमय⟫ 3 "rich in food"
 
 ⟪चिन्मय⟫ 3 (to ⟪चित्⟫ f. "intellect") "consisting of thought / mind"
 
 ⟪वाङ्मय⟫ 3 (to ⟪वाच्⟫ f. "language") "consisting of speech"
 
-⟪सोममय⟫ 3 "made of Soma, consisting of Soma"
-::::::grammar-box
-**Nouns ending in -maya are occasionally used as neuter nouns and then denote an abundance of what is designated by the noun to which -maya is added.**
-::::::indent
+⟪सोममय⟫ 3 "made of soma, consisting of soma"
+:::
+::: grammar-box
+**Nouns in -maya are occasionally used as neuter nouns and then denote abundance of what is designated by the noun to which -maya is added.**
+:::
+::: indent
 e.g. ⟪अन्नमय⟫ n. "abundance of food"
-::::::media
+:::
+::: media
 ![](/images/lekt5202.webp)
 Fig.: ⟪अन्नमयम्⟫
 ⟪विवाहः⟫, Chennai = சென்னை
 (Image source: [Details](/en/licenses#lekt5202))
 :::
-### 52.2.3. ⟪तद्धित⟫-Suffix -eya
+### 52.2.3. ⟪तद्धित⟫-suffix -eya
 
-:::grammar-box
-**The ⟪तद्धित⟫-suffix -eya / f.: -eyī occurs, among other things, with Feminines in the sense of**
+::: grammar-box
+**The ⟪तद्धित⟫-suffix -eya / f.: -eyī occurs, among other things, on feminine nouns in the sense of**
 
-*   **"Child of"**
-*   **"Descendant of"**
+*   **"child of"**
+*   **"descendant of"**
 
-**Guna-stage (⟪वृद्धि⟫) of the first vowel.**
+**Guna (⟪वृद्धि⟫) of the first vowel.**
 
-e.g. ⟪कौन्तेय⟫ m. "Son of ⟪कुन्ती⟫"
-::::::media
+e.g. ⟪कौन्तेय⟫ m. "son of ⟪कुन्ती⟫"
+:::
+::: media
 ![](/images/lekt5203.webp)
 Fig.: ⟪भीमः⟫ ⟪कौन्तेयः⟫
 Wayang figure, Java, Indonesia
 (Image source: [Details](/en/licenses#lekt5203))
 :::
-## 52.3. Adverbial Formation: Adverbial Suffix -śas
+## 52.3. Adverbial formation: adverbial suffix -śas
 
-:::grammar-box
-**The adverbial suffix -śas forms adverbs of (mainly) distributive meaning from:**
+::: grammar-box
+**The adverbial suffix -śas forms adverbs from (mainly) distributive meaning:**
 
-*   **Numeral words**  
+*   **numerals**  
     Examples:  
-    ⟪एकशस्⟫ "individually, one by one"  
-    ⟪द्विशस्⟫ "in pairs, two by two"  
-    ⟪शतशस्⟫ "by hundreds, a hundred at a time"
+    ⟪एकशस्⟫ "one by one, each one"  
+    ⟪द्विशस्⟫ "in pairs, each two"  
+    ⟪शतशस्⟫ "in hundreds, each hundred"
 
 *   **other words**  
     Examples:  
     ⟪भागशस्⟫ "part by part"  
     ⟪सर्वशस्⟫ "everywhere, all without exception"  
-    ⟪नित्यशस्⟫ "constantly"
-::::::media
+    ⟪नित्यशस्⟫ "constant"
+:::
+::: media
 ![](/images/lekt5204.webp)
 Fig.: ⟪अनुक्रमेणैकशः⟫
 Queue before temple, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Image source: [Details](/en/licenses#lekt5204))
 :::
-## 52.4. Verbal compounds that express that something becomes or is made what it was not before (⟪अभुततद्भावः⟫)
+## 52.4. Verbal compounds expressing that something becomes or is made into something it was not before (⟪अभुततद्भावः⟫)
 
-### 52.4.1. cvi-formations
+### 52.4.1. cvi formations
 
-:::grammar-box
-**Before the roots**
+::: grammar-box
+**Prefixing roots**
 
 *   **⟪कृ⟫ 8U "to do"**
 *   **⟪अस्⟫ 2P "to be"**
 *   **⟪भू⟫ 1P "to become"**
 
-**nouns and adjectives can be placed as preverbs to express that someone makes a person or thing into that, or that a person or thing becomes what is designated by that noun.**
+**nouns and adjectives can be placed as prefixes to express that someone makes a person or thing into that, or that a person or thing becomes what is denoted by that noun.**
 
-**The ending of the noun is treated as follows:**
+**The final sound of the noun is treated as follows:**
 
-
-The ending of the noun is treated as follows:
+The final sound of the noun is treated as follows:
 
 *   **final -a and -ā of declinable words are replaced by -ī  **
     Examples:  
     ⟪कृष्णीभवति⟫ "something that is not black becomes black"  
-    ⟪कृष्णीकरोति⟫ "he makes something that is not black black"  
+    ⟪कृष्णीकरोति⟫ "he makes something that is not black, black"  
     ⟪गङ्गीभवति⟫ "he/she becomes the Ganges"  
 
 *   **final -i and -u are replaced by the corresponding long vowel  **
@@ -160,98 +165,101 @@ The ending of the noun is treated as follows:
 
 *   **other multi-stem nouns stand in the form of the stem they have in the locative (⟪सप्तमी⟫) plural. The stem then undergoes the usual sandhi rules. See Kielhorn, Grammar § 489,3.  **
     e.g. ⟪तिर्यक्करोति⟫ "he lies aside (⟪तिर्यच्⟫)"
-::::::media
+:::
+::: media
 ![](/images/lekt5209.webp)
 Fig.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
-Slash-and-burn agriculture, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
+Shifting cultivation, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (Image source: [Details](/en/licenses#lekt5209))
 :::
 ### 52.4.2. Suffix -sāt
 
-:::grammar-box
-**To express that a person or thing becomes completely what is denoted by a noun, or that someone makes something or someone completely what is denoted by a noun, the**
+::: grammar-box
+**To express that a person or thing becomes completely that, or that someone makes something or someone entirely into what is denoted by a noun, the noun can be**
 
-**suffix -sāt (which never becomes -ṣāt)**
+**the suffix -sāt (which never becomes -ṣāt)**
 
-**can be attached to the noun and the word thus formed connected with the roots**
+**attached and the word thus formed combined with the roots**
 
 *   ⟪कृ⟫ 8U "to do"
 *   ⟪अस्⟫ 2P "to be"
 *   ⟪भू⟫ 1P "to become"
 *   ⟪सम्⟫-⟪पद्⟫ 4Ā
 
-**to form a verbal compound.**
+**into a verbal compound.**
 :::
 Examples:
 
-:::indent
+::: indent
 ⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫ "he becomes completely fire"
 
-⟪भस्मसात्करोति⟫ "he transforms completely into ash (⟪भस्मन्⟫ n. 'ash'))
-::::::grammar-box
-**Sometimes the suffix -sāt means that a person or thing**
+⟪भस्मसात्करोति⟫ "he transforms completely into ash (⟪भस्मन्⟫ n. 'ash')"
+:::
+::: grammar-box
+**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
 
+*   **who becomes dependent on or**
+*   **who comes into possession of that**
+*   **or that someone makes dependent on that**
 
-*   **to become dependent on that**
-*   **or to pass into the possession of that**
-*   **or that someone makes that dependent on that**
-
-**which is denoted by the noun**
+**that which is designated by the noun**
 :::
 Example:
 
-:::indent
+::: indent
 ⟪राजसाद्भवति⟫ "he becomes dependent on the king, he becomes the property of the king"
-:::::::grammar-box
-**After formations with -sāt, roots are not treated as after prefixes, thus Absolutive:**
+:::
+::: grammar-box
+**According to the formations with -sāt, roots are not treated as after preverbs, i.e., absolutive:**
 
-:::indent
-⟪भस्मसात्कृ⟫***⟪त्वा⟫***
-:::::::
+:::
+::: indent
+⟪भस्मसात्कृ⟫*⟪त्वा⟫*
+:::
 ## 52.5. Word repetitions (⟪द्विरुक्तम्⟫)
 
-::::grammar-box
+::: grammar-box
 **Word repetition expresses in Sanskrit:**
 
 *   **Repetition of the action**  
     e.g. ⟪पुनः⟫ ⟪पुनः⟫ "again and again"
 *   **Distribution**  
     Examples:  
-    ⟪पृथक्पृथक्⟫ "separately, each individually"  
+    ⟪पृथक्पृथक्⟫ "each separately, each individually"  
     ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "whatever ... all that"  
-    ⟪युगे⟫ ⟪युगे⟫ "in each individual age"
+    ⟪युगे⟫ ⟪युगे⟫ "in each individual world age"
 
-**Occasionally, a compound can be formed from such combinations**
+**Occasionally, a compound can be formed from such connections**
 
+:::
 Examples:
 
-:::indent
+::: indent
 ⟪एकैक⟫ 3 "each individual"
 ⟪अल्पाल्प⟫ 3 "very small"
 ⟪नवनव⟫ 3 "always new"
 :::
-Regarding the so-called ⟪आम्रेडित⟫ compounds, in which inflected words are repeated, but the second received an accent in pre-classical times, thus constituting a compound, see Wackernagel, Altindische Grammatik II,1 pp. 142ff.
-::::
-## 52.6. The Numeral (⟪सम्ख्या⟫ f.)
+Regarding the so-called ⟪आम्रेडित⟫ compounds, in which inflected words are repeated, but the second received an accent in pre-classical times, i.e., a compound is present, see Wackernagel, Altindische Grammatik II,1 p. 142ff.
+## 52.6. The numeral (⟪सम्ख्या⟫ f.)
 
-See, for example, Kielhorn, Grammar §201f. for what is not treated here.
+Not treated here, see e.g. at Kielhorn, Grammar §201f.
 
-### 52.6.1. Cardinal Numbers
+### 52.6.1. Cardinal numbers
 
-#### 52.6.1.1. Number Adjectives (for 1 to 19)
+#### 52.6.1.1. Numeral adjectives (for 1 to 19)
 
-:::grammar-box
-**The number words for *1 to 19* are adjectives.**
-**The number words for **1 to 4** differ in declension for the three genders.**
+::: grammar-box
+**The numerals for *1 to 19* are adjectives.**
+**The numerals for **1 to 4** are different in declension for the three genders.**
 
-**For the number words for **5 to 19** ***(⟪नवदशन्⟫)*** there is only one single declension for the three genders.**
+**For the numerals for **5 to 19** ***(⟪नवदशन्⟫)*** there is only one single declension for the three genders.**
 
-**For these number adjectives, as for all adjectives: it must stand in the same case, number, and gender as the associated noun and vice versa (i.e., for 1 singular, for 2 dual, for the rest plural).**
+**For these numeral adjectives, as for all adjectives: it must stand in the same case, number, and gender as the associated noun and vice versa (i.e., for 1 singular, for 2 dual, for the rest plural).**
 :::
-Number adjectives:
+Numeral adjectives:
 
-:::indent
-1 ⟪एक⟫ 3 (Declension like ⟪सर्व⟫, in plural: "some")
+::: indent
+1 ⟪एक⟫ 3 (declension like ⟪सर्व⟫, in plural: "some")
 2 ⟪द्वि⟫ 3
 3 ⟪त्रि⟫ 3
 4 ⟪चतुर्⟫ 3
@@ -264,148 +272,160 @@ Number adjectives:
 :::
 The declension follows at the appropriate place in the word lists.
 
-For the further number adverbs up to 19 see e.g. in Kielhorn, Grammar §201.
+The further numeral adverbs up to 19 see e.g. at Kielhorn, Grammar §201.
 
-#### 52.6.1.2. Number Nouns (for 19ff.)
+#### 52.6.1.2. Numeral nouns (for 19ff.)
 
-::::grammar-box
-**The number words for *19 (⟪एकोनविंशति⟫* "one less than 20") *to 99* are feminine nouns and are declined like ⟪मति⟫ f. or root nouns on -t (e.g. ⟪त्रिंशत्⟫ f.).**
+::: grammar-box
+**The numerals for *19 (⟪एकोनविंशति⟫* "one less than 20") *to 99* are feminine nouns and are declined like ⟪मति⟫ f. or root nouns on -t (e.g. ⟪त्रिंशत्⟫ f.).**
 
+:::
 Examples:
 
-:::indent
+::: indent
 20 ⟪विंशति⟫ f.:br
 30 ⟪त्रिंशत्⟫ f.
 :::
-**The number words for numbers **from 100** are neuter nouns. They are declined like ⟪फलम्⟫.**
+
+::: grammar-box
+
+**The numerals for numbers **from 100** are neuter nouns. They are declined like ⟪फलम्⟫.**
+:::
 
 Examples:
 
-:::indent
+::: indent
 100 ⟪शत⟫ n.:br
 1000 ⟪सहस्र⟫ n.
 :::
-For the individual number nouns see e.g. in Kielhorn, Grammar §201.
-::::
-#### 52.6.1.3. Syntax of Cardinal Numbers
+The individual numeral nouns see e.g. at Kielhorn, Grammar §201.
+#### 52.6.1.3. Syntax regarding the cardinal numbers
 
-:::grammar-box
-**The difference between verbal adjectives and verbal nouns for cardinal numbers results in the following consequence for syntax:**
-*   adjectival cardinal number words can only be connected to the noun for the counted items like adjectives  
+::: grammar-box
+**From the difference between verbal adjectives and verbal nouns for cardinal numbers, the following consequence arises for syntax:**
+*   adjectival cardinal numerals can only be connected to the noun for the counted items like adjectives  
     e.g. ⟪तिसृभिर्नारीभिः⟫ "by three women"  
-*   substantive cardinal number words can be connected to the noun for the counted items in three ways
+*   substantive cardinal numerals can be connected to the noun for the counted items in three ways
     *   they govern the genitive (⟪षष्ठी⟫) of the counted items  
         e.g. ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "by 20 women"  
-    *   they stand as an apposition in the same case (but in the singular) as the counted items  
+    *   they stand as apposition in the same case (but in the singular) as the counted items  
         e.g. ⟪विंशत्या⟫ ⟪नारीभिः⟫ "by 20 women" 
     *   they stand as the second member of a ⟪तत्पुरुष⟫ with the counted items as the first member  
-        e.g. ⟪गोविंशत्या⟫ "by 20 cows" 
+        e.g. ⟪गोविंशत्या⟫ "by 20 cows"
 
 :::
-### 52.6.2. Ordinal Numbers
+### 52.6.2. Ordinal numbers
 
-See, for example, in Kielhorn, Grammar §201f.
+See e.g. in Kielhorn, Grammar §201f.
 
-### 52.6.3. Numeral Adverbs
+### 52.6.3. Numeral adverbs
 
 a) "-times":
 
-:::indent
+::: indent
 once: ⟪सकृत्⟫
 twice: ⟪द्विस्⟫
-three times: ⟪त्रिस्⟫
+thrice: ⟪त्रिस्⟫
 four times: ⟪चतुस्⟫
-five times and so on is formed with the suffix ***\-⟪कृत्वस्⟫***: ⟪पञ्चकृत्वस्⟫
+five times etc. is formed with the suffix ***\-⟪कृत्वस्⟫***: ⟪पञ्चकृत्वस्⟫
 :::
 b) "-fold": is expressed with the suffix ***\-⟪धा⟫***
 
-:::indent
+::: indent
 simple: ⟪एकधा⟫
-double: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
-and so on
+twofold: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
+etc.
 :::
 c) "each ...", "to ...": is expressed with the suffix ***\-⟪शस्⟫*** (see above!)
 
-:::indent
-⟪द्विशस्⟫ "in twos, each two"
+::: indent
+⟪द्विशस्⟫ "to two, each two"
 :::
-### 52.6.4. Numeral Adjectives
+### 52.6.4. Numeral adjectives
 
 "-fold":
 
-:::indent
+::: indent
 twofold, consisting of two
 threefold, consisting of three parts
 
-from 4 onwards, "-fold" is expressed by the suffix ***\-⟪तय⟫ (f.: -⟪तयी⟫)***: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "fourfold"
+from 4 onwards "-fold" is expressed by the suffix ***\-⟪तय⟫ (f.: -⟪तयी⟫)***: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "fourfold"
 :::
 Further formations can be found in dictionaries or grammars.
 
-### 52.6.5. Compounds with Cardinal Numbers in the First Member
+### 52.6.5. Compounds with cardinal numbers in the first member
 
-:::grammar-box
-**⟪बहुव्रीहि⟫ these are formed completely regularly.**
+::: grammar-box
+**⟪बहुव्रीहि⟫ are formed quite regularly.**
 :::
 Example:
 
-:::indent
-⟪चतुर्मुख⟫ m. "one who has four faces" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (a name of Brahmā)
-::::::media
+::: indent
+⟪चतुर्मुख⟫ m. "one, who has four faces" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (an epithet of Brahmā)
+:::
+::: media
 ![](/images/lekt5205.webp)
 Fig.: ⟪चतुर्मुखः⟫
 (Image source: [Details](/en/licenses#lekt5205))
-::::::grammar-box
+:::
+
+::: grammar-box
 **⟪तत्पुरुष⟫ with a cardinal number in the first member may not be formed arbitrarily:**
 
-**Rule 1: Words that designate a cardinal direction (such as ⟪पूर्व⟫ 3 "eastern", ⟪उत्तर⟫ 3 "northern"), and words for cardinal numbers may form a ⟪कर्मधारय⟫-compound with other words only if the compound is used as a proper name.**
+**Rule 1: Words that designate a direction (such as ⟪पूर्व⟫ 3 "eastern", ⟪उत्तर⟫ 3 "northern"), and words for cardinal numbers, may form a ⟪कर्मधारय⟫-compound with other words only if the compound is used as a proper name.**
 :::
 Therefore, for example, from ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "northern trees" or ⟪पञ्च⟫ ⟪ब्राह्मणः⟫ no Tatpuruṣa may be formed. From ⟪सप्तन्⟫ and ⟪ऋषि⟫, however, the Tatpuruṣa ⟪सप्तर्षि⟫ m. "the seven Ṛṣis" may be formed, if this stands as the name for the constellation of the Great Bear (Ursa maior).
-:::media
+::: media
 ![](/images/lekt5206.jpg)
 Fig.: ⟪सप्तर्षयः⟫
-The Big Dipper = the seven brightest stars of the Big Bear (Ursa maior)
+The seven-starred constellation = the seven brightest stars of the Great Bear (Ursa maior)
 (Image source: [Details](/en/licenses#lekt5206))
-::::::grammar-box
-**Rule 2: Deviating from Rule 1, a word that designates a cardinal direction or a cardinal number may form a Tatpuruṣa with another noun if**
+:::
 
-1.  a Taddhita suffix is attached to the compound formed in this way  
+::: grammar-box
+**Rule 2: Deviating from Rule 1, a word that designates a direction or a cardinal number may form a Tatpuruṣa with another noun if**
+
+1.  a Taddhita suffix is attached to the compound thus formed  
     Examples:  
-    pūrva + śālā ("hall) » \*pūrvaśālā (may not be used in this way!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "located in the eastern hall"  
+    pūrva + śālā ("hall) » \*pūrvaśālā (must not be used so!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "located in the eastern hall"  
     ṣaṣ + mātṛ » \*ṣaṇmātṛ (not permissible!) + Taddhita -a » ⟪षण्मातुर⟫ m. "the child of six mothers" (= ⟪कार्त्तिकेय⟫)  
-    
-2.  the compound formed in this way is used in a meaning that is otherwise designated by a Taddhita suffix (in this type, the transition to Bahuvrīhi is fluid):  
+
+2.  the compound thus formed is used in a meaning that is otherwise designated by a Taddhita suffix (in this type the transition to Bahuvrīhi is fluid):  
     Examples:  
     dvi + go » ⟪द्विगु⟫ : not: "two cows", but: "**purchased for two cows**"  
     ⟪द्विवर्ष⟫ not: "two years", but: "**two years old**"  
-    
-3.  the compound formed in this way forms the first member of another compound  
+
+3.  the compound thus formed forms the first member of another compound  
     Example:  
-    pañca + go » pañcagava (impermissible as a single word!) + dhana » ⟪पञ्चगवधन⟫ m. "one whose wealth consists of five cows"
-::::::media
+    pañca + go » pañcagava (impermissible as a single word!) + dhana » ⟪पञ्चगवधन⟫ m. "one, whose wealth consists of five cows"
+:::
+::: media
 ![](/images/lekt5207.webp)
 Fig.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
 Jalakandapuram = ஜலகண்டபுரம்
 (Image source: [Details](/en/licenses#lekt5207))
-::::::grammar-box
-**A designation for a cardinal number (but not for a cardinal direction) may, as the first member, form a Tatpuruṣa with another noun even if the compound formed in this way denotes the aggregate of several things, i.e., combines two or more things into a single unit.**
+:::
 
-**Tatpuruṣas formed according to this rule are called ***Dvigu (⟪द्विगु⟫)***.**
+::: grammar-box
+**A designation for a cardinal number (but not for a cardinal direction) can form a Tatpuruṣa compound with another noun as the first member even when the resulting compound denotes the aggregate of several things, i.e., combines two or more things into a single unit.**
 
-**Dvigu compounds that denote a unit are usually neuter. If the second member ends in -a, the feminine suffix -ī may attach. If the second member ends in fem. -ā, either neuter -a or feminine -ī attaches in its place. If the second member ends in -an, -a or -ī is substituted for it.**
+**Tatpuruṣa compounds formed according to this rule are called ***Dvigu (⟪द्विगु⟫)***.**
 
+**Dvigu compounds denoting a unit are usually neuter. If the second member ends in -a, the feminine suffix -ī may be added. If the second member ends in fem. -ā, either neuter -a or feminine -ī replaces it. If the second member ends in -an, it is replaced by -a or -ī.**
 :::
 Examples:
 
-:::indent
-⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "the aggregate of the three worlds, the three worlds as a unity, the three-world (heaven-earth-underworld)
+::: indent
+⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "the aggregate of the three worlds, the three worlds as a unit, the tri-world (heaven-earth-underworld)
 
-⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "three-world"
-::::::grammar-box
-**Dvigu compounds, to which no Taddhita suffix is added, but which have the meaning designated by a Taddhita suffix, determine their gender like Bahuvrīhis according to the noun they further specify (they are in reality probably Bahuvrīhis)**
+⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "tri-world"
+:::
+::: grammar-box
+**Dvigu compounds to which no Taddhita suffix is attached, but which have the meaning designated by a Taddhita suffix, determine their gender according to the noun they qualify (they are in reality probably Bahuvrīhis)**
 :::
 Example:
 
-:::indent
+::: indent
 ⟪पञ्चगु⟫ 3: "acquired for five cows"
 :::
 ## 52.7. Word List
@@ -414,28 +434,29 @@ Example:
 
 ⟪निखिल⟫ 3: complete, whole
 
-:::indent
+::: indent
 from:
 
 ⟪खिल⟫ m.: fallow field, wasteland
-::::::media
+:::
+::: media
 ![](/images/lekt5210.webp)
 Fig.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 (Image source: [Details](/en/licenses#lekt5210))
 :::
-⟪अन्तर्⟫ Adv.: inside, within; postposition with Gen. Loc. (⟪षष्टी⟫, ⟪सप्तमी⟫): within, in the midst; postposition with Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): out of ...
+⟪अन्तर्⟫ Adv.: inside, within; postposition with Gen. Loc. (⟪षष्टी⟫, ⟪सप्तमी⟫): inside, in the middle; postposition with Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): out of ...
 
 ⟪अन्योन्य⟫ 3: mutually, each other
 
-⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : fail
+⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : to fail
 
-:::indent
+::: indent
 PPP ⟪विपरीत⟫ 3: wrong, incorrect
 :::
 ⟪त्रि⟫ 3: three
 
-:::grammar-box
+::: grammar-box
 | | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
 | **1. Nominative:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
@@ -446,11 +467,11 @@ PPP ⟪विपरीत⟫ 3: wrong, incorrect
 | **6. Genitive:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
 | **7. Locative:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposition and prefix with nouns and verbs: out, away, forth, out of, away, without - from
+⟪निस्⟫ Postposition and prefix with nouns and verbs: out, away, out, forth, from, away, without - from
 
-⟪पीड्⟫ 10P ⟪पीडयति⟫ : press, torment; harass, besiege, plague
+⟪पीड्⟫ 10P ⟪पीडयति⟫ : to press, torment; to distress, besiege, plague
 
-:::media
+::: media
 ![](/images/lekt5212.webp)
 Fig.: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
@@ -458,16 +479,16 @@ Hyderabad = హైదరాబాద్
 :::
 ⟪पर⟫ 3: (declension like ⟪सर्व⟫) distant, foreign, higher than (⟪पञ्चम्या⟫), utmost, highest; other, foreign, hostile; m.: foreigner
 
-:::indent
-from that:
+::: indent
+of which:
 
-⟪परम्⟫ Adv.: to a high degree, on that, later, but, however
+⟪परम्⟫ Adv.: to a high degree, on that account, later, but, however
 :::
-⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): to - towards, after, with respect to, opposite
+⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): to - towards, after, with regard to, in relation to
 
 ⟪प्रधान⟫ 3: principal, best; n.: the most important
 
-:::media
+::: media
 ![](/images/lekt5213.webp)
 Fig.: ⟪प्रधानः⟫
 ⟪मुंबई⟫
@@ -477,42 +498,42 @@ Fig.: ⟪प्रधानः⟫
 
 ⟪वर्ग⟫ m.: section, division, group
 
-:::indent
+::: indent
 ⟪त्रिवर्ग⟫ m.: group of three (e.g. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫; or: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫; or: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : to want, command, desire
+⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : to want, to command, to desire
 
-:::indent
+::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
 Fut. ⟪वशिष्यति⟫
 Pass. ⟪उष्यते⟫
-Caus. ⟪वाशयति⟫
+Kaus. ⟪वाशयति⟫
 PPP ⟪उशित⟫
 Inf. ⟪वशितुम्⟫
 Absol. -⟪वश्य⟫
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : to blow, breathe
+⟪वा⟫ 2P ⟪वाति⟫ : to blow, to breathe
 
-:::indent
+::: indent
 Perf IV ⟪ववौ⟫
 Fut. ⟪वास्यति⟫
 Pass. ⟪वायते⟫
-Caus. ⟪वापयति⟫
+Kaus. ⟪वापयति⟫
 PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
 Inf. ⟪वातुम्⟫
 
-from that:
+of which:
 
 ⟪वात⟫ m.: wind
 :::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : to turn, rotate; to ward off, exclude
+⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : to turn, to rotate; to ward off, to exclude
 
-:::indent
+::: indent
 Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
 Fut. ⟪वर्जिष्यति⟫
 Pass. ⟪वृज्यते⟫
-Caus. ⟪वर्जयति⟫ : to eliminate
-Caus. PPP ⟪वर्जित⟫ : deprived of something, free from
+Kaus. ⟪वर्जयति⟫ : to eliminate
+Kaus. PPP ⟪वर्जित⟫ : deprived of something, free from
 PPP ⟪वृक्त⟫
 Inf. ⟪वर्जितुम्⟫
 :::
@@ -522,18 +543,18 @@ Inf. ⟪वर्जितुम्⟫
 
 ⟪सूर्य⟫ m.: sun
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫ : to serve (⟪द्वितीया⟫), attend upon, honor, love
+⟪सेव्⟫ 1Ā ⟪सेवते⟫ : to serve someone (⟪द्वितीया⟫), to attend to, to honor, to love
 
-:::indent
+::: indent
 Perf I ⟪सिषेवे⟫
 Fut. ⟪सेविष्यते⟫
 Pass. ⟪सेव्यते⟫
-Caus. ⟪सेवयति⟫
+Kaus. ⟪सेवयति⟫
 PPP ⟪सेवित⟫
 Inf. ⟪सेवितुम्⟫
 Absol. -⟪सेव्य⟫
 
-from that:
+of which:
 
 ⟪सेवा⟫ f.: service, attendance
 :::
@@ -541,7 +562,7 @@ from that:
 
 ⟪शम्⟫ ⟪शाम्यति⟫
 
-:::indent
+::: indent
 ⟪शशाम⟫, ⟪शेमुर्⟫
 ⟪शमिष्यति⟫
 ⟪शम्यते⟫
@@ -553,24 +574,24 @@ from that:
 
 ⟪याम⟫ m.: night watch (each three hours)
 
-⟪परंपरा⟫ f.: unbroken series
+⟪परंपरा⟫ f.: uninterrupted series
 
 ⟪अमुत्र⟫ Adv.: there, thither
 
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : to move, to move about, to fall down
+⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : to move, to move forward, to fall down
 
-:::indent
+::: indent
 Perf. IIIa ⟪चुच्युवे⟫
 Fut. ⟪च्योष्यते⟫
 Pass. ⟪च्यूयते⟫
-Caus. ⟪च्यावयति⟫
+Kaus. ⟪च्यावयति⟫
 PPP ⟪च्युत⟫
 :::
-⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : to know, to feel, to perceive, to experience
+⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : to recognize, to feel, to perceive, to experience
 
 ⟪चक्र⟫ n.: wheel
 
-:::media
+::: media
 ![](/images/lekt5214.webp)
 Fig.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
@@ -578,7 +599,7 @@ Konark = ⟪कोनार्क⟫
 :::
 ⟪कदली⟫ f.: banana tree (_Musa_ sp.)
 
-:::media
+::: media
 ![](/images/lekt5208.webp)
 Fig.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
@@ -592,9 +613,9 @@ Hampi = ಹಂಪೆ
 
 ⟪आदर्श⟫ m.: mirror
 
-⟪मल⟫ m.n.: dirt, flaw
+⟪मल⟫ m.n.: dirt, blemish
 
-:::media
+::: media
 ![](/images/lekt5215.webp)
 Fig.: ⟪मलम्⟫
 ⟪मुंबई⟫
@@ -602,19 +623,19 @@ Fig.: ⟪मलम्⟫
 :::
 ⟪त्रिपिष्टप⟫ n.: Indra's heaven
 
-⟪मार⟫ m.: the personified evil, the personified temptation / manipulation, devil
+⟪मार⟫ m.: the personified evil, the personified temptation/manipulation, devil
 
-:::media
+::: media
 ![](/images/lekt5217.webp)
 Fig.:
-Amaravati = అమరావతి, 2nd century CE
+Amaravati = అమరావతి, 2nd cent. CE
 (Image source: [Details](/en/licenses#lekt5217))
 :::
 ⟪विजिज्ञासु⟫ 3: one who wishes to know completely
 
 ⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : to protect, to save
 
-:::indent
+::: indent
 Perf. IV ⟪तत्रे⟫
 Fut. ⟪त्रास्यते⟫
 Pass. ⟪त्रायते⟫
@@ -626,7 +647,7 @@ Inf. ⟪त्रातुम्⟫
 
 ⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫
 
-:::indent
+::: indent
 ⟪यद्यत्परवशं⟫ ⟪कर्म⟫
 ⟪ततद्यत्नेन⟫ ⟪वर्जयेत्⟫ ⟪।⟫
 ⟪यद्यदात्मवशं⟫ ⟪तु⟫ ⟪स्यात्⟫
@@ -635,7 +656,7 @@ Inf. ⟪त्रातुम्⟫
 ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫
 ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫
 ⟪एतद्विद्यात्समासेन⟫
-⟪लक्षणं⟫ ⟪सुखदुःख⟫***⟪योः⟫*** ⟪॥१६०॥⟫
+⟪लक्षणं⟫ ⟪सुखदुःख⟫*⟪योः⟫* ⟪॥१६०॥⟫
 
 ⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्⟫
 ⟪परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫
@@ -644,21 +665,21 @@ Inf. ⟪त्रातुम्⟫
 
 Explanation: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvandva)
 :::
-⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ On the Sources of the ⟪धर्म⟫
+⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ On the sources of the ⟪धर्म⟫
 
-:::indent
+::: indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
-⟪स्मृतिशी⟫***⟪ले⟫*** ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
+⟪स्मृतिशी⟫*⟪ले⟫* ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
-Explanation: ⟪स्मृतिशीले⟫ Nom.Acc.Dual.n. (Dualdvandva)
+Explanation:  ⟪स्मृतिशीले⟫ Nom.Acc.Dual.n. (Dualdvandva)
 :::
-⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ On ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ in the Life of the Prince
+⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ On ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ in the life of the prince
 
-⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫***⟪मितरौ⟫*** ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫***⟪मूलौ⟫*** ⟪हि⟫ ⟪धर्मका⟫***⟪मावि⟫***⟪ति⟫ ⟪।७।⟫
+⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫*⟪मितरौ⟫* ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫*⟪मूलौ⟫* ⟪हि⟫ ⟪धर्मका⟫*⟪मावि⟫*⟪ति⟫ ⟪।७।⟫
 
-:::indent
+::: indent
 Explanations:
 
 ⟪इतरौ⟫ Nom.Acc.Dual.m to ⟪इतर⟫ 3 "other"
@@ -667,12 +688,14 @@ Explanations:
 :::
 ⟪४⟫. ⟪अश्वघोष⟫ (2nd cent. CE): ⟪बुद्धचरित⟫ ⟪४⟫ Buddha's liberating knowledge
 
-:::media
+::: media
 ![](/images/lekt5216.webp)
 Fig.: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
 _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
 (Image source: [Details](/en/licenses#lekt5216))
-::::::indent
+:::
+
+::: indent
 ⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
 ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫
 ⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫
@@ -735,25 +758,27 @@ During the semester break, the following tasks should be completed:
     3.  Stem forms
 2.  Memorization of as many verses and prose texts as possible from classical literature
 3.  Working through [Lesson 53](lektion53.md)
-4.  Working through the sheets Bhg 1 - 11 (not yet on the internet)
-5.  Preparation of ⟪भगवद्गीता⟫ Ch. 1, learning the associated vocabulary from the word lists (not yet on the internet)
+4.  Working through the sheets Bhg 1 - 11 (not yet on the Internet)
+5.  Preparation of ⟪भगवद्गीता⟫ Ch. 1, learning the associated vocabulary from the word lists (not yet on the Internet)
 6.  Metrical analysis of all verses from ⟪भगवद्गीता⟫ ⟪१⟫  
-    A good impression of the text in recited form is given by: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Accessed on 2009-01-19
+    A good impression of the text in recited form is provided by: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Accessed on 2009-01-19
 7.  Reading a ⟪महाभारत⟫ retelling, e.g.  
     Mahābhārata : India's great epic / translated and condensed from Sanskrit by Biren Roy. -- 10th ed. -- Munich : Diederichs, 1995. -- 335 p. ; 19 cm. -- (Diederichs yellow series ; 16 : India)
 8.  Working through:  
     **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Self-published, 1983. -- 818 p. ; 23 cm. -- pp. 208 - 254 (Sytactical government)
 9.  Fully working through:  
-    **Basham, A. L. (Arthur Llewellyn) &lt;1914-1986&gt;**The wonder that was IndiaPart: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954.
+    **Basham, A. L. (Arthur Llewellyn) \<1914-1986\>**The wonder that was IndiaPart: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954.
 10.  Beginning with the working through of:  
-     **Winternitz, Moriz &lt;1863 - 1937&gt;:** History of Indian literature. Stuttgart : Koehler. -- 3 vols. -- 1908 - 1922 (still by far the best history of Sanskrit, Pali, and Prakrit literature)
+     **Winternitz, Moriz \<1863 - 1937\>:** History of Indian literature. Stuttgart : Koehler. -- 3 vols. -- 1908 - 1922 (still by far the best history of Sanskrit, Pali, and Prakrit literature)
 
-:::media
+::: media
 ![](/images/lekt5201.webp)
 Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Image: Payer)
 (Image source: [Details](/en/licenses#lekt5201))
-::::::deleteme-box
+:::
+
+::: deleteme-box
 
 **lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Image source: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Accessed on 2009-01-15. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
 
@@ -788,3 +813,4 @@ Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 **lekt5201:** (Image: Payer)
 
 :::
+

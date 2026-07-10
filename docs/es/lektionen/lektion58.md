@@ -1,14 +1,18 @@
 ---
+title: Lektion 58
+subtitle: "Die Primärendungen des Dual (⟪द्विवचनम्⟫)"
 lesson_id: 58
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lección 58
 
 ## 58.1. Las desinencias primarias del Dual (⟪द्विवचनम्⟫)
 
-:::grammar-box
-|   | **⟪परस्मैपदम्⟫** | **⟪आत्मनेपदम्⟫** ||
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: |
 |   |   | temático | atemático |
 | **1. ⟪तृतीयः⟫** | -vas | -vahe ||
@@ -23,23 +27,23 @@ Ante -vas y -vahe, la vocal temática -a- se reemplaza por -ā-.
 
 ⟪भू⟫ 1P "ser, llegar a ser"
 
-|   | **⟪परस्मैपदम्⟫** | **⟪आत्मनेपदम्⟫** |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
-| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"nosotros dos seremos" | &lt;⟪भवावहे⟫&gt; |
-| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"vosotros dos seréis" | &lt;⟪भवेथे⟫&gt;:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"ellos dos serán" | &lt;⟪भवेते⟫&gt; |
+| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
+| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
 ### 58.2.2. Cuarta clase de presente (⟪दिवादिगणः⟫)
 
 ⟪नृत्⟫ 4P "bailar"
 
-|   | **⟪परस्मैपदम्⟫** | **⟪आत्मनेपदम्⟫** |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪नृत्यावस्⟫ | ⟪नृत्यावहे⟫ |
 | **2. ⟪मध्यमः⟫** | ⟪नृत्यथस्⟫ | ⟪नृत्येथे⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪नृत्यतस्⟫ | ⟪नृत्येते्⟫ |
 
-:::media
+::: media
 ![](/images/lekt5802.webp)
 Fig.: ⟪नृत्यतः⟫
 Odisea
@@ -49,24 +53,25 @@ Odisea
 
 ⟪तुद्⟫ 6U "empujar, golpear"
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. tercera persona | ⟪तुदावस्⟫ | ⟪तुदावहे⟫ |
-| 2\. segunda persona | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
-| 3\. primera persona | ⟪तुदतस्⟫ | ⟪तुदेते⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪तुदावस्⟫ | ⟪तुदावहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪तुदतस्⟫ | ⟪तुदेते⟫ |
 :::
 ### 58.2.4. Décima clase de presente (⟪चुरादिगणः⟫) y causativos (⟪णिजन्त⟫)
 
 ⟪चुर्⟫ 10U "robar"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. tercera persona | ⟪चोरयावस्⟫ | ⟪चोरयावहे⟫ |
-| 2\. segunda persona | ⟪चोरयथस्⟫ | ⟪चोरयेथे⟫ |
-| 3\. primera persona | ⟪चोरयतस्⟫ | ⟪चोरयेते⟫ |
-::::::media
+| 1\. ⟪तृतीयः⟫ | ⟪चोरयावस्⟫ | ⟪चोरयावहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪चोरयथस्⟫ | ⟪चोरयेथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪चोरयतस्⟫ | ⟪चोरयेते⟫ |
+:::
+::: media
 ![](/images/lekt5803.webp)
 Fig.: ⟪वानरौ⟫ ⟪रथाद्भाण्डानि⟫ ⟪चोरयतः⟫
 Parque Nacional Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
@@ -78,8 +83,8 @@ Parque Nacional Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 
 ⟪दा⟫ 3U "dar"
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪दास्यावस्⟫ | ⟪दास्यावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪दास्यथस्⟫ | ⟪दास्येथे⟫ |
@@ -89,8 +94,8 @@ Parque Nacional Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 
 ⟪भू⟫ 1P "ser, llegar a ser"
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪भविष्यावस्⟫ | ⟪भविष्यावहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ |
@@ -100,7 +105,7 @@ Parque Nacional Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 
 ⟪तुद्⟫ 6U "impulsar, golpear"
 
-:::grammar-box
+::: grammar-box
 | 1\. ⟪तृतीयः⟫ | ⟪तुद्यवाहे⟫ |
 | --- | --- |
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
@@ -112,66 +117,69 @@ Parque Nacional Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 
 ⟪द्विष्⟫ 2U "odiar"
 
-:::grammar-box
-|   | parasmaipada | ātmanepada |
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. tercera persona | ⟪द्विष्वस्⟫ | ⟪द्विष्वहे⟫ |
-| 2\. segunda persona | ⟪द्विष्ठस्⟫ | ⟪द्विषाथे⟫ |
-| 3\. primera persona | ⟪द्विष्टस्⟫ | ⟪द्विषाते⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪द्विष्वस्⟫ | ⟪द्विष्वहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪द्विष्ठस्⟫ | ⟪द्विषाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪द्विष्टस्⟫ | ⟪द्विषाते⟫ |
 :::
 ⟪दुह्⟫ 2U "ordeñar"
 
-:::grammar-box
-|   | parasmaipada | ātmanepada |
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. tercera persona | ⟪दुह्वस्⟫ | ⟪दुह्वहे⟫ |
-| 2\. segunda persona | ***⟪दुग्धस्⟫*** | ⟪दुहाथे⟫ |
-| 3\. primera persona | ***⟪दुग्धस्⟫*** | ⟪दुहाते⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪दुह्वस्⟫ | ⟪दुह्वहे⟫ |
+| 2\. ⟪मध्यमः⟫ | *⟪दुग्धस्⟫* | ⟪दुहाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | *⟪दुग्धस्⟫* | ⟪दुहाते⟫ |
 :::
 ⟪इ⟫ 2P "ir"
 
-:::grammar-box
-|   | parasmaipada |
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
-| 1\. tercera persona | ⟪इवस्⟫ |
-| 2\. segunda persona | ⟪इथस्⟫ |
-| 3\. primera persona | ⟪इतस्⟫ |
-::::::media
+| 1\. ⟪तृतीयः⟫ | ⟪इवस्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪इथस्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪इतस्⟫ |
+:::
+::: media
 ![](/images/lekt5806.webp)
 Fig.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5806))
 :::
 ⟪इ⟫ + ⟪अधि⟫ 2Ā "estudiar"
 
-:::grammar-box
-|   | ātmanepada |
+::: grammar-box
+|   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
-| 1\. tercera persona | ⟪अधीवहे⟫ |
-| 2\. segunda persona | ⟪अधी⟫***⟪या⟫***⟪थे⟫ |
-| 3\. primera persona | ⟪अधी⟫***⟪य⟫***⟪ते⟫ |
-::::::media
+| 1\. ⟪तृतीयः⟫ | ⟪अधीवहे⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अधी⟫*⟪या⟫*⟪थे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अधी⟫*⟪य⟫*⟪ते⟫ |
+:::
+::: media
 ![](/images/lekt5804.webp)
 Fig.: ⟪कन्ये⟫ ⟪अधीयते⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5804))
 :::
 ⟪हन्⟫ 2P "matar"
 
-:::grammar-box
-|   | **parasmaipada** |
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
 | :--- | :---: |
-| **1. tercera persona** | ⟪हन्वस्⟫ |
-| **2. segunda persona** | ***⟪हथस्⟫***:br*hn-thas |
-| **3. primera persona** | ***⟪हतस्⟫*** |
+| **1. ⟪तृतीयः⟫** | ⟪हन्वस्⟫ |
+| **2. ⟪मध्यमः⟫** | sig[⟪हथस्⟫] :br*hn-thas |
+| **3. ⟪प्रथमः⟫** | *⟪हतस्⟫* |
 :::
 ⟪अस्⟫ 2P "ser"
 
-:::grammar-box
-|   | **parasmaipada** |
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
 | :--- | :---: |
-| **1. tercera persona** | ***⟪स्वस्⟫***:brs-vas |
-| **2. segunda persona** | ***⟪स्थस्⟫*** |
-| **3. primera persona** | ***⟪स्तस्⟫*** |
-::::::media
+| **1. ⟪तृतीयः⟫** | sig[⟪स्वस्⟫] :brs-vas |
+| **2. ⟪मध्यमः⟫** | *⟪स्थस्⟫* |
+| **3. ⟪प्रथमः⟫** | *⟪स्तस्⟫* |
+:::
+::: media
 ![](/images/lekt5805.webp)
 Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5805))
@@ -180,16 +188,16 @@ Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 
 ⟪हु⟫ 3P "verter en el fuego del sacrificio"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | &lt;⟪जुहुवहे⟫&gt; |
-| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | &lt;⟪जुह्वाथे⟫&gt; |
-| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | &lt;⟪जुह्वाते⟫&gt; |
+| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \<⟪जुहुवहे⟫\> |
+| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \<⟪जुह्वाथे⟫\> |
+| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \<⟪जुह्वाते⟫\> |
 :::
 ⟪धा⟫ 3U "colocar, poner, situar"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪दध्वस्⟫ | ⟪दध्वहे⟫ |
@@ -200,13 +208,13 @@ Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 
 ⟪सु⟫ 5U "exprimir"
 
-|   | **⟪परस्मैपदम्⟫** | **⟪आत्मनेपदम्⟫** |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪सुनुवस्⟫ / ⟪सुन्वस्⟫ | ⟪सुनुवहे⟫ / ⟪सुन्वहे⟫ |
 | **2. ⟪मध्यमः⟫** | ⟪सुनुथस्⟫ | ⟪सुन्वाथे⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪सुनुतस्⟫ | ⟪सुन्वाते⟫ |
 
-:::media
+::: media
 ![](/images/lekt5807.webp)
 Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Pune
@@ -216,8 +224,8 @@ Pune
 
 ⟪तन्⟫ 8U "extender, tensar"
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तनुवस्⟫ / ⟪तन्वस्⟫ | ⟪तनुवहे⟫ / ⟪तन्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तनुथस्⟫ | ⟪तन्वाथे⟫ |
@@ -225,8 +233,8 @@ Pune
 :::
 ⟪कृ⟫ 8U "hacer, realizar"
 
-:::grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪कुर्वस्⟫ | ⟪कुर्वहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुथस्⟫ | ⟪कुर्वाथे⟫ |
@@ -236,16 +244,16 @@ Pune
 
 ⟪रुध्⟫ 7U "detener"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪रुन्ध्वस्⟫ | ⟪रुन्ध्वहे⟫ |
-| 2\. ⟪मध्यमः⟫ | ***⟪रुन्द्धस्⟫*** | ⟪रुन्धाथे⟫ |
+| 2\. ⟪मध्यमः⟫ | *⟪रुन्द्धस्⟫* | ⟪रुन्धाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धस्⟫ | ⟪रुन्धाते⟫ |
 :::
 ⟪युज्⟫ 7U "arrear"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪युञ्ज्वस्⟫ | ⟪युञ्ज्वहे⟫ |
@@ -256,20 +264,20 @@ Pune
 
 ⟪क्री⟫ 9U "comprar"
 
-|   | **⟪परस्मैपदम्⟫** | **⟪आत्मनेपदम्⟫** |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪क्रीणीवस्⟫ | ⟪क्रीणीवहे⟫ |
 | **2. ⟪मध्यमः⟫** | ⟪क्रीणीथस्⟫ | ⟪क्रीणाथे⟫:brkrī-ṇ-āthe |
 | **3. ⟪प्रथमः⟫** | ⟪क्रीणीतस्⟫ | ⟪क्रीणाते⟫ |
 
-:::media
+::: media
 ![](/images/lekt5801.webp)
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5801))
 :::
 ## 58.6. Aoristo 5: Aoristo iṣ
 
-:::grammar-box
+::: grammar-box
 **El aoristo iṣ se forma a partir de todas las raíces seṭ para las cuales no se enseña explícitamente únicamente otra forma de aoristo.**
 
 **Formación:**
@@ -280,16 +288,17 @@ Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणात
 :::
 El sufijo de formación de la base + las terminaciones del aoristo iṣ son, por tanto:
 
-:::grammar-box
+::: grammar-box
 
-|   | **Parasmaipadam** || **Ātmanepadam** ||
-| :--- | :---: | :---: | :---: |
-|   | **Singular** | **Plural** | **Singular** | **Plural** |
-| **1. Tercera persona** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
-| **2. Segunda persona** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(opcionalmente según -h o semivocal) |
-| **3. Primera persona** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :--- | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
+| **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(opcionalmente según -h o semivocal) |
+| **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
 
-::::::grammar-box
+:::
+::: grammar-box
 **Forma de la raíz:**
 
 *   **Raíces con vocal breve antes de consonante simple: grado fuerte en P y Ā**  
@@ -319,38 +328,39 @@ Paradigmas:
 
 ⟪पू⟫ 9U "limpiar"
 
-:::indent
-|   | **Parasmaipadam** || **Ātmanepadam** ||
+::: indent
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **Singular** | **Plural** | **Singular** | **Plural** |
-| **1. Tercera persona** | ⟪अपाविषम्⟫ | ⟪पाविष्म⟫ | ⟪अपविषि⟫ | ⟪अपविष्महि⟫ |
-| **2. Segunda persona** | ⟪अपावीस्⟫ | ⟪अपाविष्ट⟫ | ⟪अपविष्ठास्⟫ | ⟪अपविध्वम्⟫ / :br⟪अपविढ्वम्⟫ |
-| **3. Primera persona** | ⟪अपावीत्⟫ | ⟪अपाविषुर्⟫ | ⟪अपविष्ट⟫ | ⟪पविषत⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. ⟪तृतीयः⟫** | ⟪अपाविषम्⟫ | ⟪पाविष्म⟫ | ⟪अपविषि⟫ | ⟪अपविष्महि⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अपावीस्⟫ | ⟪अपाविष्ट⟫ | ⟪अपविष्ठास्⟫ | ⟪अपविध्वम्⟫ / :br⟪अपविढ्वम्⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अपावीत्⟫ | ⟪अपाविषुर्⟫ | ⟪अपविष्ट⟫ | ⟪पविषत⟫ |
 :::
 ⟪बुध्⟫ 1U "despertar, reconocer"
 
-:::indent
-|   | **Parasmaipadam** ||
+::: indent
+|   | ⟪परस्मैपदम्⟫ ||
 | :--- | :---: | :---: |
-|   | **Singular** | **Plural** |
-| **1. Tercera persona** | ⟪अबोधिषम्⟫ | ⟪अबोधिष्म⟫ |
-| **2. Segunda persona** | ⟪अबोधीस्⟫ | ⟪अबोधिष्ट⟫ |
-| **3. Primera persona** | ⟪अबोधीत्⟫ | ⟪अबोधिषुर्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. ⟪तृतीयः⟫** | ⟪अबोधिषम्⟫ | ⟪अबोधिष्म⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अबोधीस्⟫ | ⟪अबोधिष्ट⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अबोधीत्⟫ | ⟪अबोधिषुर्⟫ |
 :::
 ⟪कॢप्⟫ 1Ā "ser apropiado"
 
-:::indent
-|   | **Ātmanepadam** ||
+::: indent
+|   | ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: |
-|   | **Singular** | **Plural** |
-| **1. Tercera persona** | ⟪अकल्पिषि⟫ | ⟪अकल्पिष्महि⟫ |
-| **2. Segunda persona** | ⟪अकल्पिष्ठास्⟫ | ⟪अकल्पिध्वम्⟫ |
-| **3. Primera persona** | ⟪अकल्पिष्ट⟫ | ⟪अकल्पिषत⟫ |
-::::::grammar-box
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. ⟪तृतीयः⟫** | ⟪अकल्पिषि⟫ | ⟪अकल्पिष्महि⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अकल्पिष्ठास्⟫ | ⟪अकल्पिध्वम्⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अकल्पिष्ट⟫ | ⟪अकल्पिषत⟫ |
+:::
+::: grammar-box
 **Particularidades:**
 
 1.  En algunas raíces, la vocal de unión -i- en el Ātmanepadam puede ser reemplazada por -ī-. Después de ⟪ग्रह्⟫ 9U "aprehender", esta sustitución debe ocurrir tanto en P como en Ā:  
-    ⟪अग्र⟫***⟪ही⟫***⟪षम्⟫ , ⟪अग्र⟫***⟪ही⟫***⟪षि⟫
+    ⟪अग्र⟫*⟪ही⟫*⟪षम्⟫ , ⟪अग्र⟫*⟪ही⟫*⟪षि⟫
 
 2.  Las raíces de la 8. clase de presente en -n (o -ṇ) pueden tener grado débil en la 2.3.sg.Ā:  
     ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aoristo de raíz) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
@@ -360,7 +370,8 @@ Paradigmas:
 
 4.  ⟪विज्⟫ 7P no presenta ablaut:  
     ⟪अविजीत्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt5808.webp)
 Fig.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5808))
@@ -431,8 +442,7 @@ B) Traduzca y determine las siguientes formas:
 38.  ⟪दद⟫
 39.  ⟪अञ्ज्वः⟫
 
-:::deleteme-box
-
+::: deleteme-box
 
 **lekt5802:** Odisea [Fuente de la imagen: Iqbal Saggu. -- [http://www.flickr.com/photos/iqbalsaggu/964447408/](http://www.flickr.com/photos/iqbalsaggu/964447408/). -- Acceso el 2009-03-02. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribución)]
 

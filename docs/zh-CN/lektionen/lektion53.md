@@ -1,640 +1,649 @@
 ---
 title: Lektion 53
 lesson_id: 53
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 53
 
 ## 53.1. Der Dual (⟪द्विवचन⟫ n.) der Nomina
 
-::::grammar-box
-**Der Dual (⟪द्विवचनम्⟫) wird verwendet, um "zwei" zu bezeichnen:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**双数（⟪द्विवचनम्⟫）用于表示“两个”：**
 
-:::indent
-**⟪अश्विनौ⟫** "die beiden Aśvin" <!-- TODO: Fallback translation -->
 :::
-**Die Verwendung des Dual ist dort obligatorisch, wo es sich um zwei Dinge usw. handelt:** <!-- TODO: Fallback translation -->
-
-:::indent
-**⟪हस्तौ⟫** "die Hände (eines Individuums)"
-**⟪पादौ⟫** "die Füße (eines Menschen, Affen oder sonstigen Zweifüßers)" <!-- TODO: Fallback translation -->
+::: indent
+**⟪अश्विनौ⟫ “两位阿湿波”**
 :::
-**Manchmal bezeichnet der Dual ein männliches plus ein weibliches Exemplar derselben Klasse (Art, Gattung):** <!-- TODO: Fallback translation -->
+**当涉及两个事物等时，双数的使用是强制性的：**
 
-:::indent
-**⟪पितरौ⟫** "Vater und Mutter = Eltern" <!-- TODO: Fallback translation -->
+::: indent
+**⟪हस्तौ⟫ “（一个人的）双手”**
+**⟪पादौ⟫ “（人类、猴子或其他双足生物的）双脚”**
 :::
-**Wörter, die "ein Paar" bedeuten - z.B. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - werden aber immer im Singular verwendet, es sei denn es handle sich um zwei oder mehr Paare:** <!-- TODO: Fallback translation -->
+**有时，双数指代同一类别（种类、属）中的一雄一雌个体：**
 
-:::indent
-**⟪बाहुद्वयम्⟫** "ein Paar Arme" <!-- TODO: Fallback translation -->
-:::::::::media
+::: indent
+**⟪पितरौ⟫ “父亲和母亲 = 父母”**
+:::
+**表示“一对”的词——例如⟪युग⟩中性名词、⟪द्वन्द्व⟩中性名词、⟪द्वय⟩中性名词——除非指两个或更多对，否则始终使用单数：**
+
+::: indent
+**⟪बाहुद्वयम्⟫** “一对手臂”
+:::: media
 ![](/images/lekt5301.webp)
-Abb.: ⟪मार्जारयुगम्⟫
-(Bildquelle: [Details](/licenses#lekt5301)) <!-- TODO: Fallback translation -->
-::::::media
+图：⟪मार्जारयुगम्⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5301)）
+::::
+:::
+::: media
 ![](/images/lekt5302.webp)
-Abb.: ⟪हस्तौ⟫
-(Bildquelle: [Details](/licenses#lekt5302)) <!-- TODO: Fallback translation -->
+图：⟪हस्तौ⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5302)）
 :::
-## 53.2. Dualendungen des Nomen
+## 53.2. 名词的双数词尾
 
-:::grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | -bhyām || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os || <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Bei Nomina mit Stammabstufung haben der Nom.Akk.Vok.Dual m.f. den starken Stamm** <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阳性/阴性：br ⟪पुंस्⟫/⟪स्त्री⟫ | 中性：br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | -bhyām ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
 :::
-## 53.3. Der Dual konsonantisch auslautender Stämme
+::: grammar-box
+**对于有词干强弱交替的名词，主格/宾格/呼语双数（阳性和阴性）采用强词干**
+:::
+## 53.3. 辅音结尾词干的双数形式
 
 ### 53.3.1. Stämme ohne Stammabstufung
 
-⟪सत्यवाच्⟫ 3 "die Wahrheit sprechend" <!-- TODO: Fallback translation -->
+⟪सत्यवाच्⟫ 3 “说真话”
 
-:::grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ || <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阳性/阴性 :br ⟪पुंस्⟫/⟪स्त्री⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ ||
 :::
-⟪बलिन⟫ 3 "(besonders) stark" <!-- TODO: Fallback translation -->
+⟪बलिन⟫ 3 “（特别）强大”
 
-:::grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪बलिभ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪बलिनोस्⟫ || <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阳性 :br ⟪पुंस्⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪बलिभ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪बलिनोस्⟫ ||
 :::
-⟪सुमनस्⟫ 3 "wohlgesinnt" <!-- TODO: Fallback translation -->
+⟪सुमनस्⟫ 3 “友善的”
 
-:::grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सुमनोभ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सुमनसोस्⟫ || <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阳性/阴性 :br ⟪पुंस्⟫/⟪स्त्री⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सुमनोभ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सुमनसोस्⟫ ||
 :::
-⟪हविस्⟫ n. "Opfergabe" <!-- TODO: Fallback translation -->
+⟪हविस्⟫ n. “祭品”
 
-:::grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪हविषी⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪हविर्भ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪हविषोस्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 中性：br ⟪नपुंसक⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪हविषी⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪हविर्भ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪हविषोस्⟫ |
 :::
-⟪दीर्घायुस्⟫ 3 "langlebig" <!-- TODO: Fallback translation -->
+⟪दीर्घायुस्⟫ 3 “持久”
 
-:::grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ || <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阳性/阴性：br ⟪पुंस्⟫/⟪स्त्री⟫ | 中性：br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
 :::
-### 53.3.2. Stämme mit Stammabstufung
+### 53.3.2. 具有词干交替的词干
 
-**Partizip Präsens Parasmaipada** <!-- TODO: Fallback translation -->
+**现在时主动语态分词**
 
-⟪भरन्त्⟫ 3 "tragend" <!-- TODO: Fallback translation -->
+⟪भरन्त्⟫ 3 “携带”
 
-:::grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***⟪भरन्ती⟫ (!)*** <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ || <!-- TODO: Fallback translation -->
-::::::media
+::: grammar-box
+|   | 阳性 :br ⟪पुंस्⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***⟪भरन्ती⟫ (!)***
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ ||
+:::: media
 ![](/images/lekt5305.webp)
-Abb.: ⟪भरन्तौ⟫
-(Bildquelle: [Details](/licenses#lekt5305)) <!-- TODO: Fallback translation -->
+图注：⟪भरन्तौ⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5305)）
+::::
 :::
-⟪ददत्⟫ 3 "gebend" <!-- TODO: Fallback translation -->
+⟪ददत्⟫ 3 “给予的”
 
-:::grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ || <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阳性 :br ⟪पुंस्⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ ||
 :::
-**Stämme auf -mant/-vant** <!-- TODO: Fallback translation -->
+**以 -mant/-vant 结尾的词干**
 
-⟪पशुमन्त्⟫ 3 "Vieh besitzend" <!-- TODO: Fallback translation -->
+⟪पशुमन्त्⟫ 3 “拥有牲畜的”
 
-:::grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पशुमतोस्⟫ || <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阳性 :br ⟪पुंस्⟫ | 中性 :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पशुमतोस्⟫ ||
 :::
-⟪महान्त्⟫ 3 "groß" <!-- TODO: Fallback translation -->
+⟪महान्त्⟫ 3 “大的”
 
-:::grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪महद्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪महतोस्⟫ || <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阳性：br ⟪पुंस्⟫ | 中性：br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪महद्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪महतोस्⟫ ||
 :::
-⟪आत्मन्⟫ m. <!-- TODO: Fallback translation -->
+⟪आत्मन्⟫ 阳性。
 
-:::grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪आत्मानौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪आत्मभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪आत्मनोस्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阳性：br ⟪पुंस्⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪आत्मानौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪आत्मभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪आत्मनोस्⟫ |
 :::
-⟪ब्रह्मन्⟫ n. <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ 中性。
 
-:::grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ब्रह्मणी⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ब्रह्मभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ब्रह्मणोस्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 中性：br ⟪नपुंसक⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ब्रह्मणी⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ब्रह्मभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ब्रह्मणोस्⟫ |
 :::
-⟪राजन्⟫ m. "König" <!-- TODO: Fallback translation -->
+⟪राजन्⟫ 阳性。“国王”
 
-:::grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪राजानौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪राजभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪राज्ञोस्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阳性：br ⟪पुंस्⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪राजानौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪राजभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪राज्ञोस्⟫ |
 :::
-⟪सीमन्⟫ f. "Grenze" <!-- TODO: Fallback translation -->
+⟪सीमन्⟫ 阴性。“边界”
 
-:::grammar-box
-|   | Femininum :br ⟪स्त्री⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सीमानौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सीमभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सीम्नोस्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阴性：br ⟪स्त्री⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सीमानौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सीमभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सीम्नोस्⟫ |
 :::
-⟪नामन्⟫ n. "Name" <!-- TODO: Fallback translation -->
+⟪नामन्⟫ 名词。"名称"
 
-:::grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br ***⟪नामानी⟫*** | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 中性：br ⟪नपुंसक⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br ***⟪नामानी⟫*** |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
-## 53.4. Der Dual vokalisch auslautender Stämme
+## 53.4. 以元音结尾的词干的双数形式
 
-**Stämme auf -a** <!-- TODO: Fallback translation -->
+**-a 词尾**
 
-⟪देव⟫ m. "Gott"  
-⟪फल⟫ n. "Frucht" <!-- TODO: Fallback translation -->
+⟪देव⟫ 阳性。"神"
+⟪फल⟫ 中性。"果实"
 
-:::grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ***⟪देवाभ्याम्⟫*** | ***⟪फलाभ्याम्⟫*** | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ***⟪देवयोस्⟫*** | ***⟪फलयोस्⟫*** | <!-- TODO: Fallback translation -->
-::::::media
+::: grammar-box
+|   | 阳性：br ⟪पुंस्⟫ | 中性：br ⟪नपुंसक⟫ |
+| :---: | :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ***⟪देवाभ्याम्⟫*** | ***⟪फलाभ्याम्⟫*** |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ***⟪देवयोस्⟫*** | ***⟪फलयोस्⟫*** |
+:::: media
 ![](/images/lekt5306.webp)
-Abb.: ⟪फले⟫
-(Bildquelle: [Details](/licenses#lekt5306)) <!-- TODO: Fallback translation -->
+图注：⟪फले⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5306)）
+::::
 :::
-**Stämme auf -i** <!-- TODO: Fallback translation -->
+**以 -i 结尾的词干**
 
-⟪अग्नि⟫ m. "Feuer"  
-⟪वारि⟫ n. "Wasser"  
-⟪मति⟫ f. "Gedanke" <!-- TODO: Fallback translation -->
+⟪अग्नि⟫ 阳性，“火”  
+⟪वारि⟫ 中性，“水”  
+⟪मति⟫ 阴性，“思想”
 
-:::grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪अग्नी⟫*** | ***⟪मती⟫*** | ⟪वारिणी⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阳性：br ⟪पुंस्⟫ | 阴性：br ⟪स्त्री⟫ | 中性：br ⟪नपुंसक⟫ |
+| :---: | :---: | :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪अग्नी⟫*** | ***⟪मती⟫*** | ⟪वारिणी⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
-**Stämme auf -u** <!-- TODO: Fallback translation -->
+**以 -u 结尾的词干**
 
-⟪शत्रु⟫ m.  
-⟪धिनु⟫ f.  
-⟪मधु⟫ n. <!-- TODO: Fallback translation -->
+⟪शत्रु⟫ 阳性  
+⟪धिनु⟫ 阴性  
+⟪मधु⟫ 中性
 
-:::grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪शत्रू⟫*** | ***⟪धेनू⟫*** | ⟪मधुनी⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪शत्र्वोस्⟫ | ⟪धेन्वोस्⟫ | ⟪मधुनोस्⟫ | <!-- TODO: Fallback translation -->
-::::::media
+::: grammar-box
+|   | 阳性：br ⟪पुंस्⟫ | 阴性：br ⟪स्त्री⟫ | 中性：br ⟪नपुंसक⟫ |
+| :---: | :---: | :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪शत्रू⟫*** | ***⟪धेनू⟫*** | ⟪मधुनी⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪शत्र्वोस्⟫ | ⟪धेन्वोस्⟫ | ⟪मधुनोस्⟫ |
+:::: media
 ![](/images/lekt5307.webp)
-Abb.: ⟪धेनू⟫
-(Bildquelle: [Details](/licenses#lekt5307)) <!-- TODO: Fallback translation -->
+图：⟪धेनू⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5307)）
+::::
 :::
-**Stämme auf -ā** <!-- TODO: Fallback translation -->
+**以 -ā 结尾的词干**
 
-⟪कन्या⟫ f. "Mädchen" <!-- TODO: Fallback translation -->
+⟪कन्या⟫ 阴性 “女孩”
 
-:::grammar-box
-|   | Femininum :br ⟪स्त्री⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪कन्ये⟫*** | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ***⟪कन्ययोस्⟫*** | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阴性：br ⟪स्त्री⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪कन्ये⟫*** |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ***⟪कन्ययोस्⟫*** |
 :::
-**Mehrsilbige Stämme auf -ī** <!-- TODO: Fallback translation -->
+**多音节以 -ī 结尾的词干**
 
-⟪देवी⟫ f. "Göttin" <!-- TODO: Fallback translation -->
+⟪देवी⟫ 阴性 “女神”
 
-:::grammar-box
-|   | Femininum :br ⟪स्त्री⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देव्यौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪देव्योस्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阴性：br ⟪स्त्री⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देव्यौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪देव्योस्⟫ |
 :::
-**Stämme auf -ṛ** <!-- TODO: Fallback translation -->
+**以 -ṛ 结尾的词干**
 
-⟪दातृ⟫ 3 "Geber" <!-- TODO: Fallback translation -->
+⟪दातृ⟫ 3 “给予者”
 
-:::grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | ***⟪दातृणी⟫*** <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ || <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阳性/阴性：br ⟪पुंस्⟫/⟪स्त्री⟫ | 中性：br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | ***⟪दातृणी⟫***
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
-⟪पितृ⟫ m. "Vater" <!-- TODO: Fallback translation -->
+⟪पितृ⟫ 阳性 “父亲”
 
-:::grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | 阳性：br ⟪पुंस्⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ |
 :::
-## 53.5. Dualdvandva
+## 53.5. 双数联合复合词
 
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-**⟪अर्थधर्मौ⟫** "Nutzen (⟪अर्थ⟫) und Dharma"
-**⟪युधिष्ठिरार्जुनौ⟫** "Yudhiṣṭhira und Arjuna"
-**⟪सुखदुःखे⟫** (neben: ⟪सुखदुःखम्⟫) "Glück und Leid"
-**⟪शीतोष्णे⟫** "Kälte und Wärme" <!-- TODO: Fallback translation -->
-:::::::grammar-box
-**Werden zwei Verwandtschaftswörter auf -ṛ (oder zwei Substantive auf -ṛ, die Bezeichnungen für Opferpriester sind) zu einem Dvandva komponiert, so steht das erste Glied in der Form des Nominativ Singular:** <!-- TODO: Fallback translation -->
-
-:::indent
-⟪मा⟫***⟪ता⟫***⟪पितरौ⟫ "Mutter und Vater" <!-- TODO: Fallback translation -->
+::: indent
+**⟪अर्थधर्मौ⟫** “利益（⟪⟪अर्थ⟫）与法”
+**⟪युधिष्ठिरार्जुनौ⟫** “ Yudhiṣṭhira 与 Arjuna”
+**⟪सुखदुःखे⟫**（旁： ⟪सुखदुःखम्⟫）“福与祸”
+**⟪शीतोष्णे⟫**“冷与热”
 :::
-**Dasselbe geschieht mit einem solchen Verwandtschaftswort in einem Dvandva vor -⟪पुत्र⟫ :** <!-- TODO: Fallback translation -->
+::: grammar-box
+**若两个亲属词以 -ṛ 结尾（或两个以 -ṛ 结尾、表示祭祭司的名词）复合为双数（Dvandva），则第一个成分保持为主格单数形式：**
 
-:::indent
-**⟪पितापुत्रौ⟫** "Vater und Sohn" <!-- TODO: Fallback translation -->
 :::
-**Bilden die Namen zweier Gottheiten, die gewöhnlich bei Opfern genannt werden, ein Dvandva, so wird der auslautende Vokal des ersten Gliedes gewöhnlich verlängert:** <!-- TODO: Fallback translation -->
+::: indent
+⟪मा⟫***⟪ता⟫***⟪पितरौ⟫ “母亲与父亲”
+:::
+**此类亲属词在 -⟪पुत्र⟫ 前的双数复合中亦作同样处理：**
 
-:::indent
-⟪मि⟫***⟪त्रा⟫***⟪वरुणौ⟫ "Mitra und Varuṇa"
-**⟪अग्नीसोमौ⟫** "Agni und Soma" <!-- TODO: Fallback translation -->
+::: indent
+**⟪पितापुत्रौ⟫** “父亲与儿子”
 :::
-**Auch bei anderen Dvandva kommt diese Vokalverlängerung vor.** <!-- TODO: Fallback translation -->
-::::::media
+**若两个常在祭祀中提及的神祇之名构成双数复合，则第一个成分的尾元音通常被延长：**
+
+::: indent
+⟪मि⟫***⟪त्रा⟫***⟪वरुणौ⟫ “密多罗与伐楼那”
+**⟪अग्नीसोमौ⟫** “阿耆尼与苏摩”
+:::
+**在其他双数复合词中也会出现这种元音延长。**
+::: media
 ![](/images/lekt5308.webp)
-Abb.: ⟪पितापुत्रौ⟫
-(Bildquelle: [Details](/licenses#lekt5308)) <!-- TODO: Fallback translation -->
+图：⟪पितापुत्रौ⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5308)）
 :::
-## 53.6. Der Dual von Pronomina
+## 53.6. 代词的双数形式
 
-:::grammar-box
-|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫ <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **Maskulinum** |   |   |   |   |   <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫** | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫ <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫ <!-- TODO: Fallback translation -->
-|   |   |   |   |   |   <!-- TODO: Fallback translation -->
-| **Neutrum** |   |   |   |   |   <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫** | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ <!-- TODO: Fallback translation -->
-|   | Rest wie Maskulinum |||||||| <!-- TODO: Fallback translation -->
-| **Femininum** |   |   |   |   |   <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫** | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ <!-- TODO: Fallback translation -->
-|   | Rest wie Maskulinum |||||||| <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫
+| :--- | :---: | :---: | :---: | :---: | :---:
+| **阳性** |   |   |   |   |
+| **⟪प्रथमा⟫** | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| **⟪द्वितीया⟫** | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫
+|   |   |   |   |   |
+| **中性** |   |   |   |   |
+| **⟪प्रथमा⟫** | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
+| **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+|   其余同阳性 ||||||||
+| **阴性** |   |   |   |   |
+| **⟪प्रथमा⟫** | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
+| **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+|   其余同阳性 ||||||||
 :::
-⟪कतर⟫ 3 "wer von beiden" und ⟪कतम⟫ 3 "wer von mehreren" werden in allen Kasus wie ⟪यद्⟫ dekliniert. <!-- TODO: Fallback translation -->
+⟪कतर⟫ 3 “二者中谁”和⟪कतम⟫ 3 “多者中谁”在所有格中均按⟪यद्⟫变格。
 
 ## 53.7. Pronominaladjektive
 
-Folgende Pronominaladjektive werden in allen Kasus wie ⟪यद्⟫ dekliniert: <!-- TODO: Fallback translation -->
+以下代词性形容词在所有格中均按⟪यद्⟩变位：
 
-*   ⟪अन्य⟫ 3 "ein anderer" <!-- TODO: Fallback translation -->
-*   ⟪अन्यतर⟫ 3 "einer von zweien" <!-- TODO: Fallback translation -->
-*   ⟪इतर⟫ 3 "der andere" <!-- TODO: Fallback translation -->
+*   ⟪अन्य⟩ 3 “另一个”
+*   ⟪अन्यतर⟩ 3 “两者之一”
+*   ⟪इतर⟩ 3 “另一个”
 
-*   ⟪सर्व⟫ 3 "jeder, alle" wird in allen Kasus außer dem Nom.Akk.sg.n (⟪सर्वम्⟫) wie ⟪यद्⟫ dekliniert. <!-- TODO: Fallback translation -->
-*   ⟪उभय⟫ 3 "beide" hat keinen Dual. Im Singular und Plural mask. und neutr. wird es wie ⟪सर्व⟫ dekliniert. Femininum: ⟪उभयी⟫ (wie ⟪देवी⟫). <!-- TODO: Fallback translation -->
-*   ⟪उभ⟫ 3 "beide" wird nur im Dual gebraucht und wird wie ⟪देव⟫ m., ⟪फल⟫ n. bzw. ⟪देवता⟫ f. dekliniert. <!-- TODO: Fallback translation -->
+*   ⟪सर्व⟩ 3 “每一个，所有”除单数主宾格中性（⟪सर्वम्⟩）外，在所有格中均按⟪यद्⟩变位。
+*   ⟪उभय⟩ 3 “两者”无双数形式。在单数和复数的阳性与中性中，它按⟪सर्व⟩变位。阴性：⟪उभयी⟩（如⟪देवी⟩）。
+*   ⟪उभ⟩ 3 “两者”仅用于双数，并按⟪देव⟩阳性、⟪फल⟩中性以及⟪देवता⟩阴性变位。
 
-Folgende Pronominaladjektive werden wie ⟪सर्व⟫ dekliniert. Im Abl.Lok.sg.m.n sowie in im Nom.pl. können sie nach der -a- bzw. -ā-Deklination dekliniert werden: <!-- TODO: Fallback translation -->
+以下代词性形容词按⟪सर्व⟩变位。在单数离格/处所格的阳性与中性，以及复数主格中，它们可按-a-或-ā-词尾变位法进行变位：
 
-*   ⟪अपर⟫ 3 "ein anderer" <!-- TODO: Fallback translation -->
-*   ⟪उत्तर⟫ 3 "der obere, nördliche, nachfolgende" <!-- TODO: Fallback translation -->
-*   ⟪पर⟫ 3 "der folgende, spätere" <!-- TODO: Fallback translation -->
-*   ⟪पूर्व⟫ 3 "der vorausgehende, östliche" <!-- TODO: Fallback translation -->
-*   ⟪स्व⟫ 3 "eigen (mein, dein, sein ...)" <!-- TODO: Fallback translation -->
+*   ⟪अपर⟫ 3 “另一个”
+*   ⟪उत्तर⟫ 3 “上方的、北方的、随后的”
+*   ⟪पर⟫ 3 “随后的、后来的”
+*   ⟪पूर्व⟫ 3 “先前的、东方的”
+*   ⟪स्व⟫ 3 “自己的（我的、你的、他的……）”
 
 ## 53.8. Unregelmäßige Steigerung
 
-:::grammar-box
-**Eine Anzahl von Adjektiven bildet den Komparativ bzw. Superlativ mit folgenden ⟪कृत्⟫-Suffixen (!):** <!-- TODO: Fallback translation -->
+::: grammar-box
+**一组形容词使用以下⟪कृत्⟫后缀构成比较级和最高级（注意）：**
 
-*   Komparativ: **-īyas** <!-- TODO: Fallback translation -->
-*   Superlativ: **-iṣṭha** <!-- TODO: Fallback translation -->
+*   比较级：**-īyas**
+*   最高级：**-iṣṭha**
 
-**Während die ⟪तद्धित⟫-Suffixe -⟪तर⟫ und -⟪तम⟫ an den Maskulinstamm des Adjektivs treten, werden die Suffixe -⟪ईयस्⟫ und -⟪इष्ठ⟫ an die Wurzel angefügt, von der das Adjektiv abgeleitet ist (sofern es eine solche Wurzel gibt!). Der Wurzelvokal ist hochstufig.** <!-- TODO: Fallback translation -->
+**虽然⟪तद्धित⟫后缀 -⟪तर⟫ 和 -⟪तम⟫ 附加于形容词的阳性词干，但后缀 -⟪ईयस्⟫ 和 -⟪इष्ठ⟫ 则附加于该形容词的词根（如果存在这样的词根！）。词根元音为高扬格。**
 
-**Superlative auf -iṣṭha (Fem.: iṣṭhā) werden wie a- bzw. ā-Stämme dekliniert.** <!-- TODO: Fallback translation -->
+**以 -iṣṭha 结尾的最高级（阴性：iṣṭhā）按照 a-词干或 ā-词干的变格规则进行变格。**
 
-**Deklination von -īyas siehe unten.** <!-- TODO: Fallback translation -->
+**Deklination von -īyas siehe unten.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::grammar-box
-| Wurzel | Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- | --- <!-- TODO: Fallback translation -->
-| ⟪क्षिप्⟫ 6P "werfen" | ⟪क्षिप्र⟫ 3 "schnell" | ***⟪क्षेपीयस्⟫*** 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | ***⟪क्षेपिष्ठ⟫*** 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 | <!-- TODO: Fallback translation -->
-| ⟪स्था⟫ 1P "stehen" | ⟪स्थिर⟫ 3 "beständig, fest" | ***⟪स्थेयस्⟫*** 3 "fester" :br ⟪स्थिरतर⟫ 3 | ***⟪स्थेष्ठ⟫*** 3 "am festesten" :br ⟪स्थिरतम⟫ 3 | <!-- TODO: Fallback translation -->
+::: grammar-box
+| 词根 | 形容词 | 比较级 | 最高级 |
+| --- | --- | --- |
+| ⟪क्षिप्⟫ 6P “投掷” | ⟪क्षिप्र⟫ 3 “快速” | ***⟪क्षेपीयस्⟫*** 3 “更快” :br ⟪क्षिप्रतर⟫ 3 | ***⟪क्षेपिष्ठ⟫*** 3 “最快” :br ⟪क्षिप्रतम⟫ 3 |
+| ⟪स्था⟫ 1P “站立” | ⟪स्थिर⟫ 3 “持久、稳固” | ***⟪स्थेयस्⟫*** 3 “更稳固” :br ⟪स्थिरतर⟫ 3 | ***⟪स्थेष्ठ⟫*** 3 “最稳固” :br ⟪स्थिरतम⟫ 3 |
 :::
-**Besondere Regeln für die Anfügung dieser Suffixe:** <!-- TODO: Fallback translation -->
+**附加这些后缀的特殊规则：**
 
-:::grammar-box
-**Regel 1:** **Der auslautende Vokal eines mehrsilbigen Maskulinstammes oder der auslautende Vokal und der vorausgehende Vokal fallen ab.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**规则 1：多音节阳性词干的尾元音，或尾元音及其前一个元音脱落。**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::grammar-box
-| Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| ⟪पाप⟫ 3 "böse" | ⟪पा⟫***⟪पी⟫***⟪यस्⟫ | ⟪पा⟫***⟪पि⟫***⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪महान्त्⟫ 3 "groß" | ⟪म⟫***⟪ही⟫***⟪यस्⟫ | ⟪म⟫***⟪हि⟫***⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Regel 2:** **Possessivsuffixe (-mant, vant, -vin, -in u.ä.) fallen ab. Besteht der übrig bleibende Teil nur aus einer Silbe, wird er nicht weiter verändert, nur durch die Verbindung mit dem Possesivsuffix bedingte Lautveränderungen werden rückgängig gemacht. Besteht der Rest aber aus mehr als einer Silbe, tritt Regel 1 in Kraft.** <!-- TODO: Fallback translation -->
+::: grammar-box
+| 形容词 | 比较级 | 最高级 |
+| --- | --- |
+| ⟪पाप⟫ 3 “邪恶” | ⟪पा⟫***⟪पी⟫***⟪यस्⟫ | ⟪पा⟫***⟪पि⟫***⟪ष्ठ⟫ |
+| ⟪महान्त्⟫ 3 “大” | ⟪म⟫***⟪ही⟫***⟪यस्⟫ | ⟪म⟫***⟪हि⟫***⟪ष्ठ⟫ |
 :::
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::grammar-box
-| Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪ध⟫***⟪नी⟫***⟪यस्⟫ | ⟪ध⟫***⟪नि⟫***⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪ब⟫***⟪ली⟫***⟪यस्⟫ | ⟪ब⟫***⟪लि⟫***⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪वसुमन्त्⟫ "Güter besitzend" | ⟪व⟫***⟪सी⟫***⟪यस्⟫ | ⟪व⟫***⟪सि⟫***⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Regel 3:** **Für -ṛ-, dem ein Anfangsvokal vorausgeht und auf das nur ein einziger Konsonant folgt, wird -ra- substituiert.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**规则 2：所有格后缀（-mant, vant, -vin, -in 等）脱落。若剩余部分仅由一个音节组成，则不再进一步变化，仅恢复因与所有格后缀结合而产生的音变。若剩余部分由多于一个音节组成，则适用规则 1。**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+示例：
 
-:::grammar-box
-| Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| 形容词 | 比较级 | 最高级 |
+| --- | ---
+| ⟪धनवन्त्⟫ 3 “富有” | ⟪ध⟫***⟪नी⟫***⟪यस्⟫ | ⟪ध⟫***⟪नि⟫***⟪ष्ठ⟫ |
+| ⟪बलिन्⟫ 3 “（特别）强大” | ⟪ब⟫***⟪ली⟫***⟪यस्⟫ | ⟪ब⟫***⟪लि⟫***⟪ष्ठ⟫ |
+| ⟪वसुमन्त्⟫ “拥有财富” | ⟪व⟫***⟪सी⟫***⟪यस्⟫ | ⟪व⟫***⟪सि⟫***⟪ष्ठ⟫ |
 :::
-**Verzeichnis der häufigsten Steigerungsformen solcher Art zu bisher gelernten Adjektiven:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**规则 3：** **对于以元音开头且后仅跟一个辅音的 -ṛ-，用 -ra- 替换。**
+:::
+示例：
 
-:::grammar-box
-| Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| ⟪अल्प⟫ 3 "klein, wenig" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪क्षिप्र⟫ 3 "schnell" :br (zu ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪गुरु⟫ 3 "schwer" :br (zu *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪दीर्घ⟫ 3 "lang" :br (zu *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪दूर⟫ 3 "fern" :br (zu *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪पाप⟫ 3 "böse" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪प्रिय⟫ 3 "lieb" | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪महान्त्⟫ 3 "groß" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪युवन्⟫ 3 "jung" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪स्थिर⟫ 3 "fest" :br (zu ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪ह्रस्व⟫ 3 "kurz" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ | <!-- TODO: Fallback translation -->
-::::::media
+::: grammar-box
+| 形容词 | 比较级 | 最高级 |
+| --- | ---
+| ⟪पृथु⟫ 3 “宽阔” | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
+:::
+**此前所学形容词中此类常见比较形式的列表：**
+
+::: grammar-box
+| 形容词 | 比较级 | 最高级 |
+| --- | ---
+| ⟪अल्प⟫ 3 “小，少” | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
+| ⟪क्षिप्र⟫ 3 “快” :br（源自 ⟪क्षिप्⟫） | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
+| ⟪गुरु⟫ 3 “重” :br（源自 *⟪गृ⟫） | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
+| ⟪दीर्घ⟫ 3 “长” :br（源自 *⟪दृघ्⟫） | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
+| ⟪दूर⟫ 3 “远” :br（源自 *⟪दु⟫/*⟪दू⟫） | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
+| ⟪धनवन्त्⟫ 3 “富有” | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ |
+| ⟪पाप⟫ 3 “恶” | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ |
+| ⟪पृथु⟫ 3 “宽阔” | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
+| ⟪प्रिय⟫ 3 “亲爱” | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ |
+| ⟪बलिन्⟫ 3 “（特别）强大” | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
+| ⟪महान्त्⟫ 3 “大” | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
+| ⟪युवन्⟫ 3 “年轻” | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
+| ⟪स्थिर⟫ 3 “坚固” :br（源自 ⟪स्था⟫） | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
+| ⟪ह्रस्व⟫ 3 “短” | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
+:::: media
 ![](/images/lekt5309.webp)
-Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
-(Bildquelle: [Details](/licenses#lekt5309)) <!-- TODO: Fallback translation -->
+图：⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5309)）
+::::
 :::
-**Einige Steigerungsformen dieser Art haben überhaupt keine wurzelverwandte Grundform, sie sind "defektiv". Deshalb sind folgende Reihen besonders zu merken:** <!-- TODO: Fallback translation -->
+**此类比较形式中有一些根本没有词根相关的基本形式，它们是“有缺陷的”。因此需要特别记住以下序列：**
 
-:::grammar-box
-| (Adjektiv) | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| (⟪अल्प⟫ 3 "klein, wenig") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ | <!-- TODO: Fallback translation -->
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" | <!-- TODO: Fallback translation -->
-| (⟪बहु⟫ 3 "viel") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| (⟪वृद्ध⟫ 3 "alt") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| (⟪वृद्ध⟫ 3 "alt") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" | <!-- TODO: Fallback translation -->
+::: grammar-box
+| （形容词） | 比较级 | 最高级 |
+| --- | ---
+| （⟪अल्प⟫ 3 “小，少”） | ⟪कनीयस्⟫ :br 参见 ⟪कन्या⟫ f. “女孩 = 小女孩” | ⟪कनिष्ठ⟫ |
+| （⟪प्रशस्य⟫ 3 “值得称赞，好”） | ⟪श्रेयस्⟫ :br 源自 ⟪श्री⟫ f. “光辉” | ⟪श्रेष्ठ⟫ |
+| （⟪प्रशस्य⟫ 3 “值得称赞，好”） | ⟪ज्यायस्⟫ :br 亦：“年长” :br 源自 ⟪ज्या⟫ f. “优势” | ⟪ज्येष्ठ⟫ :br 亦：“最年长” |
+| （⟪बहु⟫ 3 “多”） | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
+| （⟪वृद्ध⟫ 3 “老”） | ⟪वर्षीयस्⟫ :br 源自 ⟪वर्ष⟫ n.m. “雨季，年” | ⟪वर्षिष्ठ⟫ |
+| （⟪वृद्ध⟫ 3 “老”） | ⟪ज्यायस्⟫ :br 亦：“更好” :br 源自 ⟪ज्या⟫ f. “优势” | ⟪ज्येष्ठ⟫ :br 亦：“最好” |
 :::
-## 53.9. Deklination der Komparative auf -īyas
+## 第53课 9. 以 -īyas 结尾的比较级的变格
 
-:::grammar-box
-**Komparative auf -īyas bilden das Femininum auf -īyasī (Deklination wie ⟪देवी⟫). Das maskulinum und Neutrum wird nach folgendem Paradigma dekliniert.** <!-- TODO: Fallback translation -->
-::::::grammar-box
-
-|   | **⟪एकवचनम्⟫** || **⟪द्विवचनम्⟫** || **⟪बहुवचनम्⟫** || <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | **⟪पुमान्⟫** | **⟪नपुंसकम्⟫** | **⟪पुमान्⟫** | **⟪नपुंसकम्⟫** | **⟪पुमान्⟫** | **⟪नपुंसकम्⟫** | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫** | ⟪गरीयान्⟫ | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ | <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | ⟪गरीयांसम्⟫ | ⟪गरीयस्⟫ | ^^ | ^^ | ⟪गरीयसस्⟫ | ^^ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | ⟪गरीयसा⟫ || ⟪गरीयोभ्याम्⟫ || ⟪गरीयोभिस्⟫ || <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | ⟪गरीयसे⟫ || ^^ || ⟪गरीयोभ्यस्⟫ || <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | ⟪गरीयसस्⟫ || ^^ || ^^ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ || <!-- TODO: Fallback translation -->
-| **⟪आमन्त्रितम्⟫** | ***⟪गरीयान्⟫*** | **⟪गरीयस्⟫** | **⟪गरीयांसौ⟫** | **⟪गरीयसी⟫** | **⟪गरीयांसस्⟫** | **⟪गरीयांसि⟫** | <!-- TODO: Fallback translation -->
+::: grammar-box
+**以 -īyas 结尾的比较级，其阴性形式为 -īyasī（变格同 ⟪देवी⟫）。阳性与中性按以下范式变格。**
 :::
-## 53.10. Metrik (Lehre von den Versmaßen)
+::: grammar-box
 
-:::media
+|   | **⟪एकवचनम्⟫** || **⟪द्विवचनम्⟫** || **⟪बहुवचनम्⟫** ||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | **⟪पुमान्⟫** | **⟪नपुंसकम्⟫** | **⟪पुमान्⟫** | **⟪नपुंसकम्⟫** | **⟪पुमान्⟫** | **⟪नपुंसकम्⟫** |
+| **⟪प्रथमा⟫** | ⟪गरीयान्⟫ | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+| **⟪द्वितीया⟫** | ⟪गरीयांसम्⟫ | ⟪गरीयस्⟫ | ^^ | ^^ | ⟪गरीयसस्⟫ | ^^ |
+| **⟪तृतीया⟫** | ⟪गरीयसा⟫ || ⟪गरीयोभ्याम्⟫ || ⟪गरीयोभिस्⟫ ||
+| **⟪चतुर्थी⟫** | ⟪गरीयसे⟫ || ^^ || ⟪गरीयोभ्यस्⟫ ||
+| **⟪पञ्चमी⟫** | ⟪गरीयसस्⟫ || ^^ || ^^ ||
+| **⟪षष्ठी⟫** | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
+| **⟪सप्तमी⟫** | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
+| **⟪आमन्त्रितम्⟫** | ***⟪गरीयान्⟫*** | **⟪गरीयस्⟫** | **⟪गरीयांसौ⟫** | **⟪गरीयसी⟫** | **⟪गरीयांसस्⟫** | **⟪गरीयांसि⟫** |
+:::
+## 53.10. 韵律学（诗律研究）
+
+::: media
 ![](/images/lekt5303.jpg)
-Abb.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
-(Bildquelle: [Details](/licenses#lekt5303)) <!-- TODO: Fallback translation -->
+图：⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5303)）
 :::
-Siehe auch: <!-- TODO: Fallback translation -->
+另见：
 
-> **Payer, Alois &lt;1944 - &gt;:** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm) <!-- TODO: Fallback translation -->
+> **Payer, Alois \&lt;1944 - \&gt;:** 梵语文本诠释学导论：讲义。 -- 第8章：实质性的文本诠释，第二部分：关于同步理解的具体问题。 -- 附录B：梵语文本的韵律学。 -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
-### 53.10.1. Bedeutung der Bestimmung des Metrums
+### 53.10.1. 韵律确定的意义
 
-Die Bestimmung des Metrums ist aus folgenden Gründen wichtig: <!-- TODO: Fallback translation -->
+确定韵律的重要性基于以下原因：
 
-1.  **Ästhetisch:** das Versmaß macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmaße u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmaße werden je verschieden rezitiert. :br Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58) <!-- TODO: Fallback translation -->
-2.  **Textkritisch:** Fehler im Versmaß können ein Hinweis darauf sein, dass der Text an einer Stelle nicht korrekt überliefert ist. Das Versmaß hilft, Textverbesserungen vorzunehmen. <!-- TODO: Fallback translation -->
-3.  **Chronologisch:** gewisse Versmaße gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann &lt;1854 - 1920&gt;:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in: :br **Oldenberg, Hermann &lt;1854 - 1920&gt;:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255. <!-- TODO: Fallback translation -->
+1. **美学层面**：诗律是表达美感的重要组成部分。此外，特定的诗体可能用于表达某些情绪状态，或与特定的社会阶层（⟪वर्ण⟫）相关联。不同的诗体以各自独特的方式吟诵。:br 例如，对⟪शिवताण्डवस्तोत्र⟩（赞美湿婆之舞）的吟诵能很好地体现其美学效果：[http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+2. **文本批判层面**：韵律中的错误可能表明该处文本的传承存在不准确之处。诗律有助于进行文本校勘与修正。
+3. **历史年代层面**：某些诗体在历史进程中经历了特定的演变。这有助于对文本进行大致断代。参见**奥登伯格，赫尔曼 \&lt;1854 - 1920\&gt;：**《特里什图布诗律的发展史》；同上：《舍洛卡诗律的发展史》。二者均收录于：**奥登伯格，赫尔曼 \&lt;1854 - 1920\&gt;：**《小文集》/ 赫尔曼·奥登伯格。由克劳斯·L. 亚内特编辑。——威斯巴登：施泰纳出版社。——3卷本。——（格拉森哈普基金会；……）。——第2卷。——1967年。——页码 1188 - 1255。
 
-:::media
+::: media
 ![](/images/lekt5304.jpg)
-Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
-(Bildquelle: [Details](/licenses#lekt5304)) <!-- TODO: Fallback translation -->
+图：⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5304)）
 :::
-### 53.10.2. Arten von Metren
+### 53.10.2. 诗体的种类
 
-:::grammar-box
-**Die Inder unterscheiden:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**印度人区分：**
 
-*   **⟪वृत्त⟫ n.:** Metren, bei denen die Zahl der Silben (⟪अक्षर⟫) festgelegt ist <!-- TODO: Fallback translation -->
-*   **⟪जाति⟫ f.:** Metren, bei denen die Summe der metrischen Längeneinheiten (⟪मात्रा⟫) (Moren) festgelegt ist (zu diesen später) <!-- TODO: Fallback translation -->
+*   **⟪वृत्त⟫ n.:** 音节数量固定的韵律（⟪अक्षर⟫）
+*   **⟪जाति⟫ f.:** 音步长度单位总和（⟪मात्रा⟫）固定的韵律（稍后讨论此类）
 
-**Bei den Metren, bei denen die Zahl der Silben festgelegt ist (⟪वृत्त⟫) kann man zunächst weiter unterscheiden:** <!-- TODO: Fallback translation -->
+**在音节数量固定的韵律（⟪वृत्त⟫）中，可以进一步区分：**
 
-*   Metren, bei denen die Zahl der Silben festgelegt ist, die Quantität dieser Silben aber nur teilweise <!-- TODO: Fallback translation -->
-*   Metren, bei denen die Zahl der Silben and deren Quantität festgelegt ist <!-- TODO: Fallback translation -->
+*   音节数量固定，但这些音节的长短属性仅部分固定的韵律
+*   音节数量及其长短属性均固定的韵律
 :::
-### 53.10.3. Die metrische Quantität von Silben
+### 53.10.3. 音节的韵律长短
 
-::::grammar-box
-**Merkvers** <!-- TODO: Fallback translation -->
+::: grammar-box
+**记忆口诀**
 
-:::indent
+:::
+::: indent
 ⟪सानुस्वारश्च⟫ ⟪दीर्घश्च⟫
 ⟪विसर्गी⟫ ⟪च⟫ ⟪गुरुर्भवेत्⟫ ⟪।⟫
 ⟪वर्णः⟫ ⟪संयोगपूर्वश्च⟫
-⟪तथा⟫ ⟪पादान्तगो⟫ ⟪ऽपि⟫ ⟪वा⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪तथा⟫ ⟪पादान्तगो⟫ ⟪ऽपि⟫ ⟪वा⟫ ⟪॥⟫
 :::
-"Eine Silber ist schwer, <!-- TODO: Fallback translation -->
+“一个音节是重的，
 
-*   wenn ihr Vokal einen Anusvāra hat, <!-- TODO: Fallback translation -->
-*   lang ist, <!-- TODO: Fallback translation -->
-*   einen Visarga hat, <!-- TODO: Fallback translation -->
-*   ebenso wenn er vor einer Konsonantenverbindung steht <!-- TODO: Fallback translation -->
-*   sowie wenn die Silbe am Schluss eines Viertelverses (Pāda) steht." <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Eine Silbe ist** <!-- TODO: Fallback translation -->
+*   wenn ihr Vokal einen Anusvāra hat,
+*   长，
+*   带有 visarga（ḥ），
+*   或者当它位于辅音丛之前时，
+*   以及当该音节处于半行诗（pāda）末尾时。”
+::: grammar-box
+**一个音节是**
 
-*   entweder **⟪लघु⟫ = leicht** <!-- TODO: Fallback translation -->
-*   oder **⟪गुरु⟫ = schwer** <!-- TODO: Fallback translation -->
+*   要么 **⟪लघु⟫ = 轻**
+*   要么 **⟪गुरु⟫ = 重**
 
-**⟪लघु⟫ = leicht ist eine Silbe, wenn** <!-- TODO: Fallback translation -->
+**⟪लघु⟫ = 轻者为一音节，若**
 
-*   ihr Vokal kurz ist und auf diesen Vokal <!-- TODO: Fallback translation -->
-*   kein Anusvāra, <!-- TODO: Fallback translation -->
-*   kein Visarga, <!-- TODO: Fallback translation -->
-*   nicht zwei Konsonanten folgen. <!-- TODO: Fallback translation -->
+*   其元音为短元音且该元音后
+*   kein Anusvāra,
+*   无 visarga（火点），
+*   不跟两个辅音。
 
-Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
+Kurze Vokale sind a, i, u, ṛ, ḷ
 
-**Alle anderen Silben sind ⟪गुरु⟫ = schwer. Die letzte Silbe eines Versviertels (⟪पाद⟫) gilt immer als ⟪गुरु⟫.** <!-- TODO: Fallback translation -->
+**所有其他音节均为 ⟪गुरु⟫ = 重。诗节四分之一处的最后一个音节（⟪पाद⟫）始终视为 ⟪गुरु⟫。**
 
-In der metrischen Analyse bedeutet: <!-- TODO: Fallback translation -->
+在韵律分析中，这意味着：
 
-*   **◡** = ⟪ल⟫ = ⟪लघु⟫ <!-- TODO: Fallback translation -->
-*   **—** = ⟪ग⟫ = ⟪गुरु⟫ <!-- TODO: Fallback translation -->
-*   **×** = ⟪लघु⟫ oder ⟪गुरु⟫ <!-- TODO: Fallback translation -->
-*   **/** = Zäsur (Worttrennung) <!-- TODO: Fallback translation -->
+*   **◡** = ⟪ल⟫ = ⟪लघु⟫
+*   **—** = ⟪ग⟫ = ⟪गुरु⟫
+*   **×** = ⟪लघु⟫ 或 ⟪गुरु⟫
+*   **/** = 韵脚（词间分隔）
 :::
-Beispiel: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫: <!-- TODO: Fallback translation -->
+示例：⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫：
 
-:::indent
+::: indent
 ⟪धर्मक्षेत्रे⟫ ⟪कुरुक्षेत्रे⟫ ⟪समवेता⟫ ⟪युयुत्सवः⟫ ⟪।⟫
-⟪मामकाः⟫ ⟪पाण्डवाश्चैव⟫ ⟪किम्⟫ ⟪अकुर्वत⟫ ⟪संजय⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪मामकाः⟫ ⟪पाण्डवाश्चैव⟫ ⟪किम्⟫ ⟪अकुर्वत⟫ ⟪संजय⟫ ⟪॥१॥⟫
 :::
-Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ : <!-- TODO: Fallback translation -->
+⟪लघु⟫ 和 ⟪गुरु⟫ 的分布：
+
+::: metrik-schema
+— — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
+:::: metrik-schema
+— ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
+::::
+:::
+### 53.10.4. 史诗颂诗体（⟪श्लोक⟫ m.）
+
+::: grammar-box
+**记忆口诀：**
 
 :::
-metrik-schema
-— — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —** <!-- TODO: Fallback translation -->
-::::::
-metrik-schema
-— ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —** <!-- TODO: Fallback translation -->
-:::
-### 53.10.4. Der epische Śloka (⟪श्लोक⟫ m.)
-
-::::grammar-box
-**Merkvers:** <!-- TODO: Fallback translation -->
-
-:::indent
+::: indent
 ⟪श्लोके⟫ ⟪षष्ठं⟫ ⟪गुरु⟫ ⟪ज्ञेयं⟫
 ⟪सर्वत्र⟫ ⟪लघु⟫ ⟪पञ्चमम्⟫ ⟪।⟫
 ⟪द्विचतुष्पादयोर्ह्रस्वं⟫
-⟪सप्तमं⟫ ⟪दीर्घमन्ययोः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪सप्तमं⟫ ⟪दीर्घमन्ययोः⟫ ⟪॥⟫
 :::
-"Im Śloka ist die sechste Silbe eines Pāda schwer,  
-die fünfte in allen Pādas leicht  
-Die siebte Silbe ist im zweiten und vierten Pāda kurz, lang in den beiden anderen." <!-- TODO: Fallback translation -->
-:::
-Das wichtigste Versmaß in den Epen (⟪महाभारत⟫, ⟪रामायण⟫) sowie unzähligen anderen Werken ist der Śloka ("Ruf", "Geräusch", "Strophe" zu ⟪श्रु⟫ "hören"). <!-- TODO: Fallback translation -->
+“在偈颂中，半行的第六个音节沉重（长音），
+所有半行中的第五个音节轻快（短音）。
+第二个和第四个半行中的第七个音节是短的，而在另外两个半行中则是长的。”
+史诗（⟪महाभारत⟫，⟪रामायण⟫）以及无数其他作品中最主要的诗律是偈颂（Śloka，意为“呼唤”、“声音”或“诗句”，源自⟪श्रु⟫ “听”）。
 
-::::grammar-box
-**Der ⟪श्लोक⟫ ist eine Doppelvers aus Halbversen zu je 16 Silben. Jeder Halbvers zerfällt wieder in zwei Viertelverse (⟪पाद⟫) zu je 8 Silben. Jeder Viertelvers zerfällt in zwei Teile zu je 4 Silben. Der ganze Vers (⟪पद्य⟫ n.) besteht also aus vier ⟪पाद⟫ (m. "Fuß, Viertel"). Die vier ⟪पाद⟫ werden mit a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫) durchgezählt.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**⟪श्लोक⟫是由两个各含16个音节的半行组成的双句诗。每个半行又分为两个各含8个音节的四分之一行（⟪पाद⟫）。每个四分之一行再分为两个各含4个音节的部分。整个诗句（⟪पद्य⟫，阴性名词）因此由四个⟪पाद⟫（阳性名词，意为“脚”或“四分之一行”）组成。这四个⟪पाद⟫按顺序编号为a、b、c（⟪क्⟫，⟪ख्⟫，⟪ग्⟫，⟪घ्⟫）。**
 
-**Aufbau des Śloka:** <!-- TODO: Fallback translation -->
+**偈颂的结构：**
 
-**Grundschema (⟪पथ्या⟫):** <!-- TODO: Fallback translation -->
+**基本模式（⟪पथ्या⟫）：**
 
-**a = c:** <!-- TODO: Fallback translation -->
+**a = c：**
 :::
-metrik-schema
-× × × ×   **◡ — — —** <!-- TODO: Fallback translation -->
+::: metrik-schema
+× × × ×   **◡ — — —**
 :::
-**b = d:** <!-- TODO: Fallback translation -->
+**b = d：**
+::: metrik-schema
+× × × ×   **◡ — ◡ —**
 :::
-metrik-schema
-× × × ×   **◡ — ◡ —** <!-- TODO: Fallback translation -->
-:::
-Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪लघु⟫ sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein. <!-- TODO: Fallback translation -->
+⟪पाद⟫ 的第二和第三个音节不应同时为 ⟨⟪लघु⟫。在 b 和 d 中，第 2 - 4 个音节不能为 ¯ ˘ ¯。
 
-**Nebenschemata (⟪विपुला⟫) für a und c:** <!-- TODO: Fallback translation -->
+**辅助模式（⟪विपुला⟩）用于 a 和 c：**
 
-**⟪विपुला⟫ 1:** <!-- TODO: Fallback translation -->
+**⟪विपुला⟫ 1：**
+::: metrik-schema
+× × × —   ◡ ◡ ◡ —
 :::
-metrik-schema
-× × × —   ◡ ◡ ◡ — <!-- TODO: Fallback translation -->
+**⟪विपुला⟫ 2：**
+::: metrik-schema
+× — ◡ —   — ◡ ◡ —
 :::
-**⟪विपुला⟫ 2:** <!-- TODO: Fallback translation -->
+**⟪विपुला⟫ 3：**
+::: metrik-schema
+× — ◡ —   — / — — —
 :::
-metrik-schema
-× — ◡ —   — ◡ ◡ — <!-- TODO: Fallback translation -->
+**⟪विपुला⟫ 4：**
+::: metrik-schema
+× × × ×   / — ◡ — —
 :::
-**⟪विपुला⟫ 3:** <!-- TODO: Fallback translation -->
-:::
-metrik-schema
-× — ◡ —   — / — — — <!-- TODO: Fallback translation -->
-:::
-**⟪विपुला⟫ 4:** <!-- TODO: Fallback translation -->
-:::
-metrik-schema
-× × × ×   / — ◡ — — <!-- TODO: Fallback translation -->
-:::
-**Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. ⟪पाद⟫ : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.** <!-- TODO: Fallback translation -->
-:::
-## 53.11. Übung
+**所有 Śloka 形式的主停顿位于第 2 个 ⟨⟪पाद⟫ 的末尾：那里要么是词尾，要么（在长复合词中）是构词语素的结尾。**
+## 53.11. 练习
 
-:::grammar-box
-**Bestimmen sie unter allen bisher gelernten Versen die Ślokas. Machen Sie zu diesen schriftlich das metrische Schema. Weisen Sie auf eventuelle Unregelmäßigkeiten bzw. Vipulāformen hin.** <!-- TODO: Fallback translation -->
-::::::
-center
-Finitum feliciter 1984-02-15
-Editio interretialis feliciter finita 2009-01-19
-Alois Maria Payer
-⟪श्रीगणेशाय⟫ ⟪नमः⟫ <!-- TODO: Fallback translation -->
-::::::deleteme-box
-**Quellen** <!-- TODO: Fallback translation -->
+::: grammar-box
+**从迄今为止所学的所有诗节中确定颂诗（Ślokas）。为这些诗节书面写出其格律格式。指出任何不规则之处或 Vipulā 形式。**
+:::: center
+圆满终结于 1984-02-15
+电子版成功完成于 2009-01-19
+阿洛伊斯·玛丽亚·派尔（Alois Maria Payer）
+⟪श्रीगणेशाय⟫ ⟪नमः⟫
+::::
+:::
+::: deleteme-box
+**资料来源**
 
-**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) <!-- TODO: Fallback translation -->
+**派尔，阿洛伊斯 \&lt;1944 - \&gt;:** 梵语课程。 -- 第53课 53（学期假期）。 -- 版本日期为 2009-01-19。 -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
-Finitum feliciter 1984-02-15  
-Editio interretialis feliciter finita 2009-01-19  
-Alois Maria Payer  
-⟪श्रीगणेशाय⟫ ⟪नमः⟫ <!-- TODO: Fallback translation -->
-::::::deleteme-box
+圆满终结于 1984-02-15  
+电子版成功完成于 2009-01-19  
+阿洛伊斯·玛丽亚·派尔（Alois Maria Payer）  
+⟪श्रीगणेशाय⟫ ⟪नमः⟫
+:::
+::: deleteme-box
 
-**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer). <!-- TODO: Fallback translation -->
+**派尔，阿洛伊斯 \&lt;1944 - \&gt;:** 梵语课程。 -- 第53课 53（学期假期）。 -- 原始表格53.9的图片来源：原始来源截图（派尔）。
 :::

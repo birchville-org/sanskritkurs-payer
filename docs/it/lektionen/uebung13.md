@@ -120,7 +120,7 @@ I saggi vedici vedono che il demone in nessun caso vince.
 Che cosa mangiano e bevono i brāhmaṇi?
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung019.webp)
 Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung019))
@@ -268,7 +268,7 @@ E) Tradurre in sanscrito:
 11. I sacerdoti sacrificanti hanno spremuto il soma.
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung018.webp)
 Fig.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung018))

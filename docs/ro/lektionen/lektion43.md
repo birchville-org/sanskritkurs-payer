@@ -9,9 +9,9 @@ status: stable
 
 # Lecția 43
 
-## 43.1. Terminări personale ale celei de-a 2-a persoane (⟪मध्यमः⟫ = "persoana a treia &lt;mijlocie&gt;")
+## 43.1. Terminări personale ale celei de-a 2-a persoane (⟪मध्यमः⟫ = "persoana a treia \<mijlocie\>")
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -30,7 +30,7 @@ Persoana a II-a:
 
 ### 43.2.1.1. Teme tematice
 
-:::media
+::: media
 ![](/images/lekt4301.jpg)
 :::
 Singularul 3. al Imperfectului și al Optativului în Ā, respectiv Pluralul 2. al Imperfectului și al Optativului, sunt formal identice!
@@ -42,9 +42,9 @@ Singularul 3. al Imperfectului și al Optativului în Ā, respectiv Pluralul 2. 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | &lt;⟪भवसे⟫&gt; | &lt;⟪भवध्वे⟫&gt; |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | &lt;⟪अभवथास्⟫&gt; | &lt;⟪अभवध्वम्⟫&gt; |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | &lt;⟪भवेथास्⟫&gt; | &lt;⟪भवेध्वम्⟫&gt; |
+| **Indicativ Prezent**:br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \<⟪भवसे⟫\> | \<⟪भवध्वे⟫\> |
+| **Imperfect**:br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \<⟪अभवथास्⟫\> | \<⟪अभवध्वम्⟫\> |
+| **Optativ**:br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \<⟪भवेथास्⟫\> | \<⟪भवेध्वम्⟫\> |
 
 #### 43.2.1.1.2. A șasea clasă de prezent (⟪तुदादि⟫)
 
@@ -53,9 +53,9 @@ Singularul 3. al Imperfectului și al Optativului în Ā, respectiv Pluralul 2. 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | &lt;⟪विशसे⟫&gt; | &lt;⟪विशध्वे⟫&gt; |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | &lt;⟪अविशथास्⟫&gt; | &lt;⟪अविशध्वम्⟫&gt; |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | &lt;⟪विशेथास्⟫&gt; | &lt;⟪विशेध्वम्⟫&gt; |
+| **Indicativ Prezent**:br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \<⟪विशसे⟫\> | \<⟪विशध्वे⟫\> |
+| **Imperfect**:br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \<⟪अविशथास्⟫\> | \<⟪अविशध्वम्⟫\> |
+| **Optativ**:br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \<⟪विशेथास्⟫\> | \<⟪विशेध्वम्⟫\> |
 
 #### 43.2.1.1.3. A patra clasă de prezent (⟪दिवादि⟫)
 
@@ -64,9 +64,9 @@ Singularul 3. al Imperfectului și al Optativului în Ā, respectiv Pluralul 2. 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | &lt;⟪नृत्यसे⟫&gt; | &lt;⟪नृत्यध्वे⟫&gt; |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | &lt;⟪अनृत्यथास्⟫&gt; | &lt;⟪अनृत्यध्वम्⟫&gt; |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | &lt;⟪नृत्येथास्⟫&gt; | &lt;⟪नृत्येध्वम्⟫&gt; |
+| **Indicativ Prezent**:br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \<⟪नृत्यसे⟫\> | \<⟪नृत्यध्वे⟫\> |
+| **Imperfect**:br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \<⟪अनृत्यथास्⟫\> | \<⟪अनृत्यध्वम्⟫\> |
+| **Optativ**:br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \<⟪नृत्येथास्⟫\> | \<⟪नृत्येध्वम्⟫\> |
 
 #### 43.2.1.1.4. A zecea clasă de prezent (⟪चुरादि⟫) și Cauzativele
 
@@ -107,14 +107,14 @@ Singularul 3. al Imperfectului și al Optativului în Ā, respectiv Pluralul 2. 
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | &lt;⟪भविष्यसे⟫&gt; | &lt;⟪भविष्यध्वे⟫&gt; |
+| ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | \<⟪भविष्यसे⟫\> | \<⟪भविष्यध्वे⟫\> |
 
 ## 43.3. Pronumele personal de a doua persoană
 
 *   Singular: ⟪त्वद्⟫ "tu"
 *   Plural: ⟪युष्मद्⟫ "voi"
 
-:::grammar-box
+::: grammar-box
 | | ⟪एकवचनम्⟫ (⟪त्वद्⟫) | ⟪बहुवचनम्⟫ (⟪युष्मद्⟫) |
 | --- | --- | --- |
 | **⟪प्रथमा⟫** | ⟪त्वम्⟫ | ⟪यूयम्⟫ |
@@ -127,7 +127,7 @@ Singularul 3. al Imperfectului și al Optativului în Ā, respectiv Pluralul 2. 
 :::
 Formele ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ nu pot fi folosite la începutul unei propoziții sau al unei jumătăți de vers. De asemenea, nu pot fi utilizate înainte de ⟪च⟫, ⟪वा⟫, ⟪एव⟫ și alte particule similare:
 
-:::indent
+::: indent
 ⟪त्वां⟫ ⟪मां⟫ ⟪च⟫ "pe tine și pe mine"
 :::
 ## 43.4. Listă de cuvinte
@@ -136,7 +136,7 @@ Formele ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ nu pot fi folosite la 
 
 ⟪आपण⟫ m.: piață
 
-:::media
+::: media
 ![](/images/lekt4302.webp)
 Fig.: ⟪आपणः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4302))
@@ -145,7 +145,7 @@ Fig.: ⟪आपणः⟫
 
 ⟪पण्य⟫ 3: vândut; n.: marfă, comerț
 
-:::media
+::: media
 ![]/images/lekt4303.webp
 Fig.: ⟪पण्यानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4303))
@@ -168,14 +168,14 @@ Fig.: ⟪पण्यानि⟫
 
 ⟪विपणि⟫ f.: magazin
 
-:::media
+::: media
 ![](/images/lekt4304.webp)
 Fig.: ⟪विपणिः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4304))
 :::
 ⟪वणिज्⟫ m.: comerciant
 
-:::media
+::: media
 ![](/images/lekt4305.webp)
 Fig.: ⟪वणिक्⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4305))
@@ -186,7 +186,7 @@ Fig.: ⟪वणिक्⟫
 
 ⟪वत्स⟫ m.: vițel, pui, copil ; Voc.: dragul meu
 
-:::media
+::: media
 ![](/images/lekt4306.webp)
 Fig.: ⟪वत्सः⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4306))
@@ -207,7 +207,7 @@ Fig.: ⟪वत्सः⟫
 
 ⟪तर्हि⟫ 10 ⟪तुल्⟫ ⟪तुलयति⟫ ⟪।⟫ : cântări
 
-:::media
+::: media
 ![](/images/lekt4307.webp)
 Fig.: ⟪तोलयति⟫
 (Sursa imaginii: [Detalii](/ro/licenses/lekt4307))
@@ -224,7 +224,7 @@ Fig.: ⟪तोलयति⟫
 
 ⟪जव⟫ 1P ⟪द्रु⟫ alerga
 
-:::indent
+::: indent
 Perf. IIIa ⟪द्रवति⟫, ⟪दुद्राव⟫  
 Fut. ⟪दुद्रुवुर्⟫  
 Pass. ⟪द्रोष्यति⟫  
@@ -328,7 +328,7 @@ B) Traduceți în sanscrită:
 
 10\. Cum vă salvați (depășiți) în fața inamicului?
 
-:::media
+::: media
 ![](/images/lekt4308.webp)
 Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4308))
@@ -363,11 +363,12 @@ Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 | ⟪अशोको⟫ ⟪गृहमागत्य⟫ ⟪सर्वमपीतिवृत्तमकथयत्⟫ ⟪।⟫ ⟪तत्रस्था⟫ ⟪सर्वे⟫ ⟪ऽपि⟫ ⟪बान्धवा⟫ ⟪मित्राणि⟫ ⟪च⟫ ⟪परमानन्दं⟫ ⟪प्रापुः⟫ ⟪।⟫ ⟪इत्थं⟫ ⟪जन्मोत्सवः⟫ ⟪सानन्दं⟫ ⟪समाप्तिं⟫ ⟪यातः⟫ ⟪॥⟫ | |
 | (După: Saral Sanskrit Shikshak III, p. 4f.) | |
 
-:::media
+::: media
 ![](/images/lekt4309.webp)
 Fig.: ⟪शर्करा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4309))
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Accesat la 2009-01-06. -- Licență Creative Commons (Atribuire, fără scop comercial)
 

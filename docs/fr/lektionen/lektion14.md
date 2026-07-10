@@ -1,160 +1,155 @@
 ---
-title: Leçon 14
-subtitle: "L'expression de la relation entre les désignations par des substantifs : le génitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixième terminaison casuelle)"
+title: Lektion 14
+subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
 # Leçon 14
 
-## 14.1. L'expression de la relation entre ce qui est désigné par des substantifs : le génitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixième désinence casuelle)
+## 14.1. L'expression de la relation entre ce qui est désigné par des substantifs : le génitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixième terminaison casuelle)
 
-:::grammar-box
-Si l'on veut exprimer la relation entre deux substantifs, on utilise le génitif (ṣaṣṭhī f. « sixième désinence casuelle »). Le génitif se distingue de tous les autres cas par le fait qu'il ne sert, à de rares exceptions près, pas à déterminer plus précisément l'action exprimée par le verbe, mais à exprimer la relation entre des personnes ou des choses désignées par des substantifs. Le génitif répond souvent à la question : À qui ? De qui ?
+::: grammar-box
+Si l'on veut exprimer la relation indiquée par deux substantifs, on utilise le génitif (ṣaṣṭhī f. "sixième terminaison casuelle"). Le génitif se distingue de tous les autres cas par le fait qu'il -- à de rares exceptions près -- ne sert pas à déterminer plus précisément l'action exprimée par le verbe, mais à exprimer la relation entre des personnes ou des choses désignées par des substantifs. Le génitif se pose souvent à la question : À qui ? De qui ?
 :::
 Exemples :
 
-⟪कवेः⟫ ⟪पुत्रः⟫ « Le fils du poète »
+⟪कवेः⟫ ⟪पुत्रः⟫ « Le Fils du Poète »
 
-⟪धनस्य⟫ ⟪लोभः⟫ « L'avidité de la richesse »
+⟪धनस्य⟫ ⟪लोभः⟫ « Avidité pour la richesse »
 
 ⟪नगरस्यार्धम्⟫ « La moitié de la ville »
 
-⟪रामस्य⟫ ⟪कृतम्⟫ « L'action / Une action de Rāma »
+⟪रामस्य⟫ ⟪कृतम्⟫ « Le / Un acte de Rāma »
 
-:::grammar-box
-L'ordre des mots normal est :
+::: grammar-box
+La position normale des mots est :
 
-> **Mot déterminant au génitif — Substantif déterminé dans un autre cas**
+> **Génitif déterminant — Nom déterminé dans un autre cas**
 :::
-**Génitif et participe passé passif (PPP) :**
+**Génitif et participe passé :**
 
-:::grammar-box
-Dans le cas des PPP, le génitif peut remplacer l'instrumental (tṛtīyā) pour l'agent (kartṛ) ; dans la construction avec l'instrumental, le PPP est considéré comme une forme verbale passive (ce qui est à l'instrumental désigne l'agent), tandis que dans la construction avec le génitif, le PPP est considéré comme un substantif ou un adjectif (ce qui est au génitif n'est donc pas proprement l'agent).
+::: grammar-box
+Dans les constructions avec des participes passés, le génitif peut remplacer l’instrumental (tṛtīyā) pour exprimer l’agent (kartṛ) ; dans la construction avec l’instrumental, le participe passé est considéré comme une forme verbale passive (l’élément au instrumental désigne l’agent), tandis que dans la construction avec le génitif, le participe passé est considéré comme un substantif ou un adjectif (l’élément au génitif n’est donc pas véritablement l’agent).
 
-Selon Pāṇini 2.3.67, lorsque le PPP a un sens présent, le génitif est utilisé ; lorsque le PPP a un sens passé, l'instrumental est utilisé :
+Conformément à Pāṇini 2.3.67, lorsque le participe passé (PPP) a une signification présente, le génitif est utilisé ; lorsque le PPP a une signification passée, l’instrumental est utilisé :
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ « Le fruit désiré par Rāma = Le fruit que Rāma désire actuellement »
+> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ «Le fruit souhaité par Rāma = Le fruit que Rāma souhaite actuellement»
 > 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ « Le fruit que Rāma a désiré »
+> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ «Le fruit que Rāma a souhaité»
 
-Bien entendu, lorsqu'un PPP au neutre singulier est utilisé comme abstraction verbale — c'est-à-dire comme substantif — le génitif est employé.
+Bien sûr, dans le cas d’un PPP neutre au singulier, utilisé comme un abstrait verbal — c’est-à-dire comme un substantif — le génitif est employé.
 :::
-## 14.2. Formation des génitif (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+## 14.2. Formation des formes génitives (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
-Le génitif des racines verbales avec alternance vocalique est formé à partir du thème faible.
+Le génitif est formé à partir du thème faible des radicaux verbaux présentant une alternance de grade.
 
-**Génitif des thèmes à terminaison consonantique :**
+**Genitif des konsonantisch auslautenden Stämme:**
 
-::::grammar-box
+::: grammar-box
 
-Après une consonne, les terminaisons régulières du génitif sont :
+Après les consonnes, les terminaisons régulières du génitif sont :
 * Singulier : **-as**
 * Pluriel : **-ām**
 
 :::
-center
+::: center
 
-| Thème nominal | Thème faible | Génitif singulier | Génitif pluriel |
+| Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural |
 | :--- | :--- | :--- | :--- |
-| **guṇa-vant-**:br**⟪गुणवन्त्⟫** | **guṇa-vat-**:br**⟪गुणवत्⟫** | **guṇa-vat-as**:br**⟪गुणवतस्⟫** | **guṇa-vat-ām**:br**⟪गुणवताम्⟫** |
-| **paśu-mant-**:br**⟪पशुमन्त्⟫** | **paśu-mat-**:br**⟪पशुमत्⟫** | **paśu-mat-as**:br**⟪पशुमतस्⟫** | **paśu-mat-ām**:br**⟪पशुमताम्⟫** |
+| **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
+| **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
-:::::::
-**Génitif des thèmes à terminaison vocalique, à l'exception des noms de racine monosyllabiques et des thèmes à terminaison diphtonguée :**
+:::
+**Génitif des thèmes à terminaison vocalique, à l'exception des noms de racine monosyllabiques et des thèmes à terminaison diphtongique :**
 
 **Pluriel :**
 
-::::grammar-box
+::: grammar-box
 
-Le génitif pluriel des thèmes à terminaison vocalique se forme ainsi :
+Le pluriel du génitif des thèmes en voyelle se forme ainsi :
 
-> **-vocalique long de terminaison du thème + -nām**
+> **-langer auslautender Vokal des Stammes + -nām**
 
 :::
-center
+::: center
 
 | Thème nominal | Génitif pluriel |
 | :--- | :--- |
-| **deva** m.:br**⟪देव⟫** | **devā-nām**:br**⟪देवानाम्⟫** |
-| **phala** n.:br**⟪फल⟫** | **phalā-nām**:br**⟪फलानाम्⟫** |
-| **devatā** f.:br**⟪देवता⟫** | **devatā-nām**:br**⟪देवतानाम्⟫** |
-| **kavi** m.:br**⟪कवि⟫** | **kavī-nām**:br**⟪कवीनाम्⟫** |
-| **śruti** f.:br**⟪श्रुति⟫** | **śrutī-nām**:br**⟪श्रुतीनाम्⟫** |
-| **devī** f.:br**⟪देवी⟫** | **devī-nām**:br**⟪देवीनाम्⟫** |
-| **paśu** m.:br**⟪पशु⟫** | **paśū-nām**:br**⟪पशूनाम्⟫** |
-| **dhenu** f.:br**⟪धेनु⟫** | **dhenū-nām**:br**⟪धेनूनाम्⟫** |
-
-:::::::
-**Génitif singulier des thèmes à terminaison vocalique :**
-
-::::grammar-box
-
-Le génitif singulier des thèmes à terminaison vocalique est formé de manière irrégulière et doit être appris par cœur.
+| **deva** m.:br ⟪देव⟫ | **devā-nām** :br ⟪देवानाम्⟫ |
+| **phala** n.:br ⟪फल⟫ | **phalā-nām** :br ⟪फलानाम्⟫ |
+| **devatā** f.:br ⟪देवता⟫ | **devatā-nām** :br ⟪देवतानाम्⟫ |
+| **kavi** m.:br ⟪कवि⟫ | **kavī-nām** :br ⟪कवीनाम्⟫ |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutī-nām** :br ⟪श्रुतीनाम्⟫ |
+| **devī** f.:br ⟪देवी⟫ | **devī-nām** :br ⟪देवीनाम्⟫ |
+| **paśu** m.:br ⟪पशु⟫ | **paśū-nām** :br ⟪पशूनाम्⟫ |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-center
+**Genitif Singulär der auf Vokal endenden Stämme:**
 
-| Thème | Génitif singulier |
+::: grammar-box
+
+Le génitif singulier des thèmes vocaux se forme de manière irrégulière et doit être appris par cœur.
+
+:::
+::: center
+
+| Stamm | Génitif singulier |
 | :--- | :--- |
-| **deva** m.:br**⟪देव⟫** | **devasya**:br**⟪देवस्य⟫** |
-| **phala** n.:br**⟪फल⟫** | **phalasya**:br**⟪फलस्य⟫** |
-| **devatā** f.:br**⟪देवता⟫** | **devatāyās**:br**⟪देवतायास्⟫** |
-| **kavi** m.:br**⟪कवि⟫** | **kaves**:br**⟪कवेस्⟫** |
-| **paśu** m.:br**⟪पशु⟫** | **paśos**:br**⟪पशोस्⟫** |
-| **devī** f.:br**⟪देवी⟫** | **devyās**:br**⟪देव्यास्⟫** |
-| **śruti** f.:br**⟪श्रुति⟫** | **śrutes / śrutyās**:br**⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫**:br(c'est-à-dire soit comme kavi, soit comme devī) |
-| **dhenu** f.:br**⟪धेनु⟫** | **dhenos / dhenvās**:br**⟪धेनोस्⟫ / ⟪धेन्वास्⟫**:br(c'est-à-dire soit comme paśu, soit comme les féminins polysyllabiques en -ū) |
+| **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
+| **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
+| **devatā** f.:br ⟪देवता⟫ | **devatāyās** :br ⟪देवतायास्⟫ |
+| **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
+| **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
+| **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
-:::::::
+:::
 **Pronoms interrogatifs et pronoms démonstratifs :**
 
-::::grammar-box
-
-:::
-center
+::: center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Masculin / Neutre** | **Génitif singulier** | kasya:br**⟪कस्य⟫** | tasya:br**⟪तस्य⟫** | etasya:br**⟪एतस्य⟫** | asya:br**⟪अस्य⟫** |
-| | **Génitif pluriel** | keṣām:br**⟪केषाम्⟫** | teṣām:br**⟪तेषाम्⟫** | eteṣām:br**⟪एतेषाम्⟫** | eṣām:br**⟪एषाम्⟫** |
-| **Féminin** | **Génitif singulier** | kasyās:br**⟪कस्यास्⟫** | tasyās:br**⟪तस्यास्⟫** | etasyās:br**⟪एतस्यास्⟫** | asyās:br**⟪अस्यास्⟫** |
-
-| | **Genitif Pluriel** | kāsām:br**⟪कासाम्⟫** | tāsām:br**⟪तासाम्⟫** | etāsām:br**⟪एतासाम्⟫** | āsām:br**⟪आसाम्⟫** |
-
-:::::::
-**Identité de forme :**
+| **Masculin / Neutre** | **Génitif Singulier** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **Génitif Pluriel** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **Féminin** | **Génitif Singulier** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **Génitif Pluriel** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
-important
+**Formgleichheit :**
 
-Pour toutes les racines nominales, à l'exception des masculins et des neutres en -a ainsi que des pronoms, la forme du génitif singulier est identique à celle de l'ablatif (pañcamī « cinquième terminaison casuelle ») singulier !
+::: important
 
-Notez que pour les racines à terminaison consonantique, l'ablatif et le génitif singulier ont la même prononciation que l'accusatif pluriel masculin et féminin !
+Pour toutes les bases nominales, à l'exception des masculins et neutres en -a et des pronoms, la forme du génitif singulier est identique à celle de l'ablatif (pañcamī « cinquième terminaison casuelle ») singulier !
+
+Notez que, pour les stems consonnantiques, l'ablatif et le génitif singulier sont identiques à l'accusatif pluriel masculin et féminin !
 
 :::
-## 14.3. Compléments sur l’usage du génitif (⟪षष्ठी⟫)
+## 14.3. Compléments sur l'usage du génitif (⟪षष्ठी⟫)
 
-:::grammar-box
-Contrairement à la règle générale ci-dessus, le génitif est utilisé pour exprimer l’objet de certains verbes, par exemple les verbes de mémoire :
+::: grammar-box
+Contra la règle de base ci-dessus, le génitif est utilisé pour exprimer l'objet de certains verbes, par exemple les verbes de mémoire :
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ « Il se souvient des dieux. »
+> ⟪देवानां⟫ ⟪स्मरति⟫ « Il se souvient des dieux »
 
-Pour tous ces verbes, l’objet peut également être à l’accusatif :
+Pour tous ces verbes, l'objet peut également être au cas accusatif :
 
-> ⟪देवान्स्मरति⟫ « Il se souvient des dieux. »
+> ⟪देवान्स्मरति⟩ « Il se souvient des dieux »
 
-Voir plus loin.
+Plus tard.
 :::
 ## 14.4. Liste de vocabulaire
 
 * **śīla n.** (⟪शील⟫) : (bon) caractère, moralité
-* **bhūṣ-aṇa n** (⟪भूषण⟫) : bijou
+* **bhūṣ-aṇa n** (⟪भूषण⟫) : bijoux
 * **dīpa m.** (⟪दीप⟫) : lampe
 
-:::media
+::: media
 ![](/images/lekt1405.webp)
 Fig. : ⟪दीपाः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1405))
@@ -168,8 +163,8 @@ Fig. : ⟪दीपाः⟫
 * **jala n.** (⟪जल⟫) : eau
 * **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : naître, surgir, apparaître
   * **jan-a m.** (⟪जन⟫) : créature, être humain, gens
-* **vac 2 P** (vakti, pas de 3. plur. !), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : dire, parler à (accusatif)
-  * **uk-ti f.** (⟪उक्ति⟫) : déclaration, parole
+* **vac 2 P** (vakti, pas de 3e plur. !), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : dire, parler à (accusatif)
+  * **uk-ti f.** (⟪उक्ति⟫) : énoncé, parole
   * **vac-ana n.** (⟪वचन⟫) : le fait de parler, la parole
   * **vāk-ya n.** (⟪वाक्य⟫) : mot, discours
 
@@ -189,7 +184,7 @@ Traduisez les proverbes suivants et apprenez-les par cœur :
 
 ## 14.6. Exercice
 
-**A) Formez le génitif singulier et pluriel des mots suivants. Indiquez le sens et le genre des mots :**
+**A) Formez le génitif singulier et pluriel des mots suivants. Indiquez la signification et le genre des mots :**
 
 ⟪१⟫. ⟪अनृत⟫
 
@@ -241,7 +236,7 @@ Traduisez les proverbes suivants et apprenez-les par cœur :
 
 ⟪२५⟫. ⟪पुत्रवती⟫
 
-:::media
+::: media
 ![](/images/lekt1404.webp)
 Fig. : ⟪पुत्रवती⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1404))
@@ -294,7 +289,7 @@ Fig. : ⟪पुत्रवती⟫
 
 ⟪४९⟫. ⟪गूढा⟫
 
-⟪५०⟫. ⟪ईष्टा⟫ (2 sens)
+⟪५०⟫. ⟪ईष्टा⟫ (2 significations)
 
 ⟪५१⟫. ⟪उदित⟫
 
@@ -302,7 +297,7 @@ Fig. : ⟪पुत्रवती⟫
 
 ⟪५३⟫. ⟪किम्⟫
 
-:::media
+::: media
 ![](/images/lekt1403.webp)
 Fig. : ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1403))
@@ -335,7 +330,7 @@ Fig. : ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1402.webp)
 Fig. : ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1402))

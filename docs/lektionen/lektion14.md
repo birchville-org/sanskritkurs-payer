@@ -11,7 +11,7 @@ status: stable
 
 ## 14.1. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)
 
-:::grammar-box
+::: grammar-box
 Soll das Verhältnis des durch zwei Substantive ausgedrückten bezeichnet werden, verwendet man den Genetiv (ṣaṣṭhī f. "sechste Kasusendung"). Der Genetiv unterscheidet sich von allen übrigen Kasus dadurch, dass er -- mit wenigen Ausnahmen -- nicht zur näheren Bestimmung der durch das Verb ausgedrückten Handlung dient, sondern zum Ausdruck des Verhältnisses zwischen Personen oder Sachen, die durch Substantive bezeichnet werden. Häufig steht der Genetiv auf die Frage: Wessen?
 :::
 Beispiele:
@@ -24,14 +24,14 @@ Beispiele:
 
 ⟪रामस्य⟫ ⟪कृतम्⟫ "Die / Eine Tat Rāmas"
 
-:::grammar-box
+::: grammar-box
 Die normale Wortstellung ist:
 
 > **Bestimmendes Wort im Genetiv — Näher bestimmtes Substantiv in einem anderen Kasus**
 :::
 **Genetiv und PPP:**
 
-:::grammar-box
+::: grammar-box
 Bei PPPs kann der Genetiv statt des Instrumentalis (tṛtīyā) für den Agens (kartṛ) stehen; In der Konstruktion mit dem Instrumentalis wird das PPP als passive Verbalform betrachtet (das im Instrumentalis Stehende bezeichnet den Agens), in der Konstruktion mit dem Genetiv wird das PPP als Substantiv bzw. Adjektiv betrachtet (das im Genetiv Stehende also nicht eigentlich als Agens).
 
 Nach Pāṇini 2.3.67 steht beim PPP der Genetiv, wenn das PPP präsentische Bedeutung hat (siehe oben), der Instrumentalis, wenn das PPP Vergangenheitsbedeutung hat:
@@ -48,86 +48,82 @@ Der Genetiv wird bei Verbalstämmen mit Stammabstufung vom schwachen Stamm gebil
 
 **Genetiv von konsonantisch auslautenden Stämmen:**
 
-:::grammar-box
+::: grammar-box
 
-Nach Konsonant sind die regelmäßigen Genetivendungen:
+Nach Konsonant sind die regelmässigen Genetivendungen:
 * Singular: **-as**
 * Plural: **-ām**
 
 :::
-center
+::: center
 
 | Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural |
 | :--- | :--- | :--- | :--- |
-| **guṇa-vant-** :br **⟪गुणवन्त्⟫** | **guṇa-vat-** :br **⟪गुणवत्⟫** | **guṇa-vat-as** :br **⟪गुणवतस्⟫** | **guṇa-vat-ām** :br **⟪गुणवताम्⟫** |
-| **paśu-mant-** :br **⟪पशुमन्त्⟫** | **paśu-mat-** :br **⟪पशुमत्⟫** | **paśu-mat-as** :br **⟪पशुमतस्⟫** | **paśu-mat-ām** :br **⟪पशुमताम्⟫** |
+| **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
+| **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
-::::::
-**Genetiv von vokalisch auslautenden Stämmen, außer einsilbigen Wurzelnomina und diphtongisch auslautenden Stämmen:**
+:::
+**Genetiv von vokalisch auslautenden Stämmen, ausser einsilbigen Wurzelnomina und diphtongisch auslautenden Stämmen:**
 
 **Plural:**
 
-:::grammar-box
+::: grammar-box
 
 Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet:
 
 > **-langer auslautender Vokal des Stammes + -nām**
 
 :::
-center
+::: center
 
 | Nominalstamm | Genetiv Plural |
 | :--- | :--- |
-| **deva** m.:br **⟪देव⟫** | **devā-nām** :br **⟪देवानाम्⟫** |
-| **phala** n.:br **⟪फल⟫** | **phalā-nām** :br **⟪फलानाम्⟫** |
-| **devatā** f.:br **⟪देवता⟫** | **devatā-nām** :br **⟪देवतानाम्⟫** |
-| **kavi** m.:br **⟪कवि⟫** | **kavī-nām** :br **⟪कवीनाम्⟫** |
-| **śruti** f.:br **⟪श्रुति⟫** | **śrutī-nām** :br **⟪श्रुतीनाम्⟫** |
-| **devī** f.:br **⟪देवी⟫** | **devī-nām** :br **⟪देवीनाम्⟫** |
-| **paśu** m.:br **⟪पशु⟫** | **paśū-nām** :br **⟪पशूनाम्⟫** |
-| **dhenu** f.:br **⟪धेनु⟫** | **dhenū-nām** :br **⟪धेनूनाम्⟫** |
-
-::::::
-**Genetiv Singular vokalisch auslautender Stämme:**
-
-:::grammar-box
-
-Der Genetiv Singular vokalisch auslautender Stämme wird unregelmäßig gebildet und ist gut auswendig zu lernen.
+| **deva** m.:br ⟪देव⟫ | **devā-nām** :br ⟪देवानाम्⟫ |
+| **phala** n.:br ⟪फल⟫ | **phalā-nām** :br ⟪फलानाम्⟫ |
+| **devatā** f.:br ⟪देवता⟫ | **devatā-nām** :br ⟪देवतानाम्⟫ |
+| **kavi** m.:br ⟪कवि⟫ | **kavī-nām** :br ⟪कवीनाम्⟫ |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutī-nām** :br ⟪श्रुतीनाम्⟫ |
+| **devī** f.:br ⟪देवी⟫ | **devī-nām** :br ⟪देवीनाम्⟫ |
+| **paśu** m.:br ⟪पशु⟫ | **paśū-nām** :br ⟪पशूनाम्⟫ |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-center
+**Genetiv Singular vokalisch auslautender Stämme:**
+
+::: grammar-box
+
+Der Genetiv Singular vokalisch auslautender Stämme wird unregelmässig gebildet und ist gut auswendig zu lernen.
+
+:::
+::: center
 
 | Stamm | Genetiv Singular |
 | :--- | :--- |
-| **deva** m.:br **⟪देव⟫** | **devasya** :br **⟪देवस्य⟫** |
-| **phala** n.:br **⟪फल⟫** | **phalasya** :br **⟪फलस्य⟫** |
-| **devatā** f.:br **⟪देवता⟫** | **devatāyās** :br **⟪देवतायास्⟫** |
-| **kavi** m.:br **⟪कवि⟫** | **kaves** :br **⟪कवेस्⟫** |
-| **paśu** m.:br **⟪पशु⟫** | **paśos** :br **⟪पशोस्⟫** |
-| **devī** f.:br **⟪देवी⟫** | **devyās** :br **⟪देव्यास्⟫** |
-| **śruti** f.:br **⟪श्रुति⟫** | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br **⟪धेनु⟫** | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
-
-::::::
-**Fragepronomen und Demonstrativpronomen:**
-
-:::grammar-box
+| **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
+| **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
+| **devatā** f.:br ⟪देवता⟫ | **devatāyās** :br ⟪देवतायास्⟫ |
+| **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
+| **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
+| **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
-center
+**Fragepronomen und Demonstrativpronomen:**
+
+::: center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Genetiv Singular** | kasya:br **⟪कस्य⟫** | tasya:br **⟪तस्य⟫** | etasya:br **⟪एतस्य⟫** | asya:br **⟪अस्य⟫** |
-| | **Genetiv Plural** | keṣām:br **⟪केषाम्⟫** | teṣām:br **⟪तेषाम्⟫** | eteṣām:br **⟪एतेषाम्⟫** | eṣām:br **⟪एषाम्⟫** |
-| **Femininum** | **Genetiv Singular** | kasyās:br **⟪कस्यास्⟫** | tasyās:br **⟪तस्यास्⟫** | etasyās:br **⟪एतस्यास्⟫** | asyās:br **⟪अस्यास्⟫** |
-| | **Genetiv Plural** | kāsām:br **⟪कासाम्⟫** | tāsām:br **⟪तासाम्⟫** | etāsām:br **⟪एतासाम्⟫** | āsām:br **⟪आसाम्⟫** |
-
-::::::
-**Formengleichheit:**
+| **Maskulinum / Neutrum** | **Genetiv Singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **Genetiv Plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **Femininum** | **Genetiv Singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **Genetiv Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
-important
+**Formengleichheit:**
+
+::: important
 
 Bei allen Nominalstämmen mit Ausnahme der Maskulina und Neutra auf -a und den Pronomina ist die Form des Genetiv Singular identisch mit der Form des Ablativ (pañcamī "fünfte Kasusendung") Singular!
 
@@ -136,7 +132,7 @@ Beachten Sie, dass bei konsonantisch auslautenden Stämmen Ablativ und Genetiv S
 :::
 ## 14.3. Weiteres zum Gebrauch des Genetiv (⟪षष्ठी⟫)
 
-:::grammar-box
+::: grammar-box
 Entgegen obiger Grundregel wird der Genetiv verwendet, um das Objekt einiger Verben auszudrücken, z.B. bei Verben des Gedenkens:
 
 > ⟪देवानां⟫ ⟪स्मरति⟫ "Er gedenkt der Götter"
@@ -153,7 +149,7 @@ Weiteres später.
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : Schmuck
 * **dīpa m.** (⟪दीप⟫) : Lampe
 
-:::media
+::: media
 ![](/images/lekt1405.webp)
 Abb.: ⟪दीपाः⟫
 (Bildquelle: [Details](/licenses#lekt1405))
@@ -240,7 +236,7 @@ Abb.: ⟪दीपाः⟫
 
 ⟪२५⟫. ⟪पुत्रवती⟫
 
-:::media
+::: media
 ![](/images/lekt1404.webp)
 Abb.: ⟪पुत्रवती⟫
 (Bildquelle: [Details](/licenses#lekt1404))
@@ -301,7 +297,7 @@ Abb.: ⟪पुत्रवती⟫
 
 ⟪५३⟫. ⟪किम्⟫
 
-:::media
+::: media
 ![](/images/lekt1403.webp)
 Abb.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#lekt1403))
@@ -334,7 +330,7 @@ Abb.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1402.webp)
 Abb.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#lekt1402))

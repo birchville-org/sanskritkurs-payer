@@ -1,9 +1,9 @@
 ---
-title: Lección 60
-subtitle: "Las desinencias del dual del perfecto (⟪द्विवचनम्⟫)"
+title: Lektion 60
+subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
-category: "Gramática"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,11 +11,11 @@ status: stable
 
 ## 60.1. Las desinencias del dual del perfecto (⟪द्विवचनम्⟫)
 
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1. ⟪तृतीयः⟫ | \-va | \-vahe |
-| 2. ⟪मध्यमः⟫ | \-athur | \-āthe |
-| 3. ⟪प्रथमः⟫ | \-atur | \-āte |
+| 1\. ⟪तृतीयः⟫ | \-va | \-vahe |
+| 2\. ⟪मध्यमः⟫ | \-athur | \-āthe |
+| 3\. ⟪प्रथमः⟫ | \-atur | \-āte |
 
 ## 60.2. El dual del perfecto con reduplicación (⟪द्वित्वलिट्⟫)
 
@@ -23,7 +23,7 @@ status: stable
 
 ⟪बन्ध्⟫ 9P "atar"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ |
@@ -32,7 +32,7 @@ status: stable
 :::
 ⟪भाष्⟫ 1Ā "hablar"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बभाषिवहे⟫ |
@@ -43,7 +43,7 @@ status: stable
 
 ⟪भिद्⟫ 7U "partir"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बिभिदिव⟫ | ⟪बिभिदिवहे⟫ |
@@ -56,7 +56,7 @@ status: stable
 
 ⟪नी⟫ 1U "conducir"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪निन्यिव⟫ | ⟪निन्यिवहे⟫ |
@@ -65,7 +65,7 @@ status: stable
 :::
 ⟪स्तु⟫ 2U (⟪अनिट्⟫) "alabar"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुष्टुव⟫ | ⟪तुष्तुवहे⟫ |
@@ -74,7 +74,7 @@ status: stable
 :::
 ⟪कृ⟫ 8U (⟪अनिट्⟫) "hacer"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
@@ -85,7 +85,7 @@ status: stable
 
 ⟪स्मृ⟫ 1P "presentar"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
@@ -96,7 +96,7 @@ status: stable
 
 ⟪दा⟫ 3U "dar"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪ददिव⟫ | ⟪ददिवहे⟫ |
@@ -111,7 +111,7 @@ status: stable
 
 ⟪गम्⟫ 1U "ir"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
@@ -122,7 +122,7 @@ status: stable
 
 ⟪पच्⟫ 1U "cocinar"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
@@ -133,7 +133,7 @@ status: stable
 
 ⟪क्रम्⟫ 1U "avanzar"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
@@ -144,8 +144,8 @@ status: stable
 
 ⟪गण्⟫ 10P "contar"
 
-:::grammar-box
-|   | **⟪परस्मैपदम्⟫** |
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
@@ -153,8 +153,8 @@ status: stable
 :::
 ⟪आस्⟫ 2Ā "sentarse"
 
-:::grammar-box
-|   | **⟪आत्मनेपदम्⟫** |
+::: grammar-box
+|   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
@@ -162,7 +162,7 @@ status: stable
 :::
 ## 60.4. El participio ⟪परस्मैपद⟫ del perfecto reduplicado (⟪द्वित्वलिट्⟫)
 
-:::grammar-box
+::: grammar-box
 **Formación:**
 
 **raíz de perfecto débil + vāṃs**
@@ -178,7 +178,7 @@ Ejemplos:
 | ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "alguien que ha cocido" |
 | ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "alguien que ha ido" |
 
-:::grammar-box
+::: grammar-box
 **Declinación:**
 
 *   **raíz fuerte: -vāṃs**
@@ -196,21 +196,23 @@ Ejemplo: ⟪विदुषी⟫ "una sabia"
 :::
 Ver paradigmas en Kielhorn, Gramática § 124:
 
-:::media
+::: media
 ![](/images/lekt6001.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6001))
-::::::media
+:::
+
+::: media
 ![](/images/lekt6002.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6002))
 :::
 ## 60.5. Declinación de las raíces en -añc (-ac)
 
-:::grammar-box
+::: grammar-box
 **Las raíces en -añc/-ac son combinaciones de prefijos, etc., con el nombre de raíz de la raíz ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "moverse".**
 :::
 ### 60.5.1. Tribus de tres raíces con terminación -añc
 
-:::grammar-box
+::: grammar-box
 **Formación:**
 
 *   **forma fuerte: -añc**
@@ -232,32 +234,34 @@ Ejemplo: ⟪प्रतीची⟫
 :::
 ####  Véanse paradigmas en Kielhorn, Grammatik § 128:
 
-:::media
+::: media
 ![](/images/lekt6003.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6003))
-::::::media
+:::
+
+::: media
 ![](/images/lekt6004.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6004))
 :::
 Pertenecen a esta categoría:
 
 *   ⟪प्रत्यञ्च्⟫ 3 "hacia atrás, hacia el oeste"
-    
+
 *   ⟪अन्वञ्च्⟫ 3 "siguiente"
-    
+
 *   ⟪उदञ्च्⟫ 3 "dirigido hacia arriba, hacia el norte"
-    
+
 *   ⟪तिर्यञ्च्⟫ 3 "que se mueve horizontalmente (de animales)"
-    
+
 *   ⟪सम्यञ्च्⟫ 3 "correcto"
-    
+
 *   ⟪न्यञ्च्⟫ 3 "bajo"
-    
+
 *   ⟪विष्वञ्च्⟫ 3 "que se mueve en todas direcciones"
 
 ### 60.5.2. Tribus de dos raíces con terminación -añc
 
-:::grammar-box
+::: grammar-box
 **Formación:**
 
 *   **forma fuerte: -añc**
@@ -272,16 +276,16 @@ Aquí pertenecen:
 
 Las direcciones cardinales principales
 
-|   | ⟪उदञ्च्⟫ 3:br"dirigido hacia arriba,:brnorte" |   |
+|   | ⟪उदञ्च्⟫ 3:br"nach oben gerichtet,:brnördlich" |   |
 | :---: | :---: | :---: |
-| ⟪प्रत्यञ्च्⟫ 3:br"hacia atrás,:broccidente" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"dirigido hacia adelante,:broriente" |
-|   | ⟪दक्षिण⟫ 3:brderecha,:brsur |   |
+| ⟪प्रत्यञ्च्⟫ 3:br"rückwärts,:brwestlich" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"vorwärts gerichtet,:bröstlich" |
+|   | ⟪दक्षिण⟫ 3:brrechts,:brsüdlich |   |
 
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6005))
 
 ## 60.6. El Desiderativo (⟪सन्⟫)
 
-:::grammar-box
+::: grammar-box
 **De cada raíz, así como del causativo, puede formarse un desiderativo (⟪सन्⟫). El desiderativo puede conjugarse en todos los tiempos y modos del presente, imperfecto y pasivo. Sin embargo, las formas desiderativas fuera del tema de presente son muy raras.**
 
 **Significado:**
@@ -299,7 +303,7 @@ Las direcciones cardinales principales
 
 ### 60.6.1. Formación del tema del desiderativo
 
-:::grammar-box
+::: grammar-box
 **Raíces de las clases de presente 1 - 9:**
 
 **raíz reduplicada + sa**
@@ -313,43 +317,45 @@ Véanse las reglas para el uso de la vocal de unión -i- en Kielhorn, Gramática
 **Raíces de la 10.ª clase de presente y causativos:**
 
 **tema de presente reduplicado + i + ṣa**
-::::::grammar-box
+:::
+::: grammar-box
 **Forma de la raíz:**
 
 1.  La raíz está generalmente en grado reducido: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
-     
+
     1.  la -i, -u final se reemplaza por -ī o -ū, si no sigue vocal de unión:  
         ⟪जि⟫ » ⟪जि⟫***⟪गी⟫***⟪ष⟫- "desear vencer"  
         ⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- "desear correr"  
-         
+
     2.  la -ṛ, -ṝ final se reemplaza por -īr, o por -ūr tras labiales, si no sigue vocal de unión:  
         ⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- "desear hacer"  
         ⟪मृ⟫ » ⟪मु⟫***⟪मूर्ष⟫***\- "estar a punto de morir"  
         ⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "desear llenar"  
-         
+
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ y algunas otras raíces en -ā, -e, -o tienen grado reducido Ø:  
         ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
         ⟪धा⟫ » ⟪धित्स⟫-  
         ⟪मा⟫ » ⟪मित्स⟫-  
-         
+
 2.  Las raíces en grado reforzado tienen en el desiderativo: 
     1.  la mayoría de las raíces en -ā (-e, -ai, etc.):  
         ⟪गै⟫ » ⟪जिगास⟫- "desear cantar"  
         ⟪पा⟫ » ⟪पिपास⟫- "desear beber, tener sed"  
-         
+
     2.  la mayoría de las raíces de la forma (consonante -) a / ā - consonante:  
         ⟪दह्⟫ » ⟪दिधक्ष⟫- "desear quemar"  
         ⟪खाद्⟫ » ⟪चिखादिष⟫- "desear masticar"  
-         
+
     3.  al añadirse la vocal de unión -i-: 
         1.  obligatorio: raíces de la forma i/u - consonante y (consonante -) ṛ/ḷ - consonante:  
             ⟪इष्⟫ » ⟪एषिषिष⟫- "desear desear"  
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "desear ser apropiado"  
             ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- "desear sonreír"  
-             
+
         2.  opcional: raíces de la forma consonante - (consonante -) i/u - consonante excepto -v\_  
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "desear centellear"
-::::::grammar-box
+:::
+::: grammar-box
 **Sobre la reduplicación:**
 
 1.  Raíces que empiezan por consonante: La reduplicación se aplica a las raíces modificadas según las reglas anteriores, siguiendo las reglas habituales. En lugar de a como vocal de reduplicación aparece i:  
@@ -358,169 +364,176 @@ Véanse las reglas para el uso de la vocal de unión -i- en Kielhorn, Gramática
     ⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
     No se produce la cerebralización de i/u tras la -s final de la raíz, si se cerebraliza la -s del sufijo desiderativo:  
     ⟪स्मि⟫ » ⟪सिस्मयिष⟫-  
-     
+
 2.  Las raíces que empiezan por vocal se reduplican según las reglas correspondientes para el aoristo reduplicado ([Lección 56](lektion56.md)):  
     ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
     ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
     ⟪ऋ⟫ » ⟪अरिरिष⟫-  
-     
+
 3.  Véase en Kielhorn, Gramática § 451 la formación especial del desiderativo de ciertas raíces.
-::::::grammar-box
+:::
+::: grammar-box
 **Se forman desiderativos para ciertas raíces sin significado desiderativo. Para estos desiderativos se pueden formar desiderativos con significado desiderativo.**
 :::
 Lista en Kielhorn, Gramática § 452:
 
-:::media
+::: media
 ![](/images/lekt6006.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6006))
 :::
 ### 60.6.2. Conjugación del Desiderativo (⟪सन्⟫)
 
-::::grammar-box
+::: grammar-box
 **El Desiderativo es, con pocas excepciones, P, Ā o U, dependiendo de si la raíz subyacente (o la forma verbal subyacente) es P, Ā o U.**
 
 **Tema del presente: Conjugación como un tema temático:**
 
 ⟪यज्⟫ 1U:
 
-:::indent
+:::
+::: indent
 P: ⟪यियक्षति⟫ "él desea, sacrificar para otra persona"
 Ā: ⟪यियक्षते⟫ "él desea, sacrificar para sí mismo (como dueño de la ofrenda)"
 Pasivo: ⟪यियक्ष्यते⟫ "se desea sacrificar"
 :::
 **Perfecto: perifrástico:**
 
-:::indent
+::: indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "él deseó obtener"
 :::
 **Aorist: iṣ-Aorist:**
 
-:::indent
+::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
 **Futuro: ⟪सेट्⟫**
 
-:::indent
+::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
-:::::::
+:::
 Para la formación de nombres de agente en -u a partir del tema del Desiderativo, véase [Lección 54](lektion54.md).
 
 ## 60.7. Ejercicio
 
 A) Estudie en Kielhorn, Gramática § 451 las formaciones irregulares del desiderativo de los verbos aprendidos hasta ahora:
 
-:::media
+::: media
 ![](/images/lekt6007.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6007))
-::::::media
+:::
+
+::: media
 ![](/images/lekt6008.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6008))
-::::::media
+:::
+
+::: media
 ![](/images/lekt6009.webp)
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6009))
 :::
 B) Determine y traduzca las siguientes formas sin ayuda de herramientas:
 
 1.  ⟪ददुषोः⟫
-    
+
 2.  ⟪अहिंसीः⟫
-    
+
 3.  ⟪देमथुः⟫
-    
+
 4.  ⟪वक्त्वा⟫
-    
+
 5.  ⟪अक्षथाः⟫
-    
+
 6.  ⟪मुमुषिषिष्यतः⟫
-    
+
 7.  ⟪अचिक्षंसेथाम्⟫
-    
+
 8.  ⟪अस्नाः⟫
-    
+
 9.  ⟪जिहिंसुषि⟫
-    
+
 10.  ⟪जिहिंसिषुणा⟫
-     
+
 11.  ⟪द्युभिः⟫
-     
+
 12.  ⟪जग्लिव⟫
-     
+
 13.  ⟪अतिस्तीर्षम्⟫
-     
+
 14.  ⟪अस्मेष्ठाः⟫
-     
+
 15.  ⟪ईशिष्व⟫
-     
+
 16.  ⟪रुरुषतुः⟫
-     
+
 17.  ⟪रुरुषुः⟫
-     
+
 18.  ⟪रुरुषिषुः⟫
-     
+
 19.  ⟪अपिप्रीणताम्⟫
-     
+
 20.  ⟪अपिप्रीषतम्⟫
-     
+
 21.  ⟪पिप्रियतुः⟫
-     
+
 22.  ⟪तिस्रः⟫
-     
+
 23.  ⟪अदांक्ष्टाम्⟫
-     
+
 24.  ⟪असिसीर्ष्यत⟫
-     
+
 25.  ⟪बभासाते⟫
-     
+
 26.  ⟪बिभासिषेथे⟫
-     
+
 27.  ⟪अबीभणत⟫
-     
+
 28.  ⟪चकर्त⟫
-     
+
 29.  ⟪चकर्थ⟫
-     
+
 30.  ⟪दिद्युते⟫
-     
+
 31.  ⟪दिद्युतिषे⟫
-     
+
 32.  ⟪चुच्यूषवे⟫
-     
+
 33.  ⟪दित्सामि⟫
-     
+
 34.  ⟪अचीकृतम्⟫
-     
+
 35.  ⟪विजिगीषौ⟫
-     
+
 36.  ⟪पित्सेथे⟫
-     
+
 37.  ⟪उदीचि⟫
-     
+
 38.  ⟪संगणय्य⟫
-     
+
 39.  ⟪अतिस्तराव⟫
-     
+
 40.  ⟪त्रिलोक्याः⟫
-     
+
 41.  ⟪अहः⟫
-     
+
 42.  ⟪जग्मुषः⟫
-     
+
 43.  ⟪अताप्स्व⟫
-     
+
 44.  ⟪ईशिशिषाञ्चक्रे⟫
-     
+
 45.  ⟪ईशाञ्चक्रे⟫
-     
+
 46.  ⟪ईशयाञ्चक्रे⟫
-     
+
 47.  ⟪षण्णाम्⟫
-     
+
 48.  ⟪अघुक्षम्⟫
-     
+
 49.  ⟪अष्टौ⟫
-     
+
 50.  ⟪प्साथः⟫
-     
+
 51.  ⟪अवाचः⟫
-     
+
 52.  ⟪ईयुषे⟫
+

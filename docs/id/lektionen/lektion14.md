@@ -11,7 +11,7 @@ status: stable
 
 ## 14.1. The Expression of the Relationship of that Designated by Nouns: the Genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)
 
-:::grammar-box
+::: grammar-box
 If the relationship expressed by two nouns is to be designated, the genitive (ṣaṣṭhī f. "sixth case ending") is used. The genitive differs from all other cases in that it -- with few exceptions -- does not serve for the closer determination of the action expressed by the verb, but for the expression of the relationship between persons or things designated by nouns. Frequently the genitive stands in answer to the question: Whose?
 :::
 Examples:
@@ -24,14 +24,14 @@ Examples:
 
 ⟪रामस्य⟫ ⟪कृतम्⟫ "The / One deed of Rāma"
 
-:::grammar-box
+::: grammar-box
 The normal word order is:
 
 > **Determining word in the genitive — Further specified noun in another case**
 :::
 **Genitive and PPP:**
 
-:::grammar-box
+::: grammar-box
 With PPPs, the genitive can stand instead of the instrumental (tṛtīyā) for the agent (kartṛ); In the construction with the instrumental, the PPP is regarded as a passive verbal form (that standing in the instrumental designates the agent), in the construction with the genitive, the PPP is regarded as a noun or adjective (that standing in the genitive is thus not actually an agent).
 
 According to Pāṇini 2.3.67, with a PPP the genitive stands if the PPP has present meaning (see above), the instrumental if the PPP has past meaning:
@@ -48,33 +48,33 @@ The genitive is formed for verbal stems with stem gradation from the weak stem.
 
 **Genitive of consonant-ending stems:**
 
-::::grammar-box
+::: grammar-box
 
 After a consonant, the regular genitive endings are:
 * Singular: **-as**
 * Plural: **-ām**
 
 :::
-center
+::: center
 
 | Nominal Stem | Weak Stem | Genitive Singular | Genitive Plural |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-**:br**⟪गुणवन्त्⟫** | **guṇa-vat-**:br**⟪गुणवत्⟫** | **guṇa-vat-as**:br**⟪गुणवतस्⟫** | **guṇa-vat-ām**:br**⟪गुणवताम्⟫** |
 | **paśu-mant-**:br**⟪पशुमन्त्⟫** | **paśu-mat-**:br**⟪पशुमत्⟫** | **paśu-mat-as**:br**⟪पशुमतस्⟫** | **paśu-mat-ām**:br**⟪पशुमताम्⟫** |
 
-:::::::
+:::
 **Genitive of vowel-ending stems, except for monosyllabic root nouns and diphthong-ending stems:**
 
 **Plural:**
 
-::::grammar-box
+::: grammar-box
 
 The genitive plural of vowel-ending stems is formed as follows:
 
 > **-long vowel of the stem + -nām**
 
 :::
-center
+::: center
 
 | Nominal Stem | Genitive Plural |
 | :--- | :--- |
@@ -87,15 +87,15 @@ center
 | **paśu** m.:br**⟪पशु⟫** | **paśū-nām**:br**⟪पशूनाम्⟫** |
 | **dhenu** f.:br**⟪धेनु⟫** | **dhenū-nām**:br**⟪धेनूनाम्⟫** |
 
-:::::::
+:::
 **Genitive Singular of vowel-ending stems:**
 
-::::grammar-box
+::: grammar-box
 
 The genitive singular of vowel-ending stems is formed irregularly and must be memorized well.
 
 :::
-center
+::: center
 
 | Stem | Genitive Singular |
 | :--- | :--- |
@@ -108,13 +108,10 @@ center
 | **śruti** f.:br**⟪श्रुति⟫** | **śrutes / śrutyās**:br**⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫**:br(i.e. either like kavi or like devī) |
 | **dhenu** f.:br**⟪धेनु⟫** | **dhenos / dhenvās**:br**⟪धेनोस्⟫ / ⟪धेन्वास्⟫**:br(i.e. either like paśu or like polysyllabic feminines ending in -ū) |
 
-:::::::
+:::
 **Interrogative and Demonstrative Pronouns:**
 
-::::grammar-box
-
-:::
-center
+::: center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -124,11 +121,10 @@ center
 
 | | **Genitive Plural** | kāsām:br**⟪कासाम्⟫** | tāsām:br**⟪तासाम्⟫** | etāsām:br**⟪एतासाम्⟫** | āsām:br**⟪आसाम्⟫** |
 
-:::::::
+:::
 **Formal Identity:**
 
-:::
-important
+::: important
 
 For all nominal stems except masculines and neuters ending in -a, and except for pronouns, the form of the Genitive Singular is identical to that of the Ablative (pañcamī "fifth case ending") Singular!
 
@@ -137,7 +133,7 @@ Note that for stems ending in a consonant, the Ablative and Genitive Singular so
 :::
 ## 14.3. Further on the Use of the Genitive (⟪षष्ठी⟫)
 
-:::grammar-box
+::: grammar-box
 Contrary to the basic rule above, the genitive is used to express the object of certain verbs, e.g. verbs of remembrance:
 
 > ⟪देवानां⟫ ⟪स्मरति⟫ "He remembers the gods"
@@ -154,7 +150,7 @@ More on this later.
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : jewelry
 * **dīpa m.** (⟪दीप⟫) : lamp
 
-:::media
+::: media
 ![](/images/lekt1405.webp)
 Fig.: ⟪दीपाः⟫
 (Image source: [Details](/en/licenses#lekt1405))
@@ -241,7 +237,7 @@ Translate the following proverbs and memorize them:
 
 ⟪२५⟫. ⟪पुत्रवती⟫
 
-:::media
+::: media
 ![](/images/lekt1404.webp)
 Fig.: ⟪पुत्रवती⟫
 (Image source: [Details](/en/licenses#lekt1404))
@@ -302,7 +298,7 @@ Fig.: ⟪पुत्रवती⟫
 
 ⟪५३⟫. ⟪किम्⟫
 
-:::media
+::: media
 ![](/images/lekt1403.webp)
 Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#lekt1403))
@@ -335,7 +331,7 @@ Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1402.webp)
 Fig.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#lekt1402))

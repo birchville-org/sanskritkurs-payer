@@ -22,8 +22,7 @@ features:
     விவரம்: அதிகபட்ச வேகத்திற்காக VitePress-ன் அடிப்படையில் கட்டப்பட்டது.
 ---
 
-:::
-tip Version 1.5 — Hebrew Translation & Typography
+::: tip Version 1.5 — Hebrew Translation & Typography
 **v1.5-ல் புதியது (ஜூன் 2026):**
 
 - **புதிய மொழி (ஹீப்ரு):** முழு பாடமும் இப்போது ஹீப்ரு மொழியிலும் கிடைக்கிறது (RTL ஆதரவு உட்பட).

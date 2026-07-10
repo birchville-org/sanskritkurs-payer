@@ -87,7 +87,7 @@ Gli uomini leonini si sono scontrati con i nemici che non sono Ārya e vincono p
 ⟪१०⟫. **⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫**
 Se ha compiuto azioni meritorie e ha detto solo la verità, un uomo non cade in nessun inferno.
 
-:::media
+::: media
 ![](/images/uebung034.jpg)
 Fig.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung034))

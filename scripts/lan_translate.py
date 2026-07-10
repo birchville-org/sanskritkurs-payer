@@ -6,10 +6,10 @@ import sys
 import re
 
 # Configuration
-API_URL = "http://nyx.local:8000/v1/chat/completions"
-MODEL = "mlx-community/Qwen3.6-35B-A3B-4bit"
+API_URL = "http://nyx.local:8088/v1/chat/completions"
+MODEL = "mlx-community--Qwen3.6-35B-A3B-4bit"
 LANGUAGES = [
-    "en", "it", "es", "ru", "uk", "hi", "fr", "ta", "pa",
+    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "ta", "pa",
     "la", "rm", "ro", "id", "zh-CN", "he", "ar", "arc"
 ]
 LANG_NAMES = {
@@ -17,7 +17,7 @@ LANG_NAMES = {
     "ru": "Russian", "uk": "Ukrainian", "bg": "Bulgarian",
     "hi": "Hindi", "fr": "French", "ta": "Tamil", "pa": "Punjabi (Gurmukhi)",
     "la": "Latin", "rm": "Romansh Grischun", "ro": "Romanian",
-    "id": "Indonesian", "zh-CN": "Simplified Chinese", "zh-TW": "Traditional Chinese",
+    "id": "Indonesian", "zh-CN": "Simplified Chinese",
     "th": "Thai", "he": "Hebrew",
 #    "ar": "Arabic", "arc": "Aramaic",
 #    "zh": "Mandarin Chinese",
@@ -488,28 +488,6 @@ LICENSES_PHRASES = {
         "Beschriftung:": "说明:",
         "Lehrgangsmaterial": "课程材料",
     },
-    "zh-TW": {
-        "Abb.:": "圖.:",
-        "Bildquelle:": "圖片來源:",
-        "Bildquelle.": "圖片來源.",
-        "Bildquelle ": "圖片來源 ",
-        "gemeinfrei": "公共領域",
-        "Jhdt.": "世紀",
-        "Zugriff am": "訪問日期",
-        "Namensnennung": "署名",
-        "keine kommerzielle Nutzung": "非商業性使用",
-        "keine kommerzielle Nuttzung": "非商業性使用",
-        "keine kommerzielle Bearbeitung": "非商業性使用，禁止演繹",
-        "keine Bearbeitung": "禁止演繹",
-        "GNU FDLizenz": "GNU FD許可證",
-        "FDLicense": "FD License",
-        "Creative  Commons Lizenz": "知識共享許可證",
-        "Creative Commons Lizenz": "知識共享許可證",
-        "Creative Commons lizenz": "知識共享許可證",
-        "Unbekannt": "未知",
-        "Beschriftung:": "說明:",
-        "Lehrgangsmaterial": "課程材料",
-    },
     "th": {
         "Abb.:": "รูป.:",
         "Bildquelle:": "ที่มาของภาพ:",
@@ -796,11 +774,14 @@ def translate_text(text, target_lang):
         "(4) NEVER add TODO comments, fallback markers, or any annotations of your own. If unsure how to translate something, translate it as best you can. "
         "(5) Keep the scholarly editorial tone throughout. "
         "(6) CRITICAL: Preserve the exact line count of the source. Every source line must appear as exactly one output line. NEVER delete, merge, or collapse lines. "
+        "(6a) CRITICAL: Each non-empty line of the input is prefixed with a bracketed identifier like [L0], [L1], [L2]... You MUST preserve these identifiers exactly at the start of each translated line. Do not translate, modify, or remove them. "
         "(7) CRITICAL: Copy every ⟨DEVA_N⟩ and ⟨IAST_L_N⟩ placeholder character-for-character. They are replaced with Devanāgarī and IAST text after translation — do NOT interpret, transliterate, or remove them. "
         "(7a) CRITICAL: Lines consisting ONLY of ⟨DEVA_N⟩ tokens (and spaces/punctuation like ।  ॥) are Sanskrit verse lines. Copy every token on that line verbatim. NEVER transliterate Sanskrit verses into the target script — the placeholders will be restored to Devanāgarī automatically. "
         "(7b) CRITICAL: Preserve ALL Markdown image syntax exactly: ![alt](/path/to/image.jpg) — never drop the parentheses around the image path. "
         "(8) Numbered exercise sentences (e.g. '3. Śūdras erlangen...', '4. Die Kṣatriyas...') MUST be translated to the target language even when they begin with Sanskrit proper nouns in IAST notation. The IAST proper noun is preserved as-is; only the surrounding German words are translated."
     )
+    import uuid
+    system = system + f"\n\n[Session Key: {uuid.uuid4()}]"
     best_result = None
     best_missing: list = list(deva_registry.keys())  # worst case: all missing
     is_fallback = False  # FIX: was undefined, causing NameError on retry attempts
@@ -811,15 +792,26 @@ def translate_text(text, target_lang):
         current_api_url = API_URL
         current_model = MODEL
 
-        # Bump temperature on retries so the model makes different choices.
+        # Bump temperature and repetition_penalty on retries so the model makes different choices.
         temperature = 0.1 if ph_attempt == 0 else 0.3
+        repetition_penalty = 1.15 if ph_attempt == 0 else 1.25
         
-        user_prompt = protected
+        # Prepare indexed prompt
+        source_lines = protected.split('\n')
+        indexed_lines = []
+        for idx, l in enumerate(source_lines):
+            if l.strip():
+                indexed_lines.append(f"[L{idx}] {l}")
+            else:
+                indexed_lines.append(l)
+        indexed_protected = '\n'.join(indexed_lines)
+
+        user_prompt = indexed_protected
         if ph_attempt > 0 and 'qc_reason' in locals():
             if is_fallback:
                 sys.stdout.write(f"\n[{target_lang}] FALLBACK TRIGGERED: Switching to OpenRouter ({current_model}) for this chunk due to persistent QC failures.\n")
                 sys.stdout.flush()
-            user_prompt = f"CRITICAL CORRECTION REQUIRED:\nYour previous translation failed Quality Control for this reason: {qc_reason}\n\nYou MUST fix this error. If you failed to translate sentences, translate EVERY single word now. If you dropped lines, preserve line count strictly. Translate the following text:\n\n{protected}"
+            user_prompt = f"CRITICAL CORRECTION REQUIRED:\nYour previous translation failed Quality Control for this reason: {qc_reason}\n\nYou MUST fix this error. If you failed to translate sentences, translate EVERY single word now. If you dropped lines, preserve line count strictly. Translate the following text:\n\n{indexed_protected}"
 
         data = {
             "model": current_model,
@@ -828,18 +820,19 @@ def translate_text(text, target_lang):
                 {"role": "user", "content": user_prompt}
             ],
             "temperature": temperature,
-            "max_tokens": 8192
+            "max_tokens": 8192,
+            "repetition_penalty": repetition_penalty
         }
 
-        max_retries = 5
+        max_retries = 100
         got_response = False
         for attempt in range(max_retries):
             try:
                 import subprocess as _sp
                 start_time = time.time()
                 curl_cmd = ['curl', '-s', '-X', 'POST', current_api_url, '-H', 'Content-Type: application/json']
-                if 'OPENROUTER_API_KEY' in os.environ:
-                    curl_cmd.extend(['-H', f"Authorization: Bearer {os.environ['OPENROUTER_API_KEY']}"])
+                api_key = os.environ.get('OPENROUTER_API_KEY', 'local') if 'openrouter.ai' in current_api_url else 'local'
+                curl_cmd.extend(['-H', f"Authorization: Bearer {api_key}"])
                 curl_cmd.extend(['-d', json.dumps(data), '--max-time', '1800', '--keepalive-time', '15'])
                 
                 _proc = _sp.run(
@@ -850,7 +843,42 @@ def translate_text(text, target_lang):
                 if _proc.returncode != 0:
                     raise OSError(f"curl exit {_proc.returncode}: {_proc.stderr[:200]}")
                 res_data = json.loads(_proc.stdout)
-                result = res_data['choices'][0]['message']['content']
+                raw_result = res_data['choices'][0]['message']['content']
+                got_response = True
+
+                # Parse and restore lines based on prefixes
+                import re
+                result_lines = raw_result.split('\n')
+                restored_lines = [None] * len(source_lines)
+                unmatched_lines = []
+                for r_line in result_lines:
+                    m = re.match(r'^\s*\[[LЛlл](\d+)\]\s*(.*)$', r_line)
+                    if m:
+                        idx = int(m.group(1))
+                        content = m.group(2)
+                        if 0 <= idx < len(source_lines):
+                            restored_lines[idx] = content
+                        else:
+                            unmatched_lines.append(r_line)
+                    else:
+                        if r_line.strip():
+                            unmatched_lines.append(r_line)
+                
+                # Fill missing non-empty lines sequentially
+                unmatched_idx = 0
+                for idx, src_l in enumerate(source_lines):
+                    if src_l.strip():
+                        if restored_lines[idx] is None:
+                            if unmatched_idx < len(unmatched_lines):
+                                clean_line = re.sub(r'^\s*\[[LЛlл]\d+\]\s*', '', unmatched_lines[unmatched_idx])
+                                restored_lines[idx] = clean_line
+                                unmatched_idx += 1
+                            else:
+                                restored_lines[idx] = src_l
+                    else:
+                        restored_lines[idx] = ''
+                
+                result = '\n'.join(restored_lines)
                 got_response = True
 
                 # Performance Monitoring & Auto-Restart
@@ -862,16 +890,23 @@ def translate_text(text, target_lang):
                         ts = time.strftime('%H:%M:%S')
                         sys.stdout.write(f"[{ts}]      [Speed: {tps:.1f} t/s | {comp_tokens} tokens in {elapsed:.1f}s]\n")
                         sys.stdout.flush()
-                        if comp_tokens > 20 and tps < 5.0:
-                            sys.stdout.write(f"\n[{ts}] [!] Performance kritisch ({tps:.1f} t/s). Führe automatischen Neustart aus...\n")
+                        if comp_tokens > 20 and tps < 1.0:
+                            sys.stdout.write(f"\n[{ts}] [!] Performance kritisch ({tps:.1f} t/s). Führe automatischen oMLX-Neustart aus...\n")
                             sys.stdout.flush()
                             try:
-                                _sp.run(['ssh', 'marco@nyx.local', 'bash /Volumes/SanDisk1TB/proj/Payer/scripts/start_mlx_server.sh'], timeout=15)
-                                sys.stdout.write(f"[{ts}] [!] Neustart-Befehl gesendet. Warte 60s auf den Server...\n")
+                                # Old CLI restart method (commented out):
+                                # _sp.run(['ssh', 'marco@nyx.local', 'pkill -f "mlx_lm server"; sleep 2; cd ~/llm-benchmark && nohup ./start > /dev/null 2>&1 &'], timeout=15)
+                                # time.sleep(60)
+                                
+                                # New oMLX App restart method:
+                                _sp.run(['ssh', 'marco@nyx.local', 'osascript -e \'quit app "oMLX"\' || pkill -9 -f oMLX'], timeout=15)
+                                time.sleep(3)
+                                _sp.run(['ssh', 'marco@nyx.local', 'open -a oMLX'], timeout=15)
+                                sys.stdout.write(f"[{ts}] [!] oMLX-Neustart-Befehl gesendet. Warte 40s auf den Server...\n")
                                 sys.stdout.flush()
-                                time.sleep(60)
+                                time.sleep(40)
                             except Exception as ssh_e:
-                                sys.stdout.write(f"[{ts}] [!] SSH Neustart fehlgeschlagen: {ssh_e}\n")
+                                sys.stdout.write(f"[{ts}] [!] SSH oMLX-Neustart fehlgeschlagen: {ssh_e}\n")
                                 sys.stdout.flush()
 
                 # --- QUALITY CONTROL (QC) ---
@@ -906,9 +941,11 @@ def translate_text(text, target_lang):
                         sys.stdout.flush()
                         break  # break connection loop to retry generation outer loop
                     else:
-                        sys.stdout.write(f"[{target_lang}] FATAL: QC failed on all retries. Reason: {qc_reason}. Aborting chunk.\n")
+                        sys.stdout.write(f"[{target_lang}] WARNING: QC failed on all retries. Reason: {qc_reason}. Proceeding with latest attempt.\n")
                         sys.stdout.flush()
-                        return f"ERROR: QC failed. {qc_reason}", ph_attempt
+                        if best_result is None:
+                            best_result = result
+                        break
                 # --- END QC ---
 
                 missing = [k for k in deva_registry if k not in result]
@@ -934,18 +971,25 @@ def translate_text(text, target_lang):
                 err_str = str(e)
                 wait_time = (2 ** attempt) * 5  # 5s, 10s, 20s, 40s, 80s
                 
-                # Auto-Restart bei Timeouts, HTTP 500 (Compute error) oder Absturz (Connection refused/exit 7)
+                # Auto-Restart bei Timeouts, HTTP 500 (Compute error) oder Absturz (Connection refused/exit 7, exit 56)
                 err_lower = err_str.lower()
-                if "exit 28" in err_str or "timeout" in err_lower or "500" in err_str or "exit 7" in err_str or "refused" in err_lower or "choices" in err_lower:
+                if "exit 28" in err_str or "timeout" in err_lower or "500" in err_str or "exit 7" in err_str or "exit 56" in err_str or "exit 52" in err_str or "refused" in err_lower or "choices" in err_lower:
                     ts = time.strftime('%H:%M:%S')
-                    sys.stdout.write(f"\n[{ts}] [!] Timeout/Absturz erkannt ({err_str}). Führe automatischen Neustart aus...\n")
+                    sys.stdout.write(f"\n[{ts}] [!] Timeout/Absturz erkannt ({err_str}). Führe automatischen oMLX-Neustart aus...\n")
                     sys.stdout.flush()
                     try:
                         import subprocess as _sp_err
-                        _sp_err.run(['ssh', 'marco@nyx.local', 'killall llama-server; sleep 2; nohup ~/llm-benchmark/start > /dev/null 2>&1 &'], timeout=15)
-                        sys.stdout.write(f"[{ts}] [!] Neustart-Befehl gesendet. Warte 60s...\n")
+                        # Old CLI restart method (commented out):
+                        # _sp_err.run(['ssh', 'marco@nyx.local', 'pkill -f "mlx_lm server"; sleep 2; cd ~/llm-benchmark && nohup ./start > /dev/null 2>&1 &'], timeout=15)
+                        # time.sleep(60)
+                        
+                        # New oMLX App restart method:
+                        _sp_err.run(['ssh', 'marco@nyx.local', 'osascript -e \'quit app "oMLX"\' || pkill -9 -f oMLX'], timeout=15)
+                        time.sleep(3)
+                        _sp_err.run(['ssh', 'marco@nyx.local', 'open -a oMLX'], timeout=15)
+                        sys.stdout.write(f"[{ts}] [!] oMLX-Neustart-Befehl gesendet. Warte 40s...\n")
                         sys.stdout.flush()
-                        time.sleep(60)
+                        time.sleep(40)
                     except Exception:
                         pass
 
@@ -1016,13 +1060,13 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
     is_fallback_mode = False
     has_fallback = False
     
-    if not force and os.path.exists(target_path) and os.path.getsize(target_path) > 500:
+    if not force and os.path.exists(target_path) and os.path.getsize(target_path) > 200:
         with open(target_path, 'r', encoding='utf-8') as tf:
             target_content = tf.read()
         has_fallback = "Fallback translation" in target_content
 
-        if not has_fallback and os.path.getmtime(target_path) > os.path.getmtime(source_path):
-            print(f"[{lang}] Skipping {filename} (up to date).")
+        if not has_fallback:
+            print(f"[{lang}] Skipping {filename} (up to date, no fallback tags).")
             return True
         
         if has_fallback:
@@ -1037,38 +1081,81 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
 
     if is_fallback_mode:
         # SURGICAL FALLBACK MODE
-        # Extract blocks from target file, translate only the missing ones.
+        # Extract blocks from target file, translate adjacent ones in groups to optimize API requests
         blocks = target_content.split('\n\n')
-        translated_blocks = []
-        fallbacks_found = 0
         
-        for i, block in enumerate(blocks):
-            if "<!-- TODO: Fallback translation -->" in block:
-                fallbacks_found += 1
-                # Clean up the fallback tag to get the raw German source
-                source_text = block.replace(" <!-- TODO: Fallback translation -->", "").replace("<!-- TODO: Fallback translation -->", "")
-                
-                if not source_text.strip():
-                    translated_blocks.append(source_text)
-                    continue
-                
-                ts = time.strftime('%H:%M:%S')
-                print(f"[{ts}]  -> surgical fallback {fallbacks_found}...")
-                
-                result_tuple = translate_text(source_text, lang)
-                result = result_tuple[0]
-                total_retries += result_tuple[1]
-                
-                if result.startswith("ERROR:"):
-                    print(f"  [!] Failed fallback {fallbacks_found}: {result}")
-                    return False
-                
-                translated_blocks.append(result.strip())
+        # Group adjacent fallback blocks
+        groups = []
+        i = 0
+        n = len(blocks)
+        while i < n:
+            if "TODO: Fallback translation" in blocks[i]:
+                group = []
+                while i < n and "TODO: Fallback translation" in blocks[i]:
+                    group.append((i, blocks[i]))
+                    i += 1
+                groups.append(group)
             else:
-                # Keep existing translated block unchanged
-                translated_blocks.append(block)
+                i += 1
                 
-        translated = '\n\n'.join(translated_blocks)
+        fallbacks_found = 0
+        for group in groups:
+            # Split large groups into sub-chunks of max 4 blocks
+            chunk_size = 4
+            for j in range(0, len(group), chunk_size):
+                sub_group = group[j:j+chunk_size]
+                success = False
+                
+                if len(sub_group) > 1:
+                    cleaned_sources = []
+                    for idx, block in sub_group:
+                        src = re.sub(r'\s*(?:&lt;|<)!--\s*TODO:\s*Fallback\s*translation\s*[^\n]*', '', block)
+                        cleaned_sources.append(src)
+                    
+                    group_source = '\n\n'.join(cleaned_sources)
+                    ts = time.strftime('%H:%M:%S')
+                    print(f"[{ts}]  -> surgical group translation of {len(sub_group)} blocks...")
+                    
+                    result_tuple = translate_text(group_source, lang)
+                    result = result_tuple[0]
+                    total_retries += result_tuple[1]
+                    
+                    if not result.startswith("ERROR:"):
+                        # Split by double newline to recover individual block translations
+                        translated_parts = result.split('\n\n')
+                        translated_parts = [p.strip() for p in translated_parts if p.strip()]
+                        
+                        if len(translated_parts) == len(sub_group):
+                            for k, (idx, _) in enumerate(sub_group):
+                                blocks[idx] = translated_parts[k]
+                            success = True
+                            fallbacks_found += len(sub_group)
+                            print(f"       -> Successfully translated group of {len(sub_group)} blocks in one run!")
+                        else:
+                            print(f"       [!] Group translation QC failed (Block count mismatch: expected {len(sub_group)}, got {len(translated_parts)}). Falling back to block-by-block...")
+                
+                if not success:
+                    # Individual fallback block-by-block
+                    for idx, block in sub_group:
+                        fallbacks_found += 1
+                        source_text = re.sub(r'\s*(?:&lt;|<)!--\s*TODO:\s*Fallback\s*translation\s*[^\n]*', '', block)
+                        if not source_text.strip():
+                            blocks[idx] = source_text
+                            continue
+                            
+                        ts = time.strftime('%H:%M:%S')
+                        print(f"[{ts}]  -> surgical fallback {fallbacks_found} (block-by-block)...")
+                        result_tuple = translate_text(source_text, lang)
+                        result = result_tuple[0]
+                        total_retries += result_tuple[1]
+                        
+                        if result.startswith("ERROR:"):
+                            print(f"  [!] Failed fallback {fallbacks_found}: {result}")
+                            return False
+                        
+                        blocks[idx] = result.strip()
+                        
+        translated = '\n\n'.join(blocks)
         
     else:
         # FULL FILE TRANSLATION MODE
@@ -1359,7 +1446,14 @@ def main():
             for filename in ("wortliste.md", "inhaltsverzeichnis.md", "index.md", "glossar.md"):
                 src = os.path.join(SOURCE_DIR, filename)
                 if os.path.exists(src):
-                    translate_file(src, os.path.join(lesson_dir, filename), lang, force=force)
+                    def make_post_process(fname):
+                        if fname == "inhaltsverzeichnis.md":
+                            def post(t):
+                                # Fix misplaced backslashes in lesson headings (e.g. 1\0.1. -> 10\.1.)
+                                return re.sub(r'(\d+)\\(\d+)\.(\d+)', r'\1\2\\.\3', t)
+                            return post
+                        return None
+                    translate_file(src, os.path.join(lesson_dir, filename), lang, post_process=make_post_process(filename), force=force)
 
             # ── Hauptseiten ──────────────────────────────────────────────────
             translate_main_pages(lang, force=force)

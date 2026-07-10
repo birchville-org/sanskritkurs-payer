@@ -15,7 +15,7 @@ status: stable
 
 Pentru distribuirea PPP-urilor pe -ta- respectiv -na- nu se pot stabili reguli fixe. Totuși:
 
-:::grammar-box
+::: grammar-box
 
 Aproape toate rădăcinile pe -d formează PPP pe -na-. În acest caz, -d-n- este înlocuit cu -n-n-, ceea ce nu se întâmplă în general în sandha cuvântului, ci este o imitație a sandhei de propoziție.
 
@@ -27,13 +27,14 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 ## 13.2. Mai multe despre utilizarea PPP-ului
 
-::::grammar-box
+::: grammar-box
 
 1. PPP-ul verbelor cu sensul de „a gândi”, „a dori”, „a cunoaște”, „a ști”, „a venera”, precum și al altor verbe marcate în Dhātupāṭha, lista de rădăcini a lui Pāṇini, prin ñi, nu are doar sensul trecutului, ci poate fi utilizat și cu sens prezent:
 
     de exemplu:
 
-    :::indent
+:::
+::: indent
     ⟪इष्ट⟫ „dorit” (adică nu doar dorit în trecut, ci și în prezent)
 
     ⟪त्वरित⟫ „grăbit, urgent” (PPP la tvar 1 Ā „a grăbi”; Dhātupāṭha: ñitvárā)
@@ -41,40 +42,43 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
     de exemplu:
 
-    :::indent
+:::
+::: indent
     ⟪इष्टं⟫ ⟪फलम्⟫ „roada dorită (de exemplu, a faptelor)”
     :::Dacă în acest caz ⟪अपि⟫ urmează după PPP, ⟪अपि⟫ are sensul „deși”:
 
     de exemplu:
 
-    :::indent
+:::
+::: indent
     ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = „Deși cel care dorește roada, nu o obține.”
     :::3. Neutru singular al PPP-ului fiecărui verb poate fi, de asemenea, utilizat ca substantiv verbal:
 
     de exemplu:
 
-    :::indent
+:::
+::: indent
     ⟪गत⟫ n.: „mersul, mersul”
 
     ⟪नृत्त⟫ n.: „dansul, dansul”
-    :::::::---
-
+:::
 ## 13.3. Determinative atributive ale substantivel (poziția cuvântului)
 
-::::grammar-box
+::: grammar-box
 
 Atributele (adițiile) apar în proză în ordinea normală a cuvintelor, înainte de cuvântul pe care îl specifică. Atributele adjectivale se acordă în număr, caz și gen cu substantivul:
 
 Exemplu:
 
-:::indent
+:::
+::: indent
 ⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = „Un sfânt vede roada dorită (a faptelor sale).”
-:::::::
+:::
 ---
 
 ## 13.4. Formarea adjectivelor cu sufixele -mant și -vant (taddhita)
 
-::::grammar-box
+::: grammar-box
 
 Prin intermediul sufixelor taddhita -mant, respectiv -vant, se formează adjective posesive din substantive. Semnificația lor este: "care posedă ceea ce este indicat de substantivul de bază".
 
@@ -82,18 +86,19 @@ Prin intermediul sufixelor taddhita -mant, respectiv -vant, se formează adjecti
 
 Exemple:
 
-:::indent
+:::
+::: indent
 ⟪पशुमन्त्⟫ "care posedă vite"
 
 ⟪गुणवन्त्⟫ "care posedă calități bune / virtute"
-:::::::
+:::
 ---
 
 ## 13.5. Declinarea tematică a substantivelor
 
 Rădăcinile în -mant, respectiv -vant, fac parte din rădăcinile nominale cu declinare tematică.
 
-:::grammar-box
+::: grammar-box
 La rădăcinile nominale cu declinare tematică, se face distincție între cazurile puternice și cele slabe. În cazurile puternice, sufixul formativ de temă — la substantivul derivat din rădăcină, componenta rădăcinică — prezintă gradul ridicat, respectiv gradul lung; în cazurile slabe, gradul scăzut.
 :::
 **Cazurile puternice sunt:**
@@ -105,7 +110,7 @@ La rădăcinile nominale cu declinare tematică, se face distincție între cazu
 
 **Toate celelalte cazuri sunt slabe.**
 
-:::grammar-box
+::: grammar-box
 În compunere, un substantiv cu declinare tematică stă în prima parte, la forma de temă slabă (la substantivul cu trei rădăcini, la ceea ce se numește „temă medie”).
 :::
 ---
@@ -114,7 +119,7 @@ La rădăcinile nominale cu declinare tematică, se face distincție între cazu
 
 Pentru înțelegerea formelor individuale ale declinării substantivelor pe -mant și -vant sunt necesare următoarele legi ale sandha cuvântului:
 
-::::grammar-box
+::: grammar-box
 
 1. Numărul de consoane finale ale unui cuvânt: Din două sau mai multe consoane, la care ar termina un cuvânt, rămâne doar prima consoană, celelalte dispar. Este permisă combinația -r- + consoană.
 
@@ -122,7 +127,8 @@ Pentru înțelegerea formelor individuale ale declinării substantivelor pe -man
 
     Exemple:
 
-    :::indent
+:::
+::: indent
     -t + bh- » -d-bh- ⟪द्भ्⟫
 
     -k + bh- » -g-bh- ⟪ग्भ्⟫
@@ -130,11 +136,10 @@ Pentru înțelegerea formelor individuale ale declinării substantivelor pe -man
     -c + bh- » -g-bh- ⟪ग्भ्⟫
 
     -c + dh- » -g-dh- ⟪ग्ध्⟫
-    :::::::---
-
+:::
 ## 13.7. Desinenzele de caz ale rădăcinilor consonantice
 
-:::grammar-box
+::: grammar-box
 
 La rădăcinile care se termină cu consoană:
 * desinenza acuzativului (dvitīyā) la plural, masculin și feminin, este -as.
@@ -146,7 +151,7 @@ La rădăcinile care se termină cu consoană:
 
 ## 13.8. Declinarea rădăcinilor în -mant și -vant
 
-:::grammar-box
+::: grammar-box
 
 * rădăcină puternică: Nume + -mant- / -vant-
 * rădăcină slabă: Nume + -mat- / -vat- (din: *-mnt- / *-vnt-)
@@ -187,9 +192,9 @@ Exemplu:
 >
 > În acest sens, s-a găsit o derivare diferită pentru el: sursa nu mai este asu, 'sufl', ci inițiala *a* este luată ca prefix negativ, iar *asura* semnifică 'nu un zeu;' de aceea, conform unora, a apărut cuvântul *sura*, folosit comun pentru 'un zeu.'"
 >
-> [Sursă: **Dowson, John &lt;1820-1881&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Sursă: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
-:::media
+::: media
 ![](/images/lekt1301.webp)
 Fig.: ⟪महिषासुरः⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt1301))
@@ -201,14 +206,14 @@ Fig.: ⟪महिषासुरः⟫
 - **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : merge
 - **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : proteja, păzi
 
-:::indent
+::: indent
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : bea (tradițional considerat ca aparținând clasei 1)
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : urî, invidia
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : mânca, consuma
 - **anna** n. ⟪अन्न⟫ : mâncare (din PPP: *ad-na: ceea ce este mâncat)
 
-:::media
+::: media
 ![](/images/lekt1304.webp)
 Fig.: ⟪अन्नम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1304))
@@ -217,18 +222,19 @@ Formarea cuvintelor:
 
 pad 4 Ā:
 
-:::indent
+::: indent
 **pada** n. ⟪पद⟫ : pas, loc, locație
 
 **pāda** m. ⟪पाद⟫ : picior, o sfert, vers
-::::::media
+:::: media
 ![](/images/lekt1303.webp)
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1303))
+::::
 :::
 dviṣ 2 U:
 
-:::indent
+::: indent
 **dveṣa** ⟪द्वेष⟫ : ură
 :::
 ---
@@ -241,7 +247,7 @@ A) Traduceți și transformați în propoziții la prezent activ:
 ⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
 ⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1305.webp)
 Fig.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1305))
@@ -299,7 +305,7 @@ B) Transformați propozițiile din exercițiul A) la vocea pasivă.
 
 C) Formați o construcție PPP pentru propozițiile din exercițiul A).
 
-:::media
+::: media
 ![](/images/lekt1302.webp)
 Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1302))
@@ -359,3 +365,7 @@ E) Traduceți în sanscrită:
 9. Buddha s-a trezit la adevăr = Buddha a recunoscut adevărul.
 10. Sfinții vedici au ascultat Śruti.
 11. Preoții sacrificatori au stors Soma.
+
+
+
+

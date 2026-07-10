@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 Formați corespunzătoarele forme de aorist pentru următoarele forme de prezent sau perfect:
 
-:::grammar-box
+::: grammar-box
 | Nr. | Formă | Determinare / Semnificație | Aorist |
 |:---|:---|:---|:---|
 | ⟪१⟫. | **⟪यन्ति⟫** | ei merg | **⟪अगुः⟫** |
@@ -36,8 +36,9 @@ Formați corespunzătoarele forme de aorist pentru următoarele forme de prezent
 | ⟪२१⟫. | **⟪जायते⟫** | el se naște | **⟪अजनि⟫** |
 | ⟪२२⟫. | **⟪गीयते⟫** | este cântat | **⟪अगायि⟫** |
 | ⟪२३⟫. | **⟪गम्यते⟫** | este mers | **⟪अगामि⟫** |
-::::::media
+:::: media
 ![](/images/uebung093.webp)
 Fig.: ⟪अगायि⟫
 (Sursa imaginii: [Detalii](/licenses#uebung093))
+::::
 :::

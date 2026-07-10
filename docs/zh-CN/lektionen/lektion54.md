@@ -1,271 +1,267 @@
 ---
-title: Lektion 54
-subtitle: "Vorbemerkung"
+title: 第54课
+subtitle: "前言"
 lesson_id: 54
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 54
 
 ## 54.1. Vorbemerkung
 
-Mit Lektion 54 beginnt im Universitätsunterricht das 2. Semester. Ab jetzt läuft der Kurs nur noch neben dem Hauptthema dieses Semesters: der Lektüre der ganzen Bhagavadgītā. Lernziel ist eine solche Geläufigkeit im Lesen eines mittelschweren Textes, dass im letzten Drittel des Semesters große Teile der Bhagavadgītā aus dem Stegreif übersetzt werden können. Zu Beginn wurden im Universitätsunterricht noch Wortlisten ausgeteilt, später mussten die Studierenden selbst entsprechende Wörterbücher (Monier-Williams, Apte, PW) benutzen. <!-- TODO: Fallback translation -->
+从第54课开始，大学课程进入第二学期。从现在起，课程将围绕本学期的主要主题——整部《薄伽梵歌》的阅读——展开。学习目标是达到能够流畅阅读中等难度文本的水平，以便在学期最后三分之一的时间里，能够即兴翻译《薄伽梵歌》的大部分章节。在课程初期，大学课堂上还会分发词汇表，后来学生必须自行使用相应的词典（Monier-Williams、Apte、PW）。
 
-Der Kurs zur Bhagavadgītā wird vorläufig noch nicht online zur Verfügung gestellt. <!-- TODO: Fallback translation -->
+《薄伽梵歌》课程暂不提供在线访问。
 
-Die Lektionen des Sanskritkurses behandeln Themen der Sanskritgrammatik, die bisher noch nicht behandelt wurden. <!-- TODO: Fallback translation -->
+本梵语课程的课程涵盖尚未涉及的梵语语法主题。
 
 ## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
 
-::::grammar-box
-**An Desiderativstämme (⟪इच्छाप्रकृति⟫) ("etwas zu tun wünschen" ; "im Begriffe sein, etwas zu tun") tritt zur Bildung von Nomina agentis das Suffix -u.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**对于欲求词干（⟪इच्छाप्रकृति⟫）（“想要做某事”；“准备做某事”），在构成施事名词时，添加后缀 -u。**
 
-(Bildung der Desiderativstämme folgt später) <!-- TODO: Fallback translation -->
+(形成使役词干将在后面进行)
 
-Beispiel: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪युयुत्सु⟫ (yu-yudh + s + u) "kampfebegierig, im Begriffe, zu kämpfen" <!-- TODO: Fallback translation -->
-:::::::::media
+:::
+::: indent
+⟪युयुत्सु⟫ (yu-yudh + s + u) “渴望战斗，准备战斗”
+:::: media
 ![](/images/lekt5402.webp)
-Abb.: ⟪अयुयुत्सुरर्जुनः⟫
-⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
-(Bildquelle: [Details](/licenses#lekt5402)) <!-- TODO: Fallback translation -->
+图：⟪अयुयुत्सुरर्जुनः⟫
+⟪भगवद्गीतोपदेशः⟫ 蒂鲁帕蒂 = తిరుపతి
+（图片来源：[详情](/zh-CN/licenses#lekt5402)）
+::::
 :::
-## 54.3. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫
+## 第54课 3. 韵律学 II：史诗的⟪त्रिष्टुभ्⟫与⟪जगती⟫
 
-::::grammar-box
-Die ⟪त्रिष्टुभ्⟫ ("Drei-Jauchzer") erscheint in den Epen inmitten der üblichen ⟪श्लोक⟫-Partien gerade an Stellen, wo Stimmung oder Handlung einen besonderen Aufschwung oder Abschluss erfahren. <!-- TODO: Fallback translation -->
+::: grammar-box
+“⟪त्रिष्टुभ्⟫”（“三声叹息”）出现在史诗中，位于通常的⟪श्लोक⟥部分之间，恰在情绪或情节获得特别升华或达到高潮之处。
 
-Die ⟪त्रिष्टुभ्⟫-Strophe besteht aus vier elfsilbigen ⟪पाद⟫, die sich im Bau nicht voneinander unterscheiden. <!-- TODO: Fallback translation -->
+त्रिष्टुभ्颂由四个十一音节的पाद组成，它们在结构上彼此没有区别。
 
-Die ⟪त्रिष्टुभ्⟫ hat zwei Grundschemata, je nachdem, ob die Zäsur (Wortende, Kompositionsfuge oder vor bestimmten Suffixen wie -tara, -tama u.ä.) nach der 4. oder 5. Silbe des ⟪पाद⟫ steht. <!-- TODO: Fallback translation -->
+त्रिष्टुभ्有两个基本句法模式，具体取决于停顿（词尾、构词边界或某些后缀如-tara、-tama等之前）出现在पाद的第4个音节之后还是第5个音节之后。
 
-Schema I: <!-- TODO: Fallback translation -->
-
-:::
-metrik-schema
-× — × — / × ◡ — **— ◡ — —** <!-- TODO: Fallback translation -->
-:::
-Schema II: <!-- TODO: Fallback translation -->
+Schema I:
 
 :::
-metrik-schema
-× — × — × / × ◡ **— ◡ — —** <!-- TODO: Fallback translation -->
-:::
-Die Quantität der vier letzten Silben ist also in beiden Schemata gleich. <!-- TODO: Fallback translation -->
+Metrik-Schema
+× — × — / × ◡ — **— ◡ — —**
+Schema II:
 
-⟪जगती⟫-Grundform: wie bei ⟪त्रिष्टुभ्⟫, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten: <!-- TODO: Fallback translation -->
+韵律模式
+× — × — × / × ◡ **— ◡ — —**
+因此，最后四个音节的数量在两种模式中是相同的。
+
+⟪जगती⟫基本形式：与⟪त्रिष्टुभ्⟫相同，但为12音节。每个Pada的后5个音节具有以下数量特征：
+
+metrisches Schema
+**— ◡ — ◡ —**
+Darüber hinaus gibt es die sogenannte typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die sich wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied fortsetzt:
+
+::: metrik-schema
+— × — × / × ◡ — **— ◡ — —**
+:::
+In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind:
+
+a) ⟪इन्द्रवज्रा⟫
+
+Metrik-Schema
+**—** — ◡ — , — ◡ ◡ — ◡ — —
+b) ⟪उपेन्द्रवज्रा⟫
+
+Metrik-Schema
+**◡** — ◡ — , — ◡ ◡ — ◡ — —
+c) ⟪उपजाति⟫
+
+::: indent
+⟪पाद⟫ 与 ⟪इन्द्रवज्रा⟫ 以及 ⟪पाद⟫ 与 ⟪उपेन्द्रवज्रा⟫ 混合在一节诗中。
+:::
+::: grammar-box
+**记忆诗句：**
+
+**⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
 
 :::
-metrik-schema
-**— ◡ — ◡ —** <!-- TODO: Fallback translation -->
+::: indent
+“当所有诗节（pāda）的音节均为 ta ta ja ga ga 时，即为因陀罗金刚（Indravājrā）。
 :::
-Daneben gibt es die sog. typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die weitergeht wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied: <!-- TODO: Fallback translation -->
+⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
 
+::: indent
+“一种Upendravajrā类似于一种Indravajrā，其开头音节较轻。”
 :::
-metrik-schema
-— × — × / × ◡ — **— ◡ — —** <!-- TODO: Fallback translation -->
+⟪अनन्तरोदीरितलक्ष्मभाजौ⟫
+⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫
+⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫
+⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
+
+::: indent
+„Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā aufweisen, an einem Vers beteiligt sind, dann handelt es sich um Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti.“
 :::
-In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind: <!-- TODO: Fallback translation -->
-
-a) ⟪इन्द्रवज्रा⟫ <!-- TODO: Fallback translation -->
-
-:::
-metrik-schema
-**—** — ◡ — , — ◡ ◡ — ◡ — — <!-- TODO: Fallback translation -->
-:::
-b) ⟪उपेन्द्रवज्रा⟫ <!-- TODO: Fallback translation -->
-
-:::
-metrik-schema
-**◡** — ◡ — , — ◡ ◡ — ◡ — — <!-- TODO: Fallback translation -->
-:::
-c) ⟪उपजाति⟫ <!-- TODO: Fallback translation -->
-
-:::indent
-⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ und ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ sind in eine Strophe gemischt. <!-- TODO: Fallback translation -->
-::::::::::grammar-box
-**Merkverse:** <!-- TODO: Fallback translation -->
-
-**⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫** <!-- TODO: Fallback translation -->
-
-:::indent
-"Es ist eine Indravājrā, wenn die Silben in allen Pādas ta ta ja ga ga sind. <!-- TODO: Fallback translation -->
-:::
-⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
-
-:::indent
-"Eine Upendravajrā ist wie eine Indravajrā, die am Anfang eine leichte Silben hat" <!-- TODO: Fallback translation -->
-:::
-⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
-⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
-⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
-⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
-
-:::indent
-"Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā haben, an einem Vers beteiligt sind, dann sind es Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti." <!-- TODO: Fallback translation -->
-::::::
 ## 54.4. Übung zur Metrik
 
-Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs. <!-- TODO: Fallback translation -->
+Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 
-Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Zugriff am 2009-01-28 <!-- TODO: Fallback translation -->
+Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Zugriff am 2009-01-28
 
 ## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫)
 
-:::grammar-box
-**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (⟪लङ्⟫) vorgesetzt wird.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**所有Aorist（⟪लुङ्⟫）教育类型的共同点是前缀a-，它按照与Imperfekt（⟪लङ्⟫）相同的规则前置。**
 
-Vom Aorist sind im Sanskrit nur Indikativ und Prekativ gebvräuchlich. <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Es gibt folgende Bildungstypen des Aorist (⟪लुङ्⟫):** <!-- TODO: Fallback translation -->
-
-1.  Nichtsibilantische (asigmatische) Aoriste:  <!-- TODO: Fallback translation -->
-    *   54.1. Wurzelaorist: Augment + Wurzel + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.2. Themavokalischer Aorist: Augment + Wurzel + **a** + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.3. Reduplizierter Aorist: Augment + **reduplizierte** Wurzel + **a** + Sekundärendung  <!-- TODO: Fallback translation -->
-2.  Sibilantische (sigmatische Aoriste: s oder eine Silbe, die s (ṣ) enthält tritt vor die Personalendung  <!-- TODO: Fallback translation -->
-    *   54.4. -s-Aorist: Augment + Wurzel + **s** \+ Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.5. -iṣ-Aorist: Augment + Wurzel + **i** + **ṣ** + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.6. -siṣ-Aorist: Augment + Wurzel + **siṣ** + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.7. -sa-Aorist: Augment + Wurzel + **s** + **a** + Sekundärendung <!-- TODO: Fallback translation -->
-
-Verteilung der Wurzeln auf die einzelnen Bildungstypen siehe bei den einzelnen Typen <!-- TODO: Fallback translation -->
+Im Sanskrit sind vom Aorist nur Indikativ und Prekativ gebräuchlich.
 :::
-## 54.6. Wurzelaorist
+::: grammar-box
+**Es gibt folgende Bildungstypen des Aorist (⟪लुङ्⟫):**
 
-:::grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+1. 非擦音（非sigmatische）语态：
+    *   54.1. 词根语态：增音 + 词根 + 次要词尾
+    *   54.2. 主题元音语态：增音 + 词根 + **a** + 次要词尾
+    *   54.3. 重叠语态：增音 + **重叠的** 词根 + **a** + 次要词尾
+2. 擦音（sigmatische语态：s 或包含 s (ṣ) 的音节出现在人称词尾之前
+    *   54.4. -s语态：增音 + 词根 + **s** + 次要词尾
+    *   54.5. -iṣ语态：增音 + 词根 + **i** + **ṣ** + 次要词尾
+    *   54.6. -siṣ语态：增音 + 词根 + **siṣ** + 次要词尾
+    *   54.7. -sa语态：增音 + 词根 + **s** + **a** + 次要词尾
 
-**Augment + Wurzel + Sekundärendung** <!-- TODO: Fallback translation -->
+词根在各构型类型中的分布，参见各具体类型
 :::
-Endung der 3.pl.P ist -ur. Ātmanepada ist nicht gebräuchlich. <!-- TODO: Fallback translation -->
+## 54.6. 词根未完成时态
 
-Beispiel: <!-- TODO: Fallback translation -->
+::: grammar-box
+**教育：**
 
-⟪पा⟫ 1P "trinken" <!-- TODO: Fallback translation -->
-
-:::grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ | <!-- TODO: Fallback translation -->
-| 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ | <!-- TODO: Fallback translation -->
-| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) | <!-- TODO: Fallback translation -->
+**Augment + 词根 + 二级词尾**
 :::
-Nur von 12 Wurzeln wird der Wurzelaorist gebildet: <!-- TODO: Fallback translation -->
+第三人称复数词尾为 -ur。Atmanepada（自词式）不常用。
 
-1.  ⟪गा⟫ 3 "gehen" <!-- TODO: Fallback translation -->
-2.  ⟪घ्रा⟫ 1P "riechen" <!-- TODO: Fallback translation -->
-3.  ⟪छो⟫ 6 "schneiden" (⟪अच्छात्⟫) <!-- TODO: Fallback translation -->
-4.  ⟪दा⟫ 3U "geben" <!-- TODO: Fallback translation -->
-5.  ⟪दो⟫  1, 4 "schneiden" <!-- TODO: Fallback translation -->
-6.  ⟪धा⟫ 3U "setzen" <!-- TODO: Fallback translation -->
-7.  ⟪धे⟫ 1 "saugen" (⟪अधात्⟫) <!-- TODO: Fallback translation -->
-8.  ⟪पा⟫ 1P "trinken" <!-- TODO: Fallback translation -->
-9.  ⟪शो⟫ 4P "schärfen" <!-- TODO: Fallback translation -->
-10.  ⟪सो⟫ "beendigen" <!-- TODO: Fallback translation -->
-11.  ⟪स्था⟫ 1P "stehen" <!-- TODO: Fallback translation -->
-12.  ⟪भू⟫ 1P "sein <!-- TODO: Fallback translation -->
+示例：
 
-Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet: <!-- TODO: Fallback translation -->
+⟪पा⟫ 1P “trinken”
 
-:::grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) | <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- |
+| 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
+| 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
+| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (低等级！) |
 :::
-### 54.6.1. Der Aorist der 3.sg.Passiv
+只有12个词根构成词根不定过去时：
 
-Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann von allen Wurzeln gebildet werden. <!-- TODO: Fallback translation -->
+1.  ⟪गा⟫ 3 “走”
+2.  ⟪घ्रा⟫ 第一人称单数 “闻”
+3.  ⟪छो⟫ 6 “切” (⟪अच्छात्⟫)
+4.  ⟪दा⟫ 第三类不规则动词 “给”
+5.  ⟪दो⟫  1, 4 “切”
+6.  ⟪धा⟫ 第三类不规则动词 “放置”
+7.  ⟪धे⟫ 1 “吸” (⟪अधात्⟫)
+8.  ⟪पा⟫ 第一人称单数 “喝”
+9.  ⟪शो⟫ 第四类不规则动词 “磨尖”
+10. ⟪सो⟫ “结束”
+11. ⟪स्था⟫ 第一人称单数 “站立”
+12. ⟪भू⟫ 第一人称单数 “存在”
 
-:::grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+对于 ⟪भू⟫ 1P，词根过去时（aorist）的构成方式如下：
 
-**Augment + Wurzel + i** <!-- TODO: Fallback translation -->
+::: grammar-box
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
+:::
+### 54.6.1. 第三人称单数被动语态的未完成过去时
 
-**Die Wurzel hat folgende Gestalt:** <!-- TODO: Fallback translation -->
+一种特殊形式的词根不定过去时是第三人称单数被动语态的不定过去时。它可以由所有词根构成。
 
-Hochstufe: <!-- TODO: Fallback translation -->
+::: grammar-box
+**教育：**
 
-*   Wurzeln mit kurzem Vokal (außer a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Wurzeln auf -am   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"  
-    ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestoßen" <!-- TODO: Fallback translation -->
+**Augment + Wurzel + i**
 
-Dehnstufe: <!-- TODO: Fallback translation -->
+**根具有以下形态：**
 
-*   Wurzeln mit auslautendem Vokal   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪नी⟫ 1U: ⟪अनायि⟫ "er wurde geführt"  
-    ⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "sie wurde gelobt"  
-    ⟪कृ⟫ 8U: ⟪अकारि⟫ "es wurde gemacht"   <!-- TODO: Fallback translation -->
+高级阶段：
 
-*   Wurzeln mit a vor einfachem Konsonanten (außer ⟪जन्⟫ und Wurzeln auf -am)   <!-- TODO: Fallback translation -->
+*   词根带有短元音（a 除外），位于简单辅音之前，以及 ⟪जन्⟫ 和大多数以 -am 结尾的词根  
+    例如：  
+    ⟪भिद्⟫ 7U：⟪अभेदि⟫ “他被劈开”  
+    ⟪तुद्⟫ 6U：⟪अतोदि⟫ “他被推开”
+
+延长阶段：
+
+*   以元音结尾的词根  
+    示例：  
+    ⟪नी⟫ 1U: ⟪अनायि⟫ “他被引导”  
+    ⟪स्तु⟫ 2U: ⟪अस्तावि⟫ “她被赞美”  
+    ⟪कृ⟫ 8U: ⟪अकारि⟫ “它被制作”
+
+*   词根在简单辅音前有 a（除 ⟪जन्⟫ 和以 -am 结尾的词根）  
+    例如：  
+    ⟪वद्⟫ 第一人称单数直陈式过去时：⟪अवादि⟫ “被说”  
+    但：  
+    ⟪जन्⟫ 第四类动词，中间语态：⟪अजनि⟫ “被生”
+
+*   einige Stämme auf -am  
     Beispiel:  
-    ⟪वद्⟫ 1P: ⟪अवादि⟫ "es wurde gesagt"  
-    aber:  
-    ⟪जन्⟫ 4Ā: ⟪अजनि⟫ "sie wurde geboren"   <!-- TODO: Fallback translation -->
+    ⟪गम्⟫ ⟪अगामि⟫
 
-*   einige Wurzeln auf -am   <!-- TODO: Fallback translation -->
-    Beispiel:  
-    ⟪गम्⟫ ⟪अगामि⟫ <!-- TODO: Fallback translation -->
+词尾前插入 y：
 
-Einschub von y vor Endung: <!-- TODO: Fallback translation -->
+*   词根以 -ā, -e, -ai, -o 结尾时，在词根的 -ā 与词尾之间插入 y：  
+    示例：  
+    ⟪दा⟫ 3U: ⟪अदायि⟫ “被给予”
 
-*   Wurzeln auf -ā, -e, -ai, -o schieben zwischen das -ā der Wurzel und die Endung ein y ein:   <!-- TODO: Fallback translation -->
-    Beispiel:  
-    ⟪दा⟫ 3U: ⟪अदायि⟫ "es wurde gegeben" <!-- TODO: Fallback translation -->
+鼻音插入：
 
-Nasalinfix: <!-- TODO: Fallback translation -->
+*   某些词根带有鼻音 infix（中缀）：  
+    示例：  
+    ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ 与 ⟪अलाभि⟫ 并列：“被接收”
 
-*   einige Wurzeln haben ein Nasalinfix:   <!-- TODO: Fallback translation -->
-    Beispiel:  
-    ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ neben ⟪अलाभि⟫ : "es wurde empfangen" <!-- TODO: Fallback translation -->
-
-(Die übrigen Formen des Passiv werden im Aorist durch Ātmanepada-formen wiedergegeben). <!-- TODO: Fallback translation -->
+（被动语态的其他形式在未完成过去式中通过中动语态形式表达）。
 :::
-## 54.7. Übung
+## 54.7. 练习
 
-Übersetzen Sie schriftlich folgende Formen und bilden Sie die entsprechenden Aoristformen: <!-- TODO: Fallback translation -->
+书面翻译以下形式，并构成相应的不定过去时形式：
 
-1.  ⟪यन्ति⟫ <!-- TODO: Fallback translation -->
-2.  ⟪पिबामि⟫ <!-- TODO: Fallback translation -->
-3.  ⟪ददौ⟫ <!-- TODO: Fallback translation -->
-4.  ⟪बभूव⟫ <!-- TODO: Fallback translation -->
-5.  ⟪दधति⟫ <!-- TODO: Fallback translation -->
-6.  ⟪ऐम⟫ <!-- TODO: Fallback translation -->
-7.  ⟪पपिथ⟫ <!-- TODO: Fallback translation -->
-8.  ⟪तिष्ठति⟫ <!-- TODO: Fallback translation -->
-9.  ⟪इयेथ⟫ <!-- TODO: Fallback translation -->
-10.  ⟪पप⟫ <!-- TODO: Fallback translation -->
-11.  ⟪एष्यथ⟫ <!-- TODO: Fallback translation -->
-12.  ⟪तस्थुः⟫ <!-- TODO: Fallback translation -->
-13.  ⟪अधत्त⟫ <!-- TODO: Fallback translation -->
-14.  ⟪अददाः⟫ <!-- TODO: Fallback translation -->
-15.  ⟪अभवन्⟫ <!-- TODO: Fallback translation -->
-16.  ⟪ददिम⟫ <!-- TODO: Fallback translation -->
-17.  ⟪भिद्यते⟫ <!-- TODO: Fallback translation -->
-18.  ⟪उद्यते⟫ <!-- TODO: Fallback translation -->
-19.  ⟪स्तूयते⟫ <!-- TODO: Fallback translation -->
-20.  ⟪कृष्यते⟫ <!-- TODO: Fallback translation -->
-21.  ⟪जायते⟫ (Pass.) <!-- TODO: Fallback translation -->
-22.  ⟪गीयते⟫ <!-- TODO: Fallback translation -->
-23.  ⟪गम्यते⟫ <!-- TODO: Fallback translation -->
+1.  ⟪यन्ति⟫
+2.  ⟪⟪पिबामि⟫⟫
+3.  ⟪ददौ⟫
+4.  ⟪बभूव⟫
+5.  ⟪दधति⟫
+6.  ⟪ऐम⟫
+7.  ⟪पपिथ⟫
+8.  ⟪तिष्ठति⟫
+9.  ⟪इयेथ⟫
+10.  ⟪पप⟫
+11.  ⟪एष्यथ⟫
+12.  ⟪तस्थुः⟫
+13.  ⟪अधत्त⟫
+14.  ⟪अददाः⟫
+15.  ⟪अभवन्⟫
+16.  ⟪ददिम⟫
+17.  ⟪भिद्यते⟫
+18.  ⟪उद्यते⟫
+19.  ⟪स्तूयते⟫
+20.  ⟪कृष्यते⟫
+21.  ⟪जायते⟫（被动语态）
+22.  ⟪गीयते⟫
+23.  ⟪गम्यते⟫
 
-:::media
+::: media
 ![](/images/lekt5401.webp)
 Abb.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
-(Bildquelle: [Details](/licenses#lekt5401)) <!-- TODO: Fallback translation -->
-::::::deleteme-box
+(Bildquelle: [Details](/zh-CN/licenses#lekt5401))
+:::
+::: deleteme-box
 
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Bildquelle: Raji Srinivas / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ 蒂鲁帕蒂 = తిరుపతి [图片来源：Raji Srinivas / 维基百科。GNU FDLicense]
 
-**lekt5401:** Tamil Nadu [Bildquelle: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Zugriff am 2009-01-28. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, shre alike)] <!-- TODO: Fallback translation -->
+**lekt5401:** 泰米尔纳德邦 [图片来源：driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/)。-- 访问于 2009-01-28。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
 
 :::

@@ -12,7 +12,7 @@ last_reconstructed: 2026-05-15
 
 Traduci e determina le seguenti forme e forma le corrispondenti forme dell’**Aoristo**. Fuori dai Causativi e dalle radici che formano l’**aoristo in s**, tra parentesi è indicata la classe dell’aoristo corrispondente:
 
-:::grammar-box
+::: grammar-box
 | Nr. | Form | Bestimmung / Bedeutung | Aorist |
 |:---|:---|:---|:---|
 | ⟪१⟫. | **⟪पेचिथ⟫** | *⟪पच्⟫* 1U: 2. Sg. Perf. P. (tu fosti) | **⟪अपाक्षीः⟫** |
@@ -40,10 +40,11 @@ Traduci e determina le seguenti forme e forma le corrispondenti forme dell’**A
 | ⟪२३⟫. | **⟪निन्य⟫** | *⟪नी⟫* 1U: 2. Pl. Perf. P. (voi avete condotto) | **⟪अनैष्ट⟫** |
 | ⟪२४⟫. | **⟪कर्षन्ति⟫** | *⟪कृष्⟫* 1P: 3. Pl. Ind. Präs. P. (essi tirano) | **⟪अकार्क्षुः⟫ / ⟪अक्राक्षुः⟫** |
 | ⟪२५⟫. | **⟪अप्रच्छयन्⟫** | *⟪प्रच्छ्⟫* 6P: 3. Pl. Impf. P. Kaus. (essi fecero chiedere) | **⟪अपप्रच्छन्⟫** |
-::::::media
+:::: media
 ![](/images/uebung090.webp)
 Fig.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Fonte immagine: [Dettagli](/it/licenses#uebung090))
+::::
 :::
 ---
 
@@ -51,7 +52,7 @@ Fig.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्�
 
 Determinare e tradurre le seguenti forme:
 
-:::grammar-box
+::: grammar-box
 | Nr. | Form | Bestimmung / Bedeutung |
 |:---|:---|:---|
 | ⟪१⟫. | **⟪चेलुः⟫** | *⟪चल्⟫* 1P: 3. Pl. Perf. P. (sono entrati in movimento) |
@@ -111,8 +112,9 @@ Determinare e tradurre le seguenti forme:
 | ⟪५४⟫. | **⟪आदिषि⟫** | *⟪आ⟫-⟪दा⟫* 3Ā: 1. Sg. s-Aor. Ā. (io presi) |
 | ⟪५५⟫. | **⟪पाणी⟫** | *⟪पाणि⟫* m.: Nom. Acc. Voc. Du. (entrambe le mani) |
 | ⟪५६⟫. | **⟪अस्प्राक्षम्⟫** | *⟪स्पृश्⟫* 6P: 1. Sg. s-Aor. P. (io toccai) |
-::::::media
+:::: media
 ![](/images/uebung094.webp)
 Fig.: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung094))
+::::
 :::

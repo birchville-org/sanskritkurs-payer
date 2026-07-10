@@ -16,7 +16,7 @@ Traduceți literal în limba română bună și învățați pe de rost textele 
 
 Ignoranța înseamnă a considera ceea ce este impermanent, impur, suferință și neabsolut ca fiind permanent, pur, plin de bucurie, respectiv absolut.
 
-:::deleteme-box Explicație
+::: deleteme-box Explicație
 **⟪आत्मसु⟫** = Loc. sg. pentru ⟪आत्मन्⟫ m. "Suflet; absolutul, în măsura în care se realizează în individ"
 :::
 ### ⟪२⟫. Despre utilizarea corectă a ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4)
@@ -35,7 +35,7 @@ Ignoranța înseamnă a considera ceea ce este impermanent, impur, suferință �
 > Bucuroasă de activitatea conform dreptului și obiceiului propriu  
 > Ea se mișcă pe propriile ei căi.
 
-:::deleteme-box Glossar & Gramatică
+::: deleteme-box Glossar & Gramatică
 - **⟪उद्वेजनीय⟫** (3): ceva, în fața căruia trebuie să tremuri
 - **⟪विज्ञात⟫** (3): recunoscut; n.: recunoaștere
 - **⟪योजयति⟫** (Cauș. la **⟪युज्⟫**): a atârna, a conecta cu
@@ -46,8 +46,9 @@ Ignoranța înseamnă a considera ceea ce este impermanent, impur, suferință �
 - **⟪राज्ञा⟫**: Instr. sg. masc. la **⟪राजन्⟫** (Rege)
 - **⟪स्वेषु⟫**: Lok. plur. masc./neutr. la **⟪स्व⟫** (propriu)
 - **⟪वर्त्मसु⟫**: Lok. plur neutr. la **⟪वर्त्मन्⟫** (Cale, drum)
-::::::media
+:::: media
 ![](/images/uebung046.webp)
 Fig.: ⟪चतुर्वर्णाश्रमो⟫ ⟪लोको⟫
 (Sursa imaginii: [Detalii](/licenses#uebung046))
+::::
 :::

@@ -1,15 +1,15 @@
 ---
-title: Lezione 5
-subtitle: "Fondamenta dei composti nominali (samāsa)"
+title: Lektion 5
+subtitle: "Grundlagen der Nominalkomposita (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
-category: "Grammatica"
+category: "Grammatik"
 status: stable
 ---
 
 # Lezione 5
 
-:::deleteme-box
+::: deleteme-box
 **In questa lezione imparate:**
 - Fondamenta dei composti nominali (samāsa)
 - Terminologia tecnica per i composti
@@ -27,8 +27,6 @@ Le forme principali di formazione di composti sono:
 
 (Sui due ultimi nominati, vedere più avanti!)
 
----
-
 ## 5.2. Sulla terminologia sanscrita per i composti
 
 - **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Membri di un composto
@@ -38,13 +36,11 @@ Le forme principali di formazione di composti sono:
 - **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Composto i cui primi membri sono privi di desinenze casuali (il caso normale)
 - **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Composto in cui uno o più membri intermedi vengono omessi
 
----
-
 ## 5.3. Kompositi copulativi (Dvandva n. = ⟪द्वन्द्व⟫)
 
 I compositi copulativi servono a collegare membri grammaticalmente omogenei, coordinati (sostantivi o aggettivi).
 
-:::grammar-box
+::: grammar-box
 **Un Dvandva indica:**
 
 1. **o la connessione sommativa delle persone, cose, proprietà indicate dai suoi singoli membri:**
@@ -94,8 +90,6 @@ Esempi di Pluraldvandva:
 
 Quando due delle tre ultime disposizioni possono applicarsi contemporaneamente, deve sempre essere seguita la regola fornita successivamente. (Esempi di Dualdvandva per queste regole in Kielhorn, Grammatik § 570).
 
----
-
 ## 5.4. Elenco di parole
 
 **Impara le seguenti parole:**
@@ -104,7 +98,7 @@ Quando due delle tre ultime disposizioni possono applicarsi contemporaneamente, 
 
 **kāma** m. = ⟪काम⟫ : desiderio, brama, dono desiderato, piacere sensuale, amore; dio dell'amore Kāma.
 
-:::media
+::: media
 ![](/images/lekt0501.webp)
 Fig.: Dio Kāma = kāmadeva = ⟪कामदेव⟫, XVIII secolo.
 (Fonte dell'immagine: Wikipedia, dominio pubblico)
@@ -139,8 +133,6 @@ Fig.: Dio Kāma = kāmadeva = ⟪कामदेव⟫, XVIII secolo.
 (Viene posposto alla parola che collega. Quando vengono collegate più parole, idealmente si colloca dopo la prima parola dell'ultimo elemento di collegamento: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : sia ... sia.
-
----
 
 ## 5.5. Esercizio
 
@@ -177,8 +169,6 @@ Fig.: Dio Kāma = kāmadeva = ⟪कामदेव⟫, XVIII secolo.
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
    (Dopo Kauṭilīya-arthaśāstra 1.2.1.)
    ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
-
----
 
 ## 5.6. Esercizio di ripasso
 

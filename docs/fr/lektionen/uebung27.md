@@ -8,9 +8,9 @@ last_reconstructed: 2026-05-15
 
 # Leçon 27
 
-A) Insérez dans la phrase suivante les expressions entre parenthèses au cas locatif (⟪सप्तमी⟫) singulier et — lorsque cela est pertinent — pluriel.
+A) Insérez dans les phrases suivantes les expressions entre parenthèses au cas locatif (⟪सप्तमी⟫) singulier et — lorsque cela est pertinent — pluriel.
 
-**⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫** (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟫)
+**⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫** (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟩)
 
 ⟪१⟫. ⟪रामो⟫ **⟪ग्रामे⟫** ⟪वसति⟫ ⟪।⟫
 
@@ -26,10 +26,10 @@ A) Insérez dans la phrase suivante les expressions entre parenthèses au cas lo
 
 ⟪७⟫. ⟪रामो⟫ **⟪मुह्यति⟫ ⟪शत्रौ⟫** ⟪वसति⟫ ⟪।⟫ (Pluriel : ⟪रामो⟫ **⟪मुह्यत्सु⟫ ⟪शत्रुषु⟫** ⟪वसति⟫ ⟪।⟫)
 
-B) Traduisez et résolvez les composés :
+B) Traduisez et décomposez les composés :
 
 ⟪१⟫. **⟪धर्मं⟫ ⟪वदति⟫ ⟪गुरौ⟫ ⟪दुर्जना⟫ ⟪न⟫ ⟪शृण्वन्ति⟫ ⟪॥१॥⟫**
-Les mauvaises personnes n'écoutent pas lorsque l'enseignant proclame le Dharma.
+Les mauvaises personnes n'écoutent pas lorsque le professeur expose le Dharma.
 
 ⟪२⟫. **⟪बुद्धकाले⟫ ⟪नरैरार्यसत्यानि⟫ ⟪श्रोतुं⟫ ⟪शक्यन्ते⟫ ⟪॥२॥⟫**
 (⟪बुद्धस्य⟫ ⟪काले⟫)
@@ -37,11 +37,11 @@ Les mauvaises personnes n'écoutent pas lorsque l'enseignant proclame le Dharma.
 
 ⟪३⟫. **⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥३॥⟫**
 (⟪वसितानि⟫ ⟪शोभनानि⟫ ⟪वस्त्राणि⟫ ⟪यया⟫ ⟪ताम्⟫ ⟪।⟫ ⟪शोभनानि⟫ ⟪वस्त्राणि⟫)
-Les hommes désirent une femme qui s'est bien vêtue. C'est pourquoi les bonnes femmes souhaitent des beaux vêtements aux hommes.
+Les hommes désirent une femme qui s'est bien vêtue. C'est pourquoi les bonnes femmes souhaitent des vêtements beaux pour les hommes.
 
 ⟪४⟫. **⟪पुत्रे⟫ ⟪मृते⟫ ⟪ऽपुत्रा⟫ ⟪ब्राह्मणी⟫ ⟪पुत्रं⟫ ⟪लब्धुं⟫ ⟪व्रतं⟫ ⟪करोति⟫ ⟪॥४॥⟫**
 (⟪पुत्रो⟫ ⟪नास्ति⟫ ⟪यस्याः⟫ ⟪सा⟫)
-Après que son fils est mort, la brahmane sans fils fait un vœu afin d'obtenir un fils.
+Après que son fils est mort, la brahmane sans fils fait un vœu pour obtenir un fils.
 
 ⟪५⟫. **⟪उपनीतबालैर्गुरुकुल⟫ ⟪उष्यते⟫ ⟪॥५॥⟫**
 (⟪उपनीतैर्बालैः⟫ ⟪।⟫ ⟪गुरोः⟫ ⟪कुले⟫)
@@ -52,22 +52,23 @@ Après l'initiation, les garçons demeurent dans la famille du maître.
 Puisque le moment du sacrifice est écoulé, les dieux, à qui on n'a pas sacrifié, sont en colère contre les brahmanes qui avaient oublié le sacrifice.
 
 ⟪७⟫. **⟪गुरौ⟫ ⟪तिष्ठति⟫ ⟪बाल⟫ ⟪आसितुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Pendant que le maître est debout, un garçon ne doit pas s'asseoir.
+Tandis que le maître est debout, un garçon ne doit pas s'asseoir.
 
 ⟪८⟫. **⟪एवं⟫ ⟪काले⟫ ⟪गच्छति⟫ ⟪स्वाचारक्षत्रिय⟫ ⟪इष्टं⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभते⟫ ⟪॥८॥⟫**
 (⟪साधुराचार⟫o ⟪यस्य⟫ ⟪सः⟫)
-Pendant que le temps s'écoule ainsi, le kṣatriya de bonne conduite n'obtient pas la prospérité souhaitée.
+Tandis que le temps s'écoule ainsi, le kṣatriya de bonne conduite n'obtient pas la prospérité souhaitée.
 
 ⟪९⟫. **⟪ब्राह्मण्यां⟫ ⟪महाकवावागच्छन्त्यां⟫ ⟪ब्राह्मणीपुत्रो⟫ ⟪ऽप्यागच्छति⟫ ⟪॥९॥⟫**
 (⟪महति⟫ ⟪कवौ⟫ ⟪।⟫ ⟪ब्राह्मण्याः⟫ ⟪पुत्रः⟫)
-Pendant que la brahmane arrive auprès du grand poète, son fils arrive également.
+Tandis que la brahmane arrive auprès du grand poète, son fils arrive également.
 
 ⟪१०⟫. **⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫ ⟪॥१०॥⟫**
 (⟪सुष्ठ⟫u ⟪नीता⟫ ⟪बालाः⟫)
-Lorsque les enseignants enseignent, les enfants bien élevés ne doivent pas bavarder (parler).
+Si les enseignants enseignent, les enfants bien élevés ne doivent pas bavarder (parler).
 
-:::media
+::: media
 ![](/images/uebung044.webp)
 Fig. : ⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫
-(Source de l'image : [Détails](/fr/licenses#uebung044))
+(Source de l'image : [Détails](/licenses#uebung044))
+
 :::

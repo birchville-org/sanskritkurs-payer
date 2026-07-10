@@ -18,7 +18,7 @@ export const fr = {
       { text: 'Table des matières', link: '/fr/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Crédits', link: '/fr/impressum' },
-      { text: '⚙️', link: '/fr/settings', ariaLabel: 'Ouvrir les paramètres' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/fr/settings', ariaLabel: 'Ouvrir les paramètres' }
     ],
     docFooter: {
       prev: 'Leçon précédente',

@@ -1,373 +1,377 @@
 ---
-title: Lektion 42
-subtitle: "Stämme auf -ṛ"
+title: 第42课
+subtitle: "以 -ṛ 结尾的部族"
 lesson_id: 42
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 42
 
 ## 42.1. Stämme auf -ṛ
 
-### 42.1.1. Stämme mit Dehnstufe im starken Stamm
+### 42.1.1. 强词干中含长音级的部落
 
-:::grammar-box
-Alle Maskulina auf -ṛ mit Ausnahme der unter 1.3. angeführten Verwandtschaftsbezeichnungen. Hierher gehören auch die Verwandtschaftsbezeichnungen: <!-- TODO: Fallback translation -->
+::: grammar-box
+所有以 -ṛ 结尾的中性名词，除了 1.3 节中列出的亲属称谓。这里还包括以下亲属称谓：
 
-*   **⟪नप्तृ⟫** m. "Enkel" <!-- TODO: Fallback translation -->
-*   **⟪भर्तृ⟫** m. "Gatte (wörtl. Erhalter)" <!-- TODO: Fallback translation -->
+*   **⟪नप्तृ⟫** m. “孙子”
+*   **⟪भर्तृ⟫** m. “丈夫（字面意为‘供养者’）”
 
-Den Großteil der hierhergehörigen Nomina bilden Nomina agentis auf das ⟪कृत्⟫-Suffix -⟪तृ⟫. <!-- TODO: Fallback translation -->
+此处的名词大部分为以⟪कृत्⟫后缀-⟪तृ⟫构成的施事名词。
 
-**Bildung:** <!-- TODO: Fallback translation -->
+**教育：**
 
-*   **Starker Stamm: -ār** <!-- TODO: Fallback translation -->
-*   **Schwacher Stamm** <!-- TODO: Fallback translation -->
-    *   **vor Vokal: -r** <!-- TODO: Fallback translation -->
-    *   **vor Konsonant: -ṛ** <!-- TODO: Fallback translation -->
+*   **Starker Stamm: -ār**
+*   **Schwacher Stamm**
+    *   **vor Vokal: -r**
+    *   **vor Konsonant: -ṛ**
 
-Beachten Sie die unregelmäßigen Bildungen (durch **rot** gekennzeichnet)! <!-- TODO: Fallback translation -->
+注意不规则形式（以**红色**标记）！
 :::
-Maskulinum: <!-- TODO: Fallback translation -->
+阳性：
 
-:::indent
-**⟪दातृ⟫** m. "Geber" <!-- TODO: Fallback translation -->
-::::::grammar-box
+::: indent
+**⟪दातृ⟫** m. “施予者”
+:::
+::: grammar-box
 
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ***⟪दाता⟫*** | ⟪दातारस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪दातारम्⟫ | ***⟪दातॄन्⟫*** | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪दात्रा⟫ | ⟪दातृभिस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪दात्रे⟫ | ⟪दातृभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ***⟪दातुस्⟫*** | ⟪दातृभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ***⟪दातुस्⟫*** | ***⟪दातॄणाम्⟫*** | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ***⟪दातरि⟫*** | ⟪दातृषु⟫ | <!-- TODO: Fallback translation -->
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| :--- | :--- | :--- |
+| ⟪प्रथमा⟫ | ***⟪दाता⟫*** | ⟪दातारस्⟫ |
+| ⟪द्वितीया⟫ | ⟪दातारम्⟫ | ***⟪दातॄन्⟫*** |
+| ⟪तृतीया⟫ | ⟪दात्रा⟫ | ⟪दातृभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪दात्रे⟫ | ⟪दातृभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ***⟪दातुस्⟫*** | ⟪दातृभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ***⟪दातुस्⟫*** | ***⟪दातॄणाम्⟫*** |
+| ⟪सप्तमी⟫ | ***⟪दातरि⟫*** | ⟪दातृषु⟫ |
 
 :::
-Zur Erklärung der unregelmäßigen Bildungen siehe Thumb-Hauschild I,2 S. 76 -81 <!-- TODO: Fallback translation -->
+关于不规则形式的解释，参见 Thumb-Hauschild I,2 第76-81页
 
-Femininum: <!-- TODO: Fallback translation -->
+阴性：
 
-:::indent
-**⟪स्वसृ⟫** f. wird wie **⟪दातृ⟫** dekliniert mit Ausnahme des Akkusativ (**⟪द्वितीया⟫**) Plural: ***⟪स्वसॄस्⟫***. <!-- TODO: Fallback translation -->
+::: indent
+**⟪स्वसृ⟫** f. 的变格方式与 **⟪दातृ⟫** 相同，唯第四格（**⟪द्वितीया⟫**）复数例外：***⟪स्वसॄस्⟫***。
 :::
-### 42.1.2. Nominalbildung: ⟪कृत्⟫-Suffix -⟪तृ⟫
+### 42.1.2. 名词构成：⟪कृत्⟫-后缀 -⟪तृ⟫
 
-:::grammar-box
-Mit dem sehr häufig vorkommenden ⟪कृत्⟫-Suffix -⟪तृ⟫ bildet man Nomina agentis (Bezeichnungen für den ⟪कर्तृ⟫) zu fast jeder Wurzel bzw. Kausativstamm. <!-- TODO: Fallback translation -->
+::: grammar-box
+使用极其常见的⟪कृत्⟫后缀-⟪तृ⟫，可以为几乎任何词根或使动词干构成施事名词（指代⟪कर्तृ⟫的称谓）。
 
-**Bildung:** <!-- TODO: Fallback translation -->
+**教育：**
 
-*   **hochstufige Wurzel + -tṛ** <!-- TODO: Fallback translation -->
+*   **高阶词根 + -tṛ**
 
-oder <!-- TODO: Fallback translation -->
+或者
 
-*   **hochstufige Wurzel / Kausativstamm + i + tṛ** <!-- TODO: Fallback translation -->
+*   **高阶词根 / 使役词干 + i + tṛ**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-**⟪कर्तृ⟫** m. "Täter" <!-- TODO: Fallback translation -->
+::: indent
+**⟪कर्तृ⟫** m. “施动者”
 
-**⟪जेतृ⟫** m. "Sieger" <!-- TODO: Fallback translation -->
+**⟪जेतृ⟫** m. “胜利者”
 
-**⟪धातृ⟫** m. "Schöpfer" <!-- TODO: Fallback translation -->
+**⟪धातृ⟫** m. “创造者”
 
-**⟪रक्षितृ⟫** m. "Beschützer" <!-- TODO: Fallback translation -->
+**⟪रक्षितृ⟫** m. “保护者”
 
-**⟪बोधयितृ⟫** m. "Wecker" <!-- TODO: Fallback translation -->
-::::::media
+**⟪बोधयितृ⟫** m. “闹钟”
+:::: media
 ![lekt4201.jpg](/images/lekt4201.jpg)
-Abb.: ⟪अयं⟫ ⟪बोधयिता⟫
-(Bildquelle: [Details](/licenses#lekt4201)) <!-- TODO: Fallback translation -->
-::::::grammar-box
-Selten vorkommende Neutra auf -⟪तृ⟫ haben eine teilweise eigene Deklination (s. Kielhorn, Grammatik § 148). <!-- TODO: Fallback translation -->
+图：⟪अयं⟫ ⟪बोधयिता⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4201)）
+::::
+:::
+::: grammar-box
+罕见出现的以 -⟪तृ⟫ 结尾的中性名词具有部分独立的变格形式（参见 Kielhorn，《语法》§ 148）。
 
-Das Femininum zu den Stämmen auf -⟪तृ⟫ lautet auf **-⟪त्री⟫** (wie **⟪देवी⟫**). <!-- TODO: Fallback translation -->
+以-⟪तृ⟫结尾的词干的阴性形式为**-⟪त्री⟫**（如**⟪देवी⟫**）。
 
-z.B. **⟪कर्त्री⟫** f. "Täterin" <!-- TODO: Fallback translation -->
+z.B. **⟪कर्त्री⟫** f. "Täterin"
 :::
 ### 42.1.3. Stämme mit Hochstufe im starken Stamm
 
-:::grammar-box
-Dazu gehören folgende Verwandtschaftsbezeichnungen: <!-- TODO: Fallback translation -->
+::: grammar-box
+以下是相关的亲属称谓：
 
-*   **⟪पितृ⟫** m. "Vater" <!-- TODO: Fallback translation -->
-*   **⟪मातृ⟫** f. "Mutter" <!-- TODO: Fallback translation -->
-*   **⟪दुहितृ⟫** f. "Tochter" <!-- TODO: Fallback translation -->
-*   **⟪भ्रातृ⟫** m. "Bruder" <!-- TODO: Fallback translation -->
-*   **⟪देवृ⟫** m. "Gattenbruder (Schwager der Frau)" <!-- TODO: Fallback translation -->
-*   **⟪यातृ⟫** f. "Frau des Gattenbruders" <!-- TODO: Fallback translation -->
-*   **⟪ननान्दृ⟫** f. "Schwester des Gatten (Schwägerin der Frau)" <!-- TODO: Fallback translation -->
+*   **⟪पितृ⟫** m. “父亲”
+*   **⟪मातृ⟫** f. “母亲”
+*   **⟪दुहितृ⟫** f. “女儿”
+*   **⟪भ्रातृ⟫** m. “兄弟”
+*   **⟪देवृ⟫** m. “丈夫的弟弟（妻子的妹夫）”
+*   **⟪यातृ⟫** f. “丈夫弟弟的妻子”
+*   **⟪ननान्दृ⟫** f. “丈夫的姐姐（妻子的嫂子）”
 
-**Bildung:** <!-- TODO: Fallback translation -->
+**教育：**
 
-*   **starker Stamm: -ar** <!-- TODO: Fallback translation -->
-*   **schwacher Stamm** <!-- TODO: Fallback translation -->
-    *   **vor Vokal: -r** <!-- TODO: Fallback translation -->
-    *   **vor Konsonant: -ṛ** <!-- TODO: Fallback translation -->
+*   **starker Stamm: -ar**
+*   **schwacher Stamm**
+    *   **vor Vokal: -r**
+    *   **vor Konsonant: -ṛ**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+例子：
 
-:::indent
-**⟪पितृ⟫** m. "Vater" <!-- TODO: Fallback translation -->
+::: indent
+**⟪पितृ⟫** m. “父亲”
 
-**⟪मातृ⟫** f. "Mutter" <!-- TODO: Fallback translation -->
-::::::grammar-box
+**⟪मातृ⟫** f. “母亲”
+:::
+::: grammar-box
 
-| | ⟪पुंस्⟫ (⟪एकवचनम्⟫) | ⟪पुंस्⟫ (⟪बहुवचनम्⟫) | ⟪स्त्री⟫ (⟪एकवचनम्⟫) | ⟪स्त्री⟫ (⟪बहुवचनम्⟫) | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪पिता⟫ | ***⟪पितरस्⟫*** | ⟪माता⟫ | ***⟪मातरस्⟫*** | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ***⟪पितरम्⟫*** | ⟪पितॄन्⟫ | ***⟪मातरम्⟫*** | ⟪मातॄस्⟫ | <!-- TODO: Fallback translation -->
-| Rest wie ⟪दातृ⟫ | ← | ← | ← | ← | <!-- TODO: Fallback translation -->
+| | ⟪पुंस्⟫ (⟪एकवचनम्⟫) | ⟪पुंस्⟫ (⟪बहुवचनम्⟫) | ⟪स्त्री⟫ (⟪एकवचनम्⟫) | ⟪स्त्री⟫ (⟪बहुवचनम्⟫) |
+| :--- | :--- | :--- | :--- | :--- |
+| ⟪प्रथमा⟫ | ⟪पिता⟫ | ***⟪पितरस्⟫*** | ⟪माता⟫ | ***⟪मातरस्⟫*** |
+| ⟪द्वितीया⟫ | ***⟪पितरम्⟫*** | ⟪पितॄन्⟫ | ***⟪मातरम्⟫*** | ⟪मातॄस्⟫ |
+| 其余部分同 ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
-### 42.1.4. Stämme auf -ṛ in Komposita
+### 42.1.4. 复合词中词尾为 -ṛ 的词干
 
-:::grammar-box
-Als Vorderglied eines Kompositums stehen Nomina auf -ṛ selbstverständlich in ihrem schwachen Stamm, d.h. <!-- TODO: Fallback translation -->
+::: grammar-box
+作为复合词的前成分，以-ṛ结尾的名词自然处于其弱词干中，即
 
-*   **vor Konsonant: -ṛ** <!-- TODO: Fallback translation -->
-*   **vor Vokal: -r** <!-- TODO: Fallback translation -->
+*   **在辅音前：-ṛ**
+*   **在元音前：-r**
 :::
-## 42.2. Wortliste
+## 42.2. 词汇表
 
-⟪प्रकृति⟫ f.: (zu ⟪कृ⟫ + ⟪प्र⟫) Grundform, natürlicher Zustand, Natur; Urmaterie, Urstoff <!-- TODO: Fallback translation -->
+⟪प्रकृति⟫ f.：（源自 ⟪कृ⟫ + ⟪प्र⟫）基本形式，自然状态，本性；原初物质，原始元素
 
-⟪अर्जुन⟫ m. Eigenname: Arjuna, einer der fünf Söhne des ⟪पण्डु⟫. Held im ⟪महाभारत⟫ (siehe Basham, Wonder S. 409 - 414) <!-- TODO: Fallback translation -->
+⟪अर्जुन⟫ 阳性名词，专有名词：阿尔诸那，⟪पण्डु⟫ 的五个儿子之一。《⟪महाभारत⟫》中的英雄（参见 Basham，《奇迹》第 409 - 414 页）
 
-⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstehen von, Abstand nehmen von, sich fernhalten, verbleiben, dastehen <!-- TODO: Fallback translation -->
+⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ ：远离，避开，保持距离，停留，站立
 
-:::indent
-PPP ⟪अवस्थित⟫ 3: dastehend, befindlich <!-- TODO: Fallback translation -->
+::: indent
+PPP ⟪अवस्थित⟫ 3: stehend, vorhanden
 :::
-⟪पुरा⟫ Adv.: einst, früher <!-- TODO: Fallback translation -->
+⟪पुरा⟫ Adv.: einst, früher
 
-⟪अनेक⟫ 3: viele (nicht einige) <!-- TODO: Fallback translation -->
+⟪अनेक⟫ 3：许多（而非少数）
 
-⟪कुमार⟫ m.: Prinz <!-- TODO: Fallback translation -->
+⟪कुमार⟫ m.: 王子
 
-⟪दूत⟫ m.: Bote, Gesandter <!-- TODO: Fallback translation -->
+⟪दूत⟫ m.: 使者，信使
 
-⟪इष्⟫ (1,4,9) Kaus. ***⟪इष⟫***⟪यति⟫ : senden <!-- TODO: Fallback translation -->
+⟪इष्⟫ (1,4,9) Kaus. ***⟪इष⟫***⟪यति⟫ ：发送
 
-⟪सकाश⟫ m.: Anwesenheit, Gegenwart <!-- TODO: Fallback translation -->
+⟪सकाश⟫ m.: 在场，存在
 
-⟪शर⟫ m.: Pfeil-Schaft, Pfeil <!-- TODO: Fallback translation -->
+⟪शर⟫ m.: 箭杆，箭
 
-⟪बाण⟫ m.: Pfeil, Ziel <!-- TODO: Fallback translation -->
+⟪बाण⟫ m.: 箭，目标
 
-⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : billigen, versprechen; Ā: antworten, bestätigen, behaupten, erkennen <!-- TODO: Fallback translation -->
+⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ ：认可，承诺；Ā：回答，确认，断言，认识
 
-⟪चल्⟫ 1P ⟪चलति⟫ : in Bewegung geraten <!-- TODO: Fallback translation -->
+⟪चल्⟫ 1P ⟪चलति⟫ : 动起来
 
-:::indent
-Fut. ⟪चलिष्यति⟫  
-Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
-Pass. ⟪चल्यते⟫  
-Kaus. ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫  
-PPP ⟪चलित⟫  
-Absol. -⟪चल्य⟫  
-Inf. ⟪चलितुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+将来时 ⟪चलिष्यति⟫  
+完成时 动词 ⟪चचाल⟫, ⟪चेलुर्⟫  
+被动语态 ⟪चल्यते⟫  
+使役式 ⟪चलयति⟫ ⟪।⟫ ⟪चालयति⟫  
+过去被动分词 ⟪चलित⟫  
+绝对语 -⟪चल्य⟫  
+不定式 ⟪चलितुम्⟫
 :::
-⟪अधिपति⟫ m. = ⟪राजन्⟫ <!-- TODO: Fallback translation -->
+⟪अधिपति⟫ 阳性名词 = ⟪राजन्⟫
 
-⟪आटोप⟫ m.: Eitelkeit, Stolz <!-- TODO: Fallback translation -->
+⟪आटोप⟫ m.: 虚荣，骄傲
 
-⟪चिन्तापर⟫ 3: gedankenversunken <!-- TODO: Fallback translation -->
+⟪चिन्तापर⟫ 3：沉思
 
-⟪अन्तरे⟫ Adv.: inzwischen <!-- TODO: Fallback translation -->
+⟪अन्तरे⟫ 副词：在此期间
 
-⟪लीला⟫ f.:  Scherz, Spiel <!-- TODO: Fallback translation -->
+⟪लीला⟫ f.: 玩笑，游戏
 
-⟪यावत्⟫ Adv.:  wie lange, während <!-- TODO: Fallback translation -->
+⟪यावत्⟫ 副词：多久，在……期间
 
-⟪तावत्⟫ Adv.: so lange <!-- TODO: Fallback translation -->
+⟪तावत्⟫ 副词：如此之久
 
-⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫ Adv.: zweifach, in zwei Teilen <!-- TODO: Fallback translation -->
+⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫ 副词：双重地，分两部分
 
-⟪शंस्⟫ 1P ⟪शंसति⟫ : loben, gebieten <!-- TODO: Fallback translation -->
+⟪शंस्⟫ 1P ⟪शंसति⟫ : 赞美，命令
 
-:::indent
-Fut. ⟪शंसिष्यति⟫  
-Perf. I ⟪शशंस⟫  
-Pass. ⟪शस्यते⟫  
-Kaus. ⟪शंसयति⟫  
-PPP ⟪शस्त⟫  
-Absol. ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
-Inf. ⟪शंसितुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+将来时 ⟪शंसिष्यति⟫  
+完成时 I ⟪शशंस⟫  
+被动语态 ⟪शस्यते⟫  
+使役 ⟪शंसयति⟫  
+过去被动分词 (PPP) ⟪शस्त⟫
+绝对语态 ⟪शसित्वा⟫ ⟪।⟫ ⟪शस्त्वा⟫  
+不定式 ⟪शंसितुम्⟫
 :::
-⟪हृदय⟫ n.: Herz <!-- TODO: Fallback translation -->
+⟪हृदय⟫ 名词：心
 
 ### 42.2.1. Einige Verwandtschaftsbezeichnungen
 
-:::media
+::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
-Abb.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
-(Bildquelle: [Details](/licenses#lekt4202)) <!-- TODO: Fallback translation -->
+图：⟪माता⟫，⟪पिता⟫，⟪पुत्रकः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4202)）
 :::
-⟪भर्तृ⟫ m. (zu ⟪भृ⟫ "tragen, erhalten"): Erhalter, Ernährer, Gatte <!-- TODO: Fallback translation -->
+⟪भर्तृ⟫ 阳性名词（源自⟪भृ⟫“承载、维持”）：维持者、供养者、丈夫
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Gattin (⟪भार्या⟫ = Gerundiv zu ⟪भृ⟫ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte) <!-- TODO: Fallback translation -->
+⟪भार्या⟫ f.，⟪जाया⟫ f.，⟪पत्नी⟫ f.：妻子（⟪भार्या⟫ = ⟪भृ⟫ 的动形词：应被承载者，应被维持者，有受养权者）
 
-⟪पितृ⟫ m.: Vater <!-- TODO: Fallback translation -->
+⟪पितृ⟫ m.: 父亲
 
-⟪पितृ⟫ m. Plural: die verstorbenen männlichen Vorfahren, d.h. <!-- TODO: Fallback translation -->
+⟪पितृ⟫ 阳性复数：已故的男性祖先，即
 
-1.  Vater, Großvater, Urgroßvater <!-- TODO: Fallback translation -->
-2.  die Ahnväter der Menschheit <!-- TODO: Fallback translation -->
+1.  父亲，祖父，曾祖父
+2.  人类的祖先
 
-Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werden je drei männlichen  Vorfahren (väterlicherseits (und mütterlicherseits) Wasser und bei bestimmten Gelegenheiten Reisbällchen bzw. Mehlbällchen (⟪पिण्ड⟫ m. "Bällchen") dargebracht. So sollen die Vorfahren Nahrung bekommen. Der Vollzug dieser Zeremonie ist mit ein Grund, warum man als Mann einen Sohn zeugen soll. Diejenigen, die durch diese ⟪पिण्ड⟫-Gabe verbunden sind heißen ⟪सपिण्ड⟫ (denen ⟪पिण्ड⟫ gemeinsam ist). ⟪सपिण्ड⟫ umfasst sechs Generationen: drei Rückwärts (bis zum Urgroßvater) und drei vorwärts (bis zum Großenkel). <!-- TODO: Fallback translation -->
+两项仪式得以举行，即所谓 ⟪श्राद्ध⟫（阴性名词）。每日向父系与母系的各三位男性祖先供奉清水，并在特定场合供奉米饭丸或面粉丸（⟪पिण्ड⟩（阳性名词，“丸子”））。如此，祖先得以获得食物。举行此仪式是男子应当生育儿子的原因之一。通过此 ⟪पिण्ड⟩ 馈赠而相连的人被称为 ⟪सपिण्ड⟩（他们共享 ⟪पिण्ड⟩）。⟪सपिण्ड⟩ 涵盖六代：向后三代（直至曾祖父）和向前三代（直至曾孙）。
 
-⟪तात⟫ m.: Papa <!-- TODO: Fallback translation -->
+⟪तात⟫ m.: 罪
 
-⟪मातृ⟫ f.: Mutter <!-- TODO: Fallback translation -->
+⟪मातृ⟫ f.: 母亲
 
-⟪पुत्र⟫ m.:  Sohn <!-- TODO: Fallback translation -->
+⟪पुत्र⟫ m.: 儿子
 
-⟪दुहितृ⟫ f. ⟪सुता⟫ f.: Tochter <!-- TODO: Fallback translation -->
+⟪दुहितृ⟫ f. ⟪सुता⟫ f.: 女儿
 
-⟪नप्तृ⟫ m.: Enkel <!-- TODO: Fallback translation -->
+⟪नप्तृ⟫ m.: 孙子
 
-⟪भ्रातृ⟫ m.: Bruder <!-- TODO: Fallback translation -->
+⟪भ्रातृ⟫ m.: 兄弟
 
-⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Schwester <!-- TODO: Fallback translation -->
+⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: 姐妹
 
-⟪देवृ⟫ m.: Bruder des Ehemanns (Schwager der Frau) <!-- TODO: Fallback translation -->
+⟪देवृ⟫ m.: 丈夫的兄弟（妻子的哥哥/弟弟）
 
-⟪यातृ⟫ m.: Gattin des Bruders des Ehemanns <!-- TODO: Fallback translation -->
+⟪यातृ⟫ m.: 丈夫的兄弟的妻子
 
-⟪ननान्दृ⟫ f.: Schwester des Mannes <!-- TODO: Fallback translation -->
+⟪ननान्दृ⟫ f.: 丈夫的姐妹
 
-⟪श्वसुर⟫ f.: Schwiegervater (in alter Zeit: nur der Frau) <!-- TODO: Fallback translation -->
+⟪श्वसुर⟫ f.: 岳父（古时：仅指妻子的父亲）
 
-⟪श्वस्रू⟫ f.: Schwiegermutter (Deklination folgt später) <!-- TODO: Fallback translation -->
+⟪श्वस्रू⟫ f.: 岳母（变位稍后介绍）
 
-⟪मातुल⟫ m.: Mutterbruder (Onkel mütterlicherseits) <!-- TODO: Fallback translation -->
+⟪मातुल⟫ m.: 舅父（母亲的兄弟）
 
-⟪मातुलानी⟫ f.: Gattin des Mutterbruders (Mutterbruderfrau) <!-- TODO: Fallback translation -->
+⟪मातुलानी⟫ f.: 舅舅的妻子（舅母）
 
-⟪पितृव्य⟫ m.: Vaterbruder (Onkel väterlicherseits) <!-- TODO: Fallback translation -->
+⟪पितृव्य⟫ m.: 伯父（父亲的兄弟）
 
-⟪पितामह⟫ m.: Großvater väterlicherseits <!-- TODO: Fallback translation -->
+⟪पितामह⟫ m.: 父亲的祖父
 
-⟪पितामही⟫ f.: Großmutter väterlicherseits <!-- TODO: Fallback translation -->
+⟪पितामही⟫ f.: 父方祖母
 
-⟪मातामह⟫ m.: Großvater mütterlicherseits <!-- TODO: Fallback translation -->
+⟪मातामह⟫ m.: 外祖父
 
-⟪मातामही⟫ f.: Großmutter mütterlicherseits <!-- TODO: Fallback translation -->
+⟪मातामही⟫ f.: 外祖母
 
 ## 42.3. Übung
 
-Übersetzen Sie: <!-- TODO: Fallback translation -->
+翻译：
 
-⟪प्रकृत्यैव⟫ ⟪यः⟫ ⟪कर्माणि⟫ ⟪क्रियमाणानि⟫ ⟪पश्यति⟫ ⟪स⟫ ⟪आत्मानमकर्तरं⟫ ⟪पश्यति⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪प्रकृत्यैव⟫ ⟪यः⟫ ⟪कर्माणि⟫ ⟪क्रियमाणानि⟫ ⟪पश्यति⟫ ⟪स⟫ ⟪आत्मानमकर्तरं⟫ ⟪पश्यति⟫ ⟪॥१॥⟫
 
-⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥२॥⟫
 
-:::media
+::: media
 ![lekt4203.jpg](/images/lekt4203.webp)
-Abb.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
-(Bildquelle: [Details](/licenses#lekt4203)) <!-- TODO: Fallback translation -->
+图：⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4203)）
 :::
-⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![lekt4204.jpg](/images/lekt4204.webp)
-Abb.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt4204)) <!-- TODO: Fallback translation -->
+图：⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4204)）
 :::
-⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
 
-⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥५॥⟫
 
-⟪सत्पुत्रः⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्ददाति⟫ ⟪।⟫ ⟪पितृभिः⟫ ⟪पिण्डदानमश्यत⟫ ⟪एवं⟫ ⟪च⟫ ⟪सुखजीवो⟫ ⟪जीवितुं⟫ ⟪शक्यते⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪सत्पुत्रः⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्ददाति⟫ ⟪।⟫ ⟪पितृभिः⟫ ⟪पिण्डदानमश्यत⟫ ⟪एवं⟫ ⟪च⟫ ⟪सुखजीवो⟫ ⟪जीवितुं⟫ ⟪शक्यते⟫ ⟪॥६॥⟫
 
-⟪भ्रात्रा⟫ ⟪स्वसा⟫ ⟪न⟫ ⟪विवोड्धव्या⟫ ⟪।⟫ ⟪भातरि⟫ ⟪स्वसारं⟫ ⟪कामयमाने⟫ ⟪देवाः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪भ्रात्रा⟫ ⟪स्वसा⟫ ⟪न⟫ ⟪विवोड्धव्या⟫ ⟪।⟫ ⟪भातरि⟫ ⟪स्वसारं⟫ ⟪कामयमाने⟫ ⟪देवाः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥७॥⟫
 
-⟪क्थं⟫ ⟪भर्तुर्भ्रातोच्यते⟫ ⟪।⟫ ⟪देवेति⟫ ⟪भर्तुर्भ्राता⟫ ⟪वक्तव्यः⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪क्थं⟫ ⟪भर्तुर्भ्रातोच्यते⟫ ⟪।⟫ ⟪देवेति⟫ ⟪भर्तुर्भ्राता⟫ ⟪वक्तव्यः⟫ ⟪॥८॥⟫
 
-⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥९॥⟫ <!-- TODO: Fallback translation -->
+⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥९॥⟫
 
 ## 42.4. Übersetzungsübung
 
-***⟪सीता⟫***⟪विवाहः⟫ <!-- TODO: Fallback translation -->
+***⟪सीता⟫***⟪विवाहः⟫
 
-⟪पुरा⟫ ***⟪मिथिलायां⟫*** ***⟪जनको⟫*** ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪पुरा⟫ ***⟪⟪मिथिलायां⟫*** ***⟪जनको⟫*** ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
 
-⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ ***⟪गुरुतरं⟫*** ⟪किमपि⟫ ***⟪धनुरा⟫***⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ ***⟪गुरुतरं⟫*** ⟪किमपि⟫ ***⟪धनुरा⟫***⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
 
-⟪तां⟫ ⟪तस्य⟫ ⟪प्रतिज्ञां⟫ ⟪श्रुत्वा⟫ ***⟪शतशो⟫*** ⟪राजकुमाराः⟫ ⟪समाजग्मुः⟫ ⟪।⟫ ⟪परं⟫ ⟪नैको⟫ ⟪ऽपि⟫ ⟪तेषां⟫ ⟪तद्धनुश्चलयितुमपि⟫ ⟪शशाक⟫ ⟪।⟫ ***⟪लङ्का⟫***⟪धिपती⟫ ***⟪रावणो⟫*** ⟪ऽपि⟫ ⟪साटोपं⟫ ⟪समेत्य⟫ ⟪सलज्जं⟫ ⟪प्रतिनिवृत्त⟫ ⟪इति⟫ ⟪ज्ञायते⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪तां⟫ ⟪तस्य⟫ ⟪प्रतिज्ञां⟫ ⟪श्रुत्वा⟫ ***⟪शतशो⟫*** ⟪राजकुमाराः⟫ ⟪समाजग्मुः⟫ ⟪।⟫ ⟪परं⟫ ⟪नैको⟫ ⟪ऽपि⟫ ⟪तेषां⟫ ⟪तद्धनुश्चलयितुमपि⟫ ⟪शशाक⟫ ⟪।⟫ ***⟪लङ्का⟫***⟪धिपती⟫ ***⟪रावणो⟫*** ⟪ऽपि⟫ ⟪साटोपं⟫ ⟪समेत्य⟫ ⟪सलज्जं⟫ ⟪प्रतिनिवृत्त⟫ ⟪इति⟫ ⟪ज्ञायते⟫ ⟪॥⟫
 
-⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ ***⟪ऽयोध्या⟫***⟪धिपते⟫***⟪र्दशरथस्य⟫*** ⟪पुत्रः⟫ ⟪श्री⟫***⟪रामः⟫*** ***⟪सलक्ष्मणो⟫*** ***⟪विश्वामित्रेण⟫*** ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫***⟪रामो⟫*** ⟪महर्षेर्⟫***⟪विश्वामित्र⟫***⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ ***⟪ऽयोध्या⟫***⟪धिपते⟫***⟪र्दशरथस्य⟫*** ⟪पुत्रः⟫ ⟪श्री⟫***⟪रामः⟫*** ***⟪सलक्ष्मणो⟫*** ***⟪विश्वामित्रेण⟫*** ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫***⟪रामो⟫*** ⟪महर्षेर्⟫***⟪विश्वामित्र⟫***⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
 
-:::media
+::: media
 ![lekt4208.jpg](/images/lekt4208.webp)
-Abb.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
-(Bildquelle: [Details](/licenses#lekt4208)) <!-- TODO: Fallback translation -->
+图：⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4208)）
 :::
-⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
 
-⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ ***⟪सीतारामयोर्वि⟫***⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ ***⟪सीतारामयोर्वि⟫***⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
 
-(⟪संस्कृतप्रथमादर्शे⟫) <!-- TODO: Fallback translation -->
+(⟪संस्कृतप्रथमादर्शे⟫)
 
-Erklärung der **rot** hervorgehobenen Ausdrücke: <!-- TODO: Fallback translation -->
+Erklärung der **rot** hervorgehobenen Ausdrücke:
 
-⟪सीता⟫ f. Eigenname: Tochter des Königs ⟪जनक⟫ von ⟪विदेह⟫. Sie war aus der Erde herausgekommen, als der König einst den Acker pflügte, deshalb ihr Name: ⟪सीता⟫ f. "Ackerfurche" <!-- TODO: Fallback translation -->
+⟪सीता⟫ f. 专有名词：国王⟪जनक⟫之女，来自⟪विदेह⟫。她是从地里出来的，当国王曾经犁地时，因此她的名字：⟪सीता⟫ f. “犁沟”
 
-:::media
+::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
-Abb.: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
-(Bildquelle: [Details](/licenses#lekt4205)) <!-- TODO: Fallback translation -->
+图：⟪रामः⟫，⟪सीता⟫，⟪हनुमान्⟫，⟪लक्ष्मनः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4205)）
 :::
-⟪मिथिला⟫ f. Eigenname: Hauptstadt von ⟪विदेह⟫ <!-- TODO: Fallback translation -->
+⟪मिथिला⟫ 阴性 专有名词：⟪विदेह⟫的首都
 
-:::media
+::: media
 ![lekt4206.jpg](/images/lekt4206.webp)
-Abb.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
-(Bildquelle: [Details](/licenses#lekt4206)) <!-- TODO: Fallback translation -->
+图：⟪मिथिला⟫，⟪विदेहः⟫，⟪अयोध्या⟫，⟪कोसलः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4206)）
 :::
-⟪जनक⟫ m. Eigenname: König von ⟪विदेह⟫ <!-- TODO: Fallback translation -->
+⟪जनक⟫ 阳性名词：专有名词，⟪विदेह⟫的国王
 
-⟪गुरुतर⟫ 3: Komparativ zu ⟪गुरु⟫ 3: schwerer, sehr schwer <!-- TODO: Fallback translation -->
+⟪गुरुतर⟫ 3: Komparativ zu ⟪गुरु⟫ 3: schwerer, sehr schwer
 
-⟪धनुस्⟫ Nom.Akk.sg.n. zu ⟪धनुस्⟫ n. "Bogen" <!-- TODO: Fallback translation -->
+⟪धनुस्⟫ Nom.Akk.sg.n. 对应于 ⟪धनुस्⟫ n. “弓”
 
-⟪शतशस्⟫ Adv.: zu hunderten <!-- TODO: Fallback translation -->
+⟪शतशस्⟫ 副词：数百地
 
-⟪लङ्का⟫ f. Eigennamen: wird mit dem heutigen Sri Lanka (ශ්⟪‍⟫රී ලංකාව / இலங்கை) identifiziert <!-- TODO: Fallback translation -->
+⟪लङ्का⟫ f. 专有名词：与今天的斯里兰卡（ශ්⟪‍⟫රී ලංකාව / இலங்கை）相同
 
-⟪रावण⟫ m. Eigennamen; Herrscher von ⟪लङ्का⟫, Herrscher der ⟪राक्षस⟫. <!-- TODO: Fallback translation -->
+⟪रावण⟫ m. 专有名词；⟪लङ्का⟫的统治者，⟪राक्षस⟫的统治者。
 
-:::media
+::: media
 ![lekt4207.jpg](/images/lekt4207.webp)
-Abb.: ⟪रावणः⟫
-(Bildquelle: [Details](/licenses#lekt4207)) <!-- TODO: Fallback translation -->
+图：⟪रावणः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4207)）
 :::
-⟪अयोध्या⟫ f. Eigennamen: Hauptstadt von ⟪कोसल⟫ (siehe Karte oben!) <!-- TODO: Fallback translation -->
+⟪अयोध्या⟫ f. 专有名词：⟪कोसल⟫的首都（见上图！）
 
-⟪दशरथ⟫ m. Eigenname: König von ⟪कोसल⟫ <!-- TODO: Fallback translation -->
+⟪दशरथ⟫ m. 专有名词：⟪कोसल⟫的国王
 
-⟪राम⟫ m. Eigenname: Sohn des ⟪दशरथ⟫ <!-- TODO: Fallback translation -->
+⟪राम⟫ m. 专有名词：⟪दशरथ⟫之子
 
-⟪लक्ष्मन⟫ m. Eigenname: Sohn des ⟪दशरथ⟫ <!-- TODO: Fallback translation -->
+⟪लक्ष्मन⟫ m. 专有名词：⟪दशरथ⟫之子
 
-⟪विश्वामित्र⟫ m. Eigenname: ⟪ऋषि⟫, zog mir ⟪राम⟫ und ⟪लक्ष्मन⟫ aus, um Dämonen zu töten; dafür bekommen die beiden von ihm Zauberwaffen. <!-- TODO: Fallback translation -->
+⟪विश्वामित्र⟫ 阳性专有名词：⟪ऋषि⟫，他拔出了⟪राम⟫和⟪लक्ष्मन⟫以斩杀恶魔；因此，他从那里获得了两件法宝。
 
-⟪सीतारामयोस्⟫ Gen.Lok.Dual zu ⟪सीताराम⟫ <!-- TODO: Fallback translation -->
+⟪सीतारामयोस्⟫ Genitiv Lokativ Dual zu ⟪सीताराम⟫
 
-:::deleteme-box
+::: deleteme-box
 
-* **Abb. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Bildquelle: Wikipedia. Public domain) <!-- TODO: Fallback translation -->
-* **Abb. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. (Bildquelle: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)) <!-- TODO: Fallback translation -->
-* **Abb. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Bildquelle: Wikipedia. Public domain) <!-- TODO: Fallback translation -->
-* **Abb. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. Wagen). (Bildquelle: Wikipedia. Public domain) <!-- TODO: Fallback translation -->
-* **Abb. lekt4205**: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 17. Jhdt. (Bildquelle. Wikipedia. Public domain) <!-- TODO: Fallback translation -->
-* **Abb. lekt4206**: Lage von ⟪मिथिला⟫ und ⟪विदेह⟫, ⟪अयोध्या⟫ und ⟪कोसल⟫. (Bildquelle: JIJITH NR / Wikipedia. GNU FDLicense) <!-- TODO: Fallback translation -->
-* **Abb. lekt4207**: ⟪रावणः⟫. Yakṣagaṇa-Tanzmaske (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Bildquelle: Manohara Upadhya / Wikipedia. GNU FDLicense) <!-- TODO: Fallback translation -->
-* **Abb. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Bild von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Bildquelle: Wikipedia. Public domain) <!-- TODO: Fallback translation -->
+* **Abb. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫。（图片来源：维基百科。公共领域）
+* **Abb. lekt4202**: ⟪माता⟫，⟪पिता⟫，⟪पुत्रकः⟫。Diwan I Khas，或德里拉合尔红堡（Lal Qila）中的私人接见厅。（图片来源：Wen-Yan King。-- http://www.flickr.com/photos/medapt/430287982/。-- 访问日期：2009-01-04。-- 知识共享许可协议（署名，非商业性使用，相同方式共享））
+* **Abb. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫。Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி，约1825年。（图片来源：维基百科。公共领域）
+* **Abb. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫（⟪रथ⟫ 阳性，战车）。（图片来源：维基百科。公共领域）
+* **Abb. lekt4205**: ⟪रामः⟫，⟪सीता⟫，⟪हनुमान्⟫，⟪लक्ष्मनः⟫。17世纪。（图片来源。维基百科。公共领域）
+* **Abb. lekt4206**: ⟪मिथिला⟫ 和 ⟪विदेह⟫，⟪अयोध्या⟫ 和 ⟪कोसल⟫ 的位置。（图片来源：JIJITH NR / 维基百科。GNU FDLicense）
+* **Abb. lekt4207**: ⟪रावणः⟫。Yakṣagaṇa 舞蹈面具（ಯಕ್ಷಗಾನ），卡纳塔克邦（ಕರ್ನಾಟಕ）。（图片来源：Manohara Upadhya / 维基百科。GNU FDLicense）
+* **Abb. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫。⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ 的画像（1848 - 1906）。（图片来源：维基百科。公共领域）
 :::

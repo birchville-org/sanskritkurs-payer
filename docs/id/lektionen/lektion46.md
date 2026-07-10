@@ -13,7 +13,7 @@ status: stable
 
 ### 46.1.1. Endings
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **Perfect endings** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -21,12 +21,12 @@ status: stable
 :::
 Note that the ending -- mostly but not the form! -- of the 2.pl.P coincides with that of the 1. and 3.sg.P.
 
-:::grammar-box
+::: grammar-box
 Before -tha, with most roots ending in -ṛ, no connecting vowel \-i- appears. With some roots, the \-i- before \-tha- is optional.
 :::
 ### 46.1.2. Sound Change of the Ending -dhve
 
-:::grammar-box
+::: grammar-box
 The ending -dhve must be replaced by -ḍhve in the perfect when a root-internal -u or -ṛ immediately precedes it. This replacement can optionally occur after the connecting vowel -i- when a semivowel or h immediately precedes that -i-.
 :::
 ### 46.1.3. Perfect Type I: no stem gradation
@@ -38,12 +38,12 @@ Verbs that follow this type:
 *   a-Consonant(-Consonant)
 *   ā-consonant
 
-:::grammar-box
+::: grammar-box
 1.sg.P = 3.sg.P = 2.pl.P
 :::
 ⟪बन्ध्⟫ 9P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -51,19 +51,19 @@ Verbs that follow this type:
 :::
 ⟪जीव्⟫ 1P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | &lt;⟪जिजीविषे⟫&gt; | &lt;⟪जिजीविध्वे⟫&gt;:br&lt;⟪जिजीविढ्वे⟫&gt; |
+| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \<⟪जिजीविषे⟫\> | \<⟪जिजीविध्वे⟫\>:br\<⟪जिजीविढ्वे⟫\> |
 :::
 ⟪अस्⟫ 2P, 4P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪आसिथ⟫ | ⟪आस⟫ | &lt;⟪आसिषे⟫&gt; | &lt;⟪आसिध्वे⟫&gt; |
+| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
 :::
 ### 46.1.4. Perfect Type II: strong stem full grade, weak stem reduced grade
 
@@ -73,7 +73,7 @@ Verbs that follow this type:
 
 ⟪भिद्⟫ 7U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -81,7 +81,7 @@ Verbs that follow this type:
 :::
 ⟪मुह्⟫ 4P optionally ⟪अनिट्⟫
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -98,7 +98,7 @@ Verbs that follow this type:
 
 ⟪इ⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -106,7 +106,7 @@ Verbs that follow this type:
 :::
 ⟪नी⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -114,7 +114,7 @@ Verbs that follow this type:
 :::
 ⟪स्तु⟫ 2U (⟪अनिट्⟫)
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -122,7 +122,7 @@ Verbs that follow this type:
 :::
 ⟪कृ⟫ 8U (⟪अनिट्⟫)
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -137,7 +137,7 @@ Verbs that follow this type:
 
 ⟪पॄ⟫ 3P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -145,7 +145,7 @@ Verbs that follow this type:
 :::
 ⟪संस्कृ⟫ 8U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -159,7 +159,7 @@ Verbs that follow this type:
 
 ⟪दा⟫ 3U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -167,7 +167,7 @@ Verbs that follow this type:
 :::
 ⟪गै⟫ 1P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -179,7 +179,7 @@ Verbs that follow this type:
 
 Verbs that follow this type:
 
-:::indent
+::: indent
 1.  gam "to go"
 2.  han (»ghan) "to strike"
 3.  jan "to be born"
@@ -190,7 +190,7 @@ Verbs that follow this type:
 :::
 ⟪गम्⟫ 1P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -198,7 +198,7 @@ Verbs that follow this type:
 :::
 ⟪हन्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -206,7 +206,7 @@ Verbs that follow this type:
 :::
 ⟪जन्⟫ 4Ā
 
-:::grammar-box
+::: grammar-box
 | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -214,7 +214,7 @@ Verbs that follow this type:
 :::
 ⟪यज्⟫ 1U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -222,7 +222,7 @@ Verbs that follow this type:
 :::
 ⟪वच्⟫ 1P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -230,7 +230,7 @@ Verbs that follow this type:
 :::
 ⟪वह्⟫ 1U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -238,7 +238,7 @@ Verbs that follow this type:
 :::
 ⟪वद्⟫ 1P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -246,7 +246,7 @@ Verbs that follow this type:
 :::
 ⟪स्वप्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -254,12 +254,12 @@ Verbs that follow this type:
 :::
 #### 46.1.7.2. Perfect Type Vb: Consonant-a-Consonant, initial consonant not guttural, aspirate, h, weak stem without reduplication, with -e-
 
-:::grammar-box
+::: grammar-box
 The 2.sg.P. is formed from the weak stem when the connecting vowel -i- occurs.
 :::
 ⟪पच्⟫ 1U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -273,7 +273,7 @@ Verbs that follow this type:
 
 ⟪क्रम्⟫ 1U
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -283,7 +283,7 @@ Verbs that follow this type:
 
 ⟪विद्⟫ 2P present perfect
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -291,7 +291,7 @@ Verbs that follow this type:
 :::
 ⟪अह्⟫
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -299,7 +299,7 @@ Verbs that follow this type:
 :::
 ⟪भू⟫ 1P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -307,7 +307,7 @@ Verbs that follow this type:
 :::
 ⟪जि⟫ 1P
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -330,7 +330,7 @@ The periphrastic perfect is formed from:
 
 ⟪बन्ध्⟫ Causative
 
-:::grammar-box
+::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -340,7 +340,7 @@ The periphrastic perfect is formed from:
 
 ⟪सम⟫ 3: same, equal, similar
 
-:::indent
+::: indent
 from that:
 ⟪समम्⟫ Adv.: in the same manner, at the same time (⟪तृतीयया⟫), uniformly
 ⟪समता⟫ f.: equanimity
@@ -349,7 +349,7 @@ from that:
 :::
 ⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : seize, grasp, catch
 
-:::indent
+::: indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
 Fut. ⟪ग्र⟫***⟪ही⟫***⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
@@ -373,27 +373,30 @@ from that:
 :::
 Regarding ⟪राहु⟫ and ⟪केतु⟫ see:
 
-> **Payer, Alois &lt;1944 - &gt;:** Dharmashastra : Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the invisible wandering stars . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
-:::media
+> **Payer, Alois \<1944 - \>:** Dharmashastra : Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the invisible wandering stars . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/en/licenses#lekt4602)
 (Image source: [Details](/en/licenses#lekt4602))
-::::::media
+:::: media
 ![](/images/lekt4603.webp)
 Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/en/licenses#lekt4603)
 (Image source: [Details](/en/licenses#lekt4603))
-::::::media
+::::
+:::
+::: media
 ![](/images/lekt4604.webp)
 Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/en/licenses#lekt4604)
 (Image source: [Details](/en/licenses#lekt4604))
-::::::media
+:::
+::: media
 ![](/images/lekt4605.webp)
 Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/en/licenses#lekt4605)
 (Image source: [Details](/en/licenses#lekt4605))
 :::
 ⟪तुष्⟫ 4P ⟪तुष्यति⟫ : be content, be satisfied with (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
-:::indent
+::: indent
 Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
 Fut. ⟪तोक्ष्यति⟫  
 Pass. ⟪तुष्यते⟫  
@@ -404,7 +407,7 @@ Inf. ⟪तोष्टुम्⟫
 :::
 ⟪नम्⟫ 1P ⟪नमति⟫ : bend, bow, lean, incline
 
-:::indent
+::: indent
 Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
 Fut. ⟪नंस्यति⟫  
 Pass. ⟪नम्यते⟫  
@@ -412,14 +415,15 @@ Caus. ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫
 PPP ⟪नत⟫  
 Inf. ⟪नन्तुम्⟫
 
-::::::media
+:::: media
 ![](/images/lekt4607.webp)
 Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/en/licenses#lekt4607)
 (Image source: [Details](/en/licenses#lekt4607))
+::::
 :::
 ⟪रुह्⟫ 1P ⟪रोहति⟫ : climb, ascend
 
-:::indent
+::: indent
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Fut. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
@@ -427,14 +431,15 @@ Caus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***⟪प⟫***⟪यति
 PPP. ***⟪रूढ⟫***  
 Inf. ⟪रोढुम्⟫
 
-::::::media
+:::: media
 ![](/images/lekt4606.webp)
 Fig.: [⟪अश्वरोहकः⟫](/en/licenses#lekt4606)
 (Image source: [Details](/en/licenses#lekt4606))
+::::
 :::
 ⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : call, summon
 
-:::indent
+::: indent
 Perf. IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
 Fut. ⟪ह्वास्यति⟫  
 Pass. ⟪हूयते⟫  
@@ -443,11 +448,13 @@ PPP ⟪हूत⟫
 Inf. ⟪ह्वातुम्⟫  
 Absol. -⟪हूय⟫
 
-::::::media
+:::: media
 ![](/images/lekt4608.webp)
 Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/en/licenses#lekt4608)
 (Image source: [Details](/en/licenses#lekt4608))
-::::::indent
+::::
+:::
+::: indent
 1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "mobile", ⟪दूरशब्द⟫ m. "long-distance call, telephone" » ⟪चरिष्णुदूरशब्द⟫ "mobile phone" (word formation: A. Payer)
 
 :::
@@ -457,7 +464,7 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 ⟪श्रम्⟫ 4P ***⟪श्रा⟫***⟪म्यति⟫ : toil, become tired
 
-:::indent
+::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Fut. ⟪श्रमिष्यति⟫  
 Pass. ⟪श्रम्यते⟫  
@@ -468,14 +475,15 @@ Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्�
 from that:
 ⟪आश्रम⟫ m.n.
 
-::::::media
+:::: media
 ![](/images/lekt4609.webp)
 Fig.: [⟪श्रान्तः⟫](/en/licenses#lekt4609)
 (Image source: [Details](/en/licenses#lekt4609))
+::::
 :::
 ⟪श्रि⟫ 1U ⟪श्रयति⟫ : to lean, to lean against, to find support, to go to someone (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
-:::indent
+::: indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
 Fut. ⟪श्रयिष्यति⟫  
 Pass. ⟪श्रीयते⟫  
@@ -486,7 +494,7 @@ Inf. ⟪श्रयितुम्⟫
 :::
 ⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : to attach, to adhere to (⟪सप्तम्या⟫)
 
-:::indent
+::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
 Fut. ⟪संक्ष्यति⟫  
 Pass. ⟪सज्यते⟫  
@@ -496,14 +504,15 @@ Inf. ⟪संक्तुम्⟫
 therefrom:
 ⟪सङ्ग⟫ m.: the attaching to, contact with (⟪तृतीयया⟫)
 
-::::::media
+:::: media
 ![](/images/lekt4610.webp)
 Fig.: [⟪सङ्गः⟫](/en/licenses#lekt4610)
 (Image source: [Details](/en/licenses#lekt4610))
+::::
 :::
 ⟪द्रु⟫ 1P ⟪द्रवति⟫ : to run, to hasten
 
-:::indent
+::: indent
 Perf IIIa (⟪अनिट्⟫) ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
 Fut. ⟪द्रोष्यति⟫  
 Pass. ⟪द्रूयते⟫  
@@ -515,7 +524,7 @@ Absol. -⟪द्रुत्य⟫
 :::
 ⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : to wander about, to roam
 
-:::indent
+::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Caus. ⟪भ्रमयति⟫  
@@ -528,7 +537,7 @@ therefrom:
 :::
 ⟪लम्ब्⟫ 1Ā ⟪लम्बते⟫ : to hang down from (⟪सप्तम्या⟫), to hang on (⟪सप्तम्या⟫)
 
-:::indent
+::: indent
 Perf. I ⟪ललम्बे⟫  
 Fut. ⟪लम्बिष्यते⟫  
 Pass. ⟪लम्ब्यते⟫  
@@ -537,10 +546,11 @@ PPP ⟪लम्बित⟫
 Inf. ⟪लम्बितुम्⟫  
 Absol. -⟪लम्ब्य⟫
 
-::::::media
+:::: media
 ![](/images/lekt4601.jpg)
 Fig.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/en/licenses#lekt4601)
 (Image source: [Details](/en/licenses#lekt4601))
+::::
 :::
 ⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : to hang on (⟪द्वितीयया⟫)
 
@@ -548,20 +558,20 @@ Fig.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/en/
 
 ⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : to encircle, to master, to conquer
 
-:::indent
+::: indent
 PPP ⟪परिभूत⟫ 3: conquered, humiliated, degraded
 
 :::
 ⟪नि⟫ Pref.: downwards, down, into, backwards
 
-:::indent
+::: indent
 e.g.
 ⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : to sit down
 
 :::
 ⟪भोस्⟫ Vocative particle: exclamation of address, e.g.: hey, heda, oh, ei, hello, hi! often not translatable. This particle has a special sandhi: before all voiced sounds, it is ***⟪भो⟫***.
 
-:::media
+::: media
 ![](/images/lekt4611.webp)
 Fig.: [⟪भोः⟫](/en/licenses#lekt4611)
 (Image source: [Details](/en/licenses#lekt4611))
@@ -627,7 +637,7 @@ B) Translate:
 
 ⟪प्रजहाति⟫ ⟪यदा⟫ ⟪कामानात्मन्येवात्मना⟫ ⟪तुष्टः⟫ ⟪स्थितप्रज्ञस्तदोच्यते⟫ ⟪॥१॥⟫
 
-:::indent
+::: indent
 ⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫  
 ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫  
 ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫  
@@ -636,11 +646,12 @@ B) Translate:
 :::
 ⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt4612.webp)
 Fig.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/en/licenses#lekt4612)
 (Image source: [Details](/en/licenses#lekt4612))
-::::::deleteme-box
+:::
+::: deleteme-box
 
 Navagraha images source: Redtigerxyz / Wikipedia. GNU FDLicense
 

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Determine y traduzca las siguientes formas:
 
-:::grammar-box
+::: grammar-box
 | Forma de la palabra | Determinación | Significado |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪आदेः⟫** | ⟪आदि⟫ (m.) Abl./Gen. sg. | del comienzo / del principio |
@@ -97,7 +97,7 @@ Tampoco debes odiar lo aborrecible, ni codiciar lo deseable; así estarás inter
 ⟪८⟫. **⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫ ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 Has llorado a los no dignos de llanto y querías pronunciar palabras de sabiduría; sin embargo, los sabios no lluegan ni a los muertos ni a los vivos.
 
-:::media
+::: media
 ![](/images/uebung072.webp)
 Fig.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung072))
@@ -108,7 +108,7 @@ Fig.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन�
 
 Determine las siguientes formas de palabra:
 
-:::grammar-box
+::: grammar-box
 | Forma de palabra | Determinación |
 | :--- | :--- |
 | ⟪१⟫. **⟪वदिता⟫** | ⟪वदितृ⟫ (m.) Nom. sg. |
@@ -151,8 +151,9 @@ Determine las siguientes formas de palabra:
 | ⟪३८⟫. **⟪पिपूर्मः⟫** | ⟪पॄ⟫ (3P) 1. pl. P. Ind. Präs. |
 | ⟪३९⟫. **⟪कैः⟫** | ⟪किम्⟫ (m./n.) Instr. pl. |
 | ⟪४०⟫. **⟪कृत्येन⟫** | ⟪कृ⟫ (8U) Gerundiv Instr. sg. m./n. |
-::::::media
+:::: media
 ![](/images/uebung073.webp)
 Fig.: ⟪वदिता⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung073))
+::::
 :::

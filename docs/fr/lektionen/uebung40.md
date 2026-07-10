@@ -12,23 +12,23 @@ A) Traduisez les **⟪सुभाषितानि⟫** au début de la leçon
 
 ⟪१⟫. **⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫ ⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫**  
 **⟪पात्रत्वाद्धनमाप्नोति⟫ ⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**  
-La connaissance engendre une conduite juste ; en raison d’une conduite juste, on devient digne d’honneur ; lorsqu’on est digne d’honneur, on devient riche ; lorsqu’on est riche, on devient juste — et de là découle le bonheur.
+La connaissance engendre une conduite juste ; en raison d'une conduite juste, on devient digne d'honneur ; si l'on est digne d'honneur, on devient riche ; si l'on est riche, on devient juste — et de là découle le bonheur.
 
 ⟪२⟫. **⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫ ⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫**  
 **⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫ ⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-Si, dans la recherche du bonheur, on abandonne la connaissance, ou si, dans la recherche de la connaissance, on abandonne le bonheur : d’où un chercheur de bonheur pourrait-il tirer la connaissance, et d’où un chercheur de connaissance pourrait-il tirer le bonheur ?
+Si l'on abandonne la connaissance en quête du bonheur, ou si l'on abandonne le bonheur en quête de la connaissance : d'où un chercheur de bonheur aurait-il la connaissance, et d'où un chercheur de connaissance aurait-il le bonheur ?
 
 ⟪३⟫. **⟪आचार्यात्पादमादत्ते⟫ ⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫**  
 **⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫ ⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**  
-Un élève reçoit un quart (de la connaissance) de son maître, un quart par son propre esprit, un quart de ses camarades de classe et un quart par le cours du temps.
+Un élève reçoit un quart (de la connaissance) de son professeur, un quart par son propre esprit, un quart de ses camarades et un quart par le cours du temps.
 
 ---
 
 ## Transformations verbales (Parfait)
 
-B) Transformez les formes verbales suivantes en leurs formes correspondantes au parfait (1re personne) :
+B) Transformez les formes verbales suivantes en formes de parfait correspondantes (1re personne) :
 
-:::grammar-box
+::: grammar-box
 | Présent / Imparfait | Parfait (1re personne) |
 | :--- | :--- |
 | ⟪१⟫. **⟪अश्नीमः⟫** | ⟪आशिम⟫ |
@@ -76,6 +76,7 @@ B) Transformez les formes verbales suivantes en leurs formes correspondantes au 
 | ⟪४३⟫. **⟪अवहाम⟫** | ⟪ऊहिम⟫ |
 | ⟪४४⟫. **⟪अकुर्महि⟫** | ⟪चकृमहे⟫ |
 | ⟪४५⟫. **⟪जहीमः⟫** | ⟪जहिम⟫ |
+
 | ⟪४६⟫. **⟪अस्पृशम्⟫** | ⟪पस्पर्श⟫ |
 | ⟪४७⟫. **⟪नेष्यामः⟫** | ⟪निन्यिम⟫ |
 | ⟪४८⟫. **⟪तन्महे⟫** | ⟪तेनिमहे⟫ |
@@ -100,10 +101,12 @@ B) Transformez les formes verbales suivantes en leurs formes correspondantes au 
 | ⟪६७⟫. **⟪अहनम्⟫** | ⟪जघान⟫ / ⟪जघन⟫ |
 | ⟪६८⟫. **⟪पश्यामः⟫** | ⟪ददृशिम⟫ |
 | ⟪६९⟫. **⟪ईक्षे⟫** | ⟪ईक्षां⟫ ⟪चक्रे⟫ |
-::::::media
+:::
+
+::: media
 ![](/images/uebung065.webp)
 Fig. : ⟪आशिमेति⟫
-(Source de l'image : [Détails](/fr/licenses#uebung065))
+(Source de l'image : [Détails](/licenses#uebung065))
 :::
 ---
 
@@ -111,45 +114,48 @@ Fig. : ⟪आशिमेति⟫
 
 Déterminez et traduisez les formes de mots suivantes :
 
-:::grammar-box
+::: grammar-box
 | Forme de mot | Détermination | Signification |
 | :--- | :--- | :--- |
-| ⟪१⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | je donnai / il donna pour lui |
-| ⟪२⟫. **⟪ददते⟫** | ⟪दा⟫ (3U) 3. pl. Ā. Ind. Präs. | ils donnent pour eux |
-| ⟪३⟫. **⟪पापे⟫** | ⟪पाप⟫ (n.) Lok. sg. | dans le mal |
-| ⟪४⟫. **⟪आसे⟫** | ⟪आस्⟫ (2Ā) 1. sg. Ā. Ind. Präs. | je suis assis |
+| ⟪१⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 3e sg. Ā. Parf. | je donnai / il donna pour lui-même |
+| ⟪२⟫. **⟪ददते⟫** | ⟪दा⟫ (3U) 3e pl. ļ. Ind. Prés. | ils donnent pour eux-mêmes |
+| ⟪३⟫. **⟪पापे⟫** | ⟪पाप⟫ (n.) Loc. sg. | dans le mal |
+| ⟪४⟫. **⟪आसे⟫** | ⟪आस्⟫ (2Ā) 1re sg. ļ. Ind. Prés. | je suis assis |
 | ⟪५⟫. **⟪एते⟫** | ⟪एतद्⟫ (m.) Nom. pl. | ceux-ci |
-| ⟪६⟫. **⟪इते⟫** | ⟪इ⟫ (2P) PPP Lok. sg. m./n. | dans ce qui est allé |
-| ⟪७⟫. **⟪इतः⟫** | Adv. / PPP Nom. sg. m. | d'ici / allé |
-| ⟪८⟫. **⟪यतः⟫** | Adv. / Part. Präs. P. Gen. sg. | d'où / du allant |
-| ⟪९⟫. **⟪यते⟫** | ⟪इ⟫ (2P) Part. Präs. P. Dat. sg. | à l'allant |
-| ⟪१०⟫. **⟪ईयते⟫** | ⟪इ⟫ (2P) Pass. 3. sg. Ind. Präs. | il est allé |
+| ⟪६⟫. **⟪इते⟫** | ⟪इ⟫ (2P) PPP Loc. sg. m./n. | dans le passé |
+| ⟪७⟫. **⟪इतः⟫** | Adv. / PPP Nom. sg. m. | d'ici / parti |
+| ⟪८⟫. **⟪यतः⟫** | Adv. / Part. Prés. P. Gén. sg. | d'où / du partant |
+| ⟪९⟫. **⟪यते⟫** | ⟪इ⟫ (2P) Part. Prés. P. Dat. sg. | au partant |
+| ⟪१०⟫. **⟪ईयते⟫** | ⟪इ⟫ (2P) Pass. 3e sg. Ind. Prés. | il est parti |
 | ⟪११⟫. **⟪यत्⟫** | ⟪यद्⟫ (n.) Nom./Akk. sg. | lequel |
 | ⟪१२⟫. **⟪यदा⟫** | Adv. | quand (relatif) |
-| ⟪१३⟫. **⟪अस्तुवि⟫** | ⟪स्तु⟫ (2U) 1. sg. Ā. Impf. | je louai pour moi |
-| ⟪१४⟫. **⟪अस्तवीत्⟫** | ⟪स्तु⟫ (2U) 3. sg. P. Impf. | il loua |
-| ⟪१५⟫. **⟪ब्रह्मणः⟫** | ⟪ब्रह्मन्⟫ (n./m.) Gen./Abl. sg. | de l'Absolu / du Brahmane |
+| ⟪१३⟫. **⟪अस्तुवि⟫** | ⟪स्तु⟫ (2U) 1re sg. ļ. Impf. | je louai pour moi-même |
+| ⟪१४⟫. **⟪अस्तवीत्⟫** | ⟪स्तु⟫ (2U) 3e sg. P. Impf. | il loua |
+| ⟪१५⟫. **⟪ब्रह्मणः⟫** | ⟪ब्रह्मन्⟫ (n./m.) Gén./Abl. sg. | de l'Absolu / du Brahmane |
 | ⟪१६⟫. **⟪ब्राह्मणः⟫** | ⟪ब्राह्मण⟫ (m.) Nom. sg. | le Brahmane |
-| ⟪१७⟫. **⟪लभे⟫** | ⟪लभ्⟫ (1Ā) 1. sg. Ā. Ind. Präs. | je reçois |
-| ⟪१८⟫. **⟪लाभे⟫** | ⟪लाभ⟫ (m.) Lok. sg. | dans le gain |
-| ⟪१९⟫. **⟪लेभे⟫** | ⟪लभ्⟫ (1Ā) 1./3. sg. Ā. Perf. | je reçus / il reçut |
-| ⟪२०⟫. **⟪लोभे⟫** | ⟪लोभ⟫ (m.) Lok. sg. | dans l'avidité |
+| ⟪१७⟫. **⟪लभे⟫** | ⟪लभ्⟫ (1Ā) 1re sg. ļ. Ind. Prés. | je reçois |
+| ⟪१८⟫. **⟪लाभे⟫** | ⟪लाभ⟫ (m.) Loc. sg. | dans le gain |
+| ⟪१९⟫. **⟪लेभे⟫** | ⟪लभ्⟫ (1Ā) 1re/3e sg. ļ. Parf. | je reçus / il reçut |
+| ⟪२०⟫. **⟪लोभे⟫** | ⟪लोभ⟫ (m.) Loc. sg. | dans l'avidité |
 | ⟪२१⟫. **⟪काश्चन⟫** | ⟪किं⟫-⟪चन⟫ (f.) Nom./Akk. pl. | certaines |
-| ⟪२२⟫. **⟪तन्त्रे⟫** | ⟪तन्त्र⟫ (n.) Lok. sg. | dans le système |
+| ⟪२२⟫. **⟪तन्त्रे⟫** | ⟪तन्त्र⟫ (n.) Loc. sg. | dans le système |
 | ⟪२३⟫. **⟪तत्र⟫** | Adv. | là-bas |
-| ⟪२४⟫. **⟪मनौ⟫** | ⟪मनु⟫ (m.) Lok. sg. | dans Manu |
-| ⟪२५⟫. **⟪मेने⟫** | ⟪मन्⟫ (4Ā) 1./3. sg. Ā. Perf. | je pensai / il pensa |
-| ⟪२६⟫. **⟪वेत्स्यामः⟫** | ⟪विद्⟫ (6U) 1. pl. P. Fut. | nous saurons |
+| ⟪२४⟫. **⟪मनौ⟫** | ⟪मनु⟫ (m.) Loc. sg. | dans Manu |
+| ⟪२५⟫. **⟪मेने⟫** | ⟪मन्⟫ (4Ā) 1re/3e sg. ļ. Parf. | je pensai / il pensa |
+| ⟪२६⟫. **⟪वेत्स्यामः⟫** | ⟪विद्⟫ (6U) 1re pl. P. Fut. | nous saurons |
 | ⟪२७⟫. **⟪कच्चित्⟫** | Particule interrogative | peut-être ? |
-| ⟪२८⟫. **⟪तत्याज⟫** | ⟪त्यज्⟫ (1P) 1./3. sg. P. Perf. | je partis / il partit |
-| ⟪२९⟫. **⟪विद्ये⟫** | ⟪विद्या⟫ (f.) Vok. sg. | ô Science ! |
-| ⟪३०⟫. **⟪विद्याम्⟫** | ⟪विद्या⟫ (f.) Akk. sg. | la Science |
-| ⟪३१⟫. **⟪एनेन⟫** | ⟪एनद्⟫ (m./n.) Instr. sg. | par celui-ci |
+| ⟪२८⟫. **⟪तत्याज⟫** | ⟪त्यज्⟫ (1P) 1re/3e sg. P. Parf. | je partis / il partit |
+
+| ⟪२९⟫. **⟪विद्ये⟫** | ⟪विद्या⟫ (f.) Vok. sg. | o Science ! |
+| ⟪३०⟫. **⟪विद्याम्⟫** | ⟪विद्या⟫ (f.) Acc. sg. | la Science |
+| ⟪३१⟫. **⟪एनेन⟫** | ⟪एनद्⟫ (m./n.) Instr. sg. | par celui - ci |
 | ⟪३२⟫. **⟪ऐक्षे⟫** | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | je vis |
 | ⟪३३⟫. **⟪आह⟫** | ⟪अह्⟫ (P) 3. sg. P. Perf. | il dit |
-| ⟪३४⟫. **⟪आहन्⟫** | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | il frappa |
-::::::media
+| ⟪३४⟫. **⟪आहन्⟫** | ⟪आ⟫ - ⟪हन्⟫ (2P) 3. sg. P. Impf. | il frappa |
+:::
+
+::: media
 ![](/images/uebung066.webp)
 Fig. : ⟪काश्चन⟫ ⟪वाहिकाः⟫
-(Source de l'image : [Détails](/fr/licenses#uebung066))
+(Source de l'image : [Détails](/licenses#uebung066))
 :::

@@ -11,7 +11,7 @@ status: stabil
 
 ## 22.1. Ablativul absolut (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
 
-:::grammar-box
+::: grammar-box
 
 Dacă se dorește exprimarea în sanscrită că o acțiune a agentului (⟪कर्तृ⟫) precede sau însoțește ca circumstanță concomitentă o altă acțiune a agentului, se utilizează ablativul absolut (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫). Așadar
 
@@ -30,7 +30,7 @@ La traducerea în limba germană, se evită repetarea constantă a cuvântului �
 :::
 **Exemple:**
 
-:::indent
+::: indent
 **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = construcție pasivă: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
 „Bărbatul intră în casă, vede fetița și îi vorbește.”
 
@@ -38,7 +38,7 @@ La plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बाला�
 :::
 ## 22.2. Formarea ablativului
 
-:::grammar-box
+::: grammar-box
 **Formarea ablativului**
 
 *   Verbe fără preverb: ablativ în **-tvā**
@@ -46,7 +46,7 @@ La plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बाला�
 :::
 ### 22.2.1. Verbe fără prefix: Absolutiv în -⟪त्वा⟫
 
-:::grammar-box
+::: grammar-box
 
 **Formare:**
 
@@ -57,7 +57,7 @@ Doar negația **a-** / **an-** se potrivește cu sufixul **-⟪त्वा⟫**
 :::
 **Exemple:**
 
-:::indent
+::: indent
 **⟪आप्त्वा⟫** "după ce el/ea/ello/eu/voi/ele/noi/voi/ele au atins / au atins"
 
 **⟪आसित्वा⟫** "după ce el (...) a stat / este"
@@ -74,14 +74,14 @@ Doar negația **a-** / **an-** se potrivește cu sufixul **-⟪त्वा⟫**
 
 #### 22.2.2.1. Rădăcini cu vocală lungă (în afară de -ā) sau cu consoană
 
-:::grammar-box
+::: grammar-box
 
 **(de obicei) rădăcină la nivel scăzut + -ya**
 
 :::
 **Exemple:**
 
-:::indent
+::: indent
 **⟪उपनीय⟫** "după ce a (...) adus / a adus"
 
 **⟪प्रभूय⟫** "după ce a (...) ieșit la iveală / a ieșit la iveală" "după ce a (...) avut putere"
@@ -90,26 +90,26 @@ Doar negația **a-** / **an-** se potrivește cu sufixul **-⟪त्वा⟫**
 :::
 #### 22.2.2.2. Rădăcini cu -ā
 
-:::grammar-box
+::: grammar-box
 
 **rădăcină la nivel înalt, neschimbată + -ya**
 
 :::
 **Exemplu:**
 
-:::indent
+::: indent
 **⟪उपस्थाय⟫** "după ce a (...) pășit / a pășit" ; (dar fără prepoziție: **⟪स्थित्वा⟫**)
 :::
 #### 22.2.2.3. Rădăcini care la nivelul scăzut se termină cu -i, -u, -ṛ scurt
 
-:::grammar-box
+::: grammar-box
 
 **rădăcină la nivel scăzut + -tya**
 
 :::
 **Exemple:**
 
-:::indent
+::: indent
 **⟪प्रस्तुत्य⟫** "după ce a (...) lăudat cu voce tare / a lăudat cu voce tare"
 
 **⟪विस्मृत्य⟫** "după ce a (...) uitat / a uitat"
@@ -118,7 +118,7 @@ Doar negația **a-** / **an-** se potrivește cu sufixul **-⟪त्वा⟫**
 :::
 #### 22.2.2.4. Rădăcini cu -am / -an, care la nivelul scăzut se termină cu -a
 
-:::grammar-box
+::: grammar-box
 
 **Opțional:**
 
@@ -131,38 +131,40 @@ Rădăcină cu **-a** + **-tya**
 :::
 **Exemplu:**
 
-:::indent
+::: indent
 **⟪विगम्य⟫** sau **⟪विगत्य⟫** "după ce a (...) trecut / a trecut"
 :::
 ## 22.3. Listă de cuvinte
 
 **⟪काम⟫ m.:** dor, poftă; dar dorit, plăcere senzorială, iubire, zeul iubirii
 
-:::indent
+::: indent
 **⟪कामम्⟫** Acuzativ adverbial: după dor, după plac
-::::::media
+:::: media
 ![](/images/lekt2202.webp)
 Fig.: ⟪कामदेवः⟫
 sec. al XIX-lea
 (sursă imagine: [Detalii](/ro/licenses#lekt2202))
+::::
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** a fi capabil, a putea
 
 din aceasta:
 
-:::indent
+::: indent
 **⟪शक्ति⟫ f.:** puterea, capacitatea, abilitatea, forța; de asemenea: putere divină, personificată ca însoțitoare feminină, în special a lui **⟪शिव⟫**
 
 **⟪शक्र⟫ m.:** puternicul (epitet al lui **⟪इन्द्र⟫**)
-::::::media
+:::: media
 ![](/images/lekt2203.webp)
 Fig.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
 (sursă imagine: [Detalii](/ro/licenses#lekt2203))
+::::
 :::
 **⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** a merita (a fi demn de ceva), a avea dreptul, a fi obligat să, trebuie (în persoana a II-a, **⟪अर्ह्⟫** + infinitiv este adesea folosit ca o poruncă blândă: "Ar trebui să")
 
-:::indent
+::: indent
 **⟪अर्हन्त्⟫ 3** Part. Prez. P: un demn. În budism și Jainism: cineva care a atins eliberarea finală
 :::
 **⟪व्रत⟫ n.:** jurământ, datorie religioasă, practică religioasă (o persoană îi promite zeului ceva, pentru a obține ceva de la ea. Exemplu: o mamă promite să ofere fiica sa ca prostituată a templului (**⟪देवदासी⟫**) dacă fiica sa se vindecă. **⟪व्रत⟫** importante astăzi: post; abținere de la alimente preferate; abținere sexuală; citirea scriurilor sacre; îndeplinirea unor rituri anumite; hrănirea brahmanilor etc. Scurt despre **⟪व्रत⟫**: Walker, Hindu World vol. II, p. 581ss. Detaliat: P. V. Kane: History of Dharmaśāstra vol. 5,1 p. 1 - 462. Acolo p. 253 - 462 listă de **⟪व्रत⟫** și sărbători religioase ("următoarea listă ... nu pretinde a fi exhaustivă" !!!)
@@ -171,7 +173,7 @@ Kolkatta = কলকাতা
 
 din aceasta:
 
-:::indent
+::: indent
 **⟪चर⟫ ⟪३⟫:** mobil; n.: ceea ce este mobil = animale (în contrast cu plantele)
 
 **⟪चरण⟫ n., m.:** picior
@@ -179,11 +181,12 @@ din aceasta:
 **⟪चरित⟫ n.:** stil de viață, fapte de viață
 
 **⟪ब्रह्मचर्य⟫ n.:** îndeplinirea Vedei (**⟪ब्रह्मन्⟫**) = studierea Vedei în primul stadiu al vieții (cel al lui **⟪ब्रह्मचारिन्⟫**), care necesită o abținere sexuală strictă; de asemenea: abținere sexuală, stil de viață celibatar
-::::::media
+:::: media
 ![](/images/lekt2201.webp)
 Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (sursă imagine: [Detalii](/ro/licenses#lekt2201))
+::::
 :::
 ## 22.4. Exercițiu
 
@@ -250,11 +253,12 @@ Goa = ⟪गोंय⟫
 
 **C) Transformați propozițiile de mai sus (cu excepția propozițiilor 8 și 10) în construcții pasive**
 
-:::media
+::: media
 ![](/images/lekt2204.webp)
 Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2204))
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt2201:** Goa = ⟪गोंय⟫ [Sursa imaginii: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Accesat la 2008-12-12. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]
 

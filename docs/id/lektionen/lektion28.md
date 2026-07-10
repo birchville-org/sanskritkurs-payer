@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-16
 
 ## 28.1. The Causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
-:::grammar-box
+::: grammar-box
 **If one wants to express that someone or something causes or brings about that someone else or something else does or suffers something, which is expressed by a root (with or without prefix), then one uses the causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
 
 Example:
@@ -20,7 +20,7 @@ Example:
 
 ## 28.2. Sentence Construction with the Causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
-:::grammar-box
+::: grammar-box
 **Schema 1:**
 
 **If the root underlying the causative (with or without prefix) is INTRANSITIVE (i.e., cannot take an accusative object) or expresses movement, knowledge, information, or eating:**
@@ -44,12 +44,13 @@ Result: ⟪रामो⟫ ⟪वेदमधीते⟫ "Rāma studies the Ved
 ⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Rāma causes the gods to eat immortality food = gives the gods immortality food to eat" (⟪अश्⟫ 9 "to eat")
 Result: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "The gods eat immortality food"
 
-:::media
+::: media
 ![](/images/lekt2802.webp)
 Fig.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
 ISKCON Temple Bangalore.
 (Image source: [Details](/en/licenses#lekt2801))
-::::::grammar-box
+:::
+::: grammar-box
 **Constructed according to Schema 1 is also the root ⟪दृश्⟫:**
 
 **Exceptions to Schema 1 see under Schema 2**
@@ -66,25 +67,28 @@ The following verse summarizes examples of causative formation according to Sche
 ⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
 ⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
 
-:::indent
+::: indent
 My refuge and my goal is Hari,
 Who sent the enemies to heaven,
 Who taught his followers the meaning of the Veda,
 Who fed the gods with immortality food,
 Who taught the Creator the Veda,
 Who placed the earth in the water.
-::::::media
+:::: media
 ![](/images/lekt2801.webp)
 Fig.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
 Jadavpur University Management building.
 (Image source: [Details](/en/licenses#lekt2802))
-::::::grammar-box
+::::
+:::
+::: grammar-box
 **Schema 2:**
 
 **With transitive verbs (except those mentioned under Schema 1). Also with all verbs when the action designated by the causative is caused (i.e., when the causative is thus a causative of a causative):**
 
 **Agent (⟪कर्ता⟫) of the causative in the Nominative (⟪प्रथमा⟫) — Agent of the caused action in the Instrumental (⟪तृतीया⟫) — Object of the caused action in the case it would have according to the simple verb (i.e., usually in the Accusative) — Verb in the causative**
-::::::indent
+:::
+::: indent
 Examples:
 (⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = "He causes Rāma to leave his wife"
 Result: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma leaves his wife"
@@ -92,7 +96,8 @@ Result: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ 
 ⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Viṣṇumitra causes Rāma to cause Govinda to go = Viṣṇumitra has Rāma send Govinda away"
 Result: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Rāma sends Govinda away"
 Result of this result: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda goes"
-::::::grammar-box
+:::
+::: grammar-box
 **Exceptions to Schema 1:**
 
 **The following verbs also construct according to Schema 2:**
@@ -115,7 +120,7 @@ Result: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति�
 (⟪स⟫) ⟪रामेण⟫ ⟪स्मारयति⟫ = "He causes Rāma to remember"
 Result: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma remembers"
 
-:::grammar-box
+::: grammar-box
 **The following causatives can construct both according to Schema 1 and according to Schema 2:**
 
 - **⟪हृ⟫ "to hold, to fetch"**
@@ -136,7 +141,7 @@ Result: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति�
 
 When the causative is used in a passive construction, the following schema is almost always applied:
 
-:::grammar-box
+::: grammar-box
 **Schema A (Passive Construction):**
 
 **Agent of the causative in the Instrumental (⟪तृतीया⟫) — Agent of the caused action in the Nominative (⟪प्रथमा⟫) — Object of the caused action in the case it would have according to the simple verb (i.e., usually in the Accusative) — Verb in the causative**
@@ -156,12 +161,12 @@ Result: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "The se
 
 ## 28.3. Formation of the present stem for the causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
-:::grammar-box
+::: grammar-box
 **The thematic endings of the present stem are added to the causative stem**
 :::
 There are various formation types:
 
-:::grammar-box
+::: grammar-box
 **Formation type 1: (mostly) guṇited root + -aya-**
 :::
 Examples:
@@ -173,7 +178,7 @@ Examples:
 | ⟪दृश्⟫ | ⟪दर्शयति⟫ | to make see = to show |
 | ⟪वृत्⟫ | ⟪वर्तयति⟫ | to make turn, to turn (transitive), to roll (transitive), to set in motion |
 
-:::grammar-box
+::: grammar-box
 **Formation type 2: dīrghited root + -aya-**
 
 **Often with roots ending in a vowel, and with roots where a single final consonant follows -a-.**
@@ -188,7 +193,7 @@ Examples:
 | ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | to let make |
 | ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | to let speak, to make speak, (to make speak a text =) to read aloud |
 
-:::grammar-box
+::: grammar-box
 **Formation type 3: weak-grade root + -aya-**
 
 **Occurs.**
@@ -199,7 +204,7 @@ Example:
 | :--- | :--- | :--- |
 | ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | to corrupt (someone) |
 
-:::grammar-box
+::: grammar-box
 **Formation type 4: root + -paya-**
 
 **With roots ending in -ā and some other roots.**
@@ -211,7 +216,7 @@ Examples:
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | to make stand, to set up |
 | ⟪इ⟫ + ⟪अधि⟫:br"to study" | ⟪अध्यापयति⟫:br(from: adhi+ā-paya-ti):br(for explanation see Thumb-Hauschildt Vol. I,2 p. 341) | to let study, to instruct |
 
-:::grammar-box
+::: grammar-box
 **Irregular formations:**
 
 **Native grammarians consider the following forms to be causatives:**
@@ -227,7 +232,7 @@ Notes:
 
 ## 28.4. Formation of the Passive (⟪यक्⟫) from the Causative
 
-:::grammar-box
+::: grammar-box
 **The Passive from the Causative is formed as follows:**
 
 **Causative stem WITHOUT -aya- + Passive suffix -ya-**
@@ -242,7 +247,7 @@ While the passive from the original root is usually formed from the guṇa-grade
 
 ## 28.5. Formation of the Future (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) of the Causative
 
-:::grammar-box
+::: grammar-box
 **The Future of the Causative is formed from the causative stem, whereby the final -a- of the causative suffix is dropped:**
 
 **-ay-iṣya-**
@@ -254,7 +259,7 @@ Example:
 
 ## 28.6. Formation of the PPP (⟪क्त⟫) for the Causative
 
-:::grammar-box
+::: grammar-box
 **Causative stem in -ay- (without final a) + -i- + -ta**
 
 Examples:
@@ -265,20 +270,22 @@ Examples:
 
 ## 28.7. Formation of the Absolutiv (⟪क्त्वा⟫ . ⟪ल्यप्⟫) from the Causative
 
-:::grammar-box
+::: grammar-box
 **The Absolutiv in -tvā is formed from the causative stem in -ay- (without final a):**
 
 **Causative stem in -ay- + -i- + -tvā**
 
 Example:
 **sthāpayitvā** (sthā-pay-i-tvā) "after he has set up"
-::::::grammar-box
+:::
+::: grammar-box
 **The Absolutiv in -ya occurs with causatives with a prefix usually at the causative stem WITHOUT -aya-**
 
 Examples:
 **prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "after he has awakened"
 **ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "after he has allowed to bring, after he has caused to bring"
-::::::grammar-box
+:::
+::: grammar-box
 **However, if the root syllable of the causative contains a short -a- before a single consonant, the -ya of the Absolutiv appears at the causative stem in -ay- (without final a)**
 
 Example:
@@ -288,7 +295,7 @@ Example:
 
 ## 28.8. Formation of the Infinitive (⟪तुमुन्⟫) for the Causative
 
-:::grammar-box
+::: grammar-box
 **The infinitive of the causative is formed from the causative stem in -ay- (without final a):**
 
 **Causative stem in -ay- + -i- + -tum**
@@ -300,20 +307,21 @@ Example:
 
 ## 28.9. The 10th Present Class (⟪चुरादि⟫ = ⟪चुर्⟫ etc.)
 
-:::grammar-box
+::: grammar-box
 **In the same way that causatives are formed, some roots of the 10th Present Class form the present (and other tenses) without being causatives.**
 
 Examples:
 1.  Lengthened-grade root + -aya-: **⟪कम्⟫** 10A **⟪कामयते⟫** "to love"
 2.  Guṇa-grade root + -aya-: **cur** 10U **corayati** "to steal"; Future: **corayiṣyate**; Passive: **coryate**
-::::::grammar-box
+:::
+::: grammar-box
 **The forms of the causative for verbs of the 10th Present Class are identical to the forms of the simple verb. The decision as to whether a causative is present is possible only from the meaning or sometimes from the construction.**
 :::
 ---
 
 ## 28.10. Word List
 
-:::indent
+::: indent
 **⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: to know, to recognize
 Fut. **vediṣyati**
 Pass. **vidyate**
@@ -321,43 +329,50 @@ Caus. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
 from this: **vidyā** f., **veda** m.
-::::::indent
+:::: indent
 **⟪विद्⟫** 6U **⟪विन्दति⟫** (!): to find
 Fut. **vediṣyati** / **vetsyat**
 Pass. **vidyate**: there is, it exists
 Caus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
-::::::indent
+::::
+:::
+::: indent
 **i + adhi** 2Ā **adhīte**, **adhīyate**: to study, to learn by heart
 Caus. **adhyāpayati**: to cause to study, to teach
 from this: **adhyayana** n.: study (esp. of the Veda); **adhyāya** m.: lesson, chapter (section for memorization)
-::::::indent
+:::
+::: indent
 **⟪कम्⟫** 10Ā **⟪कामयते⟫**: to love
 Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Caus. **kāmayati**
 PPP **kānta** (!)
 Inf. **kāmayitum** / **kamitum**
-::::::media
+:::
+::: media
 ![](/images/lekt2804.webp)
 Fig.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
 Painting by ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
 (Image source: [Details](/en/licenses#lekt2804))
-::::::indent
+:::
+::: indent
 **⟪चुर्⟫** 10 **⟪चोरयति⟫**: to steal
 Fut. **corayiṣyati**
 Pass. **coryate**
 Caus. **corayati**
 PPP **corita**
 Inf. **coritum**
-::::::indent
+:::
+::: indent
 **Pay special attention to the meaning of the causatives of the following verbs:**
 **dṛś** — **darśayati**: to show
 **man** — **mānayati**: to esteem, to honor (but probably a denominative from **māna** "honor")
 **vac** — **vācayati**: also: to read aloud (to cause to speak a text)
 **vad** — **vādayati**: also: to cause a musical instrument to speak = to play a musical instrument
-::::::media
+:::
+::: media
 ![](/images/lekt2803.webp)
 Fig.: ⟪वीणां⟫ ⟪वादयति⟫
 Vīṇā player.
@@ -365,7 +380,7 @@ Vīṇā player.
 :::
 **⟪भार⟫** m.: burden
 
-:::media
+::: media
 ![](/images/lekt2805.webp)
 Fig.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
 Girl carrying load. Near Ahmedabad.
@@ -479,7 +494,7 @@ Example: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हार�
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt2801:** Jadavpur University Management building. [Image source: noii's Flickr, 2008-12-19, CC BY-SA]
 **lekt2802:** ISKCON Temple Bangalore. [Image source: Ramki's reflections Flickr, 2008-12-19, CC BY-NC-ND]

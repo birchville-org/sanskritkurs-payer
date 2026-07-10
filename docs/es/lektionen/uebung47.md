@@ -151,7 +151,7 @@ Queremos ser guiados por ti.
 ⟪३४⟫. **⟪सुखाय⟫ ⟪भवतात्⟫ ⟪॥⟫ ⟪३४⟫ ⟪॥⟫**
 ¡Que se convierta en buena fortuna! (Deseo de bendición)
 
-:::media
+::: media
 ![](/images/uebung075.webp)
 Fig.: ⟪माद्यत⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung075))

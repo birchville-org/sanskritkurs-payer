@@ -12,11 +12,11 @@ A) Translate the **⟪सुभाषितानि⟫** at the beginning of th
 
 ⟪१⟫. **⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫ ⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫**  
 **⟪पात्रत्वाद्धनमाप्नोति⟫ ⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**  
-Knowledge yields right conduct; because of right conduct one becomes respectable; if one is respectable, one becomes wealthy; if one is wealthy, one becomes righteous — and from that follows happiness.
+Knowledge leads to proper conduct; because of proper conduct, one becomes worthy of honor; when one is worthy of honor, one becomes wealthy; when one is wealthy, one becomes righteous — and from this follows happiness.
 
 ⟪२⟫. **⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫ ⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫**  
 **⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫ ⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-If one abandons knowledge in the search for happiness, or if one abandons happiness in the search for knowledge: whence should a happiness-seeker then have knowledge, and whence a knowledge-seeker happiness?
+If one abandons knowledge in the search for happiness, or if one abandons happiness in the search for knowledge: whence should a seeker of happiness then have knowledge, and whence a seeker of knowledge happiness?
 
 ⟪३⟫. **⟪आचार्यात्पादमादत्ते⟫ ⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫**  
 **⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫ ⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**  
@@ -28,8 +28,8 @@ A student receives one quarter (of knowledge) from his teacher, one quarter thro
 
 B) Transform the following verbal forms into the corresponding perfect forms (1st person):
 
-:::grammar-box
-| Present / Imperfect | Perfect (1st person) |
+::: grammar-box
+| Present / Imperfect | Perfect (1st Person) |
 | :--- | :--- |
 | ⟪१⟫. **⟪अश्नीमः⟫** | ⟪आशिम⟫ |
 | ⟪२⟫. **⟪स्मः⟫** | ⟪आसिम⟫ |
@@ -76,6 +76,7 @@ B) Transform the following verbal forms into the corresponding perfect forms (1s
 | ⟪४३⟫. **⟪अवहाम⟫** | ⟪ऊहिम⟫ |
 | ⟪४४⟫. **⟪अकुर्महि⟫** | ⟪चकृमहे⟫ |
 | ⟪४५⟫. **⟪जहीमः⟫** | ⟪जहिम⟫ |
+
 | ⟪४६⟫. **⟪अस्पृशम्⟫** | ⟪पस्पर्श⟫ |
 | ⟪४७⟫. **⟪नेष्यामः⟫** | ⟪निन्यिम⟫ |
 | ⟪४८⟫. **⟪तन्महे⟫** | ⟪तेनिमहे⟫ |
@@ -100,56 +101,61 @@ B) Transform the following verbal forms into the corresponding perfect forms (1s
 | ⟪६७⟫. **⟪अहनम्⟫** | ⟪जघान⟫ / ⟪जघन⟫ |
 | ⟪६८⟫. **⟪पश्यामः⟫** | ⟪ददृशिम⟫ |
 | ⟪६९⟫. **⟪ईक्षे⟫** | ⟪ईक्षां⟫ ⟪चक्रे⟫ |
-::::::media
+:::
+
+::: media
 ![](/images/uebung065.webp)
 Fig.: ⟪आशिमेति⟫
-(Image source: [Details](/en/licenses#uebung065))
+(Image source: [Details](/licenses#uebung065))
 :::
 ---
 
-## Word Form Determination
+## Word Form Analysis
 
 Determine and translate the following word forms:
 
-:::grammar-box
+::: grammar-box
 | Word Form | Determination | Meaning |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | I gave / he gave for himself |
-| ⟪२⟫. **⟪ददते⟫** | ⟪दा⟫ (3U) 3. pl. Ā. Ind. Pres. | they give for themselves |
-| ⟪३⟫. **⟪पापे⟫** | ⟪पाप⟫ (n.) Loc. sg. | in the evil |
-| ⟪४⟫. **⟪आसे⟫** | ⟪आस्⟫ (2Ā) 1. sg. Ā. Ind. Pres. | I sit |
+| ⟪२⟫. **⟪ददते⟫** | ⟪दा⟫ (3U) 3. pl. Ā. Ind. Präs. | they give for themselves |
+| ⟪३⟫. **⟪पापे⟫** | ⟪पाप⟫ (n.) Lok. sg. | in evil |
+| ⟪४⟫. **⟪आसे⟫** | ⟪आस्⟫ (2Ā) 1. sg. Ā. Ind. Präs. | I sit |
 | ⟪५⟫. **⟪एते⟫** | ⟪एतद्⟫ (m.) Nom. pl. | these |
-| ⟪६⟫. **⟪इते⟫** | ⟪इ⟫ (2P) PPP Loc. sg. m./n. | in the gone |
+| ⟪६⟫. **⟪इते⟫** | ⟪इ⟫ (2P) PPP Lok. sg. m./n. | in the gone |
 | ⟪७⟫. **⟪इतः⟫** | Adv. / PPP Nom. sg. m. | from here / gone |
-| ⟪८⟫. **⟪यतः⟫** | Adv. / Part. Pres. P. Gen. sg. | from where / of the going |
-| ⟪९⟫. **⟪यते⟫** | ⟪इ⟫ (2P) Part. Pres. P. Dat. sg. | to the going |
-| ⟪१०⟫. **⟪ईयते⟫** | ⟪इ⟫ (2P) Pass. 3. sg. Ind. Pres. | he is gone |
-| ⟪११⟫. **⟪यत्⟫** | ⟪यद्⟫ (n.) Nom./Acc. sg. | which |
+| ⟪८⟫. **⟪यतः⟫** | Adv. / Part. Präs. P. Gen. sg. | from where / of the going |
+| ⟪९⟫. **⟪यते⟫** | ⟪इ⟫ (2P) Part. Präs. P. Dat. sg. | to the going |
+| ⟪१०⟫. **⟪ईयते⟫** | ⟪इ⟫ (2P) Pass. 3. sg. Ind. Präs. | he is gone |
+| ⟪११⟫. **⟪यत्⟫** | ⟪यद्⟫ (n.) Nom./Akk. sg. | which |
 | ⟪१२⟫. **⟪यदा⟫** | Adv. | when (relative) |
-| ⟪१३⟫. **⟪अस्तुवि⟫** | ⟪स्तु⟫ (2U) 1. sg. Ā. Impf. | I praised for himself |
+| ⟪१३⟫. **⟪अस्तुवि⟫** | ⟪स्तु⟫ (2U) 1. sg. Ā. Impf. | I praised for myself |
 | ⟪१४⟫. **⟪अस्तवीत्⟫** | ⟪स्तु⟫ (2U) 3. sg. P. Impf. | he praised |
 | ⟪१५⟫. **⟪ब्रह्मणः⟫** | ⟪ब्रह्मन्⟫ (n./m.) Gen./Abl. sg. | of the Absolute / of the Brahmin |
 | ⟪१६⟫. **⟪ब्राह्मणः⟫** | ⟪ब्राह्मण⟫ (m.) Nom. sg. | the Brahmin |
-| ⟪१७⟫. **⟪लभे⟫** | ⟪लभ्⟫ (1Ā) 1. sg. Ā. Ind. Pres. | I receive |
-| ⟪१८⟫. **⟪लाभे⟫** | ⟪लाभ⟫ (m.) Loc. sg. | in the gain |
+| ⟪१७⟫. **⟪लभे⟫** | ⟪लभ्⟫ (1Ā) 1. sg. Ā. Ind. Präs. | I receive |
+| ⟪१८⟫. **⟪लाभे⟫** | ⟪लाभ⟫ (m.) Lok. sg. | in gain |
 | ⟪१९⟫. **⟪लेभे⟫** | ⟪लभ्⟫ (1Ā) 1./3. sg. Ā. Perf. | I received / he received |
-| ⟪२०⟫. **⟪लोभे⟫** | ⟪लोभ⟫ (m.) Loc. sg. | in the greed |
-| ⟪२१⟫. **⟪काश्चन⟫** | ⟪किं⟫-⟪चन⟫ (f.) Nom./Acc. pl. | any |
-| ⟪२२⟫. **⟪तन्त्रे⟫** | ⟪तन्त्र⟫ (n.) Loc. sg. | in the system |
+| ⟪२०⟫. **⟪लोभे⟫** | ⟪लोभ⟫ (m.) Lok. sg. | in greed |
+| ⟪२१⟫. **⟪काश्चन⟫** | ⟪किं⟫-⟪चन⟫ (f.) Nom./Akk. pl. | any |
+| ⟪२२⟫. **⟪तन्त्रे⟫** | ⟪तन्त्र⟫ (n.) Lok. sg. | in the system |
 | ⟪२३⟫. **⟪तत्र⟫** | Adv. | there |
-| ⟪२४⟫. **⟪मनौ⟫** | ⟪मनु⟫ (m.) Loc. sg. | in Manu |
+| ⟪२४⟫. **⟪मनौ⟫** | ⟪मनु⟫ (m.) Lok. sg. | in Manu |
 | ⟪२५⟫. **⟪मेने⟫** | ⟪मन्⟫ (4Ā) 1./3. sg. Ā. Perf. | I thought / he thought |
 | ⟪२६⟫. **⟪वेत्स्यामः⟫** | ⟪विद्⟫ (6U) 1. pl. P. Fut. | we will know |
-| ⟪२७⟫. **⟪कच्चित्⟫** | Interrogative particle | perhaps? |
+| ⟪२७⟫. **⟪कच्चित्⟫** | Question particle | perhaps? |
 | ⟪२८⟫. **⟪तत्याज⟫** | ⟪त्यज्⟫ (1P) 1./3. sg. P. Perf. | I left / he left |
-| ⟪२९⟫. **⟪विद्ये⟫** | ⟪विद्या⟫ (f.) Voc. sg. | o Science! |
+
+| ⟪२९⟫. **⟪विद्ये⟫** | ⟪विद्या⟫ (f.) Voc. sg. | O Science! |
 | ⟪३०⟫. **⟪विद्याम्⟫** | ⟪विद्या⟫ (f.) Acc. sg. | the Science |
-| ⟪३१⟫. **⟪एनेन⟫** | ⟪एनद्⟫ (m./n.) Instr. sg. | by this |
+| ⟪३१⟫. **⟪एनेन⟫** | ⟪एनद्⟫ (m./n.) Instr. sg. | by means of this |
 | ⟪३२⟫. **⟪ऐक्षे⟫** | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | I saw |
 | ⟪३३⟫. **⟪आह⟫** | ⟪अह्⟫ (P) 3. sg. P. Perf. | he said |
 | ⟪३४⟫. **⟪आहन्⟫** | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | he struck |
-::::::media
+:::
+
+::: media
 ![](/images/uebung066.webp)
 Fig.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
-(Image source: [Details](/en/licenses#uebung066))
+(Image source: [Details](/licenses#uebung066))
 :::

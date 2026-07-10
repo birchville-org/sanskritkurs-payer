@@ -1,186 +1,189 @@
 ---
-title: Leçon 61
-subtitle: "Déclinaison des noms radicaux en -ā, -ī, -ū"
+title: Lektion 61
+subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 61
+# Lektion 61
 
-## 61.1. Déclinaison des noms radicaux en -ā, -ī, -ū
+## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
 
 ### 61.1.1. Noms radicaux en -ā à la fin de ⟪तत्पुरुष⟫
 
-:::grammar-box
-**Devant les terminaisons vocaliques, la voyelle radicale de la racine prend la forme réduite Ø dans les cas faibles.**
+::: grammar-box
+**Devant les terminations vocaliques, la voyelle radicale de la racine prend la forme réduite Ø dans les cas faibles.**
 
 **La déclinaison au masculin et au féminin est identique.**
 :::
 Paradigme :
 
-⟪विश्वपा⟫ m.f. « protégeant tout »
+⟪विश्वपा⟫ f.m. "celui qui protège l'univers"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪विश्वपास्⟫ | ⟪विश्वपौ⟫ | ⟪विश्वपास्⟫ |
-| **⟪द्वितीया⟫** | ⟪विश्वपाम्⟫ | ^^ | ⟪विश्वपस्⟫ |
-| **⟪तृतीया⟫** | ⟪विश्वपा⟫ | ⟪विश्वपाभ्याम्⟫ | ⟪विश्वपाभस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪विश्वपे⟫ | ^^ | ⟪विश्वपाभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪विश्वपस्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
+| ⟪द्वितीया⟫ | ⟪विश्वपाम्⟫ | ^^ | ⟪विश्वपस्⟫ |
+| ⟪तृतीया⟫ | ⟪विश्वपा⟫ | ⟪विश्वपाभ्याम्⟫ | ⟪विश्वपाभस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪विश्वपे⟫ | ^^ | ⟪विश्वपाभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪विश्वपस्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Noms radicaux féminins en -ī
+### 61.1.2. Feminine Wurzelnomina auf -ī
 
-:::grammar-box
+::: grammar-box
 **Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
-**Outre les formations avec les terminaisons casuelles régulières, des formations suivant le modèle des féminins polysyllabiques en -ī (⟪देवी⟫) existent dans le Dat.Ab.Gen.Loc.sg. et le Gen.pl.**
+**Outre les formations avec les terminaisons casuelles régulières, il existe également des formations selon le modèle des féminins polysyllabiques en -ī (⟪देवी⟫) au Dat.Ab.Gen.Lok.sg. et au Gen.pl.**
 :::
 Paradigme :
 
-⟪धी⟫ f. "Pensée"
+⟪धी⟫ f. « Pensée »
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪धीस्⟫ | ⟪धियौ⟫ | ⟪धियस्⟫ |
-| **⟪द्वितीया⟫** | ⟪धियम्⟫ | ^^ | ^^ |
-| **⟪तृतीया⟫** | ⟪धिया⟫ | ⟪धीभ्याम्⟫ | ⟪धीभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪धिये⟫ / ⟪धियै⟫ | ^^ | ⟪धीभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪धियस्⟫ / ⟪धिया्स्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ |
+| ⟪द्वितीया⟫ | ⟪धियम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪धिया⟫ | ⟪धीभ्याम्⟫ | ⟪धीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪धिये⟫ / ⟪धियै⟫ | ^^ | ⟪धीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪धियस्⟫ / ⟪धिया्स्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ |
 
-Irrégulier : ⟪स्त्री⟫ f. "Femme"
+Irrégulier : ⟪स्त्री⟫ f. « femme »
 
-:::grammar-box
+::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
-| **⟪प्रथमा⟫** | ⟪स्त्री⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ |
-| **⟪द्वितीया⟫** | ⟪स्त्रियम्⟫ / ⟪स्त्रीम्⟫ | ^^ | ⟪स्त्रियस्⟫ / ⟪स्त्रीस्⟫ |
-| **⟪तृतीया⟫** | ⟪स्त्रिया⟫ | ⟪स्त्रीभ्याम्⟫ | ⟪स्त्रीभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪स्त्रियै⟫ | ^^ | ⟪स्त्रीभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪स्त्रियास्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪स्त्रियोस्⟫ | ⟪स्त्रीणाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪स्त्रियाम्⟫ | ^^ | ⟪स्त्रीषु⟫ |
-| **⟪आमन्त्रितम्⟫** | ⟪स्त्रि⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ |
-::::::media
+| ⟪प्रथमा⟫ | ⟪स्त्री⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ |
+| ⟪द्वितीया⟫ | ⟪स्त्रियम्⟫ / ⟪स्त्रीम्⟫ | ^^ | ⟪स्त्रियस्⟫ / ⟪स्त्रीस्⟫ |
+| ⟪तृतीया⟫ | ⟪स्त्रिया⟫ | ⟪स्त्रीभ्याम्⟫ | ⟪स्त्रीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪स्त्रियै⟫ | ^^ | ⟪स्त्रीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪स्त्रियास्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪स्त्रियोस्⟫ | ⟪स्त्रीणाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪स्त्रियाम्⟫ | ^^ | ⟪स्त्रीषु⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪स्त्रि⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ |
+:::
+::: media
 ![](/images/lekt6102.webp)
 Fig. : ⟪स्त्रियः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt6102))
 :::
 ### 61.1.3. Noms radicaux en -ī à la fin de ⟪तत्पुरुष⟫
 
-:::grammar-box
-**Devant les terminaisons vocaliques, -ī est remplacé par -y si un seul consonne appartenant à la racine le précède. Si plusieurs consonnes appartenant à la racine le précèdent, le -ī devant une terminaison vocalique est remplacé par -iy.**
+::: grammar-box
+**Devant les finales vocaliques, -ī est remplacé par -y si seul un consonne appartenant à la racine le précède. Si plusieurs consonnes appartenant à la racine le précèdent, le -ī devant la finale vocalique est remplacé par -iy.**
 
 **La déclinaison est identique au masculin et au féminin.**
 
-**Régularité : Les composés en -⟪नी⟫ "conduisant" ont au locatif singulier la terminaison -ām (comme ⟪देवी⟫) :**
-par ex. ⟪ग्रामणी⟫ "conduisant un groupe/un village" : loc.sg.m.f. ⟪ग्रामण्याम्⟫
+**Régularité : Les composés en -⟪नी⟩ "conduisant" ont au locatif singulier la terminaison -ām (comme ⟪देवी⟩) :**
+par ex. ⟪ग्रामणी⟩ "conduisant un groupe/un village" : loc.sg.m.f. ⟪ग्रामण्याम्⟩
 :::
 Paradigmes :
 
-⟪शुद्धधी⟫ m., f. "Pensant la pureté"
+⟪शुद्धधी⟫, m., f. « Pensé pur »
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪शुद्धधीस्⟫ | ⟪शुद्धध्यौ⟫ | ⟪शुद्धध्यस्⟫ |
-| **⟪द्वितीया⟫** | ⟪शुद्धध्यम्⟫ | ^^ | ^^ |
-| **⟪तृतीया⟫** | ⟪शुद्धध्या⟫ | ⟪शुद्धधीभ्याम्⟫ | ⟪शुद्धधीभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪शुद्धध्ये⟫ | ^^ | ⟪शुद्धधीभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪शुद्धध्यस्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
-| **⟪सप्तमी⟫** | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
+| ⟪द्वितीया⟫ | ⟪शुद्धध्यम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪शुद्धध्या⟫ | ⟪शुद्धधीभ्याम्⟫ | ⟪शुद्धधीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪शुद्धध्ये⟫ | ^^ | ⟪शुद्धधीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪शुद्धध्यस्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
+| ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
 
-⟪यवक्री⟫ m., f. "Acheteur d'orge"
+⟪यवक्री⟫, m., f. « achetant de l'orge »
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪यवक्रीस्⟫ | ⟪यवक्रियौ⟫ | ⟪यवक्रियस्⟫ |
-| **⟪द्वितीया⟫** | ⟪यवक्रियम्⟫ | ^^ | ^^ |
-| **⟪तृतीया⟫** | ⟪यवक्रिया⟫ | ⟪यवक्रीभ्याम्⟫ | ⟪यवक्रीभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪यवक्रिये⟫ | ^^ | ⟪यवक्रीभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪यवक्रियस्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
+| ⟪द्वितीया⟫ | ⟪यवक्रियम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪यवक्रिया⟫ | ⟪यवक्रीभ्याम्⟫ | ⟪यवक्रीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪यवक्रिये⟫ | ^^ | ⟪यवक्रीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪यवक्रियस्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Monosyllabic feminine root nouns in -ū
+### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
 
-:::grammar-box
-**Stem before vowel: -uv**
+::: grammar-box
+**Stamm vor Vokal: -uv**
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-Paradigm:
+Paradigme :
 
-⟪भू⟫ f. "Earth"
+⟪भू⟫ f. « Terre »
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪भूस्⟫ | ⟪भुवौ⟫ | ⟪भुवस्⟫ |
-| **⟪द्वितीया⟫** | ⟪भुवम्⟫ | ^^ | ^^ |
-| **⟪तृतीया⟫** | ⟪भुवा⟫ | ⟪भूभ्याम्⟫ | ⟪भूभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪भुवे⟫ / ⟪भुवै⟫ | ^^ | ⟪भूभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪भुवस्⟫ / ⟪भुवास्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
+| ⟪द्वितीया⟫ | ⟪भुवम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪भुवा⟫ | ⟪भूभ्याम्⟫ | ⟪भूभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪भुवे⟫ / ⟪भुवै⟫ | ^^ | ⟪भूभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪भुवस्⟫ / ⟪भुवास्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
 ### 61.1.5. Noms radicaux en -ū à la fin de ⟪तत्पुरुष⟫
 
-:::grammar-box
-**Devant les terminaisons vocaliques, -ū est remplacé par -v si un seul consonne appartenant à la racine le précède. Si plusieurs consonnes appartenant à la racine le précèdent, le -ū devant une terminaison vocalique est remplacé par -uv.**
+::: grammar-box
+**Les terminaisons en -ū sont remplacées par -v lorsque seul un consonne appartenant à la racine le précède. Si plusieurs consonnes appartenant à la racine le précèdent, le -ū devant une terminaison vocalique est remplacé par -uv.**
 
 **La déclinaison est identique au masculin et au féminin.**
 :::
 Paradigme :
 
-⟪खलपू⟫ m., f. "celui qui retourne le grenier"
+⟪खलपू⟫, m., f. « qui retourne la grange »
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪खलपूस्⟫ | ⟪खलप्वौ⟫ | ⟪खलप्वस्⟫ |
-| **⟪द्वितीया⟫** | ⟪खलप्वम्⟫ | ^^ | ^^ |
-| **⟪तृतीया⟫** | ⟪खलप्वा⟫ | ⟪खलपूभ्याम्⟫ | ⟪खलपूभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪खलप्वे⟫ | ^^ | ⟪खलपूभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪खलप्वस्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪खलप्वोस्⟫ | ⟪खलप्वाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪खलप्वि⟫ | ^^ | ⟪खलपूषु⟫ |
+| ⟪द्वितीया⟫ | ⟪खलप्वम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪खलप्वा⟫ | ⟪खलपूभ्याम्⟫ | ⟪खलपूभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪खलप्वे⟫ | ^^ | ⟪खलपूभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪खलप्वस्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪खलप्वोस्⟫ | ⟪खलप्वाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪खलप्वि⟫ | ^^ | ⟪खलपूषु⟫ |
 
-:::media
+::: media
 ![](/images/lekt6106.webp)
 Fig. : ⟪रथ्याप्वः⟫
+⟪काशीपुर⟫
 (Source de l'image : [Détails](/fr/licenses#lekt6106))
 :::
-### 61.1.6. Déclinaison des féminins polisyllabiques en -ū
+### 61.1.6. Déclinaison des féminins polysyllabiques en -ū
 
-:::grammar-box
-**Les féminins polisyllabiques en -ū se déclinent de manière analogue aux stems polisyllabiques en -ī (⟪देवी⟫), mais ils se terminent par -s au nominatif singulier.**
+::: grammar-box
+**Les féminins polysyllabiques en -ū se déclinent de manière analogue aux stems polysyllabiques en -ī (⟪देवी⟫), mais ils se terminent au nominatif singulier par -s.**
 :::
 Paradigme :
 
-⟪वधू⟫ f. « jeune femme, fiancée »
+⟪वधू⟫ f. « jeune femme, mariée »
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
-| **⟪प्रथमा⟫** | ⟪वधूस्⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ |
-| **⟪द्वितीया⟫** | ⟪वधूम्⟫ | ^^ | ⟪वधूस्⟫ |
-| **⟪तृतीया⟫** | ⟪वध्वा⟫ | ⟪वधूभ्याम्⟫ | ⟪वधूभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪वध्वै⟫ | ^^ | ⟪वधूभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪वध्वास्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪वध्वोस्⟫ | ⟪वधूनाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪वध्वाम्⟫ | ^^ | ⟪वधूषु⟫ |
-| **⟪आमन्त्रितम्⟫** | ⟪वधु⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ |
+| ⟪प्रथमा⟫ | ⟪वधूस्⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ |
+| ⟪द्वितीया⟫ | ⟪वधूम्⟫ | ^^ | ⟪वधूस्⟫ |
+| ⟪तृतीया⟫ | ⟪वध्वा⟫ | ⟪वधूभ्याम्⟫ | ⟪वधूभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪वध्वै⟫ | ^^ | ⟪वधूभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪वध्वास्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪वध्वोस्⟫ | ⟪वधूनाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪वध्वाम्⟫ | ^^ | ⟪वधूषु⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪वधु⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ |
 
-:::media
+::: media
 ![](/images/lekt6107.webp)
 Fig. : ⟪वध्वौ⟫
+⟪जोधपुर⟫
 (Source de l'image : [Détails](/fr/licenses#lekt6107))
 :::
 ## 61.2. Le futur périphrastique (⟪लुट्⟫)
 
-:::grammar-box
+::: grammar-box
 **Outre le futur simple (⟪ऌत्⟫), il existe un futur périphrastique (⟪लुट्⟫). Selon la doctrine des grammairiens indigènes, il est utilisé pour désigner le futur éloigné (« après la journée en cours »), tandis que le futur simple désigne le futur proche (« pendant la journée en cours »). En sanskrit classique, il semble généralement ne pas y avoir de différence dans l’usage des deux futurs.**
 
 **Formation :**
@@ -189,14 +192,15 @@ Fig. : ⟪वध्वौ⟫
 :::
 Les terminaisons du futur périphrastique sont donc :
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1\. ⟪तृतीयः⟫** | \-tāsmi:br(-tā + asmi) | \-tāsvas | \-tāsmas:br(-tā smas) | **\-tāhe** | \-tāsvahe | \-tāsmahe |
 | **2\. ⟪मध्यमः⟫** | \-tāsi | \-tāsthas | \-tāstha | \-tāse | \-tāsāthe | \-tādhve |
 | **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
-::::::grammar-box
+:::
+::: grammar-box
 **Forme de la racine : La racine a généralement la même forme que dans le futur simple. Il en va de même pour la voyelle d’union -i-.**
 :::
 Exemples :
@@ -211,19 +215,20 @@ Paradigme :
 
 ⟪दा⟫ 3U
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | ***⟪दाताहे⟫*** | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | *⟪दाताहे⟫* | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
-::::::grammar-box
+:::
+::: grammar-box
 **Le verbe ⟪अस्⟫ est très rarement séparé de la base nominale.**
 :::
-## 61.3. L’Intensifum (Frequentatifum) (⟪चर्करीतम्⟫)
+## 61.3. Das Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
 
-:::grammar-box
+::: grammar-box
 **De chaque racine monosyllabique, commençant par une consonne, des neuf premières classes de présent, un Intensivum (⟪चर्करीतम्⟫) peut être formé ; c’est-à-dire : à quelques exceptions près, aucun Intensivum ne peut être formé à partir de racines disyllabiques (par ex. ⟪जागृ⟫), de racines commençant par une voyelle et de racines de la 10e classe de présent (⟪चुरादिगण⟫).**
 
 **L’Intensivum signifie :**
@@ -241,12 +246,15 @@ Paradigme :
 *   **pour certaines racines (liste : Kielhorn, Grammatik § 458b), l’Intensivum signifie le blâme :**  
     ⟪लुप्⟫ 6U : ⟪लोलुप्यते⟫ « il coupe mal »  
     ⟪सद्⟫ 1P : ⟪सासद्यते⟫ « il s’assoit mal »
-::::::media
+:::
+::: media
 ![](/images/lekt6104.webp)
 Fig. : ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
 Karnataka = ಕರ್ನಾಟಕ
 (Source de l’image : [Détails](/fr/licenses#lekt6104))
-::::::grammar-box
+:::
+
+::: grammar-box
 **Formation de l’Intensivum :**
 
 **Il existe deux types de formation de l’Intensivum :**
@@ -256,25 +264,24 @@ Karnataka = ಕರ್ನಾಟಕ
 
 **Les deux sont formés à partir de la racine redoublée avec une reduplication forte. Les deux ne diffèrent pas par le sens. Les deux peuvent être formés pour les mêmes racines.**
 :::
-### 61.3.1. Intensif Ātmanepada
+### 61.3.1. Ātmanepada-Intensivum
 
-::::grammar-box
-**Formation :**
+::: grammar-box
+**L’Intensivum signifie :**
 
-**racine redoublée + -ya-**
+**qu’une personne ou une chose fait ou subit à plusieurs reprises ce qui est exprimé par la racine**  
 
-**Forme de la racine : en général comme au Passif, c.-à-d. le plus souvent au degré zéro :**
+**qu’une personne ou une chose fait ou subit intensément ce qui est exprimé par la racine :**  
 
 Exemples :
 
-:::indent
-⟪स्वप्⟫ 2P : Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
-⟪दा⟫ 3U : Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
 :::
-Les règles détaillées se trouvent chez Kielhorn, Grammatik § 461.
+::: indent
+**pour les racines exprimant un mouvement, l’Intensivum signifie le mouvement courbé :**  
+:::
+    ⟪व्रज्⟫ 1P :  ⟪वव्रज्यते⟫ « il se déplace en courbes » (ET NON : « il se déplace souvent »)  
 
-**Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-::::
+**pour certaines racines (liste : Kielhorn, Grammatik § 458b), l’Intensivum signifie le blâme :**  
 Exemples :
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
@@ -285,54 +292,56 @@ Exemples :
 | ⟪शास्⟫ 2P | ⟪शेशिष्य⟫- |
 | ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
 
-::::grammar-box
-**Les racines de la forme -a-Ne pas allonger la voyelle dans la syllabe de reduplication, mais répéter le nasal.**
+::: grammar-box
+**Les deux sont formés à partir de la racine redoublée avec une reduplication forte. Les deux ne diffèrent pas par le sens. Les deux peuvent être formés pour les mêmes racines.**
 
-:::indent
+:::
+::: indent
 par ex. ⟪यम्⟫ 1P : ⟪यंयम्य⟫-
 :::
-**Pour certaines racines, -nī- ou -rī- (-rī- pour les racines qui contiennent un ṛ à l'Intensif) apparaît entre la voyelle de la syllabe de reduplication et la consonne initiale de la racine.**
+**Pour certaines racines, un -nī- ou -rī- (-rī- pour les racines contenant un ṛ dans l'intensif) apparaît entre le voyelle de la syllabe de reduplication et la consonne initiale de la racine.**
 
-:::indent
-par ex.
+::: indent
+par exemple
 ⟪पत्⟫ 1P : ⟪प⟫***⟪नी⟫***⟪पत्य⟫-
 ⟪वृत्⟫ 1Ā : ⟪व⟫***⟪री⟫***⟪वृत्य⟫-
-::::::::::grammar-box
+:::
+::: grammar-box
 **Conjugaison :**
 
-*   **Stème du présent : comme un Ātmanepada de la 4e classe de présent (⟪दिवादिगण⟫).**
-*   **Passif et autres stèmes temporels : si une voyelle précède le -ya- du stème intensif, le -ya- est remplacé par -y- ; si une consonne précède le -ya-, le -ya- disparaît :**
+*   **Stame du présent : comme un Ātmanepada de la 4ᵉ classe de présent (⟪दिवादिगण⟫).**
+*   **Passif et autres stems temporels : si un voyelle précède le -ya- du stem intensif, le -ya- est remplacé par -y- ; si un consonne précède le -ya-, le -ya- disparaît :**
     *   **Passif présent : ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
     *   **Parfait : périphrastique : ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
-    *   **Aoriste : aoriste iṣ (aoriste 5) : ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+    *   **Aoriste : aoriste iṣ (Aoriste 5) : ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
     *   **Futur : seṭ : ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
     *   **Futur périphrastique : ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
-### 61.3.2. Intensifum du Parasmaipada
+### 61.3.2. Intensif en Parasmaipada
 
-:::grammar-box
-**Stème du présent (autres formes extrêmement rares) : formation et conjugaison comme un verbe de la 3e classe de présent (⟪जुहोत्यादिगण⟫) avec la différence que la voyelle de la syllabe de reduplication est de niveau élevé, et de niveau allongé pour -a-.**
+::: grammar-box
+**Présent (autres formes extrêmement rares) : formation et conjugaison comme un verbe de la 3e classe de présent (⟪जुहोत्यादिगण⟫) avec la différence que la voyelle de la syllabe de reduplication est au degré fort, et au degré allongé pour -a-.**
 
-**Au singulier de l'indicatif présent ainsi qu'à la 2.3.sg. de l'imparfait et à la 3.sg. de l'impératif, un -ī- peut être inséré entre la racine et la terminaison. Si ce -ī- est inséré, une voyelle courte à l'avant-dernière position ne doit pas être guṇī.**
+**qu’une personne ou une chose fait ou subit à plusieurs reprises ce qui est exprimé par la racine**  
 
-**En ce qui concerne la reduplication avec nasal ainsi que l'insertion de -nī- ou -rī-, les mêmes règles s'appliquent qu'à l'Intensifum Ātmanepada. Au lieu de -rī-, on peut aussi utiliser -ri-.**
+**ce qu’une personne ou une chose fait ou subit intensément ce qui est exprimé par la racine :**  
 :::
-Paradigme :
+⟪भू⟩ 1P
 
 ⟪भू⟫ 1P
 
 Indicatif présent (⟪लट्⟫) :
 
-:::grammar-box
+::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
 :::
-Imparfait (⟪लङ्⟫) :
+**Formation de l’Intensivum :**
 
-:::grammar-box
+::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ |
@@ -341,7 +350,7 @@ Imparfait (⟪लङ्⟫) :
 :::
 Impératif (⟪लोट्⟫) :
 
-:::grammar-box
+::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ |
@@ -350,101 +359,105 @@ Impératif (⟪लोट्⟫) :
 :::
 Optatif (⟪विधिलिङ्⟫) :
 
-:::grammar-box
+::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ |
 :::
-## 61.4. Dérivés nominaux (⟪नामधातु⟫)
+## 61.4. Denominativa (⟪नामधातु⟫)
 
 Les dérivés nominaux (⟪नामधातवः⟫) se forment, contrairement aux verbes traités jusqu'à présent, non pas à partir d'une racine verbale, mais à partir d'un radical nominal. Il existe plusieurs types de formation.
 
-### 61.4.1. Bildung sans suffixe particulier, Parasmaipada
+### 61.4.1. Formation sans suffixe particulier, Parasmaipada
 
-::::grammar-box
+::: grammar-box
 **Signification :**
 
-:::indent
+:::
+::: indent
 **une personne ou une chose se comporte comme ce qui est désigné par la racine nominale, ou lui ressemble.**
 :::
 **Conjugaison :**
 
-:::indent
-**au présent, comme un verbe de la 1ère classe de présent (⟪भ्वादिगण⟫). Si le nom contient un mehl comme voyelle, seule la dernière voyelle est traitée comme la voyelle racine de la 1ère classe. Le -a final disparaît devant la voyelle thématique. La voyelle précédant un nasal final est remplacée par sa voyelle longue correspondante.**
-:::::::
+::: indent
+**au présent, comme un verbe de la première classe de présent (⟪भ्वादिगण⟫). Si le nom « mehl » contient une voyelle, seule la dernière voyelle est traitée comme la voyelle racine de la première classe. Le -a final disparaît devant la voyelle thématique. La voyelle précédant le nasal final est remplacée par la voyelle longue correspondante.**
+:::
 Exemples :
 
-| ⟪कवि⟫ m. "poète" | ⟪कवयति⟫ "il se comporte comme un poète" |
+| ⟪कवि⟫ m. « poète » | ⟪कवयति⟫ « il se comporte comme un poète » |
 | --- | --- |
-| ⟪भू⟫ f. "terre" | ⟪भवति⟫ "il se comporte comme la terre" |
-| ⟪पितृ⟫ "père" | ⟪पितरति⟫ "il se comporte comme un père" |
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "il se comporte comme Kṛṣṇa" |
-| ⟪माला⟫ f. "couronne" | ⟪मालाति⟫ "elle ressemble à une couronne" |
-| ⟪राजन्⟫ m. "roi" | ⟪राजानति⟫ "il se comporte comme un roi" |
+| ⟪भू⟫ f. « terre » | ⟪भवति⟫ « il se comporte comme la terre » |
+| ⟪पितृ⟫ « père » | ⟪पितरति⟫ « il se comporte comme un père » |
+| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ « il se comporte comme Kṛṣṇa » |
+| ⟪माला⟫ f. « couronne » | ⟪मालाति⟫ « il ressemble à une couronne » |
+| ⟪राजन्⟫ m. « roi » | ⟪राजानति⟫ « il se comporte comme un roi » |
 
 ### 61.4.2. Formation avec le suffixe -ya, Parasmaipada
 
-::::grammar-box
+::: grammar-box
 **Signification :**
 
-*   **quelqu'un souhaite ce qui est désigné par le radical nominal**
-*   **quelqu'un traite ou considère une personne ou une chose comme ce qui est désigné par le radical nominal**
+*   **quelqu'un souhaite ce qui est désigné par la racine nominale**
+*   **quelqu'un traite ou considère une personne ou une chose comme ce qui est désigné par la racine nominale**
 
-**Formation du radical :**
+**Formation de la racine :**
 
-:::indent
-**devant le -ya, la terminaison du radical nominal subit les transformations suivantes :**
+:::
+::: indent
+**avant le -ya, la terminaison de la base nominale subit les transformations suivantes :**
 
-*   **a, ā » ī :** ⟪पुत्र⟫ » ⟪पुत्रीय⟫-
 *   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫-
 *   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫-
 *   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
+*   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
 *   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
-*   **la nasal finale tombe, la voyelle précédente est traitée selon les règles ci-dessus :** ⟪राजन्⟫ » ⟪राजीय⟫-
+*   **le nasal final tombe, la voyelle précédente est traitée selon les règles ci-dessus :** ⟪राजन्⟫ » ⟪राजीय⟫-
 *   **les autres consonnes finales restent inchangées**
-:::::::
+:::
 Exemples :
 
-| ⟪पुत्र⟫ m. "Fils" | ⟪पुत्रीयति⟫ "il souhaite un fils" |
+| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रीयति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
-| ⟪कवि⟫ m. "Poète" | ⟪कवीयति⟫ "il souhaite un poète" |
-| ⟪गो⟫ f. "Vache" | ⟪गव्यति⟫ "il souhaite une vache" |
-| ⟪राजन्⟫ m. "Roi" | ⟪राजीयति⟫ "il souhaite un roi" |
-| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "il traite quelqu'un comme Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palais" | ⟪प्रासादीयति⟫ "il considère (par exemple sa cabane) comme un palais" |
+| ⟪कवि⟫ m. "Dichter" | ⟪कवीयति⟫ "er wünscht sich einen Dichter" |
+| ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
+| ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
+| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
+| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
 
-Notez la signification de :
+Veuillez noter l'importance de :
 
-| ⟪तपस्⟫ n. "Austérité" | ⟪तपस्यति⟫ "il pratique l'austérité" |
+| ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" |
 | --- | --- |
-| ⟪नमस्⟫ n. "Vénération" | ⟪नमस्यति⟫ "il vénère" |
+| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
 
-:::media
+::: media
 ![](/images/lekt6105.webp)
-Fig. : ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
+Fig. : ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ?
 ⟪हरिद्वार⟫
 (Source de l'image : [Détails](/fr/licenses#lekt6105))
-::::::media
+:::
+
+::: media
 ![](/images/lekt6103.webp)
 Fig. : ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
 (Source de l'image : [Détails](/fr/licenses#lekt6103))
 :::
 ### 61.4.3. Formation avec le suffixe -kāmya, Parasmaipada
 
-:::grammar-box
+::: grammar-box
 **Signification :**
 
-**quelqu'un souhaite ce qui est désigné par le radical nominal**
+**quelqu’un souhaite ce qui est désigné par la racine nominale**
 :::
 Exemples :
 
-| ⟪पुत्र⟫ m. "fils" | ⟪पुत्रकाय्म्यति⟫ "il souhaite un fils" |
+| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
-| ⟪यशस्⟫ n. "gloire" | ⟪यशस्काम्यति⟫ "il souhaite la gloire" |
+| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
 
-:::media
+::: media
 ![](/images/lekt6109.webp)
 Fig. : ⟪यशस्काम्यन्ति⟫
 ⟪मुंबई⟫
@@ -452,19 +465,21 @@ Fig. : ⟪यशस्काम्यन्ति⟫
 :::
 ### 61.4.4. Formation avec le suffixe -sya ou -asya, Parasmaipada
 
-::::grammar-box
+::: grammar-box
 **Signification :**
 
-:::indent
-**quelqu'un désire ardemment ce qui est désigné par la base nominale.**
-:::::::
+:::
+::: indent
+**quelqu’un désire ardemment ce qui est désigné par la racine nominale.**
+:::
 Exemples :
 
-:::grammar-box
-| ⟪मधु⟫ n. "Miel" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "il désire ardemment le miel" |
+::: grammar-box
+| ⟪मधु⟫ n. "Honig" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "er verlangt heftig nach Honig" |
 | --- | --- |
-| ⟪अश्व⟫ m. "Étalon" | ⟪अश्वस्यति⟫ "(la jument) désire ardemment l'étalon" |
-::::::media
+| ⟪अश्व⟫ m. "Hengst" | ⟪अश्वस्यति⟫ "(die Stute) verlangt heftig nach dem Hengst" |
+:::
+::: media
 ![](/images/lekt6110.webp)
 Fig. : ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
 Karli
@@ -472,81 +487,86 @@ Karli
 :::
 ### 61.4.5. Formation avec le suffixe -ya, Ātmanepada
 
-::::grammar-box
+::: grammar-box
 **Signification :**
 
-:::indent
-**quelqu’un se comporte comme ce que désigne le radical nominal, ou lui ressemble.**
+:::
+::: indent
+**quelqu’un se comporte comme ce que, ou est semblable à, ce qui est désigné par la racine nominale.**
 :::
 **Formation :**
 
-*   **-a final » -ā**
-*   **-ā final reste inchangé**
+*   **la finale -a » -ā**
+*   **la finale -ā reste inchangée**
 *   **sinon comme avant -ya, Parasmaipada (voir ci-dessus 4.2.)**
-*   **-as final optionnellement » -ā**
-*   **le radical féminin devient généralement un radical masculin**
+*   **la finale -as optionnellement » -ā**
+*   **le thème féminin généralement » thème masculin**
 
-::::
 Exemples :
 
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ « il se comporte comme Kṛṣṇa » |
+| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
 | --- | --- |
-| ⟪यशस्⟫ 3 « célèbre » | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ « il se comporte comme un célèbre » |
-| ⟪कुमारी⟫ f. « fille » | ⟪कुमारायते⟫ « il se comporte comme une fille » |
+| ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
+| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
 
-::::grammar-box
-**Pour certains radicaux nominaux, ce suffixe signifie : quelque chose devient comme ce que désigne le radical nominal, ou devient ce à quoi il désigne :**
+::: grammar-box
+**Pour certaines bases nominales, ce suffixe signifie : quelque chose devient comme ce qui est désigné par la base nominale, ou devient ce qui est désigné par la base nominale :**
 
-:::indent
-par ex. ⟪उन्मनस्⟫ 3 « agité » : ⟪उन्मनायते⟫ « il devient agité »
 :::
-**Dans certains cas, ce suffixe forme des verbes avec d’autres significations :**
+::: indent
+par ex. ⟪उन्मनस्⟫ 3 « provoque » : ⟪उन्मनायते⟫ « il est provoqué »
+:::
+**Dans certains cas, ce suffixe forme des verbes avec d'autres significations :**
 
 Exemples :
 
-:::indent
-⟪दुःख⟫ n. « souffrance » : ⟪दुःखायते⟫ « il éprouve de la souffrance »
-⟪शब्द⟫ m. « son » : ⟪शब्दायते⟫ « il produit un son »
-::::::::::media
+::: indent
+⟪दुःख⟫ n. « Souffrance » : ⟪दुःखायते⟫ « il éprouve de la souffrance »
+⟪शब्द⟫ m. « Son » : ⟪शब्दायते⟫ « il émet un son »
+:::
+::: media
 ![](/images/lekt6111.webp)
 Fig. : ⟪श्वानौ⟫ ⟪शब्दायेते⟫
-(Source de l’image : [Détails](/fr/licenses#lekt6111))
+(Source de l'image : [Détails](/fr/licenses#lekt6111))
 :::
 ### 61.4.6. Formation avec le suffixe -aya, -āpaya
 
-:::grammar-box
-**Différentes significations.**
+::: grammar-box
+**Conjuguer comme le causatif.**
 
-**Conjugué comme le causatif.**
+Exemples :
 :::
 Exemples :
 
-| ⟪सत्य⟫ 3 « vrai » | ⟪स्तयपायति⟫ « il déclare vrai » |
+| ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" |
 | --- | --- |
-| ⟪मुण्ड⟫ 3 « rasé » | ⟪मुण्डयति⟫ « il rase » |
+| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" |
 
-:::media
+::: media
 ![](/images/lekt6113.webp)
 Fig. : ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
 Thaïlande - เมืองไทย
 (Source de l'image : [Détails](/fr/licenses#lekt6113))
 :::
-Une liste de dénominaux par exemple dans :
+Une liste de datifs par exemple dans :
 
-:::media
+::: media
 ![](/images/lekt6112.jpg)
 Fig. :
-1845 - 1878 Professeur de philologie indo-orientale à l'Université de Copenhague
+1845 - 1878 Professeur de philologie indienne et orientale à l'Université de Copenhague
 (Source de l'image : [Détails](/fr/licenses#lekt6112))
-::::::indent
-**Westergaard**, Niels Ludvig &lt;1815-1878&gt; : Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- P. 335 - 341.
+:::
+
+::: indent
+**Westergaard**, Niels Ludvig \<1815-1878\> : Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
 ## 61.5. Le bénédictif (⟪आशीर्लिङ्⟫)
 
-::::grammar-box
+::: grammar-box
 **Signification :**
 
-:::indent
+:::
+::: indent
 **Vœu de bénédiction**
 :::
 **Formation :**
@@ -555,7 +575,7 @@ Fig. :
 
 **racine au degré zéro + yās + désinence secondaire**
 
-:::indent
+::: indent
 par ex. ⟪बुध्यासम्⟫ « que je comprenne ! »
 :::
 **Ātmanepada:**
@@ -566,40 +586,41 @@ par ex. ⟪बुध्यासम्⟫ « que je comprenne ! »
 
 **(au degré fort) racine + ⟪ै⟫ + sī(y) + désinence secondaire**
 
-:::indent
+::: indent
 par ex.
 ⟪जि⟫ : ⟪जेषीय⟫ « que je triomphe pour mon propre intérêt ! »
 ⟪बुध्⟫ : ⟪बोधिषीय⟫ « que je comprenne »
 :::
 **Les règles concernant la forme de la racine sont détaillées chez Kielhorn, Grammatik § 380ss.**
 
-::::
-Paradigme :
+Paradigma :
 
 ⟪बुध्⟫ « s’éveiller »
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ |
-| **3\. ⟪प्रथमः⟫** | ***⟪बुध्यात्⟫*** | ⟪बुध्यास्ताम्⟫ | ***⟪बुध्यासुर्⟫*** | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
-::::::media
+| **3\. ⟪प्रथमः⟫** | *⟪बुध्यात्⟫* | ⟪बुध्यास्ताम्⟫ | *⟪बुध्यासुर्⟫* | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
+:::
+::: media
 ![](/images/lekt6114.webp)
 Lég. : ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
 (Source de l’image : [Détails](/fr/licenses#lekt6114))
 :::
-## 61.6. Le Conditionnel (⟪ऌङ्⟫)
+## 61.6. Der Konditionalis (⟪ऌङ्⟫)
 
-:::grammar-box
+::: grammar-box
 **Le Conditionnel (⟪ऌङ्⟫) est utilisé lorsqu'on veut exprimer dans des phrases conditionnelles que ce qui est nommé comme condition n'est pas le cas / n'a pas été le cas / ne sera pas le cas. Le conditionnel doit être utilisé dans de telles phrases, tant dans la phrase conditionnelle que dans la phrase principale.**
 :::
 Exemple :
 
-:::indent
+::: indent
 ⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ « S'il avait bien plu (ou pleuvrait), il y aurait abondance de nourriture. (Mais il n'a pas (suffisamment) plu.) »
-::::::grammar-box
+:::
+::: grammar-box
 **Formation du conditionnel (⟪ऌङ्⟫) :**
 
 **Augment + racine du futur simple (⟪ऌत्⟫) + terminaison secondaire**
@@ -612,7 +633,7 @@ Paradigme :
 
 ⟪भू⟫ « être, devenir »
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -620,33 +641,37 @@ Paradigme :
 | **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
 :::
-## 61.7. Déclinaison des noms en -ai, -o, -au
+## 61.7. Deklination der Nomina auf -ai, -o, -au
 
-:::grammar-box
+::: grammar-box
 **Devant une consonne, ces radicaux se terminent par -ai, -o, -au ; devant une voyelle par -āy, -av, -āv**
 
 **⟪गो⟫ m.f. "bœuf, vache" présente une alternance de radical.** Voir l'explication détaillée chez Thumb-Hauschild § 296/7.
 :::
 Paradigmes : Kielhorn, Grammatik § 153 :
 
-:::media
+::: media
 ![](/images/lekt6115.webp)
 (Source de l'image : [Détails](/fr/licenses#lekt6115))
-::::::media
+:::
+
+::: media
 ![](/images/lekt6118.webp)
 Fig. : ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 (Source de l'image : [Détails](/fr/licenses#lekt6118))
 :::
-## 61.8. Autres pronoms
+## 61.8. Restliche Pronomina
 
-### 61.8.1. Pronoms personnels du duel
+### 61.8.1. Personalpronomen des Dual
 
-Kielhorn, Grammatique § 177 :
+Kielhorn, Grammatik § 177 :
 
-:::media
+::: media
 ![](/images/lekt6116.jpg)
 (Source de l'image : [Détails](/fr/licenses#lekt6116))
-::::::media
+:::
+
+::: media
 ![](/images/lekt6117.webp)
 Fig. : ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
 Peuple Apatani, Arunachal Pradesh
@@ -656,56 +681,57 @@ Peuple Apatani, Arunachal Pradesh
 
 Masculin (⟪पुंस्⟫)
 
-:::grammar-box
+::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: | :---: |
-| **⟪प्रथमा⟫** | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमी⟫ |
-| **⟪द्वितीया⟫** | ⟪अमुम्⟫ | ^^ | ⟪अमून्⟫ |
-| **⟪तृतीया⟫** | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमीभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪अमुष्मै⟫ | ^^ | ⟪अमीभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪अमुष्मात्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
+| ⟪प्रथमा⟫ | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमी⟫ |
+| ⟪द्वितीया⟫ | ⟪अमुम्⟫ | ^^ | ⟪अमून्⟫ |
+| ⟪तृतीया⟫ | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪अमुष्मै⟫ | ^^ | ⟪अमीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪अमुष्मात्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
 :::
 Neutre (⟪नपुंसक⟫)
 
-:::grammar-box
+::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: | :---: |
-| **⟪प्रथमा⟫** | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
-| **⟪द्वितीया⟫** | ^^ | ^^ | ^^ |
+| ⟪प्रथमा⟫ | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
+| ⟪द्वितीया⟫ | ^^ | ^^ | ^^ |
 
-Le reste comme le masculin
+Rester comme masculin
 
 :::
 Féminin (⟪स्त्री⟫)
 
-:::grammar-box
+::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: | :---: |
-| **⟪प्रथमा⟫** | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमूस्⟫ |
-| **⟪द्वितीया⟫** | ⟪अमूम्⟫ | ^^ | ^^ |
-| **⟪तृतीया⟫** | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमूभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪अमुष्यै⟫ | ^^ | ⟪अमूभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪अमुष्यास्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
+| ⟪प्रथमा⟫ | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमूस्⟫ |
+| ⟪द्वितीया⟫ | ⟪अमूम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमूभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪अमुष्यै⟫ | ^^ | ⟪अमूभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪अमुष्यास्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Libération dans l'océan de la littérature sanskrite : ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
 Après l'achèvement du cours de sanskrit, ne commence que la véritable « nage » dans l'océan de la littérature sanskrite. Puisque cet océan est plein d'obstacles, il est approprié de commencer cette nouvelle étape de la vie par une invocation à Gaṇeśa :
 
-:::media
+::: media
 ![](/images/lekt6101.webp)
 Fig. : ⟪श्रीगणनाथः⟫
 Halebidu (ಹಳೆಬೀಡು), XIIe/XIIIe s. apr. J.-C.
 (Source de l'image : [Détails](/fr/licenses#lekt6101))
-:::::::grammar-box
-:::no-header
+:::
+
+::: no-header
 |   |   |
 | --- | --- |
 | ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
-:::::::
+:::
 ***ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫*** de Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
 Compositeur et poète : Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
@@ -713,13 +739,12 @@ Compositeur et poète : Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 15
 Rāga : Malahari (correspondant à ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை) :
 
 *   ārohaṇa : s r1 m1 p d1 S
-    
+
 *   avarohaṇa : S d1 p m1 g3 r1 s
-    
 
 Tāla : Rūpaka : o |4
 
-:::media
+::: media
 ![](/images/lekt6119.webp)
 Fig. : Mélodie, rapportée à do, peut être transposée selon la tessiture vocale.
 (Source de l'image : [Détails](/fr/licenses#lekt6119))
@@ -728,19 +753,18 @@ Fig. : Mélodie, rapportée à do, peut être transposée selon la tessiture voc
 
 Maintenant que vous avez appris les bases du sanskrit, vous êtes peut-être comme les tout-petits dans la vidéo : parfois maladroits, mais désireux d'apprendre et de savoir, et prenant plaisir à l'activité. Gardez jusqu'à la fin de votre vie « un esprit de débutant ».
 
-:::
+::: center
 center
 C'est le vœu de votre Alois Payer
 
 Ofterdingen, 2009-03-09
 
-***⟪ॐ⟫***
+*⟪ॐ⟫*
 
 FIN DU COURS DE SANSKRIT
 :::
----
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt6102 :** [Source de l'image : Banque mondiale / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Consulté le 2009-03-06. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
 

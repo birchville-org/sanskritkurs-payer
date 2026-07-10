@@ -10,42 +10,42 @@ last_reconstructed: 2026-05-15
 
 A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:
 
-1.  ⟪आप्⟫ — **⟪आप्त्वा⟫** (nachdem er erlangt hat)
-2.  ⟪प्राप्⟫ — **⟪प्राप्य⟫** (nachdem er erreicht hat)
-3.  ⟪समास्⟫ — **⟪समास्य⟫** (nachdem er sich hingesetzt hat)
-4.  ⟪आस्⟫ — **⟪आसित्वा⟫** (nachdem er gesessen hat)
-5.  ⟪समि⟫ — **⟪समित्य⟫** (nachdem er zusammengekommen ist)
-6.  ⟪संस्कृ⟫ — **⟪संस्कृत्य⟫** (nachdem er zubereitet/geheiligt hat)
-7.  ⟪कृ⟫ — **⟪कृत्वा⟫** (nachdem er getan hat)
-8.  ⟪गम्⟫ — **⟪गत्वा⟫** (nachdem er gegangen ist)
-9.  ⟪उपगम्⟫ — **⟪उपगत्य⟫** / **⟪उपगम्य⟫** (nachdem er herangegangen ist)
-10.  ⟪जि⟫ — **⟪जित्वा⟫** (nachdem er gesiegt hat)
-11.  ⟪विजि⟫ — **⟪विजित्य⟫** (nachdem er besiegt hat)
-12.  ⟪तन्⟫ — **⟪तत्वा⟫** (nachdem er gespannt hat)
-13.  ⟪दह्⟫ — **⟪दग्ध्वा⟫** (nachdem er verbrannt hat)
-14.  ⟪उपदिश्⟫ — **⟪उपदिश्य⟫** (nachdem er angewiesen hat)
-15.  ⟪नी⟫ — **⟪नीत्वा⟫** (nachdem er geführt hat)
-16.  ⟪पच्⟫ — **⟪पक्त्वा⟫** (nachdem er gekocht hat)
-17.  ⟪उपपद्⟫ — **⟪उपपद्य⟫** (nachdem er herangetreten ist)
-18.  ⟪पा⟫ ⟪१⟫ — **⟪पीत्वा⟫** (nachdem er getrunken hat)
-19.  ⟪प्रच्छ्⟫ — **⟪पृष्ट्वा⟫** (nachdem er gefragt hat)
-20.  ⟪बुध्⟫ — **⟪बुद्ध्वा⟫** (nachdem er erkannt hat)
-21.  ⟪सम्बुध्⟫ — **⟪सम्बुध्य⟫** (nachdem er zur Erkenntnis erwacht ist)
-22.  ⟪भज्⟫ — **⟪भक्त्वा⟫** (nachdem er zugeteilt hat)
-23.  ⟪भू⟫ — **⟪भूत्वा⟫** (nachdem er geworden ist)
-24.  ⟪प्रभू⟫ — **⟪प्रभूय⟫** (nachdem er entstanden ist)
-25.  ⟪मन्⟫ — **⟪मत्वा⟫** (nachdem er gemeint hat)
-26.  ⟪मुच्⟫ — **⟪मुक्त्वा⟫** (nachdem er befreit hat)
-27.  ⟪विमुच्⟫ — **⟪विमुच्य⟫** (nachdem er losgelassen hat)
-28.  ⟪मृ⟫ — **⟪मृत्वा⟫** (nachdem er gestorben ist)
-29.  ⟪यज्⟫ — **⟪ईष्ट्वा⟫** (nachdem er geopfert hat)
-30.  ⟪लभ्⟫ — **⟪लब्ध्वा⟫** (nachdem er erhalten hat)
-31.  ⟪उपलभ्⟫ — **⟪उपलभ्य⟫** (nachdem er wahrgenommen hat)
-32.  ⟪वच्⟫ — **⟪उक्त्वा⟫** (nachdem er gesprochen hat)
-33.  ⟪प्रवच्⟫ — **⟪प्रोच्य⟫** (nachdem er verkündet hat)
-34.  ⟪वद्⟫ — **⟪उदित्वा⟫** (nachdem er gesprochen hat)
-35.  ⟪प्रवद्⟫ — **⟪प्रोद्य⟫** (nachdem er hervorgesagt hat)
-36.  ⟪हन्⟫ — **⟪हत्वा⟫** (nachdem er erschlagen hat)
+1.  ⟪आप्⟫ — ⟪आप्त्वा⟫ (nachdem er erlangt hat)
+2.  ⟪प्राप्⟫ — ⟪प्राप्य⟫ (nachdem er erreicht hat)
+3.  ⟪समास्⟫ — ⟪समास्य⟫ (nachdem er sich hingesetzt hat)
+4.  ⟪आस्⟫ — ⟪आसित्वा⟫ (nachdem er gesessen hat)
+5.  ⟪समि⟫ — ⟪समित्य⟫ (nachdem er zusammengekommen ist)
+6.  ⟪संस्कृ⟫ — ⟪संस्कृत्य⟫ (nachdem er zubereitet/geheiligt hat)
+7.  ⟪कृ⟫ — ⟪कृत्वा⟫ (nachdem er getan hat)
+8.  ⟪गम्⟫ — ⟪गत्वा⟫ (nachdem er gegangen ist)
+9.  ⟪उपगम्⟫ — ⟪उपगत्य⟫ / ⟪उपगम्य⟫ (nachdem er herangegangen ist)
+10.  ⟪जि⟫ — ⟪जित्वा⟫ (nachdem er gesiegt hat)
+11.  ⟪विजि⟫ — ⟪विजित्य⟫ (nachdem er besiegt hat)
+12.  ⟪तन्⟫ — ⟪तत्वा⟫ (nachdem er gespannt hat)
+13.  ⟪दह्⟫ — ⟪दग्ध्वा⟫ (nachdem er verbrannt hat)
+14.  ⟪उपदिश्⟫ — ⟪उपदिश्य⟫ (nachdem er angewiesen hat)
+15.  ⟪नी⟫ — ⟪नीत्वा⟫ (nachdem er geführt hat)
+16.  ⟪पच्⟫ — ⟪पक्त्वा⟫ (nachdem er gekocht hat)
+17.  ⟪उपपद्⟫ — ⟪उपपद्य⟫ (nachdem er herangetreten ist)
+18.  ⟪पा⟫ ⟪१⟫ — ⟪पीत्वा⟫ (nachdem er getrunken hat)
+19.  ⟪प्रच्छ्⟫ — ⟪पृष्ट्वा⟫ (nachdem er gefragt hat)
+20.  ⟪बुध्⟫ — ⟪बुद्ध्वा⟫ (nachdem er erkannt hat)
+21.  ⟪सम्बुध्⟫ — ⟪सम्बुध्य⟫ (nachdem er zur Erkenntnis erwacht ist)
+22.  ⟪भज्⟫ — ⟪भक्त्वा⟫ (nachdem er zugeteilt hat)
+23.  ⟪भू⟫ — ⟪भूत्वा⟫ (nachdem er geworden ist)
+24.  ⟪प्रभू⟫ — ⟪प्रभूय⟫ (nachdem er entstanden ist)
+25.  ⟪मन्⟫ — ⟪मत्वा⟫ (nachdem er gemeint hat)
+26.  ⟪मुच्⟫ — ⟪मुक्त्वा⟫ (nachdem er befreit hat)
+27.  ⟪विमुच्⟫ — ⟪विमुच्य⟫ (nachdem er losgelassen hat)
+28.  ⟪मृ⟫ — ⟪मृत्वा⟫ (nachdem er gestorben ist)
+29.  ⟪यज्⟫ — ⟪ईष्ट्वा⟫ (nachdem er geopfert hat)
+30.  ⟪लभ्⟫ — ⟪लब्ध्वा⟫ (nachdem er erhalten hat)
+31.  ⟪उपलभ्⟫ — ⟪उपलभ्य⟫ (nachdem er wahrgenommen hat)
+32.  ⟪वच्⟫ — ⟪उक्त्वा⟫ (nachdem er gesprochen hat)
+33.  ⟪प्रवच्⟫ — ⟪प्रोच्य⟫ (nachdem er verkündet hat)
+34.  ⟪वद्⟫ — ⟪उदित्वा⟫ (nachdem er gesprochen hat)
+35.  ⟪प्रवद्⟫ — ⟪प्रोद्य⟫ (nachdem er hervorgesagt hat)
+36.  ⟪हन्⟫ — ⟪हत्वा⟫ (nachdem er erschlagen hat)
 
 B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
@@ -82,12 +82,12 @@ Wenn sie Geld bekommen, verderben Mönche, die den Weg Buddhas gehen.
 
 ⟪९⟫. **⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫**
 (⟪अनार्यैः⟫ ⟪शत्रुभिः⟫ ⟪।⟫ ⟪नराः⟫ ⟪सिंहा⟫ ⟪इव⟫)
-Die löwengleichen Männer sind mit den Feinden, die keine Ārya sind, zusammengestoßen, und siegen vollkommen.
+Die löwengleichen Männer sind mit den Feinden, die keine Ārya sind, zusammengestossen, und siegen vollkommen.
 
 ⟪१०⟫. **⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫**
 Wenn er Verdienstvolles getan hat und nur die Wahrheit gesprochen hat, kommt ein Mensch in keine Hölle.
 
-:::media
+::: media
 ![](/images/uebung034.jpg)
 Abb.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
 (Bildquelle: [Details](/licenses#uebung034))
@@ -96,7 +96,7 @@ Abb.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्
 
 ## Passiv-Konstruktionen
 
-C) Machen Sie aus obigen Sätzen (außer Sätze 8 und 10) Passivkonstruktionen:
+C) Machen Sie aus obigen Sätzen (ausser Sätze 8 und 10) Passivkonstruktionen:
 
 ⟪१⟫. ⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदास्याद्यते⟫ ⟪॥⟫
 

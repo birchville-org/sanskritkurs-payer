@@ -1,572 +1,593 @@
 ---
-title: Lektion 51
-subtitle: "⟪उपपद⟫-Komposita"
+title: 第51课
+subtitle: "⟪उपपद⟫-复合词"
 lesson_id: 51
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 51
 
 ## 51.1. ⟪उपपद⟫-Komposita
 
-::::grammar-box
-**⟪उपपद⟫-Komposita (⟪उपपद⟫ n. "Begleitwort") sind ⟪तत्पुरुष⟫ mit einem Verbalnomen als Hinterglied, das nur als Hinterglied von Komposita auftritt, nicht aber als selbständiges, einzelnes Wort. ⟪उपपद⟫ werden mit den ⟪कृत्⟫-Suffixen** <!-- TODO: Fallback translation -->
-* **-Ø** <!-- TODO: Fallback translation -->
-* **-a** <!-- TODO: Fallback translation -->
-* **-t** <!-- TODO: Fallback translation -->
+::: grammar-box
+**⟪उपपद⟫复合词（⟪उपपद⟫ n. “伴随词”）是带有动词性名词作为后成分的⟪तत्पुरुष⟫，该后成分仅作为复合词的后成分出现，而不作为独立的单个词出现。⟪उपपद⟫带有⟪कृत्⟫后缀**
+* **-Ø**
+* **-a**
+* **-t**
 
-**gebildet. Sie sind Nomina agentis, d. h. sie bezeichnen einen Agens (⟪कर्तृ⟫), der die durch die zugrundeliegende Wurzel bezeichnete Handlung tut.** <!-- TODO: Fallback translation -->
+**gebildet. Sie sind Nomina agentis, d. h. sie bezeichnen einen Agens (⟪कर्तृ⟫), der die durch die zugrundeliegende Wurzel bezeichnete Handlung tut.**
 
-**Solche Komposita werden von den einheimischen Kommentatoren nicht durch Nominalkombinationen, sondern mittels Verbalformen aufgelöst:** <!-- TODO: Fallback translation -->
+**Solche Komposita werden von den einheimischen Kommentatoren nicht durch Nominalkombinationen, sondern mittels Verbalformen aufgelöst:**
 
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪सुखकरः⟫ = ⟪सुखं⟫ ⟪करोतीति⟫ ⟪सुखकरः⟫ <!-- TODO: Fallback translation -->
+:::
+::: indent
+⟪सुखकरः⟫ = ⟪सुखं⟫ ⟪करोतीति⟫ ⟪सुखकरः⟫
 
-⟪कुलघ्नः⟫ = ⟪कुलम्हन्तीति⟫ ⟪कुलघ्नः⟫ <!-- TODO: Fallback translation -->
-::::::
-Beispiele: <!-- TODO: Fallback translation -->
+⟪कुलघ्नः⟫ = ⟪कुलम्हन्तीति⟫ ⟪कुलघ्नः⟫
+:::
+示例：
 
-a) ⟪कृत्⟫-Suffix \-Ø <!-- TODO: Fallback translation -->
+a) ⟪कृत्⟫后缀 \-Ø
 
-:::indent
-\-⟪नी⟫ 3 "führend" z.B. ⟪सेनानी⟫ m. "Heerführer" (⟪सेना⟫ f. "Heer") <!-- TODO: Fallback translation -->
+::: indent
+\-⟪नी⟫ 3 "führend" z.B. ⟪सेनानी⟫ m. "Heerführer" (⟪सेना⟫ f. "Heer")
 
-\-⟪भुज्⟫ 3 "genießend, essen" z.B. ⟪भूमिभुज्⟫ m. "König" (⟪भूमि⟫ f. "Erde") <!-- TODO: Fallback translation -->
+\-⟪भुज्⟫ 3 “genießend, essen” z.B. ⟪भूमिभुज्⟫ m. “König” (⟪भूमि⟫ f. “Erde”)
 
-\-⟪विद्⟫ 3 "wissend" z.B. ⟪धर्मविद्⟫  3 "den Dharma kennend" <!-- TODO: Fallback translation -->
-::::::media
+\-⟪विद्⟫ 3 “知晓”，例如 ⟪धर्मविद्⟫ 3 “了解法”
+:::: media
 ![](/images/lekt5101.webp)
-Abb.: ⟪भूमिभुज्⟫
-⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008)
-(Bildquelle: [Details](/licenses#lekt5101)) <!-- TODO: Fallback translation -->
+图：⟪भूमिभुज्⟫
+⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫，⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫（2001 - 2008）
+（图片来源：[详情](/zh-CN/licenses#lekt5101)）
+::::
 :::
-b) ⟪कृत्⟫-Suffix -t <!-- TODO: Fallback translation -->
+b) ⟪कृत्⟫后缀 -t
 
-::::indent
-\-⟪कृत्⟫ 3 "machend" z. B. <!-- TODO: Fallback translation -->
+::: indent
+\-⟪कृत्⟫ 3 "machend" z. B.
 
-:::indent
-⟪कुलक्षयकृत्⟫ 3 "Vernichtung der Familie bewirkend" <!-- TODO: Fallback translation -->
-
-⟪पापकृत्⟫ 3 "Böses tuend, Übeltäter" <!-- TODO: Fallback translation -->
 :::
-\-⟪जित्⟫ 3 "besiegend", z. B. <!-- TODO: Fallback translation -->
+::: indent
+⟪कुलक्षयकृत्⟫ 3 “毁灭家族”
 
-:::indent
-⟪शत्रुजित्⟫ 3 "die Feinde besiegend" <!-- TODO: Fallback translation -->
-
-⟪पुरुजित्⟫ 3 "viele besiegend" (⟪पुरु⟫ 3 "viel, reichlich") <!-- TODO: Fallback translation -->
+⟪पापकृत्⟫ 3 “Übles tuend, Übeltäter”
 :::
-\-⟪भृत्⟫ 3 "tragend" z. B.  ⟪भूमिभृत्⟫ m. "König" <!-- TODO: Fallback translation -->
-::::::media
+\-⟪जित्⟫ 3 “siegend”, z. B.
+
+::: indent
+⟪शत्रुजित्⟫ 3 “die Feinde besiegend”
+
+⟪पुरुजित्⟫ 3 “战胜众多者”（⟪पुरु⟫ 3 “多，丰富”）
+:::
+\-⟪भृत्⟫ 3 “承载者”，例如 ⟪भूमिभृत्⟫ 阳性名词 “国王”
+::: media
 ![](/images/lekt5103.webp)
-Abb.: ⟪पापकृत्⟫
-⟪भरतपुर⟫, ⟪राजस्थान⟫
-(Bildquelle: [Details](/licenses#lekt5103)) <!-- TODO: Fallback translation -->
+图：⟪पापकृत्⟫
+⟪भरतपुर⟫，⟪राजस्थान⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5103)）
 :::
-c) ⟪कृत्⟫-Suffix -a <!-- TODO: Fallback translation -->
+c) ⟪कृत्⟫后缀 -a
 
-:::indent
-\-⟪ग⟫ 3 "gehend (in, zu)" (vermutlich zur Wurzel gā, Tiefst. g + a) z.B. ⟪खग⟫ 3 "fliegend" m. "Vogel, Wandelstern" (⟪ख⟫ n. "Loch, 'Luft'raum") <!-- TODO: Fallback translation -->
+::: indent
+\-⟪ग⟫ 3 “gehen（在，向）”（可能源自词根 gā，最古形式 g + a）例如 ⟪खग⟫ 3 “飞翔” m. “鸟，行星”（⟪ख⟫ n. “孔，‘天空’空间”）
 
-\-⟪घ्न⟫ 3 "erschlagend" z.B. ⟪कुलघ⟫ 3 "Familie(n) tötend" <!-- TODO: Fallback translation -->
+\-⟪घ्न⟫ 3 “erschlagend” z.B. ⟪कुलघ⟫ 3 “Familie(n) tötend”
 
-\-⟪ज⟫ 3 (jña » jā » Tiefst. j + a) "abstammend von, geboren in" z.B. ⟪आत्मज⟫ "Sohn" <!-- TODO: Fallback translation -->
+\-⟪ज⟫ 3 (jña » jā » Tiefst. j + a) “abstammend von, geboren in” z.B. ⟪आत्मज⟫ “Sohn”
 
-\-⟪ज्ञ⟫ 3 "kundig" (jñ-a) z.B. ⟪सर्वज्ञ⟫ 3 "allwissend" <!-- TODO: Fallback translation -->
+\-⟪ज्ञ⟫ 3 “kundig” (jñ-a) z.B. ⟪सर्वज्ञ⟫ 3 “allwissend”
 
-\-⟪द⟫ 3 "gebend" (d-a) z.B. ⟪वारिद⟫ m. "Wolke" (⟪वारि⟫ n. "Wasser") <!-- TODO: Fallback translation -->
+\-⟪द⟫ 3 “给予”（d-a）例如 ⟪वारिद⟫ m. “云”（⟪वारि⟫ n. “水”）
 
-\-⟪प⟫ 3 "trinkend" (p-a) z.B. ⟪द्विप⟫ m. "Elefant (zweimal trinkend)" <!-- TODO: Fallback translation -->
+\-⟪प⟫ 3 “trinkend” (p-a) z.B. ⟪द्विप⟫ m. “Elefant (zweimal trinkend)”
 
-\-⟪प⟫ 3 "schützend" (p-a) z.B. ⟪भूप⟫ "die Erde schützend = König" <!-- TODO: Fallback translation -->
+\-⟪प⟫ 3 “保护”（p-a）例如 ⟪भूप⟫ “保护大地 = 国王”
 
-\-⟪स्थ⟫ 3 "stehend in, befindlich in" (sth-a) z.B. ⟪गृहस्थ⟫ m. "Haushalter, Hausvater" <!-- TODO: Fallback translation -->
+\-⟪स्थ⟫ 3 “stehend in, befindlich in” (sth-a) z.B. ⟪गृहस्थ⟫ m. “Haushalter, Hausvater”
 
-\-⟪कर⟫ 3 "bewirkend, tuend" z.B. ⟪सुखकर⟫ 3 "Glück verschaffend" <!-- TODO: Fallback translation -->
+\-⟪कर⟫ 3 „wirkend, tätig“ z.B. ⟪सुखकर⟫ 3 „Glück bringend“
 
-\-⟪स्मर⟫ 3 "sich erinnernd" z.B. ⟪जातिस्मर⟫ 3 "sich früherer Geburten erinnernd" <!-- TODO: Fallback translation -->
-::::::media
+\-⟪स्मर⟫ 3 “忆念”，例如 ⟪जातिस्मर⟫ 3 “忆念前世”
+:::: media
 ![](/images/lekt5102.webp)
-Abb.: ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪हस्तेन⟫ ⟪च⟫ ⟪मुखेन⟫ ⟪च⟫
+图：⟪द्विपो⟫ ⟪द्विर्पिबति⟩ : ⟪हस्तेन⟫ ⟪च⟫ ⟪मुखेन⟫ ⟪च⟫
 ⟪नेपाल⟫
-(Bildquelle: [Details](/licenses#lekt5102)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt5102)）
+::::
 :::
-## 51.2. Deklination der Stämme, die auf einen einfachen Konsonanten (außer Nasal, Halbvokal, -s) auslauten
+## 51.2. 以简单辅音（鼻音、半元音、-s 除外）结尾的词干的变格
 
-:::grammar-box
-**Stämme, die auf einen einfachen Konsonanten (außer Nasal, Halbvokal, -s) auslauten, haben keine Stammabstufung. Die Deklination geschieht völlig regelmäßig durch Anfügung der regulären Kasusendungen.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**词根以简单辅音（鼻音、半元音、-s 除外）结尾的词，没有词根交替。其变格完全规则，只需附加标准的格词尾即可。**
 
-**Einzige Unregelmäßigkeit: im Nom.,Akk.,Vok.pl.Neutrum wird vor den Stammauslaut ein Nasal eingeschoben.** <!-- TODO: Fallback translation -->
+**唯一的例外：在主格、宾格、呼格复数中性中，词干末尾前插入一个鼻音。**
 :::
-### 51.2.1. Stämme auf nichtpalatalen Verschlusslaut
+### 51.2.1. 以非腭化塞音结尾的词干
 
-:::grammar-box
-**Es gelten die üblichen Lautveränderungsgesetze, d.h.** <!-- TODO: Fallback translation -->
-* **im Auslaut steht der entsprechende stimmlose Nichtaspirat** <!-- TODO: Fallback translation -->
-* **vor dem -su des Lok.plur wird der Auslaut zunächst durch den entsprechenden stimmlosen Nichtaspiraten ersetzt, dann treten die entsprechenden Lautveränderungen ein** <!-- TODO: Fallback translation -->
-* **vor stimmhaftem Konsonanten wird der Auslaut durch den entsprechenden stimmhaften Nichtaspiraten ersetzt.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**适用常规的音变规律，即：**
+* **词尾为相应的清音不送气音**
+* **在复数位格后缀 -su 之前，词尾首先被相应的清音不送气音取代，随后发生相应的音变**
+* **在浊辅音之前，词尾被相应的浊音不送气音取代。**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-⟪शत्रुजित्⟫ 3 "Feinde besiegend" <!-- TODO: Fallback translation -->
+⟪शत्रुजित्⟫ 3 “战胜敌人”
 
-::::indent
-Maskulinum, Femininum: <!-- TODO: Fallback translation -->
+::: indent
+阳性，阴性：
 
-::::indent
-Singular: <!-- TODO: Fallback translation -->
-
-:::indent
-Nom.Vok. ⟪शत्रुजित्⟫ (śatrujit + s)
-Akk. ⟪शत्रुजितम्⟫ <!-- TODO: Fallback translation -->
 :::
-Plural: <!-- TODO: Fallback translation -->
+::: indent
+单数：
 
-:::indent
-Nom.Akk.Vok. ⟪शत्रुजितस्⟫
-Instr. ⟪शत्रुजिद्भिस्⟫
-Lok. ⟪शत्रुजित्सु⟫ <!-- TODO: Fallback translation -->
-::::::
-Neutrum <!-- TODO: Fallback translation -->
-
-:::indent
-Singular Nom.Akk.Vok.  ⟪शत्रुजित्⟫
-Plural Nom.Akk.Vok. ***⟪शत्रुजिन्ति⟫*** <!-- TODO: Fallback translation -->
-::::::
-⟪सुयुध्⟫ 3 "gut kämpfend" <!-- TODO: Fallback translation -->
-
-:::indent
-Singular.Nom.Vok.m.f.n. ⟪सुयुत्⟫
-u.s.w. <!-- TODO: Fallback translation -->
 :::
-Vollständige Paradigmen bei Kielhorn, Grammatik S. 16ff. <!-- TODO: Fallback translation -->
-
-### 51.2.2. Stämme auf palatalen Verschlusslaut (c, ch, j), ś, ṣ
-
-:::grammar-box
-**Vor vokalisch anlautender Endung bleibt der Auslaut des Stammes unverändert.** <!-- TODO: Fallback translation -->
-
-**Vor den übrigen Endungen gilt:** <!-- TODO: Fallback translation -->
-
-* **auslautendes -c und -j werden durch k ersetzt und der Stamm wird dann so behandelt, als ob er auf -k auslautete** <!-- TODO: Fallback translation -->
-* **in einigen Wörtern (Liste bei Kielhorn, Grammatik S. 18) wird auslautendes -j durch -ṭ ersetzt** <!-- TODO: Fallback translation -->
-* **auslautendes -ch wird durch -ṭ ersetzt** <!-- TODO: Fallback translation -->
-* **auslautendes -ś und -ṣ werden - mit einigen Ausnahmen - durch -ṭ ersetzt. In den Ausnahmefällen werden -ś und -ṣ durch -k ersetzt** <!-- TODO: Fallback translation -->
-
-**d. h.** <!-- TODO: Fallback translation -->
-
-* **-c » -k** <!-- TODO: Fallback translation -->
-* **-ch » -ṭ** <!-- TODO: Fallback translation -->
-* **-j » -k oder -ṭ** <!-- TODO: Fallback translation -->
-* **-ś » -ṭ oder -k** <!-- TODO: Fallback translation -->
-* **-ṣ » -ṭ oder -k** <!-- TODO: Fallback translation -->
+::: indent
+呼格/主格 ⟪शत्रुजित्⟫ (śatrujit + s)
+宾格 ⟪शत्रुजितम्⟫
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+复数：
 
-⟪सत्यवाच्⟫ 3 "die Wahrheit redend" (⟪बहुव्रीहि⟫) <!-- TODO: Fallback translation -->
-
-::::indent
-Maskulinum, Femininum: <!-- TODO: Fallback translation -->
-
-::::indent
-Singular: <!-- TODO: Fallback translation -->
-
-:::indent
-Nom.Vok. ⟪सत्यवाक्⟫
-Akk. ⟪सत्यवाचम्⟫
-Instr. ⟪सत्यवाचा⟫ <!-- TODO: Fallback translation -->
+::: indent
+主格/宾格/呼格 ⟪शत्रुजितस्⟫
+工具格 ⟪शत्रुजिद्भिस्⟫
+处所格 ⟪शत्रुजित्सु⟫
 :::
-Plural: <!-- TODO: Fallback translation -->
+中性
 
-:::indent
-Instr. ⟪सत्यवाग्भिस्⟫
-Lok. ⟪सत्यवाक्षु⟫ <!-- TODO: Fallback translation -->
-::::::
-Neutrum <!-- TODO: Fallback translation -->
+::: indent
+Singular Nom.Akk.Vok.  ⟪शत्रुजित्⟫
+Plural Nom.Akk.Vok. ***⟪शत्रुजिन्ति⟫***
+:::
+⟪सुयुध्⟫ 3 "gut kämpfend"
 
-:::indent
+::: indent
+单数主格/呼格.阳.中.阴.中性 ⟪सुयुत्⟫
+等等。
+:::
+完整的变位表见Kielhorn，《语法》第16页及以下。
+
+### 51.2.2. 词根含腭塞音（c, ch, j）、ś, ṣ
+
+::: grammar-box
+**在元音开头的词尾前，词干的尾音保持不变。**
+
+**在其余词尾之前，适用以下规则：**
+
+* **词尾的 -c 和 -j 被 k 取代，词干随后按以 -k 结尾的方式处理**
+* **在某些词语中（参见 Kielhorn 语法第 18 页列表），词尾的 -j 被 -ṭ 取代**
+* **词尾的 -ch 被 -ṭ 取代**
+* **词尾的 -ś 和 -ṣ 在若干例外情况下被 -ṭ 取代。在例外情况下，-ś 和 -ṣ 被 -k 取代**
+
+**即**
+
+* **-c » -k**
+* **-ch » -ṭ**
+* **-j » -k 或 -ṭ**
+* **-ś » -ṭ 或 -k**
+* **-ṣ » -ṭ 或 -k**
+:::
+示例：
+
+⟪सत्यवाच्⟫ 3 “说真话”（⟪बहुव्रीहि⟫）
+
+::: indent
+阳性，阴性：
+
+:::
+::: indent
+单数：
+
+:::
+::: indent
+Nominativ/Vokativ ⟪सत्यवाक्⟫
+Akkusativ ⟪सत्यवाचम्⟫
+Instrumental ⟪सत्यवाचा⟫
+:::
+Plural:
+
+::: indent
+工具格 ⟪सत्यवाग्भिस्⟫
+位格 ⟪सत्यवाक्षु⟫
+:::
+中性
+
+::: indent
 Singular Nom.Akk.Vok. ⟪सत्यवाक्⟫
-Plural Nom.Akk.Vok. ⟪सत्यवाञ्चि⟫ <!-- TODO: Fallback translation -->
-::::::
-⟪शेषभुज्⟫ 3 "Speisereste essend" <!-- TODO: Fallback translation -->
-
-::::indent
-Maskulinum, Femininum: <!-- TODO: Fallback translation -->
-
-::::indent
-Singular: <!-- TODO: Fallback translation -->
-
-:::indent
-Nom.Vok. ⟪शेषभुक्⟫
-Akk. ⟪शेषभुजम्⟫ <!-- TODO: Fallback translation -->
+Plural Nom.Akk.Vok. ⟪सत्यवाञ्चि⟫
 :::
-Plural: <!-- TODO: Fallback translation -->
+⟪शेषभुज्⟫ 3 "Speisereste essend"
 
-:::indent
-Instr. ⟪शेषभुग्भिस्⟫
-Lok. ⟪शेषभुक्षु⟫ <!-- TODO: Fallback translation -->
-::::::
-Neutrum <!-- TODO: Fallback translation -->
+::: indent
+阳性，阴性：
 
-:::indent
-Singular Nom.Akk.Vok. ⟪शेषभुक्⟫
-Plural Nom.Akk.Vok. ⟪शेषभुञ्जि⟫ <!-- TODO: Fallback translation -->
-::::::
-⟪परिव्राज्⟫ m. "Wandermönch" <!-- TODO: Fallback translation -->
-
-::::indent
-Maskulinum, Femininum: <!-- TODO: Fallback translation -->
-
-::::indent
-Singular: <!-- TODO: Fallback translation -->
-
-:::indent
-Nom.Vok. ⟪परिव्राट्⟫
-Akk. ⟪परिव्राजम्⟫ <!-- TODO: Fallback translation -->
 :::
-Plural: <!-- TODO: Fallback translation -->
+::: indent
+单数：
 
-:::indent
-Instr. ⟪परिव्राड्भिस्⟫
-Lok. ⟪परिव्राट्सु⟫ <!-- TODO: Fallback translation -->
-::::::::::::media
+:::
+::: indent
+Nominativ/Vokativ ⟪शेषभुक्⟫
+Akkusativ ⟪शेषभुजम्⟫
+:::
+Plural:
+
+::: indent
+工具格 ⟪शेषभुग्भिस्⟫
+位格 ⟪शेषभुक्षु⟫
+:::
+中性
+
+::: indent
+单数 主格.宾格.呼格 ⟪शेषभुक्⟫
+复数 主格.宾格.呼格 ⟪शेषभुञ्जि⟫
+:::
+⟪परिव्राज्⟫ 阳性 “游方僧”
+
+::: indent
+阳性，阴性：
+
+:::
+::: indent
+单数：
+
+:::
+::: indent
+Nominativ/Vokativ ⟪परिव्राट्⟫
+Akkusativ ⟪परिव्राजम्⟫
+:::
+Plural:
+
+::: indent
+工具格 ⟪परिव्राड्भिस्⟫
+位格 ⟪परिव्राट्सु⟫
+:::: media
 ![](/images/lekt5104.webp)
-Abb.: ⟪परिव्राट्⟫
+图：⟪परिव्राट्⟫
 ⟪पुष्कर⟫
-(Bildquelle: [Details](/licenses#lekt5104)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt5104)）
+::::
 :::
-### 51.2.3. Stämme auf -h
+### 51.2.3. 以 -h 结尾的词根
 
-:::grammar-box
-**Vor vokalisch anlautender Endung bleibt das -h unverändert.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**在元音开头的词尾前，-h 保持不变。**
 
-**Vor den übrigen Endungen** <!-- TODO: Fallback translation -->
-* **wird normalerweise das -h durch -ḍh ersetzt** <!-- TODO: Fallback translation -->
-* **lautet die zugrundeliegende Wurzel mit d- an, wird -h durch -gh ersetzt. Ebenso bei einigen anderen Wörtern wahlweise oder obligatorisch (Zusammenstellung bei Kielhorn, Grammatik §80,2)** <!-- TODO: Fallback translation -->
-* **(im Auslaut des Wurzelnomens wird -h durch -dh ersetzt)** <!-- TODO: Fallback translation -->
+**在其余词尾之前**
+* **通常将 -h 替换为 -ḍh**
+* **若底层词根以 d- 开头，则将 -h 替换为 -gh。其他一些词也如此，可选或强制（参见 Kielhorn《语法》§80,2 的汇编）**
+* **（在词根名词的末尾，-h 替换为 -dh）**
 
-**Nach diesen Ersetzungen wird der Stamm weiter behandelt, als ob  er auf -ḍh, -gh bzw. -dh auslauten würde.** <!-- TODO: Fallback translation -->
+**完成这些替换后，词干将继续被处理，仿佛它以 -ḍh、-gh 或 -dh 结尾。**
 
-**Siehe die Paradigmen bei Kielhorn, Grammatik, S. 20f.** <!-- TODO: Fallback translation -->
+**Siehe die Paradigmen bei Kielhorn, Grammatik, S. 20f.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
-::::indent
-⟪गुह्⟫ 3 "verbergend" <!-- TODO: Fallback translation -->
+::: indent
+⟪गुह्⟫ 3 “verbergend”
 
-Maskulinum, Femininum: <!-- TODO: Fallback translation -->
+阳性，阴性：
 
-::::indent
-Singular: <!-- TODO: Fallback translation -->
-
-:::indent
-Nom.Vok. ⟪घुट्⟫ (Grassmannsches Hauchdissimilationsgesetz: ⟪गुढ्⟫ + s)
-Akk. ⟪गुहम्⟫ <!-- TODO: Fallback translation -->
 :::
-Plural: <!-- TODO: Fallback translation -->
+::: indent
+单数：
 
-:::indent
-Instr. ⟪घुड्भिस्⟫
-Lok. ⟪घुट्सु⟫ <!-- TODO: Fallback translation -->
-::::::
-⟪द्रुह्⟫ "schädigend, hassend" (wahlweise -ḍh/-gh) <!-- TODO: Fallback translation -->
-
-Maskulinum, Femininum: <!-- TODO: Fallback translation -->
-
-::::indent
-Singular: <!-- TODO: Fallback translation -->
-
-:::indent
-Nom.Vok. ⟪ध्रुट्⟫ ⟪।⟫ ⟪ध्रुक्⟫
-Akk. ⟪द्रुहम्⟫ <!-- TODO: Fallback translation -->
 :::
-Plural: <!-- TODO: Fallback translation -->
+::: indent
+主格/呼格 ⟪⟪घुट्⟫（格拉斯曼轻声同化律：⟪गुढ्⟫ + s）
+宾格 ⟪गुहम्⟫
+:::
+复数：
 
-:::indent
-Instr. ⟪ध्रुड्भिस्⟫ ⟪।⟫ ⟪ध्रुग्भिस्⟫
-Lok. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫ <!-- TODO: Fallback translation -->
-:::::::::
-## 51.3. Sandhi von anlautendem h-
+::: indent
+工具格 ⟪घुड्भिस्⟫
+处格 ⟪घुट्सु⟫
+:::
+⟪द्रुह्⟫ “损害，憎恨”（可选后缀 -ḍh/-gh）
 
-::::grammar-box
-**Vor anlautendem h- wird ein vorausgehender Verschlusslaut durch den entsprechenden stimmhaften Nichtaspiraten ersetzt und das anlautende h- durch den diesem Verschlusslaut entsprechenden stimmhaften Aspiraten:** <!-- TODO: Fallback translation -->
+阳性，阴性：
 
-:::indent
-⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि⟫ <!-- TODO: Fallback translation -->
+::: indent
+单数：
 
-⟪वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि⟫ <!-- TODO: Fallback translation -->
+:::
+::: indent
+主格/呼格 ⟪ध्रुट्⟫ ⟪।⟫ ⟪ध्रुक्⟫
+宾格 ⟪द्रुहम्⟫
+:::
+复数：
 
-⟪परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫ <!-- TODO: Fallback translation -->
-::::::
-## 51.4. Sandhi von anlautendem ch-
+::: indent
+说明。 ⟪⟪ध्रुड्भिस्⟫⟫ ⟪⟪।⟫⟫ ⟪⟪ध्रुग्भिस्⟫⟫
+与格。 ⟪⟪ध्रुट्सु⟫⟫ ⟪⟪।⟫⟫ ⟪⟪ध्रुक्षु⟫⟫
+:::
+## 51.3. 词首 h- 的连音
 
-::::grammar-box
-**Anlautendes ch- wird nach kurzem Vokal, nach ⟪मा⟫ "nicht" und nach ⟪आ⟫ "zu" durch cch- ersetzt:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**当词首为 h- 时，前面的闭塞音会被相应的浊不送气音取代，而词首的 h- 则被该闭塞音对应的浊送气音取代：**
 
-:::indent
-⟪न⟫ + ⟪छिन्दति⟫ » ⟪न⟫ ⟪च्छिन्दति⟫ <!-- TODO: Fallback translation -->
-::::::
-## 51.5. -ch- im Wortinnern
+:::
+::: indent
+⟪तत्⟫ + ⟪हि⟫ » ⟪तद्धि⟫
 
-::::grammar-box
-**Im Wortinnern wird -ch- nach allen Vokalen durch -cch- ersetzt:** <!-- TODO: Fallback translation -->
+⟪वाक्⟫ + ⟪हि⟫ » ⟪वाग्घि⟫
 
-:::indent
-z.B. ⟪छिद्⟫ » ⟪चिच्छेद⟫ <!-- TODO: Fallback translation -->
-::::::
-## 51.6. Wortliste
+⟪परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
+:::
+## 51.4. 词首 ch- 的连音
 
-⟪अजिन⟫ n.: Antilopenfell, bes. das Fell der schwarzen Antilope (Hirschziegenantilope : _Antilope cervicapra_ L. ). Kam ursprünglich auf dem ganzen indischen Subkontinent vor von Punjab und Sind bis Bengalen und von Nepal bis Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Siehe: <!-- TODO: Fallback translation -->
+::: grammar-box
+**词首的 ch- 在短元音之后、在 ⟪मा⟫ “不” 和 ⟪आ⟫ “到” 之后，替换为 cch-：**
 
-> **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f. <!-- TODO: Fallback translation -->
+:::
+::: indent
+⟪⟪न⟫⟫ + ⟪⟪छिन्दति⟫⟫ » ⟪⟪न⟫⟫ ⟪⟪च्छिन्दति⟫⟫
+:::
+## 51.5. 词中的 -ch-
 
-:::media
+::: grammar-box
+**在词内，-ch- 在所有元音后替换为 -cch-：**
+
+:::
+::: indent
+例如 ⟪छिद्⟫ » ⟪चिच्छेद⟫
+:::
+## 51.6. 词汇表
+
+⟪अजिन⟫ n.：羚羊皮，特指黑羚羊（黑羚：_Antilope cervicapra_ L.）的皮。原分布于整个印度次大陆，从旁遮普和信德到孟加拉，从尼泊尔到康纳马里（Cape Comorin）（泰米尔语：கன்னியாகுமரி）。参见：
+
+> **Walker 的世界哺乳动物** / Ronald M. Nowak。-- 第6版。-- 巴尔的摩 [等] : 约翰斯·霍普金斯大学出版社，1999。-- 2卷。-- ISBN 0-8018-5789-9。-- 第2卷。-- 第1193页及以下。
+
+::: media
 ![](/images/lekt5105.webp)
-Abb.:
-(Bildquelle: [Details](/licenses#lekt5105)) <!-- TODO: Fallback translation -->
+图：
+（图片来源：[详情](/zh-CN/licenses#lekt5105)）
 :::
-⟪अतिथि⟫ m.: Gast <!-- TODO: Fallback translation -->
+⟪अतिथि⟫ 阳性名词：客人
 
-⟪अभ्यन्तर⟫ 3: im Inneren befindlich, nächster ; m. der nächste Angehörige, Eingeborener <!-- TODO: Fallback translation -->
+⟪अभ्यन्तर⟫ 3：内部的，最近的；阳性：最近的亲属，本地人
 
-⟪अरण्य⟫ n.: Wildnis, Wald <!-- TODO: Fallback translation -->
+⟪अरण्य⟫ n.: 荒野，森林
 
-⟪ऋतु⟫ m.: periodischer Vorgang, Jahreszeit, Zeitabschnitt, Menstruation, Zeit, in der die Frau empfängnisbereit ist und ein Anrecht auf Beischlaf ihres Gatten hat. <!-- TODO: Fallback translation -->
+⟪ऋतु⟫ m.: 周期性过程，季节，时间段，月经，女性受孕能力期，且有权利与丈夫行房的时间。
 
-:::indent
-Zu ⟪ऋतु⟫ siehe Manu III, 45-48: danach dauert ⟪ऋतु⟫ 16 Tage (nach der alternativen Übersetzung: 20 Tage) ab Beginn der Monatsblutung, an den ersten vier Tagen nach Beginn der Blutung ist Geschlechtsverkehr verboten (Nach der alternativen Übersetzung: an den ersten acht (4 + 4) Tagen), ebenso am 11. (bzw. 15.) und 13. (bzw. 18.) Tag. An geraden Tagen empfängt die Frau Söhne, an ungeraden Töchter. Für das Folgende wird ein ⟪ऋतु⟫ von insgesamt 16 Tagen (nicht die Alternativübersetzung) angenommen, wie es auch die meisten einheimischen Kommentare tun, und was also die vorherrschende Auffassung gewesen ist. <!-- TODO: Fallback translation -->
+::: indent
+关于 ⟪ऋतु⟫，参见《摩奴法典》（Manu）第三卷第45-48节：此后 ⟪ऋतु⟫ 持续16天（根据另一种译文：20天），从月经开始之日起算，在出血开始的前四天禁止性交（根据另一种译文：在前八天（4 + 4天）），在第11天（或第15天）以及第13天（或第18天）同样禁止。在偶数日受孕，女子生儿子；在奇数日受孕，女子生女儿。对于后续部分，假设 ⟪ऋतु⟫ 总共为16天（非另一种译文），正如大多数本土注释所主张的那样，这也是当时占主导地位的观点。
 
-Da der Eisprung 14 Tage vor dem Beginn der Monatsblutung liegt, ist bei dieser Bestimmung der fruchtbaren Periode Fruchtbarkeit beinahe "garantiert" für einen Abstand der Monatsblutungen von 19 bis 30 Tagen. Die verbotenen Tage (11. und 13.) verbessern die Wahrscheinlichkeit für Geschlechtsverkehr am 12. und 14. Tag, d.h. die Empfängniswahrscheinlichkeit bei einem Zyklus von 28. Tagen (die Lebensdauer der Spermien in der Frau beträgt ca. 3 Tage). Diese Bestimmungen sind als sozusagen positiver Einsatz von Knaus-Ogino. <!-- TODO: Fallback translation -->
-::::::media
+Da ovulatie plaatsvindt 14 dagen voor het begin van de menstruatie, is bij deze bepaling van de vruchtbare periode vruchtbaarheid bijna "gegarandeerd" voor een tussenruimte van de menstruaties van 19 tot 30 dagen. De verboden dagen (11. en 13.) verbeteren de kans op geslachtsgemeenschap op de 12. en 14. dag, d.w.z. de zwangerschapskans bij een cyclus van 28 dagen (de levensduur van de zaadcellen in de vrouw bedraagt ca. 3 dagen). Deze bepalingen zijn als zoiets als positieve inzet van Knaus-Ogino.
+:::: media
 ![](/images/lekt5106.jpg)
-Abb.: ⟪ऋतुः⟫
-(Bildquelle: [Details](/licenses#lekt5106)) <!-- TODO: Fallback translation -->
+Afbeelding: ⟪ऋतुः⟫
+(Beeldbron: [Details](/zh-CN/licenses#lekt5106))
+::::
 :::
-⟪एकत्र⟫ Adv.: an einer Stelle <!-- TODO: Fallback translation -->
+⟪एकत्र⟫ Adv.: op één plek
 
-⟪जटा⟫ f.: Haarflechte (Haartracht des Asketen) <!-- TODO: Fallback translation -->
+⟪जटा⟫ f.: 发辫（苦行者的发型）
 
-:::media
+::: media
 ![](/images/lekt5107.webp)
 Abb.: ⟪जटा⟫
 ⟪ऋषिकेश⟫
-(Bildquelle: [Details](/licenses#lekt5107)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/zh-CN/licenses#lekt5107))
 :::
-⟪तुल्य⟫ 3: gleich, vergleichbar (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
+⟪तुल्य⟫ 3: gleich, vergleichbar (⟪तृतीयया⟫)
 
-⟪तरय⟫ 3 (f.: ⟪तरयी⟫): dreifältig, aus drei Teilen bestehend <!-- TODO: Fallback translation -->
+⟪तरय⟫ 3（阴性：⟪तरयी⟫）：三重的，由三部分组成的
 
-⟪प्राणान्तिक⟫ 3 (f.: -ī): tödlich, todbringend, lebenslänglich <!-- TODO: Fallback translation -->
+⟪प्राणान्तिक⟫ 3（阴性：-ī）：致命的，致死的，无期徒刑的
 
-⟪बाह्य⟫ 3: außerhalb, draußen befindlich, fremd <!-- TODO: Fallback translation -->
+⟪बाह्य⟫ 3: außerhalb, draußen befindlich, fremd
 
-⟪भिक्षा⟫ f.: erbetteltes Almosen, Bettelspeise <!-- TODO: Fallback translation -->
+⟪भिक्षा⟫ f.：乞得的布施，乞食
 
-⟪मार्यादा⟫ f.: Grenze <!-- TODO: Fallback translation -->
+⟪मार्यादा⟫ f.: 边界
 
-⟪शिष्⟫ 7P ⟪शिनष्टि⟫ : verlassen, übriglassen <!-- TODO: Fallback translation -->
+⟪शिष्⟫ 7P ⟪शिनष्टि⟫ : 离开，留下
 
-:::indent
-Perf.II ⟪शिशेषे⟫, ⟪शिशिषुर्⟫
-Fut. ⟪शेक्ष्यति⟫
-Pass. ⟪शिष्यते⟫
-Kaus. ⟪शेषयति⟫
-PPP⟪शिष्ट⟫
-Absol. -⟪शिष्य⟫ <!-- TODO: Fallback translation -->
+::: indent
+完成时 II ⟪शिशेषे⟫, ⟪शिशिषुर्⟫
+将来时 ⟪शेक्ष्यति⟫
+被动语态 ⟪शिष्यते⟫
+使役语 ⟪शेषयति⟫
+过去被动分词⟪शिष्ट⟫
+绝对构式 -⟪शिष्य⟫
 :::
-⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : unterscheiden <!-- TODO: Fallback translation -->
+⟪शिष्⟫ + ⟪वि⟫ 第七人称变位 ⟪विशिनष्टि⟫ : 区分
 
-:::indent
-Pass. ⟪विशिष्यते⟫ : sich unterscheiden von (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), besser sein als (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), der beste sein unter (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫) <!-- TODO: Fallback translation -->
+::: indent
+词法。⟪⟪विशिष्यते⟫⟫：与（⟪⟪पञ्चम्या⟫⟫，⟪⟪तृतीयया⟫⟫）不同，优于（⟪⟪पञ्चम्या⟫⟫，⟪⟪तृतीयया⟫⟫），在（⟪⟪षष्ठ्या⟫⟫，⟪⟪सप्तम्या⟫⟫）中为最
 :::
-⟪समान⟫ 3: gleichartig, gleich, ähnlich ; m.: Altersgenosse <!-- TODO: Fallback translation -->
+⟪⟪समान⟫⟫ 3：同类的，相同的，相似的；阳性：同龄人
 
-⟪स्व⟫ 3: eigen, sein (mein, dein etc.) Wird wie ⟪सर्व⟫ dekliniert. Im Abl.Lok.sg.m.n und im Nom.pl.m kann es auch wie ⟪देव⟫ dekliniert werden: <!-- TODO: Fallback translation -->
+⟪स्व⟫ 3：自己的，是（我的，你的等）。其变格方式与 ⟪सर्व⟫ 相同。在离格/处格单数阳性/中性以及主格复数阳性中，它也可以像 ⟪देव⟫ 那样变格：
 
-:::indent
-Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ ***⟪स्वात्⟫***
-Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ ***⟪स्⟫***⟪वे⟫
-Nom.pl.m ⟪स्वे⟫ ⟪।⟫ ***⟪स्वास्⟫*** <!-- TODO: Fallback translation -->
+::: indent
+离格单数阳性中性 ⟪स्वस्मात्⟫ ⟪।⟫ ***⟪स्वात्⟫***
+位格单数阳性中性. ⟪स्वस्मिन्⟫ ⟪।⟫ ***⟪स्⟫***⟪वे⟫
+主格复数阳性 ⟪स्वे⟫ ⟪।⟫ ***⟪स्वास्⟫***
 :::
-⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : schelten, tadeln <!-- TODO: Fallback translation -->
+⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ ：斥责，责备
 
-:::indent
-Perf I ⟪जगर्हे⟫
-Fut. ⟪गर्हिष्यते⟫
-PPP ⟪गर्हित⟫ <!-- TODO: Fallback translation -->
+::: indent
+完成时 I ⟪जगर्हे⟫
+将来时 ⟪गर्हिष्यते⟫
+过去分词 PPP ⟪गर्हित⟫
 :::
-⟪पिशित⟫ n.: (zubereitetes) Fleisch <!-- TODO: Fallback translation -->
+⟪पिशित⟫ 名词：（准备好的）肉
 
-:::media
+::: media
 ![](/images/lekt5108.webp)
-Abb.: ⟪पिशितम्⟫
-Kolkata = কলকাতা
-(Bildquelle: [Details](/licenses#lekt5108)) <!-- TODO: Fallback translation -->
+图：⟪पिशितम्⟫
+加尔各答 = কলকাতা
+（图片来源：[详情](/zh-CN/licenses#lekt5108)）
 :::
-⟪उपहार⟫ m.: Darbringung, Opfer, Geschenk <!-- TODO: Fallback translation -->
+⟪उपहार⟫ m.：奉献，祭祀，礼物
 
-⟪मधु⟫ n.: Honig, Süßtrank, Met (Honigwein) <!-- TODO: Fallback translation -->
+⟪मधु⟫ n.：蜂蜜，甜汁，蜜酒（蜂蜜酒）
 
-:::media
+::: media
 ![](/images/lekt5109.webp)
-Abb.: ⟪मधु⟫
-City Palace, ⟪उदयपुर⟫
-(Bildquelle: [Details](/licenses#lekt5109)) <!-- TODO: Fallback translation -->
+图：⟪मधु⟫
+城市宫殿，⟪उदयपुर⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5109)）
 :::
-⟪मांस⟫ n.: Fleisch <!-- TODO: Fallback translation -->
+⟪मांस⟫ n.：肉
 
-⟪मृगया⟫ f.: Jagd <!-- TODO: Fallback translation -->
+⟪मृगया⟫ f.: 狩猎
 
-:::media
+::: media
 ![](/images/lekt5110.webp)
-Abb.: ⟪मृगया⟫
-Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
-(Bildquelle: [Details](/licenses#lekt5110)) <!-- TODO: Fallback translation -->
+图：⟪मृगया⟫
+与⟪चीता⟫（猎豹，_Acinonyx jubatus venaticus_）一同狩猎，古吉拉特邦 = ગુજરાત，1812年
+（图片来源：[详情](/zh-CN/licenses#lekt5110)）
 :::
-⟪शिवा⟫ f.: (weibl.) Schakal (Goldschakal = _Canis aureus_) <!-- TODO: Fallback translation -->
+⟪शिवा⟫ f.：（阴性）胡狼（金胡狼 = _Canis aureus_）
 
-:::media
+::: media
 ![](/images/lekt5111.webp)
-Abb.: ⟪शिवा⟫
-_Canis aureus_, Kalatop Khajjiar Sanctuary
-(Bildquelle: [Details](/licenses#lekt5111)) <!-- TODO: Fallback translation -->
+图：⟪शिवा⟫
+_Canis aureus_，卡拉托普卡吉亚尔保护区
+（图片来源：[详情](/zh-CN/licenses#lekt5111)）
 :::
-⟪रुत⟫ n.: Geschrei <!-- TODO: Fallback translation -->
+⟪रुत⟫ n.：叫声
 
-⟪कौशिक⟫ m.: Eule <!-- TODO: Fallback translation -->
+⟪कौशिक⟫ m.: 猫头鹰
 
-:::media
+::: media
 ![](/images/lekt5112.webp)
-Abb.: ⟪कौशिकः⟫
-Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા
-(Bildquelle: [Details](/licenses#lekt5112)) <!-- TODO: Fallback translation -->
+图：⟪कौशिकः⟫
+布氏雕鸮（_Athene brama_），马赫塞纳纳 = મહેસાણા
+（图片来源：[详情](/zh-CN/licenses#lekt5112)）
 :::
-⟪शकुनि⟫ m.: Vogel <!-- TODO: Fallback translation -->
+⟪शकुनि⟫ 阳性：鸟
 
-⟪श्वन्⟫ m.: Hund <!-- TODO: Fallback translation -->
+⟪श्वन्⟫ m.: 狗
 
-:::indent
-starker Stamm ⟪श्वान्⟫
-schwacher Stamm vor Vokal ⟪सुन्⟫
-schwacher Stamm vor Konsonant ⟪श्व⟫ <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+强词干 ⟪श्वान्⟫
+弱词干（元音前） ⟪सुन्⟫
+弱词干（辅音前） ⟪श्व⟫
+:::: media
 ![](/images/lekt5113.jpg)
-Abb.: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
+图：⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt5113)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt5113)）
+::::
 :::
-⟪परिचित⟫ 3: vertraut, bekannt <!-- TODO: Fallback translation -->
+⟪परिचित⟫ 3：熟悉、熟知
 
-⟪अटवी⟫ f.: Wald <!-- TODO: Fallback translation -->
+⟪अटवी⟫ f.: 森林
 
-⟪शून्य⟫ 3: leer, öde <!-- TODO: Fallback translation -->
+⟪शून्य⟫ 3: leer, öde
 
-⟪आपान⟫(⟪क⟫) n.: Zechgelage <!-- TODO: Fallback translation -->
+⟪आपान⟫(⟪क⟫) n.：狂欢宴饮
 
-:::media
+::: media
 ![](/images/lekt5114.webp)
-Abb.: ⟪आपानकम्⟫
+图：⟪आपानकम्⟫
 ⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt5114)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt5114)）
 :::
-⟪क्रूर⟫ 3: roh, grausam <!-- TODO: Fallback translation -->
+⟪क्रूर⟫ 3：粗野，残忍
 
-⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ : bestreichen, beschmieren <!-- TODO: Fallback translation -->
+⟪दिह्⟫ 2U ⟪देग्धि⟫, ⟪दिग्धे⟫ ：涂抹，涂饰
 
-:::indent
-Perf. II ⟪दिदेह⟫
-Fut. ⟪धेक्ष्यति⟫
-Pass. ⟪दिह्यते⟫
-Kaus. ⟪देहयति⟫
-PPP ⟪दिग्ध⟫ <!-- TODO: Fallback translation -->
+::: indent
+完成时 II ⟪दिदेह⟫
+将来时 ⟪धेक्ष्यति⟫
+被动语态 ⟪दिह्यते⟫
+使役 ⟪देहयति⟫
+过去被动分词 (PPP) ⟪दिग्ध⟫
 :::
-⟪विष⟫ n.: Gift <!-- TODO: Fallback translation -->
+⟪विष⟫ n.: 毒药
 
-:::media
+::: media
 ![](/images/lekt5115.webp)
-Abb.: ⟪मूषिकाविषाणि⟫
-Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5115)) <!-- TODO: Fallback translation -->
+图：⟪मूषिकाविषाणि⟫
+班加罗尔 = ಬೆಂಗಳೂರು
+（图片来源：[详情](/zh-CN/licenses#lekt5115)）
 :::
-⟪भुजंग⟫ m.: Schlange <!-- TODO: Fallback translation -->
+⟪भुजंग⟫ 阳性名词：蛇
 
-:::media
+::: media
 ![](/images/lekt5116.webp)
-Abb.: ⟪भुजंगः⟫
-Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
-(Bildquelle: [Details](/licenses#lekt5116)) <!-- TODO: Fallback translation -->
+图：⟪भुजंगः⟫
+链蛇（Daboia russelii），班加罗尔 = ಬೆಂಗಳೂರು
+（图片来源：[详情](/zh-CN/licenses#lekt5116)）
 :::
-⟪सायक⟫ m.: Pfeil <!-- TODO: Fallback translation -->
+⟪सायक⟫ 阳性名词：箭
 
-⟪उत्साद⟫ m.: Zugrundegehen <!-- TODO: Fallback translation -->
+⟪उत्साद⟫ m.: 毁灭
 
-⟪कलत्र⟫ **Neutrum**: Ehefrau, Weibchen <!-- TODO: Fallback translation -->
+⟪कलत्र⟫ **中性词**：妻子，雌性
 
-⟪बन्दी⟫ f.: Gefangene, Raub <!-- TODO: Fallback translation -->
+⟪बन्दी⟫ f.：俘虏，掠夺
 
-⟪योषित्⟫ f.: junge Frau, Mädchen <!-- TODO: Fallback translation -->
+⟪योषित्⟫ f.: 年轻女子，女孩
 
-⟪शार्दूल⟫ m. = ⟪व्याघ्र⟫ m. <!-- TODO: Fallback translation -->
+⟪शार्दूल⟫ m. = ⟪व्याघ्र⟫ m.
 
-⟪रुधिर⟫ n.: Blut <!-- TODO: Fallback translation -->
+⟪रुधिर⟫ n.: 血液
 
-⟪अर्चन⟫ n.  ⟪अर्चना⟫ f. = ⟪पूजा⟫ f. <!-- TODO: Fallback translation -->
+⟪अर्चन⟫ n. ⟪अर्चना⟫ f. = ⟪पूजा⟫ f.
 
-⟪बलि⟫ m.:  Abgabe, Spende, Tribut <!-- TODO: Fallback translation -->
+⟪बलि⟫ m.: 税款，捐赠，贡品
 
-⟪मणि⟫ m.: Juwel <!-- TODO: Fallback translation -->
+⟪मणि⟫ m.: 宝石
 
-:::media
+::: media
 ![](/images/lekt5118.webp)
-Abb.: ⟪मणिः⟫
-Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC
-(Bildquelle: [Details](/licenses#lekt5118)) <!-- TODO: Fallback translation -->
+图：⟪मणिः⟫
+希望钻石来自贡图尔 = గుంటూరు，现藏于华盛顿特区史密森尼国家自然历史博物馆
+（图片来源：[详情](/zh-CN/licenses#lekt5118)）
 :::
-⟪वन⟫ n.: Wald <!-- TODO: Fallback translation -->
+⟪वन⟫ n.：森林
 
-⟪मद⟫ m.: auch "Brunstsaft" eines Elefanten (im [Musht](http://en.wikipedia.org/wiki/Musth)) <!-- TODO: Fallback translation -->
+⟪मद⟫ m.: 也可指大象的“发情期分泌物”（处于[Musht](http://en.wikipedia.org/wiki/Musth)状态时）
 
-:::media
+::: media
 ![](/images/lekt5117.webp)
-Abb.: ⟪मदः⟫
-(Bildquelle: [Details](/licenses#lekt5117)) <!-- TODO: Fallback translation -->
+图：⟪मदः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5117)）
 :::
-⟪राग⟫ m.: auch: Farbe, rote Farbe <!-- TODO: Fallback translation -->
+⟪राग⟫ m.：亦：颜色，红色
 
-⟪कालन⟫ n.: Wald <!-- TODO: Fallback translation -->
+⟪कालन⟫ n.: 森林
 
-⟪खन्⟫ 1U ⟪खनति⟫ : graben <!-- TODO: Fallback translation -->
+⟪खन्⟫ 1U ⟪खनति⟫ : 挖掘
 
-:::indent
-Perf. ⟪चखान⟫, ⟪चखने⟫
-Fut. ⟪खनिष्यति⟫
-Kaus. ⟪खानयति⟫
-PPP ⟪खात⟫
-Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫ <!-- TODO: Fallback translation -->
+::: indent
+完成式 ⟪चखान⟫, ⟪चखने⟫
+将来时 ⟪खनिष्यति⟫
+使役式 ⟪खानयति⟫
+过去被动分词 (PPP) ⟪खात⟫
+绝对语形 ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 :::
-⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ : denken, nachdenken <!-- TODO: Fallback translation -->
+⟪चिन्त्⟫ 10 ⟪चिन्तयति⟫ ：思考，沉思
 
-⟪शबर⟫ .:  Eigenname eines nichtarischen Stammes <!-- TODO: Fallback translation -->
+⟪शबर⟫ .: 非雅利安部落的专有名词
 
 ## 51.7. Übersetzungsübung
 
-⟪१⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪९⟫ - ⟪१२⟫ ⟪आश्रमधर्मः⟫ <!-- TODO: Fallback translation -->
+⟪१⟫。⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫，⟪३⟫，⟪९⟫ - ⟪१२⟫ ⟪आश्रमधर्मः⟫
 
 ⟪गृहस्तस्य⟫ ⟪स्वधर्माजीवस्तुल्यैरसमानार्षिभिर्वैवाह्यमृतुगामित्वं⟫ ⟪देवपित्रातिथिपूजा⟫ ⟪भृत्येषु⟫ ⟪त्यागः⟫ ⟪शेषभोजनं⟫ ⟪च⟫ ⟪।९।⟫  
 ⟪ब्रह्मचारिणः⟫ ⟪स्वाध्यायो⟫ ⟪ऽग्निकार्याभिषे⟫***⟪कौ⟫*** ⟪भैक्षाव्रतित्वमाचार्ये⟫ ⟪प्राणान्तिकी⟫ ⟪वृत्तिस्तदभावे⟫ ⟪गुरुपुत्रे⟫ ⟪सब्रह्मचारिणि⟫ ⟪वा⟫ ⟪।१०।⟫  
 ⟪वानप्रस्थस्य⟫ ⟪ब्रह्मचर्यं⟫ ⟪भूमौ⟫ ⟪शय्या⟫ ⟪जाटाजिनधारणमग्निहोत्राभिषे⟫***⟪कौ⟫*** ⟪देवतापित्रतिथिपूजा⟫ ⟪वन्यश्चाहारः⟫ ⟪।११।⟫  
-⟪प्रव्राजकस्य⟫ ⟪जितेन्द्रियत्वमनारम्भो⟫ ⟪निष्किंचनत्वं⟫ ⟪सङ्गत्यागो⟫ ⟪भैक्षाव्रतमनेकत्रारण्ये⟫ ⟪च⟫ ⟪वासो⟫ ⟪बाह्याभ्यन्तरं⟫ ⟪च⟫ ⟪शौचम्⟫ ⟪॥१२॥⟫ <!-- TODO: Fallback translation -->
+⟪प्रव्राजकस्य⟫ ⟪जितेन्द्रियत्वमनारम्भो⟫ ⟪निष्किंचनत्वं⟫ ⟪सङ्गत्यागो⟫ ⟪भैक्षाव्रतमनेकत्रारण्ये⟫ ⟪च⟫ ⟪वासो⟫ ⟪बाह्याभ्यन्तरं⟫ ⟪च⟫ ⟪शौचम्⟫ ⟪॥१२॥⟫
 
-Erklärung: -⟪अभिषेकौ⟫ Nom.Akk.Vok.Dual.mask. (Dualdvandva) <!-- TODO: Fallback translation -->
+Erklärung: -⟪अभिषेकौ⟫ Nom.Akk.Vok.Dual.mask. (Dualdvandva)
 
-⟪२⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟫ Über die Notwendigkeit des Achtens auf den ⟪वर्नाश्रमधर्म⟫ <!-- TODO: Fallback translation -->
+⟪२⟫。⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫，⟪३⟫，⟪१६⟫ - ⟪१७⟫ 关于尊重⟪वर्नाश्रमधर्म⟫的必要性
 
-:::indent
+::: indent
 ⟪तस्मात्स्वधर्मं⟫ ⟪भूतानाम्⟫
 ⟪राजा⟫ ⟪न⟫ ⟪व्यभिचारयेत्⟫ ⟪।स्⟫
 ⟪स्वधर्मं⟫ ⟪संदधानो⟫ ⟪हि⟫
@@ -574,50 +595,50 @@ Erklärung: -⟪अभिषेकौ⟫ Nom.Akk.Vok.Dual.mask. (Dualdvandva) <!
 ⟪व्यवस्थितार्यमर्यादः⟫
 ⟪कृतवर्णाश्रमस्थितिः⟫ ⟪।⟫
 ⟪त्रय्याभिरक्षितो⟫ ⟪लोकः⟫
-⟪प्रसीदति⟫ ⟪न⟫ ⟪सीदति⟫ ⟪॥१७॥⟫ <!-- TODO: Fallback translation -->
+⟪प्रसीदति⟫ ⟪न⟫ ⟪सीदति⟫ ⟪॥१७॥⟫
 :::
-⟪३⟫. ⟪बाण⟫ (7. Jhdt. n. Chr.): ⟪कादम्बरी⟫ ed. K.P. Parab, 1896, S. 65ff.: Überlegungen des Papagei ⟪वैशम्पायन⟫ über das Jägerdasein: <!-- TODO: Fallback translation -->
+⟪३⟫。⟪बाण⟫（公元7世纪）：⟪कादम्बरी⟩ 由K.P. Parab编辑，1896年，第65页及以下：鹦鹉⟪वैशम्पायन⟫关于猎人生活的思考：
 
-⟪आसीच्च⟫ ⟪मे⟫ ⟪मनसि⟫ -- ⟪अहो⟫ ⟪मोहप्रायमेतेषां⟫ ⟪जीवितं⟫ ⟪साधुजनगर्हितं⟫ ⟪च⟫ ⟪चरितम्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ ⟪।⟫ ⟪पुरुषपिशितोपहारे⟫ ⟪धर्मबुद्धिः⟫ , ⟪अहारः⟫ ⟪साधुजनगर्हितो⟫ ⟪मधुमांसादिः⟫ , ⟪श्रमो⟫ ⟪मृगया⟫ , ⟪शास्त्रं⟫ ⟪शिवारुतम्⟫ , ⟪समुपदेष्टारः⟫ ⟪सद्सतां⟫ ⟪कौशिकाः⟫ , ⟪प्रज्ञा⟫ ⟪शकुनिज्ञानम्⟫ , ⟪परिचिताः⟫ ⟪श्वानः⟫ , ⟪राज्यं⟫ ⟪शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि⟫ ⟪क्रुरकर्मसाधनानि⟫ ⟪धनूंषि⟫ , ⟪सहाया⟫ ⟪विषदिग्धमुखा⟫ ⟪भुजंगा⟫ ⟪इव⟫ ⟪सायकाः⟫ , ⟪गीतमुत्सादकारि⟫ ⟪मुग्धमृगाणाम्⟫ , ⟪कलत्राणि⟫ ⟪बन्दीगृहीताः⟫ ⟪परयोषितः⟫ , ⟪क्रूरात्मभिः⟫ ⟪शार्दूलैः⟫ ⟪सह⟫ ⟪संवासः⟫ , ⟪पशुरुधिरेण⟫ ⟪देवतार्चनम्⟫ , ⟪मांसेन⟫ ⟪बलिकर्म⟫ , ⟪चौर्येण⟫ ⟪जीवनम्⟫ , ⟪भूषणानि⟫ ⟪भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव⟫ ⟪कानने⟫ ⟪निवसन्ति⟫ ⟪तदेवोत्ख्यातमूलमशेषतः⟫ ⟪कुर्वत⟫ ⟪इति⟫ ⟪चिन्तयत्येव⟫ ⟪मयि⟫ ⟪शबरसेनापतिः⟫ ⟪समुपाविशत्⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪आसीच्च⟫ ⟪मे⟫ ⟪मनसि⟫ -- ⟪अहो⟫ ⟪मोहप्रायमेतेषां⟫ ⟪जीवितं⟫ ⟪साधुजनगर्हितं⟫ ⟪च⟫ ⟪चरितम्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ ⟪।⟫ ⟪पुरुषपिशितोपहारे⟫ ⟪धर्मबुद्धिः⟫ , ⟪अहारः⟫ ⟪साधुजनगर्हितो⟫ ⟪मधुमांसादिः⟫ , ⟪श्रमो⟫ ⟪मृगया⟫ , ⟪शास्त्रं⟫ ⟪शिवारुतम्⟫ , ⟪समुपदेष्टारः⟫ ⟪सद्सतां⟫ ⟪कौशिकाः⟫ , ⟪प्रज्ञा⟫ ⟪शकुनिज्ञानम्⟫ , ⟪परिचिताः⟫ ⟪श्वानः⟫ , ⟪राज्यं⟫ ⟪शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि⟫ ⟪क्रुरकर्मसाधनानि⟫ ⟪धनूंषि⟫ , ⟪सहाया⟫ ⟪विषदिग्धमुखा⟫ ⟪भुजंगा⟫ ⟪इव⟫ ⟪सायकाः⟫ , ⟪गीतमुत्सादकारि⟫ ⟪मुग्धमृगाणाम्⟫ , ⟪कलत्राणि⟫ ⟪बन्दीगृहीताः⟫ ⟪परयोषितः⟫ , ⟪क्रूरात्मभिः⟫ ⟪शार्दूलैः⟫ ⟪सह⟫ ⟪संवासः⟫ , ⟪पशुरुधिरेण⟫ ⟪देवतार्चनम्⟫ , ⟪मांसेन⟫ ⟪बलिकर्म⟫ , ⟪चौर्येण⟫ ⟪जीवनम्⟫ , ⟪भूषणानि⟫ ⟪भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव⟫ ⟪कानने⟫ ⟪निवसन्ति⟫ ⟪तदेवोत्ख्यातमूलमशेषतः⟫ ⟪कुर्वत⟫ ⟪इति⟫ ⟪चिन्तयत्येव⟫ ⟪मयि⟫ ⟪शबरसेनापतिः⟫ ⟪समुपाविशत्⟫ ⟪॥⟫
 
-⟪४⟫. Kommentar des ⟪भानुचन्द्र⟫ (16. Jhdt.) zu vorhergehendem Abschnit der ⟪कादम्बरी⟫ (diese Übung sollte unter Anleitung eines Lehrers übersetzt werden. Ist ein solcher nicht verfügbar, kann man sie übergehen) <!-- TODO: Fallback translation -->
+⟪४⟫。《⟪कादम्बरी⟩》（此项练习应在教师指导下进行翻译。若无此类指导，可跳过）的⟪भानुचन्द्र⟩（16世纪）注释
 
-⟪आसीच्चेति⟫ ⟪।⟫ ⟪मे⟫ ⟪मम⟫ ⟪मनसि⟫ ⟪चित्त⟫ ⟪आसीद्बभूव⟫ ⟪।⟫ ⟪खेद⟫ ⟪इति⟫ ⟪शेषः⟫ ⟪।⟫ ⟪तदेव⟫ ⟪दर्शयति⟫ -- ⟪अहो⟫ ⟪इत्यादिना⟫ ⟪।⟫ ⟪अहो⟫ ⟪इत्याश्चर्ये⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪भिल्लानां⟫ ⟪जीवितं⟫ ⟪प्राणितं⟫ ⟪मोहो⟫ ⟪ऽज्ञानं⟫ ⟪प्रायं⟫ ⟪प्रचुरं⟫ ⟪यत्र⟫ ⟪तादृशम्⟫ ⟪।⟫ ⟪चः⟫ ⟪पुनरर्थे⟫ ⟪।⟫ ⟪चरितमाचरणं⟫ ⟪साधुजनैः⟫ ⟪सज्जनजनैर्गर्हितं⟫ ⟪निन्दितम्⟫ ⟪।⟫ ⟪तदेव⟫ ⟪विशेषतो⟫ ⟪दर्शयति⟫ -- ⟪तथा⟫ ⟪हीति⟫ ⟪।⟫ ⟪पुरुषेति⟫ ⟪।⟫ ⟪पुरुषस्य⟫ ⟪पुंसो⟫ ⟪यत्पिशितं⟫ ⟪मांसं⟫ ⟪तस्य⟫ ⟪य⟫ ⟪उपहारो⟫ ⟪भगवत्यै⟫ ⟪नैवेद्यदर्शनं⟫ ⟪तस्मिन्धर्मबुद्धिः⟫ ⟪श्रेयोधीः⟫ ⟪।⟫ ⟪आहार⟫ ⟪इति⟫ ⟪।⟫ ⟪आहारः⟫ ⟪प्रत्यवसानं⟫ ⟪साधुजनैर्गर्हितो⟫ ⟪निन्दितो⟫ ⟪मधुमांसादिर्मधुः⟫ ⟪मद्यं⟫ ⟪माक्षिकं⟫ ⟪वा⟫ ⟪।⟫ ⟪मांसं⟫ ⟪प्रतीतम्⟫ ⟪।⟫ ⟪ते⟫ ⟪आदौ⟫ ⟪यस्येति⟫ ⟪बहुव्रीहिः⟫ ⟪।⟫ ⟪आदिशब्दात्कन्दादिपरिग्रहः⟫ ⟪।⟫ ⟪श्रम⟫ ⟪इति⟫ ⟪।⟫ ⟪श्रमः⟫ ⟪शक्तिसाधनायासो⟫ ⟪मृगयाखेटकः⟫ ⟪।⟫ ⟪शास्त्रमिति⟫ ⟪।⟫ ⟪शिवा⟫ ⟪सृगाली⟫ ⟪तस्य⟫ ⟪रुतं⟫ ⟪शब्दितं⟫ ⟪शास्त्रमुच्चस्वरवेदपाठः⟫ ⟪।⟫ ⟪प्रबोधजनकत्वसाम्यात्तदुपमानम्⟫ ⟪।⟫ ⟪सदिति⟫ ⟪।⟫ ⟪सदसतां⟫ ⟪शुभाशुभानां⟫ ⟪समुपदेष्टारो⟫ ⟪बोधकाः⟫ ⟪कौशिका⟫ ⟪उलूकाः⟫ ⟪।⟫ ⟪प्रज्ञेति⟫ ⟪।⟫ ⟪शकुनयः⟫ ⟪पत्त्रिणस्तेषां⟫ ⟪स्थूलमहत्त्वादिना⟫ ⟪ज्ञानं⟫ ⟪तदेव⟫ ⟪प्रज्ञा⟫ ⟪विवेकबुद्धिः⟫ ⟪।⟫ ⟪परीति⟫ ⟪।⟫ ⟪श्वानः⟫ ⟪सारमेयाः⟫ ⟪परिचिता⟫ ⟪विश्वासपालत्राणि⟫ ⟪।⟫ ⟪राज्यमिति⟫ ⟪।⟫ ⟪शून्यासु⟫ ⟪जनरहितासु⟫ ⟪विन्ध्याटवीषु⟫ ⟪राज्यं⟫ ⟪स्वामित्वम्⟫ ⟪।⟫ ⟪आपानकेति⟫ ⟪।⟫ ⟪उत्सवः⟫ ⟪संतुष्टिकार्यं⟫ ⟪तदेवापानमेवापानकम्⟫ ⟪।⟫ ⟪स्वार्थे⟫ ⟪कः⟫ ⟪।⟫ ⟪पानगोष्ठिका⟫ ⟪।⟫ ⟪मित्राणीति⟫ ⟪।⟫ ⟪क्रूरं⟫ ⟪यत्कर्म⟫ ⟪तत्साधनानि⟫ ⟪तद्धेतुभूतानि⟫ ⟪धनूंष्येव⟫ ⟪चापान्येव⟫ ⟪मित्राणि⟫ ⟪सहृदः⟫ ⟪।⟫ ⟪हितचिन्तकानीति⟫ ⟪यावत्⟫ ⟪।⟫ ⟪सहाया⟫ ⟪इति⟫ ⟪।⟫ ⟪विषेण⟫ ⟪दिग्धं⟫ ⟪मुखमाननं⟫ ⟪येषामेवंविधाः⟫ ⟪सायका⟫ ⟪बाणास्त⟫ ⟪एव⟫ ⟪सहाया⟫ ⟪इष्टकार्यकर्तृत्वात्साहाय्यकारिणः⟫ ⟪।⟫ ⟪क⟫ ⟪इव⟫ ⟪।⟫ ⟪भुजंगाः⟫ ⟪सर्पा⟫ ⟪इव⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪विषदिग्धमुखत्वं⟫ ⟪स्वाभाविकम्⟫ ⟪।⟫ ⟪तेषामौपाधिकमिति⟫ ⟪भावः⟫ ⟪।⟫ ⟪गीतमिति⟫ ⟪।⟫ ⟪मुग्धा⟫ ⟪अनभिज्ञा⟫ ⟪ये⟫ ⟪मृगा⟫ ⟪हरिणास्तेषामुत्साहकारि⟫ ⟪स्तब्धताविधायि⟫ ⟪गीतं⟫ ⟪गानम्⟫ ⟪।⟫ ⟪कलत्रेति⟫ ⟪।⟫ ⟪परयोषितो⟫ ⟪ऽन्यस्त्रिय⟫ ⟪एव⟫ ⟪बन्दी⟫ ⟪ग्रहकस्तद्रूपत्वेन⟫ ⟪गृहीताः⟫ ⟪स्त्रीकृताः⟫ ⟪कलत्राणि⟫ ⟪स्वपत्न्यः⟫ ⟪।⟫ ⟪क्रूरेति⟫ ⟪।⟫ ⟪क्रूरात्मभिर्दुष्टात्मभिः⟫ ⟪शार्दुलैश्चित्रकैः⟫ ⟪समं⟫ ⟪संवासः⟫ ⟪सहावस्थानम्⟫ ⟪।⟫ ⟪पश्वेति⟫ ⟪।⟫ ⟪पशवो⟫ ⟪महिषास्तेषां⟫ ⟪रुधिरेण⟫ ⟪रक्तेन⟫ ⟪देवतार्चनं⟫ ⟪देवपूजनम्⟫ ⟪।⟫ ⟪मांसेनेति⟫ ⟪।⟫ ⟪मांसेन⟫ ⟪पिशितेन⟫ ⟪बलिर्हन्तकरस्तत्कर्म⟫ ⟪तत्कृत्यम्⟫ ⟪।⟫ ⟪चौर्येणेति⟫ ⟪।⟫ ⟪चौर्येण⟫ ⟪परद्रव्यापहारेण⟫ ⟪जीवनं⟫ ⟪प्राणधारणम्⟫ ⟪।⟫ ⟪भूषणनीति⟫ ⟪।⟫ ⟪भूषणान्याभरणानि⟫ ⟪भुजंगमणयः⟫ ⟪सर्परत्नानि⟫ ⟪।⟫ ⟪पर्वतवासित्वात्तेषां⟫ ⟪ते⟫ ⟪सुलभा⟫ ⟪इति⟫ ⟪भावः⟫ ⟪।⟫ ⟪वनेति⟫ ⟪।⟫ ⟪वनकरिणामरण्यहस्तिनां⟫ ⟪मदैर्दानवारिभिरङ्गरागो⟫ ⟪विलेपनम्⟫ ⟪।⟫ ⟪यस्मिन्निति⟫ ⟪।⟫ ⟪अनिर्दिष्टनामनि⟫ ⟪कानने⟫ ⟪वने⟫ ⟪निवसन्ति⟫ ⟪निवासं⟫ ⟪कुर्वन्ति⟫ ⟪तदेव⟫ ⟪काननमशेषतः⟫ ⟪समग्रत⟫ ⟪उत्खातमुत्पाटितं⟫ ⟪मूलं⟫ ⟪मध्यभागो⟫ ⟪यस्यैवंभूतं⟫ ⟪कुर्वते⟫ ⟪विदधत⟫ ⟪इति⟫ ⟪पूर्वोक्तप्रकारेण⟫ ⟪मयि⟫ ⟪चन्तयति⟫ ⟪ध्यायति⟫ ⟪सत्येव⟫ ... ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪आसीच्चेति⟫ ⟪।⟫ ⟪मे⟫ ⟪मम⟫ ⟪मनसि⟫ ⟪चित्त⟫ ⟪आसीद्बभूव⟫ ⟪।⟫ ⟪खेद⟫ ⟪इति⟫ ⟪शेषः⟫ ⟪।⟫ ⟪तदेव⟫ ⟪दर्शयति⟫ -- ⟪अहो⟫ ⟪इत्यादिना⟫ ⟪।⟫ ⟪अहो⟫ ⟪इत्याश्चर्ये⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪भिल्लानां⟫ ⟪जीवितं⟫ ⟪प्राणितं⟫ ⟪मोहो⟫ ⟪ऽज्ञानं⟫ ⟪प्रायं⟫ ⟪प्रचुरं⟫ ⟪यत्र⟫ ⟪तादृशम्⟫ ⟪।⟫ ⟪चः⟫ ⟪पुनरर्थे⟫ ⟪।⟫ ⟪चरितमाचरणं⟫ ⟪साधुजनैः⟫ ⟪सज्जनजनैर्गर्हितं⟫ ⟪निन्दितम्⟫ ⟪।⟫ ⟪तदेव⟫ ⟪विशेषतो⟫ ⟪दर्शयति⟫ -- ⟪तथा⟫ ⟪हीति⟫ ⟪।⟫ ⟪पुरुषेति⟫ ⟪।⟫ ⟪पुरुषस्य⟫ ⟪पुंसो⟫ ⟪यत्पिशितं⟫ ⟪मांसं⟫ ⟪तस्य⟫ ⟪य⟫ ⟪उपहारो⟫ ⟪भगवत्यै⟫ ⟪नैवेद्यदर्शनं⟫ ⟪तस्मिन्धर्मबुद्धिः⟫ ⟪श्रेयोधीः⟫ ⟪।⟫ ⟪आहार⟫ ⟪इति⟫ ⟪।⟫ ⟪आहारः⟫ ⟪प्रत्यवसानं⟫ ⟪साधुजनैर्गर्हितो⟫ ⟪निन्दितो⟫ ⟪मधुमांसादिर्मधुः⟫ ⟪मद्यं⟫ ⟪माक्षिकं⟫ ⟪वा⟫ ⟪।⟫ ⟪मांसं⟫ ⟪प्रतीतम्⟫ ⟪।⟫ ⟪ते⟫ ⟪आदौ⟫ ⟪यस्येति⟫ ⟪बहुव्रीहिः⟫ ⟪।⟫ ⟪आदिशब्दात्कन्दादिपरिग्रहः⟫ ⟪।⟫ ⟪श्रम⟫ ⟪इति⟫ ⟪।⟫ ⟪श्रमः⟫ ⟪शक्तिसाधनायासो⟫ ⟪मृगयाखेटकः⟫ ⟪।⟫ ⟪शास्त्रमिति⟫ ⟪।⟫ ⟪शिवा⟫ ⟪सृगाली⟫ ⟪तस्य⟫ ⟪रुतं⟫ ⟪शब्दितं⟫ ⟪शास्त्रमुच्चस्वरवेदपाठः⟫ ⟪।⟫ ⟪प्रबोधजनकत्वसाम्यात्तदुपमानम्⟫ ⟪।⟫ ⟪सदिति⟫ ⟪।⟫ ⟪सदसतां⟫ ⟪शुभाशुभानां⟫ ⟪समुपदेष्टारो⟫ ⟪बोधकाः⟫ ⟪कौशिका⟫ ⟪उलूकाः⟫ ⟪।⟫ ⟪प्रज्ञेति⟫ ⟪।⟫ ⟪शकुनयः⟫ ⟪पत्त्रिणस्तेषां⟫ ⟪स्थूलमहत्त्वादिना⟫ ⟪ज्ञानं⟫ ⟪तदेव⟫ ⟪प्रज्ञा⟫ ⟪विवेकबुद्धिः⟫ ⟪।⟫ ⟪परीति⟫ ⟪।⟫ ⟪श्वानः⟫ ⟪सारमेयाः⟫ ⟪परिचिता⟫ ⟪विश्वासपालत्राणि⟫ ⟪।⟫ ⟪राज्यमिति⟫ ⟪।⟫ ⟪शून्यासु⟫ ⟪जनरहितासु⟫ ⟪विन्ध्याटवीषु⟫ ⟪राज्यं⟫ ⟪स्वामित्वम्⟫ ⟪।⟫ ⟪आपानकेति⟫ ⟪।⟫ ⟪उत्सवः⟫ ⟪संतुष्टिकार्यं⟫ ⟪तदेवापानमेवापानकम्⟫ ⟪।⟫ ⟪स्वार्थे⟫ ⟪कः⟫ ⟪।⟫ ⟪पानगोष्ठिका⟫ ⟪।⟫ ⟪मित्राणीति⟫ ⟪।⟫ ⟪क्रूरं⟫ ⟪यत्कर्म⟫ ⟪तत्साधनानि⟫ ⟪तद्धेतुभूतानि⟫ ⟪धनूंष्येव⟫ ⟪चापान्येव⟫ ⟪मित्राणि⟫ ⟪सहृदः⟫ ⟪।⟫ ⟪हितचिन्तकानीति⟫ ⟪यावत्⟫ ⟪।⟫ ⟪सहाया⟫ ⟪इति⟫ ⟪।⟫ ⟪विषेण⟫ ⟪दिग्धं⟫ ⟪मुखमाननं⟫ ⟪येषामेवंविधाः⟫ ⟪सायका⟫ ⟪बाणास्त⟫ ⟪एव⟫ ⟪सहाया⟫ ⟪इष्टकार्यकर्तृत्वात्साहाय्यकारिणः⟫ ⟪।⟫ ⟪क⟫ ⟪इव⟫ ⟪।⟫ ⟪भुजंगाः⟫ ⟪सर्पा⟫ ⟪इव⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪विषदिग्धमुखत्वं⟫ ⟪स्वाभाविकम्⟫ ⟪।⟫ ⟪तेषामौपाधिकमिति⟫ ⟪भावः⟫ ⟪।⟫ ⟪गीतमिति⟫ ⟪।⟫ ⟪मुग्धा⟫ ⟪अनभिज्ञा⟫ ⟪ये⟫ ⟪मृगा⟫ ⟪हरिणास्तेषामुत्साहकारि⟫ ⟪स्तब्धताविधायि⟫ ⟪गीतं⟫ ⟪गानम्⟫ ⟪।⟫ ⟪कलत्रेति⟫ ⟪।⟫ ⟪परयोषितो⟫ ⟪ऽन्यस्त्रिय⟫ ⟪एव⟫ ⟪बन्दी⟫ ⟪ग्रहकस्तद्रूपत्वेन⟫ ⟪गृहीताः⟫ ⟪स्त्रीकृताः⟫ ⟪कलत्राणि⟫ ⟪स्वपत्न्यः⟫ ⟪।⟫ ⟪क्रूरेति⟫ ⟪।⟫ ⟪क्रूरात्मभिर्दुष्टात्मभिः⟫ ⟪शार्दुलैश्चित्रकैः⟫ ⟪समं⟫ ⟪संवासः⟫ ⟪सहावस्थानम्⟫ ⟪।⟫ ⟪पश्वेति⟫ ⟪।⟫ ⟪पशवो⟫ ⟪महिषास्तेषां⟫ ⟪रुधिरेण⟫ ⟪रक्तेन⟫ ⟪देवतार्चनं⟫ ⟪देवपूजनम्⟫ ⟪।⟫ ⟪मांसेनेति⟫ ⟪।⟫ ⟪मांसेन⟫ ⟪पिशितेन⟫ ⟪बलिर्हन्तकरस्तत्कर्म⟫ ⟪तत्कृत्यम्⟫ ⟪।⟫ ⟪चौर्येणेति⟫ ⟪।⟫ ⟪चौर्येण⟫ ⟪परद्रव्यापहारेण⟫ ⟪जीवनं⟫ ⟪प्राणधारणम्⟫ ⟪।⟫ ⟪भूषणनीति⟫ ⟪।⟫ ⟪भूषणान्याभरणानि⟫ ⟪भुजंगमणयः⟫ ⟪सर्परत्नानि⟫ ⟪।⟫ ⟪पर्वतवासित्वात्तेषां⟫ ⟪ते⟫ ⟪सुलभा⟫ ⟪इति⟫ ⟪भावः⟫ ⟪।⟫ ⟪वनेति⟫ ⟪।⟫ ⟪वनकरिणामरण्यहस्तिनां⟫ ⟪मदैर्दानवारिभिरङ्गरागो⟫ ⟪विलेपनम्⟫ ⟪।⟫ ⟪यस्मिन्निति⟫ ⟪।⟫ ⟪अनिर्दिष्टनामनि⟫ ⟪कानने⟫ ⟪वने⟫ ⟪निवसन्ति⟫ ⟪निवासं⟫ ⟪कुर्वन्ति⟫ ⟪तदेव⟫ ⟪काननमशेषतः⟫ ⟪समग्रत⟫ ⟪उत्खातमुत्पाटितं⟫ ⟪मूलं⟫ ⟪मध्यभागो⟫ ⟪यस्यैवंभूतं⟫ ⟪कुर्वते⟫ ⟪विदधत⟫ ⟪इति⟫ ⟪पूर्वोक्तप्रकारेण⟫ ⟪मयि⟫ ⟪चन्तयति⟫ ⟪ध्यायति⟫ ⟪सत्येव⟫ ... ⟪॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [Bildquelle: kanjiroushi. -- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5101:** ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008) [图片来源：kanjiroushi。-- [http://www.flickr.com/photos/kanjiroushi/321594765/](http://www.flickr.com/photos/kanjiroushi/321594765/)。-- 访问日期：2009-01-13。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de)（署名）]
 
-**lekt5103:** ⟪भरतपुर⟫, ⟪राजस्थान⟫ [Bildquelle: jeffmcneill. -- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5103:** ⟪भरतपुर⟫, ⟪राजस्थान⟫ [图片来源：jeffmcneill。-- [http://www.flickr.com/photos/jeffmcneill/83251043/](http://www.flickr.com/photos/jeffmcneill/83251043/)。-- 访问日期：2009-01-13。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de)（署名）]
 
-**lekt5102:** ⟪नेपाल⟫ [Bildquelle: amanderson2. -- [http://www.flickr.com/photos/amanderson/2420198291/](http://www.flickr.com/photos/amanderson/2420198291/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5102:** ⟪नेपाल⟫ [图片来源：amanderson2. -- [http://www.flickr.com/photos/amanderson/2420198291/](http://www.flickr.com/photos/amanderson/2420198291/)。 -- 访问日期：2009-01-13。 -- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de) (署名)]
 
-**lekt5104:** ⟪पुष्कर⟫ [Bildquelle: calamur. -- [http://www.flickr.com/photos/gargi/360186369/](http://www.flickr.com/photos/gargi/360186369/). -- Zugriff am2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5104:** ⟪पुष्कर⟫ [图片来源：calamur。-- [http://www.flickr.com/photos/gargi/360186369/](http://www.flickr.com/photos/gargi/360186369/)。-- 访问日期：2009-01-13。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 
-**lekt5105:** [Bildquelle: Wikipedia, public domain] <!-- TODO: Fallback translation -->
+**lekt5105:** [图片来源：维基百科，公有领域]
 
-**lekt5107:** ⟪ऋषिकेश⟫ [Bildquelle: EyalNow. -- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5107:** ⟪ऋषिकेश⟫ [图片来源：EyalNow。-- [http://www.flickr.com/photos/eyalnow/351734123/](http://www.flickr.com/photos/eyalnow/351734123/)。-- 访问日期：2009-01-13。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
 
-**lekt5108:** Kolkata = কলকাতা [Bildquelle: nicolas - نِيقُولاَوُسَ. --  [http://www.flickr.com/photos/keep-on-moving/2994878670/](http://www.flickr.com/photos/keep-on-moving/2994878670/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5108:** 加尔各答 = কলকাতা [图片来源：nicolas - نِيقُولاَوُسَ. --  [http://www.flickr.com/photos/keep-on-moving/2994878670/](http://www.flickr.com/photos/keep-on-moving/2994878670/). -- 访问于 2009-01-13. -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
 
-**lekt5109:** City Palace, ⟪उदयपुर⟫ [Bildquelle: abrinsky. -- [http://www.flickr.com/photos/abrinsky/457940260/](http://www.flickr.com/photos/abrinsky/457940260/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5109:** 城市宫殿，⟪उदयपुर⟫ [图片来源：abrinsky。-- [http://www.flickr.com/photos/abrinsky/457940260/](http://www.flickr.com/photos/abrinsky/457940260/)。-- 访问日期：2009-01-13。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
 
-**lekt5110:** Jagd mit ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812 [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt5110:** 猎豹 ⟪चीता⟫ (_Acinonyx jubatus venaticus_) 古吉拉特邦 = ગુજરાત, 1812 [图片来源：维基百科。公有领域]
 
-**lekt5111:** _Canis aureus_, Kalatop Khajjiar Sanctuary [Bildquelle: gautamnguitar. -- [http://www.flickr.com/photos/gautamnguitar/2181211040/](http://www.flickr.com/photos/gautamnguitar/2181211040/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5111:** _Canis aureus_，卡拉托普卡吉亚尔保护区 [图片来源：gautamnguitar. -- [http://www.flickr.com/photos/gautamnguitar/2181211040/](http://www.flickr.com/photos/gautamnguitar/2181211040/). -- 访问日期：2009-01-13. -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 
-**lekt5112:** Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા [Bildquelle: Umang Dutt. -- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5112:** 婆罗门角鸮（_Athene brama_），马赫塞纳 = મહેસાણા [图片来源：Umang Dutt。-- [http://www.flickr.com/photos/snapflickr/2790757825/](http://www.flickr.com/photos/snapflickr/2790757825/)。-- 访问日期：2009-01-13。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 
-**lekt5113:** Karnataka = ಕರ್ನಾಟಕ [Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt5113:** Karnataka = ಕರ್ನಾಟಕ [图片来源：mattlogelin。-- [http://www.flickr.com/photos/mattlogelin/150316450/](http://www.flickr.com/photos/mattlogelin/150316450/)。-- 访问日期：2009-01-13。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc/2.0/deed.de)（署名，非商业性使用）]
 
-**lekt5114:** ⟪जोधपुर⟫ <!-- TODO: Fallback translation -->
+**lekt5114:** ⟪जोधपुर⟫
 
-**lekt5115:** Bangalore = ಬೆಂಗಳೂರು [Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/387955362/](http://www.flickr.com/photos/mattlogelin/387955362/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt5115:** 班加罗尔 = ಬೆಂಗಳೂರು [图片来源：mattlogelin。-- [http://www.flickr.com/photos/mattlogelin/387955362/](http://www.flickr.com/photos/mattlogelin/387955362/)。-- 访问日期：2009-01-13。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc/2.0/deed.de)（署名，非商业性使用）]
 
-**lekt5116:** Kettenviper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು [Bildquelle: teemus. -- [http://www.flickr.com/photos/teemus/455664680/](http://www.flickr.com/photos/teemus/455664680/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5116:** 链蛇（Daboia russelii），班加罗尔 = ಬೆಂಗಳೂರು [图片来源：teemus. -- [http://www.flickr.com/photos/teemus/455664680/](http://www.flickr.com/photos/teemus/455664680/)。-- 访问日期：2009-01-13。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
 
-**lekt5118:** Hope Diamond aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC [Bildquelle: David Bjorgen / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5118:** Hope-Diamant aus Guntur = గుంటూరు, heute Smithsonian Museum of Natural History, Washington DC [Bildquelle: David Bjorgen / Wikipedia. GNU FDLicense]
 
-**lekt5117:** [Bildquelle: muzina\_shanghai. -- [http://www.flickr.com/photos/muzina\_shanghai/2408592293/](http://www.flickr.com/photos/muzina_shanghai/2408592293/). -- Zugriff am 2009-01-13. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5117:** [图片来源：muzina_shanghai。-- [http://www.flickr.com/photos/muzina_shanghai/2408592293/](http://www.flickr.com/photos/muzina_shanghai/2408592293/)。-- 访问日期：2009-01-13。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
 
 :::

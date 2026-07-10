@@ -22,8 +22,7 @@ features:
     detagls: Construí sin la basa da VitePress per la massima sveltezza.
 ---
 
-:::
-tip Version 1.5 — Hebrew Translation & Typography
+::: tip Version 1.5 — Hebrew Translation & Typography
 **Nov en v1.5 (giugnet 2026):**
 
 - **Nova lingua (Ebraic):** L'entir curs è uss er disponibel en ebraic (incl. sustegn RTL).

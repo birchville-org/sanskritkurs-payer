@@ -11,7 +11,7 @@ last_reconstructed: 2026-04-30
 
 ## 2.1. Propoziția nominală
 
-:::grammar-box
+::: grammar-box
 **Schema: Nume predicativ - Subiect**
 
 de ex. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu este un zeu."
@@ -55,14 +55,14 @@ Exemplu: **devas** = ⟪देवस्⟫ (Nominativ Singular Masculin) "zeul/u
 
 **Nominativul singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
-:::grammar-box
+::: grammar-box
 **Nominativul singular se termină în -s = -⟪स्⟫ sau este lipsit de terminație.**
 :::
 ### 2.3.1. Nominativul singular terminat în -s
 
 Următoarele rădăcini nominale, care se termină cu o vocală, formează nominativul singular în **-s**:
 
-:::grammar-box
+::: grammar-box
 **Masculine pe -a:** ex. deva m. = ⟪देव⟫ "zeu" -- Nom. sg.: devas = ⟪देवस्⟫
 **Masculine pe -i:** ex. kavi m. = ⟪कवि⟫ "poet" -- Nom. sg.: kavis = ⟪कविस्⟫
 **Masculine pe -u:** ex. guru m. = ⟪गुरु⟫ "profesor" -- Nom. sg.: gurus = ⟪गुरुस्⟫
@@ -122,8 +122,7 @@ Sunetul final **-s**:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (clasa serviciilor).
 
-:::
-tip Cele patru caste (varna)
+::: tip Cele patru caste (varna)
 Conform teoriei clasice (de ex. Manusmṛti I, 88-91), sarcinile sunt distribuite:
 
 - **a brahmanilor**
@@ -156,7 +155,7 @@ Conform teoriei clasice (de ex. Manusmṛti I, 88-91), sarcinile sunt distribuit
 
 Cele patru caste (**varṇa** m.) sunt adesea confundate cu castele. Dar cele patru caste, spre deosebire de caste, nu sunt ceva specific indienilor; și în Europa am avut (parțial până la Primul Război Mondial) o ordine de caste, așa cum atestă următoarea imagine din secolul al XV-lea:
 
-:::media
+::: media
 ![](/images/lekt0201.webp)
 Fig.: Reprezentarea diviziunii pe caste a Europei medievale (gravură pe lemn din sfârșitul secolului al XV-lea).
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0201))
@@ -168,10 +167,9 @@ Fig.: Reprezentarea diviziunii pe caste a Europei medievale (gravură pe lemn di
 
 Cele trei caste poartă vestimentația specifică fiecărei caste. Deasupra – astfel numite ca fiind voia divină – castele, domnește Hristos.
 
-Max Weber &lt;1864 – 1920&gt; definește castea astfel:
+Max Weber \&lt;1864 – 1920\&gt; definește castea astfel:
 
-:::
-note-box
+::: note-box
 »**Casta**« ar trebui să însemne o mulțime de oameni care, în interiorul unei asociații, exercită
 a) o apreciere specială de castă, - eventual, de asemenea,
 b) monopoluri speciale de castă.
@@ -189,7 +187,7 @@ Dezvoltarea castei de naștere este, în mod regulat, o formă de apropiere (ere
 
 Orice societate castală este convențională, ordonată prin reguli de conduită, creează, prin urmare, condiții economice de consum irationale și, în acest fel, prin aproprierea monopolistă și prin excluderea dispoziției libere asupra capacității proprii de câștig, împiedică formarea liberă a pieței.
 
-[**Weber, Max &lt;1864 – 1920&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max \&lt;1864 – 1920\&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
 Varṇas sunt, în consecință, caste de naștere.
 
@@ -197,7 +195,7 @@ Varṇas sunt, în consecință, caste de naștere.
 
 **agni** m. -- ⟪अग्नि⟫: foc, zeul Agni.
 
-:::media
+::: media
 ![](/images/lekt0203.jpg)
 Fig.: Zeul Agni, miniatură, sec. al XVIII-lea.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0203))
@@ -206,7 +204,7 @@ Fig.: Zeul Agni, miniatură, sec. al XVIII-lea.
 
 **sādhu** m. -- ⟪साधु⟫: om »sfânt«, Sādhu.
 
-:::media
+::: media
 ![](/images/lekt0202.webp)
 Fig.: Sādhu (⟪साधु⟫), Templul Pashupatinath, Kathmandu.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0202))

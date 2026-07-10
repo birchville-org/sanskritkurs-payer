@@ -1,6 +1,10 @@
 ---
+title: Lektion 45
+subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lección 45
@@ -11,62 +15,62 @@ last_reconstructed: 2026-05-21
 
 ⟪हु⟫ 3P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicativo Presente**:br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | &lt;⟪जुहुषे⟫&gt; | &lt;⟪जुहुध्वे⟫&gt; |
-| **Imperfecto**:br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | &lt;⟪अजुहुथास्⟫&gt; | &lt;⟪अजुहुध्वम्⟫&gt; |
-| **Optativo**:br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | &lt;⟪जुह्वीथास्⟫&gt; | &lt;⟪जुह्वीध्वम्⟫&gt; |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
+| **Imperfecto** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
+| **Optativo** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
 :::
 ⟪धा⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicativo Presente**:br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:brde: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
-| **Imperfecto**:br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
-| **Optativo**:br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:braus: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
+| **Imperfecto** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
+| **Optativo** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
 :::
 ### 45.1.2. Séptima clase de presente (⟪रुधादि⟫)
 
-:::grammar-box
+::: grammar-box
 **Cuando la consonante final k/g de la raíz se encuentra entre la nasal ṅ y una dental del desinencial, dicha k/g puede caer opcionalmente.**
 
 p. ej. **⟪युज्⟫** 3.sg.Ind.Prés.Ā ⟪युङ्क्ते⟫ o ⟪युङ्ते⟫
 :::
 ⟪युज्⟫ 7U
 
-:::grammar-box
-| | Parasmaipada || Ātmanepada ||
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicativo Presente**:brlaṭ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
-| **Imperfecto**:brlaṅ | ⟪अयुनक्⟫:brde: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
-| **Optativo**:brvidhilinṭ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
+| **Imperfecto** :br⟪लङ्⟫ | ⟪अयुनक्⟫:braus: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
+| **Optativo** :br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
 :::
 ⟪रुध्⟫ 7U
 
-:::grammar-box
-| | Parasmaipada || Ātmanepada ||
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **Singular** | **Plural** | **Singular** | **Plural** |
-| **Indicativo Presente**:brlaṭ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
-| **Imperfecto**:brlaṅ | ⟪अरुणत्⟫:brde a-ru-ṇa-dh + s:br ⟪अरुण्स्⟫ (¡irregular!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
-| **Optativo**:brvidhilinṭ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
+| **Imperfecto** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br sig[⟪अरुण्स्⟫] (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
+| **Optativo** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
 :::
 ## 45.2. El vocativo singular (⟪आमन्त्रितमेकवचने⟫)
 
-:::grammar-box
+::: grammar-box
 **La mayoría de los vocativos del singular son la raíz con una terminación de nivel alto (high-grade).**
 
 p. ej. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** etc.
 
 **Las excepciones son los femeninos en -ā e -ī, así como las raíces en -in, cuyo vocativo singular debe recordarse especialmente.**
-:::::::grammar-box
-:::no-header
-| | Vocativo singular |
+:::
+::: no-header
+| | Vocativo Singular |
 | --- | --- |
 | Masculinos en -a | ⟪देव⟫ |
 | Neutros en -a | ⟪फल⟫ |
@@ -87,8 +91,9 @@ p. ej. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राज�
 | mahānt n. | ⟪महत्⟫:br= Nominativo |
 | Masculinos en -mant/-vant | ⟪गुणवन्⟫ |
 | Neutros en -mant/-vant | ⟪गुणवत्⟫:br= Nominativo |
-| Pronombres | no se forma un vocativo |
-::::::::::media
+| Pronombres | ein Vocativo wird nicht gebildet |
+:::
+::: media
 ![](/images/lekt4501.webp)
 Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4501))
@@ -99,14 +104,14 @@ Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 
 ## 45.4. Ejercicio
 
-A) Traduzca al sánscrito (para las formas pasadas, por favor utilice el imperfecto &lt;⟪लङ्⟫&gt;):
+A) Traduzca al sánscrito (para las formas pasadas, por favor utilice el imperfecto \<⟪लङ्⟫\>):
 
 1\. Tú divides la (comunidad budista).
 
-:::indent
+::: indent
 Sobre la división de la comunidad (⟪सङ्घभेद⟫), véase:
 
-**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \<1944 - \>:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2\. ¿Disfrutasteis de la tierra?
 
@@ -136,14 +141,16 @@ B) Traduzca:
 
 ⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥४॥⟫
 
-:::media
+::: media
 ![](/images/lekt4502.jpg)
 Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4502))
-::::::deleteme-box
+:::
 
+::: deleteme-box
 
 **lekt4501.jpg**: Impresión textil en bloque, Ahmedabād. -- Fuente de la imagen: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial, compartir igual)
 
 **lekt4502.jpg**: Fuente de la imagen: John Isaac / Banco Mundial. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Acceso el 2009-01-08. -- Licencia Creative Commons (Atribución, uso no comercial, sin obras derivadas)
 :::
+

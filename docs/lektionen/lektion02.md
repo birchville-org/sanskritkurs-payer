@@ -12,20 +12,19 @@ last_reconstructed: 2026-04-30
 
 ## 2.1. Der Nominalsatz
 
-:::grammar-box
+::: grammar-box
 **Schema: Prädikatsnomen - Subjekt**
-
+  
 z.B. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu ist ein Gott."
 :::
 Eine verbale Kopula ("ist", "sind", "bin", "bist", "seid") ist nicht nötig, kann aber manchmal vorkommen.
 
 Es gibt **keine Artikel**: **devaḥ** -- ⟪देवः⟫ kann bedeuten "der Gott" oder "ein Gott".
 
-Obwohl im Sanskrit die Satzstellung ziemlich frei ist (besonders in Versen), muss man bei der Übersetzung eines Nominalsatzes immer in erster Linie eine Übersetzung gemäß obigem Standardschema in Betracht ziehen.
+Obwohl im Sanskrit die Satzstellung ziemlich frei ist (besonders in Versen), muss man bei der Übersetzung eines Nominalsatzes immer in erster Linie eine Übersetzung gemäss obigem Standardschema in Betracht ziehen.
 
 Im Nominalsatz steht das Subjekt im Nominativ (ersten Fall = **prathamā** f. = ⟪प्रथमा⟫). Das Prädikatsnomen stimmt mit dem Subjekt in Zahl und Fall überein; wenn das Prädikatsnomen ein Adjektiv ist, auch im Geschlecht.
 
----
 
 ## 2.2. Zur Deklination (Beugung von Nomina)
 
@@ -50,25 +49,23 @@ In Sanskritwörterbüchern werden Nomina im **Nominalstamm** angeführt:
 - **vacana** n. -- ⟪वचन⟫ n. (neutrum)
 - **vyakti** f. -- ⟪व्यक्ति⟫ f. (femininum)
 
----
 
 ## 2.3. Der Nominativ Singular
 
 **Nominativ Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
-:::grammar-box
+::: grammar-box
 **Der Nominativ Singular endet auf -s = -⟪स्⟫ bzw. ist endungsfrei.**
 :::
 ### 2.3.1. Nominativ Singular auf -s
 
 Folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**:
 
-:::grammar-box
+::: grammar-box
 **Maskulina auf -a:** z.B. deva m. = ⟪देव⟫ "Gott" -- Nom. sg.: devas = ⟪देवस्⟫
 **Maskulina auf -i:** z.B. kavi m. = ⟪कवि⟫ "Dichter" -- Nom. sg.: kavis = ⟪कविस्⟫
 **Maskulina auf -u:** z.B. guru m. = ⟪गुरु⟫ "Lehrer" -- Nom. sg.: gurus = ⟪गुरुस्⟫
 :::
----
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
@@ -78,7 +75,7 @@ Der Auslaut eines Wortes richtet sich im Sanskrit auch nach dem Anlaut des darau
 
 Siehe auch die Übersicht:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois \<1944 - \>:** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Auslautendes **-s**:
 
@@ -107,7 +104,6 @@ Auslautendes **-s**:
     - vor anderen Vokalen: wird zu **-a** (Hiatus)
       - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
 
----
 
 ## 2.5. Wortliste
 
@@ -123,8 +119,7 @@ Auslautendes **-s**:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand).
 
-:::
-tip Die vier Stände (varna)
+::: note-box Die vier Stände (varna)
 Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben verteilt:
 
 - **der Brahmanen**
@@ -157,7 +152,7 @@ Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben vert
 
 Die vier Stände (**varṇa** m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt:
 
-:::media
+::: media
 ![](/images/lekt0201.webp)
 Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts).
 (Bildquelle: [Details](/licenses#lekt0201))
@@ -169,11 +164,10 @@ Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschn
 
 Die drei Stände tragen die jeweilige Standestracht. Über den – damit als gottgewollt bezeichneten – Ständen thront Christus.
 
-Max Weber &lt;1864 – 1920&gt; definiert Stand so:
+Max Weber \<1864 – 1920\> definiert Stand so:
 
-:::
-note-box
-»**Stand**« soll eine Vielheit von Menschen heißen, die innerhalb eines Verbandes wirksam
+::: note-box
+»**Stand**« soll eine Vielheit von Menschen heissen, die innerhalb eines Verbandes wirksam
 a) eine ständische Sonderschätzung, - eventuell also auch
 b) ständische Sondermonopole in Anspruch nehmen.
 
@@ -182,23 +176,23 @@ a) primär, durch eigene ständische Lebensführung, darunter insbesondere durch
 b) sekundär, erbcharismatisch, durch erfolgreiche Prestigeansprüche kraft ständischer **Abstammung** (**Geburtsstände**),
 c) durch ständische **Appropriation** von politischen oder hierokratischen Herrengewalten als Monopole (**politische bzw. hierokratische Stände**).
 
-Die geburtsständische Entwicklung ist regelmäßig eine Form der (erblichen) Appropriation von Privilegien an einen Verband oder an qualifizierte Einzelne. Jede feste Appropriation von Chancen, insbesondere [von] Herren [gewalten oder Erwerbs] chancen, neigt dazu, zur Ständebildung zu führen. Jede Ständebildung neigt dazu, zur monopolistischen Appropriation von Herrengewalten und Erwerbschancen zu führen.
+Die geburtsständische Entwicklung ist regelmässig eine Form der (erblichen) Appropriation von Privilegien an einen Verband oder an qualifizierte Einzelne. Jede feste Appropriation von Chancen, insbesondere [von] Herren [gewalten oder Erwerbs] chancen, neigt dazu, zur Ständebildung zu führen. Jede Ständebildung neigt dazu, zur monopolistischen Appropriation von Herrengewalten und Erwerbschancen zu führen.
 
 Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, entstehen und bestehen Stände vorzugsweise auf dem Boden der monopolistisch leiturgischen oder der feudalen oder der ständisch patrimonialen Bedarfsdeckung von Verbänden.
 
-»**Ständisch**« soll eine Gesellschaft heißen, wenn die soziale Gliederung vorzugsweise nach Ständen, »**klassenmäßig**«, wenn sie vorzugsweise nach Klassen geschieht. Dem »Stand« steht von den »Klassen« die »soziale« Klasse am nächsten, die »Erwerbsklasse« am fernsten. Stände werden oft ihrem Schwerpunkt nach durch Besitzklassen gebildet.
+»**Ständisch**« soll eine Gesellschaft heissen, wenn die soziale Gliederung vorzugsweise nach Ständen, »**klassenmässig**«, wenn sie vorzugsweise nach Klassen geschieht. Dem »Stand« steht von den »Klassen« die »soziale« Klasse am nächsten, die »Erwerbsklasse« am fernsten. Stände werden oft ihrem Schwerpunkt nach durch Besitzklassen gebildet.
 
 Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung.
 
-[**Weber, Max &lt;1864 – 1920&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max \<1864 – 1920\>:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
-Varṇas sind demgemäß Geburtsstände.
+Varṇas sind demgemäss Geburtsstände.
 
 **kavi** m. -- ⟪कवि⟫ : Dichter.
 
 **agni** m. -- ⟪अग्नि⟫ : Feuer, Gott Agni.
 
-:::media
+::: media
 ![](/images/lekt0203.jpg)
 Abb.: Gott Agni, Miniatur, 18. Jh.
 (Bildquelle: [Details](/licenses#lekt0203))
@@ -207,7 +201,7 @@ Abb.: Gott Agni, Miniatur, 18. Jh.
 
 **sādhu** m. -- ⟪साधु⟫ : "heiliger" Mann, Sādhu.
 
-:::media
+::: media
 ![](/images/lekt0202.webp)
 Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
 (Bildquelle: [Details](/licenses#lekt0202))
@@ -216,7 +210,6 @@ Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
 
 **guru** m. -- ⟪गुरु⟫ : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister
 
----
 
 ## 2.6. Übung
 

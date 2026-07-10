@@ -3,7 +3,13 @@
 import os, re, subprocess
 from pathlib import Path
 from datetime import datetime
+import unicodedata
 
+def vlen(s):
+    return sum(2 if unicodedata.east_asian_width(c) in 'WF' else 1 for c in str(s))
+
+def pad_str(s, width):
+    return str(s) + " " * max(0, width - vlen(s))
 ROOT = Path(__file__).parent.parent
 DOCS = ROOT / "docs"
 
@@ -22,18 +28,28 @@ LANGS = {
     "la": ("Latina",   DOCS / "la/lektionen"),
     "rm": ("Rumantsch",DOCS / "rm/lektionen"),
     "ro": ("Română",   DOCS / "ro/lektionen"),
+    "he": ("עברית",    DOCS / "he/lektionen"),
+    "id": ("Indonesia",DOCS / "id/lektionen"),
+    "zh-CN": ("简体中文", DOCS / "zh-CN/lektionen"),
+    "ar": ("العربية",   DOCS / "ar/lektionen"),
+    "arc": ("ܐܪܡܝܐ",    DOCS / "arc/lektionen"),
 }
 
 def count_files(d, pattern):
     if not d.exists():
-        return 0
-    return len(list(d.glob(pattern)))
+        return 0, 0
+    files = list(d.glob(pattern))
+    total = len(files)
+    translated = sum(1 for f in files if "TODO: Fallback translation" not in f.read_text(encoding="utf-8", errors="ignore"))
+    return total, translated
 
 def root_files(d):
     if not d.exists():
-        return 0
-    return len([f for f in d.glob("*.md")
-                if not re.match(r'(lektion|schrift|uebung)\d', f.name)])
+        return 0, 0
+    files = [f for f in d.glob("*.md") if not re.match(r'(lektion|schrift|uebung)\d', f.name)]
+    total = len(files)
+    translated = sum(1 for f in files if "TODO: Fallback translation" not in f.read_text(encoding="utf-8", errors="ignore"))
+    return total, translated
 
 def status_bar(n, total, width=20):
     filled = int(width * n / total) if total else 0
@@ -108,17 +124,21 @@ print("  ── Übersetzungsstand ───────────────
 print(f"  {'':4} {'Sprache':<12} {'Lektionen':>20}  {'Schriften':>14}  {'Übungen':>14}  Root")
 print(f"  {'':4} {'-'*12}  {'-'*20}  {'-'*14}  {'-'*14}  ----")
 for code, (name, d) in LANGS.items():
-    lekt = count_files(d, "lektion*.md")
-    schr = count_files(d, "schrift*.md")
-    ueb  = count_files(d, "uebung*.md")
-    root = root_files(d)
-    lekt_ok = "✅" if lekt == 61 else "🔄" if lekt > 0 else "⏳"
-    schr_ok = "✅" if schr == 11 else "🔄" if schr > 0 else "⏳"
-    ueb_ok  = "✅" if ueb  == 61 else "🔄" if ueb  > 0 else "⏳"
-    print(f"  {lekt_ok}  {code:2} {name:<10}  "
-          f"{lekt:3}/61 {schr_ok}  "
-          f"{schr:3}/11 {ueb_ok}  "
-          f"{ueb:3}/61  {root}")
+    lekt_t, lekt_tr = count_files(d, "lektion*.md")
+    schr_t, schr_tr = count_files(d, "schrift*.md")
+    ueb_t, ueb_tr   = count_files(d, "uebung*.md")
+    root_t, root_tr = root_files(d)
+    
+    lekt_ok = "✅" if lekt_tr >= 61 else "🔄" if lekt_tr > 0 else "⏳"
+    schr_ok = "✅" if schr_tr >= 11 else "🔄" if schr_tr > 0 else "⏳"
+    ueb_ok  = "✅" if ueb_tr  >= 61 else "🔄" if ueb_tr  > 0 else "⏳"
+    
+    code_pad = f"{code:<5}"
+    name_pad = pad_str(name, 10)
+    print(f"  {lekt_ok}  {code_pad} {name_pad}  "
+          f"{lekt_tr:>2}/{lekt_t:<2} {schr_ok}  "
+          f"{schr_tr:>2}/{schr_t:<2} {ueb_ok}  "
+          f"{ueb_tr:>2}/{ueb_t:<2}  {root_tr}/{root_t}")
 
 # ── Phasenstatus ─────────────────────────────────────────────────────────────
 print("\n  ── GSD Phasenstatus ───────────────────────────────────")

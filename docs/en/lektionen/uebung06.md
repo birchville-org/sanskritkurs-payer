@@ -62,94 +62,94 @@ dhenavo viśanti. dhenavo bhavanti.
 
 C) Translate into Sanskrit:
 
-1. He venerates with a sacrifice. (The priest for a sacrificer)
+1\. He venerates with a sacrifice. (The sacrificial priest for a sacrifice lord)
 
 yajati.
 
 ⟪यजति⟫ ⟪।⟫
 
-2. Śiva dances.
+2\. Śiva dances.
 
 śivo nṛtyati.
 
 ⟪शिवो⟫ ⟪नृत्यति⟫ ⟪।⟫
 
-3. Rāma leads.
+3\. Rāma leads.
 
 rāmo nayati.
 
 ⟪रामों⟫ ⟪नयति⟫ ⟪।⟫
 
-4. Śūdras are confused.
+4\. Śūdras are confused.
 
 śūdrā muhyanti.
 
 ⟪शूद्रा⟫ ⟪मुह्यन्ति⟫ ⟪।⟫
 
-5. The Kṣatriya women enter.
+5\. The Kṣatriya women enter.
 
 kṣatriyā viśanti.
 
 ⟪क्षत्रिया⟫ ⟪विशन्ति⟫ ⟪।⟫
 
-6. The LORD causes to emanate.
+6\. The LORD causes to emanate.
 
 īśvaraḥ sṛjati.
 
 ⟪ईश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
 
-7. The Kṣatriya venerates with a sacrifice. (as a sacrificer)
+7\. The Kṣatriya venerates with a sacrifice. (as sacrifice lord)
 
 kṣatriyo yajate.
 
 ⟪क्षत्रियो⟫ ⟪यजते⟫ ⟪।⟫
 
-8. Śūdra women dance.
+8\. Śūdra women dance.
 
 śūdrā nṛtyanti.
 
 ⟪शूद्रा⟫ ⟪नृत्यन्ति⟫ ⟪।⟫
 
-9. Kṣatriyas fight.
+9\. Kṣatriyas fight.
 
 kṣatriyā yudhyante.
 
 ⟪क्षत्रिया⟫ ⟪युध्यन्ते⟫ ⟪।⟫
 
-10. Holy men lead.
+10\. Holy men lead.
 
 sādhavo nayanti.
 
 ⟪साधवो⟫ ⟪नयन्ति⟫ ⟪।⟫
 
-11. They remember.
+11\. They remember.
 
 smaranti.
 
 ⟪स्मरन्ति⟫ ⟪।⟫
 
-12. Who (fem.) dances?
+12\. Who (fem.) dances?
 
 kā nṛtyati?
 
 ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 
-13. The (mentioned) Brahmin woman dances.
+13\. The (mentioned) Brahman woman dances.
 
 sā brāhmaṇī nṛtyati.
 
 ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪नृत्यति⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung004.jpg)
 Fig.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
-(Image source: [Details](/en/licenses#uebung004))
+(Image source: [Details](/licenses#uebung004))
 :::
 ---
 
 ## Review Exercise Lesson 6
 
-A) Fill-in exercise: Form questions to which the sentences, which you form after the following fill-in exercises, are answers:
+A) Insertion exercise: Form questions to which the sentences you form after the following insertion exercises are answers:
 
 1\. devas ... (īśvara, nṛt, sṛj, agni, indra)
 
@@ -239,7 +239,7 @@ sādhū rāmaḥ.
 
 ⟪साधू⟫ ⟪रामः⟫ ⟪॥⟫
 
-B) Put into the plural:
+B) Put them into the plural:
 
 1\. brāhmaṇo yajati.
 
@@ -419,25 +419,25 @@ E) Translate:
 
 ⟪देवतान्नपूर्णा⟫
 
-Annapūrṇā is a deity.
+Annapūrṇā ist eine Gottheit.
 
 2\. śūdretarā.
 
 ⟪शूद्रेतरा⟫
 
-Itarā is a Śūdra woman.
+Itarā ist eine Śūdrafrau.
 
 3\. vaiśyastulādhāraḥ.
 
 ⟪वैश्यस्तुलाधारः⟫
 
-Tulādhara is a Vaiśya.
+Tulādhara ist ein Vaiśya.
 
 4\. kavirmāghaḥ.
 
 ⟪कविर्माघः⟫
 
-Māgha is a poet.
+Māgha ist ein Dichter.
 
 5\. devyumā.
 
@@ -449,7 +449,7 @@ Umā is a goddess.
 
 ⟪श्रुतिर्वेदः⟫
 
-The Veda is Śruti.
+Der Veda ist Śruti.
 
 7\. dhenurviśati.
 
@@ -479,11 +479,11 @@ The master is a saint.
 
 ⟪गुरुर्यजते⟫ ⟪॥⟫
 
-The master sacrifices as a sacrificer.
+The master sacrifices as the officiating priest.
 
 F) Translate into Sanskrit:
 
-1\. Rāma sacrifices (as a sacrificer).
+1\. Rāma sacrifices (as the officiating priest).
 
 rāmo yajate.
 
@@ -525,7 +525,7 @@ indra īśvaraḥ.
 
 ⟪इन्द्र⟫ ⟪ईश्वरः⟫ ⟪।⟫
 
-8\. The livestock enter.
+8\. The domestic animals enter.
 
 paśavo viśanti.
 
@@ -555,13 +555,13 @@ sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
 ⟪साध्व्यीयं⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्व्येषा⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्वी⟫ ⟪सा⟫ ⟪देवी⟫ ⟪।⟫
 
-13\. The five "afflictions" are: ignorance, ego, passion (love), hatred, attachment to the body. (2 possibilities)
+13\. The five "afflictions" are: ignorance, egoism, passion (love), hatred, attachment to the body. (2 possibilities)
 
 avidyāsmitārāgadveṣābhniveśāḥ pañca kleśāḥ / avidyāsmitā rāgo dveṣo 'bhiniveśaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫ ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-14\. "Abodes of Brahmā" are: friendly benevolence, compassion, sympathetic joy, equanimity. (2 possibilities)
+14\. "Abodes of Brahman" are: friendly goodwill, compassion, sympathetic joy, equanimity. (2 possibilities)
 
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ / maitrī karuṇā muditopekṣā (ca) brahmavihārāḥ.
 
@@ -573,32 +573,32 @@ ete / ime brāhmaṇā yajanti.
 
 ⟪एते⟫ / ⟪इमे⟫ ⟪ब्राह्मणा⟫ ⟪यजन्ति⟫ ⟪।⟫
 
-16\. Brahmins, Kṣatriyas and Vaiśyas are twice-born. (2 possibilities)
+16\. Brahmins, Kṣatriyas and Vaśyas are twice-born. (2 possibilities)
 
 dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣatriyā vaiśyāś ca.
 
 ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ⟪।⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
-17\. The sciences (for a prince) are: philosophy, the triple (Vedic knowledge), economics and politics. (2 possibilities)
+17. The sciences (for a prince) are: philosophy, the triple (Vedic knowledge), economics, and politics. (2 possibilities)
 
 ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ / ānvīkṣikī trayī vārttā daṇḍanītiś ca vidyāḥ.
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪।⟫ ⟪आन्वीक्षिकी⟫ ⟪त्रयी⟫ ⟪वार्त्ता⟫ ⟪दण्डनीतिश्च⟫ ⟪विद्याः⟫ ⟪।⟫
 
-18 .Are you well?
+18. Are you well?
 
 kiṃ kuśalam?
 
 ⟪किं⟫ ⟪कुशलम्⟫ ⟪।⟫
 
-19. (It goes with) me in every respect well.
+19. (I am) well in every respect.
 
 sarvathā kuśalam.
 
 ⟪सर्वथा⟫ ⟪कुशलम्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung005.webp)
 Fig.: ⟪देवतान्नपूर्णा⟫
-(Image source: [Details](/en/licenses#uebung005))
+(Image source: [Details](/licenses#uebung005))
 :::

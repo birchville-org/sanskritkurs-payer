@@ -8,7 +8,7 @@ The following form is also commonly used for jha:
 
 ![](/images/schrift010.jpg)
 
-In older books printed in Calcutta, the following forms for jha can also be found:
+In older books printed in Calcutta, one also finds the following forms for jha:
 
 ![](/images/schrift011.jpg)
 

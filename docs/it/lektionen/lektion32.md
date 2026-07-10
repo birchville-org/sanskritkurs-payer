@@ -1,5 +1,5 @@
 ---
-title: Lezione 32
+title: Lektion 32
 lesson_id: 32
 status: stable
 ---
@@ -8,7 +8,7 @@ status: stable
 
 ## 32.1. I tempi del passato
 
-::::grammar-box
+::: grammar-box
 **Nella letteratura sanscrita più antica e tra i grammatici indigeni, i tre tempi del passato sono chiaramente distinti nel loro uso:**
 
 *   **l'Aoristo (⟪लुङ्⟫, ⟪अद्यतनी⟫) indica semplicemente il completamento di un'azione o ciò che è accaduto durante il giorno corrente, il passato recente**
@@ -16,12 +16,10 @@ status: stable
 *   **il Perfetto (⟪लिट्⟫) indica, come l'Imperfetto, il passato remoto, ma, a differenza dell'Imperfetto, è usato solo per eventi che il parlante stesso non ha visto**
 
 **Nella letteratura sanscrita classica, i tre tempi del passato sono usati senza distinzione di significato (eccezione: la poesia di ⟪भारवि⟫ ⟪किरातार्जुनीय⟫).**
-::::
-**
-
+:::
 ## 32.2. L’imperfetto (⟪लङ्⟫)
 
-::::grammar-box
+::: grammar-box
 **Formazione:**
 
 **Augmento a- + tema del presente + desinenze secondarie**
@@ -29,24 +27,24 @@ status: stable
 **Le tre persone del singolare del Parasmaipada all’imperfetto si formano, per le radici atematiche, dal tema del presente forte; tutte le altre forme dal tema del presente debole.**
 
 **L’imperfetto ha solo l’indicativo.**
-::::
+:::
 Esempi:
 
-:::indent
+::: indent
 **⟪भू⟫** 3. sg. Imp. P. **⟪अभवत्⟫** (a-bhava-t)
 
-**⟪सु⟫**
+⟪सु⟫
 *   3. sg. Imp. P. **⟪असुनोत्⟫** (a-suno-t)
 *   3. pl. Imp. P. **⟪असुन्वन्⟫** (a + sunu + an)
 :::
 ## 32.3. Regole per l'augmento
 
-::::grammar-box
+::: grammar-box
 **1. Quando l'augmenta a- precede una radice che inizia con una vocale, l'augmenta e l'inizio della radice si fondono nella ⟪वृद्धि⟫ della vocale radicale.**
-::::
+:::
 Esempi:
 
-::::grammar-box
+::: grammar-box
 
 | | 3. sg. Impf. | 3. pl. Impf. |
 | :--- | :--- | :--- |
@@ -54,12 +52,13 @@ Esempi:
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
 | ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
-::::::::grammar-box
+:::
+::: grammar-box
 **2. Quando le preposizioni precedono una radice, l'augmenta a- segue le preposizioni e precede immediatamente la radice.**
-::::
+:::
 Esempi:
 
-::::grammar-box
+::: grammar-box
 
 | | 3. sg. Impf. |
 | :--- | :--- |
@@ -68,57 +67,56 @@ Esempi:
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
-::::
+:::
 ## 32.4. Esempi di formazione dell'imperfetto
 
-:::
-important
-**Per dimostrare la formazione delle forme, vengono qui generate anche forme ātmanepada da radici parasmaipada! Queste forme artificiali sono racchiuse tra &lt; &gt;.**
+::: important
+**Per dimostrare la formazione delle forme, vengono qui generate anche forme ātmanepada da radici parasmaipada! Queste forme artificiali sono racchiuse tra \< \>.**
 :::
 ### 32.4.1. Classi tematiche del presente
 
-::::grammar-box
+::: grammar-box
 
-| Classe del presente | Radice:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Presenteklasse | Radice:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | &lt;⟪अभवत⟫&gt; | &lt;⟪अभवन्त⟫&gt; |
-| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | &lt;⟪अनृत्यत⟫&gt; | &lt;⟪अनृत्यन्त⟫&gt; |
-| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | &lt;⟪अविशत⟫&gt; | &lt;⟪अविशन्त⟫&gt; |
+| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \<⟪अभवत⟫\> | \<⟪अभवन्त⟫\> |
+| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \<⟪अनृत्यत⟫\> | \<⟪अनृत्यन्त⟫\> |
+| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \<⟪अविशत⟫\> | \<⟪अविशन्त⟫\> |
 | 10. / Caus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
 | Passivo | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
-::::
+:::
 ### 32.4.2. Classi di presente atematico
 
-::::grammar-box
+::: grammar-box
 
-| Classe di presente | Radice:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Presenteklasse | Radice:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ &gt; adveṣ &gt; adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
-| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t &gt; adogdh &gt; adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
+| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ \> adveṣ \> adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
+| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t \> adogdh \> adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
 | 2. | ⟪इ⟫ | ⟪ऐत्⟫ | ⟪आयन्⟫ | | |
-| 2. | ⟪हन्⟫ | ⟪अहन्⟫:br(da *ahant) | ⟪अघ्नन्⟫ | | |
+| 2. | ⟪हन्⟫ | ⟪अहन्⟫:br(aus *ahant) | ⟪अघ्नन्⟫ | | |
 | 2. | ⟪स्तु⟫ | ⟪अस्तौत्⟫:br⟪अस्तवीत्⟫ | ⟪अस्तुवन्⟫ | ⟪अस्तुत⟫ | ⟪अस्तुवत⟫ |
 | 2. | ⟪अस्⟫ | ⟪आसीत्⟫ | ⟪आसन्⟫ | | |
 | 5. | ⟪सु⟫ | ⟪असुनोत्⟫ | ⟪असुन्वन्⟫ | ⟪असुनुत⟫ | ⟪असुन्वत⟫ |
-| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | &lt;⟪आप्नुत⟫&gt; | &lt;⟪आप्नुवत⟫&gt; |
+| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \<⟪आप्नुत⟫\> | \<⟪आप्नुवत⟫\> |
 | 8. | ⟪तन्⟫ | ⟪अतनोत्⟫ | ⟪अतन्वन्⟫ | ⟪अतनुत⟫ | ⟪अतन्वत⟫ |
 | 8. | ⟪कृ⟫ | ⟪अकरोत्⟫ | ⟪अकुर्वन्⟫ | ⟪अकुरुत⟫ | ⟪अकुर्वत⟫ |
-| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t &gt; ayunakt &gt; ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
-| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t &gt; aruṇaddh &gt; aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
+| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t \> ayunakt \> ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
+| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t \> aruṇaddh \> aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
-::::
+:::
 ## 32.5. Elenco di parole
 
 **⟪अग्र⟫ n.:** Punta, estremità
 
 **⟪मही⟫ f.:** Terra, fondamento e suolo (letteralmente: la Grande)
 
-**⟪एकदा⟫**
+⟪एकदा⟫
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
-:::indent
+::: indent
 ⟪श्रमिष्यते⟫:br
 ⟪श्रम्यते⟫:br
 ⟪श्रमयति⟫:br
@@ -127,26 +125,26 @@ important
 -⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
 :::
-**⟪पार्श्व⟫**
+⟪पार्श्व⟫
 
-**⟪चूत⟫**
+⟪चूत⟫
 
-:::media
+::: media
 ![](/images/lekt3202.webp)
 Fig.: ⟪चूतः⟫
 Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3202))
 :::
-**⟪तरु⟫** **⟪वृक्ष⟫**
+⟪तरु⟫ ⟪वृक्ष⟫
 
-**⟪पचेलिम⟫**
+⟪पचेलिम⟫
 
-**⟪स्पृहा⟫**
+⟪स्पृहा⟫
 
-**⟪परम्⟫**
+⟪परम्⟫
 
 **⟪रुह्⟫ ⟪रोहति⟫**
-:::indent
+::: indent
 ⟪रोक्ष्यति⟫:br
 ⟪रुह्यते⟫:br
 ⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
@@ -155,7 +153,7 @@ Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 ⟪रोढुम्⟫
 :::
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
-:::indent
+::: indent
 ⟪ग्रहीष्यति⟫ (!):br
 ⟪गृह्यते⟫:br
 ⟪ग्राहयति⟫:br
@@ -165,42 +163,42 @@ Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 :::
 **⟪वानर⟫ ⟪कपि⟫**
 
-:::media
+::: media
 ![](/images/lekt3203.webp)
 Fig.: ⟪वानराः⟫
 Scimmie (macachi rhesus) a Delhi. [Fonte immagine: dewalt / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3203))
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
-:::indent
+::: indent
 ⟪लोकयिष्यति⟫:br
 ⟪लोक्यते⟫:br
 ⟪लोकित⟫:br
 -⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
 :::
-**⟪प्रहर्ष⟫**
+⟪प्रहर्ष⟫
 
-**⟪कति⟫**
+⟪कति⟫
 
-**⟪उपल⟫**
+⟪उपल⟫
 
-:::media
+::: media
 ![](/images/lekt3204.webp)
 Fig.: ⟪उपलाः⟫
 Cava di pietra a sud di Pune, Maharashtra. [Fonte immagine: lecercle / Flickr. CC BY-NC-SA]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3204))
 :::
-**⟪लक्ष्य⟫**
+⟪लक्ष्य⟫
 
-:::media
+::: media
 ![](/images/lekt3205.webp)
 Fig.: ⟪लक्ष्यम्⟫
 Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlogelin / Flickr. CC BY-NC]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3205))
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
-:::indent
+::: indent
 ⟪क्षेप्स्यति⟫:br
 ⟪क्षिप्यते⟫:br
 ⟪क्षेपयति⟫:br
@@ -209,14 +207,15 @@ Esercitazione di tiro / bersaglio per frecce, Karnataka. [Fonte immagine: mattlo
 ⟪क्षेप्तुम्⟫
 :::
 **⟪चि⟫ ⟪चिनोति⟫**
-:::indent
+::: indent
 ⟪चेष्यति⟫:br
 ⟪चीयते⟫:br
 ⟪चाययति⟫:br
 ⟪चित⟫:br
 -⟪चित्य⟫:br
 ⟪चेतुम्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3207.webp)
 Fig.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
 Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine: thebigdurian / Flickr. CC BY-NC-SA]
@@ -224,13 +223,13 @@ Forni per la cottura di mattoni di sterco di mucca in Rajasthan. [Fonte immagine
 :::
 **⟪चि⟫ ⟪अव⟫**
 
-**⟪प्रति⟫**
+⟪प्रति⟫
 
-**⟪अहो⟫**
+⟪अहो⟫
 
 **⟪कौशल⟫ ⟪कुशल⟫**
 
-:::media
+::: media
 ![](/images/lekt3206.webp)
 Fig.: ⟪कौशलम्⟫
 Pittura di mehndi sulle mani a Mumbai. [Fonte immagine: the_gman / Flickr. CC BY-NC-SA]
@@ -328,7 +327,7 @@ B) Tradurre e risolvere i composti in sanscrito:
 
 ⟪बुद्धपुत्राः⟫ ⟪सत्यमाजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫
 
-:::media
+::: media
 ![](/images/lekt3208.webp)
 Fig.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
 Monaco buddhista nello Sri Lanka. [Fonte immagine: Trollderella / Wikipedia. GNU FDL]
@@ -551,7 +550,7 @@ C) Tradurre in Sanscrito:
 
 52. Arrivederci!
 
-:::media
+::: media
 ![](/images/lekt3209.webp)
 Fig.: ⟪पुनर्दर्शनाय⟫
 Saluto indiano / congedo. [Fonte immagine: dhyanji / Flickr. CC BY-NC-ND]
@@ -604,9 +603,8 @@ Tradurre e determinare le seguenti forme lessicali:
 
 ## 32.9. Esercizio di traduzione
 
-:::
-compact
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫**⟪न्पथि⟫** ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
+::: compact
+⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
 ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫:br
@@ -614,29 +612,30 @@ compact
 ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫:br
 ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫:br
 ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫:br
-⟪स⟫ ⟪कतिचिदुपला⟫**⟪नादाय⟫** ⟪वानरां⟫**⟪ल्लक्ष्यीकृत्य⟫** ⟪प्राक्षिपत्⟫ ⟪।⟫:br
+⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫:br
 ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫:br
-⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫**⟪दाय⟫** ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
+⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 :::
 (da: ⟪संस्कृतबालादर्श⟫)
 
-
 Spiegazioni:
 
-:::indent
+::: indent
 **⟪पथि⟫** Loc. sg. di **⟪पथ्⟫ m.** "strada" (declinazione irregolare)
 
 **⟪लक्ष्यीकृ⟫** ⟪च्विऽ⟫-suffisso ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : rendere qualcosa ⟪लक्ष्य⟫, ciò che prima non ⟪लक्ष्य⟫ era
 
 **⟪आदाय⟫** Assolutivo di **⟪आ⟫-⟪दा⟫** (3ª classe del presente) "prendere"
-::::::media
+:::
+::: media
 ![](/images/lekt3210.webp)
 Fig.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Scimmie negli alberi di mango. [Fonte immagine: Wikipedia. GNU FDL]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3210))
-::::::deleteme-box
+:::
 
+::: deleteme-box
 
 **lekt3202:** Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 
@@ -656,3 +655,4 @@ Scimmie negli alberi di mango. [Fonte immagine: Wikipedia. GNU FDL]
 
 **lekt3210:** Scimmie negli alberi di mango. [Fonte immagine: Wikipedia. GNU FDL]
 :::
+

@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Form the corresponding perfect forms for the following verb forms:
 
-:::grammar-box
+::: grammar-box
 | Present / Imperfect | Perfect |
 | :--- | :--- |
 | ⟪१⟫. **⟪गायन्ति⟫** | ⟪जगुः⟫ |
@@ -83,7 +83,7 @@ C) Transform the sentences of exercise B) by replacing perfects with imperfects:
 
 ⟪४⟫. ⟪अर्हन्तः⟫ ⟪कुलबन्धनमभिन्दंल्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪चारुन्धन्सत्यमजानन्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमाप्नुवन्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung058.webp)
 Fig.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
 (Image source: [Details](/en/licenses#uebung058))

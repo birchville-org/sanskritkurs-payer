@@ -111,7 +111,7 @@ etair guravas tu śrūyante.
 
 ⟪एतैर्गुरवस्तु⟫ ⟪श्रूयन्ते⟫ ⟪।⟫
 
-Ellos escuchan, sin embargo, a sus maestros.
+Pero ellos escuchan a sus maestros.
 
 13\. sādhuḥ svargamāpnoti. ⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫
 
@@ -127,7 +127,7 @@ brāhmaṇaiḥ somaḥ sūyate.
 
 ⟪ब्राह्मणैः⟫ ⟪सोमः⟫ ⟪सूयते⟫ ⟪।⟫
 
-Los brahmanes presionan el soma.
+Los brahmanes prensan el soma.
 
 15\. paśūṃllabhate. ⟪पशूल्ंलभते⟫
 
@@ -147,19 +147,19 @@ kair yodhaiḥ kṣatriyaiḥ saha yudhyate.
 
 D) Traduzca al sánscrito:
 
-1\. Un brahmán va a la aldea con un vaiśya.
+1\. Un brahmán va al pueblo con un vaiśya.
 
 brāhmano vaiśyena saha grāmaṃ gacchati.
 
 ⟪ब्राह्मणो⟫ ⟪वैश्येन⟫ ⟪सह⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 
-2\. Él venera a viṣṇu con un sacrificio. (¡Expresar sacrificio con yajña!)
+2\. Él venera a Viṣṇu con un sacrificio. (¡Expresar sacrificio con yajña!)
 
 yajñena viṣṇuṃ yajati / yajate.
 
 ⟪यज्ञेन⟫ ⟪विष्णुं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
 
-3\. El veda se llama śruti. (vad)
+3\. El Veda es llamado śruti. (vad)
 
 vedaḥ śrutir (ity) udyate.
 
@@ -177,13 +177,13 @@ gurubhiḥ pṛcchyate.
 
 ⟪गुरुभिः⟫ ⟪प्र्च्छ्यते⟫ ⟪।⟫
 
-6\. El ojo guía. (Construcción pasiva) (Los ojos y las orejas normalmente se usan en dual)
+6\. El ojo guía. (Construcción pasiva) (El ojo y el oído normalmente se usan en dual)
 
 netreṇa nīyate.
 
 ⟪नेत्रेण⟫ ⟪नीयते⟫ ⟪।⟫
 
-7\. El poeta ve una deidad. (Construcción pasiva)
+7\. El poeta ve a una deidad. (Construcción pasiva)
 
 kavinā devatā dṛśyate.
 
@@ -195,19 +195,19 @@ kayā bālā rakṣyate.
 
 ⟪कया⟫ ⟪बाला⟫ ⟪रक्ष्यते⟫ ⟪।⟫
 
-9\. El kṣatriya veneró al SEÑOR con un sacrificio. (Construcción pasiva, sin usar la palabra yajña)
+9\. El kṣatriya venera al SEÑOR con un sacrificio. (Construcción pasiva, sin usar la palabra yajña)
 
 kṣatriyeṇeśvara ijyate.
 
 ⟪क्षत्रियेनेश्वर⟫ ⟪इज्यते⟫ ⟪।⟫
 
-10\. Mediante la generosidad, un seguidor de buda alcanza un cielo.
+10\. Mediante la generosidad, un seguidor de Buda alcanza el cielo.
 
 dānena śrāvakaḥ svargam āpnoti / aśnute.
 
 ⟪दानेन⟫ ⟪श्रावकः⟫ ⟪स्वर्गमाप्नोति⟫ / ⟪स्वर्गमश्नुते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung011.webp)
 Fig.: ⟪ग्रामः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung011))
@@ -218,7 +218,7 @@ Fig.: ⟪ग्रामः⟫
 
 Lea y traduzca, y convierta a pasiva:
 
-**⟪क⟫**
+⟪क⟫
 
 ⟪१⟫.
 > ⟪मक्सिका⟫ ⟪व्रणमिच्छन्ति⟫
@@ -231,7 +231,7 @@ Lea y traduzca, y convierta a pasiva:
 > ⟪नीचैः⟫ ⟪कलह⟫ ⟪इष्यते⟫
 > ⟪शान्तिरिष्यते⟫ ⟪साध⟫u⟪भिः⟫ ⟪॥⟫
 
-Los pájaros desean una herida,
+Las moscas desean una herida,
 Los reyes desean riqueza,
 Los viles desean contienda,
 Los santos desean paz.
@@ -242,11 +242,11 @@ Los dioses crean a los seres humanos.
 
 ⟪३⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ |
 ⟪कविभिर्धनं⟫ ⟪लभ्यते⟫ ⟪।⟫
-Los poetas anhelan riqueza.
+Los poetas anhelan la riqueza.
 
 ⟪४⟫. ⟪ऋषिः⟫ ⟪सूक्तानि⟫ ⟪पश्यति⟫ |
 ⟪ऋषिणा⟫ ⟪सूक्तानि⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
-El sabio védico ve los himnos védicos.
+El sabio védico ve los cantos védicos.
 
 ⟪५⟫. ⟪विष्णुमृषिर्यजति⟫ |
 ⟪विष्णुरृषिणेज्यते⟫ ⟪।⟫
@@ -254,7 +254,7 @@ Der vedische Weise opfert Viṣṇu.
 
 ⟪६⟫. ⟪गुरूञ्शिष्यांश्च⟫ ⟪पश्यति⟫ |
 ⟪गुरवः⟫ ⟪शिष्याश्च⟫ ⟪दृश्यन्ते⟫ ⟪।⟫
-Él ve al maestro y al alumno.
+Él ve a los maestros y a los estudiantes.
 
 ⟪७⟫. ⟪स्वर्गं⟫ ⟪लभन्ते⟫ |
 ⟪स्वर्गो⟫ ⟪लभ्यते⟫ ⟪।⟫
@@ -266,17 +266,17 @@ Allí un sabio védico saluda al sol.
 
 ⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
 ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
-Ellos van a la aldea.
+Ellos van al pueblo.
 
 ⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
 ⟪दानानि⟫ ⟪वृष्यन्ते⟫ ⟪नृपैः⟫ ⟪॥⟫
 Los reyes hacen llover regalos.
 
-**⟪ख⟫**
+⟪ख⟫
 
 ⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ |
 ⟪सदा⟫ ⟪देवाः⟫ ⟪स्मर्यन्ते।⟫
-Ellos se representan constantemente a los dioses.
+Ellos siempre representan a los dioses.
 
 ⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ |
 ⟪ऋषिभिः⟫ ⟪सह⟫ ⟪रामेणोष्यते⟫ ⟪।⟫
@@ -288,11 +288,11 @@ Rāma wohnt bei den vedischen Weisen.
 
 ⟪४⟫. ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ |
 ⟪मार्गेन⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪मार्गेन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
-Ellos van por el camino a la aldea.
+Ellos van por el camino al pueblo.
 
 ⟪५⟫. ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪नराः⟫ |
 ⟪धनेने⟫ ⟪नरैः⟫ ⟪सुखमिष्यते⟫ ⟪।⟫
-Los seres humanos desean felicidad mediante la riqueza.
+Las personas quieren felicidad a través de la riqueza.
 
 ⟪६⟫. ⟪एवं⟫ ⟪वदन्ति⟫ |
 ⟪एवमुद्यते⟫ ⟪।⟫
@@ -300,7 +300,7 @@ Así se dice.
 
 ⟪७⟫. ⟪शान्त्यर्षय⟫ ⟪इह⟫ ⟪शोभन्ते⟫ |
 ⟪शान्त्यर्षिभिरिह⟫ ⟪शुभ्यते⟫ ⟪।⟫
-En la tierra brillan los santos por su pacifismo.
+En la tierra los santos brillan por su pacifismo.
 
 ⟪८⟫. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
 ⟪कपिभिः⟫ ⟪फलानि⟫ ⟪खाद्यन्ते⟫ ⟪।⟫
@@ -312,13 +312,13 @@ El elefante corre.
 
 ⟪१०⟫. ⟪हरिर्गृहं⟫ ⟪गच्छ⟫ti |
 ⟪हरिणा⟫ ⟪गृहं⟫ ⟪गम्यते⟫ ⟪।⟫
-Hari va a casa.
+Hari regresa a casa.
 
 ⟪११⟫. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ ||
 ⟪सारथिना⟫ ⟪रथो⟫ ⟪नीयते⟫ ⟪॥⟫
-El cochero conduce el carro.
+El cochero guía el carro.
 
-:::media
+::: media
 ![](/images/uebung012.webp)
 Fig.: ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung012))

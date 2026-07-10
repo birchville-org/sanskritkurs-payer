@@ -19,24 +19,26 @@ Lecțiile cursului de sanscrită tratează subiecte de gramatică sanscrită car
 
 ## 54.2. Formarea cuvintelor: sufixul -u al temelor desiderative ⟪कृत्⟫
 
-::::grammar-box
+::: grammar-box
 **La temele desiderative (⟪इच्छाप्रकृति⟫) („a dori să facă ceva“; „a fi pe punctul de a face ceva”) se adaugă sufixul -u pentru formarea numelor de agent.**
 
 (Formarea temelor desiderative urmează mai târziu)
 
 Exemplu:
 
-:::indent
+:::
+::: indent
 ⟪युयुत्सु⟫ (yu-yudh + s + u) „dornic de luptă, pe punctul de a lupta“
-::::::::::media
+:::: media
 ![](/images/lekt5402.webp)
 Fig.: ⟪अयुयुत्सुरर्जुनः⟫
 ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5402))
+::::
 :::
 ## 54.3. Metrika II: epica ⟪त्रिष्टुभ्⟫ și ⟪जगती⟫
 
-::::grammar-box
+::: grammar-box
 ⟪त्रिष्टुभ्⟫ („Triplu suspin”) apare în epopee, în mijlocul părților obișnuite de ⟪श्लोक⟫, exact în punctele în care starea de spirit sau acțiunea experimentează un impuls special sau o încheiere.
 
 Strofa ⟪त्रिष्टुभ्⟫ constă din patru ⟪पाद⟫ de câte unsprezece silabe, care nu se disting între ele prin structură.
@@ -46,58 +48,55 @@ Strofa ⟪त्रिष्टुभ्⟫ constă din patru ⟪पाद⟫ de
 Schema I:
 
 :::
-metrik-schema
+::: metrik-schema
 × — × — / × ◡ — **— ◡ — —**
 :::
 Schema II:
 
-:::
-metrik-schema
+::: metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
 Quantitatea celor patru ultime silabe este, așadar, aceeași în ambele scheme.
 
 Forma de bază ⟪जगती⟫: ca la ⟪त्रिष्टुभ्⟫, dar de douăsprezece silabe. Ultimele cinci silabe ale fiecărui Pada evidențiază următoarele cantități:
 
-:::
-metrik-schema
+::: metrik-schema
 **— ◡ — ◡ —**
 :::
 Împreună cu aceasta există așa-numita ⟪त्रिष्टुभ्⟫ tipic suplimentară, cu un segment inițial de cinci silabe, care continuă ca o ⟪त्रिष्टुभ्⟫ cu un segment inițial de patru silabe:
 
-:::
-metrik-schema
+::: metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
 În perioadele ulterioare, formele ⟪त्रिष्टुभ्⟫ sunt stabilite conform unei scheme riguroase de lungimi și scurtimi, pauza jucând un rol nul. Cele mai importante forme ulterioare sunt:
 
 a) ⟪इन्द्रवज्रा⟫
 
-:::
-metrik-schema
+::: metrik-schema
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-:::
-metrik-schema
+::: metrik-schema
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫
 
-:::indent
+::: indent
 ⟪पाद⟫ în ⟪इन्द्रवज्रा⟫ și ⟪पाद⟫ în ⟪उपेन्द्रवज्रा⟫ sunt amestecate într-o strofă.
-:::::::::::grammar-box
+:::
+::: grammar-box
 **Versuri de reținut:**
 
 **⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
 
-:::indent
+:::
+::: indent
 „Este o Indravājrā, dacă silabele din toate Pādas sunt ta ta ja ga ga.
 :::
 ⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
 
-:::indent
+::: indent
 „O Upendravajrā este ca o Indravajrā, care la început are o silabă ușoară”
 :::
 ⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
@@ -105,9 +104,9 @@ c) ⟪उपजाति⟫
 ⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
 ⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
 
-:::indent
+::: indent
 „Dacă doi Pādas, care au caracteristicile Indravajrā, respectiv Upendravajrā, sunt implicați într-un vers, atunci sunt Upajātis. De asemenea, dacă alte metrice sunt amestecate într-un vers, se numește Upajāti.”
-:::::::
+:::
 ## 54.4. Exercițiu de metrică
 
 Determinați în Bhagavadgītā II triṣṭubh-urile și jagatī-urile.
@@ -116,11 +115,12 @@ Exemplu de recitare: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http:
 
 ## 54.5. Tipuri de formare a aoristului (⟪लुङ्⟫)
 
-:::grammar-box
+::: grammar-box
 **În comun cu toate tipurile de formare ale aoristului (⟪लुङ्⟫) este augmentul a-, care, conform acelorași reguli ca și la imperfectul (⟪लङ्⟫), este plasat în fața verbului.**
 
 În sanscrită, din aorist sunt uzuali doar indicativul și prekativul.
-::::::grammar-box
+:::
+::: grammar-box
 **Există următoarele tipuri de formare ale aoristului (⟪लुङ्⟫):**
 
 1.  Aoriste ne-sibilantice (asigmatice):
@@ -137,7 +137,7 @@ Distribuția radicaleslor pe tipurile individuale de formare se găsește la tip
 :::
 ## 54.6. Aoristul radical
 
-:::grammar-box
+::: grammar-box
 **Formare:**
 
 **Augment + Rădăcină + Terminație secundară**
@@ -148,7 +148,7 @@ Exemplu:
 
 ⟪पा⟫ Persoana I singular "a bea"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
@@ -172,7 +172,7 @@ Aoristul radical se formează doar de la 12 rădăcini:
 
 Pentru ⟪भू⟫ Persoana I singular, aoristul radical se formează astfel:
 
-:::grammar-box
+::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
@@ -183,7 +183,7 @@ Pentru ⟪भू⟫ Persoana I singular, aoristul radical se formează astfel:
 
 O formă specială a aoristului de rădăcină este aoristul la persoana a III-a singular, vocea pasivă. Acesta se poate forma din toate rădăcinile.
 
-:::grammar-box
+::: grammar-box
 **Formare:**
 
 **Augment + Rădăcină + i**
@@ -262,12 +262,13 @@ Traduceți scris următoarele forme și formați corespunzătoarele forme de aor
 22.  ⟪गीयते⟫
 23.  ⟪गम्यते⟫
 
-:::media
+::: media
 ![](/images/lekt5401.webp)
 Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5401))
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Sursa imaginii: Raji Srinivas / Wikipedia. Licență GNU FDL]
 

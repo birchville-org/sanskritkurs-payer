@@ -27,7 +27,7 @@ Les Śūdras / les femmes śūdras sont aveuglés.
 ⟪शूद्रा⟫ ⟪मुह्यन्ति⟫ ⟪।⟫
 
 ⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
-Le brāhmaṇe souhaitait la libération.
+Le brāhmane souhaitait la libération.
 ⟪ब्राह्मणो⟫ ⟪मोक्षमिच्छति⟫ ⟪।⟫
 
 ⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
@@ -35,7 +35,7 @@ Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
 ⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
 
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
-Il est dit que les sages védiques ont seulement dit la vérité.
+Il est dit que les sages védiques ont dit seulement la vérité.
 ⟪ऋषयः⟫ ⟪सत्यमेव⟫ ⟪वदन्तीति⟫ ⟪वदन्ति⟫ ⟪।⟫
 
 ⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
@@ -51,10 +51,10 @@ Au moyen du mantra, on a obtenu la libération.
 ⟪मन्त्रेण⟫ ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
 
 ⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
-Quel amulette a protégé cette fille ?
+Quel amulet a protégé cette fille ?
 ⟪का⟫ ⟪रक्षिका⟫ ⟪बालां⟫ ⟪रक्षति⟫ ⟪॥⟫
 
-B) Traduisez et transformez en phrases passives au passé
+B) Traduisez et transformez en phrases passives du passé
 
 ⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
 Bien que Rāma souhaite la libération, il ne l'obtient pas.
@@ -77,7 +77,7 @@ Le kṣatriya heureux garde le dharma.
 ⟪सुखवता⟫ ⟪क्षत्रियेण⟫ ⟪धर्मो⟫ ⟪रक्षितः⟫ ⟪।⟫
 
 ⟪६⟫. ⟪पुत्रवान्नरकं⟫ ⟪न⟫ ⟪गच्छति⟫ ⟪।⟫
-Qui a des fils, ne va en aucun enfer.
+Celui qui a des fils ne va en aucun enfer.
 ⟪पुत्रवान्न्रकं⟫ ⟪न⟫ ⟪गतः⟫ ⟪।⟫
 
 ⟪७⟫. ⟪धर्मवती⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोतीति⟫ ⟪गुरुर्वदति⟫ ⟪।⟫
@@ -85,15 +85,15 @@ Le maître dit qu'une femme pieuse ne fait aucun mal.
 ⟪धर्मवत्या⟫ ⟪पापं⟫ ⟪न⟫ ⟪कृतमिति⟫ ⟪गुरुणोदितम्⟫ ⟪।⟫
 
 ⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪प्र्च्छन्ति⟫ ⟪।⟫
-Les avisés interrogent ceux qui possèdent la vérité sur le dharma.
+Les perspicaces interrogent ceux qui possèdent la vérité au sujet du dharma.
 ⟪बुद्धिमद्भिः⟫ ⟪सत्यवन्तो⟫ ⟪धर्मं⟫ ⟪पृष्टाः⟫ ⟪।⟫
 
 ⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
-Les personnes religieuses font des méritoires, qui portent fruit.
+Les personnes religieuses accomplissent des méritoires qui portent fruit.
 ⟪धर्मवद्भिः⟫ ⟪फलवत्पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
 
 ⟪१०⟫. ⟪ब्राह्मणा⟫ ⟪गुणवतः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫
-Les brāhmaṇes souhaitent d'excellents fils.
+Les brāhmanes souhaitent des fils excellents.
 ⟪ब्राह्मणैर्गुणवन्तः⟫ ⟪पुत्रा⟫ ⟪इष्टाः⟫ ⟪।⟫
 
 ⟪११⟫. ⟪कयृग्वेदं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
@@ -105,25 +105,25 @@ Qu'est-ce que le SEIGNEUR crée ?
 ⟪किमीश्वरेण⟫ ⟪सृष्टम्⟫ ⟪।⟫
 
 ⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫
-Un saint endure le mal qui lui est infligé.
+Un saint supporte le mal qui lui est infligé.
 ⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪।⟫
 
 ⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
-Les inférieurs pensent que les souverains souhaitent la richesse.
+Les bas pensent que les souverains souhaitent la richesse.
 ⟪पार्थिवेन⟫ ⟪धनमिष्टमिति⟫ ⟪नीचैर्मतम्⟫ ⟪।⟫
 
 ⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
-Les sages védiques voient que le démon ne gagne en aucun cas.
+Les sages védiques voient que le démon ne remporte en aucun cas la victoire.
 ⟪नैवासुरेण⟫ ⟪जितमित्यृषिभिर्दृष्टम्⟫ ⟪।⟫
 
 ⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
-Que mangent et boivent les brāhmaṇes ?
+Que mangent et boivent les Brahmanes ?
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung019.webp)
 Fig. : ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
-(Source de l'image : [Détails](/fr/licenses#uebung019))
+(Source de l'image : [Détails](/licenses#uebung019))
 :::
 ---
 
@@ -131,9 +131,9 @@ Fig. : ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 
 A) Traduisez les phrases suivantes.
 
-B) Mettez les phrases de l'exercice A) à la voix passive
+B) Mettez les phrases de l'exercice A) à la forme passive.
 
-C) Formez à partir des phrases de l'exercice A) une construction de participe passé passif (PPP)
+C) Formez une construction PPP à partir des phrases de l'exercice A).
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 Rāma geht auf dem Weg ins Dorf.
@@ -164,11 +164,11 @@ Le Kṣatriya puissant vainc les Śūdras.
 ⟪बल्वता⟫ ⟪क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जीयन्ते⟫ ⟪।⟫ ⟪जिताः⟫ ⟪।⟫
 
 ⟪८⟫. ⟪गुणवान्द्विष्टमपि⟫ ⟪शत्रुं⟫ ⟪न⟫ ⟪युध्यते⟫ ⟪।⟫
-Un homme vertueux ne combat pas son ennemi, même si celui-ci lui est détesté.
+Quelqu'un de vertueux ne combat pas son ennemi, même si celui-ci lui est haï.
 ⟪गुणवता⟫ ⟪द्विष्तो⟫ ⟪ऽपि⟫ ⟪शत्रुर्न⟫ ⟪युध्यते⟫ ⟪।⟫ ⟪युद्धः⟫ ⟪।⟫
 
 ⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
-Le sage védique dit que la colère, la haine et l'avidité sont injustes.
+Le sage védique dit que la colère, la haine et l'avidité sont des torts.
 ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिणोद्यते⟫ ⟪।⟫ ⟪लोभश्चेत्यृषिणोदितम्⟫ ⟪।⟫
 
 ⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫
@@ -176,11 +176,11 @@ Les garçons deviennent forts par la nourriture.
 ⟪बालैरन्नेन⟫ ⟪बलमाप्यते⟫ ⟪।⟫ ⟪बालाभिरन्नेन⟫ ⟪बलमाप्यते⟫ ⟪।⟫ ⟪बलमाप्तम्⟫ ⟪।⟫
 
 ⟪११⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्य⟫en ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
-Les hommes avisés obtiennent par la vérité la libération.
+Les avisés obtiennent par la vérité la libération.
 ⟪बुद्धिमद्भिः⟫ ⟪सत्येन⟫ ⟪मोक्षो⟫ ⟪लभ्यते⟫ ⟪।⟫ ⟪लब्धः⟫ ⟪।⟫
 
 ⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
-Ces femmes sacrées supportent le mal.
+Ces femmes saintes supportent le mal.
 ⟪इमाभिः⟫ ⟪साध्वीभिः⟫ ⟪पापं⟫ ⟪सह्यते⟫ ⟪।⟫ ⟪सोढम्⟫ ⟪।⟫
 
 ⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
@@ -191,7 +191,7 @@ Quelle divinité le Ṛṣi voit-il ?
 À quels dieux les Brahmanes, les Katriyas et les Vaśyas offrent-ils des sacrifices ?
 ⟪के⟫ ⟪देवा⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिज्यन्ते⟫ ⟪।⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिष्टाः⟫ ⟪॥⟫
 
-D) De quelles combinaisons de sons les formes de Sandhi suivantes peuvent-elles être issues ? Indiquez toutes les possibilités :
+D) De quelles combinaisons de sons les formes Sandhi suivantes peuvent-elles être issues ? Donnez toutes les possibilités :
 
 1. -a devant voyelle (sauf a-) : -as
 2. -ā- : -a + -a/-ā -ā + a-/ā-
@@ -201,9 +201,9 @@ D) De quelles combinaisons de sons les formes de Sandhi suivantes peuvent-elles 
 6. -ū-: -u/-ū + u-/ū-
 7. -ṝ-: -ṛ/-ṝ + ṛ-/ṝ-
 8. -e-: -a/-ā + i-/ī-
-9. -e devant Avagraha : -e + a-
+9. -e avant Avagraha : -e + a-
 10. -o-: -a/-ā + u-/ū-
-11. -o devant Avagraha : -o
+11. -o avant Avagraha : -o
 12. -o devant consonnes sonores -as
 13. -ai-: -a/-ā + e-/ai-
 14. -au-: -a/-ā + e-/ai-
@@ -235,16 +235,16 @@ D) De quelles combinaisons de sons les formes de Sandhi suivantes peuvent-elles 
 
 E) Traduisez en sanskrit :
 
-1\. La déesse était courroucée.
+1\. La déesse était en colère.
 ⟪देवी⟫ ⟪कुपिता⟫ ⟪।⟫ ⟪देव्या⟫ ⟪कुपितम्⟫
 
-2\. Les Śūdras sont parvenus au ciel.
+2\. Les Śūdras sont allés au ciel.
 ⟪शूद्रैः⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪ऽष्टः⟫ ⟪।⟫
 
 3\. Les paysans ont parcouru le chemin.
 ⟪कर्षकैर्मार्गो⟫ ⟪गतः⟫ ⟪।⟫ ⟪कर्षका⟫ ⟪मार्गं⟫ ⟪गताः⟫ ⟪।⟫
 
-4\. Les gens ont été libérés par l'enseignement de Bouddha.
+4\. Par l'enseignement de Bouddha, les gens ont été libérés.
 ⟪धर्मेण⟫ ⟪जना⟫ ⟪मुक्ताः⟫ ⟪।⟫
 
 5\. Le fils a dansé.
@@ -268,8 +268,8 @@ E) Traduisez en sanskrit :
 11\. Les prêtres sacrificiels ont pressé le soma.
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung018.webp)
 Fig. : ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
-(Source de l'image : [Détails](/fr/licenses#uebung018))
+(Source de l'image : [Détails](/licenses#uebung018))
 :::

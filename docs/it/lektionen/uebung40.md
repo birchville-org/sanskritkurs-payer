@@ -28,7 +28,7 @@ Uno studente riceve un quarto (della conoscenza) dal suo maestro, un quarto dall
 
 B) Trasformare le seguenti forme verbali nelle corrispondenti forme del Perfetto (1. persona):
 
-:::grammar-box
+::: grammar-box
 | Presente / Imperfetto | Perfetto (1. persona) |
 | :--- | :--- |
 | ⟪१⟫. **⟪अश्नीमः⟫** | ⟪आशिम⟫ |
@@ -100,10 +100,11 @@ B) Trasformare le seguenti forme verbali nelle corrispondenti forme del Perfetto
 | ⟪६७⟫. **⟪अहनम्⟫** | ⟪जघान⟫ / ⟪जघन⟫ |
 | ⟪६८⟫. **⟪पश्यामः⟫** | ⟪ददृशिम⟫ |
 | ⟪६९⟫. **⟪ईक्षे⟫** | ⟪ईक्षां⟫ ⟪चक्रे⟫ |
-::::::media
+:::: media
 ![](/images/uebung065.webp)
 Fig.: ⟪आशिमेति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung065))
+::::
 :::
 ---
 
@@ -111,7 +112,7 @@ Fig.: ⟪आशिमेति⟫
 
 Determinare e tradurre le seguenti forme verbali:
 
-:::grammar-box
+::: grammar-box
 | Forma verbale | Determinazione | Significato |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | io diedi / egli diede per sé |
@@ -148,8 +149,9 @@ Determinare e tradurre le seguenti forme verbali:
 | ⟪३२⟫. **⟪ऐक्षे⟫** | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | io vidi |
 | ⟪३३⟫. **⟪आह⟫** | ⟪अह्⟫ (P) 3. sg. P. Perf. | egli disse |
 | ⟪३४⟫. **⟪आहन्⟫** | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | egli colpì |
-::::::media
+:::: media
 ![](/images/uebung066.webp)
 Fig.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung066))
+::::
 :::

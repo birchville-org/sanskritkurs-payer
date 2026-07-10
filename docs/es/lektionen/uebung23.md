@@ -107,7 +107,7 @@ Como ella quería escuchar sobre el dharma, la brahmāṇī fue a la gran ciudad
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫  
 Comer, dormir, temer y tener sexo son comunes a los seres humanos y al ganado. La diferencia distintiva de los seres humanos radica en el dharma. Sin dharma, son iguales al ganado.
 
-:::media
+::: media
 ![](/images/uebung035.webp)
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung035))
@@ -168,7 +168,7 @@ B) Decline **⟪क्षत्रिया⟫** (f.) in all cases known to you:
 
 C) Proporcione las formas básicas (significado, clase de presente, modo, 3. sg. presente indicativo, 3. sg. pasivo, PPP, absolutivos, infinitivo) para los siguientes verbos:
 
-:::grammar-box
+::: grammar-box
 ⟪१⟫. **⟪सह्⟫** (1Ā, soportar)
 
 | Forma | Valor |
@@ -212,8 +212,9 @@ C) Proporcione las formas básicas (significado, clase de presente, modo, 3. sg.
 | Absoluto 1 | ⟪हत्वा⟫ |
 | Absoluto 2 | -⟪हत्य⟫ |
 | Infinitivo | ⟪हन्तुम्⟫ |
-::::::media
+:::: media
 ![](/images/uebung036.webp)
 Fig.: ⟪बालाः⟫ ⟪पिबन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung036))
+::::
 :::

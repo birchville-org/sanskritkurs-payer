@@ -11,7 +11,7 @@ last_reconstructed: 2026-05-07
 
 
 
-:::deleteme-box
+::: deleteme-box
 **Dalam pelajaran ini Anda akan mempelajari:**
 - Samāhāradvandva ("dvandva rangkuman")
 - Pembentukan akar nomina dengan akhiran **-ka** (taddhita) dan **-aka** (kṛt)
@@ -25,13 +25,13 @@ last_reconstructed: 2026-05-07
 
 
 
-:::grammar-box
+::: grammar-box
 **Jika Dvandva ingin menyatakan bahwa serangkaian hal, dll., membentuk satu kesatuan, maka umumnya berada dalam bentuk tunggal neuter:**
 
 misalnya **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ tidak hanya berarti "makanan (**āhāra** m.), tidur (**nidrā** f.), perkawinan (**maithuna** n.), dan ketakutan (**bhaya** n.)", melainkan keempat hal tersebut sebagai **kesatuan** yang mencirikan kehidupan hewan.
 
-:::
-Selain dieser Grundregel zur Bildung von Samāhāradvandvas gibt es noch eine Reihe weiterer Regeln, die man bei Pāṇini 2,4,2-17 oder z.B. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a findet. In den verschiedenen Stufen der Sprachentwicklung wurden nicht immer die gleichen Regeln eingehalten!
+:::  
+Selain aturan dasar untuk pembentukan Samāhāradvandvas, terdapat sejumlah aturan lain yang dapat ditemukan pada Pāṇini 2,4,2-17 atau misalnya Mr. R. Kale, A higher Sanskrit grammar, cetakan ulang 1969, § 189 - 192 a. Dalam berbagai tahap perkembangan bahasa, tidak selalu aturan yang sama dipatuhi!
 
 ---
 
@@ -43,7 +43,7 @@ Selain dieser Grundregel zur Bildung von Samāhāradvandvas gibt es noch eine Re
 
 
 
-:::grammar-box
+::: grammar-box
 **Sufiks taddhita -ka membentuk terutama:**
 
 1\. **Bentuk kata kecil (bentuk pengecil seperti bahasa Jerman -chen, -lein, -li, -le):**
@@ -66,7 +66,7 @@ Selain dieser Grundregel zur Bildung von Samāhāradvandvas gibt es noch eine Re
 
 
 
-:::grammar-box
+::: grammar-box
 **Sufiks kṛt -aka, Feminin sering -ikā, membentuk nomina agentis (nomina yang menyatakan pelaku) dari setiap akar.**
 
 Vokal akhir dari akar serta **-a-** pada posisi kedua dari akhir akar diganti dengan tingkat panjangnya (**vṛddhi**) (ada beberapa pengecualian), sedangkan vokal lainnya diganti dengan tingkat tingginya (**guṇa**).
@@ -94,7 +94,7 @@ Vokal akhir dari akar serta **-a-** pada posisi kedua dari akhir akar diganti de
 
 
 
-:::grammar-box
+::: grammar-box
 **Beberapa pembentukan ini memiliki makna lebih sempit: "melakukan secara habitual atau sebagai kewajiban atau dengan baik sesuai dengan yang diekspresikan oleh akar kata".**
 
 :::
@@ -114,7 +114,7 @@ lihat di atas misalnya **śrāvaka**, **yājaka**, **jayaka**
 
 | **khād**:br1 P:br⟪खाद्⟫:br"mengunyah, makan" | **khādaka** m.:br(⟪खादक⟫) | "pemakan, pemangsa" |
 
-Selain diesen gibt es noch einige weniger wichtige Verwendungen des Suffixes **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff.
+Selain itu, terdapat beberapa penggunaan kurang penting dari sufiks **-aka**. Lihat Wackernagel, Altindische Grammatik, II, §45ff.
 
 ---
 
@@ -126,7 +126,7 @@ Selain diesen gibt es noch einige weniger wichtige Verwendungen des Suffixes **-
 
 
 
-:::media
+::: media
 ![](/images/lekt0903.webp)
 Gambar: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram dekat Madurai.
 (Sumber gambar: [Details](/id/licenses#lekt0903))
@@ -136,7 +136,7 @@ Gambar: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tir
 
 
 
-:::media
+::: media
 ![](/images/lekt0902.webp)
 Gambar: **kāru** = ⟪कारु⟫, Gujarat.
 (Sumber gambar: [Detail](/id/licenses#lekt0902))
@@ -173,7 +173,7 @@ Gambar: **kāru** = ⟪कारु⟫, Gujarat.
 
 
 
-:::media
+::: media
 ![](/images/lekt0901.webp)
 Gambar: **karṣaka** = ⟪कर्षक⟫.
 (Sumber gambar: [Rincian](/id/licenses#lekt0901))

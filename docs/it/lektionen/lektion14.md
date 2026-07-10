@@ -1,9 +1,9 @@
 ---
-title: Lezione 14
-subtitle: "L'espressione della relazione di ciò che è designato dai sostantivi: il genitivo (ṣaṣṭhī f. = ⟪षष्टी⟫ = sesta desinenza casuale)"
+title: Lektion 14
+subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
-category: "Grammatica"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,7 +11,7 @@ status: stable
 
 ## 14.1. L'espressione della relazione tra ciò che è designato da sostantivi: il genitivo (ṣaṣṭhī f. = ⟪षष्टी⟫ = sesta desinenza casuale)
 
-:::grammar-box
+::: grammar-box
 Se si vuole esprimere la relazione tra due sostantivi, si utilizza il genitivo (ṣaṣṭhī f. "sesta desinenza casuale"). Il genitivo si distingue da tutti gli altri casi in quanto, con poche eccezioni, non serve a determinare più da vicino l'azione espressa dal verbo, ma a esprimere la relazione tra persone o cose designate da sostantivi. Spesso il genitivo risponde alla domanda: Di chi?
 :::
 Esempi:
@@ -24,14 +24,14 @@ Esempi:
 
 ⟪रामस्य⟫ ⟪कृतम्⟫ "L'azione / Un'azione di Rāma"
 
-:::grammar-box
+::: grammar-box
 La normale posizione della parola è:
 
 > **Parola determinante al genitivo — Sostantivo ulteriormente determinato in un altro caso**
 :::
 **Genitivo e PPP:**
 
-:::grammar-box
+::: grammar-box
 Nei PPP il genitivo può sostituire l'ablativo (tṛtīyā) per l'agente (kartṛ); nella costruzione con l'ablativo il PPP è considerato una forma verbale passiva (ciò che è nell'ablativo designa l'agente), nella costruzione con il genitivo il PPP è considerato un sostantivo o aggettivo (ciò che è nel genitivo non è propriamente un agente).
 
 Secondo Pāṇini 2.3.67, quando il PPP ha un significato presente, si usa il genitivo; quando il PPP ha un significato passato, si usa l'ablativo:
@@ -48,102 +48,91 @@ Il genitivo viene formato per le radici verbali con ablaut dalla forma debole.
 
 **Genitivo di radici con desinenza consonantica:**
 
-::::grammar-box
+::: grammar-box
 
 Dopo una consonante le desinenze regolari del genitivo sono:
 * Singolare: **-as**
 * Plurale: **-ām**
 
 :::
-center
+::: center
 
-| Radice nominale | Forma debole | Genitivo singolare | Genitivo plurale |
+| Radice nominale | Schwacher Tema | Genitivo Singolare | Genitivo Plurale |
 | :--- | :--- | :--- | :--- |
-| **guṇa-vant-**:br**⟪गुणवन्त्⟫** | **guṇa-vat-**:br**⟪गुणवत्⟫** | **guṇa-vat-as**:br**⟪गुणवतस्⟫** | **guṇa-vat-ām**:br**⟪गुणवताम्⟫** |
-| **paśu-mant-**:br**⟪पशुमन्त्⟫** | **paśu-mat-**:br**⟪पशुमत्⟫** | **paśu-mat-as**:br**⟪पशुमतस्⟫** | **paśu-mat-ām**:br**⟪पशुमताम्⟫** |
+| **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
+| **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
-:::::::
+:::
 **Genitivo di radici con desinenza vocalica, eccetto nomi radicali monosillabici e radici con desinenza dittongica:**
 
 **Plurale:**
 
-::::grammar-box
+::: grammar-box
 
 Il genitivo plurale di radici con desinenza vocalica si forma come segue:
 
 > **-vocale lunga della radice + -nām**
 
 :::
-center
+::: center
 
-| Radice nominale | Genitivo plurale |
+| Radice nominale | Genitivo Plurale |
 | :--- | :--- |
-| **deva** m.:br**⟪देव⟫** | **devā-nām**:br**⟪देवानाम्⟫** |
-| **phala** n.:br**⟪फल⟫** | **phalā-nām**:br**⟪फलानाम्⟫** |
-| **devatā** f.:br**⟪देवता⟫** | **devatā-nām**:br**⟪देवतानाम्⟫** |
-| **kavi** m.:br**⟪कवि⟫** | **kavī-nām**:br**⟪कवीनाम्⟫** |
-| **śruti** f.:br**⟪श्रुति⟫** | **śrutī-nām**:br**⟪श्रुतीनाम्⟫** |
-| **devī** f.:br**⟪देवी⟫** | **devī-nām**:br**⟪देवीनाम्⟫** |
-| **paśu** m.:br**⟪पशु⟫** | **paśū-nām**:br**⟪पशूनाम्⟫** |
-| **dhenu** f.:br**⟪धेनु⟫** | **dhenū-nām**:br**⟪धेनूनाम्⟫** |
+| **deva** m.:br ⟪देव⟫ | **devā-nām** :br ⟪देवानाम्⟫ |
+| **phala** n.:br ⟪फल⟫ | **phalā-nām** :br ⟪फलानाम्⟫ |
+| **devatā** f.:br ⟪देवता⟫ | **devatā-nām** :br ⟪देवतानाम्⟫ |
+| **kavi** m.:br ⟪कवि⟫ | **kavī-nām** :br ⟪कवीनाम्⟫ |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutī-nām** :br ⟪श्रुतीनाम्⟫ |
+| **devī** f.:br ⟪देवी⟫ | **devī-nām** :br ⟪देवीनाम्⟫ |
+| **paśu** m.:br ⟪पशु⟫ | **paśū-nām** :br ⟪पशूनाम्⟫ |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
-:::::::
+:::
 **Genitivo singolare di radici con desinenza vocalica:**
 
-::::grammar-box
+::: grammar-box
 
 Il genitivo singolare di radici con desinenza vocalica si forma in modo irregolare ed è bene impararlo a memoria.
 
 :::
-center
+::: center
 
-| Radice | Genitivo singolare |
+| Tema | Genitivo Singolare |
 | :--- | :--- |
-| **deva** m.:br**⟪देव⟫** | **devasya**:br**⟪देवस्य⟫** |
-| **phala** n.:br**⟪फल⟫** | **phalasya**:br**⟪फलस्य⟫** |
-| **devatā** f.:br**⟪देवता⟫** | **devatāyās**:br**⟪देवतायास्⟫** |
-| **kavi** m.:br**⟪कवि⟫** | **kaves**:br**⟪कवेस्⟫** |
-| **paśu** m.:br**⟪पशु⟫** | **paśos**:br**⟪पशोस्⟫** |
-| **devī** f.:br**⟪देवी⟫** | **devyās**:br**⟪देव्यास्⟫** |
-| **śruti** f.:br**⟪श्रुति⟫** | **śrutes / śrutyās**:br**⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫**:br(cioè o come kavi o come devī) |
-| **dhenu** f.:br**⟪धेनु⟫** | **dhenos / dhenvās**:br**⟪धेनोस्⟫ / ⟪धेन्वास्⟫**:br(cioè o come paśu o come femminili plurisillabici in -ū) |
-
-:::::::
-**Pronomi interrogativi e pronomi dimostrativi:**
-
-::::grammar-box
+| **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
+| **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
+| **devatā** f.:br ⟪देवता⟫ | **devatāyās** :br ⟪देवतायास्⟫ |
+| **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
+| **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
+| **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
-center
+**Pronomi interrogativi e pronomi dimostrativi:**
+
+::: center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Maschile / Neutro** | **Genitivo singolare** | kasya:br**⟪कस्य⟫** | tasya:br**⟪तस्य⟫** | etasya:br**⟪एतस्य⟫** | asya:br**⟪अस्य⟫** |
-| | **Genitivo plurale** | keṣām:br**⟪केषाम्⟫** | teṣām:br**⟪तेषाम्⟫** | eteṣām:br**⟪एतेषाम्⟫** | eṣām:br**⟪एषाम्⟫** |
-| **Femminile** | **Genitivo singolare** | kasyās:br**⟪कस्यास्⟫** | tasyās:br**⟪तस्यास्⟫** | etasyās:br**⟪एतस्यास्⟫** | asyās:br**⟪अस्यास्⟫** |
+| **Maschile / Neutro** | **Genitivo Singolare** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **Genitivo Plurale** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **Femminile** | **Genitivo Singolare** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **Genitivo Plurale** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
-| | **Genitivo Plurale** | kāsām:br**⟪कासाम्⟫** | tāsām:br**⟪तासाम्⟫** | etāsām:br**⟪एतासाम्⟫** | āsām:br**⟪आसाम्⟫** |
-
-:::::::
+:::
 **Identità formale:**
 
-::::
-important
+::: important
 
-:::media
-![](/images/lekt1401.jpg)
-:::
 In tutte le radici nominali, ad eccezione dei maschili e dei neutri in -a e dei pronomi, la forma del genitivo singolare è identica alla forma dell'ablativo (pañcamī "quinta desinenza casuale") singolare!
 
-:::media
-![](/images/lekt1401.jpg)
-:::
 Si noti che nelle radici con desinenza consonantica, l'ablativo e il genitivo singolare hanno la stessa pronuncia dell'accusativo plurale maschile e femminile!
 
-::::
+:::
 ## 14.3. Ulteriore sull'uso del genitivo (⟪षष्ठी⟫)
 
-:::grammar-box
+::: grammar-box
 Contrariamente alla regola generale sopra esposta, il genitivo viene utilizzato per esprimere l'oggetto di alcuni verbi, ad esempio i verbi di ricordo:
 
 > ⟪देवानां⟫ ⟪स्मरति⟫ "Egli ricorda gli dèi"
@@ -160,7 +149,7 @@ Ulteriore materiale più avanti.
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : ornamento
 * **dīpa m.** (⟪दीप⟫) : lampada
 
-:::media
+::: media
 ![](/images/lekt1405.webp)
 Fig.: ⟪दीपाः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1405))
@@ -247,7 +236,7 @@ Tradurre i seguenti proverbi e impararli a memoria:
 
 ⟪२५⟫. ⟪पुत्रवती⟫
 
-:::media
+::: media
 ![](/images/lekt1404.webp)
 Fig.: ⟪पुत्रवती⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1404))
@@ -308,7 +297,7 @@ Fig.: ⟪पुत्रवती⟫
 
 ⟪५३⟫. ⟪किम्⟫
 
-:::media
+::: media
 ![](/images/lekt1403.webp)
 Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1403))
@@ -341,7 +330,7 @@ Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 
 ⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1402.webp)
 Fig.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1402))

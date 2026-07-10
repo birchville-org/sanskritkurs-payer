@@ -120,7 +120,7 @@ The Vedic sages see that the demon by no means wins.
 What do Brahmins eat and drink?
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung019.webp)
 Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#uebung019))
@@ -268,7 +268,7 @@ E) Translate into Sanskrit:
 11. The sacrificial priests have pressed the Soma.
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung018.webp)
 Fig.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#uebung018))

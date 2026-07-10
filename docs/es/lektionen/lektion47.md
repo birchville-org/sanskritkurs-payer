@@ -1,13 +1,17 @@
 ---
+title: Lektion 47
+subtitle: "Der Imperativ (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Lección 47
 
 ## 47.1. El imperativo (⟪लोट्⟫)
 
-:::grammar-box
+::: grammar-box
 El imperativo (⟪लोट्⟫) expresa
 
 *   **Orden** (también puede expresarse mediante el gerundivo (⟪कृत्य⟫))
@@ -29,7 +33,7 @@ Además, con el imperativo se expresa:
 :::
 Ejemplos:
 
-:::indent
+::: indent
 ⟪एहि⟫ ⟪।⟫ «¡Ven!»
 
 ⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ o bien Optativo: ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ «¡Vaya usted a la aldea!»
@@ -43,60 +47,62 @@ Ejemplos:
 ⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ o bien Gerundivo: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ «¡Haga usted un cuchillo!»; «Usted puede hacer un cuchillo»; «Es el momento de que usted haga un cuchillo».
 
 ⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ «¡Que viva usted mucho tiempo!»
-::::::grammar-box
+:::
+::: grammar-box
 Los órdenes corteses suelen expresarse mediante imperativos pasivos.
 :::
 Ejemplos:
 
-:::indent
+::: indent
 ⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ «Por favor, entre.»
 
 ⟪निषद्यताम्⟫ ⟪।⟫ «Por favor, siéntese.»
 :::
 En el sánscrito clásico, las formas de primera persona del imperativo son antiguas formas de conjuntivo. El conjuntivo védico es, ante todo, el modo que expresa un deseo: «¡Iremos!» «¡Vayamos!»
 
-:::grammar-box
+::: grammar-box
 El imperativo se forma a partir de la raíz del presente.
 :::
 ## 47.2. Formación del imperativo (⟪लोट्⟫) de las raíces temáticas del presente
 
 ### 47.2.1. Desinencias del Imperativo en raíces temáticas de presente
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **Desinencias** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persona**:br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
-| **2. Persona**:br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
-| **3. Persona**:br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
+| **Desinencias** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
+| **2. Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
+| **3. Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
 Nota: ¹ Las desinencias de la 2. y 3. persona singular pueden sustituirse por *-tāt* cuando se desea expresar un deseo de bendición:
 
-:::indent
+::: indent
 ⟪भद्रो⟫ ⟪भवतात्⟫ «Que seas feliz» / «Que él sea feliz»
 
 ⟪शुभं⟫ ⟪भवतु⟫ o ⟪शुभं⟫ ⟪भवतात्⟫ «Que todo sea bueno» / «¡Todo bien!»
 :::
 ### 47.2.2. Primera clase de presente (⟪भ्वादि⟫)
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **⟪भू⟫ 1P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persona**:br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | &lt;⟪भवै⟫&gt; | &lt;⟪भवामहै⟫&gt; |
-| **2. Persona**:br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | &lt;⟪भवस्व⟫&gt; | &lt;⟪भवध्वम्⟫&gt; |
-| **3. Persona**:br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | &lt;⟪भ्वताम्⟫&gt; | &lt;⟪भवन्ताम्⟫&gt; |
+| **⟪भू⟫ 1P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \<⟪भवै⟫\> | \<⟪भवामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \<⟪भवस्व⟫\> | \<⟪भवध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \<⟪भ्वताम्⟫\> | \<⟪भवन्ताम्⟫\> |
 :::
 ### 47.2.3. Sexta clase de presente (⟪तुदादि⟫)
 
-:::grammar-box
-| | **Formas para el externo** (⟪परस्मैपदम्⟫) || **Formas para el interno** (⟪आत्मनेपदम्⟫) ||
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **⟪विश्⟫ 6P** | **Singular** | **Plural** | **Singular** | **Plural** |
-| **1. Persona**:brTercera | ⟪विशानि⟫ | ⟪विशाम⟫ | &lt;⟪विशै⟫&gt;:br(viś-a + ai) | &lt;⟪विशामहै⟫&gt; |
-| **2. Persona**:brSegunda | ⟪विश⟫ | ⟪विशत⟫ | &lt;⟪विशस्व⟫&gt; | &lt;⟪विशध्वम्⟫&gt; |
-| **3. Persona**:brPrimera | ⟪विशतु⟫ | ⟪विशन्तु⟫ | &lt;⟪विशताम्⟫&gt; | &lt;⟪विशन्ताम्⟫&gt; |
-::::::media
+| **⟪विश्⟫ 6P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \<⟪विशै⟫\>:br(viś-a + ai) | \<⟪विशामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \<⟪विशस्व⟫\> | \<⟪विशध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \<⟪विशताम्⟫\> | \<⟪विशन्ताम्⟫\> |
+:::
+::: media
 ![](/images/lekt4702.webp)
 Fig.: ⟪प्रविशत⟫
 Templo de Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
@@ -104,14 +110,15 @@ Templo de Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫,
 :::
 ### 47.2.4. Cuarta clase de presente (⟪दिवादि⟫)
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **⟪नृत्⟫ 4P** | **Singular** | **Plural** | **Singular** | **Plural** |
-| **1. Persona**:brTercera | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | &lt;⟪नृत्यै⟫&gt; | &lt;⟪नृत्यामहै⟫&gt; |
-| **2. Persona**:brSegunda | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | &lt;⟪नृत्यस्व⟫&gt; | &lt;⟪नृत्यध्वम्⟫&gt; |
-| **3. Persona**:brPrimera | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | &lt;⟪नृत्यताम्⟫&gt; | &lt;⟪नृत्यन्ताम्⟫&gt; |
-::::::media
+| **⟪नृत्⟫ 4P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \<⟪नृत्यै⟫\> | \<⟪नृत्यामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \<⟪नृत्यस्व⟫\> | \<⟪नृत्यध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \<⟪नृत्यताम्⟫\> | \<⟪नृत्यन्ताम्⟫\> |
+:::
+::: media
 ![](/images/lekt4701.webp)
 Fig.: ⟪नृत्यत⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4701))
@@ -120,25 +127,25 @@ Fig.: ⟪नृत्यत⟫
 
 ⟪चुर्⟫ 10U
 
-:::grammar-box
-| | **Voz activa (⟪परस्मैपदम्⟫)** || **Voz media (⟪आत्मनेपदम्⟫)** ||
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **Singular (⟪एकवचनम्⟫)** | **Plural (⟪बहुवचनम्⟫)** | **Singular (⟪एकवचनम्⟫)** | **Plural (⟪बहुवचनम्⟫)** |
-| **1. Persona**:brTercera (⟪तृतीयः⟫) | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
-| **2. Persona**:brSegunda (⟪मध्यमः⟫) | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
-| **3. Persona**:brPrimera (⟪प्रथमः⟫) | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
 :::
 ### 47.2.6. Voz pasiva
 
 ⟪ईक्ष्⟫ 1Ā
 
-:::grammar-box
+::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **Singular** | **Plural** |
-| **1. Persona**:brTercera | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
-| **2. Persona**:brSegunda | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
-| **3. Persona**:brPrimera | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::
 ## 47.3. Ejercicio
 
@@ -150,7 +157,7 @@ A) Traduzca:
 
 ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तव्यं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt4703.webp)
 Fig.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4703))
@@ -161,7 +168,7 @@ Fig.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्�
 
 ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫ ⟪॥६॥⟫
 
-:::media
+::: media
 ![](/images/lekt4704.webp)
 Fig.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4704))
@@ -246,8 +253,7 @@ B.) Traduzca al sánscrito (utilice el imperativo):
 
 34\. ¡Que redunde en felicidad (ocurra)! (Deseo de bendición)
 
-:::deleteme-box
-
+::: deleteme-box
 
 **lekt4702:** Templo de Hanuman, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Fuente de la imagen: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Acceso el 2009-01-09. -- [Licencia Creative Commons](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Atribución, sin obras derivadas)]
 

@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 18
+# Lesson 18
 
 A) Translate the ⟪सुभाषित⟫ at the beginning of the lesson.
 
@@ -27,13 +27,13 @@ B) Translate the following Tatpuruṣa compounds:
 
 ⟪३⟫. ⟪सुकृति⟫ f. — good deed
 
-⟪४⟫. ⟪अकरण⟫ n. — non-action
+⟪४⟫. ⟪अकरण⟫ n. — non-doing
 
 ⟪५⟫. ⟪दुरिष्ट⟫ n. — evil desire
 
 ⟪६⟫. ⟪दुरिष्टि⟫ f. — faulty sacrifice
 
-⟪७⟫. ⟪सुखादित⟫ 3 — well chewed
+⟪७⟫. ⟪सुखादित⟫ 3 — well-chewed
 
 ⟪८⟫. ⟪दुष्कर⟫ 3 — difficult to do
 
@@ -61,7 +61,7 @@ B) Translate the following Tatpuruṣa compounds:
 
 ⟪२०⟫. ⟪दुर्जन⟫ m. — evil person
 
-⟪२१⟫. ⟪दुर्दग्ध⟫ 3 — badly burned
+⟪२१⟫. ⟪दुर्दग्ध⟫ 3 — badly burnt
 
 ⟪२२⟫. ⟪अतिकृत⟫ 3 — excessive
 
@@ -71,7 +71,7 @@ B) Translate the following Tatpuruṣa compounds:
 
 ⟪२५⟫. ⟪दुष्पुत्र⟫ m. — bad son
 
-⟪२६⟫. ⟪दुष्प्रणीत⟫ 3 — poorly executed
+⟪२६⟫. ⟪दुष्प्रणीत⟫ 3 — badly executed
 
 ⟪२७⟫. ⟪सुमति⟫ f. — friendliness
 
@@ -81,20 +81,20 @@ B) Translate the following Tatpuruṣa compounds:
 
 ⟪३०⟫. ⟪दुर्वचन⟫ n. — bad speech
 
-⟪३१⟫. ⟪अमृत⟫ n. — immortality, nectar, ambrosia
+⟪३१⟫. ⟪अमृत⟫ n. — immortality, food of immortality, drink of immortality
 
-:::media
+::: media
 ![](/images/uebung027.jpg)
 Fig.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः⟫
-(Image source: [Details](/en/licenses#uebung027))
+(Image source: [Details](/licenses#uebung027))
 :::
 ---
 
 ## Additional Exercises
 
-A) Resolve the following Sanskrit compounds and provide translation suggestions:
+A) Resolve the following compounds into Sanskrit and provide translation suggestions:
 
-⟪१⟫. ⟪अन्तगत⟫ ⟪३⟫ ⟪।⟫ ⟪अन्तं⟫ ⟪गतः⟫ ⟪।⟫ — come to an end, grammar: final sound
+⟪१⟫. ⟪अन्तगत⟫ ⟪३⟫ ⟪।⟫ ⟪अन्तं⟫ ⟪गतः⟫ ⟪।⟫ — ended, Grammar: final
 
 ⟪२⟫. ⟪क्षमाकर⟫ ⟪३।⟫ ⟪क्षमा⟫-⟪करः⟫ ⟪।⟫ — one who is patient, patient action
 
@@ -102,7 +102,7 @@ A) Resolve the following Sanskrit compounds and provide translation suggestions:
 
 ⟪४⟫. ⟪शस्त्रकोपनिरोध⟫ m. ⟪।⟫ ⟪शस्त्राणां⟫ ⟪कोपस्य⟫ ⟪निरोधः⟫ ⟪।⟫ — stopping of anger with the sword = stopping of combat
 
-⟪५⟫. ⟪सिंहसंहनन⟫ n.⟪।⟫ ⟪सिंहस्य⟫ ⟪संहननम्⟫ ⟪।⟫ — killing of one/several lions, killing by one/several lions
+⟪५⟫. ⟪सिंहसंहनन⟫ n.⟪।⟫ ⟪सिंहस्य⟫ ⟪संहननम्⟫ ⟪।⟫ — killing of one / several lions, killing by one / several lions
 
 ⟪६⟫. ⟪अरिसिंह⟫ m. ⟪।⟫ ⟪सिंह⟫ ⟪इव⟫ ⟪अरिः⟫ ⟪।⟫ — lion-like enemy
 
@@ -110,17 +110,17 @@ A) Resolve the following Sanskrit compounds and provide translation suggestions:
 
 ⟪८⟫. ⟪मृतिसाधनी⟫ f. ⟪।⟫ ⟪मृतेः⟫ ⟪साधनी⟫ ⟪।⟫ — causing death
 
-⟪९⟫. ⟪कुलोपदेश⟫ m. ⟪।⟫ ⟪कुलस्योपदेशः⟫ ⟪।⟫ — family name (hinting at the family)
+⟪९⟫. ⟪कुलोपदेश⟫ m. ⟪।⟫ ⟪कुलस्योपदेशः⟫ ⟪।⟫ — family name (reference to the family)
 
 B) Translate using verbs of the 2nd present class:
 
 1. The Brahmin praises the goddesses.
 ⟪ब्राह्मणो⟫ ⟪देवीः⟫ ⟪स्तौति⟫ ⟪।⟫ (or: ⟪स्तवीति⟫ ⟪।⟫)
 
-2. The heroes go on the difficult path to the village of the Āryas.
+2. The heroes go on the difficult-to-traverse path to the village of the Āryas.
 ⟪शूरा⟫ ⟪दुर्गमेण⟫ ⟪मार्गेणार्यग्रामं⟫ ⟪यन्ति⟫ ⟪।⟫
 
-3. The maidservant milks the cows.
+3. The housemaid milks the cows.
 ⟪गृहदासी⟫ ⟪धेनूर्दोग्धि⟫ ⟪।⟫
 
 4. The enemies of the Āryas slay the powerful Kṣatriyas.
@@ -129,7 +129,7 @@ B) Translate using verbs of the 2nd present class:
 5. A ghost eats no fruits.
 ⟪भूतं⟫ ⟪फलानि⟫ ⟪नात्ति⟫ ⟪।⟫
 
-6. Thus speaks the one who has [walked the path of rebirths] well to the disciple.
+6. Thus speaks he who has [well traversed the path through rebirths] to the disciple.
 ⟪एवं⟫ ⟪सुगतः⟫ ⟪श्रावकं⟫ ⟪वक्ति⟫ ⟪।⟫ (or: ⟪ब्रवीति⟫ ⟪।⟫ ⟪ब्रूते⟫ ⟪।⟫)
 
 C) Provide the definition of Yoga in Sanskrit in two ways: once using a compound, once by resolving the compound.
@@ -141,8 +141,8 @@ D) Translate:
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 The duty of all is: non-violence, truthfulness, purity, not murmuring about one's lot, freedom from malice, and patient forbearance.
 
-:::media
+::: media
 ![](/images/uebung028.webp)
 Fig.: ⟪दुर्गमो⟫ ⟪मार्गः⟫
-(Image source: [Details](/en/licenses#uebung028))
+(Image source: [Details](/licenses#uebung028))
 :::

@@ -9,7 +9,7 @@ status: stable
 
 # Lecția 5
 
-:::deleteme-box
+::: deleteme-box
 **În această lecție veți învăța:**
 - Bazele compuselor nominale (samāsa)
 - Terminologia de specialitate pentru compuse
@@ -44,7 +44,7 @@ Formele principale de formare a compuselor sunt:
 
 Compusele copulative servesc pentru legarea elementelor gramatical similare, coordonate (substantive sau adjective).
 
-:::grammar-box
+::: grammar-box
 **Un Dvandva indică:**
 
 1. **fie conexiunea sumativă a persoanelor, lucrurilor, proprietăților indicate de componentele sale individuale:**
@@ -104,7 +104,7 @@ Exemple de Pluraldvandva:
 
 **kāma** m. = ⟪काम⟫ : dorință, poftă, dar dorit, plăcere senzorială, iubire; zeul iubirii Kāma.
 
-:::media
+::: media
 ![](/images/lekt0501.webp)
 Fig.: zeul Kāma = kāmadeva = ⟪कामदेव⟫, sec. al XVIII-lea
 (Sursa imaginii: Wikipedia, Domeniu public)

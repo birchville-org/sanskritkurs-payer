@@ -180,7 +180,7 @@ Wochenspruch
 *   2\. Determinativkomposita = Tatpuruṣa m. = ⟪तत्पुरुष⟫
 *   3\. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
 *   4\. Determinativkomposita mit einem Vorderglied, das zum Hinterglied in einem nicht-attributiv/appositionellem Kasusverhältnis steht = Tatpuruṣa im engeren Sinn
-*   5\. Zerlegung von Komposita (außer Dvandvas)
+*   5\. Zerlegung von Komposita (ausser Dvandvas)
 *   6\. Die Form des Vorderglieds in Komposita (⟪समास⟫ m.)
 *   7\. Einteilung der ⟪तत्पुरुष⟫
     *   7.1. Einteilung der ⟪कर्मधारय⟫
@@ -246,7 +246,7 @@ Wochenspruch
 
 *   1\. Weitere Präsensstämme auf -nt
     *   1.1. Partizip Präsens (⟪लडादेशः⟫) Parasmaipada
-    *   1.2. ⟪महान्त्⟫ "groß"
+    *   1.2. ⟪महान्त्⟫ "gross"
 *   2\. Sandhi für auslautende Nasale
 *   3\. Höfliche Formen der Anrede
 *   4\. Wortliste
@@ -258,7 +258,7 @@ Wochenspruch
 *   2\. Bildung des Absolutivums
     *   2.1. Verben ohne Präverb: Absolutiv auf -⟪त्वा⟫
     *   2.2. Verben mit Präverb
-        *   2.2.1. Wurzeln auf langen Vokal (außer -ā) oder auf Konsonant
+        *   2.2.1. Wurzeln auf langen Vokal (ausser -ā) oder auf Konsonant
         *   2.2.2. Wurzeln auf -ā
         *   2.2.3. Wurzeln, die in der Tiefstufe auf kurzes -i, -u, -ṛ auslauten
         *   2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
@@ -559,7 +559,7 @@ Wochenspruch
 
 ## [Lektion 43](lektion43)
 
-*   1\. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere &lt;Person&gt;")
+*   1\. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \<Person\>")
 *   2\. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫)
     *   2.1. Thematische Stämme
         *   2.1.1. Erste Präsensklasse (⟪भ्वादि⟫)
@@ -660,14 +660,14 @@ Wochenspruch
 
 ## [Lektion 50](lektion50)
 
-*   1\. Nominalbildung: regelmäßige Steigerung
+*   1\. Nominalbildung: regelmässige Steigerung
 *   2\. Wortliste
 *   3\. Übersetzungsübung
 
 ## [Lektion 51](lektion51)
 
 *   1\. ⟪उपपद⟫-Komposita
-*   2\. Deklination der Stämme, die auf einen einfachen Konsonanten (außer Nasal, Halbvokal, -s) auslauten
+*   2\. Deklination der Stämme, die auf einen einfachen Konsonanten (ausser Nasal, Halbvokal, -s) auslauten
     *   2.1. Stämme auf nichtpalatalen Verschlusslaut
     *   2.2. Stämme auf palatalen Verschlusslaut (c, ch, j), ś, ṣ
     *   2.3. Stämme auf -h
@@ -713,9 +713,9 @@ Wochenspruch
 *   5\. Dualdvandva
 *   6\. Der Dual von Pronomina
 *   7\. Pronominaladjektive
-*   8\. Unregelmäßige Steigerung
+*   8\. Unregelmässige Steigerung
 *   9\. Deklination der Komparative auf -īyas
-*   10\. Metrik (Lehre von den Versmaßen)
+*   10\. Metrik (Lehre von den Versmassen)
     *   10.1. Bedeutung der Bestimmung des Metrums
     *   10.2. Arten von Metren
     *   10.3. Die metrische Quantität von Silben

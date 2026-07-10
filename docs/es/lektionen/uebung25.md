@@ -10,8 +10,6 @@ last_reconstructed: 2026-05-15
 
 A) Complete los ejemplos de declinación de la Lección 16 agregando el 4. Dativo (⟪चतुर्थी⟫) y el 5. Ablativo (⟪पञ्चमी⟫).
 
-:::grammar-box
-
 ### ⟪१⟫. **⟪सन्त्⟫** (siendo, bueno)
 
 | Caso | m. Singular | m. Plural | n. Singular | n. Plural |
@@ -41,7 +39,6 @@ A) Complete los ejemplos de declinación de la Lección 16 agregando el 4. Dativ
 | 3. Instr. | ⟪येन⟫ | ⟪यैः⟫ | ⟪येन⟫ | ⟪यैः⟫ | ⟪यया⟫ | ⟪याभिः⟫ |
 | 4. Dat. | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्यै⟫ | ⟪याभ्यः⟫ |
 | 5. Abl. | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्याः⟫ | ⟪याभ्यः⟫ |
-:::
 B) Traduzca y resuelva los compuestos en sánscrito:
 
 ⟪१⟫. **⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫**
@@ -66,7 +63,7 @@ Los budas y arhants están liberados del sufrimiento. De hecho, han alcanzado la
 ⟪७⟫. **⟪लोभ⟫en ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫**
 Por codicia, odio e ignorancia, los seres humanos se corrompen. Cuando llega el momento, caen en un infierno.
 
-:::media
+::: media
 ![](/images/uebung040.webp)
 Fig.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung040))
@@ -117,7 +114,7 @@ Si alguien emite un fallo judicial falso por soberbia, codicia, ira o miedo, ent
 ⟪दारिद्र्यमप्रदानेन⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫  
 Los infiernos surgen a causa del mal, el mal surge de la pobreza, la pobreza surge de no dar.
 
-:::media
+::: media
 ![](/images/uebung041.webp)
 Fig.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung041))
@@ -133,7 +130,7 @@ Un ladrón queda liberado de la culpa del robo mediante el castigo o mediante la
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
 La economía es útil porque produce grano, ganado, oro, metales y trabajo.
 
-:::media
+::: media
 ![](/images/uebung042.webp)
 Fig.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung042))

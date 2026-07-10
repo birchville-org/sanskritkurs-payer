@@ -11,7 +11,7 @@ status: stable
 
 
 
-:::deleteme-box
+::: deleteme-box
 **Dalam pelajaran ini Anda akan mempelajari:**
 - Struktur kalimat verbal (agen dan bentuk kata kerja)
 - Pembentukan bentuk kata kerja (Parasmaipada, Ātmanepada, Pasif)
@@ -25,7 +25,7 @@ status: stable
 
 
 
-:::grammar-box
+::: grammar-box
 **Skema I: Bentuk Kata Kerja**
 - mis. **yajati** = ⟪यजति⟫ = "Ia (dia, itu) mempersembahkan dengan korban", "Ia (dia, itu) mengorbankan"
 
@@ -41,12 +41,12 @@ Apakah agen (**kartṛ** m. = ⟪कर्तृ⟫) disebutkan dalam kalimat ve
 
 Bentuk verba terbatas, yaitu bentuk verba dengan akhiran personal, dalam bahasa Sanskerta mengungkapkan hal berikut:
 
-1. **Bedeutung** (**artha** m. ⟪अर्थ⟫)
-2. **Person** und **Numerus** (Zahl, **vacana** n. = ⟪वचन⟫) (ich, du, er \&lt;sie, es\&gt;, wir beide, ihr beide, sie beide, wir, ihr, sie)
-3. Verhaltensweise (genus verbi):
-   1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("Wortform mit Bezug auf einen anderen"): Aktivum. z.B. **yajati** = ⟪यजति⟫ = "Er verehrt mit einem Opfer" (nämlich der Priester, der für jemanden anderen das Opfer vollzieht)
-   2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("Wortform mit Bezug auf sich selbst"): Medium. z.B. **yajate** = ⟪यजते⟫ = "Er verehrt mit einem Opfer im eigenen Interesse" (nämlich der Opferherr, der für sich und seine Familie opfert)
-   3. **Passiv** (**karman** n. = ⟪कर्मन्⟫). z.B. **ijyate** = ⟪इज्यते⟫ = "Es wird mit einem Opfer verehrt"
+1. **Makna** (**artha** m. ⟪अर्थ⟫)
+2. **Orang** dan **Jumlah Kata** (jumlah, **vacana** n. = ⟪वचन⟫) (aku, kamu, dia \&lt;mereka, itu\&gt;, kami berdua, kalian berdua, mereka berdua, kami, kalian, mereka)
+3. Perilaku (genus verbi):
+1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("bentuk kata yang merujuk pada orang lain"): Aktif. mis. **yajati** = ⟪यजति⟫ = "Ia mempersembahkan dengan suatu korban" (yakni pendeta, yang melaksanakan korban untuk orang lain)
+2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("bentuk kata yang merujuk pada diri sendiri"): Medial. mis. **yajate** = ⟪यजते⟫ = "Ia mempersembahkan dengan suatu korban untuk kepentingan sendiri" (yakni tuan korban, yang berkorban untuk dirinya dan keluarganya)
+3. **Pasif** (**karman** n. = ⟪कर्मन्⟫). mis. **ijyate** = ⟪इज्यते⟫ = "Ia dipuja dengan suatu korban"
 
 Dalam banyak kasus, nuansa makna Ātmanepada tidak lagi dapat dikenali; bahkan penyair terampil sering menggunakan Ātmanepada tanpa perbedaan makna dari Parasmaipada. Namun, dalam terjemahan selalu harus diperhatikan secara cermat apakah terdapat nuansa makna tersebut.
 
@@ -76,7 +76,7 @@ Kata kerja masa kini adalah tenses untuk masa kini, khususnya juga untuk masa be
 
 
 
-:::grammar-box
+::: grammar-box
 **Indikatif (kalimat pernyataan) pada waktu sekarang dibentuk dengan menambahkan akhiran primer yang disebut pada akar waktu sekarang.**
 
 :::
@@ -100,7 +100,7 @@ Contoh:
 
 
 
-:::grammar-box
+::: grammar-box
 
 | | Tunggal (Ejaan Tunggal):brekavacana n.:br⟪एकवचन⟫ | Jamak (Ejaan Jamak):brbahuvacana n.:br⟪बहुवचन⟫ |
 
@@ -126,7 +126,7 @@ Contoh **yaj** = ⟪यज्⟫ = "memuliakan dengan sebuah persembahan", "berk
 
 
 
-:::grammar-box
+::: grammar-box
 **Basis waktu kini = akar dalam bentuk rendah (seperti yang tercantum) + a-**
 
 
@@ -144,7 +144,7 @@ Contoh **yaj** = ⟪यज्⟫ = "memuliakan dengan sebuah persembahan", "berk
 
 
 
-:::grammar-box
+::: grammar-box
 
 | Präsensstamm = Wurzel in Hochstufe (selten Dehnstufe) + a- ||||
 
@@ -172,7 +172,7 @@ Sebelum vokal, di dalam kata **e** diganti dengan **ay**, **o** diganti dengan *
 
 
 
-:::grammar-box
+::: grammar-box
 
 | Tahap Rendah:brTahap Hilang | Tahap Tinggi:brTahap Penuh:brGuṇa m.:br⟪गुण⟫ | Tahap Panjang:brVṛddhi f.:br⟪वृद्धि⟫ |
 
@@ -193,7 +193,7 @@ Sebelum vokal, di dalam kata **e** diganti dengan **ay**, **o** diganti dengan *
 
 
 
-:::grammar-box
+::: grammar-box
 **Bentuk akar kata kerja sekarang = akar kata dalam tingkat rendah (seperti yang tercantum) + ya-**
 
 
@@ -215,7 +215,7 @@ Sebelum vokal, di dalam kata **e** diganti dengan **ay**, **o** diganti dengan *
 
 
 
-:::grammar-box
+::: grammar-box
 **a** pada akhiran pembentukan akar kelas-kelas kala sekarang disebut **vokal tema**. Kelas-kelas kala sekarang dengan **a** pada akhiran pembentukan akar oleh karena itu disebut "kelas kala sekarang tematik".
 
 :::
@@ -225,7 +225,7 @@ Sebelum vokal, di dalam kata **e** diganti dengan **ay**, **o** diganti dengan *
 
 
 
-:::grammar-box
+::: grammar-box
 - **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Apa yang dilakukan N. N.?"
 - **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = "Apa yang dilakukan para N.N.?"
 - (karoti, kurvanti berasal dari **kṛ** = ⟪कृ⟫ 8 U: "melakukan, membuat")
@@ -239,7 +239,7 @@ Sebelum vokal, di dalam kata **e** diganti dengan **ay**, **o** diganti dengan *
 
 
 
-:::grammar-box
+::: grammar-box
 Dalam bahasa Sanskerta, kata kerja dicantumkan dalam **Bentuk Akar**. Angka setelah akar menunjukkan **Kelas Konjugasi**.
 
 - **P:** Akar hanya Parasmaipada
@@ -293,7 +293,7 @@ Dalam bahasa Sanskerta, kata kerja dicantumkan dalam **Bentuk Akar**. Angka sete
 
 
 
-:::media
+::: media
 ![](/images/lekt0601.webp)
 **Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Kuil Hindu Kadavul, Kauai, Hawaii
@@ -375,7 +375,7 @@ Dalam bahasa Sanskerta, kata kerja dicantumkan dalam **Bentuk Akar**. Angka sete
 
 
 
-:::media
+::: media
 ![](/images/lekt0602.webp)
 **Mīnākṣī** (⟪मीनाक्षी⟫), Kuil Mīnākṣī, Madurai, Tamil Nadu
 (Sumber gambar: Wikipedia, Domain publik)

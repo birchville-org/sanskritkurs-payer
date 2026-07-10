@@ -1,256 +1,252 @@
 ---
-title: Lektion 16
-subtitle: "Zum Sandhi auslautender Konsonanten"
+title: 第16课
+subtitle: "关于词尾辅音的连音（Sandhi）"
 lesson_id: 16
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 16
 
-## 16.1. Zum Sandhi auslautender Konsonanten
+## 16.1. 关于词尾辅音的连音（Sandhi）
 
-Zur Bildung von Komposita, deren Vorderglied konsonantisch auslautende Stämme bilden, benötigt man folgende Regeln: <!-- TODO: Fallback translation -->
+对于构成以辅音结尾的词干为前成分的复合词，需要以下规则：
 
-Auslautende gutturale, retroflexe, dentale und labiale Verschlusslaute (d.h. keine Nasale und keine Palatale). <!-- TODO: Fallback translation -->
+词尾的软腭音、卷舌音、齿音和双唇塞音（即非鼻音和非腭音）。
 
-::::grammar-box
+::: no-header
 
-:::no-header
+|   |   |
+| :--- | :--- |
+| **在停顿和清音之前** | **替换为相应的清不送气音：** :br **例如：** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **在浊非鼻音之前** | **替换为相应的浊不送气音：** :br **例如：** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **在鼻音之前** | **替换为相应的鼻音：** :br **例如：** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
-|   |   | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **in Pausa und vor stimmlosen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- | <!-- TODO: Fallback translation -->
-| **vor stimmhaften nichtnasalen Lauten** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- | <!-- TODO: Fallback translation -->
-| **vor Nasalen** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- | <!-- TODO: Fallback translation -->
+:::
+上述规则的例外：
 
-::::::
-Ausnahme zu obiger Regel: <!-- TODO: Fallback translation -->
+词尾的齿音塞音（非鼻音）：
 
-Auslautender dentaler Verschlusslaut (nicht Nasal): <!-- TODO: Fallback translation -->
+::: no-header
 
-::::grammar-box
+|   |   |
+| :--- | :--- |
+| **前腭音** | **替换为相应的不送气腭音：** :br **即：** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
+| **+ ś** | **» -cś- 或 -cch-** |
+| **前卷舌音** | **替换为相应的不送气卷舌音：** :br **即：** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **前 l-** | **替换为 -l：** :br **即：** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
-:::no-header
+:::
+示例：
 
-|   |   | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **vor Palatal** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- | <!-- TODO: Fallback translation -->
-| **+ ś** | **» -cś- oder -cch-** | <!-- TODO: Fallback translation -->
-| **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- | <!-- TODO: Fallback translation -->
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- | <!-- TODO: Fallback translation -->
+⟪तद्⟫ + ⟪फल⟫ = ⟪तत्फल⟫
 
-::::::
-Beispiele: <!-- TODO: Fallback translation -->
+⟪पुण्यवत्⟫ + ⟪ब्राह्मण⟫ = ⟪पुण्यवद्ब्राह्मण⟫
 
-⟪तद्⟫ + ⟪फल⟫ = ⟪तत्फल⟫ <!-- TODO: Fallback translation -->
+⟪पुण्यवत्⟫ + ⟪नर⟫ = ⟪पुण्यवन्नर⟫
 
-⟪पुण्यवत्⟫ + ⟪ब्राह्मण⟫ = ⟪पुण्यवद्ब्राह्मण⟫ <!-- TODO: Fallback translation -->
+⟪पुण्यवत्⟫ + ⟪पुरुष⟫ = ⟪पुण्यवत्पुरुष⟫
 
-⟪पुण्यवत्⟫ + ⟪नर⟫ = ⟪पुण्यवन्नर⟫ <!-- TODO: Fallback translation -->
+⟪सत्यवत्⟫ + ⟪चैतन्य⟫ =⟪सत्यवच्चैतन्य⟫
 
-⟪पुण्यवत्⟫ + ⟪पुरुष⟫ = ⟪पुण्यवत्पुरुष⟫ <!-- TODO: Fallback translation -->
+⟪सुखवत्⟫ + ⟪लोक⟫ = ⟪सुखवल्लोक⟫
 
-⟪सत्यवत्⟫ + ⟪चैतन्य⟫ =⟪सत्यवच्चैतन्य⟫ <!-- TODO: Fallback translation -->
+⟪पुत्रवत्⟫ + ⟪जन⟫ = ⟪पुत्रवज्जन⟫
 
-⟪सुखवत्⟫ + ⟪लोक⟫ = ⟪सुखवल्लोक⟫ <!-- TODO: Fallback translation -->
-
-⟪पुत्रवत्⟫ + ⟪जन⟫ = ⟪पुत्रवज्जन⟫ <!-- TODO: Fallback translation -->
-
-⟪बलवत्⟫ + ⟪शत्रु⟫ = ⟪बलवच्छत्रु⟫ <!-- TODO: Fallback translation -->
+⟪बलवत्⟫ + ⟪शत्रु⟫ = ⟪बलवच्छत्रु⟫
 
 ## 16.2. Wortliste
 
-⟪अध्यापन⟫ n.: Unterrichten, Unterricht <!-- TODO: Fallback translation -->
+⟪अध्यापन⟫ n.: 教学，教导
 
-:::media
+::: media
 ![](/images/lekt1602.webp)
-Abb.: ⟪अध्यापनम्⟫
-"This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
-(Bildquelle: [Details](/licenses#lekt1602)) <!-- TODO: Fallback translation -->
+图：⟪अध्यापनम्⟫
+“这是萨塔拉（⟪सातारा⟫）一座小寺庙中举行的特殊仪式。由斯瓦米·穆克塔南达吠陀学校的学生在摩诃湿婆节庆祝活动中举行。这是一所吠陀学校，孩子们背诵被称为吠陀的神圣经文。这所学校教授黑耶柔吠陀和部分白耶柔吠陀。我正在就这所学校撰写我的硕士论文。”
+（图片来源：[详情](/zh-CN/licenses#lekt1602)）
 :::
-⟪अनसूया⟫ f.: Nicht-Murren, Neidlosigkeit <!-- TODO: Fallback translation -->
+⟪अनसूया⟫ f.：不抱怨，无嫉妒
 
-⟪नृशंस्य⟫ n.: Boshaftigkeit, Niedertracht <!-- TODO: Fallback translation -->
+⟪नृशंस्य⟫ n.: 邪恶，卑鄙
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-:::indent
-⟪अनृशंस्य⟫ n.: Nicht-Boshaftigkeit <!-- TODO: Fallback translation -->
+::: indent
+⟪अनृशंस्य⟫ n.：非恶意
 :::
-⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : leben <!-- TODO: Fallback translation -->
+⟪जीव्⟫ 1 P ⟪जीवति⟫ ；被动态 ⟪जीव्यते⟫ ；PPP ⟪जीवित⟫ ：生活
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-:::indent
-⟪आजीव⟫ m.: Lebensunterhalt <!-- TODO: Fallback translation -->
+::: indent
+⟪आजीव⟫ m.: Lebensunterhalt
 :::
-⟪क्षमा⟫ f.: Geduld, Langmut, Nachsicht <!-- TODO: Fallback translation -->
+⟪क्षमा⟫ f.: Geduld, Langmut, Nachsicht
 
-⟪क्षेम⟫ n.: Ruhe, Frieden, Wohlergehen, sicherer Besitz <!-- TODO: Fallback translation -->
+⟪क्षेम⟫ n.：平静，和平，福祉，稳固的财产
 
-⟪चित्त⟫ n.: Bewusstsein, Denken, Geist <!-- TODO: Fallback translation -->
+⟪चित्त⟫ n.：意识，思维，心灵
 
-⟪निरोध⟫ m.: Stoppen, Zum-Stillstand-Bringen <!-- TODO: Fallback translation -->
+⟪निरोध⟫ m.：停止，使静止
 
-* **bhūta n.** (⟪भूत⟫) (PPP zu bhū): Wesen, Gespenst <!-- TODO: Fallback translation -->
+* **bhūta** 名词（⟪भूत⟫）（bhū的过去被动分词）：存在物，幽灵
 
-⟪योग⟫ m.: Anschirrung, Verbindung, Vereinigung, Erwerb ; Yoga <!-- TODO: Fallback translation -->
+⟪योग⟫ m.: 装配，连接，联合，获得；瑜伽
 
-:::media
+::: media
 ![](/images/lekt1601.webp)
-Abb.: ⟪योगी⟫
-Birla Mandir, Delhi
-(Bildquelle: [Details](/licenses#lekt1601)) <!-- TODO: Fallback translation -->
+图：⟪योगी⟫
+德里比尔拉庙
+（图片来源：[详情](/zh-CN/licenses#lekt1601)）
 :::
-⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : sich drehen, sich wenden, sich (irgendwo) befinden, wohnen <!-- TODO: Fallback translation -->
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; 被动语态 ⟪वृत्यते⟫ ; 过去分词 ⟪वृत्त⟫ ：旋转，转向，（在某处）存在，居住
 
-⟪शस्त्र⟫ (śastra) n.: Schneidewerkzeug, Schneidewaffe, Schwert, Waffe <!-- TODO: Fallback translation -->
+⟪शस्त्र⟫ (śastra) n.: 切割工具，切割武器，剑，武器
 
-⟪शौच⟫ n.: Reinigung, Reinheit <!-- TODO: Fallback translation -->
+⟪शौच⟫ n.: 净化，纯洁
 
-⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: zum Ziel führend, bewirkend <!-- TODO: Fallback translation -->
+⟪साधन⟫，阳性，中性 ⟪साधनी⟫ ⟪साधना⟫ 阴性：导向目标，产生效果
 
-⟪अहिंसा⟫ f.: das Niemandem-etwas-zu-Leide-Tun, Nichtverletzen, Gewaltlosigkeit <!-- TODO: Fallback translation -->
+⟪अहिंसा⟫ f.：不伤害他人、不侵犯、非暴力
 
-:::media
+::: media
 ![](/images/lekt1603.jpg)
-Abb.: ⟪अहिंसा⟫
-"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
-(Bildquelle: [Details](/licenses#lekt1603)) <!-- TODO: Fallback translation -->
+图：⟪अहिंसा⟫
+“掌心有轮的手象征着耆那教的‘不害’誓言。中间的词是‘不害’。轮子代表法轮，象征着通过不懈追求真理和非暴力来停止轮回的决心。”
+（图片来源：[详情](/zh-CN/licenses#lekt1603)）
 :::
-## 16.3. Übung
+## 16.3. 练习
 
-A) Wandeln sie folgende Ausdrücke in Tatpuruṣa um und übersetzen Sie sie: <!-- TODO: Fallback translation -->
+A) 将以下表达转换为限定复合词（Tatpuruṣa）并翻译：
 
-⟪१⟫. ⟪देवस्य⟫ ⟪पुरुषः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१⟫。⟪देवस्य⟫ ⟪पुरुषः⟫ ⟪।⟫
 
-⟪२⟫. ⟪गुणवती⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪२⟫。⟪गुणवती⟫ ⟪ब्राह्मणी⟫ ⟪।⟫
 
-⟪३⟫. ⟪सत्यवान्ब्राह्मणः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪३⟫。⟪सत्यवान्ब्राह्मणः⟫ ⟪।⟫
 
-⟪४⟫. ⟪पशुमन्तो⟫ ⟪जनाः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪४⟫。⟪पशुमन्तो⟫ ⟪जनाः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1604.webp)
-Abb.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
-⟪हरियाणा⟫ / ਹਰਿਆਣਾ
-(Bildquelle: [Details](/licenses#lekt1604)) <!-- TODO: Fallback translation -->
+图：⟪पशुमन्तो⟫ ⟪जनाः⟫
+⟪हरियाणा⟫ / हरियाणा
+（图片来源：[详情](/zh-CN/licenses#lekt1604)）
 :::
-⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪५⟫。⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
-⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
-⟪७⟫. ⟪कवेरुक्त्याः⟫ ⟪सत्यम्⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪७⟫。⟪कवेरुक्त्याः⟫ ⟪सत्यम्⟫ ⟪।⟫
 
-⟪८⟫. ⟪शिवेन⟫ ⟪रक्षिता⟫ ⟪बाला⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪८⟫。⟪शिवेन⟫ ⟪रक्षिता⟫ ⟪बाला⟫ ⟪।⟫
 
-⟪९⟫. ⟪रामेण⟫ ⟪पीतं⟫ ⟪जलम्⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪९⟫。⟪रामेण⟫ ⟪पीतं⟫ ⟪जलम्⟫ ⟪।⟫
 
-⟪१०⟫. ⟪फलवांल्लाभः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१०⟫。⟪फलवांल्लाभः⟫ ⟪।⟫
 
-⟪११⟫. ⟪इष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजा⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪११⟫。⟪इष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजा⟫ ⟪।⟫
 
-⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१२⟫。⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫
 
-B) Lösen Sie in folgenden Sätzen alle Komposita in Sanskrit auf, bilden Sie so Sätze mit flektierten Nomina und übersetzen Sie: <!-- TODO: Fallback translation -->
+B) 在以下句子中，将所有复合词拆解为梵语形式，构造带有屈折名词的句子，并翻译：
 
-⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१⟫。⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
 
-⟪२⟫. ⟪पुण्यकरणं⟫ ⟪स्वर्गमार्गः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪२⟫。⟪पुण्यकरणं⟫ ⟪स्वर्गमार्गः⟫ ⟪।⟫
 
-⟪३⟫. ⟪न⟫ ⟪साधुः⟫ ⟪पशुवन्नरधेनुलोभः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪३⟫。⟪न⟫ ⟪साधुः⟫ ⟪पशुवन्नरधेनुलोभः⟫ ⟪।⟫
 
-⟪४⟫. ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मयज्ञैस्तु⟫ ⟪स्वर्गसुखमाप्नुवन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪४⟫。⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मयज्ञैस्तु⟫ ⟪स्वर्गसुखमाप्नुवन्ति⟫ ⟪।⟫
 
-⟪५⟫. ⟪द्विजदासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪५⟫。⟪द्विजदासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
 
-⟪६⟫. ⟪बालब्राह्मणपुत्राः⟫ ⟪सत्यवन्नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪६⟫。⟪बालब्राह्मणपुत्राः⟫ ⟪सत्यवन्नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
 
-⟪७⟫. ⟪बलवत्क्षत्रिया⟫ ⟪धनवच्छत्रुनगरं⟫ ⟪जयन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪७⟫。⟪बलवत्क्षत्रिया⟫ ⟪धनवच्छत्रुनगरं⟫ ⟪जयन्ति⟫ ⟪।⟫
 
-⟪८⟫. ⟪ऋष्युक्त्या⟫ ⟪सत्यमुच्यते⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪८⟫。⟪ऋष्युक्त्या⟫ ⟪सत्यमुच्यते⟫ ⟪।⟫
 
-⟪९⟫. ⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪९⟫。⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪।⟫
 
-⟪१०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१०⟫。⟪पुण्यवद्वैश्येष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
 
 ## 16.4. Wiederholungsübung
 
-A) Bilden Sie alle bisher gelernten Kasus zu folgenden Wörtern als Beispiele für die bisher gelernten Deklinationsklassen. <!-- TODO: Fallback translation -->
+A) 为以下词语生成迄今为止所学的所有格，作为迄今所学变位类的示例。
 
-Verwenden Sie dazu folgendes Schema, das der Reihenfolge der Kasus bei den indischen Grammatikern entspricht und das wegen seiner - später zu besprechenden - Vorzüge auch von den westlichen Grammatikern übernommen wurde: <!-- TODO: Fallback translation -->
+为此请使用以下模式，该模式符合印度语法学家对格（Kasus）的排序，并且由于其后来将讨论的优点，也被西方语法学家所采用：
 
-| Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **⟪१⟫. ⟪प्रथमा⟫** :brNominativ | **⟪१⟫. ⟪प्रथमा⟫** | <!-- TODO: Fallback translation -->
-| **⟪२⟫. ⟪द्वितीया⟫** :brAkkusativ | **⟪२⟫. ⟪द्वितीया⟫** | <!-- TODO: Fallback translation -->
-| **⟪३⟫. ⟪तृतीया⟫** :brInstrumentalis | **⟪३⟫. ⟪तृतीया⟫** | <!-- TODO: Fallback translation -->
-| **⟪६⟫. ⟪षष्ठी⟫** :brGenetiv | **⟪६⟫. ⟪षष्ठी⟫** | <!-- TODO: Fallback translation -->
+| 单数：br⟪एकवचनम्⟫ | 复数：br⟪बहुवचनम्⟫ |
+| :--- | :--- |
+| **⟪१⟫. ⟪प्रथमा⟫** :br主格 | **⟪१⟫. ⟪प्रथमा⟫** |
+| **⟪२⟫. ⟪द्वितीया⟫** :br宾格 | **⟪२⟫. ⟪द्वितीया⟫** |
+| **⟪३⟫. ⟪तृतीया⟫** :br工具格 | **⟪३⟫. ⟪तृतीया⟫** |
+| **⟪६⟫. ⟪षष्ठी⟫** :br属格 | **⟪६⟫. ⟪षष्ठी⟫** |
 
-Lernen Sie die Deklinationsmuster nach diesen Beispielen auswendig!!! <!-- TODO: Fallback translation -->
+Lernen Sie die Deklinationsmuster nach diesen Beispielen auswendig!!!
 
-⟪१⟫. ⟪नर⟫ m. <!-- TODO: Fallback translation -->
+⟪१⟫。⟪नर⟫。阳性
 
-⟪२⟫. ⟪फल⟫ n. <!-- TODO: Fallback translation -->
+⟪२⟫。⟪फल⟫。名词
 
-⟪३⟫. ⟪क्षत्रिया⟫ f. <!-- TODO: Fallback translation -->
+⟪३⟫。⟪क्षत्रिया⟫。阴性
 
-⟪४⟫. ⟪अरि⟫ m. <!-- TODO: Fallback translation -->
+⟪४⟫。⟪अरि⟫。阳性
 
-⟪५⟫. ⟪मति⟫ f. <!-- TODO: Fallback translation -->
+⟪५⟫。⟪मति⟫。阴性
 
-⟪६⟫. ⟪गुरु⟫ m. <!-- TODO: Fallback translation -->
+⟪६⟫。⟪गुरु⟫。阳性
 
-⟪७⟫. ⟪धेनु⟫ f. <!-- TODO: Fallback translation -->
+⟪७⟫。⟪धेनु⟫。阴性
 
-⟪८⟫. ⟪देवी⟫ f. <!-- TODO: Fallback translation -->
+⟪८⟫。⟪देवी⟫。阴性
 
-⟪९⟫. ⟪गुणवन्त्⟫ m., n., f. <!-- TODO: Fallback translation -->
+⟪९⟫。⟪गुणवन्त्⟫，阳性、中性、阴性
 
-⟪१०⟫. ⟪किम्⟫  m., n., f. <!-- TODO: Fallback translation -->
+⟪१०⟫。⟪किम्⟫，阳性，中性，阴性。
 
-⟪११⟫. ⟪तद्⟫ m., n., f. <!-- TODO: Fallback translation -->
+⟪११⟫。⟪तद्⟫，阳性、中性、阴性
 
-⟪१२⟫. ⟪एतद्⟫ m., n., f. <!-- TODO: Fallback translation -->
+⟪१२⟫。⟪एतद्⟫，阳性、中性、阴性
 
-⟪१३⟫. ⟪इदम्⟫ m., n., f. <!-- TODO: Fallback translation -->
+⟪१३⟫。⟪इदम्⟫，阳性、中性、阴性
 
-B) Übersetzen Sie und lösen Sie alle Komposita in Sanskrit auf: <!-- TODO: Fallback translation -->
+B) 翻译并解析以下所有梵语复合词：
 
-⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪२॥⟫ <!-- TODO: Fallback translation -->
+⟪१⟫。⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥योगसूत्र⟫ ⟪१⟫。⟪२॥⟫
 
-⟪२⟫. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪२⟫。⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫
 
-⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शस्त्राजीवो⟫ ⟪भूतरक्षणं⟫ ⟪च⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शस्त्राजीवो⟫ ⟪भूतरक्षणं⟫ ⟪च⟫ ⟪॥६॥⟫
 
-⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिपाशुपाल्ये⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिपाशुपाल्ये⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪॥७॥⟫
 
-⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥८॥⟫
 
-⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫ <!-- TODO: Fallback translation -->
+⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫
 
-(⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫) <!-- TODO: Fallback translation -->
+（《⟪कौटिलीयार्थशास्त्र⟩ ⟪१⟩.⟪३⟩.⟪५⟩-⟪८⟩，⟪१३⟩）
 
-:::indent
-Erklärungen; <!-- TODO: Fallback translation -->
+::: indent
+说明；
 
-Satz 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom. Akk.: Dvandva, das zwei "Sachen" bezeichnet <!-- TODO: Fallback translation -->
+句子7：⟪कृषिपाशुपाल्ये⟫ 双数，主格/宾格：Dvandva，表示两个“事物”
 
-Satz 8: ⟪कर्म⟫ Nom., Akk. sg. Neutrum zu ⟪कर्मन्⟫ "Tat" <!-- TODO: Fallback translation -->
+第8句：⟪कर्म⟫ 主格，宾格，单数，中性，对应⟪कर्मन्⟫“行为”
 
-Satz 13: ⟪सर्वेषाम्⟫ Gen. pl. mask. zu ⟪सर्व⟫ "jeder, alle" (Pronomen, dekliniert nicht wie deva) <!-- TODO: Fallback translation -->
+句子 13：⟪सर्वेषाम्⟫ 阳性复数属格，对应 ⟪सर्व⟫ “每一个，所有”（代词，其变格不同于 deva）
 :::
-⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫ <!-- TODO: Fallback translation -->
+⟪३⟫。⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫，⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫。⟪४⟫。⟪३॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt1601:** Birla Mandir, Delhi [Bildquelle: Deepak / Wikipedia ; Creative Commons Lizenz (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt1601:** Birla Mandir, Delhi [图片来源：Deepak / 维基百科；知识共享署名-相同方式共享许可证]
 
-**lekt1602:** "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school." [Bildquelle: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt1602：**“这是位于萨塔拉（⟪सातारा⟫）一座小型寺庙中的特殊仪式。由斯瓦米·穆克塔南达吠陀学校的学生在庆祝摩诃湿婆节时举行。这是一所吠陀学校，孩子们背诵被称为《吠陀》的神圣文本。这所学校教授黑耶柔吠陀和部分《萨摩吠陀》。我正在就这所学校撰写我的硕士论文。”[图片来源：Shrimaitreya。-- http://www.flickr.com/photos/shrimaitreya/339418301/。-- 访问日期：2008-12-07。-- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
 
-**lekt1603:** "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence." [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt1603:**“掌心有轮的手象征耆那教的不害誓言。中间的词是‘不害’。轮子代表法轮，象征着通过不懈追求真理与非暴力来终止轮回的决心。”[图片来源：维基百科，公共领域]
 
-**lekt1604:** ⟪हरियाणा⟫ / ਹਰਿਆਣਾ [Bildquelle: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine kommerzelle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt1604:** ⟪हरियाणा⟫ / 哈里亚纳州 [图片来源：mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- 访问日期：2008-12-07. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
 :::

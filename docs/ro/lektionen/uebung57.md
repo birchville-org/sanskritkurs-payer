@@ -12,7 +12,7 @@ last_reconstructed: 2026-05-15
 
 Traduceți și determinați următoarele forme și formați formele corespunzătoare ale **aoristului**. În afară de cauzative și rădăcini care formează **aoristul s**, clasa aoristului corespunzător este indicată între paranteze:
 
-:::grammar-box
+::: grammar-box
 | Nr. | Formă | Determinare / Semnificație | Aorist |
 |:---|:---|:---|:---|
 | ⟪१⟫. | **⟪पेचिथ⟫** | *⟪पच्⟫* 1U: 2. Sg. Perf. P. (tu ai păzit) | **⟪अपाक्षीः⟫** |
@@ -40,10 +40,11 @@ Traduceți și determinați următoarele forme și formați formele corespunzăt
 | ⟪२३⟫. | **⟪निन्य⟫** | *⟪नी⟫* 1U: 2. Pl. Perf. P. (notați ați condus) | **⟪अनैष्ट⟫** |
 | ⟪२४⟫. | **⟪कर्षन्ति⟫** | *⟪कृष्⟫* 1P: 3. Pl. Ind. Präs. P. (ei trag) | **⟪अकार्क्षुः⟫ / ⟪अक्राक्षुः⟫** |
 | ⟪२५⟫. | **⟪अप्रच्छयन्⟫** | *⟪प्रच्छ्⟫* 6P: 3. Pl. Impf. P. Kaus. (ei au lăsat să întrebe) | **⟪अपप्रच्छन्⟫** |
-::::::media
+:::: media
 ![](/images/uebung090.webp)
 Fig.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्लोढ्वम्⟫
 (Sursa imaginii: [Detalii](/licenses#uebung090))
+::::
 :::
 ---
 
@@ -51,7 +52,7 @@ Fig.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्�
 
 Determinați și traduceți următoarele forme:
 
-:::grammar-box
+::: grammar-box
 | Nr. | Formă | Determinare / Semnificație |
 |:---|:---|:---|
 | ⟪१⟫. | **⟪चेलुः⟫** | *⟪चल्⟫* 1P: 3. Pl. Perf. P. (ei s-au mișcat) |
@@ -111,8 +112,9 @@ Determinați și traduceți următoarele forme:
 | ⟪५४⟫. | **⟪आदिषि⟫** | *⟪आ⟫-⟪दा⟫* 3Ā: 1. Pers. Sg. s-Aor. Ā. (am luat) |
 | ⟪५५⟫. | **⟪पाणी⟫** | *⟪पाणि⟫* m.: Nom. Ac. Voc. Du. (ambele mâini) |
 | ⟪५६⟫. | **⟪अस्प्राक्षम्⟫** | *⟪स्पृश्⟫* 6P: 1. Pers. Sg. s-Aor. P. (am atins) |
-::::::media
+:::: media
 ![](/images/uebung094.webp)
 Fig.: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫
 (Sursă imagine: [Detalii](/licenses#uebung094))
+::::
 :::

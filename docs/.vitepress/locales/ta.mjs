@@ -12,7 +12,7 @@ export const ta = {
       { text: 'உள்ளடக்கம்', link: '/ta/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'பங்களிப்பாளர்கள்', link: '/ta/impressum' },
-      { text: '⚙️', link: '/ta/settings', ariaLabel: 'அமைப்புகளைத் திற' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/ta/settings', ariaLabel: 'அமைப்புகளைத் திற' }
     ],
     docFooter: {
       prev: 'முந்தைய பாடம்',

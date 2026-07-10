@@ -10,8 +10,6 @@ last_reconstructed: 2026-05-15
 
 A) Complétez les exemples de déclinaison de la leçon 16 en ajoutant le 4. Datif (⟪चतुर्थी⟫) et le 5. Ablatif (⟪पञ्चमी⟫).
 
-:::grammar-box
-
 ### ⟪१⟫. **⟪सन्त्⟫** (étant, bon)
 
 | Cas | m. Singulier | m. Pluriel | n. Singulier | n. Pluriel |
@@ -41,7 +39,6 @@ A) Complétez les exemples de déclinaison de la leçon 16 en ajoutant le 4. Dat
 | 3. Instr. | ⟪येन⟫ | ⟪यैः⟫ | ⟪येन⟫ | ⟪यैः⟫ | ⟪यया⟫ | ⟪याभिः⟫ |
 | 4. Dat. | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्यै⟫ | ⟪याभ्यः⟫ |
 | 5. Abl. | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्याः⟫ | ⟪याभ्यः⟫ |
-:::
 B) Traduisez et résolvez les composés en sanskrit :
 
 ⟪१⟫. **⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫**
@@ -66,7 +63,7 @@ Les Bouddhas et les Arhants sont libérés de la souffrance. Ils ont atteint la 
 ⟪७⟫. **⟪लोभ⟫en ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫**
 Par l'avidité, la haine et l'obscurité, les gens se perdent. Lorsque le temps est venu, ils tombent alors dans un enfer.
 
-:::media
+::: media
 ![](/images/uebung040.webp)
 Fig. : ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#uebung040))
@@ -117,7 +114,7 @@ Si quelqu'un, par orgueil, cupidité, colère ou peur, rend un faux jugement, il
 ⟪दारिद्र्यमप्रदानेन⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫  
 Les enfers naissent du mal, le mal naît de la pauvreté, la pauvreté naît du non-don.
 
-:::media
+::: media
 ![](/images/uebung041.webp)
 Fig. : ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Source de l'image : [Détails](/fr/licenses#uebung041))
@@ -133,7 +130,7 @@ Un voleur est libéré de la dette de vol par le châtiment ou par la libératio
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
 L'économie est utile car elle produit du grain, du bétail, de l'or, des métaux et du travail.
 
-:::media
+::: media
 ![](/images/uebung042.webp)
 Fig. : ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Source de l'image : [Détails](/fr/licenses#uebung042))

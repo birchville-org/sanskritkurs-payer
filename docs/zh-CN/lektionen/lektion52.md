@@ -5,251 +5,261 @@ lesson_id: 52
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 52
 
-## 52.1. Neutrum der Stämme auf -i und -u
+## 52.1. 以 -i 和 -u 结尾的词干的中性
 
-:::grammar-box
-**Vor vokalisch anlautenden Endungen wird ein -n- eingeschoben, dies ist ein Einfluss der n-Stämme (-in).** <!-- TODO: Fallback translation -->
-::::::grammar-box
-| | **⟪वारि⟫ n.:br"Wasser"** | **⟪मधु⟫ n.:br"Honig"** | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪एकवचनम्⟫** ||| <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫** | ⟪वारि⟫ | ⟪मधु⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | ⟪वारिणा⟫ | ⟪मधुना⟫ | <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | ⟪वारिणे⟫ | ⟪मधुने⟫ | <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | ⟪वारिणस्⟫ | ⟪मधुनस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | ⟪वारिणस्⟫ | ⟪मधुनस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | ⟪वारिणि⟫ | ⟪मधुनि⟫ | <!-- TODO: Fallback translation -->
-| **⟪आमन्त्रितम्⟫** | ⟪वारि⟫:br⟪वारे⟫ | ⟪मधु⟫:br⟪मधो⟫ | <!-- TODO: Fallback translation -->
-| **⟪बहुवचनम्⟫** ||| <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪वारीणि⟫ | ⟪मधूनि⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | ⟪वारिभिस्⟫ | ⟪मधुभिस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | ⟪वारिभ्यस्⟫ | ⟪मधुभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | ⟪वारिभ्यस्⟫ | ⟪मधुभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | ⟪वारीणाम्⟫ | ⟪मधूनाम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | ⟪वारिषु⟫ | ⟪मधुषु⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+**在元音开头的词尾之前，会插入一个 -n-，这是受 n 类词干（-in）影响的结果。**
 :::
-## 52.2. Nominalbildung
-
-### 52.2.1. PPP + -vant: Partizip der Vergangenheit Parasmaipada
-
-:::grammar-box
-**Ein Partizip Parasmaipada der Vergangenheit wird so gebildet:** <!-- TODO: Fallback translation -->
-
-**PPP + -vant / fem.: vatī**
-**Deklination wie die Stämme auf -vant bzw. f. ⟪देवी⟫** <!-- TODO: Fallback translation -->
+::: grammar-box
+| | **⟪वारि⟫ n.:br“水”** | **⟪मधु⟫ n.:br“蜂蜜”** |
+| :--- | :---: | :---: |
+| **⟪एकवचनम्⟫** |||
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫** | ⟪वारि⟫ | ⟪मधु⟫ |
+| **⟪तृतीया⟫** | ⟪वारिणा⟫ | ⟪मधुना⟫ |
+| **⟪चतुर्थी⟫** | ⟪वारिणे⟫ | ⟪मधुने⟫ |
+| **⟪पञ्चमी⟫** | ⟪वारिणस्⟫ | ⟪मधुनस्⟫ |
+| **⟪षष्ठी⟫** | ⟪वारिणस्⟫ | ⟪मधुनस्⟫ |
+| **⟪सप्तमी⟫** | ⟪वारिणि⟫ | ⟪मधुनि⟫ |
+| **⟪आमन्त्रितम्⟫** | ⟪वारि⟫:br⟪वारे⟫ | ⟪मधु⟫:br⟪मधो⟫ |
+| **⟪बहुवचनम्⟫** |||
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪वारीणि⟫ | ⟪मधूनि⟫ |
+| **⟪तृतीया⟫** | ⟪वारिभिस्⟫ | ⟪मधुभिस्⟫ |
+| **⟪चतुर्थी⟫** | ⟪वारिभ्यस्⟫ | ⟪मधुभ्यस्⟫ |
+| **⟪पञ्चमी⟫** | ⟪वारिभ्यस्⟫ | ⟪मधुभ्यस्⟫ |
+| **⟪षष्ठी⟫** | ⟪वारीणाम्⟫ | ⟪मधूनाम्⟫ |
+| **⟪सप्तमी⟫** | ⟪वारिषु⟫ | ⟪मधुषु⟫ |
 :::
-PPP + -vant / fem.: vatī <!-- TODO: Fallback translation -->
+## 52.2. 名词构成
 
-Deklination wie die Stämme auf -vant bzw. f. ⟪देवी⟫ <!-- TODO: Fallback translation -->
+### 52.2.1. PPP + -vant：过去时主动态分词
 
-Beispiele: <!-- TODO: Fallback translation -->
+::: grammar-box
+**过去时主动态分词的构成方式如下：**
 
-:::indent
-⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ "einer/eine, der/die getan hat" <!-- TODO: Fallback translation -->
-
-⟪भिन्नवन्त्⟫ "einer, der gespalten hat" <!-- TODO: Fallback translation -->
+**PPP + -vant / 阴性：vatī**
+**变格如同以-vant结尾的词干，或阴性⟪देवी⟫**
 :::
-### 52.2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
+PPP + -vant / 阴性：vatī
 
-:::grammar-box
-**Das ⟪तद्धित⟫-Suffix -maya / f.: -mayī bildet zu Substantiven Adjektive der Bedeutung** <!-- TODO: Fallback translation -->
+变格如同以-vant结尾的词干，或阴性⟪देवी⟫
 
-*   **"gemacht aus"** <!-- TODO: Fallback translation -->
-*   **"bestehend aus"** <!-- TODO: Fallback translation -->
-*   **"reich an"** <!-- TODO: Fallback translation -->
+示例：
 
-**Vor -maya müssen (wie vor -⟪मात्र⟫) auslautende Verschlusslaute der Pausaform durch den ihnen entsprechenden Nasal ersetzt werden.** <!-- TODO: Fallback translation -->
+::: indent
+⟪कृतवन्त्⟫ (kṛta-vant) / ⟪कृतवती⟫ “做过的人/做过的女人”
+
+⟪भिन्नवन्त्⟫ “分裂者”
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+### 52.2.2. ⟪तद्धित⟫后缀 -maya / -mayī
 
-:::indent
-⟪अन्नमय⟫ 3 "reich an Speise" <!-- TODO: Fallback translation -->
+::: grammar-box
+**⟪तद्धित⟫后缀 -maya / 阴性：-mayī 用于构成名词形容词，含义为**
 
-⟪चिन्मय⟫ 3 (zu ⟪चित्⟫ f. "Intellekt") "aus Denken / Verstand bestehend" <!-- TODO: Fallback translation -->
+*   **“由……制成”**
+*   **“由……组成”**
+*   **“富含……”**
 
-⟪वाङ्मय⟫ 3 (zu ⟪वाच्⟫ f. "Sprache") "aus Rede bestehend" <!-- TODO: Fallback translation -->
+**在 -maya 之前（如同在 -⟪मात्र⟫ 之前），词尾的塞音必须替换为相应的鼻音。**
+:::
+例如：
 
-⟪सोममय⟫ 3 "aus Soma gemacht, aus Soma bestehend" <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Nomina auf -maya werden gelegentlich als neutrale Substantive gebraucht und bezeichnen dann Überfluss an dem, was durch das Substantiv, dem -maya angefügt ist, bezeichnet wird.** <!-- TODO: Fallback translation -->
-::::::indent
-z.B. ⟪अन्नमय⟫ n. "Überfluss an Speise" <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+⟪अन्नमय⟫ 3 “富含食物”
+
+⟪चिन्मय⟫ 3（参见 ⟪चित्⟫ f. “智力”）“由思维/理智构成”
+
+⟪वाङ्मय⟫ 3（参见 ⟪वाच्⟫ f. “语言”）“由言语构成”
+
+⟪सोममय⟫ 3 “由苏摩制成，由苏摩构成”
+:::
+::: grammar-box
+**以 -maya 结尾的名词偶尔被用作中性名词，此时它们指代由附加了 -maya 的那个名词所表示之物的丰裕。**
+:::
+::: indent
+例如：⟪अन्नमय⟫ n. “食物的丰裕”
+:::
+::: media
 ![](/images/lekt5202.webp)
-Abb.: ⟪अन्नमयम्⟫
-⟪विवाहः⟫, Chennai = சென்னை
-(Bildquelle: [Details](/licenses#lekt5202)) <!-- TODO: Fallback translation -->
+图：⟪अन्नमयम्⟫
+⟪विवाहः⟫，金奈 = சென்னை
+（图片来源：[详情](/zh-CN/licenses#lekt5202)）
 :::
-### 52.2.3. ⟪तद्धित⟫-Suffix -eya
+### 52.2.3. ⟪तद्धित⟫ 后缀 -eya
 
-:::grammar-box
-**Das ⟪तद्धित⟫-Suffix -eya / f.: -eyī tritt u.a. an Feminina im Sinne von** <!-- TODO: Fallback translation -->
+::: grammar-box
+**后缀 ⟪तद्धित⟫ -eya / 阴性形式：-eyī 主要附加于表示以下含义的阴性名词：**
 
-*   **"Kind der"** <!-- TODO: Fallback translation -->
-*   **"Nachkomme der"** <!-- TODO: Fallback translation -->
+*   **“……之子/女”**
+*   **“……的后裔”**
 
-**Dehnstufe (⟪वृद्धि⟫) des ersten Vokals.** <!-- TODO: Fallback translation -->
+**第一个元音的长音形式（⟪वृद्धि⟫）。**
 
-z.B. ⟪कौन्तेय⟫ m. "Sohn der ⟪कुन्ती⟫" <!-- TODO: Fallback translation -->
-::::::media
+例如：⟪कौन्तेय⟫ 阳性，“⟪कुन्ती⟫之子”
+:::: media
 ![](/images/lekt5203.webp)
-Abb.: ⟪भीमः⟫ ⟪कौन्तेयः⟫
-Wayang-Figur, Java, Indonesien
-(Bildquelle: [Details](/licenses#lekt5203)) <!-- TODO: Fallback translation -->
+图注：⟪भीमः⟫ ⟪कौन्तेयः⟫
+哇扬皮影人物，爪哇岛，印度尼西亚
+（图片来源：[详细信息](/zh-CN/licenses#lekt5203)）
+::::
 :::
-## 52.3. Adverbialbildung: Adverbialsuffix -śas
+## 52.3. 副词构成：副词后缀 -śas
 
-:::grammar-box
-**Das Adverbialsuffix -śas bildet Adverbien von (hauptsächlich) distributiver Bedeutung aus:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**副词后缀 -śas 从（主要是）分配意义的数词构成副词：**
 
-*   **Zahlwörtern**   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪एकशस्⟫ "einzeln, je einer"  
-    ⟪द्विशस्⟫ "zu zweien, je zwei"  
-    ⟪शतशस्⟫ "zu hunderten, je hundert" <!-- TODO: Fallback translation -->
+*   **数词**
+例如：  
+⟪एकशस्⟫ “单独，各一个”  
+⟪द्विशस्⟫ “成双，各两个”  
+⟪शतशस्⟫ “成百，各一百”
 
-*   **anderen Wörtern**   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪भागशस्⟫ "Teil für Teil"  
-    ⟪सर्वशस्⟫ "überall, gar alle"  
-    ⟪नित्यशस्⟫ "beständig" <!-- TODO: Fallback translation -->
-::::::media
+*   **其他词**
+例如：  
+⟪भागशस्⟫ “逐部分”  
+⟪सर्वशस्⟫ “各处，全部”  
+⟪नित्यशस्⟫ “持续地”
+:::: media
 ![](/images/lekt5204.webp)
-Abb.: ⟪अनुक्रमेणैकशः⟫
-Warteschlage vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
-(Bildquelle: [Details](/licenses#lekt5204)) <!-- TODO: Fallback translation -->
+图：⟪अनुक्रमेणैकशः⟫
+寺庙前的排队，特里凡得琅 = Thiruvananthapuram = തിരുവനന്തപുരം
+（图片来源：[详情](/zh-CN/licenses#lekt5204)）
+::::
 :::
-## 52.4. Verbalkomposita, die ausdrücken, dass etwas zu etwas wird oder gemacht wird, was es vorher nicht ist (⟪अभुततद्भावः⟫)
+## 52.4. 表达某物成为或变成其先前所不是的东西的动词复合词（⟪अभुततद्भावः⟫）
 
 ### 52.4.1. cvi-Bildungen
 
-:::grammar-box
-**Vor die Wurzeln** <!-- TODO: Fallback translation -->
+::: grammar-box
+**追溯根源**
 
-*   **⟪कृ⟫ 8U "tun"** <!-- TODO: Fallback translation -->
-*   **⟪अस्⟫ 2P "sein"** <!-- TODO: Fallback translation -->
-*   **⟪भू⟫ 1P "werden"** <!-- TODO: Fallback translation -->
+*   **⟪कृ⟫ 8U “做”**
+*   **⟪अस्⟫ 2P “是”**
+*   **⟪भू⟫ 1P “成为”**
 
-**können Substantive und Adjektive als Präverbe gesetzt werden werden, um auszudrücken, dass jemand eine Person oder Sache zu dem macht, oder dass eine Person oder Sache zu dem wird, was durch jenes Nomen bezeichnet wird.** <!-- TODO: Fallback translation -->
+**名词和形容词可以作为前缀使用，以表达某人或某物使另一人/事物成为该名词所指的人/物，或者某人/某物变成该名词所指的性质。**
 
-**Der Auslaut des Nomens wird folgendermaßen behandelt:** <!-- TODO: Fallback translation -->
+**词尾处理如下：**
 
-Der Auslaut des Nomens wird folgendermaßen behandelt: <!-- TODO: Fallback translation -->
+名词的词尾按以下方式处理：
 
-*   **auslautendes -a und -ā deklinierbarer Wörter werden durch -ī ersetzt  ** <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪कृष्णीभवति⟫ "etwas, das nicht schwarz ist, wird schwarz"  
-    ⟪कृष्णीकरोति⟫ "er macht etwas, das nicht schwarz ist, schwarz"  
-    ⟪गङ्गीभवति⟫ "er/sie wird zum Ganges"   <!-- TODO: Fallback translation -->
+*   **可变格词末尾的 -a 和 -ā 被替换为 -ī**
+例如：  
+⟪कृष्णीभवति⟫ “非黑之物变为黑色”
+⟪कृष्णीकरोति⟫ “他将非黑之物变为黑色”
+⟪गङ्गीभवति⟫ “他/她成为恒河”
 
-*   **auslautendes -i und -u werden durch den entsprechenden Langvokal ersetzt  ** <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪शुचीभवति⟫ "er/sie/es wird rein"  
-    ⟪गुरूभवामि⟫ "ich werde Meister"   <!-- TODO: Fallback translation -->
+*   **末尾的 -i 和 -u 被替换为相应的长元音**
+例如：  
+⟪शुचीभवति⟫ “他/她/它变得纯净”
+⟪गुरूभवामि⟫ “我成为主人”
 
-*   **auslautendes -ṛ wird durch --rī ersetzt  ** <!-- TODO: Fallback translation -->
-    z.B. ⟪पित्रीभवति⟫ "einer, der nicht Vater (⟪पितृ⟫) ist, wird Vater = ein Mann bekommt sein erstes Kind"   <!-- TODO: Fallback translation -->
+*   **末尾的 -ṛ 被替换为 -rī**
+例如：⟪पित्रीभवति⟫ “非父亲（⟪पितृ⟫）者成为父亲 = 男子得第一个孩子”
 
-*   **auslautendes -n fällt ab und der vorausgehende Vokal wird nach den eben genannten Regeln behandelt  ** <!-- TODO: Fallback translation -->
-    z.B. ⟪राजीबभूव⟫ "einer (der nicht König war) wurde König (⟪राजन्⟫)"   <!-- TODO: Fallback translation -->
+*   **词尾的 -n 脱落，其前的元音按照上述规则处理**
+例如：⟪राजीबभूव⟫ “一位（非国王者）成为国王（⟪राजन्⟫)”
 
-*   **mehrstämmige andere Nomina stehen in der Form des Stammes, den sie im Lokativ (⟪सप्तमी⟫) Plural haben. Der Stamm unterliegt dann den üblichen Sandhiregeln. Siehe Kielhorn, Grammatik § 489,3.  ** <!-- TODO: Fallback translation -->
-    z.B. ⟪तिर्यक्करोति⟫ "er legt seitwärts (⟪तिर्यच्⟫)" <!-- TODO: Fallback translation -->
-::::::media
+*   **多词干的其他名词以其在位格（⟪सप्तमी⟫）复数形式的词干形式出现。该词干随后遵循常规的连音规则。参见 Kielhorn，《语法》§ 489,3。**
+例如：⟪तिर्यक्करोति⟫ “他侧身放置（⟪तिर्यच्⟫)”
+:::: media
 ![](/images/lekt5209.webp)
-Abb.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
-Brandrodung, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Bildquelle: [Details](/licenses#lekt5209)) <!-- TODO: Fallback translation -->
+图：⟪भस्मीकृतं⟫ ⟪वनम्⟫
+刀耕火种，阿鲁纳恰尔邦 = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5209)）
+::::
 :::
-### 52.4.2. Suffix -sāt
+### 52.4.2. 后缀 -sāt
 
-:::grammar-box
-**Um auszudrücken, dass eine Person oder Sache vollständig zu dem wird, oder dass jemand etwas oder jemand ganz und gar zu dem macht, was durch ein Nomen bezeichnet wird, kann an das Nomen** <!-- TODO: Fallback translation -->
+::: grammar-box
+**为了表达一个人或事物完全成为某物，或者某人将某事或某人彻底变成由名词所指称的状态，可以在该名词后添加**
 
-**das Suffix -sāt (das nie -ṣāt wird)** <!-- TODO: Fallback translation -->
+**后缀 -sāt（它绝不会变为 -ṣāt）**
 
-**angefügt werden und das so gebildete Wort mit den Wurzeln** <!-- TODO: Fallback translation -->
+**可以附加，并将由此构成的词与动词根**
 
-*   ⟪कृ⟫ 8U "tun" <!-- TODO: Fallback translation -->
-*   ⟪अस्⟫ 2P "sein" <!-- TODO: Fallback translation -->
-*   ⟪भू⟫ 1P "werden" <!-- TODO: Fallback translation -->
-*   ⟪सम्⟫-⟪पद्⟫ 4Ā <!-- TODO: Fallback translation -->
+*   ⟪कृ⟫ 8U “做”
+*   ⟪अस्⟫ 2P “是”
+*   ⟪भू⟫ 1P “成为”
+*   ⟪सम्⟫-⟪पद्⟫ 4Ā
 
-**zu einem Verbalkompositum verbunden werden.** <!-- TODO: Fallback translation -->
+**结合为动词复合词。**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫  "er wird vollständig zu Feuer" <!-- TODO: Fallback translation -->
+::: indent
+⟪अग्निसाद्भवति⟫ ⟪।⟫ ⟪अग्निसात्संपद्यते⟫ “他完全成为火”
 
-⟪भस्मसात्करोति⟫ "er verwandelt ganz und gar in Asche (⟪भस्मन्⟫ n. "Asche")) <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache** <!-- TODO: Fallback translation -->
-
-*   **von dem abhängig wird oder** <!-- TODO: Fallback translation -->
-*   **in den Besitz dessen übergeht** <!-- TODO: Fallback translation -->
-*   **oder dass jemand von dem abhängig macht** <!-- TODO: Fallback translation -->
-
-**das vom Nomen bezeichnet wird** <!-- TODO: Fallback translation -->
+⟪भस्मसात्करोति⟫ “他完全转化为灰烬（⟪भस्मन्⟫ n. ‘灰烬’）”
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+::: grammar-box
+**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
 
-:::indent
-⟪राजसाद्भवति⟫ "er wird vom König abhängig, er wird Eigentum des Königs" <!-- TODO: Fallback translation -->
-:::::::grammar-box
-**Nach den Bildungen mit -sāt werden Wurzeln nicht wie nach Präverben behandelt, also Absolutiv:** <!-- TODO: Fallback translation -->
+*   **依赖于……的人，或**
+*   **成为……的占有者**
+*   **或使某人依赖于……的人**
 
-:::indent
-⟪भस्मसात्कृ⟫***⟪त्वा⟫*** <!-- TODO: Fallback translation -->
-::::::
-## 52.5. Wortwiederholungen (⟪द्विरुक्तम्⟫)
-
-::::grammar-box
-**Wortwiederholung drückt im Sanskrit aus:** <!-- TODO: Fallback translation -->
-
-*   **Wiederholung der Handlung**   <!-- TODO: Fallback translation -->
-    z.B. ⟪पुनः⟫ ⟪पुनः⟫ "immer wieder" <!-- TODO: Fallback translation -->
-*   **Distribution**   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪पृथक्पृथक्⟫ "je gesondert, je einzeln"  
-    ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "was auch immer ... das alles"  
-    ⟪युगे⟫ ⟪युगे⟫ "in jedem einzelnen Weltzeitalter" <!-- TODO: Fallback translation -->
-
-**Gelegentlich kann aus solchen Verbindungen ein Kompositum gebildet werden** <!-- TODO: Fallback translation -->
-
-Beispiele: <!-- TODO: Fallback translation -->
-
-:::indent
-⟪एकैक⟫ 3 "jeder einzelne"
-⟪अल्पाल्प⟫ 3 "ganz klein"
-⟪नवनव⟫ 3 "stets neu" <!-- TODO: Fallback translation -->
+**由名词所指称的对象**
 :::
-Zu den sog. ⟪आम्रेडित⟫-Komposita, in denen flektierte Wörter wiederholt werden, das zweite aber in vorklassischer Zeit einen Akzent bekam, also ein Kompositum vorliegt, siehe Wackernagel, Altindische Grammatik II,1 S. 142ff. <!-- TODO: Fallback translation -->
-:::
-## 52.6. Das Zahlwort (⟪सम्ख्या⟫ f.)
+示例：
 
-Hier nicht behandeltes siehe z.B. bei Kielhorn, Grammatik §201f. <!-- TODO: Fallback translation -->
+::: indent
+⟪राजसाद्भवति⟫ “他依赖于国王，成为国王的财产”
+:::
+::: grammar-box
+**带有-sāt后缀的词干构成的词，其词根不像前缀那样处理，因此为绝对格：**
+
+:::
+::: indent
+⟪भस्मसात्कृ⟫***⟪त्वा⟫***
+:::
+## 52.5. 词语重复（⟪द्विरुक्तम्⟫）
+
+::: grammar-box
+**词语重复在梵语中表示：**
+
+*   **动作的反复**
+例如，⟪पुनः⟫ ⟪पुनः⟫ “反复地”
+*   **分布**
+示例：  
+⟪पृथक्पृथक्⟫ “各自地，单独地”  
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ “无论什么……所有这些”  
+⟪युगे⟫ ⟪युगे⟫ “在每一个单独的时代”
+
+**偶尔，可以从这样的组合中构成复合词**
+
+示例：
+
+:::
+::: indent
+⟪एकैक⟫ 3 “每一个”
+⟪अल्पाल्प⟫ 3 “极小”
+⟪नवनव⟫ 3 “始终崭新”
+:::
+关于所谓的⟪आम्रेडित⟫复合词，其中屈折形式被重复，但第二个成分在古典前时期获得了重音，因此构成复合词，参见瓦克纳格尔《古印度语法》第二卷第1部分，第142页及以下。
+## 52.6. 数词（⟪सम्ख्या⟫阴性）
+
+此处未涵盖的内容，参见基尔霍恩《语法》第201节及以下。
 
 ### 52.6.1. Kardinalzahlen
 
-#### 52.6.1.1. Zahladjektive (für 1 bis 19) <!-- TODO: Fallback translation -->
+#### 52.6.1.1. 数词（用于1至19）
 
-:::grammar-box
-**Die Zahlwörter für *1 bis 19* sind Adjektive.**
-**Die Zahlwörter für **1 bis 4** sind für die drei Geschlechter in der Deklination unterschioedlich.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**表示“1至19”的数词是形容词。**
+**表示“1至4”的数词在三种性别的变格中有所不同。**
 
-**Für die Zahlwörter für **5 bis 19** ***(⟪नवदशन्⟫)*** gibt es nur eine einzige Deklination für die drei Geschlechter.** <!-- TODO: Fallback translation -->
+**对于表示“5至19”的数词（***⟪नवदशन्⟫)***，三种性别仅有一种变格形式。**
 
-**Für diese Zahladjektive gilt wie für alle Adjektive: es muss in gleichen Fall, Zahl und Geschlecht stehen wie das zugehörige Nomen und umgekehrt (d.h. für 1 Singular, für 2 Dual, für die übrigen Plural).** <!-- TODO: Fallback translation -->
+**这些数形容词遵循所有形容词的规则：其格、数和性别必须与所修饰的名词一致（即单数对应1，双数对应2，其余为复数）。**
 :::
-Zahladjektive: <!-- TODO: Fallback translation -->
+数形容词：
 
-:::indent
-1 ⟪एक⟫ 3 (Deklination wie ⟪सर्व⟫, im Plural: "einige")
+::: indent
+1 ⟪एक⟫ 3（变格同 ⟪सर्व⟫，复数：“一些”）
 2 ⟪द्वि⟫ 3
 3 ⟪त्रि⟫ 3
 4 ⟪चतुर्⟫ 3
@@ -258,530 +268,537 @@ Zahladjektive: <!-- TODO: Fallback translation -->
 7 ⟪सप्तन्⟫ 3
 8 ⟪अष्टन्⟫ 3
 9 ⟪नवन्⟫ 3
-10 ⟪दशन्⟫ 3 <!-- TODO: Fallback translation -->
+10 ⟪दशन्⟫ 3
 :::
-Die Deklination folgt an gegebener Stelle in den Wortlisten. <!-- TODO: Fallback translation -->
+变格在词表中相应位置给出。
 
-Die weiteren Zahladverbien bis 19 siehe z.B. bei Kielhorn, Grammatik §201. <!-- TODO: Fallback translation -->
+关于19以下的其他数副词，参见Kielhorn《语法》§201。
 
-#### 52.6.1.2. Zahlsubstantive (für 19ff.) <!-- TODO: Fallback translation -->
+#### 52.6.1.2. 数词（用于19及以上）
 
-::::grammar-box
-**Die Zahlwörter für *19 (⟪एकोनविंशति⟫* "eins weniger als 20") *bis 99* sind feminine Substantive und werden wie ⟪मति⟫ f.  bzw. Wurzelnomina auf -t (z.B. ⟪त्रिंशत्⟫ f.) dekliniert.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**表示 *19（⟪एकोनविंशति⟫* “比20少一”）至99的数词是阴性名词，其变格同 ⟪मति⟫ 阴性f.，或词干为-t的根名词（例如 ⟪त्रिंशत्⟫ 阴性f.）。**
 
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
+:::
+::: indent
 20 ⟪विंशति⟫ f.:br
-30 ⟪त्रिंशत्⟫ f. <!-- TODO: Fallback translation -->
+30 ⟪त्रिंशत्⟫ f.
 :::
-**Die Zahlwörter für Zahlen **ab 100** sind neutrale Substantive. Sie werden wie ⟪फलम्⟫ dekliniert.** <!-- TODO: Fallback translation -->
+**表示100及以上的数词是中性的名词。它们像 ⟪फलम्⟫ 一样变格。**
 
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
+::: indent
 100 ⟪शत⟫ n.:br
-1000 ⟪सहस्र⟫ n. <!-- TODO: Fallback translation -->
+1000 ⟪सहस्र⟫ n.
 :::
-Die einzelnen Zahlsubstantive siehe z.B. bei Kielhorn, Grammatik §201. <!-- TODO: Fallback translation -->
-:::
-#### 52.6.1.3. Syntaktisches zu den Kardinalzahlen <!-- TODO: Fallback translation -->
+各个数词请参见Kielhorn，《语法》§201。
+#### 52.6.1.3. 基数词的句法
 
-:::grammar-box
-**Aus dem Unterschied zwischen Verbaladjektiven und Verbalsubstantiven für Kadinalzahlen ergibt sich folgende Konsequenz für die Syntax:** <!-- TODO: Fallback translation -->
-*   adjektivische Kardinalzahlwörter können nur wie Adjektive mit dem Substantiv für das Gezählte verbunden werden   <!-- TODO: Fallback translation -->
-    z.B. ⟪तिसृभिर्नारीभिः⟫ "durch drei Frauen"   <!-- TODO: Fallback translation -->
-*   substantivische Kardinalzahlwörter können auf drei Weisen mit dem Substantiv für das Gezählte verbunden werden <!-- TODO: Fallback translation -->
-    *   sie regieren den Genetiv (⟪षष्ठी⟫) des Gezählten   <!-- TODO: Fallback translation -->
-        z.B. ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "durch 20 Frauen"   <!-- TODO: Fallback translation -->
-    *   sie stehen als Apposition im selben Kasus (aber im Singular) wie das Gezählte   <!-- TODO: Fallback translation -->
-        z.B. ⟪विंशत्या⟫ ⟪नारीभिः⟫ "durch 20 Frauen"  <!-- TODO: Fallback translation -->
-    *   sie stehen als Hinterglied eines ⟪तत्पुरुष⟫ mit dem Gezählten als Vorderglied   <!-- TODO: Fallback translation -->
-        z.B. ⟪गोविंशत्या⟫ "durch 20 Kühe"  <!-- TODO: Fallback translation -->
+::: grammar-box
+**动词形容词与基数词名词化之间的区别对句法产生以下影响：**
+*   形容词性基数词只能像形容词一样与所计数的名词结合
+例如 ⟪तिसृभिर्नारीभिः⟫ "通过三位女性"
+*   名词性基数词可以通过三种方式与所计数的名词结合
+*   它们支配所计数词的属格（⟪षष्ठी⟫）
+例如 ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "通过二十位女性"
+*   它们作为同位语，与所计数词处于相同的格（但为单数）
+例如 ⟪विंशत्या⟫ ⟪नारीभिः⟫ "通过二十位女性"
+*   它们作为 तत्पुरुष 的后半部分，所计数词为前半部分
+例如 ⟪गोविंशत्या⟫ "通过二十头母牛"
 
 :::
 ### 52.6.2. Ordinalzahlen
 
-Siehe z.B. bei Kielhorn, Grammatik §201f. <!-- TODO: Fallback translation -->
+参见例如Kielhorn，《语法》§201f。
 
 ### 52.6.3. Zahladverbien
 
-a) "-mal": <!-- TODO: Fallback translation -->
+a) “-mal”：
 
-:::indent
-einmal: ⟪सकृत्⟫
-zweimal: ⟪द्विस्⟫
-dreimal: ⟪त्रिस्⟫
-viermal: ⟪चतुस्⟫
-fünfmal usw. wird mit dem Suffix ***\-⟪कृत्वस्⟫*** gebildet: ⟪पञ्चकृत्वस्⟫ <!-- TODO: Fallback translation -->
+::: indent
+一次：⟪सकृत्⟫
+两次：⟪द्विस्⟫
+三次：⟪त्रिस्⟫
+四次：⟪चतुस्⟫
+五次等通过后缀 ***\-⟪कृत्वस्⟫*** 构成：⟪पञ्चकृत्वस्⟫
 :::
-b) "-fach": wird mit dem Suffix ***\-⟪धा⟫*** ausgedrückt <!-- TODO: Fallback translation -->
+b) “-fach”：通过后缀 ***\-⟪धा⟫*** 表达
 
-:::indent
-einfach: ⟪एकधा⟫
-zweifach: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
-usw. <!-- TODO: Fallback translation -->
+::: indent
+单一：⟪एकधा⟫
+双重：⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
+等等。
 :::
-c) "je ...", "zu ...": wird mit dem Suffix ***\-⟪शस्⟫*** ausgedrückt (siehe oben!) <!-- TODO: Fallback translation -->
+c) “每……”，“各……”：通过后缀 ***\-⟪शस्⟫*** 表达（见上文！）
 
-:::indent
-⟪द्विशस्⟫ "zu zweien, je zwei" <!-- TODO: Fallback translation -->
+::: indent
+⟪द्विशस्⟫ “两人一组，各两个”
 :::
-### 52.6.4. Zahladjektive
+### 52.6.4. 数词形容词
 
-"-fältig": <!-- TODO: Fallback translation -->
+“-fältig”：
 
-:::indent
-zweifältig, aus zweien bestehend
-dreifältig, aus drei Teilen bestehend <!-- TODO: Fallback translation -->
+::: indent
+双重的，由两者组成
+三重的，由三个部分构成
 
-ab 4 wird "-fältig" durch das Suffix ***\-⟪तय⟫ (f.: -⟪तयी⟫)*** ausgedrückt: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "vierfältig" <!-- TODO: Fallback translation -->
+从数字4开始，“-fältig”通过后缀 ***\-⟪तय⟫（阴性：-⟪तयी⟫）*** 来表达：⟪चतुष्टय⟫ 阳性/中性 चतुष्टयी⟫ 阴性 “四重的”
 :::
-Weitere Bildungen entnehme man den Wörterbüchern oder Grammatiken. <!-- TODO: Fallback translation -->
+更多构词形式请参阅词典或语法书。
 
-### 52.6.5. Komposita mit Kardinalzahlen im Vorderglied
+### 52.6.5. 以前置基数词为前成分的复合词
 
-:::grammar-box
-**⟪बहुव्रीहि⟫ dieser Art werden ganz regelmäßig gebildet.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**⟪बहुव्रीहि⟫以这种方式被非常规律地构成。**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+例如：
 
-:::indent
-⟪चतुर्मुख⟫ m. "einer, der vier Gesichter hat" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (ein Beiname Brahmās) <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+⟪चतुर्मुख⟫ 阳性，“拥有四张面孔的人” = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫（梵天的一个称号）
+:::: media
 ![](/images/lekt5205.webp)
-Abb.: ⟪चतुर्मुखः⟫
-(Bildquelle: [Details](/licenses#lekt5205)) <!-- TODO: Fallback translation -->
-::::::grammar-box
-**⟪तत्पुरुष⟫ mit einer Kardinalzahl im Vorderglied dürfen nicht beliebig gebildet werden:** <!-- TODO: Fallback translation -->
-
-**Regel 1: Wörter, die eine Himmelsrichtung bezeichnen (wie ⟪पूर्व⟫ 3 "östlich", ⟪उत्तर⟫ 3 "nördlich"), und Wörter für Kardinalzahlen dürfen mit anderen Wörtern nur dann ein ⟪कर्मधारय⟫-Kompositum bilden, wenn das Kompositum als Eigenname gebraucht wird.** <!-- TODO: Fallback translation -->
+图：⟪चतुर्मुखः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5205)）
+::::
 :::
-Daher darf z.B. aus ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "nördliche Bäume" oder ⟪पञ्च⟫ ⟪ब्राह्मणः⟫ kein Tatpuruṣa gebildet werden. Aus ⟪सप्तन्⟫ und ⟪ऋषि⟫ kann aber der Tatpuruṣa ⟪सप्तर्षि⟫ m. "die sieben Ṛṣis" gebildet werden, wenn dies als Name für das Sternbild des Großen Bären (Ursa maior) steht. <!-- TODO: Fallback translation -->
-:::media
+::: grammar-box
+**⟪तत्पुरुष⟫与基数词在前部组合时，不得随意构成：**
+
+**规则 1：表示方位（如 ⟪पूर्व⟫ 3 “东方”，⟪उत्तर⟫ 3 “北方”）的词以及表示基数的数字词，只有当复合词被用作专有名词时，才能与其他词构成⟪कर्मधारय⟫复合词。**
+:::
+因此，例如不能从 ⟪उत्तरा⟫ ⟪वृक्षाः⟫ “北方的树木” 或 ⟪पञ्च⟫ ⟪ब्राह्मणः⟫ 构成限定复合词（Tatpuruṣa）。但是，可以从 ⟪सप्तन्⟫ 和 ⟪ऋषि⟫ 构成限定复合词 ⟪सप्तर्षि⟫ 阳性，“七位仙人”，如果这作为大熊座（Ursa maior）星群的名称使用。
+::: media
 ![](/images/lekt5206.jpg)
-Abb.: ⟪सप्तर्षयः⟫
-Das Siebengestirn = die sieben hellsten Sterne des Großen Bären (Ursa maior)
-(Bildquelle: [Details](/licenses#lekt5206)) <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Regel 2: Abweichend von Regel 1 kann ein Wort, das eine Himmelrichtung oder eine Kardinalzahl bezeichnet mit einem anderen Nomen ein Tatpuruṣa bilden, wenn** <!-- TODO: Fallback translation -->
+图：⟪सप्तर्षयः⟫
+七颗星 = 大熊座（Ursa maior）中最亮的七颗恒星
+（图片来源：[详情](/zh-CN/licenses#lekt5206)）
+:::
+::: grammar-box
+**规则 2：与规则 1 不同，表示方位或基数的词可以与另一个名词构成限定复合词（Tatpuruṣa），如果**
 
-1.  dem so gebildeten Kompositum ein Taddhita-Suffix angefügt wird   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    pūrva + śālā ("Halle) » \*pūrvaśālā (darf so nicht gebraucht werden!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "in der östlichen Halle befindlich"  
-    ṣaṣ + mātṛ » \*ṣaṇmātṛ (nicht zulässig!) + Taddhita -a » ⟪षण्मातुर⟫ m. "das Kind von sechs Müttern" (= ⟪कार्त्तिकेय⟫)   <!-- TODO: Fallback translation -->
+1. 所构成的复合词附加了 Taddhita 后缀
+例如：  
+pūrva + śālā （“大厅”） » \*pūrvaśālā （不得这样使用！） + Taddhita -a » ⟪पौर्वशाल⟫ 3 “位于东方大厅中”  
+ṣaṣ + mātṛ » \*ṣaṇmātṙ （不允许！） + Taddhita -a » ⟪षण्मातुर⟫ 阳性，“六个母亲的孩子”（= ⟪कार्त्तिकेय⟫）
 
-2.  das so gebildete Kompositum in einer Bedeutung gebraucht wird, die sonst durch ein Taddhita-Suffix bezeichnet wird (bei dieser Art ist der Übergang zum Bahuvrīhi fließend):   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    dvi + go » ⟪द्विगु⟫ : nicht: "zwei Kühe", sondern: "**für zwei Kühe erhandelt**"  
-    ⟪द्विवर्ष⟫ nicht: "zwei Jahre", sondern: "**zwei Jahre alt**"   <!-- TODO: Fallback translation -->
+2. 所构成的复合词被用于通常由Taddhita后缀表示的含义中（这种类型的Bahuvrīhi过渡是流动的）：
+示例：  
+dvi + go » ⟪द्विगु⟫ : 不是“两头牛”，而是：“**为两头牛购买**”  
+⟪द्विवर्ष⟫ 不是“两年”，而是：“**两岁**”
 
-3.  das so gebildete Kompositum das Vorderglied eines anderen Kompositums bildet   <!-- TODO: Fallback translation -->
-    Beispiel:  
-    pañca + go » pañcagava (als Einzelwort unzulässig!) + dhana » ⟪पञ्चगवधन⟫ m. "Einer, dessen Reichtum fünf Kühe sind" <!-- TODO: Fallback translation -->
-::::::media
+3. 所构成的复合词构成另一个复合词的前半部分
+示例：  
+pañca + go » pañcagava（作为单个词不允许！）+ dhana » ⟪पञ्चगवधन⟫ m. “其财富为五头牛的人”
+:::
+::: media
 ![](/images/lekt5207.webp)
-Abb.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
+图：⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫：
 Jalakandapuram = ஜலகண்டபுரம்
-(Bildquelle: [Details](/licenses#lekt5207)) <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Eine Bezeichnung für eine Kardinalzahl (aber nicht für eine Himmelsrichtung) kann als Vorderglied mit einem anderen Nomen auch dann ein Tatpuruṣa bilden, wenn das so gebildete Kompositum das Aggregat mehrerer Dinge bezeichnet, d.h. zwei oder mehrere Dinge zu einer Einheit zusammenfasst.** <!-- TODO: Fallback translation -->
-
-**Tatpuruṣa, die nach dieser Regel gebildet werden heißen ***Dvigu (⟪द्विगु⟫)***.** <!-- TODO: Fallback translation -->
-
-**Dvigu-Komposita, die eine Einheit bezeichnen, sind gewöhnlich Neutra. Endet das zweite Glied auf -a, so kann das Femininsuffix -ī antreten. Endet das zweite Glied auf fem. -ā, so tritt an dessen Stelle entweder Neutrum -a oder Feminin -ī. Endet das zweite Glied auf -an, so wird dafür -a oder -ī substituiert.** <!-- TODO: Fallback translation -->
+（图片来源：[详细信息](/zh-CN/licenses#lekt5207)）
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+::: grammar-box
+**表示基数词（而非方位）的词，即使所构成的复合词指代多个事物的集合，即把两个或多个事物合并为一个整体，也可以与其他名词构成Tatpuruṣa复合词。**
 
-:::indent
-⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "das Aggregat der drei Welten, die drei Welten als Einheit, die Dreiwelt (Himmel-Erde-Unterwelt) <!-- TODO: Fallback translation -->
+**根据此规则构成的Tatpuruṣa称为 ***Dvigu (⟪द्विगु⟫)***。**
 
-⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "Dreiwelt" <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Dvigu-Komposita, denen kein Taddhitasuffix angefügt ist, die aber die Bedeutung haben, die durch ein Taddhita-Suffix bezeichnet wird, richten wie Bahuvrīhis ihr Geschlecht nach dem Nomen, welches sie näher bestimmen (es sind in Wirklichkeit wohl Bahuvrīhi)** <!-- TODO: Fallback translation -->
+**表示整体的Dvigu复合词通常是中性。如果后半部分以-a结尾，则可以加上阴性后缀-ī。如果后半部分以阴性-a结尾，则替换为中性-a或阴性-ī。如果后半部分以-an结尾，则替换为-a或-ī。**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+示例：
 
-:::indent
-⟪पञ्चगु⟫ 3: "für fünf Kühe erhandelt" <!-- TODO: Fallback translation -->
+::: indent
+⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. “三界聚合，作为整体的三界，三界（天界、地界、地下世界）”
+
+⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. “三界”
 :::
-## 52.7. Wortliste
+::: grammar-box
+**未附加Taddhita后缀但具有由Taddhita后缀所表示意义的Dvigu复合词，其性数格变化如同Bahuvrīhi复合词那样跟随其所修饰的名词（实际上它们很可能是Bahuvrīhi）**
+:::
+示例：
 
-⟪अखिल⟫ 3: lückenlos, ganz <!-- TODO: Fallback translation -->
+::: indent
+⟪पञ्चगु⟫ 3：“为五头牛所换取”
+:::
+## 52.7. 词汇表
 
-⟪निखिल⟫ 3: vollständig, ganz <!-- TODO: Fallback translation -->
+⟪अखिल⟫ 3：无间隙，完整
 
-:::indent
-von: <!-- TODO: Fallback translation -->
+⟪निखिल⟫ 3：完整，全部
 
-⟪खिल⟫ m.: Brachfeld, Ödland <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+来自：
+
+⟪खिल⟫ m.：荒地，贫瘠之地
+:::: media
 ![](/images/lekt5210.webp)
-Abb.: ⟪खिलः⟫
+图：⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Bildquelle: [Details](/licenses#lekt5210)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt5210)）
+::::
 :::
-⟪अन्तर्⟫ Adv.: innen, im Innern ; Postposition mit Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): innerhalb, inmitten ; Postposition mit Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): aus ... heraus <!-- TODO: Fallback translation -->
+⟪अन्तर्⟫ 副词：内部，在内；与属格/方位格（⟪षष्टी⟫, ⟪सप्तमी⟫）连用的后置词：在……之内，在中间；与属格/离格（⟪षष्ठी⟫, ⟪पञ्चमी⟫）连用的后置词：从……出来
 
-⟪अन्योन्य⟫ 3: gegenseitig, einander <!-- TODO: Fallback translation -->
+⟪अन्योन्य⟫ 3：互相，彼此
 
-⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 2P ⟪विपर्येति⟫ : fehlschlagen <!-- TODO: Fallback translation -->
+⟪इ⟫ + ⟪वि⟫ + ⟪परि⟫ 第二人称复数 ⟪विपर्येति⟫ ：失败
 
-:::indent
-PPP ⟪विपरीत⟫ 3: verkehrt, falsch <!-- TODO: Fallback translation -->
+::: indent
+过去分词 ⟪विपरीत⟫ 第三人称单数：错误，不正确
 :::
-⟪त्रि⟫ 3: drei <!-- TODO: Fallback translation -->
+⟪त्रि⟫ 第三人称单数：三
 
-:::grammar-box
-| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ | <!-- TODO: Fallback translation -->
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ | <!-- TODO: Fallback translation -->
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ | <!-- TODO: Fallback translation -->
-| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ | <!-- TODO: Fallback translation -->
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | **阳性：br⟪पुंस्⟫** | **中性：br⟪नपुंसकम्⟫** | **阴性：br⟪स्त्री⟫** |
+| :--- | :---: | :---: | :---: |
+| **1. 主格：br⟪१⟫。 ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **2. 宾格：br⟪२⟫。 ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **3. 工具格：br⟪३⟫。 ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
+| **4. 与格：br⟪४⟫。 ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **5. 离格：br⟪५⟫。 ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **6. 属格：br⟪६⟫。 ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **7. 方位格：br⟪७⟫。 ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposition und Präfix bei Nomina und Verben: hinaus, hinweg, heraus, hervor, aus, weg, ohne - von <!-- TODO: Fallback translation -->
+⟪निस्⟫ 名词和动词的后缀及前缀：向外，远离，出来，冒出，从……中，离开，没有——来自
 
-⟪पीड्⟫ 10P ⟪पीडयति⟫ : drücken, quälen ; bedrängen, belagern, plagen <!-- TODO: Fallback translation -->
+⟪पीड्⟫ 第十人称复数 ⟪पीडयति⟫ ：挤压，折磨；压迫，围困，困扰
 
-:::media
+::: media
 ![](/images/lekt5212.webp)
-Abb.: ⟪पीडिताः⟫
-Hyderabad = హైదరాబాద్
-(Bildquelle: [Details](/licenses#lekt5212)) <!-- TODO: Fallback translation -->
+图：⟪पीडिताः⟫
+海得拉巴 = హైదరాబాద్
+（图片来源：[详情](/zh-CN/licenses#lekt5212)）
 :::
-⟪पर⟫ 3: (Deklination wie ⟪सर्व⟫) fernstehend, fremd, höher als (⟪पञ्चम्या⟫), äußerster, höchster ; anderer, fremder, feindlich ; m.: Fremder <!-- TODO: Fallback translation -->
+⟪पर⟫ 3：（变格同 ⟪सर्व⟫）遥远的，外来的，高于（⟪पञ्चम्या⟫），极度的，最高的；其他的，外来的，敌对的；阳性：外国人
 
-:::indent
-davon: <!-- TODO: Fallback translation -->
+::: indent
+由此衍生：
 
-⟪परम्⟫ Adv.: in hohem Grade, darauf, später, aber, jedoch <!-- TODO: Fallback translation -->
+⟪परम्⟫ 副词：在高度上，此后，后来，但是，然而
 :::
-⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): zu - hin, nach, in Bezug auf, gegenüber <!-- TODO: Fallback translation -->
+⟪प्रति⟫ 后置词（⟪द्वितीयया⟫）：朝向……，向，关于，相对于
 
-⟪प्रधान⟫ 3: hauptsächlicher, bester ; n.: Wichtigstes <!-- TODO: Fallback translation -->
+⟪प्रधान⟫ 3：主要的，最好的；中性：最重要的
 
-:::media
+::: media
 ![](/images/lekt5213.webp)
-Abb.: ⟪प्रधानः⟫
+图：⟪प्रधानः⟫
 ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5213)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt5213)）
 :::
-⟪लौल्य⟫ n.: Gier, Lüsternheit <!-- TODO: Fallback translation -->
+⟪लौल्य⟫ n.：贪婪，淫欲
 
-⟪वर्ग⟫ m.: Abschnitt, Abteilung, Schar <!-- TODO: Fallback translation -->
+⟪वर्ग⟫ m.：部分，章节，群体
 
-:::indent
-⟪त्रिवर्ग⟫ m.: Dreiergruppe (z.B. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; oder: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; oder: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫) <!-- TODO: Fallback translation -->
+::: indent
+⟪त्रिवर्ग⟫ m.：三人组（例如 ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫；或：⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫；或：⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫）
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : wollen, gebieten, verlangen nach <!-- TODO: Fallback translation -->
+⟪वश्⟫ 第二人称 ⟪वस्टि⟫，***⟪उशन्ति⟫，*** 命令式 2.sg.：***⟪उड्ढि⟫*** ：想要，命令，渴望
 
-:::indent
-Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
-Fut. ⟪वशिष्यति⟫
-Pass. ⟪उष्यते⟫
-Kaus. ⟪वाशयति⟫
-PPP ⟪उशित⟫
-Inf. ⟪वशितुम्⟫
-Absol. -⟪वश्य⟫ <!-- TODO: Fallback translation -->
+::: indent
+完成时主动态 ⟪उवाश⟫, ⟪ऊशुर्⟫
+将来时 ⟪वशिष्यति⟫
+被动语态 ⟪उष्यते⟫
+使役态 ⟪वाशयति⟫
+过去被动分词 ⟪उशित⟫
+不定式 ⟪वशितुम्⟫
+独立分词 -⟪वश्य⟫
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen <!-- TODO: Fallback translation -->
+⟪वा⟫ 第二人称 ⟪वाति⟫：吹，刮风
 
-:::indent
-Perf IV ⟪ववौ⟫
-Fut. ⟪वास्यति⟫
-Pass. ⟪वायते⟫
-Kaus. ⟪वापयति⟫
-PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
-Inf. ⟪वातुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+第四完成式 ⟪ववौ⟫
+将来时 ⟪वास्यति⟫
+被动语态 ⟪वायते⟫
+使役式 ⟪वापयति⟫
+过去被动分词 (PPP) ⟪वान⟫ ⟪।⟫ ⟪वात⟫
+不定式 (Inf.) ⟪वातुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+其中：
 
-⟪वात⟫ m.: Wind <!-- TODO: Fallback translation -->
+⟪वात⟫ 阳性名词 (m.)：风
 :::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : wenden, drehen ; abwehren, ausschließen <!-- TODO: Fallback translation -->
+⟪वृज्⟫ 第七类动词 (7P) ⟪वृणक्ति⟫ 第一人称单数 (1P) ⟪वर्जति⟫ ：转动，旋转；阻挡，排除
 
-:::indent
-Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
-Fut. ⟪वर्जिष्यति⟫
-Pass. ⟪वृज्यते⟫
-Kaus. ⟪वर्जयति⟫ : beseitigen
-Kaus. PPP ⟪वर्जित⟫ : einer Sache verlustig, frei von
-PPP ⟪वृक्त⟫
-Inf. ⟪वर्जितुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+第二完成式 (Perf. II) ⟪ववर्ज⟫, ⟪ववृजुर्⟫
+将来时 ⟪वर्जिष्यति⟫
+被动语态 ⟪वृज्यते⟫
+使役式 ⟪वर्जयति⟫ ：消除
+使役式过去被动分词 (Kaus. PPP) ⟪वर्जित⟫ ：丧失某物，免于
+过去被动分词 (PPP) ⟪वृक्त⟫
+不定式 (Inf.) ⟪वर्जितुम्⟫
 :::
-⟪व्यवहार⟫ m.: Treiben, Wandel, Umgang, Verkehr, Geschäft, Handel, (Gerichts-)Prozess <!-- TODO: Fallback translation -->
+⟪व्यवहार⟫ 阳性名词 (m.)：活动，行为，交往，交际，事务，贸易，（司法）诉讼
 
-⟪शील⟫ n.: Brauch, Gewohnheit, Natur, Charakter, gute Gewohnheit = Moral <!-- TODO: Fallback translation -->
+⟪शील⟫ n.: 习俗，习惯，本性，性格，好习惯 = 道德
 
-⟪सूर्य⟫ m.: Sonne <!-- TODO: Fallback translation -->
+⟪सूर्य⟫ m.: 太阳
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫ : jemandem (⟪द्वितीया⟫) dienen, aufwarten, ehren, lieben <!-- TODO: Fallback translation -->
+⟪सेव्⟫ 1Ā ⟪सेवते⟫ : 侍奉（⟪द्वितीया⟫），服侍，尊敬，爱慕
 
-:::indent
-Perf I ⟪सिषेवे⟫
-Fut. ⟪सेविष्यते⟫
-Pass. ⟪सेव्यते⟫
-Kaus. ⟪सेवयति⟫
-PPP ⟪सेवित⟫
-Inf. ⟪सेवितुम्⟫
-Absol. -⟪सेव्य⟫ <!-- TODO: Fallback translation -->
+::: indent
+完成时 I ⟪सिषेवे⟫
+将来时. ⟪सेविष्यते⟫
+被动语态. ⟪सेव्यते⟫
+使役语态. ⟪सेवयति⟫
+过去被动分词 (PPP) ⟪सेवित⟫
+不定式. ⟪सेवितुम्⟫
+绝对式 -⟪सेव्य⟫
 
-davon: <!-- TODO: Fallback translation -->
+来自：
 
-⟪सेवा⟫ f.: Dienst, Aufwartung <!-- TODO: Fallback translation -->
+⟪सेवा⟫ f.: 服务，侍奉
 :::
-⟪धीर⟫ 3: fest, standhaft, kontinuierlich, beharrlich <!-- TODO: Fallback translation -->
+⟪धीर⟫ 3：坚定，稳固，持续，坚持不懈
 
-⟪शम्⟫ ⟪शाम्यति⟫ <!-- TODO: Fallback translation -->
+⟪शम्⟫ ⟪शाम्यति⟫
 
-:::indent
+::: indent
 ⟪शशाम⟫, ⟪शेमुर्⟫
 ⟪शमिष्यति⟫
 ⟪शम्यते⟫
 ⟪शमयति⟫
 ⟪शान्त⟫
-⟪शमित्वा⟫ ⟪।⟫ ⟪शान्त्वा⟫ <!-- TODO: Fallback translation -->
+⟪शमित्वा⟫ ⟪।⟫ ⟪शान्त्वा⟫
 :::
-⟪कोविद⟫ 3: erfahren in (⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫) <!-- TODO: Fallback translation -->
+⟪कोविद⟫ 3：精通于（⟪षष्ठ्या⟫ ⟪सप्तम्या⟫ ⟪वा⟫）
 
-⟪याम⟫ m.: Nachtwache (jeweils drei Stunden) <!-- TODO: Fallback translation -->
+⟪याम⟫ m.: 夜间值班（每三小时一次）
 
-⟪परंपरा⟫ f.: ununterbrochene Reihe <!-- TODO: Fallback translation -->
+⟪परंपरा⟫ f.: 连续系列
 
-⟪अमुत्र⟫ Adv.: dort, dorthin <!-- TODO: Fallback translation -->
+⟪अमुत्र⟫ Adv.: 那里，向那里
 
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : sich rühren, sich fortbewegen, herabfallen <!-- TODO: Fallback translation -->
+⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : 移动，前进，落下
 
-:::indent
-Perf. IIIa ⟪चुच्युवे⟫
-Fut. ⟪च्योष्यते⟫
-Pass. ⟪च्यूयते⟫
-Kaus. ⟪च्यावयति⟫
-PPP ⟪च्युत⟫ <!-- TODO: Fallback translation -->
+::: indent
+完成时 IIIa ⟪चुच्युवे⟫
+将来时 ⟪च्योष्यते⟫
+被动语态 ⟪च्यूयते⟫
+使役动词 ⟪च्यावयति⟫
+过去被动分词 (PPP) ⟪च्युत⟫
 :::
-⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : erkennen, empfinden, wahrnehmen, erfahren <!-- TODO: Fallback translation -->
+⟪भू⟫ + ⟪अनु⟫ 第一人称单数 ⟪अनुभवति⟫ ：认识，感受，感知，体验
 
-⟪चक्र⟫ n.: Rad <!-- TODO: Fallback translation -->
+⟪चक्र⟫ 名词：轮子，辐条
 
-:::media
+::: media
 ![](/images/lekt5214.webp)
-Abb.: ⟪चक्रम्⟫
+图注：⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
-(Bildquelle: [Details](/licenses#lekt5214)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt5214)）
 :::
-⟪कदली⟫ f.: Bananenbaum (_Musa_ sp.) <!-- TODO: Fallback translation -->
+⟪कदली⟫ 阴性名词：香蕉树（Musa sp.）
 
-:::media
+::: media
 ![](/images/lekt5208.webp)
-Abb.: ⟪कदली⟫
+图注：⟪कदली⟫
 Hampi = ಹಂಪೆ
-(Bildquelle: [Details](/licenses#lekt5208)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt5208)）
 :::
-⟪सार⟫ m.n.: Kern, Mark, Essenz, Substanz <!-- TODO: Fallback translation -->
+⟪सार⟫ 阳性/中性名词：核心，髓质，本质，实质
 
-⟪दिव्य⟫ 3: himmlisch, göttlich <!-- TODO: Fallback translation -->
+⟪दिव्य⟫ 3：天上的，神圣的
 
-⟪वर⟫ 3: bester <!-- TODO: Fallback translation -->
+⟪वर⟫ 3：最好的
 
-⟪आदर्श⟫ m.: Spiegel <!-- TODO: Fallback translation -->
+⟪आदर्श⟫ m.：镜子
 
-⟪मल⟫ m.n.: Schmutz, Makel <!-- TODO: Fallback translation -->
+⟪मल⟫ m.n.：污垢，瑕疵
 
-:::media
+::: media
 ![](/images/lekt5215.webp)
-Abb.: ⟪मलम्⟫
+图：⟪मलम्⟫
 ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt5215)) <!-- TODO: Fallback translation -->
+（图片来源：[详情](/zh-CN/licenses#lekt5215)）
 :::
-⟪त्रिपिष्टप⟫ n.: Indras Himmel <!-- TODO: Fallback translation -->
+⟪त्रिपिष्टप⟫ n.：因陀罗的天界
 
-⟪मार⟫ m.: das personifizierte Böse, die personifizierte Verführung / Manipulation, Teufel <!-- TODO: Fallback translation -->
+⟪मार⟫ m.：人格化的邪恶，人格化的诱惑/操纵，恶魔
 
-:::media
+::: media
 ![](/images/lekt5217.webp)
-Abb.:
-Amaravati = అమరావతి, 2. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt5217)) <!-- TODO: Fallback translation -->
+图：
+Amaravati = అమరావతి，公元2世纪
+（图片来源：[详情](/zh-CN/licenses#lekt5217)）
 :::
-⟪विजिज्ञासु⟫ 3: jemand, der völlig erkennen will <!-- TODO: Fallback translation -->
+⟪विजिज्ञासु⟫ 3：渴望彻底觉悟之人
 
-⟪त्रै⟫ 1Ā ⟪त्रायते⟫ : beschützen, retten <!-- TODO: Fallback translation -->
+⟪त्रै⟫ 1Ā ⟪त्रायते⟫ ：保护，拯救
 
-:::indent
-Perf. IV ⟪तत्रे⟫
-Fut. ⟪त्रास्यते⟫
-Pass. ⟪त्रायते⟫
-Kaus. ⟪त्रापयति⟫
-PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
-Inf. ⟪त्रातुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+完成时 IV ⟪तत्रे⟫
+将来时 ⟪त्रास्यते⟫
+被动语态 ⟪त्रायते⟫
+使役动词 ⟪त्रापयति⟫
+过去被动分词 (PPP) ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
+不定式 ⟪त्रातुम्⟫
 :::
-## 52.8. Übersetzungsübung
+## 52.8. 翻译练习
 
-⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫ <!-- TODO: Fallback translation -->
+⟪१⟫。 ⟪मनुस्मृति⟫ ⟪४⟫，⟪१५९⟫ - ⟪१६१⟫
 
-:::indent
+::: indent
 ⟪यद्यत्परवशं⟫ ⟪कर्म⟫
 ⟪ततद्यत्नेन⟫ ⟪वर्जयेत्⟫ ⟪।⟫
 ⟪यद्यदात्मवशं⟫ ⟪तु⟫ ⟪स्यात्⟫
-⟪ततत्सेवेत⟫ ⟪यत्नतः⟫ ⟪॥१५९॥⟫ <!-- TODO: Fallback translation -->
+⟪ततत्सेवेत⟫ ⟪यत्नतः⟫ ⟪॥१५९॥⟫
 
 ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫
 ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫
 ⟪एतद्विद्यात्समासेन⟫
-⟪लक्षणं⟫ ⟪सुखदुःख⟫***⟪योः⟫*** ⟪॥१६०॥⟫ <!-- TODO: Fallback translation -->
+⟪लक्षणं⟫ ⟪सुखदुःख⟫***⟪योः⟫*** ⟪॥१६०॥⟫
 
 ⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्⟫
 ⟪परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫
 ⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫
-⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥१६१॥⟫ <!-- TODO: Fallback translation -->
+⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥१६१॥⟫
 
-Erklärung: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandva) <!-- TODO: Fallback translation -->
+解释：⟪सुखदुःखयोः⟫ 属格/位置格双数阳性/阴性/中性（双重并列复合词）
 :::
-⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Über die Quellen des ⟪धर्म⟫ <!-- TODO: Fallback translation -->
+⟪२⟫。⟪मनुस्मृति⟫ ⟪२⟫，⟪६⟫ 关于 ⟪धर्म⟫ 的源泉
 
-:::indent
+::: indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
 ⟪स्मृतिशी⟫***⟪ले⟫*** ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
-⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
-Erklärung:  ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva) <!-- TODO: Fallback translation -->
+解释： ⟪स्मृतिशीले⟫ 主格/宾格双数中性（双重并列复合词）
 :::
-⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ im Leben des Fürsten <!-- TODO: Fallback translation -->
+⟪३⟫。⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫，⟪७⟫，⟪२⟫ - ⟪७⟫ 关于 ⟪अर्थ⟫，⟪काम⟫，⟪धर्म⟫ 在王子生活中的
 
-⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫***⟪मितरौ⟫*** ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫***⟪मूलौ⟫*** ⟪हि⟫ ⟪धर्मका⟫***⟪मावि⟫***⟪ति⟫ ⟪।७।⟫ <!-- TODO: Fallback translation -->
+⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫***⟪मितरौ⟫*** ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫***⟪मूलौ⟫*** ⟪हि⟫ ⟪धर्मका⟫***⟪मावि⟫***⟪ति⟫ ⟪।७।⟫
 
-:::indent
-Erklärungen: <!-- TODO: Fallback translation -->
+::: indent
+解释：
 
-⟪इतरौ⟫ Nom.Akk.Dual.m zu ⟪इतर⟫ 3 "anderer" <!-- TODO: Fallback translation -->
+⟪इतरौ⟫ 主格/宾格双数阳性，对应 ⟪इतर⟫ 第3词“其他”
 
-⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ ist Dualdvandva) <!-- TODO: Fallback translation -->
+⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ 主格/宾格双数阳性（⟪धर्मकामौ⟫ 为双数复合词）
 :::
-⟪४⟫. ⟪अश्वघोष⟫ (2. Jhdt. n. Chr.): ⟪बुद्धचरित⟫ ⟪४⟫ Buddhas erlösende Erkenntnis <!-- TODO: Fallback translation -->
+⟪४⟫. ⟪अश्वघोष⟫（公元2世纪）：⟪बुद्धचरित⟫ ⟪४⟫ 佛陀的解脱智慧
 
-:::media
-![](/images/lekt5216.webp)
-Abb.: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
-_Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
-(Bildquelle: [Details](/licenses#lekt5216)) <!-- TODO: Fallback translation -->
-::::::indent
-⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
-⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫
-⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫
-⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+[0] ::: media
+[1] ![](/images/lekt5216.webp)
+[2] 图：⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
+[3] _Ficus religiosa_ L. ⟪बोधगया⟫，约 1810 年
+[4] （图片来源：[详情](/zh-CN/licenses#lekt5216)）
+[5] :::: indent
+[6] ⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
+[7] ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫
+[8] ⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫
+[9] ⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥१॥⟫
 
-⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫
-⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫
-⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪याम⟫
-⟪पूर्वजन्मपरंपराम्⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+[11] ⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫
+[12] ⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫
+[13] ⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪याम⟫
+[14] ⟪पूर्वजन्मपरंपराम्⟫ ⟪॥२॥⟫
 
-⟪अमुत्राहमयं⟫ ⟪नाम⟫
-⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫
-⟪इति⟫ ⟪जन्मसहस्राणि⟫
-⟪सस्मारानुभवन्निव⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+[16] ⟪अमुत्राहमयं⟫ ⟪नाम⟫
+[17] ⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫
+[18] ⟪इति⟫ ⟪जन्मसहस्राणि⟫
+[19] ⟪सस्मारानुभवन्निव⟫ ⟪॥३॥⟫
 
-⟪स्मृत्वा⟫ ⟪जन्म⟫ ⟪च⟫ ⟪मृत्युं⟫ ⟪च⟫
-⟪तासु⟫ ⟪तासूपपत्तिषु⟫ ⟪।⟫
-⟪ततः⟫ ⟪सत्त्वेषु⟫ ⟪कारुण्यम्⟫
-⟪चकार⟫ ⟪करुणात्मकः⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+[21] ⟪स्मृत्वा⟫ ⟪जन्म⟫ ⟪च⟫ ⟪मृत्युं⟫ ⟪च⟫
+[22] ⟪तासु⟫ ⟪तासूपपत्तिषु⟫ ⟪।⟫
+[23] ⟪ततः⟫ ⟪सत्त्वेषु⟫ ⟪कारुण्यम्⟫
+[24] ⟪चकार⟫ ⟪करुणात्मकः⟫ ⟪॥४॥⟫
 
 ⟪कृत्वेह⟫ ⟪स्वजनोत्सर्गम्⟫
 ⟪पुनरन्यत्र⟫ ⟪च⟫ ⟪कृत्वा⟫ ⟪।⟫
 ⟪अत्राणः⟫ ⟪खलु⟫ ⟪लोको⟫ ⟪ऽयम्⟫
-⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥५॥⟫
 
 ⟪इत्येवं⟫ ⟪स्मरतस्तस्य⟫
 ⟪बभूव⟫ ⟪नियतात्मनः⟫ ⟪।⟫
 ⟪कदलीगर्भनिःसारः⟫
-⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥६॥⟫
 
 ⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫
 ⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫
 ⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫
-⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥७॥⟫
 
 ⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫
 ⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫
 ⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫
-⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥८॥⟫
 
 ⟪सत्त्वानां⟫ ⟪पश्यतस्तस्य⟫
 ⟪निकृष्टोत्कृष्तकर्मणाम्⟫ ⟪।⟫
 ⟪प्रच्युतिं⟫ ⟪चोपपत्तिं⟫ ⟪च⟫
-⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥९॥⟫ <!-- TODO: Fallback translation -->
+⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥९॥⟫
 
 ⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫
 ⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫
 ⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫
-⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥१०॥⟫ <!-- TODO: Fallback translation -->
-:::
-## 52.9. Aufgaben während der Semesterferien
+⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥१०॥⟫
+## 52.9. 学期期间的作业
 
-Mit Lektion 52 ist das erste Semester (13 Wochen á 4 Unterrichtsstunden) des Sanskritkurses beendet. <!-- TODO: Fallback translation -->
+随着第52课的学习结束，为期13周（每周4课时）的梵语课程第一学期也告一段落。
 
-Während der Semesterferien sollten folgende Aufgaben erfüllt werden: <!-- TODO: Fallback translation -->
+在学期假期期间，应完成以下任务：
 
-1.  Wiederholung des gesamten bisher Gelernten, besonders: <!-- TODO: Fallback translation -->
-    1.  Auswendiglernen der Konjugations- und Deklinationsparadigmen <!-- TODO: Fallback translation -->
-    2.  Wörter <!-- TODO: Fallback translation -->
-    3.  Stammformen <!-- TODO: Fallback translation -->
-2.  Auswendiglernen möglichst vieler Verse und Prosatexte aus dem klassischen Schrifttum <!-- TODO: Fallback translation -->
-3.  Durcharbeiten von [Lektion 53](lektion53.md) <!-- TODO: Fallback translation -->
-4.  Durcharbeiten der Blätter Bhg 1 - 11 (noch nicht im Internet) <!-- TODO: Fallback translation -->
-5.  Vorbereitung von ⟪भगवद्गीता⟫ Kap. 1, Lernen der dazugehörigen Wörter auf den Wortlisten (noch nicht im Internet) <!-- TODO: Fallback translation -->
-6.  Metrische Analyse aller Verse von ⟪भगवद्गीता⟫ ⟪१⟫   <!-- TODO: Fallback translation -->
-    Einen guten Eindruck von dem Text in rezitierter Form gibt: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Zugriff am 2009-01-19 <!-- TODO: Fallback translation -->
-7.  Lesen einer ⟪महाभारत⟫-Nacherzählung, z.B.   <!-- TODO: Fallback translation -->
-    Mahābhārata : Indiens grosses Epos / aus dem Sanskrit übers. und zsgef. von Biren Roy. -- 10. Aufl. -- München : Diederichs, 1995. -- 335 S.  ; 19 cm. --  (Diederichs gelbe Reihe ; 16 : Indien) <!-- TODO: Fallback translation -->
-8.  Durcharbeiten:   <!-- TODO: Fallback translation -->
-    **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm. -- S. 208 - 254 (Sytactical government) <!-- TODO: Fallback translation -->
-9.  Fertig durcharbeiten von:   <!-- TODO: Fallback translation -->
-    **Basham, A. L. (Arthur Llewellyn) &lt;1914-1986&gt;**The wonder that was IndiaTeil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. <!-- TODO: Fallback translation -->
-10.  Beginn mit der Durcharbeit von:   <!-- TODO: Fallback translation -->
-     **Winternitz, Moriz &lt;1863 - 1937&gt;:** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 Bde. -- 1908 - 1922 (immer noch die bei weitem beste Literaturgeschichte der Sanskrit-, Pali- und Prakritliteratur) <!-- TODO: Fallback translation -->
+1. 复习迄今为止所学的全部内容，特别是：
+1. 背诵变位和变格范式表
+2. 词汇
+3. 词干形式（Stammformen）
+2. 尽可能多地背诵古典文献中的诗句和散文文本
+3. 完成[第53课](lektion53.md)的学习
+4. 完成《薄伽梵歌》第1-11章的练习（尚未在互联网上提供）
+5. 准备⟪भगवद्गीता⟫第1章，学习词汇表中的相关词汇（尚未在互联网上提供）
+6. 对⟪भगवद्गीता⟫ ⟪१⟫中的所有诗句进行格律分析
+通过吟诵形式对文本有一个良好的印象：[http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3)。 -- 访问日期：2009-01-19
+7. 阅读⟪महाभारत⟫的改写故事，例如：
+《摩诃婆罗多》：印度的伟大史诗 / 由Biren Roy从梵文翻译并缩写。 -- 第10版。 -- 慕尼黑 : Diederichs, 1995. -- 335页 ; 19厘米。 -- (Diederichs黄色系列 ; 16 : 印度)
+8. 完成：
+**Kunnappally, John:** 《Prakriyā bhāshyam：梵文语法》 / 最初用马拉雅拉姆语撰写。由K.V.R. Pai翻译成英语。 -- Parathode : 自出版, 1983. -- 818页 ; 23厘米。 -- 第208 - 254页（句法支配）
+9. 彻底完成：
+**Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**《印度奇迹》部分A：穆斯林到来之前印度次大陆的文化概览。 -- 伦敦 : Sidgwick & Jackson, 1954.
+10. 开始完成：
+**Winternitz, Moriz \&lt;1863 - 1937\&gt;:** 《印度文学史》。斯图加特 : Koehler. -- 3卷本。 -- 1908 - 1922（至今仍是关于梵文、巴利语和普拉克里特文学最好的文学史）
 
-:::media
+::: media
 ![](/images/lekt5201.webp)
-Abb.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
-(Bild: Payer)
-(Bildquelle: [Details](/licenses#lekt5201)) <!-- TODO: Fallback translation -->
-::::::deleteme-box
+图：⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
+（图片来源：Payer）
+（图片出处：[详情](/zh-CN/licenses#lekt5201)）
+:::
+::: deleteme-box
 
-**lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Bildquelle: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5202:** ⟪विवाहः⟫，金奈 = சென்னை [图片出处：swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/)。 -- 访问日期：2009-01-15. -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 
-**lekt5203:** Wayang-Figur, Java, Indonesien [Bildquelle. Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt5203:** 哇扬木偶人物，爪哇，印度尼西亚 [图片出处。维基百科。公有领域]
 
-**lekt5204:** Warteschlage vor Tempel, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം [Bildquelle: gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5204：** 寺庙前的队列，特里凡得琅 = Thiruvananthapuram = തിരുവനന്തപുരം [图片来源：gray\_area. -- [http://www.flickr.com/photos/83831933@N00/3107232046/](http://www.flickr.com/photos/83831933@N00/3107232046/)。 -- 访问日期：2009-01-15。 -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
 
-**lekt5209:** Brandrodung, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Bildquelle: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/). -- Zugriff am 2009-01-15. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5209：** 刀耕火种，阿鲁纳恰尔邦 = ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [图片来源：parrothanging. -- [http://www.flickr.com/photos/biligiri/1857091269/](http://www.flickr.com/photos/biligiri/1857091269/)。 -- 访问日期：2009-01-15。 -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 
-**lekt5205:** [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt5205：** [图片来源：维基百科。公有领域]
 
-**lekt5206:** Das Siebengestirn = die sieben hellsten Sterne des Großen Bären (Ursa maior) [Bildquelle: Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5206：** 大熊座七星 = 北斗七星（Ursa maior）[图片来源：维基百科，GNU自由文档许可证]
 
-**lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt5207：** 贾拉坎达普兰姆 = ஜலகண்டபுரம் [图片来源：维基百科。公有领域]
 
-**lekt5210:** Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫ [Bildquelle: Dan Tunstall / World Resources Institute Staff. -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5210：** 坦布霍尔，阿克勒，艾哈迈德纳格尔 = ⟪अहमदनगर⟫ [图片来源：丹·唐斯托尔 / 世界资源研究所工作人员。 -- [http://www.flickr.com/photos/wricontest/291696431/](http://www.flickr.com/photos/wricontest/291696431/)。 -- 访问日期：2009-01-16。 -- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de) (署名)]
 
-**lekt5212:** Hyderabad = హైదరాబాద్ [Bildquelle: David A G Wilson. -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5212：** 海得拉巴 = హైదరాబాద్ [图片来源：大卫·A.G.威尔逊。 -- [http://www.flickr.com/photos/dawilson/2912554387/](http://www.flickr.com/photos/dawilson/2912554387/)。 -- 访问日期：2009-01-16。 -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (署名，非商业性使用，禁止演绎)]
 
-**lekt5213:** ⟪मुंबई⟫ [Bildquelle: saibotregeel. -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5213：** ⟪मुंबई⟫ [图片来源：saibotregeel。 -- [http://www.flickr.com/photos/saibotregeel/330885607/](http://www.flickr.com/photos/saibotregeel/330885607/)。 -- 访问日期：2009-01-16。 -- [知识共享许可协议](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (署名，禁止演绎)]
 
-**lekt5214:** Konark = ⟪कोनार्क⟫ [Bildquelle: Gaurab Arka. -- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/). -- Zugriff am 2009-01-16. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt5214：**康纳克 = ⟪कोनार्क⟫ [图片来源：Gaurab Arka。-- [http://www.flickr.com/photos/gaurabarka/2758427709/](http://www.flickr.com/photos/gaurabarka/2758427709/)。-- 访问日期：2009-01-16。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 
-**lekt5208:** Hampi = ಹಂಪೆ [Bildquelle: oliver hiltbrunner. -- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/). -- Zugriff am 2009-01-15. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt5208：**亨比 = ಹಂಪೆ [图片来源：oliver hiltbrunner。-- [http://www.flickr.com/photos/oliverhiltbrunner/757794766/](http://www.flickr.com/photos/oliverhiltbrunner/757794766/)。-- 访问日期：2009-01-15。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)（署名，非商业性使用，相同方式共享）]
 
-**lekt5215:** ⟪मुंबई⟫ [Bildquelle: James Cridland. -- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/). -- Zugriff am 2009-01-16. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt5215：**⟪मुंबई⟫ [图片来源：James Cridland。-- [http://www.flickr.com/photos/jamescridland/187997905/](http://www.flickr.com/photos/jamescridland/187997905/)。-- 访问日期：2009-01-16。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de)（署名）]
 
-**lekt5217:** Amaravati = అమరావతి, 2. Jhdt. n. Chr. [Bildquelle. Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5217：**阿马拉瓦蒂 = అమరావతి，公元2世纪 [图片来源。维基百科。GNU FD许可]
 
-**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810 [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt5216:** _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810 [Bildquelle: Wikipedia. Gemeinfrei]
 
-**lekt5201:** (Bild: Payer) <!-- TODO: Fallback translation -->
+**lekt5201:** (Bild: Payer)
 
 :::

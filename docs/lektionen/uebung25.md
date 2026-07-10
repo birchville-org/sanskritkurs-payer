@@ -10,8 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Ergänzen Sie die Deklinationsbeispiele von Lektion 16 durch Hinzufügen von 4. Dativ (⟪चतुर्थी⟫) und 5. Ablativ (⟪पञ्चमी⟫).
 
-:::grammar-box
-### ⟪१⟫. **⟪सन्त्⟫** (seiend, gut)
+### ⟪१⟫. ⟪सन्त्⟫ (seiend, gut)
 
 | Kasus | m. Singular | m. Plural | n. Singular | n. Plural |
 | :--- | :--- | :--- | :--- | :--- |
@@ -21,7 +20,7 @@ A) Ergänzen Sie die Deklinationsbeispiele von Lektion 16 durch Hinzufügen von 
 | 4. Dat. | ⟪सते⟫ | ⟪सद्भ्यः⟫ | ⟪स⟫ate | ⟪सद्भ्यः⟫ |
 | 5. Abl. | ⟪सतः⟫ | ⟪सद्भ्यः⟫ | ⟪सतः⟫ | ⟪सद्भ्यः⟫ |
 
-### ⟪२⟫. **⟪महान्त्⟫** (groß)
+### ⟪२⟫. ⟪महान्त्⟫ (gross)
 
 | Kasus | m. Singular | m. Plural | n. Singular | n. Plural |
 | :--- | :--- | :--- | :--- | :--- |
@@ -31,7 +30,7 @@ A) Ergänzen Sie die Deklinationsbeispiele von Lektion 16 durch Hinzufügen von 
 | 4. Dat. | ⟪महते⟫ | ⟪महद्भ्यः⟫ | ⟪महते⟫ | ⟪महद्भ्यः⟫ |
 | 5. Abl. | ⟪महतः⟫ | ⟪महद्भ्यः⟫ | ⟪महतः⟫ | ⟪महद्भ्यः⟫ |
 
-### ⟪३⟫. **⟪यद्⟫** (welcher, wer)
+### ⟪३⟫. ⟪यद्⟫ (welcher, wer)
 
 | Kasus | m. Sg. | m. Pl. | n. Sg. | n. Pl. | f. Sg. | f. Pl. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -40,7 +39,6 @@ A) Ergänzen Sie die Deklinationsbeispiele von Lektion 16 durch Hinzufügen von 
 | 3. Instr. | ⟪येन⟫ | ⟪यैः⟫ | ⟪येन⟫ | ⟪यैः⟫ | ⟪यया⟫ | ⟪याभिः⟫ |
 | 4. Dat. | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्मै⟫ | ⟪येभ्यः⟫ | ⟪यस्यै⟫ | ⟪याभ्यः⟫ |
 | 5. Abl. | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्मात्⟫ | ⟪येभ्यः⟫ | ⟪यस्याः⟫ | ⟪याभ्यः⟫ |
-:::
 B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf:
 
 ⟪१⟫. **⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫**
@@ -65,19 +63,19 @@ Buddhas und Arhants sind vom Leid befreit. Sie haben nämlich die erlösende Ein
 ⟪७⟫. **⟪लोभ⟫en ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫**
 Durch Gier, Hass und Verblendung verderben Menschen. Wenn die Zeit gekommen ist, fallen sie dann in eine Hölle.
 
-:::media
+::: media
 ![](/images/uebung040.webp)
 Abb.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
 (Bildquelle: [Details](/licenses#uebung040))
 :::
 ⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
-Der Kṣatriya bringt heldenhafte Krieger aus der Großstadt, um das Dorf der Feinde zu bekämpfen.
+Der Kṣatriya bringt heldenhafte Krieger aus der Grossstadt, um das Dorf der Feinde zu bekämpfen.
 
 ⟪९⟫. **⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫**
 Um einen Sohn zu bekommen, hält die Brahmanin ein Gelübde (d.h. sie fastet).
 
 ⟪१०⟫. **⟪लब्धपुत्रत्वाद्द्विजेन⟫ ⟪महासुखमाप्तम्⟫ ⟪॥१०॥⟫**
-Weil er einen Sohn bekommen hat, überkommt den Zweimalgeborenen großes Glück.
+Weil er einen Sohn bekommen hat, überkommt den Zweimalgeborenen grosses Glück.
 
 ⟪११⟫. **⟪विष्णुर्भक्तान्मरणात्पाति⟫ ⟪॥११॥⟫**
 Viṣṇu bewahrt seine Gläubigen vor dem Tod.
@@ -98,7 +96,7 @@ Es geht leicht (glücklich).
 Hör auf mit der Angst!
 
 ⟪१७⟫. **⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫**
-(Hari = Viṣṇu / Kṛṣṇa) Größer als die Welt ist Hari.
+(Hari = Viṣṇu / Kṛṣṇa) Grösser als die Welt ist Hari.
 
 ---
 
@@ -116,7 +114,7 @@ Wenn jemand aus Hochmut, Gier, Zorn oder Furcht ein falsches Gerichtsurteil spri
 ⟪दारिद्र्यमप्रदानेन⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫  
 Höllen entstehen wegen des Bösen, Böses entsteht aus Armut, Armut entsteht aus Nicht-Geben.
 
-:::media
+::: media
 ![](/images/uebung041.webp)
 Abb.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Bildquelle: [Details](/licenses#uebung041))
@@ -132,7 +130,7 @@ Ein Dieb wird von der Diebstahlsschuld befreit durch Bestrafung oder durch Freil
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
 Die Wirtschaft ist nützlich, weil sie Getreide, Vieh, Gold, Metalle und Arbeit hervorbringt.
 
-:::media
+::: media
 ![](/images/uebung042.webp)
 Abb.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
 (Bildquelle: [Details](/licenses#uebung042))

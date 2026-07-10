@@ -55,10 +55,10 @@ def check_signalrot(md_filepath, content):
         escaped_text = re.sub(r'^-', r'\\-', text)
         # Also try with metrik symbol equivalences (˘→◡, ˉ→—, with spaces between)
         equiv_text = ' '.join(METRIK_EQUIV.get(c, c) for c in text)
-        # Accept any asterisk wrapping: *text*, **text**, ***text***
-        pattern = r'\*+' + re.escape(text) + r'\*+'
-        pattern_esc = r'\*+' + re.escape(escaped_text) + r'\*+'
-        pattern_equiv = r'\*+' + re.escape(equiv_text) + r'\*+'
+        # Accept any asterisk wrapping: *text* or sig[text]
+        pattern = r'(?:\*+' + re.escape(text) + r'\*+|sig\[' + re.escape(text) + r'\])'
+        pattern_esc = r'(?:\*+' + re.escape(escaped_text) + r'\*+|sig\[' + re.escape(escaped_text) + r'\])'
+        pattern_equiv = r'(?:\*+' + re.escape(equiv_text) + r'\*+|sig\[' + re.escape(equiv_text) + r'\])'
         # Also accept text that appears as part of a Markdown heading (## ... text ...)
         pattern_heading = r'^#{1,6}\s+.*' + re.escape(text)
         if (not re.search(pattern, content)
@@ -185,6 +185,71 @@ def check_grammarbox_scope(md_filepath, content):
     return errors
 
 
+# ── Container nesting and syntax check ───────────────────────────────────────
+
+def check_container_nesting(content):
+    errors = []
+    # matches 3 to 6 colons optionally followed by a word
+    container_re = re.compile(r'^(?P<colons>:{3,6})\s*(?P<name>[a-zA-Z0-9_-]+)?')
+    stack = []
+    
+    valid_containers = {
+        'indent', 'grammar-box', 'media', 'deleteme-box', 'note-box',
+        'no-header', 'tip', 'warning', 'important', 'center', 'metrik-schema'
+    }
+    
+    for idx, line in enumerate(content.split('\n')):
+        line_stripped = line.strip()
+        m = container_re.match(line_stripped)
+        if m:
+            colons = m.group('colons')
+            name = m.group('name')
+            colons_count = len(colons)
+            line_num = idx + 1
+            
+            if name:
+                name_lower = name.lower()
+                
+                if name_lower not in valid_containers:
+                    errors.append(f"Line {line_num}: Unknown container name '{name_lower}'")
+                
+                if stack:
+                    parent_name, parent_colons, parent_line = stack[-1]
+                    
+                    # Depth hierarchy check: outer must have strictly more colons than inner
+                    if parent_colons <= colons_count:
+                        errors.append(
+                            f"Line {line_num}: Nested container '{name_lower}' ({colons_count} colons) "
+                            f"inside '{parent_name}' ({parent_colons} colons) in line {parent_line}. "
+                            f"Outer container must have more colons than inner."
+                        )
+                    
+                    # Media should never be nested inside anything
+                    if name_lower == 'media':
+                        errors.append(
+                            f"Line {line_num}: Media block '{name_lower}' is nested inside '{parent_name}' (line {parent_line}). "
+                            f"Media blocks must be placed at the root level."
+                        )
+                
+                stack.append((name_lower, colons_count, line_num))
+            else:
+                # Closing tag
+                found_idx = -1
+                for i in range(len(stack) - 1, -1, -1):
+                    if stack[i][1] == colons_count:
+                        found_idx = i
+                        break
+                if found_idx != -1:
+                    stack = stack[:found_idx]
+                else:
+                    errors.append(f"Line {line_num}: Redundant closing container tag '{colons}' (no matching open tag)")
+                    
+    for name, colons_count, line_num in stack:
+        errors.append(f"Line {line_num}: Unclosed container '{name}' (depth {colons_count})")
+        
+    return errors
+
+
 # ── existing checks ───────────────────────────────────────────────────────────
 
 def check_markdown_file(filepath):
@@ -214,10 +279,8 @@ def check_markdown_file(filepath):
     if cyrillic_chars and not is_bg:
          errors.append(f"Found {len(cyrillic_chars)} Cyrillic characters in non-Bulgarian file.")
 
-    # 4. Unclosed container check
-    containers = re.findall(r'^:::.*$', content, re.MULTILINE)
-    if len(containers) % 2 != 0:
-        errors.append("Unclosed VitePress container (:::)")
+    # 4. Container nesting and syntax check
+    errors.extend(check_container_nesting(content))
 
     # 5. Signalrot + grammar-box scope (only for German DE lessons with QA HTML)
     is_de_lesson = (

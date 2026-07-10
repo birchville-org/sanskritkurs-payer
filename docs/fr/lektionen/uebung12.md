@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Leçon 12
 
-A) Formez à partir des phrases actives de [Leçon 7](lektion07.md), Exercice A, des phrases passives au passé avec le participe passé (PPP), et pour les verbes intransitifs et les verbes de mouvement, des phrases actives au passé.
+A) Formez à partir des phrases actives de [Leçon 7](lektion07.md), Exercice A, des phrases passives au passé avec le participe passé de la participle (PPP) ; pour les verbes intransitifs et les verbes de mouvement, formez des phrases actives au passé.
 
 ⟪१⟫. ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इष्टः⟫ ⟪।⟫ ⟪देवीष्टा⟫ ⟪।⟫ ⟪विष्णुरिष्टः⟫ ⟪।⟫ ⟪ब्राह्मणेनाग्निरिष्टः⟫ ⟪।⟫ ⟪देवतेष्टा⟫ ⟪।⟫
 
@@ -24,7 +24,7 @@ A) Formez à partir des phrases actives de [Leçon 7](lektion07.md), Exercice A,
 ⟪५⟫. śūdro jitaḥ ⟪॥⟫
 ⟪शूद्रो⟫ ⟪जितः⟫ ⟪॥⟫
 
-B) Formez les PPP correspondants aux formes verbales de [Leçon 10](lektion10.md), Exercice A. Notez qu'à une forme comme sṛjati correspondent des PPP dans les trois genres.
+B) Formez les PPP correspondants aux formes verbales de [Leçon 10](lektion10.md), Exercice A. Notez qu'une forme comme sṛjati correspond à des PPP dans les trois genres.
 
 1. sṛjati ⟪सृजति⟫ : ⟪सृष्टः⟫ ⟪३⟫ (⟪सृष्टः⟫ ⟪।⟫ ⟪सृष्टा⟫ ⟪।⟫ ⟪सृष्टम्⟫)
 2. yudhyate ⟪युध्यते⟫ : ⟪युद्धः⟫ ⟪३⟫
@@ -34,7 +34,7 @@ B) Formez les PPP correspondants aux formes verbales de [Leçon 10](lektion10.md
 6. nayanti ⟪नयन्ति⟫ : ⟪नीताः⟫ ⟪३⟫
 7. smarati ⟪स्मरति⟫ : ⟪स्मृतः⟫ ⟪३⟫
 8. śṛṇvanti ⟪शृण्वन्ति⟫ : ⟪श्रुताः⟫ ⟪३⟫
-9. pāśyati ⟪पश्यति⟫ (Le passif est formé à partir de dṛś !) : ⟪दृष्टः⟫ ⟪३⟫
+9. pāśyati ⟪पश्यति⟫ (le passif est formé à partir de dṛś !) : ⟪दृष्टः⟫ ⟪३⟫
 10. jayanti ⟪जयन्ति⟫ : ⟪जिताः⟫ ⟪३⟫
 11. kurvate ⟪कुर्वते⟫ : ⟪कृताः⟫ ⟪३⟫
 12. āpnuvanti ⟪आप्नुवन्ति⟫ : ⟪आप्ताः⟫ ⟪३⟫
@@ -49,7 +49,7 @@ B) Formez les PPP correspondants aux formes verbales de [Leçon 10](lektion10.md
 21. pṛcchanti ⟪पृच्छन्ति⟫ : ⟪पृष्टाः⟫ ⟪३⟫
 22. tanvanti ⟪तन्वन्ति⟫ : ⟪तताः⟫ ⟪३⟫
 
-C) Mettez les phrases de [Leçon 10](lektion10.md), Exercice C, à la voix passive et au passé.
+C) Mettez les phrases de [Leçon 10](lektion10.md), Exercice C, au passif et au passé.
 
 1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 ⟪ब्रामणेन⟫ ⟪देवीष्टा⟫ ⟪।⟫
@@ -99,8 +99,8 @@ C) Mettez les phrases de [Leçon 10](lektion10.md), Exercice C, à la voix passi
 16\. ke yodhāḥ kṣatriyaiḥ saha yudhyante. ⟪के⟫ ⟪योधाः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युध्यन्ते⟫
 ⟪कैर्योधैः⟫ ⟪क्षत्रियैः⟫ ⟪सह⟫ ⟪युद्धम्⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung020.webp)
 Fig. : ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
-(Source de l'image : [Détails](/fr/licenses#uebung020))
+(Source de l'image : [Détails](/licenses#uebung020))
 :::

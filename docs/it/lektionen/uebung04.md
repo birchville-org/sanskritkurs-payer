@@ -48,7 +48,7 @@ kālidāsaḥ kaḥ? kaviḥ kālidāsaḥ.
 
 B) Formulate questions for the following reading exercise according to the pattern etat kim (⟪एतत्किम्⟫) and answer the questions with the specified words and demonstrative pronouns, e.g. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
 
-:::media
+::: media
 ![](/images/lekt0401.webp)
 Fig.: ⟪एष⟫ ⟪कः⟫ ⟪।⟫ ⟪एष⟫ ⟪गजः⟫ ⟪।⟫ ⟪अयं⟫ ⟪गजः⟫ ⟪।⟫ ⟪स⟫ ⟪गजः⟫ ⟪।⟫ ⟪एषा⟫ ⟪का⟫ ⟪।⟫ ⟪एषा⟫ ⟪बाला⟫ ⟪।⟫ ⟪इयं⟫ ⟪बाला⟫ ⟪।⟫ ⟪सा⟫ ⟪बाला⟫ ⟪।⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0401))
@@ -89,7 +89,7 @@ etat kim? eṣā pipīlikā.
 
 ⟪एतत्किम्⟫ ⟪।⟫ ⟪एषा⟫ ⟪पिपीलिका⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung003.webp)
 Fig.: ⟪एतत्किम्⟫ ⟪।⟫ ⟪एष⟫ ⟪काकः⟫ ⟪।⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung003))

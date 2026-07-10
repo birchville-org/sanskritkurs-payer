@@ -13,7 +13,7 @@ status: stable
 
 ### 42.1.1. Tribes with lengthened grade in the strong stem
 
-:::grammar-box
+::: grammar-box
 All masculines ending in -ṛ with the exception of the kinship terms listed under 1.3. Included here are also the kinship terms:
 
 *   **⟪नप्तृ⟫** m. "grandson"
@@ -32,9 +32,10 @@ Note the irregular formations (marked in **red**)!
 :::
 Masculine:
 
-:::indent
+::: indent
 **⟪दातृ⟫** m. "giver"
-::::::grammar-box
+:::
+::: grammar-box
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :--- | :--- |
@@ -51,12 +52,12 @@ For an explanation of the irregular formations, see Thumb-Hauschild I,2 pp. 76-8
 
 Feminine:
 
-:::indent
+::: indent
 **⟪स्वसृ⟫** f. is declined like **⟪दातृ⟫** with the exception of the accusative (**⟪द्वितीया⟫**) plural: ***⟪स्वसॄस्⟫***.
 :::
 ### 42.1.2. Nominal Derivation: ⟪कृत्⟫ Suffix -⟪तृ⟫
 
-:::grammar-box
+::: grammar-box
 The very common ⟪कृत्⟫ suffix -⟪तृ⟫ is used to form nominal agents (designations for the ⟪कर्तृ⟫) from almost any root or causative stem.
 
 **Formation:**
@@ -69,7 +70,7 @@ or
 :::
 Examples:
 
-:::indent
+::: indent
 **⟪कर्तृ⟫** m. "agent"
 
 **⟪जेतृ⟫** m. "winner"
@@ -79,11 +80,13 @@ Examples:
 **⟪रक्षितृ⟫** m. "protector"
 
 **⟪बोधयितृ⟫** m. "awakener"
-::::::media
+:::: media
 ![lekt4201.jpg](/images/lekt4201.jpg)
 Fig.: ⟪अयं⟫ ⟪बोधयिता⟫
 (Image source: [Details](/en/licenses#lekt4201))
-::::::grammar-box
+::::
+:::
+::: grammar-box
 Rarely occurring neuters in -⟪तृ⟫ have a partially independent declension (see Kielhorn, Grammar § 148).
 
 The feminine of stems in -⟪तृ⟫ ends in **-⟪त्री⟫** (cf. **⟪देवी⟫**).
@@ -92,7 +95,7 @@ e.g. **⟪कर्त्री⟫** f. "female agent"
 :::
 ### 42.1.3. Tribes with strong stem grade
 
-:::grammar-box
+::: grammar-box
 The following kinship terms belong to this category:
 
 *   **⟪पितृ⟫** m. "father"
@@ -112,11 +115,12 @@ The following kinship terms belong to this category:
 :::
 Examples:
 
-:::indent
+::: indent
 **⟪पितृ⟫** m. "father"
 
 **⟪मातृ⟫** f. "mother"
-::::::grammar-box
+:::
+::: grammar-box
 
 | | ⟪पुंस्⟫ (⟪एकवचनम्⟫) | ⟪पुंस्⟫ (⟪बहुवचनम्⟫) | ⟪स्त्री⟫ (⟪एकवचनम्⟫) | ⟪स्त्री⟫ (⟪बहुवचनम्⟫) |
 | :--- | :--- | :--- | :--- | :--- |
@@ -127,7 +131,7 @@ Examples:
 :::
 ### 42.1.4. Stems ending in -ṛ in compounds
 
-:::grammar-box
+::: grammar-box
 As the first member of a compound, nouns ending in -ṛ naturally stand in their weak stem, i.e.
 
 *   **before consonants: -ṛ**
@@ -141,7 +145,7 @@ As the first member of a compound, nouns ending in -ṛ naturally stand in their
 
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : to abstain from, to keep away from, to keep distant, to remain, to stand
 
-:::indent
+::: indent
 PPP ⟪अवस्थित⟫ 3: standing, located
 :::
 ⟪पुरा⟫ Adv.: once, formerly
@@ -164,7 +168,7 @@ PPP ⟪अवस्थित⟫ 3: standing, located
 
 ⟪चल्⟫ 1P ⟪चलति⟫ : to get into motion
 
-:::indent
+::: indent
 Fut. ⟪चलिष्यति⟫  
 Perf. Vb ⟪चचाल⟫, ⟪चेलुर्⟫  
 Pass. ⟪चल्यते⟫  
@@ -191,7 +195,7 @@ Inf. ⟪चलितुम्⟫
 
 ⟪शंस्⟫ 1P ⟪शंसति⟫ : to praise, to command
 
-:::indent
+::: indent
 Fut. ⟪शंसिष्यति⟫  
 Perf. I ⟪शशंस⟫  
 Pass. ⟪शस्यते⟫  
@@ -204,7 +208,7 @@ Inf. ⟪शंसितुम्⟫
 
 ### 42.2.1. Some Kinship Terms
 
-:::media
+::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
 Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 (Image source: [Details](/en/licenses#lekt4202))
@@ -268,14 +272,14 @@ Translate:
 
 ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥२॥⟫
 
-:::media
+::: media
 ![lekt4203.jpg](/images/lekt4203.webp)
 Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
 (Image source: [Details](/en/licenses#lekt4203))
 :::
 ⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![lekt4204.jpg](/images/lekt4204.webp)
 Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#lekt4204))
@@ -304,7 +308,7 @@ Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 
 ⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ ***⟪ऽयोध्या⟫***⟪धिपते⟫***⟪र्दशरथस्य⟫*** ⟪पुत्रः⟫ ⟪श्री⟫***⟪रामः⟫*** ***⟪सलक्ष्मणो⟫*** ***⟪विश्वामित्रेण⟫*** ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫***⟪रामो⟫*** ⟪महर्षेर्⟫***⟪विश्वामित्र⟫***⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
 
-:::media
+::: media
 ![lekt4208.jpg](/images/lekt4208.webp)
 Fig.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
 (Image source: [Details](/en/licenses#lekt4208))
@@ -319,14 +323,14 @@ Explanation of the **red** highlighted expressions:
 
 ⟪सीता⟫ f. proper name: daughter of King ⟪जनक⟫ from ⟪विदेह⟫. She had emerged from the earth when the king once plowed the field, hence her name: ⟪सीता⟫ f. "furrow of the field"
 
-:::media
+::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
 Fig.: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Image source: [Details](/en/licenses#lekt4205))
 :::
 ⟪मिथिला⟫ f. proper name: capital of ⟪विदेह⟫
 
-:::media
+::: media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
 (Image source: [Details](/en/licenses#lekt4206))
@@ -343,7 +347,7 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 ⟪रावण⟫ m. proper name; ruler of ⟪लङ्का⟫, ruler of the ⟪राक्षस⟫.
 
-:::media
+::: media
 ![lekt4207.jpg](/images/lekt4207.webp)
 Fig.: ⟪रावणः⟫
 (Image source: [Details](/en/licenses#lekt4207))
@@ -360,7 +364,7 @@ Fig.: ⟪रावणः⟫
 
 ⟪सीतारामयोस्⟫ Gen.Lok.Dual from ⟪सीताराम⟫
 
-:::deleteme-box
+::: deleteme-box
 
 * **Fig. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Image source: Wikipedia. Public domain)
 * **Fig. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. (Image source: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Accessed on 2009-01-04. -- Creative Commons License (Attribution, non-commercial use, share alike))

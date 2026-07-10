@@ -124,7 +124,7 @@ D) Bilden Sie zu den nach C) gebildeten Sätzen die Passivkonstruktion
 
 ⟪१२⟫. ⟪तैः⟫ ⟪श्रावकैर्बुद्धो⟫ ⟪धर्मं⟫ ⟪प्र्च्छ्यते⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung022.webp)
 Abb.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 (Bildquelle: [Details](/licenses#uebung022))
@@ -229,7 +229,7 @@ E) Verwandeln Sie die Sätze C)1-5 in Aktivkonstruktionen.
 
 ⟪५⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदति⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung021.webp)
 Abb.: ⟪फलान्यश्नुते⟫
 (Bildquelle: [Details](/licenses#uebung021))

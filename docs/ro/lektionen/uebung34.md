@@ -69,7 +69,7 @@ Vocativo sg. de los masculinos / neutros en -a termina en -a: por ejemplo, ⟪�
 
 ⟪सर्व⟫ 3 "todo, entero" (declinado según la declinación pronominal)
 
-::::media
+::: media
 ![](/images/uebung057.jpg)
 Abb.: ⟪तिलप्रमाणम्⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung057))

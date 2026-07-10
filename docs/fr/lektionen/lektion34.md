@@ -1,133 +1,138 @@
 ---
-title: Leçon 34
+title: Lektion 34
 lesson_id: 34
 status: stable
 ---
 
-# Leçon 34
+# Lektion 34
 
-## 34.1. Le parfait (⟪लिट्⟫)
+## 34.1. Das Perfekt (⟪लिट्⟫)
 
 En sanskrit classique, il n’existe que l’indicatif et le participe à partir du thème du parfait.
 
-:::grammar-box
+::: grammar-box
 **Il existe deux types de formation du parfait :**
 *   **le parfait redoublé = ⟪द्वित्वलिट्⟫**
 *   **le parfait périphrastique = ⟪अनुप्रयोगलिट्⟫**
-::::::grammar-box
+:::
+::: grammar-box
 **Le parfait périphrastique (⟪अनुप्रयोगलिट्⟫) est utilisé :**
 1. **pour les conjugaisons dérivées (causatif, desideratif, fréquentatif, dénominal)**
 2. **pour les racines commençant par une voyelle longue (sauf ā-) ou par une voyelle (sauf a-) suivie de deux consonnes**
 3. **pour certaines autres racines**
 :::
-## 34.2. Le parfait à redoublement (⟪द्वित्वलिट्⟫)
+## 34.2. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
 
-### 34.2.1. Degré de la racine
+### 34.2.1. Stammabstufung
 
-:::grammar-box
-**Formation :**
+::: grammar-box
+**Éducation :**
 
-**racine forte :** Singulier Parasmaipada
-*   **racine redoublée au degré supérieur ou allongé + terminaison du parfait**
+**starker Stamm:** Singulär Parasmaipada
+*   **reduplizierter Hoch- bzw. Dehnstufigen Wurzel + Perfektendung**
 
-**racine faible :** toutes les autres formes
-*   **racine redoublée au degré faible + terminaison du parfait**
-::::::grammar-box
-**Généralement (même en dehors du parfait), les racines de la forme suivante n'ont pas de degré de racine :**
-*   **(Consonne)-Consonne-LongueVoyelle-Consonne**
+**radical faible :** toutes les autres formes
+*   **racine redoublée au degré profond + terminaison du parfait**
+:::
+::: grammar-box
+**En général (y compris en dehors du parfait), les racines de la forme suivante ne présentent pas d’apophonie de racine :**
+*   **(Consonne)-Consonne-Longue-Voyelle-Consonne**
 *   **(Consonne)-Consonne-Voyelle-Consonne-Consonne**
 
-**Au parfait, n'ont également pas de degré de racine les racines de la forme :**
-*   **a-Consonne**
-*   **ā-Consonne**
+**Außerdem neigen Wurzeln der Form im Perfekt keine Stammabstufung auf:**
+*   **a-Konsonant**
+*   **ā-Konsonant**
 :::
-### 34.2.2. Les désinences du parfait
+### 34.2.2. Die Perfektendungen
 
-::::grammar-box
+::: grammar-box
 
-| | 3. Singulier | 3. Pluriel |
+| | 3. Singular | 3. Plural |
 | :--- | :--- | :--- |
 | **Parasmaipada** | **-a** | **-ur** |
 | **Ātmanepada** | **-e** | **-re** |
 
-::::
-### 34.2.3. Voyelle de liaison -i-
-
-:::grammar-box
-**Avant la terminaison de la 3e personne du pluriel Ā (-re), la voyelle de liaison -i- s'ajoute toujours, avant les autres terminaisons commençant par une consonne pour la majorité des racines.**
 :::
-### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
+### 34.2.3. Bindevokal -i-
 
-:::grammar-box
-**Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.**
-
-**Reduplikationsvokal bei konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.**
-
-**Diphtonge vor Konsonant werden durch den entsprechenden kurzen Tiefstufenvokal reduziert.**
-
-**ṛ, ṝ, ḷ, und auslautende Diphtonge werden durch -a- redupliziert.**
+::: grammar-box
+**Avant la terminaison de la 3e personne du pluriel Ā (-re), le voyelle de liaison -i- apparaît toujours, avant les autres terminaisons commençant par une consonne pour la majorité des racines.**
 :::
-Beispiele:
+### 34.2.4. Redoublement des racines commençant par une consonne
 
-::::grammar-box
+::: grammar-box
+**Pour les consonnes initiales redoublées, les règles données dans [Leçon 33](lektion33.md) s’appliquent.**
+
+**Le vocalique de redoublement des racines à consonne initiale est le vocalique bref de la racine.**
+
+**Les diphtongues devant une consonne sont réduites en la voyelle courte de niveau bas correspondante.**
+
+**ṛ, ṝ, ḷ, et les diphtongues finales sont redoublés par -a-.**
+:::
+Exemples :
+
+::: grammar-box
 
 | Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪भिद्⟫ | ***⟪बि⟫***⟪भेद⟫ |
-| ⟪मुच्⟫ | ***⟪मु⟫***⟪मोच⟫ |
-| ⟪भृ⟫ | ***⟪ब⟫***⟪भार⟫ |
+| ⟪भिद्⟫ | *⟪बि⟫*⟪भेद⟫ |
+| ⟪मुच्⟫ | *⟪मु⟫*⟪मोच⟫ |
+| ⟪भृ⟫ | *⟪ब⟫*⟪भार⟫ |
 
-:::::::grammar-box
-**Einige mit y- bzw. v-anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal "verschmilzt".**
 :::
-Beispiele:
+::: grammar-box
+**Certaines racines commençant par y- ou v- redoublent avec i- ou u-, qui « fusionne » avec la voyelle de la racine dans les formes faibles.**
+:::
+Exemples :
 
-::::grammar-box
+::: grammar-box
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
-::::
-### 34.2.5. Reduplication des vocaliques initiales
+:::
+### 34.2.5. Redoublement des racines commençant par une voyelle
 
-:::grammar-box
-**1. le a-, ā- initial est redoublé par a-, de sorte que ā- apparaît.**
+::: grammar-box
+**1. Le a-, ā- initial est redoublé par a-, de sorte que ā- apparaît.**
 :::
 Exemples :
 
-::::grammar-box
+::: grammar-box
 
-| Racine | 3. sg. Perf. P. |
+| Wurzel | 3. sg. Perf. P. |
 | :--- | :--- |
-| ⟪अस्⟫ 2 "être" et ⟪अस्⟫ 4 "jeter" | ⟪आस⟫:bra + as-a |
+| ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
 
-:::::::grammar-box
-**2. Les racines avec un i- initial ont comme syllabe de reduplication iy- dans le thème fort, i- dans le thème faible, qui se « fusionne » avec le vocalisme de la racine en ī-. Une analogie similaire vaut pour un u- initial.**
+:::
+::: grammar-box
+**2. Les racines commençant par i- ont pour syllabe de reduplication iy- dans le thème fort, i- dans le thème faible, qui se « fusionne » avec la voyelle de la racine en ī-. Il en va de même pour les racines commençant par u-.**
 :::
 Exemples :
 
-::::grammar-box
+::: grammar-box
 
-| Racine | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
 | ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
-:::::::grammar-box
-**3. Les racines qui commencent par a- devant deux consonnes ou par ṛ- ont comme syllabe de reduplication ān-**
+:::
+::: grammar-box
+**3. Les racines commençant par a- devant deux consonnes ou par ṛ- ont ān- comme syllabe de redoublement**
 :::
 Exemples :
 
-::::grammar-box
+::: grammar-box
 
-| Racine | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
-::::
+:::
 ## 34.3. Types de parfait à redoublement
 
 Principe de classification : particularités de l’alternance vocalique du radical :
@@ -135,9 +140,9 @@ Principe de classification : particularités de l’alternance vocalique du radi
 *   Parfait avec alternance vocalique du radical : Types II - V
 *   Formations de parfait irrégulières
 
-## 34.4. Parfait Type I : Parfait sans ablaut de la racine
+## 34.4. Parfait type I : Parfait sans alternance de la racine
 
-:::grammar-box
+::: grammar-box
 **Le Parfait Type I (sans ablaut de la racine) est formé par les racines des types suivants :**
 *   **(Consonne)-Consonne-Longue-Voyelle-Consonne**
 *   **(Consonne)-Consonne-Voyelle-Consonne-Consonne**
@@ -146,20 +151,20 @@ Principe de classification : particularités de l’alternance vocalique du radi
 :::
 Exemples :
 
-::::grammar-box
+::: grammar-box
 
 | Racine | 3. sg. Parf. | 3. pl. Parf. |
 | :--- | :--- | :--- |
 | ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ |
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
-| ⟪अस्⟫ 2P "être":br⟪अस्⟫ 4 "jeter" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brreduplication irrégulière ! | ⟪आनशिरे⟫ |
+| ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
-::::
-## 34.5. Type de parfait II : Radical fort au degré supérieur, radical faible au degré inférieur
+:::
+## 34.5. Type de parfait : racine forte au degré plein, racine faible au degré réduit
 
-:::grammar-box
+::: grammar-box
 **Formé à partir de racines de la forme :**
 *   **(Consonante)-(Consonante)-i/u/ṛ/ḷ-Consonante**
 
@@ -169,7 +174,7 @@ Exemples :
 :::
 Exemples :
 
-::::grammar-box
+::: grammar-box
 
 | Racine | 3. sg. Parf. P. | 3. pl. Parf. P. | 3. sg. Parf. Ā. | 3. pl. Parf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -179,14 +184,14 @@ Exemples :
 | ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ |
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
-::::
-## 34.6. Liste de mots
+:::
+## 34.6. Wortliste
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
 **⟪शस्य⟫ = ⟪सस्य⟫ n. sg. et pl. :** semence, culture, céréale
 
-:::media
+::: media
 ![](/images/lekt3406.webp)
 Fig. : ⟪सस्यम्⟫
 Champ de riz en Inde.
@@ -200,7 +205,7 @@ Champ de riz en Inde.
 
 **⟪द्वीप⟫ m.n. :** île, continent
 
-:::media
+::: media
 ![](/images/lekt3405.webp)
 Fig. : ⟪लक्षद्वीपाः⟫
 Carte des îles Lakshadweep.
@@ -210,12 +215,14 @@ Carte des îles Lakshadweep.
 
 **⟪तिल⟫ m. :** sésame (graine) (*Sesamum indicum* L.)
 
-:::media
+::: media
 ![](/images/lekt3403.webp)
 Fig. : ⟪तिलाः⟫
 Graines de sésame.
 (Source de l'image : [Détails](/fr/licenses#lekt3403))
-::::::media
+:::
+
+::: media
 ![](/images/lekt3404.webp)
 Fig. : *Sesamum indicum* L.
 Fleuraison de la plante de sésame.
@@ -223,7 +230,7 @@ Fleuraison de la plante de sésame.
 :::
 **⟪स्वर्ण⟫ n. :** (de belle couleur =) or
 
-:::media
+::: media
 ![](/images/lekt3402.webp)
 Fig. : ⟪स्वर्णम्⟫
 Temple d'Or (Harmandir Sahib), Amritsar.
@@ -239,7 +246,7 @@ Temple d'Or (Harmandir Sahib), Amritsar.
 
 **⟪ऋषभ⟫ m. :** taureau
 
-:::media
+::: media
 ![](/images/lekt3401.webp)
 Fig. : ⟪ऋषभः⟫
 Statue du taureau Nandi, collines de Chamundi, Mysore.
@@ -253,7 +260,7 @@ Statue du taureau Nandi, collines de Chamundi, Mysore.
 
 **⟪कन्या⟫ f. :** fille, vierge
 
-## 34.7. Exercice
+## 34.7. Übung
 
 Formez les formes de parfait correspondant en personne, nombre et genre aux formes verbales suivantes :
 
@@ -289,24 +296,24 @@ Formez les formes de parfait correspondant en personne, nombre et genre aux form
 30. ⟪कुप्यन्ति⟫
 31. ⟪इच्छन्ति⟫
 
-## 34.8. Exercice de traduction
+## 34.8. Übersetzungsübung
 
 Traduisez le texte suivant depuis le ⟪पद्मपुराण⟫ concernant les dons aux Brahmanes :
 
-⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫***⟪त्तम⟫*** ⟪।⟫  
-⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫***⟪श्चतुर्दश⟫*** ⟪॥१॥⟫  
-***⟪सप्त⟫***⟪द्वीपां⟫ ⟪महीं⟫ ⟪दत्त्वा⟫ ⟪यत्पुण्यं⟫ ⟪प्राप्यते⟫ ⟪द्विज⟫ ⟪।⟫  
+⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫*⟪त्तम⟫* ⟪।⟫  
+⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫*⟪श्चतुर्दश⟫* ⟪॥१॥⟫  
+*⟪सप्त⟫*⟪द्वीपां⟫ ⟪महीं⟫ ⟪दत्त्वा⟫ ⟪यत्पुण्यं⟫ ⟪प्राप्यते⟫ ⟪द्विज⟫ ⟪।⟫  
 ⟪तत्पुण्यं⟫ ⟪प्राप्नुयान्मर्त्यो⟫ ⟪धेनुं⟫ ⟪यच्छन्द्विजातये⟫ ⟪॥२॥⟫  
 ⟪तिलप्रमाणं⟫ ⟪स्वर्णं⟫ ⟪यो⟫ ⟪ब्राह्मणाय⟫ ⟪प्रयच्छति⟫ ⟪।⟫  
 ⟪हरिनिकेतनं⟫ ⟪याति⟫ ⟪युक्तं⟫ ⟪कोटिकुलैरपि⟫ ⟪॥३॥⟫  
 ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫  
-⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫  
+⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫*⟪र्जन्म⟫* ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫  
 ⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तं⟫ ⟪महीतले⟫ ⟪।⟫  
 ⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
 
 Explications :
 
-:::indent
+::: indent
 **Vocatif sing.** des masculins / neutres en -a se termine par -a : par ex. **⟪देव⟫** "Dieu !"
 
 **⟪चतुर्दश⟫** quatorze
@@ -316,12 +323,15 @@ Explications :
 **⟪जन्म⟫** Nom./Acc. sg. de **⟪जन्मन्⟫** n. naissance
 
 **⟪सर्व⟫ 3** "tous, entier" (décliné selon la déclinaison pronominale)
-::::::media
+:::
+::: media
 ![](/images/lekt3407.webp)
 Fig. : ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Rituel de mariage hindou.
 (Source de l'image : [Détails](/fr/licenses#lekt3407))
-::::::deleteme-box
+:::
+
+::: deleteme-box
 
 **lekt3401:** Statue du taureau Nandi, collines de Chamundi, Mysore. [Source de l'image : Luna Park / Flickr. CC BY-NC-ND]
 
@@ -337,3 +347,4 @@ Rituel de mariage hindou.
 
 **lekt3407:** Rituel de mariage hindou. [Source de l'image : BriceFR / Flickr. CC BY-NC-SA]
 :::
+

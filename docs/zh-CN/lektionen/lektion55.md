@@ -1,99 +1,100 @@
 ---
-title: Lektion 55
-subtitle: "Der a-Aorist (Aorist mit Themavokal)"
+title: 第55课
+subtitle: "a-未完成过去时（带主题元音的未完成过去时）"
 lesson_id: 55
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 55
 
 ## 55.1. Der a-Aorist (Aorist mit Themavokal)
 
-:::grammar-box
-**Der a-Aorist wird gebildet wie ein Imperfekt (⟪लङ्⟫) der 6. Präsensklasse (⟪तुदादि⟫), d.h.:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**a-词干不定过去时（a-Aorist）的构成方式如同第六类现在时（⟪लङ्⟫）的不定过去时（⟪तुदादि⟫），即：**
 
-**Augment + tiefstufige Wurzel + a + Sekundärendung** <!-- TODO: Fallback translation -->
+**Augment + 深层词根 + a + 后缀**
 
-**Das -a- wird in den gleichen Fällen wie im Imperfekt durch -ā- ersetzt.** <!-- TODO: Fallback translation -->
+**-a-** 在与过去未完成时相同的格中，被 **-ā-** 替换。
 
-**Keine Nasalinfixe.** <!-- TODO: Fallback translation -->
+**没有鼻音 infix。**
 
-**Das Ātmanepada ist selten; zu Ubhayapadawurzeln wird es meist nach anderen Aoristklassen gebildet (sieje Kielhorn, Grammatik §340 sowie unten bei den entsprechenden Aoristklassen).** <!-- TODO: Fallback translation -->
+**Ātmanepada 形式较为罕见；对于 Ubhayapada 词根，它通常根据其他不定过去时类（Aorist classes）构成（参见 Kielhorn《语法》§340 以及下文相关不定过去时类部分）。**
 
-**Liste der Wurzeln, die diesen Aorist haben, bei Kielhorn, Grammatik §340.** <!-- TODO: Fallback translation -->
+**Liste of roots that have this aorist, in Kielhorn, Grammar §340.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Example:
 
-⟪सिच्⟫ 6U "beträufeln" <!-- TODO: Fallback translation -->
+⟪सिच्⟫ 6U “浇洒”
 
-:::indent
-|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪असिचम्⟫ | ⟪असिचाम⟫ | ⟪असिचे⟫ | ⟪असिचामहि⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ | <!-- TODO: Fallback translation -->
+::: indent
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪असिचम्⟫ | ⟪असिचाम⟫ | ⟪असिचे⟫ | ⟪असिचामहि⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
 :::
-Unregelmäßige Bildungen: <!-- TODO: Fallback translation -->
+不规则形式：
 
-:::indent
-⟪अस्⟫ 4P "werfen": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (Erklärung siehe Thumb-Hauschild §541,4) <!-- TODO: Fallback translation -->
+::: indent
+⟪अस्⟫ 4P “投掷”：***⟪आस्थम्⟫, ⟪आस्थत्⟫***（解释见 Thumb-Hauschild §541,4）
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": ***⟪अख्यम्⟫, ⟪अख्यत्⟫*** <!-- TODO: Fallback translation -->
+⟪ख्या⟫ + ⟪आ⟫ 第二人称复数“讲述”：***⟪अख्यम्⟫，⟪अख्यत्⟫***
 
-⟪दृश्⟫ "sehen": ***⟪अदर्शम्⟫, ⟪अदर्शत्⟫*** (Hochstufe!) <!-- TODO: Fallback translation -->
+⟪दृश्⟫ “看见”：***⟪अदर्शम्⟫, ⟪अदर्शत्⟫***（高一级！）
 :::
-Beachte: <!-- TODO: Fallback translation -->
+注意：
 
-:::indent
-⟪शास्⟫ 2P "befehlen": ⟪अशिषत्⟫ (regelmäßige Tiefstufe!) <!-- TODO: Fallback translation -->
+::: indent
+⟪शास्⟫ 第二人称复数 “命令”：⟪अशिषत्⟫（规则的低级形式！）
 :::
-## 55.2. Übung
+## 55.2. 练习
 
-Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die entsprechenden Formen des a-Aorist: <!-- TODO: Fallback translation -->
+确定并书面翻译以下形式，并构成相应的 a-不定过去时形式：
 
-1.  ⟪दोक्ष्यन्ति⟫ <!-- TODO: Fallback translation -->
-2.  ⟪बुबोध⟫ <!-- TODO: Fallback translation -->
-3.  ⟪क्रुध्यसि⟫ <!-- TODO: Fallback translation -->
-4.  ⟪तोक्ष्यथ⟫ <!-- TODO: Fallback translation -->
-5.  ⟪कुप्यामः⟫ <!-- TODO: Fallback translation -->
-6.  ⟪आप⟫ <!-- TODO: Fallback translation -->
-7.  ⟪जग्मुः⟫ <!-- TODO: Fallback translation -->
-8.  ⟪छेत्स्यसि⟫ <!-- TODO: Fallback translation -->
-9.  ⟪पश्यथ⟫ <!-- TODO: Fallback translation -->
-10.  ⟪ध्रोक्ष्यामि⟫ <!-- TODO: Fallback translation -->
-11.  ⟪नेश⟫ <!-- TODO: Fallback translation -->
-12.  ⟪भिन्त्थ⟫ <!-- TODO: Fallback translation -->
-13.  ⟪भ्राम्यामः⟫ <!-- TODO: Fallback translation -->
-14.  ⟪मुञ्चति⟫ <!-- TODO: Fallback translation -->
-15.  ⟪मुह्यसि⟫ <!-- TODO: Fallback translation -->
-16.  ⟪अरोदीत्⟫ <!-- TODO: Fallback translation -->
-17.  ⟪रुरोधिथ⟫ <!-- TODO: Fallback translation -->
-18.  ⟪श्राम्यन्ति⟫ <!-- TODO: Fallback translation -->
-19.  ⟪विन्दथ⟫ <!-- TODO: Fallback translation -->
-20.  ⟪असीदन्⟫ <!-- TODO: Fallback translation -->
-21.  ⟪वर्तामहे⟫ (a-Aor.: P) <!-- TODO: Fallback translation -->
-22.  ⟪अशात्⟫ <!-- TODO: Fallback translation -->
-23.  ⟪सेक्ष्यसे⟫ <!-- TODO: Fallback translation -->
-24.  ⟪अयुनक्⟫ <!-- TODO: Fallback translation -->
-25.  ⟪आरिथ⟫ <!-- TODO: Fallback translation -->
-26.  ⟪अक्लिद्यन्⟫ <!-- TODO: Fallback translation -->
-27.  ⟪अजीर्यम्⟫ (Aor.: hochstufig) <!-- TODO: Fallback translation -->
-28.  ⟪लुम्पति⟫ <!-- TODO: Fallback translation -->
-29.  ⟪अशाम्यत⟫ <!-- TODO: Fallback translation -->
-30.  ⟪अशोभथाः⟫  (a-Aor.: P) <!-- TODO: Fallback translation -->
-31.  ⟪अशुष्याम⟫ <!-- TODO: Fallback translation -->
-32.  ⟪सिष्णेह⟫ <!-- TODO: Fallback translation -->
+1.  ⟪दोक्ष्यन्ति⟫
+2.  ⟪बुबोध⟫
+3.  ⟪क्रुध्यसि⟫
+4.  ⟪तोक्ष्यथ⟫
+5.  ⟪कुप्यामः⟫
+6.  ⟪आप⟫
+7.  ⟪जग्मुः⟫
+8.  ⟪छेत्स्यसि⟫
+9.  ⟪पश्यथ⟫
+10.  ⟪ध्रोक्ष्यामि⟫
+11.  ⟪नेश⟫
+12.  ⟪भिन्त्थ⟫
+13.  ⟪भ्राम्यामः⟫
+14.  ⟪मुञ्चति⟫
+15.  ⟪मुह्यसि⟫
+16.  ⟪अरोदीत्⟫
+17.  ⟪रुरोधिथ⟫
+18.  ⟪श्राम्यन्ति⟫
+19.  ⟪विन्दथ⟫
+20.  ⟪असीदन्⟫
+21.  ⟪वर्तामहे⟫ (a-Aor.: P)
+22.  ⟪अशात्⟫
+23.  ⟪सेक्ष्यसे⟫
+24.  ⟪अयुनक्⟫
+25.  ⟪आरिथ⟫
+26.  ⟪अक्लिद्यन्⟫
+27.  ⟪अजीर्यम्⟫ (Aor.: hochstufig)
+28.  ⟪लुम्पति⟫
+29.  ⟪अशाम्यत⟫
+30.  ⟪अशोभथाः⟫  (a-Aor.: P)
+31.  ⟪अशुष्याम⟫
+32.  ⟪सिष्णेह⟫
 
-:::media
+::: media
 ![](/images/lekt5501.webp)
 Abb.: ⟪अजीर्यमिति⟫
 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
-(Bildquelle: [Details](/licenses#lekt5501)) <!-- TODO: Fallback translation -->
-::::::deleteme-box
+(Bildquelle: [Details](/zh-CN/licenses#lekt5501))
+:::
+::: deleteme-box
 
-**lekt5501:** 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618 [Bildquelle: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Zugriff am 2009-01-28. Gemeinfrei] <!-- TODO: Fallback translation -->
+**lekt5501:** “Inâyat Khân am Sterben”, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618 [Bildquelle: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Zugriff am 2009-01-28. Gemeinfrei]
 
 :::

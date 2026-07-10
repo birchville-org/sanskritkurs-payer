@@ -9,7 +9,7 @@ last_reconstructed: 2026-05-07
 
 # Lecția 8
 
-:::deleteme-box
+::: deleteme-box
 **În această lecție veți învăța:**
 - Formarea substantivelor (sufixe kṛt și taddhita)
 - Sufixe nominale importante (-a, -ana, -tra, -ti, -tva, -tā)
@@ -25,7 +25,7 @@ last_reconstructed: 2026-05-07
 - **sufixe kṛt (⟪कृत्⟫) (sufixe primare):** formează din rădăcinile verbale (**dhātu** m. = ⟪धातु⟫) și din stemelor verbale, stemen nominale, absolutivi și infinitivi.
 - **sufixe taddhita (⟪तद्धित⟫) (sufixe secundare):** se atașează la stemen nominale și indeclinabile și formează noi stemen nominale, respectiv indeclinabile.
 
-:::grammar-box
+::: grammar-box
 **Schema:**
 **Rădăcină + sufix kṛt » stemen nominal etc. + sufix taddhita » nouă stemen nominal etc.**
 
@@ -59,7 +59,7 @@ last_reconstructed: 2026-05-07
 
 ### 8.3.1. -a m. (kṛt)
 
-:::grammar-box
+::: grammar-box
 **Sufixul kṛt -a formează substantive masculine (rar neutre) care denumesc o acțiune sau o stare indicată de rădăcină; uneori și adjective sau substantive care exprimă agentul (kartṛ) acțiunii indicată de rădăcina verbală. Pentru penultima scurtă (= vocală înainte de consoanța pe care se termină rădăcina) sau vocala finală a rădăcinii, se substituie de obicei gradul ridicat (guṇa) sau gradul lungit (vṛddhi).**
 :::
 **Exemple:**
@@ -72,7 +72,7 @@ last_reconstructed: 2026-05-07
 | **kup** 4 P:br⟪कुप्⟫:br"a se mânia" | **kopa** m.:br⟪कोप⟫ | "mânie" |
 | **lubh** 4 P:br⟪लुभ्⟫:br"a dori" | **lobha** m.:br⟪लोभ⟫ | "poftă" |
 | **labh** 1 Ā:br⟪लभ्⟫:br"a obține" | **lābha** m.:br⟪लाभ⟫ | "obținerea, profitul" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"a elibera,⟨BR>a lăsa să emană" | **sarga** m.:br⟪सर्ग⟫ | "eliberarea, emanarea, creația" (pentru sandhi cuvântului j » g vezi mai târziu) |
+| **sṛj** 6 P:br⟪सृज्⟫:br"a elibera,⟨BR\>a lăsa să emană" | **sarga** m.:br⟪सर्ग⟫ | "eliberarea, emanarea, creația" (pentru sandhi cuvântului j » g vezi mai târziu) |
 | **śru** 5 P:br⟪श्रु⟫:br"a auzi" | **śrava** m.:br⟪श्रव⟫ | "ascultarea" |
 | **bhū** 1 P:br⟪भू⟫:br"a deveni, a fi" | **bhāva** m.:br⟪भाव⟫ | "devenirea, (a fi) ceva, natură, caracter" |
 | **yudh** 4 Ā:br⟪युध्⟫:br"a lupta" | **yodha** m.:br⟪योध⟫ | "luptător, soldat" |
@@ -81,7 +81,7 @@ last_reconstructed: 2026-05-07
 
 ### 8.3.2. -ana n. (kṛt)
 
-:::grammar-box
+::: grammar-box
 **Sufixul kṛt -ana formează de obicei substantive neutre care denotă o acțiune, o stare sau mijlocul/unealta prin care acțiunea indicată de rădăcină sau de un temei verbal se realizează. Pentru o penultimă scurtă sau un vocal final al rădăcinii, se substituie de obicei gradul ridicat (guṇa).**
 :::
 **Exemple:**
@@ -95,22 +95,22 @@ last_reconstructed: 2026-05-07
 | **bhū** 1 P:br⟪भू⟫:br"a deveni" | **bhavana** n.:br⟪भवन⟫ | " devenirea, nașterea" |
 | **dṛś** 4 P:br⟪दृश्⟫:br"a vedea" | **darśana** n.:br⟪दर्शन⟫ | "vederea, perspectiva, sistemul filosofic, aparența, în special: Darśan" |
 
-:::media
+::: media
 ![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0801))
-::::::
-note-box
+:::: note-box
 **"Darshan"** sau **"Darshana"** este un termen din hinduism pentru viziunea și vederea sfântului și divinului. Sub *Darshana* se înțelege, de exemplu, întâlnirea oficială dintre elev și maestru, la care elevul a fost invitat de maestru. Poate însemna, de asemenea, *cufundarea* în contemplarea unei icoane divine. Această din urmă semnificație este cea mai frecventă în limbajul hindi contemporan. În contextul lui Mata Amritanandamayi, Darshan înseamnă îmbrățișarea de către Guru.
 
 Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un simbol sau o statuie, în care se consideră prezența spirituală a zeului. În acest sens, este și o binecuvântare din partea zeului. Darshan poate fi, de asemenea, primit prin viziunea zeității în timpul rugăciunii sau meditației. De asemenea, o persoană vie, considerată ca o întrupare a zeității, cum ar fi un Avatara, poate oferi Darshan.
 (Sursă: Wikipedia)
+::::
 :::
 ---
 
 ### 8.3.3. -tra n. (kṛt)
 
-:::grammar-box
+::: grammar-box
 **Sufixul kṛt -tra formează (în majoritate) substantive neutre, care indică mijlocul sau instrumentul prin care se realizează acțiunea indicată de rădăcină. Vocala scurtă penultimă și vocala finală a rădăcinii sunt înlocuite prin etapa superioară (guṇa).**
 :::
 **Exemple:**
@@ -122,7 +122,7 @@ Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un 
 | **man** 4 Ā:br⟪मन्⟫:br"a gândi" | **mantra** **m. (!)**:br⟪मन्त्र⟫ | "(Instrumentul de gândire:) formulă, formulă 'magică' (mantra)" |
 | **tan** 8 U:br⟪तन्⟫:br"a întinde" | **tantra** n.:br⟪तन्त्र⟫ | "urzeală" |
 
-:::media
+::: media
 **Mantra primordială Oṃ (⟪ॐ⟫) în diverse texte indiene**
 
 | ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) |
@@ -138,7 +138,7 @@ Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un 
 
 ### 8.3.4. -ti f. (kṛt)
 
-:::grammar-box
+::: grammar-box
 **Sufixul kṛt -ti formează substantive feminine care, în general, exprimă acțiunea indicată de rădăcină sau starea indicată de rădăcină. Forma rădăcinii este în grad redus.**
 :::
 **Exemple:**
@@ -159,7 +159,7 @@ Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un 
 
 ### 8.3.5. -tva n., -tā f. (taddhita)
 
-:::grammar-box
+::: grammar-box
 **Sufixele taddhita -tva n. respectiv -tā f. formează substantive abstracte la nominal. Forma radicalului nominal de bază rămâne neschimbată.**
 :::
 **Exemple:**
@@ -176,7 +176,7 @@ Aceste formațiuni pot fi formate practic la orice substantiv și sunt foarte fr
 
 ## 8.4. Clasa a 8-a de prezens (tanādi = ⟪तनादि⟫ = „tan și altele”)
 
-:::grammar-box
+::: grammar-box
 **Formarea temei:**
 - **Temă puternică: Rădăcină + -o-**
 - **Temă slabă: Rădăcină + -u- (înaintea vocală: -v-)**
@@ -191,7 +191,7 @@ Notă: În legătură cu disputa privind faptul dacă **tan** este de fapt o ră
 
 Cea mai importantă rădăcină a celei de-a 8-a clase este **kṛ** 8 U (⟪कृ⟫) „a face, a executa”. Conjugarea sa este neregulată:
 
-:::grammar-box
+::: grammar-box
 **kṛ 8 U (⟪कृ⟫) „a face, a executa”**
 - 3\. sg. P. **karoti**:br⟪करोति⟫
 - 3\. pl. P. **kurvanti**:br⟪कुर्वन्ति⟫
@@ -222,14 +222,15 @@ Cea mai importantă rădăcină a celei de-a 8-a clase este **kṛ** 8 U (⟪क
 - **patrikā** f. ⟪पत्रिका⟫ : scrisoare
 - **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : a grava, a scrie (inițial cu un instrument de grăpat pe o frunză de palmier, apoi în general)
 
-:::media
+::: media
 ![](/images/lekt0809.jpg)
 Fig.: **likh** (⟪लिख्⟫) : instrument de scris indian din oțel pentru gravat pe frunze de palmier
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0809))
-::::::media
+:::: media
 ![](/images/lekt0810.jpg)
 Fig.: **likh** (⟪लिख्⟫) : bețișor de scris al Batak (Sumatra), așa cum era probabil folosit și în India
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0809))
+::::
 :::
 - **sukha** n. ⟪सुख⟫ : fericire, bunăstare
 - **duḥkha** n. ⟪दुःख⟫ : nefericire, suferință

@@ -72,7 +72,7 @@ B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मं⟫ ⟪द्विषन्ति⟫ ⟪।⟫ ⟪द्विषते⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪न⟫ ⟪कुर्वते⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/uebung025.webp)
 Abb.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 (Bildquelle: [Details](/licenses#uebung025))
@@ -83,99 +83,99 @@ Abb.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 
 Übersetzen Sie folgende Verbformen und geben Sie die dazugehörige Wurzel an:
 
-⟪१⟫. **⟪अदन्ति⟫** (⟪अद्⟫ 2P): sie essen
+⟪१⟫. ⟪अदन्ति⟫ (⟪अद्⟫ 2P): sie essen
 
-⟪२⟫. **⟪सन्ति⟫** (⟪अस्⟫ 2P): sie sind
+⟪२⟫. ⟪सन्ति⟫ (⟪अस्⟫ 2P): sie sind
 
-⟪३⟫. **⟪आसते⟫** (⟪आस्⟫ 2Ā): sie sitzen
+⟪३⟫. ⟪आसते⟫ (⟪आस्⟫ 2Ā): sie sitzen
 
-⟪४⟫. **⟪यन्ति⟫** (⟪इ⟫ 2P): sie gehen
+⟪४⟫. ⟪यन्ति⟫ (⟪इ⟫ 2P): sie gehen
 
-⟪५⟫. **⟪इच्छति⟫** (⟪इष्⟫ 6P): er wünscht
+⟪५⟫. ⟪इच्छति⟫ (⟪इष्⟫ 6P): er wünscht
 
-⟪६⟫. **⟪कुर्वते⟫** (⟪कृ⟫ 8U): sie tun (im eigenen Interesse)
+⟪६⟫. ⟪कुर्वते⟫ (⟪कृ⟫ 8U): sie tun (im eigenen Interesse)
 
-⟪७⟫. **⟪गच्छन्ति⟫** (⟪गम्⟫ 1P): sie gehen
+⟪७⟫. ⟪गच्छन्ति⟫ (⟪गम्⟫ 1P): sie gehen
 
-⟪८⟫. **⟪जायते⟫** (⟪जन्⟫ 4Ā): er entsteht
+⟪८⟫. ⟪जायते⟫ (⟪जन्⟫ 4Ā): er entsteht
 
-⟪९⟫. **⟪जयति⟫** (⟪जि⟫ 1P): er siegt
+⟪९⟫. ⟪जयति⟫ (⟪जि⟫ 1P): er siegt
 
-⟪१०⟫. **⟪तनोति⟫** (⟪तन्⟫ 8U): er spannt auf
+⟪१०⟫. ⟪तनोति⟫ (⟪तन्⟫ 8U): er spannt auf
 
-⟪११⟫. **⟪दहति⟫** (⟪दह्⟫ 1P): er verbrennt
+⟪११⟫. ⟪दहति⟫ (⟪दह्⟫ 1P): er verbrennt
 
-⟪१२⟫. **⟪दोग्धि⟫** (⟪दुह्⟫ 2U): er melkt
+⟪१२⟫. ⟪दोग्धि⟫ (⟪दुह्⟫ 2U): er melkt
 
-⟪१३⟫. **⟪पश्यति⟫** (⟪दृश्⟫ 4P): er sieht
+⟪१३⟫. ⟪पश्यति⟫ (⟪दृश्⟫ 4P): er sieht
 
-⟪१४⟫. **⟪द्विष्टे⟫** (⟪द्विष्⟫ 2U): er hasst
+⟪१४⟫. ⟪द्विष्टे⟫ (⟪द्विष्⟫ 2U): er hasst
 
-⟪१५⟫. **⟪नयन्ति⟫** (⟪नी⟫ 1U): sie führen
+⟪१५⟫. ⟪नयन्ति⟫ (⟪नी⟫ 1U): sie führen
 
-⟪१६⟫. **⟪नृत्यति⟫** (⟪नृत्⟫ 4P): er tanzt
+⟪१६⟫. ⟪नृत्यति⟫ (⟪नृत्⟫ 4P): er tanzt
 
-⟪१७⟫. **⟪पद्यन्ते⟫** (⟪पद्⟫ 4Ā): sie schreiten
+⟪१७⟫. ⟪पद्यन्ते⟫ (⟪पद्⟫ 4Ā): sie schreiten
 
-⟪१८⟫. **⟪पिबति⟫** (⟪पा⟫ 1P): er trinkt
+⟪१८⟫. ⟪पिबति⟫ (⟪पा⟫ 1P): er trinkt
 
-⟪१९⟫. **⟪पान्ति⟫** (⟪पा⟫ 2P): sie hüten
+⟪१९⟫. ⟪पान्ति⟫ (⟪पा⟫ 2P): sie hüten
 
-⟪२०⟫. **⟪पृच्छति⟫** (⟪प्रच्छ्⟫ 6P): er fragt
+⟪२०⟫. ⟪पृच्छति⟫ (⟪प्रच्छ्⟫ 6P): er fragt
 
-⟪२१⟫. **⟪बुध्यन्ते⟫** (⟪बुध्⟫ 4Ā): sie erwachen
+⟪२१⟫. ⟪बुध्यन्ते⟫ (⟪बुध्⟫ 4Ā): sie erwachen
 
-⟪२२⟫. **⟪ब्रवीति⟫** (⟪ब्रू⟫ 2U): er spricht
+⟪२२⟫. ⟪ब्रवीति⟫ (⟪ब्रू⟫ 2U): er spricht
 
-⟪२३⟫. **⟪भवन्ति⟫** (⟪भू⟫ 1P): sie werden
+⟪२३⟫. ⟪भवन्ति⟫ (⟪भू⟫ 1P): sie werden
 
-⟪२४⟫. **⟪मन्यते⟫** (⟪मन्⟫ 4Ā): er meint
+⟪२४⟫. ⟪मन्यते⟫ (⟪मन्⟫ 4Ā): er meint
 
-⟪२५⟫. **⟪मुञ्चन्ति⟫** (⟪मुच्⟫ 6U): sie befreien
+⟪२५⟫. ⟪मुञ्चन्ति⟫ (⟪मुच्⟫ 6U): sie befreien
 
-⟪२६⟫. **⟪म्रियन्ते⟫** (⟪मृ⟫ 4Ā): sie sterben
+⟪२६⟫. ⟪म्रियन्ते⟫ (⟪मृ⟫ 4Ā): sie sterben
 
-⟪२७⟫. **⟪यजते⟫** (⟪यज्⟫ 1U): er opfert als Opferherr
+⟪२७⟫. ⟪यजते⟫ (⟪यज्⟫ 1U): er opfert als Opferherr
 
-⟪२८⟫. **⟪युध्यन्ते⟫** (⟪युध्⟫ 4Ā): sie kämpfen
+⟪२८⟫. ⟪युध्यन्ते⟫ (⟪युध्⟫ 4Ā): sie kämpfen
 
-⟪२९⟫. **⟪रक्षति⟫** (⟪रक्ष्⟫ 1P): er hütet
+⟪२९⟫. ⟪रक्षति⟫ (⟪रक्ष्⟫ 1P): er hütet
 
-⟪३०⟫. **⟪रोदिति⟫** (⟪रुद्⟫ 2P): er heult
+⟪३०⟫. ⟪रोदिति⟫ (⟪रुद्⟫ 2P): er heult
 
-⟪३१⟫. **⟪लभते⟫** (⟪लभ्⟫ 1Ā): er erhält
+⟪३१⟫. ⟪लभते⟫ (⟪लभ्⟫ 1Ā): er erhält
 
-⟪३२⟫. **⟪वक्ति⟫** (⟪वच्⟫ 2P): er spricht
+⟪३२⟫. ⟪वक्ति⟫ (⟪वच्⟫ 2P): er spricht
 
-⟪३३⟫. **⟪वदति⟫** (⟪वद्⟫ 1P): er spricht
+⟪३३⟫. ⟪वदति⟫ (⟪वद्⟫ 1P): er spricht
 
-⟪३४⟫. **⟪शृणोति⟫** (⟪श्रु⟫ 5P): er hört
+⟪३४⟫. ⟪शृणोति⟫ (⟪श्रु⟫ 5P): er hört
 
-⟪३५⟫. **⟪स्तौति⟫** (⟪स्तु⟫ 2U): er lobt
+⟪३५⟫. ⟪स्तौति⟫ (⟪स्तु⟫ 2U): er lobt
 
-⟪३६⟫. **⟪स्मरति⟫** (⟪स्मृ⟫ 1P): er vergegenwärtigt
+⟪३६⟫. ⟪स्मरति⟫ (⟪स्मृ⟫ 1P): er vergegenwärtigt
 
-⟪३७⟫. **⟪हन्ति⟫** (⟪हन्⟫ 2P): er erschlägt
+⟪३७⟫. ⟪हन्ति⟫ (⟪हन्⟫ 2P): er erschlägt
 
-⟪३८⟫. **⟪अश्नुवते⟫** (⟪अश्⟫ 5Ā): sie erreichen
+⟪३८⟫. ⟪अश्नुवते⟫ (⟪अश्⟫ 5Ā): sie erreichen
 
-⟪३९⟫. **⟪कुप्यते⟫** (⟪कुप्⟫ 4P): es wird gezürnt
+⟪३९⟫. ⟪कुप्यते⟫ (⟪कुप्⟫ 4P): es wird gezürnt
 
-⟪४०⟫. **⟪कर्षन्ति⟫** (⟪कृष्⟫ 6U): sie ziehen
+⟪४०⟫. ⟪कर्षन्ति⟫ (⟪कृष्⟫ 6U): sie ziehen
 
-⟪४१⟫. **⟪उद्यते⟫** (⟪वद्⟫ 1P): es wird gesagt
+⟪४१⟫. ⟪उद्यते⟫ (⟪वद्⟫ 1P): es wird gesagt
 
-⟪४२⟫. **⟪सहन्ते⟫** (⟪सह्⟫ 1Ā): sie ertragen
+⟪४२⟫. ⟪सहन्ते⟫ (⟪सह्⟫ 1Ā): sie ertragen
 
-⟪४३⟫. **⟪सिच्यन्ते⟫** (⟪सिच्⟫ 6U): sie werden beträufelt
+⟪४३⟫. ⟪सिच्यन्ते⟫ (⟪सिच्⟫ 6U): sie werden beträufelt
 
-⟪४४⟫. **⟪आप्नोति⟫** (⟪आप्⟫ 5P): er erreicht
+⟪४४⟫. ⟪आप्नोति⟫ (⟪आप्⟫ 5P): er erreicht
 
-⟪४५⟫. **⟪जीव्यते⟫** (⟪जीव्⟫ 1P): es wird gelebt
+⟪४५⟫. ⟪जीव्यते⟫ (⟪जीव्⟫ 1P): es wird gelebt
 
-⟪४६⟫. **⟪दिश्यन्न्ते⟫** (⟪दिश्⟫ 6U): sie werden gezeigt
+⟪४६⟫. ⟪दिश्यन्न्ते⟫ (⟪दिश्⟫ 6U): sie werden gezeigt
 
-:::media
+::: media
 ![](/images/uebung026.webp)
 Abb.: ⟪शृणोति⟫
 (Bildquelle: [Details](/licenses#uebung026))

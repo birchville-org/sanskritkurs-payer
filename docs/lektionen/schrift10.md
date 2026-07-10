@@ -4,7 +4,7 @@
 
 \[Erste Regel siehe in [Schriftübung 8](schrift08.md)\]
 
-Wenn der erste der zu verbindenden Konsonanten nicht mit einem senkrechten Strich abschließt, dann wird der folgende Konsonant mit Verlust seines wagrechten Strichs unter den ersten Konsonanten gesetzt.
+Wenn der erste der zu verbindenden Konsonanten nicht mit einem senkrechten Strich abschliesst, dann wird der folgende Konsonant mit Verlust seines wagrechten Strichs unter den ersten Konsonanten gesetzt.
 
 Ausnahmen: Sind ⟪म्⟫ bzw. ⟪य्⟫ das zweite Glied der Ligatur, so werden sie verkürzt hinter das erste Zeichen geschrieben:
 

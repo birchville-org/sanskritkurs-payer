@@ -10,8 +10,6 @@ last_reconstructed: 2026-05-15
 
 A) Formare il causativo per le seguenti forme verbali e forme participiali:
 
-:::grammar-box
-
 ### ⟪१⟫. Con radice di alto livello (Guṇa)
 
 | Forma | Causativo |
@@ -45,8 +43,6 @@ A) Formare il causativo per le seguenti forme verbali e forme participiali:
 | ⟪स्रक्ष्यति⟫ | ⟪सर्जयिष्यति⟫ |
 | ⟪लिम्पन्ति⟫ | ⟪लेपयन्ति⟫ |
 | ⟪वृद्धाः⟫ | ⟪वर्धिताः⟫ |
-::::::grammar-box
-
 ### ⟪२⟫. Con radice allungata (Vṛddhi)
 
 | Forma | Causativo |
@@ -90,8 +86,6 @@ A) Formare il causativo per le seguenti forme verbali e forme participiali:
 | ⟪सोढायाः⟫ | ⟪साहितायाः⟫ |
 | ⟪हरन्ती⟫ | ⟪हारयन्ती⟫ |
 | ⟪ऊढया⟫ | ⟪वाहितया⟫ |
-::::::grammar-box
-
 ### ⟪३⟫. Causativo in -⟪पय⟫ (e forme speciali)
 
 | Radice | Causativo | Significato |
@@ -104,7 +98,6 @@ A) Formare il causativo per le seguenti forme verbali e forme participiali:
 | ⟪हन्⟫ | ⟪घातयति⟫ | far uccidere, far morire |
 | ⟪जि⟫ | ⟪जापयति⟫ | far vincere |
 | ⟪जीव्⟫ | ⟪जीवयति⟫ | dare vita |
-:::
 B) Tradurre le seguenti frasi e formare, mediante i verbi semplici, frasi che esprimano ciò che accade quando viene realizzato quanto espresso dal causativo.
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
@@ -147,7 +140,7 @@ Per conquistare ricchezze, il grande Kṣatriya farà osservare i voti ai combat
 Per liberarli dal male, il Buddha fa riconoscere le nobili verità alle persone nobili.
 (Base: **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
 
-:::media
+::: media
 ![](/images/uebung045.webp)
 Fig.: ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung045))

@@ -11,9 +11,9 @@ status: stable
 
 ## 36.1. Special Formations of the Perfect
 
-::::grammar-box
+::: grammar-box
 1. Some roots show a change of the root initial after the reduplication syllable.
-::::
+:::
 Examples:
 
 | Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
@@ -22,41 +22,47 @@ Examples:
 | **⟪चि⟫** 5U:brPerf. IIIa | ⟪चि⟫***⟪का⟫***⟪य⟫:br**⟪चिचाय⟫** | ⟪चि⟫***⟪क्यु⟫***⟪र्⟫:br**⟪चिच्युर्⟫** | ⟪चि⟫***⟪क्ये⟫***:br**⟪चिच्ये⟫** | ⟪चि⟫***⟪क्यि⟫***⟪रे⟫:br**⟪चिच्यिरे⟫** |
 | **⟪हन्⟫** 2P:brPerf. Va | ⟪ज⟫***⟪घा⟫***⟪न⟫ | ⟪ज⟫***⟪घ्नु⟫***⟪र्⟫ | | |
 
-::::grammar-box
+::: grammar-box
 2. The root ⟪विद्⟫ 2P "to know" has a perfect with present tense meaning.
-::::::::grammar-box
+:::
+::: grammar-box
 | Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | **⟪विद्⟫** 2P | **⟪वेद⟫**:brhe/she/it knows | **⟪विदुर्⟫**:brthey know |
-::::::::grammar-box
+:::
+::: grammar-box
 3. The root ⟪अह्⟫ "to say" has only perfect forms (Perfect I). These have present tense meaning.
-::::::::grammar-box
+:::
+::: grammar-box
 | Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | **⟪अह्⟫**:brPerf. I | **⟪आह⟫**:brhe/she/it says | **⟪आहुर्⟫**:brthey say |
-::::::::grammar-box
+:::
+::: grammar-box
 4. The root ⟪भू⟫ 1P has the perfect stem ⟪बभू⟫, before vowels ⟪बभूव्⟫.
-::::::::grammar-box
+:::
+::: grammar-box
 | Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | **⟪भू⟫** 1P | **⟪बभूव⟫** | **⟪बभूवुर्⟫** |
-::::
+:::
 ## 36.2. The periphrastic perfect (⟪अनुप्रयोगलिट्⟫)
 
-::::grammar-box
+::: grammar-box
 The periphrastic perfect (⟪अनुप्रयोगलिट्⟫) is used:
 
 1. in derived conjugations (causative, desiderative, frequentative, denominative)
 2. with roots that begin with a long vowel (except ā-) or with a vowel (except a-) before two consonants
 3. with some other roots
-::::::::grammar-box
+:::
+::: grammar-box
 **Formation:**
 
 (weak) present stem + -ām + corresponding perfect form of ⟪कृ⟫, ⟪अस्⟫ or ⟪भू⟫
 
 - The final stem vowel is guṇa-substituted before -ām.
 - ⟪अस्⟫ and ⟪भू⟫ are also conjugated in the parasmaipada for ātmanepada verbs.
-::::
+:::
 The periphrastic perfect probably arose from the accusative of a verbal noun in -ā. This accusative is used -- as often elsewhere -- adverbially.
 
 Examples:
@@ -68,12 +74,13 @@ Examples:
 
 ## 36.3. Perfect Passive
 
-::::grammar-box
+::: grammar-box
 In the perfect, the forms of the Ātmanepada are used for the passive. In contrast, the use of the PPP is preferred. In both cases, the construction is that of passive sentences:
 
-:::indent
+:::
+::: indent
 ⟪तेन⟫ ⟪पुण्यं⟫ ⟪चक्रे⟫ = ⟪तेन⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ = "He performed a meritorious deed"
-:::::::
+:::
 ## 36.4. Word List
 
 ⟪अह्⟫ P only Perfect with present meaning ⟪आह⟫, ⟪आहुर्⟫ : to say, to speak
@@ -82,7 +89,7 @@ In the perfect, the forms of the Ātmanepada are used for the passive. In contra
 
 ⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : to see, to (dis)cover, to look at
 
-:::indent
+::: indent
 Perf. ⟪ईक्षां⟫ ⟪चक्रे⟫  
 Fut. ⟪ईक्षिष्यते⟫  
 Pass. ⟪ईक्ष्यते⟫  
@@ -92,21 +99,22 @@ Inf. ⟪ईक्षितुम्⟫
 :::
 ⟪चि⟫ 5U ⟪चिनोति⟫ : to heap up, to collect
 
-:::indent
+::: indent
 Perf. ⟪चिकाय⟫ ⟪।⟫ ⟪चिचाय⟫  
 Fut. ⟪चेष्यति⟫  
 Pass. ⟪चीयते⟫  
 Kaus. ⟪चाययति⟫ ⟪।⟫ ⟪चापयति⟫  
 PPP ⟪चित⟫  
 Inf. ⟪चेतुम्⟫
-::::::media
+:::: media
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
 (Image source: [Details](/en/licenses#lekt3601))
+::::
 :::
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : to stride, to go, to go away
 
-:::indent
+::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
 Fut. ⟪व्रजिष्यति⟫  
 Pass. ⟪व्रज्यते⟫  
@@ -118,15 +126,17 @@ Inf. ⟪व्रजितुम्⟫
 
 ⟪अगार⟫ n.⟪।⟫ ⟪आगार⟫ n.: house, home
 
-:::media
+::: media
 ![](/images/lekt3602.webp)
 Fig.: ⟪अगारम्⟫
 (Image source: [Details](/en/licenses#lekt3602))
-::::::indent
+:::: indent
 therefrom:
 
 ⟪अनगार्य⟫ n. ⟪।⟫ ⟪अनगार⟫ika f.: homelessness of a Buddhist monk or novice
-::::::media
+::::
+:::
+::: media
 ![](/images/lekt3603.webp)
 Fig.: ⟪अनगार्यम्⟫
 (Image source: [Details](/en/licenses#lekt3603))
@@ -141,14 +151,14 @@ Fig.: ⟪अनगार्यम्⟫
 
 ⟪पृष्ठ⟫ n: back, rear side
 
-:::indent
+::: indent
 ⟪पृष्ठम्⟫ : behind
 :::
 ⟪प्रजापति⟫ m.: lord of creatures, creator god
 
 ⟪अनु⟫ prefix: after, along, over - hin, along, according to, to, behind - her
 
-:::indent
+::: indent
 e.g.
 
 ⟪अनुकृ⟫ : to imitate, to do after
@@ -157,7 +167,7 @@ e.g.
 :::
 ⟪अभि⟫ : to-, after - hin, to - her, to - hin, against, in - into, with regard to, on, over, at
 
-:::indent
+::: indent
 e.g.
 
 ⟪अभिगम्⟫ : to go to, to approach
@@ -166,7 +176,7 @@ e.g.
 :::
 ⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : to feel reluctance, to fade away
 
-:::indent
+::: indent
 Perf. IV ⟪जग्लौ⟫  
 Fut. ⟪ग्लास्यति⟫  
 Pass. ⟪ग्लायते⟫  
@@ -177,7 +187,7 @@ Absol. -⟪ग्लाय⟫
 :::
 ⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : to smell something
 
-:::indent
+::: indent
 Perf. IV ⟪जघ्रौ⟫  
 Fut. ⟪घ्रास्यति⟫  
 Pass. ⟪घ्रायते⟫  
@@ -190,7 +200,7 @@ Absol. -⟪घ्राय⟫
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : to rejoice
 
-:::indent
+::: indent
 Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
 Fut. ⟪प्रेष्यति⟫  
 Pass. ⟪प्रीयते⟫  
@@ -200,7 +210,7 @@ Inf. ⟪प्रेतुम्⟫
 :::
 ⟪स्पृश्⟫ 6P ⟪स्पृशति⟫ : to touch
 
-:::indent
+::: indent
 Perf IIa ⟪पस्पर्श⟫, ⟪पस्पृशुर्⟫  
 Fut. ⟪स्पर्क्ष्यति⟫ ⟪।⟫ ⟪स्प्रक्ष्यति⟫  
 Pass. ⟪स्पृश्यते⟫  
@@ -208,23 +218,25 @@ Kaus. ⟪स्पर्शयति⟫
 PPP ⟪स्पृष्ट⟫  
 Inf. ⟪स्पर्ष्तुम्⟫ ⟪।⟫ ⟪स्प्रष्तुम्⟫  
 Absol. -⟪स्पृश्य⟫
-::::::media
+:::: media
 ![](/images/lekt3606.webp)
 Fig.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
 (Image source: [Details](/en/licenses#lekt3606))
+::::
 :::
 ⟪हृष्⟫ 4P ⟪हृष्यति⟫ : to become stiff: to bristle (hair), to rejoice over (Instr., Acc., Loc.)
 
-:::indent
+::: indent
 Perf II ⟪जहर्ष⟫  
 Fut. ⟪हर्षिष्यति⟫  
 Pass. ⟪हृष्यते⟫  
 Kaus. ⟪हर्षयति⟫  
 PPP ⟪हृषित⟫
-::::::media
+:::: media
 ![](/images/lekt3604.webp)
 Fig.: ⟪लोमहर्षः⟫
 (Image source: [Details](/en/licenses#lekt3604))
+::::
 :::
 ⟪स्वक⟫ 3: own (my, your ...) ; m.: member
 
@@ -264,7 +276,7 @@ D) Translate:
 
 ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ ⟪।⟫ ⟪बुद्ध्यार्यसत्यानि⟫ ⟪प्रज्ञाय⟫ ⟪प्रज्ञया⟫ ⟪च⟫ ⟪दुःखान्मुक्तो⟫ ⟪मोक्तुकामार्यजनान्बोधयामासेति⟫ ⟪भिक्षव⟫ ⟪आहुः⟫ ⟪॥१॥⟫
 
-:::media
+::: media
 ![](/images/lekt3605.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫
 (Image source: [Details](/en/licenses#lekt3605))
@@ -392,7 +404,7 @@ Translate:
 
 1\. ⟪महाभारत⟫ ⟪१३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫
 
-:::indent
+::: indent
 ⟪येन⟫ ⟪प्रीणति⟫ ***⟪पितरं⟫***
 ⟪तेन⟫ ⟪प्रीतः⟫ ⟪प्रजापतिः⟫ ⟪।⟫
 ⟪प्रीणति⟫ ***⟪मातरं⟫*** ⟪येन⟫
@@ -417,20 +429,21 @@ Explanations:
 ⟪त्रयस्⟫ : Nom. pl. masc. of ⟪त्रि⟫ "three"
 
 ⟪सर्वास्⟫ : Nom./Acc. pl. fem. of ⟪सर्व⟫ "all, every"
-::::::media
+:::: media
 ![](/images/lekt3607.webp)
 Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#lekt3607))
+::::
 :::
 2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ on the proper conduct towards the elderly:
 
-:::indent
+::: indent
 ⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫
 ⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫
 :::
 3\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫: Who is a ⟪जितेन्द्रिय⟫:
 
-:::indent
+::: indent
 ⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫
 ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ***⟪विज्ञेयो⟫*** ⟪जितेन्द्रियः⟫ ⟪॥⟫
 
@@ -438,7 +451,7 @@ Explanation: ⟪विज्ञेय⟫ ⟪३⟫: one who is to be recognized;
 :::
 4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ on the proper conduct of a Brahmin:
 
-:::indent
+::: indent
 ⟪नापृष्टः⟫ ⟪कस्यचिद्ब्रूयान्न⟫ ⟪चान्यायेन⟫ ⟪पृच्छतः⟫ ⟪।⟫
 ⟪जानन्नपि⟫ ⟪हि⟫ ⟪मेधावी⟫ ⟪जडवल्लोक⟫ ⟪आचरेत्⟫ ⟪॥⟫
 
@@ -495,7 +508,7 @@ Determine and translate the following word forms in all possible ways:
 39.  ⟪अपिपः⟫
 40.  ⟪अपिबत्⟫
 
-:::deleteme-box
+::: deleteme-box
 
 - **lekt3601.jpg**: Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫  Udaipur = ⟪उदयपुर⟫ [Image source: whitecat singapore. --  http://www.flickr.com/photos/whitecatsg/2530543213/. -- Accessed on  2008-12-28. --   Creative  Commons License (Attribution, non-commercial use)]
 - **lekt3602.jpg**: Fig.: ⟪अगारम्⟫ Shekawati = ⟪शेखावाटी⟫ [Image source: bartvanpoll. --  http://www.flickr.com/photos/bartvanpoll/1151647344/. -- Accessed on  2008-12-28. --   Creative  Commons License (Attribution, share alike)]

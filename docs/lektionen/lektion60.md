@@ -23,7 +23,7 @@ status: stable
 
 ⟪बन्ध्⟫ 9P "binden"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ |
@@ -32,7 +32,7 @@ status: stable
 :::
 ⟪भाष्⟫ 1Ā "sprechen"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बभाषिवहे⟫ |
@@ -43,7 +43,7 @@ status: stable
 
 ⟪भिद्⟫ 7U "spalten"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बिभिदिव⟫ | ⟪बिभिदिवहे⟫ |
@@ -56,7 +56,7 @@ status: stable
 
 ⟪नी⟫ 1U "führen"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪निन्यिव⟫ | ⟪निन्यिवहे⟫ |
@@ -65,7 +65,7 @@ status: stable
 :::
 ⟪स्तु⟫ 2U (⟪अनिट्⟫) "loben"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुष्टुव⟫ | ⟪तुष्तुवहे⟫ |
@@ -74,7 +74,7 @@ status: stable
 :::
 ⟪कृ⟫ 8U (⟪अनिट्⟫) "tun, machen"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
@@ -85,7 +85,7 @@ status: stable
 
 ⟪स्मृ⟫ 1P "vergegenwärtigen"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
@@ -96,7 +96,7 @@ status: stable
 
 ⟪दा⟫ 3U "geben"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪ददिव⟫ | ⟪ददिवहे⟫ |
@@ -111,7 +111,7 @@ status: stable
 
 ⟪गम्⟫ 1U "gehen"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
@@ -122,7 +122,7 @@ status: stable
 
 ⟪पच्⟫ 1U "garen"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
@@ -133,7 +133,7 @@ status: stable
 
 ⟪क्रम्⟫ 1U "schreiten"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
@@ -144,8 +144,8 @@ status: stable
 
 ⟪गण्⟫ 10P "zählen"
 
-:::grammar-box
-|   | **⟪परस्मैपदम्⟫** |
+::: grammar-box
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
@@ -153,8 +153,8 @@ status: stable
 :::
 ⟪आस्⟫ 2Ā "sitzen"
 
-:::grammar-box
-|   | **⟪आत्मनेपदम्⟫** |
+::: grammar-box
+|   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
@@ -162,7 +162,7 @@ status: stable
 :::
 ## 60.4. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
 **schwacher Perfektstamm + vāṃs**
@@ -178,7 +178,7 @@ Beispiele:
 | ⟪पच्⟫ 1U | ⟪पेचिवांस्⟫ "jemand, der gegart hat" |
 | ⟪गम्⟫ 1U | ⟪जग्मिवांस्⟫ / ⟪जगन्वांस्⟫ "jemand, der gegangen ist" |
 
-:::grammar-box
+::: grammar-box
 **Deklination:**
 
 *   **starker Stamm: -vāṃs**
@@ -196,21 +196,23 @@ Beispiel: ⟪विदुषी⟫ "eine Wissende"
 :::
 Paradigmen siehe Kielhorn, Grammatik § 124:
 
-:::media
+::: media
 ![](/images/lekt6001.webp)
 (Bildquelle: [Details](/licenses#lekt6001))
-::::::media
+:::
+
+::: media
 ![](/images/lekt6002.webp)
 (Bildquelle: [Details](/licenses#lekt6002))
 :::
 ## 60.5. Deklination der Stämme auf -añc (-ac)
 
-:::grammar-box
+::: grammar-box
 **Die Stämme auf -añc/-ac sind Verbindungen von Präverbien usw. mit dem Wurzelnomen der Wurzel ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "sich bewegen".**
 :::
 ### 60.5.1. Dreistämmige Stämme auf -añc
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
 *   **starker Stamm: -añc**
@@ -232,10 +234,12 @@ Beispiel: ⟪प्रतीची⟫
 :::
 ####  Paradigmen siehe Kielhorn, Grammatik § 128:
 
-:::media
+::: media
 ![](/images/lekt6003.webp)
 (Bildquelle: [Details](/licenses#lekt6003))
-::::::media
+:::
+
+::: media
 ![](/images/lekt6004.webp)
 (Bildquelle: [Details](/licenses#lekt6004))
 :::
@@ -258,7 +262,7 @@ Hierher gehören:
 
 ### 60.5.2. Zweistämmige Stämme auf -añc
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 
 *   **starker Stamm: -añc**
@@ -282,8 +286,8 @@ Die Haupthimmelsrichtungen
 
 ## 60.6. Das Desiderativum (⟪सन्⟫)
 
-:::grammar-box
-**Von jeder Wurzel sowie vom Kausativum kann ein Desiderativum (⟪सन्⟫) gebildet werden. Das Desiderativum kann in allen Zeiten und Modi des P, Ā und Passiv konjugiert werde. Desiderativformen außerhalb des Präsensstamms sind aber sehr selten.**
+::: grammar-box
+**Von jeder Wurzel sowie vom Kausativum kann ein Desiderativum (⟪सन्⟫) gebildet werden. Das Desiderativum kann in allen Zeiten und Modi des P, Ā und Passiv konjugiert werde. Desiderativformen ausserhalb des Präsensstamms sind aber sehr selten.**
 
 **Bedeutung:**
 
@@ -300,7 +304,7 @@ Die Haupthimmelsrichtungen
 
 ### 60.6.1. Bildung des Desiderativstammes
 
-:::grammar-box
+::: grammar-box
 **Wurzeln der Präsensklassen 1 - 9:**
 
 **reduplizierte Wurzel + sa**
@@ -314,19 +318,20 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
 **Wurzeln der 10. Präsensklasse und Kausative:**
 
 **reduplizierter Präsensstamm + i + ṣa**
-::::::grammar-box
+:::
+::: grammar-box
 **Gestalt der Wurzel:**
 
 1.  Die Wurzel ist meist tiefstufig: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
      
     1.  auslautendes -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:  
-        ⟪जि⟫ » ⟪जि⟫***⟪गी⟫***⟪ष⟫- "zu siegen wünschen"  
-        ⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- "zu laufen wünschen"  
+        ⟪जि⟫ » ⟪जि⟫sig[⟪गी⟫]⟪ष⟫- "zu siegen wünschen"  
+        ⟪द्रु⟫ » ⟪दु⟫sig[⟪द्रू⟫]⟪ष⟫- "zu laufen wünschen"  
          
     2.  auslautendes -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:  
-        ⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- "zu tun wünschen"  
-        ⟪मृ⟫ » ⟪मु⟫***⟪मूर्ष⟫***\- "im Begriff sein, zu sterben"  
-        ⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "zu füllen wünschen"  
+        ⟪कृ⟫ » ⟪चि⟫sig[⟪कीर्ष⟫]\- "zu tun wünschen"  
+        ⟪मृ⟫ » ⟪मु⟫sig[⟪मूर्ष⟫]\- "im Begriff sein, zu sterben"  
+        ⟪पॄ⟫ » ⟪पु⟫sig[⟪पूर्ष⟫]\- "zu füllen wünschen"  
          
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ und einige andere Wurzeln auf -ā, -e, -o haben Tiefstufe Ø:  
         ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
@@ -346,11 +351,12 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
         1.  obligatorisch: Wurzeln der Form i/u - Konsonant sowie (Konsonant -) ṛ/ḷ - Konsonant:  
             ⟪इष्⟫ » ⟪एषिषिष⟫- "zu wünschen verlangen"  
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "passend zu sein wünschen"  
-            ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- "zu lächeln wünschen"  
+            ⟪स्मि⟫ » ⟪सि⟫sig[⟪स्म⟫]⟪यिष⟫- "zu lächeln wünschen"  
              
-        2.  wahlweise: Wurzeln der Form Konsonant - (Konsonant -) i/u - Konsonant außer -v\_  
+        2.  wahlweise: Wurzeln der Form Konsonant - (Konsonant -) i/u - Konsonant ausser -v\_  
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "aufzublitzen wünschen"
-::::::grammar-box
+:::
+::: grammar-box
 **Zur Reduplikation:**
 
 1.  Konsonantisch anlautende Wurzeln: Die Reduplikation erfolgt an den nach obigen Regeln veränderten Wurzeln nach den üblichen Regeln. Statt a als Reduplikationsvokal erschein aber i:  
@@ -366,57 +372,63 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
     ⟪ऋ⟫ » ⟪अरिरिष⟫-  
      
 3.  Die besondere Desiderativbildung bestimmter Wurzeln siehe bei Kielhorn, Grammatik § 451.
-::::::grammar-box
+:::
+::: grammar-box
 **Zu einigen Wurzeln werden Desiderative ohne desiderative Bedeutung gebildet. Zu diesen Desiderativen können Desiderative mit desiderativer Bedeutung gebildet werden.**
 :::
 Liste bei Kielhorn, Grammatik § 452:
 
-:::media
+::: media
 ![](/images/lekt6006.webp)
 (Bildquelle: [Details](/licenses#lekt6006))
 :::
 ### 60.6.2. Konjugation des Desiderativs (⟪सन्⟫)
 
-:::grammar-box
+::: grammar-box
 **Das Desiderativ ist - mit wenigen Ausnahmen - P, Ā bzw. U, je nachdem, ob die zugrundeliegende Wurzel (bzw. der zugrundeligende Verbalstamm) P, Ā oder U ist.**
 
 **Präsensstamm: Konjugation wie ein thematischer Stamm:**
 
 ⟪यज्⟫ 1U:
 
-:::indent
+:::
+::: indent
 P: ⟪यियक्षति⟫ "er wünscht, für jemand anderen zu opfern"
 Ā: ⟪यियक्षते⟫ "er wünscht, für sich selbst (als Opferherr) zu opfern"
 Passiv: ⟪यियक्ष्यते⟫ "es wird zu opfern gewünscht"
 :::
 **Perfekt: periphrastisch:**
 
-:::indent
+::: indent
 ⟪आप्⟫ » ⟪ईप्स⟫- » ⟪ईप्सां⟫ ⟪चकार⟫ "er wünschte zu erlangen"
 :::
 **Aorist: iṣ-Aorist:**
 
-:::indent
+::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
 **Futur: ⟪सेट्⟫**
 
-:::indent
+::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫
-::::::
+:::
 Zur Bildung von Nomina agentis auf -u aus dem Desiderativstamm siehe [Lektion 54](lektion54.md).
 
 ## 60.7. Übung
 
-A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmäßigen Desiderativbildungen zu bisher gelernten Verben:
+A) Lernen Sie in Kielhorn, Grammatik § 451 die unregelmässigen Desiderativbildungen zu bisher gelernten Verben:
 
-:::media
+::: media
 ![](/images/lekt6007.webp)
 (Bildquelle: [Details](/licenses#lekt6007))
-::::::media
+:::
+
+::: media
 ![](/images/lekt6008.webp)
 (Bildquelle: [Details](/licenses#lekt6008))
-::::::media
+:::
+
+::: media
 ![](/images/lekt6009.webp)
 (Bildquelle: [Details](/licenses#lekt6009))
 :::
@@ -525,3 +537,4 @@ B) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen:
 51.  ⟪अवाचः⟫
      
 52.  ⟪ईयुषे⟫
+

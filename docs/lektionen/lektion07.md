@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 7
 
-:::deleteme-box
+::: deleteme-box
 **In dieser Lektion lernen Sie:**
 - Den Verbalsatz mit direktem Objekt
 - Den Akkusativ der Nomina und Pronomina
@@ -17,14 +17,17 @@ status: stable
 - Das Neutrum der a-Stämme
 - Die athematischen Präsensklassen (am Beispiel der 5. Klasse)
 :::
-## Wochenspruch
 
+::: center
+**Wochenspruch**
 :::
-center
+
+
+::: center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
-⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ |
+⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
-⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ||
+⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ⟪||⟫
 
 **dharmo jayati nādharmaḥ**
 **satyaṃ jayati nānṛtam |**
@@ -36,11 +39,11 @@ Die Wahrheit siegt, nicht die Unwahrheit,
 Nachsicht siegt, nicht Zorn,
 Gott siegt, nicht der Widergott.
 :::
----
+
 
 ## 7.1. Der Verbalsatz mit direktem Objekt
 
-:::grammar-box
+::: grammar-box
 **Schema:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – direktes Objekt (karman n. = ⟪कर्मन्⟫) – Verb**
 
@@ -50,11 +53,10 @@ z.B.
 :::
 Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**karman** n. = ⟪कर्मन्⟫) im Allgemeinen im **Akkusativ** (Wenfall, dvitīyā f. = ⟪द्वितीया⟫).
 
----
 
 ## 7.2. Der Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
 
-:::grammar-box
+::: grammar-box
 **Endung des Akkusativ Singular Maskulinum und Femininum nach Vokal: -m**
 
 | Maskulina auf | Akkusativ Singular |
@@ -62,14 +64,13 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 | **-a**: deva | **devam** :br⟪देवम्⟫ |
 | **-i**: kavi | **kavim** :br⟪कविम्⟫ |
 | **-u**: guru | **gurum** :br⟪गुरुम्⟫ |
-
 | Feminina auf | Akkusativ Singular |
-| :--- | :--- |
 | **-ā**: devatā | **devatām** :br⟪देवताम्⟫ |
 | **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ |
 | **-ī**: devī | **devīm** :br⟪देवीम्⟫ |
 | **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ |
-::::::grammar-box
+:::
+::: grammar-box
 **Akkusativ Plural Maskulinum der Stämme auf Vokal (Ausnahme: einsilbige Wurzelstämme auf langen Vokal): Längung des auslautenden Vokals + -n**
 
 | Maskulina auf | Akkusativ Plural |
@@ -77,7 +78,8 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 | **-a**: deva | **devān** :br⟪देवान्⟫ |
 | **-i**: kavi | **kavīn** :br⟪कवीन्⟫ |
 | **-u**: guru | **gurūn** :br⟪गुरून्⟫ |
-::::::grammar-box
+:::
+::: grammar-box
 **Akkusativ Plural Femininum der Stämme auf Vokal (Ausnahme: einsilbige Wurzelstämme auf langen Vokal): Längung des auslautenden Vokals + -s**
 
 | Feminina auf | Akkusativ Plural |
@@ -87,12 +89,11 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 | **-ī**: devī | **devīs** :br⟪देवीस्⟫ |
 | **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
----
 
 ### 7.2.1. Akkusativ Singular und Plural der Frage- und Demonstrativpronomina
 
-:::grammar-box
-| | | Maskulinum | Femininum | Neutrum |
+::: grammar-box
+| || Maskulinum | Femininum | Neutrum |
 | :--- | :--- | :--- | :--- | :--- |
 | **kim** :brwer/was | sg. | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
 | | pl. | **kān** :br⟪कान्⟫ | **kās** :br⟪कास्⟫ | **kāni** :br⟪कानि⟫ |
@@ -106,11 +107,10 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 Die Formen **enam** (⟪एनम्⟫) usw. gehören zum Stamm **enad** (⟪एनद्⟫), der nur in einigen Kasus Formen bildet. Diese werden statt der Formen von **etad** und **idam** dann verwendet, wenn das damit Bezeichnete im Vorhergehenden bereits erwähnt wurde.
 z.B. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : "Er ist ein Gott. Man opfert ihm."
 
----
 
 ### 7.2.2. Gebrauch des Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
 
-:::grammar-box
+::: grammar-box
 Der Akkusativ (dvitīyā f. = ⟪द्वितीया⟫) bezeichnet:
 1. Im nicht-passiven Verbalsatz: das **direkte Objekt** (karman n. = ⟪कर्मन्⟫) der durch das Verb ausgedrückten Handlung:
    z.B.
@@ -122,11 +122,11 @@ Der Akkusativ (dvitīyā f. = ⟪द्वितीया⟫) bezeichnet:
 :::
 Weitere Verwendungen des Akkusativ werden später behandelt.
 
----
+
 
 ## 7.3. Sandhi von auslautendem -n
 
-:::grammar-box
+::: grammar-box
 **Auslautendes -n:**
 
 1. Wird vor stimmhaften palatalen und retroflexen sparśa und vor **ś-** durch den diesen Lauten entsprechenden Nasal ersetzt:
@@ -136,7 +136,7 @@ Weitere Verwendungen des Akkusativ werden später behandelt.
    Anlautendes **ś-** wird dann meist durch **ch-** ersetzt:
    **gurūn + śṛṇoti** » **gurūñ chṛṇoti** (neben gurūñ śṛṇoti) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : "Er hört die Lehrer." "Er hört auf die Lehrer."
 
-2. Wird vor anlautendem **l-** durch **-l** mit Anunāsika (nasaliertes l, in der Schrift **⟪ल्⟫** mit Anunāsika **⟪ँ⟫**) ersetzt:
+2. Wird vor anlautendem **l-** durch **-l** mit Anunāsika (nasaliertes l, in der Schrift ⟪ल्⟫ mit Anunāsika ⟪ँ⟫) ersetzt:
    z.B. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Er erhält Nutztiere."
 
 3. Wird vor anlautendem stimmlosen Palatal, Retroflex oder Dental durch **Anusvāra** + dem diesen Lauten entsprechenden Zischlaut ersetzt:
@@ -146,30 +146,28 @@ Weitere Verwendungen des Akkusativ werden später behandelt.
    z.B. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : "und die Götter (Akk.)"
    **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : "aber die Götter (Akk.)"
 
-4. Außer nach kurzem Vokal (siehe später) bleibt auslautendes **-n** in allen übrigen Fällen unverändert.
+4. Ausser nach kurzem Vokal (siehe später) bleibt auslautendes **-n** in allen übrigen Fällen unverändert.
 :::
----
 
 ## 7.4. Das Neutrum (napuṃsaka n. = ⟪नपुंसक⟫)
 
-:::grammar-box
+::: grammar-box
 **Im Neutrum sind die Formen für Nominativ (prathamā) und Akkusativ (dvitīyā) identisch.**
 :::
 ### 7.4.1. Neutrum der Stämme auf -a
 
-:::grammar-box
+::: grammar-box
 - **Endung Nominativ / Akkusativ Singular: -m**
   z.B. **phala** n. = ⟪फल⟫ = "Frucht": Nom. / Akk. sg. **phalam** = ⟪फलम्⟫
 - **Endung Nominativ / Akkusativ Plural: -āni**
   z.B. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
 :::
----
 
 ## 7.5. Athematische Präsensklassen
 
 Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h. der Präsensstamm lautet nicht wie bei den thematischen Präsensklassen (1., 4., 6., 10. Klasse) auf den "Themavokal" **-a** aus.
 
-:::grammar-box
+::: grammar-box
 **Die athematischen Präsensklassen haben Stammabstufung, d.h. es gibt zwei Formen des Präsensstamms:**
 1. **starker Stamm**: hochstufig (selten dehnstufig)
 2. **schwacher Stamm**: tiefstufig
@@ -183,14 +181,14 @@ Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h.
 :::
 ### 7.5.1. Primärendungen der 3. Person Plural bei athematischen Stämmen
 
-:::grammar-box
+::: grammar-box
 **Bei athematischen Präsensstämmen lauten die Primärendungen der 3. Person Plural:**
 - **Parasmaipada: -anti**
 - **Ātmanepada: -ate**
 :::
 ### 7.5.2. Die 5. Präsensklasse (svādi = ⟪स्वादि⟫ = "su usw.")
 
-:::grammar-box
+::: grammar-box
 - **Starker Stamm**: (meist) tiefstufige Wurzel (wie angeführt) + **-no-**
 - **Schwacher Stamm**: (meist) tiefstufige Wurzel (wie angeführt) + **-nu-**
 
@@ -205,7 +203,6 @@ Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h.
 | **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
 | **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
----
 
 ## 7.6. Wortliste
 
@@ -219,7 +216,7 @@ Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h.
 - **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis)
 - **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : auspressen
 - **soma** m. ⟪सोम⟫ : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten).
-:::media
+::: media
 ![](/images/lekt0701.webp)
 Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) Lam.
 (Bildquelle: [Details](/licenses#lekt0701))
@@ -233,7 +230,6 @@ Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) La
 
 
 
----
 
 ## 7.7. Übung
 
@@ -242,7 +238,7 @@ Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) La
 1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
    ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
 
-:::media
+::: media
 ![](/images/lekt0704.webp)
 Abb.: Viṣṇu = ⟪विष्णु⟫, 8./9. Jahrhundert.
 (Bildquelle: [Details](/licenses#lekt0704))
@@ -282,7 +278,7 @@ Abb.: Viṣṇu = ⟪विष्णु⟫, 8./9. Jahrhundert.
 4. yajati.
    ⟪यजति⟫ |
 
-:::media
+::: media
 ![](/images/lekt0702.webp)
 Abb.: **yajati** = ⟪यजति⟫ — Vedisches Opfer = **yajña** m. = ⟪यज्ञ⟫
 (Bildquelle: [Details](/licenses#lekt0702))
@@ -303,7 +299,7 @@ Abb.: **yajati** = ⟪यजति⟫ — Vedisches Opfer = **yajña** m. = ⟪�
    ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
 8. Welchem Gott opfert dieser Brahmane?
 
-:::media
+::: media
 ![](/images/lekt0703.webp)
 Abb.: Welchem Gott opfert man hier? Antwort: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
 (Bildquelle: [Details](/licenses#lekt0703))
@@ -311,3 +307,4 @@ Abb.: Welchem Gott opfert man hier? Antwort: Gaṇeśa (Gaṇapati) = ⟪गण�
 9. Was kaut dieser heilige Mann?
 10. Was pressen diese (hier) aus?
 11. Er ist der Lehrer. Auf ihn hört man (= hören sie).
+

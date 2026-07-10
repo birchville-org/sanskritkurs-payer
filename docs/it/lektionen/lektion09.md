@@ -1,41 +1,36 @@
 ---
-title: Lezione 9
-subtitle: "Samāhāradvandva e suffissi nominali -ka/-aka"
+title: Lektion 9
+subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
 lesson_id: 9
-category: "Grammatica"
-status: "stabile"
+category: "Grammatik"
+status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
 # Lezione 9
 
-:::deleteme-box
+::: deleteme-box
 **In questa lezione imparerete:**
 - Il Samāhāradvandva ("dvandva di riassunto")
 - La formazione di stemmi nominali con i suffissi **-ka** (taddhita) e **-aka** (kṛt)
 - Vocabolario relativo a professioni e ruoli sociali
 - Citazioni da testi classici del Dharma (Dharmaśāstras)
 :::
----
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Riepilogo dvandva")
 
-:::grammar-box
+::: grammar-box
 **Quando un dvandva esprime che una serie di cose, ecc., formano un'unità, esso è generalmente al singolare neutro:**
 
 ad es. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ non significa semplicemente "assunzione di cibo (**āhāra** m.), sonno (**nidrā** f.), accoppiamento (**maithuna** n.) e paura (**bhaya** n.)", ma queste quattro come **unità**, che caratterizza la vita animale.
 :::
 Oltre a questa regola fondamentale per la formazione dei Samāhāradvandvas, vi sono altre regole che si trovano in Pāṇini 2,4,2-17 o ad es. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. Nei vari stadi dello sviluppo linguistico non sono state sempre rispettate le stesse regole!
 
----
-
 ## 9.2. Sulla formazione dei temi nominali
-
----
 
 ### 9.2.1. -ka (taddhita)
 
-:::grammar-box
+::: grammar-box
 **Il suffisso taddhita -ka forma tra l'altro:**
 
 1\. **Diminutivi (forme di diminuzione come il tedesco -chen, -lein, -li, -le):**
@@ -51,11 +46,10 @@ Oltre a questa regola fondamentale per la formazione dei Samāhāradvandvas, vi 
    **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "nativo di Benares, originario di Benares"**
    **rūpa n. "forma" » rūpaka 3 ⟪रूपक⟫ "che possiede la forma di qualcosa"**
 :::
----
 
 ### 9.2.2. -aka (kṛt), fem. spesso -ikā
 
-:::grammar-box
+::: grammar-box
 **Il suffisso kṛt -aka, con femminile spesso -ikā, forma nomi agentivi (nomi che esprimono l'agente) da ogni radice.**
 
 Una vocale finale della radice, nonché **-a-** nella penultima posizione della radice, vengono sostituite dal loro grado allungato (**vṛddhi**) (vi sono alcune eccezioni), le altre vocali vengono sostituite dal loro grado rafforzato (**guṇa**).
@@ -64,14 +58,14 @@ Una vocale finale della radice, nonché **-a-** nella penultima posizione della 
 
 | Radice:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Significato |
 | :--- | :--- | :--- |
-| **kṛ**:br8 U:br⟪कृ⟫:br"fare" | **kāraka**:br(⟪कारक⟫) | "Becchettatore, facente" |
-| **śru**:br5 P:br⟪श्रु⟫:br"sentire" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Ascoltatore, discepolo,:brbuddh.: seguace del Buddha" |
-| **nī**:br1 U:br⟪नी⟫:br"guidare" | **nāyaka** m.:br(⟪नायक⟫) /:br**nāyikā** f.:br(⟪नायिका⟫) | "Guida, signore, marito,:bramante / amata, dama" |
-| **yaj**:br1 U:br⟪यज्⟫:br"sacrificare" | **yājaka** m.:br(⟪याजक⟫) | "Sacrificatore, sacerdote sacrificale" |
-| **nṛt**:br4 P:br⟪नृत्⟫:br"ballare" | **nartaka** m.:br(⟪नर्तक⟫) /:br**nartakī** f.:br(⟪नर्तकी⟫) | "Ballatore / Ballerina" |
-| **ji**:br1 P:br⟪जि⟫:br"vincere" | **jayaka** 3:br(⟪जयक⟫) | "vincente" |
+| **kṛ** :br8 U:br⟪कृ⟫:br"machen" | **kāraka** :br(⟪कारक⟫) | "Becchettatore, facente" |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Ascoltatore, discepolo,:brbuddh.: seguace del Buddha" |
+| **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Guida, signore, marito,:bramante / amata, dama" |
+| **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Sacrificatore, sacerdote sacrificale" |
+| **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Ballatore / Ballerina" |
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "vincente" |
 
-:::grammar-box
+::: grammar-box
 **Alcune di queste formazioni hanno il significato più ristretto: "colui che compie abitualmente o come obbligo o bene ciò espresso dalla radice".**
 :::
 vedere sopra ad es. **śrāvaka**, **yājaka**, **jayaka**
@@ -80,13 +74,11 @@ vedere sopra ad es. **śrāvaka**, **yājaka**, **jayaka**
 
 | Radice:br⟪धातु⟫ | + -aka (kṛt) | Significato |
 | :--- | :--- | :--- |
-| **kṛṣ**:br6 U:br⟪कृष्⟫:br"arare" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Agricoltore":br(grado ridotto!) |
-| **kliś**:br9 P:br⟪क्लिशु⟫:br"tormentare" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Torturatore" |
-| **khād**:br1 P:br⟪खाद्⟫:br"masticare, mangiare" | **khādaka** m.:br(⟪खादक⟫) | "Mangiatore, divoratore" |
+| **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Agricoltore":br(grado ridotto!) |
+| **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Torturatore" |
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Mangiatore, divoratore" |
 
 Inoltre vi sono alcuni usi meno importanti del suffisso **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff.
-
----
 
 ## 9.3. Elenco di parole
 
@@ -94,14 +86,14 @@ Inoltre vi sono alcuni usi meno importanti del suffisso **-aka**. Vgl. Wackernag
 
 - **adhyayana** n. (⟪अध्ययन⟫) : Studio, in particolare studio dei Veda
 
-:::media
+::: media
 ![](/images/lekt0903.webp)
 Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram presso Madurai.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0903))
 :::
 - **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Artigiano
 
-:::media
+::: media
 ![](/images/lekt0902.webp)
 Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0902))
@@ -122,8 +114,6 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 - **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Commercio
 - **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Obbedienza, servizio obbediente
 
----
-
 ## 9.4. Esercizio
 
 **A) Cercate di determinare i possibili significati delle seguenti parole:**
@@ -135,7 +125,7 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 6\. **rakṣikā** ⟪रक्षिका⟫
 7\. **karṣaka** ⟪कर्षक⟫
 
-:::media
+::: media
 ![](/images/lekt0901.webp)
 Fig.: **karṣaka** = ⟪कर्षक⟫.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt0901))

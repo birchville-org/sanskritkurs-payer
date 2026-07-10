@@ -10,61 +10,61 @@ last_reconstructed: 2026-05-15
 
 A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Infinitiv unter Beachtung der Lautveränderungen zu:
 
-1.  ⟪आप्⟫ — **⟪आप्तुम्⟫**
-2.  ⟪इ⟫ — **⟪एतुम्⟫**
-3.  ⟪गम्⟫ — **⟪गन्तुम्⟫**
-4.  ⟪कृ⟫ — **⟪कर्तुम्⟫**
-5.  ⟪क्रुध्⟫ — **⟪क्रोद्धुम्⟫**
-6.  ⟪जि⟫ — **⟪जेतुम्⟫**
-7.  ⟪दुह्⟫ — **⟪दोग्धुम्⟫**
-8.  ⟪दिश्⟫ — **⟪देष्टुम्⟫**
-9.  ⟪दह्⟫ — **⟪दग्धुम्⟫**
-10.  ⟪सृज्⟫ — **⟪स्रष्टुम्⟫**
-11.  ⟪द्विष्⟫ — **⟪द्वेष्टुम्⟫**
-12.  ⟪नी⟫ — **⟪नेतुम्⟫**
-13.  ⟪पद्⟫ — **⟪पत्तुम्⟫**
-14.  ⟪पा⟫ ⟪१⟫ — **⟪पातुम्⟫**
-15.  ⟪पा⟫ ⟪२⟫ — **⟪पातुम्⟫**
-16.  ⟪भज्⟫ — **⟪भक्तुम्⟫**
-17.  ⟪कृष्⟫ — **⟪कर्ष्टुम्⟫** / **⟪क्रष्टुम्⟫**
-18.  ⟪सु⟫ — **⟪सोतुम्⟫**
-19.  ⟪मन्⟫ — **⟪मन्तुम्⟫**
-20.  ⟪मुच्⟫ — **⟪मोक्तुम्⟫**
-21.  ⟪मृ⟫ — **⟪मर्तुम्⟫**
-22.  ⟪यज्⟫ — **⟪यष्टुम्⟫**
-23.  ⟪युध्⟫ — **⟪योद्धुम्⟫**
-24.  ⟪वच्⟫ — **⟪वक्तुम्⟫**
-25.  ⟪विश्⟫ — **⟪वेष्टुम्⟫**
-26.  ⟪श्रु⟫ — **⟪श्रोतुम्⟫**
-27.  ⟪प्रच्छ्⟫ — **⟪प्रष्टुम्⟫**
-28.  ⟪सिच्⟫ — **⟪सेक्तुम्⟫**
-29.  ⟪स्तु⟫ — **⟪स्तोतुम्⟫**
-30.  ⟪स्था⟫ — **⟪स्थातुम्⟫**
-31.  ⟪स्मृ⟫ — **⟪स्मर्तुम्⟫**
-32.  ⟪हन्⟫ — **⟪हन्तुम्⟫**
-33.  ⟪लभ्⟫ — **⟪लब्धुम्⟫**
-34.  ⟪अद्⟫ — **⟪अत्तुम्⟫**
-35.  ⟪दृश्⟫ — **⟪द्रष्टुम्⟫**
-36.  ⟪पच्⟫ — **⟪पक्तुम्⟫**
-37.  ⟪सद्⟫ — **⟪सत्तुम्⟫**
+1.  ⟪आप्⟫ — ⟪आप्तुम्⟫
+2.  ⟪इ⟫ — ⟪एतुम्⟫
+3.  ⟪गम्⟫ — ⟪गन्तुम्⟫
+4.  ⟪कृ⟫ — ⟪कर्तुम्⟫
+5.  ⟪क्रुध्⟫ — ⟪क्रोद्धुम्⟫
+6.  ⟪जि⟫ — ⟪जेतुम्⟫
+7.  ⟪दुह्⟫ — ⟪दोग्धुम्⟫
+8.  ⟪दिश्⟫ — ⟪देष्टुम्⟫
+9.  ⟪दह्⟫ — ⟪दग्धुम्⟫
+10.  ⟪सृज्⟫ — ⟪स्रष्टुम्⟫
+11.  ⟪द्विष्⟫ — ⟪द्वेष्टुम्⟫
+12.  ⟪नी⟫ — ⟪नेतुम्⟫
+13.  ⟪पद्⟫ — ⟪पत्तुम्⟫
+14.  ⟪पा⟫ ⟪१⟫ — ⟪पातुम्⟫
+15.  ⟪पा⟫ ⟪२⟫ — ⟪पातुम्⟫
+16.  ⟪भज्⟫ — ⟪भक्तुम्⟫
+17.  ⟪कृष्⟫ — ⟪कर्ष्टुम्⟫ / ⟪क्रष्टुम्⟫
+18.  ⟪सु⟫ — ⟪सोतुम्⟫
+19.  ⟪मन्⟫ — ⟪मन्तुम्⟫
+20.  ⟪मुच्⟫ — ⟪मोक्तुम्⟫
+21.  ⟪मृ⟫ — ⟪मर्तुम्⟫
+22.  ⟪यज्⟫ — ⟪यष्टुम्⟫
+23.  ⟪युध्⟫ — ⟪योद्धुम्⟫
+24.  ⟪वच्⟫ — ⟪वक्तुम्⟫
+25.  ⟪विश्⟫ — ⟪वेष्टुम्⟫
+26.  ⟪श्रु⟫ — ⟪श्रोतुम्⟫
+27.  ⟪प्रच्छ्⟫ — ⟪प्रष्टुम्⟫
+28.  ⟪सिच्⟫ — ⟪सेक्तुम्⟫
+29.  ⟪स्तु⟫ — ⟪स्तोतुम्⟫
+30.  ⟪स्था⟫ — ⟪स्थातुम्⟫
+31.  ⟪स्मृ⟫ — ⟪स्मर्तुम्⟫
+32.  ⟪हन्⟫ — ⟪हन्तुम्⟫
+33.  ⟪लभ्⟫ — ⟪लब्धुम्⟫
+34.  ⟪अद्⟫ — ⟪अत्तुम्⟫
+35.  ⟪दृश्⟫ — ⟪द्रष्टुम्⟫
+36.  ⟪पच्⟫ — ⟪पक्तुम्⟫
+37.  ⟪सद्⟫ — ⟪सत्तुम्⟫
 
 B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infinitiv zu:
 
-1.  ⟪आस्⟫ — **⟪आसितुम्⟫**
-2.  ⟪नृत्⟫ — **⟪नर्तितुम्⟫**
-3.  ⟪रक्ष्⟫ — **⟪रक्षितुम्⟫**
-4.  ⟪रुद्⟫ — **⟪रोदितुम्⟫**
-5.  ⟪वद्⟫ — **⟪वदितुम्⟫**
-6.  ⟪वृत्⟫ — **⟪वर्तितुम्⟫**
-7.  ⟪कुप्⟫ — **⟪कोपितुम्⟫**
+1.  ⟪आस्⟫ — ⟪आसितुम्⟫
+2.  ⟪नृत्⟫ — ⟪नर्तितुम्⟫
+3.  ⟪रक्ष्⟫ — ⟪रक्षितुम्⟫
+4.  ⟪रुद्⟫ — ⟪रोदितुम्⟫
+5.  ⟪वद्⟫ — ⟪वदितुम्⟫
+6.  ⟪वृत्⟫ — ⟪वर्तितुम्⟫
+7.  ⟪कुप्⟫ — ⟪कोपितुम्⟫
 
 C) Folgende Wurzeln wahlweise mit oder ohne Bindevokal:
 
-1.  ⟪अश्⟫ — **⟪अशितुम्⟫** / **⟪अष्टुम्⟫**
-2.  ⟪इष्⟫ — **⟪एष्टुम्⟫** / **⟪एषितुम्⟫**
-3.  ⟪बुध्⟫ — **⟪बोधितुम्⟫** / **⟪बोद्धुम्⟫**
-4.  ⟪मुह्⟫ — **⟪मोहितुम्⟫** / **⟪मग्धुम्⟫** / **⟪मोढुम्⟫**
-5.  ⟪सह्⟫ — **⟪सहितुम्⟫** / **⟪सोढुम्⟫**
+1.  ⟪अश्⟫ — ⟪अशितुम्⟫ / ⟪अष्टुम्⟫
+2.  ⟪इष्⟫ — ⟪एष्टुम्⟫ / ⟪एषितुम्⟫
+3.  ⟪बुध्⟫ — ⟪बोधितुम्⟫ / ⟪बोद्धुम्⟫
+4.  ⟪मुह्⟫ — ⟪मोहितुम्⟫ / ⟪मग्धुम्⟫ / ⟪मोढुम्⟫
+5.  ⟪सह्⟫ — ⟪सहितुम्⟫ / ⟪सोढुम्⟫
 
 D) Übersetzen Sie und lösen Sie die Komposita auf:
 
@@ -95,7 +95,7 @@ Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfe
 
 ⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
 (⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)
-Weil sie über den Dharma hören wollte, ist die Brahmanin mit ihrem Sohn in die Großstadt gegangen, um den Meister zu treffen.
+Weil sie über den Dharma hören wollte, ist die Brahmanin mit ihrem Sohn in die Grossstadt gegangen, um den Meister zu treffen.
 
 ---
 
@@ -107,7 +107,7 @@ Weil sie über den Dharma hören wollte, ist die Brahmanin mit ihrem Sohn in die
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫  
 Essen, Schlafen, Furcht und Sex ist den Menschen mit dem Vieh gemein. Der hervorhebende Unterschied der Menschen liegt im Dharma. Ohne Dharma sind sie dem Vieh gleich.
 
-:::media
+::: media
 ![](/images/uebung035.webp)
 Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Bildquelle: [Details](/licenses#uebung035))
@@ -139,7 +139,7 @@ A) Übersetzen Sie ins Sanskrit:
 7\. Der "Stock" bewirkt Erwerb und sicheren Besitz von Philosophie, Veda und Ökonomie. Die Führung dieses Stocks ist Politik.
 **⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫**
 
-8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäß der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
+8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäss der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören.
 **⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫ ⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫ ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫ ⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥⟫**
 
 9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden.
@@ -157,7 +157,7 @@ A) Übersetzen Sie ins Sanskrit:
 13\. Wen erschlägt nicht ein Frauenkörper (⟪वपुस्⟫ n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten.
 **⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫ ⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫ ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫ ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫**
 
-B) Deklinieren Sie in allen Ihnen bekannten Kasus **⟪क्षत्रिया⟫** (f.):
+B) Deklinieren Sie in allen Ihnen bekannten Kasus ⟪क्षत्रिया⟫ (f.):
 
 | Kasus | Singular | Plural |
 | :--- | :--- | :--- |
@@ -168,8 +168,8 @@ B) Deklinieren Sie in allen Ihnen bekannten Kasus **⟪क्षत्रिय�
 
 C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben:
 
-:::grammar-box
-⟪१⟫. **⟪सह्⟫** (1Ā, ertragen)
+::: grammar-box
+⟪१⟫. ⟪सह्⟫ (1Ā, ertragen)
 
 | Form | Wert |
 | :--- | :--- |
@@ -180,7 +180,7 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 | Absolutiv 2 | -⟪सह्य⟫ |
 | Infinitiv | ⟪सोढुम्⟫ / ⟪सहितुम्⟫ |
 
-⟪२⟫. **⟪पा⟫** (trinken / hüten)
+⟪२⟫. ⟪पा⟫ (trinken / hüten)
 
 | Form | trinken (1P) | hüten (2P) |
 | :--- | :--- | :--- |
@@ -191,7 +191,7 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 | Absolutiv 2 | -⟪पाय⟫ | -⟪पाय⟫ |
 | Infinitiv | ⟪पातुम्⟫ | ⟪पातुम्⟫ |
 
-⟪३⟫. **⟪वच्⟫** (2P, sprechen)
+⟪३⟫. ⟪वच्⟫ (2P, sprechen)
 
 | Form | Wert |
 | :--- | :--- |
@@ -202,7 +202,7 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 | Absolutiv 2 | -⟪उच्य⟫ |
 | Infinitiv | ⟪वक्तुम्⟫ |
 
-⟪४⟫. **⟪हन्⟫** (2P, erschlagen)
+⟪४⟫. ⟪हन्⟫ (2P, erschlagen)
 
 | Form | Wert |
 | :--- | :--- |
@@ -212,8 +212,10 @@ C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. In
 | Absolutiv 1 | ⟪हत्वा⟫ |
 | Absolutiv 2 | -⟪हत्य⟫ |
 | Infinitiv | ⟪हन्तुम्⟫ |
-::::::media
+:::
+::: media
 ![](/images/uebung036.webp)
 Abb.: ⟪बालाः⟫ ⟪पिबन्ति⟫
 (Bildquelle: [Details](/licenses#uebung036))
 :::
+

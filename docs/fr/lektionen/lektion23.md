@@ -1,17 +1,17 @@
 ---
-title: Leçon 23
-subtitle: "L'infinitif (⟪तुमुन्⟫)"
+title: Lektion 23
+subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 23
+# Lektion 23
 
-## 23.1. L'infinitif (⟪तुमुन्⟫)
+## 23.1. Der Infinitiv (⟪तुमुन्⟫)
 
-:::grammar-box
+::: grammar-box
 **Si l'on souhaite exprimer en sanskrit qu'une action se produit en vue d'une autre action (« afin de »), on peut utiliser l'infinitif (⟪तुमुन्⟫) pour l'action en vue de laquelle elle se produit. L'infinitif désigne avant tout le but ou l'intention :**
 
 > ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = « Rāma est parti pour écouter le discours du maître. »
@@ -51,10 +51,10 @@ par exemple
 
 > ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = « celui dont le souhait est de parler ; celui qui souhaite parler ».
 :::
-## 23.2. Formation de l'infinitif (⟪तुमुन्⟫)
+## 23.2. Bildung des Infinitiv (⟪तुमुन्⟫)
 
-:::grammar-box
-**racine au degré plein + -tum**
+::: grammar-box
+**ou**
 
 **ou**
 
@@ -66,7 +66,7 @@ par exemple
 :::
 Exemples :
 
-:::indent
+::: indent
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
 :::
@@ -74,21 +74,21 @@ On ne peut pas établir de règles fixes concernant l'utilisation de la voyelle 
 
 Parmi les racines apprises jusqu'à présent, les infinitifs suivants méritent une attention particulière :
 
-:::indent
+::: indent
 ⟪गम्⟫ : ⟪गन्तुम्⟫
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
 -ra- comme degré plein de -ṛ- ont dans l'infinitif :
 
-:::indent
+::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
 Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
-## 23.3. L'infinitif (⟪तुमुन्⟫) des racines apprises jusqu'à présent
+## 23.3. L'infinitif (⟪तुमुन्⟫) pour les racines apprises jusqu'à présent
 
 ⟪अद्⟫ 2P ⟪अत्तुम्⟫  
 ⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
@@ -151,7 +151,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 ⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
 ⟪हन्⟫ 2P ⟪हन्तुम्⟫
 
-## 23.4. Liste de vocabulaire
+## 23.4. Wortliste
 
 ⟪समान⟫ ⟪३⟫ : égal
 
@@ -161,7 +161,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 
 ⟪विशेष⟫ m. : particularité, spécification, differentia specifica
 
-## 23.5. Exercice
+## 23.5. Übung
 
 A) Les racines suivantes forment l’infinitif sans voyelle de liaison -i-. Formez l’infinitif en tenant compte des modifications phonétiques suivantes :
 
@@ -229,7 +229,7 @@ D) Traduisez et résolvez les composés :
 
 ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt2303.webp)
 Fig. : ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 ทำบุญ = ⟪पुण्यकरणम्⟫, Thaïlande = ประเทศไทย
@@ -237,7 +237,7 @@ Fig. : ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 :::
 ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
-:::media
+::: media
 ![](/images/lekt2301.webp)
 Fig. : ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thaïlande = เชียงใหม่, ประเทศไทย
@@ -260,13 +260,13 @@ C) Traduisez le ⟪सुभाषितम्⟫ suivant
 
 Explication : ⟪हीन⟫ ⟪३⟫ : PPP de ⟪हा⟫ 3 : quitter ; ⟪धर्मे⟫ = locatif sg. "dans le ..."
 
-:::media
+::: media
 ![](/images/lekt2302.webp)
 Fig. : ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2302))
 :::
-## 23.6. Exercice de révision
+## 23.6. Wiederholungsübung
 
 Veuillez ne pas utiliser d'aides !
 
@@ -286,7 +286,7 @@ A) Traduisez en sanskrit :
 
 7\. Le "bâton" provient l'acquisition et la possession sûre de la philosophie, du Veda et de l'économie. La direction de ce bâton est la politique.
 
-:::media
+::: media
 ![](/images/lekt2304.jpg)
 Fig. : ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Premier ministre de l'Inde = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, depuis 2004
@@ -316,7 +316,7 @@ C) Donnez les formes de base (signification, classe de présent, mode, 3. sg. pr
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt2301 :** Chiang Mai, Thaïlande = เชียงใหม่, ประเทศไทย [Source de l'image : Wikipédia. Licence GNU FDL]
 

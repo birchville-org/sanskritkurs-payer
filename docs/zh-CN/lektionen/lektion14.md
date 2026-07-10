@@ -1,341 +1,337 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: 第14课
+subtitle: "通过名词表示的关系表达：属格（ṣaṣṭhī f. = ⟪षष्टी⟫ = 第六格词尾）"
 lesson_id: 14
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 14
 
-## 14.1. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)
+## 14.1. 表示由名词所指代之关系的表达：属格（ṣaṣṭhī f. = ⟪षष्टी⟫ = 第六格词尾）
 
-:::grammar-box
-Soll das Verhältnis des durch zwei Substantive ausgedrückten bezeichnet werden, verwendet man den Genetiv (ṣaṣṭhī f. "sechste Kasusendung"). Der Genetiv unterscheidet sich von allen übrigen Kasus dadurch, dass er -- mit wenigen Ausnahmen -- nicht zur näheren Bestimmung der durch das Verb ausgedrückten Handlung dient, sondern zum Ausdruck des Verhältnisses zwischen Personen oder Sachen, die durch Substantive bezeichnet werden. Häufig steht der Genetiv auf die Frage: Wessen? <!-- TODO: Fallback translation -->
+::: grammar-box
+如果要表达由两个名词表示的关系，则使用属格（ṣaṣṭhī f. “第六格词尾”）。属格与其他所有格的区别在于，它——除少数例外——不用于更精确地限定由动词表示的动作，而是用于表达由名词表示的人或事物之间的关系。属格经常回答以下问题：谁的？
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+示例：
 
-⟪कवेः⟫ ⟪पुत्रः⟫ "Des Dichters Sohn" <!-- TODO: Fallback translation -->
+⟪कवेः⟫ ⟪पुत्रः⟫ “诗人的儿子”
 
-⟪धनस्य⟫ ⟪लोभः⟫ "Gier nach Reichtum" <!-- TODO: Fallback translation -->
+⟪धनस्य⟫ ⟪लोभः⟫ “对财富的贪婪”
 
-⟪नगरस्यार्धम्⟫ "Die Hälfte der Stadt" <!-- TODO: Fallback translation -->
+⟪नगरस्यार्धम्⟫ “城市的一半”
 
-⟪रामस्य⟫ ⟪कृतम्⟫ "Die / Eine Tat Rāmas" <!-- TODO: Fallback translation -->
+⟪रामस्य⟫ ⟪कृतम्⟫ “罗摩的 / 一段事迹”
 
-:::grammar-box
-Die normale Wortstellung ist: <!-- TODO: Fallback translation -->
+::: grammar-box
+正常语序为：
 
-> **Bestimmendes Wort im Genetiv — Näher bestimmtes Substantiv in einem anderen Kasus** <!-- TODO: Fallback translation -->
+> **Genetiv 的限定词 — 其他格中被限定的名词**
 :::
-**Genetiv und PPP:** <!-- TODO: Fallback translation -->
+**属格与过去分词：**
 
-:::grammar-box
-Bei PPPs kann der Genetiv statt des Instrumentalis (tṛtīyā) für den Agens (kartṛ) stehen; In der Konstruktion mit dem Instrumentalis wird das PPP als passive Verbalform betrachtet (das im Instrumentalis Stehende bezeichnet den Agens), in der Konstruktion mit dem Genetiv wird das PPP als Substantiv bzw. Adjektiv betrachtet (das im Genetiv Stehende also nicht eigentlich als Agens). <!-- TODO: Fallback translation -->
+::: grammar-box
+在PPP中，属格（genetivus）可以代替工具格（tṛtīyā）来表示施事者（kartṛ）；在使用工具格的构造中，PPP被视为被动动词形式（工具格中的词表示施事者），而在使用属格的构造中，PPP被视为名词或形容词（因此属格中的词实际上不作为施事者）。
 
-Nach Pāṇini 2.3.67 steht beim PPP der Genetiv, wenn das PPP präsentische Bedeutung hat (siehe oben), der Instrumentalis, wenn das PPP Vergangenheitsbedeutung hat: <!-- TODO: Fallback translation -->
+根据帕尼尼 2.3.67，当派生过去分词（PPP）具有现在时意义时（见上文），其属格（Genetiv）适用；当派生过去分词（PPP）具有过去时意义时，其工具格（Instrumentalis）适用：
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Die von Rāma gewünschte Frucht = Die Frucht, die Rāma gegenwärtig wünscht" <!-- TODO: Fallback translation -->
->  <!-- TODO: Fallback translation -->
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Die Frucht, die Rāma gewünscht hat" <!-- TODO: Fallback translation -->
+> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ “罗摩所求之果 = 罗摩此刻所求之果”
+> 
+> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ “罗摩曾求之果”
 
-Selbstverständlich steht bei einem PPP Neutrum Singular, das als Verbalabstraktum - also als Substantiv - gebraucht wird, der Genetiv. <!-- TODO: Fallback translation -->
+自然，当PPP中性单数作为动词抽象名词（即作为名词）使用时，属格是必须的。
 :::
-## 14.2. Bildung der Genetivformen (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+## 14.2. 属格形式（ṣaṣṭhī f. = ⟪षष्ठी⟫）的构成
 
-Der Genetiv wird bei Verbalstämmen mit Stammabstufung vom schwachen Stamm gebildet. <!-- TODO: Fallback translation -->
+带词干交替的动词词干的属格由弱词干构成。
 
-**Genetiv von konsonantisch auslautenden Stämmen:** <!-- TODO: Fallback translation -->
+**Genetiv von konsonantisch auslautenden Stämmen:**
 
-::::grammar-box
+::: grammar-box
 
-Nach Konsonant sind die regelmäßigen Genetivendungen: <!-- TODO: Fallback translation -->
-* Singular: **-as** <!-- TODO: Fallback translation -->
-* Plural: **-ām** <!-- TODO: Fallback translation -->
-
-:::
-center
-
-| Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **guṇa-vant-** :br **⟪गुणवन्त्⟫** | **guṇa-vat-** :br **⟪गुणवत्⟫** | **guṇa-vat-as** :br **⟪गुणवतस्⟫** | **guṇa-vat-ām** :br **⟪गुणवताम्⟫** | <!-- TODO: Fallback translation -->
-| **paśu-mant-** :br **⟪पशुमन्त्⟫** | **paśu-mat-** :br **⟪पशुमत्⟫** | **paśu-mat-as** :br **⟪पशुमतस्⟫** | **paśu-mat-ām** :br **⟪पशुमताम्⟫** | <!-- TODO: Fallback translation -->
-
-::::::
-**Genetiv von vokalisch auslautenden Stämmen, außer einsilbigen Wurzelnomina und diphtongisch auslautenden Stämmen:** <!-- TODO: Fallback translation -->
-
-**Plural:** <!-- TODO: Fallback translation -->
-
-::::grammar-box
-
-Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet: <!-- TODO: Fallback translation -->
-
-> **-langer auslautender Vokal des Stammes + -nām** <!-- TODO: Fallback translation -->
+辅音后的标准属格词尾为：
+* 单数：**-as**
+* 复数：**-ām**
 
 :::
-center
+::: center
 
-| Nominalstamm | Genetiv Plural | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **deva** m.:br **⟪देव⟫** | **devā-nām** :br **⟪देवानाम्⟫** | <!-- TODO: Fallback translation -->
-| **phala** n.:br **⟪फल⟫** | **phalā-nām** :br **⟪फलानाम्⟫** | <!-- TODO: Fallback translation -->
-| **devatā** f.:br **⟪देवता⟫** | **devatā-nām** :br **⟪देवतानाम्⟫** | <!-- TODO: Fallback translation -->
-| **kavi** m.:br **⟪कवि⟫** | **kavī-nām** :br **⟪कवीनाम्⟫** | <!-- TODO: Fallback translation -->
-| **śruti** f.:br **⟪श्रुति⟫** | **śrutī-nām** :br **⟪श्रुतीनाम्⟫** | <!-- TODO: Fallback translation -->
-| **devī** f.:br **⟪देवी⟫** | **devī-nām** :br **⟪देवीनाम्⟫** | <!-- TODO: Fallback translation -->
-| **paśu** m.:br **⟪पशु⟫** | **paśū-nām** :br **⟪पशूनाम्⟫** | <!-- TODO: Fallback translation -->
-| **dhenu** f.:br **⟪धेनु⟫** | **dhenū-nām** :br **⟪धेनूनाम्⟫** | <!-- TODO: Fallback translation -->
-
-::::::
-**Genetiv Singular vokalisch auslautender Stämme:** <!-- TODO: Fallback translation -->
-
-::::grammar-box
-
-Der Genetiv Singular vokalisch auslautender Stämme wird unregelmäßig gebildet und ist gut auswendig zu lernen. <!-- TODO: Fallback translation -->
+| 名词词干 | 弱词干 | 单数属格 | 复数属格 |
+| :--- | :--- | :--- | :--- |
+| **guṇa-vant-** :br **⟪गुणवन्त्⟫** | **guṇa-vat-** :br **⟪गुणवत्⟫** | **guṇa-vat-as** :br **⟪गुणवतस्⟫** | **guṇa-vat-ām** :br **⟪गुणवताम्⟫** |
+| **paśu-mant-** :br **⟪पशुमन्त्⟫** | **paśu-mat-** :br **⟪पशुमत्⟫** | **paśu-mat-as** :br **⟪पशुमतस्⟫** | **paśu-mat-ām** :br **⟪पशुमताम्⟫** |
 
 :::
-center
+**阳性结尾词干的属格，除单音节词根名词和双元音结尾的词干外：**
 
-| Stamm | Genetiv Singular | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **deva** m.:br **⟪देव⟫** | **devasya** :br **⟪देवस्य⟫** | <!-- TODO: Fallback translation -->
-| **phala** n.:br **⟪फल⟫** | **phalasya** :br **⟪फलस्य⟫** | <!-- TODO: Fallback translation -->
-| **devatā** f.:br **⟪देवता⟫** | **devatāyās** :br **⟪देवतायास्⟫** | <!-- TODO: Fallback translation -->
-| **kavi** m.:br **⟪कवि⟫** | **kaves** :br **⟪कवेस्⟫** | <!-- TODO: Fallback translation -->
-| **paśu** m.:br **⟪पशु⟫** | **paśos** :br **⟪पशोस्⟫** | <!-- TODO: Fallback translation -->
-| **devī** f.:br **⟪देवी⟫** | **devyās** :br **⟪देव्यास्⟫** | <!-- TODO: Fallback translation -->
-| **śruti** f.:br **⟪श्रुति⟫** | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) | <!-- TODO: Fallback translation -->
-| **dhenu** f.:br **⟪धेनु⟫** | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | <!-- TODO: Fallback translation -->
+**Plural:**
 
-::::::
-**Fragepronomen und Demonstrativpronomen:** <!-- TODO: Fallback translation -->
+::: grammar-box
 
-::::grammar-box
+阳性以元音结尾的词干的复数属格按如下方式构成：
+
+> **-langer auslautender Vokal des Stammes + -nām**
 
 :::
-center
+::: center
 
-| | | kim | tad | etad | idam | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Maskulinum / Neutrum** | **Genetiv Singular** | kasya:br **⟪कस्य⟫** | tasya:br **⟪तस्य⟫** | etasya:br **⟪एतस्य⟫** | asya:br **⟪अस्य⟫** | <!-- TODO: Fallback translation -->
-| | **Genetiv Plural** | keṣām:br **⟪केषाम्⟫** | teṣām:br **⟪तेषाम्⟫** | eteṣām:br **⟪एतेषाम्⟫** | eṣām:br **⟪एषाम्⟫** | <!-- TODO: Fallback translation -->
-| **Femininum** | **Genetiv Singular** | kasyās:br **⟪कस्यास्⟫** | tasyās:br **⟪तस्यास्⟫** | etasyās:br **⟪एतस्यास्⟫** | asyās:br **⟪अस्यास्⟫** | <!-- TODO: Fallback translation -->
-| | **Genetiv Plural** | kāsām:br **⟪कासाम्⟫** | tāsām:br **⟪तासाम्⟫** | etāsām:br **⟪एतासाम्⟫** | āsām:br **⟪आसाम्⟫** | <!-- TODO: Fallback translation -->
-
-::::::
-**Formengleichheit:** <!-- TODO: Fallback translation -->
-
-:::
-important
-
-Bei allen Nominalstämmen mit Ausnahme der Maskulina und Neutra auf -a und den Pronomina ist die Form des Genetiv Singular identisch mit der Form des Ablativ (pañcamī "fünfte Kasusendung") Singular! <!-- TODO: Fallback translation -->
-
-Beachten Sie, dass bei konsonantisch auslautenden Stämmen Ablativ und Genetiv Singular gleich lauten wie der Akkusativ Plural Maskulinum und Femininum! <!-- TODO: Fallback translation -->
+| 名词词干 | 复数属格 |
+| :--- | :--- |
+| **deva** m.:br **⟪देव⟫** | **devā-nām** :br **⟪देवानाम्⟫** |
+| **phala** n.:br **⟪फल⟫** | **phalā-nām** :br **⟪फलानाम्⟫** |
+| **devatā** f.:br **⟪देवता⟫** | **devatā-nām** :br **⟪देवतानाम्⟫** |
+| **kavi** m.:br **⟪कवि⟫** | **kavī-nām** :br **⟪कवीनाम्⟫** |
+| **śruti** f.:br **⟪श्रुति⟫** | **śrutī-nām** :br **⟪श्रुतीनाम्⟫** |
+| **devī** f.:br **⟪देवी⟫** | **devī-nām** :br **⟪देवीनाम्⟫** |
+| **paśu** m.:br **⟪पशु⟫** | **paśū-nām** :br **⟪पशूनाम्⟫** |
+| **dhenu** f.:br **⟪धेनु⟫** | **dhenū-nām** :br **⟪धेनूनाम्⟫** |
 
 :::
-## 14.3. Weiteres zum Gebrauch des Genetiv (⟪षष्ठी⟫)
+**单数属格，以元音结尾的词干：**
 
-:::grammar-box
-Entgegen obiger Grundregel wird der Genetiv verwendet, um das Objekt einiger Verben auszudrücken, z.B. bei Verben des Gedenkens: <!-- TODO: Fallback translation -->
+::: grammar-box
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "Er gedenkt der Götter" <!-- TODO: Fallback translation -->
+词干以元音结尾的单数属格是不规则构成的，需要熟记。
 
-Bei all diesen Verben kann das Objekt aber auch im Akkusativ stehen: <!-- TODO: Fallback translation -->
-
-> ⟪देवान्स्मरति⟫ "Er gedenkt der Götter" <!-- TODO: Fallback translation -->
-
-Weiteres später. <!-- TODO: Fallback translation -->
 :::
-## 14.4. Wortliste
+::: center
 
-* **śīla n.** (⟪शील⟫) : (guter) Charakter, Sittlichkeit <!-- TODO: Fallback translation -->
-* **bhūṣ-aṇa n** (⟪भूषण⟫) : Schmuck <!-- TODO: Fallback translation -->
-* **dīpa m.** (⟪दीप⟫) : Lampe <!-- TODO: Fallback translation -->
+| 词干 | 单数属格 |
+| :--- | :--- |
+| **deva** m.:br **⟪देव⟫** | **devasya** :br **⟪देवस्य⟫** |
+| **phala** n.:br **⟪फल⟫** | **phalasya** :br **⟪फलस्य⟫** |
+| **devatā** f.:br **⟪देवता⟫** | **devatāyās** :br **⟪देवतायास्⟫** |
+| **kavi** m.:br **⟪कवि⟫** | **kaves** :br **⟪कवेस्⟫** |
+| **paśu** m.:br **⟪पशु⟫** | **paśos** :br **⟪पशोस्⟫** |
+| **devī** f.:br **⟪देवी⟫** | **devyās** :br **⟪देव्यास्⟫** |
+| **śruti** f.:br **⟪श्रुति⟫** | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br（即：要么像 kavi，要么像 devī） |
+| **dhenu** f.:br **⟪धेनु⟫** | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br（即：要么像 paśu，要么像多音节阴性名词以 -ū 结尾） |
 
-:::media
+:::
+**疑问代词和指示代词：**
+
+::: center
+
+| | | kim | tad | etad | idam |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **阳性 / 中性** | **属格单数** | kasya:br **⟪कस्य⟫** | tasya:br **⟪तस्य⟫** | etasya:br **⟪एतस्य⟫** | asya:br **⟪अस्य⟫** |
+| | **属格复数** | keṣām:br **⟪केषाम्⟫** | teṣām:br **⟪तेषाम्⟫** | eteṣām:br **⟪एतेषाम्⟫** | eṣām:br **⟪एषाम्⟫** |
+| **阴性** | **属格单数** | kasyās:br **⟪कस्यास्⟫** | tasyās:br **⟪तस्यास्⟫** | etasyās:br **⟪एतस्यास्⟫** | asyās:br **⟪अस्यास्⟫** |
+| | **属格复数** | kāsām:br **⟪कासाम्⟫** | tāsām:br **⟪तासाम्⟫** | etāsām:br **⟪एतासाम्⟫** | āsām:br **⟪आसाम्⟫** |
+
+:::
+**形式同一性：**
+
+::: important
+
+在所有名词词干中，除阳性与以 -a 结尾的中性名词以及代词外，属格单数形式与离格（pañcamī “第五格词尾”）单数形式相同！
+
+请注意，在以辅音结尾的词干中，离格和属格的单数形式与阳性和阴性名词的宾格复数形式发音相同！
+
+:::
+## 14.3. 关于属格用法的补充（⟪षष्ठी⟫）
+
+::: grammar-box
+与上述基本规则相反，属格用于表达某些动词的宾语，例如记忆类动词：
+
+> ⟪देवानां⟫ ⟪स्मरति⟫ “他忆念诸神”
+
+对于这些动词，宾语也可以以宾格形式出现：
+
+> ⟪देवान्स्मरति⟫ “他忆念诸神”
+
+后续内容稍后提供。
+:::
+## 14.4. 词汇表
+
+* **śīla n.** (⟪शील⟫) : (良好)品格，道德
+* **bhūṣ-aṇa n** (⟪भूषण⟫) : 装饰品
+* **dīpa m.** (⟪दीप⟫) : 灯
+
+::: media
 ![](/images/lekt1405.webp)
-Abb.: ⟪दीपाः⟫
-(Bildquelle: [Details](/licenses#lekt1405)) <!-- TODO: Fallback translation -->
+图：⟪दीपाः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt1405)）
 :::
-* **bala n.** (⟪बल⟫) : Gewalt, Kraft, Stärke; Heereskraft, Heerschar <!-- TODO: Fallback translation -->
-* **bāla 3** (⟪बाल⟫) : jung, kindlich, töricht; m. Knabe <!-- TODO: Fallback translation -->
-* **bālā f.** (⟪बाला⟫) : junges Mädchen <!-- TODO: Fallback translation -->
-* **nara m.** (⟪नर⟫) : Mann, Mensch <!-- TODO: Fallback translation -->
-* **śatru m.** (⟪शत्रु⟫) : Feind <!-- TODO: Fallback translation -->
-* **loka m.** (⟪लोक⟫) : Welt; Sing. u. Plur.: die Leute, die Menschen, das Volk <!-- TODO: Fallback translation -->
-* **jala n.** (⟪जल⟫) : Wasser <!-- TODO: Fallback translation -->
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : geboren werden, entstehen, auftreten <!-- TODO: Fallback translation -->
-  * **jan-a m.** (⟪जन⟫) : Geschöpf, Mensch, Leute <!-- TODO: Fallback translation -->
-* **vac 2 P** (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : sagen, sprechen zu (dvitīyā) <!-- TODO: Fallback translation -->
-  * **uk-ti f.** (⟪उक्ति⟫) : Ausspruch, Wort <!-- TODO: Fallback translation -->
-  * **vac-ana n.** (⟪वचन⟫) : das Sprechen, das Wort <!-- TODO: Fallback translation -->
-  * **vāk-ya n.** (⟪वाक्य⟫) : Wort, Rede <!-- TODO: Fallback translation -->
+* **bala n.** (⟪बल⟫) ：暴力，力量，强度；军队力量，大军
+* **bāla 3** (⟪बाल⟫) ：年轻，孩子气的，愚蠢的；阳性名词：男孩
+* **bālā f.** (⟪बाला⟫) ：年轻女孩
+* **nara m.** (⟪नर⟫) ：男人，人类
+* **śatru m.** (⟪शत्रु⟫) ：敌人
+* **loka m.** (⟪लोक⟫) ：世界；单数与复数：人们，人类，民众
+* **jala n.** (⟪जल⟫) ：水
+* **jan 4 Ā** (jāyate)，被动语态 janyate / jāyate，过去分词 jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) ：出生，产生，出现
+  * **jan-a m.** (⟪जन⟫) ：生物，人类，人们
+* **vac 2 P** (vakti，无第三人称复数！)，被动语态 ucyate，过去分词 ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) ：说，对（第二格）说话
+  * **uk-ti f.** (⟪उक्ति⟫) ：声明，话语
+  * **vac-ana n.** (⟪वचन⟫) ：说话，话语
+  * **vāk-ya n.** (⟪वाक्य⟫) ：话语，言论
 
 ## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Sprichwörter
 
-Übersetzen Sie folgende Sprichwörter und lernen Sie sie auswendig: <!-- TODO: Fallback translation -->
+翻译以下谚语并背诵：
 
-**⟪नीचो⟫ ⟪वद⟫ati ⟪न⟫ ⟪कुरुते⟫** **⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥१॥⟫** <!-- TODO: Fallback translation -->
+**⟪नीचो⟫ ⟪वद⟫超过 ⟪न⟫ ⟪कुरुते⟫** **⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥१॥⟫**
 
-**⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥२॥⟫** <!-- TODO: Fallback translation -->
+**⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥२॥⟫**
 
-**⟪सत्येन⟫ ⟪जनानां⟫ ⟪सुखं⟫ ⟪भवति⟫ ⟪॥३॥⟫** <!-- TODO: Fallback translation -->
+**⟪सत्येन⟫ ⟪जनानां⟫ ⟪सुखं⟫ ⟪भवति⟫ ⟪॥३॥⟫**
 
-**⟪पापा⟫ ⟪नराः⟫ ⟪स्वर्गं⟫ ⟪न⟫ ⟪लभन्ते⟫ ⟪॥४॥⟫** <!-- TODO: Fallback translation -->
+**⟪पापा⟫ ⟪नराः⟫ ⟪स्वर्गं⟫ ⟪न⟫ ⟪लभन्ते⟫ ⟪॥४॥⟫**
 
-**⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫** <!-- TODO: Fallback translation -->
+**⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫**
 
 ## 14.6. Übung
 
-**A) Bilden Sie den Genetiv Singular und Plural zu folgenden Wörtern. Geben Sie Bedeutung und Geschlecht der Wörter an:** <!-- TODO: Fallback translation -->
+**A) 构成以下单词的单数和复数属格。给出单词的意义和性别：**
 
-⟪१⟫. ⟪अनृत⟫ <!-- TODO: Fallback translation -->
+⟪१⟫。⟪अनृत⟫
 
-⟪२⟫. ⟪ऋषि⟫ <!-- TODO: Fallback translation -->
+⟪२⟫。⟪ऋषि⟫
 
-⟪३⟫. ⟪पाद⟫ <!-- TODO: Fallback translation -->
+⟪३⟫。⟪पाद⟫
 
-⟪४⟫. ⟪बुद्धि⟫ <!-- TODO: Fallback translation -->
+⟪४⟫。⟪बुद्धि⟫
 
-⟪५⟫. ⟪गुरु⟫ <!-- TODO: Fallback translation -->
+⟪५⟫。⟪गुरु⟫
 
-⟪६⟫. ⟪स्वर्ग⟫ <!-- TODO: Fallback translation -->
+⟪६⟫。⟪स्वर्ग⟫
 
-⟪७⟫. ⟪नगर⟫ <!-- TODO: Fallback translation -->
+⟪७⟫。⟪नगर⟫
 
-⟪८⟫. ⟪धेनु⟫ <!-- TODO: Fallback translation -->
+⟪८⟫。⟪धेनु⟫
 
-⟪९⟫. ⟪द्विज⟫ <!-- TODO: Fallback translation -->
+⟪९⟫。⟪द्विज⟫
 
-⟪१०⟫. ⟪मुक्ता⟫ <!-- TODO: Fallback translation -->
+⟪१०⟫。⟪मुक्ता⟫
 
-⟪११⟫. ⟪विद्या⟫ <!-- TODO: Fallback translation -->
+⟪११⟫。⟪विद्या⟫
 
-⟪१२⟫. ⟪वर्ण⟫ <!-- TODO: Fallback translation -->
+⟪१२⟫。⟪वर्ण⟫
 
-⟪१३⟫. ⟪द्विजाति⟫ <!-- TODO: Fallback translation -->
+⟪१३⟫。⟪द्विजाति⟫
 
-⟪१४⟫. ⟪रूप⟫ <!-- TODO: Fallback translation -->
+⟪१४⟫。⟪रूप⟫
 
-⟪१५⟫. ⟪प्रतिग्रह⟫ <!-- TODO: Fallback translation -->
+⟪१५⟫。⟪प्रतिग्रह⟫
 
-⟪१६⟫. ⟪सोढ⟫ <!-- TODO: Fallback translation -->
+⟪१६⟫。⟪सोढ⟫
 
-⟪१७⟫. ⟪नायिका⟫ <!-- TODO: Fallback translation -->
+⟪१७⟫。⟪नायिका⟫
 
-⟪१८⟫. ⟪साध्वी⟫ <!-- TODO: Fallback translation -->
+⟪१८⟫。⟪साध्वी⟫
 
-⟪१९⟫. ⟪अग्नि⟫ <!-- TODO: Fallback translation -->
+⟪१९⟫。⟪अग्नि⟫
 
-⟪२०⟫. ⟪वैश्या⟫ <!-- TODO: Fallback translation -->
+⟪२०⟫。⟪वैश्या⟫
 
-⟪२१⟫. ⟪लोक⟫ <!-- TODO: Fallback translation -->
+⟪२१⟫。⟪लोक⟫
 
-⟪२२⟫. ⟪उक्ति⟫ <!-- TODO: Fallback translation -->
+⟪२२⟫。⟪उक्ति⟫
 
-⟪२३⟫. ⟪शत्रु⟫ <!-- TODO: Fallback translation -->
+⟪२३⟫。⟪शत्रु⟫
 
-⟪२४⟫. ⟪सुखवन्त्⟫ <!-- TODO: Fallback translation -->
+⟪२४⟫。⟪सुखवन्त्⟫
 
-⟪२५⟫. ⟪पुत्रवती⟫ <!-- TODO: Fallback translation -->
+⟪२५⟫。⟪पुत्रवती⟫
 
-:::media
+::: media
 ![](/images/lekt1404.webp)
-Abb.: ⟪पुत्रवती⟫
-(Bildquelle: [Details](/licenses#lekt1404)) <!-- TODO: Fallback translation -->
+图：⟪पुत्रवती⟫
+（图片来源：[详情](/zh-CN/licenses#lekt1404)）
 :::
-⟪२६⟫. ⟪जल⟫ <!-- TODO: Fallback translation -->
+⟪२६⟫。⟪जल⟫
 
-⟪२७⟫. ⟪मार्ग⟫ <!-- TODO: Fallback translation -->
+⟪२७⟫。⟪मार्ग⟫
 
-⟪२८⟫. ⟪मोक्ष⟫ <!-- TODO: Fallback translation -->
+⟪२८⟫。⟪मोक्ष⟫
 
-⟪२९⟫. ⟪शूद्रा⟫ <!-- TODO: Fallback translation -->
+⟪२९⟫。⟪शूद्रा⟫
 
-⟪३०⟫. ⟪अन्न⟫ <!-- TODO: Fallback translation -->
+⟪३०⟫。⟪अन्न⟫
 
-⟪३१⟫. ⟪साधु⟫ <!-- TODO: Fallback translation -->
+⟪३१⟫。⟪साधु⟫
 
-⟪३२⟫. ⟪नीति⟫ <!-- TODO: Fallback translation -->
+⟪३२⟫。⟪नीति⟫
 
-⟪३३⟫. ⟪योध⟫ <!-- TODO: Fallback translation -->
+⟪३३⟫。⟪योध⟫
 
-⟪३४⟫. ⟪सत्यवन्त्⟫ <!-- TODO: Fallback translation -->
+⟪३४⟫。⟪सत्यवन्त्⟫
 
-⟪३५⟫. ⟪लाभ⟫ <!-- TODO: Fallback translation -->
+⟪३५⟫。⟪लाभ⟫
 
-⟪३६⟫. ⟪मोह⟫ <!-- TODO: Fallback translation -->
+⟪३६⟫。⟪मोह⟫
 
-⟪३७⟫. ⟪गति⟫ <!-- TODO: Fallback translation -->
+⟪३७⟫。⟪गति⟫
 
-⟪३८⟫. ⟪प्रश्न⟫ <!-- TODO: Fallback translation -->
+⟪३८⟫。⟪प्रश्न⟫
 
-⟪३९⟫. ⟪सृष्टि⟫ <!-- TODO: Fallback translation -->
+⟪३९⟫。⟪सृष्टि⟫
 
-⟪४०⟫. ⟪नेत्र⟫ <!-- TODO: Fallback translation -->
+⟪४०⟫。⟪नेत्र⟫
 
-⟪४१⟫. ⟪गुरुता⟫ <!-- TODO: Fallback translation -->
+⟪४१⟫。⟪गुरुता⟫
 
-⟪४२⟫. ⟪ईश्वर⟫ <!-- TODO: Fallback translation -->
+⟪४२⟫。⟪ईश्वर⟫
 
-⟪४३⟫. ⟪कारण⟫ <!-- TODO: Fallback translation -->
+⟪४३⟫。⟪कारण⟫
 
-⟪४४⟫. ⟪कृत⟫ <!-- TODO: Fallback translation -->
+⟪४४⟫。⟪कृत⟫
 
-⟪४५⟫. ⟪धर्मवन्त्⟫ <!-- TODO: Fallback translation -->
+⟪४५⟫。⟪धर्मवन्त्⟫
 
-⟪४६⟫. ⟪युद्ध⟫ <!-- TODO: Fallback translation -->
+⟪४६⟫。⟪युद्ध⟫
 
-⟪४७⟫. ⟪दर्शन⟫ <!-- TODO: Fallback translation -->
+⟪४७⟫。⟪दर्शन⟫
 
-⟪४८⟫. ⟪धातु⟫ <!-- TODO: Fallback translation -->
+⟪४८⟫。⟪धातु⟫
 
-⟪४९⟫. ⟪गूढा⟫ <!-- TODO: Fallback translation -->
+⟪४९⟫。⟪गूढा⟫
 
-⟪५०⟫. ⟪ईष्टा⟫ (2 Bedeutungen) <!-- TODO: Fallback translation -->
+⟪५०⟫. ⟪ईष्टा⟫ (2 Bedeutungen)
 
-⟪५१⟫. ⟪उदित⟫ <!-- TODO: Fallback translation -->
+⟪५१⟫。⟪उदित⟫
 
-⟪५२⟫. ⟪इदम्⟫ <!-- TODO: Fallback translation -->
+⟪५२⟫。⟪इदम्⟫
 
-⟪५३⟫. ⟪किम्⟫ <!-- TODO: Fallback translation -->
+⟪५३⟫。⟪किम्⟫
 
-:::media
+::: media
 ![](/images/lekt1403.webp)
-Abb.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt1403)) <!-- TODO: Fallback translation -->
+图：⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
+（图片来源：[详情](/zh-CN/licenses#lekt1403)）
 :::
-**B) Übersetzen Sie:** <!-- TODO: Fallback translation -->
+**B）翻译：**
 
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫（两种可能）
 
-⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪२⟫。⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
 
-⟪३⟫. ⟪बुद्धः⟫ ⟪सत्यस्य⟫ ⟪बुद्ध्या⟫ ⟪मुक्तः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪३⟫。⟪बुद्धः⟫ ⟪सत्यस्य⟫ ⟪बुद्ध्या⟫ ⟪मुक्तः⟫ ⟪।⟫
 
-⟪४⟫. ⟪अधर्मो⟫ ⟪ऽनृतस्य⟫ ⟪वदनमित्यृषयो⟫ ⟪वदन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪४⟫。⟪अधर्मो⟫ ⟪ऽनृतस्य⟫ ⟪वदनमित्यृषयो⟫ ⟪वदन्ति⟫ ⟪।⟫
 
-⟪५⟫. ⟪नरा⟫ ⟪देवानां⟫ ⟪यज्ञैर्न⟫ ⟪मुच्यन्ते⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪५⟫。⟪नरा⟫ ⟪देवानां⟫ ⟪यज्ञैर्न⟫ ⟪मुच्यन्ते⟫ ⟪।⟫
 
-⟪६⟫. ⟪बलवन्तः⟫ ⟪क्षत्रियाः⟫ ⟪शत्रूणां⟫ ⟪धनवन्ति⟫ ⟪नगराणि⟫ ⟪जयन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪६⟫。⟪बलवन्तः⟫ ⟪क्षत्रियाः⟫ ⟪शत्रूणां⟫ ⟪धनवन्ति⟫ ⟪नगराणि⟫ ⟪जयन्ति⟫ ⟪।⟫
 
-⟪७⟫. ⟪कवेरुक्तिं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪७⟫。⟪कवेरुक्तिं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
 
-⟪८⟫. ⟪कविर्देव्याः⟫ ⟪कृतं⟫ ⟪वदति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪८⟫。⟪कविर्देव्याः⟫ ⟪कृतं⟫ ⟪वदति⟫ ⟪।⟫
 
-⟪९⟫. ⟪द्विजाः⟫ ⟪पशोर्लाभमिच्छन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪९⟫。⟪द्विजाः⟫ ⟪पशोर्लाभमिच्छन्ति⟫ ⟪।⟫
 
-⟪१०⟫. ⟪रामः⟫ ⟪पुण्यवतो⟫ ⟪गुरोर्मन्त्रस्य⟫ ⟪स्मरति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१०⟫。⟪रामः⟫ ⟪पुण्यवतो⟫ ⟪गुरोर्मन्त्रस्य⟫ ⟪स्मरति⟫ ⟪।⟫
 
-⟪११⟫. ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪११⟫。⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
-⟪१२⟫. ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१२⟫。⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 
-⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१३⟫。⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1402.webp)
-Abb.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt1402)) <!-- TODO: Fallback translation -->
+图：⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
+（图片来源：[详情](/zh-CN/licenses#lekt1402)）
 :::

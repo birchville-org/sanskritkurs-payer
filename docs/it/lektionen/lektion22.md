@@ -1,9 +1,9 @@
 ---
-title: Lezione 22
-subtitle: "L'Assolutivo (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: Lektion 22
+subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
-category: "Grammatica"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,7 +11,7 @@ status: stable
 
 ## 22.1. L'ablativo assoluto (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
 
-:::grammar-box
+::: grammar-box
 
 Se si vuole esprimere in sanscrito che un'azione dell'agente (⟪कर्तृ⟫) precede un'altra azione dell'agente o avviene come circostanza concomitante, si usa l'ablativo assoluto (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫). Quindi
 
@@ -30,7 +30,7 @@ Nella traduzione in tedesco si eviti di dire costantemente "dopo che". Si usino 
 :::
 **Esempi:**
 
-:::indent
+::: indent
 **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = costruzione passiva: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
 "L'uomo entra nella casa, vede la bambina e le parla."
 
@@ -38,7 +38,7 @@ Plurale: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां�
 :::
 ## 22.2. Formazione dell'assolutivo
 
-:::grammar-box
+::: grammar-box
 **Formazione dell'assolutivo**
 
 *   Verbi senza prefisso: assolutivo in **-tvā**
@@ -46,7 +46,7 @@ Plurale: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां�
 :::
 ### 22.2.1. Verbi privi di prefisso: Assolutivo in -⟪त्वा⟫
 
-:::grammar-box
+::: grammar-box
 
 **Formazione:**
 
@@ -57,7 +57,7 @@ Solo la negazione **a-** / **an-** tollera il suffisso **-⟪त्वा⟫** :
 :::
 **Esempi:**
 
-:::indent
+::: indent
 **⟪आप्त्वा⟫** "dopo che egli / ella / esso / io / tu / noi / voi / essi / noi due / voi due / essi due ha / aveva / hanno / avevano raggiunto"
 
 **⟪आसित्वा⟫** "dopo che egli (...) era seduto / è seduto"
@@ -74,14 +74,14 @@ Solo la negazione **a-** / **an-** tollera il suffisso **-⟪त्वा⟫** :
 
 #### 22.2.2.1. Radici con vocale lunga (tranne -ā) o con consonante finale
 
-:::grammar-box
+::: grammar-box
 
 **(di solito) radice in grado basso + -ya**
 
 :::
 **Esempi:**
 
-:::indent
+::: indent
 **⟪उपनीय⟫** "dopo che (...) ha condotto / aveva condotto"
 
 **⟪प्रभूय⟫** "dopo che (...) è emerso / era emerso" "dopo che (...) ha avuto potere"
@@ -90,26 +90,26 @@ Solo la negazione **a-** / **an-** tollera il suffisso **-⟪त्वा⟫** :
 :::
 #### 22.2.2.2. Radici con -ā
 
-:::grammar-box
+::: grammar-box
 
 **radice in grado alto invariata + -ya**
 
 :::
 **Esempio:**
 
-:::indent
+::: indent
 **⟪उपस्थाय⟫** "dopo che (...) è entrato / era entrato" ; (ma senza prefisso: **⟪स्थित्वा⟫**)
 :::
 #### 22.2.2.3. Radici che nel grado basso terminano con -i, -u, -ṛ breve
 
-:::grammar-box
+::: grammar-box
 
 **radice in grado basso + -tya**
 
 :::
 **Esempi:**
 
-:::indent
+::: indent
 **⟪प्रस्तुत्य⟫** "dopo che (...) ha lodato ad alta voce / aveva lodato ad alta voce"
 
 **⟪विस्मृत्य⟫** "dopo che (...) ha dimenticato / aveva dimenticato"
@@ -118,7 +118,7 @@ Solo la negazione **a-** / **an-** tollera il suffisso **-⟪त्वा⟫** :
 :::
 #### 22.2.2.4. Radici con -am / -an, che nel grado basso terminano con -a
 
-:::grammar-box
+::: grammar-box
 
 **Opzionale:**
 
@@ -131,17 +131,20 @@ Radice con **-a** + **-tya**
 :::
 **Esempio:**
 
-:::indent
+::: indent
 **⟪विगम्य⟫** oppure **⟪विगत्य⟫** "dopo che (...) è passato / era passato"
 :::
 ## 22.3. Elenco di parole
 
 **⟪काम⟫ m.:** desiderio, brama; dono desiderato, piacere sensuale, amore, dio dell'amore
 
-:::indent
+::: indent
 **⟪कामम्⟫** Acc. avverbialmente: a proprio piacimento, a proprio agio
-::::::media
+:::
+::: media
 ![](/images/lekt2202.webp)
+Abb.: ⟪कामदेवः⟫
+19. Jhdt
 Fig.: ⟪कामदेवः⟫
 Secolo XIX
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2202))
@@ -150,11 +153,12 @@ Secolo XIX
 
 da ciò:
 
-:::indent
+::: indent
 **⟪शक्ति⟫ f.:** capacità, potere, abilità, forza; anche: forza divina, personificata come compagna femminile in particolare di **⟪शिव⟫**
 
 **⟪शक्र⟫ m.:** il potente (epiteto di **⟪इन्द्र⟫**)
-::::::media
+:::
+::: media
 ![](/images/lekt2203.webp)
 Fig.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
@@ -162,7 +166,7 @@ Kolkatta = কলকাতা
 :::
 **⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** meritare qualcosa (essere degno di qualcosa), avere il diritto, essere obbligato a, dovere (nella seconda persona **⟪अर्ह्⟫** + infinito è spesso usato come un ordine mitigato: "Dovresti")
 
-:::indent
+::: indent
 **⟪अर्हन्त्⟫ 3** Part. Pres. P: un degno. Nel Buddhismo e nel Giainismo: qualcuno che ha raggiunto la liberazione finale
 :::
 **⟪व्रत⟫ n.:** voto, dovere religioso, osservanza religiosa (si promette qualcosa alla divinità per ottenere qualcosa da lei. Esempio: una madre promette di dedicare sua figlia come prostituta sacra (**⟪देवदासी⟫**) se sua figlia si ammalerà di nuovo. Importanti **⟪व्रत⟫** oggi: digiuno; astinenza da cibi amati; astinenza sessuale; lettura di scritture sacre; esecuzione di certi riti; nutrizione di brahmani e simili. Breve sui **⟪व्रत⟫**: Walker, Hindu World Vol. II, pag. 581ss. Dettagliato: P. V. Kane: History of Dharmaśāstra Vol. 5,1 pag. 1 - 462. Lì pag. 253 - 462 elenco di **⟪व्रत⟫** e feste religiose ("il seguente elenco ... non pretende di essere completamente esaustivo" !!!)
@@ -171,7 +175,7 @@ Kolkatta = কলকাতা
 
 da ciò:
 
-:::indent
+::: indent
 **⟪चर⟫ ⟪३⟫:** mobile; n.: il mobile = animali (in contrasto con le piante)
 
 **⟪चरण⟫ n., m.:** piede
@@ -179,7 +183,8 @@ da ciò:
 **⟪चरित⟫ n.:** stile di vita, azioni della vita
 
 **⟪ब्रह्मचर्य⟫ n.:** esecuzione del Veda (**⟪ब्रह्मन्⟫**) = studio del Veda nel primo stadio della vita (quello dello **⟪ब्रह्मचारिन्⟫**), che richiede una rigorosa astinenza sessuale; quindi anche: astinenza sessuale, stile di vita celibataro
-::::::media
+:::
+::: media
 ![](/images/lekt2201.webp)
 Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
@@ -250,11 +255,13 @@ Goa = ⟪गोंय⟫
 
 **C) Trasformare le frasi precedenti (tranne le frasi 8 e 10) in costruzioni passive**
 
-:::media
+::: media
 ![](/images/lekt2204.webp)
 Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2204))
-::::::deleteme-box
+:::
+
+::: deleteme-box
 
 **lekt2201:** Goa = ⟪गोंय⟫ [Fonte dell'immagine: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica)]
 
@@ -264,3 +271,4 @@ Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 
 **lekt2204:** [Fonte dell'immagine: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Accesso il 2008-12-12. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna modifica)]
 :::
+

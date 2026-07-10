@@ -382,8 +382,15 @@
             background: var(--color-gold);
         }
 
-        .dragging iframe {
-            pointer-events: none;
+        .dragging {
+            user-select: none;
+            -webkit-user-select: none;
+        }
+
+        .dragging iframe,
+        .dragging .CodeMirror,
+        .dragging .editor-preview {
+            pointer-events: none !important;
         }
 
         .lesson-label {
@@ -774,6 +781,17 @@
                 <option value="ro/lektionen/lektion01">Română (RO)</option>
                 <option value="id/lektionen/lektion01">Bahasa Indonesia (ID)</option>
                 <option value="he/lektionen/lektion01">עברית (HE)</option>
+                <option value="bg/lektionen/lektion01">Bulgarian (BG)</option>
+                <option value="la/lektionen/lektion01">Latin (LA)</option>
+                <option value="rm/lektionen/lektion01">Romansh Grischun (RM)</option>
+                <option value="ar/lektionen/lektion01">Arabic (AR)</option>
+                <option value="arc/lektionen/lektion01">Aramaic (ARC)</option>
+                <option value="zh/lektionen/lektion01">ZH</option>
+                <option value="grc/lektionen/lektion01">Ancient Greek (GRC)</option>
+                <option value="fa/lektionen/lektion01">Persian (FA)</option>
+                <option value="akk/lektionen/lektion01">Akkadian (AKK)</option>
+                <option value="cop/lektionen/lektion01">Coptic (COP)</option>
+                <option value="zh-CN/lektionen/lektion01">Simplified Chinese (ZH-CN)</option>
             </select>
         </div>
 
@@ -800,9 +818,9 @@
             <div class="dropdown btn-group" id="editor-actions">
                 <button class="control-btn" id="btn-file-menu" style="min-width: 80px; opacity: 1;">File ▾</button>
                 <div class="dropdown-content">
-                    <a href="#" onclick="openFile(); return false;">Open File... (System)</a>
                     <a href="#" onclick="saveEditor(); return false;" id="menu-save">Save</a>
                     <a href="#" onclick="saveAsEditor(); return false;">Save As... (System)</a>
+                    <a href="#" onclick="openFile(); return false;">Open File... (System)</a>
                     <hr style="border:none; border-top:1px solid var(--vp-c-divider); margin:4px 0;">
                     <a href="#" onclick="resetEditor(); return false;">Reset</a>
                 </div>
@@ -831,6 +849,17 @@
                 <option value="ro/lektionen/lektion01">Română (RO)</option>
                 <option value="id/lektionen/lektion01">Bahasa Indonesia (ID)</option>
                 <option value="he/lektionen/lektion01">עברית (HE)</option>
+                <option value="bg/lektionen/lektion01">Bulgarian (BG)</option>
+                <option value="la/lektionen/lektion01">Latin (LA)</option>
+                <option value="rm/lektionen/lektion01">Romansh Grischun (RM)</option>
+                <option value="ar/lektionen/lektion01">Arabic (AR)</option>
+                <option value="arc/lektionen/lektion01">Aramaic (ARC)</option>
+                <option value="zh/lektionen/lektion01">ZH</option>
+                <option value="grc/lektionen/lektion01">Ancient Greek (GRC)</option>
+                <option value="fa/lektionen/lektion01">Persian (FA)</option>
+                <option value="akk/lektionen/lektion01">Akkadian (AKK)</option>
+                <option value="cop/lektionen/lektion01">Coptic (COP)</option>
+                <option value="zh-CN/lektionen/lektion01">Simplified Chinese (ZH-CN)</option>
             </select>
         </div>
     </div>
@@ -885,6 +914,8 @@
 
     <script>
         const baseUrl = window.location.origin + "/";
+        let isDragging1 = false;
+        let isDragging2 = false;
 
         // ── Syntax-Panel Translations ──────────────────────────────────────
         const SYNTAX_I18N = {
@@ -1039,7 +1070,6 @@
             'id': 'id/lektionen/lektion01',
             'th': 'th/lektionen/lektion01',
             'zh-CN': 'zh-CN/lektionen/lektion01',
-            'zh-TW': 'zh-TW/lektionen/lektion01',
         };
 
         function detectInitialContext() {
@@ -1407,6 +1437,7 @@
                     cmScroll.addEventListener('mouseenter', () => activeScroller = cmScroll);
                     cmScroll.addEventListener('touchstart', () => activeScroller = cmScroll);
                     cmScroll.addEventListener('scroll', function() {
+                        if (isDragging1 || isDragging2) return;
                         if (activeScroller === cmScroll && viewMode.startsWith('edit')) {
                             if (this.scrollHeight <= this.clientHeight) return;
                             const percentage = this.scrollTop / (this.scrollHeight - this.clientHeight);
@@ -1420,6 +1451,7 @@
             editorPreview.addEventListener('touchstart', () => activeScroller = editorPreview);
 
             editorPreview.addEventListener('scroll', function() {
+                if (isDragging1 || isDragging2) return;
                 const cmScroll = document.querySelector('.CodeMirror-scroll');
                 if (activeScroller === editorPreview && viewMode.startsWith('edit') && cmScroll) {
                     if (this.scrollHeight <= this.clientHeight) return;
@@ -1947,13 +1979,19 @@
 
         // --- PostMessage handler: Phase 1 – only LEFT controls RIGHT ---
         window.addEventListener('message', (e) => {
+            if (e.data.type === 'mouseup') {
+                isDragging1 = false;
+                isDragging2 = false;
+                document.body.classList.remove('dragging');
+                return;
+            }
             if (e.data.type === 'getTheme') { syncThemeToFrames(); return; }
             if (syncMode === 'off') return;
-        if (viewMode === 'raw') return; // Raw sync handled by textarea listeners below
-            if (e.data.from !== 'left') return; // ignore messages from right frame
+            if (viewMode === 'raw') return; // Raw sync handled by textarea listeners below
+            if (e.data.from !== 'left' && e.data.type !== 'mouseup') return; // ignore other messages from right frame
 
             if (e.data.type === 'scroll') {
-                if (isSyncing) return;
+                if (isSyncing || isDragging1 || isDragging2) return;
                 
                 if (viewMode.startsWith('edit')) {
                     if (syncMode === 'pct' && e.data.pct !== undefined) {
@@ -2001,13 +2039,19 @@
         });
 
         // --- Resizer ---
-        let isDragging1 = false;
-        let isDragging2 = false;
+        isDragging1 = false;
+        isDragging2 = false;
         
         dragBar1.addEventListener('mousedown', () => { isDragging1 = true; document.body.classList.add('dragging'); });
         dragBar2.addEventListener('mousedown', () => { isDragging2 = true; document.body.classList.add('dragging'); });
         
         document.addEventListener('mousemove', (e) => {
+            if (e.buttons === 0 && (isDragging1 || isDragging2)) {
+                isDragging1 = false;
+                isDragging2 = false;
+                document.body.classList.remove('dragging');
+                return;
+            }
             if (isDragging1) {
                 const pct = (e.clientX / container.offsetWidth) * 100;
                 if (pct > 5 && pct < 90) leftPane.style.width = pct + '%';
@@ -2091,7 +2135,7 @@
         }
 
         leftRaw.addEventListener('scroll', () => {
-            if (syncMode === 'off' || viewMode !== 'raw' || rawSyncLock) return;
+            if (syncMode === 'off' || viewMode !== 'raw' || rawSyncLock || isDragging1 || isDragging2) return;
             rawSyncLock = true;
             if (syncMode === 'pct') {
                 const pct = leftRaw.scrollTop / (leftRaw.scrollHeight - leftRaw.clientHeight || 1);
@@ -2213,6 +2257,9 @@
                             document.documentElement.classList.toggle('dark', e.data.theme === 'dark');
                         }
                     });
+                    window.addEventListener('mouseup', () => {
+                        window.parent.postMessage({ type: 'mouseup' }, '*');
+                    });
                 })();`;
                 (doc.head || doc.body).appendChild(s);
                 syncThemeToFrames();
@@ -2239,6 +2286,9 @@
                             if (window.location.pathname.toLowerCase().includes('/qa/')) return;
                             document.documentElement.classList.toggle('dark', e.data.theme === 'dark');
                         }
+                    });
+                    window.addEventListener('mouseup', () => {
+                        window.parent.postMessage({ type: 'mouseup' }, '*');
                     });
                 })();`;
                 (doc.head || doc.body).appendChild(s);

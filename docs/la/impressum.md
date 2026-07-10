@@ -8,7 +8,7 @@ title: Impressum & Citatio
 *Textus sequens in conversione e libris lectionum excisus est, ut fluxus lectionis melior fieret.*
 
 ## Citatio | cite as:
-**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- Versio anni 2010. -- URL: http://www.payer.de/sanskritkurs/
+**Payer, Alois \<1944 - \>:** Sanskritkurs. -- Versio anni 2010. -- URL: http://www.payer.de/sanskritkurs/
 
 ## Occasio
 Constitutus pro consiliis docendi 1980 - 1984

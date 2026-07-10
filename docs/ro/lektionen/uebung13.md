@@ -120,7 +120,7 @@ Vechii înțelepți vedici văd că demonul nu câștigă în niciun caz.
 Ce mănâncă și beau brahmanii?
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung019.webp)
 Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung019))
@@ -268,7 +268,7 @@ E) Translateți în sanscrită:
 11\. Preoții sacrificatori au stors soma.
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung018.webp)
 Fig.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung018))

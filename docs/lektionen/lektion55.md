@@ -11,7 +11,7 @@ status: stable
 
 ## 55.1. Der a-Aorist (Aorist mit Themavokal)
 
-:::grammar-box
+::: grammar-box
 **Der a-Aorist wird gebildet wie ein Imperfekt (⟪लङ्⟫) der 6. Präsensklasse (⟪तुदादि⟫), d.h.:**
 
 **Augment + tiefstufige Wurzel + a + Sekundärendung**
@@ -28,7 +28,7 @@ Beispiel:
 
 ⟪सिच्⟫ 6U "beträufeln"
 
-:::indent
+::: indent
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -36,19 +36,19 @@ Beispiel:
 | 2\. ⟪मध्यमः⟫ | ⟪असिचस्⟫ | ⟪असिचत⟫ | ⟪असिचथास्⟫ | ⟪असिचध्वम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचत्⟫ | ⟪असिचन्⟫ | ⟪असिचत⟫ | ⟪असिचन्त⟫ |
 :::
-Unregelmäßige Bildungen:
+Unregelmässige Bildungen:
 
-:::indent
-⟪अस्⟫ 4P "werfen": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (Erklärung siehe Thumb-Hauschild §541,4)
+::: indent
+⟪अस्⟫ 4P "werfen": sig[⟪आस्थम्⟫], sig[⟪आस्थत्⟫] (Erklärung siehe Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
+⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": sig[⟪अख्यम्⟫], sig[⟪अख्यत्⟫]
 
-⟪दृश्⟫ "sehen": ***⟪अदर्शम्⟫, ⟪अदर्शत्⟫*** (Hochstufe!)
+⟪दृश्⟫ "sehen": sig[⟪अदर्शम्⟫], sig[⟪अदर्शत्⟫] (Hochstufe!)
 :::
 Beachte:
 
-:::indent
-⟪शास्⟫ 2P "befehlen": ⟪अशिषत्⟫ (regelmäßige Tiefstufe!)
+::: indent
+⟪शास्⟫ 2P "befehlen": ⟪अशिषत्⟫ (regelmässige Tiefstufe!)
 :::
 ## 55.2. Übung
 
@@ -87,12 +87,14 @@ Bestimmen und übersetzen Sie schriftlich folgende formen und bilden Sie die ent
 31.  ⟪अशुष्याम⟫
 32.  ⟪सिष्णेह⟫
 
-:::media
+::: media
 ![](/images/lekt5501.webp)
 Abb.: ⟪अजीर्यमिति⟫
 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
 (Bildquelle: [Details](/licenses#lekt5501))
-::::::deleteme-box
+:::
+
+::: deleteme-box
 
 **lekt5501:** 'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618 [Bildquelle: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Zugriff am 2009-01-28. Gemeinfrei]
 

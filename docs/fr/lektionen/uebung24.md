@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formez le datif singulier et le datif (respectivement ablatif) pluriel et indiquez la signification de la base nominale :
 
-:::grammar-box
+::: grammar-box
 | Mot | Signification | Datif Sg. | Datif Pl. |
 | :--- | :--- | :--- | :--- |
 | ⟪१⟫. **⟪श्रव⟫** | Ouïe | ⟪श्रवणाय⟫ | ⟪श्रवणेभ्यः⟫ |
@@ -79,7 +79,7 @@ Les dieux se fâchent contre ces brāhmaṇas qui ne leur rendaient pas de vén�
 ⟪९⟫. **⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫**
 Pour mourir, les êtres vivants naissent.
 
-:::media
+::: media
 ![](/images/uebung037.webp)
 Fig. : ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (Source de l'image : [Détails](/fr/licenses#uebung037))
@@ -153,7 +153,7 @@ E) Remplacez dans la phrase B) 6 le datif par une construction avec **-⟪अर
 15\. Au revoir ! (Neu-sanskrit)
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
 
-:::media
+::: media
 ![](/images/uebung038.webp)
 Fig. : ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (Source de l'image : [Détails](/fr/licenses#uebung038))

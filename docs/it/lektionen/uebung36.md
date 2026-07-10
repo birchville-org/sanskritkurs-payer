@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formare per le seguenti forme sia le perfette reduplicati sia le perfette perifrastiche:
 
-:::grammar-box
+::: grammar-box
 | Presente | Reduplicato | Perifrastico |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪बिभ्रते⟫** | ⟪बभ्रिरे⟫ | ⟪बिभरां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
@@ -20,7 +20,7 @@ A) Formare per le seguenti forme sia le perfette reduplicati sia le perfette per
 :::
 B) Formare il perfetto perifrastico per la radice **⟪आस्⟫** (sedere):
 
-:::grammar-box
+::: grammar-box
 | Presente | Perfetto Perifrastico |
 | :--- | :--- |
 | ⟪१⟫. **⟪आस्ते⟫** | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
@@ -28,7 +28,7 @@ B) Formare il perfetto perifrastico per la radice **⟪आस्⟫** (sedere):
 :::
 C) Formare il corrispondente perfetto per le seguenti forme:
 
-:::grammar-box
+::: grammar-box
 | Presente / Imperfetto | Perfetto |
 | :--- | :--- |
 | ⟪१⟫. **⟪जीयते⟫** | ⟪जिग्ये⟫ |
@@ -64,7 +64,7 @@ Un Dvija, che ha studiato il Veda, conosce il diritto e l'usanza degli Dvija.
 ⟪५⟫. **⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪।⟫ ⟪य⟫ ⟪एवं⟫ ⟪विदुर्नाधीयीरन्⟫ ⟪॥५॥⟫**
 Non si può vivere solo della scienza. Chi lo sa, non dovrebbe studiare.
 
-:::media
+::: media
 ![](/images/uebung061.webp)
 Fig.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung061))
@@ -91,7 +91,7 @@ Si saluti gli anziani con la dovuta formalità, si ceda loro il proprio posto e 
 **⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ⟪विज्ञेयो⟫ ⟪जितेन्द्रियः⟫ ⟪॥⟫**  
 Quando un uomo non si rallegra né si rattrista, quando ascolta, tocca, vede, gusta o annusa, allora si considera colui che ha vinto i suoi sensi (**⟪जितेन्द्रियः⟫**).
 
-:::media
+::: media
 ![](/images/uebung060.webp)
 Fig.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung060))
@@ -102,7 +102,7 @@ Fig.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ �
 
 Determinare e tradurre le seguenti forme verbali:
 
-:::grammar-box
+::: grammar-box
 | Forma verbale | Determinazione | Significato |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪नयति⟫** | ⟪नी⟫ (1U) 3. sg. P. Ind. Präs. | egli guida |
@@ -141,8 +141,9 @@ Determinare e tradurre le seguenti forme verbali:
 | ⟪३४⟫. **⟪व्यानक्⟫** | ⟪वि⟫-⟪अञ्ज्⟫ (7P) 3. sg. P. Impf. | egli rivelò |
 | ⟪३५⟫. **⟪युङ्क्ते⟫** | ⟪युज्⟫ (7U) 3. sg. Ā. Ind. Präs. | egli unisce per sé |
 | ⟪३६⟫. **⟪अपिबत्⟫** | ⟪पा⟫ (1P) 3. sg. P. Impf. | egli bevve |
-::::::media
+:::: media
 ![](/images/uebung059.webp)
 Fig.: ⟪जगौ⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung059))
+::::
 :::

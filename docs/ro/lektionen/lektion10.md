@@ -9,7 +9,7 @@ status: stable
 
 # Lecția 10
 
-:::deleteme-box
+::: deleteme-box
 **În această lecție veți învăța:**
 - Propoziția pasivă (Instrumental al agentului)
 - Declinarea instrumentalului (tṛtīyā)
@@ -19,7 +19,7 @@ status: stable
 :::
 ## 10.1. Propoziția pasivă
 
-:::grammar-box
+::: grammar-box
 **Schema:**
 **(Agent - kartṛ - în Instrumental (tṛtīyā)) - (obiect direct - karman - în Nominativ) - formă verbală pasivă**
 
@@ -27,32 +27,34 @@ de ex. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪�
 
 Această propoziție este **complet (!) sinonimă** cu propoziția:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫
-::::::grammar-box
+:::
+::: grammar-box
 - În propoziția pasivă, agentul (**kartṛ**) se află în **Instrumental** (tṛtīyă f. "a treia terminație cazială"), iar obiectul direct (**karman** n.) se află în **Nominativ** (prathamā f.).
 - Propozițiile pasive, în care agentul nu este indicat, au de obicei un sens impersonal ("se"):
   de ex. **ijyate** = ⟪इज्यते⟫ "Se sacrifică" (literal: "se venerază cu un sacrificiu").
-::::::grammar-box
+:::
+::: grammar-box
 **Chiar dacă propoziția activă corespunzătoare ar conține un acuzativ (dvitīyā) al scopului, acesta poate fi plasat în Nominativ (prathamā) în propoziția pasivă:**
 
 La propoziția activă **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma merge în sat." corespund propozițiile pasive:
 - **rāmeṇa grāmaṃ gamyate** = ⟪रामेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫
 - alternativ: **rāmeṇa grāmo gamyate** = ⟪रामेण⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫
-::::::grammar-box
+:::
+::: grammar-box
 **Verbele intranzitive (verbe fără obiect direct) au adesea construcții pasive, în special în cereri politicoase:**
 - **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Se rogă să intre = Te rog să intri = Intrați!"
 - **niṣadyatām** = ⟪निषद्यताम्⟫ = "Se rogă să se așeze = Te rog să te așezi = Te rog să iei loc"
 :::
 Construcțiile pasive sanscrite sunt extrem de frecvente: pasivul este, de asemenea, mai ușor de format decât, de exemplu, numeroasele rădăcini de prezent.
 
-:::
-important
+::: important
 **Propozițiile pasive sanscrite nu trebuie, în general, redate în germană printr-o propoziție pasivă, deoarece pasivul german are o funcție stilistică complet diferită.**
 :::
 ---
 
 ## 10.2. Instrumentalul (tṛtīyā f. = ⟪तृतीया⟫ = "a trecea terminație de caz")
 
-:::grammar-box
+::: grammar-box
 **Terminațiile regulate ale Instrumentalului (tṛtīyā):**
 - **Singular: -ā**
 - **Plural: -bhis**
@@ -97,14 +99,15 @@ important
 | | F | **etayā / enayā**:br⟪एतया⟫ / ⟪एनया⟫ | **etābhis**:br⟪एताभिस्⟫ |
 | **idam**:br"acesta, aceasta, acesta" (aproape):br⟪इदम्⟫ | M/N | **anena / enena**:br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis**:br⟪एभिस्⟫ |
 | | F | **anayā / enayā**:br⟪अनया⟫ / ⟪एनया⟫ | **ābhis**:br⟪आभिस्⟫ |
-::::::deleteme-box
+:::
+::: deleteme-box
 Î afară de Nominativ și Acuzativ, formele Neutrelor în -a, ale pronumelui interogativ și ale pronumelor demonstrative sunt identice cu formele corespunzătoare ale Masculinului.
 :::
 ---
 
 ### 10.2.1. Despre utilizarea instrumentalului (tṛtīyā = ⟪तृतीया⟫)
 
-:::grammar-box
+::: grammar-box
 **Instrumentalul (tṛtīyā) se folosește în principal la întrebările:**
 - **Prin ce?**
 - **Cu ce?**
@@ -123,12 +126,12 @@ Alte utilizări ale instrumentalului (tṛtīyā) vor urma mai târziu.
 
 ## 10.3. Legeul așa-numit de cerebraizare pentru -n- (un Wortsandhi)
 
-:::grammar-box
+::: grammar-box
 Un **-n-**, urmat de o vocală sau **n, m, y, v**, este înlocuit cu **-ṇ-**, dacă **ṛ, ṝ, r, ṣ** din cuvânt precedă **-n-** sau dacă nu există niciun alt sunet decât vocale, guturale, labiale, **y, v, h** sau Anusvāra între aceste sunete și următorul **-n-** din cuvânt.
 :::
 **Prin urmare:**
 
-:::grammar-box
+::: grammar-box
 | | Instrumental Singular |
 | :--- | :--- |
 | **guru**:br⟪गुरु⟫ | **guruṇā**:br⟪गुरुणा⟫ |
@@ -139,7 +142,7 @@ Un **-n-**, urmat de o vocală sau **n, m, y, v**, este înlocuit cu **-ṇ-**, 
 :::
 **La fel, și -ṇ- trebuie explicat în:**
 
-:::indent
+::: indent
 **śravaṇa** ⟪श्रवण⟫
 
 **śṛṇoti** ⟪शृणोति⟫
@@ -152,7 +155,7 @@ Un **-n-**, urmat de o vocală sau **n, m, y, v**, este înlocuit cu **-ṇ-**, 
 
 ## 10.4. Pasivul, Indicativ Prezent (yak = ⟪यक्⟫)
 
-:::grammar-box
+::: grammar-box
 **Formare:**
 **(de obicei) rădăcină la gradul redus + -ya- + terminație Ātmanepada**
 :::
@@ -215,45 +218,44 @@ de ex.
 - **grāma** m. ⟪ग्राम⟫ : sat
 - **nagara** n. ⟪नगर⟫ : oraș
 
-  :::note-box
+::: note-box
   Pentru viața urbană și rurală, consultați Basham, *Wonder*, cap. 6.
-  :::- **yajña** m. ⟪यज्ञ⟫ : jertfă
-
-  :::note-box
+:::
+::: note-box
   În India, jertfa este, în primul rând, o închinare adusă zeului ca pe un oaspete. Prin aceasta, te obligi față de zeitate.
   
   Derivare: **yaj** 1 U + sufixul kṛt **-na-**.
-  :::- **puṇya** n. ⟪पुण्य⟫ : faptă bună, merit
-
-  :::note-box
+:::
+::: note-box
   Prin care câștigi bunăstare și nașteri bune ulterioare.
   :::- **pāpa** n. ⟪पाप⟫ : faptă rea, rău (opusul lui **puṇya**)
 - **satya** n. ⟪सत्य⟫ : adevăr
 
 :::
-note-box
+::: note-box
 În India, se atribuia cuvântului adevărat o putere magică; ba chiar întreaga ordine cosmică este menținută și creată de cuvântul adevărat. Pentru această concepție importantă, consultați lucrarea fundamentală:
 
-Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Editat din arhivă de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
-::::::media
+Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Editat din arhivă de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
+:::: media
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt1003))
+::::
 :::
 - **anṛta** n. ⟪अनृत⟫ : minciună, falsitate (opusul lui **satya**)
 
-  :::note-box
+::: note-box
   Derivare **an-** („ne-“) + **ṛta** n.
   
   **ṛta** este un concept central în Veda, a cărui traducere este controversată: „adevăr” (Lüders, Thieme), „ordine” (Renou).
-  :::- **ṛṣi** m. ⟪ऋषि⟫ : înțelept vedic, autor al cântecelor vedice
-
-  :::note-box
+:::
+::: note-box
   Numele acestor **ṛṣi** sunt menționate în Brāhmaṇe, precum și în liste dedicate Vedenelor. Toți brahmanii își derivă originea de la astfel de **ṛṣi**, după care își denumesc **gotra** (⟪गोत्र⟫). Pentru conceptul **gotra**, consultați Basham, *Wonder*, cap. 5.
-  ::::::media
+:::: media
 ![](/images/lekt1002.jpg)
 Fig.: ⟪विश्वामित्रः⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt1002))
+::::
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : a spune, a vorbi
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : a întreba (pe cineva: Acuzativ; despre ceva: Acuzativ)
@@ -314,7 +316,7 @@ Fig.: ⟪विश्वामित्रः⟫
 3. Veda este numită śruti. (**vad**)
 4. Se întinde urzeala. (2 posibilități)
 
-:::media
+::: media
 ![](/images/lekt1004.jpg)
 Fig.: ⟪तन्तुवायः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1004))
@@ -364,8 +366,7 @@ Fig.: ⟪तन्तुवायः⟫
 **⟪क⟫**
 
 ⟪१⟫.
-:::
-center
+::: center
 ⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
 ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
@@ -394,3 +395,6 @@ center
 ⟪९⟫. ⟪गजो⟫ ⟪गच्छति⟫ | |
 ⟪१०⟫. ⟪हरिर्गृहं⟫ ⟪गच्छति⟫ | |
 ⟪११⟫. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ ||
+
+
+

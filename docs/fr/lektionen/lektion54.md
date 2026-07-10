@@ -1,15 +1,15 @@
 ---
-title: Leçon 54
-subtitle: "Remarque préliminaire"
+title: Lektion 54
+subtitle: "Vorbemerkung"
 lesson_id: 54
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 54
+# Lektion 54
 
-## 54.1. Remarque préliminaire
+## 54.1. Vorbemerkung
 
 Avec la leçon 54 commence, dans l'enseignement universitaire, le 2e semestre. À partir de maintenant, le cours se déroule uniquement en parallèle du thème principal de ce semestre : la lecture intégrale de la Bhagavadgītā. L'objectif pédagogique est d'atteindre une telle aisance dans la lecture d'un texte de difficulté moyenne, qu'il soit possible de traduire de grandes parties de la Bhagavadgītā de manière improvisée lors du dernier tiers du semestre. Au début, des listes de mots étaient distribuées dans le cadre de l'enseignement universitaire ; par la suite, les étudiants devaient utiliser eux-mêmes des dictionnaires appropriés (Monier-Williams, Apte, PW).
 
@@ -17,25 +17,27 @@ Le cours sur la Bhagavadgītā ne sera pour l'instant pas mis à disposition en 
 
 Les leçons du cours de sanskrit traitent de sujets de grammaire sanskrite qui n'ont pas encore été abordés.
 
-## 54.2. Formation des vocabulaire : Suffixe ⟪कृत्⟫ -u aux racines desideratives
+## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
 
-::::grammar-box
+::: grammar-box
 **Aux racines desideratives (⟪इच्छाप्रकृति⟫) (« vouloir faire quelque chose » ; « être sur le point de faire quelque chose ») s’ajoute le suffixe -u pour former des noms d’agent.**
 
 (La formation des racines desideratives est traitée plus loin)
 
 Exemple :
 
-:::indent
+:::
+::: indent
 ⟪युयुत्सु⟫ (yu-yudh + s + u) « désireux de combattre, sur le point de combattre »
-::::::::::media
+:::
+::: media
 ![](/images/lekt5402.webp)
 Fig. : ⟪अयुयुत्सुरर्जुनः⟫
 (Source de l’image : [Détails](/fr/licenses#lekt5402))
 :::
-## 54.3. Métrique II : l’épique ⟪त्रिष्टुभ्⟫ et l’⟪जगती⟫
+## 54.3. Métrique II : l'épique ⟪त्रिष्टुभ्⟫ et l'⟪जगती⟫
 
-::::grammar-box
+::: grammar-box
 L’⟪त्रिष्टुभ्⟫ (« Trois cris ») apparaît dans les épopées au milieu des parties habituelles de ⟪श्लोक⟫, précisément aux endroits où l’ambiance ou l’action connaissent un élan ou une conclusion particuliers.
 
 La strophe ⟪त्रिष्टुभ्⟫ se compose de quatre ⟪पाद⟫ à onze syllabes, qui ne diffèrent pas par leur structure.
@@ -45,12 +47,13 @@ L’⟪त्रिष्टुभ्⟫ possède deux schémas fondamentaux, se
 Schéma I :
 
 :::
+::: metrik-schema
 metrik-schema
 × — × — / × ◡ — **— ◡ — —**
 :::
 Schéma II :
 
-:::
+::: metrik-schema
 metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
@@ -58,13 +61,13 @@ La quantité des quatre dernières syllabes est donc identique dans les deux sch
 
 Forme fondamentale de l’⟪जगती⟫ : comme pour l’⟪त्रिष्टुभ्⟫, mais à douze syllabes. Les cinq dernières syllabes de chaque Pada présentent les quantités suivantes :
 
-:::
+::: metrik-schema
 metrik-schema
 **— ◡ — ◡ —**
 :::
 Parallèlement, il existe la soi-disant ⟪त्रिष्टुभ्⟫ typiquement supplémentaire, avec un premier membre de cinq syllabes, qui se poursuit comme une ⟪त्रिष्टुभ्⟫ avec un premier membre de quatre syllabes :
 
-:::
+::: metrik-schema
 metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
@@ -72,31 +75,33 @@ metrik-schema
 
 a) ⟪इन्द्रवज्रा⟫
 
-:::
+::: metrik-schema
 metrik-schema
 **—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 b) ⟪उपेन्द्रवज्रा⟫
 
-:::
+::: metrik-schema
 metrik-schema
 **◡** — ◡ — , — ◡ ◡ — ◡ — —
 :::
 c) ⟪उपजाति⟫
 
-:::indent
+::: indent
 L’⟪पाद⟫ dans l’⟪इन्द्रवज्रा⟫ et l’⟪पाद⟫ dans l’⟪उपेन्द्रवज्रा⟫ sont mélangés dans une strophe.
-:::::::::::grammar-box
+:::
+::: grammar-box
 **Vers mnémotechniques :**
 
 **⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
 
-:::indent
+:::
+::: indent
 « C’est une Indravājrā si les syllabes dans tous les Pādas sont ta ta ja ga ga.
 :::
 ⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
 
-:::indent
+::: indent
 « Une Upendravajrā est semblable à une Indravajrā qui possède au début une syllabe brève. »
 :::
 ⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
@@ -104,22 +109,23 @@ L’⟪पाद⟫ dans l’⟪इन्द्रवज्रा⟫ et l’⟪�
 ⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
 ⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
 
-:::indent
+::: indent
 « Lorsque deux Pādas, qui présentent les caractéristiques de l’Indravajrā ou de l’Upendravajrā, sont impliqués dans un vers, il s’agit d’Upajātis. Même lorsque d’autres mètres sont mélangés dans un vers, on l’appelle Upajāti. »
-:::::::
-## 54.4. Exercice de mètre
+:::
+## 54.4. Übung zur Metrik
 
 Déterminez dans le Bhagavadgītā II les Triṣṭubhs et les Jagatīs.
 
 Exemple de récitation : [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Consulté le 2009-01-28
 
-## 54.5. Types de formation de l’aoriste (⟪लुङ्⟫)
+## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫)
 
-:::grammar-box
+::: grammar-box
 **Ce qui est commun à tous les types de formation de l’aoriste (⟪लुङ्⟫) est l’augment a-, qui est placé avant selon les mêmes règles que dans l’imparfait (⟪लङ्⟫).**
 
 En sanskrit, seuls l’indicatif et le prétérit-optatif de l’aoriste sont courants.
-::::::grammar-box
+:::
+::: grammar-box
 **Il existe les types de formation suivants de l’aoriste (⟪लुङ्⟫) :**
 
 1.  Aoristes non sifflants (asigmatiques) :
@@ -134,9 +140,9 @@ En sanskrit, seuls l’indicatif et le prétérit-optatif de l’aoriste sont co
 
 Pour la répartition des racines sur les différents types de formation, voir les sections consacrées à chaque type
 :::
-## 54.6. Racine aoriste
+## 54.6. Wurzelaorist
 
-:::grammar-box
+::: grammar-box
 **Formation :**
 
 **Augment + Racine + Désinence secondaire**
@@ -147,14 +153,14 @@ Exemple :
 
 ⟪पा⟫ 1re personne "boire"
 
-:::grammar-box
+::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (niveau profond !) |
+| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
 :::
-Le racine aoriste n'est formé qu'à partir de 12 racines :
+La racine aoriste n'est formée qu'à partir de 12 racines :
 
 1.  ⟪गा⟫ 3e personne "aller"
 2.  ⟪घ्रा⟫ 1re personne "sentir"
@@ -171,67 +177,61 @@ Le racine aoriste n'est formé qu'à partir de 12 racines :
 
 Pour ⟪भू⟫ 1re personne, le racine aoriste se forme ainsi :
 
-:::grammar-box
+::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
+| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | *⟪अभूवन्⟫* (!!!) |
 :::
-### 54.6.1. L’Aoriste du 3.sg.Passif
+### 54.6.1. Der Aorist der 3.sg.Passiv
 
-Une forme spéciale de l’aoriste de la racine est l’aoriste du 3.sg.Passif. Celui-ci peut être formé à partir de toutes les racines.
+Une forme spéciale de l'aoriste de la racine est l'aoriste à la 3e personne du singulier du passif. Celui-ci peut être formé à partir de toutes les racines.
 
-:::grammar-box
+::: grammar-box
+**Éducation :**
+
 **Formation :**
 
-**Augment + Racine + i**
+**Augment + Racine + Désinence secondaire**
 
-**La racine a la forme suivante :**
+Niveau supérieur :
 
-Grade fort :
+*   Racines à voyelle brève (sauf a) devant consonne simple, ainsi que ⟪जन्⟫ et la plupart des racines en -am
+Exemples :
+⟪भिद्⟫ 7U : ⟪अभेदि⟫ « il fut fendu »
+⟪तुद्⟫ 6U : ⟪अतोदि⟫ « il fut poussé »
 
-*   Racines avec une voyelle brève (sauf a) devant une consonne simple ainsi que ⟪जन्⟫ et la plupart des racines en -am  
-    Exemples :  
-    ⟪भिद्⟫ 7U : ⟪अभेदि⟫ « il fut fendu »  
-    ⟪तुद्⟫ 6U : ⟪अतोदि⟫ « il fut poussé »
+Exemple :
 
-Grade étendu :
+*   | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
+Exemples :  
+⟪नी⟫ 1U : ⟪अनायि⟫ « il fut conduit »  
+⟪स्तु⟫ 2U : ⟪अस्तावि⟫ « elle fut louée »  
+⟪कृ⟫ 8U : ⟪अकारि⟫ « il fut fait »  
 
-*   Racines avec une voyelle finale  
-    Exemples :  
-    ⟪नी⟫ 1U : ⟪अनायि⟫ « il fut conduit »  
-    ⟪स्तु⟫ 2U : ⟪अस्तावि⟫ « elle fut louée »  
-    ⟪कृ⟫ 8U : ⟪अकारि⟫ « il fut fait »  
-     
-    
-*   Racines avec a devant une consonne simple (sauf ⟪जन्⟫ et les racines en -am)  
-    Exemple :  
-    ⟪वद्⟫ 1P : ⟪अवादि⟫ « il fut dit »  
-    mais :  
-    ⟪जन्⟫ 4Ā : ⟪अजनि⟫ « elle fut engendrée »  
-     
+*   Le racine aoriste n'est formé qu'à partir de 12 racines :
+Exemple :  
+⟪वद्⟩ 1P : ⟪अवादि⟩ « il a été dit »  
+mais :  
+⟪जन्⟩ 4Ā : ⟪अजनि⟩ « elle est née »  
 
-*   quelques racines en -am  
-    Exemple :  
-    ⟪गम्⟫ ⟪अगामि⟫
-    
+*   ⟪घ्रा⟫ 1re personne "sentir"
+Exemple :  
+⟪गम्⟫ ⟪अगामि⟫
 
-Insertion de y avant la terminaison :
+⟪दो⟫ 1re, 4e personne "couper"
 
-*   Les racines en -ā, -e, -ai, -o insèrent un y entre le -ā de la racine et la terminaison :  
-    Exemple :  
-    ⟪दा⟫ 3U : ⟪अदायि⟫ « il fut donné »
-    
+*   ⟪धा⟫ 3e personne U "placer"
+⟪दा⟫ 3e personne U "donner"
 
-Infixe nasalisé :
+⟪धे⟫ 1re personne "téter" (⟪अधात्⟫)
 
-*   quelques racines ont un infixe nasalisé :  
-    Exemple :  
-    ⟪लभ्⟫ 1Ā : ⟪अलम्भि⟫ à côté de ⟪अलाभि⟫ : « il fut reçu »
-    
+*   ⟪पा⟫ 1re personne "boire"
+Exemple :  
+⟪लभ्⟫ 1Ā : ⟪अलम्भि⟫ à côté de ⟪अलाभि⟫ : « il a été reçu »
 
-(Les autres formes du Passif sont rendues à l’Aoriste par des formes Ātmanepada).
+(Les autres formes du passif sont rendues à l’imparfait par des formes ātmanepada).
 :::
 ## 54.7. Exercice
 
@@ -261,14 +261,17 @@ Traduisez par écrit les formes suivantes et formez les formes d’aoriste corre
 22.  ⟪गीयते⟫
 23.  ⟪गम्यते⟫
 
-:::media
+::: media
 ![](/images/lekt5401.webp)
 Fig. : ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 (Source de l’image : [Détails](/fr/licenses#lekt5401))
-::::::deleteme-box
+:::
+
+::: deleteme-box
 
 **lekt5402 :** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Source de l’image : Raji Srinivas / Wikipédia. Licence GNU FDL]
 
 **lekt5401 :** Tamil Nadu [Source de l’image : driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Consulté le 2009-01-28. -- [Licence Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, pas d’utilisation commerciale, partage à l’identique)]
 
 :::
+

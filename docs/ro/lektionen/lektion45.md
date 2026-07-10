@@ -15,17 +15,17 @@ status: stable
 
 ⟪हु⟫ 3P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | &lt;⟪जुहुषे⟫&gt; | &lt;⟪जुहुध्वे⟫&gt; |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | &lt;⟪अजुहुथास्⟫&gt; | &lt;⟪अजुहुध्वम्⟫&gt; |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | &lt;⟪जुह्वीथास्⟫&gt; | &lt;⟪जुह्वीध्वम्⟫&gt; |
+| **Indicativ Prezent**:br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
+| **Imperfect**:br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
+| **Optativ**:br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
 :::
 ⟪धा⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -35,14 +35,14 @@ status: stable
 :::
 ### 45.1.2. A șaptea clasă de prezintă (⟪रुधादि⟫)
 
-:::grammar-box
+::: grammar-box
 **Dacă un k/g final al rădăcinii se află între nasalul ṅ și un dental al terminației, atunci k/g poate cădea în mod opțional**
 
 de ex. **⟪युज्⟫** 3.sg.Ind.Prez.Ā ⟪युङ्क्ते⟫ sau ⟪यु⟫***⟪ङ्ते⟫***
 :::
 ⟪युज्⟫ 7U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -52,7 +52,7 @@ de ex. **⟪युज्⟫** 3.sg.Ind.Prez.Ā ⟪युङ्क्ते⟫ sa
 :::
 ⟪रुध्⟫ 7U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -62,14 +62,14 @@ de ex. **⟪युज्⟫** 3.sg.Ind.Prez.Ā ⟪युङ्क्ते⟫ sa
 :::
 ## 45.2. Vocativul singular (⟪आमन्त्रितमेकवचने⟫)
 
-:::grammar-box
+::: grammar-box
 **Majoritatea vocativelor la singular corespund temei cu final vocalic.**
 
 De exemplu, **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** etc.
 
 **Excepții sunt femininele în -ā și -ī, precum și temele în -in, al căror vocativ singular trebuie reținut cu atenție.**
-:::::::grammar-box
-:::no-header
+:::
+::: no-header
 | | Vocativ singular |
 | --- | --- |
 | Neutre în -a | ⟪देव⟫ |
@@ -92,10 +92,11 @@ De exemplu, **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪रा
 | Neutre în -mant/-vant | ⟪गुणवन्⟫ |
 | Neutre în -mant/-vant | ⟪गुणवत्⟫:br= Nominativ |
 | Pronume | nu se formează un vocativ |
-::::::::::media
+:::: media
 ![](/images/lekt4501.webp)
 Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4501))
+::::
 :::
 ## 45.3. Listă de cuvinte
 
@@ -103,14 +104,14 @@ Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 
 ## 45.4. Exercitiu
 
-A) Traduceți în sanscrită (pentru formele de trecut, vă rugăm să utilizați imperfectul &lt;⟪लङ्⟫&gt;):
+A) Traduceți în sanscrită (pentru formele de trecut, vă rugăm să utilizați imperfectul \<⟪लङ्⟫\>):
 
 1\. Tu divizezi comunitatea (buddhistă).
 
-:::indent
+::: indent
 pentru divizarea comunității (⟪सङ्घभेद⟫) vezi:
 
-**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Concepte fundamentale ale regulilor monahale și ale dreptului monahal al Theravāda. -- Partea I. -- (Materiale privind conceptele fundamentale ale buddhismului). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \<1944 - \>:** Vinayamukha : Concepte fundamentale ale regulilor monahale și ale dreptului monahal al Theravāda. -- Partea I. -- (Materiale privind conceptele fundamentale ale buddhismului). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2\. V-ați bucurat de pământ?
 
@@ -140,11 +141,12 @@ B) Traduceți:
 
 ⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥४॥⟫
 
-:::media
+::: media
 ![](/images/lekt4502.jpg)
 Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4502))
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt4501.jpg**: Tipărire pe bloc textil, Ahmedabad. -- Sursa imaginii: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accesat la 2009-01-08. -- Licență Creative Commons (Atribuire, utilizare non-comercială, share alike)
 

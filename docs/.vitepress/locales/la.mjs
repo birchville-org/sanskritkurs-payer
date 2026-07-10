@@ -12,7 +12,7 @@ export const la = {
       { text: 'Index rerum', link: '/la/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Laudes', link: '/la/impressum' },
-      { text: '⚙️', link: '/la/settings', ariaLabel: 'Aperi Configurationes' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/la/settings', ariaLabel: 'Aperi Configurationes' }
     ],
     docFooter: {
       prev: 'Lectio prior',

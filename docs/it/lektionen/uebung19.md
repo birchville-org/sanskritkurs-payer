@@ -58,7 +58,7 @@ Chi ha prosperità, ha parenti,
 Chi ha prosperità, è un uomo nel mondo,  
 Chi infatti ha prosperità, è un sapiente.
 
-:::media
+::: media
 ![](/images/uebung029.webp)
 Fig.: ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung029))

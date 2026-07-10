@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Formare le corrispondenti forme del perfetto per le seguenti forme verbali:
 
-:::grammar-box
+::: grammar-box
 | Presente / Imperfetto | Perfetto |
 | :--- | :--- |
 | ⟪१⟫. **⟪गायन्ति⟫** | ⟪जगुः⟫ |
@@ -83,7 +83,7 @@ C) Trasformare le frasi dell'esercizio B) sostituendo i perfetti con imperfetti:
 
 ⟪४⟫. ⟪अर्हन्तः⟫ ⟪कुलबन्धनमभिन्दंल्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪चारुन्धन्सत्यमजानन्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमाप्नुवन्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung058.webp)
 Fig.: ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ...
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung058))

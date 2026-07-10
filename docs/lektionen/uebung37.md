@@ -101,25 +101,26 @@ Hat der Śūdra etwa die Last getragen?
 
 C) Bestimmen und übersetzen Sie folgende Komposita:
 
-:::grammar-box
+::: grammar-box
 | Kompositum | Bedeutung | Erläuterung |
 | :--- | :--- | :--- |
-| **⟪अतिमात्रम्⟫** | übermäßig | ⟪मात्रामतीत्य⟫ (über das Maß hinaus) |
-| **⟪अतिवसन्तम्⟫** | nach dem Frühling | ⟪वसन्तमतीत्य⟫ (nach Ende des Frühlings) |
-| **⟪अधिहरि⟫** | in Hari | ⟪हरौ⟫ (in Hari) |
-| **⟪अधिकेरलम्⟫** | in Kerala | ⟪केरेलेषु⟫ (in Kerala) |
-| **⟪अनुरूपम्⟫** | entsprechend | ⟪रूपस्य⟫ ⟪योग्यम्⟫ (der Form angemessen) |
-| **⟪अनुदिनम्⟫** | täglich | ⟪दिने⟫ ⟪दिने⟫ (Tag für Tag) |
-| **⟪अनुगङ्गम्⟫** | entlang des Ganges | ⟪गङ्गाया⟫ ⟪अनु⟫ (entlang des Ganges) |
-| **⟪अनुविष्णुम्⟫** | nach Viṣṇu | ⟪विष्णोः⟫ ⟪पश्चात्⟫ (hinter/nach Viṣṇu) |
-| **⟪अपविष्णुम्⟫** | ohne Viṣṇu | ⟪विष्णोः⟫ ⟪पृथक्⟫ (fern von Viṣṇu) |
-| **⟪अभिमुखम्⟫** | gegenüber | ⟪मुखमभि⟫ (auf das Gesicht zu) |
-| **⟪अभ्यग्नि⟫** | zum Feuer hin | ⟪अग्निमभि⟫ (in Richtung des Feuers) |
-| **⟪आबालवृद्धम्⟫** | von Kindern bis zu Greisen | ⟪आ⟫ ⟪बालेभ्यश्च⟫ ⟪वृद्धेभ्यश्च⟫ (einschließlich...) |
-| **⟪आमरणम्⟫** | bis zum Tod | ⟪आ⟫ ⟪मरणात्⟫ (bis zum Sterben) |
-| **⟪उपवृक्षम्⟫** | beim Baum | ⟪वृक्षस्य⟫ ⟪समीपे⟫ (nahe beim Baum) |
-| **⟪यथास्थानम्⟫** | am rechten Ort | ⟪स्थानमनतिक्रम्य⟫ (den Ort nicht überschreitend) |
-::::::media
+| ⟪अतिमात्रम्⟫ | übermässig | ⟪मात्रामतीत्य⟫ (über das Mass hinaus) |
+| ⟪अतिवसन्तम्⟫ | nach dem Frühling | ⟪वसन्तमतीत्य⟫ (nach Ende des Frühlings) |
+| ⟪अधिहरि⟫ | in Hari | ⟪हरौ⟫ (in Hari) |
+| ⟪अधिकेरलम्⟫ | in Kerala | ⟪केरेलेषु⟫ (in Kerala) |
+| ⟪अनुरूपम्⟫ | entsprechend | ⟪रूपस्य⟫ ⟪योग्यम्⟫ (der Form angemessen) |
+| ⟪अनुदिनम्⟫ | täglich | ⟪दिने⟫ ⟪दिने⟫ (Tag für Tag) |
+| ⟪अनुगङ्गम्⟫ | entlang des Ganges | ⟪गङ्गाया⟫ ⟪अनु⟫ (entlang des Ganges) |
+| ⟪अनुविष्णुम्⟫ | nach Viṣṇu | ⟪विष्णोः⟫ ⟪पश्चात्⟫ (hinter/nach Viṣṇu) |
+| ⟪अपविष्णुम्⟫ | ohne Viṣṇu | ⟪विष्णोः⟫ ⟪पृथक्⟫ (fern von Viṣṇu) |
+| ⟪अभिमुखम्⟫ | gegenüber | ⟪मुखमभि⟫ (auf das Gesicht zu) |
+| ⟪अभ्यग्नि⟫ | zum Feuer hin | ⟪अग्निमभि⟫ (in Richtung des Feuers) |
+| ⟪आबालवृद्धम्⟫ | von Kindern bis zu Greisen | ⟪आ⟫ ⟪बालेभ्यश्च⟫ ⟪वृद्धेभ्यश्च⟫ (einschliesslich...) |
+| ⟪आमरणम्⟫ | bis zum Tod | ⟪आ⟫ ⟪मरणात्⟫ (bis zum Sterben) |
+| ⟪उपवृक्षम्⟫ | beim Baum | ⟪वृक्षस्य⟫ ⟪समीपे⟫ (nahe beim Baum) |
+| ⟪यथास्थानम्⟫ | am rechten Ort | ⟪स्थानमनतिक्रम्य⟫ (den Ort nicht überschreitend) |
+:::
+::: media
 ![](/images/uebung062.webp)
 Abb.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
 (Bildquelle: [Details](/licenses#uebung062))
@@ -128,6 +129,7 @@ Abb.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सु�
 
 ## Narratives Perfekt (Die Geschichte vom Greis)
 
-Übersetzen Sie ins Sanskrit, indem Sie ausschließlich Verbformen des Perfekt verwenden:
+Übersetzen Sie ins Sanskrit, indem Sie ausschliesslich Verbformen des Perfekt verwenden:
 
 **⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪बभूव⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलं⟫ ⟪जगाम⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलानि⟫ ⟪ववृतिरे⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जज्ञे⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪न⟫ ⟪शेकुः⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪तस्थुः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪जगाम⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्रसिसिषे⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्रसिसिषुः⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪जगाम⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫**
+

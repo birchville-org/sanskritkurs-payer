@@ -10,8 +10,8 @@ last_reconstructed: 2026-05-15
 
 Form the corresponding Aorist forms for the following Present or Perfect forms:
 
-:::grammar-box
-| No. | Form | Determination / Meaning | Aorist |
+::: grammar-box
+| Nr. | Form | Determination / Meaning | Aorist |
 |:---|:---|:---|:---|
 | ⟪१⟫. | **⟪यन्ति⟫** | they go | **⟪अगुः⟫** |
 | ⟪२⟫. | **⟪पिबामि⟫** | I drink | **⟪अपाम्⟫** |
@@ -36,8 +36,10 @@ Form the corresponding Aorist forms for the following Present or Perfect forms:
 | ⟪२१⟫. | **⟪जायते⟫** | he is born | **⟪अजनि⟫** |
 | ⟪२२⟫. | **⟪गीयते⟫** | it is sung | **⟪अगायि⟫** |
 | ⟪२३⟫. | **⟪गम्यते⟫** | it has gone | **⟪अगामि⟫** |
-::::::media
+:::
+
+::: media
 ![](/images/uebung093.webp)
 Fig.: ⟪अगायि⟫
-(Image source: [Details](/en/licenses#uebung093))
+(Image source: [Details](/licenses#uebung093))
 :::

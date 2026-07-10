@@ -1,488 +1,499 @@
 ---
-title: Lektion 44
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
+title: 第44课
+subtitle: "第二人称动词形式（⟪मध्यमः⟫）无音词干，后缀以元音结尾的构成"
 lesson_id: 44
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 44
 
-## 44.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix
+## 44.1. 第二人称动词形式（⟪मध्यमः⟫）无词尾词干，后缀以元音结尾
 
-:::media
+::: media
 ![](/images/lekt4301.jpg)
-::::::grammar-box
-**Die 3.sg.Ā.Imperfekt ist formgleich mit der 2.pl.P.Imperfekt!!!** <!-- TODO: Fallback translation -->
 :::
-### 44.1.1. Fünfte Präsensklasse (⟪स्वादि⟫)
-
-⟪सु⟫ 5U <!-- TODO: Fallback translation -->
-
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralisation! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralisation! | ⟪सुनुध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+**第三人称单数Ā语态未完成时与第二人称复数P语态未完成时形式相同！！！**
 :::
-### 44.1.2. Achte Präsensklasse (⟪तनादि⟫)
+### 44.1.1. 第五现在时类（⟪स्वादि⟫）
 
-⟪तन्⟫ 8U <!-- TODO: Fallback translation -->
+⟪सु⟫ 5U
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
+| --- | --- | --- | --- | --- |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **直陈式现在时** :br⟪⟪लट्⟫⟫ | ⟪⟪सुनोषि⟫⟫:br腭化！ | ⟪⟪सुनुथ⟫⟫ | ⟪⟪सुनुषे⟫⟫:br腭化！ | ⟪⟪सुनुध्वे⟫⟫ |
+| **未完成过去时** :br⟪⟪लङ्⟫⟫ | ⟪⟪असुनोस्⟫⟫ | ⟪⟪असुनुत⟫⟫ | ⟪⟪असुनुथास्⟫⟫ | ⟪⟪सुनुध्वम्⟫⟫ |
+| **虚拟式** :br⟪⟪विधिलिङ्⟫⟫ | ⟪⟪सुनुयास्⟫⟫ | ⟪⟪सुनुयात⟫⟫ | ⟪⟪सुन्वीथास्⟫⟫ | ⟪⟪सुन्वीध्वम्⟫⟫ |
 :::
-⟪कृ⟫ 8U <!-- TODO: Fallback translation -->
+### 44.1.2. 第八现在时类（⟪⟪तनादि⟫⟫）
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ | <!-- TODO: Fallback translation -->
+⟪तन्⟫ 8U
+
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
+| --- | --- | --- | --- | --- |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **直陈式现在时** :br⟪⟪लट्⟫⟫ | ⟪⟪तनोषि⟫⟫ | ⟪⟪तनुथ⟫⟫ | ⟪⟪तनुषे⟫⟫ | ⟪⟪तनुध्वे⟫⟫ |
+| **未完成过去时** :br⟪⟪लङ्⟫⟫ | ⟪⟪अतनोस्⟫⟫ | ⟪⟪अतनुत⟫⟫ | ⟪⟪अतनुथास्⟫⟫ | ⟪⟪अतनुध्वम्⟫⟫ |
+| **愿语气** :br⟪⟪विधिलिङ्⟫⟫ | ⟪⟪तनुयास्⟫⟫ | ⟪⟪तनुयात⟫⟫ | ⟪⟪तन्वीथास्⟫⟫ | ⟪⟪तन्वीध्वम्⟫⟫ |
 :::
-### 44.1.3. Neunte Präsensklasse (⟪क्र्यादि⟫)
+⟪⟪कृ⟫⟫ 8U
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
+| --- | --- | --- | --- | --- |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **直陈式现在时** :br⟪⟪लट्⟫⟫ | ⟪⟪करोषि⟫⟫ | ⟪⟪कुरुथ⟫⟫ | ⟪⟪कुरुषे⟫⟫ | ⟪⟪कुरुध्वे⟫⟫ |
+| **未完成过去式** :br⟪⟪लङ्⟫⟫ | ⟪⟪अकरोस्⟫⟫ | ⟪⟪अकुरुत⟫⟫ | ⟪⟪अकुरुथास्⟫⟫ | ⟪⟪अकुरुध्वम्⟫⟫ |
+| **愿语气** :br⟪⟪विधिलिङ्⟫⟫ | ⟪⟪कुर्यास्⟫⟫ | ⟪⟪कुर्यात⟫⟫ | ⟪⟪कुर्वीथास्⟫⟫ | ⟪⟪कुर्वीध्वम्⟫⟫ |
 :::
-## 44.2. Zum Wortsandhi
+### 44.1.3. 第九现在时类（⟪⟪क्र्यादि⟫⟫）
 
-Bei konsonantisch auslautenden Präsensstämmen sind die schon behandelten Gesetze des Wortsandhi zu beachten. <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
+| --- | --- | --- | --- | --- |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **直陈式现在时** :br⟪⟪लट्⟫⟫ | ⟪⟪क्रीणासि⟫⟫ | ⟪⟪क्रीणीथ⟫⟫ | ⟪⟪क्रीणीषे⟫⟫:br腭化作用！ | ⟪⟪क्रीणीध्वे⟫⟫ |
+| **未完成过去时** :br⟪⟪लङ्⟫⟫ | ⟪⟪अक्रीणास्⟫⟫ | ⟪⟪अक्रीणीत⟫⟫ | ⟪⟪अक्रीणीथास्⟫⟫ | ⟪⟪अक्रीणीध्वम्⟫⟫ |
+| **虚拟式** :br⟪⟪विधिलिङ्⟫⟫ | ⟪⟪क्रीणीयास्⟫⟫ | ⟪⟪क्रीणीयात⟫⟫ | ⟪⟪क्रीणीथास्⟫⟫:brkrī + n + ī-thās | ⟪⟪क्रीणीध्वम्⟫⟫:brkrī + n + ī-dhvam |
+:::
+## 44.2. 关于词音连诵（Wortsandhi）
 
-Außerdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung. <!-- TODO: Fallback translation -->
+对于以辅音结尾的现在时词干，需要注意已经讨论过的连音规则。
 
-(Ausführliche Zusammenstellung aller hierher gehörigen Lautveränserungen bei Kielhorn, Grammatik S. 76f.) <!-- TODO: Fallback translation -->
+此外，还应用以下关于词法连音的规则。
+
+（关于此处相关的所有音变现象的详细汇编，参见Kielhorn，《语法》第76-77页。）
 
 ### 44.2.1. Zum Wortsandhi für dh-
 
-:::grammar-box
-1. **Aspirata wird vor Aspirata durch den entsprechenden Nichtspiraten ersetzt:** <!-- TODO: Fallback translation -->
-   z.B. **⟪रुध्⟫** 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » **⟪रुन्द्ध्वे⟫** (run**ddh**ve) <!-- TODO: Fallback translation -->
-2. **-h + dh- » -gdh-** <!-- TODO: Fallback translation -->
-   z.B. **⟪दुह्⟫** 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » **⟪धुग्ध्वे⟫** (dhu**gdh**ve) <!-- TODO: Fallback translation -->
-3. **-ṣ + dh- » -ḍḍh-** (Diese Regel gilt nur für die Konjugation!) <!-- TODO: Fallback translation -->
-   z.B. **⟪द्विष्⟫** 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » **⟪द्विड्ढ्वे⟫** (dvi**ḍḍh**ve) <!-- TODO: Fallback translation -->
-4. **-s + dh- » -dh-** (Wegfall des -s) <!-- TODO: Fallback translation -->
-   z.B. **⟪आस्⟫** 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » **⟪आध्वे⟫** (ādhve) <!-- TODO: Fallback translation -->
+::: grammar-box
+1. **送气音在送气音前被相应的不送气音取代：**
+   例如：**⟪रुध्⟫** 7U: ⟪रुन्ध्⟫ + ⟪ध्वे⟫ » **⟪रुन्द्ध्वे⟫** (run**ddh**ve)
+2. **-h + dh- » -gdh-**
+   例如：**⟪दुह्⟫** 2U: ⟪दुह्⟫ + ⟪ध्वे⟫ » **⟪धुग्ध्वे⟫** (dhu**gdh**ve)
+3. **-ṣ + dh- » -ḍḍh-** （此规则仅适用于变位！）
+   例如：**⟪द्विष्⟫** 2U: ⟪द्विष्⟫ + ⟪ध्वे⟫ » **⟪द्विड्ढ्वे⟫** (dvi**ḍḍh**ve)
+4. **-s + dh- » -dh-** （-s 脱落）
+   例如：**⟪आस्⟫** 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » **⟪आध्वे⟫** (ādhve)
 :::
-### 44.2.2. Zum Wortsandhi für s-
+### 44.2.2. 关于 s- 的词尾连音
 
-:::grammar-box
-1. **-s + s- » -ts- oder (nicht wahlweise!) -ss-** (so in 2. Präsensklasse) <!-- TODO: Fallback translation -->
-   Beispiele: <!-- TODO: Fallback translation -->
-   * **⟪वस्⟫** 1P: Futur: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati) <!-- TODO: Fallback translation -->
-   * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e) <!-- TODO: Fallback translation -->
-2. **-ṣ + s- » -kṣ-** <!-- TODO: Fallback translation -->
-   z.B. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i) <!-- TODO: Fallback translation -->
+::: grammar-box
+1. **-s + s- » -ts- 或（非可选地！）-ss-**（如在第2类现在时中）
+   示例：
+   * **⟪वस्⟫** 第一人称单数：将来时：⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
+   * **⟪वस्⟫** 第二人称中位语态：⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
+2. **-ṣ + s- » -kṣ-**
+   例如 **⟪द्विष्⟫** 第二人称不规则：⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
 :::
-## 44.3. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix
+## 44.3. 第二人称动词形式（⟪मध्यमः⟫）无元音结尾后缀的非主题词干的构成
 
 ### 44.3.1. Zweite Präsensklasse (⟪अदादि⟫)
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
+| --- | --- | --- | --- | --- |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **直陈式现在时** :br⟪⟪लट्⟫⟫ | ⟪⟪द्वेक्षि⟫⟫ | ⟪⟪द्विष्ठ⟫⟫ | ⟪⟪द्विक्षे⟫⟫ | ⟪⟪द्विड्ढ्वे⟫⟫ |
+| **未完成过去式** :br⟪⟪लङ्⟫⟫ | ⟪⟪अद्वेट्⟫⟫:bra-dveṣ + s | ⟪⟪अद्विष्ट⟫⟫ | ⟪⟪अद्विष्ठास्⟫⟫ | ⟪⟪द्विड्ढ्वम्⟫⟫ |
+| **虚拟式** :br⟪⟪विधिलिङ्⟫⟫ | ⟪⟪द्विष्यास्⟫⟫ | ⟪⟪द्विष्यात⟫⟫ | ⟪⟪द्विषीथास्⟫⟫ | ⟪⟪द्विषीध्वम्⟫⟫ |
 :::
-⟪आस्⟫ 2Ā <!-- TODO: Fallback translation -->
+⟪⟪आस्⟫⟫ 2Ā
 
-:::grammar-box
-| | ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪आत्मनेपदम्⟫||
+| --- | --- | --- |
+| | **⟪⟪एकवचनम्⟫** | **⟪⟪बहुवचनम्⟫** |
+| **直陈式现在时** :br⟪⟪लट्⟫** | ⟪⟪आस्से⟫** | ⟪⟪आध्वे⟫** |
+| **未完成过去时** :br⟪⟪लङ्⟫** | ⟪⟪आस्थास्⟫** | ⟪⟪आध्वम्⟫** |
+| **祈愿式** :br⟪⟪विधिलिङ्⟫** | ⟪⟪आसीथास्⟫** | ⟪⟪आसीध्वम्⟫** |
 :::
-⟪दुह्⟫ 2U <!-- TODO: Fallback translation -->
+⟪⟪दुह्⟫ 2U
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अधोक्⟫:braus: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
+| --- | --- | --- | --- | --- |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **直陈式现在时** :br⟪⟪लट्⟫⟫ | ⟪⟪धोक्षि⟫⟫ | ⟪⟪दुग्ध⟫⟫ | ⟪⟪धुक्षे⟫⟫ | ⟪⟪धुग्ध्वे⟫⟫ |
+| **未完成过去时** :br⟪⟪लङ्⟫⟫ | ⟪⟪अधोक्⟫⟫:braus: adhokṣ | ⟪⟪अदुग्ध⟫⟫ | ⟪⟪अदुग्धास्⟫⟫ | ⟪⟪अधुग्ध्वम्⟫⟫ |
+| **虚拟式** :br⟪⟪विधिलिङ्⟫⟫ | ⟪⟪दुह्यास्⟫⟫ | ⟪⟪दुह्यात⟫⟫ | ⟪⟪दुहीथास्⟫⟫ | ⟪⟪दुहीध्वम्⟫⟫ |
 :::
-⟪इ⟫ 2P <!-- TODO: Fallback translation -->
+⟪⟪इ⟫⟫ 第二人称
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | &lt;⟪इषे⟫&gt; | &lt;⟪इध्वे⟫&gt; | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ |  ⟪इयास्⟫ |  ⟪इयात⟫ |  ⟪इयीथास्⟫:briy-ī-thās |  ⟪इयीध्वम्⟫ | <!-- TODO: Fallback translation -->
-::::::grammar-box
-| | ⟪परस्मैपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:braus: *hn + ta | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अहन्⟫:braus: a-han + s | ⟪अहत⟫:braus: a-*hn + ta | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
+| --- | --- | --- | --- | --- |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **直陈式现在时** :br⟪⟪लट्⟫⟫ | ⟪⟪एषि⟫⟫ | ⟪⟪इथ⟫⟫ | \<⟪⟪इषे⟫⟫\> | \<⟪⟪इध्वे⟫⟫\> |
+| **未完成过去式** :br⟪⟪लङ्⟫⟫ | ⟪⟪ऐस्⟫⟫:bra + e + s | ⟪⟪ऐत⟫⟫:bra + i + ta | | |
+| **虚拟式** :br⟪⟪विधिलिङ्⟫⟫ |  ⟪⟪इयास्⟫⟫ |  ⟪⟪इयात⟫⟫ |  ⟪⟪इयीथास्⟫⟫:briy-ī-thās |  ⟪⟪इयीध्वम्⟫⟫ |
 :::
-⟪स्तु⟫ 2U <!-- TODO: Fallback translation -->
-
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪⟪परस्मैपदम्⟫⟫ ||
+| --- | --- | --- |
+| | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
+| **直陈式现在时** :br⟪⟪लट्⟫⟫ | ⟪⟪हंसि⟫⟫:brhan + si | ⟪⟪हथ⟫⟫:braus: *hn + ta |
+| **未完成过去式** :br⟪⟪लङ्⟫⟫ | ⟪⟪अहन्⟫⟫:braus: a-han + s | ⟪⟪अहत⟫⟫:braus: a-*hn + ta |
+| **虚拟式** :br⟪⟪विधिलिङ्⟫⟫ | ⟪⟪हन्यास्⟫⟫ | ⟪⟪हन्यात⟫⟫ |
 :::
-⟪अस्⟫ 2P (besonders zu merken!) <!-- TODO: Fallback translation -->
+⟪⟪स्तु⟫⟫ 2U
 
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ***⟪असि⟫*** | ***⟪स्थ⟫*** | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ***⟪आसीस्⟫*** | ***⟪आस्त⟫*** | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ***⟪स्यास्⟫*** | ***⟪स्यात⟫*** | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **现在时直陈式** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
+| **过去时** :br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
+| **祈愿式** :br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
 :::
-⟪तत्त्वमसि⟫ <!-- TODO: Fallback translation -->
+⟪अस्⟫ 第二人称（特别需要记住！）
 
-⟪शास्⟫ 2P <!-- TODO: Fallback translation -->
-
-:::grammar-box
-| | ⟪परस्मैपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ | <!-- TODO: Fallback translation -->
-::::::grammar-box
-| | ⟪परस्मैपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ | <!-- TODO: Fallback translation -->
-| **Imperfekt** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ | <!-- TODO: Fallback translation -->
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ ||
+| --- | --- | --- |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **现在时直陈式** :br⟪लट्⟫ | ***⟪असि⟫*** | ***⟪स्थ⟫*** |
+| **过去时** :br⟪लङ्⟫ | ***⟪आसीस्⟫*** | ***⟪आस्त⟫*** |
+| **愿语气** :br⟪विधिलिङ्⟫ | ***⟪स्यास्⟫*** | ***⟪स्यात⟫*** |
 :::
-## 44.4. Der Vokativ (⟪आमन्त्रितम्⟫)
+⟪तत्त्वमसि⟫
 
-Die einheimischen Grammatiker betrachten den Vokativ (⟪आमन्त्रितम्⟫) nicht als eigenen Kasus, sondern nur als Modifikation des Nominativ (⟪प्रथमा⟫). <!-- TODO: Fallback translation -->
+⟪शास्⟫ 2P
+
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ ||
+| --- | --- | --- |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **直陈式现在时** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
+| **未完成过去时** :br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
+| **虚拟式** :br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
+:::
+::: grammar-box
+| | ⟪परस्मैपदम्⟫ ||
+| --- | --- | --- |
+| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **直陈式现在时** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
+| **未完成过去时** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
+| **虚拟式** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
+:::
+## 44.4. 呼格 (⟪आमन्त्रितम्⟫)
+
+本土语法学家不把呼格（⟪आमन्त्रितम्⟫）视为独立的格，而只视为主格（⟪प्रथमा⟫）的变体。
+
+::: important
+**呼格用于称呼、呼唤，且独立于句子的其余部分，因此与其他表示与动词或其他名词关系的格不同。**
+
+**呼格通常置于句首：**
 
 :::
-important
-**Der Vokativ dient dem Anruf, dem Ansprechen und steht außerhalb des Zusammenhangs mit dem übrigen Satz, unterscheidet sich also von den anderen Kasus, die eine Beziehung zum Verb oder zu einem anderen Nomen ausdrücken.** <!-- TODO: Fallback translation -->
-
-**Meist wird der Vokativ an den Beginn des Satzes gestellt:** <!-- TODO: Fallback translation -->
-
-:::indent
-⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Kind, was sagst du?" <!-- TODO: Fallback translation -->
-:::::::::
-important
-**Man vermeide die Übersetzung des Vokativ mit "**O** ...". Wir benutzen im Deutschen ständig Vokative, wenn wir z.B. sagen: "Schatz, was kochen wir heute?". Niemand wird in dieser Bedeutung sagen: "**O** Schatz, was kochen wir heute?"** <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = “孩子，你说什么？”
+:::: important
+**请避免将呼格翻译为“哦……”。我们在德语中经常使用呼格，例如我们会说：“亲爱的，我们今天做什么菜？”。没有人会用这种含义说：“哦，亲爱的，我们今天做什么菜？”**
+::::
+:::
+::: media
 ![](/images/lekt4402.webp)
-Abb.: Zur richtigen Verwendung von "O" im Deutschen: **"O Mann!"**
-(Bildquelle: [Details](/licenses#lekt4402)) <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Die Formen des Vokativ Plural und Dual sind identisch mit denen des Nominativ (⟪प्रथमा⟫) Plural bzw. Dual.** <!-- TODO: Fallback translation -->
-
-**Die Formen des Vokativ Singular folgen in [Lektion 45](lektion45.md).** <!-- TODO: Fallback translation -->
+图：德语中“哦”的正确用法：**“哦，男人！”**
+（图片来源：[详情](/zh-CN/licenses#lekt4402)）
 :::
-## 44.5. Wortliste
+::: grammar-box
+**呼格的复数和双数形式与主格（⟪प्रथमा⟫）的复数和双数形式相同。**
 
-⟪प्रति⟫ Präverb: zurück, wider, gegen - hin <!-- TODO: Fallback translation -->
-
-:::indent
-z.B. <!-- TODO: Fallback translation -->
-
-**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : zurückschlagen <!-- TODO: Fallback translation -->
-
-**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : zurücksagen = antworten <!-- TODO: Fallback translation -->
-
-**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : zurückweisen, verschmähen <!-- TODO: Fallback translation -->
+**呼格单数的形式见[第45课](lektion45.md)。**
 :::
-⟪या⟫ 2P ⟪याति⟫ : gehen, fahren <!-- TODO: Fallback translation -->
+## 44.5. 词汇表
 
-:::indent
-Perf. IV ⟪ययौ⟫  
-Fut. ⟪यास्यति⟫  
-Pass. ⟪यायते⟫  
-Kaus. ⟪यापयति⟫  
-PPP ⟪यात⟫  
-Inf. ⟪यातुम्⟫   <!-- TODO: Fallback translation -->
+⟪प्रति⟫ 前缀：回，反，对 — 向
 
-davon: <!-- TODO: Fallback translation -->
+::: indent
+例如
 
-**⟪यान⟫** n.: Gehen, Weg, Fahrzeug <!-- TODO: Fallback translation -->
-::::::media
+**⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ ：反击
+
+**⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : 复述 = 回答
+
+**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : 拒绝，轻视
+:::
+⟪या⟫ 2P ⟪याति⟫ : 走，行驶
+
+::: indent
+完成时 IV ⟪ययौ⟫  
+将来时 ⟪यास्यति⟫  
+被动语态 ⟪यायते⟫  
+使役式 ⟪यापयति⟫  
+过去被动分词 (PPP) ⟪यात⟫  
+不定式 ⟪यातुम्⟫
+
+davon:
+
+**⟪यान⟫** n.：行走，道路，车辆
+:::: media
 ![](/images/lekt4403.webp)
-Abb.: ⟪रेल्यानम्⟫
-(Bildquelle: [Details](/licenses#lekt4403)) <!-- TODO: Fallback translation -->
+图：⟪रेल्यानम्⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4403)）
+::::
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : liegen. Diese Wurzel hat in allen Formen des Präsensstamms **Hochstufe:** 1.sg.Ind.Präs.Ā ***⟪शेये⟫*** (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā ***⟪शेरते⟫***, 3.pl.Imperf.Ā ***⟪अशेरत⟫*** <!-- TODO: Fallback translation -->
+**⟪शी⟫** 2Ā ⟪शेते⟫ ：躺卧。该词根在所有现在时词形中均具有**强级：** 1.单.直陈式.现在时.中位语态 ***⟪शेये⟫*** (śe + e)。需特别注意以下形式：3.复.直陈式.现在时.中位语态 ***⟪शेरते⟫***，3.复.未完成时.中位语态 ***⟪अशेरत⟫***
 
-:::indent
-Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
-Fut. ⟪शयिष्यते⟫  
-Kaus. ⟪शापयति⟫  
-PPP ⟪शयित⟫  
-Inf. ⟪शयितुम्⟫   <!-- TODO: Fallback translation -->
+::: indent
+完成时 IIIa ⟪शिश्ये⟫ (śi-śī + e)  
+将来时 ⟪शयिष्यते⟫  
+使役 ⟪शापयति⟫  
+过去被动分词 ⟪शयित⟫  
+不定式 ⟪शयितुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-**⟪शयन⟫** n.: Liege, Bett <!-- TODO: Fallback translation -->
-::::::media
+**⟪शयन⟫** n.：卧具，床
+:::: media
 ![](/images/lekt4404.webp)
-Abb.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
-(Bildquelle: [Details](/licenses#lekt4404)) <!-- TODO: Fallback translation -->
+图：⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4404)）
+::::
 :::
-⟪नन्द्⟫ 1P ⟪नन्दति⟫ : sich freuen an (⟪तृतीयया⟫) <!-- TODO: Fallback translation -->
+⟪नन्द्⟫ 1P ⟪नन्दति⟫ ：对（⟪तृतीयया⟫）感到喜悦
 
-:::indent
-Perf. I ⟪ननन्द⟫  
-Fut. ⟪नन्दिष्यति⟫  
-Pass.: ⟪नन्द्यते⟫  
-Kaus. ⟪नन्दयति⟫  
-PPP ⟪नन्दित⟫  
-Inf. ⟪नन्दितुम्⟫  
-Absol. -⟪नन्द्य⟫  
-Gerundiv ⟪नन्द्य⟫   <!-- TODO: Fallback translation -->
+::: indent
+完成时 I ⟪ननन्द⟫  
+将来时 ⟪नन्दिष्यति⟫  
+被动语态：⟪नन्द्यते⟫  
+使役 ⟪नन्दयति⟫  
+过去分词 ⟪नन्दित⟫  
+不定式 ⟪नन्दितुम्⟫  
+绝对分词 -⟪नन्द्य⟫  
+动形词 ⟪नन्द्य⟫
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-**⟪नन्दिन्⟫** 3: durch (besondere) Freude gekennzeichnet, freudig ; m. Name des Reittiers (⟪वहन⟫) des ⟪शिव⟫ (ein Stier) <!-- TODO: Fallback translation -->
-::::::media
+**⟪नन्दिन्⟫** 3：以（特殊的）喜悦为特征，愉快的；m. 坐骑（⟪वहन⟫）的名字（⟪शिव⟫，一头公牛）
+:::: media
 ![](/images/lekt4405.webp)
-Abb.: ⟪नन्दी⟫
-(Bildquelle: [Details](/licenses#lekt4405)) <!-- TODO: Fallback translation -->
+图：⟪नन्दी⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4405)）
+::::
 :::
-⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : seine Freude haben an (⟪द्वितीयया⟫), jemanden freudig begrüßen, willkommen heißen <!-- TODO: Fallback translation -->
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ ：以……为乐（⟪द्वितीयया⟫），愉快地迎接某人，表示欢迎
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen <!-- TODO: Fallback translation -->
+**⟪यम्⟫** 1P ***⟪यच्छति⟫*** ：持有，承担；提供，赐予；团结，控制，约束，征服
 
-:::indent
-Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
-Fut. ⟪यंस्यति⟫  
-Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ aber: ⟪नि⟫***⟪यम⟫***⟪यति⟫  
-PPP ⟪यत⟫  
-Inf. ⟪यन्तुम्⟫  
-Absol. -⟪यम्य⟫ <!-- TODO: Fallback translation -->
+::: indent
+ Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
+ Fut. ⟪यंस्यति⟫  
+ Pass. ⟪यम्यते⟫  
+ Kaus. ⟪यामयति⟫ aber: ⟪नि⟫***⟪यम⟫***⟪यति⟫  
+ PPP ⟪यत⟫  
+ Inf. ⟪यन्तुम्⟫  
+ Absol. -⟪यम्य⟫
 :::
-**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : dehnen, ausstrecken <!-- TODO: Fallback translation -->
+**⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : 伸展，拉伸
 
-:::indent
-PPP ⟪आयत⟫ 3: lang gestreckt <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+PPP ⟪आयत⟫ 3：伸展
+:::: media
 ![](/images/lekt4406.webp)
-Abb.: ⟪आयतो⟫ ⟪मरुः⟫
-(Bildquelle: [Details](/licenses#lekt4406)) <!-- TODO: Fallback translation -->
+图：⟪आयतो⟫ ⟪मरुः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4406)）
+::::
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : darreichen, anbieten, übergeben <!-- TODO: Fallback translation -->
+⟪यम्⟫ + ⟪प्र⟫ 第一人称单数 प्रयच्छति⟫：奉献，提供，移交
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : zusammenbinden, anbinden, bändigen <!-- TODO: Fallback translation -->
+⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : 结合，绑定，驯服
 
-⟪यत्⟫ 1Ā ⟪यतते⟫ : streben nach (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫) <!-- TODO: Fallback translation -->
+⟪यत्⟫ 1Ā ⟪यतते⟫ ：追求（⟪सप्तमी⟫，⟪चतुर्थी⟫，⟪द्वितीया⟫）
 
-:::indent
-Perf. Vb ⟪येते⟫  
-Fut. ⟪यतिष्यते⟫  
-Pass. ⟪यत्यते⟫  
-Kaus. ⟪यातयति⟫  
-PPP ⟪यत्त⟫  
-Inf. ⟪यतितुम्⟫   <!-- TODO: Fallback translation -->
+::: indent
+完成体动词 ⟪येते⟫  
+将来时 ⟪यतिष्यते⟫  
+被动语态 ⟪यत्यते⟫  
+使役式 ⟪यातयति⟫  
+过去被动分词 ⟪यत्त⟫  
+不定式 ⟪यतितुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-**⟪यत्न⟫** m.: Bemühung, Anstrengung <!-- TODO: Fallback translation -->
-::::::media
+**⟪यत्न⟫** m.: 努力，费力
+:::: media
 ![](/images/lekt4407.webp)
-Abb.: ⟪यत्नेन⟫
-(Bildquelle: [Details](/licenses#lekt4407)) <!-- TODO: Fallback translation -->
+图：⟪यत्नेन⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4407)）
+::::
 :::
-**⟪रभ्⟫** 1Ā ⟪रभते⟫ (Nebenform zu ⟪लभ्⟫): fassen <!-- TODO: Fallback translation -->
+**⟪रभ्⟫ 1Ā ⟪रभते⟫（⟪लभ्⟫的变体）：fassen
 
-:::indent
-Perf. Vb ⟪रेभे⟫  
-Fut. ⟪रप्स्यते⟫  
-Pass. ⟪रभ्यते⟫  
-Kaus. ***⟪रम्भ⟫***⟪यति⟫  
-PPP ⟪रब्ध⟫  
-Inf. ⟪रब्धुम्⟫  
-Absol. -⟪रभ्य⟫ <!-- TODO: Fallback translation -->
+::: indent
+完成时动词 ⟪रेभे⟫  
+将来时 ⟪रप्स्यते⟫  
+被动语态 ⟪रभ्यते⟫  
+使役式 ***⟪रम्भ⟫***⟪यति⟫  
+过去被动分词 ⟪रब्ध⟫  
+不定式 ⟪रब्धुम्⟫
+绝对格 -⟪रभ्य⟫
 :::
-⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : anfassen, beginnen, unternehmen <!-- TODO: Fallback translation -->
+⟪रभ्⟫ + ⟪आ⟫ 第一类动词 ⟪आरभते⟫ ：触摸，开始，从事
 
-⟪प्रव्रज्या⟫ f. (zu ⟪प्र⟫-⟪व्रज्⟫): das Fortgehen aus dem Heim in die Heimlosigkeit ; Zeremonie, mit der man buddhistischer Novize wird (Pali: ⟪पब्बजा⟫) <!-- TODO: Fallback translation -->
+⟪प्रव्रज्या⟫ f.（源自⟪प्र⟫-⟪व्रज्⟫）：离开家庭、走向无家可归的状态；成为佛教沙弥的仪式（巴利语：⟪पब्बजा⟫）
 
-:::deleteme-box
-Siehe: <!-- TODO: Fallback translation -->
+::: deleteme-box
+参见：
 
-**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm) <!-- TODO: Fallback translation -->
-::::::media
+**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+:::: media
 ![](/images/lekt4408.webp)
 Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/licenses#lekt4408)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/zh-CN/licenses#lekt4408))
+::::
 :::
 ## 44.6. Übung
 
-A) Bestimmen und übersetzen Sie folgende Formen: <!-- TODO: Fallback translation -->
+A) Bestimmen und übersetzen Sie folgende Formen:
 
-1.  ⟪आदेः⟫ <!-- TODO: Fallback translation -->
-2.  ⟪आदः⟫ <!-- TODO: Fallback translation -->
-3.  ⟪अपुनाः⟫ <!-- TODO: Fallback translation -->
-4.  ⟪पुनः⟫ <!-- TODO: Fallback translation -->
-5.  ⟪आसीः⟫ <!-- TODO: Fallback translation -->
-6.  ⟪आसि⟫ <!-- TODO: Fallback translation -->
-7.  ⟪तन्वीथाः⟫ <!-- TODO: Fallback translation -->
-8.  ⟪अध्यैथाः⟫ <!-- TODO: Fallback translation -->
-9.  ⟪वित्थ⟫ <!-- TODO: Fallback translation -->
-10.  ⟪वीतम्⟫ <!-- TODO: Fallback translation -->
-11.  ⟪आध्वम्⟫ <!-- TODO: Fallback translation -->
-12.  ⟪पाथ⟫ <!-- TODO: Fallback translation -->
-13.  ⟪कथम्⟫ <!-- TODO: Fallback translation -->
-14.  ⟪स्वपिषि⟫ <!-- TODO: Fallback translation -->
-15.  ⟪अश्नीयात⟫ <!-- TODO: Fallback translation -->
-16.  ⟪आश्नाः⟫ <!-- TODO: Fallback translation -->
-17.  ⟪आश्नुवत⟫ <!-- TODO: Fallback translation -->
-18.  ⟪यन्ति⟫ <!-- TODO: Fallback translation -->
-19.  ⟪याथ⟫ <!-- TODO: Fallback translation -->
-20.  ⟪यथा⟫ <!-- TODO: Fallback translation -->
-21.  ⟪इयात⟫ <!-- TODO: Fallback translation -->
-22.  ⟪शिष्ठ⟫ <!-- TODO: Fallback translation -->
-23.  ⟪शिष्टः⟫ <!-- TODO: Fallback translation -->
-24.  ⟪आध्वे⟫ <!-- TODO: Fallback translation -->
-25.  ⟪अवक्⟫ <!-- TODO: Fallback translation -->
-26.  ⟪स्थ⟫ <!-- TODO: Fallback translation -->
-27.  ⟪तस्थौ⟫ <!-- TODO: Fallback translation -->
-28.  ⟪बध्नीथ⟫ <!-- TODO: Fallback translation -->
-29.  ⟪अशिष्ट⟫ <!-- TODO: Fallback translation -->
-30.  ⟪धुक्षे⟫ <!-- TODO: Fallback translation -->
-31.  ⟪धोक्ष्ये⟫ <!-- TODO: Fallback translation -->
-32.  ⟪वध्वे⟫ <!-- TODO: Fallback translation -->
-33.  ⟪अहन्⟫ <!-- TODO: Fallback translation -->
-34.  ⟪आख्येयम्⟫ <!-- TODO: Fallback translation -->
-35.  ⟪वदेयम्⟫ <!-- TODO: Fallback translation -->
-36.  ⟪यामः⟫ <!-- TODO: Fallback translation -->
-37.  ⟪येमिम⟫ <!-- TODO: Fallback translation -->
-38.  ⟪शेरते⟫ <!-- TODO: Fallback translation -->
-39.  ⟪द्विषीथाः⟫ <!-- TODO: Fallback translation -->
-40.  ⟪कुरुथ⟫ <!-- TODO: Fallback translation -->
-41.  ⟪आप्नुत⟫ <!-- TODO: Fallback translation -->
-42.  ⟪विक्रीणीध्वम्⟫ <!-- TODO: Fallback translation -->
-43.  ⟪सुन्मः⟫ <!-- TODO: Fallback translation -->
-44.  ⟪रोदिषि⟫ <!-- TODO: Fallback translation -->
-45.  ⟪अस्तवीः⟫ <!-- TODO: Fallback translation -->
-46.  ⟪अशृणुत⟫ <!-- TODO: Fallback translation -->
-47.  ⟪ब्रुवीध्वम्⟫ <!-- TODO: Fallback translation -->
-48.  ⟪द्विड्ढ्वे⟫ <!-- TODO: Fallback translation -->
-49.  ⟪शेकुः⟫ <!-- TODO: Fallback translation -->
-50.  ⟪चिनुथ⟫ <!-- TODO: Fallback translation -->
-51.  ⟪हथ⟫ <!-- TODO: Fallback translation -->
-52.  ⟪हतः⟫ <!-- TODO: Fallback translation -->
+1.  ⟪आदेः⟫
+2.  ⟪आदः⟫
+3.  ⟪अपुनाः⟫
+4.  ⟪पुनः⟫
+5.  ⟪आसीः⟫
+6.  ⟪आसि⟫
+7.  ⟪तन्वीथाः⟫
+8.  ⟪अध्यैथाः⟫
+9.  ⟪वित्थ⟫
+10.  ⟪वीतम्⟫
+11.  ⟪आध्वम्⟫
+12.  ⟪पाथ⟫
+13.  ⟪कथम्⟫
+14.  ⟪स्वपिषि⟫
+15.  ⟪अश्नीयात⟫
+16.  ⟪आश्नाः⟫
+17.  ⟪आश्नुवत⟫
+18.  ⟪यन्ति⟫
+19.  ⟪याथ⟫
+20.  ⟪यथा⟫
+21.  ⟪इयात⟫
+22.  ⟪शिष्ठ⟫
+23.  ⟪शिष्टः⟫
+24.  ⟪आध्वे⟫
+25.  ⟪अवक्⟫
+26.  ⟪स्थ⟫
+27.  ⟪तस्थौ⟫
+28.  ⟪बध्नीथ⟫
+29.  ⟪अशिष्ट⟫
+30.  ⟪धुक्षे⟫
+31.  ⟪धोक्ष्ये⟫
+32.  ⟪वध्वे⟫
+33.  ⟪अहन्⟫
+34.  ⟪आख्येयम्⟫
+35.  ⟪वदेयम्⟫
+36.  ⟪यामः⟫
+37.  ⟪येमिम⟫
+38.  ⟪शेरते⟫
+39.  ⟪द्विषीथाः⟫
+40.  ⟪कुरुथ⟫
+41.  ⟪आप्नुत⟫
+42.  ⟪विक्रीणीध्वम्⟫
+43.  ⟪सुन्मः⟫
+44.  ⟪रोदिषि⟫
+45.  ⟪अस्तवीः⟫
+46.  ⟪अशृणुत⟫
+47.  ⟪ब्रुवीध्वम्⟫
+48.  ⟪द्विड्ढ्वे⟫
+49.  ⟪शेकुः⟫
+50.  ⟪चिनुथ⟫
+51.  ⟪हथ⟫
+52.  ⟪हतः⟫
 
-:::media
+::: media
 ![](/images/lekt4409.webp)
-Abb.: ⟪कस्माद्रोदिषि⟫
-(Bildquelle: [Details](/licenses#lekt4409)) <!-- TODO: Fallback translation -->
+图：⟪कस्माद्रोदिषि⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4409)）
 :::
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B）翻译：
 
-⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪अक्रोधेन⟫ ⟪जयेत्क्रोधमसाधुं⟫ ⟪सधुना⟫ ⟪जयेज्जयेत्सत्येन⟫ ⟪चानृतम्⟫ ⟪॥१॥⟫
 
-⟪पुत्राः⟫ ⟪किं⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्प्रायच्छत⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪पुत्राः⟫ ⟪किं⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्प्रायच्छत⟫ ⟪॥२॥⟫
 
-⟪कानि⟫ ⟪शास्त्राणि⟫ ⟪काश्यामध्यैथाः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪कानि⟫ ⟪शास्त्राणि⟫ ⟪काश्यामध्यैथाः⟫ ⟪॥३॥⟫
 
-⟪बुद्धपुत्राश्चेन्महाशयनेषु⟫ ⟪शयीरन्प्रव्रज्यायां⟫ ⟪कृतं⟫ ⟪व्रतं⟫ ⟪न⟫ ⟪चरेयुः⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪बुद्धपुत्राश्चेन्महाशयनेषु⟫ ⟪शयीरन्प्रव्रज्यायां⟫ ⟪कृतं⟫ ⟪व्रतं⟫ ⟪न⟫ ⟪चरेयुः⟫ ⟪॥४॥⟫
 
-⟪अप्यार्ययुद्धाख्यानमाख्यास्यन्तं⟫ ⟪गुरुमभ्यनन्दः⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪अप्यार्ययुद्धाख्यानमाख्यास्यन्तं⟫ ⟪गुरुमभ्यनन्दः⟫ ⟪॥५॥⟫
 
-⟪द्वेष्यमपि⟫ ⟪न⟫ ⟪द्विष्यात⟫ ⟪लोभनीयं⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्येतैवं⟫ ⟪च⟫ ⟪प्रसन्ना⟫ ⟪भविष्यथ⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪द्वेष्यमपि⟫ ⟪न⟫ ⟪द्विष्यात⟫ ⟪लोभनीयं⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्येतैवं⟫ ⟪च⟫ ⟪प्रसन्ना⟫ ⟪भविष्यथ⟫ ⟪॥६॥⟫
 
-⟪न⟫ ⟪योत्स्य⟫ ⟪इत्यर्जुन⟫ ⟪उवाच⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪न⟫ ⟪योत्स्य⟫ ⟪इत्यर्जुन⟫ ⟪उवाच⟫ ⟪॥७॥⟫
 
 ⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
-⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫
 
 ## 44.7. Wiederholungsübung zur Formenlehre
 
-Bestimmen Sie folgende Formen: <!-- TODO: Fallback translation -->
+确定以下形式：
 
-1.  ⟪वदिता⟫ <!-- TODO: Fallback translation -->
-2.  ⟪उदिता⟫ <!-- TODO: Fallback translation -->
-3.  ⟪धातुः⟫ <!-- TODO: Fallback translation -->
-4.  ⟪दधुः⟫ <!-- TODO: Fallback translation -->
-5.  ⟪अदधुः⟫ <!-- TODO: Fallback translation -->
-6.  ⟪दध्युः⟫ <!-- TODO: Fallback translation -->
-7.  ⟪रक्षामि⟫ <!-- TODO: Fallback translation -->
-8.  ⟪रक्षाणि⟫ <!-- TODO: Fallback translation -->
-9.  ⟪रक्षीणि⟫ <!-- TODO: Fallback translation -->
-10.  ⟪रक्षिणी⟫ <!-- TODO: Fallback translation -->
-11.  ⟪राजनि⟫ <!-- TODO: Fallback translation -->
-12.  ⟪आसि⟫ <!-- TODO: Fallback translation -->
-13.  ⟪इज्ये⟫ <!-- TODO: Fallback translation -->
-14.  ⟪अयुध्ये⟫ <!-- TODO: Fallback translation -->
-15.  ⟪अयोध्ये⟫ <!-- TODO: Fallback translation -->
-16.  ⟪अयोधये⟫ <!-- TODO: Fallback translation -->
-17.  ⟪शोचनीयायाम्⟫ <!-- TODO: Fallback translation -->
-18.  ⟪वर्त्स्यति⟫ <!-- TODO: Fallback translation -->
-19.  ⟪आसन्⟫ <!-- TODO: Fallback translation -->
-20.  ⟪असन्⟫ <!-- TODO: Fallback translation -->
-21.  ⟪बिभ्यति⟫ <!-- TODO: Fallback translation -->
-22.  ⟪कुत्र⟫ <!-- TODO: Fallback translation -->
-23.  ⟪चेरिम⟫ <!-- TODO: Fallback translation -->
-24.  ⟪योक्ष्ये⟫ <!-- TODO: Fallback translation -->
-25.  ⟪योज्ये⟫ <!-- TODO: Fallback translation -->
-26.  ⟪युज्ये⟫ <!-- TODO: Fallback translation -->
-27.  ⟪चिक्ये⟫ <!-- TODO: Fallback translation -->
-28.  ⟪अजायामहि⟫ <!-- TODO: Fallback translation -->
-29.  ⟪स्मर्येय⟫ <!-- TODO: Fallback translation -->
-30.  ⟪स्मर्याय⟫ <!-- TODO: Fallback translation -->
-31.  ⟪कया⟫ <!-- TODO: Fallback translation -->
-32.  ⟪क्रेया⟫ <!-- TODO: Fallback translation -->
-33.  ⟪आत्मने⟫ <!-- TODO: Fallback translation -->
-34.  ⟪अदानम्⟫ <!-- TODO: Fallback translation -->
-35.  ⟪आददानम्⟫ <!-- TODO: Fallback translation -->
-36.  ⟪सेदिम⟫ <!-- TODO: Fallback translation -->
-37.  ⟪क्व⟫ <!-- TODO: Fallback translation -->
-38.  ⟪पिपूर्मः⟫ <!-- TODO: Fallback translation -->
-39.  ⟪कैः⟫ <!-- TODO: Fallback translation -->
-40.  ⟪कृत्येन⟫ <!-- TODO: Fallback translation -->
+1.  ⟪वदिता⟫
+2.  ⟪⟪उदिता⟫⟫
+3.  ⟪धातुः⟫
+4.  ⟪दधुः⟫
+5.  ⟪अदधुः⟫
+6.  ⟪दध्युः⟫
+7.  ⟪रक्षामि⟫
+8.  ⟪रक्षाणि⟫
+9.  ⟪रक्षीणि⟫
+10.  ⟪रक्षिणी⟫
+11.  ⟪राजनि⟫
+12.  ⟪आसि⟫
+13.  ⟪इज्ये⟫
+14.  ⟪अयुध्ये⟫
+15.  ⟪अयोध्ये⟫
+16.  ⟪अयोधये⟫
+17.  ⟪शोचनीयायाम्⟫
+18.  ⟪वर्त्स्यति⟫
+19.  ⟪आसन्⟫
+20.  ⟪असन्⟫
+21.  ⟪बिभ्यति⟫
+22.  ⟪कुत्र⟫
+23.  ⟪चेरिम⟫
+24.  ⟪योक्ष्ये⟫
+25.  ⟪योज्ये⟫
+26.  ⟪युज्ये⟫
+27.  ⟪चिक्ये⟫
+28.  ⟪अजायामहि⟫
+29.  ⟪स्मर्येय⟫
+30.  ⟪स्मर्याय⟫
+31.  ⟪कया⟫
+32.  ⟪क्रेया⟫
+33.  ⟪आत्मने⟫
+34.  ⟪अदानम्⟫
+35.  ⟪आददानम्⟫
+36.  ⟪सेदिम⟫
+37.  ⟪क्व⟫
+38.  ⟪पिपूर्मः⟫
+39.  ⟪कैः⟫
+40.  ⟪कृत्येन⟫
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt4301.jpg**: Details in licenses.md <!-- TODO: Fallback translation -->
+**lekt4301.jpg**: 详细信息见 licenses.md
 
-**lekt4401.jpg**: Keine spezielle Lizenz/Bildquelle im Text gefunden <!-- TODO: Fallback translation -->
+**lekt4401.jpg**：未在文本中找到特殊许可/图片来源
 
-**lekt4402.jpg**: Zeichnung von Henri Gerbault (1863 - 1930) (Public domain) <!-- TODO: Fallback translation -->
+**lekt4402.jpg**: Zeichnung von Henri Gerbault (1863 - 1930) (Public domain)
 
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
+**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)
 
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
+**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)
 
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung) <!-- TODO: Fallback translation -->
+**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)
 
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung) <!-- TODO: Fallback translation -->
+**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)
 
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
+**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)
 
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
+**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)
 
-**lekt4409.jpg**: bartpogoda. -- http://www.flickr.com/photos/bartpogoda/2068996900/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
+**lekt4409.jpg**: bartpogoda。-- http://www.flickr.com/photos/bartpogoda/2068996900/。-- 访问于 2009-01-08。-- 知识共享许可协议（署名，非商业性使用，禁止演绎）
 :::

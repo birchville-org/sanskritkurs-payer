@@ -11,7 +11,7 @@ status: stable
 
 
 
-:::deleteme-box
+::: deleteme-box
 **Dalam pelajaran ini Anda akan mempelajari:**
 - Kalimat verba dengan objek langsung
 - Akusatif untuk nomina dan pronomina
@@ -24,8 +24,7 @@ status: stable
 
 
 
-:::
-center
+::: center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ |
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -48,7 +47,7 @@ Tuhan menang, bukan dewa palsu.
 
 
 
-:::grammar-box
+::: grammar-box
 **Skema:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – objek langsung (karman n. = ⟪कर्मन्⟫) – kata kerja**
 
@@ -65,7 +64,7 @@ Apakah kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsun
 
 
 
-:::grammar-box
+::: grammar-box
 **Akhiran Akusatif Singular Maskulinum dan Femininum setelah Vokal: -m**
 
 
@@ -94,8 +93,9 @@ Apakah kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsun
 
 | **-u**: dhenu | **dhenum**:br⟪धेनुम्⟫ |
 
-::::::grammar-box
-**Akkusatif Plural Maskulinum der Stämme auf Vokal (Ausnahme: einsilbige Wurzelstämme auf langen Vokal): Längung des auslautenden Vokals + -n**
+:::
+::: grammar-box
+**Akkusatif jamak maskulin dari stem vokal (kecuali: stem akar monosilabis dengan vokal panjang): Panjangkan vokal akhir + -n**
 
 
 
@@ -109,8 +109,9 @@ Apakah kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsun
 
 | **-u**: guru | **gurūn**:br⟪गुरून्⟫ |
 
-::::::grammar-box
-**Akkusatif Plural Femininum der Stämme auf Vokal (Ausnahme: einsilbige Wurzelstämme auf langen Vokal): Längung des auslautenden Vokals + -s**
+:::
+::: grammar-box
+**Akkusatif Plural Femininum dari Stamm yang berakhiran vokal (kecuali: akar monosilabis dengan vokal panjang): Panjangan vokal akhir + -s**
 
 
 
@@ -133,7 +134,7 @@ Apakah kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsun
 
 
 
-:::grammar-box
+::: grammar-box
 
 | | | Maskulinum | Femininum | Neutrum |
 
@@ -165,7 +166,7 @@ Misalnya, **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः�
 
 
 
-:::grammar-box
+::: grammar-box
 Kasus Akusatif (dvitīyā f. = ⟪द्वितीया⟫) menunjukkan:
 1. Dalam kalimat verbal non-pasif: **objek langsung** (karman n. = ⟪कर्मन्⟫) dari tindakan yang dinyatakan oleh kata kerja:
    misalnya
@@ -184,7 +185,7 @@ Penggunaan lain dari Akusatif akan dibahas kemudian.
 
 
 
-:::grammar-box
+::: grammar-box
 **-n akhir:**
 
 1. Apabila didahului oleh sparśa palatal dan retrofleks yang bersuara serta oleh **ś-**, maka digantikan oleh nasal yang sesuai dengan bunyi tersebut:
@@ -194,8 +195,8 @@ Penggunaan lain dari Akusatif akan dibahas kemudian.
    **ś-** yang berada di awal kata kemudian biasanya digantikan oleh **ch-**:
    **gurūn + śṛ�ṇoti** » **gurūñ chṛṇoti** (sebanding dengan gurūñ śṛṇoti) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : "Ia mendengar para guru." "Ia mendengarkan para guru."
 
-2. Wird vor anlautendem **l-** durch **-l** mit Anunāsika (nasaliertes l, in der Schrift **⟪ल्⟫** mit Anunāsika **⟪ँ⟫**) ersetzt:
-   z.B. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Er erhält Nutztiere."
+2. Jika di depan **l-** yang bersuku kata awal digantikan oleh **-l** dengan Anunāsika (l bernasal, dalam tulisan **⟪ल्⟫** dengan Anunāsika **⟪ँ⟫**), maka:
+mis. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Ia memperoleh hewan ternak."
 
 3. Apabila diawali dengan konsonat palatal, retrofleks, atau dental yang tidak bersuara, maka diganti dengan **Anusvāra** + sibilan yang sesuai dengan konsonat tersebut:
    - **-n** sebelum **c-, ch-** » **-ṃś**
@@ -213,15 +214,15 @@ Penggunaan lain dari Akusatif akan dibahas kemudian.
 
 
 
-:::grammar-box
+::: grammar-box
 **Dalam neutrum, bentuk untuk Nominatif (prathamā) dan Akkusatif (dvitīyā) adalah identik.**
 
 :::
-### 7.4.1. Neutrum der Stämme auf -a
+### 7.4.1. Neutrum dari Stamm yang Berakhiran -a
 
 
 
-:::grammar-box
+::: grammar-box
 - **Akhiran Nominatif / Akusatif Singular: -m**
   mis. **phala** n. = ⟪फल⟫ = "buah": Nom. / Ak. sg. **phalam** = ⟪फलम्⟫
 - **Akhiran Nominatif / Akusatif Plural: -āni**
@@ -236,7 +237,7 @@ Kelas ke-5 Präsens membentuk apa yang disebut batang Präsens athematic, yaitu 
 
 
 
-:::grammar-box
+::: grammar-box
 **Kelas-kelas present tanpa afiks memiliki ablasi akar, yaitu terdapat dua bentuk akar present:**
 1. **akar kuat**: tingkat tinggi (jarang tingkat panjang)
 2. **akar lemah**: tingkat rendah
@@ -253,16 +254,16 @@ Kelas ke-5 Präsens membentuk apa yang disebut batang Präsens athematic, yaitu 
 
 
 
-:::grammar-box
+::: grammar-box
 **Untuk akar present tanpa tema, akhiran primer untuk orang ketiga jamak adalah:**
 - **Parasmaipada: -anti**
 - **Ātmanepada: -ate**
-::::::
+:::
 ### 7.5.2. Kelas ke-5 dari Kalimat Sekarang (svādi = ⟪स्वादि⟫ = "su dll.")
 
 
 
-:::grammar-box
+::: grammar-box
 - **Stamm Kuat**: (biasanya) akar dengan tingkat nada rendah (seperti disebutkan) + **-no-**
 - **Stamm Lemah**: (biasanya) akar dengan tingkat nada rendah (seperti disebutkan) + **-nu-**
 
@@ -300,7 +301,7 @@ Kelas ke-5 Präsens membentuk apa yang disebut batang Präsens athematic, yaitu 
 - **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : memeras
 - **soma** m. ⟪सोम⟫ : minuman perasan, Soma; Bulan (Dari tanaman mana Soma diperas masih diperdebatkan hingga hari ini).
 
-:::media
+::: media
 ![](/images/lekt0701.webp)
 Gambar: Apakah ini tanaman soma Weda?: Jamur fly agaric: *Amanita muscaria* (L.) Lam.
 (Sumber gambar: [Detail](/id/licenses#lekt0701))
@@ -328,7 +329,7 @@ Gambar: Apakah ini tanaman soma Weda?: Jamur fly agaric: *Amanita muscaria* (L.)
 
 
 
-:::media
+::: media
 ![](/images/lekt0704.webp)
 Gambar: Viṣṇu = ⟪विष्णु⟫, abad ke-8/9.
 (Sumber gambar: [Detail](/id/licenses#lekt0704))
@@ -371,7 +372,7 @@ Gambar: Viṣṇu = ⟪विष्णु⟫, abad ke-8/9.
 
 
 
-:::media
+::: media
 ![](/images/lekt0702.webp)
 Gambar: **yajati** = ⟪यजति⟫ — Korban Veda = **yajña** m. = ⟪यज्ञ⟫
 (Sumber gambar: [Detail](/id/licenses#lekt0702))
@@ -395,7 +396,7 @@ Gambar: **yajati** = ⟪यजति⟫ — Korban Veda = **yajña** m. = ⟪य
 
 
 
-:::media
+::: media
 ![](/images/lekt0703.webp)
 Gambar: Kepada dewa mana orang mengorbankan diri di sini? Jawaban: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
 (Sumber gambar: [Details](/id/licenses#lekt0703))

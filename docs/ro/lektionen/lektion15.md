@@ -21,7 +21,7 @@ status: stable
 Relația dintre ceea ce este denumit prin substantive (substantive și adjective) se poate exprima, pe lângă o construcție genitivă, și printr-un Tatpuruṣa (⟪तत्पुरुष⟫). La fel, se pot exprima printr-un anumit tip de Tatpuruṣa, anume prin așa-numitul Karmadhāraya (m.) = ⟪कर्मधारय⟫, atribuirile atributive ale adjectivelor sau atribuirile appositionale ale substantivelor.
 
 ⟪तत्पुरुषः⟫ =  ⟪तस्य⟫ ⟪पुरुषः⟫ "slujitorul său", adică, ca denumire pentru acest tip de compuse, servește un exemplu al unui astfel de compus.
-:::grammar-box
+::: grammar-box
 
 În compusele determinative (Tatpuruṣa), un substantiv (substantiv sau adjectiv) este determinat mai precis de către un alt substantiv sau adverb. Cuvântul determinat mai precis formează, de regulă, al doilea element al compusului.
 
@@ -46,7 +46,7 @@ Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hinter
 
 :::
 ## 15.3. Compuse determinative cu elementul anterior atributiv / apositional = Karmadhāraya m. = ⟪कर्मधारय⟫
-:::grammar-box
+::: grammar-box
 
 La descompunerea Karmadhāraya, ambele componente ale compusului se află în același caz.
 
@@ -63,11 +63,12 @@ Nom. pl. ⟪गुणवत्पुत्राः⟫
 
 ⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "zeitatea dorită = zeitatea față de care există o relație specială de devoțiune și refugiu"
 
-:::media
+::: media
 ![](/images/lekt1501.webp)
 Fig.: ⟪लक्ष्मी⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1501))
-::::::grammar-box
+:::
+::: grammar-box
 
 Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
@@ -82,14 +83,15 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
       
     Astfel de Karmadhāraya apositională sunt rezolvate în comentariile indigene, așa cum se arată în exemplul de mai sus, prin intermediul ⟪एव⟫.
 
-::::::media
+:::
+::: media
 ![](/images/lekt1503.webp)
 Fig.: ⟪नरसिंहः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1503))
 :::
 ## 15.4. Compuse determinative cu un prim element care se află în raport cu al doilea element într-o relație de caz non-atributiv/apozițional = Tatpuruṣa în sensul strict
 
-:::grammar-box
+::: grammar-box
 
 Legăturile Tatpuruṣa sunt posibile pentru conexiuni de substantive (substantive și adjective), în care primul element - conform regulilor sintaxei - poate fi în orice caz. Așteptând, primul element reprezintă cel mai frecvent un genitiv (⟪षष्ठी⟫), deoarece acesta este cazul care exprimă relația dintre substantive.
 
@@ -111,7 +113,7 @@ Fiecare relație de genitiv poate fi înlocuită cu un Tatpuruṣa. Puținele ex
 
 Primul element al unui Tatpuruṣa poate, în principiu, să reprezinte orice caz. Cu toate acestea, nu toate relațiile de caz sintactic posibile pot fi înlocuite cu un Tatpuruṣa. Regulile corespunzătoare se găsesc în cazul dubiului la Kale, A higher Sanskrit grammar § 203 - 217, respectiv Pāṇini 2,1,22 - 2,2,22.
 
-:::grammar-box
+::: grammar-box
 
 Primul element poate, la descompunerea compusului, să fie în singular, dual sau plural. Care dintre aceste posibilități este prezentă trebuie dedusă din sens și context.
 
@@ -132,10 +134,11 @@ Ar fi de asemenea rezolvabil: ⟪देवस्य⟫ / ⟪देवाना�
 
 ## 15.5. Descompunerea compuselor (în afară de Dvandvas)
 
-::::grammar-box
+::: grammar-box
 Deși în sanscrită se pot forma compuse de orice lungime și sunt formate foarte frecvent (compusele cu 10 până la 30 de elemente nu sunt o raritate!), cu excepția Dvandvas, toate compusele sunt descompuse progresiv ierarhic în câte două părți:
 
-:::media
+:::
+::: media
 ![](/images/lekt1502.jpg)
 Fig.: ⟪समासविच्छेदः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1502))
@@ -146,7 +149,7 @@ de exemplu,
 
 ⟪गुणवत्पुत्रकृतपुण्यम्⟫
 
-:::indent
+::: indent
 1\. Etapa (principală): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
 2\. Etapa (prima secundară): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
@@ -161,7 +164,7 @@ de exemplu,
 
 ⟪ब्राह्मणक्षत्रियवैश्यधर्मः⟫
 
-:::indent
+::: indent
 1\. Etapa: ⟪ब्राह्मणक्षत्रियवैश्यानां⟫ ⟪धर्मः⟫ (partea anterioară: Itaretaradvandva)
 
 2\. Etapa: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
@@ -174,7 +177,7 @@ de exemplu,
 
 ⟪पुण्यवत्पुत्रकृतम्⟫
 
-:::indent
+::: indent
 1\. Etapa: fie - fie
 
 1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫
@@ -187,9 +190,9 @@ de exemplu,
 2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "fapta fiului meu meritoriu"
 3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "fapta meritorie, făcută de fiul meu"
    2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "fapta meritorie a fiului meu"
-:::::::
+:::
 ## 15.6. Forma componentei anterioare în compuse (⟪समास⟫ m.)
-:::grammar-box
+::: grammar-box
 
 În toate tipurile de compuse, componenta anterioară este, de regulă, rădăcina cuvântului neschimbată. Numele compuse din două rădăcini se află la forma slabă. Adjectivele feminine, care specifică un component următor în compus, se află, în general, la forma masculină:
 
@@ -250,7 +253,7 @@ de exemplu:
 ⟪अर्ध⟫ 3: jumătate, m.n. jumătate
 
 ⟪पूजा⟫ f.: onor, primire onorifică, venerație religioasă (Pūjā)
-:::media
+::: media
 ![](/images/lekt1504.webp)
 Fig.: ⟪पूजा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1504))
@@ -258,7 +261,7 @@ Fig.: ⟪पूजा⟫
 ⟪कुल⟫ n.: turmă, mulțime, neam, origine, familie
 
 ⟪इन्द्र⟫ m.: prinț, primul, cel mai bun dintre ; regele zeilor Indra
-:::media
+::: media
 ![](/images/lekt1505.webp)
 Fig.: ⟪इन्द्रः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1505))
@@ -279,42 +282,42 @@ Fig.: ⟪इन्द्रः⟫
 
 din care:
 
-:::indent
+::: indent
 ⟪स्तुति⟫ f.: laudă, cântec de laudă
 
 ⟪स्तोत्र⟫ n.: (mijloc de preamărire =) cântec de laudă, himn
 :::
 ⟪सिंह⟫ m.: leu (_Panthera leo persica_)
-:::media
+::: media
 ![](/images/lekt1506.webp)
 Fig.: ⟪सिंहः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1506))
 :::
 ⟪व्याघ्र⟫ m.: tigru (_Panthera tigris tigris_) (literal: hăituitor)
-:::media
+::: media
 ![](/images/lekt1507.webp)
 Fig.: ⟪व्याघ्रः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1507))
 :::
 ⟪इव⟫ (postpus): ca și cum, precum (în comparații: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un om ca un tigru", "un om egal cu un tigru"
 
-⟪एव⟫ (postpus): subliniază ceea ce a precedat, corespunde în germană adesea accentuării, un fel de emoticon `&lt;!&gt;`, de ex. ⟪सत्यमेव⟫ ⟪जयति⟫ "doar adevărul învinge", "chiar adevărul învinge", "adevărul învinge"
+⟪एव⟫ (postpus): subliniază ceea ce a precedat, corespunde în germană adesea accentuării, un fel de emoticon `\&lt;!\&gt;`, de ex. ⟪सत्यमेव⟫ ⟪जयति⟫ "doar adevărul învinge", "chiar adevărul învinge", "adevărul învinge"
 
 ⟪अरि⟫ m.: dușman (conform Thieme, Străinul în Ṛgveda: inițial = străin)
 
-:::indent
+::: indent
 ⟪आर्य⟫ 3: arian, nobil ; m. arian (autodenumire a vechilor indieni vorbitori de sanscrită, literal: ospitalier (Thieme)) ; om nobil, om onorabil
 :::
 la ⟪जन्⟫
 
-:::indent
+::: indent
 ⟪जाति⟫ f.: naștere, tip, castă (la ⟪जाति⟫ ca castă vezi Basham, Minune, p. 148ss.)
 :::
 ⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : a muri (conform gramaticienilor indieni: 6 Ā)
 
 din care:
 
-:::indent
+::: indent
 ⟪मरण⟫ n.: moarte, deces
 
 ⟪मृति⟫ f.: moarte, deces
@@ -508,7 +511,7 @@ Rezolvați, așa cum ați făcut la Exercițiul 1, următoarele Tatpuruṣa:
 ⟪५९⟫. ⟪कारुकुशीलवकृतम्⟫
 
 ⟪६०⟫. ⟪द्विजातिशुश्रूषया⟫
-:::media
+::: media
 ![](/images/lekt1508.webp)
 Fig.: ⟪ग्रामदेवता⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1508))
@@ -570,11 +573,12 @@ B) Rezolvați următorii Tatpuruṣa:
 ⟪२५⟫. ⟪वर्णधर्मः⟫
 
 ⟪२६⟫. ⟪श्रुत्युदितम्⟫
-:::media
+::: media
 ![](/images/lekt1509.webp)
 Fig.: ⟪नागदेवाः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1509))
-::::::deleteme-box
+:::
+::: deleteme-box
 
 - **Fig.: ⟪लक्ष्मी⟫** (Lakshmi): Pictură de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Sursa imaginii: Wikipedia, Domeniu public.
 - **Fig.: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Sursa imaginii: Wikipedia, Domeniu public.

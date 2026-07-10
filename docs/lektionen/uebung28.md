@@ -10,7 +10,6 @@ last_reconstructed: 2026-05-15
 
 A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
 
-:::grammar-box
 ### ⟪१⟫. Mit hochstufiger Wurzel (Guṇa)
 
 | Form | Kausativ |
@@ -44,7 +43,6 @@ A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
 | ⟪स्रक्ष्यति⟫ | ⟪सर्जयिष्यति⟫ |
 | ⟪लिम्पन्ति⟫ | ⟪लेपयन्ति⟫ |
 | ⟪वृद्धाः⟫ | ⟪वर्धिताः⟫ |
-::::::grammar-box
 ### ⟪२⟫. Mit dehnstufiger Wurzel (Vṛddhi)
 
 | Form | Kausativ |
@@ -88,7 +86,6 @@ A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
 | ⟪सोढायाः⟫ | ⟪साहितायाः⟫ |
 | ⟪हरन्ती⟫ | ⟪हारयन्ती⟫ |
 | ⟪ऊढया⟫ | ⟪वाहितया⟫ |
-::::::grammar-box
 ### ⟪३⟫. Kausativ auf -⟪पय⟫ (und Sonderformen)
 
 | Wurzel | Kausativ | Bedeutung |
@@ -101,7 +98,6 @@ A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen:
 | ⟪हन्⟫ | ⟪घातयति⟫ | erschlagen lassen, töten |
 | ⟪जि⟫ | ⟪जापयति⟫ | siegen lassen |
 | ⟪जीव्⟫ | ⟪जीवयति⟫ | beleben |
-:::
 B) Übersetzen Sie folgende Sätze und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird.
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
@@ -125,11 +121,11 @@ Sobald der Sohn geboren ist, schickt die Brahmanin einen Diener zum Brahmanen. D
 (Basis: **⟪दासो⟫ ⟪ब्राह्मणं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪दासो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫**)
 
 ⟪६⟫. **⟪स्तुवता⟫ ⟪नरेण⟫ ⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪श्राविताः⟫ ⟪॥६॥⟫**
-Der lobsingende Mann bringt den Göttern die Lobeshymnen des großen Dichters zu Gehör.
+Der lobsingende Mann bringt den Göttern die Lobeshymnen des grossen Dichters zu Gehör.
 (Basis: **⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪शृण्वन्ति⟫ ⟪।⟫**)
 
 ⟪७⟫. **⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫**
-Die edlen Krieger töten in der großen Schlacht die Feinde.
+Die edlen Krieger töten in der grossen Schlacht die Feinde.
 (Basis: **⟪अरयो⟫ ⟪म्रियन्ते⟫ ⟪।⟫**)
 
 ⟪८⟫. **⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪॥८॥⟫**
@@ -137,14 +133,14 @@ Die gute Kṣatriyā lässt einen Brahmanen ihre persönliche Gottheit verehren.
 (Basis: **⟪ब्राह्मण⟫ ⟪इष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫**)
 
 ⟪९⟫. **⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫**
-Um Reichtümer zu erobern, wird der große Kṣatriya die tigergleichen Kämpfer Gelübde halten lassen.
+Um Reichtümer zu erobern, wird der grosse Kṣatriya die tigergleichen Kämpfer Gelübde halten lassen.
 (Basis: **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**)
 
 ⟪१०⟫. **⟪पापाद्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫**
 Um sie vom Übel zu befreien, lässt Buddha edle Menschen die edlen Wahrheiten erkennen.
 (Basis: **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
 
-:::media
+::: media
 ![](/images/uebung045.webp)
 Abb.: ⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫
 (Bildquelle: [Details](/licenses#uebung045))

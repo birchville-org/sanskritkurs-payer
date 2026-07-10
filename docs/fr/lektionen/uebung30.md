@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Transformez les formes verbales suivantes en formes optatives correspondant à la personne, au nombre et au genre verbal :
 
-:::grammar-box
+::: grammar-box
 | Présent | Optatif |
 | :--- | :--- |
 | ⟪१⟫. **⟪ह्रियते⟫** | ⟪ह्रियेत⟫ |
@@ -116,7 +116,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 **⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫** (Manu IV.138)  
 On doit dire des vérités agréables, on ne doit pas dire des vérités désagréables ; on ne doit pas dire de fausses paroles agréables, telle est la loi éternelle.
 
-:::media
+::: media
 ![](/images/uebung048.webp)
 Fig. : ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
 (Source de l’image : [Détails](/fr/licenses#uebung048))
@@ -127,7 +127,7 @@ Fig. : ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्त
 
 Déterminez et traduisez les formes de mot suivantes :
 
-:::grammar-box
+::: grammar-box
 | Forme du mot | Détermination | Signification |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪भारे⟫** | Loc. sg. m. | sur la charge |
@@ -170,8 +170,9 @@ Déterminez et traduisez les formes de mot suivantes :
 | ⟪३८⟫. **⟪तस्यै⟫** | Dat. sg. f. | à elle |
 | ⟪३९⟫. **⟪तस्मिन्⟫** | Loc. sg. m./n. | là-dedans, dans celui-ci |
 | ⟪४०⟫. **⟪सते⟫** | Dat. sg. m./n. | à l'Être / au Bien |
-::::::media
+:::: media
 ![](/images/uebung047.webp)
 Fig. : ⟪भक्त्याः⟫
 (Source de l'image : [Détails](/fr/licenses#uebung047))
+::::
 :::

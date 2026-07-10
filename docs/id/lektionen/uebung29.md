@@ -16,7 +16,7 @@ Translate literally into good German and memorize the Sanskrit texts:
 
 Ignorance means regarding the impermanent, impure, painful, and non-absolute as permanent, pure, joyful, and absolute, respectively.
 
-:::deleteme-box Explanation
+::: deleteme-box Explanation
 **⟪आत्मसु⟫** = Loc. sg. of ⟪आत्मन्⟫ m. "soul; the absolute, insofar as it is realized in the individual"
 :::
 ### ⟪२⟫. On the Proper Use of the ⟪दण्ड⟫ (Kautilya Arthaśāstra 1.4)
@@ -35,7 +35,7 @@ Before a too severe regime (daṇḍa), creatures must tremble. A lax regime is 
 > Glad about the activity according to their own right and custom  
 > It moves on its own paths.
 
-:::deleteme-box Glossary & Grammar
+::: deleteme-box Glossary & Grammar
 - **⟪उद्वेजनीय⟫** (3): something before which one must tremble
 - **⟪विज्ञात⟫** (3): recognized; n.: recognition
 - **⟪योजयति⟫** (Caus. to **⟪युज्⟫**): to yoke, to connect with
@@ -46,8 +46,9 @@ Before a too severe regime (daṇḍa), creatures must tremble. A lax regime is 
 - **⟪राज्ञा⟫**: Instr. sg. masc. of **⟪राजन्⟫** (king)
 - **⟪स्वेषु⟫**: Loc. plur. masc./neutr. of **⟪स्व⟫** (own)
 - **⟪वर्त्मसु⟫**: Loc. plur. neutr. of **⟪वर्त्मन्⟫** (path, track)
-::::::media
+:::: media
 ![](/images/uebung046.webp)
 Fig.: ⟪चतुर्वर्णाश्रमो⟫ ⟪लोको⟫
 (Image source: [Details](/en/licenses#uebung046))
+::::
 :::

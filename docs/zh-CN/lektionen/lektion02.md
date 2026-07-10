@@ -1,247 +1,244 @@
 ---
-title: Lektion 2
-subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
+title: 第2课
+subtitle: "名词句与变格基础"
 lesson_id: 2
-category: "Grammatik"
+category: "语法"
 status: "stable"
 last_reconstructed: 2026-04-30
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 2
 
 ## 2.1. Der Nominalsatz
 
-:::grammar-box
-**Schema: Prädikatsnomen - Subjekt** <!-- TODO: Fallback translation -->
+::: grammar-box
+**模式：谓语名词 - 主语**
 
-z.B. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu ist ein Gott." <!-- TODO: Fallback translation -->
+例如，devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = “毗湿奴是一位神。”
 :::
-Eine verbale Kopula ("ist", "sind", "bin", "bist", "seid") ist nicht nötig, kann aber manchmal vorkommen. <!-- TODO: Fallback translation -->
+动词性系动词（“是”、“是”、“我是”、“你是”、“你们是”）并非必需，但有时会出现。
 
-Es gibt **keine Artikel**: **devaḥ** -- ⟪देवः⟫ kann bedeuten "der Gott" oder "ein Gott". <!-- TODO: Fallback translation -->
+不存在**冠词**：**devaḥ** -- ⟪देवः⟫ 可以表示“那个神”或“一个神”。
 
-Obwohl im Sanskrit die Satzstellung ziemlich frei ist (besonders in Versen), muss man bei der Übersetzung eines Nominalsatzes immer in erster Linie eine Übersetzung gemäß obigem Standardschema in Betracht ziehen. <!-- TODO: Fallback translation -->
+尽管在梵语中语序相当自由（尤其在偈颂中），但在翻译名词句时，必须首先考虑上述标准模式的翻译。
 
-Im Nominalsatz steht das Subjekt im Nominativ (ersten Fall = **prathamā** f. = ⟪प्रथमा⟫). Das Prädikatsnomen stimmt mit dem Subjekt in Zahl und Fall überein; wenn das Prädikatsnomen ein Adjektiv ist, auch im Geschlecht. <!-- TODO: Fallback translation -->
+在名词句中，主语处于主格（第一格 = **prathamā** f. = ⟪प्रथमा⟫）。谓语名词与主语在数和格上保持一致；如果谓语名词是形容词，还需在性上保持一致。
 
 ---
 
 ## 2.2. Zur Deklination (Beugung von Nomina)
 
-Im Sanskrit gibt es: <!-- TODO: Fallback translation -->
+在梵语中，有：
 
-- **drei Numeri** (Zählformen) = **vacana** n. -- ⟪वचन⟫ <!-- TODO: Fallback translation -->
-  - Singular (Einzahl) = **ekavacana** n. -- ⟪एकवचन⟫ <!-- TODO: Fallback translation -->
-  - Dual (Zweizahl) = **dvivacana** n. -- ⟪द्विवचन⟫ <!-- TODO: Fallback translation -->
-  - Plural (Mehrzahl) = **bahuvacana** n. -- ⟪बहुवचन⟫ <!-- TODO: Fallback translation -->
-- **drei Genera** (grammatische Geschlechter) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫ <!-- TODO: Fallback translation -->
-  - Maskulinum (männlich) = **puṃs** m. -- ⟪पुंस्⟫ <!-- TODO: Fallback translation -->
-  - Femininum (weiblich) = **strī** f. -- ⟪स्त्री⟫ <!-- TODO: Fallback translation -->
-  - Neutrum (sächlich) = **napuṃsaka** n. -- ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-- **acht Kasus** (Fälle) = **sup** -- ⟪सुप्⟫ (= Kasusendungen) <!-- TODO: Fallback translation -->
+- **三种数**（计数形式）= **vacana** n. -- ⟪वचन⟫
+  - 单数（单数）= **ekavacana** n. -- ⟪एकवचन⟫
+  - 双数（双数）= **dvivacana** n. -- ⟪द्विवचन⟫
+  - 复数（复数）= **bahuvacana** n. -- ⟪बहुवचन⟫
+- **三种性**（语法性别）= **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
+  - 阳性（男性）= **puṃs** m. -- ⟪पुंस्⟫
+  - 阴性（女性）= **strī** f. -- ⟪स्त्री⟫
+  - 中性（中性）= **napuṃsaka** n. -- ⟪नपुंसक⟫
+- **八个格**（格位）= **sup** -- ⟪सुप्⟫（= 格词尾）
 
-Zur Deklination treten die Kasusendungen (**sup** = ⟪सुप्⟫) an den sogenannten **Nominalstamm** (Form des Nomens ohne Kasusendungen). <!-- TODO: Fallback translation -->
+词形变化时，格词尾（**sup** = ⟪सुप्⟫）附着在所谓的**名词词干**（名词不带格词尾的形式）上。
 
-Beispiel: **devas** = ⟪देवस्⟫ (Nominativ Singular Maskulinum) "der/ein Gott" = **deva-** -- ⟪देव⟫- (Nominalstamm) + **-s** -- -⟪स्⟫ (Kasusendung). <!-- TODO: Fallback translation -->
+示例：**devas** = ⟪देवस्⟫（主格单数阳性）“神/一位神” = **deva-** -- ⟪देव⟫-（名词词干）+ **-s** -- -⟪स्⟫（格词尾）。
 
-In Sanskritwörterbüchern werden Nomina im **Nominalstamm** angeführt: <!-- TODO: Fallback translation -->
-- **deva** m. -- ⟪देव⟫ m. (maskulin) <!-- TODO: Fallback translation -->
-- **vacana** n. -- ⟪वचन⟫ n. (neutrum) <!-- TODO: Fallback translation -->
-- **vyakti** f. -- ⟪व्यक्ति⟫ f. (femininum) <!-- TODO: Fallback translation -->
+在梵语词典中，名词以**名词词干**的形式列出：
+- **deva** 阳性 -- ⟪देव⟫ 阳性（阳性）
+- **vacana** 中性 -- ⟪वचन⟫ 中性（中性）
+- **vyakti** 阴性 -- ⟪व्यक्ति⟫ 阴性（阴性）
 
 ---
 
 ## 2.3. Der Nominativ Singular
 
-**Nominativ Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫** <!-- TODO: Fallback translation -->
+**主格单数 = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
-:::grammar-box
-**Der Nominativ Singular endet auf -s = -⟪स्⟫ bzw. ist endungsfrei.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**主格单数以 -s = -⟪स्⟫ 结尾，或者无词尾。**
 :::
-### 2.3.1. Nominativ Singular auf -s
+### 2.3.1. 以 -s 结尾的主格单数
 
-Folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**: <!-- TODO: Fallback translation -->
+以下以元音结尾的名词词干，其单数主格以 **-s** 结尾：
 
-:::grammar-box
-**Maskulina auf -a:** z.B. deva m. = ⟪देव⟫ "Gott" -- Nom. sg.: devas = ⟪देवस्⟫
-**Maskulina auf -i:** z.B. kavi m. = ⟪कवि⟫ "Dichter" -- Nom. sg.: kavis = ⟪कविस्⟫
-**Maskulina auf -u:** z.B. guru m. = ⟪गुरु⟫ "Lehrer" -- Nom. sg.: gurus = ⟪गुरुस्⟫ <!-- TODO: Fallback translation -->
+::: grammar-box
+**以-a结尾的中性名词：** 例如，deva m. = ⟪देव⟫ “神” -- 主格单数：devas = ⟪देवस्⟫
+**以-i结尾的中性名词：** 例如，kavi m. = ⟪कवि⟫ “诗人” -- 主格单数：kavis = ⟪कविस्⟫
+**以-u结尾的中性名词：** 例如，guru m. = ⟪गुरु⟫ “老师” -- 主格单数：gurus = ⟪गुरुस्⟫
 :::
 ---
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
-Der Auslaut eines Wortes richtet sich im Sanskrit auch nach dem Anlaut des darauffolgenden Wortes. Diese Erscheinung nennt man **Sandhi** (m.) = ⟪सन्धि⟫ ("Verbindung"). <!-- TODO: Fallback translation -->
+梵语中，一个词的词尾会根据其后接词的词首而发生变化。这种现象称为**Sandhi**（阳性）= ⟪सन्धि⟫（“连接”）。
 
 ### 2.4.1. Sandhi von auslautendem -s
 
-Siehe auch die Übersicht: <!-- TODO: Fallback translation -->
+另见总览：
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm <!-- TODO: Fallback translation -->
+> **Payer, Alois \<1944 - \>:** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-Auslautendes **-s**: <!-- TODO: Fallback translation -->
+词尾的 **-s**：
 
-- **im absoluten Auslaut** (Satzende) wird es zu **Visarga (-ḥ)**: <!-- TODO: Fallback translation -->
-  - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫ <!-- TODO: Fallback translation -->
-  - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫ <!-- TODO: Fallback translation -->
-  - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫ <!-- TODO: Fallback translation -->
+- **在绝对词尾**（句末）处，它变为 **Visarga（-ḥ）**：
+  - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
+  - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
+  - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
-- **vor stimmlosen Lauten**: <!-- TODO: Fallback translation -->
-  - vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)** <!-- TODO: Fallback translation -->
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva ist ein Gott") <!-- TODO: Fallback translation -->
-  - vor **c, ch**: wird zu **-ś** <!-- TODO: Fallback translation -->
-  - vor **ṭ, ṭh**: wird zu **-ṣ** <!-- TODO: Fallback translation -->
-  - vor **t, th**: bleibt **-s** <!-- TODO: Fallback translation -->
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya ist ein Heiliger") <!-- TODO: Fallback translation -->
+- **在清辅音前**：
+  - 在 **k, kh, p, ph** 和 **ś, ṣ, s** 前：变为 **Visarga (-ḥ)**
+    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ (“湿婆是一位神”)
+  - 在 **c, ch** 前：变为 **-ś**
+  - 在 **ṭ, ṭh** 前：变为 **-ṣ**
+  - 在 **t, th** 前：保持 **-s**
+    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ (“柴坦尼亚是一位圣人”)
 
-- **vor stimmhaften Lauten**: <!-- TODO: Fallback translation -->
-  - nach Nicht-a-Vokalen: wird zu **-r** <!-- TODO: Fallback translation -->
-    - **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha ist ein Dichter") <!-- TODO: Fallback translation -->
-  - nach Nicht-a-Vokalen vor **r-**: **-s** fällt aus, der Vokal wird gedehnt. <!-- TODO: Fallback translation -->
-    - **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ ("Rāma ist ein Lehrer") <!-- TODO: Fallback translation -->
-  - nach **a-**: **-as** <!-- TODO: Fallback translation -->
-    - vor stimmhaften Konsonanten/a: wird zu **-o** (anlautendes a fällt weg » ⟪ऽ⟫) <!-- TODO: Fallback translation -->
-      - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫ <!-- TODO: Fallback translation -->
-      - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫ <!-- TODO: Fallback translation -->
-    - vor anderen Vokalen: wird zu **-a** (Hiatus) <!-- TODO: Fallback translation -->
-      - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫ <!-- TODO: Fallback translation -->
+- **在浊音之前**：
+  - 在非 a 元音之后：变为 **-r**
+    - **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫（“Māgha 是一位诗人”）
+  - 在非 a 元音之后，且在 **r-** 之前：**-s** 脱落，元音拉长。
+    - **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫（“Rāma 是一位老师”）
+  - 在 **a-** 之后：**-as**
+    - 在浊辅音/a 之前：变为 **-o**（词首 a 脱落 » ⟪ऽ⟫）
+      - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
+      - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
+    - 在其他元音之前：变为 **-a**（连声/Hiatus）
+      - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
 
 ---
 
 ## 2.5. Wortliste
 
-**deva** m. -- ⟪देव⟫ : Himmlischer, Gott; Fürst, König. <!-- TODO: Fallback translation -->
+**deva** m. -- ⟪देव⟫ : 天界的，神；君主，国王。
 
-**īśvara** m. -- ⟪ईश्वर⟫ : Herr, Herrscher, Gott (monotheistisch). <!-- TODO: Fallback translation -->
+**īśvara** m. -- ⟪ईश्वर⟫ : 主人，统治者，神（一神论）。
 
-**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : Brahmane (geistlicher Stand). <!-- TODO: Fallback translation -->
+**brāhmaṇa** m. -- ⟪ब्राह्मण⟫ : 婆罗门（精神阶层）。
 
-**kṣatriya** m. -- ⟪क्षत्रिय⟫ : Kṣatriya (Fürsten- und Wehrstand). <!-- TODO: Fallback translation -->
+**kṣatriya** m. -- ⟪क्षत्रिय⟫ : 刹帝利（贵族与武士阶层）。
 
-**vaiśya** m. -- ⟪वैश्य⟫ : Vaiśya (Nähr- und Händlerstand). <!-- TODO: Fallback translation -->
+**vaiśya** m. -- ⟪वैश्य⟫ : 吠舍（种姓，从事农业和商业）。
 
-**śūdra** m. -- ⟪शूद्र⟫ : Śūdra (Dienstleistungsstand). <!-- TODO: Fallback translation -->
+**śūdra** m. -- ⟪शूद्र⟫ : 首陀罗（服务阶层）。
 
-:::
-tip Die vier Stände (varna)
-Nach der klassischen Theorie (z. B. Manusmṛti I, 88-91) sind die Aufgaben verteilt: <!-- TODO: Fallback translation -->
+提示：四种姓（varna）
+根据经典理论（例如《摩奴法典》I, 88-91），职责分配如下：
 
-- **der Brahmanen** <!-- TODO: Fallback translation -->
-  - Vedastudium <!-- TODO: Fallback translation -->
-  - Lehre <!-- TODO: Fallback translation -->
-  - Opfer für sich <!-- TODO: Fallback translation -->
-  - Opfer für andere <!-- TODO: Fallback translation -->
-  - Geben <!-- TODO: Fallback translation -->
-  - Empfangen von Gaben <!-- TODO: Fallback translation -->
-- **der Kṣatriyas** <!-- TODO: Fallback translation -->
-  - das Volk schützen <!-- TODO: Fallback translation -->
-  - Gaben (an Brahmanen) geben <!-- TODO: Fallback translation -->
-  - für sich opfern <!-- TODO: Fallback translation -->
-  - Vedastudium <!-- TODO: Fallback translation -->
-- **der Vaiśyas** <!-- TODO: Fallback translation -->
-  - Viehhaltung <!-- TODO: Fallback translation -->
-  - Landwirtschaft <!-- TODO: Fallback translation -->
-  - Handel <!-- TODO: Fallback translation -->
-  - Geldverleih <!-- TODO: Fallback translation -->
-  - für sich opfern <!-- TODO: Fallback translation -->
-  - Gaben (an Brahmanen) geben <!-- TODO: Fallback translation -->
-  - für sich opfern <!-- TODO: Fallback translation -->
-  - Vedastudium <!-- TODO: Fallback translation -->
-- **der Śūdras** <!-- TODO: Fallback translation -->
-  - den drei oberen Klassen dienen <!-- TODO: Fallback translation -->
-:::
-**dvija** m. -- ⟪द्विज⟫ : "Zweimalgeborener" (Initiierte der oberen drei Stände: Brāhmaṇa, Kṣatriya, Vaiśya). <!-- TODO: Fallback translation -->
+- **婆罗门**
+  - 吠陀学习
+  - 教义
+  - 为自己祭祀
+  - 为他人祭祀
+  - 布施
+  - 接受布施
+- **刹帝利**
+  - 保护民众
+  - 布施（给婆罗门）
+  - 为自己祭祀
+  - 吠陀学习
+- **吠舍**
+  - 畜牧
+  - 农业
+  - 商业
+  - 放贷
+  - 为自己祭祀
+  - 布施（给婆罗门）
+  - 为自己祭祀
+  - 吠陀学习
+- **首陀罗**
+  - 侍奉上层三个种姓
+**dvija** m. -- ⟪द्विज⟫ : “再生者”（上层三个种姓：婆罗门、刹帝利、吠舍的入学者）。
 
-**varṇa** m. -- ⟪वर्ण⟫ : Farbe, Geburtsstand (Strebung). <!-- TODO: Fallback translation -->
+**varṇa** m. -- ⟪वर्ण⟫ ：颜色，种姓（倾向）。
 
-Die vier Stände (**varṇa** m.) werden oft mit Kasten verwechselt. Die vier Stände sind aber -- im Unterschied zu den Kasten -- nichts spezifisch Indisches, auch in Europa hatten wir (teils bis zum Ersten Weltkrieg) eine Ständeordnung, wie folgende Abbildung aus dem 15. Jhdt. belegt: <!-- TODO: Fallback translation -->
+四个种姓（**varṇa** 阳性）常与种姓制度混淆。但四个种姓——与种姓制度不同——并非印度特有，在欧洲，我们（部分直至第一次世界大战）也存在种姓等级制度，如下面15世纪的插图所示：
 
-:::media
+::: media
 ![](/images/lekt0201.webp)
-Abb.: Darstellung der Ständeeinteilung des europäischen Mittelalters (Holzschnitt des ausgehenden 15. Jahrhunderts).
-(Bildquelle: [Details](/licenses#lekt0201)) <!-- TODO: Fallback translation -->
+图：欧洲中世纪等级制度的图示（15世纪末的木刻版画）。
+（图片来源：[详情](/zh-CN/licenses#lekt0201)）
 :::
-**Beschriftung:** <!-- TODO: Fallback translation -->
-- **Priesterstand** (~Brāhmaṇa): Tu supplex ora = Du bete flehend! <!-- TODO: Fallback translation -->
-- **Adelsstand** (~Kṣatriya): Tu protege = Du schütze! <!-- TODO: Fallback translation -->
-- **Bauernstand** (~Vaiśya/Śūdra): Tuque labora = Und Du arbeite! <!-- TODO: Fallback translation -->
+**标注：**
+- **祭司阶层**（~Brāhmaṇa）：Tu supplex ora = 你应恳切祈祷！
+- **贵族阶层**（~Kṣatriya）：Tu protege = 你应保护！
+- **农民阶层**（~Vaiśya/Śūdra）：Tuque labora = 你应劳作！
 
-Die drei Stände tragen die jeweilige Standestracht. Über den – damit als gottgewollt bezeichneten – Ständen thront Christus. <!-- TODO: Fallback translation -->
+三个种姓穿着各自的种姓服饰。基督坐在种姓之上——因此被称为神意所定。
 
-Max Weber &lt;1864 – 1920&gt; definiert Stand so: <!-- TODO: Fallback translation -->
+马克斯·韦伯 \<1864 – 1920\> 如此定义“等级”（Stand）：
 
-:::
-note-box
-»**Stand**« soll eine Vielheit von Menschen heißen, die innerhalb eines Verbandes wirksam
+::: note-box
+“**Stand**” soll eine Vielheit von Menschen heißen, die innerhalb eines Verbandes wirksam
 a) eine ständische Sonderschätzung, - eventuell also auch
-b) ständische Sondermonopole in Anspruch nehmen. <!-- TODO: Fallback translation -->
+b) ständische Sondermonopole in Anspruch nehmen.
 
-Stände können entstehen
-a) primär, durch eigene ständische Lebensführung, darunter insbesondere durch die Art des **Berufs** (**Lebensführungs- bzw. Berufsstände**),
-b) sekundär, erbcharismatisch, durch erfolgreiche Prestigeansprüche kraft ständischer **Abstammung** (**Geburtsstände**),
-c) durch ständische **Appropriation** von politischen oder hierokratischen Herrengewalten als Monopole (**politische bzw. hierokratische Stände**). <!-- TODO: Fallback translation -->
+种姓可以产生：
+a) 原发性，通过自身的种姓生活方式，特别是通过**职业**的方式（生活方式或职业种姓），
+b) 继发性，世袭魅力性，通过基于种姓**血统**的成功声望主张（出生种姓），
+c) 通过种姓对政治或神权统治权力的**占有**作为垄断（政治或神权种姓）。
 
-Die geburtsständische Entwicklung ist regelmäßig eine Form der (erblichen) Appropriation von Privilegien an einen Verband oder an qualifizierte Einzelne. Jede feste Appropriation von Chancen, insbesondere [von] Herren [gewalten oder Erwerbs] chancen, neigt dazu, zur Ständebildung zu führen. Jede Ständebildung neigt dazu, zur monopolistischen Appropriation von Herrengewalten und Erwerbschancen zu führen. <!-- TODO: Fallback translation -->
+出身地位的发展通常是（世袭地）将特权 appropriated 给一个团体或有资格的个人的形式。任何对机会的固定 appropriated，特别是[由]主人[权力或职业]机会的 appropriated，倾向于导致种姓的形成。任何种姓的形成倾向于导致对主人权力和职业机会的垄断性 appropriated。
 
-Während Erwerbsklassen auf dem Boden der marktorientierten Wirtschaft wachsen, entstehen und bestehen Stände vorzugsweise auf dem Boden der monopolistisch leiturgischen oder der feudalen oder der ständisch patrimonialen Bedarfsdeckung von Verbänden. <!-- TODO: Fallback translation -->
+当基于市场经济的阶级得以成长、形成和存续时，种姓则更倾向于在垄断性利杜尔吉亚（leiturgische）或封建的，或基于团体需求的种姓家产制基础上形成和存续。
 
-»**Ständisch**« soll eine Gesellschaft heißen, wenn die soziale Gliederung vorzugsweise nach Ständen, »**klassenmäßig**«, wenn sie vorzugsweise nach Klassen geschieht. Dem »Stand« steht von den »Klassen« die »soziale« Klasse am nächsten, die »Erwerbsklasse« am fernsten. Stände werden oft ihrem Schwerpunkt nach durch Besitzklassen gebildet. <!-- TODO: Fallback translation -->
+“**种姓制**”指社会分层主要依据种姓，“**阶级制**”指社会分层主要依据阶级。“种姓”与“阶级”中，最接近的是“社会”阶级，最远离的是“职业”阶级。种姓往往以其核心由财产阶级构成。
 
-Jede ständische Gesellschaft ist konventional, durch Regeln der Lebensführung, geordnet, schafft daher ökonomisch irrationale Konsumbedingungen und hindert auf diese Art durch monopolistische Appropriationen und durch Ausschaltung der freien Verfügung über die eigene Erwerbsfähigkeit die freie Marktbildung. <!-- TODO: Fallback translation -->
+每一种种姓社会都是约定俗成的，由生活准则所规范，因此创造了经济上非理性的消费条件，并通过垄断性占有和排除对个人谋生能力的自由支配，阻碍了自由市场的形成。
 
-[**Weber, Max &lt;1864 – 1920&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.] <!-- TODO: Fallback translation -->
+[**韦伯, 马克斯 \<1864 – 1920\>：**《经济与 society：理解社会学纲要》。——第5版，修订版。——蒂宾根：莫尔出版社，1976年。——第625页及以下。]
 :::
-Varṇas sind demgemäß Geburtsstände. <!-- TODO: Fallback translation -->
+因此，瓦尔纳（种姓）是出身等级。
 
-**kavi** m. -- ⟪कवि⟫ : Dichter. <!-- TODO: Fallback translation -->
+**kavi** m. -- ⟪कवि⟫ : 诗人。
 
-**agni** m. -- ⟪अग्नि⟫ : Feuer, Gott Agni. <!-- TODO: Fallback translation -->
+**agni** 阳性名词 -- ⟪अग्नि⟫ ：火，火神阿耆尼。
 
-:::media
+::: media
 ![](/images/lekt0203.jpg)
-Abb.: Gott Agni, Miniatur, 18. Jh.
-(Bildquelle: [Details](/licenses#lekt0203)) <!-- TODO: Fallback translation -->
+图：火神阿耆尼，18世纪微型画
+（图片来源：[详情](/zh-CN/licenses#lekt0203)）
 :::
-**sādhu** 3 -- ⟪साधु⟫ : richtig, gut. <!-- TODO: Fallback translation -->
+**sādhu** 3 -- ⟪साधु⟫ ：正确，好。
 
-**sādhu** m. -- ⟪साधु⟫ : "heiliger" Mann, Sādhu. <!-- TODO: Fallback translation -->
+**sādhu** m. -- ⟪साधु⟫ : “神圣的”男子，Sādhu。
 
-:::media
+::: media
 ![](/images/lekt0202.webp)
-Abb.: Sādhu (⟪साधु⟫), Pashupatinath Tempel, Kathmandu.
-(Bildquelle: [Details](/licenses#lekt0202)) <!-- TODO: Fallback translation -->
+图：Sādhu（⟪साधु⟫），帕斯帕提那寺，加德满都。
+（图片来源：[详情](/zh-CN/licenses#lekt0202)）
 :::
-**guru** 3 -- ⟪गुरु⟫ : schwer, bedeutend, verehrenswert <!-- TODO: Fallback translation -->
+**guru** 3 -- ⟪गुरु⟫：沉重，重要，值得崇敬
 
-**guru** m. -- ⟪गुरु⟫ : verehrenswerte Person: Vater, Mutter, älterer Verwandter, insbes. Lehrer, Meister <!-- TODO: Fallback translation -->
+**guru** m. -- ⟪गुरु⟫ : 值得敬重的人：父亲、母亲、年长的亲属，特别是老师、导师
 
 ---
 
 ## 2.6. Übung
 
-**A) Setzen Sie unter Beachtung des Sandhi ein und bilden Sie Nominalsätze:** <!-- TODO: Fallback translation -->
+**A) 请结合桑迪亚（Sandhi）规则进行连音，并构成名词句：**
 
-1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)** <!-- TODO: Fallback translation -->
-   = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫) <!-- TODO: Fallback translation -->
-2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)** <!-- TODO: Fallback translation -->
-   = ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫) <!-- TODO: Fallback translation -->
-3. **gurus ... (brāhmaṇa, Candrakīrti)** <!-- TODO: Fallback translation -->
-   = ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫) <!-- TODO: Fallback translation -->
-4. **vaiśyas ... (Tulādhara)** <!-- TODO: Fallback translation -->
-   = ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫) <!-- TODO: Fallback translation -->
-5. **sādhus ... (guru, Rāma)** <!-- TODO: Fallback translation -->
-   = ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫) <!-- TODO: Fallback translation -->
-6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)** <!-- TODO: Fallback translation -->
-   = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫) <!-- TODO: Fallback translation -->
+1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
+   = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
+2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)**
+   = ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
+3. **gurus ... (brāhmaṇa, Candrakīrti)**
+   = ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
+4. **vaiśyas ... (Tulādhara)**
+   = ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
+5. **sādhus ... (guru, Rāma)**
+   = ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
+6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
+   = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
 
-**B) Übersetzen Sie ins Sanskrit:** <!-- TODO: Fallback translation -->
+**B) 翻译成梵文：**
 
-1. Rāma ist ein Brahmane. <!-- TODO: Fallback translation -->
-2. Der Lehrer ist ein Vaiśya. <!-- TODO: Fallback translation -->
-3. Der Śūdra ist ein heiliger Mann. <!-- TODO: Fallback translation -->
-4. Der Dichter ist der Lehrer. <!-- TODO: Fallback translation -->
-5. Viṣṇu ist der HERR. <!-- TODO: Fallback translation -->
-6. Der HERR ist Śiva. <!-- TODO: Fallback translation -->
-7. Der Zweimalgeborene ist ein Brahmane. <!-- TODO: Fallback translation -->
-8. Der heilige Mann ist ein Lehrer. <!-- TODO: Fallback translation -->
-9. Der Lehrer ist ein heiliger Mann. <!-- TODO: Fallback translation -->
+1. Rāma ist ein Brahmane.
+2. Der Lehrer ist ein Vaiśya.
+3. Der Śūdra ist ein heiliger Mann.
+4. Der Dichter ist der Lehrer.
+5. Viṣṇu ist der HERR.
+6. Der HERR ist Śiva.
+7. Der Zweimalgeborene ist ein Brahmane.
+8. Der heilige Mann ist ein Lehrer.
+9. Der Lehrer ist ein heiliger Mann.

@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 10
 
-:::deleteme-box
+::: deleteme-box
 **In dieser Lektion lernen Sie:**
 - Den Passivsatz (Instrumentalis des Agens)
 - Die Deklination des Instrumentalis (tṛtīyā)
@@ -19,7 +19,7 @@ status: stable
 :::
 ## 10.1. Der Passivsatz
 
-:::grammar-box
+::: grammar-box
 **Schema:**
 **(Agens - kartṛ - im Instrumentalis (tṛtīyā)) - (direktes Objekt - karman - im Nominativ) - passive Verbalform**
 
@@ -27,58 +27,62 @@ z.B. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪द
 
 Dieser Satz ist **völlig (!) bedeutungsgleich** mit dem Satz:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫
-::::::grammar-box
+:::
+
+::: grammar-box
 - Im Passivsatz steht der Agens (**kartṛ**) im **Instrumentalis** (tṛtīyā f. "dritte Kasusendung"), das direkte Objekt (**karman** n.) im **Nominativ** (prathamā f.).
 - Passivsätze, in denen der Agens nicht bezeichnet wird, haben meist unpersönliche Bedeutung ("man"):
   z.B. **ijyate** = ⟪इज्यते⟫ "Man opfert" (wörtlich: "es wird mit einem Opfer verehrt").
-::::::grammar-box
+:::
+
+::: grammar-box
 **Auch wenn der entsprechende aktive Satz einen Akkusativ (dvitīyā) des Zieles enthalten würde, kann dieser im Passivsatz in den Nominativ (prathamā) gesetzt werden:**
 
 Dem Aktivsatz **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma geht ins Dorf." entsprechen die Passivsätze:
 - **rāmeṇa grāmaṃ gamyate** = ⟪रामेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫
 - alternativ: **rāmeṇa grāmo gamyate** = ⟪रामेण⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫
-::::::grammar-box
+:::
+
+::: grammar-box
 **Intransitive Verben (Verben ohne direktes Objekt) haben häufig Passivkonstruktionen, bes. auch in höflichen Aufforderungen:**
 - **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Man möge eintreten = Bitte treten Sie ein = Herein!"
 - **niṣadyatām** = ⟪निषद्यताम्⟫ = "Man möge sich setzen = Bitte setzen Sie sich = Bitte nehmen Sie Platz"
 :::
 Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch leichter bildbar als z.B. zahlreiche Präsensstämme.
 
-:::
-important
+::: important
 **Sanskrit-Passivsätze dürfen im Allgemeinen im Deutschen nicht durch einen Passivsatz wiedergegeben werden, da das deutsche Passiv eine ganz andere stilistische Funktion hat.**
 :::
----
 
 ## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
 
-:::grammar-box
+::: grammar-box
 **Die regulären Endungen des Instrumentalis (tṛtīyā):**
 - **Singular: -ā**
 - **Plural: -bhis**
 
-**Regelmäßige Bildungen:**
+**Regelmässige Bildungen:**
 
 | | Instrumentalis Singular | Instrumentalis Plural |
 | :--- | :--- | :--- |
-| **Feminina auf -i**::brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
-| **Feminina auf -ī**::brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
-| **Feminina auf -u**::brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
+| **Feminina auf -i**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
+| **Feminina auf -ī**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
+| **Feminina auf -u**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
 
-**Unregelmäßige Bildungen (Singular):**
-
-| | Instrumentalis Singular | Instrumentalis Plural |
-| :--- | :--- | :--- |
-| **Maskulina auf -i**::brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
-| **Maskulina auf -u**::brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
-| **Feminina auf -ā**::brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
-
-**Maskulina und Neutra auf -a (unregelmäßig in Singular und Plural):**
+**Unregelmässige Bildungen (Singular):**
 
 | | Instrumentalis Singular | Instrumentalis Plural |
 | :--- | :--- | :--- |
-| **Maskulina auf -a**::brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
-| **Neutra auf -a**::brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
+| **Maskulina auf -i**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
+| **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
+| **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
+
+**Maskulina und Neutra auf -a (unregelmässig in Singular und Plural):**
+
+| | Instrumentalis Singular | Instrumentalis Plural |
+| :--- | :--- | :--- |
+| **Maskulina auf -a**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
+| **Neutra auf -a**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
 
 **Fragepronomen kim:**
 
@@ -97,14 +101,16 @@ important
 | | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
 | **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
-::::::deleteme-box
-Außer im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepronomens und der Demonstrativpronomina mit den Formen des entsprechenden Maskulinums identisch.
 :::
----
+
+::: deleteme-box
+Ausser im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepronomens und der Demonstrativpronomina mit den Formen des entsprechenden Maskulinums identisch.
+:::
+
 
 ### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
 
-:::grammar-box
+::: grammar-box
 **Der Instrumentalis (tṛtīyā) steht hauptsächlich auf die Fragen:**
 - **Wodurch?**
 - **Womit?**
@@ -119,16 +125,15 @@ Außer im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepr
 :::
 Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 
----
 
 ## 10.3. Das sogenannte Cerebralisationsgesetz für -n- (ein Wortsandhi)
 
-:::grammar-box
+::: grammar-box
 Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** ersetzt, wenn **ṛ, ṝ, r, ṣ** im Wort dem **-n-** vorausgehen oder kein anderer Laut als Vokale, Gutturale, Labiale, **y, v, h** oder Anusvāra zwischen diesen Lauten und dem folgenden **-n-** im Wort steht.
 :::
 **Deshalb:**
 
-:::grammar-box
+::: grammar-box
 | | Instrumentalis Singular |
 | :--- | :--- |
 | **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
@@ -139,7 +144,7 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 :::
 **So ist auch das -ṇ- zu erklären in:**
 
-:::indent
+::: indent
 **śravaṇa** ⟪श्रवण⟫
 
 **śṛṇoti** ⟪शृणोति⟫
@@ -148,11 +153,11 @@ Ein **-n-**, auf das ein Vokal oder **n, m, y, v** folgt, wird durch **-ṇ-** e
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
----
+
 
 ## 10.4. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
 
-:::grammar-box
+::: grammar-box
 **Bildung:**
 **(meist) tiefstufige Wurzel + -ya- + Ātmanepada-Endung**
 :::
@@ -164,9 +169,9 @@ z.B.
 | **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
 | **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
-**Beachten Sie, dass bei Verben der 4. Präsensklasse das Ātmanepada und das Passiv identische Formen haben! Ob Ātmanepada oder Passiv vorliegt, lässt sich in diesem Fall nur aus der Satzkonstruktion erschließen.**
+**Beachten Sie, dass bei Verben der 4. Präsensklasse das Ātmanepada und das Passiv identische Formen haben! Ob Ātmanepada oder Passiv vorliegt, lässt sich in diesem Fall nur aus der Satzkonstruktion erschliessen.**
 
----
+
 
 ### 10.4.1. Sonderregeln zur Bildung des Passiv
 
@@ -175,7 +180,7 @@ z.B.
    * **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
    * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
 
-2. **Wurzeln mit -a- zwischen Konsonanten** (außer Nasalen, y, r, v) bleiben hochstufig:
+2. **Wurzeln mit -a- zwischen Konsonanten** (ausser Nasalen, y, r, v) bleiben hochstufig:
    * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **Einige Wurzeln bilden ihr Passiv hochstufig** (oder in der Ablautstufe des Präsensstamms):
@@ -205,7 +210,7 @@ z.B.
    * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
    * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
 
----
+
 
 ## 10.5. Wortliste
 
@@ -215,42 +220,53 @@ z.B.
 - **grāma** m. ⟪ग्राम⟫ : Dorf
 - **nagara** n. ⟪नगर⟫ : Stadt
 
-  :::note-box
+  ::: note-box
   Zum Stadt- und Dorfleben siehe Basham, *Wonder*, Kap. 6.
-  :::- **yajña** m. ⟪यज्ञ⟫ : Opfer
+  :::
 
-  :::note-box
+- **yajña** m. ⟪यज्ञ⟫ : Opfer
+
+  ::: note-box
   Das Opfer ist in Indien in erster Linie eine Verehrung der Gottheit als Gast. Dadurch verpflichtet man sich die Gottheit.
   
   Wortbildung: **yaj** 1 U + kṛt-Suffix **-na-**.
-  :::- **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst
+  :::
 
-  :::note-box
+- **puṇya** n. ⟪पुण्य⟫ : gutes Werk, Verdienst
+
+  ::: note-box
   Wodurch man sich Wohlergehen und gute Wiedergeburten verdient.
-  :::- **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
+  :::
+
+- **pāpa** n. ⟪पाप⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
 - **satya** n. ⟪सत्य⟫ : Wahrheit
 
-:::
-note-box
+::: note-box
 In Indien schrieb man dem wahren Wort Zauberkraft zu, ja die ganze Weltordnung wird durch das wahre Wort erhalten und geschaffen. Zu dieser wichtigen Vorstellung siehe das grundlegende Werk:
 
-Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
-::::::media
+Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+:::
+
+::: media
 ![](/images/lekt1003.webp)
 Abb.: ⟪वरुणः⟫
 (Bildquelle: [Details](/licenses#lekt1003))
 :::
 - **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
 
-  :::note-box
+  ::: note-box
   Wortbildung **an-** („un-“) + **ṛta** n.
   
   **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
-  :::- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
+  :::
 
-  :::note-box
+- **ṛṣi** m. ⟪ऋषि⟫ : vedischer Weiser, Verfasser vedischer Lieder
+
+  ::: note-box
   Die Namen dieser **ṛṣi**s werden in den Brāhmaṇas sowie in eigenen Verzeichnissen zu den Veden genannt. Alle Brahmanen leiten ihre Herkunft von solchen **ṛṣi**s ab, nach denen ihre **gotra** (⟪गोत्र⟫) benannt sind. Zum Begriff **gotra** siehe Basham, *Wonder*, Kap. 5.
-  ::::::media
+  :::
+
+::: media
 ![](/images/lekt1002.jpg)
 Abb.: ⟪विश्वामित्रः⟫
 (Bildquelle: [Details](/licenses#lekt1002))
@@ -259,7 +275,6 @@ Abb.: ⟪विश्वामित्रः⟫
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
 - **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
 
----
 
 ## 10.6. Übung
 
@@ -314,7 +329,7 @@ Abb.: ⟪विश्वामित्रः⟫
 3. Der Veda wird śruti genannt. (**vad**)
 4. Man spannt die Webkette auf. (2 Möglichkeiten)
 
-:::media
+::: media
 ![](/images/lekt1004.jpg)
 Abb.: ⟪तन्तुवायः⟫
 (Bildquelle: [Details](/licenses#lekt1004))
@@ -326,7 +341,7 @@ Abb.: ⟪तन्तुवायः⟫
 9. Der Kṣatriya verehrt den HERRN mit einem Opfer. (Passivkonstruktion, ohne das Wort **yajña** zu verwenden)
 10. Durch Freigebigkeit erreicht ein Anhänger des Buddha einen Himmel.
 
----
+
 
 ## 10.7. Wortliste 2
 
@@ -346,7 +361,7 @@ Abb.: ⟪तन्तुवायः⟫
 - **atra** ⟪अत्र⟫ : hier
 - **tatra** ⟪तत्र⟫ : dort
 - **bhānu** m. ⟪भानु⟫ : Glanz, Sonne
-- **vand** 1 Ā (vandate) ⟪वन्द्⟫ ⟪वन्दते⟫ : grüßen, ehren
+- **vand** 1 Ā (vandate) ⟪वन्द्⟫ ⟪वन्दते⟫ : grüssen, ehren
 - **vṛṣ** 1 P (varṣati) ⟪वृष्⟫ ⟪वर्षति⟫ : regnen
 - **nṛpa** m. ⟪नृप⟫ : König, Fürst
 - **kṣīra** n. ⟪क्षीर⟫ : Milch
@@ -355,17 +370,16 @@ Abb.: ⟪तन्तुवायः⟫
 - **iha** ⟪इह⟫ : hier
 - **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : schön sein, glänzen
 
----
+
 
 ## 10.8. Lese- und Übersetzungsübung
 
 **Lesen und übersetzen Sie und setzen Sie ins Passiv:**
 
-**⟪क⟫**
+⟪क⟫
 
 ⟪१⟫.
-:::
-center
+::: center
 ⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫
 ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ |
 ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫
@@ -381,7 +395,7 @@ center
 ⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ | |
 ⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
 
-**⟪ख⟫**
+⟪ख⟫
 
 ⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ | |
 ⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ | |

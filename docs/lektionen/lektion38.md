@@ -13,10 +13,10 @@ status: stable
 
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ über rechtes Urinieren:
 
-:::indent
-⟪प्रत्य⟫***⟪ग्नि⟫*** ⟪प्रतिसूर्यं⟫ ⟪च⟫  
+::: indent
+⟪प्रत्य⟫sig[⟪ग्नि⟫] ⟪प्रतिसूर्यं⟫ ⟪च⟫  
 ⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
-⟪प्रति⟫***⟪गु⟫*** ⟪प्रतिवातं⟫ ⟪च⟫  
+⟪प्रति⟫sig[⟪गु⟫] ⟪प्रतिवातं⟫ ⟪च⟫  
 ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
 :::
 Erklärungen:
@@ -25,14 +25,14 @@ Erklärungen:
 
 \-⟪गु⟫ Neutrum Nom.Akk.sg. zu ⟪गो⟫ m.f. "Rind, Kuh"
 
-:::media
+::: media
 ![](/images/lekt3801.webp)
 Abb.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
 (Bildquelle: [Details](/licenses#lekt3801))
 :::
 ## 38.2. Lautwandel von Nasalen im Wort
 
-:::grammar-box
+::: grammar-box
 Nasale im Wort werden darauffolgenden Konsonanten assimiliert, d. h. sie werden durch den diesen Konsonanten entsprechenden Nasal ersetzt.
 
 Nach c- und j- wird -n- durch -ñ- ersetzt.
@@ -40,7 +40,7 @@ Nach c- und j- wird -n- durch -ñ- ersetzt.
 ## 38.3. Deklination der Stämme auf -n
 
 ### 38.3.1. Nomina auf -an sowie Nomina auf -man bzw. -van nach Vokal
-:::grammar-box
+::: grammar-box
 Nomina auf **-an** sowie Nomina **-man** bzw. **-van** nach Vokal haben drei Stämme:
 
 | Stamm | -an | -man | -van | Verwendung |
@@ -49,7 +49,7 @@ Nomina auf **-an** sowie Nomina **-man** bzw. **-van** nach Vokal haben drei St�
 | **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
 | **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
 
-**Die Endungen sind regelmäßig. Der Nominativ Singular m. f. wird ohne auslautendes -n gebildet.**
+**Die Endungen sind regelmässig. Der Nominativ Singular m. f. wird ohne auslautendes -n gebildet.**
 :::
 Beispiele:
 
@@ -70,35 +70,36 @@ Beispiele:
 *   starker Stamm: ⟪नामान्⟫
 *   mittlerer Stamm: ⟪नाम⟫
 *   schwächster Stamm: ⟪नाम्न्⟫
-:::grammar-box
+::: grammar-box
 
-| | **⟪राजन्⟫** | **⟪सीमन्⟫** | **⟪नामन्⟫** |
+| | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
 | :--- | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | | | |
-| **⟪प्रथमा⟫** | **⟪राजा⟫** | **⟪सीमा⟫** | **⟪नाम⟫** |
-| **⟪द्वितीया⟫** | **⟪राजानम्⟫** | **⟪सीमानम्⟫** | **⟪नाम⟫** |
-| **⟪तृतीया⟫** | **⟪राज्ञा⟫** | **⟪सीम्ना⟫** | **⟪नाम्ना⟫** |
-| **⟪चतुर्थी⟫** | **⟪राज्ञे⟫** | **⟪सीम्ने⟫** | **⟪नाम्ने⟫** |
-| **⟪पञ्चमी⟫** | **⟪राज्ञस्⟫** | **⟪सीम्नस्⟫** | **⟪नाम्नस्⟫** |
-| **⟪षष्ठी⟫** | **⟪राज्ञस्⟫** | **⟪सीम्नस्⟫** | **⟪नाम्नस्⟫** |
-| **⟪सप्तमी⟫** | **⟪राज्ञि⟫** / **⟪राजानि⟫** | **⟪सीम्नि⟫** / **⟪सीमनि⟫** | **⟪नाम्नि⟫** / **⟪नामनि⟫** |
-| **⟪बहुवचनम्⟫** | | | |
-| **⟪प्रथमा⟫** | **⟪राजानस्⟫** | **⟪सीमानस्⟫** | **⟪नामानि⟫** |
-| **⟪द्वितीया⟫** | **⟪राज्ञस्⟫** | **⟪सीम्नस्⟫** | **⟪नामानि⟫** |
-| **⟪तृतीया⟫** | **⟪राजभिस्⟫** | **⟪सीम्नभिस्⟫** | **⟪नामभिस्⟫** |
-| **⟪चतुर्थी⟫** | **⟪राजभ्यस्⟫** | **⟪सीम्नभ्यस्⟫** | **⟪नामभ्यस्⟫** |
-| **⟪पञ्चमी⟫** | **⟪राजभ्यस्⟫** | **⟪सीम्नभ्यस्⟫** | **⟪नामभ्यस्⟫** |
-| **⟪षष्ठी⟫** | **⟪राज्ञाम्⟫** | **⟪सीम्नाम्⟫** | **⟪नाम्नाम्⟫** |
-| **⟪सप्तमी⟫** | **⟪राजसु⟫** | **⟪सीमसु⟫** | **⟪नामसु⟫** |
+| ⟪एकवचनम्⟫ | | | |
+| ⟪प्रथमा⟫ | ⟪राजा⟫ | ⟪सीमा⟫ | ⟪नाम⟫ |
+| ⟪द्वितीया⟫ | ⟪राजानम्⟫ | ⟪सीमानम्⟫ | ⟪नाम⟫ |
+| ⟪तृतीया⟫ | ⟪राज्ञा⟫ | ⟪सीम्ना⟫ | ⟪नाम्ना⟫ |
+| ⟪चतुर्थी⟫ | ⟪राज्ञे⟫ | ⟪सीम्ने⟫ | ⟪नाम्ने⟫ |
+| ⟪पञ्चमी⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नाम्नस्⟫ |
+| ⟪षष्ठी⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नाम्नस्⟫ |
+| ⟪सप्तमी⟫ | ⟪राज्ञि⟫ / ⟪राजानि⟫ | ⟪सीम्नि⟫ / ⟪सीमनि⟫ | ⟪नाम्नि⟫ / ⟪नामनि⟫ |
+| ⟪बहुवचनम्⟫ | | | |
+| ⟪प्रथमा⟫ | ⟪राजानस्⟫ | ⟪सीमानस्⟫ | ⟪नामानि⟫ |
+| ⟪द्वितीया⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नामानि⟫ |
+| ⟪तृतीया⟫ | ⟪राजभिस्⟫ | ⟪सीम्नभिस्⟫ | ⟪नामभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪राजभ्यस्⟫ | ⟪सीम्नभ्यस्⟫ | ⟪नामभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪राजभ्यस्⟫ | ⟪सीम्नभ्यस्⟫ | ⟪नामभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪राज्ञाम्⟫ | ⟪सीम्नाम्⟫ | ⟪नाम्नाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪राजसु⟫ | ⟪सीमसु⟫ | ⟪नामसु⟫ |
 
-::::::media
+:::
+::: media
 ![](/images/lekt3803.webp)
 Abb.: ⟪सीमा⟫
 (Bildquelle: [Details](/licenses#lekt3803))
 :::
 ### 38.3.2. Nomina auf -man bzw. -van nach Konsonant
 
-:::grammar-box
+::: grammar-box
 *   Starker Stamm: -mān, -vān
 *   Schwacher Stamm:
     *   vor konsonantisch anlautenden Endungen: -ma, -va (aus -\*mn, -\*vn)
@@ -121,31 +122,31 @@ Beispiele:
 *   schwacher Stamm:
     *   vor Konsonant: ⟪ब्रह्म⟫
     *   vor Vokal: ⟪ब्रह्मन्⟫
-:::grammar-box
+::: grammar-box
 
-| | **⟪आत्मन्⟫** | **⟪ब्रह्मन्⟫** |
+| | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
 | :--- | :---: | :---: |
-| **⟪एकवचनम्⟫** | | |
-| **⟪प्रथमा⟫** | **⟪आत्मा⟫** | **⟪ब्रह्म⟫** |
-| **⟪द्वितीया⟫** | **⟪आत्मानम्⟫** | **⟪ब्रह्म⟫** |
-| **⟪तृतीया⟫** | **⟪आत्मना⟫** | **⟪ब्रह्मणा⟫** |
-| **⟪चतुर्थी⟫** | **⟪आत्मने⟫** | **⟪ब्रह्मणे⟫** |
-| **⟪पञ्चमी⟫** | **⟪आत्मनस्⟫** | **⟪ब्रह्मणस्⟫** |
-| **⟪षष्ठी⟫** | **⟪आत्मनस्⟫** | **⟪ब्रह्मणस्⟫** |
-| **⟪सप्तमी⟫** | **⟪आत्मनि⟫** | **⟪ब्रह्मणि⟫** |
-| **⟪बहुवचनम्⟫** | | |
-| **⟪प्रथमा⟫** | **⟪आत्मानस्⟫** | **⟪ब्रह्माणि⟫** |
-| **⟪द्वितीया⟫** | **⟪आत्मनस्⟫** | **⟪ब्रह्माणि⟫** |
-| **⟪तृतीया⟫** | **⟪आत्मभिस्⟫** | **⟪ब्रह्मभिस्⟫** |
-| **⟪चतुर्थी⟫** | **⟪आत्मभ्यस्⟫** | **⟪ब्रह्मभ्यस्⟫** |
-| **⟪पञ्चमी⟫** | **⟪आत्मभ्यस्⟫** | **⟪ब्रह्मभ्यस्⟫** |
-| **⟪षष्ठी⟫** | **⟪आत्मनाम्⟫** | **⟪ब्रह्मणाम्⟫** |
-| **⟪सप्तमी⟫** | **⟪आत्मसु⟫** | **⟪ब्रह्मसु⟫** |
+| ⟪एकवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪आत्मा⟫ | ⟪ब्रह्म⟫ |
+| ⟪द्वितीया⟫ | ⟪आत्मानम्⟫ | ⟪ब्रह्म⟫ |
+| ⟪तृतीया⟫ | ⟪आत्मना⟫ | ⟪ब्रह्मणा⟫ |
+| ⟪चतुर्थी⟫ | ⟪आत्मने⟫ | ⟪ब्रह्मणे⟫ |
+| ⟪पञ्चमी⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्मणस्⟫ |
+| ⟪षष्ठी⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्मणस्⟫ |
+| ⟪सप्तमी⟫ | ⟪आत्मनि⟫ | ⟪ब्रह्मणि⟫ |
+| ⟪बहुवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪आत्मानस्⟫ | ⟪ब्रह्माणि⟫ |
+| ⟪द्वितीया⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्माणि⟫ |
+| ⟪तृतीया⟫ | ⟪आत्मभिस्⟫ | ⟪ब्रह्मभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪आत्मभ्यस्⟫ | ⟪ब्रह्मभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪आत्मभ्यस्⟫ | ⟪ब्रह्मभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪आत्मनाम्⟫ | ⟪ब्रह्मणाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ |
 
 :::
 ### 38.3.3. Maskulina und Neutra auf -in, -min, -vin
 
-:::grammar-box
+::: grammar-box
 Diese Nomina haben **keine** Stammabstufung.
 
 Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf **\-i-** vor konsonantischer Endung.
@@ -156,31 +157,31 @@ Beispiel:
 
 ⟪बलिन्⟫ m.n. "stark, kräftig (durch besonderes ⟪बल⟫ gekennzeichnet, ⟪बल⟫ besitzend)"
 
-:::grammar-box
+::: grammar-box
 
-| | **⟪पुंस्⟫** | **⟪नपुंसकम्⟫** |
+| | ⟪पुंस्⟫ | ⟪नपुंसकम्⟫ |
 | :--- | :---: | :---: |
-| **⟪एकवचनम्⟫** | | |
-| **⟪प्रथमा⟫** | **⟪बली⟫** | **⟪बलि⟫** |
-| **⟪द्वितीया⟫** | **⟪बलिनम्⟫** | **⟪बलि⟫** |
-| **⟪तृतीया⟫** | **⟪बलिना⟫**||
-| **⟪चतुर्थी⟫** | **⟪बलिने⟫**||
-| **⟪पञ्चमी⟫** | **⟪बलिनस्⟫**||
-| **⟪षष्ठी⟫** | **⟪बलिनस्⟫**||
-| **⟪सप्तमी⟫** | **⟪बलिनि⟫**||
-| **⟪बहुवचनम्⟫** | | |
-| **⟪प्रथमा⟫** | **⟪बलिनस्⟫** | **⟪बलीनि⟫** |
-| **⟪द्वितीया⟫** | **⟪बलिनस्⟫** | **⟪बलीनि⟫** |
-| **⟪तृतीया⟫** | **⟪बलिभिस्⟫**||
-| **⟪चतुर्थी⟫** | **⟪बलिभ्यस्⟫**||
-| **⟪पञ्चमी⟫** | **⟪बलिभ्यस्⟫**||
-| **⟪षष्ठी⟫** | **⟪बलिनाम्⟫**||
-| **⟪सप्तमी⟫** | **⟪बलिषु⟫**||
+| ⟪एकवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪बली⟫ | ⟪बलि⟫ |
+| ⟪द्वितीया⟫ | ⟪बलिनम्⟫ | ⟪बलि⟫ |
+| ⟪तृतीया⟫ | ⟪बलिना⟫||
+| ⟪चतुर्थी⟫ | ⟪बलिने⟫||
+| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫||
+| ⟪षष्ठी⟫ | ⟪बलिनस्⟫||
+| ⟪सप्तमी⟫ | ⟪बलिनि⟫||
+| ⟪बहुवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
+| ⟪द्वितीया⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
+| ⟪तृतीया⟫ | ⟪बलिभिस्⟫||
+| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫||
+| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫||
+| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫||
+| ⟪सप्तमी⟫ | ⟪बलिषु⟫||
 
 :::
 ## 38.4. Zur Nominalbildung: ⟪तद्धित⟫-Suffix -in
 
-:::grammar-box
+::: grammar-box
 Mit dem (sehr wichtigen!) ⟪तद्धित⟫-Suffix **-in** werden aus Substantiven Adjektive gebildet in der Bedeutung:
 
 **gekennzeichnet durch, besitzend**
@@ -191,18 +192,20 @@ Beispiel:
 
 ⟪हस्तिन्⟫ m.: der durch eine besondere Hand gekennzeichnete = der Elefant (seine Hand ist ja keine gewöhnliche Hand, sondern ein Rüssel)
 
-:::media
+::: media
 ![](/images/lekt3806.webp)
 Abb.: ⟪हस्ती⟫
 (Bildquelle: [Details](/licenses#lekt3806))
 :::
 ⟪हस्तवन्त्⟫ : einer, der (menschliche) Hände hat
 
-:::media
+::: media
 ![](/images/lekt3807.webp)
 Abb.: ⟪हस्तवान्⟫
 (Bildquelle: [Details](/licenses#lekt3807))
-::::::grammar-box
+:::
+
+::: grammar-box
 Adjektive auf **-⟪इन्⟫** werden gerne zu Komposita gebildet.
 :::
 Beispiel:
@@ -211,7 +214,7 @@ Beispiel:
 
 ## 38.5. Syntaktisches zu ⟪नामन्⟫
 
-:::grammar-box
+::: grammar-box
 Um auszudrücken "jemand namens N. N.", konstruiert man:
 
 **N.N. (im Nominativ) ⟪नाम⟫**
@@ -220,78 +223,80 @@ Wörtlich: "der Name ist/war N.N". Es handelt sich also um einen zwischengeschob
 :::
 Beispiel:
 
-:::indent
+::: indent
 ⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ "Es war einmal ein König **namens Nala**, der starke Sohn Vīrasenas."
 :::
 Selbstverständlich kann man dasselbe mit einem ⟪बहुव्रीहि⟫ ausdrücken:
 
-:::indent
+::: indent
 ⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ "ein Mann, dessen Name Devadatta ist"
 
 ⟪मदयन्तिकानाम्नी⟫ ⟪बाला⟫ "ein Mädchen, dessen Name Madayantika ist"
-::::::media
+:::
+::: media
 ![](/images/lekt3808.jpg)
 Abb.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
 (Bildquelle: [Details](/licenses#lekt3808))
 :::
 ## 38.6. Syntaktisches zu ⟪आत्मन्⟫
 
-:::grammar-box
-**⟪आत्मन्⟫** **maskulinum** kann im **Singular** als rückbezügliches Fürwort (Reflexivpronomen) für alle drei Geschlechter, Zahlen (auch Dual und Plural) und Personen gebraucht werden.
+::: grammar-box
+⟪आत्मन्⟫ **maskulinum** kann im **Singular** als rückbezügliches Fürwort (Reflexivpronomen) für alle drei Geschlechter, Zahlen (auch Dual und Plural) und Personen gebraucht werden.
 :::
 Beispiele:
 
-:::indent
+::: indent
 ⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "Sie sieht keinen Fehler an ihr selbst"
 
 ⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ "Sie rühmen sich selbst"
-::::::grammar-box
-Der Genetiv (⟪षष्ठी⟫) **⟪आत्मनस्⟫** kann deswegen stehen für "mein/dein/sein/... eigenes"
+:::
+::: grammar-box
+Der Genetiv (⟪षष्ठी⟫) ⟪आत्मनस्⟫ kann deswegen stehen für "mein/dein/sein/... eigenes"
 :::
 Beispiel:
 
-:::indent
+::: indent
 ⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Er betritt sein eigenes Haus."
 :::
 ## 38.7. Konsonantisch auslautende Stämme als Vorderglieder von Komposita
 
-:::grammar-box
+::: grammar-box
 Stämme, die auf einen Konsonanten enden, erscheinen als Vorderglied eines Kompositums in dem (schwachen) Stamm, den sie vor der Endung -su des Lokativ (⟪सप्तमी⟫) Plural annehmen.
 :::
 Beispiel:
 
-:::indent
-***⟪राज⟫***⟪पुत्र⟫ "Königssohn"
+::: indent
+sig[⟪राज⟫]⟪पुत्र⟫ "Königssohn"
 :::
 ## 38.8. Stämme auf -an als Hinterglied eines ⟪बहुव्रीहि⟫
 
-:::grammar-box
+::: grammar-box
 Als Hinterglied eines ⟪बहुव्रीहि⟫ kann ein -an-Stamm für alle drei Geschlechter verwendet werden. In der Regel wird aber das Femininum mit dem Suffix -ī vom schwächsten Maskulinstamm gebildet.
 :::
 Beispiel:
 
-:::indent
+::: indent
 ⟪दुर्णाम्नी⟫ "eine, deren Name böse ist ; Krankheitsdämonin"
 :::
 ## 38.9. Wortliste
 
 ⟪सूर्य⟫ m.: Sonne, Sonnengott Sūrya
 
-:::media
+::: media
 ![](/images/lekt3802.webp)
 Abb.: ⟪सूर्यः⟫
 (Bildquelle: [Details](/licenses#lekt3802))
 :::
 ⟪उदक⟫ n.: Wasser
 
-:::media
+::: media
 ![](/images/lekt3805.webp)
 Abb.: ⟪उदकम्⟫
 (Bildquelle: [Details](/licenses#lekt3805))
 :::
 ⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen
 
-:::indent
+::: indent
 Fut. ⟪वास्यति⟫
 Perf. IV ⟪ववौ⟫
 Pass. ⟪वायते⟫
@@ -305,20 +310,21 @@ davon:
 :::
 ⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : wehen, verwehen, erlöschen
 
-:::indent
+::: indent
 davon:
 
 ⟪निर्वाण⟫ n.: Erlöschen, Nirvana
 
 ⟪परिनिर्वाण⟫ n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant)
-::::::media
+:::
+::: media
 ![](/images/lekt3804.webp)
 Abb.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
 (Bildquelle: [Details](/licenses#lekt3804))
 :::
 ⟪मिह्⟫ 1P ⟪मेहति⟫ : pinkeln, pissen, ejakulieren
 
-:::indent
+::: indent
 Fut. ⟪मेक्ष्यति⟫
 Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
 Pass. ⟪मिह्यते⟫
@@ -333,7 +339,7 @@ davon:
 
 ⟪राजन्⟫ m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. ⟪तत्पुरुष⟫) meist: -⟪राज⟫ m. (wie ⟪देव⟫)
 
-:::indent
+::: indent
 Femininum:
 
 ⟪राज्ञी⟫ f.: Königin, Frau eines Königs
@@ -352,28 +358,28 @@ von ⟪राज⟫ :
 
 ⟪ब्रह्मन्⟫ m.: der persönlich gedachte Schöpfergott Brahmā
 
-:::media
+::: media
 ![](/images/lekt3809.webp)
 Abb.: ⟪ब्रह्मा⟫
 (Bildquelle: [Details](/licenses#lekt3809))
 :::
 ⟪कर्मन्⟫ n.: zu ⟪कृ⟫ 8U: Handlung, Tat, Werk; heiliges Werk, Opferhandlung; Karma: das frühere Tun, das später seine Früchte bringt (z.B. in Wiedergeburt) 
 
-:::indent
+::: indent
 ⟪कर्मविपाक⟫ m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu ⟪वि⟫-⟪पच्⟫)
 :::
 ⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_)
 
 ⟪मनु⟫ m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu ⟪मन्⟫ 4Ā)
 
-:::indent
+::: indent
 davon:
 
 ⟪मनुष्य⟫ m.: Mensch
 :::
 ⟪शुच्⟫ 1P ⟪शोचति⟫ : (flammen, leuchten) ; trauern, betrauern
 
-:::indent
+::: indent
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
 Fut. ⟪शोचिष्यति⟫
 Pass. ⟪शुच्यते⟫
@@ -388,11 +394,14 @@ davon:
 ⟪शोक⟫ m.: Trauer, Gram
 
 ⟪अशोक⟫ 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304   232 v.Chr.)
-::::::media
+:::
+::: media
 ![](/images/lekt3810.webp)
 Abb.: ⟪अशोकवृक्षः⟫
 (Bildquelle: [Details](/licenses#lekt3810))
-::::::media
+:::
+
+::: media
 ![](/images/lekt3811.webp)
 Abb.: ⟪अशोकसाम्राज्यम्⟫
 (Bildquelle: [Details](/licenses#lekt3811))
@@ -437,14 +446,14 @@ A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammer
 
 ⟪विनोद⟫ m.: Zeitvertreib, Unterhaltung, Vergnügen
 
-:::media
+::: media
 ![](/images/lekt3812.webp)
 Abb.: ⟪विनोदः⟫
 (Bildquelle: [Details](/licenses#lekt3812))
 :::
 ⟪अट्⟫ 1P ⟪अटति⟫ : herumschweifen
 
-:::indent
+::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
 Fut. ⟪अटिष्यति⟫
 Kaus. ⟪आटयति⟫
@@ -453,7 +462,7 @@ Kaus. ⟪आटयति⟫
 
 ⟪तॄ⟫ 1P ⟪तरति⟫ : überqueren, sich retten vor (Akk.)
 
-:::indent
+::: indent
 Perf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
 Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫
 Pass. ⟪तीर्यते⟫
@@ -465,7 +474,7 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 
 ⟪तीर⟫ n.: Ufer
 
-:::media
+::: media
 ![](/images/lekt3813.webp)
 Abb.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 (Bildquelle: [Details](/licenses#lekt3813))
@@ -474,21 +483,22 @@ Abb.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 
 ⟪गण्⟫ 10P ⟪गणयति⟫ : zählen
 
-:::indent
+::: indent
 Perf. ⟪गणयां⟫ ⟪चकार⟫
 Fut. ⟪गणयिष्यति⟫
 Pass. ⟪गण्यते⟫
 PPP ⟪गणित⟫
 Absol. -⟪गणय्य⟫
 Inf. ⟪गणयितुम्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3814.webp)
 Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Bildquelle: [Details](/licenses#lekt3814))
 :::
 ⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : schreien, wehklagen
 
-:::indent
+::: indent
 Perf. II ⟪चुक्रोश⟫
 Fut. ⟪क्रोक्ष्यति⟫
 Pass. ⟪क्रुश्यते⟫
@@ -501,7 +511,7 @@ PPP ⟪क्रुष्ट⟫
 
 ⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : sinken, tauchen
 
-:::indent
+::: indent
 PPP ⟪ममज्ज⟫
 Fut. ⟪मङ्क्ष्यति⟫
 Kaus. ⟪मज्जयति⟫
@@ -518,7 +528,7 @@ Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
 
 ⟪हस्⟫ 1P ⟪हसति⟫ : lachen
 
-:::indent
+::: indent
 Perf. Vc ⟪जहास⟫, ⟪जहसुर्⟫
 Fut. ⟪हसिष्यति⟫
 Pass. ⟪हस्यते⟫
@@ -527,7 +537,7 @@ PPP ⟪हसित⟫
 :::
 ⟪सृ⟫ 1P ⟪सरति⟫ : laufen
 
-:::indent
+::: indent
 Perf. ⟪ससार⟫, ⟪सस्रुर्⟫
 Fut. ⟪सरिष्यति⟫
 Pass. ⟪स्रियते⟫
@@ -543,11 +553,11 @@ Inf. ⟪सर्तुम्⟫
 
 ## 38.12. Übersetzungsübung
 
-***⟪दश⟫*** ⟪मूढाः⟫
+sig[⟪दश⟫] ⟪मूढाः⟫
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ ***⟪बाहुभ्यां⟫*** ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ ***⟪सर्वे⟫*** ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ ***⟪जिज्ञासमान⟫***⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ ***⟪नवै⟫***⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ ***⟪वयम्⟫*** ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ ***⟪स्मः⟫*** ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ ***⟪गवेषयत⟫*** ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫***⟪मेकैको⟫*** ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ ***⟪समजनि⟫*** ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫***⟪स्तरसा⟫*** ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ ***⟪यूयम्⟫*** ⟪।⟫ ***⟪युष्माकमे⟫***⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ sig[⟪नवै⟫]⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ sig[⟪वयम्⟫] ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ sig[⟪स्मः⟫] ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ sig[⟪गवेषयत⟫] ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫sig[⟪मेकैको⟫] ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ sig[⟪समजनि⟫] ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫sig[⟪स्तरसा⟫] ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ sig[⟪यूयम्⟫] ⟪।⟫ sig[⟪युष्माकमे⟫]⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
 Erklärungen:
 
@@ -577,7 +587,7 @@ Erklärungen:
 
 ⟪युष्माकम्⟫ Gen.pl. zu ⟪यूयम्⟫
 
-:::deleteme-box
+::: deleteme-box
 
 - **lekt3801.jpg**: Abb.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  Bangalore = ಬೆಂಗಳೂರು \[Bildquelle: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
 - **lekt3802.jpg**: Abb.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Bildquelle: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Zugriff am 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
@@ -589,7 +599,7 @@ Erklärungen:
 - **lekt3808.jpg**: Abb.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  1930er Jahre \[Bildquelle: Wikipedia. Public domain\]
 - **lekt3809.jpg**: Abb.: ⟪ब्रह्मा⟫  Halebidu = ಹಳೆಬೀಡು \[Bildquelle: Wikipedia. GNU FDLicense\]
 - **lekt3810.jpg**: Abb.: Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde  Kolkata = কলকাতা \[Bildquelle: J.M.Garg / Wikipedia. GNU FDLicense\]
-- **lekt3811.jpg**: Abb.: Größte Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte \[Bildquelle: Wikipedia.GNU FDLicense\]
+- **lekt3811.jpg**: Abb.: Grösste Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte \[Bildquelle: Wikipedia.GNU FDLicense\]
 - **lekt3812.jpg**: Abb.: ⟪विनोदः⟫  Carrom-Spiel \[Bildquelle: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\]
 - **lekt3813.jpg**: Abb.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Bildquelle: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\]
 - **lekt3814.jpg**: Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Bildquelle: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\]

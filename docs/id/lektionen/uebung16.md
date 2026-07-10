@@ -76,7 +76,7 @@ The strong warriors have gone to the Brahmana village.
 ⟪पुन्यवतो⟫ ⟪वैश्यस्येष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजां⟫ ⟪करोति⟫ ⟪।⟫
 He venerates the personal deity of the meritorious Vaiśya.
 
-:::media
+::: media
 ![](/images/uebung023.webp)
 Fig.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Image source: [Details](/en/licenses#uebung023))
@@ -87,7 +87,7 @@ Fig.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर
 
 A) Form all previously learned cases for the following words as examples of the declension classes learned so far.
 
-:::grammar-box
+::: grammar-box
 ⟪१⟫. **⟪नर⟫** (m.)
 
 | Case | Singular | Plural |
@@ -248,7 +248,7 @@ The specific duty of a Śūdra is obedient service to the twice-born, economic a
 The duty of all is: non-violence, truthfulness, purity, not murmuring about one's lot, freedom from malice, and patient forbearance.
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-:::deleteme-box Explanations
+::: deleteme-box Explanations
 Sentence 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nom. Acc.: Dvandva, denoting the two "things"
 Sentence 8: **⟪कर्म⟫** Nom., Acc. sg. Neuter to ⟪कर्मन्⟫ "action"
 Sentence 13: **⟪सर्वेषाम्⟫** Gen. pl. masc. to ⟪सर्व⟫ "each, all" (pronoun, declined not like deva)
@@ -257,7 +257,7 @@ Sentence 13: **⟪सर्वेषाम्⟫** Gen. pl. masc. to ⟪सर�
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 The staff produces acquisition and secure possession of philosophy, Vedic studies, and economics. The wielding of the staff is politics.
 
-:::media
+::: media
 ![](/images/uebung024.webp)
 Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Image source: [Details](/en/licenses#uebung024))

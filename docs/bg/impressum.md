@@ -8,7 +8,7 @@ title: Правна информация и цитиране
 *Следният текст беше извлечен от файловите структури на лекциите по време на конвертирането, за да се подобри четимостта.*
 
 ## Цитиране | cite as:
-**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- Fassung von 2010. -- URL: http://www.payer.de/sanskritkurs/
+**Payer, Alois \<1944 - \>:** Sanskritkurs. -- Fassung von 2010. -- URL: http://www.payer.de/sanskritkurs/
 
 ## Повода
 Създадено за учебните курсове 1980 - 1984

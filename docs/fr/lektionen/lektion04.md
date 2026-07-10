@@ -1,29 +1,29 @@
 ---
-title: Leçon 4
-subtitle: "Pronoms interrogatifs et pronoms démonstratifs au nominatif"
+title: Lektion 4
+subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
 lesson_id: 4
 last_reconstructed: 2026-05-07
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 4
+# Lektion 4
 
-:::deleteme-box
+::: deleteme-box
 **Dans cette leçon, vous apprendrez :**
 - Les pronoms interrogatifs et les pronoms démonstratifs au nominatif
-- Le sandhi de la finale -m
-- Le sandhi de la finale -e
-- Le sandhi de la finale -d
-- Des formules de question simples
+- Le sandhi du -m final
+- Le sandhi du -e final
+- Le sandhi du -d final
+- Formules interrogatives simples
 :::
-## 4.1. Questions simples à complément (questions de mots) et réponses
+## 4.1. Questions partielles simples (questions mot) et réponses
 
-### 4.1.1. Pronoms interrogatifs et pronoms démonstratifs
+### 4.1.1. Fragepronomina und Demonstrativpronomina
 
-#### 4.1.1.1. Pronoms interrogatifs (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
+#### 4.1.1.1. Interrogative pronoms (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
-:::grammar-box
+::: grammar-box
 | | Nominatif singulier | Nominatif pluriel |
 | :--- | :--- | :--- |
 | **Neutre** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
@@ -32,71 +32,68 @@ status: stable
 :::
 #### 4.1.1.2. Pronoms démonstratifs (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
 
-:::grammar-box
-| **Stems** ||||
+::: grammar-box
+| **Tribus** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫:br"il, elle, ça ; le, la, celui, celle, celui-ci, celle-ci":br(Mentionné)** | **etad = ⟪एतद्⟫:br"ceci, celle-ci, celui-ci":br(Très proche de l'interlocuteur)** | **idam = ⟪इदम्⟫:br"ceci, celle-ci, celui-ci":br(Proche)** |
+| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
 | **Nominatif singulier** ||||
-| **Neutre** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
-| **Masculin** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
-| **Féminin** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
+| **Neutre** | **tad = ⟪तद्⟩** | **etad = ⟪एतद्⟩** | **idam = ⟪इदम्⟩** |
+| **Masculin** | **sa, so saḥ = ⟪स⟩ ⟪सो⟩ ⟪सः⟩** | **eṣa, eṣo, eṣaḥ = ⟪एष⟩ ⟪एषो⟩ ⟪एषः⟩** | **ayam = ⟪अयम्⟩** |
+| **Féminin** | **sā = ⟪सा⟩** | **eṣā = ⟪एषा⟩** | **iyam = ⟪इयम्⟩** |
 | **Nominatif pluriel** ||||
-| **Neutre** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
-| **Masculin** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
-| **Féminin** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
+| **Neutre** | **tāni = ⟪तानि⟩** | **etāni = ⟪एतानि⟩** | **imāni = ⟪इमानि⟩** |
+| **Masculin** | **te = ⟪ते⟩** | **ete = ⟪एते⟩** | **ime = ⟪इमे⟩** |
+| **Féminin** | **tās = ⟪तास्⟩** | **etās = ⟪एतास्⟩** | **imās ⟪इमास्⟩** |
 :::
-**Pour le Nom. sg. masc. :**
-- **sa, eṣa** (⟪स⟫ ⟪एष⟫) se place avant tous les sons sauf **-a** bref
-- **so, eṣo** (⟪सो⟫ ⟪एषो⟫) se place avant **-a**, qui est élidé par Avagraha (omission)
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) ne se place qu'en pause (fin de phrase, fin de vers)
+**Pour le N. sg. masc. :**
+- **sa, eṣa** (⟪स⟩ ⟪एष⟩) se place devant tous les sons sauf **-a** bref
+- **so, eṣo** (⟪सो⟩ ⟪एषो⟩) se place devant **-a**, qui est élidé par Avagraha (omission)
+- **saḥ, eṣaḥ** (⟪सः⟩ ⟪एषः⟩) se place uniquement en pause (fin de phrase, fin de vers)
 
-Afin de pouvoir former des phrases avec ces pronoms (sarvanāman n.), il est encore nécessaire de connaître les règles de Sandhi suivantes :
+Afin de pouvoir former des phrases avec ces pronoms (sarvanāman n.), il est encore nécessaire de connaître les règles de sandhi suivantes :
 
-### 4.1.2. Sandhi du -m final
+### 4.1.2. Sandhi von auslautendem -m
 
-:::grammar-box
-**Le -m final est remplacé par un Anusvāra (-ṃ) devant les consonnes. Il est conservé à la fin de la phrase ou du vers, et devant les voyelles.**
+::: grammar-box
+**La finale -m devant une consonne est remplacée par un anusvāra (-ṃ). En fin de phrase ou de vers, et devant une voyelle, le -m est conservé.**
 :::
-### 4.1.3. Sandhi de -e final
+### 4.1.3. Sandhi du -m final
 
-:::grammar-box
-1. **devant a- : -e reste inchangé : le a- initial s'élide avec Avagraha :**
-   ex. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Ces feux"
+::: grammar-box
+1. **devant a- le préfixe -e reste inchangé : le a- initial s'élide avec Avagraha :**
+   par ex. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Ces feux"
 
-2. **devant d'autres voyelles que a- bref : -e est habituellement remplacé par -a avec hiatus. Le remplacement par -ay est aussi attesté :**
-   ex. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (rare : imay īśvarāh = ⟪इमयीश्वराः⟫) "Ces SEIGNEURS"
+2. **Devant d’autres voyelles que le a- bref, le -e est habituellement remplacé par -a avec hiatus. Le remplacement par -ay se rencontre également :**
+   par ex. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (rare : imay īśvarāh = ⟪इमयीश्वराः⟫) « Ces SEIGNEURS »
 :::
-### 4.1.4. Sandhi des final -d
+### 4.1.4. Sandhi du -d final
 
-:::grammar-box
-**Le -d final est remplacé en pause ainsi que devant les gutturales sourdes (k, kh) et les labiales (p, ph) par -t.**
+::: grammar-box
+**La finale -d est remplacée par -t en pause, ainsi que devant les gutturales sourdes (k, kh) et les labiales (p, ph).**
 
-Le remplacement devant d'autres consonnes sera traité plus tard. Évitez provisoirement ces collisions phonétiques !
+La substitution devant d'autres consonantes sera abordée plus tard. Évitez provisoirement ces collisions phonétiques !
 :::
 ### 4.1.5. Formules interrogatives
 
-Au moyen de ces pronoms, on forme par exemple les formules interrogatives suivantes :
+À l’aide de ces pronoms, on forme par exemple les formules interrogatives suivantes :
 
-::::grammar-box
-:::no-header
+::: no-header
 | | | | |
 | :--- | :--- | :--- | :--- |
 | **Singulier** | **Neutre** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "Qu'est-ce que c'est ?" |
-| | **Masculin** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Qui est-ce ?":br"Qu'est-ce que c'est (le) ?" |
-| | **Féminin** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Qui est-ce ?":br"Qui est-ce (la) ?" |
+| ^^ | **Masculin** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Qui est-ce ?":br"Qui est-il ?" |
+| ^^ | **Féminin** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Qui est-ce ?":br"Qui est-elle ?" |
 | **Pluriel** | **Neutre** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
-| | **Masculin** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
-| | **Féminin** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
-:::::::
+| ^^ | **Masculin** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
+| ^^ | **Féminin** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
+:::
 Un exemple d'autres questions :
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Réponse : viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Ici, on peut placer le sujet au début de la phrase nominale, par exemple, pour souligner la liaison avec la question.)
+> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Réponse : viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Ici, on peut placer le sujet d’une phrase nominale au début, par exemple, pour souligner la continuité avec la question.)
 
-REMARQUE : Les réponses que vous pouvez donner à de telles questions avec vos connaissances actuelles en sanskrit ne correspondent bien sûr pas encore à un bon sanskrit idiomatique sous tous les aspects.
+REMARQUE : Les réponses que vous pouvez donner à de telles questions avec vos connaissances actuelles en sanskrit ne correspondent bien sûr pas encore à un bon sanskrit idiomatique à tous égards.
 
----
-
-## 4.2. Exercice
+## 4.2. Übung
 
 **A) Formez oralement des questions selon le schéma viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) à l’aide des mots suivants, et répondez aux questions en sanskrit :**
 
@@ -106,7 +103,7 @@ REMARQUE : Les réponses que vous pouvez donner à de telles questions avec vos 
 
 **B) Formez des questions pour l’exercice de lecture suivant selon le modèle etat kim (⟪एतत्किम्⟫) et répondez aux questions avec les mots indiqués et les pronoms démonstratifs, par exemple eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫) :**
 
-:::media
+::: media
 ![](/images/lekt0401.webp)
 (Source de l’image : [Détails](/fr/licenses#lekt0401))
 :::

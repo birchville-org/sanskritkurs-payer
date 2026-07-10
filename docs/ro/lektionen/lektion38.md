@@ -13,7 +13,7 @@ status: stable
 
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ despre urinarea corectă:
 
-:::indent
+::: indent
 ⟪प्रत्य⟫***⟪ग्नि⟫*** ⟪प्रतिसूर्यं⟫ ⟪च⟫  
 ⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
 ⟪प्रति⟫***⟪गु⟫*** ⟪प्रतिवातं⟫ ⟪च⟫  
@@ -25,14 +25,14 @@ Explicații:
 
 \-⟪गु⟫ Neutru, nominativ/acuzativ singular, corespunzător lui ⟪गो⟫ masculin/feminin, „bou, vacă”.
 
-:::media
+::: media
 ![](/images/lekt3801.webp)
 Fig.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3801))
 :::
 ## 38.2. Schimbarea fonetică a nazalelor în cuvânt
 
-:::grammar-box
+::: grammar-box
 Nazalele din interiorul cuvântului se asimilează consoanelor care le urmează, adică sunt înlocuite de nazala corespunzătoare acelui consoană.
 
 În fața lui c- și j-, -n- este înlocuit cu -ñ-.
@@ -40,7 +40,7 @@ Nazalele din interiorul cuvântului se asimilează consoanelor care le urmează,
 ## 38.3. Declinarea stemelor în -n
 
 ### 38.3.1. Nume substantive pe -an, precum și nume substantive pe -man, respectiv -van, după vocală
-:::grammar-box
+::: grammar-box
 Numele substantive pe **-an**, precum și numele substantive **-man** sau **-van** după vocală, au trei rădăcini:
 
 | Rădăcină | -an | -man | -van | Utilizare |
@@ -70,7 +70,7 @@ Exemple:
 *   rădăcină puternică: ⟪नामान्⟫
 *   rădăcină medie: ⟪नाम⟫
 *   rădăcină cea mai slabă: ⟪नाम्न्⟫
-::::grammar-box
+::: grammar-box
 
 | | **⟪राजन्⟫** | **⟪सीमन्⟫** | **⟪नामन्⟫** |
 | :--- | :---: | :---: | :---: |
@@ -91,14 +91,15 @@ Exemple:
 | **⟪षष्ठी⟫** | **⟪राज्ञाम्⟫** | **⟪सीम्नाम्⟫** | **⟪नाम्नाम्⟫** |
 | **⟪सप्तमी⟫** | **⟪राजसु⟫** | **⟪सीमसु⟫** | **⟪नामसु⟫** |
 
-:::::::media
+:::: media
 ![](/images/lekt3803.webp)
 Fig.: ⟪सीमा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3803))
+::::
 :::
 ### 38.3.2. Nume substantive pe -man respectiv -van după consoană
 
-:::grammar-box
+::: grammar-box
 *   Starker Stamm: -mān, -vān
 *   Stâm slab:
     *   înainte de terminații care încep cu consoană: -ma, -va (din -\*mn, -\*vn)
@@ -121,7 +122,7 @@ Exemple:
 *   stâm slab:
     *   înainte de consoană: ⟪ब्रह्म⟫
     *   înainte de vocală: ⟪ब्रह्मन्⟫
-::::grammar-box
+::: grammar-box
 
 | | **⟪आत्मन्⟫** | **⟪ब्रह्मन्⟫** |
 | :--- | :---: | :---: |
@@ -142,10 +143,10 @@ Exemple:
 | **⟪षष्ठी⟫** | **⟪आत्मनाम्⟫** | **⟪ब्रह्मणाम्⟫** |
 | **⟪सप्तमी⟫** | **⟪आत्मसु⟫** | **⟪ब्रह्मसु⟫** |
 
-::::
+:::
 ### 38.3.3. Masculine și Neutru pe -in, -min, -vin
 
-:::grammar-box
+::: grammar-box
 Aceste substantive nu au **niciun** grad de alternanță a rădăcinii.
 
 Nom.sg.m. și Nom.Akk.pl.n. sunt formate prin analogie cu temele în -an (lungirea -i-), la fel și tema în **\-i-** înainte de terminație consoantică.
@@ -156,7 +157,7 @@ Exemplu:
 
 ⟪बलिन्⟫ m.n. "puternic, viguros (caracterizat prin deosebitul ⟪बल⟫, posesor al ⟪बल⟫)"
 
-::::grammar-box
+::: grammar-box
 
 | | **⟪पुंस्⟫** | **⟪नपुंसकम्⟫** |
 | :--- | :---: | :---: |
@@ -177,10 +178,10 @@ Exemplu:
 | **⟪षष्ठी⟫** | **⟪बलिनाम्⟫**||
 | **⟪सप्तमी⟫** | **⟪बलिषु⟫**||
 
-::::
+:::
 ## 38.4. Formarea substantivelor: sufixul ⟪तद्धित⟫ -in
 
-:::grammar-box
+::: grammar-box
 Cu sufixul (foarte important!) ⟪तद्धित⟫ **-in** se formează adjective din substantive, cu sensul:
 
 **caracterizat prin, posesor al**
@@ -191,18 +192,19 @@ Exemplu:
 
 ⟪हस्तिन्⟫ m.: cel caracterizat printr-o mână specială = elefantul (mâna sa nu este o mână obișnuită, ci o trompă)
 
-:::media
+::: media
 ![](/images/lekt3806.webp)
 Fig.: ⟪हस्ती⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3806))
 :::
 ⟪हस्तवन्त्⟫: unul care are (mâini) umane
 
-:::media
+::: media
 ![](/images/lekt3807.webp)
 Fig.: ⟪हस्तवान्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3807))
-::::::grammar-box
+:::
+::: grammar-box
 Adjectivele în **-⟪इन्⟫** sunt adesea formate în compuse.
 :::
 Exemplu:
@@ -211,7 +213,7 @@ Exemplu:
 
 ## 38.5. Aspecte sintactice privind ⟪नामन्⟫
 
-:::grammar-box
+::: grammar-box
 Pentru a exprima „cineva pe nume N. N.”, se construiește:
 
 **N.N. (în nominativ) ⟪नाम⟫**
@@ -220,78 +222,80 @@ Literal: „numele este/era N.N.”. Așadar, este vorba despre o propoziție no
 :::
 Exemplu:
 
-:::indent
+::: indent
 ⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ „A fost odată un rege **pe nume Nala**, puternicul fiu al lui Vīrasena.”
 :::
 Desigur, același lucru se poate exprima și cu un ⟪बहुव्रीहि⟫:
 
-:::indent
+::: indent
 ⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ „un bărbat al cărui nume este Devadatta”
 
 ⟪मदयन्तिकानाम्नी⟫ ⟪बाला⟫ „o fată al cărei nume este Madayantika”
-::::::media
+:::: media
 ![](/images/lekt3808.jpg)
 Fig.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3808))
+::::
 :::
 ## 38.6. Aspecte sintactice despre ⟪आत्मन्⟫
 
-:::grammar-box
+::: grammar-box
 **⟪आत्मन्⟫** **masculin** poate fi folosit în **singular** ca pronume reflexiv (pronume reflexiv) pentru toate cele trei genuri, numere (inclusiv dual și plural) și persoane.
 :::
 Exemple:
 
-:::indent
+::: indent
 ⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "Ea nu vede nicio greșeală la ea însăși"
 
 ⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ "Ei se laudă pe ei înșiși"
-::::::grammar-box
+:::
+::: grammar-box
 Genitivul (⟪षष्ठी⟫) **⟪आत्मनस्⟫** poate apărea, prin urmare, pentru „al meu/al tău/al său... propriu”
 :::
 Exemplu:
 
-:::indent
+::: indent
 ⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "El intră în propria sa casă."
 :::
 ## 38.7. Steme consonantice finale ca elemente compuse anterioare
 
-:::grammar-box
+::: grammar-box
 Stemele care se termină cu o consoană apar ca element compus anterior într-o compunere în forma (slabă) a temei, pe care o iau înainte de sufixul -su al Locativului (⟪सप्तमी⟫) la plural.
 :::
 Exemplu:
 
-:::indent
+::: indent
 ***⟪राज⟫***⟪पुत्र⟫ „fiu de rege”
 :::
 ## 38.8. Temele pe -an ca element posterior al unui ⟪बहुव्रीहि⟫
 
-:::grammar-box
+::: grammar-box
 Ca element posterior al unui ⟪बहुव्रीहि⟫, un temen pe -an poate fi folosit pentru toate cele trei genuri. În mod obișnuit, totuși, femininul se formează cu sufixul -ī de la cel mai slab temen masculin.
 :::
 Exemplu:
 
-:::indent
+::: indent
 ⟪दुर्णाम्नी⟫ „una al cărei numă este rău; demonă a bolii”
 :::
 ## 38.9. Listă de cuvinte
 
 ⟪सूर्य⟫ m.: Soare, zeul soarelui Sūrya
 
-:::media
+::: media
 ![](/images/lekt3802.webp)
 Fig.: ⟪सूर्यः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3802))
 :::
 ⟪उदक⟫ n.: Apă
 
-:::media
+::: media
 ![](/images/lekt3805.webp)
 Fig.: ⟪उदकम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3805))
 :::
 ⟪वा⟫ 2P ⟪वाति⟫ : a sufla, a bate vântul
 
-:::indent
+::: indent
 Fut. ⟪वास्यति⟫
 Perf. IV ⟪ववौ⟫
 Pass. ⟪वायते⟫
@@ -305,20 +309,21 @@ din care:
 :::
 ⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : a sufla, a disipa, a se stinge
 
-:::indent
+::: indent
 din care:
 
 ⟪निर्वाण⟫ n.: Stingere, Nirvāṇa
 
 ⟪परिनिर्वाण⟫ n.: Stingere desăvârșită, mântuire desăvârșită (la sfârșitul vieții unui Buddha sau Arhat)
-::::::media
+:::: media
 ![](/images/lekt3804.webp)
 Fig.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3804))
+::::
 :::
 ⟪मिह्⟫ 1P ⟪मेहति⟫ : a urina, a pisica, a ejacula
 
-:::indent
+::: indent
 Fut. ⟪मेक्ष्यति⟫
 Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
 Pass. ⟪मिह्यते⟫
@@ -333,7 +338,7 @@ din care:
 
 ⟪राजन्⟫ m.: Rege (privind monarhia în India, vezi Basham, Minunea pag. 82 -94). Ca element final al unui compus (în special ⟪तत्पुरुष⟫) de obicei: -⟪राज⟫ m. (ca ⟪देव⟫)
 
-:::indent
+::: indent
 Feminin:
 
 ⟪राज्ञी⟫ f.: Regină, soție a unui rege
@@ -352,28 +357,28 @@ de la ⟪राज⟫ :
 
 ⟪ब्रह्मन्⟫ m.: Zeul creator gândit personal Brahmā
 
-:::media
+::: media
 ![](/images/lekt3809.webp)
 Fig.: ⟪ब्रह्मा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3809))
 :::
 ⟪कर्मन्⟫ n. la ⟪कृ⟫ 8U: Acțiune, faptă, operă; operă sacră, ritual de jertfă; Karma: fapta anterioară, care își aduce mai târziu roadele (de ex. în reîncarnare) 
 
-:::indent
+::: indent
 ⟪कर्मविपाक⟫ m.: Cercul faptelor = consecințele bune și rele ale faptelor din existențe anterioare (la ⟪वि⟫-⟪पच्⟫)
 :::
 ⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_)
 
 ⟪मनु⟫ m.: Om, bărbat; Numele tatălui neamului omenesc (la ⟪मन्⟫ 4Ā)
 
-:::indent
+::: indent
 din care:
 
 ⟪मनुष्य⟫ m.: Om
 :::
 ⟪शुच्⟫ 1P ⟪शोचति⟫ : (a flăcăra, a străluci); a plânge, a plânge după
 
-:::indent
+::: indent
 Perf. II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
 Fut. ⟪शोचिष्यति⟫
 Pass. ⟪शुच्यते⟫
@@ -388,11 +393,13 @@ din care:
 ⟪शोक⟫ m.: Doliu, tristețe
 
 ⟪अशोक⟫ 3: lipsit de tristețe; Arborele Ashoka = _Saraca asoca_ (Roxb.) Wilde; Numele împăratului Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (cca. 304  – 232 î.Hr.)
-::::::media
+:::: media
 ![](/images/lekt3810.webp)
 Fig.: ⟪अशोकवृक्षः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3810))
-::::::media
+::::
+:::
+::: media
 ![](/images/lekt3811.webp)
 Fig.: ⟪अशोकसाम्राज्यम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3811))
@@ -437,14 +444,14 @@ A) Introduceți în propozițiile următoare forma corespunzătoare a cuvintelor
 
 ⟪विनोद⟫ m.: divertisment, distracție, plăcere
 
-:::media
+::: media
 ![](/images/lekt3812.webp)
 Fig.: ⟪विनोदः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3812))
 :::
 ⟪अट्⟫ 1P ⟪अटति⟫ : a umbla în cerc, a se plimba
 
-:::indent
+::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
 Fut. ⟪अटिष्यति⟫
 Kaus. ⟪आटयति⟫
@@ -453,7 +460,7 @@ Kaus. ⟪आटयति⟫
 
 ⟪तॄ⟫ 1P ⟪तरति⟫ : a traversa, a se salva de (Ac.)
 
-:::indent
+::: indent
 Perf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
 Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫
 Pass. ⟪तीर्यते⟫
@@ -465,7 +472,7 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 
 ⟪तीर⟫ n.: mal
 
-:::media
+::: media
 ![](/images/lekt3813.webp)
 Fig.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3813))
@@ -474,21 +481,22 @@ Fig.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 
 ⟪गण्⟫ 10P ⟪गणयति⟫ : a număra
 
-:::indent
+::: indent
 Perf. ⟪गणयां⟫ ⟪चकार⟫
 Fut. ⟪गणयिष्यति⟫
 Pass. ⟪गण्यते⟫
 PPP ⟪गणित⟫
 Absol. -⟪गणय्य⟫
 Inf. ⟪गणयितुम्⟫
-::::::media
+:::: media
 ![](/images/lekt3814.webp)
 Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3814))
+::::
 :::
 ⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : a striga, a plânge laudă
 
-:::indent
+::: indent
 Perf. II ⟪चुक्रोश⟫
 Fut. ⟪क्रोक्ष्यति⟫
 Pass. ⟪क्रुश्यते⟫
@@ -501,7 +509,7 @@ PPP ⟪क्रुष्ट⟫
 
 ⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : a coborî, a scufunda
 
-:::indent
+::: indent
 PPP ⟪ममज्ज⟫
 Fut. ⟪मङ्क्ष्यति⟫
 Kaus. ⟪मज्जयति⟫
@@ -518,7 +526,7 @@ Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
 
 ⟪हस्⟫ 1P ⟪हसति⟫ : a râde
 
-:::indent
+::: indent
 Perf. Vc ⟪जहास⟫, ⟪जहसुर्⟫
 Fut. ⟪हसिष्यति⟫
 Pass. ⟪हस्यते⟫
@@ -527,7 +535,7 @@ PPP ⟪हसित⟫
 :::
 ⟪सृ⟫ 1P ⟪सरति⟫ : a alerga
 
-:::indent
+::: indent
 Perf. ⟪ससार⟫, ⟪सस्रुर्⟫
 Fut. ⟪सरिष्यति⟫
 Pass. ⟪स्रियते⟫
@@ -577,7 +585,7 @@ Explicații:
 
 ⟪युष्माकम्⟫ Gen.pl. pentru ⟪यूयम्⟫
 
-:::deleteme-box
+::: deleteme-box
 
 - **lekt3801.jpg**: Ilustr.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ Bangalore = ಬೆಂಗಳೂರು \[Sursă imagine: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Accesat la 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licență Creative Commons (Atribuire, utilizare non-comercială)\]
 - **lekt3802.jpg**: Ilustr.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Sursă imagine: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Accesat la 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licență Creative Commons (Atribuire, utilizare non-comercială)\]

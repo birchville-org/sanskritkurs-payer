@@ -1,5 +1,5 @@
 ---
-title: Lezione 35
+title: Lektion 35
 lesson_id: 35
 status: stable
 ---
@@ -8,7 +8,7 @@ status: stable
 
 ## 35.1. Tipo di Perfetto III: Radice forte grado allungato/grado pieno
 
-:::grammar-box
+::: grammar-box
 **Formazione:**
 
 **radice forte:**
@@ -20,10 +20,11 @@ status: stable
 :::
 ### 35.1.1. Tipo di Perfetto IIIa: Radice forte grado alto/lungo, radice debole grado basso
 
-::::grammar-box
+::: grammar-box
 **Formazione:**
 
-:::indent
+:::
+::: indent
 **radice debole:** grado basso
 :::
 Si forma da radici dei tipi:
@@ -34,10 +35,7 @@ Davanti a desinenza vocalica iniziale viene sostituito:
 *   -i/-ī con -iy
 *   -u/-ū con -uv
 *   -ṛ con r
-::::
 Esempi:
-
-::::grammar-box
 
 | Radice | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -47,22 +45,19 @@ Esempi:
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-::::
 ### 35.1.2. Tipo III del Perfetto: Radice forte grado alto/lungo, radice debole grado alto
 
-::::grammar-box
+::: grammar-box
 **Formazione:**
 
-:::indent
+:::
+::: indent
 **radice debole:** grado alto
 :::
 È formato da radici dei tipi:
 *   (Consonante)-(Consonante)-ṝ
 *   Consonante-Consonante-ṛ (cioè radici in -ṛ, quando ne precedono più consonanti)
-::::
 Esempi:
-
-::::grammar-box
 
 | Radice | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -70,10 +65,9 @@ Esempi:
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-::::
 ## 35.2. Perfetto Tipo IV: Radici con -ā / -āi
 
-:::grammar-box
+::: grammar-box
 **Formazione:**
 
 **stema forte:**
@@ -88,16 +82,13 @@ Si forma da radici con -ā / -āi
 :::
 Esempio:
 
-::::grammar-box
-
 | Radice | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-::::
 ## 35.3. Tipo V del Perfetto: Radici Consonante-a-Consonante
 
-:::grammar-box
+::: grammar-box
 **Formazione:**
 
 **stema forte:**
@@ -111,10 +102,11 @@ Si forma da radici del tipo (Consonante)-Consonante-a-Consonante
 :::
 ### 35.3.1. Tipo di Perfetto Va: radice debole grado profondo
 
-::::grammar-box
+::: grammar-box
 **Formazione:**
 
-:::indent
+:::
+::: indent
 **radice debole:** grado profondo
 :::
 Viene formato, tra le altre, dalle radici:
@@ -124,44 +116,38 @@ Viene formato, tra le altre, dalle radici:
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-::::
 Esempi:
-
-::::grammar-box
 
 | Radice | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
-| ⟪हन्⟫ 2P | ***⟪जघान⟫***:brja-**ghān**-a | ***⟪जघ्नुर्⟫*** | | |
+| ⟪हन्⟫ 2P | sig[⟪जघान⟫] :brja-**ghān**-a | *⟪जघ्नुर्⟫* | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | &lt;⟪ऊदे⟫&gt; | &lt;⟪ऊदिरे⟫&gt; |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-::::
 ### 35.3.2. Tipo di Perfetto Vb: radice debole, contrazione (tipo e)
 
-::::grammar-box
+::: grammar-box
 **Formazione:**
 
-:::indent
+:::
+::: indent
 **radice debole:** nessuna reduplicazione. Sostituzione della -a- della radice con -e-  
 (per la spiegazione, vedere Thumb-Hauschild 1,2 pag. 286f.)
 :::
 È formato da radici con -a- tra due consonanti semplici, la cui consonante iniziale nella sillaba di reduplicazione non viene modificata (cioè la cui consonante iniziale non è un gutturale, un aspirato o h).
-::::
 Esempio:
-
-::::grammar-box
+Esempio:
 
 | Radice | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | ***⟪पे⟫***⟪चुर्⟫ | ***⟪पे⟫***⟪चे⟫ | ***⟪पे⟫***⟪चिरे⟫ |
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *⟪पे⟫*⟪चुर्⟫ | *⟪पे⟫*⟪चे⟫ | *⟪पे⟫*⟪चिरे⟫ |
 
-::::
 ### 35.3.3. Tipo di Perfetto Vc: Radici Consonante-a-Consonante. Debole stemma grado alto
 
-:::grammar-box
+::: grammar-box
 **Formazione:**
 
 **stemma debole:** grado alto
@@ -176,17 +162,14 @@ a condizione che non appartengano al Tipo di Perfetto Va.
 :::
 Esempio:
 
-::::grammar-box
-
 | Radice | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-::::
 ## 35.4. Elenco di parole
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : perdersi, andare perduto, scomparire
-:::indent
+::: indent
 **Vb Perf. ⟪ननाश⟫, ⟪नेशुर्⟫**:br
 **Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
 **Caus. ⟪नाशयति⟫**:br
@@ -195,7 +178,7 @@ Esempio:
 **⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : scomparire, perdersi, andare perduto
 
 **⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : procedere, andare
-:::indent
+::: indent
 **Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
 **Fut. ⟪क्रमिष्यति⟫**:br
 **Pass. ⟪क्रम्यते⟫**:br
@@ -203,14 +186,15 @@ Esempio:
 **PPP ***⟪क्रा⟫***⟪न्त⟫**:br
 **Inf. ⟪क्रमितुम्⟫**:br
 **Assol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
-::::::media
+:::
+::: media
 ![](/images/lekt3502.webp)
 Fig.: ⟪क्रामन्ति⟫
 Persone che camminano, Senegal. [Fonte immagine: Curt Carnemark / World Bank. CC BY-NC-ND]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3502))
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): cantare, recitare in tono cantilenante, annunziare in discorso poetico
-:::indent
+::: indent
 **Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**:br
 **Fut. ⟪गास्यति⟫**:br
 **Pass. ⟪गीयते⟫**:br
@@ -220,7 +204,8 @@ Persone che camminano, Senegal. [Fonte immagine: Curt Carnemark / World Bank. CC
 
 da ciò:
 **⟪गीता⟫ f.:** canto, canzone
-::::::media
+:::
+::: media
 ![](/images/lekt3501.webp)
 Fig.: ⟪जगुः⟫
 Musicisti del tempio Kaadu Malleswara Temple Bangalore. [Fonte immagine: Samuelraj / Flickr. CC BY-NC]
@@ -243,38 +228,40 @@ A) Formare le corrispondenti forme del Perfetto per le seguenti forme verbali:
 11. ⟪बिभ्यति⟫
 12. ⟪पिपुरति⟫
 13. ⟪दत्ते⟫
-14. ⟪यजन्ते⟫ irregolare, secondo il tipo Vb!
-15. ⟪वक्ति⟫
-16. ⟪अदधुः⟫
-17. ⟪बिभ्रते⟫
-18. ⟪मरिष्यन्ति⟫
-19. ⟪अशक्नुवन्⟫
-20. ⟪अवदन्⟫
-21. ⟪अपिबत्⟫
-22. ⟪अपान्⟫
-23. ⟪अलभत⟫
-24. ⟪अहन्⟫
-25. ⟪मन्यन्ते⟫
-26. ⟪अक्रामन्⟫
-27. ⟪अशृण्वन्⟫
-28. ⟪मिमति⟫  
-    :::media
-    ![](/images/lekt3503.webp)
+14. ⟪यजन्ते⟫
+15. ⟪यजन्ते⟫ irregolare, secondo il tipo Vb!
+16. ⟪वक्ति⟫
+17. ⟪अदधुः⟫
+18. ⟪बिभ्रते⟫
+19. ⟪मरिष्यन्ति⟫
+20. ⟪अशक्नुवन्⟫
+21. ⟪अवदन्⟫
+22. ⟪अपिबत्⟫
+23. ⟪अपान्⟫
+24. ⟪अलभत⟫
+25. ⟪अहन्⟫
+26. ⟪मन्यन्ते⟫
+27. ⟪अक्रामन्⟫
+28. ⟪अशृण्वन्⟫
+29. ⟪मिमति⟫  
+::: media
+![](/images/lekt3503.webp)
     Fig.: ⟪मिमति⟫
 Mercato a Vadaseri, Tamil Nadu. [Fonte immagine: kifo / Flickr. CC BY-SA]
     (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3503))
-    :::29. ⟪अपद्यत⟫
-30. ⟪सुनोति⟫
-31. ⟪अतिष्ठत्⟫
-32. ⟪पतिष्यन्ति⟫
-33. ⟪अपचत्⟫
-34. ⟪अजहुर्⟫
-35. ⟪धक्ष्यन्ति⟫
-36. ⟪स्तौति⟫
-37. ⟪तनुते⟫
-38. ⟪अचरत्⟫
-39. ⟪जुह्वति⟫
-40. ⟪अहरत्⟫
+:::
+30. ⟪अपद्यत⟫
+31. ⟪सुनोति⟫
+32. ⟪अतिष्ठत्⟫
+33. ⟪पतिष्यन्ति⟫
+34. ⟪अपचत्⟫
+35. ⟪अजहुर्⟫
+36. ⟪धक्ष्यन्ति⟫
+37. ⟪स्तौति⟫
+38. ⟪तनुते⟫
+39. ⟪अचरत्⟫
+40. ⟪जुह्वति⟫
+41. ⟪अहरत्⟫
 
 B) Tradurre:
 
@@ -284,7 +271,7 @@ B) Tradurre:
 
 ⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt3504.webp)
 Fig.: ... ⟪ब्राह्मणाश्चेजुः⟫
 Cerimonia Yajña, ashram Shiva, Ganeshpuri. [Fonte immagine: Dey / Flickr. CC BY-NC-SA]
@@ -294,8 +281,7 @@ Cerimonia Yajña, ashram Shiva, Ganeshpuri. [Fonte immagine: Dey / Flickr. CC BY
 
 C) Trasformare le frasi dell'esercizio B) sostituendo i Perfetti con gli Imperfetti.
 
-:::deleteme-box
-
+::: deleteme-box
 
 **lekt3501:** Musicisti del tempio Kaadu Malleswara Temple Bangalore. [Fonte immagine: Samuelraj / Flickr. CC BY-NC]
 

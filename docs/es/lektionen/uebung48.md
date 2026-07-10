@@ -31,7 +31,7 @@ Una persona sin educación es un animal.
 ⟪७⟫. **⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 La brevedad es el adorno del gramático.
 
-:::media
+::: media
 ![](/images/uebung083.webp)
 Fig.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung083))
@@ -54,7 +54,7 @@ Las muchachas deben dar comida a los mendigos.
 ⟪४⟫. **⟪ब्रवाम⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫** (O: **⟪वचाम⟫ ⟪॥⟫**)
 Hablemos.
 
-:::media
+::: media
 ![](/images/uebung085.webp)
 Fig.: ⟪वचाम⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung085))
@@ -107,7 +107,7 @@ Ellos deben sentarse en mi casa.
 ⟪२०⟫. **⟪भर्तारो⟫ ⟪भार्या⟫ ⟪बिभ्रतु⟫ ⟪॥⟫ ⟪२०⟫ ⟪॥⟫**
 Los maridos deben mantener a sus esposas.
 
-:::media
+::: media
 ![](/images/uebung076.webp)
 Fig.: ⟪तानि⟫ ⟪फलान्यदाम⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung076))
@@ -146,12 +146,13 @@ Quien protege cuidadosamente a su esposa, protege verdaderamente su descendencia
 **⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**  
 El esposo entra en su esposa, se convierte en embrión y luego nace aquí; en esto consiste el "ser esposa" (**⟪जायात्वम्⟫**) de la esposa, que el esposo renace en ella.
 
-:::media
+::: media
 ![](/images/uebung084.webp)
 Fig.: ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung084))
-::::::media
+:::: media
 ![](/images/uebung077.webp)
 Fig.: ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung077))
+::::
 :::

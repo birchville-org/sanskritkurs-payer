@@ -6,11 +6,11 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Lesson 39
+# Exercise 39
 
-A) Form the first-person forms corresponding to the following verb forms in number, tense, mood (indicative, optative), and voice (P, Ā, Passive):
+A) Form the first-person forms corresponding to the following verb forms, matching number, tense, mood (indicative, optative), and voice (active, middle, passive):
 
-:::grammar-box
+::: grammar-box
 | 3rd Person | 1st Person |
 | :--- | :--- |
 | ⟪१⟫. **⟪अदन्ति⟫** | ⟪अद्मः⟫ |
@@ -86,6 +86,7 @@ A) Form the first-person forms corresponding to the following verb forms in numb
 | ⟪७१⟫. **⟪वेत्ति⟫** | ⟪वेद्मि⟫ |
 | ⟪७२⟫. **⟪वेक्ष्यति⟫** | ⟪वेक्ष्यामि⟫ |
 | ⟪७३⟫. **⟪वस्ते⟫** | ⟪वसे⟫ |
+
 | ⟪७४⟫. **⟪विन्देयुः⟫** | ⟪विन्देम⟫ |
 | ⟪७५⟫. **⟪अवर्तन्त⟫** | ⟪अवर्तामहि⟫ |
 | ⟪७६⟫. **⟪शक्नुयात्⟫** | ⟪शक्नुयाम्⟫ |
@@ -100,11 +101,12 @@ A) Form the first-person forms corresponding to the following verb forms in numb
 | ⟪८५⟫. **⟪स्मर्येत⟫** | ⟪स्मर्येय⟫ |
 | ⟪८६⟫. **⟪घ्नन्ति⟫** | ⟪हन्मः⟫ |
 | ⟪८७⟫. **⟪जहति⟫** | ⟪जहीमः⟫ |
-
 | ⟪८८⟫. **⟪अजुहवुः⟫** | ⟪अजुहुम⟫ |
 | ⟪८९⟫. **⟪हरति⟫** | ⟪हरामि⟫ |
-::::::media
+:::
+
+::: media
 ![](/images/uebung064.webp)
 Fig.: ⟪आगारे⟫ ⟪सीदामः⟫
-(Image source: [Details](/en/licenses#uebung064))
+(Image source: [Details](/licenses#uebung064))
 :::

@@ -1,6 +1,6 @@
 ---
 title: Lesson 43
-subtitle: "Personal endings of the 2nd person (⟪मध्यमः⟫ = \"middle &lt;person&gt;\")"
+subtitle: "Personal endings of the 2nd person (⟪मध्यमः⟫ = \"middle <person>\")"
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammar"
@@ -9,9 +9,9 @@ status: stable
 
 # Lesson 43
 
-## 43.1. Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle &lt;person&gt;")
+## 43.1. Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle \<person\>")
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -30,7 +30,7 @@ Note that the secondary ending of the 2nd plural person is identical to the seco
 
 ### 43.2.1. Thematic Stems
 
-:::media
+::: media
 ![](/images/lekt4301.jpg)
 :::
 The 3.sg. Ā. Imperfect or Optative is formally identical with the 2.pl. P. Imperfect or Optative!
@@ -42,9 +42,9 @@ The 3.sg. Ā. Imperfect or Optative is formally identical with the 2.pl. P. Impe
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | &lt;⟪भवसे⟫&gt; | &lt;⟪भवध्वे⟫&gt; |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | &lt;⟪अभवथास्⟫&gt; | &lt;⟪अभवध्वम्⟫&gt; |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | &lt;⟪भवेथास्⟫&gt; | &lt;⟪भवेध्वम्⟫&gt; |
+| **Indicative Present**:br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \<⟪भवसे⟫\> | \<⟪भवध्वे⟫\> |
+| **Imperfect**:br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \<⟪अभवथास्⟫\> | \<⟪अभवध्वम्⟫\> |
+| **Optative**:br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \<⟪भवेथास्⟫\> | \<⟪भवेध्वम्⟫\> |
 
 #### 43.2.1.2. Sixth Present Class (⟪तुदादि⟫)
 
@@ -53,9 +53,9 @@ The 3.sg. Ā. Imperfect or Optative is formally identical with the 2.pl. P. Impe
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | &lt;⟪विशसे⟫&gt; | &lt;⟪विशध्वे⟫&gt; |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | &lt;⟪अविशथास्⟫&gt; | &lt;⟪अविशध्वम्⟫&gt; |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | &lt;⟪विशेथास्⟫&gt; | &lt;⟪विशेध्वम्⟫&gt; |
+| **Indicative Present**:br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \<⟪विशसे⟫\> | \<⟪विशध्वे⟫\> |
+| **Imperfect**:br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \<⟪अविशथास्⟫\> | \<⟪अविशध्वम्⟫\> |
+| **Optative**:br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \<⟪विशेथास्⟫\> | \<⟪विशेध्वम्⟫\> |
 
 #### 43.2.1.3. Fourth Present Class (⟪दिवादि⟫)
 
@@ -64,9 +64,9 @@ The 3.sg. Ā. Imperfect or Optative is formally identical with the 2.pl. P. Impe
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | &lt;⟪नृत्यसे⟫&gt; | &lt;⟪नृत्यध्वे⟫&gt; |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | &lt;⟪अनृत्यथास्⟫&gt; | &lt;⟪अनृत्यध्वम्⟫&gt; |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | &lt;⟪नृत्येथास्⟫&gt; | &lt;⟪नृत्येध्वम्⟫&gt; |
+| **Indicative Present**:br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \<⟪नृत्यसे⟫\> | \<⟪नृत्यध्वे⟫\> |
+| **Imperfect**:br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \<⟪अनृत्यथास्⟫\> | \<⟪अनृत्यध्वम्⟫\> |
+| **Optative**:br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \<⟪नृत्येथास्⟫\> | \<⟪नृत्येध्वम्⟫\> |
 
 #### 43.2.1.4. Tenth Present Class (⟪चुरादि⟫) and Causatives
 
@@ -107,14 +107,14 @@ The 3.sg. Ā. Imperfect or Optative is formally identical with the 2.pl. P. Impe
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | &lt;⟪भविष्यसे⟫&gt; | &lt;⟪भविष्यध्वे⟫&gt; |
+| ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | \<⟪भविष्यसे⟫\> | \<⟪भविष्यध्वे⟫\> |
 
 ## 43.3. The Second Person Personal Pronoun
 
 *   Singular: ⟪त्वद्⟫ "you"
 *   Plural: ⟪युष्मद्⟫ "you"
 
-:::grammar-box
+::: grammar-box
 | | ⟪एकवचनम्⟫ (⟪त्वद्⟫) | ⟪बहुवचनम्⟫ (⟪युष्मद्⟫) |
 | --- | --- | --- |
 | **⟪प्रथमा⟫** | ⟪त्वम्⟫ | ⟪यूयम्⟫ |
@@ -127,7 +127,7 @@ The 3.sg. Ā. Imperfect or Optative is formally identical with the 2.pl. P. Impe
 :::
 The forms ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ must not be used at the beginning of a sentence or a verse half-line. Nor may they be used before ⟪च⟫, ⟪वा⟫, ⟪एव⟫ and some other particles:
 
-:::indent
+::: indent
 ⟪त्वां⟫ ⟪मां⟫ ⟪च⟫ "you and me"
 :::
 ## 43.4. Word List
@@ -136,7 +136,7 @@ The forms ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ must not be used at 
 
 ⟪आपण⟫ m.: market
 
-:::media
+::: media
 ![](/images/lekt4302.webp)
 Fig.: ⟪आपणः⟫
 (Image source: [Details](/en/licenses#lekt4302))
@@ -145,7 +145,7 @@ Fig.: ⟪आपणः⟫
 
 ⟪पण्य⟫ 3: for sale; n.: goods, trade
 
-:::media
+::: media
 ![]/images/lekt4303.webp
 Fig.: ⟪पण्यानि⟫
 (Image source: [Details](/en/licenses#lekt4303))
@@ -168,14 +168,14 @@ Fig.: ⟪पण्यानि⟫
 
 ⟪विपणि⟫ f.: shop
 
-:::media
+::: media
 ![](/images/lekt4304.webp)
 Fig.: ⟪विपणिः⟫
 (Image source: [Details](/en/licenses#lekt4304))
 :::
 ⟪वणिज्⟫ m.: merchant
 
-:::media
+::: media
 ![](/images/lekt4305.webp)
 Fig.: ⟪वणिक्⟫
 (Image source: [Details](/en/licenses#lekt4305))
@@ -186,7 +186,7 @@ Fig.: ⟪वणिक्⟫
 
 ⟪वत्स⟫ m.: calf, young, child; voc.: my dear
 
-:::media
+::: media
 ![](/images/lekt4306.webp)
 Fig.: ⟪वत्सः⟫
 (Image source: [Details](/en/licenses#lekt4306))
@@ -207,7 +207,7 @@ Fig.: ⟪वत्सः⟫
 
 ⟪तुल्⟫ 10 ⟪तुलयति⟫ ⟪।⟫ ⟪तोलयति⟫ : to weigh
 
-:::media
+::: media
 ![](/images/lekt4307.webp)
 Fig.: ⟪तोलन्ति⟫
 (Image source: [Details](/en/licenses#lekt4307))
@@ -224,7 +224,7 @@ Fig.: ⟪तोलन्ति⟫
 
 ⟪द्रु⟫ 1P ⟪द्रवति⟫ to run
 
-:::indent
+::: indent
 Perf. IIIa ⟪दुद्राव⟫, ⟪दुद्रुवुर्⟫  
 Fut. ⟪द्रोष्यति⟫  
 Pass. ⟪द्रूयते⟫  
@@ -328,7 +328,7 @@ B) Translate into Sanskrit:
 
 10\. How do you save yourself (cross over) from the enemy?
 
-:::media
+::: media
 ![](/images/lekt4308.webp)
 Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 (Image source: [Details](/en/licenses#lekt4308))
@@ -363,11 +363,12 @@ Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 | ⟪अशोको⟫ ⟪गृहमागत्य⟫ ⟪सर्वमपीतिवृत्तमकथयत्⟫ ⟪।⟫ ⟪तत्रस्था⟫ ⟪सर्वे⟫ ⟪ऽपि⟫ ⟪बान्धवा⟫ ⟪मित्राणि⟫ ⟪च⟫ ⟪परमानन्दं⟫ ⟪प्रापुः⟫ ⟪।⟫ ⟪इत्थं⟫ ⟪जन्मोत्सवः⟫ ⟪सानन्दं⟫ ⟪समाप्तिं⟫ ⟪यातः⟫ ⟪॥⟫ | |
 | (After: Saral Sanskrit Shikshak III, p. 4f.) | |
 
-:::media
+::: media
 ![](/images/lekt4309.webp)
 Fig.: ⟪शर्करा⟫
 (Image source: [Details](/en/licenses#lekt4309))
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt4302.jpg**: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Accessed on 2009-01-06. -- Creative Commons License (Attribution, non-commercial use)
 

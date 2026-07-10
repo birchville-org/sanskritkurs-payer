@@ -1,9 +1,9 @@
 ---
-title: Lesson 23
-subtitle: "The Infinitive (⟪तुमुन्⟫)"
+title: Lektion 23
+subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,20 +11,20 @@ status: stable
 
 ## 23.1. The Infinitive (⟪तुमुन्⟫)
 
-:::grammar-box
-**If one wants to express in Sanskrit that an action is performed for the sake of another action ("in order to"), one can use the infinitive (⟪तुमुन्⟫) for the action for whose sake it is performed. The infinitive primarily denotes purpose or intention:**
+::: grammar-box
+**If one wishes to express in Sanskrit that an action is performed for the sake of another action ("in order to"), one can use the infinitive (⟪तुमुन्⟫) for the action for whose sake it is performed. The infinitive primarily denotes purpose or intention:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma has gone to listen to the teacher's speech."
+> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma has gone to hear the teacher's speech."
 
-**Note that the infinitive — with some strictly defined exceptions — cannot stand as the subject or object of a verb:**
+**Note that the infinitive — with a few strictly defined exceptions — cannot stand as the subject or object of a verb:**
 
 > "He learns to dance" must therefore not be translated with the infinitive ("to dance"), but one must use a verbal noun, e.g.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "to learn").
 
 **The infinitive is also used with verbs and nouns meaning "to wish" or "to long for," when the agent (⟪कर्तृ⟫) of the infinitive and the verb are identical:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma wishes to listen to the teacher's speech."
+> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma wishes to hear the teacher's speech."
 
-**The infinitive is also used, among other things, with verbs in the meanings "to be able," "there is," "to know," "to begin":**
+**The infinitive is also used, among other things, with verbs meaning "to be able," "there is," "to know," "to begin":**
 
 > ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "A saint cannot do wrong."  
 > ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "There is food to eat" (⟪भुज्⟫ 7: Ā: to eat, P: to rule)
@@ -37,7 +37,7 @@ status: stable
 
 > ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "It is time to devote oneself to eating" = "It is time to eat"
 
-**The infinitive can be used actively and passively. A passive infinitive in German is rendered in Sanskrit by putting the verb (especially frequently ⟪शक्⟫ "to be able, can") from which the infinitive depends into the passive voice.**
+**The infinitive can be used actively and passively. A passive infinitive in German is rendered in Sanskrit by putting the verb (especially frequently ⟪शक्⟫ "to be able, can"), from which the infinitive depends, into the passive voice.**
 
 **Regarding the object, the infinitive behaves like a verbal form, i.e., the direct object (⟪कर्मन्⟫) stands in the accusative (⟪द्वितीया⟫) when the infinitive is used actively, or in the case required by the relevant verb; when the infinitive is used passively, the direct object stands in the nominative.**
 
@@ -53,8 +53,8 @@ e.g.
 :::
 ## 23.2. Formation of the Infinitive (⟪तुमुन्⟫)
 
-:::grammar-box
-**guṇa-grade root + -tum**
+::: grammar-box
+**or**
 
 **or**
 
@@ -66,22 +66,22 @@ e.g.
 :::
 Examples:
 
-:::indent
+::: indent
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
 :::
 No fixed rules can be established regarding the use of the connecting vowel -i-. Essentially, the distribution of the connecting vowel in the infinitive corresponds to that in the future tense.
 
-Among the roots learned so far, the following infinitives deserve particular attention:
+The following infinitives are particularly noteworthy for the roots learned so far:
 
-:::indent
+::: indent
 ⟪गम्⟫ : ⟪गन्तुम्⟫
 
 ⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- as strong grade of -ṛ- have in the infinitive:
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv:
 
-:::indent
+::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
@@ -90,7 +90,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 
 ## 23.3. The Infinitive (⟪तुमुन्⟫) for the roots learned so far
 
-⟪अद्⟫ 2P ⟪अत्तुम्⟫  
+⟪अद्⟩ 2P ⟪अत्तुम्⟫  
 ⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
 ⟪अस्⟫ 2P —  
 ⟪अस्⟫ 4P ⟪असितुम्⟫  
@@ -149,21 +149,21 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 ⟪स्तु⟫ 2U ⟪स्तोतुम्⟫  
 ⟪स्था⟫ 1P ⟪स्थातुम्⟫  
 ⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
-⟪हन्⟫ 2P ⟪हन्तुम्⟫
+⟪हन्⟫ 2P ⟪हन्तुम्⟫  
 
-## 23.4. Word List
+## 23.4. Vocabulary
 
 ⟪समान⟫ ⟪३⟫: equal
 
 ⟪सामान्य⟫ n.: equality, agreement
 
-⟪अधिक⟫ ⟪३⟫: superfluous, additional, greater, better, extraordinary
+⟪अधिक⟫ ⟪३⟫ : superfluous, additional, greater, better, extraordinary
 
-⟪विशेष⟫ m.: particularity, specification, differentia specifica
+⟪विशेष⟫ m.: peculiarity, specification, differentia specifica
 
 ## 23.5. Exercise
 
-A) The following roots form the infinitive without the connecting vowel -i-. Form the infinitive, taking into account the sound changes:
+A) The following roots form the infinitive without the connecting vowel -i-. Form the infinitive, observing the sound changes to:
 
 1.  ⟪आप्⟫
 2.  ⟪इ⟫
@@ -213,7 +213,7 @@ B) The following roots form the infinitive with the connecting vowel -i-. Form t
 6.  ⟪वृत्⟫
 7.  ⟪कुप्⟫
 
-C) The following roots optionally with or without the connecting vowel:
+C) The following roots optionally with or without connecting vowel:
 
 1.  ⟪अश्⟫
 2.  ⟪इष्⟫
@@ -229,15 +229,15 @@ D) Translate and resolve the compounds:
 
 ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt2303.webp)
 Fig.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
-ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย
+Making merit = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย
 (Image source: [Details](/en/licenses#lekt2303))
 :::
 ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
-:::media
+::: media
 ![](/images/lekt2301.webp)
 Fig.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
@@ -258,9 +258,9 @@ C) Translate the following ⟪सुभाषितम्⟫
 ⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
 
-Explanation: ⟪हीन⟫ ⟪३⟫: PPP to ⟪हा⟫ 3: to leave; ⟪धर्मे⟫ = locative sg. "in the ..."
+Explanation: ⟪हीन⟫ ⟪३⟫: PPP to ⟪हा⟫ 3: to leave ; ⟪धर्मे⟫ = locative sg. "in the ..."
 
-:::media
+::: media
 ![](/images/lekt2302.webp)
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
@@ -272,37 +272,37 @@ Please do not use any aids!
 
 A) Translate into Sanskrit:
 
-1\. The five (⟪पञ्च⟫) "torments" are: ignorance, false belief in the self, affection, aversion, and attachment to the body.
+1\. The five (⟪पञ्च⟫) "torments" are: ignorance, false belief in the self, attachment, aversion, and clinging to the body.
 
-2\. Knowledge is acquired through obedience to a teacher, or for a large sum of money, or in exchange for knowledge. A fourth type of acquiring knowledge does not exist.
+2\. Knowledge is acquired through obedience to a teacher, for great wealth, or in exchange for knowledge. A fourth type of acquiring knowledge does not exist.
 
-3\. A low-born person speaks but does not act; a good person does not speak, but acts only.
+3\. A low person speaks but does not act; a good person does not speak, but acts only.
 
 4\. The auxiliary sciences of the Veda are: phonetics, ritualistics, grammar, semantics, metrics (⟪छन्दस्⟫), and calendar science.
 
-5\. Yoga is the cessation of the activities of the mind.
+5\. Yoga is the cessation of the activities of the thinking organ.
 
-6\. Right prevails, not wrong; truth prevails, not falsehood; patience prevails, not anger; God prevails, not an opposing god. (Passive)
+6\. Right prevails, not wrong; truth prevails, not falsehood; patience prevails, not anger; God prevails, not a counter-god. (Passive)
 
-7\. The "staff" brings about acquisition and secure possession of philosophy, Veda, and economics. The wielding of this staff is politics.
+7\. The "staff" brings about the acquisition and secure possession of philosophy, Veda, and economics. The wielding of this staff is politics.
 
-:::media
+::: media
 ![](/images/lekt2304.jpg)
 Fig.: ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, since 2004
 (Image source: [Details](/en/licenses#lekt2304))
 :::
-8\. Wife, son, and slave, these three (⟪त्रयस्⟫) are, according to tradition, without property. Whatever comes to them belongs to the one to whom these (three) belong.
+8\. Wife, son, and slave, these three (⟪त्रयस्⟫) are according to tradition without property. Whatever these come to, that belongs to the one to whom these (three) belong.
 
-9\. Mosquitoes desire a wound, rulers desire property, low-born persons desire conflict, good persons desire peace.
+9\. Mosquitoes desire a wound, rulers desire property, low persons desire conflict, good persons desire peace.
 
-10\. The specific duty of a Brāhmaṇa is: study, teaching, sacrificing as the officiant, sacrificing on behalf of others, giving, and receiving; that of a Kṣatriya is: study, sacrificing as the officiant, giving, earning a livelihood through weapons, protecting beings; that of a Vaiśya: study, sacrificing as the officiant, giving, agriculture, animal husbandry, and trade; that of a Śūdra: obedience to the twice-born, economic activity, activity (⟪कर्म⟫) of artisans and performers.
+10\. The specific duty of a Brāhmaṇa is: study, teaching, sacrificing as the officiant, sacrificing on behalf of others, giving and receiving; that of a Kṣatriya is: study, sacrificing as the officiant, giving, livelihood by means of weapons, protecting beings; that of a Vaiśya: study, sacrificing as the officiant, giving, agriculture, animal husbandry, and trade; that of a Śūdra: obedience to the twice-born, economic activity, work (⟪कर्म⟫) of craftsmen and performers.
 
-11\. Clarification of consciousness occurs due to the meditative development of loving-kindness, compassion, sympathetic joy, and equanimity, which have happiness and suffering, good and evil, as their objects.
+11\. Clarification of consciousness occurs on account of the meditative unfolding of loving-kindness, compassion, sympathetic joy, and equanimity, which have happiness and suffering, good and evil as objects.
 
-12\. Poor people have many sons, although they do not wish for them. Rich people have no son. Strange is the stirring of fate.
+12\. The poor have many sons, although they do not desire them. The rich have no son. Strange is the stirring of fate.
 
-13\. Who does not slay a woman's body (⟪वपुस्⟫ f.) with a slender waist, broad hips, red lips, black eyes, a curved navel, and upright breasts?
+13\. Whom does not strike a woman's body (⟪वपुस्⟫ n.) with slender waist, broad hips, red lips, black eyes, curved navel, upright breasts.
 
 B) Decline in all cases known to you ⟪क्षत्रिया⟫ f.
 
@@ -316,9 +316,9 @@ C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicat
 
 ⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Image source: Wikipedia. GNU FDL]
+**lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Image source: Wikipedia. GNU FDL license]
 
 **lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Image source: by zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Accessed on 2008-12-13. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
 

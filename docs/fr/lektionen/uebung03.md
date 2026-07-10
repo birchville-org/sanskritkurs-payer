@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Leçon 3
+# Exercice 3
 
 A) Mettez les phrases suivantes au pluriel :
 
@@ -69,7 +69,7 @@ paśavo dhenavaḥ.
 gurvyaḥ sādhvyaḥ.
 ⟪गुर्व्यः⟫ ⟪साध्व्यः⟫
 
-B) Formez des phrases nominales par insertion :
+B) Formez des phrases nominales en insérant :
 
 1\. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
 
@@ -153,7 +153,7 @@ guravaḥ kavayaḥ.
 
 ⟪गुरवः⟫ ⟪कवयः⟫
 
-6\. Les Kṣatriyas sont les deux fois nés.
+6\. Les Kṣatriyas sont des deux fois nés.
 
 dvijāḥ kṣatriyāḥ.
 
@@ -165,8 +165,8 @@ dvijāḥ kṣatriyāḥ.
 
 ⟪शूद्राः⟫ ⟪साधवः⟫
 
-:::media
+::: media
 ![](/images/uebung001.webp)
 Fig. : ⟪पशुर्धेनुः⟫
-(Source de l'image : [Détails](/fr/licenses#uebung001))
+(Source de l'image : [Détails](/licenses#uebung001))
 :::

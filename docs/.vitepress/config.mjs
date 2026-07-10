@@ -13,22 +13,20 @@ import { es } from './locales/es.mjs'
 import { ta } from './locales/ta.mjs'
 import { pa } from './locales/pa.mjs'
 // ── v1.3 additional ───────────────────────────────────────────────────────────
-// import { la } from './locales/la.mjs'
-// import { rm } from './locales/rm.mjs'
+import { la } from './locales/la.mjs'
+import { rm } from './locales/rm.mjs'
 import { ro } from './locales/ro.mjs'
 // ── hidden (planned for later versions) ───────────────────────────────────────
-// import { ar } from './locales/ar.mjs'
-// import { arc } from './locales/arc.mjs'
-// import { he } from './locales/he.mjs'
-// import { zh } from './locales/zh.mjs'
-// import { grc } from './locales/grc.mjs'
+import { ar } from './locales/ar.mjs'
+import { arc } from './locales/arc.mjs'
+import { zh } from './locales/zh.mjs'
+import { grc } from './locales/grc.mjs'
 // import { el } from './locales/el.mjs'
-// import { fa } from './locales/fa.mjs'
-// import { akk } from './locales/akk.mjs'
-// import { cop } from './locales/cop.mjs'
+import { fa } from './locales/fa.mjs'
+import { akk } from './locales/akk.mjs'
+import { cop } from './locales/cop.mjs'
 import { id } from './locales/id.mjs'
-// import { zhCN } from './locales/zh-CN.mjs'
-// import { zhTW } from './locales/zh-TW.mjs'
+import { zhCN } from './locales/zh-CN.mjs'
 // import { th } from './locales/th.mjs'
 import { he } from './locales/he.mjs'
 import { createRequire } from 'module'
@@ -62,9 +60,9 @@ pa.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'ਪਾਠ', 'pa', 
 pa.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'ਲਿਪੀ', 'pa')
 pa.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'ਅਭਿਆਸ', 'pa', 10)
 
-// bg.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Урок', 'bg', 10)
-// bg.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Писмо', 'bg')
-// bg.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Упражнение', 'bg', 10)
+bg.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Урок', 'bg', 10)
+bg.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Писмо', 'bg')
+bg.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Упражнение', 'bg', 10)
 
 ru.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Лекция', 'ru', 10)
 ru.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Письмо', 'ru')
@@ -82,9 +80,9 @@ fr.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Leçon', 'fr', 10)
 fr.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Écriture', 'fr')
 fr.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercice', 'fr', 10)
 
-// rm.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lecziun', 'rm', 10)
-// rm.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Scrittira', 'rm')
-// rm.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercizi', 'rm', 10)
+rm.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lecziun', 'rm', 10)
+rm.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Scrittira', 'rm')
+rm.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercizi', 'rm', 10)
 
 ro.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lecție', 'ro', 10)
 ro.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Scriere', 'ro')
@@ -92,59 +90,55 @@ ro.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercițiu', 'ro', 
 // ta.themeConfig.sidebar[6].items = getSidebarItems('lektion', 'பாடம்', 'ta', 10)
 // ta.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'எழுத்து', 'ta')
 // ta.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'பயிற்சி', 'ta', 10)
-// ar.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'الدرس', 'ar', 10)
-// ar.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'الكتابة', 'ar')
-// ar.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'التمرين', 'ar', 10)
-// arc.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'ܡܠܦܢܘܬܐ', 'arc', 10)
-// arc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'ܟܬܒܬܐ', 'arc')
-// arc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'ܬܪܓܘܡܐ', 'arc', 10)
-// he.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'שיעור', 'he', 10)
-// he.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'כתב', 'he')
-// he.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'תרגיל', 'he', 10)
-// zh.themeConfig.sidebar[3].items = getSidebarItems('lektion', '第', 'zh', 10)
-// zh.themeConfig.sidebar[4].items = getSidebarItems('schrift', '书写', 'zh')
-// zh.themeConfig.sidebar[5].items = getSidebarItems('uebung', '练习', 'zh', 10)
-// la.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Lectio', 'la', 10)
-// la.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Scriptura', 'la')
-// la.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Exercitatio', 'la', 10)
-// grc.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Μάθημα', 'grc', 10)
-// grc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Γραφή', 'grc')
-// grc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Ἄσκησις', 'grc', 10)
+ar.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'الدرس', 'ar', 10)
+ar.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'الكتابة', 'ar')
+ar.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'التمرين', 'ar', 10)
+arc.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'ܡܠܦܢܘܬܐ', 'arc', 10)
+arc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'ܟܬܒܬܐ', 'arc')
+arc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'ܬܪܓܘܡܐ', 'arc', 10)
+he.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'שיעور', 'he', 10)
+he.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'כתב', 'he')
+he.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'תרגיל', 'he', 10)
+zh.themeConfig.sidebar[3].items = getSidebarItems('lektion', '第', 'zh', 10)
+zh.themeConfig.sidebar[4].items = getSidebarItems('schrift', '书写', 'zh')
+zh.themeConfig.sidebar[5].items = getSidebarItems('uebung', '练习', 'zh', 10)
+la.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Lectio', 'la', 10)
+la.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Scriptura', 'la')
+la.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Exercitatio', 'la', 10)
+grc.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Μάθημα', 'grc', 10)
+grc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Γραφή', 'grc')
+grc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Ἄσκησις', 'grc', 10)
 // el.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Μάθημα', 'el', 10)
 // el.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Γραφή', 'el')
 // el.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Άσκηση', 'el', 10)
-// fa.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'درس', 'fa', 10)
-// fa.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'خط', 'fa')
-// fa.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'تمرین', 'fa', 10)
-// akk.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Ṭupšarru', 'akk', 10)
-// akk.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Šiṭru', 'akk')
-// akk.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Birku', 'akk', 10)
-// cop.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'ⲙⲁⲑⲏⲙⲁ', 'cop', 10)
-// cop.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'ⲥϧⲁⲓ', 'cop')
-// cop.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'ⲙⲉⲗⲉⲧⲏ', 'cop', 10)
+fa.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'درس', 'fa', 10)
+fa.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'خط', 'fa')
+fa.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'تمرین', 'fa', 10)
+akk.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Ṭupšarru', 'akk', 10)
+akk.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Šiṭru', 'akk')
+akk.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Birku', 'akk', 10)
+cop.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'ⲙⲁⲑⲏⲙⲁ', 'cop', 10)
+cop.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'ⲥϧⲁⲓ', 'cop')
+cop.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'ⲙⲉⲗⲉⲧⲏ', 'cop', 10)
 
 id.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Pelajaran', 'id', 10)
 id.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Aksara', 'id')
 id.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Latihan', 'id', 10)
 
-// zhCN.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'zh-CN', 10)
-// zhCN.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'zh-CN')
-// zhCN.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'zh-CN', 10)
-
-// zhTW.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'zh-TW', 10)
-// zhTW.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'zh-TW')
-// zhTW.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'zh-TW', 10)
+zhCN.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'zh-CN', 10)
+zhCN.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'zh-CN')
+zhCN.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'zh-CN', 10)
 
 // th.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'th', 10)
 // th.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'th')
 // th.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'th', 10)
 
-he.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'he', 10)
-he.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'he')
-he.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'he', 10)
+he.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'שיעور', 'he', 10)
+he.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'כתב', 'he')
+he.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'תרגיל', 'he', 10)
 
 const isAuthorBuild = process.env.VITEPRESS_ENV === 'author';
-const allLocales = [de, en, it, ru, uk, hi, fr, es, ta, pa, ro, id, he];
+const allLocales = [de, en, it, ru, uk, hi, fr, es, ta, pa, ro, id, he, bg, la, rm, ar, arc, zh, grc, fa, akk, cop, zhCN];
 
 // if (!isAuthorBuild) {
 //   for (const localeObj of allLocales) {
@@ -188,25 +182,21 @@ export default defineConfig({
     es: { ...es },
     ta: { ...ta },
     pa: { ...pa },
-    // la: { ...la },
-    // rm: { ...rm },
+    la: { ...la },
+    rm: { ...rm },
     ro: { ...ro },
     id: { ...id },
-    // 'zh-CN': { ...zhCN },
-    // 'zh-TW': { ...zhTW },
+    'zh-CN': { ...zhCN },
     // th: { ...th },
     he: { ...he },
-    // ── hidden (planned for later versions) ─────────────────────────────────────
-    // ar: { ...ar },
-    // arc: { ...arc },
-    // he: { ...he },
-    // zh: { ...zh },
-    // la: { ...la },
-    // grc: { ...grc },
+    ar: { ...ar },
+    arc: { ...arc },
+    zh: { ...zh },
+    grc: { ...grc },
     // el: { ...el },
-    // fa: { ...fa },
-    // akk: { ...akk },
-    // cop: { ...cop },
+    fa: { ...fa },
+    akk: { ...akk },
+    cop: { ...cop },
   },
   
   themeConfig: {
@@ -240,7 +230,7 @@ export default defineConfig({
             prefix: function(term) { return term.length >= 4; },
             boost: { title: 5, text: 1, titles: 3 },
             filter: function(result) {
-              const ACTIVE = ['en','it','ru','uk','hi','fr','es','ta','pa','la','rm','ro','id','zh-CN','zh-TW','th','he'];
+              const ACTIVE = ['en','it','ru','uk','hi','fr','es','ta','pa','la','rm','ro','id','he','bg','ar','arc','zh','grc','fa','akk','cop','zh-CN'];
               const seg = (typeof window !== 'undefined' ? window.location.pathname : '/').split('/').filter(Boolean)[0] || '';
               if (ACTIVE.includes(seg)) {
                 // Sprachseite: nur Ergebnisse dieser Sprache
@@ -267,21 +257,18 @@ export default defineConfig({
           pa: { translations: { button: { buttonText: 'ਖੋਜ' } } },
           id: { translations: { button: { buttonText: 'Cari' } } },
           'zh-CN': { translations: { button: { buttonText: '搜索' } } },
-          'zh-TW': { translations: { button: { buttonText: '搜尋' } } },
-          th: { translations: { button: { buttonText: 'ค้นหา' } } },
+          // th: { translations: { button: { buttonText: 'ค้นหา' } } },
           he: { translations: { button: { buttonText: 'חפש' } } },
-          // ── hidden (planned for later versions) ───────────────────────────────
-          // rm: { translations: { button: { buttonText: 'Tschertgar' } } },
-          // ar: { translations: { button: { buttonText: 'بحث' } } },
-          // arc: { translations: { button: { buttonText: 'ܒܥܬܐ' } } },
-          // he: { translations: { button: { buttonText: 'חיפוש' } } },
-          // zh: { translations: { button: { buttonText: '搜索' } } },
-          // la: { translations: { button: { buttonText: 'Quaerere' } } },
-          // grc: { translations: { button: { buttonText: 'Ζητεῖν' } } },
+          rm: { translations: { button: { buttonText: 'Tschertgar' } } },
+          ar: { translations: { button: { buttonText: 'بحث' } } },
+          arc: { translations: { button: { buttonText: 'ܒܥܬܐ' } } },
+          zh: { translations: { button: { buttonText: '搜索' } } },
+          la: { translations: { button: { buttonText: 'Quaerere' } } },
+          grc: { translations: { button: { buttonText: 'Ζητεῖν' } } },
           // el: { translations: { button: { buttonText: 'Αναζήτηση' } } },
-          // fa: { translations: { button: { buttonText: 'جستجو' } } },
-          // akk: { translations: { button: { buttonText: 'Šâlu' } } },
-          // cop: { translations: { button: { buttonText: 'ϣⲓⲛⲓ' } } },
+          fa: { translations: { button: { buttonText: 'جستجو' } } },
+          akk: { translations: { button: { buttonText: 'Šâlu' } } },
+          cop: { translations: { button: { buttonText: 'ϣⲓⲛⲓ' } } },
         }
       }
     }
@@ -370,30 +357,45 @@ export default defineConfig({
             let newChildren = [];
             token.children.forEach(child => {
               if (child.type === 'text') {
-                const SCHOLARLY_RE = /([⟪《][^⟫⟩》]+[⟫⟩》]|(?<!:):br|(?<!:):indent)/g;
+                const SCHOLARLY_RE = /([⟪《][^⟫⟩》]+[⟫⟩》]|sig\[.*?\]|(?<!:):br|(?<!:):indent)/g;
                 if (!SCHOLARLY_RE.test(child.content)) {
                   newChildren.push(child);
                   return;
                 }
-                const parts = child.content.split(SCHOLARLY_RE);
-                parts.forEach(part => {
-                  if (!part) return;
-                  if (part.match(/^[⟪《].*[⟫⟩》]$/)) {
-                    const span = new state.Token('html_inline', '', 0);
-                    span.content = `<span class="sanskrit-dev">${part.slice(1, -1)}</span>`;
-                    newChildren.push(span);
-                  } else if (part === ':br') {
-                    newChildren.push(new state.Token('hardbreak', 'br', 0));
-                  } else if (part === ':indent') {
-                    const span = new state.Token('html_inline', '', 0);
-                    span.content = '<span class="indent-inline"></span>';
-                    newChildren.push(span);
-                  } else {
-                    const text = new state.Token('text', '', 0);
-                    text.content = part;
-                    newChildren.push(text);
-                  }
-                });
+                
+                function processContent(content, isInsideSig = false) {
+                  const parts = content.split(SCHOLARLY_RE);
+                  parts.forEach(part => {
+                    if (!part) return;
+                    if (part.match(/^[⟪《].*[⟫⟩》]$/)) {
+                      const span = new state.Token('html_inline', '', 0);
+                      span.content = `<span class="sanskrit-dev" translate="no" lang="sa">${part.slice(1, -1)}</span>`;
+                      newChildren.push(span);
+                    } else if (part.match(/^sig\[.*\]$/) && !isInsideSig) {
+                      const spanOpen = new state.Token('html_inline', '', 0);
+                      spanOpen.content = `<strong class="signalrot">`;
+                      newChildren.push(spanOpen);
+                      
+                      processContent(part.slice(4, -1), true);
+                      
+                      const spanClose = new state.Token('html_inline', '', 0);
+                      spanClose.content = `</strong>`;
+                      newChildren.push(spanClose);
+                    } else if (part === ':br') {
+                      newChildren.push(new state.Token('hardbreak', 'br', 0));
+                    } else if (part === ':indent') {
+                      const span = new state.Token('html_inline', '', 0);
+                      span.content = '<span class="indent-inline"></span>';
+                      newChildren.push(span);
+                    } else {
+                      const text = new state.Token('text', '', 0);
+                      text.content = part;
+                      newChildren.push(text);
+                    }
+                  });
+                }
+                
+                processContent(child.content);
               } else {
                 newChildren.push(child);
               }
@@ -403,6 +405,75 @@ export default defineConfig({
         });
       });
     }
+  },
+
+  vite: {
+    plugins: [
+      {
+        name: 'qa-save-plugin',
+        configureServer(server) {
+          server.middlewares.use((req, res, next) => {
+            if (req.url === '/api/save' && req.method === 'POST') {
+              let body = '';
+              req.on('data', chunk => { body += chunk.toString(); });
+              req.on('end', () => {
+                try {
+                  const data = JSON.parse(body);
+                  const fs = require('fs');
+                  const path = require('path');
+                  const absolutePath = path.resolve(process.cwd(), data.filepath);
+                  if (!absolutePath.includes('docs/')) {
+                     res.statusCode = 403;
+                     res.end('Forbidden');
+                     return;
+                  }
+                  fs.writeFileSync(absolutePath, data.content, 'utf-8');
+                  res.statusCode = 200;
+                  res.end('OK');
+                } catch(e) {
+                  res.statusCode = 500;
+                  res.end(e.message);
+                }
+              });
+              return;
+            }
+            if (req.url.startsWith('/api/load') && req.method === 'GET') {
+              try {
+                const url = new URL(req.url, 'http://localhost');
+                const filepath = url.searchParams.get('filepath');
+                if (!filepath) {
+                  res.statusCode = 400;
+                  res.end('Missing filepath');
+                  return;
+                }
+                const path = require('path');
+                const absolutePath = path.resolve(process.cwd(), filepath);
+                if (!absolutePath.includes('docs/')) {
+                  res.statusCode = 403;
+                  res.end('Forbidden');
+                  return;
+                }
+                const fs = require('fs');
+                if (!fs.existsSync(absolutePath)) {
+                  res.statusCode = 404;
+                  res.end('File not found');
+                  return;
+                }
+                const content = fs.readFileSync(absolutePath, 'utf-8');
+                res.statusCode = 200;
+                res.setHeader('Content-Type', 'application/json');
+                res.end(JSON.stringify({ content }));
+              } catch(e) {
+                res.statusCode = 500;
+                res.end(e.message);
+              }
+              return;
+            }
+            next();
+          });
+        }
+      }
+    ]
   },
 
   buildEnd: async (siteConfig) => {

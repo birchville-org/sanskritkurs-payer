@@ -2,7 +2,7 @@
 outline: 2
 ---
 
-:::deleteme-box
+::: deleteme-box
 **Quelle & Urheberrecht**
 
 :::

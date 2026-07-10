@@ -46,7 +46,7 @@ Un dos veces nacido es un hombre que ha sido iniciado en el Veda por el maestro.
 ⟪६⟫. ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥⟫
 Quien ha vencido la ira, no odia a un enemigo, incluso si este lo mata. Quien, sin embargo, es vencido por la ira, odia.
 
-:::media
+::: media
 ![](/images/uebung033.webp)
 Fig.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung033))

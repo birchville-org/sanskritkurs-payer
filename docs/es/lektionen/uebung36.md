@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Forme tanto las formas del perfecto con reduplicación como las perifrásticas para las siguientes formas:
 
-:::grammar-box
+::: grammar-box
 | Presente | Reduplicado | Perifrástico |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪बिभ्रते⟫** | ⟪बभ्रिरे⟫ | ⟪बिभरां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
@@ -20,7 +20,7 @@ A) Forme tanto las formas del perfecto con reduplicación como las perifrástica
 :::
 B) Forme el perfecto perifrástico para la raíz **⟪आस्⟫** (sentarse):
 
-:::grammar-box
+::: grammar-box
 | Presente | Perfecto perifrástico |
 | :--- | :--- |
 | ⟪१⟫. **⟪आस्ते⟫** | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
@@ -28,7 +28,7 @@ B) Forme el perfecto perifrástico para la raíz **⟪आस्⟫** (sentarse):
 :::
 C) Forme el correspondiente perfecto para las siguientes formas:
 
-:::grammar-box
+::: grammar-box
 | Presente / Imperfecto | Perfecto |
 | :--- | :--- |
 | ⟪१⟫. **⟪जीयते⟫** | ⟪जिग्ये⟫ |
@@ -64,7 +64,7 @@ Un dvija, que ha estudiado el Veda, conoce la justicia y las costumbres de los d
 ⟪५⟫. **⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪।⟫ ⟪य⟫ ⟪एवं⟫ ⟪विदुर्नाधीयीरन्⟫ ⟪॥५॥⟫**
 Uno no puede vivir únicamente de la ciencia. Quien sepa esto, no debería estudiar.
 
-:::media
+::: media
 ![](/images/uebung061.webp)
 Fig.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung061))
@@ -91,7 +91,7 @@ Se debe saludar a los ancianos con la debida formalidad, cederles el asiento y p
 **⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ⟪विज्ञेयो⟫ ⟪जितेन्द्रियः⟫ ⟪॥⟫**  
 Si un hombre no se alegra ni se entristece cuando oye, toca, ve, saborea o huele, entonces se le considera aquel que ha vencido a sus sentidos (**⟪जितेन्द्रियः⟫**).
 
-:::media
+::: media
 ![](/images/uebung060.webp)
 Lám.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung060))
@@ -102,7 +102,7 @@ Lám.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ �
 
 Determine y traduzca las siguientes formas verbales:
 
-:::grammar-box
+::: grammar-box
 | Forma verbal | Determinación | Significado |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪नयति⟫** | ⟪नी⟫ (1U) 3. sg. P. Ind. Pres. | él conduce |
@@ -141,8 +141,9 @@ Determine y traduzca las siguientes formas verbales:
 | ⟪३४⟫. **⟪व्यानक्⟫** | ⟪वि⟫-⟪अञ्ज्⟫ (7P) 3. sg. P. Impf. | reveló |
 | ⟪३५⟫. **⟪युङ्क्ते⟫** | ⟪युज्⟫ (7U) 3. sg. Ā. Ind. Pres. | une para sí |
 | ⟪३६⟫. **⟪अपिबत्⟫** | ⟪पा⟫ (1P) 3. sg. P. Impf. | bebió |
-::::::media
+:::: media
 ![](/images/uebung059.webp)
 Fig.: ⟪जगौ⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung059))
+::::
 :::

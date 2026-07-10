@@ -1,48 +1,47 @@
 ---
-title: Leçon 3
-subtitle: "Le nominatif singulier du féminin"
+title: Lektion 3
+subtitle: "Den Nominativ Singular des Femininums"
 lesson_id: 3
 last_reconstructed: 2026-05-07
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 3
+# Lektion 3
 
-:::deleteme-box
+::: deleteme-box
 **Dans cette leçon, vous apprendrez :**
 - le nominatif singulier du féminin
 - le nominatif pluriel du masculin et du féminin
 - la formation du féminin à partir des masculins
 - le sandhi vocalique
-- Sandhi de phrase de -ās
+- Satzsandhi von -ās
 :::
-## 3.1. Singulier du nominatif du féminin
+## 3.1. Nominatif singulier du féminin
 
-### 3.1.1. Nominatif singulier en -s
+### 3.1.1. Nominativ Singular auf -s
 
-Les racines nominales suivantes, qui se terminent par une voyelle, forment le nominatif singulier en **-s** :
+Les autres stems nominaux, qui se terminent par une voyelle, forment le nominatif singulier en **-s** :
 
-:::grammar-box
-- **Féminins en -i** : par ex. **śruti** f. "l'écoute" -- Nom. sg. : **śrutis** = ⟪श्रुतिस्⟫
-- **Féminins en -u** : par ex. **dhenu** f. "vache laitière" -- Nom. sg. : **dhenus** = ⟪धेनुस्⟫
+::: grammar-box
+- **Féminins en -i** : par ex. **śruti** f. « l’écoute » — Nom. sg. : **śrutis** = ⟪श्रुतिस्⟫
+- **Féminins en -u** : par ex. **dhenu** f. « vache laitière » — Nom. sg. : **dhenus** = ⟪धेनुस्⟫
 :::
 ### 3.1.2. Nominatif singulier sans terminaison
 
-Le nominatif singulier se forme sans terminaison :
+Le singulier du nominatif se forme sans terminaison :
 
-:::grammar-box
-- **Féminins en -ā** : par ex. **devatā** f. « divinité » -- Nom. sg. : **devatā** = ⟪देवता⟫
-- **Féminins en -ī** : par ex. **devī** f. « déesse » -- Nom. sg. : **devī** = ⟪देवी⟫
-::::::
-important
-**Attention !** Il existe également des noms racinaux féminins monosyllabiques en -ī, dont le nominatif singulier se termine par -s : par ex. dhī f. « pensée » -- Nom. sg. : dhīs = ⟪धीस्⟫. De même, lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. « bateau » et tantrī (⟪तन्त्री⟫) f. « corde » forment irrégulièrement le nominatif singulier en -s : lakṣmīs = ⟪लक्ष्मीस्⟫.
+::: grammar-box
+- **Féminins en -ā** : par ex. **devatā** f. « divinité » — Nom. sg. : **devatā** = ⟪देवता⟫
+- **Féminins en -ī** : par ex. **devī** f. « déesse » — Nom. sg. : **devī** = ⟪देवी⟫
 :::
----
+::: important
+**Attention !** Il existe également des noms de racine féminins monosyllabiques en -ī, dont le nominatif singulier se termine par -s : par ex. dhī f. « pensée » — Nom. sg. : dhīs = ⟪धीस्⟫. De même, lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. « bateau » et tantrī (⟪तन्त्री⟫) f. « corde » forment de manière irrégulière le nominatif singulier en -s : lakṣmīs = ⟪लक्ष्मीस्⟫.
+:::
 
 ## 3.2. Formation des féminins à partir des masculins
 
-:::grammar-box
+::: grammar-box
 **Masculins en -a :**
 - **Féminin en -ā** : par ex. **kṣatriya** m. » **kṣatriyā** f. « Femme kṣatriya » = ⟪क्षत्रिया⟫
 - **Féminin en -ī** : par ex. **brāhmaṇa** m. » **brāhmaṇī** f. « Brahmane femme » = ⟪ब्राह्मणी⟫
@@ -51,11 +50,10 @@ important
 - **Féminin en -ī** : par ex. **sādhu** m. » **sādhvī** f. (bon, sainte) = ⟪साध्वी⟫
   (**-u-** devient **-v-** devant une voyelle, donc **-u- + -ī** » **-vī**)
 :::
----
 
-## 3.3. Nominatif pluriel masculin et féminin
+## 3.3. Nominativ Plural Maskulinum und Femininum
 
-:::grammar-box
+::: grammar-box
 La terminaison du nominatif pluriel au masculin et au féminin est **-as**.
 - **Masculins en -a** : **deva- + -as** » **devās** = ⟪देवास्⟫
 - **Féminins en -ā** : **devatā- + -as** » **devatās** = ⟪देवतास्⟫
@@ -67,11 +65,9 @@ La terminaison du nominatif pluriel au masculin et au féminin est **-as**.
 :::
 Remarque : **e** est le degré renforcé (**guṇa**) de **i**, **o** est le degré renforcé de **u**.
 
----
+## 3.4. Vokalsandhi
 
-## 3.4. Sandhi vocalique
-
-:::grammar-box
+::: grammar-box
 **Les voyelles simples qui ne diffèrent pas ou seulement par leur longueur « fusionnent » en la voyelle longue correspondante :**
 - -a / -ā + a- / ā- » **-ā-**
 - -i / -ī + i- / ī- » **-ī-**
@@ -88,11 +84,13 @@ devī + indrāṇī » devīndrāṇī « Indrāṇī est une déesse » = ⟪�
 
 > (Indrāṇī est l’épouse du dieu Indra.)
 
-:::media
+::: media
 ![](/images/lekt0301.webp)
 Fig. : Indra et Indrāṇī sur l’éléphant Airavata, miniature, Rājasthān, 1670/80
 (Source de l’image : [Détails](/fr/licenses#lekt0301))
-::::::grammar-box
+:::
+
+::: grammar-box
 **Les voyelles simples (sauf -a / -ā) sont remplacées, devant une voyelle dissemblable, par le semi-voyant correspondant :**
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
@@ -105,7 +103,7 @@ devī + umā » devy umā « Umā est une / la déesse » = ⟪देव्य�
 
 > (Umā est un nom de Pārvatī, l’épouse de Śiva)
 
-:::grammar-box
+::: grammar-box
 **-a / -ā devant une voyelle dissemblable :**
 - -a / -ā + i- / ī- » **-e-**
 - -a / -ā + ṛ- » **-ar-**
@@ -114,7 +112,7 @@ devī + umā » devy umā « Umā est une / la déesse » = ⟪देव्य�
 :::
 Pour ce sandhi, le schéma suivant s’applique donc :
 
-:::media
+::: media
 ![](/images/lekt0302.jpg)
 (Source de l’image : [Détails](/fr/licenses#lekt0302))
 :::
@@ -124,20 +122,16 @@ p. ex.
 
 śūdrā + itarā » śudretarā « Itarā est une femme śūdra » = ⟪शूद्रेतरा⟫
 
----
+## 3.5. Satzsandhi von -ās
 
-## 3.5. Sandhi de phrase de -ās
-
-:::grammar-box
+::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
 par exemple
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ « Les Vaiśyas sont des deux fois nés » = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
----
-
-## 3.6. Liste des mots
+## 3.6. Wortliste
 
 **Apprenez les mots suivants :**
 
@@ -180,7 +174,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ « Les Vaiśyas sont des deux fois n
 
 **devī** f. = ⟪देवी⟫ : Déesse, en particulier Durgā f. = ⟪दुर्गा⟫, l'épouse de Śiva = ⟪शिव⟫.
 
-:::media
+::: media
 ![](/images/lekt0303.webp)
 Fig. : Durgā = ⟪दुर्गा⟫, Orissa
 (Source de l'image : [Détails](/images/lekt0303))
@@ -199,9 +193,7 @@ Fig. : Durgā = ⟪दुर्गा⟫, Orissa
 
 **muditā** f. = ⟪मुदिता⟫ : joie, en particulier joie partagée (opposé à la jalousie).
 
----
-
-## 3.7. Exercice
+## 3.7. Übung
 
 **A) Mettez les phrases suivantes au pluriel :**
 
@@ -239,3 +231,4 @@ Fig. : Durgā = ⟪दुर्गा⟫, Orissa
 5. Les poètes sont des enseignants.
 6. Les Kṣatriyas sont les double-nés.
 7. Les hommes sacrés sont des Śūdras.
+

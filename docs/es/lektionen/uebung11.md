@@ -124,7 +124,7 @@ D) Forme la construcción pasiva de las oraciones formadas en C)
 
 ⟪१२⟫. ⟪तैः⟫ ⟪श्रावकैर्बुद्धो⟫ ⟪धर्मं⟫ ⟪प्र्च्छ्यते⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung022.webp)
 Fig.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung022))
@@ -229,7 +229,7 @@ E) Transforme las oraciones C)1-5 en construcciones activas.
 
 ⟪५⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदति⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung021.webp)
 Fig.: ⟪फलान्यश्नुते⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung021))

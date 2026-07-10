@@ -36,7 +36,7 @@ A) Essayez de déterminer les significations possibles des mots suivants :
 
 13\. lābhaka ⟪लाभक⟫ : m. = lābha
 
-14\. īśvaratā ⟪ईश्वरता⟫ : f. seigneurie
+14\. īśvaratā ⟪ईश्वरता⟫ : f. être-seigneur
 
 15\. dhenukā ⟪धेनुका⟫ : f. = dhenu
 
@@ -72,7 +72,7 @@ Enseigner, sacrifier sur ordre, accepter des dons.
 
 rakṣaṇaṃ sarvabhūtānām ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
 
-(sarvabhūtānām = génitif (cas de l'être) : "de tous les êtres")
+(sarvabhūtānām = génitif (cas possesseur) : "de tous les êtres")
 
 (Gautamadharmasūtra X,7)
 
@@ -93,9 +93,9 @@ dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्वि�
 (d'après Kauṭilīya-arthaśāstra 1.3.8.)
 
 Explication :
-dvijātīnām = génitif (cas de l'être) pluriel de dvijāti (traduisez ici : "envers les deux fois nés")
+dvijātīnām = génitif (cas possesseur) pluriel de dvijāti (traduisez ici : "envers les deux fois nés")
 
-kārukuśīlavakarma est un tatpuruṣa avec un dvandva (kārukuśīlava) dans le premier membre. karma = nom. sg. de karman n. "acte, activité, karma" de la racine kṛ 8 U). Traduisez "acte / activité des ... (génitif)" (désignés par le dvandva).
+kārukuśīlavakarma est un tatpuruṣa avec un dvandva (kārukuśīlava) dans le membre antérieur. karma = nominatif singulier de karman n. "acte, activité, karma" de la racine kṛ 8 U). Traduisez "acte / activité des ... (génitif)" (désignés par le dvandva).
 
 Obéissance envers les deux fois nés, activités pour subsister, activité d'artisan ou de spectateur itinérant.
 
@@ -105,8 +105,8 @@ Obéissance envers les deux fois nés, activités pour subsister, activité d'ar
 
 L'économie est l'agriculture, l'élevage et le commerce.
 
-:::media
+::: media
 ![](/images/uebung013.webp)
-Fig. : ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-(Source de l'image : [Détails](/fr/licenses#uebung013))
+Fig. : ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟩
+(Source de l'image : [Détails](/licenses#uebung013))
 :::

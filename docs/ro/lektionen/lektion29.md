@@ -12,9 +12,10 @@ status: stable
 ## 29.1. Utilizarea Parasmaipada (⟪परस्मैपद⟫) și Ātmanepada (⟪आत्मनेपद⟫) în Causativ
 
 
-:::grammar-box
+::: grammar-box
 **Cauzativul este, cu puține excepții, Ubhayapada (⟪उभयपद⟫)**
-::::::grammar-box
+:::
+::: grammar-box
 **În causativ se folosește Ātmanepada (⟪आत्मनेपद⟫):**
 
 **1. Când rezultatul acțiunii cauzate îi folosește celui care cauzează:**
@@ -38,7 +39,7 @@ Regulile corespund, în general, regulilor pentru utilizarea Ātmanepada (⟪आ
 
 Prepozitii:
 
-:::indent
+::: indent
 ⟪उद्⟫° : sus, în sus, în sus, afară, din, des-
 
 ⟪परि⟫° : în jur, în jur (loc, timp), prin
@@ -53,7 +54,7 @@ Prepozitii:
 
 ⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : a consuma, a mânca
 
-:::indent
+::: indent
 Fut. ⟪ग्रसिष्यते⟫  
 Pass. ⟪ग्रस्यते⟫  
 Kaus. ⟪ग्रासयति⟫  
@@ -66,7 +67,7 @@ Inf. ⟪ग्रसितुम्⟫
 
 ⟪परिव्राजक⟫ m.: călător, călugăr itinerant, pelerin
 
-:::media
+::: media
 ![](/images/lekt2903.webp)
 Fig.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
@@ -81,13 +82,14 @@ Pushkar = ⟪पुष्कर⟫
 ⟪मत्स्य⟫ m.: pește
 
 din acesta:
-:::indent
+::: indent
 ⟪मात्स्य⟫ 3: care aparține peștelui (peștilor)
-::::::media
+:::: media
 ![](/images/lekt2901.webp)
 Fig.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2901))
+::::
 :::
 ⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): blând, mititel, moale; lent, slab
 
@@ -95,7 +97,7 @@ Fig.: ⟪मत्स्यः⟫
 
 ⟪रम्⟫ 1Ā ⟪रमते⟫ : a sta nemișcat, a se odihni, a rămâne; a găsi plăcere, a se bucura
 
-:::indent
+::: indent
 Fut. ⟪रंस्यते⟫  
 Pass. ⟪रम्यते⟫  
 Kaus. ⟪रमयति⟫  
@@ -108,7 +110,7 @@ Inf. ⟪रन्तुम्⟫
 
 ⟪पूज्⟫ 10P ⟪पूजयति⟫ : a onora, a venera
 
-:::indent
+::: indent
 PPP ⟪पूजित⟫
 :::
 ## 29.3. Exercițiu de traducere pentru recapitulare
@@ -138,16 +140,17 @@ Explicație: ⟪आत्मसु⟫ = Loc. sg. la ⟪आत्मन्⟫ m. 
 **⟪बलीयान⟫**⟪अबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।१४।⟫
 
 ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।१५।⟫
-:::indent
+::: indent
 **⟪चतुर्व⟫**⟪र्णाश्रमो⟫ ⟪लोको⟫  
 **⟪राज्ञा⟫** ⟪दण्डेन⟫ ⟪पालितः⟫ ⟪।⟫  
 ⟪स्वधर्मकर्माभिरतो⟫  
 ⟪वर्तते⟫ **⟪स्वेषु⟫ ⟪वर्त्मसु⟫** ⟪॥१६॥⟫
-::::::media
+:::: media
 ![](/images/lekt2902.jpg)
 Fig.: ⟪मात्स्यन्याय⟫:
 (Desen: Namcha Payer, 2002-11)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2902))
+::::
 :::
 Explicații:
 
@@ -173,7 +176,7 @@ Explicații:
 
 ## 29.4. Viitorul și cauzativul pentru rădăcinile învățate până acum
 
-:::grammar-box
+::: grammar-box
 
 | Rădăcină:br⟪धातु⟫ | Viitor:br⟪ऌत्⟫ | Cauzativ:br⟪कारित⟫ |
 | :--- | :--- | :--- |
@@ -262,6 +265,8 @@ Explicații:
 |⟪हन्⟫ ⟪२⟫ ⟪प⟫|⟪हनिष्यति⟫|⟪घातयति⟫|
 |⟪हृ⟫ ⟪१⟫ ⟪उ⟫|⟪हरिष्यति⟫|⟪हारयति⟫|
 
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **le
+:::

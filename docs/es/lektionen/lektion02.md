@@ -1,8 +1,8 @@
 ---
-title: Lección 2
-subtitle: "La oración nominal y los fundamentos de la declinación"
+title: Lektion 2
+subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
 lesson_id: 2
-category: "Gramática"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
@@ -11,7 +11,7 @@ last_reconstructed: 2026-04-30
 
 ## 2.1. La oración nominal
 
-:::grammar-box
+::: grammar-box
 **Esquema: Nombre predicativo - Sujeto**
 
 p. ej. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣṇu es un dios."
@@ -23,8 +23,6 @@ No es necesaria una cópula verbal ("es", "son", "soy", "eres", "sois"), pero a 
 Aunque en sánscrito la estructura de la oración es bastante libre (especialmente en versos), al traducir una oración nominal siempre se debe considerar en primer lugar una traducción de acuerdo con el esquema estándar anterior.
 
 En la oración nominal, el sujeto está en nominativo (primer caso = **prathamā** f. = ⟪प्रथमा⟫). El nombre predicativo concuerda con el sujeto en número y caso; si el nombre predicativo es un adjetivo, también concuerda en género.
-
----
 
 ## 2.2. Sobre la declinación (flexión de los sustantivos)
 
@@ -49,25 +47,22 @@ En los diccionarios de sánscrito, los sustantivos se listan en su **tema nomina
 - **vacana** n. -- ⟪वचन⟫ n. (neutro)
 - **vyakti** f. -- ⟪व्यक्ति⟫ f. (femenino)
 
----
-
 ## 2.3. El nominativo singular
 
 **Nominativo singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
-:::grammar-box
+::: grammar-box
 **El nominativo singular termina en -s = -⟪स्⟫ o bien es sin terminación.**
 :::
 ### 2.3.1. Nominativo singular en -s
 
 Los siguientes stems nominales, que terminan en una vocal, forman el nominativo singular en **-s**:
 
-:::grammar-box
+::: grammar-box
 **Masculinos en -a:** p. ej. deva m. = ⟪देव⟫ "Dios" -- Nom. sg.: devas = ⟪देवस्⟫
 **Masculinos en -i:** p. ej. kavi m. = ⟪कवि⟫ "Poeta" -- Nom. sg.: kavis = ⟪कविस्⟫
 **Masculinos en -u:** p. ej. guru m. = ⟪गुरु⟫ "Maestro" -- Nom. sg.: gurus = ⟪गुरुस्⟫
 :::
----
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
@@ -77,7 +72,7 @@ La terminación de una palabra se ajusta en sánscrito también según la inicia
 
 Véase también el resumen:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi de la -s final. -- (Materiales de sánscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois \<1944 - \>:** Sandhi de la -s final. -- (Materiales de sánscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 La **-s** final:
 
@@ -106,8 +101,6 @@ La **-s** final:
     - antes de otras vocales: se convierte en **-a** (hiato)
       - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
 
----
-
 ## 2.5. Lista de palabras
 
 **deva** m. -- ⟪देव⟫ : Celestial, dios; príncipe, rey.
@@ -122,8 +115,7 @@ La **-s** final:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (estado de servicios).
 
-:::
-tip Los cuatro estados (varna)
+::: note-box Die vier Stände (varna)
 Según la teoría clásica (p. ej. Manusmṛti I, 88-91), las tareas se distribuyen:
 
 - **de los Brahmanes**
@@ -156,7 +148,7 @@ Según la teoría clásica (p. ej. Manusmṛti I, 88-91), las tareas se distribu
 
 Los cuatro estados (**varṇa** m.) se confunden a menudo con las castas. Sin embargo, los cuatro estados, a diferencia de las castas, no son algo específicamente indio; en Europa también tuvimos un sistema de estados (en parte hasta la Primera Guerra Mundial), como demuestra la siguiente ilustración del siglo XV:
 
-:::media
+::: media
 ![](/images/lekt0201.webp)
 Fig.: Representación de la división de estados de la Europa medieval (grabado en madera de finales del siglo XV).
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0201))
@@ -168,10 +160,9 @@ Fig.: Representación de la división de estados de la Europa medieval (grabado 
 
 Los tres estados llevan el traje correspondiente a su estado. Sobre los estados, designados como voluntad divina, trona Cristo.
 
-Max Weber &lt;1864 – 1920&gt; define estado así:
+Max Weber \<1864 – 1920\> define estado así:
 
-:::
-note-box
+::: note-box
 "**Estado**" debe significar una multitud de personas que, dentro de una asociación,
 a) ejercen una estimación especial de estado, - posiblemente también
 b) reclaman monopolios especiales de estado.
@@ -189,7 +180,7 @@ Mientras que las clases ocupacionales crecen sobre la base de la economía orien
 
 Cada sociedad estamental es convencional, ordenada por reglas de conducta, crea por tanto condiciones de consumo económicamente irracionales y obstaculiza de esta manera mediante apropiaciones monopolísticas y mediante la exclusión de la libre disposición de la propia capacidad de ganancia la libre formación del mercado.
 
-[**Weber, Max &lt;1864 – 1920&gt;:** Economía y sociedad : bosquejo de una sociología comprensiva. – 5., revisada ed. – Tubinga : Mohr, 1976. – P. 625 ss.]
+[**Weber, Max \<1864 – 1920\>:** Economía y sociedad : bosquejo de una sociología comprensiva. – 5., revisada ed. – Tubinga : Mohr, 1976. – P. 625 ss.]
 :::
 Los varṇas son, por consiguiente, estamentos de nacimiento.
 
@@ -197,7 +188,7 @@ Los varṇas son, por consiguiente, estamentos de nacimiento.
 
 **agni** m. -- ⟪अग्नि⟫ : fuego, dios Agni.
 
-:::media
+::: media
 ![](/images/lekt0203.jpg)
 Fig.: Dios Agni, miniatura, s. XVIII.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0203))
@@ -206,7 +197,7 @@ Fig.: Dios Agni, miniatura, s. XVIII.
 
 **sādhu** m. -- ⟪साधु⟫ : hombre «santo», Sādhu.
 
-:::media
+::: media
 ![](/images/lekt0202.webp)
 Fig.: Sādhu (⟪साधु⟫), Templo Pashupatinath, Katmandú.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt0202))

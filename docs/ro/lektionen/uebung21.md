@@ -46,7 +46,7 @@ Un dublu-născut este un bărbat care a fost inițiat în Veda de către maestru
 ⟪६⟫. ⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥⟫
 Cine a învins mânia nu urăște un dușman, chiar dacă acesta îl omoară. Cine însă este învins de mână, urăște.
 
-:::media
+::: media
 ![](/images/uebung033.webp)
 Fig.: ⟪हतान्धकारा⟫ ⟪दीपाः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung033))

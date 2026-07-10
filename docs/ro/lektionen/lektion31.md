@@ -8,7 +8,7 @@ status: stable
 
 ## 31.1. Cea de-a 7-a clasă de prezent (⟪रुधादि⟫ = "⟪रुध्⟫ etc.")
 
-::::grammar-box
+::: grammar-box
 **Formare:**
 
 **Înainte de consoanele finale ale rădăcinii de nivel profund, se inserează un așa-numit infix nazal (-na- sau -n-):**
@@ -17,12 +17,12 @@ status: stable
 *   **în tema slabă: -n-**
 
 **Pentru legarea consoanelor finale ale rădăcinii cu terminațiile care încep cu consoană, se aplică aceleași reguli ca și pentru clasa de prezent a 2-a.**
-::::
+:::
 Exemple:
 
 ⟪युज्⟫ 7U "a lega, a împerechea"
 
-::::grammar-box
+::: grammar-box
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
@@ -32,10 +32,10 @@ Exemple:
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
 | **Participiu Prezent** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
-::::
+:::
 ⟪रुध्⟫ 7U "a opri, a aduce la oprire"
 
-::::grammar-box
+::: grammar-box
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
@@ -45,14 +45,15 @@ Exemple:
 | | **3. pl.** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran |
 | **Participiu Prezent** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
 
-::::::::grammar-box
+:::
+::: grammar-box
 **La unele rădăcini, -n- al temei slabe de prezent a pătruns și în timpurile non-prezent, astfel încât aceste rădăcini sunt considerate cu infix nazal.**
-::::
+:::
 Exemplu:
 
 **⟪भञ्ज्⟫** 7P "a rupe"
 
-:::indent
+::: indent
 *   Indicativ Prezent
     *   3.sg.P. **⟪भनक्ति⟫** (bha-na + j + ti)
     *   3.pl.P. **⟪भञ्जन्ति⟫** (bha + n + j-anti)
@@ -63,7 +64,7 @@ Exemplu:
 ## 31.2. Listă de cuvinte
 
 **⟪युज्⟫** 7U **⟪युनक्ति⟫** : a încordă, a atârna, a lega, a fixa; Ā de asemenea: a se încorda (= a se strădui), a se uni cu, a se concentra pe (Locativ, ⟪सप्तमी⟫)
-:::indent
+::: indent
 **Fut. ⟪योक्ष्यति⟫**
 **Pass. ⟪युज्यते⟫**
 **Kaus. ⟪योजयति⟫**
@@ -80,14 +81,15 @@ din care:
 **⟪कलियुग⟫** a început în jurul anului 3102 î.Hr., anul războiului **⟪महाभारत⟫**. Mai multe detalii la Basham, Wonder p. 323)
 
 **⟪योग⟫ m.:** "încordare, legare", efort, unire, Yoga (vezi Basham, Wonder p. 327ss.)
-::::::media
+:::: media
 ![](/images/lekt3101.webp)
 Fig.: ⟪योगः⟫
 Reprezentare Yoga.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3101))
+::::
 :::
 **⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : a opri, a aduce la oprire, a reține = a închide, a ascunde
-:::indent
+::: indent
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
 **Kaus. ⟪रोधयति⟫**
@@ -95,7 +97,7 @@ Reprezentare Yoga.
 **Inf. ⟪रोद्धुम्⟫**
 :::
 **⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : a tăia
-:::indent
+::: indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
 **Kaus. ⟪छेदयति⟫**
@@ -103,13 +105,13 @@ Reprezentare Yoga.
 **Inf. ⟪छेत्तुम्⟫**
 :::
 **⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : a (sfărâma) rupe
-:::indent
+::: indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
 :::
 **⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : a unge, a unsura
-:::indent
+::: indent
 **Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
 **Kaus. ⟪अञ्जयति⟫**
@@ -117,19 +119,20 @@ Reprezentare Yoga.
 **Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
 :::
 **⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : a unsura separat = a se machia, a se distinge
-:::indent
+::: indent
 **PPP ⟪व्यक्त⟫ :** distinct, dezvoltat
 
 din care:
 **⟪व्यञ्जन⟫ n.:** mijloc de distingere = machiaj, condiment, semn distinctiv, consoană (ceea prin care sunt distinse semnificațiile)
-::::::media
+:::: media
 ![](/images/lekt3102.webp)
 Fig.: ⟪व्यञ्जनम्⟫
 Pregătire pentru dansul Kathakali, Kochi.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3102))
+::::
 :::
 **⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : a despica
-:::indent
+::: indent
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
 **Kaus. ⟪भेदयति⟫**
@@ -137,7 +140,7 @@ Pregătire pentru dansul Kathakali, Kochi.
 **Inf. ⟪भेत्तुम्⟫**
 :::
 **⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : a se bucura de (de ex. mâncare; "a se bucura de pământ" = a stăpâni pământul)
-:::indent
+::: indent
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
 **Kaus. ⟪भोजयति⟫**
@@ -148,7 +151,7 @@ din care:
 **⟪भोग⟫ m.:** bucurie, mâncare, plăcere, folos, impozit, taxă
 :::
 **⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): a lega, a atârna
-:::indent
+::: indent
 **Fut. ⟪भन्त्स्यति⟫**
 **Pass. ⟪बध्यते⟫**
 **Kaus. ⟪बन्धयति⟫**
@@ -159,14 +162,15 @@ din care:
 **⟪बन्धन⟫ n.:** legare, lanț
 :::
 **⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : a recunoaște, a înțelege
-:::indent
+::: indent
 din care:
 **⟪प्रज्ञा⟫ f.:** înțelepciune, cunoaștere
-::::::media
+:::: media
 ![](/images/lekt3103.webp)
 Fig.: ⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3103))
+::::
 :::
 **⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : a apărea, a exista
 
@@ -180,7 +184,7 @@ A) Traduceți următoarele propoziții și descompuneți compusele:
 
 ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫ ⟪॥२॥⟫
 
-:::media
+::: media
 ![](/images/lekt3105.jpg)
 Fig.: ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
 Tancuri ale Căluerarilor 18 (Armata Indiană) în mișcare în timpul Războiului Indo-Pak din 1965.
@@ -190,7 +194,7 @@ Tancuri ale Căluerarilor 18 (Armata Indiană) în mișcare în timpul Războiul
 
 ⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫
 
-:::media
+::: media
 ![](/images/lekt3104.webp)
 Fig.: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
 Rāhula, der Sohn Buddhas, Laos.
@@ -210,7 +214,7 @@ B) Formați pentru următoarele rădăcini din clasa a 7-a toate formele de pers
 
 ⟪५⟫. ⟪भञ्ज्⟫ (doar P)
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt3101:** Reprezentare Yoga. [Sursa imaginii: Flickr, 2008-12-25. CC BY]
 

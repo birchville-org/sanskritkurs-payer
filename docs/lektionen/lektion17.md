@@ -13,7 +13,7 @@ status: stable
 
 Die Verbalendungen treten direkt an die Wurzel. Dabei sind die aus dem Wortsandhi resultierenden Lautveränderungen zu beachten.
 
-:::grammar-box
+::: grammar-box
 
 Es gibt folgende Bildungsformen in der zweiten Präsensklasse:
 
@@ -33,9 +33,7 @@ Beispiele:
 *   starker Präsensstamm: dveṣ-
 *   schwacher Präsensstamm: dviṣ-
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -44,10 +42,10 @@ Beispiele:
 | 3\. sg. Präs. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
 | 3\. pl. Präs. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
-::::::
+:::
 Hierbei wirkt folgendes Wortsandhigesetz:
 
-:::grammar-box
+::: grammar-box
 Wortsandhi von -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
@@ -61,9 +59,7 @@ Weitere Beispiele:
     *   vor Konsonant: i-
     *   vor Vokal: y-/iy-
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -72,15 +68,13 @@ Weitere Beispiele:
 | 3\. sg. Präs. Ā | ⟪इते⟫ (i-te) |
 | 3\. pl. Präs. Ā | ⟪इयते⟫ (iy-ate) |
 
-::::::
+:::
 ⟪दुह्⟫ 2 U "melken"
 
 *   starker Präsensstamm: doh-
 *   schwacher Präsensstamm: duh-
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -89,7 +83,7 @@ Weitere Beispiele:
 | 3\. sg. Präs. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
 | 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
 
-::::::
+:::
 ⟪हन्⟫ 2 P "schlagen, erschlagen, töten"
 
 *   starker Präsensstamm: han-
@@ -97,9 +91,7 @@ Weitere Beispiele:
     *   vor Konsonant: ha- (« \*hn-)
     *   vor Vokal: ghn-/han-
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -108,22 +100,20 @@ Weitere Beispiele:
 | 3\. sg. Präs. Ā | ⟪हते⟫ (ha-te) |
 | 3\. pl. Präs. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
-::::::
+:::
 ⟪अस्⟫ 2 P "sein"
 
 *   starker Präsensstamm: as-
 *   schwacher Präsensstamm: s-
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अस्ति⟫ (as-ti) |
 | 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) |
 
-::::::
+:::
 ## 17.3. Wurzeln der zweiten Präsensklasse mit Stammabstufung Dehnstufe - Tiefstufe
 
 Beispiel:
@@ -135,9 +125,7 @@ Beispiel:
     *   vor Konsonant: stu-
     *   vor Vokal: stuv-
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -146,66 +134,58 @@ Beispiel:
 | 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
 | 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
-::::::
+:::
 ## 17.4. Wurzeln der zweiten Präsensklasse ohne Stammabstufung
 
-:::grammar-box
+::: grammar-box
 Ohne Stammabstufung sind Wurzeln der zweiten Präsensklasse auf -ā
 :::
 Beispiel:
 
 ⟪पा⟫  2 P "schützen, behüten, hüten"
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
 | 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
-::::::
+:::
 Auch einige andere Wurzeln der zweiten Klasse haben keine Stammabstufung:
 
 Beispiele:
 
 ⟪अद्⟫ 2 P "essen"
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
 | 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
 
-::::::
+:::
 ⟪आस्⟫ 2 Ā "sitzen"
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
 | 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
 
-::::::
+:::
 ⟪वच्⟫ 2 P "sagen"
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
 | 3\. pl. Präs. P | kommt nicht vor |
 
-::::::
+:::
 ## 17.5. Zweisilbige Wurzeln auf -i/-ī mit Stammabstufung
 
 Mehrere Wurzeln sind in einer Reihe von Formen zweisilbig, d.h. sie haben vor konsonantischer Endung ein -i (bzw. vor einigen Endungen -ī). Diese Wurzeln werden aber trotzdem von den einheimischen Grammatikern und in Wörterbüchern usw. als einsilbig angesetzt.
@@ -219,16 +199,14 @@ Beispiele:
     *   vor Konsonant: rudi-
     *   vor Vokal: rud-
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
 | 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
 
-::::::
+:::
 ⟪ब्रू⟫ 2 U "sprechen"
 
 *   starker Präsensstamm: bravī- (« bro- + -ī)
@@ -236,9 +214,7 @@ Beispiele:
     *   vor Konsonant: brū-
     *   vor Vokal: bruv-
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
@@ -247,27 +223,27 @@ Beispiele:
 | 3\. sg. Präs. Ā | ⟪ब्रूते⟫ (brū-te) |
 | 3\. pl. Präs. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
-::::::
+:::
 Auch ⟪स्तु⟫ 2 U "preisen" hat neben den unter 3. angegebenen Formen Formen nach diesem Muster:
 
-:::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
 | 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
-::::::
+:::
 ## 17.6. Wortliste
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : schlagen, erschlagen, töten
 
 davon:
 
-:::indent
+::: indent
 ⟪घात⟫ m.: Tötung
-::::::media
+:::
+
+::: media
 ![](/images/lekt1703.webp)
 Abb.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
@@ -277,9 +253,11 @@ Bangalore = ಬೆಂಗಳೂರು
 
 davon:
 
-:::indent
+::: indent
 ⟪आसन⟫ n.: das Sitzen, Sitz ; auch: Sitzpositionen des Yogin
-::::::media
+:::
+
+::: media
 ![](/images/lekt1701.webp)
 Abb.: ⟪योगासनम्⟫
 (Bildquelle: [Details](/licenses#lekt1701))
@@ -288,14 +266,14 @@ Abb.: ⟪योगासनम्⟫
 
 davon:
 
-:::indent
+::: indent
 ⟪रुद्र⟫ m.: (der Heuler =) der Sturmgott Rudra
 :::
 ⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ kein Passiv und PPP: sprechen, sagen (etwas zu jemandem: doppelter Akkusativ)
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : melken
 
-:::media
+::: media
 ![](/images/lekt1702.webp)
 Abb.: ⟪दोग्धि⟫
 (Bildquelle: [Details](/licenses#lekt1702))
@@ -304,11 +282,12 @@ Abb.: ⟪दोग्धि⟫
 
 davon:
 
-:::indent
+::: indent
 ⟪दिष्टि⟫ f.: Anweisung, glückliche Fügung
 
 ⟪दिष्ट्या⟫ Instr.: (wörtl.: durch eine glückliche Fügung) O glückliche Fügung (Ausruf der Freude und Beglückung)
 :::
+
 ## 17.7. Übung 1
 
 A) Setzen Sie in folgenden Sätzen das Verb ein und übersetzen Sie:
@@ -431,7 +410,7 @@ B) Setzen Sie in den in A) gebildeten Sätzen Agens und Verb in den Plural
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt1701:** [Bildquelle: von tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Zugriff am 2008-12-07. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)]
 

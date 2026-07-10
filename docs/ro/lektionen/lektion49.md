@@ -15,7 +15,7 @@ status: stable
 
 ⟪युज्⟫ 7U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -25,7 +25,7 @@ status: stable
 :::
 ⟪रुध्⟫ 7U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -35,12 +35,12 @@ status: stable
 :::
 ### 49.1.2. A cincea clasă de prezenta (⟪स्वादि⟫)
 
-:::grammar-box
+::: grammar-box
 Imperativul la persoana a II-a singular este fără desinență pentru rădăcinile din clasa a cincea și a opta, când sufixul final -u este precedat doar de o consoană.
 :::
 ⟪सु⟫ 5U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -50,7 +50,7 @@ Imperativul la persoana a II-a singular este fără desinență pentru rădăcin
 :::
 ⟪आप्⟫ 5P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -62,7 +62,7 @@ Imperativul la persoana a II-a singular este fără desinență pentru rădăcin
 
 ⟪तन्⟫ 8U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -72,7 +72,7 @@ Imperativul la persoana a II-a singular este fără desinență pentru rădăcin
 :::
 ⟪कृ⟫ 8U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -84,19 +84,20 @@ Imperativul la persoana a II-a singular este fără desinență pentru rădăcin
 
 ⟪क्री⟫ 9U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | **Persoana 1**:br⟪तृतीयः⟫ | ⟪क्रीणानि⟫:brkrī-ṇā + āni | ⟪क्रीणाम⟫ | ⟪क्रीणै⟫:brkrī-ṇā + ai | ⟪क्रीणामहै⟫ |
 | **Persoana 2**:br⟪मध्यमः⟫ | ⟪क्रीणीहि⟫ | ⟪क्रीणीत⟫ | ⟪क्रीणीष्व⟫ | ⟪क्रीणीध्वम्⟫ |
 | **Persoana 3**:br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
-::::::grammar-box
+:::
+::: grammar-box
 Rădăcinile celei de-a 9-a clase, care se termină într-o consoană, înlocuiesc finalul -nī-hi al imperativului de persoana a 2-a singular cu -āna
 :::
 ⟪ग्रह्⟫ 9U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -108,7 +109,7 @@ Rădăcinile celei de-a 9-a clase, care se termină într-o consoană, înlocuie
 
 #### Neutre (⟪नपुंसक⟫)
 
-:::grammar-box
+::: grammar-box
 | | **⟪मनस्⟫ n.**:br"gând" | **⟪हविस्⟫ n.**:br"ofrandă" | **⟪चक्षुस्⟫ n.**:br"ochi" |
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | | | |
@@ -130,21 +131,24 @@ Rădăcinile celei de-a 9-a clase, care se termină într-o consoană, înlocuie
 
 Majoritatea cazurilor sunt **⟪बहुव्रीहि⟫** cu o stemă în -s (neutru original) în al doilea element.
 
-:::grammar-box
+::: grammar-box
 | | **⟪सुमनस्⟫ 3**:br"cu gândire bună, binevoitor" | **⟪दीर्घायुस्⟫ 3**:br"longeviv" |
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | | |
 | **⟪प्रथम⟫** | ⟪सुमनास्⟫ | ⟪दीर्घायुस्⟫ |
 | **⟪द्विटिया⟫** | ⟪सुमनसम्⟫ | ⟪दीर्घायुषम्⟫ |
 | **⟪आमन्त्रितम्⟫** | ⟪सुमनस्⟫ | ⟪दीर्घायुस्⟫ |
-::::::indent
+:::: indent
 Celelalte cazuri ale singularului ca Neutru
-::::::grammar-box
+::::
+:::
+::: grammar-box
 | | **⟪सुमनस्⟫ 3** | **⟪दीर्घायुस्⟫ 3** |
 | :---: | :---: | :---: | :---: |
 | **⟪बहुवचनम्⟫** | | |
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसस्⟫ | ⟪दीर्घायुषस्⟫ |
-::::::indent
+:::
+::: indent
 Celelalte cazuri ale pluralului ca Neutru
 :::
 ## 49.3. Formarea substantivelor: sufixul ⟪कृत्⟫ -as Neutru
@@ -155,7 +159,7 @@ Vocala scurtă a rădăcinii înainte de un singur consoană, precum și vocala 
 
 Exemple:
 
-:::grammar-box
+::: grammar-box
 | Rădăcină | Substantiv cu -as |
 | --- | --- |
 | ⟪मन्⟫ 4Ā "a gândi" | ⟪मनस्⟫ n. "Gândire, gând, organ de gândire" |
@@ -164,7 +168,7 @@ Exemple:
 :::
 Substantivele cu -is și -us sunt relativ rare.
 
-:::media
+::: media
 ![](/images/lekt4907.webp)
 Fig.: ⟪नमस्ते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4907))
@@ -177,19 +181,20 @@ Fig.: ⟪नमस्ते⟫
 
 ⟪आयुस्⟫ n.: durată de viață (durata completă de viață pe care o poți trăi, dacă nu intervine nimic) ;
 
-::::indent
+::: indent
 din care:
 
 ⟪आयुर्वेद⟫ m.: sistemul medical tradițional al Indiei
 
 vezi:
 
-:::indent
-**Carakasaṃhitā:** Texte selectate din Carakasaṃhitā / traduse și comentate de Alois Payer &lt;1944 - &gt;. -- 0. Introducere. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
-:::::::
+:::
+::: indent
+**Carakasaṃhitā:** Texte selectate din Carakasaṃhitā / traduse și comentate de Alois Payer \<1944 - \>. -- 0. Introducere. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+:::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : a arunca, a proiecta
 
-:::indent
+::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
 Fut. ⟪क्षेप्स्यति⟫
 Pass. ⟪क्षिप्यते⟫
@@ -201,7 +206,7 @@ Gerundiv: ⟪क्षेप्य⟫
 :::
 ⟪त्वर्⟫ 1Ā ⟪त्वरते⟫ : a grăbi, a fugi
 
-:::indent
+::: indent
 Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
@@ -211,7 +216,7 @@ Inf. ⟪त्वरितुम्⟫
 :::
 ⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : a dăuna, a prejudicia
 
-:::indent
+::: indent
 Perf. II ⟪दुद्रोह⟫, ⟪दुद्रुहुर्⟫
 Fut. ⟪द्रोहिष्यति⟫ ⟪।⟫ ⟪ध्रोक्ष्यति⟫
 Pass. ⟪द्रुह्यते⟫
@@ -221,7 +226,7 @@ Inf. ⟪द्रोग्धुम्⟫
 :::
 ⟪कुलूहल⟫ n.: curiozitate, interes
 
-:::media
+::: media
 ![](/images/lekt4901.webp)
 Fig.: ⟪कुलूहलम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4901))
@@ -232,7 +237,7 @@ Fig.: ⟪कुलूहलम्⟫
 
 ⟪कला⟫ f.: artă
 
-:::media
+::: media
 ![](/images/lekt4902.webp)
 Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, sec. al XI-lea
@@ -244,14 +249,14 @@ Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 
 ⟪विहंग⟫ m.: pasăre ("în aerul ⟪स्⟫visător - ⟪विह⟫ - mergând")
 
-:::media
+::: media
 ![](/images/lekt4903.jpg)
 Fig.: ⟪विहंगः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4903))
 :::
 ⟪वेष⟫ m.: haină, aspect, înfățișare exterioară
 
-:::media
+::: media
 ![](/images/lekt4904.webp)
 Fig.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
@@ -261,7 +266,7 @@ Fig.: ⟪वेषः⟫
 
 ⟪पञ्जर⟫ n.: cușcă
 
-:::media
+::: media
 ![](/images/lekt4909.webp)
 Fig.: ⟪पञ्जरम्⟫
 Văzător cu papagal în cușcă: papagalul scoate bilețele pe care este scris destinul Mysore
@@ -277,7 +282,7 @@ Văzător cu papagal în cușcă: papagalul scoate bilețele pe care este scris 
 
 ⟪ध्यै⟫ 1P ⟪ध्यायति⟫ : a-și imagina, a gândi
 
-:::indent
+::: indent
 Perf. IV ⟪दध्यौ⟫
 Fut. ⟪ध्यास्यति⟫
 Pass. ⟪ध्यायते⟫
@@ -288,7 +293,7 @@ Gerundiv ⟪ध्येय⟫
 :::
 ⟪आदर⟫ m.: considerație, atenție, respect
 
-:::media
+::: media
 ![](/images/lekt4905.webp)
 Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
@@ -300,7 +305,7 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 
 ⟪शिशु⟫ m.: copil, pui
 
-:::media
+::: media
 ![](/images/lekt4906.webp)
 Fig.: ⟪गजशिशुः⟫
 Sri Lanka
@@ -360,12 +365,13 @@ Determinați următoarele forme:
 
 ⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/lekt4908.webp)
 Fig.: ⟪शुकः⟫
 Papagal cu cap de prună = Psittacula cyanocephala
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4908))
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt4907:** [Sursa imaginii: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Accesat la 2009-01-10. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, utilizare non-comercială, share alike)]
 

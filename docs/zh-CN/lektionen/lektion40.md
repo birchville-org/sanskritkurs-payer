@@ -1,644 +1,656 @@
 ---
-title: Lektion 40
+title: 第40课
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 40
 
 ## 40.1. ⟪सुभाषितानि⟫
 
-:::indent
+::: indent
 ⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫  
 ⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫  
 ⟪पात्रत्वाद्धनमाप्नोति⟫  
-⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥१॥⟫
 
 ⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫  
 ⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫  
 ⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫  
-⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥२॥⟫
 
 ⟪आचार्यात्पादमादत्ते⟫  
 ⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫  
 ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫  
-⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
-::::::media
+⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥३॥⟫
+:::: media
 ![lekt4005.jpg](/images/lekt4005.webp)
-Abb.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
-(Bildquelle: [Details](/licenses#lekt4005)) <!-- TODO: Fallback translation -->
+图：⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4005)）
+::::
 :::
-## 40.2. Bildung der Verbformen der ersten Person Perfekt (⟪लिट्⟫)
+## 40.2. 第一人称完成时动词形式的构成（⟪लिट्⟫）
 
-Endungen der ersten Person (⟪तृतीयः⟫) im Perfekt (⟪लिट्⟫) <!-- TODO: Fallback translation -->
+第一人称词尾（⟪तृतीयः⟫）在完成时（⟪लिट्⟫）中
 
-::::grammar-box
+::: grammar-box
 
-| **⟪परस्मैपदम्⟫** | ← | **⟪आत्मनेपदम्⟫** | ← | <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | <!-- TODO: Fallback translation -->
-| **-a** | **-ma** | **-e** | **-mahe** | <!-- TODO: Fallback translation -->
+| **⟪परस्मैपदम्⟫** | ← | **⟪आत्मनेपदम्⟫** | ← |
+| :---: | :---: | :---: | :---: |
+| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **-a** | **-ma** | **-e** | **-mahe** |
 
-::::::grammar-box
-Beachten Sie, dass die Endungen der 1. Person Singular P,Ā mit denen der 3. Person Singular identisch sind. Deshalb sind in allen Perfekttypen außer Typ III(a,b) und Typ V(a,b,c) die Formen der 1. Singular P bzw. Ā immer identisch mit denen der 3. Singular P bzw. Ā. <!-- TODO: Fallback translation -->
-
-Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au. <!-- TODO: Fallback translation -->
-
-Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā. <!-- TODO: Fallback translation -->
-
-Bei den Perfekttypen III und V sind die 1. Singular P und die 3. Singular P wahlweise identisch: die 3.sg.P muss bei diesen Bildungstypen immer dehnstufig sein, die 1.sg.P kann wahlweise hochstufig oder dehnstufig sein. <!-- TODO: Fallback translation -->
-::::::grammar-box
-Vor konsonantisch anlautende Endungen tritt bei der Mehrzahl der Wurzeln der Bindevokal -i-. <!-- TODO: Fallback translation -->
-
-Außer vor die Endung -re, vor die immer -i- treten muss, das der Bindevokal vor konsonantisch anlautende Endungen niemals tritt bei acht Wurzeln auf -ṛ bzw. -u, nämlich <!-- TODO: Fallback translation -->
-
-1.  ⟪कृ⟫ 8U (außer ⟪संस्कृ⟫) <!-- TODO: Fallback translation -->
-2.  ⟪भृ⟫ 1U <!-- TODO: Fallback translation -->
-3.  ⟪वृ⟫ 9U "wählen" <!-- TODO: Fallback translation -->
-4.  ⟪सृ⟫ 1P <!-- TODO: Fallback translation -->
-5.  ⟪द्रु⟫ 1p "rennen" <!-- TODO: Fallback translation -->
-6.  ⟪श्रु⟫ 5P <!-- TODO: Fallback translation -->
-7.  ⟪स्तु⟫ 2U <!-- TODO: Fallback translation -->
-8.  ⟪स्रु⟫ 1P "fließen" <!-- TODO: Fallback translation -->
-
-Bei sog. fakultativen ⟪अनिट्⟫-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3) <!-- TODO: Fallback translation -->
 :::
-### 40.2.1. Perfekt Typ I: keine Stammabstufung
+::: grammar-box
+请注意，第一人称单数 P,Ā 的词尾与第三人称单数相同。因此，在所有除类型 III(a,b) 和类型 V(a,b,c) 之外的完成时类型中，第一人称单数 P 或 Ā 的形式始终与第三人称单数 P 或 Ā 的形式完全相同。
 
-1.sg. = 3.sg. <!-- TODO: Fallback translation -->
+在第四类中，第一人称单数现在时与第三人称单数现在时一样，以 -au 结尾。
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+在第三类和第五类完成时中，第一人称单数Ā形式与第三人称单数Ā形式完全相同。
 
-*   Konsonant-Langvokal-Konsonant <!-- TODO: Fallback translation -->
-*   Konsonant-Vokal-Konsonant-Konsonant <!-- TODO: Fallback translation -->
-*   a-Konsonant(-Konsonant) <!-- TODO: Fallback translation -->
-*   ā-Konsonant <!-- TODO: Fallback translation -->
-
-⟪बन्ध्⟫ 9P <!-- TODO: Fallback translation -->
-
-:::indent
-*   1.sg.P ⟪बबन्ध⟫ <!-- TODO: Fallback translation -->
-*   1.pl.P ⟪बबन्धिम⟫ <!-- TODO: Fallback translation -->
+在第三类和第五类完成时中，第一人称单数 P 和第三人称单数 P 可选地相同：在这两种构成类型中，第三人称单数 P 必须始终是长元音级，而第一人称单数 P 可以是高元音级或长元音级。
 :::
-⟪जीव्⟫ 1P <!-- TODO: Fallback translation -->
+::: grammar-box
+在大多数词根中，在辅音开头的词尾之前会出现连接元音 -i-。
 
-:::indent
-*   1.sg.P ⟪जिजीव⟫ <!-- TODO: Fallback translation -->
-*   1.pl.P ⟪जिजिविम⟫ <!-- TODO: Fallback translation -->
+除了后缀 -re 之外，必须始终出现 -i-，该连接元音从不出现在以辅音开头的后缀之前，适用于八个以 -ṛ 或 -u 结尾的词根，即
+
+1.  ⟪कृ⟫ 8U (außer ⟪संस्कृ⟫)
+2.  ⟪भृ⟫ 1U
+3.  ⟪वृ⟫ 9U "wählen"
+4.  ⟪सृ⟫ 1P
+5.  ⟪द्रु⟫ 1p "rennen"
+6.  ⟪श्रु⟫ 5P
+7.  ⟪स्तु⟫ 2U
+8.  ⟪स्रु⟫ 1P "fließen"
+
+对于所谓的可选性⟪अनिट्⟫词根，连接元音可以插入也可以不插入。（这些词根的列举见Kielhorn《语法》第92页§298b,2,3）
 :::
-⟪अश्⟫ 5Ā <!-- TODO: Fallback translation -->
+### 40.2.1. 第一类完成时：无词干变格
 
-:::indent
-*   1.sg.Ā ⟪आनशे⟫ <!-- TODO: Fallback translation -->
-*   1.pl.Ā ⟪आनशिमहे⟫ <!-- TODO: Fallback translation -->
+单数第一人称 = 单数第三人称
+
+遵循此类型的动词：
+
+*   辅音-长元音-辅音
+*   辅音-元音-辅音-辅音
+*   a-辅音(-辅音)
+*   ā-Konsonant
+
+⟪बन्ध्⟫ 9P
+
+::: indent
+*   1.sg.P ⟪बबन्ध⟫
+*   1.pl.P ⟪बबन्धिम⟫
 :::
-⟪अस्⟫ 2P und ⟪अस्⟫ 4P <!-- TODO: Fallback translation -->
+⟪जीव्⟫ 第一人称
 
-:::indent
-*   1.sg.P ⟪आस⟫ <!-- TODO: Fallback translation -->
-*   1.pl.P ⟪आसिम⟫ (a + as-i-ma) <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪जिजीव⟫
+*   1.pl.P ⟪जिजिविम⟫
+:::
+⟪अश्⟫ 5Ā
+
+::: indent
+*   1.sg.Ā ⟪आनशे⟫
+*   1.pl.Ā ⟪आनशिमहे⟫
+:::
+⟪अस्⟫ 2P und ⟪अस्⟫ 4P
+
+::: indent
+*   1.sg.P ⟪आस⟫
+*   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
 :::
 ### 40.2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+遵循此类型的动词：
 
-*   (Konsonant-)i/u/ṛ/ḷ-Konsonant <!-- TODO: Fallback translation -->
+*   (辅音)i/u/ṛ/ḷ-辅音
 
-⟪भिद्⟫ 7U <!-- TODO: Fallback translation -->
+⟪भिद्⟫ 7U
 
-:::indent
-*   1.sg.P ⟪बिभेद⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪बिभेद⟫
 
-*   1.pl.P ⟪बिभिदिम⟫ <!-- TODO: Fallback translation -->
+*   1.复数格 ⟪बिभिदिम⟫
 
-*   1.sg.Ā ⟪बिभिदे⟫ <!-- TODO: Fallback translation -->
+*   1.sg.Ā ⟪बिभिदे⟫
 
-*   1.pl.Ā ⟪बिभिदिमहे⟫ <!-- TODO: Fallback translation -->
+*   1.复数.Ā ⟪बिभिदिमहे⟫
 :::
-⟪मुह्⟫ 4P fakultativ ⟪अनिट्⟫ <!-- TODO: Fallback translation -->
+⟪मुह्⟫ 4P 可选 ⟪अनिट्⟫
 
-:::indent
-*   1.sg.P ⟪मुमोह⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪मुमोह⟫
 
-*   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫ <!-- TODO: Fallback translation -->
+*   1.复数。⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
 :::
-### 40.2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 40.2.3. 第三类完成时：强词干的高音级/长音级
 
-1.sg.P wahlweise hochstufig oder dehnstufig <!-- TODO: Fallback translation -->
+第一人称单数。词干可选高一级或长音级。
 
-#### 40.2.3.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
+#### 40.2.3.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+遵循此类型的动词：
 
-*   (Konsonant-)(Konsonant-)i/ī/u/ū <!-- TODO: Fallback translation -->
-*   (Konsonant-)-ṛ <!-- TODO: Fallback translation -->
+*   (Konsonant-)(Konsonant-)i/ī/u/ū
+*   (Konsonant-)-ṛ
 
-⟪इ⟫ 2P <!-- TODO: Fallback translation -->
+⟪इ⟫ 2P
 
-:::indent
-*   1.sg.P ⟪इयाय⟫ ⟪।⟫ ⟪इयय⟫ (i+e+a) <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪इयाय⟫ ⟪।⟫ ⟪इयय⟫ (i+e+a)
 
-*   1.pl.P ⟪ईयिम⟫ (i+iy+i+ma) <!-- TODO: Fallback translation -->
+*   1.复数宾格 ⟪ईयिम⟫ (i+iy+i+ma)
 :::
-⟪नी⟫ 1U <!-- TODO: Fallback translation -->
+⟪नी⟫ 1U
 
-:::indent
-*   1.sg.P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫
 
-*   1.pl.P ⟪निन्यिम⟫ (ni-nī + i + ma !!!) <!-- TODO: Fallback translation -->
+*   1.pl.P ⟪निन्यिम⟫ (ni-nī + i + ma !!!)
 
-*   1.sg.Ā ⟪निन्ये⟫ <!-- TODO: Fallback translation -->
+*   1.sg.Ā ⟪निन्ये⟫
 
-*   1.pl.Ā ⟪निन्यिमहे⟫ <!-- TODO: Fallback translation -->
+*   1.复数.Ā ⟪निन्यिमहे⟫
 :::
-⟪स्तु⟫ 2U strikt ⟪अनिट्⟫ <!-- TODO: Fallback translation -->
+⟪स्तु⟫ 2U 严格 ⟪अनिट्⟫
 
-:::indent
-*   1.sg.P ⟪तुष्टाव⟫ ⟪।⟫ ⟪तुष्टव⟫ (tu-sto + a) <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪तुष्टाव⟫ ⟪।⟫ ⟪तुष्टव⟫ (tu-sto + a)
 
-*   1.pl.P ⟪तुष्टुम⟫ <!-- TODO: Fallback translation -->
+*   1.pl.P ⟪तुष्टुम⟫
 
-*   1.sg.Ā ⟪तुष्टुवे⟫ <!-- TODO: Fallback translation -->
+*   1.sg.Ā ⟪तुष्टुवे⟫
 
-*   1.pl.Ā ⟪तुष्टुमहे⟫ <!-- TODO: Fallback translation -->
+*   1.复数.Ā ⟪तुष्टुमहे⟫
 :::
-⟪कृ⟫ 8U strikt ⟪अनिट्⟫ <!-- TODO: Fallback translation -->
+⟪कृ⟫ 8U 严格 ⟪अनिट्⟫
 
-:::indent
-*   1.sg.P ⟪चकार⟫ ⟪।⟫ ⟪चकर⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪चकार⟫ ⟪।⟫ ⟪चकर⟫
 
-*   1.pl.P ⟪चकृम⟫ <!-- TODO: Fallback translation -->
+*   1.复数格 ⟪चकृम⟫
 
-*   1.sg.Ā ⟪चक्रे⟫ <!-- TODO: Fallback translation -->
+*   1.sg.Ā ⟪चक्रे⟫
 
-*   1.pl.Ā ⟪चकृमहे⟫ <!-- TODO: Fallback translation -->
+*   1.复数.Ā ⟪चकृमहे⟫
 :::
-#### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
+#### 40.2.3.2. 第三类b型完成时：强干高长音级/长音级，弱干高长音级
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+动词，遵循此类型的：
 
-*   (Konsonant-)(Konsonant-)-ṝ <!-- TODO: Fallback translation -->
-*   Konsonant-Konsonant-ṛ <!-- TODO: Fallback translation -->
+*   (Konsonant-)(Konsonant-)-ṝ
+*   Konsonant-Konsonant-ṛ
 
-⟪पॄ⟫ 3P <!-- TODO: Fallback translation -->
+⟪पॄ⟫ 第三人称
 
-:::indent
-*   1.sg.P ⟪पपार⟫ ⟪।⟫ ⟪पपर⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪पपार⟫ ⟪।⟫ ⟪पपर⟫
 
-*   1.pl.P ⟪पपरिम⟫ <!-- TODO: Fallback translation -->
+*   1.复数.主格 ⟪पपरिम⟫
 :::
-⟪स्मृ⟫ 1P <!-- TODO: Fallback translation -->
+⟪स्मृ⟫ 1人称单数
 
-:::indent
-*   1.sg.P ⟪सस्मार⟫ ⟪।⟫ ⟪सस्मर⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪सस्मार⟫ ⟪।⟫ ⟪सस्मर⟫
 
-*   1.pl.P ⟪सस्मरिम⟫ <!-- TODO: Fallback translation -->
+*   1.复数格 ⟪सस्मरिम⟫
 :::
-⟪संस्कृ⟫ 8U <!-- TODO: Fallback translation -->
+⟪संस्कृ⟫ 8U
 
-:::indent
-*   1.sg.P ⟪सञ्चस्कार⟫ ⟪।⟫ ⟪सञ्चस्कर⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪सञ्चस्कार⟫ ⟪।⟫ ⟪सञ्चस्कर⟫
 
-*   1.pl.P ⟪सञ्चस्करिम⟫ <!-- TODO: Fallback translation -->
+*   1.复数格 ⟪सञ्चस्करिम⟫
 
-*   1.sg.Ā ⟪सञ्चस्करे⟫ <!-- TODO: Fallback translation -->
+*   1.sg.Ā ⟪सञ्चस्करे⟫
 
-*   1.pl.Ā ⟪सञ्चस्करिमहे⟫ <!-- TODO: Fallback translation -->
+*   1.复数.Ā ⟪सञ्चस्करिमहे⟫
 :::
-### 40.2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 40.2.4. 第四类完成时：以 -ā / -ai 结尾的词根
 
-*   Starker Stamm: <!-- TODO: Fallback translation -->
-    *   1.,3. sg. Parasamaip.: -au <!-- TODO: Fallback translation -->
-*   Schwacher Stamm: <!-- TODO: Fallback translation -->
-    *   vor Konsonant: Tiefstufe-i <!-- TODO: Fallback translation -->
-    *   vor Vokal: Tiefstufe-ø <!-- TODO: Fallback translation -->
+*   Starker Stamm:
+    *   1.,3. sg. Parasamaip.: -au
+*   Schwacher Stamm:
+    *   vor Konsonant: Tiefstufe-i
+    *   vor Vokal: Tiefstufe-ø
 
-⟪दा⟫ 3U <!-- TODO: Fallback translation -->
+⟪दा⟫ 3U
 
-:::indent
-*   1.sg.P ⟪ददौ⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪ददौ⟫
 
-*   1.pl.P ⟪ददिम⟫ (da-d-i-ma) <!-- TODO: Fallback translation -->
+*   1.复数格 ⟪ददिम⟫ (da-d-i-ma)
 
-*   1.sg.Ā ⟪ददे⟫ <!-- TODO: Fallback translation -->
+*   1.sg.Ā ⟪ददे⟫
 
-*   1.pl.Ā ⟪ददिमहे⟫ <!-- TODO: Fallback translation -->
+*   1.复数.Ā ⟪ददिमहे⟫
 :::
-### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
+### 40.2.5. 第五类完成时：辅音-a-辅音
 
-1.sg.P. wahlweise hochstufig oder dehnstufig <!-- TODO: Fallback translation -->
+第一人称单数祈愿式：可选择高根音变位或长根音变位
 
-#### 40.2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
+#### 40.2.5.1. 完美式类型 Va：辅音-a-辅音，弱词根深阶
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+遵循此类型的动词：
 
-:::indent
-1.  gam "gehen" <!-- TODO: Fallback translation -->
-2.  han (»ghan) "erschlagen" <!-- TODO: Fallback translation -->
-3.  jan "geboren werden" <!-- TODO: Fallback translation -->
-4.  vac "sprechen" <!-- TODO: Fallback translation -->
-5.  vad "sprechen" <!-- TODO: Fallback translation -->
-6.  yaj "opfern" <!-- TODO: Fallback translation -->
-7.  u.a. <!-- TODO: Fallback translation -->
+::: indent
+1.  gam “走”
+2.  han（“ghan”）“打死”
+3.  jan “出生”
+4.  vac “说话”
+5.  vad “说话”
+6.  yaj “祭祀”
+7.  等
 :::
-⟪गम्⟫ 1P <!-- TODO: Fallback translation -->
+⟪गम्⟫ 第一人称
 
-:::indent
-*   1.sg.P ⟪जगाम⟫ ⟪।⟫ ⟪जगम⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪जगाम⟫ ⟪।⟫ ⟪जगम⟫
 
-*   1.pl.P ⟪जग्मिम⟫ (ja-gm-i-ma) <!-- TODO: Fallback translation -->
+*   1.复数主格 ⟪जग्मिम⟫ (ja-gm-i-ma)
 :::
-⟪हन्⟫ 2P <!-- TODO: Fallback translation -->
+⟪हन्⟫ 2人称
 
-:::indent
-*   1.sg.P ⟪जघान⟫ ⟪।⟫ ⟪जघन⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪जघान⟫ ⟪।⟫ ⟪जघन⟫
 
-*   1.pl.P ⟪जघ्निम⟫ <!-- TODO: Fallback translation -->
+*   1.复数格 ⟪जघ्निम⟫
 :::
-⟪जन्⟫ 4Ā <!-- TODO: Fallback translation -->
+⟪जन्⟫ 4Ā
 
-:::indent
-*   1.sg.Ā ⟪जज्ञे⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.Ā ⟪जज्ञे⟫
 
-*   1.pl.Ā ⟪जज्ञिमहे⟫ <!-- TODO: Fallback translation -->
+*   1.复数.Ā ⟪जज्ञिमहे⟫
 :::
-⟪वच्⟫ 2P <!-- TODO: Fallback translation -->
+⟪वच्⟫ 2人
 
-:::indent
-*   1.sg.P ⟪उवाच⟫ ⟪।⟫ ⟪उवच⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪उवाच⟫ ⟪।⟫ ⟪उवच⟫
 
-*   1.pl.P ⟪ऊचिम⟫ (u + uc-ima) <!-- TODO: Fallback translation -->
+*   1.复数宾格 ⟪ऊचिम⟫ (u + uc-ima)
 :::
-⟪वद्⟫ 1P (Ā) <!-- TODO: Fallback translation -->
+⟪वद्⟫ 第一人称单数（Ā）
 
-:::indent
-*   1.sg.P ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫
 
-*   1.pl.P ⟪ऊदिम⟫ <!-- TODO: Fallback translation -->
+*   1.复数格 ⟪ऊदिम⟫
 
-*   1.sg.Ā ⟪ऊदे⟫ <!-- TODO: Fallback translation -->
+*   1.sg.Ā ⟪ऊदे⟫
 
-*   1.pl.Ā  ⟪ऊदिमहे⟫ <!-- TODO: Fallback translation -->
+*   1.复数.Ā  ⟪ऊदिमहे⟫
 :::
-⟪यज्⟫ 1U <!-- TODO: Fallback translation -->
+⟪यज्⟫ 1U
 
-:::indent
-*   1.sg.P ⟪इयाज⟫ ⟪।⟫ ⟪इयज⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪इयाज⟫ ⟪।⟫ ⟪इयज⟫
 
-*   1.pl.P ⟪ईजिम⟫ <!-- TODO: Fallback translation -->
+*   1.复数格 ⟪ईजिम⟫
 
-*   1.sg.Ā ⟪ईजे⟫ <!-- TODO: Fallback translation -->
+*   1.sg.Ā ⟪ईजे⟫
 
-*   1.pl.Ā ⟪ईजिमहे⟫ <!-- TODO: Fallback translation -->
+*   1.复数.Ā ⟪ईजिमहे⟫
 :::
-#### 40.2.5.2. Perfekt Typ Vb: Konsonant-a-Konsonant, Anfangskonsonant kein Guttural, Aspirat, h, Schwacher Stamm ohne Reduplikation, mit -e- <!-- TODO: Fallback translation -->
+#### 40.2.5.2. 第五类b式完成时：辅音-a-辅音，首辅音非软腭音、非送气音、非h，弱干无重音，带-e-
 
-⟪पच्⟫ 1U <!-- TODO: Fallback translation -->
+⟪पच्⟫ 1U
 
-:::indent
-*   1.sg.P ⟪पपाच⟫ ⟪।⟫ ⟪पपच⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪पपाच⟫ ⟪।⟫ ⟪पपच⟫
 
-*   1.pl.P ⟪पेचिम⟫ <!-- TODO: Fallback translation -->
+*   1.复数格 ⟪पेचिम⟫
 
-*   1.sg.Ā ⟪पेचे⟫ <!-- TODO: Fallback translation -->
+*   1.sg.Ā ⟪पेचे⟫
 
-*   1.pl.Ā ⟪पेचिमहे⟫ <!-- TODO: Fallback translation -->
+*   1.复数.Ā ⟪पेचिमहे⟫
 :::
-#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
+#### 40.2.5.3. 完成时类型 Vc：辅音-a-辅音，弱词干强级
 
-Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
+动词，遵循此类型的：
 
-*   Alle übrigen Wurzeln mit mittlerem -a- <!-- TODO: Fallback translation -->
+*   其余带有中元音 -a- 的词根
 
-⟪क्रम्⟫ 1U <!-- TODO: Fallback translation -->
+⟪क्रम्⟫ 1U
 
-:::indent
-*   1.sg.P ⟪चक्राम⟫ ⟪।⟫ ⟪चक्रम⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪चक्राम⟫ ⟪।⟫ ⟪चक्रम⟫
 
-*   1.pl.P ⟪चक्रमिम⟫ <!-- TODO: Fallback translation -->
+*   1.复数格 ⟪चक्रमिम⟫
 
-*   1.sg.Ā ⟪चक्रमे⟫ <!-- TODO: Fallback translation -->
+*   1.sg.Ā ⟪चक्रमे⟫
 
-*   1.pl.Ā ⟪चक्रमिमहे⟫ <!-- TODO: Fallback translation -->
+*   1.复数.Ā ⟪चक्रमिमहे⟫
 :::
-### 40.2.6. Besondere Perfekt-Bildungen
+### 40.2.6. 特殊的完成时变位
 
-⟪विद्⟫ 2P präsentisches Perfekt: <!-- TODO: Fallback translation -->
+⟪विद्⟫ 第二人称单数现在时完成时：
 
-:::indent
-*   1.sg.P ⟪वेद⟫ (= 3.sg.P) <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪वेद⟫ (= 3.sg.P)
 
-*   1.pl.P ⟪विद्म⟫ <!-- TODO: Fallback translation -->
+*   1.pl.P ⟪विद्म⟫
 :::
-⟪अह्⟫ 1. Person nicht gebräuchlich! <!-- TODO: Fallback translation -->
+⟪अह्⟫ 第一人称不常用！
 
-⟪भू⟫ 1P <!-- TODO: Fallback translation -->
+⟪भू⟫ 1P
 
-:::indent
-*   1.sg.P ⟪बभूव⟫ (= 3.sg.P) <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪बभूव⟫ (= 3.sg.P)
 
-*   1.pl.P ⟪बभूविम⟫ <!-- TODO: Fallback translation -->
+*   1.复数.主格 ⟪बभूविम⟫
 :::
-⟪जि⟫ 1P <!-- TODO: Fallback translation -->
+⟪जि⟫ 1人称单数
 
-:::indent
-*   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
 
-*   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !) <!-- TODO: Fallback translation -->
+*   1复数宾格 ⟪जिग्यिम⟫ (ji-gi + i + ma !)
 :::
-## 40.3. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 40.3. 第一人称迂回完成时动词形式的构成 (⟪अनुप्रयोगलिट्⟫)
 
-Das periphrastische Perfekt wird gebildet von: <!-- TODO: Fallback translation -->
+迂回完成时由以下部分构成：
 
-*   abgeleiteten Verbalstämme (Kausativ, Desiderativ, Frequentativ, Denominativa), insbesondere Kausativ <!-- TODO: Fallback translation -->
-*   Wurzeln, die mit langem Vokal (außer ā) beginnen <!-- TODO: Fallback translation -->
-*   Wurzeln: Vokal (außer a-)-Konsonant-Konsonant <!-- TODO: Fallback translation -->
-*   einigen anderen <!-- TODO: Fallback translation -->
-*   bei einigen Wurzeln können beide Perfekte optionell gebildet werden: uṣ "brennen", vid "wissen", jāgṛ "wachen", daridrā "arm sein" <!-- TODO: Fallback translation -->
-*   bei folgende Wurzeln  können beide Perfekte optionell gebildet werden und auch das periphrastische Perfekt ist redupliziert, und zwar mit der Reduplikationssilbe des Präsensstamms: <!-- TODO: Fallback translation -->
-    *   bhī "sich fürchten" <!-- TODO: Fallback translation -->
-    *   bhṛ "tragen" <!-- TODO: Fallback translation -->
-    *   hu "opfern" <!-- TODO: Fallback translation -->
-    *   hrī "sich schämen" <!-- TODO: Fallback translation -->
+*   派生动词词干（使役、欲求、反复、派生词），特别是使役
+*   以长元音（除 ā 外）开头的词根
+*   词根：元音（除 a- 外）-辅音-辅音
+*   其他一些
+*   某些词根可以可选地构成两种完成时：uṣ “燃烧”，vid “知道”，jāgṛ “醒着”，daridrā “贫穷”
+*   以下词根可以可选地构成两种完成时，且迂回完成时也是重叠的，即使用现在词根的重叠音节：
+    *   bhī “害怕”
+    *   bhṛ “携带”
+    *   hu “献祭”
+    *   hrī “羞愧”
 
-⟪ईक्ष्⟫ 1Ā <!-- TODO: Fallback translation -->
+⟪ईक्ष्⟫ 1Ā
 
-:::indent
-*   1.sg.Ā ⟪ईक्षां⟫ ⟪चक्रे⟫ ⟪।⟫ ⟪ईक्षामास⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूव⟫ <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.Ā ⟪ईक्षां⟫ ⟪चक्रे⟫ ⟪।⟫ ⟪ईक्षामास⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूव⟫
 
-*   1.pl.Ā ⟪ईक्षां⟫ ⟪चकृमहे⟫ ⟪।⟫ ⟪ईक्षामासिम⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूविम⟫ <!-- TODO: Fallback translation -->
+*   1.复数.Ā ⟪ईक्षां⟫ ⟪चकृमहे⟫ ⟪।⟫ ⟪ईक्षामासिम⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूविम⟫
 :::
-⟪बन्ध्⟫ Kausativum P: ⟪बन्धयति⟫ <!-- TODO: Fallback translation -->
+⟪बन्ध्⟫ 使役态P: ⟪बन्धयति⟫
 
-:::indent
-*   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P) <!-- TODO: Fallback translation -->
+::: indent
+*   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P)
 
-*   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫ <!-- TODO: Fallback translation -->
+*   1.复数 ⟨बन्धयां⟩ ⟨चकृम⟩ ⟨।⟩ ⟨बन्धयामासिम⟩ ⟨।⟩ ⟨बन्धयां⟩ ⟨बभूविम⟩
 :::
-## 40.4. Syntaktisches zur ersten Person (⟪तृतीयः⟫)
+## 40.4. 关于第一人称的句法（⟪तृतीयः⟫）
 
-:::grammar-box
-Da ein Verbum finitum (konjugiertes Verb) den Agens (⟪कर्तृ⟫) mit ausdrückt, braucht das "ich", "wir" in nicht-passiven Verbalsätzen mit Verbum finitum nicht extra durch ein Personalpronomen ausgedrückt werden <!-- TODO: Fallback translation -->
+::: grammar-box
+由于限定动词（变位动词）表达了施事者（⟪कर्तृ⟫），因此在非被动语态且含有限定动词的句子中，“我”、“我们”无需额外通过人称代词来表达。
 :::
-## 40.5. Personalpronomen (⟪पुरुषार्थकसर्वनाम⟫) der 1. Person Singular und Plural
+## 40.5. 第一人称单数和复数的人称代词（⟪पुरुषार्थकसर्वनाम⟫）
 
-:::grammar-box
-Die Form des Personalpronomens (persönlichen Fürworts) ist für alle Geschlechter dieselbe. <!-- TODO: Fallback translation -->
-:::::::grammar-box
-
-| | **⟪एकवचनम्⟫** :br"ich" | **⟪बहुवचनम्⟫** :br"wir" | <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫** | **⟪अहम्⟫** | **⟪वयम्⟫** | <!-- TODO: Fallback translation -->
-| **⟪द्वितीया⟫** | **⟪माम्⟫** / **⟪मा⟫** | **⟪अस्मान्⟫** / **⟪नस्⟫** | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫** | **⟪मया⟫** | **⟪अस्माभिस्⟫** | <!-- TODO: Fallback translation -->
-| **⟪चतुर्थी⟫** | **⟪मह्यम्⟫** / **⟪मे⟫** | **⟪अस्मभ्यम्⟫** / **⟪नस्⟫** | <!-- TODO: Fallback translation -->
-| **⟪पञ्चमी⟫** | **⟪मत्⟫** | **⟪अस्मत्⟫** | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫** | **⟪मम⟫** / **⟪मे⟫** | **⟪अस्माकम्⟫** / **⟪नस्⟫** | <!-- TODO: Fallback translation -->
-| **⟪सप्तमी⟫** | **⟪मयि⟫** | **⟪अस्मासु⟫** | <!-- TODO: Fallback translation -->
-
-::::::grammar-box
-Die kürzeren Formen, die oben an zweiter Stelle stehen (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫) dürfen nie am Anfang eines Satzes oder Verses gebraucht werden. <!-- TODO: Fallback translation -->
-
-Vor den Partikeln ⟪च⟫, ⟪वा⟫, ⟪एव⟫ dürfen diese sog. enklitischen Formen ebenfalls nicht gebraucht werden: <!-- TODO: Fallback translation -->
-
-nur: ... ⟪मां⟫ ⟪च⟫ ... "und mich" <!-- TODO: Fallback translation -->
-::::::grammar-box
-Der Genetiv (⟪षष्ठी⟫) der Personalpronomina wird als besitzanzeigendes Fürwort verwendet: <!-- TODO: Fallback translation -->
-
-⟪मम⟫ ⟪।⟫ ⟪मे⟫ = "mein" <!-- TODO: Fallback translation -->
-
-⟪अस्माकम्⟫ ⟪।⟫ ⟪नस्⟫ = "unser" <!-- TODO: Fallback translation -->
-::::::grammar-box
-Als Vorderglied von Komposita stehen für diese Pronomina die Stämme: <!-- TODO: Fallback translation -->
-
-*   sg. ⟪मद्⟫ <!-- TODO: Fallback translation -->
-*   pl. ⟪अस्मद्⟫ <!-- TODO: Fallback translation -->
-
-z.B. ⟪मत्पुस्तकम्⟫ "mein Buch" ; ⟪अस्मद्पुस्तकानि⟫ "unsere Bücher" <!-- TODO: Fallback translation -->
+::: grammar-box
+人称代词（人称代词）的形式对所有性别都是相同的。
 :::
-## 40.6. Wortliste
+::: grammar-box
 
-⟪पात्र⟫ n.: Ehrwürdiger, Meister, Würdiger <!-- TODO: Fallback translation -->
+| | **⟪एकवचनम्⟫** :br"我" | **⟪बहुवचनम्⟫** :br"我们" |
+| :---: | :---: | :---: |
+| **⟪प्रथमा⟫** | **⟪अहम्⟫** | **⟪वयम्⟫** |
+| **⟪द्वितीया⟫** | **⟪माम्⟫** / **⟪मा⟫** | **⟪अस्मान्⟫** / **⟪नस्⟫** |
+| **⟪तृतीया⟫** | **⟪मया⟫** | **⟪अस्माभिस्⟫** |
+| **⟪चतुर्थी⟫** | **⟪मह्यम्⟫** / **⟪मे⟫** | **⟪अस्मभ्यम्⟫** / **⟪नस्⟫** |
+| **⟪पञ्चमी⟫** | **⟪मत्⟫** | **⟪अस्मत्⟫** |
+| **⟪षष्ठी⟫** | **⟪मम⟫** / **⟪मे⟫** | **⟪अस्माकम्⟫** / **⟪नस्⟫** |
+| **⟪सप्तमी⟫** | **⟪मयि⟫** | **⟪अस्मासु⟫** |
 
-⟪मेधा⟫ f.: Weisheit, Verstand, Gedanke <!-- TODO: Fallback translation -->
-
-⟪पुस्तक⟫ m.n.: Manuskript, Buch <!-- TODO: Fallback translation -->
-
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : in richtiger Ordnung sein, passen zu (Lok.) ; sich gestalten, sich bilden ; sich entschließen zu, sich bequemen zu (Dativ) <!-- TODO: Fallback translation -->
-
-:::indent
-Perf. II ⟪चकॢपे⟫ fakultativ ⟪अनिट्⟫  
-Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
-Kaus. ⟪कल्पयति⟫ : in Ordnung bringen, schaffen, in der Phantasie bilden, sich einbilden  
-PPP ⟪कॢप्त⟫  
-Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫ <!-- TODO: Fallback translation -->
-
-davon: <!-- TODO: Fallback translation -->
-
-⟪कल्पना⟫ f.: Das Bilden in Gedanken, Annahme von etwas in der Wirklichkeit nicht Existierendem, Fiktion <!-- TODO: Fallback translation -->
 :::
-⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (sich verschieden vorstellen =) in Frage stellen, bezweifeln <!-- TODO: Fallback translation -->
+::: grammar-box
+上面列在第二位的较短形式（⟪मा⟫, ⟪मे⟫, ⟪नस्⟫）绝不可用于句子或诗行的开头。
 
-:::indent
-davon: <!-- TODO: Fallback translation -->
+在 च、वा、एव 这些助词之前，也不得使用这些所谓的附缀形式：
 
-⟪विक्ल्प⟫ m.: Alternative, Zweifel <!-- TODO: Fallback translation -->
+nur: ... ⟪मां⟫ ⟪च⟫ ... “und mich”
 :::
-⟪तुद्⟫ 6U ⟪तुदति⟫ : schlagen <!-- TODO: Fallback translation -->
+::: grammar-box
+Der Genitiv (⟪षष्ठी⟫) der Personalpronomina wird als besitzanzeigendes Fürwort verwendet:
 
-:::indent
-Perf. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
-Fut. ⟪तोत्स्यति⟫  
-Pass. ⟪तुद्यते⟫  
-Kaus. ⟪तोदयति⟫  
-PPP ⟪तुन्न⟫ (tud + na)  
-Inf. ⟪तोत्तुम्⟫ <!-- TODO: Fallback translation -->
+⟪मम⟫ ⟪।⟫ ⟪मे⟫ = “我的”
+
+⟪अस्माकम्⟫ ⟪।⟫ ⟪नस्⟫ = “我们的”
 :::
-⟪तॄ⟫ 1P ⟪तरति⟫ :  hinübergehen, überschreiten, sich retten vor jemandem (Akk. = jemanden überschreiten) <!-- TODO: Fallback translation -->
+::: grammar-box
+作为复合词的前成分，这些代词的词干为：
 
-:::indent
-Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
-Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫  
-Pass. ⟪तीर्यते⟫  
-Kaus. ⟪तारयति⟫  
-PPP ⟪तीर्ण⟫  
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫ <!-- TODO: Fallback translation -->
+*   单数 ⟪मद्⟫
+*   复数 ⟪अस्मद्⟫
 
-davon: <!-- TODO: Fallback translation -->
+例如，⟪मत्पुस्तकम्⟫ “我的书”；⟪अस्मद्पुस्तकानि⟫ “我们的书”
+:::
+## 40.6. 词汇表
 
-⟪तीर्थ⟫ n.: Furt, heiliger Badeplatz, Pilgerort <!-- TODO: Fallback translation -->
-::::::media
+⟪पात्र⟫ n.: 尊敬的，大师，值得尊敬的
+
+⟪मेधा⟫ f.：智慧，理智，思想
+
+⟪पुस्तक⟫ m.n.: 手稿，书籍
+
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ ：处于正确状态，与（离格）相合；形成，构成；决定做，屈就于（与格）
+
+::: indent
+完成时 II ⟪चकॢपे⟩ 可选 ⟪अनिट्⟩  
+将来时 ⟪कल्पिष्यते⟩ ⟪।⟩ ⟪कल्प्स्यते⟩  
+使役 ⟪कल्पयति⟩ ：整理好，创造，在想象中构建，自以为是  
+过去被动分词 ⟪कॢप्त⟩  
+不定词 ⟪कल्पितुम्⟩ ⟪।⟩ ⟪कल्प्तुम्⟩
+
+davon:
+
+⟪कल्पना⟫ f.：思维中的构建，对现实中不存在之物的执取，虚构
+:::
+⟪कॢप्⟫ + ⟪वि⟫ 使役 ⟪विकल्पयति⟫ ：（产生不同的想象 =）质疑，怀疑
+
+::: indent
+其中：
+
+⟪विक्ल्प⟫ m.: 备选方案，疑问
+:::
+⟪तुद्⟫ 6U ⟪तुदति⟫ ：打击
+
+::: indent
+完成时第二人称 ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
+将来时 ⟪तोत्स्यति⟫  
+被动语态 ⟪तुद्यते⟫  
+使役语 ⟪तोदयति⟫
+过去被动分词 (PPP) ⟪तुन्न⟫ (tud + na)
+不定式 ⟪तोत्तुम्⟫
+:::
+⟪तॄ⟫ 第一人称单数 ⟪तरति⟫ : 渡过，跨越，从某人处逃脱（与格 = 跨越某人）
+
+::: indent
+完成时 IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
+将来时 ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫  
+被动语态 ⟪तीर्यते⟫  
+使役语态 ⟪तारयति⟫  
+过去被动分词 ⟪तीर्ण⟫  
+不定词 ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
+
+davon:
+
+⟪तीर्थ⟫ n.: 渡口，神圣沐浴处，朝圣地
+:::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
-(Bildquelle: [Details](/licenses#lekt4003)) <!-- TODO: Fallback translation -->
-::::::indent
-⟪तीर्थङ्कर⟫ m. (aus: ⟪तीर्थम्⟫+ ⟪कृ⟫): Furtmacher (über das Leid hinweg) = die 24 Lehrer der Jaina <!-- TODO: Fallback translation -->
-::::::media
-![lekt4002.jpg](/images/lekt4002.webp)
-Abb.: ⟪तीर्थङ्करः⟫
-(Bildquelle: [Details](/licenses#lekt4002)) <!-- TODO: Fallback translation -->
+图：⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4003)）
+::::
 :::
-⟪अव⟫ Präverb.: herab, hinab, weg, ab- <!-- TODO: Fallback translation -->
+::: indent
+⟪तीर्थङ्कर⟫ m.（源自：⟪तीर्थम्⟫+ ⟪कृ⟫）：渡者（超越苦难者）= 24位耆那教祖师
+:::
+::: media
+![lekt4002.jpg](/images/lekt4002.webp)
+图：⟪तीर्थङ्करः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4002)）
+:::
+⟪अव⟫ 前缀：向下，往下，离开，下-
 
-⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : herabsteigen <!-- TODO: Fallback translation -->
+⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : 下降
 
-:::indent
-davon: <!-- TODO: Fallback translation -->
+::: indent
+其中：
 
-⟪अवतार⟫ m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309) <!-- TODO: Fallback translation -->
-::::::media
+⟪अवतार⟫ m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
+:::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
 Abb.: ⟪विष्णोर्दशावताराः⟫
-(Bildquelle: [Details](/licenses#lekt4001)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/zh-CN/licenses#lekt4001))
+::::
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : schlafen, sich schlafen legen <!-- TODO: Fallback translation -->
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : schlafen, sich schlafen legen
 
-:::indent
-Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
-Perf. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
-Fut. ⟪स्वप्स्यति⟫  
-Pass. ⟪सुप्यते⟫ (aus \*svp-ya-te)  
-Kaus. ⟪स्वापयति⟫  
-PPP ⟪सुप्त⟫  
-Inf. ⟪स्वप्तुम्⟫ <!-- TODO: Fallback translation -->
+::: indent
+未完成时态 ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
+完成时态 ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
+将来时 ⟪स्वप्स्यति⟫  
+被动语态 ⟪सुप्यते⟫（源自 \*svp-ya-te）  
+使役动词 ⟪स्वापयति⟫  
+过去被动分词 ⟪सुप्त⟫  
+不定词 ⟪स्वप्तुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-⟪स्वप्न⟫ m.: Schlaf, Traum <!-- TODO: Fallback translation -->
+⟪स्वप्न⟫ m.: 睡眠，梦
 
-⟪सुप्ति⟫ f. (aus \*svp-ti): Schlaf, bes. Tiefschlaf <!-- TODO: Fallback translation -->
-::::::media
+⟪सुप्ति⟫ f.（源自 \*svp-ti）：睡眠，特指熟睡
+:::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
-Abb.: ⟪स्वपन्ति⟫
-(Bildquelle: [Details](/licenses#lekt4004)) <!-- TODO: Fallback translation -->
+图：⟪स्वपन्ति⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4004)）
+::::
 :::
-## 40.7. Übung
+## 40.7. 练习
 
-A) Übersetzen sie die ⟪सुभाषितानि⟫ am Beginn der Lektion. <!-- TODO: Fallback translation -->
+A) 翻译课程开头的⟪सुभाषितानि⟫。
 
-B) Verwandeln Sie folgende Verbalformen in die entsprechenden Perfektformen. Bei mehreren Möglichkeiten, geben Sie bitte alle Möglichkeiten an. <!-- TODO: Fallback translation -->
+B) 将以下动词形式转换为相应的完成时形式。如果有多种可能性，请列出所有可能的形式。
 
-(Zeichenerklärung: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = fakultativ ⟪अनिट्⟫) <!-- TODO: Fallback translation -->
+（符号说明：⟪अ⟫ = ⟪अनिट्⟫，⟪इ⟫ = 可选 ⟪अनिट्⟫）
 
-1.  ⟪अश्नीमः⟫ <!-- TODO: Fallback translation -->
-2.  ⟪स्मः⟫ <!-- TODO: Fallback translation -->
-3.  ⟪स्रक्ष्यामि⟫ <!-- TODO: Fallback translation -->
-4.  ⟪स्तुमहे⟫ ⟪अ⟫ <!-- TODO: Fallback translation -->
-5.  ⟪वर्धामहे⟫ <!-- TODO: Fallback translation -->
-6.  ⟪आवर्ते⟫ <!-- TODO: Fallback translation -->
-7.  ⟪सेक्ष्यामि⟫ <!-- TODO: Fallback translation -->
-8.  ⟪अलुभ्याम⟫ <!-- TODO: Fallback translation -->
-9.  ⟪रुन्धे⟫ <!-- TODO: Fallback translation -->
-10.  ⟪रोदिमि⟫ <!-- TODO: Fallback translation -->
-11.  ⟪अयुध्यामहि⟫ <!-- TODO: Fallback translation -->
-12.  ⟪युञ्ज्मः⟫ <!-- TODO: Fallback translation -->
-13.  ⟪अजानीम⟫ <!-- TODO: Fallback translation -->
-14.  ⟪ददामि⟫ <!-- TODO: Fallback translation -->
-15.  ⟪अबिभयम्⟫ <!-- TODO: Fallback translation -->
-16.  ⟪वच्मः⟫ <!-- TODO: Fallback translation -->
-17.  ⟪कामये⟫ <!-- TODO: Fallback translation -->
-18.  ⟪वसामः⟫ <!-- TODO: Fallback translation -->
-19.  ⟪अभवाम⟫ <!-- TODO: Fallback translation -->
-20.  ⟪अस्यामि⟫ <!-- TODO: Fallback translation -->
-21.  ⟪अबिभ्रि⟫ ⟪अ⟫ <!-- TODO: Fallback translation -->
-22.  ⟪कल्पामहे⟫ ⟪इ⟫ <!-- TODO: Fallback translation -->
-23.  ⟪त्यज्यामि⟫ <!-- TODO: Fallback translation -->
-24.  ⟪अतरम्⟫ <!-- TODO: Fallback translation -->
-25.  ⟪चिन्मः⟫ <!-- TODO: Fallback translation -->
-26.  ⟪पृच्छामः⟫ <!-- TODO: Fallback translation -->
-27.  ⟪अनश्याम⟫ ⟪इ⟫ <!-- TODO: Fallback translation -->
-28.  ⟪चरामः⟫ <!-- TODO: Fallback translation -->
-29.  ⟪अवदाम⟫ <!-- TODO: Fallback translation -->
-30.  ⟪शोचयामः⟫ <!-- TODO: Fallback translation -->
-31.  ⟪दध्महे⟫ <!-- TODO: Fallback translation -->
-32.  ⟪पिबामि⟫ <!-- TODO: Fallback translation -->
-33.  ⟪धरामः⟫ <!-- TODO: Fallback translation -->
-34.  ⟪म्रिये⟫ <!-- TODO: Fallback translation -->
-35.  ⟪दूषयामः⟫ <!-- TODO: Fallback translation -->
-36.  ⟪मन्ये⟫ <!-- TODO: Fallback translation -->
-37.  ⟪स्वपिमः⟫ <!-- TODO: Fallback translation -->
-38.  ⟪पामि⟫ <!-- TODO: Fallback translation -->
-39.  ⟪शृणुमः⟫ ⟪अ⟫ <!-- TODO: Fallback translation -->
-40.  ⟪अतुदम्⟫ <!-- TODO: Fallback translation -->
-41.  ⟪अमिम⟫ <!-- TODO: Fallback translation -->
-42.  ⟪तिष्ठामि⟫ <!-- TODO: Fallback translation -->
-43.  ⟪अवहाम⟫ <!-- TODO: Fallback translation -->
-44.  ⟪अकुर्महि⟫ ⟪अ⟫ <!-- TODO: Fallback translation -->
-45.  ⟪जहीमः⟫ <!-- TODO: Fallback translation -->
-46.  ⟪अस्पृशम्⟫ <!-- TODO: Fallback translation -->
-47.  ⟪नेष्यामः⟫ <!-- TODO: Fallback translation -->
-48.  ⟪तन्महे⟫ <!-- TODO: Fallback translation -->
-49.  ⟪अक्रीणि⟫ <!-- TODO: Fallback translation -->
-50.  ⟪पुने⟫ <!-- TODO: Fallback translation -->
-51.  ⟪भुञ्ज्मः⟫ <!-- TODO: Fallback translation -->
-52.  ⟪स्मरिष्यामः⟫ <!-- TODO: Fallback translation -->
-53.  ⟪अभजाम⟫ (geht nach Typ Vb) <!-- TODO: Fallback translation -->
-54.  ⟪जेष्यामः⟫ <!-- TODO: Fallback translation -->
-55.  ⟪आसे⟫ (periphrast.) <!-- TODO: Fallback translation -->
-56.  ⟪विन्दामः⟫ <!-- TODO: Fallback translation -->
-57.  ⟪धक्ष्यामः⟫ <!-- TODO: Fallback translation -->
-58.  ⟪शक्नुमः⟫ <!-- TODO: Fallback translation -->
-59.  ⟪भिनद्मि⟫ <!-- TODO: Fallback translation -->
-60.  ⟪भोत्स्ये⟫ <!-- TODO: Fallback translation -->
-61.  ⟪लभे⟫ <!-- TODO: Fallback translation -->
-62.  ⟪नर्तिष्यामि⟫ <!-- TODO: Fallback translation -->
-63.  ⟪अगमयम्⟫ <!-- TODO: Fallback translation -->
-64.  ⟪द्विष्महे⟫ <!-- TODO: Fallback translation -->
-65.  ⟪चोरये⟫ <!-- TODO: Fallback translation -->
-66.  ⟪अजुहुम⟫ <!-- TODO: Fallback translation -->
-67.  ⟪अहनम्⟫ <!-- TODO: Fallback translation -->
-68.  ⟪पश्यामः⟫ <!-- TODO: Fallback translation -->
-69.  ⟪ईक्षे⟫ <!-- TODO: Fallback translation -->
+1.  ⟪अश्नीमः⟫
+2.  ⟪⟪स्मः⟫
+3.  ⟪स्रक्ष्यामि⟫
+4.  ⟪स्तुमहे⟫ ⟪अ⟫
+5.  ⟪वर्धामहे⟫
+6.  ⟪आवर्ते⟫
+7.  ⟪सेक्ष्यामि⟫
+8.  ⟪अलुभ्याम⟫
+9.  ⟪रुन्धे⟫
+10.  ⟪रोदिमि⟫
+11.  ⟪अयुध्यामहि⟫
+12.  ⟪युञ्ज्मः⟫
+13.  ⟪अजानीम⟫
+14.  ⟪ददामि⟫
+15.  ⟪अबिभयम्⟫
+16.  ⟪वच्मः⟫
+17.  ⟪कामये⟫
+18.  ⟪वसामः⟫
+19.  ⟪अभवाम⟫
+20.  ⟪अस्यामि⟫
+21.  ⟪अबिभ्रि⟫ ⟪अ⟫
+22.  ⟪कल्पामहे⟫ ⟪इ⟫
+23.  ⟪त्यज्यामि⟫
+24.  ⟪अतरम्⟫
+25.  ⟪चिन्मः⟫
+26.  ⟪पृच्छामः⟫
+27.  ⟪अनश्याम⟫ ⟪इ⟫
+28.  ⟪चरामः⟫
+29.  ⟪अवदाम⟫
+30.  ⟪शोचयामः⟫
+31.  ⟪दध्महे⟫
+32.  ⟪पिबामि⟫
+33.  ⟪धरामः⟫
+34.  ⟪म्रिये⟫
+35.  ⟪दूषयामः⟫
+36.  ⟪मन्ये⟫
+37.  ⟪स्वपिमः⟫
+38.  ⟪पामि⟫
+39.  ⟪शृणुमः⟫ ⟪अ⟫
+40.  ⟪अतुदम्⟫
+41.  ⟪अमिम⟫
+42.  ⟪तिष्ठामि⟫
+43.  ⟪अवहाम⟫
+44.  ⟪अकुर्महि⟫ ⟪अ⟫
+45.  ⟪जहीमः⟫
+46.  ⟪अस्पृशम्⟫
+47.  ⟪नेष्यामः⟫
+48.  ⟪तन्महे⟫
+49.  ⟪अक्रीणि⟫
+50.  ⟪पुने⟫
+51.  ⟪भुञ्ज्मः⟫
+52.  ⟪स्मरिष्यामः⟫
+53.  ⟪अभजाम⟫ (按类型 Vb)
+54.  ⟪जेष्यामः⟫
+55.  ⟪आसे⟫ (迂回表达)
+56.  ⟪विन्दामः⟫
+57.  ⟪धक्ष्यामः⟫
+58.  ⟪शक्नुमः⟫
+59.  ⟪भिनद्मि⟫
+60.  ⟪भोत्स्ये⟫
+61.  ⟪लभे⟫
+62.  ⟪नर्तिष्यामि⟫
+63.  ⟪अगमयम्⟫
+64.  ⟪द्विष्महे⟫
+65.  ⟪चोरये⟫
+66.  ⟪अजुहुम⟫
+67.  ⟪अहनम्⟫
+68.  ⟪पश्यामः⟫
+69.  ⟪ईक्षे⟫
 
 ## 40.8. Wiederholungsübung zur Formenlehre
 
-1.  ⟪ददे⟫ <!-- TODO: Fallback translation -->
-2.  ⟪ददते⟫ <!-- TODO: Fallback translation -->
-3.  ⟪पापे⟫ <!-- TODO: Fallback translation -->
-4.  ⟪आसे⟫ <!-- TODO: Fallback translation -->
-5.  ⟪एते⟫ <!-- TODO: Fallback translation -->
-6.  ⟪इते⟫ <!-- TODO: Fallback translation -->
-7.  ⟪इतः⟫ <!-- TODO: Fallback translation -->
-8.  ⟪यतः⟫ <!-- TODO: Fallback translation -->
-9.  ⟪यते⟫ <!-- TODO: Fallback translation -->
-10.  ⟪ईयते⟫ <!-- TODO: Fallback translation -->
-11.  ⟪यत्⟫ <!-- TODO: Fallback translation -->
-12.  ⟪यदा⟫ <!-- TODO: Fallback translation -->
-13.  ⟪अस्तुवि⟫ <!-- TODO: Fallback translation -->
-14.  ⟪अस्तुवति⟫ <!-- TODO: Fallback translation -->
-15.  ⟪अस्तवीत्⟫ <!-- TODO: Fallback translation -->
-16.  ⟪ब्रह्मिणः⟫ <!-- TODO: Fallback translation -->
-17.  ⟪ब्रह्मणः⟫ <!-- TODO: Fallback translation -->
-18.  ⟪ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-19.  ⟪लभे⟫ <!-- TODO: Fallback translation -->
-20.  ⟪लाभे⟫ <!-- TODO: Fallback translation -->
-21.  ⟪लेभे⟫ <!-- TODO: Fallback translation -->
-22.  ⟪लोभे⟫ <!-- TODO: Fallback translation -->
-23.  ⟪काश्चन⟫ <!-- TODO: Fallback translation -->
-24.  ⟪तन्त्रे⟫ <!-- TODO: Fallback translation -->
-25.  ⟪तत्र⟫ <!-- TODO: Fallback translation -->
-26.  ⟪मनौ⟫ <!-- TODO: Fallback translation -->
-27.  ⟪मेने⟫ <!-- TODO: Fallback translation -->
-28.  ⟪सत्स्यामि⟫ <!-- TODO: Fallback translation -->
-29.  ⟪वेत्स्यामः⟫ <!-- TODO: Fallback translation -->
-30.  ⟪कच्चित्⟫ <!-- TODO: Fallback translation -->
-31.  ⟪तत्त्यागः⟫ <!-- TODO: Fallback translation -->
-32.  ⟪तत्याज⟫ <!-- TODO: Fallback translation -->
-33.  ⟪विद्ये⟫ <!-- TODO: Fallback translation -->
-34.  ⟪विद्याम्⟫ <!-- TODO: Fallback translation -->
-35.  ⟪एनेन⟫ <!-- TODO: Fallback translation -->
-36.  ⟪ऐक्षे⟫ <!-- TODO: Fallback translation -->
-37.  ⟪आह⟫ <!-- TODO: Fallback translation -->
-38.  ⟪आहन्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪ददे⟫
+2.  ⟪ददते⟫
+3.  ⟪पापे⟫
+4.  ⟪आसे⟫
+5.  ⟪एते⟫
+6.  ⟪इते⟫
+7.  ⟪इतः⟫
+8.  ⟪यतः⟫
+9.  ⟪यते⟫
+10.  ⟪ईयते⟫
+11.  ⟪यत्⟫
+12.  ⟪यदा⟫
+13.  ⟪अस्तुवि⟫
+14.  ⟪अस्तुवति⟫
+15.  ⟪अस्तवीत्⟫
+16.  ⟪ब्रह्मिणः⟫
+17.  ⟪ब्रह्मणः⟫
+18.  ⟪ब्राह्मणः⟫
+19.  ⟪लभे⟫
+20.  ⟪लाभे⟫
+21.  ⟪लेभे⟫
+22.  ⟪लोभे⟫
+23.  ⟪काश्चन⟫
+24.  ⟪तन्त्रे⟫
+25.  ⟪तत्र⟫
+26.  ⟪मनौ⟫
+27.  ⟪मेने⟫
+28.  ⟪सत्स्यामि⟫
+29.  ⟪वेत्स्यामः⟫
+30.  ⟪कच्चित्⟫
+31.  ⟪तत्त्यागः⟫
+32.  ⟪तत्याज⟫
+33.  ⟪विद्ये⟫
+34.  ⟪विद्याम्⟫
+35.  ⟪एनेन⟫
+36.  ⟪ऐक्षे⟫
+37.  ⟪आह⟫
+38.  ⟪आहन्⟫
 
-:::deleteme-box
+::: deleteme-box
 
-- **Image lekt4005.jpg** (Abb.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫): Vadaseri, Thanjavur District = தஞ்சாவூர் மாவட்டம் [Bildquelle: kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
-- **Image lekt4003.jpg** (Abb.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫): [Bildquelle: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Zugriff am 2009-01-02. -- Creative Commons lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
-- **Image lekt4002.jpg** (Abb.: ⟪तीर्थङ्करः⟫): [Bildquelle: wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt4001.jpg** (Abb.: ⟪विष्णोर्दशावताराः⟫): Im Uhrzeigersinn: ⟪मत्स्य⟫, ⟪कुर्म⟫, ⟪वाराह⟫, ⟪वामन⟫, ⟪कृष्ण⟫, ⟪कल्कि⟫, ⟪बुद्ध⟫, ⟪परशुराम⟫, ⟪राम⟫, ⟪नरसिंह⟫, in der Mitte: ⟪कृष्ण⟫ [Bildquelle: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-- **Image lekt4004.jpg** (Abb.: ⟪स्वपन्ति⟫): Indische Flughunde (_Pteropus giganteus_), Ahmedabad = અમદાવાદ [Bildquelle: Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- Zugriff am 2009-01-02. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+- **Image lekt4005.jpg**（图：⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫）：瓦达塞里，坦贾武尔区 = தஞ்சாவூர் மாவட்டம் [图片来源：kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- 访问日期：2009-01-02. -- 知识共享许可协议（署名，相同方式共享）]
+- **Image lekt4003.jpg**（图：⟪हरिद्वारे⟫ ⟪तीर्थम्⟫）：[图片来源：mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- 访问日期：2009-01-02. -- 知识共享许可协议（署名）]
+- **Image lekt4002.jpg**（图：⟪तीर्थङ्करः⟫）：[图片来源：wallyg. -- http://www.flickr.com/photos/wallyg/1657905479/. -- 访问日期：2009-01-02. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
+- **Image lekt4001.jpg**（图：⟪विष्णोर्दशावताराः⟫）：顺时针方向：⟪मत्स्य⟫，⟪कुर्म⟫，⟪वाराह⟫，⟪वामन⟫，⟪कृष्ण⟫，⟪कल्कि⟫，⟪बुद्ध⟫，⟪परशुराम⟫，⟪राम⟫，⟪नरसिंह⟫，中间：⟪कृष्ण⟫ [图片来源：维基百科。公有领域]
+- **Image lekt4004.jpg**（图：⟪स्वपन्ति⟫）：印度狐蝠（_Pteropus giganteus_），艾哈迈达巴德 = અમદાવાદ [图片来源：Umang Dutt. -- http://www.flickr.com/photos/snapflickr/2456084948/. -- 访问日期：2009-01-02. -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
 :::

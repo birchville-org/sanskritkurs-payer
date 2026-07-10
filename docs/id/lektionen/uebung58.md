@@ -33,7 +33,7 @@ Determine and translate the following forms and form the corresponding **iṣ-Ao
 18.  ⟪ऐक्षध्वम्⟫ - ⟪ईक्ष्⟫ 1Ā 2.pl.Impf.Ā you saw - ⟪ऐक्षिध्वम्⟫
 19.  ⟪अचेतः⟫ - ⟪चित्⟫ 1P 2.sg.Impf.P you perceived - ⟪अचेतीः⟫
 
-::::media
+::: media
 ![](/images/uebung095.webp)
 Fig.: ⟪तब्लाः⟫
 (Image source: [Details](/en/licenses#uebung095))
@@ -44,7 +44,7 @@ Fig.: ⟪तब्लाः⟫
 
 Determine and translate the following forms:
 
-:::media
+::: media
 ![](/images/uebung097.webp)
 Fig.: ⟪मातुलङ्गविक्रेतायं⟫ ⟪ना⟫ ⟪॥⟫  
 Pune - ⟪पुणे⟫  

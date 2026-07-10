@@ -9,7 +9,7 @@ status: stable
 
 # Lecția 7
 
-:::deleteme-box
+::: deleteme-box
 **În această lecție veți învăța:**
 - Propoziția verbală cu complement direct
 - Acuzativul substantivelor și pronumelor
@@ -19,8 +19,7 @@ status: stable
 :::
 ## Proverbul săptămânii
 
-:::
-center
+::: center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ |
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
@@ -40,7 +39,7 @@ Dumnezeu învinge, nu demonul.
 
 ## 7.1. Propoziția verbală cu complement direct
 
-:::grammar-box
+::: grammar-box
 **Schema:**
 **(Agent = kartṛ m. = ⟪कर्तृ⟫) – complement direct (karman n. = ⟪कर्मन्⟫) – verb**
 
@@ -54,7 +53,7 @@ Dacă verbul este la Parasmaipada sau Ātmanepada, atunci complementul direct (*
 
 ## 7.2. Acuzativul (Cazul al patrulea, dvitīyā f. = ⟪द्वितीया⟫ = "a doua terminație de caz")
 
-:::grammar-box
+::: grammar-box
 **Terminația acuzativului singular masculin și feminin după vocală: -m**
 
 | Masculine pe | Acuzativ singular |
@@ -69,7 +68,8 @@ Dacă verbul este la Parasmaipada sau Ātmanepada, atunci complementul direct (*
 | **-i**: śruti | **śrutim**:br⟪श्रुतिम्⟫ |
 | **-ī**: devī | **devīm**:br⟪देवीम्⟫ |
 | **-u**: dhenu | **dhenum**:br⟪धेनुम्⟫ |
-::::::grammar-box
+:::
+::: grammar-box
 **Acuzativul plural masculin al stemelor pe vocală (excepție: stemelor de rădăcină monosilabice cu vocală lungă): Lungirea vocalei finale + -n**
 
 | Masculine pe | Acuzativ plural |
@@ -77,7 +77,8 @@ Dacă verbul este la Parasmaipada sau Ātmanepada, atunci complementul direct (*
 | **-a**: deva | **devān**:br⟪देवान्⟫ |
 | **-i**: kavi | **kavīn**:br⟪कवीन्⟫ |
 | **-u**: guru | **gurūn**:br⟪गुरून्⟫ |
-::::::grammar-box
+:::
+::: grammar-box
 **Acuzativul plural feminin al stemelor pe vocală (excepție: stemelor de rădăcină monosilabice cu vocală lungă): Lungirea vocalei finale + -s**
 
 | Feminine pe | Acuzativ plural |
@@ -91,7 +92,7 @@ Dacă verbul este la Parasmaipada sau Ātmanepada, atunci complementul direct (*
 
 ### 7.2.1. Acuzativul singular și plural al pronumelor interogative și demonstrative
 
-:::grammar-box
+::: grammar-box
 | | | Masculin | Feminin | Neutru |
 | :--- | :--- | :--- | :--- | :--- |
 | **kim**:brcine/ce | sg. | **kam**:br⟪कम्⟫ | **kām**:br⟪काम्⟫ | **kim**:br⟪किम्⟫ |
@@ -110,7 +111,7 @@ de ex. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ 
 
 ### 7.2.2. Utilizarea acuzativului (cazul al doilea, dvitīyā f. = ⟪द्वितीया⟫ = "a doua terminație de caz")
 
-:::grammar-box
+::: grammar-box
 Acuzativul (dvitīyā f. = ⟪द्वितीया⟫) indică:
 1. În propoziția verbală non-pasivă: **obiectul direct** (karman n. = ⟪कर्मन्⟫) al acțiunii exprimate de verb:
    De exemplu:
@@ -126,7 +127,7 @@ Utilizări suplimentare ale acuzativului vor fi tratate mai târziu.
 
 ## 7.3. Sandhi de finalul -n
 
-:::grammar-box
+::: grammar-box
 **Finalul -n:**
 
 1. În fața consoanelor palatale și retroflexe sonore sparśa și în fața **ś-** este înlocuit cu nasalul corespunzător acestor sunete:
@@ -152,12 +153,12 @@ Utilizări suplimentare ale acuzativului vor fi tratate mai târziu.
 
 ## 7.4. Neutru (napuṃsaka n. = ⟪नपुंसक⟫)
 
-:::grammar-box
+::: grammar-box
 **În neutru, formele pentru nominativ (prathamā) și acuzativ (dvitīyā) sunt identice.**
 :::
 ### 7.4.1. Neutrule stemurilor în -a
 
-:::grammar-box
+::: grammar-box
 - **Sfârșitul Nominativ / Acuzativ Singular: -m**
   de ex. **phala** n. = ⟪फल⟫ = "fruct": Nom. / Ac. sg. **phalam** = ⟪फलम्⟫
 - **Sfârșitul Nominativ / Acuzativ Plural: -āni**
@@ -169,7 +170,7 @@ Utilizări suplimentare ale acuzativului vor fi tratate mai târziu.
 
 Clasa a 5-a de prezente formează un numit rădăcină de prezent atematic, adică rădăcina de prezent nu se termină, spre deosebire de clasele de prezente tematice (clasele 1., 4., 6., 10-a) cu "vocala tematică" **-a**.
 
-:::grammar-box
+::: grammar-box
 **Clasele de prezente atematice au aberevare de rădăcină, adică există două forme ale rădăcinii de prezent:**
 1. **rădăcină puternică**: grad înalt (rar grad lung)
 2. **rădăcină slabă**: grad jos
@@ -183,14 +184,14 @@ Clasa a 5-a de prezente formează un numit rădăcină de prezent atematic, adic
 :::
 ### 7.5.1. Terminațiile primare ale persoanei a III-a plural la rădăcini neaspirate
 
-:::grammar-box
+::: grammar-box
 **La rădăcinile de prezent neaspirate, terminațiile primare ale persoanei a III-a plural sunt:**
 - **Parasmaipada: -anti**
 - **Ātmanepada: -ate**
 :::
 ### 7.5.2. Cea de-a 5-a clasă de prezent (svādi = ⟪स्वादि⟫ = "su etc.")
 
-:::grammar-box
+::: grammar-box
 - **Stem puternic**: (în majoritate) rădăcină cu grad redus (așa cum s-a menționat) + **-no-**
 - **Stem slab**: (în majoritate) rădăcină cu grad redus (așa cum s-a menționat) + **-nu-**
 
@@ -219,7 +220,7 @@ Clasa a 5-a de prezente formează un numit rădăcină de prezent atematic, adic
 - **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : auzi (ceva: Acuzativ, pe cineva: Genetiv sau Acuzativ; despre: Acuzativ; de la cineva: Genetiv, Ablativ, Instrumental)
 - **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : stoarce
 - **soma** m. ⟪सोम⟫ : băutură stoarsă, Soma; Lună (Din ce plantă a fost stoarsă Soma este încă dezbătută până în prezent).
-:::media
+::: media
 ![](/images/lekt0701.webp)
 Fig.: A fost aceasta planta Soma vedică?: Ciuperca muștar: *Amanita muscaria* (L.) Lam.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0701))
@@ -242,7 +243,7 @@ Fig.: A fost aceasta planta Soma vedică?: Ciuperca muștar: *Amanita muscaria* 
 1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
    ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
 
-:::media
+::: media
 ![](/images/lekt0704.webp)
 Fig.: Viṣṇu = ⟪विष्णु⟫, secolele 8./9.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0704))
@@ -282,7 +283,7 @@ Fig.: Viṣṇu = ⟪विष्णु⟫, secolele 8./9.
 4. yajati.
    ⟪यजति⟫ |
 
-:::media
+::: media
 ![](/images/lekt0702.webp)
 Fig.: **yajati** = ⟪यजति⟫ — Jertfă vedică = **yajña** m. = ⟪यज्ञ⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0702))
@@ -303,7 +304,7 @@ Fig.: **yajati** = ⟪यजति⟫ — Jertfă vedică = **yajña** m. = ⟪�
    ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
 8. Cărui zeu jertfe acest brahman?
 
-:::media
+::: media
 ![](/images/lekt0703.webp)
 Fig.: Cărui zeu i se jertfe aici? Răspuns: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0703))

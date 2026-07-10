@@ -15,17 +15,17 @@ status: stable
 
 ⟪हु⟫ 3P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | &lt;⟪जुहुषे⟫&gt; | &lt;⟪जुहुध्वे⟫&gt; |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | &lt;⟪अजुहुथास्⟫&gt; | &lt;⟪अजुहुध्वम्⟫&gt; |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | &lt;⟪जुह्वीथास्⟫&gt; | &lt;⟪जुह्वीध्वम्⟫&gt; |
+| **Indicative Present**:br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
+| **Imperfect**:br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
+| **Optative**:br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
 :::
 ⟪धा⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -35,14 +35,14 @@ status: stable
 :::
 ### 45.1.2. Seventh Present Class (⟪रुधादि⟫)
 
-:::grammar-box
+::: grammar-box
 **If a final k/g of the root comes between the nasal ṅ and a dental of the ending, then the k/g may optionally drop**
 
 e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or ⟪यु⟫***⟪ङ्ते⟫***
 :::
 ⟪युज्⟫ 7U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -52,7 +52,7 @@ e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or �
 :::
 ⟪रुध्⟫ 7U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -62,14 +62,14 @@ e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or �
 :::
 ## 45.2. The Vocative Singular (⟪आमन्त्रितमेकवचने⟫)
 
-:::grammar-box
+::: grammar-box
 **Most vocatives of the singular are the stem with a high-grade ending.**
 
 e.g. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** etc.
 
 **Exceptions are the feminine nouns ending in -ā and -ī, as well as the stems ending in -in, whose vocative sg. must be particularly memorized.**
-:::::::grammar-box
-:::no-header
+:::
+::: no-header
 | | Vocative Singular |
 | --- | --- |
 | Masculine nouns ending in -a | ⟪देव⟫ |
@@ -92,10 +92,11 @@ e.g. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन�
 | Masculine nouns ending in -mant/-vant | ⟪गुणवन्⟫ |
 | Neuter nouns ending in -mant/-vant | ⟪गुणवत्⟫:br= Nominative |
 | Pronouns | a vocative is not formed |
-::::::::::media
+:::: media
 ![](/images/lekt4501.webp)
 Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 (Image source: [Details](/en/licenses#lekt4501))
+::::
 :::
 ## 45.3. Word List
 
@@ -103,14 +104,14 @@ Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 
 ## 45.4. Exercise
 
-A) Translate into Sanskrit (for past tense forms, please use the imperfect &lt;⟪लङ्⟫&gt;):
+A) Translate into Sanskrit (for past tense forms, please use the imperfect \<⟪लङ्⟫\>):
 
 1\. You are dividing the (Buddhist) community.
 
-:::indent
+::: indent
 regarding the schism of the community (⟪सङ्घभेद⟫) see:
 
-**Payer, Alois &lt;1944 - &gt;:** Vinayamukha : Basic concepts of the monastic rules and monastic law of the Theravāda. -- Part I. -- (Materials on the basic concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \<1944 - \>:** Vinayamukha : Basic concepts of the monastic rules and monastic law of the Theravāda. -- Part I. -- (Materials on the basic concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2\. Have you enjoyed the earth?
 
@@ -140,11 +141,12 @@ B) Translate:
 
 ⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥४॥⟫
 
-:::media
+::: media
 ![](/images/lekt4502.jpg)
 Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Image source: [Details](/en/licenses#lekt4502))
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt4501.jpg**: Textile block print, Ahmedabad. -- Image source: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, non-commercial use, share alike)
 

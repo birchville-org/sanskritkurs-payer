@@ -1,9 +1,9 @@
 ---
-title: Lesson 25
-subtitle: "Formation of the Ablative (⟪पञ्चमी⟫ = \"fifth case ending\")"
+title: Lektion 25
+subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
 lesson_id: 25
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,47 +11,47 @@ status: stable
 
 ## 25.1. Formation of the Ablative (⟪पञ्चमी⟫ = "fifth case ending")
 
-:::grammar-box
-Except for masculines/neutrons ending in -a and the pronouns, in the singular, in all declension classes, the forms of the ablative (⟪पञ्चमी⟫) are identical to those of the genitive (⟪षष्ठी⟫).
+::: grammar-box
+Except for masculines/neuters ending in -a as well as the pronouns, in the singular, in all declension classes, the forms of the ablative (⟪पञ्चमी⟫) are identical to those of the genitive (⟪षष्ठी⟫).
 
 Except for the personal pronouns, in all declensions, in the plural, the forms of the ablative are identical to those of the dative (⟪चतुर्थी⟫).
 :::
-Now you recognize the reason for the order of the cases (⟪विभक्ति⟫) in Sanskrit: they are arranged so that identical forms stand as close together - or under each other - as possible.
+Now you recognize the reason for the order of the cases (⟪विभक्ति⟫) in Sanskrit: they are arranged such that identical forms stand as close together as possible — or among each other.
 
-:::grammar-box
-**Ablative singular of masculines/neutrons ending in -a**
+::: grammar-box
+**Ablative singular of masculines/neuters ending in -a**
 
 - **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
 Interrogative, relative, and demonstrative pronouns:
 
-::::grammar-box
+::: grammar-box
 
-| | Ablative singular:brMasculine / Neuter | Ablative singular:brFeminine |
+| | Ablative Singular:brMasculine / Neuter | Ablative Singular:brFeminine |
 | :--- | :--- | :--- |
-| **⟪किम्⟫** | **kasmāt**:br(⟪कस्मात्⟫) | **kasyāḥ**:br(⟪कस्याः⟫) |
-| **⟪यद्⟫** | **yasmāt**:br(⟪यस्मात्⟫) | **yasyāḥ**⟪यस्याः⟫) |
-| **⟪तद्⟫** | **tasmāt**:br(⟪तस्मात्⟫) | **tasyāḥ**:br(⟪तस्याः⟫) |
-| **⟪एतद्⟫** | **etasmāt**:br(⟪एतस्मात्⟫) | **etasyāḥ**:br(⟪एतस्याः⟫) |
-| **⟪इदम्⟫** | **asmāt**:br(⟪अस्मात्⟫) | **asyāḥ**:br(⟪अस्याः⟫) |
+| ⟪किम्⟫ | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) |
+| ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
+| ⟪तद्⟫ | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) |
+| ⟪एतद्⟫ | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) |
+| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
-::::
-## 25.2. Use of the Ablative (⟪पञ्चमी⟫)
+:::
+## 25.2. Usage of the Ablative (⟪पञ्चमी⟫)
 
 "The ablative denotes that which remains fixed when something departs from it."
 
 Pāṇini 2,3,28 + 1,4,24
 
-The ablative is primarily used in response to the questions "From where?", "Why?".
+The ablative is used primarily for the questions "From where?", "Why?".
 
-:::grammar-box
-1\. The ablative thus denotes the starting point, origin, and material.
+::: grammar-box
+1\. The ablative thus denotes the starting point, the origin, and the material.
 
 The ablative can therefore also denote the person from whom one buys, hears, wishes, etc.
 :::
 Examples:
 
-:::indent
+::: indent
 ⟪ग्रमादागच्छति⟫ = "He comes from the village"
 
 ⟪अश्वात्पतितः⟫ = "fallen from the horse"
@@ -60,57 +60,61 @@ Examples:
 :::
 Examples:
 
-:::indent
-⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "he hears from the teacher about the Dharma"
+::: indent
+⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "he hears from the teacher about the dharma"
 
-⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "the Brahmin wishes from the Kṣatriya a milk cow"
-::::::grammar-box
+⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "the brāhmaṇa wishes from the kṣatriya a milk cow"
+:::
+::: grammar-box
 2\. The ablative is used with verbs meaning "to abstain from", "to protect from", "to defend against", "to fear":
 :::
 Example:
 
-:::indent
+::: indent
 ⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "he protects from the enemies"
-::::::grammar-box
+:::
+::: grammar-box
 3\. The ablative denotes the reason or cause:
 :::
 Examples:
 
-:::indent
+::: indent
 ⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "He kills his son out of anger"
 
-⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Because he has done evil, he goes to hell" (« Because he is one through whom evil was done)
+⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Because he has done evil, he comes to hell" (« Because he is one through whom evil was done)
 
-⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Because he does/has done evil, he goes to hell"
+⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Because he does/has done evil, he comes to hell"
 :::
-Nouns that are not feminine can, in order to denote the reason for an action, stand in the instrumental (⟪तृतीया⟫) or ablative (⟪पञ्चमी⟫). Feminine nouns stand in this sense usually in the instrumental, but can occasionally also stand in the ablative.
+Nouns that are not feminines can, to denote the reason for an activity, stand in the instrumental (⟪तृतीया⟫) or ablative (⟪पञ्चमी⟫). Feminines in this sense usually stand in the instrumental, but can occasionally also stand in the ablative.
 
 ## 25.3. The Suffix -⟪तस्⟫
 
-:::grammar-box
-If one wants to express in the singular (unambiguously) that the word is used in an ablative sense, one can attach the suffix -⟪तस्⟫ to the word stem, which forms adverbs with mostly ablative meaning (answering the question "From where?"):
+::: grammar-box
+If one wishes to express unambiguously in the singular that the word is used in an ablative sense, one can attach the suffix -⟪तस्⟫ to the word stem, which forms adverbs with mostly ablative meaning (answering the question "From where?"):
 :::
 Examples:
 
-:::indent
+::: indent
 ⟪आदितस्⟫ = "from the beginning"
 
-⟪धर्मतस्⟫ = "on account of Dharma, because of Dharma"
-::::::grammar-box
+⟪धर्मतस्⟫ = "on account of dharma, because of dharma"
+:::
+::: grammar-box
 The suffix -⟪तस्⟫ also occurs with pronominal stems:
-::::::indent
+:::
+::: indent
 ⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "from there, there, thither, upon that, then, therefore"
 
-⟪यद्⟫ : ⟪यतस्⟫ "from which, of which, from where, where, whither, why, because" (relative)
+⟪यद्⟫ : ⟪यतस्⟫ "from which, from what, from where, where, whither, why, because" (relative)
 
 ⟪किम्⟫ :  ⟪कुतस्⟫ "from where?" "why?"
 :::
 ## 25.4. Other Ways to Express Reasons
 
-:::grammar-box
+::: grammar-box
 **1\. Relative Clauses**
 
-Relative clauses often express a causal (reasoning), consequential (following), or final (purposeful) relationship to the main clause.
+Relative clauses often express a causal (reasoning), consecutive (consequential), or final (purposive) relationship to the main clause.
 
 Forms of the relative pronoun that serve as causal conjunctions:
 
@@ -122,27 +126,30 @@ Forms of the relative pronoun that serve as causal conjunctions:
 :::
 Example:
 
-:::indent
+::: indent
 ⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो⟫ ⟪व्रतं⟫ ⟪चरति⟫ = "Because Rāma desires prosperity, he practices the vow"
-::::::grammar-box
+:::
+::: grammar-box
 **2\. ⟪हि⟫**
 
-Main clauses can be linked to one another using the particle ⟪हि⟫ "for, because". A sentence with ⟪हि⟫ (which must not stand in first place, but must stand in second place in prose) indicates a reason either for the preceding sentence or for the following sentence:
+Main clauses can be linked with one another using the particle ⟪हि⟫ "for, because". A sentence with ⟪हि⟫ (which must not stand in the first position, but must stand in second position in prose) gives a reason either for the preceding sentence or for the following sentence:
 :::
 Example:
 
-:::indent
-⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "People do meritorious deeds. For they wish to enter heaven."
-::::::grammar-box
+::: indent
+⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "People perform meritorious deeds. They wish, after all, to enter heaven."
+:::
+::: grammar-box
 **3\. Instrumental (⟪तृतीया⟫)**
 
 In addition to the ablative (⟪पञ्चमी⟫), the instrumental (⟪तृतीया⟫) is used to indicate the reason or cause. With feminine nouns, the instrumental is generally obligatory.
 :::
 Example:
 
-:::indent
-⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "He kills his son out of anger" = "He kills his son in anger"
-::::::grammar-box
+::: indent
+⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "He strikes down his son out of anger" = "He strikes down his son in anger"
+:::
+::: grammar-box
 **4\. Nouns**
 
 Furthermore, reasons can of course also be expressed through constructions with
@@ -151,34 +158,35 @@ Furthermore, reasons can of course also be expressed through constructions with
 *   ⟪हेतु⟫ m.
 *   other nouns meaning "cause"
 
-+ Genitive (⟪षष्ठी⟫) or as the second member of compounds:
+\+ Genitive (⟪षष्ठी⟫) or as the second member of compounds:
 :::
 Example:
 
-:::indent
-⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ et cetera) = "on account of merit"
-::::::grammar-box
+::: indent
+⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ etc.) = "on account of merit"
+:::
+::: grammar-box
 **5\. ⟪इति⟫**
 
-The motive for an action can be expressed as a thought with ⟪इति⟫:
+The motive for an action can be specified as a thought with ⟪इति⟫:
 :::
 Example:
 
-:::indent
+::: indent
 ⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Because the Sugata has fully awakened to the truth, Ānanda asks Gautama about his teaching" (« "Thinking "The Sugata has fully awakened to the truth" ...)
 :::
 ## 25.5. Word List
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫  leave, abandon, forsake
+⟪त्यज्⟫ 1P ⟪त्यजति⟫  abandon, give up, leave behind
 
-:::indent
+::: indent
 Fut. ⟪त्यक्ष्यति⟫  
 Pass. ⟪त्यज्यते⟫  
 PPP ⟪त्यक्त⟫  
 Inf. ⟪त्यक्तुम्⟫  
 Absol. 2: -⟪त्यज्य⟫
 
-therefrom:
+thereof:
 
 ⟪त्याग⟫ m.: abandonment, renunciation, avoidance
 :::
@@ -188,42 +196,42 @@ therefrom:
 
 ⟪धान्य⟫ n.: threshed grain
 
-:::media
+::: media
 ![](/images/lekt2501.webp)
 Fig.: ⟪धान्यम्⟫
 (Image source: [Details](/en/licenses#lekt2501))
 :::
 ⟪धृ⟫ 1U ⟪धरति⟫ : hold, keep firm
 
-:::indent
+::: indent
 Fut. ⟪धरिष्यति⟫  
 Pass. ⟪ध्रियते⟫  
 PPP ⟪धृत⟫  
 Inf. ⟪धर्तुम्⟫  
 Absol. 2: -⟪धृत्य⟫
 
-therefrom:
+thereof:
 
-⟪धर्म⟫ m.: that which is firm and holds firm = Dharma
+⟪धर्म⟫ m.: that which is firm and holds fast = Dharma
 :::
 ⟪नित्य⟫ ⟪३⟫ : constant, steadfast, eternal
 
-:::indent
+::: indent
 ⟪नित्यम्⟫ Adv.: always, constantly, ever
 :::
-⟪प्रज्ञा⟫ f.:  wisdom, knowledge
+⟪प्रज्ञा⟫ f.: wisdom, knowledge
 
 ⟪प्रदान⟫ n.: giving, donating; gift, donation
 
 ⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : rejoice, be intoxicated by something (Instr., Gen., Loc.)
 
-:::indent
+::: indent
 Fut. ⟪मदिष्यति⟫  
 Pass. ⟪मद्यते⟫  
 PPP ⟪मत्त⟫  
 Inf. ⟪मदितुम्⟫
 
-therefrom:
+thereof:
 
 ⟪मद⟫ m.: intoxication, sensual intoxication = sensual pleasure
 :::
@@ -233,11 +241,11 @@ therefrom:
 
 ⟪न्याय⟫ m.: rule, principle, method, judgment (juridical), logic (from ni + i + a)
 
-⟪अन्यथा⟫ Adv.: otherwise, else, falsely, incorrectly
+⟪अन्यथा⟫ Adv.: otherwise, wrongly, incorrectly
 
 ⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫
 
-:::indent
+::: indent
 Pass. ⟪यायते⟫  
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫  
@@ -249,12 +257,12 @@ Absol. 2: -⟪याय⟫
 
 ⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : command, teach, punish
 
-:::indent
+::: indent
 Pass. ⟪शिष्यते⟫  
 PPP ⟪शिष्ट⟫ ⟪३⟫ : taught  
 Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 
-therefrom:
+thereof:
 
 ⟪शिक्षा⟫ f.: science, instruction; phonetics
 :::
@@ -268,23 +276,24 @@ therefrom:
 
 ⟪मूल⟫ n.: root
 
-:::media
+::: media
 ![](/images/lekt2502.webp)
 Fig.: ⟪मूलानि⟫
 (Image source: [Details](/en/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): anoint, smear
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): smear, daub
 
-:::indent
+::: indent
 Fut. ⟪लेप्स्यति⟫  
 Pass. ⟪लिप्यते⟫  
 PPP ⟪लिप्त⟫  
 Inf. ⟪लेप्तुम्⟫
 
-therefrom:
+thereof:
 
-⟪लिप्ति⟫ f.: anointing, writing, script
-::::::media
+⟪लिप्ति⟫ f.: smearing, writing, script
+:::
+::: media
 ![](/images/lekt2503.webp)
 Fig.: ⟪लिप्तिः⟫
 (Image source: [Details](/en/licenses#lekt2503))
@@ -293,7 +302,7 @@ Fig.: ⟪लिप्तिः⟫
 
 ⟪वह्⟫ 1U ⟪वहति⟫ : lead, drive, blow (wind)
 
-:::indent
+::: indent
 Fut. ⟪वक्ष्यति⟫  
 Pass. ⟪उह्यते⟫  
 PPP ⟪ऊढ⟫  
@@ -302,51 +311,52 @@ Absol 2: -⟪उह्य⟫
 
 ⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : lead away (namely the bride from her parents' house) = marry
 
-therefrom:
+thereof:
 
 ⟪विवाह⟫ m.: leading away, marriage of a woman (Instr., saha) (for marriage see Basham, Wonder pp. 166-171)
-::::::media
+:::
+::: media
 ![](/images/lekt2504.webp)
 Fig.: ⟪विवाहः⟫
 (Image source: [Details](/en/licenses#lekt2504))
 :::
 ⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : lead away, instruct, educate
 
-:::indent
-therefrom:
+::: indent
+thereof:
 
 ⟪विनय⟫ m.: removal, education, discipline, Buddhist: monastic discipline, monastic law
 :::
 ⟪विज्ञान⟫ n.: knowledge, cognition
 
-⟪विष्टि⟫ f.: work, corvée
+⟪विष्टि⟫ f.: work, forced labor
 
-:::media
+::: media
 ![](/images/lekt2505.webp)
 Fig.: ⟪विष्टिः⟫
 (Image source: [Details](/en/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : grow, become larger
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : to grow, to become greater
 
-:::indent
+::: indent
 Fut. ⟪वर्धिष्यते⟫  
 Pass. ⟪वृध्यते⟫  
-PPP ⟪वृद्ध⟫ : grown up, old, increased  
+PPP ⟪वृद्ध⟫ : grown, old, increased  
 Inf. ⟪वर्धितुम्⟫
 
-of:
+thereof:
 
-⟪वृद्धि⟫ f.: growth, increase, gradation (from: vṛdh-ti)
+⟪वृद्धि⟫ f.: growth, increase, strengthening (from: vṛdh-ti)
 :::
 ⟪सामर्थ्य⟫ n.: that which corresponds to its purpose
 
 ⟪स्वभाव⟫ m.: being, nature, character
 
-⟪हर्ष⟫ m.: (raising of the body hair), joy
+⟪हर्ष⟫ m.: (raising of body hair), joy
 
 ⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: gold, money, wealth
 
-:::media
+::: media
 ![](/images/lekt2506.webp)
 Fig.: ⟪हिरण्यम्⟫
 (Image source: [Details](/en/licenses#lekt2506))
@@ -357,7 +367,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ## 25.6. Exercise
 
-A) Complete the declension examples from [Lesson 16](lektion16.md), Review Exercise A, by adding 4. Dative (⟪चतुर्थी⟫) and 5. Ablative (⟪पञ्चमी⟫). Also form declension paradigms with all forms learned so far for
+A) Complete the declension examples from [Lesson 16](lektion16.md), Revision Exercise A, by adding 4. Dative (⟪चतुर्थी⟫) and 5. Ablative (⟪पञ्चमी⟫). Also form declension series with all previously learned forms for
 
 ⟪१⟫. ⟪सन्त्⟫ (m., n.)
 
@@ -403,7 +413,7 @@ B) Translate and resolve the compounds in Sanskrit:
 
 ⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫ (⟪हर⟫i m. = ⟪विष्णु⟫ / ⟪कृष्ण⟫)
 
-:::media
+::: media
 ![](/images/lekt2507.webp)
 Fig.: ⟪लोकादधिको⟫ ⟪हरिः⟫
 :::
@@ -414,8 +424,8 @@ Fig.: ⟪लोकादधिको⟫ ⟪हरिः⟫
 ⟪निवर्तनाद्धि⟫ ⟪सर्वतो⟫  
 ⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥१॥⟫
 
-:::indent
-Explanation: ⟪सर्वतस्⟫ = sarva "every, all" + -tas ; ⟪अणु⟫ = Nom., Acc. sg. neuter.
+::: indent
+Explanation: ⟪सर्वतस्⟫ = sarva "every, all" + -tas ; ⟪अणु⟫ = Nom., Acc. sg. neut.
 :::
 ⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
 ⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
@@ -431,50 +441,50 @@ Explanation: ⟪सर्वतस्⟫ = sarva "every, all" + -tas ; ⟪अण
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫  
 ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪३१६॥⟫ ⟪॥४॥⟫
 
-:::indent
-Explanation: ⟪राजा⟫ = Nom. sg. from ⟪राजन्⟫ m. = ⟪नृप⟫
+::: indent
+Explanation: ⟪राजा⟫ = Nom. sg. of ⟪राजन्⟫ m. = ⟪नृप⟫
 :::
 ## 25.8. Translation Exercise
 
-1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫ on the benefits of economics:
+1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. on the utility of economics:
 
 ⟪वार्त्ता⟫ ⟪धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫
 
-2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. on the education of a prince:
+2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. on the training of a prince:
 
-⟪तस्माद्दण्डमूला⟫***⟪स्तिस्रो⟫*** ⟪विद्याः⟫ ⟪॥१॥⟫  
-⟪विनयमूलो⟫ ⟪दण्डः⟫ ***⟪प्राणभृतां⟫*** ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
+⟪तस्माद्दण्डमूला⟫*⟪स्तिस्रो⟫* ⟪विद्याः⟫ ⟪॥१॥⟫  
+⟪विनयमूलो⟫ ⟪दण्डः⟫ *⟪प्राणभृतां⟫* ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
 ⟪कृतकः⟫ ⟪स्वाभाविकश्च⟫ ⟪विनयः⟫ ⟪॥३॥⟫  
 ⟪क्रिया⟫ ⟪हि⟫ ⟪द्रव्यं⟫ ⟪विनयति⟫ ⟪नाद्रव्यम्⟫ ⟪॥४॥⟫  
-⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ ***⟪नेतरम्⟫*** ⟪॥५॥⟫  
+⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ *⟪नेतरम्⟫* ⟪॥५॥⟫  
 ... ⟪॥⟫  
-⟪वृत्तचौल⟫***⟪कर्मा⟫*** ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫***⟪पयुन्ञ्जीत⟫*** ⟪॥७॥⟫  
-⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ ***⟪वक्तृप्रयोक्तृभ्यः⟫*** ⟪॥८॥⟫  
-⟪ब्रह्मचर्यं⟫ ⟪चा⟫ ***⟪षोडशाद्व⟫***⟪र्षाद्⟫ ⟪॥९॥⟫  
-⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫***⟪कर्म⟫*** ⟪चास्य⟫ ⟪॥१०॥⟫  
+⟪वृत्तचौल⟫*⟪कर्मा⟫* ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫*⟪पयुन्ञ्जीत⟫* ⟪॥७॥⟫  
+⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ *⟪वक्तृप्रयोक्तृभ्यः⟫* ⟪॥८॥⟫  
+⟪ब्रह्मचर्यं⟫ ⟪चा⟫ *⟪षोडशाद्व⟫*⟪र्षाद्⟫ ⟪॥९॥⟫  
+⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫*⟪कर्म⟫* ⟪चास्य⟫ ⟪॥१०॥⟫  
 ⟪नित्यश्च⟫ ⟪विद्यावृद्धसंयोगो⟫ ⟪विनयवृद्ध्यर्थम्⟫, ⟪तन्मूलत्वाद्विनयस्य⟫ ⟪॥११॥⟫  
 ... ⟪॥⟫  
-⟪श्रुता⟫***⟪द्धि⟫*** ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫***⟪दात्मवत्ते⟫***⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
+⟪श्रुता⟫*⟪द्धि⟫* ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫*⟪दात्मवत्ते⟫*⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
 ... ⟪॥⟫  
-⟪कामक्रोधलोभमानमदहर्षत्यागा⟫***⟪त्कार्यः⟫*** ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
-
+⟪कामक्रोधलोभमानमदहर्षत्यागा⟫*⟪त्कार्यः⟫* ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
 Explanation of the words highlighted in red in the text above:
 
-1.5.1. ⟪तिस्रस्⟫ : noun, accusative, feminine, from ⟪त्रि⟫ "three"
+1.5.1. ⟪तिस्रस्⟫ : noun, accusative, feminine, derived from ⟪त्रि⟫ "three"
 
-1.5.2. ⟪प्राणभृताम्⟫ : genitive plural masculine, from ⟪प्राणभृत्⟫ masculine "living being"
+1.5.2. ⟪प्राणभृताम्⟫ : genitive plural, masculine, derived from ⟪प्राणभृत्⟫ m. "living beings"
 
-1.5.5.  ⟪इतरम्⟫ accusative singular masculine, from ⟪इतर⟫ ⟪३⟫ "other"
+1.5.5.  ⟪इतरम्⟫ accusative singular, masculine, derived from ⟪इतर⟫ ⟪३⟫ "other"
 
-1.5.7. ⟪कर्मा⟫ : nominative singular masculine, from ⟪कर्मन्⟫ neuter "deed, work" ; ⟪उपयुञ्जीत⟫ : Optative 3rd singular Middle Voice, from upa-yuj 7 "to appropriate": "he should appropriate"
+1.5.7. ⟪कर्मा⟫ : nominative singular, masculine, derived from ⟪कर्मन्⟫ neuter "deed, work" ; ⟪उपयुञ्जीत⟫ : Optative 3rd singular, Ā-pāṇini, from upa-yuj 7 "to appropriate": "he may appropriate"
 
-1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Ablative, Dative plural, from ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "theorists and practitioners"
+1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Ablative, Dative plural, derived from ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "theorists and practitioners"
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : "sixteenth"
 
-1.5.10. ⟪कर्म⟫ Nominative, Accusative singular, from ⟪कर्मन्⟫ neuter "deed"
+1.5.10. ⟪कर्म⟫ Nominative, Accusative singular, derived from ⟪कर्मन्⟫ n. "deed"
 
-1.5.16. ⟪धि⟫ Sandhi form, from ⟪हि⟫ ; ⟪आत्मवत्ता⟫ feminine: "self-possession"
+1.5.16. ⟪धि⟫ Sandhi form, derived from ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "self-possession"
 
 1.6.1. ⟪कार्य⟫ ⟪३⟫ "to be done, what must be done"
+

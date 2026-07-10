@@ -10,7 +10,7 @@ Vokalzeichen für den Wortanfang, falls das Wort nicht in der Schreibung mit ein
 
 Wenn im Wort oder Satz zwei oder mehrere Konsonanten unmittelbar aufeinander folgen, werden sie mit Ligatur (verbundenes Zeichen) geschrieben.
 
-1. Wenn das erste der zu verbindenden Konsonantenzeichen mit dem senkrechten Strich rechts abschließt, verliert es diesen Strich und wird vor den zweiten Konsonanten gesetzt.
+1. Wenn das erste der zu verbindenden Konsonantenzeichen mit dem senkrechten Strich rechts abschliesst, verliert es diesen Strich und wird vor den zweiten Konsonanten gesetzt.
 
 Ausnahme: wenn das zweite Konsonantenzeichen ⟪न्⟫ oder ⟪ल्⟫ ist, wird dieses mit Verlust des wagrechten Strichs unter das erste Konsonantenzeichen gesetzt. Je nach Schrifttype gibt es weitere Ausnahmen, die in der folgenden aufgeführt sind. Ist in der betreffenden Schrifttype eine Ligatur nicht vorgesehen, wird ein Virāma gesetzt.
 
@@ -64,7 +64,7 @@ Beachten Sie die Schreibung von jña:
 
 ![](/images/schrift017.webp)
 
-Anlautendes -a, das gemäß den Satzsandhiregeln elidiert (-as + a- » -o ' ) wird durch den sog. Avagraha bezeichnet:
+Anlautendes -a, das gemäss den Satzsandhiregeln elidiert (-as + a- » -o ' ) wird durch den sog. Avagraha bezeichnet:
 
 ⟪ऽ⟫
 

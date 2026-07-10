@@ -31,7 +31,7 @@ Un om fără educație este un animal.
 ⟪७⟫. **⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 Scurcimea este ornamentul gramaticianului.
 
-:::media
+::: media
 ![](/images/uebung083.webp)
 Fig.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
 (Sursa imaginii: [Detalii](/licenses#uebung083))
@@ -54,7 +54,7 @@ Fetele trebuie să dea mâncare cerșetorilor.
 ⟪४⟫. **⟪ब्रवाम⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫** (Sau: **⟪वचाम⟫ ⟪॥⟫**)
 Vrem să vorbim.
 
-:::media
+::: media
 ![](/images/uebung085.webp)
 Fig.: ⟪वचाम⟫
 (Sursa imaginii: [Detalii](/licenses#uebung085))
@@ -107,7 +107,7 @@ Ei trebuie să stea în casa mea.
 ⟪२०⟫. **⟪भर्तारो⟫ ⟪भार्या⟫ ⟪बिभ्रतु⟫ ⟪॥⟫ ⟪२०⟫ ⟪॥⟫**
 Soții trebuie să-și întrețină soțiile.
 
-:::media
+::: media
 ![](/images/uebung076.webp)
 Fig.: ⟪तानि⟫ ⟪फलान्यदाम⟫
 (Sursa imaginii: [Detalii](/licenses#uebung076))
@@ -146,12 +146,13 @@ Cine își protejează cu grijă soția, cu adevărat protejează urmașii, stil
 **⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**  
 Soțul intră în soția sa, devine embrion și apoi se naște aici; în aceasta constă "soție" (**⟪जायात्वम्⟫**) soției, că soțul se renaște în ea.
 
-:::media
+::: media
 ![](/images/uebung084.webp)
 Fig.: ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫
 (Sursa imaginii: [Detalii](/licenses#uebung084))
-::::::media
+:::: media
 ![](/images/uebung077.webp)
 Fig.: ⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫
 (Sursa imaginii: [Detalii](/licenses#uebung077))
+::::
 :::

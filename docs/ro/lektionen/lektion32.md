@@ -8,7 +8,7 @@ status: stable
 
 ## 32.1. Timpurile trecutului
 
-::::grammar-box
+::: grammar-box
 **În literatura sanscrită mai veche și în gramaticile native, cele trei timpuri ale trecutului sunt distincte clar în utilizarea lor:**
 
 *   **aoristul (⟪लुङ्⟫, ⟪अद्यतनी⟫) indică fie simpla finalizare a unei acțiuni, fie ceea ce s-a întâmplat în ziua curentă, trecutul apropiat**
@@ -16,12 +16,12 @@ status: stable
 *   **perfectul (⟪लिट्⟫) indică, la fel ca imperfectul, trecutul îndepărtat, dar, spre deosebire de imperfect, este folosit doar pentru evenimente pe care vorbitorul însuși nu le-a observat**
 
 **În literatura sanscrită clasică, cele trei timpuri ale trecutului sunt utilizate fără nicio diferență de sens (exceptie: poezia artistică a lui ⟪भारवि⟫, ⟪किरातार्जुनीय⟫).**
-::::
+:::
 **
 
 ## 32.2. Imperfectul (⟪लङ्⟫)
 
-::::grammar-box
+::: grammar-box
 **Formare:**
 
 **Augment a- + tema de prezent + terminare secundară**
@@ -29,10 +29,10 @@ status: stable
 **Cele trei persoane ale singularului la indicativul imperfect, activ, pentru temele athematice, se formează din tema puternică de prezent, toate celelalte forme din tema slabă de prezent.**
 
 **Imperfectul are doar indicativul.**
-::::
+:::
 Exemple:
 
-:::indent
+::: indent
 **⟪भू⟫** 3. sg. Imp. Act. **⟪अभवत्⟫** (a-bhava-t)
 
 **⟪सु⟫**
@@ -41,12 +41,12 @@ Exemple:
 :::
 ## 32.3. Reguli pentru augment
 
-::::grammar-box
+::: grammar-box
 **1. Dacă augmentul a- precedă o rădăcină care începe cu o vocală, augmentul și inițiala rădăcinii se contopesc în ⟪वृद्धि⟫ vocalei rădăcinii.**
-::::
+:::
 Exemple:
 
-::::grammar-box
+::: grammar-box
 
 | | 3. sg. Impf. | 3. pl. Impf. |
 | :--- | :--- | :--- |
@@ -54,12 +54,13 @@ Exemple:
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
 | ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
-::::::::grammar-box
+:::
+::: grammar-box
 **2. Dacă preverbele precedă o rădăcină, augmentul a- apare imediat după preverbe, înainte de rădăcină.**
-::::
+:::
 Exemple:
 
-::::grammar-box
+::: grammar-box
 
 | | 3. sg. Impf. |
 | :--- | :--- |
@@ -68,29 +69,28 @@ Exemple:
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
-::::
+:::
 ## 32.4. Exemple de formare a imperfectului
 
-:::
-important
-**Pentru a demonstra formarea formelor, sunt formate aici și forme Ātmanepada pentru rădăcinile Parasmaipada! Aceste forme artificiale se află între &lt; &gt;.**
+::: important
+**Pentru a demonstra formarea formelor, sunt formate aici și forme Ātmanepada pentru rădăcinile Parasmaipada! Aceste forme artificiale se află între \< \>.**
 :::
 ### 32.4.1. Clase tematice de prezent
 
-::::grammar-box
+::: grammar-box
 
 | Clasa de prezent | Rădăcină:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | &lt;⟪अभवत⟫&gt; | &lt;⟪अभवन्त⟫&gt; |
-| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | &lt;⟪अनृत्यत⟫&gt; | &lt;⟪अनृत्यन्त⟫&gt; |
-| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | &lt;⟪अविशत⟫&gt; | &lt;⟪अविशन्त⟫&gt; |
+| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \<⟪अभवत⟫\> | \<⟪अभवन्त⟫\> |
+| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \<⟪अनृत्यत⟫\> | \<⟪अनृत्यन्त⟫\> |
+| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \<⟪अविशत⟫\> | \<⟪अविशन्त⟫\> |
 | 10. / Cauz. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
 | Pasiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
-::::
+:::
 ### 32.4.2. Clase de prezent atematice
 
-::::grammar-box
+::: grammar-box
 
 | Clasa de prezent | Rădăcină:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -101,14 +101,14 @@ important
 | 2. | ⟪स्तु⟫ | ⟪अस्तौत्⟫:br⟪अस्तवीत्⟫ | ⟪अस्तुवन्⟫ | ⟪अस्तुत⟫ | ⟪अस्तुवत⟫ |
 | 2. | ⟪अस्⟫ | ⟪आसीत्⟫ | ⟪आसन्⟫ | | |
 | 5. | ⟪सु⟫ | ⟪असुनोत्⟫ | ⟪असुन्वन्⟫ | ⟪असुनुत⟫ | ⟪असुन्वत⟫ |
-| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | &lt;⟪आप्नुत⟫&gt; | &lt;⟪आप्नुवत⟫&gt; |
+| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \<⟪आप्नुत⟫\> | \<⟪आप्नुवत⟫\> |
 | 8. | ⟪तन्⟫ | ⟪अतनोत्⟫ | ⟪अतन्वन्⟫ | ⟪अतनुत⟫ | ⟪अतन्वत⟫ |
 | 8. | ⟪कृ⟫ | ⟪अकरोत्⟫ | ⟪अकुर्वन्⟫ | ⟪अकुरुत⟫ | ⟪अकुर्वत⟫ |
 | 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t > ayunakt > ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
 | 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t > aruṇaddh > aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
-::::
+:::
 ## 32.5. Listă de cuvinte
 
 **⟪अग्र⟫ n.:** vârf, capăt extrem
@@ -118,7 +118,7 @@ important
 **⟪एकदा⟫**
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
-:::indent
+::: indent
 ⟪श्रमिष्यते⟫:br
 ⟪श्रम्यते⟫:br
 ⟪श्रमयति⟫:br
@@ -131,7 +131,7 @@ important
 
 **⟪चूत⟫**
 
-:::media
+::: media
 ![](/images/lekt3202.webp)
 Fig.: ⟪चूतः⟫
 Copac de mango, Kanpur.
@@ -146,7 +146,7 @@ Copac de mango, Kanpur.
 **⟪परम्⟫**
 
 **⟪रुह्⟫ ⟪रोहति⟫**
-:::indent
+::: indent
 ⟪रोक्ष्यति⟫:br
 ⟪रुह्यते⟫:br
 ⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
@@ -155,7 +155,7 @@ Copac de mango, Kanpur.
 ⟪रोढुम्⟫
 :::
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
-:::indent
+::: indent
 ⟪ग्रहीष्यति⟫ (!):br
 ⟪गृह्यते⟫:br
 ⟪ग्राहयति⟫:br
@@ -165,14 +165,14 @@ Copac de mango, Kanpur.
 :::
 **⟪वानर⟫ ⟪कपि⟫**
 
-:::media
+::: media
 ![](/images/lekt3203.webp)
 Fig.: ⟪वानराः⟫
 Maimuțe (macaci rhesus) în Delhi.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3203))
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
-:::indent
+::: indent
 ⟪लोकयिष्यति⟫:br
 ⟪लोक्यते⟫:br
 ⟪लोकित⟫:br
@@ -185,7 +185,7 @@ Maimuțe (macaci rhesus) în Delhi.
 
 **⟪उपल⟫**
 
-:::media
+::: media
 ![](/images/lekt3204.webp)
 Fig.: ⟪उपलाः⟫
 Carieră de piatră la sud de Pune, Maharashtra.
@@ -193,14 +193,14 @@ Carieră de piatră la sud de Pune, Maharashtra.
 :::
 **⟪लक्ष्य⟫**
 
-:::media
+::: media
 ![](/images/lekt3205.webp)
 Fig.: ⟪लक्ष्यम्⟫
 Exercițiu de tragere / țintă cu săgeți, Karnataka.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3205))
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
-:::indent
+::: indent
 ⟪क्षेप्स्यति⟫:br
 ⟪क्षिप्यते⟫:br
 ⟪क्षेपयति⟫:br
@@ -209,18 +209,19 @@ Exercițiu de tragere / țintă cu săgeți, Karnataka.
 ⟪क्षेप्तुम्⟫
 :::
 **⟪चि⟫ ⟪चिनोति⟫**
-:::indent
+::: indent
 ⟪चेष्यति⟫:br
 ⟪चीयते⟫:br
 ⟪चाययति⟫:br
 ⟪चित⟫:br
 -⟪चित्य⟫:br
 ⟪चेतुम्⟫
-::::::media
+:::: media
 ![](/images/lekt3207.webp)
 Fig.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
 Bucăți de gunoi de vacă ars în Rajasthan.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3207))
+::::
 :::
 **⟪चि⟫ ⟪अव⟫**
 
@@ -230,7 +231,7 @@ Bucăți de gunoi de vacă ars în Rajasthan.
 
 **⟪कौशल⟫ ⟪कुशल⟫**
 
-:::media
+::: media
 ![](/images/lekt3206.webp)
 Fig.: ⟪कौशलम्⟫
 Pictură Mehndi pe mâini în Mumbai.
@@ -328,7 +329,7 @@ B) Traduceți și descompuneți compusele în sanscrită:
 
 ⟪बुद्धपुत्राः⟫ ⟪सत्यमाजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫
 
-:::media
+::: media
 ![](/images/lekt3208.webp)
 Fig.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
 Călugăr budist din Sri Lanka.
@@ -550,7 +551,7 @@ C) Traduceți în sanscrită:
 51. Se spune adevărul, se spune ceea ce este plăcut; nu se spune un adevăr neplăcut și nici o minciună neplăcută. Acesta este dharma etern.
 
 52: La revedere!
-:::media
+::: media
 ![](/images/lekt3209.webp)
 Fig.: ⟪पुनर्दर्शनाय⟫
 Salut / adio indian.
@@ -603,8 +604,7 @@ Traduceți și determinați următoarele forme de cuvinte:
 
 ## 32.9. Exercițiu de traducere
 
-:::
-compact
+::: compact
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫**⟪न्पथि⟫** ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
@@ -623,18 +623,20 @@ compact
 
 Explicații:
 
-:::indent
+::: indent
 **⟪पथि⟫** Loc. sg. la **⟪पथ्⟫ m.** "drum" (declinare neregulată)
 
 **⟪लक्ष्यीकृ⟫** ⟪च्विऽ⟫-sufix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : a face ceva care anterior nu ⟪लक्ष्य⟫ era
 
 **⟪आदाय⟫** Absolutiv la **⟪आ⟫-⟪दा⟫** (clasa a III-a de prezent) "a lua"
-::::::media
+:::: media
 ![](/images/lekt3210.webp)
 Fig.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Maimuțe în copaci de mango.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3210))
-::::::deleteme-box
+::::
+:::
+::: deleteme-box
 
 **lekt3202:** Copac de mango, Kanpur. [Sursa imaginii: AmarChandra / Wikipedia. CC BY-SA]
 

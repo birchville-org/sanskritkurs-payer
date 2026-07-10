@@ -13,22 +13,22 @@ last_reconstructed: 2026-05-15
 **⟪यद्यत्परवशं⟫ ⟪कर्म⟫ ⟪तत्तद्यत्नेन⟫ ⟪वर्जयेत्⟫ ⟪।⟫**  
 **⟪यद्यदात्मवशं⟫ ⟪तु⟫ ⟪स्यात्तत्तत्सेवेत⟫ ⟪यत्नतः⟫ ⟪॥⟫ ⟪१५९⟫ ⟪॥⟫**
 
-> One should diligently avoid any action that depends on another's will; but what proceeds from one's own will, that one should diligently cultivate.
+> One should diligently avoid every act based on another's will; but what proceeds from one's own will, one should diligently cultivate.
 
 **⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫ ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫**  
 **⟪एतद्विद्यात्समासेन⟫ ⟪लक्षणं⟫ ⟪सुखदुःखयोः⟫ ⟪॥⟫ ⟪१६०⟫ ⟪॥⟫**
 
-> Everything that depends on another's will is painful; everything that depends on one's own will is happy. This should be known in summary as the characteristic of happiness and suffering.
+> Everything based on another's will is painful; everything based on one's own will is bliss. This should be known comprehensively as the characteristic of bliss and pain.
 
 **⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫**  
 **⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫ ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥⟫ ⟪१६१⟫ ⟪॥⟫**
 
-> That which, when done, leads to inner satisfaction, that one should diligently do; but one should refrain from the opposite.
+> That which, when done, leads to inner satisfaction, that one should diligently do; the opposite, one should refrain from.
 
-:::media
+::: media
 ![](/images/uebung087.webp)
 Fig.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
-(Image source: [Details](/en/licenses#uebung087))
+(Image source: [Details](/licenses#uebung087))
 :::
 ---
 
@@ -40,7 +40,7 @@ Fig.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 > The root of Dharma is:
 > * the entire Veda
 > * the tradition and the custom of the Veda-scholars
-> * the conduct of the Good
+> * the conduct of the good
 > * the contentment of the soul
 
 ---
@@ -59,18 +59,18 @@ Fig.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 
 **⟪अर्थमूलौ⟫ ⟪हि⟫ ⟪धर्मकामाविति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> Thus, let him keep his senses under control, avoid other men's women, other men's property, and violence, and avoid sleep, lust, falsehood, frivolity, uselessness, and improper or useless business. Let him indulge in pleasure without thereby disturbing righteousness and purposeful conduct; let him not be joyless. Or let him cultivate equally all three goals of life, which are interconnected. For if one indulges excessively in one of righteousness and custom, purposeful conduct, and pleasure, then that oppresses the soul and the other two goals. Kauṭilya says that purposeful conduct (**Artha**) is the most important. Righteousness and custom as well as pleasure are rooted in purposeful action.
+> Thus, let him keep his senses under control, avoid other men's women, other men's property, and violence, and avoid sleep, lust, falsehood, frivolity, uselessness, and unjust or useless business. Let him indulge in pleasure without thereby disturbing righteousness and purposeful conduct; let him not be joyless. Or let him cultivate equally all three goals of life, which are interconnected. For if one excessively devotes oneself to one of righteousness and custom, purposeful conduct, and pleasure, then that oppresses the soul and the other two goals. Kauṭilya says that purposeful conduct (**Artha**) is the most important. For righteousness and custom as well as pleasure are rooted in purposeful action.
 
 ---
 
-## ⟪४⟫. ⟪अश्वघोष⟫ (⟪२⟫. Cent. A.D.): ⟪बुद्धचरित⟫ ⟪४⟫
+## ⟪४⟫. ⟪अश्वघोष⟫ (⟪२⟫. Cent. CE): ⟪बुद्धचरित⟫ ⟪४⟫
 
-Buddha’s liberating insight:
+Buddha's liberating insight:
 
 **⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫ ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫**  
 **⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫ ⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 
-> Having defeated Māra’s host with firmness and calm, the one experienced in meditation wished to fully recognize the highest truth and reality, and meditated.
+> Having defeated Māra's army with firmness and calm, the one experienced in meditation wished to fully recognize the highest truth and reality and meditated.
 
 **⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫ ⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫**  
 **⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪यामे⟫ ⟪पूर्वजन्मपरंपराम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
@@ -80,27 +80,27 @@ Buddha’s liberating insight:
 **⟪अमुत्राहमयं⟫ ⟪नाम⟫ ⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫**  
 **⟪इति⟫ ⟪जन्मसहस्राणि⟫ ⟪सस्मारानुभवन्निव⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 
-> “There I was such-and-such, having departed from there, I have come here” – thus he recalled thousands of births, as if he were experiencing them just now.
+> "There I was named so-and-so; having departed from there, I came here" – thus he recalled thousands of births, as if he were experiencing them just now.
 
 **⟪स्मृत्वा⟫ ⟪जन्म⟫ ⟪च⟫ ⟪मृत्युं⟫ ⟪च⟫ ⟪तासु⟫ ⟪तासूपपत्तिषु⟫ ⟪।⟫**  
 **⟪ततः⟫ ⟪सत्त्वेषु⟫ ⟪कारुण्यं⟫ ⟪चकार⟫ ⟪करुणात्मकः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 
-> Having thus recalled birth and death in these various existences, he unfolded compassion toward beings, he whose nature is compassion.
+> Having thus recalled birth and death in these various existences, he unfolded compassion towards beings, he whose nature is compassion.
 
 **⟪कृत्वेह⟫ ⟪स्वजनोत्सर्गं⟫ ⟪पुनरन्यत्र⟫ ⟪च⟫ ⟪कृत्वा⟫ ⟪।⟫**  
 **⟪अत्राणः⟫ ⟪खलु⟫ ⟪लोको⟫ ⟪ऽयं⟫ ⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 
-> Truly, this world is without salvation and wanders around like a wheel: it releases its creatures here and then again there.
+> Truly, this world is without refuge and wanders around like a wheel: it releases its creatures here and then again there.
 
 **⟪इत्येवं⟫ ⟪स्मरतस्तस्य⟫ ⟪बभूव⟫ ⟪नियतात्मनः⟫ ⟪।⟫**  
 **⟪कदलीगर्भनिःसारः⟫ ⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 
-> Having thus recalled with determined heart, he arrived at firm insight: The course of rebirths is without mark and core, like the inside of a banana plant.
+> Having thus recalled with a resolute heart, he arrived at firm realization: The course of rebirths is without marrow and core, like the interior of a banana plant.
 
 **⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫ ⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫**  
 **⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫ ⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> When the second watch of the night had come, he, whose power is like that of no second, received the highest heavenly eye, he, the best of all who have an eye.
+> When the second watch of the night had come, he, whose power is like that of no second, received the highest heavenly eye, he the best of all who have an eye.
 
 **⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫ ⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫**  
 **⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫ ⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
@@ -115,10 +115,10 @@ Buddha’s liberating insight:
 **⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫ ⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫**  
 **⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫ ⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 
-> “These beings, who have committed evil deeds, go into a bad existence; these others, who have good karma, arise again in Indra’s heaven.”
+> "These beings, who have committed evil deeds, go into a bad existence; these others, who have good karma, arise again in Indra's heaven."
 
-:::media
+::: media
 ![](/images/uebung088.webp)
 Fig.: ⟪कदलीगर्भनिःसारः⟫
-(Image source: [Details](/en/licenses#uebung088))
+(Image source: [Details](/licenses#uebung088))
 :::

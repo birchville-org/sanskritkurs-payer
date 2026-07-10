@@ -1,5 +1,5 @@
 ---
-title: Lesson 33
+title: Lektion 33
 lesson_id: 33
 status: stable
 ---
@@ -9,92 +9,96 @@ status: stable
 ## 33.1. Reduplication (⟪अभ्यास⟫ m.)
 
 * The third present class
-* (as well as certain verbs of other present classes),
+* (as well as some verbs of other present classes),
 * the perfect,
 * the reduplicated aorist,
 * the frequentative, and
 * the desiderative
 
-are formed via reduplication. The portion of a reduplicated form that precedes the root is termed the reduplication syllable.
+are formed by means of reduplication. The part of a reduplicated form that is placed before the root is called the reduplication syllable.
 
 The reduplication syllable consists of (a consonant and) a vowel.
 
-### 33.1.1. The Reduplicating Consonant
+### 33.1.1. The Reduplication Consonant
 
-:::grammar-box
-**1. Generally:**  
-**The first consonant of the root is repeated.**
+::: grammar-box
+**1. Usually:**  
+**Repetition of the first consonant of the root**
 :::
 Examples:
 
-:::indent
+::: indent
 **⟪दा⟫** 3 "to give"
 * 3.sg.P.Ind.Pres. **⟪ददाति⟫**
 
 **⟪पॄ⟫** 3 "to fill"
-* 3.sg.P.Ind.Pres. **⟪पिपर्ति⟫**
+* 3.sg.P.Ind.Pres. ***⟪पि⟫***⟪पर्ति⟫
 
 **⟪मा⟫** 3Ā "to measure"
-* 3.sg.Ā.Ind.Pres. **⟪मिमीते⟫**
-::::::grammar-box
-**2. An initial aspirated consonant of a root is reduplicated by the corresponding unaspirated consonant.**
+* 3.sg.Ā.Ind.Pres. ***⟪मि⟫***⟪मीते⟫
+:::
+::: grammar-box
+**2. An aspirated initial consonant of a root is reduplicated by the corresponding unaspirated consonant.**
 :::
 Examples:
 
-:::indent
+::: indent
 **⟪धा⟫** 3 "to place"
 * 3.sg.P.Ind.Pres. **⟪दधाति⟫**
 
 **⟪भी⟫** 3 "to fear"
-* 3.sg.P.Ind.Pres. **⟪बिभेति⟫**
-:::::::grammar-box
+* 3.sg.P.Ind.Pres. ***⟪बि⟫***⟪भेति⟫
+:::
+::: grammar-box
 **3. A guttural is reduplicated by the corresponding unaspirated palatal:**
 
-:::indent
+:::
+::: indent
 **⟪क्⟫**, **⟪ख्⟫** by **⟪च्⟫**  
 **⟪ग्⟫**, **⟪घ्⟫** by **⟪ज्⟫**
 :::
 **⟪ह्⟫ is always reduplicated by ⟪ज्⟫.**
-::::
 Examples:
 
-:::indent
-**⟪हु⟫** 3 "(to pour) into the fire"
+::: indent
+**⟪हु⟫** 3 "(to pour) into the fire (as an offering)"
 * 3.sg.P.Ind.Pres. **⟪जुहोति⟫**
-::::::grammar-box
-**4. If a root begins with a consonant cluster, only the first consonant is repeated (applying rules 2 or 3 if necessary).**
-::::::grammar-box
-**5. If a root begins with a sibilant + voiceless consonant cluster, the sibilant is not reduplicated; rather, the following voiceless consonant is reduplicated according to the above rules.**
+:::
+::: grammar-box
+**4. If a root begins with several consonants, only the first (possibly applying rule 2 or 3) is repeated.**
+:::
+::: grammar-box
+**5. If a root begins with a sibilant + voiceless consonant cluster, the sibilant is not reduplicated, but the following voiceless consonant is reduplicated according to the above rules.**
 :::
 Example:
 
-:::indent
+::: indent
 **⟪स्था⟫** 1 "to stand"
 * 3.sg.P.Ind.Pres. **⟪तिष्ठति⟫**
 :::
-## 33.2. The Third Present Class (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ et al.")
+## 33.2. The third present class (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ etc.")
 
-:::grammar-box
+::: grammar-box
 **Formation:**
 
 **strong stem:**  
-**reduplicated high-grade root + ending**
+**reduplicated strong-grade root + ending**
 
 **weak stem:**  
-**reduplicated low-grade root + ending**
+**reduplicated weak-grade root + ending**
 
-**The rules for the reduplication consonant provided above apply.**
+**The rules given above apply to the reduplication consonant.**
 :::
-### 33.2.1. The Reduplicating Vowel of the 3rd Present Class
+### 33.2.1. The Reduplication Vowel of the 3rd Present Class
 
-:::grammar-box
-* **The regular reduplicating vowel is -i-**
-* **Roots containing -u- reduplicate with -u-**
-* **The roots ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ reduplicate with -a-**
+::: grammar-box
+* **The regular reduplication vowel is -i-**
+* **Roots containing u reduplicate with -u-**
+* **The roots ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ with -a-**
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 **⟪हु⟫** 3P "(to pour) into the fire (as an offering)"
 
 * **strong stem:** ⟪जुहो⟫
@@ -102,166 +106,172 @@ Examples:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indicative Present** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:br(juhu + ati) | &lt;⟪जुहुते⟫&gt; | &lt;⟪जुह्वते⟫&gt;:br(juhu + ate) |
-| **Imperfect** | ⟪अजुहोत्⟫:br(a-juho-t) | ⟪जुहवुर्⟫:br(a-juho + ur) | &lt;⟪अजुहुत⟫&gt; | &lt;⟪अजुह्वत⟫&gt;:br(a-juhu + ata) |
-| **Optative** | ⟪जुहुयात्⟫:br(juhu-yā-t) | ⟪जुहुयुर्⟫:br(juhu-y-ur) | &lt;⟪जुह्वीत⟫&gt;:br(juhu + ī-ta) | &lt;⟪जुह्वीरन्⟫&gt;:br(juhu + ī-ran) |
-::::
+| **Indikativ Present** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
+| **Imperfect** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
+| **Optative** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
+:::
 ## 33.3. On the Ablaut of ā
 
-ā can
+ā kann
 
-* on the one hand be the lengthened grade of one of the ablaut series with -a-
-* on the other hand be the strong grade in an ablaut series of the ā-group
+* on the one hand, the lengthened grade of one of the ablaut series with -a-
+* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
 
-The two most important ablaut series of the ā-group are:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
-:::grammar-box
+::: grammar-box
 **A.**
 
 * **Weak grade**
   * **before consonant: -i-**  
     e.g. **⟪धा⟫** PPP: **⟪हित⟫** (hi-ta)
   * **before vowel: Ø**  
-    e.g. **⟪धा⟫** 3.pl.P.Ind.Pres. **⟪दधति⟫** (dadh-ati)
+    e.g. **⟪धा⟫** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
 * **Strong grade: -ā-**  
-  e.g. **⟪धा⟫** 3.sg.P.Ind.Pres. **⟪दधाति⟫**
+  e.g. **⟪धा⟫** 3.sg.P.Ind.Präs. **⟪दधाति⟫**
 :::
-Also belonging here is, for example:
+Also belonging here, for example:
 
-:::indent
-**⟪स्था⟫** 1
+::: indent
+⟪स्था⟫ 1
 * PPP **⟪स्थित⟫** (sthi-ta)
 * 3.sg.P.Fut. **⟪स्थास्यति⟫** (sthā-sya-ti)
-:::::::grammar-box
+:::
+::: grammar-box
 **B.**
 
 * **Weak grade: -ī-**  
   e.g. **⟪पा⟫** 1: PPP **⟪पीत⟫** (pī-ta)
 * **Strong grade: -ā-**  
   e.g. **⟪पा⟫** 1: Inf. **⟪पातुम्⟫**
-::::
-## 33.4. Roots ending in -ā of the third present class
+:::
+## 33.4. Roots ending in -ā of the third conjugation class
 
-:::grammar-box
-**Roots ending in -ā (except ⟪दा⟫ and ⟪धा⟫) typically exhibit a stem form ending in -ī- in the weak stem** (see Thumb-Hauschild Vol. 1,1 p. 271. It is likely that the ablaut series B mentioned above served as a model here, although these roots otherwise follow series A), **before vocalic endings the root vowel disappears completely (see ablaut series A).**
+::: grammar-box
+**Roots ending in -ā (except ⟪दा⟫ and ⟪धा⟫) usually have an ablaut of -ī- in the weak stem** (see Thumb-Hauschild Vol. 1,1 p. 271. Presumably, the ablaut series B mentioned above acted as a model here, although these roots otherwise ablaut according to series A), **before vocalic endings the root vowel disappears completely (see ablaut series A).**
 :::
 Examples:
 
-::::grammar-box
+::: grammar-box
 **⟪मा⟫** 3Ā "to measure"
 
 | | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- |
-| **Indicative Present** | ⟪मिमीते⟫:br(mimī-te) | ⟪मिमते⟫:br(mim-ate) |
+| **Indikativ Present** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
 | **Imperfect** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ |
-| **Optative** | ⟪मिमीत⟫:br(mim-ī-ta !) | ⟪मिमीरन्⟫:br(mim-ī-ran) |
-::::::::grammar-box
-**⟪हा⟫** 3P "to leave"
+| **Optative** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
+:::
+::: grammar-box
+**⟪हा⟩** 3P "to leave"
 
 | | 3. sg. P. | 3. pl. P. |
 | :--- | :--- | :--- |
-| **Indicative Present** | ⟪जहाति⟫ | ⟪जहति⟫:br(jah-ati) |
+| **Indikativ Present** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
 | **Imperfect** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
-| **Optative** | ⟪जह्यात्⟫:br(jah-yā-t):br(The root **⟪हा⟫** has the same form before the optative -yā/-y as before vowels!) | ⟪जह्युर्⟫:br(jah-y-ur) |
-::::
-### 33.4.1. The Roots **⟪दा⟫** and **⟪धा⟫**
+| **Optative** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Root ⟪हा⟫ hat vor dem Optative-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
+:::
+### 33.4.1. The roots **⟪दा⟩** and **⟪धा⟩**
 
-:::grammar-box
-**The roots ⟪दा⟫ and⟪धा⟫ reduplicate with the vowel -a- and lose the root vowel in the weak stem.**
+::: grammar-box
+**The roots ⟪दा⟩ and ⟪धा⟩ reduplicate with the vowel -a- and lose the root vowel in the weak stem.**
 
-**Note the aspiration dissimilation rule for ⟪धा⟫!**
-:::::::grammar-box
-**⟪धा⟫** 3U "to place, to fix, to distribute"
-
-| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
-| :--- | :--- | :--- | :--- | :--- |
-| **Indicative Present** | ⟪दधाति⟫ | ⟪दधति⟫:br(dadh-ati) | ⟪धत्ते⟫:br(dadh-te):br(Explanation: Thumb-Hauschild 1,1 p. 302f.) | ⟪दधते⟫:br(dadh-ate) |
-| **Imperfect** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:br(a + dadh + ta) | ⟪अदधत⟫ |
-| **Optative** | ⟪दध्यात्⟫:br(dadh-yā-t) | ⟪दध्युर्⟫ | ⟪दधीत⟫:br(dadh-ī-ta) | ⟪दधीरन्⟫ |
-::::
-The forms of **⟪दा⟫** are obtained by replacing **dh** with **d** in the paradigm of **⟪धा⟫**. Thus:
-
-::::grammar-box
-**⟪दा⟫** 3U "to give"
+**Note the aspiration dissimilation rule for ⟪धा⟩!**
+:::
+::: grammar-box
+**⟪धा⟩** 3U "to place, to fix, to allot"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indicative Present** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
+| **Indikativ Present** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Explanation: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate |
+| **Imperfect** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
+| **Optative** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
+:::
+The forms of **⟪दा⟩** are obtained by replacing **dh** with **d** in the paradigm of **⟪धा⟩**. Thus:
+
+::: grammar-box
+**⟪दा⟩** 3U "to give"
+
+| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| **Indikativ Present** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
 | **Imperfect** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Optative** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
-::::
-## 33.5. The Present Active Participle of the Roots of the 3rd Present Class
-
-:::grammar-box
-**The verbs of the 3rd class form all forms of the Present Active Participle from the weak stem.**
-
-**Exception: The Nominative/Accusative Plural Neuter may optionally be formed from either the strong or the weak stem.**
 :::
-**⟪दा⟫** Present Active Participle:
+## 33.5. The Present Participle Parasmaipada of the roots of the 3rd conjugation class
 
-::::grammar-box
+::: grammar-box
+**The verbs of the 3rd class form all forms of the Present Participle Parasmaipada from the weak stem.**
+
+**Exception: Nominative/Accusative Plural Neuter can optionally be formed from the strong or weak stem.**
+:::
+**⟪दा⟫** Present Participle Parasmaipada:
+
+::: grammar-box
 | | Masculine:br⟪पुंल्लिङ्ग⟫ | Neuter:br⟪नपुंसकलिङ्ग⟫ | Feminine:br⟪स्त्रीलिङ्ग⟫ |
 | :--- | :--- | :--- | :--- |
 | **Singular** | | | |
-| **1. Nominative** | ⟪ददत्⟫:br(dad-at + s) | ⟪ददत्⟫:br(dad-at-Ø) | ⟪ददती⟫ |
-| **2. Accusative** | ⟪ददतम्⟫:br(dad-at-am) | ⟪ददत्⟫ | |
+| **1. Nominative** | ⟪ददत्⟫:brdad-at + s | ⟪ददत्⟫:brdad-at-Ø | ⟪ददती⟫ |
+| **2. Accusative** | ⟪ददतम्⟫:brdad-at-am | ⟪ददत्⟫ | |
 | **Plural** | | | |
-| **1. Nominative** | ⟪ददतस्⟫ | ⟪ददति⟫:br(dad-at-i):br⟪ददन्ति⟫:br(dad-ant-i) | |
+| **1. Nominative** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
 | **2. Accusative** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
-::::
+:::
 Similarly **⟪जुह्वत्⟫** (juhu-at + s)
 
 ## 33.6. Word List
 
 **⟪दा⟫** 3U **⟪ददाति⟫**: to give
 
-:::indent
-**Fut.** ⟪दास्यति⟫  
+::: indent
+**Fut.**  ⟪दास्यति⟫  
 **Pass.** ⟪दीयते⟫  
-**Kaus.** ⟪दापयति⟫  
+**Caus.** ⟪दापयति⟫  
 **PPP** ⟪दत्त⟫  
 **Inf.** ⟪दातुम्⟫
 
-derived from this:
+thereof:
 
 **⟪दान⟫** n.: giving, gift, generosity
-::::::media
+:::
+::: media
 ![](/images/lekt3306.webp)
 Fig.: ⟪दानम्⟫
 (Image source: [Details](/en/licenses#lekt3306))
 :::
-**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: to take (into receipt), to take possession of, to take along
+**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (to receive) to take, to take possession of, to take along
 
-:::indent
-**Absol.** ⟪आदाय⟫: with Acc.: in the company of, with
-::::::media
+::: indent
+**Absol.** ⟪आदाय⟫: with Acc.: accompanied by, with
+:::
+::: media
 ![](/images/lekt3307.webp)
 Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Image source: [Details](/en/licenses#lekt3307))
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: to place, to fix, to allot
+***⟪धा⟫*** 3U ***⟪दधाति⟫***: to place, to set, to allot
 
-:::indent
+::: indent
 **Fut.** ***⟪धास्यति⟫***  
 **Pass.** ***⟪धीयते⟫***  
-**Kaus.** ***⟪धापयति⟫***  
+**Caus.** ***⟪धापयति⟫***  
 **PPP** ***⟪हित⟫*** (!!)  
 **Inf.** ***⟪धातुम्⟫***
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: to direct one’s full attention to something, to collect oneself
+**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: to direct all attention to something, to collect oneself
 
-:::indent
-derived from this:
+::: indent
+thereof:
 
-**⟪समाधि⟫** m.: inner concentration, highest attention
-::::::media
+**⟪समाधि⟫** m.: inner collection, highest attention
+:::
+::: media
 ![](/images/lekt3305.webp)
 Fig.: ⟪समाधि⟫
 (Image source: [Details](/en/licenses#lekt3305))
 :::
 **⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: to fill, to fulfill
 
-:::indent
+::: indent
 Note:
 3.pl.P ***⟪पिपुरति⟫***  
 3.sg.Impf.P ***⟪अपिपर्⟫*** (from: \*apipart)  
@@ -270,54 +280,55 @@ Note:
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
-**Kaus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
+**Caus.** ⟪पूरयति⟫ / ⟪पारयति⟫  
 **PPP** ⟪पूर्ण⟫ / ⟪पूर्त⟫ / ⟪पूरित⟫
 :::
-**⟪पॄ⟫** + **⟪सम्⟫** only **Pass.** ⟪सम्पूर्यते⟫ and **Kaus.**: to fill completely
+**⟪पॄ⟫** + **⟪सम्⟫** only **Pass.** ⟪सम्पूर्यते⟫ and **Caus.**: to fill completely
 
 **⟪भी⟫** 3P **⟪बिभेति⟫**: to fear (Abl., Gen.)
 
-:::indent
+::: indent
 **Fut.** ⟪भेष्यति⟫  
 **Pass.** ⟪भीयते⟫  
-**Kaus.** ⟪भाययति⟫  
+**Caus.** ⟪भाययति⟫  
 **PPP** ⟪भीत⟫  
 **Inf.** ⟪भेतुम्⟫
 
-derived from this:
+thereof:
 
-**⟪भय⟫** n.: fear, dread; danger (the subjective and the objective aspect)
-::::::media
+**⟪भय⟫** n.: fear, dread; danger (the subjective and the objective side)
+:::
+::: media
 ![](/images/lekt3304.webp)
 Fig.: ⟪भयम्⟫
 (Image source: [Details](/en/licenses#lekt3304))
 :::
 **⟪भृ⟫** 3U **⟪बिभर्ति⟫**: to carry, to bring; to sustain, to nourish
 
-:::indent
+::: indent
 **Fut.** ⟪भरिष्यति⟫  
 **Pass.** ⟪भ्रियते⟫  
-**Kaus.** ⟪भारयति⟫  
+**Caus.** ⟪भारयति⟫  
 **PPP** ⟪भृत⟫  
 **Inf.** ⟪भर्तुम्⟫
 
-derived from this:
+thereof:
 
 **⟪भार⟫** m.: burden
 :::
 **⟪मा⟫** 3Ā **⟪मिमीते⟫**: to measure
 
-:::indent
+::: indent
 **Fut.** ⟪मास्यति⟫ / ⟪मास्यते⟫  
 **Pass.** ⟪मीयते⟫  
-**Kaus.** ⟪मापयति⟫  
+**Caus.** ⟪मापयति⟫  
 **PPP** ⟪मित⟫  
 **Inf.** ⟪मातुम्⟫
 :::
-**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫**: to compare
+**⟪मा⟫** + **⟪उप⟫** 3Ā **⟪उपमिमीते⟫**: compare
 
-:::indent
-derived from this:
+::: indent
+thereof:
 
 **⟪उपमा⟫** f.: comparison
 
@@ -325,7 +336,7 @@ derived from this:
 :::
 **⟪हा⟫** 3P **⟪जहाति⟫**: to leave
 
-:::indent
+::: indent
 **Fut.** ⟪हास्यति⟫  
 **Pass.** ⟪हीयते⟫  
 **Kaus.** ⟪हापयति⟫  
@@ -333,30 +344,30 @@ derived from this:
 **Inf.** ⟪हातुम्⟫
 from PPP **⟪हीन⟫**:
 
-**⟪हीनयान⟫** n.: the deficient vehicle (of Buddhism): a derogatory term used by proponents of the "Great Vehicle," the **⟪महायान⟫**; the deficient path (**⟪यान⟫** from **⟪या⟫** 2: to go, to travel). The term ⟪हीनयान⟫ should no longer be used. The surviving form of the ancient Buddhism is called **⟪थेरवाद⟫**.
-::::::media
+**⟪हीनयान⟫** n.: the deficient vehicle (of Buddhism): derogatory term used by the representatives of the "great vehicle", the **⟪महायान⟫**; the deficient path (**⟪यान⟫** to **⟪या⟫** 2: to go, to drive). The expression ⟪हीनयान⟫ should no longer be used. The form of the old Buddhism that still exists today is called **⟪थेरवाद⟫**.
+:::
+::: media
 ![](/images/lekt3303.webp)
 Fig.: ⟪हीनयानमेव⟫
 (Image source: [Details](/en/licenses#lekt3303))
 :::
-**⟪हु⟫** 3P **⟪जुहोति⟫**: to pour into the fire (as an offering, esp. melted butter)
+**⟪हु⟫** 3P **⟪जुहोति⟫**: to pour into fire (as an offering, esp. melted butter)
 
-:::indent
+::: indent
 **Fut.** ⟪होष्यति⟫  
 **Pass.** ⟪हूयते⟫  
 **Kaus.** ⟪हावयति⟫  
 **PPP** ⟪हुत⟫  
 **Inf.** ⟪होतुम्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3302.webp)
 Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 (Image source: [Details](/en/licenses#lekt3302))
-
 :::
-**⟪घृत⟫** n.: Clarified butter, Ghee (⟪घी⟫ / گھی / ঘী)
+**⟪घृत⟫** n.: melted butter, ghee (⟪घी⟫ / گھی / ঘী)
 
-:::
-note-box
+::: note-box
 "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
 
 [Source: http://en.wikipedia.org/wiki/Ghee. -- Accessed on 2008-12-26]
@@ -367,7 +378,7 @@ A) Insert the corresponding forms of the words in parentheses into the following
 
 ⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 
-B) Insert the corresponding forms of the verbs specified in parentheses in the Indicative Present, Imperfect, and Optative moods:
+B) Insert the corresponding forms of the verbs specified in parentheses in the Indicative Present, Imperfect, and Optative:
 
 ⟪ब्राह्मणो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
 
@@ -393,7 +404,7 @@ C) Translate and convert singular sentences into plural sentences and vice versa
 
 ⟪ब्राह्मणा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪ब्राह्मणदासो⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫ ⟪॥३॥⟫
 
-:::media
+::: media
 ![](/images/lekt3308.webp)
 Fig.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪स्त्री⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫
 (Image source: [Details](/en/licenses#lekt3308))
@@ -406,19 +417,17 @@ Fig.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्र�
 
 ⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-:::deleteme-box
-
-### Sources
+::: deleteme-box
 
 **Ghee Definition & Details:**
 * Source: http://en.wikipedia.org/wiki/Ghee (Accessed: 2008-12-26)
 
-**List of Figures & Licenses:**
-* **Fig. lekt3306 (wedding party, Chennai):** Image source: http://www.pbase.com/chandra/image/62118318 (Accessed on 2008-12-27). Creative Commons License (Attribution, Non-commercial, Share Alike).
-* **Fig. lekt3307 (Udaipur carrier):** Image source: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, Accessed on 2008-12-27). Creative Commons License (Attribution, Non-commercial, No Derivative Works).
-* **Fig. lekt3305 (Samadhi yogini, Kaveripakkam):** Image source: Quadell / Wikipedia (GNU Free Documentation License).
+**Image Directory & Licenses:**
+* **Fig. lekt3306 (wedding party, Chennai):** Image source: http://www.pbase.com/chandra/image/62118318 (Accessed on 2008-12-27). Creative Commons License (Attribution, non-commercial use, share alike).
+* **Fig. lekt3307 (Udaipur carrier):** Image source: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, Accessed on 2008-12-27). Creative Commons License (Attribution, non-commercial use, no derivatives).
+* **Fig. lekt3305 (Samadhi yogini, Kaveripakkam):** Image source: Quadell / Wikipedia (GNU FDL).
 * **Fig. lekt3304 (bhaya carrier, Mumbai):** Image source: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, Accessed on 2008-12-26). Creative Commons License (Attribution).
-* **Fig. lekt3303 (Hinayana Thailand):** Image source: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, Accessed on 2008-12-26). Creative Commons License (Attribution, Non-commercial).
-* **Fig. lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Image source: Dey (http://www.flickr.com/photos/dey/466758922/, Accessed on 2008-12-26). Creative Commons License (Attribution, Non-commercial, Share Alike).
-* **Fig. lekt3308 (woman carrier, Delhi):** Image source: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, Accessed on 2008-12-27). Creative Commons License (Attribution, Non-commercial, No Derivative Works).
+* **Fig. lekt3303 (Hinayana Thailand):** Image source: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, Accessed on 2008-12-26). Creative Commons License (Attribution, non-commercial use).
+* **Fig. lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Image source: Dey (http://www.flickr.com/photos/dey/466758922/, Accessed on 2008-12-26). Creative Commons License (Attribution, non-commercial use, share alike).
+* **Fig. lekt3308 (woman carrier, Delhi):** Image source: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, Accessed on 2008-12-27). Creative Commons License (Attribution, non-commercial use, no derivatives).
 :::

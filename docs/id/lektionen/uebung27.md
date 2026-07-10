@@ -66,7 +66,7 @@ As the Brahmin woman arrives at the great poet, her son also arrives.
 (⟪सुष्ठ⟫u ⟪नीता⟫ ⟪बालाः⟫)
 When the teachers teach, well-bred children must not chatter (speak).
 
-:::media
+::: media
 ![](/images/uebung044.webp)
 Fig.: ⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫
 (Image source: [Details](/en/licenses#uebung044))

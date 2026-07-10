@@ -8,7 +8,7 @@ status: stable
 
 ## 32.1. The Past Tenses
 
-::::grammar-box
+::: grammar-box
 **In older Sanskrit literature and according to native grammarians, the three past tenses are clearly distinguished in their usage:**
 
 *   **The Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) denotes either simply the completion of an action or refers to events that occurred on the current day, i.e., the recent past.**
@@ -16,10 +16,10 @@ status: stable
 *   **The Perfect (⟪लिट्⟫), like the Imperfect, denotes the distant past; however, in contrast to the Imperfect, it is used exclusively for events that the speaker themselves did not witness.**
 
 **In classical Sanskrit literature, the three past tenses are used without semantic distinction (exception: Bhāravi’s poetic work ⟪किरातार्जुनीय⟫).**
-::::
+:::
 ## 32.2. The Imperfect (⟪लङ्⟫)
 
-::::grammar-box
+::: grammar-box
 **Formation:**
 
 **Augment a- + Present stem + Secondary ending**
@@ -27,10 +27,10 @@ status: stable
 **The three singular persons of the Parasmaipada Imperfect are formed from the strong present stem for athematic stems; all other forms are derived from the weak present stem.**
 
 **The Imperfect has only the indicative mood.**
-::::
+:::
 Examples:
 
-:::indent
+::: indent
 **⟪भू⟫** 3rd sg. Impf. P. **⟪अभवत्⟫** (a-bhava-t)
 
 **⟪सु⟫**
@@ -39,12 +39,12 @@ Examples:
 :::
 ## 32.3. Rules for the Augment
 
-::::grammar-box
+::: grammar-box
 **1. If the augment *a-* precedes a root beginning with a vowel, the augment and the initial vowel of the root fuse to form the *vṛddhi* grade of the root vowel.**
-::::
+:::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | | 3. sg. Imperfect | 3. pl. Imperfect |
 | :--- | :--- | :--- |
@@ -52,12 +52,13 @@ Examples:
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
 | ⟪आस्⟫ | ⟪आस्त⟫:br(a + ās-ta) | |
 
-::::::::grammar-box
+:::
+::: grammar-box
 **2. If preverbs precede a root, the augment *a-* follows the preverbs and immediately precedes the root.**
-::::
+:::
 Examples:
 
-::::grammar-box
+::: grammar-box
 
 | | 3. sg. Imperfect |
 | :--- | :--- |
@@ -66,29 +67,28 @@ Examples:
 | ⟪उपगम्⟫ | ⟪उपागच्छत्⟫:br(upa + a + gaccha-t) |
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
-::::
+:::
 ## 32.4. Examples of Imperfect Formation
 
-:::
-important
-**To demonstrate the formation of forms, Ātmanepada forms are also generated for Parasmaipada roots here! These artificial forms are enclosed within &lt; &gt;.**
+::: important
+**To demonstrate the formation of forms, Ātmanepada forms are also generated for Parasmaipada roots here! These artificial forms are enclosed within \< \>.**
 :::
 ### 32.4.1. Thematic Present Classes
 
-::::grammar-box
+::: grammar-box
 
 | Present Class | Root:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | &lt;⟪अभवत⟫&gt; | &lt;⟪अभवन्त⟫&gt; |
-| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | &lt;⟪अनृत्यत⟫&gt; | &lt;⟪अनृत्यन्त⟫&gt; |
-| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | &lt;⟪अविशत⟫&gt; | &lt;⟪अविशन्त⟫&gt; |
+| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \&lt;⟪अभवत⟫\&gt; | \&lt;⟪अभवन्त⟫\&gt; |
+| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \&lt;⟪अनृत्यत⟫\&gt; | \&lt;⟪अनृत्यन्त⟫\&gt; |
+| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \&lt;⟪अविशत⟫\&gt; | \&lt;⟪अविशन्त⟫\&gt; |
 | 10. / Caus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
 | Passive | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
-::::
+:::
 ### 32.4.2. Atherematic Present Classes
 
-::::grammar-box
+::: grammar-box
 
 | Present Class | Root:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -99,14 +99,14 @@ important
 | 2. | ⟪स्तु⟫ | ⟪अस्तौत्⟫:br⟪अस्तवीत्⟫ | ⟪अस्तुवन्⟫ | ⟪अस्तुत⟫ | ⟪अस्तुवत⟫ |
 | 2. | ⟪अस्⟫ | ⟪आसीत्⟫ | ⟪आसन्⟫ | | |
 | 5. | ⟪सु⟫ | ⟪असुनोत्⟫ | ⟪असुन्वन्⟫ | ⟪असुनुत⟫ | ⟪असुन्वत⟫ |
-| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | &lt;⟪आप्नुत⟫&gt; | &lt;⟪आप्नुवत⟫&gt; |
+| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \&lt;⟪आप्नुत⟫\&gt; | \&lt;⟪आप्नुवत⟫\&gt; |
 | 8. | ⟪तन्⟫ | ⟪अतनोत्⟫ | ⟪अतन्वन्⟫ | ⟪अतनुत⟫ | ⟪अतन्वत⟫ |
 | 8. | ⟪कृ⟫ | ⟪अकरोत्⟫ | ⟪अकुर्वन्⟫ | ⟪अकुरुत⟫ | ⟪अकुर्वत⟫ |
 | 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t > ayunakt > ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
 | 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t > aruṇaddh > aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
-::::
+:::
 ## 32.5. Word List
 
 **⟪अग्र⟫ n.:** tip, extreme end
@@ -116,7 +116,7 @@ important
 **⟪एकदा⟫**
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
-:::indent
+::: indent
 ⟪श्रमिष्यते⟫:br
 ⟪श्रम्यते⟫:br
 ⟪श्रमयति⟫:br
@@ -129,7 +129,7 @@ important
 
 **⟪चूत⟫**
 
-:::media
+::: media
 ![](/images/lekt3202.webp)
 Fig.: ⟪चूतः⟫
 Mango tree, Kanpur.
@@ -144,7 +144,7 @@ Mango tree, Kanpur.
 **⟪परम्⟫**
 
 **⟪रुह्⟫ ⟪रोहति⟫**
-:::indent
+::: indent
 ⟪रोक्ष्यति⟫:br
 ⟪रुह्यते⟫:br
 ⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
@@ -153,7 +153,7 @@ Mango tree, Kanpur.
 ⟪रोढुम्⟫
 :::
 **⟪ग्रह्⟫ ⟪गृह्णाति⟫**
-:::indent
+::: indent
 ⟪ग्रहीष्यति⟫ (!):br
 ⟪गृह्यते⟫:br
 ⟪ग्राहयति⟫:br
@@ -163,14 +163,14 @@ Mango tree, Kanpur.
 :::
 **⟪वानर⟫ ⟪कपि⟫**
 
-:::media
+::: media
 ![](/images/lekt3203.webp)
 Fig.: ⟪वानराः⟫
 Monkeys (rhesus macaques) in Delhi.
 (Image source: [Details](/en/licenses#lekt3203))
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
-:::indent
+::: indent
 ⟪लोकयिष्यति⟫:br
 ⟪लोक्यते⟫:br
 ⟪लोकित⟫:br
@@ -183,7 +183,7 @@ Monkeys (rhesus macaques) in Delhi.
 
 **⟪उपल⟫**
 
-:::media
+::: media
 ![](/images/lekt3204.webp)
 Fig.: ⟪उपलाः⟫
 Stone quarry south of Pune, Maharashtra.
@@ -191,14 +191,14 @@ Stone quarry south of Pune, Maharashtra.
 :::
 **⟪लक्ष्य⟫**
 
-:::media
+::: media
 ![](/images/lekt3205.webp)
 Fig.: ⟪लक्ष्यम्⟫
 Target practice / arrow target, Karnataka.
 (Image source: [Details](/en/licenses#lekt3205))
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
-:::indent
+::: indent
 ⟪क्षेप्स्यति⟫:br
 ⟪क्षिप्यते⟫:br
 ⟪क्षेपयति⟫:br
@@ -207,18 +207,19 @@ Target practice / arrow target, Karnataka.
 ⟪क्षेप्तुम्⟫
 :::
 **⟪चि⟫ ⟪चिनोति⟫**
-:::indent
+::: indent
 ⟪चेष्यति⟫:br
 ⟪चीयते⟫:br
 ⟪चाययति⟫:br
 ⟪चित⟫:br
 -⟪चित्य⟫:br
 ⟪चेतुम्⟫
-::::::media
+:::: media
 ![](/images/lekt3207.webp)
 Fig.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
 Burning cow dung patties in Rajasthan.
 (Image source: [Details](/en/licenses#lekt3207))
+::::
 :::
 **⟪चि⟫ ⟪अव⟫**
 
@@ -228,7 +229,7 @@ Burning cow dung patties in Rajasthan.
 
 **⟪कौशल⟫ ⟪कुशल⟫**
 
-:::media
+::: media
 ![](/images/lekt3206.webp)
 Fig.: ⟪कौशलम्⟫
 Mehndi painting on hands in Mumbai.
@@ -326,7 +327,7 @@ B) Translate and resolve the compounds in Sanskrit:
 
 ⟪बुद्धपुत्राः⟫ ⟪सत्यमाजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫
 
-:::media
+::: media
 ![](/images/lekt3208.webp)
 Fig.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
 Buddhist monk in Sri Lanka.
@@ -549,7 +550,7 @@ C) Translate into Sanskrit:
 
 52. Farewell!
 
-:::media
+::: media
 ![](/images/lekt3209.webp)
 Fig.: ⟪पुनर्दर्शनाय⟫
 Indian greeting / farewell.
@@ -602,8 +603,7 @@ Translate and analyze the following word forms:
 
 ## 32.9. Translation Exercise
 
-:::
-compact
+::: compact
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫**⟪न्पथि⟫** ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
@@ -621,18 +621,20 @@ compact
 
 Explanations:
 
-:::indent
+::: indent
 **⟪पथि⟫** Loc. sg. of **⟪पथ्⟫ m.** "path" (irregular declension)
 
 **⟪लक्ष्यीकृ⟫** Chvi-suffix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : to make something a ⟪लक्ष्य⟫ (target/object of aim) that was not previously a ⟪लक्ष्य⟫
 
-**⟪आदाय⟫** Absolutive of **⟪आ⟫-⟪दा⟫** (3rd Present Class) "to take"
-::::::media
+**⟪आदाय⟫** Kata kerja infinitif dari **⟪आ⟫-⟪दा⟫** (Kelas Sekarang ke-3) "mengambil"
+:::: media
 ![](/images/lekt3210.webp)
-Fig.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
-Monkeys in mango trees.
-(Image source: [Details](/en/licenses#lekt3210))
-::::::deleteme-box
+Gambar: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
+Monyet di pohon mangga.
+(Sumber gambar: [Detail](/en/licenses#lekt3210))
+::::
+:::
+::: deleteme-box
 
 
 **lekt3202:** Mango tree, Kanpur. [Image source: AmarChandra / Wikipedia. CC BY-SA]

@@ -1,9 +1,9 @@
 ---
-title: Lezione 15
+title: Lektion 15
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
 last_reconstructed: 2026-05-21
-category: "Grammatica"
+category: "Grammatik"
 status: stable
 ---
 
@@ -21,8 +21,7 @@ status: stable
 Il rapporto tra entità designate da nomi (sostantivi e aggettivi) può essere espresso non solo mediante una costruzione genitiva, ma anche attraverso un Tatpuruṣa (⟪तत्पुरुष⟫). Analogamente, le attribuzioni attributive di aggettivi o le attribuzioni appositte di sostantivi possono essere espresse mediante un determinato tipo di Tatpuruṣa, ovvero quello cosiddetto Karmadhāraya (m.) = ⟪कर्मधारय⟫.
 
 ⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫ "il suo servo", ovvero, come designazione di questo tipo di composti, viene fornito un esempio di tale tipo di composto.
-
-:::grammar-box
+::: grammar-box
 
 Nei composti determinativi (Tatpuruṣa), un nome (sostantivo o aggettivo) viene specificato più dettagliatamente da un altro nome o avverbio. La parola specificata più dettagliatamente costituisce in genere il secondo elemento (Hinterglied) del composto.
 
@@ -47,8 +46,7 @@ Il genere di un Tatpuruṣa è, con poche eccezioni, quello del suo secondo elem
 
 :::
 ## 15.3. Determinativkomposita mit attributivem/appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
-
-:::grammar-box
+::: grammar-box
 
 Nella scomposizione del Karmadhāraya, entrambi i membri del composto si trovano nello stesso caso.
 
@@ -65,11 +63,13 @@ Nom. pl. ⟪गुणवत्पुत्राः⟫
 
 ⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "la divinità desiderata = la divinità a cui si ha un rapporto speciale di devozione e rifugio"
 
-:::media
+::: media
 ![](/images/lekt1501.webp)
 Fig.: ⟪लक्ष्मी⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1501))
-::::::grammar-box
+:::
+
+::: grammar-box
 
 Per quanto riguarda la sequenza dei membri in un Karmadhāraya, si deve osservare la seguente regola speciale:
 
@@ -84,14 +84,15 @@ Per quanto riguarda la sequenza dei membri in un Karmadhāraya, si deve osservar
 
     Tali Karmadhāraya appozitivi vengono risolti nei commenti indigeni, come nell'esempio sopra, mediante ⟪एव⟫.
 
-::::::media
+:::
+::: media
 ![](/images/lekt1503.webp)
 Fig.: ⟪नरसिंहः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1503))
 :::
 ## 15.4. Composti determinativi con un primo membro che ha con il secondo membro una relazione casuale non attributiva/appositiva = Tatpuruṣa in senso stretto
 
-:::grammar-box
+::: grammar-box
 
 Le combinazioni di tipo *Tatpuruṣa* sono possibili per connessioni di nominali (sostantivi e aggettivi), nelle quali il primo membro – in conformità alle regole della sintassi – può trovarsi in qualsiasi caso. Come previsto, il primo membro rappresenta più frequentemente il genitivo (⟪षष्ठी⟫), poiché questo è il caso che esprime la relazione tra nominali.
 
@@ -113,7 +114,7 @@ Quasi ogni relazione genitiva può essere sostituita da un *Tatpuruṣa*. Le poc
 
 Il primo membro di un *Tatpuruṣa* può però, in linea di principio, rappresentare qualsiasi caso. Tuttavia, non tutte le relazioni sintatticamente possibili possono essere sostituite da un *Tatpuruṣa*. Le regole corrispondenti si trovano, in caso di dubbio, in Kale, *A higher Sanskrit grammar* §§ 203-217, oppure in Pāṇini 2,1,22-2,2,22.
 
-:::grammar-box
+::: grammar-box
 
 Il primo membro può trovarsi, nella risoluzione del composto, al singolare, duale o plurale. Quale delle possibilità sia in gioco deve essere dedotto dal significato e dal contesto.
 
@@ -134,12 +135,12 @@ Potrebbe essere risolto anche come: ⟪देवस्य⟫ / ⟪देवा�
 
 ## 15.5. Scomposizione dei composti (esclusi i Dvandvas)
 
-:::grammar-box
-
+::: grammar-box
 Sebbene in sanscrito si possano formare composti di lunghezza arbitraria e ciò avvenga anche molto frequentemente (composti da 10 a 30 membri non sono affatto rari!), tuttavia – con l’eccezione dei Dvandvas – tutti i composti sono scomponibili in modo progressivo e gerarchico in due parti ciascuno:
 
-:::media
-![]/images/lekt1502.jpg
+:::
+::: media
+![](/images/lekt1502.jpg)
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt1502))
 :::
 e così via, fino a giungere ai singoli stemi lessicali.
@@ -148,49 +149,50 @@ Esempio:
 
 ⟪गुणवत्पुत्रकृतपुण्यम्⟫
 
-> 1\. livello (cesura principale): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
-> 
-> 2\. livello (prima cesura secondaria): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
-> 
-> 3\. livello (seconda cesura secondaria): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
-> 
-> = “la meritata azione (il merito), compiuta dal mio figlio virtuoso”
+::: indent
+1\. Stage (cesura principale): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
+2\. Livello (prima cesura secondaria): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+
+3\. livello (seconda cesura secondaria): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+
+= "la meritoria azione (il merito) che il mio figlio virtuoso ha compiuto"
+:::
 In tali scomposizioni possono essere mescolati diversi tipi di composti; ad esempio: membro anteriore Bahuvrīhi (⟪बहुव्रीहि⟫) – membro posteriore Tatpuruṣa, ecc.
 
 Esempio:
 
 ⟪ब्राह्मणक्षत्रियवैश्यधर्मः⟫
 
-> 1\. livello: ⟪ब्राह्मणक्षत्रियवैश्यानां⟫ ⟪धर्मः⟫ (membro anteriore: Itaretaradvandva)
-> 
-> 2\. livello: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
-> 
-> = “il dharma dei Brahmani, dei Kṣatriya e dei Vaiśya”
+::: indent
+1\. Livello: ⟪ब्राह्मणक्षत्रियवैश्यानां⟫ ⟪धर्मः⟫ (componente anteriore: Itaretaradvandva)
 
+2\. Fase: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
+
+= "Il Dharma di Brāhmaṇa, Kṣatriya e Vaiśya"
+:::
 Spesso esiste per un composto una sola possibilità di scomposizione; talvolta, invece, vi sono diverse possibilità di risoluzione. Qual sia la corretta o almeno la migliore, può essere deciso solo dal contesto e dal contenuto del testo. A volte questa decisione non è possibile. Spesso due possibilità di risoluzione sembrano essere intenzionate dall’autore. In tal caso, nella traduzione bisogna rendere entrambe le possibilità di scomposizione (collegate da “e”, “o”, “ovvero” e simili).
 
 Esempio:
 
 ⟪पुण्यवत्पुत्रकृतम्⟫
 
-> 1\. livello: oppure – oppure
-> 
-> 1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫
-> 2. ⟪पुण्यवत्पुत्रस्य⟫ ⟪कृतम्⟫
-> 3. ⟪पुण्यवत्⟫ ⟪पुत्रकृतम्⟫
-> 
-> 2\. livello: di conseguenza
-> 
-> 1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = “ciò che è stato fatto dal mio figlio meritevole”
-> 2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = “l’azione del mio figlio meritevole”
-> 3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = “ciò che è stato fatto, meritorio, dal mio figlio”
->    2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = “la meritosa azione del mio figlio”
+::: indent
+1\. Livello: oppure
 
+1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫
+2. ⟪पुण्यवत्पुत्रस्य⟫ ⟪कृतम्⟫
+3. ⟪पुण्यवत्⟫ ⟪पुत्रकृतम्⟫
+
+2\. Livello: corrispondente
+
+1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "ciò che è stato fatto dal mio figlio meritevole"
+2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "l'azione del mio figlio meritevole"
+3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "il meritorio, fatto dal mio figlio"
+   2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "l'azione meritoria del mio figlio"
 :::
-## 15.6. La forma del primo membro nei composti (⟪समास⟫ m.)
-
-:::grammar-box
+## 15.6. La forma del primo membro nei composti (⟪समास⟩ m.)
+::: grammar-box
 
 In tutti i tipi di composti, il primo membro è generalmente la radice lessicale non modificata. I nominali bisillabi si presentano nella forma della radice debole (stems weak). Gli aggettivi femminili, che specificano ulteriormente il secondo membro del composto, si trovano generalmente nella radice maschile:
 
@@ -230,7 +232,7 @@ ad esempio:
 7.  **⟪कर्मधारयः⟫** con ⟪कु⟫ (ku) / ⟪कद्⟫ (kad) come primo elemento: "cattivo...".
 8.  **⟪कर्मधारयः⟫** con ⟪किम्⟫ (kim) come primo elemento: biasimo.
 9.  PPP + PPP negato: "parzialmente"; ad esempio, ⟪कृताकृतम्⟫ (kṛtākṛtam) = "parzialmente fatto".
-10. **⟪द्विगुसमासः⟫** (Dvigu-samāsa): numerali nel primo elemento.
+10.  **⟪द्विगुसमासः⟫** (Dvigu-samāsa): numerali nel primo elemento.
 
 ## 15.8. Glossario
 
@@ -251,7 +253,7 @@ ad esempio:
 ⟪अर्ध⟫ 3: mezzo, m.n. metà
 
 ⟪पूजा⟫ f.: onore, accoglienza onorevole, venerazione religiosa (Pūjā)
-:::media
+::: media
 ![](/images/lekt1504.webp)
 Fig.: ⟪पूजा⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1504))
@@ -259,7 +261,7 @@ Fig.: ⟪पूजा⟫
 ⟪कुल⟫ n.: branco, moltitudine, stirpe, discendenza, famiglia
 
 ⟪इन्द्र⟫ m.: principe, primo, il migliore tra; re degli dei Indra
-:::media
+::: media
 ![](/images/lekt1505.webp)
 Fig.: ⟪इन्द्रः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1505))
@@ -280,42 +282,42 @@ Fig.: ⟪इन्द्रः⟫
 
 da ciò:
 
-:::indent
+::: indent
 ⟪स्तुति⟫ f.: lode, canto di lode
 
 ⟪स्तोत्र⟫ n.: (mezzo per lodare =) canto di lode, inno
 :::
 ⟪सिंह⟫ m.: leone (_Panthera leo persica_)
-:::media
+::: media
 ![](/images/lekt1506.webp)
 Fig.: ⟪सिंहः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1506))
 :::
 ⟪व्याघ्र⟫ m.: tigre (_Panthera tigris tigris_) (letteralmente: sbadigliatore)
-:::media
+::: media
 ![](/images/lekt1507.webp)
 Fig.: ⟪व्याघ्रः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt1507))
 :::
 ⟪इव⟫ (posposto): come, quasi (nei confronti: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un uomo come una tigre", "un uomo simile a una tigre")
 
-⟪एव⟫ (posposto): enfatizza il precedente, in tedesco corrisponde spesso all'enfasi, un tipo di emoticon `&lt;!&gt;`, es. ⟪सत्यमेव⟫ ⟪जयति⟫ "solo la verità vince", "proprio la verità vince", "la verità vince"
+⟪एव⟫ (posposto): enfatizza il precedente, in tedesco corrisponde spesso all'enfasi, un tipo di emoticon `\<!\>`, es. ⟪सत्यमेव⟫ ⟪जयति⟫ "solo la verità vince", "proprio la verità vince", "la verità vince"
 
 ⟪अरि⟫ m.: nemico (secondo Thieme, Der Fremdling im Ṛgveda: originariamente = straniero)
 
-:::indent
+::: indent
 ⟪आर्य⟫ 3: ariano, nobile; m. Ariano (autodefinizione degli antichi indiani parlanti sanscrito, letteralmente: Ospitale (Thieme)); Nobile, Uomo d'onore
 :::
 a ⟪जन्⟫
 
-:::indent
+::: indent
 ⟪जाति⟫ f.: nascita, tipo, casta (per ⟪जाति⟫ come casta vedere Basham, Wonder, pagg. 148ss.)
 :::
 ⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : morire (secondo i grammatici indiani: 6 Ā)
 
 da ciò:
 
-:::indent
+::: indent
 ⟪मरण⟫ n.: morire, morte
 
 ⟪मृति⟫ f.: morire, morte
@@ -509,8 +511,7 @@ Risolvere, come nell’Esercizio 1, i seguenti composti tatpuruṣa:
 ⟪५९⟫. ⟪कारुकुशीलवकृतम्⟫
 
 ⟪६०⟫. ⟪द्विजातिशुश्रूषया⟫
-
-:::media
+::: media
 ![](/images/lekt1508.webp)
 Fig.: ⟪ग्रामदेवता⟫
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt1508))
@@ -572,12 +573,13 @@ B) Risolvere i seguenti Tatpuruṣa:
 ⟪२५⟫. ⟪वर्णधर्मः⟫
 
 ⟪२६⟫. ⟪श्रुत्युदितम्⟫
-:::media
+::: media
 ![](/images/lekt1509.webp)
 Fig.: ⟪नागदेवाः⟫
 (Fonte dell’immagine: [Dettagli](/it/licenses#lekt1509))
-::::::deleteme-box
+:::
 
+::: deleteme-box
 
 - **Fig.: ⟪लक्ष्मी⟫** (Lakshmi): Dipinto di ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Fonte dell'immagine: Wikipedia, dominio pubblico.
 - **Fig.: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Fonte dell'immagine: Wikipedia, dominio pubblico.
@@ -589,3 +591,4 @@ Fig.: ⟪नागदेवाः⟫
 - **Fig.: ⟪ग्रामदेवता⟫** (Gramadevata): Signore Virpanath @ villaggio di Pasvadal, Vadgam, Gujarat, India. Fonte dell'immagine: ganuullu (Flickr), licenza Creative Commons.
 - **Fig.: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Fonte dell'immagine: Dineshkannambadi / Wikipedia, licenza GNU FDL.
 :::
+

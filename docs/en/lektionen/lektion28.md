@@ -1,5 +1,5 @@
 ---
-title: Lesson 28
+title: Lektion 28
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
@@ -9,82 +9,88 @@ last_reconstructed: 2026-05-16
 
 ## 28.1. The Causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
-:::grammar-box
-**If one wants to express that someone or something causes or brings about that someone else or something else does or suffers something, which is expressed by a root (with or without prefix), then one uses the causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
+::: grammar-box
+**If one wishes to express that someone or something causes or brings about that someone else or something else does or suffers something expressed by a root (with or without a prefix), the causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫) is used.**
 
 Example:
-⟪गम्⟫ "to go" » Causative: ⟪गमयति⟫ "he causes someone to go; he sends"
-⟪दृश्⟫ "to see" » Causative: ⟪दर्शयति⟫ "he makes see = he shows"
+⟪गम्⟩ "to go" » Causative: ⟪गमयति⟩ "he causes someone to go; he sends"
+⟪दृश्⟩ "to see" » Causative: ⟪दर्शयति⟩ "he causes to see = he shows"
 :::
----
 
 ## 28.2. Sentence Construction with the Causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
-:::grammar-box
-**Schema 1:**
+::: grammar-box
+**Scheme 1:**
 
-**If the root underlying the causative (with or without prefix) is INTRANSITIVE (i.e., cannot take an accusative object) or expresses movement, knowledge, information, or eating:**
+**If the root underlying the causative (with or without a prefix) is INTRANSITIVE (i.e., cannot take an accusative object) or expresses movement, knowledge, information, or eating:**
 
-**Agent (⟪कर्ता⟫) of the causative in the Nominative (⟪प्रथमा⟫) — Agent of the caused action in the Accusative (⟪द्वितीया⟫) — (Goal of movement, object of knowledge, etc. in the Accusative = ⟪द्वितीया⟫) — Verb in the causative**
+**Agent (⟪कर्ता⟩) of the causative in the Nominative (⟪प्रथमा⟩) — Agent of the caused action in the Accusative (⟪द्वितीया⟩) — (Target of movement, object of knowledge, etc. in the Accusative = ⟪द्वितीया⟩) — Verb in the Causative**
 :::
 Examples:
 
-⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "an evil person causes Rāma to be confused = confuses Rāma = causes Rāma to err"
-Result: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma is confused / deluded / errs."
+⟪दुर्जनो⟩ ⟪रामं⟩ ⟪मोहयति⟩ = "an evil person causes Rāma to be confused = confuses Rāma = causes Rāma to err"
+Result: ⟪रामो⟩ ⟪मुह्यति⟩ = "Rāma is confused / deluded / errs."
 
-⟪रामः⟫ ⟪शत्रून्स्वर्गं⟫ ⟪गमयति⟫ = "Rāma causes the enemies to go to heaven = sends the enemies to heaven"
-Result: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = "the enemies go to heaven / come to heaven"
+⟪रामः⟩ ⟪शत्रून्स्वर्गं⟩ ⟪गमयति⟩ = "Rāma causes the enemies to go to heaven = sends the enemies to heaven"
+Result: ⟪शत्रवः⟩ ⟪स्वर्गं⟩ ⟪गच्छन्ति⟩ = "the enemies go to heaven / come to heaven"
 
-⟪गुरू⟫ ⟪रामं⟫ ⟪वेदार्थं⟫ ⟪वेदयति⟫ = "The teacher causes Rāma to know the meaning of the Veda = explains / teaches Rāma the meaning of the Veda"
-Result: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = "Rāma knows / understands the meaning of the Veda"
+⟪गुरू⟩ ⟪रामं⟩ ⟪वेदार्थं⟩ ⟪वेदयति⟩ = "The teacher causes Rāma to know the meaning of the Veda = explains / teaches Rāma the meaning of the Veda"
+Result: ⟪रामो⟩ ⟪वेदार्थं⟩ ⟪वेत्ति⟩ = "Rāma knows / understands the meaning of the Veda"
 
-⟪स⟫ ⟪रामं⟫ ⟪वेदमध्यापयति⟫ = "he teaches Rāma the Veda"
-Result: ⟪रामो⟫ ⟪वेदमधीते⟫ "Rāma studies the Veda"
+⟪स⟩ ⟪रामं⟩ ⟪वेदमध्यापयति⟩ = "he teaches Rāma the Veda"
+Result: ⟪रामो⟩ ⟪वेदमधीते⟩ "Rāma studies the Veda"
 
-⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Rāma causes the gods to eat immortality food = gives the gods immortality food to eat" (⟪अश्⟫ 9 "to eat")
-Result: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "The gods eat immortality food"
+⟪रामो⟩ ⟪देवानामृतमाशयति⟩ = "Rāma causes the gods to eat nectar = gives the gods nectar to eat" (⟪अश्⟩ 9 "to eat")
+Result: ⟪देवा⟩ ⟪अमृतमश्नन्ति⟩ "The gods eat nectar"
 
-:::media
+::: media
 ![](/images/lekt2802.webp)
-Fig.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
+Fig.: ⟪स⟩ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟩
 ISKCON Temple Bangalore.
 (Image source: [Details](/en/licenses#lekt2801))
-::::::grammar-box
-**Constructed according to Schema 1 is also the root ⟪दृश्⟫:**
+:::
 
-**Exceptions to Schema 1 see under Schema 2**
+::: grammar-box
+**Also constructed according to Scheme 1 is the root ⟪दृश्⟩:**
+
+**Exceptions to Scheme 1 see under Scheme 2**
 
 Example:
-(⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "he shows the son to Rāma"
+(⟪स⟩) ⟪रामं⟩ ⟪पुत्रं⟩ ⟪दर्शयति⟩ = "he shows the son to Rāma"
 :::
-The following verse summarizes examples of causative formation according to Schema 1 (the verbal forms are each the 3rd person Imperfect Parasmaipada):
-
+The following verse summarizes examples of causative formation according to Scheme 1 (the verbal forms are each the 3rd Person Imperfect Parasmaipada):
+::: indent
 ⟪शत्रूनगमयत्स्वर्गं⟫
 ⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
 ⟪आशयच्चामृतं⟫ ⟪देवान्⟫
 ⟪वेदमध्यापयद्विधिम्⟫ ⟪।⟫
 ⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
 ⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
+:::
 
-:::indent
+::: indent
 My refuge and my goal is Hari,
 Who sent the enemies to heaven,
 Who taught his followers the meaning of the Veda,
-Who fed the gods with immortality food,
+Who fed the gods with nectar,
 Who taught the Creator the Veda,
-Who placed the earth in the water.
-::::::media
+Who set the earth in the water.
+:::
+::: media
 ![](/images/lekt2801.webp)
 Fig.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
 Jadavpur University Management building.
 (Image source: [Details](/en/licenses#lekt2802))
-::::::grammar-box
+:::
+
+::: grammar-box
 **Schema 2:**
 
-**With transitive verbs (except those mentioned under Schema 1). Also with all verbs when the action designated by the causative is caused (i.e., when the causative is thus a causative of a causative):**
+**With transitive verbs (except those mentioned under Schema 1). Also with all verbs, when the action designated by the causative is caused (i.e., when the causative is a causative of a causative):**
 
 **Agent (⟪कर्ता⟫) of the causative in the Nominative (⟪प्रथमा⟫) — Agent of the caused action in the Instrumental (⟪तृतीया⟫) — Object of the caused action in the case it would have according to the simple verb (i.e., usually in the Accusative) — Verb in the causative**
-::::::indent
+:::
+::: indent
 Examples:
 (⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = "He causes Rāma to leave his wife"
 Result: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma leaves his wife"
@@ -92,22 +98,23 @@ Result: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ 
 ⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Viṣṇumitra causes Rāma to cause Govinda to go = Viṣṇumitra has Rāma send Govinda away"
 Result: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Rāma sends Govinda away"
 Result of this result: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda goes"
-::::::grammar-box
+:::
+::: grammar-box
 **Exceptions to Schema 1:**
 
 **The following verbs also construct according to Schema 2:**
 
 **Causative of:**
 - **⟪नी⟫ "to lead"**
-- **⟪वह्⟫ "to drive" (only when the agent of the caused action is not a driver)**
+- **⟪वह्⟫ "to travel" (only when the agent of the caused action is not the driver)**
 - **⟪स्मृ⟫ "to recall" (there are exceptions to this)**
 - **⟪अद्⟫ "to eat"**
 - **⟪खाद्⟫ "to chew"**
 :::
 Examples:
 
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma has the servant lead or drive the burden"
-Result: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "The servant leads or drives the burden"
+⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma has the servant lead or travel with the burden"
+Result: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "The servant leads or travels with the burden"
 
 ⟪रामो⟫ ⟪बालेनान्नमादयति⟫ ⟪खादयति⟫ ⟪वा⟫ = "Rāma has the boy eat or chew food"
 Result: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति⟫ ⟪वा⟫ = "the boy eats or chews food"
@@ -115,7 +122,7 @@ Result: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति�
 (⟪स⟫) ⟪रामेण⟫ ⟪स्मारयति⟫ = "He causes Rāma to remember"
 Result: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma remembers"
 
-:::grammar-box
+::: grammar-box
 **The following causatives can construct both according to Schema 1 and according to Schema 2:**
 
 - **⟪हृ⟫ "to hold, to fetch"**
@@ -124,20 +131,20 @@ Result: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma remembers"
 :::
 Examples:
 
-⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma has the servant make or fetch a mat (⟪कट⟫ m.)"
+⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma has the servant make or fetch a mat (⟪कट⟫ f.)"
 or:
 ⟪रामो⟫ ⟪भृत्येन⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫
 Result: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ ⟪हरति⟫ ⟪वा⟫ = "The servant makes or fetches a mat"
 
-⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = "Rāma has the boy see the picture = shows the boy the picture (in his own interest)"
+⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = "Rāma has the boy see the image = shows the boy the image (for his own interest)"
 or:
 ⟪रामो⟫ ⟪बालेन⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫
-Result: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "the boy sees the picture"
+Result: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "the boy sees the image"
 
 When the causative is used in a passive construction, the following schema is almost always applied:
 
-:::grammar-box
-**Schema A (Passive Construction):**
+::: grammar-box
+**Schema A (Passive construction):**
 
 **Agent of the causative in the Instrumental (⟪तृतीया⟫) — Agent of the caused action in the Nominative (⟪प्रथमा⟫) — Object of the caused action in the case it would have according to the simple verb (i.e., usually in the Accusative) — Verb in the causative**
 :::
@@ -149,237 +156,235 @@ Result: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "
 ⟪रामेण⟫ ⟪भृत्यः⟫ ⟪कटं⟫ ⟪कार्यते⟫ = "Rāma has the servant make a mat"
 Result: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "The servant makes a mat"
 
-⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma has the servant fetch the burden"
-Result: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "The servant fetches the burden"
+⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma has the servant fetch the load"
+Result: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "The servant fetches the load"
 
----
+## 28.3. Formation of the present stem from the causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
-## 28.3. Formation of the present stem for the causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-
-:::grammar-box
+::: grammar-box
 **The thematic endings of the present stem are added to the causative stem**
 :::
 There are various formation types:
 
-:::grammar-box
-**Formation type 1: (mostly) guṇited root + -aya-**
+::: grammar-box
+**Formation type 1: (usually) guṇa-grade root + -aya-**
 :::
 Examples:
 
-| Root | Causative 3rd sg. Indicative Present | Meaning |
+| Root | Kausativ 3. sg. Indikativ Present | Meaning |
 | :--- | :--- | :--- |
 | ⟪विश्⟫ | ⟪वेशयति⟫ | he/she/it causes to enter, leads in |
-| ⟪लुभ्⟫ | ⟪लोभयति⟫ | to make desire, to make desirous, to entice |
-| ⟪दृश्⟫ | ⟪दर्शयति⟫ | to make see = to show |
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | to make turn, to turn (transitive), to roll (transitive), to set in motion |
+| ⟪लुभ्⟫ | ⟪लोभयति⟫ | cause to desire, make desirous, entice |
+| ⟪दृश्⟫ | ⟪दर्शयति⟫ | cause to see = show |
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | cause to turn, turn (transitive), roll (transitive), set in motion |
 
-:::grammar-box
-**Formation type 2: dīrghited root + -aya-**
+::: grammar-box
+**Formation type 2: dīrgha-grade root + -aya-**
 
 **Often with roots ending in a vowel, and with roots where a single final consonant follows -a-.**
 :::
 Examples:
 
-| Root | Causative 3rd sg. Indicative Present | Meaning |
+| Root | Kausativ 3. sg. Indikativ Present | Meaning |
 | :--- | :--- | :--- |
-| ⟪भू⟫ | ⟪भावयति⟫:br(from: bhau-aya-ti) | to cause someone or something to become, to produce |
-| ⟪इ⟫ | ⟪आययति⟫:br(from: ai-aya-ti) | to cause someone to go |
-| ⟪नी⟫ | ⟪नाययति⟫:br(from: nai-aya-ti) | to let lead |
-| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | to let make |
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | to let speak, to make speak, (to make speak a text =) to read aloud |
+| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | cause someone or something to become, produce |
+| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | cause someone to go |
+| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | cause to lead |
+| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | cause to do |
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | cause to speak, make speak, (to make speak a text =) read aloud |
 
-:::grammar-box
-**Formation type 3: weak-grade root + -aya-**
+::: grammar-box
+**Formation type 3: zero-grade root + -aya-**
 
 **Occurs.**
 :::
 Example:
 
-| Root | Causative 3rd sg. Indicative Present | Meaning |
+| Root | Kausativ 3. sg. Indikativ Present | Meaning |
 | :--- | :--- | :--- |
-| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | to corrupt (someone) |
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (to) corrupt |
 
-:::grammar-box
+::: grammar-box
 **Formation type 4: root + -paya-**
 
 **With roots ending in -ā and some other roots.**
 :::
 Examples:
 
-| Root | Causative 3rd sg. Indicative Present | Meaning |
+| Root | Kausativ 3. sg. Indikativ Present | Meaning |
 | :--- | :--- | :--- |
-| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | to make stand, to set up |
-| ⟪इ⟫ + ⟪अधि⟫:br"to study" | ⟪अध्यापयति⟫:br(from: adhi+ā-paya-ti):br(for explanation see Thumb-Hauschildt Vol. I,2 p. 341) | to let study, to instruct |
+| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | cause to stand, set up |
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Explanation siehe Thumb-Hauschildt Bd. I,2 S. 341) | cause to study, instruct |
 
-:::grammar-box
+::: grammar-box
 **Irregular formations:**
 
-**Native grammarians consider the following forms to be causatives:**
+**Native grammarians consider the following forms as causatives:**
 
-- **han** : Caus. **ghātayati**¹ "to cause to strike, to cause to kill"
-- **pā** 2 "to guard": **pālayati**² "to bring across, to save, to protect"
+- **han** : Caus. **ghātayati**¹ "cause to strike, cause to kill"
+- **pā** 2 "to protect": **pālayati**² "to bring across, save, protect"
 :::
 Notes:
-1. **ghātayati** is in fact a verb derived from the noun **ghāta** m. "strike" (denominative) and is used instead of the causative of **han**.
-2. **pālayati** is a genuine causative, but from the root **pṛ** 3 "to bring across, to save, to protect": **pārayati** (pār-aya-ti) » **pālayati** (in some parts of India an r corresponds to an l, in others conversely an l corresponds to an r).
-
----
+1. **ghātayati** is in reality a verb derived from the noun **ghāta** m. "blow" (denominative) and is used instead of the causative of **han**.
+2. **pālayati** is a genuine causative, but from the root **pṛ** 3 "to bring across, save, protect": **pārayati** (pār-aya-ti) » **pālayati** (in some parts of India r corresponds to l, in others conversely l corresponds to r).
 
 ## 28.4. Formation of the Passive (⟪यक्⟫) from the Causative
 
-:::grammar-box
-**The Passive from the Causative is formed as follows:**
+::: grammar-box
+**The passive of the causative is formed as follows:**
 
-**Causative stem WITHOUT -aya- + Passive suffix -ya-**
+**Causative stem WITHOUT -aya- + passive suffix -ya-**
 
 Examples:
 **bhāvyate** (bhāv-ya-te) "he/she/it is brought forth"
 **sthāpyate** (sthāp-ya-te) "he/she/it is placed"
 :::
-While the passive from the original root is usually formed from the guṇa-grade root, the passive of the causative can usually be recognized by the fact that it is formed from the strong or dīrgha-grade root.
+While the passive of the original root is usually formed from the guṇa-grade root, the passive of the causative can usually be recognized by the fact that it is formed from the strong or lengthened-grade root.
 
----
+## 28.5. Formation of the Future (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) from the Causative
 
-## 28.5. Formation of the Future (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) of the Causative
-
-:::grammar-box
-**The Future of the Causative is formed from the causative stem, whereby the final -a- of the causative suffix is dropped:**
+::: grammar-box
+**The future of the causative is formed from the causative stem, whereby the final -a- of the causative suffix is dropped:**
 
 **-ay-iṣya-**
 
 Example:
 **budh** Future-Causative: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "he/she/it will awaken"
 :::
----
 
-## 28.6. Formation of the PPP (⟪क्त⟫) for the Causative
+## 28.6. Formation of the PPP (⟪क्त⟫) from the Causative
 
-:::grammar-box
-**Causative stem in -ay- (without final a) + -i- + -ta**
+::: grammar-box
+**Causative stem on -ay- (without final a) + -i- + -ta**
 
 Examples:
 **gam** — **gamayati** — **gamita** (gam-i-ta) "sent" (PPP of the simple root: **gata**)
 **sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "placed"
 :::
----
 
-## 28.7. Formation of the Absolutiv (⟪क्त्वा⟫ . ⟪ल्यप्⟫) from the Causative
+## 28.7. Formation of the Absolutives (⟪क्त्वा⟫ . ⟪ल्यप्⟫) from the Causative
 
-:::grammar-box
-**The Absolutiv in -tvā is formed from the causative stem in -ay- (without final a):**
+::: grammar-box
+**The -tvā absolute is formed from the causative stem on -ay- (without final a):**
 
-**Causative stem in -ay- + -i- + -tvā**
+**Causative stem on -ay- + -i- + -tvā**
 
 Example:
-**sthāpayitvā** (sthā-pay-i-tvā) "after he has set up"
-::::::grammar-box
-**The Absolutiv in -ya occurs with causatives with a prefix usually at the causative stem WITHOUT -aya-**
+**sthāpayitvā** (sthā-pay-i-tvā) "after having placed"
+:::
+::: grammar-box
+**The -ya absolute occurs with causatives having a prefix usually on the causative stem WITHOUT -aya-**
 
 Examples:
-**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "after he has awakened"
-**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "after he has allowed to bring, after he has caused to bring"
-::::::grammar-box
-**However, if the root syllable of the causative contains a short -a- before a single consonant, the -ya of the Absolutiv appears at the causative stem in -ay- (without final a)**
+**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "after having awakened"
+**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "after having caused to bring near, after having caused to bring"
+:::
+::: grammar-box
+**However, if the root syllable of the causative contains a short -a- before a single consonant, the -ya of the absolute attaches to the causative stem on -ay- (without final a)**
 
 Example:
-**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "after he has caused to come"
+**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "after having caused to come"
 :::
----
 
-## 28.8. Formation of the Infinitive (⟪तुमुन्⟫) for the Causative
+## 28.8. Formation of the Infinitive (⟪तुमुन्⟫) from the Causative
 
-:::grammar-box
-**The infinitive of the causative is formed from the causative stem in -ay- (without final a):**
+::: grammar-box
+**The infinitive of the causative is formed from the causative stem on -ay- (without final a):**
 
-**Causative stem in -ay- + -i- + -tum**
+**Causative stem on -ay- + -i- + -tum**
 
 Example:
-**jan** — **janayati** — **janayitum** (janay-i-tum) "to produce"
+**jan** — **janayati** — **janayitum** (janay-i-tum) "in order to produce"
 :::
----
 
 ## 28.9. The 10th Present Class (⟪चुरादि⟫ = ⟪चुर्⟫ etc.)
 
-:::grammar-box
-**In the same way that causatives are formed, some roots of the 10th Present Class form the present (and other tenses) without being causatives.**
+::: grammar-box
+**In the same way as causatives, some roots of the 10th present class form the present (and the other tenses) without being causatives.**
 
 Examples:
-1.  Lengthened-grade root + -aya-: **⟪कम्⟫** 10A **⟪कामयते⟫** "to love"
-2.  Guṇa-grade root + -aya-: **cur** 10U **corayati** "to steal"; Future: **corayiṣyate**; Passive: **coryate**
-::::::grammar-box
-**The forms of the causative for verbs of the 10th Present Class are identical to the forms of the simple verb. The decision as to whether a causative is present is possible only from the meaning or sometimes from the construction.**
+1.  Lengthened-grade root + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "to love"
+2.  Strong-grade root + -aya- : **cur** 10U **corayati** "to steal"; Future: **corayiṣyate**; Passive: **coryate**
 :::
----
+::: grammar-box
+**The forms of the causative of verbs of the 10th present class are identical with the forms of the simple verb. The decision as to whether a causative is present is possible only from the meaning or sometimes from the construction.**
+:::
 
 ## 28.10. Word List
 
-:::indent
-**⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: to know, to recognize
+::: indent
+⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: to know, to recognize
 Fut. **vediṣyati**
 Pass. **vidyate**
 Caus. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
 from this: **vidyā** f., **veda** m.
-::::::indent
-**⟪विद्⟫** 6U **⟪विन्दति⟫** (!): to find
+:::
+::: indent
+⟪विद्⟫ 6U ⟪विन्दति⟫ (!): to find
 Fut. **vediṣyati** / **vetsyat**
 Pass. **vidyate**: there is, it exists
 Caus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
-::::::indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: to study, to learn by heart
+:::
+::: indent
+**i + adhi** 2Ā **adhīte**, **adhīyate**: to study, to memorize
 Caus. **adhyāpayati**: to cause to study, to teach
 from this: **adhyayana** n.: study (esp. of the Veda); **adhyāya** m.: lesson, chapter (section for memorization)
-::::::indent
-**⟪कम्⟫** 10Ā **⟪कामयते⟫**: to love
+:::
+::: indent
+⟪कम्⟫ 10Ā ⟪कामयते⟫: to love
 Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Caus. **kāmayati**
 PPP **kānta** (!)
 Inf. **kāmayitum** / **kamitum**
-::::::media
+:::
+::: media
 ![](/images/lekt2804.webp)
 Fig.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
 Painting by ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
 (Image source: [Details](/en/licenses#lekt2804))
-::::::indent
-**⟪चुर्⟫** 10 **⟪चोरयति⟫**: to steal
+:::
+
+::: indent
+⟪चुर्⟫ 10 ⟪चोरयति⟫: to steal
 Fut. **corayiṣyati**
 Pass. **coryate**
 Caus. **corayati**
 PPP **corita**
 Inf. **coritum**
-::::::indent
+:::
+::: indent
 **Pay special attention to the meaning of the causatives of the following verbs:**
 **dṛś** — **darśayati**: to show
-**man** — **mānayati**: to esteem, to honor (but probably a denominative from **māna** "honor")
-**vac** — **vācayati**: also: to read aloud (to cause to speak a text)
+**man** — **mānayati**: to esteem, to honor (but is probably a denominative from **māna** "honor")
+**vac** — **vācayati**: also: to read aloud (to cause a text to be spoken)
 **vad** — **vādayati**: also: to cause a musical instrument to speak = to play a musical instrument
-::::::media
+:::
+::: media
 ![](/images/lekt2803.webp)
 Fig.: ⟪वीणां⟫ ⟪वादयति⟫
-Vīṇā player.
+Vīṇā-Spielerin.
 (Image source: [Details](/en/licenses#lekt2803))
 :::
-**⟪भार⟫** m.: burden
+⟪भार⟫ m.: burden
 
-:::media
+::: media
 ![](/images/lekt2805.webp)
 Fig.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
-Girl carrying load. Near Ahmedabad.
+Girl carrying a burden. Near Ahmedabad.
 (Image source: [Details](/en/licenses#lekt2805))
 :::
-**⟪भृत्य⟫** m.: subordinate, servant
-
----
+⟪भृत्य⟫ m.: subordinate, servant
 
 ## 28.11. Exercise
 
-**A) Form the causative of the following verb forms and participial forms and provide the meaning:**
+**A) Form the causative of the following verb forms and participial forms and give the meaning:**
 
-**1. With strong-grade root:**
+**1. With guṇa-grade root:**
 1. ⟪अर्हन्ति⟫
 2. ⟪प्राप्य⟫
 3. ⟪एषिष्यन्ति⟫
@@ -410,7 +415,7 @@ Girl carrying load. Near Ahmedabad.
 28. ⟪लिम्पन्ति⟫
 29. ⟪वृद्धाः⟫
 
-**2. With lengthened-grade root:**
+**2. With vṛddhi-grade root:**
 1. ⟪अत्ति⟫
 2. ⟪अस्यन्ति⟫
 3. ⟪एष्यति⟫
@@ -454,7 +459,7 @@ Girl carrying load. Near Ahmedabad.
 **3. Causative in -⟪पय⟫**
 1. ⟪स्थित्वा⟫
 
-**4. Pay special attention to and learn the following causative formations**
+**4. Pay special attention to and learn the following causative forms**
 1. ⟪दुष्⟫ — ⟪दूषयति⟫
 2. ⟪पा⟫ 1 ("to drink") — ⟪पाययति⟫
 3. ⟪पा⟫ 2 ("to protect") — ⟪पालयति⟫
@@ -463,7 +468,7 @@ Girl carrying load. Near Ahmedabad.
 6. ⟪जि⟫ — ⟪जापयति⟫
 7. ⟪जीव्⟫ — ⟪जीवयति⟫
 
-**B. Translate the following sentences, resolve the compounds into Sanskrit, and form sentences using the simple verbs that express what happens when that which is expressed by the causative is brought about:**
+**B. Translate the following sentences, resolve the compounds into Sanskrit, and form sentences using the simple verbs that express what happens when that which is expressed by the causative is effected:**
 
 Example: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫
 
@@ -478,12 +483,11 @@ Example: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हार�
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
-
-:::deleteme-box
+::: deleteme-box
 
 **lekt2801:** Jadavpur University Management building. [Image source: noii's Flickr, 2008-12-19, CC BY-SA]
 **lekt2802:** ISKCON Temple Bangalore. [Image source: Ramki's reflections Flickr, 2008-12-19, CC BY-NC-ND]
 **lekt2803:** Vīṇā player. [Image source: Kelvin Kay / Wikipedia. GNU FDLicense]
 **lekt2804:** Kṛṣṇa and Rādhā. Painting by Rāja Ravi Varmā. [Image source: Wikipedia. Public domain]
-**lekt2805:** Girl carrying load. Near Ahmedabad. [Image source: m-bot. Flickr, 2008-12-20. CC BY-SA]
+**lekt2805:** Girl carrying a load. Near Ahmedabad. [Image source: m-bot. Flickr, 2008-12-20. CC BY-SA]
 :::

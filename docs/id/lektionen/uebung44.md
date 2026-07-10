@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Determine and translate the following forms:
 
-:::grammar-box
+::: grammar-box
 | Word form | Determination | Meaning |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪आदेः⟫** | ⟪आदि⟫ (m.) Abl./Gen. sg. | of the beginning / from the beginning |
@@ -97,7 +97,7 @@ You should not hate what is hateful, nor should you be greedy for what is desira
 ⟪८⟫. **⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫ ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 You have mourned the unpitiable and wished to speak words of wisdom; yet the wise mourn neither the dead nor the living.
 
-:::media
+::: media
 ![](/images/uebung072.webp)
 Fig.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫
 (Image source: [Details](/en/licenses#uebung072))
@@ -108,7 +108,7 @@ Fig.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन�
 
 Determine the following word forms:
 
-:::grammar-box
+::: grammar-box
 | Word form | Determination |
 | :--- | :--- |
 | ⟪१⟫. **⟪वदिता⟫** | ⟪वदितृ⟫ (m.) Nom. sg. |
@@ -151,8 +151,9 @@ Determine the following word forms:
 | ⟪३८⟫. **⟪पिपूर्मः⟫** | ⟪पॄ⟫ (3P) 1. pl. P. Ind. Präs. |
 | ⟪३९⟫. **⟪कैः⟫** | ⟪किम्⟫ (m./n.) Instr. pl. |
 | ⟪४०⟫. **⟪कृत्येन⟫** | ⟪कृ⟫ (8U) Gerundiv Instr. sg. m./n. |
-::::::media
+:::: media
 ![](/images/uebung073.webp)
 Fig.: ⟪वदिता⟫
 (Image source: [Details](/en/licenses#uebung073))
+::::
 :::

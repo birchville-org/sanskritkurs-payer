@@ -76,7 +76,7 @@ Los guerreros fuertes han ido a la aldea de los brahmanes.
 ⟪पुन्यवतो⟫ ⟪वैश्यस्येष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजां⟫ ⟪करोति⟫ ⟪।⟫
 Él venera la deidad personal del vaiśya meritorio.
 
-:::media
+::: media
 ![](/images/uebung023.webp)
 Leyenda: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung023))
@@ -87,7 +87,7 @@ Leyenda: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्व
 
 A) Forme todos los casos aprendidos hasta ahora para las siguientes palabras como ejemplos de las clases de declinación aprendidas hasta ahora.
 
-:::grammar-box
+::: grammar-box
 ⟪१⟫. **⟪नर⟫** (m.)
 
 | Caso | Singular | Plural |
@@ -248,7 +248,7 @@ El deber específico de un śūdra es el servicio obediente a los dos veces naci
 El deber de todos es: no violencia, veracidad, pureza, no murmurar sobre su suerte, ausencia de malicia y paciencia indulgente.
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-:::deleteme-box Explicaciones
+::: deleteme-box Explicaciones
 Oración 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nom. Ac.: Dvandva, que designa las dos "cosas"
 Oración 8: **⟪कर्म⟫** Nom., Ac. sg. Neutro a ⟪कर्मन्⟫ "acción"
 Oración 13: **⟪सर्वेषाम्⟫** Gen. pl. masc. a ⟪सर्व⟫ "cada uno, todos" (pronombre, no declinado como deva)
@@ -257,7 +257,7 @@ Oración 13: **⟪सर्वेषाम्⟫** Gen. pl. masc. a ⟪सर्
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
 El palo provoca la adquisición y la posesión segura de filosofía, vedística y economía. La dirección del palo es política.
 
-:::media
+::: media
 ![](/images/uebung024.webp)
 Fig.: ⟪योगश्चित्तवृत्तिनिरोधः⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung024))

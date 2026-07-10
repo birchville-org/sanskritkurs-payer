@@ -11,45 +11,48 @@ status: stable
 
 ## 50.1. Nominal formation: regular comparison
 
-:::grammar-box
+::: grammar-box
 **Regular comparison in Sanskrit uses the ⟪तद्धित⟫ suffixes**
 * **-⟪तर⟫ (fem.: ⟪तरा⟫) in the "comparative"**
 * **⟪तम⟫ (fem.: ⟪तमा⟫) in the "superlative"**
 
 **These suffixes are attached to the masculine stem of adjectives. For nouns with stem gradation, they are attached to the weak stem, which has the same form as before the ending -su of the locative (⟪पञ्चमी⟫) plural.**
-::::::media
+:::: media
 ![](/images/lekt5007.webp)
 Fig.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
 ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
 (Image source: [Details](/en/licenses#lekt5007))
-:::::::grammar-box
+::::
+:::
+::: grammar-box
 **Meaning:**
 
 **The "comparative" means, when no compared object is expressed: "rather, very, too":**
 
-:::indent
+:::
+::: indent
 e.g. ⟪सुचितर⟫ 3 "rather pure", "very pure", "too pure"
 :::
 **If a compared object is expressed, it stands in the ablative (⟪पञ्चमी⟫). Comparative + ablative corresponds to comparison with "than" in German.**
 
-:::indent
+::: indent
 e.g. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = literally: "from Devadatta's perspective, Rāma is more perceptive" = "Rāma is more perceptive than Devadatta"
 :::
 **The "superlative" means, when no compared object is expressed: "extremely, very":**
 
-:::indent
+::: indent
 e.g. ⟪सत्तम⟫ 3 (to ⟪सन्त्⟫) "extremely good, very good"
 :::
 **If a compared object is expressed, it stands in the genitive (⟪षष्ठी⟫) ("of", "among") and the superlative corresponds to the German superlative (superlative degree):**
 
-:::indent
+::: indent
 e.g. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "the best of the twice-born"
 :::
 **The suffixes -⟪तर⟫ and -⟪तम⟫ can attach not only to adjectives, but also to nouns, indeclinables, and even verbal forms:**
 
 Examples:
 
-:::indent
+::: indent
 ⟪गजतम⟫ m. "the best elephant" (⟪गज⟫) (also a title of the Buddha)
 
 ⟪गोतम⟫ m. "the largest ox" (⟪गो⟫) or: "richest in cattle"
@@ -63,20 +66,21 @@ Examples:
 
 Examples:
 
-:::indent
+::: indent
 ⟪पचतितराम्⟫ "he/she/it cooks better"
 
 ⟪पचतितमाम्⟫ "he/she/it cooks best"
 :::
 **This form do these suffixes also have, when they attach to an indeclinable and the derived word is used adverbially:**
 
-:::indent
+::: indent
 e.g. ⟪सुतराम्⟫ (to ⟪सु⟫) "in a better way" (adverbially)
-::::::::::media
+:::: media
 ![](/images/lekt5006.webp)
 Fig.: ⟪का⟫ ⟪पचतितमाम्⟫
 Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (Image source: [Details](/en/licenses#lekt5006))
+::::
 :::
 ## 50.2. Word List
 
@@ -90,7 +94,7 @@ Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 
 ⟪मन्त्रिन्⟫ 3: giving advice; m.: advisor, councilor, minister
 
-:::media
+::: media
 ![](/images/lekt5001.jpg)
 Fig.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
@@ -100,7 +104,7 @@ Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and M
 
 ⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : be harmed, fail, damage
 
-:::indent
+::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
 Fut. ⟪रेषिष्यति⟫
 Pass. ⟪रिष्यते⟫
@@ -109,7 +113,7 @@ PPP ⟪रिष्ट⟫
 :::
 **⟪लुप्⟫ 6U *⟪लुम्प⟫*⟪ति⟫** : break, destroy
 
-:::indent
+::: indent
 Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
 Fut. ⟪लोप्स्यति⟫
 Pass. ⟪लुप्यते⟫
@@ -122,7 +126,7 @@ Gerundiv ⟪लुप्य⟫ ⟪।⟫ ⟪लोप्य⟫
 
 ⟪वृष्⟫ 1P ⟪वर्षति⟫ : rain (usually with a ⟪कर्तृ⟫ -- a god or a cloud)
 
-:::indent
+::: indent
 Perf. II ⟪ववर्ष⟫, ⟪ववृषुर्⟫
 Fut. ⟪वर्षिष्यति⟫
 Pass. ⟪वृष्यते⟫
@@ -131,17 +135,18 @@ PPP ⟪वृष्ट⟫
 Inf. ⟪वर्षितुम्⟫
 Absol. ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
 Absol.-⟪वृष्य⟫
-::::::media
+:::: media
 ![](/images/lekt5002.jpg)
 Fig.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 Arrival of the Monsoon, Bangalore  ಬೆಂಗಳೂರು
 (Image source: [Details](/en/licenses#lekt5002))
+::::
 :::
 ⟪संयक्⟫ Adv.: right, true, in the proper manner; thoroughly, completely
 
 ⟪आदित्य⟫ m.: sun; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : a specific class of gods
 
-:::media
+::: media
 ![](/images/lekt5005.jpg)
 Fig.: ⟪आदित्यः⟫
 (Image source: [Details](/en/licenses#lekt5005))
@@ -150,7 +155,7 @@ Fig.: ⟪आदित्यः⟫
 
 Declension like ⟪यद्⟫ (exception: Nom.Akk.sg.Neuter)
 
-:::grammar-box
+::: grammar-box
 | | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
 | | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
@@ -170,14 +175,14 @@ Declension like ⟪यद्⟫ (exception: Nom.Akk.sg.Neuter)
 
 ⟪कल्याण⟫ 3 (f.: ⟪कल्याणी⟫) :beautiful
 
-:::media
+::: media
 ![](/images/lekt5003.webp)
 Fig.: ⟪कल्याणी⟫
 (Image source: [Details](/en/licenses#lekt5003))
 :::
 ⟪कु⟫- : as the first member of compounds: bad
 
-:::media
+::: media
 ![](/images/lekt5004.webp)
 Fig.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
@@ -185,7 +190,7 @@ Fig.: ⟪कुनगरम्⟫
 :::
 ⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : see
 
-:::indent
+::: indent
 Perf. ⟪चचक्षे⟫
 not used in other tenses
 :::
@@ -197,22 +202,23 @@ not used in other tenses
 
 A) To review declension: the following verse contains all declension forms in the singular for ⟪गुरु⟫ m.:
 
-:::indent
+::: indent
 ⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫
 ⟪गुरुणैव⟫ ⟪सहास्मि⟫ ⟪नमो⟫ ⟪गुरवे⟫ ⟪।⟫
 ⟪न⟫ ⟪गुरोः⟫ ⟪परमं⟫ ⟪शिशुरस्मि⟫ ⟪गुरोर्⟫
 ⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫
-::::::media
+:::: media
 ![](/images/lekt5008.webp)
 Fig.: ⟪गुरुमेव⟫ ⟪भजे⟫
 Ganeshpuri, 80 km from Mumbai (⟪मुंबई⟫)
 (Image source: [Details](/en/licenses#lekt5008))
+::::
 :::
 B) Translate:
 
 ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫
 
-:::indent
+::: indent
 ⟪येनास्य⟫ ⟪पितरो⟫ ⟪याता⟫
 ⟪येन⟫ ⟪याताः⟫ ⟪पितामहाः⟫ ⟪।⟫
 ⟪तेन⟫ ⟪यायात्सतां⟫ ⟪मार्गम्⟫
@@ -220,7 +226,7 @@ B) Translate:
 :::
 ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
 
-:::indent
+::: indent
 ⟪कुविवाहैः⟫ ⟪क्रियालोपैर्⟫
 ⟪वेदानध्ययनेन⟫ ⟪च⟫ ⟪।⟫
 ⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫
@@ -228,7 +234,7 @@ B) Translate:
 :::
 ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
 
-:::indent
+::: indent
 ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫
 ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫
 ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫
@@ -236,7 +242,7 @@ B) Translate:
 :::
 ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: On the Necessity of Sacrifice
 
-:::indent
+::: indent
 ⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫
 ⟪दैवे⟫ ⟪चैवेह⟫ ⟪कर्मणि⟫ ⟪।⟫
 ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫
@@ -248,7 +254,7 @@ B) Translate:
 :::
 ⟪योगसूत्र⟫ ⟪२⟫, ⟪१६⟫ - ⟪१७⟫
 
-:::indent
+::: indent
 ⟪हेयं⟫ ⟪दुःखमनागतम्⟫ ⟪॥६॥⟫
 ***⟪द्रष्टृदृश्ययोः⟫*** ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
 
@@ -257,7 +263,7 @@ Explanation:
 :::
 ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: On the King's Advisors
 
-:::indent
+::: indent
 ⟪न⟫ ⟪किंचिदवमन्येत⟫
 ⟪सर्वस्य⟫ ⟪शृणुयानमतम्⟫ ⟪।⟫
 ⟪बालस्याप्यर्थवद्वाक्यम्⟫
@@ -265,7 +271,7 @@ Explanation:
 :::
 ⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition of ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
 
-:::indent
+::: indent
 ⟪उपनीय⟫ ⟪तु⟫ ⟪यः⟫ ⟪शिष्यं⟫
 ⟪वेदमधापयेत्द्द्विजः⟫ ⟪।⟫
 ⟪सकल्पं⟫ ⟪सरहस्यं⟫ ⟪च⟫
@@ -283,7 +289,8 @@ Explanation:
 
 Explanations:
 ⟪निषेकादीनि⟫ : Nom.Acc.pl.Neuter
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt5007:** Fig.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Image source: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
 

@@ -55,7 +55,7 @@ A) Bilden Sie zu folgenden Verbformen die in Person, Zahl und Genus verbi entspr
 > ⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तम्⟫ ⟪महीतले⟫ ⟪।⟫  
 > ⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
 
-Bester der Zweimalgeborenen! Wer einem Brahmanen die Erde samt ihren Feldfrüchten schenkt, genießt die Welt Viṣṇus so lange wie vierzehn Indras. Zweimalgeborener! Das Verdienst, das jemand erhält, der die ganze Welt mit ihren sieben Kontinenten verschenkt, das erhält ein Sterblicher, der einem Brahmanen eine Kuh gibt. Wer einem Brahmanen Gold so klein wie ein Sesamkorn gibt, der kommt in die Wohnstadt Haris (Viṣṇus) zusammen mit 10 Millionen Familien. Bester der Zweimalgeborenen! Ein Mann, der ein Mädchen samt Schmuck (einem Brahmanen) gibt, der kommt zum Sitz Brahmās und hat keine Wiedergeburt mehr.  Bester der Zweimalgeborenen! Wer Speise und Wasser auf der Erdoberfläche gegeben hat, der hat alle Gaben gegeben, Stier unter den Zweimalgeborenen! 
+Bester der Zweimalgeborenen! Wer einem Brahmanen die Erde samt ihren Feldfrüchten schenkt, geniesst die Welt Viṣṇus so lange wie vierzehn Indras. Zweimalgeborener! Das Verdienst, das jemand erhält, der die ganze Welt mit ihren sieben Kontinenten verschenkt, das erhält ein Sterblicher, der einem Brahmanen eine Kuh gibt. Wer einem Brahmanen Gold so klein wie ein Sesamkorn gibt, der kommt in die Wohnstadt Haris (Viṣṇus) zusammen mit 10 Millionen Familien. Bester der Zweimalgeborenen! Ein Mann, der ein Mädchen samt Schmuck (einem Brahmanen) gibt, der kommt zum Sitz Brahmās und hat keine Wiedergeburt mehr.  Bester der Zweimalgeborenen! Wer Speise und Wasser auf der Erdoberfläche gegeben hat, der hat alle Gaben gegeben, Stier unter den Zweimalgeborenen! 
 
 Erklärungen:
 
@@ -69,7 +69,7 @@ Vokativ sg. der Maskulina / Neutra auf -a lautet auf -a: z.B. ⟪देव⟫ "G
 
 ⟪सर्व⟫ 3 "alle, ganz" (dekliniert nach Pronominaldeklination)
 
-:::media
+::: media
 ![](/images/uebung057.jpg)
 Abb.: ⟪तिलप्रमाणम्⟫
 (Bildquelle: [Details](/licenses#uebung057))

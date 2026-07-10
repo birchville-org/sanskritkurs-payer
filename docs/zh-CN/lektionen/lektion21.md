@@ -1,11 +1,11 @@
 ---
-title: Lektion 21
-subtitle: "Weitere Präsensstämme auf -nt"
+title: 第21课
+subtitle: "其他以 -nt 结尾的现在时词干"
 lesson_id: 21
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 21
 
@@ -13,289 +13,305 @@ status: stable
 
 ### 21.1.1. Partizip Präsens (⟪लडादेशः⟫) Parasmaipada
 
-::::grammar-box
-Dieses Partizip ist eine Nominalbildung aus dem Präsensstamm, also ein echtes Partizip. Es ist ein Adjektiv, das angibt, dass jemand oder etwas das durch die Verbalwurzel (+ Präverb) Ausgedrückte gerade tut, während etwas anderes geschieht. Auch ein dauernder Zustand kann damit ausgedrückt werden. <!-- TODO: Fallback translation -->
+::: grammar-box
+此分词是由现在时词根构成的名词化形式，因此是一个真正的分词。它是一个形容词，表示某人或某物正在执行由动词词根（+前缀）所表达的动作，而与此同时其他事情也在发生。它也可以用来表示一种持续的状态。
 
-**Beispiele:** <!-- TODO: Fallback translation -->
-
-:::indent
-"Während Vater liest, raucht er = der lesende Vater raucht"  
-"ein seiender (= wirklicher, echter) Freund" <!-- TODO: Fallback translation -->
-::::::::::grammar-box
-
-| **Bildung des Partizip Präsens Parasmaipada zu thematischen Präsensstämmen:** ||| <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Maskulinum, Neutrum** | | | <!-- TODO: Fallback translation -->
-| | **starker Stamm** | Präsensstamm + **-nt-** | <!-- TODO: Fallback translation -->
-| | **schwacher Stamm** | Präsensstamm + **-t-** | <!-- TODO: Fallback translation -->
-| **Femininum** | | | <!-- TODO: Fallback translation -->
-| | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | <!-- TODO: Fallback translation -->
-| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī** :broder::brPräsensstamm + **-t-** + **-ī** | <!-- TODO: Fallback translation -->
+**Beispiele:**
 
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+::: indent
+“Während der Vater liest, raucht er = der lesende Vater raucht”
+“ein seiender (= wirklicher, echter) Freund”
+:::
+::: grammar-box
 
-1\. Präsensklasse: <!-- TODO: Fallback translation -->
-
-:::indent
-**yajant** :br⟪यजन्त्⟫ "ein mit einem Opfer verehrender" <!-- TODO: Fallback translation -->
-:::::::grammar-box
-
-| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | **⟪यजन्⟫** :braus yaja-nt-s | **⟪यजत्⟫** :bryaja-t-Ø | **⟪यजन्ती⟫** :bryaja-ant-ī | <!-- TODO: Fallback translation -->
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | **⟪यजन्तम्⟫** :bryaja-nt-am | **⟪यजत्⟫** | wie **devī** :br⟪देवी⟫ | <!-- TODO: Fallback translation -->
-| | **3. Instrumentalis** :br⟪तृतीया⟫ | **⟪यजता⟫** :bryaja-t-ā | **⟪यजता⟫** | | <!-- TODO: Fallback translation -->
-| | **6. Genetiv** :br⟪षष्ठी⟫ | **⟪यजतस्⟫** :bryaja-t-as | **⟪यजतस्⟫** | | <!-- TODO: Fallback translation -->
-| **Plural** :br⟪बहुवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | **⟪यजन्तस्⟫** :bryaja-nt-as | **⟪यजन्ति⟫** :bryaja-nt-i | | <!-- TODO: Fallback translation -->
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | **⟪यजतस्⟫** :bryaja-t-as | **⟪यजन्ति⟫** | | <!-- TODO: Fallback translation -->
-| | **3. Instrumentalis** :br⟪तृतीया⟫ | **⟪यजद्भिस्⟫** :braus yaja-t-bhis | **⟪यजद्भिस्⟫** | | <!-- TODO: Fallback translation -->
-| | **6. Genetiv** :br⟪षष्ठी⟫ | **⟪यजताम्⟫** :bryaja-t-ām | **⟪यजताम्⟫** | | <!-- TODO: Fallback translation -->
+| **Bildung des Partizip Präsens Parasmaipada zu thematischen Präsensstämmen:** |||
+| :--- | :--- | :--- |
+| **Maskulinum, Neutrum** | | |
+| | **starker Stamm** | Präsensstamm + **-nt-** |
+| | **schwacher Stamm** | Präsensstamm + **-t-** |
+| **Femininum** | | |
+| | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī** :broder::brPräsensstamm + **-t-** + **-ī** |
 
 :::
-Beachten Sie den Gleichlaut von **⟪यजन्ति⟫** (Nom. pl. Neutrum) mit der 3. pl. P.! <!-- TODO: Fallback translation -->
+示例：
 
-4\. Präsensklasse <!-- TODO: Fallback translation -->
+1\. 现在时类：
 
-:::indent
-**⟪नृत्यन्त्⟫** "tanzend" <!-- TODO: Fallback translation -->
-
-*   Maskulinum Nom. sg. **⟪नृत्यन्⟫** <!-- TODO: Fallback translation -->
-*   Neutrum Nom. Akk. sg. **⟪नृत्यत्⟫** <!-- TODO: Fallback translation -->
-*   Femininum Nom. sg. **⟪नृत्यन्ती⟫** <!-- TODO: Fallback translation -->
+::: indent
+**yajant** :br⟪यजन्त्⟫ "ein mit einem Opfer verehrender"
 :::
-6\. Präsensklasse <!-- TODO: Fallback translation -->
+::: grammar-box
 
-:::indent
-**⟪विशन्त्⟫** "eintretend" <!-- TODO: Fallback translation -->
-
-*   Maskulinum Nom. sg. **⟪विशन्⟫** <!-- TODO: Fallback translation -->
-*   Neutrum Nom. Akk. sg. **⟪विशत्⟫** <!-- TODO: Fallback translation -->
-*   Femininum Nom. sg. **⟪विशन्ती⟫** ⟪।⟫ **⟪विशती⟫** <!-- TODO: Fallback translation -->
-:::::::grammar-box
-
-| **Bildung des Partizip Präsens Parasmaipada zu athematischen Präsensstämmen (außer 3. Präsensklasse):** ||| <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Maskulinum, Neutrum** | | | <!-- TODO: Fallback translation -->
-| | **starker Stamm** | Präsensstamm + **-ant-** | <!-- TODO: Fallback translation -->
-| | **schwacher Stamm** | Präsensstamm + **-at-** :br(Der Auslaut des schwachen Präsensstammes lautet gleich wie vor der 3. Plur. P.) | <!-- TODO: Fallback translation -->
-| **Femininum** | | | <!-- TODO: Fallback translation -->
-| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) | <!-- TODO: Fallback translation -->
+| | | 阳性：br⟪पुंस्⟫ | 中性：br⟪नपुंसक⟫ | 阴性：br⟪स्त्री⟫ |
+| :--- | :--- | :--- | :--- | :--- |
+| **单数** :br⟪एकवचन⟫ | **1. 主格** :br⟪प्रथमा⟫ | **⟪यजन्⟫** :braus yaja-nt-s | **⟪यजत्⟫** :bryaja-t-Ø | **⟪यजन्ती⟫** :bryaja-ant-ī |
+| | **2. 宾格** :br⟪द्वितीया⟫ | **⟪यजन्तम्⟫** :bryaja-nt-am | **⟪यजत्⟫** | 如 **devī** :br⟪देवी⟫ |
+| | **3. 工具格** :br⟪तृतीया⟫ | **⟪यजता⟫** :bryaja-t-ā | **⟪यजता⟫** | |
+| | **6. 属格** :br⟪षष्ठी⟫ | **⟪यजतस्⟫** :bryaja-t-as | **⟪यजतस्⟫** | |
+| **复数** :br⟪बहुवचन⟫ | **1. 主格** :br⟪प्रथमा⟫ | **⟪यजन्तस्⟫** :bryaja-nt-as | **⟪यजन्ति⟫** :bryaja-nt-i | |
+| | **2. 宾格** :br⟪द्वितीया⟫ | **⟪यजतस्⟫** :bryaja-t-as | **⟪यजन्ति⟫** | |
+| | **3. 工具格** :br⟪तृतीया⟫ | **⟪यजद्भिस्⟫** :braus yaja-t-bhis | **⟪यजद्भिस्⟫** | |
+| | **6. 属格** :br⟪षष्ठी⟫ | **⟪यजताम्⟫** :bryaja-t-ām | **⟪यजताम्⟫** | |
 
 :::
-2\. Präsensklasse: <!-- TODO: Fallback translation -->
+请注意 **⟪यजन्ति⟫**（复数中性）与第三人称复数动词形式在语音上的对应关系。
 
-:::indent
-**⟪अस्⟫** "sein": **⟪सन्त्⟫** "seiend, echter, guter, wahrer" <!-- TODO: Fallback translation -->
-:::::::grammar-box
+4. 现在时类
 
-| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | **⟪सन्⟫** :braus s-ant-s | **⟪सत्⟫** :brs-at-Ø | **⟪सती⟫** :brs-at-ī | <!-- TODO: Fallback translation -->
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | **⟪सन्तम्⟫** :brs-ant-am | **⟪सत्⟫** | wie **devī** :br⟪देवी⟫ | <!-- TODO: Fallback translation -->
-| | **3. Instrumentalis** :br⟪तृतीया⟫ | **⟪सता⟫** :brs-at-ā | **⟪सता⟫** | | <!-- TODO: Fallback translation -->
-| | **6. Genetiv** :br⟪षष्ठी⟫ | **⟪सतस्⟫** :brs-at-as | **⟪सतस्⟫** | | <!-- TODO: Fallback translation -->
-| **Plural** :br⟪बहुवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | **⟪सन्तस्⟫** :brs-ant-as | **⟪सन्ति⟫** :brs-ant-i | | <!-- TODO: Fallback translation -->
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | **⟪सतस्⟫** :brs-at-as | **⟪सन्ति⟫** | | <!-- TODO: Fallback translation -->
-| | **3. Instrumentalis** :br⟪तृतीया⟫ | **⟪सद्भिस्⟫** :braus s-at-bhis | **⟪सद्भिस्⟫** | | <!-- TODO: Fallback translation -->
-| | **6. Genetiv** :br⟪षष्ठी⟫ | **⟪सताम्⟫** :brs-at-ām | **⟪सताम्⟫** | | <!-- TODO: Fallback translation -->
+::: indent
+**⟪नृत्यन्त्⟫** “tanzend”
 
-::::::indent
-¹ **⟪सती⟫** "eine gute (treue) Frau (die sich in späterer Zeit nach dem Tod ihres Mannes mit diesem verbrennen lässt)" engl.: sutee <!-- TODO: Fallback translation -->
-::::::media
+*   阳性单数主格 **⟪नृत्यन्⟫**
+*   中性单数主格/宾格 **⟪नृत्यत्⟫**
+*   阴性单数主格 **⟪नृत्यन्ती⟫**
+:::
+6\.现在时类
+
+::: indent
+**⟪विशन्त्⟫** “进入”
+
+*   阳性单数主格 **⟪विशन्⟫**
+*   中性单数主格/宾格 **⟪विशत्⟫**
+*   阴性单数主格 **⟪विशन्ती⟫** ⟪।⟫ **⟪विशती⟫**
+:::
+::: grammar-box
+
+| **Bildung des Partizip Präsens Parasmaipada zu athematischen Präsensstämmen (außer 3. Präsensklasse):** |||
+| :--- | :--- | :--- |
+| **Maskulinum, Neutrum** | | |
+| | **starker Stamm** | Präsensstamm + **-ant-** |
+| | **schwacher Stamm** | Präsensstamm + **-at-** :br(弱词干的词尾与第三复数词尾前相同) |
+| **Femininum** | | |
+| | | Präsensstamm + **-at-** + **-ī** (变格同 **devī** :br⟪देवी⟫) |
+
+:::
+2\. 现在时类：
+
+::: indent
+**⟪अस्⟫** “是”：**⟪सन्त्⟫** “存在、真实、良好、真正”
+:::
+::: grammar-box
+
+| | | 阳性：br⟪पुंस्⟫ | 中性：br⟪नपुंसक⟫ | 阴性：br⟪स्त्री⟫ |
+| :--- | :--- | :--- | :--- | :--- |
+| **单数** :br⟪एकवचन⟫ | **1. 主格** :br⟪प्रथमा⟫ | **⟪सन्⟫** :braus s-ant-s | **⟪सत्⟫** :brs-at-Ø | **⟪सती⟫** :brs-at-ī |
+| | **2. 宾格** :br⟪द्वितीया⟫ | **⟪सन्तम्⟫** :brs-ant-am | **⟪सत्⟫** | 如 **devī** :br⟪देवी⟫ |
+| | **3. 工具格** :br⟪तृतीया⟫ | **⟪सता⟫** :brs-at-ā | **⟪सता⟫** | |
+| | **6. 属格** :br⟪षष्ठी⟫ | **⟪सतस्⟫** :brs-at-as | **⟪सतस्⟫** | |
+| **复数** :br⟪बहुवचन⟫ | **1. 主格** :br⟪प्रथमा⟫ | **⟪सन्तस्⟫** :brs-ant-as | **⟪सन्ति⟫** :brs-ant-i | |
+| | **2. 宾格** :br⟪द्वितीया⟫ | **⟪सतस्⟫** :brs-at-as | **⟪सन्ति⟫** | |
+| | **3. 工具格** :br⟪तृतीया⟫ | **⟪सद्भिस्⟫** :braus s-at-bhis | **⟪सद्भिस्⟫** | |
+| | **6. 属格** :br⟪षष्ठी⟫ | **⟪सताम्⟫** :brs-at-ām | **⟪सताम्⟫** | |
+
+:::
+::: indent
+¹ **⟪सती⟫** “一位贤良（忠贞）的妻子（指在丈夫死后于火葬柴堆上自焚的妇女）” 英文：sutee
+:::
+::: media
 ![](/images/lekt2101.webp)
-Abb.: ⟪सती⟫-Gedenkplatte
-⟪सती⟫-Gedenkplatte im Palast von Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫
-(Bildquelle: [Details](/licenses#lekt2101)) <!-- TODO: Fallback translation -->
+图：⟪सती⟩纪念牌
+⟪सती⟩纪念牌，位于乔德普尔宫殿 — ⟪जोधपुर⟩ / 拉贾斯坦邦 — ⟪राजस्थान⟩
+（图片来源：[详情](/zh-CN/licenses#lekt2101)）
 :::
-5\. Präsensklasse: <!-- TODO: Fallback translation -->
+5\. 现在时类：
 
-:::indent
-**⟪सु⟫** "pressen": **⟪सुन्वन्त्⟫** <!-- TODO: Fallback translation -->
+::: indent
+**⟪सु⟫“压”：⟪सुन्वन्त्⟫**
 
-*   Maskulinum Nom. sg. **⟪सुन्वन्⟫** <!-- TODO: Fallback translation -->
-*   Neutrum Nom. Akk. sg. **⟪सुन्वत्⟫** <!-- TODO: Fallback translation -->
-*   Femininum Nom. sg. **⟪सुन्वती⟫** <!-- TODO: Fallback translation -->
+*   阳性单数主格 **⟪सुन्वन्⟫**
+*   中性单数主格/宾格 **⟪सुन्वत्⟫**
+*   阴性单数主格 **⟪सुन्वती⟫**
 :::
-8\. Präsensklasse <!-- TODO: Fallback translation -->
+8\. 现在时类
 
-:::indent
-**⟪कृ⟫** "tun": **⟪कुर्वन्त्⟫** <!-- TODO: Fallback translation -->
+::: indent
+**⟪कृ⟫** “tun”: **⟪कुर्वन्त्⟫**
 
-*   Maskulinum Nom. sg. **⟪कुर्वन्⟫** <!-- TODO: Fallback translation -->
-*   Neutrum Nom. Akk. sg. **⟪कुर्वत्⟫** <!-- TODO: Fallback translation -->
-*   Femininum Nom. sg. **⟪कुर्वती⟫** <!-- TODO: Fallback translation -->
+*   阳性单数主格 **⟪कुर्वन्⟫**
+*   中性单数主格/宾格 **⟪कुर्वत्⟫**
+*   阴性单数主格 **⟪कुर्वती⟫**
 :::
-### 21.1.2. ⟪महान्त्⟫ "groß"
+### 21.1.2. ⟪महान्त्⟩ “大”
 
-::::grammar-box
+::: no-header
 
-:::no-header
+| | | |
+| :--- | :--- | :--- |
+| **阳性，中性** | | |
+| | **强词干** | **⟪महान्त्⟫** |
+| | **弱词干** | **⟪महत्⟫** |
+| **阴性** | | |
+| | | **⟪महती⟫** :br如 **devī** :br⟪देवी⟫ |
 
-| | | | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Maskulinum, Neutrum** | | | <!-- TODO: Fallback translation -->
-| | **starker Stamm** | **⟪महान्त्⟫** | <!-- TODO: Fallback translation -->
-| | **schwacher Stamm** | **⟪महत्⟫** | <!-- TODO: Fallback translation -->
-| **Femininum** | | | <!-- TODO: Fallback translation -->
-| | | **⟪महती⟫** :brwie **devī** :br⟪देवी⟫ | <!-- TODO: Fallback translation -->
+:::
+::: grammar-box
 
-::::::::::grammar-box
+| | | 阳性：br⟪पुंस्⟫ | 中性：br⟪नपुंसक⟫ | 阴性：br⟪स्त्री⟫ |
+| :--- | :--- | :--- | :--- | :--- |
+| **单数** :br⟪एकवचन⟫ | **1. 主格** :br⟪प्रथमा⟫ | **⟪महान्⟫** :braus mahānt-s | **⟪महत्⟫** :brmahat-Ø | **⟪महती⟫** :brmahat-ī |
+| | **2. 宾格** :br⟪द्वितीया⟫ | **⟪महान्तम्⟫** :brmahānt-am | **⟪महत्⟫** | 如 **devī** :br⟪देवी⟫ |
+| | **3. 工具格** :br⟪तृतीया⟫ | **⟪महता⟫** :brmahat-ā | **⟪महता⟫** | |
+| | **6. 属格** :br⟪षष्ठी⟫ | **⟪महतस्⟫** :brmahat-as | **⟪महतस्⟫** | |
+| **复数** :br⟪बहुवचन⟫ | **1. 主格** :br⟪प्रथमा⟫ | **⟪महान्तस्⟫** :brmahānt-as | **⟪महान्ति⟫** :brmahānt-i | |
+| | **2. 宾格** :br⟪द्वितीया⟫ | **⟪महतस्⟫** :brmahat-as | **⟪महान्ति⟫** | |
+| | **3. 工具格** :br⟪तृतीया⟫ | **⟪महद्भिस्⟫** :braus mahat-bhis | **⟪महद्भिस्⟫** | |
+| | **6. 属格** :br⟪षष्ठी⟫ | **⟪महताम्⟫** :brmahat-ām | **⟪महताम्⟫** | |
 
-| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | **⟪महान्⟫** :braus mahānt-s | **⟪महत्⟫** :brmahat-Ø | **⟪महती⟫** :brmahat-ī | <!-- TODO: Fallback translation -->
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | **⟪महान्तम्⟫** :brmahānt-am | **⟪महत्⟫** | wie **devī** :br⟪देवी⟫ | <!-- TODO: Fallback translation -->
-| | **3. Instrumentalis** :br⟪तृतीया⟫ | **⟪महता⟫** :brmahat-ā | **⟪महता⟫** | | <!-- TODO: Fallback translation -->
-| | **6. Genetiv** :br⟪षष्ठी⟫ | **⟪महतस्⟫** :brmahat-as | **⟪महतस्⟫** | | <!-- TODO: Fallback translation -->
-| **Plural** :br⟪बहुवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | **⟪महान्तस्⟫** :brmahānt-as | **⟪महान्ति⟫** :brmahānt-i | | <!-- TODO: Fallback translation -->
-| | **2. Akkusativ** :br⟪द्वितीया⟫ | **⟪महतस्⟫** :brmahat-as | **⟪महान्ति⟫** | | <!-- TODO: Fallback translation -->
-| | **3. Instrumentalis** :br⟪तृतीया⟫ | **⟪महद्भिस्⟫** :braus mahat-bhis | **⟪महद्भिस्⟫** | | <!-- TODO: Fallback translation -->
-| | **6. Genetiv** :br⟪षष्ठी⟫ | **⟪महताम्⟫** :brmahat-ām | **⟪महताम्⟫** | | <!-- TODO: Fallback translation -->
+:::
+::: grammar-box
+**作为复合词的前成分，⟪महत्⟫ 替换为 ⟪महा⟫：**
 
-:::::::grammar-box
-**Als Vorderglied eines Kompositums steht statt ⟪महत्⟫ ⟪महा⟫:** <!-- TODO: Fallback translation -->
+**Beispiele:**
 
-**Beispiele:** <!-- TODO: Fallback translation -->
-
-:::indent
-**⟪महादेव⟫** "der große Gott" (z.B. ⟪शिव⟫)  
-**⟪महादेवी⟫** "die große Göttin, die Hauptfrau eines Königs (⟪देव⟫)" <!-- TODO: Fallback translation -->
-:::::::::media
+:::
+::: indent
+**⟪महादेव⟫**“伟大的神”（例如 ⟪शिव⟫）
+**⟪महादेवी⟫**“伟大的女神，国王的主要妻子（⟪देव⟫）”
+:::: media
 ![](/images/lekt2102.webp)
-Abb.: ⟪महादेवो⟫ ⟪विष्णुः⟫
-"A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".
-(Bildquelle: [Details](/licenses#lekt2102)) <!-- TODO: Fallback translation -->
-::::::indent
-"A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: 'Mihira, Vishnu and Shiva'." <!-- TODO: Fallback translation -->
+图：⟪महादेवो⟫ ⟪विष्णुः⟫
+“公元4至6世纪的红玉髓印章，描绘毗湿奴与一位崇拜者。草书巴克特里亚语铭文为：‘密特拉、毗湿奴和湿婆’。”
+（图片来源：[详情](/zh-CN/licenses#lekt2102)）
+::::
 :::
-## 21.2. Sandhi für auslautende Nasale
-
-::::grammar-box
-**Nach kurzem Vokal werden auslautende Nasale – außer -m – vor anlautendem Vokal verdoppelt.** <!-- TODO: Fallback translation -->
-
-**Beispiel:** <!-- TODO: Fallback translation -->
-
-:::indent
-**⟪जयन्⟫ + ⟪अरिः⟫** » **⟪जयन्नरिः⟫** "der siegende Feind" <!-- TODO: Fallback translation -->
-::::::
-## 21.3. Höfliche Formen der Anrede
-
-::::grammar-box
-**Man kann im Sanskrit, ohne unhöflich zu sein, jemanden in der 2. Person Singular ansprechen. Will man aber höflich sein, kann man ein Nomen verwenden, dessen Bedeutung "Ehrwürdiger" und dergleichen ist, und das Verb in die 3. Person sg. oder pl. setzen bzw. eine Passivkonstruktion verwenden. Die Steigerung der Höflichkeit im Gebrauch der Person bei der Anrede ist etwa folgende:** <!-- TODO: Fallback translation -->
-
-:::indent
-**2. sg. » 2. pl. » 3. sg. mit entsprechendem Nomen » 3. pl. mit entspr. Nomen** <!-- TODO: Fallback translation -->
+::: indent
+“公元4至6世纪的红玉髓印章，描绘毗湿奴与一位崇拜者。草书巴克特里亚语铭文为：‘密特拉、毗湿奴和湿婆’。”
 :::
-**Das wichtigste solche Höflichkeitsnomen ist ⟪भवन्त्⟫ , fem.: ⟪भवती⟫ . Es entspricht in seiner Verwendung unserem höflichen "Sie".** <!-- TODO: Fallback translation -->
+## 21.2. 词尾鼻音的连声
+
+::: grammar-box
+**短元音之后，词尾鼻音（除 -m 外）在后续元音前需双写。**
+
+**示例：**
+
 :::
-Dieses **⟪भवन्त्⟫** ist eine Zusammenziehung aus **⟪भगवन्त्⟫**, seine Deklination ist die der Nomina auf **-vant** (siehe [Lektion 13](lektion13.md)). Dieses **⟪भवन्त्⟫** ist zu unterscheiden vom Partizip Präsens P von **⟪भू⟫** "werden" **⟪भवन्त्⟫** : der Nom sg. mask. von **⟪भवन्त्⟫** "Sie" lautet **⟪भवान्⟫**, der des Partizips **⟪भवन्⟫**.  <!-- TODO: Fallback translation -->
-
-**Beispiele:** <!-- TODO: Fallback translation -->
-
-:::indent
-**⟪किं⟫ ⟪भवान्करोति⟫** = **⟪किं⟫ ⟪भवता⟫ ⟪क्रियते⟫** = "Was tun Sie?" <!-- TODO: Fallback translation -->
+::: indent
+**⟪जयन्⟫ + ⟪अरिः⟫** » **⟪जयन्नरिः⟫** “战胜的敌人”
 :::
-höflicher: <!-- TODO: Fallback translation -->
+## 21.3. 礼貌的称呼形式
 
-:::indent
-**⟪किं⟫ ⟪भवन्तः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवद्भिः⟫ ⟪क्रियते⟫** <!-- TODO: Fallback translation -->
+::: grammar-box
+**在梵语中，可以使用第二人称单数来称呼某人，而不会显得不礼貌。但如果想表达礼貌，可以使用意为“尊敬的”等名词，并将动词变为第三人称单数或复数，或者使用被动结构。在称呼中使用人称来表示礼貌程度的提升大致如下：**
+
 :::
-Femininum: <!-- TODO: Fallback translation -->
+::: indent
+**第二人称单数 » 第二人称复数 » 第三人称单数（带相应名词）» 第三人称复数（带相应名词）**
+:::
+**最重要的此类敬语名词是 ⟪भवन्त्⟫，阴性：⟪भवती⟫。其用法相当于我们礼貌用语中的“您”。**
+这个 **⟪भवन्त्⟫** 是 **⟪भगवन्त्⟫** 的缩略形式，其变格属于以 **-vant** 结尾的名词（参见[第13课](lektion13.md)）。这个 **⟪भवन्त्⟫** 需与 **⟪भू⟫** “成为”的现在分词主动态 **⟪भवन्त्⟫** 区分开来：**⟪भवन्त्⟫** “您”的阳性单数主格形式为 **⟪भवान्⟫**，而分词 **⟪भवन्⟫** 的单数主格形式为……
 
-:::indent
+**Beispiele:**
+
+::: indent
+**⟪किं⟫ ⟪भवान्करोति⟫** = **⟪किं⟫ ⟪भवता⟫ ⟪क्रियते⟫** = “您在做什么？”
+:::
+更礼貌的说法：
+
+::: indent
+**⟪किं⟫ ⟪भवन्तः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवद्भिः⟫ ⟪क्रियते⟫**
+:::
+阴性：
+
+::: indent
 **⟪किं⟫ ⟪भवती⟫ ⟪करोति⟫** = **⟪किं⟫ ⟪भवत्या⟫ ⟪क्रियते⟫**  
-**⟪किं⟫ ⟪भवत्यः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवतीभिः⟫ ⟪क्रियते⟫** <!-- TODO: Fallback translation -->
+**⟪किं⟫ ⟪भवत्यः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवतीभिः⟫ ⟪क्रियते⟫**
 :::
-Weitere Wörter, die ähnlich wie **⟪भवन्त्⟫** verwendet werden können: <!-- TODO: Fallback translation -->
+其他可以像 **⟪भवन्त्⟫** 一样使用的词语：
 
-*   **⟪आर्य⟫** (f.: **⟪आर्या⟫**) "Edler". z.B. **⟪यदार्य⟫ ⟪इच्छति⟫** "Was Sie wünschen" <!-- TODO: Fallback translation -->
-*   **⟪महाभाग⟫** "der dessen Anteil / Glück groß ist = Vornehmer". Oft verwendet von Frauen bei der Anrede oder beim Sprechen über Männer von gutem Stand. In modernem gesprochenem Sanskrit sehr häufig. <!-- TODO: Fallback translation -->
+*   **⟪आर्य⟫**（阴性：**⟪आर्या⟫**）“高贵的”。例如 **⟪यदार्य⟫ ⟪इच्छति⟫** “如您所愿”
+*   **⟪महाभाग⟫** “其份额/运气大者 = 高贵者”。女性常用于称呼或谈论地位良好的男性。在现代口语梵语中非常常见。
 
-Will man nicht nur Höflichkeit, sondern auch Verehrung für jemanden ausdrücken, verwendet man bei jemandem, der anwesend oder in der Nähe ist, anstelle von **⟪भवन्त्⟫** **⟪अत्रभवन्त्⟫** , für jemanden Abwesenden oder Entfernten **⟪तत्रभवन्त्⟫**. **⟪अत्रभवन्त्⟫** und **⟪तत्रभवन्त्⟫** kann man mit "Sie", "Ehrwürden", "Hochwürden" usw. übersetzen: <!-- TODO: Fallback translation -->
+如果不仅想表达礼貌，还想表达对某人的敬意，对于在场或附近的人，会使用 **⟪भवन्त्⟫** **⟪अत्रभवन्त्⟫**，而对于不在场或远离的人，则使用 **⟪तत्रभवन्त्⟫**。**⟪अत्रभवन्त्⟫** 和 **⟪तत्रभवन्त्⟫** 可以翻译为“您”、“尊敬的”、“高贵的”等：
 
-:::indent
-**⟪किमत्रभवत्यत्रभवतां⟫ ⟪भार्या⟫** = "Ist die gnädige (hier anwesende) Frau Ihre Gattin?"  
-**⟪किं⟫ ⟪तत्रभवतां⟫ ⟪कुशलवृत्तम्⟫** (in einem Brief oder Telefongespräch) = "Geht es Ihnen gut?" <!-- TODO: Fallback translation -->
+::: indent
+**⟪किमत्रभवत्यत्रभवतां⟫ ⟪भार्या⟫** = “这位仁慈的（在此在场的）女士是您的妻子吗？”
+**⟪किं⟫ ⟪तत्रभवतां⟫ ⟪कुशलवृत्तम्⟫**（在信件或电话交谈中）= “您身体好吗？”
 :::
-## 21.4. Wortliste
+## 21.4. 词汇表
 
-**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** jemandem (Akk.) etwas zuteilen, zukommen lassen, jemanden lieben, ehren, verehren <!-- TODO: Fallback translation -->
+**⟪भज्⟫ 1 U ⟪भजति⟩ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ ：分配、给予、爱、尊敬、崇拜（对格）某人某事**
 
-davon: <!-- TODO: Fallback translation -->
+davon:
 
-:::indent
-**⟪भक्ति⟫ f.:** Ergebenheit, Treue, Liebe (im religiösen Bereich: Liebe und Respekt zu einem persönlichen Gott. siehe dazu Basham, Wonder S. 332f.)  
-**⟪भाग⟫ m.:** Anteil, Teil  
-**⟪भग⟫ m.:** (guter) Anteil, Glück, Wohlergehen, Würde  
-**⟪भगवन्त्⟫ 3:** Glück-besitzend, Würde-besitzend (Beiname von ⟪विष्णु⟫ – ⟪कृष्ण⟫) <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+**⟪भक्ति⟫ f.：虔诚，忠诚，爱（在宗教领域：对一位人格化神祇的爱与尊敬。参见 Basham，《奇迹》第 332-333 页。）**
+**⟪भाग⟫ m.：份额，部分**
+**⟪भग⟫ m.：（好的）份额，好运，福祉，尊严**
+**⟪भगवन्त्⟫ 3：拥有好运的，拥有尊严的（⟪विष्णु⟫ – ⟪कृष्ण⟫ 的别名）**
+:::: media
 ![](/images/lekt2103.webp)
-Abb.: ⟪भगवान्कृष्णः⟫
-⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
-(Bildquelle: [Details](/licenses#lekt2103)) <!-- TODO: Fallback translation -->
-::::::indent
-**⟪भगवद्गीता⟫ f.:** "Gesang (⟪गीता⟫) des Würdigen (⟪कृष्ण⟫)" <!-- TODO: Fallback translation -->
-::::::media
+图：⟪भगवान्कृष्णः⟫
+⟪भगवान्कृष्णः⟫ 作为 ⟪जगन्नाथ⟫（右侧）与其同父异母姐妹 ⟪सुभद्रा⟫（中间）及其兄长 ⟪बलराम⟫，奥里萨邦 = ଓଡ଼ିଶ⟪ा⟫
+（图片来源：[详情](/zh-CN/licenses#lekt2103)）
+::::
+:::
+::: indent
+**⟪भगवद्गीता⟫ f.：“尊贵者（⟪कृष्ण⟫）的《歌（⟪गीता⟫）”**
+:::
+::: media
 ![](/images/lekt2105.webp)
-Abb.: ⟪भगवद्गीता⟫
-⟪भगवद्गीता⟫ - Manuskript, 19. Jhdt.
-(Bildquelle: [Details](/licenses#lekt2105)) <!-- TODO: Fallback translation -->
-::::::indent
-**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (eigentlich ein Desiderativum zu ⟪भज्⟫: wünschen, dass man teilhat): betteln <!-- TODO: Fallback translation -->
+图：⟪भगवद्गीता⟫
+⟪भगवद्गीता⟫ - 手稿，19 世纪
+（图片来源：[详情](/zh-CN/licenses#lekt2105)）
 :::
-davon: <!-- TODO: Fallback translation -->
+::: indent
+**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ 被动语态 ⟪भिक्ष्यते⟫ 过去分词 ⟪भिक्षित⟫**（实际上是由 ⟪भज्⟫ 构成的欲求态：希望参与）：乞讨
+:::
+由此：
 
-:::indent
-**⟪भिक्षु⟫ m.:** Bettler, Mönch <!-- TODO: Fallback translation -->
-::::::media
+::: indent
+**⟪भिक्षु⟫ m.:** 乞丐，僧人
+:::: media
 ![](/images/lekt2104.webp)
-Abb.: ⟪भिक्षवः⟫
-Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ
-(Bildquelle: [Details](/licenses#lekt2104)) <!-- TODO: Fallback translation -->
+图注：⟪भिक्षवः⟫
+琅勃拉邦 = ຫລວງພະບາງ，老挝 = ປະເທດລາວ
+（图片来源：[详情](/zh-CN/licenses#lekt2104)）
+::::
 :::
-**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** verderben (intransitiv), schlecht werden, zuschande werden <!-- TODO: Fallback translation -->
+**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ 语态。 ⟪दुष्यते⟫ 过去分词。 ⟪दुष्ट⟫ ：** 毁坏（不及物），变坏，蒙羞
 
-:::indent
-**⟪दोष⟫ m.:** Fehler <!-- TODO: Fallback translation -->
+::: indent
+**⟪दोष⟫ m.:** 错误
 :::
-**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (kein PPP, dafür ⟪पक्व⟫ 3: gekocht, gegart) Absol. ⟪पक्त्वा⟫ :** garen (transitiv) = kochen, braten, rösten usw. <!-- TODO: Fallback translation -->
+**⟪पच्⟫ 1 U ⟪पचति⟫ 被动式 ⟪पच्यते⟫ （无PPP，代以 ⟪पक्व⟫ 3：煮熟，熬煮）绝对分词 ⟪पक्त्वा⟫ ：** 熬煮（及物）= 煮，煎，烤等
 
 ## 21.5. Übung
 
-A) Übersetzen Sie folgende Komposita: <!-- TODO: Fallback translation -->
+A) 翻译以下复合词：
 
-⟪१⟫. ⟪अनादिकालिकसंसारः⟫ <!-- TODO: Fallback translation -->
+⟪१⟫。⟪अनादिकालिकसंसारः⟫
 
-⟪२⟫. ⟪अनादिमध्यान्तः⟫ <!-- TODO: Fallback translation -->
+⟪२⟫。⟪अनादिमध्यान्तः⟫
 
-⟪३⟫. ⟪महामैत्रीकरुणाचित्तः⟫ <!-- TODO: Fallback translation -->
+⟪३⟫。⟪महामैत्रीकरुणाचित्तः⟫
 
-⟪४⟫. ⟪सर्वहतान्धकारः⟫ <!-- TODO: Fallback translation -->
+⟪४⟫。⟪सर्वहतान्धकारः⟫
 
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B) 翻译：
 
-⟪मृतं⟫ ⟪दहन्नग्निः⟫ ⟪सतीमपि⟫ ⟪दहति⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪मृतं⟫ ⟪दहन्नग्निः⟫ ⟪सतीमपि⟫ ⟪दहति⟫ ⟪॥१॥⟫
 
-⟪सद्गुरुर्महाकविस्तोत्रैर्महादेवं⟫ ⟪स्तौति⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪सद्गुरुर्महाकविस्तोत्रैर्महादेवं⟫ ⟪स्तौति⟫ ⟪॥२॥⟫
 
-⟪महान्ति⟫ ⟪फलान्यदन्तो⟫ ⟪बाला⟫ ⟪जलमापि⟫ ⟪पिबन्ति⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪महान्ति⟫ ⟪फलान्यदन्तो⟫ ⟪बाला⟫ ⟪जलमापि⟫ ⟪पिबन्ति⟫ ⟪॥३॥⟫
 
-⟪पूजां⟫ ⟪कुर्वञ्जनो⟫ ⟪यजते⟫ ⟪च⟫ ⟪स्तौति⟫ ⟪च⟫ ⟪देवताम्⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪पूजां⟫ ⟪कुर्वञ्जनो⟫ ⟪यजते⟫ ⟪च⟫ ⟪स्तौति⟫ ⟪च⟫ ⟪देवताम्⟫ ⟪॥४॥⟫
 
-⟪गुरूपनीतनरो⟫ ⟪द्विजः⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪गुरूपनीतनरो⟫ ⟪द्विजः⟫ ⟪॥५॥⟫
 
-⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪जितक्रोधो⟫ ⟪घ्नन्तमप्यरिं⟫ ⟪न⟫ ⟪द्वेष्टि⟫ ⟪।⟫ ⟪क्रोधजितस्तु⟫ ⟪द्वेष्टि⟫ ⟪॥६॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt2101:** ⟪सती⟫-Gedenkplatte im Palast von Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Bildquelle: Flicka / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2101:** ⟪सती⟫-纪念牌匾，位于乔德普尔宫殿 - ⟪जोधपुर⟫ / 拉贾斯坦邦 - ⟪राजस्थान⟫ [图片来源：Flicka / 维基百科。GNU FDLicense]
 
-**lekt2102:** "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva". [Bildquelle: PHGCOM / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2102:**“一枚公元4至6世纪的缟玛瑙印章，描绘毗湿奴与一位崇拜者。草书巴克特里亚语铭文为：‘Mihira, Vishnu and Shiva’。[图片来源：PHGCOM / 维基百科。GNU FDLicense]”
 
-**lekt2103:** ⟪भगवान्कृष्णः⟫ als ⟪जगन्नाथ⟫ (rechts) mit seiner Halbschwester ⟪सुभद्रा⟫ (Mitte) und seinem älteren Bruder ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫ [Bildquelle: Sujitkumar / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2103:** ⟪भगवान्कृष्णः⟫ 作为 ⟪जगन्नाथ⟫（右侧），与其同父异母姐妹 ⟪सुभद्रा⟫（中间）及其兄长 ⟪बलराम⟫，奥里萨 = ଓଡ଼ିଶ⟪ा⟫ [图片来源：Sujitkumar / 维基百科。GNU FDLicense]
 
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດลาວ [Bildquelle: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Bildquelle: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
 
-**lekt2105:** ⟪भगवद्गीता⟫ - Manuskript, 19. Jhdt. [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2105:** ⟪भगवद्गीता⟫ - 手稿，19世纪 [图片来源：维基百科，公有领域]
 :::

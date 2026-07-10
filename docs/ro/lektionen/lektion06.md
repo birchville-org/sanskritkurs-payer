@@ -9,7 +9,7 @@ status: stable
 
 # Lecția 6
 
-:::deleteme-box
+::: deleteme-box
 **În această lecție veți învăța:**
 - Structura propoziției verbale (agent și formă verbală)
 - Formarea formelor verbale (Parasmaipada, Ātmanepada, Pasiv)
@@ -20,7 +20,7 @@ status: stable
 :::
 ## 6.1. Propoziția verbală
 
-:::grammar-box
+::: grammar-box
 **Schema I: Formă verbală**
 - ex. **yajati** = ⟪यजति⟫ = "El (ea, el) onorează cu un jertfă", "El (ea, el) jertfește"
 
@@ -36,7 +36,7 @@ Când agentul (**kartṛ** m. = ⟪कर्तृ⟫) este menționat într-o p
 O formă verbală finită, adică o formă verbală cu terminare personală, exprimă în sanscrită următoarele:
 
 1. **Semnificație** (**artha** m. ⟪अर्थ⟫)
-2. **Persoana** și **Numărul** (număr, **vacana** n. = ⟪वचन⟫) (eu, tu, el \&lt;ea, el\&gt;, noi doi, voi doi, ei/ele doi, noi, voi, ei/ele)
+2. **Persoana** și **Numărul** (număr, **vacana** n. = ⟪वचन⟫) (eu, tu, el \<ea, el\>, noi doi, voi doi, ei/ele doi, noi, voi, ei/ele)
 3. Modul de comportare (genus verbi):
    1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) („formă verbală cu referire la altcineva”): Activ. de ex. **yajati** = ⟪यजति⟫ = „El onorează cu un sacrificiu” (anume preotul, care îndeplinește sacrificiul pentru altcineva)
    2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) („formă verbală cu referire la sine”): Mediu. de ex. **yajate** = ⟪यजते⟫ = „El onorează cu un sacrificiu în propriul interes” (anume stăpânul sacrificiului, care jertfește pentru sine și familia sa)
@@ -68,7 +68,7 @@ O formă verbală finită, adică o formă verbală cu terminare personală, exp
 
 Prezentul este timpul prezentului, în special al duratei.
 
-:::grammar-box
+::: grammar-box
 **Indicativul (forma afirmativă) Prezent se formează adăugând la tulpina de prezent ceea ce se numesc terminații primare.**
 :::
 Exemple:
@@ -83,7 +83,7 @@ Exemple:
 
 ## 6.4. Terminationsle de persoana a treia (prathama m. = ⟪प्रथम⟫ = "prima (!) persoană")
 
-:::grammar-box
+::: grammar-box
 | | Singular (număr singular):brekavacana n.:br⟪एकवचन⟫ | Plural (număr plural):brbahuvacana n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.**:br⟪परस्मैपद⟫ | **-ti**:br-⟪ति⟫ | **-nti**:br-⟪न्ति⟫ |
@@ -102,7 +102,7 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 
 ### 6.5.1. Verben de a 6-a clasă de prezent (tudādi = ⟪तुदादि⟫ = "tud etc.")
 
-:::grammar-box
+::: grammar-box
 **Tema de prezent = rădăcina în gradul redus (așa cum este listată) + a-**
 
 | Rădăcină (dhātu m.):br⟪धातु⟫ | Tema de prezent |
@@ -112,7 +112,7 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 :::
 ### 6.5.2. Verbe ale clasei de prezent I (bhādi / bhuvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = „bhū etc.“)
 
-:::grammar-box
+::: grammar-box
 | Tija de prezent = rădăcină în formă intensă (rar în formă lungită) + a- ||||
 | Rădăcină (dhātu m.):br⟪धातु⟫ | Formă intensă | Formă intensă înaintea lui a- | Tija de prezent |
 | :--- | :--- | :--- | :--- |
@@ -128,7 +128,7 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 
 #### 6.5.2.2. Gradarea vocalică (Ablaut)
 
-:::grammar-box
+::: grammar-box
 | Formă redusă:brFormă de zero | Formă intensă:brFormă plină:brGuṇa m.:br⟪गुण⟫ | Formă lungită:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
@@ -139,7 +139,7 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 :::
 ### 6.5.3. Verbele clasei a IV-a de prezent (divādi = ⟪दिवादि⟫ = "div etc.")
 
-:::grammar-box
+::: grammar-box
 **Tema de prezent = rădăcina în gradul redus (așa cum este listată) + ya-**
 
 | Rădăcină (dhātu m.):br⟪धातु⟫ | Tema de prezent |
@@ -151,14 +151,14 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 :::
 ### 6.5.4. Vocalul tematic, clasele de prezent tematice
 
-:::grammar-box
+::: grammar-box
 **a** din sufixele de derivare a temei ale claselor de prezent se numește **vocal tematic**. Clasele de prezent cu **a** în sufixul de derivare a temei se numesc prin urmare „clase de prezent tematice”.
 :::
 ---
 
 ## 6.6. Sanscrit vorbal: Întrebări suplimentare (praśna m. = ⟪प्रश्न⟫)
 
-:::grammar-box
+::: grammar-box
 - **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Ce face N. N.?"
 - **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = "Ce fac N.N.ii?"
 - (karoti, kurvanti de la **kṛ** = ⟪कृ⟫ 8 U: "a face, a realiza")
@@ -169,7 +169,7 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 
 ## 6.7. Listă de cuvinte
 
-:::grammar-box
+::: grammar-box
 În sanscrită, verbele sunt prezentate în **forma de rădăcină**. Numărul de după rădăcină indică **clasa de conjugare**.
 
 - **P:** Rădăcina este doar în Parasmaipada
@@ -220,7 +220,7 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 12. Cine (fem.) dansează?
 13. Brahmana (menționată) dansează.
 
-:::media
+::: media
 ![](/images/lekt0601.webp)
 **Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
@@ -299,7 +299,7 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 2. Durgā este o zeiță.
 3. Mīnākṣī este o zeiță.
 
-:::media
+::: media
 ![](/images/lekt0602.webp)
 **Mīnākṣī** (⟪मीनाक्षी⟫), Templul Mīnākṣī, Madurai, Tamil Nadu
 (Sursa imaginii: Wikipedia, Domeniu public)

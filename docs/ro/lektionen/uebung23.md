@@ -107,7 +107,7 @@ Pentru că voia să audă despre dharma, brahmana a mers cu fiul ei în orașul 
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫  
 Mâncatul, somnul, frica și sexul sunt comune oamenilor cu animalele. Diferența distinctivă a oamenilor constă în dharma. Fără dharma, ei sunt egali cu animalele.
 
-:::media
+::: media
 ![](/images/uebung035.webp)
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 (Sursa imaginii: [Detalii](/licenses#uebung035))
@@ -168,7 +168,7 @@ B) Declinați în toate cazurile cunoscute de dumneavoastră **⟪क्षत�
 
 C) Dați formele de bază (semnificație, clasa de prezent, modul, 3. sg. Prezent Indicativ, 3. sg. Pasiv, PPP, Absolutive, Infinitiv) pentru următoarele verbe:
 
-:::grammar-box
+::: grammar-box
 ⟪१⟫. **⟪सह्⟫** (1Ā, a suporta)
 
 | Formă | Valoare |
@@ -212,8 +212,9 @@ C) Dați formele de bază (semnificație, clasa de prezent, modul, 3. sg. Prezen
 | Absolutiv 1 | ⟪हत्वा⟫ |
 | Absolutiv 2 | -⟪हत्य⟫ |
 | Infinitiv | ⟪हन्तुम्⟫ |
-::::::media
+:::: media
 ![](/images/uebung036.webp)
 Fig.: ⟪बालाः⟫ ⟪पिबन्ति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung036))
+::::
 :::

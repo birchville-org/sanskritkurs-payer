@@ -124,7 +124,7 @@ D) Formare le costruzioni passive alle frasi formate in C)
 
 ⟪१२⟫. ⟪तैः⟫ ⟪श्रावकैर्बुद्धो⟫ ⟪धर्मं⟫ ⟪प्र्च्छ्यते⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung022.webp)
 Fig.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung022))
@@ -229,7 +229,7 @@ E) Trasformare le frasi C)1-5 in costruzioni attive.
 
 ⟪५⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदति⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung021.webp)
 Fig.: ⟪फलान्यश्नुते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung021))

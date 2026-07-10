@@ -1,130 +1,120 @@
 ---
-title: Leçon 17
-subtitle: "Deuxième classe de présent (⟪अदादि⟫ = ⟪अद्⟫, etc.)"
+title: Lektion 17
+subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
 # Leçon 17
 
-## 17.1. Deuxième classe de présent (⟪अदादि⟫ = ⟪अद्⟫, etc.)
+## 17.1. Deuxième classe de présent (⟪अदादि⟫ = ⟪अद्⟫ etc.)
 
-Les désinences verbales s’ajoutent directement à la racine. Il convient de tenir compte des modifications phonétiques résultant du sandhi lexical.
+Les désinences verbales s'ajoutent directement à la racine. Il convient de noter les modifications phonétiques résultant du sandhi lexical.
 
-::::grammar-box
+::: grammar-box
 
 Il existe les formes de formation suivantes dans la deuxième classe de présent :
 
 1.  Racines avec alternance de grade de racine
-    *   généralement : grade fort - grade faible
+    *   la plupart : grade fort - grade faible
     *   certaines racines : grade allongé - grade faible
 2.  Racines sans alternance de grade de racine
 3.  Racines bisyllabiques en -i/-ī avec alternance de grade de racine
 
-::::
-## 17.2. Racines de la deuxième classe de présent avec alternance de la racine : niveau élevé - niveau bas
+:::
+## 17.2. Racines de la deuxième classe de présent avec alternance de grade de racine grade fort - grade faible
 
 Exemples :
 
-⟪द्विष्⟫ 2 U « haïr »
+⟪द्विष्⟫ 2 U "haïr"
 
 *   radical de présent fort : dveṣ-
 *   radical de présent faible : dviṣ-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. prés. P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
-| 3\. pl. prés. P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
-| 3\. sg. prés. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
-| 3\. pl. prés. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
+| 3\. sg. Prés. P | ⟪द्वेष्टि⟫ (« dveṣ + -ti) |
+| 3\. pl. Prés. P | ⟪द्विषन्ति⟫ (dviṣ-anti) |
+| 3\. sg. Prés. Ā | ⟪द्विष्टे⟫ (« dviṣ + -te) |
+| 3\. pl. Prés. Ā | ⟪द्विषते⟫ (dviṣ-ate) |
 
-:::::::
-Ici, la règle de sandhi des mots suivante s'applique :
+:::
+Voici la règle de sandhi lexical suivante qui s'applique :
 
-:::grammar-box
-Sandhi des mots de -ṣ + t(h)-
+::: grammar-box
+Sandhi lexical de -ṣ + t(h)-
 
 \-ṣ + t(h)- » -ṣṭ(h)-
 :::
 Autres exemples :
 
-⟪इ⟫ 2 P « aller » (Ā après certains préfixes)
+⟪इ⟫ 2 P "aller" (Ā après certaines prépositions verbales)
 
 *   radical de présent fort : e-
 *   radical de présent faible :
     *   devant une consonne : i-
     *   devant une voyelle : y-/iy-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. prés. P | ⟪एति⟫ (e-ti) |
-| 3\. pl. prés. P | ⟪यन्ति⟫ (y-anti) |
-| 3\. sg. prés. Ā | ⟪इते⟫ (i-te) |
-| 3\. pl. prés. Ā | ⟪इयते⟫ (iy-ate) |
+| 3\. sg. Prés. P | ⟪एति⟫ (e-ti) |
+| 3\. pl. Prés. P | ⟪यन्ति⟫ (y-anti) |
+| 3\. sg. Prés. Ā | ⟪इते⟫ (i-te) |
+| 3\. pl. Prés. Ā | ⟪इयते⟫ (iy-ate) |
 
-:::::::
-⟪दुह्⟫ 2 U « traire »
+:::
+⟪दुह्⟫ 2 U "traire"
 
 *   radical de présent fort : doh-
 *   radical de présent faible : duh-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. prés. P | ⟪दोग्धि⟫ (« doh- + -ti) |
-| 3\. pl. prés. P | ⟪दुहन्ति⟫ (duh-anti) |
-| 3\. sg. prés. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
-| 3\. pl. prés. Ā | ⟪दुहते⟫ (duh-ate) |
+| 3\. sg. Prés. P | ⟪दोग्धि⟫ (« doh- + -ti) |
+| 3\. pl. Prés. P | ⟪दुहन्ति⟫ (duh-anti) |
+| 3\. sg. Prés. Ā | ⟪दुग्धे⟫ (« duh- + -te) |
+| 3\. pl. Prés. Ā | ⟪दुहते⟫ (duh-ate) |
 
-:::::::
-⟪हन्⟫ 2 P « frapper, tuer, faire mourir »
+:::
+⟪हन्⟫ 2 P "frapper, tuer, faire mourir"
 
 *   radical de présent fort : han-
 *   radical de présent faible :
     *   devant une consonne : ha- (« \*hn-)
     *   devant une voyelle : ghn-/han-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. prés. P | ⟪हन्ति⟫ (han-ti) |
-| 3\. pl. prés. P | ⟪घ्नन्ति⟫ (ghn-anti) |
-| 3\. sg. prés. Ā | ⟪हते⟫ (ha-te) |
-| 3\. pl. prés. Ā | ⟪घ्नते⟫ (ghn-ate) |
+| 3\. sg. Prés. P | ⟪हन्ति⟫ (han-ti) |
+| 3\. pl. Prés. P | ⟪घ्नन्ति⟫ (ghn-anti) |
+| 3\. sg. Prés. Ā | ⟪हते⟫ (ha-te) |
+| 3\. pl. Prés. Ā | ⟪घ्नते⟫ (ghn-ate) |
 
-:::::::
-⟪अस्⟫ 2 P « être »
+:::
+⟪अस्⟫ 2 P "être"
 
 *   radical de présent fort : as-
 *   radical de présent faible : s-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. prés. P | ⟪अस्ति⟫ (as-ti) |
-| 3\. pl. prés. P | ⟪सन्ति⟫ (s-anti) |
+| 3\. sg. Prés. P | ⟪अस्ति⟫ (as-ti) |
+| 3\. pl. Prés. P | ⟪सन्ति⟫ (s-anti) |
 
-:::::::
-## 17.3. Racines de la deuxième classe de présent avec alternance de la racine : degré allongé - degré réduit
+:::
+## 17.3. Racines de la deuxième classe de présent avec alternance de grade de racine grade allongé - grade faible
 
 Exemple :
 
@@ -135,139 +125,125 @@ Exemple :
     *   devant une consonne : stu-
     *   devant une voyelle : stuv-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. prés. P | ⟪स्तौति⟫ (stau-ti):brou : ⟪स्तवीति⟫ |
-| 3\. pl. prés. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
-| 3\. sg. prés. Ā | ⟪स्तुते⟫ (stu-te) |
-| 3\. pl. prés. Ā | ⟪स्तुवते⟫ (stuv-ate) |
+| 3\. sg. Prés. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
+| 3\. pl. Prés. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
+| 3\. sg. Prés. Ā | ⟪स्तुते⟫ (stu-te) |
+| 3\. pl. Prés. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
-:::::::
-## 17.4. Racines de la deuxième classe de présent sans gradation de la racine
+:::
+## 17.4. Racines de la deuxième classe de présent sans alternance de grade de racine
 
-:::grammar-box
-Sans gradation de la racine, les racines de la deuxième classe de présent se terminent par -ā
+::: grammar-box
+Sans alternance de grade de racine, les racines de la deuxième classe de présent se terminent par -ā
 :::
 Exemple :
 
-⟪पा⟫ 2 P « protéger, garder, veiller sur »
+⟪पा⟫ 2 P « protéger, garder, veiller »
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prés. P | ⟪पाति⟫ (pā-ti) |
-| 3\. pl. Prés. P | ⟪पान्ति⟫ (« pā- + -anti) |
+| 3\. sg. Präs. P | ⟪पाति⟫ (pā-ti) |
+| 3\. pl. Präs. P | ⟪पान्ति⟫ (« pā- + -anti) |
 
-:::::::
-Certaines autres racines de la deuxième classe n’ont pas non plus de gradation de la racine :
+:::
+Certains autres racines de la deuxième classe n'ont pas d'alternance vocalique :
 
 Exemples :
 
 ⟪अद्⟫ 2 P « manger »
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prés. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Prés. P | ⟪अदन्ति⟫ (ad-anti) |
+| 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
+| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
 
-:::::::
-⟪आस्⟫ 2 Ā « s’asseoir »
+:::
+⟪आस्⟫ 2 Ā « s'asseoir »
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prés. Ā | ⟪आस्ते⟫ (ās-te) |
-| 3\. pl. Prés. Ā | ⟪आसते⟫ (ās-ate) |
+| 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
+| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
 
-:::::::
+:::
 ⟪वच्⟫ 2 P « dire »
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prés. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Prés. P | ne se produit pas |
+| 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
+| 3\. pl. Präs. P | n'existe pas |
 
-:::::::
-## 17.5. Racines bisyllabiques en -i/-ī avec gradation de la racine
+:::
+## 17.5. Racines bisyllabiques en -i/-ī avec alternance vocalique
 
-Plusieurs racines sont, dans une série de formes, bisyllabiques, c’est-à-dire qu’elles possèdent un -i (respectivement avant certaines terminaisons -ī) avant une terminaison consonantique. Ces racines sont néanmoins considérées par les grammairiens indigènes et dans les dictionnaires, etc., comme monosyllabiques.
+Plusieurs racines sont bisyllabiques dans une série de formes, c'est-à-dire qu'elles possèdent un -i (ou -ī devant certaines terminaisons) avant une terminaison consonantique. Ces racines sont néanmoins considérées par les grammairiens indigènes et dans les dictionnaires, etc., comme monosyllabiques.
 
 Exemples :
 
 ⟪रुद्⟫ 2 P « pleurer, hurler »
 
-*   radical de présent fort : rodi-
-*   radical de présent faible :
-    *   avant consonne : rudi-
-    *   avant voyelle : rud-
+*   thème de présent fort : rodi-
+*   thème de présent faible :
+    *   devant consonne : rudi-
+    *   devant voyelle : rud-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prés. P | ⟪रोदिति⟫ (rodi-ti) |
-| 3\. pl. Prés. P | ⟪रुदन्ति⟫ (rud-anti) |
+| 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
+| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
 
-:::::::
+:::
 ⟪ब्रू⟫ 2 U « parler »
 
-*   radical de présent fort : bravī- (« bro- + -ī)
-*   radical de présent faible :
+*   thème de présent fort : bravī- (« bro- + -ī)
+*   thème de présent faible :
     *   vor Konsonant: brū-
-    *   avant voyelle : bruv-
+    *   devant voyelle : bruv-
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prés. P | ⟪ब्रवीति⟫ (bravī-ti) |
-| 3\. pl. Prés. P | ⟪ब्रुवन्ति⟫ (bruv-anti) |
-| 3\. sg. Prés. Ā | ⟪ब्रूते⟫ (brū-te) |
-| 3\. pl. Prés. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
+| 3\. sg. Präs. P | ⟪ब्रवीति⟫ (bravī-ti) |
+| 3\. pl. Präs. P | ⟪ब्रुवन्ति⟫ (bruv-anti) |
+| 3\. sg. Präs. Ā | ⟪ब्रूते⟫ (brū-te) |
+| 3\. pl. Präs. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
-:::::::
-Ainsi, ⟪स्तु⟫ 2 U « louer » possède, outre les formes indiquées sous 3., des formes suivant ce modèle :
+:::
+⟪स्तु⟫ 2 U « louer » possède, outre les formes indiquées sous 3., des formes selon ce modèle :
 
-::::grammar-box
-
-:::no-header
+::: no-header
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prés. P | ⟪स्तवीति⟫ (« sto + ī + ti):brou : ⟪स्तौति⟫ |
+| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
-:::::::
-## 17.6. Liste des mots
+:::
+## 17.6. Liste de mots
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : frapper, tuer, assassiner
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫ PPP ⟪हत⟫ : frapper, tuer, faire mourir
 
 dont :
 
-:::indent
-⟪घात⟫ m. : meurtre
-::::::media
+::: indent
+⟪घात⟩ m. : meurtre
+:::
+
+::: media
 ![](/images/lekt1703.webp)
 Fig. : ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
@@ -277,9 +253,11 @@ Bangalore = ಬೆಂಗಳೂರು
 
 dont :
 
-:::indent
-⟪आसन⟫ n. : l'action de s'asseoir, siège ; aussi : positions assises du yogī
-::::::media
+::: indent
+⟪आसन⟫ n. : l'acte de s'asseoir, siège ; aussi : postures d'assise du yogī
+:::
+
+::: media
 ![](/images/lekt1701.webp)
 Fig. : ⟪योगासनम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1701))
@@ -288,27 +266,28 @@ Fig. : ⟪योगासनम्⟫
 
 dont :
 
-:::indent
+::: indent
 ⟪रुद्र⟫ m. : (celui qui hurle =) le dieu de la tempête Rudra
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ pas de Passif ni de PPP : parler, dire (quelque chose à quelqu'un : double accusatif)
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ pas de Passif ni de PPP : parler, dire (qqch à qqn : double accusatif)
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : traire
 
-:::media
+::: media
 ![](/images/lekt1702.webp)
 Fig. : ⟪दोग्धि⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : montrer, ordonner, commander
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : montrer, indiquer, ordonner
 
 dont :
 
-:::indent
-⟪दिष्टि⟫ f. : instruction, heureux concours de circonstances
+::: indent
+⟪दिष्टि⟫ f. : instruction, heureux hasard
 
-⟪दिष्ट्या⟫ Instr. : (litt. : par un heureux concours de circonstances) Ô heureux concours de circonstances (exclamation de joie et de béatitude)
+⟪दिष्ट्या⟫ Instr. : (litt. : par un heureux hasard) Ô heureux hasard (exclamation de joie et de félicitation)
 :::
+
 ## 17.7. Exercice 1
 
 A) Insérez le verbe dans les phrases suivantes et traduisez :
@@ -431,9 +410,9 @@ Traduisez les formes verbales suivantes et indiquez la racine correspondante :
 
 ⟪४६⟫. ⟪दिश्यन्ते⟫
 
-:::deleteme-box
+::: deleteme-box
 
-**lekt1701:** [Source de l'image : tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Consulté le 2008-12-07. -- Licence Creative Commons (Attribution, pas de modification)]
+**lekt1701:** [Source de l'image : de tlongacre. -- http://www.flickr.com/photos/tlongacre/2177187487/. -- Consulté le 2008-12-07. -- Licence Creative Commons (Attribution, pas de modification)]
 
 **lekt1702:** [Source de l'image : Roshnii. -- http://www.flickr.com/photos/roshnii/110086482/. -- Consulté le 2008-12-07. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique)]
 

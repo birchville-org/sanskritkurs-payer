@@ -1,9 +1,9 @@
 ---
-title: Lección 57
-subtitle: "Aoristo 4: s-aoristo"
+title: Lektion 57
+subtitle: "Aorist 4: s-Aorist"
 lesson_id: 57
 last_reconstructed: 2026-05-21
-category: "Gramática"
+category: "Grammatik"
 status: stable
 ---
 
@@ -11,47 +11,50 @@ status: stable
 
 ## 57.1. Aoristo 4: s-Aorist
 
-:::grammar-box
+::: grammar-box
 **El s-Aorist se forma con la mayoría de las raíces ⟪अनिट्⟫, siempre que no tengan exclusivamente otra forma de aoristo. Las raíces facultativas ⟪अनिट्⟫ pueden, en general, formar opcionalmente este aoristo o el aoristo iṣ. También las raíces ⟪अनिट्⟫, que forman el ⟪परस्मैपद⟫ después de la 1., 2. o 6. forma del aoristo, forman el ⟪आत्मनेपद⟫ según el s-Aorist.**
 
 **Formación: Aumento + raíz + s + terminación secundaria atemática**
 :::
 Tabla de terminaciones con sufijo de formación de la raíz
 
-:::grammar-box
+::: grammar-box
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | -sam | -sma | -si | -smahi |
 | **2. ⟪द्वितीयः⟫** | **-sīs** | -sta | -sthās | **-dhvam** |
 | **3. ⟪प्रथमः⟫** | **-sīt** | -sur | -sta | -sata |
-:::::::grammar-box
+:::
+::: grammar-box
 **Se aplica la ley fonética general de que un sonido fricativo entre dos oclusivos se pierde (véase ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), es decir, el sufijo de formación de la raíz -s- se pierde antes de las terminaciones que comienzan con -t- o -th- (pero no después de nasales o r-).**
 
 Ejemplos:
 
-:::indent
+:::
+::: indent
 3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***⟪क्षिप्त⟫***
 2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***⟪क्षिप्था⟫***⟪स्⟫
 :::
 Tales formas también podrían pertenecer al aoristo de la raíz y probablemente en parte también pertenecen a él.
-::::
 Los gramáticos indios también contaron formas como ⟪अकृत⟫ (3.sg.Ā) como s-Aorist, que claramente pertenecen al aoristo de la raíz. Con este propósito, los gramáticos indios inventaron la siguiente regla fonética ad-hoc para el s-Aorist:
 
-:::indent
+::: indent
 "Después de una vocal corta, las 'terminaciones' que comienzan con -st- o -sth- pierden la -s-."
 :::
 De lo contrario, se deben tener en cuenta las reglas fonéticas para la conexión de consonantes finales con s-.
 
 Para -dhvam se aplica:
 
-::::grammar-box
+::: grammar-box
 **El -dh- de -dhvam se reemplaza por -ḍh- después de todas las vocales no a/ā, así como después de -r.**
 
-:::indent
+:::
+::: indent
 p.ej. ***⟪चि⟫*** 5U: 2.pl.Ā ***⟪अचेढ्वम्⟫***
-::::::::::grammar-box
+:::
+::: grammar-box
 **Forma de la raíz:**
 
 *   **⟪परस्मैपद⟫ : Grado reforzado**
@@ -78,58 +81,58 @@ Ejemplos:
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
 |   | **sg.Ā** |
-| ⟪दा⟫ 3U | ⟪अदिषि⟫:br**⟪अदिथास्⟫**:br**⟪अदित⟫** |
+| ⟪दा⟫ 3U | ⟪अदिषि⟫:br ⟪अदिथास्⟫ :br ⟪अदित⟫ |
 |   | **1.sg.Ā** |
 | ⟪कृ⟫ 8U | ⟪अकृषि⟫ |
 | ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
 
-::::grammar-box
+::: grammar-box
 **⟪दृश्⟫ y ⟪सृज्⟫ tienen en el ⟪परस्मैपद⟫ grado reforzado con diptongo ascendente -rā-:**
 
-:::indent
+:::
+::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫***⟪द्राक्षी⟫***⟪त्⟫
 :::
 Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
-:::indent
+::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***⟪क्राक्षी⟫***⟪त्⟫
-:::::::
+:::
 Paradigmas:
 
 ⟪नी⟫ 1U "conducir"
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
-
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अनैषम्⟫ | ⟪अनैष्म⟫ | ⟪अनेषि⟫ | ⟪अनेष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫***⟪ढ्वम्⟫*** |
+| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫*⟪ढ्वम्⟫* |
 | **3. ⟪प्रथमः⟫** | ⟪अनैषीत्⟫ | ⟪अनैषुर्⟫ | ⟪नेष्ट⟫ | ⟪अनेषत⟫ |
 
-:::media
+::: media
 ![](/images/lekt5701.webp)
 Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt5701))
 :::
 ⟪कृ⟫ 8U "hacer"
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अकार्षम्⟫ | ⟪अकार्ष्म⟫ | ⟪अकृषि⟫ | ⟪अकृष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | ***⟪अकृथास्⟫*** | ⟪अकृढ्वम्⟫ |
-| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | ***⟪अकृत⟫*** | ⟪अकृषत⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | *⟪अकृथास्⟫* | ⟪अकृढ्वम्⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | *⟪अकृत⟫* | ⟪अकृषत⟫ |
 
 ⟪तुद्⟫ 6U "golpear"
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अतौत्सम्⟫ | ⟪अतौत्स्म⟫ | ⟪अतुत्सि⟫ | ⟪अतुत्स्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अतौत्सीस्⟫ | ⟪अतौत्त⟫:brde: a-taut + s + ta | ⟪अतुत्थास्⟫ | ⟪अतुद्ध्वम्⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अतौत्सीस्⟫ | ⟪अतौत्त⟫:braus: a-taut + s + ta | ⟪अतुत्थास्⟫ | ⟪अतुद्ध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अतौत्सीत्⟫ | ⟪अतौत्सुर्⟫ | ⟪अतुत्त⟫ | ⟪अतुत्सत⟫ |
 
-:::grammar-box
+::: grammar-box
 **Formas irregulares:**
 
 **1. Las raíces con nasal (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) forman el aorista s con grado pleno:**
@@ -232,7 +235,7 @@ B) Traduzca y determine las siguientes formas:
 55.  ⟪पाणी⟫
 56.  ⟪अस्प्राक्षम्⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt5701:** [Fuente de la imagen: Wikipedia. Dominio Público]
 

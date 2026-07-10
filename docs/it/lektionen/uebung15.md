@@ -70,7 +70,7 @@ B) Risolvere i seguenti Tatpuruṣa:
 
 ⟪२६⟫. ⟪श्रुत्युदितम्⟫ ⟪।⟫ ⟪श्रुत्योदितम्⟫ ⟪।⟫ ⟪श्रुतेरुदितम्⟫ — detto / prescritto dal Veda
 
-:::media
+::: media
 ![](/images/uebung014.webp)
 Fig.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung014))
@@ -141,7 +141,7 @@ Risolvere i seguenti composti come Tatpuruṣa in sanscrito e fornire una traduz
 
 ⟪३०⟫. ⟪सत्यवदनम्⟫ ⟪।⟫ ⟪स्त्यस्य⟫ ⟪वदनम्⟫ — discorso della verità, parlare della verità
 
-:::media
+::: media
 ![](/images/uebung016.webp)
 Fig.: ⟪गृहकरणम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung016))

@@ -85,6 +85,10 @@ Files created directly in Markdown must follow the **"Scholarly Synthesis"** des
 *   **Internal Links**: Use relative paths without the `.md` extension (e.g., `[Lektion 4](/lektionen/lektion04)`).
 *   **Devanagari Audit**: Run the `detect_cyrillic.py` script on all new files to ensure character-set purity.
 *   **Image Storage**: Save all images in `docs/public/images/` and reference them as `/images/filename.jpg`.
+*   **Angle Brackets Escaping (`<` and `>`)**: 
+    *   To prevent VitePress parsing/build errors, any angle bracket `<` or `>` that is directly adjacent to text or numbers (e.g. `<1864>` or `<*gm-ta`) MUST be escaped with a backslash: `\<1864\>` and `\<*gm-ta`.
+    *   If there are spaces around the brackets (e.g. `x < y` or `Ablativ < Genitiv`), escaping is optional but recommended.
+    *   **YAML Frontmatter Exception**: Inside YAML Frontmatter (such as in `subtitle`), do NOT use backslash escapes (use raw `<` and `>`), as YAML interprets backslashes inside double quotes as escape sequences.
 
 ---
 

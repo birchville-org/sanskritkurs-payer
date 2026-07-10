@@ -8,7 +8,7 @@ title: Impresum și citare
 *Următoarele text a fost extras din fișierele de lecție în timpul conversiei, pentru a îmbunătăți cursul lecturii.*
 
 ## Mod de citare | cite as:
-**Payer, Alois &lt;1944 - &gt;:** Sanskritkurs. -- Fassung von 2010. -- URL: http://www.payer.de/sanskritkurs/
+**Payer, Alois \<1944 - \>:** Sanskritkurs. -- Fassung von 2010. -- URL: http://www.payer.de/sanskritkurs/
 
 ## Ocazie
 Creat pentru cursurile 1980 - 1984

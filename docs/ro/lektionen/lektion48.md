@@ -11,8 +11,7 @@ status: stable
 
 ## 48.1. ⟪सुभाषितानि⟫
 
-:::
-center
+::: center
 ⟪सत्यम्⟫ ⟪वद⟫ ⟪॥१॥⟫
 
 ⟪धर्मं⟫ ⟪चर⟫ ⟪॥२॥⟫
@@ -31,7 +30,7 @@ center
 
 ### 48.2.1. Desinențele imperativului la rădăcini de prezent atematic
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -41,7 +40,7 @@ center
 :::
 Nota: ¹ Desinențele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -tāt, dacă se exprimă o dorină de binecuvântare. -tāt apare (chiar și la persoana a 3-a singular) la rădăcina slabă.
 
-:::grammar-box
+::: grammar-box
 | **Despre forma desinenței persoanei a 2-a singular imperativ:** ||
 | :---: | :--- |
 | **\-ø** | Rădăcinile claselor a 5-a și a 8-a, în cazul cărora consonantul final \-u este precedat doar de un singur consonant. |
@@ -51,7 +50,7 @@ Nota: ¹ Desinențele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -t
 :::
 ### 48.2.2. Forma rădăcinii la prezent
 
-:::grammar-box
+::: grammar-box
 **Rădăcină puternică:**
 
 *   **toate persoanele de singular ale imperativului**
@@ -63,7 +62,7 @@ Nota: ¹ Desinențele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -t
 
 ⟪द्विष्⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -73,7 +72,7 @@ Nota: ¹ Desinențele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -t
 :::
 ⟪आस्⟫ 2Ā
 
-:::grammar-box
+::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -83,7 +82,7 @@ Nota: ¹ Desinențele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -t
 :::
 ⟪दुह्⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -93,7 +92,7 @@ Nota: ¹ Desinențele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -t
 :::
 ⟪इ⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -103,7 +102,7 @@ Nota: ¹ Desinențele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -t
 :::
 ⟪शी⟫ 2Ā (întotdeauna cu grad intens!)
 
-:::grammar-box
+::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -113,7 +112,7 @@ Nota: ¹ Desinențele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -t
 :::
 ⟪हन्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -125,7 +124,7 @@ Notă: ¹ Explicația pentru **⟪जहि⟫** vezi Thumb-Hauschild I,2 p. 253
 :::
 ⟪स्तु⟫ 2U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -135,7 +134,7 @@ Notă: ¹ Explicația pentru **⟪जहि⟫** vezi Thumb-Hauschild I,2 p. 253
 :::
 ⟪अस्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -145,7 +144,7 @@ Notă: ¹ Explicația pentru **⟪जहि⟫** vezi Thumb-Hauschild I,2 p. 253
 :::
 ⟪शास्⟫ 2P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -156,24 +155,24 @@ Notă: ¹ Explicația pentru **⟪जहि⟫** vezi Thumb-Hauschild I,2 p. 253
 :::
 ### 48.2.4. A treia clasă de prezintă (⟪जुहोत्यादि⟫)
 
-:::grammar-box
+::: grammar-box
 **Sfârșitul 3.pl.P cu \-atu !**
 :::
 ⟪हु⟫ 3P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Persoana 1**:br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | &lt;⟪जुहवै⟫&gt; | &lt;⟪जुहवामहै⟫&gt; |
-| **Persoana 2**:br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brneregulat¹ | ⟪जुहुत⟫ | &lt;⟪जुहुष्व⟫&gt; | &lt;⟪जुहुध्वम्⟫&gt; |
-| **Persoana 3**:br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | &lt;⟪जुहुताम्⟫&gt; | &lt;⟪जुह्वताम्⟫&gt; |
+| **Persoana 1**:br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
+| **Persoana 2**:br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brneregulat¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
+| **Persoana 3**:br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
 
 Nota: ¹ Dissimilație, astfel încât două silabe cu **⟪ह्⟫** nu se succed.
 :::
 ⟪धा⟫ 3U
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -185,7 +184,7 @@ Nota: ¹ **⟪धेहि⟫** din \*dhazdhi: dispariția sunetului sibilant in
 :::
 ⟪हा⟫ 3P
 
-:::grammar-box
+::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
@@ -195,7 +194,7 @@ Nota: ¹ **⟪धेहि⟫** din \*dhazdhi: dispariția sunetului sibilant in
 :::
 ## 48.3. Despre formarea substantivelor: sufixele -a și -ya de tipul ⟪तद्धित⟫
 
-:::grammar-box
+::: grammar-box
 Cu sufixul **-a** și (mai rar) **-ya** se poate deriva un substantiv din alt substantiv. În acest caz, prima silabă a substantivului original primește gradul lung (**⟪वृद्धि⟫**). Dacă radicalul cuvântului original se termină deja în **-a**, atunci **⟪वृद्धि⟫** este singurul semn al derivării, deoarece nu se produce nicio modificare la finalul radicalului.
 
 Cuvintele derivate au sensul:
@@ -211,7 +210,7 @@ Cuvintele formate astfel sunt adjective, dar pot fi substantivate, de exemplu ca
 :::
 Exemple:
 
-:::indent
+::: indent
 | Cuvânt de bază | Derivare |
 | :--- | :--- |
 | **⟪शुचि⟫** 3 "strălucitor, pur" | **⟪शौच⟫** n. "puritate" |
@@ -222,7 +221,8 @@ Exemple:
 | **⟪राजन्⟫** m. "rege" | **⟪राज्य⟫** n. "domnie regală" |
 | **⟪देव⟫** m. "cel ceresc, zeu" | **⟪दैव्य⟫** 3 "ceresc" |
 | **⟪ग्राम⟫** m. "sat" | **⟪ग्राम्य⟫** 3 "satesc" |
-::::::grammar-box
+:::
+::: grammar-box
 | **Tratarea finalului radicalului înainte de sufixul \-a:** ||
 | :---: | :--- |
 | **\-ṛ** | **\-a** se adaugă de obicei la finalul **\-r**::brde exemplu, **⟪जेतृ⟫** "câștigător" » **⟪जैत्र⟫** 3 "câștigător" |
@@ -235,7 +235,7 @@ Exemple:
 :::
 Vezi exemplele de mai sus!
 
-:::grammar-box
+::: grammar-box
 **Cu ajutorul acestor sufixe se pot forma și derivări din compuse.**
 
 de exemplu, **⟪स्वश्व⟫** m. "cel al cărui cai sunt buni" Nume propriu » **⟪सौवश्व⟫** m. "descendent al lui Svaśva"
@@ -243,10 +243,11 @@ de exemplu, **⟪स्वश्व⟫** m. "cel al cărui cai sunt buni" Nume p
 **La compusele în care, în urma sandhi-ului, finalul -i sau -u din prima parte este înlocuit cu -y, respectiv -v și precedă astfel prima vocală a cuvântului de bază (de exemplu, compuse cu ni-, vi-, su-), ⟪वृद्धि⟫ se formează ca și cum ar fi scris -iy, respectiv -uv.**
 
 de exemplu, **⟪व्याघ्र⟫** m. "tigru" » **⟪वैयाघ्र⟫** 3 "derivat dintr-un tigru, care aparține unui tigru"
-::::::media
+:::: media
 ![](/images/lekt4801.webp)
 Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4801))
+::::
 :::
 ## 48.4. Listă de cuvinte
 
@@ -260,22 +261,23 @@ Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 
 ⟪तन्त्र⟫ n.: coardă ; război de țesut, urzeală, țesătură ; fundament, normă, regulă ; doctrină, manual de învățătură ; Tantra ; formulă magică ; mijloc, truc, medicament ; guvern, autoritate
 
-:::media
+::: media
 ![](/images/lekt4802.webp)
 Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4802))
-::::::media
+:::: media
 ![](/images/lekt4803.webp)
 Fig.: ⟪तन्त्री⟫
 Muzician la sitar = ⟪सितारवादकः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4803))
+::::
 :::
 ⟪स्त्री⟫ f.: femeie, soție ; feminin
 
 Declinare:
 
-:::grammar-box
+::: grammar-box
 | **⟪स्त्री⟫ f.** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | :---: | :---: | :---: |
 | **⟪प्रथमा⟫** | ⟪स्त्री⟫ | ⟪स्त्रियस्⟫ |
@@ -286,11 +288,12 @@ Declinare:
 | **⟪षष्ठी⟫** | ⟪स्त्रियास्⟫ | ⟪स्त्रीणाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪स्त्रियाम्⟫ | ⟪स्त्रीषु⟫ |
 | **⟪आमन्त्रितम्⟫** | ⟪स्त्रि⟫ | ⟪स्त्रियस्⟫ |
-::::::media
+:::: media
 ![](/images/lekt4804.webp)
 Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 [Grup de auto-ajutorare (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4804))
+::::
 :::
 ⟪दिवानिशम्⟫ Adverb: ziua și noaptea
 
@@ -298,7 +301,7 @@ Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 
 ⟪कुमार⟫ m.: copil, tânăr, prinț; epitet al lui ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്⟪‍⟫ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
-:::media
+::: media
 ![](/images/lekt4805.webp)
 Fig.: ⟪कुमारः⟫
 Festivalul Thaipusam = தைப்பூசம், Batu Caves, Malaysia
@@ -306,7 +309,7 @@ Festivalul Thaipusam = தைப்பூசம், Batu Caves, Malaysia
 :::
 ⟪कुमारी⟫ f.: fată, fiică
 
-:::media
+::: media
 ![](/images/lekt4806.webp)
 Fig.: ⟪कुमारी⟫
 ⟪नेपाल⟫
@@ -318,7 +321,7 @@ Fig.: ⟪कुमारी⟫
 
 ⟪स्थविर⟫ 3: bătrân, în vârstă
 
-:::media
+::: media
 ![](/images/lekt4807.webp)
 Fig.: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
@@ -330,7 +333,7 @@ Fig.: ⟪स्थविराः⟫
 
 ⟪सूक्ष्म⟫ 3: fin, minuscul, subtil
 
-:::media
+::: media
 ![](/images/lekt4808.webp)
 Fig.: ⟪सूक्ष्मम्⟫
 Lacul Karanji = ಕಾರಂಜಿ ಕೆರೆ
@@ -346,7 +349,7 @@ Lacul Karanji = ಕಾರಂಜಿ ಕೆರೆ
 
 ⟪जाया⟫ f.: soție
 
-:::media
+::: media
 ![](/images/lekt4809.webp)
 Fig.: ⟪मम⟫ ⟪जाया⟫
 (Imagine: Payer)
@@ -383,7 +386,7 @@ B) Traduceți în sanscrită (folosiți imperativul și, pe cât posibil, rădă
 
 ⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫):
 
-:::indent
+::: indent
 ⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫  
 ⟪विषयेषु⟫ ⟪च⟫ ⟪सज्जन्त्यः⟫ ⟪संस्थाप्या⟫ ⟪आत्मनो⟫ ⟪वशे⟫ ⟪॥२॥⟫  
 ⟪पिता⟫ ⟪रक्षति⟫ ⟪कौमरे⟫ ⟪भर्ता⟫ ⟪रक्षति⟫ ⟪यौवने⟫ ⟪।⟫  
@@ -402,7 +405,7 @@ B) Traduceți în sanscrită (folosiți imperativul și, pe cât posibil, rădă
 Explicație:  
 ⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Dual la ⟪द्वे⟫ ⟪कुले⟫ "două familii"
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt4801:** [Sursă imagine: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Accesat la 2009-01-10. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, utilizare non-comercială, share alike)]
 

@@ -1,6 +1,6 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Exercice d'écriture 2
+## Exercice d’écriture 2
 
 ![](/images/schrift004.webp)
 
@@ -13,8 +13,3 @@ jagat dā dīpikā pāda pīḍ ḍī bata jāti jāgṛ jṝ gato gati gadā ga
 B) Lisez et translitérez :
 
 ⟪गजो⟫ ⟪गति⟫ ⟪जपति⟫ ⟪डप्⟫ ⟪दा⟫ ⟪ददाति⟫ ⟪जगती⟫ ⟪जटा⟫ ⟪जड⟫ ⟪बीज⟫ ⟪बृबु⟫ ⟪चिद्⟫ ⟪कदा⟫ ⟪तदा⟫ ⟪दीपितो⟫ ⟪जजति⟫
-
-
-
-
-

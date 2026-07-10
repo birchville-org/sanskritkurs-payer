@@ -120,7 +120,7 @@ B) תרגמו והפכו למשפטים פסיביים בעבר
 מה אוכלים ושותים ברהמנים?
 ⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung019.webp)
 איור: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 (מקור התמונה: [פרטים](/licenses#uebung019))
@@ -193,34 +193,34 @@ Rāma geht auf dem Weg ins Dorf.
 
 ד) מאילו צרופי צלילים יכולות להיווצר צורות סנדה הבאות? ציינו את כל האפשרויות:
 
-1. -a vor Vokal (außer a-): -as
+1. -a לפני תנועה (למעט a-): -as
 2. -ā- : -a + -a/-ā -ā + a-/ā-
-3. -ā vor Vokal: -ās
-4. -ā vor stimmhaften Konsonanten: -ās
+3. -ā לפני תנועה: -ās
+4. -ā לפני עיצורים קולניים: -ās
 5. -ī-: -i + i-/ī-, -ī + i-/-ī
 6. -ū-: -u/-ū + u-/ū-
 7. -ṝ-: -ṛ/-ṝ + ṛ-/ṝ-
 8. -e-: -a/-ā + i-/ī-
-9. -e vor Avagraha: -e + a-
+9. -e לפני אבגרה: -e + a-
 10. -o-: -a/-ā + u-/ū-
-11. -o vor Avagraha: -o
-12. -o vor stimmhaften Konsonanten -as
+11. -o לפני אבגרה: -o
+12. -o לפני עיצורים קולניים -as
 13. -ai-: -a/-ā + e-/ai-
 14. -au-: -a/-ā + e-/ai-
-15. -y vor Vokal: -i/-ī
-16. -v vor Vokal: -u/-ū
-17. -r vor Vokal: -ṛ/-ṝ
-18. -ay vor Vokal: -e
-19. -av vor Vokal: -o
+15. -y לפני תנועה: -i/-ī
+16. -v לפני תנועה: -u/-ū
+17. -r לפני תנועה: -ṛ/-ṝ
+18. -ay לפני תנועה: -e
+19. -av לפני תנועה: -o
 20. -ar-: -a/-ā + ṛ-/ṝ-
-21. -ir vor Vokal oder stimmhaftem Konsonanten: -is
-22. -īr vor Vokal oder stimmhaftem Konsonanten: -īs
-23. -ur vor Vokal oder stimmhaftem Konsonanten: -us
-24. -ūr vor Vokal oder stimmhaftem Konsonanten: -ūs
-25. -er vor Vokal oder stimmhaftem Konsonanten: -es
-26. -or vor Vokal oder stimmhaftem Konsonanten: -os
-27. -air vor Vokal oder stimmhaftem Konsonanten: -ais
-28. -aur vor Vokal oder stimmhaftem Konsonanten: -aus
+21. -ir לפני תנועה או עיצור קולי: -is
+22. -īr לפני תנועה או עיצור קולי: -īs
+23. -ur לפני תנועה או עיצור קולי: -us
+24. -ūr לפני תנועה או עיצור קולי: -ūs
+25. -er לפני תנועה או עיצור קולי: -es
+26. -or לפני תנועה או עיצור קולי: -os
+27. -air לפני תנועה או עיצור קולי: -ais
+28. -aur לפני תנועה או עיצור קולי: -aus
 29. -ñj-: -n + j-
 30. -ñś-: -n + ś
 31. -ñch-: -n + ch-
@@ -228,7 +228,7 @@ Rāma geht auf dem Weg ins Dorf.
 33. -śc-: -s + c-
 34. -ṣṭ-: -s + t-
 35. -st(h)-: -s + t(h)-
-36. Anusvara vor Konsonant: -m
+36. אנוסוורה לפני עיצור: -m
 37. -ṃśc-: -n + c-
 38. -ṃṣṭ-: -n + ṭ-
 39. -mst-: -n + t-
@@ -268,7 +268,7 @@ E) תרגמו לסנסקריט:
 11\. כוהני הקורבנות לחצו את הסומה.
 ⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung018.webp)
 תמונה: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
 (מקור התמונה: [פרטים](/licenses#uebung018))

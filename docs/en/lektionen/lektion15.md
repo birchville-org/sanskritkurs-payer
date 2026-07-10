@@ -1,9 +1,9 @@
 ---
-title: Lesson 15
+title: Lektion 15
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
@@ -16,25 +16,24 @@ status: stable
 ⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫  
 ⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫
 
-## 15.2. Determinative Compounds = Tatpuruṣa m. = ⟪तत्पुरुष⟫
+## 15.2. Determinative compounds = Tatpuruṣa m. = ⟪तत्पुरुष⟫
 
-The relationship between entities designated by nouns (substantives and adjectives) can be expressed not only through a genitive construction but also through a *Tatpuruṣa* (⟪तत्पुरुष⟫). Similarly, attributive modifications of adjectives or appositional modifications of substantives can be expressed through a specific type of *Tatpuruṣa*, namely the so-called *Karmadhāraya* (m.) = ⟪कर्मधारय⟫.
+The relationship between entities designated by nouns (substantives and adjectives) can be expressed not only through a genitive construction but also through a Tatpuruṣa (⟪तत्पुरुष⟫). Likewise, attributive subordination of adjectives or appositional subordination of substantives can be expressed through a specific type of Tatpuruṣa, namely so-called Karmadhāraya (m.) = ⟪कर्मधारय⟫.
 
-⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫ "his servant," i.e., an example of such a compound serves as the designation for this type of compound.
+⟪तत्पुरुषः⟫ =  ⟪तस्य⟫ ⟪पुरुषः⟫ "his servant", i.e., as a designation for this type of compound, an example of such compounds is used.
+::: grammar-box
 
-:::grammar-box
+In determinative compounds (Tatpuruṣa), a noun (substantive or adjective) is specified more precisely by another noun or adverb. The specified word usually forms the second member (padānta) of the compound.
 
-In determinative compounds (*Tatpuruṣa*), a noun (substantive or adjective) is specified by another noun or adverb. The specified word typically forms the final member (padānta) of the compound.
+The relationship of the first member (determining padādi) to the second member (determined padānta) can be:
 
-The relationship between the initial member (determining member) and the final member (specified member) can be:
+*   attributive or appositional: upon resolution of the compound, the first member forms a more precise specification of the second member in the same case (i.e., outside a sentence context in the nominative (⟪प्रथमा⟫), in a sentence in the syntactically required case)
+*   casusal: the first member, upon resolution of the compound, stands in a different case than the second member (i.e., not in the nominative - ⟪प्रथमा⟫)
+*   adverbial: the first member is an indeclinable word
 
-*   **attributive or appositional**: upon resolution of the compound, the initial member forms a specification of the final member in the same case (i.e., outside a sentence context, in the nominative (⟪प्रथमा⟫); within a sentence, in the syntactically required case).
-*   **casual**: upon resolution of the compound, the initial member stands in a different case than the final member (i.e., not in the nominative - ⟪प्रथमा⟫).
-*   **adverbial**: the initial member is an indeclinable word.
+The case relationship of both members of a compound is independent of the case in which the compound stands: the compound is, after all, a single declinable word:
 
-The case relationship between the two members of a compound is independent of the case in which the compound itself stands: the compound is, after all, a single declinable word:
-
-For example:
+e.g.
 
 > Nom. sg. ⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫  
 > Acc. sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य⟫ ⟪पुरुषम्⟫  
@@ -43,158 +42,162 @@ For example:
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫  
 > etc.
 
-The gender of a *Tatpuruṣa* is—with few exceptions—that of its final member.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
 
 :::
-## 15.3. Determinative Compounds with Attributive / Appositional First Member = Karmadhāraya m. = ⟪कर्मधारय⟫
+## 15.3. Determinative compounds with attributive / appositional first member = Karmadhāraya m. = ⟪कर्मधारय⟫
+::: grammar-box
 
-:::grammar-box
-
-When resolving a Karmadhāraya, both members of the compound stand in the same case.
+Upon resolution of the Karmadhāraya, both members of the compound stand in the same case.
 
 :::
-For example:
+e.g.
 
-⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = “a son with good qualities”  
+⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "a son with good qualities"  
 Acc. sg. ⟪गुणवत्पुत्रम्⟫  
 Nom. pl. ⟪गुणवत्पुत्राः⟫  
 
-⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = “a meritorious Kṣatriya woman”  
+⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "a Kṣatriya woman of merit"  
 
-⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = “good people”  
+⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = "good people"  
 
-⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = “the desired deity = the deity with whom one has a special relationship of devotion and refuge”
+⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "the desired deity = the deity to whom one has a special relationship of devotion and refuge"
 
-:::media
+::: media
 ![](/images/lekt1501.webp)
 Fig.: ⟪लक्ष्मी⟫
 (Image source: [Details](/en/licenses#lekt1501))
-::::::grammar-box
+:::
 
-The following special rule applies to the order of members in a Karmadhāraya:
+::: grammar-box
 
-*   If a Karmadhāraya expresses a COMPARISON, then that which serves as the standard of comparison stands in the second member of the compound:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
-    ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = “a man like a lion”  
-    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = “a man like a tiger”
+*   if a Karmadhāraya expresses a COMPARISON, then that which is being compared stands in the second member of the compound:
 
-*   If, however, a Karmadhāraya expresses an apposition (a specification of the second member by a noun), then the specifying element stands in the first member, as required by the general rule for the order of members in a Tatpuruṣa:
+    ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "a man like a lion"  
+    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "a man like a tiger"
 
-    ⟪नरसिंहः⟫ can also be resolved as: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = “A lion who (in reality) is a man.”
+*   if, however, a Karmadhāraya expresses an apposition (further specification of the second member by a noun), then the specifying element stands in the first member, as the general rule for the order of elements in a Tatpuruṣa requires:
 
-    Such appositional Karmadhāraya compounds are resolved in indigenous commentaries, as in the example above, by means of ⟪एव⟫.
+    ⟪नरसिंहः⟫ can also be resolved: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "A lion, who (in reality) is a man."
 
-::::::media
+    Such appositional Karmadhārayas are resolved in the indigenous commentaries, as in the example above, by means of ⟪एव⟫.
+
+:::
+::: media
 ![](/images/lekt1503.webp)
 Fig.: ⟪नरसिंहः⟫
 (Image source: [Details](/en/licenses#lekt1503))
 :::
-## 15.4. Determinative Compounds with a First Member in a Non-Attributive/Appositional Case Relation to the Second Member = Tatpuruṣa in the Narrower Sense
+## 15.4. Determinative compounds with a first member that stands in a non-attributive/appositional case relationship to the second member = Tatpuruṣa in the narrower sense
 
-:::grammar-box
+::: grammar-box
 
-Tatpuruṣa compounds are possible for combinations of nouns (nouns and adjectives), in which the first member can stand in any case, according to the rules of syntax. As expected, the first member most frequently represents a genitive (⟪षष्ठी⟫), since this is the case used to express the relationship between nouns.
+Tatpuruṣa combinations are possible for combinations of nouns (nouns and adjectives), in which the first member - according to the rules of syntax - can stand in any case. As expected, the first member most frequently represents a genitive (⟪षष्ठी⟫), since this is the case for expressing the relationship between nouns.
 
 :::
-For example:
+e.g.
 
 ⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "the son of a Kṣatriya", "a young Kṣatriya", "a member of the group of Kṣatriyas"  
 Acc. sg. ⟪क्षत्रियपुत्रम्⟫  
 Gen. sg. ⟪क्षत्रियपुत्रस्य⟫  
-etc.
+etc.  
 
-⟪गुरुभावः⟫ = ⟪गुरोर्भावः⟫ = "the nature of a teacher"
+⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "the nature of a teacher"
 
-⟪धनलोभः⟫ = ⟪धनस्य⟫ ⟪लोभः⟫ = "desire for wealth, greed"
+⟪धनलोभः⟫ = ⟪धनस्य⟫  ⟪लोभः⟫ = "desire for wealth, avarice"
 
-⟪लोकगतिः⟫ = ⟪लोकस्य⟫ ⟪गतिः⟫ = "the course of the world, the behavior of people"
+⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "the course of the world, the behavior of the people"
 
-Almost any genitive relationship can be replaced by a Tatpuruṣa compound. See, for example, Kale, *A Higher Sanskrit Grammar* § 211, for the few exceptions, as well as the corresponding passages in Pāṇini.
+Almost every genitive relationship can be replaced by a Tatpuruṣa. The few exceptions see e.g. in Kale, A higher Sanskrit grammar § 211, there also the corresponding passages in Pāṇini.
 
-However, the first member of a Tatpuruṣa can, in principle, represent any case. Nevertheless, not all syntactically possible case relationships can be replaced by a Tatpuruṣa compound. In case of doubt, the relevant rules can be found in Kale, *A Higher Sanskrit Grammar* §§ 203–217, or in Pāṇini 2.1.22–2.2.22.
+The first member of a Tatpuruṣa can, in principle, represent any case. However, not all syntactically possible case relationships can be replaced by a Tatpuruṣa. The corresponding rules can be found in case of doubt in Kale, A higher Sanskrit grammar § 203 - 217 or Pāṇini 2,1,22 - 2,2,22.
 
-:::grammar-box
+::: grammar-box
 
-The first member, when the compound is resolved, may appear in the singular, dual, or plural. Which of these possibilities applies must be inferred from meaning and context.
+The first member can stand in the singular, dual, or plural when resolving the compound. Which possibility is present must be inferred from meaning and context.
 
 :::
 Examples:
 
-The first member represents the accusative (⟪द्वितीया⟫): for example, in certain past participles (PPP) derived from verbs of motion (Pāṇini 2.1.24):
+The first member represents the accusative (⟪द्वितीया⟫): e.g. in certain PPPs to verbs of motion (Pāṇini 2,1,24):
 
-⟪ग्रामगतः⟫ = ⟪ग्रामं⟫ ⟪गतः⟫ = "one who has gone to the village"  
+⟪ग्रामगतः⟫ = ⟪ग्रामं⟫ ⟪गतः⟫ = "one who has gone into the village"  
 ⟪नरकपतिता⟫ = ⟪नरकं⟫ ⟪पतिता⟫ = "one who has fallen into a hell"
 
-The first member represents the instrumental (⟪तृतीया⟫): for example, frequently the agent (⟪कर्तृ⟫) of nominal derivatives with kṛt suffixes (e.g., PPP):
+The first member represents the instrumental (⟪तृतीया⟫): e.g. frequently the agent (⟪कर्तृ⟫) of nominal formations with kṛt suffixes (e.g. PPP):
 
 ⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "made by a god / by gods"  
-It could also be resolved as: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "act / deed of a god / of gods; divine act, acts of gods"
+Could also be resolved: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "deed / action of a god / by gods; divine deed, deed of gods"
 
-⟪बुद्धरक्षिता⟫ = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "one who was protected by Buddha" (a proper name)
+⟪बुद्धरक्षिता⟫ = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "the one who was protected by the Buddha" (a proper name)
 
-## 15.5. Decomposition of Compounds (excluding Dvandvas)
+## 15.5. Decomposition of Compounds (except Dvandvas)
 
-:::grammar-box
+::: grammar-box
+Although compounds of any length can be formed in Sanskrit and are also formed very frequently (compounds consisting of 10 to 30 members are no rarity!), nevertheless, with the exception of Dvandvas, all compounds are progressively hierarchical and can be decomposed into two parts each:
 
-Although Sanskrit allows for the formation of compounds of arbitrary length—and indeed, such formations are very common (compounds consisting of 10 to 30 members are by no means rare)—all compounds, with the exception of Dvandvas, are progressively hierarchical and can be decomposed into two parts at each step:
-
-:::media
-![]/images/lekt1502.jpg
+:::
+::: media
+![](/images/lekt1502.jpg)
+Fig.: ⟪समासविच्छेदः⟫
 (Image source: [Details](/en/licenses#lekt1502))
 :::
-and so on, until one reaches the individual word stems.
+etc. until one reaches the individual word stems.
 
-For example:
+e.g.
 
 ⟪गुणवत्पुत्रकृतपुण्यम्⟫
 
-> 1st level (main caesura): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
-> 
-> 2nd level (1st subordinate caesura): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
-> 
-> 3rd level (2nd subordinate caesura): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
-> 
-> = "the meritorious deed (or merit) performed by my virtuous son"
+::: indent
+1st stage (main caesura): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
-In this process, different types of compounds may be mixed; for example, the prior member (Vorderglied) may be a Bahuvrīhi (⟪बहुव्रीहि⟫), while the posterior member (Hinterglied) is a Tatpuruṣa, and so forth.
+2nd stage (1st secondary caesura): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
-For example:
+3rd stage (2nd secondary caesura): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+
+= "the meritorious deed (the merit) that my virtuous son has performed"
+:::
+In this process, different types of compounds can be mixed, e.g. foreground member: Bahuvrīhi (⟪बहुव्रीहि⟫) - background member: Tatpuruṣa, etc.
+
+e.g.
 
 ⟪ब्राह्मणक्षत्रियवैश्यधर्मः⟫
 
-> 1st level: ⟪ब्राह्मणक्षत्रियवैश्यानां⟫ ⟪धर्मः⟫ (Prior member: Itaretaradvandva)
-> 
-> 2nd level: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
-> 
-> = "the dharma of Brahmins, Kṣatriyas, and Vaiśyas"
+::: indent
+1st stage: ⟪ब्राह्मणक्षत्रियवैश्यानां⟫ ⟪धर्मः⟫ (foreground member: Itaretaradvandva)
 
-Very often, there are multiple possible ways to resolve a given compound. Whether a particular resolution is correct—or at least the most appropriate—can only be determined from the context and the content of the text. Sometimes, such a decision is impossible. Often, two possible resolutions are likely intended by the author. In such cases, both interpretations must be rendered in the translation (connected by "and," "or," "respectively," or similar conjunctions).
+2nd stage: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
 
-For example:
+= "the dharma of Brāhmaṇas, Kṣatriyas, and Vaiśyas"
+:::
+Very often, there are various possibilities for resolving a compound. Whether the correct or at least the best one is, can only be decided from the context and the content of the text. Sometimes such a decision is not possible. Often, two resolution possibilities are presumably intended by the author. Then one must render both resolution possibilities in the translation (connected with "and", "or", "respectively", and the like.
+
+e.g.
 
 ⟪पुण्यवत्पुत्रकृतम्⟫
 
-> 1st level: either – or
-> 
-> 1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫
-> 2. ⟪पुण्यवत्पुत्रस्य⟫ ⟪कृतम्⟫
-> 3. ⟪पुण्यवत्⟫ ⟪पुत्रकृतम्⟫
-> 
-> 2nd level: accordingly
-> 
-> 1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "that done by my meritorious son"
-> 2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "the deed of my meritorious son"
-> 3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "the meritorious deed done by my son"
->    2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "the meritorious deed of my son"
+::: indent
+1st stage: either - or
 
+1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫
+2. ⟪पुण्यवत्पुत्रस्य⟫ ⟪कृतम्⟫
+3. ⟪पुण्यवत्⟫ ⟪पुत्रकृतम्⟫
+
+2nd stage: accordingly
+
+1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "the done by my meritorious son"
+2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "the deed of my meritorious son"
+3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "the meritorious, done by my son"
+   2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "the meritorious deed of my son"
 :::
-## 15.6. The Form of the First Member in Compounds (⟪समास⟫ m.)
+## 15.6. The form of the foreground member in compounds (⟪समास⟫ m.)
+::: grammar-box
 
-:::grammar-box
+In all types of compounds, the foreground member is usually the unchanged word stem. Two-stemmed nouns stand in the weak stem. Feminine adjectives, which specify a following member in the compound, generally stand in the masculine stem:
 
-In all types of compounds, the first member is generally the uninflected stem. Two-stem nouns appear in the weak stem. Feminine adjectives that further specify a following member in a compound generally appear in the masculine stem:
-
-For example:
+e.g.
 
 ⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "a Kṣatriya woman who possesses merit"  
 ⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "a son with good qualities"
@@ -202,129 +205,129 @@ For example:
 :::
 ## 15.7. Classification of ⟪तत्पुरुष⟫
 
-1.  **⟪प्रथमातत्पुरुषः⟫** : The first member stands in the nominative (⟪प्रथमा⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
-2.  **⟪द्वितीयातत्पुरुषः⟫** : The first member stands in the accusative (⟪द्वितीया⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
-3.  **⟪तृतीयातत्पुरुषः⟫** : The first member stands in the instrumental (⟪तृतीया⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
-4.  **⟪चतुर्थीतत्पुरुषः⟫** : The first member stands in the dative (⟪चतुर्थी⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
-5.  **⟪पञ्चमीतत्पुरुषः⟫** : The first member stands in the ablative (⟪पञ्चमी⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
-6.  **⟪षष्ठीतत्पुरुषः⟫** : The first member stands in the genitive (⟪षष्ठी⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
-7.  **⟪सप्तमीतत्पुरुषः⟫** : The first member stands in the locative (⟪सप्तमी⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
+1.  ⟪प्रथमातत्पुरुषः⟫ : foreground member stands in ⟪विग्रहवाक्य⟫ in the nominative (⟪प्रथमा⟫)
+2.  ⟪द्वितीयातत्पुरुषः⟫ : foreground member stands in ⟪विग्रहवाक्य⟫ in the accusative (⟪द्वितीया⟫)
+3.  ⟪तृतीयातत्पुरुषः⟫ : foreground member stands in ⟪विग्रहवाक्य⟫ in the instrumental (⟪तृतीया⟫)
+4.  ⟪चतुर्थीतत्पुरुषः⟫ : foreground member stands in ⟪विग्रहवाक्य⟫ in the dative (⟪चतुर्थी⟫)
+5.  ⟪पञ्चमीतत्पुरुषः⟫ : foreground member stands in ⟪विग्रहवाक्य⟫ in the ablative (⟪पज्चमी⟫)
+6.  ⟪षष्ठीतत्पुरुषः⟫ : foreground member stands in ⟪विग्रहवाक्य⟫ in the genitive (⟪षष्ठी⟫)
+7.  ⟪सप्तमीतत्पुरुषः⟫ : foreground member stands in ⟪विग्रहवाक्य⟫ in the locative (⟪सप्तमी⟫)
 
-*   **⟪कर्मधारयः⟫** : appositional Tatpuruṣa, among others:
-    *   **⟪उपमानपूर्वपदकर्मधारयः⟫** : ⟪विग्रहवाक्य⟫ (analytical sentence) with ⟪इव⟫ after the first member.
-    *   **⟪उपमानोत्तरपदकर्मधारयः⟫** : ⟪विग्रहवाक्य⟫ (analytical sentence) with ⟪इव⟫ after the second member.
-    *   **⟪रूपकसमासः⟫** : ⟪विग्रहवाक्य⟫ (analytical sentence) with ⟪एव⟫.
-    *   **⟪द्विगुसमासः⟫** : numeral in the first member.
-*   **⟪नञ्तत्पुरुषः⟫** (⟪निषेधतत्पुरुषः⟫) : with negation a-, an- in the first member.
-*   **⟪गतिसमासः⟫** : with a preposition in the first member.
-*   **⟪प्रथमातत्पुरुषः⟫** etc. (see above).
+*   ⟪कर्मधारयः⟫ : appositional Tatpuruṣa, among others:
+    *   ⟪उपमानपूर्वपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ with ⟪इव⟫ after the first member
+    *   ⟪उपमानोत्तरपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ with ⟪इव⟫ after the second member
+    *   ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ with ⟪एव⟫
+    *   ⟪द्विगुसमासः⟫ : numeral in the first member
+*   ⟪नञ्तत्पुरुषः⟫ (⟪निषेधतत्पुरुषः⟫) : with negation a-, an- in the first member
+*   ⟪गतिसमासः⟫ : with preposition in the first member
+*   ⟪प्रथमातत्पुरुषः⟫ etc. (see above)
 
-### 15.7.1. Classification of ⟪कर्मधारय⟫ (Karmadhāraya)
+### 15.7.1. Classification of the ⟪कर्मधारय⟫
 
-1.  **⟪विशेषणपूर्वपदकर्मधारयः⟫ (Viśeṣaṇapūrvapadakarmadhārayaḥ)**: The first member (Vorderglied) is an adjective (⟪विशेषण⟫).
-2.  **⟪विशेषणोभयपदकर्मधारयः⟫ (Viśeṣaṇobhayapadakarmadhārayaḥ)**: Both members are adjectives; this category also includes adjectives expressing a temporal sequence, e.g., "first bathed, then anointed."
-3.  **⟪उपमानपूर्वपदकर्मधारयः⟫ (Upamānapūrvapadakarmadhārayaḥ)** (= ⟪उपमासमासः⟫ (Upamasamāsaḥ)): The first member contains a comparison, and the second member denotes the compared property, e.g., "beautiful as a lotus."
-4.  **⟪उपमानोत्तरपदकर्मधारयः⟫ (Upamānottarapadakarmadhārayaḥ)** (= ⟪उपमितसमासः⟫ (Upamitasamāsaḥ)): The comparison appears in the second member.
-5.  **⟪रूपकसमासः⟫ (Rūpakasamāsaḥ)**: A ⟪विग्रहवाक्य⟫ (vibhāga-vākya, analytical sentence) with ⟪एव⟫ (eva) following the first member (metaphor).
-6.  **⟪संभावनपूर्वपदकर्मधारयः⟫ (Saṃbhāvanapūrvapadakarmadhārayaḥ)**: Both members refer to the same person or thing, e.g., ⟪कालिदासकविः⟫ (Kālidāsakaviḥ) = ⟪कालिदास⟫ ⟪इति⟫ ⟪कविः⟫ (Kālidāsa iti kaviḥ) = "the poet Kālidāsa."
-7.  **⟪कर्मधारयः⟫ (Karmadhārayaḥ) with ⟪कु⟫ (ku) or ⟪कद्⟫ (kad) as the first member**: Meaning "badly..." or "poorly..."
-8.  **⟪कर्मधारयः⟫ (Karmadhārayaḥ) with ⟪किम्⟫ (kim) as the first member**: Expressing censure or blame.
-9.  **PPP + negated PPP**: Meaning "partially," e.g., ⟪कृताकृतम्⟫ (kṛtākṛtam) = "partially done."
-10. **⟪द्विगुसमासः⟫ (Dvigu-samāsaḥ)**: A numeral in the first member.
+1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫ : first member is an adjective (⟪विशेषण⟫)
+2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : both members are adjectives; this category also includes adjectives expressing a sequence of time: "first bathed, then anointed"
+3.  ⟪उपमानपूर्वपदकर्मधारयः⟫ (= ⟪उपमासमासः⟫): comparison in the first member, compared quality in the second member: e.g., "beautiful like a lotus"
+4.  ⟪उपमानोत्तरपदकर्मधारयः⟫ (= ⟪उपमितसमासः⟫): comparison in the second member
+5.  ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ with ⟪एव⟫ after the first member (metaphor)
+6.  ⟪संभावनपूर्वपदकर्मधारयः⟫ : both members refer to the same person or thing, e.g., ⟪कालिदासकविः⟫ = ⟪कालिदास⟫ ⟪इति⟫ ⟪कविः⟫ = "the poet Kālidāsa"
+7.  ⟪कर्मधारयः⟫ with ⟪कु⟫ / ⟪कद्⟫ as the first member: "bad..."
+8.  ⟪कर्मधारयः⟫ with ⟪किम्⟫ as the first member: censure
+9.  PPP + negated PPP: "partially", e.g., ⟪कृताकृतम्⟫ = "partially done"
+10.  ⟪द्विगुसमासः⟫ : numeral in the first member
 
 ## 15.8. Word List
 
-puṣkala 3: magnificent, splendid, abundant
+⟪पुष्कल⟫ 3: splendid, magnificent, abundant
 
-vā : or (postposed)
+⟪वा⟫ : or (postposed)
 
-athavā : or (preposed)
+⟪अथवा⟫ : or (preposed)
 
-caturtha 3 (f.: caturthī): fourth
+⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): fourth
 
-vid “find” 6 U vindati ; Pass. vidyate ; PPP vinna / vitta
+⟪विद्⟫ "to find" 6 U ⟪विन्दति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त⟫
 
-vid “know” 2 P vetti ; Pass. vidyate ; PPP vidita
+⟪विद्⟫ "to know" 2 P ⟪वेत्ति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विदित⟫
 
-pat “fly, fall” 1 P patati ; Pass. patyate ; PPP patita
+⟪पत्⟫ "to fly, to fall" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित⟫
 
-ardha 3: half, m.n. half
+⟪अर्ध⟫ 3: half, m.n. half
 
-pūjā f.: honor, honorable reception, religious worship (Pūjā)
-:::media
+⟪पूजा⟫ f.: honor, honorable reception, religious worship (Pūjā)
+::: media
 ![](/images/lekt1504.webp)
-Fig.: pūjā
+Fig.: ⟪पूजा⟫
 (Image source: [Details](/en/licenses#lekt1504))
 :::
-kula n.: herd, multitude, lineage, ancestry, family
+⟪कुल⟫ n.: herd, multitude, race, lineage, family
 
-indra m.: prince, first, best among ; king of gods Indra
-:::media
+⟪इन्द्र⟫ m.: prince, first, best among ; king of gods Indra
+::: media
 ![](/images/lekt1505.webp)
-Fig.: indraḥ
+Fig.: ⟪इन्द्रः⟫
 (Image source: [Details](/en/licenses#lekt1505))
 :::
-dāsa m.: slave, serf, servant
+⟪दास⟫ m.: slave, serf, servant
 
-dāsī f.: slave woman, serf woman, female servant
+⟪दासी⟫ f.: female slave, serf, servant
 
-kāla m.: time, (proper) moment ; fate, death ; god of death Kāla
+⟪काल⟫ m.: time, (right) moment ; fate, death ; god of death Kāla
 
-kāla 3: black, dark blue-black, dark
+⟪काल⟫ 3: black, dark blue, dark
 
-puruṣa m.: human being, man, servant
+⟪पुरुष⟫ m.: human being, man, servant
 
--jana as the second member of Tatpuruṣa compounds often expresses the plural
+\-⟪जन⟫ as the second member of Tatpuruṣas often expresses the plural
 
-stu 2 stauti ; Pass. stūyate ; PPP stuta : praise, extol
+⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : to praise, to extol
 
 from this:
 
-:::indent
-stuti f.: praise, hymn of praise
+::: indent
+⟪स्तुति⟫ f.: praise, hymn of praise
 
-stotra n.: (means of praise =) hymn of praise, hymn
+⟪स्तोत्र⟫ n.: (means of praise =) hymn of praise, hymn
 :::
-siṃha m.: lion (_Panthera leo persica_)
-:::media
+⟪सिंह⟫ m.: lion (_Panthera leo persica_)
+::: media
 ![](/images/lekt1506.webp)
-Fig.: siṃhaḥ
+Fig.: ⟪सिंहः⟫
 (Image source: [Details](/en/licenses#lekt1506))
 :::
-vyāghra m.: tiger (_Panthera tigris tigris_) (literally: yawner)
-:::media
+⟪व्याघ्र⟫ m.: tiger (_Panthera tigris tigris_) (lit.: yawner)
+::: media
 ![](/images/lekt1507.webp)
-Fig.: vyāghraḥ
+Fig.: ⟪व्याघ्रः⟫
 (Image source: [Details](/en/licenses#lekt1507))
 :::
-iva (postposed): as if, like (in comparisons: vyāghra iva puruṣaḥ = “a man like a tiger,” “a tiger-like man”)
+⟪इव⟫ (postposed): as if, like (in comparisons: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "a man like a tiger", "a tiger-like man"
 
-eva (postposed): emphasizes the preceding word, often corresponding in German to emphasis, a kind of emoticon `<!>`, e.g., satyameva jayati “truth alone triumphs,” “truth specifically triumphs,” “truth triumphs”
+⟪एव⟫ (postposed): emphasizes the preceding, often corresponds in German to the emphasis, a kind of emoticon `\<!\>`, e.g. ⟪सत्यमेव⟫ ⟪जयति⟫ "only the truth prevails", "precisely the truth prevails", "the truth prevails"
 
-ari m.: enemy (according to Thieme, Der Fremdling im Ṛgveda: originally = stranger)
+⟪अरि⟫ m.: enemy (according to Thieme, Der Fremdling im Ṛgveda: originally = stranger)
 
-:::indent
-ārya 3: Aryan, noble ; m. Aryan (self-designation of Sanskrit-speaking ancient Indians, literally: hospitable (Thieme)) ; noble person, gentleman
+::: indent
+⟪आर्य⟫ 3: Aryan, noble; m. Aryan (self-designation of the Sanskrit-speaking ancient Indians, literally: hospitable (Thieme)); Noble, gentleman of honor
 :::
-to jan
+to ⟪जन्⟫
 
-:::indent
-jāti f.: birth, kind, caste (on jāti as caste, see Basham, Wonder, pp. 148ff.)
+::: indent
+⟪जाति⟫ f.: birth, kind, caste (to ⟪जाति⟫ as caste see Basham, Wonder, p. 148ff.)
 :::
-mṛ 4 Ā mriyate ; Pass. mriyate ; PPP mṛta : die (according to Indian grammarians: 6 Ā)
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : to die (according to Indian grammarians: 6 Ā)
 
-from this:
+therefrom:
 
-:::indent
-maraṇa n.: dying, death
+::: indent
+⟪मरण⟫ n.: dying, death
 
-mṛti f.: dying, death
+⟪मृति⟫ f.: dying, death
 
-mṛtyu m.: death ; personified: god of death
+⟪मृत्यु⟫ m.: death; personified: god of death
 :::
 ## 15.9. Exercise 1
 
-Resolve the following Sanskrit compounds as *Tatpuruṣa* and provide a German translation. Provide all resolutions and translations that appear plausible to you. Also indicate the case and number of the entire compound.
+Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German translation. Provide all resolutions and translations that seem possible to you. Also indicate which case and number the entire compound represents.
 
 ⟪१⟫. ⟪देवेन्द्रस्य⟫
 
@@ -388,7 +391,7 @@ Resolve the following Sanskrit compounds as *Tatpuruṣa* and provide a German t
 
 ## 15.10. Exercise 2
 
-Resolve the following *Tatpuruṣa* compounds, as in Exercise 1:
+Resolve the following Tatpuruṣa as in Exercise 1:
 
 ⟪१⟫. ⟪देवतागृहम्⟫
 
@@ -509,8 +512,7 @@ Resolve the following *Tatpuruṣa* compounds, as in Exercise 1:
 ⟪५९⟫. ⟪कारुकुशीलवकृतम्⟫
 
 ⟪६०⟫. ⟪द्विजातिशुश्रूषया⟫
-
-:::media
+::: media
 ![](/images/lekt1508.webp)
 Fig.: ⟪ग्रामदेवता⟫
 (Image source: [Details](/en/licenses#lekt1508))
@@ -572,21 +574,22 @@ B) Resolve the following Tatpuruṣa compounds:
 ⟪२५⟫. ⟪वर्णधर्मः⟫
 
 ⟪२६⟫. ⟪श्रुत्युदितम्⟫
-
-:::media
+::: media
 ![](/images/lekt1509.webp)
 Fig.: ⟪नागदेवाः⟫
 (Image source: [Details](/en/licenses#lekt1509))
-::::::deleteme-box
+:::
 
+::: deleteme-box
 
-- **Fig.: ⟪लक्ष्मी⟫** (Lakshmi): Painting by ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848–1906). Image source: Wikipedia, Public domain.
+- **Fig.: ⟪लक्ष्मी⟫** (Lakshmi): Painting by ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Image source: Wikipedia, Public domain.
 - **Fig.: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Image source: Wikipedia, Public domain.
-- **Diagram** (lekt1502.jpg): Diagram illustrating the decomposition of compounds. Image source: Alois Payer / Original course graphic.
-- **Fig.: ⟪पूजा⟫** (Puja): A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Image source: Wikipedia, Public domain.
-- **Fig.: ⟪इन्द्रः⟫** (Indra): Folio from a Panchakalyanaka, Rajasthan, Amber. Image source: Wikipedia, Public domain.
-- **Fig.: ⟪सिंहः⟫** (Lion): *Panthera leo persica*. Image source: Wikipedia, GNU FDL.
+- **Diagram** (lekt1502.jpg): Diagram for the decomposition of compounds. Image source: Alois Payer / Original course graphic.
+- **Fig.: ⟪पूजा⟫** (Puja): A Puja ceremony held in Kakinada (ಕಾಕಿನಾಡ), Andhra Pradesh (ಆಂಧ್ರ ಪ್ರದೇಶ), India. Image source: Wikipedia, Public domain.
+- **Fig.:  ⟪इन्द्रः⟫** (Indra): Folio from a Panchakalyanaka, Rajasthan, Amber. Image source: Wikipedia, Public domain.
+- **Fig.: ⟪सिंहः⟫** (Lion): Panthera leo persica. Image source: Wikipedia, GNU FDLicense.
 - **Fig.: ⟪व्याघ्रः⟫** (Tiger): Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫). Image source: U.S. Fish and Wildlife Service / Wikipedia, Public domain.
 - **Fig.: ⟪ग्रामदेवता⟫** (Gramadevata): Lord Virpanath @ Pasvadal village, Vadgam, Gujarat, India. Image source: ganuullu (Flickr), Creative Commons License.
-- **Fig.: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Image source: Dineshkannambadi / Wikipedia, GNU FDL.
+- **Fig.: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Image source: Dineshkannambadi / Wikipedia, GNU FDLicense.
 :::
+

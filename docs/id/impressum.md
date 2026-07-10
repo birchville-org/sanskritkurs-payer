@@ -8,7 +8,7 @@ title: Impressum & Citation
 *The following text was extracted during the conversion from the lesson files to improve the reading flow.*
 
 ## Citation | cite as:
-**Payer, Alois &lt;1944 - &gt;:** Sanskrit Course. -- Version of 2010. -- URL: http://www.payer.de/sanskritkurs/
+**Payer, Alois \<1944 - \>:** Sanskrit Course. -- Version of 2010. -- URL: http://www.payer.de/sanskritkurs/
 
 ## Occasion
 Created for the courses 1980 - 1984

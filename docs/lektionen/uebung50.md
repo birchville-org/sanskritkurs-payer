@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Übung 50
 
-A) Zur Wiederholung der Deklination: Folgender Vers enthält alle Deklinationsformen im Singular zu **⟪गुरु⟫** m.:
+A) Zur Wiederholung der Deklination: Folgender Vers enthält alle Deklinationsformen im Singular zu ⟪गुरु⟫ m.:
 
 **⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫**  
 **⟪गुरुणैव⟫ ⟪सहास्मि⟫ ⟪नमो⟫ ⟪गुरवे⟫ ⟪।⟫**  
@@ -35,7 +35,7 @@ A) Zur Wiederholung der Deklination: Folgender Vers enthält alle Deklinationsfo
 **⟪तेन⟫ ⟪यायात्सतां⟫ ⟪मार्गम्⟫**  
 **⟪तेन⟫ ⟪गच्छन्न⟫ ⟪रिष्यते⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 
-> Man gehe auf dem Weg der Guten, auf dem die Väter gegangen sind, auf dem die Großväter gegangen sind. Wenn man auf diesem Weg geht, dann erleidet man keinen Schaden.
+> Man gehe auf dem Weg der Guten, auf dem die Väter gegangen sind, auf dem die Grossväter gegangen sind. Wenn man auf diesem Weg geht, dann erleidet man keinen Schaden.
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
 
@@ -55,7 +55,7 @@ A) Zur Wiederholung der Deklination: Folgender Vers enthält alle Deklinationsfo
 
 > Eine Familie, in der der Gatte mit der Gattin stets zufrieden ist und die Gattin mit dem Gatten, in einer solchen Familie ist stetes Glück gewiss.
 
-:::media
+::: media
 ![](/images/uebung081.webp)
 Abb.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्ता⟫ ⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪तथैव⟫ ⟪च⟫ ⟪।⟫ ⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫ ⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#uebung081))
@@ -76,7 +76,7 @@ Abb.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्त
 
 > Man engagiere sich stets im Vedastudium und in den Riten für die Götter. Wer sich in den Riten für die Götter engagiert, erhält nämlich diese Welt aus Belebtem und Unbelebtem. Das Opfer, das in rechter Weise ins Feuer geworfen wird, geht zur Sonne, aus der Sonne entsteht Regen, aus Regen Speise, daraus die Geschöpfe.
 
-:::media
+::: media
 ![](/images/uebung082.webp)
 Abb.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪हि⟫ ⟪बिभर्तीदं⟫ ⟪चराचरम्⟫ ⟪॥⟫
 (Bildquelle: [Details](/licenses#uebung082))
@@ -97,7 +97,7 @@ Abb.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪�
 
 **⟪न⟫ ⟪किंचिदवमन्येत⟫**  
 **⟪सर्वस्य⟫ ⟪शृणुयान्मतम्⟫ ⟪।⟫**  
-**⟪बालस्याप्यर्थवद्वाक्यम्⟫**  
+⟪बालस्याप्यर्थवद्वाक्यम्⟫  
 **⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 
 > [Der König] soll nichts verschmähen, er höre die Meinung eines jeden. Ein Gelehrter eignet sich auch das Wort eines Knaben an, wenn es bedeutsam ist.
@@ -125,4 +125,4 @@ Abb.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪�
 **⟪संभावयति⟫ ⟪चान्नेन⟫**  
 **⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
 
-> **Guru** nennt man den Brahmanen, der vorschriftsgemäß Niṣeka und die anderen Rituale vollzieht und ihn durch Speise entstehen lässt.
+> **Guru** nennt man den Brahmanen, der vorschriftsgemäss Niṣeka und die anderen Rituale vollzieht und ihn durch Speise entstehen lässt.

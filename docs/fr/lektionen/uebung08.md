@@ -139,7 +139,7 @@ kiṃ kāraṇam?
 
 ⟪किं⟫ ⟪कारणम्⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung007.webp)
 Fig. : ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
 (Source de l'image : [Détails](/fr/licenses#uebung007))
@@ -187,13 +187,13 @@ La fille écrit ou dessine.
 13\. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
 La vierge entre dans la maison.
 
-14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
+14\. ⟪देवोनागंसृजति⟪ |
 Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 Le garçon conduit l'éléphant.
 
-16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ nom propre Vimalā)
+16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟩ nom propre Vimalā)
 Vimalā ist traurig.
 
 17\. ⟪शुकः⟫ ⟪पतति⟫ |
@@ -202,7 +202,7 @@ Le perroquet vole.
 18\. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |
 Le garçon écrit une lettre.
 
-:::media
+::: media
 ![](/images/uebung008.webp)
 Fig. : ⟪कपिः⟫ ⟪फलं⟫ ⟪खदति⟫
 (Source de l'image : [Détails](/fr/licenses#uebung008))

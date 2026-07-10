@@ -18,7 +18,7 @@ export const ru = {
       { text: 'Содержание', link: '/ru/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
       { text: 'Авторы', link: '/ru/impressum' },
-      { text: '⚙️', link: '/ru/settings', ariaLabel: 'Открыть настройки' }
+      { text: '<span class="nav-gear-icon"></span>', link: '/ru/settings', ariaLabel: 'Открыть настройки' }
     ],
     docFooter: {
       prev: 'Предыдущая лекция',

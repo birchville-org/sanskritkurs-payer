@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 A) Form the Dative Singular and the Dative (respectively Ablative) Plural and provide the meaning of the nominal stem:
 
-:::grammar-box
+::: grammar-box
 | Word | Meaning | Dative Sg. | Dative Pl. |
 | :--- | :--- | :--- | :--- |
 | ⟪१⟫. **⟪श्रव⟫** | Hearing | ⟪श्रवणाय⟫ | ⟪श्रवणेभ्यः⟫ |
@@ -79,7 +79,7 @@ The gods are angry with these Brahmins, who rendered them no veneration.
 ⟪९⟫. **⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫**
 To die, beings are born.
 
-:::media
+::: media
 ![](/images/uebung037.webp)
 Fig.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 (Image source: [Details](/en/licenses#uebung037))
@@ -153,7 +153,7 @@ E) In sentence B) 6, replace the Dative with a construction using **-⟪अर�
 15. Farewell! (Neo-Sanskrit)
 **⟪पुनर्दर्शनाय⟫ ⟪॥⟫**
 
-:::media
+::: media
 ![](/images/uebung038.webp)
 Fig.: ⟪इदं⟫ ⟪फलं⟫ ⟪अलं⟫ ⟪खादनाय⟫
 (Image source: [Details](/en/licenses#uebung038))

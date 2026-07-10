@@ -1,17 +1,17 @@
 ---
-title: Leçon 40
+title: Lektion 40
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 
-# Leçon 40
+# Lektion 40
 
 ## 40.1. ⟪सुभाषितानि⟫
 
-:::indent
+::: indent
 ⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫  
 ⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫  
 ⟪पात्रत्वाद्धनमाप्नोति⟫  
@@ -26,7 +26,8 @@ status: stable
 ⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫  
 ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫  
 ⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥३॥⟫
-::::::media
+:::
+::: media
 ![lekt4005.jpg](/images/lekt4005.webp)
 Fig. : ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4005))
@@ -35,14 +36,15 @@ Fig. : ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 
 Terminaisons de la première personne (⟪तृतीयः⟫) au parfait (⟪लिट्⟫)
 
-::::grammar-box
+::: grammar-box
 
-| **⟪परस्मैपदम्⟫** | ← | **⟪आत्मनेपदम्⟫** | ← |
+| ⟪परस्मैपदम्⟫ | ← | ⟪आत्मनेपदम्⟫ | ← |
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **-a** | **-ma** | **-e** | **-mahe** |
 
-:::::::grammar-box
+:::
+::: grammar-box
 Notez que les terminaisons de la première personne du singulier P,Ā sont identiques à celles de la troisième personne du singulier. Par conséquent, dans tous les types de parfait sauf les types III(a,b) et V(a,b,c), les formes de la première personne du singulier P ou Ā sont toujours identiques à celles de la troisième personne du singulier P ou Ā.
 
 Pour le type IV, la première personne du singulier P se termine comme la troisième personne du singulier P par -au.
@@ -50,7 +52,8 @@ Pour le type IV, la première personne du singulier P se termine comme la troisi
 Pour les types de parfait III et V, la première personne du singulier Ā est toujours identique à la troisième personne du singulier Ā.
 
 Pour les types de parfait III et V, la première personne du singulier P et la troisième personne du singulier P sont facultativement identiques : la troisième personne du singulier P doit toujours être au degré allongé pour ces types de formation, tandis que la première personne du singulier P peut être facultativement au degré renforcé ou au degré allongé.
-::::::grammar-box
+:::
+::: grammar-box
 Devant les terminaisons commençant par une consonne, la plupart des racines font apparaître la voyelle de liaison -i-.
 
 À l'exception de la terminaison -re, devant laquelle -i- doit toujours apparaître, la voyelle de liaison devant les terminaisons commençant par une consonne n'apparaît jamais pour huit racines en -ṛ ou -u, à savoir :
@@ -66,290 +69,290 @@ Devant les terminaisons commençant par une consonne, la plupart des racines fon
 
 Pour les racines ⟪अनिट्⟫ dites facultatives, la voyelle de liaison peut être insérée ou non de manière facultative. (Liste de ces racines dans Kielhorn, Grammatik p. 92 § 298b,2,3)
 :::
-### 40.2.1. Type de parfait I : pas d’alternance de la racine
+### 40.2.1. Perfekt Typ I: keine Stammabstufung
 
 1.sg. = 3.sg.
 
-Verbes qui suivent ce type :
+Verben, die diesem Typ folgen:
 
-*   Consonne-Longue-Voyelle-Consonne
-*   Consonne-Voyelle-Consonne-Consonne
-*   a-Consonne(-Consonne)
+*   | :---: | :---: | :---: | :---: |
+*   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+*   | **-a** | **-ma** | **-e** | **-mahe** |
 *   ā-Konsonant
 
 ⟪बन्ध्⟫ 9P
 
-:::indent
+::: indent
 *   1.sg.P ⟪बबन्ध⟫
 *   1.pl.P ⟪बबन्धिम⟫
 :::
 ⟪जीव्⟫ 1P
 
-:::indent
+::: indent
 *   1.sg.P ⟪जिजीव⟫
 *   1.pl.P ⟪जिजिविम⟫
 :::
 ⟪अश्⟫ 5Ā
 
-:::indent
+::: indent
 *   1.sg.Ā ⟪आनशे⟫
 *   1.pl.Ā ⟪आनशिमहे⟫
 :::
 ⟪अस्⟫ 2P et ⟪अस्⟫ 4P
 
-:::indent
+::: indent
 *   1.sg.P ⟪आस⟫
 *   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
 :::
-### 40.2.2. Type de parfait II : radical fort au degré supérieur, radical faible au degré inférieur
+### 40.2.2. Type de parfait II : radical fort en niveau supérieur, radical faible en niveau inférieur
 
-Verbes qui suivent ce type :
+Terminaisons de la première personne (⟪तृतीयः⟫) au parfait (⟪लिट्⟫)
 
-*   (Consonne-)i/u/ṛ/ḷ-Consonne
+*   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 
 ⟪भिद्⟫ 7U
 
-:::indent
+::: indent
 *   1.sg.P ⟪बिभेद⟫
-    
-*   1.pl.P ⟪बिभिदिम⟫
-    
+
+*   | **-a** | **-ma** | **-e** | **-mahe** |
+
 *   1.sg.Ā ⟪बिभिदे⟫
-    
+
 *   1.pl.Ā ⟪बिभिदिमहे⟫
 :::
 ⟪मुह्⟫ 4P facultatif ⟪अनिट्⟫
 
-:::indent
+::: indent
 *   1.sg.P ⟪मुमोह⟫
-    
-*   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
+
+*   Pour les types de parfait III et V, la première personne du singulier Ā est toujours identique à la troisième personne du singulier Ā.
 :::
-### 40.2.3. Type III du parfait : Radical fort en grade fort/long
+### 40.2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
 
-1.sg.P grade fort ou grade long au choix
+Terminaisons de la première personne (⟪तृतीयः⟫) au parfait (⟪लिट्⟫)
 
-#### 40.2.3.1. Type IIIa du parfait : Radical fort en grade fort/long, radical faible en grade faible
+#### 40.2.3.1. Type IIIa du parfait : radical fort en degré fort/étendu, radical faible en degré réduit
 
-Verbes suivant ce type :
+Verben, die diesem Typ folgen:
 
 *   (Consonne-)(Consonne-)i/ī/u/ū
-*   (Consonne-)-ṛ
+*   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 
 ⟪इ⟫ 2P
 
-:::indent
-*   1.sg.P ⟪इयाय⟫ ⟪।⟫ ⟪इयय⟫ (i+e+a)
-    
-*   1.pl.P ⟪ईयिम⟫ (i+iy+i+ma)
+::: indent
+*   | **-a** | **-ma** | **-e** | **-mahe** |
+
+*   Pour le type IV, la première personne du singulier P se termine comme la troisième personne du singulier P par -au.
 :::
 ⟪नी⟫ 1U
 
-:::indent
-*   1.sg.P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫
-    
+::: indent
+*   Devant les terminaisons commençant par une consonne, la plupart des racines font apparaître la voyelle de liaison -i-.
+
 *   1.pl.P ⟪निन्यिम⟫ (ni-nī + i + ma !!!)
-    
+
 *   1.sg.Ā ⟪निन्ये⟫
-    
+
 *   1.pl.Ā ⟪निन्यिमहे⟫
 :::
-⟪स्तु⟫ 2U strictement ⟪अनिट्⟫
+⟪स्तु⟫ 2U
 
-:::indent
+::: indent
 *   1.sg.P ⟪तुष्टाव⟫ ⟪।⟫ ⟪तुष्टव⟫ (tu-sto + a)
-    
+
 *   1.pl.P ⟪तुष्टुम⟫
-    
+
 *   1.sg.Ā ⟪तुष्टुवे⟫
-    
+
 *   1.pl.Ā ⟪तुष्टुमहे⟫
 :::
-⟪कृ⟫ 8U strictement ⟪अनिट्⟫
+⟪⟪कृ⟫ 8U (sauf ⟪संस्कृ⟫)
 
-:::indent
+::: indent
 *   1.sg.P ⟪चकार⟫ ⟪।⟫ ⟪चकर⟫
-    
+
 *   1.pl.P ⟪चकृम⟫
-    
+
 *   1.sg.Ā ⟪चक्रे⟫
-    
+
 *   1.pl.Ā ⟪चकृमहे⟫
 :::
-#### 40.2.3.2. Type IIIb du parfait : Radical fort en grade fort/long, radical faible en grade fort
+#### 40.2.3.2. Type de parfait IIIb : Radical fort en grade fort/allongé, radical faible en grade fort
 
-Verbes suivant ce type :
+Verben, die diesem Typ folgen:
 
 *   (Consonne-)(Consonne-)-ṝ
 *   Konsonant-Konsonant-ṛ
 
 ⟪पॄ⟫ 3P
 
-:::indent
+::: indent
 *   1.sg.P ⟪पपार⟫ ⟪।⟫ ⟪पपर⟫
-    
+
 *   1.pl.P ⟪पपरिम⟫
 :::
 ⟪स्मृ⟫ 1P
 
-:::indent
+::: indent
 *   1.sg.P ⟪सस्मार⟫ ⟪।⟫ ⟪सस्मर⟫
-    
+
 *   1.pl.P ⟪सस्मरिम⟫
 :::
 ⟪संस्कृ⟫ 8U
 
-:::indent
+::: indent
 *   1.sg.P ⟪सञ्चस्कार⟫ ⟪।⟫ ⟪सञ्चस्कर⟫
-    
+
 *   1.pl.P ⟪सञ्चस्करिम⟫
-    
+
 *   1.sg.Ā ⟪सञ्चस्करे⟫
-    
+
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
 :::
-### 40.2.4. Type IV du parfait : Racines en -ā / -ai
+### 40.2.4. Type IV du parfait : racines en -ā / -ai
 
-*   Radical fort :
-    *   1.,3. sg. Parasemaip : -au
-*   Radical faible :
-    *   devant consonne : degré profond-i
-    *   devant voyelle : degré profond-ø
+*   Terminaisons de la première personne (⟪तृतीयः⟫) au parfait (⟪लिट्⟫)
+    *   | **⟪परस्मैपदम्⟫** | ← | **⟪आत्मनेपदम्⟫** | ← |
+*   | :---: | :---: | :---: | :---: |
+    *   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+    *   | **-a** | **-ma** | **-e** | **-mahe** |
 
 ⟪दा⟫ 3U
 
-:::indent
+::: indent
 *   1.sg.P ⟪ददौ⟫
-    
-*   1.pl.P ⟪ददिम⟫ (da-d-i-ma)
-    
+
+*   Devant les terminaisons commençant par une consonne, la plupart des racines font apparaître la voyelle de liaison -i-.
+
 *   1.sg.Ā ⟪ददे⟫
-    
+
 *   1.pl.Ā ⟪ददिमहे⟫
 :::
-### 40.2.5. Type V du parfait : Consonne-a-Consonne
+### 40.2.5. Type de parfait V : Consonne-a-Consonne
 
-1.sg.P. facultativement au degré fort ou au degré allongé
+Terminaisons de la première personne (⟪तृतीयः⟫) au parfait (⟪लिट्⟫)
 
-#### 40.2.5.1. Type Va du parfait : Consonne-a-Consonne, radical faible au degré bas
+#### 40.2.5.1. Type de parfait : Consonne-a-Consonne, radical faible au degré profond
 
-Verbes qui suivent ce type :
+Verben, die diesem Typ folgen:
 
-:::indent
-1.  gam « aller »
-2.  han (cf. ghan) « frapper »
-3.  jan « naître »
-4.  vac « parler »
-5.  vad « parler »
-6.  yaj « sacrifier »
-7.  etc.
+::: indent
+1.  | **-a** | **-ma** | **-e** | **-mahe** |
+2.  Devant les terminaisons commençant par une consonne, la plupart des racines font apparaître la voyelle de liaison -i-.
+3.  jan "geboren werden"
+4.  vac "sprechen"
+5.  vad "sprechen"
+6.  yaj "opfern"
+7.  u.a.
 :::
 ⟪गम्⟫ 1P
 
-:::indent
+::: indent
 *   1.sg.P ⟪जगाम⟫ ⟪।⟫ ⟪जगम⟫
-    
+
 *   1.pl.P ⟪जग्मिम⟫ (ja-gm-i-ma)
 :::
 ⟪हन्⟫ 2P
 
-:::indent
+::: indent
 *   1.sg.P ⟪जघान⟫ ⟪।⟫ ⟪जघन⟫
-    
+
 *   1.pl.P ⟪जघ्निम⟫
 :::
 ⟪जन्⟫ 4Ā
 
-:::indent
+::: indent
 *   1.sg.Ā ⟪जज्ञे⟫
-    
+
 *   1.pl.Ā ⟪जज्ञिमहे⟫
 :::
 ⟪वच्⟫ 2P
 
-:::indent
+::: indent
 *   1.sg.P ⟪उवाच⟫ ⟪।⟫ ⟪उवच⟫
-    
+
 *   1.pl.P ⟪ऊचिम⟫ (u + uc-ima)
 :::
 ⟪वद्⟫ 1P (Ā)
 
-:::indent
+::: indent
 *   1.sg.P ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫
-    
+
 *   1.pl.P ⟪ऊदिम⟫
-    
+
 *   1.sg.Ā ⟪ऊदे⟫
-    
+
 *   1.pl.Ā  ⟪ऊदिमहे⟫
 :::
 ⟪यज्⟫ 1U
 
-:::indent
+::: indent
 *   1.sg.P ⟪इयाज⟫ ⟪।⟫ ⟪इयज⟫
-    
+
 *   1.pl.P ⟪ईजिम⟫
-    
+
 *   1.sg.Ā ⟪ईजे⟫
-    
+
 *   1.pl.Ā ⟪ईजिमहे⟫
 :::
-#### 40.2.5.2. Type Vb du parfait : Consonne-a-Consonne, consonne initiale non gutturale, non aspirée, non h, radical faible sans redoublement, avec -e-
+#### 40.2.5.2. Type de parfait Vb : Consonne-a-Consonne, consonne initiale non gutturale, non aspirée, non h, thème faible sans redoublement, avec -e-
 
 ⟪पच्⟫ 1U
 
-:::indent
+::: indent
 *   1.sg.P ⟪पपाच⟫ ⟪।⟫ ⟪पपच⟫
-    
+
 *   1.pl.P ⟪पेचिम⟫
-    
+
 *   1.sg.Ā ⟪पेचे⟫
-    
+
 *   1.pl.Ā ⟪पेचिमहे⟫
 :::
-#### 40.2.5.3. Type Vc du parfait : Consonne-a-Consonne, radical faible au degré fort
+#### 40.2.5.3. Type de parfait Vc : Consonne-a-Consonne, radical faible au degré supérieur
 
-Verbes qui suivent ce type :
+Verben, die diesem Typ folgen:
 
-*   Toutes les autres racines avec un -a- médian
+*   Toutes les autres racines avec un -a- moyen
 
 ⟪क्रम्⟫ 1U
 
-:::indent
+::: indent
 *   1.sg.P ⟪चक्राम⟫ ⟪।⟫ ⟪चक्रम⟫
-    
+
 *   1.pl.P ⟪चक्रमिम⟫
-    
+
 *   1.sg.Ā ⟪चक्रमे⟫
-    
+
 *   1.pl.Ā ⟪चक्रमिमहे⟫
 :::
 ### 40.2.6. Formations particulières du parfait
 
-⟪विद्⟫ 2P parfait présent :
+⟪विद्⟫ 2P présent parfait :
 
-:::indent
-*   1.sg.P ⟪वेद⟫ (= 3.sg.P)
-    
+::: indent
+*   | :---: | :---: | :---: | :---: |
+
 *   1.pl.P ⟪विद्म⟫
 :::
-⟪अह्⟫ 1ère personne peu usitée !
+⟪अह्⟫ 1. Person non utilisée !
 
 ⟪भू⟫ 1P
 
-:::indent
-*   1.sg.P ⟪बभूव⟫ (= 3.sg.P)
-    
+::: indent
+*   Pour le type IV, la première personne du singulier P se termine comme la troisième personne du singulier P par -au.
+
 *   1.pl.P ⟪बभूविम⟫
 :::
 ⟪जि⟫ 1P
 
-:::indent
+::: indent
 *   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
-    
-*   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
+
+*   Devant les terminaisons commençant par une consonne, la plupart des racines font apparaître la voyelle de liaison -i-.
 :::
-## 40.3. Formation des formes verbales de la première personne du parfait périphrastique (⟪अनुप्रयोगलिट्⟫)
+## 40.3. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
 
 Le parfait périphrastique est formé par :
 
@@ -366,52 +369,56 @@ Le parfait périphrastique est formé par :
 
 ⟪ईक्ष्⟫ 1Ā
 
-:::indent
+::: indent
 *   1.sg.Ā ⟪ईक्षां⟫ ⟪चक्रे⟫ ⟪।⟫ ⟪ईक्षामास⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूव⟫
-    
+
 *   1.pl.Ā ⟪ईक्षां⟫ ⟪चकृमहे⟫ ⟪।⟫ ⟪ईक्षामासिम⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूविम⟫
 :::
 ⟪बन्ध्⟫ Causatif P : ⟪बन्धयति⟫
 
-:::indent
+::: indent
 *   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P)
-    
+
 *   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
 :::
-## 40.4. Syntax concernant la première personne (⟪तृतीयः⟫)
+## 40.4. Syntaktisches zur ersten Person (⟪तृतीयः⟫)
 
-:::grammar-box
+::: grammar-box
 Puisqu'un verbe fini (verbe conjugué) exprime également l'agent (⟪कर्तृ⟫), le « je », le « nous » n'a pas besoin d'être exprimé explicitement par un pronom personnel dans les phrases verbales non-passives avec un verbe fini
 :::
-## 40.5. Pronoms personnels (⟪पुरुषार्थकसर्वनाम⟫) de la première personne du singulier et du pluriel
+## 40.5. Personalpronomen (⟪पुरुषार्थकसर्वनाम⟫) der 1. Person Singular und Plural
 
-:::grammar-box
+::: grammar-box
 La forme du pronom personnel (pronom personnel) est la même pour tous les genres.
-:::::::grammar-box
+:::
+::: grammar-box
 
-| | **⟪एकवचनम्⟫**:br"je" | **⟪बहुवचनम्⟫**:br"nous" |
+| | ⟪एकवचनम्⟫ :br"ich" | ⟪बहुवचनम्⟫ :br"wir" |
 | :---: | :---: | :---: |
-| **⟪प्रथमा⟫** | **⟪अहम्⟫** | **⟪वयम्⟫** |
-| **⟪द्वितीया⟫** | **⟪माम्⟫** / **⟪मा⟫** | **⟪अस्मान्⟫** / **⟪नस्⟫** |
-| **⟪तृतीया⟫** | **⟪मया⟫** | **⟪अस्माभिस्⟫** |
-| **⟪चतुर्थी⟫** | **⟪मह्यम्⟫** / **⟪मे⟫** | **⟪अस्मभ्यम्⟫** / **⟪नस्⟫** |
-| **⟪पञ्चमी⟫** | **⟪मत्⟫** | **⟪अस्मत्⟫** |
-| **⟪षष्ठी⟫** | **⟪मम⟫** / **⟪मे⟫** | **⟪अस्माकम्⟫** / **⟪नस्⟫** |
-| **⟪सप्तमी⟫** | **⟪मयि⟫** | **⟪अस्मासु⟫** |
+| ⟪प्रथमा⟫ | ⟪अहम्⟫ | ⟪वयम्⟫ |
+| ⟪द्वितीया⟫ | ⟪माम्⟫ / ⟪मा⟫ | ⟪अस्मान्⟫ / ⟪नस्⟫ |
+| ⟪तृतीया⟫ | ⟪मया⟫ | ⟪अस्माभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪मह्यम्⟫ / ⟪मे⟫ | ⟪अस्मभ्यम्⟫ / ⟪नस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪मत्⟫ | ⟪अस्मत्⟫ |
+| ⟪षष्ठी⟫ | ⟪मम⟫ / ⟪मे⟫ | ⟪अस्माकम्⟫ / ⟪नस्⟫ |
+| ⟪सप्तमी⟫ | ⟪मयि⟫ | ⟪अस्मासु⟫ |
 
-:::::::grammar-box
+:::
+::: grammar-box
 Les formes plus courtes, indiquées ci-dessus en deuxième position (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), ne doivent jamais être utilisées au début d'une phrase ou d'un vers.
 
 Ces formes dites enclitiques ne peuvent pas non plus être utilisées devant les particules ⟪च⟫, ⟪वा⟫, ⟪एव⟫ :
 
 seulement : ... ⟪मां⟫ ⟪च⟫ ... "et moi"
-::::::grammar-box
+:::
+::: grammar-box
 Le génitif (⟪षष्ठी⟫) des pronoms personnels est utilisé comme pronom possessif :
 
 ⟪मम⟫ ⟪।⟫ ⟪मे⟫ = "mon"
 
 ⟪अस्माकम्⟫ ⟪।⟫ ⟪नस्⟫ = "notre"
-::::::grammar-box
+:::
+::: grammar-box
 En tant que premier membre de composés, les radicaux de ces pronoms sont :
 
 *   sg. ⟪मद्⟫
@@ -419,7 +426,7 @@ En tant que premier membre de composés, les radicaux de ces pronoms sont :
 
 par ex. ⟪मत्पुस्तकम्⟫ "mon livre" ; ⟪अस्मद्पुस्तकानि⟫ "nos livres"
 :::
-## 40.6. Liste de mots
+## 40.6. Wortliste
 
 ⟪पात्र⟫ n. : Vénérable, Maître, Digne
 
@@ -429,7 +436,7 @@ par ex. ⟪मत्पुस्तकम्⟫ "mon livre" ; ⟪अस्मद
 
 ⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : être en bon ordre, convenir à (Loc.) ; se former, se constituer ; se décider à, consentir à (Datif)
 
-:::indent
+::: indent
 Parfait. II ⟪चकॢपे⟫ facultatif ⟪अनिट्⟫  
 Futur. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
 Causatif. ⟪कल्पयति⟫ : mettre en ordre, créer, former dans l'imagination, s'imaginer  
@@ -442,14 +449,14 @@ dont :
 :::
 ⟪कॢप्⟫ + ⟪वि⟫ Causatif. ⟪विकल्पयति⟫ : (se représenter différemment =) mettre en question, douter
 
-:::indent
+::: indent
 dont :
 
 ⟪विक्ल्प⟫ m. : Alternative, Doute
 :::
 ⟪तुद्⟫ 6U ⟪तुदति⟫ : frapper
 
-:::indent
+::: indent
 Parfait. II ⟪तुतोद⟫, ⟪तुतुदुर्⟫  
 Futur. ⟪तोत्स्यति⟫  
 Passif. ⟪तुद्यते⟫  
@@ -459,7 +466,7 @@ Inf. ⟪तोत्तुम्⟫
 :::
 ⟪तॄ⟫ 1P ⟪तरति⟫ : traverser, franchir, se sauver devant quelqu'un (Acc. = franchir quelqu'un)
 
-:::indent
+::: indent
 Parfait. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
 Futur. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫  
 Passif. ⟪तीर्यते⟫  
@@ -470,13 +477,17 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 dont :
 
 ⟪तीर्थ⟫ n. : Gué, lieu de bain sacré, lieu de pèlerinage
-::::::media
+:::
+::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
 Fig. : ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4003))
-::::::indent
+:::
+
+::: indent
 ⟪तीर्थङ्कर⟫ m. (de : ⟪तीर्थम्⟫+ ⟪कृ⟫) : Fauteur de gué (au-delà de la souffrance) = les 24 enseignants des Jains
-::::::media
+:::
+::: media
 ![lekt4002.jpg](/images/lekt4002.webp)
 Fig. : ⟪तीर्थङ्करः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4002))
@@ -485,18 +496,19 @@ Fig. : ⟪तीर्थङ्करः⟫
 
 ⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : descendre
 
-:::indent
+::: indent
 dont :
 
 ⟪अवतार⟫ m. : (Celui qui descend, Descente) Incarnation d'un dieu, en particulier les 10 incarnations de Viṣṇu (cf. Basham, Wonder p. 304 - 309)
-::::::media
+:::
+::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
 Fig. : ⟪विष्णोर्दशावताराः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4001))
 :::
 ⟪स्वप्⟫ 2P ⟪स्वपिति⟫, ⟪स्वपन्ति⟫ : dormir, se coucher pour dormir
 
-:::indent
+::: indent
 Imparfait. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
 Parfait. ⟪सुष्वाप⟫, ⟪सुषुपुर्⟫  
 Futur. ⟪स्वप्स्यति⟫  
@@ -510,12 +522,13 @@ dont :
 ⟪स्वप्न⟫ m. : Sommeil, Rêve
 
 ⟪सुप्ति⟫ f. (de \*svp-ti) : Sommeil, en particulier sommeil profond
-::::::media
+:::
+::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
 Fig. : ⟪स्वपन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4004))
 :::
-## 40.7. Exercice
+## 40.7. Übung
 
 A) Traduisez les ⟪सुभाषितानि⟫ au début de la leçon.
 
@@ -593,7 +606,7 @@ B) Transformez les formes verbales suivantes en formes de parfait correspondante
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Exercice de révision sur la morphologie
+## 40.8. Wiederholungsübung zur Formenlehre
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫
@@ -634,7 +647,7 @@ B) Transformez les formes verbales suivantes en formes de parfait correspondante
 37.  ⟪आह⟫
 38.  ⟪आहन्⟫
 
-:::deleteme-box
+::: deleteme-box
 
 - **Image lekt4005.jpg** (Fig. : ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫) : Vadaseri, district de Thanjavur = தஞ்சாவூர் மாவட்டem [Source de l'image : kifo. -- http://www.flickr.com/photos/turningpoint/2209292/. -- Consulté le 2009-01-02. -- Licence Creative Commons (Attribution, partage à l'identique)]
 - **Image lekt4003.jpg** (Fig. : ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫) : [Source de l'image : mckaysavage. -- http://www.flickr.com/photos/mckaysavage/2085710183/. -- Consulté le 2009-01-02. -- Licence Creative Commons (Attribution)]

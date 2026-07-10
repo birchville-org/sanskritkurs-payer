@@ -1,5 +1,5 @@
 ---
-title: Lezione 34
+title: Lektion 34
 lesson_id: 34
 status: stable
 ---
@@ -10,11 +10,12 @@ status: stable
 
 Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e il participio.
 
-:::grammar-box
+::: grammar-box
 **Esistono due tipi di formazione del perfetto:**
 *   **il perfetto reduplicato = ⟪द्वित्वलिट्⟫**
 *   **il perfetto perifrastico = ⟪अनुप्रयोगलिट्⟫**
-::::::grammar-box
+:::
+::: grammar-box
 **Il perfetto perifrastico (⟪अनुप्रयोगलिट्⟫) è utilizzato:**
 1. **nelle coniugazioni derivate (causativo, desiderativo, frequentativo, denominativi)**
 2. **nelle radici che iniziano con una vocale lunga (tranne ā-) o con una vocale (tranne a-) seguita da due consonanti**
@@ -24,7 +25,7 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 
 ### 34.2.1. Gradazione della radice
 
-:::grammar-box
+::: grammar-box
 **Formazione:**
 
 **radice forte:** Singolare Parasmaipada
@@ -32,7 +33,8 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 
 **radice debole:** tutte le altre forme
 *   **radice reduplicata in grado basso + desinenza del perfetto**
-::::::grammar-box
+:::
+::: grammar-box
 **In generale (anche al di fuori del perfetto), non subiscono gradazione le radici della forma:**
 *   **(Consonante)-Consonante-Vocale lunga-Consonante**
 *   **(Consonante)-Consonante-Vocale-Consonante-Consonante**
@@ -43,22 +45,22 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 :::
 ### 34.2.2. Le desinenze del perfetto
 
-::::grammar-box
+::: grammar-box
 
 | | 3. Singolare | 3. Plurale |
 | :--- | :--- | :--- |
 | **Parasmaipāda** | **-a** | **-ur** |
 | **Ātmanepāda** | **-e** | **-re** |
 
-::::
+:::
 ### 34.2.3. Vocale di giunzione -i-
 
-:::grammar-box
+::: grammar-box
 **Prima della desinenza della 3.pl.Ā (-re) compare sempre la vocale di giunzione -i-, prima delle altre desinenze che iniziano con una consonante, nella maggioranza delle radici.**
 :::
 ### 34.2.4. Raddoppiamento delle radici inizianti per consonante
 
-:::grammar-box
+::: grammar-box
 **Per il raddoppiamento delle consonanti iniziali valgono le regole fornite nella [Lezione 33](lektion33.md).**
 
 **La vocale di raddoppiamento nelle radici inizianti per consonante è la vocale radice breve.**
@@ -69,76 +71,78 @@ Nel sanscrito classico, dalla radice del perfetto derivano solo l’indicativo e
 :::
 Esempi:
 
-::::grammar-box
+::: grammar-box
 
 | Radice | 3. sg. Perf. Att. |
 | :--- | :--- |
-| ⟪भिद्⟫ | ***⟪बि⟫***⟪भेद⟫ |
-| ⟪मुच्⟫ | ***⟪मु⟫***⟪मोच⟫ |
-| ⟪भृ⟫ | ***⟪ब⟫***⟪भार⟫ |
+| ⟪भिद्⟫ | *⟪बि⟫*⟪भेद⟫ |
+| ⟪मुच्⟫ | *⟪मु⟫*⟪मोच⟫ |
+| ⟪भृ⟫ | *⟪ब⟫*⟪भार⟫ |
 
-:::::::grammar-box
+:::
+::: grammar-box
 **Alcune radici inizianti per y- o v- si raddoppiano con i- o u-, che nelle forme deboli si "fonde" con la vocale radice.**
 :::
 Esempi:
 
-::::grammar-box
+::: grammar-box
 
 | Radice | 3. sg. Perf. Att. | 3. pl. Perf. Att. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
-::::
+:::
 ### 34.2.5. Raddoppiamento delle radici inizianti per vocale
 
-:::grammar-box
+::: grammar-box
 **1. Le radici inizianti con a-, ā- vengono raddoppiate con a-, risultando in ā-.**
 :::
 Esempi:
 
-::::grammar-box
+::: grammar-box
 
 | Radice | 3. sg. Perf. P. |
 | :--- | :--- |
 | ⟪अस्⟫ 2 "essere" e ⟪अस्⟫ 4 "gettare" | ⟪आस⟫:bra + as-a |
 
-:::::::grammar-box
+:::
+::: grammar-box
 **2. Le radici inizianti con i- presentano come sillaba di raddoppiamento iy- nella forma forte e i- nella forma debole, che si fondono con la vocale radicale dando ī-. Analogamente vale per le radici inizianti con u-.**
 :::
 Esempi:
 
-::::grammar-box
+::: grammar-box
 
 | Radice | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
 | ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
-:::::::grammar-box
+:::
+::: grammar-box
 **3. Le radici che iniziano con a- seguita da due consonanti, oppure con ṛ-, presentano come sillaba di raddoppiamento ān-.**
 :::
 Esempi:
 
-::::grammar-box
+::: grammar-box
 
 | Radice | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
-::::
+:::
 ## 34.3. Tipi del perfetto reduplicato
 
 Criterio di classificazione: particolarità dell'alternanza della radice:
-
 *   Perfetto senza alternanza della radice: Tipo I
 *   Perfetto con alternanza della radice: Tipi II - V
 *   Formazioni di perfetto irregolari
 
 ## 34.4. Tipo di Perfetto I: Perfetto senza ablaut della radice
 
-:::grammar-box
+::: grammar-box
 **Il Perfetto di Tipo I (senza ablaut della radice) comprende radici dei seguenti tipi:**
 *   **(Consonante)-Consonante-Vocale Lunga-Consonante**
 *   **(Consonante)-Consonante-Vocale-Consonante-Consonante**
@@ -147,20 +151,20 @@ Criterio di classificazione: particolarità dell'alternanza della radice:
 :::
 Esempi:
 
-::::grammar-box
+::: grammar-box
 
 | Radice | 3. sg. Perf. | 3. pl. Perf. |
 | :--- | :--- | :--- |
 | ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ |
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
-| ⟪अस्⟫ 2P "essere":br⟪अस्⟫ 4 "gettare" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brreduplicazione irregolare! | ⟪आनशिरे⟫ |
+| ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
-::::
+:::
 ## 34.5. Tipo II del Perfetto: Radice forte in grado alto, radice debole in grado basso
 
-:::grammar-box
+::: grammar-box
 **Si forma da radici della forma:**
 *   **(Consonante)-(Consonante)-i/u/ṛ/ḷ-Consonante**
 
@@ -170,7 +174,7 @@ Esempi:
 :::
 Esempi:
 
-::::grammar-box
+::: grammar-box
 
 | Radice | 3. sg. Perf. Att. | 3. pl. Perf. Att. | 3. sg. Perf. Med. | 3. pl. Perf. Med. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -180,14 +184,14 @@ Esempi:
 | ⟪वृत्⟫ | | | ⟪ववृते⟫ | ⟪ववृतिरे⟫ |
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
-::::
+:::
 ## 34.6. Elenco lessicale
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
 **⟪शस्य⟫ = ⟪सस्य⟫ n. sg. e pl.:** semenza, raccolto, cereali
 
-:::media
+::: media
 ![](/images/lekt3406.webp)
 Fig.: ⟪सस्यम्⟫
 Campo di riso in India.
@@ -201,7 +205,7 @@ Campo di riso in India.
 
 **⟪द्वीप⟫ m.n.:** isola, continente
 
-:::media
+::: media
 ![](/images/lekt3405.webp)
 Fig.: ⟪लक्षद्वीपाः⟫
 Mappa delle Isole Lakshadweep.
@@ -211,12 +215,14 @@ Mappa delle Isole Lakshadweep.
 
 **⟪तिल⟫ m.:** sesamo (*Sesamum indicum* L.)
 
-:::media
+::: media
 ![](/images/lekt3403.webp)
 Fig.: ⟪तिलाः⟫
 Semi di sesamo.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3403))
-::::::media
+:::
+
+::: media
 ![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Fioritura della pianta del sesamo.
@@ -224,7 +230,7 @@ Fioritura della pianta del sesamo.
 :::
 **⟪स्वर्ण⟫ n.:** (di bel colore =) oro
 
-:::media
+::: media
 ![](/images/lekt3402.webp)
 Fig.: ⟪स्वर्णम्⟫
 Tempio d'Oro (Harmandir Sahib), Amritsar.
@@ -240,7 +246,7 @@ Tempio d'Oro (Harmandir Sahib), Amritsar.
 
 **⟪ऋषभ⟫ m.:** toro
 
-:::media
+::: media
 ![](/images/lekt3401.webp)
 Fig.: ⟪ऋषभः⟫
 Statua del toro Nandi, Colline di Chamundi, Mysore.
@@ -294,20 +300,20 @@ Formare le corrispondenti forme del perfetto (aoristo perfetto o perfetto, a sec
 
 Tradurre il seguente testo tratto dal *Padma Purāṇa* riguardante le offerte ai Brahmani:
 
-⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विज⟫***⟪ोत्तम⟫*** ⟪।⟫  
-⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫***⟪श्चतुर्दश⟫*** ⟪॥१॥⟫  
-***⟪सप्त⟫***⟪द्वीपां⟫ ⟪महीं⟫ ⟪दत्त्वा⟫ ⟪यत्पुण्यं⟫ ⟪प्राप्यते⟫ ⟪द्विज⟫ ⟪।⟫  
+⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫*⟪त्तम⟫* ⟪।⟫  
+⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫*⟪श्चतुर्दश⟫* ⟪॥१॥⟫  
+*⟪सप्त⟫*⟪द्वीपां⟫ ⟪महीं⟫ ⟪दत्त्वा⟫ ⟪यत्पुण्यं⟫ ⟪प्राप्यते⟫ ⟪द्विज⟫ ⟪।⟫  
 ⟪तत्पुण्यं⟫ ⟪प्राप्नुयान्मर्त्यो⟫ ⟪धेनुं⟫ ⟪यच्छन्द्विजातये⟫ ⟪॥२॥⟫  
 ⟪तिलप्रमाणं⟫ ⟪स्वर्णं⟫ ⟪यो⟫ ⟪ब्राह्मणाय⟫ ⟪प्रयच्छति⟫ ⟪।⟫  
 ⟪हरिनिकेतनं⟫ ⟪याति⟫ ⟪युक्तं⟫ ⟪कोटिकुलैरपि⟫ ⟪॥३॥⟫  
 ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫  
-⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫  
+⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫*⟪र्जन्म⟫* ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫  
 ⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तं⟫ ⟪महीतले⟫ ⟪।⟫  
 ⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
 
 Spiegazioni:
 
-:::indent
+::: indent
 **Vocativo singolare** dei maschili/neutri in -a termina in -a: es. **⟪देव⟫** "Dio!"
 
 **⟪चतुर्दश⟫** quattordici
@@ -317,13 +323,15 @@ Spiegazioni:
 **⟪जन्म⟫** Nominativo/Accusativo singolare di **⟪जन्मन्⟫ n.** nascita
 
 **⟪सर्व⟫ 3** "tutti, intero" (declinato secondo la declinazione pronominal)
-::::::media
+:::
+::: media
 ![](/images/lekt3407.webp)
 Fig.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Rituale nuziale indù.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3407))
-::::::deleteme-box
+:::
 
+::: deleteme-box
 
 **lekt3401:** Statua del toro Nandi, Colline di Chamundi, Mysore. [Fonte dell'immagine: Luna Park / Flickr. CC BY-NC-ND]
 
@@ -339,3 +347,4 @@ Rituale nuziale indù.
 
 **lekt3407:** Rituale nuziale indù. [Fonte dell'immagine: BriceFR / Flickr. CC BY-NC-SA]
 :::
+

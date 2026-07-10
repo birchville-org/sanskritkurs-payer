@@ -12,9 +12,10 @@ status: stable
 ## 29.1. Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum
 
 
-:::grammar-box
+::: grammar-box
 **Das Kausativ ist mit wenigen Ausnahmen Ubhayapada (⟪उभयपद⟫)**
-::::::grammar-box
+:::
+::: grammar-box
 **Im Kausativum wird das Ātmanepada (⟪आत्मनेपद⟫) verwendet:**
 
 **1. Wenn die Frucht der veranlassten Handlung dem Veranlasser zugute kommt:**
@@ -38,7 +39,7 @@ Die Regeln entsprechen also i.A. den Regeln für die Verwendung des Ātmanepada 
 
 Präverben:
 
-:::indent
+::: indent
 ⟪उद्⟫° : auf, hinauf, empor, hinaus, aus, aus-
 
 ⟪परि⟫° : herum, um (Ort, Zeit), umher
@@ -53,7 +54,7 @@ Präverben:
 
 ⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : verzehren, fressen
 
-:::indent
+::: indent
 Fut. ⟪ग्रसिष्यते⟫  
 Pass. ⟪ग्रस्यते⟫  
 Kaus. ⟪ग्रासयति⟫  
@@ -66,7 +67,7 @@ Inf. ⟪ग्रसितुम्⟫
 
 ⟪परिव्राजक⟫ m.: Umherwanderer, Wandermönch, Pilger
 
-:::media
+::: media
 ![](/images/lekt2903.webp)
 Abb.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
@@ -74,16 +75,17 @@ Pushkar = ⟪पुष्कर⟫
 :::
 ⟪पालयति⟫ : auch bedeutungsgleich mit  ⟪पाति⟫
 
-⟪पुनर्⟫ Indekl.: wieder, immer wieder, zurück, noch einmal ; dagegen, aber (vor stimmhaften Lauten außer r-: ⟪पुनर्⟫)
+⟪पुनर्⟫ Indekl.: wieder, immer wieder, zurück, noch einmal ; dagegen, aber (vor stimmhaften Lauten ausser r-: ⟪पुनर्⟫)
 
 ⟪प्रजा⟫ f.: Zeugung, Geburt, Nachkommenschaft
 
 ⟪मत्स्य⟫ m.: Fisch
 
 davon:
-:::indent
+::: indent
 ⟪मात्स्य⟫ 3: zum Fisch (zu Fischen) gehörig
-::::::media
+:::
+::: media
 ![](/images/lekt2901.webp)
 Abb.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
@@ -95,7 +97,7 @@ Abb.: ⟪मत्स्यः⟫
 
 ⟪रम्⟫ 1Ā ⟪रमते⟫ : still stehen, ruhen, verweilen ; Gefallen finden, sich ergötzen
 
-:::indent
+::: indent
 Fut. ⟪रंस्यते⟫  
 Pass. ⟪रम्यते⟫  
 Kaus. ⟪रमयति⟫  
@@ -108,7 +110,7 @@ Inf. ⟪रन्तुम्⟫
 
 ⟪पूज्⟫ 10P ⟪पूजयति⟫ : ehren, verehren
 
-:::indent
+::: indent
 PPP ⟪पूजित⟫
 :::
 ## 29.3. Übersetzungsübung zur Wiederholung
@@ -117,33 +119,34 @@ PPP ⟪पूजित⟫
 
 1\. Definition von ⟪अविद्या⟫ :
 
-⟪अनित्याशुचिदुःखा⟫***⟪नात्मसु⟫*** ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
+⟪अनित्याशुचिदुःखा⟫sig[⟪नात्मसु⟫] ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
 
 Erklärung: ⟪आत्मसु⟫ = Lok. sg. zu ⟪आत्मन्⟫ m. "Seele ; das Absolute, insofern es im Individuum verwirklicht wird"
 
 2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. über den rechten Gebrauch des ⟪दण्ड⟫ :
 
-⟪तीक्ष्णदण्डो⟫ ⟪भूताना⟫***⟪मुद्वेजनीयो⟫*** ⟪भवति⟫ ⟪।८।⟫
+⟪तीक्ष्णदण्डो⟫ ⟪भूताना⟫sig[⟪मुद्वेजनीयो⟫] ⟪भवति⟫ ⟪।८।⟫
 
 ⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।९।⟫
 
 ⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।१०।⟫
 
-⟪सु⟫***⟪विज्ञात⟫***⟪प्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामै⟫***⟪र्योजयति⟫*** ⟪।११।⟫
+⟪सु⟫sig[⟪विज्ञात⟫]⟪प्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामै⟫sig[⟪र्योजयति⟫] ⟪।११।⟫
 
-⟪दुष्प्रणीतः⟫ ***⟪कामक्रोधाभ्याम⟫***⟪वज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, ***⟪किमङ्ग⟫*** ⟪पुनर्गृहस्थान्⟫ ⟪।१२।⟫
+⟪दुष्प्रणीतः⟫ sig[⟪कामक्रोधाभ्याम⟫]⟪वज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, sig[⟪किमङ्ग⟫] ⟪पुनर्गृहस्थान्⟫ ⟪।१२।⟫
 
 ⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।१३।⟫
 
-**⟪बलीयान⟫**⟪अबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।१४।⟫
+⟪बलीयान⟫⟪अबलं⟫ ⟪हि⟫ ⟪ग्रसते⟫ ⟪दण्डधराभावे⟫ ⟪।१४।⟫
 
 ⟪स⟫ ⟪तेन⟫ ⟪गुप्तः⟫ ⟪प्रभवतीति⟫ ⟪।१५।⟫
-:::indent
-**⟪चतुर्व⟫**⟪र्णाश्रमो⟫ ⟪लोको⟫  
-**⟪राज्ञा⟫** ⟪दण्डेन⟫ ⟪पालितः⟫ ⟪।⟫  
+::: indent
+⟪चतुर्व⟫⟪र्णाश्रमो⟫ ⟪लोको⟫  
+⟪राज्ञा⟫ ⟪दण्डेन⟫ ⟪पालितः⟫ ⟪।⟫  
 ⟪स्वधर्मकर्माभिरतो⟫  
 ⟪वर्तते⟫ **⟪स्वेषु⟫ ⟪वर्त्मसु⟫** ⟪॥१६॥⟫
-::::::media
+:::
+::: media
 ![](/images/lekt2902.jpg)
 Abb.: ⟪मात्स्यन्याय⟫:
 (Zeichnung: Namcha Payer, 2002-11)
@@ -173,7 +176,7 @@ Erklärungen:
 
 ## 29.4. Futur und Kausativ zu den bisher gelernten Wurzeln
 
-:::grammar-box
+::: grammar-box
 
 | Wurzel:br⟪धातु⟫ | Futur:br⟪ऌत्⟫ | Kausativ:br⟪कारित⟫ |
 | :--- | :--- | :--- |
@@ -262,9 +265,11 @@ Erklärungen:
 |⟪हन्⟫ ⟪२⟫ ⟪प⟫|⟪हनिष्यति⟫|⟪घातयति⟫|
 |⟪हृ⟫ ⟪१⟫ ⟪उ⟫|⟪हरिष्यति⟫|⟪हारयति⟫|
 
-::::::deleteme-box
+:::
+::: deleteme-box
 
 **lekt2903:** Pushkar = ⟪पुष्कर⟫ [Bildquelle: pyjama. -- http://www.flickr.com/photos/rpt/387636532/. -- Zugriff am 2008-12-20. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)]
 **lekt2901:** ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton [Bildquelle: Khalid Mahmood / Wikipedia. GNU FDLicense]
 **lekt2902:** (Zeichnung: Namcha Payer, 2002-11)
 :::
+

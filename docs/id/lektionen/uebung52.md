@@ -25,7 +25,7 @@ last_reconstructed: 2026-05-15
 
 > That which, when done, leads to inner satisfaction, that one should diligently do; but one should refrain from the opposite.
 
-:::media
+::: media
 ![](/images/uebung087.webp)
 Fig.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 (Image source: [Details](/en/licenses#uebung087))
@@ -117,7 +117,7 @@ Buddha’s liberating insight:
 
 > “These beings, who have committed evil deeds, go into a bad existence; these others, who have good karma, arise again in Indra’s heaven.”
 
-:::media
+::: media
 ![](/images/uebung088.webp)
 Fig.: ⟪कदलीगर्भनिःसारः⟫
 (Image source: [Details](/en/licenses#uebung088))

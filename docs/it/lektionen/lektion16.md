@@ -1,9 +1,9 @@
 ---
-title: Lezione 16
-subtitle: "Sul Sandhi delle consonanti finali"
+title: Lektion 16
+subtitle: "Zum Sandhi auslautender Konsonanten"
 lesson_id: 16
 last_reconstructed: 2026-05-21
-category: "Grammatica"
+category: "Grammatik"
 status: stable
 ---
 
@@ -15,33 +15,29 @@ Per la formazione di composti il cui primo membro è costituito da stemmi con us
 
 Consonanti occlusive finali gutturali, retroflesse, dentali e labiali (cioè non nasali e non palatali).
 
-::::grammar-box
+::: no-header
 
-:::no-header
-
-| | |
+|   |   |
 | :--- | :--- |
 | **in pausa e davanti a suoni sordi** | **Sostituzione con l'occlusivo sordo non aspirato corrispondente:** :br **Esempio:** :br [[indent]] -g + p- » -kp- :br [[indent]] -d + ph- » -tph- :br [[indent]] -dh + p- » -tp- |
 | **davanti a suoni sonori non nasali** | **Sostituzione con l'occlusivo sonoro non aspirato corrispondente:** :br **Esempio:** :br [[indent]] -t + g- » -dg- :br [[indent]] -k + b- » -gb- :br [[indent]] -dh + d- » -dd- :br [[indent]] -k + a- » -ga- |
 | **davanti a nasali** | **Sostituzione con la nasale corrispondente:** :br **Esempio:** :br [[indent]] -t + n- » -nn- :br [[indent]] -p + n- » -mn- |
 
-:::::::
+:::
 Eccezione alla regola precedente:
 
 Occlusiva dentale finale (non nasale):
 
-::::grammar-box
+::: no-header
 
-:::no-header
-
-| | |
+|   |   |
 | :--- | :--- |
 | **davanti a palatali** | **Sostituzione con la palatale non aspirata corrispondente:** :br **Cioè:** :br [[indent]] -t + c- » -cc- :br [[indent]] -d + c- » -cc- :br [[indent]] -th + c- » -cc- :br [[indent]] -dh + c- » -cc- :br [[indent]] -t/-th/-d/-dh + ch- » -cch- :br [[indent]] -t/-th/-d/-dh + j- » -jj- :br [[indent]] -t/-th/-d/-dh + jh- » -jjh- |
 | **+ ś** | **» -cś- o -cch-** |
 | **davanti a retroflesse** | **Sostituzione con la retroflessa non aspirata corrispondente:** :br **Cioè:** :br [[indent]] -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br [[indent]] -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
 | **davanti a l-** | **Sostituzione con -l:** :br **Cioè:** :br [[indent]] -t/-th/-d/-dh + l- » -ll- |
 
-:::::::
+:::
 Esempi:
 
 ⟪तद्⟫ + ⟪फल⟫ = ⟪तत्फल⟫
@@ -64,7 +60,7 @@ Esempi:
 
 ⟪अध्यापन⟫ n.: Insegnamento, istruzione
 
-:::media
+::: media
 ![](/images/lekt1602.webp)
 Fig.: ⟪अध्यापनम्⟫
 "Questa è una cerimonia speciale in un piccolo tempio di Satara (⟪सातारा⟫). Viene eseguita dagli studenti della Swami Muktananda Vedashala in occasione della celebrazione di Mahāśivarātri. Si tratta di una scuola vedica, dove i bambini imparano a memoria i testi sacri chiamati Veda. Questa scuola insegna il Krishna Yajurveda e alcune porzioni del Samaveda. Sto svolgendo la mia tesi di master su questa scuola."
@@ -76,14 +72,14 @@ Fig.: ⟪अध्यापनम्⟫
 
 da ciò:
 
-:::indent
+::: indent
 ⟪अनृशंस्य⟫ n.: Assenza di malvagità
 :::
 ⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : vivere
 
 da ciò:
 
-:::indent
+::: indent
 ⟪आजीव⟫ m.: Sussistenza, sostentamento
 :::
 ⟪क्षमा⟫ f.: Pazienza, longanimità, clemenza
@@ -98,7 +94,7 @@ da ciò:
 
 ⟪योग⟫ m.: Attacco, connessione, unione, acquisizione; Yoga
 
-:::media
+::: media
 ![](/images/lekt1601.webp)
 Fig.: ⟪योगी⟫
 Birla Mandir, Delhi
@@ -114,6 +110,12 @@ Birla Mandir, Delhi
 
 ⟪अहिंसा⟫ f.: Non recare danno a nessuno, non violenza, non offesa
 
+::: media
+![](/images/lekt1603.jpg)
+Fig.: ⟪अहिंसा⟫
+"La mano con una ruota sul palmo simboleggia il Voto giainista di Ahimsa. La parola al centro è "ahimsa". La ruota rappresenta il dharmacakra, che sta per la risoluzione di fermare il ciclo delle rinascite attraverso la ricerca implacabile della verità e della non violenza."
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1603))
+:::
 ## 16.3. Esercizio
 
 A) Trasformare le seguenti espressioni in composti *Tatpuruṣa* e tradurli:
@@ -126,7 +128,7 @@ A) Trasformare le seguenti espressioni in composti *Tatpuruṣa* e tradurli:
 
 ⟪४⟫. ⟪पशुमन्तो⟫ ⟪जनाः⟫ ⟪।⟫
 
-:::media
+::: media
 ![](/images/lekt1604.webp)
 Fig.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 ⟪हरियाणा⟫ / ਹਰਿਆਣ⟪ा⟫
@@ -178,10 +180,10 @@ A tal fine, utilizzare il seguente schema, che segue l'ordine dei casi previsto 
 
 | Singolare:br⟪एकवचनम्⟫ | Plurale:br⟪बहुवचनम्⟫ |
 | :--- | :--- |
-| **⟪१⟫. ⟪प्रथमा⟫**:brNominativo | **⟪१⟫. ⟪प्रथमा⟫** |
-| **⟪२⟫. ⟪द्वितीया⟫**:brAccusativo | **⟪२⟫. ⟪द्वितीया⟫** |
-| **⟪३⟫. ⟪तृतीया⟫**:brInstrumentale | **⟪३⟫. ⟪तृतीया⟫** |
-| **⟪६⟫. ⟪षष्ठी⟫**:brGenitivo | **⟪६⟫. ⟪षष्ठी⟫** |
+| **⟪१⟫. ⟪प्रथमा⟫** :brNominativo | **⟪१⟫. ⟪प्रथमा⟫** |
+| **⟪२⟫. ⟪द्वितीया⟫** :brAccusativo | **⟪२⟫. ⟪द्वितीया⟫** |
+| **⟪३⟫. ⟪तृतीया⟫** :brStrumentale | **⟪३⟫. ⟪तृतीया⟫** |
+| **⟪६⟫. ⟪षष्ठी⟫** :brGenitivo | **⟪६⟫. ⟪षष्ठी⟫** |
 
 Imparare a memoria i modelli di declinazione basandosi su questi esempi!!!
 
@@ -227,7 +229,7 @@ B) Tradurre e scomporre tutti i composti (samāsa) in sanscrito:
 
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
-:::indent
+::: indent
 Spiegazioni;
 
 Frase 7: ⟪कृषिपाशुपाल्ये⟫ Duale, Nom. Acc.: Dvandva, che indica due "cose"
@@ -238,8 +240,7 @@ Frase 13: ⟪सर्वेषाम⟫ Gen. pl. masc. derivato da ⟪सर्
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
-:::deleteme-box
-
+::: deleteme-box
 
 **lekt1601:** Birla Mandir, Delhi [Fonte dell'immagine: Deepak / Wikipedia ; Licenza Creative Commons (Attribuzione, Condividi allo stesso modo)]
 

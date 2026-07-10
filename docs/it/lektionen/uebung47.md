@@ -151,7 +151,7 @@ Vogliamo essere guidati da te.
 ⟪३४⟫. **⟪सुखाय⟫ ⟪भवतात्⟫ ⟪॥⟫ ⟪३४⟫ ⟪॥⟫**
 Che porti alla fortuna! (Augurio di benedizione)
 
-:::media
+::: media
 ![](/images/uebung075.webp)
 Fig.: ⟪माद्यत⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung075))

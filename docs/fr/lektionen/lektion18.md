@@ -1,13 +1,13 @@
 ---
-title: Leçon 18
+title: Lektion 18
 lesson_id: 18
 ---
 
-# Leçon 18
+# Lektion 18
 
 ## 18.1. ⟪सुभाषितम्⟫
 
-:::indent
+::: indent
 ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
 ⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
@@ -22,14 +22,14 @@ En tant que membre antérieur adverbial (indeclinable), peuvent
 *   des particules
 *   autres indéclinables
 
-:::indent
+::: indent
 être utilisés. Ces Tatpuruṣa appartiennent généralement à la classe des Nityasamāsa = ⟪नित्यसमास⟫ (m. "composé permanent"), c'est-à-dire des composés qui ne peuvent être résolus du tout, ou pas seulement au moyen des mots présents dans le composé lui-même.
 :::
 Exemples :
 
 ⟪अति⟫ "de plus" :
 
-:::indent
+::: indent
 ⟪अतिगुरु⟫ 3 : extrêmement lourd, extrêmement grave
 
 ⟪अतिपुरुष⟫ m. : homme éminent, Superman, héros
@@ -44,7 +44,7 @@ Les membres antérieurs adverbiaux les plus importants sont a-/an-, su-, dus-.
 
 Exemples :
 
-:::indent
+::: indent
 ⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫) : mensonge, fausseté
 
 ⟪अकृत⟫ 3 = ⟪न⟫ ⟪कृत⟫ 3 : non fait, non accompli
@@ -57,7 +57,7 @@ Exemples :
 
 Exemples :
 
-:::indent
+::: indent
 ⟪सुकवि⟫ m. : un bon poète
 
 ⟪सुकृत⟫ n. : bonne action
@@ -70,14 +70,14 @@ Exemples :
 
 Exemples :
 
-:::indent
+::: indent
 ⟪दुर्नय⟫ m. : mauvaise direction, mauvaise conduite
 
 ⟪दुष्करण⟫ n. : mauvaise action, action difficile
 :::
 La règle suivante s'applique :
 
-::::grammar-box
+::: grammar-box
 
 Changements phonétiques de -s dans les composés
 
@@ -87,56 +87,55 @@ Contrairement au Sandhi de phrase, à la fin du membre antérieur des composés 
 
 D'où : ⟪दुष्करण⟫
 
-::::
-### 18.2.1. Composés de type ⟪सुकर⟫ / ⟪दुष्कर⟫
+:::
+### 18.2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
 
-::::grammar-box
+::: grammar-box
 
-Les composés de type ⟪सुकर⟫ / ⟪दुष्कर⟫ ont principalement le sens de possibilité passive :
+En tant que membre antérieur adverbial (indeclinable), peuvent
 
-Exemples :
+des adverbes
 
-:::indent
-⟪सुकर⟫ 3 : facile à faire
+:::
+::: indent
+des prépositions
 
-⟪सुगम⟫ 3 : facile à aller
+des particules
 
-⟪दुर्गम⟫ 3 : difficile à aller
+autres indéclinables
 
-⟪सुदुर्गम⟫ 3 : très difficile à aller
-:::::::
-### 18.2.2. Sens de nañ-Tatpuruṣa (a- / an-)
+⟪सुदुर्गम⟫ 3 : très difficile à parcourir
+:::
+### 18.2.2. Bedeutungen von nañ-Tatpuruṣa (a- / an-)
 
-Les Tatpuruṣa avec a- / an- peuvent avoir les significations suivantes :
+En tant que membre antérieur adverbial (indeclinable), peuvent
 
-1.  Similarité (⟪तत्सादृश्यम्⟫) :  
-    ⟪अब्राह्मणः⟫ = un Kṣatriya ou un Vaiśya qui porte le cordon sacré (⟪यज्ञोपवीत⟫ n.) et ressemble ainsi à un Brahmane, sans en être un
-2.  Absence, non-existence (⟪तदभावः⟫) :  
-    ⟪अज्ञानम्⟫ = ignorance (absence de savoir)
-3.  Altérité (⟪तदन्यत्वम्⟫) :  
-    ⟪अपटम्⟫ = quelque chose qui n'est pas un tissu / vêtement (⟪पट⟫ m : tissu, vêtement)
-4.  Petitesse (⟪तदल्पता⟫) :  
-    ⟪अनुदरम्⟫ = un petit ventre (un non-ventre)
-5.  Désapprobation (⟪अप्राशास्त्यम्⟫) :  
-    ⟪अकालः⟫ = intempestivité
-6.  Inimitié (⟪निरोधः⟫) :  
-    ⟪असुरः⟫ = anti-dieu (selon la fausse étymologie a-sura)
+1.  des adverbes
+    ⟪अब्राह्मणः⟫ = un Kṣatriya ou Vaiśya, qui porte le cordon sacré (⟪यज्ञोपवीत⟩ n.) et ressemble ainsi à un Brahmane, sans en être un
+2.  des particules
+autres indéclinables
+3.  Altérité (⟪तदन्यत्वम्⟩) :  
+    ⟪अपटम्⟩ = quelque chose qui n'est pas un tissu / vêtement (⟪पट⟩ m : tissu, vêtement)
+4.  Petitesse (⟪तदल्पता⟩) :  
+    ⟪अनुदरम्⟩ = un petit ventre (un non-ventre)
+5.  Désapprobation (⟪अप्राशास्त्यम्⟩) :  
+    ⟪अकालः⟩ = intempestivité
+6.  Hostilité (⟪निरोधः⟩) :  
+Les membres adverbiaux antérieurs les plus importants sont a-/an-, su-, dus-.
 
-Le verset suivant résume ces significations :
+⟪अ⟫ (devant une consonne), ⟪अन्⟫ (devant une voyelle) : un- : se trouve dans le composé à la place de ⟪न⟫ "non".
 
-:::indent
+::: indent
 ⟪तत्सादृश्यमभावश्च⟫  
 ⟪तदन्यत्वं⟫ ⟪तदल्पता⟫ ⟪।⟫  
 ⟪अप्राशास्त्यं⟫ ⟪निरोधश्च⟫  
 ⟪नजर्थाः⟫ ⟪षट्प्रकीर्तिताः⟫ ⟪॥⟫
 
-On nomme six significations de nañ (= a-/an-) ....
+⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫) : mensonge, fausseté
 :::
-## 18.3. Composés verbaux
+## 18.3. Verbalkomposita
 
-::::grammar-box
-
-:::indent
+::: indent
 ⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
 ⟪बलादन्यत्र⟫ ⟪नीयते⟫ ⟪।⟫  
 ⟪गङ्गासलिलमाधुर्यं⟫  
@@ -146,18 +145,18 @@ On nomme six significations de nañ (= a-/an-) ....
 
 Une préposition verbale modifie de force le sens d'une racine, à l'image de l'eau douce du Gange qui est transformée par l'eau de mer.
 
-::::::::grammar-box
+::: grammar-box
 
 Les verbes peuvent être combinés en sanskrit avec des prépositions verbales (⟪उपसर्ग⟫ m.). On applique généralement le sandhi de phrase. Les prépositions verbales peuvent, selon les cas, modifier de manière significative le sens de la racine, de sorte que dans de nombreux cas, le sens d'une racine avec une préposition verbale doit être appris séparément. Les verbes avec préposition verbale peuvent avoir un mode différent (P, Ā) que la racine simple. Plusieurs prépositions verbales peuvent être placées devant une racine simultanément.
 
-::::
+:::
 Certaines prépositions verbales importantes sont :
 
 ⟪उप⟫ "vers, vers, contre"
 
 Exemples :
 
-:::indent
+::: indent
 ⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : aller vers, se diriger vers
 
 ⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : indiquer, enseigner, conseiller
@@ -172,7 +171,7 @@ Exemples :
 
 Exemples :
 
-:::indent
+::: indent
 ⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : obtenir
 
 ⟪प्रदिश्⟫ 6 ⟪प्रदिशति⟫ : montrer
@@ -191,7 +190,7 @@ Exemples :
 
 Exemples :
 
-:::indent
+::: indent
 ⟪विगम्⟫ 1 ⟪विगच्छति⟫ : se disperser, passer, disparaître
 
 ⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : vaincre
@@ -208,7 +207,7 @@ Exemples :
 
 Exemples :
 
-:::indent
+::: indent
 ⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : être assis ensemble, séjourner, habiter
 
 ⟪समि⟫ 2 ⟪समेति⟫ : se rassembler, se unir
@@ -224,49 +223,50 @@ Exemples :
 ⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : être accordé à quelqu'un, réussir
 
 *   Participe passé passif ⟪सम्पन्न⟫ 3 : pourvu de (instrumental)
-:::::::grammar-box
+:::
+::: grammar-box
 
 La racine ⟪कृ⟫ "faire" montre, en combinaison avec les prépositions verbales ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫, également la forme ⟪स्कृ⟫
 
-::::
+:::
 Exemple :
 
-:::indent
+::: indent
 sam-kṛ 8 ⟪संस्करोति⟫ : préparer, préparer pour le sacrifice, consacrer
 
 *   Participe passé passif ⟪संस्कृत⟫ 3 : préparé pour le sacrifice ; ⟪संस्कृत⟫ n. : sanskrit : la langue appropriée pour le sacrifice ; contraire ⟪प्राकृत⟫ 3 : ordinaire, vulgaire ; ⟪प्राकृत⟫ n. : langue ordinaire, prakrit (désignation des langues populaires et de communication, apparentées au sanskrit)
 :::
-### 18.3.1. Dérivations nominales à partir de composés verbaux
+### 18.3.1. Nominalbildungen zu Verbalkomposita
 
-::::grammar-box
+::: grammar-box
 
-À partir de racines préfixées, on peut former des noms à l’aide de suffixes kṛt.
+Certaines prépositions verbales importantes sont :
 
-::::
+:::
 Exemples :
 
-sam-kṛ + -a = ⟪संस्कार⟫ m. : sacre, préparation ; rites de passage = désignation des cérémonies qui accompagnent les différentes étapes de la vie, de la conception à la mort (voir à ce sujet la remarquable synthèse de Basham, Wonder, p. 160 - 170 !)
+sam-kṛ + -a = ⟪संस्कार⟫ m. : initiation, préparation ; rites de passage = terme désignant les cérémonies qui accompagnent les différentes étapes de la vie, de la conception à la mort (voir à ce sujet l'excellente synthèse de Basham, Wonder p. 160 - 170 !)
 
-:::media
+::: media
 ![](/images/lekt1804.webp)
 Fig. : ⟪विवाहः⟫
-Mariage = ⟪विवाह⟫ m., un ⟪संस्कारः⟫ important
-(Source de l’image : [Détails](/fr/licenses#lekt1804))
+Mariage = ⟪विवाह⟫ m., une cérémonie importante ⟪संस्कारः⟫
+(Source de l'image : [Détails](/fr/licenses#lekt1804))
 :::
-upa-nī + -ana = ⟪उपनयन⟫ n. : l’amenée (au feu de sacrifice) = cérémonie au cours de laquelle les membres masculins des trois premières castes reçoivent le cordon sacré (⟪यज्ञोपवीत⟫ n.) et se voit chuchoter à l’oreille le verset sacré ⟪सावित्री⟫, qu’ils doivent réciter désormais chaque jour au lever et au coucher du soleil. Pour les Brahmanes, il s’agit du Ṛgveda III.62.10 :
+upa-nī + -ana = ⟪उपनयन⟫ n. : l'approche (vers le feu de sacrifice) = Cérémonie au cours de laquelle le cordon sacré (⟪यज्ञोपवीत⟫ n.) est attribué aux membres masculins des trois premières castes, ainsi que le verset sacré ⟪सावित्री⟫ est chuchoté à leur oreille, qu'ils réciteront désormais quotidiennement à l'aube et au crépuscule. Pour les Brahmanes, il s'agit du Ṛgveda III.62.10 :
 
-:::indent
-« Puissions-nous recevoir l’éclat éminent du Dieu « Conducteur », qui mette en mouvement nos pensées. »
+::: indent
+⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : diriger vers, se diriger vers
 :::
-Par l’Upanayana survient la seconde naissance, d’où : ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
+Par l'Upanayana survient la seconde naissance, donc : ⟪द्विज⟫ ⟪।⟫ ⟪द्विजाति⟫
 
-:::media
+::: media
 ![](/images/lekt1801.webp)
 Fig. : ⟪उपनयनम्⟫
-« On voit un jeune garçon pendant le rituel d’upanayana. Le fil jaune fin, passant de l’épaule gauche à la taille, est le Yagnopavita. On note également la ceinture d’herbe munja autour de la taille. La brindille dans la main droite (généralement de l’arbre peepa) signifie son entrée dans le Brahmacharya. »
+« Un jeune garçon est visible lors du rituel d’upanayana. Le fil jauni et fin qui s’étend de l’épaule gauche à la taille est le Yagnopaivta. Noter également la ceinture d’herbe munja autour de la taille. La brindille dans la main droite (généralement issue de l’arbre peepa) symbolise son entrée dans le Brahmacharya. »
 (Source de l’image : [Détails](/fr/licenses#lekt1801))
 :::
-## 18.4. Liste de vocabulaire
+## 18.4. Liste de mots
 
 ⟪सुष्टु⟫ 3 : hautement loué, excellent, bon
 
@@ -302,7 +302,7 @@ Fig. : ⟪उपनयनम्⟫
 
 ⟪प्रभृति⟫ f. : commencement
 
-## 18.5. Exercice
+## 18.5. Übung
 
 A) Traduisez le ⟪सुभाषित⟫ au début de la leçon.
 
@@ -370,7 +370,7 @@ B) Traduisez les Tatpuruṣa suivants :
 
 ⟪३१⟫. ⟪अमृत⟫ n.
 
-## 18.6. Exercice de révision
+## 18.6. Wiederholungsübung
 
 Veuillez ne pas utiliser d'aides-mémoire !
 
@@ -394,7 +394,7 @@ A) Décomposez les composés suivants en sanskrit et proposez des traductions :
 
 ⟪९⟫. ⟪कुलोपदेश⟫ m.
 
-:::media
+::: media
 ![](/images/lekt1802.webp)
 Fig. : ⟪मृतिसाधनी⟫ ⟪काली⟫
 Impression de 1770
@@ -402,19 +402,19 @@ Impression de 1770
 :::
 B) Traduisez en utilisant des verbes de la 2e classe de présent :
 
-1. Le brāhmaṇe loue les déesses.
+Le brāhmaṇe loue les déesses.
 
-2. Les héros se rendent au village des Āryas sur un chemin difficile à parcourir.
+Les héros se rendent au village des Āryas sur un chemin difficile à parcourir.
 
-3. La servante traie les vaches.
+La servante traie les vaches.
 
-4. Les ennemis des Āryas abattent les Kṣatriyas puissants.
+Les ennemis des Āryas abattent les Kṣatriyas puissants.
 
-5. Un fantôme ne mange aucun fruit.
+Un fantôme ne mange aucun fruit.
 
-6. Ainsi parle celui qui [a bien parcouru le chemin des réincarnations] à l'élève.
+Ainsi parle celui qui [a bien parcouru le chemin des réincarnations] à l'élève.
 
-:::media
+::: media
 ![](/images/lekt1803.webp)
 Fig. : ⟪सुगतः⟫
 ⟪गन्धार⟫ 1er/2e siècle apr. J.-C.
@@ -426,7 +426,7 @@ D) Traduisez :
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
 
-:::deleteme-box
+::: deleteme-box
 
 **lekt1801 :** « Un jeune garçon est vu pendant le rituel d'upanayana. Le fil jaune, fin, qui va de l'épaule gauche à la taille est Yagnopaivta. Notez également la ceinture d'herbe munja autour de la taille. La brindille dans la main droite (généralement de l'arbre peepa) signifie son entrée dans Brahmacharya. » [Source de l'image : Nagesh Rao / Wikipédia, Licence GNU FDL]
 

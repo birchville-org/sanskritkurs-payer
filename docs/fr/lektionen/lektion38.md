@@ -1,5 +1,5 @@
 ---
-title: Leçon 38
+title: Lektion 38
 subtitle: "Losung der Woche"
 lesson_id: 38
 last_reconstructed: 2026-05-21
@@ -7,16 +7,16 @@ category: "Grammatik"
 status: stable
 ---
 
-# Leçon 38
+# Lektion 38
 
-## 38.1. Solution de la semaine
+## 38.1. Losung der Woche
 
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ sur l’urination correcte :
 
-:::indent
-⟪प्रत्य⟫***⟪ग्नि⟫*** ⟪प्रतिसूर्यं⟫ ⟪च⟫  
+::: indent
+⟪प्रत्य⟫*⟪ग्नि⟫* ⟪प्रतिसूर्यं⟫ ⟪च⟫  
 ⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
-⟪प्रति⟫***⟪गु⟫*** ⟪प्रतिवातं⟫ ⟪च⟫  
+⟪प्रति⟫*⟪गु⟫* ⟪प्रतिवातं⟫ ⟪च⟫  
 ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
 :::
 Explications :
@@ -25,128 +25,129 @@ Explications :
 
 \-⟪गु⟫ Neutre Nominatif/Accusatif singulier de ⟪गो⟫ m.f. « bœuf, vache »
 
-:::media
+::: media
 ![](/images/lekt3801.webp)
 Fig. : ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
 (Source de l’image : [Détails](/fr/licenses#lekt3801))
 :::
-## 38.2. Mutation phonétique des nasales en position intervocalique
+## 38.2. Mutation phonétique des nasales en position initiale de mot
 
-:::grammar-box
+::: grammar-box
 Les nasales en position intervocalique s'assimilent aux consonnes qui les suivent, c'est-à-dire qu'elles sont remplacées par la nasale correspondant à cette consonne.
 
 Après c- et j-, -n- est remplacé par -ñ-.
 :::
-## 38.3. Déclinaison des stems en -n
+## 38.3. Deklination der Stämme auf -n
 
 ### 38.3.1. Noms en -an ainsi que noms en -man ou -van après voyelle
-:::grammar-box
-Les noms en **-an** ainsi que les noms **-man** ou **-van** après voyelle ont trois stems :
+::: grammar-box
+Les noms en **-an** ainsi que les noms **-man** ou **-van** après voyelle possèdent trois stems :
 
-| Stem | -an | -man | -van | Usage |
+| Stamm | -an | -man | -van | Verwendung |
 | :--- | :---: | :---: | :---: | :--- |
-| **Stem fort** | **-ān** | **-mān** | **-vān** | Nom., Acc., Voc. sg. m. f.:brNom., Acc., Voc. dual m. f.:brNom., Voc. pl. m. f.:brNom., Acc. pl. n. |
-| **Stem moyen faible** | **-a**:br(de -*n) | **-ma**:br(de -*mn) | **-va**:br(de -*vn) | Autres cas avant terminaison consonantique:brOptionnellement aussi Loc. sg. m. n. f. |
-| **Stem le plus faible** | **-n** | **-mn** | **-vn** | Autres cas avant terminaison vocalique |
+| **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
+| **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
+| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
 
-**Les terminaisons sont régulières. Le nominatif singulier m. f. se forme sans -n final.**
+**Les terminaisons sont régulières. Le nominatif singulier masculin et féminin se forme sans -n final.**
 :::
 Exemples :
 
-⟪राजन्⟫ m. "Roi"
+⟪राजन्⟫ m. « Roi »
 
-*   stem fort : ⟪राजान्⟫
-*   stem moyen : ⟪राज⟫
-*   stem le plus faible : ⟪राज्ञ्⟫
+*   radical fort : ⟪राजान्⟫
+*   radical moyen : ⟪राज⟫
+*   radical faible : ⟪राज्ञ्⟫
 
-⟪सीमन्⟫ f. "Frontière"
+⟪सीमन्⟫ f. « Limite »
 
-*   stem fort : ⟪सीमान्⟫
-*   stem moyen : ⟪सीम⟫
-*   stem le plus faible : ⟪सीम्न्⟫
+*   radical fort : ⟪सीमान्⟫
+*   radical moyen : ⟪सीम⟫
+*   radical faible : ⟪सीम्न्⟫
 
-⟪नामन्⟫ n. "Nom"
+⟪नामन्⟫ n. « Nom »
 
-*   stem fort : ⟪नामान्⟫
-*   stem moyen : ⟪नाम⟫
-*   stem le plus faible : ⟪नाम्न्⟫
-::::grammar-box
+*   radical fort : ⟪नामान्⟫
+*   radical moyen : ⟪नाम⟫
+*   radical faible : ⟪नाम्न्⟫
+::: grammar-box
 
-| | **⟪राजन्⟫** | **⟪सीमन्⟫** | **⟪नामन्⟫** |
+| | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
 | :--- | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | | | |
-| **⟪प्रथमा⟫** | **⟪राजा⟫** | **⟪सीमा⟫** | **⟪नाम⟫** |
-| **⟪द्वितीया⟫** | **⟪राजानम्⟫** | **⟪सीमानम्⟫** | **⟪नाम⟫** |
-| **⟪तृतीया⟫** | **⟪राज्ञा⟫** | **⟪सीम्ना⟫** | **⟪नाम्ना⟫** |
-| **⟪चतुर्थी⟫** | **⟪राज्ञे⟫** | **⟪सीम्ने⟫** | **⟪नाम्ने⟫** |
-| **⟪पञ्चमी⟫** | **⟪राज्ञस्⟫** | **⟪सीम्नस्⟫** | **⟪नाम्नस्⟫** |
-| **⟪षष्ठी⟫** | **⟪राज्ञस्⟫** | **⟪सीम्नस्⟫** | **⟪नाम्नस्⟫** |
-| **⟪सप्तमी⟫** | **⟪राज्ञि⟫** / **⟪राजानि⟫** | **⟪सीम्नि⟫** / **⟪सीमनि⟫** | **⟪नाम्नि⟫** / **⟪नामनि⟫** |
-| **⟪बहुवचनम्⟫** | | | |
-| **⟪प्रथमा⟫** | **⟪राजानस्⟫** | **⟪सीमानस्⟫** | **⟪नामानि⟫** |
-| **⟪द्वितीया⟫** | **⟪राज्ञस्⟫** | **⟪सीम्नस्⟫** | **⟪नामानि⟫** |
-| **⟪तृतीया⟫** | **⟪राजभिस्⟫** | **⟪सीम्नभिस्⟫** | **⟪नामभिस्⟫** |
-| **⟪चतुर्थी⟫** | **⟪राजभ्यस्⟫** | **⟪सीम्नभ्यस्⟫** | **⟪नामभ्यस्⟫** |
-| **⟪पञ्चमी⟫** | **⟪राजभ्यस्⟫** | **⟪सीम्नभ्यस्⟫** | **⟪नामभ्यस्⟫** |
-| **⟪षष्ठी⟫** | **⟪राज्ञाम्⟫** | **⟪सीम्नाम्⟫** | **⟪नाम्नाम्⟫** |
-| **⟪सप्तमी⟫** | **⟪राजसु⟫** | **⟪सीमसु⟫** | **⟪नामसु⟫** |
+| ⟪एकवचनम्⟫ | | | |
+| ⟪प्रथमा⟫ | ⟪राजा⟫ | ⟪सीमा⟫ | ⟪नाम⟫ |
+| ⟪द्वितीया⟫ | ⟪राजानम्⟫ | ⟪सीमानम्⟫ | ⟪नाम⟫ |
+| ⟪तृतीया⟫ | ⟪राज्ञा⟫ | ⟪सीम्ना⟫ | ⟪नाम्ना⟫ |
+| ⟪चतुर्थी⟫ | ⟪राज्ञे⟫ | ⟪सीम्ने⟫ | ⟪नाम्ने⟫ |
+| ⟪पञ्चमी⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नाम्नस्⟫ |
+| ⟪षष्ठी⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नाम्नस्⟫ |
+| ⟪सप्तमी⟫ | ⟪राज्ञि⟫ / ⟪राजानि⟫ | ⟪सीम्नि⟫ / ⟪सीमनि⟫ | ⟪नाम्नि⟫ / ⟪नामनि⟫ |
+| ⟪बहुवचनम्⟫ | | | |
+| ⟪प्रथमा⟫ | ⟪राजानस्⟫ | ⟪सीमानस्⟫ | ⟪नामानि⟫ |
+| ⟪द्वितीया⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नामानि⟫ |
+| ⟪तृतीया⟫ | ⟪राजभिस्⟫ | ⟪सीम्नभिस्⟫ | ⟪नामभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪राजभ्यस्⟫ | ⟪सीम्नभ्यस्⟫ | ⟪नामभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪राजभ्यस्⟫ | ⟪सीम्नभ्यस्⟫ | ⟪नामभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪राज्ञाम्⟫ | ⟪सीम्नाम्⟫ | ⟪नाम्नाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪राजसु⟫ | ⟪सीमसु⟫ | ⟪नामसु⟫ |
 
-:::::::media
+:::
+::: media
 ![](/images/lekt3803.webp)
 Fig. : ⟪सीमा⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3803))
 :::
-### 38.3.2. Noms en -man ou -van après consonne
+### 38.3.2. Noms en -man ou -van après une consonne
 
-:::grammar-box
+::: grammar-box
 *   Starker Stamm: -mān, -vān
 *   Radical faible :
-    *   devant des terminaisons commençant par une consonne : -ma, -va (de -\*mn, -\*vn)
-    *   devant des terminaisons commençant par une voyelle : **\-man, -van**
+    *   devant des terminaisons à consonne initiale : -ma, -va (de -\*mn, -\*vn)
+    *   devant des terminaisons à voyelle initiale : **\-man, -van**
 
-Formation sinon comme sous 3.1.
+Autre éducation comme sous 3.1.
 :::
 Exemples :
 
 ⟪आत्मन्⟫ n. « Âme »
 
-*   radical fort : ⟪आत्मान्⟫
-*   radical faible :
+*   thème fort : ⟪आत्मान्⟫
+*   thème faible :
     *   devant consonne : ⟪आत्म⟫
     *   devant voyelle : ⟪आत्मन्⟫
 
-⟪ब्रह्मन्⟫ n. : Absolut, Veda, Brahman
+⟪ब्रह्मन्⟫ n. : l’Absolu, le Veda, Brahman
 
 *   radical fort : ⟪ब्रह्मान्⟫
 *   radical faible :
     *   devant consonne : ⟪ब्रह्म⟫
     *   devant voyelle : ⟪ब्रह्मन्⟫
-::::grammar-box
+::: grammar-box
 
-| | **⟪आत्मन्⟫** | **⟪ब्रह्मन्⟫** |
+| | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
 | :--- | :---: | :---: |
-| **⟪एकवचनम्⟫** | | |
-| **⟪प्रथमा⟫** | **⟪आत्मा⟫** | **⟪ब्रह्म⟫** |
-| **⟪द्वितीया⟫** | **⟪आत्मानम्⟫** | **⟪ब्रह्म⟫** |
-| **⟪तृतीया⟫** | **⟪आत्मना⟫** | **⟪ब्रह्मणा⟫** |
-| **⟪चतुर्थी⟫** | **⟪आत्मने⟫** | **⟪ब्रह्मणे⟫** |
-| **⟪पञ्चमी⟫** | **⟪आत्मनस्⟫** | **⟪ब्रह्मणस्⟫** |
-| **⟪षष्ठी⟫** | **⟪आत्मनस्⟫** | **⟪ब्रह्मणस्⟫** |
-| **⟪सप्तमी⟫** | **⟪आत्मनि⟫** | **⟪ब्रह्मणि⟫** |
-| **⟪बहुवचनम्⟫** | | |
-| **⟪प्रथमा⟫** | **⟪आत्मानस्⟫** | **⟪ब्रह्माणि⟫** |
-| **⟪द्वितीया⟫** | **⟪आत्मनस्⟫** | **⟪ब्रह्माणि⟫** |
-| **⟪तृतीया⟫** | **⟪आत्मभिस्⟫** | **⟪ब्रह्मभिस्⟫** |
-| **⟪चतुर्थी⟫** | **⟪आत्मभ्यस्⟫** | **⟪ब्रह्मभ्यस्⟫** |
-| **⟪पञ्चमी⟫** | **⟪आत्मभ्यस्⟫** | **⟪ब्रह्मभ्यस्⟫** |
-| **⟪षष्ठी⟫** | **⟪आत्मनाम्⟫** | **⟪ब्रह्मणाम्⟫** |
-| **⟪सप्तमी⟫** | **⟪आत्मसु⟫** | **⟪ब्रह्मसु⟫** |
+| ⟪एकवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪आत्मा⟫ | ⟪ब्रह्म⟫ |
+| ⟪द्वितीया⟫ | ⟪आत्मानम्⟫ | ⟪ब्रह्म⟫ |
+| ⟪तृतीया⟫ | ⟪आत्मना⟫ | ⟪ब्रह्मणा⟫ |
+| ⟪चतुर्थी⟫ | ⟪आत्मने⟫ | ⟪ब्रह्मणे⟫ |
+| ⟪पञ्चमी⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्मणस्⟫ |
+| ⟪षष्ठी⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्मणस्⟫ |
+| ⟪सप्तमी⟫ | ⟪आत्मनि⟫ | ⟪ब्रह्मणि⟫ |
+| ⟪बहुवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪आत्मानस्⟫ | ⟪ब्रह्माणि⟫ |
+| ⟪द्वितीया⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्माणि⟫ |
+| ⟪तृतीया⟫ | ⟪आत्मभिस्⟫ | ⟪ब्रह्मभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪आत्मभ्यस्⟫ | ⟪ब्रह्मभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪आत्मभ्यस्⟫ | ⟪ब्रह्मभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪आत्मनाम्⟫ | ⟪ब्रह्मणाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ |
 
-::::
+:::
 ### 38.3.3. Masculins et neutres en -in, -min, -vin
 
-:::grammar-box
-Ces noms n’ont **aucune** ablaut.
+::: grammar-box
+Ces noms **n'ont pas** de gradation de racine.
 
 Le nominatif singulier masculin et le nominatif-accusatif pluriel neutre sont formés par analogie avec les racines en -an (allongement du -i-), de même que la racine en **\-i-** devant une terminaison consonantique.
 
@@ -154,33 +155,33 @@ Le féminin est formé avec le suffixe -ī : par ex. ⟪बलिनी⟫
 :::
 Exemple :
 
-⟪बलिन्⟫ m.n. « fort, puissant (marqué par un ⟪बल⟫ particulier, ⟪बल⟫ possédant) »
+⟪बलिन्⟫ m.n. «fort, puissant (marqué par un ⟪बल⟫ particulier, ⟪बल⟫ possédant)»
 
-::::grammar-box
+::: grammar-box
 
-| | **⟪पुंस्⟫** | **⟪नपुंसकम्⟫** |
+| | ⟪पुंस्⟫ | ⟪नपुंसकम्⟫ |
 | :--- | :---: | :---: |
-| **⟪एकवचनम्⟫** | | |
-| **⟪प्रथमा⟫** | **⟪बली⟫** | **⟪बलि⟫** |
-| **⟪द्वितीया⟫** | **⟪बलिनम्⟫** | **⟪बलि⟫** |
-| **⟪तृतीया⟫** | **⟪बलिना⟫**||
-| **⟪चतुर्थी⟫** | **⟪बलिने⟫**||
-| **⟪पञ्चमी⟫** | **⟪बलिनस्⟫**||
-| **⟪षष्ठी⟫** | **⟪बलिनस्⟫**||
-| **⟪सप्तमी⟫** | **⟪बलिनि⟫**||
-| **⟪बहुवचनम्⟫** | | |
-| **⟪प्रथमा⟫** | **⟪बलिनस्⟫** | **⟪बलीनि⟫** |
-| **⟪द्वितीया⟫** | **⟪बलिनस्⟫** | **⟪बलीनि⟫** |
-| **⟪तृतीया⟫** | **⟪बलिभिस्⟫**||
-| **⟪चतुर्थी⟫** | **⟪बलिभ्यस्⟫**||
-| **⟪पञ्चमी⟫** | **⟪बलिभ्यस्⟫**||
-| **⟪षष्ठी⟫** | **⟪बलिनाम्⟫**||
-| **⟪सप्तमी⟫** | **⟪बलिषु⟫**||
+| ⟪एकवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪बली⟫ | ⟪बलि⟫ |
+| ⟪द्वितीया⟫ | ⟪बलिनम्⟫ | ⟪बलि⟫ |
+| ⟪तृतीया⟫ | ⟪बलिना⟫ ||
+| ⟪चतुर्थी⟫ | ⟪बलिने⟫ ||
+| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫ ||
+| ⟪षष्ठी⟫ | ⟪बलिनस्⟫ ||
+| ⟪सप्तमी⟫ | ⟪बलिनि⟫ ||
+| ⟪बहुवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
+| ⟪द्वितीया⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
+| ⟪तृतीया⟫ | ⟪बलिभिस्⟫ ||
+| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫ ||
+| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫ ||
+| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫ ||
+| ⟪सप्तमी⟫ | ⟪बलिषु⟫ ||
 
-::::
-## 38.4. Sur la formation nominale : suffixe ⟪तद्धित⟫ -in
+:::
+## 38.4. Zur Nominalbildung: ⟪तद्धित⟫-Suffix -in
 
-:::grammar-box
+::: grammar-box
 Avec le suffixe (très important !) ⟪तद्धित⟫ **-in**, on forme des adjectifs à partir de substantifs, avec le sens de :
 
 **marqué par, possédant**
@@ -191,27 +192,29 @@ Exemple :
 
 ⟪हस्तिन्⟫ m. : celui qui est marqué par une main particulière = l'éléphant (sa main n'est pas une main ordinaire, mais une trompe)
 
-:::media
+::: media
 ![](/images/lekt3806.webp)
 Fig. : ⟪हस्ती⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3806))
 :::
 ⟪हस्तवन्त्⟫ : celui qui a des mains (humaines)
 
-:::media
+::: media
 ![](/images/lekt3807.webp)
 Fig. : ⟪हस्तवान्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3807))
-::::::grammar-box
+:::
+
+::: grammar-box
 Les adjectifs en **-⟪इन्⟫** sont volontiers formés en composés.
 :::
 Exemple :
 
 ⟪सत्यवादिन्⟫ de ⟪सत्यवाद⟫ m. "parole de vérité" : "celui qui est marqué par la parole de vérité = celui qui dit toujours la vérité"
 
-## 38.5. Syntax zu ⟪नामन्⟫
+## 38.5. Syntaktisches zu ⟪नामन्⟫
 
-:::grammar-box
+::: grammar-box
 Pour exprimer « quelqu’un nommé N. N. », on construit :
 
 **N.N. (au nominatif) ⟪नाम⟫**
@@ -220,78 +223,80 @@ Littéralement : « le nom est/était N.N. ». Il s’agit donc d’une proposit
 :::
 Exemple :
 
-:::indent
+::: indent
 ⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ « Il était une fois un roi **nommé Nala**, le puissant fils de Vīrasena. »
 :::
 Bien sûr, on peut exprimer la même idée avec un ⟪बहुव्रीहि⟫ :
 
-:::indent
+::: indent
 ⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ « un homme dont le nom est Devadatta »
 
 ⟪मदयन्तिकानाम्नी⟫ ⟪बाला⟫ « une fille dont le nom est Madayantika »
-::::::media
+:::
+::: media
 ![](/images/lekt3808.jpg)
 Fig. : ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
 (Source de l’image : [Détails](/fr/licenses#lekt3808))
 :::
-## 38.6. Syntax concernant ⟪आत्मन्⟫
+## 38.6. Syntaktisches zu ⟪आत्मन्⟫
 
-:::grammar-box
+::: grammar-box
 **⟪आत्मन्⟫** **masculin** peut être utilisé au **singulier** comme pronom réfléchi (pronom réfléchi) pour les trois genres, nombres (y compris le duel et le pluriel) et personnes.
 :::
 Exemples :
 
-:::indent
+::: indent
 ⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ « Elle ne voit aucun défaut en elle-même »
 
 ⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ « Ils se glorifient eux-mêmes »
-::::::grammar-box
+:::
+::: grammar-box
 Le génitif (⟪षष्ठी⟫) **⟪आत्मनस्⟫** peut donc signifier « mon/ton/sien/... propre »
 :::
 Exemple :
 
-:::indent
+::: indent
 ⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ « Il entre dans sa propre maison. »
 :::
-## 38.7. Les stems consonantiques à la fin en tant que premiers membres de composés
+## 38.7. Les stems consonantiques à la fin en tant que premier membre des composés
 
-:::grammar-box
+::: grammar-box
 Les stems qui se terminent par une consonne apparaissent comme premier membre d'un composé sous la forme du stem (faible) qu'ils prennent avant la terminaison -su du locatif (⟪सप्तमी⟫) pluriel.
 :::
 Exemple :
 
-:::indent
+::: indent
 ***⟪राज⟫***⟪पुत्र⟫ « fils de roi »
 :::
-## 38.8. Les souches en -an en tant que second élément d'un ⟪बहुव्रीहि⟫
+## 38.8. Suffixes en -an comme second élément d'un ⟪बहुव्रीहि⟫
 
-:::grammar-box
+::: grammar-box
 En tant que second élément d'un ⟪बहुव्रीहि⟫, une souche en -an peut être utilisée pour les trois genres. Cependant, le féminin est généralement formé avec le suffixe -ī à partir de la forme faible du masculin.
 :::
 Exemple :
 
-:::indent
+::: indent
 ⟪दुर्णाम्नी⟫ « une dont le nom est mauvais ; déesse de la maladie »
 :::
-## 38.9. Liste de mots
+## 38.9. Wortliste
 
 ⟪सूर्य⟫ m. : Soleil, dieu-soleil Sūrya
 
-:::media
+::: media
 ![](/images/lekt3802.webp)
 Fig. : ⟪सूर्यः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3802))
 :::
 ⟪उदक⟫ n. : Eau
 
-:::media
+::: media
 ![](/images/lekt3805.webp)
 Fig. : ⟪उदकम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3805))
 :::
 ⟪वा⟫ 2P ⟪वाति⟫ : souffler, faire souffler
 
-:::indent
+::: indent
 Fut. ⟪वास्यति⟫
 Perf. IV ⟪ववौ⟫
 Pass. ⟪वायते⟫
@@ -305,20 +310,21 @@ dont :
 :::
 ⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : souffler, disperser, s'éteindre
 
-:::indent
+::: indent
 dont :
 
 ⟪निर्वाण⟫ n. : Éteignement, Nirvāṇa
 
 ⟪परिनिर्वाण⟫ n. : Éteignement parfait, libération parfaite (à la mort d'un Bouddha ou d'un Arhat)
-::::::media
+:::
+::: media
 ![](/images/lekt3804.webp)
 Fig. : ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3804))
 :::
 ⟪मिह्⟫ 1P ⟪मेहति⟫ : uriner, pisser, éjaculer
 
-:::indent
+::: indent
 Fut. ⟪मेक्ष्यति⟫
 Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
 Pass. ⟪मिह्यते⟫
@@ -333,7 +339,7 @@ dont :
 
 ⟪राजन्⟫ m. : Roi (sur la royauté en Inde, voir Basham, Wonder pp. 82-94). En tant que dernier élément d'un composé (surtout ⟪तत्पुरुष⟫) : généralement -⟪राज⟫ m. (comme ⟪देव⟫)
 
-:::indent
+::: indent
 Féminin :
 
 ⟪राज्ञी⟫ f. : Reine, épouse d'un roi
@@ -352,28 +358,28 @@ de ⟪राज⟫ :
 
 ⟪ब्रह्मन्⟫ m. : le dieu créateur pensé personnellement Brahmā
 
-:::media
+::: media
 ![](/images/lekt3809.webp)
 Fig. : ⟪ब्रह्मा⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3809))
 :::
 ⟪कर्मन्⟫ n. : à ⟪कृ⟫ 8U : action, acte, œuvre ; œuvre sacrée, action sacrificielle ; Karma : l'action passée qui apporte plus tard ses fruits (par exemple dans la réincarnation) 
 
-:::indent
+::: indent
 ⟪कर्मविपाक⟫ m. : Mûrissement des actions = les conséquences bonnes et mauvaises des actions dans les existations passées (à ⟪वि⟫-⟪पच्⟫)
 :::
 ⟪हस्तिन्⟫ m. : Éléphant (_Elephas maximus_)
 
 ⟪मनु⟫ m. : Être humain, homme ; nom du père de l'espèce humaine (à ⟪मन्⟫ 4Ā)
 
-:::indent
+::: indent
 dont :
 
 ⟪मनुष्य⟫ m. : Être humain
 :::
 ⟪शुच्⟫ 1P ⟪शोचति⟫ : (flamber, briller) ; pleurer, déplorer
 
-:::indent
+::: indent
 Perf. II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
 Fut. ⟪शोचिष्यति⟫
 Pass. ⟪शुच्यते⟫
@@ -388,16 +394,19 @@ dont :
 ⟪शोक⟫ m. : Chagrin, tristesse
 
 ⟪अशोक⟫ 3 : exempt de chagrin ; arbre Ashoka = _Saraca asoca_ (Roxb.) Wilde ; nom de l'empereur Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (env. 304 – 232 av. J.-C.)
-::::::media
+:::
+::: media
 ![](/images/lekt3810.webp)
 Fig. : ⟪अशोकवृक्षः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3810))
-::::::media
+:::
+
+::: media
 ![](/images/lekt3811.webp)
 Fig. : ⟪अशोकसाम्राज्यम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3811))
 :::
-## 38.10. Exercice
+## 38.10. Übung
 
 A) Conjuguez les formes appropriées des mots entre parenthèses dans les phrases suivantes et traduisez :
 
@@ -431,20 +440,20 @@ A) Conjuguez les formes appropriées des mots entre parenthèses dans les phrase
 
 ... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫)
 
-## 38.11. Liste de mots pour l'exercice de traduction
+## 38.11. Wortliste zur Übersetzungsübung
 
 ⟪प्राय⟫ m. : l'essentiel, Instr. ⟪प्रायेण⟫ : le plus souvent, habituellement (à ⟪प्र⟫-⟪इ⟫)
 
 ⟪विनोद⟫ m. : passe-temps, divertissement, plaisir
 
-:::media
+::: media
 ![](/images/lekt3812.webp)
 Fig. : ⟪विनोदः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3812))
 :::
 ⟪अट्⟫ 1P ⟪अटति⟫ : errer, vagabonder
 
-:::indent
+::: indent
 Parf. I ⟪आट⟫, ⟪आटुः⟫
 Fut. ⟪अटिष्यति⟫
 Caus. ⟪आटयति⟫
@@ -453,7 +462,7 @@ Caus. ⟪आटयति⟫
 
 ⟪तॄ⟫ 1P ⟪तरति⟫ : traverser, se sauver de (Acc.)
 
-:::indent
+::: indent
 Parf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
 Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫
 Pass. ⟪तीर्यते⟫
@@ -465,7 +474,7 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 
 ⟪तीर⟫ n. : rive
 
-:::media
+::: media
 ![](/images/lekt3813.webp)
 Fig. : ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3813))
@@ -474,21 +483,22 @@ Fig. : ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
 
 ⟪गण्⟫ 10P ⟪गणयति⟫ : compter
 
-:::indent
+::: indent
 Parf. ⟪गणयां⟫ ⟪चकार⟫
 Fut. ⟪गणयिष्यति⟫
 Pass. ⟪गण्यते⟫
 PPP ⟪गणित⟫
 Absol. -⟪गणय्य⟫
 Inf. ⟪गणयितुम्⟫
-::::::media
+:::
+::: media
 ![](/images/lekt3814.webp)
 Fig. : ⟪गणयां⟫ ⟪चक्रुः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3814))
 :::
 ⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : crier, se lamenter
 
-:::indent
+::: indent
 Parf. II ⟪चुक्रोश⟫
 Fut. ⟪क्रोक्ष्यति⟫
 Pass. ⟪क्रुश्यते⟫
@@ -501,7 +511,7 @@ PPP ⟪क्रुष्ट⟫
 
 ⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : sombrer, plonger
 
-:::indent
+::: indent
 PPP ⟪ममज्ज⟫
 Fut. ⟪मङ्क्ष्यति⟫
 Caus. ⟪मज्जयति⟫
@@ -518,7 +528,7 @@ Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
 
 ⟪हस्⟫ 1P ⟪हसति⟫ : rire
 
-:::indent
+::: indent
 Parf. Vc ⟪जहास⟫, ⟪जहसुर्⟫
 Fut. ⟪हसिष्यति⟫
 Pass. ⟪हस्यते⟫
@@ -527,7 +537,7 @@ PPP ⟪हसित⟫
 :::
 ⟪सृ⟫ 1P ⟪सरति⟫ : courir
 
-:::indent
+::: indent
 Parf. ⟪ससार⟫, ⟪सस्रुर्⟫
 Fut. ⟪सरिष्यति⟫
 Pass. ⟪स्रियते⟫
@@ -541,13 +551,13 @@ Inf. ⟪सर्तुम्⟫
 
 ⟪अधस्⟫ Adv. : vers le bas
 
-## 38.12. Exercice de traduction
+## 38.12. Übersetzungsübung
 
-***⟪दश⟫*** ⟪मूढाः⟫
+*⟪दश⟫* ⟪मूढाः⟫
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ ***⟪बाहुभ्यां⟫*** ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ *⟪बाहुभ्यां⟫* ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ ***⟪सर्वे⟫*** ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ ***⟪जिज्ञासमान⟫***⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ ***⟪नवै⟫***⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ ***⟪वयम्⟫*** ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ ***⟪स्मः⟫*** ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ ***⟪गवेषयत⟫*** ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫***⟪मेकैको⟫*** ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ ***⟪समजनि⟫*** ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫***⟪स्तरसा⟫*** ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ ***⟪यूयम्⟫*** ⟪।⟫ ***⟪युष्माकमे⟫***⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ *⟪सर्वे⟫* ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ *⟪जिज्ञासमान⟫*⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ *⟪नवै⟫*⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ *⟪वयम्⟫* ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ *⟪स्मः⟫* ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ *⟪गवेषयत⟫* ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫*⟪मेकैको⟫* ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ *⟪समजनि⟫* ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫*⟪स्तरसा⟫* ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ *⟪यूयम्⟫* ⟪।⟫ *⟪युष्माकमे⟫*⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
 Explications :
 
@@ -565,8 +575,6 @@ Explications :
 
 ⟪स्मस्⟫ 1.pl.Ind.Présent.P de ⟪अस्⟫ 2P
 
-⟪अस्⟫ 2.pl.Impératif P
-
 ⟪गवेषयत⟫ "chaque individuellement"
 
 ⟪एकैक⟫ 3.sg.Passif Aoriste de ⟪समजनि⟫
@@ -575,23 +583,24 @@ Explications :
 
 ⟪तरस्⟫ Nom.pl. "vous"
 
+⟪यूयम्⟩ Nom.pl. « eux »
+
 ⟪यूयम्⟫ Gen.pl. de ⟪युष्माकम्⟫
 
-:::deleteme-box
+::: deleteme-box
 
-- **lekt3801.jpg** : Fig. : ... ⟪यूयम्⟫ ⟪प्रज्ञा⟫ ⟪नश्यति⟫ Bangalore = ಬೆಂಗಳೂರು \[Source de l'image : mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Consulté le 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale)\]
+- **lekt3801.jpg** : Fig. : ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  Bangalore = ಬೆಂಗಳೂರು \[Source de l'image : mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Consulté le 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale)\]
 - **lekt3802.jpg** : Fig. : ⟪मेहतः⟫  ⟪सूर्यः⟫ ⟪सूर्य⟫, Konark = ⟪मंदिर⟫ \[Source de l'image : PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Consulté le 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale)\]
 - **lekt3803.jpg** : Fig. : ⟪कोनार्क⟫  Point de passage entre l'Inde et le Pakistan à Wagah (⟪सीमा⟫ / واہگہ / ਵਾਘਾ) \[Source de l'image : Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Consulté le 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique)\]
 - **lekt3804.jpg** : Fig. : ⟪वाघा⟫ ⟪गौतमबुद्धस्य⟫  Gandhara, 2e/3e siècle apr. J.-C. \[Source de l'image : Wikipedia. Domaine public\]
+- **lekt3805.jpg** : Fig. : ⟪उदकम्⟫  Village de Darewadi, district d'Ahmed Nagar = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Source de l'image : Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Consulté le 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique)\]
 - **lekt3805.jpg** : Fig. : ⟪महापरिनिर्वाणम्⟫  Village de Darewadi, district d'Ahmed Nagar = ⟪उदकम्⟫, ⟪अहमदनगर⟫ \[Source de l'image : Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Consulté le 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique)\]
-- **lekt3806.jpg** : Fig. : ⟪महाराष्ट्र⟫  Parc national de Nagarhole = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Source de l'image : gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Consulté le 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique)\]
 - **lekt3807.jpg** : Fig. : ⟪हस्ती⟫  ⟪हस्तवान्⟫ \[Source de l'image : brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Consulté le 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de modification)\]
 - **lekt3808.jpg** : Fig. : ⟪जयपुर⟫ ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫  Années 1930 \[Source de l'image : Wikipedia. Domaine public\]
 - **lekt3809.jpg** : Fig. : ⟪नाम⟫  Halebidu = ಹಳೆಬೀಡು \[Source de l'image : Wikipedia. Licence GNU FDL\]
-- **lekt3810.jpg** : Fig. : Arbre d'Aśoka = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাত⟪ा⟫ \[Source de l'image : J.M.Garg / Wikipedia. Licence GNU FDL\]
-- **lekt3811.jpg** : Fig. : Plus grande extension de l'empire d'Aśoka ainsi que lieux de découverte de ses édits sur pierre et sur colonne \[Source de l'image : Wikipedia.Licence GNU FDL\]
 - **lekt3812.jpg** : Fig. : ⟪ब्रह्मा⟫  Jeu de carrom \[Source de l'image : nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Consulté le 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale, partage à l'identique)\]
+- **lekt3810.jpg** : Fig. : Arbre d'Aśoka = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাত⟪ा⟫ \[Source de l'image : J.M.Garg / Wikipedia. Licence GNU FDL\]
 - **lekt3813.jpg** : Fig. : ⟪विनोदः⟫ ⟪वाराणस्यां⟫ \[Source de l'image : nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Consulté le 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale)\]
 - **lekt3814.jpg** : Fig. : ⟪गङ्गातीरे⟫ ⟪गणयां⟫  ⟪चक्रुः⟫ ⟪करणी⟫ ⟪माता⟫, ⟪मंदिर⟫ \[Source de l'image : neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Consulté le 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de modification)\]
-
+- **lekt3811.jpg** : Fig. : Plus grande extension de l'empire d'Aśoka ainsi que lieux de découverte de ses édits sur pierre et sur colonne \[Source de l'image : Wikipedia.Licence GNU FDL\]
 :::

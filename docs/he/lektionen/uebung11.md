@@ -19,11 +19,11 @@ A) תרגמו את המשפטים להלן
 ⟪३⟩. ⟪साधुः⟩ ⟪स्वर्गं⟩ ⟪गच्छति⟩ ⟪।⟩
 קדוש בא לשמיים.
 
-⟪४⟩. ⟪ब्राह्मणो⟩ ⟪ऽनृतं⟩ ⟪न⟩ ⟪वदतीति⟩ ⟪स्मृतिः⟩ ⟪।⟩
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+[0] ⟪४⟩. ⟪ब्राह्मणो⟩ ⟪ऽनृतं⟩ ⟪न⟩ ⟪वदतीति⟩ ⟪स्मृतिः⟩ ⟪।⟩
+[1] Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
 
 ⟪५⟩. ⟪क्षत्रियो⟩ ⟪ब्राह्मणं⟩ ⟪धर्मं⟩ ⟪पृच्छति⟩ ⟪।⟩
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+[4] Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
 
 ⟪६⟩. ⟪एवं⟩ ⟪ब्राह्मणो⟩ ⟪यज्ञेन⟩ ⟪देवं⟩ ⟪यजति⟩ ⟪।⟩
 כך מביא הברמן קורבן לאל.
@@ -124,7 +124,7 @@ D) צרו את בניית הסביל עבור המשפטים שנוצרו לפי
 
 ⟪१२⟫. ⟪तैः⟫ ⟪श्रावकैर्बुद्धो⟫ ⟪धर्मं⟫ ⟪प्र्च्छ्यते⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung022.webp)
 תמונה: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 (מקור התמונה: [פרטים](/licenses#uebung022))
@@ -229,7 +229,7 @@ Itarā ist eine Śūdrafrau.
 
 ⟪५⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदति⟫ ⟪॥⟫
 
-:::media
+::: media
 ![](/images/uebung021.webp)
 תמונה: ⟪फलान्यश्नुते⟫
 (מקור התמונה: [פרטים](/licenses#uebung021))

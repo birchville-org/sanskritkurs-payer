@@ -1,112 +1,111 @@
 ---
-title: Lektion 4
-subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
+title: 第4课
+subtitle: "主格中的疑问代词和指示代词"
 lesson_id: 4
 last_reconstructed: 2026-05-07
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 4
 
-:::deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Fragepronomina und Demonstrativpronomina im Nominativ <!-- TODO: Fallback translation -->
-- Sandhi von auslautendem -m <!-- TODO: Fallback translation -->
-- Sandhi von auslautendem -e <!-- TODO: Fallback translation -->
-- Sandhi von auslautendem -d <!-- TODO: Fallback translation -->
-- Einfache Frageformeln <!-- TODO: Fallback translation -->
+::: deleteme-box
+**在本课中，您将学习：**
+- 主格中的疑问代词和指示代词
+- 词尾 -m 的连音（Sandhi）
+- 词尾 -e 的连音（Sanddi）
+- 词尾 -d 的连音（Sandhi）
+- 简单的疑问句式
 :::
-## 4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
+## 4.1. 简单的补充问句（词问句）与回答
 
 ### 4.1.1. Fragepronomina und Demonstrativpronomina
 
-#### 4.1.1.1. Fragepronomen (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫) <!-- TODO: Fallback translation -->
+#### 4.1.1.1. Fragepronomen (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
-:::grammar-box
-| | Nominativ singular | Nominativ plural | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Neutrum** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** | <!-- TODO: Fallback translation -->
-| **Maskulinum** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** | <!-- TODO: Fallback translation -->
-| **Feminimum** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | 单数主格 | 复数主格 |
+| :--- | :--- | :--- |
+| **中性** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
+| **阳性** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
+| **阴性** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
 :::
-#### 4.1.1.2. Demonstrativpronomina (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫) <!-- TODO: Fallback translation -->
+#### 4.1.1.2. 指示代词（nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫）
 
-:::grammar-box
-| **Stämme** |||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** | <!-- TODO: Fallback translation -->
-| **Nominativ singular** |||| <!-- TODO: Fallback translation -->
-| **Neutrum** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** | <!-- TODO: Fallback translation -->
-| **Maskulinum** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** | <!-- TODO: Fallback translation -->
-| **Femininum** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** | <!-- TODO: Fallback translation -->
-| **Nominativ plural** |||| <!-- TODO: Fallback translation -->
-| **Neutrum** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** | <!-- TODO: Fallback translation -->
-| **Maskulinum** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** | <!-- TODO: Fallback translation -->
-| **Femininum** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** | <!-- TODO: Fallback translation -->
+::: grammar-box
+| **部落** ||||
+| :--- | :---: | :---: | :---: |
+| | **tad = ⟪तद्⟩:br“他、她、它；那个、那个、那个”：br（提及者）** | **etad = ⟪एतद्⟩:br“这个、这个、这个”：br（离说话者非常近）** | **idam = ⟪इदम्⟩:br“这个、这个、这个”：br（较近）** |
+| **主格 单数** ||||
+| **中性** | **tad = ⟪तद्⟩** | **etad = ⟪एतद्⟩** | **idam = ⟪इदम्⟩** |
+| **阳性** | **sa, so saḥ = ⟪स⟩ ⟪सो⟩ ⟪सः⟩** | **eṣa, eṣo, eṣaḥ = ⟪एष⟩ ⟪एषो⟩ ⟪एषः⟩** | **ayam = ⟪अयम्⟩** |
+| **阴性** | **sā = ⟪सा⟩** | **eṣā = ⟪एषा⟩** | **iyam = ⟪इयम्⟩** |
+| **主格 复数** ||||
+| **中性** | **tāni = ⟪तानि⟩** | **etāni = ⟪एतानि⟩** | **imāni = ⟪इमानि⟩** |
+| **阳性** | **te = ⟪ते⟩** | **ete = ⟪एते⟩** | **ime = ⟪इमे⟩** |
+| **阴性** | **tās = ⟪तास्⟩** | **etās = ⟪एतास्⟩** | **imās ⟪इमास्⟩** |
 :::
-**Zum Nom. sg. mask.:** <!-- TODO: Fallback translation -->
-- **sa, eṣa** (⟪स⟫ ⟪एष⟫) steht vor allen Lauten außer kurzem **-a** <!-- TODO: Fallback translation -->
-- **so, eṣo** (⟪सो⟫ ⟪एषो⟫) steht vor **-a**, welches mit Avagraha elidiert (ausfällt) <!-- TODO: Fallback translation -->
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) steht nur in Pausa (Satzende, Versende) <!-- TODO: Fallback translation -->
+**关于主格 单数 阳性：**
+- **sa, eṣa** (⟪स⟩ ⟪एष⟩) 出现在除短 **-a** 之外的所有音素之前
+- **so, eṣo** (⟪सो⟩ ⟪एषो⟩) 出现在 **-a** 之前，该 **-a** 通过阿格拉哈（Avagraha）被省略（脱落）
+- **saḥ, eṣaḥ** (⟪सः⟩ ⟪एषः⟩) 仅出现在停顿处（句末、诗行末）
 
-Um mit diesen Pronomina (sarvanāman n.) Sätze bilden zu können, ist noch die Kenntnis folgender Sandhiregeln nötig: <!-- TODO: Fallback translation -->
+为了能够使用这些代词（sarvanāman n.）构造句子，还需要了解以下连音规则：
 
 ### 4.1.2. Sandhi von auslautendem -m
 
-:::grammar-box
-**Auslautendes -m wird vor Konsonanten durch Anusvāra (-ṃ) ersetzt. Am Satz- bzw. Versende und vor Vokalen bleibt -m erhalten.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**词尾的 -m 在辅音前被鼻化音符号（Anusvāra，-ṃ）取代。在句子或诗行末尾以及元音前，-m 保持不变。**
 :::
-### 4.1.3. Sandhi von auslautendem -e
+### 4.1.3. 词尾 -e 的连声
 
-:::grammar-box
-1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:** <!-- TODO: Fallback translation -->
-   z.B. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Diese Feuer" <!-- TODO: Fallback translation -->
+::: grammar-box
+1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:**
+   z.B. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Diese Feuer"
 
-2. **Vor anderen Vokalen als kurzem a- wird -e gewöhnlich durch -a mit Hiatus ersetzt. Auch die Ersetzung durch -ay kommt vor:** <!-- TODO: Fallback translation -->
-   z.B. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (selten: imay īśvarāh = ⟪इमयीश्वराः⟫) "Diese HERREN" <!-- TODO: Fallback translation -->
+2. **Vor anderen Vokalen als kurzem a- wird -e gewöhnlich durch -a mit Hiatus ersetzt. Auch die Ersetzung durch -ay kommt vor:**
+   z.B. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (selten: imay īśvarāh = ⟪इमयीश्वराः⟫) "Diese HERREN"
 :::
 ### 4.1.4. Sandhi von auslautendem -d
 
-:::grammar-box
-**Auslautendes -d wird in Pausa sowie vor stimmlosen Gutturalen (k, kh) und Labialen (p, ph) durch -t ersetzt.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**词尾的 -d 在停顿以及清软腭音（k, kh）和清唇音（p, ph）前替换为 -t。**
 
-Die Ersetzung vor anderen Konsonanten wird später besprochen. Vermeiden Sie vorläufig solche Lautzusammenstöße! <!-- TODO: Fallback translation -->
+在其他辅音之前的替换将在后面讨论。暂时避免此类语音碰撞！
 :::
-### 4.1.5. Frageformeln
+### 4.1.5. 疑问句式
 
-Mittels dieser Pronomina bildet man z.B. folgende Frageformeln: <!-- TODO: Fallback translation -->
+通过这些代词，可以构成如下疑问句：
 
-::::grammar-box
-:::no-header
-| | | | | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Singular** | **Neutrum** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "Was ist das?" | <!-- TODO: Fallback translation -->
-| | **Maskulinum** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Wer ist das?":br"Was ist der?" | <!-- TODO: Fallback translation -->
-| | **Femininum** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Wer ist das?":br"Wer ist die?" | <!-- TODO: Fallback translation -->
-| **Plural** | **Neutrum** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | | <!-- TODO: Fallback translation -->
-| | **Maskulinum** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | | <!-- TODO: Fallback translation -->
-| | **Femininum** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | | <!-- TODO: Fallback translation -->
-::::::
-Ein Beispiel anderer Fragen: <!-- TODO: Fallback translation -->
+::: no-header
+| | | | |
+| :--- | :--- | :--- | :--- |
+| **单数** | **中性** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | “那是什么？” |
+| | **阳性** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | “那是谁？”：br“那是谁（阳性）？” |
+| | **阴性** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | “那是谁？”：br“那是谁（阴性）？” |
+| **复数** | **中性** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
+| | **阳性** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
+| | **阴性** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
+:::
+另一个疑问句的例子：
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Antwort: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Hier kann man im Nominalsatz das Subjekt z.B. an den Anfang stellen, um den Anschluss an die Frage zu betonen.) <!-- TODO: Fallback translation -->
+> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ 答：viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫。（在此，名词句中可将主语置于句首，例如，以强调与问题的衔接。）
 
-ANMERKUNG: Die Antworten, die Sie mit Ihren bisherigen Sanskritkenntnissen auf solche Fragen geben können, entsprechen selbstverständlich noch nicht in jeder Hinsicht idiomatisch gutem Sanskrit. <!-- TODO: Fallback translation -->
+注：您目前凭借所学梵语知识对这类问题给出的回答，自然尚未在各方面都符合地道的梵语表达。
 
 ---
 
 ## 4.2. Übung
 
-**A) Bilden Sie mündlich mit folgenden Wörtern Fragen nach dem Schema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) und beantworten Sie die Fragen auf Sanskrit:** <!-- TODO: Fallback translation -->
+**A) 口头练习：根据 viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟩) 的模式，用以下词语提问，并用梵语回答这些问题：**
 
-śruti, śiva, brāhmaṇa, dvija (Plural), indrāṇī, dhenu, tulādhara, kālidāsa <!-- TODO: Fallback translation -->
+śruti, śiva, brāhmaṇa, dvija (复数), indrāṇī, dhenu, tulādhara, kālidāsa
 
-= ⟪श्रुति⟫, ⟪शिव⟫, ⟪ब्राह्मण⟫, ⟪द्विज⟫ (⟪बहुवचनम्⟫), ⟪इन्द्राणी⟫, ⟪धेनु⟫, ⟪तुलाधर⟫, ⟪कालिदास⟫ <!-- TODO: Fallback translation -->
+= ⟪श्रुति⟫, ⟪⟪शिव⟫, ⟪ब्राह्मण⟫, ⟪द्विज⟫ (⟪बहुवचनम्⟫), ⟪इन्द्राणी⟫, ⟪धेनु⟫, ⟪तुलाधर⟫, ⟪कालिदास⟫
 
-**B) Bilden Sie zur folgenden Leseübung Fragen nach dem Muster etat kim (⟪एतत्किम्⟫) und beantworten Sie die Fragen mit den angegebenen Wörtern und Demonstrativpronomen z.B. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):** <!-- TODO: Fallback translation -->
+**B) 根据以下阅读练习，按照 etat kim (⟪एतत्किम्⟫) 的模式提出问题，并使用指定的词语和指示代词（例如 eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫)）回答问题：**
 
-:::media
+::: media
 ![](/images/lekt0401.webp)
-(Bildquelle: [Details](/licenses#lekt0401)) <!-- TODO: Fallback translation -->
+(图片来源：[详细信息](/zh-CN/licenses#lekt0401))
 :::

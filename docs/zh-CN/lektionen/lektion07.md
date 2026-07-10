@@ -1,311 +1,311 @@
 ---
-title: Lektion 7
-subtitle: "Den Verbalsatz mit direktem Objekt"
+title: 第7课
+subtitle: "带直接宾语的动词句"
 lesson_id: 7
 last_reconstructed: 2026-05-07
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 7
 
-:::deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Den Verbalsatz mit direktem Objekt <!-- TODO: Fallback translation -->
-- Den Akkusativ der Nomina und Pronomina <!-- TODO: Fallback translation -->
-- Den Sandhi von auslautendem -n <!-- TODO: Fallback translation -->
-- Das Neutrum der a-Stämme <!-- TODO: Fallback translation -->
-- Die athematischen Präsensklassen (am Beispiel der 5. Klasse) <!-- TODO: Fallback translation -->
+::: deleteme-box
+**In dieser Lektion lernen Sie:**
+- Den Verbalsatz mit direktem Objekt
+- Den Akkusativ der Nomina und Pronomina
+- Den Sandhi von auslautendem -n
+- Das Neutrum der a-Stämme
+- Die athematischen Präsensklassen (am Beispiel der 5. Klasse)
 :::
 ## Wochenspruch
 
-:::
-center
+居中
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ |
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
-⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ || <!-- TODO: Fallback translation -->
+⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ||
 
 **dharmo jayati nādharmaḥ**
 **satyaṃ jayati nānṛtam |**
 **kṣamā jayati na krodho**
-**devo jayati nāsuraḥ ||** <!-- TODO: Fallback translation -->
+**devo jayati nāsuraḥ ||**
 
-Das Recht siegt, nicht das Unrecht,
-Die Wahrheit siegt, nicht die Unwahrheit,
-Nachsicht siegt, nicht Zorn,
-Gott siegt, nicht der Widergott. <!-- TODO: Fallback translation -->
-:::
+正义战胜不义，
+真理战胜虚妄，
+宽容战胜愤怒，
+神战胜伪神。
 ---
 
-## 7.1. Der Verbalsatz mit direktem Objekt
+## 7.1. 带直接宾语的动词句
 
-:::grammar-box
+::: grammar-box
 **Schema:**
-**(Agens = kartṛ m. = ⟪कर्तृ⟫) – direktes Objekt (karman n. = ⟪कर्मन्⟫) – Verb** <!-- TODO: Fallback translation -->
+**(Subjekt = kartṛ m. = ⟪कर्तृ⟫) – direktes Objekt (karman n. = ⟪कर्मन्⟫) – Verb**
 
-z.B. <!-- TODO: Fallback translation -->
-- **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma isst (kaut) eine Frucht." <!-- TODO: Fallback translation -->
-- **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Der Brahmane verehrt einen Gott mit einem Opfer (für jemand anderes)." <!-- TODO: Fallback translation -->
+例如：
+- **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫：“罗摩吃（啃）一个水果。”
+- **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫：“婆罗门以祭祀（为他人）供奉一位神。”
 :::
-Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**karman** n. = ⟪कर्मन्⟫) im Allgemeinen im **Akkusativ** (Wenfall, dvitīyā f. = ⟪द्वितीया⟫). <!-- TODO: Fallback translation -->
+如果动词是Parasmaipada（他称语态）或Ātmanepada（自称语态），那么直接宾语（**karman** n. = ⟪कर्मन्⟫）通常处于**第四格**（宾格，dvitīyā f. = ⟪द्वितीया⟫）。
 
 ---
 
 ## 7.2. Der Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
 
-:::grammar-box
-**Endung des Akkusativ Singular Maskulinum und Femininum nach Vokal: -m** <!-- TODO: Fallback translation -->
+::: grammar-box
+**词尾：阳性和阴性宾格单数，元音后为 -m**
 
-| Maskulina auf | Akkusativ Singular | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **-a**: deva | **devam** :br⟪देवम्⟫ | <!-- TODO: Fallback translation -->
-| **-i**: kavi | **kavim** :br⟪कविम्⟫ | <!-- TODO: Fallback translation -->
-| **-u**: guru | **gurum** :br⟪गुरुम्⟫ | <!-- TODO: Fallback translation -->
+| Maskulina auf | Akkusativ Singular |
+| :--- | :--- |
+| **-a**: deva | **devam** :br⟪देवम्⟫ |
+| **-i**: kavi | **kavim** :br⟪कविम्⟫ |
+| **-u**: guru | **gurum** :br⟪गुरुम्⟫ |
 
-| Feminina auf | Akkusativ Singular | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **-ā**: devatā | **devatām** :br⟪देवताम्⟫ | <!-- TODO: Fallback translation -->
-| **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ | <!-- TODO: Fallback translation -->
-| **-ī**: devī | **devīm** :br⟪देवीम्⟫ | <!-- TODO: Fallback translation -->
-| **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ | <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Akkusativ Plural Maskulinum der Stämme auf Vokal (Ausnahme: einsilbige Wurzelstämme auf langen Vokal): Längung des auslautenden Vokals + -n** <!-- TODO: Fallback translation -->
+| 阴性词干 | 宾格单数 |
+| :--- | :--- |
+| **-ā**: devatā | **devatām** :br⟪देवताम्⟫ |
+| **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ |
+| **-ī**: devī | **devīm** :br⟪देवीम्⟫ |
+| **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ |
+:::
+::: grammar-box
+**以元音结尾的词干的宾格复数（例外：以长元音结尾的单音节词根）：词尾元音延长 + -n**
 
-| Maskulina auf | Akkusativ Plural | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **-a**: deva | **devān** :br⟪देवान्⟫ | <!-- TODO: Fallback translation -->
-| **-i**: kavi | **kavīn** :br⟪कवीन्⟫ | <!-- TODO: Fallback translation -->
-| **-u**: guru | **gurūn** :br⟪गुरून्⟫ | <!-- TODO: Fallback translation -->
-::::::grammar-box
-**Akkusativ Plural Femininum der Stämme auf Vokal (Ausnahme: einsilbige Wurzelstämme auf langen Vokal): Längung des auslautenden Vokals + -s** <!-- TODO: Fallback translation -->
+| 阳性词尾为 | 宾格复数 |
+| :--- | :--- |
+| **-a**: deva | **devān** :br⟪देवान्⟫ |
+| **-i**: kavi | **kavīn** :br⟪कवीन्⟫ |
+| **-u**: guru | **gurūn** :br⟪गुरून्⟫ |
+:::
+::: grammar-box
+**元音结尾词干的宾格复数（阴性，例外：长元音结尾的单音节词根）：词尾元音延长并加 -s**
 
-| Feminina auf | Akkusativ Plural | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **-ā**: devatā | **devatās** :br⟪देवतास्⟫ | <!-- TODO: Fallback translation -->
-| **-i**: śruti | **śrutīs** :br⟪श्रुतीस्⟫ | <!-- TODO: Fallback translation -->
-| **-ī**: devī | **devīs** :br⟪देवीस्⟫ | <!-- TODO: Fallback translation -->
-| **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ | <!-- TODO: Fallback translation -->
+| Feminina auf | Akkusativ Plural |
+| :--- | :--- |
+| **-ā**: devatā | **devatās** :br⟪देवतास्⟫ |
+| **-i**: śruti | **śrutīs** :br⟪श्रुतीस्⟫ |
+| **-ī**: devī | **devīs** :br⟪देवीस्⟫ |
+| **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
 ---
 
 ### 7.2.1. Akkusativ Singular und Plural der Frage- und Demonstrativpronomina
 
-:::grammar-box
-| | | Maskulinum | Femininum | Neutrum | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **kim** :brwer/was | sg. | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ | <!-- TODO: Fallback translation -->
-| | pl. | **kān** :br⟪कान्⟫ | **kās** :br⟪कास्⟫ | **kāni** :br⟪कानि⟫ | <!-- TODO: Fallback translation -->
-| **tad** :brer/es/jenes | sg. | **tam** :br⟪तम्⟫ | **tām** :br⟪ताम्⟫ | **tad** :br⟪तद्⟫ | <!-- TODO: Fallback translation -->
-| | pl. | **tān** :br⟪तान्⟫ | **tās** :br⟪तास्⟫ | **tāni** :br⟪तानि⟫ | <!-- TODO: Fallback translation -->
-| **etad** :brdieses hier | sg. | **etam / enam** :br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām** :br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad** :br⟪एतद्⟫ / ⟪एनद्⟫ | <!-- TODO: Fallback translation -->
-| | pl. | **etān / enān** :br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās** :br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni** :br⟪एतानि⟫ / ⟪एनानि⟫ | <!-- TODO: Fallback translation -->
-| **idam** :brdieses | sg. | **imam / enam** :br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām** :br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad** :br⟪इदम्⟫ / ⟪एनद्⟫ | <!-- TODO: Fallback translation -->
-| | pl. | **imān / enān** :br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās** :br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni** :br⟪इमानि⟫ / ⟪एनानि⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | | 阳性 | 阴性 | 中性 |
+| :--- | :--- | :--- | :--- | :--- |
+| **kim** :br什么 | 单数 | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
+| | 复数 | **kān** :br⟪कान्⟫ | **kās** :br⟪कास्⟫ | **kāni** :br⟪कानि⟫ |
+| **tad** :br他/它/那个 | 单数 | **tam** :br⟪तम्⟫ | **tām** :br⟪ताम्⟫ | **tad** :br⟪तद्⟫ |
+| | 复数 | **tān** :br⟪तान्⟫ | **tās** :br⟪तास्⟫ | **tāni** :br⟪तानि⟫ |
+| **etad** :br这个这里 | 单数 | **etam / enam** :br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām** :br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad** :br⟪एतद्⟫ / ⟪एनद्⟫ |
+| | 复数 | **etān / enān** :br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās** :br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni** :br⟪एतानि⟫ / ⟪एनानि⟫ |
+| **idam** :br这个 | 单数 | **imam / enam** :br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām** :br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad** :br⟪इदम्⟫ / ⟪एनद्⟫ |
+| | 复数 | **imān / enān** :br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās** :br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni** :br⟪इमानि⟫ / ⟪एनानि⟫ |
 :::
-Die Formen **enam** (⟪एनम्⟫) usw. gehören zum Stamm **enad** (⟪एनद्⟫), der nur in einigen Kasus Formen bildet. Diese werden statt der Formen von **etad** und **idam** dann verwendet, wenn das damit Bezeichnete im Vorhergehenden bereits erwähnt wurde.
-z.B. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : "Er ist ein Gott. Man opfert ihm." <!-- TODO: Fallback translation -->
+**enam**（⟪एनम्⟫）等词形属于词干 **enad**（⟪एनद्⟫），该词干仅在部分格位中构成词形。当所指代的内容在前文中已经提及时，便使用这些形式来代替 **etad** 和 **idam** 的形式。
+例如：**ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : “他是一位神。人们向他献祭。”
 
 ---
 
-### 7.2.2. Gebrauch des Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
+### 7.2.2. 宾格（第四格，dvitīyā f. = ⟪द्वितीया⟫ = “第二个格后缀”）
 
-:::grammar-box
-Der Akkusativ (dvitīyā f. = ⟪द्वितीया⟫) bezeichnet: <!-- TODO: Fallback translation -->
-1. Im nicht-passiven Verbalsatz: das **direkte Objekt** (karman n. = ⟪कर्मन्⟫) der durch das Verb ausgedrückten Handlung: <!-- TODO: Fallback translation -->
-   z.B. <!-- TODO: Fallback translation -->
-   - **devaṃ yajati** = ⟪देवं⟫ ⟪यजति⟫ : "Er verehrt einen Gott mit einem Opfer." <!-- TODO: Fallback translation -->
-   - **phalam āpnoti** = ⟪फलमाप्नोति⟫ : "Er erlangt die Frucht (z.B. seines Handelns)." <!-- TODO: Fallback translation -->
-2. Bei Verben, die ein Gehen, eine Bewegung, ein Führen oder dergl. nach etwas hin ausdrücken, bezeichnet der Akkusativ das Ziel der Bewegung: <!-- TODO: Fallback translation -->
-   z.B. <!-- TODO: Fallback translation -->
-   - **narakaṃ gacchati** = ⟪नरकं⟫ ⟪गच्छति⟫ : "Er geht zur Hölle." <!-- TODO: Fallback translation -->
+::: grammar-box
+宾格（dvitīyā f. = ⟪द्वितीया⟫）表示：
+1. 在非被动动词句中：表示由动词所表达的动作的**直接宾语**（karman n. = ⟪कर्मन्⟫）：
+   例如：
+   - **devaṃ yajati** = ⟪देवं⟫ ⟪यजति⟫ ：“他用祭品供奉一位神。”
+   - **phalam āpnoti** = ⟪फलमाप्नोति⟫ ：“他获得果报（例如他行为的果报）。”
+2. 在表示走向某处、移动、引导等意义的动词中，宾格表示移动的目标：
+   例如：
+   - **narakaṃ gacchati** = ⟪नरकं⟫ ⟪गच्छति⟫ ：“他前往地狱。”
 :::
-Weitere Verwendungen des Akkusativ werden später behandelt. <!-- TODO: Fallback translation -->
+宾格的其他用法将在稍后讨论。
 
 ---
 
 ## 7.3. Sandhi von auslautendem -n
 
-:::grammar-box
-**Auslautendes -n:** <!-- TODO: Fallback translation -->
+::: grammar-box
+**词尾的 -n：**
 
-1. Wird vor stimmhaften palatalen und retroflexen sparśa und vor **ś-** durch den diesen Lauten entsprechenden Nasal ersetzt: <!-- TODO: Fallback translation -->
-   - **-n** vor **j-, jh-, ñ-, ś-** » **-ñ** <!-- TODO: Fallback translation -->
-   - **-n** vor **ḍ-, ḍh-, ṇ-, ṣ-** » **-ṇ** <!-- TODO: Fallback translation -->
-   z.B. **kṣatriyān + jayati** » **kṣatriyāñ jayati** = ⟪क्षत्रियांञ्जयति⟫ : "Er besiegt die Kṣatriyas."
-   Anlautendes **ś-** wird dann meist durch **ch-** ersetzt:
-   **gurūn + śṛṇoti** » **gurūñ chṛṇoti** (neben gurūñ śṛṇoti) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : "Er hört die Lehrer." "Er hört auf die Lehrer." <!-- TODO: Fallback translation -->
+1. 当清硬腭塞音和清卷舌塞音，以及 **ś-** 之前，会被相应的鼻音取代：
+   - **j-, jh-, ñ-, ś-** 前的 **-n** 变为 **-ñ**
+   - **ḍ-, ḍh-, ṇ-, ṣ-** 前的 **-n** 变为 **-ṇ**
+   例如：**kṣatriyān + jayati** » **kṣatriyāñ jayati** = ⟪क्षत्रियांञ्जयति⟫ : “他战胜了刹帝利。”
+   词首的 **ś-** 通常会被 **ch-** 取代：
+   **gurūn + śṛ�ṇoti** » **gurūñ chṛṇoti** (与 gurūñ śṛṇoti 并存) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : “他听老师的话。” “他倾听老师。”
 
-2. Wird vor anlautendem **l-** durch **-l** mit Anunāsika (nasaliertes l, in der Schrift **⟪ल्⟫** mit Anunāsika **⟪ँ⟫**) ersetzt: <!-- TODO: Fallback translation -->
-   z.B. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Er erhält Nutztiere." <!-- TODO: Fallback translation -->
+2. Wenn ein anlautendes **l-** durch **-l** mit Anunāsika (nasaliertes l, in der Schrift **⟪ल्⟫** mit Anunāsika **⟪ँ⟫**) ersetzt wird:
+   z.B. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Er erhält Nutztiere."
 
-3. Wird vor anlautendem stimmlosen Palatal, Retroflex oder Dental durch **Anusvāra** + dem diesen Lauten entsprechenden Zischlaut ersetzt: <!-- TODO: Fallback translation -->
-   - **-n** vor **c-, ch-** » **-ṃś** <!-- TODO: Fallback translation -->
-   - **-n** vor **ṭ-, ṭh-** » **-ṃṣ** <!-- TODO: Fallback translation -->
-   - **-n** vor **t-, th-** » **-ṃs** <!-- TODO: Fallback translation -->
-   z.B. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : "und die Götter (Akk.)"
-   **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : "aber die Götter (Akk.)" <!-- TODO: Fallback translation -->
+3. 若词首为清腭音、清卷舌音或清齿音，则用**安努斯瓦拉**（Anusvāra）加上对应这些音的擦音替换：
+   - **c-, ch-** 前的 **-n** 变为 **-ṃś**
+   - **ṭ-, ṭh-** 前的 **-n** 变为 **-ṃṣ**
+   - **t-, th-** 前的 **-n** 变为 **-ṃs**
+   例如：**devān + ca** 变为 **devāṃś ca** = ⟪देवांश्च⟫ : “以及诸神（宾格）”
+   **devān + tu** 变为 **devāṃs tu** = ⟪देवांस्तु⟫ : “然而诸神（宾格）”
 
-4. Außer nach kurzem Vokal (siehe später) bleibt auslautendes **-n** in allen übrigen Fällen unverändert. <!-- TODO: Fallback translation -->
+4. 除短元音外（见后），其余情况下词尾的 **-n** 均保持不变。
 :::
 ---
 
 ## 7.4. Das Neutrum (napuṃsaka n. = ⟪नपुंसक⟫)
 
-:::grammar-box
-**Im Neutrum sind die Formen für Nominativ (prathamā) und Akkusativ (dvitīyā) identisch.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**在中性中，主格（prathamā）与宾格（dvitīyā）的形式相同。**
 :::
-### 7.4.1. Neutrum der Stämme auf -a
+### 7.4.1. 以-a结尾的中性词干
 
-:::grammar-box
-- **Endung Nominativ / Akkusativ Singular: -m** <!-- TODO: Fallback translation -->
-  z.B. **phala** n. = ⟪फल⟫ = "Frucht": Nom. / Akk. sg. **phalam** = ⟪फलम्⟫ <!-- TODO: Fallback translation -->
-- **Endung Nominativ / Akkusativ Plural: -āni** <!-- TODO: Fallback translation -->
-  z.B. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫ <!-- TODO: Fallback translation -->
+::: grammar-box
+- **Nominativ / Akkusativ Singular Endung: -m**
+  z.B. **phala** n. = ⟪फल⟫ = "Frucht": Nom. / Akk. sg. **phalam** = ⟪फलम्⟫
+- **Nominativ / Akkusativ Plural Endung: -āni**
+  z.B. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
 :::
 ---
 
 ## 7.5. Athematische Präsensklassen
 
-Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h. der Präsensstamm lautet nicht wie bei den thematischen Präsensklassen (1., 4., 6., 10. Klasse) auf den "Themavokal" **-a** aus. <!-- TODO: Fallback translation -->
+第五类现在时构成所谓的无词干现在时词干，即其现在时词干不像主题现在时类（第一、第四、第六、第十类）那样以“主题元音”**-a** 结尾。
 
-:::grammar-box
-**Die athematischen Präsensklassen haben Stammabstufung, d.h. es gibt zwei Formen des Präsensstamms:** <!-- TODO: Fallback translation -->
-1. **starker Stamm**: hochstufig (selten dehnstufig) <!-- TODO: Fallback translation -->
-2. **schwacher Stamm**: tiefstufig <!-- TODO: Fallback translation -->
+::: grammar-box
+**非时态现在时类具有词干强弱交替，即存在两种现在时词干形式：**
+1. **强词干**：高等级（罕见为延长等级）
+2. **弱词干**：低等级
 
-**Der starke Stamm steht:** <!-- TODO: Fallback translation -->
-- im Indikativ Singular Parasmaipada Präsens (laṭ) und Imperfekt (laṅ) <!-- TODO: Fallback translation -->
-- allen ersten Personen des Imperativ (loṭ) Parasmaipada und Ātmanepada <!-- TODO: Fallback translation -->
-- in der dritten Person Singular Imperativ (loṭ) Parasmaipada <!-- TODO: Fallback translation -->
+**Der starke Stamm steht:**
+- im Indikativ Singular Parasmaipada Präsens (laṭ) und Imperfekt (laṅ)
+- allen ersten Personen des Imperativ (loṭ) Parasmaipada und Ātmanepada
+- in der dritten Person Singular Imperativ (loṭ) Parasmaipada
 
-**Alle anderen Formen haben den schwachen Präsensstamm.** <!-- TODO: Fallback translation -->
+**所有其他形式都使用弱现在时词干。**
 :::
-### 7.5.1. Primärendungen der 3. Person Plural bei athematischen Stämmen
+### 7.5.1. 无声门音词干的第三人称复数主要词尾
 
-:::grammar-box
-**Bei athematischen Präsensstämmen lauten die Primärendungen der 3. Person Plural:** <!-- TODO: Fallback translation -->
-- **Parasmaipada: -anti** <!-- TODO: Fallback translation -->
-- **Ātmanepada: -ate** <!-- TODO: Fallback translation -->
+::: grammar-box
+**对于非词根现在时词干，第三人称复数的主要词尾为：**
+- **Parasmaipada（他称）：-anti**
+- **Ātmanepada（自称）：-ate**
 :::
-### 7.5.2. Die 5. Präsensklasse (svādi = ⟪स्वादि⟫ = "su usw.")
+### 7.5.2. 第五类现在时（svādi = ⟪स्वादि⟫ = “su 等”）
 
-:::grammar-box
-- **Starker Stamm**: (meist) tiefstufige Wurzel (wie angeführt) + **-no-** <!-- TODO: Fallback translation -->
-- **Schwacher Stamm**: (meist) tiefstufige Wurzel (wie angeführt) + **-nu-** <!-- TODO: Fallback translation -->
+::: grammar-box
+- **Starker Stamm**: (meist) tiefstufige Wurzel (wie angeführt) + **-no-**
+- **Schwacher Stamm**: (meist) tiefstufige Wurzel (wie angeführt) + **-nu-**
 
-**Vor vokalischen Endungen wird bei vokalisch auslautenden Wurzeln -nu- durch -nv- ersetzt, bei konsonantisch auslautenden Wurzeln wird vor vokalischen Endungen -nu- durch -nuv- ersetzt.** <!-- TODO: Fallback translation -->
+**在元音结尾前，以元音结尾的词根将 -nu- 替换为 -nv-；以辅音结尾的词根在元音结尾前将 -nu- 替换为 -nuv-。**
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**示例：**
 
-| Wurzel:br⟪धातु⟫ | Starker Stamm | Schwacher Stamm | Vor Vokal:br(schwach) | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) | <!-- TODO: Fallback translation -->
-| **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) | <!-- TODO: Fallback translation -->
-| **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) | <!-- TODO: Fallback translation -->
-| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) | <!-- TODO: Fallback translation -->
+| 词根:br⟪धातु⟫ | 强词干 | 弱词干 | 元音前:br(弱) |
+| :--- | :--- | :--- | :--- |
+| **āp** :br5 P:br⟪आप्⟫:br“到达” | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
+| **aś** :br5 Ā:br⟪अश्⟫:br“到达” | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
+| **su** :br5 U:br⟪सु⟫:br“压榨” | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
+| **śru** :br5 P:br⟪श्रु⟫:br“听” | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
 ---
 
 ## 7.6. Wortliste
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**学习以下词汇：**
 
-- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : erreichen, gelangen zu, erlangen <!-- TODO: Fallback translation -->
-- **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : erreichen, erlangen <!-- TODO: Fallback translation -->
-- **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : zürnen <!-- TODO: Fallback translation -->
-- **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : zürnen <!-- TODO: Fallback translation -->
-- **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : kauen, essen <!-- TODO: Fallback translation -->
-- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : hören (etwas: Akkusativ, jemanden: Genetiv oder Akkusativ; über: Akkusativ; von jemandem: Genetiv, Ablativ, Instrumentalis) <!-- TODO: Fallback translation -->
-- **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : auspressen <!-- TODO: Fallback translation -->
-- **soma** m. ⟪सोम⟫ : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten). <!-- TODO: Fallback translation -->
-:::media
+- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : 到达，抵达，获得
+- **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : 到达，获得
+- **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : 愤怒
+- **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : 愤怒
+- **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : 咀嚼，吃
+- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : 听（某物：宾格，某人：属格或宾格；关于：宾格；从某人：属格，离格，工具格）
+- **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : 压榨
+- **soma** m. ⟪सोम⟫ : 压榨饮料，苏摩；月亮（苏摩是从哪种植物中压榨出来的，至今仍有争议）。
+::: media
 ![](/images/lekt0701.webp)
-Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) Lam.
-(Bildquelle: [Details](/licenses#lekt0701)) <!-- TODO: Fallback translation -->
+图：那是吠陀苏摩植物吗？：毒蝇伞：*Amanita muscaria* (L.) Lam.
+（图片来源：[详情](/zh-CN/licenses#lekt0701)）
 :::
-- **phala** n. ⟪फल⟫ : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat) <!-- TODO: Fallback translation -->
-- **nṛtya** n. ⟪नृत्य⟫ : Tanz <!-- TODO: Fallback translation -->
-- **svarga** m. ⟪स्वर्ग⟫ : Himmel <!-- TODO: Fallback translation -->
-- **naraka** m. ⟪नरक⟫ : Hölle (nach einer Hinduauffassung hat das Universum die Form eines Eis (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Ei Brahmās"): oberhalb der Erde sind sechs Himmel mit ansteigender Glückseligkeit, unterhalb der Erde sind sieben sog. **pātāla** n. = ⟪पाताल⟫, Wohnstätten der **nāga** m. = ⟪नाग⟫ (Schlangen) und anderer mythischer Wesen, darunter kommen 7 Höllen mit steigenden Qualen) <!-- TODO: Fallback translation -->
-- **aṅga** n. ⟪अङ्ग⟫ : Glied des Körpers, Bestandteil; auch = **vedāṅga** = ⟪वेदाङ्ग⟫ <!-- TODO: Fallback translation -->
-- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : gehen (Gehört nach der einheimischen Verbklassifikation zur Präsensklasse 1, ist aber in Wirklichkeit eine Bildung mit einem Präsensstammbildungssuffix **-ccha-**: **gam** » Tiefstufe (**gm** ») **ga-ccha-ti**) <!-- TODO: Fallback translation -->
+- **phala** n. ⟪फल⟫ : 果实（也可引申为：（业力）行为的果报）
+- **nṛtya** n. ⟪नृत्य⟫ : 舞蹈
+- **svarga** m. ⟪स्वर्ग⟫ : 天堂
+- **naraka** m. ⟪नरक⟫ : 地狱（根据一种印度教观念，宇宙的形状像一个蛋（**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = “梵天之蛋”）：地球上方有六个天堂，幸福程度递增；地球下方有七个所谓的 **pātāla** n. = ⟪पाताल⟫，是 **nāga** m. = ⟪नाग⟫（蛇）和其他神话生物的居住地，其中有七个地狱，痛苦程度递增）
+- **aṅga** n. ⟪अङ्ग⟫ : 身体部位，组成部分；也等于 **vedāṅga** = ⟪वेदाङ्ग⟫
+- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : 走（根据本土动词分类属于第一类现在时，但实际上是一个带有现在时词干形成后缀 **-ccha-** 的构成：**gam** » 弱形式（**gm** »）**ga-ccha-ti**）
 
 ---
 
 ## 7.7. Übung
 
-**A) Setzen Sie jeweils im Singular und Plural das direkte Objekt bzw. den Richtungsakkusativ ein:** <!-- TODO: Fallback translation -->
+**A) 在单数和复数中分别填入直接宾语或方向第四格：**
 
-1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā) <!-- TODO: Fallback translation -->
-   ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫) <!-- TODO: Fallback translation -->
+1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
+   ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
 
-:::media
+::: media
 ![](/images/lekt0704.webp)
-Abb.: Viṣṇu = ⟪विष्णु⟫, 8./9. Jahrhundert.
-(Bildquelle: [Details](/licenses#lekt0704)) <!-- TODO: Fallback translation -->
+图：毗湿奴 = ⟪विष्णु⟫，8/9世纪。
+（图片来源：[详情](/zh-CN/licenses#lekt0704)）
 :::
-2. gurus ... khādati (phala) <!-- TODO: Fallback translation -->
-   ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫) <!-- TODO: Fallback translation -->
-3. sādhus ... gacchati (svarga) <!-- TODO: Fallback translation -->
-   ⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫) <!-- TODO: Fallback translation -->
-4. śūdrā ... gacchati (naraka) <!-- TODO: Fallback translation -->
-   ⟪शूद्रा⟫ ... ⟪गच्छति⟫ (⟪नरक⟫) <!-- TODO: Fallback translation -->
-5. ... jayati (śūdra) <!-- TODO: Fallback translation -->
-   ... ⟪जयति⟫ (⟪शूद्र⟫) <!-- TODO: Fallback translation -->
-6. ... labhate (dhenu, paśu, phala) <!-- TODO: Fallback translation -->
-   ... ⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫) <!-- TODO: Fallback translation -->
+2. 古鲁 ... 吃（果实）
+   ⟪गुरुस्⟫ ... ⟪खादति⟫（⟪फल⟫）
+3. 圣人 ... 去（天堂）
+   ⟪साधुस्⟫ ... ⟪गच्छति⟫（⟪स्वर्ग⟫）
+4. 首陀罗 ... 去（地狱）
+   ⟪शूद्रा⟫ ... ⟪गच्छति⟫（⟪नरक⟫）
+5. ... 获胜（首陀罗）
+   ... ⟪जयति⟫（⟪शूद्र⟫）
+6. ... 获得（母牛、牲畜、果实）
+   ... ⟪लभते⟫（⟪धेनु⟫，⟪पशु⟫，⟪फल⟫）
 
-**B) Setzen Sie die entsprechenden Verbformen ein:** <!-- TODO: Fallback translation -->
+**B) 填入相应的动词形式：**
 
-1. sādhuḥ svargaṃ ... (āp, gam, aś) <!-- TODO: Fallback translation -->
-   ⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫) <!-- TODO: Fallback translation -->
-2. brāhmaṇaḥ somam ... (su) (2 Formen) <!-- TODO: Fallback translation -->
-   ⟪ब्राह्मणः⟫ ⟪सोमम्⟫ ... (⟪सु⟫) <!-- TODO: Fallback translation -->
-3. sādhur gurum ... (śru) <!-- TODO: Fallback translation -->
-   ⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫) <!-- TODO: Fallback translation -->
-4. devī ... (kup, krudh) <!-- TODO: Fallback translation -->
-   ⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫) <!-- TODO: Fallback translation -->
+1. sādhuḥ svargaṃ ... (āp, gam, aś)
+   ⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
+2. brāhmaṇaḥ somam ... (su) (2 Formen)
+   ⟪ब्राह्मणः⟫ ⟪⟪सोमम्⟫ ... (⟪सु⟫)
+3. sādhur gurum ... (śru)
+   ⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫)
+4. devī ... (kup, krudh)
+   ⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
 
-**C) Setzen Sie in den Übungssätzen B) Agens, Objekt und Verb in den Plural.** <!-- TODO: Fallback translation -->
+**C) 在练习句B)中，将施事、受事和动词变为复数。**
 
-**D) Setzen Sie ins Ātmanepada:** <!-- TODO: Fallback translation -->
+**D) 转换为Ātmanepada（自词形变化）：**
 
-1. sunvanti. <!-- TODO: Fallback translation -->
-   ⟪सुन्वन्ति⟫ | <!-- TODO: Fallback translation -->
-2. nayanti. <!-- TODO: Fallback translation -->
-   ⟪नयन्ति⟫ | <!-- TODO: Fallback translation -->
-3. sunoti. <!-- TODO: Fallback translation -->
-   ⟪सुनोति⟫ | <!-- TODO: Fallback translation -->
-4. yajati. <!-- TODO: Fallback translation -->
-   ⟪यजति⟫ | <!-- TODO: Fallback translation -->
+1. 他们倾听。
+   ⟪सुन्वन्ति⟫ |
+2. 他们引导。
+   ⟪नयन्ति⟫ |
+3. 他倾听。
+   ⟪सुनोति⟫ |
+4. 他祭祀。
+   ⟪यजति⟫ |
 
-:::media
+::: media
 ![](/images/lekt0702.webp)
-Abb.: **yajati** = ⟪यजति⟫ — Vedisches Opfer = **yajña** m. = ⟪यज्ञ⟫
-(Bildquelle: [Details](/licenses#lekt0702)) <!-- TODO: Fallback translation -->
+图：**yajati** = ⟪यजति⟫ — 吠陀祭 = **yajña** m. = ⟪यज्ञ⟫
+（图片来源：[详情](/zh-CN/licenses#lekt0702)）
 :::
-**E) Bilden Sie zu allen bisher gelernten Nomina den Akkusativ (dvitīyā) sg. und pl.** <!-- TODO: Fallback translation -->
+**E) 为所有迄今所学的名词生成单数（第二格）和复数宾格。**
 
-**F) Übersetzen Sie:** <!-- TODO: Fallback translation -->
+**F) 翻译：**
 
-1. narakāṃś ca svargāṃś ca gacchanti. <!-- TODO: Fallback translation -->
-   ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ | <!-- TODO: Fallback translation -->
-2. gurūṃs tu śṛṇvanti. <!-- TODO: Fallback translation -->
-   ⟪गुरूूंस्तु⟫ ⟪शृण्वन्ति⟫ | <!-- TODO: Fallback translation -->
-3. Śūdras erlangen einen Himmel. <!-- TODO: Fallback translation -->
-4. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern. <!-- TODO: Fallback translation -->
-5. Vaiśyafrauen verehren Gottheiten mit Opfern. <!-- TODO: Fallback translation -->
-6. Der HERR zürnt. <!-- TODO: Fallback translation -->
-7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. <!-- TODO: Fallback translation -->
-   ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ | <!-- TODO: Fallback translation -->
-8. Welchem Gott opfert dieser Brahmane? <!-- TODO: Fallback translation -->
+1. 他们前往地狱，也前往天堂。
+   ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ |
+2. 他们聆听导师的教诲。
+   ⟪गुरूूंस्तु⟫ ⟪शृण्वन्ति⟫ |
+3. 首陀罗获得天堂。
+4. 刹帝利以祭祀供奉作为祭主的女神。
+5. 吠舍妇女以祭祀供奉神灵。
+6. 主愤怒了。
+7. 语音学、仪轨、语法、词源学、韵律、天文学是辅助学科。
+   ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
+8. 这位婆罗门向哪位神祇献祭？
 
-:::media
+::: media
 ![](/images/lekt0703.webp)
 Abb.: Welchem Gott opfert man hier? Antwort: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
-(Bildquelle: [Details](/licenses#lekt0703)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/zh-CN/licenses#lekt0703))
 :::
-9. Was kaut dieser heilige Mann? <!-- TODO: Fallback translation -->
-10. Was pressen diese (hier) aus? <!-- TODO: Fallback translation -->
-11. Er ist der Lehrer. Auf ihn hört man (= hören sie). <!-- TODO: Fallback translation -->
+9. Was kaut dieser heilige Mann?
+10. Was pressen diese (hier) aus?
+11. Er ist der Lehrer. Auf ihn hört man (= hören sie).

@@ -165,7 +165,7 @@ dvijāḥ kṣatriyāḥ.
 
 ⟪शूद्राः⟫ ⟪साधवः⟫
 
-:::media
+::: media
 ![](/images/uebung001.webp)
 ⟪अभ⟫.: ⟪पशुर्धेनुः⟫
 (⟪चित्र⟫ ⟪स्रोत⟫: [⟪विवरण⟫](/licenses#uebung001))

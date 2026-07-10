@@ -1,100 +1,100 @@
 ---
-title: Lektion 6
-subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
+title: 第6课
+subtitle: "动词句的结构（施事与动词形式）"
 lesson_id: 6
 last_reconstructed: 2026-05-07
-category: "Grammatik"
+category: "语法"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
 # Lektion 6
 
-:::deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Den Aufbau des Verbalsatzes (Agens und Verbalform) <!-- TODO: Fallback translation -->
-- Die Bildung von Verbalformen (Parasmaipada, Ātmanepada, Passiv) <!-- TODO: Fallback translation -->
-- Die Modi und Tempi des Verbs <!-- TODO: Fallback translation -->
-- Indikativ Präsens (laṭ) und die Primärendungen der 3. Person <!-- TODO: Fallback translation -->
-- Die Bildung des Präsensstamms (Klassen 1, 4 und 6) <!-- TODO: Fallback translation -->
-- Die Lautabstufung (Ablaut: Guṇa und Vṛddhi) <!-- TODO: Fallback translation -->
+::: deleteme-box
+**在本课中，您将学习：**
+- 动词句的结构（施事者与动词形式）
+- 动词形式的构成（Parasmaipada、Ātmanepada、被动语态）
+- 动词的语式与时态
+- 陈述语气现在时（laṭ）及第三人称的主要词尾
+- 现在词干的构成（第一、第四和第六类）
+- 元音交替（Ablaut：Guṇa 和 Vṛddhi）
 :::
-## 6.1. Der Verbalsatz
+## 6.1. 动词句
 
-:::grammar-box
-**Schema I: Verbalform** <!-- TODO: Fallback translation -->
-- z.B. **yajati** = ⟪यजति⟫ = "Er (sie, es) verehrt mit einem Opfer", "Er (sie, es) opfert" <!-- TODO: Fallback translation -->
+::: grammar-box
+**Schema I: Verbform**
+- z.B. **yajati** = ⟪यजति⟫ = "Er (sie, es) verehrt mit einem Opfer", "Er (sie, es) opfert"
 
-**Schema II: Agens (kartṛ m. = ⟪कर्तृ⟫) – Verbalform** <!-- TODO: Fallback translation -->
-- z.B. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = "Rāma verehrt mit einem Opfer", "Rāma opfert" <!-- TODO: Fallback translation -->
+**模式二：施事者（kartṛ m. = ⟪कर्तृ⟫）——动词形式**
+- 例如 **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = “罗摩以祭祀供奉”，“罗摩祭祀”
 :::
-Wird der Agens (**kartṛ** m. = ⟪कर्तृ⟫) in einem Verbalsatz genannt, der nicht im Passiv steht, dann steht der Agens im **Nominativ** (erster Fall, prathamā = ⟪प्रथमा⟫). Im Numerus (Zahl, vacana n. = ⟪वचन⟫) stimmen dann Agens und Verbalform überein. <!-- TODO: Fallback translation -->
+若在非被动的动词句中提及施事者（**kartṛ** m. = ⟪कर्तृ⟫），则施事者处于**主格**（第一格，prathamā = ⟪प्रथमा⟫）。在数（vacana n. = ⟪वचन⟫）方面，施事者与动词形式保持一致。
 
 ---
 
-## 6.2. Zur Bildung der Verbalformen
+## 6.2. 动词形式的构成
 
-Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sanskrit Folgendes aus: <!-- TODO: Fallback translation -->
+有限的动词形式，即带有词尾变化的动词形式，在梵语中表示以下内容：
 
-1. **Bedeutung** (**artha** m. ⟪अर्थ⟫) <!-- TODO: Fallback translation -->
-2. **Person** und **Numerus** (Zahl, **vacana** n. = ⟪वचन⟫) (ich, du, er \&lt;sie, es\&gt;, wir beide, ihr beide, sie beide, wir, ihr, sie) <!-- TODO: Fallback translation -->
-3. Verhaltensweise (genus verbi): <!-- TODO: Fallback translation -->
-   1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("Wortform mit Bezug auf einen anderen"): Aktivum. z.B. **yajati** = ⟪यजति⟫ = "Er verehrt mit einem Opfer" (nämlich der Priester, der für jemanden anderen das Opfer vollzieht) <!-- TODO: Fallback translation -->
-   2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("Wortform mit Bezug auf sich selbst"): Medium. z.B. **yajate** = ⟪यजते⟫ = "Er verehrt mit einem Opfer im eigenen Interesse" (nämlich der Opferherr, der für sich und seine Familie opfert) <!-- TODO: Fallback translation -->
-   3. **Passiv** (**karman** n. = ⟪कर्मन्⟫). z.B. **ijyate** = ⟪इज्यते⟫ = "Es wird mit einem Opfer verehrt" <!-- TODO: Fallback translation -->
+1. **含义**（**artha** 阳性 ⟪अर्थ⟫）
+2. **人称**与**数**（数量，**vacana** 中性 = ⟪वचन⟫）（我，你，他 \<她，它\>，我们俩，你们俩，他们俩，我们，你们，他们）
+3. 语态（genus verbi）：
+   1. **Parasmaipada**（中性 = ⟪परस्मैपद⟫）（“指向他人的词形”）：主动语态。例如 **yajati** = ⟪यजति⟫ = “他进行祭祀”（即祭司为其他人举行祭祀）
+   2. **Ātmanepada**（中性 = ⟪आत्मनेपद⟫）（“指向自身的词形”）：中间语态。例如 **yajate** = ⟪यजते⟫ = “他为自己进行祭祀”（即祭主为自己和家人举行祭祀）
+   3. **被动语态**（**karman** 中性 = ⟪कर्मन्⟫）。例如 **ijyate** = ⟪इज्यते⟫ = “它被祭祀”
 
-   In vielen Fällen lässt sich die Bedeutungsnuance des Ātmanepada nicht mehr erkennen; auch verwenden selbst Kunstdichter oft das Ātmanepada ohne Bedeutungsunterschied zum Parasmaipada. Dennoch ist bei der Übersetzung immer genau zu beachten, ob nicht eine solche Bedeutungsnuance vorliegt. <!-- TODO: Fallback translation -->
+在许多情况下，Ātmanepada 的语义细微差别已无法辨识；甚至艺术诗人也常使用 Ātmanepada，其意义与 Parasmaipada 并无区别。然而，在翻译时，始终必须仔细留意是否存在此类语义细微差别。
 
-   Verben, die im Parasmaipada und Ātmanepada (in der spezifischen Ātmanepada-Bedeutung) verwendet werden, nennt man **Ubhayapada**-Verben (**ubhayapada** n. = ⟪उभयपद⟫ = "beide Wortformen"). <!-- TODO: Fallback translation -->
+在帕拉塔帕达（Parasmaipada）和阿特曼帕达（Ātmanepada，特指阿特曼帕达的含义）中使用的动词，被称为**双形动词**（**ubhayapada** n. = ⟪उभयपद⟫ = “两种词形”）。
 
-   Manche Verben werden entweder nur im Parasmaipada oder nur im Ātmanepada gebraucht. Bei diesen Verben hat das Ātmanepada bzw. Parasmaipada keine spezifische Bedeutung. z.B. **manyate** = ⟪मन्यते⟫ = "er (sie, es) denkt" (ohne spezifische Ātmanepadabedeutung). <!-- TODO: Fallback translation -->
+某些动词仅用于Parasmaipada或仅用于Ātmanepada。对于这些动词，Ātmanepada或Parasmaipada没有特定含义。例如，**manyate** = ⟪मन्यते⟫ = “他/她/它思考”（无特定Ātmanepada含义）。
 
-4. **Aussageweise** (Modus): <!-- TODO: Fallback translation -->
-   1. **Indikativ**: Aussageform <!-- TODO: Fallback translation -->
-   2. **Optativ**: Wunschform und Möglichkeitsform <!-- TODO: Fallback translation -->
-   3. **Imperativ**: Befehlsform <!-- TODO: Fallback translation -->
-5. **Zeit** (Tempus): <!-- TODO: Fallback translation -->
-   1. **Präsens**: Gegenwart <!-- TODO: Fallback translation -->
-   2. **Imperfekt** <!-- TODO: Fallback translation -->
-   3. **Perfekt** <!-- TODO: Fallback translation -->
-   4. **Aorist** <!-- TODO: Fallback translation -->
-   5. **Futur**: Zukunft <!-- TODO: Fallback translation -->
-   6. **Konditional** <!-- TODO: Fallback translation -->
+4. **语式**（Modus）：
+   1. **直陈式**：陈述形式
+   2. **祈愿式**：愿望形式和可能形式
+   3. **祈使式**：命令形式
+5. **时态**（Tempus）：
+   1. **现在时**：现在
+   2. **未完成时**
+   3. **完成时**
+   4. **不定过去时**
+   5. **将来时**：未来
+   6. **条件式**
 
-   Die Zeiten werden von Tempusstämmen gebildet: Präsensstamm, Aoriststamm, Perfektstamm, Futurstamm. <!-- TODO: Fallback translation -->
+时代由时干构成：现在时干、不定过去时干、完成时干、将来时干。
 
 ---
 
 ## 6.3. Indikativ Präsens (laṭ = ⟪लट्⟫)
 
-Das Präsens ist das Tempus der Gegenwart, insbesondere auch der Dauer. <!-- TODO: Fallback translation -->
+现在时是表示现在的时态，尤其是表示持续的状态。
 
-:::grammar-box
-**Der Indikativ (Aussageform) Präsens wird gebildet, indem an den Präsensstamm die sogenannten Primärendungen angefügt werden.** <!-- TODO: Fallback translation -->
+::: grammar-box
+**陈述语气（陈述句）现在时通过向现在词干添加所谓的“主词尾”来构成。**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+例如：
 
-| Wurzel (dhātu) | Präsensstamm | 3. Person Singular Indikativ Präsens Parasmaipada | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "er (sie, es) tritt ein" | <!-- TODO: Fallback translation -->
-| **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" | <!-- TODO: Fallback translation -->
-| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" | <!-- TODO: Fallback translation -->
+| 词根 (dhātu) | 现在时词干 | 第三人称单数现在时主动语态直陈式 |
+| :--- | :--- | :--- |
+| **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = “他（她，它）进入” |
+| **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = “他（她，它）产生” |
+| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = “他（她，它）跳舞” |
 
 ---
 
-## 6.4. Primärendungen der dritten Person (prathama m. = ⟪प्रथम⟫ = "erste (!) Person")
+## 6.4. 第三人称的主要词尾（prathama m. = ⟪प्रथम⟫ = “第一人称（！）”）
 
-:::grammar-box
-| | Singular (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ | <!-- TODO: Fallback translation -->
-| **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ | <!-- TODO: Fallback translation -->
+::: grammar-box
+| | Singular (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
+| :--- | :--- | :--- |
+| **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
+| **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
 :::
-Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern": <!-- TODO: Fallback translation -->
-- Präsensstamm: **yaja** = ⟪यज⟫ <!-- TODO: Fallback translation -->
-- 3. sg. P. **yajati** = ⟪यजति⟫ <!-- TODO: Fallback translation -->
-- 3. pl. P. **yajanti** = ⟪यजन्ति⟫ <!-- TODO: Fallback translation -->
-- 3. sg. Ā. **yajate** = ⟪यजते⟫ <!-- TODO: Fallback translation -->
-- 3. pl. Ā. **yajante** = ⟪यजन्ते⟫ <!-- TODO: Fallback translation -->
+示例 **yaj** = ⟪यज्⟫ = “以祭品敬奉”，“献祭”：
+- 现在词干：**yaja** = ⟪यज⟫
+- 第三人称单数主动态 **yajati** = ⟪यजति⟫
+- 第三人称复数主动态 **yajanti** = ⟪यजन्ति⟫
+- 第三人称单数中动态 **yajate** = ⟪यजते⟫
+- 第三人称复数中动态 **yajante** = ⟪यजन्ते⟫
 
 ---
 
@@ -102,221 +102,221 @@ Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern": <!-- 
 
 ### 6.5.1. Verben der 6. Präsensklasse (tudādi = ⟪तुदादि⟫ = "tud usw.")
 
-:::grammar-box
-**Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + a-** <!-- TODO: Fallback translation -->
+::: grammar-box
+**现在词干 = 词根在弱形（即其列出的形式）+ a-**
 
-| Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- | <!-- TODO: Fallback translation -->
-| **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- | <!-- TODO: Fallback translation -->
+| 词根 (dhātu m.)：br⟪धातु⟫ | 现在时词干 |
+| :--- | :--- |
+| **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
+| **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
 :::
-### 6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
+### 6.5.2. 第一类现在时动词 (bhādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = “bhū 等”)
 
-:::grammar-box
-| Präsensstamm = Wurzel in Hochstufe (selten Dehnstufe) + a- |||| <!-- TODO: Fallback translation -->
-| Wurzel (dhātu m.):br⟪धातु⟫ | Hochstufe | Hochstufe vor a- | Präsensstamm | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- | <!-- TODO: Fallback translation -->
-| **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- | <!-- TODO: Fallback translation -->
-| **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- | <!-- TODO: Fallback translation -->
-| **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- | <!-- TODO: Fallback translation -->
-| Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten, unterbleibt die Bildung der Hochstufe |||| <!-- TODO: Fallback translation -->
-| **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- | <!-- TODO: Fallback translation -->
+::: grammar-box
+| 现在词干 = 强级词根（罕见为延音级）+ a- ||||
+| 词根 (dhātu m.):br⟪धातु⟫ | 强级 | 在 a- 前的强级 | 现在词干 |
+| :--- | :--- | :--- | :--- |
+| **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
+| **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
+| **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- |
+| **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
+| 若元音位于长闭音节中，即短元音后跟两个或更多辅音，则不形成强级 ||||
+| **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
-#### 6.5.2.1. Wortsandhi von e und o
-Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt. <!-- TODO: Fallback translation -->
+#### 6.5.2.1. 词内 e 和 o 的连声
+在词内，元音前的 **e** 替换为 **ay**，**o** 替换为 **av**。
 
-#### 6.5.2.2. Lautabstufung (Ablaut) <!-- TODO: Fallback translation -->
+#### 6.5.2.2. 音高变化（Ablaut）
 
-:::grammar-box
-| Tiefstufe:brSchwundstufe | Hochstufe:brVollstufe:brGuṇa m.:br⟪गुण⟫ | Dehnstufe:brVṛddhi f.:br⟪वृद्धि⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **ø** | **a** | **ā** | <!-- TODO: Fallback translation -->
-| **i / ī** | **e** | **ai** | <!-- TODO: Fallback translation -->
-| **u / ū** | **o** | **au** | <!-- TODO: Fallback translation -->
-| **ṛ / ṝ** | **ar** | **ār** | <!-- TODO: Fallback translation -->
-| **ḷ** | **al** | **āl** | <!-- TODO: Fallback translation -->
+::: grammar-box
+| 低等级:br弱化等级 | 高等级:br完全等级:brGuṇa m.:br⟪गुण⟫ | 延长等级:brVṛddhi f.:br⟪वृद्धि⟫ |
+| :--- | :--- | :--- |
+| **ø** | **a** | **ā** |
+| **i / ī** | **e** | **ai** |
+| **u / ū** | **o** | **au** |
+| **ṛ / ṝ** | **ar** | **ār** |
+| **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verben der 4. Präsensklasse (divādi = ⟪दिवादि⟫ = "div usw.")
+### 6.5.3. 第四类现在时动词 (divādi = ⟪दिवादि⟫ = "div 等")
 
-:::grammar-box
-**Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + ya-** <!-- TODO: Fallback translation -->
+::: grammar-box
+**现在词干 = 词根在弱级形式（即其列出的形式）+ ya-**
 
-| Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- | <!-- TODO: Fallback translation -->
-| **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- | <!-- TODO: Fallback translation -->
-| **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- | <!-- TODO: Fallback translation -->
-| **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- | <!-- TODO: Fallback translation -->
+| 词根 (dhātu m.)：br⟪धातु⟫ | 现在时词干 |
+| :--- | :--- |
+| **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
+| **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
+| **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
+| **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
-### 6.5.4. Themavokal, thematische Präsensklassen
+### 6.5.4. 主题元音，主题现在时类
 
-:::grammar-box
-Das **a** in den Stammbildungssuffixen von Präsensklassen nennt man **Themavokal**. Präsensklassen mit **a** im Stammbildungssuffix heißen deswegen "thematische Präsensklassen". <!-- TODO: Fallback translation -->
+::: grammar-box
+词干构成后缀中的 **a** 被称为 **主题元音**。因此，词干构成后缀中含有 **a** 的现在时类被称为“主题现在时类”。
 :::
 ---
 
 ## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
 
-:::grammar-box
-- **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Was tut N. N.?" <!-- TODO: Fallback translation -->
-- **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = "Was tun die N.N.s?" <!-- TODO: Fallback translation -->
-- (karoti, kurvanti zu **kṛ** = ⟪कृ⟫ 8 U: "tun, machen") <!-- TODO: Fallback translation -->
-- **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = "Geht es Ihnen gut?, Wie geht es Ihnen?" <!-- TODO: Fallback translation -->
-- Antwort: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Es geht mir) in jeder Hinsicht gut." <!-- TODO: Fallback translation -->
+::: grammar-box
+- **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = “N. N. 正在做什么？”
+- **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = “N.N.们正在做什么？”
+- (karoti, kurvanti 来自 **kṛ** = ⟪कृ⟫ 第8类动词：意为“做，制作”)
+- **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = “您身体好吗？/ 您好吗？”
+- 回答：**sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = “（我）各方面都很好。”
 :::
 ---
 
 ## 6.7. Wortliste
 
-:::grammar-box
-Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach der Wurzel bedeutet die **Konjugationsklasse**. <!-- TODO: Fallback translation -->
+::: grammar-box
+在梵语中，动词以**词根形式**列出。词根后的数字表示**变位类**。
 
-- **P:** Wurzel ist nur Parasmaipada <!-- TODO: Fallback translation -->
-- **Ā:** Wurzel ist nur Ātmanepada <!-- TODO: Fallback translation -->
-- **U:** Ubhayapada ("beide Wortformen"): Wurzel wird im Parasmaipada und Ātmanepada verwendet. <!-- TODO: Fallback translation -->
-- **():** In Klammern steht die 3. Person Singular Präsens Indikativ (laṭ). <!-- TODO: Fallback translation -->
+- **P：**词根仅为Parasmaipada（他称）
+- **Ā：**词根仅为Ātmanepada（自称）
+- **U：**Ubhayapada（“两者皆用”）：词根在Parasmaipada和Ātmanepada中均使用。
+- **()：**括号内为第三人称单数现在时直陈式（laṭ）。
 :::
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
-- **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : mit einem Opfer verehren, opfern <!-- TODO: Fallback translation -->
-- **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : werden, entstehen, sein <!-- TODO: Fallback translation -->
-- **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : vergegenwärtigen, sich erinnern <!-- TODO: Fallback translation -->
-- **nṛt** 4 P (nṛtyati) ⟪नृत्⟫ ⟪नृत्यति⟫ : tanzen <!-- TODO: Fallback translation -->
-- **nī** 1 U (nayati) ⟪नी⟫ ⟪नयति⟫ : führen <!-- TODO: Fallback translation -->
-- **man** 4 Ā (manyate) ⟪मन्⟫ ⟪मन्यते⟫ : denken <!-- TODO: Fallback translation -->
-- **muh** 4 P (muhyati) ⟪मुह्⟫ ⟪मुह्यति⟫ : verwirrt sein <!-- TODO: Fallback translation -->
-- **yudh** 4 Ā (yudhyate) ⟪युध्⟫ ⟪युध्यते⟫ : kämpfen <!-- TODO: Fallback translation -->
-- **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : eintreten <!-- TODO: Fallback translation -->
-- **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : loslassen, aus sich entlassen, emanieren lassen <!-- TODO: Fallback translation -->
+**学习以下词汇：**
+- **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ ：以祭祀敬奉，献祭
+- **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ ：成为，产生，存在
+- **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ ：使具体化，回忆
+- **nṛt** 4 P (nṛtyati) ⟪नृत्⟫ ⟪नृत्यति⟫ ：跳舞
+- **nī** 1 U (nayati) ⟪नी⟫ ⟪नयति⟫ ：引导
+- **man** 4 Ā (manyate) ⟪मन्⟫ ⟪मन्यते⟫ ：思考
+- **muh** 4 P (muhyati) ⟪मुह्⟫ ⟪मुह्यति⟫ ：困惑
+- **yudh** 4 Ā (yudhyate) ⟪युध्⟫ ⟪युध्यते⟫ ：战斗
+- **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ ：进入
+- **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ ：释放，放出，使流溢
 
 ---
 
 ## 6.8. Übung
 
-**A) Bilden Sie mit den in Klammern angegebenen Wurzeln durch Einsetzen Verbalsätze:** <!-- TODO: Fallback translation -->
-1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh) <!-- TODO: Fallback translation -->
-   ⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫ <!-- TODO: Fallback translation -->
-2. devas ... (nṛt, yudh, smṛ, sṛj) <!-- TODO: Fallback translation -->
-   ⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫ <!-- TODO: Fallback translation -->
-3. kavis ... (man, smṛ, viś) <!-- TODO: Fallback translation -->
-   ⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫ <!-- TODO: Fallback translation -->
-4. dhenus ... (viś, bhū) <!-- TODO: Fallback translation -->
-   ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫ <!-- TODO: Fallback translation -->
+**A) 使用括号中给出的词根，通过填入动词句子来造句：**
+1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
+   ⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫
+2. devas ... (nṛt, yudh, smṛ, sṛj)
+   ⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫
+3. kavis ... (man, smṛ, viś)
+   ⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
+4. dhenus ... (viś, bhū)
+   ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
 
-**B) Setzen Sie die in Übung A gebildeten Sätze in den Plural.** <!-- TODO: Fallback translation -->
+**B) 将练习A中构成的句子变为复数形式。**
 
-**C) Übersetzen Sie ins Sanskrit:** <!-- TODO: Fallback translation -->
-1. Er verehrt mit einem Opfer. (Der Opferpriester für einen Opferherrn) <!-- TODO: Fallback translation -->
-2. Śiva tanzt. <!-- TODO: Fallback translation -->
-3. Rāma führt. <!-- TODO: Fallback translation -->
-4. Śūdras sind verwirrt. <!-- TODO: Fallback translation -->
-5. Die Kṣatriyafrauen treten ein. <!-- TODO: Fallback translation -->
-6. Der HERR lässt emanieren. <!-- TODO: Fallback translation -->
-7. Der Kṣatriya verehrt mit einem Opfer. (als Opferherr) <!-- TODO: Fallback translation -->
-8. Śūdrafrauen tanzen. <!-- TODO: Fallback translation -->
-9. Kṣatriyas kämpfen. <!-- TODO: Fallback translation -->
-10. Heilige Männer führen. <!-- TODO: Fallback translation -->
-11. Sie erinnern sich. <!-- TODO: Fallback translation -->
-12. Wer (fem.) tanzt? <!-- TODO: Fallback translation -->
-13. Die (erwähnte) Brahmanin tanzt. <!-- TODO: Fallback translation -->
+**C) 翻译成梵文：**
+1. 他通过祭祀进行崇拜。（为祭祀主人的祭司）
+2. 湿婆跳舞。
+3. 罗摩领导。
+4. 首陀罗感到困惑。
+5. 刹帝利妇女进入。
+6. 主（HERR）使……显现。
+7. 刹帝利通过祭祀进行崇拜。（作为祭祀主人）
+8. 首陀罗妇女跳舞。
+9. 刹帝利战斗。
+10. 圣人们领导。
+11. 他们回忆。
+12. 谁（阴性）跳舞？
+13. （提到的）婆罗门妇女跳舞。
 
-:::media
+::: media
 ![](/images/lekt0601.webp)
-**Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
-Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
-(Bildquelle: Wikipedia, CC-BY-SA 2.5) <!-- TODO: Fallback translation -->
+**湿婆在舞蹈** = ⟪शिवो⟫ ⟪नृत्यति⟫
+湿婆纳塔罗阇（⟪नटराज⟫），考艾岛卡杜瓦尔印度教寺庙
+（图片来源：维基百科，CC-BY-SA 2.5）
 :::
 ---
 
 ## 6.9. Wiederholungsübung
 
-**A) Einsetzübung: Bilden Sie Fragen, auf die die Sätze, die Sie nach folgenden Einsetzübungen bilden, Antworten sind:** <!-- TODO: Fallback translation -->
-1. devas ... (īśvara, nṛt, sṛj, agni, indra) <!-- TODO: Fallback translation -->
-   ⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫ <!-- TODO: Fallback translation -->
-2. (dvija, sādhu, kavi) ... brāhmaṇaḥ <!-- TODO: Fallback translation -->
-   ⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-3. (śruti) ... vedaḥ <!-- TODO: Fallback translation -->
-   ⟪श्रुति⟫ ... ⟪वेदः⟫ <!-- TODO: Fallback translation -->
-4. (veda) ... śrutiḥ <!-- TODO: Fallback translation -->
-   ⟪वेद⟫ ... ⟪श्रुतिः⟫ <!-- TODO: Fallback translation -->
-5. (brāhmaṇa, guru) ... yajanti <!-- TODO: Fallback translation -->
-   ⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫ <!-- TODO: Fallback translation -->
-6. (devī) ... indrāṇī <!-- TODO: Fallback translation -->
-   ⟪देवी⟫ ... ⟪इन्द्राणी⟫ <!-- TODO: Fallback translation -->
-7. (śūdra, śūdrā, devī) ... nṛtyanti <!-- TODO: Fallback translation -->
-   ⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫ <!-- TODO: Fallback translation -->
-8. (kṣatriya) ... yudhyante <!-- TODO: Fallback translation -->
-   ⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫ <!-- TODO: Fallback translation -->
-9. (brāhmaṇa, brāhmaṇī) ... viśanti <!-- TODO: Fallback translation -->
-   ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫ <!-- TODO: Fallback translation -->
-10. (guru) ... candrakīrtiḥ <!-- TODO: Fallback translation -->
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫ <!-- TODO: Fallback translation -->
-11. (sādhu) ... rāmaḥ <!-- TODO: Fallback translation -->
-    ⟪साधु⟫ ... ⟪रामः⟫ <!-- TODO: Fallback translation -->
+**A) 填空练习：构造问题，使得根据以下填空练习所形成的句子成为这些问题的答案：**
+1. devas ... (īśvara, nṛt, sṛj, agni, indra)
+   ⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫
+2. (dvija, sādhu, kavi) ... brāhmaṇaḥ
+   ⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫
+3. (śruti) ... vedaḥ
+   ⟪श्रुति⟫ ... ⟪वेदः⟫
+4. (veda) ... śrutiḥ
+   ⟪वेद⟫ ... ⟪श्रुतिः⟫
+5. (brāhmaṇa, guru) ... yajanti
+   ⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫
+6. (devī) ... indrāṇī
+   ⟪देवी⟫ ... ⟪इन्द्राणी⟫
+7. (śūdra, śūdrā, devī) ... nṛtyanti
+   ⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫
+8. (kṣatriya) ... yudhyante
+   ⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫
+9. (brāhmaṇa, brāhmaṇī) ... viśanti
+   ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
+10. (guru) ... candrakīrtiḥ
+    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+11. (sādhu) ... rāmaḥ
+    ⟪साधु⟫ ... ⟪रामः⟫
 
-**B) Setzen Sie in den Plural:** <!-- TODO: Fallback translation -->
-1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫ <!-- TODO: Fallback translation -->
-2. kaiṣā. = ⟪कैषा⟫ <!-- TODO: Fallback translation -->
-3. kṣatriyo yajate. = ⟪क्षत्रियो⟫ ⟪यजते⟫ <!-- TODO: Fallback translation -->
-4. sādhvī smarati. = ⟪साध्वी⟫ ⟪स्मरति⟫ <!-- TODO: Fallback translation -->
-5. vaiśyā muhyati. = ⟪वैश्या⟫ ⟪मुह्यति⟫ <!-- TODO: Fallback translation -->
-6. sṛjati. = ⟪सृजति⟫ <!-- TODO: Fallback translation -->
-7. devī manyate. = ⟪देवी⟫ ⟪मन्यते⟫ <!-- TODO: Fallback translation -->
-8. gururviśati. = ⟪गुरुर्विशति⟫ <!-- TODO: Fallback translation -->
-9. ko 'yam. = ⟪को⟫ ⟪ऽयम्⟫ <!-- TODO: Fallback translation -->
-10. iyaṃ devī nṛtyati. = ⟪इयं⟫ ⟪देवी⟫ ⟪नृत्यति⟫ <!-- TODO: Fallback translation -->
-11. eṣa devo yudhyate. = ⟪एष⟫ ⟪देवो⟫ ⟪युध्यते⟫ <!-- TODO: Fallback translation -->
-12. sa sṛjati. = ⟪स⟫ ⟪सृजति⟫ <!-- TODO: Fallback translation -->
-13. paśurdhenuḥ. = ⟪पशुर्धेनुः⟫ <!-- TODO: Fallback translation -->
-14. keyam. = ⟪केयम्⟫ <!-- TODO: Fallback translation -->
+**B) 将以下词语变为复数：**
+1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫
+2. kaiṣā. = ⟪कैषा⟫
+3. kṣatriyo yajate. = ⟪क्षत्रियो⟫ ⟪यजते⟫
+4. sādhvī smarati. = ⟪साध्वी⟫ ⟪स्मरति⟫
+5. vaiśyā muhyati. = ⟪वैश्या⟫ ⟪मुह्यति⟫
+6. sṛjati. = ⟪सृजति⟫
+7. devī manyate. = ⟪देवी⟫ ⟪मन्यते⟫
+8. gururviśati. = ⟪गुरुर्विशति⟫
+9. ko 'yam. = ⟪को⟫ ⟪ऽयम्⟫
+10. iyaṃ devī nṛtyati. = ⟪इयं⟫ ⟪देवी⟫ ⟪नृत्यति⟫
+11. eṣa devo yudhyate. = ⟪एष⟫ ⟪देवो⟫ ⟪युध्यते⟫
+12. sa sṛjati. = ⟪स⟫ ⟪सृजति⟫
+13. paśurdhenuḥ. = ⟪पशुर्धेनुः⟫
+14. keyam. = ⟪केयम्⟫
 
-**C) Bilden Sie das Ātmanepada zu:** <!-- TODO: Fallback translation -->
-1. rāmo yajati. = ⟪रामो⟫ ⟪यजति⟫ <!-- TODO: Fallback translation -->
-2. kṣatriyā nayanti. = ⟪क्षत्रिया⟫ ⟪नयन्ति⟫ <!-- TODO: Fallback translation -->
+**C) Bilden Sie das Ātmanepada zu:**
+1. rāmo yajati. = ⟪रामो⟫ ⟪यजति⟫
+2. kṣatriyā nayanti. = ⟪क्षत्रिया⟫ ⟪नयन्ति⟫
 
-**D) Bilden Sie das Femininum zu:** <!-- TODO: Fallback translation -->
-1. śūdro nayati. = ⟪शूद्रो⟫ ⟪नयति⟫ <!-- TODO: Fallback translation -->
-2. sādhurviśati. = ⟪साधुर्विशति⟫ <!-- TODO: Fallback translation -->
-3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः⟫ ⟪स्मरति⟫ <!-- TODO: Fallback translation -->
-4. kṣatriyo yudhyate. = ⟪क्षत्रियो⟫ ⟪युध्यते⟫ <!-- TODO: Fallback translation -->
-5. devo guruḥ. = ⟪देवो⟫ ⟪गुरुः⟫ <!-- TODO: Fallback translation -->
+**D) 构成阴性形式：**
+1. śūdro nayati. = ⟪शूद्रो⟫ ⟪नयति⟫
+2. sādhurviśati. = ⟪साधुर्विशति⟫
+3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः⟫ ⟪स्मरति⟫
+4. kṣatriyo yudhyate. = ⟪क्षत्रियो⟫ ⟪युध्यते⟫
+5. devo guruḥ. = ⟪देवो⟫ ⟪गुरुः⟫
 
-**E) Übersetzen Sie:** <!-- TODO: Fallback translation -->
-1. devatānnapūrṇā. = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
-2. śūdretarā. = ⟪शूद्रेतरा⟫ <!-- TODO: Fallback translation -->
-3. vaiśyastulādhāraḥ. = ⟪वैश्यस्तुलाधारः⟫ <!-- TODO: Fallback translation -->
-4. kavirmāghaḥ. = ⟪कविर्माघः⟫ <!-- TODO: Fallback translation -->
-5. devyumā. = ⟪देव्युमा⟫ <!-- TODO: Fallback translation -->
-6. śrutirvedaḥ. = ⟪श्रुतिर्वेदः⟫ <!-- TODO: Fallback translation -->
-7. dhenurviśati. = ⟪धेनुर्विशति⟫ <!-- TODO: Fallback translation -->
-8. guruścaitanyaḥ. = ⟪गुरुश्चैतन्यः⟫ <!-- TODO: Fallback translation -->
-9. devīndrāṇī. = ⟪देवीन्द्राणी⟫ <!-- TODO: Fallback translation -->
-10. sādhurguruḥ. = ⟪साधुर्गुरुः⟫ <!-- TODO: Fallback translation -->
-11. gururyajate. = ⟪गुरुर्यजते⟫ <!-- TODO: Fallback translation -->
+**E) Übersetzen Sie:**
+1. devatānnapūrṇā. = ⟪देवतान्नपूर्णा⟫
+2. śūdretarā. = ⟪शूद्रेतरा⟫
+3. vaiśyastulādhāraḥ. = ⟪वैश्यस्तुलाधारः⟫
+4. kavirmāghaḥ. = ⟪कविर्माघः⟫
+5. devyumā. = ⟪देव्युमा⟫
+6. śrutirvedaḥ. = ⟪श्रुतिर्वेदः⟫
+7. dhenurviśati. = ⟪धेनुर्विशति⟫
+8. guruścaitanyaḥ. = ⟪गुरुश्चैतन्यः⟫
+9. devīndrāṇī. = ⟪देवीन्द्राणी⟫
+10. sādhurguruḥ. = ⟪साधुर्गुरुः⟫
+11. gururyajate. = ⟪गुरुर्यजते⟫
 
-**F) Übersetzen Sie ins Sanskrit:** <!-- TODO: Fallback translation -->
-1. Rāma opfert (als Opferherr). <!-- TODO: Fallback translation -->
-2. Durgā ist eine Göttin. <!-- TODO: Fallback translation -->
-3. Mīnākṣī ist eine Göttin. <!-- TODO: Fallback translation -->
+**F) 翻译成梵文：**
+1. 罗摩（作为祭主）进行祭祀。
+2. 杜尔迦是一位女神。
+3. 米纳克希是一位女神。
 
-:::media
+::: media
 ![](/images/lekt0602.webp)
-**Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī-Tempel, Madurai, Tamil Nadu
-(Bildquelle: Wikipedia, Public domain) <!-- TODO: Fallback translation -->
+**Mīnākṣī**（⟪मीनाक्षी⟫），米纳克希神庙，马杜赖，泰米尔纳德邦
+（图片来源：维基百科，公共领域）
 :::
-4. Sie sind verwirrt. <!-- TODO: Fallback translation -->
-5. Rāma ist ein heiliger Mann. <!-- TODO: Fallback translation -->
-6. Wer ist der HERR? <!-- TODO: Fallback translation -->
-7. Indra ist der HERR. <!-- TODO: Fallback translation -->
-8. Die Nutztiere treten ein. <!-- TODO: Fallback translation -->
-9. Viṣṇu lässt emanieren = Viṣṇu erschafft. <!-- TODO: Fallback translation -->
-10. Zweimalgeborene sind gut. <!-- TODO: Fallback translation -->
-11. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
-12. Diese Göttin ist gut. <!-- TODO: Fallback translation -->
-13. Die fünf "Qualen" sind: Nichtwissen, Ichwahn, Leidenschaft (Liebe), Hass, Anhänglichkeit an den Leib. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
-14. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
-15. Diese Brahmanen opfern im Auftrag anderer. <!-- TODO: Fallback translation -->
-16. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
-17. Die Wissenschaften (für einen Fürsten) sind: Philosophie, das dreifache (Vedawissen), Ökonomie und Politik. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
-18. Geht es Ihnen gut? <!-- TODO: Fallback translation -->
-19. (Es geht mir) in jeder Hinsicht gut. <!-- TODO: Fallback translation -->
+4. 他们感到困惑。
+5. 罗摩是一位神圣的人。
+6. 谁是主？
+7. 因陀罗是主。
+8. 牲畜进入。
+9. 毗湿奴令其流溢 = 毗湿奴创造。
+10. 再生者（Dvija）是善良的。
+11. 三重（知识）是《萨摩吠陀》、《梨俱吠陀》和《夜柔吠陀》。（两种可能性）
+12. 这位女神是善良的。
+13. 五种“苦难”是：无明、我执、欲望（爱）、憎恨、对身体的执着。（两种可能性）
+14. “梵住”（Brahmavihāras）是：慈、悲、喜、舍。（两种可能性）
+15. 这些婆罗门为他人进行祭祀。
+16. 婆罗门、刹帝利和吠舍是再生者。（两种可能性）
+17. （君王的）学问是：哲学、三重（吠陀知识）、经济学和政治学。（两种可能性）
+18. 您身体好吗？
+19. （我）各方面都很好。

@@ -72,38 +72,38 @@ outline: [2, 3]
 ### 2.4 संस्कृत-निर्मित शब्द एवं समास
 
 *   **समास (संयुक्त शब्द)**:
-    *   **द्वन्द्व** (सहचारी समास) -> [पाठ 5](/lektionen/lektion05), [पाठ 9](/lektionen/lektion09)
-    *   **तत्पुरुष** (विशेषक समास) -> [पाठ 15](/lektionen/lektion15), [पाठ 18](/lektionen/lektion18)
-    *   उपपद समास -> [पाठ 51](/lektionen/lektion51)
-    *   **बहुव्रीहि** (स्वाम्यार्थी समास) -> [पाठ 20](/lektionen/lektion20)
+    *   **द्वन्द्व** (सहचारी समास) -\> [पाठ 5](/lektionen/lektion05), [पाठ 9](/lektionen/lektion09)
+    *   **तत्पुरुष** (विशेषक समास) -\> [पाठ 15](/lektionen/lektion15), [पाठ 18](/lektionen/lektion18)
+    *   उपपद समास -\> [पाठ 51](/lektionen/lektion51)
+    *   **बहुव्रीहि** (स्वाम्यार्थी समास) -\> [पाठ 20](/lektionen/lektion20)
 *   **प्रत्यय एवं क्रियाविशेषक**:
-    *   महत्वपूर्ण प्रत्यय (-a, -ana, -tra, आदि) -> [पाठ 8](/lektionen/lektion08), [पाठ 9](/lektionen/lektion09)
-    *   **PPP** (कर्मणि कृदंत / पूर्ण काल का कर्मवाच्य क्रियाविशेषक) -> [पाठ 12](/lektionen/lektion12), [पाठ 13](/lektionen/lektion13)
-    *   **PPA** (कर्तरि कृदंत / पूर्ण काल का कर्तृवाच्य क्रियाविशेषक) -> [पाठ 52](/lektionen/lektion52)
-    *   **अतिरिक्त क्रियाविशेषक एवं अनिर्देश्य क्रियापद** -> [पाठ 22](/lektionen/lektion22), [पाठ 23](/lektionen/lektion23)
+    *   महत्वपूर्ण प्रत्यय (-a, -ana, -tra, आदि) -\> [पाठ 8](/lektionen/lektion08), [पाठ 9](/lektionen/lektion09)
+    *   **PPP** (कर्मणि कृदंत / पूर्ण काल का कर्मवाच्य क्रियाविशेषक) -\> [पाठ 12](/lektionen/lektion12), [पाठ 13](/lektionen/lektion13)
+    *   **PPA** (कर्तरि कृदंत / पूर्ण काल का कर्तृवाच्य क्रियाविशेषक) -\> [पाठ 52](/lektionen/lektion52)
+    *   **अतिरिक्त क्रियाविशेषक एवं अनिर्देश्य क्रियापद** -\> [पाठ 22](/lektionen/lektion22), [पाठ 23](/lektionen/lektion23)
 
 ## 3. वाक्यविद्या (व्याकरण)
 
-*   **नामवाक्य** -> [पाठ 2](/lektionen/lektion02)
-*   **प्रश्नवाक्य** -> [पाठ 37](/lektionen/lektion37)
+*   **नामवाक्य** -\> [पाठ 2](/lektionen/lektion02)
+*   **प्रश्नवाक्य** -\> [पाठ 37](/lektionen/lektion37)
 *   **विभक्तिप्रयोग**:
-    *   नामवाक्य और प्रथमा -> [पाठ 2](/lektionen/lektion02)
-    *   चतुर्थी (दोहरी सहित) -> [पाठ 7](/lektionen/lektion07), [पाठ 11](/lektionen/lektion11)
-    *   तृतीया -> [पाठ 10](/lektionen/lektion10)
-    *   षष्ठी -> [पाठ 14](/lektionen/lektion14)
-    *   सप्तमी -> [पाठ 24](/lektionen/lektion24)
-    *   अष्टमी -> [पाठ 25](/lektionen/lektion25)
-    *   सप्तमी -> [पाठ 27](/lektionen/lektion27)
+    *   नामवाक्य और प्रथमा -\> [पाठ 2](/lektionen/lektion02)
+    *   चतुर्थी (दोहरी सहित) -\> [पाठ 7](/lektionen/lektion07), [पाठ 11](/lektionen/lektion11)
+    *   तृतीया -\> [पाठ 10](/lektionen/lektion10)
+    *   षष्ठी -\> [पाठ 14](/lektionen/lektion14)
+    *   सप्तमी -\> [पाठ 24](/lektionen/lektion24)
+    *   अष्टमी -\> [पाठ 25](/lektionen/lektion25)
+    *   सप्तमी -\> [पाठ 27](/lektionen/lektion27)
 *   **उपवाक्य**:
-    *   विशेषण उपवाक्य -> [पाठ 19](/lektionen/lektion19)
-    *   विभक्तिकालिक क्रियाविशेषणों का प्रयोग -> [पाठ 12](/lektionen/lektion12), [पाठ 44](/lektionen/lektion44)
+    *   विशेषण उपवाक्य -\> [पाठ 19](/lektionen/lektion19)
+    *   विभक्तिकालिक क्रियाविशेषणों का प्रयोग -\> [पाठ 12](/lektionen/lektion12), [पाठ 44](/lektionen/lektion44)
 
 ## 4. छंदशास्त्र (व्याकरण)
 
 संस्कृत-दर्शन और साहित्य अक्सर श्लोकों में लिखे जाते हैं। छंद शास्त्र इन श्लोकों की लय और संरचना सिखाता है।
 
-*   **परिचय एवं श्लोक** -> [पाठ 45](/lektionen/lektion45), [पाठ 53](/lektionen/lektion53)
-*   **उन्नत छंद** (त्रिष्टुभ्, जागति) -> [पाठ 54](/lektionen/lektion54)
+*   **परिचय एवं श्लोक** -\> [पाठ 45](/lektionen/lektion45), [पाठ 53](/lektionen/lektion53)
+*   **उन्नत छंद** (त्रिष्टुभ्, जागति) -\> [पाठ 54](/lektionen/lektion54)
 
 
 

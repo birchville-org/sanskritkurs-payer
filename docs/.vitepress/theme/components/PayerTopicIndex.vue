@@ -1,7 +1,8 @@
 <script setup>
 import { useRoute } from 'vitepress'
+import { useData } from 'vitepress'
 import { computed } from 'vue'
-import { data } from '../data/topics.data.mjs'
+import { data } from '../../data/topics.data.js'
 
 const route = useRoute()
 
@@ -26,31 +27,62 @@ const topicList = computed(() => {
   return Object.keys(topicMap.value).sort((a, b) => a.localeCompare(b))
 })
 
-// Group topics by their first letter
-const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ".split("");
-const groupedTopics = computed(() => {
-  const groups = alphabet.reduce((acc, letter) => {
-    const matches = topicList.value.filter(t => t.toUpperCase().startsWith(letter));
-    if (matches.length > 0) {
-      acc.push({ letter, matches });
-    }
-    return acc;
-  }, []);
+function cleanTopicStart(topic) {
+  if (!topic) return ''
+  // Remove leading quotes, backslashes, and whitespace
+  return topic.trim().replace(/^[\\"'„“«»‘’\s]+/, '')
+}
 
-  // Add Devanagari / Special group for everything else
-  const otherMatches = topicList.value.filter(t => {
-    const first = t.charAt(0).toUpperCase();
-    return !alphabet.includes(first);
-  });
-  if (otherMatches.length > 0) {
-    groups.push({ letter: "Saṃskṛtam", matches: otherMatches });
+function getBaseChar(char) {
+  if (!char) return ''
+  // Normalize accents (e.g. À -> A) and cleanup whitespace
+  const normalized = char.normalize("NFD").replace(/[\u0300-\u036f]/g, "")
+  return normalized.toUpperCase().trim()
+}
+
+// Group topics dynamically by their actual starting letters (supports Cyrillic, Hindi, Tamil, Gurmukhi, Hebrew, Arabic etc.)
+const alphabetList = computed(() => {
+  const letters = new Set()
+  for (const topic of topicList.value) {
+    const cleaned = cleanTopicStart(topic)
+    if (cleaned) {
+      const firstChar = cleaned.charAt(0)
+      const baseChar = getBaseChar(firstChar)
+      if (baseChar) {
+        letters.add(baseChar)
+      }
+    }
   }
-  return groups;
+  return Array.from(letters).sort((a, b) => a.localeCompare(b, localeCode.value || 'de'))
+})
+
+const groupedTopics = computed(() => {
+  return alphabetList.value.reduce((acc, letter) => {
+    const matches = topicList.value.filter(t => {
+      const cleaned = cleanTopicStart(t)
+      if (!cleaned) return false
+      const first = cleaned.charAt(0)
+      return getBaseChar(first) === letter
+    })
+    if (matches.length > 0) {
+      acc.push({ letter, matches })
+    }
+    return acc
+  }, [])
 })
 
 function getLessonLink(num) {
   const padded = num.toString().padStart(2, '0');
   return `${langPrefix.value}/lektionen/lektion${padded}`;
+}
+
+function formatTopic(content) {
+  if (!content) return '';
+  const SANSKRIT_RE = /[⟪《]([^⟫⟩》]+)[⟫⟩》]/g;
+  const SIG_RE = /sig\[(.*?)\]/g;
+  let html = content.replace(SANSKRIT_RE, '<span class="sanskrit-dev" translate="no" lang="sa">$1</span>');
+  html = html.replace(SIG_RE, '<strong class="signalrot">$1</strong>');
+  return html;
 }
 </script>
 
@@ -66,7 +98,7 @@ function getLessonLink(num) {
       <h2 :id="group.letter">{{ group.letter }}</h2>
       <ul class="topic-list">
         <li v-for="topic in group.matches" :key="topic" class="topic-item">
-          <span class="topic-name">{{ topic }}</span>
+          <span class="topic-name" v-html="formatTopic(topic)"></span>
           <div class="lesson-links">
             <a v-for="num in topicMap[topic]" 
                :key="num" 

@@ -62,56 +62,58 @@ B) Insérez les formes correspondantes des verbes indiqués entre parenthèses �
 
 ⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेन⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेनापिपः⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪पात्रं⟫ ⟪जलेन⟫ ⟪पिपूर्यात्⟫ ⟪॥८॥⟫
 
-C) Traduisez et transformez les phrases singulières en phrases plurielles et vice versa :
+C) Traduisez et transformez les phrases au singulier en phrases au pluriel et vice versa :
 
 ⟪योगयुक्तो⟫ ⟪मतिं⟫ ⟪दुःखमक्षनयन्त्यां⟫ ⟪प्रज्ञायां⟫ ⟪समाधत्ते⟫ ⟪॥१॥⟫
 
-Un yogī concentre son esprit sur la compréhension qui mène à la libération de la souffrance.
+Un yogin concentre son esprit sur la compréhension qui mène à la libération de la souffrance.
 
-⟪योगयुक्ता⟫ ... ⟪समादधते⟫ ⟪॥१॥⟫
+⟪योगयुक्ता⟩ ... ⟪समादधते⟩ ⟪॥१॥⟩
 
-⟪यो⟫ ⟪भिक्षवे⟫ ⟪दानानि⟫ ⟪द्द्यात्सो⟫ ⟪ऽपि⟫ ⟪दानपुण्यमाददीत⟫ ⟪॥२॥⟫
+⟪यो⟩ ⟪भिक्षवे⟩ ⟪दानानि⟩ ⟪द्द्यात्सो⟩ ⟪ऽपि⟩ ⟪दानपुण्यमाददीत⟩ ⟪॥२॥⟩
 
-Celui qui offre des dons à un moine obtient le mérite de son offrande.
+Celui qui offre des dons à un moine obtient le mérite de son don.
 
-⟪ये⟫ ... ⟪दद्युस्ते⟫ ... ⟪आददीरन्⟫ ⟪॥२॥⟫
+⟪ये⟩ ... ⟪दद्युस्ते⟩ ... ⟪आददीरन्⟩ ⟪॥२॥⟩
 
-⟪ब्राह्मणा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪ब्राह्मणदासो⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫ ⟪॥३॥⟫
+⟪ब्राह्मणा⟩ ⟪भारं⟩ ⟪न⟩ ⟪बिभ्रतीति⟩ ⟪ब्राह्मणदासो⟩ ⟪भारं⟩ ⟪गृहमबिभः⟩ ⟪॥३॥⟩
 
-Puisque les brāhmaṇes ne portent aucune charge, le serviteur du brāhmaṇe porta la charge à la maison.
+Puisque les Brahmanes ne portent aucune charge, le serviteur du Brahmane a porté la charge à la maison.
 
-⟪ब्राह्म्णो⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभर्तीति⟫ ⟪ब्राह्मणदासा⟫ ⟪भारं⟫ ⟪गृहमबिभरुः⟫ ⟪॥३॥⟫
+⟪ब्राह्म्णो⟩ ⟪भारं⟩ ⟪न⟩ ⟪बिभर्तीति⟩ ⟪ब्राह्मणदासा⟩ ⟪भारं⟩ ⟪गृहमबिभरुः⟩ ⟪॥३॥⟩
 
-⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हीत्वा⟫ ⟪पनर्भवमैत्⟫ ⟪॥४॥⟫
+⟪क्षत्रियशूरः⟩ ⟪पुत्रमादाय⟩ ⟪योद्धुं⟩ ⟪कुलमजहात्⟩ ⟪।⟩ ⟪स⟩ ⟪युद्धे⟩ ⟪शत्रुहतत्वाच्छरीरं⟩ ⟪हीत्वा⟩ ⟪पनर्भवमैत्⟩ ⟪॥४॥⟩
 
-Le héros kṣatriya quitta la famille avec son fils pour combattre. Puisqu'il fut tué par l'ennemi au combat, il quitta son corps et fut réincarné.
+Le héros kṣatriya a quitté sa famille avec son fils pour combattre. Ayant été tué par l'ennemi au combat, il a quitté son corps et a été réincarné.
 
-⟪क्षत्रियशूराः⟫ ⟪पुत्रानादाय⟫ ⟪योद्धुं⟫ ⟪कुलान्यजहुः⟫ ⟪।⟫ ⟪ते⟫ ⟪युद्धे⟫ ⟪शत्रुहत्वाच्छरीराणि⟫ ⟪हीत्वा⟫ ⟪पुनर्भवमायन्⟫ ⟪॥४॥⟫
+⟪क्षत्रियशूराः⟩ ⟪पुत्रानादाय⟩ ⟪योद्धुं⟩ ⟪कुलान्यजहुः⟩ ⟪।⟩ ⟪ते⟩ ⟪युद्धे⟩ ⟪शत्रुहत्वाच्छरीराणि⟩ ⟪हीत्वा⟩ ⟪पुनर्भवमायन्⟩ ⟪॥४॥⟩
 
-⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
+⟪देवदत्तमपि⟩ ⟪सुखं⟩ ⟪दुःखमोक्षेष्टिं⟩ ⟪न⟩ ⟪पिपर्ति⟩ ⟪।⟩ ⟪सेष्टिः⟩ ⟪प्रज्ञयैव⟩ ⟪सम्पूर्यते⟩ ⟪॥५॥⟩
 
-Même le bonheur offert par les dieux ne satisfait pas le souhait de la libération de la souffrance. Ce souhait n’est pleinement réalisé que par la vision libératrice.
+Même le bonheur offert par les dieux ne satisfait pas le souhait d'être libéré de la souffrance. Ce souhait n'est pleinement réalisé que par une compréhension libératrice.
 
-⟪देवदत्तान्यपि⟫ ⟪सुखानि⟫ ⟪दुःखमोक्षेष्तीर्न⟫ ⟪पिपुरति⟫ ⟪।⟫ ⟪ता⟫ ⟪इष्टयः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यन्ते⟫ ⟪॥५॥⟫
+⟪देवदत्तान्यपि⟩ ⟪सुखानि⟩ ⟪दुःखमोक्षेष्तीर्न⟩ ⟪पिपुरति⟩ ⟪।⟩ ⟪ता⟩ ⟪इष्टयः⟩ ⟪प्रज्ञयैव⟩ ⟪सम्पूर्यन्ते⟩ ⟪॥५॥⟩
 
-⟪यः⟫ ⟪साधुर्भूतेभ्यो⟫ ⟪ऽभयं⟫ ⟪ददाति⟫ ⟪तस्माद्भूतानि⟫ ⟪न⟫ ⟪बिभ्यति⟫ ⟪स⟫ ⟪च⟫ ⟪तेभ्यो⟫ ⟪न⟫ ⟪बिभेति⟫ ⟪॥६॥⟫
+⟪यः⟩ ⟪साधुर्भूतेभ्यो⟩ ⟪ऽभयं⟩ ⟪ददाति⟩ ⟪तस्माद्भूतानि⟩ ⟪न⟩ ⟪बिभ्यति⟩ ⟪स⟩ ⟪च⟩ ⟪तेभ्यो⟩ ⟪न⟩ ⟪बिभेति⟩ ⟪॥६॥⟩
 
-Devant un saint qui offre l’insaisissabilité aux êtres, les êtres ne craignent pas, et lui ne craint pas eux.
+Devant un saint qui offre l'insaisissabilité aux êtres, les êtres ne craignent pas et il ne craint pas eux.
 
-⟪ये⟫ ⟪साधवो⟫ ⟪भूताय⟫ ⟪ऽभयं⟫ ⟪ददति⟫ ⟪तेभ्यो⟫ ⟪तन्न⟫ ⟪बिभेति⟫ ⟪ते⟫ ⟪च⟫ ⟪तस्मान्न⟫ ⟪बिभ्यति⟫ ⟪॥६॥⟫
+⟪ये⟩ ⟪साधवो⟩ ⟪भूताय⟩ ⟪ऽभयं⟩ ⟪ददति⟩ ⟪तेभ्यो⟩ ⟪तन्न⟩ ⟪बिभेति⟩ ⟪ते⟩ ⟪च⟩ ⟪तस्मान्न⟩ ⟪बिभ्यति⟩ ⟪॥६॥⟩
 
-⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
+⟪मितमतयो⟩ ⟪नरकभयाद्स्वर्गलोभाच्च⟩ ⟪पुण्यं⟩ ⟪कुर्वन्ति⟩ ⟪पापं⟩ ⟪च⟩ ⟪जहति⟩ ⟪।⟩ ⟪अमितप्रज्ञाबुद्धा⟩ ⟪हि⟩ ⟪नरकेभ्यो⟩ ⟪न⟩ ⟪बिभीयुः⟩ ⟪स्वर्गांश्च⟩ ⟪न⟩ ⟪लुभ्येयुः⟩ ⟪।⟩ ⟪ते⟩ ⟪भयं⟩ ⟪च⟩ ⟪लोभं⟩ ⟪चारुन्धन्⟩ ⟪॥७॥⟩
 
-Les esprits limités accomplissent des méritoires et s’abstiennent du mal, car ils craignent les enfers et convoitent les cieux. Ceux qui se sont réveillés à la vision illimitée ne craignent pas les enfers et ne convoitent pas les cieux. Ils ont mis fin à la peur et au désir.
+Les esprits limités accomplissent des actions méritoires et s'abstiennent du mal parce qu'ils craignent les enfers et désirent les cieux. Ceux qui se sont réveillés à une compréhension illimitée ne craignent pas les enfers et ne désirent pas les cieux. Ils ont mis fin à la peur et au désir.
 
-⟪मितमतिर्नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहाति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धो⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयात्स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येत्⟫ ⟪।⟫ ⟪स⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुणत्⟫ ⟪।⟫ ... ⟪बिभियात्⟫ ... ⟪॥७॥⟫
+⟪मितमतिर्नरकभयात्स्वर्गलोभाच्च⟩ ⟪पुण्यं⟩ ⟪करोति⟩ ⟪पापं⟩ ⟪च⟩ ⟪जहाति⟩ ⟪।⟩ ⟪अमितप्रज्ञाबुद्धो⟩ ⟪हि⟩ ⟪नरकेभ्यो⟩ ⟪न⟩ ⟪बिभीयात्स्वर्गांश्च⟩ ⟪न⟩ ⟪लुभ्येत्⟩ ⟪।⟩ ⟪स⟩ ⟪भयं⟩ ⟪च⟩ ⟪लोभं⟩ ⟪चारुणत्⟩ ⟪।⟩ ... ⟪बिभियात्⟩ ... ⟪॥७॥⟩
 
-::::media
+::: media
 ![](/images/uebung055.webp)
-Fig. : ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
-(Source de l’image : [Détails](/fr/licenses#uebung055))
-::::::media
+Fig. : ⟪मितमतयो⟩ ⟪नरकभयाद्स्वर्गलोभाच्च⟩ ⟪पुण्यं⟩ ⟪कुर्वन्ति⟩ ⟪पापं⟩ ⟪च⟩ ⟪जहति⟩
+(Source de l'image : [Détails](/licenses#uebung055))
+:::
+
+::: media
 ![](/images/uebung056.webp)
-Fig. : ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫
-(Source de l’image : [Détails](/fr/licenses#uebung056))
+Fig. : ⟪मितमतयो⟩ ⟪नरकभयाद्स्वर्गलोभाच्च⟩ ⟪पुण्यं⟩ ⟪कुर्वन्ति⟩ ⟪पापं⟩ ⟪च⟩ ⟪जहति⟩
+(Source de l'image : [Détails](/licenses#uebung056))
 :::
