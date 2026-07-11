@@ -1,9 +1,9 @@
 ---
-title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+title: Lesson 45
+subtitle: "Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems without vocally ending suffix (continuation)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "Grammar"
 status: stable
 ---
 
@@ -19,9 +19,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Present** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
-| **Imperfect** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
-| **Optative** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \&lt;⟪जुहुषे⟫\&gt; | \&lt;⟪जुहुध्वे⟫\&gt; |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \&lt;⟪अजुहुथास्⟫\&gt; | \&lt;⟪अजुहुध्वम्⟫\&gt; |
+| **Optative** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \&lt;⟪जुह्वीथास्⟫\&gt; | \&lt;⟪जुह्वीध्वम्⟫\&gt; |
 :::
 ⟪धा⟫ 2U
 
@@ -104,14 +104,14 @@ Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 
 ## 45.4. Exercise
 
-A) Translate into Sanskrit (for past tense forms, please use the Imperfect \<⟪लङ्⟫\>):
+A) Translate into Sanskrit (for past tense forms, please use the Imperfect \&lt;⟪लङ्⟫\&gt;):
 
 1\. You split the (Buddhist) community.
 
 ::: indent
 regarding community schism (⟪सङ्घभेद⟫) see:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2\. Have you enjoyed the earth?
 

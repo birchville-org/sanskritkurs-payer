@@ -103,19 +103,19 @@ lesson_id: 19
 ::: indent
 **⟪स्थान⟫ n.:** 地点，（正确的）位置，地点
 
-**⟪स्थिति⟫ f.:** Verweilen, Standhaftigkeit, Beharren
+**⟪स्थिति⟫ f.：停留，坚定，坚持**
 :::
-**⟪गर्भ⟫ m.:** Gebärmutter, Schoß, Inneres, Embryo / Foetus. Am Ende eines Bahuvrīhi oft: "Inneres", z.B.
+**⟪गर्भ⟫ m.：子宫，腹中，内部，胚胎/胎儿。在 Bahuvrīhi（持业释）复合词末尾时常意为：“内部”，例如：**
 
 ::: indent
 **⟪धनगर्भ⟫ 3:** “其内在为金钱 = 其中存有金钱”
 
-**⟪गर्भगृह⟫ n.:** der innerste Schreinraum eines Hindutempels, der das wichtigste Götterbildnis des Tempels enthält (zum Aufbau von Hindutempeln siehe: Volwahsen, A.: Indien : Bauten der Hindus, Buddhisten und Jainas. -- München, 1968)
+**⟪गर्भगृह⟫ n.:** 印度教寺庙中最内部的圣所，供奉着该寺庙最重要的神像（关于印度教寺庙的建筑结构，参见：Volwahsen, A.: 印度：印度教徒、佛教徒和耆那教的建筑。——慕尼黑，1968年）
 :::: media
 ![](/images/lekt1901.webp)
-Abb.: ⟪गर्भगृहम्⟫
-Badami (ಬದಾಮಿ)
-(图片来源：[详细信息](/zh-CN/licenses#lekt1901))
+图：⟪गर्भगृहम्⟫
+巴达米 (ಬದಾಮಿ)
+（图片来源：[详细信息](/zh-CN/licenses#lekt1901)）
 ::::
 :::
 **⟪वारिद⟫ m.:** 持水者 = 雨云
@@ -131,9 +131,9 @@ Badami (ಬದಾಮಿ)
 davon:
 
 ::: indent
-**⟪वात⟫ m.:** Wind
+**⟪वात⟫ m.:** 风
 :::
-**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** führen, fahren (trans.)
+**⟪वह्⟫ 1 U ⟪वहति⟫ Pass. ⟪उह्यते⟫ PPP ⟪ऊढ⟫ :** 引导，驾驶（及物）
 
 **⟪छत्त्र⟫ n.:** 伞，遮阳伞
 

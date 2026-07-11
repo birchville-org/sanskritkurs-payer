@@ -27,7 +27,7 @@ As an adverbial (indeclinable) first member,
 ::: indent
 may be used. Such Tatpuruṣa compounds mostly belong to the class of Nityasamāsa = ⟪नित्यसमास⟫ (m. "permanent compound"), i.e., compounds that cannot be resolved at all, or not merely by means of the words occurring within the compound itself.
 :::
-Examples:
+Contoh-contoh:
 
 ⟪अति⟫ "beyond, moreover":
 
@@ -44,7 +44,7 @@ The most important adverbial first members are a-/an-, su-, dus-.
 
 ⟪अ⟫ (before consonants), ⟪अन्⟫ (before vowels): un-: stands in the compound in place of ⟪न⟫ "not".
 
-Examples:
+Contoh-contoh:
 
 ::: indent
 ⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): untruth, lie
@@ -57,7 +57,7 @@ Examples:
 :::
 ⟪सु⟫ "well, good"; when resolving the compound, commentators replace it with an adjective meaning "good" (e.g., ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
 
-Examples:
+Contoh-contoh:
 
 ::: indent
 ⟪सुकवि⟫ m.: a good poet
@@ -70,7 +70,7 @@ Examples:
 :::
 ⟪दुस्⟫ "bad, evil" (observe Sandhi!).
 
-Examples:
+Contoh-contoh:
 
 ::: indent
 ⟪दुर्नय⟫ m.: bad guidance, bad conduct
@@ -96,7 +96,7 @@ Therefore: ⟪दुष्करण⟫
 
 Compounds of Type ⟪सुकर⟫ / ⟪दुष्कर⟫ primarily denote the meaning of passive possibility:
 
-Examples:
+Contoh-contoh:
 
 :::
 ::: indent
@@ -145,18 +145,18 @@ Six meanings of nañ (= a-/an-) are named ....
 :::
 ⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ p. 2 l. 14f.
 
-A prefix violently alters the meaning of a root, just as the sweetness of the Ganges water is altered by seawater.
+Sebuah awalan mengubah makna akar kata secara drastis, sebagaimana manisnya air Gangga diubah oleh air laut.
 
 ::: grammar-box
 
-Verbs in Sanskrit can be combined with prefixes (⟪उपसर्ग⟫ m.). In doing so, sentence sandhi usually applies. Prefixes can significantly modify the meaning of the root, so that in many cases the meaning of a root with a prefix must be learned separately. Verbs with a prefix can have a different mood (P, Ā) than the simple root. Multiple prefixes can be placed before a root simultaneously.
+Verba dalam bahasa Sanskerta dapat digabungkan dengan awalan (⟪उपसर्ग⟫ m.). Dalam melakukan hal ini, sandhi kalimat biasanya berlaku. Awalan dapat mengubah makna akar kata secara signifikan, sehingga dalam banyak kasus makna akar kata dengan awalan harus dipelajari secara terpisah. Verba dengan awalan dapat memiliki modus (P, Ā) yang berbeda dari akar kata sederhana. Beberapa awalan dapat ditempatkan sebelum akar kata secara bersamaan.
 
 :::
 Some important prefixes are:
 
 ⟪उप⟫ "to, towards, against"
 
-Examples:
+Contoh-contoh:
 
 ::: indent
 ⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : to go towards, to approach
@@ -171,7 +171,7 @@ Examples:
 :::
 ⟪प्र⟫ "forward, forth"
 
-Examples:
+Contoh-contoh:
 
 ::: indent
 ⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : to attain
@@ -190,7 +190,7 @@ Examples:
 :::
 ⟪वि⟫ "apart, away, apart, ver-"
 
-Examples:
+Contoh-contoh:
 
 ::: indent
 ⟪विगम्⟫ 1 ⟪विगच्छति⟫ : to go apart, to pass away, to disappear
@@ -207,7 +207,7 @@ Examples:
 :::
 ⟪सम्⟫ "together, with"
 
-Examples:
+Contoh-contoh:
 
 ::: indent
 ⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : to sit together, to stay, to dwell
@@ -228,10 +228,10 @@ Examples:
 :::
 ::: grammar-box
 
-The root ⟪कृ⟫ "to do" shows, in connection with the prefixes ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫, also the form ⟪स्कृ⟫
+Akar kata ⟪कृ⟫ "melakukan" menunjukkan, dalam hubungannya dengan awalan ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫, juga bentuk ⟪स्कृ⟫
 
 :::
-Example:
+Contoh:
 
 ::: indent
 sam-kṛ 8 ⟪संस्करोति⟫ : to prepare, to prepare for sacrifice, to consecrate
@@ -242,10 +242,10 @@ sam-kṛ 8 ⟪संस्करोति⟫ : to prepare, to prepare for sacrif
 
 ::: grammar-box
 
-From roots with preverbs, nouns can be formed using kṛt suffixes.
+Dari akar kata dengan preverba, nomina dapat dibentuk menggunakan sufiks kṛt.
 
 :::
-Examples:
+Contoh-contoh:
 
 sam-kṛ + -a = ⟪संस्कार⟫ m.: consecration, preparation ; transition rituals = designation for the ceremonies that accompany the various stages of life from conception to death (see the excellent summary by Basham, Wonder pp. 160 - 170!)
 
@@ -274,7 +274,7 @@ Fig.: ⟪उपनयनम्⟫
 
 ⟪शोभन⟫ 3: brilliant, magnificent, splendid, beautiful, good
 
-⟪सम⟫ 3: equal, even, similar (with instrumental case)
+⟪सम⟫ 3: sama, rata, serupa (dengan kasus instrumental)
 
 ⟪व्याधि⟫ m.: illness
 
@@ -402,7 +402,7 @@ Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Print
 (Image source: [Details](/en/licenses#lekt1802))
 :::
-B) Translate using verbs of the 2nd present class:
+B) Terjemahkan menggunakan verba dari kelas presens ke-2:
 
 1. The Brahmin praises the goddesses.
 

@@ -13,8 +13,8 @@ status: stable
 
 **在低调词根的尾辅音前，插入一个所谓的鼻音词缀（-na- 或 -n-）：**
 
-*   **im starken Stamm: -na-**
-*   **im schwachen Stamm: -n-**
+*   **强词干：-na-**
+*   **弱词干：-n-**
 
 **对于词根末尾辅音与以辅音开头的词尾的连接，适用与第二现在时类相同的规则。**
 :::
@@ -222,7 +222,7 @@ B) 为以下第七类词根，构成第三人称单数和复数，P（Parasmaipa
 
 **lekt3103:** 出自《般若波罗蜜多》手稿。[图片来源：zeno.org。公有领域]
 
-**lekt3105:** Panzer des 18. Kavallerieregiments (Indische Armee) während des Indo-Pakistan-Krieges 1965. [Bildquelle: Hari Singh Deora / Wikipedia. Gemeinfrei]
+**lekt3105:** 18年印度骑兵 regiment（印度军队）在1965年印巴战争期间的装甲车。[图片来源：Hari Singh Deora / 维基百科。公有领域]
 
 **lekt3104:** 佛陀之子罗睺罗，老挝。[图片来源：Sacca / 维基百科。GNU FDL]
 :::

@@ -6,19 +6,19 @@ status: stable
 
 # Lesson 31
 
-## 31.1. The 7th Present Class (⟪रुधादि⟫ = "⟪रुध्⟫ etc.")
+## 31.1. Kelas Kini ke-7 (⟪रुधादि⟫ = "⟪रुध्⟫ dll.")
 
 ::: grammar-box
 **Formation:**
 
-**Before the final consonants of the low-grade root, a so-called nasal infix (-na- or -n-) is inserted:**
+**Sebelum konsonan akhir dari akar tingkat rendah, sisipan nasal yang disebut (-na- atau -n-) disisipkan:**
 
-*   **in the strong stem: -na-**
-*   **in the weak stem: -n-**
+*   **dalam batang kuat: -na-**
+*   **dalam batang lemah: -n-**
 
-**The rules for the combination of the root's final consonants with consonant-initial endings are the same as for the 2nd Present Class.**
+**Aturan untuk kombinasi konsonan akhir akar dengan akhiran berawalan konsonan sama seperti untuk Kelas Kini ke-2.**
 :::
-Examples:
+Contoh:
 
 ⟪युज्⟫ 7U "to bind, to yoke"
 
@@ -47,9 +47,9 @@ Examples:
 
 :::
 ::: grammar-box
-**In the case of some roots, the -n- of the weak present stem has also penetrated into non-present tenses, so that these roots are posited with an infix nasal.**
+**Dalam kasus beberapa akar, -n- dari batang kini lemah juga telah menembus ke dalam kala non-kini, sehingga akar-akar ini dipostulatkan dengan sisipan nasal.**
 :::
-Example:
+Contoh:
 
 **⟪भञ्ज्⟫** 7P "to break"
 
@@ -58,7 +58,7 @@ Example:
     *   3.sg.P. **⟪भनक्ति⟫** (bha-na + j + ti)
     *   3.pl.P. **⟪भञ्जन्ति⟫** (bha + n + j-anti)
 *   Future: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
-*   Passive: **⟪भज्यते⟫** (either from the original root **⟪भज्⟫** or from *bhñj-ya-te)
+*   Pasif: **⟪भज्यते⟫** (baik dari akar asli **⟪भज्⟫** atau dari *bhñj-ya-te)
 *   PPP: **⟪भग्न⟫** (possibly from *bhñj + na)
 :::
 ## 31.2. Word List
@@ -202,7 +202,7 @@ Rāhula, the son of the Buddha, Laos.
 :::
 ⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
-B) For the following 7th-class roots, form all 3rd person singular and plural, P and Ā, of the Indicative and Optative Present:
+B) Untuk akar-akar kelas ke-7 berikut, bentuk semua orang ketiga tunggal dan jamak, P dan Ā, dari Indikatif dan Optatif Kini:
 
 ⟪१⟫. ⟪छिद्⟫
 

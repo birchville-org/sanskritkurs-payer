@@ -668,7 +668,7 @@
 *   53\.1. Il duale (⟪द्विवचन⟫ n.) dei nomi
 *   53\.2. Desinenze del duale del nome
 *   53\.3. Il duale dei temi consonantici
-    *   53\.3.1. Stämme senza flessione di genere
+    *   53\.3.1. Temi senza alternanza di grado
     *   53\.3.2. Temi con flessione di tema
 *   53\.4. Il duale dei temi vocalici
 *   53\.5. Dualdvandva

@@ -163,9 +163,9 @@ Nota: ¹ Spiegazione di **⟪जहि⟫*** vedi Thumb-Hauschild I,2 pag. 253
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \&lt;⟪जुहवै⟫\&gt; | \&lt;⟪जुहवामहै⟫\&gt; |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \&lt;⟪जुहुष्व⟫\&gt; | \&lt;⟪जुहुध्वम्⟫\&gt; |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \&lt;⟪जुहुताम्⟫\&gt; | \&lt;⟪जुह्वताम्⟫\&gt; |
 
 Nota: ¹ Dissimilazione, in modo tale che non seguano due sillabe con **⟪ह्⟫**.
 :::
@@ -222,12 +222,12 @@ Esempi:
 | **⟪ग्राम⟫** m. "villaggio" | **⟪ग्राम्य⟫** 3 "villaggio, rurale" |
 :::
 ::: grammar-box
-| **Behandlung des Temaauslautes vor dem Suffix \-a:** ||
+| **Trattamento della desinenza tematica prima del suffisso \-a:** ||
 | :---: | :--- |
-| **\-ṛ** | **\-a** tritt in der Regel an den Auslaut **\-r**::brz.B. ⟪जेतृ⟫ "Sieger" » ⟪जैत्र⟫ 3 "siegreich" |
-| **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brEsempi siehe oben. |
-| **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
-| **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
+| **\-ṛ** | **\-a** si aggiunge in genere alla desinenza **\-r**: brEsempio: ⟪जेतृ⟫ "vincitore" » ⟪जैत्र⟫ 3 "vincente" |
+| **\-a** | Sostituzione del **\-a** della parola base con il nuovo suffisso **\-a**. :brEsempi vedi sopra. |
+| **\-i** | Caduta del **\-i** :brEsempio: ⟪प्रकृति⟫ f. "natura" » ⟪प्राकृत⟫ 3 "naturale, normale, abituale, volgare" |
+| **\-u** | di solito: **\-av-a** :brEsempio: ⟪गुरु⟫ 3 "difficile"; m. "maestro, insegnante" » ⟪गौरव⟫ 3 "appartenente al maestro, derivante dal maestro"; n. "peso, gravità, dignità" |
 | **altri temi declinazionali:** | vedi Wackernagel, Grammatica dell'indico antico II,2 § 38 |
 
 Prima del suffisso **-ya** la terminazione del tema viene trattata in modo simile a quanto avviene prima del suffisso **-a**.

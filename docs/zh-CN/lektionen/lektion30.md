@@ -14,7 +14,7 @@ status: stable
 ::: grammar-box
 **教育：**
 
-*   starker Stamm: tiefstufige Wurzel + -nā-
+*   强词干：低级元音词根 + -nā-
 
 *   弱词干：
 
@@ -244,7 +244,7 @@ Examples:
 |**第三人称 Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
 
 :::
-## 30.5. Sandhi von auslautendem -r
+## 30.5. -r 词末连声规则
 
 ::: grammar-box
 **除了以-ar结尾的词外，以-r结尾的词遵循与以-s结尾的词相同的Sandhi规则。**
@@ -349,9 +349,9 @@ davon:
 ::: indent
 ⟪यद्यपि⟫ : 尽管，即使，虽然
 
-⟪यद्येवम्⟫ : wenn es so ist, unter diesen Umständen
+⟪यद्येवम्⟫ : 如果是这样，在这种情况下
 :::
-⟪पुनर्⟫ : wieder, immer wieder, zurück, noch einmal, dagegen, aber
+⟪पुनर्⟫ : 再次，反复地，回去，又一次，相反，但是
 
 ::: indent
 ⟪पुनः⟫ ⟪पुनर्⟫ : immer wieder

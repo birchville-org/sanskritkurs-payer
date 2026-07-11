@@ -1,10 +1,10 @@
 ---
-title: Lektion 11
-subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
+title: Lección 11
+subtitle: "El doble acusativo (acusativo de persona y cosa)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
-category: "Grammatik"
-status: stable
+category: "Gramática"
+status: estable
 ---
 
 # Lección 11

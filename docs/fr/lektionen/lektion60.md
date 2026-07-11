@@ -52,7 +52,7 @@ status: stable
 :::
 ### 60.2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe
 
-#### 60.2.3.1. Typus 3a: Starker Stamm in der Hochstufe/Dehnstufe, schwacher Stamm in der Tiefstufe
+#### 60.2.3.1. Type 3a : Radical fort au degré élevé/étendu, radical faible au degré bas
 
 ⟪नी⟫ 1U « mener »
 
@@ -314,7 +314,7 @@ Les directions cardinales
 
 Les règles concernant l'utilisation de la voyelle de liaison -i- sont indiquées dans Kielhorn, Grammaire §§ 443 - 445.
 
-**Racines de la 10\<sup\>e\</sup\> classe de présent et causatifs :**
+**Racines de la 10\&lt;sup\&gt;e\&lt;/sup\&gt; classe de présent et causatifs :**
 
 **prétérit redoublé + i + ṣa**
 :::

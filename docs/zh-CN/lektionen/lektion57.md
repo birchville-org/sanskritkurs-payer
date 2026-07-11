@@ -14,9 +14,9 @@ status: stable
 ::: grammar-box
 **s-词干过去时（s-Aorist）由大多数⟪अनिट्⟫词根构成，除非它们仅具有其他过去时形式。可选的⟪अनिट्⟫词根通常可以选择构成s-词干过去时或iṣ-过去时。此外，⟪अनिट्⟫词根在按照过去时的第一、第二或第六种形式构成⟪परस्मैपद⟫时，也按照s-词干过去时的规则构成⟪आत्मनेपद⟫。**
 
-**Bildung: Augment + Wurzel + s + athematische Sekundärendung**
+**形态学：增音 + 词根 + s + 无元音后缀第二变位**
 :::
-Tabelle der Endungen mit Stammbildungssuffix
+带有词干构成后缀的词尾表
 
 ::: grammar-box
 

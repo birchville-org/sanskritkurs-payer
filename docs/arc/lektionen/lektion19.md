@@ -18,9 +18,9 @@ lesson_id: 19
 **The relative pronoun and the relative word, which — in contrast to German — stands in the relative clause, stand in the case that the relative clause syntactically requires. The demonstrative pronoun stands in the case that the main clause syntactically requires.**
 :::
 
-Examples:
+उदाहरणानि:
 
-Note: In relative clauses of general validity, the optative is often used instead of the indicative. Thus, many of our examples would preferably be in the optative.
+टिप्पणी: सामान्यवैधतायुक्तेषु यत्रवाक्येषु विधिलिङः प्रायः लकारस्य स्थाने प्रयुज्यते। अतः अस्माकं बहूनि उदाहरणानि विधिलिङि एव श्रेयांसि स्युः।
 
 **1. The agent (⟪कर्तृ⟫) of the sentence is further specified by a relative clause:**
 
@@ -42,7 +42,7 @@ Note: In relative clauses of general validity, the optative is often used instea
 ::: indent
 ⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "The man is not happy whose sons do evil."
 :::
-**5. Relative pronoun and correlative stand in the instrumental case (⟪तृतीया⟫):**
+**5. यत्सर्वनामं सह्संबन्धिशब्दश्च तृतीयायां विभक्तौ स्तः (⟪तृतीया⟫):**
 
 ::: indent
 ⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "They hate the enemy who has defeated / conquered their village."
@@ -69,7 +69,7 @@ Note: In relative clauses of general validity, the optative is often used instea
 | | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
 | | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
 
-**As the first member of compounds, the stem ⟪यद्⟫ appears (taking Sandhi into account).**
+**समासस्य पूर्वपदरूपेण ⟪यद्⟫ धातुः (सन्धिं विचार्य) प्रकटते।**
 
 :::
 
@@ -92,7 +92,7 @@ Fig.: ⟪कामः⟫
 Illustration to ⟪कामसूत्र⟫
 (Image source: [Details](/arc/licenses#lekt1809))
 :::
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stand, remain, persist, be located. (Traditionally counted among the 1st present class, although it is a reduplicating thematic present class, as ⟪पा⟫ 1 ⟪पिबति⟫)
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** तिष्ठति, अवतिष्ठते, स्थिरीभवति, स्थितो भवति। (परम्परया प्रथमगणे गण्यते, यद्यपि द्विरुक्तथैमातिकवर्तमानगणः अस्ति, यथा ⟪पा⟫ 1 ⟪पिबति⟫)
 
 **⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** approach, stand before someone in a respectful posture
 

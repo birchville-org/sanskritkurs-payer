@@ -6,28 +6,28 @@ status: stable
 
 # Lektion 35
 
-## 35.1. Perfect Type III: Strong Stem Full Grade/Lengthened Grade
+## 35.1. Perfekt Typ III: Starker Stamm Vollstufe/Dehnstufe
 
 ::: grammar-box
 **Education:**
 
-**strong stem:**
+**starker Stamm:**
 *   3.sg.P: lengthened grade
 *   2.sg.P: zero grade
 *   1.sg.P: optional zero grade or lengthened grade
 
-**weak stem:** see under the subtypes
+**schwacher Stamm:** siehe unter den Untertypen
 :::
-### 35.1.1. Perfect Type IIIa: Strong stem high grade/lengthened grade, weak stem low grade
+### 35.1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
 
 ::: grammar-box
 **Education:**
 
 :::
 ::: indent
-**weak stem:** Guṇa grade
+**schwacher Stamm:** Guṇa-Stufe
 :::
-Formed from roots of the types:
+Wird gebildet von Wurzeln der Typen:
 *   (Consonant)-(Consonant) - i/ī/u/ū
 *   (Consonant) - ṛ
 
@@ -35,7 +35,7 @@ Before a vowel-initial ending, the following replacements occur:
 *   -i/-ī becomes -iy
 *   -u/-ū becomes -uv
 *   -ṛ durch r
-Examples:
+Beispiele:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -45,18 +45,18 @@ Examples:
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+### 35.1.2. Perfekt Typ IIIb: Starker Stamm Vṛddhi/Dehnstufe, schwacher Stamm Guṇa
 
 ::: grammar-box
 **Education:**
 
 :::
 ::: indent
-**Bildung:**
+**Formation:**
 :::
 Wird gebildet von Wurzeln der Typen:
 *   (Konsonant)-(Konsonant)-ṝ
-*   Konsonant-Konsonant-ṛ (d.h. Wurzeln auf -ṛ, wenn diesem mehrere Konsonanten vorausgehen)
+*   Konsonant-Konsonant-ṛ (d.h. Wurzeln auf -ṛ, denen mehrere Konsonanten vorangehen)
 Beispiele:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
@@ -65,22 +65,22 @@ Beispiele:
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-## 35.2. Perfect Type IV: Roots ending in -ā / -āi
+## 35.2. Perfekt Typ IV: Wurzeln auf -ā / -āi
 
 ::: grammar-box
 **Education:**
 
-**strong stem:**
+**starker Stamm:**
 *   3rd/1st sg. P Perfect ends in -au
 *   2nd sg. P : strong grade -ā or weak grade -i
 
-**weak stem:**
+**schwacher Stamm:**
 *   before consonant: low grade -i
 *   before vowel: low grade Ø
 
-Formed from roots ending in -ā / -āi
+Wird gebildet von Wurzeln auf -ā / -āi
 :::
-Example:
+Beispiel:
 
 | Wurzel | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -91,16 +91,16 @@ Example:
 ::: grammar-box
 **Education:**
 
-**strong stem:**
+**starker Stamm:**
 *   3.sg.P: lengthened grade
 *   2.sg.P: zero grade
 *   1.sg.P: optional zero grade or lengthened grade
 
-**weak stem:** see subtypes
+**schwacher Stamm:** siehe Untertypen
 
-Formed from roots of the type (Consonant)-Consonant-a-Consonant
+Wird gebildet von Wurzeln des Typs (Konsonant)-Konsonant-a-Konsonant
 :::
-### 35.3.1. Perfect Type Va: weak stem deep grade
+### 35.3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
 
 ::: grammar-box
 **Education:**
@@ -109,14 +109,14 @@ Formed from roots of the type (Consonant)-Consonant-a-Consonant
 ::: indent
 **Education:**
 :::
-**weak stem:** Guṇa grade
+**schwacher Stamm:** Guṇa-Stufe
 *   ⟪गम्⟫
 *   ⟪हन्⟫
 *   ⟪जन्⟫
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-Examples:
+Beispiele:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -127,31 +127,31 @@ Examples:
 | ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-### 35.3.2. Perfect Type Vb: Weak Stem Contraction (e-Type)
+### 35.3.2. Perfekt Typ Vb: Schwacher Stamm Kontraktion (e-Typ)
 
 ::: grammar-box
 **Education:**
 
 :::
 ::: indent
-**weak stem:** no reduplication. Replacement of the -a- of the root by -e-  
+**schwacher Stamm:** keine Reduplikation. Ersetzung des -a- der Wurzel durch -e-
 (for explanation see Thumb-Hauschild 1,2 p. 286f.)
 :::
-Formed from roots with -a- between two simple consonants, whose initial consonant in the reduplication syllable is not changed (i.e., whose initial consonant is not a guttural, aspirate, or h).
-Example:
+Wird gebildet von Wurzeln mit -a- zwischen zwei einfachen Konsonanten, deren Anlautkonsonant in der Reduplikationssilbe nicht verändert wird (d.h. deren Anlautkonsonant kein Guttural, Aspirat oder h ist).
+Beispiel:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पच्⟫ 1U | ⟪पपाच⟫ | *⟪पे⟫*⟪चुर्⟫ | *⟪पे⟫*⟪चे⟫ | *⟪पे⟫*⟪चिरे⟫ |
 
-### 35.3.3. Perfect Type Vc: Roots Consonant-a-Consonant. Weak Stem High Grade
+### 35.3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
 
 ::: grammar-box
 **Education:**
 
-**weak stem:** strong grade
+**schwacher Stamm:** Vollstufe
 
-It is formed by all other roots with middle -a-, i.e. roots with middle -a-
+Wird gebildet von allen anderen Wurzeln mit mittlerem -a-, d.h. Wurzeln mit mittlerem -a-
 *   those that begin with two consonants
 *   those that begin with a guttural
 *   those that begin with an aspirate
@@ -159,7 +159,7 @@ It is formed by all other roots with middle -a-, i.e. roots with middle -a-
 
 if they do not belong to Perfect Type Va.
 :::
-Example:
+Beispiel:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |

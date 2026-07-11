@@ -297,12 +297,12 @@ Exemple:
 
 :::
 ::: indent
-z.B. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
+de ex. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 :::
 **La unele rădăcini apare între vocala silabei de reduplicare și consoana inițială a rădăcinii -nī- respectiv -rī- (-rī- la rădăcinile care conțin un ṛ în intensīv).**
 
 ::: indent
-z.B.
+de ex.
 ⟪पत्⟫ 1P: ⟪प⟫***⟪नी⟫***⟪पत्य⟫-
 ⟪वृत्⟫ 1Ā: ⟪व⟫***⟪री⟫***⟪वृत्य⟫-
 :::

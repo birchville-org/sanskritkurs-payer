@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 42
 
-## 42.1. Stämme auf -ṛ
+## 42.1. 以 -ṛ 结尾的词干
 
 ### 42.1.1. 强词干中含长音级的部落
 
@@ -23,10 +23,10 @@ status: stable
 
 **教育：**
 
-*   **Starker Stamm: -ār**
-*   **Schwacher Stamm**
-    *   **vor Vokal: -r**
-    *   **vor Konsonant: -ṛ**
+*   **强词干：-ār**
+*   **弱词干**
+*   **元音前：-r**
+*   **辅音前：-ṛ**
 
 注意不规则形式（以**红色**标记）！
 :::
@@ -91,9 +91,9 @@ status: stable
 
 以-⟪तृ⟫结尾的词干的阴性形式为**-⟪त्री⟫**（如**⟪देवी⟫**）。
 
-z.B. **⟪कर्त्री⟫** f. "Täterin"
+例如，**⟪कर्त्री⟫** f. “行为者”
 :::
-### 42.1.3. Stämme mit Hochstufe im starken Stamm
+### 42.1.3. 强干中带有高扬音的部落
 
 ::: grammar-box
 以下是相关的亲属称谓：
@@ -108,12 +108,12 @@ z.B. **⟪कर्त्री⟫** f. "Täterin"
 
 **教育：**
 
-*   **starker Stamm: -ar**
-*   **schwacher Stamm**
-    *   **vor Vokal: -r**
-    *   **vor Konsonant: -ṛ**
+*   **强词干: -ar**
+*   **弱词干**
+*   **元音前: -r**
+*   **辅音前: -ṛ**
 :::
-例子：
+示例：
 
 ::: indent
 **⟪पितृ⟫** m. “父亲”
@@ -319,7 +319,7 @@ PPP ⟪अवस्थित⟫ 3: stehend, vorhanden
 
 (⟪संस्कृतप्रथमादर्शे⟫)
 
-Erklärung der **rot** hervorgehobenen Ausdrücke:
+对**红色**突出显示的术语的解释：
 
 ⟪सीता⟫ f. 专有名词：国王⟪जनक⟫之女，来自⟪विदेह⟫。她是从地里出来的，当国王曾经犁地时，因此她的名字：⟪सीता⟫ f. “犁沟”
 
@@ -337,7 +337,7 @@ Erklärung der **rot** hervorgehobenen Ausdrücke:
 :::
 ⟪जनक⟫ 阳性名词：专有名词，⟪विदेह⟫的国王
 
-⟪गुरुतर⟫ 3: Komparativ zu ⟪गुरु⟫ 3: schwerer, sehr schwer
+⟪गुरुतर⟫ 3：与⟪गुरु⟫ 3的比较级：更重，非常重
 
 ⟪धनुस्⟫ Nom.Akk.sg.n. 对应于 ⟪धनुस्⟫ n. “弓”
 

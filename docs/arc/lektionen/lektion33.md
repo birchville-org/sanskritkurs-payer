@@ -8,7 +8,7 @@ status: stable
 
 ## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
 
-* The third present class
+* Die dritte Präsensklasse
 * (as well as some verbs of other present classes),
 * the perfect,
 * the reduplicated aorist,
@@ -23,9 +23,9 @@ Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal.
 
 ::: grammar-box
 **1. Regular:**  
-**Repetition of the first consonant of the root**
+**Wiederholung des ersten Konsonanten der Wurzel**
 :::
-Examples:
+Beispiele:
 
 ::: indent
 **⟪दा⟫** 3 "to give"
@@ -38,9 +38,9 @@ Examples:
 * 3.sg.Ā.Ind.Pres. ***⟪मि⟫***⟪मीते⟫
 :::
 ::: grammar-box
-**2. An aspirated initial consonant of a root is reduplicated by the corresponding non-aspirated consonant.**
+**2. Ein aspirierter Anfangskonsonant einer Wurzel wird durch den entsprechenden nicht-aspirierten Konsonanten redupliziert.**
 :::
-Examples:
+Beispiele:
 
 ::: indent
 **⟪धा⟫** 3 "to set"
@@ -65,44 +65,44 @@ Beispiele:
 * 3.sg.P.Ind.Pres. **⟪जुहोति⟫**
 :::
 ::: grammar-box
-**4. If a root begins with several consonants, then only the first (possibly applying rule 2 or 3) is repeated.**
+**4. Wenn eine Wurzel mit mehreren Konsonanten beginnt, dann wird nur der erste (eventuell unter Anwendung von Regel 2 oder 3) wiederholt.**
 :::
 ::: grammar-box
-**5. If a root begins with a consonant cluster sibilant + voiceless consonant, then not the sibilant, but the following voiceless consonant is reduplicated according to the above rules.**
+**5. Wenn eine Wurzel mit einer Konsonantengruppe Zischlaut + stimmloser Konsonant beginnt, dann wird nicht der Zischlaut, sondern der folgende stimmlose Konsonant nach den obigen Regeln redupliziert.**
 :::
-Example:
+Beispiel:
 
 ::: indent
 **⟪स्था⟫** 1 "stand"
 * 3.sg.P.Ind.Präs. **⟪तिष्ठति⟫**
 :::
-## 33.2. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ u.s.w.")
+## 33.2. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ usw.")
 
 ::: grammar-box
-**Education:**
+**Formation:**
 
-**starker Stamm:**  
-**reduplizierte hochstufige Wurzel + Endung**
+**starker Stamm:**
+**reduplizierte Hochstufe der Wurzel + Endung**
 
-**weak stem:**  
-**reduplicated low-grade root + ending**
+**schwacher Stamm:**
+**reduplizierte Tiefstufe der Wurzel + Endung**
 
 **For the reduplication consonant, the rules given above apply.**
 :::
-### 33.2.1. The reduplication vowel of the 3rd present class
+### 33.2.1. Der Reduplikationsvokal der 3. Präsensklasse
 
 ::: grammar-box
 * **The regular reduplicating vowel is -i-**
-* **Roots containing -u reduplicate with -u-**
-* **the roots ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ with -a-**
+* **Wurzeln mit -u reduplizieren mit -u-**
+* **die Wurzeln ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ mit -a-**
 :::
-Examples:
+Beispiele:
 
 ::: grammar-box
 **⟪हु⟫** 3P "(pouring into the fire) to pour into the fire"
 
-* **strong stem:** ⟪जुहो⟫
-* **weak stem:** ⟪जुहु⟫
+* **starker Stamm:** ⟪जुहो⟫
+* **schwacher Stamm:** ⟪जुहु⟫
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -115,7 +115,7 @@ Examples:
 ā kann
 
 * on the one hand, a lengthened grade of one of the ablaut series with -a-
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* on the other hand, high grade in an ablaut series of the ā-group
 
 [0] Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
@@ -130,7 +130,7 @@ Examples:
 * **High Level: -ā-**  
   e.g. **⟪धा⟫** 3.sg.P.Ind.Pres. **⟪दधाति⟫**
 :::
-This also includes, for example:
+Dies umfasst zum Beispiel auch:
 
 ::: indent
 ⟪स्था⟫ 1
@@ -145,12 +145,12 @@ This also includes, for example:
 * **High grade: -ā-**  
   e.g. **⟪पा⟫** 1: Inf. **⟪पातुम्⟫**
 :::
-## 33.4. Roots ending in -ā of the third present class
+## 33.4. Wurzeln auf -ā der dritten Präsensklasse
 
 ::: grammar-box
-**Roots ending in -ā (except ⟪दा⟫ and ⟪धा⟫) usually have a stem form ending in -ī-** (see Thumb-Hauschild Vol. 1,1 p. 271. Presumably the above-mentioned ablaut series B served as a model here, although these roots otherwise ablaut according to series A), **before vocalic endings the root vowel disappears completely (see ablaut series A).**
+**Wurzeln auf -ā (außer ⟪दा⟫ und ⟪धा⟫) haben gewöhnlich eine Stammform auf -ī-** (siehe Thumb-Hauschild Bd. 1,1 S. 271. Vermutlich diente hier die oben erwähnte Ablautreihe B als Vorbild, obwohl diese Wurzeln sonst nach Reihe A ablauten), **vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A).**
 :::
-Examples:
+Beispiele:
 
 ::: grammar-box
 **⟪मा⟫** 3Ā "to measure"
@@ -170,10 +170,10 @@ Examples:
 | **Imperfect** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optative** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. The roots **⟪दा⟫** and **⟪धा⟫**
+### 33.4.1. Die Wurzeln **⟪दा⟫** und **⟪धा⟫**
 
 ::: grammar-box
-**The roots ⟪दा⟫ and ⟪धा⟫ reduplicate with the vowel -a- and lose the root vowel in the weak stem.**
+**Die Wurzeln ⟪दा⟫ und ⟪धा⟫ reduplizieren mit dem Vokal -a- und verlieren den Wurzelvokal im schwachen Stamm.**
 
 **Observe the aspiration dissimilation rule with ⟪धा⟫!**
 :::
@@ -197,12 +197,12 @@ The forms of **⟪दा⟫** are obtained by replacing **dh** with **d** in the
 | **Imperfect** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Optative** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
 :::
-## 33.5. The Present Participle Parasmaipada of the Roots of the 3rd Present Class
+## 33.5. Das Präsenspartizip Parasmaipada der Wurzeln der 3. Präsensklasse
 
 ::: grammar-box
-**The verbs of the 3rd class form all forms of the Present Participle Parasmaipada from the weak stem.**
+**Die Verben der 3. Klasse bilden alle Formen des Präsenspartizips Parasmaipada vom schwachen Stamm.**
 
-**Exception: Nominative/Accusative Plural Neuter can optionally be formed from the strong or weak stem.**
+**Ausnahme: Nominativ/Akkusativ Plural Neutrum kann wahlweise vom starken oder schwachen Stamm gebildet werden.**
 :::
 **⟪दा⟫** Present Participle Parasmaipada:
 

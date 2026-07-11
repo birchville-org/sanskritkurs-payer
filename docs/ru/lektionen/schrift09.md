@@ -24,7 +24,7 @@
 
 ![](/images/schrift019.webp)
 
-Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
+[ L0 ] ⟨ IAST_L_0 ⟩
 
 ## Упражнение
 

@@ -23,12 +23,12 @@ In Sanskrito classico tantummodo indicativus et participium a radicā perfectī 
 :::
 ## 34.2. Perfectum reduplicatum (⟪द्वित्वलिट्⟫)
 
-### 34.2.1. Stammabstufung
+### 34.2.1. Gradus thematis
 
 ::: grammar-box
 **Educatio:**
 
-**starker Stamm:** Singular Parasmaipada
+**thema forte:** singularis Parasmaipada
 *   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung**
 
 **stamen infirmum:** omnes reliquae formae
@@ -135,9 +135,9 @@ Exempla:
 :::
 ## 34.3. Typi perfecti reduplicati
 
-Einteilungsprinzip: Besonderheiten der Stammabstufung:
-*   Perfekt ohne Stammabstufung: Typ I
-*   Perfekt mit Stammabstufung: Typ II - V
+Principium divisionis: proprietates gradus thematis:
+*   Perfectum sine gradu thematis: Typus I
+*   Perfectum cum gradu thematis: Typus II - V
 *   unregelmäßige Perfektbildungen
 
 ## 34.4. Perfectum Typus I: Perfectum sine gradatione radicis

@@ -51,9 +51,9 @@ lesson_id: 18
 
 ⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ ：一名非婆罗门女性，非婆罗门出身的女性
 
-⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : ein Nichtgott, Ungott
+⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : 非神，无神
 :::
-⟪सु⟫ "wohl, gut"; wird bei der Auflösung des Kompositums von den Kommentatoren durch ein Adjektiv mit der Bedeutung "gut" (z.B. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) ersetzt.
+⟪सु⟫ “好，善”；在复合词解析时，注释者用意为“善”的形容词（例如 ⟪सुष्टु⟫ 3，⟪शोभन⟫ 3）替换。
 
 示例：
 
@@ -108,7 +108,7 @@ lesson_id: 18
 :::
 ### 18.2.2. nañ-Tatpuruṣa（a- / an-）的含义
 
-Tatpuruṣa mit a- / an- können folgende Bedeutungen haben:
+带有 a- / an-前缀的Tatpuruṣa复合词可能具有以下含义：
 
 1. 相似性（⟪तत्सादृश्यम्⟫）：  
     ⟪अब्राह्मणः⟫ = 佩戴圣线（⟪यज्ञोपवीत⟫ 阴性名词）的刹帝利或吠舍，因而看似婆罗门，实则并非婆罗门
@@ -262,11 +262,11 @@ upa-nī + -ana = ⟪उपनयन⟫ 中性名词：引导（至祭火旁）= 
 
 ::: media
 ![](/images/lekt1801.webp)
-Abb.: ⟪उपनयनम्⟫
-„Ein junger Junge ist während des Upanayana-Rituals zu sehen. Der vergilbte, dünne Faden, der von der linken Schulter zur Taille verläuft, ist das Yajñopavīta. Beachten Sie auch den Gürtel aus Munja-Gras um die Taille. Der Zweig in der rechten Hand (normalerweise vom Pippal-Baum) symbolisiert seinen Eintritt in das Brahmacharya.“
-(Bildquelle: [Details](/zh-CN/licenses#lekt1801))
+图：⟪उपनयनम्⟫
+“图中展示了一位正在行乌帕纳亚那（Upanayana，入法）仪式的年轻男孩。从左肩斜垂至腰间的泛黄细线是祭绳（Yajñopavīta）。请注意腰间系着的穆贾草腰带。他右手中所持的枝条（通常来自菩提树）象征着他正式进入梵行期。”
+（图片来源：[详情](/zh-CN/licenses#lekt1801)）
 :::
-## 18.4. Wortliste
+## 18.4. 词汇表
 
 ⟪सुष्टु⟫ 3: hochgepriesen, ausgezeichnet, gut
 
@@ -428,7 +428,7 @@ D) 翻译：
 
 ::: deleteme-box
 
-**lekt1801:** “Ein junger Knabe wird während des Upanayana-Ritus gezeigt. Der vergilbte, dünne, vom linken Schulter zum Taillenbereich verlaufende Faden ist das Yajñopavīta. Beachten Sie auch den Gürtel aus Munja-Gras um die Taille. Der Zweig in der rechten Hand (üblicherweise vom Pippala-Baum) symbolisiert seinen Eintritt in die Brahmacharya.” [Bildquelle: Nagesh Rao / Wikipedia, GNU FDL]
+**lekt1801:** “图中展示了一位在行乌帕纳亚那（Upanayana）仪式时的年轻男孩。这条泛黄、纤细、从左肩延伸至腰部的线是祭牲圣线（Yajñopavīta）。请注意腰间系着的 Munja 草腰带。他右手中所持的枝条（通常来自 Pippala 树）象征着他进入 Brahmacharya（梵行）阶段。”[图片来源：Nagesh Rao / Wikipedia，GNU FDL]
 
 **lekt1802:** 1770 印刷品 [图片来源：维基百科，公共领域]
 

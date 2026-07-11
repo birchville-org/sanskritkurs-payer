@@ -95,11 +95,11 @@ Sanskrit passive constructions are extremely frequent: the passive is, after all
 
 | Pronoun | Gender | Instrumental Singular | Instrumental Plural |
 | :--- | :--- | :--- | :--- |
-| **tad** :br"er, sie, es; der, die, das" (Erwähnte):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
+| **tad** :br"he, she, it; the one mentioned":br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
 | | F | **tayā** :br⟪तया⟫ | **tābhis** :br⟪ताभिस्⟫ |
-| **etad** :br"dieser, diese, dieses" (dem Sprechenden sehr Nahe):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
+| **etad** :br"this, this one (very close to the speaker)":br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
 | | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
-| **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
+| **idam** :br"this, this one (near)":br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
@@ -191,7 +191,7 @@ e.g.
    | **vad** 1 P:br⟪वद्⟫ | \*vd » ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
    | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch » pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
-The traditional indigenous name for this formation of the lower level in verbs with **ya** or **va** is **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
+Der traditionelle indigene Name für diese untergeordnete Bildung in Verben mit **ya** oder **va** ist **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **Final -ṛ** after a single consonant is replaced by **-ri-** before the passive suffix **-ya-**:
    * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
@@ -237,7 +237,7 @@ The traditional indigenous name for this formation of the lower level in verbs w
 ::: note-box
 In India, true speech was attributed with magical power; indeed, the entire cosmic order is maintained and created by true speech. For this important concept, see the fundamental work:
 
-Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII pages, pages 340 - 764
+Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII pages, pages 340 - 764
 :::
 
 ::: media
@@ -323,15 +323,15 @@ Fig.: ⟪विश्वामित्रः⟫
 
 ::: media
 ![](/images/lekt1004.jpg)
-Abb.: ⟪तन्तुवायः⟫
-(Bildquelle: [Details](/en/licenses#lekt1004))
+Fig.: ⟪तन्तुवायः⟫
+(Image source: [Details](/en/licenses#lekt1004))
 :::
-5. Der Lehrer fragt. (Passivkonstruktion)
-6. Das Auge führt. (Passivkonstruktion)
-7. Der Dichter sieht eine Gottheit. (Passivkonstruktion)
-8. Wer (fem.) pflegt das Mädchen? (Passivkonstruktion)
-9. Der Kṣatriya verehrt den HERRN mit einem Opfer. (Passivkonstruktion, ohne das Wort **yajña** zu verwenden)
-10. Durch Großzügigkeit erreicht ein Anhänger des Buddha den Himmel.
+5. The teacher asks. (Passive construction)
+6. The eye leads. (Passive construction)
+7. The poet sees a deity. (Passive construction)
+8. Who (fem.) tends the girl? (Passive construction)
+9. The Kṣatriya venerates the LORD with a sacrifice. (Passive construction, without using the word **yajña**)
+10. Through generosity, a follower of the Buddha attains heaven.
 
 ## 10.7. Word List 2
 

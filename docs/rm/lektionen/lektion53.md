@@ -55,7 +55,7 @@ Imm.: ⟪हस्तौ⟫
 :::
 ## 53.3. Il dual da radis consonanticas
 
-### 53.3.1. Stämme ohne Stammabstufung
+### 53.3.1. Stirps senza gradasiun da la radisch
 
 ⟪सत्यवाच्⟫ 3 «quai che di la veritad»
 
@@ -102,7 +102,7 @@ Imm.: ⟪हस्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
 :::
-### 53.3.2. Stämme mit Stammabstufung
+### 53.3.2. Stirps cun gradasiun da la radisch
 
 **Participi present parasmaipada**
 
@@ -129,7 +129,7 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ ||
 :::
-**Stämme auf -mant/-vant**
+**Stirps sin -mant/-vant**
 
 ⟪पशुमन्त्⟫ 3 "Cun bestial"
 
@@ -194,7 +194,7 @@ Abb.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
-## 53.4. Der Dual vokalisch auslautender Stämme
+## 53.4. Il dual da stirps che fineschan sin vocalas
 
 **Stirps sin -a**
 
@@ -213,7 +213,7 @@ Abb.: ⟪भरन्तौ⟫
 Abb.: ⟪फले⟫
 (Bildquelle: [Detagl](/rm/licenses#lekt5306))
 :::
-**Stems sin -i**
+**Stams sin -i**
 
 ⟪अग्नि⟫ m. "fieu"  
 ⟪वारि⟫ n. "aua"  
@@ -226,7 +226,7 @@ Abb.: ⟪फले⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
-**Stämme auf -u**
+**Stirps sin -u**
 
 ⟪शत्रु⟫ m.  
 ⟪धिनु⟫ f.  
@@ -244,7 +244,7 @@ Abb.: ⟪फले⟫
 Abb.: ⟪धेनू⟫
 (Bildquelle: [Detagls](/rm/licenses#lekt5307))
 :::
-**Stämme sin -ā**
+**Stirps sin -ā**
 
 ⟪कन्या⟫ f. "Giuvna"
 
@@ -255,7 +255,7 @@ Abb.: ⟪धेनू⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *⟪कन्ययोस्⟫* |
 :::
-**Stems multisinabels cun -ī**
+**Stams multisinabels cun -ī**
 
 ⟪देवी⟫ f. "Deessa"
 
@@ -266,7 +266,7 @@ Abb.: ⟪धेनू⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪देव्योस्⟫ |
 :::
-**Stems on -ṛ**
+**Stams sin -ṛ**
 
 ⟪दातृ⟫ 3 "Donatur"
 
@@ -372,7 +372,7 @@ Las suotgiantas adiectivas suan declinadas scoi ⟨⟪सर्व⟩⟩. En l�
 
 **Mentre che i suffissi ⟪तद्धित⟫ -⟪तर⟫ e -⟪तम⟫ s'uniscen al stemma masculin da l'aggettiv, vegnan ils suffiss -⟪ईयस्⟫ e -⟪इष्ठ⟫ agiuntads a la radis, da la quala l'aggettiv derivà è (sch'ei dat ina tala radis!). Il vocal da la radis è elevà.**
 
-**I superlativs cun la desinenza -iṣṭha (fem.: iṣṭhā) vegnan declinads sco stems da a resp. ā.**
+**Ils superlativs cun la desinenza -iṣṭha (fem.: iṣṭhā) vegnan declinads sco stams da a resp. ā.**
 
 **Deklination von -īyas siehe unten.**
 :::
@@ -412,7 +412,7 @@ Exemples:
 ::: grammar-box
 **Rule 3:** **For -ṛ-, preceded by an initial vowel and followed by only a single consonant, -ra- is substituted.**
 :::
-Example:
+Exempel:
 
 ::: grammar-box
 | Adjectiv | Comparativ | Superlativ |
@@ -449,7 +449,7 @@ Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 ::: grammar-box
 | (Aggettiv) | Comparativ | Superlativ |
 | --- | --- 
-| (⟪अल्प⟫ 3 "pitgel, pauc") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
+| (⟪अल्प⟫ 3 "pitgel, pauc") | ⟪कनीयस्⟫ :br cumparegia ⟪कन्या⟫ f. "Giuvna = la pitschna" | ⟪कनिष्ठ⟫ |
 | (⟪प्रशस्य⟫ 3 "laudabil, bun") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
 | (⟪प्रशस्य⟫ 3 "laudabil, bun") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" |
 | (⟪बहु⟫ 3 "blutschei") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |

@@ -166,13 +166,13 @@ F) 翻译：
 
 ⟪शूद्राः⟫ ⟪स्वर्गमाप्नुवन्ति⟫ ⟪।⟫
 
-4\. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern.
+4\.刹帝利以祭主身份供奉女神们。
 
 kṣatriyā devīr yajante.
 
 ⟪क्षत्रिया⟫ ⟪देवीर्यजन्ते⟫ ⟪।⟫
 
-5\. Vaiśyafrauen verehren Gottheiten mit Opfern.
+5\. 吠舍妇女通过祭祀崇拜神灵。
 
 vaiśyā devatā yajante.
 
@@ -190,13 +190,13 @@ vaiśyā devatā yajante.
 
 吠陀研究的辅助学科是：语音学、仪式学、语法学、词源学、韵律学、天文学。
 
-8\. Welchem Gott opfert dieser Brahmane?
+8\.这位婆罗门向哪位神祇献祭？
 
 ayaṃ brāhmaṇaḥ kaṃ devaṃ yajati / yajate?
 
 ⟪अयं⟫ ⟪ब्राह्मणः⟫ ⟪कं⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫ ⟪।⟫
 
-9\. Was kaut dieser heilige Mann?
+9\.这位圣者咀嚼的是什么？
 
 ayaṃ sādhuḥ kiṃ khādati?
 
@@ -208,7 +208,7 @@ ete kiṃ sunvanti / sunvate?
 
 ⟪एते⟫ ⟪किं⟫ ⟪सुन्वन्ति⟫ / ⟪सुन्वते⟫ ⟪।⟫
 
-11\. Er ist der Lehrer. Auf ihn hört man (= hören sie).
+11\. 他是老师。人们听从他（=他们听
 
 sa guruḥ. enaṃ śṛṇvanti.
 

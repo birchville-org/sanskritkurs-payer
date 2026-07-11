@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 17
 
-## 17.1. Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)
+## 17.1. 第2现在时类（⟪अदादि⟫ = ⟪अद्⟫ 等）
 
 动词词尾直接附加在词根上。在此过程中，需注意由词内连音（Wortsandhi）产生的语音变化。
 
@@ -54,10 +54,10 @@ Weitere Beispiele:
 
 ⟪इ⟫ 2 P “走”（Ā 在特定前缀后）
 
-*   starker Präsensstamm: e-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: i-
-    *   vor Vokal: y-/iy-
+*   强现在词干：e-
+*   弱现在词干：
+*   在辅音前：i-
+*   在元音前：y-/iy-
 
 ::: no-header
 
@@ -86,10 +86,10 @@ Weitere Beispiele:
 :::
 ⟪हन्⟫ 2 P “schlagen, erschlagen, töten”
 
-*   starker Präsensstamm: han-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: ha- (« \*hn-)
-    *   vor Vokal: ghn-/han-
+*   强现在词干：han-
+*   弱现在词干：
+*   在辅音前：ha-（« \*hn-）
+*   在元音前：ghn-/han-
 
 ::: no-header
 
@@ -120,10 +120,10 @@ Weitere Beispiele:
 
 ⟪स्तु⟫ 2 U “loben”
 
-*   starker Präsensstamm: stau-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: stu-
-    *   vor Vokal: stuv-
+*   强现在词干：stau-
+*   弱现在词干：
+*   辅音前：stu-
+*   元音前：stuv-
 
 ::: no-header
 
@@ -138,9 +138,9 @@ Weitere Beispiele:
 ## 17.4. 第二类现在时词根，无词干交替
 
 ::: grammar-box
-Ohne Stammabstufung sind Wurzeln der zweiten Präsensklasse auf -ā
+没有词根级音变，第二类现在时词干的词尾为 -ā
 :::
-Beispiel:
+例如：
 
 ⟪पा⟫ 2 P “保护，守护，看护”
 
@@ -182,8 +182,8 @@ Beispiel:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪वक्ति⟫ (« vac- + -ti) |
-| 3\. pl. Präs. P | kommt nicht vor |
+| 第三人称单数现在时主动态 | ⟪वक्ति⟫（“vac- + -ti”） |
+| 第三人称复数现在时主动态 | 未出现 |
 
 :::
 ## 17.5. 双音节词根，以 -i/-ī 结尾，带有词干交替
@@ -194,10 +194,10 @@ Beispiel:
 
 ⟪रुद्⟫ 2 P “哭泣，哀号”
 
-*   starker Präsensstamm: rodi-
-*   schwacher Präsensstamm:
-    *   vor Konsonant: rudi-
-    *   vor Vokal: rud-
+*   强现在词干：rodi-
+*   弱现在词干：
+*   辅音前：rudi-
+*   元音前：rud-
 
 ::: no-header
 

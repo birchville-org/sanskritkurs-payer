@@ -510,9 +510,9 @@ B) 使用复合词翻译成梵语：
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
 ⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
 
-Erklärung: ⟪अत्मा⟫ = Nom.sg. mask. zu ⟪आत्मन्⟫ m. "Selbst, Seele ; das Absolute, insofern es in einem Individuum realisiert wird"
+解释：⟪अत्मा⟫ = 单数主格阳性，源自 ⟪आत्मन्⟫ m. “自我，灵魂；绝对者，就其在个体中实现而言”
 :::
-Ein ⟪सुभाषितम्⟫ :
+一个 ⟪सुभाषितम्⟫ ：
 
 ::: indent
 ⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
@@ -520,15 +520,15 @@ Ein ⟪सुभाषितम्⟫ :
 ⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
 ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫
 
-Erläuterung: -da am Ende eines Kompositums: "gebend"
+说明：复合词末尾的 -da：“给予”
 :::: media
 ![](/images/lekt2009.webp)
-Abb.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
-Karnataka
-(Bildquelle: [Details](/zh-CN/licenses#lekt2009))
+图：⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
+卡纳塔克邦
+（图片来源：[详情](/zh-CN/licenses#lekt2009)）
 ::::
 :::
-Über Besitzverhältnisse:
+关于财产关系：
 
 ::: indent
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫
@@ -536,9 +536,9 @@ Karnataka
 ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫
 ⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪४१६॥⟫
 
-Erklärung: ⟪त्रयस्⟫ = Nom. mask. pl. zu ⟪त्रि⟫ "drei"
+解释：⟪त्रयस्⟫ = 阳性复数主格，对应 ⟪त्रि⟫ “三”
 :::
-Ein ⟪सुभाषितम्⟫ über weibliche Schönheit:
+关于女性美的 ⟪सुभाषितम्⟫：
 
 ::: indent
 ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
@@ -562,11 +562,11 @@ Ein ⟪सुभाषितम्⟫ über weibliche Schönheit:
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
-Erklärung: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P zu ⟪इष्⟫ : der wünschenden
+解释：⟪इच्छताम्⟫ = gen. Pl. Part Präs. P 对应 ⟪इष्⟫ ：渴望者
 :::
 ::: deleteme-box
 
-**lekt2001:** Siem Reap (ក្រុងសៀមរាប), Kambodscha, 9. Jhdt n. Chr. [Bildquelle: Wikipedia, Public domain]
+**lekt2001：** 暹粒（ក្រុងសៀមរាប），柬埔寨，公元9世纪 [图片来源：维基百科，公共领域]
 
 **lekt2002:** [图片来源：《印度文学与思想史研究》。——波恩，1926年]
 

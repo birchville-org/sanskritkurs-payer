@@ -38,11 +38,11 @@ last_reconstructed: 2026-05-07
 ::: grammar-box
 **taddhita后缀 -ka 主要构成：**
 
-1\. **Diminutiva (Verkleinerungsformen wie deutsch -chen, -lein, -li, -le):**
-   **putra m. "Sohn" » putraka m. ⟪पुत्रक⟫ "小儿子"**
+1\. **指小词（如德语中的 -chen, -lein, -li, -le 等缩小形式）：**
+**putra m. “儿子” » putraka m. ⟪पुत्रक⟫ “小儿子”**
 
-2\. **Nomen, die eine annähernde Ähnlichkeit bezeichnen:**
-   **aśva m. "Pferd" » aśvaka m. ⟪अश्वक⟫ "Rösslein, ein dem Pferd ähnliches Ding"**
+2\. **表示近似相似性的名词：**
+**aśva m. “马” » aśvaka m. ⟪अश्वक⟫ “小马，类似马的东西”**
 
 3\. **名词，其意义与基础名词无差异：**
    **putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**

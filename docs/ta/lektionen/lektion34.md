@@ -23,7 +23,7 @@ status: stable
 :::
 ## 34.2. Das reduplizierte Perfekt (⟪द्वित्वलिट्⟫)
 
-### 34.2.1. Stammabstufung
+### 34.2.1. தண்டு நிலை மாற்றம்
 
 ::: grammar-box
 **கல்வி:**

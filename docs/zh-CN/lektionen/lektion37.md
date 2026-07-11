@@ -191,7 +191,7 @@ status: stable
 
 ### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
 
-Beispiel: ⟪रक्षार्थम्⟫ "in der Art von jemandem, dessen Zweck Behüten ist, zum Zweck des Behütens". Kann auch als zu 5.1. gehörig betrachtet werden: -⟪अर्थम्⟫ als adverbiales Hinterglied。
+例：⟪रक्षार्थम्⟫ “以某人的方式，其目的是保护，为了守护的目的”。也可以被视为属于5.1：-⟪अर्थम्⟫ 作为副词性后置成分。
 
 ### 37.5.3. ⟪अव्ययीभाव⟫-Komposita
 

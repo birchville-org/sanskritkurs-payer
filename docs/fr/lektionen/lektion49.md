@@ -1,9 +1,9 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: Leçon 49
+subtitle: "Formation de l'impératif (⟪लोट्⟫) des racines de présent athématique (suite)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "Grammaire"
 status: stable
 ---
 
@@ -190,7 +190,7 @@ voir :
 
 :::
 ::: indent
-**Carakasaṃhitā :** Textes choisis de la Carakasaṃhitā / traduits et commentés par Alois Payer \<1944 - \>. -- 0. Introduction. -- URL : [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā :** Textes choisis de la Carakasaṃhitā / traduits et commentés par Alois Payer \&lt;1944 - \&gt;. -- 0. Introduction. -- URL : [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : jeter, lancer
 

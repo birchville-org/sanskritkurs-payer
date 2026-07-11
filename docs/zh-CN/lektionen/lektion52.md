@@ -1,6 +1,6 @@
 ---
 title: Lektion 52
-subtitle: "Neutrum der Stämme auf -i und -u"
+subtitle: "-i 和 -u 词干的中性形式"
 lesson_id: 52
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -131,7 +131,7 @@ PPP + -vant / 阴性：vatī
 :::
 ## 52.4. 表达某物成为或变成其先前所不是的东西的动词复合词（⟪अभुततद्भावः⟫）
 
-### 52.4.1. cvi-Bildungen
+### 52.4.1. cvi-构成
 
 ::: grammar-box
 **追溯根源**
@@ -745,7 +745,7 @@ Amaravati = అమరావతి，公元2世纪
 1. 复习迄今为止所学的全部内容，特别是：
 1. 背诵变位和变格范式表
 2. 词汇
-3. 词干形式（Stammformen）
+3. 词干形式
 2. 尽可能多地背诵古典文献中的诗句和散文文本
 3. 完成[第53课](lektion53.md)的学习
 4. 完成《薄伽梵歌》第1-11章的练习（尚未在互联网上提供）

@@ -138,15 +138,15 @@ Les hindous pieux vont au temple pour obtenir la vision de Dieu à travers un sy
 :::
 **Exemples :**
 
-| Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Signification |
+| Racine : br⟪धातु⟫ | + -ti (kṛt) | Signification |
 | :--- | :--- | :--- |
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śruti** f.:br⟪श्रुति⟫ | "l'écoute, le Veda" |
-| **smṛ** 1 P:br⟪स्मृ⟫:br"vergegenwärtigen" | **smṛti** f.:br⟪स्मृति⟫ | "La remémoration, mémoire, tradition, attention" |
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nīti** f.:br⟪नीति⟫ | "la conduite, direction, comportement" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Émanation, création" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Regard, vue, perspective" |
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
+| **śru** 5 P:br⟪श्रु⟫:br"écouter" | **śruti** f.:br⟪श्रुति⟫ | "l'écoute, le Veda" |
+| **smṛ** 1 P:br⟪स्मृ⟫:br"rappeler à l'esprit" | **smṛti** f.:br⟪स्मृति⟫ | "La remémoration, mémoire, tradition, attention" |
+| **nī** 1 U:br⟪नी⟫:br"conduire" | **nīti** f.:br⟪नीति⟫ | "la conduite, direction, comportement" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"faire émaner" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Émanation, création" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"voir" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Regard, vue, perspective" |
+| **gam** 1 P:br⟪गम्⟫:br"aller" | **gati** f.:br⟪गति⟫ | "Gang, carrière, but du déplacement" (de *gm » ga + -ti) |
+| **man** 4 Ā:br⟪मन्⟫:br"penser" | **mati** f.:br⟪मति⟫ | "Pensée, idée, opinion" (de *mn » ma + -ti) |
 
 *Remarque : \* devant une forme signifie que cette forme n'apparaît pas en sanskrit, mais est déduite théoriquement comme condition préalable à une certaine formation. Le degré inférieur de **gam** est gṃ = \*gm, le m est remplacé par une nasale sonore par **a** » **ga**. Il en va de même pour **man** » **ma**.
 

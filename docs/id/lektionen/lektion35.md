@@ -6,28 +6,28 @@ status: stable
 
 # Lesson 35
 
-## 35.1. Perfect Type III: Strong Stem, Guṇa/Ḍīrgha Grade
+## 35.1. Perfek Tipe III: Batang Kuat, Tingkat Guṇa/Ḍīrgha
 
 ::: grammar-box
 **Formation:**
 
-**strong stem:**
+**batang kuat:**
 *   3.sg.P: Ḍīrgha grade
 *   2.sg.P: Guṇa grade
 *   1.sg.P: optionally Guṇa grade or Ḍīrgha grade
 
-**weak stem:** see the subtypes
+**batang lemah:** lihat subtipe
 :::
-### 35.1.1. Perfect Type IIIa: Strong stem in guṇa/long grade, weak stem in zero grade
+### 35.1.1. Perfek Tipe IIIa: Batang kuat dalam tingkat guṇa/panjang, batang lemah dalam tingkat nol
 
 ::: grammar-box
 **Formation:**
 
 :::
 ::: indent
-**weak stem:** zero grade
+**batang lemah:** tingkat nol
 :::
-Formed from roots of the following types:
+Dibentuk dari akar-akar dengan tipe berikut:
 *   (Consonant)-(Consonant) - i/ī/u/ū
 *   (Consonant) - ṛ
 
@@ -35,11 +35,11 @@ Before endings beginning with a vowel, the following replacements occur:
 *   -i/-ī becomes -iy
 *   -u/-ū becomes -uv
 *   -ṛ becomes r
-Examples:
+Contoh:
 
 ::: grammar-box
 
-| Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इयाय⟫:briy-ai + a | ⟪ईयुर्⟫:bri + iy + ur | | |
 | ⟪नी⟫ 1U | ⟪निनाय⟫ | ⟪निन्युर्⟫:brni-nī + ur | ⟪निन्ये⟫ | ⟪निन्यिरे⟫ |
@@ -48,88 +48,88 @@ Examples:
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
 :::
-### 35.1.2. Perfect Type IIIb: Strong stem in guṇa/long grade, weak stem in guṇa grade
+### 35.1.2. Perfek Tipe IIIb: Batang kuat dalam tingkat guṇa/panjang, batang lemah dalam tingkat guṇa
 
 ::: grammar-box
 **Formation:**
 
 :::
 ::: indent
-**weak stem:** guṇa grade
+**batang lemah:** tingkat guṇa
 :::
-Formed from roots of the following types:
+Dibentuk dari akar-akar dengan tipe berikut:
 *   (Consonant)-(Consonant)-ṝ
-*   Consonant-Consonant-ṛ (i.e., roots ending in -ṛ preceded by multiple consonants)
-Examples:
+*   Konsonan-Konsonan-ṛ (yaitu, akar yang berakhir dengan -ṛ yang didahului oleh beberapa konsonan)
+Contoh:
 
 ::: grammar-box
 
-| Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पॄ⟫ 3P | ⟪पपार⟫ | ⟪पपरुर्⟫ | | |
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
 :::
-## 35.2. Perfect Type IV: Stems ending in -ā / -āi
+## 35.2. Perfek Tipe IV: Batang yang berakhir dengan -ā / -āi
 
 ::: grammar-box
 **Formation:**
 
-**strong stem:**
+**batang kuat:**
 *   3rd/1st sg. P Perfect ends in -au
 *   2nd sg. P : Strengthened grade -ā or Weakened grade -i
 
-**weak stem:**
+**batang lemah:**
 *   before consonant: Weakened grade -i
 *   before vowel: Weakened grade Ø
 
-Formed from stems ending in -ā / -āi
+Dibentuk dari batang yang berakhir dengan -ā / -āi
 :::
-Example:
+Contoh:
 
 ::: grammar-box
 
-| Root | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Akar | 3. tg. Perf. P.:br1. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
 :::
-## 35.3. Perfect Type V: Roots Consonant-a-Consonant
+## 35.3. Perfek Tipe V: Akar Konsonan-a-Konsonan
 
 ::: grammar-box
 **Formation:**
 
-**strong stem:**
+**batang kuat:**
 *   3.sg.P: guṇa grade
 *   2.sg.P: zero grade
 *   1.sg.P: optionally zero grade or guṇa grade
 
-**weak stem:** see subtypes
+**batang lemah:** lihat subtipe
 
-Formed from roots of the type (Consonant)-Consonant-a-Consonant
+Dibentuk dari akar dengan tipe (Konsonan)-Konsonan-a-Konsonan
 :::
-### 35.3.1. Perfect Type Va: Weak Stem, Guṇa Grade
+### 35.3.1. Perfek Tipe Va: Batang Lemah, Tingkat Guṇa
 
 ::: grammar-box
 **Formation:**
 
 :::
 ::: indent
-**weak stem:** Guṇa grade
+**batang lemah:** Tingkat Guṇa
 :::
-Formed by various roots, including:
+Dibentuk oleh berbagai akar, termasuk:
 *   ⟪गम्⟫
 *   ⟪हन्⟫
 *   ⟪जन्⟫
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-Examples:
+Contoh:
 
 ::: grammar-box
 
-| Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
 | ⟪हन्⟫ 2P | ***⟪जघान⟫***:brja-**ghān**-a | ***⟪जघ्नुर्⟫*** | | |
@@ -139,46 +139,46 @@ Examples:
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
 :::
-### 35.3.2. Perfect Type Vb: Weak Stem Contraction (e-Type)
+### 35.3.2. Perfek Tipe Vb: Kontraksi Batang Lemah (Tipe-e)
 
 ::: grammar-box
 **Formation:**
 
 :::
 ::: indent
-**weak stem:** no reduplication. Replacement of the root’s -a- with -e-  
+**batang lemah:** tanpa reduplikasi. Penggantian -a- akar dengan -e-
 (for explanation, see Thumb-Hauschild 1,2 p. 286f.)
 :::
-Formed from roots containing -a- between two simple consonants, whose initial consonant remains unchanged in the reduplicating syllable (i.e., whose initial consonant is not a guttural, aspirate, or h).
-Example:
+Dibentuk dari akar yang mengandung -a- di antara dua konsonan sederhana, yang konsonan awalnya tetap tidak berubah dalam suku kata reduplikasi (yaitu, yang konsonan awalnya bukan guttural, aspirat, atau h).
+Contoh:
 
 ::: grammar-box
 
-| Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पच्⟫ 1U | ⟪पपाच⟫ | ***⟪पे⟫***⟪चुर्⟫ | ***⟪पे⟫***⟪चे⟫ | ***⟪पे⟫***⟪चिरे⟫ |
 
 :::
-### 35.3.3. Perfect Type Vc: Roots Consonant-a-Consonant. Weak Stem Strong Grade
+### 35.3.3. Perfek Tipe Vc: Akar Konsonan-a-Konsonan. Batang Lemah Tingkat Kuat
 
 ::: grammar-box
 **Formation:**
 
-**weak stem:** strong grade
+**batang lemah:** tingkat kuat
 
-Formed from all other roots with medial -a-, i.e., roots with medial -a-
+Dibentuk dari semua akar lain dengan -a- medial, yaitu, akar dengan -a- medial
 *   that begin with two consonants
 *   that begin with a guttural
 *   that begin with an aspirate
 *   that begin with h
 
-provided they do not belong to Perfect Type Va.
+dengan ketentuan mereka tidak termasuk dalam Perfek Tipe Va.
 :::
-Example:
+Contoh:
 
 ::: grammar-box
 
-| Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 

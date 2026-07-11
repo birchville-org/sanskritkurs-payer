@@ -87,7 +87,7 @@ status: stable
 
 **மீள்விப்பு ஒலிக்கு, மேலே கொடுக்கப்பட்ட விதிகள் பொருந்தும்.**
 :::
-### 33.2.1. Der Reduplikationsvokal der 3. Präsensklasse
+### 33.2.1. மூன்றாம் நிகழ்காலவகுப்பின் மீள்விப்பு உயிர்
 
 ::: grammar-box
 * **உருவாக்கம்:**
@@ -113,9 +113,9 @@ status: stable
 ā kann
 
 * ஒருபுறம், -a- கொண்ட அலௌத் வரிசைகளில் ஒன்றின் நீட்சி நிலை ஆக இருக்கலாம்
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* மறுபுறம், -ā- கொண்ட அலௌத் வரிசைகளில் ஒன்றின் உயர்நிலை ஆக இருக்கலாம்
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+-ā- குழுவின் இரண்டு முக்கியமான அலௌத் வரிசைகள்:
 
 ::: grammar-box
 **அ.**

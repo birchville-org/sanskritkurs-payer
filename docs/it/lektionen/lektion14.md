@@ -1,10 +1,10 @@
----
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+[0] ---
+titolo: Lezione 14
+sottotitolo: "L'espressione della relazione tra entità designate da sostantivi: il genitivo (ṣaṣṭhī f. = ⟪षष्टी⟫ = sesta desinenza casuale)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+categoria: "Grammatica"
+status: stabile
 ---
 
 # Lezione 14
@@ -105,8 +105,8 @@ Il genitivo singolare di radici con desinenza vocalica si forma in modo irregola
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(cioè sia come **kavi**:brकवि sia come **devī**:brदेवी) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(cioè sia come **paśu**:brपशु sia come i femminili polisillabici in **-ū**) |
 
 :::
 **Pronomi interrogativi e pronomi dimostrativi:**

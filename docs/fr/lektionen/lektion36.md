@@ -1,10 +1,10 @@
 ---
-title: Lektion 36
-subtitle: "Besondere Bildungen des Perfekts"
-lesson_id: 36
-last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+title : Leçon 36
+subtitle : « Formations particulières du parfait »
+lesson_id : 36
+last_reconstructed : 2026-05-21
+category : « Grammaire »
+status : stable
 ---
 
 # Leçon 36
@@ -60,7 +60,7 @@ Le parfait périphrastique (⟪अनुप्रयोगलिट्⟫) est u
 
 (présence faible) radical du présent + -ām + forme correspondante du parfait de ⟪कृ⟫, ⟪अस्⟫ ou ⟪भू⟫
 
-- Auslautender Stammvokal wird vor -ām guṇiert.
+- La voyelle finale du thème subit le guṇa avant -ām.
 - ⟪अस्⟫ et ⟪भू⟫ sont également conjugués avec les verbes Ātmanepada au Parasmaipada.
 :::
 Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.

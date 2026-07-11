@@ -58,14 +58,14 @@ Schema II:
 
 ⟪जगती⟫基本形式：与⟪त्रिष्टुभ्⟫相同，但为12音节。每个Pada的后5个音节具有以下数量特征：
 
-metrisches Schema
+韵律模式
 **— ◡ — ◡ —**
-Darüber hinaus gibt es die sogenannte typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die sich wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied fortsetzt:
+此外，还存在所谓的典型多余⟪त्रिष्टुभ्⟫，其首部分为五音节，随后演变为具有四音节首部分的⟪त्रिष्टुभ्⟫：
 
 ::: metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
-In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind:
+在后期，⟪त्रिष्टुभ्⟫的形式根据严格的长短音模式确定，停顿不再起作用。主要的后期形式包括：
 
 a) ⟪इन्द्रवज्रा⟫
 
@@ -106,17 +106,17 @@ c) ⟪उपजाति⟫
 
 Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 
-Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Zugriff am 2009-01-28
+示例诵读：[http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3)。——访问日期：2009-01-28
 
-## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫)
+## 54.5. 不定过去时（⟪लुङ्⟫）的构成类型
 
 ::: grammar-box
 **所有Aorist（⟪लुङ्⟫）教育类型的共同点是前缀a-，它按照与Imperfekt（⟪लङ्⟫）相同的规则前置。**
 
-Im Sanskrit sind vom Aorist nur Indikativ und Prekativ gebräuchlich.
+在梵语中，不定过去时（Aorist）仅常用直陈式（Indikativ）和祈愿式（Prekativ）。
 :::
 ::: grammar-box
-**Es gibt folgende Bildungstypen des Aorist (⟪लुङ्⟫):**
+**不定过去时（⟪लुङ्⟫）存在以下构词类型：**
 
 1. 非擦音（非sigmatische）语态：
     *   54.1. 词根语态：增音 + 词根 + 次要词尾
@@ -206,7 +206,7 @@ Im Sanskrit sind vom Aorist nur Indikativ und Prekativ gebräuchlich.
     但：  
     ⟪जन्⟫ 第四类动词，中间语态：⟪अजनि⟫ “被生”
 
-*   einige Stämme auf -am  
+*   以 -am 结尾的若干词干  
     Beispiel:  
     ⟪गम्⟫ ⟪अगामि⟫
 

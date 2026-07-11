@@ -4,6 +4,7 @@ import urllib.request
 import time
 import sys
 import re
+import datetime
 
 # Configuration
 API_URL = "http://nyx.local:8088/v1/chat/completions"
@@ -1217,6 +1218,62 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
     if not is_fallback_mode and source_size > 200 and written_size < source_size * 0.3:
         print(f"  [!] WARNING: {filename} looks too small ({written_size} B written vs {source_size} B source). Review output!")
 
+    # ── POST-TRANSLATION RESIDUE SCAN ────────────────────────────────────────
+    # Only run on lesson files (lektion*.md) — not on structural pages.
+    if filename.startswith('lektion') and lang != 'de':
+        with open(target_path, encoding='utf-8') as _f:
+            _written_content = _f.read()
+        _flagged = scan_german_residues(_written_content)
+        if _flagged:
+            ts_now = time.strftime('%H:%M:%S')
+            sys.stdout.write(
+                f"[{ts_now}] [{lang}] ⚠ RESIDUE SCAN: {len(_flagged)} German term(s) in {filename}:\n"
+            )
+            for _li, _lt in _flagged[:5]:
+                sys.stdout.write(f"   L{_li}: {_lt[:120]}\n")
+            if len(_flagged) > 5:
+                sys.stdout.write(f"   ... and {len(_flagged) - 5} more\n")
+            sys.stdout.flush()
+
+            # Sonnet fallback: patch the flagged lines
+            sys.stdout.write(f"  → Sending {len(_flagged)} line(s) to Sonnet for targeted patch...\n")
+            sys.stdout.flush()
+            _patched = sonnet_patch_residues(_written_content, _flagged, lang)
+
+            # Verify the patch improved things
+            _flagged_after = scan_german_residues(_patched)
+            if len(_flagged_after) < len(_flagged):
+                # Write the patched version atomically
+                import tempfile as _tf
+                _td = os.path.dirname(target_path) or '.'
+                _tmp_fd, _tmp_p = _tf.mkstemp(dir=_td, suffix='.tmp')
+                with os.fdopen(_tmp_fd, 'w', encoding='utf-8') as _wf:
+                    _wf.write(_patched)
+                os.replace(_tmp_p, target_path)
+                resolved = len(_flagged) - len(_flagged_after)
+                sys.stdout.write(
+                    f"  ✓ Sonnet patched {resolved}/{len(_flagged)} residue(s). "
+                    f"{len(_flagged_after)} remaining.\n"
+                )
+                sys.stdout.flush()
+                if _flagged_after:
+                    log_failure(lang, filename, 'RESIDUE',
+                                _flagged_after,
+                                f"After Sonnet patch: {len(_flagged_after)} unresolved")
+            else:
+                sys.stdout.write(
+                    f"  [!] Sonnet patch did not improve result "
+                    f"({len(_flagged_after)} residues remain). Keeping Qwen3.6 output.\n"
+                )
+                sys.stdout.flush()
+                log_failure(lang, filename, 'RESIDUE', _flagged,
+                            f"Sonnet patch ineffective ({len(_flagged_after)} remain)")
+        else:
+            ts_now = time.strftime('%H:%M:%S')
+            sys.stdout.write(f"[{ts_now}] [{lang}] ✓ Residue scan clean: {filename}\n")
+            sys.stdout.flush()
+    # ── END RESIDUE SCAN ─────────────────────────────────────────────────────
+
     retry_msg = f" (Total QC retries: {total_retries})" if total_retries > 0 else " (Flawless run)"
     mode_msg = " (Surgical)" if is_fallback_mode else ""
     print(f"[{lang}] Done {filename}{mode_msg}.{retry_msg}")
@@ -1253,6 +1310,195 @@ def chunk_content(content):
         chunks.append('\n'.join(current_chunk))
 
     return chunks
+
+
+# ══════════════════════════════════════════════════════════════════════════════
+# HYBRID STRATEGY: Post-scan → Sonnet Fallback → Failure Log
+# ══════════════════════════════════════════════════════════════════════════════
+
+# German patterns that should never appear in a translated file.
+# Only surface-level lexical markers — no Sanskrit/IAST terms.
+_DE_RESIDUE_PATTERNS = re.compile(
+    r'\b(d\.h\.|usw\.|vgl\.|z\.B\.|Bildung|Stamm[^s]|Stämme|Stammabstufung'
+    r'|auslautend|Formgleich|mehrsilbig|entweder|Dehnstufe|Hochstufe'
+    r'|Tiefst(?:ufe|\.)|Normalst(?:ufe|\.)|Schwundstufe|Merke:|Beachte:'
+    r'|Anmerkung:|Hinweis:|Beispiel:|Beispiele:|Präsensklasse|Aoristklasse'
+    r'|Perfektstamm|Desiderativstamm|Kausativstamm|Verbalwurzel'
+    r'|Kasusendung|Kasussystem|Deklinationsklasse|Konjugationsklasse'
+    r'|Sandhi-Regel|Lautgesetz|Stammvokal|Endung(?:en)?\b'
+    r')'
+)
+# (Unused placeholder — pure-IAST line detection handled inline in scan_german_residues)
+
+FAILURE_LOG_PATH = os.path.join(
+    os.path.dirname(os.path.dirname(os.path.abspath(__file__))),
+    "docs", "qa", "translation_failures.md"
+)
+
+
+def scan_german_residues(content: str) -> list:
+    """Scan translated content for remaining German terms.
+
+    Returns a list of (line_index, line_text) tuples where residues were found.
+    Ignores lines inside ::: deleteme-box containers and YAML frontmatter.
+    """
+    flagged = []
+    in_frontmatter = False
+    in_deleteme = False
+    frontmatter_count = 0
+
+    for i, line in enumerate(content.split('\n')):
+        stripped = line.strip()
+
+        # Track YAML frontmatter (first --- block)
+        if stripped == '---' and i < 5:
+            frontmatter_count += 1
+            in_frontmatter = frontmatter_count == 1
+            if frontmatter_count == 2:
+                in_frontmatter = False
+            continue
+        if in_frontmatter:
+            continue
+
+        # Track ::: deleteme-box containers
+        if '::: deleteme-box' in stripped or ':::deleteme-box' in stripped:
+            in_deleteme = True
+        if in_deleteme and stripped == ':::':
+            in_deleteme = False
+            continue
+        if in_deleteme:
+            continue
+
+        # Skip lines that are purely Devanāgarī, IAST, or URLs
+        if not stripped or stripped.startswith('http') or stripped.startswith('<!--'):
+            continue
+
+        # Skip lines in grammar-box headers / structural markers
+        if stripped.startswith(':::') or stripped == '---':
+            continue
+
+        if _DE_RESIDUE_PATTERNS.search(line):
+            flagged.append((i, line))
+
+    return flagged
+
+
+SONNET_API_URL = "https://openrouter.ai/api/v1/chat/completions"
+SONNET_MODEL = "anthropic/claude-sonnet-4-5"
+
+
+def sonnet_patch_residues(content: str, flagged_lines: list, target_lang: str) -> str:
+    """Send ONLY the flagged lines (with context) to Sonnet for targeted patching.
+
+    Returns the full content with residues replaced.
+    Uses OpenRouter with OPENROUTER_API_KEY env variable.
+    """
+    api_key = os.environ.get('OPENROUTER_API_KEY', '')
+    if not api_key:
+        sys.stdout.write("  [!] SONNET FALLBACK: OPENROUTER_API_KEY not set — skipping patch.\n")
+        sys.stdout.flush()
+        return content
+
+    lang_name = LANG_NAMES.get(target_lang, target_lang)
+    lines = content.split('\n')
+    flagged_indices = {i for i, _ in flagged_lines}
+
+    # Build a context window: flagged lines ± 2 lines of context
+    context_indices = set()
+    for i in flagged_indices:
+        for j in range(max(0, i - 2), min(len(lines), i + 3)):
+            context_indices.add(j)
+
+    # Format the snippet with line markers
+    snippet_lines = []
+    for i in sorted(context_indices):
+        marker = ">>" if i in flagged_indices else "  "
+        snippet_lines.append(f"[L{i}]{marker} {lines[i]}")
+    snippet = '\n'.join(snippet_lines)
+
+    system = (
+        f"You are a scholarly translator fixing German residues in a {lang_name} Sanskrit-education text. "
+        "Lines marked with >> contain German words that were not translated. "
+        "Rules: "
+        "(1) Translate ONLY the German words on lines marked >>. "
+        "(2) Preserve all Markdown syntax, IAST, Devanāgarī (⟪...⟫), and container syntax exactly. "
+        "(3) Return ONLY the corrected lines in the format [LN] corrected_text — one per line. "
+        "(4) Do NOT return context lines (without >>). "
+        "(5) Keep the scholarly editorial tone."
+    )
+    data = {
+        "model": SONNET_MODEL,
+        "messages": [
+            {"role": "system", "content": system},
+            {"role": "user", "content": snippet}
+        ],
+        "temperature": 0.1,
+        "max_tokens": 2048,
+    }
+
+    import subprocess as _sp
+    curl_cmd = [
+        'curl', '-s', '-X', 'POST', SONNET_API_URL,
+        '-H', 'Content-Type: application/json',
+        '-H', f'Authorization: Bearer {api_key}',
+        '-H', 'HTTP-Referer: https://sanskritkurs-payer.ch',
+        '-d', json.dumps(data), '--max-time', '120'
+    ]
+
+    try:
+        proc = _sp.run(curl_cmd, capture_output=True, text=True, timeout=125)
+        if proc.returncode != 0:
+            raise OSError(f"curl exit {proc.returncode}: {proc.stderr[:200]}")
+        res = json.loads(proc.stdout)
+        patched_text = res['choices'][0]['message']['content']
+    except Exception as e:
+        sys.stdout.write(f"  [!] SONNET FALLBACK API error: {e}\n")
+        sys.stdout.flush()
+        return content
+
+    # Parse Sonnet's response and apply corrections
+    patched_lines = list(lines)  # copy
+    for resp_line in patched_text.split('\n'):
+        m = re.match(r'^\[L(\d+)\](?:>>)?\s*(.*)', resp_line.strip())
+        if m:
+            idx = int(m.group(1))
+            corrected = m.group(2)
+            if 0 <= idx < len(patched_lines):
+                patched_lines[idx] = corrected
+
+    return '\n'.join(patched_lines)
+
+
+def log_failure(
+    lang: str,
+    filename: str,
+    failure_code: str,
+    flagged_lines: list,
+    note: str = ""
+) -> None:
+    """Append a structured entry to docs/qa/translation_failures.md."""
+    os.makedirs(os.path.dirname(FAILURE_LOG_PATH), exist_ok=True)
+
+    # Initialize file with header if it doesn't exist
+    if not os.path.exists(FAILURE_LOG_PATH):
+        with open(FAILURE_LOG_PATH, 'w', encoding='utf-8') as f:
+            f.write("# Translation Failure Log\n\n")
+            f.write("Automatically generated. Do not edit manually.\n\n")
+            f.write("| Timestamp | Language | File | Code | Lines | Note |\n")
+            f.write("|-----------|----------|------|------|-------|------|\n")
+
+    ts = datetime.datetime.now().strftime('%Y-%m-%d %H:%M')
+    line_refs = ', '.join(str(i) for i, _ in flagged_lines[:10])
+    if len(flagged_lines) > 10:
+        line_refs += f' (+{len(flagged_lines) - 10} more)'
+    note_clean = note.replace('|', '\\|').replace('\n', ' ')
+
+    entry = f"| {ts} | {lang} | {filename} | `{failure_code}` | {line_refs} | {note_clean} |\n"
+    with open(FAILURE_LOG_PATH, 'a', encoding='utf-8') as f:
+        f.write(entry)
+
+    sys.stdout.write(f"  [LOG] Failure logged: {lang}/{filename} [{failure_code}] — {len(flagged_lines)} residues\n")
+    sys.stdout.flush()
 
 def generate_licenses(lang):
     """Copy DE licenses.md verbatim, substituting only fixed UI phrases. No LLM."""

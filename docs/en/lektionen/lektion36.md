@@ -1,9 +1,9 @@
 ---
-title: Lektion 36
-subtitle: "Besondere Bildungen des Perfekts"
+title: Lesson 36
+subtitle: "Special Forms of the Perfect"
 lesson_id: 36
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "Grammar"
 status: stable
 ---
 
@@ -60,7 +60,7 @@ The periphrastic perfect (⟪अनुप्रयोगलिट्⟫) is used
 
 (weak) present stem + -ām + corresponding perfect form of ⟪कृ⟫, ⟪अस्⟫ or ⟪भू⟫
 
-- Auslautender Stammvokal wird vor -ām guṇiert.
+[0] - The final stem vowel undergoes guṇa before -ām.
 - ⟪अस्⟫ and ⟪भू⟫ are also conjugated in the Parasmaipada for Ātmanepada verbs.
 :::
 Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.

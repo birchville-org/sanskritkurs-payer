@@ -282,7 +282,7 @@ status: stable
 具体规则见 Kielhorn《语法》第461节。
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-示例：
+Beispiel:
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -394,7 +394,7 @@ status: stable
 | ⟪माला⟫ 阴性，“花环” | ⟪मालाति⟫ “它类似于一个花环” |
 | ⟪राजन्⟫ 阳性，“国王” | ⟪राजानति⟫ “他表现得像一位国王” |
 
-### 61.4.2. Bildung mit Suffix -ya, Parasmaipada
+### 61.4.2. 带 -ya 后缀的构成，主动用法
 
 ::: grammar-box
 **意义：**

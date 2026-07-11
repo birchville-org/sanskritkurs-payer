@@ -1,9 +1,9 @@
 ---
-title: Lektion 21
-subtitle: "Weitere Präsensstämme auf -nt"
+title: Lezione 21
+subtitle: "Ulteriori temi del presente in -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "Grammatica"
 status: stable
 ---
 
@@ -25,14 +25,14 @@ Questo participio è una formazione nominale dalla radice del presente, quindi u
 :::
 ::: grammar-box
 
-| **Formazione des Partizip Presente Parasmaipada zu thematischen Presentestämmen:** |||
+| **Formazione del participio presente parasmaipada per le radici tematiche di presente:** |||
 | :--- | :--- | :--- |
 | **Maschile, Neutro** | | |
-| | **starker Tema** | Tema del presente + **-nt-** |
-| | **schwacher Tema** | Tema del presente + **-t-** |
+| | **forma forte** | Radice di presente + **-nt-** |
+| | **forma debole** | Radice di presente + **-t-** |
 | **Femminile** | | |
-| | | Tema del presente + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Presenteklasse** | Tema del presente + **-nt-** + **-ī** :broder::brTema del presente + **-t-** + **-ī** |
+| | | Radice di presente + **-nt-** + **-ī** (declinazione come **devī** :br⟪देवी⟫) |
+| | **6. Classe di presente** | Radice di presente + **-nt-** + **-ī** :broder::brRadice di presente + **-t-** + **-ī** |
 
 :::
 Esempi:
@@ -78,13 +78,13 @@ Si noti l'identità di **⟪यजन्ति⟫** (Nom. pl. Neutro) con la 3. 
 :::
 ::: grammar-box
 
-| **Formazione des Partizip Presente Parasmaipada zu athematischen Presentestämmen (ausser 3. Presenteklasse):** |||
+| **Formazione del participio presente parasmaipada per le radici di presente atematiche (eccetto la 3. classe del presente):** |||
 | :--- | :--- | :--- |
 | **Maschile, Neutro** | | |
-| | **starker Tema** | Tema del presente + **-ant-** |
-| | **schwacher Tema** | Tema del presente + **-at-** :br(Der Auslaut des schwachen Tema del presentees lautet gleich wie vor der 3. Plur. P.) |
+| | **forma forte** | Tema del presente + **-ant-** |
+| | **forma debole** | Tema del presente + **-at-**:br(La desinenza della forma debole del tema di presente è uguale a quella prima della 3. plur. P.) |
 | **Femminile** | | |
-| | | Tema del presente + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | | Tema del presente + **-at-** + **-ī** (declinazione come **devī**:br⟪देवी⟫) |
 
 :::
 2\. classe di presente:

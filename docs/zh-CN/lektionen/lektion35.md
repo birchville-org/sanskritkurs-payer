@@ -11,10 +11,10 @@ status: stable
 ::: grammar-box
 **教育：**
 
-**starker Stamm:**
-*   3.sg.P: Dehnstufe
-*   2.sg.P: Hochstufe
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe
+**强词干：**
+*   第三人称单数祈愿式：长音级
+*   第二人称单数祈愿式：高一级
+*   第一人称单数祈愿式：可选高一级或长音级
 
 **弱词干：** 见各子类型
 :::
@@ -48,7 +48,7 @@ status: stable
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
 :::
-### 35.1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+### 35.1.2. 完成时类型 IIIb：强词干-高级元音/延长元音，弱词干-高级元音
 
 ::: grammar-box
 **教育：**
@@ -76,17 +76,17 @@ status: stable
 ::: grammar-box
 **教育：**
 
-**starker Stamm:**
-*   3./1. sg. P Perfekt endet auf -au
-*   2\. sg. P : Hochstufe -ā oder Tiefstufe -i
+**强词干：**
+*   第三人称/第一人称单数完成时以 -au 结尾
+*   第二人称单数：高一级音 -ā 或低一级音 -i
 
-**schwacher Stamm:**
-*   vor Konsonant: Tiefstufe -i
-*   vor Vokal: Tiefstufe Ø
+**弱词干：**
+*   辅音前：低一级音 -i
+*   元音前：低一级音 Ø
 
-Wird gebildet von Wurzeln auf -ā / -āi
+由以 -ā / -āi 结尾的词根构成
 :::
-Beispiel:
+例如：
 
 ::: grammar-box
 
@@ -100,10 +100,10 @@ Beispiel:
 ::: grammar-box
 **教育：**
 
-**starker Stamm:**
-*   3.sg.P: Dehnstufe
-*   2.sg.P: Hochstufe
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe
+**强词干：**
+*   3.sg.P：长音级
+*   2.sg.P：高一级
+*   1.sg.P：可选高一级或长音级
 
 **弱词干：** 参见子类型
 
@@ -135,7 +135,7 @@ Beispiel:
 | ⟪हन्⟫ 2类 | ***⟪जघान⟫*** :brja-**ghān**-a | ***⟪जघ्नुर्⟫*** | | |
 | ⟪जन्⟫ 4类 | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2类 | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1类 | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
+| ⟪वद्⟫ 1类 | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \&lt;⟪ऊदे⟫\&gt; | \&lt;⟪ऊदिरे⟫\&gt; |
 | ⟪यज्⟫ 1类 | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
 :::
@@ -164,7 +164,7 @@ Beispiel:
 ::: grammar-box
 **教育：**
 
-**schwacher Stamm:** Hochstufe
+**弱词干：** 高级元音
 
 由所有其他带有中间元音 -a- 的词根构成，即带有中间元音 -a- 的词根：
 *   以两个辅音开头的
@@ -172,7 +172,7 @@ Beispiel:
 *   以送气音开头的
 *   以 h 开头的
 
-sofern sie nicht zu Perfekt Typ Va gehören.
+sofern sie nicht zur Perfekt-Klasse Va gehören.
 :::
 Beispiel:
 
@@ -219,16 +219,16 @@ Beispiel:
 **过去被动分词 ⟪गीत⟫**：换行
 **不定式 ⟪गातुम्⟫**
 
-davon:
-**⟪गीता⟫ f.:** Lied, Gesang
+davon：
+**⟪गीता⟫ f.：** 歌，歌唱
 :::: media
 ![](/images/lekt3501.webp)
-Abb.: ⟪जगुः⟫
-Tempelmusiker Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/zh-CN/licenses#lekt3501))
+图：⟪जगुः⟫
+寺庙音乐家 Kaadu Malleswara Temple Bangalore。
+（图片来源：[详情](/zh-CN/licenses#lekt3501)）
 ::::
 :::
-## 35.5. Übung
+## 35.5. 练习
 
 A) 为以下动词形式构成相应的完成时形式：
 
@@ -302,7 +302,7 @@ C) 将练习B)中的句子进行转换，用未完成过去时（Imperfekta）�
 
 **lekt3501:** Tempelmusiker Kaadu Malleswara Temple Bangalore. [Bildquelle: Samuelraj / Flickr. CC BY-NC]
 
-**lekt3502:** Menschen, die gehen, Senegal. [Bildquelle: Curt Carnemark / Weltbank. CC BY-NC-ND]
+**lekt3502:** Menschen, die gehen，塞内加尔。[图片来源：Curt Carnemark / 世界银行。CC BY-NC-ND]
 
 **lekt3503:** 瓦达塞里的市场，泰米尔纳德邦。[图片来源：kifo / Flickr。CC BY-SA]
 

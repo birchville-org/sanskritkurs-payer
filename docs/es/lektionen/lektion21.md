@@ -1,10 +1,10 @@
----
-title: Lektion 21
-subtitle: "Weitere Präsensstämme auf -nt"
+[0] ---
+title: Lección 21
+subtitle: "Otras raíces de presente en -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+category: "Gramática"
+status: estable
 ---
 
 # Lección 21
@@ -25,14 +25,14 @@ Este participio es una formación nominal a partir de la raíz del presente, es 
 :::
 ::: grammar-box
 
-| **Formación des Partizip Presente Parasmaipada zu thematischen Presentestämmen:** |||
+| **Formación del participio presente parasmaipada para temas presentes temáticos:** |||
 | :--- | :--- | :--- |
 | **Masculino, Neutro** | | |
-| | **starker Tema** | Tema de presente + **-nt-** |
-| | **schwacher Tema** | Tema de presente + **-t-** |
+| | **forma fuerte** | Tema presente + **-nt-** |
+| | **forma débil** | Tema presente + **-t-** |
 | **Femenino** | | |
-| | | Tema de presente + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Presenteklasse** | Tema de presente + **-nt-** + **-ī** :broder::brTema de presente + **-t-** + **-ī** |
+| | | Tema presente + **-nt-** + **-ī** (declinación como **devī** :br⟪देवी⟫) |
+| | **6. Clase presente** | Tema presente + **-nt-** + **-ī** :broder::brTema presente + **-t-** + **-ī** |
 
 :::
 Ejemplos:
@@ -78,13 +78,13 @@ Ejemplos:
 :::
 ::: grammar-box
 
-| **Formación des Partizip Presente Parasmaipada zu athematischen Presentestämmen (ausser 3. Presenteklasse):** |||
+| **Formación del participio presente parasmaipada para raíces de presente átemáticas (excepto 3. clase de presente):** |||
 | :--- | :--- | :--- |
 | **Masculino, Neutro** | | |
-| | **starker Tema** | Tema de presente + **-ant-** |
-| | **schwacher Tema** | Tema de presente + **-at-** :br(Der Auslaut des schwachen Tema de presentees lautet gleich wie vor der 3. Plur. P.) |
+| | **forma fuerte** | Tema de presente + **-ant-** |
+| | **forma débil** | Tema de presente + **-at-**:br(La terminación del tema de presente débil es igual que antes de la 3. plural P.) |
 | **Femenino** | | |
-| | | Tema de presente + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | | Tema de presente + **-at-** + **-ī** (declinación como **devī**:br⟪देवी⟫) |
 
 :::
 2\. Clase de presente:

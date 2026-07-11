@@ -3786,11 +3786,11 @@ PPP ⟪परिभूत⟫ 3: sconfigì, umilià, abassà
 ⟪नि⟫ Präverb: vers il bas, giu, enavos, indaifer
 
 ::: indent
-z.B.
+p.ex.
 ⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫sig[⟪षी⟫]⟪दति⟫ : s'assentar
 
 :::
-⟪भोस्⟫ Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er sig[⟪भो⟫].
+⟪भोस्⟫ particla dal vocativ: exclamaziun d'interpellaziun, p.ex.: hé, ciao, oh, eh, hallo, hi! savens betg da traducir. Quest particel ha in sandhi spezial: avant tuts sons sonors, suna el sig[⟪भो⟫].
 
 ::: media
 ![](/images/lekt4611.webp)

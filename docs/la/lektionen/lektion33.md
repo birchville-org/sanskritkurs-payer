@@ -101,8 +101,8 @@ Exempla:
 ::: grammar-box
 **⟪हु⟫** 3P "(ad hostiam) in ignem effundere"
 
-* **starker Stamm:** ⟪जुहो⟫
-* **schwacher Stamm:** ⟪जुहु⟫
+* **truncus fortis:** ⟪जुहो⟫
+* **truncus debilis:** ⟪जुहु⟫
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -115,7 +115,7 @@ Exempla:
 ā kann
 
 * ex una parte gradus productus unius series consonanticae cum -a- esse possit
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* ex altera parte gradus productus in una serie apophonicae classis ā esse possit
 
 Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 

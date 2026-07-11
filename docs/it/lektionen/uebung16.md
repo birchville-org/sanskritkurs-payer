@@ -238,7 +238,7 @@ Il dovere specifico di un kṣatriya è: studio del Veda, sacrificio come caposa
 
 ⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिपाशुपाल्ये⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪॥७॥⟫
 ⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪च⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪।⟫
-Die spezifische Pflicht eines Vaiśya ist: Vedastudium, Opfern als Opferherr, Geben an Brahmanen, Ackerbau und Viehhaltung, Handel.
+Il dovere specifico di un Vaiśya è: lo studio dei Veda, il sacrificio come caposacrificio, la donazione ai Brahmani, l'agricoltura e l'allevamento del bestiame, il commercio.
 
 ⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥८॥⟫
 ⟪शुड्रस्य⟫ ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारूणां⟫ ⟪कुशीलवानां⟫ ⟪च⟫ ⟪कर्म⟫ ⟪।⟫

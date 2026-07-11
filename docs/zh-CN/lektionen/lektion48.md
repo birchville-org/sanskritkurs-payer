@@ -162,11 +162,11 @@ status: stable
 | | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
-| **第一人称** :br⟪⟪तृतीयः⟫⟫ | ⟪⟪जुहवानि⟫⟫:br(ju-ho + āni) | ⟪⟪जुहवाम⟫⟫ | \<⟪⟪जुहवै⟫⟫\> | \<⟪⟪जुहवामहै⟫⟫\> |
-| **第二人称** :br⟪⟪मध्यमः⟫⟫ | ⟪⟪जुहुधि⟫⟫:brunregelmäßig¹ | ⟪⟪जुहुत⟫⟫ | \<⟪⟪जुहुष्व⟫⟫\> | \<⟪⟪जुहुध्वम्⟫⟫\> |
-| **第三人称** :br⟪⟪प्रथमः⟫⟫ | ⟪⟪जुहोतु⟫⟫ | ⟪⟪जुह्वतु⟫⟫:br(ju-hu + atu) | \<⟪⟪जुहुताम्⟫⟫\> | \<⟪⟪जुह्वताम्⟫⟫\> |
+| **第一人称** :br⟪⟪तृतीयः⟫⟫ | ⟪⟪जुहवानि⟫⟫:br(ju-ho + āni) | ⟪⟪जुहवाम⟫⟫ | \&lt;⟪⟪जुहवै⟫⟫\&gt; | \&lt;⟪⟪जुहवामहै⟫⟫\&gt; |
+| **第二人称** :br⟪⟪मध्यमः⟫⟫ | ⟪⟪जुहुधि⟫⟫:brunregelmäßig¹ | ⟪⟪जुहुत⟫⟫ | \&lt;⟪⟪जुहुष्व⟫⟫\&gt; | \&lt;⟪⟪जुहुध्वम्⟫⟫\&gt; |
+| **第三人称** :br⟪⟪प्रथमः⟫⟫ | ⟪⟪जुहोतु⟫⟫ | ⟪⟪जुह्वतु⟫⟫:br(ju-hu + atu) | \&lt;⟪⟪जुहुताम्⟫⟫\&gt; | \&lt;⟪⟪जुह्वताम्⟫⟫\&gt; |
 
-Anm.: ¹ Dissimilation, sodass nicht zwei Silben mit **⟪ह्⟫** aufeinanderfolgen.
+注：¹ 同位异化，因此不会出现两个带有 **⟪ह्⟫** 的音节连续出现的情况。
 :::
 ⟪धा⟫ 3U
 
@@ -240,14 +240,14 @@ Anm.: ¹ Dissimilation, sodass nicht zwei Silben mit **⟪ह्⟫** aufeinande
 
 **对于复合词，若因连声（sandhi）导致前成分末尾的 -i 或 -u 被替换为 -y 或 -v，并因此置于词根首元音之前（例如含有 ni-、vi-、su- 的复合词），则⟪वृद्धि⟫的构成方式，仿佛其后跟随的是 -iy 或 -uv。**
 
-z.B. **⟪व्याघ्र⟫** m. "Tiger" » **⟪वैयाघ्र⟫** 3 "von einem Tiger stammend, zu einem Tiger gehörend"
+例如，**⟪व्याघ्र⟫** m. “老虎” » **⟪वैयाघ्र⟫** 3 “源自老虎，属于老虎”
 :::: media
 ![](/images/lekt4801.webp)
-Abb.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
-(Bildquelle: [Details](/zh-CN/licenses#lekt4801))
+图注：⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4801)）
 ::::
 :::
-## 48.4. Wortliste
+## 48.4. 词汇表
 
 ⟪श्वस्⟫ : 明天
 
@@ -411,7 +411,7 @@ B) 翻译成梵文（使用祈使语气，并尽可能使用第二和第三现�
 
 **lekt4803:** 西塔琴演奏者 = ⟪सितारवादकः⟫ [图片来源：维基百科。公有领域]
 
-**lekt4804:** [Selbsthilfegruppe (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Bildquelle: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)]
+**lekt4804:** [自助小组（SHG）](http://en.wikipedia.org/wiki/Self-help_group_\(finance\))，泰米尔纳德邦 = தமிழ்நாடு [图片来源：mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/)。 -- 访问日期：2009-01-10。 -- [知识共享许可协议](http://creativecommons.org/licenses/by-nc/2.0/deed.de)（署名，非商业性使用）]
 
 **lekt4805:** Thaipusam节 = தைப்பூசம்，马来西亚黑风洞 [图片来源：tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/)。 -- 访问于2009-01-10。 -- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de)（署名）]
 

@@ -302,7 +302,7 @@ Fig. : ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (postposé) : comme, comme (dans les comparaisons : ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = « un homme comme un tigre », « un homme semblable à un tigre »
 
-⟪एव⟫ (postposé) : met l'accent sur ce qui précède, correspond en allemand souvent à l'accentuation, une sorte d'émoticone `\<!\>`, par ex. ⟪सत्यमेव⟫ ⟪जयति⟫ « seule la vérité triomphe », « précisément la vérité triomphe », « la vérité triomphe »
+⟪एव⟫ (postposé) : met l'accent sur ce qui précède, correspond en allemand souvent à l'accentuation, une sorte d'émoticone `\&lt;!\&gt;`, par ex. ⟪सत्यमेव⟫ ⟪जयति⟫ « seule la vérité triomphe », « précisément la vérité triomphe », « la vérité triomphe »
 
 ⟪अरि⟫ m. : ennemi (selon Thieme, Der Fremdling im Ṛgveda : originellement = étranger)
 

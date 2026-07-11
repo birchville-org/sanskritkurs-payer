@@ -76,7 +76,7 @@ Fig.: Representation of the estate division of the European Middle Ages (woodcut
 
 The three estates wear the respective estate attire. Above the -- thus designated as willed by God -- estates, Christ reigns.
 
-Max Weber \<1864 – 1920\> defines estate as follows:
+Max Weber \&lt;1864 – 1920\&gt; defines estate as follows:
 
 ::: note-box
 "**Estate**" should mean a multitude of people who, within an association, effectively
@@ -96,7 +96,7 @@ While occupational classes grow on the ground of the market-oriented economy, es
 
 Every estate-based society is conventional, ordered by rules of conduct, therefore creates economically irrational consumption conditions and hinders free market formation in this way through monopolistic appropriations and by excluding free disposal over one's own earning capacity.
 
-[**Weber, Max \<1864 – 1920\>: Economy and Society : Outline of Understanding Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – p. 625 ff.]
+[**Weber, Max \&lt;1864 – 1920\&gt;: Economy and Society : Outline of Understanding Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – p. 625 ff.]
 :::
 Varṇas are accordingly birth estates.
 
@@ -432,7 +432,7 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 ::: note-box
 In India, the true word was attributed with magical power; indeed, the entire cosmic order is maintained and created by the true word. For this important concept, see the fundamental work:
 
-Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII pages, pp. 340 - 764
+Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII pages, pp. 340 - 764
 :::
 
 ::: media
@@ -626,7 +626,7 @@ Learn the following words:
 >
 > In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
 >
-> [Source: **Dowson, John \<1820-1881\>:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Source: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -779,7 +779,7 @@ Fig.: ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (postposed): as if, like (in comparisons: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "a man like a tiger", "a tiger-like man"
 
-⟪एव⟫ (postposed): emphasizes the preceding, in German often corresponds to emphasis, a kind of emoticon `\<!\>`, e.g. ⟪सत्यमेव⟫ ⟪जयति⟫ "only the truth prevails", "precisely the truth prevails", "the truth prevails"
+⟪एव⟫ (postposed): emphasizes the preceding, in German often corresponds to emphasis, a kind of emoticon `\&lt;!\&gt;`, e.g. ⟪सत्यमेव⟫ ⟪जयति⟫ "only the truth prevails", "precisely the truth prevails", "the truth prevails"
 
 ⟪अरि⟫ m.: enemy (according to Thieme, Der Fremdling im Ṛgveda: originally = foreigner)
 
@@ -3119,7 +3119,7 @@ Fig.: ⟪शास्त्री⟫
 ::: deleteme-box
 see also:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: young girl, daughter, maiden
 
@@ -3134,7 +3134,7 @@ PPP **⟪अतीत⟫** : n. past
 ::: deleteme-box
 see also:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: young girl, daughter, maiden
 
@@ -3149,7 +3149,7 @@ PPP **⟪अतीत⟫** : n. past
 ::: deleteme-box
 see also:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::
 ⟪कन्या⟫ f.: young girl, daughter, maiden
@@ -3565,7 +3565,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 See:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::
 
@@ -3578,7 +3578,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ::: deleteme-box
 See:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 
 ::: media
@@ -3590,7 +3590,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ::: deleteme-box
 See:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 
 ::: media
@@ -3651,7 +3651,7 @@ from this:
 :::
 Regarding ⟪राहु⟫ and ⟪केतु⟫ see:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the invisible wandering stars . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the invisible wandering stars . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -4001,7 +4001,7 @@ see:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer \<1944 - \>. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer \&lt;1944 - \&gt;. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : to throw, to hurl
 
@@ -4702,7 +4702,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1003**: God Varuṇa = ⟪वरुण⟫, 17th century. [Image source. Wikipedia, Public domain]
 
-**lekt1002**: A Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / by Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \<1848 - 1906\> [Image source: Wikipedia, Public domain]
+**lekt1002**: A Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / by Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \&lt;1848 - 1906\&gt; [Image source: Wikipedia, Public domain]
 
 **lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysore (ಮೈಸೂರು) [Image source: Prakash Subbarao / Wikipedia. -- Public domain]
 
@@ -4734,7 +4734,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1809**: ⟪कामः⟫ Illustration to ⟪कामसूत्र⟫ [Image source: Wikipedia, Public domain]
 
-**lekt1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Image source: Sudarshan Bhat Khandige / Wikipedia, Public domain]
+**lesson1901**: ⟪गर्भगृहम्⟫, Badami (ಬದಾಮಿ) [Image source: Sudarshan Bhat Khandige / Wikipedia, Public domain]
 
 **lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [Image source: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Accessed on 2008-12-08. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
 

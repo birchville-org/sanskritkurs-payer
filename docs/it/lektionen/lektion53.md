@@ -449,12 +449,12 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 ::: grammar-box
 | (Aggettivo) | Comparativo | Superlativo |
 | --- | --- 
-| (⟪अल्प⟫ 3 "piccolo, poco") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "lodabile, buono") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "lodabile, buono") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" |
+| (⟪अल्प⟫ 3 "piccolo, poco") | ⟪कनीयस्⟫ :br cfr. ⟪कन्या⟫ f. "ragazza = la piccola" | ⟪कनिष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "lodabile, buono") | ⟪श्रेयस्⟫ :br a ⟪श्री⟫ f. "splendore" | ⟪श्रेष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "lodabile, buono") | ⟪ज्यायस्⟫ :br anche: "più vecchio" :br a ⟪ज्या⟫ f. "prevalenza" | ⟪ज्येष्ठ⟫ :br anche: "il più vecchio" |
 | (⟪बहु⟫ 3 "molto") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "anziano") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "anziano") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
+| (⟪वृद्ध⟫ 3 "anziano") | ⟪वर्षीयस्⟫ :br a ⟪वर्ष⟫ n.m. "stagione delle piogge, anno" | ⟪वर्षिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "anziano") | ⟪ज्यायस्⟫ :br anche: "migliore" :br a ⟪ज्या⟫ f. "prevalenza" | ⟪ज्येष्ठ⟫ :br anche: "il migliore" |
 :::
 ## 53.9. Declinazione dei comparativi in -īyas
 
@@ -484,7 +484,7 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 Si veda anche:
 
-> **Payer, Alois \<1944 - \>:** Introduzione all’esegesi dei testi sanscriti : Dispensa. -- Cap. 8: L’esegesi propriamente detta, Parte II: Su singole questioni di comprensione sincronica. -- Appendice B: Sulla metrica dei testi sanscriti. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois \&lt;1944 - \&gt;:** Introduzione all’esegesi dei testi sanscriti : Dispensa. -- Cap. 8: L’esegesi propriamente detta, Parte II: Su singole questioni di comprensione sincronica. -- Appendice B: Sulla metrica dei testi sanscriti. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Importanza della determinazione del metro
 
@@ -492,7 +492,7 @@ La determinazione del metro è importante per le seguenti ragioni:
 
 1.  **Estetica:** la metrica contribuisce, tra l’altro, alla bellezza di un’espressione. Inoltre, determinati metri possono servire a esprimere specifiche atmosfere o sono associati a determinate caste (⟪वर्ण⟫). I vari metri vengono recitati in modo diverso. :br Una buona impressione dell’effetto estetico si ottiene, ad esempio, dalla recitazione dello ⟪शिवताण्डवस्तोत्र⟫ (*Śivataṇḍvastotra*, Lode della danza di Śiva*): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Filologia testuale:** errori nel metro possono indicare che il testo non è stato tramandato correttamente in un determinato punto. Il metro aiuta a effettuare emendamenti testuali.
-3.  **Cronologia:** alcuni metri hanno subito determinate trasformazioni nel corso della storia. Ciò può essere utile per la datazione approssimativa di un testo. Si veda **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; idem: Zur Geschichte des Śloka. -- Entrambi ripubblicati in: :br **Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+3.  **Cronologia:** alcuni metri hanno subito determinate trasformazioni nel corso della storia. Ciò può essere utile per la datazione approssimativa di un testo. Si veda **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Zur Geschichte der Triṣṭhubh ; idem: Zur Geschichte des Śloka. -- Entrambi ripubblicati in: :br **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -637,7 +637,7 @@ Alois Maria Payer
 ::: deleteme-box
 **Fonti**
 
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 53. Lezione 53 (Vacanze semestrali). -- Versione del 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurs. -- 53. Lezione 53 (Vacanze semestrali). -- Versione del 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
@@ -646,6 +646,6 @@ Alois Maria Payer
 :::
 ::: deleteme-box
 
-**Payer, Alois \<1944 - \>:** Corso di sanscrito. -- Lezione 53 (Vacanze semestrali). -- Versione del 19-01-2009. -- Fonte dell'immagine della tabella originale 53.9: screenshot della fonte originale (Payer).
+**Payer, Alois \&lt;1944 - \&gt;:** Corso di sanscrito. -- Lezione 53 (Vacanze semestrali). -- Versione del 19-01-2009. -- Fonte dell'immagine della tabella originale 53.9: screenshot della fonte originale (Payer).
 :::
 

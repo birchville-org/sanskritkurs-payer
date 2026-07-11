@@ -293,7 +293,7 @@ Erklärungen:
 :::
 ::: deleteme-box
 
-**lekt5007:** Abb.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Bildquelle: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Zugriff am 2009-01-12. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)]
+**lekt5007:** 图：⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [图片来源：wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/)。-- 访问于 2009-01-12。-- [知识共享许可协议](http://creativecommons.org/licenses/by/2.0/deed.de) (署名)]
 
 **lekt5006:** 傈僳族 = Lisu, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [图片来源：parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/)。-- 访问日期：2009-01-12。-- [知识共享许可协议](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)（署名，非商业性使用，禁止演绎）]
 

@@ -412,19 +412,19 @@ c) من خلال **اقتباس** طبقي لسلطات سياسية أو كهن
 
 ::: note-box
   حول حياة المدينة والقرية انظر باشام، *Wonder*، الفصل 6.
-  :::- **yajña** m. ⟪⟨DEVA_31⟩⟫ : Opfer
+  :::- **yajña** m. ⟪यज्ञ⟫ : تضحية (Opfer)
 
 :::
 ::: note-box
   الذبيحة في الهند هي في المقام الأول تكريم للإله كضيف. من خلال ذلك تلتزم نفسك تجاه الإله.
   
   تكوين الكلمات: **yaj** 1 U + kṛt لاحقة **-na-**.
-  :::- **puṇya** n. ⟪⟨DEVA_32⟩⟫ : gutes Werk, Verdienst
+  :::- **puṇya** n. ⟪पुण्य⟫ : عمل صالح، جدارة (gutes Werk, Verdienst)
 
 :::
 ::: note-box
   من خلال ذلك تكسب الرفاهية والولادات الجيدة.
-  :::- **pāpa** n. ⟪⟨DEVA_33⟩⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
+  :::- **pāpa** n. ⟪पाप⟫ : عمل سيء، شر (Übeltat, Böses) (عكس **puṇya**)
 - **satya** n. ⟪⟪सत्य⟫⟫ : الحقيقة
 
 :::
@@ -444,7 +444,7 @@ Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg
   Wortbildung **an-** („un-“) + **ṛta** n.
   
   **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
-  :::- **ṛṣi** m. ⟪⟨DEVA_0⟩⟫ : vedischer Weiser, Verfasser vedischer Lieder
+  :::- **ṛṣi** m. ⟪ऋषि⟫ : حكيم فيدي، مؤلف الترانيم الفيدية (vedischer Weiser, Verfasser vedischer Lieder)
 
 :::
 ::: note-box
@@ -457,7 +457,7 @@ Abb.: ⟪विश्वामित्रः⟫
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sagen, sprechen
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
-- **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
+- **saha** ⟪सह⟫ : معاً، بالاشتراك مع (أيضاً في تراكيب مثل «يُقاتل مع» إلخ.) (حرف جر بعدي مع الأداتية)
 
 ---
 
@@ -3364,7 +3364,7 @@ Inf. ⟪द्रोतुम्⟫
 ⟪प्रति⟫ prefix: zurück، wider، gegen - hin
 
 ::: indent
-z.B.
+مثلاً:
 
 **⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : يضرب مرة أخرى
 

@@ -198,7 +198,7 @@ Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
 15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 The boy leads the elephant.
 
-16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟩ Proper name Vimalā)
+16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला Proper name Vimalā)
 Vimalā ist traurig.
 
 17. ⟪शुकः⟫ ⟪पतति⟫ |

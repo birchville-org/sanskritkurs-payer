@@ -73,11 +73,11 @@ last_reconstructed: 2026-04-30
 
 梵语中，一个词的词尾会根据其后接词的词首而发生变化。这种现象称为**Sandhi**（阳性）= ⟪सन्धि⟫（“连接”）。
 
-### 2.4.1. Sandhi von auslautendem -s
+### 2.4.1. -s 词末连声规则
 
 另见总览：
 
-> **Payer, Alois \<1944 - \>:** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois \&lt;1944 - \&gt;:** 词尾-s的连声。——（梵文材料）。——网址：http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 词尾的 **-s**：
 
@@ -166,12 +166,12 @@ last_reconstructed: 2026-04-30
 
 三个种姓穿着各自的种姓服饰。基督坐在种姓之上——因此被称为神意所定。
 
-马克斯·韦伯 \<1864 – 1920\> 如此定义“等级”（Stand）：
+马克斯·韦伯 \&lt;1864 – 1920\&gt; 如此定义“等级”（Stand）：
 
 ::: note-box
-“**Stand**” soll eine Vielheit von Menschen heißen, die innerhalb eines Verbandes wirksam
-a) eine ständische Sonderschätzung, - eventuell also auch
-b) ständische Sondermonopole in Anspruch nehmen.
+“种姓”一词应指在某一团体中具有效力的一大批人，他们
+a) 享有种姓特有的特殊评价——也许还包括
+b) 行使种姓特有的垄断特权。
 
 种姓可以产生：
 a) 原发性，通过自身的种姓生活方式，特别是通过**职业**的方式（生活方式或职业种姓），
@@ -186,7 +186,7 @@ c) 通过种姓对政治或神权统治权力的**占有**作为垄断（政治�
 
 每一种种姓社会都是约定俗成的，由生活准则所规范，因此创造了经济上非理性的消费条件，并通过垄断性占有和排除对个人谋生能力的自由支配，阻碍了自由市场的形成。
 
-[**韦伯, 马克斯 \<1864 – 1920\>：**《经济与 society：理解社会学纲要》。——第5版，修订版。——蒂宾根：莫尔出版社，1976年。——第625页及以下。]
+[**韦伯, 马克斯 \&lt;1864 – 1920\&gt;：**《经济与 society：理解社会学纲要》。——第5版，修订版。——蒂宾根：莫尔出版社，1976年。——第625页及以下。]
 :::
 因此，瓦尔纳（种姓）是出身等级。
 

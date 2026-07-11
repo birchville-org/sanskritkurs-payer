@@ -43,12 +43,12 @@ status: stable
 
 **学习以下词汇：**
 
-- **iti** ⟪इति⟫ : so
-  - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
-  - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
-  - Im Sanskrit gibt es keine indirekte Rede; Bildungen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
-  - **... (Zitat) ... iti śrutiḥ** = "so der Veda".
-  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergegeben (z.B. "Weil er Hunger hat, geht er...").
+- **iti** ⟪इति⟫：其
+- 在表达思想、愿望、言论或引用之后，它如同引号（"）一般使用。
+- 例如：**sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** “婆罗门说：‘圣人升入天堂’” = “婆罗门说，圣人升入天堂”。
+- 梵语中没有间接引语；带有**iti**的结构在德语中通常需转换为间接引语。
+- **... (Zitat) ... iti śrutiḥ** = “吠陀如此说”。
+- **iti**之后常隐含一个表示思考的动词：“他心想：‘……’而做某事”。在德语中按习惯表达（例如，“因为他饿了，他就去……”）。
 
 - **evam** ⟪एवम्⟫ : 如此（副词用法，例如 **evaṃ jayati** “如此他获胜”）。
 - **na** ⟪न⟫ : 不

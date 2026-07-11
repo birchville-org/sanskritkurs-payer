@@ -669,7 +669,7 @@
 *   53\.1. The Dual (⟪द्विवचन⟫ n.) of Nouns
 *   53\.2. Dual Endings of Nouns
 *   53\.3. The Dual of Consonant-Stems
-    *   53\.3.1. Stämme ohne Stammabstufung
+    *   53\.3.1. Stems without Stem Gradation
     *   53\.3.2. Stems with Stem Gradation
 *   53\.4. The Dual of Stems Ending in Vowels
 *   53\.5. Dualdvandva

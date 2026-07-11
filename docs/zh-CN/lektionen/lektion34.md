@@ -23,27 +23,27 @@ status: stable
 :::
 ## 34.2. 重叠式完成时（⟪द्वित्वलिट्⟫）
 
-### 34.2.1. Stammabstufung
+### 34.2.1. 词干元音交替
 
 ::: grammar-box
 **教育：**
 
-**starker Stamm:** Singular Parasmaipada
-*   **reduplizierte hochstufige bzw. dehnstufige Wurzel + Perfektendung**
+**强词干：** 单数第三人称主动语态
+*   **重叠的高声级或长声级词根 + 完成时后缀**
 
-**schwacher Stamm:** alle übrigen Formen
-*   **reduplizierte tiefstufige Wurzel + Perfektendung**
+**弱词干：** 其余所有形式
+*   **重叠的低声级词根 + 完成时后缀**
 :::
 ::: grammar-box
-**Generell (auch außerhalb des Perfekt) keine Stammabstufung haben Wurzeln der Form:**
-*   **(Konsonant)-Konsonant-Langvokal-Konsonant**
-*   **(Konsonant)-Konsonant-Vokal-Konsonant-Konsonant**
+**一般而言（即使在完成时之外），以下形式的词根不发生词干交替：**
+*   **（辅音）-辅音-长元音-辅音**
+*   **（辅音）-辅音-元音-辅音-辅音**
 
-**Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:**
-*   **a-Konsonant**
-*   **ā-Konsonant**
+**在完成时中，以下形式的词根也不发生词干交替：**
+*   **a-辅音**
+*   **ā-辅音**
 :::
-### 34.2.2. Die Perfektendungen
+### 34.2.2. 完成时后缀
 
 ::: grammar-box
 
@@ -133,12 +133,12 @@ status: stable
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
 :::
-## 34.3. Typen des reduplizierten Perfekts
+## 34.3. 重叠完成式的类型
 
-Einteilungsprinzip: Besonderheiten der Stammabstufung:
-*   Perfekt ohne Stammabstufung: Typ I
-*   Perfekt mit Stammabstufung: Typ II - V
-*   unregelmäßige Perfektbildungen
+分类原则：词干变格的特殊性：
+*   无词干变格的完成式：类型 I
+*   有词干变格的完成式：类型 II - V
+*   不规则的完成式构成
 
 ## 34.4. 第一类完成时：无词干变格的完成时
 
@@ -168,11 +168,11 @@ Einteilungsprinzip: Besonderheiten der Stammabstufung:
 **由以下形式的词根构成：**
 *   **(辅音)-(辅音)-i/u/ṛ/ḷ-辅音**
 
-**Bildung:**
-*   **starker Stamm: Hochstufe**
-*   **schwacher Stamm: Tiefstufe**
+**语法：**
+*   **强词干：高级形式**
+*   **弱词干：低级形式**
 :::
-Beispiele:
+例如：
 
 ::: grammar-box
 
@@ -261,7 +261,7 @@ Beispiele:
 
 ## 34.7. Übung
 
-Bildet die Perfektformen, die in Person, Zahl und Genus den folgenden Verbformen entsprechen:
+构成与以下动词形式在人称、数和性上相对应的完成时（Perfekt）形式：
 
 1. ⟪रक्षिष्यन्ति⟫
 2. ⟪स्रक्ष्यति⟫
@@ -341,7 +341,7 @@ Bildet die Perfektformen, die in Person, Zahl und Genus den folgenden Verbformen
 
 **lekt3405:** Lakshadweep群岛地图。[图片来源：CIA World Factbook。公有领域]
 
-**lekt3406:** Reisfeld in Indien. [Bildquelle: Ray Witlin / Weltbank. CC BY-NC-ND]
+**lekt3406:** Reisfeld in Indien。[图片来源：Ray Witlin / 世界银行。CC BY-NC-ND]
 
 **lekt3407:** Hinduistisches Hochzeitsritual. [Bildquelle: BriceFR / Flickr. CC BY-NC-SA]
 :::

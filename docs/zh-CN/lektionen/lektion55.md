@@ -89,12 +89,12 @@ Example:
 
 ::: media
 ![](/images/lekt5501.webp)
-Abb.: ⟪अजीर्यमिति⟫
-'Inâyat Khân am Sterben, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618
-(Bildquelle: [Details](/zh-CN/licenses#lekt5501))
+图：⟪अजीर्यमिति⟫
+‘因亚特·汗临终’，为贾汉吉尔（Jahângîr = جهانگير）手稿绘制的微型画草稿，约1618年
+（图片来源：[详情](/zh-CN/licenses#lekt5501)）
 :::
 ::: deleteme-box
 
-**lekt5501:** “Inâyat Khân am Sterben”, Entwurf für eine Miniatur einer Handschrift für Jahângîr = جهانگير, um 1618 [Bildquelle: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Zugriff am 2009-01-28. Gemeinfrei]
+**lekt5501：**“因亚特·汗临终”，为贾汉吉尔（Jahângîr = جهانگير）手稿绘制的微型画草稿，约1618年 [图片来源：[http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan)。——访问于2009-01-28。公有领域]
 
 :::

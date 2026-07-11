@@ -22,13 +22,13 @@ status: stable
 ::: grammar-box
 **Formation:**
 
-**Augment a- + Present stem + Secondary ending**
+**Augmen a- + Batang Present + Akhiran Sekunder**
 
-**The three singular persons of the Parasmaipada Imperfect are formed from the strong present stem for athematic stems; all other forms are derived from the weak present stem.**
+**Ketiga persona tunggal Parasmaipada Imperfect dibentuk dari batang present kuat untuk batang athematik; semua bentuk lainnya diturunkan dari batang present lemah.**
 
 **The Imperfect has only the indicative mood.**
 :::
-Examples:
+Contoh:
 
 ::: indent
 **⟪भू⟫** 3rd sg. Impf. P. **⟪अभवत्⟫** (a-bhava-t)
@@ -40,9 +40,9 @@ Examples:
 ## 32.3. Rules for the Augment
 
 ::: grammar-box
-**1. If the augment *a-* precedes a root beginning with a vowel, the augment and the initial vowel of the root fuse to form the *vṛddhi* grade of the root vowel.**
+**1. Jika augmen *a-* mendahului akar yang dimulai dengan vokal, augmen dan vokal awal akar melebur membentuk tingkat *vṛddhi* dari vokal akar.**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
 
@@ -54,9 +54,9 @@ Examples:
 
 :::
 ::: grammar-box
-**2. If preverbs precede a root, the augment *a-* follows the preverbs and immediately precedes the root.**
+**2. Jika preverba mendahului akar, augmen *a-* mengikuti preverba dan langsung mendahului akar.**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
 
@@ -68,16 +68,16 @@ Examples:
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
-## 32.4. Examples of Imperfect Formation
+## 32.4. Contoh Pembentukan Imperfect
 
 ::: important
-**To demonstrate the formation of forms, Ātmanepada forms are also generated for Parasmaipada roots here! These artificial forms are enclosed within \< \>.**
+**Untuk mendemonstrasikan pembentukan bentuk-bentuk, bentuk Ātmanepada juga dihasilkan untuk akar Parasmaipada di sini! Bentuk-bentuk artifisial ini diapit dalam \< \>.**
 :::
 ### 32.4.1. Thematic Present Classes
 
 ::: grammar-box
 
-| Present Class | Root:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Kelas Present | Akar:br⟪धातु⟫ | 3. tg. P. | 3. jm. P. | 3. tg. Ā. | 3. jm. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \&lt;⟪अभवत⟫\&gt; | \&lt;⟪अभवन्त⟫\&gt; |
 | 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \&lt;⟪अनृत्यत⟫\&gt; | \&lt;⟪अनृत्यन्त⟫\&gt; |
@@ -90,7 +90,7 @@ Examples:
 
 ::: grammar-box
 
-| Present Class | Root:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Kelas Present | Akar:br⟪धातु⟫ | 3. tg. P. | 3. jm. P. | 3. tg. Ā. | 3. jm. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ > adveṣ > adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
 | 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t > adogdh > adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
@@ -476,7 +476,7 @@ C) Translate into Sanskrit:
 
 15. Rāma, by the teacher’s instruction, left the village for the town, entered the holy man’s house, stood respectfully before the sage, and spoke: “Abandon anger!”
 
-16. Always (let his) association with those who have grown in the sciences be such that his education/good conduct may flourish. (This) because education/good conduct has (this association) as its root.
+16. Selalu (hendaknya) pergaulannya dengan mereka yang telah berkembang dalam ilmu-ilmu sedemikian rupa sehingga pendidikan/kelakuan baiknya dapat berkembang. (Ini) karena pendidikan/kelakuan baik memiliki (pergaulan ini) sebagai akarnya.
 
 17. While the teacher stands, the boy must not sit.
 
@@ -514,7 +514,7 @@ C) Translate into Sanskrit:
 
 34. It is the Dharma of the Kṣatriyas that the Kṣatriyas protect the people from enemies.
 
-35. Therefore, the three (tisras) sciences have governance as their root. Governance, which has education/good conduct as its root, brings benefit and secure possession to living beings (⟪प्राणभृत्⟫).
+35. Oleh karena itu, ketiga (tisras) ilmu memiliki pemerintahan sebagai akarnya. Pemerintahan, yang memiliki pendidikan/kelakuan baik sebagai akarnya, membawa manfaat dan kepemilikan yang aman bagi makhluk hidup (⟪प्राणभृत्⟫).
 
 36. Evil people do not listen when the teacher speaks about Dharma.
 

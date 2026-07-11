@@ -33,11 +33,10 @@ Paradigma:
 
 ### 61.1.2. Nomi radicali femminili in -ī
 
-::: grammar-box
+[0] ::: grammar-box
 **Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
 **Oltre alle formazioni con le desinenze casuali regolari, nel Dat.Ab.Gen.Loc.sg. e Gen.pl. si trovano anche formazioni secondo il modello di femminili polisillabici in -ī (⟪देवी⟫).**
-:::
 Paradigma:
 
 ⟪धी⟫ f. "Pensiero"
@@ -559,7 +558,7 @@ Fig.:
 :::
 
 ::: indent
-**Westergaard**, Niels Ludvig \<1815-1878\>: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
+**Westergaard**, Niels Ludvig \&lt;1815-1878\&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
 ## 61.5. Il Benedittivo (⟪आशीर्लिङ्⟫)
 

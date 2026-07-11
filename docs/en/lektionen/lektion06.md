@@ -34,7 +34,7 @@ When the agent (**kartṛ** m. = ⟪कर्तृ⟫) is mentioned in a verbal
 A finite verb form, i.e., a verb form with personal endings, expresses in Sanskrit the following:
 
 1. **Meaning** (**artha** m. ⟪अर्थ⟫)
-2. **Person** and **Number** (vacana n. = ⟪वचन⟫) (I, you, he \<she, it\>, we two, you two, they two, we, you, they)
+2. **Person** and **Number** (vacana n. = ⟪वचन⟫) (I, you, he \&lt;she, it\&gt;, we two, you two, they two, we, you, they)
 3. Mode of action (genus verbi):
    1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("word form with reference to another"): Active. e.g., **yajati** = ⟪यजति⟫ = "He worships with a sacrifice" (namely, the priest who performs the sacrifice for someone else)
    2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("word form with reference to oneself"): Middle. e.g., **yajate** = ⟪यजते⟫ = "He worships with a sacrifice for his own interest" (namely, the sacrificer who sacrifices for himself and his family)
@@ -105,14 +105,14 @@ Example **yaj** = ⟪यज्⟫ = "to honor with a sacrifice", "to sacrifice":
 ### 6.5.2. Verbs of the 1st present class (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū etc.")
 
 ::: grammar-box
-| Present Stem = Root in Hochstufe (selten Dehnstufe) + a- ||||
+| Present Stem = Root in High Grade (rarely Strengthened Grade) + a- ||||
 | Root (dhātu m.):br⟪धातु⟫ | Strong grade | Strong grade before a- | Present Stem |
 | :--- | :--- | :--- | :--- |
 | **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
 | **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
 | **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- |
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
-| Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten, unterbleibt die Formation der Hochstufe ||||
+| If the vowel is in a long closed syllable, i.e., short vowel before two or more consonants, the formation of the High Grade is omitted ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
 #### 6.5.2.1. Word sandhi of e and o

@@ -19,11 +19,11 @@ A) Переведите следующие предложения
 ⟪३⟫. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ ⟪।⟫
 Святой приходит на небо.
 
-⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
-Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+[0] ⟪४⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ ⟪।⟫
+[1] Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
 
 ⟪५⟫. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ⟪।⟫
-Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+[4] Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
 Так браман приносит богу жертву.

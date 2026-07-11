@@ -8,7 +8,7 @@ status: stable
 
 ## 34.1. The Perfect (⟪लिट्⟫)
 
-In Classical Sanskrit, the perfect stem has only indicative and participle forms.
+Dalam bahasa Sanskerta Klasik, bentuk sempurna hanya memiliki bentuk indikatif dan partisipel.
 
 ::: grammar-box
 **There are two types of perfect formation:**
@@ -18,28 +18,28 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 ::: grammar-box
 **The periphrastic perfect (⟪अनुप्रयोगलिट्⟫) is used:**
 1. **in derived conjugations (causative, desiderative, frequentative, denominative)**
-2. **with roots that begin with a long vowel (except ā-) or with a vowel (except a-) before two consonants**
-3. **with some other roots**
+2. **dengan akar yang dimulai dengan vokal panjang (kecuali ā-) atau dengan vokal (kecuali a-) sebelum dua konsonan**
+3. **dengan beberapa akar lainnya**
 :::
 ## 34.2. The reduplicated perfect (⟪द्वित्वलिट्⟫)
 
-### 34.2.1. Stem Gradation
+### 34.2.1. Gradasi Batang
 
 ::: grammar-box
 **Formation:**
 
-**strong stem:** Singular Parasmaipada
-*   **reduplicated guṇa or vṛddhi stem + perfect ending**
+**batang kuat:** Tunggal Parasmaipada
+*   **batang guṇa atau vṛddhi yang diulang + akhiran sempurna**
 
-**weak stem:** all other forms
-*   **reduplicated zero-grade stem + perfect ending**
+**batang lemah:** semua bentuk lainnya
+*   **batang tingkat-nol yang diulang + akhiran sempurna**
 :::
 ::: grammar-box
-**Generally (also outside the perfect), stems of the following forms do not undergo stem gradation:**
+**Umumnya (juga di luar bentuk sempurna), batang dengan bentuk berikut tidak mengalami gradasi batang:**
 *   **(Consonant)-Consonant-Long Vowel-Consonant**
 *   **(Consonant)-Consonant-Vowel-Consonant-Consonant**
 
-**In the perfect, additionally, stems of the following forms do not undergo stem gradation:**
+**Dalam bentuk sempurna, selain itu, batang dengan bentuk berikut tidak mengalami gradasi batang:**
 *   **a-Consonant**
 *   **ā-Consonant**
 :::
@@ -56,24 +56,24 @@ In Classical Sanskrit, the perfect stem has only indicative and participle forms
 ### 34.2.3. Connecting Vowel -i-
 
 ::: grammar-box
-**The connecting vowel -i- always precedes the 3rd person plural ending -re, and precedes other consonant-initial endings for the majority of roots.**
+**Vokal penghubung -i- selalu mendahului akhiran orang ketiga jamak -re, dan mendahului akhiran berawalan konsonan lainnya untuk sebagian besar akar.**
 :::
-### 34.2.4. Reduplication of roots beginning with a consonant
+### 34.2.4. Reduplikasi akar yang dimulai dengan konsonan
 
 ::: grammar-box
 **For the reduplication of initial consonants, the rules given in [Lesson 33](lektion33.md) apply.**
 
-**The reduplication vowel for roots beginning with a consonant is the short root vowel.**
+**Vokal reduplikasi untuk akar yang dimulai dengan konsonan adalah vokal akar pendek.**
 
 **Diphthongs before a consonant are reduced to the corresponding short low-grade vowel.**
 
 **ṛ, ṝ, ḷ, and final diphthongs are reduplicated with -a-.**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
 
-| Root | 3. sg. Perf. P. |
+| Akar | 3. tg. Perf. P. |
 | :--- | :--- |
 | ⟪भिद्⟫ | ***⟪बि⟫***⟪भेद⟫ |
 | ⟪मुच्⟫ | ***⟪मु⟫***⟪मोच⟫ |
@@ -81,53 +81,53 @@ Examples:
 
 :::
 ::: grammar-box
-**Some roots beginning with y- or v- reduplicate with i- or u-, which in the weak forms "merges" with the root vowel.**
+**Beberapa akar yang dimulai dengan y- atau v- mengalami reduplikasi dengan i- atau u-, yang dalam bentuk lemah "bergabung" dengan vokal akar.**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
 
-| Root | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Akar | 3. tg. Perf. P. | 3. jm. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 :::
-### 34.2.5. Reduplication of Vowel-Initial Roots
+### 34.2.5. Reduplikasi Akar Berawalan Vokal
 
 ::: grammar-box
 **1. Initial a-, ā- is reduplicated with a-, resulting in ā-.**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
 
-| Root | 3. sg. Perf. P. |
+| Akar | 3. tg. Perf. P. |
 | :--- | :--- |
 | ⟪अस्⟫ 2 "to be" and ⟪अस्⟫ 4 "to throw" | ⟪आस⟫:bra + as-a |
 
 :::
 ::: grammar-box
-**2. Roots with initial i- have iy- as the reduplicating syllable in the strong stem, and i- in the weak stem, which merges with the root vowel to form ī-. The same applies to initial u-.**
+**2. Akar dengan i- awal memiliki iy- sebagai suku kata reduplikasi dalam batang kuat, dan i- dalam batang lemah, yang bergabung dengan vokal akar membentuk ī-. Hal yang sama berlaku untuk u- awal.**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
 
-| Root | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Akar | 3. tg. Perf. P. | 3. jm. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
 | ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
 
 :::
 ::: grammar-box
-**3. Roots that begin with a- followed by two consonants, or with ṛ-, have ān- as the reduplicating syllable.**
+**3. Akar yang dimulai dengan a- diikuti oleh dua konsonan, atau dengan ṛ-, memiliki ān- sebagai suku kata reduplikasi.**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
 
-| Root | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Akar | 3. tg. Perf. P. | 3. jm. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
@@ -135,25 +135,25 @@ Examples:
 :::
 ## 34.3. Types of the reduplicated perfect
 
-Classification principle: Peculiarities of stem gradation:
-*   Perfect without stem gradation: Type I
-*   Perfect with stem gradation: Types II - V
+Prinsip klasifikasi: Kekhususan gradasi batang:
+*   Sempurna tanpa gradasi batang: Tipe I
+*   Sempurna dengan gradasi batang: Tipe II - V
 *   irregular perfect formations
 
-## 34.4. Perfect Type I: Perfect without stem gradation
+## 34.4. Sempurna Tipe I: Sempurna tanpa gradasi batang
 
 ::: grammar-box
-**Perfect Type I (without stem gradation) have roots of the types:**
+**Sempurna Tipe I (tanpa gradasi batang) memiliki akar dengan tipe:**
 *   **(Consonant)-Consonant-LongVowel-Consonant**
 *   **(Consonant)-Consonant-Vowel-Consonant-Consonant**
 *   **a-Consonant**
 *   **ā-Consonant**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
 
-| Root | 3. sg. Perf. | 3. pl. Perf. |
+| Akar | 3. tg. Perf. | 3. jm. Perf. |
 | :--- | :--- | :--- |
 | ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ |
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
@@ -162,21 +162,21 @@ Examples:
 | ⟪अश्⟫ | ⟪आनशे⟫:brirregular reduplication! | ⟪आनशिरे⟫ |
 
 :::
-## 34.5. Perfect Type II: Strong stem with Vṛddhi grade, weak stem with Guṇa grade
+## 34.5. Sempurna Tipe II: Batang kuat dengan tingkat Vṛddhi, batang lemah dengan tingkat Guṇa
 
 ::: grammar-box
-**Formed from roots of the form:**
+**Dibentuk dari akar dengan bentuk:**
 *   **(Consonant)-(Consonant)-i/u/ṛ/ḷ-Consonant**
 
 **Formation:**
-*   **strong stem: Vṛddhi grade**
-*   **weak stem: Guṇa grade**
+*   **batang kuat: tingkat Vṛddhi**
+*   **batang lemah: tingkat Guṇa**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
 
-| Root | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪भिद्⟫ | ⟪बिभेद⟫ | ⟪बिभिदुर्⟫ | ⟪बिभिदे⟫ | ⟪बिभिदिरे⟫ |
 | ⟪इष्⟫ | ⟪इयेष⟫ | ⟪ईषुर्⟫ | | |

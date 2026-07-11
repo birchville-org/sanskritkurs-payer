@@ -20,16 +20,16 @@ status: stable
 
 名词（名词和形容词）所表示的事物之间的关系，除了通过属格结构外，还可以通过复合限定词（⟪तत्पुरुष⟫）来表达。同样地，形容词的定语修饰或名词的同位语修饰，也可以通过一种特定类型的复合限定词，即所谓的“业际限定词”（Karmadhāraya，阳性）= ⟪कर्मधारय⟫来表达。
 
-⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫ “sein Knecht”, d.h. als Bezeichnung dieser Art von Komposita dient ein Beispiel solcher Komposita.
+⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫ “他的仆人”，即作为此类复合词名称的示例是此类复合词的一个例子。
 ::: grammar-box
 
 在限定性复合词（Tatpuruṣa）中，一个名词（名词或形容词）通过另一个名词或副词进一步限定。被限定的词通常构成复合词的尾部。
 
 前成分（限定成分）与后成分（被限定成分）的关系可以是：
 
-*   attributiv bzw. appositionell: Bei Auflösung des Kompositums bildet das Vorderglied zum Hinterglied eine nähere Bestimmung im selben Kasus (d.h. außerhalb eines Satzzusammenhangs im Nominativ (⟪प्रथमा⟫), im Satz im syntaktisch geforderten Kasus)
-*   kasuell: das Vorderglied steht bei der Auflösung der Kompositums in einem anderen Kasus als das Hinterglied (d.h. nicht im Nominativ - ⟪प्रथमा⟫)
-*   adverbial: das Vorderglied ist ein nicht-deklinierbares Wort
+*   定语或同位语：复合词解析后，前成分对后成分构成同一格（即脱离句子语境时为 nominative 主格 (⟪प्रथमा⟫)，在句中则为句法所要求的格）的限定
+*   与格：复合词解析后，前成分处于不同于后成分的格（即非 nominative 主格 - ⟪प्रथमा⟫）
+*   副词性：前成分为不可变格词
 
 复合词的两个组成部分之间的格关系，独立于该复合词所处的格：因为复合词只是一个可变格的词：
 
@@ -72,16 +72,16 @@ Abb.: ⟪लक्ष्मी⟫
 
 Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
-*   drückt ein Karmadhāraya einen VERGLEICH aus, dann steht das, womit verglichen wird, im Hinterglied des Kompositums:
+*   当复合词为依主释并表达比较时，被比较的对象位于复合词的第二个成分中：
 
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = “如狮之男子”  
     ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = “如虎之男子”
 
-*   drückt ein Karmadhāraya jedoch eine Apposition (nähere Bestimmung des Hinterglieds durch ein Substantiv) aus, so steht das näher Bestimmende im Vorderglied, wie es auch die allgemeine Regel für die Reihenfolge der Glieder in einem Tatpuruṣa fordert:
+*   如果复合词（Karmadhāraya）表达的是同位语关系（即通过名词对后项进行更具体的限定），那么更具体的限定成分位于前项，这也符合 Tatpuruṣa 复合词中各组成部分顺序的一般规则：
 
 ⟪नरसिंहः⟫ 亦可解析为：⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = “一头（实际上）是人的狮子。”
 
-Solche appositionelle Karmadhāraya werden in den einheimischen Kommentaren wie im obigen Beispiel mittels ⟪एव⟫ aufgelöst.
+此类同位语复合限定名（Karmadhāraya）在本地注释中，如上述示例所示，通过⟪एव⟫进行解析。
 
 :::
 ::: media
@@ -127,8 +127,8 @@ Tatpuruṣa复合词可以出现在名词（名词和形容词）的组合中，
 
 前词干代表工具格（⟪तृतीया⟫）：例如，常见的是带有 kṛt 后缀（例如，PPP）的名词派生的施事者（⟪कर्तृ⟫）：
 
-⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = „von einem Gott / von Göttern gemacht“  
-Wäre auch auflösbar: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = „Tat / Tun eines Gottes / von Göttern ; Gottestat, Göttertat“
+⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = “由一位神 / 众神创造”  
+亦可解析为：⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = “神的行为 / 众神的行为；神迹，神作”
 
 ⟪बुद्धरक्षिता⟫ = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = “被佛陀庇护者”（专有名词）
 
@@ -140,10 +140,10 @@ Wäre auch auflösbar: ⟪देवस्य⟫ / ⟪देवानां⟫ �
 :::
 ::: media
 ![](/images/lekt1502.jpg)
-Abb.: ⟪समासविच्छेदः⟫
-(Bildquelle: [Details](/zh-CN/licenses#lekt1502))
+图：⟪समासविच्छेदः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt1502)）
 :::
-usw., bis man zu den einzelnen Wortstämmen kommt.
+等等，直到到达各个词干为止。
 
 例如
 
@@ -194,7 +194,7 @@ usw., bis man zu den einzelnen Wortstämmen kommt.
 ## 15.6. 复合词中前成分的形式（⟪समास⟩ m.）
 ::: grammar-box
 
-In allen Arten von Komposita ist das Vorderglied in der Regel der unveränderte Wortstamm. Zweistämmige Nomina stehen im schwachen Stamm. Feminine Adjektive, die ein folgendes Glied im Kompositum näher bestimmen, stehen im Allgemeinen in maskulinen Stamm:
+在所有类型的复合词中，前成员通常是不变的词干。双名词在弱词干中形式出现。修饰复合词后成员的阴性形容词，通常以阳性词干呈现：
 
 例如
 
@@ -301,7 +301,7 @@ davon:
 :::
 ⟪इव⟫ (后置)：仿佛，如同 (在比喻中：⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = “如虎之男子”，“虎一般的男子”)
 
-⟪एव⟫（后置）：强调前文，在德语中通常对应强调，类似于表情符号 `\<!\>`，例如 ⟪सत्यमेव⟫ ⟪जयति⟫ “唯有真理得胜”，“正是真理得胜”，“真理得胜”
+⟪एव⟫（后置）：强调前文，在德语中通常对应强调，类似于表情符号 `\&lt;!\&gt;`，例如 ⟪सत्यमेव⟫ ⟪जयति⟫ “唯有真理得胜”，“正是真理得胜”，“真理得胜”
 
 ⟪अरि⟫ m.: 敌人（据蒂姆《〈梨俱吠陀〉中的异乡人》：原义 = 异乡人）
 
@@ -520,7 +520,7 @@ davon:
 
 A) 翻译本课开头的谚语
 
-B) Lösen Sie folgende Tatpuruṣa auf:
+B) 解析以下复合限定词（Tatpuruṣa）：
 
 ⟪१⟫。⟪बलकृतः⟫
 

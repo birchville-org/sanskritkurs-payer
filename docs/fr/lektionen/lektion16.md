@@ -19,9 +19,9 @@ Consonnes occlusives gutturales, rétroflexes, dentales et labiales finales (c�
 
 |   |   |
 | :--- | :--- |
-| **en pause et devant des sons sourds** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
-| **devant des sons sonores non nasaux** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-| **devant des nasales** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
+| **en pause et devant des sons sourds** | **Remplacement par le son correspondant non aspiré sourd :** :br **par ex.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **devant des sons sonores non nasaux** | **Remplacement par le son correspondant non aspiré sonore :** :br **par ex.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **devant des nasales** | **Remplacement par le nasal correspondant :** :br **par ex.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
 Exception à la règle ci-dessus :
@@ -32,10 +32,10 @@ Occlusive dentale finale (pas de nasale) :
 
 |   |   |
 | :--- | :--- |
-| **devant une palatale** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
-| **+ ś** | **» -cś- oder -cch-** |
-| **devant une rétroflexe** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
+| **devant une palatale** | **Remplacement par la consonne palatale non aspirée correspondante :** :br **c.-à-d.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
+| **+ ś** | **» -cś- ou -cch-** |
+| **devant une rétroflexe** | **Remplacement par la consonne rétroflexe non aspirée correspondante :** :br **c.-à-d.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **devant l-** | **Remplacement par -l :** :br **c.-à-d.** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
 :::
 Exemples :

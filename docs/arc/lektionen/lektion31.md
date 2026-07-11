@@ -6,19 +6,19 @@ status: stable
 
 # Lektion 31
 
-## 31.1. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.")
+## 31.1. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ usw.")
 
 ::: grammar-box
-**Education:**
+**Bildung:**
 
-**Before the final consonants of the low-grade root, a so-called nasal infix (-na- or -n-) is inserted:**
+**Vor die Endkonsonanten der Wurzel in der Schwundstufe wird ein sogenannter Nasalinfix (-na- oder -n-) eingefügt:**
 
-*   **im starken Stamm: -na-**
-*   **im schwachen Stamm: -n-**
+* **im starken Stamm: -na-**
+* **im schwachen Stamm: -n-**
 
-**For the connection of the root's final consonants with endings beginning with a consonant, the same rules apply as for the 2nd present class.**
+**Für die Verbindung der Wurzelendkonsonanten mit konsonantisch anlautenden Endungen gelten dieselben Regeln wie bei der 2. Präsensklasse.**
 :::
-Examples:
+Beispiele:
 
 ⟪युज्⟫ 7U "to bind, to yoke"
 
@@ -47,9 +47,9 @@ Examples:
 
 :::
 ::: grammar-box
-**For some roots, the -n- of the weak present stem has also invaded non-present tenses, so that these roots are posited with an infixed nasal.**
+**Bei einigen Wurzeln ist das -n- des schwachen Präsensstammes auch in Nicht-Präsenstempora eingedrungen, so dass diese Wurzeln mit infigiertem Nasal angesetzt werden.**
 :::
-Example:
+Beispiel:
 
 **⟪भञ्ज्⟫** 7P "break"
 
@@ -58,7 +58,7 @@ Example:
     *   3.sg.P. **⟪भनक्ति⟫** (bha-na + j + ti)
     *   3.pl.P. **⟪भञ्जन्ति⟫** (bha + n + j-anti)
 *   Future: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
-*   Passive: **⟪भज्यते⟫** (either from original root **⟪भज्⟫** or from *bhñj-ya-te)
+* **Passiv:** ⟪भज्यते⟫ (entweder von ursprünglicher Wurzel **⟪भज्⟫** oder von *bhñj-ya-te)
 *   PPP: **⟪भग्न⟫** (possibly from *bhñj + na)
 :::
 ## 31.2. Word List
@@ -202,7 +202,7 @@ Rāhula, der Sohn Buddhas, Laos.
 :::
 ⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
-B) Form all 3rd person singular and plural, P and Ā, of the Indicative and Optative Present for the following 7th class roots:
+B) Bilde alle 3. Personen Singular und Plural, P und Ā, des Indikativs und Optativs Präsens für die folgenden Wurzeln der 7. Klasse:
 
 ⟪१⟫. ⟪छिद्⟫
 
