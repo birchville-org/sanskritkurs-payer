@@ -109,7 +109,7 @@ Fig.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन�
 Determinare le seguenti forme di parola:
 
 ::: grammar-box
-| Forma di parola | Determinazione |
+| Forma della parola | Determinazione |
 | :--- | :--- |
 | ⟪१⟫. **⟪वदिता⟫** | ⟪वदितृ⟫ (m.) Nom. sg. |
 | ⟪२⟫. **⟪उदिता⟫** | ⟪वद्⟫ PPP Nom. sg. f. |

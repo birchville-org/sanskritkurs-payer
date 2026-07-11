@@ -20,7 +20,7 @@ lesson_id: 53
 **⟪हस्तौ⟫** "the hands (of an individual)"
 **⟪पादौ⟫** "the feet (of a human, monkey, or other biped)"
 :::
-**Sometimes the Dual denotes one male and one female example of the same class (species, genus):**
+**Kadang-kadang Dwiwacana menunjukkan satu contoh jantan dan satu betina dari kelas (spesies, genus) yang sama:**
 
 ::: indent
 **⟪पितरौ⟫** "father and mother = parents"
@@ -50,11 +50,11 @@ Fig.: ⟪हस्तौ⟫
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
 :::
 ::: grammar-box
-**For nouns with stem gradation, the Nom.Acc.Voc. Dual m.f. has the strong stem**
+**Untuk nomina dengan gradasi tema, Nom.Akk.Vok. Dwiwacana m.f. memiliki tema kuat**
 :::
-## 53.3. The Dual of Consonant-Stems
+## 53.3. Dwiwacana dari Tema Berakhiran Konsonan
 
-### 53.3.1. Stämme ohne Stammabstufung
+### 53.3.1. Tema tanpa Gradasi Tema
 
 ⟪सत्यवाच्⟫ 3 "die Wahrheit sprechend"
 
@@ -101,7 +101,7 @@ Fig.: ⟪हस्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
 :::
-### 53.3.2. Stems with Stem Gradation
+### 53.3.2. Tema dengan Gradasi Tema
 
 **Present Participle Parasmaipada**
 
@@ -128,7 +128,7 @@ Fig.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ ||
 :::
-**Stems in -mant/-vant**
+**Tema dalam -mant/-vant**
 
 ⟪पशुमन्त्⟫ 3 "possessing cattle"
 
@@ -193,9 +193,9 @@ Fig.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
-## 53.4. The Dual of Stems Ending in Vowels
+## 53.4. Dwiwacana dari Tema Berakhiran Vokal
 
-**Stems in -a**
+**Tema dalam -a**
 
 ⟪देव⟫ m. "god"  
 ⟪फल⟫ n. "fruit"
@@ -212,7 +212,7 @@ Fig.: ⟪फले⟫
 (Image source: [Details](/en/licenses#lekt5306))
 ::::
 :::
-**Stems in -i**
+**Tema dalam -i**
 
 ⟪अग्नि⟫ m. "fire"  
 ⟪वारि⟫ n. "water"  
@@ -225,7 +225,7 @@ Fig.: ⟪फले⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
-**Stems in -u**
+**Tema dalam -u**
 
 ⟪शत्रु⟫ m.  
 ⟪धिनु⟫ f.  
@@ -243,7 +243,7 @@ Fig.: ⟪धेनू⟫
 (Image source: [Details](/en/licenses#lekt5307))
 ::::
 :::
-**Stems in -ā**
+**Tema dalam -ā**
 
 ⟪कन्या⟫ f. "girl"
 
@@ -254,7 +254,7 @@ Fig.: ⟪धेनू⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ***⟪कन्ययोस्⟫*** |
 :::
-**Polysyllabic Stems in -ī**
+**Tema Polisukuan dalam -ī**
 
 ⟪देवी⟫ f. "goddess"
 
@@ -265,7 +265,7 @@ Fig.: ⟪धेनू⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪देव्योस्⟫ |
 :::
-**Stems in -ṛ**
+**Tema dalam -ṛ**
 
 ⟪दातृ⟫ 3 "giver"
 
@@ -287,7 +287,7 @@ Fig.: ⟪धेनू⟫
 :::
 ## 53.5. Dualdvandva
 
-Examples:
+Contoh:
 
 ::: indent
 **⟪अर्थधर्मौ⟫** "Benefit (⟪अर्थ⟫) and Dharma"
@@ -369,16 +369,16 @@ The following pronominal adjectives are declined like ⟪सर्व⟫. In the
 *   Comparative: **-īyas**
 *   Superlative: **-iṣṭha**
 
-**While the ⟪तद्धित⟫ suffixes -⟪तर⟫ and -⟪तम⟫ attach to the masculine stem of the adjective, the suffixes -⟪ईयस्⟫ and -⟪इष्ठ⟫ are attached to the root from which the adjective is derived (if such a root exists!). The root vowel is in the guṇa grade.**
+**Sementara sufiks ⟪तद्धित⟫ -⟪तर⟫ dan -⟪तम⟫ melekat pada tema maskulin dari adjektiva, sufiks -⟪ईयस्⟫ dan -⟪इष्ठ⟫ melekat pada akar dari mana adjektiva tersebut diturunkan (jika akar seperti itu ada!). Vokal akar berada dalam tingkat guṇa.**
 
-**Superlatives in -iṣṭha (feminine: iṣṭhā) are declined like a- or ā-stems.**
+**Superlatif dalam -iṣṭha (feminin: iṣṭhā) dideklinasikan seperti tema -a atau -ā.**
 
 **Declension of -īyas see below.**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
-| Root | Adjective | Comparative | Superlative |
+| Akar | Adjektiva | Komparatif | Superlatif |
 | --- | --- | --- | --- |
 | ⟪क्षिप्⟫ 6P "to throw" | ⟪क्षिप्र⟫ 3 "fast" | ***⟪क्षेपीयस्⟫*** 3 "faster" :br ⟪क्षिप्रतर⟫ 3 | ***⟪क्षेपिष्ठ⟫*** 3 "fastest" :br ⟪क्षिप्रतम⟫ 3 |
 | ⟪स्था⟫ 1P "to stand" | ⟪स्थिर⟫ 3 "constant, firm" | ***⟪स्थेयस्⟫*** 3 "firmer" :br ⟪स्थिरतर⟫ 3 | ***⟪स्थेष्ठ⟫*** 3 "firmest" :br ⟪स्थिरतम⟫ 3 |
@@ -386,9 +386,9 @@ Examples:
 **Special rules for the attachment of these suffixes:**
 
 ::: grammar-box
-**Rule 1:** **The final vowel of a multisyllabic masculine stem, or the final vowel and the preceding vowel, are dropped.**
+**Aturan 1:** **Vokal akhir dari tema maskulin multisukuan, atau vokal akhir dan vokal sebelumnya, dihilangkan.**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
 | Adjective | Comparative | Superlative |
@@ -399,7 +399,7 @@ Examples:
 ::: grammar-box
 **Rule 2:** **Possessive suffixes (-mant, vant, -vin, -in, etc.) are dropped. If the remaining part consists of only one syllable, it remains unchanged, except for phonetic changes caused by the connection with the possessive suffix, which are reversed. However, if the remainder consists of more than one syllable, Rule 1 applies.**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
 | Adjective | Comparative | Superlative |
@@ -411,7 +411,7 @@ Examples:
 ::: grammar-box
 **Rule 3:** **For -ṛ-, preceded by an initial vowel and followed by only a single consonant, -ra- is substituted.**
 :::
-Example:
+Contoh:
 
 ::: grammar-box
 | Adjective | Comparative | Superlative |
@@ -444,7 +444,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 (Image source: [Details](/en/licenses#lekt5309))
 ::::
 :::
-**Some inflectional forms of this type have no root-related base form at all; they are "defective." Therefore, the following series are particularly important to memorize:**
+**Beberapa bentuk infleksi dari tipe ini tidak memiliki bentuk dasar terkait akar sama sekali; mereka "cacat." Oleh karena itu, rangkaian berikut sangat penting untuk dihafal:**
 
 ::: grammar-box
 | (Adjective) | Comparative | Superlative |
@@ -490,7 +490,7 @@ See also:
 
 The determination of the meter is important for the following reasons:
 
-1.  **Aesthetically:** the verse measure contributes, among other things, to the beauty of an utterance. Furthermore, certain verse measures may serve to express specific moods, or they are assigned to specific social classes (⟪वर्ण⟫). The various verse measures are recited differently from one another. :br A good impression of the aesthetic effect can be given, for example, by the recitation of the ⟪शिवताण्डवस्तोत्र⟫ (praise of Śiva's dance): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **Secara estetis:** ukuran syair berkontribusi, antara lain, pada keindahan suatu ucapan. Selanjutnya, ukuran syair tertentu dapat berfungsi untuk mengekspresikan suasana hati tertentu, atau mereka ditugaskan untuk kelas sosial tertentu (⟪वर्ण⟫). Berbagai ukuran syair diresitasikan secara berbeda satu sama lain. :br Kesan yang baik tentang efek estetis dapat diberikan, misalnya, oleh resitasi ⟪शिवताण्डवस्तोत्र⟫ (pujian terhadap tarian Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Text-critically:** errors in the verse measure can be an indication that the text has not been transmitted correctly at a certain point. The verse measure helps to make textual emendations.
 3.  **Chronologically:** certain verse measures underwent specific changes over the course of history. This can assist in the approximate dating of a text. See **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Both printed in: :br **Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
@@ -555,7 +555,7 @@ In metrical analysis this means:
 *   **×** = ⟪लघु⟫ or ⟪गुरु⟫
 *   **/** = caesura (word division)
 :::
-Example: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
+Contoh: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 
 ::: indent
 ⟪धर्मक्षेत्रे⟫ ⟪कुरुक्षेत्रे⟫ ⟪समवेता⟫ ⟪युयुत्सवः⟫ ⟪।⟫

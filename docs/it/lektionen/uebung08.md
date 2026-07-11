@@ -187,14 +187,14 @@ La ragazza scrive o disegna.
 13\. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
 La vergine entra nella casa.
 
-14\. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
-Gott schafft den Elefanten bzw. die Schlange bzw. den Nāga.
+[ L 0 ] 14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
+[ L 1 ] Dio crea l'elefante o il serpente o il Nāga.
 
 15\. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
 Il ragazzo guida l'elefante.
 
-16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Nome proprio Vimalā)
-Vimalā ist traurig.
+[ L 0 ] 16\. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Nome proprio Vimalā)
+[ L 1 ] Vimalā è triste.
 
 17\. ⟪शुकः⟫ ⟪पतति⟫ |
 Il pappagallo vola.

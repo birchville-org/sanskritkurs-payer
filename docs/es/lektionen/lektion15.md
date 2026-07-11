@@ -302,7 +302,7 @@ Fig.: ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (pospuesto): como, como si (en comparaciones: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un hombre como un tigre", "un hombre semejante a un tigre"
 
-⟪एव⟫ (pospuesto): enfatiza lo anterior, en alemán corresponde a menudo al énfasis, una especie de emoticono `\<!\>`, por ejemplo, ⟪सत्यमेव⟫ ⟪जयति⟫ "la verdad prevalece", "precisamente la verdad prevalece", "la verdad prevalece"
+⟪एव⟫ (pospuesto): enfatiza lo anterior, en alemán corresponde a menudo al énfasis, una especie de emoticono `\&lt;!\&gt;`, por ejemplo, ⟪सत्यमेव⟫ ⟪जयति⟫ "la verdad prevalece", "precisamente la verdad prevalece", "la verdad prevalece"
 
 ⟪अरि⟫ m.: enemigo (según Thieme, Der Fremdling im Ṛgveda: originalmente = extranjero)
 

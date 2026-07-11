@@ -19,7 +19,7 @@ status: stable
 
 **1. Wenn der Nutzen der veranlassten Handlung dem Veranlasser zugutekommt:**
 :::
-Beispiel:
+示例：
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = “罗摩为自己（出于自身利益）制作了一张垫子”
 
@@ -40,9 +40,9 @@ Beispiel:
 ::: indent
 ⟪उद्⟫° ：向上、高处、升起、向外、出、出-
 
-⟪परि⟫° : herum, um (Ort, Zeit), umher
+⟪परि⟫° ：围绕，环绕（地点、时间），四处
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (um jemanden herum werden = einkreisen =) bemeistern, besiegen ; missachten, verachten
+⟪भू⟫ + ⟪परि⟫ 第一人称单数 परिभवति ：（围绕某人 = 包围 =）征服，战胜；忽视，蔑视
 
 ⟪अवज्ञान⟫ n.: 轻视
 
@@ -81,15 +81,15 @@ Beispiel:
 
 davon:
 ::: indent
-⟪मात्स्य⟫ 3: zum Fisch (zu Fischen) gehörig
+⟪मात्स्य⟫ 3: 属于（鱼类）的
 :::: media
 ![](/images/lekt2901.webp)
-Abb.: ⟪मत्स्यः⟫
+图：⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
-(Bildquelle: [Details](/zh-CN/licenses#lekt2901))
+（图片来源：[详情](/zh-CN/licenses#lekt2901)）
 ::::
 :::
-⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): sanft, mild, weich ; langsam, schwach
+⟪मृदु⟫  3（阴性：⟪मृद्वी⟫）：温和的，柔和的；缓慢的，微弱的
 
 ⟪यथा⟫ 副词：如何，仿佛
 

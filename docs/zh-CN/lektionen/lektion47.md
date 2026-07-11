@@ -251,7 +251,7 @@ B.) 翻译成梵文（使用祈使语气）：
 
 33\. 我们愿由你引导。
 
-34\. Es möge zum Glück gereichen (geschehen)! (Segenswunsch)
+34\. 愿此吉祥圆满！（祝词）
 
 ::: deleteme-box
 

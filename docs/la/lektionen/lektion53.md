@@ -55,7 +55,7 @@ Tab.: ⟪हस्तौ⟫
 :::
 ## 53.3. Dualis radicum consonantibus terminatarum
 
-### 53.3.1. Stämme ohne Stammabstufung
+### 53.3.1. Themata sine gradatione thematica
 
 ⟪सत्यवाच्⟫ 3 "veridicam loquens"
 
@@ -102,7 +102,7 @@ Tab.: ⟪हस्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
 :::
-### 53.3.2. Stämme mit Stammabstufung
+### 53.3.2. Themata cum gradatione thematica
 
 **Participium Praesens Parasmaipada**
 
@@ -194,9 +194,9 @@ Fig.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
-## 53.4. Der Dual vokalisch auslautender Stämme
+## 53.4. Dualis thematum vocalibus terminatorum
 
-**Stemmas in -a**
+**Themata in -a**
 
 ⟪देव⟫ m. "Deus"  
 ⟪फल⟫ n. "Fructus"

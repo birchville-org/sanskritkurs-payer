@@ -164,7 +164,7 @@ Il poeta riferisce l'azione della dea.
 I due volte nati desiderano ottenere bestiame.
 
 ⟪१०⟫. ⟪रामः⟫ ⟪पुण्यवतो⟫ ⟪गुरोर्मन्त्रस्य⟫ ⟪स्मरति⟫ ⟪।⟫
-Rāma erinnert sich an das Mantra des tugendreichen Meisters.
+Rāma ricorda il mantra del maestro virtuoso.
 
 ⟪११⟫. ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 Di chi (f.) figlio è questo ragazzo?

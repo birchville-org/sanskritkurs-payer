@@ -232,7 +232,7 @@ outline: 2
 | Sanscrit | IAST | Genus | Rumantsch Grischun | Lecziun |
 |---|---|---|---|---|
 | ⟪गज⟫ | [gaja](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gaja&filter=roman&accent=no&transLit=roman) | m | Elefant | [8](/lektionen/lektion08#_8-5-wortliste) |
-| ⟪गम्⟫ ⟪गच्छति⟫ | [gam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gam&filter=roman&accent=no&transLit=roman) | 1 P (gacchati) | ir (Gehört nach der einheimischen Verbklassifikation zur Präsensklasse 1, ist aber in Wirklichkeit eine Bildung mit e | [7](/lektionen/lektion07#_7-6-wortliste) |
+| ⟪गम्⟫ ⟪गच्छति⟫ | [gam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gam&filter=roman&accent=no&transLit=roman) | 1 P (gacchati) | ir (Appartegna tenor la classificaziun indigèna da verbs a la class da present 1, ma è en realitad ina furmaziun cun e | [7](/lektionen/lektion07#_7-6-wortliste) |
 | ⟪गुण⟫ | [guṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=guṇa&filter=roman&accent=no&transLit=roman) | m | Fil, corda; proprietad, buna proprietad | [13](/lektionen/lektion13#_13-9-wortliste) |
 | ⟪गुप्त⟫ | [gupta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gupta&filter=roman&accent=no&transLit=roman) | 3 | protegì, custodì | [29](/lektionen/lektion29#_29-2-wortliste) |
 | ⟪गुरु⟫ | [guru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=guru&filter=roman&accent=no&transLit=roman) | 3 | pesant, impurtent, venerabel | [2](/lektionen/lektion02#_2-5-wortliste) |

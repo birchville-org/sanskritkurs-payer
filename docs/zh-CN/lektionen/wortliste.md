@@ -434,7 +434,7 @@ c) 通过阶层对政治或神权统治权力的**占有**作为垄断（政治�
 ::: note-box
 在印度，人们认为真实的言语具有魔力，甚至整个宇宙秩序都由真实言语维持和创造。关于这一重要概念，请参阅基础著作：
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -3122,8 +3122,7 @@ PPP ⟪ईक्षित⟫
 
 ⟪अर्जुन⟫ 阳性名词：专有名词 Arjuna，⟪पण्डु⟫ 的五个儿子之一。《⟪महाभारत⟫》中的英雄（参见 Basham, Wonder 第409-414页）
 
-
-⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstehen von, Abstand nehmen von, sich fernhalten, verbleiben, dastehen
+⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ :  abstain from, keep away from, refrain from
 
 ::: indent
 PPP ⟪अवस्थित⟫ 3: dastehend, befindlich
@@ -3195,16 +3194,16 @@ Inf. ⟪शंसितुम्⟫
 :::
 ⟪भर्तृ⟫ m. (zu ⟪भृ⟫ "tragen, erhalten"): Erhalter, Ernährer, Gatte
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Gattin (⟪भार्या⟫ = Gerundiv zu ⟪भृ⟫ : zu Tragende, zu Erhaltende, Unterhaltsberechtigte)
+⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: 妻子（⟪भार्या⟫ = ⟪भृ⟫ 的动形词：应被承载者，应被供养者，享有赡养权之人）
 
 ⟪पितृ⟫ m.: Vater
 
-⟪पितृ⟫ m. Plural: die verstorbenen männlichen Vorfahren, d.h.
+⟪पितृ⟫ m. Plural: 已故的男性祖先，即
 
-1.  Vater, Grossvater, Urgrossvater
-2.  die Ahnväter der Menschheit
+1. 父亲、祖父、曾祖父
+2. 人类的祖先
 
-Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werden je drei männlichen  Vorfahren (väterlicherseits (und mütterlicherseits) Wasser und bei bestimmten Gelegenheiten Reisbällchen bzw. Mehlbällchen (⟪पिण्ड⟫ m. "Bällchen") dargebracht. So sollen die Vorfahren Nahrung bekommen. Der Vollzug dieser Zeremonie ist mit ein Grund, warum man als Mann einen Sohn zeugen soll. Diejenigen, die durch diese ⟪पिण्ड⟫-Gabe verbunden sind heissen ⟪सपिण्ड⟫ (denen ⟪पिण्ड⟫ gemeinsam ist). ⟪सपिण्ड⟫ umfasst sechs Generationen: drei Rückwärts (bis zum Urgrossvater) und drei vorwärts (bis zum Grossenkel).
+对二者施行祭祀，即所谓的⟪श्राद्ध⟩。每日向三位男性祖先（父系和母系）供奉水和在特定场合下供奉米饭球或面粉球（⟪पिण्ड⟩ m. “球”）。以此使祖先获得食物。举行这一仪式是男子应当生育儿子的原因之一。通过这种⟪पिण्ड⟩馈赠而相连的人被称为⟪सपिण्ड⟩（他们共享⟪पिण्ड⟩）。⟪सपिण्ड⟩涵盖六代：向后三代（直至曾祖父）和向前三代（直至玄孙）。
 
 ⟪तात⟫ m.: Papa
 
@@ -3220,13 +3219,13 @@ Beiden werden Riten vollzogen, sog. ⟪श्राद्ध⟫ n. Täglich werd
 
 ⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Schwester
 
-⟪देवृ⟫ m.: Bruder des Ehemanns (Schwager der Frau)
+⟪देवृ⟫ m.: 丈夫的兄弟（妻子的姐夫/妹夫）
 
-⟪यातृ⟫ m.: Gattin des Bruders des Ehemanns
+⟪यातृ⟫ m.: 丈夫兄弟的妻子
 
 ⟪ननान्दृ⟫ f.: Schwester des Mannes
 
-⟪श्वसुर⟫ f.: Schwiegervater (in alter Zeit: nur der Frau)
+⟪श्वसुर⟫ f.: 岳父（古时：仅指妻子的父亲）
 
 ⟪श्वस्रू⟫ f.: Schwiegermutter (Deklination folgt später)
 
@@ -3813,7 +3812,7 @@ PPP ⟪परिभूत⟫ 3：被击败，受辱，贬低
 
 ⟪व्याकरण⟫ n.: Grammatik (zu ⟪व्याकृ⟫)
 
-⟪तन्त्र⟫ n.: Saite ; Webstuhl, Webkette, Gewebe ; Grundlage, Norm, Regel ; Lehre, Lehrwerk ; Tantra ; Zauberformel ; Mittel, Trick, Arzneimittel ; Regierung, Autorität
+⟪तन्त्र⟫ n.：弦；织机，经线，织物；基础，准则，规则；教义，经典著作；密续；咒语；方法，技巧，药物；统治，权威
 
 
 ::: media
@@ -3854,7 +3853,7 @@ Sitar演奏者 = ⟪सितारवादकः⟫
 
 ⟪सज्ज्⟫ 第一人称单数 ⟨DEV
 
-⟪कुमार⟫ m.: Kind, Jüngling, Prinz; Beiname des ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್มಣ್ಯ
+⟪कुमार⟫ m.: 孩子，青年，王子；⟪कार्तिकेय⟧ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್മಣ्य 的别名
 
 ::: media
 ![](/images/lekt4805.webp)
@@ -3890,11 +3889,11 @@ Abb.: ⟪स्थविराः⟫
 
 ::: media
 ![](/images/lekt4808.webp)
-Abb.: ⟪सूक्ष्मम्⟫
-Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
-(Bildquelle: [Details](/licenses#lekt4808))
+图：⟪सूक्ष्मम्⟫
+Karanji 湖 = ಕಾರಂಜಿ ಕೆರೆ
+（图片来源：[详情](/licenses#lekt4808)）
 :::
-⟪प्रसङ्ग⟫ m.: Anhaftung, Neigung ; Gelegenheit
+⟪प्रसङ्ग⟫ m.：执着，倾向；机会
 
 ⟪विशेष⟫ m.: Unterschied, Besonderheit
 
@@ -3922,20 +3921,20 @@ Abb.: ⟪मम⟫ ⟪जाया⟫
 
 ⟪ह्रस्व⟫ 3: kurz
 
-⟪आयुस्⟫ n.: Lebenszeit (die volle Lebenszeit, die man leben kann, wenn nichts dazwischen kommt) ;
+⟪आयुस्⟫ n.：寿命（指若无意外可活到的完整生命时长）；
 
 ::: indent
 davon:
 
-⟪आयुर्वेद⟫ m.: das traditionelle medizinische System Indiens
+⟪आयुर्वेद⟫ m.: 印度的传统医学体系
 
 siehe:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer \&lt;1944 - \&gt;. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**《阇罗迦集》：**选自《阇罗迦集》/由阿洛伊斯·派尔（Alois Payer）翻译并注释 &lt;1944 - &gt;。 -- 0. 引言。 -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : werfen, schleudern
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ ：投掷，抛射
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫

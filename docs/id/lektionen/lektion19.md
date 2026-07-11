@@ -19,9 +19,9 @@ lesson_id: 19
 
 **The relative pronoun and the referent, which, in contrast to German, stands in the relative clause, are in the case that the relative clause syntactically requires. The demonstrative pronoun is in the case that the main clause syntactically requires.**
 
-Examples:
+Contoh-contoh:
 
-Note: In relative clauses of general validity, the optative is often used instead of the indicative. Many of our examples would therefore preferably be in the optative.
+Catatan: Dalam klausa relatif yang berlaku umum, optatif sering digunakan sebagai ganti indikatif. Banyak dari contoh-contoh kita oleh karena itu sebaiknya dalam optatif.
 
 **1. The agent (⟪कर्तृ⟫) of the sentence is specified further by a relative clause:**
 
@@ -71,7 +71,7 @@ Note: In relative clauses of general validity, the optative is often used instea
 | | **3. Instrumental**:br**⟪तृतीया⟫** | **yais**:br**⟪यैस्⟫** | **yais**:br**⟪यैस्⟫** | **yābhis**:br**⟪याभिस्⟫** |
 | | **6. Genitive**:br**⟪षष्ठी⟫** | **yeṣām**:br**⟪येषाम्⟫** | **yeṣām**:br**⟪येषाम्⟫** | **yāsām**:br**⟪यासाम्⟫** |
 
-**As the first member of compounds, the stem ⟪यद्⟫ appears (observing Sandhi).**
+**Sebagai anggota pertama dari kata majemuk, bentuk dasar ⟪यद्⟫ muncul (dengan memperhatikan Sandhi).**
 
 :::
 ## 19.3. Word List
@@ -93,7 +93,7 @@ Illustration for ⟪कामसूत्र⟫
 (Image source: [Details](/en/licenses#lekt1809))
 ::::
 :::
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stand, remain, persist, be located. (Traditionally counted among the 1st conjugation class, although it is a reduplicating thematic present class, like ⟪पा⟫ 1 ⟪पिबति⟫)
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** berdiri, tinggal, bertahan, berada. (Secara tradisional dihitung di antara kelas konjugasi ke-1, meskipun ini adalah kelas present tematik reduplikatif, seperti ⟪पा⟫ 1 ⟪पिबति⟫)
 
 **⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** step forward, place oneself in a respectful posture before someone
 

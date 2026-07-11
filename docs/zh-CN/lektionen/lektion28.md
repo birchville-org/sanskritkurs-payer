@@ -25,9 +25,9 @@ last_reconstructed: 2026-05-16
 
 **如果以使役动词为词根的动词（带前缀或不带前缀）是不及物动词（即不能带宾格宾语）或表示运动、知识、信息或进食：**
 
-**Kausativ-Agens (⟪कर्ता⟫) im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Akkusativ (⟪द्वितीया⟫) — (Bewegungsziel, Wissensobjekt etc. im Akkusativ = ⟪द्वितीया⟫) — Kausativ-Verb**
+**使役动词的施事者（⟪कर्ता⟫）在主格中（⟪प्रथमा⟫）——被致使行为的施事者以宾格出现（⟪द्वितीया⟫）——（运动目标、认知对象等以宾格出现 = ⟪द्वितीया⟫）——使役动词**
 :::
-Beispiele:
+示例：
 
 ⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = “一个恶人使罗摩困惑 = 使罗摩困惑 = 导致罗摩犯错”
 结果：⟪रामो⟫ ⟪मुह्यति⟫ = “罗摩感到困惑 / 被蒙蔽 / 犯错。”
@@ -93,23 +93,23 @@ ISKCON 班加罗尔寺庙。
 (⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = “他促使罗摩离开他的妻子”
 结果：⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = “罗摩离开了他的妻子”
 
-⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = “Viṣṇumitra veranlasst den Rāma, dass dieser den Govinda veranlasst zu gehen = Viṣṇumitra lässt Rāma den Govinda fortschicken”
-Ergebnis: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = “Rāma schickt den Govinda fort”
-Ergebnis dieses Ergebnisses: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = “Govinda geht”
+⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = “毗湿奴密多促使罗摩，使罗摩促使哥文达离开 = 毗湿奴密多派遣罗摩将哥文达送走”
+结果：⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = “罗摩将哥文达送走”
+该结果的结果：⟪गोविन्दो⟫ ⟪गच्छति⟫ = “哥文达离开”
 :::
 ::: grammar-box
-**Ausnahmen zu Schema 1:**
+**例外情况（针对模式 1）：**
 
 **按照模式2，还可以构造以下动词：**
 
-**Kausativ zu:**
-- **⟪नी⟫ "führen"**
-- **⟪वह्⟫ "fahren" (nur wenn der Agens der veranlassten Handlung kein Fahrer ist)**
-- **⟪स्मृ⟫ "vergegenwärtigen" (es gibt dazu Ausnahmen)**
-- **⟪अद्⟫ "essen"**
-- **⟪खाद्⟫ "kauen"**
+**使役动词对应：**
+- **⟪नी⟫ “引导”**
+- **⟪वह्⟫ “驾驶”（仅当被促使行为的施事者并非驾驶员时）**
+- **⟪स्मृ⟫ “使显现”（存在例外情况）**
+- **⟪अद्⟫ “吃”**
+- **⟪खाद्⟫ “咀嚼”**
 :::
-Beispiele:
+示例：
 
 ⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = “罗摩让仆人承担或运送重物”
 结果：⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = “仆人承担或运送重物”
@@ -139,14 +139,14 @@ Beispiele:
 ⟪रामो⟫ ⟪बालेन⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫
 结果：⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = “男孩观看画像”
 
-Wenn das Kausativum in einer Passivkonstruktion verwendet wird, so findet fast immer folgendes Schema Anwendung:
+当使动语态用于被动结构时，几乎总是应用以下模式：
 
 ::: grammar-box
 **模式 A（被动结构）：**
 
-**Kausativum-Agens im Instrumental (⟪तृतीया⟫) — Veranlassungshandlungs-Agens im Nominativ (⟪प्रथमा⟫) — Veranlassungshandlungs-Objekt in dem Kasus, den es nach dem einfachen Verb hätte (d. h. meist im Akkusativ) — Verb im Kausativum**
+**使役语态施事者用工具格（⟪तृतीया⟫）——致使行为施事者用主格（⟪प्रथमा⟫）——致使行为客体保留其按简单动词所应具有的格（即通常为宾格）——动词采用使役语态形式**
 :::
-Beispiele:
+示例：
 
 ⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = “大师派遣罗摩前往村庄”
 结果：⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = “罗摩前往村庄”
@@ -167,7 +167,7 @@ Beispiele:
 存在几种不同的构词类型：
 
 ::: grammar-box
-**Bildungstyp 1: (meist) hochstufige Wurzel + -aya-**
+**构成类型 1： (meist) hochstufige Wurzel + -aya-**
 :::
 Beispiele:
 
@@ -194,7 +194,7 @@ Beispiele:
 | ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | 使说，使言说，（使诵读文本 =）朗读 |
 
 ::: grammar-box
-**Bildungstyp 3: tiefstufige Wurzel + -aya-**
+**构成类型 3： tiefstufige Wurzel + -aya-**
 
 **出现。**
 :::
@@ -221,12 +221,12 @@ Beispiele:
 
 **本土语法学家将以下形式视为使役态：**
 
-- **han** : Kaus. **ghātayati**¹ „erschlagen lassen, töten lassen“
-- **pā** 2 „hüten“: **pālayati**² „hinüberbringen, retten, schützen“
+- **han**：使役。**ghātayati**¹ “使人击打，使人杀死”
+- **pā** 2“守护”：**pālayati**² “带过，拯救，保护”
 :::
-Anmerkungen:
-1. **ghātayati** ist in Wirklichkeit ein Verb, das vom Substantiv **ghāta** m. „Schlag“ abgeleitet ist (denominativum) und anstelle des Kausativums von **han** verwendet wird.
-2. **pālayati** ist ein echtes Kausativum, allerdings zur Wurzel **pṛ** 3 „hinüberbringen, retten, schützen“: **pārayati** (pār-aya-ti) » **pālayati** (in einigen Gegenden Indiens entspricht dem r ein l, in anderen umgekehrt dem l ein r).
+注释：
+1. **ghātayati** 实际上是一个从名词 **ghāta** m.“打击”派生而来的动词（名源词），它被用来代替 **han** 的使役形式。
+2. **pālayati** 是一个真正的使役动词，但源自词根 **pṛ** 3“带过，拯救，保护”：**pārayati** (pār-aya-ti) » **pālayati**（在印度部分地区，r 对应 l，而在其他地区则相反，l 对应 r）。
 
 ---
 
@@ -257,7 +257,7 @@ Anmerkungen:
 :::
 ---
 
-## 28.6. Bildung des PPP (⟪क्त⟫) zum Kausativ
+## 28.6. 完成被动分词的使役式（⟪क्त⟫）的构成
 
 ::: grammar-box
 **使役词干以 -ay- 结尾（无词尾 a）+ -i- + -ta**
@@ -281,15 +281,15 @@ Anmerkungen:
 ::: grammar-box
 **带有前缀的使役动词的绝对分词通常以 -ya 结尾，且使役词干中不含 -aya-**
 
-Beispiele:
-**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) „nachdem er aufgeweckt hat“
-**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) „nachdem er heranführen gelassen hat, nachdem er bringen gelassen hat“
+示例：
+**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) “在唤醒之后”
+**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) “在让人带来之后，在让人送来之后”
 :::
 ::: grammar-box
-**Enthält jedoch die Wurzelsilbe des Kausativs ein kurzes -a- vor einem einzigen Konsonanten, tritt das -ya des Absolutivums an den Kausativstamm auf -ay- (ohne auslautendes a)**
+**然而，如果词干音节在单个辅音前包含短元音 -a-，则绝对分词的 -ya 会附加到使役词干 -ay- 上（不带词尾的 a）**
 
-Beispiel:
-**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) “nachdem er kommen gelassen hat”
+示例：
+**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) “在让人到来之后”
 :::
 ---
 
@@ -300,8 +300,8 @@ Beispiel:
 
 **使役词干以 -ay- + -i- + -tum 结尾**
 
-Beispiel:
-**jan** — **janayati** — **janayitum** (janay-i-tum) “um zu erzeugen”
+示例：
+**jan** — **janayati** — **janayitum** (janay-i-tum) “为了产生”
 :::
 ---
 
@@ -392,7 +392,7 @@ Vīṇā-Spielerin.
 
 ## 28.11. Übung
 
-**A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und geben Sie die Bedeutung an:**
+**A) 为以下动词形式和分词形式构成使役态，并给出其含义：**
 
 **1. Mit hochstufiger Wurzel:**
 1. ⟪अर्हन्ति⟫

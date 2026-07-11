@@ -1,10 +1,10 @@
 ---
-title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
-lesson_id: 45
-last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+titre : Leçon 45
+sous-titre : « Formation des formes verbales de la 2ᵉ personne (⟪मध्यमः⟫) des thèmes athématiques sans suffixe se terminant par une voyelle (suite) »
+lesson_id : 45
+last_reconstructed : 2026-05-21
+category : « Grammaire »
+status : stable
 ---
 
 # Leçon 45
@@ -19,9 +19,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \&lt;⟪जुहुषे⟫\&gt; | \&lt;⟪जुहुध्वे⟫\&gt; |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \&lt;⟪अजुहुथास्⟫\&gt; | \&lt;⟪अजुहुध्वम्⟫\&gt; |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \&lt;⟪जुह्वीथास्⟫\&gt; | \&lt;⟪जुह्वीध्वम्⟫\&gt; |
 :::
 ⟪धा⟫ 2U
 
@@ -104,14 +104,14 @@ Fig. : ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 
 ## 45.4. Exercice
 
-A) Traduisez en sanskrit (pour les formes passées, veuillez utiliser l'imparfait \<⟪लङ्⟫\>) :
+A) Traduisez en sanskrit (pour les formes passées, veuillez utiliser l'imparfait \&lt;⟪लङ्⟫\&gt;) :
 
 1\. Tu fais scinder la (bouddhiste) communauté.
 
 ::: indent
 sulla scissione della comunità (⟪सङ्घभेद⟫) vedere:
 
-**Payer, Alois \<1944 - \> :** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit monastique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt; :** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit monastique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2\. Avez-vous joui de la terre ?
 

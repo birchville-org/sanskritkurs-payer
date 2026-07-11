@@ -1,10 +1,10 @@
 ---
-title: Lektion 36
-subtitle: "Besondere Bildungen des Perfekts"
+title: Lección 36
+subtitle: "Formaciones especiales del perfecto"
 lesson_id: 36
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+category: "Gramática"
+status: estable
 ---
 
 # Lección 36
@@ -60,7 +60,7 @@ El perfecto perifrástico (⟪अनुप्रयोगलिट्⟫) se uti
 
 raíz del presente (débil) + -ām + forma correspondiente del perfecto de ⟪कृ⟫, ⟪अस्⟫ o ⟪भू⟫
 
-- Auslautender Stammvokal wird vor -ām guṇiert.
+- La vocal final del tema sufre guṇa antes de -ām.
 - ⟪अस्⟫ y ⟪भू⟫ se conjugan también en parasmaipada para verbos de ātmanepada.
 :::
 Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.

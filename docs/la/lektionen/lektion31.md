@@ -6,15 +6,15 @@ status: stable
 
 # Lektion 31
 
-## 31.1. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.")
+## 31.1. Classis septima praesentis (⟪रुधादि⟫ = "⟪रुध्⟫ etc.")
 
 ::: grammar-box
 **Educatio:**
 
 **Ante consonantes finales radicis profundae, ita dictum est nasale infixum (-na- vel -n-) interponitur:**
 
-*   **in the strong stem: -na-**
-*   **in the weak stem: -n-**
+*   **in thema forti: -na-**
+*   **in themate debili: -n-**
 
 **Pro coniunctione consonantium finalium radicis cum terminationibus consonantice incipientibus eadem valent regulae ac pro secunda classe praesentis.**
 :::

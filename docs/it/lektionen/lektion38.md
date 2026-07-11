@@ -45,9 +45,9 @@ I nomi in **-an** nonché i nomi **-man** o **-van** dopo vocale hanno tre stemm
 
 | Tema | -an | -man | -van | Uso |
 | :--- | :---: | :---: | :---: | :--- |
-| **Starker Tema** | **-ān** | **-mān** | **-vān** | Nom., Acc., Voc. sg. m. f.:brNom., Acc., Voc. du. m. f.:brNom., Voc. pl. m. f.:brNom., Acc. pl. n. |
-| **Mittlerer Schwacher Tema** | **-a**:br(da -*n) | **-ma**:br(da -*mn) | **-va**:br(da -*vn) | Übrige Kasus vor konsonantisch anlautender Desinenza:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Desinenza |
+| **Tema Forte** | **-ān** | **-mān** | **-vān** | Nom., Acc., Voc. sg. m. f.:brNom., Acc., Voc. du. m. f.:brNom., Voc. pl. m. f.:brNom., Acc. pl. n. |
+| **Tema Debole Intermedio** | **-a**:br(da -*n) | **-ma**:br(da -*mn) | **-va**:br(da -*vn) | Casi restanti prima di desinenza iniziante per consonante:brOpzionale anche Loc. sg. m. n. f. |
+| **Tema Debole** | **-n** | **-mn** | **-vn** | Casi restanti prima di desinenza iniziante per vocale |
 
 **Le desinenze sono regolari. Il Nominativo Singolare m. f. si forma senza -n finale.**
 :::

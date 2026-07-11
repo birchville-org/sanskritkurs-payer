@@ -81,10 +81,10 @@ Exempl:
 ::: grammar-box
 **Educaziun:**
 
-**starkes Stamm:**  
-**redupliziertes hochstufiges Stamm + Endung**
+**Stamm ferm:**
+**Stamm reduplitgà cun gronda vocala + desinenza**
 
-**stèssel stem:**  
+**stèssel Stamm:**
 **reduplicada radich profunda + desinenza**
 
 **Per il consonante di reduplicazione valgono le regole date sopra.**
@@ -101,8 +101,8 @@ Exemples:
 ::: grammar-box
 **⟪हु⟫** 3P "(per sacrifici) versar en il foc"
 
-* **starker Stamm:** ⟪जुहो⟫
-* **schwacher Stamm:** ⟪जुहु⟫
+* **Stamm ferm:** ⟪जुहो⟫
+* **Stamm stèssel:** ⟪जुहु⟫
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -115,9 +115,9 @@ Exemples:
 ā kann
 
 * da l’ina veta da las series da mutaziuns da la consonanza cun -a-
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* da l'autra veta gronda vocala en ina seria da mutaziuns dal grup ā
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Las duas pli impurtantas series da mutaziuns dal grup ā èn:
 
 ::: grammar-box
 **A.**
@@ -148,7 +148,7 @@ Qua qua appartegna era p.ex.:
 ## 33.4. Radichs cun -ā da la terza classa da prezens
 
 ::: grammar-box
-**Radichas cun finala -ā (exceptà ⟪दा⟫ e ⟪धा⟫) han en il stem deblit usitàramain finala -ī-** (vesa quai Thumb-Hauschild Vol. 1,1 p. 271. Probablamain ha agì la serie da ablaut surmenziunada B sco model, anc che questas radichas ablautan usitadamain suenter la serie A), **davant terminaziuns vocalicas svanescha il vocal da la radicha cumplettamain (vesa serie da ablaut A).**
+**Radichas cun finala -ā (exceptà ⟪दा⟫ e ⟪धा⟫) han en il Stamm deblit usitàramain finala -ī-** (vesa quai Thumb-Hauschild Vol. 1,1 p. 271. Probablamain ha agì la seria da ablaut surmenziunada B sco model, anc che questas radichas ablautan usitadamain suenter la seria A), **davant desinenzas vocalicas svanescha il vocal da la radicha cumplettamain (vesa seria da ablaut A).**
 :::
 Exemplas:
 
@@ -173,7 +173,7 @@ Exemplas:
 ### 33.4.1. Las radis **⟪दा⟫** e **⟪धा⟫**
 
 ::: grammar-box
-**Las radichas ⟪दा⟫ e ⟪धा⟫ redupliceschan cun il vocal -a- e pierd en il stem fiac il vocal da la radicha.**
+**Las radichas ⟪दा⟫ e ⟪धा⟫ redupliceschan cun il vocal -a- e pierd en il Stamm fiac il vocal da la radicha.**
 
 **Beachten Sie bei ⟪धा⟫ das Hauchdissimilationsgesetz!**
 :::
@@ -200,11 +200,11 @@ Las furmas da **⟪दा⟫** s’obtien, sche en il paradigma da **⟪धा�
 ## 33.5. Il participi present participi Parasmaipada dals radichs da la 3. classa da prezens
 
 ::: grammar-box
-**I verbs da la 3. classa furman tut las formas dal participi present parasmaipada dal stem debole.**
+**I verbs da la 3. classa furman tut las furmas dal participi present parasmaipada dal Stamm debil.**
 
-**Ausnahme: Nominativ/Akkusativ Plural Neutrum kann wahlweise vom starken oder schwachen Stamm gebildet werden.**
+**Excepziun: Nominativ/Accusativ Plural Neutrum po facultativamain vegnir furmà dal Stamm ferm u stèssel.**
 :::
-**⟪दा⟫** Partizip Präsens Parasmaipada:
+**⟪दा⟫** Participi Present Parasmaipada:
 
 ::: grammar-box
 | | Maskulinum:br⟪पुंल्लिङ्ग⟫ | Neutrum:br⟪नपुंसकलिङ्ग⟫ | Femininum:br⟪स्त्रीलिङ्ग⟫ |

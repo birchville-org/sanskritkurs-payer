@@ -51,9 +51,9 @@ Tuhan menang, bukan dewa palsu.
 **Skema:**
 **(Agens = kartṛ m. = ⟪कर्तृ⟫) – objek langsung (karman n. = ⟪कर्मन्⟫) – kata kerja**
 
-z.B.
-- **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma isst (kaut) eine Frucht."
-- **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Der Brahmane verehrt einen Gott mit einem Opfer (für jemand anderes)."
+Mis.:
+- **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma memakan (mengunyah) sebuah buah."
+- **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Sang Brāhmaṇa memuja seorang dewa dengan persembahan (untuk orang lain)."
 
 :::
 Apakah kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsung (**karman** n. = ⟪कर्मन्⟫) umumnya berada dalam **Akkusativ** (Kasus Kedua, dvitīyā f. = ⟪द्वितीया⟫).

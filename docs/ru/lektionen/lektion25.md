@@ -1,9 +1,9 @@
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: Урок 25
+subtitle: "Образование аблатива (⟪पञ्चमी⟫ = \"пятый падежный окончание\")"
 lesson_id: 25
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "Грамматика"
 status: stable
 ---
 

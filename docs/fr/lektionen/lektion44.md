@@ -129,7 +129,7 @@ De plus, les lois suivantes du sandhi des mots s'appliquent.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪इषे⟫\> | \<⟪इध्वे⟫\> |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \&lt;⟪इषे⟫\&gt; | \&lt;⟪इध्वे⟫\&gt; |
 | **Imperfekt** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪इयास्⟫ | ⟪इयात⟫ | ⟪इयीथास्⟫:briy-ī-thās | ⟪इयीध्वम्⟫ |
 :::
@@ -345,7 +345,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 Voir :
 
-**Payer, Alois \<1944 - \> :** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit canonique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt; :** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit canonique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)

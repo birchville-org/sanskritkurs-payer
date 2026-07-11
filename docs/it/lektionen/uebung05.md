@@ -40,7 +40,7 @@ trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇ�
 
 (in buon Sanscrito: ⟪सामर्ग्यजुर्वेदास्त्रयी⟫)
 
-Die drei Veden sind: Sāmavaeda, Ṛgveda und Yajurveda.
+I tre Veda sono: Sāmaveda, Ṛgveda e Yajurveda.
 
 sāmaveda ṛgvedo yajurvedaś ca trayī.
 

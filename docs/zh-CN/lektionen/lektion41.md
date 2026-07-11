@@ -32,7 +32,7 @@ status: stable
 :::
 释义：⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
-## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a
+## 41.2. 更多以 -a 结尾的 ⟪कृत्⟫ 构成
 
 ### 41.2.1. 现在分词（⟪लडादेशः⟫）Ā，被动语态现在分词（⟪लडादेशः⟫），将来分词（⟪ऌडादेशः⟫）Ā
 
@@ -58,15 +58,15 @@ Beispiele:
 ::: grammar-box
 **教育：**
 
-Schwacher Präsensstamm (in der Form, die er vor der Endung -ate der 3.pl.Ā hat) + -āna (fem. -ānā)
+弱现在词干（采用第三人称复数Ā词尾-ate之前的形式）+ -āna（阴性形式为 -ānā）
 :::
-Beispiele:
+示例：
 
 ::: grammar-box
 | 词根 / 类 | 现在分词 Ā |
 | :--- | :--- |
 | **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
+| **⟪हु⟫** 3P | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
 | **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
@@ -117,9 +117,9 @@ Beispiele:
 
 **使役与第十类现在时：**
 
-Wurzel, wie sie im Kausativstamm erscheint, ohne -aya- + -⟪अनीय⟫ / -⟪अनीया⟫
+词根，如使动语态中所示，不带 -aya- + -⟪अनीय⟫ / -⟪अनीया⟫
 :::
-Beispiele:
+示例：
 
 ::: no-header
 
@@ -210,8 +210,8 @@ Beispiele:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "sehenswert" |
-| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" |
+| ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | “值得观看” |
+| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | “值得教导的人 = 学生” |
 
 :::: media
 ![lekt4106.jpg](/images/lekt4106.webp)
@@ -368,7 +368,7 @@ davon:
 ::: deleteme-box
 参见：
 
-**Payer, Alois \<1944 - \>:** Vinayamukha：上座部佛教戒律与僧团法的基本概念。-- 第一部分。-- (佛教基本概念资料)。-- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha：上座部佛教戒律与僧团法的基本概念。-- 第一部分。-- (佛教基本概念资料)。-- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.：年轻女子，女儿，处女
 

@@ -20,19 +20,19 @@ status: stable
 
 :::
 ::: indent
-“Während der Vater liest, raucht er = der lesende Vater raucht”
-“ein seiender (= wirklicher, echter) Freund”
+“当父亲阅读时，他抽烟 = 正在阅读的父亲在抽烟”
+“一个存在的（即真实的、真正的）朋友”
 :::
 ::: grammar-box
 
-| **Bildung des Partizip Präsens Parasmaipada zu thematischen Präsensstämmen:** |||
+| **现在时主动语态分词（Parasmaipada）针对主题现在时词干的构成：** |||
 | :--- | :--- | :--- |
-| **Maskulinum, Neutrum** | | |
-| | **starker Stamm** | Präsensstamm + **-nt-** |
-| | **schwacher Stamm** | Präsensstamm + **-t-** |
-| **Femininum** | | |
-| | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Präsensklasse** | Präsensstamm + **-nt-** + **-ī** :broder::brPräsensstamm + **-t-** + **-ī** |
+| **阳性，中性** | | |
+| | **强词干** | 现在时词干 + **-nt-** |
+| | **弱词干** | 现在时词干 + **-t-** |
+| **阴性** | | |
+| | | 现在时词干 + **-nt-** + **-ī**（变格同 **devī** :br⟪देवी⟫） |
+| | **第6现在时类** | 现在时词干 + **-nt-** + **-ī** :broder::br现在时词干 + **-t-** + **-ī** |
 
 :::
 示例：
@@ -40,7 +40,7 @@ status: stable
 1\. 现在时类：
 
 ::: indent
-**yajant** :br⟪यजन्त्⟫ "ein mit einem Opfer verehrender"
+**yajant** :br⟪यजन्त्⟫ “以祭祀供奉者”
 :::
 ::: grammar-box
 
@@ -78,13 +78,13 @@ status: stable
 :::
 ::: grammar-box
 
-| **Bildung des Partizip Präsens Parasmaipada zu athematischen Präsensstämmen (außer 3. Präsensklasse):** |||
+| **现在时主动语态分词（除第三类现在时词干外的无声现在时词干）的构成：** |||
 | :--- | :--- | :--- |
-| **Maskulinum, Neutrum** | | |
-| | **starker Stamm** | Präsensstamm + **-ant-** |
-| | **schwacher Stamm** | Präsensstamm + **-at-** :br(弱词干的词尾与第三复数词尾前相同) |
-| **Femininum** | | |
-| | | Präsensstamm + **-at-** + **-ī** (变格同 **devī** :br⟪देवी⟫) |
+| **阳性，中性** | | |
+| | **强词干** | 现在时词干 + **-ant-** |
+| | **弱词干** | 现在时词干 + **-at-** :br(弱词干的词尾与第三复数词尾前相同) |
+| **阴性** | | |
+| | | 现在时词干 + **-at-** + **-ī** (变格同 **devī** :br⟪देवी⟫) |
 
 :::
 2\. 现在时类：
@@ -311,7 +311,7 @@ B) 翻译：
 
 **lekt2103:** ⟪भगवान्कृष्णः⟫ 作为 ⟪जगन्नाथ⟫（右侧），与其同父异母姐妹 ⟪सुभद्रा⟫（中间）及其兄长 ⟪बलराम⟫，奥里萨 = ଓଡ଼ିଶ⟪ा⟫ [图片来源：Sujitkumar / 维基百科。GNU FDLicense]
 
-**lekt2104:** Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ [Bildquelle: Hanoi Mark. -- http://www.flickr.com/photos/riverdaleto/112938743/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)]
+**lekt2104:** 琅勃拉邦 = ຫລວງພະບາງ，老挝 = ປະເທດລາ夫 [图片来源：河内马克。-- http://www.flickr.com/photos/riverdaleto/112938743/. -- 访问日期：2008-12-12。-- 知识共享许可协议（署名，非商业性使用）]
 
 **lekt2105:** ⟪भगवद्गीता⟫ - 手稿，19世纪 [图片来源：维基百科，公有领域]
 :::

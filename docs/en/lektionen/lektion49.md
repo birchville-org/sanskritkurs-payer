@@ -1,9 +1,9 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: Lesson 49
+subtitle: "Formation of the Imperative (⟪लोट्⟫) athematic present stems (continuation)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "Grammar"
 status: stable
 ---
 
@@ -190,7 +190,7 @@ see:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Selected texts from the Carakasaṃhitā / translated and explained by Alois Payer \<1944 - \>. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Selected texts from the Carakasaṃhitā / translated and explained by Alois Payer \&lt;1944 - \&gt;. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : to throw, to hurl
 

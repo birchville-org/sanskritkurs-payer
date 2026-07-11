@@ -248,7 +248,7 @@ Fig. : **kāru** = ⟪कारु⟫, Gujarat.
 ::: note-box
 En Inde, on attribuait au mot vrai un pouvoir magique, et même tout l'ordre cosmique est maintenu et créé par le mot vrai. Pour cette conception importante, voir l'ouvrage fondamental :
 
-Lüders, Heinrich \<1869 - 1943\> : Varuna / Heinrich Lüders. Publié à partir des archives par Ludwig Alsdorf. - Göttingen : Vandenhoeve & Ruprecht. -- Vol. 2 : Varuna et le Ṛta. -- 1959. -- XXIII p., p. 340 - 764
+Lüders, Heinrich &lt;1869 - 1943&gt; : Varuna / Heinrich Lüders. Publié à partir des archives par Ludwig Alsdorf. - Göttingen : Vandenhoeve & Ruprecht. -- Vol. 2 : Varuna et le Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::: media
 ![](/images/lekt1003.webp)
 Fig. : ⟪वरुणः⟫
@@ -356,7 +356,7 @@ Fig. : ⟪गौतमो⟫ ⟪बुद्धः⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1201))
 :::
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (quelque chose) brûler
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : surmonter, endurer, endurer patiemment = pardonner
+- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : surmonter, endurer, supporter patiemment = pardonner
 - **mṛga** m. ⟪मृग⟫ : animal sauvage
 - **mārga** m. ⟪मार्ग⟫ : chemin (les chemins étaient souvent des sentiers de bêtes)
 
@@ -457,7 +457,7 @@ Apprenez les mots suivants :
 >
 > Dans ce sens, une dérivation différente a été trouvée pour celui-ci : la source n'est plus asu, 'souffle,' mais l'initial *a* est pris comme le préfixe négatif, et *asura* signifie 'pas un dieu;' d'où, selon certains, est apparu le mot *sura,* communément utilisé pour 'un dieu.'"
 >
-> [Source : **Dowson, John \<1820-1881\>:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Source : **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -572,7 +572,7 @@ Fig. : ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (postposé) : comme, comme (dans les comparaisons : ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = « un homme comme un tigre », « un homme semblable à un tigre »
 
-⟪एव⟫ (postposé) : met l'accent sur ce qui précède, correspond en allemand souvent à l'accentuation, une sorte d'émoticone `\<!\>`, par ex. ⟪सत्यमेव⟫ ⟪जयति⟫ « seule la vérité triomphe », « précisément la vérité triomphe », « la vérité triomphe »
+⟪एव⟫ (postposé) : met l'accent sur ce qui précède, correspond en allemand souvent à l'accentuation, une sorte d'émoticone `\&lt;!\&gt;`, par ex. ⟪सत्यमेव⟫ ⟪जयति⟫ « seule la vérité triomphe », « précisément la vérité triomphe », « la vérité triomphe »
 
 ⟪अरि⟫ m. : ennemi (selon Thieme, Der Fremdling im Ṛgveda : originellement = étranger)
 
@@ -2500,7 +2500,7 @@ Fig. : ⟪शास्त्री⟫
 ::: deleteme-box
 voir aussi :
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit monastique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit monastique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f. : jeune fille, fille, vierge
 
@@ -2894,7 +2894,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 Voir :
 
-**Payer, Alois \<1944 - \> :** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit canonique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt; :** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit canonique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::: media
 ![](/images/lekt4408.webp)
@@ -2944,7 +2944,7 @@ dérivé :
 :::
 Pour ⟪राहु⟫ et ⟪केतु⟫ voir :
 
-> **Payer, Alois \<1944 - \> : Dharmashastra : Introduction et aperçu. -- 10. Sacrements et rites de passage (samskara). -- Annexe C : Rahu et Ketu, les planètes errantes invisibles . -- URL : [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)**
+> **Payer, Alois \&lt;1944 - \&gt; : Dharmashastra : Introduction et aperçu. -- 10. Sacrements et rites de passage (samskara). -- Annexe C : Rahu et Ketu, les planètes errantes invisibles . -- URL : [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)**
 ::: media
 ![](/images/lekt4602.webp)
 Fig. : [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/fr/licenses#lekt4602)
@@ -3270,7 +3270,7 @@ voir :
 
 :::
 ::: indent
-**Carakasaṃhitā :** Textes choisis du Carakasaṃhitā / traduits et commentés par Alois Payer \<1944 - \>. -- 0. Introduction. -- URL : [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā :** Textes choisis du Carakasaṃhitā / traduits et commentés par Alois Payer \&lt;1944 - \&gt;. -- 0. Introduction. -- URL : [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : jeter, lancer
 

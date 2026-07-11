@@ -20,9 +20,9 @@ status: stable
 ::: indent
 **⟪तेषाम्⟫**（源自：*te-sām*）
 
-aber: **⟪तासाम्⟫** (*tā-sām*)
+但是：**⟪तासाम्⟫** (*tā-sām*)
 :::
-## 26.2. Gesetz der Cerebralisierung von Dentalen im Wortinneren
+## 26.2. 词内齿音 cerebralization（大脑化）的规律
 
 ::: grammar-box
 齿塞音在卷舌音（包括 **-ṣ-**）之后，由相应的卷舌音替换：
@@ -49,7 +49,7 @@ aber: **⟪तासाम्⟫** (*tā-sām*)
 ::: indent
 *dhu(gh) » du(g)h
 :::
-**Verliert infolge von Lautgesetzen der zweite Laut seine Behauchung, so tritt die Behauchung wieder beim ersten Laut auf.**
+**如果由于语音规律，第二个音失去送气特征，那么第一个音会重新出现送气。**
 
 示例：见下方 ⟨⟪दुह्⟫⟩ 和 ⟨⟪बुध्⟫⟩ 的将来时形式
 ::: media

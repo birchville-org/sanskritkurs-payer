@@ -43,11 +43,11 @@ Après c- et j-, -n- est remplacé par -ñ-.
 ::: grammar-box
 Les noms en **-an** ainsi que les noms **-man** ou **-van** après voyelle possèdent trois stems :
 
-| Stamm | -an | -man | -van | Verwendung |
+| Radical | -an | -man | -van | Usage |
 | :--- | :---: | :---: | :---: | :--- |
-| **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
-| **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
+| **Starkes Radikal** | **-ān** | **-mān** | **-vān** | Nomin., Accus., Vocatif sg. m. f.:brNomin., Accus., Vocatif duel m. f.:brNomin., Vocatif pl. m. f.:brNomin., Accusatif pl. n. |
+| **Moyen Radical Faible** | **-a** :br(dérivé de -*n) | **-ma** :br(dérivé de -*mn) | **-va** :br(dérivé de -*vn) | Autres cas devant une terminaison consonantique:brOptionnellement aussi Locatif sg. m. n. f. |
+| **Radical le plus faible** | **-n** | **-mn** | **-vn** | Autres cas devant une terminaison vocalique |
 
 **Les terminaisons sont régulières. Le nominatif singulier masculin et féminin se forme sans -n final.**
 :::
@@ -238,7 +238,7 @@ Bien sûr, on peut exprimer la même idée avec un ⟪बहुव्रीह�
 Fig. : ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
 (Source de l’image : [Détails](/fr/licenses#lekt3808))
 :::
-## 38.6. Syntaktisches zu ⟪आत्मन्⟫
+## 38.6. Syntaxe de ⟪आत्मन्⟫
 
 ::: grammar-box
 **⟪आत्मन्⟫** **masculin** peut être utilisé au **singulier** comme pronom réfléchi (pronom réfléchi) pour les trois genres, nombres (y compris le duel et le pluriel) et personnes.

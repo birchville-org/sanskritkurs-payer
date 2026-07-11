@@ -106,15 +106,15 @@ Examples:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Present** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
-| **Imperfect** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
-| **Optative** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
+| **Indikativ Present** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \&lt;⟪जुहुते⟫\&gt; | \&lt;⟪जुह्वते⟫\&gt;:brjuhu + ate |
+| **Imperfect** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \&lt;⟪अजुहुत⟫\&gt; | \&lt;⟪अजुह्वत⟫\&gt;:bra-juhu + ata |
+| **Optative** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \&lt;⟪जुह्वीत⟫\&gt;:brjuhu + ī-ta | \&lt;⟪जुह्वीरन्⟫\&gt;:brjuhu + ī-ran |
 :::
 ## 33.3. On the Ablaut of ā
 
 ā kann
 
-* on the one hand, the lengthened grade of one of the ablaut series with -a-
+* einerseits die Dehnstufe einer der Ablautreihen mit -a-
 * andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
 
 Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
@@ -166,9 +166,9 @@ Examples:
 
 | | 3. sg. P. | 3. pl. P. |
 | :--- | :--- | :--- |
-| **Indikativ Present** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
+| **Indicative Present** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
 | **Imperfect** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
-| **Optative** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Root ⟪हा⟫ hat vor dem Optative-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
+| **Optative** | ⟪जह्यात्⟫:brjah-yā-t:br(The root ⟪हा⟫ has the same form before Optative-yā/y as before vowels!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
 ### 33.4.1. The roots **⟪दा⟩** and **⟪धा⟩**
 

@@ -115,7 +115,7 @@ status: stable
 ā kann
 
 * от една страна удължена степен на една от аблаутните серии с -a-
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* от друга страна висока степен в една аблаутна серия на ā-групата
 
 Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 

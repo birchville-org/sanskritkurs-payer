@@ -115,7 +115,7 @@ status: stable
 ā kann
 
 * من ناحية، قد تكون درجة الإطالة إحدى سلاسل الحروف المتغيرة مع -a-
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* من ناحية أخرى، قد تكون درجة الإطالة إحدى سلاسل الحروف المتغيرة مع -ā-
 
 Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 

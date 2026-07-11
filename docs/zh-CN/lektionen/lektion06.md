@@ -21,8 +21,8 @@ status: stable
 ## 6.1. 动词句
 
 ::: grammar-box
-**Schema I: Verbform**
-- z.B. **yajati** = ⟪यजति⟫ = "Er (sie, es) verehrt mit einem Opfer", "Er (sie, es) opfert"
+**模式 I：动词形式**
+- 例如，**yajati** = ⟪यजति⟫ = “他（她，它）以祭祀供奉”，“他（她，它）献祭”
 
 **模式二：施事者（kartṛ m. = ⟪कर्तृ⟫）——动词形式**
 - 例如 **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = “罗摩以祭祀供奉”，“罗摩祭祀”
@@ -36,7 +36,7 @@ status: stable
 有限的动词形式，即带有词尾变化的动词形式，在梵语中表示以下内容：
 
 1. **含义**（**artha** 阳性 ⟪अर्थ⟫）
-2. **人称**与**数**（数量，**vacana** 中性 = ⟪वचन⟫）（我，你，他 \<她，它\>，我们俩，你们俩，他们俩，我们，你们，他们）
+2. **人称**与**数**（数量，**vacana** 中性 = ⟪वचन⟫）（我，你，他 \&lt;她，它\&gt;，我们俩，你们俩，他们俩，我们，你们，他们）
 3. 语态（genus verbi）：
    1. **Parasmaipada**（中性 = ⟪परस्मैपद⟫）（“指向他人的词形”）：主动语态。例如 **yajati** = ⟪यजति⟫ = “他进行祭祀”（即祭司为其他人举行祭祀）
    2. **Ātmanepada**（中性 = ⟪आत्मनेपद⟫）（“指向自身的词形”）：中间语态。例如 **yajate** = ⟪यजते⟫ = “他为自己进行祭祀”（即祭主为自己和家人举行祭祀）
@@ -98,9 +98,9 @@ status: stable
 
 ---
 
-## 6.5. Bildung des Präsensstamms
+## 6.5. 现在词干的构成
 
-### 6.5.1. Verben der 6. Präsensklasse (tudādi = ⟪तुदादि⟫ = "tud usw.")
+### 6.5.1. Verben der 6. Präsensklasse （tudādi = ⟪तुदादि⟫ = "tud 等"）
 
 ::: grammar-box
 **现在词干 = 词根在弱形（即其列出的形式）+ a-**

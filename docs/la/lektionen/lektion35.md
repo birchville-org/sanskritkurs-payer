@@ -11,10 +11,10 @@ status: stable
 ::: grammar-box
 **Educatio:**
 
-**starker Stamm:**
-*   3.sg.P: Dehnstufe
-*   2.sg.P: Hochstufe
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe
+**stamen forte:**
+*   3.sg.P: gradus prolatus
+*   2.sg.P: gradus plenus
+*   1.sg.P: vel gradus plenus vel gradus prolatus
 
 **stamen infirmum:** vide apud subtypos
 :::
@@ -70,9 +70,9 @@ Exempla:
 ::: grammar-box
 **Educatio:**
 
-**starker Stamm:**
+**stamen forte:**
 *   3./1. sg. P Perfekt endet auf -au
-*   2\. sg. P : Hochstufe -ā oder Tiefstufe -i
+*   2. sg. P : gradus plenus -ā vel gradus reductus -i
 
 **stamen infirmum:**
 *   ante consonantem: gradus profundus -i
@@ -91,10 +91,10 @@ Exemplum:
 ::: grammar-box
 **Educatio:**
 
-**starker Stamm:**
-*   3.sg.P: Dehnstufe
-*   2.sg.P: Hochstufe
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe
+**stamen forte:**
+*   3.sg.P: gradus prolatus
+*   2.sg.P: gradus plenus
+*   1.sg.P: vel gradus plenus vel gradus prolatus
 
 **stamen infirmum:** vide subtypos
 

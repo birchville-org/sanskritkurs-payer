@@ -176,7 +176,7 @@ Imparate le seguenti parole:
 >
 > In questo senso una diversa derivazione è stata trovata per esso: la fonte non è più asu, 'respiro,' ma la iniziale *a* è presa come il prefisso negativo, e *asura* significa 'non un dio;' da qui, secondo alcuni, nacque la parola *sura,* comunemente usata per 'un dio.'"
 >
-> [Fonte: **Dowson, John \<1820-1881\>:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Fonte: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)

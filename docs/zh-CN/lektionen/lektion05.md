@@ -81,8 +81,8 @@ Beispiele für Pluraldvandva:
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
 > = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
-> (Dichter und Lehrer [Plural])
-> (Anmerkung: „Ein Dichter und ein Lehrer“ müsste im Dual stehen!)
+> （诗人与导师 [复数形式]）
+> （注：“一位诗人和一位导师”在双数中表达！）
 
 **关于复合词（Dvandva）中各组成部分的顺序，适用以下规则：**
 - 不同种姓（**varṇa**）的称谓应依其等级顺序排列（最高者在前）。

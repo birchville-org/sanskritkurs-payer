@@ -94,13 +94,13 @@ important
 
 **Pronoms démonstratifs :**
 
-| Pronom | Genre | Instrumental Singulier | Instrumental Pluriel |
+| Pronom | Genre | Singulier instrumental | Pluriel instrumental |
 | :--- | :--- | :--- | :--- |
-| **tad** :br"er, sie, es; der, die, das" (Erwähnte):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
+| **tad** :br« lui, elle, ça ; le, la, les » (personnes mentionnées) :br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
 | | F | **tayā** :br⟪तया⟫ | **tābhis** :br⟪ताभिस्⟫ |
-| **etad** :br"dieser, diese, dieses" (dem Sprechenden sehr Nahe):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
+| **etad** :br« celui-ci, celle-ci, ceci » (très proche du locuteur) :br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
 | | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
-| **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
+| **idam** :br« celui-ci, celle-ci, ceci » (proche) :br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
@@ -194,9 +194,9 @@ par ex.
 
 La désignation traditionnelle autochtone pour cette formation du niveau profond des verbes avec **ya** ou **va** est **Samprasāraṇa** (⟪नपुंसकम्⟩ = ⟪सम्प्रसारण⟫).
 
-5. **Auslautendes -ṛ** nach einem einzigen Konsonanten wird vor dem Passivsuffix **-ya-** durch **-ri-** ersetzt:
-   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-   * Aber: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
+5. **La finale -ṛ** après une seule consonne est remplacée par **-ri-** devant le suffixe passif **-ya- :**
+* **kṛ** 8 V : **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
+* Mais : **smṛ** 1 P : **smaryate** :br⟪स्मर्यते⟫
 
 6. **Certaines racines en -an ont alternativement deux formations de radical passif :**
    * une **-an-ya**
@@ -238,7 +238,7 @@ Formation du mot : **yaj** 1 U + suffixe kṛt **-na-**.
 ::: note-box
 En Inde, on attribuait au mot véritable un pouvoir magique, et en fait, tout l'ordre cosmique est maintenu et créé par le mot véritable. Pour cette conception importante, voir l'œuvre fondamentale :
 
-Lüders, Heinrich \<1869 - 1943\> : Varuna / Heinrich Lüders. Éd. posthume par Ludwig Alsdorf. - Göttingue : Vandenhoeck & Ruprecht. -- Vol. 2 : Varuna et le Ṛta. -- 1959. -- XXIII p., p. 340 - 764
+Lüders, Heinrich \&lt;1869 - 1943\&gt; : Varuna / Heinrich Lüders. Éd. posthume par Ludwig Alsdorf. - Göttingue : Vandenhoeck & Ruprecht. -- Vol. 2 : Varuna et le Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
 
 ::: media

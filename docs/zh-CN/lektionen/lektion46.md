@@ -29,7 +29,7 @@ status: stable
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. Perfekt Typ I: keine Stammabstufung
+### 46.1.3. 第一类完美时态：无词干变音
 
 动词，遵循此类型的：
 
@@ -55,7 +55,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
-| ⟪⟪जिजीविथ⟫⟫ | ⟪⟪जिजीव⟫⟫ | \<⟪⟪जिजीविषे⟫⟫\> | \<⟪⟪जिजीविध्वे⟫⟫\>:br\<⟪⟪जिजीविढ्वे⟫⟫\> |
+| ⟪⟪जिजीविथ⟫⟫ | ⟪⟪जिजीव⟫⟫ | \&lt;⟪⟪जिजीविषे⟫⟫\&gt; | \&lt;⟪⟪जिजीविध्वे⟫⟫\&gt;:br\&lt;⟪⟪जिजीविढ्वे⟫⟫\&gt; |
 :::
 ⟪⟪अस्⟫⟫ 第二人称，第四人称
 
@@ -63,7 +63,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
+| ⟪आसिथ⟫ | ⟪आस⟫ | \&lt;⟪आसिषे⟫\&gt; | \&lt;⟪आसिध्वे⟫\&gt; |
 :::
 ### 46.1.4. 第二类完成时：强干高格位，弱干低格位
 
@@ -373,7 +373,7 @@ davon:
 :::
 关于 ⟪राहु⟫ 和 ⟪केतु⟫，请参阅：
 
-> **佩尔，阿洛伊斯 \<1944 - \>：** 法论：导论与概览。 -- 10. 圣礼与过渡仪式（samskara）。 -- 附录C：罗睺与计都，隐形的游星。 -- 网址：[http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **佩尔，阿洛伊斯 \&lt;1944 - \&gt;：** 法论：导论与概览。 -- 10. 圣礼与过渡仪式（samskara）。 -- 附录C：罗睺与计都，隐形的游星。 -- 网址：[http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 图：[⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/zh-CN/licenses#lekt4602)

@@ -25,7 +25,7 @@ As an adverbial (indeclinable) front element, can
 ::: indent
 are used. Such Tatpuruṣa compounds mostly belong to the class of Nityasamāsa = ⟪नित्यसमास⟫ (m. "fixed compound"), i.e., compounds that cannot be resolved at all or not merely by means of the words occurring within the compound itself.
 :::
-Examples:
+उदाहरणानि:
 
 ⟪अति⟫ "darüber hinaus":
 
@@ -42,7 +42,7 @@ The most important adverbial pre-elements are a-/an-, su-, dus-.
 
 ⟪अ⟫ (before consonant), ⟪अन्⟫ (before vowel): un-: stands in the compound instead of ⟪न⟫ "not".
 
-Examples:
+उदाहरणानि:
 
 ::: indent
 ⟪अनृत⟫ n. = ⟪नर्तम्⟫ (= ⟪न⟫ + ⟪ऋतम्⟫): Unwahrheit, Lüge
@@ -51,11 +51,11 @@ Examples:
 
 ⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : a non-Brahmin woman, a woman not of the Brahmin caste
 
-⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : a non-god, ungöttlich
+⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : a non-god, ungodly
 :::
-⟪सु⟫ "wohl, gut"; wird bei der Auflösung des Kompositums von den Kommentatoren durch ein Adjektiv mit der Bedeutung "gut" (z.B. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3) ersetzt.
+⟪सु⟫ "well, good"; in the resolution of the compound, commentators replace it with an adjective meaning "good" (e.g. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
 
-Examples:
+उदाहरणानि:
 
 ::: indent
 ⟪सुकवि⟫ m.: a good poet
@@ -68,7 +68,7 @@ Examples:
 :::
 ⟪दुस्⟫ "evil, bad" (observe Sandhi!).
 
-Examples:
+उदाहरणानि:
 
 ::: indent
 ⟪दुर्नय⟫ m.: bad leadership, bad behavior
@@ -94,7 +94,7 @@ Therefore: ⟪दुष्करण⟫
 
 Compounds of type ⟪सुकर⟫ / ⟪दुष्कर⟫ primarily have the meaning of passive possibility:
 
-Examples:
+उदाहरणानि:
 
 :::
 ::: indent
@@ -143,18 +143,18 @@ Six meanings of nañ (= a-/an-) are mentioned ....
 :::
 ⟪चन्द्रकीर्ति⟫ : ⟪प्रसन्नपदा⟫ S. 2 Zl. 14f.
 
-By a prefix, the meaning of a root is violently changed, just as the sweetness of the Ganges water is changed by seawater.
+उपसर्गेण धात्वर्थो बलादाकृष्यते यथा । गङ्गातोयं समुद्रेण लवणत्वं प्रयच्छति ॥
 
 ::: grammar-box
 
-Verbs can be combined in Sanskrit with prepositions (⟪उपसर्ग⟩ m.). In doing so, the sentence sandhi usually applies. Prepositions can significantly modify the meaning of the root, so that in many cases the meaning of a root with a preposition must be learned separately. Verbs with a preposition can have a different mood (P, Ā) than the simple root. Multiple prepositions can be placed before a root simultaneously.
+संस्कृते क्रियापदानि उपसर्गैः (⟪उपसर्ग⟫ m.) सह संयोज्यन्ते । तत्र सामान्यतया वाक्यसन्धिः प्रयुज्यते । उपसर्गाः धातोः अर्थं महत्त्वेन परिवर्तयितुं शक्नुवन्ति, येन बहुषु स्थलेषु उपसर्गसहितस्य धातोः अर्थः पृथक् ज्ञातव्यः । उपसर्गसहितानि क्रियापदानि सरलधातोः भिन्नं पदम् (P, Ā) धारयितुं शक्नुवन्ति । बहवः उपसर्गाः एकस्मिन् काले धातोः पुरतः स्थापयितुं शक्यन्ते ।
 
 :::
 Some important preverbs are:
 
 ⟪उप⟫ "to, toward, against"
 
-Examples:
+उदाहरणानि:
 
 ::: indent
 ⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : to go to, to approach
@@ -169,7 +169,7 @@ Examples:
 :::
 ⟪प्र⟫ "forward, forth"
 
-Examples:
+उदाहरणानि:
 
 ::: indent
 ⟪प्राप्⟫ (pra-āp) 5 ⟪प्राप्नोति⟫ : attain
@@ -188,7 +188,7 @@ Examples:
 :::
 ⟪वि⟫ "apart, away, zer-, ver-"
 
-Examples:
+उदाहरणानि:
 
 ::: indent
 ⟪विगम्⟫ 1 ⟪विगच्छति⟫ : to go apart, to perish, to disappear
@@ -205,7 +205,7 @@ Examples:
 :::
 ⟪सम्⟫ "together, with"
 
-Examples:
+उदाहरणानि:
 
 ::: indent
 ⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : to sit together, to stay, to dwell
@@ -226,10 +226,10 @@ Examples:
 :::
 ::: grammar-box
 
-The root ⟪कृ⟫ "to do" shows, in connection with the preverbs ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫, also the form ⟪स्कृ⟫
+धातुः ⟪कृ⟫ "करणे" उपसर्गैः ⟪सम्⟫ ⟪।⟫ ⟪उप⟫ ⟪।⟫ ⟪अप⟫ ⟪।⟫ ⟪परि⟫ सह संयोगे रूपम् ⟪स्कृ⟫ अपि दर्शयति
 
 :::
-Example:
+उदाहरणम्:
 
 ::: indent
 sam-kṛ 8 ⟪संस्करोति⟫ : prepare, prepare for the sacrifice, consecrate
@@ -240,10 +240,10 @@ sam-kṛ 8 ⟪संस्करोति⟫ : prepare, prepare for the sacrific
 
 ::: grammar-box
 
-From roots with preverbs, nouns can be formed using kṛt suffixes.
+उपसर्गसहितेभ्यः धातुभ्यः कृत्प्रत्ययैः नामानि निष्पाद्यन्ते ।
 
 :::
-Examples:
+उदाहरणानि:
 
 sam-kṛ + -a = ⟪संस्कार⟫ m.: consecration, preparation; transition rituals = designation for the ceremonies that accompany the various life stages from conception to death (see the excellent summary in Basham, Wonder pp. 160 - 170!)
 
@@ -272,7 +272,7 @@ Abb.: ⟪उपनयनम्⟫
 
 ⟪शोभन⟫ 3: shining, splendid, magnificent, beautiful, good
 
-⟪सम⟫ 3: equal, same, similar (with instrumental case)
+⟪सम⟫ 3: तुल्यः, समानः, सदृशः (तृतीयया सह)
 
 ⟪व्याधि⟫ m.: illness
 
@@ -400,7 +400,7 @@ Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Print
 (Image source: [Details](/arc/licenses#lekt1802))
 :::
-B) Translate using verbs of the 2nd present class:
+ख) द्वितीयवर्गस्य क्रियापदैः अनुवदत:
 
 1\. The Brahmin praises the goddesses.
 

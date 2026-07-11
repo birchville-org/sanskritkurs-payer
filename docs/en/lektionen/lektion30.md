@@ -308,7 +308,7 @@ Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪�
 ::: indent
 Fut. ⟪पविष्यति⟫  
 Pass. ⟪पूयते⟫  
-Kaus. ⟪पावयति⟫  
+Caus. ⟪पावयति⟫  
 PPP ⟪पूत⟫  
 Inf. ⟪पवितुम्⟫
 :::

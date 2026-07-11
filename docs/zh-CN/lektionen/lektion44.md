@@ -129,7 +129,7 @@ status: stable
 | | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** | **⟪⟪एकवचनम्⟫⟫** | **⟪⟪बहुवचनम्⟫⟫** |
-| **直陈式现在时** :br⟪⟪लट्⟫⟫ | ⟪⟪एषि⟫⟫ | ⟪⟪इथ⟫⟫ | \<⟪⟪इषे⟫⟫\> | \<⟪⟪इध्वे⟫⟫\> |
+| **直陈式现在时** :br⟪⟪लट्⟫⟫ | ⟪⟪एषि⟫⟫ | ⟪⟪इथ⟫⟫ | \&lt;⟪⟪इषे⟫⟫\&gt; | \&lt;⟪⟪इध्वे⟫⟫\&gt; |
 | **未完成过去式** :br⟪⟪लङ्⟫⟫ | ⟪⟪ऐस्⟫⟫:bra + e + s | ⟪⟪ऐत⟫⟫:bra + i + ta | | |
 | **虚拟式** :br⟪⟪विधिलिङ्⟫⟫ |  ⟪⟪इयास्⟫⟫ |  ⟪⟪इयात⟫⟫ |  ⟪⟪इयीथास्⟫⟫:briy-ī-thās |  ⟪⟪इयीध्वम्⟫⟫ |
 :::
@@ -342,7 +342,7 @@ davon:
 ::: deleteme-box
 参见：
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::: media
 ![](/images/lekt4408.webp)
 Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
@@ -481,19 +481,19 @@ B）翻译：
 
 **lekt4401.jpg**：未在文本中找到特殊许可/图片来源
 
-**lekt4402.jpg**: Zeichnung von Henri Gerbault (1863 - 1930) (Public domain)
+**lekt4402.jpg**: 亨利·热博（1863 - 1930）的画作（公有领域）
 
-**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)
+**lekt4403.jpg**: danielguip. -- http://www.flickr.com/photos/danielguip/118349247/. -- 访问日期：2009-01-08。-- 知识共享许可协议（署名，非商业性使用，禁止演绎）
 
-**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)
+**lekt4404.jpg**: Gurumustuk Singh. -- http://www.flickr.com/photos/mrsikhnet/218757195/. -- 访问日期：2009-01-08。-- 知识共享许可协议（署名，非商业性使用，相同方式共享）
 
-**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)
+**lekt4405.jpg**: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/377335641/. -- 访问日期：2009-01-08。-- 知识共享许可协议（署名，非商业性使用）
 
-**lekt4406.jpg**: Amre Ghiba. -- http://www.flickr.com/photos/amre/1476216243/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)
+**lekt4406.jpg**：Amre Ghiba。-- http://www.flickr.com/photos/amre/1476216243/. -- 访问日期：2009-01-08。-- Creative Commons 许可协议（署名，非商业性使用）
 
-**lekt4407.jpg**: MalayalaM. -- http://www.flickr.com/photos/malayalam/35026906/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)
+**lekt4407.jpg**：MalayalaM。-- http://www.flickr.com/photos/malayalam/35026906/. -- 访问日期：2009-01-08。-- Creative Commons 许可协议（署名，非商业性使用，相同方式共享）
 
-**lekt4408.jpg**: Midpath. -- http://www.flickr.com/photos/midpath/342678518/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)
+**lekt4408.jpg**：Midpath。-- http://www.flickr.com/photos/midpath/342678518/. -- 访问日期：2009-01-08。-- Creative Commons 许可协议（署名，非商业性使用，禁止演绎）
 
 **lekt4409.jpg**: bartpogoda。-- http://www.flickr.com/photos/bartpogoda/2068996900/。-- 访问于 2009-01-08。-- 知识共享许可协议（署名，非商业性使用，禁止演绎）
 :::

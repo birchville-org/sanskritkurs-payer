@@ -224,7 +224,7 @@ Explication : ⟪पुमान्⟫ Nom. sg. de ⟪पुंस्⟫ "homme"
 
 **lekt1809 :** Illustration pour le ⟪कामसूत्र⟫ [Source de l'image : Wikipedia, Domaine public]
 
-**lekt1901 :** Badami (ಬದಾಮಿ) [Source de l'image : Sudarshan Bhat Khandige / Wikipedia, Domaine public]
+**lekt1901 :** Badami (ಬದಾಮि) [Source de l'image : Sudarshan Bhat Khandige / Domaine public]
 
 **lekt1902 :** Goa (⟪गोंय⟫) [Source de l'image : pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Consulté le 2008-12-08. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de travaux dérivés)]
 

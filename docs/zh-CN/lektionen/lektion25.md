@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 25
 
-## 25.1. Bildung des Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung")
+## 25.1. 离格（Ablativ）的构成 (⟪पञ्चमी⟫ = 第五格)
 
 ::: grammar-box
 除了以-a结尾的阳性/中性名词以及代词外，单数中所有变格类的离格（⟪पञ्चमी⟫）与属格（⟪षष्ठी⟫）形式相同。
@@ -116,7 +116,7 @@ Beispiele:
 
 关系从句通常表达与主句之间的因果（理由）、结果（推论）或目的（意图）关系。
 
-Relativpronomenformen, die als kausale Konjunktion dienen:
+关系代词形式，用作因果连词：
 
 *   从格用法：
     *   ⟪यतस्⟫ …… 从句 …… ⟪ततस्⟫ …… 主句 …… = “因为 ……，所以 ……”
@@ -147,10 +147,10 @@ Relativpronomenformen, die als kausale Konjunktion dienen:
 示例：
 
 ::: indent
-⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = “Er erschlägt seinen Sohn aus Zorn” = “Er erschlägt seinen Sohn im Zorn”
+⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = “他因愤怒而杀死他的儿子” = “他在愤怒中杀死他的儿子”
 :::
 ::: grammar-box
-**4\. Substantive**
+**4\. 名词**
 
 此外，当然也可以通过带有
 
@@ -158,9 +158,9 @@ Relativpronomenformen, die als kausale Konjunktion dienen:
 *   ⟪हेतु⟩ m.
 *   其他表示“原因”含义的名词
 
-\+ Genitiv (⟪षष्ठी⟫) oder als zweites Glied von Komposita:
++ Genitiv (⟪षष्ठी⟫) 或作为复合词的第二部分：
 :::
-Beispiel:
+示例：
 
 ::: indent
 ⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ 等) = “由于功德”
@@ -468,7 +468,7 @@ B) 翻译并解析以下梵文复合词：
 ... ⟪॥⟫  
 ⟪कामक्रोधलोभमानमदहर्षत्यागा⟫***⟪त्कार्यः⟫*** ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
-Erklärung der im obigen Text rot hervorgehobenen Wörter:
+解释上述文本中红色高亮显示的词汇：
 
 1.5.1. ⟪तिस्रस्⟫：名词，宾格，阴性，对应⟪त्रि⟫“三”
 

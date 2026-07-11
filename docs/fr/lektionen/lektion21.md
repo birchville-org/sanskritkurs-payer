@@ -1,10 +1,10 @@
 ---
-title: Lektion 21
-subtitle: "Weitere Präsensstämme auf -nt"
-lesson_id: 21
-last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+titre : Leçon 21
+sous-titre : « Autres souches de présent en -nt »
+lesson_id : 21
+last_reconstructed : 2026-05-21
+category : « Grammaire »
+status : stable
 ---
 
 # Leçon 21

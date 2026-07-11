@@ -93,7 +93,7 @@ status: stable
 :::
 与格的其他用法稍后介绍。
 
-## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
+## 24.2. 与格（Dativ）的构成 (⟪चतुर्थी⟫)
 
 ::: grammar-box
 **与格的标准词尾是：**
@@ -135,7 +135,7 @@ status: stable
 | | **与格复数** | **⟪ताभ्यस्⟫** | **⟪एताभ्यस्⟫** | **⟪आभ्यस्⟫** |
 
 :::
-### 24.2.4. Vokalische Stämme
+### 24.2.4. 元音词干
 
 ::: grammar-box
 **元音词干**
@@ -295,7 +295,7 @@ davon:
 
 ## 24.5. Übung
 
-A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an:
+A) 构成与格单数以及与格/离格复数，并给出名词词干的含义：
 
 1.  ⟪श्रव⟫
 2.  ⟪भवन⟫
@@ -380,7 +380,7 @@ E) 在句子 A) 6 中，将与格结构替换为等价的带有 -⟪अर्थ
 
 9\. 即使毗湿奴（⟪प्र⟫-⟪भू⟫ + 与格）也不超越湿婆。
 
-10\. Nachdem ich mich vor den drei Weisen (Akk.) verbeugt habe (⟪नमस्कृ⟫)... Er verbeugt sich vor Narasiṃha (Dat.)
+10\. 在我向三位智者（与格）鞠躬之后（⟪नमस्कृ⟫）……他向纳拉辛哈（与格）鞠躬
 
 ::: indent
 解释：⟪मुनित्रयम्⟫ “三位智者 = 三位智者” = 语法学家 ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
@@ -407,7 +407,7 @@ E) 在句子 A) 6 中，将与格结构替换为等价的带有 -⟪अर्थ
 
 **lekt2402：** 拉克沙班丹（Raksha Bandhan）在印度各地以热烈而喜悦的氛围庆祝。这一节日体现了兄弟姐妹之间无条件的爱。[图片来源：yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- 访问日期：2008-12-14. -- 知识共享许可协议（署名，非商业性使用，相同方式共享）]
 
-**lekt2403:** “Rama (rechts) auf den Schultern Hanumans sitzend, bekämpft den Dämonenkönig Rāvaṇa.” ca. 1820 [Bildquelle: Wikipedia, Gemeinfrei]
+**lekt2403：**“罗摩（右）坐在哈努曼的肩上，与恶魔之王罗波那作战。”约1820年[图片来源：维基百科，公共领域]
 
 **lekt2404:** [图片来源：sknaB nolA。-- http://www.flickr.com/photos/nolasknab/110920752/。-- 访问日期：2008-12-14。-- 知识共享许可协议（署名，禁止演绎）]
 
@@ -415,7 +415,7 @@ E) 在句子 A) 6 中，将与格结构替换为等价的带有 -⟪अर्थ
 
 **lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [图片来源：thaths。-- http://www.flickr.com/photos/thaths/862012190/。-- 访问日期：2008-12-14。-- 知识共享许可协议（署名，非商业性使用）]
 
-**lekt2407:** “NEUDELHI/INDIEN, 16NOV08 – Suhasini Haidar, stellvertretende Auslandredakteurin des CNN-IBN-Netzwerks 18, Indien, moderiert eine Podiumsdiskussion auf dem Wirtschaftsgipfel Indiens 2008 des Weltwirtschaftsforums in Neu-Delhi.” [Bildquelle: Weltwirtschaftsforum / Foto von Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Zugriff am 2008-12-14. -- Creative-Commons-Lizenz (Namensnennung, Weitergabe unter gleichen Bedingungen)]
+**lekt2407：**“新德里/印度，16NOV08——苏哈西尼·海德尔（Suhasini Haidar），CNN-IBN网络18印度副国际编辑，主持了2008年世界经济论坛印度经济峰会的新德里圆桌讨论。”[图片来源：世界经济论坛 / 达娜·斯密利（Dana Smillie）拍摄。-- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- 访问日期：2008-12-14。-- 知识共享许可协议（署名，相同方式分享）]
 
 **lekt2408:** “San Francisco 的故事讲述者 Jeff Byers 向切内里（Chenneri）——一个伊鲁拉（Irula）村庄的居民分享了一个故事。故事讲述者 Jeeva Raghunath 为村民们翻译成泰米尔语。” [图片来源：ereneta。-- http://www.flickr.com/photos/tereneta/3062024840/。-- 访问日期：2008-12-14。-- 知识共享许可协议（署名，非商业性使用）]
 

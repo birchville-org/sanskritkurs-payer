@@ -58,7 +58,7 @@ status: stable
 - **单数：-ā**
 - **复数：-bhis**
 
-**Regelmäßige Bildungen:**
+**规则构成：**
 
 | | 工具格单数 | 工具格复数 |
 | :--- | :--- | :--- |
@@ -155,10 +155,10 @@ status: stable
 ## 10.4. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
 
 ::: grammar-box
-**Bildung:**
+**构成：**
 **(meist) tiefstufige Wurzel + -ya- + Ātmanepada-Endung**
 :::
-z.B.
+例如：
 
 | 词根：br⟪धातु⟫ | 第三人称单数被动现在时直陈式：br⟪यक्⟫ ⟪लट्⟫ | 第三人称复数被动现在时直陈式：br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
@@ -235,14 +235,14 @@ z.B.
 ::: note-box
 在印度，人们认为真言具有魔力，甚至整个宇宙秩序都由真言维系和创造。有关这一重要观念，请参阅基础著作：
 
-Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeve & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::: media
 ![](/images/lekt1003.webp)
-Abb.: ⟪वरुणः⟫
-(Bildquelle: [Details](/zh-CN/licenses#lekt1003))
+图：⟪वरुणः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt1003)）
 ::::
 :::
-- **anṛta** n. ⟪अनृत⟫ : Unwahrheit, Lüge (Gegensatz zu **satya**)
+- **anṛta** n. ⟪अनृत⟫ ：不真实，谎言（与 **satya** 相对）
 
 ::: note-box
   Wortbildung **an-** („un-“) + **ṛta** n.

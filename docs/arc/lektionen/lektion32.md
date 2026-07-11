@@ -22,13 +22,13 @@ status: stable
 ::: grammar-box
 **Formation:**
 
-**Augment a- + Present stem + Secondary ending**
+**वृद्धि a- + वर्तमानवाचकधातुः + द्वितीयप्रत्ययः**
 
-**The three singular persons of the Parasmaipada Imperfect are formed from the strong present stem for athematic stems, all other forms from the weak present stem.**
+**परस्मैपदस्य लङ्लकारस्य त्रयः एकवचनपुरुषाः अथेमेटिकधातूनां बलवर्तमानधातुभ्यः निर्मीयन्ते, सर्वे अन्ये रूपाः दुर्बलवर्तमानधातुभ्यः।**
 
 **The Imperfect has only the Indicative mood.**
 :::
-Examples:
+उदाहरणानि:
 
 ::: indent
 **⟪भू⟫** 3. sg. Impf. P. **⟪अभवत्⟫** (a-bhava-t)
@@ -40,9 +40,9 @@ Examples:
 ## 32.3. Rules for the Augment
 
 ::: grammar-box
-**1. If the augment a- precedes a root beginning with a vowel, the augment and the initial sound of the root merge to form the ⟪वृद्धि⟫ of the root vowel.**
+**१. यदि वृद्धिः a- स्वरेण आरब्धस्य धातोः पुरतः भवति, वृद्धिः च धातोः आदिस्वरः च मिलित्वा धातुस्वरस्य ⟪वृद्धि⟫म् निर्मातः।**
 :::
-Examples:
+उदाहरणानि:
 
 ::: grammar-box
 
@@ -54,9 +54,9 @@ Examples:
 
 :::
 ::: grammar-box
-**2. When preverbs precede a root, the augment a- appears after the preverbs immediately before the root.**
+**२. यदा उपसर्गाः धातोः पुरतः भवन्ति, वृद्धिः a- उपसर्गानन्तरं साक्षाद् धातोः पुरतः आगच्छति।**
 :::
-Examples:
+उदाहरणानि:
 
 ::: grammar-box
 
@@ -68,16 +68,16 @@ Examples:
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
-## 32.4. Examples of imperfect formation
+## ३२.४. लङ्लकारनिर्माणस्य उदाहरणानि
 
 ::: important
-**To demonstrate the formation of forms, Ātmanepada-forms are also formed here for Parasmaipada roots! These artificial forms stand between \< \>.**
+**रूपनिर्माणं प्रदर्शयितुं, अत्र परस्मैपदधातुभ्यः अपि आत्मनेपदरूपाणि निर्मीयन्ते! एतानि कृत्रिमरूपाणि \< \> मध्ये स्थितानि।**
 :::
 ### 32.4.1. Thematic present classes
 
 ::: grammar-box
 
-| Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| वर्तमानवर्गः | धातुः:br⟪धातु⟫ | ३. एकव. प. | ३. बहुव. प. | ३. एकव. आ. | ३. बहुव. आ. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \&lt;⟪अभवत⟫\&gt; | \&lt;⟪अभवन्त⟫\&gt; |
 | 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \&lt;⟪अनृत्यत⟫\&gt; | \&lt;⟪अनृत्यन्त⟫\&gt; |
@@ -86,11 +86,11 @@ Examples:
 | Passiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
-### 32.4.2. Athematische Präsensklassen
+### 32.4.2. Athematic Present Classes
 
 ::: grammar-box
 
-| Präsensklasse | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| वर्तमानवर्गः | धातुः:br⟪धातु⟫ | ३. एकव. प. | ३. बहुव. प. | ३. एकव. आ. | ३. बहुव. आ. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ \> adveṣ \> adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
 | 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t \> adogdh \> adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
@@ -476,7 +476,7 @@ C) Translate into Sanskrit:
 
 15. Rāma went from the village to the city at the teacher's instruction, entered the house of the holy man, stood reverently before the saint and said: "Desist from anger!"
 
-16. Always (be) his connection with those who have grown in the sciences, so that his education/good behavior grows. (This) because the education/good behavior has as its root this (the connection with such).
+१६. सदा शास्त्रेषु वृद्धैः सह तस्य सम्बन्धः भवतु, येन तस्य शिक्षा/सदाचारः वर्धते। (इदम्) यतः शिक्षायाः/सदाचारस्य मूलम् एतत् (तादृशैः सह सम्बन्धः) अस्ति।
 
 17. While the teacher stands, the boy must not sit.
 
@@ -514,7 +514,7 @@ C) Translate into Sanskrit:
 
 34. It is the dharma of the Kṣatriyas that the Kṣatriyas protect the people from enemies.
 
-35. Therefore, the three (tisras) sciences have governance as their root. Governance that has education/good conduct as its root brings benefit and secure possession to living beings (⟪प्राणभृत्⟫).
+३५. अतः, तिस्रः विद्याः शासनं मूलम् इति धारयन्ति। शासनं यत् शिक्षां/सदाचारं मूलम् इति धारयति, प्राणिभ्यः (⟪प्राणभृत्⟫) लाभं सुरक्षितं च सम्पत्तिं नयति।
 
 36. Böse Leute hören nicht (zu), wenn der Lehrer über den Dharma spricht.
 
@@ -626,7 +626,7 @@ Explanations:
 
 **⟪लक्ष्यीकृ⟫** ⟪च्विऽ⟫-suffix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : to do something as a ⟪लक्ष्य⟫, which previously was not ⟪लक्ष्य⟫
 
-**⟪आदाय⟫** Arc to **⟪आ⟫-⟪दा⟫** (3. Present class) "take"
+**⟪आदाय⟫** अव्ययम् **⟪आ⟫-⟪दा⟫** (३. वर्तमानवर्गः) "गृह्णाति" इत्यस्मात्
 :::
 ::: media
 ![](/images/lekt3210.webp)

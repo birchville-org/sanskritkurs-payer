@@ -457,7 +457,7 @@ Abb.: ⟪विश्वामित्रः⟫
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sagen, sprechen
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : fragen (jemanden: Akk.; nach etwas: Akk.)
-- **saha** ⟪सह⟫ : zusammen mit, gemeinsam mit (auch bei „kämpfen mit“ usw.) (Postposition mit Instrumentalis)
+- **saha** ⟪सह⟫ : معاً، بالاشتراك مع (أيضاً في تراكيب مثل «يُقاتل مع» إلخ.) (حرف جر بعدي مع الأداتية)
 
 ---
 
@@ -3364,7 +3364,7 @@ Inf. ⟪द्रोतुम्⟫
 ⟪प्रति⟫ prefix: zurück، wider، gegen - hin
 
 ::: indent
-z.B.
+مثلاً:
 
 **⟪हन्⟫ + ⟪प्रति⟫** 2P ⟪प्रतिहन्ति⟫ : يضرب مرة أخرى
 

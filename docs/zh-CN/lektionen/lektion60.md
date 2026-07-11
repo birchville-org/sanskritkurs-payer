@@ -19,7 +19,7 @@ status: stable
 
 ## 60.2. 重叠式完成时的双数（⟪द्वित्वलिट्⟫）
 
-### 60.2.1. Typ 1: keine Stammabstufung
+### 60.2.1. 类型 1：无词干元音交替
 
 ⟪बन्ध्⟫ 9P “binden”
 
@@ -169,7 +169,7 @@ status: stable
 
 **Wenn der schwache Perfektstamm nur aus einer Silbe besteht, wird der Bindevokal -i- angehängt. Bei einigen Perfektformen ist der Bindevokal optional.**
 :::
-Beispiele:
+例如：
 
 | ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ “分裂者” |
 | --- | --- |
@@ -181,8 +181,8 @@ Beispiele:
 ::: grammar-box
 **变格：**
 
-*   **Starker Stamm: -vāṃs**
-*   **Schwacher Stamm:**
+*   **强词干：-vāṃs**
+*   **弱词干：**
     *   **Vor Konsonant: -vat** **(!)**
     *   **Vor Vokal: -uṣ**
 
@@ -190,11 +190,11 @@ Beispiele:
 
 **阴性：**
 
-**Schwacher Stamm vor Vokal + -ī (dekliniert wie ⟪देवी⟫)**
+**弱词干在元音后 + -ī（变位同⟪देवी⟫）**
 
-Beispiel: ⟪विदुषी⟫ "eine Wissende"
+示例：⟪विदुषी⟫ “一位有知者”
 :::
-Siehe Paradigmen bei Kielhorn, Grammatik § 124:
+参见Kielhorn语法§124中的变位表：
 
 ::: media
 ![](/images/lekt6001.webp)
@@ -227,7 +227,7 @@ Siehe Paradigmen bei Kielhorn, Grammatik § 124:
 
 **阴性：**
 
-**Schwacher Stamm vor Vokal + -ī (dekliniert wie ⟪देवी⟫)**
+**弱词干在元音后 + -ī（变位同 ⟪देवी⟫）**
 
 示例：⟪प्रतीची⟫
 :::
@@ -257,15 +257,15 @@ Siehe Paradigmen bei Kielhorn, Grammatik § 124:
 
 *   ⟪विष्वञ्च्⟫ 3 “in alle Richtungen gehend”
 
-### 60.5.2. Zweistämmige Stämme auf -añc
+### 60.5.2. 以 -añc 结尾的双词干
 
 ::: grammar-box
 **教育：**
 
-*   **starker Stamm: -añc**
-*   **schwacher Stamm vor Konsonant bzw. Vokal: -ac**
-:::
-Hierher gehören:
+*   **强词干：-añc**
+*   **schwacher Stamm vor Konsonant bzw. Vokal: -ac** → 弱词干（辅音或元音前）：-ac
+::: → :::
+属于此类：→ 属于此类：
 
 *   ⟪प्राञ्च्⟫ 3 “朝前，东方”
 *   ⟪अवाञ्च्⟫ 3 “朝下”
@@ -299,7 +299,7 @@ Paradigma ⟪प्राञ्च्⟫ siehe oben!
 | ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ “他欲窃” |
 | ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ “他欲教（启悟其知）” |
 
-### 60.6.1. Bildung des Desiderativstammes
+### 60.6.1. 愿望式词干的构成
 
 ::: grammar-box
 **词根与第一至第九现在时词类的关系：**
@@ -350,11 +350,11 @@ Paradigma ⟪प्राञ्च्⟫ siehe oben!
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- “适宜、想要”  
             ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- “微笑、想要”
 
-2.  wahlweise: Wurzeln der Form Konsonant - (Konsonant -) i/u - Konsonant außer -v\_  
-            ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "aufzublitzen wünschen"
-:::
-::: grammar-box
-**Zur Reduplikation:**
+[0] 2. 可选：形式为辅音 - (辅音 -) i/u - 辅音，除 -v\_  
+[1]             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- “渴望闪烁”
+[2] :::
+[3] ::: grammar-box
+[4] **关于重叠：**
 
 1. 以辅音开头的词根：重叠形式按照上述规则修改后的词根，遵循通常的重叠规则。以 i 代替 a 作为重叠元音出现：  
     ⟪पा⟫ » ⟪पिपास⟫-  

@@ -101,10 +101,10 @@ status: stable
 ⟪अस्⟫ 2P und ⟪अस्⟫ 4P
 
 ::: indent
-*   1.sg.P ⟪आस⟫
-*   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
+*   第一人称单数现在时 ⟪आस⟫
+*   第一人称复数现在时 ⟪आसिम⟫ (a + as-i-ma)
 :::
-### 40.2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 40.2.2. 完成时类型 II：强干高元音级，弱干低元音级
 
 遵循此类型的动词：
 
@@ -213,11 +213,11 @@ status: stable
 :::
 ### 40.2.4. 第四类完成时：以 -ā / -ai 结尾的词根
 
-*   Starker Stamm:
-    *   1.,3. sg. Parasamaip.: -au
-*   Schwacher Stamm:
-    *   vor Konsonant: Tiefstufe-i
-    *   vor Vokal: Tiefstufe-ø
+*   强词干：
+*   第一、三人称单数，第三人称独立式后缀：-au
+*   弱词干：
+*   辅音前：中等级-i
+*   元音前：中等级-ø
 
 ⟪दा⟫ 3U
 
@@ -409,10 +409,10 @@ status: stable
 
 在 च、वा、एव 这些助词之前，也不得使用这些所谓的附缀形式：
 
-nur: ... ⟪मां⟫ ⟪च⟫ ... “und mich”
+nur：... ⟪मां⟫ ⟪च⟫ ... “和我”
 :::
 ::: grammar-box
-Der Genitiv (⟪षष्ठी⟫) der Personalpronomina wird als besitzanzeigendes Fürwort verwendet:
+人称代词的属格（⟪षष्ठी⟫）用作所有格代词：
 
 ⟪मम⟫ ⟪।⟫ ⟪मे⟫ = “我的”
 
@@ -498,14 +498,14 @@ davon:
 ::: indent
 其中：
 
-⟪अवतार⟫ m.: (Herabsteiger, Herabstieg) Inkarnation eines Gottes, bes. Viṣṇus 10 Inkarnationen (s. Basham, Wonder S. 304 - 309)
+⟪अवतार⟫ m.:（下降者，下降）神的化身，尤其是毗湿奴的十个化身（见Basham，《奇迹》第304-309页）
 :::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
-Abb.: ⟪विष्णोर्दशावताराः⟫
-(Bildquelle: [Details](/zh-CN/licenses#lekt4001))
+图：⟪विष्णोर्दशावताराः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4001)）
 ::::
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : schlafen, sich schlafen legen
+⟪स्वप्⟫ 第二人称 ⟨स्वपिति⟫， ⟪स्वपन्ति⟫ ：睡觉，躺下休息
 
 ::: indent
 未完成时态 ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  

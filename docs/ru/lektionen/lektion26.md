@@ -1,9 +1,9 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: Урок 26
+subtitle: "Закон церебрализации -s- в середине слова"
 lesson_id: 26
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "Грамматика"
 status: stable
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Lektion 8
-subtitle: "Bildung von Nomina & 8. Präsensklasse"
+subtitle: "名词构成与第8现在时类"
 lesson_id: 8
 category: "Grammatik"
 status: "stable"
@@ -175,7 +175,7 @@ last_reconstructed: 2026-05-07
 
 ---
 
-## 8.4. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.")
+## 8.4. 第8现在时类（tanādi = ⟪तनादि⟫ = "tan 等"）
 
 ::: grammar-box
 **词干构成：**

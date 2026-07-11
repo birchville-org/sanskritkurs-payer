@@ -418,13 +418,13 @@ Exemples :
 :::
 Exemples :
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रीयति⟫ "er wünscht sich einen Sohn" |
+| ⟪पुत्र⟫ m. «fils» | ⟪पुत्रीयति⟫ «il souhaite un fils» |
 | --- | --- |
-| ⟪कवि⟫ m. "Dichter" | ⟪कवीयति⟫ "er wünscht sich einen Dichter" |
-| ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" |
-| ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" |
-| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" |
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" |
+| ⟪कवि⟫ m. «poète» | ⟪कवीयति⟫ «il souhaite un poète» |
+| ⟪गो⟫ f. «vache» | ⟪गव्यति⟫ «il souhaite une vache» |
+| ⟪राजन्⟫ m. «roi» | ⟪राजीयति⟫ «il souhaite un roi» |
+| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ «il traite quelqu'un comme Viṣṇu» |
+| ⟪प्रासाद⟫ m. «palais» | ⟪प्रासादीयति⟫ «il considère (par ex. sa hutte) comme un palais» |
 
 Veuillez noter l'importance de :
 
@@ -453,9 +453,9 @@ Fig. : ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥�
 :::
 Exemples :
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
+| ⟪पुत्र⟫ m. "fils" | ⟪पुत्रकाय्म्यति⟫ "il souhaite un fils" |
 | --- | --- |
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" |
+| ⟪यशस्⟫ n. "gloire" | ⟪यशस्काम्यति⟫ "il souhaite la gloire" |
 
 ::: media
 ![](/images/lekt6109.webp)
@@ -504,10 +504,10 @@ Karli
 
 Exemples :
 
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa |
+| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ «il se comporte comme Kṛṣṇa |
 | --- | --- |
-| ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" |
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
+| ⟪यशस्⟫ 3 «célèbre» | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ «il se comporte comme un Célèbre» |
+| ⟪कुमारी⟫ f. «fille» | ⟪कुमारायते⟫ «il se comporte comme une Fille» |
 
 ::: grammar-box
 **Pour certaines bases nominales, ce suffixe signifie : quelque chose devient comme ce qui est désigné par la base nominale, ou devient ce qui est désigné par la base nominale :**
@@ -558,7 +558,7 @@ Fig. :
 :::
 
 ::: indent
-**Westergaard**, Niels Ludvig \<1815-1878\> : Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
+**Westergaard**, Niels Ludvig \&lt;1815-1878\&gt; : Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
 ## 61.5. Le bénédictif (⟪आशीर्लिङ्⟫)
 

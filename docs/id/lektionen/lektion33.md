@@ -8,14 +8,14 @@ status: stable
 
 ## 33.1. Reduplication (⟪अभ्यास⟫ m.)
 
-* The third present class
+* Kelas ketiga kini
 * (as well as certain verbs of other present classes),
 * the perfect,
 * the reduplicated aorist,
 * the frequentative, and
 * the desiderative
 
-are formed via reduplication. The portion of a reduplicated form that precedes the root is termed the reduplication syllable.
+dibentuk melalui reduplikasi. Bagian dari bentuk yang direduplikasi yang mendahului akar disebut suku kata reduplikasi.
 
 The reduplication syllable consists of (a consonant and) a vowel.
 
@@ -23,9 +23,9 @@ The reduplication syllable consists of (a consonant and) a vowel.
 
 ::: grammar-box
 **1. Generally:**  
-**The first consonant of the root is repeated.**
+**Konsonan pertama dari akar diulang.**
 :::
-Examples:
+Contoh:
 
 ::: indent
 **⟪दा⟫** 3 "to give"
@@ -38,9 +38,9 @@ Examples:
 * 3.sg.Ā.Ind.Pres. **⟪मिमीते⟫**
 :::
 ::: grammar-box
-**2. An initial aspirated consonant of a root is reduplicated by the corresponding unaspirated consonant.**
+**2. Konsonan aspirasi awal dari sebuah akar direduplikasi dengan konsonan tak-aspirasi yang sesuai.**
 :::
-Examples:
+Contoh:
 
 ::: indent
 **⟪धा⟫** 3 "to place"
@@ -58,51 +58,51 @@ Examples:
 **⟪ग्⟫**, **⟪घ्⟫** by **⟪ज्⟫**
 :::
 **⟪ह्⟫ is always reduplicated by ⟪ज्⟫.**
-Examples:
+Contoh:
 
 ::: indent
 **⟪हु⟫** 3 "(to pour) into the fire"
 * 3.sg.P.Ind.Pres. **⟪जुहोति⟫**
 :::
 ::: grammar-box
-**4. If a root begins with a consonant cluster, only the first consonant is repeated (applying rules 2 or 3 if necessary).**
+**4. Jika sebuah akar dimulai dengan gugus konsonan, hanya konsonan pertama yang diulang (menerapkan aturan 2 atau 3 jika perlu).**
 :::
 ::: grammar-box
-**5. If a root begins with a sibilant + voiceless consonant cluster, the sibilant is not reduplicated; rather, the following voiceless consonant is reduplicated according to the above rules.**
+**5. Jika sebuah akar dimulai dengan sibilant + gugus konsonan tak-bersuara, sibilant tidak direduplikasi; melainkan, konsonan tak-bersuara berikutnya direduplikasi sesuai aturan di atas.**
 :::
-Example:
+Contoh:
 
 ::: indent
 **⟪स्था⟫** 1 "to stand"
 * 3.sg.P.Ind.Pres. **⟪तिष्ठति⟫**
 :::
-## 33.2. The Third Present Class (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ et al.")
+## 33.2. Kelas Ketiga Kini (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ dkk.")
 
 ::: grammar-box
 **Formation:**
 
-**strong stem:**  
-**reduplicated high-grade root + ending**
+**batang kuat:**
+**akar tingkat-tinggi yang direduplikasi + akhiran**
 
-**weak stem:**  
-**reduplicated low-grade root + ending**
+**batang lemah:**
+**akar tingkat-rendah yang direduplikasi + akhiran**
 
 **The rules for the reduplication consonant provided above apply.**
 :::
-### 33.2.1. The Reduplicating Vowel of the 3rd Present Class
+### 33.2.1. Vokal Reduplikasi dari Kelas Ketiga Kini
 
 ::: grammar-box
 * **The regular reduplicating vowel is -i-**
-* **Roots containing -u- reduplicate with -u-**
-* **The roots ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ reduplicate with -a-**
+* **Akar yang mengandung -u- direduplikasi dengan -u-**
+* **Akar ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ direduplikasi dengan -a-**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
 **⟪हु⟫** 3P "(to pour) into the fire (as an offering)"
 
-* **strong stem:** ⟪जुहो⟫
-* **weak stem:** ⟪जुहु⟫
+* **batang kuat:** ⟪जुहो⟫
+* **batang lemah:** ⟪जुहु⟫
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -130,7 +130,7 @@ The two most important ablaut series of the ā-group are:
 * **Strong grade: -ā-**  
   e.g. **⟪धा⟫** 3.sg.P.Ind.Pres. **⟪दधाति⟫**
 :::
-Also belonging here is, for example:
+Juga termasuk di sini adalah, misalnya:
 
 ::: indent
 **⟪स्था⟫** 1
@@ -145,12 +145,12 @@ Also belonging here is, for example:
 * **Strong grade: -ā-**  
   e.g. **⟪पा⟫** 1: Inf. **⟪पातुम्⟫**
 :::
-## 33.4. Roots ending in -ā of the third present class
+## 33.4. Akar yang berakhir dengan -ā dari kelas ketiga kini
 
 ::: grammar-box
-**Roots ending in -ā (except ⟪दा⟫ and ⟪धा⟫) typically exhibit a stem form ending in -ī- in the weak stem** (see Thumb-Hauschild Vol. 1,1 p. 271. It is likely that the ablaut series B mentioned above served as a model here, although these roots otherwise follow series A), **before vocalic endings the root vowel disappears completely (see ablaut series A).**
+**Akar yang berakhir dengan -ā (kecuali ⟪दा⟫ dan ⟪धा⟫) biasanya menunjukkan bentuk batang yang berakhir dengan -ī- dalam batang lemah** (lihat Thumb-Hauschild Vol. 1,1 hlm. 271. Kemungkinan bahwa seri ablaut B yang disebutkan di atas berfungsi sebagai model di sini, meskipun akar-akar ini sebaliknya mengikuti seri A), **sebelum akhiran vokalik vokal akar menghilang sepenuhnya (lihat seri ablaut A).**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
 **⟪मा⟫** 3Ā "to measure"
@@ -168,12 +168,12 @@ Examples:
 | :--- | :--- | :--- |
 | **Indicative Present** | ⟪जहाति⟫ | ⟪जहति⟫:br(jah-ati) |
 | **Imperfect** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
-| **Optative** | ⟪जह्यात्⟫:br(jah-yā-t):br(The root **⟪हा⟫** has the same form before the optative -yā/-y as before vowels!) | ⟪जह्युर्⟫:br(jah-y-ur) |
+| **Optatif** | ⟪जह्यात्⟫:br(jah-yā-t):br(Akar **⟪हा⟫** memiliki bentuk yang sama sebelum optatif -yā/-y seperti sebelum vokal!) | ⟪जह्युर्⟫:br(jah-y-ur) |
 :::
-### 33.4.1. The Roots **⟪दा⟫** and **⟪धा⟫**
+### 33.4.1. Akar **⟪दा⟫** dan **⟪धा⟫**
 
 ::: grammar-box
-**The roots ⟪दा⟫ and⟪धा⟫ reduplicate with the vowel -a- and lose the root vowel in the weak stem.**
+**Akar ⟪दा⟫ dan⟪धा⟫ direduplikasi dengan vokal -a- dan kehilangan vokal akar dalam batang lemah.**
 
 **Note the aspiration dissimilation rule for ⟪धा⟫!**
 :::
@@ -197,12 +197,12 @@ The forms of **⟪दा⟫** are obtained by replacing **dh** with **d** in the
 | **Imperfect** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Optative** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
 :::
-## 33.5. The Present Active Participle of the Roots of the 3rd Present Class
+## 33.5. Partisipel Aktif Kini dari Akar-akar Kelas Ketiga Kini
 
 ::: grammar-box
-**The verbs of the 3rd class form all forms of the Present Active Participle from the weak stem.**
+**Verba dari kelas ketiga membentuk semua bentuk Partisipel Aktif Kini dari batang lemah.**
 
-**Exception: The Nominative/Accusative Plural Neuter may optionally be formed from either the strong or the weak stem.**
+**Pengecualian: Nominatif/Akusatif Jamak Netral dapat secara opsional dibentuk dari batang kuat atau batang lemah.**
 :::
 **⟪दा⟫** Present Active Participle:
 

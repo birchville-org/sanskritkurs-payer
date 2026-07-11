@@ -19,7 +19,7 @@ status: stable
 
 **formés. Ce sont des noms d'agent, c'est-à-dire qu'ils désignent un agent (⟪कर्तृ⟫), qui accomplit l'action désignée par la racine sous-jacente.**
 
-**Solche Komposita werden von den einheimischen Kommentatoren nicht durch Nominalkombinationen, sondern mittels Verbalformen aufgelöst:**
+**De tels composés ne sont pas résolus par les commentateurs indigènes au moyen de combinaisons nominales, mais à l'aide de formes verbales :**
 
 Beispiele:
 

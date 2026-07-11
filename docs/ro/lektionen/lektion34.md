@@ -135,9 +135,9 @@ Exemple:
 :::
 ## 34.3. Tipuri ale perfectului cu reduplicare
 
-Principiul de clasificare: particularități ale alternanței stem-ului:
-*   Perfect fără alternanța stem-ului: Tipul I
-*   Perfect cu alternanța stem-ului: Tipurile II - V
+Principiul de clasificare: particularități ale alternanței rădăcinii:
+*   Perfect fără alternanța rădăcinii: Tipul I
+*   Perfect cu alternanța rădăcinii: Tipurile II - V
 *   formări de perfect neregulate
 
 ## 34.4. Tipul I al Perfectului: Perfect fără reducere a temei

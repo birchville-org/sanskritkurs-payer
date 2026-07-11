@@ -88,7 +88,7 @@ status: stable
 
 **पुनरावृत्ति व्यंजन के लिए ऊपर दिए गए नियम लागू होते हैं।**
 :::
-### 33.2.1. Der Reduplikationsvokal der 3. Präsensklasse
+### 33.2.1. तृतीय प्रेज़ेन्स्-वर्ग का पुनरावृत्ति स्वर
 
 ::: grammar-box
 * **⟪प्रबल⟫ ⟪प्रत्यय⟫:**  
@@ -114,9 +114,9 @@ status: stable
 ā kann
 
 * एकतरफ़ एक ध्वनि-श्रृंखला का विस्फोट स्तर -a- होना चाहिए
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* दूसरी ओर ā-समूह की एक अपलौट्-श्रेणी में उच्च-स्तर होना चाहिए
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+ā-समूह की दो सबसे महत्वपूर्ण अपलौट्-श्रेणियाँ हैं:
 
 ::: grammar-box
 **अ.**
@@ -196,7 +196,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 | **संभावनालिट्** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Optativ** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
 :::
-## 33.5. Das Partizip Präsens Parasmaipada der Wurzeln der 3. Präsensklasse
+## 33.5. तृतीय प्रेज़ेन्स्-वर्ग के धातुओं का वर्तमान कृदन्त परस्मैपद
 
 ::: grammar-box
 **तीसरे वर्ग के सभी क्रियापद वर्तमान काल के कर्तावाच्य भाववाचक शब्द (परास्मैपद) के सभी रूप दुर्बल प्रत्यय से बनाते हैं।**

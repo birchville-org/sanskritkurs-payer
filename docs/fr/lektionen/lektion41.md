@@ -67,7 +67,7 @@ Exemples :
 | Racine / Classe | Participe présent Ā |
 | :--- | :--- |
 | **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
+| **⟪हु⟫** 3P | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
 | **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
@@ -104,9 +104,9 @@ Exemples :
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪जि⟫ 1P | ⟪जेतव्य⟫ 3 | "jemand, der besiegt werden muss; ein zu besiegender" |
-| ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | "das, wo man sich befinden soll" |
-| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" |
+| ⟪जि⟫ 1P | ⟪जेतव्य⟫ 3 | « quelqu'un qui doit être vaincu ; un à vaincre » |
+| ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | « ce, où l'on doit se trouver » |
+| ⟪बुध्⟩ Kaus. | ⟪बोधयितव्य⟩ | « quelqu'un qui doit être réveillé ; un à réveiller » |
 
 :::
 #### 41.2.2.2. Le suffixe -⟪अनीय⟫ / -⟪अनीया⟫
@@ -116,7 +116,7 @@ Exemples :
 
 Racine de haut niveau + -⟪अनीय⟫ / -⟪अनीया⟫
 
-**Causatif et 10\<sup\>e\</sup\> classe de présent :**
+**Causatif et 10\&lt;sup\&gt;e\&lt;/sup\&gt; classe de présent :**
 
 Racine, telle qu’elle apparaît dans le causatif, sans -aya- + -⟪अनीय⟫ / -⟪अनीया⟫
 :::
@@ -126,12 +126,12 @@ Exemples :
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪दा⟫ 3U | ⟪दानीय⟫ 3 | "zu gebendes; was gegeben werden muss" |
-| ⟪जि⟫ 1P | ⟪जयनीय⟫ 3 | "zu besiegender" |
-| ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "zu tuendes" |
-| ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "was man sehen muss; sehenswertes" |
-| ⟪बुध्⟫ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "ein zu weckender" |
-| ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" |
+| ⟪दा⟫ 3U | ⟪दानीय⟫ 3 | "ce qui doit être donné ; ce qui est à donner" |
+| ⟪जि⟫ 1P | ⟪जयनीय⟫ 3 | "celui qui doit être vaincu" |
+| ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "ce qui doit être fait" |
+| ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "ce qu'il faut voir ; ce qui est digne d'être vu" |
+| ⟪बुध्⟩ Kaus. | ⟪बोधनीय⟩ 3:brbodh-aya - aya + -anīya | "celui qui doit être éveillé" |
+| ⟪दा⟩ Kaus. | ⟪दापनीय⟩ 3:brdā-paya - aya + -anīya | "ce qui doit être donné" |
 
 :::
 #### 41.2.2.3. Le suffixe -⟪य⟫ / -⟪या⟫
@@ -154,8 +154,8 @@ Exemples :
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | "zu wissendes; was erkannt werden muss" |
-| ⟪दा⟫ 3U | ⟪देय⟫ 3 | "was gegeben werden muss" |
+| ⟪ज्ञा⟫ 9U | ⟪ज्ञेय⟫ 3 | «ce qui doit être connu ; ce qui doit être compris» |
+| ⟪दा⟫ 3U | ⟪देय⟫ 3 | «ce qui doit être donné» |
 
 :::
 ::: grammar-box
@@ -198,8 +198,8 @@ Exemple :
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "was gepriesen werden soll" |
-|   | ⟪स्ताव्य⟫ 3 | "was notwendig gepriesen werden muss" |
+| ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "ce qui doit être loué" |
+|   | ⟪स्ताव्य⟫ 3 | "ce qui doit être loué de manière nécessaire" |
 
 :::
 Exemples de racines se terminant par une consonne (règles voir Kielhorn, Grammaire § 533ss.) :
@@ -212,8 +212,8 @@ Exemples :
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "sehenswert" |
-| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "jemand, der zu belehren ist = Schüler" |
+| ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "digne d'être vu" |
+| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "celui qui doit être instruit = élève" |
 
 :::
 ::: media
@@ -372,7 +372,7 @@ Fig. : ⟪शास्त्री⟫
 ::: deleteme-box
 voir aussi :
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit monastique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit monastique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f. : jeune fille, fille, vierge
 

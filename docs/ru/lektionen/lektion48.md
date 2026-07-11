@@ -163,9 +163,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \&lt;⟪जुहवै⟫\&gt; | \&lt;⟪जुहवामहै⟫\&gt; |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \&lt;⟪जुहुष्व⟫\&gt; | \&lt;⟪जुहुध्वम्⟫\&gt; |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \&lt;⟪जुहुताम्⟫\&gt; | \&lt;⟪जुह्वताम्⟫\&gt; |
 
 Прим.: ¹ Дссимиляция, так что за двумя слогами с **⟪ह्⟫** не следует другой такой же слог.
 :::
@@ -421,7 +421,7 @@ B) Переведите на санскрит (используйте повел
 
 **lekt4807:** ⟪जोधपुर⟫ [Источник изображения: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Доступ от 2009-01-10. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Указание авторства, некоммерческое использование, без производных произведений)]
 
-**lekt4808:** Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [Источник изображения: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Доступ от 2009-01-10. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Указание авторства, share alike)]
+**lekt4808:** Озеро Каранджи = ಕಾರಂಜಿ ಕೆರೆ [Источник изображения: Нагеш Камат. -- [http://www.flickr.com/photos/nagesh_kamath/2791791571/](http://www.flickr.com/photos/nagesh_kamath/2791791571/). -- Доступ от 2009-01-10. -- [Лицензия Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Указание авторства, share alike)]
 
 **lekt4809:** (Изображение: Пайер)
 :::

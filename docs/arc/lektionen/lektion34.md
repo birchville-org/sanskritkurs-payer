@@ -8,7 +8,7 @@ status: stable
 
 ## 34.1. Das Perfekt (⟪लिट्⟫)
 
-In classical Sanskrit, there are only indicative and participle forms from the perfect stem.
+Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ- und Partizipialformen.
 
 ::: grammar-box
 **There are two types of perfect formation:**
@@ -18,28 +18,28 @@ In classical Sanskrit, there are only indicative and participle forms from the p
 ::: grammar-box
 **The periphrastic perfect (⟪अनुप्रयोगलिट्⟫) is used:**
 1. **in the derived conjugations (causative, desiderative, frequentative, denominative)**
-2. **with roots that begin with a long vowel (except ā-) or with a vowel (except a-) before two consonants**
-3. **with some other roots**
+2. **bei Wurzeln, die mit einem langen Vokal (außer ā-) beginnen oder mit einem Vokal (außer a-) vor zwei Konsonanten**
+3. **bei einigen anderen Wurzeln**
 :::
 ## 34.2. The reduplicated perfect (⟪द्वित्वलिट्⟫)
 
 ### 34.2.1. Stammabstufung
 
 ::: grammar-box
-**Education:**
+**Bildung:**
 
-**strong stem:** singular parasmaipada
-*   **reduplicated strong-grade or lengthened-grade root + perfect ending**
+**starker Stamm:** Singular Parasmaipada
+*   **reduplizierte Wurzel in Hochstufe oder Dehnstufe + Perfektendung**
 
-**weak stem:** all other forms
-*   **reduplicated root in guṇa grade + perfect ending**
+**schwacher Stamm:** alle anderen Formen
+*   **reduplizierte Wurzel in Guṇastufe + Perfektendung**
 :::
 ::: grammar-box
-**Generally (also outside the perfect) roots of the form do not undergo stem gradation:**
+**Generell (auch außerhalb des Perfekts) erfahren Wurzeln der Form keine Stammabstufung:**
 *   **(consonant)-consonant-long vowel-consonant**
 *   **(consonant)-consonant-vowel-consonant-consonant**
 
-**In the perfect, there is also no stem gradation for roots of the form:**
+**Im Perfekt gibt es auch keine Stammabstufung bei Wurzeln der Form:**
 *   **a-consonant**
 *   **ā-consonant**
 :::
@@ -56,20 +56,20 @@ In classical Sanskrit, there are only indicative and participle forms from the p
 ### 34.2.3. Bindevokal -i-
 
 ::: grammar-box
-**Before the ending of the 3.pl.Ā (-re) always appears the connecting vowel -i-, before the other consonant-initial endings in the majority of roots.**
+**Vor der Endung der 3.Pl.Ā (-re) erscheint immer der Bindevokal -i-, vor den übrigen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln.**
 :::
-### 34.2.4. Reduplication of consonant-initial roots
+### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
 
 ::: grammar-box
 **For the reduplication of initial consonants, the rules given in [Lesson 33](lektion33.md) apply.**
 
-**The reduplicating vowel before consonant-initial roots is the short root vowel.**
+**Der Reduplikationsvokal vor konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.**
 
 **Diphthongs before consonants are reduced to the corresponding short low-grade vowel.**
 
 **ṛ, ṝ, ḷ, and final diphthongs are reduplicated with -a-.**
 :::
-Examples:
+Beispiele:
 
 ::: grammar-box
 
@@ -81,9 +81,9 @@ Examples:
 
 :::
 ::: grammar-box
-**Some roots beginning with y- or v- reduplicate with i- or u-, which in the weak forms "merges" with the root vowel.**
+**Einige mit y- oder v- anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal „verschmilzt".**
 :::
-Examples:
+Beispiele:
 
 ::: grammar-box
 
@@ -93,12 +93,12 @@ Examples:
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 :::
-### 34.2.5. Reduplication of roots beginning with a vowel
+### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
 
 ::: grammar-box
 **1. Initial a-, ā- is reduplicated with a-, resulting in ā-.**
 :::
-Examples:
+Beispiele:
 
 ::: grammar-box
 
@@ -108,9 +108,9 @@ Examples:
 
 :::
 ::: grammar-box
-**2. Roots with initial i- have iy- as the reduplication syllable in the strong stem, i- in the weak stem, which merges with the root vowel to form ī-. The same applies to initial u-.**
+**2. Wurzeln mit anlautendem i- haben im starken Stamm iy- als Reduplikationssilbe, im schwachen Stamm i-, das mit dem Wurzelvokal zu ī- verschmilzt. Entsprechendes gilt für anlautendes u-.**
 :::
-Examples:
+Beispiele:
 
 ::: grammar-box
 
@@ -121,9 +121,9 @@ Examples:
 
 :::
 ::: grammar-box
-**3. Roots that begin with a- before two consonants or with ṛ-, have ān- as their reduplicating syllable**
+**3. Wurzeln, die mit a- vor zwei Konsonanten oder mit ṛ- anlauten, haben ān- als Reduplikationssilbe**
 :::
-Examples:
+Beispiele:
 
 ::: grammar-box
 
@@ -140,16 +140,16 @@ Einteilungsprinzip: Besonderheiten der Stammabstufung:
 *   Perfekt mit Stammabstufung: Typ II - V
 *   unregelmäßige Perfektbildungen
 
-## 34.4. Perfect Type I: Perfect without stem gradation
+## 34.4. Perfekt Typ I: Perfekt ohne Stammabstufung
 
 ::: grammar-box
-**Perfect Type I (without stem alternation) have roots of the types:**
+**Perfekt Typ I (ohne Stammwechsel) haben Wurzeln der Typen:**
 *   **(Consonant)-Consonant-LongVowel-Consonant**
 *   **(Consonant)-Consonant-Vowel-Consonant-Consonant**
 *   **a-Consonant**
 *   **ā-Consonant**
 :::
-Examples:
+Beispiele:
 
 ::: grammar-box
 
@@ -162,15 +162,15 @@ Examples:
 | ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
-## 34.5. Perfekttyp II: Starker Stamm in Hochstufe, schwacher Stamm in Tiefstufe
+## 34.5. Perfekt Typ II: Starker Stamm in Vollstufe, schwacher Stamm in Schwundstufe
 
 ::: grammar-box
-**Formed by roots of the form:**
+**Gebildet von Wurzeln der Form:**
 *   **(Consonant)-(Consonant)-i/u/ṛ/ḷ-Consonant**
 
-**Bildung:**
-*   **starker Stamm: Hochstufe**
-*   **schwacher Stamm: Tiefstufe**
+**Formation:**
+*   **starker Stamm: Vollstufe**
+*   **schwacher Stamm: Schwundstufe**
 :::
 Beispiele:
 

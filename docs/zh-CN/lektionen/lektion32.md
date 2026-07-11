@@ -78,9 +78,9 @@ status: stable
 
 | 现在时类别 | 词根：br⟪धातु⟫ | 第三人称单数主动 | 第三人称复数主动 | 第三人称单数被动 | 第三人称复数被动 |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 第一类 | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \<⟪अभवत⟫\> | \<⟪अभवन्त⟫\> |
-| 第四类 | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \<⟪अनृत्यत⟫\> | \<⟪अनृत्यन्त⟫\> |
-| 第六类 | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \<⟪अविशत⟫\> | \<⟪अविशन्त⟫\> |
+| 第一类 | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \&lt;⟪अभवत⟫\&gt; | \&lt;⟪अभवन्त⟫\&gt; |
+| 第四类 | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \&lt;⟪अनृत्यत⟫\&gt; | \&lt;⟪अनृत्यन्त⟫\&gt; |
+| 第六类 | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \&lt;⟪अविशत⟫\&gt; | \&lt;⟪अविशन्त⟫\&gt; |
 | 第十类 / 使动 | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
 | 被动语态 | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
@@ -98,7 +98,7 @@ status: stable
 | 2. | ⟪स्तु⟫ | ⟪अस्तौत्⟫:br⟪अस्तवीत्⟫ | ⟪अस्तुवन्⟫ | ⟪अस्तुत⟫ | ⟪अस्तुवत⟫ |
 | 2. | ⟪अस्⟫ | ⟪आसीत्⟫ | ⟪आसन्⟫ | | |
 | 5. | ⟪सु⟫ | ⟪असुनोत्⟫ | ⟪असुन्वन्⟫ | ⟪असुनुत⟫ | ⟪असुन्वत⟫ |
-| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \<⟪आप्नुत⟫\> | \<⟪आप्नुवत⟫\> |
+| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \&lt;⟪आप्नुत⟫\&gt; | \&lt;⟪आप्नुवत⟫\&gt; |
 | 8. | ⟪तन्⟫ | ⟪अतनोत्⟫ | ⟪अतन्वन्⟫ | ⟪अतनुत⟫ | ⟪अतन्वत⟫ |
 | 8. | ⟪कृ⟫ | ⟪अकरोत्⟫ | ⟪अकुर्वन्⟫ | ⟪अकुरुत⟫ | ⟪अकुर्वत⟫ |
 | 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t > ayunakt > ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
@@ -236,7 +236,7 @@ status: stable
 :::
 ## 第32课 练习
 
-A) Bestimmen Sie folgende Verbformen und bilden Sie die in Person, Zahl und Genus verbis entsprechenden Imperfektformen:
+[A] 确定以下动词形式，并构成与人称、数和语态相应的未完成时（Imperfekt）形式：
 
 1. ⟪हरि्ष्यन्ते⟫
 2. ⟪घातयति⟫
@@ -336,7 +336,7 @@ B) 翻译并解析以下梵文复合词：
 
 注：此课程最初在蒂宾根大学于每学期冬季开设。第32课开始为期两周的圣诞节假期。
 
-A) Bestimmen und übersetzen Sie folgende Wörter:
+[A] 确定并翻译以下词汇：
 
 1. ⟪देवस्य⟫
 2. ⟪उषितायाः⟫
@@ -483,7 +483,7 @@ C) 翻译成梵文：
 
 19. 毗湿奴密多罗派罗摩将戈文达送往村庄。
 
-20. Govinda lässt den Devadatta Reis kochen.
+20。Govinda 让 Devadatta 煮米饭。
 
 21. 雅利安人的达摩是，年轻的婆罗门应反复研习吠陀与《斯摩提》的章节。
 
@@ -505,7 +505,7 @@ C) 翻译成梵文：
 
 30. 业瑜伽是苦行（tapas n.）、吠陀诵持以及对主的服务。它有助于培养冥想专注并削弱烦恼（kleśas）。
 
-31. Nahrungsaufnahme, Schlaf, Furcht und Paarung: dies ist eine Gemeinsamkeit der Menschen mit den Tieren. Im Dharma (liegt) nämlich deren hinzukommende Besonderheit. Vom Dharma verlassen sind sie den Tieren (Instr.) gleich。
+31. 饮食、睡眠、恐惧与交配：这是人类与动物的共同点。事实上，法（dharma）赋予了他们额外的特殊性。离开法之后，他们就与动物（工具格）无异。
 
 32. 人们生来就是为了死去。
 
@@ -513,7 +513,7 @@ C) 翻译成梵文：
 
 34. 刹帝利的法则是，刹帝利保护人民免受敌人的侵害。
 
-35. Daher haben die drei (tisras) Wissenschaften die Regierung als Wurzel. Die Regierung, die Erziehung/gutes Benehmen als Wurzel hat, bringt den Lebewesen (⟪प्राणभृत्⟫) Gewinn und sicheren Besitz.
+35. 因此，这三种（tisras）学问以统治为根本。以教育/良好行为为根本的统治，能给众生（⟪प्राणभृत्⟫）带来利益和稳固的拥有。
 
 36. 恶人听不进老师讲法。
 
@@ -521,7 +521,7 @@ C) 翻译成梵文：
 
 38. 崇高的哈里是我的道路/目标，他将敌人送入天堂，让他的追随者知晓吠陀的真义，赐予众神不朽的食物，教导创造者（⟪विधि⟫）吠陀，并将大地稳固于水中。
 
-39. Viṣṇu zeigt sich seinen Anhängern.
+39. Viṣṇu zeigt sich seinen Anhängern。
 
 40. 未予行使的统治，会产生鱼类的规范。
 
@@ -638,7 +638,7 @@ Indischer Gruß / Abschied.
 
 **lekt3203:** 猴子（恒河猴）在德里。[图片来源：dewalt / Flickr。CC BY-NC-SA]
 
-**lekt3204:** Steinbruch südlich von Pune, Maharashtra. [Bildquelle: lecercle / Flickr. CC BY-NC-SA]
+**lekt3204:** 浦那南部的采石场，马哈拉施特拉邦。[图片来源：lecercle / Flickr. CC BY-NC-SA]
 
 **lekt3205:** 靶场练习 / 箭靶，卡纳塔克邦。[图片来源：mattlogelin / Flickr。CC BY-NC]
 
@@ -646,9 +646,9 @@ Indischer Gruß / Abschied.
 
 **lekt3206:** Mehndi-Handbemalung in Mumbai. [Bildquelle: the_gman / Flickr. CC BY-NC-SA]
 
-**lekt3208:** Buddhistischer Mönch in Sri Lanka. [Bildquelle: Trollderella / Wikipedia. GNU FDL]
+**lekt3208:** 斯里兰卡的佛教僧侣。[图片来源：Trollderella / Wikipedia。GNU FDL]
 
-**lekt3209:** Indischer Gruß / Abschied. [Bildquelle: dhyanji / Flickr. CC BY-NC-ND]
+**lekt3209：** 印度问候/告别。[图片来源：dhyanji / Flickr。CC BY-NC-ND]
 
 **lekt3210:** 芒果树上的猴子。[图片来源：维基百科。GNU FDL]
 :::

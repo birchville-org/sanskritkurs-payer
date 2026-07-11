@@ -17,9 +17,9 @@ status: stable
 * **-a**
 * **-t**
 
-**gebildet. Sie sind Nomina agentis, d. h. sie bezeichnen einen Agens (⟪कर्तृ⟫), der die durch die zugrundeliegende Wurzel bezeichnete Handlung tut.**
+**已构成。它们是施事名词，即指代执行由底层词根所表示的动作的施事者（⟪कर्तृ⟫）。**
 
-**Solche Komposita werden von den einheimischen Kommentatoren nicht durch Nominalkombinationen, sondern mittels Verbalformen aufgelöst:**
+**此类复合词由本土注释家通过动词形式而非名词组合来解析：**
 
 示例：
 
@@ -34,9 +34,9 @@ status: stable
 a) ⟪कृत्⟫后缀 \-Ø
 
 ::: indent
-\-⟪नी⟫ 3 "führend" z.B. ⟪सेनानी⟫ m. "Heerführer" (⟪सेना⟫ f. "Heer")
+\-⟪नी⟫ 3 "领导的" 例如 ⟪सेनानी⟫ m. "军队统帅"（⟪सेना⟫ f. "军队"）
 
-\-⟪भुज्⟫ 3 “genießend, essen” z.B. ⟪भूमिभुज्⟫ m. “König” (⟪भूमि⟫ f. “Erde”)
+\-⟪भुज्⟫ 3 "享受、食用" 例如 ⟪भूमिभुज्⟫ m. "王者"（⟪भूमि⟫ f. "大地"）
 
 \-⟪विद्⟫ 3 “知晓”，例如 ⟪धर्मविद्⟫ 3 “了解法”
 :::: media
@@ -76,21 +76,21 @@ c) ⟪कृत्⟫后缀 -a
 ::: indent
 \-⟪ग⟫ 3 “gehen（在，向）”（可能源自词根 gā，最古形式 g + a）例如 ⟪खग⟫ 3 “飞翔” m. “鸟，行星”（⟪ख⟫ n. “孔，‘天空’空间”）
 
-\-⟪घ्न⟫ 3 “erschlagend” z.B. ⟪कुलघ⟫ 3 “Familie(n) tötend”
+\-⟪घ्न⟫ 3 “erschlagend” 例如：⟪कुलघ⟫ 3 “Familie(n) tötend”
 
-\-⟪ज⟫ 3 (jña » jā » Tiefst. j + a) “abstammend von, geboren in” z.B. ⟪आत्मज⟫ “Sohn”
+\-⟪ज⟫ 3 (jña » jā » Tiefst. j + a) “abstammend von, geboren in” 例如：⟪आत्मज⟫ “Sohn”
 
-\-⟪ज्ञ⟫ 3 “kundig” (jñ-a) z.B. ⟪सर्वज्ञ⟫ 3 “allwissend”
+\-⟪ज्ञ⟫ 3 “kundig” (jñ-a) 例如：⟪सर्वज्ञ⟫ 3 “allwissend”
 
 \-⟪द⟫ 3 “给予”（d-a）例如 ⟪वारिद⟫ m. “云”（⟪वारि⟫ n. “水”）
 
-\-⟪प⟫ 3 “trinkend” (p-a) z.B. ⟪द्विप⟫ m. “Elefant (zweimal trinkend)”
+\-⟪प⟫ 3 “trinkend” (p-a) 例如：⟪द्विप⟫ m. “Elefant (zweimal trinkend)”
 
 \-⟪प⟫ 3 “保护”（p-a）例如 ⟪भूप⟫ “保护大地 = 国王”
 
-\-⟪स्थ⟫ 3 “stehend in, befindlich in” (sth-a) z.B. ⟪गृहस्थ⟫ m. “Haushalter, Hausvater”
+\-⟪स्थ⟫ 3 “stehend in, befindlich in” (sth-a) 例如：⟪गृहस्थ⟫ m. “Haushalter, Hausvater”
 
-\-⟪कर⟫ 3 „wirkend, tätig“ z.B. ⟪सुखकर⟫ 3 „Glück bringend“
+\-⟪कर⟫ 3 „wirkend, tätig“ 例如：⟪सुखकर⟫ 3 „Glück bringend“
 
 \-⟪स्मर⟫ 3 “忆念”，例如 ⟪जातिस्मर⟫ 3 “忆念前世”
 :::: media
@@ -265,9 +265,9 @@ Plural:
 
 **完成这些替换后，词干将继续被处理，仿佛它以 -ḍh、-gh 或 -dh 结尾。**
 
-**Siehe die Paradigmen bei Kielhorn, Grammatik, S. 20f.**
+**参见Kielhorn的语法范式，第20-21页。**
 :::
-Beispiele:
+示例：
 
 ::: indent
 ⟪गुह्⟫ 3 “verbergend”

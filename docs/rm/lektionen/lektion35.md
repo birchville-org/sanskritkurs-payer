@@ -12,13 +12,13 @@ status: stable
 **Educaziun:**
 
 **starkes Verb:**
-*   3.sg.P: Dehnstufe
-*   2.sg.P: Hochstufe
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe
+*   3.sg.P: stgalim da lungiaziun
+*   2.sg.P: stgalim aut
+*   1.sg.P: a libra tscherna stgalim aut u stgalim da lungiaziun
 
 **stèssel:** vesair als sutatip
 :::
-### 35.1.1. Perfekt tip IIIa: stèssel stem high-level/deplen-level, stèssel stem low-level
+### 35.1.1. Perfekt tip IIIa: stèssel nivel aut/nivel deplen, stèssel nivel bass
 
 ::: grammar-box
 **Educaziun:**
@@ -31,11 +31,11 @@ Ex radicibus typorum formatum:
 *   (consonans)-(consonans) - i/ī/u/ū
 *   (consonans) - ṛ
 
-Vor vokalisch anlautender Endung wird ersetzt:
+Avant finala che cumenza cun vocal vegn remplazzà:
 *   -i/-ī durch -iy
 *   -u/-ū durch -uv
 *   -ṛ durch r
-Beispiele:
+Exempels:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ Beispiele:
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfekt Tip IIIb: Stamm fort cots/lung, stem debole cots
+### 35.1.2. Perfekt Tip IIIb: Stom ferm cots/lung, stom debel cots
 
 ::: grammar-box
 **Educaziun:**
@@ -70,17 +70,17 @@ Exempels:
 ::: grammar-box
 **Educaziun:**
 
-**starker Stamm:**
+**stom ferm:**
 *   3./1. sg. P Perfekt endet auf -au
-*   2\. sg. P : Hochstufe -ā oder Tiefstufe -i
+*   2. sg. P : stgalim aut -ā u stgalim fonc -i
 
-**schwaicher Stamm:**
+**stom debel:**
 *   avant consonant: nivel fonc -i
 *   avant vocal: nivel fonc Ø
 
-Wird gebildet von Wurzeln auf -ā / -āi
+Vegn furmà da ragischs sin -ā / -āi
 :::
-Beispiel:
+Exempel:
 
 | Wurzel | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -92,15 +92,15 @@ Beispiel:
 **Educaziun:**
 
 **starkes Verb:**
-*   3.sg.P: Dehnstufe
-*   2.sg.P: Hochstufe
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe
+*   3.sg.P: stgalim da lungiaziun
+*   2.sg.P: stgalim aut
+*   1.sg.P: a libra tscherna stgalim aut u stgalim da lungiaziun
 
 **stema debel:** vesair ils sutg-types
 
-Wird gebildet von Wurzeln des Typs (Konsonant)-Konsonant-a-Konsonant
+Vegn furmà da ragischs dal tip (consonanta)-consonanta-a-consonanta
 :::
-### 35.3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
+### 35.3.1. Perfekt Tip Va: stom debel stgalim fonc
 
 ::: grammar-box
 **Educaziun:**
@@ -127,7 +127,7 @@ Exemples:
 | ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-### 35.3.2. Perfekt Tip Vb: stem debole, contrazione (tipu e)
+### 35.3.2. Perfekt Tip Vb: stèssel debole, contrazione (tipu e)
 
 ::: grammar-box
 **Educaziun:**
@@ -144,7 +144,7 @@ Exempl:
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पच्⟫ 1U | ⟪पपाच⟫ | *⟪पे⟫*⟪चुर्⟫ | *⟪पे⟫*⟪चे⟫ | *⟪पे⟫*⟪चिरे⟫ |
 
-### 35.3.3. Perfekt Tip Vc: Radichs Consonant-a-Consonant. Stem deble nivel aut
+### 35.3.3. Perfekt Tip Vc: Radichs Consonant-a-Consonant. Stèssel deble nivel aut
 
 ::: grammar-box
 **Educaziun:**
@@ -159,7 +159,7 @@ Exempl:
 
 schon sie nicht zu Perfekt Typ Va gehören.
 :::
-Beispiel:
+Exempel:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |

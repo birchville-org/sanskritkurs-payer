@@ -1,10 +1,10 @@
 ---
-title: Lektion 11
-subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
-lesson_id: 11
-last_reconstructed: 2026-05-07
-category: "Grammatik"
-status: stable
+titre : Leçon 11
+sous-titre : « L'accusatif double (accusatif de la personne et de l'objet) »
+lesson_id : 11
+last_reconstructed : 2026-05-07
+category : « Grammaire »
+status : stable
 ---
 
 # Leçon 11

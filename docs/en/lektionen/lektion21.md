@@ -1,9 +1,9 @@
 ---
-title: Lektion 21
-subtitle: "Weitere Präsensstämme auf -nt"
+title: Lesson 21
+subtitle: "Further Present Stems Ending in -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "Grammar"
 status: stable
 ---
 
@@ -25,14 +25,14 @@ This participle is a nominal formation derived from the present stem, i.e., a tr
 :::
 ::: grammar-box
 
-| **Formation des Partizip Present Parasmaipada zu thematischen Presentstämmen:** |||
+| **Formation of the Present Participle Parasmaipada for thematic present stems:** |||
 | :--- | :--- | :--- |
 | **Masculine, Neuter** | | |
-| | **starker Stem** | Present Stem + **-nt-** |
-| | **schwacher Stem** | Present Stem + **-t-** |
+| | **strong stem** | Present Stem + **-nt-** |
+| | **weak stem** | Present Stem + **-t-** |
 | **Feminine** | | |
-| | | Present Stem + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. Presentklasse** | Present Stem + **-nt-** + **-ī** :broder::brPresent Stem + **-t-** + **-ī** |
+| | | Present Stem + **-nt-** + **-ī** (declension like **devī** :br⟪देवी⟫) |
+| | **6. Present class** | Present Stem + **-nt-** + **-ī** :broder::brPresent Stem + **-t-** + **-ī** |
 
 :::
 Examples:
@@ -78,13 +78,13 @@ Note the identity of **⟪यजन्ति⟫** (Nom. pl. Neuter) with the 3. 
 :::
 ::: grammar-box
 
-| **Formation des Partizip Present Parasmaipada zu athematischen Presentstämmen (ausser 3. Presentklasse):** |||
+| **Formation of the Present Participle Parasmaipada for athematic present stems (except 3rd class of presents):** |||
 | :--- | :--- | :--- |
 | **Masculine, Neuter** | | |
-| | **starker Stem** | Present Stem + **-ant-** |
-| | **schwacher Stem** | Present Stem + **-at-** :br(Der Auslaut des schwachen Present Stemes lautet gleich wie vor der 3. Plur. P.) |
+| | **strong stem** | Present Stem + **-ant-** |
+| | **weak stem** | Present Stem + **-at-**:br(The final sound of the weak present stem is identical to that before the 3rd plural person.) |
 | **Feminine** | | |
-| | | Present Stem + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | | Present Stem + **-at-** + **-ī** (declension like **devī**:br⟪देवी⟫) |
 
 :::
 2\. Present class:
@@ -140,10 +140,10 @@ Fig.: ⟪सती⟫ memorial plaque
 | | | |
 | :--- | :--- | :--- |
 | **Masculine, Neuter** | | |
-| | **starker Stem** | ⟪महान्त्⟫ |
-| | **schwacher Stem** | ⟪महत्⟫ |
+| | **strong stem** | ⟪महान्त्⟫ |
+| | **weak stem** | ⟪महत्⟫ |
 | **Feminine** | | |
-| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
+| | | ⟪महती⟩ :brlike **devī** :br⟪देवी⟫ |
 
 :::
 ::: grammar-box

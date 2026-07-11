@@ -6,15 +6,15 @@ status: stable
 
 # Lektion 31
 
-## 31.1. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.")
+## 31.1. La 7. classa da prezens (⟪रुधादि⟫ = "⟪रुध्⟫ e.u.i.")
 
 ::: grammar-box
 **Educaziun:**
 
 **Ante las consonantas finalas da la radis cun ton bas vegn inserì in cun num Nasalinfix (-na- resp. -n-):**
 
-*   **im Stamm stark: -na-**
-*   **im Stamm schwach: -n-**
+*   **en il stom ferm: -na-**
+*   **en il stom flev: -n-**
 
 **Per la connessiona dals consonants finals da la radich cun desinenzas che cumenzan cun consonants valan las medemas regulas sco per la 2. classa da prezens.**
 :::
@@ -47,7 +47,7 @@ Exempels:
 
 :::
 ::: grammar-box
-**En quai radis è il -n- dal stem da presens debel er entrà en tempus extra-presens, uschia che quels radis vegnan supponids cun in nasal infitgà.**
+**En quai radis è il -n- dal Stamm da presens debel er entrà en tempus extra-presens, uschia che quels radis vegnan supponids cun in nasal infitgà.**
 :::
 Esempel:
 
@@ -58,7 +58,7 @@ Esempel:
     *   3.sg.P. **⟪भनक्ति⟫** (bha-na + j + ti)
     *   3.pl.P. **⟪भञ्जन्ति⟫** (bha + n + j-anti)
 *   Future: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
-*   Passive: **⟪भज्यते⟫** (either from original root **⟪भज्⟫** or from *bhñj-ya-te)
+*   Passiv: **⟪भज्यते⟫** (u dal radis original **⟪भज्⟫** u da *bhñj-ya-te)
 *   PPP: **⟪भग्न⟫** (possibly from *bhñj + na)
 :::
 ## 31.2. Word list

@@ -52,7 +52,7 @@ status: stable
 
 为了能够使用这些代词（sarvanāman n.）构造句子，还需要了解以下连音规则：
 
-### 4.1.2. Sandhi von auslautendem -m
+### 4.1.2. -m 词末连声规则
 
 ::: grammar-box
 **词尾的 -m 在辅音前被鼻化音符号（Anusvāra，-ṃ）取代。在句子或诗行末尾以及元音前，-m 保持不变。**
@@ -60,13 +60,13 @@ status: stable
 ### 4.1.3. 词尾 -e 的连声
 
 ::: grammar-box
-1. **vor a- bleibt -e unverändert: das anlautende a- elidiert mit Avagraha:**
-   z.B. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "Diese Feuer"
+1. **在元音 a- 之前，词尾 -e 保持不变：词首的 a- 通过 Avagraha 被省略：**
+例如 ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ “这些火神”
 
-2. **Vor anderen Vokalen als kurzem a- wird -e gewöhnlich durch -a mit Hiatus ersetzt. Auch die Ersetzung durch -ay kommt vor:**
-   z.B. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (selten: imay īśvarāh = ⟪इमयीश्वराः⟫) "Diese HERREN"
+2. **在短元音 a- 以外的其他元音之前，词尾 -e 通常被带有裂开的 -a 所取代。有时也会通过 -ay 来替换：**
+例如 ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ （罕见情况：imay īśvarāh = ⟪इमयीश्वराः⟫）“这些主人”
 :::
-### 4.1.4. Sandhi von auslautendem -d
+### 4.1.4. 词尾 -d 的连声
 
 ::: grammar-box
 **词尾的 -d 在停顿以及清软腭音（k, kh）和清唇音（p, ph）前替换为 -t。**

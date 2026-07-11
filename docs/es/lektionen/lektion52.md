@@ -767,9 +767,9 @@ Durante las vacaciones semestrales se deben cumplir las siguientes tareas:
 8.  Estudio de:  
     **Kunnappally, John:** Prakriyā bhāshyam : Gramática sánscrita / Originalmente escrito en malayalam. Traducido al inglés por K.V.R. Pai. -- Parathode : Autoed., 1983. -- 818 p. ; 23 cm. -- P. 208 - 254 (Gobierno sintáctico)
 9.  Completar el estudio de:  
-    **Basham, A. L. (Arthur Llewellyn) \<1914-1986\>**La maravilla que fue la IndiaParte: Un estudio de la cultura del subcontinente indio antes de la llegada de los musulmanes. -- Londres : Sidgwick & Jackson, 1954.
+    **Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**La maravilla que fue la IndiaParte: Un estudio de la cultura del subcontinente indio antes de la llegada de los musulmanes. -- Londres : Sidgwick & Jackson, 1954.
 10.  Comenzar el estudio de:  
-     **Winternitz, Moriz \<1863 - 1937\>: Historia de la literatura india. Stuttgart : Koehler. -- 3 vols. -- 1908 - 1922 (aún la mejor historia de la literatura de las literaturas sánscrita, pali y prakrit)**
+     **Winternitz, Moriz \&lt;1863 - 1937\&gt;: Historia de la literatura india. Stuttgart : Koehler. -- 3 vols. -- 1908 - 1922 (aún la mejor historia de la literatura de las literaturas sánscrita, pali y prakrit)**
 
 ::: media
 ![](/images/lekt5201.webp)

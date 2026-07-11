@@ -28,7 +28,7 @@ status: stable
 :::
 ---
 
-### 12.1.1. Schema für transitive Verben
+### 12.1.1. 及物动词的变位模式
 
 ::: grammar-box
 **施事者（kartṛ）以工具格（tṛtīyā）出现 -- 直接宾语（karman）以主格（prathamā）出现 -- 完成时被动分词**
@@ -49,7 +49,7 @@ status: stable
 ::: grammar-box
 **Agent (kartṛ) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
 
-In diesem Fall stimmt das PPP mit dem Agens in Zahl, Fall und Geschlecht überein. Das Partizip Perfekt „Passiv“ hat bei intransitiven Verben (Verben ohne direktes Objekt) und Verben der Bewegung aktive Bedeutung.
+在这种情况下，过去分词（PPP）与施事在数、格和性上保持一致。不及物动词（没有直接宾语的动词）和表示运动的动词中，过去分词“被动”形式具有主动意义。
 
 示例：
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = “刹帝利女子已前往城市。”
@@ -78,7 +78,7 @@ Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in e
 
 ---
 
-## 12.3. Bildung des PPP
+## 12.3. 过去被动分词（PPP）的构成
 
 ::: grammar-box
 出现以下构词方式（每个词根需学习其对应的过去分词！）：
@@ -98,7 +98,7 @@ Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in e
 
 #### 12.3.1.1. 无连接元音-i-（aniṭ）
 
-*aniṭ* = „ohne (*an-*) dem Suffix vorangestelltes (*-i-*) *t*“ (d.h. ohne den Bindevokal *i*).
+*aniṭ* = “无（*an-*）前缀带后缀（*-i-*）的 *t*”（即无连接元音 *i*）。
 
 ::: grammar-box
 不带连接元音，过去分词（PPP）通常由以元音结尾的词根构成，以及由许多其他词根构成，无法给出一个固定的规则来说明在何种结构的词根中会出现或不出现连接元音。
@@ -177,7 +177,7 @@ Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in e
 :::
 - **api** ⟪अपि⟫ ：也（后置）
 
-Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln gerechnet, die den Präsensstamm mit Nasalinfix und Themavokal a bilden, z.B.:
+第六类现在时中，本土语法学家将一些词根归入此类，这些词根的现在时词干通过鼻音插入成分与主题元音 a 构成，例如：
 
 - **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ ：解开，释放，解放；从轮回（**saṃsāra** m.）中解脱 = 救赎
 - **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ ：洒
@@ -252,6 +252,6 @@ Zur 6. Präsensklasse werden von den einheimischen Grammatikern einige Wurzeln g
 
 **A) 根据[第7课](/lektionen/lektion07)练习A中的主动句，构成过去时的被动句；对于不及物动词和表示运动的动词，构成过去时的主动句。**
 
-**B) Bilden Sie die entsprechenden PPPs zu den Verbformen von [Lektion 10](/lektionen/lektion10), Übung A. Beachten Sie dabei, dass einer Form wie sṛjati PPPs in allen drei Geschlechtern entsprechen.**
+**B) 根据[第10课](/lektionen/lektion10)练习A中的动词形式，构建相应的过去分词（PPPs）。请注意，像 sṛjati 这样的动词形式对应于所有三个性别的过去分词。**
 
 **C) 将[第10课](/lektionen/lektion10)练习C中的句子变为被动语态的过去时。**

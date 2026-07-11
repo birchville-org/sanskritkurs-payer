@@ -33,7 +33,7 @@ status: stable
 
 > ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = “火具有燃烧一切的力量。”
 
-**Auch mit Wörtern in der Bedeutung "Zeit" kann der Infinitiv verwendet werden in Ausdrücken wie "Es ist Zeit zu ...":**
+**即使“Zeit”一词表示时间含义时，不定式也可用于诸如“是时候……了”的表达中：**
 
 > ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = “现在是时候专注于进食了” = “现在是时候吃饭了”
 
@@ -84,7 +84,7 @@ status: stable
 ::: indent
 ⟪दृश्⟫：⟪द्रष्टुम्⟫
 
-⟪सृज्⟫ : ⟪स्रष्टुम्⟫
+⟪सृज्⟫ ：⟪स्रष्टुम्⟫
 :::
 Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
@@ -258,7 +258,7 @@ C) 翻译以下 ⟪सुभाषितम्⟫
 ⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
 
-Erklärung: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..."
+解释：⟪हीन⟫ ⟪३⟫：PPP 至 ⟪हा⟫ 3：离开；⟪धर्मे⟫ = 位格单数“在……中”
 
 ::: media
 ![](/images/lekt2302.webp)
@@ -306,7 +306,7 @@ A) 翻译成梵文：
 
 B) 用所有你熟悉的格变位⟪क्षत्रिया⟫（阴性）。
 
-C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben:
+[C] 给出以下动词的词干形式（意义、现在时类、语态、第三人称单数现在时直陈式、第三人称单数被动形式、过去分词（PPP）、绝对格、不定式）：
 
 ⟪१⟫。⟪सह्⟫
 

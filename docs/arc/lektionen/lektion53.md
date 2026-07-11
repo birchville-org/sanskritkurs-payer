@@ -51,11 +51,11 @@ Fig.: ⟪हस्तौ⟫
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
 :::
 ::: grammar-box
-**For nouns with stem gradation, the Nom.Acc.Voc.Dual m.f. has the strong stem**
+**पदग्रहणवत्सु नामसु प्रथमाद्वितीयसम्बोधनद्विवचने बलवद्रूपम्**
 :::
-## 53.3. The Dual of consonant-ending stems
+## 53.3. व्यञ्जनान्तानां पदानां द्विवचनम्
 
-### 53.3.1. Stämme ohne Stammabstufung
+### 53.3.1. पदग्रहणरहितानि पदानि
 
 ⟪सत्यवाच्⟫ 3 "speaking the truth"
 
@@ -102,7 +102,7 @@ Fig.: ⟪हस्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
 :::
-### 53.3.2. Stämme mit Stammabstufung
+### 53.3.2. पदग्रहणयुक्तानि पदानि
 
 **Present Participle Parasmaipada**
 
@@ -129,7 +129,7 @@ Fig.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ ||
 :::
-**Stems ending in -mant/-vant**
+**⟪मन्त्⟫-⟪वन्त्⟫-अन्तानि पदानि**
 
 ⟪पशुमन्त्⟫ 3 "Owning livestock"
 
@@ -194,9 +194,9 @@ Fig.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
-## 53.4. Der Dual vokalisch auslautender Stämme
+## 53.4. स्वरान्तानां पदानां द्विवचनम्
 
-**Tribes on -a**
+**अकारान्तानि जातिनामानि**
 
 ⟪देव⟫ m. "God"  
 ⟪फल⟫ n. "Fruit"
@@ -213,7 +213,7 @@ Fig.: ⟪भरन्तौ⟫
 Fig.: ⟪फले⟫
 (Image source: [Details](/arc/licenses#lekt5306))
 :::
-**Stems ending in -i**
+**इकारान्तानि पदानि**
 
 ⟪अग्नि⟫ m. "fire"  
 ⟪वारि⟫ n. "water"  
@@ -226,7 +226,7 @@ Fig.: ⟪फले⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
-**Stems ending in -u**
+**उकारान्तानि पदानि**
 
 ⟪शत्रु⟫ m.  
 ⟪धिनु⟫ f.  
@@ -244,7 +244,7 @@ Fig.: ⟪फले⟫
 Fig.: ⟪धेनू⟫
 (Image source: [Details](/arc/licenses#lekt5307))
 :::
-**Stems ending in -ā**
+**आकारान्तानि पदानि**
 
 ⟪कन्या⟫ f. "girl"
 
@@ -255,7 +255,7 @@ Fig.: ⟪धेनू⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *⟪कन्ययोस्⟫* |
 :::
-**Polysyllabic stems ending in -ī**
+**बहुअक्षराणि ईकारान्तानि पदानि**
 
 ⟪देवी⟫ f. "Göttin"
 
@@ -266,7 +266,7 @@ Fig.: ⟪धेनू⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪देव्योस्⟫ |
 :::
-**Stems ending in -ṛ**
+**ऋकारान्तानि पदानि**
 
 ⟪दातृ⟫ 3 "Giver"
 
@@ -288,7 +288,7 @@ Fig.: ⟪धेनू⟫
 :::
 ## 53.5. Dualdvandva
 
-Examples:
+उदाहरणानि:
 
 ::: indent
 **⟪अर्थधर्मौ⟫** "Benefit (⟪अर्थ⟫) and Dharma"
@@ -370,16 +370,16 @@ The following pronominal adjectives are declined like ⟪सर्व⟫. In the
 *   Komparativ: **-īyas**
 *   Superlativ: **-iṣṭha**
 
-**While the ⟪तद्धित⟫ suffixes -⟪तर⟫ and -⟪तम⟫ attach to the masculine stem of the adjective, the suffixes -⟪ईयस्⟫ and -⟪इष्ठ⟫ are appended to the root from which the adjective is derived (if such a root exists!). The root vowel is high-grade.**
+**यद्यपि ⟪तद्धित⟫-प्रत्ययौ -⟪तर⟫ -⟪तम⟫ विशेषणस्य पुंलिङ्गपदे योज्येते, प्रत्ययौ -⟪ईयस्⟫ -⟪इष्ठ⟫ तु धातौ (यदि धातुः अस्ति!) योज्येते यस्मात् विशेषणं निष्पन्नम्। धात्वोः गुणः भवति।**
 
-**Die Superlativbildung auf -iṣṭha (Femininum: iṣṭhā) wird wie die Deklination der a- bzw. ā-Stämme gehandhabt.**
+**इष्ठ-प्रत्ययेन उत्तमस्य रचना (स्त्रीलिङ्गे: इष्ठा) अ-आ-पदानामिव विभक्तिः।**
 
-**Deklination von -īyas siehe unten.**
+**Declension of -īyas see below.**
 :::
-Examples:
+उदाहरणानि:
 
 ::: grammar-box
-| Root | Adjective | Comparative | Superlative |
+| धातुः | विशेषणम् | तरप्रत्ययः | उत्तमः |
 | --- | --- | --- 
 | ⟪क्षिप्⟫ 6P "to throw" | ⟪क्षिप्र⟫ 3 "fast" | sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
 | ⟪स्था⟫ 1P "to stand" | ⟪स्थिर⟫ 3 "constant, firm" | sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
@@ -387,9 +387,9 @@ Examples:
 **Special rules for the attachment of these suffixes:**
 
 ::: grammar-box
-**Rule 1:** **The final vowel of a multisyllabic masculine stem, or the final vowel and the preceding vowel, are elided.**
+**नियमः १:** **बहुअक्षरस्य पुंलिङ्गपदस्य अन्त्यस्वरः, अथवा अन्त्यस्वरः पूर्वस्वरश्च, लुप्यते।**
 :::
-Examples:
+उदाहरणानि:
 
 ::: grammar-box
 | Adjective | Comparative | Superlative |
@@ -400,7 +400,7 @@ Examples:
 ::: grammar-box
 **Rule 2:** **Possessive suffixes (-mant, vant, -vin, -in, etc.) are dropped. If the remaining part consists of only one syllable, it is not further changed; only sound changes caused by the connection with the possessive suffix are reversed. However, if the remainder consists of more than one syllable, Rule 1 comes into effect.**
 :::
-Examples:
+उदाहरणानि:
 
 ::: grammar-box
 | Adjective | Comparative | Superlative |
@@ -412,7 +412,7 @@ Examples:
 ::: grammar-box
 **Rule 3:** **For -ṛ-, preceded by an initial vowel and followed by only a single consonant, -ra- is substituted.**
 :::
-Example:
+उदाहरणम्:
 
 ::: grammar-box
 | Adjective | Comparative | Superlative |
@@ -444,14 +444,14 @@ Example:
 Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 (Image source: [Details](/arc/licenses#lekt5309))
 :::
-**Some inflectional forms of this type have no root-related basic form at all; they are "defective". Therefore, the following series are especially to be memorized:**
+**एतस्य प्रकारस्य केचन विभक्तिरूपाणि धातुसम्बद्धं मूलरूपं न धारयन्ति; तानि "न्यूनानि"। अतः निम्नलिखिताः पङ्क्तयः विशेषतः स्मर्तव्याः:**
 
 ::: grammar-box
 | (Adjective) | Comparative | Superlative |
 | --- | --- 
-| (⟪अल्प⟫ 3 "small, little") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "praiseworthy, good") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "praiseworthy, good") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" |
+| (⟪अल्प⟫ 3 "small, little") | ⟪कनीयस्⟫ :br cf. ⟪कन्या⟫ f. "girl = the little one" | ⟪कनिष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "praiseworthy, good") | ⟪श्रेयस्⟫ :br to ⟪श्री⟫ f. "splendor" | ⟪श्रेष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "praiseworthy, good") | ⟪ज्यायस्⟫ :br also: "older" :br to ⟪ज्या⟫ f. "superiority" | ⟪ज्येष्ठ⟫ :br also: "oldest" |
 | (⟪बहु⟫ 3 "much") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "old") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
 | (⟪वृद्ध⟫ 3 "old") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
@@ -490,7 +490,7 @@ See also:
 
 The determination of the meter is important for the following reasons:
 
-1.  **Aesthetic:** The metrical pattern contributes, among other things, to the beauty of a statement. Furthermore, certain metrical patterns may serve to express specific moods, or they are assigned to specific social classes (⟪वर्ण⟫). The various metrical patterns are recited differently. :br A good impression of the aesthetic effect is given, for example, by the recitation of the ⟪शिवताण्डवस्तोत्र⟫ (praise of Śiva's dance): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+1.  **सौन्दर्यशास्त्रीयम्:** छन्दोरूपं वक्तव्यस्य सौन्दर्याय योगदानं करोति। अपि च केचन छन्दोरूपाणि विशिष्टानां भावानां व्यञ्जनाय उपयुज्यन्ते, अथवा विशिष्टेभ्यः सामाजिकवर्गेभ्यः (⟪वर्ण⟫) नियुज्यन्ते। विविधानि छन्दोरूपाणि भिन्नप्रकारेण पठ्यन्ते। :br सौन्दर्यप्रभावस्य उत्तमं दर्शनं यथा ⟪शिवताण्डवस्तोत्र⟫स्य (शिवनृत्यस्य स्तुतिः) पाठेन लभ्यते: [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Text-critical:** Errors in the metrical pattern can be an indication that the text is not correctly transmitted at a certain point. The metrical pattern helps to make textual emendations.
 3.  **Chronological:** certain metrical patterns underwent specific changes over the course of history. This can assist in the approximate dating of a text. See here **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Both printed in: :br **Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
@@ -555,7 +555,7 @@ In der metrischen Analyse bedeutet:
 *   **×** = ⟪लघु⟫ or ⟪गुरु⟫
 *   **/** = Caesura (word division)
 :::
-Example: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
+उदाहरणम्: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 
 ::: indent
 ⟪धर्मक्षेत्रे⟫ ⟪कुरुक्षेत्रे⟫ ⟪समवेता⟫ ⟪युयुत्सवः⟫ ⟪।⟫

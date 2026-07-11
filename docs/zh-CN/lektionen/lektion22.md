@@ -174,7 +174,7 @@ davon:
 davon:
 
 ::: indent
-**⟪चर⟫ ⟪३⟫:** beweglich; n.: das Bewegliche = Tiere (im Unterschied zu den Pflanzen)
+**⟪चर⟫ ⟪३⟫:** 可移动的；名词：可移动之物 = 动物（与植物相对）
 
 **⟪चरण⟫ n., m.:** 脚
 
@@ -190,7 +190,7 @@ davon:
 :::
 ## 22.4. 练习
 
-**A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:**
+**A) 构造并翻译以下动词的独立主格结构（Absolutiv）：**
 
 1.  ⟪आप्⟫
 2.  ⟪प्राप्⟫
@@ -266,5 +266,5 @@ Abb.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 
 **lekt2203:** 加尔各答 = কলকাতা [图片来源：The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- 访问日期：2008-12-12. -- 知识共享许可协议（署名-非商业性使用-禁止演绎）]
 
-**lekt2204:** [Bildquelle: Curt Carnemark / Weltbank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Zugriff am 2008-12-12. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt2204:** [图片来源：Curt Carnemark / 世界银行。 -- http://www.flickr.com/photos/worldbank/2183558378/. -- 访问日期：2008-12-12。 -- 知识共享许可协议（署名，非商业性使用，禁止演绎）]
 :::

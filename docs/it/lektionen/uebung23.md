@@ -90,8 +90,8 @@ I Śūdra non devono mangiare insieme a un Brahmano.
 (⟪लोभेन⟫ ⟪सम्पन्ना⟫ ⟪नराः⟫ ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्यास्ताम्⟫)
 Pieni di avidità gli uomini sono andati per vedere ballare la bellissima serva.
 
-⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert.
+[ L 0 ] ⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
+[ L 1 ] Se un brāhmaṇa ha avuto rapporti sessuali con una śūdra, non deve offrire sacrifici.
 
 ⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
 (⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)

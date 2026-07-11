@@ -28,8 +28,8 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 ::: grammar-box
 **Éducation :**
 
-**starker Stamm:** Singulär Parasmaipada
-*   **reduplizierter Hoch- bzw. Dehnstufigen Wurzel + Perfektendung**
+**racine forte :** Singulier Parasmaipada
+*   **radical à voyelle haute ou allongée (guṇa/vrddhi) + désinence du parfait**
 
 **radical faible :** toutes les autres formes
 *   **racine redoublée au degré profond + terminaison du parfait**
@@ -39,11 +39,11 @@ En sanskrit classique, il n’existe que l’indicatif et le participe à partir
 *   **(Consonne)-Consonne-Longue-Voyelle-Consonne**
 *   **(Consonne)-Consonne-Voyelle-Consonne-Consonne**
 
-**Außerdem neigen Wurzeln der Form im Perfekt keine Stammabstufung auf:**
-*   **a-Konsonant**
-*   **ā-Konsonant**
+**De plus, les racines de forme au parfait ne subissent aucune ablaut de thème :**
+*   **consonne a**
+*   **consonne ā**
 :::
-### 34.2.2. Die Perfektendungen
+### 34.2.2. Les désinences du parfait
 
 ::: grammar-box
 

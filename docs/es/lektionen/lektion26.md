@@ -1,10 +1,10 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: Lección 26
+subtitle: "Ley de cerebralización para -s- en interior de palabra"
 lesson_id: 26
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+category: "Gramática"
+status: estable
 ---
 
 # Lección 26

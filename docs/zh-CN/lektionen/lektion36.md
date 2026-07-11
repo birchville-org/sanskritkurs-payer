@@ -60,7 +60,7 @@ status: stable
 
 (弱)现在词干 + -ām + ⟪कृ⟫、⟪अस्⟫ 或 ⟪भू⟫ 的相应完成时形式
 
-- Auslautender Stammvokal wird vor -ām guṇiert.
+- 词干末元音在 -ām 之前进行 guṇa 变化。
 - ⟪अस्⟫ 和 ⟪भू⟫ 也用于 Ātmanepada 动词的 Parasmaipada 变位。
 :::
 Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
@@ -172,9 +172,9 @@ davon:
 
 ⟪अभिगम्⟫ : 前往，接近
 
-⟪वद्⟫ + ⟪अभि⟫ Kausativ Ā ⟪अभिवादयते⟫ : formell begrüßen, anreden
+⟪वद्⟫ + ⟪अभि⟫ 使役态 Ā ⟪अभिवादयते⟫ ：正式问候，致意
 :::
-⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : Widerwillen empfinden, dahinschwinden
+⟪ग्लै⟫ 第一人称单数 ⟪ग्लायति⟫ ：感到不情愿，逐渐消失
 
 ::: indent
 完成时第四变位 ⟪जग्लौ⟫  
@@ -254,7 +254,7 @@ B) 词根⟪आस्⟫“坐”具有迂回式完成时。请为以下形式�
 1.  ⟪आस्ते⟫
 2.  ⟪आसते⟫
 
-C) Bilden Sie das entsprechende Perfekt zu folgenden Formen:
+[C0] C) 为以下形式构成相应的完成时态：
 
 1.  ⟪जीयते⟫
 2.  ⟪विदन्ति⟫

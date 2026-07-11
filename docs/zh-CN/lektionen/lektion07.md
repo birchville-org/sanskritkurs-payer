@@ -10,14 +10,14 @@ status: stable
 # Lektion 7
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:**
-- Den Verbalsatz mit direktem Objekt
-- Den Akkusativ der Nomina und Pronomina
-- Den Sandhi von auslautendem -n
-- Das Neutrum der a-Stämme
-- Die athematischen Präsensklassen (am Beispiel der 5. Klasse)
+**在本课中，您将学习：**
+- 带宾语的动词句
+- 名词和代词的第四格（对格）
+- 词尾-n的连声规则
+- a类词的 neuter（中性）形式
+- 无词根的现在时类别（以第5类为例）
 :::
-## Wochenspruch
+## 每周格言
 
 居中
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
@@ -39,8 +39,8 @@ status: stable
 ## 7.1. 带直接宾语的动词句
 
 ::: grammar-box
-**Schema:**
-**(Subjekt = kartṛ m. = ⟪कर्तृ⟫) – direktes Objekt (karman n. = ⟪कर्मन्⟫) – Verb**
+**模式：**
+**(主语 = kartṛ 阳性 = ⟪कर्तृ⟫) – 直接宾语 (karman 中性 = ⟪कर्मन्⟫) – 动词**
 
 例如：
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫：“罗摩吃（啃）一个水果。”
@@ -124,7 +124,7 @@ status: stable
 
 ---
 
-## 7.3. Sandhi von auslautendem -n
+## 7.3. -n 词末连声规则
 
 ::: grammar-box
 **词尾的 -n：**
@@ -136,8 +136,8 @@ status: stable
    词首的 **ś-** 通常会被 **ch-** 取代：
    **gurūn + śṛ�ṇoti** » **gurūñ chṛṇoti** (与 gurūñ śṛṇoti 并存) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : “他听老师的话。” “他倾听老师。”
 
-2. Wenn ein anlautendes **l-** durch **-l** mit Anunāsika (nasaliertes l, in der Schrift **⟪ल्⟫** mit Anunāsika **⟪ँ⟫**) ersetzt wird:
-   z.B. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Er erhält Nutztiere."
+2. 当一个以 **l-** 开头的音节被带有安努西卡（鼻化 l，书写形式为 **⟪ल्⟫** 并带有安努西卡 **⟪ँ⟫**）的 **-l-** 替换时：
+例如 **paśūn + labhate** » ⟪पशूंल्लभते⟫：“他获得牲畜。”
 
 3. 若词首为清腭音、清卷舌音或清齿音，则用**安努斯瓦拉**（Anusvāra）加上对应这些音的擦音替换：
    - **c-, ch-** 前的 **-n** 变为 **-ṃś**
@@ -159,9 +159,9 @@ status: stable
 
 ::: grammar-box
 - **Nominativ / Akkusativ Singular Endung: -m**
-  z.B. **phala** n. = ⟪फल⟫ = "Frucht": Nom. / Akk. sg. **phalam** = ⟪फलम्⟫
+  例如：**phala** n. = ⟪फल⟫ = “果实”：主格 / 宾格单数 **phalam** = ⟪फलम्⟫
 - **Nominativ / Akkusativ Plural Endung: -āni**
-  z.B. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
+  例如：**phala** n. = ⟪फल⟫：主格 / 宾格复数 **phalāni** = ⟪फलानि⟫
 :::
 ---
 
@@ -191,8 +191,8 @@ status: stable
 ### 7.5.2. 第五类现在时（svādi = ⟪स्वादि⟫ = “su 等”）
 
 ::: grammar-box
-- **Starker Stamm**: (meist) tiefstufige Wurzel (wie angeführt) + **-no-**
-- **Schwacher Stamm**: (meist) tiefstufige Wurzel (wie angeführt) + **-nu-**
+- **强词干**：（通常）低等级词根（如上所述）+ **-no-**
+- **弱词干**：（通常）低等级词根（如上所述）+ **-nu-**
 
 **在元音结尾前，以元音结尾的词根将 -nu- 替换为 -nv-；以辅音结尾的词根在元音结尾前将 -nu- 替换为 -nuv-。**
 :::
@@ -303,9 +303,9 @@ status: stable
 
 ::: media
 ![](/images/lekt0703.webp)
-Abb.: Welchem Gott opfert man hier? Antwort: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
-(Bildquelle: [Details](/zh-CN/licenses#lekt0703))
+图：此处向哪位神祇献祭？答案：Gaṇeśa（Gaṇapati）= ⟪गणेश⟫ (⟪गणपति⟫)。Gaṇapatihoma（yajña）。
+（图片来源：[详情](/zh-CN/licenses#lekt0703)）
 :::
-9. Was kaut dieser heilige Mann?
-10. Was pressen diese (hier) aus?
-11. Er ist der Lehrer. Auf ihn hört man (= hören sie).
+9.这位圣人咀嚼的是什么？
+10.这些人（此处）压榨的是什么？
+11.他是老师。人们听从他（=他们听从他）。

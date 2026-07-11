@@ -46,7 +46,7 @@ status: stable
 
 带词干交替的动词词干的属格由弱词干构成。
 
-**Genetiv von konsonantisch auslautenden Stämmen:**
+**辅音结尾词干的属格：**
 
 ::: grammar-box
 
@@ -71,7 +71,7 @@ status: stable
 
 阳性以元音结尾的词干的复数属格按如下方式构成：
 
-> **-langer auslautender Vokal des Stammes + -nām**
+> **词干末长元音 + -nām**
 
 :::
 ::: center

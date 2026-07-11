@@ -34,7 +34,7 @@ Quando l'agente (**kartṛ** m. = ⟪कर्तृ⟫) è menzionato in una fr
 Una forma verbale finita, cioè una forma verbale con desinenza personale, esprime in sanscrito quanto segue:
 
 1. **Significato** (**artha** m. ⟪अर्थ⟫)
-2. **Persona** e **numero** (vacana n. = ⟪वचन⟫) (io, tu, egli \<lei, esso\> noi due, voi due, essi due, noi, voi, essi)
+2. **Persona** e **numero** (vacana n. = ⟪वचन⟫) (io, tu, egli \&lt;lei, esso\&gt; noi due, voi due, essi due, noi, voi, essi)
 3. Modalità (genus verbi):
    1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("forma verbale con riferimento a un altro"): Attivo. p.es. **yajati** = ⟪यजति⟫ = "Egli venera con un sacrificio" (ovvero il sacerdote, che compie il sacrificio per qualcun altro)
    2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("forma verbale con riferimento a sé stesso"): Medio. p.es. **yajate** = ⟪यजते⟫ = "Egli venera con un sacrificio per proprio interesse" (ovvero il capofamiglia, che sacrifica per sé e per la propria famiglia)
@@ -105,14 +105,14 @@ Esempio **yaj** = ⟪यज्⟫ = "onorare con un sacrificio", "sacrificare":
 ### 6.5.2. Verbi della 1. classe del presente (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū ecc.")
 
 ::: grammar-box
-| Tema del presente = Radice in Hochstufe (selten Dehnstufe) + a- ||||
-| Radice (dhātu m.):br⟪धातु⟫ | Grado forte | Grado forte prima di a- | Tema del presente |
+| Tema dell'attuale = Radice in grado elevato (raramente grado indebolito) + a- ||||
+| Radice (dhātu m.):br⟪धातु⟫ | Grado forte | Grado forte prima di a- | Tema dell'attuale |
 | :--- | :--- | :--- | :--- |
 | **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
 | **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
 | **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- |
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
-| Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten, unterbleibt die Formazione der Hochstufe ||||
+| Se la vocale si trova in una sillaba lunga chiusa, cioè una vocale breve seguita da due o più consonanti, la formazione del grado elevato viene omessa ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
 #### 6.5.2.1. Wortsandhi di e e o

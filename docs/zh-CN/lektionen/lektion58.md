@@ -29,9 +29,9 @@ status: stable
 
 |   | **⟪परस्मैपदम्⟫** | **⟪आत्मनेपदम्⟫** |
 | :--- | :---: | :---: |
-| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟩:br“我们两个将成为” | \<⟪भवावहे⟫\> |
-| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br“你们两个将成为” | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br“他们两个将成为” | \<⟪भवेते⟫\> |
+| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟩:br“我们两个将成为” | \&lt;⟪भवावहे⟫\&gt; |
+| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br“你们两个将成为” | \&lt;⟪भवेथे⟫\&gt;:brbhav-a + īthe |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br“他们两个将成为” | \&lt;⟪भवेते⟫\&gt; |
 
 ### 58.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
 
@@ -191,9 +191,9 @@ status: stable
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \<⟪जुहुवहे⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \<⟪जुह्वाथे⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \<⟪जुह्वाते⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \&lt;⟪जुहुवहे⟫\&gt; |
+| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \&lt;⟪जुह्वाथे⟫\&gt; |
+| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \&lt;⟪जुह्वाते⟫\&gt; |
 :::
 ⟪धा⟫ 3U “放置，安放，竖立”
 
@@ -284,9 +284,9 @@ status: stable
 
 **词干前缀 + 词根 + i + s + 非时态词尾**
 
-**!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Wurzelaorist-Formen).
-:::
-Stammbildungssuffix + Endungen des iṣ-Aorist lauten also:
+**!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Wurzelaorist-Formen).  
+:::  
+词干构成后缀加上 iṣ-Aorist 的词尾，具体如下：
 
 ::: grammar-box
 
@@ -378,7 +378,7 @@ Stammbildungssuffix + Endungen des iṣ-Aorist lauten also:
 :::
 ## 58.7. 练习
 
-A) Bestimmen und übersetzen Sie ohne Hilfsmittel folgende Formen und bilden Sie die entsprechenden Formen des i-Aorist:
+[A] 确定并翻译以下形式，并构成相应的 i-前缀过去时（i-aorist）形式：
 
 1.  ⟪औहे⟫
 2.  ⟪जाग्रति⟫

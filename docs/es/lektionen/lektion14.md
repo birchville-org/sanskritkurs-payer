@@ -1,10 +1,10 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: Lección 14
+subtitle: "La expresión de la relación entre lo designado por sustantivos: el genitivo (ṣaṣṭhī f. = ⟪षष्टी⟫ = sexta terminación casal)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+category: "Gramática"
+status: estable
 ---
 
 # Lección 14
@@ -105,8 +105,8 @@ El genitivo singular de las raíces terminadas en vocal se forma de manera irreg
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(es decir, ya sea como **kavi**:brकवि o como **devī**:brदेवी) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(es decir, ya sea como **paśu**:brपशु o como los femeninos polisílabos en **-ū**) |
 
 :::
 **Pronombres interrogativos y pronombres demostrativos:**

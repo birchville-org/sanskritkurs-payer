@@ -1,9 +1,9 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: Lesson 26
+subtitle: "Law of cerebralisations for -s- within the word"
 lesson_id: 26
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "Grammar"
 status: stable
 ---
 
@@ -70,8 +70,8 @@ Example: s. below future tense of ⟪मन्⟫
 **The Simple Future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) expresses:**
 
 - **hope**
-- **eine beabsichtigte oder gewollte Handlung ("ich werde gehen", "ich will gehen")**
-- **eine Erwartung ("es wird so geschehen")**
+- **an intended or desired action ("I will go", "I want to go")**
+- **an expectation ("it will happen so")**
 - **fear**
 - **hope**
 - **probability**

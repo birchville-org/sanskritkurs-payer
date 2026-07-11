@@ -1,10 +1,10 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
-lesson_id: 14
-last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+titre : Leçon 14
+sous-titre : "« L'expression de la relation entre les entités désignées par des substantifs : le génitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixième terminaison casuelle) »"
+lesson_id : 14
+last_reconstructed : 2026-05-21
+category : "« Grammaire »"
+status : stable
 ---
 
 # Leçon 14
@@ -46,7 +46,7 @@ Bien sûr, dans le cas d’un PPP neutre au singulier, utilisé comme un abstrai
 
 Le génitif est formé à partir du thème faible des radicaux verbaux présentant une alternance de grade.
 
-**Genitif des konsonantisch auslautenden Stämme:**
+**Génitif des consonnes finales de souches :**
 
 ::: grammar-box
 
@@ -57,9 +57,9 @@ Après les consonnes, les terminaisons régulières du génitif sont :
 :::
 ::: center
 
-| Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural |
+| Thème nominal | Thème faible | Génitif singulier | Génitif pluriel |
 | :--- | :--- | :--- | :--- |
-| **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
+| **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vant-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
 | **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
@@ -71,7 +71,7 @@ Après les consonnes, les terminaisons régulières du génitif sont :
 
 Le pluriel du génitif des thèmes en voyelle se forme ainsi :
 
-> **-langer auslautender Vokal des Stammes + -nām**
+> **voyelle finale longue du thème + -nām**
 
 :::
 ::: center
@@ -88,7 +88,7 @@ Le pluriel du génitif des thèmes en voyelle se forme ainsi :
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genitif Singulär der auf Vokal endenden Stämme:**
+**Genitif singulier des radicaux se terminant par une voyelle :**
 
 ::: grammar-box
 
@@ -97,7 +97,7 @@ Le génitif singulier des thèmes vocaux se forme de manière irrégulière et d
 :::
 ::: center
 
-| Stamm | Génitif singulier |
+| Thème nominal | Génitif singulier |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
@@ -105,8 +105,8 @@ Le génitif singulier des thèmes vocaux se forme de manière irrégulière et d
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(c.-à-d. soit comme **kavi**:brकवि, soit comme **devī**:brदेवी) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(c.-à-d. soit comme **paśu**:brपशु, soit comme les féminins polysyllabiques en **-ū**) |
 
 :::
 **Pronoms interrogatifs et pronoms démonstratifs :**
@@ -121,7 +121,7 @@ Le génitif singulier des thèmes vocaux se forme de manière irrégulière et d
 | | **Génitif Pluriel** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
-**Formgleichheit :**
+**Identité des formes :**
 
 ::: important
 

@@ -100,7 +100,7 @@ Fig.: ⟪सीमा⟫
 ### 38.3.2. Nume substantive pe -man respectiv -van după consoană
 
 ::: grammar-box
-*   Starker Stamm: -mān, -vān
+*   Temă tare: -mān, -vān
 *   Stâm slab:
     *   înainte de terminații care încep cu consoană: -ma, -va (din -\*mn, -\*vn)
     *   înainte de terminații care încep cu vocală: **\-man, -van**

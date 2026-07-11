@@ -1,9 +1,9 @@
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: Lesson 25
+subtitle: "Formation of the Ablative (⟪पञ्चमी⟫ = \"fifth case ending\")"
 lesson_id: 25
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "Grammar"
 status: stable
 ---
 

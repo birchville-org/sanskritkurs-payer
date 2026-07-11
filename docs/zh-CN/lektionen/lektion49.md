@@ -155,7 +155,7 @@ status: stable
 
 带有⟪कृत्⟫后缀-as的中性名词构成了大量名词。它们通常抽象名词或行为名词（表示动作的词）。
 
-Kurzer Vokal der Wurzel vor einfachem Konsonant sowie auslautender Wurzelvokal erscheinen in der Hochstufe。
+词根前的短元音以及词尾的词根元音在高阶中显现。
 
 示例：
 
@@ -190,9 +190,9 @@ Kurzer Vokal der Wurzel vor einfachem Konsonant sowie auslautender Wurzelvokal e
 
 :::
 ::: indent
-**Carakasaṃhitā:** Ausgewählte Texte aus der Carakasaṃhitā / übersetzt und erläutert von Alois Payer \<1944 - \>. -- 0. Einleitung. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**《车拉卡本集》：选自《车拉卡本集》文本 / 翻译与注释，作者：阿洛伊斯·派尔 &lt;1944 - &gt;。 -- 0. 引言。 -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)**
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : werfen, schleudern
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ ：投掷，抛射
 
 ::: indent
 完成时 II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫

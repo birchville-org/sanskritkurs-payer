@@ -559,7 +559,7 @@ status: stable
 :::
 
 ::: indent
-**Вестергаард**, Нильс Людвиг \<1815-1878\>: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
+**Вестергаард**, Нильс Людвиг \&lt;1815-1878\&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
 ## 61.5. Бенедиктив (⟪आशीर्लिङ्⟫)
 

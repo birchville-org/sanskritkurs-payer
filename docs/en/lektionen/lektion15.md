@@ -302,7 +302,7 @@ Fig.: ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (postposed): as if, like (in comparisons: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "a man like a tiger", "a tiger-like man"
 
-⟪एव⟫ (postposed): emphasizes the preceding, often corresponds in German to the emphasis, a kind of emoticon `\<!\>`, e.g. ⟪सत्यमेव⟫ ⟪जयति⟫ "only the truth prevails", "precisely the truth prevails", "the truth prevails"
+⟪एव⟫ (postposed): emphasizes the preceding, often corresponds in German to the emphasis, a kind of emoticon `\&lt;!\&gt;`, e.g. ⟪सत्यमेव⟫ ⟪जयति⟫ "only the truth prevails", "precisely the truth prevails", "the truth prevails"
 
 ⟪अरि⟫ m.: enemy (according to Thieme, Der Fremdling im Ṛgveda: originally = stranger)
 

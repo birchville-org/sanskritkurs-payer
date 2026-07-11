@@ -71,18 +71,18 @@ pārvatīparameśvarau |**
 开头是一个奇闻：
 
 ::: note-box
-„Als William Jones [1746–1794] und Henry Thomas Colebrooke (1765—1857) das Sanskrit erstmalig gründlich studiert, teilweise übersetzt und gefunden hatten, dass es eine reiche Literatur und nicht geringe Verwandtschaft mit den klassischen Sprachen aufwies, stießen sie auf nicht geringen Widerstand. Da sich mit dieser innigen Beziehung des Sanskrits zu den geographisch so weit entlegenen europäischen Sprachen die alten Anschauungen, welche entweder alle Sprachen aus dem Hebräischen ableiteten oder größtenteils von einander isolierten, nicht in Einklang bringen lassen, so ergriff der berühmte Philologe Dugald Steward (1753—1828) den einfachsten Ausweg, indem er die ganze Geschichte mit der Sanskritsprache für eine Lüge erklärte. Er schrieb einen Essay, in dem er zu beweisen suchte, dass sie von den spitzbübischen Brahmanen nach dem Muster des Griechischen und Lateinischen zusammengeschmiedet sei und die Sprache sowohl als auch die Literatur eine Fälschung seien. Diese Ansicht entwickelte noch im Jahre 1840 der Professor in Dublin, Charles William Wall, weitläufig (Göttingische gelehrte Anzeigen 1842 S. 1888).“
+“当威廉·琼斯（William Jones，[1746–1794]）与亨利·托马斯·科布鲁克（Henry Thomas Colebrooke，1765—1857）首次对梵语进行系统研究、部分翻译，并发现其拥有丰富的文学且与古典语言存在显著亲缘关系时，他们遭遇了相当大的阻力。由于梵语与地理上如此遥远的欧洲语言之间这种紧密关系，无法调和那些要么将所有语言追溯至希伯来语、要么认为各语言彼此孤立的老观点，因此著名学者杜加尔德·斯图尔特（Dugald Steward，1753—1828）采取了最简单的解决办法，即将整个梵语历史斥为谎言。他撰写了一篇论文，试图证明这是由狡诈的婆罗门模仿希腊语和拉丁语拼凑而成的，其语言与文学均为伪造。都柏林的查尔斯·威廉·沃尔（Charles William Wall）教授在1840年进一步详尽阐述了这一观点（《哥廷根学术通报》Göttingische gelehrte Anzeigen，1842年，第1888页）。”
 :::
-> [Quelle: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10]
+> [来源：**凯默里希**，马克斯 \&lt;1876-1932\&gt;：《文化奇谭》（Kultur-Kuriosa）。-- 慕尼黑 : 朗根出版社。-- 第2卷。-- 1923年。-- 第74页。-- 在线：[http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft)。-- 访问日期：2010-01-10]
 
-## 1.1. Literatur für Anfänger in Indologie
+## 1.1. 印度学初学者文献
 
 ::: media
 ![](/images/lekt0103.webp)
 图：平装本封面标题
 （图片来源：[详情](/zh-CN/licenses#lekt0103)）
 :::
-> **Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ 部分：A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Seither viele Ausgaben, auch Taschenbuchausgaben. -- **Pflichtlektüre.** Eine gute Übersicht über Leben, Geschichte und Kultur im vormuslimischen Indien. Gesamtübersicht über die verschiedenen Gebiete der klassischen Indologie.
+> **巴沙姆**，A. L.（Arthur Llewellyn）\&lt;1914-1986\&gt; _The wonder that was India_ 部分：A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- 伦敦 : Sidgwick & Jackson，1954年。-- 此后多次再版，包括平装本。-- **必读文献**。对穆斯林到来之前印度次大陆的生活、历史与文化提供了良好的概览。全面概述了古典印度学的各个领域。
 
 ::: media
 ![](/images/lekt0104.webp)

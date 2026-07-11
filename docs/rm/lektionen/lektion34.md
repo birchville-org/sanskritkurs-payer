@@ -8,7 +8,7 @@ status: stable
 
 ## 34.1. Das Perfekt (⟪लिट्⟫)
 
-En il sanscrit classic n'existan dal stem dal perfect mo l'indicativ ed il particip.
+En il sanscrit classic n'existan dal tema dal perfect mo l'indicativ ed il particip.
 
 ::: grammar-box
 **Existeschn duas tipas da furmaziun dal perfect:**
@@ -23,7 +23,7 @@ En il sanscrit classic n'existan dal stem dal perfect mo l'indicativ ed il parti
 :::
 ## 34.2. Il perfect reduplicà (⟪द्वित्वलिट्⟫)
 
-### 34.2.1. Stammabstufung
+### 34.2.1. Gradasiun dal stom
 
 ::: grammar-box
 **Educaziun:**
@@ -39,7 +39,7 @@ En il sanscrit classic n'existan dal stem dal perfect mo l'indicativ ed il parti
 *   **(consonant)-consonant-vocal lungia-consonant**
 *   **(consonant)-consonant-vocal-consonant-consonant**
 
-**Im Perfekt haben außerdem keine Stammabstufung Wurzeln der Form:**
+**En il perfect n'han ultra da quai nagina gradasiun dal stom ragischs da la furma:**
 *   **a-Konsonant**
 *   **ā-Konsonant**
 :::
@@ -143,7 +143,7 @@ Principi da classificaziun: particularitads da la graduaziun da la radischa:
 ## 34.4. Perfekt Tip I: Perfett senza ablaut da radis
 
 ::: grammar-box
-**Il perfectum da tip I (senza fluctuaziun dal stem) han radis dals tips:**
+**Il perfectum da tip I (senza fluctuaziun dal tema) han radischs dals tips:**
 *   **(Consonant)-Consonant-vocal lung-consonant**
 *   **(Consonant)-Consonant-vocal-consonant-consonant**
 *   **a-Consonant**
@@ -162,15 +162,15 @@ Exempels:
 | ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
-## 34.5. Perfekti tip II: Stamm fort, nivel alt, Stamm debol, nivel bass
+## 34.5. Perfect tip II: Stom ferm, nivel aut, stom debel, nivel bass
 
 ::: grammar-box
 **Vegnì da radischs da la furma:**
 *   **(consonant)-(consonant)-i/u/ṛ/ḷ-consonant**
 
 **Educaziun:**
-*   **stärk stem: nivel aut**
-*   **debil stem: nivel bas**
+*   **tema ferm: nivel aut**
+*   **tema debil: nivel bas**
 :::
 Exemples:
 

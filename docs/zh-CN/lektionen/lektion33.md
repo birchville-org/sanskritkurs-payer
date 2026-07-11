@@ -34,31 +34,31 @@ status: stable
 **⟪पॄ⟫** 3 “充满”
 * 3.sg.P.Ind.Präs. ***⟪पि⟫***⟪पर्ति⟫
 
-**⟪मा⟫** 3Ā “messen”
+**⟪मा⟫** 3Ā “测量”
 * 3.sg.Ā.Ind.Präs. ***⟪मि⟫***⟪मीते⟫
 :::
 ::: grammar-box
-**2. Ein aspirierter Anfangskonsonant einer Wurzel wird durch den entsprechenden nicht-aspirierten Konsonanten redupliziert.**
+**2. 词根以送气起始辅音开头时，其重复形式使用相应的不送气辅音。**
 :::
-Beispiele:
+例如：
 
 ::: indent
 **⟪धा⟫** 3 “setzen”
 * 3.sg.P.Ind.Präs. **⟪दधाति⟫**
 
-**⟪भी⟫** 3 “fürchten”
+**⟪भी⟫** 3 “害怕”
 * 3.sg.P.Ind.Präs. ***⟪बि⟫***⟪भेति⟫
 :::
 ::: grammar-box
-**3. Ein Guttural wird durch den ihm entsprechenden nicht-aspirierten Palatal redupliziert:**
+**3. 软腭音通过其对应的非送气颚音进行重辅：**
 
 :::
 ::: indent
-**⟪क्⟫**, **⟪ख्⟫** durch **⟪च्⟫**  
-**⟪ग्⟫**, **⟪घ्⟫** durch **⟪ज्⟫**
+**⟪क्⟫**，**⟪ख्⟫** 通过 **⟪च्⟫**  
+**⟪ग्⟫**，**⟪घ्⟫** 通过 **⟪ज्⟫**
 :::
-**⟪ह्⟫ wird immer durch ⟪ज्⟫ redupliziert.**
-Beispiele:
+**⟪ह्⟫ 始终通过 ⟪ज्⟫ 进行重辅。**
+例如：
 
 ::: indent
 **⟪हु⟫** 3 “向火中倾倒（作为祭品）”
@@ -81,7 +81,7 @@ Beispiele:
 ::: grammar-box
 **教育：**
 
-**starker Stamm:**  
+**强词干：**  
 **reduplizierte hochstufige Wurzel + Endung**
 
 **弱词干：**  
@@ -92,23 +92,23 @@ Beispiele:
 ### 33.2.1. 第三现在时类的重叠元音
 
 ::: grammar-box
-* **Der regelmäßige Reduplikationsvokal ist -i-**
-* **u-haltige Wurzeln reduplizieren mit -u-**
-* **die Wurzeln ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ mit -a-**
+* **规则的重叠元音是 -i-**
+* **包含 u 的词根以 -u- 重叠**
+* **词根 ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ 以 -a- 重叠**
 :::
-Beispiele:
+例如：
 
 ::: grammar-box
 **⟪हु⟫** 第三人称单数 “（向祭品）倒入火中”
 
-* **starker Stamm:** ⟪जुहो⟫
-* **schwacher Stamm:** ⟪जुहु⟫
+* **强词干：** ⟪जुहो⟫
+* **弱词干：** ⟪जुहु⟫
 
 | | 第三人称单数主动语态 | 第三人称复数主动语态 | 第三人称单数中动语态 | 第三人称复数中动语态 |
 | :--- | :--- | :--- | :--- | :--- |
-| **现在时直陈式** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
-| **未完成时** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
-| **虚拟式** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
+| **现在时直陈式** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \&lt;⟪जुहुते⟫\&gt; | \&lt;⟪जुह्वते⟫\&gt;:brjuhu + ate |
+| **未完成时** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \&lt;⟪अजुहुत⟫\&gt; | \&lt;⟪अजुह्वत⟫\&gt;:bra-juhu + ata |
+| **虚拟式** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \&lt;⟪जुह्वीत⟫\&gt;:brjuhu + ī-ta | \&lt;⟪जुह्वीरन्⟫\&gt;:brjuhu + ī-ran |
 :::
 ## 33.3. 关于长音 ā 的元音交替
 
@@ -122,15 +122,15 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 ::: grammar-box
 **A.**
 
-* **Tiefstufe**
-  * **vor Konsonant: -i-**  
-    z.B. **⟪धा⟫** PPP: **⟪हित⟫** (hi-ta)
-  * **vor Vokal: Ø**  
-    z.B. **⟪धा⟫** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
-* **Hochstufe: -ā-**  
-  z.B. **⟪धा⟫** 3.sg.P.Ind.Präs. **⟪दधाति⟫**
+* **低阶**
+  * **辅音前：-i-**  
+    例如，**⟪धा⟫** 过去分词：**⟪हित⟫** (hi-ta)
+  * **元音前：Ø**  
+    例如，**⟪धा⟫** 第三人称复数直陈式现在时 **⟪दधति⟫** (dadh-ati)
+* **高阶：-ā-**  
+  例如，**⟪धा⟫** 第三人称单数直陈式现在时 **⟪दधाति⟫**
 :::
-Hierher gehört z.B. auch:
+例如还包括：
 
 ::: indent
 **⟪स्था⟫** 1
@@ -378,7 +378,7 @@ A) 在以下句型中填入括号内单词的相应形式：
 
 ⟪रामस्⟫ ... (⟪⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 
-B) Fügen Sie die entsprechenden Formen der in Klammern angegebenen Verben im Indikativ Präsens, Imperfekt und Optativ ein:
+B) 填入括号内动词在陈述语气现在时、未完成过去时和虚拟语气的相应形式：
 
 ⟪ब्राह्मणो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
 

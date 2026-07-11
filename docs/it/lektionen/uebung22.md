@@ -66,7 +66,7 @@ Anche se non ha mai sacrificato, un uomo ottiene la liberazione solo attraverso 
 
 ⟪५⟫. **⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरो⟫ ⟪वक्ति⟫ ⟪॥५॥⟫**
 (⟪गृहस्य⟫ ⟪गर्भम्⟫ ⟪।⟫ ⟪ब्राह्मणस्य⟫ ⟪पुत्रम्⟫ ⟪।⟫ ⟪क्षत्रिय⟫ ⟪एव⟫ ⟪शूरः⟫)
-Der Kṣatriyaheld betritt das Innere des Hauses, stellte sich in ehrerbietiger Haltung vor den Sohn des Brahmanen und spricht.
+L'eroe kṣatriya entra nell'interno della casa, si presenta con umile postura davanti al figlio del brāhmaṇa e parla.
 
 ⟪६⟫. **⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫**
 (⟪दुःखमादिर्येषां⟫ ⟪तान्यार्याणि⟫ ⟪सत्यानि⟫ ⟪।⟫ ⟪सुष्टु⟫ ⟪गतः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪मार्गेण⟫)

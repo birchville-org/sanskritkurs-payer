@@ -60,7 +60,7 @@ status: stable
 
 (ਦੁਰਬਲ) ਵਰਤਮਾਨ ਮੂਲ + -ām + ਸੰਬੰਧਿਤ ਪਰਫੈਕਟ ਰੂਪ ⟪कृ⟫, ⟪अस्⟫ ਜਾਂ ⟪भू⟫ ਦਾ
 
-- Auslautender Stammvokal wird vor -ām guṇiert.
+- ਵਿਸ਼ੇਸ਼ਣ ਦਾ ਅੰਤਿਮ ਸਵਰ -ām ਤੋਂ ਪਹਿਲਾਂ guṇa ਬਣ ਜਾਂਦਾ ਹੈ।
 - ⟪अस्⟫ ਅਤੇ ⟪भू⟫ ਆਤਮਨੇਪਦ ਕ੍ਰਿਆਵਾਂ ਵਿੱਚ ਵੀ ਪਰਾਸਮੈਪਦ ਵਿੱਚ ਸੰਯੁਕਤ ਕੀਤੇ ਜਾਂਦੇ ਹਨ⟪।⟫
 :::
 Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.

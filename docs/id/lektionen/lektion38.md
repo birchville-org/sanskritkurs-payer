@@ -100,7 +100,7 @@ Fig.: ⟪सीमा⟫
 ### 38.3.2. Nouns ending in -man or -van after a consonant
 
 ::: grammar-box
-*   Starker Stamm: -mān, -vān
+*   Batang kuat: -mān, -vān
 *   Weak stem:
     *   before endings beginning with a consonant: -ma, -va (from -\*mn, -\*vn)
     *   before endings beginning with a vowel: **\-man, -van**

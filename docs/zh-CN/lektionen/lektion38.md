@@ -43,11 +43,11 @@ status: stable
 ::: grammar-box
 以 **-an** 结尾的名词以及元音后以 **-man** 或 **-van** 结尾的名词有三个词干：
 
-| Stamm | -an | -man | -van | Verwendung |
+| 词干 | -an | -man | -van | 用法 |
 | :--- | :---: | :---: | :---: | :--- |
-| **Starker Stamm** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. |
-| **Mittlerer Schwacher Stamm** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Endung:brWahlweise auch Lok. sg. m. n. f. |
-| **Schwächster Stamm** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Endung |
+| **强词干** | **-ān** | **-mān** | **-vān** | 主格、宾格、呼格，单数阳性与阴性：br主格、宾格、呼格，双数阳性与阴性：br主格、呼格，复数阳性与阴性：br主格、宾格，复数中性 |
+| **中弱词干** | **-a** :br（源自 -*n） | **-ma** :br（源自 -*mn） | **-va** :br（源自 -*vn） | 其余格位，在辅音开头的词尾前：br也可选择性地用于阳性、中性和阴性的单数处格 |
+| **最弱词干** | **-n** | **-mn** | **-vn** | 其余格位，在元音开头的词尾前 |
 
 **词尾是规则的。阳性/阴性单数主格不带词尾 -n 构成。**
 :::
@@ -100,7 +100,7 @@ status: stable
 ### 38.3.2. 辅音后以 -man 或 -van 结尾的名词
 
 ::: grammar-box
-*   Starker Stamm: -mān, -vān
+*   强词干：-mān, -vān
 *   弱词干：
     *   在辅音开头的词尾前：-ma, -va（源自 -\*mn, -\*vn）
     *   在元音开头的词尾前：**\-man, -van**
@@ -111,10 +111,10 @@ status: stable
 
 ⟪आत्मन्⟫ n. “灵魂”
 
-*   starker Stamm: ⟪आत्मान्⟫
-*   schwacher Stamm:
-    *   vor Konsonant: ⟪आत्म⟫
-    *   vor Vokal: ⟪आत्मन्⟫
+*   强词干：⟪आत्मान्⟫
+*   弱词干：
+*   在辅音前：⟪आत्म⟫
+*   在元音前：⟪आत्मन्⟫
 
 ⟪ब्रह्मन्⟫ n.：绝对者，吠陀，梵
 
@@ -151,9 +151,9 @@ status: stable
 
 主格单数阳性与主格/宾格复数中性是仿照 -an 词干构成的（-i- 的延长），辅音结尾前的 **-i-** 词干亦然。
 
-Das Femininum wird mit dem Suffix -ī gebildet: z.B. ⟪बलिनी⟫
+阴性通过后缀 -ī 构成：例如 ⟪बलिनी⟫
 :::
-Beispiel:
+示例：
 
 ⟪बलिन्⟫ m.n. “强壮、有力（以特殊的⟪बल⟫为特征，拥有⟪बल⟩）”
 
@@ -186,9 +186,9 @@ Beispiel:
 
 **gekennzeichnet durch, besitzend**
 
-Ursprünglich unterschied sich die Bildung mit dem Suffix **-⟪इन्⟫** von der mit **-⟪मन्त्⟫/-⟪वन्त्⟫** dadurch, dass **-⟪इन्⟫** die Kennzeichnung durch etwas Besonderes bezeichnete, während **-⟪मन्त्⟫/-⟪वन्त्⟫** den Besitz von, die Kennzeichnung durch etwas ausdrückte, das gewöhnlich, allgemein ist.
+最初，带有后缀 **-⟪इन्⟫** 的构词法与带有后缀 **-⟪मन्त्⟫/-⟪वन्त्⟫** 的构词法不同，因为 **-⟪इन्⟫** 表示由某种特殊事物所标记，而 **-⟪मन्त्⟫/-⟪वन्त्⟫** 则表示拥有或带有通常的、普遍的事物。
 :::
-Beispiel:
+例如：
 
 ⟪हस्तिन्⟫ m.：由特殊标记所标识者 = 大象（其“手”并非普通的手，而是象鼻）
 
@@ -260,9 +260,9 @@ Beispiel:
 ## 38.7. 作为复合词前成分的辅音结尾词干
 
 ::: grammar-box
-Stämme, die auf einen Konsonanten enden, erscheinen als Vorderglied eines Kompositums in dem (schwachen) Stamm, den sie vor der Endung -su des Lokativ (⟪सप्तमी⟫) Plural annehmen.
+以辅音结尾的词根，在复合词中作为前成分时，呈现为其（弱）词干形式，该词干是在方位格复数后缀-su之前所采取的形式（⟪सप्तमी⟫）。
 :::
-Beispiel:
+示例：
 
 ::: indent
 ***⟪राज⟫***⟪पुत्र⟫ “王之子”

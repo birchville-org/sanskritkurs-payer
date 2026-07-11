@@ -1,10 +1,10 @@
 ---
-title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+title: Lección 45
+subtitle: "Formación de las formas verbales de la 2.ª persona (⟪मध्यमः⟫) de raíces atemáticas sin sufijo final vocálico (continuación)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+category: "Gramática"
+status: estable
 ---
 
 # Lección 45
@@ -19,9 +19,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
-| **Imperfecto** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
-| **Optativo** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
+| **Indikativ Presente** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \&lt;⟪जुहुषे⟫\&gt; | \&lt;⟪जुहुध्वे⟫\&gt; |
+| **Imperfecto** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \&lt;⟪अजुहुथास्⟫\&gt; | \&lt;⟪अजुहुध्वम्⟫\&gt; |
+| **Optativo** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \&lt;⟪जुह्वीथास्⟫\&gt; | \&lt;⟪जुह्वीध्वम्⟫\&gt; |
 :::
 ⟪धा⟫ 2U
 
@@ -104,14 +104,14 @@ Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 
 ## 45.4. Ejercicio
 
-A) Traduzca al sánscrito (para las formas pasadas, por favor utilice el imperfecto \<⟪लङ्⟫\>):
+A) Traduzca al sánscrito (para las formas pasadas, por favor utilice el imperfecto \&lt;⟪लङ्⟫\&gt;):
 
 1\. Tú divides la (comunidad budista).
 
 ::: indent
 Sobre la división de la comunidad (⟪सङ्घभेद⟫), véase:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2\. ¿Disfrutasteis de la tierra?
 
