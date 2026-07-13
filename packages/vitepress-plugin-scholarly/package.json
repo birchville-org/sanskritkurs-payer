@@ -1,0 +1,9 @@
+{
+  "name": "vitepress-plugin-scholarly",
+  "version": "1.0.0",
+  "description": "Custom markdown-it containers and scholarly syntax for VitePress",
+  "main": "index.js",
+  "dependencies": {
+    "markdown-it-container": "^3.0.0"
+  }
+}
