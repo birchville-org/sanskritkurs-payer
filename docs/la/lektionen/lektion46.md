@@ -11,7 +11,7 @@ status: stable
 
 ## 46.1. Formatio formarum verbalium personae secundae (⟪मध्यमः⟫) Perfectum (⟪लिट्⟫)
 
-### 46.1.1. Endungen
+### 46.1.1. Terminationes
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -336,7 +336,7 @@ Periphrasticum perfectum formatur ex:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
 :::
-## 46.2. Wortliste
+## 46.2. Vocabularium
 
 ⟪सम⟫ 3: aequalis, idem, similis
 

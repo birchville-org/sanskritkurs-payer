@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 37
 
-## 37.1. Das Adverb (⟪क्रियाविशेषणम्⟫)
+## 37.1. Adverbium (⟪क्रियाविशेषणम्⟫)
 
 Adverbia in Sanscrito formantur
 
@@ -20,7 +20,7 @@ In primo casu finis inter casum vivum et adverbium fluida est. Quae res includit
 
 ## 37.2. Casuum adverbialis usus
 
-### 37.2.1. Akkusativ (⟪द्वितीया⟫)
+### 37.2.1. Accusativus (⟪dvitīyā⟫)
 
 ::: grammar-box
 Casus accusativus (⟪द्वितीया⟫) adverbialiter ad quaestiones:
@@ -86,7 +86,7 @@ Example:
 ### 37.2.4. Ablativus (⟪पञ्चमी⟫)
 
 ::: grammar-box
-The Ablative (⟪पञ्चमी⟫) may be used adverbially in response to the questions:
+Casus Ablativus (⟪पञ्चमी⟫) adverbialiter uti potest, ad quaestionem respondens:
 
 *   cur?
 *   et cetera
@@ -133,7 +133,7 @@ Exempla:
 
 Exempla:
 ::: indent
-⟪जातु⟫ "prorsus" (originale "nativitate, natura", acc. sg. n. ad ⟪जातु⟫ \<non amplius nomine usitatum\>)
+⟪जातु⟫ "prorsus" (originale "nativitate, natura", acc. sg. n. ad ⟪जातु⟫ \&lt;non amplius nomine usitatum\&gt;)
 
 ⟪तूष्णीम्⟫ "tacitus" (Acc.sg. ad non iam usitatum ⟪तूष्णी⟫ f. "silentium")
 
@@ -184,7 +184,7 @@ Fig.: ⟪क्व⟫
 | **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
-## 37.5. Adverbiale Komposita
+## 37.5. Composita adverbialia
 
 ### 37.5.1. Composita cum adverbio vel casu adverbialiter uso ut membro posteriore
 
@@ -194,7 +194,7 @@ Exemplum: ⟪सुचिरम्⟫ "diu multum (tempus)"
 
 Exemplum: ⟪रक्षार्थम्⟫ "in similitudine alicuius, cuius finis est custodia, ad finem custodiendi". Item potest considerari pertinens ad 5.1.: -⟪अर्थम्⟫ ut pars posterior adverbialis.
 
-### 37.5.3. ⟪अव्ययीभाव⟫-Komposita
+### 37.5.3. Composita ⟪अव्ययीभाव⟫
 
 ⟪अव्ययीभाव⟫ = "immotum/indeclinabile factum"
 
@@ -316,11 +316,11 @@ Saepe ex contextu tantum patet, utrum sententia quaestio sit.
 ::: grammar-box
 Schema I:
 
-Verb - the rest of the sentence
+Verbum — reliquum sententiae
 :::
-Example:
+Exemplum:
 ::: indent
-⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Will the Brāhmaṇa boy become a master?"
+⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Nene puer Brāhmaṇicus dominus fiat?"
 :::
 ::: grammar-box
 Schema II:
@@ -374,7 +374,7 @@ Fig.: ⟪वृक्षः⟫
 :::
 ⟪मुख⟫ n.: os, facies, pars anterior, initium
 
-## 37.10. Übung
+## 37.10. Exercitium
 
 A) Ad haec quaestiones Sanscritice responde, verbis in parenthesibus indicatis. Quaestionum sententias vertite.
 
@@ -386,7 +386,7 @@ Example: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » �
 
 ⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<casus absolutus\>)
+⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \&lt;casus absolutus\&gt;)
 
 ⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 

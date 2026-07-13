@@ -35,7 +35,7 @@ Explicatio: ⟪पयस्⟩ n. = ⟪दुग्धम्⟩
 
 ## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a
 
-### 41.2.1. Participium Praesens (⟪लडादेशः⟫) Ā, Participium Praesens (⟪लडादेशः⟫) Passivum, Participium Futuri (⟪ऌडादेशः⟫) Ā
+### 41.2.1. Participium Praesens (⟪लडादेशः⟫) Ā, Participium Praesens (⟪लडादेशः⟫) Passivumum, Participium Futuri (⟪ऌडादेशः⟫) Ā
 
 #### 41.2.1.1. Tematica praesentis, passivi et futuri
 

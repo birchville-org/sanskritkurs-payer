@@ -1,10 +1,10 @@
 ---
-title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+title: पाठ 25
+subtitle: "अपवाद का निर्माण (⟪⟪पञ्चमी⟫⟫ = \"पाँचवाँ विभक्ति प्रत्यय\")"
 lesson_id: 25
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+category: "व्याकरण"
+status: स्थिर
 ---
 
 # पाठ 25

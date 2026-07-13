@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 23
 
-## 23.1. Der Infinitiv (⟪तुमुन्⟫)
+## 23.1. L'infinitiv (⟪tumun⟫)
 
 ::: grammar-box
 **Per exprimir en sànscrit qu’ina activitad vegnia exercida per l’emprim d’ina autra activitad (“per far”), po usar si per l’activitad, per la quala ella vegnia exercida, l’infinitiv (⟪तुमुन्⟫). L’infinitiv designescha en emprima lingia lo scop u l’intenziun:**
@@ -51,7 +51,7 @@ p.ex.
 
 > ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "in chel che vul dir; in chel che vul dir".
 :::
-## 23.2. Furmaiziun dal infinitiv (⟪तुमुन्⟫)
+## 23.2. Furmaziun dal infinitiv (⟪tumun⟫)
 
 ::: grammar-box
 **oppure**
@@ -88,7 +88,7 @@ Trai las radis fin ussa emprendidas, èn ils suandants infinitivs specialmain da
 :::
 Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
-## 23.3. L'infinitiv (⟪तुमुन्⟫) a las radis gudidas fin qua
+## 23.3. L'infinitiv (⟪तुमुन्⟫) a las ragischs gudidas fin qua
 
 ⟪अद्⟫ 2P ⟪अत्तुम्⟫  
 ⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
@@ -151,7 +151,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 ⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
 ⟪हन्⟫ 2P ⟪हन्तुम्⟫
 
-## 23.4. Wortliste
+## 23.4. Glista da pleds
 
 ⟪समान⟫ ⟪३⟫: equal
 
@@ -161,7 +161,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 
 ⟪विशेष⟫ m.: particularitad, specificaziun, differentia specifica
 
-## 23.5. Übung
+## 23.5. Exercizi
 
 A) Las suentas suvent il infinitiv senza vocala da ligaziun -i-. Formai l'infinitiv tenend cuntegnidas las midadas foneticas a:
 

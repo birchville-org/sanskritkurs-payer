@@ -44,7 +44,7 @@ This form of the Aorist is formed by, among others:
 ::: grammar-box
 **All roots of the 10th present class as well as all causatives always form the reduplicated aorist.**
 :::
-### 56.1.1. Formation of the Aorist of Causatives and Roots of the 10th Present Class
+### 56.1.1. णिजन्तधातूनां दशमगणधातूनां च लुङ्लकारस्य रचना
 
 Stem syllable:
 

@@ -166,7 +166,7 @@ Exemple :
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-## 35.4. Wortliste
+## 35.4. Liste de mots
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : périr, se perdre, disparaître
 ::: indent
@@ -211,7 +211,7 @@ Fig. : ⟪जगुः⟫
 Musiciens du temple Kaadu Malleswara Temple Bangalore.
 (Source de l'image : [Détails](/fr/licenses#lekt3501))
 :::
-## 35.5. Übung
+## 35.5. Exercice
 
 A) Formez les formes de parfait correspondantes aux formes verbales suivantes :
 

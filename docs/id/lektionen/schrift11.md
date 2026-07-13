@@ -20,7 +20,7 @@ B) Read and transliterate:
 
 ⟪१२⟫ ⟪२३⟫ ⟪२४⟫ ⟪५३६⟫ ⟪६५⟫ ⟪८७⟫ ⟪१९४४⟫ ⟪२००८⟫ ⟪९९०⟫ ⟪८७⟫ ⟪७६⟫ ⟪६५⟫ ⟪५४⟫ ⟪४३⟫ ⟪३२⟫ ⟪२१⟫ ⟪१९⟫ ⟪२८⟫ ⟪८३⟫ ⟪७४⟫ ⟪५७⟫ ⟪६६⟫
 
-### Classification of Sanskrit Sounds (from: Kielhorn: Grammar of the Sanskrit Language)
+### Klasifikasi Bunyi Sanskerta (dari: Kielhorn: Tata Bahasa Bahasa Sanskerta)
 
 ![](/images/schrift028.webp)
 

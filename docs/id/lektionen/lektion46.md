@@ -1,35 +1,35 @@
 ---
-title: Lesson 46
-subtitle: "Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) Perfect (⟪लिट्⟫)"
+title: Pelajaran 46
+subtitle: "Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) Sempurna (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
-category: "Grammar"
-status: stable
+category: "Tata Bahasa"
+status: stabil
 ---
 
 # Lesson 46
 
-## 46.1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) Perfect (⟪लिट्⟫)
+## 46.1. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) Sempurna (⟪लिट्⟫)
 
 ### 46.1.1. Endings
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **Perfect endings** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ^^ | \-tha | \-a | \-se | \-dhve |
+| **Akhiran sempurna** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ^^ \-tha | \-a | \-se | \-dhve |
 :::
-Note that the ending -- mostly but not the form! -- of the 2.pl.P coincides with that of the 1. and 3.sg.P.
+Perhatikan bahwa akhiran -- sebagian besar, tetapi bukan bentuknya! -- dari 2.pl.P bertepatan dengan yang dari 1. dan 3.sg.P.
 
 ::: grammar-box
-Before -tha, with most roots ending in -ṛ, no connecting vowel \-i- appears. With some roots, the \-i- before \-tha- is optional.
+Sebelum -tha, dengan sebagian besar akar yang berakhiran -ṛ, tidak ada vokal penghubung \-i- muncul. Dengan beberapa akar, \-i- sebelum \-tha- bersifat opsional.
 :::
-### 46.1.2. Sound Change of the Ending -dhve
+### 46.1.2. Perubahan Bunyi Akhiran -dhve
 
 ::: grammar-box
 The ending -dhve must be replaced by -ḍhve in the perfect when a root-internal -u or -ṛ immediately precedes it. This replacement can optionally occur after the connecting vowel -i- when a semivowel or h immediately precedes that -i-.
 :::
-### 46.1.3. Perfect Type I: no stem gradation
+### 46.1.3. Jenis Sempurna I: tanpa gradasi tematis
 
 Verbs that follow this type:
 
@@ -55,7 +55,7 @@ Verbs that follow this type:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \<⟪जिजीविषे⟫\> | \<⟪जिजीविध्वे⟫\>:br\<⟪जिजीविढ्वे⟫\> |
+| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \&lt;⟪जिजीविषे⟫\&gt; | \&lt;⟪जिजीविध्वे⟫\&gt;:br\&lt;⟪जिजीविढ्वे⟫\&gt; |
 :::
 ⟪अस्⟫ 2P, 4P
 
@@ -63,7 +63,7 @@ Verbs that follow this type:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
+| ⟪आसिथ⟫ | ⟪आस⟫ | \&lt;⟪आसिषे⟫\&gt; | \&lt;⟪आसिध्वे⟫\&gt; |
 :::
 ### 46.1.4. Perfect Type II: strong stem full grade, weak stem reduced grade
 
@@ -180,13 +180,13 @@ Verbs that follow this type:
 Verbs that follow this type:
 
 ::: indent
-1.  gam "to go"
-2.  han (»ghan) "to strike"
-3.  jan "to be born"
-4.  vac "to speak"
-5.  vad "to speak"
-6.  yaj "to sacrifice"
-7.  etc.
+1. gam "pergi"
+2. han (»ghan) "memukul"
+3. jan "terlahir"
+4. vac "berbicara"
+5. vad "berbicara"
+6. yaj "mengorbankan"
+7. dll.
 :::
 ⟪गम्⟫ 1P
 
@@ -255,7 +255,7 @@ Verbs that follow this type:
 #### 46.1.7.2. Perfect Type Vb: Consonant-a-Consonant, initial consonant not guttural, aspirate, h, weak stem without reduplication, with -e-
 
 ::: grammar-box
-The 2.sg.P. is formed from the weak stem when the connecting vowel -i- occurs.
+Bentuk 2.sg.P. dibentuk dari stem lemah ketika vokal penghubung -i- muncul.
 :::
 ⟪पच्⟫ 1U
 
@@ -317,16 +317,16 @@ Verbs that follow this type:
 
 The periphrastic perfect is formed from:
 
-*   derived verbal stems (causative, desiderative, frequentative, denominative), especially causative
-*   roots that begin with a long vowel (except ā)
-*   roots: vowel (except a-)-consonant-consonant
-*   a few others
-*   for some roots, both perfects can optionally be formed: uṣ "to burn", vid "to know", jāgṛ "to wake", daridrā "to be poor"
-*   for the following roots, both perfects can optionally be formed and the periphrastic perfect is also reduplicated, namely with the reduplication syllable of the present stem:
-    *   bhī "to fear"
-    *   bhṛ "to carry"
-    *   hu "to sacrifice"
-    *   hrī "to be ashamed"
+*   akar kata kerja turunan (kausal, desideratif, frekuentatif, denominatif), terutama kausal
+*   akar yang dimulai dengan vokal panjang (kecuali ā)
+*   akar: vokal (kecuali a-)-konsonan-konsonan
+*   beberapa lainnya
+*   untuk beberapa akar, kedua bentuk sempurna dapat dibentuk secara opsional: uṣ "membakar", vid "mengetahui", jāgṛ "bangun", daridrā "miskin"
+*   untuk akar berikut, kedua bentuk sempurna dapat dibentuk secara opsional dan bentuk sempurna periphrastik juga diduplikasi, yaitu dengan suku kata duplikasi dari akar kini:
+*   bhī "takut"
+*   bhṛ "membawa"
+*   hu "mengorbankan"
+*   hrī "malu"
 
 ⟪बन्ध्⟫ Causative
 
@@ -341,10 +341,10 @@ The periphrastic perfect is formed from:
 ⟪सम⟫ 3: same, equal, similar
 
 ::: indent
-from that:
-⟪समम्⟫ Adv.: in the same manner, at the same time (⟪तृतीयया⟫), uniformly
-⟪समता⟫ f.: equanimity
-⟪विषम⟫ 3: unequal, uneven, evil
+dari itu:
+⟪समम्⟫ Adv.: dengan cara yang sama, pada waktu yang sama (⟪तृतीयया⟫), secara seragam
+⟪समता⟫ f.: kesetaraan batin
+⟪विषम⟫ 3: tidak sama, tidak rata, jahat
 
 :::
 ⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : seize, grasp, catch
@@ -373,28 +373,28 @@ from that:
 :::
 Regarding ⟪राहु⟫ and ⟪केतु⟫ see:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the invisible wandering stars . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Pengantar dan Gambaran Umum. -- 10. Sakramen dan Ritual Transisi (samskara). -- Lampiran C: Rahu dan Ketu, bintang-bintang pengembara yang tak terlihat . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/en/licenses#lekt4602)
-(Image source: [Details](/en/licenses#lekt4602))
+(Sumber gambar: [Details](/en/licenses#lekt4602))
 :::: media
 ![](/images/lekt4603.webp)
 Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/en/licenses#lekt4603)
-(Image source: [Details](/en/licenses#lekt4603))
+(Sumber gambar: [Details](/en/licenses#lekt4603))
 ::::
 :::
 ::: media
 ![](/images/lekt4604.webp)
 Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/en/licenses#lekt4604)
-(Image source: [Details](/en/licenses#lekt4604))
+(Sumber gambar: [Details](/en/licenses#lekt4604))
 :::
 ::: media
 ![](/images/lekt4605.webp)
 Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/en/licenses#lekt4605)
-(Image source: [Details](/en/licenses#lekt4605))
+(Sumber gambar: [Details](/en/licenses#lekt4605))
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : be content, be satisfied with (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : merasa puas, ridha dengan (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
@@ -478,10 +478,10 @@ from that:
 :::: media
 ![](/images/lekt4609.webp)
 Fig.: [⟪श्रान्तः⟫](/en/licenses#lekt4609)
-(Image source: [Details](/en/licenses#lekt4609))
+(Sumber gambar: [Details](/en/licenses#lekt4609))
 ::::
 :::
-⟪श्रि⟫ 1U ⟪श्रयति⟫ : to lean, to lean against, to find support, to go to someone (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
+⟪श्रि⟫ 1U ⟪श्रयति⟫ : bersandar, bertumpu pada, menemukan dukungan, pergi kepada seseorang (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
@@ -492,7 +492,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : to attach, to adhere to (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : melampirkan, melekat pada (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -501,8 +501,8 @@ Pass. ⟪सज्यते⟫
 Caus. ⟪सञ्जयति⟫  
 PPP ⟪सक्त⟫  
 Inf. ⟪संक्तुम्⟫
-therefrom:
-⟪सङ्ग⟫ m.: the attaching to, contact with (⟪तृतीयया⟫)
+dari sana:
+⟪सङ्ग⟫ m.: lampiran, kontak dengan (⟪तृतीयया⟫)
 
 :::: media
 ![](/images/lekt4610.webp)
@@ -556,7 +556,7 @@ Fig.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/en/
 
 ⟪यदि⟫ Conjunction:  if
 
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : to encircle, to master, to conquer
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : mengelilingi, menguasai, menaklukkan
 
 ::: indent
 PPP ⟪परिभूत⟫ 3: conquered, humiliated, degraded
@@ -569,7 +569,7 @@ e.g.
 ⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : to sit down
 
 :::
-⟪भोस्⟫ Vocative particle: exclamation of address, e.g.: hey, heda, oh, ei, hello, hi! often not translatable. This particle has a special sandhi: before all voiced sounds, it is ***⟪भो⟫***.
+⟪भोस्⟫ Partikel vokatif: seruan untuk menyapa, misalnya: hei, heya, oh, ei, halo, hai! sering tidak dapat diterjemahkan. Partikel ini memiliki sandhi khusus: sebelum semua bunyi bersuara, partikel tersebut menjadi ***⟪भो⟫***.
 
 ::: media
 ![](/images/lekt4611.webp)

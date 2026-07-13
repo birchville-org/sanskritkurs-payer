@@ -33,11 +33,11 @@ Fig.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
 ## 38.2. Sound Change of Nasals in the Word
 
 ::: grammar-box
-Nasals in the word are assimilated to following consonants, i.e. they are replaced by the nasal corresponding to that consonant.
+Bunyi nasal dalam kata diasimilasikan ke konsonan berikutnya, yaitu diganti dengan bunyi nasal yang sesuai dengan konsonan tersebut.
 
 After c- and j-, -n- is replaced by -ñ-.
 :::
-## 38.3. Declension of stems ending in -n
+## 38.3. Deklinasi kata dasar yang berakhiran -n
 
 ### 38.3.1. Nouns ending in -an as well as nouns ending in -man or -van after a vowel
 ::: grammar-box
@@ -49,9 +49,9 @@ Nouns ending in **-an** as well as nouns ending in **-man** or **-van** after a 
 | **Medium Weak Stem** | **-a**:br(from -*n) | **-ma**:br(from -*mn) | **-va**:br(from -*vn) | Remaining cases before a consonant-initial ending:brOptionally also Loc. sg. m. n. f. |
 | **Weakest Stem** | **-n** | **-mn** | **-vn** | Remaining cases before a vowel-initial ending |
 
-**The endings are regular. The Nominative Singular m. f. is formed without a final -n.**
+**Akhirannya teratur. Nominatif Singular m. f. dibentuk tanpa akhiran -n.**
 :::
-Examples:
+Contoh:
 
 ⟪राजन्⟫ m. "King"
 
@@ -149,11 +149,11 @@ Examples:
 ::: grammar-box
 These nouns have **no** stem gradation.
 
-The Nom.sg.m. and Nom.Akk.pl.n. are formed by analogy to the -a stems (lengthening of the -i-), as is the stem ending in **\-i-** before a consonantal ending.
+[Nom.sg.m. dan Nom.Akk.pl.n. dibentuk secara analogi terhadap stem -a (pemanjangan -i-), demikian pula akhiran stem yang berakhiran **\-i-** sebelum akhiran konsonantal.
 
-The feminine is formed with the suffix -ī: e.g. ⟪बलिनी⟫
+Bentuk feminin dibentuk dengan sufiks -ī: mis. ⟪बलिनी⟫
 :::
-Example:
+Contoh:
 
 ⟪बलिन्⟫ m.n. "strong, powerful (characterized by special ⟪बल⟫, possessing ⟪बल⟫)"
 
@@ -182,15 +182,15 @@ Example:
 ## 38.4. On nominal formation: ⟪तद्धित⟫ suffix -in
 
 ::: grammar-box
-With the (very important!) ⟪तद्धित⟫ suffix **-in**, adjectives are formed from nouns in the meaning:
+Dengan akhiran (sangat penting!) ⟪तद्धित⟫ **-in**, kata sifat dibentuk dari kata benda dengan makna:
 
 **characterized by, possessing**
 
-Originally, the formation with the suffix **-⟪इन्⟫** differed from that with **-⟪मन्त्⟫/-⟪वन्त्⟫** in that **-⟪इन्⟫** denoted characterization by something special, whereas **-⟪मन्त्⟫/-⟪वन्त्⟫** expressed possession of, characterization by something that is ordinary, common.
+Awalnya, pembentukan dengan akhiran **-⟪इन्⟫** berbeda dari yang dengan **-⟪मन्त्⟫/-⟪वन्त्⟫** karena **-⟪इन्⟫** menunjukkan karakterisasi oleh sesuatu yang khusus, sedangkan **-⟪मन्त्⟫/-⟪वन्त्⟫** menyatakan kepemilikan, karakterisasi oleh sesuatu yang biasa, umum.
 :::
-Example:
+Contoh:
 
-⟪हस्तिन्⟫ m.: the one characterized by a special hand = the elephant (his hand is not an ordinary hand, but a trunk)
+⟪हस्तिन्⟫ m.: yang berkarakteristik tangan khusus = gajah (tangannya bukan tangan biasa, melainkan belalai)
 
 ::: media
 ![](/images/lekt3806.webp)
@@ -209,7 +209,7 @@ Adjectives ending in **-⟪इन्⟫** are often formed into compounds.
 :::
 Example:
 
-⟪सत्यवादिन्⟫ from ⟪सत्यवाद⟫ m. "speaking the truth": "someone who is characterized by speaking the truth = one who always speaks the truth"
+⟪सत्यवादिन्⟫ dari ⟪सत्यवाद⟫ m. "berbicara kebenaran": "seseorang yang dicirikan oleh berbicara kebenaran = seseorang yang selalu berbicara benar"
 
 ## 38.5. Syntax regarding ⟪नामन्⟫
 
@@ -218,14 +218,14 @@ To express "someone named N. N.", one constructs:
 
 **N.N. (in the nominative) ⟪नाम⟫**
 
-Literally: "the name is/was N.N." Thus, it is an interposed nominal sentence.
+Secara harfiah: "namanya adalah/sebelumnya N.N." Dengan demikian, ini merupakan kalimat nominal yang diselipkan.
 :::
-Example:
+Contoh:
 
 ::: indent
-⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ "Once upon a time there was a king **named Nala**, the strong son of Vīrasena."
+⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ "Dahulu kala ada seorang raja **bernama Nala**, putra Vīrasena yang perkasa."
 :::
-Naturally, the same can be expressed with a ⟪बहुव्रीहि⟫:
+Secara alami, hal yang sama dapat dinyatakan dengan ⟪बहुव्रीहि⟫:
 
 ::: indent
 ⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ "a man whose name is Devadatta"
@@ -240,9 +240,9 @@ Fig.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪ना
 ## 38.6. Syntax regarding ⟪आत्मन्⟫
 
 ::: grammar-box
-**⟪आत्मन्⟫** **masculine** can be used in the **singular** as a reflexive pronoun for all three genders, numbers (including dual and plural), and persons.
+**⟪आत्मन्⟫** **maskulin** dapat digunakan dalam **tunggal** sebagai kata ganti refleksif untuk ketiga jenis kelamin, bilangan (termasuk dwitunggal dan jamak), serta orang.
 :::
-Examples:
+Contoh:
 
 ::: indent
 ⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "She sees no fault in herself"
@@ -260,9 +260,9 @@ Example:
 ## 38.7. Consonant-ending stems as the first member of compounds
 
 ::: grammar-box
-Stems that end in a consonant appear as the first member of a compound in the (weak) stem they take before the ending -su of the locative (⟪सप्तमी⟫) plural.
+Kata benda yang berakhiran konsonan muncul sebagai anggota pertama dari majemuk dalam bentuk (lemah) kata dasar yang diambil sebelum akhiran -su untuk kasus lokatif jamak (⟪सप्तमी⟫).
 :::
-Example:
+Contoh:
 
 ::: indent
 ***⟪राज⟫***⟪पुत्र⟫ "king's son"
@@ -270,9 +270,9 @@ Example:
 ## 38.8. Stems in -an as the second member of a ⟪बहुव्रीहि⟫
 
 ::: grammar-box
-As the second member of a ⟪बहुव्रीहि⟫, a stem in -an can be used for all three genders. However, the feminine is usually formed with the suffix -ī from the weakest masculine stem.
+Sebagai anggota kedua dari ⟪बहुव्रीहि⟫, stem dalam -an dapat digunakan untuk ketiga jenis kelamin. Namun, bentuk feminin biasanya dibentuk dengan akhiran -ī dari stem maskulin terlemah.
 :::
-Example:
+Contoh:
 
 ::: indent
 ⟪दुर्णाम्नी⟫ "one whose name is evil; a demoness of disease"
@@ -305,23 +305,23 @@ Inf. ⟪वातुम्⟫
 
 therefrom:
 
-⟪वात⟫ m.: Wind
+⟪वात⟫ m.: Angin
 :::
-⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : to blow, to scatter, to extinguish
+⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : bertiup, menghamburkan, memadamkan
 
 ::: indent
 therefrom:
 
 ⟪निर्वाण⟫ n.: Extinguishing, Nirvana
 
-⟪परिनिर्वाण⟫ n.: Perfect extinguishing, perfect liberation (at the end of life of a Buddha or Arhat)
+⟪परिनिर्वाण⟫ n.: Pemadaman sempurna, pembebasan sempurna (pada akhir kehidupan Buddha atau Arhat)
 :::: media
 ![](/images/lekt3804.webp)
 Fig.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Image source: [Details](/en/licenses#lekt3804))
+(Sumber gambar: [Details](/en/licenses#lekt3804))
 ::::
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : to urinate, to piss, to ejaculate
+⟪मिह्⟫ 1P ⟪मेहति⟫ : kencing, buang air kecil, ejakulasi
 
 ::: indent
 Fut. ⟪मेक्ष्यति⟫
@@ -351,32 +351,32 @@ from ⟪राज⟫ :
 
 ⟪सीमन्⟫ f.: Boundary
 
-⟪आत्मन्⟫ m.: Self, own person, innermost essence. Philosophical and in liberation doctrines: the Absolute in the individual, of which the individual is sometimes not conscious (v. Stietencron)
+⟪आत्मन्⟫ m.: Diri, pribadi sendiri, esensi terdalam. Doktrin filosofis dan pembebasan: Yang Mutlak dalam individu, yang kadang-kadang tidak disadari oleh individu (v. Stietencron)
 
-⟪ब्रह्मन्⟫ n.: the Absolute, the Veda (according to Thieme originally: the formulated truth, from which ⟪ब्राह्मण⟫ "formulator of truth")
+⟪ब्रह्मन्⟫ n.: Yang Mutlak, Veda (menurut Thieme awalnya: kebenaran yang diformulasikan, dari mana ⟪ब्राह्मण⟫ "perumus kebenaran")
 
 ⟪ब्रह्मन्⟫ m.: the personally conceived creator god Brahmā
 
 ::: media
 ![](/images/lekt3809.webp)
 Fig.: ⟪ब्रह्मा⟫
-(Image source: [Details](/en/licenses#lekt3809))
+(Sumber gambar: [Details](/en/licenses#lekt3809))
 :::
-⟪कर्मन्⟫ n. to ⟪कृ⟫ 8U: action, deed, work; sacred work, sacrificial act; Karma: the past action that later brings its fruits (e.g. in rebirth) 
+⟪कर्मन्⟫ n. ke ⟪कृ⟫ 8U: tindakan, perbuatan, karya; pekerjaan suci, upacara pengorbanan; Karma: tindakan masa lalu yang kemudian membawa buahnya (mis. dalam reinkarnasi)
 
 ::: indent
-⟪कर्मविपाक⟫ m.: Ripening of deeds = the good and bad consequences of deeds in previous existences (to ⟪वि⟫-⟪पच्⟫)
+⟪कर्मविपाक⟫ m.: Pematangan perbuatan = konsekuensi baik dan buruk dari perbuatan dalam kehidupan sebelumnya (ke ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: Elephant (_Elephas maximus_)
+⟪हस्तिन्⟫ m.: Gajah (_Elephas maximus_)
 
-⟪मनु⟫ m.: Human, man; name of the father of the human race (to ⟪मन्⟫ 4Ā)
+⟪मनु⟫ m.: Manusia, pria; nama dari ayah ras manusia (ke ⟪मन्⟫ 4Ā)
 
 ::: indent
 therefrom:
 
-⟪मनुष्य⟫ m.: Human
+⟪मनुष्य⟫ m.: Manusia
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (to flame, to shine); to mourn, to bewail
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (berapi, bersinar); berkabung, meratapi
 
 ::: indent
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
@@ -406,7 +406,7 @@ Fig.: ⟪अशोकसाम्राज्यम्⟫
 :::
 ## 38.10. Exercise
 
-A) Insert the corresponding form of the words in parentheses in the following sentences and translate:
+[A] Sisipkan bentuk yang sesuai dari kata-kata dalam kurung pada kalimat berikut dan terjemahkan:
 
 ... (⟪सप्तमी⟫ ⟪विभक्तिः⟫) ... ⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥१॥⟫ (⟪राजन्⟫)
 
@@ -565,7 +565,7 @@ Explanations:
 
 ⟪सर्वे⟫ Nom.pl.m. to ⟪सर्व⟫ 3 "each, all"
 
-⟪जिज्ञासमान⟫ Part.Pres.Ā.Desiderative to ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "to want to know, to want to understand"
+⟪जिज्ञासमान⟫ Part.Pres.Ā.Desiderative to ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "ingin mengetahui, ingin memahami"
 
 ⟪नव⟫ Nom.Akk.pl.m.f.n. to ⟪नवन्⟫ "nine"
 
@@ -587,19 +587,19 @@ Explanations:
 
 ::: deleteme-box
 
-- **lekt3801.jpg**: Ill.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  Bangalore = ಬೆಂಗಳೂರು \[Image source: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Accessed on 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons License (Attribution, Non-commercial use)\]
-- **lekt3802.jpg**: Ill.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Image source: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Accessed on 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons License (Attribution, Non-commercial use)\]
-- **lekt3803.jpg**: Ill.: ⟪सीमा⟫  Border crossing between India and Pakistan in Wagah (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Image source: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Accessed on 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons License (Attribution, Non-commercial use, share alike)\]
-- **lekt3804.jpg**: Ill.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Gandhara, 2nd/3rd century AD \[Image source: Wikipedia. Public domain\]
-- **lekt3805.jpg**: Ill.: ⟪उदकम्⟫  Darewadi village, Ahmed Nagar District = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Image source: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Accessed on 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons License (Attribution, Non-commercial use, share alike)\]
-- **lekt3806.jpg**: Ill.: ⟪हस्ती⟫  Nagarhole National Park = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Image source: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Accessed on 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons License (Attribution, Non-commercial use, share alike)\]
-- **lekt3807.jpg**: Ill.: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Image source: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Accessed on 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons License (Attribution, Non-commercial use, no derivatives)\]
-- **lekt3808.jpg**: Ill.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  1930s \[Image source: Wikipedia. Public domain\]
-- **lekt3809.jpg**: Ill.: ⟪ब्रह्मा⟫  Halebidu = ಹಳೆಬೀಡು \[Image source: Wikipedia. GNU FDLicense\]
-- **lekt3810.jpg**: Ill.: Ashoka tree = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা \[Image source: J.M.Garg / Wikipedia. GNU FDLicense\]
-- **lekt3811.jpg**: Ill.: Greatest extent of the empire of Aśoka and locations of his rock and pillar edicts \[Image source: Wikipedia.GNU FDLicense\]
-- **lekt3812.jpg**: Ill.: ⟪विनोदः⟫  Carrom game \[Image source: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Accessed on 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons License (Attribution, Non-commercial use, share alike)\]
-- **lekt3813.jpg**: Ill.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Image source: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Accessed on 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons License (Attribution, Non-commercial use)\]
-- **lekt3814.jpg**: Ill.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Image source: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Accessed on 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons License (Attribution, Non-commercial use, no derivatives)\]
+- **lekt3801.jpg**: Ilm.: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  Bangalore = ಬೆಂಗಳೂರು \[Sumber gambar: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Diakses pada 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial)\]
+- **lekt3802.jpg**: Ilm.: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Sumber gambar: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Diakses pada 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial)\]
+- **lekt3803.jpg**: Ilm.: ⟪सीमा⟫  Batas perbatasan antara India dan Pakistan di Wagah (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Sumber gambar: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Diakses pada 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial, berbagi serupa)\]
+- **lekt3804.jpg**: Ilm.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Gandhara, abad ke-2/ke-3 M \[Sumber gambar: Wikipedia. Domain publik\]
+- **lekt3805.jpg**: Ilm.: ⟪उदकम्⟫  Desa Darewadi, Distrik Ahmed Nagar = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Sumber gambar: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Diakses pada 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial, berbagi serupa)\]
+- **lekt3806.jpg**: Ilm.: ⟪हस्ती⟫  Taman Nasional Nagarhole = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Sumber gambar: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Diakses pada 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial, berbagi serupa)\]
+- **lekt3807.jpg**: Ilm.: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Sumber gambar: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Diakses pada 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial, tanpa turunan)\]
+- **lekt3808.jpg**: Ilm.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  Tahun 1930-an \[Sumber gambar: Wikipedia. Domain publik\]
+- **lekt3809.jpg**: Ilm.: ⟪ब्रह्मा⟫  Halebidu = ಹಳೆಬೀಡು \[Sumber gambar: Wikipedia. Lisensi GNU FD\]
+- **lekt3810.jpg**: Ilm.: Pohon Ashoka = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা \[Sumber gambar: J.M.Garg / Wikipedia. Lisensi GNU FD\]
+- **lekt3811.jpg**: Ilm.: Luas terbesar kekaisaran Aśoka dan lokasi edik batu dan tiangnya \[Sumber gambar: Wikipedia. Lisensi GNU FD\]
+- **lekt3812.jpg**: Ilm.: ⟪विनोदः⟫  Permainan Carrom \[Sumber gambar: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Diakses pada 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial, berbagi serupa)\]
+- **lekt3813.jpg**: Ilm.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Sumber gambar: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Diakses pada 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial)\]
+- **lekt3814.jpg**: Ilm.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Sumber gambar: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Diakses pada 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial, tanpa turunan)\]
 
 :::

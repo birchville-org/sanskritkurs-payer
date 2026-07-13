@@ -80,7 +80,7 @@ voir ci-dessus par ex. **śrāvaka**, **yājaka**, **jayaka**
 
 Il existe également quelques utilisations moins importantes du suffixe **-aka**. Voir Wackernagel, Altindische Grammatik, II, §45ff.
 
-## 9.3. Wortliste
+## 9.3. Liste de mots
 
 **Apprenez les mots suivants :**
 
@@ -114,7 +114,7 @@ Fig. : **kāru** = ⟪कारु⟫, Gujarat.
 - **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Commerce
 - **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Obéissance, service obéissant
 
-## 9.4. Übung
+## 9.4. Exercice
 
 **A) Essayez de déterminer les significations possibles des mots suivants :**
 1\. **brāhmāṇaka** ⟪ब्राह्मणक⟫

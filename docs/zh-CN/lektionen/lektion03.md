@@ -7,7 +7,7 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 3
+# 第3课
 
 ::: deleteme-box
 **在本课中，您将学习：**
@@ -19,7 +19,7 @@ status: stable
 :::
 ## 3.1. 阴性名词的单数主格
 
-### 3.1.1. Nominativ Singular auf -s
+### 3.1.1. 以 -s 结尾的单数主格
 
 此外，以下以元音结尾的名词词干，其单数主格以 **-s** 结尾：
 
@@ -53,7 +53,7 @@ status: stable
 :::
 ---
 
-## 3.3. Nominativ Plural Maskulinum und Femininum
+## 3.3. 阳性与阴性的复数主格
 
 ::: grammar-box
 阳性复数主格词尾为 **-as**。
@@ -69,7 +69,7 @@ status: stable
 
 ---
 
-## 3.4. Vokalsandhi
+## 3.4. 元音连声
 
 ::: grammar-box
 **简单的元音，如果它们仅在长度上有所不同，则“融合”为相应的长元音：**
@@ -80,7 +80,7 @@ status: stable
 :::
 例如
 
-devatā + annapūrṇā » devatānnapūrṇā “Annapūrṇā ist eine Gottheit” = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā “阿难波尔尼是神明” = ⟪देवतान्नपूर्णा⟫
 
 > （安娜普尔那是食物与烹饪的女神，被视为湿婆之妻帕尔瓦蒂的化身。）
 
@@ -127,7 +127,7 @@ devī + umā » devy umā “乌玛是一位/那位女神” = ⟪देव्�
 
 ---
 
-## 3.5. Satzsandhi von -ās
+## 3.5. -ās的词尾连音（Sattsandhi）
 
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
@@ -138,7 +138,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ “婆罗门与吠舍：吠舍是再
 
 ---
 
-## 3.6. Wortliste
+## 3.6. 词汇表
 
 **学习以下词汇：**
 
@@ -202,7 +202,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ “婆罗门与吠舍：吠舍是再
 
 ---
 
-## 3.7. Übung
+## 3.7. 练习
 
 **A) 将以下句子变为复数：**
 

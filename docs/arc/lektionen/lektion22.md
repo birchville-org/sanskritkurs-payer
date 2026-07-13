@@ -7,13 +7,13 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 22
+# ܕܲܪܫܵܐ 22
 
-## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
+## 22.1. ܐܒܣܘܠܘܛܝܒܐ (ܩܛܒܐ | ܠܝܦ)
 
 ::: grammar-box
 
-If one wishes to express in Sanskrit that an action of the agent (⟪कर्तृ⟫) precedes another action of the agent or occurs simultaneously with it as a concomitant circumstance, one uses the absolutive (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫). Thus
+ܐܝܟܢܐ ܕܡܠܠ ܒܣܘܿܢ̈ܩܪܝܬ ܕܦܥܠܐ ܕܡܫܬܡܠ (⟪कर्तृ⟫) ܩܕܡ ܦܥܠܐ ܐܚܪܢ ܕܡܫܬܡܠ ܐܘ ܗܘ ܒܨܪܟܬܐ ܕܫܠܡܘܬܐ، ܐܝܟ ܕܢܫܬܡܠ ܒܐܘܓܪܝܛܘܿܢ (⟪क्त्वा ⟫ । ⟫ ल्यप्). ܠܗٰذَا
 
 "after he has done that, he does that" ; "he does that, then he does that" ; "as a consequence of this he does that" ; "I came, saw and conquered" etc.
 
@@ -31,12 +31,12 @@ Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man
 **Examples:**
 
 ::: indent
-**⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = Passive construction: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
-"The man enters the house, sees the little girl, and addresses her."
+**⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = ܣܘܩܠܐ ܦܥܝܠ: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
+"ܐܢܫ ܐܬܐ ܠܒܝܬܐ، ܚܙܐ ܢܫܝܐ ܩܠܬܐ، וְאָמַר לָהּ."
 
 Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
 :::
-## 22.2. Formation of the Nominative
+## 22.2. ܨܘܪܬܐ ܕܫܡܐ ܦܥܠܐ
 
 ::: grammar-box
 **Formation of the Nominative**
@@ -44,7 +44,7 @@ Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां�
 *   Verbs without prefix: Absolutive ending in **-tvā**
 *   Verbs with prefix: Absolutive ending in **-ya** or **-tya**
 :::
-### 22.2.1. Verbs without prefix: Absolutive ending in -⟪त्वा⟫
+### 22.2.1. ܦܥܠ̈ܐ ܕܠܐ ܡܠܝܠܘܬܐ: ܫܘܠܡܐ ܡܫܠܡܢܐ ܒ-⟪त्वा⟫
 
 ::: grammar-box
 
@@ -52,7 +52,7 @@ Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां�
 
 (mostly) root-level in the form it has before the PPP + **-tvā** (**-⟪त्वा⟫**)
 
-Only the negative **a-** / **an-** is compatible with the suffix **-⟪त्वा⟫** : **⟪अकृत्वा⟫** "having not done"
+רק השלילה **a-** / **an-** תואמת לסיומת **-⟪त्वा⟫** : **⟪अकृत्वा⟫** "שלא עשה"
 
 :::
 **Examples:**
@@ -70,9 +70,9 @@ Only the negative **a-** / **an-** is compatible with the suffix **-⟪त्व
 
 **⟪उक्त्वा⟫** "after he (...) has spoken / had spoken"
 :::
-### 22.2.2. Verbs with Preverb
+### 22.2.2. ܡܠܬܐ ܥܡ ܩܕܡܝܬܐ
 
-#### 22.2.2.1. Roots with long vowel (except -ā) or with consonant
+#### 22.2.2.1. ܥܩܳܪܶܐ ܕܐܝܬ ܒܗܽܘܢ ܩܳܠܳܐ ܝܰܪܺܝܟܳܐ (ܠܒܰܪ ܡܶܢ -ܳܐ) ܐܰܘ ܕܐܝܬ ܒܗܽܘܢ ܐܳܬܳܐ ܫܰܠܝܳܐ
 
 ::: grammar-box
 
@@ -88,7 +88,7 @@ Only the negative **a-** / **an-** is compatible with the suffix **-⟪त्व
 
 **⟪प्राप्य⟫** "after he (...) has obtained / had obtained"
 :::
-#### 22.2.2.2. Roots ending in -ā
+#### 22.2.2.2. ܫܶܪ̈ܫܶܐ ܕܡܶܫܬܰܠܡܺܝܢ ܒ-ܐܳ
 
 ::: grammar-box
 
@@ -100,7 +100,7 @@ Only the negative **a-** / **an-** is compatible with the suffix **-⟪त्व
 ::: indent
 **⟪उपस्थाय⟫** "after he (...) had stepped / is" ; (but without prefix: **⟪स्थित्वा⟫**)
 :::
-#### 22.2.2.3. Roots that end in the weak grade with short -i, -u, -ṛ
+#### 22.2.2.3. ܫܪ̈ܫܐ ܕܡܫܬܠܡܝܢ ܒܕܪܓܐ ܟܪܝܗܐ ܥܡ -ܝ ܟܪܝܐ, -ܘ, -ܪ
 
 ::: grammar-box
 
@@ -116,7 +116,7 @@ Only the negative **a-** / **an-** is compatible with the suffix **-⟪त्व
 
 **⟪संस्कृत्य⟫** "after he (...) has prepared / had prepared for the sacrifice"
 :::
-#### 22.2.2.4. Roots ending in -am / -an, which end in -a in the weak grade
+#### 22.2.2.4. ܥܩܪ̈ܐ ܕܡܫܠܡܝܢ ܒ-ܐܡ / -ܐܢ, ܕܡܫܠܡܝܢ ܒ-ܐ ܒܕܪܓܐ ܟܪܝܗܐ
 
 ::: grammar-box
 
@@ -134,7 +134,7 @@ Root on **-a** + **-tya**
 ::: indent
 **⟪विगम्य⟫** or **⟪विगत्य⟫** "after he (...) has passed / was"
 :::
-## 22.3. Vocabulary list
+## 22.3. ܡ̈ܠܝܢ list
 
 **⟪काम⟫ m.:** desire, craving; desired gift, sensual pleasure, love, god of love
 
@@ -156,20 +156,20 @@ davon:
 ::: indent
 **⟪शक्ति⟫ f.:** the ability, power, capability, strength; also: divine power, personified as a female companion especially of **⟪शिव⟫**
 
-**⟪शक्र⟫ m.:** the Mighty (epithet of **⟪इन्द्र⟫**)
+**⟪शक्र⟫ m.:** ܗ݀ܘ ܚܲܝܠܬ݂ܵܢܵܐ (ܟ݁ܘܼܢܵܝܵܐ ܕ **⟪इन्द्र⟫**)
 :::
 ::: media
 ![](/images/lekt2203.webp)
-Fig.: ⟪दुर्गाशक्तिः⟫
+ܨܘܼܪܬ݂ܵܐ: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
-(Image source: [Details](/arc/licenses#lekt2203))
+(ܡܲܩܘܿܪܵܐ ܕ݁ܨܘܼܪܬ݂ܵܐ: [ܦ݁ܲܪܝܼܫܘܵܬ݂ܵܐ](/arc/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** to deserve (to be worthy of), may, be obliged to, should (in the 2nd person, **⟪अर्ह्⟫** + infinitive is often used as a mild command: "You should")
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** ܠܡܸܫܘܵܐ (ܠܡܸܗܘܵܐ ܚܲܫܝܼܚ), ܟܹ݁ܢ ܡܸܫܟ݁ܲܚ, ܘܵܠܹܐ ܕ-, ܝܵܐܹܐ (ܒ݁ܲܦ݁ܵܪܨܘܿܦ݁ܵܐ ܕ݁ܬ݂ܪܹܝܢ, **⟪अर्ह्⟫** ܒ݁ܲܪ ܡܸܢ ܐܸܢܸܝܛܝܼܟ݂ܘܿܝ ܙܒ݂ܝܼܢ ܙܒ݂ܝܼܢ ܡܸܙܕ݁ܲܡܲܪ ܐܲܝܟ݂ ܦ݁ܘܼܩܕ݁ܵܢܵܐ ܦ݁ܵܐܹܐ: "ܝܵܐܹܐ ܠܵܟ݂")
 
 ::: indent
-**⟪अर्हन्त्⟫ 3** Part. Pres. P: a worthy one. In Buddhism and Jainism: one who has attained final liberation
+**⟪अर्हन्त्⟫ 3** ܙܥܘܿܪܵܐ ܕ݁ܗܵܫܵܐ ܦ݁ܵܥܹܠ: ܚܲܕ݂ ܝܵܐܹܐ. ܒ݁ܝܘܿܕ݂ܵܝܘܼܬ݂ܵܐ ܘܒ݁ܓ݁ܲܝܼܢܝܼܙܡ: ܚܲܕ݂ ܕ݁ܡܸܢܫܸܡ ܚܘܼܪܵܪܵܐ ܓ݁ܡܝܼܪܵܐ
 :::
-**⟪व्रत⟫ n.:** vow, religious duty, religious observance (one makes a promise to the deity in order to obtain something from it. Example: a mother promises to dedicate her daughter as a temple prostitute (**⟪देवदासी⟫**) if her daughter recovers. Important **⟪व्रत⟫** today: fasting; abstinence from foods one loves; sexual abstinence; reading sacred texts; performing certain rituals; feeding Brahmins, etc. Briefly on **⟪व्रत⟫**: Walker, Hindu World Vol. II, p. 581f. In detail: P. V. Kane: History of Dharmaśāstra Vol. 5,1 p. 1 - 462. There p. 253 - 462 list of **⟪व्रत⟫** and religious festivals ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+**⟪व्रत⟫ n.:** ܢܸܕ݂ܪܵܐ, ܦ݁ܘܼܩܕ݁ܵܢܵܐ ܕ݁ܬ݂ܵܢ ܕܹ݁ܝܠ, ܢܵܛܘܿܪܘܼܬ݂ܵܐ ܕ݁ܬ݂ܵܢ ܕܹ݁ܝܠ (ܚܲܕ݂ ܥܵܒ݂ܹܕ݂ ܡܘܼܠܟ݁ܵܢܵܐ ܠܐܲܠܵܗܵܐ ܡܸܢ ܒ݁ܵܬ݂ܪ ܕ݁ܢܸܫܟ݁ܲܚ ܡܸܕܸ݁ܡ ܡܸܢܹܗ. ܛܘܼܦ݁ܣܵܐ: ܐܸܡܵܐ ܡܵܘܼܠ݁ܟ݁ܵܐ ܕ݁ܬܸ݁ܬ݁ܝܲܗܸܒ݂ ܒ݁ܲܪܬ݂ܵܗ ܐܲܝܟ݂ ܙܵܢܝܼܬ݂ܵܐ ܕ݁ܗܲܝܟ݁ܠܵܐ (**⟪देवदासी⟫**) ܐܸܢ ܬܸ݁ܬ݁ܐܵܙܸܝ ܒ݁ܲܪܬ݂ܵܗ. **⟪व्रत⟫** ܝܲܬ݁ܝܼܪܹ݁ܝܢ ܝܵܘܡܵܢܵܐ: ܨܵܘܡܵܐ؛ ܡܸܬ݁ܬ݁ܪܝܼܡܘܼܬ݂ܵܐ ܡܸܢ ܡܹܝܟ݁ܘܼܠܵܬ݂ܵܐ ܪܚܼܝܼܡܵܬ݂ܵܐ؛ ܡܸܬ݁ܬ݁ܪܝܼܡܘܼܬ݂ܵܐ ܙܘܼܘܵܓ݂ܵܝܵܐ؛ ܡܸܩܪܵܝܵܐ ܕ݁ܟ݂ܬ݂ܵܒ݂ܹܐ ܩܲܕ݁ܝܼܫܹܐ؛ ܥܒ݂ܵܕ݂ ܕ݁ܛܸܟ݂ܣܹܐ ܝܝܼܕ݂ܝܼܥܹܐ؛ ܡܵܘܼܟ݂ܵܠܵܐ ܕ݁ܒ݁ܪܵܗܡܸܢܹܐ ܘܲܟ݂ܘܵܬ݂ܵܐ. ܒ݁ܦ݁ܲܟ݁ܝܼܗܘܼܬ݂ܵܐ ܥܲܠ **⟪व्रत⟫**: ܐܵܘܵܠܟ݂ܸܪ, Hindu World, ܟ݁ܪܵܟ݂ܵܐ II, ܦ݁. 581 ܘܲܡܸܢ ܗܵܪܟ݁ܵܐ. ܒ݁ܦ݁ܪܝܼܫܘܼܬ݂ܵܐ: P. V. Kane: History of Dharmaśāstra, ܟ݁ܪܵܟ݂ܵܐ 5,1, ܦ݁. 1–462. ܬ݁ܲܡܵܢ ܦ݁. 253–462 ܪܸܫܝܵܢܵܐ ܕ݁**⟪व्रत⟫** ܘܕ݁ܥܹ݁ܕ݂ܥܹ݁ܐ ܕ݁ܬ݂ܵܢ ܕܹ݁ܝܠ ("ܗܵܢܵܐ ܪܸܫܝܵܢܵܐ ܕ݁ܵܐܬ݂ܹ݁ܐ ... ܠܵܐ ܡܸܬ
 
 **⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** graze, wander, move, act, exercise, perform (e.g., **⟪व्रतं⟫ ⟪चर्⟫**: practice a vow, esp. sexual abstinence)
 
@@ -182,7 +182,7 @@ davon:
 
 **⟪चरित⟫ n.:** way of life, life deeds
 
-**⟪ब्रह्मचर्य⟫ n.:** performance of the Veda (**⟪ब्रह्मन्⟫**) = study of the Veda in the first stage of life (that of the **⟪ब्रह्मचारिन्⟫**), which requires strict sexual abstinence; hence also: sexual abstinence, celibate way of life
+**⟪ब्रह्मचर्य⟫ n.:** מִצְוָה דְּתוֹרָה (⟪ब्रह्मन्⟫) = לִמּוּד תּוֹרָה בְּשַׁלְבּוֹ הָרִאשׁוֹן שֶׁל חַיֵּי הָאָדָם (שֶׁל **⟪ब्रह्मचारिन्⟫**), שֶׁדּוֹרֵשׁ הַצְנָעָה מִיּוֹתָר; לָכֵן גַּם: הַצְנָעָה מִיּוֹתָר, חַיֵּי צְנִיעוּת
 :::
 ::: media
 ![](/images/lekt2201.webp)
@@ -190,7 +190,7 @@ Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Image source: [Details](/arc/licenses#lekt2201))
 :::
-## 22.4. Exercise
+## 22.4. ܬܪܓܠܐ
 
 **A) Bilden und übersetzen Sie das Absolutiv zu folgenden Verben:**
 

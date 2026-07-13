@@ -265,7 +265,7 @@ Utrisque ritus perficitur, scil. ⟪श्राद्ध⟩ n. Quotidie singuli
 
 ⟪मातामही⟫ f.: avus (materna parte)
 
-## 42.3. Übung
+## 42.3. Exercitium
 
 Traducite:
 
@@ -297,7 +297,7 @@ Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 
 ⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥९॥⟫
 
-## 42.4. Übersetzungsübung
+## 42.4. Exercitium translationis
 
 *⟪सीता⟫*⟪विवाहः⟫
 

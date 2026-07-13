@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 55
 
-## 55.1. Der a-Aorist (Aorist mit Themavokal)
+## 55.1. Aoristus a- (Aoristus cum vocali thematica)
 
 ::: grammar-box
 **Aoristus in -a ita formatur ut Imperfectum (⟪लङ्⟫) sextae classis praesentis (⟪तुदादि⟫), id est:**

@@ -190,7 +190,7 @@ Fig. : ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Source de l'image : [Détails](/fr/licenses#lekt2201))
 :::
-## 22.4. Übung
+## 22.4. Exercice
 
 **A) Formez et traduisez l’absolutif pour les verbes suivants :**
 

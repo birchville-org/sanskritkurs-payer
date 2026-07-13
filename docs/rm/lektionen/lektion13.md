@@ -79,7 +79,7 @@ Ezempels:
 ⟪गुणवन्त्⟫ "cun qualitads / virtus"
 :::
 
-## 13.5. Stammabstufung von Nomina
+## 13.5. Gradaziun da la stirp da nums
 
 Las tribus en -mant respectivament en -vant appartegnan als stems nominal cun fluctuaziun dal stem.
 
@@ -155,7 +155,7 @@ Esempel:
 
 :::
 
-## 13.9. Wortliste
+## 13.9. Glista da pleds
 
 Imparar las suentas suventas:
 
@@ -219,7 +219,7 @@ dviṣ 2 U:
 **dveṣa** ⟪द्वेष⟫ : Od
 :::
 
-## 13.10. Übung
+## 13.10. Exercizi
 
 A) Tradusci e trasforma en frasi al present activ:
 

@@ -11,7 +11,7 @@ status: stable
 
 ## 16.1. On the Sandhi of Final Consonants
 
-For the formation of compounds whose first member ends in consonantal stems, the following rules are required:
+Untuk pembentukan majemuk yang anggota pertamanya berakhiran pada stem konsonantal, aturan-aturan berikut diperlukan:
 
 Final guttural, retroflex, dental, and labial stops (i.e., not nasals and not palatals).
 
@@ -19,9 +19,9 @@ Final guttural, retroflex, dental, and labial stops (i.e., not nasals and not pa
 
 | | |
 | :--- | :--- |
-| **in pause and before voiceless sounds** | **Replacement by the corresponding voiceless unaspirated sound:** :br **e.g.** :br [[indent]] -g + p- » -kp- :br [[indent]] -d + ph- » -tph- :br [[indent]] -dh + p- » -tp- |
-| **before voiced non-nasal sounds** | **Replacement by the corresponding voiced unaspirated sound:** :br **e.g.** :br [[indent]] -t + g- » -dg- :br [[indent]] -k + b- » -gb- :br [[indent]] -dh + d- » -dd- :br [[indent]] -k + a- » -ga- |
-| **before nasals** | **Replacement by the corresponding nasal:** :br **e.g.** :br [[indent]] -t + n- » -nn- :br [[indent]] -p + n- » -mn- |
+| **dalam jeda dan sebelum bunyi tak bersuara** | **Penggantian dengan bunyi tak bersuara tanpa aspirasi yang sesuai:** :br **misalnya** :br [[indent]] -g + p- » -kp- :br [[indent]] -d + ph- » -tph- :br [[indent]] -dh + p- » -tp- |
+| **sebelum bunyi non-hidung bersuara** | **Penggantian dengan bunyi tanpa aspirasi yang sesuai:** :br **misalnya** :br [[indent]] -t + g- » -dg- :br [[indent]] -k + b- » -gb- :br [[indent]] -dh + d- » -dd- :br [[indent]] -k + a- » -ga- |
+| **sebelum bunyi hidung** | **Penggantian dengan bunyi hidung yang sesuai:** :br **misalnya** :br [[indent]] -t + n- » -nn- :br [[indent]] -p + n- » -mn- |
 
 :::
 Exception to the above rule:
@@ -98,9 +98,9 @@ from this:
 ![](/images/lekt1601.webp)
 Fig.: ⟪योगी⟫
 Birla Mandir, Delhi
-(Image source: [Details](/en/licenses#lekt1601))
+(Sumber gambar: [Details](/en/licenses#lekt1601))
 :::
-⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : to turn, to turn oneself, to be (somewhere), to dwell
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : berputar, memutar diri, berada (di suatu tempat), berdiam
 
 ⟪शस्त्र⟫ (śastra) n.: Cutting tool, cutting weapon, sword, weapon
 
@@ -150,7 +150,7 @@ Fig.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫
 
-B) Resolve the following compounds in Sanskrit into independent sentences, forming sentences with inflected nouns, and translate them:
+B) Uraikan majemuk berikut dalam bahasa Sanskerta menjadi kalimat-kalimat independen, membentuk kalimat dengan kata benda yang dideklarasikan, dan terjemahkan:
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
 
@@ -174,9 +174,9 @@ B) Resolve the following compounds in Sanskrit into independent sentences, formi
 
 ## 16.4. Review Exercise
 
-A) Form all previously learned cases for the following words as examples of the declension classes studied thus far.
+[A] Bentukkan semua kasus yang telah dipelajari sebelumnya untuk kata-kata berikut sebagai contoh dari kelas-kelas deklinasi yang telah dipelajari sejauh ini.
 
-For this purpose, use the following schema, which corresponds to the order of cases used by Indian grammarians and which, due to its (to be discussed later) advantages, was also adopted by Western grammarians:
+[C2] Untuk tujuan ini, gunakan skema berikut, yang sesuai dengan urutan kasus yang digunakan oleh para gramatika India dan yang, karena keunggulannya (akan dibahas nanti), juga diadopsi oleh para gramatika Barat:
 
 | Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
 | :--- | :--- |

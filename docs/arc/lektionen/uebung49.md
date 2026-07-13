@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 49
+# ܬܪܓܡܬܐ 49
 
 Determine the following forms:
 
@@ -60,17 +60,17 @@ Fig.: ⟪गायी⟫
 :::
 ---
 
-## ⟪बाण⟫ (⟪७⟫. Cent. A.D.): ⟪कादम्बरी⟫
+## ⟪ܒܐܢ⟫ (⟪7⟫. ܩܪܢܐ ܕܡܫܝܚܐ): ⟪ܩܐܕܐܡܒܐܪܝ⟫
 
-Questions of the King **⟪शूद्रक⟫** of **⟪विदिशा⟫** to the Parrot **⟪वैशम्पायन⟫**:
+שְׁאֵלוּתָא דַמַלְכָּא **⟪शूद्रक⟫** דַמֶלֶךְ **⟪विदिशा⟫** לַדּוֹרְפָנָא **⟪वैशम्पायन⟫**:
 
 **⟪नरपतिरब्रवीत्⟫ ⟪।⟫ ⟪आस्तां⟫ ⟪तावत्सर्वमेवेदम्⟫ ⟪।⟫ ⟪अपनयतु⟫ ⟪नः⟫ ⟪कुतूहलम्⟫ ⟪।⟫ ⟪आवेदयतु⟫ ⟪भवानादितः⟫ ⟪प्रभृति⟫ ⟪कार्त्न्येनात्मनो⟫ ⟪जन्म⟫ ⟪कस्मिन्देशे⟫ ⟪।⟫ ⟪भवान्कथं⟫ ⟪जातः⟫ ⟪।⟫ ⟪केन⟫ ⟪वा⟫ ⟪नाम⟫ ⟪कृतम्⟫ ⟪।⟫ ⟪का⟫ ⟪माता⟫ ⟪।⟫ ⟪कस्ते⟫ ⟪पिता⟫ ⟪।⟫ ⟪कथं⟫ ⟪वेदानामागमः⟫ ⟪।⟫ ⟪कथं⟫ ⟪शास्त्राणां⟫ ⟪परिचयः⟫ ⟪।⟫ ⟪कुतः⟫ ⟪कलाः⟫ ⟪समासादिताः⟫ ⟪।⟫ ⟪किं⟫ ⟪जन्मान्तरानुस्मरणमुत⟫ ⟪वरप्रदानम्⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विहंगवेषधारी⟫ ⟪कश्चिच्छन्नं⟫ ⟪विवससि⟫ ⟪।⟫ ⟪क्व⟫ ⟪वा⟫ ⟪पूर्वमुषितम्⟫ ⟪।⟫ ⟪कियद्वा⟫ ⟪वयः⟫ ⟪।⟫ ⟪कथं⟫ ⟪पञ्जरबन्धः⟫ ⟪।⟫ ⟪कथं⟫ ⟪चाण्डालहस्तगमनम्⟫ ⟪।⟫ ⟪इह⟫ ⟪वा⟫ ⟪कथमागमनमिति⟫ ⟪॥⟫**
 
 **⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫**
 
-> The king spoke: "Let all that be! Satisfy our curiosity! Lord, tell us from the beginning: In which country were you born? Who gave you the name? Who is your mother? How did you obtain the Vedas? How did you familiarize yourself with the treatises? From where did you acquire the arts? Can you remember previous births or fulfill wishes? Or do you, by wearing the garment of a bird, inhabit a hiding place? Or where did you dwell earlier? Or how old are you? How were you captured in a cage? And how did you come into the hands of Cāṇḍālas? Or how did you come here?"
+> ܡܠܟܐ ܐܡܪ: «ܗܢܐ ܝܕܥ! ܫܒܩܘ ܠܢ ܦܪܝܣܟܘܢ! ܡܪܝ, ܐܓܕܵܐ ܠܢ: ܒܡܝܬܪܐ ܕܡܢܐ ܠܕܝܬ? מִיּוֹ שְׁמָךְ ܠܘܟ? מַה הִיא אִמָּךְ? ܐܝךְ ܠܟ ܒܪ̈ܬ ܘܕܥܝܐ? ܐܝךְ ܠܟ ܒܪ̈ܬ ܡܕܥܝܐ? מֵאַיִן ܠܟ ܒܪ̈ܬ ܐܘܢܝܐ? אִם תּוֹכַל לְזָכוֹר יְשׁוּבוֹת קַדְמוֹנוֹת אוֹ לְקַיֵּם חֲפָצִים? אוֹ אַתָּה, בְּלִבְשׁוֹ כְּתֹנֶת צַיִד, יוֹשֵׁב בְּמַחְבֵּא? אוֹ אַיֵּה שָׁכַבְתָּ קֹדֶם? אוֹ מַה גִילְךָ? אֵיךְ נֶאֱסַרְתָּ בְּכִלְא? וְאֵיךְ הָגַעְתָּ לְיָדֵיהֶם שֶׁל צַנְדָּאליים? אוֹ אֵיךְ הָגַעְתָּ לְכָאן?»
 >
-> Vaiśampāyana, however, who had been asked by the lord of the earth with spontaneously arising curiosity with great respect, thought for a moment and then answered with full reverence: "King, this is a long story. If it interests you, lend me your ear!"
+> וַיֹּאמֶר וַיְשָׁב אֵלָיו הַמֶּלֶךְ בְּקוֹל רָנָה וּבְכַבְדוֹ: «מֶלֶךְ, זֹאת מַעֲשֵׂה רָב. אִם יִרְצֶה לְךָ, הַאֲזִינָה אֵלַי!»
 
 ::: media
 ![](/images/uebung079.webp)

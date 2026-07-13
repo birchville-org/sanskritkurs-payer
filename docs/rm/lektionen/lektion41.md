@@ -35,7 +35,7 @@ Spiegaziun: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
 ## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a
 
-### 41.2.1. particip preschent (⟪लडादेशः⟫) Ā, particip preschent (⟪लडादेशः⟫) passiv, particip futur (⟪ऌडादेशः⟫) Ā
+### 41.2.1. Particip preschent (⟪laḍādeśaḥ⟫) Ā, particip preschent (⟪laḍādeśaḥ⟫) passiv, particip futur (⟪lṛḍādeśaḥ⟫) Ā
 
 #### 41.2.1.1. Stems tematics dal present, passiu e futur
 

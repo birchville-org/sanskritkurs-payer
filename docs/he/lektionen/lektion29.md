@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 29
+# שיעור 29
 
-## 29.1. Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum
+## 29.1. שימוש בפרסמאיפדה (⟪परस्मैपद⟫) ובאטמנפדה (⟪आत्मनेपद⟫) בקאוזטיב
 
 ::: grammar-box
 **הפיעול הוא ברוב המוחלט אוּבְּהַיָּפָּדָה (⟪उभयपद⟫)**
@@ -33,7 +33,7 @@ status: stable
 
 הכללים תואמים, באופן כללי, לכללים לגבי השימוש ב-Ātmanepada (⟪आत्मनेपद⟫) בפעלים מסוג Ubhayapada (⟪उभयपद⟫).
 
-## 29.2. Wortliste
+## 29.2. רשימת מילים
 
 קידומות:
 

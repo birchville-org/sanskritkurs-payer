@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 29
 
-## 29.1. Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum
+## 29.1. Utilisaziun dal Parasmaipada (⟪परस्मैपद⟫) ed Ātmanepada (⟪आत्मनेपद⟫) en il causativ
 
 ::: grammar-box
 **Il causativ è, con poche eccezioni, Ubhayapada (⟪उभयपद⟫)**
@@ -33,7 +33,7 @@ Resultat: ⟪भक्ता⟫ ⟪विष्णुं⟫ ⟪पश्यन�
 
 Las regulaziuns correspundan uschia en general a las regulaziuns per l’usi dal Ātmanepada (⟪आत्मनेपद⟫) tar verbs Ubhayapada (⟪उभयपद⟫).
 
-## 29.2. Wortliste
+## 29.2. Glista da pleds
 
 Präverben:
 

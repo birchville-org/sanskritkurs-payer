@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 12
+# पाठ १२
 
 ::: deleteme-box
 **इस पाठ में आप सीखेंगे:**
@@ -18,7 +18,7 @@ status: stable
 - अब तक सीखी गई धातुओं का कर्मणि और PPP
 :::
 
-## 12.1. Partizip Perfekt Passiv (PPP)
+## 12.1. कृदन्त भूतकाल कर्मणि खट् (PPP)
 
 अतीतकाल के कर्मवाच्य वाक्यों को बनाने का एक ⟪मार्ग⟫ संज्ञा-सदृश '⟪क्त⟫' कृदंत (PPP) के निर्माण द्वारा है।
 
@@ -71,7 +71,7 @@ status: stable
 - **gata** = ⟪गत⟫ = "गया" (सक्रिय); किंतु: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = "एक गया हुआ ⟪मार्ग⟫" (निष्क्रिय)
 - **āpta** = ⟪आप्त⟫ = "प्राप्त हुआ" (निष्क्रिय), "प्राप्त करने वाला" (सक्रिय)
 
-## 12.3. Bildung des PPP
+## 12.3. PPP का निर्माण
 
 ::: grammar-box
 निम्नलिखित निर्माण विधियाँ पाई जाती हैं (प्रत्येक ⟪धातु⟫ के लिए उसका PPP सीखना आवश्यक है!):
@@ -86,7 +86,7 @@ status: stable
 स्त्रीलिङ्ग शब्द हैं: **-tā**, **-itā**, **-nā**; नपुंसकलिङ्ग **phala** n. की तरह विभक्ति रूप लेता है।
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. -त (क्त) पर कर्मवाच्य कृदंत
 
 #### 12.3.1.1. बिन्दुवर्ण -i- के बिना (अनिट)
 
@@ -146,7 +146,7 @@ status: stable
 | **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-## 12.5. Wortliste
+## 12.5. शब्दावली
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : जागना, ज्ञान के लिए जागना, जानना; PPP **buddha** 3 जागे हुए, इसलिए **Buddha** = "जागे हुए" (न कि "प्रबुद्ध")
 
@@ -234,7 +234,7 @@ status: stable
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-## 12.6. Übung
+## 12.6. अभ्यास
 
 **A) [लेखन 7](/lektionen/lektion07), अभ्यास A के सक्रिय वाक्यों से भूतकाल के कर्मणि प्रयोग (Passiv) बनाएं, और अकर्मक क्रियाओं और गति के क्रियाओं के लिए भूतकाल के सक्रिय वाक्य बनाएं।**
 

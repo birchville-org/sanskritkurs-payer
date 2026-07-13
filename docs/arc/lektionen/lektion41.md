@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 41
+# ܡܠܦܢܐ 41
 
-## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter)
+## 41.1. ⟪ܣܘܼܒ݂ܗܵܫܝܼܬܹܐ⟫ (ܬܪܹܝܢ ܦܶܠܓܹܐ ܕܡܶܠܬܵܐ)
 
 ::: indent
 ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫  
@@ -33,11 +33,11 @@ Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद�
 :::
 Explanation: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
-## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a
+## 41.2. ܡܚܘܝܬܐ ܐܚܪ̈ܢܝܬܐ ܕ⟪ܟܪܬ⟫ ܥܠ -ܐ
 
-### 41.2.1. Present Participle (⟪लडादेशः⟫) Ā, Passive Present Participle (⟪लडादेशः⟫), Future Participle (⟪ऌडादेशः⟫) Ā
+### 41.2.1. ܡܠܬܐ ܕܦܘܠܚܢܐ ܕܙܒܢܐ ܗܫܝܐ (ܠܕܐܕܫܗ) ܐ، ܡܠܬܐ ܕܦܘܠܚܢܐ ܕܙܒܢܐ ܗܫܝܐ ܦܣܝܒܐ (ܠܕܐܕܫܗ)، ܡܠܬܐ ܕܦܘܠܚܢܐ ܕܙܒܢܐ ܥܬܝܕܐ (ܠܕܐܕܫܗ) ܐ
 
-#### 41.2.1.1. Thematic present stems, passive and future
+#### 41.2.1.1. ܫܲܪ̈ܫܹܐ ܕܙܲܒ݂ܢܵܐ ܕܗܳܫܵܐ ܬܹܡܵܬܝܼܩܵܝ̈ܳܐ، ܣܳܒ݂ܠܵܢܵܐ ܘܥܬܝܼܕܵܐ
 
 ::: grammar-box
 **Education:**
@@ -46,7 +46,7 @@ Present stem / Passive stem / Future stem + -māna (fem. mānā)
 :::
 Examples:
 
-⟪यज्⟫ 1U, Part.Präs.Ā ⟪यजमान⟫ 3 "someone who is honored with a sacrifice for their own benefit = sacrificer"
+⟪यज्⟫ 1U, Part.Präs.Ā ⟪यजमान⟫ 3 "ܕܡܬܚܒܪ ܒܙܒܢܐ ܠܗ ܠܕܝܟܠ = ܙܒܢܐ"
 
 ⟪मन्⟫ 4Ā, Part.Präs.Ā  ⟪मन्यमान⟫ 3 "a thinking one"
 
@@ -54,39 +54,39 @@ Examples:
 
 ⟪दा⟫ 3U, Part.Fut.Ā ⟪दास्यमान⟫ 3 "someone who will give for their own benefit"
 
-#### 41.2.1.2. Athematische Präsensklassen
+#### 41.2.1.2. ܕܽܘܟܝܵܬ̈ܳܐ ܕܙܲܒ݂ܢܵܐ ܕܗܳܫܵܐ ܠܵܐ ܬܹܡܵܬܝܼܩܵܝ̈ܳܐ
 
 ::: grammar-box
 **Education:**
 
-Weak present stem (in the form it has before the ending -ate of the 3.pl.Ā) + -āna (fem. -ānā)
+Schwacher Präsensstamm (in der Form, die er vor dem Endung -ate der 3.Pl.Ā hat) + -āna (fem. -ānā)
 :::
-Examples:
+Beispiele:
 
 ::: grammar-box
 | Root / Class | Present Participle Ā |
 | :--- | :--- |
 | **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
+| **⟪हु⟫** 3P | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
 | **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
 | **⟪क्री⟫** 9U | ⟪क्रीणान⟫:brkrī + n-āna |
 :::
-### 41.2.2. "Participle" of passive necessity (Gerundivum) (⟪कृत्य⟫)
+### 41.2.2. ܡܦܰܠܚܳܢܳܐ ܕܨܳܪܽܘܪܬܳܐ ܦܰܣܺܝܒܬܳܐ (ܓܶܪܽܘܢܕܺܝܒܽܘܡ) (⟪ܟܪܺܝܬܝܰܐ⟫)
 
 ::: grammar-box
-**To express passive necessity ("what must/shall be done"), adjectives derived from roots and derived verbal stems can optionally be formed with the following suffixes:**
+**ܠܡܫܬܥܐ ܚܘܒܬ ܦܠܗ (ܡܕܐ ܕܝܬܒܥ ܠܗ ܐܘ ܕܝܬܩܛܪ), ܡܠܦ̈ܘܬܐ ܕܢܩܛܝܢ ܡܢ ܫܪ̈ܫܐ ܘܡܠܦ̈ܘܬܐ ܕܢܩܛܝܢ ܡܢ ܫܪ̈ܫܐ ܕܦܥܠ ܡܬܩܪܒ̈ܝܢ ܐܘܟܠܐ ܒܬܪ ܡܕܥ̈ܝܢ ܐܘܟܠܐ:**
 
 * **-⟪तव्य⟫** (fem. **-⟪तव्या⟫**)
 * **-⟪अनीय⟫** (fem. **-⟪अनीया⟫**)
 * **-⟪य⟫** (fem. **-⟪या⟫**)
 * **-⟪त्य⟫** (fem. **-⟪त्या⟫**) (instead of **-⟪य⟫**/**-⟪या⟫**)
 :::
-#### 41.2.2.1. The Suffix -⟪तव्य⟫ / -⟪तव्या⟫
+#### 41.2.2.1. ܣܘܼܦܝܼܟܣ -⟪ܬܲܒܝܲ⟫ / -⟪ܬܲܒܝܲܐ⟫
 
 ::: grammar-box
-**The suffix -⟪⟪तव्य⟫ / -⟪⟪तव्या⟫ is attached to roots and derived verbal stems (e.g. causative) in the same way as the infinitive suffix -⟪⟪तुम्⟫ (see [Lesson 23](lektion23.md)), i.e.**
+**השורש -⟪⟪तव्य⟫ / -⟪⟪तव्या⟫ מתווסף לשורשים וגזרות פועל נגזרות (כגון הִפְעִיל) באותה צורה כמו שורש הפועל -⟪⟪तुम्⟫ (ראה [שיעור 23](lektion23.md)), כלומר**
 
 * **high-level root + ⟪तव्य⟫**
 
@@ -109,7 +109,7 @@ Examples:
 | ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "jemand, der geweckt werden soll; ein zu erweckender" |
 
 :::
-#### 41.2.2.2. The suffix -⟪अनीय⟫ / -⟪अनीया⟫
+#### 41.2.2.2. ܣܘܦܝܩܣ -⟪ܐܢܝܐ⟫ / -⟪ܐܢܝܐ⟫
 
 ::: grammar-box
 **Education:**
@@ -134,16 +134,16 @@ Examples:
 | ⟪दा⟫ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "was man geben lassen muss" |
 
 :::
-#### 41.2.2.3. The suffix -⟪य⟫ / -⟪या⟫
+#### 41.2.2.3. ܡܠܘܝܬܐ ܕ-⟪ܝ⟫ / -⟪ܝܐ⟫
 
 ::: grammar-box
 **Education:**
 
 Root (in Low, High, or Extended grade) + -⟪य⟫
 
-See the exact rules at Kielhorn, Grammar of the Sanskrit Language, pp. 195 - 197!
+רְחֵק מִן קַיָּמָא דִכְתִיב בְּסוֹפֵי 195 - 197 דְּסִפְרָא דְגַרְמָנוּתָא!
 :::
-Treatment of final vowels:
+טַעֲמָא דְאוּחֵי אַחֳרָנִין:
 
 ::: grammar-box
 **1. Roots ending in -ā form this gerundive in -eya**
@@ -159,9 +159,9 @@ Examples:
 
 :::
 ::: grammar-box
-**2. Roots ending in -i /-ī / -u / -ū /-ṛ generally have strong or lengthened grade, unless they belong to those roots ending in -i / -u /-ṛ that form a gerundive with the suffix -⟪त्य⟫ (fem. -⟪त्या⟫) (list of these roots in Kielhorn, Grammar §537).**
+**٢. השרשים המסתיימים ב- -i /-ī / -u / -ū /-ṛ לרוב יש להם דרגה חזקה או מוארכת, אלא אם כן הם שייכים לשרשים המסתיימים ב- -i / -u /-ṛ היוצרים גרונדיב עם הסיומת -⟪त्य⟫ (נקבה -⟪त्या⟫) (רשימת שרשים אלו בקילפורן, דקדוק סעיף 537).**
 :::
-Example:
+דוגמה:
 
 ::: no-header
 
@@ -190,9 +190,9 @@ Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 :::
 
 ::: grammar-box
-**2b. Stems ending in -u/-ū replace the strong-grade -o before -ya with -av, and the extended-grade -au with -āv. Extended-grade formation in this case denotes necessity.**
+**2b. השורשים המסתיימים ב-/-u/-ū מחליפים את הדרגה החזקה -o לפני -ya ב-av, ואת הדרגה המורחבת -au ב-āv. יצירת דרגה מורחבת במקרה זה מציינת חובה.**
 :::
-Example:
+דוגמה:
 
 ::: no-header
 
@@ -234,7 +234,7 @@ Examples:
 
 :::
 ::: grammar-box
-**Causative and Verbs of the 10th Present Class (⟪चुरादि⟫)**
+**ܣܘܬ ܕܡܠܦܢܐ ܘܣܘܬ ܕܡܠܦܢܐ ܕܥܣܪ̈ܝܢ (⟪चुरादि⟫)**
 
 **Bildung:**
 
@@ -257,10 +257,10 @@ Beispiel:
 Fig.: ⟪मान्यः⟫
 (Image source: [Details](/arc/licenses#lekt4107))
 :::
-#### 41.2.2.4. The Suffix -⟪त्य⟫ / ⟪त्या⟫ (instead of -⟪य⟫ / -⟪या⟫)
+#### 41.2.2.4. ܣܽܘܦܺܝܩܣܳܐ -⟪ܬܝܳܐ⟫ / ⟪ܬܝܳܐ⟫ (ܚܠܳܦ -⟪ܝܳܐ⟫ / -⟪ܝܳܐ⟫)
 
 ::: grammar-box
-List of roots ending in -i / -u /-ṛ, which form a gerundive with -⟪य⟫ / -⟪या⟫ instead of with the suffix -⟪त्य⟫ (fem. -⟪त्या⟫), in Kielhorn, Grammar §537.
+ܠܝܣܬܐ ܕܫܪܫ̈ܐ ܟܢܝ̈ܬܐ -i / -u /-ṛ ܕܝܠ̈ܗܢ ܡܫܬܥܪ̈ܝܢ ܓܪܘܿܕܬܝܒ ܥܡ -⟪य⟫ / -⟪या⟫ ܒܕܠܐ ܡܢ ܣܘܦܝܟܣ -⟪त्य⟫ (ܢ̈ܟܝܬ -⟪त्या⟫) ܒܟܝܠܦܘܿܪܢ ܓܪܡܪ 537.
 
 **Bildung:**
 
@@ -277,16 +277,16 @@ Examples:
 | ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "zu tuender" |
 
 :::
-### 41.2.3. Syntaktisches zum "Partizip" der passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
+### 41.2.3. ܣܺܝܢܬܰܩܣܺܝܣ ܕ"ܡܰܫܬܰܘܬܦܳܢܳܐ" ܕܨܶܒܬܳܐ ܦܰܣܺܝܒܳܐ (ܓܶܪܽܘܢܕܺܝܒܽܘܡ) (⟪ܟܪܺܝܬܝܳܐ⟫)
 
 ::: grammar-box
 The gerundive can be used attributively:
 
 :::
 ::: indent
-**⟪दर्शनीयं⟫ ⟪नगरम्⟫** = "a city that must be seen; a city worth seeing"
+**⟪दर्शनीयं⟫ ⟪नगरम्⟫** = "ܩܘܪܝܐ ܕܚܠܦ ܠܬܩܪܐ; ܩܘܪܝܐ ܕܚܠܦ ܠܬܩܪܐ"
 :::
-The gerundive can also be used as a predicative noun in sentences with passive constructions that express an obligation or a command (with ⟪न⟫ a prohibition, an impossibility):
+ܓܪܘܢܕܝܬܐ ܡܫܟܚܐ ܠܗܘܢ ܠܡܕܒܪ ܐܝܟ ܫܡܐ ܒܦܠܘܚ̈ܝܐ ܕܡܫܟܚ̈ܝܢ ܠܬܩܪܒܐ ܐܘ ܠܡܕܒܪ ܚܝܠ (ܥܸܡ न ܠܐ ܬܩܪܒ، ܡܢܥܐ):
 
 ::: indent
 **⟪काशी⟫ ⟪द्विजैर्द्रष्टव्या⟫** = "Twice-born must see Benares"
@@ -296,20 +296,20 @@ The gerundive can also be used as a predicative noun in sentences with passive c
 Fig.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
 (Image source: [Details](/arc/licenses#lekt4108))
 :::
-### 41.2.4. Differences in the usage of the Gerundive suffixes
+### 41.2.4. ܦܘܪ̈ܫܐ ܒܡܬܚܫܚܢܘܬܐ ܕܫܘܠܡ̈ܐ ܕܓܪܘܢܕܝܒܐ
 
 ::: grammar-box
 The usage of these suffixes largely overlaps
 
-* **-⟪तव्य⟫ (fem. -⟪तव्या⟫):** expresses necessity and is preferably used predicatively (rarely attributively). Forms with this suffix should not be used in nominal compounds.
-* **-⟪अनीय⟫ (fem. -⟪अनीया⟫) and -⟪य⟫ (fem. -⟪या⟫) / -⟪त्य⟫ (fem. -⟪त्या⟫) (instead of -⟪य⟫/-⟪या⟫):** may have an additional meaning (esp. -⟪य⟫) in the sense of German "-worth" (e.g. "worth seeing") or only possibility "-able" (⟪दृश्य⟫ "visible"). Forms with these suffixes can be negated with ⟪अ⟫-/-⟪अन्⟫- (not however forms with -⟪तव्य⟫) and there are ⟪तत्पुरुष⟫ as their back element they occur.
+* **-⟪तव्य⟫ (ܢܟܝܐ -⟪तव्या⟫):** ܡܕܥܐ ܠܗ ܘܒܫܪܬܐ ܕܡܠܝ ܠܗ (ܒܫܪܬܐ ܕܡܠܝ). ܣܘܦ̈ܬܐ ܕܗܢܐ ܠܐ ܝܬܒܪܟܘ.
+* **-⟪अनीय⟫ (ܢܟܝܐ -⟪अनीया⟫) ܘ-⟪य⟫ (ܢܟܝܐ -⟪या⟫) / -⟪त्य⟫ (ܢܟܝܐ -⟪त्या⟫) (ܒܕܠܐ -⟪य⟫/-⟪या⟫):** ܝܬܗܒ ܠܗ ܡܕܥܐ ܐܪ̈ܟܝ (ܒܫܪܬܐ -⟪य⟫) ܠܡܕܥ "ܐܪ̈ܟܝ" (ܠܡܕܥ "ܐܪ̈ܟܝ") ܘܠܐ ܒܫܪܬܐ "-ܐܪ̈ܟܝ" (⟪दृश्य⟩ "ܐܪ̈ܟܝ"). ܣܘܦ̈ܬܐ ܕܗܢܐ ܝܬܗܒܘ ܠܡܕܥ ⟪अ⟩/-⟪अन्⟩ (ܠܐ ܒܫܪܬ -⟪तव्य⟩) ܘܗܢܐ ⟪तत्पुरुष⟩ ܠܡܕܥ.
 :::
-### 41.2.5. No connection with ⟪सु⟫- and ⟪दुस्⟫-
+### 41.2.5. ܠܐ ܫܘܬܦܘܬܐ ܥܡ ⟪ܣܘ⟫- ܘ ⟪ܕܘܣ⟫-
 
 ::: grammar-box
-With  ⟪सु⟫ and ⟪दुस्⟫ meaning "light" or "heavy," gerunds may not be combined. Instead, ⟪तत्पुरुष⟫ of type ⟪सुकर⟫ 3 ("easy to do") appear (see [Lesson 18](lektion18.md)).
+ܥܡ ⟪सु⟩ ܘ⟪दुस्⟩ ܡܕܥ "ܢܘܪ" ܐܘ "ܟܒܕ", ܠܐ ܝܬܗܒ. ܒܕܠܐ, ⟪तत्पुरुष⟩ ܡܢ ܣܘܦ̈ܐ ⟪सुकर⟩ 3 ("ܠܐ ܟܒܕ") ܝܬܗܒ (ܪ̈וֹא [Lesson 18](lektion18.md)).
 :::
-## 41.3. Word List
+## 41.3. ܡܠܘܐܐ ܕܡ̈ܠܝܢ
 
 ⟪मूर्ख⟫ m = ⟪मूढ⟫
 
@@ -326,13 +326,13 @@ Fig.: ⟪भुजङ्गः⟫
 
 ::: media
 ![lekt4104.jpg](/images/lekt4104.webp)
-Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
-(Image source: [Details](/arc/licenses#lekt4104))
+ܩ̈ܘܪܟܐ: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
+(ܡܕܝܢܬ ܨܠܩܐ: [ܦ̈ܪܣܘܼܦ̈ܬ](/arc/licenses#lekt4104))
 :::
-⟪शास्⟫ 2P ⟪शास्ति⟫ : to reprove, to control, to command, to teach
+⟪शास्⟫ ܡ̈ܠܝܐ ⟪शास्ति⟫ : ܠܦ̈ܘܼܬ ܡܕܝܢܬ, ܠܦ̈ܘܼܬ ܡܕܝܢܬ, ܠܦ̈ܘܼܬ ܡܕܝܢܬ, ܠܦ̈ܘܼܬ ܡܕܝܢܬ
 
 ::: indent
-has the weak present stem **⟪शिष्⟫** : **⟪शिष्मस्⟫**, but the 3rd person plural. Pres. has the strong stem: **⟪शासति⟫** (!! ending -ati) alongside occasional **⟪शासन्ति⟫**. **⟪अशासुर्⟫**. Also the entire ⟪आत्मनेपद⟫ has, insofar as it occurs, the strong stem: **⟪शास्ते⟫**
+ܠܦ̈ܘܼܬ ܡܕܝܢܬ ܩ̈ܘܪܟܐ **⟪शिष्⟫** : **⟪शिष्मस्⟫**, ܠܐ ܡ̈ܠܝܐ ܬܠܬ. ܡܕܝܢܬ ܩ̈ܘܪܟܐ: **⟪शासति⟫** (!! ܡ̈ܠܝܐ -ati) ܒܪܬ ܡ̈ܠܝܐ **⟪शासन्ति⟫**. **⟪अशासुर्⟫**. ܠܐ ܡ̈ܠܝܐ ⟪आत्मनेपद⟫, ܒܪܬ ܡ̈ܠܝܐ: **⟪शास्ते⟫**
 
 Perf I **⟪शशास⟫**, **⟪शशासुर्⟫**  
 Fut. **⟪शासिष्यति⟫**  
@@ -372,7 +372,7 @@ Fig.: ⟪शास्त्री⟫
 ::: deleteme-box
 s. dazu:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: junges Mädchen, Tochter, Jungfrau
 
@@ -383,9 +383,9 @@ s. dazu:
 ::: indent
 PPP **⟪अतीत⟫** : n. past tense
 :::
-## 41.4. Exercise
+## 41.4. ܬܪܓܠܐ
 
-A) Translate the two proverbs at the beginning of the lesson.
+[A] תרגם את שני המימרות בראש הלימוד.
 
 B) Translate the following:
 

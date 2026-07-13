@@ -7,7 +7,7 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 5
+# 第五课
 
 ::: deleteme-box
 **在本课中，您将学习：**
@@ -29,7 +29,7 @@ status: stable
 
 ---
 
-## 5.2. Zur Sanskrit-Terminologie für Komposita
+## 5.2. 关于复合词的梵语术语
 
 - **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫：复合词的组成部分
 - **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫：复合词的展开（解析）
@@ -40,7 +40,7 @@ status: stable
 
 ---
 
-## 5.3. Kopulative Komposita (Dvandva n. = ⟪द्वन्द्व⟫)
+## 5.3. 并列复合词 (Dvandva n. = ⟪द्वन्द्व⟫)
 
 黏着复合词用于连接语法上对等、并列的成分（名词或形容词）。
 
@@ -64,13 +64,13 @@ Dvandva 通常是一个中性词（无论最后一个词干的性别如何），
 :::
 有关双数并列复合词（Dualdvandva），请参见后文！
 
-### 5.3.1. Vorderglieder von Komposita
+### 5.3.1.复合词的前半部分
 
 复合词的前置成分（不仅限于持业释）通常呈现为**名词词干**的不变形式。复合词的各个成分依据**句法连声**的规则进行连接（即指我们迄今为止所了解的连声，与在词内形态成分之前应用的**词法连声**相对）。
 
-### 5.3.2. Plural-Itaretaradvandva
+### 5.3.2. 复数相与并列复合词 (Plural-Itaretaradvandva)
 
-Beispiele für Pluraldvandva:
+复数相与并列复合词的例子：
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
 > = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
@@ -96,7 +96,7 @@ Beispiele für Pluraldvandva:
 
 ---
 
-## 5.4. Wortliste
+## 5.4. 词汇表
 
 **学习以下词汇：**
 
@@ -142,7 +142,7 @@ Beispiele für Pluraldvandva:
 
 ---
 
-## 5.5. Übung
+## 5.5. 练习
 
 **A) 翻译以下句子和复合词，并用梵语解析其中出现的并列复合词（Dvandvas）：**
 
@@ -180,7 +180,7 @@ Beispiele für Pluraldvandva:
 
 ---
 
-## 5.6. Wiederholungsübung
+## 5.6. 复习练习
 
 **A) 翻译：**
 

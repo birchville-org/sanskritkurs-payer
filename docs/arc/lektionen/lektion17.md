@@ -7,15 +7,15 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 17
+# ܐܘܠܦܢܐ 17
 
-## 17.1. Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)
+## 17.1. ܕܪܓܐ ܕܬܪܝܢ ܕܙܒܢܐ ܗܫܝܐ (ܐܕܐܕܝ = ܐܕ ܐܚܪ̈ܢܐ)
 
-The verbal endings attach directly to the root. In doing so, the sound changes resulting from word-sandhi must be observed.
+ܠܫܢ̈ܐ ܕܬܘܫܒܬܐ ܝܬܝܪ̈ܘܬܐ ܠܫܪܫܐ. ܒܗܢܟܝܢܘܬܐ ܕܠܫܢ̈ܐ ܕܡܘܬܒܪ̈ܝܢ ܠܫܪܫܐ
 
 ::: grammar-box
 
-There are the following forms of education in the second present class:
+ܐܝܢ ܠܗ ܡܕܥܬܐ ܒܟܪܝܘܬܐ ܕܥܠܡܐ:
 
 1.  Roots with stem gradation 
     *   mostly: strong grade - weak grade
@@ -24,7 +24,7 @@ There are the following forms of education in the second present class:
 3.  two-syllable roots ending in -i/-ī with stem gradation
 
 :::
-## 17.2. Roots of the second present class with stem alternation high grade - low grade
+## 17.2. ܥܶܩܳܪ̈ܶܐ ܕܬܰܪܬܶܝܢ ܩܠܳܣ̈ܶܐ ܕܙܰܒܢܳܐ ܗܳܫܳܝܳܐ ܥܰܡ ܫܽܘܚܠܳܦܳܐ ܕܫܶܪܫܳܐ: ܕܰܪܓܳܐ ܪܳܡܳܐ - ܕܰܪܓܳܐ ܬܚܳܝܬܳܝܳܐ
 
 Examples:
 
@@ -84,7 +84,7 @@ Further examples:
 | 3\. pl. Präs. Ā | ⟪दुहते⟫ (duh-ate) |
 
 :::
-⟪हन्⟫ 2 P "to strike, to beat, to kill"
+⟪हन्⟫ 2 P "ܠܦܩ ܠܒܫ ܡܘܬ"
 
 *   strong present stem: han-
 *   weak present stem:
@@ -114,7 +114,7 @@ Further examples:
 | 3\. pl. Präs. P | ⟪सन्ति⟫ (s-anti) |
 
 :::
-## 17.3. Roots of the second present class with stem alternation lengthened grade - low grade
+## 17.3. ܥܩܪ̈ܐ ܕܕܪܓܐ ܕܬܪܝܢ ܕܙܒܢܐ ܕܗܫܐ ܥܡ ܫܘܚܠܦܐ ܕܫܪܫܐ: ܕܪܓܐ ܡܘܪܟܒܐ - ܕܪܓܐ ܬܚܬܝܐ
 
 Example:
 
@@ -135,7 +135,7 @@ Example:
 | 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
 
 :::
-## 17.4. Roots of the second present class without stem gradation
+## 17.4. ܥܩܪ̈ܐ ܕܕܪܓܐ ܬܪܝܢܐ ܕܙܒܢܐ ܗܫܝܐ ܕܠܐ ܫܘܚܠܦܐ ܕܫܪܫܐ
 
 ::: grammar-box
 Without stem gradation, roots of the second present class end in -ā
@@ -186,9 +186,9 @@ Examples:
 | 3\. pl. Präs. P | kommt nicht vor |
 
 :::
-## 17.5. Two-syllable roots ending in -i/-ī with stem alternation
+## 17.5. ܥܩܪ̈ܐ ܬܪ̈ܝܢ ܟܬܝܫ̈ܝܢ ܕܫܠܡܝܢ ܒ-i/-ī ܥܡ ܫܘܚܠܦ ܫܪܫܐ
 
-Multiple roots are in a series of forms disyllabic, i.e. they have before a consonantal ending an -i (respectively before some endings -ī). These roots are nevertheless treated by the native grammarians and in dictionaries etc. as monosyllabic.
+שְׁרִישַׁן דַּאֲתָרַיָא הִינוּן בְּסִידְרָא דְּצוּרְיַן תְּרוֵיעַ, אִינוּן קוֹדָם סוֹף עֲבַרְיָא -i (אוֹ קוֹדָם צוּרְיַן אֲחֵרִין -ī). וְהָאִלּוּ שְׁרִישַׁן מְנָאֲכֵי בְּסוֹפַיָא וּבְמִלְכֵּי כְּצוּרְיַן אַחָד.
 
 Examples:
 
@@ -224,7 +224,7 @@ Examples:
 | 3\. pl. Präs. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
 :::
-Also ⟪स्तु⟫ 2 U "praise" has, in addition to the forms specified under 3, forms following this pattern:
+ܠܟܢ ⟪स्तु⟫ 2 U "ܣܘܓܐ" ܠܗ، ܒܝܬܪ ܡܢ ܐܘܠܦ̈ܝܬܐ ܕܡܫܛܪ̈ܘܬܐ ܕܝܗܒ ܠܗ 3، ܐܘܠܦ̈ܝܬܐ ܕܗܢܐ
 
 ::: no-header
 
@@ -233,7 +233,7 @@ Also ⟪स्तु⟫ 2 U "praise" has, in addition to the forms specified und
 | 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
-## 17.6. Wortliste
+## 17.6. ܡܠܘܐܐ
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : strike, slay, kill
 
@@ -253,9 +253,8 @@ Bangalore = ಬೆಂಗಳೂರು
 
 davon:
 
-::: indent
-⟪आसन⟫ n.: the sitting, seat; also: sitting positions of the yogin
-:::
+[0] ::: indent
+⟪आसन⟫ n.: ܐܘܬܒܐ, כܣܪ; גܘ̈ܠ ܡܕܒܪ ܝܓܝܢ
 
 ::: media
 ![](/images/lekt1701.webp)
@@ -267,9 +266,9 @@ Fig.: ⟪योगासनम्⟫
 davon:
 
 ::: indent
-⟪रुद्र⟫ m.: (the howler =) the storm god Rudra
+⟪रुद्र⟫ ܡ̈: (ܗܘ ܕܡܙܥ =) ܐܠܗܐ ܕܪܘܒܐ
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ no passive and PPP: to speak, to say (something to someone: double accusative)
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ ܠܐ ܦܥܝܠ ܘܦܥܝܠ ܫܡܐ: ܠܬܘܒ, ܠܡܠܠ (ܐܝܟܘܢܐ ܕܡܠܠ: ܫܬܝ ܟܢܘܫ)
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : to milk
 
@@ -288,9 +287,9 @@ davon:
 ⟪दिष्ट्या⟫ Instr.: (lit.: by a fortunate circumstance) O fortunate circumstance (exclamation of joy and felicity)
 :::
 
-## 17.7. Exercise 1
+## 17.7. ܬܪܓܡܬܐ 1
 
-A) Insert the verb in the following sentences and translate:
+[A] ܣܓܕ ܐܠܗܐ ܒܟܢܫ̈ܬܐ ܘܦܪܫ ܠܗ:
 
 ⟪१⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫)
 
@@ -312,11 +311,11 @@ A) Insert the verb in the following sentences and translate:
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫)
 
-B) Put the agent and verb in the plural in the sentences formed in A)
+B) Setz den Subjekt und das Verb im Plural in den Sätzen, die in A) gebildet wurden
 
-## 17.8. Übung 2
+## 17.8. ܬܕܪܫܬܐ 2
 
-Translate the following verb forms and provide the corresponding root:
+ܡܠܘܿܟ ܐܬ ܗܕ ܡܠܘܿܟ̈ܐ ܘܚܙܝ ܪܫܐ:
 
 ⟪१⟫. ⟪अदन्ति⟫
 

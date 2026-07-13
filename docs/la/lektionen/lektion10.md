@@ -30,9 +30,9 @@ Haec sententia **plane (!) significatio aequivalet** sententiae:
 :::
 
 ::: grammar-box
-- In the passive sentence, the agent (**kartṛ**) is in the **Instrumental** (tṛtīyā f. "third case ending"), and the direct object (**karman** n.) is in the **Nominative** (prathamā f.).
-- Passive sentences in which the agent is not specified usually have an impersonal meaning ("one"):
-  e.g. **ijyate** = ⟪इज्यते⟫ "One sacrifices" (literally: "it is honored with a sacrifice").
+- In sententia passiva, agens (**kartṛ**) est in **Instrumentali** (tṛtīyā f. "tertia casus desinentia"), et obiectum directum (**karman** n.) est in **Nominativo** (prathamā f.).
+- Sententiae passivae in quibus agens non specificatur solent habere significatum impersonalem ("aliquis"):
+e.g. **ijyate** = ⟪इज्यते⟫ "Aliquis sacrificat" (literally: "honoretur cum sacrificio").
 :::
 
 ::: grammar-box
@@ -152,7 +152,7 @@ Aliae usus ablativi instrumentalís (tṛtīyā) sequentur postea.
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
+## 10.4. Das Passivum, Indikativ Präsens (yak = ⟪यक्⟫)
 
 ::: grammar-box
 **Formatio:**
@@ -205,7 +205,7 @@ z.B. **tan** 8 U.
    * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
    * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
 
-## 10.5. Wortliste
+## 10.5. Vocabularium
 
 **gṛha** n. ⟪गृह⟫ : domus
 
@@ -237,7 +237,7 @@ Morphologia: **yaj** 1 U + suffixum kṛt **-na-**.
 ::: note-box
 In India, verum verbum vim magicam habere putabatur, immo totum ordinem mundi per verum verbum conservari et creari. De hac opinione magna vide fundamentale opus:
 
-Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Ex testamento ed. a Ludovico Alsdorf. - Gottingae : Vandenhoeck & Ruprecht. -- Tom. 2: Varuna et Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
+Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Ex testamento ed. a Ludovico Alsdorf. - Gottingae : Vandenhoeck & Ruprecht. -- Tom. 2: Varuna et Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
 :::
 
 ::: media
@@ -268,7 +268,7 @@ Fig.: ⟪विश्वामित्रः⟫
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : interrogare (aliquem: Acc.; de re: Acc.)
 - **saha** ⟪सह⟫ : simul cum, coniunctim cum (etiam in "pugnare cum" etc.) (Postpositio cum Instrumentali)
 
-## 10.6. Übung
+## 10.6. Exercitium
 
 **A) Formate passivum sequentibus formis verbalibus (cum translatione formae verbalis):**
 
@@ -333,7 +333,7 @@ Fig.: ⟪तन्तुवायः⟫
 9. Kṣatriya dominum sacrificium offert. (Constructio passiva, sine verbo **yajña** utendo)
 10. Liberalitate sequax Buddhae caelum assequitur.
 
-## 10.7. Wortliste 2
+## 10.7. Vocabularium 2
 
 - **makṣikā** f. ⟪मक्षिका⟫ : Musca, Apis
 - **vraṇa** m. ⟪व्रण⟫ : Vulnus, Error, Damnum
@@ -360,7 +360,7 @@ Fig.: ⟪तन्तुवायः⟫
 - **iha** ⟪इह⟫ : Hic
 - **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : Esse pulcher, Splendere
 
-## 10.8. Lese- und Übersetzungsübung
+## 10.8. Exercitium legendi et vertendi
 
 **Legite et vertite atque in passivum convertite:**
 

@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 35
+# ܬܶܪܓܳܡܳܐ 35
 
-A) Form the corresponding perfect forms for the following verb forms:
+[A] ܣܘܓ ܠܟ ܐܪܡܝܐ ܕܦܘܠܚܢ ܠܟܝܪܐ ܕܗܘܬ:
 
 ::: grammar-box
 | Present / Imperfect | Perfect |
@@ -58,22 +58,22 @@ A) Form the corresponding perfect forms for the following verb forms:
 B) Translate:
 
 ⟪१⟫. **⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫**
-Once upon a time, a great Kṣatriya began to sacrifice. Indra abducted (took) his sacrificial animal. But when the animal had disappeared, a wicked Brahman spoke to the Kṣatriya: "The animal has disappeared because of the Kṣatriya's bad conduct."
+ܒܝܘܡܐ ܕܚܢܢܐ، ܣܪܝܪ ܪܒܐ ܕܟܫܬܪܝܐ ܗܘܐ ܡܕܟܪ. ܝܢܕܪܐ ܣܓܠ ܩܘܪܒܢܗ ܟܬܦ. ܐܠܐ ܝܕܥ ܣܓܠ ܫܬܟܪ، ܒܪܝܐ ܕܒܪܝܬ ܟܫܬܪܝܐ ܡܠܠ: "ܣܓܠ ܫܬܟܪ ܡܢ ܒܪܝܬ ܟܫܬܪܝܐ."
 
 ⟪२⟫. **⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवू⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫**
-Rāma was childless. He wished for a son, but did not get one. Therefore, he sacrificed to the gods and performed vows such as sexual abstinence and the like. The gods heard Rāma's wish and granted him the desired son.
+ܪܐܡܐ ܠܐ ܗܘܐ ܒܪ. ܡܕܟܪ ܠܗ ܒܪ، ܐܠܐ ܠܐ ܫܟܠ. ܡܢ ܗܢܐ، ܕܟܪ ܠܗ ܠܐܘ̈ܗܝ، ܘܥܒܕ ܚܘܛܢ̈ܐ ܟܡܐ ܕܫܬܘܩܝܢ ܘܟܠ. ܐܘ̈ܗܝ ܫܡܥܘ ܠܟܪܕܐ ܕܪܐܡܐ، ܘܗܠܟܘ ܠܗ ܒܪܐ ܕܡܬܩܝܠ.
 
 ⟪३⟫. **⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫**
-The Brahmana women cooked ghee for the sacrifice. While the Brahmana women were cooking, the Brahman men prepared the sacrifice site. Then the Kṣatriyas sacrificed to Śiva and the other gods as sacrifice lords, and the Brahman men performed the sacrifice (on behalf).
+ܒܝܬ ܟܗܢ̈ܐ ܥܠܩܘ ܫܡܝܢ̈ܐ ܠܩܘܪܒܢܐ. ܝܕܥ ܒܝܬ ܟܗܢ̈ܐ ܥܠܩܘ، ܒܝܬ ܟܗܢ̈ܐ ܥܕܪܘ ܡܩܪܒܢܐ. ܠܟܕ، ܟܫܬܪ̈ܐ ܕܟܪܘ ܠܫܝܒܐ ܘܠܐܘ̈ܗܝ ܟܡܪ̈ܐ، ܘܒܝܬ ܟܗܢ̈ܐ ܥܒܕܘ ܩܘܪܒܢܐ.
 
 ⟪४⟫. **⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫**
-Arhats have broken family ties, ended greed, hatred, and delusion, recognized the truth, and — freed from suffering — attained the bliss of liberation.
+ܐܪܗܬ̈ܐ ܫܒܩܘ ܟܝܢܬ، ܣܪܩܘ ܠܥܒ̈ܕܐ، ܘܫܟܠܘ ܠܚܩܝܡܐ، ܘܫܬܥܒܪܘ ܡܢ ܟܝܢܬ، ܐܫܟܚܘ ܠܪܒܘܬ.
 
 ---
 
-## Syntactic Variation (Perfect to Imperfect)
+## ܫܘܚܠܦܐ ܣܢܛܩܣܝܐ (ܡܢ ܡܫܠܡܢܐ ܠܐ-ܡܫܠܡܢܐ)
 
-C) Transform the sentences of exercise B) by replacing perfects with imperfects:
+[C) ܛܘܓܪ ܐܝܠܟܝ ܕܡܠܦܬܐ ܕܒ) ܒܫܘܡܥ ܠܦܪܩܝܢ:
 
 ⟪१⟫. ⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपाक्रामत⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪ऽहरत्⟫ ⟪॥⟫
 

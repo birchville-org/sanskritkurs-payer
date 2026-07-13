@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Lecziun 4
 
-A) Formulate oral questions using the following words according to the scheme viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) and answer the questions in Sanskrit:
+A) Formuladas dumondas oralas cun las suventas secundarias da la schema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) e respuonda las dumondas en sanscrit:
 
 śruti, śiva, brāhmaṇa, dvija (plural), indrāṇī, dhenu, tulādhara, kālidāsa
 
@@ -46,7 +46,7 @@ kālidāsaḥ kaḥ? kaviḥ kālidāsaḥ.
 
 ⟪कालिदासः⟫ ⟪कः⟫ ⟪।⟫ ⟪कविः⟫ ⟪कालिदासः⟫ ⟪॥⟫
 
-B) Formulate questions for the following reading exercise according to the pattern etat kim (⟪एतत्किम्⟫) and answer the questions with the specified words and demonstrative pronouns, e.g. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
+B) Formuladas dumondas per l'exercizi da lectura suenter il model etat kim (⟪एतत्किम्⟫) e respundei las dumondas cun las paraulas specificadas ed ils pronom demonstrativ, per exempel eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
 
 ::: media
 ![](/images/lekt0401.webp)

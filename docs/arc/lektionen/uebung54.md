@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 54
+# ܬܪܓܠܐ 54
 
-Form the corresponding Aorist forms for the following Present or Perfect forms:
+Form corresponding Aorist forms for the following Present or Perfect forms:
 
 ::: grammar-box
 | No. | Form | Determination / Meaning | Aorist |

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 4
+# ܡܠܦܢܐ 4
 
 ::: deleteme-box
 **In dieser Lektion lernen Sie:**
@@ -17,11 +17,11 @@ status: stable
 - Sandhi von auslautendem -d
 - Einfache Frageformeln
 :::
-## 4.1. Einfache Ergänzungsfragen (Wortfragen) und Antworten
+## 4.1. ܫܘܐ̈ܠܐ ܡܫܠܡܢ̈ܐ ܦܫܝ̈ܛܐ (ܫܘܐ̈ܠܐ ܕܡ̈ܠܐ) ܘܦܬܓܡ̈ܐ
 
-### 4.1.1. Fragepronomina und Demonstrativpronomina
+### 4.1.1. Fragepronomina und ܟܢܘܫܝ̈ܐ ܡܚܘܝܢܝ̈ܐ
 
-#### 4.1.1.1. Fragepronomen (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
+#### 4.1.1.1. ܡܠܬܐ ܕܫܘܐܠܐ (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
 ::: grammar-box
 | | Nominative singular | Nominative plural |
@@ -30,70 +30,70 @@ status: stable
 | **Masculine** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
 | **Feminine** | **kā = ⟪का⟫** | **kās = ⟪कास्⟫** |
 :::
-#### 4.1.1.2. Demonstrative pronouns (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
+#### 4.1.1.2. ܟܢܘܫܝܐ ܕܡܚܘܝܢܘܬܐ (ܢܝܕܪܫܟܣܪܘܢܡܐܢܝ ܕܢܩܒܬܐ = ⟪ܢܝܕܪܫܟܣܪܘܢܡܐܢܝ⟫)
 
 ::: grammar-box
-| **Tribes** ||||
+| **ܣܘܟ̈ܠܬܐ** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
-| **Nominative singular** ||||
-| **Neuter** | **tad = ⟪तद्⟩** | **etad = ⟪एतद्⟩** | **idam = ⟪इदम्⟩** |
-| **Masculine** | **sa, so saḥ = ⟪स⟩ ⟪सो⟩ ⟪सः⟩** | **eṣa, eṣo, eṣaḥ = ⟪एष⟩ ⟪एषो⟩ ⟪एषः⟩** | **ayam = ⟪अयम्⟩** |
-| **Feminine** | **sā = ⟪सा⟩** | **eṣā = ⟪एषा⟩** | **iyam = ⟪इयम्⟩** |
-| **Nominative plural** ||||
-| **Neuter** | **tāni = ⟪तानि⟩** | **etāni = ⟪एतानि⟩** | **imāni = ⟪इमानि⟩** |
-| **Masculine** | **te = ⟪ते⟩** | **ete = ⟪एते⟩** | **ime = ⟪इमे⟩** |
-| **Feminine** | **tās = ⟪तास्⟩** | **etās = ⟪एतास्⟩** | **imās ⟪इमास्⟩** |
+| | **ܬܐܕ = ⟪तद्⟫:br"ܗܘ, ܗܝ, ܗܕ; ܐܢܫ, ܐܢܬ, ܗܕ":br(ܡܠܛܡ)** | **ܐܬܐܕ = ⟪एतद्⟫:br"ܗܢܘ, ܗܕܝ, ܗܕ":br(ܟ̈ܠܘܡ ܪܒܐ)** | **ܐܝܕܡ = ⟪इदम्⟫:br"ܗܢܘ, ܗܕܝ, ܗܕ":br(ܩܪܒ)** |
+| **ܢܘܣܟ ܡܕܝܐ** ||||
+| **ܢܘܬܪܐ** | **ܬܐܕ = ⟪तद्⟩** | **ܐܬܐܕ = ⟪एतद्⟩** | **ܐܝܕܡ = ⟪इदम्⟩** |
+| **ܕܟ̈ܪܐ** | **ܣܐ, ܣܘ ܣܗ = ⟪स⟩ ⟪सो⟩ ⟪सः⟩** | **ܐܝܣܐ, ܐܝܣܘ, ܐܝܣܗ = ⟪एष⟩ ⟪एषो⟩ ⟪एषः⟩** | **ܐܝܡ = ⟪अयम्⟩** |
+| **ܢܫܐ** | **ܣܐ = ⟪सा⟩** | **ܐܝܣܐ = ⟪एषा⟩** | **ܐܝܡ = ⟪इयम्⟩** |
+| **ܢܘܣܟ ܪܒܐ** ||||
+| **ܢܘܬܪܐ** | **ܬܐܢ = ⟪तानि⟩** | **ܐܬܐܢ = ⟪एतानि⟩** | **ܐܝܡܢ = ⟪इमानि⟩** |
+| **ܕܟ̈ܪܐ** | **ܬܝ = ⟪ते⟩** | **ܐܬܝ = ⟪एते⟩** | **ܐܝܡ = ⟪इमे⟩** |
+| **ܢܫܐ** | **ܬܐ = ⟪तास्⟩** | **ܐܬܐ = ⟪एतास्⟩** | **ܐܝܡ ܬܐ = ⟪इमास्⟩** |
 :::
-**Regarding Nom. sg. masc.:**
-- **sa, eṣa** (⟪स⟩ ⟪एष⟩) stands before all sounds except short **-a**
-- **so, eṣo** (⟪सो⟩ ⟪एषो⟩) stands before **-a**, which is elided with Avagraha (omitted)
-- **saḥ, eṣaḥ** (⟪सः⟩ ⟪एषः⟩) stands only in pause (end of sentence, end of verse)
+**ܥܠ ܢܘܣܟ ܡܕܝܐ:**
+- **ܣܐ, ܐܝܣܐ** (⟪स⟩ ⟪एष⟩) ܩܕܡ ܟ̈ܠ ܐܘܪܚܐ ܡܢ ܟ̈ܠ ܣܘܪܬܐ
+- **ܣܘ, ܐܝܣܘ** (⟪सो⟩ ⟪एषो⟩) ܩܕܡ -ܐ, ܕܝܬܠ ܒܐܘܓܪܗ
+- **ܣܗ, ܐܝܣܗ** (⟪सः⟩ ⟪एषः⟩) ܩܕܡ ܒܫܘܟܠܐ (ܣܘܬ ܦܪܫܐ, ܣܘܬ ܡܠܬ)
 
 Um mit diesen Pronomina (sarvanāman n.) Sätze bilden zu können, ist noch die Kenntnis folgender Sandhiregeln nötig:
 
-### 4.1.2. Sandhi von auslautendem -m
+### 4.1.2. ܣܢܕܗܝ ܕ-ܡ ܕܡܫܬܠܡܢܐ
 
 ::: grammar-box
-**Final -m is replaced by Anusvāra (-ṃ) before consonants. At the end of a sentence or verse, and before vowels, -m remains.**
+**ܟܬܒ ܡܠܐ ܕܐܘܪܚܐ ܒܣܢܕܝ ܕܡܫܬܐ (-ṃ) ܩܪܒ ܠܟܘܢܬ̈ܐ. ܒܫܪܝܼܟܘܬ̈ܐ ܕܫܠܡܐ ܐܘ ܫܪ̈ܝܬ̈ܐ, ܘܩܪܒ ܠܡܕܥ̈ܐ, -m ܗܘܐ.**
 :::
-### 4.1.3. Sandhi of final -e
+### 4.1.3. ܣܢܕܝ ܕܫܘܠܡܐ -ܐ
 
 ::: grammar-box
-1. **before a- the -e remains unchanged: the initial a- elides with Avagraha:**
-   e.g. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "These fires"
+1. **ܩܪܒ a-: -e ܗܘܐ ܠܐ ܬܫܬܢܝ: a- ܪܒ̈ܐ ܠܡܕܥ̈ܐ ܒAvagraha:**
+e.g. ete + agnayas » ete 'gnayaḥ = ⟪एते⟫ ⟪ऽग्नयः⟫ "ܗܢ̈ܘܢ ܐܬܝܢ"
 
 2. **Before other vowels than short a-, -e is usually replaced by -a with hiatus. Replacement by -ay also occurs:**
    e.g. ime + īśvarās » ima īśvarāḥ = ⟪इम⟫ ⟪ईश्वराः⟫ (rare: imay īśvarāh = ⟪इमयीश्वराः⟫) "these LORDS"
 :::
-### 4.1.4. Sandhi of final -d
+### 4.1.4. ܣܢܕܝ ܕܕ-ܫܘܠܡܝܬܐ
 
 ::: grammar-box
-**Final -d is replaced by -t in pause and before voiceless gutturals (k, kh) and labials (p, ph).**
+**סוף -d הוא מוחלף ב- t בשבית ולפני גרוניים חסרי קול (k, kh) ושפתיים (p, ph).**
 
 The replacement before other consonants will be discussed later. Avoid such sound collisions for now!
 :::
-### 4.1.5. Question formulas
+### 4.1.5. ܦܘܪ̈ܡܐ ܕܫܘܐܠ̈ܐ
 
 Mittels dieser Pronomina bildet man z.B. folgende Frageformeln:
 
 ::: no-header
 | | | | |
 | :--- | :--- | :--- | :--- |
-| **Singular** | **Neuter** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "What is that?" |
-| ^^ | **Masculine** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Who is that?":br"What is the one?" |
-| ^^ | **Feminine** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Who is that?":br"Who is the one?" |
-| **Plural** | **Neuter** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
-| ^^ | **Masculine** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
-| ^^ | **Feminine** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
+| **ܚܕܐ** | **ܢܟܪܐ** | ܬܐ ܟܡ? /ܟܡ ܬ?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟩:breܬܐ ܟܡ? /ܟܡ ܐܬ?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:brܐܕܢ ܟܡ? / ܟܡ ܐܕ:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "ܡܐ ܗܕ?" |
+| ^^ | **ܙܟܪ** | ܣ ܟܗ? / ܟܗ ܣ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breܣ ܟܗ? / ܟ ܐܣ?:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brܐ ܟܗ? / ܟ ܐ?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "ܡܢ ܗܕ?":br"ܡܐ ܗܘ?" |
+| ^^ | **ܢܫ** | ܣ ܟ? / ܟ ܣ?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breܣ ܟ? / ܟ ܐ?:br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:brܐ ܟ? / ܟ ܐ?:br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "ܡܢ ܗܕ?":br"ܡܢ ܗܝ?" |
+| **ܪܒ** | **ܢܟܪ** | ܬܐܢ ܟܐܢ? / ܟܐܢ ܬܐ?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:breܬܐܢ ܟܐ? / ܟܐ ܐܬ?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brܐ ܟܐ? / ܟܐ ܐ?:br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
+| ^^ | **ܙܟܪ** | ܬ ܟ? / ܟ ܬ?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:breܬ ܟ? / ܟ ܐ?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brܐ ܟ? / ܟ ܐ?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
+| ^^ | **ܢܫ** | ܬܗ ܟܗ? / ܟܐ ܬ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:breܬܗ ܟ? / ܟ ܐ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brܐ ܟ? / ܟ ܐ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
 :::
-An example of other questions:
+ܡܕܡܐ ܠܟܘܢ ܕܫܘܠ̈ܚܐ:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Answer: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (In a nominal sentence, the subject can be placed at the beginning, for example, to emphasize the connection to the question.)
+> ܬܫܢ ܟ? = ⟪विष्णुः⟩ ⟪कः⟩ ܐܘܟܠ: ܬܫܢ ܐܝܣܪ = ⟪विष्णुरीश्वरः⟩. (ܒܡܠܬ ܢܟܪ, ܗܘ ܕܡܝܐ ܢܟܪ ܠܩܕܡ, ܠܡܕܢܐ ܗܘ ܫܘܠ̈ܚ.)
 
-NOTE: The answers you can give to such questions with your current Sanskrit knowledge do not, of course, yet correspond in every respect to idiomatic good Sanskrit.
+ܡܕܥ: ܐܘܟܠܝ̈ܢ ܕܬܗܒ ܠܟܘܢ ܠܡܕܬ ܗܕ ܒܫܘܠ̈ܚ ܐܝܟܢ ܕܬܗܒ, ܠܐ ܫܘܟܠ ܢܩܛ ܒܡܠܬ ܣܟܪ.
 
-## 4.2. Übung
+## 4.2. ܬܪܓܠܐ
 
 **A) Bilden Sie mündlich mit folgenden Wörtern Fragen nach dem Schema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) und beantworten Sie die Fragen auf Sanskrit:**
 

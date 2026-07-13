@@ -5,7 +5,7 @@ lesson_id: 53
 
 # Lektion 53
 
-## 53.1. Der Dual (⟪द्विवचन⟫ n.) der Nomina
+## 53.1. Dualis (⟪द्विवचन⟫ n.) nominum
 
 ::: grammar-box
 **Dualis (⟪द्विवचनम्⟫) ad duo designanda usurpatur:**
@@ -362,7 +362,7 @@ Quae adiectiva pronominalia ut ⟪सर्व⟫ declinantur. In Abl.Lok.sg.m.n
 *   ⟪पूर्व⟫ 3 "praecedens, orientalis"
 *   ⟪स्व⟫ 3 "proprius (meus, tuus, suus ...)"
 
-## 53.8. Unregelmäßige Steigerung
+## 53.8. Comparatio irregularis
 
 ::: grammar-box
 **Numerus adiectivorum comparativum vel superlativum hisce ⟪कृत्⟫-suffixis format:**

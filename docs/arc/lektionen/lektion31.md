@@ -4,21 +4,21 @@ lesson_id: 31
 status: stable
 ---
 
-# Lektion 31
+# ܕܪܫܐ 31
 
-## 31.1. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ usw.")
+## 31.1. ܦܘܠܚܢܐ ܕܙܒܢܐ ܗܫܝܐ ܕܫܒܝܥܝܐ (⟪ܪܘܕܗܐܕܝ⟫ = "⟪ܪܘܕܗ⟫ ܐܠܨ.)
 
 ::: grammar-box
-**Bildung:**
+**Formation:**
 
-**Vor die Endkonsonanten der Wurzel in der Schwundstufe wird ein sogenannter Nasalinfix (-na- oder -n-) eingefügt:**
+**Before the final consonants of the root in the zero grade, a so-called nasal infix (-na- or -n-) is inserted:**
 
-* **im starken Stamm: -na-**
-* **im schwachen Stamm: -n-**
+* **in the strong stem: -na-**
+* **in the weak stem: -n-**
 
-**Für die Verbindung der Wurzelendkonsonanten mit konsonantisch anlautenden Endungen gelten dieselben Regeln wie bei der 2. Präsensklasse.**
+**For the combination of the root-final consonants with endings beginning with a consonant, the same rules apply as for the 2nd present class.**
 :::
-Beispiele:
+Examples:
 
 ⟪युज्⟫ 7U "to bind, to yoke"
 
@@ -49,7 +49,7 @@ Beispiele:
 ::: grammar-box
 **Bei einigen Wurzeln ist das -n- des schwachen Präsensstammes auch in Nicht-Präsenstempora eingedrungen, so dass diese Wurzeln mit infigiertem Nasal angesetzt werden.**
 :::
-Beispiel:
+Example:
 
 **⟪भञ्ज्⟫** 7P "break"
 
@@ -58,18 +58,18 @@ Beispiel:
     *   3.sg.P. **⟪भनक्ति⟫** (bha-na + j + ti)
     *   3.pl.P. **⟪भञ्जन्ति⟫** (bha + n + j-anti)
 *   Future: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
-* **Passiv:** ⟪भज्यते⟫ (entweder von ursprünglicher Wurzel **⟪भज्⟫** oder von *bhñj-ya-te)
+* **Passive:** ⟪भज्यते⟫ (either from the original root **⟪भज्⟫** or from *bhñj-ya-te)
 *   PPP: **⟪भग्न⟫** (possibly from *bhñj + na)
 :::
-## 31.2. Word List
+## 31.2. ܡܠܘܐܐ ܕܡ̈ܠܝܢ
 
-**⟪युज्⟫** 7U **⟪युनक्ति⟫** : to hitch, to yoke, to fasten, to attach; Ā also: to strain oneself (= to exert oneself), to connect with, to concentrate on (Locative, ⟪सप्तमी⟫)
+**⟪युज्⟫** 7U **⟪युनक्ति⟫** : لְאַזְקָא, לְחַבֵּר, לְעַנְיָן; אַף: לְאַגְחָא נַפְשֵׁיהּ (= לְהִתְגַּבָּר), לְשַׁעְבֵּד לְ, לְהִתְמַקֵּד בְּ (לָכֶה, ⟪सप्तमी⟫)
 ::: indent
-**Fut. ⟪योक्ष्यति⟫**
-**Pass. ⟪युज्यते⟫**
-**Caus. ⟪योजयति⟫**
-**PPP ⟪युक्त⟫**
-**Inf. ⟪योक्तुम्⟫**
+**עֲתִיד: ⟪योक्ष्यति⟫**
+**פָּעֵל פְּסִיל: ⟪युज्यते⟫**
+**פָּעֵל מְסַב: ⟪योजयति⟫**
+**פּ"פ ⟪युक्त⟫**
+**מִצְוָה: ⟪योक्तुम्⟫**
 
 davon:
 **⟪युग⟫ n. → ⟪युग⟫ n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
@@ -78,17 +78,17 @@ davon:
 3. ⟪द्वापर⟫
 4. ⟪कलि⟫
 
-The **⟪कलियुग⟫** began around 3102 BCE, the year of the **⟪महाभारत⟫** war. For further details, see Basham, Wonder, p. 323)
+ܐܬܚܠܦ **⟪कलियुग⟫** ܒܩܪܝܙ 3102 QK, ܫܢܬ ܡܠܚܡܐ **⟪महाभारत⟫**. ܠܦܘܣܩܐ ܒܕܝܩܐ, ܚܙܐ Basham, Wonder, p. 323)
 
-**⟪योग⟫ m.:** "fastening, tension", exertion, connection, Yoga (see Basham, Wonder pp. 327ff.)
+**⟪योग⟫ m.:** "ܩܝܡܬܐ, ܛܥܢܘܬܐ", ܦܥܠܐ, ܟܝܢܬܐ, Yoga (ܚܙܐ Basham, Wonder pp. 327ff.)
 :::
 ::: media
 ![](/images/lekt3101.webp)
-Fig.: ⟪योगः⟫
-Yoga depiction.
-(Image source: [Details](/arc/licenses#lekt3101))
+ܦܘܩܕܢ: ⟪योगः⟫
+ܦܘܩܕܢ Yoga.
+(מקור תמונה: [פרטים](/arc/licenses#lekt3101))
 :::
-**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : to stop, to bring to a standstill, to restrain = to enclose, to cover
+**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : ܠܡܩܝܡ, ܠܡܫܬܪא = ܠܣܓܝ, ܠܟܫܬ
 ::: indent
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
@@ -96,7 +96,7 @@ Yoga depiction.
 **PPP ⟪रुद्ध⟫**
 **Inf. ⟪रोद्धुम्⟫**
 :::
-**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : to cut off
+**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : ܠܩܛܥ
 ::: indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
@@ -104,13 +104,13 @@ Yoga depiction.
 **PPP ⟪छिन्न⟫**
 **Inf. ⟪छेत्तुम्⟫**
 :::
-**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : to break (something)
+**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : ܠܣܒܪ (ܡܕܐ)
 ::: indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
 :::
-**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : to anoint, to smear
+**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : ܠܡܟܘܪ, ܠܢܚܬ
 ::: indent
 **Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
@@ -118,20 +118,20 @@ Yoga depiction.
 **PPP ⟪अक्त⟫**
 **Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
 :::
-**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : to smear apart = to apply makeup, to distinguish oneself
+**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : ܠܢܚܬ ܒܝܬ = ܠܡܥܒܕ ܣܘܪܬ, ܠܡܫܬܒܚ
 ::: indent
-**PPP ⟪व्यक्त⟫** : distinguished, unfolded
+**PPP ⟪व्यक्त⟫** : ܡܫܬܒܚ, ܢܩܝ
 
-of:
-**⟪व्यञ्जन⟫ n.:** means of distinction = cosmetic, spice, mark, consonant (that by which meanings are distinguished)
+מ:
+**⟪व्यञ्जन⟫ n.:** ܐܘܩܣܦܐ = ܟܬܢܐ, ܒܫܡ, ܣܝܡܐ (ܕܐܝܟ ܕܡܢܗ ܫܪܬ)
 :::
 ::: media
 ![](/images/lekt3102.webp)
-Fig.: ⟪व्यञ्जनम्⟫
-Preparation for Kathakali dance, Kochi.
-(Image source: [Details](/arc/licenses#lekt3102))
+ܦܘܩܕܢ: ⟪व्यञ्जनम्⟫
+ܐܬܩܪܒ ܠܡܟܘܪ Kathakali, Kochi.
+(מקור תמונה: [פרטים](/arc/licenses#lekt3102))
 :::
-**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : to split
+**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : ܠܡܦܪܶܝ
 ::: indent
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
@@ -139,7 +139,7 @@ Preparation for Kathakali dance, Kochi.
 **PPP ⟪भिन्न⟫**
 **Inf. ⟪भेत्तुम्⟫**
 :::
-**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : to enjoy (e.g. food; "to enjoy the earth" = to rule the earth)
+**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : ܠܡܕܟ (ܐܝܟ ܓܘܚܢܐ; "ܠܡܕܟ ܐܪܥܬܐ" = ܠܡܫܬܠܛ ܒܐܪܥܬܐ)
 ::: indent
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
@@ -147,10 +147,10 @@ Preparation for Kathakali dance, Kochi.
 **PPP bhukt → PPP ⟪भुक्त⟫**
 **Inf. ⟪भोक्तुम्⟫**
 
-of:
-**⟪भोग⟫ m.:** enjoyment, eating, pleasure, benefit, tax, duty
+מ:
+**⟪भोग⟫ m.:** ܡܕܟܬܐ, ܚܠܝܢܘܬܐ, ܪܥܢܘܬܐ, ܦܘܠܚܢܐ
 :::
-**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): to bind, to tie
+**⟪बन्ध्⟫** 9P **⟪बध्नाति⟫** (!): ܠܩܢܐ, ܠܡܕܟ
 ::: indent
 **Fut. ⟪भन्त्स्यति⟫**
 **Pass. ⟪बध्यते⟫**
@@ -176,9 +176,9 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪शरीर⟫ n.:** body, physical form
 
-## 31.3. Übung
+## 31.3. ܬܪܓܠܐ
 
-A) Translate the following sentences and resolve the compounds:
+[A] ܡܠܦܘ ܐܪܝܟ ܗܕܡ ܦܠܘܩܚܐ ܘܫܪܝ ܟܢܝ̈ܬܐ:
 
 ⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫
 

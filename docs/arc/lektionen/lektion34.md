@@ -4,42 +4,42 @@ lesson_id: 34
 status: stable
 ---
 
-# Lektion 34
+# ܕܪܫܐ 34
 
-## 34.1. Das Perfekt (⟪लिट्⟫)
+## 34.1. ܡܫܠܡܢܐ (⟪ܠܝܛ⟫)
 
-Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ- und Partizipialformen.
+In Classical Sanskrit, the perfect stem yields only indicative and participial forms.
 
 ::: grammar-box
-**There are two types of perfect formation:**
-*   **the reduplicated perfect = ⟪द्वित्वलिट्⟫**
-*   **the periphrastic perfect = ⟪अनुप्रयोगलिट्⟫**
+**ܗܢܘܢ ܐܪܒܥ ܣܓܕ̈ܝܼܢ ܠܡܫܠܡܢܐ:**
+*   **ܡܫܠܡܢܐ ܕܘܝܬܘܼܠܝܛ = ⟪द्वित्वलिट्⟫**
+*   **ܡܫܠܡܢܐ ܦܪ̈ܝܣܼܟܠ = ⟪अनुप्रयोगलिट्⟫**
 :::
 ::: grammar-box
-**The periphrastic perfect (⟪अनुप्रयोगलिट्⟫) is used:**
-1. **in the derived conjugations (causative, desiderative, frequentative, denominative)**
-2. **bei Wurzeln, die mit einem langen Vokal (außer ā-) beginnen oder mit einem Vokal (außer a-) vor zwei Konsonanten**
-3. **bei einigen anderen Wurzeln**
+**ܡܫܠܡܢܐ ܦܪ̈ܝܣܼܟܠ (⟪अनुप्रयोगलिट्⟫) ܐܬܝܕܰܥ:**
+1. **ܒܣܓܕ̈ܝܼܢ ܡܫܬܥܒܕ̈ܝܼܢ (ܣܘܛܪܐ, ܕܝܙܝܼܪܬܝܘܼܐ, ܦܪ̈ܩܘܢܛܬܝܼܐ, ܕܘܡܢ̈ܘܬܝܼܐ)**
+2. **ܠܫܘܪ̈ܫܝܼܢ ܕܐܬܝܼܠܦ̈ܘ ܒܟܪܐ ܪܒܐ (ܡܢ ܠܩܘܼܐ ā-) ܐܘ ܒܟܪܐ (ܡܢ ܠܩܘܼܐ a-) ܩܪܒ̈ܝ ܠܬܪܬܝܼܢ ܣܘܡܩ̈ܐ**
+3. **ܠܚܕ̈ ܡܢ ܫܘܪ̈ܫܝܼܢ ܐܚܪ̈ܝܢ**
 :::
-## 34.2. The reduplicated perfect (⟪द्वित्वलिट्⟫)
+## 34.2. ܡܫܠܡܢܐ ܕܘܝܬܘܼܠܝܛ
 
-### 34.2.1. Stammabstufung
+### 34.2.1. ܕܪܓܐ ܕܫܪܫܐ
 
 ::: grammar-box
-**Bildung:**
+**Formation:**
 
-**starker Stamm:** Singular Parasmaipada
-*   **reduplizierte Wurzel in Hochstufe oder Dehnstufe + Perfektendung**
+**strong stem:** singular Parasmaipada
+*   **reduplicated root in full grade or lengthened grade + perfect ending**
 
-**schwacher Stamm:** alle anderen Formen
+**weak stem:** all other forms
 *   **reduplizierte Wurzel in Guṇastufe + Perfektendung**
 :::
 ::: grammar-box
-**Generell (auch außerhalb des Perfekts) erfahren Wurzeln der Form keine Stammabstufung:**
+**In general (also outside the perfect), roots of the form undergo no stem gradation:**
 *   **(consonant)-consonant-long vowel-consonant**
 *   **(consonant)-consonant-vowel-consonant-consonant**
 
-**Im Perfekt gibt es auch keine Stammabstufung bei Wurzeln der Form:**
+**In the perfect there is likewise no stem gradation for roots of the form:**
 *   **a-consonant**
 *   **ā-consonant**
 :::
@@ -53,23 +53,23 @@ Im klassischen Sanskrit gibt es vom Perfektstamm nur Indikativ- und Partizipialf
 | **Ātmanepada** | **-e** | **-re** |
 
 :::
-### 34.2.3. Bindevokal -i-
+### 34.2.3. ܩܠܐ ܡܚܒܠܢܐ -ܝ-
 
 ::: grammar-box
-**Vor der Endung der 3.Pl.Ā (-re) erscheint immer der Bindevokal -i-, vor den übrigen konsonantisch anlautenden Endungen bei der Mehrzahl der Wurzeln.**
+**Before the ending of the 3rd person plural Ātmanepada (-re), the connecting vowel -i- always appears, as it does before the remaining consonant-initial endings in the majority of roots.**
 :::
-### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
+### 34.2.4. ܬܰܪ̈ܬܶܝܢ ܕܥܶܩܳܪ̈ܶܐ ܕܡܶܫܬܰܪܶܝܢ ܒܚܰܪ̈ܦܶܐ ܫܰܬܺܝܩ̈ܶܐ
 
 ::: grammar-box
-**For the reduplication of initial consonants, the rules given in [Lesson 33](lektion33.md) apply.**
+**ܠܦܘܩ ܕܪܝܘܬ ܟܢܫ̈ܐ ܕܪܹܡܿܟ ܒܪܝ̈ܫܬܐ، ܕܚܘܩ̈ܝ̈ܐ ܕܬܝܬܪ̈ܬ ܒ[ܠܦܘܢ 33](lektion33.md) ܐܝܠܬ.**
 
 **Der Reduplikationsvokal vor konsonantisch anlautenden Wurzeln ist der kurze Wurzelvokal.**
 
-**Diphthongs before consonants are reduced to the corresponding short low-grade vowel.**
+**الدفتونگس قبل الحروف الساكنة تُختزل إلى حروف العلة القصيرة منخفضة الدرجة المقابلة.**
 
 **ṛ, ṝ, ḷ, and final diphthongs are reduplicated with -a-.**
 :::
-Beispiele:
+أمثلة:
 
 ::: grammar-box
 
@@ -83,7 +83,7 @@ Beispiele:
 ::: grammar-box
 **Einige mit y- oder v- anlautende Wurzeln reduplizieren mit i- bzw. u-, das in den schwachen Formen mit dem Wurzelvokal „verschmilzt".**
 :::
-Beispiele:
+Examples:
 
 ::: grammar-box
 
@@ -93,12 +93,12 @@ Beispiele:
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 :::
-### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
+### 34.2.5. ܬܰܪ̈ܬܶܝܢ ܕܥܶܩܳܪ̈ܶܐ ܕܡܶܫܬܰܪܶܝܢ ܒܩܳܠ̈ܶܐ
 
 ::: grammar-box
 **1. Initial a-, ā- is reduplicated with a-, resulting in ā-.**
 :::
-Beispiele:
+Examples:
 
 ::: grammar-box
 
@@ -108,9 +108,9 @@ Beispiele:
 
 :::
 ::: grammar-box
-**2. Wurzeln mit anlautendem i- haben im starken Stamm iy- als Reduplikationssilbe, im schwachen Stamm i-, das mit dem Wurzelvokal zu ī- verschmilzt. Entsprechendes gilt für anlautendes u-.**
+**2. Roots with initial i- have iy- as the reduplication syllable in the strong stem, and i- in the weak stem, which merges with the root vowel to form ī-. The same applies to initial u-.**
 :::
-Beispiele:
+Examples:
 
 ::: grammar-box
 
@@ -123,7 +123,7 @@ Beispiele:
 ::: grammar-box
 **3. Wurzeln, die mit a- vor zwei Konsonanten oder mit ṛ- anlauten, haben ān- als Reduplikationssilbe**
 :::
-Beispiele:
+Examples:
 
 ::: grammar-box
 
@@ -133,23 +133,23 @@ Beispiele:
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
 :::
-## 34.3. Types of the reduplicated perfect
+## 34.3. ܛܽܘܦܣܶܐ ܕܓܡܺܝܪܳܐ ܡܫܰܢܰܝܳܐ
 
-Einteilungsprinzip: Besonderheiten der Stammabstufung:
-*   Perfekt ohne Stammabstufung: Typ I
-*   Perfekt mit Stammabstufung: Typ II - V
+Classification principle: peculiarities of stem gradation:
+*   Perfect without stem gradation: Type I
+*   Perfect with stem gradation: Type II - V
 *   unregelmäßige Perfektbildungen
 
-## 34.4. Perfekt Typ I: Perfekt ohne Stammabstufung
+## 34.4. ܡܫܠܡܢܐ ܛܘܦܣܐ ܐ: ܡܫܠܡܢܐ ܕܠܐ ܫܘܚܠܦܐ ܕܥܩܪܐ
 
 ::: grammar-box
-**Perfekt Typ I (ohne Stammwechsel) haben Wurzeln der Typen:**
+**Perfect Type I (without stem change) comprises roots of the types:**
 *   **(Consonant)-Consonant-LongVowel-Consonant**
 *   **(Consonant)-Consonant-Vowel-Consonant-Consonant**
 *   **a-Consonant**
 *   **ā-Consonant**
 :::
-Beispiele:
+Examples:
 
 ::: grammar-box
 
@@ -162,17 +162,17 @@ Beispiele:
 | ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
-## 34.5. Perfekt Typ II: Starker Stamm in Vollstufe, schwacher Stamm in Schwundstufe
+## 34.5. ܡܰܫܠܡܳܢܳܐ ܕܕܰܪܓܳܐ II: ܥܩܳܪܳܐ ܚܰܝܠܳܢܳܐ ܒܕܰܪܓܳܐ ܡܠܶܐ, ܥܩܳܪܳܐ ܟܪܺܝܗܳܐ ܒܕܰܪܓܳܐ ܕܚܰܣܳܪܳܐ
 
 ::: grammar-box
 **Gebildet von Wurzeln der Form:**
 *   **(Consonant)-(Consonant)-i/u/ṛ/ḷ-Consonant**
 
 **Formation:**
-*   **starker Stamm: Vollstufe**
-*   **schwacher Stamm: Schwundstufe**
+*   **strong stem: full grade**
+*   **weak stem: zero grade**
 :::
-Beispiele:
+Examples:
 
 ::: grammar-box
 
@@ -185,7 +185,7 @@ Beispiele:
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
 :::
-## 34.6. Wortliste
+## 34.6. ܡܠܘܐܐ
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
@@ -260,9 +260,9 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪कन्या⟫ f.:** girl, maiden
 
-## 34.7. Übung
+## 34.7. ܬܪܓܠܐ
 
-Form the perfect forms corresponding in person, number, and gender to the following verb forms:
+ܡܪܟܒ ܠܦܘܿܩܕܢ̈ܐ ܕܡܠܬ ܦܪܝܩܐ ܒܨܘܿܪ̈ܟܐ، ܡܢܝܢܐ، ܘܠܒܫܬܐ ܕܗܢܘܿܢ:
 
 1. ⟪रक्षिष्यन्ति⟫
 2. ⟪स्रक्ष्यति⟫
@@ -296,9 +296,9 @@ Form the perfect forms corresponding in person, number, and gender to the follow
 30. ⟪कुप्यन्ति⟫
 31. ⟪इच्छन्ति⟫
 
-## 34.8. Übersetzungsübung
+## 34.8. ܬܪܓܠܐ ܕܬܘܪܓܡܐ
 
-Translate the following text from the ⟪पद्मपुराण⟩ regarding gifts to Brāhmaṇas:
+ܡܠܦ ܕܟܢ̈ܫܐ ܕܡܠܬ ⟪पद्मपुराण⟩ ܥܒ̈ܕܐ ܠܟܗܢ̈ܝ:
 
 ⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫*⟪त्तम⟫* ⟪।⟫  
 ⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫*⟪श्चतुर्दश⟫* ⟪॥१॥⟫  

@@ -1,4 +1,4 @@
-# Devanāgarī = ⟪देवनागरी⟫
+# 天城体 = ⟪देवनागरी⟫
 
 ## 书写练习 1
 
@@ -18,7 +18,7 @@ Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
 辅音后跟随的其他元音——除了“a”——书写方式如下：
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
+⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
 
 ⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 

@@ -12,6 +12,7 @@ export const el = {
       { text: 'Πίνακας περιεχομένων', link: '/el/lektionen/inhaltsverzeichnis' },
       { text: 'Γραμματική', link: '/el/grammatik' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
+      { text: '<span class="nav-gear-icon"></span>', link: '/el/settings', ariaLabel: 'Settings' },
       { text: 'Πιστώσεις', link: '/el/impressum' }
     ],
     docFooter: {

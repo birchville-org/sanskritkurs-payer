@@ -11,7 +11,7 @@
  * - Any link that doesn't target a specific locale (generic assets)
  */
 
-import { getActiveLocales } from './lang-settings.js'
+import { getActiveLocales, ALL_LOCALES } from './lang-settings.js'
 
 let lastActiveLocales = null
 
@@ -31,8 +31,11 @@ export function filterSidebarByLocales() {
   
   // Detect current locale from URL
   const pathname = window.location.pathname
-  const currentLocaleMatch = pathname.match(/^\/([a-z]{2})(\/|$)/)
-  const currentLocale = currentLocaleMatch ? currentLocaleMatch[1] : 'de'
+  const currentLocaleMatch = pathname.match(/^\/([^/]+)(?:\/|$)/)
+  let currentLocale = 'de'
+  if (currentLocaleMatch && ALL_LOCALES.includes(currentLocaleMatch[1])) {
+      currentLocale = currentLocaleMatch[1]
+  }
   
   // --- 1. Filter all <a> links with locale-prefixed hrefs ---
   document.querySelectorAll('a[href]').forEach(a => {
@@ -46,8 +49,10 @@ export function filterSidebarByLocales() {
     if (href === '/' || href.startsWith('/#')) {
       locale = 'de'
     } else if (href.startsWith('/')) {
-      const m = href.match(/^\/([a-z]{2})(?=\/|$|#)/)
-      if (m) locale = m[1]
+      const m = href.match(/^\/([^/]+)(?=\/|$|#)/)
+      if (m && ALL_LOCALES.includes(m[1])) {
+          locale = m[1]
+      }
     }
     
     if (!locale) {
@@ -85,11 +90,15 @@ export function filterSidebarByLocales() {
     
     if (!elLocale) return
     
-    const localeCode = elLocale.split('-')[0]  // 'en-US' → 'en'
+    const localeCode = elLocale.split('-')[0]  // 'en-US' → 'en', but wait! 'zh-CN' split by '-' is 'zh'!
+    // Actually VitePress uses the exact locale name, e.g. 'zh-CN'. Let's just use the exact match first.
+    // We should check ALL_LOCALES
+    let exactLocale = ALL_LOCALES.includes(elLocale) ? elLocale : (ALL_LOCALES.includes(localeCode) ? localeCode : null)
+    if (!exactLocale) exactLocale = elLocale // fallback to what we had
     
-    if (localeCode === currentLocale) {
+    if (exactLocale === currentLocale) {
       el.classList.remove('locale-hidden')
-    } else if (!activeLocales.includes(localeCode)) {
+    } else if (!activeLocales.includes(exactLocale)) {
       el.classList.add('locale-hidden')
     } else {
       el.classList.remove('locale-hidden')
@@ -101,8 +110,11 @@ export function filterSidebarByLocales() {
     const val = opt.getAttribute('value')
     if (!val || !val.startsWith('/')) return
     
-    const m = val.match(/^\/([a-z]{2})(?:\/|$)/)
-    const optLocale = m ? m[1] : 'de'
+    const m = val.match(/^\/([^/]+)(?:\/|$)/)
+    let optLocale = 'de'
+    if (m && ALL_LOCALES.includes(m[1])) {
+        optLocale = m[1]
+    }
     
     if (optLocale === currentLocale || activeLocales.includes(optLocale)) {
       opt.classList.remove('locale-hidden')

@@ -88,7 +88,7 @@ Contra il Sandhi da frasa vala en il final dal preambel da cumponiments:
 Perquai: ⟪दुष्करण⟫
 
 :::
-### 18.2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
+### 18.2.1. Composita dal tip ⟪सुकर⟫ / ⟪दुष्कर⟫
 
 ::: grammar-box
 
@@ -302,7 +302,7 @@ Fig.: ⟪उपनयनम्⟫
 
 ⟪प्रभृति⟫ f.: cumenzament
 
-## 18.5. Übung
+## 18.5. Exercizi
 
 A) Tradusci il ⟪सुभाषित⟫ al cumenzament da la lecziun.
 

@@ -4,8 +4,8 @@ uebung_id: 61
 category: "Exercise"
 ---
 
-# Lesson 61
+# ܐܘܠܦܢܐ 61
 
-Lesson 61 forms the conclusion of the Sanskrit course and contains no further written exercises.
+ܠܦܢܘܬܐ 61 ܗܝ ܟܠܠܘܬ ܩܘܪܣܐ ܕܣ�ܢܣܟܪܝܬ ܘܠܐ ܚܛܢ ܡܟܬܒ̈ܝܬ ܐܪܘܟܬ.
 
-With the study of root nouns, the periphrastic future, and denominal verbs, the foundations for reading Sanskrit original texts are laid. The course concludes with the traditional invocation to Gaṇeśa (⟪श्रीगणनाथ⟫), which marks the transition from textbook to independent reading.
+ܒܝܬ ܐܠܦ̈ܬܐ ܕܫܪܝܪ̈ܐ ܘܟܢܝܬ ܙܒܢ̈ܐ ܘܦܥܠ̈ܝܢ ܡܢ ܫܪܣܬܐ, ܝܘܠܕ̈ܢ ܫܪܩܬ ܟܝܢܐ ܣܢܣܟܪܝܬ. ܠܦܢܘܬܐ ܟܡܠܬ ܒܝܕ ܙܥܘܩܐ ܠܓ̈ܢܝܫ (⟪श्रीगणनाथ⟫), ܕܡܚܠܦ ܐܘܪ̈ܗܝܬ ܡܢ ܟܬܒܐ ܠܩܪܝܘܬ ܡܕܥܢܐ.

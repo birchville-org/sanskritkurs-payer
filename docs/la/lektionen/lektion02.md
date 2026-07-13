@@ -24,7 +24,7 @@ Cum in Sanscrito structura verborum satis libera sit (praesertim in versibus), i
 
 In propositione nominali subiectum in casu nominativo (primus casus = **prathamā** f. = ⟪प्रथमा⟫) ponitur. Nomen predicatum cum subiecto numero et casu concordat; si nomen predicum adiectivum est, etiam genere.
 
-## 2.2. Zur Deklination (Beugung von Nomina)
+## 2.2. De declinatione (flexione nominum)
 
 In Sanscrito sunt:
 
@@ -47,7 +47,7 @@ In lexicon Sanscritico nomina in **stamine nominali** proponuntur:
 - **vacana** n. -- ⟪वचन⟫ n. (neutrum)
 - **vyakti** f. -- ⟪व्यक्ति⟫ f. (femininum)
 
-## 2.3. Der Nominativ Singular
+## 2.3. Nominativus singularis
 
 **Nominativus Singularis = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
@@ -101,7 +101,7 @@ Auslautendes **-s**:
     - ante alios vocales: fit **-a** (hiatus)
       - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
 
-## 2.5. Wortliste
+## 2.5. Vocabularium
 
 **deva** m. -- ⟪देव⟫ : caelestis, deus; princeps, rex.
 
@@ -206,7 +206,7 @@ Fig.: Sādhu (⟪साधु⟫), Pashupatinath Templum, Kathmandu.
 
 **guru** m. -- ⟪गुरु⟫ : persona venerabilis: pater, mater, cognatus senior, praecipue magister, praeceptor
 
-## 2.6. Übung
+## 2.6. Exercitium
 
 **A) Appone, habita ratione Sandhi, et formula sententias nominalis:**
 

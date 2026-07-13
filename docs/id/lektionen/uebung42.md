@@ -11,31 +11,31 @@ last_reconstructed: 2026-05-15
 Translate:
 
 ⟪१⟫. **⟪प्रकृत्यैव⟫ ⟪यः⟫ ⟪कर्माणि⟫ ⟪क्रियमाणानि⟫ ⟪पश्यति⟫ ⟪स⟫ ⟪आत्मानमकर्तरं⟫ ⟪पश्यति⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-He who sees that actions are performed (alone) by material nature (**⟪प्रकृति⟫**), sees that the Self (**⟪आत्मा⟫**) is inactive.
+Dia yang melihat bahwa tindakan dilakukan (sendiri) oleh alam materi (**⟪प्रकृति⟫**), melihat bahwa Diri (**⟪आत्मा⟫**) tidak aktif.
 
 ⟪२⟫. **⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 Kṛṣṇa is Father, Mother, Grandfather, and Creator of this world.
 
 ⟪३⟫. **⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-"Teachers, fathers, sons, grandfathers, fathers-in-law, and grandsons have arrayed themselves for battle. These I will not kill!" — thus spoke Arjuna in the Bhagavadgītā.
+"Para guru, ayah-ayah, putra-putra, kakek-kakek, mertua-mertua, dan cucu-cucu telah bersiap untuk pertempuran. Aku tidak akan membunuh mereka!" — demikianlah Arjuna berbicara dalam Bhagavadgītā.
 
 ⟪४⟫. **⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 Poets praised fathers and mothers for attaining fatherhood (respectively, parenthood).
 
 ⟪५⟫. **⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-The wife is to be maintained by the husband. Therefore she is called "bhāryā" (the one to be maintained).
+Istri harus dipelihara oleh suami. Oleh karena itu, ia disebut "bhāryā" (yang dipelihara).
 
 ⟪६⟫. **⟪सत्पुत्रः⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्ददाति⟫ ⟪।⟫ ⟪पितृभिः⟫ ⟪पिण्डदानमश्यत⟫ ⟪एवं⟫ ⟪च⟫ ⟪सुखजीवो⟫ ⟪जीवितुं⟫ ⟪शक्यते⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-A good son offers food oblations (**⟪पिण्ड⟫**) to his forefathers. Through the forefathers, the gift of food is consumed, and thus one can lead a happy life.
+Seorang putra yang baik mempersembahkan sesajen makanan (**⟪पिण्ड⟫**) kepada para leluhurnya. Melalui para leluhur, pemberian makanan tersebut dikonsumsi, dan dengan demikian seseorang dapat menjalani kehidupan yang bahagia.
 
 ⟪७⟫. **⟪भ्रात्रा⟫ ⟪स्वसा⟫ ⟪न⟫ ⟪विवोड्धव्या⟫ ⟪।⟫ ⟪भातरि⟫ ⟪स्वसारं⟫ ⟪कामयमाने⟫ ⟪देवाः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 A brother must not marry his sister. If a brother desires his sister, the gods become angry.
 
 ⟪८⟫. **⟪क्थं⟫ ⟪भर्तुर्भ्रातोच्यते⟫ ⟪।⟫ ⟪देवेति⟫ ⟪भर्तुर्भ्राता⟫ ⟪वक्तव्यः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-What is the brother of the husband called? The husband's brother is to be designated as "devara" (brother-in-law).
+Apa nama saudara dari suami? Saudara laki-laki dari suami harus disebut sebagai "devara" (saudara ipar).
 
 ⟪९⟫. **⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-The father desired the attainment of grandsons.
+Sang ayah menginginkan kelahiran cucu laki-laki.
 
 ::: media
 ![](/images/uebung068.webp)
@@ -58,16 +58,16 @@ Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पि
 
 ⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ ⟪सीतरामयोर्विवाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
 
-**Translation:**
+**Terjemahan:**
 Once upon a time, there was a king named Janaka in Mithilā. He had a daughter named Sītā. She was unmatched in beauty and virtue. Many princes who wished to marry her sent envoys to Janaka.
 
-However, Janaka wished to give her to a powerful Kṣatriya prince. Therefore, he decreed that she must be "won" through heroic strength. The matter was as follows: He possessed an exceedingly heavy bow. Janaka promised: "Whoever lifts this bow and nocks an arrow upon it shall marry my daughter."
+Namun, Janaka bermaksud memberikannya kepada seorang pangeran Kṣatriya yang kuat. Oleh karena itu, ia menetapkan bahwa dia harus "diperoleh" melalui kekuatan heroik. Perkaranya adalah sebagai berikut: Ia memiliki busur yang sangat berat. Janaka berjanji: "Siapapun yang mengangkat busur ini dan memasang anak panah di atasnya akan menikah dengan putriku."
 
 Upon hearing this promise, princes came by the hundreds. Yet not one of them could move the bow even slightly. It is known that even Rāvaṇa, the ruler of Laṅkā, appeared full of arrogance and returned in shame. When Janaka saw that all the princes returned, he became full of worry about who would be the husband of his daughter. Meanwhile, Viśvāmitra led Rāma, the son of King Daśaratha of Ayodhyā, together with Lakṣmaṇa there. At the command of the great Ṛṣi Viśvāmitra, the splendid Rāma lifted the bow with playful ease. As soon as he nocked an arrow, the bow broke into two pieces.
 
-"Good, good!" — thus the people praised the heroic strength of the splendid Rāma.
+"Bagus, bagus!" — demikian rakyat memuji kekuatan heroik Rāma yang indah.
 
-The heart of King Janaka was exceedingly joyful. Then he summoned Daśaratha and the others and celebrated Sītā and Rāma’s wedding with great pomp.
+Hati Raja Janaka sangat gembira. Lalu ia memanggil Daśaratha dan yang lainnya, serta merayakan pernikahan Sītā dan Rāma dengan kemegahan besar.
 
 ::: media
 ![](/images/uebung069.webp)

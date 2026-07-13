@@ -447,11 +447,11 @@ Apprenez les mots suivants :
 - **eva** ⟪एव⟫ : met l'accent sur le mot précédent
 - **asura** m. ⟪असुर⟫ : démon
 
-> **ASURA.** 'Spirituel, divin.'
+> **ASURA.** « Spirituel, divin. »
 >
 > Dans les parties les plus anciennes du Ṛgveda, ce terme est utilisé pour l'esprit suprême, et est le même que l'Ahura des Zoroastriens. Au sens de 'dieu', il a été appliqué à plusieurs des divinités principales, comme Indra, Agni et Varuṇa. Il a ensuite acquis un sens entièrement opposé, et est venu signifier, comme maintenant, un démon ou un ennemi des dieux.
 >
-> Le mot est trouvé avec cette signification dans les parties plus récentes du Ṛgveda, en particulier dans le dernier livre, et aussi dans l'Atharvaveda. Les Brāhmaṇes attachent le même sens à celui-ci, et rapportent de nombreux conflits entre les Asuras et les dieux. Selon le Taittirīya Brāhmaṇa, le souffle *(asu)* de Prajapati est devenu vivant, et "avec ce souffle, il a créé moi, Asuras." Dans une autre partie du même ouvrage, il est dit que Prajāpati "est devenu enceinte. Il a créé des Asuras à partir de son abdomen." Le Śatapatha Brāhmaṇa est d'accord avec la première déclaration, et indique que "il a créé des Asuras à partir de son souffle inférieur." Le Taittirīya Āraṇyaka représente que Prajāpati a créé des dieux, des hommes, des pères, des Gandharvas et des Apsarases à partir de l'eau, et que les Asuras, les Rakṣasas et les piśācas sont nés des gouttes qui ont été renversées. La déclaration de Manu est qu'ils ont été créés par les Prajāpatis.
+> Le mot est trouvé avec cette signification dans les parties plus récentes du Ṛgveda, en particulier dans le dernier livre, et aussi dans l'Atharvaveda. Les Brāhmaṇes attachent le même sens à celui-ci, et rapportent de nombreux conflits entre les Asuras et les dieux. Selon le Taittirīya Brāhmaṇa, le souffle *(asu)* de Prajapati est devenu vivant, et "avec ce souffle, il a créé moi, Asuras." Dans une autre partie du même ouvrage, il est dit que Prajāpati "est devenu enceinte. Il a créé des Asuras à partir de son abdomen." Le Śatapatha Brāhmaṇa est d'accord avec la première déclaration, et indique que "il a créé des Asuras à partir de son souffle inférieur." Le Taittirīya Āraṇyaka représente que Prajāpati a créé des dieux, des hommes, des pères, des Gandharvas et des Apsarases à partir de l'eau, et que les Asuras, les Rakṣasas et des piśācas sont nés des gouttes qui ont été renversées. La déclaration de Manu est qu'ils ont été créés par les Prajāpatis.
 >
 > Selon le Viṣṇu Purāṇa, ils ont été produits à partir de l'aine de Brahma (prajāpati). Le récit du Vāyu Purāṇa est : "Les Asuras ont d'abord été produits comme fils à partir de son (celui de Prajāpati) aine. *Asu* est déclaré par le Brāhmaṇa signifier souffle. De lui, ces êtres ont été produits ; de là, ils sont Asuras." Le mot a longtemps été utilisé comme nom général pour les ennemis des dieux, y compris les Daityas et les Danavas et autres descendants de Kaśyapa, mais sans inclure les Rakṣasas descendus de Pulastya.
 >
@@ -817,7 +817,7 @@ Fig. : ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेह�
 ::: media
 ![](/images/lekt2008.webp)
 Fig. : ⟪आश्रमः⟫
-Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
+Rishikesh = ⟪ऋषिकेश⟫. « Ceci fait en réalité partie de l'ashram à Rishikesh où les Beatles ont séjourné. Cette partie spécifique n'existait pas lorsqu'ils y étaient, mais cela a l'air cool. »
 (Source de l'image : [Détails](/fr/licenses#lekt2008))
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : agissant, faisant, causant

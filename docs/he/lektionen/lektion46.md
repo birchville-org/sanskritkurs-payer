@@ -7,11 +7,11 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 46
+# שיעור 46
 
 ## 46.1. יצירת צורות הפועל של האדם השני (⟪मध्यमः⟫) פערפקט (⟪लिट्⟫)
 
-### 46.1.1. Endungen
+### 46.1.1. סיומות
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -65,7 +65,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪आसिथ⟫ | ⟪आस⟫ | \&lt;⟪आसिषे⟫\&gt; | \&lt;⟪आसिध्वे⟫\&gt; |
 :::
-### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 46.1.4. פרפקט סוג II: גזע חזק בדרגה גבוהה, גזע חלש בדרגת אפס
 
 פעלים הבאים מסוג זה:
 
@@ -87,7 +87,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
-### 46.1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 46.1.5. פרפקט סוג III: גזע חזק בדרגה גבוהה/דרגה מוארכת
 
 #### 46.1.5.1. סוג IIIa של הפערקט: שורש חזק ברמת גבוה/מארכת, שורש חלול ברמת נמוכה
 
@@ -151,7 +151,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
-### 46.1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 46.1.6. פרפקט סוג IV: שורשים המסתיימים ב-ā / -ai
 
 *   שורש חלש:
 *   לפני עיצור: רמת-i נמוכה
@@ -173,7 +173,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
-### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
+### 46.1.7. פרפקט סוג V: עיצור-a-עיצור
 
 #### 46.1.7.1. סוג פֿרטיפּ: קאָנסאָנאַנט-אַ-קאָנסאָנאַנט, שוואַכער סטאַם טיף־סטופּע
 
@@ -279,7 +279,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
 :::
-### 46.1.8. Besondere Perfekt-Bildungen
+### 46.1.8. תצורות פרפקט מיוחדות
 
 ⟪विद्⟫ 2P פעיל, זמן הווה
 
@@ -313,7 +313,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जिगेथ⟫:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
 :::
-### 46.1.9. Periphrastisches Perfekt (⟪अनुप्रयोगलिट्⟫)
+### 46.1.9. פרפקט פריפרסטי (⟪अनुप्रयोगलिट्⟫)
 
 הנושא של המצב השלם הפריפרסטי נוצר מ:
 
@@ -336,7 +336,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
 :::
-## 46.2. Wortliste
+## 46.2. רשימת מילים
 
 ⟪सम⟫ 3: שווה, בדיוק, דומה
 
@@ -580,7 +580,7 @@ PPP ⟪परिभूत⟫ 3: מובס, משפיל, מושפל
 איור: [⟪भोः⟫](/he/licenses#lekt4611)
 (מקור התמונה: [פרטים](/he/licenses#lekt4611))
 :::
-## 46.3. Übung
+## 46.3. תרגיל
 
 A) קבעו ותרגמו את הצורות הבאות:
 

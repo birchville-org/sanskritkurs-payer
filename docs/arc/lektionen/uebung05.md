@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 5
+# ܬܪܓܠܐ 5
 
-A) Translate the following sentences and compounds and resolve the dvandvas occurring therein into Sanskrit:
+[A] ܡܠܦܘ ܐܪܟܝܢ ܗܕܠܝܢ ܘܣܡܘܟ̈ܐ ܘܦܪܩ ܕܒܝܬ ܡܠܟ̈ܘܬܐ ܕܢܝܪܝܢ:
 
 1\. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ. (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
 
@@ -40,13 +40,13 @@ trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇ�
 
 (in good Sanskrit: ⟪सामर्ग्यजुर्वेदास्त्रयी⟫)
 
-The three Vedas are: Sāmaveda, Ṛgveda, and Yajurveda.
+[Aramaic: ܐ̈ܪܡܝܐ]
 
 sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
 
-4\. The three enemies of man, which form the gate to hell (Viṣṇusmṛti 33,1+6): kāmakrodhalobhāḥ
+4\. שלושת אויבי האדם, המהווים את השער לגיהנום (וישנוסמריטי 33,1+6): קָמוֹקְרוֹדְהָלוֹאַׅ
 
 ⟪कामक्रोधलोभाः⟫
 
@@ -60,9 +60,9 @@ kāmaḥ krodho lobhaś ca.
 
 ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫
 
-Explanation: brahmavihāra: "abiding states of Brahma", also called "the immeasurables": unlimited attitudes. They represent Buddhist meditation forms with which the meditator gradually, step by step, "radiates" the entire reality. These four also play a role in Yoga (Yogasūtra 1,33) in calming the mind.
+ܐܦܫܩܪܐ: ܒܪܗܡܝܘܬܐ ܕܒܪ̈ܗܡܐ، ܠܬܝܬܐ ܕܠܐ ܡܢܘܟ: ܐܬܝܠ̈ܐ ܕܠܐ ܡܢܘܟ. ܗܝ ܡܕܥܒ̈ܕܐ ܕܡܕܥܝܘܬܐ ܒܒܪ̈ܗܡܐ ܕܠܝܬ ܫܘܥܠ̈ܐ، ܒܝܬ ܫܘܥܠ̈ܐ، ܒܝܬ ܫܘܥܠ̈ܐ، ܒܝܬ ܫܘܥܠ̈ܐ. ܗܝ ܡܕܥܒ̈ܕܐ ܒܠܝܬ ܫܘܥܠ̈ܐ ܒܡܕܥܝܘܬܐ (Yogasūtra 1,33) ܒܡܕܥܝܘܬܐ ܕܠܝܬ ܫܘܥܠ̈ܐ.
 
-The immeasurable attitudes are: goodwill, compassion, sympathetic joy, and equanimity.
+ܗܝ ܡܕܥܒ̈ܕܐ ܕܠܝܬ ܫܘܥܠ̈ܐ: ܒܪ̈ܗܡܐ، ܫܘܥܠ̈ܐ، ܫܘܥܠ̈ܐ، ܫܘܥܠ̈ܐ.
 
 maitrī karuṇā muditopekṣā ca catvāro brahmavihārāḥ.
 
@@ -74,7 +74,7 @@ maitrī karuṇā muditopekṣā ca catvāro brahmavihārāḥ.
 
 Explanation: pañca = "five"
 
-The five afflictions are: ignorance, egoism, passion, aversion, and fear of death.
+ܚܡܫ ܐܦܘܩ̈ܝܢ ܗܝ: ܐܠܦܘܬܐ, ܪܘܚܐ, ܨܒܝܬܐ, ܥܘܒܕܐ, ܘܡܠܬܐ ܕܡܘܬܐ.
 
 avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
@@ -97,7 +97,7 @@ Fig.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 :::
 ---
 
-## Review Exercise Lesson 5
+## ܬܪܓܡܬܐ ܕܚܙܘܪܐ Lesson 5
 
 A) Translate:
 
@@ -111,7 +111,7 @@ Economics is a science.
 
 ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫
 
-The three twice-born castes are: Brahmin, Kṣatriya, and Vaiśya.
+[0] The three twice-born castes are: Brahmin, Kṣatriya, and Vaiśya.
 
 3\. dvijā vaiśyāḥ. (2 possibilities)
 
@@ -145,7 +145,7 @@ dvijātayo vaiśyāḥ. dvijātayaḥ kṣatriyāḥ.
 
 ⟪द्विजातयो⟫ ⟪वश्याः⟫ ⟪।⟫ ⟪द्विजातयः⟫ ⟪क्षत्रियाः⟫ ⟪॥⟫
 
-C) Resolve the compound in the following sentence into Sanskrit and form the same sentence with this resolved form:
+ܟ) ܫܪ̈ܘ ܗܕܪ ܒܝܬ ܣܢܣܟܪܝܬ ܘܙܠܛ ܗܕܪ ܒܝܬ ܣܘܟܠܐ ܗܕܪ:
 
 sāmargyajurvedās trayī.
 
@@ -157,7 +157,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī / ... yajurvedas trayī
 
 D) Translate into Sanskrit in two ways (once with a compound, once without):
 
-"The abodes of Brahman" are: friendly goodwill, compassion, sympathetic joy, equanimity.
+"דיירי דבריהם" הן: רצון טוב ידידותי, חמלה, שמחה סימפתית, שיווי משקל.
 
 maitrīkaruṇāmuditopekṣā brahmavihārāḥ. maitrī karunā muditopekṣā (ca) brahmavihārāḥ.
 

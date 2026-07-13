@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 47
+# ܬܪܓܠܐ 47
 
 A) Translate:
 
@@ -35,7 +35,7 @@ Noble lord, please command what I should do.
 Arm yourself for battle, so that no harm will befall you.
 
 ⟪९⟫. **⟪कस्मात्त्वं⟫ ⟪भीतः⟫ ⟪।⟫ ⟪प्रतिवचनम्⟫ : ⟪तस्य⟫ ⟪रामस्य⟫ ⟪गुणेभ्यः⟫ ⟪।⟫ ⟪प्रष्टा⟫ : ⟪के⟫ ⟪तस्य⟫ ⟪गुणा⟫ ⟪यस्य⟫ ⟪गृहं⟫ ⟪प्रविश्याशितव्यमपि⟫ ⟪नास्ति⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Question: "What do you fear?" Answer: "The merits of this Rāma." Questioner: "What kind of merits are these of a man, in whose house there is nothing to eat when one enters?"
+ܣܘܐܠܬܐ: "ܡܢ ܕܝܪܟ?" ܥܢܘܬܐ: "ܫܚܠܬ ܕܗܢܐ ܪܡܐ." ܣܘܐܠܬܐ: "ܟܝܢ ܡܢ ܫܚܠܬ ܗܕܐ ܓܒܪܐ، ܕܠܐ ܝܗܒ ܠܗ ܡܕܡ ܠܐܟܠ ܒܝܬܗ؟"
 
 ⟪१०⟫. **⟪तवैव⟫ ⟪हस्ते⟫ ⟪शस्त्रं⟫ ⟪तिष्ठतु⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 Let the sword remain in your hand!
@@ -45,7 +45,7 @@ Madam, your humiliation should not be reported to Lord Rāma.
 
 ---
 
-## Translations into Sanskrit (Imperative)
+## ܬܘܪ̈ܓܡܐ into Sanskrit (Imperative)
 
 B) Translate into Sanskrit using the imperative:
 

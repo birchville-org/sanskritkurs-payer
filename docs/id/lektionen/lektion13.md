@@ -13,11 +13,11 @@ status: stable
 
 ## 13.1. PPP on -na-
 
-No fixed rules can be established for the distribution of PPPs on -ta- or -na-. However:
+Tidak ada aturan tetap yang dapat ditetapkan untuk distribusi PPP pada -ta- atau -na-. Namun:
 
 ::: grammar-box
 
-Almost all roots ending in -d form the PPP on -na-. In this case, -d-n- is replaced by -n-n-, which otherwise does not occur in word sandhi, but is an imitation of sentence sandhi.
+[H1] Hampir semua akar kata yang berakhiran dengan -d membentuk PPP pada -na-. Dalam hal ini, -d-n- diganti oleh -n-n-, yang secara umum tidak terjadi dalam sandhi kata, tetapi merupakan peniruan dari sandhi kalimat.
 
 Example:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
@@ -25,33 +25,33 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 :::
 ---
 
-## 13.2. Further on the Use of the PPP
+## 13.2. Lebih Lanjut tentang Penggunaan PPP
 
 ::: grammar-box
 
-1. The PPP of verbs meaning "to think," "to wish," "to know," "to know (be acquainted with)," "to revere," as well as certain other verbs marked in the Dhātupāṭha, the root list for Pāṇini, by ñi, does not only have past-tense meaning, but can also be used with present-tense meaning:
+1. PPP dari kata kerja yang berarti "berpikir," "ingin," "tahu," "tahu (akrab dengan)," "menghormati," serta beberapa kata kerja lain yang ditandai dalam Dhātupāṭha, daftar akar untuk Pāṇini, oleh ñi, tidak hanya memiliki makna waktu lampau, tetapi juga dapat digunakan dengan makna waktu sekarang:
 
     e.g.
 
 :::
 ::: indent
-    ⟪इष्ट⟫ "desired" (i.e., not only wished for in the past, but also in the present)
+⟪इष्ट⟫ "diinginkan" (yaitu, tidak hanya diinginkan di masa lalu, tetapi juga di masa sekarang)
 
-    ⟪त्वरित⟫ "hastening, hurried" (PPP to tvar 1 Ā "to hasten"; Dhātupāṭha: ñitvárā)
+⟪त्वरित⟫ "bersegera, terburu-buru" (PPP ke tvar 1 Ā "untuk bersegera"; Dhātupāṭha: ñitvárā)
     :::2. The PPP can be used attributively as an adjective:
 
     e.g.
 
 :::
 ::: indent
-    ⟪इष्टं⟫ ⟪फलम्⟫ "the desired fruit (e.g., of actions)"
-    :::If ⟪अपि⟫ follows the PPP in this case, ⟪अपि⟫ has the meaning "although":
+⟪इष्टं⟫ ⟪फलम्⟫ "buah yang diinginkan (misalnya, dari tindakan)"
+    :::If ⟪⟫ follows the PPP in this case, ⟪⟫ has the meaning "although":
 
     e.g.
 
 :::
 ::: indent
-    ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Although he desires the fruit, he does not obtain it."
+⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Meskipun ia menginginkan buah, ia tidak mendapatkannya."
     :::3. The neuter singular of the PPP of any verb can also be used as a verbal abstract:
 
     e.g.
@@ -60,13 +60,13 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 ::: indent
     ⟪गत⟫ n.: "the going, the gait"
 
-    ⟪नृत्त⟫ n.: "the dancing, the dance"
+⟪नृत्त⟫ n.: "tarian, tarian"
 :::
-## 13.3. Attributive Determinations of Nouns (Word Order)
+## 13.3. Penentuan Atribut Kata Benda (Urutan Kata)
 
 ::: grammar-box
 
-Attributes (modifiers) appear in prose in the normal word order before the word they modify. Adjectival attributes agree with the noun in number, case, and gender:
+Atribut (pengubah) muncul dalam prosa dengan urutan kata normal sebelum kata yang diubah. Atribut adjektival sesuai dengan kata benda dalam jumlah, kasus, dan jenis kelamin:
 
 Example:
 
@@ -80,7 +80,7 @@ Example:
 
 ::: grammar-box
 
-Possessive adjectives are formed from nouns using the taddhita suffixes -mant or -vant. Their meaning is: "possessing that which is denoted by the underlying noun."
+Kata sifat posesif dibentuk dari kata benda menggunakan akhiran taddhita -mant atau -vant. Maknanya adalah: "memiliki apa yang dinyatakan oleh kata benda dasar."
 
 -vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
 
@@ -96,32 +96,32 @@ Examples:
 
 ## 13.5. Stem Inflection of Nouns
 
-Stems ending in -mant or -vant belong to the nominal stems with stem gradation.
+Kata benda yang berakhiran -mant atau -vant termasuk ke dalam kata benda nominal dengan gradasi akar.
 
 ::: grammar-box
-In nominal stems with stem gradation, one distinguishes between strong and weak cases (cases). In the strong cases, the stem-forming suffix — in the case of root nouns, the root-like component — has the strong grade or lengthened grade, in the weak cases the weak grade.
+Dalam kata benda nominal dengan gradasi akar, dibedakan antara kasus kuat dan lemah (kasus). Pada kasus kuat, akhiran pembentuk akar — dalam hal kata benda akar, komponen mirip akar — memiliki bentuk kuat atau bentuk panjang, sedangkan pada kasus lemah menggunakan bentuk lemah.
 :::
-**Strong cases are:**
+**Kasus kuat adalah:**
 
-| | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
+| | Tunggal:br⟪एकवचन⟫ | Ganda:br⟪द्विवचन⟫ | Jamak:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **For Masculine and Feminine**:br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ | Nominative:br⟪प्रथमा⟫:br:brVocative:br⟪सम्बोधनप्रथमा⟫ |
-| **For Neuter**:br⟪नपुंसक⟫ | — | — | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ |
+| **Untuk Maskulin dan Feminin**:br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominatif:br⟪प्रथमा⟫:brAkkusatif:br⟪द्वितीया⟫:brVokatif:br⟪सम्बोधनप्रथमा⟫ | Nominatif:br⟪प्रथमा⟫:brAkkusatif:br⟪द्वितीया⟫:brVokatif:br⟪सम्बोधनप्रथमा⟫ | Nominatif:br⟪प्रथमा⟫:br:brVokatif:br⟪सम्बोधनप्रथमा⟫ |
+| **Untuk Netral**:br⟪नपुंसक⟫ | — | — | Nominatif:br⟪प्रथमा⟫:brAkkusatif:br⟪द्वितीया⟫:brVokatif:br⟪सम्बोधनप्रथमा⟫ |
 
 **All other cases are weak.**
 
 ::: grammar-box
-As the first member of a compound, a noun with stem gradation stands in the weak stem (in the case of three-stemmed nouns, in the so-called middle stem).
+Sebagai anggota pertama dari sebuah majemuk, kata benda dengan gradasi stam berada dalam stam lemah (dalam kasus kata benda tiga-stam, dalam apa yang disebut stam tengah).
 :::
 ---
 
 ## 13.6. On Word Sandhi
 
-To understand the individual forms of the declension of nouns ending in -mant and -vant, the following laws of word sandhi are necessary:
+Untuk memahami bentuk-bentuk individual dari deklinasi kata benda yang berakhiran -mant dan -vant, hukum-hukum sandhi kata berikut diperlukan:
 
 ::: grammar-box
 
-1. Number of final consonants of a word: If a word ends in two or more consonants, only the first consonant is retained, the others are dropped. The combination -r- + consonant is permitted.
+1. Jumlah konsonan akhir sebuah kata: Jika sebuah kata berakhir dengan dua atau lebih konsonan, hanya konsonan pertama yang dipertahankan, sedangkan sisanya dihilangkan. Kombinasi -r- + konsonan diperbolehkan.
 
 2. A voiceless stop is replaced by the corresponding voiced stop before a voiced stop (not a nasal):
 
@@ -141,10 +141,10 @@ To understand the individual forms of the declension of nouns ending in -mant an
 
 ::: grammar-box
 
-For consonant-ending stems:
-* the ending of the accusative (dvitīyā) plural masculine and feminine is -as.
-* for regularly formed stems, the neuter in nominative (prathamā) and accusative (dvitīyā) singular is without ending.
-* for regularly formed stems, the neuter has the ending of the nominative and accusative plural -i.
+Untuk kata benda berakhiran konsonan:
+* akhiran untuk kasus akusatif (dvitīyā) jamak maskulin dan feminin adalah -as.
+* untuk kata benda yang dibentuk secara teratur, netral dalam nominatif (prathamā) dan akusatif (dvitīyā) tunggal tidak memiliki akhiran.
+* untuk kata benda yang dibentuk secara teratur, netral memiliki akhiran nominatif dan akusatif jamak -i.
 
 :::
 ---
@@ -261,7 +261,7 @@ Fig.: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪ब�
 ⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
 ⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
 
-B) Translate and convert into passive sentences of the past tense:
+B) Terjemahkan dan ubah menjadi kalimat pasif dalam bentuk lampau:
 
 ⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
 ⟪२⟫. ⟪योद्धा⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫

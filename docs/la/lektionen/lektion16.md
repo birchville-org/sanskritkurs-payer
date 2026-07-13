@@ -56,7 +56,7 @@ Exempla:
 
 ⟪बलवत्⟫ + ⟪शत्रु⟫ = ⟪बलवच्छत्रु⟫
 
-## 16.2. Wortliste
+## 16.2. Vocabularium
 
 ⟪अध्यापन⟫ n.: docere, doctrina
 

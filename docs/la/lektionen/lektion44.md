@@ -29,7 +29,7 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
 :::
-### 44.1.2. Achte Präsensklasse (⟪तनादि⟫)
+### 44.1.2. Classis octava praesentis (⟪tanādi⟫)
 
 ⟪तन्⟫ 8U
 
@@ -51,7 +51,7 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
 :::
-### 44.1.3. Neunte Präsensklasse (⟪क्र्यादि⟫)
+### 44.1.3. Classis nona praesentis (⟪kryādi⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -93,7 +93,7 @@ Praeterea sequentes leges sandhi verbi adhibentur.
 :::
 ## 44.3. Formatio formarum verbalium personae secundae (⟪मध्यमः⟫) stemmatium athematicorum sine suffixo vocali terminato
 
-### 44.3.1. Zweite Präsensklasse (⟪अदादि⟫)
+### 44.3.1. Classis praesentis secunda (⟪अदादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||

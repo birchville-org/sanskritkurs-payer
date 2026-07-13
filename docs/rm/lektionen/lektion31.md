@@ -176,7 +176,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪शरीर⟫ n.:** corp, corp
 
-## 31.3. Übung
+## 31.3. Exercizi
 
 A) Traducir las siguientes frases y descomponer los compuestos:
 

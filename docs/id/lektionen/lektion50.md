@@ -12,48 +12,48 @@ status: stable
 ## 50.1. Nominal formation: regular comparison
 
 ::: grammar-box
-**Regular comparison in Sanskrit uses the ⟪तद्धित⟫ suffixes**
-* **-⟪तर⟫ (fem.: ⟪तरा⟫) in the "comparative"**
-* **⟪तम⟫ (fem.: ⟪तमा⟫) in the "superlative"**
+**Perbandingan reguler dalam bahasa Sanskerta menggunakan akhiran ⟪तद्धित⟫**
+* **-⟪तर⟫ (fem.: ⟪तरा⟫) dalam "komparatif"**
+* **⟪तम⟫ (fem.: ⟪तमा⟫) dalam "superlatif"**
 
-**These suffixes are attached to the masculine stem of adjectives. For nouns with stem gradation, they are attached to the weak stem, which has the same form as before the ending -su of the locative (⟪पञ्चमी⟫) plural.**
+**Akhiran-akhiran ini melekat pada batang maskulin kata sifat. Untuk kata benda dengan gradasi batang, mereka melekat pada batang lemah, yang memiliki bentuk sama seperti sebelumnya sebelum akhiran -su dari lokatif (⟪पञ्चमी⟫) jamak.**
 :::: media
 ![](/images/lekt5007.webp)
 Fig.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
-⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
-(Image source: [Details](/en/licenses#lekt5007))
+⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_  = Gunung Everest
+(Sumber gambar: [Details](/en/licenses#lekt5007))
 ::::
 :::
 ::: grammar-box
-**Meaning:**
+**Arti:**
 
 **The "comparative" means, when no compared object is expressed: "rather, very, too":**
 
 :::
 ::: indent
-e.g. ⟪सुचितर⟫ 3 "rather pure", "very pure", "too pure"
+mis. ⟪सुचितर⟫ 3 "cukup murni", "sangat murni", "terlalu murni"
 :::
-**If a compared object is expressed, it stands in the ablative (⟪पञ्चमी⟫). Comparative + ablative corresponds to comparison with "than" in German.**
+**Jika objek perbandingan dinyatakan, kata itu berada dalam kasus ablative (⟪पञ्चमी⟫). Bentuk komparatif + ablative sesuai dengan perbandingan menggunakan kata "daripada" dalam bahasa Jerman.**
 
 ::: indent
-e.g. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = literally: "from Devadatta's perspective, Rāma is more perceptive" = "Rāma is more perceptive than Devadatta"
+mis. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = secara harfiah: "dari perspektif Devadatta, Rāma lebih peka" = "Rāma lebih peka daripada Devadatta"
 :::
-**The "superlative" means, when no compared object is expressed: "extremely, very":**
+**Bentuk "superlatif" berarti, ketika tidak ada objek perbandingan yang dinyatakan: "sangat, sekali":**
 
 ::: indent
-e.g. ⟪सत्तम⟫ 3 (to ⟪सन्त्⟫) "extremely good, very good"
+mis. ⟪सत्तम⟫ 3 (kepada ⟪सन्त्⟫) "sangat baik, sangat bagus"
 :::
-**If a compared object is expressed, it stands in the genitive (⟪षष्ठी⟫) ("of", "among") and the superlative corresponds to the German superlative (superlative degree):**
+**Jika objek perbandingan dinyatakan, kata itu berada dalam kasus genitive (⟪षष्ठी⟫) ("dari", "di antara") dan bentuk superlatif sesuai dengan bentuk superlatif bahasa Jerman (tingkat superlatif):**
 
 ::: indent
-e.g. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "the best of the twice-born"
+mis. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "yang terbaik di antara yang lahir dua kali"
 :::
-**The suffixes -⟪तर⟫ and -⟪तम⟫ can attach not only to adjectives, but also to nouns, indeclinables, and even verbal forms:**
+**Akhiran -⟪तर⟫ dan -⟪तम⟫ dapat melekat tidak hanya pada kata sifat, tetapi juga pada kata benda, partikel tak berubah, dan bahkan bentuk verbal:**
 
 Examples:
 
 ::: indent
-⟪गजतम⟫ m. "the best elephant" (⟪गज⟫) (also a title of the Buddha)
+⟪गजतम⟫ m. "gajah terbaik" (⟪गज⟫) (juga gelar Sang Buddha)
 
 ⟪गोतम⟫ m. "the largest ox" (⟪गो⟫) or: "richest in cattle"
 
@@ -69,16 +69,16 @@ Examples:
 ::: indent
 ⟪पचतितराम्⟫ "he/she/it cooks better"
 
-⟪पचतितमाम्⟫ "he/she/it cooks best"
+⟪पचतितमाम्⟫ "dia memasak dengan paling baik"
 :::
-**This form do these suffixes also have, when they attach to an indeclinable and the derived word is used adverbially:**
+**Bentuk apakah juga dimiliki oleh akhir-akhir ini, ketika mereka melekat pada kata takterbuang dan kata turunan digunakan secara adverbial:**
 
 ::: indent
 e.g. ⟪सुतराम्⟫ (to ⟪सु⟫) "in a better way" (adverbially)
 :::: media
 ![](/images/lekt5006.webp)
 Fig.: ⟪का⟫ ⟪पचतितमाम्⟫
-Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
+Lisu = , ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (Image source: [Details](/en/licenses#lekt5006))
 ::::
 :::
@@ -97,10 +97,10 @@ Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 ::: media
 ![](/images/lekt5001.jpg)
 Fig.: ⟪मन्त्री⟫
-Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
-(Image source: [Details](/en/licenses#lekt5001))
+Kapil Sibal (1948 -), menteri persatuan di Kementerian Ilmu Pengetahuan dan Teknologi serta Kementerian Sains Bumi (sejak 2006)
+(Sumber gambar: [Details](/en/licenses#lekt5001))
 :::
-⟪रहस्⟫ n.: secret, solitude
+⟪रहस्⟫ n.: rahasia, kesunyian
 
 ⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : be harmed, fail, damage
 
@@ -138,11 +138,11 @@ Absol.-⟪वृष्य⟫
 :::: media
 ![](/images/lekt5002.jpg)
 Fig.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
-Arrival of the Monsoon, Bangalore  ಬೆಂಗಳೂರು
-(Image source: [Details](/en/licenses#lekt5002))
+Kedatangan Monsun, Bangalore  ಬೆಂಗಳೂರು
+(Sumber gambar: [Details](/en/licenses#lekt5002))
 ::::
 :::
-⟪संयक्⟫ Adv.: right, true, in the proper manner; thoroughly, completely
+⟪संयक्⟫ Adv.: benar, tepat, dengan cara yang benar; secara menyeluruh, sepenuhnya
 
 ⟪आदित्य⟫ m.: sun; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya) : a specific class of gods
 
@@ -192,15 +192,15 @@ Fig.: ⟪कुनगरम्⟫
 
 ::: indent
 Perf. ⟪चचक्षे⟫
-not used in other tenses
+tidak digunakan dalam tense lain
 :::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : to tell, to consider, to name
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : untuk memberitahu, untuk mempertimbangkan, untuk menamai
 
 ⟪देश⟫ m.: place, location, country, region
 
 ## 50.3. Translation Exercise
 
-A) To review declension: the following verse contains all declension forms in the singular for ⟪गुरु⟫ m.:
+[A) Untuk meninjau deklinasi: berikut ini adalah sebuah bait yang memuat semua bentuk dekliasi tunggal untuk ⟪गुरु⟫ m.:
 
 ::: indent
 ⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫
@@ -292,11 +292,11 @@ Explanations:
 :::
 ::: deleteme-box
 
-**lekt5007:** Fig.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest [Image source: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
+**lekt5007:** Fig.: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_  = Mount Everest [Image source: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
 
-**lekt5006:** Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Image source: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, Non-commercial, No derivatives)]
+**lekt5006:** Lisu = , ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [Image source: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, Non-commercial, No derivatives)]
 
-**lekt5001:** Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006) [Image source: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribution, Share alike)]
+**lekt5001:** Kapil Sibal (1948 -), menteri persatuan di Kementerian Sains dan Teknologi serta Kementerian Ilmu Bumi (sejak 2006) [Sumber gambar: Forum Ekonomi Dunia. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- Diakses pada 2009-01-12. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Atribusi, Berbagi sama)]
 
 **lekt5002:** Arrival of the Monsoon, Bangalore  ಬೆಂಗಳೂರು [Image source: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, Non-commercial, No derivatives)]
 

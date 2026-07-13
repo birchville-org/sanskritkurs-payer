@@ -11,7 +11,7 @@ status: stable
 
 ## 46.1. Furmaiziun dals furmaverbs da la 2. persuna (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
 
-### 46.1.1. Endungen
+### 46.1.1. Desinenzas
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -336,7 +336,7 @@ Il perfettu perifrastic vegn format da:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
 :::
-## 46.2. Wortliste
+## 46.2. Glista da pleds
 
 ⟪सम⟫ 3: gliech, exactamain, simig
 

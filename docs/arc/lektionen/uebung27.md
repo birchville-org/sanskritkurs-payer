@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 27
+# ܬܪܓܠܐ 27
 
-A) Insert the expressions in parentheses in the following sentences into the Locative (⟪सप्तमी⟫) Singular and — where it makes sense — Plural.
+[A] אִתְקַן יָהֲבֵי בְּרַחֲמִין (⟪सप्तमी⟫) בְּרַחֲמָא וּבְרַחֲמִין.
 
 **⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫** (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟩)
 
@@ -33,7 +33,7 @@ Evil people do not listen when the teacher proclaims the Dharma.
 
 ⟪२⟫. **⟪बुद्धकाले⟫ ⟪नरैरार्यसत्यानि⟫ ⟪श्रोतुं⟫ ⟪शक्यन्ते⟫ ⟪॥२॥⟫**
 (⟪बुद्धस्य⟫ ⟪काले⟫)
-At the time of a Buddha, people can hear the noble truths.
+בְּעִידַן דְּבֵי בּוּדָא, אִנּוּן דְּחַכִּימִין יָכוּלִין לְשַׁמְעָא אֶת דִּבְרֵי מַלְכוּתָא.
 
 ⟪३⟫. **⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥३॥⟫**
 (⟪वसितानि⟫ ⟪शोभनानि⟫ ⟪वस्त्राणि⟫ ⟪यया⟫ ⟪ताम्⟫ ⟪।⟫ ⟪शोभनानि⟫ ⟪वस्त्राणि⟫)
@@ -49,7 +49,7 @@ After initiation, the boys live in the master's family.
 
 ⟪६⟫. **⟪यज्ञकाले⟫ ⟪विगते⟫ ⟪ऽनिष्टदेवा⟫ ⟪विस्मृतयज्ञब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥६॥⟫**
 (⟪यज्ञस्य⟫ ⟪काले⟫ ⟪।⟫ ⟪नेष्टा⟫ ⟪देवाः⟫ ⟪।⟫ ⟪विस्मृतो⟫ ⟪यज्ञो⟫ ⟪यैस्तेभ्यो⟫ ⟪ब्राह्मणेभ्यः⟫)
-Since the time for the sacrifice has passed, the gods, to whom no sacrifice was made, are angry with the Brahmins who had forgotten the sacrifice.
+מֵאָז שֶׁעוֹת הַקָּרְבָּן עָבְרָה, אֱלֹהִים שֶׁלֹּא נַעֲשָׂה לָהֶם קָרְבָּן כּוֹעֲסִים עַל הַבְּרָהְמִין שֶׁשָּׁכְחוּ אֶת הַקָּרְבָּן.
 
 ⟪७⟫. **⟪गुरौ⟫ ⟪तिष्ठति⟫ ⟪बाल⟫ ⟪आसितुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
 While the master stands, a boy must not sit.

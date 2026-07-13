@@ -9,7 +9,7 @@ status: stable
 
 # Lecția 59
 
-## 59.1. Terminările secundare și terminările imperativului la dual (⟪द्विवचनम्⟫)
+## 59.1. Terminațiile secundare și terminațiile imperativului la dual (⟪द्विवचनम्⟫)
 
 ::: grammar-box
 |   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** |||
@@ -599,7 +599,7 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीतम्⟫ | ⟪क्रीणाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीताम्⟫ | ⟪क्रीणाताम्⟫ |
 :::
-## 59.4. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
+## 59.4. Aoristul (⟪लुङ्⟫) la dual (⟪द्विवचनम्⟫)
 
 ### 59.4.1. Aoristul rădăcinii
 

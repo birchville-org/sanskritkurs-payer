@@ -7,11 +7,11 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 39
+# ܕܪܫܐ ܠܛ
 
-## 39.1. The Personal Endings of the First Person (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**third** Person")
+## 39.1. ܫܘܠܡ̈ܐ ܦܪ̈ܨܘܦܝܐ ܕܓܢܒܪܐ ܩܕܡܝܐ (***⟪ܬܠܝܬܝܐ⟫*** ⟪ܓܢܒܪܐ⟫ = "**ܓܢܒܪܐ ܬܠܝܬܝܐ**")
 
-The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**third** Person") are:
+סוֹמְכֵי הָאִישׁ רַבָּא (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**שְׁלִישָׁא** אֵיתַר") הֲווֹ:
 
 ::: grammar-box
 
@@ -26,15 +26,15 @@ The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Perfektendung** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
-1 Note: actually, the primary ending Ā of thematic stems is also to be posited as -e, before which the thematic vowel -a- drops for reasons of analogy. The effect is, however, as if the ending -i were to attach itself to the thematic vowel -a-: a + i » e.
+ܠܦܘܬܐ ܚܕ: ܒܛܠܐ، ܫܪܟܬܐ ܕܡܠܬܐ ܫܪܝܬܐ ܕܡܢܘܚܬܐ ܗܝ ܠܦܘܬܐ -e، ܩܕܡ ܫܪܟܬܐ -a- ܢܦܩܬ ܒܫܡܠܐ ܕܐܢܛܓܪܝܬܐ. ܦܠܘܚܐ ܗܝ، ܟܕ ܡܢܘܚܬܐ -i ܫܪܟܬܐ ܠܡܢܘܚܬܐ -a-: a + i » e.
 
-## 39.2. Formation of the verb forms of the first person thematic present stems
+## 39.2. ܓܘܕܠܐ ܕܦܘܪ̈ܡܐ ܕܡܠܬܐ ܕܕܘܟܬܐ ܩܕܡܝܬܐ ܕܙܒܢܐ ܗܫܝܐ ܕܫܪ̈ܒܬܐ ܬܝܡܬܝܩܝܬܐ
 
 ::: grammar-box
 **Rule:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.2.1. First present class (⟪भ्वादि⟫)
+### 39.2.1. ܕܪܓܐ ܩܕܡܝܐ ܕܙܒܢܐ ܗܫܝܐ (⟪ܒܗܘܐܕܝ⟫)
 
 ⟪भू⟫ 1P
 
@@ -48,7 +48,7 @@ The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\&lt;⟪भवेय⟫\&gt;** :brbhava + iy-a | **\&lt;⟪भवेमहि⟫\&gt;** :brbhava + i-mahi |
 
 :::
-### 39.2.2. Sechste Präsensklasse (⟪तुदादि⟫)
+### 39.2.2. ܕܪܓܐ ܫܬܝܬܝܐ ܕܙܒܢܐ ܕܗܫܐ (⟪ܬܘܕܐܕܝ⟫)
 
 ⟪विश्⟫ 6P
 
@@ -62,7 +62,7 @@ The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪विशेयम्⟫ | ⟪विशेम⟫ | **\&lt;⟪विशेय⟫\&gt;** | **\&lt;⟪विशेमहि⟫\&gt;** |
 
 :::
-### 39.2.3. Vierte Präsensklasse (⟪दिवादि⟫)
+### 39.2.3. ܕܪܓܐ ܪܒܝܥܝܐ ܕܙܒܢܐ ܗܫܝܐ (ܕܝܘܐܕܝ)
 
 ⟪नृत्⟫ 1P
 
@@ -76,7 +76,7 @@ The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪नृत्येयम्⟫ | ⟪नृत्येम⟫ | **\&lt;⟪नृत्येय⟫\&gt;** | **\&lt;⟪नृत्येमहि⟫\&gt;** |
 
 :::
-### 39.2.4. Tenth Present Class (⟪चुरादि⟫) and Causatives (⟪णिजन्त⟫)
+### 39.2.4. ܕܪܓܐ ܕܥܣܪܐ ܕܙܒܢܐ ܗܫܝܐ (ܟܘܪܐܕܝ) ܘܡܥܠܢ̈ܐ (⟪णिजन्त⟫)
 
 ⟪चुर्⟫ 10U
 
@@ -90,7 +90,7 @@ The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪चोरयेयम्⟫ | ⟪चोरयेम⟫ | ⟪चोरयेय⟫ | ⟪चोरयेमहि⟫ |
 
 :::
-### 39.2.5. Passiv (Suffix ⟪यक्⟫)
+### 39.2.5. ܡܬܡܨܝܢܘܬܐ (Suffix ⟪यक्⟫)
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -103,14 +103,14 @@ The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
 
 :::
-## 39.3. Formation of the first-person forms of the simple future - ⟪ऌत्⟫
+## 39.3. ܓܒܳܠܳܐ ܕܦܰܪ̈ܨܽܘܦܶܐ ܕܩܰܕܡܳܝܳܐ ܕܥܬܺܝܕܳܐ ܦܫܺܝܛܳܐ - ⟪ܠܺܝܬ⟫
 
 ::: grammar-box
-**The future has thematic formation. Therefore, the rule for thematic stems also applies:**
+**ܡܠܦܬ ܐܪܟܘܢܐ ܗܘ. ܠܗܝܢ ܩܘܢܘܬ ܫܪܟܐ ܠܦܡܕܝܢ ܗܘ:**
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
-### 39.3.1. ⟪अनिट्⟫-formation
+### 39.3.1. ܨܽܘܪܬܳܐ ܕ-⟪ܐܰܢܺܝܛ⟫
 
 ⟪दा⟫ 3U
 
@@ -122,7 +122,7 @@ The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Futur  - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
-### 39.3.2. ⟪सेट्⟫-Bildung
+### 39.3.2. ⟪ܣܐܛ⟫-ܒܢܝܢܐ
 
 ⟪भू⟫ 1P
 
@@ -134,19 +134,19 @@ The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Futur  - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\&lt;⟪भविष्ये⟫\&gt;** | **\&lt;⟪भविष्यामहे⟫\&gt;** |
 
 :::
-## 39.4. Formation of verb forms for the first person athematic present stems
+## 39.4. ܨܘܪܬܐ ܕܡ̈ܠܝ ܦܥ̈ܠܐ ܠܓܢܣܐ ܩܕܡܝܐ ܕܫܪ̈ܫܐ ܕܙܒܢܐ ܕܗܫܐ ܕܠܐ ܬܡܝܡܘܬܐ
 
 ::: grammar-box
-**Note that within the word — in contrast to sentence sandhi — consonants generally remain unchanged before endings that begin with**
-* **vowel**
-* **semivowel**
-* **nasal**
+**ܡܕܥ ܕܒܝܬ ܗܢܐ — ܠܦܛܘܪ ܡܢ ܣܰܕܗܝ ܦܠܘܟ̈ܐ — ܚܬܡ̈ܘܬܐ ܒܝܫܪܐ ܕܡܠܬ̈ܐ ܕܒܪܝܬ̈ܗܝ**
+* **ܐܘܪܟ̈ܐ**
+* **ܢܘܗܪ̈ܐ**
+* **ܫܡܥ̈ܬܐ**
 
 **begin, consonants generally remain unchanged.**
 
 e.g. ⟪वच्⟫ 1.sg.Ind.Pres **⟪व⟫***⟪च्मि⟫***
 :::
-### 39.4.1. Second present class (⟪अदादि⟫)
+### 39.4.1. ܕܪܓܐ ܕܬܪܝܢ ܕܙܒܢܐ ܕܗܫܐ (⟪ܐܕܐܕܝ⟫)
 
 ⟪द्विष्⟫ 2U
 
@@ -177,7 +177,7 @@ e.g. ⟪वच्⟫ 1.sg.Ind.Pres **⟪व⟫***⟪च्मि⟫***
 Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 (Image source: [Details](/arc/licenses#lekt3901))
 :::
-### 39.4.2. Third Present Class (⟪जुहोत्यादि⟫)
+### 39.4.2. ܕܪܓܐ ܬܠܝܬܝܐ ܕܙܒܢܐ ܗܫܝܐ (⟪जुहोत्यादि⟫)
 
 ⟪हु⟫ 3P
 
@@ -203,10 +203,10 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪दध्याम्⟫ | ⟪दध्याम⟫ | ⟪दधीय⟫ | ⟪दधीमहि⟫ |
 
 :::
-### 39.4.3. Fünfte Präsensklasse (⟪स्वादि⟫)
+### 39.4.3. ܕܪܓܐ ܕܚܡܫܐ ܕܙܒܢܐ ܗܫܝܐ (ܣܘܐܕܝ)
 
 ::: grammar-box
-**In the case of roots ending in a vowel, the -u of the stem-forming suffix (-nu) may optionally be omitted before endings beginning with m-.**
+**במקרה של שרשים המסתיימים בתנועה, ה-u של הסיומת היוצרת שורש (-nu) יכולה להיות מושמטת באופן אופציונלי לפני סיומות המתחילות ב-m-.**
 :::
 ⟪सु⟫ 5U
 
@@ -220,7 +220,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪सुनुयाम्⟫ | ⟪सुनुयाम⟫ | ⟪सुन्वीय⟫ | ⟪सुन्वीमहि⟫ |
 
 :::
-### 39.4.4. Achte Präsensklasse (⟪तनादि⟫)
+### 39.4.4. ܕܪܓܐ ܬܡܝܢܝܐ ܕܙܒܢܐ ܕܗܫܐ (⟪ܬܢܐܕܝ⟫)
 
 ⟪तन्⟫ 8U
 
@@ -246,7 +246,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪कुर्याम्⟫ | ⟪कुर्याम⟫ | ⟪कुर्वीय⟫ | ⟪कुर्वीमहि⟫ |
 
 :::
-### 39.4.5. Siebte Präsensklasse (⟪रुधादि⟫)
+### 39.4.5. ܟܘܪܣܐ ܫܒܝܥܝܐ ܕܗܘܝܐ (⟪रुधादि⟫)
 
 ⟪युज्⟫ 7U
 
@@ -260,7 +260,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪युञ्ज्याम्⟫ | ⟪युञ्ज्याम⟫ | ⟪युञ्जीय⟫ | ⟪युञ्जीमहि⟫ |
 
 :::
-### 39.4.6. Neunte Präsensklasse (⟪क्र्यादि⟫)
+### 39.4.6. ܕܪܓܐ ܬܫܝܥܝܐ ܕܙܒܢܐ ܗܫܝܐ (⟪ܟܪܝܐܕܝ⟫)
 
 ⟪क्री⟫ 9U
 
@@ -274,9 +274,9 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪क्रीणीयाम्⟫ | ⟪क्रीणीयाम⟫ | ⟪क्रीणीय⟫ :brkrī + n-īy-a | ⟪क्रीणीमहि⟫ |
 
 :::
-## 39.5. Übung
+## 39.5. ܬܪܓܠܐ
 
-Form the first-person forms corresponding to the following verb forms in number, tense, mood (indicative, optative), and voice (P, Ā, passive).
+Bildet die ersten Person Singular und Plural der folgenden Verbformen in Numerus, Tempus, Modus (Indikativ, Optativ) und Genus Verbi (Aktiv, Medium, Passiv).
 
 Example: ⟪गच्छन्ति⟫ » ⟪गच्छामस्⟫
 

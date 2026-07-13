@@ -48,7 +48,7 @@ Les désinences de la première personne (***⟪तृतीयः⟫*** ⟪प�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\&lt;⟪भवेय⟫\&gt;** :brbhava + iy-a | **\&lt;⟪भवेमहि⟫\&gt;** :brbhava + i-mahi |
 
 :::
-### 39.2.2. Sechste Präsensklasse (⟪तुदादि⟫)
+### 39.2.2. Sixième classe de présent (⟪tudādi⟫)
 
 ⟪विश्⟫ 6P
 
@@ -90,7 +90,7 @@ Les désinences de la première personne (***⟪तृतीयः⟫*** ⟪प�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪चोरयेयम्⟫ | ⟪चोरयेम⟫ | ⟪चोरयेय⟫ | ⟪चोरयेमहि⟫ |
 
 :::
-### 39.2.5. Passiv (Suffix ⟪यक्⟫)
+### 39.2.5. Passif (Suffix ⟪यक्⟫)
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -203,7 +203,7 @@ Fig. : ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪दध्याम्⟫ | ⟪दध्याम⟫ | ⟪दधीय⟫ | ⟪दधीमहि⟫ |
 
 :::
-### 39.4.3. Fünfte Präsensklasse (⟪स्वादि⟫)
+### 39.4.3. Cinquième classe de présent (⟪svādi⟫)
 
 ::: grammar-box
 **Dans le cas de racines se terminant par une voyelle, la voyelle -u du suffixe de formation de base (-nu) peut facultativement être omise devant les désinences commençant par m-.**
@@ -220,7 +220,7 @@ Fig. : ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪सुनुयाम्⟫ | ⟪सुनुयाम⟫ | ⟪सुन्वीय⟫ | ⟪सुन्वीमहि⟫ |
 
 :::
-### 39.4.4. Achte Präsensklasse (⟪तनादि⟫)
+### 39.4.4. Huitième classe de présent (⟪tanādi⟫)
 
 ⟪तन्⟫ 8U
 
@@ -260,7 +260,7 @@ Fig. : ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪युञ्ज्याम्⟫ | ⟪युञ्ज्याम⟫ | ⟪युञ्जीय⟫ | ⟪युञ्जीमहि⟫ |
 
 :::
-### 39.4.6. Neunte Präsensklasse (⟪क्र्यादि⟫)
+### 39.4.6. Neuvième classe de présent (⟪kryādi⟫)
 
 ⟪क्री⟫ 9U
 
@@ -274,7 +274,7 @@ Fig. : ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪क्रीणीयाम्⟫ | ⟪क्रीणीयाम⟫ | ⟪क्रीणीय⟫ :brkrī + n-īy-a | ⟪क्रीणीमहि⟫ |
 
 :::
-## 39.5. Übung
+## 39.5. Exercice
 
 Formez les formes de la première personne correspondant aux formes verbales suivantes, en respectant le nombre, le temps, le mode (indicatif, optatif) et le diathèse (P, Ā, Passif).
 

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 43
+# ܡܠܦܢܐ 43
 
 ## 43.1. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \&lt;Person\&gt;")
 
@@ -15,27 +15,27 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Primary endings** | -si | -tha | -se | -dhve |
-| **Secondary endings** | -s | -ta | -thās | -dhvam |
-| **Perfect endings** | -tha | -a | -se | -dhve |
+| **ܐܘܪ̈ܚܐ ܕܡܠܬ** | -si | -tha | -se | -dhve |
+| **ܐܘܪ̈ܚܐ ܕܡܠܬ ܫܘܢ̈ܝܐ** | -s | -ta | -thās | -dhvam |
+| **ܐܘܪ̈ܚܐ ܕܡܠܬ ܫܠܡ̈ܝܐ** | -tha | -a | -se | -dhve |
 :::
-Note that the secondary ending of the 2.pl.P. is identical to the secondary ending of the 3.sg.Ā.
+ܕܥ̈ܘܪ ܐܝܟܢܐ ܕܡܠܬ ܫܘܢ̈ܝܐ ܕܨܠܦܬ ܬܡܢ̈ܝܐ ܗܝ ܠܦܬ ܡܢ ܨܠܦܬ ܫܠ̈ܫܝܐ.
 
-## 43.2. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫)
+## 43.2. ܨܘܪܬܐ ܕܡ̈ܠܝ ܦܥ̈ܠܐ ܕܓܢܣܐ ܕܬܪܝܢ (⟪ܡܨܥܝܐ⟫)
 
 2.Person:
 
 *   Singular: "thou"
 *   Plural: "ye" (more than two!)
 
-### 43.2.1. Thematische Stämme
+### 43.2.1. ܫܰܪ̈ܒܳܬܳܐ ܬܺܝܡܳܬܳܝ̈ܬܳܐ
 
 ::: media
 ![](/images/lekt4301.jpg)
 :::
-The 3.sg.Ā.Imperfect or Optative is formally identical to the 2.pl.P.Imperfect or Optative!
+ܐܪܡܝܘܬ ܦܠܓܢܐ ܕܡܠܦܢܘܬ 3.ܣ̈ܟܪܐ ܥܒܕܐ ܐܘ ܡܠܬ ܪܒܝܢ 2.ܦܠܘܗܐ ܥܒܕܐ ܐܘ ܡܠܬ ܪܒܝܢ
 
-#### 43.2.1.1. First Present Class (⟪भ्वादि⟫)
+#### 43.2.1.1. ܕܪܓܬܐ ܩܕܡܝܬܐ ܕܙܒܢܐ ܗܫܝܐ (⟪ܒܗܘܐܕܝ⟫)
 
 ⟪भू⟫ 1P
 
@@ -46,7 +46,7 @@ The 3.sg.Ā.Imperfect or Optative is formally identical to the 2.pl.P.Imperfect 
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \&lt;⟪अभवथास्⟫\&gt; | \&lt;⟪अभवध्वम्⟫\&gt; |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \&lt;⟪भवेथास्⟫\&gt; | \&lt;⟪भवेध्वम्⟫\&gt; |
 
-#### 43.2.1.2. Sixth Present Class (⟪तुदादि⟫)
+#### 43.2.1.2. ܟܘܪܣܐ ܫܬܝܬܝܐ ܕܗܘܝܐ (⟪ܬܘܕܐܕܝ⟫)
 
 ⟪विश्⟫ 6P
 
@@ -57,7 +57,7 @@ The 3.sg.Ā.Imperfect or Optative is formally identical to the 2.pl.P.Imperfect 
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \&lt;⟪अविशथास्⟫\&gt; | \&lt;⟪अविशध्वम्⟫\&gt; |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \&lt;⟪विशेथास्⟫\&gt; | \&lt;⟪विशेध्वम्⟫\&gt; |
 
-#### 43.2.1.3. Vierte Präsensklasse (⟪दिवादि⟫)
+#### 43.2.1.3. ܕܪܓܐ ܪܒܝܥܝܐ ܕܙܒܢܐ ܗܫܝܐ (ܕܝܘܐܕܝ)
 
 ⟪नृत्⟫ 4P
 
@@ -68,7 +68,7 @@ The 3.sg.Ā.Imperfect or Optative is formally identical to the 2.pl.P.Imperfect 
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \&lt;⟪अनृत्यथास्⟫\&gt; | \&lt;⟪अनृत्यध्वम्⟫\&gt; |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \&lt;⟪नृत्येथास्⟫\&gt; | \&lt;⟪नृत्येध्वम्⟫\&gt; |
 
-#### 43.2.1.4. Tenth Present Class (⟪चुरादि⟫) and Causatives
+#### 43.2.1.4. ܕܪܓܐ ܕܥܣܪܐ ܕܙܒܢܐ ܗܫܝܐ (ܟܘܪܐܕܝ) ܘܡܥܠܢ̈ܐ
 
 ⟪चुर्⟫ 10U
 
@@ -79,7 +79,7 @@ The 3.sg.Ā.Imperfect or Optative is formally identical to the 2.pl.P.Imperfect 
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अचोरयस्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयथास्⟫ | ⟪अचोरयध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪चोरयेस्⟫ | ⟪चोरयेत⟫ | ⟪चोरयेथास्⟫ | ⟪चोरयेध्वम्⟫ |
 
-#### 43.2.1.5. Passiv
+#### 43.2.1.5. ܡܬܡܨܝܢܘܬܐ
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -89,7 +89,7 @@ The 3.sg.Ā.Imperfect or Optative is formally identical to the 2.pl.P.Imperfect 
 | **Imperfekt** ⟪लङ्⟫ | ⟪ऐक्ष्यथास्⟫ | ⟪ऐक्ष्यध्वम्⟫ |
 | **Optativ** ⟪विधिलिङ्⟫ | ⟪ईक्ष्येथास्⟫ | ⟪ईक्ष्येध्वम्⟫ |
 
-#### 43.2.1.6. Future (⟪ऌट्⟫)
+#### 43.2.1.6. ܥܬܝܕܐ (⟪ऌट्⟫)
 
 #### 43.2.1.6.1. ⟪अनिट्⟫-Bildungen
 
@@ -100,7 +100,7 @@ The 3.sg.Ā.Imperfect or Optative is formally identical to the 2.pl.P.Imperfect 
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪दास्यसि⟫ | ⟪दास्यथ⟫ | ⟪दास्यसे⟫ | ⟪दास्यध्वे⟫ |
 
-#### 43.2.1.6.2. ⟪सेट्⟫-Bildungen
+#### 43.2.1.6.2. ⟪ܣܐܛ⟫-ܒܢܝܢܐen
 
 ⟪भू⟫ 1P
 
@@ -109,7 +109,7 @@ The 3.sg.Ā.Imperfect or Optative is formally identical to the 2.pl.P.Imperfect 
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | \&lt;⟪भविष्यसे⟫\&gt; | \&lt;⟪भविष्यध्वे⟫\&gt; |
 
-## 43.3. The second person personal pronoun
+## 43.3. ܟܢܝܼܫܬܵܐ ܦܪ̈ܨܘܿܦܵܝܬ̈ܳܐ ܕܕܽܘܟܬܵܐ ܕܬܪܹܝܢ
 
 *   Singular: ⟪त्वद्⟫ "thou"
 *   Plural: ⟪युष्मद्⟫ "ye"
@@ -125,12 +125,12 @@ The 3.sg.Ā.Imperfect or Optative is formally identical to the 2.pl.P.Imperfect 
 | ⟪षष्ठी⟫ | ⟪तव⟫ ⟪ते⟫ | ⟪युष्माकम्⟫ ⟪वस्⟫ |
 | ⟪सप्तमी⟫ | ⟪त्वयि⟫ | ⟪युष्मासु⟫ |
 :::
-The forms ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ must not be used at the beginning of a sentence or a verse half. They may also not be used before ⟪च⟫, ⟪वा⟫, ⟪एव⟫, and some other particles:
+ܠܐ ܝܬܘܒ ܕܡܫܬמשܠܝܢ ܒܦܘܪܡܐ ⟪त्वा⟫, ⟪ते⟫, ⟪वस्⟫ ܒܬܚܠܐ ܕܦܘܣܩܐ ܐܘ ܒܬܚܠܐ ܕܡܫܪܐ. ܗܝ ܠܬܐ ܢܦܩܝܢ ܕܡܫܬמשܠܝܢ ܩܒܠ ⟪च⟫, ⟪वा⟫, ⟪एव⟫, ܘܦܠܓܐ ܕܡܢ ܒܪܝ̈ܬܐ:
 
 ::: indent
 ⟪त्वां⟫ ⟪मां⟫ ⟪च⟫ "thee and me"
 :::
-## 43.4. Word List
+## 43.4. ܡܠܘܐܐ ܕܡ̈ܠܝܢ
 
 ⟪ज्ञा⟫ + ⟪आ⟫ Causative ⟪आज्ञापयति⟫ : command, order
 
@@ -199,7 +199,7 @@ Fig.: ⟪वत्सः⟫
 
 ⟪कियत्⟫ 3: how great
 
-⟪शर्करा⟫ f.: sugar (the German "Zucker" goes via Italian zucchero, from there via Arabic sukkar - سكر and Persian äkär - شکر back to the Sanskrit ⟪शर्करा⟫!)
+⟪शर्करा⟫ f.: שֻׁכְרָא (המילה הגרמנית "Zucker" מגיעה דרך האיטלקית zucchero, משם דרך הערבית sukkar - سكر והפרסית äkär - شəkַר חזרה לסנסקריט ⟪शर्करा⟫!)
 
 ⟪अधिक⟫ 3: additionally, surplus, extraordinary
 
@@ -249,9 +249,9 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: bliss, joy
 
-## 43.5. Übung
+## 43.5. ܬܪܓܠܐ
 
-A) Form the corresponding 2nd person of the following verb forms in tense, number, mood, etc.:
+[A] ܣܘܪ ܐܬ ܠܟܢ ܕܝܠܦ̈ܐ ܕܡܠܬ ܒܫܘܥܝܐ, ܡܢܐ, ܠܫܢܐ, ܘܟܠ:
 
 1.  ⟪आर्हम्⟫
 2.  ⟪कुप्येम⟫
@@ -333,7 +333,7 @@ B) Translate into Sanskrit:
 Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 (Image source: [Details](/arc/licenses#lekt4308))
 :::
-## 43.6. ⟪संवादः⟫ = Conversation
+## 43.6. ⟪संवादः⟫ = ܡܡܠܠܐ
 
 | ⟪संवादः⟫ | Erklärungen |
 | --- | --- |

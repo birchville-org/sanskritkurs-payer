@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 30
 
-## 30.1. Die 9. Präsensklasse (⟪क्र्यादि⟫ = "⟪क्री⟫ u.s.w.")
+## 30.1. La 9e classe de présent (⟪kryādi⟫ = "⟪krī⟫ etc.")
 
 ::: grammar-box
 **Formation :**
@@ -109,7 +109,7 @@ Exemple :
 ::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = « Si quelqu'un disait le mensonge, il tomberait en enfer = Si quelqu'un dit le mensonge, il tombe en enfer. »
 :::
-## 30.3. Sekundärendungen der 3. Personen Singular und Plural
+## 30.3. Terminaisons secondaires des 3e personnes singulier et pluriel
 
 L'optatif (⟪लिङ्⟫), l'imparfait (⟪लङ्⟫), l'aoriste (⟪लुङ्⟫), le précatif (⟪आशिर्लिङ्⟫) et le conditionnel possèdent les dites désinences secondaires :
 
@@ -260,7 +260,7 @@ Exemples :
 
 ⟪पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना⟫ ⟪रोदिति⟫
 :::
-## 30.6. Wortliste
+## 30.6. Liste de mots
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : acheter
 
@@ -380,7 +380,7 @@ dont :
 :::
 ⟪सनातन⟫ ⟪३⟫ fém. : ⟪सनातनी⟫ : éternel, impérissable, durable
 
-## 30.7. Übung
+## 30.7. Exercice
 
 A) Transformez les formes verbales suivantes en formes optatives correspondant à la personne, au nombre et au genre verbal :
 

@@ -190,7 +190,7 @@ La racine la plus importante de la 8e classe est **kṛ** 8 U (⟪कृ⟫) « 
 - 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
 :::
 
-## 8.5. Wortliste
+## 8.5. Liste de mots
 
 **Apprenez les mots suivants :**
 
@@ -226,7 +226,7 @@ Fig. : **likh** (⟪लिख्⟫) : Bâton d'écriture des Batak (Sumatra), t
 - **sukha** n. ⟪सुख⟫ : bonheur, bien-être
 - **duḥkha** n. ⟪दुःख⟫ : malheur, souffrance
 
-## 8.6. Übung
+## 8.6. Exercice
 
 **A) Expliquez les noms suivants en indiquant la racine dont ils sont dérivés, ainsi que le suffixe nominal. Indiquez le genre et le sens :**
 1. lobha
@@ -276,7 +276,7 @@ Fig. : **likh** (⟪लिख्⟫) : Bâton d'écriture des Batak (Sumatra), t
 10. Que désirent les dieux ?
 11. Quelle est la raison ?
 
-## 8.7. Lese- und Übersetzungsübung
+## 8.7. Exercice de lecture et de traduction
 
 1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
 2. ⟪कविर्देवं⟫ ⟪यजते⟫ |

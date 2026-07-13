@@ -3,7 +3,7 @@ aside: false
 outline: false
 ---
 
-# Grammar Index
+# ܡܟܬܒܢܘܬܐ ܕܕקדܘܩܐ
 
 The Grammar Index lists all grammatical topics and phenomena from the Sanskrit course and enables quick access to specific lessons.
 

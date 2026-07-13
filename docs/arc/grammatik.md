@@ -3,11 +3,11 @@ aside: true
 outline: [2, 3]
 ---
 
-# Grammar Topics
+# ܪ̈ܝܫܐ ܕܕקדܘܩܐ
 
 This page provides a systematic overview of all grammatical topics in the Sanskrit course. Each of the 61 lessons is categorized thematically here.
 
-## 1. Phonology & Script (Saṃhitā & Lipi)
+## 1. ܝܕܥܬܐ ܕܩܠܐ ܘܟܬܒܐ (ܣܡܗܝܬܐ ܘܠܝܦܝ)
 
 *   **Introduction to Sounds**: Systematics and pronunciation -\> [Lesson 1](/lektionen/lektion01)
 *   **Script Introduction (Devanāgarī)**:
@@ -23,9 +23,9 @@ This page provides a systematic overview of all grammatical topics in the Sanskr
     *   Word Sandhi (h-, ch-) -\> [Lesson 44](/lektionen/lektion44), [Lesson 51](/lektionen/lektion51)
     *   **Consonant Sandhi** (Summaries) -\> [Lesson 16](/lektionen/lektion16), [Lesson 43](/lektionen/lektion43)
 
-## 2. Lexicon (Morphology)
+## 2. ܡܠܘܢܐ (ܨܘܪܬܐ)
 
-### 2.1 Nouns and Adjectives (Declension)
+### 2.1 ܫܡܗ̈ܐ ܘܨܦܬ̈ܐ (ܨܘܚܦܐ)
 
 *   **Basics**: Case theory -\> [Lesson 1](/lektionen/lektion01), [Lesson 2](/lektionen/lektion02)
 *   **A-stems** (Masculine & Neuter) -\> [Lesson 2](/lektionen/lektion02), [Lesson 7](/lektionen/lektion07)
@@ -40,7 +40,7 @@ This page provides a systematic overview of all grammatical topics in the Sanskr
     *   Numeral words (Cardinals/Ordinals) -\> [Lesson 52](/lektionen/lektion52)
     *   Comparison (Comparative/Superlative) -\> [Lesson 53](/lektionen/lektion53)
 
-### 2.2 Pronouns & Adverbs
+### 2.2 ܟܢܽܘ̈ܫܝܳܬܳܐ ܘܡܰܠ̈ܶܐ ܕܡܰܠܘܳܝܳܐ
 
 *   **Pronouns**:
     *   Interrogative and demonstrative pronouns -\> [Lesson 4](/lektionen/lektion04)
@@ -82,7 +82,7 @@ This page provides a systematic overview of all grammatical topics in the Sanskr
     *   **PPA** (Perfect Active Participle) -\> [Lesson 52](/lektionen/lektion52)
     *   **Absolutive & Infinitive** -\> [Lesson 22](/lektionen/lektion22), [Lesson 23](/lektionen/lektion23)
 
-## 3. Sentence Structure (Syntax)
+## 3. ܒܢܝܢܐ ܕܦܬܓܡܐ (ܣܢܬܟܣܝܣ)
 
 *   **The Nominal Sentence** -\> [Lesson 2](/lektionen/lektion02)
 *   **The Interrogative Sentence** -\> [Lesson 37](/lektionen/lektion37)
@@ -98,7 +98,7 @@ This page provides a systematic overview of all grammatical topics in the Sanskr
     *   Relative Clauses -\> [Lesson 19](/lektionen/lektion19)
     *   Usage of Participles -\> [Lesson 12](/lektionen/lektion12), [Lesson 44](/lektionen/lektion44)
 
-## 4. Metrik (Verslehre)
+## 4. ܡܛܪܝܩܐ (ܝܘܠܦܢܐ ܕܫܥܪܐ)
 
 Sanskrit-Philosophie und Literatur sind oft in Versen verfasst. Die Metrik lehrt den Rhythmus und Aufbau dieser Verse.
 

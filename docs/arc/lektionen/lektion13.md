@@ -7,29 +7,29 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 13
+# ܐܘܠܦܢܐ 13
 
 ## 13.1. PPP auf -na-
 
-For the distribution of PPPs on -ta- or -na-, no fixed rules can be established. However:
+ܠܐ ܝܬܪ ܩܘܢܘ̈ܢ̈ܐ ܟܝܠܐ ܠܦܪܘܫ̈ܐ ܕܦܣܘܩ̈ܠܬ̈ܐ ܥܠ -ta- ܘܠ -na-.
 
 ::: grammar-box
 
-Almost all roots ending in -d form the PPP with -na-. In this case, -d-n- is replaced by -n-n-, which otherwise does not occur in word sandhi, but rather imitates sentence sandhi.
+כָּל שְׁרִישַׁיָא דִּיתְבָּקִין בְּ-ד, יַצְרֵי קָל פָּעוֹל נְקִיב בְּ-נא. בְּהַאי חוֹבָתָא, יְתַבֵּיק -d-n- בְּ-n-n-, דְלָא אִתְמַצְאַ בְּשַׁרְשָׁא דִמְלֵיל, אַךְ יְדוּעָא בְשַׁרְשָׁא דִמְלֵיל.
 
 Example:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 :::
 
-## 13.2. Further on the use of the PPP
+## 13.2. ܬܽܘܒ ܥܰܠ ܡܶܬܚܰܫܚܳܢܽܘܬܳܐ ܕܦܦܦ
 
 ::: grammar-box
 
-⟪इष्ट⟫ "desired" (i.e., not only desired in the past, but also in the present)
+⟪इष्ट⟫ "ܡܬܚܒܪ" (ܝ.ܐ., ܠܘ ܒܚܢܫ ܕܥܬܝܩ, ܐܠܐ ܒܚܢܫ ܕܥܬܝܪ)
 :::
 ::: indent
-⟪त्वरित⟫ "hastening, hurried" (PPP to tvar 1 Ā "to hasten"; Dhātupāṭha: ñitvárā)
+⟪त्वरित⟫ "ܡܬܥܒܕ, ܡܛܪ" (PPP לـ tvar 1 Ā "לְעַבֵּד"; Dhātupāṭha: ñitvárā)
 :::
 
 e.g.
@@ -47,11 +47,11 @@ e.g.
 ⟪नृत्त⟫ n.: "dancing, dance"
 :::
 
-## 13.3. Attributive Bestimmungen von Nomina (Wortstellung)
+## 13.3. ܦܽܘܪ̈ܫܶܐ ܚܰܕ̈ܬܳܝܶܐ ܕܫܶܡ̈ܗܶܐ (ܣܳܕܪܳܐ ܕܡܶܠܶܐ)
 
 ::: grammar-box
 
-Attributes (modifiers) stand in prose in the normal word order before the word they modify. Adjectival attributes agree with the noun in number, case and gender:
+[0] ܐܬܪ̈ܘܬܐ (ܡܫܛܪ̈ܝܢ) ܕܓܘܣܐ ܒܠܫܢܐ ܕܓܘܣܐ ܩܕܡ ܗ̈ܝ ܠܟܢܘܬܐ ܕܗ̈ܝ. ܐܬܪ̈ܘܬܐ ܕܓܘܣܐ ܡܫܛܪ̈ܝܢ ܠܟܢܘܬܐ ܒܡܕܝܢܬܐ، ܘܫܪ̈ܒܐ، ܘܡܕܝܢܬܐ:
 
 Example:
 
@@ -60,11 +60,11 @@ Example:
 ⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "A holy man sees the desired fruit (of his works)."
 :::
 
-## 13.4. Formation of adjectives in -mant and -vant (taddhita)
+## 13.4. ܨܘܼܪܬܵܐ ܕܨܶܦܬ̈ܳܐ ܒ -ܡܲܢܬ ܘ -ܒܲܢܬ (ܬܲܕܗܝܼܬܵܐ)
 
 ::: grammar-box
 
-Through the taddhita suffixes -mant and -vant, possessive adjectives are derived from nouns. Their meaning is: "possessing that which is denoted by the underlying noun."
+ܒܣܘܿܟܼܦܬ̈ܐ ܕܬܰܕ݂𐌺ܝܼܬ̈ܐ -mant ܘ-vant, ܡܶܠܬ̈ܐ ܕܰܚܰܢܳܐ ܬ̈ܘܿܪܝܼܢ ܡܶܢ ܫ̈ܘܿܡ̈ܐ. ܡܶܠܬ݂ܘܿܗ̇: "ܕܰܚܳܠ ܐܶܬ݂ܝܵܪ ܒܫ̈ܘܿܡ̈ܐ ܕܰܚܰܢܳܐ."
 
 -vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
 
@@ -77,14 +77,14 @@ Examples:
 ⟪गुणवन्त्⟫ "possessing good qualities / virtue"
 :::
 
-## 13.5. Stammabstufung von Nomina
+## 13.5. ܕܪܓܐ ܕܫܪܫܐ von Nomina
 
-The stems on -mant or -vant belong to the nominal stems with stem gradation.
+השורשים על -mant או -vant שייכים לשורשי השמות עם מדרגת גזע.
 
 ::: grammar-box
-In nominal stems with stem gradation, one distinguishes between strong and weak cases (cases). In the strong cases, the stem-forming suffix — in the case of root nouns, the radical component — has the strong grade or lengthened grade; in the weak cases, it has the zero grade.
+בשורשי שמות עם מדרגת גזע, מבדילים בין מקרים חזקים וחלשים. במקרים החזקים, הסיומת היוצרת את השורש — במקרה של שורשי שורש, הרכיב הרדיקלי — יש לו מדרגה חזקה או מוארכת; במקרים החלשים, יש לו מדרגת אפס.
 :::
-**The strong cases are:**
+**המקרים החזקים הם:**
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
@@ -94,15 +94,15 @@ In nominal stems with stem gradation, one distinguishes between strong and weak 
 **All other cases are weak.**
 
 ::: grammar-box
-As the first member of a compound, a noun with stem gradation appears in the weak stem (in so-called middle for three-stem nouns).
+כְּמָא דִי הוּא סַלְקָנָה בְּשׁוּרְתָא דִקְיָמָא, שׁוּם דִּי לֵיהּ מַלְאָה בְּשׁוּרָתָא חֲלַקְתָּא (בִּשְׁמָה דִגְלוּלָא לִשְׁתַּיִם שְׁרָשֵׁי).
 :::
 
-## 13.6. Zum Wortsandhi
+## 13.6. ܠܣܰܢܕܺܝ ܕܡܶܠܬܳܐ
 
-To understand the individual forms of declension for nouns ending in -mant and -vant, the following rules of sandhi are necessary:
+כדי להבין את צורות ההטייה השונות של שמות עצם המסתיימים ב- -mant ו- -vant, כללי הסנדה הבאים נחוצים:
 
 ::: grammar-box
-1. Number of final consonants in a word: Of two or more consonants that would end a word, only the first consonant is retained; the others are dropped. The combination -r- + consonant is permitted.
+1. מספר העיצורים בסוף המילה: מבין שני עיצורים או יותר שמסתיימים במילה, רק העיצור הראשון נשמר; האחרים מושמטים. הצירוף -r- + עיצור מותר.
 
 2. A voiceless stop before a voiced stop (not nasal) is replaced by the corresponding voiced stop:
 :::
@@ -117,18 +117,18 @@ arc: [L0]     -c + bh- » -g-bh- ⟪ग्भ्⟫
 -c + dh- » -g-dh- ⟪ग्ध्⟫
 :::
 
-## 13.7. Kasusendungen konsonantischer Stämme
+## 13.7. ܚܰܪ̈ܬܳܬܳܐ ܕܩܶܛܥܳܐ ܕܫܰܪ̈ܒܳܬܳܐ ܚܰܪ̈ܦܳܬܳܝ̈ܬܳܐ
 
 ::: grammar-box
 
-In stems ending in a consonant:
-* the accusative (dvitīyā) plural masculine and feminine ending is -as.
-* in regularly formed stems, the neuter nominative (prathamā) and accusative (dvitīyā) singular is without ending.
-* in regularly formed stems, the neuter nominative and accusative plural ending is -i.
+ܒܫܪ̈ܐ ܕܡܬܚܠܦܝܢ ܒܟܘܪ̈ܐ:
+* ܫܡܬ ܟ݁ܢ̈ܝܐ (דְּבִתֵּיָא) ܪַכ̈ܝܐ וְנ֫קְבָּא ܠַכ̈וֹל הִיא -as.
+* ܒܫܪ̈ܐ ܕܡܬܚܠܦܝܢ ܒܫܘܥ̈ܬܐ, שֶׁמַּשְׂכָּל (פְּרָתָם) וְדִבְתָא סוֹגַר לָא יܬܝ.
+* ܒܫܪ̈ܐ ܕܡܬܚܠܦܝܢ ܒܫܘܥ̈ܬܐ, שֶׁמַּשְׂכָּל וְדִבְתָא ܠַכ̈וֹל הִיא -i.
 
 :::
 
-## 13.8. Deklination der Stämme auf -mant und -vant
+## 13.8. ܨܘܚܦܐ ܕܫܪ̈ܫܐ ܕܡܫܬܠܡܝܢ ܒܡܢܬ ܘܒܘܢܬ
 
 ::: grammar-box
 
@@ -153,43 +153,43 @@ Example:
 
 :::
 
-## 13.9. Wortliste
+## 13.9. ܡܠܘܐܐ
 
 Learn the following words:
 
 - **eva** ⟪एव⟫ : emphasizes the preceding word
 - **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Spiritual, divine.'
->**ASURA.** 'Spiritual, divine.'
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
->According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
->In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
+> **אָסוּרָה.** 'רוחני, אלוהי.'
+>**אָסוּרָה.** 'רוחני, אלוהי.'
+> במקומות העתיקים ביותר של הריגודה, מונח זה משמש לרוח עליונה, והוא כנראה אותו הדבר כמו אהורה של הזורואסטרים. במובן של 'אל', הוא הופעל על כמה מהאלים הראשיים, כמו אינדרא, אגני וורונה. מאוחר יותר הוא קיבל משמעות הפוכה לחלוטין, והפך לסמן של דמוני או אויב לאלים.
+> לפי הוישנו פוראנה, הם נוצרו מהמפשעה של ברהמה (פראג'אפטי). התיאור של הוואיו פוראנה הוא: "האסורות נוצרו תחילה כבנים מהמפשעה שלו (של פראג'אפטי). *אסו* מוגדר על ידי הבראהמנה כמשמעו נשימה. ממנו נוצרו היצורים האלה; מכאן שהם אסורות." המילה משמשת כבר זמן רב כשם כללי לאויבי האלים, כולל הדאיטיות והדנובות וצאצאים אחרים של קשיאפה, אך לא כולל הרקסאסים שצאו מפולסטיה.
+> לפי הוישנו פוראנה, הם נוצרו מהמפשעה של ברהמה (פראג'אפטי). התיאור של הוואיו פוראנה הוא: "האסורות נוצרו תחילה כבנים מהמפשעה שלו (של פראג'אפטי). *אסו* מוגדר על ידי הבראהמנה כמשמעו נשימה. ממנו נוצרו היצורים האלה; מכאן שהם אסורות." המילה משמשת כבר זמן רב כשם כללי לאויבי האלים, כולל הדאיטיות והדנובות וצאצאים אחרים של קשיאפה, אך לא כולל הרקסאסים שצאו מפולסטיה.
+> במובן זה נמצא לה הסבר אחר: המקור אינו עוד אסו, 'נשימה', אלא האות הראשונה *א* נלקחת כקידומת שלילית, והמילה *אסורה* משמעותה 'לא אל'; מכאן, לפי חלק מהדעות, נוצר המילה *סורה*, המשמשת בדרך כלל ל'אל'.
+> לפי הוישנו פוראנה, הם נוצרו מהמפשעה של ברהמה (פראג'אפטי). התיאור של הוואיו פוראנה הוא: "האסורות נוצרו תחילה כבנים מהמפשעה שלו (של פראג'אפטי). *אסו* מוגדר על ידי הבראהמנה כמשמעו נשימה. ממנו נוצרו היצורים האלה; מכאן שהם אסורות." המילה משמשת כבר זמן רב כשם כללי לאויבי האלים, כולל הדאיטיות והדנובות וצאצאים אחרים של קשיאפה, אך לא כולל הרקסאסים שצאו מפולסטיה.
 >
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
+> במובן זה נמצא לה הסבר אחר: המקור אינו עוד אסו, 'נשימה', אלא האות הראשונה *א* נלקחת כקידומת שלילית, והמילה *אסורה* משמעותה 'לא אל'; מכאן, לפי חלק מהדעות, נוצר המילה *סורה*, המשמשת בדרך כלל ל'אל'.
 >
-> [Source: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [מקור: **דאוסון, ג'ון \&lt;1820-1881\&gt;:** מילון קלאסי של מיתולוגיה הינדואית ודת, גיאוגרפיה, היסטוריה וספרות. -- לונדון, טריבנר, 1879. -- ערך.]
 
 ::: media
 ![](/images/lekt1301.webp)
-Fig.: ⟪महिषासुरः⟫
-(Image source: [Details](/arc/licenses#lekt1301))
+דמיון: ⟪महिषासुरः⟫
+(מקור התמונה: [פרטים](/arc/licenses#lekt1301))
 :::
-- **guṇa** m. ⟪गुण⟫ : thread, cord; quality, good quality
-- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : to go, to enter into
-- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : to be, to exist
-- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : to throw, (away-)cast
-- **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : to go
-- **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : to protect, to guard
+- **גוֹנָה** ז. ⟪गुण⟫ : חוט, כבל; איכות, איכות טובה
+- **פָּד** 4 א. (פַּדְיָתֵ), מעבר: פַּדְיָתֵ, PPP פַּנָה ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : ללכת, להיכנס
+- **אָס** 2 פ. (אַסְתִי) ⟪अस्⟫ ⟪अस्ति⟫ : להיות, להתקיים
+- **אָס** 4 פ. (אַסְיַתִי), מעבר: אַסְיָתֵ, PPP אַסְטָה ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : לזרוק, להשליך (הרחוק)
+- **אִי** 2 פ. (אֵתִי), מעבר: אִייָתֵ, PPP אִיתָה ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : ללכת
+- **פָּא** 2 פ. (פָּתִי), מעבר: פָּאייָתֵ, PPP פָּאטָה ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : להגן, לשמור
 
 ::: indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : to drink (traditionally counted among the 1st class)
+**פָּא** 1 פ. (פִיבַתִי), מעבר: פִּייָתֵ, PPP פִּיתָה ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : לשתות (מסורתית נחשבת לקבוצה הראשונה)
 :::
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : to hate, to be hostile
-- **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : to eat, to consume
-- **anna** n. ⟪अन्न⟫ : food (from PPP: *ad-na: that which is eaten)
+- **דְוִישׁ** 2 א. (דְוֵשְׁטִי), מעבר: דְוִישְׂייָתֵ, PPP דְוִשְׁטָה ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : לשנוא, להיות עוין
+- **אַד** 2 פ. (אִתִּי), מעבר: אַדְייָתֵ, PPP אַנָּה ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : לאכול, לצרוך
+- **אַנָּה** נ. ⟪अन्न⟫ : אוכל (מ-PNP: *אד-נה: מה שנאכל)
 
 ::: media
 ![](/images/lekt1304.webp)
@@ -217,7 +217,7 @@ dviṣ 2 U:
 **dveṣa** ⟪द्वेष⟫ : hatred
 :::
 
-## 13.10. Übung
+## 13.10. ܬܪܓܠܐ
 
 A) Translate and convert into active present tense sentences:
 
@@ -258,7 +258,7 @@ B) Translate and convert into past passive sentences:
 ⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
 ⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
 
-## 13.11. Wiederholungsübung
+## 13.11. ܬܶܪܓܳܠܳܐ ܕܬܽܘܚܕܳܐ
 
 A) Translate the following sentences:
 
@@ -332,12 +332,12 @@ E) Translate into Sanskrit:
 
 1. -ṃṣṭ-
 2. -mst-
-3. The goddess was enraged.
-4. By the Buddha's teaching, the people were liberated.
-5. The son danced.
-6. The amulet protected the teacher.
-7. A Brāhmaṇa did not speak a falsehood.
-8. Śūdra women honored the goddess with offerings.
-9. The Buddha has awakened to truth = The Buddha has realized the truth.
-10. The Vedic sages have heard the Śruti.
-11. The sacrificial priests have pressed the Soma.
+3. הֲוָת נְגִידַת אֱלָהָ.
+4. בְּדַעֲתָא דְבוּדָה, אִנְסוּן פַּקְּחוּ.
+5. בַר נָשׁ רֵיקַן.
+6. טְלָמָא חֲסַד לְמוֹרֵה.
+7. בַּר כָּהֲנָא לָא אֲמַר מְלִיל שְׁקַר.
+8. נְשֵׁי שׁוּדְרָא כַבְּדוּ לִנְגִידַת אֱלָהָ בְּקוּרְבָּנַיָא.
+9. בּוּדָה עֲלַיְיהוּ שְׁכִיחַ לִשְׂרָה = בּוּדָה שְׁכִיחַ לִשְׂרָה.
+10. רוּחֵי וְדַאי שָׁמְעוּ לְשְׂרִית.
+11. כָּהֲנַיָא דְקוּרְבָּנַיָא סִימוּ לְסוֹמָה.

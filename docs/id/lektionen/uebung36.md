@@ -8,25 +8,25 @@ last_reconstructed: 2026-05-15
 
 # Exercise 36
 
-A) Form both the reduplicated and the periphrastic perfect forms for the following forms:
+A) Bentuklah bentuk sempurna yang diduplikasi dan periphrastic untuk bentuk-bentuk berikut:
 
 ::: grammar-box
-| Present | Reduplicated | Periphrastic |
+| Sekarang | Diduplikasi | Periphrastic |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪बिभ्रते⟫** | ⟪बभ्रिरे⟫ | ⟪बिभरां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 | ⟪२⟫. **⟪बिभ्यति⟫** | ⟪बिभ्युः⟫ | ⟪बिभयां⟫ ⟪चक्रुः⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 | ⟪३⟫. **⟪जुहोति⟫** | ⟪जुहाव⟫ | ⟪जुहवां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪४⟫. **⟪वेत्ति⟫** | ⟪विवेद⟫ | ⟪विदां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
 :::
-B) Form the periphrastic perfect for the root **⟪आस्⟫** (to sit):
+B) Bentuklah sempurna periphrastic untuk akar **⟪आस्⟫** (duduk):
 
 ::: grammar-box
-| Present | Periphrastic Perfect |
+| Sekarang | Sempurna Periphrastic |
 | :--- | :--- |
 | ⟪१⟫. **⟪आस्ते⟫** | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪२⟫. **⟪आसते⟫** | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 :::
-C) Form the corresponding perfect for the following forms:
+C) Bentuklah sempurna yang sesuai untuk bentuk-bentuk berikut:
 
 ::: grammar-box
 | Present / Imperfect | Perfect |
@@ -50,7 +50,7 @@ C) Form the corresponding perfect for the following forms:
 ## Translations
 
 ⟪१⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ ⟪।⟫ ⟪बुद्ध्यार्यसत्यानि⟫ ⟪प्रज्ञाय⟫ ⟪प्रज्ञया⟫ ⟪च⟫ ⟪दुःखान्मुक्तो⟫ ⟪मोक्तुकामार्यजनान्बोधयामासेति⟫ ⟪भिक्षव⟫ ⟪आहुः⟫ ⟪॥१॥⟫**
-When a son was born to him, the Enlightened One left family and property and went forth from home into homelessness. He understood the Noble Truths with his mind, was freed from suffering through that understanding, and led noble people who desired liberation to insight — thus report the monks.
+Ketika seorang putra lahir baginya, Yang Tercahaya meninggalkan keluarga dan harta benda serta keluar dari rumah menuju kehidupan tanpa rumah. Ia memahami Kebenaran Mulia dengan pikirannya, terbebas dari penderitaan melalui pemahaman itu, dan membimbing orang-orang mulia yang menginginkan pembebasan menuju wawasan — demikian melaporkan para bhikkhu.
 
 ⟪२⟫. **⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञ⟫en ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫**
 The Brāhmaṇas built a fire for the great sacrifice to the gods. While the Brāhmaṇas praised Indra and the other gods, the sacrificial fire consumed the food. Thus, through the sacrifice, the Brāhmaṇs caused the great gods to eat, and had them hear hymns of praise.
@@ -59,7 +59,7 @@ The Brāhmaṇas built a fire for the great sacrifice to the gods. While the Br�
 The Kṣatriya warriors, who guarded justice, defeated the enemies who wanted to conquer the great city, but they did not kill them.
 
 ⟪४⟫. **⟪अधीतवेदद्विजो⟫ ⟪द्विजधर्मं⟫ ⟪वेद⟫ ⟪॥४॥⟫**
-A twice-born person, who has studied the Veda, knows the right and custom of the twice-born.
+Seorang yang lahir dua kali, yang telah mempelajari Weda, mengetahui hak dan kebiasaan orang yang lahir dua kali.
 
 ⟪५⟫. **⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪।⟫ ⟪य⟫ ⟪एवं⟫ ⟪विदुर्नाधीयीरन्⟫ ⟪॥५॥⟫**
 One cannot live solely from science. Whoever knows this should not study.
@@ -79,17 +79,17 @@ Fig.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪�
 **⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫**  
 **⟪सर्वे⟫ ⟪तस्यादृता⟫ ⟪धर्मा⟫ ⟪यस्यैते⟫ ⟪त्रय⟫ ⟪आदृताः⟫ ⟪।⟫**  
 **⟪अनादृतास्तु⟫ ⟪यस्यैते⟫ ⟪सर्वास्तस्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫**
-With that by which one pleases one’s father, the Creator is pleased; with that by which one pleases one’s mother, the Earth is honored; with that by which one pleases the teacher, the Veda is honored. Whoever honors these three honors all regulations; whoever does not honor these, all their actions are fruitless.
+Dengan itu yang memuaskan ayahnya, Sang Pencipta puas; dengan itu yang memuaskan ibunya, Bumi dihormati; dengan itu yang memuaskan guru, Veda dihormati. Siapa pun yang menghormati ketiga hal ini menghormati semua peraturan; siapa pun yang tidak menghormati mereka, semua tindakan mereka sia-sia.
 
-### ⟪२⟫. **⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫** (Behavior toward the Elderly)
+### ⟪२⟫. **⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫** (Perilaku terhadap Orang Tua)
 **⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫**  
 **⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫**  
-One should greet the elderly with proper form, yield one’s seat to them, and stand with folded hands in their presence. When an elder departs, one should follow them.
+Seseorang harus menyapa orang tua dengan bentuk yang tepat, menyerahkan tempat duduknya kepada mereka, dan berdiri dengan tangan terlipat di hadapan mereka. Ketika seorang orang tua pergi, seseorang harus mengikuti mereka.
 
-### ⟪३⟫. **⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫** (Control of the Senses)
+### ⟪३⟫. **⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫** (Pengendalian Indra)
 **⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫**  
 **⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ⟪विज्ञेयो⟫ ⟪जितेन्द्रियः⟫ ⟪॥⟫**  
-If a man neither rejoices nor grieves, whether he hears, touches, sees, tastes, or smells, then he is considered one who has conquered his senses (**⟪जितेन्द्रियः⟫**).
+Jika seorang pria tidak bersukacita maupun bersedih, apakah dia mendengar, menyentuh, melihat, mengecap, atau mencium, maka dia dianggap sebagai orang yang telah menaklukkan indranya (**⟪जितेन्द्रियः⟫**).
 
 ::: media
 ![](/images/uebung060.webp)
@@ -103,47 +103,47 @@ Fig.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ �
 Determine and translate the following word forms:
 
 ::: grammar-box
-| Word Form | Determination | Meaning |
+| Bentuk Kata | Penentuan | Arti |
 | :--- | :--- | :--- |
-| ⟪१⟫. **⟪नयति⟫** | ⟪नी⟫ (1U) 3. sg. P. Ind. Pres. | he leads |
-| ⟪२⟫. **⟪समस्कुर्वन्⟫** | ⟪सम्⟫-⟪कृ⟫ (8U) 3. pl. P. Impf. | they prepared |
-| ⟪३⟫. **⟪स्यात्⟫** | ⟪अस्⟫ (2P) 3. sg. P. Opt. Pres. | he would / should be |
-| ⟪४⟫. **⟪यस्याम्⟫** | ⟪यद्⟫ Loc. sg. f. | in which |
-| ⟪५⟫. **⟪अधीयते⟫** | ⟪अधि⟫-⟪इ⟫ (2Ā) 3. pl. Ā. Ind. Pres. | they study |
-| ⟪६⟫. **⟪प्रोचुः⟫** | ⟪प्र⟫-⟪वच्⟫ (2P) 3. pl. P. Perf. | they proclaimed |
-| ⟪७⟫. **⟪समादधाति⟫** | ⟪सम्⟫-⟪आ⟫-⟪धा⟫ (3U) 3. sg. P. Ind. Pres. | he concentrates himself |
-| ⟪८⟫. **⟪हरेः⟫** | ⟪हरि⟫ (m.) Abl./Gen. sg. | of/from the Yellow (Hari) |
-| ⟪९⟫. **⟪हरे⟫** | ⟪हर⟫ (m.) Loc. sg. | in Śiva (Hara) |
-| ⟪१०⟫. **⟪हरेत्⟫** | ⟪हृ⟫ (1U) 3. sg. P. Opt. Pres. | he would take |
-| ⟪११⟫. **⟪जह्रे⟫** | ⟪हृ⟫ (1U) 3. sg. Ā. Perf. | he took for himself |
-| ⟪१२⟫. **⟪आक्रीणीत⟫** | ⟪आ⟫-⟪क्री⟫ (9U) 3. sg. Ā. Opt. | he would buy |
-| ⟪१३⟫. **⟪व्यक्रियत⟫** | ⟪वि⟫-⟪कृ⟫ (8U) 3. sg. Pass. Impf. | it was changed |
-| ⟪१४⟫. **⟪प्राजहुः⟫** | ⟪प्र⟫-⟪हा⟫ (3P) 3. pl. P. Impf. | they left |
-| ⟪१५⟫. **⟪प्रजहुः⟫** | ⟪प्र⟫-⟪हा⟫ (3P) 3. pl. P. Perf. | they have left |
-| ⟪१६⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 3. sg. Ā. Perf. | he gave for himself |
-| ⟪१७⟫. **⟪दत्ते⟫** | ⟪दा⟫ (3U) 3. sg. Ā. Ind. Pres. | he gives for himself |
-| ⟪१८⟫. **⟪हिते⟫** | ⟪धा⟫ (3U) PPP Loc. sg. m./n. | in the Established |
-| ⟪१९⟫. **⟪हीयते⟫** | ⟪हा⟫ (3P) 3. sg. Pass. Ind. Pres. | he is left |
-| ⟪२०⟫. **⟪जज्ञे⟫** | ⟪ज्ञा⟫ / ⟪जन्⟫ 3. sg. Ā. Perf. | he recognized / was born |
-| ⟪२१⟫. **⟪यज्ञे⟫** | ⟪यज्ञ⟫ (m.) Loc. sg. | in the Sacrifice |
-| ⟪२२⟫. **⟪तेन⟫** | ⟪तद्⟫ Instr. sg. m./n. | by this |
-| ⟪२३⟫. **⟪तेने⟫** | ⟪तन्⟫ (8U) 3. sg. Ā. Perf. | he stretched |
-| ⟪२४⟫. **⟪ततः⟫** | ⟪तन्⟫ (8U) PPP Nom. sg. m. | stretched / (Adv.) thereon |
-| ⟪२५⟫. **⟪सतः⟫** | ⟪अस्⟫ (2P) Part. Pres. P. Gen. sg. | of the Being |
-| ⟪२६⟫. **⟪जगौ⟫** | ⟪गै⟫ (1P) 3. sg. P. Perf. | he sang |
-| ⟪२७⟫. **⟪पशौ⟫** | ⟪पशु⟫ (m.) Loc. sg. | at the Animal |
-| ⟪२८⟫. **⟪मेने⟫** | ⟪मन्⟫ (4Ā) 3. sg. Ā. Perf. | he thought |
-| ⟪२९⟫. **⟪माने⟫** | ⟪मान⟫ (m./n.) Loc. sg. | in Pride / in Measure |
-| ⟪३०⟫. **⟪एतस्मात्⟫** | ⟪एतद्⟫ Abl. sg. m./n. | from this |
-| ⟪३१⟫. **⟪तया⟫** | ⟪तद्⟫ Instr. sg. f. | by her |
-| ⟪३२⟫. **⟪लेभिरे⟫** | ⟪लभ्⟫ (1Ā) 3. pl. Ā. Perf. | they received |
-| ⟪३३⟫. **⟪ओषुः⟫** | ⟪आ⟫-⟪वस्⟫ (1P) 3. pl. P. Perf. | they dwelt with |
-| ⟪३४⟫. **⟪व्यानक्⟫** | ⟪वि⟫-⟪अञ्ज्⟫ (7P) 3. sg. P. Impf. | he revealed |
-| ⟪३५⟫. **⟪युङ्क्ते⟫** | ⟪युज्⟫ (7U) 3. sg. Ā. Ind. Pres. | he connects for himself |
-| ⟪३६⟫. **⟪अपिबत्⟫** | ⟪पा⟫ (1P) 3. sg. P. Impf. | he drank |
+| ⟪१⟫. **⟪नयति⟫** | ⟪नी⟫ (1U) 3. sg. P. Ind. Pres. | ia memimpin |
+| ⟪२⟫. **⟪समस्कुर्वन्⟫** | ⟪सम्⟫-⟪कृ⟫ (8U) 3. pl. P. Impf. | mereka mempersiapkan |
+| ⟪३⟫. **⟪स्यात्⟫** | ⟪अस्⟫ (2P) 3. sg. P. Opt. Pres. | ia akan / harus menjadi |
+| ⟪४⟫. **⟪यस्याम्⟫** | ⟪यद्⟫ Loc. sg. f. | di mana |
+| ⟪५⟫. **⟪अधीयते⟫** | ⟪अधि⟫-⟪इ⟫ (2Ā) 3. pl. Ā. Ind. Pres. | mereka mempelajari |
+| ⟪६⟫. **⟪प्रोचुः⟫** | ⟪प्र⟫-⟪वच्⟫ (2P) 3. pl. P. Perf. | mereka mengumumkan |
+| ⟪७⟫. **⟪समादधाति⟫** | ⟪सम्⟫-⟪आ⟫-⟪धा⟫ (3U) 3. sg. P. Ind. Pres. | ia memusatkan dirinya sendiri |
+| ⟪८⟫. **⟪हरेः⟫** | ⟪हरि⟫ (m.) Abl./Gen. sg. | dari Kuning (Hari) |
+| ⟪९⟫. **⟪हरे⟫** | ⟪हर⟫ (m.) Loc. sg. | di Śiva (Hara) |
+| ⟪१०⟫. **⟪हरेत्⟫** | ⟪हृ⟫ (1U) 3. sg. P. Opt. Pres. | ia akan mengambil |
+| ⟪११⟫. **⟪जह्रे⟫** | ⟪हृ⟫ (1U) 3. sg. Ā. Perf. | ia mengambil untuk dirinya sendiri |
+| ⟪१२⟫. **⟪आक्रीणीत⟫** | ⟪आ⟫-⟪क्री⟫ (9U) 3. sg. Ā. Opt. | ia akan membeli |
+| ⟪१३⟫. **⟪व्यक्रियत⟫** | ⟪वि⟫-⟪कृ⟫ (8U) 3. sg. Pass. Impf. | itu diubah |
+| ⟪१४⟫. **⟪प्राजहुः⟫** | ⟪प्र⟫-⟪हा⟫ (3P) 3. pl. P. Impf. | mereka pergi |
+| ⟪१५⟫. **⟪प्रजहुः⟫** | ⟪प्र⟫-⟪हा⟫ (3P) 3. pl. P. Perf. | mereka telah pergi |
+| ⟪१६⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 3. sg. Ā. Perf. | ia memberikan untuk dirinya sendiri |
+| ⟪१७⟫. **⟪दत्ते⟫** | ⟪दा⟫ (3U) 3. sg. Ā. Ind. Pres. | ia memberikan untuk dirinya sendiri |
+| ⟪१८⟫. **⟪हिते⟫** | ⟪धा⟫ (3U) PPP Loc. sg. m./n. | dalam yang Telah Didirikan |
+| ⟪१९⟫. **⟪हीयते⟫** | ⟪हा⟫ (3P) 3. sg. Pass. Ind. Pres. | ia ditinggalkan |
+| ⟪२०⟫. **⟪जज्ञे⟫** | ⟪ज्ञा⟫ / ⟪जन्⟫ 3. sg. Ā. Perf. | ia mengenali / dilahirkan |
+| ⟪२१⟫. **⟪यज्ञे⟫** | ⟪यज्ञ⟫ (m.) Loc. sg. | dalam Pengorbanan |
+| ⟪२२⟫. **⟪तेन⟫** | ⟪तद्⟫ Instr. sg. m./n. | dengan ini |
+| ⟪२३⟫. **⟪तेने⟫** | ⟪तन्⟫ (8U) 3. sg. Ā. Perf. | ia meregangkan |
+| ⟪२४⟫. **⟪ततः⟫** | ⟪तन्⟫ (8U) PPP Nom. sg. m. | diregangkan / (Adv.) di sana |
+| ⟪२५⟫. **⟪सतः⟫** | ⟪अस्⟫ (2P) Part. Pres. P. Gen. sg. | dari Yang Ada |
+| ⟪२६⟫. **⟪जगौ⟫** | ⟪गै⟫ (1P) 3. sg. P. Perf. | ia bernyanyi |
+| ⟪२७⟫. **⟪पशौ⟫** | ⟪पशु⟫ (m.) Loc. sg. | pada Hewan |
+| ⟪२८⟫. **⟪मेने⟫** | ⟪मन्⟫ (4Ā) 3. sg. Ā. Perf. | ia berpikir |
+| ⟪२९⟫. **⟪माने⟫** | ⟪मान⟫ (m./n.) Loc. sg. | dalam Kesombongan / dalam Ukuran |
+| ⟪३०⟫. **⟪एतस्मात्⟫** | ⟪एतद्⟫ Abl. sg. m./n. | dari ini |
+| ⟪३१⟫. **⟪तया⟫** | ⟪तद्⟫ Instr. sg. f. | dengannya |
+| ⟪३२⟫. **⟪लेभिरे⟫** | ⟪लभ्⟫ (1Ā) 3. pl. Ā. Perf. | mereka menerima |
+| ⟪३३⟫. **⟪ओषुः⟫** | ⟪आ⟫-⟪वस्⟫ (1P) 3. pl. P. Perf. | mereka tinggal bersama |
+| ⟪३४⟫. **⟪व्यानक्⟫** | ⟪वि⟫-⟪अञ्ज्⟫ (7P) 3. sg. P. Impf. | ia mengungkapkan |
+| ⟪३५⟫. **⟪युङ्क्ते⟫** | ⟪युज्⟫ (7U) 3. sg. Ā. Ind. Pres. | ia menghubungkan untuk dirinya sendiri |
+| ⟪३६⟫. **⟪अपिबत्⟫** | ⟪पा⟫ (1P) 3. sg. P. Impf. | ia minum |
 :::: media
 ![](/images/uebung059.webp)
 Fig.: ⟪जगौ⟫
-(Image source: [Details](/en/licenses#uebung059))
+(Sumber gambar: [Details](/en/licenses#uebung059))
 ::::
 :::

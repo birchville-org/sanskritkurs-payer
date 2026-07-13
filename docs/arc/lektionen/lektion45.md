@@ -7,11 +7,11 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lección 45
+# ܠܶܩܨܺܝܳܘܢ ܡܗ
 
-## 45.1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems without vocally ending suffix (continuation)
+## 45.1. ܨܘܪܬܐ ܕܡ̈ܠܝ ܦܥ̈ܠܐ ܕܓܢܣܐ ܕܬܪܝܢ (⟪ܡܨܥܝܐ⟫) athematic stems without vocally ending suffix (continuation)
 
-### 45.1.1. Third Present Class (⟪जुहोत्यादि⟫)
+### 45.1.1. ܕܪܓܐ ܬܠܝܬܝܐ ܕܙܒܢܐ ܗܫܝܐ (⟪जुहोत्यादि⟫)
 
 ⟪हु⟫ 3P
 
@@ -33,10 +33,10 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
 :::
-### 45.1.2. Seventh Present Class (⟪रुधादि⟫)
+### 45.1.2. ܕܪܓܬܐ ܫܒܝܥܝܬܐ ܕܙܒܢܐ ܗܫܝܐ (⟪ܪܘܕܗܐܕܝ⟫)
 
 ::: grammar-box
-**If a final k/g of the root comes between the nasal ṅ and a dental of the ending, then the k/g may optionally drop.**
+**ܐܝܟܢܵܐ ܕܟܹܠ ܚܬܘܡ ܐܘ ܓܹܠ ܕܫܪܫܵܐ ܝܬܝܼܪ ܒܝܼܬ ܢܹܗܿܡ ܕܘܪܟܵܐ ܘܢܹܗܿܡ ܕܫܠܡܵܐ
 
 e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or ⟪यु⟫***⟪ङ्ते⟫***
 :::
@@ -60,10 +60,10 @@ e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or �
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br sig[⟪अरुण्स्⟫] (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
 :::
-## 45.2. The Vocative Singular (⟪आमन्त्रितमेकवचने⟫)
+## 45.2. ܩܪܝܢܐ ܚܕܝܕܝܐ (⟪ܐܡܢܬܪܝܬܡܐܟܐܘܟܐܢܐ⟫)
 
 ::: grammar-box
-**The majority of singular vocatives are the stem with a high-level ending.**
+**רוב קריאת הסמינים הם השורש עם סיום ברמה גבוהה.**
 
 e.g. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** etc.
 
@@ -98,32 +98,32 @@ Exceptions are the Feminines in -ā and -ī, as well as the stems in -in, whose 
 Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 (Image source: [Details](/arc/licenses#lekt4501))
 :::
-## 45.3. Word List
+## 45.3. ܡܠܘܐܐ ܕܡ̈ܠܝܢ
 
 ⟪वा⟫ ... ⟪वा⟫ : either ... or
 
-## 45.4. Practice
+## 45.4. ܬܪܓܡܬܐ
 
 A) Translate into Sanskrit (for past tense forms, please use the imperfect \&lt;⟪लङ्⟫\&gt;):
 
 1\. Du spaltst die (buddhistische) Gemeinde.
 
 ::: indent
-for the schism of the community (⟪सङ्घभेद⟫) see:
+מִן שְׁבֻקָּא דַעֲדָתָא (⟪सङ्घभेद⟫) חֲזוּ:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**פַּיְירֶר, אָלוֹאִיס \&lt;1944 - \&gt;:** וִינַיאָמוּכְחָה: יְסוֹדוֹי דַאִין וּמִשְׁפָּטוֹי דַעֲדָתָא דְתֵרַוָּאדָה. -- פַּרְט א'. -- (חֲלִיפֵי יְסוֹדוֹי דַבּוּדָה). -- _אֶרְאֵי_ [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-4\. Sacred Man, why do you not fear dangers?
+4\. מַלְכָּא קַדִישׁ, לָמָה לָא תְחֵיז דַּעֲרָק?
 
 5\. Father, where are you leaving the family?
 
-7\. Goddess, you should fulfill the desire for happiness of the Vaiśya, who has done meritorious deeds.
+ܡܠܟܬܐ، ܐܢܬ ܨܠܚ ܠܡܕܫܐ ܕܦܘܪܩܢܐ ܕܠܒܝܫ، ܕܥܒܕ ܡܠܬ̈ܐ ܚܫܒܝܢܬ.
 
 5\. Father, where are you leaving the family?
 
 9\. Du löwengleicher Mann, warum richtest du nicht deine ganze Aufmerksamkeit auf das Absolute (Brahman)?
 
-7\. Goddess, you should fulfill the desire for happiness of the Vaiśya, who has done meritorious deeds.
+7\. אֱלָהְתָּא, מַלְיָא יַת רִצוּן דִּשְׂמָחְתָּא דַיַּישְׁוָה, דִּבְעָא עֲבַד מַעֲשֵׂי חוֹבָה.
 
 8\. Elephants, you should not break the shackles.
 

@@ -17,9 +17,9 @@ status: stable
 - vowel sandhi
 - Satzsandhi von -ās
 :::
-## 3.1. Nominative Singular of the Feminine
+## 3.1. स्त्रीलिङ्गस्य प्रथमैकवचनम्
 
-### 3.1.1. Nominative Singular ending in -s
+### 3.1.1. स-कारान्तं प्रथमैकवचनम्
 
 The following nominal stems, which end in a vowel, also form the nominative singular with **-s**:
 
@@ -27,7 +27,7 @@ The following nominal stems, which end in a vowel, also form the nominative sing
 - **Feminines in -i**: e.g., **śruti** f. "hearing" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **Feminines in -u**: e.g., **dhenu** f. "milch cow" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominative Singular without ending
+### 3.1.2. प्रत्ययहीनं प्रथमैकवचनम्
 
 The nominative singular is formed without an ending:
 
@@ -51,7 +51,7 @@ The nominative singular is formed without an ending:
   (**-u-** becomes **-v-** before a vowel, hence **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominative Plural Masculine and Feminine
+## 3.3. पुंल्लिङ्गस्त्रीलिङ्गयोः प्रथमाबहुवचनम्
 
 ::: grammar-box
 The ending of the nominative plural in the masculine and feminine is **-as**.

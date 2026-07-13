@@ -22,17 +22,17 @@ features:
     details: Erbaut auf dem Fundament von VitePress für maximale Geschwindigkeit.
 ---
 
-::: note-box  Version 1.5 — More Languages & Editor for Authors
-**Neu in v1.5 (Juli 2026):**
+::: note-box  Version 1.6 — Global Integrity & Stabilität
+**Neu in v1.6 (Juli 2026):**
 
-- **Zusätzliche automatisch übersetzte Sprachen (Qualität nicht gesichert; Machbarkeitsstudie ohne Lektoren/Kuratoren)
-- **Sanskrit Typografie:** Systemweite Vereinheitlichung und farbliche Hervorhebung von Devanagari in allen Übersetzungssprachen.
-- **PWA Verbesserungen:** Weitere Stabilisierung der Progressive Web App für die Offline-Nutzung.
-- **Autoren Version mit integriertem Markdown Editor:** Kompletter Editor für Lektoren mit persönlichem Login.
+- **100% Completion in 19 Sprachen:** Arabisch, Hebräisch, Aramäisch, Vereinfachtes Chinesisch, Indonesisch, Hindi, Tamil, Punjabi, Latein, Rumänisch und Rumantsch Grischun sind nun lückenlos maschinell übersetzt (Qualität ungesichert; reine Machbarkeitsstudie ohne Lektoren).
+- **RTL-Support:** Native Layout-Unterstützung für rechtsläufige Sprachen (Arabisch, Hebräisch) inklusive komplett lokalisierter Bedienoberfläche.
+- **PWA & Offline-First:** Vollständige und fehlerfreie Offline-Nutzung sämtlicher Kursinhalte über alle aktiven Sprachversionen hinweg.
+- **Autoren Version & Editor:** Kompletter Editor für Lektoren (QA-Viewer) mit asynchronem KI-Fallback-System für extrem stabile Massenübersetzungen.
 
 **Bemerkungen und Fehlermeldungen willkommen an:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Als Lektor oder Kurator mitwirken:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)**
+**Als Lektor oder Kurator mitwirken:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 
-- Für Autoren (und wer einen leichten Markdown Standalone-Editor nutzen möchte), steht ein open-source editor zur Verfügung auf https://github.com/marcodem/zentauri
+- Für Autoren (und wer einen leichten Markdown Standalone-Editor nutzen möchte), steht ein Open-Source-Editor zur Verfügung auf https://github.com/marcodem/zentauri
 
 :::

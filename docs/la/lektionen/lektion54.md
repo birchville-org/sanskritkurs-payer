@@ -113,7 +113,7 @@ In Bhagavadgītā II Triṣṭubhs et Jagatīs determinate.
 
 Exemplum recitationis: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Accessus die 2009-01-28
 
-## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫)
+## 54.5. Typi formationis Aoristi (⟪luṅ⟫)
 
 ::: grammar-box
 **Commune omnibus typis formationis Aoristi (⟪लुङ्⟫) est Augmentum a-, quod secundum easdem regulas ac in Imperfecto (⟪लङ्⟫) praepositum est.**
@@ -179,7 +179,7 @@ Ad ⟪भू⟩ 1P radix-aoristus sic formatur:
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | *⟪अभूवन्⟫* (!!!) |
 :::
-### 54.6.1. Der Aorist der 3.sg.Passiv
+### 54.6.1. Der Aorist der 3.sg.Passivum
 
 Forma specialis aoris radicalem est aoristus 3.sg.passivi. Hic ab omnibus radiculis formari potest.
 

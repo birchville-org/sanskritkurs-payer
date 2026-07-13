@@ -26,7 +26,7 @@ The Smṛti says that a Brahmin does not speak untruth.
 A Kṣatriya asks the Brahmin about dharma.
 
 ⟪६⟫. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ ⟪।⟫
-Thus the Brahmin offers a sacrifice to the god.
+Dengan demikian, seorang Brahmana mempersembahkan korban kepada dewa.
 
 ⟪७⟫. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ ⟪।⟫
 The Vaiśyā woman thinks that her son does evil.
@@ -72,7 +72,7 @@ B) Put the sentences from A) into passive construction
 
 ⟪१२⟫. ⟪तेन⟫ ⟪श्रावकेण⟫ ⟪बुद्धो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪॥⟫
 
-C) In the sentences from A), where it makes sense, put subject, object, and predicate into the plural
+[C) In den Sätzen aus A), wo es sinnvoll ist, setze Subjekt, Objekt und Prädikat ins Plural]
 
 ⟪१⟫. ⟪ऋषयः⟫ ⟪सत्यं⟫ ⟪वदन्ति⟫ ⟪।⟫
 
@@ -98,7 +98,7 @@ C) In the sentences from A), where it makes sense, put subject, object, and pred
 
 ⟪१२⟫. ⟪ते⟫ ⟪श्रावका⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छन्ति⟫ ⟪॥⟫
 
-D) Form the passive construction for the sentences formed in C)
+[D0] D) Bentuklah konstruksi pasif untuk kalimat-kalimat yang dibentuk dalam C)
 
 ⟪१⟫. ⟪ऋषिभिः⟫ ⟪सत्यमुद्यते⟫ ⟪।⟫
 
@@ -155,7 +155,7 @@ A) Translate into Sanskrit using passive constructions:
 
 ⟪ब्राह्मनैर्देवीज्यते⟫ ⟪।⟫
 
-6. The Śūdra woman goes to the village.
+6. Wanita Śūdra pergi ke desa.
 
 ⟪शूद्रया⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
 
@@ -165,18 +165,18 @@ A) Translate into Sanskrit using passive constructions:
 
 B)
 
-1. State the duties of all twice-born using a Dvandva. Resolve the compound in Sanskrit.
+1. Nyatakan kewajiban semua yang lahir dua kali menggunakan Dvandva. Uraikan majemuk tersebut dalam bahasa Sanskerta.
 
 ⟪इज्याध्ययनदानानि⟫ = ⟪इज्याध्ययनं⟫ ⟪दानं⟫ ⟪च⟫
 
-2. State the duties of the Vaiśyas using a Dvandva. Resolve the compound in Sanskrit.
+2. Nyatakan kewajiban para Vaiśya menggunakan Dvandva. Uraikan majemuk tersebut dalam bahasa Sanskerta.
 
 ⟪कृषिवाणिज्यपाशुपाल्यकुसीदानि⟫ = ⟪कृषीर्वाणिज्यं⟫ (⟪वाणिज्या⟫, ⟪वणिज्या⟫) ⟪कुसीदं⟫ ⟪च⟫ ⟪।⟫
 
 C) Translate:
 
 ⟪१⟫. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ ⟪।⟫
-The ear hears. With the ear, one hears.
+Telinga mendengar. Dengan telinga, seseorang mendengar.
 
 ⟪२⟫. ⟪कर्षकैः⟫ ⟪कृष्यते⟫ ⟪।⟫
 Farmers plow.
@@ -194,12 +194,12 @@ A Brahmin speaks no untruth.
 Itarā is a Śūdra woman.
 
 ⟪७⟫. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ ⟪।⟫
-Auxiliary sciences of the Veda are: phonetics, ritualistics, grammar, etymology, metrics, and calendrical science.
+Ilmu-ilmu pembantu Veda adalah: fonetik, ritualistik, tata bahasa, etimologi, metrik, dan ilmu kalender.
 
 ⟪८⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ⟪॥⟫
 Sciences are: philosophy, Vedic studies, economics, and political science.
 
-D) Translate and put the agent, object, and verb into the plural in Sanskrit:
+[D0] D) Terjemahkan dan ubah agen, objek, dan kata kerja menjadi bentuk jamak dalam bahasa Sanskerta:
 
 ⟪१⟫. ⟪फलमश्नुते⟫ ⟪।⟫
 He receives a fruit.

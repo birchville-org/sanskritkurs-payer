@@ -11,7 +11,7 @@ status: stable
 
 ## 21.1. Ulteriurs stèims da presens sin -nt
 
-### 21.1.1. Partizip present (⟪लडादेशः⟫) Parasmaipada
+### 21.1.1. Particip present (⟪लडादेशः⟫) Parasmaipada
 
 ::: grammar-box
 Quest participi è ina furmaziun nominala dal stem da presens, uschia in ver participi. El è in adjektiv che inditgescha che ina persuna u ina chaussa fa actualmain quai ch'è exprimì tras la radis verbala (+ prefix), mentr'autra chaussa accadia. Cun quai po era vegnir exprimì in stadi permanent.

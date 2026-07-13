@@ -11,7 +11,7 @@ status: stable
 
 ## 46.1. Formation des formes verbales de la 2ᵉ personne (⟪मध्यमः⟫) Parfait (⟪लिट्⟫)
 
-### 46.1.1. Endungen
+### 46.1.1. Terminaisons
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -336,7 +336,7 @@ Le parfait périphrastique se forme à partir de :
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
 :::
-## 46.2. Wortliste
+## 46.2. Liste de mots
 
 ⟪सम⟫ 3 : égal, juste, semblable
 
@@ -580,7 +580,7 @@ par ex.
 Fig. : [⟪भोः⟫](/fr/licenses#lekt4611)
 (Source de l'image : [Détails](/fr/licenses#lekt4611))
 :::
-## 46.3. Übung
+## 46.3. Exercice
 
 A) Déterminez et traduisez les formes suivantes :
 

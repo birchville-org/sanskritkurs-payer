@@ -7,7 +7,7 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 10
+# 第10课
 
 ::: deleteme-box
 **在本课中，您将学习：**
@@ -51,7 +51,7 @@ status: stable
 **梵语被动句在德语中通常不能用被动句来表达，因为德语的被动语态具有完全不同的文体功能。**
 ---
 
-## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
+## 10.2. 工具格（tṛtīyā f. = ⟪तृतीया⟫ = “第三格词尾”）
 
 ::: grammar-box
 **工具格（tṛtīyā）的常规词尾：**
@@ -70,9 +70,9 @@ status: stable
 
 | | 工具格单数 | 工具格复数 |
 | :--- | :--- | :--- |
-| **以 -i 结尾的中性名词**::brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
-| **以 -u 结尾的中性名词**::brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
-| **以 -ā 结尾的阴性名词**::brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
+| **以 -i 结尾的中性名词**::br诗人:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
+| **以 -u 结尾的中性名词**::br牲畜:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
+| **以 -ā 结尾的阴性名词**::br神灵:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
 
 **以-a结尾的阳性和中性名词（单数和复数不规则变化）：**
 
@@ -104,7 +104,7 @@ status: stable
 :::
 ---
 
-### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
+### 10.2.1. 工具格（tṛtīyā = ⟪तृतीया⟫）的用法
 
 ::: grammar-box
 **工具格（tṛtīyā）主要用于回答以下问题：**
@@ -152,11 +152,11 @@ status: stable
 :::
 ---
 
-## 10.4. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
+## 10.4. 被动语态，现在时直陈式（yak = ⟪यक्⟫）
 
 ::: grammar-box
 **构成：**
-**(meist) tiefstufige Wurzel + -ya- + Ātmanepada-Endung**
+**(通常) 低等级词根 + -ya- + 自我受益语尾**
 :::
 例如：
 
@@ -204,12 +204,12 @@ status: stable
    * 一种为 **-ā-ya-**（长音 **ā** 代表一个假设的长鼻音）
 
 例如，**tan** 8 U.
-   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (源自 \*tn-ya-nte)
+* **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
+* **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (源自 \*tn-ya-nte)
 
 ---
 
-## 10.5. Wortliste
+## 10.5. 词汇表
 
 **学习以下词汇：**
 
@@ -245,7 +245,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 - **anṛta** n. ⟪अनृत⟫ ：不真实，谎言（与 **satya** 相对）
 
 ::: note-box
-  Wortbildung **an-** („un-“) + **ṛta** n.
+Wortbildung **an-** („un-“) + **ṛta** n.
 
 **ṛta** ist ein zentraler Begriff im Veda, dessen Übersetzung umstritten ist: „Wahrheit“ (Lüders, Thieme), „Ordnung“ (Renou).
 :::
@@ -263,7 +263,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 
 ---
 
-## 10.6. Übung
+## 10.6. 练习
 
 **A) Bilden Sie das Passiv zu folgenden Verbformen (mit Übersetzung der Verbform):**
 
@@ -330,7 +330,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 
 ---
 
-## 10.7. Wortliste 2
+## 10.7. 词汇表 2
 
 - **makṣikā** f. ⟪मक्षिका⟫ : 苍蝇，蜜蜂
 - **vraṇa** m. ⟪व्रण⟫ : 伤口，错误，损害
@@ -359,7 +359,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 
 ---
 
-## 10.8. Lese- und Übersetzungsübung
+## 10.8. 阅读理解与翻译练习
 
 **阅读并翻译，转换为被动语态：**
 

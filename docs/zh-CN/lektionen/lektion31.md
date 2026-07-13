@@ -4,9 +4,9 @@ lesson_id: 31
 status: stable
 ---
 
-# Lektion 31
+# 第31课
 
-## 31.1. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.")
+## 31.1. 第七现在时类（⟪रुधादि⟫ = "⟪रुध्⟫"等）
 
 ::: grammar-box
 **教育：**
@@ -71,8 +71,8 @@ status: stable
 **PPP ⟪युक्त⟫**
 **不定式 ⟪योक्तुम्⟫**
 
-davon:
-**⟪युग⟫ n. → ⟪युग⟫ n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter:
+来自：
+**⟪युग⟫ n. → ⟪युग⟫ n.:** 轭，对，时代（有四个时代：
 1. **⟪कृत⟫**
 2. **⟪त्रेता⟫**
 3. **⟪द्वापर⟫**
@@ -176,7 +176,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪शरीर⟫ n.:** 身体，躯体
 
-## 31.3. Übung
+## 31.3. 练习
 
 A) 翻译以下句子并分解复合词：
 
@@ -216,7 +216,7 @@ B) 为以下第七类词根，构成第三人称单数和复数，P（Parasmaipa
 
 ::: deleteme-box
 
-**lekt3101:** Yoga-Darstellung. [Bildquelle: Flickr, 2008-12-25. CC BY]
+**lekt3101:** 瑜伽图示。[图片来源：Flickr，2008-12-25。CC BY]
 
 **lekt3102:** 卡塔克利舞（Kathakali）排练，科钦。[图片来源：winchrisabi。Flickr，2008-12-25。CC BY]
 

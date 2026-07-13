@@ -7,7 +7,7 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 12
+# 第12课
 
 ::: deleteme-box
 **在本课中，您将学习：**
@@ -19,7 +19,7 @@ status: stable
 :::
 ---
 
-## 12.1. Partizip Perfekt Passiv (PPP)
+## 12.1. 被动完成分词 (PPP)
 
 一种构成过去时被动句的方法是，使用所谓的“完成被动分词”（PPP）结构。
 
@@ -44,10 +44,10 @@ status: stable
 :::
 ---
 
-### 12.1.2. Schema I 对于不及物动词和运动动词
+### 12.1.2. 模式 I 对于不及物动词和运动动词
 
 ::: grammar-box
-**Agent (kartṛ) im Nominativ (prathamā) -- Partizip Perfekt Passiv**
+**Agent (kartṛ) 在主格 (prathamā) 中 -- 过去被动分词**
 
 在这种情况下，过去分词（PPP）与施事在数、格和性上保持一致。不及物动词（没有直接宾语的动词）和表示运动的动词中，过去分词“被动”形式具有主动意义。
 
@@ -56,7 +56,7 @@ status: stable
 :::
 ---
 
-### 12.1.3. Schema II für intransitive Verben und Verben der Bewegung
+### 12.1.3. 不及物动词与移动动词的模式II
 
 ::: grammar-box
 **工具格（tṛtīyā）中的施事者（kartṛ）——主格单数中性过去被动分词（PPP）**
@@ -86,15 +86,15 @@ Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in e
 （通常）最低等级的词根
 
 - **+ -ta**
-  - mit Bindevokal **-i-** davor: **-ita**
-  - ohne Bindevokal: **-ta**
+- 带连接元音 **-i-**：**-ita**
+- 无连接元音：**-ta**
 - **+ -na**
 
 阴性词干为：**-tā**，**-itā**，**-nā**；中性词按 **phala** n. 变格。
 :::
 ---
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. 以 -ta 结尾的PPP (kta)
 
 #### 12.3.1.1. 无连接元音-i-（aniṭ）
 
@@ -125,7 +125,7 @@ Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in e
 :::
 #### 12.3.1.2. 带连接元音 -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = „mit (*sa-*) dem后缀前缀的（*-i-*）*t*“（即，带有连接元音 *i*）。
+*seṭ* = *sa-iṭ* = “带有（*sa-*）后缀前缀的（*-i-*）*t*”（即，带有连接元音 *i*）。
 
 **Beispiele:**
 
@@ -156,7 +156,7 @@ Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in e
 :::
 ---
 
-## 12.5. Wortliste
+## 12.5. 词汇表
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्बुध्यतेबोधतिबुद्ध⟫ : 觉醒，获得觉悟，认知；PPP **buddha** 3 已觉醒，因此 **Buddha** = “觉醒者”（非：“觉悟者”）
 
@@ -248,7 +248,7 @@ Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in e
 
 ---
 
-## 12.6. Übung
+## 12.6. 练习
 
 **A) 根据[第7课](/lektionen/lektion07)练习A中的主动句，构成过去时的被动句；对于不及物动词和表示运动的动词，构成过去时的主动句。**
 

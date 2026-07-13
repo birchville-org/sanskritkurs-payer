@@ -1,15 +1,15 @@
 ---
-title: Lesson 45
-subtitle: "Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems without vocally ending suffix (continuation)"
+title: Pelajaran 45
+subtitle: "Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) akar athematis tanpa akhiran vokal (lanjutan)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
-category: "Grammar"
-status: stable
+category: "Tata Bahasa"
+status: stabil
 ---
 
 # Lesson 45
 
-## 45.1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems without vocally ending suffix (continuation)
+## 45.1. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) akar atematis tanpa akhiran vokal (lanjutan)
 
 ### 45.1.1. Third Present Class (⟪जुहोत्यादि⟫)
 
@@ -19,9 +19,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
+| **Indicative Present**:br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \&lt;⟪जुहुषे⟫\&gt; | \&lt;⟪जुहुध्वे⟫\&gt; |
+| **Imperfect**:br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \&lt;⟪अजुहुथास्⟫\&gt; | \&lt;⟪अजुहुध्वम्⟫\&gt; |
+| **Optative**:br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \&lt;⟪जुह्वीथास्⟫\&gt; | \&lt;⟪जुह्वीध्वम्⟫\&gt; |
 :::
 ⟪धा⟫ 2U
 
@@ -36,7 +36,7 @@ status: stable
 ### 45.1.2. Seventh Present Class (⟪रुधादि⟫)
 
 ::: grammar-box
-**If a final k/g of the root comes between the nasal ṅ and a dental of the ending, then the k/g may optionally drop**
+**Jika k/g akhir dari akar berada di antara nasal ṅ dan dental pada akhiran, maka k/g dapat secara opsional hilang**
 
 e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or ⟪यु⟫***⟪ङ्ते⟫***
 :::
@@ -60,10 +60,10 @@ e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or �
 | **Imperfect**:br⟪लङ्⟫ | ⟪अरुणत्⟫:brfrom a-ru-ṇa-dh + s:br ***⟪अरुण्स्⟫*** (irreg.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
 | **Optative**:br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
 :::
-## 45.2. The Vocative Singular (⟪आमन्त्रितमेकवचने⟫)
+## 45.2. Vokatif Tunggal (⟪आमन्त्रितमेकवचने⟫)
 
 ::: grammar-box
-**Most vocatives of the singular are the stem with a high-grade ending.**
+**Sebagian besar kata seru tunggal adalah batang dengan akhiran tingkat tinggi.**
 
 e.g. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** etc.
 
@@ -72,30 +72,30 @@ e.g. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन�
 ::: no-header
 | | Vocative Singular |
 | --- | --- |
-| Masculine nouns ending in -a | ⟪देव⟫ |
-| Neuter nouns ending in -a | ⟪फल⟫ |
-| Feminine nouns ending in -ā | ⟪देवते⟫ |
-| Masculine nouns ending in -i | ⟪कवे⟫ |
-| Feminine nouns ending in -i | ⟪मते⟫ |
-| Masculine nouns ending in -u | ⟪शत्रो⟫ |
-| Feminine nouns ending in -u | ⟪धेनो⟫ |
-| Feminine nouns ending in -ī | ⟪देवि⟫ |
-| Masculine nouns ending in -ṛ | ⟪पितर्⟫ |
-| Feminine nouns ending in -ṛ | ⟪मातर्⟫ |
-| Masculine nouns ending in -an | ⟪राजन्⟫ |
-| Neuter nouns ending in -an | ⟪नामन्⟫:br⟪नाम⟫ |
-| Masculine nouns ending in -man/-van | ⟪आत्मन्⟫ |
-| Masculine nouns ending in -in | ⟪बलिन्⟫ |
-| Masculine nouns ending in -ant | ⟪बलिन्⟫:br⟪बलि⟫ |
+| Kata benda maskulin yang berakhir dengan -a | ⟪देव⟫ |
+| Kata benda netral yang berakhir dengan -a | ⟪फल⟫ |
+| Kata benda feminin yang berakhir dengan -ā | ⟪देवते⟫ |
+| Kata benda maskulin yang berakhir dengan -i | ⟪कवे⟫ |
+| Kata benda feminin yang berakhir dengan -i | ⟪मते⟫ |
+| Kata benda maskulin yang berakhir dengan -u | ⟪शत्रो⟫ |
+| Kata benda feminin yang berakhir dengan -u | ⟪धेनो⟫ |
+| Kata benda feminin yang berakhir dengan -ī | ⟪देवि⟫ |
+| Kata benda maskulin yang berakhir dengan -ṛ | ⟪पितर्⟫ |
+| Kata benda feminin yang berakhir dengan -ṛ | ⟪मातर्⟫ |
+| Kata benda maskulin yang berakhir dengan -an | ⟪राजन्⟫ |
+| Kata benda netral yang berakhir dengan -an | ⟪नामन्⟫:br⟪नाम⟫ |
+| Kata benda maskulin yang berakhir dengan -man/-van | ⟪आत्मन्⟫ |
+| Kata benda maskulin yang berakhir dengan -in | ⟪बलिन्⟫ |
+| Kata benda maskulin yang berakhir dengan -ant | ⟪बलिन्⟫:br⟪बलि⟫ |
 | mahānt m. | ⟪महन्⟫ |
 | mahānt n. | ⟪महत्⟫:br= Nominative |
-| Masculine nouns ending in -mant/-vant | ⟪गुणवन्⟫ |
-| Neuter nouns ending in -mant/-vant | ⟪गुणवत्⟫:br= Nominative |
-| Pronouns | a vocative is not formed |
+| Kata benda maskulin yang berakhir dengan -mant/-vant | ⟪गुणवन्⟫ |
+| Kata benda netral yang berakhir dengan -mant/-vant | ⟪गुणवत्⟫:br= Nominative |
+| Kata ganti | tidak dibentuk vocatif |
 :::: media
 ![](/images/lekt4501.webp)
 Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
-(Image source: [Details](/en/licenses#lekt4501))
+(Sumber gambar: [Details](/en/licenses#lekt4501))
 ::::
 :::
 ## 45.3. Word List
@@ -104,16 +104,16 @@ Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 
 ## 45.4. Exercise
 
-A) Translate into Sanskrit (for past tense forms, please use the imperfect \<⟪लङ्⟫\>):
+A) Translate into Sanskrit (for past tense forms, please use the imperfect \&lt;⟪लङ्⟫\&gt;):
 
 1\. You are dividing the (Buddhist) community.
 
 ::: indent
-regarding the schism of the community (⟪सङ्घभेद⟫) see:
+mengenai perpecahan komunitas (⟪सङ्घभेद⟫) lihat:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic concepts of the monastic rules and monastic law of the Theravāda. -- Part I. -- (Materials on the basic concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Konsep dasar aturan monastik dan hukum monastik Theravāda. -- Bagian I. -- (Bahan tentang konsep dasar Buddhisme). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-2\. Have you enjoyed the earth?
+2\. Apakah Anda menikmati bumi?
 
 3\. Have you received a gift from the king?
 
@@ -121,9 +121,9 @@ regarding the schism of the community (⟪सङ्घभेद⟫) see:
 
 5\. Father, where are you leaving the family?
 
-6\. Śūdra woman, have you carried the load into the house of the rich Brahmin?
+6\. Wanita Śūdra, apakah kamu telah membawa beban ke dalam rumah Brahmin yang kaya?
 
-7\. Goddess, you should fulfill the wish for happiness of the Vaiśya, who has performed meritorious deeds.
+7\. Dewi, kamu harus memenuhi keinginan kebahagiaan dari Vaiśya, yang telah melakukan perbuatan mulia.
 
 8\. Elephants, you should not break the shackles.
 

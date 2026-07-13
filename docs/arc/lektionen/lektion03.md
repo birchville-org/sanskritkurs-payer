@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 3
+# ܕܪܫܐ 3
 
 ::: deleteme-box
 **In dieser Lektion lernen Sie:**
@@ -17,29 +17,29 @@ status: stable
 - Vokalsandhi
 - Satzsandhi von -ās
 :::
-## 3.1. Nominativ Singular des Femininums
+## 3.1. ܫܡܐ ܚܕܝܐ ܕܢܩܒܬܐ
 
-### 3.1.1. Nominativ Singular auf -s
+### 3.1.1. ܫܡܐ ܡܠܝܠܝܐ ܕܚܕܝܘܬܐ ܥܠ -ܣ
 
-The following nominal stems, which end in a vowel, also form the nominative singular with **-s**:
+Die folgenden Nomenstämme, die auf einen Vokal enden, bilden auch den Nominativ Singular mit **-s**:
 
 ::: grammar-box
 - **Feminines in -i**: e.g., **śruti** f. "hearing" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **Feminines in -u**: e.g., **dhenu** f. "milch cow" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominative singular without ending
+### 3.1.2. ܫܡܵܢܵܝܬܵܐ ܚܕܵܢܵܝܬܵܐ ܕܠܵܐ ܚܲܪܬܵܐ
 
 The nominative singular is formed without an ending:
 
 ::: grammar-box
-- **Feminines in -ā**: e.g., **devatā** f. "deity" -- Nom. sg.: **devatā** = ⟪देवता⟫
-- **Feminines in -ī**: e.g., **devī** f. "goddess" -- Nom. sg.: **devī** = ⟪देवी⟫
+- **النسوة في -ā**: مثلاً، **devatā** مؤنث "إلهة" -- المرفوع المفرد: **devatā** = ⟪देवता⟫
+- **النسوة في -ī**: مثلاً، **devī** مؤنث "إلهة" -- المرفوع المفرد: **devī** = ⟪देवी⟫
 :::
 ::: important
-**Attention!** In addition, there are monosyllabic feminine root nouns in -ī whose nominative singular ends in -s: e.g., dhī f. "thought" -- Nom. sg.: dhīs = ⟪धीस्⟫. Also, lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "boat" and tantrī (⟪तन्त्री⟫) f. "string" form the nominative singular irregularly with -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
+**انتبه!** بالإضافة إلى ذلك، هناك أسماء جذر مؤنثة أحادية المقطع في -ī ينتهي مرفوع مفرد منها بـ-s: مثلاً، dhī مؤنث "فكرة" -- المرفوع المفرد: dhīs = ⟪धीस्⟫. أيضاً، lakṣmī (⟪लक्ष्मी⟫) مؤنث، tarī (⟪तरी⟫) مؤنث "قارب" و tantrī (⟪तन्त्री⟫) مؤنث "وتر" تشكل المرفوع المفرد بشكل غير منتظم مع -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
-## 3.2. Formation of Feminines from Masculines
+## 3.2. ܐܣܟܝܡܐ ܕܢܩܒܬ̈ܐ ܡܢ ܕܟܪ̈ܐ
 
 ::: grammar-box
 **Masculines ending in -a:**
@@ -54,18 +54,18 @@ The nominative singular is formed without an ending:
 ## 3.3. Nominativ Plural Maskulinum und Femininum
 
 ::: grammar-box
-The ending of the Nominative Plural in the Masculine and Feminine is **-as**.
-- **Masculines ending in -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
-- **Feminines ending in -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
-- **Masculines ending in -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
-- **Feminines ending in -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
-- **Feminines ending in -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
-- **Masculines ending in -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
-- **Feminines ending in -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
+סוף הרבים בלשון זכר ונקבה הוא **-as**.
+- **זכרים המסתיימים ב-a**: **deva- + -as** » **devās** = ⟪देवास्⟫
+- **נקבות המסתיימות ב-ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+- **זכרים המסתיימים ב-i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+- **נקבות המסתיימות ב-i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+- **נקבות המסתיימות ב-ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+- **זכרים המסתיימים ב-u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+- **נקבות המסתיימות ב-u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 :::
-Note: **e** is the strong grade (**guṇa**) of **i**, and **o** is the strong grade of **u**.
+הערה: **e** הוא הדרגה החזקה (**guṇa**) של **i**, ו-**o** הוא הדרגה החזקה של **u**.
 
-## 3.4. Vokalsandhi
+## 3.4. ܣܢܕܗܝ ܕܩ̈ܠܐ
 
 ::: grammar-box
 **Simple vowels that differ only in length, or not at all, "merge" into the corresponding long vowel:**
@@ -78,11 +78,11 @@ e.g.
 
 devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā is a deity" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā is the goddess of food and cooking; she is regarded as an embodiment of Pārvatī, Śiva's consort.)
+> (ܐܢܢܲܦܘܪܼܢܵܐ ܗܝ ܡܠܟܬ ܓܘܚܐ ܘܥܕܪܢܵܐ؛ ܗܝ ܡܫܬܥܒܕܬ ܟܠܘܠܐ ܕܦܲܪܬ݂ܵܐ̈ܝ ܟܘܼܪܬ݂ܵܐ ܕܫܝܘܼܐ.)
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī is a goddess" = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī is the consort of the god Indra.)
+> (ܝܕܪܰܐ ܗܝ ܫܘܬܦܬܵܐ ܕܐܠܗܳܐ ܝܕܪܰܐ.)
 
 ::: media
 ![](/images/lekt0301.webp)
@@ -101,7 +101,7 @@ e.g.
 
 devī + umā » devy umā "Umā is a / the goddess" = ⟪देव्युमा⟫
 
-> (Umā is a name for Pārvatī, the consort of Śiva)
+> (ܘܡܐ ܗܝ ܫܡܐ ܠܩܕܪܬܐ ܦܪܘܬܝܐ، ܫܘܟܬܗ ܕܣܝܒܐ)
 
 ::: grammar-box
 **-a / -ā before dissimilar vowel:**
@@ -122,7 +122,7 @@ e.g.
 
 śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi von -ās
+## 3.5. ܨܰܢܕܺܝ ܕܦܶܠܓܳܐ ܕ-ܐܳܣ
 
 ::: grammar-box
 **-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
@@ -131,26 +131,26 @@ e.g.
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas are twice-born" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
-## 3.6. Wortliste
+## 3.6. ܡܠܘܐܐ
 
 **Learn the following words:**
 
-**śruti** f. = ⟪श्रुति⟫ : hearing, the eternal tradition (designation for the Vedas and Brāhmaṇa's).
+**śruti** f. = ⟪श्रुति⟫ : ܐܘܬܒܪ, ܕܝܠܗ ܥܘܬܝܩܐ (ܡܕܠܛ ܥܠ ܬܘܪܝܐ ܘܒܪܡ̈ܢܬܐ).
 
-**smṛti** f. = ⟪स्मृति⟫ : recollection, memory, meditative recollection = mindfulness, tradition (counter-concept to **śruti**). Encompasses:
-- the six **vedāṅga** n. (⟪वेदाङ्ग⟫)
-1. **śikṣā** f. (⟪शिक्षा⟫): correct pronunciation
-2. **chandas** n. (⟪छन्दस्⟫): meter
-3. **vyākaraṇa** n. (⟪व्याकरण⟫): grammar
-4. **nirukta** n. (⟪निरुक्त⟫) : word explanation, etymology
-5. **jyotiṣa** n. (⟪ज्योतिष⟫) : astronomy, calendar science
-6. **kalpa** m. (⟪कल्प⟫) : ritual
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : treatises on the performance of great sacrifices
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : treatises on the ceremonies and sacrifices of daily life
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) and **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : treatises on law and custom (right conduct)
-- the great epics **mahābhārata** n. (⟪महाभारत⟫) and **rāmāyaṇa** n. (⟪रामायण⟫)
-- the **purāṇa** n. (⟪पुराण⟫)
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : treatises on worldly wisdom
+**smṛti** f. = ⟪स्मृति⟫ : ܕܝܩܢܘܬܐ, ܙܟܪܢܘܬܐ, ܕܝܩܢܘܬܐ ܡܠܦܢܝܬܐ = ܥܣܩܘܬܐ, ܡܪܝܘܬܐ (ܩܠܛܢܐ ܥܝܕܪܐ ܠ **śruti**). ܬܚܡ:
+- ܫܪܒܝ **vedāṅga** n. (⟪वेदाङ्ग⟫)
+1. **śikṣā** f. (⟪शिक्षा⟫): ܐܘܬܒܪ ܩܕܝܡ
+2. **chandas** n. (⟪छन्दस्⟫): ܡܢܘܗ
+3. **vyākaraṇa** n. (⟪व्याकरण⟫): ܣܝܡ
+4. **nirukta** n. (⟪निरुक्त⟫) : ܦܫܩܐ ܕܠܫܢܐ, ܬܪܡܘܣ
+5. **jyotiṣa** n. (⟪ज्योतिष⟫) : ܣܘܦܪܐ, ܢܗܪܐ
+6. **kalpa** m. (⟪कल्प⟫) : ܥܒܕܐ
+- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : ܟܬܒ̈ܐ ܥܠ ܦܪܘܫܟܢܬܐ ܕܙܒܚ̈ܝܢ ܪܒ̈ܬܐ
+- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : ܟܬܒ̈ܐ ܥܠ ܦܪܘܫܟܢܬܐ ܕܚܝܠܦ̈ܐ ܘܙܒܚ̈ܝܢ ܕܚܫܒܐ
+- **dharmasūtra** n. (⟪धर्मसूत्र⟫) ܘ **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : ܟܬܒ̈ܐ ܥܠ ܕܝܢܐ ܘܡܪܝܘܬܐ (ܫܠܩܢܘܬܐ ܪܒܬܐ)
+- ܡܕܝܢ̈ܬܐ ܪܒ̈ܬܐ **mahābhārata** n. (⟪महाभारत⟫) ܘ **rāmāyaṇa** n. (⟪रामायण⟫)
+- ܡܕܝܢ̈ܬܐ **purāṇa** n. (⟪पुराण⟫)
+- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : ܟܬܒ̈ܐ ܥܠ ܚܟܡܬܐ ܕܥܠܡܐ
 
 **smṛti** is also particularly a designation for dharmic treatises.
 
@@ -193,7 +193,7 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **muditā** f. = ⟪मुदिता⟫ : joy, especially sympathetic joy (opposite to envy).
 
-## 3.7. Übung
+## 3.7. ܬܪܓܠܐ
 
 **A) Put the following sentences into the plural:**
 
@@ -224,11 +224,11 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **D) Translate into Sanskrit:**
 
-1. Umā is a goddess.
-2. Umā is a goddess.
-3. The Veda is śruti.
-4. The teachers are goddesses.
-5. Milk cows are domesticated animals.
-6. Poets are teachers.
-7. The holy men are Śūdras.
+1. ܐܘܡܐ ܗܝ ܐܠܬܐ.
+2. ܐܘܡܐ ܗܝ ܐܠܬܐ.
+3. ܘܕܐ ܗܝ ܫܪܘܬܐ.
+4. ܡܠܦ̈ܢܐ ܗܝ ܐܠܬܐ.
+5. ܒܘܟ̈ܪܐ ܕܚܠܒ ܗܝ ܓܘܫܦ̈ܐ.
+6. ܫܥܪܝ̈ܐ ܗܝ ܡܠܦ̈ܢܐ.
+7. ܙܒܝ̈ܠܐ ܗܝ ܫܘܕܪܐ.
 

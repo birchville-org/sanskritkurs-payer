@@ -1,10 +1,10 @@
-# Devanāgarī = ⟪देवनागरी⟫
+# ܕܝܘܢܐܓܪܝ = ܕܝܘܢܐܓܪܝ
 
-## Script Exercise 3
+## Script ܬܶܪܓܳܡܳܐ 3
 
 ![](/images/schrift005.webp)
 
-## Exercise
+## ܬܪܓܠܐ
 
 A) Write in Devanāgarī:
 

@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 6
+# ܬܕܪܫܬܐ 6
 
 A) Form verbal sentences with the roots specified in parentheses by inserting them:
 
@@ -62,7 +62,7 @@ dhenavo viśanti. dhenavo bhavanti.
 
 C) Translate into Sanskrit:
 
-1\. He venerates with a sacrifice. (The sacrificial priest for a sacrifice lord)
+1\. ܗܘ ܡܕܒܪ ܠܟܢܫܐ. (ܩܘܣܦܐ ܕܟܢܫܐ ܠܡܕܒܪ)
 
 yajati.
 
@@ -147,9 +147,9 @@ Fig.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 :::
 ---
 
-## Review Exercise Lesson 6
+## ܬܪܓܡܬܐ ܕܚܙܘܪܐ Lesson 6
 
-A) Fill-in exercise: Form questions to which the sentences, which you form after the following fill-in exercises, are answers:
+[A] תרגיל מלא: צור שאלות שהמשפטים, שתיצור לאחר תרגילי המלאה הבאים, הם התשובות להן:
 
 1\. devas ... (īśvara, nṛt, sṛj, agni, indra)
 
@@ -543,7 +543,7 @@ sādhavo dvijātayaḥ.
 
 ⟪साधवो⟫ ⟪द्विजातयः⟫ ⟪।⟫
 
-11\. The triple (knowledge) is the Sāmaveda, the Ṛgveda and the Yajurveda. (2 possibilities)
+11\. ܕܝܩܘܠܐ ܬܠܬܐ (ܕܝܩܘܠܐ) ܗܘ ܣܡ̈ܐܝܕܒܕܐ، ܪܓܘܕܒܕܐ ܘܝܐܓܘܕܒܕܐ. (2 ܐܝܟܬܘܬ̈ܐ)
 
 sāmargyajurvedās trayī. sāmaveda ṛgvedo yajurvedaś ca trayī.
 
@@ -555,7 +555,7 @@ sādhvīyaṃ devī / sādhvy eṣā devī / sādhvī sā devī.
 
 ⟪साध्व्यीयं⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्व्येषा⟫ ⟪देवी⟫ ⟪।⟫ ⟪साध्वी⟫ ⟪सा⟫ ⟪देवी⟫ ⟪।⟫
 
-13\. The five "afflictions" are: ignorance, egoism, passion (love), hatred, attachment to the body. (2 possibilities)
+13\. חמשה "אופלון" הוו: אִגְנוֹרַנְסָא, אוּמְנוּתָא, חוֹבָא (אַהֲבָה), שְׂנָאוּתָא, אַשְׁרָקוּת לִגְוַן. (2 אפשרות)
 
 avidyāsmitārāgadveṣābhniveśāḥ pañca kleśāḥ / avidyāsmitā rāgo dveṣo 'bhiniveśaś ca pañca kleśāḥ.
 
@@ -579,7 +579,7 @@ dvijātayo brāhmaṇakṣatriyavaiśyāḥ / dvijātayo bṛāhmaṇāḥ kṣa
 
 ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ⟪।⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
-17. The sciences (for a prince) are: Philosophy, the triple (Vedic knowledge), Economics, and Politics. (2 possibilities)
+17. דינא (למלכא) הוו: חוכמתא, תלתא (וידען ודאי), ממונא, ומלכות. (2 אפשרות)
 
 ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ / ānvīkṣikī trayī vārttā daṇḍanītiś ca vidyāḥ.
 

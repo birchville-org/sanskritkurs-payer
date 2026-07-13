@@ -1,38 +1,38 @@
 ---
-title: Lesson 11
-subtitle: "The double accusative (accusative of the person and the thing)"
+judul: Pelajaran 11
+subjudul: "Akkusatif ganda (akkusatif orang dan benda)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
-category: "Grammar"
-status: stable
+kategori: "Tata Bahasa"
+status: stabil
 ---
 
 # Lesson 11
 
 ::: deleteme-box
-**In this lesson, you will learn:**
-- The double accusative (accusative of the person and the thing)
-- The usage of the particles **iti**, **evam**, and **na**
-- Basic terms such as **dharma**, **adharma**, and **putra**
-- The formation of nouns from the roots **vad**, **prach**, and **iṣ**
+**Dalam pelajaran ini, Anda akan mempelajari:**
+- Akusatif ganda (akusatif orang dan akusatif benda)
+- Penggunaan partikel **iti**, **evam**, dan **na**
+- Istilah dasar seperti **dharma**, **adharma**, dan **putra**
+- Pembentukan kata benda dari akar kata **vad**, **prach**, dan **iṣ**
 :::
-## 11.1. Double Accusative
+## 11.1. Akusatif Ganda
 
 ::: grammar-box
-**Some verbs can govern a double accusative (dvitīyā): accusative of the person and accusative of the thing.**
+**Beberapa kata kerja dapat mengatur akusatif ganda (dvitīyā): akusatif orang dan akusatif benda.**
 
-**These include:**
-- **Verbs of speaking**: speak to someone (accusative) about something (accusative); say something (accusative) to someone (accusative)
-- **Verbs of asking**: ask someone (accusative) about something (accusative)
-- **Verbs of teaching**: teach someone (accusative) something (accusative)
-- some further verbs, which are noted in the word lists
+**Ini termasuk:**
+- **Kata kerja berbicara**: berbicara kepada seseorang (akusatif) tentang sesuatu (akusatif); mengatakan sesuatu (akusatif) kepada seseorang (akusatif)
+- **Kata kerja meminta**: meminta kepada seseorang (akusatif) tentang sesuatu (akusatif)
+- **Kata kerja mengajar**: mengajarkan kepada seseorang (akusatif) sesuatu (akusatif)
+- beberapa kata kerja lainnya, yang dicatat dalam daftar kosakata
 
-**When such a construction is put into the passive, the person (who is asked, etc.) is put into the nominative (prathamā), the thing (about which is asked, etc.) remains in the accusative.**
+**Ketika konstruksi seperti itu diubah menjadi pasif, orang (yang ditanya, dll.) ditempatkan dalam nominatif (prathamā), sedangkan benda (tentang yang ditanyakan, dll.) tetap dalam akusatif.**
 
 e.g. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma asks the Brahmin about the Dharma."
 » Passive: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫
 
-**This rule applies only when both person and thing are objects. If a thing is the only object, it stands in the nominative (prathamā) according to the basic scheme of the passive sentence:**
+**Aturan ini hanya berlaku ketika kedua orang dan benda adalah objek. Jika benda satu-satunya objek, maka berada dalam nominatif (prathamā) sesuai dengan skema dasar kalimat pasif:**
 
 e.g. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma asks about the Dharma."
 » Passive: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
@@ -43,22 +43,22 @@ e.g. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 
 **Learn the following words:**
 
-- **iti** ⟪इति⟫ : thus
-  - Appears *after* the formulation of a thought, wish, utterance, or quote, functioning as a quotation mark (").
-  - e.g. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmins say: 'The righteous go to heaven'" = "Brahmins say that the righteous go to heaven".
-  - Sanskrit has no indirect speech; constructions with **iti** often need to be rendered in German as indirect speech.
-  - **... (quote) ... iti śrutiḥ** = "thus speaks the Veda".
-  - Often a verb of thinking can be inferred after **iti**: "thinking: '...' he does that". Render idiomatically in German (e.g. "Because he is hungry, he goes...").
+- **iti** ⟪इति⟫ : demikian
+- Muncul *setelah* perumusan pikiran, keinginan, ucapan, atau kutipan, berfungsi sebagai tanda kutip (").
+- mis. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Para brahmana berkata: 'Orang-orang yang benar pergi ke surga'" = "Para brahmana mengatakan bahwa orang-orang yang benar pergi ke surga".
+- Bahasa Sanskerta tidak memiliki kalimat tak langsung; konstruksi dengan **iti** sering kali perlu diterjemahkan ke dalam bahasa Indonesia sebagai kalimat tak langsung.
+- **... (kutipan) ... iti śrutiḥ** = "demikianlah firman Weda".
+- Seringkali sebuah kata kerja berpikir dapat disimpulkan setelah **iti**: "berpikir: '...' ia melakukan itu". Terjemahkan secara idiomatik ke dalam bahasa Indonesia (mis. "Karena ia lapar, ia pergi...").
 
 - **evam** ⟪एवम्⟫ : thus (adverbial, e.g. **evaṃ jayati** "thus he conquers").
 - **na** ⟪न⟫ : not
   - Negates individual words (stands immediately before: **na sādhuḥ** "a not-good") or entire sentences (stands at the beginning or immediately before the verb).
 
-- **putra** m. ⟪पुत्र⟫ : son (In India it was necessary to beget a son who could perform sacrifices for the ancestors.)
-- **dharma** m. ⟪धर्म⟫ : ("that which holds firm", i.e.) right, law, custom, character.
-  - Corresponds most closely to natural law/moral law. Everyone has their own duties (**svadharma**) according to **varṇa** and **āśrama** (stage of life).
-- **adharma** m. ⟪अधर्म⟫ : wrong (opposite of **dharma**).
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : to wish (**iṣ-ccha-ti**).
+- **putra** m. ⟪पुत्र⟫ : putra (Di India, penting untuk memiliki seorang putra yang dapat melakukan upacara pengorbanan bagi para leluhur.)
+- **dharma** m. ⟪धर्म⟫ : ("yang menegakkan", yaitu) benar, hukum, adat, karakter.
+- Paling sesuai dengan hukum alam/hukum moral. Setiap orang memiliki kewajiban masing-masing (**svadharma**) menurut **varṇa** dan **āśrama** (tahap kehidupan).
+- **adharma** m. ⟪अधर्म⟫ : salah (kebalikan dari **dharma**).
+- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : menginginkan (**iṣ-ccha-ti**).
 
 **Some nominal formations:**
 
@@ -98,9 +98,9 @@ Fig.: **vadanāni** = ⟪वदनानि⟫, Jamalpur district, Bangladesh.
 
 **B) Convert the sentences from A) into passive constructions.**
 
-**C) In the sentences from A), where appropriate, change the subject, object, and predicate to the plural.**
+**C) Dalam kalimat-kalimat dari A), di mana sesuai, ubah subjek, objek, dan predikat menjadi bentuk jamak.**
 
-**D) Form the passive construction for the sentences formed in C).**
+**D) Bentuk konstruksi pasif untuk kalimat-kalimat yang dibentuk dalam C).**
 
 ::: media
 ![](/images/lekt1101.webp)
@@ -111,18 +111,18 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 
 ## 11.4. Review Exercise
 
-**A) Translate into Sanskrit using passive constructions:**
-1. Vaiśya women ask Brahmins about the dharma.
-2. The teacher utters a mantra.
-3. Holy women attain a heaven.
-4. A Vedic sage does no evil.
-5. Brahmins worship the goddess with offerings as sacrificial priests.
-6. The Śūdra woman goes to the village.
-7. Who sees the truth?
+**A) Terjemahkan ke dalam bahasa Sanskerta menggunakan konstruksi pasif:**
+1. Para wanita Vaiśya bertanya kepada para Brahmin tentang dharma.
+2. Guru mengucapkan sebuah mantra.
+3. Wanita-wanita suci mencapai surga.
+4. Seorang resi Weda tidak melakukan kejahatan.
+5. Para Brahmin menyembah dewi dengan persembahan sebagai imam pengorbanan.
+6. Wanita Śūdra pergi ke desa.
+7. Siapa yang melihat kebenaran?
 
 **B)**
-1. Specify the duties of all twice-born ones using a dvandva. Resolve the compound into Sanskrit.
-2. Specify the duties of the Vaiśyas using a dvandva. Resolve the compound into Sanskrit.
+1. Tentukan kewajiban semua yang lahir dua kali menggunakan dvandva. Uraikan majemuk tersebut ke dalam bahasa Sanskerta.
+2. Tentukan kewajiban para Vaiśya menggunakan dvandva. Uraikan majemuk tersebut ke dalam bahasa Sanskerta.
 
 **C) Translate:**
 
@@ -135,7 +135,7 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 7. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ | |
 8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ||
 
-**D) Translate and put the agent, object, and verb into the plural in Sanskrit:**
+[D0] **D) Terjemahkan dan ubah agen, objek, dan kata kerja ke dalam bentuk jamak dalam bahasa Sanskerta:**
 
 1. ⟪फलमश्नुते⟫ | |
 2. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ | |

@@ -261,7 +261,7 @@ Esto puede ser cierto. Sin embargo, los indios ven entonces muchas cosas como or
 ::: media
 ![](/images/lekt2008.webp)
 Fig.: ⟪आश्रमः⟫
-Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
+Rishikesh = ⟪ऋषिकेश⟫. "Esto es en realidad parte del Ashram en Rishikesh donde los Beatles se hospedaron. Esta parte específica no estaba allí cuando ellos estuvieron, pero sí luce genial."
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2008))
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : actuando, haciendo, causando
@@ -581,7 +581,7 @@ Explicación: ⟪इच्छताम्⟫ = gen. pl. Part Pres. P de ⟪इ�
 
 **lekt2007:** Chennai = சென்னை [Fuente de la imagen: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución, sin uso comercial, sin obras derivadas)]
 
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Fuente de la imagen: de ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución)]
+**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. «Esto es en realidad parte del Ashram de Rishikesh donde se hospedaron los Beatles. Esta sección específica no existía cuando ellos estuvieron allí, pero tiene un aspecto impresionante». [Fuente de la imagen: de ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución)]
 
 **lekt2009:** Karnataka [Fuente de la imagen: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Acceso el 2008-12-11. -- Licencia Creative Commons (Atribución, sin uso comercial)]
 

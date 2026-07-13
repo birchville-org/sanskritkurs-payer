@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 10
 
-A) Form the passive for the following verb forms (with translation of the verb form), i.e. the passive that corresponds to the verb form in person and number:
+[A] Bentukkan bentuk pasif untuk bentuk kata kerja berikut (dengan terjemahan bentuk kata kerja), yaitu bentuk pasif yang sesuai dengan bentuk kata kerja dalam orang dan jumlah:
 
 1. sṛjati ⟪सृजति⟫ : sṛjyate ⟪सृज्यते⟫
 2. yudhyate ⟪युध्यते⟫ : yudhyate ⟪युध्यते⟫
@@ -33,9 +33,9 @@ A) Form the passive for the following verb forms (with translation of the verb f
 21. pṛcchanti ⟪पृच्छन्ति⟫ : pṛcchyante ⟪पृच्छ्यन्ते⟫
 22. tanvanti ⟪तन्वन्ति⟫ (2 forms!) : tanyante / tāyante ⟪तन्यन्ते⟫ ⟪तायन्ते⟫
 
-B) Form the instrumental singular and plural for all nouns learned so far
+B) Bentuklah instrumental tunggal dan jamak untuk semua kata benda yang telah dipelajari sejauh ini
 
-C) Convert the following sentences into the passive and translate them:
+C) Ubahlah kalimat-kalimat berikut menjadi pasif dan terjemahkan:
 
 1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 
@@ -147,7 +147,7 @@ Which soldiers fight (together) with the Kṣatriyas?
 
 D) Translate into Sanskrit:
 
-1\. A Brahman goes to the village with a Vaiśya.
+1\. Seorang Brahmana pergi ke desa bersama seorang Vaiśya.
 
 brāhmano vaiśyena saha grāmaṃ gacchati.
 
@@ -177,7 +177,7 @@ gurubhiḥ pṛcchyate.
 
 ⟪गुरुभिः⟫ ⟪प्र्च्छ्यते⟫ ⟪।⟫
 
-6\. The eye leads. (Passive construction) (Eyes and ears are otherwise normally used in the dual)
+6\. Mata yang memimpin. (Konstruksi pasif) (Mata dan telinga biasanya digunakan dalam bentuk dwivacana)
 
 netreṇa nīyate.
 
@@ -195,7 +195,7 @@ kayā bālā rakṣyate.
 
 ⟪कया⟫ ⟪बाला⟫ ⟪रक्ष्यते⟫ ⟪।⟫
 
-9\. The Kṣatriya venerates the LORD with a sacrifice. (Passive construction, without using the word yajña)
+9\. Kṣatriya memuliakan TUHAN dengan suatu korban. (Konstruksi pasif, tanpa menggunakan kata yajña)
 
 kṣatriyeṇeśvara ijyate.
 
@@ -216,7 +216,7 @@ Fig.: ⟪ग्रामः⟫
 
 ## Reading Exercise
 
-Read and translate, and convert into the passive:
+[B0] Bacalah dan terjemahkan, lalu ubahlah ke dalam bentuk pasif:
 
 **⟪क⟫**
 

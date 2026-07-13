@@ -7,9 +7,9 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 2
+# 第2课
 
-## 2.1. Der Nominalsatz
+## 2.1. 名词句
 
 ::: grammar-box
 **模式：谓语名词 - 主语**
@@ -26,7 +26,7 @@ last_reconstructed: 2026-04-30
 
 ---
 
-## 2.2. Zur Deklination (Beugung von Nomina)
+## 2.2. 关于名词的变格（词形变化）
 
 在梵语中，有：
 
@@ -51,7 +51,7 @@ last_reconstructed: 2026-04-30
 
 ---
 
-## 2.3. Der Nominativ Singular
+## 2.3. 单数主格
 
 **主格单数 = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
@@ -69,7 +69,7 @@ last_reconstructed: 2026-04-30
 :::
 ---
 
-## 2.4. Sandhi -- ⟪सन्धि⟫
+## 2.4. 连声 -- ⟪सन्धि⟫
 
 梵语中，一个词的词尾会根据其后接词的词首而发生变化。这种现象称为**Sandhi**（阳性）= ⟪सन्धि⟫（“连接”）。
 
@@ -108,7 +108,7 @@ last_reconstructed: 2026-04-30
 
 ---
 
-## 2.5. Wortliste
+## 2.5. 词汇表
 
 **deva** m. -- ⟪देव⟫ : 天界的，神；君主，国王。
 
@@ -214,7 +214,7 @@ c) 通过种姓对政治或神权统治权力的**占有**作为垄断（政治�
 
 ---
 
-## 2.6. Übung
+## 2.6. 练习
 
 **A) 请结合桑迪亚（Sandhi）规则进行连音，并构成名词句：**
 
@@ -233,12 +233,12 @@ c) 通过种姓对政治或神权统治权力的**占有**作为垄断（政治�
 
 **B) 翻译成梵文：**
 
-1. Rāma ist ein Brahmane.
-2. Der Lehrer ist ein Vaiśya.
-3. Der Śūdra ist ein heiliger Mann.
-4. Der Dichter ist der Lehrer.
-5. Viṣṇu ist der HERR.
-6. Der HERR ist Śiva.
-7. Der Zweimalgeborene ist ein Brahmane.
-8. Der heilige Mann ist ein Lehrer.
-9. Der Lehrer ist ein heiliger Mann.
+1.罗摩是一位婆罗门。
+2.老师是一名吠舍。
+3.首陀罗是一位神圣的人。
+4.诗人是老师。
+5.毗湿奴是主。
+6.主是室利伐那。
+7.再生族是一位婆罗门。
+8.神圣的人是一名老师。
+9.老师是一位神圣的人。

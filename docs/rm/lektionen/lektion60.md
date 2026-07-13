@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 60
 
-## 60.1. Las desinenzas dal dual dal perfect (⟪द्विवचनम्⟫)
+## 60.1. Las desinenzas dal dual dal perfect (⟪dvivacanam⟫)
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
@@ -140,7 +140,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
 :::
-## 60.3. Der Dual des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 60.3. Il dual dal perfet perifrastic (⟪अनुप्रयोगलिट्⟫)
 
 ⟪गण्⟫ 10P "nummarisar"
 
@@ -160,7 +160,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ |
 :::
-## 60.4. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
+## 60.4. Il particip ⟪परस्मैपद⟫ dal perfet reduplitgà (⟪द्वित्वलिट्⟫)
 
 ::: grammar-box
 **Educaziun:**
@@ -413,7 +413,7 @@ Passiv: ⟪यियक्ष्यते⟫ "vesa d'esser offert"
 :::
 Per la furmaziun da nomina agentis sin -u dal stadi desiderativ vesair [Lecziun 54](lektion54.md).
 
-## 60.7. Übung
+## 60.7. Exercizi
 
 A) Studiai en Kielhorn, Grammatica § 451 las furmas irregularas dal desiderativ a verbs fin ussa aprendids:
 

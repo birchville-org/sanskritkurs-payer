@@ -11,11 +11,11 @@ status: stable
 
 ## 17.1. Second Present Class (⟪अदादि⟫ = ⟪अद्⟫ etc.)
 
-The verbal endings are attached directly to the root. In doing so, the phonetic changes resulting from word-sandhi must be taken into account.
+Akhiran verbal melekat langsung pada akar. Dalam hal ini, perubahan fonetik yang dihasilkan dari sandhi kata harus diperhitungkan.
 
 ::: grammar-box
 
-The following forms of formation exist in the second present class:
+[B0] Bentuk-bentuk pembentukan berikut terdapat dalam kelas kedua sekarang:
 
 1.  Roots with stem-apophony (gradation)
     *   mostly: strong grade - weak grade
@@ -24,7 +24,7 @@ The following forms of formation exist in the second present class:
 3.  Two-syllable roots ending in -i/-ī with stem-apophony (gradation)
 
 :::
-## 17.2. Roots of the Second Present Class with Stem Ablation: Strong Grade – Weak Grade
+## 17.2. Akar-akar Kelas Kedua dengan Ablasi Stem: Derajat Kuat – Derajat Lemah
 
 Examples:
 
@@ -83,7 +83,7 @@ Further examples:
 | 3\. pl. Pres. Ā | ⟪दुहते⟫ (duh-ate) |
 
 :::
-⟪हन्⟫ 2 P "to strike, to kill, to slay"
+⟪हन्⟫ 2 P "memukul, membunuh, membantai"
 
 *   strong present stem: han-
 *   weak present stem:
@@ -113,7 +113,7 @@ Further examples:
 | 3\. pl. Pres. P | ⟪सन्ति⟫ (s-anti) |
 
 :::
-## 17.3. Roots of the Second Present Class with Stem Gradation: Guṇa Grade - Zero Grade
+## 17.3. Akar-akar Kelas Kedua Present dengan Gradiasi Tembok: Derajat Guṇa - Derajat Nol
 
 Example:
 
@@ -186,7 +186,7 @@ Examples:
 :::
 ## 17.5. Disyllabic roots ending in -i/-ī with stem gradation
 
-Several roots are disyllabic in a number of forms, i.e., they have an -i (or, before certain endings, -ī) before a consonantal ending. Nevertheless, these roots are treated by indigenous grammarians and in dictionaries, etc., as monosyllabic.
+Beberapa akar kata bersuku kata dua dalam sejumlah bentuk, yaitu, mereka memiliki -i (atau, sebelum akhiran tertentu, -ī) sebelum akhiran konsonantal. Meskipun demikian, akar-akar ini diperlakukan oleh para gramatikawan pribumi dan dalam kamus-kamus, dll., sebagai bersuku kata satu.
 
 Examples:
 
@@ -222,7 +222,7 @@ Examples:
 | 3\. pl. Pres. Ā | ⟪ब्रुवते⟫ (bruv-ate) |
 
 :::
-⟪स्तु⟫ 2 U “to praise” also has forms according to this pattern, in addition to the forms given under 3.:
+⟪स्तु⟫ 2 U “memuji” juga memiliki bentuk sesuai pola ini, di samping bentuk yang diberikan pada no. 3.:
 
 ::: no-header
 
@@ -233,7 +233,7 @@ Examples:
 :::
 ## 17.6. Word List
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫ PPP ⟪हत⟫ : to strike, to kill, to slay
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫ PPP ⟪हत⟫ : memukul, membunuh, menyembelih
 
 from this:
 
@@ -251,30 +251,30 @@ Bangalore = ಬೆಂಗಳೂರು
 from this:
 
 ::: indent
-⟪आसन⟫ n.: sitting, seat; also: yoga postures (āsanas) of the yogin
+⟪आसन⟫ n.: duduk, tempat duduk; juga: postur yoga (āsanas) dari yogin
 :::: media
 ![](/images/lekt1701.webp)
 Fig.: ⟪योगासनम्⟫
-(Image source: [Details](/en/licenses#lekt1701))
+(Sumber gambar: [Details](/en/licenses#lekt1701))
 ::::
 :::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : to weep, to howl
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : menangis, merengek
 
 from this:
 
 ::: indent
-⟪रुद्र⟫ m.: (the howler =) the storm god Rudra
+⟪रुद्र⟫ m.: (si peneriak =) dewa badai Rudra
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ no passive and no PPP: to speak, to say (to someone: double accusative)
+⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ tanpa pasif dan tanpa PPP: berbicara, mengatakan (kepada seseorang: akusatif ganda)
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : to milk
 
 ::: media
 ![](/images/lekt1702.webp)
 Fig.: ⟪दोग्धि⟫
-(Image source: [Details](/en/licenses#lekt1702))
+(Sumber gambar: [Details](/en/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : to show, to instruct, to command
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : menunjukkan, menginstruksikan, memerintahkan
 
 from this:
 
@@ -285,7 +285,7 @@ from this:
 :::
 ## 17.7. Exercise 1
 
-A) Insert the verb in the following sentences and translate:
+A) Masukkan kata kerja dalam kalimat-kalimat berikut dan terjemahkan:
 
 ⟪१⟫. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫)
 
@@ -307,58 +307,58 @@ A) Insert the verb in the following sentences and translate:
 
 ⟪१०⟫. ⟪साधुजनो⟫ ⟪ऽधर्मम्⟫ ... (⟪द्विष्⟫ ⟪।⟫ ⟪न⟫ ⟪कृ⟫)
 
-B) Put the agent and the verb in the sentences formed in A) into the plural.
+[B1] B) Bentuklah kalimat-kalimat dalam A) dengan subjek dan kata kerja dalam bentuk jamak.
 
 ## 17.8. Exercise 2
 
-Translate the following verb forms and provide the corresponding root:
+Terjemahkan bentuk-bentuk kata kerja berikut dan berikan akar yang sesuai:
 
-1.  **⟪अदन्ति⟫** (*adanti*) – to eat (root: **⟪अद्⟫** *ad*)
-2.  **⟪सन्ति⟫** (*santi*) – to be (root: **⟪अस्⟫** *as*)
-3.  **⟪आसते⟫** (*āsate*) – to sit (root: **⟪आस्⟫** *ās*)
-4.  **⟪यन्ति⟫** (*yanti*) – to go (root: **⟪इ⟫** *i*)
-5.  **⟪इच्छति⟫** (*icchati*) – to wish (root: **⟪इक्ष्⟫** *īkṣ*)
-6.  **⟪कुर्वते⟫** (*kurvate*) – to do/make (root: **⟪कृ⟫** *kṛ*)
-7.  **⟪गच्छन्ति⟫** (*gacchanti*) – to go (root: **⟪गम्⟫** *gam*)
-8.  **⟪जायते⟫** (*jāyate*) – to be born (root: **⟪जन्⟫** *jan*)
-9.  **⟪जयति⟫** (*jayati*) – to conquer (root: **⟪जि⟫** *ji*)
-10. **⟪तनोति⟫** (*tanoti*) – to extend (root: **⟪तन्⟫** *tan*)
-11. **⟪दहति⟫** (*dahati*) – to burn (root: **⟪दह्⟫** *dah*)
-12. **⟪दोग्धि⟫** (*dogdhi*) – to milk (root: **⟪दुह्⟫** *duh*)
-13. **⟪पश्यति⟫** (*paśyati*) – to see (root: **⟪दृश्⟫** *dṛś*)
-14. **⟪द्विष्टे⟫** (*dviṣṭe*) – to hate (root: **⟪द्विष्⟫** *dviṣ*)
-15. **⟪नयन्ति⟫** (*nayanti*) – to lead (root: **⟪नी⟫** *nī*)
-16. **⟪नृत्यति⟫** (*nṛtyati*) – to dance (root: **⟪नृत्⟫** *nṛt*)
-17. **⟪पद्यन्ते⟫** (*padyante*) – to walk (root: **⟪पद्⟫** *pad*)
-18. **⟪पिबति⟫** (*pibati*) – to drink (root: **⟪पि⟫** *pi*)
-19. **⟪पान्ति⟫** (*pānti*) – to protect (root: **⟪पा⟫** *pā*)
-20. **⟪पृच्छति⟫** (*pṛcchati*) – to ask (root: **⟪पृच्छ्⟫** *pṛcch*)
-21. **⟪बुध्यन्ते⟫** (*budhyante*) – to understand (root: **⟪बुध्⟫** *budh*)
-22. **⟪ब्रवीति⟫** (*bravīti*) – to say (root: **⟪ब्रू⟫** *brū*)
-23. **⟪भवन्ति⟫** (*bhavanti*) – to become (root: **⟪भू⟫** *bhū*)
-24. **⟪मन्यते⟫** (*manyate*) – to think (root: **⟪मन्⟫** *man*)
-25. **⟪मुञ्चन्ति⟫** (*muñchanti*) – to release (root: **⟪मुच्⟫** *muc*)
-26. **⟪म्रियन्ते⟫** (*mriyante*) – to die (root: **⟪मृ⟫** *mṛ*)
-27. **⟪यजते⟫** (*yajate*) – to sacrifice (root: **⟪यज्⟫** *yaj*)
-28. **⟪युध्यन्ते⟫** (*yudhyante*) – to fight (root: **⟪युध्⟫** *yudh*)
-29. **⟪रक्षति⟫** (*rakṣati*) – to protect (root: **⟪रक्ष्⟫** *rakṣ*)
-30. **⟪रोदिति⟫** (*roditi*) – to weep (root: **⟪रुद्⟫** *rud*)
-31. **⟪लभते⟫** (*labhate*) – to obtain (root: **⟪लभ्⟫** *labh*)
-32. **⟪वक्ति⟫** (*vakṭi*) – to speak (root: **⟪वच्⟫** *vac*)
-33. **⟪वदति⟫** (*vadati*) – to say (root: **⟪वद्⟫** *vad*)
-34. **⟪शृणोति⟫** (*śṛṇoti*) – to hear (root: **⟪श्रु⟫** *śru*)
-35. **⟪स्तौति⟫** (*stauti*) – to praise (root: **⟪स्तु⟫** *stu*)
-36. **⟪स्मरति⟫** (*smarati*) – to remember (root: **⟪स्मृ⟫** *smṛ*)
-37. **⟪हन्ति⟫** (*hanti*) – to kill (root: **⟪हन्⟫** *han*)
-38. **⟪अश्नुवते⟫** (*aśnuvate*) – to obtain (root: **⟪अश्⟫** *aś*)
-39. **⟪कुप्यते⟫** (*kupyate*) – to be angry (root: **⟪कुप्⟫** *kup*)
-40. **⟪कर्षन्ति⟫** (*karṣanti*) – to draw/pull (root: **⟪कृष्⟫** *kṛṣ*)
-41. **⟪उद्यते⟫** (*udyate*) – to rise (root: **⟪उद्⟫** *ud*)
-42. **⟪सहन्ते⟫** (*sahante*) – to endure (root: **⟪सह्⟫** *sah*)
-43. **⟪सिच्यन्ते⟫** (*sicyante*) – to be poured (root: **⟪सिच्⟫** *sic*)
-44. **⟪आप्नोति⟫** (*āpnoti*) – to obtain (root: **⟪अप्⟫** *ap*)
-45. **⟪जीव्यते⟫** (*jīvyate*) – to live (root: **⟪जीव्⟫** *jīv*)
-46. **⟪दिश्यन्ते⟫** (*diśyante*) – to be shown (root: **⟪दिश्⟫** *diś*)
+1. **⟪अदन्ति⟫** (*adanti*) – untuk makan (akar: **⟪अद्⟫** *ad*)
+2. **⟪सन्ति⟫** (*santi*) – untuk ada (akar: **⟪अस्⟫** *as*)
+3. **⟪आसते⟫** (*āsate*) – untuk duduk (akar: **⟪आस्⟫** *ās*)
+4. **⟪यन्ति⟫** (*yanti*) – untuk pergi (akar: **⟪इ⟫** *i*)
+5. **⟪इच्छति⟫** (*icchati*) – untuk menginginkan (akar: **⟪इक्ष्⟫** *īkṣ*)
+6. **⟪कुर्वते⟫** (*kurvate*) – untuk melakukan/membuat (akar: **⟪कृ⟫** *kṛ*)
+7. **⟪गच्छन्ति⟫** (*gacchanti*) – untuk pergi (akar: **⟪गम्⟫** *gam*)
+8. **⟪जायते⟫** (*jāyate*) – untuk lahir (akar: **⟪जन्⟫** *jan*)
+9. **⟪जयति⟫** (*jayati*) – untuk menaklukkan (akar: **⟪जि⟫** *ji*)
+10. **⟪तनोति⟫** (*tanoti*) – untuk memperpanjang (akar: **⟪तन्⟫** *tan*)
+11. **⟪दहति⟫** (*dahati*) – untuk membakar (akar: **⟪दह्⟫** *dah*)
+12. **⟪दोग्धि⟫** (*dogdhi*) – untuk memerah (akar: **⟪दुह्⟫** *duh*)
+13. **⟪पश्यति⟫** (*paśyati*) – untuk melihat (akar: **⟪दृश्⟫** *dṛś*)
+14. **⟪द्विष्टे⟫** (*dviṣṭe*) – untuk membenci (akar: **⟪द्विष्⟫** *dviṣ*)
+15. **⟪नयन्ति⟫** (*nayanti*) – untuk memimpin (akar: **⟪नी⟫** *nī*)
+16. **⟪नृत्यति⟫** (*nṛtyati*) – untuk menari (akar: **⟪नृत्⟫** *nṛt*)
+17. **⟪पद्यन्ते⟫** (*padyante*) – untuk berjalan (akar: **⟪पद्⟫** *pad*)
+18. **⟪पिबति⟫** (*pibati*) – untuk minum (akar: **⟪पि⟫** *pi*)
+19. **⟪पान्ति⟫** (*pānti*) – untuk melindungi (akar: **⟪पा⟫** *pā*)
+20. **⟪पृच्छति⟫** (*pṛcchati*) – untuk bertanya (akar: **⟪पृच्छ्⟫** *pṛcch*)
+21. **⟪बुध्यन्ते⟫** (*budhyante*) – untuk memahami (akar: **⟪बुध्⟫** *budh*)
+22. **⟪ब्रवीति⟫** (*bravīti*) – untuk berkata (akar: **⟪ब्रू⟫** *brū*)
+23. **⟪भवन्ति⟫** (*bhavanti*) – untuk menjadi (akar: **⟪भू⟫** *bhū*)
+24. **⟪मन्यते⟫** (*manyate*) – untuk berpikir (akar: **⟪मन्⟫** *man*)
+25. **⟪मुञ्चन्ति⟫** (*muñchanti*) – untuk melepaskan (akar: **⟪मुच्⟫** *muc*)
+26. **⟪म्रियन्ते⟫** (*mriyante*) – untuk mati (akar: **⟪मृ⟫** *mṛ*)
+27. **⟪यजते⟫** (*yajate*) – untuk mengorbankan (akar: **⟪यज्⟫** *yaj*)
+28. **⟪युध्यन्ते⟫** (*yudhyante*) – untuk bertarung (akar: **⟪युध्⟫** *yudh*)
+29. **⟪रक्षति⟫** (*rakṣati*) – untuk melindungi (akar: **⟪रक्ष्⟫** *rakṣ*)
+30. **⟪रोदिति⟫** (*roditi*) – untuk menangis (akar: **⟪रुद्⟫** *rud*)
+31. **⟪लभते⟫** (*labhate*) – untuk memperoleh (akar: **⟪लभ्⟫** *labh*)
+32. **⟪वक्ति⟫** (*vakṭi*) – untuk berbicara (akar: **⟪वच्⟫** *vac*)
+33. **⟪वदति⟫** (*vadati*) – untuk berkata (akar: **⟪वद्⟫** *vad*)
+34. **⟪शृणोति⟫** (*śṛṇoti*) – untuk mendengar (akar: **⟪श्रु⟫** *śru*)
+35. **⟪स्तौति⟫** (*stauti*) – untuk memuji (akar: **⟪स्तु⟫** *stu*)
+36. **⟪स्मरति⟫** (*smarati*) – untuk mengingat (akar: **⟪स्मृ⟫** *smṛ*)
+37. **⟪हन्ति⟫** (*hanti*) – untuk membunuh (akar: **⟪हन्⟫** *han*)
+38. **⟪अश्नुवते⟫** (*aśnuvate*) – untuk memperoleh (akar: **⟪अश्⟫** *aś*)
+39. **⟪कुप्यते⟫** (*kupyate*) – untuk marah (akar: **⟪कुप्⟫** *kup*)
+40. **⟪कर्षन्ति⟫** (*karṣanti*) – untuk menarik/mencabut (akar: **⟪कृष्⟫** *kṛṣ*)
+41. **⟪उद्यते⟫** (*udyate*) – untuk bangkit (akar: **⟪उद्⟫** *ud*)
+42. **⟪सहन्ते⟫** (*sahante*) – untuk bertahan (akar: **⟪सह्⟫** *sah*)
+43. **⟪सिच्यन्ते⟫** (*sicyante*) – untuk dituangkan (akar: **⟪सिच्⟫** *sic*)
+44. **⟪आप्नोति⟫** (*āpnoti*) – untuk memperoleh (akar: **⟪अप्⟫** *ap*)
+45. **⟪जीव्यते⟫** (*jīvyate*) – untuk hidup (akar: **⟪जीव्⟫** *jīv*)
+46. **⟪दिश्यन्ते⟫** (*diśyante*) – untuk ditunjukkan (akar: **⟪दिश्⟫** *diś*)
 
 ::: deleteme-box
 

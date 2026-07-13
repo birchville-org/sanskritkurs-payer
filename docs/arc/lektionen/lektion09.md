@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
-# Lektion 9
+# ܐܘܠܦܢܐ 9
 
 ::: deleteme-box
 **In dieser Lektion lernen Sie:**
@@ -17,18 +17,18 @@ last_reconstructed: 2026-05-07
 - Zitate aus klassischen Gesetzestexten (Dharmaśāstras)
 :::
 
-## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva")
+## 9.1. ܣܰܡܳܗܳܪܰܕܒܰܢܕܒܰܐ (⟪समाहारद्वन्द्व⟫ = "ܕܒܰܢܕܒܰܐ ܡܟܰܢܫܳܢܳܐ")
 
 ::: grammar-box
-**If a Dvandva is to express that a series of things, etc., form a unity, then it is generally in the singular neuter:**
+**ܐܝܟܢܐ ܕܕܘܕܒܐ ܠܡܥܒܕ ܕܟܝܢܬܐ ܕܡܠܦ̈ܘܬܐ ܟܢܝܫܬܐ، ܗܘ ܒܓܘܢܝܬܐ ܕܡܠܦ̈ܘܬܐ:**
 
-For example, **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ does not simply mean "food intake (**āhāra** m.), sleep (**nidrā** f.), sexual intercourse (**maithuna** n.), and fear (**bhaya** n.)", but rather these four as a **unit** that characterizes animal life.
+ܠܡܕܒܪ، **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ ܠܐ ܡܥܕܪ ܒܨܚܘܬܐ "ܓܠܦܢܘܬܐ (āhāra m.)، ܫܠܝܡܘܬܐ (nidrā f.)، ܫܪܟܬܐ (maithuna n.)، וּפחד (bhaya n.)"، אלא ܗܕܐ ܐܪܒܥܬܐ ܟܡܠܦ̈ܘܬܐ **ܒܓܘܢܝܬܐ** ܕܡܫܪ̈ܟܐ ܠܚܝܘܬܐ ܕܒܪ̈ܢܫܐ.
 :::
-In addition to this basic rule for forming Samāhāradvandvas, there are a number of other rules that can be found in Pāṇini 2,4,2-17 or, for example, Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. In the various stages of language development, the same rules were not always followed!
+ܒܥܕܪ̈ܐ ܕܗܠܟܬܐ ܕܡܠܦ̈ܘܬܐ، ܗܢܟܝܪ ܡܠܦ̈ܘܬܐ ܕܡܫܪ̈ܟܐ ܒܦܠܘܗܝ ܕܡܫܪ̈ܟܐ، ܗܢܟܝܪ ܒܦܠܘܗܝ 2,4,2-17 ܕܦܐܢܝܢܐ، אוֹ ܒܡܕܒܪ̈ܐ ܕܡܫܪ̈ܟܐ، מר R. Kale، A higher Sanskrit grammar، reprint 1969، § 189 - 192 a. ܒܥܕܪ̈ܐ ܕܡܠܦ̈ܘܬܐ، ܗܢܟܝܪ ܡܠܦ̈ܘܬܐ ܕܡܫܪ̈ܟܐ ܠܐ ܒܗܠܟܬܐ!
 
-## 9.2. On the Formation of Nominal Stems
+## 9.2. ܥܠ ܨܘܪܬܐ ܕܫܪ̈ܫܐ ܫܡܝܢ̈ܐ
 
-### 9.2.1. -ka (taddhita)
+### 9.2.1. -ܟܰܐ (ܬܰܕܗܝܬܳܐ)
 
 ::: grammar-box
 **The taddhita suffix -ka forms, among other things:**
@@ -42,12 +42,12 @@ In addition to this basic rule for forming Samāhāradvandvas, there are a numbe
 3\. **Nouns without semantic difference from the underlying noun:**
    **putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**
 
-4\. **Nouns that express "related to the concept of the root word":**
-   **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "native to Benares, originating from Benares"**
-   **rūpa n. "Form" » rūpaka 3 ⟪रूपक⟫ "possessing the form of something"**
+4\. **שמות עצם המביעים "קשורים לקונספציה של מילת השורש":**
+**kāśi f. "בנרס" » kāśika 3 ⟪काशिक⟫ "יליד בנרס, מקורו מבנרס"**
+**rūpa n. "צורה" » rūpaka 3 ⟪रूपक⟫ "בעל צורה של משהו"**
 :::
 
-### 9.2.2. -aka (kṛt), fem. oft -ikā
+### 9.2.2. -ܐܟܐ (ܟܪܝܬ), ܢܩܒܬܐ ܙܒܢܝܢ ܣܓܝܐܢ -ܝܟܐ
 
 ::: grammar-box
 **The kṛt suffix -aka, feminine often -ikā, forms agent nouns (nouns expressing the agent) from any root.**
@@ -66,9 +66,9 @@ Ein auslautender Vokal der Wurzel sowie **-a-** an vorletzter Stelle der Wurzel 
 | **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" |
 
 ::: grammar-box
-**Some of these formations have the narrower meaning: "habitually or as an obligation or well-performing that expressed by the root".**
+**ܡܢ ܗܠܝܢ ܣܘܪ̈ܬܐ ܠܫܢܐ ܨܥܝܪܬܐ ܠܘܬ: "ܒܟܢܫܐ ܐܘ ܟܕܡܝܘܬܐ ܐܘ ܒܫܪܟܐ ܕܡܠܬ ܥܒܕܐ ܪ̈וֹשׁ"**
 :::
-see above e.g. **śrāvaka**, **yājaka**, **jayaka**
+ܪ̈ܘܚ ܠܡܕܥ ܐܝܟ: **ܫܪܘܒܩܐ**, **ܝܥܓܐ**, **ܝܫܟܐ**
 
 **Examples:**
 
@@ -80,7 +80,7 @@ see above e.g. **śrāvaka**, **yājaka**, **jayaka**
 
 Besides this, there are still some less important uses of the suffix **-aka**. Cf. Wackernagel, Altindische Grammatik, II, §45ff.
 
-## 9.3. Wortliste
+## 9.3. ܡܠܘܐܐ
 
 **Learn the following words:**
 
@@ -95,26 +95,26 @@ Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tirup
 
 ::: media
 ![](/images/lekt0902.webp)
-Fig.: **kāru** = ⟪कारु⟫, Gujarat.
+Fig.: **ܟܰܪܘ** = ⟪कारु⟫, ݣܓܰܪܳܛ.
 (Image source: [Details](/arc/licenses#lekt0902))
 :::
-- **kuśīlava** m. (⟪कुशीलव⟫) : (wandering) showman, actor, singer
-- **kusīda** n. (⟪कुसीद⟫) : usury
-- **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : to pull
-- **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : to plow
-  - from this: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : agriculture
-- **dāna** n. (⟪दान⟫) : giving, gift, generosity
-- **pratigraha** m. (⟪प्रतिग्रह⟫) : receiving, gift
-- **pravacana** n. (⟪प्रवचन⟫) : speech, (oral) instruction
-- **pāśupālya** n. (⟪पाशुपाल्य⟫) : cattle keeping, animal husbandry
-- to **yaj** 1 U:
-  - **ijyā** f. (⟪इज्या⟫) : sacrifice (from \*yj » ij + suffix **yā**)
-  - **yajana** n. (⟪यजन⟫) : sacrifice on behalf of someone else
-- **rūpa** n. (⟪रूप⟫) : appearance, form, beautiful form, nature, essence
-- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : trade
-- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : obedience, obedient service
+- **ܟܘܼܣܝ̈ܠܒܰ** m. (⟪कुशीलव⟫) : ݣܰܠܝܼܐ ܕܡܘܿܟܬܰܐ, ݣܠܝܼܐ
+- **ܟܘܼܣܝ̈ܕܰ** n. (⟪कुसीद⟫) : ݣܰܠܝ̈ܐ ܕܡܘܿܟܬܰܐ
+- **ܟܽܪܣ** 1 P (ܟܰܪܫܬܝ̈) ⟪कृष्⟫ ⟪कर्षति⟫ : ݣܰܠܝ̈ܐ
+- **ܟܽܪܣ** 6 U (ܟܽܪܣܬܝ̈) ⟪कृष्⟫ ⟪कृषति⟫ : ݣܰܠܝ̈ܐ
+- from this: **ܟܽܪܣܝ̈** f. / **ܟܽܪܣܝ̈ܩܰ** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : ݣܰܠܝ̈ܐ
+- **ܕܰܢܰ** n. (⟪दान⟫) : ݣܰܠܝ̈ܐ
+- **ܦܪܬܝ̈ܓܪܗܰ** m. (⟪प्रतिग्रह⟫) : ݣܰܠܝ̈ܐ
+- **ܦܪܰܘܟܢܰ** n. (⟪प्रवचन⟫) : ݣܰܠܝ̈ܐ
+- **ܦܰܫܘܦܰܠܝ̈ܐ** n. (⟪पाशुपाल्य⟫) : ݣܰܠܝ̈ܐ
+- to **ܝܰܓ** 1 U:
+- **ܝ̈ܓܝ̈ܐ** f. (⟪इज्या⟫) : ݣܰܠܝ̈ܐ (from \*yj » ܝ̈ + suffix **ܝ̈**)
+- **ܝܰܓܢܰ** n. (⟪यजन⟫) : ݣܰܠܝ̈ܐ
+- **ܪܘܼܦܰ** n. (⟪रूप⟫) : ݣܰܠܝ̈ܐ
+- **ܒܰܢܝ̈ܟܐ** n. / **ܒܰܢܝ̈ܟܐ** f. / **ܒܰܢܝ̈ܟܐ** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : ݣܰܠܝ̈ܐ
+- **ܫܘܼܣܪܝ̈ܩܰ** f. (⟪शुश्रूषा⟫) : ݣܰܠܝ̈ܐ
 
-## 9.4. Übung
+## 9.4. ܬܪܓܠܐ
 
 **A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:**
 1\. **brāhmāṇaka** ⟪ब्राह्मणक⟫
@@ -166,11 +166,11 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
    ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
    (according to Gautamadharmasūtra X, 49)
 
-5. Duties of a Śūdra:
+5. מילתא דשַׁוְדְּרָא:
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
-   ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
-   (according to Kauṭilīya-Arthaśāstra 1.3.8.)
-   Explanation: dvijātīnām = Genitive (objective case) plural of dvijāti (translate here: "towards the twice-born"); kārukuśīlavakarma is a Tatpuruṣa with a Dvandva (kārukuśīlava) in the first member. karma = Nom. sg. of karman n. "deed, activity, karma" from the root kṛ 8 U). Translate "deed / activity of the ... (genitive)" (designated by the Dvandva).
+⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
+(לְפִי קָאוּטִילִיאָה-אַרְתַׁשַׂטְרָא 1.3.8.)
+פֵּירוּשָׁא: dvijātīnām = גְּנִיטִיו (מַאֲרָע מוֹעֵיל) רַבּוּתָא דִדְוִיגָא (לְמַתַּר: "עַל דִּדְוִיגָא"); kārukuśīlavakarma הוּא תַּטְפוּרֻשָׁה עִם דְּוַנְדְּוָא (kārukuśīlava) בִּרְכֵי קַדְמָאָה. karma = נָּוֹם׳ ס״ג דְּקַרְמַן נ. "פֻּעֲלָא, פְּעוּתָא, קַרְמָא" מִשְּׁרֵשָׁא kṛ 8 U). לְמַתַּר "פֻּעֲלָא / פְּעוּתָא דִדְ... (גְּנִיטִיו)" (מְסַיְּעָא בֵּיהּ דְּוַנְדְּוָא).
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |

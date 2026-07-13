@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 32
 
-A) Determine the following verb forms and form the corresponding imperfect forms in person, number, and genus verbi:
+[A] Tentukan bentuk-bentuk kata kerja berikut dan bentukkan bentuk imperfecta yang sesuai dalam orang, jumlah, dan genus verbi:
 
 ::: grammar-box
 | Present / Future | Imperfect |
@@ -93,14 +93,14 @@ B) Translate and resolve the Sanskrit compounds:
 
 ⟪१⟫. **⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपान्महापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫**
 (⟪जनस्य⟫ ⟪इन्द्रस्य⟫ ⟪अग्रे⟫ ⟪।⟫ ⟪महत्⟫-⟪पुण्यम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪लोके⟫)
-Once upon a time there was a prince who possessed all desirable qualities, of beautiful form. He stood out among all princes. He sacrificed to the gods, conquered the enemies, protected the people, and did much that was meritorious; therefore, after his death, he was reborn in a heavenly world.
+Dahulu kala, ada seorang pangeran yang memiliki semua sifat yang diinginkan, berparas indah. Ia menonjol di antara para pangeran lainnya. Ia mempersembahkan korban kepada dewa-dewa, menaklukkan musuh-musuh, melindungi rakyat, dan melakukan banyak hal yang berkah; oleh karena itu, setelah kematiannya, ia terlahir kembali di alam surga.
 
 ⟪२⟫. **⟪ब्राह्मणो⟫ ⟪महानगरे⟫ ⟪ऽवसत्⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमागमय्यावक्⟫ ⟪।⟫ ⟪ब्राह्मणपुत्रो⟫ ⟪वेदं⟫ ⟪गुरावधीयीतेति⟫ ⟪॥२॥⟫**
 (⟪ब्राह्मणस्य⟫ ⟪पुत्रः⟫ ⟪।⟫ ⟪गुरोः⟫ ⟪गृहे⟫)
-A Brahman lived in a large city. He summoned his son and spoke: "A Brahman's son should study the Veda with a teacher." At these words, the son went to a teacher to study. He entered the teacher's house and respectfully approached the teacher. The teacher inquired about the Brahman. Then he gave that son food to eat.
+Seorang brahmana tinggal di sebuah kota besar. Ia memanggil putranya dan berkata: "Seorang putra brahmana harus mempelajari Weda bersama seorang guru." Dengan kata-kata tersebut, sang putra pergi kepada seorang guru untuk belajar. Ia memasuki rumah guru dan dengan hormat menghampiri sang guru. Sang guru menanyakan kabar mengenai brahmana tersebut. Kemudian, ia memberikan makanan kepada putra itu untuk dimakan.
 
 ⟪३⟫. **⟪राम⟫ ⟪आचर्यमुपसंगम्य⟫ ⟪वचनमब्रवीत्⟫ ⟪॥३॥⟫**
-Rāma went to the teacher and spoke (the words).
+Rāma pergi kepada sang guru dan mengucapkan (kata-kata tersebut).
 
 ⟪४⟫. **⟪ब्राह्मणा⟫ ⟪वेदमध्यैयत⟫ ⟪चाध्यापयंश्च⟫ ⟪देवांश्चायजन्नयजन्त⟫ ⟪च⟫ ⟪क्षत्रियाः⟫ ⟪श्रुतिमध्यैयत⟫ ⟪जनानरक्षन्महीमभुञ्जन्देवानयजन्त⟫ ⟪वैश्या⟫ ⟪वेदमध्यैयत⟫ ⟪देवानयजन्ताक्रीणन्व्यक्रीणत⟫ ⟪च⟫ ⟪द्विजदासास्तु⟫ ⟪शूद्रा⟫ ⟪आसन्⟫ ⟪॥४॥⟫**
 (⟪द्विजानां⟫ ⟪दासाः⟫)
@@ -108,7 +108,7 @@ Brahmans have studied and taught the Veda, acted as sacrificers for the gods, an
 
 ⟪५⟫. **⟪बुद्धपुत्राः⟫ ⟪सत्यमजानन्दुःखमरुन्धन्मोक्षं⟫ ⟪प्राप्नुवन्⟫ ⟪।⟫ ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫ ⟪॥५॥⟫**
 (⟪बुद्धस्य⟫ ⟪पुत्राः⟫)
-Sons of the Buddha have recognized the truth, brought suffering to a standstill, and attained liberation. A monk who follows the Buddha's path is called a "Son of the Buddha."
+Anak-anak Buddha telah mengenali kebenaran, menghentikan penderitaan, dan mencapai pembebasan. Seorang biksu yang mengikuti jalan Buddha disebut "Anak dari Sang Buddha."
 
 ::: media
 ![](/images/uebung050.webp)
@@ -122,104 +122,104 @@ Fig.: ⟪सम्पन्नरूपा⟫
 Determine and translate the following words:
 
 ::: grammar-box
-| Word Form | Determination | Meaning |
+| Bentuk Kata | Penentuan | Arti |
 | :--- | :--- | :--- |
-| ⟪१⟫. **⟪देवस्य⟫** | Gen. sg. m. | of the god |
-| ⟪२⟫. **⟪उषितायाः⟫** | Abl./Gen. sg. f. PPP | (by) the inhabited |
-| ⟪३⟫. **⟪लप्स्यन्ते⟫** | 3. pl. Ā. Fut. | they will sustain |
-| ⟪४⟫. **⟪गुरौ⟫** | Lok. sg. m. | with the teacher |
-| ⟪५⟫. **⟪भाव्यते⟫** | 3. sg. Ind. Pres. Caus. Pass. | he is brought forth |
-| ⟪६⟫. **⟪अग्न⟫ye** | Dat. sg. m. | to the fire |
-| ⟪७⟫. **⟪मोक्तुम्⟫** | Inf. | to liberate |
-| ⟪८⟫. **⟪वितत्य⟫** | Absol. | after he has stretched out |
-| ⟪९⟫. **⟪स्मृत्यै⟫** | Dat. sg. f. | for the visualization |
-| ⟪१०⟫. **⟪देवताः⟫** | Nom./Acc. pl. f. | the deities |
-| ⟪११⟫. **⟪ब्रवीति⟫** | 3. sg. P. Ind. Pres. | he speaks |
-| ⟪१२⟫. **⟪प्रक्ष्यन्ति⟫** | 3. pl. P. Fut. | they will ask |
-| ⟪१३⟫. **⟪पततः⟫** | Gen. sg. m./n. Part. Pres. | of the falling |
-| ⟪१४⟫. **⟪पत्स्यन्ते⟫** | 3. pl. Ā. Fut. | they will stride |
-| ⟪१५⟫. **⟪आसते⟫** | 3. pl. Ā. Ind. Pres. | they sit |
-| ⟪१६⟫. **⟪महान्ति⟫** | Nom./Acc. pl. n. | the great ones |
-| ⟪१७⟫. **⟪घ्नता⟫** | Instr. sg. m./n. Part. Pres. | by the slayer |
-| ⟪१८⟫. **⟪आययन्ति⟫** | 3. pl. P. Ind. Pres. Caus. | they send / let come |
-| ⟪१९⟫. **⟪एषिता⟫** | Nom. sg. f. Caus. PPP | the wished-made |
-| ⟪२०⟫. **⟪आनाय्य⟫** | Absol. Caus. | after he caused to bring |
-| ⟪२१⟫. **⟪अनृताय⟫** | Dat. sg. n. | for the lie |
-| ⟪२२⟫. **⟪पूजया⟫** | Instr. sg. f. | by the veneration |
-| ⟪२३⟫. **⟪प्रश्नेभ्यः⟫** | Dat./Abl. pl. m. | (from) the questions |
-| ⟪२४⟫. **⟪धक्ष्यन्ति⟫** | 3. pl. P. Fut. | they will burn |
-| ⟪२५⟫. **⟪मृगान्⟫** | Acc. pl. m. | the wild animals |
-| ⟪२६⟫. **⟪बोधिम्⟫** | Acc. sg. f. | the insight |
-| ⟪२७⟫. **⟪गुणैः⟫** | Instr. pl. m. | by qualities |
-| ⟪२८⟫. **⟪सन्ति⟫** | 3. pl. P. Ind. Pres. | they are / the true ones |
-| ⟪२९⟫. **⟪यन्ति⟫** | 3. pl. P. Ind. Pres. | they go |
-| ⟪३०⟫. **⟪क्रियते⟫** | 3. sg. Ind. Pres. Pass. | it is done |
-| ⟪३१⟫. **⟪विगत्य⟫** | Absol. | after it has passed |
-| ⟪३२⟫. **⟪चरित्वा⟫** | Absol. | after he has grazed |
-| ⟪३३⟫. **⟪पीते⟫** | Lok. sg. m./n. PPP | in the drunk |
-| ⟪३४⟫. **⟪अन्नानि⟫** | Nom./Acc. pl. n. | the foods |
-| ⟪३५⟫. **⟪जलम्⟫** | Nom./Acc. sg. n. | the water |
-| ⟪३६⟫. **⟪वक्ति⟫** | 3. sg. P. Ind. Pres. | he says |
-| ⟪३७⟫. **⟪उक्तिः⟫** | Nom. sg. f. | the utterance |
-| ⟪३८⟫. **⟪अर्धात्⟫** | Abl. sg. m./n. | of the half |
-| ⟪३९⟫. **⟪अर्थेन⟫** | Instr. sg. m. | by the purpose |
-| ⟪४०⟫. **⟪स्तूयन्ते⟫** | 3. pl. Ind. Pres. Pass. | they are praised |
-| ⟪४१⟫. **⟪श्रोष्यति⟫** | 3. sg. P. Fut. | he will hear |
-| ⟪४२⟫. **⟪स्रष्टुम्⟫** | Inf. | to draw |
-| ⟪४३⟫. **⟪पशुम्⟫** | Acc. sg. m. | the animal |
-| ⟪४४⟫. **⟪स्तुतीः⟫** | Acc. pl. f. | the praises |
-| ⟪४५⟫. **⟪अरयः⟫** | Nom. pl. m. | the enemies |
-| ⟪४६⟫. **⟪जात्या⟫** | Instr. sg. f. | by the birth |
-| ⟪४७⟫. **⟪जाताम्⟫** | Acc. sg. f. PPP | the born |
-| ⟪४८⟫. **⟪देक्ष्यति⟫** | 3. sg. P. Fut. | he will show |
-| ⟪४९⟫. **⟪दर्शितः⟫** | Nom. sg. m. Caus. PPP | the shown |
-| ⟪५०⟫. **⟪दुष्टाः⟫** | Nom. pl. m. PPP | spoiled |
-| ⟪५१⟫. **⟪द्विजातीन्⟫** | Acc. pl. m. | the twice-born |
+| ⟪१⟫. **⟪देवस्य⟫** | Gen. tunggal m. | dari dewa |
+| ⟪२⟫. **⟪उषितायाः⟫** | Abl./Gen. tunggal f. PPP | (oleh) yang dihuni |
+| ⟪३⟫. **⟪लप्स्यन्ते⟫** | 3. jamak Ā. Fut. | mereka akan menopang |
+| ⟪४⟫. **⟪गुरौ⟫** | Lok. tunggal m. | pada guru |
+| ⟪५⟫. **⟪भाव्यते⟫** | 3. tunggal Ind. Pres. Kaus. Pas. | ia dimunculkan |
+| ⟪६⟫. **⟪अग्न⟫ye** | Dat. tunggal m. | kepada api |
+| ⟪७⟫. **⟪मोक्तुम्⟫** | Inf. | untuk membebaskan |
+| ⟪८⟫. **⟪वितत्य⟫** | Absol. | setelah ia merentangkan |
+| ⟪९⟫. **⟪स्मृत्यै⟫** | Dat. tunggal f. | untuk visualisasi |
+| ⟪१०⟫. **⟪देवताः⟫** | Nom./Ak. jamak f. | para dewi |
+| ⟪११⟫. **⟪ब्रवीति⟫** | 3. tunggal P. Ind. Pres. | ia berbicara |
+| ⟪१२⟫. **⟪प्रक्ष्यन्ति⟫** | 3. jamak P. Fut. | mereka akan bertanya |
+| ⟪१३⟫. **⟪पततः⟫** | Gen. tunggal m./n. Part. Pres. | dari yang jatuh |
+| ⟪१४⟫. **⟪पत्स्यन्ते⟫** | 3. jamak Ā. Fut. | mereka akan melangkah |
+| ⟪१५⟫. **⟪आसते⟫** | 3. jamak Ā. Ind. Pres. | mereka duduk |
+| ⟪१६⟫. **⟪महान्ति⟫** | Nom./Ak. jamak n. | yang agung-agung |
+| ⟪१७⟫. **⟪घ्नता⟫** | Instr. tunggal m./n. Part. Pres. | oleh si pembunuh |
+| ⟪१८⟫. **⟪आययन्ति⟫** | 3. jamak P. Ind. Pres. Kaus. | mereka mengirim / membiarkan datang |
+| ⟪१९⟫. **⟪एषिता⟫** | Nom. tunggal f. Kaus. PPP | yang dibuat sesuai keinginan |
+| ⟪२०⟫. **⟪आनाय्य⟫** | Absol. Kaus. | setelah ia menyuruh membawa |
+| ⟪२१⟫. **⟪अनृताय⟫** | Dat. tunggal n. | untuk kebohongan |
+| ⟪२२⟫. **⟪पूजया⟫** | Instr. tunggal f. | oleh penghormatan |
+| ⟪२३⟫. **⟪प्रश्नेभ्यः⟫** | Dat./Abl. jamak m. | (dari) pertanyaan-pertanyaan |
+| ⟪२४⟫. **⟪धक्ष्यन्ति⟫** | 3. jamak P. Fut. | mereka akan membakar |
+| ⟪२५⟫. **⟪मृगान्⟫** | Ak. jamak m. | binatang-binatang liar |
+| ⟪२६⟫. **⟪बोधिम्⟫** | Ak. tunggal f. | wawasan |
+| ⟪२७⟫. **⟪गुणैः⟫** | Instr. jamak m. | oleh sifat-sifat |
+| ⟪२८⟫. **⟪सन्ति⟫** | 3. jamak P. Ind. Pres. | mereka ada / yang benar |
+| ⟪२९⟫. **⟪यन्ति⟫** | 3. jamak P. Ind. Pres. | mereka pergi |
+| ⟪३०⟫. **⟪क्रियते⟫** | 3. tunggal Ind. Pres. Pas. | itu dilakukan |
+| ⟪३१⟫. **⟪विगत्य⟫** | Absol. | setelah itu berlalu |
+| ⟪३२⟫. **⟪चरित्वा⟫** | Absol. | setelah ia merumput |
+| ⟪३३⟫. **⟪पीते⟫** | Lok. tunggal m./n. PPP | dalam yang diminum |
+| ⟪३४⟫. **⟪अन्नानि⟫** | Nom./Ak. jamak n. | makanan-makanan |
+| ⟪३५⟫. **⟪जलम्⟫** | Nom./Ak. tunggal n. | air |
+| ⟪३६⟫. **⟪वक्ति⟫** | 3. tunggal P. Ind. Pres. | ia berkata |
+| ⟪३७⟫. **⟪उक्तिः⟫** | Nom. tunggal f. | ucapan |
+| ⟪३८⟫. **⟪अर्धात्⟫** | Abl. tunggal m./n. | dari setengah |
+| ⟪३९⟫. **⟪अर्थेन⟫** | Instr. tunggal m. | oleh tujuan |
+| ⟪४०⟫. **⟪स्तूयन्ते⟫** | 3. jamak Ind. Pres. Pas. | mereka dipuji |
+| ⟪४१⟫. **⟪श्रोष्यति⟫** | 3. tunggal P. Fut. | ia akan mendengar |
+| ⟪४२⟫. **⟪स्रष्टुम्⟫** | Inf. | untuk menarik |
+| ⟪४३⟫. **⟪पशुम्⟫** | Ak. tunggal m. | binatang |
+| ⟪४४⟫. **⟪स्तुतीः⟫** | Ak. jamak f. | pujian-pujian |
+| ⟪४५⟫. **⟪अरयः⟫** | Nom. jamak m. | musuh-musuh |
+| ⟪४६⟫. **⟪जात्या⟫** | Instr. tunggal f. | oleh kelahiran |
+| ⟪४७⟫. **⟪जाताम्⟫** | Ak. tunggal f. PPP | yang dilahirkan |
+| ⟪४८⟫. **⟪देक्ष्यति⟫** | 3. tunggal P. Fut. | ia akan menunjukkan |
+| ⟪४९⟫. **⟪दर्शितः⟫** | Nom. tunggal m. Kaus. PPP | yang ditunjukkan |
+| ⟪५०⟫. **⟪दुष्टाः⟫** | Nom. jamak m. PPP | yang rusak |
+| ⟪५१⟫. **⟪द्विजातीन्⟫** | Ak. jamak m. | para dwijati |
 
-| ⟪५२⟫. **⟪मृत्योः⟫** | Abl./Gen. sg. m. | of death |
-| ⟪५३⟫. **⟪दुग्धानाम्⟫** | Gen. pl. PPP | of the milked |
-| ⟪५४⟫. **⟪दिष्टिभिः⟫** | Instr. pl. f. | by instructions |
-| ⟪५५⟫. **⟪मात्रायाम्⟫** | Lok. sg. f. | in measure |
-| ⟪५६⟫. **⟪अत्ति⟫** | 3. sg. P. Ind. Pres. | he eats |
-| ⟪५७⟫. **⟪जायन्ते⟫** | 3. pl. Ā. Ind. Pres. | they are born |
-| ⟪५८⟫. **⟪जीयन्ते⟫** | 3. pl. Ind. Pres. Pass. | they are conquered |
-| ⟪५९⟫. **⟪जयन्ति⟫** | 3. pl. P. Ind. Pres. | they triumph |
-| ⟪६०⟫. **⟪जनयन्ति⟫** | 3. pl. P. Ind. Pres. Caus. | they produce |
-| ⟪६१⟫. **⟪प्रभृतेः⟫** | Abl./Gen. sg. f. | from the beginning |
-| ⟪६२⟫. **⟪उपतिष्ठन्ति⟫** | 3. pl. P. Ind. Pres. | they stand before |
-| ⟪६३⟫. **⟪स्थित्याम्⟫** | Lok. sg. f. | in the determination |
-| ⟪६४⟫. **⟪भिक्षुषु⟫** | Lok. pl. m. | with the monks |
-| ⟪६५⟫. **⟪पक्त्वा⟫** | Absol. | after he has cooked |
-| ⟪६६⟫. **⟪योद्धुम्⟫** | Inf. | to fight |
-| ⟪६७⟫. **⟪मारयित्वा⟫** | Absol. Caus. | after he has killed |
-| ⟪६८⟫. **⟪धेन्वा⟫** | Instr. sg. f. | by the milk cow |
-| ⟪६९⟫. **⟪मंस्यन्ते⟫** | 3. pl. Ā. Fut. | they will think |
-| ⟪७०⟫. **⟪इज्यते⟫** | 3. sg. Ind. Pres. Pass. | it is sacrificed |
-| ⟪७१⟫. **⟪प्रोद्य⟫** | Absol. | after he has proclaimed |
-| ⟪७२⟫. **⟪लम्भयति⟫** | 3. sg. Ind. Pres. Caus. | he causes to remain |
-| ⟪७३⟫. **⟪स्थापिताभिः⟫** | Instr. pl. f. Caus. PPP | by the placed |
-| ⟪७४⟫. **⟪शक्तिभ्यः⟫** | Dat./Abl. pl. f. | (by) the powers |
-| ⟪७५⟫. **⟪अलम्⟫** | Adv. | enough |
-| ⟪७६⟫. **⟪हेतून्⟫** | Acc. pl. m. | the reasons |
-| ⟪७७⟫. **⟪प्रतिमासु⟫** | Lok. pl. f. | with the images |
-| ⟪७८⟫. **⟪यस्याः⟫** | Gen. sg. f. Rel. | of which |
-| ⟪७९⟫. **⟪हि⟫** | Conj. | for, namely |
-| ⟪८०⟫. **⟪तस्मिन्⟫** | Lok. sg. m./n. Dem. | in this |
-| ⟪८१⟫. **⟪ह्रियन्ते⟫** | 3. pl. Ind. Pres. Pass. | they are taken |
-| ⟪८२⟫. **⟪अधिकृतेषु⟫** | Lok. pl. m./n. PPP | with the appointed |
-| ⟪८३⟫. **⟪अध्यापयति⟫** | 3. sg. P. Ind. Pres. Caus. | he instructs |
-| ⟪८४⟫. **⟪वाचयन्ति⟫** | 3. pl. P. Ind. Pres. Caus. | they cause to read |
+| ⟪५२⟫. **⟪मृत्योः⟫** | Abl./Gen. tunggal m. | dari kematian |
+| ⟪५३⟫. **⟪दुग्धानाम्⟫** | Gen. jamak PPP | dari yang diperah |
+| ⟪५४⟫. **⟪दिष्टिभिः⟫** | Instr. jamak f. | oleh petunjuk-petunjuk |
+| ⟪५५⟫. **⟪मात्रायाम्⟫** | Lok. tunggal f. | dalam ukuran |
+| ⟪५६⟫. **⟪अत्ति⟫** | 3. tunggal P. Ind. Pres. | ia makan |
+| ⟪५७⟫. **⟪जायन्ते⟫** | 3. jamak Ā. Ind. Pres. | mereka dilahirkan |
+| ⟪५८⟫. **⟪जीयन्ते⟫** | 3. jamak Ind. Pres. Pas. | mereka ditaklukkan |
+| ⟪५९⟫. **⟪जयन्ति⟫** | 3. jamak P. Ind. Pres. | mereka menang |
+| ⟪६०⟫. **⟪जनयन्ति⟫** | 3. jamak P. Ind. Pres. Kaus. | mereka menghasilkan |
+| ⟪६१⟫. **⟪प्रभृतेः⟫** | Abl./Gen. tunggal f. | dari permulaan |
+| ⟪६२⟫. **⟪उपतिष्ठन्ति⟫** | 3. jamak P. Ind. Pres. | mereka berdiri di depan |
+| ⟪६३⟫. **⟪स्थित्याम्⟫** | Lok. tunggal f. | dalam ketetapan |
+| ⟪६४⟫. **⟪भिक्षुषु⟫** | Lok. jamak m. | pada para biksu |
+| ⟪६५⟫. **⟪पक्त्वा⟫** | Absol. | setelah ia memasak |
+| ⟪६६⟫. **⟪योद्धुम्⟫** | Inf. | untuk bertarung |
+| ⟪६७⟫. **⟪मारयित्वा⟫** | Absol. Kaus. | setelah ia membunuh |
+| ⟪६८⟫. **⟪धेन्वा⟫** | Instr. tunggal f. | oleh sapi perah |
+| ⟪६९⟫. **⟪मंस्यन्ते⟫** | 3. jamak Ā. Fut. | mereka akan berpikir |
+| ⟪७०⟫. **⟪इज्यते⟫** | 3. tunggal Ind. Pres. Pas. | itu dikorbankan |
+| ⟪७१⟫. **⟪प्रोद्य⟫** | Absol. | setelah ia memaklumkan |
+| ⟪७२⟫. **⟪लम्भयति⟫** | 3. tunggal Ind. Pres. Kaus. | ia menyebabkan tinggal |
+| ⟪७३⟫. **⟪स्थापिताभिः⟫** | Instr. jamak f. Kaus. PPP | oleh yang ditempatkan |
+| ⟪७४⟫. **⟪शक्तिभ्यः⟫** | Dat./Abl. jamak f. | (oleh) kekuatan-kekuatan |
+| ⟪७५⟫. **⟪अलम्⟫** | Adv. | cukup |
+| ⟪७६⟫. **⟪हेतून्⟫** | Ak. jamak m. | alasan-alasan |
+| ⟪७७⟫. **⟪प्रतिमासु⟫** | Lok. jamak f. | pada gambar-gambar |
+| ⟪७८⟫. **⟪यस्याः⟫** | Gen. tunggal f. Rel. | dari yang mana |
+| ⟪७९⟫. **⟪हि⟫** | Konj. | karena, yaitu |
+| ⟪८०⟫. **⟪तस्मिन्⟫** | Lok. tunggal m./n. Dem. | di dalam ini |
+| ⟪८१⟫. **⟪ह्रियन्ते⟫** | 3. jamak Ind. Pres. Pas. | mereka diambil |
+| ⟪८२⟫. **⟪अधिकृतेषु⟫** | Lok. jamak m./n. PPP | pada yang ditunjuk |
+| ⟪८३⟫. **⟪अध्यापयति⟫** | 3. tunggal P. Ind. Pres. Kaus. | ia mengajar |
+| ⟪८४⟫. **⟪वाचयन्ति⟫** | 3. jamak P. Ind. Pres. Kaus. | mereka menyuruh membaca |
 :::: media
 ![](/images/uebung051.webp)
-Fig.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
-(Image source: [Details](/en/licenses#uebung051))
+Gbr.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सुखतां⟫ ⟪वहति⟫
+(Sumber gambar: [Detail](/en/licenses#uebung051))
 ::::
 :::
 ---
 
 ## Sandhi Exercise
 
-Insert the words in parentheses into the following sentences, observing the Sandhi rules:
+Masukkan kata-kata dalam kurung ke dalam kalimat berikut, dengan memperhatikan aturan Sandhi:
 
 ⟪१⟫. **⟪रामो⟫ ⟪ग्रामात्⟫ ... ⟪गच्छति⟫ ⟪।⟫** (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪कविगृह⟫)
 - ⟪रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गच्छति⟫ ⟪।⟫
@@ -252,16 +252,16 @@ Insert the words in parentheses into the following sentences, observing the Sand
 
 ## Additional Sanskrit Translations
 
-1. After the son is born, the Brahmin woman sends a servant to the Brahmin.
+1. Setelah anak laki-laki lahir, wanita Brahmin mengutus pelayan kepada Brahmin.
 **⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫**
 
-2. The holy man has endured the evil done to him.
+2. Orang suci telah menanggung kejahatan yang dilakukan kepadanya.
 **⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪॥⟫**
 
-3. Morality is the ornament of man.
+3. Moralitas adalah perhiasan manusia.
 **⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫**
 
-4. The powerful warriors have gone to the Brahmin village.
+4. Para pejuang yang kuat telah pergi ke desa Brahmin.
 **⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪॥⟫**
 
 5. The girl is weeping.
@@ -274,7 +274,7 @@ Insert the words in parentheses into the following sentences, observing the Sand
 7. A man protected by the goddess is happy.
 **⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखवान्⟫ ⟪॥⟫**
 
-8. With whatever wind a cloud lets fall water, with that wind a scholar moves his umbrella.
+8. Dengan angin apa pun yang menyebabkan awan menjatuhkan air, dengan angin itu seorang cendekiawan menggerakkan payungnya.
 **⟪येन⟫ ⟪येन⟫ ⟪च⟫ ⟪वातेन⟫ ⟪वारिदो⟫ ⟪वारिं⟫ ⟪मुञ्चति⟫ ⟪।⟫**
 **⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫ ⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥⟫**
 
@@ -284,7 +284,7 @@ Insert the words in parentheses into the following sentences, observing the Sand
 10. Welcome, the queen!
 **⟪स्वागतं⟫ ⟪देव्यै⟫ ⟪॥⟫**
 
-11. For the sake of heaven, people perform meritorious deeds.
+11. Demi surga, manusia melakukan perbuatan terpuji.
 **⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कुर्वते⟫ ⟪॥⟫**
 
 12. Goodbye!
@@ -311,12 +311,12 @@ Fig.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 :::
 ---
 
-## Narrative: The Old Man and the Monkeys (Sanskrit Bālādarśa)
+## Narasi: Si Tua dan Para Kera (Sanskrit Bālādarśa)
 
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमगच्छत्⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाती⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 
-**Translation:**
-Once, an old man went to another village and became tired on the way. To rest, he went to the foot of a mango tree by the roadside. On this tree hung ripe fruits. The old man desired them, but he could not climb the tree to pick them. Fortunately, there were some monkeys on the tree eating fruits. When the old man saw this, he rejoiced. What did he do? He took some stones, aimed at the monkeys, and threw them. The monkeys became angry, picked some fruits, and threw them at the old man. The old man joyfully took the fruits and went on his way. Great is the cunning of the old man!
+**Terjemahan:**
+Suatu kali, seorang pria tua pergi ke desa lain dan merasa lelah di perjalanan. Untuk beristirahat, ia duduk di bawah pohon mangga yang tumbuh di tepi jalan. Di pohon itu tergantung buah-buahan yang matang. Pria tua tersebut menginginkannya, tetapi ia tidak dapat memanjat pohon untuk mengambilnya. Untungnya, ada beberapa monyet di pohon itu sedang memakan buah-buahan. Ketika pria tua melihat hal ini, ia merasa senang. Apa yang dilakukannya? Ia mengambil beberapa batu, mengarahkannya ke monyet-monyet itu, dan melemparkannya. Monyet-monyet tersebut menjadi marah, mengambil beberapa buah, dan melemparkannya ke arah pria tua itu. Pria tua tersebut dengan gembira mengambil buah-buahan itu dan melanjutkan perjalanannya. Sangat licik tingkah laku pria tua tersebut!
 
 ::: media
 ![](/images/uebung054.webp)

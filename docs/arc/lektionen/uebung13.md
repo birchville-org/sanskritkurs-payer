@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 13
+# ܬܪܓܡܬܐ 13
 
 A) Translate and convert into active present tense sentences:
 
@@ -15,7 +15,7 @@ A fire has burned the house.
 ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 
 ⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
-Buddha has awakened to the truth. Buddha has recognized the truth.
+ܒܘܕܗܐ ܝܕܥ ܠܫܪܬܐ. ܒܘܕܗܐ ܚܫܒ ܠܫܪܬܐ.
 ⟪बुद्धः⟫ ⟪सत्यं⟫ ⟪बुध्यते⟫ / ⟪बोधति⟫ ⟪।⟫
 
 ⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
@@ -35,7 +35,7 @@ Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
 ⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
 
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
-It is said that Vedic sages have spoken only the truth.
+ܐܝܠܘܢ ܕܡܠܠܬ ܟ̈ܝܠܬ ܐܘܪܝܬܐ.
 ⟪ऋषयः⟫ ⟪सत्यमेव⟫ ⟪वदन्तीति⟫ ⟪वदन्ति⟫ ⟪।⟫
 
 ⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
@@ -54,7 +54,7 @@ By means of the mantra, liberation has been attained.
 What kind of amulet has protected this girl?
 ⟪का⟫ ⟪रक्षिका⟫ ⟪बालां⟫ ⟪रक्षति⟫ ⟪॥⟫
 
-B) Translate and convert into passive sentences of the past
+ܒ) ܬܪܓܡ ܘܗܘܕܥ ܠܦܫܩܐ ܕܚܒܪܐ ܕܥܬܝܩ
 
 ⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
 Although Rāma desires liberation, he does not attain it.
@@ -69,7 +69,7 @@ Saints visualize the gods.
 ⟪साधुभिर्देवाः⟫ ⟪स्मृताः⟫ ⟪।⟫
 
 ⟪४⟫. ⟪पुण्यवान्पुत्रो⟫ ⟪देवान्यजते⟫ ⟪।⟫
-The virtuous son sacrifices to the gods.
+ܣܘܩܠܐ ܕܒܪ ܚܢܬܐ ܡܫܟܝ ܠܐܠܗ̈ܘܬܐ.
 ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪देवा⟫ ⟪इष्टाः⟫ ⟪।⟫
 
 ⟪५⟫. ⟪सुखवान्क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
@@ -85,7 +85,7 @@ The master says that a pious woman does no evil.
 ⟪धर्मवत्या⟫ ⟪पापं⟫ ⟪न⟫ ⟪कृतमिति⟫ ⟪गुरुणोदितम्⟫ ⟪।⟫
 
 ⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪प्र्च्छन्ति⟫ ⟪।⟫
-The insightful question those who possess the truth about the Dharma.
+ܣܘܐܠܬܐ ܕܚܟܡܐ ܠܗܝܠܦܘܬܐ ܕܡܫܟܚܝܢ ܒܬܘܪܬܐ.
 ⟪बुद्धिमद्भिः⟫ ⟪सत्यवन्तो⟫ ⟪धर्मं⟫ ⟪पृष्टाः⟫ ⟪।⟫
 
 ⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
@@ -113,7 +113,7 @@ Low-minded people think that rulers desire wealth.
 ⟪पार्थिवेन⟫ ⟪धनमिष्टमिति⟫ ⟪नीचैर्मतम्⟫ ⟪।⟫
 
 ⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
-The Vedic sages see that the demon does not win in any case.
+ܣܓܝ̈ܐ ܕܡܠܬ ܘܪܝܫ̈ܐ ܕܡܕܢܚܐ ܠܐ ܫܬܥܒܕܝ̈ܢ ܠܗ ܒܟܠ ܥܕܪܐ.
 ⟪नैवासुरेण⟫ ⟪जितमित्यृषिभिर्दृष्टम्⟫ ⟪।⟫
 
 ⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
@@ -127,7 +127,7 @@ Fig.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 :::
 ---
 
-## Additional Exercises
+## Additional ܬܪܓܠܐs
 
 A) Translate the following sentences.
 
@@ -144,7 +144,7 @@ People wish for happiness through wealth.
 ⟪नरैर्धनेन⟫ ⟪सुखमिष्यते⟫ ⟪।⟫ ⟪सुखमिष्टम्⟫ ⟪।⟫
 
 ⟪३⟫. ⟪नरः⟫ ⟪पुत्रेण⟫ ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫
-The man goes to the city with his son.
+ܐܢܫ̈ܐ ܕܪܟ ܠܩܘܼܛܵܐ ܥܡ ܒܪ̈ܗ.
 ⟪नरेण⟫ ⟪पुत्रेण⟫ (⟪सह⟫) ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫ ⟪नरः⟫ ⟪पुत्रेण⟫ (⟪सह⟫) ⟪नगरं⟫ ⟪पन्नः⟫ ⟪।⟫
 
 ⟪४⟫. ⟪देवो⟫ ⟪लोकान्सृजति⟫ ⟪।⟫
@@ -168,7 +168,7 @@ A virtuous person does not fight his enemy, even if he is hateful to him.
 ⟪गुणवता⟫ ⟪द्विष्तो⟫ ⟪ऽपि⟫ ⟪शत्रुर्न⟫ ⟪युध्यते⟫ ⟪।⟫ ⟪युद्धः⟫ ⟪।⟫
 
 ⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
-The Vedic sage says that anger, hatred, and greed are wrong.
+ܣܘܓܝܐ ܕܡܪܟܢܐ ܩܘܠ ܕܓܝܪܬܐ ܘܥܒܝܕܬܐ ܘܟܢܫܐ ܗܝ ܪܒܐ.
 ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिणोद्यते⟫ ⟪।⟫ ⟪लोभश्चेत्यृषिणोदितम्⟫ ⟪।⟫
 
 ⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫

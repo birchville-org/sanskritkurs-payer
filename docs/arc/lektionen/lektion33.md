@@ -4,28 +4,28 @@ lesson_id: 33
 status: stable
 ---
 
-# Lektion 33
+# ܠܩܨܝܘܢ 33
 
-## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
+## 33.1. ܬܲܪ̈ܬܹܝܢ (⟪ܐܲܒ݂ܗܝܵܣ⟫ ܕܲܟ݂ܪܵܢܵܐ)
 
-* Die dritte Präsensklasse
-* (as well as some verbs of other present classes),
-* the perfect,
-* the reduplicated aorist,
-* the frequentative, and
-* the desiderative
+* ܣܕܪܐ ܬܠܝܬܐ ܕܨܘܪܡ ܦܪێܣܢ
+* (ܐܝܟ ܕܠܦܢܘ̈ܬܐ ܕܣܕܪܝܢ ܐ̈ܚܪܝܢ),
+* ܦܪێܣܢ ܬܠܝܘ̈ܐ,
+* ܦܪێܣܢ ܩܕܡܝܐ ܡܪܟܒ,
+* ܦܪێܣܢ ܡܠܬܐ,
+* ܘܦܪێܣܢ ܡܬܒܥ
 
 werden mittels Reduplikation gebildet. Der Teil einer reduplizierten Form, der vor die Wurzel gesetzt wird, heißt Reduplikationssilbe.
 
 Die Reduplikationssilbe besteht aus (einem Konsonanten und) einem Vokal.
 
-### 33.1.1. Der Reduplikationskonsonant
+### 33.1.1. ܩܘܢܣܘܢܢܛܐ ܕܬܪ̈ܝܨܘܬܐ
 
 ::: grammar-box
 **1. Regular:**  
 **Wiederholung des ersten Konsonanten der Wurzel**
 :::
-Beispiele:
+Examples:
 
 ::: indent
 **⟪दा⟫** 3 "to give"
@@ -40,7 +40,7 @@ Beispiele:
 ::: grammar-box
 **2. Ein aspirierter Anfangskonsonant einer Wurzel wird durch den entsprechenden nicht-aspirierten Konsonanten redupliziert.**
 :::
-Beispiele:
+Examples:
 
 ::: indent
 **⟪धा⟫** 3 "to set"
@@ -58,51 +58,51 @@ Beispiele:
 **⟪ग्⟫**, **⟪घ्⟫** durch **⟪ज्⟫**
 :::
 **⟪ह्⟫ wird immer durch ⟪ज्⟫ redupliziert.**
-Beispiele:
+Examples:
 
 ::: indent
-**⟪हु⟫** 3 "(to the sacrifice) pour into the fire"
+**⟪हु⟫** 3 "(לזבחא) שפך על אש"
 * 3.sg.P.Ind.Pres. **⟪जुहोति⟫**
 :::
 ::: grammar-box
-**4. Wenn eine Wurzel mit mehreren Konsonanten beginnt, dann wird nur der erste (eventuell unter Anwendung von Regel 2 oder 3) wiederholt.**
+**4. אם שורש מתחיל במספר עיצורים, רק הראשון (אולי בהתאם לכלל 2 או 3) יחזור.**
 :::
 ::: grammar-box
-**5. Wenn eine Wurzel mit einer Konsonantengruppe Zischlaut + stimmloser Konsonant beginnt, dann wird nicht der Zischlaut, sondern der folgende stimmlose Konsonant nach den obigen Regeln redupliziert.**
+**5. אם שורש מתחיל בקבוצת עיצורים של זיז + עיצור חסר-קול, לא הזיז אלא העיצור החסר-קול הבא יחזור לפי הכללים הנ"ל.**
 :::
-Beispiel:
+דוגמה:
 
 ::: indent
 **⟪स्था⟫** 1 "stand"
 * 3.sg.P.Ind.Präs. **⟪तिष्ठति⟫**
 :::
-## 33.2. Die dritte Präsensklasse (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ usw.")
+## 33.2. ܦܘܠܚܢܐ ܕܙܒܢܐ ܗܫܝܐ ܕܬܠܝܬܝܐ (⟪ܓ'ܘܗܘܬܝܐܕܝ⟫ = "⟪ܓ'ܘܗܘܬܝ⟫ ܐܠܨ.)
 
 ::: grammar-box
 **Formation:**
 
-**starker Stamm:**
-**reduplizierte Hochstufe der Wurzel + Endung**
+**strong stem:**
+**reduplicated high grade of the root + ending**
 
-**schwacher Stamm:**
-**reduplizierte Tiefstufe der Wurzel + Endung**
+**weak stem:**
+**reduplicated low grade of the root + ending**
 
-**For the reduplication consonant, the rules given above apply.**
+**Für den Reduplikationskonsonanten gelten die oben genannten Regeln.**
 :::
-### 33.2.1. Der Reduplikationsvokal der 3. Präsensklasse
+### 33.2.1. ܩܠܐ ܕܬܘܪܨܐ ܕܦܘܠܚܢܐ ܕܙܒܢܐ ܗܫܝܐ ܕܬܠܝܬܝܐ
 
 ::: grammar-box
 * **The regular reduplicating vowel is -i-**
 * **Wurzeln mit -u reduplizieren mit -u-**
 * **die Wurzeln ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ mit -a-**
 :::
-Beispiele:
+Examples:
 
 ::: grammar-box
 **⟪हु⟫** 3P "(pouring into the fire) to pour into the fire"
 
-* **starker Stamm:** ⟪जुहो⟫
-* **schwacher Stamm:** ⟪जुहु⟫
+* **strong stem:** ⟪जुहो⟫
+* **weak stem:** ⟪जुहु⟫
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -110,11 +110,11 @@ Beispiele:
 | **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \&lt;⟪अजुहुत⟫\&gt; | \&lt;⟪अजुह्वत⟫\&gt;:bra-juhu + ata |
 | **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \&lt;⟪जुह्वीत⟫\&gt;:brjuhu + ī-ta | \&lt;⟪जुह्वीरन्⟫\&gt;:brjuhu + ī-ran |
 :::
-## 33.3. Zum Ablaut von ā
+## 33.3. ܥܠ ܐܒܠܘܛ ܕܐ̄
 
 ā kann
 
-* on the one hand, a lengthened grade of one of the ablaut series with -a-
+* einerseits eine verlängerte Stufe einer der Ablautreihen mit -a-
 * on the other hand, high grade in an ablaut series of the ā-group
 
 [0] Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
@@ -145,12 +145,12 @@ Dies umfasst zum Beispiel auch:
 * **High grade: -ā-**  
   e.g. **⟪पा⟫** 1: Inf. **⟪पातुम्⟫**
 :::
-## 33.4. Wurzeln auf -ā der dritten Präsensklasse
+## 33.4. ܥܩܪ̈ܐ ܕܡܫܬܠܡܝܢ ܒ -ܐ ܕܕܪܓܐ ܬܠܝܬܝܐ ܕܙܒܢܐ ܕܗܫܐ
 
 ::: grammar-box
-**Wurzeln auf -ā (außer ⟪दा⟫ und ⟪धा⟫) haben gewöhnlich eine Stammform auf -ī-** (siehe Thumb-Hauschild Bd. 1,1 S. 271. Vermutlich diente hier die oben erwähnte Ablautreihe B als Vorbild, obwohl diese Wurzeln sonst nach Reihe A ablauten), **vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A).**
+**Roots ending in -ā (except ⟪दा⟫ and ⟪धा⟫) usually have a stem form in -ī-** (see Thumb-Hauschild vol. 1,1 p. 271. Presumably the ablaut series B mentioned above served as the model here, although these roots otherwise followed series A), **before vocalic endings the root vowel disappears completely (see ablaut series A).**
 :::
-Beispiele:
+Examples:
 
 ::: grammar-box
 **⟪मा⟫** 3Ā "to measure"
@@ -170,23 +170,23 @@ Beispiele:
 | **Imperfect** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optative** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Die Wurzeln **⟪दा⟫** und **⟪धा⟫**
+### 33.4.1. ܥܩܪ̈ܐ ܕ-**⟪दा⟫** ܘ-**⟪धा⟫**
 
 ::: grammar-box
-**Die Wurzeln ⟪दा⟫ und ⟪धा⟫ reduplizieren mit dem Vokal -a- und verlieren den Wurzelvokal im schwachen Stamm.**
+**The roots ⟪दा⟫ and ⟪धा⟫ reduplicate with the vowel -a- and lose the root vowel in the weak stem.**
 
-**Observe the aspiration dissimilation rule with ⟪धा⟫!**
+**Beobachte die Aspirationsdissimilierungsregel mit ⟪धा⟫!**
 :::
 ::: grammar-box
-**⟪धा⟫** 3U "to set, to fix, to allot"
+**⟪धा⟫** 3U „setzen, festlegen, zuteilen“
 
-| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| | 3. Sg. Präs. Ind. | 3. Pl. Präs. Ind. | 3. Sg. Präs. Med. | 3. Pl. Präs. Med. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indicative Present** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Erklärung: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate |
-| **Imperfect** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
-| **Optative** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
+| **Indikativ Präsens** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Erklärung: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate |
+| **Imperfekt** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
+| **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-The forms of **⟪दा⟫** are obtained by replacing **dh** with **d** in the paradigm of **⟪धा⟫**. Thus:
+Die Formen von **⟪दा⟫** entstehen, indem man im Paradigma von **⟪धा⟫** **dh** durch **d** ersetzt. Somit:
 
 ::: grammar-box
 **⟪दा⟫** 3U "give"
@@ -197,12 +197,12 @@ The forms of **⟪दा⟫** are obtained by replacing **dh** with **d** in the
 | **Imperfect** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Optative** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
 :::
-## 33.5. Das Präsenspartizip Parasmaipada der Wurzeln der 3. Präsensklasse
+## 33.5. ܡܦܰܠܚܳܢܳܐ ܕܗܳܫܳܐ ܦܰܪܰܣܡܰܐܝܦܰܐܕܰܐ ܕܫܰܪ̈ܫܶܐ ܕܕܰܪܓܳܐ ܬܠܺܝܬܳܝܳܐ ܕܗܳܫܳܐ
 
 ::: grammar-box
-**Die Verben der 3. Klasse bilden alle Formen des Präsenspartizips Parasmaipada vom schwachen Stamm.**
+**The verbs of the 3rd class form all forms of the present participle parasmaipada from the weak stem.**
 
-**Ausnahme: Nominativ/Akkusativ Plural Neutrum kann wahlweise vom starken oder schwachen Stamm gebildet werden.**
+**Exception: the nominative/accusative plural neuter can optionally be formed from either the strong or the weak stem.**
 :::
 **⟪दा⟫** Present Participle Parasmaipada:
 
@@ -218,7 +218,7 @@ The forms of **⟪दा⟫** are obtained by replacing **dh** with **d** in the
 :::
 Similarly **⟪जुह्वत्⟫** (juhu-at + s)
 
-## 33.6. Wortliste
+## 33.6. ܡܠܘܐܐ
 
 **⟪दा⟫** 3U **⟪ददाति⟫**: give
 
@@ -241,23 +241,23 @@ Fig.: ⟪दानम्⟫
 **⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (to) receive, take possession of, take along
 
 ::: indent
-**Absol.** ⟪आदाय⟫: with Acc.: in the company of, with
+**Absol.** ⟪आदाय⟫: مع المفعول به: في شركة مع، مع
 :::
 ::: media
 ![](/images/lekt3307.webp)
-Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
-(Image source: [Details](/arc/licenses#lekt3307))
+مجازياً: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
+(مصدر الصورة: [تفاصيل](/arc/licenses#lekt3307))
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: to set, to fix, to allot
+***⟪धा⟫*** 3U ***⟪दधाति⟫***: ليضع، ليحدد، ليخصص
 
 ::: indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Kaus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫***
+**المستقبل.** ***⟪धास्यति***  
+**المبني للمجهول.** ***⟪धीयते***  
+**السببي.** ***⟪धापयति***  
+**اسم المفعول الماضي** ***⟪हित*** (!!)  
+**المصدر/اللازم.** ***⟪धातुम्***
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: to direct all attention to something, to collect
+**⟪धा*** + **⟪सम्*** + **⟪आ*** 3U **⟪समादधाति***: ليوجه كل انتباهه إلى شيء ما، ليجتمع
 
 ::: indent
 from it:
@@ -296,14 +296,14 @@ Note:
 
 davon:
 
-**⟪भय⟫** n.: fear, dread; danger (the subjective and the objective aspect)
+**⟪भय⟫** ܢ.: ܕܚܠܬܐ، ܐܝܡܬܐ؛ ܩܢܛܐ (ܓܘܢܝܐ ܢܦܫܢܝܐ ܘܓܘܢܝܐ ܡܕܥܝܐ)
 :::
 ::: media
 ![](/images/lekt3304.webp)
-Fig.: ⟪भयम्⟫
-(Image source: [Details](/arc/licenses#lekt3304))
+ܨܘܪܬܐ: ⟪भयम्⟫
+(ܡܒܘܥܐ ܕܨܘܪܬܐ: [ܦܘܪܫܢ̈ܐ](/arc/licenses#lekt3304))
 :::
-**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: to carry, to bring; to sustain, to nourish
+**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: ܠܡܛܥܢ، ܠܡܝܬܝܘ؛ ܠܡܩܝܡ، ܠܡܬܪܣܝܘ
 
 ::: indent
 **Fut.** ⟪भरिष्यति⟫  
@@ -344,14 +344,14 @@ from it:
 **Inf.** ⟪हातुम्⟫
 from PPP **⟪हीन⟫**:
 
-**⟪हीनयान⟫** n.: the deficient vehicle (of Buddhism): contemptuous designation by the representatives of the "great vehicle", the **⟪महायान⟫**; the deficient path (**⟪यान⟫** to **⟪या⟫** 2: to go, to travel). The expression ⟪हीनयान⟫ should no longer be used. The form of the old Buddhism that still exists today is called **⟪थेरवाद⟫**.
+**⟪ܐ̈ܘܪܕ ܡܛܠܟ ܒܫܝܦ̈ܐ⟪हीनयान⟫** n.: ܗ̈ܘܐ ܡܛܠܟ ܒܫܝܦ̈ܐ (ܕܡܪܬ ܒܫܝܦ̈ܐ): ܡܛܠܟ ܒܫܝܦ̈ܐ ܕܡܪܬ ܒܫܝܦ̈ܐ, **⟪महायान⟫**; ܗ̈ܘܐ ܡܛܠܟ ܒܫܝܦ̈ܐ (**⟪यान⟫** ܠ **⟪या⟫** 2: ܐ̈ܘܪܕ, ܡܛܠ). ܗ̈ܘܐ ⟪हीनयान⟫ ܡܛܠ. ܗ̈ܘܐ ܕܡܪܬ ܒܫܝܦ̈ܐ, **⟪थेरवाद⟫**.
 :::
 ::: media
 ![](/images/lekt3303.webp)
-Fig.: ⟪हीनयानमेव⟫
-(Image source: [Details](/arc/licenses#lekt3303))
+ܡ̈ܛ: ⟪हीनयानमेव⟫
+(ܡ̈ܛ ܕܪܝ: [ܐ̈ܘܪ](/arc/licenses#lekt3303))
 :::
-**⟪हु⟫** 3P **⟪जुहोति⟫**: to pour into the fire (as an offering, esp. melted butter)
+**⟪हु⟫** 3P **⟪जुहोति⟫**: ܐ̈ܘܪ ܠ ܡܛ (ܕܪ, ܒ̈ܫ)
 
 ::: indent
 **Fut.** ⟪होष्यति⟫  
@@ -372,13 +372,13 @@ Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 
 [Source: http://en.wikipedia.org/wiki/Ghee. -- Accessed on 2008-12-26]
 :::
-## 33.7. Exercise
+## 33.7. ܬܪܓܠܐ
 
-A) Insert the corresponding forms of the words in parentheses into the following sentence pattern:
+ܐܬܒܪ ܠܟܘܠ ܡܕܢܚ̈ܝܐ ܕܟܬܒ̈ܐ ܒܦܘܣܩܐ ܕܡܠܬ̈ܐ ܒܦܪܘܫܬܐ:
 
 ⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 
-B) Insert the corresponding forms of the verbs specified in parentheses in the Indicative Present, Imperfect, and Optative:
+ܒ) ܡܠܐ ܝܬ ܦܘܪܡ̈ܐ ܕܛܥܝܢ ܒܦܪܘܫ̈ܬܐ ܕܡܠܦܬܐ:
 
 ⟪ब्राह्मणो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
 

@@ -26,7 +26,7 @@ z.B. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्राम�
 :::
 Naven a questa regulia fundamentala per la furmaziun da Samāhāradvandvas dat ins era ina seria da ulteriuras regulas, ch'ins chatta en Pāṇini 2,4,2-17 u per exempel Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. En las differentas stadi da svilup da la lingua n'èn las medemas regulas betg adina observadas!
 
-## 9.2. La furmaziun da stgalis da nomina
+## 9.2. La furmaziun da stgalas da noms
 
 ### 9.2.1. -ka (taddhita)
 
@@ -80,7 +80,7 @@ vair sur, per exempels **śrāvaka**, **yājaka**, **jayaka**
 
 Inoltra da quai existeschan ancà in’ulteriura utilizaziun main impurtanta dal sufix **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff.
 
-## 9.3. Wortliste
+## 9.3. Glista da pleds
 
 **Imparar las suentas suventas:**
 
@@ -114,7 +114,7 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 - **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : commerzi
 - **śuśrūṣā** f. (⟪शुश्रूषा⟫) : obedientza, servetsch obedient
 
-## 9.4. Übung
+## 9.4. Exercizi
 
 **A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:**
 1\. **brāhmāṇaka** ⟪ब्राह्मणक⟫

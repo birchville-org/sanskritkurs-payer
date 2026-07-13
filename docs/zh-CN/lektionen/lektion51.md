@@ -7,9 +7,9 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 51
+# 第51课
 
-## 51.1. ⟪उपपद⟫-Komposita
+## 51.1. ⟪उपपद⟫-复合词
 
 ::: grammar-box
 **⟪उपपद⟫复合词（⟪उपपद⟫ n. “伴随词”）是带有动词性名词作为后成分的⟪तत्पुरुष⟫，该后成分仅作为复合词的后成分出现，而不作为独立的单个词出现。⟪उपपद⟫带有⟪कृत्⟫后缀**
@@ -84,13 +84,13 @@ c) ⟪कृत्⟫后缀 -a
 
 \-⟪द⟫ 3 “给予”（d-a）例如 ⟪वारिद⟫ m. “云”（⟪वारि⟫ n. “水”）
 
-\-⟪प⟫ 3 “trinkend” (p-a) 例如：⟪द्विप⟫ m. “Elefant (zweimal trinkend)”
+\-⟪⟪प⟩ 3 “饮用”（p-a）例如：⟪द्विप⟩ m. “大象（两次饮用）”
 
 \-⟪प⟫ 3 “保护”（p-a）例如 ⟪भूप⟫ “保护大地 = 国王”
 
-\-⟪स्थ⟫ 3 “stehend in, befindlich in” (sth-a) 例如：⟪गृहस्थ⟫ m. “Haushalter, Hausvater”
+\-⟪स्थ⟫ 3 “站立于，存在于”（sth-a）例如：⟪गृहस्थ⟫ m. “管家，家长”
 
-\-⟪कर⟫ 3 „wirkend, tätig“ 例如：⟪सुखकर⟫ 3 „Glück bringend“
+\-⟪कर⟫ 3 “起作用，活跃”例如：⟪सुखकर⟫ 3 “带来幸福”
 
 \-⟪स्मर⟫ 3 “忆念”，例如 ⟪जातिस्मर⟫ 3 “忆念前世”
 :::: media
@@ -198,10 +198,10 @@ Plural:
 中性
 
 ::: indent
-Singular Nom.Akk.Vok. ⟪सत्यवाक्⟫
-Plural Nom.Akk.Vok. ⟪सत्यवाञ्चि⟫
+单数主格.宾格.呼格 ⟪सत्यवाक्⟫
+复数主格.宾格.呼格 ⟪सत्यवाञ्चि⟫
 :::
-⟪शेषभुज्⟫ 3 "Speisereste essend"
+⟪शेषभुज्⟫ 3 “食用剩食者”
 
 ::: indent
 阳性，阴性：
@@ -363,21 +363,21 @@ Plural:
 Da ovulatie plaatsvindt 14 dagen voor het begin van de menstruatie, is bij deze bepaling van de vruchtbare periode vruchtbaarheid bijna "gegarandeerd" voor een tussenruimte van de menstruaties van 19 tot 30 dagen. De verboden dagen (11. en 13.) verbeteren de kans op geslachtsgemeenschap op de 12. en 14. dag, d.w.z. de zwangerschapskans bij een cyclus van 28 dagen (de levensduur van de zaadcellen in de vrouw bedraagt ca. 3 dagen). Deze bepalingen zijn als zoiets als positieve inzet van Knaus-Ogino.
 :::: media
 ![](/images/lekt5106.jpg)
-Afbeelding: ⟪ऋतुः⟫
-(Beeldbron: [Details](/zh-CN/licenses#lekt5106))
+图像：⟪ऋतुः⟫
+（图片来源：[详情](/zh-CN/licenses#lekt5106)）
 ::::
 :::
-⟪एकत्र⟫ Adv.: op één plek
+⟪एकत्र⟫  adv.：在某一处
 
 ⟪जटा⟫ f.: 发辫（苦行者的发型）
 
 ::: media
 ![](/images/lekt5107.webp)
-Abb.: ⟪जटा⟫
+图：⟪जटा⟫
 ⟪ऋषिकेश⟫
-(Bildquelle: [Details](/zh-CN/licenses#lekt5107))
+（图片来源：[详情](/zh-CN/licenses#lekt5107)）
 :::
-⟪तुल्य⟫ 3: gleich, vergleichbar (⟪तृतीयया⟫)
+⟪तुल्य⟫ 3：相等，可比（⟪तृतीयया⟫）
 
 ⟪तरय⟫ 3（阴性：⟪तरयी⟫）：三重的，由三部分组成的
 
@@ -574,7 +574,7 @@ Karnataka = ಕರ್ನಾಟಕ
 
 ⟪शबर⟫ .: 非雅利安部落的专有名词
 
-## 51.7. Übersetzungsübung
+## 51.7. 翻译练习
 
 ⟪१⟫。⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫，⟪३⟫，⟪९⟫ - ⟪१२⟫ ⟪आश्रमधर्मः⟫
 

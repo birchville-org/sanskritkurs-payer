@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 23
 
-## 23.1. Der Infinitiv (⟪तुमुन्⟫)
+## 23.1. L'infinitif (⟪tumun⟫)
 
 ::: grammar-box
 **Si l'on souhaite exprimer en sanskrit qu'une action se produit en vue d'une autre action (« afin de »), on peut utiliser l'infinitif (⟪तुमुन्⟫) pour l'action en vue de laquelle elle se produit. L'infinitif désigne avant tout le but ou l'intention :**
@@ -51,7 +51,7 @@ par exemple
 
 > ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = « celui dont le souhait est de parler ; celui qui souhaite parler ».
 :::
-## 23.2. Bildung des Infinitiv (⟪तुमुन्⟫)
+## 23.2. Formation de l'infinitif (⟪tumun⟫)
 
 ::: grammar-box
 **ou**
@@ -151,7 +151,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 ⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
 ⟪हन्⟫ 2P ⟪हन्तुम्⟫
 
-## 23.4. Wortliste
+## 23.4. Liste de mots
 
 ⟪समान⟫ ⟪३⟫ : égal
 
@@ -161,7 +161,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 
 ⟪विशेष⟫ m. : particularité, spécification, differentia specifica
 
-## 23.5. Übung
+## 23.5. Exercice
 
 A) Les racines suivantes forment l’infinitif sans voyelle de liaison -i-. Formez l’infinitif en tenant compte des modifications phonétiques suivantes :
 

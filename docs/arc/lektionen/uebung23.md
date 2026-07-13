@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 23
+# ܬܪܓܠܐ 23
 
-A) The following roots form the infinitive without the connecting vowel -i-. Form the infinitive, taking into account the sound changes:
+A) Die folgenden Verbstämme bilden das Infinitiv ohne den Bindevokal -i-. Bildet den Infinitiv unter Berücksichtigung der Lautveränderungen:
 
 1.  ⟪आप्⟫ — **⟪आप्तुम्⟫**
 2.  ⟪इ⟫ — **⟪एतुम्⟫**
@@ -48,7 +48,7 @@ A) The following roots form the infinitive without the connecting vowel -i-. For
 36.  ⟪पच्⟫ — **⟪पक्तुम्⟫**
 37.  ⟪सद्⟫ — **⟪सत्तुम्⟫**
 
-B) The following roots form the infinitive with the connecting vowel -i-. Form the infinitive:
+B) Die folgenden Verbstämme bilden den Infinitiv mit dem Bindevokal -i-. Bildet den Infinitiv:
 
 1.  ⟪आस्⟫ — **⟪आसितुम्⟫**
 2.  ⟪नृत्⟫ — **⟪नर्तितुम्⟫**
@@ -58,7 +58,7 @@ B) The following roots form the infinitive with the connecting vowel -i-. Form t
 6.  ⟪वृत्⟫ — **⟪वर्तितुम्⟫**
 7.  ⟪कुप्⟫ — **⟪कोपितुम्⟫**
 
-C) The following roots optionally with or without the connecting vowel:
+[C) שרשי מילין דִּי בְּאוֹפֵק אוֹ לָא בְּחַלְקָא דִּשְׁמֵיהּ:
 
 1.  ⟪अश्⟫ — **⟪अशितुम्⟫** / **⟪अष्टुम्⟫**
 2.  ⟪इष्⟫ — **⟪एष्टुम्⟫** / **⟪एषितुम्⟫**
@@ -69,7 +69,7 @@ C) The following roots optionally with or without the connecting vowel:
 D) Translate and resolve the compounds:
 
 ⟪१⟫. **⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञ्नैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫**
-To attain heaven, people wish to worship the gods with offerings.
+ܠܡܕܟܐ ܠܫܡܝ̈ܐ، ܓܒܪ̈ܐ ܡܠܘܟ ܠܫܥܒ̈ܕܐ ܠܐܠܗ̈ܬܐ ܒܩܪܒ̈ܢܐ.
 
 ⟪२⟫. **⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫**
 (⟪महत्पुण्यम्⟫ ⟪।⟫ ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪तेन⟫ ⟪जनेन⟫)
@@ -80,7 +80,7 @@ If someone has done much meritorious work, a person free from evil cannot come t
 Since meritorious deeds are fruitful, a good person does not wish to do wrong.
 
 ⟪४⟫. **⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫**
-To liberate the worlds, the Buddha teaches the noble truths.
+ܠܡܕܩܐ ܠܥܠܡ̈ܝܢ، ܝܕܥ ܒܘܕܗܐ ܠܚܟܡ̈ܬ̈ܐ ܪܒܬ̈ܐ.
 
 ⟪५⟫. **⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सहात्⟫tu⟪ं⟫ ⟪नार्हति⟫ ⟪॥५॥⟫**
 (⟪शूद्राणां⟫ ⟪जनः⟫)
@@ -88,24 +88,24 @@ To liberate the worlds, the Buddha teaches the noble truths.
 
 ⟪६⟫. **⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫**
 (⟪लोभेन⟫ ⟪सम्पन्ना⟫ ⟪नराः⟫ ⟪।⟫ ⟪सम्पन्नं⟫ ⟪रूपं⟫ ⟪यस्यास्ताम्⟫)
-Full of greed, the men went to see the beautiful servant girl dance.
+ܡܠܝܐ ܕܓܒܢܘܬܐ، ܙܟܝ̈ܐ ܕܡܠܟܬܐ ܚܙܘ ܠܦܪܫܢܬܐ ܕܣܘܩܛܝܬܐ.
 
 ⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
 Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert.
 
-⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
+⟪८⟫. **⟪ܣܘܬܪܐ ܕܡܠܟܬܐ ܕܒܪܝܬܐ⟫ ⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
 (⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)
-Because she wished to hear about the Dharma, the Brahmin woman went with her son to the great city to meet the master.
+ܡܛܠ ܕܐܝܬ ܠܗ ܪܒܘܬ ܐܝܕܥܐ ܠܬܪܒܘܬ ܦܘܣܩܐ، ܗܠܟܬ ܒܝܬ ܡܕܢܚܐ ܠܩܪܒܐ ܠܡܕܢܚܐ ܪܒܐ ܠܫܡܥܐ ܠܬܪܒܘܬ ܦܘܣܩܐ.
 
 ---
 
-## Scholarly Fragment
+## ܦܠܓܐ ܡܠܦܢܝܐ
 
 ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫  
 ⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  
 ⟪धर्मे⟫ ⟪हि⟫ ⟪तेषा्मधिको⟫ ⟪विशेषो⟫  
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫  
-Eating, sleeping, fear, and sex are shared by humans and cattle. The distinguishing difference of humans lies in the Dharma. Without Dharma, they are equal to cattle.
+אכילה, שינה, פחד ומין משותפים לאנשים ולפרות. ההבדל המבדיל של אנשים טמון בהלכה. ללא הלכה, הם שווים לפרות.
 
 ::: media
 ![](/images/uebung035.webp)
@@ -114,45 +114,45 @@ Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 :::
 ---
 
-## Additional Exercises
+## Additional ܬܪܓܠܐs
 
 A) Translate into Sanskrit:
 
-1. The five (⟪पञ्च⟫) "torments" are: ignorance, the false belief in the self, affection, aversion, and attachment to the body.
+1. חמשא (⟪पञ्च⟫) "סבלות" הנה: אִגְנוֹרַנְטוּת, האמונה השגויה בעצמי, אהבה, שנאה, ודבקות בגוף.
 **⟪अविद्यास्मितारागद्वेषाभिनिवेशाः⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫**
 
-2. Knowledge is acquired through obedience to a teacher, or for much money, or in exchange for knowledge. There is no fourth type of knowledge acquisition.
+2. ידעא מתקבלת דרך ציות למורה, או תמורת כסף רב, או בתמורה לידע. אין סוג רביעי של רכישת ידע.
 **⟪गुरुशुश्रूषया⟫ ⟪विद्या⟫ ⟪पुष्कलेन⟫ ⟪धनेन⟫ ⟪वा⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫ ⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫**
 
 3. A low person speaks but does not act; a good person does not speak, but acts only.
 **⟪निचो⟫ ⟪वदति⟫ ⟪न⟫ ⟪कुरुते⟫ ⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥⟫**
 
-4. The auxiliary sciences of the Veda are: phonetics, ritualistics, grammar, semantics, metrics (⟪छन्दस्⟫), and calendrical science.
+4. דינא דווקדא הוו: פּוֹנֵטִיקָה, רִיטוּאַלִיסְטִיקָה, גְרַמָא, סֶמאַנְטִיקָה, מֵטְרִיק (⟪छन्दस्⟫), וּסְכִירַת שָׁמְשָׁא.
 **⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ ⟪।⟫**
 
-5. Yoga is the cessation of the activities of the mind.
+5. יוֹגָה הִיא שְׁתִיקַת פּוֹעֲלֵי מַחְשָׁבְתָּא.
 **⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫**
 
 6. Right prevails, not wrong; truth prevails, not falsehood; patience prevails, not anger; God prevails, not a counter-god. (Passive)
 **⟪धर्मो⟫ ⟪जयति⟫ ⟪नाधर्मः⟫ ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪।⟫ ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫ ⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ⟪॥⟫**
 
-7. The "staff" brings about the acquisition and secure possession of philosophy, Veda, and economics. The guidance of this staff is politics.
+7. מַטֵּאָה דְאַתקְנִי וּשׁוּרַא לְפִילָסוֹפוּ, וְתוֺרַיְתָא, וּמַלכוּת. שׁוֺרְיָא דְהַ מַטֵּאָ הוּא פּוֺלִיטיקַה.
 **⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫**
 
-8. Wife, son, and slave, these three (⟪त्रयस्⟫) are, according to tradition, without property. Whatever comes to them belongs to the one to whom they (the three) belong.
-**⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫ ⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫ ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫ ⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥⟫**
+8. אִתְּתָא, בַר, וְעַבְדָא — תלת אִלּין (⟪त्रयस्⟫) — לָא יְתִיבַן בּוּרַנְיָא. כּל דִאתי לְהוֺן — דְמַשׁלָא בּוֺהוֺן לְהוֺן.
+**⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫ ⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫ ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫ ⟪यस्य⟫ ⟪ते⟫ तस्य⟫ ⟪तद्धनम्⟫ ॥**
 
 9. Mosquitoes desire a wound, rulers desire property, low people desire conflict, good people desire peace.
 **⟪मक्षिका⟫ ⟪व्रणमिच्छन्ति⟫ ⟪धनमिच्छन्ति⟫ ⟪पार्थिवाः⟫ ⟪।⟫ ⟪नीचाः⟫ ⟪कलहमिच्छन्ति⟫ ⟪शान्तिमिच्छन्ति⟫ ⟪साधवः⟫ ⟪॥⟫**
 
-10. The specific duty of a Brahmin is: study, teaching, offering sacrifices as the sacrificer, offering sacrifices on behalf of others, giving, and receiving; that of a Kṣatriya is: study, offering sacrifices as the sacrificer, giving, earning a livelihood through weapons, protecting beings; that of a Vaiśya: study, offering sacrifices as the sacrificer, giving, farming, animal husbandry, and trade; that of a Śūdra: obedience to the twice-born, economic activity, activity (⟪कर्म⟫) of artisans and performers.
-**⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪।⟫ ⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शस्त्राजीवो⟫ ⟪भूतरक्षणं⟫ ⟪च⟫ ⟪।⟫ ⟪वैश्यस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪कृषिपाशुपाल्ये⟫ ⟪वणिज्या⟫ ⟪च⟫ ⟪।⟫ ⟪शूद्रस्य⟫ ⟪द्विजातिशुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫ ⟪॥⟫**
+10. המצווה הספציפית של ברהמן היא: לימוד, הוראה, הקרבת קורבנות כמקריב, הקרבת קורבנות בשם אחרים, נתינה וקבלה; של כושינ: לימוד, הקרבת קורבנות כמקריב, נתינה, השגת פרנסה באמצעות נשקים, הגנת יצורים; של ויישה: לימוד, הקרבת קורבנות כמקריב, נתינה, חקלאות, רעיית בעלי חיים ומסחר; של שודרה: ציות ליוצאי הדו-פעמים, פעילות כלכלית, פעולה (⟪कर्म⟩) של אומנים ומבצעים.
+**⟪स्वधर्मो⟩ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟩ ⟪यजनं⟩ ⟪याजनं⟩ ⟪दानं⟩ ⟪प्रतिग्रहश्च⟩ ⟪।⟩ ⟪क्षत्रियस्याध्ययनं⟩ ⟪यजनं⟩ ⟪दानं⟩ ⟪शस्त्राजीवो⟩ ⟪भूतरक्षणं⟩ ⟪च⟩ ⟪।⟩ ⟪वैश्यस्याध्ययनं⟩ ⟪यजनं⟩ ⟪दानं⟩ ⟪कृषिपाशुपाल्ये⟩ ⟪वणिज्या⟩ ⟪च⟩ ⟪।⟩ ⟪शूद्रस्य⟩ ⟪द्विजातिशुश्रूषा⟩ ⟪वार्त्ता⟩ ⟪कारुकुशीलवकर्म⟩ ⟪च⟩ ⟪॥⟩**
 
-11. Clarification of consciousness occurs due to the meditative development of loving-kindness, compassion, sympathetic joy, and equanimity, which have happiness and suffering, good and evil as their object.
-**⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥⟫**
+11. הבהרה של תודעה מתרחשת בשל פיתוח מדיטטיבי של חמלה, רחמים, שמחה סימפתית ושיווי נפש, שיש להם אושר וסבל, טוב ורע כמטרתם.
+**⟪मैत्रीकरुणामुदितोपेक्षाणां⟩ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟩ ⟪भावनतश्चित्तप्रसादनम्⟩ ⟪॥⟩**
 
-12. The poor have many sons, although they do not desire them. The rich have no son. Strange is the stirring of fate.
-**⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫ ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫ ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫ ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫**
+12. לעניים יש הרבה בנים, אף על פי שהם אינם מאחלים להם. לעשירים אין בן. מוזר הוא התנועה של גורל.
+**⟪सन्ति⟩ ⟪पुत्राः⟩ ⟪सुबहवो⟩ ⟪दरिद्राणामनिच्छताम्⟩ ⟪।⟩ ⟪नास्ति⟩ ⟪पुत्रः⟩ ⟪समृद्धानां⟩ ⟪विचित्रं⟩ ⟪विधिचेष्टितम्⟩ ⟪॥⟩**
 
 13. Who does not strike down a female body (⟪वपुस्⟩ n.) with a slender waist, broad hips, red lips, black eyes, curved navel, upright breasts?
 **⟪तनुमध्यं⟩ ⟪पृथुश्रोणि⟩ ⟪रक्तौष्ठमसितेक्षणम्⟩ ⟪।⟩ ⟪नतनाभि⟩ ⟪वपुः⟩ ⟪स्त्रीणां⟩ ⟪कं⟩ ⟪न⟩ ⟪हन्त्युन्नतस्तनम्⟩ ⟪॥⟩**
@@ -166,7 +166,7 @@ B) Decline in all cases known to you **⟪क्षत्रिया⟩** (f.):
 | 3. Instr. | ⟪क्षत्रियया⟩ | ⟪क्षत्रियाभिस्⟩ (⟪क्षत्रियाभिः⟩) |
 | 6. Gen. | ⟪क्षत्रियायास्⟩ (⟪क्षत्रियायाः⟩) | ⟪क्षत्रियाणाम्⟩ |
 
-C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicative, 3rd sg. passive, PPP, absolutes, infinitive) for the following verbs:
+[C] Provide die Stammformen (Bedeutung, Gegenwartsklasse, Modus, 3. Sg. Präsens Indikativ, 3. Sg. Passiv, PPP, Absolutive, Infinitiv) für die folgenden Verben:
 
 ::: grammar-box
 ⟪१⟩. **⟪सह्⟩** (1Ā, endure)

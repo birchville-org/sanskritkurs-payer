@@ -19,7 +19,7 @@ status: stable
 :::
 ## 3.1. Nominatif singulier du féminin
 
-### 3.1.1. Nominativ Singular auf -s
+### 3.1.1. Nominatif singulier en -s
 
 Les autres stems nominaux, qui se terminent par une voyelle, forment le nominatif singulier en **-s** :
 
@@ -51,7 +51,7 @@ Le singulier du nominatif se forme sans terminaison :
   (**-u-** devient **-v-** devant une voyelle, donc **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominativ Plural Maskulinum und Femininum
+## 3.3. Nominatif pluriel masculin et féminin
 
 ::: grammar-box
 La terminaison du nominatif pluriel au masculin et au féminin est **-as**.
@@ -131,7 +131,7 @@ par exemple
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ « Les Vaiśyas sont des deux fois nés » = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
-## 3.6. Wortliste
+## 3.6. Liste de mots
 
 **Apprenez les mots suivants :**
 
@@ -193,7 +193,7 @@ Fig. : Durgā = ⟪दुर्गा⟫, Orissa
 
 **muditā** f. = ⟪मुदिता⟫ : joie, en particulier joie partagée (opposé à la jalousie).
 
-## 3.7. Übung
+## 3.7. Exercice
 
 **A) Mettez les phrases suivantes au pluriel :**
 

@@ -13,6 +13,7 @@ export const fa = {
       { text: 'فهرست مطالب', link: '/fa/lektionen/inhaltsverzeichnis' },
       { text: 'دستور زبان', link: '/fa/grammatik' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
+      { text: '<span class="nav-gear-icon"></span>', link: '/fa/settings', ariaLabel: 'Settings' },
       { text: 'اعتبارات', link: '/fa/impressum' }
     ],
     docFooter: {

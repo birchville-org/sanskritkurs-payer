@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 52
+# ܬܪܓܠܐ 52
 
 ## ⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫
 
@@ -18,12 +18,12 @@ last_reconstructed: 2026-05-15
 **⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫ ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫**  
 **⟪एतद्विद्यात्समासेन⟫ ⟪लक्षणं⟫ ⟪सुखदुःखयोः⟫ ⟪॥⟫ ⟪१६०⟫ ⟪॥⟫**
 
-> Everything based on another's will is painful; everything based on one's own will is happiness. This should be known in summary as the characteristic of happiness and pain.
+> ܟܠ ܕܐܝܬ ܠܗ ܐܪܙܐ ܒܨܘܼܟܪܵܐ ܕܝܠܗ ܕܚܝܠ — ܟܠ ܐܢܫ ܕܐܝܬ ܠܗ ܨܘܼܟܪܵܐ ܒܨܘܼܟܪܵܐ ܕܝܠܗ ܕܚܝܠ — ܐܢܫ ܕܐܝܬ ܠܗ ܨܘܼܟܪܵܐ ܒܨܘܼܟܪܵܐ ܕܝܠܗ ܕܚܝܠ. ܐܢܫ ܕܐܝܬ ܠܗ ܨܘܼܟܪܵܐ ܒܨܘܼܟܪܵܐ ܕܝܠܗ ܕܚܝܠ.
 
 **⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫**  
 **⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫ ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥⟫ ⟪१६१⟫ ⟪॥⟫**
 
-> That which, when done, leads to inner satisfaction, that one should diligently do; the opposite, one should refrain from.
+ܕܐܝܬ ܠܗ ܫܘܛܚܐ ܒܝܬ ܢܦܫܟ، ܗܠܟ ܐܝܬ ܠܗ ܫܘܛܚܐ ܒܝܬ ܢܦܫܟ، ܗܠܟ ܐܝܬ ܠܗ ܫܘܛܚܐ ܒܝܬ ܢܦܫܟ، ܗܠܟ
 
 ::: media
 ![](/images/uebung087.webp)
@@ -32,20 +32,20 @@ Fig.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 :::
 ---
 
-## ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫: On the Sources of ⟪धर्म⟫
+## ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫: On the ܡ̈ܩܘܪ̈ܐ of ⟪धर्म⟫
 
 **⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलं⟫ ⟪स्मृतिशीले⟫ ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫**  
 **⟪आचारश्चैव⟫ ⟪साधूनामात्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 
-> The root of Dharma is:
-> * the entire Veda
-> * the tradition and the custom of the Veda-scholars
-> * the conduct of the good
-> * the contentment of the soul
+> שְׁרַשׁ דִּי דִּתְקָפָא:
+> * כָּל דִי תוֹרָא
+> * מַסְּרָתָא וּמִשְׁפָּטָא דִי מַלְכֵי תוֹרָא
+> * מַעֲלָתָא דִי טַבֵּי
+> * שְׁקוּקָא דִי נַפְשָׁא
 
 ---
 
-## ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫: On ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ in the Life of the Prince
+## ⟪3⟫. ⟪ܟܘܛܝܠܝܐܪܬܫܐܣܬܪܐ⟫ ⟪1⟫, ⟪7⟫, ⟪2⟫ - ⟪7⟫: ܥܠ ⟪ܐܪܬ⟫, ⟪ܟܐܡ⟫, ⟪ܕܗܪܡ⟫ ܒܚܝ̈ܐ ܕܐܡܝܪܐ
 
 **⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतमुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
@@ -59,23 +59,23 @@ Fig.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 
 **⟪अर्थमूलौ⟫ ⟪हि⟫ ⟪धर्मकामाविति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> Thus, let him keep his senses under control, avoid other men's women, other men's property, and violence, and avoid sleep, lust, falsehood, frivolity, uselessness, and unjust or useless business. He should indulge in pleasure without thereby disturbing righteousness and purposeful conduct; he should not be joyless. Or he should cultivate all three goals of life equally, which are interconnected. For if one devotes oneself excessively to one of righteousness and custom, purposeful conduct, and pleasure, then that oppresses the soul and the other two goals. Kauṭilya says that purposeful conduct (**Artha**) is the most important. Righteousness and custom as well as pleasure are rooted in purposeful action.
+> ܠܟܢ ܝܗܘܐ ܠܡܫܬܪܟܢ ܣܘܗ̈ܕܐ ܡܝܠܬܐ ܒܪܢ̈ܫܐ ܕܝܠܗܘܢ ܟ̈ܬܒܐ ܕܝܠܗܘܢ ܘܫܘܥ̈ܠܐ ܡܝܬܪܢ ܫܘܟ̈ܠܐ ܕܝܠܗܘܢ ܘܫܘܥ̈ܠܐ ܡܝܬܪܢ ܫܘܟ̈ܠܐ ܕܝܠܗܘܢ ܘܫܘܥ̈ܠܐ ܡܝܬܪܢ
 
 ---
 
-## ⟪४⟫. ⟪अश्वघोष⟫ (⟪२⟫. Cent. CE): ⟪बुद्धचरित⟫ ⟪४⟫
+## ⟪ܕ⟫. ⟪ܐܫܘܓܗܘܫ⟫ (⟪ܒ⟫. ܩܪܢܐ ܕܡܫܝܚܐ): ⟪ܒܘܕܗܕܫܪܝܬ⟫ ⟪ܕ⟫
 
 Buddha's liberating insight:
 
 **⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫ ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫**  
 **⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫ ⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 
-> Having defeated Māra's army with firmness and calm, the one experienced in meditation wished to fully recognize the highest truth and reality and meditated.
+> ܠܐܦܩܕ ܝܬܝܪ ܡܪܟܒܬ ܡܪܐ ܒܫܘܩܠܐ ܘܫܬܝܟܬܐ، ܗܘ ܕܢܛܝܪ ܒܡܕܥܐ ܠܦܠܘܗܝ ܠܬܫܥܝܬܐ ܪܒܬܐ ܘܠܗܝܡܬܐ ܘܫܬܥܐ.
 
 **⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫ ⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫**  
 **⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪यामे⟫ ⟪पूर्वजन्मपरंपराम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
-> He attained the highest mastery in all meditation methods and, in the first watch of the night, he recollected the uninterrupted sequence of his rebirths.
+> ܗܘܟܠ ܡܕܢܚܐ ܕܫܘܬܩܬܐ ܠܓܒܪ ܟܝܢܐ ܘܒܫܥܬ ܠܚܕ ܡܢ ܠܝܠܐ ܗܘܟܪ ܫܪܒܬ ܕܢܝܠܘܬܐ.
 
 **⟪अमुत्राहमयं⟫ ⟪नाम⟫ ⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫**  
 **⟪इति⟫ ⟪जन्मसहस्राणि⟫ ⟪सस्मारानुभवन्निव⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
@@ -90,27 +90,27 @@ Buddha's liberating insight:
 **⟪कृत्वेह⟫ ⟪स्वजनोत्सर्गं⟫ ⟪पुनरन्यत्र⟫ ⟪च⟫ ⟪कृत्वा⟫ ⟪।⟫**  
 **⟪अत्राणः⟫ ⟪खलु⟫ ⟪लोको⟫ ⟪ऽयं⟫ ⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 
-> Truly, this world is without refuge and wanders around like a wheel: it releases its creatures here and then again there.
+> ܐܝܟܐ ܕܠܬ ܡܫܘܦܪ ܠܥܠܡܐ ܗܢܐ ܘܟܣܪܬܐ ܕܡܗܠܟ ܒܥܠܡܐ: ܦܘܩ ܢܝܗ ܠܗ ܐܝܟ ܕܡܫܬܒܪ
 
 **⟪इत्येवं⟫ ⟪स्मरतस्तस्य⟫ ⟪बभूव⟫ ⟪नियतात्मनः⟫ ⟪।⟫**  
 **⟪कदलीगर्भनिःसारः⟫ ⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 
-> When he recollected with a resolute heart thus, he arrived at the firm realization: The course of rebirths is without marrow and core like the interior of a banana plant.
+> ܠܡܕܢܟ ܒܩܘܪܒܐ ܕܠܒܐ ܗܟܢܐ ܐܬܐ ܠܘܬ ܫܩܠܬܐ ܕܝܬܝܪܐ: ܡܠܘܐ ܕܢܘܟܬܐ ܗܘ ܠܐ ܡܕܢܟ ܘܠܐ ܩܪܒ
 
 **⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫ ⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫**  
 **⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫ ⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> When the second watch of the night had come, he, whose power is like that of no second, received the highest heavenly eye, he the best of all who have an eye.
+> ܠܡܕܢ ܐܘܩܦܬܐ ܬܠܝܬܝܬܐ ܕܠܠܝܐ ܫܪܟܬ، ܗܘ ܕܐܝܠܘܩܘܬܗ ܟܕܡ ܐܝܠܘܩܘܬܗ ܪܒܐ، ܠܩܒܠ ܥܝܢܐ ܫܡܝܬܐ ܪܒܬ ܥܢܘܬ، ܗܘ ܣܓܝ ܡܢ ܟܠ ܕܐܝܬ ܥܝܢܐ.
 
 **⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫ ⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫**  
 **⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫ ⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 
-> Then he saw with this completely pure heavenly eye the whole world as in an flawless mirror.
+> ܠܐܦ ܚܙܐ ܒܥܝܢܐ ܫܡܝܝܬܐ ܕܟܠ ܦܘܪܫܐ ܬܒܝܪ
 
 **⟪सत्त्वानां⟫ ⟪पश्यतस्तस्य⟫ ⟪निकृष्टोत्कृष्टकर्मणाम्⟫ ⟪।⟫**  
 **⟪प्रच्युतिं⟫ ⟪चोपपत्तिं⟫ ⟪च⟫ ⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
 
-> When he saw the passing away and arising of beings who had good or bad karma, compassion grew in his heart.
+> ܠܡܕܐ ܚܙܐ ܦܘܪܟܢܐ ܕܒܝܬ ܢܫ̈ܐ ܕܗܘܐ ܠܗ ܟܝܢܐ ܬܩܦܐ ܘܠܐ ܬܩܦܐ، ܗܘܝ ܪܚܡܢܘܬܐ ܒܠܒܗ.
 
 **⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫ ⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫**  
 **⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫ ⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**

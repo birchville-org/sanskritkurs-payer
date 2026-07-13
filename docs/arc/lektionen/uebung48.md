@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 48
+# ܬܪܓܡܬܐ 48
 
-A) Translate the **⟪सुभाषितानि⟫** at the beginning of the lesson:
+[A] תרגם את **⟪सुभाषितानि⟫** בתחילת השיעור:
 
 ⟪१⟫. **⟪सत्यं⟫ ⟪वद⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 Speak the truth!
@@ -29,7 +29,7 @@ What is to be done tomorrow, do today. (Do not postpone until tomorrow what you 
 A person without education is livestock.
 
 ⟪७⟫. **⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-Brevity is the ornament of the grammarian.
+ܟܬܘܼܒܳܐ ܗܝ ܙܢܽܘܼܥܳܐ ܕܡܲܠ̈ܦܬܳܐ.
 
 ::: media
 ![](/images/uebung083.webp)
@@ -38,9 +38,9 @@ Fig.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
 :::
 ---
 
-## Translations into Sanskrit (Imperative)
+## ܬܘܪ̈ܓܡܐ into Sanskrit (Imperative)
 
-B) Translate into Sanskrit using the imperative (preferably roots of the 2nd and 3rd class):
+ܒ) ܬܪܓܡ ܠܟܢܘܬ ܣܐܢܣܩܪܝܛ ܒܨܘܬܐ ܕܡܠܦܢܘܬ (ܒܝܫ ܪܥܝ̈ܐ ܕܡܕܢܚܬ ܘܠܦܢܝ̈ܐ):
 
 ⟪१⟫. **⟪पुत्रं⟫ ⟪लब्ध्वा⟫ ⟪कुलं⟫ ⟪जहाहि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (Or: **... ⟪जहीहि⟫ / ⟪जहिहि⟫ ⟪॥⟫**)
 Having obtained a son, leave the family!
@@ -49,24 +49,24 @@ Having obtained a son, leave the family!
 Descendants of Puru, fear those who have done evil!
 
 ⟪३⟫. **⟪कन्या⟫ ⟪भिक्षुभ्यो⟫ ⟪ऽन्नं⟫ ⟪ददतु⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-The girls should give food to the beggars.
+ܕܝܠܬܐ ܨܘܟܠܬܐ ܝܕܥܬ ܠܡܕܒܪ
 
 ⟪४⟫. **⟪ब्रवाम⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫** (Or: **⟪वचाम⟫ ⟪॥⟫**)
 We wish to speak.
 
 ::: media
 ![](/images/uebung085.webp)
-Fig.: ⟪वचाम⟫
-(Image source: [Details](/licenses#uebung085))
+ܩ̈ܘܡܬܐ: ⟪वचाम⟫
+(ܡܕܝܢܬ ܐܘܪ̈ܚܐ: [ܦܣܩ̈ܠܬܐ](/licenses#uebung085))
 :::
 ⟪५⟫. **"⟪एहि⟫ ⟪भिक्ष⟫" ⟪इति⟫ ⟪बुद्धो⟫ ⟪नरमुपसमपादयत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-With the words "Come, monk!" the Buddha initiated the man into the order.
+ܒܠܦ̈ܘܬܐ "ܐܬܝ" ܒܘܕ̈ܗܐ ܩܕܝܫܐ ܡܠܬ ܥܠ ܓܒܪܐ ܠܩ̈ܡܬ ܕܟ̈ܢܫܐ.
 
 ⟪६⟫. **⟪सन्मानवाः⟫ ⟪स्त⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 Be true humans (descendants of Manu)!
 
-⟪७⟫. **⟪शिवादिदेवान्स्तवानि⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-I wish to praise Śiva and the other gods.
+[0] ⟪७⟫. **⟪शिवादिदेवान्स्तवानि⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
+[1] I wish to praise Śiva and the other gods.
 
 ⟪८⟫. **⟪आख्याहि⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 Tell!
@@ -78,7 +78,7 @@ Measure out the hells!
 They should lie on these beds.
 
 ⟪११⟫. **⟪पुरुषव्याघ्रा⟫ ⟪इन्द्रशत्रून्घ्नन्तु⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
-The tiger-like men should kill the enemies of Indra.
+ܠܝܦ̈ܢ̈ܐ ܕܬܓܪܐ ܝܗܒܘ ܠܥܕܬܐ ܕܝܗܘܗ
 
 ⟪१२⟫. **⟪समाधेहि⟫ ⟪॥⟫ ⟪१२⟫ ⟪॥⟫** (Or: **⟪समाधत्स्व⟫ ⟪॥⟫**)
 Concentrate!
@@ -93,7 +93,7 @@ We wish to eat these fruits.
 The servant should milk the cow.
 
 ⟪१६⟫. **⟪राजन्धर्मं⟫ ⟪जनांश्च⟫ ⟪पाहि⟫ ⟪॥⟫ ⟪१६⟫ ⟪॥⟫**
-King, protect the law and the people!
+ܡܠܟܐ، ܣܘܓܝ ܕܝܢܐ ܘܕܥܡܐ!
 
 ⟪१७⟫. **⟪शिष्याञ्शाधि⟫ ⟪वेदम्⟫ ⟪॥⟫ ⟪१७⟫ ⟪॥⟫** (Or: **... ⟪शाधि⟫ ...**)
 Teach the students the Veda!
@@ -115,29 +115,29 @@ Fig.: ⟪तानि⟫ ⟪फलान्यदाम⟫
 :::
 ---
 
-## The Dharma of Women (⟪स्त्रीधर्मः⟫)
+## ܕܰܪܡܳܐ ܕܢܶܫ̈ܶܐ (⟪ܣܬܪܺܝܕܰܪܡܳܗ⟫)
 
 From the **⟪मनुस्मृति⟫ ⟪९⟫**:
 
 **⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫**  
 **⟪विषयेषु⟫ ⟪च⟫ ⟪सज्जन्त्यः⟫ ⟪संस्थाप्या⟫ ⟪आत्मनो⟫ ⟪वशे⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-Men must keep their wives dependent day and night. Women, who cling to the objects of the senses, must be brought under their own control.
+ܓܰܒܪ̈ܶܐ ܘܳܠܶܐ ܠܗܘܢ ܕܰܢܢܰܛܪܘܢ ܢܶܫܰܝ̈ܗܘܢ ܒܟܽܠ ܝܘܡ ܘܰܒܠܺܠܝܳܐ ܬܚܶܝܬ ܡܶܫܬܰܠܛܳܢܘܬܗܘܢ. ܢܶܫ̈ܶܐ ܕܡܶܬܕܰܒܩܺܝ̈ܢ ܠܶܘܳܬ ܨܶܒ̈ܘܳܬܳܐ ܕܪ̈ܶܓܫܶܐ، ܘܳܠܶܐ ܠܗܶܝܢ ܕܢܶܬܡܰܠܶܟ̈ܶܝܢ ܬܚܶܝܬ ܡܶܫܬܰܠܛܳܢܘܬܗܶܝܢ ܕܺܝܠܗܶܝܢ.
 
 **⟪पिता⟫ ⟪रक्षति⟫ ⟪कौमारे⟫ ⟪भर्ता⟫ ⟪रक्षति⟫ ⟪यौवने⟫ ⟪।⟫**  
 **⟪रक्षन्ति⟫ ⟪स्थाविरे⟫ ⟪पुत्रा⟫ ⟪न⟫ ⟪स्त्री⟫ ⟪स्वातन्त्र्यमर्हति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**  
-The father protects her in childhood, the husband in youth, and the sons protect her in old age; a woman is not suited for independence.
+ܐܰܒܽܘܗ ܢܳܛܰܪ ܠܳܗ ܒܰܛܰܠܝܘܬܳܗ، ܘܒܰܥܠܳܗ ܒܰܥܠܰܝܡܘܬܳܗ، ܘܰܒܢ̈ܶܝܗ ܢܳܛܪܺܝܢ ܠܳܗ ܒܰܣܰܝܒܘܬܳܗ؛ ܐܰܢ̱ܬܬܳܐ ܠܳܐ ܡܶܙܕܰܡܢܳܐ ܠܚܺܝܪܘܬܳܐ.
 
 **⟪काले⟫ ⟪ऽदाता⟫ ⟪पिता⟫ ⟪वाच्यो⟫ ⟪वाच्यश्चानुपनयन्पतिः⟫ ⟪।⟫**  
 **⟪मृते⟫ ⟪भर्तरि⟫ ⟪पुत्रस्तु⟫ ⟪वाच्यो⟫ ⟪मातुररक्षिता⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**  
-Blameworthy is the father who does not marry her at the right time; blameworthy is the husband who does not approach her at the right time; and blameworthy is the son who does not protect his mother after the death of the father.
+ܡܶܓܢܶܐ ܗ݀ܘ ܐܰܒܳܐ ܕܠܳܐ ܡܙܰܘܶܓ ܠܳܗ ܒܙܰܒܢܳܐ ܕܙܳܕܶܩ؛ ܡܶܓܢܶܐ ܗ݀ܘ ܒܰܥܠܳܐ ܕܠܳܐ ܡܶܬܩܰܪܶܒ ܠܳܗ ܒܙܰܒܢܳܐ ܕܙܳܕܶܩ؛ ܘܰܡܶܓܢܶܐ ܗ݀ܘ ܒܪܳܐ ܕܠܳܐ ܢܳܛܰܪ ܠܐܶܡܶܗ ܒܳܬܰܪ ܡܰܘܬܶܗ ܕܰܐܒܘܗܝ.
 
 **⟪सूक्ष्मेभ्यो⟫ ⟪ऽपि⟫ ⟪प्रसङ्गेभ्यः⟫ ⟪स्त्रियो⟫ ⟪रक्ष्या⟫ ⟪विशेषतः⟫ ⟪।⟫**  
 **⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ ⟪शोकमावहेयुररक्षिताः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**  
-Women are to be protected especially from minor occasions; for unprotected, they would plunge two families into sorrow.
+ܢܶܫ̈ܶܐ ܘܳܠܶܐ ܕܢܶܬܢܰܛܪ̈ܳܢ ܝܰܬܺܝܪܳܐܝܺܬ ܡܶܢ ܥܶܠ̈ܠܳܬܳܐ ܙܥܽܘܪ̈ܳܬܳܐ؛ ܡܶܛܽܠ ܕܶܐܢ ܠܳܐ ܢܶܬܢܰܛܪ̈ܳܢ، ܡܰܪܡ̈ܝܳܢ ܬܪ̈ܶܝܢ ܒܰܝܬܶ̈ܐ ܒܥܳܩܬܳܐ.
 
-**⟪इमं⟫ ⟪हि⟫ ⟪सर्ववर्णानां⟫ ⟪पश्यन्तो⟫ ⟪धर्ममुत्तमम्⟫ ⟪।⟫**  
-**⟪यतन्ते⟫ ⟪रक्षितुं⟫ ⟪भार्यां⟫ ⟪भर्तारो⟫ ⟪दुर्बला⟫ ⟪अपि⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**  
-Recognizing this as the highest duty of all stations, even weak husbands strive to protect their wives.
+**⟪ܣܘܓ̈ܠܐ ܕܡܫܝܚܐ⟪ इमं ⟪हि ⟫⟬⟪ सर्ववर्णानां ࣥ पश्यन्तो ⟫⟬⟪ धर्ममुत्तमम् ࣥ । ⟫**  
+**⟪यतन्ते ࣥ रक्षितुं ⟫⟬⟪ भार्यां ࣥ भर्तारो ⟫⟬⟪ दुर्बला ࣥ अपि ⟫⟬⟪ ॥ ࣥ ६ ⟫⟬⟪ ॥ ࣥ**  
+ܕܝܐ ܗܢܐ ܠܟܘܪ̈ܝܬܐ ܕܟܠ ܡܢܘ̈ܗܝ، אף עבדין גברין דעניינא לישׁוּביהון.
 
 **⟪स्वां⟫ ⟪प्रसूतिं⟫ ⟪चरित्रं⟫ ⟪च⟫ ⟪कुलमात्मानमेव⟫ ⟪च⟫ ⟪।⟫**  
 **⟪स्वं⟫ ⟪च⟫ ⟪धर्मं⟫ ⟪प्रयत्नेन⟫ ⟪जायां⟫ ⟪रक्षन्हि⟫ ⟪रक्षति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**  
@@ -145,7 +145,7 @@ He who carefully protects his wife, truly protects his offspring, his way of lif
 
 **⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫ ⟪।⟫**  
 **⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**  
-The husband enters into his wife, becomes an embryo, and is then born here; this is the "husband-hood" (**⟪जायात्वम्⟫**) of the wife, that the husband is reborn in her.
+ܕܝܩܢܐ ܥܒܕ ܠܗ ܠܟܬܐ ܘܢܦܩ ܡܛܠ ܗܟܢܐ ܘܫܬܪ ܠܥܡܐ، ܗܕܐ ܗܘ "ܟܬܢ̈ܘܬܐ" (**⟪जायात्वम्⟫**) ܕܟܬܐ، ܡܛܠ ܗܢܐ ܕܝܩܢܐ ܫܬܪ ܒܗ.
 
 ::: media
 ![](/images/uebung084.webp)

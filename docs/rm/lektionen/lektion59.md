@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 59
 
-## 59.1. Las desinencias secundarias e imperativales del dual (⟪द्विवचनम्⟫)
+## 59.1. Las desinenzas secundaras ed imperativas dal dual (⟪द्विवचनम्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ |||
@@ -19,7 +19,7 @@ status: stable
 | **2. ⟪मध्यमः⟫** | -tam:br-tām || -īthām | -āthām | -īthām / āthām |
 | **3. ⟪प्रथमः⟫** | ^^ || -ītām | -ātām | -ītām / -ātām |
 :::
-## 59.2. Der Dual thematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+## 59.2. Il dual da classas da prescha tematicas: Optativ (⟪विधिलिङ्⟫), Imperfet (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 **Avant -va e -vahi vegn il vocal tema -a- sustitui da -ā-.**
@@ -55,7 +55,7 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪भवतम्⟫ | \<⟪भवेथाम्⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪भवताम्⟫ | \<⟪भवेताम्⟫\> |
 :::
-### 59.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
+### 59.2.2. Quarta classa da prescha (⟪दिवादिगणः⟫)
 
 ⟪नृत्⟫ 4P "danzar"
 
@@ -86,7 +86,7 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪नृत्यतम्⟫ | \<⟪नृत्येथाम्⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪नृत्यताम्⟫ | \<⟪नृत्येताम्⟫\> |
 :::
-### 59.2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
+### 59.2.3. Sisavla classa dal temp preschent (⟪tudādigaṇaḥ⟫)
 
 ⟪तुद्⟫ 6U "stizzar, batter"
 
@@ -117,7 +117,7 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुदतम्⟫ | ⟪तुदेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदताम्⟫ | ⟪तुदेताम्⟫ |
 :::
-### 59.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
+### 59.2.4. Dieschavla classa da prescha (⟪चुरादिगणः⟫) e causativs (⟪णिजन्त⟫)
 
 ⟪चुर्⟫ 10U "rubar"
 
@@ -176,9 +176,9 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येताम्⟫ |
 :::
-## 59.3. Der Dual athematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+## 59.3. Il dual da classas dal temp preschent atematicas: Optativ (⟪vidhiliṅ⟫), Imperfetg (⟪laṅ⟫), Imperativ (⟪loṭ⟫)
 
-### 59.3.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
+### 59.3.1. Segunda classa dal temp preschent (⟪adādigaṇaḥ⟫)
 
 ⟪द्विष्⟫ 2U "odiar"
 
@@ -355,7 +355,7 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪स्तम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪स्ताम्⟫ |
 :::
-### 59.3.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
+### 59.3.2. Terza classa da prescha (⟪जुहोत्यादिगणः⟫)
 
 ⟪हु⟫ 3P "vergießen im Opferfeuer"
 
@@ -416,7 +416,7 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪धत्तम्⟫ | ⟪दधाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्ताम्⟫ | ⟪दधाताम्⟫ |
 :::
-### 59.3.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
+### 59.3.3. Tschintgavla classa dal temp preschent (⟪svādigaṇaḥ⟫)
 
 ⟪सु⟫ 5U "premer"
 
@@ -447,7 +447,7 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪सुनुतम्⟫ | ⟪सुन्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वाताम्⟫ |
 :::
-### 59.3.4. Achte Präsensklasse (⟪तनादिगणः⟫)
+### 59.3.4. Otgavla classa dal temp preschent (⟪tanādigaṇaḥ⟫)
 
 ⟪तन्⟫ 8U "stender"
 
@@ -507,7 +507,7 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुतम्⟫ | ⟪कुर्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वाताम्⟫ |
 :::
-### 59.3.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
+### 59.3.5. Setavla classa da prescha (⟪रुधादिगणः⟫)
 
 ⟪रुध्⟫ 7U "stoppar"
 
@@ -567,7 +567,7 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्तम्⟫ | ⟪युञ्जाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युङ्क्ताम्⟫ | ⟪युञ्जाताम्⟫ |
 :::
-### 59.3.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
+### 59.3.6. Novavla classa da prescha (⟪क्र्यादिगणः⟫)
 
 ⟪क्री⟫ 9U "cumprar"
 
@@ -598,7 +598,7 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीतम्⟫ | ⟪क्रीणाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीताम्⟫ | ⟪क्रीणाताम्⟫ |
 :::
-## 59.4. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
+## 59.4. Dual (⟪dvivacanam⟫) Aorist (⟪luṅ⟫)
 
 ### 59.4.1. Wurzelaorist
 
@@ -622,7 +622,7 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪असिचतम्⟫ | ⟪असिचेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचताम्⟫ | ⟪असिचेताम्⟫ |
 :::
-### 59.4.3. Reduplizierter Aorist
+### 59.4.3. Aorist reduplitgà
 
 ⟪श्रि⟫ 1U "sich begeben zu"
 
@@ -665,7 +665,7 @@ Imperativ (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अपाविष्टम्⟫ | ⟪अपविषाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पाविष्टाम्⟫ | ⟪अपविषाताम्⟫ |
 :::
-## 59.5. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (nur P)
+## 59.5. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (mo P)
 
 ::: grammar-box
 **Il siṣ-aorist vegn format en P da tuttas radichas cun -ā, -e, -o, -ai, che n’èn betg limitadas al 1., 2. u 3. aorist, uschia er da pliras ulteriuras radichas, tranter autras ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. En Ā furman tut questas radichas l’s-aorist.**
@@ -746,7 +746,7 @@ Paradigma:
 | **2. ⟪द्वितीयः⟫** | ⟪अधिक्षथास्⟫ / *⟪अधिग्धास्⟫* | ⟪अधिक्षथाम्⟫ | ⟪अधिक्षध्वम्⟫ / *⟪अधिग्ध्वम्⟫* |
 | **3. ⟪प्रथमः⟫** | ⟪अधिक्षत⟫ / *⟪अदिग्ध⟫* | ⟪अधिक्षताम्⟫ | ⟪अधिक्षन्त⟫ |
 :::
-## 59.7. Übung
+## 59.7. Exercizi
 
 A) Tradusci il seguent text e determina tuttas las formas verbalas che s'annunzian.
 

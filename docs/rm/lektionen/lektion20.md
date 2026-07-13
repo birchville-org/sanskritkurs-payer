@@ -209,9 +209,9 @@ Madhya Pradesh
 
 **Dur la adjektivaziun vegnan**
 
-*   **-ā-stems in the masculine and neuter to -a stems**
-*   **-a stems (m., n.) form their feminine on -ā or -ī**
-*   **-ī stems (f.) must take the suffix -ka, -kā, -ka (n.) at the end of Bahuvrīhis; this suffix can or must also be taken by many other Bahuvrīhis**
+*   **-ā-stems en ils masculins e neuters vers stems -a**
+*   **-a-stems (m., n.) furman lur feminin sin -ā u -ī**
+*   **-ī-stems (f.) duan pigiar il suffix -ka, -kā, -ka (n.) a la fin da Bahuvrīhis; quest suffix po u duan era pigiar blers auters Bahuvrīhis**
 
 :::
 ## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
@@ -252,7 +252,7 @@ Fig. : Hermann Jacobi
 :::
 Cela peut être vrai. Cependant, les Indiens considèrent alors beaucoup de choses comme ornementales et descriptives, ce que nous considérerions comme « conceptuellement nécessaire ou important ».
 
-## 20.9. Wortliste
+## 20.9. Glista da pleds
 
 ⟪वा⟫ : u
 
@@ -354,7 +354,7 @@ Rishikesh = ⟪ऋषिकेश⟫. «Quai chessa fa part dal Ashram en Rishik
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : s'agitar
 
-## 20.10. Übung 1
+## 20.10. Exercizi 1
 
 Solvìt las suentas cumposiziuns sco Bahuvrīhi e/u Dvandva e/u Tatpuruṣa en tut las furmas che Vus pensais ch’èssan pussaivlas en sânscrit (excepziun: cumposiziuns cun in element avant adverbial). Tradusìt questas cumposiziuns diversamain sblididas en tudestg, e dond il gender, il cas e il numer dal cumposìt total.
 
@@ -440,7 +440,7 @@ Solvìt las suentas cumposiziuns sco Bahuvrīhi e/u Dvandva e/u Tatpuruṣa en t
 80.  ⟪अकरुणस्य⟫
 81.  ⟪सोढदुःखाः⟫
 
-## 20.11. Übung 2
+## 20.11. Exercizi 2
 
 A) Tradusci e resòlv las composiziuns en sanscrit:
 
@@ -474,7 +474,7 @@ B) Tradusci suttasch da usar da cumponids en Sanscrit:
 
 4\. Anca las femnas śūdra han sco dharma la non-violenza, la veridicitad, la puritad, il betg mormurar, il betg esser malivolent ed il patienza.
 
-## 20.12. Übersetzungsübung
+## 20.12. Exercizi da translaziun
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪३३॥⟫
 

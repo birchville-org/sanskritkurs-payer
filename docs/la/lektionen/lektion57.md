@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 57
 
-## 57.1. Aorist 4: s-Aorist
+## 57.1. Aorist 4: s-Aoristus
 
 ::: grammar-box
 **Radix s-aoristus ad radices plures ⟪अनिट्⟫ formatur, nisi quae aliam aoristi formam tantum habent. Radices facultativae ⟪अनिट्⟫ communiter vel hunc vel aoristem iṣ- formare possunt. Item radices ⟪अनिट्⟫, quae post formam primam, secundam vel sextam aoristi ⟪परस्मैपद⟫ formant, radices ⟪आत्मनेपद⟫ secundum aoristem s- formant.**
@@ -149,7 +149,7 @@ Praeterea sunt pro ⟨JAG⟩ formae regulares gradu basso:
 :::
 ## 57.2. Exercitatio
 
-A) Translate and determine without aids the following forms, and form the corresponding aorist forms. Except for causatives and roots that form the s-aorist, the class of the corresponding aorist is given in parentheses:
+A) Traduce et determina sine adiumentis formas sequentes, atque formas aoristi correspondentia forma. Praeter causativas et radices quae s-aoristum formant, classis aoris correspondentis in parenthesi data est:
 
 1.  ⟪पेचिथ⟫
 2.  ⟪अवक्⟫ (⟪३⟫)

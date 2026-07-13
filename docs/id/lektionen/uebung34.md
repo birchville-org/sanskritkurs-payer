@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Lesson 34
 
-A) Form the corresponding perfect tense forms in person, number, and genus verbi for the following verb forms:
+[A) Bentuklah bentuk-bentuk kala sempurna yang sesuai dalam orang, jumlah, dan genus verbi untuk bentuk kata kerja berikut:]
 
 1.  ⟪रक्षिष्यन्ति⟫ ⟪।⟫ ⟪ररक्षुर्⟫
 2.  ⟪स्रक्ष्यति⟫ ⟪।⟫ ⟪ससर्ज⟫
@@ -42,7 +42,7 @@ A) Form the corresponding perfect tense forms in person, number, and genus verbi
 30.  ⟪कुप्यन्ति⟫ ⟪।⟫ ⟪चुकुपुर्⟫
 31.  ⟪इच्छन्ति⟫ ⟪।⟫ ⟪ईषुर्⟫
 
-Translate the following text from the ⟪पद्मपुराण⟫ regarding gifts to Brahmins:
+Terjemahkan teks berikut dari ⟪पद्मपुराण⟫ mengenai hadiah kepada Brahmana:
 
 > ⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजोत्तम⟫ ⟪।⟫  
 > ⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्राश्चतुर्दश⟫ ⟪॥१॥⟫  
@@ -55,7 +55,7 @@ Translate the following text from the ⟪पद्मपुराण⟫ regardin
 > ⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तम्⟫ ⟪महीतले⟫ ⟪।⟫  
 > ⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
 
-Best of the Twice-born! He who gives the earth with its crops to a Brahmin enjoys the world of Viṣṇu as long as fourteen Indras. Twice-born! The merit that one obtains who gives away the entire world with its seven continents, that merit does a mortal obtain who gives a cow to a Brahmin. He who gives gold to a Brahmin as small as a sesame seed, comes to the city of residence of Haris (Viṣṇu) together with 10 million families. Best of the Twice-born! A man who gives a girl along with jewelry (to a Brahmin), comes to the seat of Brahmās and has no more rebirth. Best of the Twice-born! He who has given food and water on the surface of the earth, has given all gifts, Bull among the Twice-born! 
+Yang terbaik dari yang lahir dua kali! Siapa pun yang memberikan bumi beserta tanamannya kepada seorang Brahmin menikmati dunia Viṣṇu selama empat belas Indra. Yang lahir dua kali! Kebajikan yang diperoleh siapa pun yang memberikan seluruh dunia beserta tujuh benuanya, kebajikan itu diperoleh seorang manusia yang memberikan seekor sapi kepada seorang Brahmin. Siapa pun yang memberikan emas kepada seorang Brahmin sekecil biji wijen, datang ke kota tempat tinggal Haris (Viṣṇu) bersama 10 juta keluarga. Yang terbaik dari yang lahir dua kali! Seorang pria yang memberikan seorang gadis beserta perhiasan (kepada seorang Brahmin), datang ke takhta Brahmās dan tidak memiliki reinkarnasi lagi. Yang terbaik dari yang lahir dua kali! Siapa pun yang telah memberikan makanan dan air di permukaan bumi, telah memberikan semua hadiah, Banteng di antara yang lahir dua kali!
 
 Explanations:
 

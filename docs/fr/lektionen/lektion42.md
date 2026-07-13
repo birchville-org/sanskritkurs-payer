@@ -265,7 +265,7 @@ Les deux rites sont accomplis, appelés ⟪श्राद्ध⟫ n. Chaque jo
 
 ⟪मातामही⟫ f. : Grand-mère maternelle
 
-## 42.3. Übung
+## 42.3. Exercice
 
 Traduisez :
 
@@ -297,7 +297,7 @@ Fig. : ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 
 ⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥९॥⟫
 
-## 42.4. Übersetzungsübung
+## 42.4. Exercice de traduction
 
 *⟪सीता⟫*⟪विवाहः⟫
 

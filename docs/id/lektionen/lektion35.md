@@ -135,7 +135,7 @@ Contoh:
 | ⟪हन्⟫ 2P | ***⟪जघान⟫***:brja-**ghān**-a | ***⟪जघ्नुर्⟫*** | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \&lt;⟪ऊदे⟫\&gt; | \&lt;⟪ऊदिरे⟫\&gt; |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
 :::
@@ -166,11 +166,11 @@ Contoh:
 
 **batang lemah:** tingkat kuat
 
-Dibentuk dari semua akar lain dengan -a- medial, yaitu, akar dengan -a- medial
-*   that begin with two consonants
-*   that begin with a guttural
-*   that begin with an aspirate
-*   that begin with h
+Terbentuk dari semua akar lainnya dengan -a- medial, yaitu, akar dengan -a- medial
+*   yang dimulai dengan dua konsonan
+*   yang dimulai dengan gutural
+*   yang dimulai dengan aspirat
+*   yang dimulai dengan h
 
 dengan ketentuan mereka tidak termasuk dalam Perfek Tipe Va.
 :::
@@ -185,16 +185,16 @@ Contoh:
 :::
 ## 35.4. Word List
 
-**⟪नश्⟫** 4P **⟪नश्यति⟫** : to perish, to be destroyed, to disappear
+**⟪नश्⟫** 4P **⟪नश्यति⟫** : binas, hancur, lenyap
 ::: indent
 **Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫**:br
 **Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫**:br
 **Kaus. ⟪नाशयति⟫**:br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : to disappear, to perish, to be destroyed
+**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : lenyap, binas, hancur
 
-**⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : to stride, to go
+**⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : melangkah, pergi
 ::: indent
 **Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
 **Fut. ⟪क्रमिष्यति⟫**:br
@@ -206,11 +206,11 @@ Contoh:
 :::: media
 ![](/images/lekt3502.webp)
 Fig.: ⟪क्रामन्ति⟫
-People walking, Senegal.
-(Image source: [Details](/en/licenses#lekt3502))
+Orang-orang berjalan, Senegal.
+(Sumber gambar: [Details](/en/licenses#lekt3502))
 ::::
 :::
-**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): to sing, to recite in a singing tone, to proclaim in verse
+**⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): bernyanyi, melantunkan dengan nada nyanyian, menyatakan dalam bentuk puisi
 ::: indent
 **Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫**:br
 **Fut. ⟪गास्यति⟫**:br
@@ -230,7 +230,7 @@ Temple musicians, Kaadu Malleswara Temple, Bangalore.
 :::
 ## 35.5. Exercise
 
-A) Form the corresponding perfect forms for the following verb forms:
+[A] Bentuklah bentuk sempurna yang sesuai untuk bentuk-bentuk kata kerja berikut:
 
 1. ⟪गायन्ति⟫
 2. ⟪स्मरन्ति⟫

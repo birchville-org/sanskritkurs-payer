@@ -66,7 +66,7 @@ Exemple:
 | Rădăcină / Clasă | Participul prezent Ā |
 | :--- | :--- |
 | **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
+| **⟪हु⟫** 3P | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
 | **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
@@ -331,7 +331,7 @@ Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
 ⟪शास्⟫ 2P ⟪शास्ति⟫ : mustrare, stăpânire, poruncă, învățătură
 
 ::: indent
-are forma slabă de prezent **⟪शिष्⟫** : **⟪शिष्मस्⟫**, dar a 3.pl. P. are forma puternică: **⟪शासति⟫** (!! sufix -ati) alături de ocazional **⟪शासन्ति⟫**. **⟪अशासुर्⟫**. De asemenea, întregul ⟪आत्मनेपद⟫ are, în măsura în care apare, forma puternică: **⟪शास्ते⟫**
+este forma slabă de prezent **⟪शिष्⟫** : **⟪शिष्मस्⟫**, dar a 3.pl. P. are forma puternică: **⟪शासति⟫** (!! sufix -ati) alături de ocazional **⟪शासन्ति⟫**. **⟪अशासुर्⟫**. De asemenea, întregul ⟪आत्मनेपद⟫ are, în măsura în care apare, forma puternică: **⟪शास्ते⟫**
 
 Perf I **⟪शशास⟫**, **⟪शशासुर्⟫**  
 Fut. **⟪शासिष्यति⟫**  
@@ -369,7 +369,7 @@ Fig.: ⟪शास्त्री⟫
 ::: deleteme-box
 vezi și:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Concepte fundamentale ale regulilor monahale și ale dreptului monahal al Theravāda. -- Partea I. -- (Materiale pentru conceptele fundamentale ale budismului). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concepte fundamentale ale regulilor monahale și ale dreptului monahal al Theravāda. -- Partea I. -- (Materiale pentru conceptele fundamentale ale budismului). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: fată tânără, fiică, fecioară
 
@@ -403,15 +403,15 @@ Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫
 
 ::: deleteme-box
 
-- **Imagine lekt4102.jpg** (Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Sursă imagine: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Accesat la 2009-01-02. -- Licență Creative Commons (Atribuire, utilizare non-comercială)]
-- **Imagine lekt4103.jpg** (Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [Sursă imagine: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Accesat la 2009-01-03. -- Licență Creative Commons (Atribuire, utilizare non-comercială, fără modificări)]
-- **Imagine lekt4106.jpg** (Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫): Bahá'í House of Worship, Delhi [Sursă imagine: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- Accesat la 2009-01-03. -- Licență Creative Commons (Atribuire, utilizare non-comercială, share alike)]
-- **Imagine lekt4107.jpg** (Fig.: ⟪मान्यः⟫): Dr. Bhimrao Ramji Ambedkar = ⟪डॊ⟫.⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (1891 - 1956) [Sursă imagine: Wikipedia. Domeniu public]
-- **Imagine lekt4108.jpg** (Fig.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫): ⟪काशी⟫ ⟪द्विजैर्द्रष्टवया⟫, ⟪मणिकर्णिका⟫ ⟪घाट⟫, 1922 [Sursă imagine LoC/Wikipedia. Domeniu public]
-- **Imagine lekt4105.jpg** (Fig.: ⟪भुजङ्गः⟫): Banded Krait (_Bungarus fasciatus_) [Sursă imagine: J. Ewart. The poisonous snakes of India, 1878. Domeniu public]
-- **Imagine lekt4104.jpg** (Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫): Storscerea veninului de șarpe (Krait), Thailanda [Sursă imagine: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Accesat la 2009-01-03. -- Licență Creative Commons (Atribuire)]
-- **Imagine lekt4109.jpg** (Fig.: ⟪शासना⟫): Edictul lui Ashoka, Dhauli, Orissa [Sursă imagine: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Accesat la 2009-01-03. -- Licență Creative Commons (Atribuire, utilizare non-comercială)]
-- **Imagine lekt4110.jpg** (Fig.: ⟪शास्त्री⟫): Max Müller (1823 - 1900), circa 1898 [Sursă imagine: Wikipedia. Domeniu public]
-- **Imagine lekt4111.jpg** (Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [Sursă imagine: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Accesat la 2009-01-04. -- Licență Creative Commons (Atribuire, fără modificări)]
+- **Imaginea lekt4102.jpg** (Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Sursa imaginii: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Accesat la 2009-01-02. -- Licență Creative Commons (Atribuire, utilizare non-comercială)]
+- **Imaginea lekt4103.jpg** (Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [Sursa imaginii: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Accesat la 2009-01-03. -- Licență Creative Commons (Atribuire, utilizare non-comercială, fără modificări)]
+- **Imaginea lekt4106.jpg** (Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫): Casa de Rugăciune Bahá'í, Delhi [Sursa imaginii: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- Accesat la 2009-01-03. -- Licență Creative Commons (Atribuire, utilizare non-comercială, share alike)]
+- **Imaginea lekt4107.jpg** (Fig.: ⟪मान्यः⟫): Dr. Bhimrao Ramji Ambedkar = ⟪डॊ⟫.⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (1891 - 1956) [Sursa imaginii: Wikipedia. Domeniu public]
+- **Imaginea lekt4108.jpg** (Fig.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫): ⟪काशी⟫ ⟪द्विजैर्द्रष्टवया⟫, ⟪मणिकर्णिका⟫ ⟪घाट⟫, 1922 [Sursa imaginii LoC/Wikipedia. Domeniu public]
+- **Imaginea lekt4105.jpg** (Fig.: ⟪भुजङ्गः⟫): Krait dantelat (_Bungarus fasciatus_) [Sursa imaginii: J. Ewart. The poisonous snakes of India, 1878. Domeniu public]
+- **Imaginea lekt4104.jpg** (Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫): Storscerea veninului de șarpe (Krait), Thailanda [Sursa imaginii: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Accesat la 2009-01-03. -- Licență Creative Commons (Atribuire)]
+- **Imaginea lekt4109.jpg** (Fig.: ⟪शासना⟫): Edictul lui Ashoka, Dhauli, Orissa [Sursa imaginii: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Accesat la 2009-01-03. -- Licență Creative Commons (Atribuire, utilizare non-comercială)]
+- **Imaginea lekt4110.jpg** (Fig.: ⟪शास्त्री⟫): Max Müller (1823 - 1900), circa 1898 [Sursa imaginii: Wikipedia. Domeniu public]
+- **Imaginea lekt4111.jpg** (Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [Sursa imaginii: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Accesat la 2009-01-04. -- Licență Creative Commons (Atribuire, fără modificări)]
 
 :::

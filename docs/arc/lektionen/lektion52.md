@@ -7,15 +7,15 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 52
+# ܕܪܫܐ 52
 
-## 52.1. Neutrum der Stämme auf -i und -u
+## 52.1. ܡܨܥܝܐ ܕܫܰܪ̈ܒܳܬܳܐ ܕܥܰܠ -ܝ ܘ -ܘ
 
 ::: grammar-box
-**Before endings beginning with a vowel, an -n- is inserted; this is an influence of the n-stems (-in).**
+**ܩܕܡ ܫܘܬܦ̈ܐ ܕܝܠܦ̈ܘܬܐ ܒܟܢܝܬ ܣܘܡܩܐ، ࠮-ܢ- ࠝܬܝܪܐ؛ ܗܕܐ ܗܘ ܬܬܥܠܬܐ ܕܫܘܬܦ̈ܐ ܕ-ܢ (-in).**
 :::
 ::: grammar-box
-| | **⟪वारि⟫ n.:br"Wasser"** | **⟪मधु⟫ n.:br"Honig"** |
+| | **⟪वारि⟫ n.:br"ܡ̈ܝܐ"** | **⟪मधु⟫ n.:br"ܕܒ̈ܫ"** |
 | :--- | :---: | :---: |
 | ⟪एकवचनम्⟫ |||
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫** | ⟪वारि⟫ | ⟪मधु⟫ |
@@ -33,12 +33,12 @@ status: stable
 | ⟪षष्ठी⟫ | ⟪वारीणाम्⟫ | ⟪मधूनाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪वारिषु⟫ | ⟪मधुषु⟫ |
 :::
-## 52.2. Nominal Formation
+## 52.2. ܨܶܘܪܳܐ ܫܡܳܢܳܝܳܐ
 
-### 52.2.1. PPP + -vant: Partizip der Vergangenheit Parasmaipada
+### 52.2.1. ܦܦܦ + -ܘܢܬ: ܡܠܬܐ ܕܡܫܬܘܬܦܢܘܬܐ ܕܥܒܪܐ ܦܐܪܐܣܡܐܝܦܐܕܐ
 
 ::: grammar-box
-**A past participle of the Parasmaipada is formed as follows:**
+**ܐ ܦܪܬܝܩ ܕܡܠܬܐ ܕܦܪܣܡܝ̈ܐ ܬܩܘܼܪ ܒܗܕܐ:**
 
 **PPP + -vant / fem.: vatī**
 **Deklination wie die Stämme auf -vant bzw. f. ⟪देवी⟫**
@@ -54,7 +54,7 @@ Examples:
 
 ⟪भिन्नवन्त्⟫ "one who has split"
 :::
-### 52.2.2. ⟪तद्धित⟫-suffix -maya / -mayī
+### 52.2.2. ܡܰܠܘܳܝܳܐ ܕ-⟪ܬܰܕܗܺܝܬ⟫ -ܡܰܝܰܐ / -ܡܰܝܺܝ
 
 ::: grammar-box
 **The ⟪तद्धित⟫-suffix -maya / f.: -mayī forms adjectives from nouns meaning**
@@ -74,24 +74,24 @@ Examples:
 
 ⟪वाङ्मय⟫ 3 (to ⟪वाच्⟫ f. "language") "consisting of speech"
 
-⟪सोममय⟫ 3 "made of Soma, consisting of Soma"
+⟪सोममय⟫ ܡܕܡܥ ܣܘܡܐ، ܗܝ ܣܘܡܐ
 :::
 ::: grammar-box
-**Nouns ending in -maya are occasionally used as neuter substantives and then denote an abundance of what is designated by the substantive to which -maya is appended.**
+**ܫܡ̈ܐ ܕܢ̈ܬܝܪ̈ܐ -maya ܡܕܫܟܠܬ ܗܝ ܢ̈וֹן ܘܡܕܐ ܗܝ ܫ̈ܠܛܢܘܬܐ ܕܡܕܡܥ -maya.**
 :::
 ::: indent
-e.g. ⟪अन्नमय⟫ n. "abundance of food"
+ܠܡܕܐ: ⟪अन्नमय⟫ ܢ̈וֹן "ܡܕܡܥ ܐܟܠܬܐ"
 :::
 ::: media
 ![](/images/lekt5202.webp)
-Fig.: ⟪अन्नमयम्⟫
-⟪विवाहः⟫, Chennai = சென்னை
-(Image source: [Details](/arc/licenses#lekt5202))
+ܬܫܥܝܬܐ: ⟪अन्नमयम्⟫
+⟪विवाहः⟫، ܛܟܝܠ = சென்னை
+(ܡܕܥ ܬܫܥܝܬܐ: [ܦܪ̈וֹט](/arc/licenses#lekt5202))
 :::
-### 52.2.3. ⟪तद्धित⟫-suffix -eya
+### 52.2.3. ܣܘܦܝܬܐ ܕܬܕܗܝܬ -ܐܝܐ
 
 ::: grammar-box
-**The ⟪तद्धित⟫-suffix -eya / f.: -eyī occurs, among other things, on Feminines in the sense of**
+**ܡܕܐ ⟪तद्धित⟫-ܣܘܦܝܬܐ -eya / ܢ̈וֹן: -eyī ܡܕܫܟܠܬ، ܒܝܬ ܐܘܪ̈ܗܢ، ܥܠ ܢ̈וֹן ܒܡܕܐ ܕ**
 
 *   **"Kind der"**
 *   **"Nachkomme der"**
@@ -129,9 +129,9 @@ Fig.: ⟪अनुक्रमेणैकशः⟫
 Queue before temple, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Image source: [Details](/arc/licenses#lekt5204))
 :::
-## 52.4. Verbal compounds expressing that something becomes or is made into something it was not before (⟪अभुततद्भावः⟫)
+## 52.4. ܡܠܘ̈ܐܐ ܕܡܠܬܐ ܕܡܚܘܝܢ ܕܡܕܡ ܗܘܐ ܐܘ ܐܬܥܒܕ ܠܡܕܡ ܕܠܐ ܗܘܐ ܩܕܡ (⟪अभुततद्भावः⟫)
 
-### 52.4.1. cvi-Bildungen
+### 52.4.1. ܓܘܕܠ̈ܐ ܕܟܘܝ
 
 ::: grammar-box
 **Before the Roots**
@@ -140,42 +140,42 @@ Queue before temple, Trivandrum = Thiruvananthapuram = തിരുവനന്�
 *   **⟪अस्⟫ 2P "sein"**
 *   **⟪भू⟫ 1P "werden"**
 
-**can nouns and adjectives be used as preverbs to express that someone makes a person or thing into that, or that a person or thing becomes what is denoted by that noun.**
+**ܐܝܕܝ ܡܠܬܐ ܘܣܦܩܐ ܝܟܘܠܝܢ ܠܡܗܒܪ ܟܕ ܐܢܫ ܠܡܥܒܕ ܓܘܐ ܗܢܐ ܠܡܕܒܪ ܘܠܡܥܒܕ ܗܢܐ ܠܡܕܒܪ ܘܠܡܥܒܕ ܗܢܐ ܠܡܕܒܪ.**
 
-**The final sound of the noun is treated as follows:**
+**ܣܘܡ ܐܚܪܝܬܐ ܕܡܠܬܐ ܢܩܒܠ ܟܕ:**
 
 Der Auslaut des Nomens wird folgendermaßen behandelt:
 
 *   **final -a and -ā of declinable words are replaced by -ī**  
-    Examples:  
-    ⟪कृष्णीभवति⟫ "that which is not black becomes black"  
-    ⟪कृष्णीकरोति⟫ "he makes that which is not black black"  
-    ⟪गङ्गीभवति⟫ "he/she becomes the Ganges"
+Examples:  
+⟪कृष्णीभवति⟫ "that which is not black becomes black"  
+⟪कृष्णीकरोति⟫ "he makes that which is not black black"  
+⟪गङ्गीभवति⟫ "he/she becomes the Ganges"
 
 *   **final -i and -u are replaced by the corresponding long vowel  **
-    Examples:  
-    ⟪शुचीभवति⟫ "he/she/it becomes pure"  
-    ⟪गुरूभवामि⟫ "I become master"
+Examples:  
+⟪शुचीभवति⟫ "he/she/it becomes pure"  
+⟪गुरूभवामि⟫ "I become master"
 
 *   **final -ṛ is replaced by --rī**
     e.g. ⟪पित्रीभवति⟫ "one who is not a father (⟪पितृ⟫) becomes a father = a man gets his first child"
 
-*   **final -n is dropped and the preceding vowel is treated according to the aforementioned rules**
-    e.g. ⟪राजीबभूव⟫ "one (who was not king) became king (⟪राजन्⟫)"
+*   **يتم حذف -n النهائية ويتم التعامل مع الحرف المتحرك السابق وفقًا للقواعد المذكورة أعلاه**
+على سبيل المثال، ⟪राजीबभूव⟫ "أصبح شخص (لم يكن ملكًا) ملكًا (⟪राजन्⟫)"
 
-*   **other multi-stem nouns appear in the stem form that they have in the locative (⟪सप्तमी⟩) plural. The stem then undergoes the usual sandhi rules. See Kielhorn, Grammar § 489,3.  **
-    e.g. ⟪तिर्यक्करोति⟩ "he lays sideways (⟪तिर्यच्⟩)"
+*   **تظهر الأسماء متعددة الجذور الأخرى في شكل الجذر الذي تمتلكه في حالة المكان (⟪सप्तमी⟩) بالجمع. يخضع الجذر بعد ذلك لقواعد الساند المعتادة. انظر كيلهورن، القواعد الفقهية § 489,3. **
+على سبيل المثال، ⟪तिर्यक्करोति⟩ "يرقد جانبًا (⟪तिर्यच्⟩)"
 :::
 ::: media
 ![](/images/lekt5209.webp)
-Fig.: ⟪भस्मीकृतं⟩ ⟪वनम्⟩
-Shifting cultivation, Arunachal Pradesh = ⟪अरुणाचल⟩ ⟪प्रदेश⟩
-(Image source: [Details](/arc/licenses#lekt5209))
+الشكل: ⟪भस्मीकृतं⟩ ⟪वनम्⟩
+الزراعة المتنقلة، أروناتشال برديش = ⟪अरुणाचल⟩ ⟪प्रदेश⟩
+(مصدر الصورة: [تفاصيل](/arc/licenses#lekt5209))
 :::
-### 52.4.2. Suffix -sāt
+### 52.4.2. ܡܠܘܝܬܐ -ܣܳܬ
 
 ::: grammar-box
-**To express that a person or thing becomes completely what is designated by a noun, or that someone makes something or someone entirely what is designated by a noun, the noun can be**
+**للتعبير عن أن شخصًا أو شيئًا يصبح تمامًا ما يحدده اسم، أو أن شخصًا يجعل شيئًا أو شخصًا آخر تمامًا ما يحدده اسم، يمكن استخدام الاسم**
 
 **the suffix -sāt (which never becomes -ṣāt)**
 
@@ -202,12 +202,12 @@ Beispiele:
 *   **into whose possession one passes**
 *   **or that someone makes dependent on whom**
 
-**that which is designated by the noun**
+**ܕܡܬܝܐܠ ܒܫܡܐ**
 :::
-Example:
+ܡܛܠ:
 
 ::: indent
-⟪राजसाद्भवति⟫ "he becomes dependent on the king, he becomes the property of the king"
+⟪राजसाद्भवति⟫ "ܗܘ ܐܝܟܐ ܠܡܠܟܐ، ܗܘ ܐܝܟܐ ܠܡܠܟܐ"
 :::
 ::: grammar-box
 **According to the formations with -sāt, roots are not treated as after prefixes, thus Absolutive:**
@@ -216,18 +216,18 @@ Example:
 ::: indent
 ⟪भस्मसात्कृ⟫*⟪त्वा⟫*
 :::
-## 52.5. Wortwiederholungen (⟪द्विरुक्तम्⟫)
+## 52.5. ܬܘܪ̈ܨܐ ܕܡܠ̈ܐ (⟪ܕܒܝܪܘܟܬܡ⟫)
 
 ::: grammar-box
 **Word repetition expresses in Sanskrit:**
 
-*   **Repetition of the action**  
-    e.g. ⟪पुनः⟫ ⟪पुनः⟫ "again and again"
-*   **Distribution**  
-    Examples:  
-    ⟪पृथक्पृथक्⟫ "separately, individually"  
-    ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "whatever ... all that"  
-    ⟪युगे⟫ ⟪युगे⟫ "in each individual age"
+*   **ܪܦܬ ܕܝܠܦܬܐ**  
+ܡܼܛܠ ⟪पुनः⟫ ⟪पुनः⟫ "ܠܐ ܘܠܐ"
+*   **ܗܒܬ**  
+ܡܼܛܠ:  
+⟪पृथक्पृथक्⟫ "ܒܝܬ ܐܢܫ"  
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "ܐܝܟ ܕܢܗܘܝ"  
+⟪युगे⟫ ⟪युगे⟫ "ܒܟܠ ܕܘܪܐ"
 
 **Sometimes a compound can be formed from such connections**
 
@@ -235,31 +235,31 @@ Example:
 Examples:
 
 ::: indent
-⟪एकैक⟫ 3 "each individual"
-⟪अल्पाल्प⟫ 3 "very small"
-⟪नवनव⟫ 3 "always new"
+⟪एकैक⟫ 3 "ܟܠ ܐܢܫ"
+⟪अल्पाल्प⟫ 3 "ܙܥܘܬܐ ܓܝܪ"
+⟪नवनव⟫ 3 "ܠܐ ܬܡܝܕ"
 :::
-Regarding the so-called ⟪आम्रेडित⟫-compounds, in which inflected words are repeated, the second of which received an accent in pre-classical times, thus constituting a compound, see Wackernagel, Altindische Grammatik II,1 p. 142ff.
-## 52.6. The Numeral (⟪सम्ख्या⟫ f.)
+ܠܦܘܟ ܕܝܠܐ ܕܢ̈ܝܪ̈ܐ ⟪आम्रेडित⟫, ܕܝܠ̈ܐ ܢ̈ܘܪ̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ, ܕܝܠ̈ܐ ܢ̈וֹר̈ܐ ܕܝܠ̈ܐ ܢ̈ו
+## 52.6. ܡܢܝܢܐ (ܣܡܟܝܐ ܐܢܬܬܐ)
 
 Hier nicht behandeltes siehe z.B. bei Kielhorn, Grammatik §201f.
 
-### 52.6.1. Kardinalzahlen
+### 52.6.1. ܡܢܝܢܐ ܩܪܕܝܢܠܝܐ
 
-#### 52.6.1.1. Zahladjektive (für 1 bis 19)
+#### 52.6.1.1. ܡܰܕ̈ܓܠܳܢܶܐ ܕܡܶܢܝܳܢܳܐ (ܠܚܰܕ ܥܕܰܡܳܐ ܠܬܫܰܥܣܰܪ)
 
 ::: grammar-box
-**The numeral words for *1 to 19* are adjectives.**
-**The numeral words for **1 to 4** differ in declension for the three genders.**
+**מילי מנינא ל־*1 עד 19* הווּ תוארן.**
+**מילי מנינא ל־**1 עד 4** אית להוּ נטייה מוטבא ל־תלת גווני.**
 
-**For the numerals for **5 to 19** ***(⟪नवदशन्⟫)*** there is only one single declension for the three genders.**
+**לְמִנַיָּא ל־**5 עד 19** ***(⟪नवदशन्⟫)*** אית נטייה חדא ל־תלת גווני.**
 
-**For these numeral adjectives, as for all adjectives: it must stand in the same case, number, and gender as the associated noun and vice versa (i.e., for 1 singular, for 2 dual, for the rest plural).**
+**לְהָדֵין תוארן מנינא, כְּכֹל תואר: חַיָּב לְהוֹן לְמֶחֱזֵי בְּנַטְרָא, מנינָא וְגוֹנָא דִּשְׁמֵיהּ דִּכְנָס, וְהַפְכָּא (כלומר: ל־1 יחיד, ל־2 תרין, לשאר רבים).**
 :::
-Numeral adjectives:
+תוארן מנינא:
 
 ::: indent
-1 ⟪एक⟫ 3 (Declension as ⟪सर्व⟫, in the plural: "some")
+1 ⟪एक⟫ 3 (נטייה כְּ⟪सर्व⟫, ברבים: "מַן")
 2 ⟪द्वि⟫ 3
 3 ⟪त्रि⟫ 3
 4 ⟪चतुर्⟫ 3
@@ -270,14 +270,14 @@ Numeral adjectives:
 9 ⟪नवन्⟫ 3
 10 ⟪दशन्⟫ 3
 :::
-The declension follows at the appropriate place in the word lists.
+נטייתא אתיא בִּמְקוֹם דִּכְנָס לְשׁוֹנוֹי מילין.
 
 The further numeral adverbs up to 19 see e.g. at Kielhorn, Grammar §201.
 
-#### 52.6.1.2. Numeralia (für 19ff.)
+#### 52.6.1.2. ܡܢܝܢ̈ܐ (ܠܘܬ 19 ܘܠܥܠ)
 
 ::: grammar-box
-**The numerals for *19 (⟪एकोनविंशति⟫* "one less than 20") *up to 99* are feminine nouns and are declined like ⟪मति⟫ f. or root nouns ending in -t (e.g., ⟪त्रिंशत्⟫ f.).**
+**הָמוֹרַיְלָא דִּי 19 (⟪एकोनविंशति⟫ "אַחַד פָּחוֹת מִן עֶשְׂרִים") עַד 99 הֵן שְׁמָהָא נְקִיבְתָּא וַאֲסוּרִין כְּ⟪मति⟫ נְקִיבְתָּא אוֹ שְׁרַשְׁהָא דִּי סָלְקֵי ב-t (כְּגוֹן ⟪त्रिंशत्⟫ נְקִיבְתָּא).**
 
 :::
 Examples:
@@ -289,7 +289,7 @@ Examples:
 
 ::: grammar-box
 
-**The numeral words for numbers **from 100** are neuter nouns. They are declined like ⟪फलम्⟫.**
+**די מילתא דמספרא למנינא** מעל מאה הוו להו שם עצמה דזכר. ודאי כגון ⟪फलम्⟫.**
 :::
 
 Examples:
@@ -299,49 +299,49 @@ Examples:
 1000 ⟪सहस्र⟫ n.
 :::
 The individual number nouns see e.g. at Kielhorn, Grammar §201.
-#### 52.6.1.3. Syntactic aspects of the cardinal numbers
+#### 52.6.1.3. ܓܢ̈ܒܐ ܣܝܡܬܢܝܐ ܕܡܢܝܢ̈ܐ ܪ̈ܫܝܐ
 
 ::: grammar-box
-**From the difference between verbal adjectives and verbal nouns for cardinal numbers follows the following consequence for the syntax:**
-*   adjectival cardinal number words can only be connected like adjectives with the noun for the counted
-    e.g. ⟪तिसृभिर्नारीभिः⟫ "through three women"
+**ܡܢ ܕܩܘܪܝܢ ܒܝܬ ܐܕܒ̈ܝܐ ܘܣܡܘܟ̈ܐ ܠܡܕܒܪ̈ܐ ܕܡܢܝܢ ܫܠܫ̈ܐ ܗܘ ܕܝܢ ܠܡܕܒܪ̈ܐ:**
+*   ܐܕܒ̈ܝܐ ܠܡܕܒܪ̈ܐ ܕܡܢܝܢ ܫܠܫ̈ܐ ܗܘ ܕܝܢ ܠܡܕܒܪ̈ܐ
+e.g. ⟪तिसृभिर्नारीभिः⟫ "ܒܬܠܬ ܐܢܫ̈ܝܐ"
 *   substantive cardinal number words can be connected with the noun for the counted in three ways
-    *   they govern the genitive (⟪षष्ठी⟫) of the counted
-        e.g. ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "through 20 women"
-    *   they stand as apposition in the same case (but in the singular) as the counted
-        e.g. ⟪विंशत्या⟫ ⟪नारीभिः⟫ "through 20 women"
-    *   they stand as the second member of a ⟪तत्पुरुष⟫ with the counted as the first member
-        e.g. ⟪गोविंशत्या⟫ "through 20 cows"
+*   they govern the genitive (⟪षष्ठी⟫) of the counted
+e.g. ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "ܒܬܠܬ ܐܢܫ̈ܝܐ"
+*   they stand as apposition in the same case (but in the singular) as the counted
+e.g. ⟪विंशत्या⟫ ⟪नारीभिः⟫ "ܒܬܠܬ ܐܢܫ̈ܝܐ"
+*   they stand as the second member of a ⟪तत्पुरुष⟫ with the counted as the first member
+e.g. ⟪गोविंशत्या⟫ "ܒܬܠܬ ܐܢܫ̈ܝܐ"
 
 :::
-### 52.6.2. Ordinalzahlen
+### 52.6.2. ܡܢܝܢܐ ܬܪ̈ܝܨܐ
 
 See z.B. bei Kielhorn, Grammatik §201f.
 
-### 52.6.3. Zahladverbien
+### 52.6.3. ܡܶܠܶܐ ܕܩܰܛܺܝܓܳܪܺܝܰܐ ܕܡܶܢܝܳܢܳܐ
 
 a) "-mal":
 
 ::: indent
-once: ⟪सकृत्⟫
-twice: ⟪द्विस्⟫
-thrice: ⟪त्रिस्⟫
-four times: ⟪चतुस्⟫
-five times and so on is formed with the suffix ***\-⟪कृत्वस्⟫***: ⟪पञ्चकृत्वस्⟫
+פעם אחת: ⟪सकृत्⟫
+פעמיים: ⟪द्विस्⟫
+שלוש פעמים: ⟪त्रिस्⟫
+ארבע פעמים: ⟪चतुस्⟫
+חמש פעמים וכך הלאה נוצר עם הסיומת ***\-⟪कृत्वस्⟫***: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-fold": is expressed with the suffix ***\-⟪धा⟫***
+ב) "-fold": מבוטא עם הסיומת ***\-⟪धा⟫***
 
 ::: indent
-simple: ⟪एकधा⟫
-double: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
-etc.
+פשוט: ⟪एकधा⟫
+כפול: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
+וכו'
 :::
-c) "each ...", "to ...": is expressed with the suffix ***\-⟪शस्⟫*** (see above!)
+ג) "כל ...", "ל-": מבוטא עם הסיומת ***\-⟪शस्⟫*** (ראה לעיל!)
 
 ::: indent
 ⟪द्विशस्⟫ "in pairs, two by two"
 :::
-### 52.6.4. Numeral Adjectives
+### 52.6.4. ܡ̈ܠܝܢ ܚܘܝܕܝܬܐ ܕܡܢܝܢܐ
 
 "-fold":
 
@@ -353,7 +353,7 @@ From 4 onwards, "-fold" is expressed by the suffix ***\-⟪तय⟫ (f.: -⟪�
 :::
 Further formations may be found in dictionaries or grammars.
 
-### 52.6.5. Compounds with cardinal numbers in the first member
+### 52.6.5. ܡܠ̈ܐ ܡܚܘܕ̈ܬܢ ܥܡ ܡܢܝܢ̈ܐ ܪ̈ܫܝܐ ܒܡܠܬܐ ܩܕܡܝܬܐ
 
 ::: grammar-box
 **⟪बहुव्रीहि⟫ are formed in this manner quite regularly.**
@@ -372,20 +372,20 @@ Fig.: ⟪चतुर्मुखः⟫
 ::: grammar-box
 **⟪तत्पुरुष⟫ with a cardinal number in the first member must not be formed arbitrarily:**
 
-**Rule 1: Words that designate a direction (such as ⟪पूर्व⟫ 3 "eastern", ⟪उत्तर⟫ 3 "northern"), and words for cardinal numbers, may form a ⟪कर्मधारय⟩-compound with other words only if the compound is used as a proper name.**
+**ܩܘܢܘܢ 1: ܟܠ ܡܕܝܩܐ ܕܡܫܬܥܪ ܠܟܝܢܐ (ܡܫܠܐ ⟪पूर्व⟫ 3 "מזרח", ⟪उत्तर⟫ 3 "צפון"), וܟܠ מילי דמספרים, ܐܬܪכܒ ܠ⟪कर्मधारय⟩-קומפונט ܥܡ מילי אחרים רק אם הקומפונט משמש כשם עצמי.**
 :::
-Therefore, for example, no Tatpuruṣa may be formed from ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "northern trees" or ⟪पञ्च⟫ ⟪ब्राह्मणः⟫. However, from ⟪सप्तन्⟫ and ⟪ऋषि⟫, the Tatpuruṣa ⟪सप्तर्षि⟫ m. "the seven Ṛṣis" may be formed, if this stands as the name for the constellation of the Great Bear (Ursa maior).
+לכן, למשל, לא ניתן ליצור תטפורוש מ-⟪उत्तरा⟩ ⟪वृक्षाः⟩ "עצים צפוניים" או מ-⟪पञ्च⟩ ⟪ब्राह्मणः⟩. עם זאת, מ-⟪सप्तन्⟩ ו-⟪ऋषि⟩, ניתן ליצור את התטפורוש ⟪सप्तर्षि⟩ ז. "שבעת הרוחין", אם זה עומד כשם לקבוצת הכוכבים דוב הגדול (אורסה מאג'ור).
 ::: media
 ![](/images/lekt5206.jpg)
-Fig.: ⟪सप्तर्षयः⟫
-The Pleiades = the seven brightest stars of the Great Bear (Ursa maior)
-(Image source: [Details](/arc/licenses#lekt5206))
+איור: ⟪सप्तर्षयः⟩
+הפליאדות = שבעת הכוכבים הבולטים ביותר בדוב הגדול (אורסה מאג'ור)
+מקור התמונה: [פרטים](/arc/licenses#lekt5206)
 :::
 
 ::: grammar-box
 **Rule 2: Deviating from Rule 1, a word denoting a cardinal direction or a cardinal number may form a Tatpuruṣa with another noun, if**
 
-1.  a compound thus formed is followed by a Taddhita suffix  
+1. ܣܘܼܟܪܵܐ ܕܡܶܬܚܰܙܝ ܒܗܠܟ ܕܡܶܬܦܰܪܩ ܒܣܘܼܟܪܵܐ ܕܬܰܕܕܝܼܗܵܐ
     Examples:  
     pūrva + śālā ("hall") » \*pūrvaśālā (must not be used in this way!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "located in the eastern hall"  
     ṣaṣ + mātṛ » \*ṣaṇmātṛ (not permissible!) + Taddhita -a » ⟪षण्मातुर⟫ m. "the child of six mothers" (= ⟪कार्त्तिकेय⟫)
@@ -411,24 +411,25 @@ Jalakandapuram = ஜலகண்டபுரம்
 
 **Tatpuruṣa, die nach dieser Regel gebildet werden heißen ***Dvigu (⟪द्विगु⟫)***.**
 
-**Dvigu compounds, which denote a unity, are usually neuter. If the second member ends in -a, the feminine suffix -ī may be added. If the second member ends in fem. -ā, then either neuter -a or feminine -ī replaces it. If the second member ends in -an, then -a or -ī is substituted for it.**
+[0] ܐܪܡܝܐ
+[1] :::
+[2] ܡܕܥܝ̈ܐ:
+
 :::
-Examples:
-
 ::: indent
-⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "the aggregate of the three worlds, the three worlds as a unity, the tri-world (heaven-earth-underworld)"
+⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ ܢ. "ܟܘܠܐ ܕܬܠܬ ܥܠܡ̈ܝܢ, ܬܠܬ ܥܠܡ̈ܝܢ ܟܚܕ, ܥܠܡ̈ܐ ܬܣܝܪ"
 
-⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "Three-world"
+⟪त्रिलोक⟫ ܢ. ⟪।⟫ ⟪त्रिलोकी⟫ ܢ. "ܬܠܬ-ܥܠܡ̈ܐ"
 :::
 ::: grammar-box
-**Dvigu compounds, to which no Taddhita suffix is attached, but which have the meaning designated by a Taddhita suffix, govern their gender according to the noun they further specify (they are in reality Bahuvrīhis)**
+**ܟܘܠ̈ܐ ܕܕܘܓܝ, ܠܐ ܬܫܟܚ ܒܗܝ ܣܘܦܬܐ ܕܬܕܗܝܬܐ, ܠܟܢ ܡܕܥܝ̈ܐ ܒܣܘܦܬܐ ܕܬܕܗܝܬܐ, ܡܫܬܪ̈ܟܢ ܠܗܝ ܡܕܥܝ̈ܐ ܕܬܫܪܒ ܠܗ (ܗܝܢ ܒܫܪܐ ܕܒܚܘܝ̈ܪܝܗ)**
 :::
-Example:
+ܡܕܥܝ̈ܐ:
 
 ::: indent
 ⟪पञ्चगु⟫ 3: "acquired for five cows"
 :::
-## 52.7. Word List
+## 52.7. ܡܠܘܐܐ ܕܡ̈ܠܝܢ
 
 from:
 
@@ -437,15 +438,15 @@ from:
 ::: indent
 from:
 
-⟪खिल⟫ m.: fallow field, wasteland
+⟪खिल⟫ m.: שדה נטוש, מדבר
 :::
 ::: media
 ![](/images/lekt5210.webp)
 Fig.: ⟪खिलः⟫
-Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Image source: [Details](/arc/licenses#lekt5210))
+טמבהול, אקולה, אחמדנאגר = ⟪अहमदनगर⟫
+(מקור התמונה: [פרטים](/arc/licenses#lekt5210))
 :::
-⟪अन्तर्⟫ Adv.: inside, within ; Postposition with Gen. Loc. (⟪षष्टी⟫, ⟪सप्तमी⟫): inside, in the midst ; Postposition with Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): out of ...
+⟪अन्तर्⟫ Adv.: בתוך, פנימה ; Postposition עם Gen. Loc. (⟪षष्टी⟫, ⟪सप्तमी⟫): בתוך, באמצע ; Postposition עם Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): מתוך ...
 
 ⟪अन्योन्य⟫ 3: mutually, each other
 
@@ -457,17 +458,17 @@ PPP ⟪विपरीत⟫ 3: wrong, incorrect
 ⟪त्रि⟫ 3: three
 
 ::: grammar-box
-| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
+| | **ܡܕܢܫ:br⟪पुंस्⟫** | **ܕܠܐ ܡܕܢܫ:br⟪नपुंसकम्⟫** | **ܐܢܬܐ:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
-| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
+| **1. ܢܘܟܪܐ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **2. ܣܓܕܐ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **3. ܐܘܪܚܐ:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
+| **4. ܠܟܘܬܐ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **5. ܢܘܬܐ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **6. ܡܠܟܘܬܐ:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **7. ܡܨܠܐ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposition and prefix with nouns and verbs: out, away, out, forth, from, away, without - from
+⟪निस्⟫ ܡܠܬܐ ܘܩܕܡܝܐ ܥܡ ܫܡ̈ܗܬܐ ܘܦܥܠܝܢ: ܡܕܡ, ܐܘܪܚܐ, ܡܕܡ, ܩܕܡ, ܡܢ, ܐܘܪܚܐ, ܠܐ - ܡܢ
 
 ⟪पीड्⟫ 10P ⟪पीडयति⟫ : press, torment ; distress, besiege, plague
 
@@ -482,9 +483,9 @@ Hyderabad = హైదరాబాద్
 ::: indent
 from it:
 
-⟪परम्⟫ Adv.: to a high degree, thereupon, later, but, however
+⟪परम्⟫ Adv.: בְּעוֹלָמָא רַבָּא, אִתְעֲבֵיד בָּהּ, לְבַד מִן דָּא, אֲבָל
 :::
-⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): to - towards, after, with regard to, in relation to
+⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): לְקִבְלָא, אַחֲרֵי, עַל דִּין, בְּהָכְנָא
 
 ⟪प्रधान⟫ 3: principal, best; n.: most important
 
@@ -499,9 +500,9 @@ Fig.: ⟪प्रधानः⟫
 ⟪वर्ग⟫ m.: section, division, group
 
 ::: indent
-⟪त्रिवर्ग⟫ m.: triad (e.g. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; or: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; or: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
+⟪त्रिवर्ग⟫ m.: תלתא (למשל: ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; או: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; או: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : to will, to command, to desire
+⟪वश्⟩ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** צווי 2.sg.: ***⟪उड्ढि⟫*** : לרצות, לצוות, לחפץ
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
@@ -543,7 +544,7 @@ Inf. ⟪वर्जितुम्⟫
 
 ⟪सूर्य⟫ m.: Sun
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫ : to serve (⟪द्वितीया⟫), to attend upon, to honor, to love
+⟪सेव्⟫ 1Ā ⟪सेवते⟫ : ܠܥܒܕ (⟪द्वितीया⟫), ܠܫܡܫ, ܠܟܕܫ, ܠܐܝܠ
 
 ::: indent
 Perf I ⟪सिषेवे⟫
@@ -578,7 +579,7 @@ davon:
 
 ⟪अमुत्र⟫ Adv.: there, thither
 
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : to move, to move about, to fall down
+⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : ܡܕܰܠܩ ܠܗ ܐܘ ܡܕܰܠܩ ܒܗ
 
 ::: indent
 Perf. IIIa ⟪चुच्युवे⟫
@@ -643,7 +644,7 @@ Kaus. ⟪त्रापयति⟫
 PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 Inf. ⟪त्रातुम्⟫
 :::
-## 52.8. Translation Exercise
+## 52.8. Translation ܬܪܓܠܐ
 
 ⟪१⟫. ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१५९⟫ - ⟪१६१⟫
 
@@ -673,9 +674,9 @@ Explanation: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvand
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
-Explanation: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
+שְׁפָר: ⟪स्मृतिशीले⟫ נָא.אַק.דּוֹב.נ. (דּוֹבְדַנְוָא)
 :::
-⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Over ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ in the life of the prince
+⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ עַל अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ בְּחַיֵּי הַנָּשִׂיא
 
 ⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫*⟪मितरौ⟫* ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫*⟪मूलौ⟫* ⟪हि⟫ ⟪धर्मका⟫*⟪मावि⟫*⟪ति⟫ ⟪।७।⟫
 
@@ -746,29 +747,29 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
 ⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫
 ⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥१०॥⟫
 :::
-## 52.9. Aufgaben während der Semesterferien
+## 52.9. ܦܘܠܚܢ̈ܐ ܒܥܕܢܐ ܕܦܘܪܥܢܐ ܕܣܡܣܬܪܐ
 
 With Lesson 52, the first semester (13 weeks × 4 class hours) of the Sanskrit course is concluded.
 
 Während der Semesterferien sollten folgende Aufgaben erfüllt werden:
 
-1.  Wiederholung des gesamten bisher Gelernten, besonders:
-1.  Auswendiglernen der Konjugations- und Deklinationsparadigmen
-2.  Words
-3.  Principal parts
-2.  Memorizing as many verses and prose texts from classical literature as possible
-3.  Working through [Lesson 53](lektion53.md)
-4.  Working through the sheets Bhg 1 - 11 (not yet on the Internet)
-5.  Preparation of ⟪भगवद्गीता⟫ Ch. 1, Learning the associated words on the word lists (not yet on the Internet)
-6.  Metrical analysis of all verses of ⟪भगवद्गीता⟫ ⟪१⟫  
-A good impression of the text in recited form is given by: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Accessed on 2009-01-19
-7.  Reading a ⟪महाभारत⟫ retelling, e.g.  
-Mahābhārata : India's great epic / translated and condensed from Sanskrit by Biren Roy. -- 10th ed. -- Munich : Diederichs, 1995. -- 335 p. ; 19 cm. -- (Diederichs yellow series ; 16 : India)
-8.  Working through:  
-**Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Self-published, 1983. -- 818 p. ; 23 cm. -- pp. 208 - 254 (Sytactical government)
-9.  Finishing working through:  
-**Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**The wonder that was IndiaPart: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954.
-10.  Beginning with the working through of:  
+1. ܝܘܬܪܐ ܕܟܠ ܕܫܡܥܬ ܗܝܢܐ، ܒܝܫܪ:
+1. ܡܕܟܘܬ ܩܪܝܢܐ ܕܦܠܘܟ ܘܡܫܬܚܝ
+2. ܟܠܡܐ
+3. ܦܪܝܩ ܡܠܬ
+2. ܐܝܕܥ ܟܠ ܩܪܝܢܐ ܘܡܫܬܚܝ ܕܣܦܪ̈ܐ ܟܠܢ
+3. ܡܫܬܚܝ [Lektion 53](lektion53.md)
+4. ܡܫܬܚܝ ܟܠ ܩܪܝܢܐ Bhg 1 - 11 (ܠܐ ܥܕܝܢ ܒܣܘܪܬ)
+5. ܐܝܕܥ ⟪भगवद्गीता⟫ Ch. 1، ܡܕܟܘܬ ܟܠ ܩܪܝܢܐ ܕܦܠܘܟ (ܠܐ ܥܕܝܢ ܒܣܘܪܬ)
+6. ܐܝܕܥ ܟܠ ܩܪܝܢܐ ܕ⟪भगवद्गीता⟫ ⟪१⟫  
+ܐܝܕܥ ܟܠ ܩܪܝܢܐ ܕܡܫܬܚܝ: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- ܐܝܕܥ 2009-01-19
+7. ܡܫܬܚܝ ⟪महाभारत⟫ ܡܕܟܘܬ، ܐܝܕܥ:  
+Mahābhārata : ܣܦܪ̈ܐ ܕܗܝܢܐ / ܡܫܬܚܝ ܘܡܕܟܘܬ ܣܦܪ̈ܐ ܡܢ ܣܦܪ̈ܐ ܕܒܝܬ ܡܠܟܘܬ ܐܪܡܝܐ. -- 10th ed. -- Munich : Diederichs, 1995. -- 335 p. ; 19 cm. -- (Diederichs yellow series ; 16 : India)
+8. ܡܫܬܚܝ:  
+**Kunnappally, John:** Prakriyā bhāshyam : ܣܦܪ̈ܐ ܕܡܫܬܚܝ / ܡܫܬܚܝ ܒܠܫܢܐ ܡܠܝܐ. ܡܫܬܚܝ ܒܠܫܢܐ ܡܠܝܐ. -- Parathode : Self-published, 1983. -- 818 p. ; 23 cm. -- pp. 208 - 254 (Sytactical government)
+9. ܡܫܬܚܝ:  
+**Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**The wonder that was IndiaPart: ܣܦܪ̈ܐ ܕܡܫܬܚܝ ܕܣܦܪ̈ܐ ܡܢ ܣܦܪ̈ܐ ܕܒܝܬ ܡܠܟܘܬ ܐܪܡܝܐ. -- London : Sidgwick & Jackson, 1954.
+10. ܡܫ
 **Winternitz, Moriz \&lt;1863 - 1937\&gt;:** History of Indian literature. Stuttgart : Koehler. -- 3 vols. -- 1908 - 1922 (still by far the best literary history of Sanskrit, Pali, and Prakrit literature)
 
 ::: media
@@ -790,7 +791,7 @@ Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 
 **lekt5205:** [Image source: Wikipedia. Public domain]
 
-**lekt5206:** The Big Dipper = the seven brightest stars of the Big Bear (Ursa maior) [Image source: Wikipedia, GNU FDLicense]
+**ܠܟܬ5206:** ܕܘܪܐ ܪܒܐ = ܫܒܥ ܟ̈ܘܟ̈ܒ̈ܐ ܕܡܕܠܩ̈ܬܐ ܕܕܘܪܐ ܪܒܐ (Ursa maior) [Image source: Wikipedia, GNU FDLicense]
 
 **lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Image source: Wikipedia. Public domain]
 

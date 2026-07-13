@@ -79,7 +79,7 @@ Exempla:
 ⟪गुणवन्त्⟫ "bonas qualitates / virtutem habens"
 :::
 
-## 13.5. Stammabstufung von Nomina
+## 13.5. Gradatio thematum nominum
 
 Tribus in -mant sive -vant desinentes ad nomina radicalia cum gradatione radicali pertinent.
 
@@ -155,24 +155,24 @@ Exemplum:
 
 :::
 
-## 13.9. Wortliste
+## 13.9. Vocabularium
 
 Lectio sequentia verba:
 
 - **eva** ⟪एव⟫ : vocem praecedentem confirmat
 - **asura** m. ⟪असुर⟫ : daemon
 
-> **ASURA.** 'Spiritual, divine.'
->**ASURA.** 'Spiritual, divine.'
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
->According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
->In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
+> **ASURA.** 'Spirituale, divinum.'
+>**ASURA.** 'Spirituale, divinum.'
+> In antiquissimis Ṛgvedae partibus hoc verbum pro supremo spiritu adhibetur, idemque est ac Zoroastrianorum Ahura. In sensu 'dei' ad plures principes deos applicatum est, ut Indra, Agni et Varuṇa. Postea omnino oppositum sensum acquisivit, daemonem vel hostem deorum significans, ut nunc fit.
+> Secundum Viṣṇu Purāṇam, ex lumbis Brahmae (prajāpati) procreati sunt. Narratio Vāyu Purāṇae haec est: "Asurae primo ut filii ex lumbis eius (Prajāpati) procreati sunt. *Asu* a Brāhmaṇis spiramen significare declaratur. Ex eo hi homines procreati sunt; ideo Asurae dicuntur." Verbum diu ut nomen generale hostium deorum adhibitum est, Daityas et Danavas ceterosque Kaśyapae nepotes includens, sed non Rakṣasas a Pulastyā descendentes.
+> Secundum Viṣṇu Purāṇam, ex lumbis Brahmae (prajāpati) procreati sunt. Narratio Vāyu Purāṇae haec est: "Asurae primo ut filii ex lumbis eius (Prajāpati) procreati sunt. *Asu* a Brāhmaṇis spiramen significare declaratur. Ex eo hi homines procreati sunt; ideo Asurae dicuntur." Verbum diu ut nomen generale hostium deorum adhibitum est, Daityas et Danavas ceterosque Kaśyapae nepotes includens, sed non Rakṣasas a Pulastyā descendentes.
+> In hoc sensu alia derivatio inventa est: fons non iam asu, 'spiramen', sed initiale *a* ut prefixum negativum accipitur, et *asura* significat 'non deus'; ideo, secundum quosdam, verbum *sura* ortum est, communiter pro 'deo' adhibitum."
+> Secundum Viṣṇu Purāṇam, ex lumbis Brahmae (prajāpati) procreati sunt. Narratio Vāyu Purāṇae haec est: "Asurae primo ut filii ex lumbis eius (Prajāpati) procreati sunt. *Asu* a Brāhmaṇis spiramen significare declaratur. Ex eo hi homines procreati sunt; ideo Asurae dicuntur." Verbum diu ut nomen generale hostium deorum adhibitum est, Daityas et Danavas ceterosque Kaśyapae nepotes includens, sed non Rakṣasas a Pulastyā descendentes.
 >
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
+> In hoc sensu alia derivatio inventa est: fons non iam asu, 'spiramen', sed initiale *a* ut prefixum negativum accipitur, et *asura* significat 'non deus'; ideo, secundum quosdam, verbum *sura* ortum est, communiter pro 'deo' adhibitum."
 >
-> [Quelle: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Fons: **Dowson, Ioannes \&lt;1820-1881\&gt;:** Lexicon classicum mythologiae Hinduicae et religionis, geographiae, historiae et litterarum. -- Londinii, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -219,7 +219,7 @@ dviṣ 2 U:
 **dveṣa** ⟪द्वेष⟫ : Odium
 :::
 
-## 13.10. Übung
+## 13.10. Exercitium
 
 A) Translate and convert into active present tense sentences:
 

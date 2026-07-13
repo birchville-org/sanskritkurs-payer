@@ -33,6 +33,9 @@ LANGS = {
     "zh-CN": ("简体中文", DOCS / "zh-CN/lektionen"),
     "ar": ("العربية",   DOCS / "ar/lektionen"),
     "arc": ("ܐܪܡܝܐ",    DOCS / "arc/lektionen"),
+    "th": ("ไทย",      DOCS / "th/lektionen"),
+    "el": ("Ελληνικά", DOCS / "el/lektionen"),
+    "cop": ("ⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ", DOCS / "cop/lektionen"),
 }
 
 def count_files(d, pattern):

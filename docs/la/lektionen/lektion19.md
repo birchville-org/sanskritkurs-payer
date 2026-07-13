@@ -73,7 +73,7 @@ Nota: In relativis universalibus saepe optativus pro indicativo adhibetur. Itaqu
 
 :::
 
-## 19.3. Wortliste
+## 19.3. Vocabularium
 
 **⟪अर्थ⟫** m.: Finis, scopum, significatio (verbi), divitiae, possessio, facultas. **⟪अर्थम्⟫** (Acc.), **⟪अर्थेन⟫** (Instr.) cum Gen. vel ut pars posterior Tatpurusa: propter ..., ut.
 
@@ -173,7 +173,7 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **⟪हि⟫ :** etenim, scilicet (numquam in initio orationis ponere licet)
 
-## 19.4. Übung
+## 19.4. Exercitium
 
 **Versa in Sanscritum:**
 

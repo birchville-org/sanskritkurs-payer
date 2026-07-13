@@ -165,7 +165,7 @@ Exemplum:
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-## 35.4. Wortliste
+## 35.4. Vocabularium
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : perire, interire, evanescere
 ::: indent

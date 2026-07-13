@@ -205,7 +205,7 @@ z.B. **tan** 8 U.
    * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
    * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (aus \*tn-ya-nte)
 
-## 10.5. Wortliste
+## 10.5. Glista da pleds
 
 **gṛha** n. ⟪गृह⟫ : Chasa
 
@@ -268,7 +268,7 @@ Fig.: ⟪विश्वामित्रः⟫
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : dumandar (inqualchid: Acc.; davartge: Acc.)
 - **saha** ⟪सह⟫ : ensemen cun, ensemen cun (era cun „lutar cun“ etc.) (postposiziun cun instrumental)
 
-## 10.6. Übung
+## 10.6. Exercizi
 
 **A) Formate il passiv per las suandantas formas verbalas (cun la tradiziun da la forma verbala):**
 
@@ -333,7 +333,7 @@ Abb.: ⟪तन्तुवायः⟫
 9. Il Kṣatriya adulescha il HERR cun in sacrifici. (Passivkonstruktion, senza usar la parola **yajña**)
 10. Per generusitad attein in sectatur dal Buddha in paradis.
 
-## 10.7. Wortliste 2
+## 10.7. Glista da pleds 2
 
 - **makṣikā** f. ⟪मक्षिका⟫ : mosca, ape
 - **vraṇa** m. ⟪व्रण⟫ : ferida, error, dany
@@ -360,7 +360,7 @@ Abb.: ⟪तन्तुवायः⟫
 - **iha** ⟪इह⟫ : qua
 - **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : esser bel, splender
 
-## 10.8. Lese- und Übersetzungsübung
+## 10.8. Exercizi da lectura e translaziun
 
 **Leghjar e traduscher e convertir en passiv:**
 

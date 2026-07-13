@@ -27,7 +27,7 @@ Formae educationis maximi momenti haec sunt:
 
 (De his duabus ultimis, vide postea!)
 
-## 5.2. Zur Sanskrit-Terminologie für Komposita
+## 5.2. De terminologia Sanscritica pro compositionibus
 
 - **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Membra compositionis
 - **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : Dissolutio compositionis
@@ -36,7 +36,7 @@ Formae educationis maximi momenti haec sunt:
 - **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Compositum, cuius partes priores sine casis terminis sunt (casus normalis)
 - **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Compositum, in quo una vel plures mediae partes omituntur
 
-## 5.3. Kopulative Komposita (Dvandva n. = ⟪द्वन्द्व⟫)
+## 5.3. Composita copulativa (Dvandva n. = ⟪द्वन्द्व⟫)
 
 Composita copulativa ad coniungenda membra grammaticaliter similia, coordinata (nomina vel adiectiva), adhibentur.
 
@@ -60,11 +60,11 @@ Fit cum "et" (**ca** = ⟪च⟫), interdum cum "aut" (**vā** = ⟪वा⟫) v
 :::
 De Dvandva duali vide postea!
 
-### 5.3.1. Vorderglieder von Komposita
+### 5.3.1. Partes priores compositionum
 
 Antica membra compositionum (non solum Dvandvas) formam habent regulariter **staminis nominalis** immutati. Membra singula compositionum iunguntur secundum regulas **Sandhi sententialis** (id est, Sandhi, quod hactenus cognovimus, contra Sandhi verbi, quod intra verbum ante elementa formativa applicatur).
 
-### 5.3.2. Plural-Itaretaradvandva
+### 5.3.2. Pluralis-Itaretaradvandva
 
 Exempla pluralia dvandva:
 
@@ -90,7 +90,7 @@ Exempla pluralia dvandva:
 
 Cum duae ex tribus ultimis praedictis legibus simul in controversiam venire possunt, semper regula posterior sequenda est. (Exempla de dvandva composito ad has leges apud Kielhorn, Grammatica § 570).
 
-## 5.4. Wortliste
+## 5.4. Vocabularium
 
 **Haec verba discite:**
 
@@ -134,7 +134,7 @@ Fig.: Deus Kāma = kāmadeva = ⟪कामदेव⟫, saec. XVIII.
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : tam ... quam.
 
-## 5.5. Übung
+## 5.5. Exercitium
 
 **A) Versa translate hosce sententias et composita atque solvite dvandvas in eis occurrentia in Sanscrito:**
 

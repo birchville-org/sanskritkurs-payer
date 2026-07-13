@@ -22,13 +22,18 @@ features:
     details: Construit sur les fondations de VitePress pour une vitesse maximale.
 ---
 
-::: tip Version 1.5 — Hebrew Translation & Typography
-**Nouveau dans v1.5 (juin 2026) :**
 
-- **Nouvelle langue (hébreu) :** Le cours entier est désormais également disponible en hébreu (avec prise en charge RTL).
-- **Typographie sanskrite :** Uniformisation à l'échelle du système et mise en évidence colorée du devanāgarī dans toutes les langues de traduction.
-- **Améliorations PWA :** Stabilisation accrue de l'application web progressive pour l'utilisation hors ligne.
+::: note-box  Version 1.6 — Global Integrity & Stabilität
+**Nouveau dans v1.6 (juillet 2026) :**
 
-**Remarques et signalements d'erreurs :** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Contribuer en tant qu'auteur ou correcteur :** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+- **Finalisation à 100 % dans 19 langues :** L'arabe, l'hébreu, l'araméen, le chinois simplifié, l'indonésien, l'hindi, le tamoul, le pendjabi, le latin, le roumain et le romanche grison sont désormais traduits de manière ininterrompue par machine (qualité non garantie ; pure étude de faisabilité sans relecture).
+- **Support RTL :** Prise en charge native de la mise en page pour les langues à écriture de droite à gauche (arabe, hébreu), y compris une interface utilisateur entièrement localisée.
+- **PWA & Offline-First :** Utilisation hors ligne complète et sans erreur de tout le contenu du cours sur toutes les versions linguistiques actives.
+- **Version auteur et éditeur :** Éditeur complet pour les correcteurs (visualiseur QA) avec un système de secours IA asynchrone pour des traductions massives extrêmement stables.
+
+**Remarques et signalements d'erreurs bienvenus à :** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Contribuer en tant que correcteur ou conservateur :** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+
+- Pour les auteurs (et ceux qui souhaitent utiliser un éditeur Markdown autonome léger), un éditeur open source est disponible sur https://github.com/marcodem/zentauri
+
 :::

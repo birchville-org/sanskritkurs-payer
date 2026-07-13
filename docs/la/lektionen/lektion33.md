@@ -218,7 +218,7 @@ Formae **⟪दा⟫** obtinentur, cum in paradigma **⟪धा⟫** **dh** per
 :::
 Similiter **⟪जुह्वत्⟫** (juhu-at + s)
 
-## 33.6. Wortliste
+## 33.6. Vocabularium
 
 **⟪दा⟫** 3U **⟪ददाति⟫**: dare
 

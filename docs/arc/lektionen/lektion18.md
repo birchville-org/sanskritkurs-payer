@@ -3,7 +3,7 @@ title: Lektion 18
 lesson_id: 18
 ---
 
-# Lektion 18
+# ܕܪܫܐ ܝܚ
 
 ## 18.1. ⟪सुभाषितम्⟫
 
@@ -13,7 +13,7 @@ lesson_id: 18
 ⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
 ⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
 :::
-## 18.2. Determinativkomposita (⟪तत्पुरुष⟫) mit adverbialem Vorderglied
+## 18.2. ܡܰܪܟܒܳܬܳܐ ܕܡܰܦܫܰܛܬܳܐ (⟪ܬܰܬܦܽܘܪܽܘܫ⟫) ܥܰܡ ܩܕܳܡܳܝܳܐ ܡܰܠܬܳܢܳܝܳܐ
 
 As an adverbial (indeclinable) front element, can
 
@@ -23,7 +23,7 @@ As an adverbial (indeclinable) front element, can
 *   other indeclinables
 
 ::: indent
-are used. Such Tatpuruṣa compounds mostly belong to the class of Nityasamāsa = ⟪नित्यसमास⟫ (m. "fixed compound"), i.e., compounds that cannot be resolved at all or not merely by means of the words occurring within the compound itself.
+ܐܬܝܕܥܘ. ܗܠܟ ܣܡܘܟ̈ܐ ܕܬܛܦܘܪܣܐ ܒܓܝܢܬ ܟܠܐ ܕܢܝܬܐ ܣܡܘܟ̈ܐ = ⟪नित्यसमास⟫ (m. "ܣܡܘܟ̈ܐ ܩܪܝܐ"), ܐܢܘܚܟ̈ܐ ܕܠܝܫܢܐ ܠܬܩܪܒ ܘܠܐ ܒܫܡܗ̈ܝܢ ܕܟܠܐ ܒܣܡܘܟ̈ܐ.
 :::
 उदाहरणानि:
 
@@ -51,9 +51,9 @@ The most important adverbial pre-elements are a-/an-, su-, dus-.
 
 ⟪अब्राह्मणी⟫ f. = ⟪न⟫ ⟪ब्राह्मणी⟫ : a non-Brahmin woman, a woman not of the Brahmin caste
 
-⟪अदेव⟫ m. = ⟪न⟫ ⟪देवः⟫ : a non-god, ungodly
+⟪ܐܠ ܕܝܘ̈ܣܬܐ⟫ अदेव = ⟪ܕܝ̈ܘ̈ܣܬܐ ܠܵܐ⟫ न ⟪ܕܝ̈ܘ̈ܣܬܐ ܠܵܐ⟫ देवः : ࣻܕ ܠܵܐ ܒ݂ܝ̈ܫ
 :::
-⟪सु⟫ "well, good"; in the resolution of the compound, commentators replace it with an adjective meaning "good" (e.g. ⟪सुष्टु⟫ 3, ⟪शोभन⟫ 3).
+⟪सु⟫ "ܒ݂ܝ̈ܣ ܬוֹב"; ࣻܒ݂ܫܪ̈ܐ ܕ݂ܝ̇ܩܘܿܢ ܠܦܹܪܫ̈ܐ ܕ݂ܟܘܼܠܬܵܐ, ࣻܝ̇ܫܪ̈ܢ ܠܗּ ࣻܒ݂ܫܪ̈ܐ ܕ݂ܝ̇ܩܘܿܢ ࣻܠܦܹܪ̈ܫ (e.g. ⟪सुष्टु⟩ 3, ⟪शोभन⟩ 3).
 
 उदाहरणानि:
 
@@ -88,11 +88,11 @@ Entgegen dem Satzsandhi gilt im Auslaut des Vorderglieds von Komposita:
 Therefore: ⟪दुष्करण⟫
 
 :::
-### 18.2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
+### 18.2.1. ܡܰܪܟܒܳܬܳܐ ܕܛܽܘܦܣܳܐ ⟪ܣܽܘܟܰܪ⟫ / ⟪ܕܽܘܫܟܰܪ⟫
 
 ::: grammar-box
 
-Compounds of type ⟪सुकर⟫ / ⟪दुष्कर⟫ primarily have the meaning of passive possibility:
+מִלּוּפֵי טִיפָא ⟪सुकर⟫ / ⟪दुष्कर⟫ בְּמַאי מִישְׁמָע:
 
 उदाहरणानि:
 
@@ -106,22 +106,22 @@ Compounds of type ⟪सुकर⟫ / ⟪दुष्कर⟫ primarily have t
 
 ⟪सुदुर्गम⟫ 3: very difficult to go
 :::
-### 18.2.2. Meanings of nañ-Tatpuruṣa (a- / an-)
+### 18.2.2. ܡ̈ܠܘܐܐ ܕܢܢܓ-ܬܬܦܘܪܘܫܐ (ܐ- / ܐܢ-)
 
 Tatpuruṣa mit a- / an- können folgende Bedeutungen haben:
 
 1.  Similarity (⟪तत्सादृश्यम्⟫):  
-    ⟪अब्राह्मणः⟫ = a Kṣatriya or Vaiśya who wears the sacred thread (⟪यज्ञोपवीत⟫ n.) and thus resembles a Brahmin, without being one
+⟪अब्राह्मणः⟫ = ܣܘܪܝܐ ܐܘ ܒܪ ܥܡܕܢܐ ܕܠܒܫ ܝܘܬܪܐ ܩܕܡܝܐ (⟪यज्ञोपवीत⟩ ܢ.) ࠘ ܗܕܐ ܡܫܚܪ ܠܟܘܗܝ ܕܒܪ ܡܢܐ ܠܐ
 2.  Absence, non-existence (⟪तदभावः⟫):  
-    ⟪अज्ञानम्⟫ = ignorance (absence of knowledge)
+⟪अज्ञानम्⟫ = ܐܠܒܘܬܐ (ܡܪܩܕ ܕܝܕܥܬܐ)
 3.  Otherness (⟪तदन्यत्वम्⟫):  
-    ⟪अपटम्⟫ = something that is not fabric / garment (⟪पट⟫ m: fabric, garment)
+⟪अपटम्⟫ = ܡܕܡ ܠܐ ܦܪ̈ܘܬܐ / ܠܒܘܫܐ (⟪पट⟩ ܡ: ܦܪ̈ܘܬܐ, ܠܒܘܫܐ)
 4.  Smallness (⟪तदल्पता⟫):  
-    ⟪अनुदरम्⟫ = a small belly (a non-belly)
+⟪अनुदरम्⟫ = ܡܥܝܐ ܩܠܘܢܝܬܐ (ܡܥܝܐ ܠܐ)
 5.  Disapproval (⟪अप्राशास्त्यम्⟫):  
-    ⟪अकालः⟫ = unseasonableness
+⟪अकालः⟫ = ܐܝܕܢܘܬܐ
 6.  Hostility (⟪निरोधः⟫):  
-    ⟪असुरः⟫ = counter-god (according to the false etymology a-sura)
+⟪असुरः⟫ = ܐܠܗܐ ܡܕܒܪ (ܥܠ ܦܘܣܩܐ ܕܐ-ܣܘܪܝܐ)
 
 The following verse summarizes these meanings:
 
@@ -133,7 +133,7 @@ The following verse summarizes these meanings:
 
 Six meanings of nañ (= a-/an-) are mentioned ....
 :::
-## 18.3. Verbal Compounds
+## 18.3. ܡܰܪܟܒܳܬܳܐ ܦܳܥܠܳܢܳܝܳܐ
 
 ::: indent
 ⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
@@ -157,9 +157,9 @@ Some important preverbs are:
 उदाहरणानि:
 
 ::: indent
-⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : to go to, to approach
+⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : ܠܐܘܟܬ ܠܕܡ，ܠܐܘܟܬ ܠܥܒܕ
 
-⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : to point out, to instruct, to advise
+⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : ܠܐܘܟܬ ܠܕܡ，ܠܐܘܟܬ ܠܥܒܕ
 
 ⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : arrive
 
@@ -178,11 +178,11 @@ Some important preverbs are:
 
 ⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : to awaken, to recognize
 
-⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : to emerge, to stand out, to have power over (Gen., Loc. Dat.)
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : ܡܕܢ̈ܐ, ܠܦܘܿܩ, ܠܗܘܿܐ ܣܓܝ̈ܐ ܥܠ (Gen., Loc. Dat.)
 
 ⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : explain, communicate, utter
 
-⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : to articulate, to designate as, to declare as
+⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : ܠܐܘܬܐ, ܠܡܕܪ ܟܢܘܫ
 
 ⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : to praise first, to praise loudly, to bring up something, to begin
 :::
@@ -191,13 +191,13 @@ Some important preverbs are:
 उदाहरणानि:
 
 ::: indent
-⟪विगम्⟫ 1 ⟪विगच्छति⟫ : to go apart, to perish, to disappear
+⟪विगम्⟫ 1 ⟪विगच्छति⟫ : ܠܥܙܒܐ, ܠܡܘܬ
 
 ⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : conquer
 
 ⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : to release, to free
 
-⟪विवद्⟫ 1 ⟪विवदति⟫ : to debate, to discuss, to narrate
+⟪विवद्⟫ 1 ⟪विवदति⟫ : ܠܬܘܕܰܝ, ܠܡܫܪܶܐ, ܠܐܓܝܕ
 
 ⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : forgotten
 
@@ -208,11 +208,11 @@ Some important preverbs are:
 उदाहरणानि:
 
 ::: indent
-⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : to sit together, to stay, to dwell
+⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : ܠܬܒܘܿܟ ܚܕ ܐܝܠܢ، ܠܬܩܘܿܡ، ܠܬܝܒܘܿܟ
 
 ⟪समि⟫ 2 ⟪समेति⟫ : to gather, to unite
 
-⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : to gather, to meet (friendly or hostile), to have sexual intercourse with (Acc.)
+⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : ܠܩܘܿܟ̈ܵܐ, ܠܬܝܼܪ̈ܵܐ (ܒܫܘܿܟܼܠܵܐ ܝܬܝܪ̈ܵܐ ܘܠܫܘܿܟܼ̈ܠܵܐ ܪܥܝܼܢ̈ܵܐ), ܠܗܘܿܝ ܒܫܘܿܟ̈ܠܵܐ ܕܢܫܵܐ (ܒܟܘܿܪ̈ܵܐ)
 
 ⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : arise
 
@@ -220,7 +220,7 @@ Some important preverbs are:
 
 ⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : fully awaken (to the truth)
 
-⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : to be granted to someone, to succeed
+⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : ܠܬܝܬܪ ܠܡܕܒܪ
 
 *   PPP ⟪सम्पन्न⟫ 3: provided with (Instr.)
 :::
@@ -236,7 +236,7 @@ sam-kṛ 8 ⟪संस्करोति⟫ : prepare, prepare for the sacrific
 
 *   PPP ⟪संस्कृत⟫ 3: prepared for the sacrifice ; ⟪संस्कृत⟫ n.: Sanskrit: the language suitable for the sacrifice ; counterpart ⟪प्राकृत⟫ 3: common, ordinary ; ⟪प्राकृत⟫ n.: common language, Prakrit (designation for the vernacular and trade languages related to Sanskrit)
 :::
-### 18.3.1. Nominal formations from verbal compounds
+### 18.3.1. ܨܘܪ̈ܬܐ ܫܡܝ̈ܢܝܬܐ ܡܢ ܦܥܠ̈ܐ ܡܚܘܕ̈ܐ
 
 ::: grammar-box
 
@@ -266,7 +266,7 @@ Abb.: ⟪उपनयनम्⟫
 "Ein junger Junge wird während des Upanayana-Rituals gezeigt. Der vergilbte, dünne Faden, der von der linken Schulter zur Taille verläuft, ist das Yajñopavīta. Beachten Sie auch den Gürtel aus Munja-Gras um die Taille. Der Zweig in der rechten Hand (normalerweise vom Pippal-Baum) symbolisiert seinen Eintritt in das Brahmacharya."
 (Bildquelle: [Details](/arc/licenses#lekt1801))
 :::
-## 18.4. Wortliste
+## 18.4. ܡܠܘܐܐ
 
 ⟪सुष्टु⟫ 3: highly praised, distinguished, good
 
@@ -302,9 +302,9 @@ Abb.: ⟪उपनयनम्⟫
 
 ⟪प्रभृति⟫ f.: beginning
 
-## 18.5. Übung
+## 18.5. ܬܪܓܠܐ
 
-A) Translate the ⟪सुभाषित⟫ at the beginning of the lesson.
+[A] תרגם את ⟪सुभाषित⟫ בתחילת השיעור.
 
 B) Translate the following Tatpuruṣa:
 
@@ -370,7 +370,7 @@ B) Translate the following Tatpuruṣa:
 
 ⟪३१⟫. ⟪अमृत⟫.
 
-## 18.6. Wiederholungsübung
+## 18.6. ܬܶܪܓܳܠܳܐ ܕܬܽܘܚܕܳܐ
 
 Please do not use aids!
 
@@ -404,15 +404,15 @@ Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 
 1\. The Brahmin praises the goddesses.
 
-2\. The heroes go on the difficult path to the village of the Aryans.
+ܠܦܬ ܐܪ̈ܝܟܢ ܕܡܠܦܢܘܬܐ ܠܥܝܪܐ ܕܡܘܬܒ
 
 3\. The housemaid milks the cows.
 
-4\. The enemies of the Aryans slay the mighty Kṣatriyas.
+4\. ܣܘܓ̈ܝ̈ܐ ܕܐܪܝܐ ܡܨܠܩܝܢ ܠܟܣܬܪܝܐ ܕܒܝܠܬܐ.
 
 5\. A ghost does not eat fruits.
 
-6\. Thus speaks the one who has [walked the path through rebirths] well to the disciple.
+6\. כָּלָא דַּאֲמַר דְּיַתִּיר מֵהָלֵךְ בְּאֹרַח דִּי שְׁבָקוּ לְתַלִּיד
 
 ::: media
 ![](/images/lekt1803.webp)

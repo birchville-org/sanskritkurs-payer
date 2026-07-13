@@ -45,7 +45,7 @@ Present stem / Passive stem / Future stem + -māna (fem. mānā)
 :::
 Examples:
 
-⟪यज्⟫ 1U, Pres.Part.Ā ⟪यजमान⟫ 3 "one who is honored with a sacrifice for one's own benefit = sacrificer"
+⟪यज्⟫ 1U, Pres.Part.Ā ⟪यजमान⟫ 3 "orang yang dihormati dengan pengorbanan untuk manfaatnya sendiri = korban"
 
 ⟪मन्⟫ 4Ā, Pres.Part.Ā  ⟪मन्यमान⟫ 3 "a thinker"
 
@@ -58,15 +58,15 @@ Examples:
 ::: grammar-box
 **Formation:**
 
-Weak present stem (in the form it has before the ending -ate of the 3.pl.Ā) + -āna (fem. -ānā)
+Stem presentum lemah (dalam bentuk yang dimiliki sebelum akhiran -ate dari 3.pl.Ā) + -āna (fem. -ānā)
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
 | Root / Class | Present Participle Ā |
 | :--- | :--- |
 | **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
+| **⟪हु⟫** 3P | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
 | **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
@@ -75,7 +75,7 @@ Examples:
 ### 41.2.2. "Participle" of passive necessity (Gerundivum) (⟪कृत्य⟫)
 
 ::: grammar-box
-**To express passive necessity ("what must/should be done"), adjectives derived from roots and derived verbal stems can optionally be formed with the following suffixes:**
+**Untuk menyatakan keharusan pasif ("apa yang harus/boleh dilakukan"), kata sifat yang berasal dari akar dan turunan stem verbal dapat secara opsional dibentuk dengan akhiran berikut:**
 
 * **-⟪तव्य⟫** (fem. **-⟪तव्या⟫**)
 * **-⟪अनीय⟫** (fem. **-⟪अनीया⟫**)
@@ -85,7 +85,7 @@ Examples:
 #### 41.2.2.1. The suffix -⟪तव्य⟫ / -⟪तव्या⟫
 
 ::: grammar-box
-**The suffix -⟪तव्य⟫ / -⟪तव्या⟫ is attached to roots and derived verbal stems (e.g., causative) in the same way as the infinitive suffix -⟪तुम्⟫ (see [Lesson 23](lektion23.md)), i.e.**
+**Akhiran -⟪तव्य⟫ / -⟪तव्या⟫ melekat pada akar dan batang verba turunan (misalnya, kausatif) dengan cara yang sama seperti akhiran infinitif -⟪तुम्⟫ (lihat [Pelajaran 23](lektion23.md)), yaitu**
 
 * **guṇa-grade root + ⟪तव्य⟫**
 
@@ -103,9 +103,9 @@ Examples:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪जि⟫ 1P | ⟪जेतव्य⟫ 3 | "one who must be conquered; one to be conquered" |
-| ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | "that where one should be located" |
-| ⟪बुध्⟫ Caus. | ⟪बोधयितव्य⟫ | "one who should be awakened; one to be awakened" |
+| ⟪जि⟫ 1P | ⟪जेतव्य⟫ 3 | "yang harus ditaklukkan; yang akan ditaklukkan" |
+| ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | "tempat di mana seseorang harus berada" |
+| ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "yang harus dibangunkan; yang akan dibangunkan" |
 
 :::
 #### 41.2.2.2. The suffix -⟪अनीय⟫ / -⟪अनीया⟫
@@ -125,12 +125,12 @@ Examples:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪दा⟫ 3U | ⟪दानीय⟫ 3 | "to be given; what must be given" |
-| ⟪जि⟫ 1P | ⟪जयनीय⟫ 3 | "to be conquered" |
-| ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "to be done" |
-| ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "what must be seen; worth seeing" |
-| ⟪बुध्⟫ Caus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "one to be awakened" |
-| ⟪दा⟫ Caus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "what must be caused to be given" |
+| ⟪दा⟫ 3U | ⟪दानीय⟫ 3 | "diberikan; apa yang harus diberikan" |
+| ⟪जि⟫ 1P | ⟪जयनीय⟫ 3 | "ditaklukkan" |
+| ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "dilakukan" |
+| ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "apa yang harus dilihat; layak untuk dilihat" |
+| ⟪बुध्⟩ Kaus. | ⟪बोधनीय⟩ 3:brbodh-aya - aya + -anīya | "seseorang yang harus dibangunkan" |
+| ⟪दा⟩ Kaus. | ⟪दापनीय⟩ 3:brdā-paya - aya + -anīya | "apa yang harus menyebabkan pemberian" |
 
 :::
 #### 41.2.2.3. The suffix -⟪य⟫ / -⟪या⟫
@@ -140,9 +140,9 @@ Examples:
 
 Root (in strong, guṇa, or vṛddhi grade) + -⟪य⟫
 
-For the exact rules, see Kielhorn, Grammar of the Sanskrit Language, pp. 195 - 197!
+Untuk aturan yang tepat, lihat Kielhorn, Grammar of the Sanskrit Language, hlm. 195 - 197!
 :::
-Treatment of final vowels:
+Penanganan vokal akhir:
 
 ::: grammar-box
 **1. Roots ending in -ā form this gerundive on -eya**
@@ -158,9 +158,9 @@ Examples:
 
 :::
 ::: grammar-box
-**2. Roots ending in -i /-ī / -u / -ū /-ṛ generally have guṇa or vṛddhi grade, unless they belong to those roots ending in -i / -u /-ṛ that form a gerundive with the suffix -⟪त्य⟫ (fem. -⟪त्या⟫) (list of these roots in Kielhorn, Grammar §537).**
+**2. Akar yang berakhiran -i /-ī / -u / -ū /-ṛ umumnya memiliki tingkat guṇa atau vṛddhi, kecuali jika mereka termasuk dalam akar-akar yang berakhiran -i / -u /-ṛ yang membentuk kata kerja verbal (gerundive) dengan akhiran -⟪त्य⟫ (fem. -⟪त्या⟫) (daftar akar-akar ini dalam Kielhorn, Tata Bahasa §537).**
 :::
-Example:
+Contoh:
 
 ::: no-header
 
@@ -184,11 +184,11 @@ Examples:
 :::: media
 ![lekt4103.jpg](/images/lekt4103.webp)
 Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
-(Image source: [Details](/en/licenses#lekt4103))
+(Sumber gambar: [Rincian](/en/licenses#lekt4103))
 ::::
 :::
 ::: grammar-box
-**2b. Roots ending in -u /-ū replace the guṇa-grade -o before -ya with -av, and the vṛddhi-grade -au with -āv. Vṛddhi-grade formation implies necessity in this case.**
+**2b. Akar kata yang berakhiran -u /-ū mengganti tingkat guṇa -o sebelum -ya dengan -av, dan tingkat vṛddhi -au dengan -āv. Pembentukan tingkat vṛddhi menyiratkan keharusan dalam kasus ini.**
 
 :::
 Example:
@@ -197,8 +197,8 @@ Example:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "that which ought to be praised" |
-|   | ⟪स्ताव्य⟫ 3 | "that which must necessarily be praised" |
+| ⟪स्तु⟫ 2U | ⟪स्तव्य⟫ 3 | "yang patut dipuji" |
+|   | ⟪स्ताव्य⟫ 3 | "yang harus dipuji secara perlu" |
 
 :::
 Examples of roots ending in consonants (see rules in Kielhorn, Grammar § 533ff.):
@@ -233,7 +233,7 @@ Examples:
 
 :::
 ::: grammar-box
-**Causatives and Verbs of the 10th Present Class (⟪चुरादि⟫)**
+**Kausativa dan Kata Kerja Kelas 10 (⟪चुरादि⟫)**
 
 **Formation:**
 
@@ -259,7 +259,7 @@ Fig.: ⟪मान्यः⟫
 #### 41.2.2.4. The Suffix -⟪त्य⟫ / ⟪त्या⟫ (instead of -⟪य⟫ / -⟪या⟫)
 
 ::: grammar-box
-List of roots ending in -i / -u /-ṛ that form a gerundive with the suffix -⟪त्य⟫ (fem. -⟪त्या⟫) instead of with -⟪य⟫ / -⟪या⟫, in Kielhorn, Grammar §537.
+Daftar akar kata yang berakhiran -i / -u /-ṛ yang membentuk gerundiva dengan akhiran -⟪त्य⟫ (fem. -⟪त्या⟫) alih-alih dengan -⟪य⟫ / -⟪या⟫, dalam Kielhorn, Tata Bahasa §537.
 
 **Formation:**
 
@@ -271,44 +271,44 @@ Examples:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "to be gone" |
-|  ⟪श्रु⟫ 5P |  ⟪श्रुत्य⟫ 3 | "to be heard" |
-| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "to be done" |
+| ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "untuk menjadi hilang" |
+|  ⟪श्रु⟫ 5P |  ⟪श्रुत्य⟫ 3 | "untuk didengar" |
+| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "untuk dilakukan" |
 
 :::
-### 41.2.3. Syntactic aspects of the "Participle" of passive necessity (Gerundivum) (⟪कृत्य⟫)
+### 41.2.3. Aspek sintaksis "Partisip" keharusan pasif (Gerundivum) (⟪कृत्य⟫)
 
 ::: grammar-box
 The Gerundive can be used attributively:
 
 :::
 ::: indent
-**⟪दर्शनीयं⟫ ⟪नगरम्⟫** = "a city that must be seen; a city worth seeing"
+**⟪दर्शनीयं⟫ ⟪नगरम्⟫** = "sebuah kota yang harus dilihat; sebuah kota layak untuk dilihat"
 :::
-The Gerundive can also be used as a predicative noun in sentences with a passive construction that expresses an obligation or command (with ⟪न⟫ a prohibition, an impossibility):
+Gerundiva juga dapat digunakan sebagai kata benda predikatif dalam kalimat dengan konstruksi pasif yang menyatakan kewajiban atau perintah (dengan ⟪न⟫ sebagai larangan, ketidakmungkinan):
 
 ::: indent
-**⟪काशी⟫ ⟪द्विजैर्द्रष्टव्या⟫** = "The twice-born must see Benares"
+**⟪काशी⟫ ⟪द्विजैर्द्रष्टव्या⟫** = "Dvija harus melihat Benares"
 :::: media
 ![lekt4108.jpg](/images/lekt4108.webp)
 Fig.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
-(Image source: [Details](/en/licenses#lekt4108))
+(Sumber gambar: [Details](/en/licenses#lekt4108))
 ::::
 :::
-### 41.2.4. Differences in the Usage of the Gerundive Suffixes
+### 41.2.4. Perbedaan dalam Penggunaan Akhiran Gerundiva
 
 ::: grammar-box
 The usage of these suffixes largely overlaps
 
-* **-⟪तव्य⟫ (fem. -⟪तव्या⟫):** always expresses necessity and is preferably used predicatively (rarely attributively). Forms with this suffix should not be used in nominal compounds.
-* **-⟪अनीय⟫ (fem. -⟪अनीया⟫) and -⟪य⟫ (fem. -⟪या⟫) / -⟪त्य⟫ (fem. -⟪त्या⟫) (instead of -⟪य⟫/-⟪या⟫):** can have an additional meaning (esp. -⟪य⟫) in the sense of the German "-worthy" (e.g. "worth seeing") or only possibility "-able" (⟪दृश्य⟫ "visible"). Forms with these suffixes can be negated with ⟪अ⟫/-⟪अन्⟫- (but not forms with -⟪तव्य⟫) and there are ⟪तत्पुरुष⟫ as their second element in which they occur.
+* **-⟪तव्य⟫ (fem. -⟪तव्या⟫):** selalu menyatakan keharusan dan lebih disukai digunakan secara predikatif (jarang atributif). Bentuk dengan akhiran ini tidak boleh digunakan dalam majemuk nominal.
+* **-⟪अनीय⟫ (fem. -⟪अनीया⟫) dan -⟪य⟫ (fem. -⟪या⟫) / -⟪त्य⟫ (fem. -⟪त्या⟫) (sebagai pengganti -⟪य⟫/-⟪या⟫):** dapat memiliki makna tambahan (khususnya -⟪य⟫) dalam arti "-layak" bahasa Jerman (mis. "layak dilihat") atau hanya kemungkinan "-dapat" (⟪दृश्य⟩ "terlihat"). Bentuk dengan akhiran-akhir ini dapat dinegasikan dengan ⟪अ⟩/-⟪अन्⟩- (tetapi bukan bentuk dengan -⟪तव्य⟩) dan terdapat ⟪तत्पुरुष⟩ sebagai elemen kedua mereka yang muncul.
 :::
-### 41.2.5. No connection with ⟪सु⟫- and ⟪दुस्⟫-
+### 41.2.5. Tidak ada hubungan dengan ⟪सु⟩- dan ⟪दुस्⟩-
 
 ::: grammar-box
-⟪सु⟫- and ⟪दुस्⟫-, meaning "light" or "heavy" respectively, must not be combined with gerundives. Instead, ⟪तत्पुरुष⟫ of type ⟪सुकर⟫ 3 ("easy to do") are used (see [Lesson 18](lektion18.md)).
+⟪सु⟩- dan ⟪दुस्⟩-, yang berarti "ringan" atau "berat" masing-masing, tidak boleh digabungkan dengan gerundiva. Sebagai gantinya, ⟪तत्पुरुष⟩ dari jenis ⟪सुकर⟩ 3 ("mudah dilakukan") digunakan (lihat [Pelajaran 18](lektion18.md)).
 :::
-## 41.3. Word List
+## 41.3. Daftar Kata
 
 ⟪मूर्ख⟫ m = ⟪मूढ⟫
 
@@ -331,7 +331,7 @@ Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
 ⟪शास्⟫ 2P ⟪शास्ति⟫ : reprimand, control, command, teach
 
 ::: indent
-has the weak present stem **⟪शिष्⟫** : **⟪शिष्मस्⟫**, but the 3rd pl. P. has the strong stem: **⟪शासति⟫** (!! ending -ati) alongside occasional **⟪शासन्ति⟫**. **⟪अशासुर्⟫**. Also the entire ⟪आत्मनेपद⟫ has, insofar as it occurs, the strong stem: **⟪शास्ते⟫**
+memiliki bentuk dasar present lemah **⟪शिष्⟫** : **⟪शिष्मस्⟫**, namun bentuk orang ketiga jamak aktif memiliki bentuk dasar kuat: **⟪शासति⟫** (!! akhiran -ati) bersama dengan **⟪शासन्ति⟫** yang sesekali muncul. **⟪अशासुर्⟫**. Juga seluruh ⟪आत्मनेपद⟫ memiliki, sejauh mana bentuk itu muncul, bentuk dasar kuat: **⟪शास्ते⟫**
 
 Perf I **⟪शशास⟫**, **⟪शशासुर्⟫**  
 Fut. **⟪शासिष्यति⟫**  
@@ -369,9 +369,9 @@ Fig.: ⟪शास्त्री⟫
 ::: deleteme-box
 see also:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Konsep Dasar Aturan dan Hukum Monastik Theravāda. -- Bagian I. -- (Bahan tentang Konsep Dasar Buddhisme). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-⟪कन्या⟫ f.: young girl, daughter, maiden
+⟪कन्या⟫ f.: gadis muda, putri, perawan
 
 ⟪अति⟫ Preverb: over, across, beyond (in space, in time, in number, in quantity, in order, in power, in intensity), exceedingly
 
@@ -382,7 +382,7 @@ PPP **⟪अतीत⟫** : n. past
 :::
 ## 41.4. Exercise
 
-A) Translate the two proverbs at the beginning of the lesson.
+A) Terjemahkan dua peribahasa di awal pelajaran.
 
 B) Translate:
 
@@ -403,15 +403,15 @@ Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫
 
 ::: deleteme-box
 
-- **Image lekt4102.jpg** (Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Image source: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Accessed on 2009-01-02. -- Creative Commons License (Attribution, non-commercial use)]
-- **Image lekt4103.jpg** (Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [Image source: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Accessed on 2009-01-03. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
-- **Image lekt4106.jpg** (Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫): Bahá'í House of Worship, Delhi [Image source: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- Accessed on 2009-01-03. -- Creative Commons License (Attribution, non-commercial use, share alike)]
-- **Image lekt4107.jpg** (Fig.: ⟪मान्यः⟫): Dr. Bhimrao Ramji Ambedkar = ⟪डॊ⟫.⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (1891 - 1956) [Image source: Wikipedia. Public domain]
-- **Image lekt4108.jpg** (Fig.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫): ⟪काशी⟫ ⟪द्विजैर्द्रष्टवया⟫, ⟪मणिकर्णिका⟫ ⟪घाट⟫, 1922 [Image source LoC/Wikipedia. Public domain]
-- **Image lekt4105.jpg** (Fig.: ⟪भुजङ्गः⟫): Banded Krait (_Bungarus fasciatus_) [Image source: J. Ewart. The poisonous snakes of India, 1878. Public domain]
-- **Image lekt4104.jpg** (Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫): Milking snake venom (Krait), Thailand [Image source: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Accessed on 2009-01-03. -- Creative Commons License (Attribution)]
-- **Image lekt4109.jpg** (Fig.: ⟪शासना⟫): Ashoka Edict, Dhauli, Orissa [Image source: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Accessed on 2009-01-03. -- Creative commons License (Attribution, non-commercial use)]
-- **Image lekt4110.jpg** (Fig.: ⟪शास्त्री⟫): Max Müller (1823 - 1900), ca. 1898 [Image source: Wikipedia. Public domain]
-- **Image lekt4111.jpg** (Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [Image source: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Accessed on 2009-01-04. -- Creative Commons License (Attribution, no derivatives)]
+- **Gambar lekt4102.jpg** (Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...): Bhubaneswar = ଭୁବନେଶ୍ବର [Sumber gambar: souravdas. -- http://www.flickr.com/photos/souravdas/2786531408/. -- Diakses pada 2009-01-02. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+- **Gambar lekt4103.jpg** (Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫): ⟪महाराष्ट⟫re [Sumber gambar: Harshad Sharma. -- http://www.flickr.com/photos/harshadsharma/57609357/. -- Diakses pada 2009-01-03. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, tanpa turunan)]
+- **Gambar lekt4106.jpg** (Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫): Rumah Ibadah Bahá'í, Delhi [Sumber gambar: Ray KOH. -- http://www.flickr.com/photos/raykoh/1497654220/. -- Diakses pada 2009-01-03. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, berbagi sama)]
+- **Gambar lekt4107.jpg** (Fig.: ⟪मान्यः⟫): Dr. Bhimrao Ramji Ambedkar = ⟪डॊ⟫.⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (1891 - 1956) [Sumber gambar: Wikipedia. Domain publik]
+- **Gambar lekt4108.jpg** (Fig.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫): ⟪काशी⟫ ⟪द्विजैर्द्रष्टवया⟫, ⟪मणिकर्णिका⟫ ⟪घाट⟫, 1922 [Sumber gambar LoC/Wikipedia. Domain publik]
+- **Gambar lekt4105.jpg** (Fig.: ⟪भुजङ्गः⟫): Krait Berpita (_Bungarus fasciatus_) [Sumber gambar: J. Ewart. The poisonous snakes of India, 1878. Domain publik]
+- **Gambar lekt4104.jpg** (Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫): Racun ular susu (Krait), Thailand [Sumber gambar: TheLawleys. -- http://www.flickr.com/photos/lawley/4918566/. -- Diakses pada 2009-01-03. -- Lisensi Creative Commons (Atribusi)]
+- **Gambar lekt4109.jpg** (Fig.: ⟪शासना⟫): Prasasti Ashoka, Dhauli, Orissa [Sumber gambar: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Diakses pada 2009-01-03. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
+- **Gambar lekt4110.jpg** (Fig.: ⟪शास्त्री⟫): Max Müller (1823 - 1900), sekitar 1898 [Sumber gambar: Wikipedia. Domain publik]
+- **Gambar lekt4111.jpg** (Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [Sumber gambar: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Diakses pada 2009-01-04. -- Lisensi Creative Commons (Atribusi, tanpa turunan)]
 
 :::

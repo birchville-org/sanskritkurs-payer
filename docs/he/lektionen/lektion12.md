@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 12
+# שיעור 12
 
 ::: deleteme-box
 **בשיעור זה תלמדו:**
@@ -18,7 +18,7 @@ status: stable
 - סביל ו-PPP של השורשים שנלמדו עד כה
 :::
 
-## 12.1. Partizip Perfekt Passiv (PPP)
+## 12.1. בינוני פרפקט סביל (PPP)
 
 אחת הדרכים לבניית משפטי סביל בעבר היא השימוש במבנה עם מה שנקרא "שם תואר שלם סביל" (PPP).
 
@@ -71,7 +71,7 @@ status: stable
 - **gata** = ⟪गत⟫ = „הלך“ (פעיל); אך גם: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „דרך שעברה“ (פסיבי)
 - **āpta** = ⟪आप्त⟫ = „הגיע“ (פסיבי), „מגיע“ (פעיל)
 
-## 12.3. Bildung des PPP
+## 12.3. תצורת ה-PPP
 
 ::: grammar-box
 להלן דרכי הניסוח הנפוצים (יש ללמוד עבור כל שורש את ה-PPP המתאים לו!):
@@ -86,7 +86,7 @@ status: stable
 שמות הנקבה הם: **-tā**, **-itā**, **-nā**; הזכר מתחלף כמו **phala** n.
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. PPP ב-ta- (kta)
 
 #### 12.3.1.1. ללא תנועת חיבור -i- (aniṭ)
 
@@ -146,7 +146,7 @@ status: stable
 | **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-## 12.5. Wortliste
+## 12.5. רשימת מילים
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : להתעורר, להתעורר לדעת, להכיר; PPP **buddha** 3 התעורר, לכן **Buddha** = "המתעורר" (לא: "המאיר")
 
@@ -234,7 +234,7 @@ status: stable
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-## 12.6. Übung
+## 12.6. תרגיל
 
 **א) צרו מפעלי הפעיל של [שיעור 7](/lektionen/lektion07), תרגיל א, משפטי סביל בעבר, בפעלים לא-מעברים ובפעלי תנועה משפטי פעיל בעבר.**
 

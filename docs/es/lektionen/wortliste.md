@@ -71,7 +71,7 @@ Fig.: Representación de la división estamental de la Europa medieval (grabado 
 
 Los tres estamentos llevan el traje correspondiente a su estamento. Sobre los estamentos, designados como voluntad divina, trona Cristo.
 
-Max Weber \<1864 – 1920\> define estamento así:
+Max Weber \&lt;1864 – 1920\&gt; define estamento así:
 
 ::: note-box
 »**Estamento**« debe significar una multitud de personas que, dentro de una asociación,
@@ -91,7 +91,7 @@ Mientras que las clases de obtención crecen sobre la base de la economía orien
 
 Cada sociedad estamental es convencional, ordenada por reglas de la conducta de vida, crea por tanto condiciones de consumo económicamente irracionales y obstaculiza de esta manera mediante apropiaciones monopolistas y mediante la exclusión de la libre disposición sobre la propia capacidad de obtención la libre formación del mercado.
 
-[**Weber, Max \<1864 – 1920\>:** Economía y sociedad : bosquejo de la sociología comprensiva. – 5., edición revisada. – Tubinga : Mohr, 1976. – P. 625 ss.]
+[**Weber, Max \&lt;1864 – 1920\&gt;:** Economía y sociedad : bosquejo de la sociología comprensiva. – 5., edición revisada. – Tubinga : Mohr, 1976. – P. 625 ss.]
 :::
 Los varṇas son, por consiguiente, estamentos de nacimiento.
 
@@ -391,7 +391,7 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 ::: note-box
 En la India, se atribuía al palabra verdadera un poder mágico; de hecho, todo el orden del mundo se mantiene y se crea mediante la palabra verdadera. Para esta idea importante, véase la obra fundamental:
 
-Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Editado póstumamente por Ludwig Alsdorf. - Gotinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna y el Ṛta. -- 1959. -- XXIII p., p. 340 - 764
+Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Editado póstumamente por Ludwig Alsdorf. - Gotinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna y el Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::: media
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
@@ -575,7 +575,7 @@ Aprenda las siguientes palabras:
 >
 > En este sentido se ha encontrado una derivación diferente para ella: la fuente ya no es asu, 'aliento', sino que la inicial *a* se toma como el prefijo negativo, y *asura* significa 'no un dios;' de ahí, según algunos, surgió la palabra *sura*, comúnmente utilizada para 'un dios.'"
 >
-> [Fuente: **Dowson, John \<1820-1881\>:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Fuente: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -718,7 +718,7 @@ Fig.: ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (pospuesto): como, como (en comparaciones: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un hombre como un tigre", "un hombre semejante a un tigre"
 
-⟪एव⟫ (pospuesto): enfatiza lo anterior, en alemán a menudo corresponde a la énfasis, un tipo de emoticono `\<!\>`, p.ej. ⟪सत्यमेव⟫ ⟪जयति⟫ "solo la verdad triunfa", "justo la verdad triunfa", "la verdad triunfa"
+⟪एव⟫ (pospuesto): enfatiza lo anterior, en alemán a menudo corresponde a la énfasis, un tipo de emoticono `\&lt;!\&gt;`, p.ej. ⟪सत्यमेव⟫ ⟪जयति⟫ "solo la verdad triunfa", "justo la verdad triunfa", "la verdad triunfa"
 
 ⟪अरि⟫ m.: enemigo (según Thieme, Der Fremdling im Ṛgveda: originalmente = extranjero)
 
@@ -2828,7 +2828,7 @@ Fig.: ⟪शास्त्री⟫
 ::: deleteme-box
 ver también:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: joven chica, hija, doncella
 
@@ -3226,7 +3226,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 Véase:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del Budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Conceptos básicos de las reglas monásticas y del derecho monástico del Theravāda. -- Parte I. -- (Materiales sobre los conceptos básicos del Budismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::: media
 ![](/images/lekt4408.webp)
@@ -3279,7 +3279,7 @@ de ello:
 :::
 Véase ⟪राहु⟫ y ⟪केतु⟫:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Introducción y visión general. -- 10. Sacramentos y ritos de paso (samskara). -- Apéndice C: Rahu y Ketu, los planetas errantes invisibles . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Introducción y visión general. -- 10. Sacramentos y ritos de paso (samskara). -- Apéndice C: Rahu y Ketu, los planetas errantes invisibles . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -3601,7 +3601,7 @@ ver:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Textos seleccionados del Carakasaṃhitā / traducidos y explicados por Alois Payer \<1944 - \>. -- 0. Introducción. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Textos seleccionados del Carakasaṃhitā / traducidos y explicados por Alois Payer \&lt;1944 - \&gt;. -- 0. Introducción. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : lanzar, arrojar
 
@@ -4295,7 +4295,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1003**: Dios Varuṇa = ⟪वरुण⟫, siglo XVII [Fuente de la imagen. Wikipedia, dominio público]
 
-**lekt1002**: Un Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / de Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \<1848 - 1906\> [Fuente de la imagen: Wikipedia, dominio público]
+**lekt1002**: Un Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / de Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \&lt;1848 - 1906\&gt; [Fuente de la imagen: Wikipedia, dominio público]
 
 **lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Colinas de Chamundi, Mysore (ಮೈಸೂರು) [Fuente de la imagen: Prakash Subbarao / Wikipedia. -- Dominio público]
 

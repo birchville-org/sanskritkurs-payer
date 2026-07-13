@@ -92,7 +92,7 @@ Nota: ¹ Desinentiae personarum secundae et tertiae singularis per -tāt substit
 | **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \&lt;⟪भवस्व⟫\&gt; | \&lt;⟪भवध्वम्⟫\&gt; |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \&lt;⟪भ्वताम्⟫\&gt; | \&lt;⟪भवन्ताम्⟫\&gt; |
 :::
-### 47.2.3. Sechste Präsensklasse (⟪तुदादि⟫)
+### 47.2.3. Classis sexta praesentis (⟪tudādi⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -108,7 +108,7 @@ Abb.: ⟪प्रविशत⟫
 Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
 (Bildquelle: [Details](/la/licenses#lekt4702))
 :::
-### 47.2.4. Vierte Präsensklasse (⟪दिवादि⟫)
+### 47.2.4. Classis praesentis quarta (⟪दिवादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -123,7 +123,7 @@ Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, �
 Abb.: ⟪नृत्यत⟫
 (Bildquelle: [Details](/la/licenses#lekt4701))
 :::
-### 47.2.5. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative
+### 47.2.5. Classis praesentis decima (⟪चुरादि⟫) et Causativa
 
 ⟪चुर्⟫ 10U
 
@@ -135,7 +135,7 @@ Abb.: ⟪नृत्यत⟫
 | **2. Person** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
 :::
-### 47.2.6. Passiv
+### 47.2.6. Passivum
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -147,7 +147,7 @@ Abb.: ⟪नृत्यत⟫
 | **2. Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::
-## 47.3. Übung
+## 47.3. Exercitium
 
 A) Translate:
 

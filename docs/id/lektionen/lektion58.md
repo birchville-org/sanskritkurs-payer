@@ -9,7 +9,7 @@ status: stable
 
 # Lesson 58
 
-## 58.1. The Primary Endings of the Dual (⟪द्विवचनम्⟫)
+## 58.1. Akhiran Primer Dwivachana (⟪द्विवचनम्⟫)
 
 ::: grammar-box
 |   | **⟪परस्मैपदम्⟫** | **⟪आत्मनेपदम्⟫** ||
@@ -19,7 +19,7 @@ status: stable
 | **2. ⟪मध्यमः⟫** | -thas | -**ī**the | -**ā**the |
 | **3. ⟪प्रथमः⟫** | -tas | -**ī**te | -**ā**te |
 :::
-## 58.2. The Dual of the Thematic Present Classes: Indicative Present (⟪लट्⟫)
+## 58.2. Dwivachana dari Kelas Present Tematik: Indikatif Present (⟪लट्⟫)
 
 Before -vas and -vahe, the thematic vowel -a- is replaced by -ā-.
 
@@ -29,9 +29,9 @@ Before -vas and -vahe, the thematic vowel -a- is replaced by -ā-.
 
 |   | **⟪परस्मैपदम्⟫** | **⟪आत्मनेपदम्⟫** |
 | :--- | :---: | :---: |
-| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"we two become" | \<⟪भवावहे⟫\> |
-| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"you two become" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"they two become" | \<⟪भवेते⟫\> |
+| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"we two become" | \&lt;⟪भवावहे⟫\&gt; |
+| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"you two become" | \&lt;⟪भवेथे⟫\&gt;:brbhav-a + īthe |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"they two become" | \&lt;⟪भवेते⟫\&gt; |
 
 ### 58.2.2. Fourth Present Class (⟪दिवादिगणः⟫)
 
@@ -77,7 +77,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 (Image source: [Details](/en/licenses#lekt5803))
 ::::
 :::
-## 58.3. The Dual of the Simple Future (⟪ऌत्⟫)
+## 58.3. Dwivachana dari Futur Sederhana (⟪ऌत्⟫)
 
 ### 58.3.1. ⟪अनिट्⟫
 
@@ -101,7 +101,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪भविष्यतस्⟫ | ⟪भविष्येते⟫ |
 :::
-## 58.4. The Dual Passive (Suffix -⟪यक्⟫)
+## 58.4. Pasif Dwivachana (Sufiks -⟪यक्⟫)
 
 ⟪तुद्⟫ 6U "to push, to strike"
 
@@ -111,7 +111,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
 :::
-## 58.5. The Dual of athematic present classes: Indicative Present (⟪लट्⟫)
+## 58.5. Dwivachana dari Kelas Present Athematik: Indikatif Present (⟪लट्⟫)
 
 ### 58.5.1. Second Present Class (⟪अदादिगणः⟫)
 
@@ -191,9 +191,9 @@ Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \<⟪जुहुवहे⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \<⟪जुह्वाथे⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \<⟪जुह्वाते⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \&lt;⟪जुहुवहे⟫\&gt; |
+| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \&lt;⟪जुह्वाथे⟫\&gt; |
+| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \&lt;⟪जुह्वाते⟫\&gt; |
 :::
 ⟪धा⟫ 3U "to place, put, set"
 
@@ -275,7 +275,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Image source: [Details](/en/licenses#lekt5801))
 :::
-## 58.6. Aorist 5: iṣ-Aorist
+## 58.6. Aorist 5: iṣ-Aoris
 
 ::: grammar-box
 **The iṣ-Aorist is formed by all seṭ-roots for which no other form of the Aorist is explicitly taught as the exclusive form.**
@@ -284,9 +284,9 @@ Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणात
 
 **Augment + Root + i + s + athematic secondary ending**
 
-**!!!** The 2.sg.P and 3.sg.P derive from **-**īs and -īt respectively from **!!!** (This arose from the transfer of the Imperfect from roots of the type ⟪अब्रवीत्⟫; thus they are actually root-aorist forms).
+**!!!** Bentuk 2.sg.P dan 3.sg.P berasal dari **-**īs dan -īt masing-masing dari **!!!** (Ini muncul dari transfer Imperfekt dari akar jenis ⟪अब्रवीत्⟫; oleh karena itu, mereka sebenarnya adalah bentuk aorist akar).
 :::
-Stem-forming suffix + endings of the iṣ-Aorist are therefore:
+Suffix pembentuk stem + akhiran dari Aorist iṣ adalah:
 
 ::: grammar-box
 
@@ -318,13 +318,13 @@ Stem-forming suffix + endings of the iṣ-Aorist are therefore:
     ⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫  
     ⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
 
-*   **Other roots of the form (Cons.-)Cons.-a-Cons.: in P optionally Guṇa grade (does not apply to roots ending in -h, -m, -y and some other roots)**  
-    Example:  
-    ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
-    but:  
-    ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
+*   **Akar-akar lain dari bentuk (Konsonan-)Vokal-Konsonan-a-Konsonan: dalam bahasa Pāli secara opsional berderet Guṇa (tidak berlaku untuk akar yang berakhir dengan -h, -m, -y dan beberapa akar lainnya)**  
+Contoh:  
+⟪तन्⟫ 8U: orang pertama tunggal.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
+tetapi:  
+⟪क्रम्⟫ 1U: orang pertama tunggal.P ⟪अक्रमिषम्⟫
 :::
-Paradigms:
+Paradigma:
 
 ⟪पू⟫ 9U "to cleanse"
 
@@ -359,14 +359,14 @@ Paradigms:
 ::: grammar-box
 **Particularities:**
 
-1.  In some roots, the connecting vowel -i- in the ⟪आत्मनेपद⟫ can be replaced by -ī-. After ⟪ग्रह्⟫ 9U "to seize" this replacement must occur in P and Ā:  
-    ⟪अग्र⟫***⟪ही⟫***⟪षम्⟫ , ⟪अग्र⟫***⟪ही⟫***⟪षि⟫
+1. Pada beberapa akar, vokal penghubung -i- dalam ⟪आत्मनेपद⟫ dapat diganti dengan -ī-. Setelah ⟪ग्रह्⟫ 9U "untuk merebut", penggantian ini harus terjadi pada P dan Ā:  
+⟪अग्र⟫***⟪ही⟫***⟪षम्⟫ , ⟪अग्र⟫***⟪ही⟫***⟪षि⟫
 
-2.  Roots of the 8th present class ending in -n (or -ṇ) can be in the 2.3.sg.Ā in weak grade:  
-    ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (root-aorist) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+2. Akar-akar dari kelas sekarang ke-8 yang berakhiran -n (atau -ṇ) dapat berada pada 2.3.sg.Ā dalam derajat lemah:  
+⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aorist akar) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
 
-3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā and others may take the form of the passive aorist instead of the 3rd singular:  
-    ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
+3. ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā dan lainnya dapat mengambil bentuk aorist pasif sebagai pengganti tunggal ke-3:  
+⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
 
 4.  ⟪विज्⟫ 7P has no ablaut:  
     ⟪अविजीत्⟫
@@ -378,7 +378,7 @@ Fig.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्री
 :::
 ## 58.7. Exercise
 
-A) Identify and translate the following forms without aids, and form the corresponding i-aorist forms:
+[A] Identifikasikan dan terjemahkan bentuk-bentuk berikut tanpa bantuan, serta bentukkan bentuk i-aorist yang sesuai:
 
 1.  ⟪औहे⟫
 2.  ⟪जाग्रति⟫

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 48
+# पाठ ४८
 
 ## 48.1. ⟪सुभाषितानि⟫
 
@@ -163,9 +163,9 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \&lt;⟪जुहवै⟫\&gt; | \&lt;⟪जुहवामहै⟫\&gt; |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \&lt;⟪जुहुष्व⟫\&gt; | \&lt;⟪जुहुध्वम्⟫\&gt; |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \&lt;⟪जुहुताम्⟫\&gt; | \&lt;⟪जुह्वताम्⟫\&gt; |
 
 अनु. ¹ विषमता, ताकि **⟪⟪ह्⟫⟫** से युक्त दो सिलेबल एक के बाद एक न आएं।
 :::
@@ -179,9 +179,9 @@ status: stable
 | **2. Person** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
 
-अनु. १ **⟪⟪धेहि⟫⟫** aus \*dhazdhi: Wegfall des indogermanischen Zischlauts z unter Ersatzdehnung; s. Thumb-Hauschild I,1 S. 302
+⟪अनु⟫. ⟪१⟫ **⟪⟪⟪धेहि⟫⟫⟫** aus \*dhazdhi: इंडो-यूरोपीय शिथिल ध्वनि z का लोप, प्रतिस्थापन में दीर्घता के साथ; s. Thumb-Hauschild I,1 पृष्ठ 302
 :::
-⟪⟪हा⟫⟫ 3P
+⟪⟪⟪हा⟫⟫⟫ 3P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
@@ -191,7 +191,7 @@ status: stable
 | **2. Person** :br⟪मध्यमः⟫ | sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-## 48.3. Zur Nominalbildung: ⟪तद्धित⟫-Suffixe -a und -ya
+## 48.3. Zur नाम-निर्माण: ⟪तद्धित⟫-Suffixe -a und -ya
 
 ::: grammar-box
 प्रत्यय **-a** और (दुर्लभ रूप से) **-ya** के द्वारा एक संज्ञा से दूसरी संज्ञा व्युत्पन्न की जा सकती है। इसमें मूल संज्ञा की पहली सिल्ली दीर्घ स्वर (**⟪वृद्धि⟫**) प्राप्त करती है। यदि मूल शब्द का अंत already **-a** पर समाप्त होता है, तो **⟪वृद्धि⟫** व्युत्पत्ति का एकमात्र संकेत है, क्योंकि शब्द के अंत में कोई परिवर्तन नहीं होता है।
@@ -248,7 +248,7 @@ status: stable
 अभिव्यक्ति: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (छवि स्रोत: [विवरण](/hi/licenses#lekt4801))
 :::
-## 48.4. Wortliste
+## 48.4. शब्दावली
 
 ⟪श्वस्⟫ : कल
 
@@ -262,9 +262,9 @@ status: stable
 
 ::: media
 ![](/images/lekt4802.webp)
-अभ.: ⟪तन्त्रम्⟫
-Sualkuchi = সুৱালকুচি, Assam = অসম
-(चित्र स्रोत: [विवरण](/hi/licenses#lekt4802))
+⟪अभ⟫.: ⟪⟪तन्त्रम्⟫⟫
+सुआलकुचि = সুৱালকুচি, असम = অসম
+(⟪चित्र⟫ ⟪स्रोत⟫: [⟪विवरण⟫](/hi/licenses#lekt4802))
 :::
 
 ::: media
@@ -303,11 +303,11 @@ Sitarspieler = ⟪सितारवादकः⟫
 
 ::: media
 ![](/images/lekt4805.webp)
-अभ.: ⟪कुमारः⟫
-Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
-(चित्र स्रोत: [विवरण](/hi/licenses/lekt4805))
+⟪अभ⟫.: ⟪⟪कुमारः⟫⟫
+ताइपुसम उत्सव = தைப்பூசம், बातू कौवेज़, मलेशिया
+(⟪चित्र⟫ ⟪स्रोत⟫: [⟪विवरण⟫](/hi/licenses/lekt4805))
 :::
-⟪कुमारी⟫ f.: कन्या, पुत्री
+⟪⟪कुमारी⟫⟫ f.: ⟪कन्या⟫, ⟪पुत्री⟫
 
 ::: media
 ![](/images/lekt4806.webp)
@@ -355,7 +355,7 @@ Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
 (चित्र: पeyer)
 (चित्र स्रोत: [विवरण](/hi/licenses/lekt4809))
 :::
-## 48.5. Übung
+## 48.5. अभ्यास
 
 A) पाठ की प्रारंभ में दिए गए ⟪सुभाषितानि⟫ का अनुवाद करें।
 
@@ -382,7 +382,7 @@ B) संस्कृत में अनुवाद करें (इसमे
 19. वे (बहुवचन) मेरे घर में बैठें।
 20. पति अपनी पत्नियों का पालन-पोषण करें (अर्थ: आर्थिक समर्थन)।
 
-## 48.6. Übersetzungsübung
+## 48.6. अनुवाद अभ्यास
 
 ⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫):
 
@@ -407,15 +407,15 @@ B) संस्कृत में अनुवाद करें (इसमे
 
 ::: deleteme-box
 
-**lekt4801:** [छवि स्रोत: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- 10 जनवरी 2009 को एक्सेस किया गया. -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (नाम देना, गैर-वाणिज्यिक उपयोग, share alike)]
+**लेखक4801:** [⟪छवि⟫ ⟪स्रोत⟫: गुनलागुर थ. ब्रिएम। -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/)। -- 10 ⟪जनवरी⟫ 2009 ⟪को⟫ ⟪एक्सेस⟫ ⟪किया⟫ ⟪गया⟫। -- [क्रीएटिव कॉमन्स ⟪लाइसेंस⟫](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (⟪नाम⟫ ⟪देना⟫, ⟪गैर⟫-⟪वाणिज्यिक⟫ ⟪उपयोग⟫, शेयर अलाइक)]
 
 **lekt4802:** Sualkuchi = सुवालकुचि, Assam = असम [⟪छवि⟫ ⟪स्रोत⟫: केन मैक्चेस्नी. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- १० ⟪जनवरी⟫ २००९ ⟪को⟫ ⟪एक्सेस⟫ ⟪किया⟫ ⟪गया⟫. -- [Creative Commons ⟪लाइसेंस⟫](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (⟪नाम⟫ ⟪देना⟫, ⟪गैर⟫-⟪वाणिज्यिक⟫ ⟪उपयोग⟫, साझा समान)]
 
-**lekt4803:** Sitarspieler = ⟪सितारवादकः⟫ [छवि स्रोत: Wikipedia. Public domain]
+**lekt4803:** सितार वादक = ⟪⟪सितारवादकः⟫⟫ [⟪छवि⟫ ⟪स्रोत⟫: विкиपीडिया। सार्वजनिक क्षेत्र]
 
 **lekt4804:** [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [छवि स्रोत: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- 10 जनवरी 2009 को एक्सेस किया गया. -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (नाम देना, गैर-वाणिज्यिक उपयोग)]
 
-**lekt4805:** Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia [छवि स्रोत: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- 10 जनवरी 2009 को एक्सेस किया गया. -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by/2.0/deed.de) (नाम देना)]
+**लेखन4805:** ताइपुसम उत्सव = தைப்பூசम्, बतू कवेस्, मलेशिया [⟪छवि⟫ ⟪स्रोत⟫: तजै। -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/)। -- १० ⟪जनवरी⟫ २००९ ⟪को⟫ ⟪एक्सेस⟫ ⟪किया⟫ ⟪गया⟫। -- [रचनात्मक साझाकरण ⟪लाइसेंस⟫](http://creativecommons.org/licenses/by/2.0/deed.de) (⟪नाम⟫ ⟪देना⟫)]
 
 **lekt4806:** ⟪नेपाल⟫ [छवि स्रोत: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- 10 जनवरी 2009 को एक्सेस किया गया. -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (नाम देना, गैर-वाणिज्यिक उपयोग, कोई संशोधन नहीं)]
 

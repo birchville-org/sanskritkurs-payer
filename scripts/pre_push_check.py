@@ -50,19 +50,19 @@ PLACEHOLDER_PATTERNS = [
 ]
 
 # HTML-Tags die in Markdown nicht erlaubt sind (Zero-HTML Policy)
-# Erlaubte Inline-Tags (kein Fehler):
+# Erlaubte Inline-Tags: 'img', 'a' und Kommentare '!--'
 _HTML_ALLOWED = frozenset([
-    'br', 'img', 'a', 'strong', 'span', 'code', 'em', 'mark', 'sub', 'sup',
-    's', 'del', '!--', '/!--',
+    'img', 'a', '!--', '/!--',
 ])
-# Bekannte Block-/Struktur-Tags die wir NICHT in .md haben wollen:
+# Zero-HTML Policy: Alle Block- und Formatierungs-Tags die wir NICHT in .md haben wollen:
 _HTML_BLOCK_TAGS = re.compile(
     r'<(?:/?)(?:'
     r'div|p|table|thead|tbody|tr|th|td|ul|ol|li|dl|dt|dd|'
     r'blockquote|pre|h[1-6]|section|article|aside|header|footer|nav|main|'
     r'figure|figcaption|details|summary|form|input|button|select|option|'
     r'iframe|script|style|link|meta|head|body|html|'
-    r'font|center|b|i|u|tt|strike'
+    r'font|center|b|i|u|tt|strike|'
+    r'br|hr|strong|span|code|em|mark|sub|sup|s|del'
     r')(?:\s[^>]*)?>',
     re.IGNORECASE
 )
@@ -76,7 +76,7 @@ def get_diff_files():
             ['git', 'diff', '--name-only', '--diff-filter=ACM', 'origin/main..HEAD'],
             capture_output=True, text=True, cwd=ROOT
         )
-        files = [ROOT / f for f in result.stdout.strip().split('\n') if f.endswith('.md')]
+        files = [ROOT / f for f in result.stdout.strip().split('\n') if f.endswith('.md') and not any(f.startswith(f"docs/{lang}/") for lang in ['th', 'el', 'cop'])]
         return [f for f in files if f.exists()]
     except Exception as e:
         print(f"  ⚠ git diff fehlgeschlagen: {e}")

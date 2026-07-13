@@ -6,19 +6,19 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 38
+# ܬܶܪܓܳܡܳܐ 38
 
 A) Insert the corresponding form of the words in parentheses in the following sentences and translate:
 
 ::: grammar-box
 ⟪१⟫. **⟪राज्ञि⟫** (or: **⟪राजनि⟫**) **⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (⟪राजन्⟫)
-If the king upholds justice and custom, the people are without fear.
+ܐܝܟ ܕܢܦܩܘ ܡܠܟܐ ܒܕܝܢܬܐ ܘܚܟܡܬܐ، ܥܡܘ ܠܐ ܢܚܕܩܝܢ.
 
 ⟪२⟫. **⟪आसीद्राजपुत्रो⟫ ⟪गौतमो⟫ ⟪नाम⟫ ⟪सुकृतकर्मोपपन्नो⟫ ⟪बुद्ध्या⟫ ⟪रूप्यमितबलः⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫** (⟪नामन्⟫)
-There was once a king's son — Gautama was his name — he had fulfilled his duties well, was full of insight, beautiful, and of immeasurable strength.
+ܗܘܐ ܠܝܬ ܡܠܟܐ ܒܪ، ܓܘܕܡܐ ܫܡܗ، ܠܒܪ ܢܦܩ ܫܘܥܒܗ، ܡܠܝ ܚܟܡܬܐ، ܣܘܒܠܐ، ܘܥܙܝܢ ܠܐ ܡܕܡ.
 
 ⟪३⟫. **⟪राज्यस्य⟫ ⟪सीमस्वरयो⟫ ⟪राजानं⟫ ⟪योद्धुं⟫ ⟪तिष्ठन्ति⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫** (⟪सीमन्⟫ — ⟪सप्तमी⟫ ⟪बहुवचन⟫)
-At the borders of the kingdom stand enemies, to fight the king.
+ܥܠ ܣܪܝܟܐ ܕܡܠܟܘܬܐ، ܥܡܝܒ̈ܝܢ ܩܪܝܒ̈ܝܢ، ܠܡܕܟܐ ܥܡ ܡܠܟܐ.
 
 ⟪४⟫. **⟪वैश्यानां⟫ ⟪कानि⟫ ⟪नामानि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫** (⟪नामन्⟫)
 What names do Vaiśyas have?
@@ -27,19 +27,19 @@ What names do Vaiśyas have?
 What names do the Vaiśyas bear?
 
 ⟪६⟫. **⟪कर्मण्यकर्म⟫ ⟪यः⟫ ⟪पश्येदकर्मणि⟫ ⟪च⟫ ⟪कर्म⟫ ⟪यः⟫ ⟪स⟫ ⟪बुद्धिमान्मनुष्येषु⟫ ⟪स⟫ ⟪युक्त⟫ ⟪इति⟫ ⟪भगवद्गीतायाम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫** (⟪कर्मन्⟫ — ⟪सप्तमी⟫ ⟪एकवचन⟫)
-"He who sees inaction in action and action in inaction, he is wise among men, he is a Yogi" — so it is said in the Bhagavadgītā.
+"ܕܐܝܟ ܕܡܚܙܐ ܒܪܘܚܐ ܦܠܚܢܐ ܘܒܦܠܚܢܐ ܪܘܚܐ، הוּא חָכִים בְּאַנְשָׁא، הוּא יוֹגִי" — כְּדַא אִיתְמַר בְּבְהָגַוּדְגִיתָא.
 
 ⟪७⟫. **⟪किं⟫ ⟪कर्म⟫ ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫** (⟪कर्मन्⟫)
-Even poets are confused by this, what action and what inaction is.
+אַף שְׁעָרִים עֲתִיקִין מִשְׁתּוֹמְמִים עַל זֶה، מָה הוּא פְּעוּלָה וּמָה הִיא אֵין פְּעוּלָה.
 
 ⟪८⟫. **⟪ब्रह्मभूतः⟫ ⟪प्रसन्नात्मा⟫ ⟪न⟫ ⟪शोचति⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫** (⟪प्रसन्नात्मन्⟫ — ⟪प्रथमा⟫ ⟪एकवचन⟫)
-He who has become the Absolute and whose soul is clarified, he does not grieve and does not desire.
+ܕְהוּא ܗܘܐ ܠܬַתְיָא וּדְרוֹעֵיהּ ܐܝܩַר، לָא יְבַעֲת וְלָא יְהַוֵּי.
 
 ⟪९⟫. **⟪कर्मणः⟫ ⟪सुकृतस्य⟫ ⟪सुफलमाहुः⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫** (⟪कर्मन्⟫ — ⟪षष्ठी⟫ ⟪एकवचन⟫)
 It is said that a well-done deed brings a good fruit.
 
 ⟪१०⟫. **⟪महीभोगो⟫ ⟪राज्ञां⟫ ⟪धर्मः⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫** (⟪राजन्⟫ — ⟪षष्ठी⟫ ⟪बहुवचन⟫)
-The enjoyment of the world is the duty of kings.
+ܡܠܟܘ̈ܬܐ ܗܝ ܥܒܕܬܐ ܕܡܠܟ̈ܐ.
 
 ⟪११⟫. **⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫** (⟪बलिन्⟫, ⟪हस्तिन्⟫)
 Strong elephants should be given to the king.
@@ -54,22 +54,22 @@ One does evil oneself, one refrains from evil oneself.
 Good kings grant people fearlessness.
 
 ⟪१५⟫. **⟪राजसु⟫ ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥⟫ ⟪१५⟫ ⟪॥⟫** (⟪राजन्⟫)
-If kings do not uphold justice and custom, the people are full of fear.
+ܐܸܢ ܡܲܠܟܹ̇̈ܐ ܠܵܐ ܛܵܥܢܝܼܢ ܙܲܕܝܼܼܼܩܘܼܬ݂ܵܐ ܘܲܥܝܵܕܹ̈ܐ، ܗܵܘܹ̇ܐ ܥܲܡܵܐ ܡܠܹܐ ܕܸܚܠܬ݂ܵܐ.
 :::: media
 ![](/images/uebung063.webp)
-Fig.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
-(Image source: [Details](/licenses#uebung063))
+ܨܘܼܪܬܵܐ: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫
+(ܡܲܒܘܼܥܵܐ ܕܲܨܘܼܪܬ݂ܵܐ: [ܦܲܪܝܼܫܘܵܬ݂ܵܐ](/licenses#uebung063))
 ::::
 :::
 ---
 
-## Story: Ten Fools (⟪दश⟫ ⟪मूढाः⟫)
+## ܬܫܥܝܬܐ: ܥܣܪܐ ܫܛܝ̈ܐ (⟪दश⟫ ⟪मूढाः⟫)
 
 ⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ — ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ ⟪बाहुभ्यां⟫ ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 
 ⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ ⟪सर्वे⟫ ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ ⟪जिज्ञासमानस्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ ⟪वयम्⟫ ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ ⟪स्मः⟫ ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ ⟪गवेषयत⟫ ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषामेकैको⟫ ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ ⟪समजनि⟫ ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढास्तरसा⟫ ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ ⟪यूयम्⟫ ⟪।⟫ ⟪युष्माकमेकैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
-**Translation:**
-Ten fools. The antics of fools are mostly entertaining. For example: Once ten fools set out to wander around the country. After they had gone a short distance, a deep river blocked their path. Rowing with their arms, they somehow crossed the river and reached the other bank.
+**ܬܪ̈ܓܡܐ:**
+ܝܕܥܢ̈ܐ ܬܫܥܝܣܪܝܢ. ܦܠܘ̈ܓܬ̈ܐ ܕܝܕܥܢ̈ܐ ܒܬܪ̈ܝܡܘܬܐ ܗܝ. ܠܡܕܠܐ: ܚܕ ܝܘ̈ܡܐ ܬܫܥܝܣܪܝܢ ܝܕܥܢ̈ܐ ܫܪܩܘ ܠܡܕܘܿܟ ܒܐܪ̈ܥܐ. ܠܝܬ ܚܕ ܡܢ ܗܘ̈ܟܠܐ ܫܪܩܘ ܠܡܕܘܿܟ. ܒܬܪ ܐܠܦ̈ܘܬ̈ܐ ܕܫܪܩܘ, ܢܗܪ̈ܐ ܫܠܝܡܬܐ ܩܛܥܘ ܠܗܝܟ. ܒܬܪ ܐܠܦ̈ܘܬ̈ܐ ܕܫܪܩܘ, ܢܗܪ̈ܐ ܫܠܝܡܬܐ ܩܛܥܘ ܠܗܝܟ. ܒܬܪ ܐܠܦ̈ܘܬ̈ܐ ܕܫܪܩܘ, ܢܗܪ̈ܐ ܫܠܝܡܬܐ ܩܛܥܘ ܠܗܝܟ.
 
-Among them was an elder. He wanted to know if everyone had reached the bank, so he counted each one individually. But he counted only nine. Then he shouted: "Hey! We set out as ten, now we are only nine! Surely one has drowned in the river! Search for him!" Thereupon each one of them counted individually. But there were always only nine! Then they became agitated and a great uproar arose. Not far from there was the hermitage of a Ṛṣi. The sage dwelling there observed their behavior and laughed aloud. The fools heard his laughter, hurried to him, and asked for the reason. The Ṛṣi said: "Ha! You do not know yourselves. Each one of you has not counted himself. Therefore, this confusion has arisen." When they heard this, the fools departed ashamed and with bowed heads.
+ܒܬܪ ܐܠܦ̈ܘܬ̈ܐ ܕܫܪܩܘ, ܢܗܪ̈ܐ ܫܠܝܡܬܐ ܩܛܥܘ ܠܗܝܟ. ܒܬܪ ܐܠܦ̈ܘܬ̈ܐ ܕܫܪܩܘ, ܢܗܪ̈ܐ ܫܠܝܡܬܐ ܩܛܥܘ ܠܗܝܟ. ܒܬܪ ܐܠܦ̈ܘܬ̈ܐ ܕܫܪܩܘ, ܢܗܪ̈ܐ ܫܠܝܡܬܐ ܩܛܥܘ ܠܗܝܟ.

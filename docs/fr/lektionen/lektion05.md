@@ -27,7 +27,7 @@ Les formes de composition les plus importantes sont :
 
 (Pour les deux derniers, voir plus loin !)
 
-## 5.2. Zur Sanskrit-Terminologie für Komposita
+## 5.2. Sur la terminologie sanskrite des composés
 
 - **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : membres d'un composé
 - **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : analyse d'un composé
@@ -60,11 +60,11 @@ Se fait avec « et » (**ca** = ⟪च⟫), parfois avec « ou » (**vā** = ⟪
 :::
 Voir plus loin pour les Dvandva duels !
 
-### 5.3.1. Vorderglieder von Komposita
+### 5.3.1. Premiers membres de composés
 
 Les composés copulatifs servent à relier des membres grammaticalement similaires, coordonnés (noms ou adjectifs).
 
-### 5.3.2. Plural-Itaretaradvandva
+### 5.3.2. Itaretaradvandva pluriel
 
 Exemples de Pluraldvandva :
 
@@ -90,7 +90,7 @@ Exemples de Pluraldvandva :
 
 Lorsque deux des trois dernières prescriptions peuvent simultanément s'appliquer, il faut toujours suivre la règle donnée en dernier. (Exemples de Dualdvandva pour ces règles chez Kielhorn, Grammatik § 570).
 
-## 5.4. Wortliste
+## 5.4. Liste de mots
 
 **Apprenez les mots suivants :**
 
@@ -134,7 +134,7 @@ Fig. : Dieu Kāma = kāmadeva = ⟪कामदेव⟫, XVIIIe siècle.
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : à la fois ... et.
 
-## 5.5. Übung
+## 5.5. Exercice
 
 **A) Traduisez les phrases et les composés suivants, et résolvez les Dvandvas qui s’y trouvent en sanskrit :**
 

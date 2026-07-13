@@ -33,7 +33,7 @@ Contoh:
 | **Present Participle** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
 :::
-⟪रुध्⟫ 7U "to stop, to bring to a standstill"
+⟪रुध्⟫ 7U "berhenti, membawa kepada keadaan berhenti"
 
 ::: grammar-box
 
@@ -63,7 +63,7 @@ Contoh:
 :::
 ## 31.2. Word List
 
-**⟪युज्⟫** 7U **⟪युनक्ति⟫** : to harness, to yoke, to fasten, to attach; Ā also: to strain (= to exert oneself), to connect with, to concentrate on (Locative, ⟪सप्तमी⟫)
+**⟪युज्⟫** 7U **⟪युनक्ति⟫** : mengikat, menyangkutkan, memasang, menempelkan; Ā juga: meregang (= berusaha keras), menghubungkan dengan, memusatkan pada (Lokatif, ⟪सप्तमी⟫)
 ::: indent
 **Fut. ⟪योक्ष्यति⟫**
 **Pass. ⟪युज्यते⟫**
@@ -71,24 +71,24 @@ Contoh:
 **PPP ⟪युक्त⟫**
 **Inf. ⟪योक्तुम्⟫**
 
-therefrom:
-**⟪युग⟫ n. -\> ⟪युग⟫ n.:** yoke, pair, age of the world (there are four ages of the world:
+darinya:
+**⟪युग⟫ n. -\> ⟪युग⟫ n.:** sangkutan, pasangan, zaman dunia (ada empat zaman dunia:
 1. **⟪कृत⟫**
 2. **⟪त्रेता⟫**
 3. **⟪द्वापर⟫**
 4. **⟪कलि⟫**
 
-The **⟪कलियुग⟫** began around 3102 BCE, the year of the **⟪महाभारत⟫** war. For more details, see Basham, Wonder p. 323)
+**⟪कलियुग⟫** dimulai sekitar 3102 SM, tahun perang **⟪महाभारत⟫**. Untuk detail lebih lanjut, lihat Basham, Wonder hlm. 323)
 
-**⟪योग⟫ m.:** "harnessing, straining," exertion, connection, Yoga (see Basham, Wonder pp. 327ff.)
+**⟪योग⟫ m.:** "pengikatan, perenggangan," usaha keras, koneksi, Yoga (lihat Basham, Wonder hlm. 327ff.)
 :::: media
 ![](/images/lekt3101.webp)
 Fig.: ⟪योगः⟫
-Yoga depiction.
-(Image source: [Details](/en/licenses#lekt3101))
+Penggambaran Yoga.
+(Sumber gambar: [Details](/en/licenses#lekt3101))
 ::::
 :::
-**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : to stop, to bring to a standstill, to hold back = to enclose, to cover
+**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : menghentikan, membawa ke keadaan diam, menahan = mengelilingi, menutup
 ::: indent
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
@@ -96,7 +96,7 @@ Yoga depiction.
 **PPP ⟪रुद्ध⟫**
 **Inf. ⟪रोद्धुम्⟫**
 :::
-**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : to cut off
+**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : memotong
 ::: indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
@@ -104,13 +104,13 @@ Yoga depiction.
 **PPP ⟪छिन्न⟫**
 **Inf. ⟪छेत्तुम्⟫**
 :::
-**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : to break (something)
+**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : memecah (sesuatu)
 ::: indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
 :::
-**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : to anoint, to smear
+**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : melumuri, mengoles
 ::: indent
 **Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
@@ -118,20 +118,20 @@ Yoga depiction.
 **PPP ⟪अक्त⟫**
 **Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
 :::
-**⟪अञ्ज्⟫ + vi -\> ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : to smear apart = to apply cosmetics, to distinguish oneself
+**⟪अञ्ज्⟫ + vi -\> ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : mengoles terpisah = memakai kosmetik, membedakan diri
 ::: indent
-**PPP ⟪व्यक्त⟫ :** distinguished, unfolded
+**PPP ⟪व्यक्त⟫ :** ternama, terbuka
 
-therefrom:
-**⟪व्यञ्जन⟫ n.:** means of distinction = cosmetics, spice, sign, consonant (that which distinguishes meanings)
+daripadanya:
+**⟪व्यञ्जन⟫ n.:** alat pembeda = kosmetik, rempah, tanda, konsonan (yang membedakan makna)
 :::: media
 ![](/images/lekt3102.webp)
 Fig.: ⟪व्यञ्जनम्⟫
-Preparation for Kathakali dance, Kochi.
-(Image source: [Details](/en/licenses#lekt3102))
+Persiapan untuk tarian Kathakali, Kochi.
+(Sumber gambar: [Details](/en/licenses#lekt3102))
 ::::
 :::
-**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : to split
+**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : membelah
 ::: indent
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
@@ -139,7 +139,7 @@ Preparation for Kathakali dance, Kochi.
 **PPP ⟪भिन्न⟫**
 **Inf. ⟪भेत्तुम्⟫**
 :::
-**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : to enjoy (e.g. food; "to enjoy the earth" = to rule the earth)
+**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : menikmati (mis. makanan; "menikmati bumi" = memerintah bumi)
 ::: indent
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
@@ -158,27 +158,27 @@ therefrom:
 **PPP ⟪बद्ध⟫**
 **Inf. ⟪बद्धुम्⟫**
 
-therefrom:
-**⟪बन्धन⟫ n.:** binding, fetter
+dari sana:
+**⟪बन्धन⟫ n.:** pengikat, belenggu
 :::
-**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : to recognize, to understand
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U **⟪प्रजानाति⟫** : untuk mengenali, untuk memahami
 ::: indent
-therefrom:
-**⟪प्रज्ञा⟫ f.:** wisdom, knowledge
+dari sana:
+**⟪प्रज्ञा⟫ f.:** kebijaksanaan, pengetahuan
 :::: media
 ![](/images/lekt3103.webp)
 Fig.: ⟪प्रज्ञापारमिता⟫
 From a Prajñāpāramitā manuscript.
-(Image source: [Details](/en/licenses#lekt3103))
+(Sumber gambar: [Details](/en/licenses#lekt3103))
 ::::
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : to arise, to exist
+**⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : untuk muncul, untuk ada
 
 **⟪शरीर⟫ n.:** torso, body
 
 ## 31.3. Exercise
 
-A) Translate the following sentences and resolve the compounds:
+[A] Terjemahkan kalimat-kalimat berikut dan pecahkan majemuk kata:
 
 ⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫
 
@@ -198,7 +198,7 @@ Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War.
 ![](/images/lekt3104.webp)
 Fig.: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
 Rāhula, the son of the Buddha, Laos.
-(Image source: [Details](/en/licenses#lekt3104))
+(Sumber gambar: [Details](/en/licenses#lekt3104))
 :::
 ⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
@@ -224,5 +224,5 @@ B) Untuk akar-akar kelas ke-7 berikut, bentuk semua orang ketiga tunggal dan jam
 
 **lekt3105:** Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War. [Image source: Hari Singh Deora / Wikipedia. Public domain]
 
-**lekt3104:** Rāhula, the son of the Buddha, Laos. [Image source: Sacca / Wikipedia. GNU FDL]
+**lekt3104:** Rāhula, putra Sang Buddha, Laos. [Sumber gambar: Sacca / Wikipedia. GNU FDL]
 :::

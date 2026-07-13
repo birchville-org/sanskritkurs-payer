@@ -3,17 +3,17 @@ layout: doc
 title: Impressum & Citari
 ---
 
-# Impressum, Copyright & Citandi ratio
+# ܐܝܡܦܪܣܘܡ، ܩܘܦܝܪܝܛ ܘ ܨܝܛܐܢܕܝ ܪܐܛܝܘ
 
 *Sequens textus e lectionum tabulis excisus est, ut lectionis cursus melius fluat.*
 
-## Citandi ratio | cite as:
+## ܡܰܘܕܥܳܢܳܐ ܕܡܰܪ̈ܓܳܢܶܐ | ܐܰܝܟܰܢܳܐ ܕܬܶܬܡܰܪܓܰܢ:
 **Payer, Alois \<1944 - \>:** Sanscriticus cursus. -- Editio anni 2010. -- URL: http://www.payer.de/sanskritkurs/
 
-## Occasio
+## ܥܠܬܐ
 Pro consiliis docendis annis 1980 - 1984 confectus
 
-## Copyright
+## ܙܕܩܐ ܕܛܒܥܐ
 Hic textus ad usum publicum datus est.
 Usus in publicationibus, qui citationes usitatas excedit, expressam auctoris permissionem requirit.
 
@@ -21,7 +21,7 @@ Hic textus pars est sectionis Sanscriticae **Bibliothecae Globalis Village Tüpf
 
 ---
 
-## Licentia huius publicationis
+## ܫܽܘܪܳܝܳܐ ܕܗܳܕܶܐ ܦܰܪܣܳܡܬܳܐ
 
 **Textus originalis** (lectiones Germanicae): © Alois Payer. Textus ad usum publicum datus est; usus in publicationibus expressam auctoris permissionem requirit.
 

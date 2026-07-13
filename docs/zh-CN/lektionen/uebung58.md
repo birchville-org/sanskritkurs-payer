@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # 第58课
 
-## A) iṣ-Aorist 变换
+## A) iṣ-不定过去时 变换
 
 确定并翻译以下形式，并构成相应的 **iṣ-Aorist** 形式：
 

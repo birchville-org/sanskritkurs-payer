@@ -62,15 +62,15 @@ Fig.: ⟪गायी⟫
 
 ## ⟪बाण⟫ (⟪७⟫. Cent. AD): ⟪कादम्बरी⟫
 
-Questions of the King **⟪शूद्रक⟫** of **⟪विदिशा⟫** to the Parrot **⟪वैशम्पायन⟫**:
+Pertanyaan Raja **⟪शूद्रक⟫** dari **⟪विदिशा⟫** kepada Burung Beo **⟪वैशम्पायन⟫**:
 
 **⟪नरपतिरब्रवीत्⟫ ⟪।⟫ ⟪आस्तां⟫ ⟪तावत्सर्वमेवेदम्⟫ ⟪।⟫ ⟪अपनयतु⟫ ⟪नः⟫ ⟪कुतूहलम्⟫ ⟪।⟫ ⟪आवेदयतु⟫ ⟪भवानादितः⟫ ⟪प्रभृति⟫ ⟪कार्त्न्येनात्मनो⟫ ⟪जन्म⟫ ⟪कस्मिन्देशे⟫ ⟪।⟫ ⟪भवान्कथं⟫ ⟪जातः⟫ ⟪।⟫ ⟪केन⟫ ⟪वा⟫ ⟪नाम⟫ ⟪कृतम्⟫ ⟪।⟫ ⟪का⟫ ⟪माता⟫ ⟪।⟫ ⟪कस्ते⟫ ⟪पिता⟫ ⟪।⟫ ⟪कथं⟫ ⟪वेदानामागमः⟫ ⟪।⟫ ⟪कथं⟫ ⟪शास्त्राणां⟫ ⟪परिचयः⟫ ⟪।⟫ ⟪कुतः⟫ ⟪कलाः⟫ ⟪समासादिताः⟫ ⟪।⟫ ⟪किं⟫ ⟪जन्मान्तरानुस्मरणमुत⟫ ⟪वरप्रदानम्⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विहंगवेषधारी⟫ ⟪कश्चिच्छन्नं⟫ ⟪विवससि⟫ ⟪।⟫ ⟪क्व⟫ ⟪वा⟫ ⟪पूर्वमुषितम्⟫ ⟪।⟫ ⟪कियद्वा⟫ ⟪वयः⟫ ⟪।⟫ ⟪कथं⟫ ⟪पञ्जरबन्धः⟫ ⟪।⟫ ⟪कथं⟫ ⟪चाण्डालहस्तगमनम्⟫ ⟪।⟫ ⟪इह⟫ ⟪वा⟫ ⟪कथमागमनमिति⟫ ⟪॥⟫**
 
 **⟪वैशम्पायनस्तु⟫ ⟪स्वयमुपजातकुतूहलेन⟫ ⟪सबहुमानमवनि्पतिना⟫ ⟪पृष्टो⟫ ⟪मुहूर्तमिव⟫ ⟪ध्यात्वा⟫ ⟪सादरमब्रवीत्⟫ ⟪।⟫ ⟪देव⟫ ⟪मतीयं⟫ ⟪कथा⟫ ⟪।⟫ ⟪यदि⟫ ⟪कौतुकमाकर्ण्यताम्⟫ ⟪॥⟫**
 
-> The King spoke: "Let all that be! Satisfy our curiosity! Sir, tell us from the beginning: In which country were you born? Who gave you the name? Who is your mother? How did you obtain the Vedas? How did you familiarize yourself with the treatises? From where did you acquire the arts? Can you remember previous births or fulfill wishes? Or do you, by wearing the garment of a bird, inhabit a hiding place? Or where did you dwell previously? Or how old are you? How were you caught in a cage? And how did you come into the hands of Cāṇḍālas? Or how did you come here?"
+> Sang Raja berkata: "Biarkanlah semua itu terjadi! Penuhi rasa ingin tahu kami! Tuan, ceritakan dari awal: Di negara mana Anda dilahirkan? Siapa yang memberi nama kepada Anda? Siapa ibu Anda? Bagaimana Anda memperoleh Veda? Bagaimana Anda membiasakan diri dengan kitab-kitab? Dari mana Anda mendapatkan seni? Dapatkah Anda mengingat kelahiran sebelumnya atau memenuhi keinginan? Atau apakah Anda, dengan mengenakan pakaian burung, menempati tempat persembunyian? Atau di mana Anda tinggal sebelumnya? Atau berapa usia Anda? Bagaimana Anda tertangkap dalam sangkar? Dan bagaimana Anda masuk ke tangan Cāṇḍālas? Atau bagaimana Anda datang ke sini?"
 >
-> Vaiśampāyana, however, who had been asked by the Lord of the Earth with spontaneously arising curiosity with great respect, thought for a moment and then answered with full reverence: "King, that is a long story. If you are interested, lend me your ear!"
+> Vaiśampāyana, yang telah ditanya oleh Penguasa Bumi dengan rasa ingin tahu yang muncul secara spontan dan sangat hormat, berpikir sejenak lalu menjawab dengan penuh penghormatan: "Raja, itu adalah cerita yang panjang. Jika Anda tertarik, dengarkanlah!"
 
 ::: media
 ![](/images/uebung079.webp)

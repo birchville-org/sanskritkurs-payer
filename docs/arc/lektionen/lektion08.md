@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
-# Lektion 8
+# ܐܘܪܬܐ 8
 
 ::: deleteme-box
 **In dieser Lektion lernen Sie:**
@@ -17,12 +17,12 @@ last_reconstructed: 2026-05-07
 - Die Konjugation von **kṛ** (tun, machen)
 :::
 
-## 8.1. On the Formation of Nouns
+## 8.1. ܥܠ ܨܘܪܬܐ ܕܫܡ̈ܗܐ
 
-In the traditional Indian grammar, one distinguishes among the suffixes with which nominal stems are formed:
+בְּקִיָּא דַגְרָמָה הוֹדִיתָא, מְבַדְּקִין בֵּין סוּפִיקָתַיָא דְּנִקְרָאוֹן שְׁמֵי עַצְמוּת:
 
-- **kṛt suffixes (⟪कृत्⟫) (primary suffixes):** derive nominal stems, absolutes, and infinitives from verbal roots (**dhātu** m. = ⟪धातु⟫) and verbal stems.
-- **taddhita suffixes (⟪तद्धित⟫) (secondary suffixes):** attach to nominal stems and indeclinables, forming new nominal stems or indeclinables.
+- **סוּפִיקָתַיָא דְּכַרְת (⟪कृत्⟫) (סוּפִיקַיָא רִאשׁוֹנֵי):** מְאַתָּן שְׁמֵי עַצְמוּת, אַבְסוֹלוּטִים וְאִנְפִינִיטִיבֵי מִשְּׁרָשֵׁי פְעוּל (דַהָטוּ) זכר = ⟪धातु⟫ וְשָׁרְשֵי פְעוּל.
+- **סוּפִיקָתַיָא דְּתַדְהִית (⟪तद्धित⟫) (סוּפִיקַיָא שְׁנִיא):** מְצַמְדִין לִשְׁמֵי עַצְמוּת וְלִבְלִי שֵׁם, מְאַתָּן שְׁמֵי עַצְמוּת חֲדָשִׁים אוֹ בְלִי שֵׁם.
 
 ::: grammar-box
 **Schema:**
@@ -34,8 +34,8 @@ In the traditional Indian grammar, one distinguishes among the suffixes with whi
 ## 8.2. Einteilung der Nominalsuffixe
 
 - **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
-  - **kārakakṛt** (⟪कारककृत्⟫) » agent nouns (denote someone who performs the action indicated by the root)
-  - **kṛtikṛt** (⟪कृतिकृत्⟫) » action nouns (denote the action expressed by the root) or abstractions
+- **kārakakṛt** (⟪कारककृत्⟫) » ܣܘܼܟܠ̈ܐ ܕܡܲܛܥ̈ܝܢ (ܡܼܕܒܪ̈ܐ ܕܡܲܛܥ̈ܝܢ ܠܦܼܥܿܠ ܕܡܲܛܥ̈ܐ ܒܫܼܪܝܿܪ)
+- **kṛtikṛt** (⟪कृतिकृत्⟫) » ܣܘܼܟܠ̈ܐ ܕܦܼܥܿܠ (ܡܲܕܒܪ̈ܐ ܕܦܼܥܿܠ ܕܡܲܛܥ̈ܐ ܒܫܼܪܝܿܪ) ܘܐܲܒ̈ܣܛܼܪܩ̈ܘܢ
 
 - **taddhita**
   - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » Adjectives
@@ -46,19 +46,19 @@ In the traditional Indian grammar, one distinguishes among the suffixes with whi
   - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » instead of case endings (e.g. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
   - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-formations ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
 
-**Classification based on ablaut:**
-- **guṇya** (⟪गुण्य⟫): formation with the strong grade
-- **na guṇya** (⟪न⟫ ⟪गुण्य⟫): formation with the weak grade
-- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): formation with the lengthened grade
+**הַשְׂרָאָה עַל פִּי אַבְלוּת:**
+- **גוֹנְיָא** (⟪गुण्य⟫): יִצּוּר בְּמַעֲלָה חָזָקָה
+- **נָא גוֹנְיָא** (⟪न⟫ ⟪गुण्य⟫): יִצּוּר בְּמַעֲלָה חָלוּשָׁה
+- **וִירְדְּהַרְחָא** (⟪वृद्ध्यर्ह⟫): יִצּוּר בְּמַעֲלָה מְאֻרֶּכֶת
 
-## 8.3. Einige wichtige Nominalsuffixe
+## 8.3. ܐܢܫ̈ܝܢ ܡܠܘܝ̈ܬܐ ܫܡܝܢ̈ܬܐ ܚܫ̈ܚܬܐ
 
-### 8.3.1. -a m. (kṛt)
+### 8.3.1. -ܐ ܕܟܪܢܝܐ (ܟܪܬ)
 
 ::: grammar-box
-**The kṛt suffix -a forms masculine (rarely neuter) nouns that denote an action or a state designated by the root; sometimes also adjectives or nouns that express the agent (kartṛ) of the action designated by the verbal root. For short penultimate (= vowel before consonant, on which the root ends) or final root vowel, usually high grade (guṇa) or lengthened grade (vṛddhi) is substituted.**
+**ܡܠܦܢܘܬ ܟܪܬ -ܐ ܝܕܥ ܡܠܦ̈ܘܬ ܙܟܪ (ܥܕܝܢ ܐܠܐ ܣܪ) ܕܡܫܬܥܝ ܦܠܘܚ ܐܘ ܡܕܒܪ ܕܝܬܝܪ ܠܫܪܫܐ; ܥܕܝܢ ܐܠܐ ܣܦܪ̈ܘܬ ܐܘ ܡܠܦ̈ܘܬ ܕܡܫܬܥܝ ܩܪܒ (ܩܪܬܪ) ܕܦܠܘܚ ܕܝܬܝܪ ܠܫܪܫܐ. ܠܡܕܬ ܦܘܪܟ ܐܚܪܝ (ܠܡܕܬ = ܣܘܼܡ ܩܪܒ ܠܫܪܫܐ) ܐܘ ܦܘܪܟ ܚܬܝܡ, ܒܫܘܥ ܓܘܢܐ ܐܘ ܒܫܘܥ ܪܝܕܗܐ.**
 :::
-**Examples:**
+**ܡܛܠ̈ܘܬ:**
 
 | Wurzel:br⟪धातु⟫ | + -a (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
@@ -73,12 +73,12 @@ In the traditional Indian grammar, one distinguishes among the suffixes with whi
 | **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" |
 | **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" |
 
-### 8.3.2. -ana n. (kṛt)
+### 8.3.2. -ܐܢܐ ܢ. (ܟܪܝܬ)
 
 ::: grammar-box
-**The kṛt suffix -ana typically forms neuter nouns that denote an action, a state, or the means or instrument by which the action designated by the root or verbal stem is accomplished. For a short penultimate or an ending vowel of the root, high-grade (guṇa) substitution is usually applied.**
+**סופיק קֵרְת -אָנָה בְּטַל לְגַבֵּי שְׁמָא נְקִיבָה דַּעֲשֵׂיה, אוֹ מְצָבָה, אוֹ אֶפְשַׁרְיָתָא אוֹ כּוֹלָא דַּעֲשֵׂיה בְּרַם שָׁרְשָׁא אוֹ סוֹפִית מַלְטָנָה. לְגַבֵּי הוּא סוֹפָה אוֹ מַלְטָנָה דַּעֲשֵׂיה, בְּרַם גּוּנָה עִלָּאָה (גּוּנָה) מְשַׁתִּין.**
 :::
-**Examples:**
+**דְּמֵי:**
 
 | Wurzel:br⟪धातु⟫ | + -ana (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
@@ -98,14 +98,14 @@ Fig.: Maa Batakali Darshan, Puri, Orissa
 ::: note-box
 **"Darshan"** o **"Darshana"** es un término del hinduismo para la visión y la visión de lo sagrado y lo divino. Bajo *Darshana* se entiende, por ejemplo, el encuentro oficial entre alumno y maestro, en el que el alumno fue invitado por el maestro. Pero también puede significar *sumergirse* al contemplar una imagen de un dios. Este último significado es el más común en el uso actual del hindi. En relación con Mata Amritanandamayi, Darshan significa el abrazo del Guru.
 
-Pious Hindus go to the temple to obtain the vision of God through a symbol or statue, in which the spiritual presence of the deity is assumed. In this sense, also a blessing by the deity. Darshan can, however, also be received through a vision of the deity during prayer or meditation. A living person who is regarded as an incarnation of the deity, such as an Avatara, can also give Darshan.
-(Source: Wikipedia)
+ܟܝ̈ܠܐ ܕܗܢܘܬܐ ܝܟܘܠܝܢ ܠܡܕܒܪ̈ܐ ܠܗܝܟܠܐ ܠܡܫܬܥܪ̈ܐ ܒܨܘܪܬܐ ܕܐܠܗܐ ܒܣܡܟܘܬܐ ܕܪܙܘܢ ܐܘ ܦܣܠܡܐ، ܒܝܬܪܘܬܗ ܕܐܠܗܐ ܡܫܟܚܬܐ. ܒܗܕܐ ܡܠܬܐ، ܛܘܒܝܘܬܐ ܡܢ ܐܠܗܐ. ܕܪ̈ܫܢܐ ܝܟܘܠ ܠܡܬܫܥܪ̈ܐ ܒܨܘܪܬܐ ܕܐܠܗܐ ܒܨܘܬܐ ܕܦܠܚܢܐ ܐܘ ܡܕܥܬܐ. ܢܒܝܐ ܚܝܠܐ، ܕܡܫܬܥܪ̈ܐ ܠܦܘܩܕܢܐ ܕܐܠܗܐ، ܡܫܬܥܪ̈ܐ ܠܕܪ̈ܫܢܐ.
+(מקור: וויקיפּעדיע)
 :::
 
-### 8.3.3. -tra n. (kṛt)
+### 8.3.3. -ܬܪܐ ܕܟܪܐ (ܟܪܝܬ)
 
 ::: grammar-box
-**The kṛt-suffix -tra forms (mostly) neuter nouns that denote the means or instrument by which the action designated by the root comes about. A short penultimate and a final vowel of the root is replaced by the strong grade (guṇa).**
+**סיומת ה-kṛt -tra יוצר (ברובם) שמות עצם נקביים המציינים את האמצע או הכלי שבו מתרחש הפועל שמסומן על ידי השורש. תנועה קצרה לפני אחרונה ותנועה סופית של השורש מוחלפות על ידי הדרגה החזקה (guṇa).**
 :::
 
 **Examples:**
@@ -130,12 +130,12 @@ Pious Hindus go to the temple to obtain the vision of God through a symbol or st
 (Image sources: [Details](/arc/licenses#lekt0803))
 :::
 
-### 8.3.4. -ti f. (kṛt)
+### 8.3.4. -ܬܝ ܕܢܩܒܬܢܝܬܐ (ܟܪܬ)
 
 ::: grammar-box
 **The kṛt suffix -ti forms feminine nouns that generally express the action denoted by the root or the state denoted by the root. The form of the root is in the guṇa grade.**
 :::
-**Examples:**
+**ܡܕܥ̈ܐ:**
 
 | Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Bedeutung |
 | :--- | :--- | :--- |
@@ -147,14 +147,14 @@ Pious Hindus go to the temple to obtain the vision of God through a symbol or st
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) |
 | **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) |
 
-*Note: \* before a form means that this form does not occur in Sanskrit, but is theoretically reconstructed as a prerequisite for a specific formation. The zero-grade of **gam** is gṃ = \*gm, the m is replaced by **a** as a so-called nasalis sonans » **ga**. The analogous applies to **man** » **ma**.
+[0] ܡܕܥܐ: \* ܩܕܡ ܣܘܡܟܐ ܝܗܒ ܕܠܫܢܐ ܗܕܐ ܠܐ ܬܫܟܚ ܒܣܢܣܩܪܝܬ، ࠠܐܠܐ ܗܘܟܪ ܒܬܫܥܝܬܐ ܕܡܢܘܚܬܐ ܒܪܝܬ. ܙܘܓܪܐ ܕܡܠܬ **gam** ܗܘ gṃ = \*gm، ࠠܡܝܡ ܬܫܬܕܪ ܒ**a** ܟܠܘܡܐ ܕܢܣܝܣ ܣܘܢܰܢ  » **ga**. ܗܠܟ ܬܫܥܝܬܐ ܠ**man** » **ma**.
 
-### 8.3.5. -tva n., -tā f. (taddhita)
+### 8.3.5. -ܬܘܐ ܕܟܪܐ, -ܬܐ ܢܩܒܬܐ (ܬܕܗܝܬܐ)
 
 ::: grammar-box
 **The taddhita suffixes -tva n. and -tā f. form abstract nouns from nominal stems. The form of the underlying nominal stem remains unchanged.**
 :::
-**Examples:**
+**ܡܕܥ̈ܝܐ:**
 
 | Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Bedeutung |
 | :--- | :--- | :--- | :--- |
@@ -162,7 +162,7 @@ Pious Hindus go to the temple to obtain the vision of God through a symbol or st
 | **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
 | **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
 
-These formations can be practically formed with any noun and are very common in scientific Sanskrit works.
+אִלּוּיָא הָכֵן יְכוֹלַיָא לְהוֹתָבָא בְּכָל שְׁמָא וְהוֹן סַגִּין בִּכְתָבֵי סַנְסְקִירַט
 
 ## 8.4. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.")
 
@@ -171,15 +171,15 @@ These formations can be practically formed with any noun and are very common in 
 - **Starker Stamm: Wurzel + -o-**
 - **Schwacher Stamm: Wurzel + -u- (vor Vokal: -v-)**
 
-Example **tan** 8 U (⟪तन्⟫) "to stretch":
+مثال **tan** 8 U (⟪तन्⟫) "ليمد":
 - 3\. sg. P. **tanoti** :br⟪तनोति⟫
 - 3\. pl. P. **tanvanti** :br⟪तन्वन्ति⟫
 - 3\. sg. Ā. **tanute** :br⟪तनुते⟫
 - 3\. pl. Ā. **tanvate** :br⟪तन्वते⟫
 :::
-Note: Regarding the debate whether **tan** is actually a root of the 5th class (*tn » ta + no-), cf. Thumb-Hauschild, Handbook of Sanskrit II, 265.
+ملاحظة: بشأن النقاش حول ما إذا كان **tan** هو في الواقع جذر من الفئة الخامسة (*tn » ta + no-)، انظر Thumb-Hauschild، دليل السنسكريتية II، 265.
 
-The most important root of Class 8 is **kṛ** 8 U (⟪कृ⟫) "to do, to make". Its conjugation is irregular:
+أهم جذر من الفئة الثامنة هو **kṛ** 8 U (⟪कृ⟫) "يفعل، يصنع". تصريفه غير منتظم:
 
 ::: grammar-box
 **kṛ 8 U (⟪कृ⟫) "to make, to do"**
@@ -189,27 +189,27 @@ The most important root of Class 8 is **kṛ** 8 U (⟪कृ⟫) "to do, to mak
 - 3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫
 :::
 
-## 8.5. Wortliste
+## 8.5. ܡܠܘܐܐ
 
 **Learn the following words:**
 
-- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : to conquer, to defeat, to overcome
-- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : to grasp, to obtain, to seize
-- **tu** ⟪तु⟫ : but (appears after the first word of the opposing sentence or clause)
-- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : to see, to behold (used as the present stem instead of the root **dṛś** 0 "to see, to behold")
-- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : to make, to do
-- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : to extend
-- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : to protect
-- **sārathi** m. ⟪सारथि⟫ : charioteer, coachman
-- **kapi** m. ⟪कपि⟫ : ape
-- **kumārī** f. ⟪कुमारी⟫ : the girl, the maiden
-- **nāga** m. ⟪नाग⟫ : the naked one, the elephant, the snake (elephants and snakes have no fur, just as the "naked ape" human)
-- **gaja** m. ⟪गज⟫ : elephant
-- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : to mourn
-- **śuka** m. ⟪शुक⟫ : parrot
-- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : to fall, to fly
-- **patrikā** f. ⟪पत्रिका⟫ : letter
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : to engrave, to write (originally with a stylus on a palm leaf, but later in general)
+- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : ܠܒܝ, ܬܓܪ, ܥܕܟ
+- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : ܠܟܦ, ܐܬܒܥ, ܙܚ
+- **tu** ⟪तु⟫ : ܠܐ (ܡܬܝܕܥ ܒܥܘܪܐ ܕܡܠܬ ܝܬܝܪܬܐ ܘܫܒܟܬܐ)
+- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : ܚܙܝ, ܪܟܢ (ܡܬܠܛ ܒܨܘܪܬܐ ܕܚܢܐ ܒܝܬ ܫܪܫܐ **dṛś** 0 "ܚܙܝ, ܪܟܢ")
+- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : ܥܒܕ, ܐܠܦ
+- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : ܐܢܚ
+- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : ܣܓܕ
+- **sārathi** m. ⟪सारथि⟫ : ܣܪܝܩ, ܢܗܓ
+- **kapi** m. ⟪कपि⟫ : ܩܢܦܪ
+- **kumārī** f. ⟪कुमारी⟫ : ܐܬܬ, ܥܕܪ
+- **nāga** m. ⟪नाग⟫ : ܐܝܠ, ܚܢܬܐ (ܐܪܓܘܠܝܢ ܘܚܢܬܐ ܠܫܡܥ ܦܘܣ, ܟܕܢ ܐܝܠܐ "ܚܢܬܐ" ܐܢܫ)
+- **gaja** m. ⟪गज⟫ : ܐܝܠ
+- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : ܐܒܠ
+- **śuka** m. ⟪शुक⟫ : ܩܠܩܠܐ
+- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : ܦܠ, ܥܒ
+- **patrikā** f. ⟪पत्रिका⟫ : ܟܬܒ
+- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : ܟܬܒ, ܚܛ (ܐܘܠܝܢ ܒܩܠܡ ܥܠ ܦܘܬ ܟܢܫܐ, ܒܥܕܪ ܠܟܠ)
 
 ::: media
 ![](/images/lekt0809.jpg)
@@ -225,7 +225,7 @@ Fig.: **likh** (⟪लिख्⟫) : Writing stick of the Batak (Sumatra), as i
 - **sukha** n. ⟪सुख⟫ : happiness, well-being
 - **duḥkha** n. ⟪दुःख⟫ : misfortune, suffering
 
-## 8.6. Übung
+## 8.6. ܬܪܓܠܐ
 
 **A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:**
 1. lobha
@@ -262,20 +262,20 @@ Fig.: **likh** (⟪लिख्⟫) : Writing stick of the Batak (Sumatra), as i
 **C) Insert as a direct object in the singular and plural:**
 - kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
-**D) Translate:**
-1. Kṣatriyas protect both Brahmins and Vaiśyas and Śūdras. (2 possibilities)
-2. A holy man sees both heaven and hells.
-3. He defeats Kṣatriyas.
-4. She sets up the warp.
-5. Soldiers fight.
-6. The Brahmin makes a fire.
-7. Brahmins make fires.
-8. What do these fighters do?
-9. Whom does the eye see?
-10. What do gods desire?
-11. What is the reason?
+**ד) ܛܪܓܡ:**
+1. ܟܣܛܪܝܐ ܡܕܥܝܢ ܠܟܘܠ ܒܪܗ̈ܡܐ ܕܒܪܚ̈ܢܐ ܘܠܟܘܠ ܒܪܗ̈ܡܐ ܕܛܝܘܒܝܐ ܘܠܟܘܠ ܒܪܗ̈ܡܐ ܕܫܘܕܪܐ. (2 possibilities)
+2. ܓܒܪܐ ܩܕܝܫ ܚܙܐ ܠܡܘܬܐ ܘܠܥܠܡܐ.
+3. ܗ̈ܘ ܓܒܪܐ ܢܨܚ ܠܟܣܛܪܝܐ.
+4. ܗ̈ܝ ܢܫܐ ܩܪܒܬ ܠܦܘܣ.
+5. ܟܢ̈ܫܐ ܡܠܚܡܝܢ.
+6. ܒܪܚ̈ܐ ܥܣܩ ܠܢܘܪܐ.
+7. ܒܪܚ̈ܢܐ ܥܣܩܝܢ ܠܢܘܪ̈ܐ.
+8. ܡܢ ܗܝ ܥܒܕܐ ܠܟܘܠ ܡܢ ܗ̈ܕܐ ܟܢ̈ܫܐ?
+9. ܡܢ ܗ̈ܕܐ ܚܙܝ ܠܥܝܢܐ?
+10. ܡܢ ܗ̈ܕܐ ܝܬܒܪ ܠܟܘܠ ܐܠ̈ܗܐ?
+11. ܡܢ ܗ̈ܕܐ ܫܠܦܐ?
 
-## 8.7. Lese- und Übersetzungsübung
+## 8.7. ܬܶܪܓܳܡܳܐ ܕܩܪܳܝܬܳܐ ܘܕܬܰܪܓܳܡܳܐ
 
 1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
 2. ⟪कविर्देवं⟫ ⟪यजते⟫ |

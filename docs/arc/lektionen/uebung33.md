@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 33
+# ܬܶܪܓܳܡܳܐ 33
 
-A) Insert the corresponding forms of the words in parentheses into the following sentence pattern:
+ܐܬܒܥ ܠܟܘܢ ܡܕܡ ܐܪܡܝܐ ܠܟܘܢ:
 
 ⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 
@@ -28,7 +28,7 @@ A) Insert the corresponding forms of the words in parentheses into the following
 
 ⟪रामो⟫ ⟪धेनवे⟫ ⟪ऽन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेन्वायन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेन्वा⟫ ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेनुभ्यो⟫ ⟪ऽन्नं⟫ ⟪ददाति⟫ ⟪॥⟫
 
-B) Insert the corresponding forms of the verbs specified in parentheses in the Indicative Present, Imperfect, and Optative:
+ܒ) ܡܠܐ ܝܘܬ ܦܪܘܿܟܼܐ ܕܡܠܬ ܪܒܝܢ ܒܟܘܼܠ ܦܪܩܝܢ ܕܐܘܿܬܒܥܼܐ ܒܦܪܘܿܟܬ ܡܕܥܼܐ:
 
 ⟪ब्राह्मनो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
 
@@ -66,31 +66,31 @@ C) Translate and convert singular sentences into plural sentences and vice versa
 
 ⟪योगयुक्तो⟫ ⟪मतिं⟫ ⟪दुःखमक्षनयन्त्यां⟫ ⟪प्रज्ञायां⟫ ⟪समाधत्ते⟫ ⟪॥१॥⟫
 
-A yogin concentrates his mind on the insight that leads to liberation from suffering.
+ܡܕܥܝܢ ܕܝܘܓܝܢ ܐܬܪܥܟ ܠܦܘܡܩܕܐ ܕܝܬܒܪ
 
 ⟪योगयुक्ता⟫ ... ⟪समादधते⟫ ⟪॥१॥⟫
 
 ⟪यो⟫ ⟪भिक्षवे⟫ ⟪दानानि⟫ ⟪द्द्यात्सो⟫ ⟪ऽपि⟫ ⟪दानपुण्यमाददीत⟫ ⟪॥२॥⟫
 
-One who gives gifts to a monk receives the merit of his giving.
+ܕܡܫܟܚ ܠܟܗܢܐ ܝܬܪܐ ܡܠܘܟܬܗ ܕܫܪܩܐ.
 
 ⟪ये⟫ ... ⟪दद्युस्ते⟫ ... ⟪आददीरन्⟫ ⟪॥२॥⟫
 
 ⟪ब्राह्मणा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪ब्राह्मणदासो⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫ ⟪॥३॥⟫
 
-Since Brahmins carry no burden, the servant of the Brahmin carried the burden home.
+ܟ݁ܐ ܒܪ̈ܗܝܡܐ ܠܭܐ ܢܬܒܪ̈ܟ݁ܝܢ، ܐܠܗܘܢ ܕܒܪ̈ܗܝܡܐ ܢܬܒܪ̈ܟ݁ܝܠܘܗܝ.
 
 ⟪ब्राह्म्णो⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभर्तीति⟫ ⟪ब्राह्मणदासा⟫ ⟪भारं⟫ ⟪गृहमबिभरुः⟫ ⟪॥३॥⟫
 
 ⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हीत्वा⟫ ⟪पनर्भवमैत्⟫ ⟪॥४॥⟫
 
-The Kṣatriya hero left his family with his son to fight. Since he was killed by the enemy in battle, he left his body and was reborn.
+[ L0 ] ܐܘܪܟ
 
 ⟪क्षत्रियशूराः⟫ ⟪पुत्रानादाय⟫ ⟪योद्धुं⟫ ⟪कुलान्यजहुः⟫ ⟪।⟫ ⟪ते⟫ ⟪युद्धे⟫ ⟪शत्रुहत्वाच्छरीराणि⟫ ⟪हीत्वा⟫ ⟪पुनर्भवमायन्⟫ ⟪॥४॥⟫
 
 ⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
 
-Happiness bestowed even by the gods does not fulfill the wish for liberation from suffering. This wish is fulfilled only by liberating insight.
+ܐܪܘܟܬܐ ܕܡܠܟܘܬܐ ܒܝܬ ܥܒܕܐ ܠܐ ܡܠܝ ܚܘܒܐ ܕܦܪܩܐ ܡܢ ܥܘܒܕܐ. ܚܘܒܐ ܗܢܐ ܡܠܝ ܒܪܘܚܐ ܕܦܪܩܐ.
 
 ⟪देवदत्तान्यपि⟫ ⟪सुखानि⟫ ⟪दुःखमोक्षेष्तीर्न⟫ ⟪पिपुरति⟫ ⟪।⟫ ⟪ता⟫ ⟪इष्टयः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यन्ते⟫ ⟪॥५॥⟫
 
@@ -102,7 +102,7 @@ Before a sage who grants fearlessness to beings, beings do not fear, and he does
 
 ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-Mentally limited beings perform meritorious deeds and refrain from evil because they fear hells and desire heavens. Those who have awakened to unlimited insight do not fear hells and desire no heavens. They have ended fear and desire.
+ܐܪ̈ܝܟܢ ܕܠܬ ܚܫܒܐ ܝܥܒܕܘ ܡܠܬ ܚܢܐ ܘܝܫܟܒܘ ܡܠܬ ܪܥܐ ܡܛܠ ܕܝܬܚܦܘ ܡܢ ܓܗܢܡ ܘܝܬܚܒܒܘ ܒܫܡܠ̈ܐ. ܕܝܬܥܒܪܘ ܠܚܫܒܐ ܕܠܬ ܫܪ̈ܟܐ ܝܬܚܦܘ ܡܢ ܓܗܢܡ ܘܝܬܚܒܒܘ ܒܫܡܠ̈ܐ.
 
 ⟪मितमतिर्नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहाति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धो⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयात्स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येत्⟫ ⟪।⟫ ⟪स⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुणत्⟫ ⟪।⟫ ... ⟪बिभियात्⟫ ... ⟪॥७॥⟫
 

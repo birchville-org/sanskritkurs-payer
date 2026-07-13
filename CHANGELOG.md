@@ -3,6 +3,11 @@
 Alle wesentlichen Änderungen in diesem Projekt werden in dieser Datei nachgehalten.
 Wir orientieren uns am Prinzip des [Semantic Versioning](https://semver.org/lang/de/).
 
+## [1.6.0] - Unreleased
+### Behoben
+- **Surgical Fallback & Integrity:** Umfangreicher Korrekturlauf zur Behebung von Übersetzungs-Lücken und fehlerhaften Fallback-Tags in massiven Dateien (z.B. `wortliste.md`, `glossar.md`).
+- **Sprachen-Fixes:** Lückenlose Vervollständigung der Übersetzungsstände für Indonesisch (ID), Hindi (HI), Tamil (TA), Arabisch (AR) und Vereinfachtes Chinesisch (zh-CN) auf 100% (61/61 Lektionen, Schriften, Übungen, Root).
+
 ## [1.5.0] - 2026-07-10
 ### Hinzugefügt
 - **Neue Sprachen (HE, AR, ARC, zh-CN):** Vollständige Integration von Hebräisch, Arabisch, Aramäisch und Vereinfachtem Chinesisch über alle 61 Lektionen, Schriften, Übungen und Glossare.

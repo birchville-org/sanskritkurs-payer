@@ -19,7 +19,7 @@ status: stable
 :::
 ## 3.1. Nominativum singulare feminini
 
-### 3.1.1. Nominativ Singular auf -s
+### 3.1.1. Nominativus singularis in -s
 
 Item hi nominativi, qui vocali finiuntur, nominativum singularem formant cum **-s**:
 
@@ -51,7 +51,7 @@ Nominativus singularis sine desinentia formatur:
   (**-u-** ante vocalem fit **-v-**, ergo **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominativ Plural Maskulinum und Femininum
+## 3.3. Nominativus pluralis masculinus et femininus
 
 ::: grammar-box
 Finis nominativi pluralis in genere masculino et feminino est **-as**.
@@ -131,7 +131,7 @@ e.g.
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyae sunt bis nati" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
-## 3.6. Wortliste
+## 3.6. Vocabularium
 
 **Haec verba discite:**
 
@@ -193,7 +193,7 @@ Tab.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **muditā** f. = ⟪मुदिता⟫ : laetitia, praecipue laetitia alterius (contrarium invidiae).
 
-## 3.7. Übung
+## 3.7. Exercitium
 
 **A) Pluralizate haec sententias:**
 

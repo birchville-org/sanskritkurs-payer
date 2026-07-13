@@ -35,7 +35,7 @@ Selain aturan dasar untuk pembentukan Samāhāradvandvas, terdapat sejumlah atur
 
 ---
 
-## 9.2. Pembentukan Stamm Nomina
+## 9.2. Pembentukan Akar Nomina
 
 ---
 

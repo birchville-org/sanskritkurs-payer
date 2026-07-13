@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 59
+# ܬܪܓܡܬܐ 59
 
 ::: media
 ![](/images/uebung098.webp)
@@ -15,7 +15,7 @@ Fig.: ⟪रावणः⟫
 :::
 ---
 
-## A) Text Analysis
+## ܐ) ܫܽܘܚܠܳܦܳܐ ܕܡܰܬܠܳܐ
 
 Translate the following text and identify all verbal forms occurring within it.
 
@@ -28,29 +28,29 @@ Text from: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 ⟪राक्षसेन्द्रस्ततो⟫ ⟪ऽभैषीदैक्षिष्ट⟫ ⟪परितः⟫ ⟪पुरम्⟫ ⟪।⟫  
 ⟪प्रातिष्ठिपच्च⟫ ⟪बोधार्थं⟫ ⟪कुम्भकर्णस्य⟫ ⟪राक्षसान्⟫ ⟪॥१॥⟫
 
-> Thereupon the demon lord feared. He looked around the city and sent the Rākṣasas to wake Kumbhakarṇa¹.
->
+> ܡܶܠܬܳܐ ܕܣܰܒܥܶܐ ܗܘܳܐ. ܚܙܳܐ ܠܶܗ ܩܘܪܝܬܳܐ ܘܫܰܕܶܪ ܠܬܳܐ ܪܳܟ̈ܫܰܝܐ ܠܡܶܕܩܘܟ̈ܝ ܠܟܽܘܡܒܳܪܟ̈ܢܶܐ.
+> 
 > ⟪अभैषीत्⟫ -  ⟪भी⟩ Aor. 3 P  
 > ⟪ऐक्षिष्ट⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā
 > ⟪प्रातिष्ठिपत्⟫ - ⟪प्र⟫-⟪स्था⟫ irregular (see Pāṇini 7.4.5) Aor. 3
->
-> 1 Kumbhkarṇa, the brother of Rāvaṇa, lies in eternal sleep as punishment for his misdeeds.
+> 
+> 1 ܟܽܘܡܒܳܪܟ̈ܢܶܐ, ܚܘܬܳܗ ܕܪܰܒܥܳܢ, ܫܟܺܝܡ ܒܬܰܪܡܳܐ ܕܥܠܶܡ ܟܰܝܢ ܐܳܪܨܘܿܟ̈ܝ, ܒܰܫܠܡܳܐ ܕܚܘܒ̈ܬܶܗ.
 
 ⟪ते⟫ ⟪ऽभ्यगुर्भवनं⟫ ⟪तस्य⟫ ⟪सुप्तं⟫ ⟪चैक्षिषताथ⟫ ⟪तम्⟫ ⟪।⟫  
 ⟪व्याहार्षुस्तुमुलाञ्छब्दान्दण्डैश्चावधिषुर्द्रुतम्⟫ ⟪॥२॥⟫
 
-> They went to his house and saw him sleeping. They emitted tumultuous sounds and quickly struck with sticks.
->
-> ⟪अभ्यगुर्⟫ - ⟪अभि⟫-⟪गा⟫ (for ⟪इ⟫) Aor. 1 P  
-> ⟪अक्षिषत⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā (3.pl.)
-> ⟪व्याहार्षुर्⟫ - ⟪वि⟫-⟪आ⟫-⟪हृ⟫ utter, say Aor. 4 P
-> ⟪अवधिषुर्⟫ - ⟪वध्⟫ (instead of ⟪हन्⟫) Aor. 5
+> ܠܟܘ ܒܝܬܗ ܕܚܡܝܢ ܘܪܐܘܗܝ ܕܫܟܒ. ܐܬܩܢܘ ܠܗ ܡܕܥ ܪܒܐ ܘܙܓܚܘ ܠܗ ܒܨܪܝܢ.
+> 
+> ⟪अभ्यगुर्⟫ - ⟪अभि⟫-⟪गा⟫ (ܠܦܣܩ ⟪इ⟫) ܐܘܪ. 1 פּ
+> ⟪अक्षिषत⟫ - ⟪ईक्ष्⟫ ܐܘܪ. 5 א (3.pl.)
+> ⟪व्याहार्षुर्⟫ - ⟪वि⟫-⟪आ⟫-⟪हृ⟫ ܡܠܠ, ܐܝܠ Aor. 4 פּ
+> ⟪अवधिषुर्⟫ - ⟪वध्⟫ (ܠܦܣܩ ⟪हन्⟫) ܐܘܪ. 5
 
 ⟪केशानलुञ्चिषुस्तस्य⟫ ⟪गजान्गात्रेष्वभिभ्रमन्⟫ ⟪।⟫  
 ⟪शीतैरभ्यषिचंस्तोयैरलातैश्चाप्यदम्भिषुः⟫ ⟪॥३॥⟫
 
-> They dragged his hair, let elephants wander over his limbs; they sprinkled him with cold water and injured him with fires.
->
+> ܡܫܟܘܠܝܢ ܠܗ ܣܦܪܬܘܗܝ، ܕܝܩܠܘ ܥܠ ܦܪܣܘܗܝ ܐܠܦܬܐ؛ ܫܪܩܘܗܝ ܒܡܝܐ ܠܥܬܝܩܐ ܘܫܒܪܘܗܝ ܒܢܘܪܐ.
+> 
 > ⟪अलुञ्चिषुर्⟫ - ⟪लुञ्च्⟫ Aor. 5  
 > ⟪अबिभ्रमन्⟫ - ⟪भ्रम्⟫ Caus. Aor. 3
 > ⟪अभ्यषिचन्⟫ - ⟪सिच्⟫ Aor. 2
@@ -59,8 +59,8 @@ Text from: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 ⟪नखैरकर्तिषुस्तीक्ष्णैरदाङ्क्षुर्दशनैस्तथा⟫ ⟪।⟫  
 ⟪शितैरतौत्सुः⟫ ⟪शूलैश्च⟫ ⟪भेरीश्चावीवदञ्छुभाः⟫ ⟪॥४॥⟫
 
-> They cut him with sharp fingernails and they bit him with their teeth, they struck him with sharp spears and they let bright drums sound.
->
+> ܗ̈ܘܢ ܩܛܦܘܟ ܠܗ ܒܨ̈ܪܝܢ ܕܟܣܦܐ ܘܗ̈ܘܢ ܡܠܥܘܟ ܠܗ ܒܫ̈ܢܝܢ ܕܢܘܗܪܐ ܘܗ̈ܘܢ ܙܠܦܘܟ ܠܗ ܒܪ̈ܡܝܢ ܕܫܥܠܐ ܘܗ̈ܘܢ ܪܙܢܘܟ ܠܗ ܒܓ̈ܪܝܢ ܕܫܡܥܐ.
+> 
 > ⟪अकर्तिषुर्⟫ - ⟪कृत्⟫ Aor. 5  
 > ⟪अदाङ्क्षुर्⟫ - ⟪दंश्⟫ Aor. 4
 > ⟪अतौत्सुर्⟫ - ⟪तुद्⟫ Aor. 4
@@ -69,7 +69,7 @@ Text from: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 ⟪स⟫ ⟪तान्नाजीगणत्सर्वानिच्छयाबुद्ध⟫ ⟪च⟫ ⟪स्वयम्⟫ ⟪।⟫  
 ⟪अबूबुधत⟫ ⟪कस्मान्मामप्राक्षीच्च⟫ ⟪निशाचरान्⟫ ⟪॥५॥⟫
 
-> He did not heed any of these; by his own wish he awoke himself and asked the sleepwalkers: "Why have you awakened me?"
+> ܠܐ ܫܡܥ ܠܗ ܡܢ ܗܕܐ، ܒܪܝܬܗ ܢܘܦ ܠܗ ܕܡܝܐ ܘܫܐܠ ܠܗ: "ܡܢ ܕܝܢ ܐܬܐ ܠܟ؟"
 >
 > ⟪अजीगणत्⟫ - ⟪गण्⟫ 10 Aor. 3
 > ⟪अबुद्ध⟫ - ⟪बुध्⟫ Aor. 4 (beside ⟪अबोधि⟫)
@@ -91,8 +91,8 @@ Text from: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 ⟪न्यवसिष्ट⟫ ⟪ततो⟫ ⟪द्रष्टुं⟫ ⟪रावणं⟫ ⟪प्रावृतद्गृहात्⟫ ⟪।⟫  
 ⟪राजायान्तं⟫ ⟪तमद्राक्षीदुदस्थाच्चेषदासनात्⟫ ⟪॥७॥⟫
 
-> He dressed himself, then left home to see Rāvaṇa. The king saw him coming and rose slightly from his seat.
->
+> ܠܒܫ ܐܢܦܘܗܝ، ܠܚܝܕ ܡܢ ܒܝܬܗ ܠܫܟܚ ܪܐܒܢ. ܡܠܟܐ ܚܙܘܗ ܐܬܐ، ܠܩܡ ܙܥܪܝܘܬܐ ܡܢ ܟܣܠܗ.
+> 
 > ⟪न्यवसिष्ट⟫ - ⟪नि⟫-⟪वस्⟫ 2Ā Aor. 5  
 > ⟪प्रावृतत्⟫ - ⟪प्र⟫-⟪वृत्⟫ Ā Aor. 2 P (in the aorist also P!)  
 > ⟪अद्राक्षीत्⟫ - ⟪दृश्⟩  Aor. 4  
@@ -111,19 +111,19 @@ Text from: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 ⟪अवादीन्मां⟫ ⟪किमित्याह्वो⟫ ⟪राज्ञा⟫ ⟪च⟫ ⟪प्रत्यवादि⟫ ⟪सः⟫ ⟪।⟫  
 ⟪नाज्ञासीस्त्वं⟫ ⟪सुखी⟫ ⟪रामो⟫ ⟪यदकार्षीत्स⟫ ⟪रक्षसाम्⟫ ⟪॥९॥⟫
 
-> He spoke: "Why have you summoned me?" The king answered him: "You fortunate one have not recognized what Rāma has done to the demons.
+> אמר: "למה קרית לי?" ענא מלכא: "לא חזית מאן דעבד רמא לדייני.
 >
-> ⟪अवादीत्⟫ - ⟪वद्⟫ Aor. 5  
-> ⟪आह्वस्⟫ - ⟪आ⟫-⟪ह्वे⟫ Aor. 2  
-> ⟪प्रत्यवादि⟫ - ⟪प्रति⟫-⟪वद्⟫ Passive aorist  
-> ⟪अज्ञासीस्⟫ - ⟪ज्ञा⟫ Aor. 6  
-> ⟪अकार्षीत्⟫ - ⟪कृ⟫ Aor. 4
+> ⟪अवादीत्⟫ - ⟪वद्⟫ אור. 5  
+> ⟪आह्वस्⟫ - ⟪आ⟫-⟪ह्वे⟫ אור. 2  
+> ⟪प्रत्यवादि⟫ - ⟪प्रति⟫-⟪वद्⟫ פסיבי אור.  
+> ⟪अज्ञासीस्⟫ - ⟪ज्ञा⟫ אור. 6  
+> ⟪अकार्षीत्⟫ - ⟪कृ⟫ אור. 4
 
 ⟪उदतारीदुदन्वन्तं⟫ ⟪पुरं⟫ ⟪नः⟫ ⟪परितो⟫ ⟪ऽरुधत्⟫ ⟪।⟫  
 ⟪व्यद्योतिष्ट⟫ ⟪रणे⟫ ⟪शस्त्रैरनैषीद्राक्षसान्क्षयम्⟫ ⟪॥१०॥⟫
 
-> He has crossed the ocean, blockaded our city all around, he shone in battle with cutting weapons, he led the demons to destruction.
->
+> ܗܘ ܫܪ̈ܐ ܠܝܡܐ، ܟܬܪ ܩܪ̈ܬܢ ܠܗܘܟܝ، ܐ̈ܬܕܪ̈ܟ ܒܡܠܚܡܐ ܒܫ̈ܪ̈ܝܟ، ܢܚܬ ܠܥܒ̈ܕܐ ܠܫܘܡܠܐ.
+> 
 > ⟪उदतारीत्⟫ - ⟪उद्⟫-⟪तॄ⟫ Aor. 5  
 > ⟪अरुधत्⟫ - ⟪रुध्⟫ Aor. 2  
 > ⟪व्यद्योतिष्ट⟫ - ⟪वि⟫-⟪द्युत्⟫  Aor. 5  
@@ -132,8 +132,8 @@ Text from: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 ⟪न⟫ ⟪प्रावोचमहं⟫ ⟪किंचित्प्रियं⟫ ⟪यावदजीविषम्⟫ ⟪।⟫  
 ⟪बन्धुस्त्वमर्चितः⟫ ⟪स्नेहान्मा⟫ ⟪द्विषो⟫ ⟪न⟫ ⟪वधीर्मम⟫ ⟪॥११॥⟫
 
-> I have spoken no flattery as long as I lived. You are my kinsman revered with love. Do not cease to slay my enemies!
->
+> ܠܐ ܕܒܪ ܦܘܫܩܬܐ ܡܠܠܬ ܟܕ ܗܘܝܬ. אַתְּ גוֹבָרַי מְכַבְדָא בְּאַהֲבָה. ܠܐ תַּשְׁכַּח לִקְטָל ܐܝܒ̈ܝ!
+> 
 > ⟪प्रावोचम्⟫ - ⟪प्र⟫-⟪वच्⟫ Aor. 3  
 > ⟪अजीविषम्⟫ - ⟪जीव्⟫ Aor. 5  
 > ⟪वधीस्⟫ - ⟪वध्⟫ Injunctive aorist 5
@@ -141,28 +141,27 @@ Text from: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 ⟪वीर्यं⟫ ⟪मा⟫ ⟪न⟫ ⟪ददर्शस्त्वं⟫ ⟪मा⟫ ⟪न⟫ ⟪त्रास्थाः⟫ ⟪क्षतां⟫ ⟪पुरम्⟫ ⟪।⟫  
 ⟪तवाद्राक्ष्म⟫ ⟪वयं⟫ ⟪वीर्यं⟫ ⟪त्वमजैषीः⟫ ⟪पुरा⟫ ⟪सुरान्⟫ ⟪॥१२॥⟫
 
-> Do not cease to show your manliness, do not cease to save the wounded city! We have seen your manliness. You previously defeated the gods."
+> ܠܐ ܬܫܟܚ ܡܢܘܼܬܟ، ܠܐ ܬܫܟܚ ܠܦܘܩܕܐ ܕܥܝܪܐ! ܚܙܝܢ ܠܟ ܡܢܘܼܬܟ. ܐܢܫ̈ܝܢ ܠܗ ܕܢܨܪ ܐܝܠܝܢ.
 >
-> ⟪ददर्शस्⟫ - ⟪दृश्⟫ Caus. Injunctive aorist 3  
-> ⟪त्रास्थास्⟫ - ⟪त्रै⟫ Ā Injunctive aorist 4  
-> ⟪अद्राक्ष्म⟫ - ⟪दृश्⟫ Aor. 4  
-> ⟪अजैषीस्⟫ - ⟪जि⟫ Aor. 4
+> ⟪ददर्शस्⟫ - ⟪दृश्⟫ ܣܘܼܥ ܐܦܩܪ̈ܝܢ ܣܘܼܥ ܐܦܩܪ̈ܝܢ
+> ⟪त्रास्थास्⟫ - ⟪त्रै⟫ ܐܬܝܠ ܣܘܼܥ ܐܦܩܪ̈ܝܢ
+> ⟪अद्राक्ष्म⟫ - ⟪दृश्⟫ ܐܬܝܠ ܣܘܼܥ
+> ⟪अजैषीस्⟫ - ⟪जि⟫ ܐܬܝܠ ܣܘܼܥ
 
 ⟪अवोचत्कुम्भकर्णस्तं⟫ ⟪वयं⟫ ⟪मन्त्रे⟫ ⟪ऽभ्यधाम⟫ ⟪यत्⟫ ⟪।⟫  
 ⟪न⟫ ⟪त्वं⟫ ⟪सर्वं⟫ ⟪तदश्रौषीः⟫ ⟪फलं⟫ ⟪तस्येदमागमत्⟫ ⟪॥१३॥⟫
 
-> Kumbhakarṇa spoke to him: "What we presented during the consultation, of all this you have not listened. This has come as its fruit.
+> אמר קומברקנא ליה: "דשדרנו במועצה, מכל דהוה הכא אתא פריה.
 >
-> ⟪अवोचत्⟫ - ⟪वच्⟫ Aor. 3  
-> ⟪अभ्यधाम⟫ - ⟪अभि⟫-⟪धा⟫ Aor. 1  
-> ⟪अश्रौषीस्⟫ - ⟪श्रु⟫ Aor. 4  
-> ⟪आगमत्⟫ - ⟪आ⟫-⟪गम्⟫ Aor. 2
+> ⟪अवोचत्⟫ - ⟪वच्⟫ אור. 3  
+> ⟪अभ्यधाम⟫ - ⟪अभि⟫-⟪धा⟫ אור. 1  
+> ⟪अश्रौषीस्⟫ - ⟪श्रु⟫ אור. 4  
+> ⟪आगमत्⟫ - ⟪आ⟫-⟪गम्⟫ אור. 2
 
 ⟪प्राज्ञवाक्यान्यवामामंस्था⟫ ⟪मूर्खवाक्येष्ववास्थिथाः⟫ ⟪।⟫  
 ⟪अध्यगीष्ठाश्च⟫ ⟪शास्त्राणि⟫ ⟪प्रत्यपत्था⟫ ⟪हितं⟫ ⟪न⟫ ⟪च⟫ ⟪॥१४॥⟫
 
-
-> Thou hast despised the words of the wise, thou hast relied upon the words of fools, thou hast studied the treatises and yet hast not attained to what is salvific.
+> ܐܢܬ ܕܝܩܠܬ ܟ̈ܠܡܐ ܕܚܟܝܡܝ̈ܐ، ܐܢܬ ܫܟܠܬ ܥܠ ܟ̈ܠܡܐ ܕܝܘܩܪܝ̈ܐ، ܐܢܬ ܫܡܥܬ ܠܟ̈ܬܒܐ ܘܠܐ ܐܬܝܬ ܠܡܕܒܪܐ ܕܫܘܩܠܐ.
 >
 > ⟪अवामामंस्थास्⟫ - ⟪अव⟫-⟪मन्⟫ Aor. 4  
 > ⟪अवास्थिथास्⟫ - ⟪अव⟫-⟪स्था⟫ Aor. 4  
@@ -172,33 +171,33 @@ Text from: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 ⟪मूर्खास्त्वामववञ्चन्त⟫ ⟪ये⟫ ⟪विग्रहमचीकरन्⟫ ⟪।⟫  
 ⟪अभाणीन्माल्यवान्युक्तमक्षंस्थास्त्वं⟫ ⟪न⟫ ⟪तन्मदात्⟫ ⟪॥१५॥⟫
 
-> The fools who caused the strife have deceived thee. Mālyavant¹ spoke what was fitting. Thou hast not forgiven him on account of thy intoxication.
->
+> אֱלָהַי דְּסַכְלוּ עוֹבַד שׁוּגָא הֲווֹת. מַלְיָבַנְט אֱמַר דְּהוֹגֵי. לָא סְלַחְתּוֹן לוֹה עַל שׁוּגָא דְיִתְרָה.
+> 
 > ⟪अववञ्चन्त⟫ - ⟪वञ्च्⟫ Caus. Aor. 3  
 > ⟪अचीकरन्⟫ - ⟪कृ⟫ Aor. 3  
 > ⟪अभाणीत्⟫ - ⟪भण्⟫ Aor. 5  
 > ⟪अक्षंस्थास्⟫ - ⟪क्षम्⟫ Aor. 4
->
+> 
 > 1 a Rākṣasa
 
 ⟪राघवस्यामुषः⟫ ⟪कान्तामाप्तैरुक्तो⟫ ⟪न⟫ ⟪चार्पिपः⟫ ⟪।⟫  
 ⟪मा⟫ ⟪नानुभूः⟫ ⟪स्वकान्दोषान्मा⟫ ⟪मुहो⟫ ⟪मा⟫ ⟪रुषो⟫ ⟪ऽधुना⟫ ⟪॥१६॥⟫
 
-> Thou hast stolen the beloved of the Raghu-descendant¹. Although it was said to thee by authorities, thou hast not sent her back. Cease failing to perceive thine own faults! Be not confused, chafe not now!
->
+> ܐܢܬ ܫܠܚܬ ܝܘܬܪܐ ܕܡܠܟܐ ܕܢܘܗܪܐ ܕܫܒܬ. ܠܟܢ ܐܝܕܝ ܡܠܟܬ ܠܗ. ܐܢܬ ܠܝܫܪ ܠܗ. ܐܢܬ ܠܝܫܪ ܠܗ. ܐܢܬ ܠܝܫܪ ܠܗ.
+> 
 > ⟪अमुषस्⟫ - ⟪मुष्⟫ Aor. 2  
 > ⟪आर्पि्पस्⟫ - ⟪ऋ⟫ Caus. Aor. 3  
 > ⟪अनुभूस्⟫ - ⟪अनु⟫-⟪भू⟫ Injunctive Aor. 1  
 > ⟪मुहस्⟫ - ⟪मुह्⟫ Injunctive Aor. 2  
 > ⟪रुषस्⟫ - ⟪रुष्⟫ Injunctive Aor. 2
->
+> 
 > 1 Rāma
 
 ⟪तस्याप्यत्यक्रमीत्कालो⟫ ⟪यत्तदाहमवादिषम्⟫ ⟪।⟫  
 ⟪अघानिषत⟫ ⟪रक्षांसि⟫ ⟪परैः⟫ ⟪कोशांस्त्वमव्ययीः⟫ ⟪॥१७॥⟫
 
-> For what I said to thee then, the right time has passed. The Rākṣasas were killed by the enemies. Thou hast lost the treasures.
->
+> ܠܐ ܕܝܠܟ ܩܛܥܬ ܐܪܒܥܝܘܬܐ. ܫܠܚܬ ܪܟ̈ܣܝܐ ܡܢ ܥܕܬܐ. ܫܠܚܬ ܟܘܠܗܝ.
+> 
 > ⟪अत्यक्रमीत्⟫ - ⟪क्रम्⟫ Aor. 5  
 > ⟪अवादिषम्⟫ - ⟪वद्⟫ Aor. 5  
 > ⟪अघानिषत⟫ - ⟪हन्⟫ Passive Aorist 3.pl.  
@@ -207,11 +206,11 @@ Text from: Otto Böhtlingk: Sanskrit-Chrestomathie p. 127f.
 ⟪संधानकारणां⟫ ⟪तेजो⟫ ⟪न्यगभूत्ते⟫ ⟪ऽकृथास्तथा⟫ ⟪।⟫  
 ⟪यत्त्वं⟫ ⟪वैराणि⟫ ⟪कोशं⟫ ⟪च⟫ ⟪सहदण्डमजिग्लपः⟫ ⟪॥१८॥⟫
 
-> Thy power, the foundation for an alliance, has waned. Thou hast acted in such a way that thou didst let thy armies and thy treasure along with political power fade away."
+> قوةُكِ، أساسُ التحالفِ، قد ضعفت. لقد تصرّفتِ بطريقةٍ أدّت إلى زوال جيوشكِ وثروتكِ مع السلطة السياسية."
 >
-> ⟪अभूत्⟫ - ⟪भू⟫ Aor. 1  
-> ⟪अकृथास्⟫ - ⟪कृ⟫ Aor. 4/1  
-> ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ Caus. Aor. 3
+> ⟪अभूत्⟫ - ⟪भू⟫ ماضٍ بسيط، المتكلم 1  
+> ⟪अकृथास्⟫ - ⟪कृ⟫ ماضٍ بسيط، الرابع/المتكلم 1  
+> ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ سببي، ماضٍ بسيط، الغائب 3
 
 ::: media
 ![](/images/uebung099.webp)

@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 23
 
-## 23.1. Der Infinitiv (⟪तुमुन्⟫)
+## 23.1. Infinitivus (⟪tumun⟫)
 
 ::: grammar-box
 **Si vis Sanscritice exprimere quod actus propter alium actum fiat ("ad faciendum"), pro actu, propter quem fit, infinitivus (⟪तुमुन्⟫) adhiberi potest. Infinitivus primo loco finem vel intentionem designat:**
@@ -151,7 +151,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 ⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
 ⟪हन्⟫ 2P ⟪हन्तुम्⟫
 
-## 23.4. Wortliste
+## 23.4. Vocabularium
 
 ⟪समान⟫ ⟪३⟫: aequale
 
@@ -161,7 +161,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 
 ⟪विशेष⟫ m.: peculiaritas, specificatio, differentia specifica
 
-## 23.5. Übung
+## 23.5. Exercitium
 
 A) Radices sequentes infinitivum sine vocali coniunctiva -i- formant. Infinitivum formate, mutatis sonis observatis, ad:
 

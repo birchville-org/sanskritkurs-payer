@@ -9,15 +9,15 @@ status: stable
 ## 33.1. Reduplication (⟪अभ्यास⟫ m.)
 
 * Kelas ketiga kini
-* (as well as certain verbs of other present classes),
-* the perfect,
-* the reduplicated aorist,
-* the frequentative, and
-* the desiderative
+* (serta beberapa kata kerja dari kelas sekarang lainnya),
+* bentuk sempurna,
+* aorist berulang,
+* bentuk sering diulang, dan
+* bentuk keinginan
 
 dibentuk melalui reduplikasi. Bagian dari bentuk yang direduplikasi yang mendahului akar disebut suku kata reduplikasi.
 
-The reduplication syllable consists of (a consonant and) a vowel.
+Silabel reduplicasi terdiri dari (konsonan dan) vokal.
 
 ### 33.1.1. The Reduplicating Consonant
 
@@ -46,11 +46,11 @@ Contoh:
 **⟪धा⟫** 3 "to place"
 * 3.sg.P.Ind.Pres. **⟪दधाति⟫**
 
-**⟪भी⟫** 3 "to fear"
+**⟪भी⟫** 3 "takut"
 * 3.sg.P.Ind.Pres. **⟪बिभेति⟫**
 :::
 ::: grammar-box
-**3. A guttural is reduplicated by the corresponding unaspirated palatal:**
+**3. Sebuah konsonan guttural direplikasi dengan palatal tak bersuara yang sesuai:**
 
 :::
 ::: indent
@@ -87,9 +87,9 @@ Contoh:
 **batang lemah:**
 **akar tingkat-rendah yang direduplikasi + akhiran**
 
-**The rules for the reduplication consonant provided above apply.**
+**Aturan untuk konsonan reduplikasi yang diberikan di atas berlaku.**
 :::
-### 33.2.1. Vokal Reduplikasi dari Kelas Ketiga Kini
+### 33.2.1. Reduplikasi Vokal dari Kelas Ketiga Sekarang
 
 ::: grammar-box
 * **The regular reduplicating vowel is -i-**
@@ -106,15 +106,15 @@ Contoh:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indicative Present** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:br(juhu + ati) | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:br(juhu + ate) |
-| **Imperfect** | ⟪अजुहोत्⟫:br(a-juho-t) | ⟪जुहवुर्⟫:br(a-juho + ur) | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:br(a-juhu + ata) |
-| **Optative** | ⟪जुहुयात्⟫:br(juhu-yā-t) | ⟪जुहुयुर्⟫:br(juhu-y-ur) | \<⟪जुह्वीत⟫\>:br(juhu + ī-ta) | \<⟪जुह्वीरन्⟫\>:br(juhu + ī-ran) |
+| **Indicative Present** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:br(juhu + ati) | \&lt;⟪जुहुते⟫\&gt; | \&lt;⟪जुह्वते⟫\&gt;:br(juhu + ate) |
+| **Imperfect** | ⟪अजुहोत्⟫:br(a-juho-t) | ⟪जुहवुर्⟫:br(a-juho + ur) | \&lt;⟪अजुहुत⟫\&gt; | \&lt;⟪अजुह्वत⟫\&gt;:br(a-juhu + ata) |
+| **Optative** | ⟪जुहुयात्⟫:br(juhu-yā-t) | ⟪जुहुयुर्⟫:br(juhu-y-ur) | \&lt;⟪जुह्वीत⟫\&gt;:br(juhu + ī-ta) | \&lt;⟪जुह्वीरन्⟫\&gt;:br(juhu + ī-ran) |
 :::
 ## 33.3. On the Ablaut of ā
 
 ā can
 
-* on the one hand be the lengthened grade of one of the ablaut series with -a-
+* di satu sisi merupakan tingkat panjang dari salah satu seri ablaut dengan -a-
 * on the other hand be the strong grade in an ablaut series of the ā-group
 
 The two most important ablaut series of the ā-group are:
@@ -175,18 +175,18 @@ Contoh:
 ::: grammar-box
 **Akar ⟪दा⟫ dan⟪धा⟫ direduplikasi dengan vokal -a- dan kehilangan vokal akar dalam batang lemah.**
 
-**Note the aspiration dissimilation rule for ⟪धा⟫!**
+**Perhatikan aturan disimilasi aspirasi untuk ⟪धा⟫!**
 :::
 ::: grammar-box
-**⟪धा⟫** 3U "to place, to fix, to distribute"
+**⟪धा⟫** 3U "menempatkan, memperbaiki, mendistribusikan"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indicative Present** | ⟪दधाति⟫ | ⟪दधति⟫:br(dadh-ati) | ⟪धत्ते⟫:br(dadh-te):br(Explanation: Thumb-Hauschild 1,1 p. 302f.) | ⟪दधते⟫:br(dadh-ate) |
-| **Imperfect** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:br(a + dadh + ta) | ⟪अदधत⟫ |
-| **Optative** | ⟪दध्यात्⟫:br(dadh-yā-t) | ⟪दध्युर्⟫ | ⟪दधीत⟫:br(dadh-ī-ta) | ⟪दधीरन्⟫ |
+| **Indikatif Sekarang** | ⟪दधाति⟫ | ⟪दधति⟫:br(dadh-ati) | ⟪धत्ते⟫:br(dadh-te):br(Penjelasan: Thumb-Hauschild 1,1 hlm. 302f.) | ⟪दधते⟫:br(dadh-ate) |
+| **Imperfectum** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:br(a + dadh + ta) | ⟪अदधत⟫ |
+| **Optatif** | ⟪दध्यात्⟫:br(dadh-yā-t) | ⟪दध्युर्⟫ | ⟪दधीत⟫:br(dadh-ī-ta) | ⟪दधीरन्⟫ |
 :::
-The forms of **⟪दा⟫** are obtained by replacing **dh** with **d** in the paradigm of **⟪धा⟫**. Thus:
+Bentuk-bentuk **⟪दा⟫** diperoleh dengan mengganti **dh** dengan **d** dalam paradigma **⟪धा⟫**. Dengan demikian:
 
 ::: grammar-box
 **⟪दा⟫** 3U "to give"
@@ -231,33 +231,33 @@ Similarly **⟪जुह्वत्⟫** (juhu-at + s)
 
 derived from this:
 
-**⟪दान⟫** n.: giving, gift, generosity
+**⟪दान⟫** n.: memberikan, hadiah, kedermawanan
 :::: media
 ![](/images/lekt3306.webp)
 Fig.: ⟪दानम्⟫
-(Image source: [Details](/en/licenses#lekt3306))
+(Sumber gambar: [Details](/en/licenses#lekt3306))
 ::::
 :::
-**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: to take (into receipt), to take possession of, to take along
+**⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: mengambil (ke dalam penerimaan), menguasai, membawa serta
 
 ::: indent
-**Absol.** ⟪आदाय⟫: with Acc.: in the company of, with
+**Absol.** ⟪आदाय⟫: dengan Akk.: dalam perusahaan, bersama
 :::: media
 ![](/images/lekt3307.webp)
 Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
-(Image source: [Details](/en/licenses#lekt3307))
+(Sumber gambar: [Details](/en/licenses#lekt3307))
 ::::
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: to place, to fix, to allot
+***⟪धा⟫*** 3U ***⟪दधाति⟫***: menempatkan, memperbaiki, mengalokasikan
 
 ::: indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Kaus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫***
+**Fut.** ***⟪धास्यति***  
+**Pass.** ***⟪धीयते***  
+**Kaus.** ***⟪धापयति***  
+**PPP** ***⟪हित*** (!!)  
+**Inf.** ***⟪धातुम्***
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: to direct one’s full attention to something, to collect oneself
+**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: mengarahkan perhatian penuh pada sesuatu, mengumpulkan diri
 
 ::: indent
 derived from this:
@@ -296,14 +296,14 @@ Note:
 
 derived from this:
 
-**⟪भय⟫** n.: fear, dread; danger (the subjective and the objective aspect)
+**⟪भय⟫** n.: ketakutan, kekhawatiran; bahaya (aspek subjektif dan objektif)
 :::: media
 ![](/images/lekt3304.webp)
 Fig.: ⟪भयम्⟫
-(Image source: [Details](/en/licenses#lekt3304))
+(Sumber gambar: [Details](/en/licenses#lekt3304))
 ::::
 :::
-**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: to carry, to bring; to sustain, to nourish
+**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: membawa; menopang, memberi makan
 
 ::: indent
 **Fut.** ⟪भरिष्यति⟫  
@@ -344,14 +344,14 @@ derived from this:
 **Inf.** ⟪हातुम्⟫
 from PPP **⟪हीन⟫**:
 
-**⟪हीनयान⟫** n.: the deficient vehicle (of Buddhism): a derogatory term used by proponents of the "Great Vehicle," the **⟪महायान⟫**; the deficient path (**⟪यान⟫** from **⟪या⟫** 2: to go, to travel). The term ⟪हीनयान⟫ should no longer be used. The surviving form of the ancient Buddhism is called **⟪थेरवाद⟫**.
+**⟪हीनयान⟫** n.: kendaraan yang kurang (dari Buddhisme): istilah derogatori yang digunakan oleh pendukung "Kendaraan Agung", yaitu **⟪महायान⟫**; jalan yang kurang (**⟪यान⟫** dari **⟪या⟫** 2: untuk pergi, untuk bepergian). Istilah ⟪हीनयान⟫ tidak boleh lagi digunakan. Bentuk yang tersisa dari Buddhisme kuno disebut **⟪थेरवाद⟫**.
 :::: media
 ![](/images/lekt3303.webp)
 Fig.: ⟪हीनयानमेव⟫
-(Image source: [Details](/en/licenses#lekt3303))
+(Sumber gambar: [Details](/en/licenses#lekt3303))
 ::::
 :::
-**⟪हु⟫** 3P **⟪जुहोति⟫**: to pour into the fire (as an offering, esp. melted butter)
+**⟪हु⟫** 3P **⟪जुहोति⟫**: menuangkan ke dalam api (sebagai persembahan, khususnya mentega cair)
 
 ::: indent
 **Fut.** ⟪होष्यति⟫  
@@ -369,17 +369,17 @@ Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 **⟪घृत⟫** n.: Clarified butter, Ghee (⟪घी⟫ / گھی / ঘী)
 
 ::: note-box
-"Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
+"Ghee dibuat dengan merebus mentega tawar dalam panci besar hingga semua air menguap dan protein mengendap ke dasar. Mentega yang dimasak dan dimurnikan kemudian disendok untuk menghindari mengganggu padatan susu di dasar panci. Berbeda dengan mentega, ghee dapat disimpan dalam jangka waktu lama tanpa pendinginan, asalkan disimpan dalam wadah kedap udara untuk mencegah oksidasi dan tetap bebas kelembapan. Tekstur, warna, atau rasa ghee bergantung pada sumber susu tempat mentega dibuat. Di India, ghee biasanya dibuat dari air susu kerbau karena cenderung lebih putih daripada susu sapi."
 
 [Source: http://en.wikipedia.org/wiki/Ghee. -- Accessed on 2008-12-26]
 :::
 ## 33.7. Exercise
 
-A) Insert the corresponding forms of the words in parentheses into the following sentence pattern:
+A) Sisipkan bentuk yang sesuai dari kata-kata dalam kurung ke dalam pola kalimat berikut:
 
 ⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 
-B) Insert the corresponding forms of the verbs specified in parentheses in the Indicative Present, Imperfect, and Optative moods:
+[B0] B) Masukkan bentuk-bentuk yang sesuai dari kata kerja yang ditentukan dalam kurung pada modus Indikatif Sekarang, Imperfek, dan Optatif:
 
 ⟪ब्राह्मणो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
 

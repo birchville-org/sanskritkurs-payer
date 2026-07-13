@@ -383,7 +383,7 @@ voir aussi :
 ::: indent
 PPP **⟪अतीत⟫** : n. passé
 :::
-## 41.4. Übung
+## 41.4. Exercice
 
 A) Traduisez les deux proverbes au début de la leçon.
 

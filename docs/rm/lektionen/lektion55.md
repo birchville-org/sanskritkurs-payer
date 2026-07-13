@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 55
 
-## 55.1. Der a-Aorist (Aorist mit Themavokal)
+## 55.1. L'a-Aorist (Aorist cun vucal tematic)
 
 ::: grammar-box
 **L'aorist en -a vegn format sco in imperfect (⟪लङ्⟫) da la 6. classa da presens (⟪तुदादि⟫), uschia:**

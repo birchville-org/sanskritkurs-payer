@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 37
+# ܬܶܪܓܳܡܳܐ 37
 
 A) Answer the following questions in Sanskrit using the words specified in parentheses:
 
@@ -90,14 +90,14 @@ Should a person whose understanding is firmly established enter homelessness, or
 Does the teacher also know the truth?
 
 ⟪३⟫. **⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Are the Śūdras perhaps servants of the twice-born?
+ܐܘܪ̈ܚܐ ܕܣܘܕܪܐ ܗܝܢܘܢ ܠܡܕܒܪ̈ܐ ܕܬܪ̈ܝܢ
 
 ⟪४⟫. **⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 Has the Śūdra perhaps borne the burden?
 
 ---
 
-## Avyayībhāva (Indeclinable Compounds)
+## ܐܒܝܐܝܒܗܐܒܐ (ܡܠܘ̈ܐܐ ܕܠܐ ܡܬܬܓܕܠܝܢ)
 
 C) Determine and translate the following compounds:
 
@@ -127,7 +127,7 @@ Fig.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सु�
 :::
 ---
 
-## Narrative Perfect (The Story of the Elder)
+## ܓܡܝܪܐ ܡܫܰܥܝܳܢܳܐ (ܬܰܫܥܺܝܬܳܐ ܕܩܰܫܺܝܫܳܐ)
 
 Translate into Sanskrit, using exclusively perfect tense verb forms:
 

@@ -567,15 +567,15 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 - **eva** ⟪एव⟫ : subliniază cuvântul anterior
 - **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Spiritual, divin.'
+> **ASURA.** „Spiritual, divin.”
 >
-> În cele mai vechi părți ale Ṛgvedei, acest termen este folosit pentru spiritul suprem și este același cu Ahura al zoroastrienilor. În sensul de 'zeu', a fost aplicat mai multor zei principali, precum Indra, Agni și Varuṇa. Mai târziu, a căpătat un sens complet opus și a început să semnifice, așa cum este acum, un demon sau un inamic al zeilor.
+> În cele mai vechi părți ale Ṛgvedei, acest termen este folosit pentru spiritul suprem și este același cu Ahura al zoroastrienilor. În sensul de „zeu”, a fost aplicat mai multor zei principali, precum Indra, Agni și Varuṇa. Mai târziu, a căpătat un sens complet opus și a început să semnifice, așa cum este acum, un demon sau un inamic al zeilor.
 >
-> Cuvântul se găsește cu această semnificație în părțile ulterioare ale Ṛgvedei, în special în ultima carte, precum și în Atharvaveda. Brāhmaṇele atașează același sens și înregistrează multe conflicte între Asuri și zei. Conform Taittirīya Brāhmaṇa, suflul *(asu)* lui Prajapati a devenit viu, și "cu acel sufl l-a creat pe mine, Asuri." În altă parte a aceleiași lucrări se spune că Prajāpati "s-a făcut gravida. El a creat Asuri din abdomenul său." Śatapatha Brāhmaṇa este de acord cu prima afirmație și afirmă că "a creat Asuri din suflul său inferior." Taittirīya Āraṇyaka reprezintă faptul că Prajāpati a creat zei, oameni, părinți, Gandharva și Apsarase din apă, iar Asurii, Rakṣasas și piśācas au apărut din picăturile vărsate. Declarația lui Manu este că au fost creați de Prajāpatis.
+> Cuvântul se găsește cu această semnificație în părțile ulterioare ale Ṛgvedei, în special în ultima carte, precum și în Atharvaveda. Brāhmaṇele atașează același sens și înregistrează multe conflicte între Asuri și zei. Conform Taittirīya Brāhmaṇa, suflul *(asu)* lui Prajapati a devenit viu, și „cu acel sufl l-a creat pe mine, Asuri.” În altă parte a aceleiași lucrări se spune că Prajāpati „s-a făcut gravida. El a creat Asuri din abdomenul său.” Śatapatha Brāhmaṇa este de acord cu prima afirmație și afirmă că „a creat Asuri din suflul său inferior.” Taittirīya Āraṇyaka reprezintă faptul că Prajāpati a creat zei, oameni, părinți, Gandharva și Apsarase din apă, iar Asurii, Rakṣasas și piśācas au apărut din picăturile vărsate. Declarația lui Manu este că au fost creați de Prajāpatis.
 >
-> Conform Viṣṇu Purāṇa, aceștia au fost produși din șoldul lui Brahma (prajāpati). Relatarea Vāyu Purāṇa este: "Asurii au fost produși inițial ca fii din șoldul său (al lui Prajāpati). *Asu* este declarat de Brāhmaṇa ca însemnând sufl. Din acesta au fost produși acești ființe; de aceea sunt Asuri." Cuvântul a fost folosit de mult timp ca nume general pentru inamicii zeilor, inclusiv Daityas și Danavas și alți descendenți ai Kaśyapa, dar nu incluzând Rakṣasas descendenți din Pulastya.
+> Conform Viṣṇu Purāṇa, aceștia au fost produși din șoldul lui Brahma (prajāpati). Relatarea Vāyu Purāṇa este: „Asurii au fost produși inițial ca fii din șoldul său (al lui Prajāpati). *Asu* este declarat de Brāhmaṇa ca însemnând sufl. Din acesta au fost produși acești ființe; de aceea sunt Asuri.” Cuvântul a fost folosit de mult timp ca nume general pentru inamicii zeilor, inclusiv Daityas și Danavas și alți descendenți ai Kaśyapa, dar nu incluzând Rakṣasas descendenți din Pulastya.
 >
-> În acest sens, s-a găsit o derivare diferită pentru el: sursa nu mai este asu, 'sufl', ci inițiala *a* este luată ca prefix negativ, iar *asura* semnifică 'nu un zeu;' de aceea, conform unora, a apărut cuvântul *sura*, folosit comun pentru 'un zeu.'"
+> În acest sens, s-a găsit o derivare diferită pentru el: sursa nu mai este asu, „sufl”, ci inițiala *a* este luată ca prefix negativ, iar *asura* semnifică „nu un zeu;” de aceea, conform unora, a apărut cuvântul *sura*, folosit comun pentru „un zeu.””
 >
 > [Sursă: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
@@ -2844,7 +2844,7 @@ Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
 ⟪शास्⟫ 2P ⟪शास्ति⟫ : mustrare, stăpânire, poruncă, învățătură
 
 ::: indent
-are forma slabă de prezent **⟪शिष्⟫** : **⟪शिष्मस्⟫**, dar a 3.pl. P. are forma puternică: **⟪शासति⟫** (!! sufix -ati) alături de ocazional **⟪शासन्ति⟫**. **⟪अशासुर्⟫**. De asemenea, întregul ⟪आत्मनेपद⟫ are, în măsura în care apare, forma puternică: **⟪शास्ते⟫**
+forma slabă de prezent **⟪शिष्⟫** : **⟪शिष्मस्⟫**, dar a 3.pl. P. are forma puternică: **⟪शासति⟫** (!! sufix -ati) alături de ocazional **⟪शासन्ति⟫**. **⟪अशासुर्⟫**. De asemenea, întregul ⟪आत्मनेपद⟫ are, în măsura în care apare, forma puternică: **⟪शास्ते⟫**
 
 Perf I **⟪शशास⟫**, **⟪शशासुर्⟫**  
 Fut. **⟪शासिष्यति⟫**  

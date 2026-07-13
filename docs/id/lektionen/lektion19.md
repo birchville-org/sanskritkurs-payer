@@ -13,42 +13,42 @@ lesson_id: 19
 
 :::
 ::: indent
-**Relative Pronoun -- Relative Clause, which contains the noun to which the relative clause refers -- (Demonstrative Pronoun) -- Main Clause**
+**Kata Ganti Relatif -- Klausa Relatif, yang berisi kata benda yang menjadi rujukan klausa relatif -- (Kata Ganti Penunjuk) -- Klausa Utama**
 :::
-**The relative clause can also follow the main clause, but it cannot be inserted into the main clause.**
+**Klausa relatif juga dapat mengikuti klausa utama, tetapi tidak dapat disisipkan ke dalam klausa utama.**
 
-**The relative pronoun and the referent, which, in contrast to German, stands in the relative clause, are in the case that the relative clause syntactically requires. The demonstrative pronoun is in the case that the main clause syntactically requires.**
+**Kata ganti relatif dan rujukannya, yang berbeda dengan bahasa Jerman, berada di dalam klausa relatif, berada pada kasus yang secara sintaksis diperlukan oleh klausa relatif. Kata ganti penunjuk berada pada kasus yang secara sintaksis diperlukan oleh klausa utama.**
 
 Contoh-contoh:
 
 Catatan: Dalam klausa relatif yang berlaku umum, optatif sering digunakan sebagai ganti indikatif. Banyak dari contoh-contoh kita oleh karena itu sebaiknya dalam optatif.
 
-**1. The agent (⟪कर्तृ⟫) of the sentence is specified further by a relative clause:**
+**1. Subjek (⟪कर्तृ⟫) dari kalimat ditentukan lebih lanjut oleh klausa relatif:**
 
 ::: indent
-⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪स⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ =  ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ = ⟪येन⟫ ⟪नरेण⟫ ⟪पुण्यम्⟫ ⟪क्रियते⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ etc. = "A man who performs meritorious deeds goes to heaven."
+⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪स⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ =  ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ = ⟪येन⟫ ⟪नरेण⟫ ⟪पुण्यम्⟫ ⟪क्रियते⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ dst. = "Seorang pria yang melakukan perbuatan mulia pergi ke surga."
 :::
-**2. The direct object (⟪कर्म⟫) of the main clause is specified further by the relative clause:**
+**2. Objek langsung (⟪कर्म⟫) dari klausa utama ditentukan lebih lanjut oleh klausa relatif:**
 
 ::: indent
-⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "The gods protect a Brahmin who sacrifices to them as the patron of the sacrifice."
+⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "Para dewa melindungi seorang Brahmin yang berkorban kepada mereka sebagai pelindung upacara."
 :::
-**3. The specification of a noun of the main clause stands in the relative clause:**
+**3. Penentuan kata benda dari klausa utama terdapat dalam klausa relatif:**
 
 ::: indent
-⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "Sons of men who do evil do not obtain wealth."
+⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "Anak-anak pria yang melakukan kejahatan tidak memperoleh kekayaan."
 :::
-**4. Relative pronoun and referent stand in the genitive (⟪षष्ठी⟫):**
+**4. Kata ganti relatif dan rujukan terdapat dalam genitif (⟪षष्ठी⟫):**
 
 ::: indent
-⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "The man is not happy whose sons do evil."
+⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "Pria itu tidak bahagia karena puteranya berbuat jahat."
 :::
-**5. Relative pronoun and referent stand in the instrumental (⟪तृतीया⟫):**
+**5. Kata ganti relatif dan rujukan berada dalam instrumenatif (⟪तृतीया⟫):**
 
 ::: indent
-⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "They hate the enemy who has conquered / captured their village."
+⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "Mereka membenci musuh yang telah menaklukkan / merebut desa mereka."
 :::
-**6. Relative pronoun and referent stand in the accusative (⟪द्वितीया⟫):**
+**6. Kata ganti relatif dan rujukan berada dalam akusatif (⟪द्वितीया⟫):**
 
 ::: indent
 ⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = "A man whom the goddess protects attains happiness."
@@ -76,12 +76,12 @@ Catatan: Dalam klausa relatif yang berlaku umum, optatif sering digunakan sebaga
 :::
 ## 19.3. Word List
 
-**⟪अर्थ⟫ m.:** purpose, goal, meaning (of a word), wealth, property, fortune. **⟪अर्थम्⟫** (Acc.), **⟪अर्थेन⟫** (Instr.) with Gen. or as the second member of a Tatpuruṣa: for the sake of ..., in order to.
+**⟪अर्थ⟫ m.:** tujuan, sasaran, makna (sebuah kata), kekayaan, harta, rejeki. **⟪अर्थम्⟫** (Akk.), **⟪अर्थेन⟫** (Instr.) dengan Gen. atau sebagai anggota kedua dari Tatpuruṣa: demi ..., agar.
 
-**⟪अर्थ⟫** is one of the three purposes of life (**⟪पुरुषार्थ⟫**), as described in secular and religious literature:
+**⟪अर्थ⟫** adalah salah satu dari tiga tujuan hidup (**⟪पुरुषार्थ⟫**), sebagaimana dijelaskan dalam literatur sekuler dan keagamaan:
 
 ::: indent
-**⟪धर्म⟫ m.:** attainment of merit through doing what is right, or at least avoiding evil, which would result from non-observance of Dharma
+**⟪धर्म⟫ m.:** perolehan kebajikan melalui melakukan apa yang benar, atau setidaknya menghindari kejahatan, yang akan timbul dari ketidakpatuhan terhadap Dharma
 
 **⟪अर्थ⟫ m.:** purposeful behavior, attainment of prosperity
 
@@ -111,15 +111,15 @@ from **⟪स्था⟫** :
 ::: indent
 **⟪धनगर्भ⟫ 3:** "whose interior is money = in which money is located"
 
-**⟪गर्भगृह⟫ n.:** the innermost sanctum of a Hindu temple, containing the most important deity image of the temple (for the construction of Hindu temples see: Volwahsen, A.: India : Buildings of Hindus, Buddhists and Jains. -- Munich, 1968)
+**⟪गर्भगृह⟫ n.:** ruang terdalam kuil Hindu, yang berisi gambar dewa terpenting kuil tersebut (untuk konstruksi kuil Hindu lihat: Volwahsen, A.: India : Bangunan Hindu, Buddha dan Jain. -- München, 1968)
 :::: media
 ![](/images/lekt1901.webp)
 Fig.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
-(Image source: [Details](/en/licenses#lekt1901))
+(Sumber gambar: [Details](/en/licenses#lekt1901))
 ::::
 :::
-**⟪वारिद⟫ m.:** water-pourer = rain cloud
+**⟪वारिद⟫ m.:** pemercik air = awan hujan
 
 ::: media
 ![](/images/lekt1902.jpg)
@@ -141,10 +141,10 @@ from this:
 ::: media
 ![](/images/lekt1904.webp)
 Fig.: ⟪छत्त्रम्⟫
-"_Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-(Image source: [Details](/en/licenses#lekt1904))
+"_Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), dalam pakaian tradisional, adalah kebiasaan di bagian selatan Kerala. _Onappottan_ mengunjungi rumah-rumah selama festival _onam_ dan memberikan berkah. Baru-baru ini, _onappottan_ telah menjadi pemandangan langka, terbatas di desa-desa."
+(Sumber gambar: [Details](/en/licenses#lekt1904))
 :::
-**⟪पण्डित⟫ m.:** scholar, sage ; 3: clever, proficient (in)
+**⟪पण्डित⟫ m.:** sarjana, resi ; 3: cerdik, terampil (dalam)
 
 ::: media
 ![](/images/lekt1903.jpg)
@@ -164,7 +164,7 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** find
 
-**⟪भार्या⟫ f.:** that which is to be preserved = wife
+**⟪भार्या⟫ f.:** yang harus dipelihara = istri
 
 **⟪प्रिय⟫ 3:** dear, pleasant
 
@@ -172,7 +172,7 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **⟪बान्धव⟫ m.:** relative
 
-**⟪हि⟫ :** for, indeed (must never stand at the beginning of a sentence)
+**⟪हि⟫ :** untuk, karena memang (tidak boleh berada di awal kalimat)
 
 
 
@@ -186,7 +186,7 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 3. The poet praises the Kṣatriya, whose wealth he desires.
 
-4. Fire burns the house of the man who does not honor Agni with a sacrifice.
+4. Api membakar rumah orang yang tidak menghormati Agni dengan korban.
 
 5. The tiger-like man kills the Kṣatriya warriors who have defeated Rāma (Passive).
 
@@ -208,7 +208,7 @@ Explanation: ⟪वारि⟫ Nom., Acc. sg. of ⟪वारि⟫ n.: water
 ⟪धर्मार्थकामसंयोगं⟫  
 ⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫
 :::
-Explanation: ⟪यथाकालम्⟫ Avyayībhāva compound: at the right time; whenever the right time for it is present.
+Penjelasan: ⟪यथाकालम्⟫ Majemuk Avyayībhāva: pada waktu yang tepat; kapan pun saat yang tepat untuk itu hadir.
 
 ::: indent
 ⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
@@ -222,7 +222,7 @@ Explanation: ⟪यथाकालम्⟫ Avyayībhāva compound: at the right
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫
 ::::
 :::
-Explanation: ⟪पुमान्⟫ Nom. sg. of ⟪पुंस्⟫ "man" ; ⟪लोके⟫ Locative sg. of ⟪लोक⟫ m.: in the ...
+Penjelasan: ⟪पुमान्⟫ Nom. sg. dari ⟪पुंस्⟫ "man" ; ⟪लोके⟫ Lokatif sg. dari ⟪लोक⟫ m.: di dalam ...
 
 ::: deleteme-box
 
@@ -235,5 +235,5 @@ Explanation: ⟪पुमान्⟫ Nom. sg. of ⟪पुंस्⟫ "man" ; 
 
 **lekt1903:** ⟪१९५९⟫ [Image source: Wikipedia, Public domain]
 
-**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages." [Image source: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Accessed on 2008-12-08. -- Creative Commons License (Attribution)]
+**lekt1904:** "_Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), dalam pakaian tradisional, adalah kebiasaan di bagian selatan Kerala. _Onappottan_ mengunjungi rumah-rumah selama festival _onam_ dan memberikan berkah. Dalam beberapa tahun terakhir, _onappottan_ telah menjadi pemandangan langka, terbatas di desa-desa." [Sumber gambar: Kapten Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Diakses pada 2008-12-08. -- Lisensi Creative Commons (Atribusi)]
 :::

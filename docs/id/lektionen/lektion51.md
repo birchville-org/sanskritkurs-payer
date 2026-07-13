@@ -12,12 +12,12 @@ status: stable
 ## 51.1. ⟪उपपद⟫-Compounds
 
 ::: grammar-box
-**⟪उपपद⟫-Compounds (⟪उपपद⟫ n. "accompanying word") are ⟪तत्पुरुष⟫ with a verbal noun as the second member, which occurs only as the second member of compounds, not as an independent, standalone word. ⟪उपपद⟫ are formed with the ⟪कृत्⟫ suffixes**
+**Kompositum ⟪उपपद⟫ (⟪उपपद⟫ n. "kata pendamping") adalah ⟪तत्पुरुष⟫ dengan nomina verbal sebagai anggota kedua, yang hanya muncul sebagai anggota kedua dalam kompositum, bukan sebagai kata yang berdiri sendiri secara independen. ⟪उपपद⟫ dibentuk dengan sufiks ⟪कृत्⟫**
 * **-Ø**
 * **-a**
 * **-t**
 
-**They are nomina agentis, i.e., they denote an agent (⟪कर्तृ⟫) who performs the action designated by the underlying root.**
+**Kata-kata ini adalah nomina agentis, yaitu menunjukkan pelaku (⟪कर्तृ⟫) yang melakukan tindakan yang ditunjukkan oleh akar kata yang mendasarinya.**
 
 **Such compounds are not resolved by native commentators through nominal combinations, but rather through verbal forms:**
 
@@ -53,7 +53,7 @@ b) ⟪कृत्⟫ suffix -t
 
 :::
 ::: indent
-⟪कुलक्षयकृत्⟫ 3 "bringing about the destruction of the family"
+⟪कुलक्षयकृत्⟫ 3 "menyebabkan kehancuran keluarga"
 
 ⟪पापकृत्⟫ 3 "doing evil, wrongdoer"
 :::
@@ -110,12 +110,12 @@ Fig.: ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪ह�
 ### 51.2.1. Tribes on non-palatal plosive
 
 ::: grammar-box
-**The usual sound change laws apply, i.e.**
-* **in word-final position stands the corresponding voiceless non-aspirate**
-* **before the -su of the locative plural, the word-final position is first replaced by the corresponding voiceless non-aspirate, then the corresponding sound changes occur**
-* **before a voiced consonant, the word-final position is replaced by the corresponding voiced non-aspirate.**
+**Hukum perubahan bunyi yang biasa berlaku, yaitu**
+* **dalam posisi akhir kata terdapat suara tak bersuara non-aspirat yang sesuai**
+* **sebelum -su dari lokatif jamak, posisi akhir kata pertama-tama diganti dengan suara tak bersuara non-aspirat yang sesuai, kemudian perubahan bunyi yang sesuai terjadi**
+* **sebelum konsonan bersuara, posisi akhir kata diganti dengan suara tak bersuara non-aspirat yang sesuai.**
 :::
-Examples:
+Contoh:
 
 ⟪शत्रुजित्⟫ 3 "slaying enemies"
 
@@ -155,14 +155,14 @@ Complete paradigms in Kielhorn, Grammar p. 16ff.
 ### 51.2.2. Tribes with palatal stop (c, ch, j), ś, ṣ
 
 ::: grammar-box
-**Before a vowel-initial ending, the final sound of the stem remains unchanged.**
+**Sebelum akhiran yang diawali vokal, bunyi terakhir dari stem tetap tidak berubah.**
 
 **Before all other endings:**
 
-* **final -c and -j are replaced by k, and the stem is then treated as if it ended in -k**
-* **in some words (list in Kielhorn, Grammar p. 18), final -j is replaced by -ṭ**
-* **final -ch is replaced by -ṭ**
-* **final -ś and -ṣ are replaced by -ṭ, with some exceptions. In the exceptional cases, -ś and -ṣ are replaced by -k**
+* **final -c dan -j diganti dengan k, dan stem kemudian diperlakukan seolah-olah berakhir dengan -k**
+* **dalam beberapa kata (daftar dalam Kielhorn, Grammar hlm. 18), final -j diganti dengan -ṭ**
+* **final -ch diganti dengan -ṭ**
+* **final -ś dan -ṣ diganti dengan -ṭ, dengan beberapa pengecualian. Dalam kasus-kasus pengecualian tersebut, -ś dan -ṣ diganti dengan -k**
 
 **i.e.**
 
@@ -258,10 +258,10 @@ Fig.: ⟪परिव्राट्⟫
 ::: grammar-box
 **Before a vowel-initial ending, the -h remains unchanged.**
 
-**Before all other endings**
-* **-h is normally replaced by -ḍh**
-* **if the underlying root begins with d-, -h is replaced by -gh. The same applies to some other words optionally or obligatorily (see compilation in Kielhorn, Grammar §80,2)**
-* **(in the final position of the root noun, -h is replaced by -dh)**
+**Sebelum akhiran lainnya**
+* **-h biasanya diganti dengan -ḍh**
+* **jika akar dasar dimulai dengan d-, -h diganti dengan -gh. Hal yang sama berlaku untuk beberapa kata lain secara opsional atau wajib (lihat kompilasi dalam Kielhorn, Tata Bahasa §80,2)**
+* **(dalam posisi akhir dari kata benda akar, -h diganti dengan -dh)**
 
 **After these replacements, the stem is further treated as if it ended in -ḍh, -gh, or -dh.**
 
@@ -310,7 +310,7 @@ Loc. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 ## 51.3. Sandhi of initial h-
 
 ::: grammar-box
-**Before an initial h-, a preceding stop is replaced by the corresponding voiced non-aspirated consonant, and the initial h- is replaced by the corresponding voiced aspirated consonant:**
+**Sebelum h- awal, konsonan henti sebelumnya diganti dengan konsonan bersuara non-aspirasi yang sesuai, dan h- awal diganti dengan konsonan bersuara aspirasi yang sesuai:**
 
 :::
 ::: indent
@@ -323,7 +323,7 @@ Loc. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 ## 51.4. Sandhi of initial ch-
 
 ::: grammar-box
-**Initial ch- is replaced by cch- after a short vowel, after ⟪मा⟫ "not" and after ⟪आ⟫ "to":**
+**Awalan ch- awal diganti dengan cch- setelah vokal pendek, setelah ⟪मा⟫ "tidak" dan setelah ⟪आ⟫ "kepada":**
 
 :::
 ::: indent
@@ -340,7 +340,7 @@ e.g. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 :::
 ## 51.6. Word List
 
-⟪अजिन⟫ n.: antelope skin, esp. the skin of the black antelope (nilgai: _Antilope cervicapra_ L. ). Originally occurred throughout the entire Indian subcontinent from Punjab and Sindh to Bengal and from Nepal to Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) See:
+⟪अजिन⟫ n.: kulit rusa, khususnya kulit rusa hitam (nilgai: _Antilope cervicapra_ L. ). Awalnya terdapat di seluruh anak benua India dari Punjab dan Sindh hingga Bengal dan dari Nepal ke Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Lihat:
 
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore [u.a.] : Johns Hopkins Univ. Pr., 1999. -- 2 vols. -- ISBN 0-8018-5789-9. -- Vol. 2. -- P. 1193f.
 
@@ -355,19 +355,19 @@ Fig.:
 
 ⟪अरण्य⟫ n.: wilderness, forest
 
-⟪ऋतु⟫ m.: periodic event, season, time period, menstruation, time during which the woman is fertile and has a right to intercourse with her husband.
+⟪ऋतु⟫ m.: peristiwa berkala, musim, periode waktu, menstruasi, masa ketika wanita subur dan memiliki hak untuk berhubungan intim dengan suaminya.
 
 ::: indent
-Regarding ⟪ऋतु⟫ see Manu III, 45-48: according to this, ⟪ऋतु⟫ lasts 16 days (according to the alternative translation: 20 days) from the beginning of menstruation, sexual intercourse is prohibited on the first four days after the start of bleeding (According to the alternative translation: on the first eight (4 + 4) days), as well as on the 11th (resp. 15th) and 13th (resp. 18th) day. On even days the woman conceives sons, on odd days daughters. For the following, a ⟪ऋतु⟫ of a total of 16 days (not the alternative translation) is assumed, as most indigenous commentaries do, and which was therefore the prevailing view.
+Mengenai ⟪ऋतु⟫ lihat Manu III, 45-48: menurut ini, ⟪ऋतु⟫ berlangsung 16 hari (menurut terjemahan alternatif: 20 hari) sejak awal menstruasi, hubungan seksual dilarang pada empat hari pertama setelah perdarahan dimulai (menurut terjemahan alternatif: pada delapan hari pertama (4 + 4)), serta pada hari ke-11 (atau ke-15) dan hari ke-13 (atau ke-18). Pada hari genap wanita mengandung putra, pada hari ganjil putri. Untuk penjelasan selanjutnya, diasumsikan ⟪ऋतु⟫ total 16 hari (bukan terjemahan alternatif), sebagaimana dilakukan oleh sebagian besar komentar pribumi, dan yang karenanya merupakan pandangan yang berlaku umum.
 
-Since ovulation occurs 14 days before the start of menstruation, with this determination of the fertile period, fertility is almost "guaranteed" for an interval between menstruations of 19 to 30 days. The prohibited days (11th and 13th) improve the probability of sexual intercourse on the 12th and 14th days, i.e., the probability of conception with a cycle of 28 days (the lifespan of sperm in the woman is approx. 3 days). These regulations are as it were a positive application of Knaus-Ogino.
+Karena ovulasi terjadi 14 hari sebelum awal menstruasi, dengan penentuan periode subur ini, kesuburan hampir "terjamin" untuk interval antara menstruasi 19 hingga 30 hari. Hari-hari yang dilarang (hari ke-11 dan ke-13) meningkatkan kemungkinan hubungan seksual pada hari ke-12 dan ke-14, yaitu kemungkinan konsepsi dengan siklus 28 hari (umur hidup sperma pada wanita sekitar 3 hari). Peraturan-peraturan ini seolah-olah merupakan aplikasi positif dari Knaus-Ogino.
 :::: media
 ![](/images/lekt5106.jpg)
 Fig.: ⟪ऋतुः⟫
-(Image source: [Details](/en/licenses#lekt5106))
+(Sumber gambar: [Details](/en/licenses#lekt5106))
 ::::
 :::
-⟪एकत्र⟫ Adv.: in one place
+⟪एकत्र⟫ Adv.: di satu tempat
 
 ⟪जटा⟫ f.: hair plait (ascetic hairstyle)
 
@@ -402,9 +402,9 @@ Absol. -⟪शिष्य⟫
 ⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : distinguish
 
 ::: indent
-Pass. ⟪विशिष्यते⟫ : differ from (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), be better than (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), be the best among (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
+Pass. ⟪विशिष्यते⟫ : berbeda dari (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), lebih baik daripada (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), yang terbaik di antara (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
 :::
-⟪समान⟫ 3: of the same kind, equal, similar; m.: contemporary
+⟪समान⟫ 3: sejenis, sama, serupa; m.: sezaman
 
 ⟪स्व⟫ 3: own, his (my, your etc.) Declined like ⟪सर्व⟫. In Abl.Loc.sg.m.n and in Nom.pl.m it can also be declined like ⟪देव⟫:
 
@@ -585,7 +585,7 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 Explanation: -⟪अभिषेकौ⟫ Nom.Acc.Voc.Dual.masc. (Dualdvandva)
 
-⟪२⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟫ On the necessity of respecting the ⟪वर्नाश्रमधर्म⟫
+⟪२⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟩ Tentang pentingnya menghormati ⟪वर्नाश्रमधर्म⟫
 
 ::: indent
 ⟪तस्मात्स्वधर्मं⟫ ⟪भूतानाम्⟫
@@ -597,11 +597,11 @@ Explanation: -⟪अभिषेकौ⟫ Nom.Acc.Voc.Dual.masc. (Dualdvandva)
 ⟪त्रय्याभिरक्षितो⟫ ⟪लोकः⟫
 ⟪प्रसीदति⟫ ⟪न⟫ ⟪सीदति⟫ ⟪॥१७॥⟫
 :::
-⟪३⟫. ⟪बाण⟫ (7th cent. CE): ⟪कादम्बरी⟫ ed. K.P. Parab, 1896, p. 65ff.: Reflections of the Parrot ⟪वैशम्पायन⟫ on the life of a hunter:
+⟪३⟫. ⟪बाण⟫ (abad ke-7 M): ⟪कादम्बरी⟫ ed. K.P. Parab, 1896, hlm. 65ff.: Renungan Sang Kakak ⟪वैशम्पायन⟫ tentang kehidupan seorang pemburu:
 
 ⟪आसीच्च⟫ ⟪मे⟫ ⟪मनसि⟫ -- ⟪अहो⟫ ⟪मोहप्रायमेतेषां⟫ ⟪जीवितं⟫ ⟪साधुजनगर्हितं⟫ ⟪च⟫ ⟪चरितम्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ ⟪।⟫ ⟪पुरुषपिशितोपहारे⟫ ⟪धर्मबुद्धिः⟫ , ⟪अहारः⟫ ⟪साधुजनगर्हितो⟫ ⟪मधुमांसादिः⟫ , ⟪श्रमो⟫ ⟪मृगया⟫ , ⟪शास्त्रं⟫ ⟪शिवारुतम्⟫ , ⟪समुपदेष्टारः⟫ ⟪सद्सतां⟫ ⟪कौशिकाः⟫ , ⟪प्रज्ञा⟫ ⟪शकुनिज्ञानम्⟫ , ⟪परिचिताः⟫ ⟪श्वानः⟫ , ⟪राज्यं⟫ ⟪शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि⟫ ⟪क्रुरकर्मसाधनानि⟫ ⟪धनूंषि⟫ , ⟪सहाया⟫ ⟪विषदिग्धमुखा⟫ ⟪भुजंगा⟫ ⟪इव⟫ ⟪सायकाः⟫ , ⟪गीतमुत्सादकारि⟫ ⟪मुग्धमृगाणाम्⟫ , ⟪कलत्राणि⟫ ⟪बन्दीगृहीताः⟫ ⟪परयोषितः⟫ , ⟪क्रूरात्मभिः⟫ ⟪शार्दूलैः⟫ ⟪सह⟫ ⟪संवासः⟫ , ⟪पशुरुधिरेण⟫ ⟪देवतार्चनम्⟫ , ⟪मांसेन⟫ ⟪बलिकर्म⟫ , ⟪चौर्येण⟫ ⟪जीवनम्⟫ , ⟪भूषणानि⟫ ⟪भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव⟫ ⟪कानने⟫ ⟪निवसन्ति⟫ ⟪तदेवोत्ख्यातमूलमशेषतः⟫ ⟪कुर्वत⟫ ⟪इति⟫ ⟪चिन्तयत्येव⟫ ⟪मयि⟫ ⟪शबरसेनापतिः⟫ ⟪समुपाविशत्⟫ ⟪॥⟫
 
-⟪४⟫. Commentary of the ⟪भानुचन्द्र⟫ (16th cent.) on the preceding section of the ⟪कादम्बरी⟫ (this exercise should be translated under the guidance of a teacher. If such is not available, it may be skipped)
+⟪४⟫. Komentar dari ⟪भानुचन्द्र⟫ (abad ke-16) pada bagian sebelumnya dari ⟪कादम्बरी⟫ (latihan ini harus diterjemahkan di bawah bimbingan seorang guru. Jika tidak tersedia, dapat dilewati)
 
 ⟪आसीच्चेति⟫ ⟪।⟫ ⟪मे⟫ ⟪मम⟫ ⟪मनसि⟫ ⟪चित्त⟫ ⟪आसीद्बभूव⟫ ⟪।⟫ ⟪खेद⟫ ⟪इति⟫ ⟪शेषः⟫ ⟪।⟫ ⟪तदेव⟫ ⟪दर्शयति⟫ -- ⟪अहो⟫ ⟪इत्यादिना⟫ ⟪।⟫ ⟪अहो⟫ ⟪इत्याश्चर्ये⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪भिल्लानां⟫ ⟪जीवितं⟫ ⟪प्राणितं⟫ ⟪मोहो⟫ ⟪ऽज्ञानं⟫ ⟪प्रायं⟫ ⟪प्रचुरं⟫ ⟪यत्र⟫ ⟪तादृशम्⟫ ⟪।⟫ ⟪चः⟫ ⟪पुनरर्थे⟫ ⟪।⟫ ⟪चरितमाचरणं⟫ ⟪साधुजनैः⟫ ⟪सज्जनजनैर्गर्हितं⟫ ⟪निन्दितम्⟫ ⟪।⟫ ⟪तदेव⟫ ⟪विशेषतो⟫ ⟪दर्शयति⟫ -- ⟪तथा⟫ ⟪हीति⟫ ⟪।⟫ ⟪पुरुषेति⟫ ⟪।⟫ ⟪पुरुषस्य⟫ ⟪पुंसो⟫ ⟪यत्पिशितं⟫ ⟪मांसं⟫ ⟪तस्य⟫ ⟪य⟫ ⟪उपहारो⟫ ⟪भगवत्यै⟫ ⟪नैवेद्यदर्शनं⟫ ⟪तस्मिन्धर्मबुद्धिः⟫ ⟪श्रेयोधीः⟫ ⟪।⟫ ⟪आहार⟫ ⟪इति⟫ ⟪।⟫ ⟪आहारः⟫ ⟪प्रत्यवसानं⟫ ⟪साधुजनैर्गर्हितो⟫ ⟪निन्दितो⟫ ⟪मधुमांसादिर्मधुः⟫ ⟪मद्यं⟫ ⟪माक्षिकं⟫ ⟪वा⟫ ⟪।⟫ ⟪मांसं⟫ ⟪प्रतीतम्⟫ ⟪।⟫ ⟪ते⟫ ⟪आदौ⟫ ⟪यस्येति⟫ ⟪बहुव्रीहिः⟫ ⟪।⟫ ⟪आदिशब्दात्कन्दादिपरिग्रहः⟫ ⟪।⟫ ⟪श्रम⟫ ⟪इति⟫ ⟪।⟫ ⟪श्रमः⟫ ⟪शक्तिसाधनायासो⟫ ⟪मृगयाखेटकः⟫ ⟪।⟫ ⟪शास्त्रमिति⟫ ⟪।⟫ ⟪शिवा⟫ ⟪सृगाली⟫ ⟪तस्य⟫ ⟪रुतं⟫ ⟪शब्दितं⟫ ⟪शास्त्रमुच्चस्वरवेदपाठः⟫ ⟪।⟫ ⟪प्रबोधजनकत्वसाम्यात्तदुपमानम्⟫ ⟪।⟫ ⟪सदिति⟫ ⟪।⟫ ⟪सदसतां⟫ ⟪शुभाशुभानां⟫ ⟪समुपदेष्टारो⟫ ⟪बोधकाः⟫ ⟪कौशिका⟫ ⟪उलूकाः⟫ ⟪।⟫ ⟪प्रज्ञेति⟫ ⟪।⟫ ⟪शकुनयः⟫ ⟪पत्त्रिणस्तेषां⟫ ⟪स्थूलमहत्त्वादिना⟫ ⟪ज्ञानं⟫ ⟪तदेव⟫ ⟪प्रज्ञा⟫ ⟪विवेकबुद्धिः⟫ ⟪।⟫ ⟪परीति⟫ ⟪।⟫ ⟪श्वानः⟫ ⟪सारमेयाः⟫ ⟪परिचिता⟫ ⟪विश्वासपालत्राणि⟫ ⟪।⟫ ⟪राज्यमिति⟫ ⟪।⟫ ⟪शून्यासु⟫ ⟪जनरहितासु⟫ ⟪विन्ध्याटवीषु⟫ ⟪राज्यं⟫ ⟪स्वामित्वम्⟫ ⟪।⟫ ⟪आपानकेति⟫ ⟪।⟫ ⟪उत्सवः⟫ ⟪संतुष्टिकार्यं⟫ ⟪तदेवापानमेवापानकम्⟫ ⟪।⟫ ⟪स्वार्थे⟫ ⟪कः⟫ ⟪।⟫ ⟪पानगोष्ठिका⟫ ⟪।⟫ ⟪मित्राणीति⟫ ⟪।⟫ ⟪क्रूरं⟫ ⟪यत्कर्म⟫ ⟪तत्साधनानि⟫ ⟪तद्धेतुभूतानि⟫ ⟪धनूंष्येव⟫ ⟪चापान्येव⟫ ⟪मित्राणि⟫ ⟪सहृदः⟫ ⟪।⟫ ⟪हितचिन्तकानीति⟫ ⟪यावत्⟫ ⟪।⟫ ⟪सहाया⟫ ⟪इति⟫ ⟪।⟫ ⟪विषेण⟫ ⟪दिग्धं⟫ ⟪मुखमाननं⟫ ⟪येषामेवंविधाः⟫ ⟪सायका⟫ ⟪बाणास्त⟫ ⟪एव⟫ ⟪सहाया⟫ ⟪इष्टकार्यकर्तृत्वात्साहाय्यकारिणः⟫ ⟪।⟫ ⟪क⟫ ⟪इव⟫ ⟪।⟫ ⟪भुजंगाः⟫ ⟪सर्पा⟫ ⟪इव⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪विषदिग्धमुखत्वं⟫ ⟪स्वाभाविकम्⟫ ⟪।⟫ ⟪तेषामौपाधिकमिति⟫ ⟪भावः⟫ ⟪।⟫ ⟪गीतमिति⟫ ⟪।⟫ ⟪मुग्धा⟫ ⟪अनभिज्ञा⟫ ⟪ये⟫ ⟪मृगा⟫ ⟪हरिणास्तेषामुत्साहकारि⟫ ⟪स्तब्धताविधायि⟫ ⟪गीतं⟫ ⟪गानम्⟫ ⟪।⟫ ⟪कलत्रेति⟫ ⟪।⟫ ⟪परयोषितो⟫ ⟪ऽन्यस्त्रिय⟫ ⟪एव⟫ ⟪बन्दी⟫ ⟪ग्रहकस्तद्रूपत्वेन⟫ ⟪गृहीताः⟫ ⟪स्त्रीकृताः⟫ ⟪कलत्राणि⟫ ⟪स्वपत्न्यः⟫ ⟪।⟫ ⟪क्रूरेति⟫ ⟪।⟫ ⟪क्रूरात्मभिर्दुष्टात्मभिः⟫ ⟪शार्दुलैश्चित्रकैः⟫ ⟪समं⟫ ⟪संवासः⟫ ⟪सहावस्थानम्⟫ ⟪।⟫ ⟪पश्वेति⟫ ⟪।⟫ ⟪पशवो⟫ ⟪महिषास्तेषां⟫ ⟪रुधिरेण⟫ ⟪रक्तेन⟫ ⟪देवतार्चनं⟫ ⟪देवपूजनम्⟫ ⟪।⟫ ⟪मांसेनेति⟫ ⟪।⟫ ⟪मांसेन⟫ ⟪पिशितेन⟫ ⟪बलिर्हन्तकरस्तत्कर्म⟫ ⟪तत्कृत्यम्⟫ ⟪।⟫ ⟪चौर्येणेति⟫ ⟪।⟫ ⟪चौर्येण⟫ ⟪परद्रव्यापहारेण⟫ ⟪जीवनं⟫ ⟪प्राणधारणम्⟫ ⟪।⟫ ⟪भूषणनीति⟫ ⟪।⟫ ⟪भूषणान्याभरणानि⟫ ⟪भुजंगमणयः⟫ ⟪सर्परत्नानि⟫ ⟪।⟫ ⟪पर्वतवासित्वात्तेषां⟫ ⟪ते⟫ ⟪सुलभा⟫ ⟪इति⟫ ⟪भावः⟫ ⟪।⟫ ⟪वनेति⟫ ⟪।⟫ ⟪वनकरिणामरण्यहस्तिनां⟫ ⟪मदैर्दानवारिभिरङ्गरागो⟫ ⟪विलेपनम्⟫ ⟪।⟫ ⟪यस्मिन्निति⟫ ⟪।⟫ ⟪अनिर्दिष्टनामनि⟫ ⟪कानने⟫ ⟪वने⟫ ⟪निवसन्ति⟫ ⟪निवासं⟫ ⟪कुर्वन्ति⟫ ⟪तदेव⟫ ⟪काननमशेषतः⟫ ⟪समग्रत⟫ ⟪उत्खातमुत्पाटितं⟫ ⟪मूलं⟫ ⟪मध्यभागो⟫ ⟪यस्यैवंभूतं⟫ ⟪कुर्वते⟫ ⟪विदधत⟫ ⟪इति⟫ ⟪पूर्वोक्तप्रकारेण⟫ ⟪मयि⟫ ⟪चन्तयति⟫ ⟪ध्यायति⟫ ⟪सत्येव⟫ ... ⟪॥⟫
 

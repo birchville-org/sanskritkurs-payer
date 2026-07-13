@@ -7,29 +7,29 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 46
+# ܡܠܦܢܐ 46
 
-## 46.1. Formation of the verbal forms for the 2nd person (⟪मध्यमः⟫) Perfect (⟪लिट्⟫)
+## 46.1. ܨܘܼܪܬܵܐ ܕܨܘܼܪ̈ܬܵܐ ܕܦܶܥܠܵܐ ܠܕܽܘܟܬܵܐ ܕܬܪܹܝܢ (⟪ܡܲܕܝܲܡܲܗ⟫) ܓܡܝܼܪܵܐ (⟪ܠܝܼܛ⟫)
 
-### 46.1.1. Endungen
+### 46.1.1. ܫܘܠܡ̈ܐ
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: | :---: |
-| **Perfect Endings** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| :---: | :---: | :---: | :---: |
+| **ܣܘܟܪ ܫܠܡ** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ^^ \-tha | \-a | \-se | \-dhve |
 :::
-Note that the ending -- usually but not always! -- of the 2.pl.P coincides with that of the 1. and 3.sg.P.
+ܣܓܕ ܟܝ ܠܐ ܒܫܪ̈ܬ ܟܢ ܠܐ ܒܫܪ̈ܬ — בְּשַׁרְתָּא דִי ܬܠܝ̈ܐ — עַל מְנָתָא דִי 2.pl.P בְּשַׁרְתָּא דִי 1. ו-3.sg.P בְּשַׁרְתָּא דִי.
 
 ::: grammar-box
-Before -tha, with most roots ending in -ṛ, there is no linking vowel \-i-. With some roots, the \-i- before \-tha is optional.
+קוּם -ܬ̈ܐ, עַל רֹב שָׁרְשֵׁי -ṛ, לִית יוּדָא מְחַבְרָא \-i-. עִם רֹשׁ שַׁרְשָׁא, \-i- קוּם -ܬ̈� ܡְנָא.
 :::
-### 46.1.2. Sound Change of the Ending -dhve
+### 46.1.2. ܫܘܚܠܦܐ ܕܩܠܐ ܕܫܘܠܡܐ -ܕ̈ܗܒܐ
 
 ::: grammar-box
 Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
-### 46.1.3. Perfect Type I: No Stem Gradation
+### 46.1.3. ܓܡܝܪܐ ܕܡܘܬܐ ܐ: ܠܐ ܢܘܛܝܐ ܕܓܕܫܐ
 
 Verbs following this type:
 
@@ -65,7 +65,7 @@ Verbs following this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪आसिथ⟫ | ⟪आस⟫ | \&lt;⟪आसिषे⟫\&gt; | \&lt;⟪आसिध्वे⟫\&gt; |
 :::
-### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 46.1.4. ܓܡܺܝܪܳܐ ܛܽܘܦܣܳܐ II: ܓܶܕܠܳܐ ܚܰܝܠܳܢܳܐ ܕܕܰܪܓܳܐ ܥܶܠܳܝܳܐ، ܓܶܕܠܳܐ ܟܰܪܺܝܗܳܐ ܕܕܰܪܓܳܐ ܬܰܚܬܳܝܳܐ
 
 Verbs that follow this type:
 
@@ -87,9 +87,9 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
-### 46.1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 46.1.5. ܡܫܠܡܢܐ ܛܘܦܣܐ ܓ: ܫܪܫܐ ܚܝܠܬܢܐ ܕܕܪܓܐ ܥܠܝܐ/ܕܡܬܚܬܐ
 
-#### 46.1.5.1. Perfect Type IIIa: Strong stem full grade/lengthened grade, weak stem zero grade
+#### 46.1.5.1. ܡܫܠܡܢܐ ܕܕܪܓܐ IIIa: ܫܪܫܐ ܚܝܠܬܢܐ ܕܪܓܬܐ ܡܠܝܬܐ/ܕܪܓܬܐ ܡܘܪܟܬܐ, ܫܪܫܐ ܟܪܝܗܐ ܕܪܓܬܐ ܨܦܪ
 
 Verbs that follow this type:
 
@@ -128,7 +128,7 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
-#### 46.1.5.2. Perfect Type IIIb: Strong stem high grade/lengthened grade, weak stem high grade
+#### 46.1.5.2. ܓܡܝܪܐ ܡܕܡ IIIb: ܫܪܫܐ ܚܝܠܬܢܐ ܕܪܓܬܐ ܪܡܬܐ/ܐܘܪܟܬܐ، ܫܪܫܐ ܡܚܝܠܐ ܕܪܓܬܐ ܪܡܬܐ
 
 Verbs that follow this type:
 
@@ -151,7 +151,7 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
-### 46.1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 46.1.6. ܡܫܠܡܢܐ ܕܕܪܓܐ ܪܒܝܥܝܐ: ܫܪ̈ܫܐ ܕܥܠ -ܐ / -ܐܝ
 
 *   Weak stem:
 *   before consonant: Low-grade-i
@@ -173,9 +173,9 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
-### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
+### 46.1.7. ܡܫܠܡܢܐ ܕܕܪܓܐ V: ܩܘܢܣܘܢܢܛ-ܐ-ܩܘܢܣܘܢܢܛ
 
-#### 46.1.7.1. Perfect Type Va: Consonant-a-Consonant, Weak Stem Deep Grade
+#### 46.1.7.1. ܡܫܠܡܢܐ ܕܕܡܘܬܐ Va: ܚܪܦܐ-ܐ-ܚܪܦܐ, ܫܪܫܐ ܟܪܝܗܐ ܕܪܓܐ ܥܡܝܩܐ
 
 Verbs that follow this type:
 
@@ -252,10 +252,10 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
 :::
-#### 46.1.7.2. Perfect Type Vb: Consonant-a-Consonant, initial consonant not guttural, aspirate, h, weak stem without reduplication, with -e-
+#### 46.1.7.2. ܓܡܝܪܐ ܡܕܡܐ Vb: ܩܘܢܨܘܢܢܛ-ܐ-ܩܘܢܨܘܢܢܛ, ܩܘܢܨܘܢܢܛ ܩܕܡܝܐ ܠܐ ܓܘܬܪܠܝܐ, ܐܣܦܝܪܐܛܐ, ܗ, ܫܪܫܐ ܟܪܝܗܐ ܕܠܐ ܬܘܪܨܐ, ܥܡ -ܐ-
 
 ::: grammar-box
-The 2.sg.P. is formed from the weak stem when the connecting vowel -i- occurs.
+Die 2.sg.P. wird vom schwachen Stamm gebildet, wenn das Bindevokal -i- auftritt.
 :::
 ⟪पच्⟫ 1U
 
@@ -265,7 +265,7 @@ The 2.sg.P. is formed from the weak stem when the connecting vowel -i- occurs.
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪पपक्थ⟫:br sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
-#### 46.1.7.3. Perfect Type Vc: Consonant-a-Consonant, weak stem strong grade
+#### 46.1.7.3. ܡܫܠܡܢܐ ܕܕܪܓܐ Vc: ܚܪܝܬܐ-ܐ-ܚܪܝܬܐ، ܥܩܪܐ ܟܪܝܗܐ ܕܕܪܓܐ ܚܝܠܬܢܐ
 
 Verbs that follow this type:
 
@@ -279,7 +279,7 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
 :::
-### 46.1.8. Besondere Perfekt-Bildungen
+### 46.1.8. ܨܘܪ̈ܬܐ ܡܫܠܡܢܝ̈ܬܐ ܡܝ̈ܚܕܬܐ
 
 ⟪विद्⟫ 2P present perfect
 
@@ -317,16 +317,16 @@ Verbs that follow this type:
 
 The periphrastic perfect is formed by:
 
-*   derived verbal stems (causative, desiderative, frequentative, denominatives), especially causative
-*   roots that begin with a long vowel (except ā)
-*   roots: Vowel (except a-)-Consonant-Consonant
-*   some others
-*   for some roots both perfects can be formed optionally: uṣ "to burn", vid "to know", jāgṛ "to wake", daridrā "to be poor"
-*   for the following roots both perfects can be formed optionally and also the periphrastic perfect is reduplicated, namely with the reduplication syllable of the present stem:
-*   bhī "to fear"
-*   bhṛ "to carry"
-*   hu "to sacrifice"
-*   hrī "to be ashamed"
+*   שרשי פועל נגזרים (הִפְעֵיל, תַּאֲוָה, חִזּוּק, שֵׁם-פועל), במיוחד הִפְעֵיל
+*   שורשים המתחילים בתנועה ארוכה (למעט ā)
+*   שורשים: תנועה (למעט a)-עיצור-עיצור
+*   אחרים מעטים
+*   עבור חלק מהשורשים ניתן ליצור שני שלמוים באופן אופציונלי: uṣ "לבער", vid "לדעת", jāgṛ "להתעורר", daridrā "להיות עני"
+*   עבור השורשים הבאים ניתן ליצור שני שלמוים באופן אופציונלי, וגם השלום הפריפרסטי משוכפל, כלומר עם הברה המשכפלת של שורש ההווה:
+*   bhī "לפחד"
+*   bhṛ "לשאת"
+*   hu "להקריב"
+*   hrī "לבושש"
 
 ⟪बन्ध्⟫ Causative
 
@@ -336,7 +336,7 @@ The periphrastic perfect is formed by:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
 :::
-## 46.2. Wortliste
+## 46.2. ܡܠܘܐܐ
 
 ⟪सम⟫ 3: equal, same, similar
 
@@ -373,11 +373,11 @@ from it:
 :::
 For ⟪राहु⟫ and ⟪केतु⟫ see:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the Invisible Wandering Stars . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **پייאר، أloys \&lt;1944 - \&gt;:** دارماسطرا : مقدمة ومراجعة عامة. -- 10. الطقوس والطقوس الانتقالية (سامسكارا). -- الملحق ج: راهو وكيتو، النجوم المتجولة غير المرئية . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/arc/licenses#lekt4602)
-(Image source: [Details](/arc/licenses#lekt4602))
+الشكل: [⟪सूर्यः⟫، ⟪चन्द्रः⟫، ⟪मङ्गलः⟫](/arc/licenses#lekt4602)
+(مصدر الصورة: [تفاصيل](/arc/licenses#lekt4602))
 :::
 
 ::: media
@@ -394,10 +394,10 @@ Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/arc/licenses#lekt4604)
 
 ::: media
 ![](/images/lekt4605.webp)
-Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/arc/licenses#lekt4605)
-(Image source: [Details](/arc/licenses#lekt4605))
+ܩܘܪܟܐ: [⟪राहुः⟫, ⟪केतुः⟫](/arc/licenses#lekt4605)
+(ܡܝܕܥ ܐܘܪܚܐ: [ܦܣܩܠ](/arc/licenses#lekt4605))
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : to be content, to be satisfied with (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : ܠܬܝܬ ܒܪܟܬܐ، ܠܬܝܬ ܫܘܒܟܐ (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
@@ -408,7 +408,7 @@ PPP ⟪तुष्ट⟫
 Inf. ⟪तोष्टुम्⟫
 
 :::
-⟪नम्⟫ 1P ⟪नमति⟫ : to bend, to bow, to incline, to prostrate oneself
+⟪नम्⟫ 1P ⟪नमति⟫ : ܠܩܘܦ, ܠܣܓܕ, ܠܬܪܥ
 
 ::: indent
 Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
@@ -483,9 +483,9 @@ from it:
 ::: media
 ![](/images/lekt4609.webp)
 Abb.: [⟪श्रान्तः⟫](/arc/licenses#lekt4609)
-(Image source: [Details](/arc/licenses#lekt4609))
+(מקור התמונה: [פרטים](/arc/licenses#lekt4609))
 :::
-⟪श्रि⟫ 1U ⟪श्रयति⟫ : to lean, to lean against, to find support, to go to someone (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
+⟪श्रि⟫ 1U ⟪श्रयति⟫ : להישען, להתכסות, למצוא תמיכה, ללכת אל מישהו (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. IIIa ⟪शिश्राय⟫, ⟪शिश्रिये⟫  
@@ -496,7 +496,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : to adhere, to cling to (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : ܠܡܕܒܩ، ܠܡܬܕܒܩ (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -505,8 +505,8 @@ Pass. ⟪सज्यते⟫
 Kaus. ⟪सञ्जयति⟫  
 PPP ⟪सक्त⟫  
 Inf. ⟪संक्तुम्⟫
-thereof:
-⟪सङ्ग⟫ m.: the adhering to, contact with (⟪तृतीयया⟫)
+ܡܢܗ:
+⟪सङ्ग⟫ m.: ܡܕܒܩܘܬܐ، ܫܘܟܦܐ (⟪तृतीयया⟫)
 
 :::
 ::: media
@@ -573,14 +573,14 @@ e.g.
 ⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟅***⟪षी⟫***⟪दति⟫ : to sit down
 
 :::
-⟪भोस्⟫ vocative particle: exclamation of address, e.g.: hey, heda, oh, ei, hello, hi! often not to be translated. This particle has a special sandhi: before all voiced sounds, it is ***⟪भो⟫***.
+⟪भोस्⟫ אַרְקָת מִלְטָא: קוֹלָא דַּהֲבָא, מְשַׁבְּחָא: הוֹי, חֲזוֹר, אַה, אֵי, שְׁלָמָא, סְלָם! לֵית מַתְרַגְּמָא בְּעוּבְדָא. הֲלָךְ מַלְטָא לֵיהּ סַנְדִי יָחִיד: קוֹם כָּל מַתְרַגְמָא, הוּא ***⟪भो⟫***.
 
 ::: media
 ![](/images/lekt4611.webp)
 Ill.: [⟪भोः⟫](/arc/licenses#lekt4611)
 (Image source: [Details](/arc/licenses#lekt4611))
 :::
-## 46.3. Exercise
+## 46.3. ܬܪܓܠܐ
 
 A) Bestimmen und übersetzen Sie folgende Formen:
 

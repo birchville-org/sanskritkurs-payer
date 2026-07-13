@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 26
+# ܬܶܪܓܳܡܳܐ 26
 
-Form the future tense forms corresponding to number, person, and gender (Parasmaipada, Ātmanepada):
+ܡܪܟܒ̈ܬܐ ܕܙܒܢܐ ܠܝܦܬ ܥܡ ܨܚܘܬܐ، ܦܠܢܐ، ܘܡܕܒܪܐ (ܦܪܣܡܝܼܼܘܦܕܐ، ܐ̈ܬܡܢܝܼܼܘܦܕܐ):
 
 A) without connecting vowel **-i-**:
 

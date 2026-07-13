@@ -28,28 +28,28 @@ Text from: Otto Böhtlingk: Sanskrit Chrestomathy p. 127f.
 ⟪राक्षसेन्द्रस्ततो⟫ ⟪ऽभैषीदैक्षिष्ट⟫ ⟪परितः⟫ ⟪पुरम्⟫ ⟪।⟫  
 ⟪प्रातिष्ठिपच्च⟫ ⟪बोधार्थं⟫ ⟪कुम्भकर्णस्य⟫ ⟪राक्षसान्⟫ ⟪॥१॥⟫
 
-> Thereupon the demon lord feared. He looked around the city and sent the Rākṣasas to wake Kumbhakarṇa¹.
+> Kemudian, raja iblis itu merasa takut. Ia melihat sekeliling kota dan menyuruh para Rākṣasas untuk membangunkan Kumbhakarṇa¹.
 >
 > ⟪अभैषीत्⟫ -  ⟪भी⟫ Aor. 4 P  
-> ⟪ऐक्षिष्ट⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā  
-> ⟪प्रातिष्ठिपत्⟫ - ⟪प्र⟫-⟪स्था⟫ irregular (see Pāṇini 7.4.5) Aor. 3
+> ⟪ऐक्षिष्ट⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā
+> ⟪प्रातिष्ठिपत्⟫ - ⟪प्र⟫-⟪स्था⟫ tidak beraturan (lihat Pāṇini 7.4.5) Aor. 3
 >
-> 1 Kumbhkarṇa, the brother of Rāvaṇa, lies in eternal sleep as punishment for his misdeeds.
+> 1 Kumbhkarṇa, saudara Rāvaṇa, terlelap dalam tidur abadi sebagai hukuman atas perbuatan jahatnya.
 
 ⟪ते⟫ ⟪ऽभ्यगुर्भवनं⟫ ⟪तस्य⟫ ⟪सुप्तं⟫ ⟪चैक्षिषताथ⟫ ⟪तम्⟫ ⟪।⟫  
 ⟪व्याहार्षुस्तुमुलाञ्छब्दान्दण्डैश्चावधिषुर्द्रुतम्⟫ ⟪॥२॥⟫
 
-> These went to his house and saw him sleeping. They emitted tumultuous sounds and quickly struck with sticks.
+> Mereka pergi ke rumahnya dan melihatnya sedang tidur. Mereka mengeluarkan suara bising dan dengan cepat memukul menggunakan tongkat.
 >
-> ⟪अभ्यगुर्⟫ - ⟪अभि⟫-⟪गा⟫ (for ⟪इ⟫) Aor. 1 P  
+> ⟪अभ्यगुर्⟫ - ⟪अभि⟫-⟪गा⟫ (untuk ⟪इ⟫) Aor. 1 P  
 > ⟪अक्षिषत⟫ - ⟪ईक्ष्⟫ Aor. 5 Ā (3.pl.)  
-> ⟪व्याहार्षुर्⟫ - ⟪वि⟫-⟪आ⟫-⟪हृ⟫ pronounce, say Aor. 4 P  
-> ⟪अवधिषुर्⟫ - ⟪वध्⟫ (instead of ⟪हन्⟫) Aor. 5
+> ⟪व्याहार्षुर्⟫ - ⟪वि⟫-⟪आ⟫-⟪हृ⟫ mengucapkan, berkata Aor. 4 P  
+> ⟪अवधिषुर्⟫ - ⟪वध्⟫ (sebagai pengganti ⟪हन्⟫) Aor. 5
 
 ⟪केशानलुञ्चिषुस्तस्य⟫ ⟪गजान्गात्रेष्वभिभ्रमन्⟫ ⟪।⟫  
 ⟪शीतैरभ्यषिचंस्तोयैरलातैश्चाप्यदम्भिषुः⟫ ⟪॥३॥⟫
 
-> They pulled his hair, let elephants roam over his limbs; they sprinkled him with cold water and injured him with fires.
+> Mereka menarik rambutnya, membiarkan gajah melintasi tubuhnya; mereka menyiraminya dengan air dingin dan melukainya dengan api.
 >
 > ⟪अलुञ्चिषुर्⟫ - ⟪लुञ्च्⟫ Aor. 5  
 > ⟪अबिभ्रमन्⟫ - ⟪भ्रम्⟫ Caus. Aor. 3  
@@ -59,17 +59,17 @@ Text from: Otto Böhtlingk: Sanskrit Chrestomathy p. 127f.
 ⟪नखैरकर्तिषुस्तीक्ष्णैरदाङ्क्षुर्दशनैस्तथा⟫ ⟪।⟫  
 ⟪शितैरतौत्सुः⟫ ⟪शूलैश्च⟫ ⟪भेरीश्चावीवदञ्छुभाः⟫ ⟪॥४॥⟫
 
-> They cut him with sharp fingernails and they bit him with their teeth, they struck him with sharp spears and they let bright drums sound.
+> Mereka memotongnya dengan kuku tajam dan menggigitnya dengan gigi mereka, mereka meninjunya dengan tombak tajam dan membiarkan drum berkilau berbunyi.
 >
 > ⟪अकर्तिषुर्⟫ - ⟪कृत्⟫ Aor. 5  
 > ⟪अदाङ्क्षुर्⟫ - ⟪दंश्⟫ Aor. 4  
 > ⟪अतौत्सुर्⟫ - ⟪तुद्⟫ Aor. 4  
-> ⟪अवीवदन्⟫ - ⟪वद्⟫ Caus. Aor. 4
+> ⟪अवीवदन्⟫ - ⟪वद्⟫ Kaus. Aor. 4
 
 ⟪स⟫ ⟪तान्नाजीगणत्सर्वानिच्छयाबुद्ध⟫ ⟪च⟫ ⟪स्वयम्⟫ ⟪।⟫  
 ⟪अबूबुधत⟫ ⟪कस्मान्मामप्राक्षीच्च⟫ ⟪निशाचरान्⟫ ⟪॥५॥⟫
 
-> He did not heed any of these, by his own wish he himself awoke and he asked the sleepwalkers: "Why have you awakened me?"
+> Ia tidak memperhatikan salah satu dari ini, dengan kehendaknya sendiri ia bangun dan bertanya kepada para pemimpi: "Mengapa kamu membangunkanku?"
 >
 > ⟪अजीगणत्⟫ - ⟪गण्⟫ 10 Aor 3  
 > ⟪अबुद्ध⟫ - ⟪बुध्⟫ Aor 4 (beside ⟪अबोधि⟫)  
@@ -90,7 +90,7 @@ Text from: Otto Böhtlingk: Sanskrit Chrestomathy p. 127f.
 ⟪न्यवसिष्ट⟫ ⟪ततो⟫ ⟪द्रष्टुं⟫ ⟪रावणं⟫ ⟪प्रावृतद्गृहात्⟫ ⟪।⟫  
 ⟪राजायान्तं⟫ ⟪तमद्राक्षीदुदस्थाच्चेषदासनात्⟫ ⟪॥७॥⟫
 
-> He dressed himself, then went away from home to see Rāvaṇa. The king saw him coming and rose slightly from his seat.
+> Ia mengenakan pakaiannya, lalu pergi dari rumah untuk bertemu Rāvaṇa. Raja melihatnya datang dan bangkit sedikit dari kursinya.
 >
 > ⟪न्यवसिष्ट⟫ - ⟪नि⟫-⟪वस्⟫ 2Ā Aor. 5  
 > ⟪प्रावृतत्⟫ - ⟪प्र⟫-⟪वृत्⟫ Ā Aor. 2 P (in Aor. also P!)  
@@ -110,7 +110,7 @@ Text from: Otto Böhtlingk: Sanskrit Chrestomathy p. 127f.
 ⟪अवादीन्मां⟫ ⟪किमित्याह्वो⟫ ⟪राज्ञा⟫ ⟪च⟫ ⟪प्रत्यवादि⟫ ⟪सः⟫ ⟪।⟫  
 ⟪नाज्ञासीस्त्वं⟫ ⟪सुखी⟫ ⟪रामो⟫ ⟪यदकार्षीत्स⟫ ⟪रक्षसाम्⟫ ⟪॥९॥⟫
 
-> He spoke: "Why have you summoned me?" The king answered him: "You fortunate one have not recognized what Rāma has done to the demons.
+> Ia berkata: "Mengapa kau memanggilku?" Sang raja menjawabnya: "Wahai orang beruntung, kau tidak menyadari apa yang telah dilakukan Rāma kepada para raksasa.
 >
 > ⟪अवादीत्⟫ - ⟪वद्⟫ Aor. 5  
 > ⟪आह्वस्⟫ - ⟪आ⟫-⟪ह्वे⟫ Aor. 2  
@@ -121,7 +121,7 @@ Text from: Otto Böhtlingk: Sanskrit Chrestomathy p. 127f.
 ⟪उदतारीदुदन्वन्तं⟫ ⟪पुरं⟫ ⟪नः⟫ ⟪परितो⟫ ⟪ऽरुधत्⟫ ⟪।⟫  
 ⟪व्यद्योतिष्ट⟫ ⟪रणे⟫ ⟪शस्त्रैरनैषीद्राक्षसान्क्षयम्⟫ ⟪॥१०॥⟫
 
-> He has crossed the ocean, blocked our city all around, he has shone forth in battle with cutting weapons, he led the demons to destruction.
+> Ia telah menyeberangi lautan, memblokir kota kami dari segala arah, ia telah bersinar dalam pertempuran dengan senjata tajam, ia membawa para raksasa menuju kehancuran.
 >
 > ⟪उदतारीत्⟫ - ⟪उद्⟫-⟪तॄ⟫ Aor. 5  
 > ⟪अरुधत्⟫ - ⟪रुध्⟫ Aor. 2  
@@ -140,7 +140,7 @@ Text from: Otto Böhtlingk: Sanskrit Chrestomathy p. 127f.
 ⟪वीर्यं⟫ ⟪मा⟫ ⟪न⟫ ⟪ददर्शस्त्वं⟫ ⟪मा⟫ ⟪न⟫ ⟪त्रास्थाः⟫ ⟪क्षतां⟫ ⟪पुरम्⟫ ⟪।⟫  
 ⟪तवाद्राक्ष्म⟫ ⟪वयं⟫ ⟪वीर्यं⟫ ⟪त्वमजैषीः⟫ ⟪पुरा⟫ ⟪सुरान्⟫ ⟪॥१२॥⟫
 
-> Do not cease to show your manliness, do not cease to save the wounded city! We have seen your manliness. You have previously defeated the gods."
+> Jangan pernah berhenti menunjukkan keberanianmu, jangan pernah berhenti menyelamatkan kota yang terluka! Kami telah melihat keberanianmu. Kamu sebelumnya telah mengalahkan para dewa."
 >
 > ⟪ददर्शस्⟫ - ⟪दृश्⟫ Kaus. Injunktiv Aor. 3  
 > ⟪त्रास्थास्⟫ - ⟪त्रै⟫ Ā Injunktiv. Aor. 4  
@@ -150,7 +150,7 @@ Text from: Otto Böhtlingk: Sanskrit Chrestomathy p. 127f.
 ⟪अवोचत्कुम्भकर्णस्तं⟫ ⟪वयं⟫ ⟪मन्त्रे⟫ ⟪ऽभ्यधाम⟫ ⟪यत्⟫ ⟪।⟫  
 ⟪न⟫ ⟪त्वं⟫ ⟪सर्वं⟫ ⟪तदश्रौषीः⟫ ⟪फलं⟫ ⟪तस्येदमागमत्⟫ ⟪॥१३॥⟫
 
-> Kumbhakarṇa spoke to him: "What we presented during the consultation, on all of this you have not listened. This has come as its fruit.
+> Kumbhakarṇa berkata kepadanya: "Apa yang kami sajikan selama konsultasi, tentang semua ini kamu tidak mendengarkan. Ini telah datang sebagai buahnya.
 >
 > ⟪अवोचत्⟫ - ⟪वच्⟫ Aor. 3  
 > ⟪अभ्यधाम⟫ - ⟪अभि⟫-⟪धा⟫ Aor. 1  
@@ -160,7 +160,7 @@ Text from: Otto Böhtlingk: Sanskrit Chrestomathy p. 127f.
 ⟪प्राज्ञवाक्यान्यवामामंस्था⟫ ⟪मूर्खवाक्येष्ववास्थिथाः⟫ ⟪।⟫  
 ⟪अध्यगीष्ठाश्च⟫ ⟪शास्त्राणि⟫ ⟪प्रत्यपत्था⟫ ⟪हितं⟫ ⟪न⟫ ⟪च⟫ ⟪॥१४॥⟫
 
-> You have despised the words of the wise, you have relied on the words of fools, you have studied the treatises and yet have not reached the salutary.
+> Anda telah menghinakan kata-kata orang bijak, anda telah mengandalkan kata-kata orang bodoh, anda telah mempelajari risalah-risalah dan namun belum mencapai yang menyelamatkan.
 >
 > ⟪अवामामंस्थास्⟫ - ⟪अव⟫-⟪मन्⟫ Aor. 4  
 > ⟪अवास्थिथास्⟫ - ⟪अव⟫-⟪स्था⟫ Aor. 4  
@@ -170,7 +170,7 @@ Text from: Otto Böhtlingk: Sanskrit Chrestomathy p. 127f.
 ⟪मूर्खास्त्वामववञ्चन्त⟫ ⟪ये⟫ ⟪विग्रहमचीकरन्⟫ ⟪।⟫  
 ⟪अभाणीन्माल्यवान्युक्तमक्षंस्थास्त्वं⟫ ⟪न⟫ ⟪तन्मदात्⟫ ⟪॥१५॥⟫
 
-> The fools who caused the strife have deceived you. Mālyavant¹ spoke what was appropriate. You have not forgiven him because of your intoxication.
+> Orang-orang bodoh yang menyebabkan perselisihan telah menipu Anda. Mālyavant¹ mengucapkan apa yang pantas. Anda tidak memaafkannya karena mabuk Anda.
 >
 > ⟪अववञ्चन्त⟫ - ⟪वञ्च्⟫ Kaus. Aor. 3  
 > ⟪अचीकरन्⟫ - ⟪कृ⟫ Aor. 3  
@@ -182,34 +182,34 @@ Text from: Otto Böhtlingk: Sanskrit Chrestomathy p. 127f.
 ⟪राघवस्यामुषः⟫ ⟪कान्तामाप्तैरुक्तो⟫ ⟪न⟫ ⟪चार्पिपः⟫ ⟪।⟫  
 ⟪मा⟫ ⟪नानुभूः⟫ ⟪स्वकान्दोषान्मा⟫ ⟪मुहो⟫ ⟪मा⟫ ⟪रुषो⟫ ⟪ऽधुना⟫ ⟪॥१६॥⟫
 
-> You have stolen the beloved of the Raghuvamśa¹. Although it was told to you by authorities, you did not send her back. Stop failing to recognize your own mistakes! Do not be confused, do not be angry now!
+> Kamu telah mencuri kekasih dari Raghuvamśa¹. Meskipun hal itu dikatakan oleh otoritas, kamu tidak mengembalikannya. Berhenti gagal mengenali kesalahanmu sendiri! Jangan bingung, jangan marah sekarang!
 >
 > ⟪अमुषस्⟫ - ⟪मुष्⟫ Aor. 2  
-> ⟪आर्पि्पस्⟫ - ⟪ऋ⟫ Caus. Aor. 3  
-> ⟪अनुभूस्⟫ - ⟪अनु⟫-⟪भू⟫ Injunctive Aor. 1  
-> ⟪मुहस्⟫ - ⟪मुह्⟫ Injunctive Aor. 2  
-> ⟪रुषस्⟫ - ⟪रुष्⟫ Injunctive Aor. 2
+> ⟪आर्पि्पस्⟫ - ⟪ऋ⟫ Kaus. Aor. 3  
+> ⟪अनुभूस्⟫ - ⟪अनु⟫-⟪भू⟫ Inj. Aor. 1  
+> ⟪मुहस्⟫ - ⟪मुह्⟫ Inj. Aor. 2  
+> ⟪रुषस्⟫ - ⟪रुष्⟫ Inj. Aor. 2
 >
 > 1 Rāma
 
 ⟪तस्याप्यत्यक्रमीत्कालो⟫ ⟪यत्तदाहमवादिषम्⟫ ⟪।⟫  
 ⟪अघानिषत⟫ ⟪रक्षांसि⟫ ⟪परैः⟫ ⟪कोशांस्त्वमव्ययीः⟫ ⟪॥१७॥⟫
 
-> For what I said to you back then, the right time has passed. The Rākṣasas were killed by the enemies. You have lost the treasures.
->
+> Karena apa yang saya katakan kepada Anda saat itu, waktu yang tepat telah berlalu. Para Rākṣasa dibunuh oleh musuh-musuh. Anda telah kehilangan harta karun.
+> 
 > ⟪अत्यक्रमीत्⟫ - ⟪क्रम्⟫ Aor. 5  
 > ⟪अवादिषम्⟫ - ⟪वद्⟫ Aor. 5  
-> ⟪अघानिषत⟫ - ⟪हन्⟫ Passive Aorist 3.pl.  
+> ⟪अघानिषत⟫ - ⟪हन्⟫ Pasif Aorist 3.jml.  
 > ⟪अव्ययीस्⟫ - ⟪व्यय्⟫ Aor. 5
 
 ⟪संधानकारणां⟫ ⟪तेजो⟫ ⟪न्यगभूत्ते⟫ ⟪ऽकृथास्तथा⟫ ⟪।⟫  
 ⟪यत्त्वं⟫ ⟪वैराणि⟫ ⟪कोशं⟫ ⟪च⟫ ⟪सहदण्डमजिग्लपः⟫ ⟪॥१८॥⟫
 
-> Your power, the foundation for an alliance, has faded. You acted in such a way that you let your armies and your treasure along with political power wither away."
+> Kekuatanmu, dasar untuk sebuah aliansi, telah memudar. Kamu bertindak sedemikian rupa sehingga membuat pasukan dan hartamu serta kekuasaan politik menjadi layu."
 >
 > ⟪अभूत्⟫ - ⟪भू⟫ Aor. 1  
 > ⟪अकृथास्⟫ - ⟪कृ⟫ Aor. 4/1  
-> ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ Caus. Aor. 3
+> ⟪अजिग्लपस्⟫ - ⟪ग्लै⟫ Kaus. Aor. 3
 
 ::: media
 ![](/images/uebung099.webp)

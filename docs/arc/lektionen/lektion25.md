@@ -7,16 +7,16 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lección 25
+# ܠܶܩܨܺܝܳܘܢ ܟܗ
 
-## 25.1. Formation of the Ablative (⟪पञ्चमी⟫ = "fifth case ending")
+## 25.1. ܨܘܪܬܐ ܕܡܦܩܢܐ (ܦܢܟܡܝ = "ܣܘܦܝܬܐ ܕܩܛܝܪܐ ܚܡܝܫܝܐ")
 
 ::: grammar-box
-Except for masculines/neuters ending in -a and the pronouns, in the singular, in all declension classes, the forms of the Ablative (⟪पञ्चमी⟫) are identical to those of the Genitive (⟪षष्ठी⟫).
+ܡܢ ܕܝܠܐ ܟܪܝܬܐ ܘܢܫܐ ܕܟܠܐ -a ܘܡܢ ܕܝܠܐ ܫܡܐ, ܒܟܘܪܝܬܐ, ܒܟܠ ܡܢ ܕܝܠܐ ܫܘܬܦܬܐ, ܡܠܬ̈ܐ ܕܥܕܪܢܐ (⟪पञ्चमी⟫) ܗܝ ܐܘܪ̈ܚܐ ܕܥܕܪܢܐ (⟪षष्ठी⟫).
 
-Except for the personal pronouns, in all declensions in the plural, the forms of the Ablative are identical to those of the Dative (⟪चतुर्थी⟫).
+ܡܢ ܕܝܠܐ ܫܪܝܪ̈ܐ, ܒܟܠ ܡܢ ܕܝܠܐ ܫܘܬܦܬܐ ܒܪ̈ܝܬܐ, ܡܠܬ̈ܐ ܕܥܕܪܢܐ ܗܝ ܐܘܪ̈ܚܐ ܕܥܕܪܢܐ (⟪चतुर्थी⟫).
 :::
-Now you recognize the reason for the order of the cases (⟪विभक्ति⟫) in Sanskrit: they are arranged so that identical forms are as close together as possible — or beneath one another.
+ܐܢܬܘܢ ܡܫܟܚܝܢ ܠܗ ܕܐܘܪ̈ܚܐ ܕܡܠܬ̈ܐ (⟪विभक्ति⟫) ܒܣܢܣܩܪܝܬܐ: ܗܝ ܡܢ̈ܘܗܪܐ ܠܗ ܕܡܠܬ̈ܐ ܗܝ ܐܘܪ̈ܚܐ ܕܥܕܪܢܐ — ܐܘ ܠܫܬ̈ܪܝܗ.
 
 ::: grammar-box
 **Ablative Singular of Masculine / Neuter nouns ending in -a**
@@ -36,7 +36,7 @@ Interrogative, relative, and demonstrative pronouns:
 | ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
-## 25.2. Use of the Ablative (⟪पञ्चमी⟫)
+## 25.2. Use of the ܦܪܫܢܝܐ (⟪पञ्चमी⟫)
 
 "Der Ablativ bezeichnet dasjenige, das fest bleibt, wenn etwas davon weggeht."
 
@@ -44,8 +44,8 @@ Pāṇini 2,3,28 + 1,4,24
 
 Der Ablativ steht vor allem auf die Fragen "Woher?", "Warum?".
 
-::: grammar-box
-1\. The ablative thus denotes the starting point, the origin, and the material.
+::: grammar-box  
+ܡܠܦܢܘܬܐ ܕܥܒܪ
 
 The ablative can therefore also denote the person from whom one buys, hears, wishes, etc.
 :::
@@ -63,12 +63,12 @@ Examples:
 ::: indent
 ⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "he hears from the teacher about the Dharma"
 
-⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "the Brahmin desires from the Kṣatriya a milk cow"
+⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "ܕܝܩܢ ܒܪ ܟܣܬܪܝܐ ܫܘܛܦܢܐ"
 :::
 ::: grammar-box
-2\. The Ablative is used with verbs meaning "to abstain from", "to protect from", "to defend against", "to fear":
+ܡܠܬ ܐܒܠܛܝܘ ܕܝܩܢ ܥܡ ܦܠܚ̈ܐ ܕܝܩܢ "ܠܬܘܒ", "ܠܫܡܪ", "ܠܢܛܪ" ܘ"ܠܥܒܕ":
 :::
-Example:
+ܡܠܐ:
 
 ::: indent
 ⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "he protects from enemies"
@@ -83,40 +83,40 @@ Examples:
 
 ⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Because he has done evil, he comes to hell" ("Because he is one through whom evil has been done")
 
-⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Because he does/does evil, he comes to hell"
+⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "ܕܐܝܟ ܡܠܬ ܒܪ ܢܫܐ ܥܒܕ ܬܩܦܘܬܐ، ܗܘ ܠܟܢ ܫܪ̈ܝ"
 :::
-Nouns that are not feminine can, to indicate the reason for an activity, stand in the instrumental (⟪तृतीया⟫) or ablative (⟪पञ्चमी⟫). Feminine nouns stand in this sense usually in the instrumental, but can occasionally also stand in the ablative.
+ܫ̈ܡ̈ܐ ܕܠܝܣܬ ܢስܒ̈ܐ، ܡܟܠ ܗܘ ܕܝܬܒ̈ܪܢ ܠܫܘܦܥܬܐ، ܒܟܢܝܬ ܪ̈וֹח (⟪तृतीया⟫) ܘܒܟܢܝܬ ܪ̈וֹח (⟪पञ्चमी⟫). ܢስܒ̈ܐ ܕܠܝܣܬ ܢስܒ̈ܐ، ܡܟܠ ܗܘ ܕܝܬܒ̈ܪܢ ܠܫܘܦܥܬܐ، ܒܟܢܝܬ ܪ̈וֹח، ܘܡܟܠ ܗܘ ܕܝܬܒ̈ܪܢ ܠܫܘܦܥܬܐ، ܒܟܢܝܬ ܪ̈וֹח.
 
-## 25.3. The suffix -⟪तस्⟫
+## 25.3. ܣܽܘܦܺܝܩܣܳܐ -⟪ܬܰܣ⟫
 
 ::: grammar-box
-If one wishes to express in the singular (unambiguously) that the word is used in an ablative sense, one can append the suffix -⟪तस्⟫ to the word stem, which forms adverbs with mostly ablative meaning (answering the question "From where?"):
+אם אדם רוצה לבטא במשפט יחיד (בחד-משמעות) שהמילה משמשת בהקשר של אַבְּלָטִי, אפשר להוסיף את הסיומת -⟪तस्⟫ לשורש המילה, שיוצרת מילות תואר עם משמעות רובם אַבְּלָטִי (עונה על השאלה "מאיפה?"):
 :::
-Examples:
+דוגמות:
 
 ::: indent
 ⟪आदितस्⟫ = "from the beginning"
 
-⟪धर्मतस्⟫ = "because of the Dharma, on account of the Dharma"
+⟪धर्मतस्⟫ = "ܒܚܘܒ ܕܐܘܪ̈ܬܐ, ܠܦܡܢ ܕܐܘܪ̈ܬܐ"
 :::
 ::: grammar-box
-The suffix -⟪तस्⟫ also occurs with pronominal stems:
+ܐܦ ܡܬܝܫܟ ܗܘ ܐܪ̈ܡܚܐ -⟪तस्⟫ ܥܡ ܫܪ̈ܫ̈ܝ ܦܠ̈ܘܟ̈ܐ:
 :::
 ::: indent
-⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "from there, there, thither, upon that, then, therefore"
+⟪तद्⟫ : ⟪ततस्⟫ (« ܬ-ܛܐܣ) "ܡܢ ܗ̈ܝ, ܗ̈ܝ, ܠܗ̈ܝ, ܥܠ ܗ̈ܝ, ܐܦ ܣܓܝ"
 
 ⟪यद्⟫ : ⟪यतस्⟫ "from which, of which, from where, where, to where, why, because" (relative)
 
 ⟪किम्⟫ :  ⟪कुतस्⟫ "from where?" "why?"
 :::
-## 25.4. Other ways to express reasons
+## 25.4. ܐܘܪ̈ܚܬܐ ܐܚܪ̈ܢܝܬܐ ܠܡܚܘܝܘ ܥܠ̈ܠܬܐ
 
 ::: grammar-box
 **1\. Relative Clauses**
 
-The relative clauses often express a causal (grounding), consecutive (consequential), or final (purposive) relationship to the main clause.
+די מִשְׁתַּלְפֵי קָא נְטוֹרִין סַבְלָנֵי (סִבְתָּא), עֲקִיפֵי (עֲקִיבוּתָא), אוֹ סוֹפְרֵי (מַטְרָא) לְגַבֵּי מִשְׁתַּלְפָא רַבָּה.
 
-Forms of the relative pronoun that serve as a causal conjunction:
+צוּרְתֵי שְׁמָא דַיְנוּן דַּהֲוָן קָשְׁרָא סִבְתָּא:
 
 *   ablative:
     *   ⟪यतस्⟫ ... subordinate clause ... ⟪ततस्⟫ ... main clause ... = "because ..., therefore ..."
@@ -132,15 +132,15 @@ Example:
 ::: grammar-box
 **2\. ⟪हि⟫**
 
-Main clauses can be linked with the particle ⟪हि⟩ "for, because". A sentence with ⟪हि⟩ (which must not stand in first position, but must stand in second position in prose) gives a reason either for the preceding sentence or for the following sentence:
+يمكن ربط الجمل الرئيسية بجسيم ⟪हि⟩ "لأن، لأن". جملة تحتوي على ⟪हि⟩ (التي يجب ألا تقف في الموضع الأول، بل يجب أن تقف في الموضع الثاني في النثر) تقدم سببًا إما للجملة السابقة أو للجملة التالية:
 :::
-Example:
+مثال:
 
 ::: indent
-⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "The people do meritorious deeds. For they wish to go to heaven."
+⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "يقوم الناس بأعمال صالحة. لأنهم يريدون الذهاب إلى السماء."
 :::
 ::: grammar-box
-**3\. Instrumental (⟪तृतीया⟫)**
+**3\. الآلة (⟪तृतीया⟫)**
 
 Neben dem Ablativ (⟪पञ्चमी⟫) wird der Instrumentalis (⟪तृतीया⟫) zur Angabe des Grundes oder der Ursache verwendet. Bei femininen Nomina ist der Instrumentalis im Allgemeinen obligatorisch.
 :::
@@ -168,14 +168,14 @@ Beispiel:
 ::: grammar-box
 **5\. ⟪इति⟫**
 
-The motive for an activity can be specified as a thought with ⟪इति⟫:
+Der Grund für eine Aktivität kann als ein Gedanke mit ⟪इति⟫ spezifiziert werden:
 :::
-Example:
+Beispiel:
 
 ::: indent
-⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Because the Sugata has fully awakened to the truth, Ānanda asks Gautama about his teaching" (« "Thinking 'The Sugata has fully awakened to the truth' ...)
+⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = „Weil der Sugata die Wahrheit vollständig erkannt hat, fragt Ānanda Gautama nach seiner Lehre“ („Denkend ‚Der Sugata hat die Wahrheit vollständig erkannt‘ ...)
 :::
-## 25.5. Vocabulary List
+## 25.5. ܡ̈ܠܝܢ Liste
 
 ⟪त्यज्⟫ 1P ⟪त्यजति⟫ abandon, give up, leave behind
 
@@ -212,9 +212,9 @@ Absol. 2: -⟪धृत्य⟫
 
 davon:
 
-⟪धर्म⟫ m.: that which is firm and holds fast = Dharma
+⟪धर्म⟫ m.: דָּא דְּקַיֵּים וּמַחֲזִיק = דָּרְמָא
 :::
-⟪नित्य⟫ ⟪३⟫ : constant, enduring, eternal
+⟪नित्य⟫ ⟪३⟫ : קַיָּים, עֲדִיק, עוֹלָם
 
 ::: indent
 ⟪नित्यम्⟫ Adv.: always, constantly ever
@@ -309,18 +309,18 @@ PPP ⟪ऊढ⟫
 Inf. ⟪वोढुम्⟫  
 Absol 2: -⟪उह्य⟫
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : to lead away (namely the bride from her parents' home) = to marry
+⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : ܠܕܘܟ (ܝܐܪ)
 
 davon:
 
-⟪विवाह⟫ m.: leading away, marriage of a woman (Instr., saha) (for marriage see Basham, Wonder pp. 166-171)
+⟪विवाह⟫ m.: מוֹנָא, חַתּוּנָא דְאִשְׁתָּא (בְּלַחֲדוֹ, סָה) (עַל חַתּוּנָא דְחֵז יוֹסִי בַשָּׁם, פְּלִין 166-171)
 :::
 ::: media
 ![](/images/lekt2504.webp)
-Fig.: ⟪विवाहः⟫
-(Image source: [Details](/arc/licenses#lekt2504))
+מַשְׁלָא: ⟪विवाहः⟫
+(מַרְגִּילָא דְתַבְלָה: [פְּרִיט](/arc/licenses#lekt2504))
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : to lead away, to instruct, to educate
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : לְמִנָּא, לְמוֹדָא, לְחַנָּךְ
 
 ::: indent
 from it:
@@ -365,9 +365,9 @@ Fig.: ⟪हिरण्यम्⟫
 
 ⟪गोदान⟫ n.: giving of cows / a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
-## 25.6. Exercise
+## 25.6. ܬܪܓܠܐ
 
-A) Complete the declension examples from [Lesson 16](lektion16.md), Review Exercise A, by adding 4. Dative (⟪चतुर्थी⟫) and 5. Ablative (⟪पञ्चमी⟫). Also form declension series with all previously learned forms to
+[A] השלימו את דוגמאות ההטייה מ[שיעור 16](lektion16.md), תרגיל סקירה A, על ידי הוספת 4. דאטיב (⟪चतुर्थी⟫) ו-5. אַבלטיב (⟪पञ्चमी⟫). בנו גם סדרות הטייה עם כל הצורות שלמדנו עד כה ל
 
 ⟪१⟫. ⟪सन्त्⟫ (m., n.)
 
@@ -444,7 +444,7 @@ Explanation: ⟪सर्वतस्⟫ = sarva "every, all" + -tas ; ⟪अण
 ::: indent
 Explanation: ⟪राजा⟫ = Nom. sg. of ⟪राजन्⟫ m. = ⟪नृप⟫
 :::
-## 25.8. Translation Exercise
+## 25.8. Translation ܬܪܓܠܐ
 
 1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. on the utility of economics:
 

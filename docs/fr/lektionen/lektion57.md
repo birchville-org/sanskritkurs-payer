@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 57
 
-## 57.1. Aorist 4: s-Aorist
+## 57.1. Aorist 4: Aoriste en s
 
 ::: grammar-box
 **Le s-aoriste se forme pour la plupart des racines ⟪अनिट्⟫, à moins qu’elles n’aient exclusivement une autre forme d’aoriste. Les racines facultatives ⟪अनिट्⟫ peuvent généralement former soit ce aoriste, soit l’iṣ-aoriste. Les racines ⟪अनिट्⟫ qui forment le ⟪परस्मैपद⟫ après la 1re, 2e ou 6e forme de l’aoriste forment également le ⟪आत्मनेपद⟫ selon le s-aoriste.**
@@ -146,7 +146,7 @@ Fig. : ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर�
 3.  ⟪बुध्⟫ Ā peut à la 3.sg.Ā prendre optionnellement la forme de l'aoriste de racine passif :
     ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "il a reconnu"
 :::
-## 57.2. Übung
+## 57.2. Exercice
 
 A) Traduisez et identifiez sans aide les formes suivantes, puis formez les formes correspondantes de l’aoriste. Sauf pour les causatifs et les racines qui forment l’aoriste en s, la classe de l’aoriste correspondant est indiquée entre parenthèses :
 

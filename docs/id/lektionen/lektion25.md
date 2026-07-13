@@ -12,11 +12,11 @@ status: stable
 ## 25.1. Formation of the Ablative (⟪पञ्चमी⟫ = "fifth case ending")
 
 ::: grammar-box
-Except for masculines/neutrons ending in -a and the pronouns, in the singular, in all declension classes, the forms of the ablative (⟪पञ्चमी⟫) are identical to those of the genitive (⟪षष्ठी⟫).
+Kecuali untuk kata sifat maskulin/netra yang berakhiran -a dan kata ganti, dalam bentuk tunggal, pada semua kelas deklinasi, bentuk ablatif (⟪पञ्चमी⟫) identik dengan bentuk genitif (⟪षष्ठी⟫).
 
-Except for the personal pronouns, in all declensions, in the plural, the forms of the ablative are identical to those of the dative (⟪चतुर्थी⟫).
+Kecuali untuk kata ganti orang, dalam semua deklinasi, dalam bentuk jamak, bentuk ablatif identik dengan bentuk datif (⟪चतुर्थी⟫).
 :::
-Now you recognize the reason for the order of the cases (⟪विभक्ति⟫) in Sanskrit: they are arranged so that identical forms stand as close together - or under each other - as possible.
+Sekarang Anda mengenali alasan urutan kasus (⟪विभक्ति⟫) dalam bahasa Sanskerta: mereka disusun sedemikian rupa sehingga bentuk-bentuk yang identik berada sebisa mungkin berdekatan - atau di bawah satu sama lain.
 
 ::: grammar-box
 **Ablative singular of masculines/neutrons ending in -a**
@@ -42,10 +42,10 @@ Interrogative, relative, and demonstrative pronouns:
 
 Pāṇini 2,3,28 + 1,4,24
 
-The ablative is primarily used in response to the questions "From where?", "Why?".
+Ablativ digunakan terutama untuk menjawab pertanyaan "Dari mana?", "Mengapa?".
 
 ::: grammar-box
-1\. The ablative thus denotes the starting point, origin, and material.
+1. Ablatif dengan demikian menunjukkan titik awal, asal-usul, dan materi.
 
 The ablative can therefore also denote the person from whom one buys, hears, wishes, etc.
 :::
@@ -63,47 +63,47 @@ Examples:
 ::: indent
 ⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "he hears from the teacher about the Dharma"
 
-⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "the Brahmin wishes from the Kṣatriya a milk cow"
+⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "seorang Brahmin menginginkan seekor sapi perah dari seorang Kṣatriya"
 :::
 ::: grammar-box
-2\. The ablative is used with verbs meaning "to abstain from", "to protect from", "to defend against", "to fear":
+2\. Ablatif digunakan dengan kata kerja yang berarti "menahan diri dari", "melindungi dari", "membela terhadap", "takut akan":
 :::
-Example:
+Contoh:
 
 ::: indent
-⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "he protects from the enemies"
+⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "ia melindungi dari musuh-musuh"
 :::
 ::: grammar-box
-3\. The ablative denotes the reason or cause:
+3\. Ablatif menunjukkan alasan atau sebab:
 :::
-Examples:
+Contoh-contoh:
 
 ::: indent
 ⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "He kills his son out of anger"
 
 ⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Because he has done evil, he goes to hell" (« Because he is one through whom evil was done)
 
-⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Because he does/has done evil, he goes to hell"
+⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Karena ia telah/melakukan kejahatan, ia pergi ke neraka"
 :::
-Nouns that are not feminine can, in order to denote the reason for an action, stand in the instrumental (⟪तृतीया⟫) or ablative (⟪पञ्चमी⟫). Feminine nouns stand in this sense usually in the instrumental, but can occasionally also stand in the ablative.
+Kata benda yang bukan feminin dapat, untuk menunjukkan alasan suatu tindakan, berada dalam kasus instrumental (⟪तृतीया⟫) atau ablative (⟪पञ्चमी⟫). Kata benda feminin dalam hal ini biasanya berada dalam kasus instrumental, tetapi kadang-kadang juga dapat berada dalam kasus ablative.
 
 ## 25.3. The Suffix -⟪तस्⟫
 
 ::: grammar-box
-If one wants to express in the singular (unambiguously) that the word is used in an ablative sense, one can attach the suffix -⟪तस्⟫ to the word stem, which forms adverbs with mostly ablative meaning (answering the question "From where?"):
+Jika seseorang ingin menyatakan secara tunggal (tanpa ambiguitas) bahwa kata tersebut digunakan dalam makna ablative, seseorang dapat menambahkan sufiks -⟪तस्⟫ ke pada stem kata, yang membentuk adverbia dengan sebagian besar makna ablative (menjawab pertanyaan "Dari mana?"):
 :::
-Examples:
+Contoh:
 
 ::: indent
 ⟪आदितस्⟫ = "from the beginning"
 
-⟪धर्मतस्⟫ = "on account of Dharma, because of Dharma"
+⟪धर्मतस्⟫ = "karena Dharma, karena Dharma"
 :::
 ::: grammar-box
-The suffix -⟪तस्⟫ also occurs with pronominal stems:
+Akhiran -⟪तस्⟫ juga terjadi pada batang pronominal:
 :::
 ::: indent
-⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "from there, there, thither, upon that, then, therefore"
+⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "dari sana, di sana, ke sana, atas itu, kemudian, oleh karena itu"
 
 ⟪यद्⟫ : ⟪यतस्⟫ "from which, of which, from where, where, whither, why, because" (relative)
 
@@ -116,7 +116,7 @@ The suffix -⟪तस्⟫ also occurs with pronominal stems:
 
 Relative clauses often express a causal (reasoning), consequential (following), or final (purposeful) relationship to the main clause.
 
-Forms of the relative pronoun that serve as causal conjunctions:
+[B0] Bentuk-bentuk kata ganti relatif yang berfungsi sebagai konjungsi kausal:
 
 *   ablative:
     *   ⟪यतस्⟫ ... subordinate clause ... ⟪ततस्⟫ ... main clause ... = "because ..., therefore ..."
@@ -132,19 +132,20 @@ Example:
 ::: grammar-box
 **2\. ⟪हि⟫**
 
-Main clauses can be linked to one another using the particle ⟪हि⟫ "for, because". A sentence with ⟪हि⟫ (which must not stand in first place, but must stand in second place in prose) indicates a reason either for the preceding sentence or for the following sentence:
-:::
-Example:
+[Kalimat utama dapat saling dihubungkan menggunakan partikel ⟪हि⟫ "karena, sebab". Sebuah kalimat dengan ⟪हि⟫ (yang tidak boleh berada di tempat pertama, tetapi harus berada di tempat kedua dalam prosa) menunjukkan alasan baik untuk kalimat sebelumnya maupun untuk kalimat berikutnya:]
+[K0] :::
+[K1] Contoh:
 
+:::
 ::: indent
 ⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "People do meritorious deeds. For they wish to enter heaven."
 :::
 ::: grammar-box
 **3\. Instrumental (⟪तृतीया⟫)**
 
-In addition to the ablative (⟪पञ्चमी⟫), the instrumental (⟪तृतीया⟫) is used to indicate the reason or cause. With feminine nouns, the instrumental is generally obligatory.
+Selain kasus ablative (⟪पञ्चमी⟫), kasus instrumental (⟪तृतीया⟫) digunakan untuk menunjukkan alasan atau sebab. Dengan kata benda feminin, kasus instrumental umumnya wajib.
 :::
-Example:
+Contoh:
 
 ::: indent
 ⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "He kills his son out of anger" = "He kills his son in anger"
@@ -168,14 +169,14 @@ Example:
 ::: grammar-box
 **5\. ⟪इति⟫**
 
-The motive for an action can be expressed as a thought with ⟪इति⟫:
+Motif untuk suatu tindakan dapat dinyatakan sebagai pikiran dengan ⟪इति⟫:
 :::
-Example:
+Contoh:
 
 ::: indent
-⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Because the Sugata has fully awakened to the truth, Ānanda asks Gautama about his teaching" (« "Thinking "The Sugata has fully awakened to the truth" ...)
+⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Karena Sugata telah sepenuhnya terbangun menuju kebenaran, Ānanda bertanya kepada Gautama tentang ajarannya" (« "Berpikir "Sugata telah sepenuhnya terbangun menuju kebenaran" ...)
 :::
-## 25.5. Word List
+## 25.5. Daftar Kata
 
 ⟪त्यज्⟫ 1P ⟪त्यजति⟫  leave, abandon, forsake
 
@@ -212,9 +213,9 @@ Absol. 2: -⟪धृत्य⟫
 
 therefrom:
 
-⟪धर्म⟫ m.: that which is firm and holds firm = Dharma
+⟪धर्म⟫ m.: yang teguh dan tetap = Dharma
 :::
-⟪नित्य⟫ ⟪३⟫ : constant, steadfast, eternal
+⟪नित्य⟫ ⟪३⟫ : konstan, teguh, abadi
 
 ::: indent
 ⟪नित्यम्⟫ Adv.: always, constantly, ever
@@ -367,7 +368,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ## 25.6. Exercise
 
-A) Complete the declension examples from [Lesson 16](lektion16.md), Review Exercise A, by adding 4. Dative (⟪चतुर्थी⟫) and 5. Ablative (⟪पञ्चमी⟫). Also form declension paradigms with all forms learned so far for
+A) Lengkapi contoh konjugasi dari [Pelajaran 16](lektion16.md), Latihan Tinjauan A, dengan menambahkan 4. Datif (⟪चतुर्थी⟫) dan 5. Ablatif (⟪पञ्चमी⟫). Juga bentuk paradigma konjugasi dengan semua bentuk yang telah dipelajari sejauh ini untuk
 
 ⟪१⟫. ⟪सन्त्⟫ (m., n.)
 
@@ -468,8 +469,7 @@ Explanation: ⟪राजा⟫ = Nom. sg. from ⟪राजन्⟫ m. = ⟪�
 ... ⟪॥⟫  
 ⟪कामक्रोधलोभमानमदहर्षत्यागा⟫***⟪त्कार्यः⟫*** ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
-
-Explanation of the words highlighted in red in the text above:
+Penjelasan kata-kata yang disorot merah dalam teks di atas:
 
 1.5.1. ⟪तिस्रस्⟫ : noun, accusative, feminine, from ⟪त्रि⟫ "three"
 

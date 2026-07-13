@@ -248,7 +248,7 @@ par ex. **⟪व्याघ्र⟫** m. "tigre" » **⟪वैयाघ्र
 Fig. : ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4801))
 :::
-## 48.4. Wortliste
+## 48.4. Liste de mots
 
 ⟪श्वस्⟫ : demain
 
@@ -355,7 +355,7 @@ Fig. : ⟪मम⟫ ⟪जाया⟫
 (Image: Payer)
 (Source de l'image : [Détails](/fr/licenses#lekt4809))
 :::
-## 48.5. Übung
+## 48.5. Exercice
 
 A) Traduisez les ⟪सुभाषितानि⟫ au début de la leçon.
 
@@ -382,7 +382,7 @@ B) Traduisez en sanskrit (utilisez l'impératif et de préférence les racines d
 19. Ils (pl.) doivent s'asseoir dans ma maison.
 20. Les maris doivent entretenir leurs épouses (au sens de soutien).
 
-## 48.6. Übersetzungsübung
+## 48.6. Exercice de traduction
 
 ⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫):
 

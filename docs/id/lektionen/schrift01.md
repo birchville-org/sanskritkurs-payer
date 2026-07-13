@@ -2,7 +2,7 @@
 
 ## Writing Exercise 1
 
-Sanskrit has been and continues to be written in a variety of scripts. The following overview provides a small selection from these scripts:
+Bahasa Sanskerta telah dan terus ditulis dalam berbagai aksara. Ikhtisar berikut menyediakan pilihan kecil dari aksara-aksara tersebut:
 
 ![](/images/schrift001.webp)  
 Fig.: Script samples Sanskrit  
@@ -12,7 +12,7 @@ The most important modern North Indian Sanskrit script is Devanāgarī:
 
 ![](/images/schrift002.webp)
 
-Each consonant character denotes a following "a" with the consonant. If the pure consonant is to be written (without a following vowel), this must be indicated by an underlined slash -- virāma = ⟪विराम⟫ --:
+Setiap karakter konsonan menunjukkan "a" yang mengikuti konsonan tersebut. Jika konsonan murni ditulis (tanpa vokal pengikut), hal ini harus ditunjukkan dengan garis miring bergaris bawah -- virāma = ⟪विराम⟫ --:
 
 ⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
 
@@ -22,11 +22,11 @@ Vowels following a consonant -- except "a" -- are written as follows:
 
 ⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
-The order when writing these combinations of consonant + vowel is:
+Urutan penulisan kombinasi konsonan + vokal ini adalah:
 
 ![](/images/schrift003.jpg)
 
-When writing, each letter including the crossbar is completed on the top line before the next letter is written.
+Saat menulis, setiap huruf termasuk palang horizontal diselesaikan di garis atas sebelum huruf berikutnya ditulis.
 
 ## Exercise
 
@@ -40,4 +40,4 @@ Read and transliterate:
 
 Additional reading exercise:
 
-⟪पिता⟫ Father, ⟪कपि⟫ Monkey, ⟪कृत⟫ done, ⟪टीका⟫ Subcommentary, ⟪तत्⟫ this, ⟪तट⟫ Shore, ⟪पत्⟫ to shoot forth, ⟪पट⟫ Fabric, ⟪काच⟫ Glass, ⟪काकुत्⟫ Palate, ⟪चित्⟫ to perceive, ⟪पृच्⟫ to mix, ⟪पोटक⟫ Servant, ⟪चेतु⟫ Intention, ⟪तौतातित⟫ Follower of Kumārila (Mīmāṃsā), ⟪तूत⟫ Mulberry tree, ⟪पीत⟫ drunk, ⟪पीति⟫ Drink, ⟪कॢप्⟫ to fit, ⟪कृपते⟫ he laments, ⟪पुटी⟫ Fold, ⟪चापि⟫ likewise, ⟪तोक⟫ Offspring, ⟪तृपत्⟫ full, ⟪पॄ⟫ to fill, ⟪कृकाटी⟫ Neck joint, ⟪पूपौ⟫ two cakes, ⟪पैतृकी⟫ paternal (fem.), ⟪कौट⟫ fraudulent, ⟪कच⟫ Topknot, ⟪कुतपे⟫ on the goat-hair mat, ⟪कुचौ⟫ Breast, ⟪चकिता⟫ frightened (fem.)
+⟪पिता⟩ Ayah, ⟪कपि⟩ Kera, ⟪कृत⟩ selesai, ⟪टीका⟩ Subkomentari, ⟪तत्⟩ ini, ⟪तट⟩ Pantai, ⟪पत्⟩ menembak keluar, ⟪पट⟩ Kain, ⟪काच⟩ Kaca, ⟪काकुत्⟩ Langit-langit mulut, ⟪चित्⟩ persepsi, ⟪पृच्⟩ mencampur, ⟪पोटक⟩ Pelayan, ⟪चेतु⟩ Niat, ⟪तौतातित⟩ Pengikut Kumārila (Mīmāṃsā), ⟪तूत⟩ Pohon murbei, ⟪पीत⟩ mabuk, ⟪पीति⟩ Minuman, ⟪कॢप्⟩ cocok, ⟪कृपते⟩ dia meratapi, ⟪पुटी⟩ Lipatan, ⟪चापि⟩ demikian juga, ⟪तोक⟩ Keturunan, ⟪तृपत्⟩ penuh, ⟪पॄ⟩ mengisi, ⟪कृकाटी⟩ Sendi leher, ⟪पूपौ⟩ dua kue, ⟪पैतृकी⟩ paternal (fem.), ⟪कौट⟩ curang, ⟪कच⟩ Ikal rambut di atas kepala, ⟪कुतपे⟩ pada tikar bulu kambing, ⟪कुचौ⟩ Payudara, ⟪चकिता⟩ takut (fem.)

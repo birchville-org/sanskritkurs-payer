@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 16
+# पाठ १६
 
 ## 16.1. बाह्य संधि के बारे में
 
@@ -19,9 +19,9 @@ status: stable
 
 |   |   |
 | :--- | :--- |
-| **विराम और अघोष ध्वनि के पूर्व** | **Ersetzung durch den ihnen entsprechenden stimmlosen nicht-aspirierten Laut:** :br **z.B.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
-| **अनासिक्य घोष ध्वनि के पूर्व** | **Ersetzung durch den ihnen entsprechenden stimmhaften nicht-aspirierten Laut:** :br **z.B.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-| **नासिक्य के पूर्व** | **Ersetzung durch den ihnen entsprechenden Nasal:** :br **z.B.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
+| **⟪विराम⟫ ⟪और⟫ ⟪अघोष⟫ ⟪ध्वनि⟫ ⟪के⟫ ⟪पूर्व⟫** | **उनके अनुरूप अघोष, अनुनासिक रहित ध्वनि से प्रतिस्थापन:** :br **उदाहरण के लिए** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **⟪अनासिक्य⟫ ⟪घोष⟫ ⟪ध्वनि⟫ ⟪के⟫ ⟪पूर्व⟫** | **उनके अनुरूप अनुनासिक रहित, घोष ध्वनि से प्रतिस्थापन:** :br **उदाहरण के लिए** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **⟪नासिक्य⟫ ⟪के⟫ ⟪पूर्व⟫** | **उनके अनुरूप अनुनासिक से प्रतिस्थापन:** :br **उदाहरण के लिए** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
 उपर्युक्त नियम का अपवाद:
@@ -32,10 +32,10 @@ status: stable
 
 |   |   |
 | :--- | :--- |
-| **तालव्य के पूर्व** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
-| **+ ś** | **» -cś- oder -cch-** |
-| **तालव्य के पूर्व** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
+| **⟪तालव्य⟫ ⟪के⟫ ⟪पूर्व⟫** | **संबंधित अनास्फुट कक्ष्य से प्रतिस्थापन:** :br **अर्थात** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
+| **+ ś** | **» -cś- या -cch-** |
+| **⟪तालव्य⟫ ⟪के⟫ ⟪पूर्व⟫** | **संबंधित अनास्फुट मूर्धन्य से प्रतिस्थापन:** :br **अर्थात** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **l- के पहले** | **-l से प्रतिस्थापन:** :br **अर्थात** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
 :::
 उदाहरण:
@@ -56,7 +56,7 @@ status: stable
 
 ⟪बलवत्⟫ + ⟪शत्रु⟫ = ⟪बलवच्छत्रु⟫
 
-## 16.2. Wortliste
+## 16.2. शब्दावली
 
 ⟪अध्यापन⟫ न.: उपदेश, शिक्षा
 
@@ -116,7 +116,7 @@ status: stable
 "हथेली में चक्र वाला हाथ जैन अहिंसा के व्रत का प्रतीक है। बीच में शब्द 'अहिंसा' है। चक्र धर्मचक्र का प्रतिनिधित्व करता है, जो सत्य और अहिंसा के निरंतर प्रयास के माध्यम से पुनर्जन्म के चक्र को रोकने के संकल्प का प्रतीक है।"
 (छवि स्रोत: [विवरण](/hi/licenses#lekt1603))
 :::
-## 16.3. Übung
+## 16.3. अभ्यास
 
 A) निम्नलिखित अभिव्यक्तियों को तत्पुरुष में परिवर्तित करें और उनका अनुवाद करें:
 
@@ -172,7 +172,7 @@ B) निम्नलिखित वाक्यों में सभी स�
 
 ⟪१०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
 
-## 16.4. Wiederholungsübung
+## 16.4. पुनरावृत्ति अभ्यास
 
 A) इसी तक सीखे गए सभी विभक्तियों को निम्नलिखित शब्दों के लिए उदाहरण के रूप में बनाएं, जो अभी तक सीखी गई विभक्ति वर्गों के उदाहरण हैं।
 

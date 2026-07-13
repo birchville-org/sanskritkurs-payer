@@ -73,7 +73,7 @@ Nota: En relaziuns cun in cuntegn generalmain valaivel vegn gustà d'utilisar il
 
 :::
 
-## 19.3. Wortliste
+## 19.3. Glista da pleds
 
 **⟪अर्थ⟫** m.: Fin, Scopo, Significà (d'ina paraula), Richezza, Possessi, Patrimoni. **⟪अर्थम्⟫** (Akk.), **⟪अर्थेन⟫** (Instr.) cun Gen. u sco postader d'in Tatpuruṣa: per ..., per.
 
@@ -173,7 +173,7 @@ Imm.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **⟪हि⟫ :** perquai, già, ena (nua mai betg en il cumenzament d'ina frasa)
 
-## 19.4. Übung
+## 19.4. Exercizi
 
 **Traducir en Sánscrito:**
 

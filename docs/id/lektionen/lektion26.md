@@ -1,24 +1,24 @@
 ---
-title: Lesson 26
-subtitle: "Law of cerebralisations for -s- within the word"
+judul: Pelajaran 26
+subtitle: "Hukum cerebralisasi untuk -s- di dalam kata"
 lesson_id: 26
 last_reconstructed: 2026-05-21
-category: "Grammar"
-status: stable
+kategori: "Tata Bahasa"
+status: stabil
 ---
 
 # Lesson 26
 
-## 26.1. Rule of Cerebralization for -s- within the Word
+## 26.1. Aturan Kerebralisasi untuk -s- di dalam Kata
 
 ::: grammar-box
-**-s-** is replaced by **-ṣ-** when **k, r, l** or a **vowel** — except **a, ā** — immediately precedes or is separated only by **⟪अनुस्वार⟫** or **⟪विसर्ग⟫** and another sound than **ṛ, r** follows.
+**-s-** diganti dengan **-ṣ-** ketika **k, r, l** atau sebuah **vokal** — kecuali **a, ā** — segera mendahului atau hanya dipisahkan oleh **⟪अनुस्वार⟫** atau **⟪विसर्ग⟫** dan bunyi lain selain **ṛ, r** mengikuti.
 
-This Sandhi also applies to **⟪दुस्⟫-** before voiceless gutturals and labials in compounds.
+Sandhi ini juga berlaku untuk **⟪दुस्⟫-** sebelum gutural dan labial tak bersuara dalam majemuk.
 :::
-*Examples:*
+*Contoh:*
 ::: indent
-**⟪तेषाम्⟫** (from: *te-sām*)
+**⟪तेषाम्⟫** (dari: *te-sām*)
 
 but: **⟪तासाम्⟫** (*tā-sām*)
 :::
@@ -29,9 +29,9 @@ Dental stops are replaced by the corresponding retroflexes after retroflexes (in
 
 - **iṣ** + **-ta** = **iṣṭa** (⟪इष्ट⟫)
 - **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
-  *(**ṣ** due to the preceding **i**, **ṭh** due to the subsequently preceding **ṣ**)*
+*(**ṣ** karena sebelumnya **i**, **ṭh** karena sebelumnya **ṣ**)*
 :::
-## 26.3. Word Sandhi for Palatals, Velars, ṣ, h + -s
+## 26.3. Sandhi Kata untuk Palatal, Velar, ṣ, h + -s
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
@@ -41,7 +41,7 @@ See examples below
 ## 26.4. Grassmann's Law of Breath Dissimilation
 
 ::: grammar-box
-**An immediate consequence of two aspirates (aspirate - vowel - aspirate) is the loss of aspiration of the first sound:**
+**Konsekuensi langsung dari dua aspirat (aspirat - vokal - aspirat) adalah hilangnya aspirasi pada bunyi pertama:**
 
 Example:
 
@@ -49,22 +49,22 @@ Example:
 ::: indent
 \*dhu(gh) » du(g)h
 :::
-**If, due to sound laws, the second sound loses its aspiration, then aspiration reappears on the first sound.**
+**Jika, karena hukum bunyi, bunyi kedua kehilangan aspirasinya, maka aspirasi muncul kembali pada bunyi pertama.**
 
-Examples: see below Future of  ⟪दुह्⟫ and  ⟪बुध्⟫
+Contoh: lihat di bawah Masa Depan dari  ⟪दुह्⟫ dan  ⟪बुध्⟫
 ::: media
 ![](/images/lekt2601.webp)
 Fig.: Hermann Grassmann
-(Image source: [Details](/en/licenses#lekt2601))
+(Sumber gambar: [Details](/en/licenses#lekt2601))
 :::
-## 26.5. Word Sandhi for -m, -n before Sibilants
+## 26.5. Sandhi Kata untuk -m, -n sebelum Sibilan
 
 ::: grammar-box
 **Before sibilants, -n and -m are replaced by -ṃ-:**
 
-Example: s. below Future tense of ⟪मन्⟫
+Contoh: l. di bawah Ini Bentuk Masa Depan dari ⟪मन्⟫
 :::
-## 26.6. Use of the Simple Future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.6. Penggunaan Bentuk Masa Depan Sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟩ f.)
 
 ::: grammar-box
 **The Simple Future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) expresses:**
@@ -78,9 +78,9 @@ Example: s. below Future tense of ⟪मन्⟫
 - **speaker's opinion**
 - **command**
 
-**The future tense partially competes with the optative (see later).**
+**Bentuk masa depan sebagian bersaing dengan optatif (lihat selanjutnya).**
 :::
-e.g. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Someone who wishes to make a vow goes to the temple."
+mis. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Seseorang yang ingin membuat janji pergi ke kuil."
 
 
 ::: media
@@ -102,13 +102,13 @@ Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ 
 
 :::
 ::: indent
-**(usually) guṇa-grade root + -sya**  
-**or**  
-**(usually) guṇa-grade root + -i- + -sya (= - iṣya)**
+**(biasanya) akar kelas guṇa + -sya**  
+**atau**
+**(biasanya) akar kelas guṇa + -i- + -sya (= - iṣya)**
 :::
-**One must learn with the stem forms which root has which formation of the future stem!**  
-**In general, the root form and the connecting vowel of the future correspond to the infinitive.**  
-**Some roots can optionally form the future with and without the connecting vowel -i-.**  
+**Haruslah dipelajari dengan bentuk-bentuk stam, akar mana yang memiliki pembentukan stam masa depan!**
+**Secara umum, bentuk akar dan vokal penghubung dari masa depan sesuai dengan infinitif.**
+**Beberapa akar dapat secara opsional membentuk masa depan dengan dan tanpa vokal penghubung -i-.**
 **The Parasmaipada participle of the future is formed by adding the suffix -nt- to the future stem, feminine optionally on -ntī or -tī:**
 
 ::: indent

@@ -1,12 +1,12 @@
-# Writing Exercise 10
+# Writing ܬܪܓܡܬܐ 10
 
-### Second Rule for the Formation of Consonant Ligatures
+### ܦܽܘܩܕܳܢܳܐ ܬܪܰܝܳܢܳܐ ܠܨܽܘܪܬܳܐ ܕܡܰܠܘܳܝ̈ܳܬܳܐ ܕܩܳܠܶܐ ܫܰܠܝ̈ܶܐ
 
 [First Rule see in [Writing Exercise 8](schrift08.md)]
 
-If the first of the consonants to be combined does not end with a vertical stroke, then the following consonant is placed under the first consonant with the loss of its horizontal stroke.
+ܐܝܟܢܐ ܕܠܫܘܢܐ ܕܟܬܒܐ ܠܐ ܫܪܝܩ ܒܣܘܼܡܟܐ ܕܠܝܫܪܐ، ܬܩܘܡ ܠܫܘܢܐ ܕܟܬܒܐ ܠܝܫܪܐ ܕܡܬܩܪܒ ܠܟܢܫ ܕܡܬܩܪܒ ܠܟܢܫ.
 
-Exceptions: If ⟪म्⟫ or ⟪य्⟫ is the second member of the ligature, they are written shortened after the first character:
+ܐܝܕܝܬ: ܐܝܟܢܐ ܕ⟪म्⟫ ܘܠܐ ܕ⟪य्⟫ ܗܘ ܠܝܫܪܐ ܕܡܬܩܪܒ، ܗܘ ܠܝܫܪܐ ܕܡܬܩܪܒ ܠܟܢܫ.
 
 > ⟪क्म⟩ kma, ⟪ङ्म⟩ ṅma, ⟪द्म⟩ dma, ⟪ह्म⟩ hma, ⟪क्य⟩ kya, ⟪छ्य⟩ chya, ⟪द्य⟩ dya, ⟪ह्य⟩ hya
 
@@ -24,11 +24,11 @@ Examples (exceptions are underlined):
 
 ![](/images/schrift022.webp)
 
-### Exercise
+### ܬܪܓܠܐ
 
 Write all the ligatures listed above
 
-### List of the most common ligatures in the script type of Kielhorn's Grammar
+### ܡܟܬܒܢܘܬܐ ܕܩܛܝܪ̈ܐ ܝܬܝܪ̈ܐ ܫܘܝܚ̈ܐ ܒܟܬܒܐ ܕܕܘܟܝܬܐ ܕܕקדܩܐ ܕܩܝܠܗܘܪܢ
 
 ![](/images/schrift023.jpg)
 
@@ -36,7 +36,7 @@ Write all the ligatures listed above
 
 ![](/images/schrift025.webp)
 
-### Exercise
+### ܬܪܓܠܐ
 
 Read and transliterate:
 

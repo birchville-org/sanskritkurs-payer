@@ -278,7 +278,7 @@ Exemple :
 ::: indent
 ⟪दुर्णाम्नी⟫ « une dont le nom est mauvais ; déesse de la maladie »
 :::
-## 38.9. Wortliste
+## 38.9. Liste de mots
 
 ⟪सूर्य⟫ m. : Soleil, dieu-soleil Sūrya
 
@@ -406,7 +406,7 @@ Fig. : ⟪अशोकवृक्षः⟫
 Fig. : ⟪अशोकसाम्राज्यम्⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3811))
 :::
-## 38.10. Übung
+## 38.10. Exercice
 
 A) Conjuguez les formes appropriées des mots entre parenthèses dans les phrases suivantes et traduisez :
 
@@ -440,7 +440,7 @@ A) Conjuguez les formes appropriées des mots entre parenthèses dans les phrase
 
 ... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫)
 
-## 38.11. Wortliste zur Übersetzungsübung
+## 38.11. Liste de mots pour l'exercice de traduction
 
 ⟪प्राय⟫ m. : l'essentiel, Instr. ⟪प्रायेण⟫ : le plus souvent, habituellement (à ⟪प्र⟫-⟪इ⟫)
 
@@ -551,7 +551,7 @@ Inf. ⟪सर्तुम्⟫
 
 ⟪अधस्⟫ Adv. : vers le bas
 
-## 38.12. Übersetzungsübung
+## 38.12. Exercice de traduction
 
 *⟪दश⟫* ⟪मूढाः⟫
 

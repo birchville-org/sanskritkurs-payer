@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 17
 
-## 17.1. Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)
+## 17.1. Segunda classa dal temp preschent (⟪adādi⟫ = ⟪ad⟫ e.u.v.)
 
 Las desinenzas verbalas s'attachesch directamain a la radis. Qua èn las midadas da son da resguardar, che resulteschan dal Wortsandhi.
 
@@ -233,7 +233,7 @@ Aunch ⟪स्तु⟫ 2 U "preisan" ha cunzè las sut 3. inditgadas formas su
 | 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
-## 17.6. Wortliste
+## 17.6. Glista da pleds
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : batter, uccider, mort
 
@@ -314,7 +314,7 @@ A) Insirir il verb en las suentas frasis e tradusì:
 
 B) Mettais en il plural l'agent e il verb en las frasis creadas en A)
 
-## 17.8. Übung 2
+## 17.8. Exercizi 2
 
 Traducir las siguientes formas verbales e indicar la raíz correspondiente:
 

@@ -10,21 +10,21 @@ status: stable
 # Lesson 12
 
 ::: deleteme-box
-**In this lesson, you will learn:**
-- The Perfect Passive Participle (PPP)
-- The meaning of the PPP
-- The formation of the PPP
-- Laws of sound combination in words
-- Passive and PPP of the roots learned so far
+**Dalam pelajaran ini, Anda akan mempelajari:**
+- Kata Kerja Partisip Pasif Sempurna (PPP)
+- Makna dari PPP
+- Pembentukan PPP
+- Hukum kombinasi bunyi dalam kata-kata
+- Bentuk Pasif dan PPP dari akar kata yang telah dipelajari sejauh ini
 :::
 ---
 
 ## 12.1. Perfect Passive Participle (PPP)
 
-One way to form passive sentences of the past is the construction with the so-called Perfect Passive Participle (PPP).
+Salah satu cara untuk membentuk kalimat pasif pada masa lampau adalah konstruksi dengan apa yang disebut Partisip Lampau Pasif (PPP).
 
 ::: grammar-box
-**In reality, the PPP is not a true participle, as it is not formed from a tense stem. Rather, it is a nominal formation from the root with the primary suffix -ta or -na. Therefore, in Indian grammar, one speaks of the suffix kta.**
+**Pada kenyataannya, PPP bukanlah partisip sejati, karena tidak dibentuk dari batang waktu. Sebaliknya, itu adalah pembentukan nomina dari akar dengan akhiran primer -ta atau -na. Oleh karena itu, dalam tata bahasa India, seseorang berbicara tentang akhiran kta.**
 :::
 ---
 
@@ -33,44 +33,44 @@ One way to form passive sentences of the past is the construction with the so-ca
 ::: grammar-box
 **Agent (kartṛ) in the Instrumental (tṛtīyā) -- direct object (karman) in the Nominative (prathamā) -- Perfect Passive Participle**
 
-In this case, the PPP agrees with the object in number, case, and gender.
+Dalam kasus ini, PPP sepakat dengan objek dalam jumlah, kasus, dan jenis kelamin.
 
 An auxiliary verb ("to be") is not necessary.
 
-Examples:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = "(By the saint, a heaven was attained) = The saint has attained a heaven."
+Contoh:
+> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = "(Oleh orang suci, surga telah dicapai) = Orang suci tersebut telah mencapai surga."
 > 
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = "(By the Brahmin, the goddess was honored with a sacrifice) = The Brahmin has honored the goddess with a sacrifice."
+> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = "(Oleh Brahmin, dewi disembah dengan kurban) = Brahmin tersebut telah menyembah dewi itu dengan kurban."
 :::
 ---
 
-### 12.1.2. Schema I for Intransitive Verbs and Verbs of Motion
+### 12.1.2. Skema I untuk Verba Intransitif dan Verba Gerak
 
 ::: grammar-box
 **Agent (kartṛ) in the Nominative (prathamā) -- Perfect Passive Participle**
 
-In this case, the PPP agrees with the agent in number, case, and gender. The Perfect Passive Participle has an active meaning with intransitive verbs (verbs without a direct object) and verbs of motion.
+Dalam kasus ini, PPP sepakat dengan agen dalam jumlah, kasus, dan jenis kelamin. Partisip Pasif Sempurna memiliki makna aktif dengan kata kerja intransitif (kata kerja tanpa objek langsung) dan kata kerja gerak.
 
 Example:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "The Kṣatriya woman has gone into the city."
 :::
 ---
 
-### 12.1.3. Schema II for Intransitive Verbs and Verbs of Motion
+### 12.1.3. Skema II untuk Verba Intransitif dan Verba Gerak
 
 ::: grammar-box
 **Agent (kartṛ) in the Instrumental (tṛtīyā) -- PPP in the Nominative Singular Neuterum**
 
 Example:
-> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(By the Kṣatriya, (into the city) has been gone) = The Kṣatriya has (gone into the city).“
+> **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Oleh Kṣatriya, (ke kota) telah pergi) = Sang Kṣatriya telah (pergi ke dalam kota).“
 
-The construction according to Schema II is much rarer than the construction according to Schema I.
+Konstruksi menurut Skema II jauh lebih jarang daripada konstruksi menurut Skema I.
 :::
 ---
 
-## 12.2. On the Significance of the PPP
+## 12.2. Pada Signifikansi PPP
 
-Thus, while the so-called "Participle Perfect Passive" for transitive verbs has primarily a passive meaning (**āpta** = "reached (been)") and for intransitive verbs and verbs of motion an active meaning (**gata** = "gone"), there are some verbs for which the PPP can have both active and passive meaning:
+Dengan demikian, sementara yang disebut "Partisip Sempurna Pasif" untuk kata kerja transitif terutama memiliki makna pasif (**āpta** = "tercapai (telah)") dan untuk kata kerja intransitif serta kata kerja gerak memiliki makna aktif (**gata** = "pergi"), terdapat beberapa kata kerja di mana PPP dapat memiliki kedua makna aktif dan pasif:
 
 e.g.
 - **gata** = ⟪गत⟫ = "gone" (active); but also: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = "a path gone" (passive)
@@ -90,7 +90,7 @@ The following formation methods occur (for each root, its PPP must be learned ac
   - without connecting vowel: **-ta**
 - **+ -na**
 
-The feminine stems are: **-tā**, **-itā**, **-nā**; the neuter declines like **phala** n.
+Stem feminin adalah: **-tā**, **-itā**, **-nā**; netra dideklinasikan seperti **phala** n.
 :::
 ---
 
@@ -101,7 +101,7 @@ The feminine stems are: **-tā**, **-itā**, **-nā**; the neuter declines like 
 *aniṭ* = “without (*an-*) the suffix preceding (*-i-*) *t*” (i.e., without the connecting vowel *i*).
 
 ::: grammar-box
-Without a connecting vowel, the PPP is generally formed from roots ending in a vowel, as well as from many other roots, without there being a fixed rule for which structured roots exhibit the connecting vowel and which do not.
+Tanpa vokal penghubung, PPP umumnya dibentuk dari akar yang berakhir dengan vokal, serta dari banyak akar lainnya, tanpa ada aturan tetap mengenai akar terstruktur mana yang menunjukkan vokal penghubung dan mana yang tidak.
 
 A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 :::
@@ -125,7 +125,7 @@ A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 :::
 #### 12.3.1.2. With connecting vowel -i- (seṭ)
 
-*seṭ* = *sa-iṭ* = “with (*sa-*) the suffix preceding (*-i-*) *t*” (i.e., with the connecting vowel *i*).
+*seṭ* = *sa-iṭ* = “dengan (*sa-*) akhiran mendahului (*-i-*) *t*” (yaitu, dengan vokal penghubung *i*).
 
 **Examples:**
 
@@ -141,34 +141,34 @@ A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 
 ## 12.4. Laws of Sound Combination in the Word
 
-In *aniṭ*-formations, the following laws of sound combination in the word must be observed. **These laws are very important for understanding the entire morphology of Sanskrit.**
+Dalam pembentukan *aniṭ*, hukum-hukum berikut mengenai kombinasi bunyi dalam kata harus diperhatikan. **Hukum-hukum ini sangat penting untuk memahami seluruh morfologi Sanskerta.**
 
 ::: no-header
 | | |
 | :--- | :--- |
-| **1. k, t, p before a voiceless stop (e.g. t, th) remain unchanged:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
-| **2. ct is replaced by kt = ⟪क्त्⟫:** | **muc + ta » muk-ta** = **⟪मुक्त⟫** |
-| **3. śt is replaced by ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = **⟪दृष्टि⟫**:br**dṛś + ta » dṛṣṭa** = **⟪दृष्ट⟫**:br**viś + ta » viṣṭa** = **⟪विष्ट⟫** |
-| **4. A voiced unaspirated stop – except j – before a voiceless sound is replaced by the corresponding voiceless unaspirated sound:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (important for the 2nd present class) |
-| **5. jt is replaced by kt or ṣṭ (not optional!):** | **yuj + ta » yuk-ta** = **⟪युक्त⟫**:br**yaj + ta » iṣ-ṭa** = **⟪इष्ट⟫** (\< \*yj-ta):br**sṛj + ta » sṛṣ-ṭa** = **⟪सृष्ट⟫**:br**sṛj + ti » sṛṣ-ṭi** = **⟪सृष्टि⟫** |
-| **6. A voiced aspirated stop + a voiceless stop » a voiced unaspirated stop + a voiced aspirated stop (Bartholomew’s Aspiration Law):** | **bh-t » b-dh:**:br**labh + ta » lab-dha** = **⟪लब्ध⟫**:br**dh-t » d-dh:**:br**budh + ta » bud-dha** = **⟪बुद्ध⟫**:br**yudh + ta » yud-dha** = **⟪युद्ध⟫**:br**krudh + ta » krud-dha** = **⟪क्रुद्ध⟫** |
-| **7. h-t is replaced by ḍh with lengthening of a preceding i or u; or by gdh. Before such a ḍh, a is replaced by o, rarely by ā:** | **dah + ta » dag-dha** = **⟪दग्ध⟫**:br**guh + ta » gūḍha** = **⟪गूढ⟫** (guh 1 (gūhati) “to conceal something”):br**muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫**:br**sah + ta » soḍha** = **⟪सोढ⟫** |
+| **1. k, t, p sebelum hambat tak bersuara (misalnya t, th) tetap tidak berubah:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
+| **2. ct diganti dengan kt = ⟪क्त्⟫:** | **muc + ta » muk-ta** = **⟪मुक्त⟫** |
+| **3. śt diganti dengan ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = **⟪दृष्टि⟫**:br**dṛś + ta » dṛṣṭa** = **⟪दृष्ट⟫**:br**viś + ta » viṣṭa** = **⟪विष्ट⟫** |
+| **4. Hambat bersuara tanpa aspirasi – kecuali j – sebelum bunyi tak bersuara diganti dengan hambat tak bersuara tanpa aspirasi yang sesuai:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (penting untuk kelas present ke-2) |
+| **5. jt diganti dengan kt atau ṣṭ (tidak opsional!):** | **yuj + ta » yuk-ta** = **⟪युक्त⟫**:br**yaj + ta » iṣ-ṭa** = **⟪इष्ट⟫** (\< \*yj-ta):br**sṛj + ta » sṛṣ-ṭa** = **⟪सृष्ट⟫**:br**sṛj + ti » sṛṣ-ṭi** = **⟪सृष्टि⟫** |
+| **6. Hambat bersuara dengan aspirasi + hambat tak bersuara » hambat bersuara tanpa aspirasi + hambat bersuara dengan aspirasi (Hukum Aspirasi Bartholomew):** | **bh-t » b-dh:**:br**labh + ta » lab-dha** = **⟪लब्ध⟫**:br**dh-t » d-dh:**:br**budh + ta » bud-dha** = **⟪बुद्ध⟫**:br**yudh + ta » yud-dha** = **⟪युद्ध⟫**:br**krudh + ta » krud-dha** = **⟪क्रुद्ध⟫** |
+| **7. h-t diganti dengan ḍh dengan pemanjangan i atau u sebelumnya; atau oleh gdh. Sebelum ḍh seperti itu, a diganti dengan o, jarang oleh ā:** | **dah + ta » dag-dha** = **⟪दग्ध⟫**:br**guh + ta » gūḍha** = **⟪गूढ⟫** (guh 1 (gūhati) “menyembunyikan sesuatu”):br**muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫**:br**sah + ta » soḍha** = **⟪सोढ⟫** |
 :::
 ---
 
 ## 12.5. Word List
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : to awaken, to awaken to knowledge, to recognize; PPP **buddha** 3 awakened, hence **Buddha** = "the Awakened" (not: the Enlightened)
+- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : terbangun, terbangun menuju pengetahuan, mengenali; PPP **buddha** 3 yang terbangun, oleh karena itu **Buddha** = "Yang Terbangun" (bukan: Yang Tercerahkan)
 
 ::: media
 ![](/images/lekt1201.webp)
 Fig.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Image source: [Details](/en/licenses#lekt1201))
+(Sumber gambar: [Details](/en/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : to burn (something)
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : to overcome, to endure, to endure patiently = to forgive
-- **mṛga** m. ⟪मृग⟫ : wild animal
-- **mārga** m. ⟪मार्ग⟫ : path (paths were often game trails)
+- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : membakar (sesuatu)
+- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : mengatasi, bertahan, bertahan dengan sabar = memaafkan
+- **mṛga** m. ⟪मृग⟫ : hewan liar
+- **mārga** m. ⟪मार्ग⟫ : jalan (jalan-jalan sering berupa jalur satwa)
 
 ::: media
 ![](/images/lekt1202.webp)
@@ -177,16 +177,16 @@ Fig.: ⟪मार्गः⟫
 :::
 - **api** ⟪अपि⟫ : also (postposed)
 
-Regarding the 6th conjugation class, some roots are counted by indigenous grammarians that form the present stem with nasal infix and thematic vowel a, e.g.:
+Mengenai kelas konjugasi ke-6, beberapa akar kata dihitung oleh para gramatikus pribumi yang membentuk batang kini dengan sisipan nasal dan vokal tematik a, misalnya:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : to release, to let go, to liberate; to liberate from the cycle of rebirths (**saṃsāra** m.) = to save
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : to sprinkle
+- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : melepaskan, membiarkan; membebaskan dari siklus kelahiran kembali (**saṃsāra** m.) = menyelamatkan
+- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : memercikkan
 
 Regarding word formation:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : detachment, liberation, salvation
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : anointing of a king during the royal consecration, royal consecration
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : the awakening (through which a Buddha or Jina attains liberating insight)
+- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : pelepasan, pembebasan, keselamatan
+- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : pengurapan raja selama konsekrasi kerajaan, konsekrasi kerajaan
+- **budh**: **bodhi** m./f. ⟪बोधि⟫ : kebangkitan (melalui mana seorang Buddha atau Jina mencapai wawasan pembebasan)
 
 ::: media
 ![](/images/lekt1203.webp)
@@ -197,7 +197,7 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 ---
 
-### 12.5.1. Passive and PPP of the Roots Learned So Far
+### 12.5.1. Bentuk Pasif dan PPP dari Akar-akar yang Telah Dipelajari
 
 | Root:br⟪धातु⟫ | Passive Present 3. sg. Indicative:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
@@ -251,7 +251,7 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 ## 12.6. Exercise
 
-**A) Form passive sentences in the past tense from the active sentences of [Lesson 7](/lessons/lesson07), Exercise A, and for intransitive verbs and verbs of motion, form active sentences in the past tense.**
+**A) Bentuk kalimat pasif dalam bentuk lampau dari kalimat aktif pada [Pelajaran 7](/lessons/lesson07), Latihan A, dan untuk kata kerja intransitif serta kata kerja gerak, bentuk kalimat aktif dalam bentuk lampau.**
 
 **B) Form the corresponding PPPs for the verb forms of [Lesson 10](/lessons/lesson10), Exercise A. Note that a form like sṛjati corresponds to PPPs in all three genders.**
 

@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 45
+# ܬܪܓܠܐ 45
 
-A) Translate into Sanskrit (use the imperfect for the past tense):
+[A] תרגם לסנסקריט (השתמש באימפרפקט לזמן העבר):
 
 ⟪१⟫. **⟪सङ्घं⟫ ⟪भिनत्सि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 You split the (Buddhist) community.
@@ -26,7 +26,7 @@ Holy man, why do you not fear dangers?
 Father, where are you going as you leave the family?
 
 ⟪६⟫. **⟪शूद्रे⟫ ⟪ऽपि⟫ ⟪धनिनो⟫ ⟪ब्राह्मणस्य⟫ ⟪गृहं⟫ ⟪भारमबिभः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Śūdra woman, did you perhaps carry the burden into the house of the rich Brāhmaṇa?
+ܐܝܬܟܢ ܕܒܪܬ ܫܘ̈ܕܪܐ، ܗܠܟܬ ܒܡ̈ܘܛܢܐ ܠܟܬܒܐ ܕܒܪܝܫܐ ܓܒܪܐ؟
 
 ⟪७⟫. **⟪देवि⟫ ⟪कृतपुण्यस्य⟫ ⟪वैश्यस्य⟫ ⟪सुखेष्टिं⟫ ⟪पिपूर्याः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 Goddess, you should fulfill the wish for happiness of the Vaiśya, who has done merit.
@@ -42,12 +42,12 @@ Did you, O poet, perhaps measure the worlds?
 
 ---
 
-## Practice Texts
+## ܡܰܬܠܶܐ ܕܬܶܪܓܳܠܳܐ
 
 B) Translate:
 
 ⟪१⟫. **⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Arjuna, either you will be killed and attain heaven, or you will win and enjoy the earth. Therefore, fighting is to be done by you (you must fight).
+אַרְגּוֹנָא, אוֹ תְקַטֵּל וְתִיתֵי לִשְׁמַיָּא, אוֹ תֵיתֵי וְתִמְלֹךְ עַל אַרְעָא. לָכֵן, מִצְוָה עָלַיִךְ לִשְׁתַּפְּקָא בְּמִלְחֲמָה.
 
 ⟪२⟫. **⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 Venerable one, how have you ended the infinite suffering?
@@ -56,7 +56,7 @@ Venerable one, how have you ended the infinite suffering?
 Brāhmaṇa, did you pour ghee into the sacrificial fire?
 
 ⟪४⟫. **⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Enemy, with the sword you do not split the soul (life).
+ܣܘܡܩܐ، ܒܫܦܪܬܐ ܠܝܣܘܡ ܠܢܫܡܬܐ (ܚܝܘܬܐ).
 
 ::: media
 ![](/images/uebung074.webp)

@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 56
+# الدرس 56
 
-## 56.1. Der reduplizierte Aorist
+## 56.1. الأوريست المضعف
 
 ::: grammar-box
 **التعليم:**

@@ -12,10 +12,10 @@ status: stable
 ## 52.1. Neuter of stems ending in -i and -u
 
 ::: grammar-box
-**Before endings starting with a vowel, an -n- is inserted; this is an influence of the n-stems (-in).**
+**Sebelum akhiran yang dimulai dengan vokal, -n- disisipkan; ini adalah pengaruh dari stem-n (-in).**
 :::
 ::: grammar-box
-| | **⟪वारि⟫ n.:br"water"** | **⟪मधु⟫ n.:br"honey"** |
+| | **⟪वारि⟫ n.:br"air"** | **⟪मधु⟫ n.:br"sari"** |
 | :--- | :---: | :---: |
 | **⟪एकवचनम्⟫** |||
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫** | ⟪वारि⟫ | ⟪मधु⟫ |
@@ -33,12 +33,12 @@ status: stable
 | **⟪षष्ठी⟫** | ⟪वारीणाम्⟫ | ⟪मधूनाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪वारिषु⟫ | ⟪मधुषु⟫ |
 :::
-## 52.2. Nominal Derivation
+## 52.2. Turunan Nominal
 
 ### 52.2.1. PPP + -vant: Past Participle of the Parasmaipada
 
 ::: grammar-box
-**A past participle of the Parasmaipada is formed as follows:**
+**Partisip lampau dari Parasmaipada dibentuk sebagai berikut:**
 
 **PPP + -vant / fem.: vatī**
 **Declension like the stems in -vant respectively f. ⟪देवी⟫**
@@ -57,7 +57,7 @@ Examples:
 ### 52.2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
 
 ::: grammar-box
-**The ⟪तद्धित⟫-suffix -maya / f.: -mayī forms adjectives from nouns with the meaning**
+**Sufiks ⟪तद्धित⟫ -maya / f.: -mayī membentuk kata sifat dari kata benda dengan makna**
 
 *   **"made of"**
 *   **"consisting of"**
@@ -74,24 +74,24 @@ Examples:
 
 ⟪वाङ्मय⟫ 3 (to ⟪वाच्⟫ f. "language") "consisting of speech"
 
-⟪सोममय⟫ 3 "made of Soma, consisting of Soma"
+⟪सोममय⟫ 3 "terbuat dari Soma, terdiri atas Soma"
 :::
 ::: grammar-box
-**Nouns ending in -maya are occasionally used as neuter nouns and then denote an abundance of what is designated by the noun to which -maya is added.**
+**Kata benda yang berakhiran -maya kadang-kadang digunakan sebagai kata benda neutrum dan kemudian menyatakan kelimpahan dari apa yang ditunjuk oleh kata benda tempat -maya ditambahkan.**
 :::
 ::: indent
-e.g. ⟪अन्नमय⟫ n. "abundance of food"
+mis. ⟪अन्नमय⟫ n. "kelimpahan makanan"
 :::
 ::: media
 ![](/images/lekt5202.webp)
 Fig.: ⟪अन्नमयम्⟫
 ⟪विवाहः⟫, Chennai = சென்னை
-(Image source: [Details](/en/licenses#lekt5202))
+(Sumber gambar: [Details](/en/licenses#lekt5202))
 :::
 ### 52.2.3. ⟪तद्धित⟫-Suffix -eya
 
 ::: grammar-box
-**The ⟪तद्धित⟫-suffix -eya / f.: -eyī occurs, among other things, with Feminines in the sense of**
+**Sufiks ⟪तद्धित⟫ -eya / f.: -eyī terjadi, antara lain, dengan Feminina dalam arti**
 
 *   **"Child of"**
 *   **"Descendant of"**
@@ -117,55 +117,54 @@ Wayang figure, Java, Indonesia
     ⟪द्विशस्⟫ "in pairs, two by two"  
     ⟪शतशस्⟫ "by hundreds, a hundred at a time"
 
-*   **other words**  
-    Examples:  
-    ⟪भागशस्⟫ "part by part"  
-    ⟪सर्वशस्⟫ "everywhere, all without exception"  
-    ⟪नित्यशस्⟫ "constantly"
+*   **kata lain**  
+    Contoh:  
+    ⟪भागशस्⟫ "satu per satu"  
+    ⟪सर्वशस्⟫ "di mana-mana, tanpa terkecuali"  
+    ⟪नित्यशस्⟫ "terus-menerus"
 :::: media
 ![](/images/lekt5204.webp)
-Fig.: ⟪अनुक्रमेणैकशः⟫
-Queue before temple, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
-(Image source: [Details](/en/licenses#lekt5204))
+Gambar: ⟪अनुक्रमेणैकशः⟫
+Antrean di depan kuil, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
+(Sumber gambar: [Rincian](/en/licenses#lekt5204))
 ::::
 :::
-## 52.4. Verbal compounds that express that something becomes or is made what it was not before (⟪अभुततद्भावः⟫)
+## 52.4. Komposisi verbal yang menyatakan bahwa sesuatu menjadi atau dibuat apa yang sebelumnya bukan (⟪अभुततद्भावः⟫)
 
 ### 52.4.1. cvi-formations
 
 ::: grammar-box
 **Before the roots**
 
-*   **⟪कृ⟫ 8U "to do"**
-*   **⟪अस्⟫ 2P "to be"**
-*   **⟪भू⟫ 1P "to become"**
+*   **⟪कृ⟫ 8U "melakukan"**
+*   **⟪अस्⟫ 2P "ada"**
+*   **⟪भू⟫ 1P "menjadi"**
 
-**nouns and adjectives can be placed as preverbs to express that someone makes a person or thing into that, or that a person or thing becomes what is designated by that noun.**
+**kata benda dan kata sifat dapat ditempatkan sebagai preverb untuk menyatakan bahwa seseorang menjadikan orang atau hal itu menjadi sesuatu, atau bahwa orang atau hal itu menjadi apa yang ditunjuk oleh kata benda tersebut.**
 
-**The ending of the noun is treated as follows:**
+**akhiran dari kata benda diperlakukan sebagai berikut:**
 
-
-The ending of the noun is treated as follows:
+akhiran dari kata benda diperlakukan sebagai berikut:
 
 *   **final -a and -ā of declinable words are replaced by -ī  **
-    Examples:  
-    ⟪कृष्णीभवति⟫ "something that is not black becomes black"  
-    ⟪कृष्णीकरोति⟫ "he makes something that is not black black"  
-    ⟪गङ्गीभवति⟫ "he/she becomes the Ganges"  
+Examples:  
+⟪कृष्णीभवति⟫ "something that is not black becomes black"  
+⟪कृष्णीकरोति⟫ "he makes something that is not black black"  
+⟪गङ्गीभवति⟫ "he/she becomes the Ganges"
 
 *   **final -i and -u are replaced by the corresponding long vowel  **
-    Examples:  
-    ⟪शुचीभवति⟫ "he/she/it becomes pure"  
-    ⟪गुरूभवामि⟫ "I become master"  
+Examples:  
+⟪शुचीभवति⟫ "he/she/it becomes pure"  
+⟪गुरूभवामि⟫ "I become master"
 
 *   **final -ṛ is replaced by --rī  **
     e.g. ⟪पित्रीभवति⟫ "one who is not a father (⟪पितृ⟫) becomes a father = a man gets his first child"  
 
 *   **final -n drops and the preceding vowel is treated according to the rules just mentioned  **
-    e.g. ⟪राजीबभूव⟫ "one (who was not king) became king (⟪राजन्⟫)"  
+e.g. ⟪राजीबभूव⟫ "one (who was not king) became king (⟪राजन्⟫)"
 
 *   **other multi-stem nouns stand in the form of the stem they have in the locative (⟪सप्तमी⟫) plural. The stem then undergoes the usual sandhi rules. See Kielhorn, Grammar § 489,3.  **
-    e.g. ⟪तिर्यक्करोति⟫ "he lies aside (⟪तिर्यच्⟫)"
+e.g. ⟪तिर्यक्करोति⟫ "he lies aside (⟪तिर्यच्⟫)"
 :::: media
 ![](/images/lekt5209.webp)
 Fig.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
@@ -180,11 +179,11 @@ Slash-and-burn agriculture, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪�
 
 **suffix -sāt (which never becomes -ṣāt)**
 
-**can be attached to the noun and the word thus formed connected with the roots**
+**dapat melekat pada kata benda dan kata yang terbentuk dengan demikian terhubung dengan akar**
 
-*   ⟪कृ⟫ 8U "to do"
-*   ⟪अस्⟫ 2P "to be"
-*   ⟪भू⟫ 1P "to become"
+*   ⟪कृ⟫ 8U "melakukan"
+*   ⟪अस्⟫ 2P "ada"
+*   ⟪भू⟫ 1P "menjadi"
 *   ⟪सम्⟫-⟪पद्⟫ 4Ā
 
 **to form a verbal compound.**
@@ -199,17 +198,16 @@ Examples:
 ::: grammar-box
 **Sometimes the suffix -sāt means that a person or thing**
 
-
-*   **to become dependent on that**
-*   **or to pass into the possession of that**
-*   **or that someone makes that dependent on that**
+*   **menjadi bergantung pada itu**
+*   **atau beralih ke kepemilikan atas hal tersebut**
+*   **atau bahwa seseorang menjadikan itu bergantung pada yang lain**
 
 **which is denoted by the noun**
 :::
 Example:
 
 ::: indent
-⟪राजसाद्भवति⟫ "he becomes dependent on the king, he becomes the property of the king"
+⟪राजसाद्भवति⟫ "ia menjadi bergantung pada raja, ia menjadi milik raja"
 :::
 ::: grammar-box
 **After formations with -sāt, roots are not treated as after prefixes, thus Absolutive:**
@@ -223,13 +221,13 @@ Example:
 ::: grammar-box
 **Word repetition expresses in Sanskrit:**
 
-*   **Repetition of the action**  
-    e.g. ⟪पुनः⟫ ⟪पुनः⟫ "again and again"
-*   **Distribution**  
-    Examples:  
-    ⟪पृथक्पृथक्⟫ "separately, each individually"  
-    ⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "whatever ... all that"  
-    ⟪युगे⟫ ⟪युगे⟫ "in each individual age"
+*   **Pengulangan tindakan**  
+mis. ⟪पुनः⟫ ⟪पुनः⟫ "berulang kali"
+*   **Distribusi**  
+Contoh:  
+⟪पृथक्पृथक्⟫ "secara terpisah, masing-masing secara individu"  
+⟪यद्यद्⟫ ... ⟪तत्तद्⟫ "apa pun ... semua itu"  
+⟪युगे⟫ ⟪युगे⟫ "pada setiap usia individu"
 
 **Occasionally, a compound can be formed from such combinations**
 
@@ -237,31 +235,31 @@ Examples:
 
 :::
 ::: indent
-⟪एकैक⟫ 3 "each individual"
-⟪अल्पाल्प⟫ 3 "very small"
-⟪नवनव⟫ 3 "always new"
+⟪एकैक⟫ 3 "setiap individu"
+⟪अल्पाल्प⟫ 3 "sangat kecil"
+⟪नवनव⟫ 3 "selalu baru"
 :::
-Regarding the so-called ⟪आम्रेडित⟫ compounds, in which inflected words are repeated, but the second received an accent in pre-classical times, thus constituting a compound, see Wackernagel, Altindische Grammatik II,1 pp. 142ff.
-## 52.6. The Numeral (⟪सम्ख्या⟫ f.)
+Mengenai apa yang disebut ⟪आम्रेडित⟫ majemuk, di mana kata-kata yang dideklinasikan diulang, tetapi yang kedua menerima aksen pada masa pra-klasik, sehingga membentuk sebuah majemuk, lihat Wackernagel, Altindische Grammatik II,1 hlm. 142ff.
+## 52.6. Bilangan (⟪सम्ख्या⟫ f.)
 
-See, for example, Kielhorn, Grammar §201f. for what is not treated here.
+Lihat, misalnya, Kielhorn, Tata Bahasa §201f. untuk apa yang tidak dibahas di sini.
 
 ### 52.6.1. Cardinal Numbers
 
 #### 52.6.1.1. Number Adjectives (for 1 to 19)
 
 ::: grammar-box
-**The number words for *1 to 19* are adjectives.**
-**The number words for **1 to 4** differ in declension for the three genders.**
+**Kata bilangan untuk *1 hingga 19* adalah kata sifat.**
+**Kata bilangan untuk **1 hingga 4** berbeda dalam deklinasi untuk ketiga jenis kelamin.**
 
-**For the number words for **5 to 19** ***(⟪नवदशन्⟫)*** there is only one single declension for the three genders.**
+**Untuk kata bilangan untuk **5 hingga 19** ***(⟪नवदशन्⟫)*** hanya ada satu deklinasi tunggal untuk ketiga jenis kelamin.**
 
-**For these number adjectives, as for all adjectives: it must stand in the same case, number, and gender as the associated noun and vice versa (i.e., for 1 singular, for 2 dual, for the rest plural).**
+**Untuk kata sifat bilangan ini, seperti semua kata sifat: harus berada dalam kasus, jumlah, dan jenis kelamin yang sama dengan kata benda terkait dan sebaliknya (yaitu, untuk 1 tunggal, untuk 2 dwiwalana, untuk sisanya jamak).**
 :::
-Number adjectives:
+Kata sifat bilangan:
 
 ::: indent
-1 ⟪एक⟫ 3 (Declension like ⟪सर्व⟫, in plural: "some")
+1 ⟪एक⟫ 3 (Deklinasi seperti ⟪सर्व⟫, dalam jamak: "beberapa")
 2 ⟪द्वि⟫ 3
 3 ⟪त्रि⟫ 3
 4 ⟪चतुर्⟫ 3
@@ -272,14 +270,14 @@ Number adjectives:
 9 ⟪नवन्⟫ 3
 10 ⟪दशन्⟫ 3
 :::
-The declension follows at the appropriate place in the word lists.
+Deklinasi mengikuti di tempat yang sesuai dalam daftar kata.
 
-For the further number adverbs up to 19 see e.g. in Kielhorn, Grammar §201.
+Untuk bilangan kata keterangan lebih lanjut hingga 19, lihat misalnya dalam Kielhorn, Tata Bahasa §201.
 
 #### 52.6.1.2. Number Nouns (for 19ff.)
 
 ::: grammar-box
-**The number words for *19 (⟪एकोनविंशति⟫* "one less than 20") *to 99* are feminine nouns and are declined like ⟪मति⟫ f. or root nouns on -t (e.g. ⟪त्रिंशत्⟫ f.).**
+**Kata bilangan untuk *19 (⟪एकोनविंशति⟫ "satu kurang dari 20") *hingga 99* adalah kata benda feminin dan dideklinasikan seperti ⟪मति⟫ f. atau kata benda akar pada -t (misalnya ⟪त्रिंशत्⟫ f.).**
 
 Examples:
 
@@ -288,7 +286,7 @@ Examples:
 20 ⟪विंशति⟫ f.:br
 30 ⟪त्रिंशत्⟫ f.
 :::
-**The number words for numbers **from 100** are neuter nouns. They are declined like ⟪फलम्⟫.**
+**Kata bilangan untuk angka dari 100** adalah kata benda netral. Kata-kata tersebut dideklinasikan seperti ⟪फलम्⟫.**
 
 Examples:
 
@@ -296,20 +294,20 @@ Examples:
 100 ⟪शत⟫ n.:br
 1000 ⟪सहस्र⟫ n.
 :::
-For the individual number nouns see e.g. in Kielhorn, Grammar §201.
-#### 52.6.1.3. Syntax of Cardinal Numbers
+Untuk kata benda bilangan individu, lihat misalnya dalam Kielhorn, Tata Bahasa §201.
+#### 52.6.1.3. Sintaksis Bilangan Kardinal
 
 ::: grammar-box
-**The difference between verbal adjectives and verbal nouns for cardinal numbers results in the following consequence for syntax:**
-*   adjectival cardinal number words can only be connected to the noun for the counted items like adjectives  
-    e.g. ⟪तिसृभिर्नारीभिः⟫ "by three women"  
-*   substantive cardinal number words can be connected to the noun for the counted items in three ways
-    *   they govern the genitive (⟪षष्ठी⟫) of the counted items  
-        e.g. ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "by 20 women"  
-    *   they stand as an apposition in the same case (but in the singular) as the counted items  
-        e.g. ⟪विंशत्या⟫ ⟪नारीभिः⟫ "by 20 women" 
-    *   they stand as the second member of a ⟪तत्पुरुष⟫ with the counted items as the first member  
-        e.g. ⟪गोविंशत्या⟫ "by 20 cows" 
+**Perbedaan antara kata kerja adjektival dan kata benda verbal untuk bilangan kardinal menghasilkan konsekuensi berikut untuk sintaksis:**
+*   kata bilangan kardinal adjektival hanya dapat dihubungkan dengan kata benda untuk item yang dihitung seperti kata sifat  
+misalnya ⟪तिसृभिर्नारीभिः⟫ "oleh tiga wanita"  
+*   kata bilangan kardinal substantif dapat dihubungkan dengan kata benda untuk item yang dihitung dalam tiga cara
+*   mereka menguasai genitif (⟪षष्ठी⟫) dari item yang dihitung  
+misalnya ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "oleh 20 wanita"  
+*   mereka berdiri sebagai aposisi dalam kasus yang sama (tetapi dalam singular) seperti item yang dihitung  
+misalnya ⟪विंशत्या⟫ ⟪नारीभिः⟫ "oleh 20 wanita" 
+*   mereka berdiri sebagai anggota kedua dari ⟪तत्पुरुष⟫ dengan item yang dihitung sebagai anggota pertama  
+misalnya ⟪गोविंशत्या⟫ "oleh 20 sapi"
 
 :::
 ### 52.6.2. Ordinal Numbers
@@ -321,20 +319,20 @@ See, for example, in Kielhorn, Grammar §201f.
 a) "-times":
 
 ::: indent
-once: ⟪सकृत्⟫
-twice: ⟪द्विस्⟫
-three times: ⟪त्रिस्⟫
-four times: ⟪चतुस्⟫
-five times and so on is formed with the suffix ***\-⟪कृत्वस्⟫***: ⟪पञ्चकृत्वस्⟫
+sekali: ⟪सकृत्⟫
+dua kali: ⟪द्विस्⟫
+tiga kali: ⟪त्रिस्⟫
+empat kali: ⟪चतुस्⟫
+lima kali dan seterusnya dibentuk dengan akhiran ***\-⟪कृत्वस्⟫***: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-fold": is expressed with the suffix ***\-⟪धा⟫***
+b) "-lipat": dinyatakan dengan akhiran ***\-⟪धा⟫***
 
 ::: indent
-simple: ⟪एकधा⟫
-double: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
-and so on
+sederhana: ⟪एकधा⟫
+ganda: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
+dan seterusnya
 :::
-c) "each ...", "to ...": is expressed with the suffix ***\-⟪शस्⟫*** (see above!)
+c) "masing-masing ...", "kepada ...": dinyatakan dengan akhiran ***\-⟪शस्⟫*** (lihat di atas!)
 
 ::: indent
 ⟪द्विशस्⟫ "in twos, each two"
@@ -359,52 +357,52 @@ Further formations can be found in dictionaries or grammars.
 Example:
 
 ::: indent
-⟪चतुर्मुख⟫ m. "one who has four faces" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (a name of Brahmā)
+⟪चतुर्मुख⟫ m. "seseorang yang memiliki empat wajah" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (sebuah nama bagi Brahmā)
 :::: media
 ![](/images/lekt5205.webp)
 Fig.: ⟪चतुर्मुखः⟫
-(Image source: [Details](/en/licenses#lekt5205))
+(Sumber gambar: [Details](/en/licenses#lekt5205))
 ::::
 :::
 ::: grammar-box
-**⟪तत्पुरुष⟫ with a cardinal number in the first member may not be formed arbitrarily:**
+**⟪तत्पुरुष⟫ dengan angka kardinal di anggota pertama tidak boleh dibentuk secara sewenang-wenang:**
 
-**Rule 1: Words that designate a cardinal direction (such as ⟪पूर्व⟫ 3 "eastern", ⟪उत्तर⟫ 3 "northern"), and words for cardinal numbers may form a ⟪कर्मधारय⟫-compound with other words only if the compound is used as a proper name.**
+**Aturan 1: Kata-kata yang menunjukkan arah mata angin (seperti ⟪पूर्व⟫ 3 "timur", ⟪उत्तर⟫ 3 "utara"), dan kata-kata untuk bilangan kardinal hanya dapat membentuk ⟪कर्मधारय⟫-majemuk dengan kata-kata lain jika majemuk tersebut digunakan sebagai nama diri.**
 :::
-Therefore, for example, from ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "northern trees" or ⟪पञ्च⟫ ⟪ब्राह्मणः⟫ no Tatpuruṣa may be formed. From ⟪सप्तन्⟫ and ⟪ऋषि⟫, however, the Tatpuruṣa ⟪सप्तर्षि⟫ m. "the seven Ṛṣis" may be formed, if this stands as the name for the constellation of the Great Bear (Ursa maior).
+Oleh karena itu, misalnya, dari ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "pohon-pohon utara" atau ⟪पञ्च⟫ ⟪ब्राह्मणः⟫ tidak dapat dibentuk Tatpuruṣa. Dari ⟪सप्तन्⟫ dan ⟪ऋषि⟫, bagaimanapun, Tatpuruṣa ⟪सप्तर्षि⟫ m. "tujuh Ṛṣi" dapat dibentuk, jika ini berdiri sebagai nama untuk rasi bintang Big Bear (Ursa maior).
 ::: media
 ![](/images/lekt5206.jpg)
 Fig.: ⟪सप्तर्षयः⟫
-The Big Dipper = the seven brightest stars of the Big Bear (Ursa maior)
-(Image source: [Details](/en/licenses#lekt5206))
+Big Dipper = tujuh bintang paling terang dari Big Bear (Ursa maior)
+(Sumber gambar: [Details](/en/licenses#lekt5206))
 :::
 ::: grammar-box
-**Rule 2: Deviating from Rule 1, a word that designates a cardinal direction or a cardinal number may form a Tatpuruṣa with another noun if**
+**Aturan 2: Menyimpang dari Aturan 1, kata yang menunjukkan arah mata angin atau bilangan kardinal dapat membentuk Tatpuruṣa dengan kata benda lain jika**
 
-1.  a Taddhita suffix is attached to the compound formed in this way  
-    Examples:  
-    pūrva + śālā ("hall) » \*pūrvaśālā (may not be used in this way!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "located in the eastern hall"  
-    ṣaṣ + mātṛ » \*ṣaṇmātṛ (not permissible!) + Taddhita -a » ⟪षण्मातुर⟫ m. "the child of six mothers" (= ⟪कार्त्तिकेय⟫)  
-    
-2.  the compound formed in this way is used in a meaning that is otherwise designated by a Taddhita suffix (in this type, the transition to Bahuvrīhi is fluid):  
-    Examples:  
-    dvi + go » ⟪द्विगु⟫ : not: "two cows", but: "**purchased for two cows**"  
-    ⟪द्विवर्ष⟫ not: "two years", but: "**two years old**"  
-    
-3.  the compound formed in this way forms the first member of another compound  
-    Example:  
-    pañca + go » pañcagava (impermissible as a single word!) + dhana » ⟪पञ्चगवधन⟫ m. "one whose wealth consists of five cows"
+1.  Akhiran Taddhita melekat pada majemuk yang dibentuk dengan cara ini  
+Contoh:  
+pūrva + śālā ("aula") » \*pūrvaśālā (tidak boleh digunakan dengan cara ini!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "berada di aula timur"  
+ṣaṣ + mātṛ » \*ṣaṇmātṛ (tidak diperbolehkan!) + Taddhita -a » ⟪षण्मातुर⟫ m. "anak dari enam ibu" (= ⟪कार्त्तिकेय⟫)  
+
+2.  majemuk yang dibentuk dengan cara ini digunakan dalam makna yang secara lain ditandai oleh akhiran Taddhita (dalam jenis ini, transisi ke Bahuvrīhi bersifat cair):  
+Contoh:  
+dvi + go » ⟪द्विगु⟫ : bukan: "dua sapi", tetapi: "**dibeli dengan harga dua ekor sapi**"  
+⟪द्विवर्ष⟫ bukan: "dua tahun", tetapi: "**berusia dua tahun**"  
+
+3.  majemuk yang dibentuk dengan cara ini membentuk anggota pertama dari majemuk lain  
+Contoh:  
+pañca + go » pañcagava (tidak diperbolehkan sebagai satu kata!) + dhana » ⟪पञ्चगवधन⟫ m. "seseorang yang kekayaannya terdiri dari lima ekor sapi"
 :::
 ::: media
 ![](/images/lekt5207.webp)
 Fig.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
 Jalakandapuram = ஜலகண்டபுரம்
-(Image source: [Details](/en/licenses#lekt5207))
+(Sumber gambar: [Details](/en/licenses#lekt5207))
 :::
 ::: grammar-box
-**A designation for a cardinal number (but not for a cardinal direction) may, as the first member, form a Tatpuruṣa with another noun even if the compound formed in this way denotes the aggregate of several things, i.e., combines two or more things into a single unit.**
+**Sebuah penunjukan untuk bilangan kardinal (tetapi bukan untuk arah kardinal) dapat, sebagai anggota pertama, membentuk Tatpuruṣa dengan kata benda lain meskipun majemuk yang dibentuk dengan cara ini menunjukkan kumpulan beberapa hal, yaitu, menggabungkan dua atau lebih hal menjadi satu kesatuan.**
 
-**Tatpuruṣas formed according to this rule are called ***Dvigu (⟪द्विगु⟫)***.**
+**Tatpuruṣa yang dibentuk menurut aturan ini disebut ***Dvigu (⟪द्विगु⟫)***.**
 
 **Dvigu compounds that denote a unit are usually neuter. If the second member ends in -a, the feminine suffix -ī may attach. If the second member ends in fem. -ā, either neuter -a or feminine -ī attaches in its place. If the second member ends in -an, -a or -ī is substituted for it.**
 
@@ -412,14 +410,14 @@ Jalakandapuram = ஜலகண்டபுரம்
 Examples:
 
 ::: indent
-⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "the aggregate of the three worlds, the three worlds as a unity, the three-world (heaven-earth-underworld)
+⟪त्रि⟫ + ⟪भुवनव्⟫ » ⟪त्रिभुवन⟫ n. "kumpulan tiga dunia, tiga dunia sebagai satu kesatuan, tiga-dunia (langit-bumi-alam bawah)"
 
-⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "three-world"
+⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "tiga-dunia"
 :::
 ::: grammar-box
-**Dvigu compounds, to which no Taddhita suffix is added, but which have the meaning designated by a Taddhita suffix, determine their gender like Bahuvrīhis according to the noun they further specify (they are in reality probably Bahuvrīhis)**
+**Kombinasi Dvigu, yang tidak mendapat akhiran Taddhita, tetapi memiliki makna yang ditunjuk oleh akhiran Taddhita, menentukan jenis kelaminnya seperti Bahuvrīhi berdasarkan kata benda yang lebih spesifik (mereka pada kenyataannya kemungkinan adalah Bahuvrīhis)**
 :::
-Example:
+Contoh:
 
 ::: indent
 ⟪पञ्चगु⟫ 3: "acquired for five cows"
@@ -433,15 +431,15 @@ Example:
 ::: indent
 from:
 
-⟪खिल⟫ m.: fallow field, wasteland
+⟪खिल⟫ m.: ladang kosong, tanah terlantar
 :::: media
 ![](/images/lekt5210.webp)
 Fig.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Image source: [Details](/en/licenses#lekt5210))
+(Sumber gambar: [Details](/en/licenses#lekt5210))
 ::::
 :::
-⟪अन्तर्⟫ Adv.: inside, within; postposition with Gen. Loc. (⟪षष्टी⟫, ⟪सप्तमी⟫): within, in the midst; postposition with Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): out of ...
+⟪अन्तर्⟫ Adv.: di dalam; postposisi dengan Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): di dalam, di tengah; postposisi dengan Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): dari dalam ...
 
 ⟪अन्योन्य⟫ 3: mutually, each other
 
@@ -453,17 +451,17 @@ PPP ⟪विपरीत⟫ 3: wrong, incorrect
 ⟪त्रि⟫ 3: three
 
 ::: grammar-box
-| | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** |
+| | **Maskulin:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
-| **1. Nominative:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Accusative:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
 | **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
-| **4. Dative:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **5. Ablative:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **6. Genitive:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
-| **7. Locative:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
+| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **6. Genitiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposition and prefix with nouns and verbs: out, away, forth, out of, away, without - from
+⟪निस्⟫ Postposition und Präfix mit Substantiven und Verben: heraus, fort, hinaus, aus, weg, ohne - von
 
 ⟪पीड्⟫ 10P ⟪पीडयति⟫ : press, torment; harass, besiege, plague
 
@@ -478,9 +476,9 @@ Hyderabad = హైదరాబాద్
 ::: indent
 from that:
 
-⟪परम्⟫ Adv.: to a high degree, on that, later, but, however
+⟪परम्⟫ Adv.: dalam tingkat yang tinggi, mengenai itu, kemudian, tetapi, namun
 :::
-⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): to - towards, after, with respect to, opposite
+⟪प्रति⟫ Posposisi (⟪द्वितीयया⟫): ke - menuju, setelah, berkenaan dengan, di hadapan
 
 ⟪प्रधान⟫ 3: principal, best; n.: the most important
 
@@ -574,7 +572,7 @@ from that:
 
 ⟪अमुत्र⟫ Adv.: there, thither
 
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : to move, to move about, to fall down
+⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : bergerak, bergerak-gerak, jatuh
 
 ::: indent
 Perf. IIIa ⟪चुच्युवे⟫
@@ -583,7 +581,7 @@ Pass. ⟪च्यूयते⟫
 Caus. ⟪च्यावयति⟫
 PPP ⟪च्युत⟫
 :::
-⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : to know, to feel, to perceive, to experience
+⟪भू⟫ + ⟪अनु⟫ 1P ⟪अनुभवति⟫ : mengetahui, merasakan, memahami, mengalami
 
 ⟪चक्र⟫ n.: wheel
 
@@ -659,9 +657,9 @@ Inf. ⟪त्रातुम्⟫
 ⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫
 ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥१६१॥⟫
 
-Explanation: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvandva)
+Penjelasan: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvandva)
 :::
-⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ On the Sources of the ⟪धर्म⟫
+⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Dari Sumber-sumber dari ⟪धर्म⟫
 
 ::: indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
@@ -669,9 +667,9 @@ Explanation: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvand
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
-Explanation: ⟪स्मृतिशीले⟫ Nom.Acc.Dual.n. (Dualdvandva)
+Penjelasan: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
 :::
-⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ On ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ in the Life of the Prince
+⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Pada ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ dalam Kehidupan Pangeran
 
 ⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫***⟪मितरौ⟫*** ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫***⟪मूलौ⟫*** ⟪हि⟫ ⟪धर्मका⟫***⟪मावि⟫***⟪ति⟫ ⟪।७।⟫
 
@@ -743,28 +741,28 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
 :::
 ## 52.9. Tasks during the semester break
 
-With Lesson 52, the first semester (13 weeks × 4 class hours) of the Sanskrit course is concluded.
+Dengan Pelajaran 52, semester pertama (13 minggu × 4 jam kelas) dari kursus Sanskerta ini berakhir.
 
 During the semester break, the following tasks should be completed:
 
-1.  Review of everything learned so far, especially:
-    1.  Memorization of conjugation and declension paradigms
-    2.  Vocabulary
-    3.  Stem forms
-2.  Memorization of as many verses and prose texts as possible from classical literature
-3.  Working through [Lesson 53](lektion53.md)
-4.  Working through the sheets Bhg 1 - 11 (not yet on the internet)
-5.  Preparation of ⟪भगवद्गीता⟫ Ch. 1, learning the associated vocabulary from the word lists (not yet on the internet)
-6.  Metrical analysis of all verses from ⟪भगवद्गीता⟫ ⟪१⟫  
-    A good impression of the text in recited form is given by: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Accessed on 2009-01-19
-7.  Reading a ⟪महाभारत⟫ retelling, e.g.  
-    Mahābhārata : India's great epic / translated and condensed from Sanskrit by Biren Roy. -- 10th ed. -- Munich : Diederichs, 1995. -- 335 p. ; 19 cm. -- (Diederichs yellow series ; 16 : India)
-8.  Working through:  
-    **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Self-published, 1983. -- 818 p. ; 23 cm. -- pp. 208 - 254 (Sytactical government)
-9.  Fully working through:  
-    **Basham, A. L. (Arthur Llewellyn) \<1914-1986\>**The wonder that was IndiaPart: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954.
-10.  Beginning with the working through of:  
-     **Winternitz, Moriz \<1863 - 1937\>:** History of Indian literature. Stuttgart : Koehler. -- 3 vols. -- 1908 - 1922 (still by far the best history of Sanskrit, Pali, and Prakrit literature)
+1.  Tinjauan atas semua yang telah dipelajari sejauh ini, khususnya:
+1.  Hafalan konjugasi dan paradigma deklinasi
+2.  Kosakata
+3.  Bentuk akar (stem forms)
+2.  Menghafal sebanyak mungkin ayat dan teks prosa dari sastra klasik
+3.  Mengerjakan [Pelajaran 53](lektion53.md)
+4.  Mengerjakan lembar kerja Bhg 1 - 11 (belum tersedia di internet)
+5.  Persiapan ⟪भगवद्गीता⟫ Bab 1, mempelajari kosakata terkait dari daftar kata (belum tersedia di internet)
+6.  Analisis metrik semua ayat dari ⟪भगवद्गीता⟫ ⟪१⟫  
+Kesan yang baik tentang teks dalam bentuk dilafalkan diberikan oleh: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Diakses pada 2009-01-19
+7.  Membaca ⟪महाभारत⟫ retelling, misalnya  
+Mahābhārata : Epik besar India / diterjemahkan dan dipadatkan dari Sanskerta oleh Biren Roy. -- Edisi ke-10. -- Munich : Diederichs, 1995. -- 335 hlm. ; 19 cm. -- (Seri kuning Diederichs ; 16 : India)
+8.  Mengerjakan:  
+**Kunnappally, John:** Prakriyā bhāshyam : Tata bahasa Sanskerta / Awalnya ditulis dalam Malayalam. Diterjemahkan ke dalam bahasa Inggris oleh K.V.R. Pai. -- Parathode : Terbit sendiri, 1983. -- 818 hlm. ; 23 cm. -- hal. 208 - 254 (Pemerintahan Sintaksis)
+9.  Mengerjakan sepenuhnya:  
+**Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**Keajaiban IndiaBagian: Survei budaya anak benua India sebelum kedatangan Muslim. -- London : Sidgwick & Jackson, 1954.
+10.  Memulai dengan mengerjakan:  
+**Winternitz, Moriz \&lt;1863 - 1937\&gt;:** Sejarah sastra India. Stuttgart : Koehler. -- 3 jilid. -- 1908 - 1922 (masih jauh yang terbaik sejarah sastra Sanskerta, Pali, dan Prakrit)
 
 ::: media
 ![](/images/lekt5201.webp)
@@ -784,7 +782,7 @@ Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 
 **lekt5205:** [Image source: Wikipedia. Public domain]
 
-**lekt5206:** The Big Dipper = the seven brightest stars of the Big Bear (Ursa maior) [Image source: Wikipedia, GNU FDLicense]
+**lekt5206:** Bintang Gembala Besar = tujuh bintang paling terang di Ursa Mayor (Ursa maior) [Sumber gambar: Wikipedia, Lisensi GNU FD]
 
 **lekt5207:** Jalakandapuram = ஜலகண்டபுரம் [Image source: Wikipedia. Public domain]
 

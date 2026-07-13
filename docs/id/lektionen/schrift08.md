@@ -1,6 +1,6 @@
 # Writing Exercise 8
 
-Vowel signs for the beginning of a word, if the word is not connected in writing with a preceding word:
+Tanda vokal untuk awal kata, jika kata tersebut tidak terhubung secara tertulis dengan kata sebelumnya:
 
 ![](/images/schrift015.webp)
 
@@ -10,9 +10,9 @@ Vowel signs for the beginning of a word, if the word is not connected in writing
 
 When two or more consonants follow each other immediately in a word or sentence, they are written with a ligature (combined character).
 
-1. If the first of the consonant signs to be combined ends with the vertical stroke on the right, it loses this stroke and is placed before the second consonant.
+1. Jika tanda konsonan pertama yang akan digabungkan berakhir dengan garis vertikal di sebelah kanan, ia kehilangan garis ini dan ditempatkan sebelum konsonan kedua.
 
-Exception: if the second consonant sign is ⟪न्⟫ or ⟪ल्⟫, this is placed under the first consonant sign, losing the horizontal stroke. Depending on the font, there are further exceptions, which are listed below. If a ligature is not provided for the relevant font, a Virāma is used.
+Pengecualian: jika tanda konsonan kedua adalah ⟪न्⟫ atau ⟪ल्⟫, ini ditempatkan di bawah tanda konsonan pertama, kehilangan garis horizontal. Tergantung pada fontnya, ada pengecualian lebih lanjut, yang terdaftar di bawah ini. Jika ligatur tidak disediakan untuk font yang relevan, Virāma digunakan.
 
 Examples:
 
@@ -64,7 +64,7 @@ Note the spelling of jña:
 
 ![](/images/schrift017.webp)
 
-Initial -a, which is elided according to the sentence sandhi rules (-as + a- » -o ' ), is indicated by the so-called Avagraha:
+-a awal, yang dielisi sesuai dengan aturan sandhi kalimat (-as + a- » -o ' ), ditunjukkan oleh apa yang disebut Avagraha:
 
 ⟪ऽ⟫
 
@@ -102,9 +102,9 @@ B) Write and translate:
 
 12\. Devatānnapūrṇā.
 
-13\. The virtuous woman is the guru.
+13\. Wanita yang berbudi luhur adalah guru.
 
-14\. The goddesses are of the guru.
+14\. Para dewi berasal dari sang guru.
 
 15\. The god dances.
 

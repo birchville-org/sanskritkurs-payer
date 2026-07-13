@@ -11,7 +11,8 @@ API_URL = "http://nyx.local:8088/v1/chat/completions"
 MODEL = "mlx-community--Qwen3.6-35B-A3B-4bit"
 LANGUAGES = [
     "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "ta", "pa",
-    "la", "rm", "ro", "id", "zh-CN", "he", "ar", "arc"
+    "la", "rm", "ro", "id", "zh-CN", "he", "ar", "arc",
+    "th", "el", "cop"
 ]
 LANG_NAMES = {
     "en": "English", "it": "Italian", "es": "Spanish",
@@ -20,10 +21,10 @@ LANG_NAMES = {
     "la": "Latin", "rm": "Romansh Grischun", "ro": "Romanian",
     "id": "Indonesian", "zh-CN": "Simplified Chinese",
     "th": "Thai", "he": "Hebrew",
-#    "ar": "Arabic", "arc": "Aramaic",
+    "ar": "Arabic", "arc": "Aramaic",
 #    "zh": "Mandarin Chinese",
-#    "grc": "Ancient Greek", "el": "Modern Greek",
-#    "fa": "Persian (Farsi)", "akk": "Akkadian", "cop": "Coptic",
+    "grc": "Ancient Greek", "el": "Modern Greek",
+    "fa": "Persian (Farsi)", "akk": "Akkadian", "cop": "Coptic",
 }
 LESSONS = list(range(1, 62))
 MAIN_PAGES = ["index.md", "grammatik.md", "themen.md", "impressum.md"]
@@ -754,6 +755,14 @@ def protect_structure(text):
     return '\n'.join(result_lines), registry
 
 def restore_structure(text, registry):
+    import re
+    def replace_struct(m):
+        idx = m.group(1)
+        key = f'⟨STRUCT_{idx}⟩'
+        return registry.get(key, m.group(0))
+    
+    text = re.sub(r'[⟨<〈]STRUCT_[^⟩>〉]*?(\d+)[⟩>〉]', replace_struct, text)
+    
     for key, original in registry.items():
         text = text.replace(key, original)
     return text
@@ -789,9 +798,19 @@ def translate_text(text, target_lang):
 
     max_ph_retries = 4
     for ph_attempt in range(max_ph_retries):
-        # Fallback to OpenRouter disabled – always use local endpoint and primary model
+        # 3-Tier Fallback Hierarchy: Qwen (local) -> Sonnet (cloud) -> Gemini 2.5 Pro (cloud)
         current_api_url = API_URL
         current_model = MODEL
+        is_fallback = False
+        
+        if ph_attempt == 2:
+            current_api_url = "https://openrouter.ai/api/v1/chat/completions"
+            current_model = "anthropic/claude-sonnet-5"
+            is_fallback = True
+        elif ph_attempt >= 3:
+            current_api_url = "https://openrouter.ai/api/v1/chat/completions"
+            current_model = "google/gemini-2.5-pro"
+            is_fallback = True
 
         # Bump temperature and repetition_penalty on retries so the model makes different choices.
         temperature = 0.1 if ph_attempt == 0 else 0.3
@@ -844,6 +863,8 @@ def translate_text(text, target_lang):
                 if _proc.returncode != 0:
                     raise OSError(f"curl exit {_proc.returncode}: {_proc.stderr[:200]}")
                 res_data = json.loads(_proc.stdout)
+                if 'error' in res_data:
+                    raise RuntimeError(f"API Error: {res_data['error']}")
                 raw_result = res_data['choices'][0]['message']['content']
                 got_response = True
 
@@ -935,6 +956,18 @@ def translate_text(text, target_lang):
                         if ger_result_count >= (ger_source_count * 0.2):
                             qc_failed = True
                             qc_reason = f"Untranslated German detected ({ger_result_count} marker words found)"
+                            
+                # English Leak Detection (Fallback catch)
+                if not qc_failed and target_lang not in ('de', 'en'):
+                    safe_english_words = ['the', 'is', 'to', 'and', 'that', 'of', 'for', 'this', 'are', 'with']
+                    en_pattern = re.compile(r'\b(' + '|'.join(safe_english_words) + r')\b', re.IGNORECASE)
+                    en_result_count = len(en_pattern.findall(result))
+                    if en_result_count >= 3:
+                        en_source_count = len(en_pattern.findall(protected))
+                        # Only flag if there are significantly more English words than in the source text
+                        if en_result_count > en_source_count + 2:
+                            qc_failed = True
+                            qc_reason = f"English fallback leak detected ({en_result_count} English marker words found)"
 
                 if qc_failed:
                     if ph_attempt < max_ph_retries - 1:
@@ -974,7 +1007,8 @@ def translate_text(text, target_lang):
                 
                 # Auto-Restart bei Timeouts, HTTP 500 (Compute error) oder Absturz (Connection refused/exit 7, exit 56)
                 err_lower = err_str.lower()
-                if "exit 28" in err_str or "timeout" in err_lower or "500" in err_str or "exit 7" in err_str or "exit 56" in err_str or "exit 52" in err_str or "refused" in err_lower or "choices" in err_lower:
+                is_local = 'localhost' in current_api_url or '127.0.0.1' in current_api_url
+                if is_local and ("exit 28" in err_str or "timeout" in err_lower or "500" in err_str or "exit 7" in err_str or "exit 56" in err_str or "exit 52" in err_str or "refused" in err_lower or "choices" in err_lower):
                     ts = time.strftime('%H:%M:%S')
                     sys.stdout.write(f"\n[{ts}] [!] Timeout/Absturz erkannt ({err_str}). Führe automatischen oMLX-Neustart aus...\n")
                     sys.stdout.flush()
@@ -994,13 +1028,27 @@ def translate_text(text, target_lang):
                     except Exception:
                         pass
 
+                if "API Error" in err_str:
+                    if "'code': 404" in err_str or "'code': 400" in err_str:
+                        sys.stdout.write(f"\n[!] API Error 400/404 (Bad Request/Model not found): {err_str}\nSkipping to next fallback tier...\n")
+                        sys.stdout.flush()
+                        break
+                    if "'code': 402" in err_str or "'code': 401" in err_str:
+                        sys.stdout.write(f"\n[FATAL] Unrecoverable Auth/Credit API Error encountered: {err_str}\nAborting translation completely.\n")
+                        sys.stdout.flush()
+                        sys.exit(1)
+
                 msg = f"[{time.strftime('%H:%M:%S')}] [{target_lang}] Connection failed (attempt {attempt+1}/{max_retries}): {err_str}. Retrying in {wait_time}s...\n"
                 sys.stdout.write(msg)
                 sys.stdout.flush()
                 time.sleep(wait_time)
 
         if not got_response:
-            sys.stdout.write(f"[{target_lang}] FATAL: Maximum inner connection retries reached.\n")
+            if is_fallback and ph_attempt < max_ph_retries - 1:
+                sys.stdout.write(f"[{target_lang}] WARNING: API failed. Escalating to next fallback tier (attempt {ph_attempt + 2})...\n")
+                sys.stdout.flush()
+                continue
+            sys.stdout.write(f"[{target_lang}] FATAL: Maximum inner connection retries reached and no more fallback tiers available.\n")
             sys.stdout.flush()
             return f"ERROR: Failed to translate after {max_retries} attempts.", ph_attempt
 
@@ -1163,9 +1211,22 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
         with open(source_path, encoding="utf-8") as f:
             content = f.read()
 
+        yaml_block = ""
+        if content.startswith("---\n"):
+            end_idx = content.find("\n---\n", 4)
+            if end_idx != -1:
+                yaml_block = content[:end_idx+5]
+                content = content[end_idx+5:]
+                ts = time.strftime('%H:%M:%S')
+                print(f"[{ts}]  -> translating YAML frontmatter safely...")
+                yaml_block = translate_yaml_frontmatter(yaml_block, lang)
+
         chunks = chunk_content(content)
         translated_chunks = []
         
+        if yaml_block:
+            translated_chunks.append(yaml_block)
+            
         for i, chunk in enumerate(chunks, 1):
             if not chunk.strip():
                 translated_chunks.append(chunk)
@@ -1281,6 +1342,43 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
     return True
 
 
+def translate_yaml_frontmatter(yaml_content, target_lang):
+    """Safely translates only string values in a YAML frontmatter block."""
+    translatable_keys = {'name', 'text', 'tagline', 'title', 'details'}
+    lines = yaml_content.split('\n')
+    
+    indices = []
+    values = []
+    
+    for i, line in enumerate(lines):
+        m = re.match(r'^(\s*[a-zA-Z0-9_-]+:\s*)(.+)$', line)
+        if m:
+            key_str = m.group(1).strip().strip(':')
+            val_str = m.group(2).strip().strip('"').strip("'")
+            if key_str in translatable_keys and val_str and not val_str.startswith('/'):
+                indices.append(i)
+                values.append(val_str)
+                
+    if not values:
+        return yaml_content
+        
+    source_text = "\n\n".join(values)
+    res_tuple = translate_text(source_text, target_lang)
+    translated_text = res_tuple[0]
+    
+    if translated_text.startswith("ERROR:"):
+        return yaml_content
+        
+    translated_vals = [p.strip() for p in translated_text.split('\n\n') if p.strip()]
+    if len(translated_vals) == len(values):
+        for idx, new_val in zip(indices, translated_vals):
+            m = re.match(r'^(\s*[a-zA-Z0-9_-]+:\s*)(.+)$', lines[idx])
+            prefix = m.group(1)
+            lines[idx] = f'{prefix}"{new_val}"'
+            
+    return '\n'.join(lines)
+
+
 def chunk_content(content):
     # Splits content into safe, manageable chunks of max ~3000 characters.
     # Prefers breaking at markdown boundaries (empty lines, container markers,
@@ -1384,7 +1482,7 @@ def scan_german_residues(content: str) -> list:
 
 
 SONNET_API_URL = "https://openrouter.ai/api/v1/chat/completions"
-SONNET_MODEL = "anthropic/claude-sonnet-4-5"
+SONNET_MODEL = "anthropic/claude-sonnet-5"
 
 
 def sonnet_patch_residues(content: str, flagged_lines: list, target_lang: str) -> str:
@@ -1450,8 +1548,15 @@ def sonnet_patch_residues(content: str, flagged_lines: list, target_lang: str) -
         if proc.returncode != 0:
             raise OSError(f"curl exit {proc.returncode}: {proc.stderr[:200]}")
         res = json.loads(proc.stdout)
+        if 'error' in res:
+            raise RuntimeError(f"API Error: {res['error']}")
         patched_text = res['choices'][0]['message']['content']
     except Exception as e:
+        err_str = str(e)
+        if "API Error" in err_str and ("'code': 402" in err_str or "'code': 404" in err_str or "'code': 401" in err_str):
+            sys.stdout.write(f"\n[FATAL] Unrecoverable OpenRouter API Error in patcher: {err_str}\nAborting immediately.\n")
+            sys.stdout.flush()
+            sys.exit(1)
         sys.stdout.write(f"  [!] SONNET FALLBACK API error: {e}\n")
         sys.stdout.flush()
         return content
@@ -1525,9 +1630,39 @@ def generate_licenses(lang):
     )
     for de_phrase, trans in LICENSES_PHRASES.get(lang, {}).items():
         content = content.replace(de_phrase, trans)
+
+    import glob
+    captions = {}
+    for lekt_file in glob.glob(os.path.join(BASE_DIR, lang, "lektionen", "*.md")):
+        try:
+            with open(lekt_file, "r", encoding="utf-8") as lf:
+                lekt_content = lf.read()
+            matches = re.finditer(r'!\[(.*?)\]\(/images/([^/.]+)\.(?:webp|jpg|png)\)', lekt_content)
+            for m in matches:
+                cap = m.group(1).strip()
+                img_id = m.group(2)
+                if cap and cap != img_id + ".jpg" and cap != img_id + ".webp":
+                    captions[img_id] = cap
+        except FileNotFoundError:
+            pass
+            
+    if captions:
+        updated_lines = []
+        for line in content.split('\n'):
+            m = re.match(r'^\|\s*<a id="([^"]+)">', line)
+            if m:
+                img_id = m.group(1)
+                if img_id in captions:
+                    parts = line.split('|')
+                    if len(parts) >= 4:
+                        parts[2] = f" {captions[img_id]} "
+                        line = "|".join(parts)
+            updated_lines.append(line)
+        content = '\n'.join(updated_lines)
+
     with open(out_path, "w", encoding="utf-8") as f:
         f.write(content)
-    print(f"[{lang}] Generated licenses.md (static copy + phrase substitution).")
+    print(f"[{lang}] Generated licenses.md (static copy + phrase substitution + dynamic caption sync).")
 
 
 def parse_lesson_args(args):

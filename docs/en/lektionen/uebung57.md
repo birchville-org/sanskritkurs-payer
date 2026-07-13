@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 57
 
-## A) Aorist Transformations
+## अ) लुङ्लकारस्य रूपाणि
 
 Translate and determine the following forms and form the corresponding **aorist** forms. Except for causatives and roots that form the **s-aorist**, the class of the corresponding aorist is indicated in parentheses:
 

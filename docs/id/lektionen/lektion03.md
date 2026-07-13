@@ -66,7 +66,7 @@ Membentuk nominatif tunggal tanpa akhiran:
 :::
 ---
 
-## 3.3. Nominatif Jamak Maskulinum dan Femininum
+## 3.3. Nominatif Jamak Maskulin dan Feminin
 
 
 

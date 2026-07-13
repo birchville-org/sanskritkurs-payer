@@ -9,15 +9,15 @@ status: stable
 ## 32.1. The Past Tenses
 
 ::: grammar-box
-**In older Sanskrit literature and according to native grammarians, the three past tenses are clearly distinguished in their usage:**
+**Dalam literatur Sanskerta kuno dan menurut para gramatikawan asli, ketiga bentuk lampau dibedakan dengan jelas dalam penggunaannya:**
 
-*   **The Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) denotes either simply the completion of an action or refers to events that occurred on the current day, i.e., the recent past.**
-*   **The Imperfect (⟪लङ्⟫) denotes events that occurred prior to the current day, i.e., the distant past.**
-*   **The Perfect (⟪लिट्⟫), like the Imperfect, denotes the distant past; however, in contrast to the Imperfect, it is used exclusively for events that the speaker themselves did not witness.**
+*   **Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) menyatakan selesainya suatu tindakan secara sederhana atau merujuk pada peristiwa yang terjadi pada hari itu, yaitu masa lalu baru-baru ini.**
+*   **Imperfect (⟪लङ्⟫) menyatakan peristiwa yang terjadi sebelum hari itu, yaitu masa lalu jauh.**
+*   **Perfect (⟪लिट्⟫), seperti Imperfect, menyatakan masa lalu jauh; namun, berbeda dengan Imperfect, Perfect digunakan secara eksklusif untuk peristiwa yang tidak disaksikan oleh pembicara sendiri.**
 
-**In classical Sanskrit literature, the three past tenses are used without semantic distinction (exception: Bhāravi’s poetic work ⟪किरातार्जुनीय⟫).**
+**Dalam literatur Sanskerta klasik, ketiga bentuk lampau digunakan tanpa perbedaan semantik (kecuali: karya puitis Bhāravi ⟪किरातार्जुनीय⟫).**
 :::
-## 32.2. The Imperfect (⟪लङ्⟫)
+## 32.2. Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 **Formation:**
@@ -237,7 +237,7 @@ Mehndi painting on hands in Mumbai.
 :::
 ## 32.6. Exercise
 
-A) Identify the following verb forms and form the corresponding imperfect forms with respect to person, number, and verbal gender (genus verbi):
+[A] Identifikasi bentuk-bentuk kata kerja berikut dan bentukkan bentuk imperfecta yang sesuai mengenai orang, jumlah, dan jenis verbal (genus verbi):
 
 1. ⟪हरिष्यन्ते⟫
 2. ⟪घातयति⟫
@@ -335,7 +335,7 @@ Buddhist monk in Sri Lanka.
 :::
 ## 32.7. Review Exercise for the Christmas Holidays
 
-Note: Originally, this was taught at the University of Tübingen in each winter semester. The two-week Christmas holidays began with Lesson 32.
+Catatan: Awalnya, ini diajarkan di Universitas Tübingen pada setiap semester dingin. Liburan Natal dua minggu dimulai dengan Pelajaran 32.
 
 A) Identify and translate the following words:
 
@@ -424,7 +424,7 @@ A) Identify and translate the following words:
 83. ⟪अध्यापयति⟫
 84. ⟪वाचयन्ति⟫
 
-B) Sandhi Exercise: Insert the words in parentheses into the following sentences. Pay particular attention to the Sandhi:
+B) Latihan Sandhi: Sisipkan kata-kata dalam kurung ke dalam kalimat berikut. Perhatikan dengan cermat Sandhi:
 
 ⟪१⟫. ⟪रामो⟫ ⟪ग्रामात्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪लोकेश्वरनगर⟫ ⟪।⟫ ⟪कविगृह⟫ )
 
@@ -446,27 +446,27 @@ B) Sandhi Exercise: Insert the words in parentheses into the following sentences
 
 C) Translate into Sanskrit:
 
-1. After the son is born, the Brahmin woman sends a servant to the Brahmin. The Brahmin has this servant enter the house and then asks about the son. The servant says that the son is well. Upon hearing this, the Brahmin becomes happy.
+1. Setelah anak laki-laki lahir, wanita Brahmin mengutus pelayan kepada Brahmin. Brahmin itu menyuruh pelayan masuk ke dalam rumah dan kemudian bertanya tentang anak laki-laki tersebut. Pelayan itu mengatakan bahwa anak laki-lakinya sehat. Mendengar hal ini, Brahmin menjadi bahagia.
 
-2. The holy one has endured the evil done (to him).
+2. Orang suci telah menanggung kejahatan yang dilakukan (terhadapnya).
 
-3. Morality is the ornament of man.
+3. Kewajaran adalah perhiasan manusia.
 
-4. The mighty warriors have gone to the Brahmin village.
+4. Para pejuang perkasa telah pergi ke desa Brahmin.
 
 5. The girl is weeping.
 
-6. There is no disease equal to sensuality, no enemy equal to confusion, no fire equal to anger, no happiness equal to knowledge.
+6. Tidak ada penyakit yang setara dengan hawa nafsu, tidak ada musuh yang setara dengan kebingungan, tidak ada api yang setara dengan kemarahan, tidak ada kebahagiaan yang setara dengan pengetahuan.
 
 7. A man protected by the goddess is happy.
 
-8. With whatever wind a cloud releases water (⟪वारि⟫ n.), with that wind a scholar moves his umbrella.
+8. Dengan angin mana pun awan melepaskan air (⟪वारि⟫ n.), dengan angin itu seorang cendekiawan menggerakkan payungnya.
 
 9. There are no fruitful activities pertaining to castes, life stages, etc.
 
 10. The cycle of rebirths has no beginning.
 
-11. It is time to attend to eating.
+11. Saatnya untuk memperhatikan makan.
 
 12. Welcome the Queen.
 
@@ -474,7 +474,7 @@ C) Translate into Sanskrit:
 
 14. A man who falsely pronounces a judgment out of arrogance, greed, anger, or fear goes to hell.
 
-15. Rāma, by the teacher’s instruction, left the village for the town, entered the holy man’s house, stood respectfully before the sage, and spoke: “Abandon anger!”
+15. Rāma, atas instruksi guru, meninggalkan desa menuju kota, memasuki rumah pertapa, berdiri dengan hormat di hadapan resi tersebut, dan berkata: "Tinggalkanlah amarah!"
 
 16. Selalu (hendaknya) pergaulannya dengan mereka yang telah berkembang dalam ilmu-ilmu sedemikian rupa sehingga pendidikan/kelakuan baiknya dapat berkembang. (Ini) karena pendidikan/kelakuan baik memiliki (pergaulan ini) sebagai akarnya.
 
@@ -486,33 +486,33 @@ C) Translate into Sanskrit:
 
 20. Govinda has Devadatta cook rice.
 
-21. The Dharma of the Āryas is that young Brāhmaṇas repeatedly study the sections of the Veda and the Smṛti.
+21. Dharma kaum Ārya adalah bahwa para Brāhmaṇa muda secara berulang kali mempelajari bagian-bagian Veda dan Smṛti.
 
-22. The teacher taught the boys the Veda and then went home.
+22. Guru tersebut mengajar para pemuda Veda, lalu pulang ke rumah.
 
 23. Which amulet protected the girl?
 
-24. Truth is the lamp of the world.
+24. Kebenaran adalah pelita dunia.
 
 25. To whom do these houses belong?
 
-26. The Dharma of all is: non-injury, truth, purity, absence of envy, absence of malice, and patience.
+26. Dharma semua orang adalah: tidak menyakiti, kebenaran, kemurnian, tanpa iri hati, tanpa kebencian, dan kesabaran.
 
-27. The Kṣatriyas, who have defeated the enemies, sit in the house.
+27. Para Kṣatriya, yang telah mengalahkan musuh-musuh mereka, duduk di dalam rumah.
 
 28. She is a (true) wife who speaks love; he is a (true) son who lives. He lives who possesses good qualities; he lives who possesses Dharma.
 
-29. The lord of the gods defeats the non-Āryas, the enemies of Indra. (Passive)
+29. Dewata penguasa mengalahkan non-Āryas, musuh Indra. (Pasif)
 
-30. The Yoga of action consists of asceticism (tapas n.), (Veda) recitation, and service to the LORD. It serves the unfolding of meditative absorption and the weakening of kleśas.
+30. Yoga tindakan terdiri dari asketisme (tapas n.), pembacaan (Veda), dan pelayanan kepada TUHAN. Ini melayani pengembangan penyerapan meditatif dan pelemahan kleśas.
 
-31. Eating, sleeping, fear, and mating: this is a commonality of humans with animals. In Dharma, indeed, lies their additional distinction. Abandoned by Dharma, they are equal to animals (Instrumental).
+31. Makan, tidur, takut, dan kawin: ini adalah kesamaan manusia dengan hewan. Dalam Dharma, memang terletak pembeda tambahan mereka. Ditinggalkan oleh Dharma, mereka sama dengan hewan (Instrumental).
 
 32. People are born to die.
 
 33. Hells exist because of evil. Evil has poverty as its origin. Poverty arises from not giving.
 
-34. It is the Dharma of the Kṣatriyas that the Kṣatriyas protect the people from enemies.
+34. Ini adalah Dharma para Kṣatriya, yaitu bahwa para Kṣatriya melindungi rakyat dari musuh.
 
 35. Oleh karena itu, ketiga (tisras) ilmu memiliki pemerintahan sebagai akarnya. Pemerintahan, yang memiliki pendidikan/kelakuan baik sebagai akarnya, membawa manfaat dan kepemilikan yang aman bagi makhluk hidup (⟪प्राणभृत्⟫).
 
@@ -520,33 +520,33 @@ C) Translate into Sanskrit:
 
 37. Homage to this Rāma!
 
-38. The exalted Hari is my path/goal, who sent his enemies to heaven, let his followers know the meaning of the Veda, gave the gods immortality-food to eat, taught the Veda to the creator (⟪विधि⟫), and established the earth in water.
+38. Sang Hari yang luhur adalah jalan/tujuan saya, yang mengirim musuh-musuhnya ke surga, biarkan pengikut-pengikutnya mengetahui makna Veda, memberikan makanan keabadian kepada para dewa untuk dimakan, mengajarkan Veda kepada sang pencipta (⟪विधि⟫), dan menegakkan bumi di atas air.
 
 39. Viṣṇu shows himself to his devotees.
 
-40. A governance that is not exercised brings about the norm of fish.
+40. Tata kelola yang tidak dijalankan menimbulkan norma ikan.
 
-41. Whoever possesses wealth has friends; whoever possesses wealth has relatives; whoever possesses wealth is a man (⟪पुमान्⟫, nominative singular) in the world; indeed, whoever possesses wealth is a scholar.
+41. Siapa pun yang memiliki kekayaan memiliki teman; siapa pun yang memiliki kekayaan memiliki kerabat; siapa pun yang memiliki kekayaan adalah manusia (⟪पुमान्⟫, nominatif tunggal) di dunia; sesungguhnya, siapa pun yang memiliki kekayaan adalah seorang cendekiawan.
 
-42. The fire that burns the deceased also burns the good widow.
+42. Api yang membakar orang meninggal juga membujang janda baik.
 
-43. The Brahmin’s servant has cooked the food and now eats it.
+43. Pelayan Brahmin telah memasak makanan dan sekarang memakannya.
 
 44. Enough now!
 
 45. This fruit suffices for him as food.
 
-46. The innermost shrine of the temple is a house for the image of the deity.
+46. Ruang terdalam kuil adalah rumah bagi gambar dewa.
 
-47. A thief is absolved of theft either through punishment or through release. However, if the king (⟪राजा⟫, nominative singular) does not punish (the thief), he incurs the sin of the thief.
+47. Seorang pencuri dibebaskan dari tindak pencurian baik melalui hukuman maupun pembebasan. Namun, jika raja (⟪राजा⟫, nominatif tunggal) tidak menghukum (pencuri itu), ia menanggung dosa pencuri tersebut.
 
-48. Because he committed an error during the sacrifice, the Brahmin is unworthy to receive wealth.
+48. Karena ia melakukan kesalahan selama pengorbanan, Brahmin tidak layak menerima kekayaan.
 
-49. After the initiation ceremony has taken place, he should acquire the Veda and philosophy from scholars and economics from department heads (⟪उपयुज्⟫).
+49. Setelah upacara inisiasi berlangsung, ia harus memperoleh Veda dan filsafat dari para sarjana serta ekonomi dari kepala departemen (⟪उपयुज्⟫).
 
-50. Vaiśyadharma is that the Vaiśyas live by buying and selling. Since this is the case, the sons of Vaiśyas engage in buying and selling.
+50. Vaiśyadharma adalah bahwa kaum Vaishya hidup dari membeli dan menjual. Karena itu, anak-anak Vaishya terlibat dalam membeli dan menjual.
 
-51. One should speak the truth; one should speak what is pleasant. One should not speak an unpleasant truth, nor should one speak an unpleasant untruth. This is the eternal Dharma.
+51. Seseorang harus berbicara kebenaran; seseorang harus berbicara hal yang menyenangkan. Seseorang tidak boleh berbicara kebenaran yang tidak menyenangkan, dan juga tidak boleh berbicara kebohongan yang tidak menyenangkan. Ini adalah Dharma abadi.
 
 52. Farewell!
 
@@ -624,7 +624,7 @@ Explanations:
 ::: indent
 **⟪पथि⟫** Loc. sg. of **⟪पथ्⟫ m.** "path" (irregular declension)
 
-**⟪लक्ष्यीकृ⟫** Chvi-suffix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : to make something a ⟪लक्ष्य⟫ (target/object of aim) that was not previously a ⟪लक्ष्य⟫
+**⟪लक्ष्यीकृ⟫** akhiran Chvi ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : menjadikan sesuatu sebagai ⟪लक्ष्य⟫ (target/objektif tujuan) yang sebelumnya bukan merupakan ⟪लक्ष्य⟫
 
 **⟪आदाय⟫** Kata kerja infinitif dari **⟪आ⟫-⟪दा⟫** (Kelas Sekarang ke-3) "mengambil"
 :::: media

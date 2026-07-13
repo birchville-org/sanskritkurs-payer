@@ -35,7 +35,7 @@ Explanation: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
 ## 41.2. Further ⟪कृत्⟫ formations on -a
 
-### 41.2.1. Present Participle (⟪लडादेशः⟫) Ā, Passive Present Participle (⟪लडादेशः⟫) Passiv, Future Participle (⟪ऌडादेशः⟫) Ā
+### 41.2.1. लट्-शत्रुप्रत्ययः आत्मनेपदम्, लट्-कर्मणि शत्रुप्रत्ययः, लृट्-शत्रुप्रत्ययः आत्मनेपदम्
 
 #### 41.2.1.1. Thematic present stems, passive and future
 

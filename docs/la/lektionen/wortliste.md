@@ -559,7 +559,7 @@ Tab.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 ---
 
-### 12.5.1. Passivum et PPP radicum hactenus didacticarum
+### 12.5.1. Passivumum et PPP radicum hactenus didacticarum
 
 | Radix:br⟪धातु⟫ | Passivum Praesens 3. sg. Indicativus:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
@@ -4075,9 +4075,9 @@ Sri Lanka
 
 ::: media
 ![](/images/lekt5001.jpg)
-Abb.: ⟪मन्त्री⟫
-Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology et Ministry of Earth Sciences (ab anno 2006)
-(Fontis imago: [Details](/licenses#lekt5001))
+Tab.: ⟪मन्त्री⟫
+Kapil Sibal (1948 -), minister unionis in Ministerio Scientiae et Technologiae necnon Ministerio Terrae Scientiarum (ab anno 2006)
+(Imago fontis: [Detalia](/licenses#lekt5001))
 :::
 ⟪रहस्⟫ n.: arcanum, solitudo
 
@@ -4472,7 +4472,7 @@ PPP ⟪विपरीत⟫ 3: pravus, falsus
 :::
 ⟪निस्⟫ Postpositio et praefixum apud nomina et verba: foras, deorsum, efferre, proferre, ex, absque - a
 
-⟪पीड्⟫ 10P ⟪पीडयति⟫ : premere, torquere ; urgerе, obsidere, fatigare
+⟪पीड्⟫ 10P ⟪पीडयति⟫ : premere, torquere ; urger, obsidere, fatigare
 
 ::: media
 ![](/images/lekt5212.webp)

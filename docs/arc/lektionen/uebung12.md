@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 12
+# ܬܪܓܡܬܐ 12
 
-A) Form passive sentences in the past from the active sentences of [Lesson 7](lektion07.md), Exercise A, and for intransitive verbs and verbs of motion, form active sentences in the past.
+[A) ܣܘܡ ܐܪ̈ܝܟܬܐ ܕܙܒܢܐ ܕܦܥܠ ܡܛܪ ܡܢ ܐܪ̈ܝܟܬܐ ܕܦܥܠ ܕ[Lektion 7](lektion07.md), תרגיל A, וּלְܡܕܢܚ ܠܦܥܠ̈ܐ ܘܠܡܕܢܚ ܣܘܡ ܐܪ̈ܝܟܬܐ ܕܦܥܠ.]
 
 ⟪१⟫. ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इष्टः⟫ ⟪।⟫ ⟪देवीष्टा⟫ ⟪।⟫ ⟪विष्णुरिष्टः⟫ ⟪।⟫ ⟪ब्राह्मणेनाग्निरिष्टः⟫ ⟪।⟫ ⟪देवतेष्टा⟫ ⟪।⟫
 
@@ -24,7 +24,7 @@ A) Form passive sentences in the past from the active sentences of [Lesson 7](le
 ⟪५⟫. The Śūdra was defeated ⟪॥⟫
 ⟪शूद्रो⟫ ⟪जितः⟫ ⟪॥⟫
 
-B) Form the corresponding PPPs for the verb forms of [Lesson 10](lektion10.md), Exercise A. Note that a form like sṛjati corresponds to PPPs in all three genders.
+B) Bildet die entsprechenden Partizipien der Vergangenheit Passiv für die Verbformen aus [Lektion 10](lektion10.md), Übung A. Beachtet, dass eine Form wie sṛjati Partizipien der Vergangenheit Passiv in allen drei Geschlechtern entspricht.
 
 1. sṛjati ⟪सृजति⟫ : ⟪सृष्टः⟫ ⟪३⟫ (⟪सृष्टः⟫ ⟪।⟫ ⟪सृष्टा⟫ ⟪।⟫ ⟪सृष्टम्⟫)
 2. yudhyate ⟪युध्यते⟫ : ⟪युद्धः⟫ ⟪३⟫
@@ -49,7 +49,7 @@ B) Form the corresponding PPPs for the verb forms of [Lesson 10](lektion10.md), 
 21. pṛcchanti ⟪पृच्छन्ति⟫ : ⟪पृष्टाः⟫ ⟪३⟫
 22. tanvanti ⟪तन्वन्ति⟫ : ⟪तताः⟫ ⟪३⟫
 
-C) Put the sentences of [Lesson 10](lektion10.md), Exercise C, into the passive in the past.
+[C) Setzt die Sätze aus [Lektion 10](lektion10.md), Übung C, ins Passiv im Präteritum.]
 
 1\. The brāhmaṇa worships the goddess. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 ⟪ब्रामणेन⟫ ⟪देवीष्टा⟫ ⟪।⟫
@@ -81,7 +81,7 @@ C) Put the sentences of [Lesson 10](lektion10.md), Exercise C, into the passive 
 10\. The brāhmaṇa performs the fire ritual. ⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫
 ⟪ब्राह्मणेनाग्निः⟫ ⟪कृतः⟫ ⟪।⟫
 
-11\. The Vaiśyas go to this village. ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫
+11\. ܕܝܐ̈ܣܝܘܬܐ ܠܗܕܪ ܒܝܬ ܣܘܩܐ ܕܠܟܢ. ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫
 ⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गताः⟫ ⟪।⟫
 
 12\. These people listen to the teachers. ⟪एते⟫ ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫

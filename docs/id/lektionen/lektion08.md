@@ -21,7 +21,7 @@ last_reconstructed: 2026-05-07
 :::
 ---
 
-## 8.1. Tentang pembentukan nomina
+## 8.1. Tentang Pembentukan Nomina
 
 Dalam tata bahasa India tradisional, dibedakan pada akhiran, dengan mana akar nomina dibentuk:
 
@@ -61,7 +61,7 @@ Dalam tata bahasa India tradisional, dibedakan pada akhiran, dengan mana akar no
 
 ---
 
-## 8.3. Beberapa akhiran nomina penting
+## 8.3. Beberapa Akhiran Nomina Penting
 
 ---
 

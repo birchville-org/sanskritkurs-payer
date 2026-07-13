@@ -140,7 +140,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
 :::
-## 60.3. Der Dual des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 60.3. Le duel du parfait périphrastique (⟪anuprayogaliṭ⟫)
 
 ⟪गण्⟫ 10P "compter"
 
@@ -160,7 +160,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ |
 :::
-## 60.4. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
+## 60.4. Le participe ⟪parasmaipada⟫ du parfait redoublé (⟪dvitvaliṭ⟫)
 
 ::: grammar-box
 **Formation :**
@@ -413,7 +413,7 @@ Passif : ⟪यियक्ष्यते⟫ « on souhaite sacrifier »
 :::
 Pour la formation des noms d'agent en -u à partir du thème du desideratif, voir [Leçon 54](lektion54.md).
 
-## 60.7. Übung
+## 60.7. Exercice
 
 A) Étudiez dans Kielhorn, Grammatik § 451 les formations irrégulières du desideratif pour les verbes appris jusqu'à présent :
 

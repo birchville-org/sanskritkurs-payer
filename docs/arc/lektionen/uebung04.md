@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 4
+# ܬܪܓܠܐ 4
 
-A) Form questions orally using the following words according to the pattern viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) and answer the questions in Sanskrit:
+[A] שְׁאֵלוּ בְּקוֹל שְׁאֵלוֹת עַל מִלּוֹת אֵלּוּ בְּמַחַזֶה viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) וַעֲנוּ בְּסַנְסְקִירִית:
 
 śruti, śiva, brāhmaṇa, dvija (plural), indrāṇī, dhenu, tulādhara, kālidāsa
 
@@ -46,7 +46,7 @@ kālidāsaḥ kaḥ? kaviḥ kālidāsaḥ.
 
 ⟪कालिदासः⟫ ⟪कः⟫ ⟪।⟫ ⟪कविः⟫ ⟪कालिदासः⟫ ⟪॥⟫
 
-B) Form questions for the following reading exercise according to the pattern etat kim (⟪एतत्किम्⟫) and answer the questions using the specified words and demonstrative pronouns, e.g. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
+ב) שאלות פורמליות לתרגיל הקריאה הבא לפי הדגם etat kim (⟪एतत्किम्⟫) וענה על השאלות באמצעות המילים והכינויים המחזיקים שצוינו, למשל eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
 
 ::: media
 ![](/images/lekt0401.webp)

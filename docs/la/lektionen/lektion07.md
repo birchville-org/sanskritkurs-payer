@@ -51,7 +51,7 @@ z.B.
 :::
 Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**karman** n. = ⟪कर्मन्⟫) im Allgemeinen im **Akkusativ** (Wenfall, dvitīyā f. = ⟪द्वितीया⟫).
 
-## 7.2. Der Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
+## 7.2. Accusativus (dvitīyā f. = ⟪द्वितीया⟫ = "casus secundus")
 
 ::: grammar-box
 **Finis accusativi singularis masculini et feminini post vocalem: -m**
@@ -87,7 +87,7 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 | **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
 
-### 7.2.1. Akkusativ Singular und Plural der Frage- und Demonstrativpronomina
+### 7.2.1. Akkusativ Singular und Plural der Frage- und Pronomina demonstrativa
 
 ::: grammar-box
 | || Masculinum | Femininum | Neutrum |
@@ -143,12 +143,12 @@ Uti alia accusativi adhibentur postea tractabuntur.
 4. Prae vocalem brevem (vide infra) praetermissa, -n finalis in ceteris casibus immutatum manet.
 :::
 
-## 7.4. Das Neutrum (napuṃsaka n. = ⟪नपुंसक⟫)
+## 7.4. Neutrum (napuṃsaka n. = ⟪नपुंसक⟫)
 
 ::: grammar-box
 **In neutris casibus formae nominativi (prathamā) et accusativi (dvitīyā) idem sunt.**
 :::
-### 7.4.1. Neutrum stemmatum in -a
+### 7.4.1. Neutrum thematum in -a
 
 ::: grammar-box
 - **Desinens Nominativi / Accusativi Singularis: -m**
@@ -197,7 +197,7 @@ Quinta praesentis classis athematicum praesentis radicem constituit, id est, pra
 | **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
 | **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
-## 7.6. Wortliste
+## 7.6. Vocabularium
 
 **Haec verba discite:**
 
@@ -221,7 +221,7 @@ Tab.: Anne haec fuit planta Soma vedica?: Fly Agaric: *Amanita muscaria* (L.) La
 - **aṅga** n. ⟪अङ्ग⟫ : membrum corporis, pars; etiam = **vedāṅga** = ⟪वेदाङ्ग⟫
 - **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : ire (Ad secundam classem verborum indigenam pertinet, sed revera est formatio cum suffixo formationis radicis praesentis **-ccha-**: **gam** » gradus profundus (**gm** ») **ga-ccha-ti**)
 
-## 7.7. Übung
+## 7.7. Exercitium
 
 **A) In singulari et plurali objectum directum vel accusativum directionis ponite:**
 

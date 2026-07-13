@@ -9,7 +9,7 @@ status: stable
 
 # Lesson 37
 
-## 37.1. The Adverb (⟪क्रियाविशेषणम्⟫)
+## 37.1. क्रियाविशेषणम्
 
 Adverbs are formed in Sanskrit
 
@@ -186,7 +186,7 @@ Fig.: ⟪क्व⟫
 :::
 ## 37.5. Adverbial Compounds
 
-### 37.5.1. Compounds with an adverb or adverbially used case as the final member
+### 37.5.1. अव्ययीभावः
 
 Example: ⟪सुचिरम्⟫ "very long (time)"
 

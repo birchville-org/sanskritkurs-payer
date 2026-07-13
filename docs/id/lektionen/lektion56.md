@@ -9,14 +9,14 @@ status: stable
 
 # Lesson 56
 
-## 56.1. The reduplicated aorist
+## 56.1. Aoris Reduplikasi
 
 ::: grammar-box
 **Formation:**
 
 **Augment + reduplicated root + a + thematic secondary ending**
 
-**The root syllable can be low- or high-grade. For roots ending in -i or -u, low grade is the rule.**
+**Suku kata akar dapat berupa derajat rendah atau tinggi. Untuk akar yang berakhir dengan -i atau -u, derajat rendah adalah aturan.**
 
 **Final -i, -u is replaced by -iy or -uv.**
 
@@ -24,7 +24,7 @@ status: stable
 :::
 Paradigm:
 
-⟪श्रि⟫ 1U "to go to, to lean on"
+⟪श्रि⟫ 1U "pergi ke, bersandar pada"
 
 |   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -33,126 +33,126 @@ Paradigm:
 | **2. ⟪द्वितीयः⟫** | ⟪अशिश्रियस्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियथास्⟫ | ⟪अशिश्रियध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अशिश्रियत्⟫ | ⟪अशिश्रियन्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियन्त⟫ |
 
-This form of the aorist is formed by, among others:
+Bentuk aorist ini dibentuk oleh, antara lain:
 
-*   ⟪श्रि⟫ 1U "to go to"
-*   ⟪द्रु⟫ 1P "to run"
-*   ⟪कम्⟫ 1Ā "to love": ⟪अचकमत⟫ / ⟪अचीकमत⟫ (see below!)
-*   ⟪पत्⟫ 1P "to fall": ⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = low grade of pat)
-*   ⟪वच्⟫ 2P "to say": ⟪अवोचत्⟫ (a-va + uc-a-t)
+*   ⟪श्रि⟫ 1U "pergi ke"
+*   ⟪द्रु⟫ 1P "berlari"
+*   ⟪कम्⟫ 1Ā "mencintai": ⟪अचकमत⟩ / ⟪अचीकमत⟫ (lihat di bawah!)
+*   ⟪पत्⟫ 1P "jatuh": ⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = bentuk rendah dari pat)
+*   ⟪वच्⟫ 2P "berkata": ⟪अवोचत्⟫ (a-va + uc-a-t)
 
 ::: grammar-box
-**All roots of the 10th class of present stems as well as all causatives always form the reduplicated aorist.**
+**Semua akar dari kelas 10 batang present serta semua kausatif selalu membentuk aorist yang diduplikasi.**
 :::
-### 56.1.1. Formation of the Aorist of Causatives and Roots of the 10th Present Class
+### 56.1.1. Pembentukan Aoris Kausatif dan Akar Kelas Present ke-10
 
 Stem syllable:
 
 ::: grammar-box
-**The starting point is the form of the present stem or the causative stem that remains after the removal of the formation element -aya- (i.e., a stem ending in -p for causatives in -paya-).**
+**Titik awalnya adalah bentuk akar kata kerja sekarang atau akar kata kerja kausatif yang tersisa setelah penghilangan elemen pembentuk -aya- (yaitu, akar kata yang berakhir dengan -p untuk kausatif dalam -paya-).**
 
-**The vowel of this so-called stem syllable is determined in the Aorist according to the following rules:**
+**Vokal dari suku kata batang yang disebut ini ditentukan dalam Aorist sesuai dengan aturan berikut:**
 
-*   **\-ā- before a simple consonant is replaced by -a-:**  
-    ⟪पॄ⟫ 3P: Caus. ***⟪पार⟫***⟪यति⟫, Aor. ⟪अपि⟫***⟪पर⟫***⟪त्⟫  
-    ⟪द्रु⟫ 1P: Caus. ***⟪द्राव⟫***⟪यति⟫, Aor. ⟪अदु⟫***⟪द्रव⟫***⟪त्⟫ / ⟪अदि⟫***⟪द्रव⟫***⟪त्⟫  
-    ⟪नी⟫ 1U: Caus.  ***⟪नाय⟫***⟪यति⟫, Aor. ⟪अनी⟫***⟪नय⟫***⟪त्⟫  
-    ⟪ज्ञा⟫ 9U: Caus. ***⟪ज्ञाप⟫***⟪यति⟫, Aor. ⟪अजि⟫***⟪ज्ञप⟫***⟪त्⟫  
-     
-*   **\-ī-, -e-, -ai- before a simple consonant is replaced by -i-:**  
-    ⟪चित्⟫ 1P: Caus. ***⟪चेत⟫***⟪यति⟫, Aor. (Ā) ⟪अची⟫***⟪चित⟫***⟪त⟫  
-     
-*   **\-u-, -o-, -au- before a simple consonant is replaced by -u-:**  
-    ⟪चुर्⟫ 10U: ***⟪चोर⟫***⟪यति⟫, Aor. ⟪अचू⟫***⟪चुर⟫***⟪त्⟫
+*   **\-ā- sebelum konsonan sederhana diganti dengan -a-:**  
+⟪पॄ⟫ 3P: Kaus. ***⟪पार⟫***⟪यति⟫, Aor. ⟪अपि⟫***⟪पर⟫***⟪त्⟫  
+⟪द्रु⟫ 1P: Kaus. ***⟪द्राव⟫***⟪यति⟫, Aor. ⟪अदु⟫***⟪द्रव⟫***⟪त्⟫ / ⟪अदि⟫***⟪द्रव⟫***⟪त्⟫  
+⟪नी⟫ 1U: Kaus.  ***⟪नाय⟫***⟪यति⟫, Aor. ⟪अनी⟫***⟪नय⟫***⟪त्⟫  
+⟪ज्ञा⟫ 9U: Kaus. ***⟪ज्ञाप⟫***⟪यति⟫, Aor. ⟪अजि⟫***⟪ज्ञप⟫***⟪त्⟫  
 
-**For certain roots, the changes mentioned so far are optional or must be omitted:**
+*   **\-ī-, -e-, -ai- sebelum konsonan sederhana diganti dengan -i-:**  
+⟪चित्⟫ 1P: Kaus. ***⟪चेत⟫***⟪यति⟫, Aor. (Ā) ⟪अची⟫***⟪चित⟫***⟪त⟫  
 
-*   **ar, ār, īr, al, which precede the final consonant of the stem syllable and substitute for ṛ, ṝ, ḷ, remains optionally unchanged or is replaced by ṛ or ḷ:**  
-    ⟪कॢप्⟫  1Ā: Caus. ***⟪कल्प⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कल्प⟫***⟪त्⟫ / ⟪अची⟫***⟪कॢ⟫***⟪पत्⟫  
-    ⟪कृष्⟫ 1P/6U: Caus. ***⟪कर्ष⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कर्ष⟫***⟪त्⟫ / ⟪अची⟫***⟪कृ⟫***⟪षत्⟫
+*   **\-u-, -o-, -au- sebelum konsonan sederhana diganti dengan -u-:**  
+⟪चुर्⟫ 10U: ***⟪चोर⟫***⟪यति⟫, Aor. ⟪अचू⟫***⟪चुर⟫***⟪त्⟫
+
+**Für bestimmte Wurzeln sind die bisherigen Änderungen optional oder müssen unterbleiben:**
+
+*   **ar, ār, īr, al, yang mendahului konsonan akhir dari suku kata akar dan menggantikan ṛ, ṝ, ḷ, tetap opsional tidak berubah atau diganti oleh ṛ atau ḷ:**  
+    ⟪कॢप्⟫ 1Ā: Kaus. ***⟪कल्प⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कल्प⟫***⟪त्⟫ / ⟪अची⟫***⟪कॢ⟫***⟪पत्⟫  
+    ⟪कृष्⟫ 1P/6U: Kaus. ***⟪कर्ष⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कर्ष⟫***⟪त्⟫ / ⟪अची⟫***⟪कृ⟫***⟪षत्⟫
+    :::
+    Vokal dari suku kata reduplicasi:
+
+Setelah aturan-aturan tersebut di atas diterapkan pada suku kata akar, aturan berikut untuk vokal dari suku kata reduplicasi harus diperhatikan:
+
 :::
-Vowel of the reduplication syllable:
-
-After the aforementioned rules have been applied to the stem syllable, the following rules for the vowel of the reduplication syllable must be observed:
-
 ::: grammar-box
-**The starting point is the regular reduplication vowel, i.e.**
+    **Titik awalnya adalah vokal reduplicasi reguler, yaitu**
 
 *   a for a, ā, ṛ,  ṝ, ḷ
-*   i for i, ī, e, ai
-*   u for u, ū, o, au
+    *   i for i, ī, e, ai
+    *   u for u, ū, o, au
 
 **This reduplication vowel undergoes the following changes:**
 
-*   **i, u is replaced by ī, ū if the stem syllable begins with only one consonant and is metrically short:**  
-    ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫***⟪तू⟫***⟪तुदत्⟫  
-     
-*   **a is replaced by ī if the stem syllable is metrically short and begins with only one consonant. If the stem syllable is metrically short and begins with more than one consonant, the a of the reduplication syllable is replaced by i. If the stem syllable is metrically long, the a remains:**  
-    ⟪नी⟫ 1U: Caus. ⟪नाययति⟫, stem syllable of the Aor. ⟪नय्⟫, Aor. ⟪अ⟫***⟪नी⟫***⟪नयत्⟫  
-    ⟪कृ⟫ 8U: Caus. ⟪कारयति⟫, stem syllable of the Aor. ⟪कर्⟫, Aor. ⟪अ⟫***⟪ची⟫***⟪करत्⟫  
-    ⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, stem syllable of the Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫***⟪ति⟫***⟪त्यजत्⟫  
-    ⟪भू⟫ 1P: Caus. ⟪भावयति⟫, stem syllable of the Aor. ⟪भव्⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भवत्⟫
+*   **i, u diganti menjadi ī, ū jika suku kata akar hanya diawali oleh satu konsonan dan secara metris pendek:**  
+    ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भिदत्⟫  
+    ⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫***⟪तू⟫***⟪तुदत्⟫  
+
+*   **a diganti menjadi ī jika suku kata akar secara metris pendek dan hanya diawali oleh satu konsonan. Jika suku kata akar secara metris pendek dan diawali oleh lebih dari satu konsonan, maka a pada suku kata reduplikasi diganti menjadi i. Jika suku kata akar secara metris panjang, maka a tetap:**  
+    ⟪नी⟫ 1U: Kaus. ⟪नाययति⟫, suku kata akar dari Aor. ⟪नय्⟫, Aor. ⟪अ⟫***⟪नी⟫***⟪नयत्⟫  
+    ⟪कृ⟫ 8U: Kaus. ⟪कारयति⟫, suku kata akar dari Aor. ⟪कर्⟫, Aor. ⟪अ⟫***⟪ची⟫***⟪करत्⟫  
+    ⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, suku kata akar dari Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫***⟪ति⟫***⟪त्यजत्⟫  
+    ⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, suku kata akar dari Aor. ⟪भव्⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भवत्⟫
 
 Particularities of certain roots in Kielhorn, Grammar § 435c ff.
 
-**Vowel-initial stem syllables are reduplicated according to the following rules:**
+**Suku kata akar yang diawali vokal direduplikasi sesuai aturan berikut:**
 
-*   **If the initial vowel is followed by only a single consonant or a consonant cluster whose first member is neither nasal nor d nor r, then the reduplicated syllable reads:**
+*   **Jika vokal awal diikuti hanya oleh satu konsonan tunggal atau gugusan konsonan yang anggota pertamanya bukan nasal, bukan d, dan bukan r, maka suku kata reduksi dibaca:**
 
 Vowel - first following consonant (respectively its representative required in a reduplication syllable) - **i** - all consonants
 
 :::
 ::: indent
-⟪अश्⟫ 9P: Caus. ⟪आशयति⟫, reduplicated syllable ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
-⟪इष्⟫ 6P: Caus. ⟪एषयति⟫, reduplicated syllable ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫
-⟪ईक्ष्⟫ 1Ā: Caus. ⟪ईक्षयति⟫, reduplicated syllable ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
+⟪अश्⟫ 9P: Kaus. ⟪आशयति⟫, reduplikasi suku kata ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
+⟪इष्⟫ 6P: Kaus. ⟪एषयति⟫, reduplikasi suku kata ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫
+⟪ईक्ष्⟫ 1Ā: Kaus. ⟪ईक्षयति⟫, reduplikasi suku kata ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
 :::
-*   **If a consonant group starting with a nasal or with d or r follows the initial vowel, then the second consonant of the group (or its substitute) is inserted with i according to the following scheme:**
-    
+*   Jika kelompok konsonan yang dimulai dengan nasal atau dengan d atau r mengikuti vokal awal, maka konsonan kedua dari kelompok tersebut (atau penggantinya) disisipkan dengan i sesuai skema berikut:
 
 Vowel - first consonant - second consonant (substitute) - i - second consonant
 
 ::: indent
-⟪अञ्ज्⟫ 7P: Caus. ⟪अञ्जयति⟫, reduplicated syllable ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत्⟫
-⟪ऋ⟫ 1P: Caus. ⟪अर्पयति⟫, reduplicated syllable ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत्⟫
-⟪अर्ह्⟫ 1P: Caus. ⟪अर्हयति⟫, reduplicated syllable ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
+⟪अञ्ज्⟫ 1P: Kaus. ⟪अञ्जयति⟫, suku kata duplikasi ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत्⟫
+⟪ऋ⟫ 1P: Kaus. ⟪अर्पयति⟫, suku kata duplikasi ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत्⟫
+⟪अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, suku kata duplikasi ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
 :::
-This form of reduplication of derivational stems starting with a vowel (causatives) is called "Attic reduplication".
-## 56.2. The Injunctive
+Bentuk duplikasi ini pada akar derivatif yang dimulai dengan vokal (kausatif) disebut "duplikasi Attik".
+## 56.2. Injunktif
 
 ::: grammar-box
-**The Injunctive is the augmentless form corresponding to augmented forms, i.e., its forms are identical to the augmentless forms of the Indicative Imperfect or Aorist. Indigenous Indian grammar did not recognize the Injunctive as a distinct grammatical category.**
+**Injunktif adalah bentuk tanpa augment yang sesuai dengan bentuk beraugment, yaitu, bentuk-bentuknya identik dengan bentuk tanpa augment dari Indikatif Imperfek atau Aorist. Tata bahasa India asli tidak mengakui Injunktif sebagai kategori tata bahasa yang terpisah.**
 :::
-According to the foundational work:
+Menurut karya dasar:
 
 ::: media
 ![](/images/lekt5601.jpg)
 Fig.:
-Professor of Comparative Linguistics, University of Erlangen-Nuremberg (1955 - 1983)
-(Image source: [Details](/en/licenses#lekt5601))
+Profesor Linguistik Perbandingan, Universitas Erlangen-Nuremberg (1955 - 1983)
+(Sumber gambar: [Rincian](/en/licenses#lekt5601))
 :::: indent
-Hoffmann, Karl \<1915 - 1996\>: The Injunctive in the Veda : a synchronic functional study / by Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3. series, Investigations)
+Hoffmann, Karl \&lt;1915 - 1996\&gt;: The Injunctive in the Veda : a synchronic functional study / by Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3. series, Investigations)
 ::::
 :::
-the Injunctive in the Veda has the following properties:
+Injunktif dalam Weda memiliki sifat-sifat berikut:
 
-*   it is not narrative, but mentionable
-*   it is tenseless
-*   the Injunctive Present (= augmentless Imperfect) denotes the imperfective aspect
-*   the Injunctive Aorist denotes the perfective aspect.
+*   bukan naratif, tetapi dapat disebutkan
+*   tanpa waktu (tenseless)
+*   Injunktif Presen (= Imperfek tanpa augment) menyatakan aspek imperfektif
+*   Injunktif Aorist menyatakan aspek perfektif.
 
 ::: grammar-box
-**In post-Vedic Sanskrit, the Injunctive occurs only in connection with the prohibition particle ⟪मा⟫ (+ Injunctive Aorist) or ⟪मा⟫ ⟪स्म⟫ (+ Injunctive Present or Aorist); the distinction of aspect usually no longer applies.**
+**Dalam bahasa Sanskerta pasca-Weda, Injunctive hanya muncul dalam kaitan dengan partikel larangan ⟪मा⟫ (+ Injunctive Aorist) atau ⟪मा⟫ ⟪स्म⟫ (+ Injunctive Present atau Aorist); pembedaan aspek biasanya tidak lagi berlaku.**
 
 (with aspect
 
 *   ⟪मा⟫ + Injunctive Aorist would denote a Prohibitive sentence: "Do not begin to ...!", "Do not ...!"
 *   ⟪मा⟫ ⟪स्म⟫ + Injunctive Present would denote an Inhibitive sentence, i.e., an already ongoing action or an already existing state is prohibited: "Stop ...!", "Desist from ...!"
 
-However, this distinction is usually not made in Classical Sanskrit.)
+Namun, pembedaan ini biasanya tidak dibuat dalam Sanskrit Klasik.)
 :::
-## 56.3. The Prohibitive Sentence
+## 56.3. Kalangan Larangan
 
 ::: grammar-box
 **Main Form:**
@@ -164,17 +164,17 @@ However, this distinction is usually not made in Classical Sanskrit.)
 Examples:
 
 ::: indent
-⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Do not become one who is motivated by the fruit of an action!" (Injunctive Aorist) (⟪भगवद्गीता⟫ 2,47c)
+⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Janganlah menjadi orang yang termotivasi oleh buah dari suatu tindakan!" (Aorist Injunktif) (⟪भगवद्गीता⟫ 2,47c)
 
-⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ "Do not become effeminate!" (Injunctive Aorist) (⟪भगवद्गीता⟫ 2,3a)
+⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ "Janganlah menjadi feminin!" (Aorist Injunktif) (⟪भगवद्गीता⟫ 2,3a)
 :::: media
 ![](/images/lekt5602.webp)
 Fig.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
-Poster (Ernesto Che Guevara) of a political party in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
-(Image source: [Details](/en/licenses#lekt5602))
+Poster (Ernesto Che Guevara) dari sebuah partai politik di Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). "Terjemahan kasar dari apa yang tertulis di atasnya adalah: Martir adalah pengalaman yang menarik bagi seorang revolusioner. Dan pilihan terakhir yang menakutkan bagi pengecut. Che bukan teladan bagi orang-orang pengecut."
+(Sumber gambar: [Details](/en/licenses#lekt5602))
 ::::
 :::
-Both examples have a prohibitive meaning. The Injunctive Aorist is thus used here in its original sense. (The predominance of the Injunctive Aorist in such sentences may perhaps be explained by the predominance of prohibitive sentences over inhibitive sentences, yet this question would still need to be investigated for Classical Sanskrit.)
+Kedua contoh memiliki makna prohibisi. Oleh karena itu, Aorist Injunktif di sini digunakan dalam maknanya yang asli. (Dominasi Aorist Injunktif dalam kalimat-kalimat seperti itu mungkin dapat dijelaskan oleh dominasi kalimat larangan atas kalimat penghentian, namun pertanyaan ini masih perlu diselidiki lebih lanjut untuk Sanskrit Klasik.)
 
 ::: grammar-box
 **Other Forms of Prohibitive Sentences:**
@@ -191,7 +191,7 @@ In addition, there are other, rarer forms of prohibitive sentences, see e.g.
 
 :::
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) \<1849-1913\>: Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
+Speyer, Jacob S. (Jacob Samuel) \&lt;1849-1913\&gt;: Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
 :::: media
 ![](/images/lekt5603.webp)
 Fig.: ⟪अलं⟫  ⟪विषादेन⟫
@@ -207,7 +207,7 @@ Fig.: ⟪अलं⟫  ⟪विषादेन⟫
 
 :::
 ::: indent
-⟪स्म⟫ + Indicative Present serves for narrating in the past, especially to indicate a duration in the past:
+⟪स्म⟫ + Indikativ Präsens digunakan untuk menceritakan masa lalu, terutama untuk menunjukkan durasi di masa lalu:
 
 e.g. ⟪वसति⟫ ⟪स्म⟫ "there lived once" (⟪स्म⟫ may sometimes also be absent).
 :::
@@ -300,7 +300,7 @@ A) Determine and translate the following forms without aids (!):
 
 **lekt5601:** Professor of Comparative Linguistics, University of Erlangen-Nuremberg (1955 - 1983) [Image source: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Accessed on 2009-02-27]
 
-**lekt5602:** Poster (Ernesto Che Guevara) of a political party in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards." [Image source: Hari\_Menon. -- [http://www.flickr.com/photos/me\_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Accessed on 2009-02-27. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
+**lekt5602:** Poster (Ernesto Che Guevara) dari sebuah partai politik di Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). "Terjemahan kasar dari apa yang tertulis di atasnya adalah: Martir adalah pengalaman yang menarik bagi seorang revolusioner. Dan pilihan terakhir yang menakutkan bagi pengecut. Che bukan teladan bagi orang-orang pengecut." [Sumber gambar: Hari\_Menon. -- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Diakses pada 2009-02-27. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribusi, penggunaan non-komersial, berbagi serupa)]
 
 **lekt5603:** [Image source: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Accessed on 2009-02-27. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
 

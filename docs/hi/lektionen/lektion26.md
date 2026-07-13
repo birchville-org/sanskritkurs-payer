@@ -1,10 +1,10 @@
 ---
-title: Lektion 26
-subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+title: पाठ 26
+subtitle: "शब्द के भीतर -s- के लिए मस्तिष्कीकरण नियम"
 lesson_id: 26
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+category: "व्याकरण"
+status: स्थिर
 ---
 
 # पाठ 26

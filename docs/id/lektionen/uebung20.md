@@ -11,8 +11,8 @@ last_reconstructed: 2026-05-15
 A) Translate and resolve the compounds into Sanskrit:
 
 ⟪१⟫. ⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫
-⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪ऽनार्या⟫ ⟪देवानामिन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪।⟫ (or: ⟪इन्द्रस्य⟫ ⟪शत्रव⟫ ⟪एवानार्या⟫...)
-The lord of the gods defeats the non-Aryans, the enemies of Indra (or: whose enemy Indra is).
+⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪ऽनार्या⟫ ⟪देवानामिन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪।⟫ (atau: ⟪इन्द्रस्य⟫ ⟪शत्रव⟫ ⟪एवानार्या⟫...)
+Penguasa para dewa mengalahkan non-Arya, musuh Indra (atau: yang musuhnya Indra).
 
 ⟪२⟫. ⟪शूरबलक्षत्रिययोधः⟫ ⟪शूरपुत्रमिच्छति⟫ ⟪॥२॥⟫
 ⟪शूरस्य⟫ ⟪बलं⟫ ⟪यस्य⟫ ⟪स⟫ ⟪क्षत्रिय⟫ ⟪एव⟫ ⟪योधः⟫ ⟪शूरमेव⟫ ⟪पुत्रमि्च्छति⟫ ⟪॥⟫
@@ -20,7 +20,7 @@ The Kṣatriya warrior with the strength of a hero desires a hero-son.
 
 ⟪३⟫. ⟪सुदुर्गममार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकमार्गः⟫ ⟪॥३॥⟫
 ⟪सुदुर्गमेण⟫ ⟪मार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकस्य⟫ ⟪मार्गः⟫ ⟪॥⟫
-On a very arduous path one comes into a heaven. The path to a hell, however, is simple.
+Pada jalan yang sangat berat, seseorang memasuki surga. Namun, jalan menuju neraka itu mudah.
 
 ⟪४⟫. ⟪मृतपुत्रब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥४॥⟫
 ⟪मृतः⟫ ⟪पुत्रो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥⟫
@@ -32,15 +32,15 @@ A Brahmin free from delusion desires no Śūdra woman, even if she has a perfect
 
 ⟪६⟫. ⟪सुनीतिपुत्रः⟫ ⟪प्राप्तमतिदर्शनसाधुं⟫ ⟪गच्छति⟫ ⟪॥६॥⟫
 ⟪शोभना⟫ ⟪नीतिर्यस्य⟫ ⟪स⟫ ⟪पुत्रः⟫ ⟪प्राप्तं⟫ ⟪मतेर्दर्शनं⟫ ⟪येन⟫ ⟪तं⟫ ⟪साधुं⟫ ⟪गच्छति⟫ ⟪॥⟫
-The polite son goes to the sage, who has acquired the ability to read thoughts.
+Putra yang sopan pergi ke resi, yang telah memperoleh kemampuan membaca pikiran.
 
 ⟪७⟫. ⟪प्राप्तप्रभावक्षत्रिया⟫ ⟪दृष्टमात्राञ्छत्रून्घन्ति⟫ ⟪॥७॥⟫
 ⟪प्राप्तः⟫ ⟪प्रभावो⟫ ⟪यैस्ते⟫ ⟪क्षत्रिया⟫ ⟪दृष्टं⟫ ⟪मात्रं⟫ ⟪येषां⟫ ⟪ताञ्छत्रून्घन्ति⟫ ⟪॥⟫
 The Kṣatriyas who have come to power kill the enemies as soon as they see them.
 
 ⟪८⟫. ⟪जितशत्रुयोधाः⟫ ⟪शत्रुजितान्मुञ्चन्ति⟫ ⟪॥८॥⟫
-⟪जितः⟫ ⟪शत्रुर्यैस्ते⟫ ⟪योधाः⟫ ⟪शत्रुणा⟫ ⟪जितान्मुञ्चन्ति⟫ ⟪।⟫ (or: ⟪जिताः⟫ ⟪शत्रवो⟫ ⟪यैस्त्ते⟫...)
-The warriors, who had defeated the enemy, liberate the defeated by the enemy.
+⟪जितः⟫ ⟪शत्रुर्यैस्ते⟫ ⟪योधाः⟫ ⟪शत्रुणा⟫ ⟪जितान्मुञ्चन्ति⟫ ⟪।⟫ (atau: ⟪जिताः⟫ ⟪शत्रवो⟫ ⟪यैस्त्ते⟫...)
+Para pejuang, yang telah mengalahkan musuh, membebaskan mereka yang dikalahkan oleh musuh.
 
 ⟪९⟫. ⟪कृतोपनयनबालः⟫ ⟪शिवादिदेवपूजां⟫ ⟪करोति⟫ ⟪॥९॥⟫
 ⟪कृतमुपनयनं⟫ ⟪यय्स⟫ ⟪स⟫ ⟪बालः⟫ ⟪शिव⟫ ⟪आदिर्येषां⟫ ⟪तेषां⟫ ⟪देवानां⟫ ⟪पुजां⟫ ⟪करोति⟫ ⟪॥⟫
@@ -48,14 +48,14 @@ The boy initiated into the Vedas venerates Śiva and the other gods.
 
 ⟪१०⟫. ⟪बुद्धगता⟫ ⟪दुःखादिसत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥१०॥⟫
 ⟪बुद्धं⟫ ⟪गता⟫ ⟪दुःखमादिर्येषां⟫ ⟪तानि⟫ ⟪सत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
-Those who have gone to Buddha hear the truth about suffering and the other (noble) truths.
+Mereka yang telah pergi ke Buddha mendengar kebenaran tentang penderitaan dan kebenaran (mulia) lainnya.
 
 B) Translate into Sanskrit using compounds:
 
 1. A Kṣatriya who does not hold the staff in his hand does not protect the people.
 ⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (or: ⟪जनान्रक्षति⟫ ⟪।⟫)
 
-2. Kālidāsa and the other poets are the teachers in Sanskrit.
+2. Kālidāsa dan penyair lainnya adalah guru dalam bahasa Sanskerta.
 ⟪संस्कृतगुरवः⟫ ⟪कालिदासादिक्वयः⟫ ⟪।⟫
 
 3. A Kṣatriya earns his livelihood through weapons.
@@ -73,7 +73,7 @@ Fig.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 
 ## Compound Analysis
 
-Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa in all ways you consider possible in Sanskrit.
+Uraikan majemuk berikut sebagai Bahuvrīhi dan/atau Dvandva dan/atau Tatpuruṣa dengan semua cara yang Anda anggap mungkin dalam bahasa Sanskerta.
 
 ⟪१⟫. **⟪इन्द्रशत्रवः⟫** ⟪।⟫ ⟪इन्द्रस्य⟫ ⟪शत्रवः⟫ ⟪।⟫ (or: ⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪।⟫)
 
@@ -247,49 +247,49 @@ Fig.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्न�
 ## Scholarly Fragments
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪१⟫.⟪३३⟫ ⟪॥⟫  
-The clarification of the mind occurs through the unfolding of friendly goodwill, compassion, sympathetic joy, and equanimity, which have happiness and suffering, merit and non-merit as their object.
+Penjelasan pikiran terjadi melalui pengembangan welas asih, belas kasihan, sukacita simpatik, dan ekuanimity, yang memiliki kebahagiaan dan penderitaan, kebajikan dan non-kebajikan sebagai objek mereka.
 
 ⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪१⟫ ⟪॥⟫  
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
-Yoga of action is asceticism, study of the Vedas, and attentive service to the LORD. It has as its goal the unfolding of concentration and the weakening of the "afflictions".
+Yoga tindakan adalah asketisme, studi Veda, dan pelayanan penuh perhatian kepada TUHAN. Tujuannya adalah pengembangan konsentrasi dan pelemahan "afflictions".
 
 ::: deleteme-box Explanation
-The five "afflictions" (⟪क्लेश⟫) are: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — ignorance, egoism, greed, hatred, and attachment to the body.
+Lima "afflictions" (⟪क्लेश⟫) adalah: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — kebodohan, egoisme, keserakahan, kebencian, dan keterikatan pada tubuh.
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
-The highest goal of man is that triple suffering disappears completely. (*Triple suffering: from oneself, from objects, from the gods.*)
+Tujuan tertinggi manusia adalah bahwa penderitaan tiga kali lipat menghilang sepenuhnya. (*Penderitaan tiga kali lipat: dari diri sendiri, dari objek, dari dewa-dewa.*)
 
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  
 ⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२२⟫ ⟪॥⟫  
-Suffering is characterized by distress. Liberation is the complete freedom from it.
+Penderitaan dicirikan oleh kesedihan. Pembebasan adalah kebebasan total dari itu.
 
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫  
 ⟪नैव⟫ ⟪वर्णाश्रमादीनां⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫  
-There is no heaven, no liberation, no transcendent soul, nor are there fruitful rituals and activities for castes and stages of life. ( ⟪सर्वदर्शनसंग्रह⟫ )
+Tidak ada surga, tidak ada pembebasan, tidak ada jiwatransenden, dan juga tidak ada ritual serta kegiatan yang bermanfaat bagi kasta-kasta dan tahap-tahap kehidupan. ( ⟪सर्वदर्शनसंग्रह⟫ )
 
 ⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
 ⟪विप्राणां⟫ ⟪करदा⟫ ⟪नृपाः⟫ ⟪।⟫  
 ⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
 ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫  
-Brahmins give taxes to the gods, Brahmins give taxes to kings, kings give taxes to the people, the people give taxes to the earth.
+Brahmana membayar pajak kepada para dewa, brahmana membayar pajak kepada raja-raja, raja-raja membayar pajak kepada rakyat, dan rakyat membayar pajak kepada bumi.
 
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫  
 ⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫  
 ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫  
 ⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪४१६⟫ ⟪॥⟫  
-Wife, son, and serf, these three are traditionally without property. What they acquire is the property of him to whom they belong.
+Istri, anak, dan hamba, ketiganya secara tradisional tidak memiliki harta. Apa yang mereka peroleh adalah milik dari orang yang menguasai mereka.
 
 ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫  
 ⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫  
 ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫  
 ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫  
-Slender in the middle, wide at the hips, with red lips, black eyes, with a curved navel and full breasts, which man does not kill such a beautiful woman's body?
+Ramping di bagian tengah, lebar pada pinggul, dengan bibir merah, mata hitam, dengan pusar melengkung dan payudara penuh, apakah ada pria yang membunuh tubuh wanita cantik seperti itu?
 
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫  
 ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫  
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫  
-Poor, who do not desire, have very many sons, the rich have not a single son. Strange is the course of creation.
+Orang miskin, yang tidak memiliki keinginan, memiliki sangat banyak anak; orang kaya tidak memiliki seorang pun. Anehnya adalah jalannya ciptaan.
 
 ::: media
 ![](/images/uebung032.webp)

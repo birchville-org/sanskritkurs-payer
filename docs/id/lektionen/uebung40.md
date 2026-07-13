@@ -8,19 +8,19 @@ last_reconstructed: 2026-05-15
 
 # Exercise 40
 
-A) Translate the **⟪सुभाषितानि⟫** at the beginning of the lesson:
+A) Terjemahkan **⟪सुभाषितानि⟫** di awal pelajaran:
 
 ⟪१⟫. **⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫ ⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫**  
 **⟪पात्रत्वाद्धनमाप्नोति⟫ ⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**  
-Knowledge yields right conduct; because of right conduct one becomes respectable; if one is respectable, one becomes wealthy; if one is wealthy, one becomes righteous — and from that follows happiness.
+Pengetahuan menghasilkan perilaku yang benar; karena perilaku yang benar seseorang menjadi terhormat; jika seseorang terhormat, ia menjadi kaya; jika seseorang kaya, ia menjadi benar — dan dari itu mengikuti kebahagiaan.
 
 ⟪२⟫. **⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫ ⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫**  
 **⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫ ⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-If one abandons knowledge in the search for happiness, or if one abandons happiness in the search for knowledge: whence should a happiness-seeker then have knowledge, and whence a knowledge-seeker happiness?
+Jika seseorang meninggalkan pengetahuan dalam mencari kebahagiaan, atau jika seseorang meninggalkan kebahagiaan dalam mencari pengetahuan: dari mana seorang pencari kebahagiaan kemudian memiliki pengetahuan, dan dari mana seorang pencari pengetahuan kebahagiaan?
 
 ⟪३⟫. **⟪आचार्यात्पादमादत्ते⟫ ⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫**  
 **⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫ ⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**  
-A student receives one quarter (of knowledge) from his teacher, one quarter through his own intellect, one quarter from his fellow students, and one quarter through the course of time.
+Seorang murid menerima satu perempat (dari pengetahuan) dari gurunya, satu perempat melalui akalnya sendiri, satu perempat dari rekan-rekan muridnya, dan satu perempat melalui perjalanan waktu.
 
 ---
 
@@ -113,45 +113,45 @@ Fig.: ⟪आशिमेति⟫
 Determine and translate the following word forms:
 
 ::: grammar-box
-| Word Form | Determination | Meaning |
+| Bentuk Kata | Penentuan | Makna |
 | :--- | :--- | :--- |
-| ⟪१⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | I gave / he gave for himself |
-| ⟪२⟫. **⟪ददते⟫** | ⟪दा⟫ (3U) 3. pl. Ā. Ind. Pres. | they give for themselves |
-| ⟪३⟫. **⟪पापे⟫** | ⟪पाप⟫ (n.) Loc. sg. | in the evil |
-| ⟪४⟫. **⟪आसे⟫** | ⟪आस्⟫ (2Ā) 1. sg. Ā. Ind. Pres. | I sit |
-| ⟪५⟫. **⟪एते⟫** | ⟪एतद्⟫ (m.) Nom. pl. | these |
-| ⟪६⟫. **⟪इते⟫** | ⟪इ⟫ (2P) PPP Loc. sg. m./n. | in the gone |
-| ⟪७⟫. **⟪इतः⟫** | Adv. / PPP Nom. sg. m. | from here / gone |
-| ⟪८⟫. **⟪यतः⟫** | Adv. / Part. Pres. P. Gen. sg. | from where / of the going |
-| ⟪९⟫. **⟪यते⟫** | ⟪इ⟫ (2P) Part. Pres. P. Dat. sg. | to the going |
-| ⟪१०⟫. **⟪ईयते⟫** | ⟪इ⟫ (2P) Pass. 3. sg. Ind. Pres. | he is gone |
-| ⟪११⟫. **⟪यत्⟫** | ⟪यद्⟫ (n.) Nom./Acc. sg. | which |
-| ⟪१२⟫. **⟪यदा⟫** | Adv. | when (relative) |
-| ⟪१३⟫. **⟪अस्तुवि⟫** | ⟪स्तु⟫ (2U) 1. sg. Ā. Impf. | I praised for himself |
-| ⟪१४⟫. **⟪अस्तवीत्⟫** | ⟪स्तु⟫ (2U) 3. sg. P. Impf. | he praised |
-| ⟪१५⟫. **⟪ब्रह्मणः⟫** | ⟪ब्रह्मन्⟫ (n./m.) Gen./Abl. sg. | of the Absolute / of the Brahmin |
-| ⟪१६⟫. **⟪ब्राह्मणः⟫** | ⟪ब्राह्मण⟫ (m.) Nom. sg. | the Brahmin |
-| ⟪१७⟫. **⟪लभे⟫** | ⟪लभ्⟫ (1Ā) 1. sg. Ā. Ind. Pres. | I receive |
-| ⟪१८⟫. **⟪लाभे⟫** | ⟪लाभ⟫ (m.) Loc. sg. | in the gain |
-| ⟪१९⟫. **⟪लेभे⟫** | ⟪लभ्⟫ (1Ā) 1./3. sg. Ā. Perf. | I received / he received |
-| ⟪२०⟫. **⟪लोभे⟫** | ⟪लोभ⟫ (m.) Loc. sg. | in the greed |
-| ⟪२१⟫. **⟪काश्चन⟫** | ⟪किं⟫-⟪चन⟫ (f.) Nom./Acc. pl. | any |
-| ⟪२२⟫. **⟪तन्त्रे⟫** | ⟪तन्त्र⟫ (n.) Loc. sg. | in the system |
-| ⟪२३⟫. **⟪तत्र⟫** | Adv. | there |
-| ⟪२४⟫. **⟪मनौ⟫** | ⟪मनु⟫ (m.) Loc. sg. | in Manu |
-| ⟪२५⟫. **⟪मेने⟫** | ⟪मन्⟫ (4Ā) 1./3. sg. Ā. Perf. | I thought / he thought |
-| ⟪२६⟫. **⟪वेत्स्यामः⟫** | ⟪विद्⟫ (6U) 1. pl. P. Fut. | we will know |
-| ⟪२७⟫. **⟪कच्चित्⟫** | Interrogative particle | perhaps? |
-| ⟪२८⟫. **⟪तत्याज⟫** | ⟪त्यज्⟫ (1P) 1./3. sg. P. Perf. | I left / he left |
-| ⟪२९⟫. **⟪विद्ये⟫** | ⟪विद्या⟫ (f.) Voc. sg. | o Science! |
-| ⟪३०⟫. **⟪विद्याम्⟫** | ⟪विद्या⟫ (f.) Acc. sg. | the Science |
-| ⟪३१⟫. **⟪एनेन⟫** | ⟪एनद्⟫ (m./n.) Instr. sg. | by this |
-| ⟪३२⟫. **⟪ऐक्षे⟫** | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | I saw |
-| ⟪३३⟫. **⟪आह⟫** | ⟪अह्⟫ (P) 3. sg. P. Perf. | he said |
-| ⟪३४⟫. **⟪आहन्⟫** | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | he struck |
+| ⟪१⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | Saya memberi / ia memberi untuk dirinya sendiri |
+| ⟪२⟫. **⟪ददते⟫** | ⟪दा⟫ (3U) 3. pl. Ā. Ind. Pres. | mereka memberi untuk diri mereka sendiri |
+| ⟪३⟫. **⟪पापे⟫** | ⟪पाप⟫ (n.) Loc. sg. | dalam kejahatan |
+| ⟪४⟫. **⟪आसे⟫** | ⟪आस्⟫ (2Ā) 1. sg. Ā. Ind. Pres. | Saya duduk |
+| ⟪५⟫. **⟪एते⟫** | ⟪एतद्⟫ (m.) Nom. pl. | ini |
+| ⟪६⟫. **⟪इते⟫** | ⟪इ⟫ (2P) PPP Loc. sg. m./n. | dalam yang pergi |
+| ⟪७⟫. **⟪इतः⟫** | Adv. / PPP Nom. sg. m. | dari sini / pergi |
+| ⟪८⟫. **⟪यतः⟫** | Adv. / Part. Pres. P. Gen. sg. | dari mana / dari yang pergi |
+| ⟪९⟫. **⟪यते⟫** | ⟪इ⟫ (2P) Part. Pres. P. Dat. sg. | kepada yang pergi |
+| ⟪१०⟫. **⟪ईयते⟫** | ⟪इ⟫ (2P) Pass. 3. sg. Ind. Pres. | ia telah pergi |
+| ⟪११⟫. **⟪यत्⟫** | ⟪यद्⟫ (n.) Nom./Acc. sg. | yang mana |
+| ⟪१२⟫. **⟪यदा⟫** | Adv. | ketika (relatif) |
+| ⟪१३⟫. **⟪अस्तुवि⟫** | ⟪स्तु⟫ (2U) 1. sg. Ā. Impf. | Saya memuji untuk dirinya sendiri |
+| ⟪१४⟫. **⟪अस्तवीत्⟫** | ⟪स्तु⟫ (2U) 3. sg. P. Impf. | ia memuji |
+| ⟪१५⟫. **⟪ब्रह्मणः⟫** | ⟪ब्रह्मन्⟫ (n./m.) Gen./Abl. sg. | dari Yang Mutlak / dari Brahmana |
+| ⟪१६⟫. **⟪ब्राह्मणः⟫** | ⟪ब्राह्मण⟫ (m.) Nom. sg. | sang Brahmana |
+| ⟪१७⟫. **⟪लभे⟫** | ⟪लभ्⟫ (1Ā) 1. sg. Ā. Ind. Pres. | Saya menerima |
+| ⟪१८⟫. **⟪लाभे⟫** | ⟪लाभ⟫ (m.) Loc. sg. | dalam keuntungan |
+| ⟪१९⟫. **⟪लेभे⟫** | ⟪लभ्⟫ (1Ā) 1./3. sg. Ā. Perf. | Saya menerima / ia menerima |
+| ⟪२०⟫. **⟪लोभे⟫** | ⟪लोभ⟫ (m.) Loc. sg. | dalam keserakahan |
+| ⟪२१⟫. **⟪काश्चन⟫** | ⟪किं⟫-⟪चन⟫ (f.) Nom./Acc. pl. | apa pun |
+| ⟪२२⟫. **⟪तन्त्रे⟫** | ⟪तन्त्र⟫ (n.) Loc. sg. | dalam sistem |
+| ⟪२३⟫. **⟪तत्र⟫** | Adv. | di sana |
+| ⟪२४⟫. **⟪मनौ⟫** | ⟪मनु⟫ (m.) Loc. sg. | dalam Manu |
+| ⟪२५⟫. **⟪मेने⟫** | ⟪मन्⟫ (4Ā) 1./3. sg. Ā. Perf. | Saya berpikir / ia berpikir |
+| ⟪२६⟫. **⟪वेत्स्यामः⟫** | ⟪विद्⟫ (6U) 1. pl. P. Fut. | kita akan tahu |
+| ⟪२७⟫. **⟪कच्चित्⟫** | Partikel interogatif | mungkin? |
+| ⟪२८⟫. **⟪तत्याज⟫** | ⟪त्यज्⟫ (1P) 1./3. sg. P. Perf. | Saya meninggalkan / ia meninggalkan |
+| ⟪२९⟫. **⟪विद्ये⟫** | ⟪विद्या⟫ (f.) Voc. sg. | o Sains! |
+| ⟪३०⟫. **⟪विद्याम्⟫** | ⟪विद्या⟫ (f.) Acc. sg. | Sains tersebut |
+| ⟪३१⟫. **⟪एनेन⟫** | ⟪एनद्⟫ (m./n.) Instr. sg. | dengan ini |
+| ⟪३२⟫. **⟪ऐक्षे⟫** | ⟪ईक्ष्⟫ (1Ā) 1. sg. Ā. Impf. | Saya melihat |
+| ⟪३३⟫. **⟪आह⟫** | ⟪अह्⟫ (P) 3. sg. P. Perf. | ia berkata |
+| ⟪३४⟫. **⟪आहन्⟫** | ⟪आ⟫-⟪हन्⟫ (2P) 3. sg. P. Impf. | ia memukul |
 :::: media
 ![](/images/uebung066.webp)
 Fig.: ⟪काश्चन⟫ ⟪वाहिकाः⟫
-(Image source: [Details](/en/licenses#uebung066))
+(Sumber gambar: [Details](/en/licenses#uebung066))
 ::::
 :::

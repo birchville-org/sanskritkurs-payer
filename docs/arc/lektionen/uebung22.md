@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 22
+# ܬܪܓܠܐ 22
 
-A) Form and translate the Absolute for the following verbs:
+[A] ܘܫܪܝ ܠܟܠ ܡܕܒܪ̈ܐ ܕܝܠܗ
 
 1.  ⟪आप्⟫ — **⟪आप्त्वा⟫** (having obtained)
 2.  ⟪प्राप्⟫ — **⟪प्राप्य⟫** (having attained)
@@ -51,11 +51,11 @@ B) Translate and resolve the compounds into Sanskrit:
 
 ⟪१⟫. **⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदास्यत्ति⟫ ⟪॥१॥⟫**
 (⟪ब्राह्मणस्य⟫ ⟪दासी⟫)
-The servant of the Brahmin cooked food and now eats.
+ܣܝܦܪܐ ܕܟܗܢܐ ܚܡܥ ܓܒܪܐ ܘܫܬܐ ܠܝܡܢ.
 
 ⟪२⟫. **⟪इष्टदेवतापूजां⟫ ⟪कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः⟫ ⟪स्तुवन्ति⟫ ⟪॥२॥⟫**
 (⟪इष्टाया⟫ ⟪देवताया⟫ ⟪पूजां⟫ ⟪।⟫ ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪तान्देवान्⟫ ⟪।⟫ ⟪सन्तो⟫ ⟪ब्राह्मणाः⟫)
-The good Brahmins worshipped their personal deity and now praise Indra and the other gods.
+ܟܗܢ̈ܐ ܬܝܒ̈ܝܐ ܥܒܕܘ ܠܐܠܗܢܟܘܢ ܘܫܒܚܘ ܠܐܝܢܕܪܐ ܘܠܗܟܝܠ ܐܠ̈ܗܬܐ.
 
 ⟪३⟫. **⟪प्रस्थाय⟫ ⟪रामः⟫ ⟪सपुत्रः⟫ ⟪सद्गुरुश्रवणार्थेन⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गच्छति⟫ ⟪॥३॥⟫**
 (⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪सतो⟫ ⟪गुरोः⟫ ⟪श्रवणार्थेन⟫ ⟪।⟫ ⟪ब्राह्मणानां⟫ ⟪ग्रामम्⟫)
@@ -70,7 +70,7 @@ The Kṣatriya hero enters the interior of the house, stands before the son of t
 
 ⟪६⟫. **⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫**
 (⟪दुःखमादिर्येषां⟫ ⟪तान्यार्याणि⟫ ⟪सत्यानि⟫ ⟪।⟫ ⟪सुष्टु⟫ ⟪गतः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪मार्गेण⟫)
-The Buddha (Sugata) has awakened to enlightenment, has proclaimed the truth of suffering and the other noble truths, and now leads people on the path to liberation.
+ܡܕܥܐ (ܣܘܓܛܐ) ܫܟܝܠ ܠܥܘܬܪܐ, ܓܝܪ ܠܫܢܬ ܟܐܒܬܐ ܘܠܫܢܬ ܟܐܒܬܐ ܕܡܠܟܘܬܐ, ܘܥܕܪ ܠܝܫܒܚ ܠܐܢܫ̈ܐ ܒܕܪܟܐ ܠܦܘܩܝܢ.
 
 ⟪७⟫. **⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫**
 (⟪यज्ञस्य⟫ ⟪दोषम्⟫)
@@ -78,14 +78,14 @@ Since he has forgotten the verse, the sacrificer commits a sacrificial error.
 
 ⟪८⟫. **⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫ ⟪॥८॥⟫**
 (⟪बुद्धस्य⟫ ⟪मार्गो⟫ ⟪मार्गो⟫ ⟪येषां⟫ ⟪ते⟫ ⟪भिक्षवः⟫)
-When they receive money, monks who follow the path of the Buddha are corrupted.
+ܡܕܢܚܝܐ ܕܠܫܘܟܪ̈ܐ ܕܡܠܟܬܐ ܕܒܘܕܗܐ ܝܬܝܪ̈ܐ.
 
 ⟪९⟫. **⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫**
 (⟪अनार्यैः⟫ ⟪शत्रुभिः⟫ ⟪।⟫ ⟪नराः⟫ ⟪सिंहा⟫ ⟪इव⟫)
 The lion-like men have encountered the enemies who are not Āryas, and they achieve complete victory.
 
 ⟪१०⟫. **⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫**
-If he has done meritorious deeds and spoken only the truth, a person does not go to any hell.
+ܐܢ ܗܘ ܥܒܕ ܡܠܬ̈ܐ ܕܚܢܘܬܐ ܘܡܠܠ ܫܪ̈ܝܬܐ, ܢܒܝܠ ܠܐ ܫܪ̈ܐ.
 
 ::: media
 ![](/images/uebung034.jpg)
@@ -94,7 +94,7 @@ Fig.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्
 :::
 ---
 
-## Passive Constructions
+## ܡܬܡܨܝܢܘܬܐe Constructions
 
 C) Form passive constructions from the above sentences (except sentences 8 and 10):
 

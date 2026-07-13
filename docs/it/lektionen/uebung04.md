@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Esercizio 4
 
-A) Formulate oral questions using the following words according to the pattern viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) and answer the questions in Sanskrit:
+A) Formulare domande orali utilizzando le seguenti parole secondo il modello viṣṇuḥ kaḥ (⟪विष्णुः⟩ ⟪कः⟩) e rispondi alle domande in sanscrito:
 
 śruti, śiva, brāhmaṇa, dvija (plural), indrāṇī, dhenu, tulādhara, kālidāsa
 
@@ -46,7 +46,7 @@ kālidāsaḥ kaḥ? kaviḥ kālidāsaḥ.
 
 ⟪कालिदासः⟫ ⟪कः⟫ ⟪।⟫ ⟪कविः⟫ ⟪कालिदासः⟫ ⟪॥⟫
 
-B) Formulate questions for the following reading exercise according to the pattern etat kim (⟪एतत्किम्⟫) and answer the questions with the specified words and demonstrative pronouns, e.g. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
+B) Formulare domande per il seguente esercizio di lettura secondo lo schema etat kim (⟪एतत्किम्⟫) e rispondi alle domande con le parole specificate e i pronomi dimostrativi, ad esempio: eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
 
 ::: media
 ![](/images/lekt0401.webp)

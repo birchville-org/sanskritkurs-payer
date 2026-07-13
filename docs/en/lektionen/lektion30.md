@@ -109,7 +109,7 @@ Example:
 ::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "If someone were to speak untruth, he would fall into hell = If someone speaks untruth, he falls into hell"
 :::
-## 30.3. Secondary endings of the 3rd persons singular and plural
+## 30.3. तृतीयपुरुषैकवचनबहुवचनयोर्लङ्लकारप्रत्ययाः
 
 The optative (⟪लिङ्⟫), the imperfect (⟪लङ्⟫), the aorist (⟪लुङ्⟫), the precative (⟪आशिर्लिङ्⟫), and the conditional have the so-called secondary endings:
 

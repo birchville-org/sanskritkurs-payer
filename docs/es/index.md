@@ -22,13 +22,18 @@ features:
     details: Construido sobre la base de VitePress para máxima velocidad.
 ---
 
-::: tip Version 1.5 — Hebrew Translation & Typography
-**Novedades en v1.5 (junio de 2026):**
 
-- **Nuevo idioma (hebreo):** El curso completo ahora también está disponible en hebreo (incluido el soporte RTL).
-- **Tipografía sánscrita:** Unificación sistémica y resaltado de color del devanagari en todos los idiomas de traducción.
-- **Mejoras de PWA:** Mayor estabilidad de la aplicación web progresiva para uso sin conexión.
+::: note-box  Version 1.6 — Global Integrity & Stabilität
+**Novedad en v1.6 (julio de 2026):**
 
-**Observaciones e informes de errores:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Colaborar como autor o corrector:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+- **Completitud al 100 % en 19 idiomas:** Árabe, hebreo, arameo, chino simplificado, indonesio, hindi, tamil, punjabi, latín, rumano y romanche grison están ahora traducidos mecánicamente de forma completa (calidad no garantizada; estudio de viabilidad pura sin editores).
+- **Soporte RTL:** Soporte nativo de diseño para idiomas de derecha a izquierda (árabe, hebreo), incluida una interfaz completamente localizada.
+- **PWA y «Offline-First»:** Uso completo e impecable sin conexión a internet de todos los contenidos del curso en todas las versiones lingüísticas activas.
+- **Versión y editor para autores:** Editor completo para editores (visor de control de calidad) con un sistema asíncrono de respaldo de inteligencia artificial para traducciones masivas extremadamente estables.
+
+**Se aceptan comentarios e informes de errores en:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Colaborar como editor o curador:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+
+- Para autores (y quienes deseen utilizar un editor de Markdown independiente ligero), hay disponible un editor de código abierto en https://github.com/marcodem/zentauri
+
 :::

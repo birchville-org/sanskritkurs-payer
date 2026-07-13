@@ -1,30 +1,29 @@
 ---
-title: Lesson 29
-subtitle: "Use of the Parasmaipada (⟪परस्मैपद⟫) and Ātmanepada (⟪आत्मनेपद⟫) in the Causative"
+title: Pelajaran 29
+subtitle: "Penggunaan Parasmaipada (⟪परस्मैपद⟫) dan Ātmanepada (⟪आत्मनेपद⟫) dalam Kausatif"
 lesson_id: 29
 last_reconstructed: 2026-05-21
-category: "Grammar"
-status: stable
+category: "Tata Bahasa"
+status: stabil
 ---
 
 # Lesson 29
 
-## 29.1. Use of the Parasmaipada (⟪परस्मैपद⟫) and Ātmanepada (⟪आत्मनेपद⟫) in the Causative
-
+## 29.1. Penggunaan Parasmaipada (⟪परस्मैपद⟫) dan Ātmanepada (⟪आत्मनेपद⟫) dalam Kausatif
 
 ::: grammar-box
-**The causative is Ubhayapada (⟪उभयपद⟫) with few exceptions**
+**Kausatif adalah Ubhayapada (⟪उभयपद⟫) dengan beberapa pengecualian**
 :::
 ::: grammar-box
-**In the causative, the Ātmanepada (⟪आत्मनेपद⟫) is used:**
+**Dalam kausatif, Ātmanepada (⟪आत्मनेपद⟫) digunakan:**
 
-**1. When the result of the caused action benefits the causer:**
+**1. Ketika hasil dari tindakan yang disebabkan menguntungkan pembuat kausatif:**
 :::
-Example:
+Contoh:
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma has a mat made for himself (in his own interest)"
 
-**2. When the causative of transitive verbs is used reflexively ("to show itself", "to make itself heard", etc.), or when the object of the simple verb is the agent (⟪कर्तृ⟫) of the causative:**
+**2. Ketika kausatif dari kata kerja transitif digunakan secara refleksif ("menunjukkan dirinya sendiri", "membuat dirinya terdengar", dll.), atau ketika objek dari kata kerja sederhana adalah agen (⟪कर्तृ⟫) dari kausatif:**
 
 Example:
 
@@ -32,8 +31,7 @@ Example:
 
 Result: ⟪भक्ता⟫ ⟪विष्णुं⟫ ⟪पश्यन्ति⟫ = "The believers see Viṣṇu"
 
-
-Thus, the rules generally correspond to the rules for the use of the Ātmanepada (⟪आत्मनेपद⟫) with Ubhayapada (⟪उभयपद⟫) verbs.
+Dengan demikian, aturan-aturan tersebut umumnya sesuai dengan aturan untuk penggunaan Ātmanepada (⟪आत्मनेपद⟫) pada kata kerja Ubhayapada (⟪उभयपद⟫).
 
 ## 29.2. Word List
 
@@ -42,15 +40,15 @@ Prefixes:
 ::: indent
 ⟪उद्⟫° : up, upward, aloft, out, out-
 
-⟪परि⟫° : around, about (place, time), about
+⟪परि⟫° : di sekitar, tentang (tempat, waktu), mengenai
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (to become around someone = to encircle =) to master, to conquer; to disregard, to despise
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (menjadi di sekitar seseorang = mengelilingi =) menguasai, menaklukkan; mengabaikan, meremehkan
 
 ⟪अवज्ञान⟫ n.: disregard
 
 ⟪गुप्त⟫ 3: protected, safeguarded
 
-⟪गृहस्थ⟫ 3: located in the house; m. householder (someone who is in the 2nd ⟪आश्रम⟫)
+⟪गृहस्थ⟫ 3: terletak di dalam rumah; m. pemilik rumah (seseorang yang berada pada ⟪आश्रम⟩ ke-2)
 
 ⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : to consume, to devour
 
@@ -94,7 +92,7 @@ Fig.: ⟪मत्स्यः⟫
 
 ⟪यथा⟫ Adv.: how, as if
 
-⟪रम्⟫ 1Ā ⟪रमते⟫ : to stand still, to rest, to linger; to take pleasure, to delight
+⟪रम्⟫ 1Ā ⟪रमते⟫ : berdiri diam, beristirahat, menunda; mengambil kesenangan, bersuka cita
 
 ::: indent
 Fut. ⟪रंस्यते⟫  
@@ -114,15 +112,15 @@ PPP ⟪पूजित⟫
 :::
 ## 29.3. Translation Exercise for Review
 
-Translate word-for-word into good German and memorize the Sanskrit texts:
+Übersetze wortgetreu ins Deutsche und merke dir die Sanskrit-Texte:
 
 1\. Definition of ⟪अविद्या⟫ :
 
 ⟪अनित्याशुचिदुःखा⟫***⟪नात्मसु⟫*** ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
 
-Explanation: ⟪आत्मसु⟫ = Loc. sg. of ⟪आत्मन्⟫ m. "soul; the Absolute, insofar as it is realized in the individual"
+Penjelasan: ⟪आत्मसु⟫ = Lok. sg. dari ⟪आत्मन्⟫ m. "jiwa; Yang Mutlak, sejauh terwujud dalam individu"
 
-2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. on the proper use of the ⟪दण्ड⟫ :
+2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. tentang penggunaan yang tepat dari ⟪दण्ड⟫ :
 
 ⟪तीक्ष्णदण्डो⟫ ⟪भूताना⟫***⟪मुद्वेजनीयो⟫*** ⟪भवति⟫ ⟪।८।⟫
 
@@ -156,7 +154,7 @@ Explanations:
 
 ⟪।११।⟫ ⟪विज्ञात⟫ ⟪३⟫ "recognized"; n.: recognition
 
-⟪।११।⟫ ⟪योजयति⟫ (Caus. of ⟪युज्⟫) "to harness, to connect with, to unite with"
+⟪।११।⟫ ⟪योजयति⟫ (Sebab dari ⟪युज्⟫) "untuk harness, untuk terhubung dengan, untuk bersatu dengan"
 
 ⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. of ⟪कामक्रोध⟫ (Dualdvandva)
 
@@ -172,7 +170,7 @@ Explanations:
 
 ⟪वर्त्मसु⟫ : Loc. plur. neut. of ⟪वर्त्मन्⟫ n. "path, track, way"
 
-## 29.4. Future and Causative for the Roots Learned So Far
+## 29.4. Bentuk Masa Depan dan Kausatif untuk Akar-akar yang Telah Dipelajari Sejauh Ini
 
 ::: grammar-box
 

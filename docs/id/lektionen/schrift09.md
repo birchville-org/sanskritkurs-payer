@@ -8,15 +8,15 @@ Within a sentence (a verse half), word division in the script occurs only if a w
 *   Anusvāra (ṃ)
 *   Visarga (ḥ)
 
-and the following word begins with a consonant. The same applies in cases where, according to the sentence sandhi rules, a hiatus arises between vowels.
+dan kata berikutnya dimulai dengan konsonan. Hal yang sama berlaku dalam kasus-kasus di mana, sesuai aturan sandhi kalimat, terjadi hiatus antara vokal-vokal.
 
 ### Punctuation
 
-The end of a sentence in prose is marked with | (ardhadhaṇḍa m.). In verses, | marks the end of the half-stanza, while || (daṇḍa m.) marks the end of the full stanza. In prose, || indicates a larger break (e.g., the end of a paragraph). Verse numbering is placed between two ||, e.g., ||⟪१⟫||.
+Akhir kalimat dalam prosa ditandai dengan | (ardhadhaṇḍa, m.). Dalam bait, | menandai akhir setengah bait, sedangkan || (daṇḍa, m.) menandai akhir bait penuh. Dalam prosa, || menunjukkan jeda yang lebih besar (misalnya, akhir paragraf). Penomoran bait ditempatkan di antara dua ||, misalnya: ||⟪१⟫||.
 
 ### Abbreviation
 
-Abbreviation marks (e.g., in references to works) are °, e.g., ⟪पा⟫° = pā(ṇinīye) = "In the grammatical treatise of Pāṇini".
+Tanda singkatan (misalnya, dalam referensi terhadap karya) adalah °, misalnya, ⟪पा⟫° = pā(ṇinīye) = "Dalam risalah tata bahasa Pāṇini".
 
 ### Further Vowels in Initial Position
 

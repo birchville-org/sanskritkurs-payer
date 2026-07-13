@@ -7,7 +7,7 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 7
+# 第七课
 
 ::: deleteme-box
 **在本课中，您将学习：**
@@ -50,7 +50,7 @@ status: stable
 
 ---
 
-## 7.2. Der Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
+## 7.2. 宾格（第四格，dvitīyā f. = ⟪द्वितीया⟫ = “第二种词尾”）
 
 ::: grammar-box
 **词尾：阳性和阴性宾格单数，元音后为 -m**
@@ -89,7 +89,7 @@ status: stable
 :::
 ---
 
-### 7.2.1. Akkusativ Singular und Plural der Frage- und Demonstrativpronomina
+### 7.2.1. 疑问代词和指示代词的宾格单数和复数
 
 ::: grammar-box
 | | | 阳性 | 阴性 | 中性 |
@@ -150,7 +150,7 @@ status: stable
 :::
 ---
 
-## 7.4. Das Neutrum (napuṃsaka n. = ⟪नपुंसक⟫)
+## 7.4. 中性 (napuṃsaka n. = ⟪नपुंसक⟫)
 
 ::: grammar-box
 **在中性中，主格（prathamā）与宾格（dvitīyā）的形式相同。**
@@ -158,14 +158,14 @@ status: stable
 ### 7.4.1. 以-a结尾的中性词干
 
 ::: grammar-box
-- **Nominativ / Akkusativ Singular Endung: -m**
-  例如：**phala** n. = ⟪फल⟫ = “果实”：主格 / 宾格单数 **phalam** = ⟪फलम्⟫
-- **Nominativ / Akkusativ Plural Endung: -āni**
-  例如：**phala** n. = ⟪फल⟫：主格 / 宾格复数 **phalāni** = ⟪फलानि⟫
+- **主格/宾格单数词尾：-m**
+例如：**phala** n. = ⟪फल⟫ = “果实”：主格/宾格单数 **phalam** = ⟪फलम्⟫
+- **主格/宾格复数词尾：-āni**
+例如：**phala** n. = ⟪फल⟫：主格/宾格复数 **phalāni** = ⟪फलानि⟫
 :::
 ---
 
-## 7.5. Athematische Präsensklassen
+## 7.5. 非词根性现在时类
 
 第五类现在时构成所谓的无词干现在时词干，即其现在时词干不像主题现在时类（第一、第四、第六、第十类）那样以“主题元音”**-a** 结尾。
 
@@ -174,10 +174,10 @@ status: stable
 1. **强词干**：高等级（罕见为延长等级）
 2. **弱词干**：低等级
 
-**Der starke Stamm steht:**
-- im Indikativ Singular Parasmaipada Präsens (laṭ) und Imperfekt (laṅ)
-- allen ersten Personen des Imperativ (loṭ) Parasmaipada und Ātmanepada
-- in der dritten Person Singular Imperativ (loṭ) Parasmaipada
+**强词干形式：**
+- 直陈式单数第三人称（laṭ）和未完成过去时（laṅ）
+- 祈使式（loṭ）第一人称所有形式，包括Parasmaipada和Ātmanepada
+- 祈使式（loṭ）第三人称单数Parasmaipada
 
 **所有其他形式都使用弱现在时词干。**
 :::
@@ -207,7 +207,7 @@ status: stable
 
 ---
 
-## 7.6. Wortliste
+## 7.6. 词汇表
 
 **学习以下词汇：**
 
@@ -233,7 +233,7 @@ status: stable
 
 ---
 
-## 7.7. Übung
+## 7.7. 练习
 
 **A) 在单数和复数中分别填入直接宾语或方向第四格：**
 

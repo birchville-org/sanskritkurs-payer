@@ -170,6 +170,7 @@ let unsubscribeInstall = null
 
 const LOCALE_NAMES = {
   de: 'Deutsch',
+  bg: 'Български',
   en: 'English',
   it: 'Italiano',
   ru: 'Русский',
@@ -186,7 +187,15 @@ const LOCALE_NAMES = {
   'zh-CN': '简体中文',
   'zh-TW': '繁體中文',
   th: 'ไทย',
-  he: 'עברית'
+  he: 'עברית',
+  ar: 'العربية',
+  arc: 'ܐܪܡܝܐ',
+  zh: '文言',
+  grc: 'Ἑλληνική (Αρχαία)',
+  fa: 'فارسی',
+  akk: 'Akkadū',
+  cop: 'ⲙⲉⲧⲣⲉⲙⲛⲭⲏⲙⲓ (Coptic)',
+  el: 'Ελληνικά (Modern)'
 }
 
 // Localized UI strings for all 14 languages. Settings page always renders in the

@@ -22,13 +22,18 @@ features:
     details: Aedificatum super fundamentum VitePress pro maxima celeritate.
 ---
 
-::: tip Version 1.5 — Hebrew Translation & Typography
-**Novum in v1.5 (Iunius 2026):**
 
-- **Lingua nova (Hebraica):** Totus cursus nunc etiam Hebraice praebetur (cum supportio RTL).
-- **Typographia Sanscritica:** Unificatio systematis et coloris distinctio Devanagari in omnibus translationibus.
-- **Meliorationes PWA:** Ulterior stabilizatio Progressivae Applicationis Web pro usu offline.
+::: note-box  Version 1.6 — Global Integrity & Stabilität
+**Novum in v1.6 (Iulius 2026):**
 
-**Notae et nuntii erroris:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Contribue ut auctor vel corrector:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+- **100% Perfectio in 19 linguis:** Arabice, Hebraice, Aramaice, Sinice simplicata, Indonesiane, Hindi, Tamilice, Punjabi, Latina, Romenice et Rumantsch Grischun nunc perfecte machine translata sunt (qualitas non certa; sola studium possibilitatis sine correctoribus).
+- **Supportus RTL:** Layoutum nativum pro linguis dextrorsum fluentibus (Arabice, Hebraice) inclusam interface localizatam complete.
+- **PWA & Offline-Primum:** Usus offline completus et sine errore omnium contentuum cursus per omnes versiones linguas activas.
+- **Versio Auctoris & Editor:** Editor completus pro correctoribus (spectator QA) cum systema fallback AI asynchrono pro translationibus massis extrem stabilibus.
+
+**Notae et nuntii errorum grati acceptantur ad:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Participare ut corrector vel curator:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+
+- Pro auctoribus (et qui editor Markdown standalone levis uti vult), editor open-source disponitur in https://github.com/marcodem/zentauri
+
 :::

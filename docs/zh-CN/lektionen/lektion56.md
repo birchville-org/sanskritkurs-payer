@@ -7,9 +7,9 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 56
+# 第56课
 
-## 56.1. Der reduplizierte Aorist
+## 56.1. 重叠式过去时
 
 ::: grammar-box
 **教育：**
@@ -200,7 +200,7 @@ Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssi
 ## 56.4. ⟪स्म⟫
 
 ::: grammar-box
-**⟪स्म⟫ betont: „wahrhaftig, gewiss, zweifellos, geradezu“**
+**⟪स्म⟫ 强调：“真实地、确实、毫无疑问、简直”**
 
 **此外，以下结构也非常重要：**
 

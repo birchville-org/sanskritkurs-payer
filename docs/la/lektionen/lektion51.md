@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 51
 
-## 51.1. ⟪उपपद⟫-Komposita
+## 51.1. Compositiones ⟪upapada⟫
 
 ::: grammar-box
 **⟪उपपद⟫-composita (⟪उपपद⟫ n. "verbum adjunctum") sunt ⟨⟪तत्पुरुष⟫ cum nomine verbalico ut membro posteriore, quod solum in compositis occurrit, non autem ut verbum singulare et independens. ⟨⟪उपपद⟫ cum suffixis ⟨⟪कृत्⟫**
@@ -573,7 +573,7 @@ Absol. ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 ⟪शबर⟫ .:  Nomen proprium non-ariani populi
 
-## 51.7. Übersetzungsübung
+## 51.7. Exercitium translationis
 
 ⟪१⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪९⟫ - ⟪१२⟫ ⟪आश्रमधर्मः⟫
 

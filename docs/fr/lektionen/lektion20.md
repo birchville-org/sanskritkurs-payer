@@ -248,7 +248,7 @@ Fig. : Hermann Jacobi
 :::
 Cela peut être vrai. Cependant, les Indiens considèrent alors comme qualificatif et descriptif ce que nous considérerions comme « conceptuellement nécessaire ou important ».
 
-## 20.9. Wortliste
+## 20.9. Liste de mots
 
 ⟪वा⟫ : ou
 
@@ -257,7 +257,7 @@ Cela peut être vrai. Cependant, les Indiens considèrent alors comme qualificat
 ::: media
 ![](/images/lekt2008.webp)
 Fig. : ⟪आश्रमः⟫
-Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
+Rishikesh = ⟪ऋषिकेश⟫. « Ceci fait en réalité partie de l'ashram à Rishikesh où les Beatles ont séjourné. Cette partie spécifique n'existait pas lorsqu'ils y étaient, mais cela a l'air cool. »
 (Source de l'image : [Détails](/fr/licenses#lekt2008))
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : agissant, faisant, causant
@@ -350,7 +350,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : s'agiter
 
-## 20.10. Übung 1
+## 20.10. Exercice 1
 
 Résolvez les composés suivants comme Bahuvrīhi et/ou Dvandva et/ou Tatpuruṣa de toutes les manières qui vous semblent possibles en sanskrit (exception : composés avec un membre antérieur adverbial). Traduisez ces composés résolus différemment en allemand, indiquez le genre, le cas et le nombre du composé total.
 
@@ -436,7 +436,7 @@ Résolvez les composés suivants comme Bahuvrīhi et/ou Dvandva et/ou Tatpuruṣ
 80.  ⟪अकरुणस्य⟫
 81.  ⟪सोढदुःखाः⟫
 
-## 20.11. Übung 2
+## 20.11. Exercice 2
 
 A) Traduisez et décomposez les composés en sanskrit :
 
@@ -470,7 +470,7 @@ Un kṣatriya gagne sa vie par les armes.
 
 Les femmes śūdra ont aussi, en tant que dharma, la non-violence, la vérité, la pureté, l'absence de murmures, l'absence de méchanceté et la patience.
 
-## 20.12. Übersetzungsübung
+## 20.12. Exercice de traduction
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪३३॥⟫
 
@@ -576,7 +576,7 @@ Explication : ⟪इच्छताम्⟫ = gén. pl. Part Prés. P de ⟪इ
 
 **lekt2007:** Chennai = சென்னை [Source de l'image : calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Consulté le 2008-12-11. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale, pas de modification)]
 
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Source de l'image : par ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Consulté le 2008-12-11. -- Licence Creative Commons (Attribution)]
+**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. « Ceci fait en réalité partie de l’Ashram à Rishikesh où les Beatles ont séjourné. Cette partie spécifique n’existait pas à l’époque de leur venue, mais elle a fière allure. » [Source de l’image : par ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Consulté le 2008-12-11. -- Licence Creative Commons (Attribution)]
 
 **lekt2009:** Karnataka [Source de l'image : mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Consulté le 2008-12-11. -- Licence Creative Commons (Attribution, pas d'utilisation commerciale)]
 

@@ -4,20 +4,20 @@ lesson_id: 32
 status: stable
 ---
 
-# Lektion 32
+# ܕܪܫܐ 32
 
-## 32.1. Die Vergangenheitstempora
+## 32.1. ܙܒܢ̈ܐ ܕܥܒܪܐ
 
 ::: grammar-box
-**In the older Sanskrit literature and by native grammarians, the three tenses of past are clearly distinguished in their usage:**
+**ܒܣܦܪܘܬ ܐܠܦܝ ܣܡܣܩܪܝܬ ܕܐܠܦܘ̈ܬܐ ܪܒܬܐ ܘܒܣܦܪܘܬ ܡܕܥ̈ܝܐ ܕܢܦܫ̈ܗ̇, ܬܠܬ ܐܝܩܪ̈ܝܢ ܕܥܒܕܐ ܠܬܫܝܟ̈ܐ ܡܕܥ̈ܝܢ ܒܬܫܡܥܘܬ̈ܗ̇:**
 
-*   **the Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) denotes either simply the completion of an action or it refers to what happened on the current day, the near past**
-*   **the Imperfect (⟪लङ्⟫) refers to what happened before the current day, the distant past**
-*   **the Perfect (⟪लिट्⟫) refers, like the Imperfect, to the distant past, but unlike the Imperfect is used only for events that the speaker himself has not witnessed**
+*   **ܐܝܩܪܐ ܕܥܒܕܐ ܠܬܫܝܟܐ (⟪लुङ्⟫ , ⟪अद्यतनी⟫) ܐܝܟܘܬܐ ܕܥܒܕ ܡܠܟܘ̈ܬܐ ܐܘ ܕܥܒܕ ܡܠܟܘ̈ܬܐ ܒܝܘܡܐ ܕܢܫܟ̈ܠ, ܬܪܝܡܐ**
+*   **ܐܝܩܪܐ ܕܥܒܕܐ ܠܬܫܝܟܐ (⟪लङ्⟫) ܕܥܒܕ ܡܠܟܘ̈ܬܐ ܩܕܡ ܝܘܡܐ ܕܢܫܟ̈ܠ, ܬܪܝܡܐ**
+*   **ܐܝܩܪܐ ܕܥܒܕܐ ܠܬܫܝܟܐ (⟪लिट्⟫) ܕܥܒܕ, ܐܝܟ ܐܝܩܪܐ ܕܥܒܕܐ ܠܬܫܝܟܐ, ܩܕܡ ܝܘܡܐ ܕܢܫܟ̈ܠ, ܘܒܠ ܐܝܩܪܐ ܕܥܒܕܐ ܠܬܫܝܟܐ ܡܢ ܥܒܕ̈ܐ ܕܠܝܫܢܐ ܠܘ̈ܬ ܡܕܥ̈ܝܐ**
 
-**In classical Sanskrit literature, the three past tenses are used without distinction of meaning (exception: ⟪भारवि⟫'s poetic work ⟪किरातार्जुनीय⟫).**
+**ܒܣܦܪܘܬ ܐܠܦܝ ܣܡܣܩܪܝܬ ܕܐܠܦ̈ܘܬܐ, ܬܠܬ ܐܝܩܪ̈ܝܢ ܕܥܒܕ̈ܐ ܠܬܫܝܟ̈ܐ ܡܕܥ̈ܝܢ ܒܬܫܡܥܘܬ̈ܗ̇ (ܐܣܝܪ: ⟪भारवि⟫ ܡܠܟܘ̈ܬܐ ܕܢܦܫ̇ܗ ⟪किरातार्जुनीय⟫).**
 :::
-## 32.2. The Imperfect (⟪लङ्⟫)
+## 32.2. ܠܐ ܓܡܝܪܐ (⟪लङ्⟫)
 
 ::: grammar-box
 **Formation:**
@@ -37,7 +37,7 @@ status: stable
 *   3. sg. Impf. P. **⟪असुनोत्⟫** (a-suno-t)
 *   3. pl. Impf. P. **⟪असुन्वन्⟫** (a + sunu + an)
 :::
-## 32.3. Rules for the Augment
+## 32.3. ܦܽܘܩ̈ܕܶܐ ܠܡܰܘܣܦܳܢܳܐ
 
 ::: grammar-box
 **१. यदि वृद्धिः a- स्वरेण आरब्धस्य धातोः पुरतः भवति, वृद्धिः च धातोः आदिस्वरः च मिलित्वा धातुस्वरस्य ⟪वृद्धि⟫म् निर्मातः।**
@@ -73,7 +73,7 @@ status: stable
 ::: important
 **रूपनिर्माणं प्रदर्शयितुं, अत्र परस्मैपदधातुभ्यः अपि आत्मनेपदरूपाणि निर्मीयन्ते! एतानि कृत्रिमरूपाणि \< \> मध्ये स्थितानि।**
 :::
-### 32.4.1. Thematic present classes
+### 32.4.1. ܕܪ̈ܓܐ ܬܝܡܬܝܩܝ̈ܐ ܕܙܒܢܐ ܗܫܝܐ
 
 ::: grammar-box
 
@@ -86,7 +86,7 @@ status: stable
 | Passiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
-### 32.4.2. Athematic Present Classes
+### 32.4.2. ܟܘܪ̈ܣܐ ܕܗܘܝܐ ܐܬܝܡܛܝܩܝܐ
 
 ::: grammar-box
 
@@ -107,7 +107,7 @@ status: stable
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
 :::
-## 32.5. Wortliste
+## 32.5. ܡܠܘܐܐ
 
 **⟪अग्र⟫ n.:** tip, outermost end
 
@@ -235,9 +235,9 @@ Fig.: ⟪कौशलम्⟫
 Mehndi painting on hands in Mumbai.
 (Image source: [Details](/arc/licenses#lekt3206))
 :::
-## 32.6. Exercise
+## 32.6. ܬܪܓܠܐ
 
-A) Determine the following verb forms and form the corresponding imperfect forms in person, number, and genus verborum:
+[A] קܪܝ ܠܗܘܢ ܐܦܪܣܐ ܕܡܠܬ ܗܢܘܢ ܘܙܟܪ ܠܗܘܢ ܐܦܪܣܐ ܕܥܬܝܩܐ ܒܨܘܪܟܐ ܕܢܩܛܐ ܘܡܥܠܬܐ ܕܢܩܛܐ:
 
 1. ⟪हरि्ष्यन्ते⟫
 2. ⟪घातयति⟫
@@ -333,9 +333,9 @@ Fig.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धम
 Buddhist monk in Sri Lanka.
 (Image source: [Details](/arc/licenses#lekt3208))
 :::
-## 32.7. Review Exercise for the Christmas Holidays
+## 32.7. ܬܪܓܡܬܐ ܕܚܙܘܪܐ for the Christmas Holidays
 
-Note: originally, this was held each winter semester at the University of Tübingen. For Lesson 32, the two-week Christmas holidays began.
+ܣܘܓܝܐ: ܒܚܢܬܐ، ܗܕܐ ܗܘܝܬ ܠܒܫܡܐ ܟܠ ܣܘܬܡܪ ܒܨܝܕܢܐ ܕܬܘܒܝܓܣ. ܠܡܠܦܢܘܬܐ 32، ܫܒܥܬܝܢ ܕܠܐܘܟܬܐ ܫܪܩܘ.
 
 A) Determine and translate the following words:
 
@@ -424,7 +424,7 @@ A) Determine and translate the following words:
 83. ⟪अध्यापयति⟫
 84. ⟪वाचयन्ति⟫
 
-B) Exercise on Sandhi: Insert the words in parentheses into the following sentences. Pay particular attention to the Sandhi:
+ב) תרגיל על סנדי: הוסיפו את המילים בסוגריים למשפטים הבאים. הקדימו תשומת לב מיוחדת לסנדי:
 
 ⟪१⟫. ⟪रामो⟫ ⟪ग्रामात्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪लोकेश्वरनगर⟫ ⟪।⟫ ⟪कविगृह⟫ )
 
@@ -446,13 +446,13 @@ B) Exercise on Sandhi: Insert the words in parentheses into the following senten
 
 C) Translate into Sanskrit:
 
-1. After the son is born, the Brahmin woman sends a servant to the Brahmana. The Brahmana has this servant enter the house and then asks about the son. The servant says that the son is well. Upon hearing this, the Brahmana becomes happy.
+1. אַחֲרֵי דְּלִד יָת בַּר, שׁוֹלְחָא אִשְׁתּוֹ בַרְמֵי לְבָרְכָא. וּבָרְכָא אִיתַיֵּין יָת בַּרְמֵי הָדֵיק לְבֵית, וּשְׁאִיל יָת בַּר. אֲמַר בַּרְמֵי דְּבַר טָב. וּשְׁמַע בָּרְכָא, וּפַרִיח.
 
-2. The holy one has endured the evil (done to him).
+2. יָתֵיהּ קַדִישׁ סְבַל יָת בִּשְׁעָא (דַּעֲבַר לֵיהּ).
 
-3. Morality is the ornament of man.
+3. מִצְוָה הִיא זֵיד בַּר.
 
-4. The powerful warriors have gone to the Brahmin village.
+4. גְּבָרַיָא חֲזָקַיָא מִן בְּרַכְתָּא הֲוָיו יָהֲכו.
 
 5. The girl is weeping.
 
@@ -460,21 +460,21 @@ C) Translate into Sanskrit:
 
 7. A man protected by the goddess is happy.
 
-8. With whatever wind a cloud lets water (⟪वारि⟫ n.) fall, with that wind a scholar moves his umbrella.
+8. בְּכָל רוּחַ דִּמְעָא מַטְרָא יְהַב (⟪वारि⟫ נ.) כֵּן רוּחָא דְתַלִיד הוּא מַטְרֵיהּ
 
 9. There are no fruitful activities of castes, life stages, etc.
 
 10. The cycle of rebirths has no beginning.
 
-11. It is time to devote oneself to eating.
+11. עתא לאכלא
 
 12. Welcome of the Queen.
 
-13. For the sake of heaven, people perform meritorious deeds.
+13. למען שמיא, אנשא עבדין מצוון.
 
 14. A man who falsely pronounces a judgment out of arrogance, greed, anger, or fear goes to hell.
 
-15. Rāma went from the village to the city at the teacher's instruction, entered the house of the holy man, stood reverently before the saint and said: "Desist from anger!"
+15. ܪܡܐ ܙܠ ܡܢ ܟܦܪܐ ܠܩܘܪܝܬܐ ܒܨܘܬܐ ܕܡܠܦܢܐ، ܥܒܪ ܠܟܘܠܗ ܕܩܕܝܫ، ܐܬܒܪܟ ܩܕܡ ܣܓܝ ܘܐܠܟ: "ܫܒܩ ܡܢ ܓܝܐ!"
 
 १६. सदा शास्त्रेषु वृद्धैः सह तस्य सम्बन्धः भवतु, येन तस्य शिक्षा/सदाचारः वर्धते। (इदम्) यतः शिक्षायाः/सदाचारस्य मूलम् एतत् (तादृशैः सह सम्बन्धः) अस्ति।
 
@@ -482,7 +482,7 @@ C) Translate into Sanskrit:
 
 18. There is no better refuge than Rāma.
 
-19. Viṣṇumitra sends Rāma to send Govinda to the village.
+19. Viṣṇumitra šlišt Rāma l'man d'yštar Govinda l'kiryata.
 
 20. Govinda lässt den Devadatta Reis kochen。
 
@@ -492,27 +492,27 @@ C) Translate into Sanskrit:
 
 23. Welches Amulett hat das Mädchen beschützt？
 
-24. Satya is the lamp of the world.
+24. סַטְיָא הִיא נוּרָא דְעָלְמָא.
 
 25. Whom do these houses belong to?
 
-26. Dharma of all is: non-injury, truthfulness, purity, absence of envy, non-maliciousness, and patience.
+26. דִּין כָּל הוּא: לָא לְזַקֲפָא, אֱמֻתָּא, טְהוּרָא, לָא לְקַנְאַ, לָא לְמִשְׁתְּכַח בִּישָׁא, וְסַבְרָנּוּת.
 
-27. The Kṣatriyas who have defeated the enemies are sitting in the house.
+27. כִּשְׁטְרֵי דַחֲלָפוּ עַדְתָּא יַשְׁבִין בְּבֵית.
 
 28. Arc is a (real) spouse who speaks love; but he is an (authentic) son who lives. He lives who possesses good qualities; he lives who possesses Dharma.
 
-29. The prince of gods defeats the non-Aryans, who are enemies of Indra. (Passive)
+29. מַלְכָּא דֵּאלוהַת יַצִּיב יַת בְּעָלֵי דְאָרְיָן, דִּהוּן צַרוֹי דְּאִידְרָא. (פָּעֵל פַּסִּיב)
 
-30. Yoga of action is asceticism (tapas n.), (Veda) recitation, servitude towards the LORD. It serves the unfolding of meditative absorption and the weakening of kleśas.
+30. יוֹגָא דַעְבִידְתָּא הִיא צוּמָא (טַפַס׳ נ.), קְרִיאָה דֵּי סוּפַר, וַעֲבוּדְתָּא לִמְרוּק. הִיא מְשַׁרְתָּא לִפְתוּחָא דֵּי שַׁקְלָא וּלְחִסְפָּא דֵּי קְלֵישׁוֹת.
 
-31. Food intake, sleep, fear and mating: this is a commonality of humans with animals. In Dharma (lies) namely their additional particularity. Abandoned by Dharma they are equal to animals (Instrumental).
+31. אֲכִילַת מַאֲכָל, שְׁנָא, פַּחֲדָא וּבִיעוּל: הִיא שְׁכָבוּת דַּאֲנָשׁוּי עִם חַיוֹת. בְּדָרְמָא (שְׁכִיחַ) מֵינָהּ יוֹתְבָא נִפְקַת מֵינָהּ. עֲזִיבִין דְּדָרְמָא הוּם שַׁוִין לְחַיוֹת (אָבְל).
 
-32. The people are born to die.
+32. עַמָּא יִלְדִין לְמוּת.
 
 33. Hells exist because of evil. Evil has poverty as its origin. Poverty arises from not giving.
 
-34. It is the dharma of the Kṣatriyas that the Kṣatriyas protect the people from enemies.
+34. ܐܝܬ ܕܝܢ ܠܟܣܛܪܝܐ ܕܡܢ ܠܟܣܛܪܝܐ ܗܘ ܕܡܫܦܪܝܢ ܠܥܡܘܡܐ
 
 ३५. अतः, तिस्रः विद्याः शासनं मूलम् इति धारयन्ति। शासनं यत् शिक्षां/सदाचारं मूलम् इति धारयति, प्राणिभ्यः (⟪प्राणभृत्⟫) लाभं सुरक्षितं च सम्पत्तिं नयति।
 
@@ -524,29 +524,29 @@ C) Translate into Sanskrit:
 
 39. Viṣṇu shows himself to his devotees.
 
-40. A regiment that is not exercised causes the norm of fish.
+40. ܐܘܪ̈ܚܐ ܕܠܐ ܡܬܝܡܪ ܢܘܗܪܐ ܕܓܘܝ̈ܬܐ.
 
-41. He who possesses wealth has friends; he who possesses wealth has relatives; he who possesses wealth is a man (⟪पुमान् Nom. sq.) in the world; he who possesses wealth is indeed a scholar.
+41. ܕܡܘܟܠ ܙܒܢܐ ܝܬܝܪ ܚܘܒ̈ܐ, ܕܡܘܟܠ ܙܒܢܐ ܝܬܝܪ ܚܘܒ̈ܐ, ܕܡܘܟܠ ܙܒܢܐ ܝܬܝܪ ܓܒܪ̈ܐ (⟪पुमान् Nom. sq.) ܒܥܠܡ̈ܐ, ܕܡܘܟܠ ܙܒܢܐ ܝܬܝܪ ܚܟܡ̈ܐ.
 
-42. The fire that burns the deceased also burns the good widow.
+42. ܢܘܗܪܐ ܕܡܬܒܥܪ ܠܡܘܬ̈ܐ ܢܗܪ ܠܝܬܝܒ̈ܐ.
 
-43. The servant of the Brahmin has cooked the food and eats it (now).
+43. ܫܡܥܢ̈ܐ ܕܒܪ̈ܗ ܕܟܘܼܢܝܼ ܡܠܦ ܠܚܘܒ̈ܐ ܘܟܠ ܠܗ (ܫܝܡ).
 
 44. Now it is enough!
 
 45. This fruit suffices for him as food.
 
-46. The innermost shrine of the temple is a house for the image of the god.
+46. דְּבִירָא דַהֵיכָלָא בֵּיתָא הוּא לְצַלְמָא דִאלָהָ׃
 
-47. A thief is freed from theft by punishment or by release. But if the king (⟪राजा⟩ Nom. sg.) does not punish (the thief), he incurs the guilt of the thief.
+47. גַּנָּא מִגְּנֵיבְתָא יַהֲבֵיהּ בְּעוּנְשָׁא אוֹ בְּפִטְרָא. וְאִם לָא עוּנַשׁ מַלְכָּא (⟪राजा⟩ Nom. sg.) גַּנָּא, חֲבִיבְתָּא דַגַנָּא אֲחֵימִינוּהִי.
 
-48. Because he made a mistake in the sacrifice, the Brahmin is not worthy to receive wealth.
+48. מִשְׁגַּח בְּקוּרְבָּנָא, לֵית הוּא כַשׁוּר לְקַבָּלַת מָמוֹנָא.
 
-49. After the initiation ceremony has taken place, he should acquire the Veda and philosophy from scholars, and economics from department heads (⟪उपयुज्⟫).
+49. בְּעַד דִתְקֵים טָקוּס מִשְׁכַּבְתָּא, יִתְקֵים לֵיהּ וְעַד דְיִתְקַבֵל תוֹרָא וּפִילָסוֹפוּתָא מֵחַכְמַיָּא, וּדְבַר מִלְחֲמָתָא מֵרַבּוֹנַיָּא (⟪उपयुज्⟫).
 
-50. The duty of the Vaiśyas is that they live by buying and selling. Since this is so, sons of Vaiśyas buy and sell.
+50. דינא דוואישׁיאס הוא דלישקל ביקור ומוכר. מאחר דהכי, בני ואישׁיאס מיקרו ומזבני.
 
-51. One should speak the truth, one should speak what is pleasant; one should not speak an unpleasant truth, and one should also not speak an unpleasant untruth. This is the eternal Dharma.
+51. ישׁתוון צורתי, ישׁתוון דבראן נחמין; לא ישתוון צורתי בלתי נחמי, ולא ישתוון דבראן שקרא בלתי נחמי. האי הוא דינא עולם.
 
 52. Goodbye!
 
@@ -556,7 +556,7 @@ Fig.: ⟪पुनर्दर्शनाय⟫
 Indian greeting / farewell.
 (Image source: [Details](/arc/licenses#lekt3209))
 :::
-## 32.8. Review Exercise
+## 32.8. ܬܪܓܡܬܐ ܕܚܙܘܪܐ
 
 Translate and identify the following word forms:
 
@@ -601,7 +601,7 @@ Translate and identify the following word forms:
 39. ⟪यत्सु⟫
 40. ⟪रोत्स्यन्ती⟫
 
-## 32.9. Übersetzungsübung
+## 32.9. ܬܪܓܠܐ ܕܬܘܪܓܡܐ
 
 ::: compact
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br

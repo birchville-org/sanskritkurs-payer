@@ -35,7 +35,7 @@ Noble lord, please command what I should do.
 Arm yourself for battle, so that no harm will befall you.
 
 ⟪९⟫. **⟪कस्मात्त्वं⟫ ⟪भीतः⟫ ⟪।⟫ ⟪प्रतिवचनम्⟫ : ⟪तस्य⟫ ⟪रामस्य⟫ ⟪गुणेभ्यः⟫ ⟪।⟫ ⟪प्रष्टा⟫ : ⟪के⟫ ⟪तस्य⟫ ⟪गुणा⟫ ⟪यस्य⟫ ⟪गृहं⟫ ⟪प्रविश्याशितव्यमपि⟫ ⟪नास्ति⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-Question: "Of what are you afraid?" Answer: "Of the merits of this Rāma." Questioner: "What kind of merits are these of a man, in whose house there is nothing to eat when one enters?"
+Pertanyaan: "Dari apa kamu takut?" Jawaban: "Karena kebajikan Rāma ini." Penanya: "Kebajikan seperti apa itu dari seorang pria, di mana tidak ada makanan untuk dimakan ketika seseorang masuk?"
 
 ⟪१०⟫. **⟪तवैव⟫ ⟪हस्ते⟫ ⟪शस्त्रं⟫ ⟪तिष्ठतु⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 Let the sword remain in your hand!

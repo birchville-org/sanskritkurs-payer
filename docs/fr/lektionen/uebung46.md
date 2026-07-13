@@ -74,14 +74,14 @@ A) Déterminez et traduisez les formes suivantes :
 B) Translate:
 
 ⟪१⟫. **⟪प्रजहाति⟫ ⟪यदा⟫ ⟪कामानात्मन्येवात्मना⟫ ⟪तुष्टः⟫ ⟪स्थितप्रज्ञस्तदोच्यते⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-If one abandons desires and is content within the Self alone by the Self, then he is called "one of firm insight" (**⟪स्थितप्रज्ञः⟫**).
+Si l'on abandonne les désirs et que l'on se contente en Soi-même par le Soi, alors il est appelé « celui à la vision ferme » (**⟪स्थितप्रज्ञः⟫**).
 
 ⟪२⟫. **⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫**  
 **⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-From anger arises delusion; from delusion arises the confusion of mindfulness (recollection); from the loss of mindfulness follows the destruction of insight, and through the destruction of insight one perishes.
+De la colère naît l'illusion ; de l'illusion naît la confusion de la mémoire (recueillement) ; de la perte du recueillement suit la destruction de l'intelligence, et par la destruction de l'intelligence on périt.
 
 ⟪३⟫. **⟪नास्ति⟫ ⟪बुद्धिरयुक्तस्य⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-For the uncontrolled (non-Yogin) there is no insight.
+Pour celui qui n'est pas contrôlé (non-Yogin), il n'y a pas d'intelligence.
 
 ::: media
 ![](/images/uebung080.webp)

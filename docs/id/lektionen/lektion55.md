@@ -9,10 +9,10 @@ status: stable
 
 # Lesson 55
 
-## 55.1. The a-aorist (Aorist with thematic vowel)
+## 55.1. a-Aoris (Aoris dengan Vokal Tematik)
 
 ::: grammar-box
-**The a-aorist is formed like an imperfect (⟪लङ्⟫) of the 6th present class (⟪तुदादि⟫), i.e.:**
+**Aorist a-aorist dibentuk seperti imperfect (⟪लङ्⟫) dari kelas present ke-6 (⟪तुदादि⟫), yaitu:**
 
 **Augment + zero-grade root + a + secondary ending**
 
@@ -20,11 +20,11 @@ status: stable
 
 **No nasal infix.**
 
-**The Ātmanepada is rare; for Ubhayapada roots it is mostly formed according to other aorist classes (see Kielhorn, Grammar §340 and below under the corresponding aorist classes).**
+**Ātmanepada itu langka; untuk akar Ubhayapada, bentuknya sebagian besar mengikuti kelas aorist lain (lihat Kielhorn, Tata Bahasa §340 dan di bawah ini pada kelas aorist yang sesuai).**
 
-**List of roots that have this aorist, in Kielhorn, Grammar §340.**
+**Daftar akar yang memiliki aorist ini, dalam Kielhorn, Tata Bahasa §340.**
 :::
-Example:
+Contoh:
 
 ⟪सिच्⟫ 6U "to sprinkle"
 
@@ -52,7 +52,7 @@ Note:
 :::
 ## 55.2. Exercise
 
-Determine and translate the following forms in writing, and form the corresponding aorist forms:
+[Tentukan dan terjemahkan bentuk-bentuk berikut secara tertulis, serta bentukkan bentuk aorist yang sesuai:]
 
 1.  ⟪दोक्ष्यन्ति⟫
 2.  ⟪बुबोध⟫
@@ -90,11 +90,11 @@ Determine and translate the following forms in writing, and form the correspondi
 ::: media
 ![](/images/lekt5501.webp)
 Fig.: ⟪अजीर्यमिति⟫
-'Inâyat Khân on his deathbed, sketch for a miniature of a manuscript for Jahângîr = جهانگير, ca. 1618
-(Image source: [Details](/en/licenses#lekt5501))
+'Inâyat Khân di tempat tidur kematiannya, sketsa untuk miniatur naskah untuk Jahângîr = جهانگير, kira-kira 1618
+(Sumber gambar: [Details](/en/licenses#lekt5501))
 :::
 ::: deleteme-box
 
-**lekt5501:** 'Inâyat Khân on his deathbed, sketch for a miniature of a manuscript for Jahângîr = جهانگير, ca. 1618 [Image source: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Accessed on 2009-01-28. Public domain]
+**lekt5501:** 'Inâyat Khân di tempat tidur kematiannya, sketsa untuk miniatur naskah untuk Jahângîr = جهانگير, kira-kira 1618 [Sumber gambar: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Diakses pada 2009-01-28. Domain publik]
 
 :::

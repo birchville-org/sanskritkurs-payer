@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 52
 
-## 52.1. Neutrum der Stämme auf -i und -u
+## 52.1. Neutrum thematum in -i et -u
 
 ::: grammar-box
 **Ante terminos vocalibus incipientes, -n- intercalatur; hoc est influentia stemmatum in -n (-in).**
@@ -35,7 +35,7 @@ status: stable
 :::
 ## 52.2. Nominalbildung
 
-### 52.2.1. PPP + -vant: Partizip der Vergangenheit Parasmaipada
+### 52.2.1. PPP + -vant: Participium praeteriti Parasmaipada
 
 ::: grammar-box
 **Participium Parasmaipadae perfectum sic formatur:**

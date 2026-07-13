@@ -40,7 +40,7 @@ Fig.: ⟪मार्जारयुगम्⟫
 Fig.: ⟪हस्तौ⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5302))
 :::
-## 53.2. Terminări de dual pentru substantive
+## 53.2. Terminații de dual pentru substantive
 
 ::: grammar-box
 |   | Masculin/Feminin :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutru :br ⟪नपुंसक⟫

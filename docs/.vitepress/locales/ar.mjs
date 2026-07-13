@@ -13,6 +13,7 @@ export const ar = {
       { text: 'فهرس المحتويات', link: '/ar/lektionen/inhaltsverzeichnis' },
       { text: 'النحو', link: '/ar/grammatik' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
+      { text: '<span class="nav-gear-icon"></span>', link: '/ar/settings', ariaLabel: 'Settings' },
       { text: 'الاعتمادات', link: '/ar/impressum' }
     ],
     docFooter: {

@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 56
 
-## 56.1. Der reduplizierte Aorist
+## 56.1. L'Aorist reduplitgà
 
 ::: grammar-box
 **Educaziun:**
@@ -44,7 +44,7 @@ Questa forma dell’aoristo viene formata, tra gli altri, da:
 ::: grammar-box
 **Tuttas las radis da la 10. classa da prezens, sco era tuttas las causativas, furman adina l'aorist reduplicà.**
 :::
-### 56.1.1. Furmaziun da l'aorist da las causativas e da las radis da la 10. classa da prezens
+### 56.1.1. Furmaziun da l'aorist da las causativas e da las radischs da la 10. classa da prescha
 
 Sillaba fundamentala:
 
@@ -211,7 +211,7 @@ Abb.: ⟪अलं⟫  ⟪विषादेन⟫
 
 z.B. ⟪वसति⟫ ⟪स्म⟫ "es wohnte einmal" (⟪स्म⟫ kann manchmal auch fehlen).
 :::
-## 56.5. Übung
+## 56.5. Exercizi
 
 A) Determinar e traduscher senza agid (!) las suandantas furmas:
 

@@ -10,7 +10,7 @@ status: stable
 
 ## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
 
-### 61.1.1. Nomina radicalia in -ā ad finem de ⟪तत्पुरुष⟫
+### 61.1.1. Nomina radicalia in -ā ad finem ⟪तत्पुरुष⟫
 
 ::: grammar-box
 **Coram terminationibus vocalicis, radix vocalis in casibus infirmis gradum evanidum Ø habet.**
@@ -128,7 +128,7 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. Nomina radicis in -ū ad finem ⟨⟪तत्पुरुष⟫⟩
+### 61.1.5. Nomina radicis in -ū ad finem ⟨⟪tatpuruṣa⟫⟩
 
 ::: grammar-box
 **Ante terminationes vocalicas -ū per -v mutatur, si ei consonans tantum radix praecedit. Si plures ad radicem pertinentes consonantes praecedunt, -ū ante terminationem vocalem per -uv mutatur.**
@@ -383,9 +383,9 @@ Denominativa (⟪नामधातवः⟫) fiunt, contra verba hactenus tract
 **Coniugatio:**
 
 ::: indent
-**in the present stem like a verb of the first conjugation class (⟪भ्वादिगण⟫). If the noun 'mehl' has a vowel, only the final vowel is treated like the root vowel of the first class. Final -a drops before the thematic vowel. A vowel preceding a final nasal is replaced by the corresponding long vowel.**
+**in praesentis stemmate ut verbum primae coniugationis classis (⟪भ्वादिगण⟫). Si substantivum 'farina' vocalem habet, sola finalis vocalis ut radix primae classis tractatur. Finalis -a ante vocalem thematicam cadit. Vocalis ante nasalem finalem correspondenti longae vocali mutatur.**
 :::
-Examples:
+Exemplaria:
 
 | ⟪कवि⟫ m. "Dichter" | ⟪कवयति⟫ "er verhält sich wie ein Dichter" |
 | --- | --- |
@@ -644,7 +644,7 @@ Paradigma:
 | **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
 :::
-## 61.7. Deklination der Nomina auf -ai, -o, -au
+## 61.7. Declinatio nominum in -ai, -o, -au
 
 ::: grammar-box
 **Ante consonantes hihi stocae -ai, -o, -au; ante consonantes -āy, -av, -āv**
@@ -665,7 +665,7 @@ Tab.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 :::
 ## 61.8. Reliqua pronomina
 
-### 61.8.1. Personalpronomen des Dual
+### 61.8.1. Pronomina Personalia Dualis
 
 Kielhorn, Grammatik § 177:
 

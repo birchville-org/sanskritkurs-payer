@@ -169,7 +169,7 @@ Classificatio
 :::
 Optima pronuntiatio obtinetur, si sententias, versus vel verba fere lente et monotone cum exacta consideratione longitudinis vocalium legas.
 
-## 1.3. Übung
+## 1.3. Exercitium
 
 **A) Legite haec verba:**
 

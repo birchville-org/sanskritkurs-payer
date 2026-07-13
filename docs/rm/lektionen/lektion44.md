@@ -29,7 +29,7 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
 :::
-### 44.1.2. Achte Präsensklasse (⟪तनादि⟫)
+### 44.1.2. Otgavla classa dal temp preschent (⟪tanādi⟫)
 
 ⟪तन्⟫ 8U
 
@@ -51,7 +51,7 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
 :::
-### 44.1.3. Neunte Präsensklasse (⟪क्र्यादि⟫)
+### 44.1.3. Novavla classa dal temp preschent (⟪kryādi⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -93,7 +93,7 @@ Ultraclav è ancun applicadas las suandantas reglas dal Wortsandhi.
 :::
 ## 44.3. Furma dals verbs da la 2. persuna (⟪मध्यमः⟫) stems atematics senza suffix vocalic
 
-### 44.3.1. Zweite Präsensklasse (⟪अदादि⟫)
+### 44.3.1. Segunda classa da prescha (⟪अदादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||

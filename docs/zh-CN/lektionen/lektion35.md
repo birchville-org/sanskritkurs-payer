@@ -4,7 +4,7 @@ lesson_id: 35
 status: stable
 ---
 
-# Lektion 35
+# 第35课
 
 ## 35.1. 第三类强干词干高/长音等级的完成时
 
@@ -95,7 +95,7 @@ status: stable
 | ⟪दा⟫ 第三变位法 | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
 :::
-## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
+## 35.3. 第五类完成时：辅音-a-辅音词根
 
 ::: grammar-box
 **教育：**
@@ -139,7 +139,7 @@ status: stable
 | ⟪यज्⟫ 1类 | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
 :::
-### 35.3.2. Perfekt Typ Vb: schwacher Stamm Kontraktion (e-Typ)
+### 35.3.2. 完成式类型 Vb：弱词干缩合（e-型）
 
 ::: grammar-box
 **教育：**
@@ -174,7 +174,7 @@ status: stable
 
 sofern sie nicht zur Perfekt-Klasse Va gehören.
 :::
-Beispiel:
+示例：
 
 ::: grammar-box
 
@@ -183,7 +183,7 @@ Beispiel:
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
 :::
-## 35.4. Wortliste
+## 35.4. 词汇表
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : 消失，毁灭，消失
 ::: indent
@@ -306,5 +306,5 @@ C) 将练习B)中的句子进行转换，用未完成过去时（Imperfekta）�
 
 **lekt3503:** 瓦达塞里的市场，泰米尔纳德邦。[图片来源：kifo / Flickr。CC BY-SA]
 
-**lekt3504:** Yajña-Zeremonie, Shiva-Asram, Ganeshpuri. [Bildquelle: Dey / Flickr. CC BY-NC-SA]
+**lekt3504:** 祭祀仪式，湿婆林栖地，迦尼什普里。[图片来源：Dey / Flickr. CC BY-NC-SA]
 :::

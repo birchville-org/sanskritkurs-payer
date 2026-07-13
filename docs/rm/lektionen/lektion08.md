@@ -164,7 +164,7 @@ I Hindus devots van al temple per cuntanscher la visida da Dieu tras in simbol u
 
 Questas furmaziun pon vegnir formadas praticamente a mintga sustantiv e èn fitg cuminaidas en ovras scientificas sanscrite.
 
-## 8.4. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.")
+## 8.4. L'otgavla classa da prescha (tanādi = ⟪तनादि⟫ = "tan e.u.v.")
 
 ::: grammar-box
 **Furmaziun dal stem:**
@@ -189,7 +189,7 @@ La radiz principala da la 8. classa è **kṛ** 8 U (⟪कृ⟫) "far, far". L
 - 3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫
 :::
 
-## 8.5. Wortliste
+## 8.5. Glista da pleds
 
 **Imparar las suentas suventas:**
 
@@ -225,7 +225,7 @@ Fig.: **likh** (⟪लिख्⟫) : stgiet da scriver dals Batak (Sumatra), pr
 - **sukha** n. ⟪सुख⟫ : feliç, benessur
 - **duḥkha** n. ⟪दुःख⟫ : sfortuna, dolur
 
-## 8.6. Übung
+## 8.6. Exercizi
 
 **A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:**
 1. lobha
@@ -275,7 +275,7 @@ Fig.: **likh** (⟪लिख्⟫) : stgiet da scriver dals Batak (Sumatra), pr
 10. Tge desiran ils deus?
 11. Tge è la ragisch?
 
-## 8.7. Lese- und Übersetzungsübung
+## 8.7. Exercizi da lectura e translaziun
 
 1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
 2. ⟪कविर्देवं⟫ ⟪यजते⟫ |

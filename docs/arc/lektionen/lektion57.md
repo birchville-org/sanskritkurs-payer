@@ -7,15 +7,14 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 57
+# ܕܪܫܐ 57
 
-## 57.1. Aorist 4: s-Aorist
+## 57.1. ܐܰܘܪܺܝܣܛܳܐ 4: ܣ-ܐܰܘܪܺܝܣܛܳܐ
 
-::: grammar-box
-**The s-aorist is formed for most ⟪अनिट्⟫ roots, provided they do not exclusively have another aorist form. Optional ⟪अनिट्⟫ roots can generally optionally form this or the iṣ-aorist. Also ⟪अनिट्⟫ roots, which form the ⟪परस्मैपद⟫ after the 1st, 2nd or 6th form of the aorist, form the ⟪आत्मनेपद⟫ according to the s-aorist.**
+[0] ::: grammar-box
+**ܐܣܘܪ ܕ-ܣܐܘܪܝܬܐ ܡܫܟܚ ܠܦܪܘܩ ܕ-⟪अनिट्⟫ ܫܪܝܪ̈ܐ، ܒܚܘܬܐ ܕ-ܠܝܣ ܡܢ̈ܗܝ ܐܘܪ̈ܚܐ ܕ-ܣܥܝܦܐ ܐܚܪ̈ܢ. ܫܪܝܪ̈ܐ ܕ-⟪अनिट्⟫ ܡܢ̈ܗܝ ܐܬܪܟܒ ܠܦܪܘܩ ܕ-ܣܐܘܪܝܬܐ ܐܘ ܕ-ܣܥܝܦܐ ܕ-ܐܝܫ. ܠܒ̈ܬ ܟܢܘܣ̈ܐ ܕ-⟪अनिट्⟫، ܕ-ܡܫܟܚ̈ܝܢ ܐܣܘܪ ܕ-⟪परस्मैपद⟫ ܠܦܪܘܩ ܕ-1، 2 ܐܘ 6 ܡܢ ܣܥܝܦܐ، ܡܫܟܚ̈ܝܢ ܠܦܪܘܩ ܕ-⟪आत्मनेपद⟫ ܠܦܪܘܩ ܕ-ܣܐܘܪܝܬܐ.**
 
 **Formation: Augment + Root + s + athematic secondary ending**
-:::
 Table of endings with stem-forming suffix
 
 ::: grammar-box
@@ -23,12 +22,12 @@ Table of endings with stem-forming suffix
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. ⟪तृतीयः⟫** | -sam | -sma | -si | -smahi |
-| **2. ⟪द्वितीयः⟫** | **-sīs** | -sta | -sthās | **-dhvam** |
-| **3. ⟪प्रथमः⟫** | **-sīt** | -sur | -sta | -sata |
+| **1. ⟪तृतीयः⟫** | -ܣܡ | -ܣܡܐ | -ܣܝ | -ܣܡܗܝ
+| **2. ⟪द्वितीयः⟫** | **-ܣܝܣ** | -ܣܛܐ | -ܣܬܗܐܣ | **-ܕܗܘܡ**
+| **3. ⟪प्रथमः⟫** | **-ܣܝܬ** | -ܣܘܪ | -ܣܛܐ | -ܣܛܐ
 :::
 ::: grammar-box
-**The general phonetic law is applied that a sibilant between two stops is lost (cf. ⟪उद्⟫ + ⟪स्थित⟩ » ⟪उत्थित⟫), i.e., the stem-forming suffix -s- before endings beginning with -t- or -th- is lost (but not after nasals or r-).**
+**ܐܬܪܝܙ ܦܘܢܛܝܩ ܓܢܪܐܠܐ ܕܡܬܝܫܦ ܟܕ ܣܝܒܠܬܐ ܒܝܬ ܬܪܥܝܢ ܕܡܫܛܩܐ (ܟܠ ܥܡ ⟪उद्⟫ + ⟪स्थित⟩ » ⟪उत्थित⟫), ܐܝܕܝ: ܣܘܦܟܣ ܒܢܐ ܫܡܫ ܠܦܝ -s- ܩܕܡ ܐܘܪ̈ܝܬܐ ܕܡܫܛܩܝ ܒـ-t- ܐܘ -th- ܡܫܛܩ (ܠܐ ܒܥܕܪ ܢܣܒܝܐ ܐܘ r-).**
 
 Examples:
 
@@ -37,19 +36,19 @@ Examples:
 3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***⟪क्षिप्त⟫***
 2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***⟪क्षिप्था⟫***⟪स्⟫
 :::
-Such forms could also belong to the root aorist and probably do in part also belong there.
-Such forms could also belong to the root aorist and probably do in part also belong there.
-The Indian grammarians also counted forms like ⟪अकृत⟫ (3.sg.Ā) to the s-aorist, which clearly belong to the root aorist. For this purpose, the Indian grammarians invented the following ad-hoc sound law for the s-aorist:
+ܡܕܡ ܗܠܟܝܢ ܐܦ ܒܫܪܩܬ ܕܡܕܝܢܬ ܐܘܪܓܣܬܐ ܘܡܫܟܠܝܢ ܒܨܪܘܬܐ.
+ܡܕܡ ܗܠܟܝܢ ܐܦ ܒܫܪܩܬ ܕܡܕܝܢܬ ܐܘܪܓܣܬܐ ܘܡܫܟܠܝܢ ܒܨܪܘܬܐ.
+ܥܕܝܪ̈ܝܢ ܗܘܟܠܐ ܕܒܪ̈ܝܬ ܡܕܝܢܬ ܐܘܪܓܣܬܐ ܕ⟪अकृत⟩ (3.sg.Ā) ܠܫܪܩܬ ܕܡܕܝܢܬ ܐܘܪܓܣܬܐ. ܠܗ ܫܘܡ̈ܣܝܢ ܥܕܝܪ̈ܝܢ ܡܕܝܢܬ ܐܘܪܓܣܬܐ ܗܠܟܝܢ:
 
 ::: indent
-"After a short vowel, the 'endings' beginning with -st- or -sth- lose the -s-."
+"ܒܥܕܪ̈ܝܢ ܡܕܝܢܬ ܐܘܪܓܣܬܐ -st- ܘ -sth-, ܡܫܟܠܝܢ -s-."
 :::
-Otherwise, the phonological rules for the combination of final consonants with s- must be observed.
+ܒܥܕܪ̈ܝܢ, ܡܫܟܠܝܢ ܗܠܟܝܢ ܕܡܕܝܢܬ ܐܘܪܓܣܬܐ ܕ-s-.
 
 For -dhvam it holds:
 
 ::: grammar-box
-**The -dh- of -dhvam is replaced by -ḍh- after all non-a/ā vowels as well as after -r.**
+**דיית -dh- דיל -dhvam אתגריאת ביה דיית -ḍh- בתר כל חוץ מאלפא/ā ותיבת -r.**
 
 :::
 ::: indent
@@ -88,7 +87,7 @@ Examples:
 | ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
 
 ::: grammar-box
-**⟪दृश्⟫ and ⟪सृज्⟫ have in the ⟪परस्मैपद⟫ lengthened stage with rising diphthong -rā-:**
+**⟪दृश्⟫ ܘ⟪सृज्⟫ ܐܝܬ ܠܗܘܿܢ ܒ⟪परस्मैपद⟫ ܕܲܪܓܵܐ ܡܫܲܘܚܲܪܬܵܐ ܥܲܡ ܕܝܼܦܬ݂ܘܿܢܵܐ ܕܵܣܹܩ -rā-:**
 
 :::
 ::: indent
@@ -136,20 +135,20 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 ::: grammar-box
 **Irregelmäßige Formen:**
 
-**1. Roots with nasal (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) form the s-aorist with strong grade:**
-**⟪अगंसि⟫ ⟪।⟫ ⟪अमंसि⟫ ⟪।⟫ ⟪अरंस्त⟫**
-**In addition, for ⟪गम्⟫ there are the regular weak-grade forms:**
-**⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (in the P, ⟪गम्⟫ has the thematic aorist)**
+**1. שרשים עם נחום (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) יוצרים את ה-aorist-s עם דרגה חזקה:**
+**⟪अगंसि⟩ ⟪।⟩ ⟪अमंसि⟩ ⟪।⟩ ⟪अरंस्त⟩**
+**בנוסף, עבור ⟪गम्⟩ קיימות הצורות החלשות הרגילות:**
+**⟪अगसि⟩ (« \*a-gm-si) ⟪।⟩ ⟪अगथास्⟩ ⟪।⟩ ⟪अगत⟩ (ב-P, ל-⟪गम्⟩ יש aorist תמטי)**
 
-2.  ⟪पद्⟫ 4Ā is regular (e.g. ⟪अपत्सि⟫), but in the 3.sg.Ā it has the form of the passive root aorist:
-    ⟪अपादि⟫ "he went"
+2. ⟪पद्⟩ 4Ā הוא רגיל (למשל ⟪अपत्सि⟩), אך ב-3.sg.Ā יש לו צורה של aorist שורש פסיבי:
+⟪अपादि⟩ "הלך"
 
-3.  ⟪बुध्⟫ Ā can optionally take the form of the passive root aorist in the 3.sg.:
-    ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "he recognized"
+3. ⟪बुध्⟩ Ā יכול לקחת באופן אופציונלי את צורת aorist שורש פסיבי ב-3.sg.:
+⟪अबोधि⟩ / ⟪अबुद्ध⟩ "הכיר"
 :::
-## 57.2. Exercise
+## 57.2. ܬܪܓܠܐ
 
-A) Translate and determine without aids the following forms and form the corresponding Aorist forms. Except for causatives and roots that form the s-Aorist, the class of the corresponding Aorist is given in parentheses:
+א) תרגמו וקבעו ללא עזרים את הצורות הבאות וצרו צורות Aorist מתאימות. למעט גורמים ושורשים היוצרים s-Aorist, מעמד ה-Aorist המתאים מופיע בסוגריים:
 
 1.  ⟪पेचिथ⟫
 2.  ⟪अवक्⟫ (⟪३⟫)

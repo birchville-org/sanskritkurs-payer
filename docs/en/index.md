@@ -22,13 +22,18 @@ features:
     details: Built on the foundation of VitePress for maximum speed.
 ---
 
-::: tip Version 1.5 — Hebrew Translation & Typography
-**New in v1.5 (June 2026):**
 
-- **New Language (Hebrew):** The entire course is now also available in Hebrew (including RTL support).
-- **Sanskrit Typography:** System-wide standardization and color highlighting of Devanagari in all translation languages.
-- **PWA Improvements:** Further stabilization of the Progressive Web App for offline use.
+::: note-box  Version 1.6 — Global Integrity & Stabilität
+**New in v1.6 (July 2026):**
 
-**Comments and Error Reports:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Participate as an Author or Corrector:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+- **100% Completion in 19 Languages:** Arabic, Hebrew, Aramaic, Simplified Chinese, Indonesian, Hindi, Tamil, Punjabi, Latin, Romanian, and Romansh Grischun are now fully machine-translated (quality unverified; pure feasibility study without editors).
+- **RTL Support:** Native layout support for right-to-left languages (Arabic, Hebrew) including fully localized user interface.
+- **PWA & Offline-First:** Complete and error-free offline usage of all course content across all active language versions.
+- **Author Version & Editor:** Complete editor for editors (QA viewer) with asynchronous AI fallback system for extremely stable mass translations.
+
+**Comments and error reports welcome at:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Participate as an editor or curator:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+
+- For authors (and anyone who wants to use a lightweight Markdown standalone editor), an open-source editor is available at https://github.com/marcodem/zentauri
+
 :::

@@ -7,14 +7,14 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lesson 36
+# ܐܘܠܦܢܐ 36
 
-## 36.1. Special Forms of the Perfect
+## 36.1. ܕܡܘ̈ܬܐ ܡܝܘܚܕ̈ܬܐ ܕܓܡܝܪܐ
 
 ::: grammar-box
-1\. Some roots show a change of the root initial after the reduplication syllable.
+ܠܦܢܘ̈ܬܐ ܚܕܝܬܐ ܡܫܬܥܒܕܝ̈ܢ ܛܠܬܐ ܡܪܟܒ̈ܝܢ ܠܦܘܿܩ ܡܛܠ ܫܪ̈ܝܬܐ ܕܡܕܒܩ.
 :::
-Examples:
+ܡܛܠ̈ܐ:
 
 | Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,45 +23,45 @@ Examples:
 | ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫*⟪घा⟫*⟪न⟫ | ⟪ज⟫*⟪घ्नु⟫*⟪र्⟫ | | |
 
 ::: grammar-box
-2. The root ⟪विद्⟫ 2P "to know" has a perfect with present-tense meaning.
+2. השורש ⟪विद्⟫ 2P "לדעת" יש לו שלם עם משמעות זמן הווה.
 :::
 ::: grammar-box
-| Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| שורש:br⟪धातु⟫ | 3. יח' שלם פעיל | 3. רב' שלם פעיל |
 | :--- | :--- | :--- |
-| **⟪विद्⟫** 2P | ⟪वेद⟫ :brhe/she/it knows | ⟪विदुर्⟫ :brthey know |
+| **⟪विद्⟫** 2P | ⟪वेद⟫ :brהוא/היא יודע | ⟪विदुर्⟫ :brהם יודעים |
 :::
 ::: grammar-box
-3. The root ⟪अह्⟫ "to say" has only perfect forms (Perfect I). These have present-tense meaning.
+3. השורש ⟪अह्⟫ "לומר" יש לו רק צורות שלם (שלם I). אלו יש להן משמעות זמן הווה.
 :::
 ::: grammar-box
-| Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| שורש:br⟪धातु⟫ | 3. יח' שלם פעיל | 3. רב' שלם פעיל |
 | :--- | :--- | :--- |
-| ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brhe/she/it says | ⟪आहुर्⟫ :brthey say |
+| ⟪अह्⟫ :brשלם I | ⟪आह⟫ :brהוא/היא אומר | ⟪आहुर्⟫ :brהם אומרים |
 :::
 ::: grammar-box
-4. The root ⟪भू⟫ 1P has the perfect stem ⟪बभू⟫, before vowels ⟪बभूव्⟫.
+4. השורש ⟪भू⟫ 1P יש לו שורש שלם ⟪बभू⟫, לפני תנוות ⟪बभूव्⟫.
 :::
 ::: grammar-box
-| Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| שורש:br⟪धातु⟫ | 3. יח' שלם פעיל | 3. רב' שלם פעיל |
 | :--- | :--- | :--- |
 | **⟪भू⟫** 1P | ⟪बभूव⟫ | ⟪बभूवुर्⟫ |
 :::
-## 36.2. The periphrastic perfect (⟪अनुप्रयोगलिट्⟫)
+## 36.2. גמירא פריפראסטיקי (⟪अनुप्रयोगलिट्⟫)
 
 ::: grammar-box
 The periphrastic perfect (⟪अनुप्रयोगलिट्⟫) is used:
 
-1. in the derived conjugations (causative, desiderative, frequentative, denominative)
-2. in roots that begin with a long vowel (except ā-) or with a vowel (except a-) before two consonants
-3. in some other roots
+1. בְּשַׁרְשֵׁי הַצָּרוּעַ (פִּיעֵל, תִּשְׁתָּאֲלוּת, פַּעֲלָן, שֵׁם)
+2. בְּשָׁרִישִׁים שֶׁהֵם מְחַלְּקִין בְּאוֹת אָרֶךְ (לְבַד מֵאָ) אוֹ בְּאוֹת קָצָר (לְבַד מֵא) לִפְנֵי שְׁתֵּי עֲצָמוֹת
+3. בְּכַמָּה שָׁרִישִׁים אֲחֵרִים
 :::
 ::: grammar-box
-**Formation:**
+**בְּנִיָּן:**
 
 (weak) present stem + -ām + corresponding perfect form of ⟪कृ⟫, ⟪अस्⟫ or ⟪भू⟫
 
 - Auslautender Stammvokal wird vor -ām guṇiert.
-- ⟪अस्⟫ and ⟪भू⟫ are also conjugated with Ātmanepada verbs in the Parasmaipada.
+- ⟪अस्⟫ ו-⟪भू⟫ גם כן מנוסחים עם פעלי אָתְמַנֶּפָּדָה בפרסָמַיְפָּדָה.
 :::
 Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
@@ -72,7 +72,7 @@ Examples:
 | ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां⟫ ⟪चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां⟫ ⟪बभूव⟫** | **⟪ईक्षां⟫ ⟪चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां⟫ ⟪बभूवुर्⟫** |
 | ⟪बन्ध्⟫ :brKausativ: ⟪बन्धय⟫-:br"binden lassen" | **⟪बन्धयां⟫ ⟪चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
 
-## 36.3. Perfekt Passiv
+## 36.3. ܡܰܫܠܡܳܢܳܐ ܣܰܒܳܠܳܐ
 
 ::: grammar-box
 In the perfect tense, the forms of the Ātmanepada are used for the passive. In contrast, the use of the PPP is preferred. The construction in both cases is that of passive sentences:
@@ -81,7 +81,7 @@ In the perfect tense, the forms of the Ātmanepada are used for the passive. In 
 ::: indent
 ⟪तेन⟫ ⟪पुण्यं⟫ ⟪चक्रे⟫ = ⟪तेन⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ = "He performed a meritorious deed"
 :::
-## 36.4. Vocabulary List
+## 36.4. ܡ̈ܠܝܢ List
 
 ⟪अह्⟫ P only Perfect with present meaning ⟪आह⟫, ⟪आहुर्⟫ : say, speak
 
@@ -165,18 +165,18 @@ z.B.
 
 ⟪अनुकृ⟫ : imitate, copy
 
-⟪अनुगम्⟫ : to follow, to walk along
+⟪अनुगम्⟫ : ܠܐܘܬܐ, ܠܒܝܬܐ
 :::
-⟪अभि⟫ : be-, after - towards, to - here, to - towards, against, in - into, in relation to, on, over, at
+⟪अभि⟫ : ܒܝܬ, ܠܐܘܪܚܐ - ܠܗܢܐ, ܠܗܢܐ - ܠܡܕܝܢܬܐ, ܥܠ
 
 ::: indent
 z.B.
 
 ⟪अभिगम्⟫ : go towards, approach
 
-⟪वद्⟫ + ⟪अभि⟫ Causative Ā ⟪अभिवादयते⟫ : to formally greet, to address
+⟪वद्⟫ + ⟪अभि⟫ Causative Ā ⟪अभिवादयते⟫ : ܠܦܬ ܒܟܝܐ، ܠܩܘܠ
 :::
-⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : to feel reluctance, to fade away
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : ܠܩܘܢܝܐ، ܠܦܘܿܟ
 
 ::: indent
 Perf. IV ⟪जग्लौ⟫  
@@ -198,7 +198,7 @@ PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : to delight, to please; to love, to be favorable to someone
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : לְהִתְעַנֵּג, לְרַצּוֹת; לְאַהֲבָה, לִהְיוֹת מוּטָב לְאֵיזֶה אָדָם
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : to rejoice
 
@@ -226,7 +226,7 @@ Absol. -⟪स्पृश्य⟫
 Fig.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
 (Image source: [Details](/arc/licenses#lekt3606))
 :::
-⟪हृष्⟩ 4P ⟪हृष्यति⟫ : to become stiff: to bristle (hair), to rejoice over (Instr., Acc., Loc.)
+⟪हृष्⟩ 4P ⟪हृष्यति⟫ : ܠܝܘܬ ܗܘܐ: ܠܝܘܬ (ܨܥܪܐ), ܢܒܫ (ܣܘܗܠܬܐ), ܨܒܥ (ܣܘܗܠܬܐ, ܓܒܪܬܐ, ܡܨܠܘܟ)
 
 ::: indent
 Perf II ⟪जहर्ष⟫  
@@ -243,21 +243,21 @@ Fig.: ⟪लोमहर्षः⟫
 
 ⟪स्वक⟫ 3: own (mine, yours ...) ; m.: member
 
-## 36.5. Exercise
+## 36.5. ܬܪܓܠܐ
 
-A) The following roots have both a reduplicated and a periphrastic perfect. Form the corresponding periphrastic and reduplicated perfect forms for the following forms:
+[A] השתא שרשיהון דכין תרוייהו פועל מחדד ופועל משתבש. עבידו את פועליהון דמשתיבשן ואת פועליהון דמחדדין לשרשיהון דאילין:
 
 1.  ⟪बिभ्रते⟫
 2.  ⟪बिभ्यति⟫
 3.  ⟪जुहोति⟫
 4.  ⟪वेत्ति⟫
 
-B) The root ⟪आस्⟫ "to sit" has a periphrastic perfect. Form this for the following forms:
+B) השורש ⟪आस्⟫ "לשב" יש לו שלמות פריפרסטי. צרו זאת עבור הצורות הבאות:
 
 1.  ⟪आस्ते⟫
 2.  ⟪आसते⟫
 
-C) Form the corresponding perfect for the following forms:
+[C) ܫܘܡ ܠܟܢ ܦܪܝܩܐ ܕܬܒܥܘܿܬܐ ܠܗܟܝܠ:
 
 1.  ⟪जीयते⟫
 2.  ⟪विदन्ति⟫
@@ -294,7 +294,7 @@ Fig.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 
 ⟪ब्राह्मणीभिः⟫ ⟪स्वान्नानि⟫ ⟪पेचिरे⟫ ⟪॥७॥⟫
 
-## 36.6. The Perfect (⟪लिट्⟫) for the roots learned so far
+## 36.6. ܓܡܝܼܪܵܐ (⟪ܠܝܼܛ⟫) ܠܫܲܪ̈ܫܹܐ ܕܝܼܠܝܼܦܼ ܠܲܢ ܗܳܫܵܐ
 
 | Wurzel:br⟪धातु⟫ | Perfect Class | Perfect (⟪लिट्⟫) |
 | :--- | :--- | :--- |
@@ -398,7 +398,7 @@ Fig.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 | **⟪हु⟫** 3P | IIIa / Periph. | ⟪जुहाव⟫, ⟪जुहुवुर्⟫ / **⟪जुहवां⟫ ⟪चकार⟫** |
 | **⟪हृ⟫** 1U | IIIa | ⟪जहार⟫, ⟪जह्रे⟫ |
 
-## 36.7. Translation Exercise
+## 36.7. Translation ܬܪܓܠܐ
 
 Translate:
 
@@ -428,14 +428,14 @@ Explanations:
 
 ⟪त्रयस्⟫ : Nom. pl. mask. zu ⟪त्रि⟫ "three"
 
-⟪सर्वास्⟫ : Nom./Acc. pl. fem. to ⟪सर्व⟫ "all, every"
+⟪सर्वास्⟫ : שְׁמָא/סַלְקָא רַבְתָּנֵי נְשִׁין לְ⟪सर्व⟫ "כּוּלֵּי, כָּל"
 :::
 ::: media
 ![](/images/lekt3607.webp)
-Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
-(Image source: [Details](/arc/licenses#lekt3607))
+מְשַׁל: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
+(מַרְגֵּעַ הָאִיתָנָה: [פִּירוּשֵׁי](/arc/licenses#lekt3607))
 :::
-2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ over the right behavior towards the elderly:
+2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ עַל הָרְכֻּוָה הַנְּכוֹנָה לִפְנֵי זְקֵנִים:
 
 ::: indent
 ⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫
@@ -447,9 +447,9 @@ Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं�
 ⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫
 ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ *⟪विज्ञेयो⟫* ⟪जितेन्द्रियः⟫ ⟪॥⟫
 
-Explanation: ⟪विज्ञेय⟫ ⟪३⟫: one who is to be known; one who is to be known (as)
+ܣܦܪܐ: ⟪विज्ञेय⟫ ⟪३⟫: ܕܝܕܥ ܠܗ؛ ܕܝܕܥ ܠܗ (ܟ)
 :::
-4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ on the proper conduct of a Brāhmaṇa:
+4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ ܥܠ ܬܩܢܘܬ ܕܒܪܝܐ:
 
 ::: indent
 ⟪नापृष्टः⟫ ⟪कस्यचिद्ब्रूयान्न⟫ ⟪चान्यायेन⟫ ⟪पृच्छतः⟫ ⟪।⟫
@@ -457,13 +457,13 @@ Explanation: ⟪विज्ञेय⟫ ⟪३⟫: one who is to be known; one 
 
 Explanations:
 
-In this verse, ⟪ब्रू⟫ is constructed with the genitive
+בְּקֵיטָא הַדָּא, ⟪ब्रू⟫ אִתְבְּנָא עִם הַגֵּנִיטִיב
 
 ⟪मेधावी⟫ : Nom. sg. mask. zu ⟪मेधाविन्⟫ ⟪३⟫ "verständig, klug"
 
 ⟪जडवत्⟫ Adv. "In the manner of a rigid/stupid/foolish person"
 :::
-## 36.8. Morphology Repetition Exercise
+## 36.8. ܬܕܪܫܬܐ ܕܬܘܕܪܬܐ ܕܨܘܪܬܝܘܬܐ
 
 Determine and translate the following word forms in all possible ways:
 

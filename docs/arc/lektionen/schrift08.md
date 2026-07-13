@@ -1,18 +1,18 @@
-# Writing Exercise 8
+# ܬܶܪܓܳܠܳܐ ܕܟܬܳܒܳܐ 8
 
-Vowel signs for the beginning of a word, if the word is not connected in writing with a preceding word:
+ܣܡܠܝ̈ܢ ܕܟܘܪܐ ܠܫܪܩܬ ܕܡܠܬܐ، ܝܕܐ ܕܡܠܬܐ ܠܐ ܫܪܟܬ ܒܟܬܒܐ ܥܡ ܡܠܬܐ ܩܕܡܝܬܐ:
 
 ![](/images/schrift015.webp)
 
 ![](/images/schrift016.jpg)
 
-### Consonant ligatures
+### ܚܪ̈ܦܬܐ ܡܚܒܠ̈ܬܐ
 
 If two or more consonants follow immediately on each other within a word or sentence, they are written with a ligature (combined sign).
 
-1. If the first of the consonant signs to be combined ends with the vertical stroke on the right, it loses this stroke and is placed before the second consonant.
+1. אם האיבר הראשון של סימני העיצורים המשולבים מסתיים בקו האנכי מימין, הוא מאבד קו זה ומוצב לפני העיצור השני.
 
-Exception: if the second consonant sign is ⟪न्⟫ or ⟪ल्⟫, this is placed under the first consonant sign, losing the horizontal stroke. Depending on the script type, there are further exceptions, which are listed below. If a ligature is not provided for the relevant script type, a Virāma is inserted.
+חריג: אם סימן העיצור השני הוא ⟪न्⟫ או ⟪ल्⟫, זה מוצב מתחת לסימן העיצור הראשון, תוך איבוד הקו האופקי. בהתאם לסוג הכתיבה, קיימים חריגים נוספים, המפורטים להלן. אם אין צרור מוגדר לסוג הכתיבה הרלוונטי, מוחדר ויראמה.
 
 Examples:
 
@@ -64,7 +64,7 @@ Beachten Sie die Schreibung von jña:
 
 ![](/images/schrift017.webp)
 
-Initial -a, which is elided according to the sentence sandhi rules (-as + a- » -o ' ), is indicated by the so-called Avagraha:
+ܐܪܡܝܐ: ܐܬ ܕܠܫܢܐ ܟܘܪܝܬ ܕܡܫܬܥܒܕ ܠܦܘܩܚ ܡܠܬ ܐܪܡܝܐ (sandhi) (-as + a- » -o ' ), ܗܘ ܕܝܠܟ ܐܬ ܒܣܡܘܿ:
 
 ⟪ऽ⟩
 
@@ -72,7 +72,7 @@ e.g.
 
 ⟪देवो⟩ ⟪ऽग्निः⟩ = devo 'gniḥ
 
-## Exercise
+## ܬܪܓܠܐ
 
 A) Write all the ligatures occurring in the list above
 

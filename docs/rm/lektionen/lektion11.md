@@ -38,7 +38,7 @@ z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 » Passiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
 :::
 
-## 11.2. Wortliste
+## 11.2. Glista da pleds
 
 **Imparar las suentas suventas:**
 
@@ -76,7 +76,7 @@ Abb.: **vadanāni** = ⟪वदनानि⟫
 - **iṣ** 6 P ⟪इष्⟫ : s’augir
   - **iṣṭi** f. ⟪इष्टि⟫ : s’augir (**iṣ** + **-ti**)
 
-## 11.3. Übung
+## 11.3. Exercizi
 
 **A) Tradurrez las sentenzas sutastentas:**
 

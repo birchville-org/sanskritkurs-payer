@@ -22,13 +22,18 @@ features:
     detagls: Construí sin la basa da VitePress per la massima sveltezza.
 ---
 
-::: tip Version 1.5 — Hebrew Translation & Typography
-**Nov en v1.5 (giugnet 2026):**
 
-- **Nova lingua (Ebraic):** L'entir curs è uss er disponibel en ebraic (incl. sustegn RTL).
-- **Tipografia da Sanscrit:** Unificaziun sistematica ed evidenziazion cromatica dal Devanagari en tut las linguas da traducziun.
-- **Meglieraments PWA:** Ulteriura stabilisaziun da l'applicaziun web progressiva per l'utilisaziun offline.
+::: note-box  Version 1.6 — Global Integrity & Stabilität
+**Nov en v1.6 (lugl 2026):**
 
-**Notas ed infurmaziuns d'erro:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Participar sco autur u correctur:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+- **100% cumplet en 19 linguas:** Arab, ebraic, aramaic, chinese simplificà, indonesian, hindi, tamil, punjabi, latin, rumèn e rumantsch grischun èn ussa traduids cumplettamain en maquina (qualitad betg garantida; mo in studi da fattibilitat senza revisiuns).
+- **Support RTL:** Sostegn nativ dal layout per linguas che vegnan scritte da dretga a sanestra (arabic, ebraic) cun ina interfatscha da utilizaziun cumplettamain localisada.
+- **PWA & Offline-First:** Utilisar tut ils cuntegns dal curs cumplettamain e senza errsurs en modalitad offline tras tut las versiuns linguisticas activas.
+- **Versiun d'autur & editur:** Editur cumplet per revisurs (visualisader da QA) cun in sistem da fallback AI asincron per traduccions massivas extremamain stablas.
+
+**Observaziuns ed infurmaziuns d'errur benvegnidas a:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Partecipar sco revisur u curatur:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+
+- Per auturs (e per tut quels che vulan duvrar in editur Markdown standalone simpl), è a disposiziun in editur open-source sin https://github.com/marcodem/zentauri
+
 :::

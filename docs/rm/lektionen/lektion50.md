@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 50
 
-## 50.1. Nominalbildung: regelmäßige Steigerung
+## 50.1. Furmaziun nominala: augment regular
 
 ::: grammar-box
 **La furmaziun regulara succeda en il sanscrit cun ils sufixs ⟪तद्धित⟫**
@@ -199,7 +199,7 @@ en ils auters temps betg duvrà
 
 ⟪देश⟫ m.: Lieu, plaz, pais, regiun
 
-## 50.3. Übersetzungsübung
+## 50.3. Exercizi da translaziun
 
 A) Per ripeter la declinazione: il seguente verso contiene tutte le forme declinate al singolare di ⟪गुरु⟫ m.:
 

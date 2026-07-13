@@ -133,7 +133,7 @@ Pourrait aussi être résolu : ⟪देवस्य⟫ / ⟪देवाना�
 
 ⟪बुद्धरक्षिता⟫  = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "celle qui a été protégée par Bouddha" (un nom propre)
 
-## 15.5. Zerlegung von Komposita (außer Dvandvas)
+## 15.5. Décomposition des composés (sauf les Dvandvas)
 
 ::: grammar-box
 Bien que des composés de longueur arbitraire puissent être formés en sanskrit et soient même très fréquemment formés (des composés de 10 à 30 membres ne sont pas une rareté !), tous les composés - à l'exception des Dvandvas - sont progressivement et hiérarchiquement décomposés en deux parties chacune :
@@ -192,7 +192,7 @@ par ex.
 3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "ce qui est méritoire, accompli par mon fils"
    2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "l'action méritoire de mon fils"
 :::
-## 15.6. Die Form des Vorderglieds in Komposita (⟪समास⟫ m.)
+## 15.6. La forme du premier membre dans les composés (⟪samāsa⟫ m.)
 ::: grammar-box
 
 Dans tous les types de composés, le premier membre est généralement la racine du mot non modifiée. Les noms bicaux sont au radical faible. Les adjectifs féminins qui précisent un membre suivant dans le composé sont généralement au radical masculin :
@@ -235,7 +235,7 @@ par ex.
 9.  PPP + PPP nié : « partiellement », par ex. ⟪कृताकृतम्⟫ = « partiellement fait »
 10.  ⟪द्विगुसमासः⟫ : numéral dans le premier membre
 
-## 15.8. Wortliste
+## 15.8. Liste de mots
 
 ⟪पुष्कल⟫ 3 : magnifique, superbe, abondant
 
@@ -325,7 +325,7 @@ dont :
 
 ⟪मृत्यु⟫ m. : mort ; personnifié : dieu de la mort
 :::
-## 15.9. Übung 1
+## 15.9. Exercice 1
 
 Résolvez les composés suivants en tant que Tatpuruṣa en sanskrit et fournissez une traduction en allemand. Indiquez toutes les résolutions et traductions qui vous semblent possibles. Précisez également le cas et le nombre du composé total.
 
@@ -389,7 +389,7 @@ Résolvez les composés suivants en tant que Tatpuruṣa en sanskrit et fourniss
 
 ⟪३०⟫. ⟪सत्यवदनम्⟫
 
-## 15.10. Übung 2
+## 15.10. Exercice 2
 
 Résolvez comme à l'exercice 1 les Tatpuruṣa suivants :
 
@@ -517,7 +517,7 @@ Résolvez comme à l'exercice 1 les Tatpuruṣa suivants :
 Fig. : ⟪ग्रामदेवता⟫
 (Source de l'image : [Détails](/fr/licenses#lekt1508))
 :::
-## 15.11. Übung 3
+## 15.11. Exercice 3
 
 A) Traduisez le proverbe au début de la leçon
 

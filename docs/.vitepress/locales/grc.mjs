@@ -12,6 +12,7 @@ export const grc = {
       { text: 'Πίναξ περιεχομένων', link: '/grc/lektionen/inhaltsverzeichnis' },
       { text: 'Γραμματική', link: '/grc/grammatik' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
+      { text: '<span class="nav-gear-icon"></span>', link: '/grc/settings', ariaLabel: 'Settings' },
       { text: 'Τιμαί', link: '/grc/impressum' }
     ],
     docFooter: {

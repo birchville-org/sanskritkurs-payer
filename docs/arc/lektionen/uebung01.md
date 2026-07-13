@@ -4,6 +4,6 @@ uebung_id: 1
 category: "Exercise"
 ---
 
-# Lesson 1
+# ܡܠܦܢܐ 1
 
-Lesson 1 contains no written exercises, as it is designed as an introduction to phonetics and pronunciation. The reading exercises at the end of the lesson serve the practical practice of the sounds and do not require a separate answer key.
+ܠܦܢܘܬܐ 1܀ܝܼܕܰܥ ܠܶܐ ܡܶܫܬܲܒ̈ܘܩ̈ܝ ܟܬܳܒ̈ܝܼܢ̈ܝ܀ ܕܶܐ ܚܰܙܳܐ ܠܶܗ ܟ݁ܽܘܬ̈ܐ ܕ݀ܦܶܠܣܳܦ̈ܬܐ ܘ݀ܡܶܠܰܠ̈ܬܐ ܟ݁ܽܘܬ̈ܝܼ. ܡܶܫܬܲܒ̈ܘܩ̈ܝ ܟ݁ܽܘܬ̈ܐ ܒ݀ܫܰܥܳܟ݁ܶܐ ܕ݀ܠܶܘܬ̈ܐ ܒ݀ܫܰܪܳܟ݁ܬܐ ܕ݀ܠܶܘܬ̈ܐ ܟ݁ܽܘܬ̈ܝܼ.

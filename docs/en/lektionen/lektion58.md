@@ -9,7 +9,7 @@ status: stable
 
 # Lesson 58
 
-## 58.1. The Dual Primary Endings (⟪द्विवचनम्⟫)
+## 58.1. द्विवचनस्य सार्वधातुकप्रत्ययाः
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ ||
@@ -19,7 +19,7 @@ status: stable
 | **2. ⟪मध्यमः⟫** | -thas | -**ī**the | -**ā**the |
 | **3. ⟪प्रथमः⟫** | -tas | -**ī**te | -**ā**te |
 :::
-## 58.2. The Dual of Thematic Present Classes: Indicative Present (⟪लट्⟫)
+## 58.2. दशगणानां द्विवचनम्: लट्
 
 Before -vas and -vahe, the thematic vowel -a- is replaced by -ā-.
 
@@ -77,7 +77,7 @@ Fig.: ⟪वानरौ⟩ ⟪रथाद्भाण्डानि⟩ ⟪च
 Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 (Image source: [Details](/en/licenses#lekt5803))
 :::
-## 58.3. The Dual of the Simple Future (⟪ऌत्⟫)
+## 58.3. लृट्लकारस्य द्विवचनम्
 
 ### 58.3.1. ⟪अनिट्⟫
 
@@ -101,7 +101,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪भविष्यतस्⟫ | ⟪भविष्येते⟫ |
 :::
-## 58.4. The Dual Passive (Suffix -⟪यक्⟫)
+## 58.4. कर्मणि द्विवचनम् (यक् प्रत्ययः)
 
 ⟪तुद्⟫ 6U "to push, to strike"
 
@@ -111,7 +111,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
 :::
-## 58.5. The Dual of Athematic Present Classes: Indicative Present (⟪लट्⟫)
+## 58.5. अदन्तप्रथमादिगणानां द्विवचनम्: लट्
 
 ### 58.5.1. Second Present Class (⟪अदादिगणः⟫)
 
@@ -275,7 +275,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Fig.: ⟪स्त्रियौ⟩ ⟪शाकं⟩ ⟪क्रीणाते⟩
 (Image source: [Details](/en/licenses#lekt5801))
 :::
-## 58.6. Aorist 5: iṣ-Aorist
+## 58.6. Aorist 5: इष्-लुङ्
 
 ::: grammar-box
 **The iṣ-Aorist is formed from all seṭ roots for which no other form of the Aorist is explicitly taught exclusively.**

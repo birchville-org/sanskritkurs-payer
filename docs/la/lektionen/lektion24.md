@@ -116,7 +116,7 @@ Uti casus dativi postea.
 | ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ |
 
 :::
-### 24.2.2. Fragepronomen
+### 24.2.2. Pronomina interrogativa
 
 ::: grammar-box
 
@@ -126,7 +126,7 @@ Uti casus dativi postea.
 | **Dativ Plural** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
-### 24.2.3. Demonstrativpronomina
+### 24.2.3. Pronomina demonstrativa
 
 ::: grammar-box
 
@@ -297,7 +297,7 @@ Codex ⟪गीतगोविन्द⟫, anno 1730 p. Chr.
 
 ⟪पुनर्⟫ Adverb: iterum, rursus, retro, sed
 
-## 24.5. Übung
+## 24.5. Exercitium
 
 A) Formate casum dativum singularem et casum dativum/ablativum pluralis et significationem radicis nominalis indicate:
 

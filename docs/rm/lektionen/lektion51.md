@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 51
 
-## 51.1. ⟪उपपद⟫-Komposita
+## 51.1. Composita cun ⟪upapada⟫
 
 ::: grammar-box
 **⟪उपपद⟫-cumpostis (⟪उपपद⟫ n. "parola accompagnadora") èn ⟪तत्पुरुष⟫ cun in num verbal sco element posterior, il qual sulet appariscia sco element posterior da cumposts e betg sco pled independent. ⟪उपपद⟫ vegnan cun ils suffigxs ⟨⟪कृत्⟫-**
@@ -573,7 +573,7 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 ⟪शबर⟫ .:  Nùm propi d'ina tribu na-arica
 
-## 51.7. Übersetzungsübung
+## 51.7. Exercizi da translaziun
 
 ⟪१⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪९⟫ - ⟪१२⟫ ⟪आश्रमधर्मः⟫
 

@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 56
 
-## 56.1. Der reduplizierte Aorist
+## 56.1. L'aoriste redoublé
 
 ::: grammar-box
 **Formation :**
@@ -44,7 +44,7 @@ Cette forme d'aoriste est formée notamment par :
 ::: grammar-box
 **Toutes les racines de la 10e classe de présent, ainsi que tous les causatifs, forment toujours l'aoriste à redoublement.**
 :::
-### 56.1.1. Bildung des Aorist der Kausative und der Wurzeln der 10. Präsensklasse
+### 56.1.1. Formation de l'aoriste des causatifs et des racines de la 10e classe de présent
 
 **Formation :**
 
@@ -211,7 +211,7 @@ Fig. : ⟪अलं⟫  ⟪विषादेन⟫
 
 p. ex. ⟪वसति⟫ ⟪स्म⟫ « il habitait autrefois » (⟪स्म⟫ peut parfois manquer).
 :::
-## 56.5. Übung
+## 56.5. Exercice
 
 A) Déterminez et traduisez sans outils auxiliaires (!) les formes suivantes :
 

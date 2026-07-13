@@ -248,7 +248,7 @@ z.B. **⟪व्याघ्र⟫** m. "Tiger" » **⟪वैयाघ्र⟫
 Abb.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Bildquelle: [Details](/rm/licenses#lekt4801))
 :::
-## 48.4. Wortliste
+## 48.4. Glista da pleds
 
 ⟪श्वस्⟫ : damain
 
@@ -382,7 +382,7 @@ B) Traducì in Sanscrit (utilisar il imperativ ed usar perquam radis da la 2. e 
 19. Els (plur.) duan serrar en ma chasa.
 20. Marids duan mantegnair lur consorts (en il sens da sustegn).
 
-## 48.6. Übersetzungsübung
+## 48.6. Exercizi da translaziun
 
 ⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫):
 

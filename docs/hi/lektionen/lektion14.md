@@ -1,10 +1,10 @@
 ---
-title: Lektion 14
-subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+title: पाठ १४
+subtitle: "संज्ञाओं द्वारा निरूपित के संबंध का अभिव्यक्ति: षष्ठी विभक्ति (ṣaṣṭhī f. = ⟪⟪षष्टी⟫⟫ = छठा विभक्ति प्रत्यय)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+category: "व्याकरण"
+status: स्थिर
 ---
 
 # पाठ 14
@@ -97,16 +97,16 @@ PPP में, कारक (kartṛ) के लिए तृतीयामा 
 :::
 ::: center
 
-| वंश | एकवचन का जनक |
+| ⟪वंश⟫ | ⟪एकवचन⟫ ⟪का⟫ ⟪जनक⟫ |
 | :--- | :--- |
-| **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
-| **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
-| **devatā** f.:br ⟪देवता⟫ | **devatāyās** :br ⟪देवतायास्⟫ |
-| **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
-| **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
-| **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **deva** m.:br ⟪⟪देव⟫⟫ | **devasya** :br ⟪⟪देवस्य⟫⟫ |
+| **phala** n.:br ⟪⟪फल⟫⟫ | **phalasya** :br ⟪⟪फलस्य⟫⟫ |
+| **devatā** f.:br ⟪⟪देवता⟫⟫ | **devatāyās** :br ⟪⟪देवतायास्⟫⟫ |
+| **kavi** m.:br ⟪⟪कवि⟫⟫ | **kaves** :br ⟪⟪कवेस्⟫⟫ |
+| **paśu** m.:br ⟪⟪पशु⟫⟫ | **paśos** :br ⟪⟪पशोस्⟫⟫ |
+| **devī** f.:br ⟪⟪देवी⟫⟫ | **devyās** :br ⟪⟪देव्यास्⟫⟫ |
+| **śruti** f.:br ⟪⟪श्रुति⟫⟫ | **śrutes / śrutyās** :br **⟪⟪श्रुतेस्⟫⟫ / ⟪⟪श्रुत्यास्⟫⟫** :br(अर्थात, हम kavi की तरह या devī की तरह) |
+| **dhenu** f.:br ⟪⟪धेनु⟫⟫ | **dhenos / dhenvās** :br **⟪⟪धेनोस्⟫⟫ / ⟪⟪धेन्वास्⟫⟫** :br(अर्थात, हम paśu की तरह या -ū पर समाप्त होने वाले बहु-syllabic स्त्रीलिंग शब्दों की तरह) |
 
 :::
 **प्रश्नसूचक सर्वनाम और निर्देशक सर्वनाम:**

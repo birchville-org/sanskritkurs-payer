@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 56
 
-## 56.1. Der reduplizierte Aorist
+## 56.1. Aoristus reduplicatus
 
 ::: grammar-box
 **Eruditio:**
@@ -150,9 +150,9 @@ Injunctivus in Veda has proprietates habet:
 *   ⟪मा⟫ + injunctive aorist would denote a prohibitive sentence: "Do not begin to ...!", "Do not do ...!"
 *   ⟪मा⟫ ⟪स्म⟫ + injunctive present would denote an inhibitive sentence, i.e., a process already underway or an existing state is forbidden: "Stop ...!", "Desist from ...!"
 
-However, this distinction is mostly not made in Classical Sanskrit.)
+Sed haec distinctio fere in Sanscritico Classico non fit.)
 :::
-## 56.3. The Prohibitive Sentence
+## 56.3. Sententia Prohibitiva
 
 ::: grammar-box
 **Forma principalis:**

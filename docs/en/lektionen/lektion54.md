@@ -113,7 +113,7 @@ Determine Triṣṭubhs and Jagatīs in Bhagavadgītā II.
 
 Example of a recitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Accessed on 2009-01-28
 
-## 54.5. Formation Types of the Aorist (⟪लुङ्⟫)
+## 54.5. लुङ्लकारस्य रचनाप्रकाराः
 
 ::: grammar-box
 **What is common to all formation types of the Aorist (⟪लुङ्⟫) is the Augment a-, which is prefixed according to the same rules as in the Imperfect (⟪लङ्⟫).**
@@ -135,7 +135,7 @@ In Sanskrit, only the Indicative and Prekative of the Aorist are in use.
 
 Distribution of roots among the individual formation types can be found under the individual types
 :::
-## 54.6. Root Aorist
+## 54.6. धातु-लुङ्
 
 ::: grammar-box
 **Formation:**
@@ -179,7 +179,7 @@ The Root Aorist for ⟪भू⟫ 1P is formed as follows:
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | *⟪अभूवन्⟫* (!!!) |
 :::
-### 54.6.1. The Aorist of the 3rd person singular passive
+### 54.6.1. कर्मणि तृतीयपुरुषैकवचनस्य लुङ्
 
 A special form of the root aorist is the 3rd person singular passive. This can be formed from all roots.
 

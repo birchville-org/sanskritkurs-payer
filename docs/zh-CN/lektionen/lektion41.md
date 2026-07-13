@@ -7,9 +7,9 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 41
+# 第41课
 
-## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter)
+## 41.1. ⟪सुभाषिते⟫ （两条谚语）
 
 ::: indent
 ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫  
@@ -43,7 +43,7 @@ status: stable
 
 Präsensstamm / Passivstamm / Futurstamm + -māna (fem. mānā)
 :::
-Beispiele:
+例：
 
 ⟪यज्⟫ 1U, Part.Präs.Ā ⟪यजमान⟫ 3 “某人，以祭祀供奉自身利益者 = 祭祀之主”
 
@@ -95,9 +95,9 @@ Beispiele:
 
 **在使役式中：**
 
-* **Kausativstamm auf -ay + -i- + ⟪तव्य⟫**
+* **使役词干以 -ay + -i- 结尾 + ⟪तव्य⟫**
 :::
-Beispiele:
+示例：
 
 ::: no-header
 
@@ -166,7 +166,7 @@ Beispiele:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्मृ⟫ 1P |  ⟪स्मर्य⟫ 3 | “woran man sich erinnern muss” |
+| ⟪स्मृ⟫ 1P |  ⟪स्मर्य⟫ 3 | “值得铭记之物” |
 
 :::
 ::: grammar-box
@@ -270,9 +270,9 @@ Beispiele:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | “zu gehender” |
-|  ⟪श्रु⟫ 5P |  ⟪श्रुत्य⟫ 3 | “zu hörender” |
-| ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | “zu tuender” |
+| ⟪इ⟫ 第二人称单数 | ⟪इत्य⟫ 第三变格法 | “走向的” |
+|  ⟪श्रु⟫ 第五变格法 |  ⟪श्रुत्य⟫ 第三变格法 | “听闻的” |
+| ⟪कृ⟫ 第八变格法 | ⟪कृत्य⟫ 第三变格法 | “行动的” |
 
 :::
 ### 41.2.3. 关于“被动必要性分词”（Gerundivum）的句法（⟪कृत्य⟫）

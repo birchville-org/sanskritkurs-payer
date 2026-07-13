@@ -2,43 +2,43 @@
 
 ## [Lesson 1](lektion01)
 
-*   1\.1. Literature for Beginners in Indology
-*   1\.2. The Sounds of Sanskrit
-    *   1\.2.1. On the Pronunciation of Individual Sounds
-*   1\.3. Exercise
+*   1.1. Literatur untuk Pemula dalam Studi India
+*   1.2. Bunyi-bunyi Sanskerta
+*   1.2.1. Tentang Pengucapan Bunyi-bunyi Individu
+*   1.3. Latihan
 
 ## [Lesson 2](lektion02)
 
-*   2\.1. The Nominal Sentence
-*   2\.2. On Declension (Inflection of Nouns)
-*   2\.3. The Nominative Singular
-    *   2\.3.1. Nominative Singular ending in -s
-*   2\.4. Sandhi -- ⟪सन्धि⟫
-    *   2\.4.1. Sandhi of final -s
-*   2\.5. Word List
-*   2\.6. Exercise
+*   2.1. Kalimat Nomina
+*   2.2. Tentang Deklinasi (Infleksi Kata Benda)
+*   2.3. Nominatif Singular
+*   2.3.1. Akhiran Nominatif Singular yang berakhiran -s
+*   2.4. Sandhi -- ⟪सन्धि⟫
+*   2.4.1. Sandhi dari akhiran -s
+*   2.5. Daftar Kata
+*   2.6. Latihan
 
 ## [Lesson 3](lektion03)
 
-*   3\.1. Nominative Singular of the Feminine
-    *   3\.1.1. Nominative Singular ending in -s
-    *   3\.1.2. Nominative Singular without Ending
-*   3\.2. Formation of Feminines from Masculines
-*   3\.3. Nominative Plural Masculine and Feminine
-*   3\.4. Vocal Sandhi
-*   3\.5. Sentence sandhi of -ās
-*   3\.6. Word List
-*   3\.7. Exercise
+*   3.1. Kasus Nominatif Tunggal Feminin
+*   3.1.1. Akhiran Kasus Nominatif Tunggal berakhiran -s
+*   3.1.2. Kasus Nominatif Tunggal tanpa Akhiran
+*   3.2. Pembentukan Kata Benda Feminin dari Maskulin
+*   3.3. Kasus Nominatif Jamak Maskulin dan Feminin
+*   3.4. Sandhi Vokal
+*   3.5. Sandhi Kalimat untuk -ās
+*   3.6. Daftar Kata
+*   3.7. Latihan
 
 ## [Lesson 4](lektion04)
 
-*   4\.1. Simple Complement Questions (Word Questions) and Answers
-    *   4\.1.1. Interrogative and Demonstrative Pronouns
-    *   4\.1.2. Sandhi of final -m
-    *   4\.1.3. Sandhi of final -e
-    *   4\.1.4. Sandhi of final -d
-    *   4\.1.5. Question Formulas
-*   4\.2. Exercise
+*   4\.1. Pertanyaan Komplemen Sederhana (Pertanyaan Kata) dan Jawaban
+*   4\.1.1. Kata Ganti Interrogatif dan Demonstratif
+*   4\.1.2. Sandhi akhir -m
+*   4\.1.3. Sandhi akhir -e
+*   4\.1.4. Sandhi akhir -d
+*   4\.1.5. Formula Pertanyaan
+*   4\.2. Latihan
 
 ## [Lesson 5](lektion05)
 
@@ -53,50 +53,50 @@
 
 ## [Lesson 6](lektion06)
 
-*   6\.1. The Verbal Sentence
-*   6\.2. On the Formation of Verbal Forms
-*   6\.3. Indicative Present (laṭ = ⟪लट्⟫)
-*   6\.4. Primary endings of the third person (prathama m. = ⟪प्रथम⟫ = "first (!) person")
-*   6\.5. Formation of the Present Stem
-    *   6\.5.1. Verbs of the 6th Present Class (tudādi = ⟪तुदादि⟫ = "tud etc.")
-    *   6\.5.2. Verbs of the 1st Present Class (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū etc.")
-    *   6\.5.3. Verbs of the 4th Present Class (divādi = ⟪दिवादि⟫ = "div etc.")
-    *   6\.5.4. Theme Vowel, Thematic Present Classes
-*   6\.6. Spoken Sanskrit: Further Questions (praśna m. = ⟪प्रश्न⟫)
-*   6\.7. Word List
-*   6\.8. Exercise
-*   6\.9. Review Exercise
+*   6\.1. Kalimat Verbal
+*   6\.2. Tentang Pembentukan Bentuk Kata Kerja
+*   6\.3. Indikatif Sekarang (laṭ = ⟪लट्⟫)
+*   6\.4. Akhiran orang ketiga (prathama m. = ⟪प्रथम⟫ = "orang pertama (!)")
+*   6\.5. Pembentukan Stem Sekarang
+*   6\.5.1. Kata kerja Kelas Present ke-6 (tudādi = ⟪तुदादि⟫ = "tud dll.")
+*   6\.5.2. Kata kerja Kelas Present ke-1 (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū dll.")
+*   6\.5.3. Kata kerja Kelas Present ke-4 (divādi = ⟪दिवादि⟫ = "div dll.")
+*   6\.5.4. Vokal Tema, Kelas Present Tematis
+*   6\.6. Sanskerta Lisan: Pertanyaan Lanjutan (praśna m. = ⟪प्रश्न⟫)
+*   6\.7. Daftar Kata
+*   6\.8. Latihan
+*   6\.9. Latihan Tinjauan Ulang
 
 ## [Lesson 7](lektion07)
 
-*   Weekly Verse
-*   7\.1. The verbal sentence with direct object
-*   7\.2. The Accusative (Objective Case, dvitīyā f. = ⟪द्वितीया⟫ = "second case ending")
-    *   7\.2.1. Accusative singular and plural of the interrogative and demonstrative pronouns
-    *   7\.2.2. Use of the Accusative (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "second case ending")
-*   7\.3. Sandhi of final -n
-*   7\.4. The Neuter (napuṃsaka n. = ⟪नपुंसक⟫)
-    *   7\.4.1. Neuter of stems ending in -a
-*   7\.5. Athemeatic Present Classes
-    *   7\.5.1. Primary endings of the 3rd person plural in athematic stems
-    *   7\.5.2. The 5. Present Class (svādi = ⟪स्वादि⟫ = "su etc.")
-*   7\.6. Word List
-*   7\.7. Exercise
+*   Ayat Mingguan
+*   7\.1. Kalimat verbal dengan objek langsung
+*   7\.2. Akusatif (Kasus Objektif, dvitīyā f. = ⟪द्वितीया⟫ = "akhiran kasus kedua")
+*   7\.2.1. Akusatif tunggal dan jamak dari kata ganti interogatif dan demonstratif
+*   7\.2.2. Penggunaan Akusatif (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "akhiran kasus kedua")
+*   7\.3. Sandhi akhir -n
+*   7\.4. Neuter (napuṃsaka n. = ⟪नपुंसक⟫)
+*   7\.4.1. Neuter dari stem yang berakhiran -a
+*   7\.5. Kelas Present Athemeatik
+*   7\.5.1. Akhiran primer orang ketiga jamak pada stem athematic
+*   7\.5.2. Kelas Present ke-5 (svādi = ⟪स्वादि⟫ = "su dll.")
+*   7\.6. Daftar Kata
+*   7\.7. Latihan
 
 ## [Lesson 8](lektion08)
 
-*   8\.1. On the Formation of Nouns
-*   8\.2. Classification of Nominal Suffixes
-*   8\.3. Some Important Nominal Suffixes
-    *   8\.3.1. -a m. (kṛt)
-    *   8\.3.2. -ana n. (kṛt)
-    *   8\.3.3. -tra n. (kṛt)
-    *   8\.3.4. -ti f. (kṛt)
-    *   8\.3.5. -tva n., -tā f. (taddhita)
-*   8\.4. The 8th Present Class (tanādi = ⟪तनादि⟫ = "tan etc.")
-*   8\.5. Word List
-*   8\.6. Exercise
-*   8\.7. Reading and Translation Exercise
+*   8.1. Pembentukan Kata Benda
+*   8.2. Klasifikasi Akhiran Nominal
+*   8.3. Beberapa Akhiran Nominal Penting
+*   8.3.1. -a m. (kṛt)
+*   8.3.2. -ana n. (kṛt)
+*   8.3.3. -tra n. (kṛt)
+*   8.3.4. -ti f. (kṛt)
+*   8.3.5. -tva n., -tā f. (taddhita)
+*   8.4. Kelas Present Ke-8 (tanādi = ⟪तनादि⟫ = "tan dll.")
+*   8.5. Daftar Kata
+*   8.6. Latihan
+*   8.7. Latihan Membaca dan Terjemahan
 
 ## [Lesson 9](lektion09)
 
@@ -109,16 +109,16 @@
 
 ## [Lesson 10](lektion10)
 
-*   10\.1. The Passive Sentence
-*   10\.2. The Instrumental (tṛtīyā f. = ⟪तृतीया⟫ = "third case ending")
-    *   10\.2.1. On the Use of the Instrumental (tṛtīyā = ⟪तृतीया⟫)
-*   10\.3. The so-called Cerebralisationsgesetz for -n- (a word-sandhi)
-*   10\.4. The Passive, Indicative Present (yak = ⟪यक्⟫)
-    *   10\.4.1. Special Rules for Forming the Passive
-*   10\.5. Word List
-*   10\.6. Exercise
-*   10\.7. Word List 2
-*   10\.8. Reading and Translation Exercise
+*   10\.1. Kalimat Pasif
+*   10\.2. Instrumental (tṛtīyā f. = ⟪तृतीया⟫ = "akhiran kasus ketiga")
+*   10\.2.1. Tentang Penggunaan Instrumental (tṛtīyā = ⟪तृतीया⟫)
+*   10\.3.Cerebralisationsgesetz untuk -n- (sandhi kata)
+*   10\.4. Kalimat Pasif, Indikatif Sekarang (yak = ⟪यक्⟫)
+*   10\.4.1. Aturan Khusus untuk Membentuk Kalimat Pasif
+*   10\.5. Daftar Kata
+*   10\.6. Latihan
+*   10\.7. Daftar Kata 2
+*   10\.8. Latihan Membaca dan Terjemahan
 
 ## [Lesson 11](lektion11)
 
@@ -129,55 +129,55 @@
 
 ## [Lesson 12](lektion12)
 
-*   12\.1. Perfect Passive Participle (PPP)
-    *   12\.1.1. Schema for transitive verbs
-    *   12\.1.2. Schema I for Intransitive Verbs and Verbs of Motion
-    *   12\.1.3. Schema II for Intransitive Verbs and Verbs of Motion
-*   12\.2. On the Significance of the PPP
-*   12\.3. Formation of the PPP
-    *   12\.3.1. PPP on -ta (kta)
-*   12\.4. Laws of Sound Combination in the Word
-*   12\.5. Word List
-    *   12\.5.1. Passive and PPP of the Roots Learned So Far
-*   12\.6. Exercise
+*   12\.1. Partisip Lampau Pasif Sempurna (PPP)
+*   12\.1.1. Skema untuk kata kerja transitif
+*   12\.1.2. Skema I untuk Kata Kerja Intransitif dan Kata Kerja Gerak
+*   12\.1.3. Skema II untuk Kata Kerja Intransitif dan Kata Kerja Gerak
+*   12\.2. Mengenai Signifikansi PPP
+*   12\.3. Pembentukan PPP
+*   12\.3.1. PPP pada -ta (kta)
+*   12\.4. Hukum Gabungan Bunyi dalam Kata
+*   12\.5. Daftar Kata
+*   12\.5.1. Bentuk Pasif dan PPP dari Akar Kata yang Telah Dipelajari Sejauh Ini
+*   12\.6. Latihan
 
 ## [Lesson 13](lektion13)
 
-*   13\.1. PPP on -na-
-*   13\.2. Further on the Use of the PPP
-*   13\.3. Attributive Determinations of Nouns (Word Order)
-*   13\.4. Formation of Adjectives in -mant and -vant (taddhita)
-*   13\.5. Stem Inflection of Nouns
-*   13\.6. On Word Sandhi
-*   13\.7. Case endings of consonant stems
-*   13\.8. Declension of stems in -mant and -vant
-*   13\.9. Word List
-*   13\.10. Exercise
-*   13\.11. Review Exercise
+*   13\.1. PPP pada -na-
+*   13\.2. Lebih lanjut tentang Penggunaan PPP
+*   13\.3. Penentuan Atributif Kata Benda (Urutan Kata)
+*   13\.4. Pembentukan Kata Sifat dalam -mant dan -vant (taddhita)
+*   13\.5. Infleksi Stem Kata Benda
+*   13\.6. Tentang Sandhi Kata
+*   13\.7. Akhiran kasus untuk stem konsonan
+*   13\.8. Deklinasi stem dalam -mant dan -vant
+*   13\.9. Daftar Kata
+*   13\.10. Latihan
+*   13\.11. Tinjauan Latihan
 
 ## [Lesson 14](lektion14)
 
-*   14\.1. The Expression of the Relationship of that Designated by Nouns: the Genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)
-*   14\.2. Formation of Genitive Forms (ṣaṣṭhī f. = ⟪षष्ठी⟫)
-*   14\.3. Further on the Use of the Genitive (⟪षष्ठी⟫)
-*   14\.4. Word List
-*   14\.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Proverbs
-*   14\.6. Exercise
+*   14\.1. Ungkapan Hubungan yang Ditunjuk oleh Kata Benda: Genitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = akhiran kasus keenam)
+*   14\.2. Pembentukan Bentuk Genitif (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+*   14\.3. Lebih Lanjut tentang Penggunaan Genitif (⟪षष्ठी⟫)
+*   14\.4. Daftar Kata
+*   14\.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Peribahasa
+*   14\.6. Latihan
 
 ## [Lesson 15](lektion15)
 
 *   15\.1. ⟪सुभाषितम्⟫
-*   15\.2. Determinative Compounds = Tatpuruṣa m. = ⟪तत्पुरुष⟫
-*   15\.3. Determinative Compounds with Attributive / Appositional First Member = Karmadhāraya m. = ⟪कर्मधारय⟫
-*   15\.4. Determinative Compounds with a First Member in a Non-Attributive/Appositional Case Relation to the Second Member = Tatpuruṣa in the Narrower Sense
-*   15\.5. Decomposition of Compounds (excluding Dvandvas)
-*   15\.6. The Form of the First Member in Compounds (⟪समास⟫ m.)
-*   15\.7. Classification of ⟪तत्पुरुष⟫
-    *   15\.7.1. Classification of ⟪कर्मधारय⟫ (Karmadhāraya)
-*   15\.8. Word List
-*   15\.9. Exercise 1
-*   15\.10. Exercise 2
-*   15\.11. Exercise 3
+*   15\.2. Majemuk Penentu = Tatpuruṣa m. = ⟪तत्पुरुष⟫
+*   15\.3. Majemuk Penentu dengan Anggota Pertama Atributif / Apposisional = Karmadhāraya m. = ⟪कर्मधारय⟫
+*   15\.4. Majemuk Penentu dengan Anggota Pertama dalam Hubungan Kasus Non-Atributif/Apposisional terhadap Anggota Kedua = Tatpuruṣa dalam Makna Lebih Sempit
+*   15\.5. Dekomposisi Majemuk (kecuali Dvandvas)
+*   15\.6. Bentuk Anggota Pertama dalam Majemuk (⟪समास⟫ m.)
+*   15\.7. Klasifikasi ⟪तत्पुरुष⟫
+*   15\.7.1. Klasifikasi ⟪कर्मधारय⟫ (Karmadhāraya)
+*   15\.8. Daftar Kata
+*   15\.9. Latihan 1
+*   15\.10. Latihan 2
+*   15\.11. Latihan 3
 
 ## [Lesson 16](lektion16)
 
@@ -188,26 +188,26 @@
 
 ## [Lesson 17](lektion17)
 
-*   17\.1. Second Present Class (⟪अदादि⟫ = ⟪अद्⟫ etc.)
-*   17\.2. Roots of the Second Present Class with Stem Ablation: Strong Grade – Weak Grade
-*   17\.3. Roots of the Second Present Class with Stem Gradation: Guṇa Grade - Zero Grade
-*   17\.4. Roots of the Second Present Class without Stem Gradation
-*   17\.5. Disyllabic roots ending in -i/-ī with stem gradation
-*   17\.6. Word List
-*   17\.7. Exercise 1
-*   17\.8. Exercise 2
+*   17\.1. Kelas Present Kedua (⟪अदादि⟫ = ⟪अद्⟫ dll.)
+*   17\.2. Akar Kelas Present Kedua dengan Ablasi Stem: Derajat Kuat – Derajat Lemah
+*   17\.3. Akar Kelas Present Kedua dengan Gradasi Stem: Derajat Guṇa - Derajat Nol
+*   17\.4. Akar Kelas Present Kedua tanpa Gradasi Stem
+*   17\.5. Akar Disilabik berakhiran -i/-ī dengan gradasi stem
+*   17\.6. Daftar Kata
+*   17\.7. Latihan 1
+*   17\.8. Latihan 2
 
 ## [Lesson 18](lektion18)
 
 *   18\.1. ⟪सुभाषितम्⟫
-*   18\.2. Determinative Compounds (⟪तत्पुरुष⟫) with Adverbial First Member
-    *   18\.2.1. Compounds of Type ⟪सुकर⟫ / ⟪दुष्कर⟫
-    *   18\.2.2. Meanings of nañ-Tatpuruṣa (a- / an-)
-*   18\.3. Verbal Compounds
-    *   18\.3.1. Nominal formations from verbal compounds
-*   18\.4. Word List
-*   18\.5. Exercise
-*   18\.6. Review Exercise
+*   18\.2. Majemuk Penentu (⟪तत्पुरुष⟫) dengan Anggota Pertama Adverbia
+*   18\.2.1. Majemuk Tipe ⟪सुकर⟫ / ⟪दुष्कर⟫
+*   18\.2.2. Makna nañ-Tatpuruṣa (a- / an-)
+*   18\.3. Majemuk Verbal
+*   18\.3.1. Pembentukan nomina dari majemuk verbal
+*   18\.4. Daftar Kata
+*   18\.5. Latihan
+*   18\.6. Latihan Tinjauan
 
 ## [Lesson 19](lektion19)
 
@@ -219,18 +219,18 @@
 
 ## [Lesson 20](lektion20)
 
-*   20\.1. Possessive Compounds = ⟪बहुव्रीहि⟫ m.
-*   20\.2. Bahuvrīhi with attributive first member
-*   20\.3. Bahuvrīhi with Appositional First Member
-*   20\.4. Bahuvrīhi with a case-marked first member
-*   20\.5. Bahuvrīhi with adverbial first member
-*   20\.6. Inflection of the Final Member of a Bahuvrīhi
-*   20\.7. Another Classification of Types of Bahuvrīhis
-*   20\.8. Relationship between Bahuvrīhi and Relative Clause
-*   20\.9. Word List
-*   20\.10. Exercise 1
-*   20\.11. Exercise 2
-*   20\.12. Translation Exercise
+*   20\.1. Kata sifat posesif = ⟪बहुव्रीहि⟫ m.
+*   20\.2. Bahuvrīhi dengan anggota pertama atributif
+*   20\.3. Bahuvrīhi dengan anggota pertama aposisi
+*   20\.4. Bahuvrīhi dengan anggota pertama berpenanda kasus
+*   20\.5. Bahuvrīhi dengan anggota pertama adverbia
+*   20\.6. Infleksi pada anggota akhir Bahuvrīhi
+*   20\.7. Klasifikasi lain jenis-jenis Bahuvrīhi
+*   20\.8. Hubungan antara Bahuvrīhi dan klausa relatif
+*   20\.9. Daftar kata
+*   20\.10. Latihan 1
+*   20\.11. Latihan 2
+*   20\.12. Latihan terjemahan
 
 ## [Lesson 21](lektion21)
 
@@ -244,117 +244,117 @@
 
 ## [Lesson 22](lektion22)
 
-*   22\.1. The Absolutive (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
-*   22\.2. Formation of the Absolutive
-    *   22\.2.1. Verbs without prefix: Absolutive in -⟪त्वा⟫
-    *   22\.2.2. Verbs with Preverbs
-*   22\.3. Word List
-*   22\.4. Exercise
+*   22\.1. Kata Kekerapan (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
+*   22\.2. Pembentukan Kata Kekerapan
+*   22\.2.1. Verba tanpa awalan: Kata Kekerapan dalam -⟪त्वा⟫
+*   22\.2.2. Verba dengan Preverb
+*   22\.3. Daftar Kata
+*   22\.4. Latihan
 
 ## [Lesson 23](lektion23)
 
-*   23\.1. The Infinitive (⟪तुमुन्⟫)
-*   23\.2. Formation of the Infinitive (⟪तुमुन्⟫)
-*   23\.3. The Infinitive (⟪तुमुन्⟫) for the roots learned so far
-*   23\.4. Word List
-*   23\.5. Exercise
-*   23\.6. Review Exercise
+*   23\.1. Infinitif (⟪तुमुन्⟫)
+*   23\.2. Pembentukan Infinitif (⟪तुमुन्⟫)
+*   23\.3. Infinitif (⟪तुमुन्⟫) untuk akar kata yang telah dipelajari sejauh ini
+*   23\.4. Daftar Kata
+*   23\.5. Latihan
+*   23\.6. Tinjauan Latihan
 
 ## [Lesson 24](lektion24)
 
-*   24\.1. The Dative (⟪चतुर्थी⟫ = "fourth case ending")
-*   24\.2. Formation of the Dative (⟪चतुर्थी⟫)
-    *   24\.2.1. Consonantal Stems
-    *   24\.2.2. Interrogative Pronouns
-    *   24\.2.3. Demonstrative Pronouns
-    *   24\.2.4. Vowel Stems
-*   24\.3. Sandhi of final -ai and -au
-*   24\.4. Word List
-*   24\.5. Exercise
-*   24\.6. Further Exercises on the Use of the Dative
+*   24\.1. Kasus Dativ (⟪चतुर्थी⟫ = "akhiran kasus keempat")
+*   24\.2. Pembentukan Kasus Dativ (⟪चतुर्थी⟫)
+*   24\.2.1. Batang Konsonan
+*   24\.2.2. Kata Ganti Tanya
+*   24\.2.3. Kata Ganti Penunjuk
+*   24\.2.4. Batang Vokal
+*   24\.3. Sandhi akhir -ai dan -au
+*   24\.4. Daftar Kata
+*   24\.5. Latihan
+*   24\.6. Latihan Lebih Lanjut tentang Penggunaan Kasus Dativ
 
 ## [Lesson 25](lektion25)
 
-*   25\.1. Formation of the Ablative (⟪पञ्चमी⟫ = "fifth case ending")
-*   25\.2. Use of the Ablative (⟪पञ्चमी⟫)
-*   25\.3. The Suffix -⟪तस्⟫
-*   25\.4. Other Ways to Express Reasons
-*   25\.5. Word List
-*   25\.6. Exercise
+*   25\.1. Pembentukan Ablatif (⟪पञ्चमी⟫ = "akhiran kasus kelima")
+*   25\.2. Penggunaan Ablatif (⟪पञ्चमी⟫)
+*   25\.3. Akhiran -⟪तस्⟫
+*   25\.4. Cara Lain untuk Menyatakan Alasan
+*   25\.5. Daftar Kata
+*   25\.6. Latihan
 *   25\.7. ⟪सुभाषितानि⟫
-*   25\.8. Translation Exercise
+*   25\.8. Latihan Terjemahan
 
 ## [Lesson 26](lektion26)
 
-*   26\.1. Rule of Cerebralization for -s- within the Word
-*   26\.2. Law of Cerebralisations of Dental Stops within Words
-*   26\.3. Word Sandhi for Palatals, Velars, ṣ, h + -s
-*   26\.4. Grassmann's Law of Breath Dissimilation
-*   26\.5. Word Sandhi for -m, -n before Sibilants
-*   26\.6. Use of the Simple Future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
-*   26\.7. Formation of the simple future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
-*   26\.8. Exercise
+*   26\.1. Aturan Kerebral-an untuk -s- di dalam Kata
+*   26\.2. Hukum Kerebral-an Sengau Denta di dalam Kata
+*   26\.3. Sandhi Kata untuk Palatal, Velar, ṣ, h + -s
+*   26\.4. Hukum Grassmann tentang Disimilasi Napas
+*   26\.5. Sandhi Kata untuk -m, -n sebelum Sibilan
+*   26\.6. Penggunaan Masa Depan Sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+*   26\.7. Pembentukan masa depan sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+*   26\.8. Latihan
 
 ## [Lesson 27](lektion27)
 
-*   27\.1. Use of the Locative (⟪सप्तमी⟫ f. = "seventh case ending")
-*   27\.2. Formation of the Locative (⟪सप्तमी⟫)
-    *   27\.2.1. Consonantal Stems
-    *   27\.2.2. Interrogative, Demonstrative, and Relative Pronouns
-    *   27\.2.3. Vocalic Stems
-*   27\.3. Overview of the regular case endings (⟪विभक्ति⟫)
-*   27\.4. A Verse with All Declension Forms (Singular) to ⟪राम⟫
-*   27\.5. Word List
-*   27\.6. Exercise
-*   27\.7. Declension Paradigms to Memorize
-    *   27\.7.1. Masculine nouns ending in -a: ⟪नर⟫
-    *   27\.7.2. Neuters on -a: ⟪फल⟫
-    *   27\.7.3. Feminine nouns ending in -ā: ⟪क्षत्रिया⟫
-    *   27\.7.4. Masculines in -i: ⟪अरि⟫
-    *   27\.7.5. Feminine nouns ending in -i: ⟪मति⟫
-    *   27\.7.6. Masculine nouns ending in -u: ⟪गुरु⟫
-    *   27\.7.7. Feminine nouns ending in -u: ⟪धेनु⟫
-    *   27\.7.8. Multisyllabic Feminines in -ī: ⟪देवी⟫
-    *   27\.7.9. Present Participle Parasmaipada ending in -ant: ⟪सन्त्⟫
-    *   27\.7.10. ⟪महान्त्⟫
-    *   27\.7.11. Masculine and Neuter nouns ending in -vant / -mant: ⟪गुणवन्त्⟫
-    *   27\.7.12. Demonstrative Pronouns: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
-    *   27\.7.13. Relative Pronoun: ⟪यद्⟫
-    *   27\.7.14. Interrogative Pronouns: ⟪किम्⟫
+*   27\.1. Penggunaan Kasus Lokatif (⟪सप्तमी⟫ f. = "akhiran kasus ketujuh")
+*   27\.2. Pembentukan Kasus Lokatif (⟪सप्तमी⟫)
+*   27\.2.1. Batang Konsonan
+*   27\.2.2. Kata Ganti Interrogatif, Demonstratif, dan Relatif
+*   27\.2.3. Batang Vokal
+*   27\.3. Ikhtisar akhiran kasus reguler (⟪विभक्ति⟫)
+*   27\.4. Sebuah Ayat dengan Semua Bentuk Deklinasi (Singular) untuk ⟪राम⟫
+*   27\.5. Daftar Kata
+*   27\.6. Latihan
+*   27\.7. Paradigma Deklinasi untuk Dihafal
+*   27\.7.1. Kata benda Maskulin berakhiran -a: ⟪नर⟫
+*   27\.7.2. Kata benda Netral berakhiran -a: ⟪फल⟫
+*   27\.7.3. Kata benda Feminin berakhiran -ā: ⟪क्षत्रिया⟫
+*   27\.7.4. Kata benda Maskulin dalam -i: ⟪अरि⟫
+*   27\.7.5. Kata benda Feminin berakhiran -i: ⟪मति⟫
+*   27\.7.6. Kata benda Maskulin berakhiran -u: ⟪गुरु⟫
+*   27\.7.7. Kata benda Feminin berakhiran -u: ⟪धेनु⟫
+*   27\.7.8. Kata benda Feminin Multisilabel dalam -ī: ⟪देवी⟫
+*   27\.7.9. Partisip Sekarang Parasmaipada berakhiran -ant: ⟪सन्त्⟫
+*   27\.7.10. ⟪महान्त्⟫
+*   27\.7.11. Kata benda Maskulin dan Netral berakhiran -vant / -mant: ⟪गुणवन्त्⟫
+*   27\.7.12. Kata Ganti Demonstratif: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
+*   27\.7.13. Kata Ganti Relatif: ⟪यद्⟫
+*   27\.7.14. Kata Ganti Interrogatif: ⟪किम्⟫
 
 ## [Lesson 28](lektion28)
 
-*   28\.1. The Causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   28\.2. Sentence Construction with the Causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   28\.3. Formation of the present stem for the causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   28\.4. Formation of the Passive (⟪यक्⟫) from the Causative
-*   28\.5. Formation of the Future (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) of the Causative
-*   28\.6. Formation of the PPP (⟪क्त⟫) for the Causative
-*   28\.7. Formation of the Absolutiv (⟪क्त्वा⟫ . ⟪ल्यप्⟫) from the Causative
-*   28\.8. Formation of the Infinitive (⟪तुमुन्⟫) for the Causative
-*   28\.9. The 10th Present Class (⟪चुरादि⟫ = ⟪चुर्⟫ etc.)
-*   28\.10. Word List
-*   28\.11. Exercise
+*   28\.1. Kausatif (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   28\.2. Konstruksi Kalimat dengan Kausatif (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   28\.3. Pembentukan stem sekarang untuk kausatif (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   28\.4. Pembentukan Pasif (⟪यक्⟫) dari Kausatif
+*   28\.5. Pembentukan Masa Depan (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ dst.) dari Kausatif
+*   28\.6. Pembentukan PPP (⟪क्त⟫) untuk Kausatif
+*   28\.7. Pembentukan Absolutiv (⟪क्त्वा⟩ . ⟪ल्यप्⟫) dari Kausatif
+*   28\.8. Pembentukan Infinitif (⟪तुमुन्⟫) untuk Kausatif
+*   28\.9. Kelas Present Kesepuluh (⟪चुरादि⟫ = ⟪चुर्⟫ dll.)
+*   28\.10. Daftar Kata
+*   28\.11. Latihan
 
 ## [Lesson 29](lektion29)
 
-*   29\.1. Use of the Parasmaipada (⟪परस्मैपद⟫) and Ātmanepada (⟪आत्मनेपद⟫) in the Causative
-*   29\.2. Word List
-*   29\.3. Translation Exercise for Review
-*   29\.4. Future and Causative for the Roots Learned So Far
+*   29\.1. Penggunaan Parasmaipada (⟪परस्मैपद⟫) dan Ātmanepada (⟪आत्मनेपद⟫) dalam Kausatif
+*   29\.2. Daftar Kata
+*   29\.3. Latihan Terjemahan untuk Tinjauan Ulang
+*   29\.4. Bentuk Masa Depan dan Kausatif untuk Akar Kata yang Telah Dipelajari Sejauh Ini
 
 ## [Lesson 30](lektion30)
 
-*   30\.1. The 9th Present Class (⟪क्र्यादि⟫ = "⟪क्री⟫ etc.")
-*   30\.2. Use of the Optative (⟪लिङ्⟫)
-*   30\.3. Secondary endings of the 3rd person singular and plural
-*   30\.4. Formation of the Optative Present (⟪लिङ्⟫)
-    *   30\.4.1. Thematic Present Classes
-    *   30\.4.2. Atheric Present Classes
-*   30\.5. Sandhi of final -r
-*   30\.6. Word List
-*   30\.7. Exercise
-*   30\.8. Form Exercise
+*   30\.1. Kelas Present Kesembilan (⟪क्र्यादि⟫ = "⟪क्री⟫ dll.")
+*   30\.2. Penggunaan Optatif (⟪लिङ्⟫)
+*   30\.3. Akhiran sekunder untuk orang ketiga tunggal dan jamak
+*   30\.4. Pembentukan Optatif Present (⟪लिङ्⟫)
+*   30\.4.1. Kelas Present Tematik
+*   30\.4.2. Kelas Present Atermatik
+*   30\.5. Sandhi akhir -r
+*   30\.6. Daftar Kata
+*   30\.7. Latihan
+*   30\.8. Latihan Bentuk
 
 ## [Lesson 31](lektion31)
 
@@ -364,47 +364,47 @@
 
 ## [Lesson 32](lektion32)
 
-*   32\.1. The Past Tenses
-*   32\.2. The Imperfect (⟪लङ्⟫)
-*   32\.3. Rules for the Augment
-*   32\.4. Examples of Imperfect Formation
-    *   32\.4.1. Thematic Present Classes
-    *   32\.4.2. Atherematic Present Classes
-*   32\.5. Word List
-*   32\.6. Exercise
-*   32\.7. Review Exercise for the Christmas Holidays
-*   32\.8. Review Exercise
-*   32\.9. Translation Exercise
+*   32\.1. Bentuk-bentuk Kata Kerja Lampau
+*   32\.2. Bentuk Taksempurna (⟪लङ्⟫)
+*   32\.3. Peraturan untuk Augment (Partikel Penguat)
+*   32\.4. Contoh Pembentukan Bentuk Taksempurna
+*   32\.4.1. Kelas Kata Kerja Sekarang Tematik
+*   32\.4.2. Kelas Kata Kerja Sekarang Atermatik
+*   32\.5. Daftar Kosakata
+*   32\.6. Latihan
+*   32\.7. Latihan Tinjauan untuk Liburan Natal
+*   32\.8. Latihan Tinjauan
+*   32\.9. Latihan Terjemahan
 
 ## [Lesson 33](lektion33)
 
-*   33\.1. Reduplication (⟪अभ्यास⟫ m.)
-    *   33\.1.1. The Reduplicating Consonant
-*   33\.2. The Third Present Class (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ et al.")
-    *   33\.2.1. The Reduplicating Vowel of the 3rd Present Class
-*   33\.3. On the Ablaut of ā
-*   33\.4. Roots ending in -ā of the third present class
-    *   33\.4.1. The Roots **⟪दा⟫** and **⟪धा⟫**
-*   33\.5. The Present Active Participle of the Roots of the 3rd Present Class
-*   33\.6. Word List
-*   33\.7. Exercise
-    *   Sources
+*   33\.1. Reduplikasi (⟪अभ्यास⟫ m.)
+*   33\.1.1. Konsonan Reduplikasi
+*   33\.2. Kelas Present Ketiga (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ dkk.")
+*   33\.2.1. Vokal Reduplikasi dari Kelas Present ke-3
+*   33\.3. Tentang Ablaut ā
+*   33\.4. Akar kata berakhiran -ā dari kelas present ketiga
+*   33\.4.1. Akar kata **⟪दा⟫** dan **⟪धा⟫**
+*   33\.5. Partisip Aktif Present dari Akar kata Kelas Present ke-3
+*   33\.6. Daftar Kata
+*   33\.7. Latihan
+*   Sumber
 
 ## [Lesson 34](lektion34)
 
-*   34\.1. The Perfect (⟪लिट्⟫)
-*   34\.2. The reduplicated perfect (⟪द्वित्वलिट्⟫)
-    *   34\.2.1. Stem Gradation
-    *   34\.2.2. The Perfect Endings
-    *   34\.2.3. Connecting Vowel -i-
-    *   34\.2.4. Reduplication of roots beginning with a consonant
-    *   34\.2.5. Reduplication of Vowel-Initial Roots
-*   34\.3. Types of the reduplicated perfect
-*   34\.4. Perfect Type I: Perfect without stem gradation
-*   34\.5. Perfect Type II: Strong stem with Vṛddhi grade, weak stem with Guṇa grade
-*   34\.6. Word List
-*   34\.7. Exercise
-*   34\.8. Translation Exercise
+*   34\.1. Sempurna (⟪लिट्⟫)
+*   34\.2. Sempurna yang diduplikasi (⟪द्वित्वलिट्⟫)
+*   34\.2.1. Gradiasi Tembung
+*   34\.2.2. Akhiran Sempurna
+*   34\.2.3. Vokal Penghubung -i-
+*   34\.2.4. Duplikasi akar kata yang diawali konsonan
+*   34\.2.5. Duplikasi akar kata yang diawali vokal
+*   34\.3. Jenis-jenis sempurna yang diduplikasi
+*   34\.4. Jenis Sempurna I: Sempurna tanpa gradiasi tembung
+*   34\.5. Jenis Sempurna II: Tembung kuat dengan tingkat Vṛddhi, tembung lemah dengan tingkat Guṇa
+*   34\.6. Daftar Kata
+*   34\.7. Latihan
+*   34\.8. Latihan Terjemahan
 
 ## [Lesson 35](lektion35)
 
@@ -421,207 +421,207 @@
 
 ## [Lesson 36](lektion36)
 
-*   36\.1. Special Formations of the Perfect
-*   36\.2. The periphrastic perfect (⟪अनुप्रयोगलिट्⟫)
-*   36\.3. Perfect Passive
-*   36\.4. Word List
-*   36\.5. Exercise
-*   36\.6. The Perfect (⟪लिट्⟫) for the roots learned so far
-*   36\.7. Translation Exercise
-*   36\.8. Form Exercise
+*   36\.1. Bentuk Khusus dari Sempurna
+*   36\.2. Sempurna periphrastic (⟪अनुप्रयोगलिट्⟫)
+*   36\.3. Sempurna Pasif
+*   36\.4. Daftar Kata
+*   36\.5. Latihan
+*   36\.6. Sempurna (⟪लिट्⟫) untuk akar yang telah dipelajari sejauh ini
+*   36\.7. Latihan Terjemahan
+*   36\.8. Latihan Bentuk
 
 ## [Lesson 37](lektion37)
 
-*   37\.1. The Adverb (⟪क्रियाविशेषणम्⟫)
-*   37\.2. Adverbial Use of Case Forms
-    *   37\.2.1. Accusative (⟪द्वितीया⟫)
-    *   37\.2.2. Instrumental (⟪तृतीया⟫)
-    *   37\.2.3. Dative (⟪चतुर्थी⟫)
-    *   37\.2.4. Ablative (⟪पञ्चमी⟫)
-    *   37\.2.5. Genitive (⟪षष्ठी⟫)
-    *   37\.2.6. Locative (⟪सप्तमी⟫)
-*   37\.3. Adverbial Use of Case Forms No Longer in Common Use
-*   37\.4. Formation of Adverbs with Adverbial Suffixes
-*   37\.5. Adverbial Compounds
-    *   37\.5.1. Compounds with an Adverb or a Case Used Adverbially as the Second Member
-    *   37\.5.2. Adverbial use of ⟪बहुव्रीहि⟫
-    *   37\.5.3. ⟪अव्ययीभाव⟫-Composites
-*   37\.6. Syntactical
-*   37\.7. Indefinite Pronouns
-*   37\.8. The Interrogative Sentence
-    *   37\.8.1. Word Questions (Supplementary Questions)
-    *   37\.8.2. Interrogative Sentences
-*   37\.9. Word List
-*   37\.10. Exercise
-*   37\.11. Review Exercise
+*   37\.1. Kata Keterangan (⟪क्रियाविशेषणम्⟫)
+*   37\.2. Penggunaan Kata Keterangan dari Bentuk Kasus
+*   37\.2.1. Akusatif (⟪द्वितीया⟫)
+*   37\.2.2. Instrumental (⟪तृतीया⟫)
+*   37\.2.3. Datif (⟪चतुर्थी⟫)
+*   37\.2.4. Ablatif (⟪पञ्चमी⟫)
+*   37\.2.5. Genitif (⟪षष्ठी⟫)
+*   37\.2.6. Lokatif (⟪सप्तमी⟫)
+*   37\.3. Penggunaan Kata Keterangan dari Bentuk Kasus yang Tidak Lagi Umum Digunakan
+*   37\.4. Pembentukan Kata Keterangan dengan Akhiran Kata Keterangan
+*   37\.5. Majemuk Kata Keterangan
+*   37\.5.1. Majemuk dengan Kata Keterangan atau Bentuk Kasus yang Digunakan sebagai Kata Keterangan Sebagai Anggota Kedua
+*   37\.5.2. Penggunaan Kata Keterangan dari ⟪बहुव्रीहि⟫
+*   37\.5.3. Komposisi ⟪अव्ययीभाव⟫
+*   37\.6. Sintaksis
+*   37\.7. Kata Ganti Tak Tentu
+*   37\.8. Kalimat Tanya
+*   37\.8.1. Pertanyaan Kata (Pertanyaan Tambahan)
+*   37\.8.2. Kalimat Tanya
+*   37\.9. Daftar Kata
+*   37\.10. Latihan
+*   37\.11. Latihan Tinjauan
 
 ## [Lesson 38](lektion38)
 
-*   38\.1. Solution of the Week
-*   38\.2. Sound Change of Nasals in the Word
-*   38\.3. Declension of stems ending in -n
-    *   38\.3.1. Nouns ending in -an as well as nouns ending in -man or -van after a vowel
-    *   38\.3.2. Nouns ending in -man or -van after a consonant
-    *   38\.3.3. Masculine and Neuter nouns ending in -in, -min, -vin
-*   38\.4. On nominal formation: ⟪तद्धित⟫ suffix -in
-*   38\.5. Syntax regarding ⟪नामन्⟫
-*   38\.6. Syntax regarding ⟪आत्मन्⟫
-*   38\.7. Consonant-ending stems as the first member of compounds
-*   38\.8. Stems in -an as the second member of a ⟪बहुव्रीहि⟫
-*   38\.9. Word List
-*   38\.10. Exercise
-*   38\.11. Word List for Translation Exercise
-*   38\.12. Translation Exercise
+*   38\.1. Solusi Minggu Ini
+*   38\.2. Perubahan Bunyi Nasal dalam Kata
+*   38\.3. Deklinasi akar kata yang berakhiran -n
+*   38\.3.1. Kata benda yang berakhiran -an serta kata benda yang berakhiran -man atau -van setelah vokal
+*   38\.3.2. Kata benda yang berakhiran -man atau -van setelah konsonan
+*   38\.3.3. Kata benda Maskulin dan Netral yang berakhiran -in, -min, -vin
+*   38\.4. Tentang pembentukan nomina: ⟪तद्धित⟫ sufiks -in
+*   38\.5. Sintaksis mengenai ⟪नामन्⟫
+*   38\.6. Sintaksis mengenai ⟪आत्मन्⟫
+*   38\.7. Akar kata berakhiran konsonan sebagai anggota pertama majasamasa
+*   38\.8. Akar kata dalam -an sebagai anggota kedua dari ⟪बहुव्रीहि⟫
+*   38\.9. Daftar Kata
+*   38\.10. Latihan
+*   38\.11. Daftar Kata untuk Latihan Terjemahan
+*   38\.12. Latihan Terjemahan
 
 ## [Lesson 39](lektion39)
 
-*   39\.1. The Personal Endings of the First Person (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**third** Person")
-*   39\.2. Formation of the verb forms of the first person thematic present stems
-    *   39\.2.1. First Present Class (⟪भ्वादि⟫)
-    *   39\.2.2. Sixth Present Class (⟪तुदादि⟫)
-    *   39\.2.3. Fourth Present Class (⟪दिवादि⟫)
-    *   39\.2.4. Tenth Present Class (⟪चुरादि⟫) and Causatives (⟪णिजन्त⟫)
-    *   39\.2.5. Passive (Suffix ⟪यक्⟫)
-*   39\.3. Formation of the verb forms of the first person of the simple future - ⟪ऌत्⟫
-    *   39\.3.1. ⟪अनिट्⟫-Formation
-    *   39\.3.2. Formation of ⟪सेट्⟫
-*   39\.4. Formation of the verb forms of the first person athematic present stems
-    *   39\.4.1. Second Present Class (⟪अदादि⟫)
-    *   39\.4.2. Third Present Class (⟪जुहोत्यादि⟫)
-    *   39\.4.3. Fifth Present Class (⟪स्वादि⟫)
-    *   39\.4.4. Eighth Present Class (⟪तनादि⟫)
-    *   39\.4.5. Seventh Present Class (⟪रुधादि⟫)
-    *   39\.4.6. Ninth Present Class (⟪क्र्यादि⟫)
-*   39\.5. Exercise
+*   39\.1. Akhiran Pribadi untuk Orang Pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**orang** Ketiga")
+*   39\.2. Pembentukan bentuk kata kerja untuk akar present tematik orang pertama
+*   39\.2.1. Kelas Present Pertama (⟪भ्वादि⟫)
+*   39\.2.2. Kelas Present Keenam (⟪तुदादि⟫)
+*   39\.2.3. Kelas Present Keempat (⟪दिवादि⟫)
+*   39\.2.4. Kelas Present Kesepuluh (⟪चुरादि⟫) dan Kausatif (⟪णिजन्त⟫)
+*   39\.2.5. Pasif (Sufiks ⟪यक्⟫)
+*   39\.3. Pembentukan bentuk kata kerja untuk orang masa depan sederhana - ⟪ऌत्⟫
+*   39\.3.1. Pembentukan ⟪अनिट्⟫
+*   39\.3.2. Pembentukan ⟪सेट्⟫
+*   39\.4. Pembentukan bentuk kata kerja untuk akar present atematik orang pertama
+*   39\.4.1. Kelas Present Kedua (⟪अदादि⟫)
+*   39\.4.2. Kelas Present Ketiga (⟪जुहोत्यादि⟫)
+*   39\.4.3. Kelas Present Kelima (⟪स्वादि⟫)
+*   39\.4.4. Kelas Present Kedelapan (⟪तनादि⟫)
+*   39\.4.5. Kelas Present Ketujuh (⟪रुधादि⟫)
+*   39\.4.6. Kelas Present Kesembilan (⟪क्र्यादि⟫)
+*   39\.5. Latihan
 
 ## [Lesson 40](lektion40)
 
 *   40\.1. ⟪सुभाषितानि⟫
-*   40\.2. Formation of the first person perfect verb forms (⟪लिट्⟫)
-    *   40\.2.1. Perfect Type I: no stem gradation
-    *   40\.2.2. Perfect Type II: strong stem in strong grade, weak stem in weak grade
-    *   40\.2.3. Perfect Type III: Strong Stem High Grade/Lengthened Grade
-    *   40\.2.4. Perfect Type IV: Roots ending in -ā / -ai
-    *   40\.2.5. Perfect Type V: Consonant-a-Consonant
-    *   40\.2.6. Special Perfect Constructions
-*   40\.3. Formation of the verb forms of the first person of the periphrastic perfect (⟪अनुप्रयोगलिट्⟫)
-*   40\.4. Syntax regarding the first person (⟪तृतीयः⟫)
-*   40\.5. Personal Pronouns (⟪पुरुषार्थकसर्वनाम⟫) of the First Person Singular and Plural
-*   40\.6. Word List
-*   40\.7. Exercise
-*   40\.8. Form Exercise
+*   40\.2. Pembentukan bentuk kata kerja sempurna orang pertama (⟪लिट्⟫)
+*   40\.2.1. Tipe Sempurna I: tanpa gradasi akar
+*   40\.2.2. Tipe Sempurna II: akar kuat dalam tingkat kuat, akar lemah dalam tingkat lemah
+*   40\.2.3. Tipe Sempurna III: Tingkat Tinggi/Akar Panjang Akar Kuat
+*   40\.2.4. Tipe Sempurna IV: Akar yang berakhiran -ā / -ai
+*   40\.2.5. Tipe Sempurna V: Konsonan-a-Konsonan
+*   40\.2.6. Konstruksi Sempurna Khusus
+*   40\.3. Pembentukan bentuk kata kerja orang pertama dari sempurna periphrastik (⟪अनुप्रयोगलिट्⟫)
+*   40\.4. Sintaksis mengenai orang pertama (⟪तृतीयः⟫)
+*   40\.5. Kata Ganti Orang (⟪पुरुषार्थकसर्वनाम⟫) Tunggal dan Jamak Orang Pertama
+*   40\.6. Daftar Kata
+*   40\.7. Latihan
+*   40\.8. Latihan Bentuk
 
 ## [Lesson 41](lektion41)
 
-*   41\.1. ⟪सुभाषिते⟫  (two proverbs)
-*   41\.2. Further ⟪कृत्⟫ formations with -a
-    *   41\.2.1. Present Participle (⟪लडादेशः⟫) Ā, Present Participle (⟪लडादेशः⟫) Passive, Future Participle (⟪ऌडादेशः⟫) Ā
-    *   41\.2.2. "Participle" of passive necessity (Gerundivum) (⟪कृत्य⟫)
-    *   41\.2.3. Syntactic aspects of the "Participle" of passive necessity (Gerundivum) (⟪कृत्य⟫)
-    *   41\.2.4. Differences in the Usage of the Gerundive Suffixes
-    *   41\.2.5. No connection with ⟪सु⟫- and ⟪दुस्⟫-
-*   41\.3. Word List
-*   41\.4. Exercise
+*   41\.1. ⟪सुभाषिते⟫ (dua peribahasa)
+*   41\.2. Pembentukan ⟪कृत्⟫ lebih lanjut dengan -a
+*   41\.2.1. Kata Kerja Aktif Sekarang (⟪लडादेशः⟫) Ā, Kata Kerja Aktif Sekarang (⟪लडादेशः⟫) Pasif, Kata Kerja Aktif Akan Datang (⟪ऌडादेशः⟫) Ā
+*   41\.2.2. "Kata Kerja Aktif" keharusan pasif (Gerundivum) (⟪कृत्य⟫)
+*   41\.2.3. Aspek sintaksis dari "Kata Kerja Aktif" keharusan pasif (Gerundivum) (⟪कृत्य⟫)
+*   41\.2.4. Perbedaan dalam Penggunaan Akhiran Gerundiva
+*   41\.2.5. Tidak ada hubungan dengan ⟪सु⟫- dan ⟪दुस्⟫-
+*   41\.3. Daftar Kata
+*   41\.4. Latihan
 
 ## [Lesson 42](lektion42)
 
-*   42\.1. Tribes ending in -ṛ
-    *   42\.1.1. Tribes with lengthened grade in the strong stem
-    *   42\.1.2. Nominal Derivation: ⟪कृत्⟫ Suffix -⟪तृ⟫
-    *   42\.1.3. Tribes with strong stem grade
-    *   42\.1.4. Stems ending in -ṛ in compounds
-*   42\.2. Word List
-    *   42\.2.1. Some Kinship Terms
-*   42\.3. Exercise
-*   42\.4. Translation Exercise
+*   42\.1. Suku-suku yang berakhiran -ṛ
+*   42\.1.1. Suku-suku dengan tingkat panjang pada batang kuat
+*   42\.1.2. Turunan Nominal: ⟪कृत्⟫ Akhiran -⟪तृ⟫
+*   42\.1.3. Suku-suku dengan tingkat batang kuat
+*   42\.1.4. Batang yang berakhiran -ṛ dalam majemuk
+*   42\.2. Daftar Kata
+*   42\.2.1. Beberapa Istilah Kerabat
+*   42\.3. Latihan
+*   42\.4. Latihan Terjemahan
 
 ## [Lesson 43](lektion43)
 
-*   43\.1. Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle \<person\>")
-*   43\.2. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫)
-    *   43\.2.1. Thematic Stems
-*   43\.3. The Second Person Personal Pronoun
-*   43\.4. Word List
-*   43\.5. Exercise
-*   43\.6. ⟪संवादः⟫ = Conversation
+*   43\.1. Akhiran pribadi orang kedua (⟪मध्यमः⟫ = "tengah \&lt;orang\&gt;")
+*   43\.2. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫)
+*   43\.2.1. Batang Tematik
+*   43\.3. Kata Ganti Pribadi Orang Kedua
+*   43\.4. Daftar Kata
+*   43\.5. Latihan
+*   43\.6. ⟪संवादः⟫ = Percakapan
 
 ## [Lesson 44](lektion44)
 
-*   44\.1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems with vocally ending suffix
-    *   44\.1.1. Fifth Present Class (⟪स्वादि⟫)
-    *   44\.1.2. Eighth Present Class (⟪तनादि⟫)
-    *   44\.1.3. Ninth Present Class (⟪क्र्यादि⟫)
-*   44\.2. On Word-Sandhi
-    *   44\.2.1. On Word-Sandhi for dh-
-    *   44\.2.2. On s-Sandhi
-*   44\.3. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems without a vocally ending suffix
-    *   44\.3.1. Second Present Class (⟪अदादि⟫)
-*   44\.4. The Vocative (⟪आमन्त्रितम्⟫)
-*   44\.5. Word List
-*   44\.6. Exercise
-*   44\.7. Form Review Exercise
+*   44.1. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) akar atematis dengan akhiran sufiks vokal
+*   44.1.1. Kelas Present Kelima (⟪स्वादि⟫)
+*   44.1.2. Kelas Present Kedelapan (⟪तनादि⟫)
+*   44.1.3. Kelas Present Kesembilan (⟪क्र्यादि⟫)
+*   44.2. Tentang Sandhi Kata
+*   44.2.1. Tentang Sandhi Kata untuk dh-
+*   44.2.2. Tentang Sandhi s-Sandhi
+*   44.3. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) akar atematis tanpa akhiran sufiks vokal
+*   44.3.1. Kelas Present Kedua (⟪अदादि⟫)
+*   44.4. Vokatif (⟪आमन्त्रितम्⟫)
+*   44.5. Daftar Kata
+*   44.6. Latihan
+*   44.7. Tinjauan Bentuk Latihan
 
 ## [Lesson 45](lektion45)
 
-*   45\.1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems without vocally ending suffix (continuation)
-    *   45\.1.1. Third Present Class (⟪जुहोत्यादि⟫)
-    *   45\.1.2. Seventh Present Class (⟪रुधादि⟫)
-*   45\.2. The Vocative Singular (⟪आमन्त्रितमेकवचने⟫)
-*   45\.3. Word List
-*   45\.4. Exercise
+*   45\.1. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) akar athematic tanpa akhiran vokal (lanjutan)
+*   45\.1.1. Kelas Present Ketiga (⟪जुहोत्यादि⟫)
+*   45\.1.2. Kelas Present Ketujuh (⟪रुधादि⟫)
+*   45\.2. Vokatif Singular (⟪आमन्त्रितमेकवचने⟫)
+*   45\.3. Daftar Kata
+*   45\.4. Latihan
 
 ## [Lesson 46](lektion46)
 
-*   46\.1. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) Perfect (⟪लिट्⟫)
-    *   46\.1.1. Endings
-    *   46\.1.2. Sound Change of the Ending -dhve
-    *   46\.1.3. Perfect Type I: no stem gradation
-    *   46\.1.4. Perfect Type II: strong stem full grade, weak stem reduced grade
-    *   46\.1.5. Perfect Type III: Strong Stem Full/Extended Grade
-    *   46\.1.6. Perfect Type IV: Roots ending in -ā / -ai
-    *   46\.1.7. Perfect Type V: Consonant-a-Consonant
-    *   46\.1.8. Special Perfect Conjugations
-    *   46\.1.9. Periphrastic Perfect (⟪अनुप्रयोगलिट्⟫)
-*   46\.2. Word List
-*   46\.3. Exercise
+*   46\.1. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) Sempurna (⟪लिट्⟫)
+*   46\.1.1. Akhiran
+*   46\.1.2. Perubahan Bunyi pada Akhiran -dhve
+*   46\.1.3. Tipe Sempurna I: tanpa gradasi akar
+*   46\.1.4. Tipe Sempurna II: akar kuat tingkat penuh, akar lemah tingkat reduksi
+*   46\.1.5. Tipe Sempurna III: Akar Kuat Tingkat Penuh/Diperpanjang
+*   46\.1.6. Tipe Sempurna IV: Akar yang berakhiran -ā / -ai
+*   46\.1.7. Tipe Sempurna V: Konsonan-a-Konsonan
+*   46\.1.8. Konjugasi Sempurna Khusus
+*   46\.1.9. Sempurna Perifrasa (⟪अनुप्रयोगलिट्⟫)
+*   46\.2. Daftar Kata
+*   46\.3. Latihan
 
 ## [Lesson 47](lektion47)
 
-*   47\.1. The Imperative (⟪लोट्⟫)
-*   47\.2. Formation of the Imperative (⟪लोट्⟫) of thematic present stems
-    *   47\.2.1. Endings of the Imperative for thematic present stems
-    *   47\.2.2. First Present Class (⟪भ्वादि⟫)
-    *   47\.2.3. Sixth Present Class (⟪तुदादि⟫)
-    *   47\.2.4. Fourth Present Class (⟪दिवादि⟫)
-    *   47\.2.5. Tenth Present Class (⟪चुरादि⟫) and Causatives
-    *   47\.2.6. Passive
-*   47\.3. Exercise
+*   47\.1. Kalimat Perintah (⟪लोट्⟫)
+*   47\.2. Pembentukan Kalimat Perintah (⟪लोट्⟫) dari akar present tematik
+*   47\.2.1. Akhiran Kalimat Perintah untuk akar present tematik
+*   47\.2.2. Kelas Present Pertama (⟪भ्वादि⟫)
+*   47\.2.3. Kelas Present Keenam (⟪तुदादि⟫)
+*   47\.2.4. Kelas Present Keempat (⟪दिवादि⟫)
+*   47\.2.5. Kelas Present Kesepuluh (⟪चुरादि⟫) dan Kausatif
+*   47\.2.6. Pasif
+*   47\.3. Latihan
 
 ## [Lesson 48](lektion48)
 
-*   48\.1. ⟪सुभाषितानि⟫
-*   48\.2. Formation of the Imperative (⟪लोट्⟫) athematic present stems
-    *   48\.2.1. Endings of the Imperative on athematic present stems
-    *   48\.2.2. Form of the Present Stem
-    *   48\.2.3. Second Present Class (⟪अदादि⟫)
-    *   48\.2.4. Third Present Class (⟪जुहोत्यादि⟫)
-*   48\.3. On nominal derivation: ⟪तद्धित⟫ suffixes -a and -ya
-*   48\.4. Word List
-*   48\.5. Exercise
-*   48\.6. Translation Exercise
+*   48.1. ⟪सुभाषितानि⟫
+*   48.2. Pembentukan Kata Perintah (⟪लोट्⟫) pada akar present yang ateis
+*   48.2.1. Akhiran Kata Perintah pada akar present yang ateis
+*   48.2.2. Bentuk Akar Present
+*   48.2.3. Kelas Present Kedua (⟪अदादि⟫)
+*   48.2.4. Kelas Present Ketiga (⟪जुहोत्यादि⟫)
+*   48.3. Tentang derivasi nomina: akhiran ⟪तद्धित⟫ -a dan -ya
+*   48.4. Daftar Kata
+*   48.5. Latihan
+*   48.6. Terjemahan Latihan
 
 ## [Lesson 49](lektion49)
 
-*   49\.1. Formation of the Imperative (⟪लोट्⟫) athematic present stems (continued)
-    *   49\.1.1. Seventh Present Class (⟪रुधादि⟫)
-    *   49\.1.2. Fifth Present Class (⟪स्वादि⟫)
-    *   49\.1.3. Eighth Present Class (⟪तनादि⟫)
-    *   49\.1.4. Ninth Present Class (⟪क्र्यादि⟫)
-*   49\.2. Declension of nominal stems ending in -as, -is, -us
-*   49\.3. Nominal Derivation: ⟪कृत्⟫-Suffix -as Neuter
-*   49\.4. Word List
-*   49\.5. Form Review Exercise
-*   49\.6. Translation Exercise
+*   49\.1. Pembentukan Kata Perintah (⟪लोट्⟫) akar present tanpa tema (lanjutan)
+*   49\.1.1. Kelas Present Ketujuh (⟪रुधादि⟫)
+*   49\.1.2. Kelas Present Kelima (⟪स्वादि⟫)
+*   49\.1.3. Kelas Present Kedelapan (⟪तनादि⟫)
+*   49\.1.4. Kelas Present Kesembilan (⟪क्र्यादि⟫)
+*   49\.2. Deklinasi akar nominal yang berakhir dengan -as, -is, -us
+*   49\.3. Turunan Nominal: Suffix ⟪कृत्⟫ -as Neuter
+*   49\.4. Daftar Kata
+*   49\.5. Latihan Tinjauan Bentuk
+*   49\.6. Latihan Terjemahan
 
 ## [Lesson 50](lektion50)
 
@@ -631,69 +631,69 @@
 
 ## [Lesson 51](lektion51)
 
-*   51\.1. ⟪उपपद⟫-Compounds
-*   51\.2. Declension of stems ending in a simple consonant (except nasal, semivowel, -s)
-    *   51\.2.1. Tribes on non-palatal plosive
-    *   51\.2.2. Tribes with palatal stop (c, ch, j), ś, ṣ
-    *   51\.2.3. Stems ending in -h
-*   51\.3. Sandhi of initial h-
-*   51\.4. Sandhi of initial ch-
-*   51\.5. -ch- within the word
-*   51\.6. Word List
-*   51\.7. Translation Exercise
+*   51\.1. Komponen ⟪उपपद⟫
+*   51\.2. Deklinasi kata dasar yang berakhiran konsonan sederhana (kecuali nasal, semi-vokal, -s)
+*   51\.2.1. Suku-suku pada konsonan letak non-palatal
+*   51\.2.2. Suku-suku dengan henti palatal (c, ch, j), ś, ṣ
+*   51\.2.3. Kata dasar yang berakhiran -h
+*   51\.3. Sandhi awalan h-
+*   51\.4. Sandhi awalan ch-
+*   51\.5. -ch- di dalam kata
+*   51\.6. Daftar Kata
+*   51\.7. Latihan Terjemahan
 
 ## [Lesson 52](lektion52)
 
-*   52\.1. Neuter of stems ending in -i and -u
-*   52\.2. Nominal Derivation
-    *   52\.2.1. PPP + -vant: Past Participle of the Parasmaipada
-    *   52\.2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
-    *   52\.2.3. ⟪तद्धित⟫-Suffix -eya
-*   52\.3. Adverbial Formation: Adverbial Suffix -śas
-*   52\.4. Verbal compounds that express that something becomes or is made what it was not before (⟪अभुततद्भावः⟫)
-    *   52\.4.1. cvi-formations
-    *   52\.4.2. Suffix -sāt
-*   52\.5. Word repetitions (⟪द्विरुक्तम्⟫)
-*   52\.6. The Numeral (⟪सम्ख्या⟫ f.)
-    *   52\.6.1. Cardinal Numbers
-    *   52\.6.2. Ordinal Numbers
-    *   52\.6.3. Numeral Adverbs
-    *   52\.6.4. Numeral Adjectives
-    *   52\.6.5. Compounds with Cardinal Numbers in the First Member
-*   52\.7. Word List
-*   52\.8. Translation Exercise
-*   52\.9. Tasks during the semester break
+*   52\.1. Neutrum dari kata benda yang berakhiran -i dan -u
+*   52\.2. Penurunan Nominal
+*   52\.2.1. PPP + -vant: Partisip Lampau dari Parasmaipada
+*   52\.2.2. ⟪तद्धित⟫-Suffix -maya / -mayī
+*   52\.2.3. ⟪तद्धित⟫-Suffix -eya
+*   52\.3. Pembentukan Adverbia: Akhiran Adverbia -śas
+*   52\.4. Kata kerja majemuk yang menyatakan bahwa sesuatu menjadi atau dibuat apa yang sebelumnya bukan (⟪अभुततद्भावः⟫)
+*   52\.4.1. pembentukan bentuk-cvi
+*   52\.4.2. Akhiran -sāt
+*   52\.5. Pengulangan kata (⟪द्विरुक्तम्⟫)
+*   52\.6. Bilangan (⟪सम्ख्या⟩ f.)
+*   52\.6.1. Bilangan Kardinal
+*   52\.6.2. Bilangan Ordinal
+*   52\.6.3. Adverbia Bilangan
+*   52\.6.4. Kata Sifat Bilangan
+*   52\.6.5. Majemuk dengan Bilangan Kardinal di Anggota Pertama
+*   52\.7. Daftar Kata
+*   52\.8. Latihan Terjemahan
+*   52\.9. Tugas selama masa libur semester
 
 ## [Lesson 53](lektion53)
 
-*   53\.1. The Dual (⟪द्विवचन⟫ n.) of Nouns
-*   53\.2. Dual Endings of Nouns
-*   53\.3. The Dual of Consonant-Stems
-    *   53\.3.1. Stems without Stem Gradation
-    *   53\.3.2. Stems with Stem Gradation
-*   53\.4. The Dual of Stems Ending in Vowels
+*   53\.1. Dualis (⟪द्विवचन⟫ n.) von Substantiven
+*   53\.2. Dualendungen von Substantiven
+*   53\.3. Der Dual von Konsonantstämmen
+*   53\.3.1. Stämme ohne Stammgradation
+*   53\.3.2. Stämme mit Stammgradation
+*   53\.4. Der Dual von Vokalstämmen
 *   53\.5. Dualdvandva
-*   53\.6. The Dual of Pronouns
-*   53\.7. Pronominal Adjectives
-*   53\.8. Irregular Comparison
-*   53\.9. Declension of Comparatives in -īyas
-*   53\.10. Metrics (Study of Verse Measures)
-    *   53\.10.1. Significance of Determining the Meter
-    *   53\.10.2. Types of Metra
-    *   53\.10.3. The metrical quantity of syllables
-    *   53\.10.4. The Epic Śloka (⟪श्लोक⟫ m.)
-*   53\.11. Exercise
+*   53\.6. Der Dual von Pronomina
+*   53\.7. Pronominale Adjektive
+*   53\.8. Irregulärer Komparativ
+*   53\.9. Deklination von Komparativen auf -īyas
+*   53\.10. Metrik (Studium der Versmaße)
+*   53\.10.1. Bedeutung der Bestimmung des Versmaßes
+*   53\.10.2. Arten von Metra
+*   53\.10.3. Die metrische Quantität der Silben
+*   53\.10.4. Das epische Śloka (⟪श्लोक⟫ m.)
+*   53\.11. Übung
 
 ## [Lesson 54](lektion54)
 
-*   54\.1. Preliminary Note
-*   54\.2. Word Formation: ⟪कृत्⟫ Suffix -u on Desiderative Stems
-*   54\.3. Meter II: the epic ⟪त्रिष्टुभ्⟫ and the ⟪जगती⟫
-*   54\.4. Exercise on Metrics
-*   54\.5. Types of Aorist Formation (⟪लुङ्⟫)
-*   54\.6. Root Aorist
-    *   54\.6.1. The Aorist of the 3rd sg. Passive
-*   54\.7. Exercise
+*   54\.1. Catatan Pendahuluan
+*   54\.2. Pembentukan Kata: ⟪कृत्⟫ Akhiran -u pada Stem Desideratif
+*   54\.3. Metrik II: epik ⟪त्रिष्टुभ्⟫ dan ⟪जगती⟫
+*   54\.4. Latihan Metrik
+*   54\.5. Jenis-jenis Pembentukan Aorist (⟪लुङ्⟫)
+*   54\.6. Aorist Akar
+*   54\.6.1. Aorist Pasif untuk orang ketiga tunggal
+*   54\.7. Latihan
 
 ## [Lesson 55](lektion55)
 
@@ -702,12 +702,12 @@
 
 ## [Lesson 56](lektion56)
 
-*   56\.1. The reduplicated aorist
-    *   56\.1.1. Formation of the Aorist of Causatives and Roots of the 10th Present Class
-*   56\.2. The Injunctive
-*   56\.3. The Prohibitive Sentence
+*   56\.1. Aorist berulang (reduplicated aorist)
+*   56\.1.1. Pembentukan Aorist Kausatif dan Akar Kelas Present Kesepuluh
+*   56\.2. Injunktif (Injunctive)
+*   56\.3. Kalangan Larangan (Prohibitive Sentence)
 *   56\.4. ⟪स्म⟫
-*   56\.5. Exercise
+*   56\.5. Latihan
 
 ## [Lesson 57](lektion57)
 
@@ -716,95 +716,95 @@
 
 ## [Lesson 58](lektion58)
 
-*   58\.1. The Primary Endings of the Dual (⟪द्विवचनम्⟫)
-*   58\.2. The Dual of the Thematic Present Classes: Indicative Present (⟪लट्⟫)
-    *   58\.2.1. First Present Class (⟪भ्वादिगणः⟫)
-    *   58\.2.2. Fourth Present Class (⟪दिवादिगणः⟫)
-    *   58\.2.3. Sixth Present Class (⟪तुदादिगणः⟫)
-    *   58\.2.4. Tenth Present Class (⟪चुरादिगणः⟫) and Causatives (⟪णिजन्त⟫)
-*   58\.3. The Dual of the Simple Future (⟪ऌत्⟫)
-    *   58\.3.1. ⟪अनिट्⟫
-    *   58\.3.2. ⟪सेट्⟫
-*   58\.4. The Dual Passive (Suffix -⟪यक्⟫)
-*   58\.5. The Dual of athematic present classes: Indicative Present (⟪लट्⟫)
-    *   58\.5.1. Second Present Class (⟪अदादिगणः⟫)
-    *   58\.5.2. Third Present Class (⟪जुहोत्यादिगणः⟫)
-    *   58\.5.3. Fifth Present Class (⟪स्वादिगणः⟫)
-    *   58\.5.4. Eighth Present Class (⟪तनादिगणः⟫)
-    *   58\.5.5. Seventh Present Class (⟪रुधादिगणः⟫)
-    *   58\.5.6. Ninth Present Class (⟪क्र्यादिगणः⟫)
-*   58\.6. Aorist 5: iṣ-Aorist
-*   58\.7. Exercise
+*   58\.1. Akhiran Utama Dual (⟪द्विवचनम्⟫)
+*   58\.2. Dual Kelas Present Tematik: Indikatif Present (⟪लट्⟫)
+*   58\.2.1. Kelas Present Pertama (⟪भ्वादिगणः⟫)
+*   58\.2.2. Kelas Present Keempat (⟪दिवादिगणः⟫)
+*   58\.2.3. Kelas Present Keenam (⟪तुदादिगणः⟫)
+*   58\.2.4. Kelas Present Kesepuluh (⟪चुरादिगणः⟫) dan Kausatif (⟪णिजन्त⟫)
+*   58\.3. Dual Masa Depan Sederhana (⟪ऌत्⟫)
+*   58\.3.1. ⟪अनिट्⟫
+*   58\.3.2. ⟪सेट्⟫
+*   Dual Pasif (Suffix -⟪यक्⟫)
+*   Dual kelas present atematik: Indikatif Present (⟪लट्⟫)
+*   Kelas Present Kedua (⟪अदादिगणः⟫)
+*   Kelas Present Ketiga (⟪जुहोत्यादिगणः⟫)
+*   Kelas Present Kelima (⟪स्वादिगणः⟫)
+*   Kelas Present Kedelapan (⟪तनादिगणः⟫)
+*   Kelas Present Ketujuh (⟪रुधादिगणः⟫)
+*   Kelas Present Kesembilan (⟪क्र्यादिगणः⟫)
+*   Aorist 5: iṣ-Aorist
+*   Latihan
 
 ## [Lesson 59](lektion59)
 
-*   59\.1. The Secondary Endings and Imperative Endings of the Dual (⟪द्विवचनम्⟫)
-*   59\.2. The Dual of Thematic Present Classes: Optative (⟪विधिलिङ्⟫), Imperfect (⟪लङ्⟫), Imperative (⟪लोट्⟫)
-    *   59\.2.1. First Present Class (⟪भ्वादिगणः⟫)
-    *   59\.2.2. Fourth Present Class (⟪दिवादिगणः⟫)
-    *   59\.2.3. Sixth Present Class (⟪तुदादिगणः⟫)
-    *   59\.2.4. Tenth Present Class (⟪चुरादिगणः⟫) and Causatives (⟪णिजन्त⟫)
-    *   59\.2.5. The Passive (Suffix -⟪यक्⟫)
-*   59\.3. The Dual of Athematic Present Classes: Optative (⟪विधिलिङ्⟫), Imperfect (⟪लङ्⟫), Imperative (⟪लोट्⟫)
-    *   59\.3.1. Second Present Class (⟪अदादिगणः⟫)
-    *   59\.3.2. Third Present Class (⟪जुहोत्यादिगणः⟫)
-    *   59\.3.3. Fifth Present Class (⟪स्वादिगणः⟫)
-    *   59\.3.4. Eighth Present Class (⟪तनादिगणः⟫)
-    *   59\.3.5. Seventh Present Class (⟪रुधादिगणः⟫)
-    *   59\.3.6. Ninth Present Class (⟪क्र्यादिगणः⟫)
+*   59\.1. Akhiran Sekunder dan Akhiran Imperatif Dual (⟪द्विवचनम्⟫)
+*   59\.2. Dual Kelas Present Tematik: Optatif (⟪विधिलिङ्⟫), Imperfek (⟪लङ्⟫), Imperatif (⟪लोट्⟫)
+*   59\.2.1. Kelas Present Pertama (⟪भ्वादिगणः⟫)
+*   59\.2.2. Kelas Present Keempat (⟪दिवादिगणः⟫)
+*   59\.2.3. Kelas Present Keenam (⟪तुदादिगणः⟫)
+*   59\.2.4. Kelas Present Kesepuluh (⟪चुरादिगणः⟫) dan Kausatif (⟪णिजन्त⟫)
+*   59\.2.5. Pasif (Sufiks -⟪यक्⟫)
+*   59\.3. Dual Kelas Present Athematik: Optatif (⟪विधिलिङ्⟫), Imperfek (⟪लङ्⟫), Imperatif (⟪लोट्⟫)
+*   59\.3.1. Kelas Present Kedua (⟪अदादिगणः⟫)
+*   59\.3.2. Kelas Present Ketiga (⟪जुहोत्यादिगणः⟫)
+*   59\.3.3. Kelas Present Kelima (⟪स्वादिगणः⟫)
+*   59\.3.4. Kelas Present Kedelapan (⟪तनादिगणः⟫)
+*   59\.3.5. Kelas Present Ketujuh (⟪रुधादिगणः⟫)
+*   59\.3.6. Kelas Present Kesembilan (⟪क्र्यादिगणः⟫)
 *   59\.4. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
-    *   59\.4.1. Root Aorist
-    *   59\.4.2. a-Aorist
-    *   59\.4.3. Reduplicated Aorist
-    *   59\.4.4. s-Aorist
-    *   59\.4.5. iṣ-Aorist
-*   59\.5. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (P only)
-*   59\.6. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematic s-aorist)
-*   59\.7. Exercise
+*   59\.4.1. Aorist Akar
+*   59\.4.2. Aorist a-
+*   59\.4.3. Aorist Berreduplikasi
+*   59\.4.4. Aorist s-
+*   59\.4.5. Aorist iṣ-
+*   59\.5. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (Hanya Aktif)
+*   59\.6. Aorist (⟪लुङ्⟫) 7: sa-Aorist (aorist s- tematik)
+*   59\.7. Latihan
 
 ## [Lesson 60](lektion60)
 
-*   60\.1. The Dual Endings of the Perfect (⟪द्विवचनम्⟫)
-*   60\.2. The Dual of the Reduplicated Perfect (⟪द्वित्वलिट्⟫)
-    *   60\.2.1. Type 1: no stem gradation
-    *   60\.2.2. Type 2: strong stem strong grade, weak stem weak grade
-    *   60\.2.3. Type 3: Strong Stem High Grade/Lengthened Grade
-    *   60\.2.4. Type 4: Roots ending in -ā / -ai
-    *   60\.2.5. Type 5: Consonant-a-Consonant
-*   60\.3. The Dual of the Periphrastic Perfect (⟪अनुप्रयोगलिट्⟫)
-*   60\.4. The Participle ⟪परस्मैपद⟫ of the reduplicated perfect (⟪द्वित्वलिट्⟫)
-*   60\.5. Declension of stems ending in -añc (-ac)
-    *   60\.5.1. Tri-stemmed stems in -añc
-    *   60\.5.2. Two-stemmed tribes on -añc
-*   60\.6. The Desiderative (⟪सन्⟫)
-    *   60\.6.1. Formation of the Desiderative Stem
-    *   60\.6.2. Conjugation of the Desiderative (⟪सन्⟫)
-*   60\.7. Exercise
+*   60\.1. Akhiran Ganda dari Perfek (⟪द्विवचनम्⟫)
+*   60\.2. Ganda dari Perfek Berreduplikasi (⟪द्वित्वलिट्⟫)
+*   60\.2.1. Tipe 1: tanpa gradasi akar
+*   60\.2.2. Tipe 2: akar kuat tingkat kuat, akar lemah tingkat lemah
+*   60\.2.3. Tipe 3: Akar Kuat Tingkat Tinggi/Tingkat Diperpanjang
+*   60\.2.4. Tipe 4: Akar yang berakhiran -ā / -ai
+*   60\.2.5. Tipe 5: Konsonan-a-Konsonan
+*   60\.3. Ganda dari Perfek Periphrastik (⟪अनुप्रयोगलिट्⟫)
+*   60\.4. Partisip ⟪परस्मैपद⟩ dari perfek berreduplikasi (⟪द्वित्वलिट्⟩)
+*   60\.5. Deklinasi akar yang berakhiran -añc (-ac)
+*   60\.5.1. Akar tiga-stem dalam -añc
+*   60\.5.2. Suku dua-stem pada -añc
+*   60\.6. Desideratif (⟪सन्⟩)
+*   60\.6.1. Pembentukan Stem Desideratif
+*   60\.6.2. Konjugasi Desideratif (⟪सन्⟩)
+*   60\.7. Latihan
 
 ## [Lesson 61](lektion61)
 
-*   61\.1. Declension of Root Nouns ending in -ā, -ī, -ū
-    *   61\.1.1. Root nouns ending in -ā in ⟪तत्पुरुष⟫
-    *   61\.1.2. Feminine root nouns ending in -ī
-    *   61\.1.3. Root nouns ending in -ī in ⟪तत्पुरुष⟫
-    *   61\.1.4. Monosyllabic feminine root nouns in -ū
-    *   61\.1.5. Root nouns ending in -ū in ⟪तत्पुरुष⟫
-    *   61\.1.6. Declension of multisyllabic feminine nouns ending in -ū
-*   61\.2. The periphrastic future (⟪लुट्⟫)
-*   61\.3. The Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
-    *   61\.3.1. Ātmanepada Intensive
-    *   61\.3.2. Parasmaipada-Intensivum
-*   61\.4. Denominatives (⟪नामधातु⟫)
-    *   61\.4.1. Formation without special suffix, Parasmaipada
-    *   61\.4.2. Formation with the suffix -ya, Parasmaipada
-    *   61\.4.3. Formation with the Suffix -kāmya, Parasmaipada
-    *   61\.4.4. Formation with the Suffix -sya or -asya, Parasmaipada
-    *   61\.4.5. Formation with the suffix -ya, Ātmanepada
-    *   61\.4.6. Formation with the suffix -aya, -āpaya
-*   61\.5. The Benedictive (⟪आशीर्लिङ्⟫)
-*   61\.6. The Conditional (⟪ऌङ्⟫)
-*   61\.7. Declension of Nouns in -ai, -o, -au
-*   61\.8. Remaining Pronouns
-    *   61\.8.1. Personal pronouns of the dual
-    *   61\.8.2. Demonstrative Pronouns ⟪अदस्⟫ "that (distant)"
-*   61\.9. Release into the Ocean of Sanskrit Literature: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+*   61\.1. Penurunan Kata Dasar Berakhiran -ā, -ī, -ū
+*   61\.1.1. Kata dasar berakhiran -ā dalam ⟪तत्पुरुष⟫
+*   61\.1.2. Kata dasar feminin berakhiran -ī
+*   61\.1.3. Kata dasar berakhiran -ī dalam ⟪तत्पुरुष⟫
+*   61\.1.4. Kata dasar feminin monosilabis berakhiran -ū
+*   61\.1.5. Kata dasar berakhiran -ū dalam ⟪तत्पुरुष⟫
+*   61\.1.6. Penurunan kata feminin multisilabis berakhiran -ū
+*   61\.2. Masa depan periphrastik (⟪लुट्⟫)
+*   61\.3. Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
+*   61\.3.1. Intensif Ātmanepada
+*   61\.3.2. Intensif Parasmaipada
+*   61\.4. Denominatif (⟪नामधातु⟫)
+*   61\.4.1. Pembentukan tanpa akhiran khusus, Parasmaipada
+*   61\.4.2. Pembentukan dengan akhiran -ya, Parasmaipada
+*   61\.4.3. Pembentukan dengan akhiran -kāmya, Parasmaipada
+*   61\.4.4. Pembentukan dengan akhiran -sya atau -asya, Parasmaipada
+*   61\.4.5. Pembentukan dengan akhiran -ya, Ātmanepada
+*   61\.4.6. Pembentukan dengan akhiran -aya, -āpaya
+*   61\.5. Benediktif (⟪आशीर्लिङ्⟫)
+*   61\.6. Kondisional (⟪ऌङ्⟫)
+*   61\.7. Penurunan Kata Berakhiran -ai, -o, -au
+*   61\.8. Kata Ganti Lainnya
+*   61\.8.1. Kata ganti orang jamak ganda
+*   61\.8.2. Kata ganti penunjuk ⟪अदस्⟫ "itu (jauh)"
+*   61\.9. Melepaskan Diri ke Lautan Sastra Sanskerta: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫

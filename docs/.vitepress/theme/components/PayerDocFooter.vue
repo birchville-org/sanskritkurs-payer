@@ -45,6 +45,14 @@ const currentLang = computed(() => {
   if (path.startsWith('/la/')) return 'la'
   if (path.startsWith('/rm/')) return 'rm'
   if (path.startsWith('/ro/')) return 'ro'
+  if (path.startsWith('/he/')) return 'he'
+  if (path.startsWith('/id/')) return 'id'
+  if (path.startsWith('/ar/')) return 'ar'
+  if (path.startsWith('/arc/')) return 'arc'
+  if (path.startsWith('/zh-CN/')) return 'zh-CN'
+  if (path.startsWith('/th/')) return 'th'
+  if (path.startsWith('/el/')) return 'el'
+  if (path.startsWith('/cop/')) return 'cop'
   return 'de'
 })
 
@@ -64,6 +72,14 @@ const labels = computed(() => {
     la: { prev: 'Lectio prior', exercise: 'Exercitatio addita', next: 'Lectio sequens' },
     rm: { prev: 'Lecziun precedenta', exercise: 'Exercizi supplementar', next: 'Proxima lecziun' },
     ro: { prev: 'Lecția anterioară', exercise: 'Exercițiu suplimentar', next: 'Lecția următoare' },
+    he: { prev: 'שיעור קודם', exercise: 'תרגיל נוסף', next: 'שיעור הבא' },
+    id: { prev: 'Pelajaran Sebelumnya', exercise: 'Latihan Tambahan', next: 'Pelajaran Selanjutnya' },
+    ar: { prev: 'الدرس السابق', exercise: 'تمرين إضافي', next: 'الدرس التالي' },
+    arc: { prev: 'Previous Lesson', exercise: 'Additional Exercise', next: 'Next Lesson' },
+    'zh-CN': { prev: '上一课', exercise: '附加练习', next: '下一课' },
+    th: { prev: 'บทเรียนก่อนหน้า', exercise: 'แบบฝึกหัดเพิ่มเติม', next: 'บทเรียนถัดไป' },
+    el: { prev: 'Προηγούμενο Μάθημα', exercise: 'Πρόσθετη Άσκηση', next: 'Επόμενο Μάθημα' },
+    cop: { prev: 'Previous Lesson', exercise: 'Additional Exercise', next: 'Next Lesson' },
   }
   return dict[currentLang.value] || dict.de
 })
@@ -140,7 +156,48 @@ const translateTitle = (text) => {
     t = t.replace(/Lektion/g, 'Lecție')
     t = t.replace(/Übung/g, 'Exercițiu')
     t = t.replace(/Schrift/g, 'Scriere')
+  } else if (l === 'he') {
+    t = t.replace(/Schriftübung/g, 'תרגיל כתיבה')
+    t = t.replace(/Lektion/g, 'שיעור')
+    t = t.replace(/Übung/g, 'תרגיל')
+    t = t.replace(/Schrift/g, 'כתב')
+  } else if (l === 'id') {
+    t = t.replace(/Schriftübung/g, 'Latihan Menulis')
+    t = t.replace(/Lektion/g, 'Pelajaran')
+    t = t.replace(/Übung/g, 'Latihan')
+    t = t.replace(/Schrift/g, 'Aksara')
+  } else if (l === 'ar') {
+    t = t.replace(/Schriftübung/g, 'تمرين كتابة')
+    t = t.replace(/Lektion/g, 'درس')
+    t = t.replace(/Übung/g, 'تمرين')
+    t = t.replace(/Schrift/g, 'خط')
+  } else if (l === 'arc') {
+    t = t.replace(/Schriftübung/g, 'Writing Exercise')
+    t = t.replace(/Lektion/g, 'Lesson')
+    t = t.replace(/Übung/g, 'Exercise')
+    t = t.replace(/Schrift/g, 'Script')
+  } else if (l === 'zh-CN') {
+    t = t.replace(/Schriftübung/g, '书写练习')
+    t = t.replace(/Lektion/g, '课')
+    t = t.replace(/Übung/g, '练习')
+    t = t.replace(/Schrift/g, '字母')
+  } else if (l === 'th') {
+    t = t.replace(/Schriftübung/g, 'แบบฝึกหัดการเขียน')
+    t = t.replace(/Lektion/g, 'บทเรียน')
+    t = t.replace(/Übung/g, 'แบบฝึกหัด')
+    t = t.replace(/Schrift/g, 'อักษร')
+  } else if (l === 'el') {
+    t = t.replace(/Schriftübung/g, 'Άσκηση Γραφής')
+    t = t.replace(/Lektion/g, 'Μάθημα')
+    t = t.replace(/Übung/g, 'Άσκηση')
+    t = t.replace(/Schrift/g, 'Γραφή')
+  } else if (l === 'cop') {
+    t = t.replace(/Schriftübung/g, 'Writing Exercise')
+    t = t.replace(/Lektion/g, 'Lesson')
+    t = t.replace(/Übung/g, 'Exercise')
+    t = t.replace(/Schrift/g, 'Script')
   }
+  
   return t
 }
 

@@ -3,6 +3,6 @@ layout: doc
 title: Einstellungen
 ---
 
-\<ClientOnly\>
+<ClientOnly>
   <PayerLanguageSettings />
-</ClientOnly\>
+</ClientOnly>

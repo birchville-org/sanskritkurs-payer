@@ -6,13 +6,13 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 20
+# ܬܪܓܠܐ 20
 
 A) Translate and resolve the compounds into Sanskrit:
 
 ⟪१⟫. ⟪इन्द्रशत्र्वनार्या⟫ ⟪देवेन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪॥१॥⟫
-⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪ऽनार्या⟫ ⟪देवानामिन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪।⟫ (or: ⟪इन्द्रस्य⟫ ⟪शत्रव⟫ ⟪एवानार्या⟫...)
-The lord of the gods defeats the non-Aryans; the enemies of Indra are (or: whose enemy Indra is).
+⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪ऽनार्या⟫ ⟪देवानामिन्द्रेण⟫ ⟪जीयन्ते⟫ ⟪।⟫ (ܐܘ: ⟪इन्द्रस्य⟫ ⟪शत्रव⟫ ⟪एवानार्या⟫...)
+ܡܠܟܐ ܕܐܠ̈ܗܬܐ ܓܙܪ ܥܠ ܠܫ̈ܢ̈ܐ ܕܠܝܬ ܐܪܡܝܐ; ܥܕ̈ܬܐ ܕܝܢܕܪܐ ܗܘܢ (ܐܘ: ܕܝܢܕܪܐ ܗܝ).
 
 ⟪२⟫. ⟪शूरबलक्षत्रिययोधः⟫ ⟪शूरपुत्रमिच्छति⟫ ⟪॥२॥⟫
 ⟪शूरस्य⟫ ⟪बलं⟫ ⟪यस्य⟫ ⟪स⟫ ⟪क्षत्रिय⟫ ⟪एव⟫ ⟪योधः⟫ ⟪शूरमेव⟫ ⟪पुत्रमि्च्छति⟫ ⟪॥⟫
@@ -20,7 +20,7 @@ The Kṣatriya warrior with the strength of a hero desires a hero-son.
 
 ⟪३⟫. ⟪सुदुर्गममार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकमार्गः⟫ ⟪॥३॥⟫
 ⟪सुदुर्गमेण⟫ ⟪मार्गेण⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪सुगमस्तु⟫ ⟪नरकस्य⟫ ⟪मार्गः⟫ ⟪॥⟫
-On a very arduous path one comes to a heaven. The path to a hell, however, is simple.
+ܒܐܘܪ̈ܚܐ ܣܓܝܬܐ ܡܫ̈ܟܠܢ ܠܫܡܝܐ. ܐܘܪ̈ܚܐ ܠܓܗܝܢܘܬܐ ܫܪܝܪܐ.
 
 ⟪४⟫. ⟪मृतपुत्रब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥४॥⟫
 ⟪मृतः⟫ ⟪पुत्रो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪ब्राह्मणी⟫ ⟪रोदिति⟫ ⟪॥⟫
@@ -32,15 +32,15 @@ A Brahmin free from delusion desires no Śūdra woman, even if she has a perfect
 
 ⟪६⟫. ⟪सुनीतिपुत्रः⟫ ⟪प्राप्तमतिदर्शनसाधुं⟫ ⟪गच्छति⟫ ⟪॥६॥⟫
 ⟪शोभना⟫ ⟪नीतिर्यस्य⟫ ⟪स⟫ ⟪पुत्रः⟫ ⟪प्राप्तं⟫ ⟪मतेर्दर्शनं⟫ ⟪येन⟫ ⟪तं⟫ ⟪साधुं⟫ ⟪गच्छति⟫ ⟪॥⟫
-The polite son goes to the sage, who has acquired the ability to read thoughts.
+ܐܝܠܘܢ ܕܡܕܥ ܠܟܝܠܐ ܕܩܪܐ ܠܦܘܫܟܐ ܕܡܕܥ ܠܦܘܫܟܐ.
 
 ⟪७⟫. ⟪प्राप्तप्रभावक्षत्रिया⟫ ⟪दृष्टमात्राञ्छत्रून्घन्ति⟫ ⟪॥७॥⟫
 ⟪प्राप्तः⟫ ⟪प्रभावो⟫ ⟪यैस्ते⟫ ⟪क्षत्रिया⟫ ⟪दृष्टं⟫ ⟪मात्रं⟫ ⟪येषां⟫ ⟪ताञ्छत्रून्घन्ति⟫ ⟪॥⟫
 The Kṣatriyas who have come to power kill the enemies as soon as they see them.
 
 ⟪८⟫. ⟪जितशत्रुयोधाः⟫ ⟪शत्रुजितान्मुञ्चन्ति⟫ ⟪॥८॥⟫
-⟪जितः⟫ ⟪शत्रुर्यैस्ते⟫ ⟪योधाः⟫ ⟪शत्रुणा⟫ ⟪जितान्मुञ्चन्ति⟫ ⟪।⟫ (or: ⟪जिताः⟫ ⟪शत्रवो⟫ ⟪यैस्त्ते⟫...)
-The warriors, who had defeated the enemy, free the defeated by the enemy.
+⟪जितः⟫ ⟪शत्रुर्यैस्ते⟫ ⟪योधाः⟫ ⟪शत्रुणा⟫ ⟪जितान्मुञ्चन्ति⟫ ⟪।⟫ (ܐܘ: ⟪जिताः⟫ ⟪शत्रवो⟫ ⟪यैस्त्ते⟫...)
+ܐܝܠܘܢ ܕܡܕܥ ܠܦܘܫܟܐ ܕܡܕܥ ܠܦܘܫܟܐ.
 
 ⟪९⟫. ⟪कृतोपनयनबालः⟫ ⟪शिवादिदेवपूजां⟫ ⟪करोति⟫ ⟪॥९॥⟫
 ⟪कृतमुपनयनं⟫ ⟪यय्स⟫ ⟪स⟫ ⟪बालः⟫ ⟪शिव⟫ ⟪आदिर्येषां⟫ ⟪तेषां⟫ ⟪देवानां⟫ ⟪पुजां⟫ ⟪करोति⟫ ⟪॥⟫
@@ -48,14 +48,14 @@ The boy initiated into the Veda venerates Śiva and the other gods.
 
 ⟪१०⟫. ⟪बुद्धगता⟫ ⟪दुःखादिसत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥१०॥⟫
 ⟪बुद्धं⟫ ⟪गता⟫ ⟪दुःखमादिर्येषां⟫ ⟪तानि⟫ ⟪सत्यानि⟫ ⟪शृण्वन्ति⟫ ⟪॥⟫
-Those who have gone to Buddha hear the truth about suffering and the other (noble) truths.
+ܕܝܠܝ̈ܢ ܕܫܟܚܘ ܠܡܠܟܘ̈ܬܐ ܕܝܫܘܥ ܫܡܥ̈ܝܢ ܠܐܘܪܬܐ ܕܟܝܢܬܐ ܘܠܗ̈ܕܡ ܐܚܪܝ̈ܢ.
 
 B) Translate into Sanskrit using compounds:
 
 1\. A Kṣatriya who does not hold the staff in his hand does not protect the people.
 ⟪अदण्डहस्तः⟫ ⟪क्षत्रियो⟫ ⟪न⟫ ⟪जनान्पाति⟫ ⟪।⟫ (or: ⟪जनान्रक्षति⟫ ⟪।⟫)
 
-2\. Kālidāsa and the other poets are the teachers in Sanskrit.
+ܟܠܝܕܐܣܐ ܘܫܪܟܬܗ ܕܡܠܝܢ ܐܪܒܥܬܐ ܗܘܝܢ ܠܡܕܒܪ̈ܐ ܒܣܢܣܩܪܝܬ.
 ⟪संस्कृतगुरवः⟫ ⟪कालिदासादिक्वयः⟫ ⟪।⟫
 
 3\. A Kṣatriya has his livelihood through weapons.
@@ -71,9 +71,9 @@ Fig.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 :::
 ---
 
-## Compound Analysis
+## ܫܘܚܠܦܐ ܕܡܠ̈ܐ ܡܚܘܕ̈ܬܢ
 
-Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa into all forms you consider possible in Sanskrit.
+ܠܫܢ ܟܬܒ ܕܗܝ ܡܠܦܢܘܬܐ ܕܒܗܝ ܡܠܦܢܘܬܐ ܕܒܗܝ ܡܠܦܢܘܬܐ ܕܒܗܝ ܡܠܦܢܘܬܐ.
 
 ⟪१⟫. **⟪इन्द्रशत्रवः⟫** ⟪।⟫ ⟪इन्द्रस्य⟫ ⟪शत्रवः⟫ ⟪।⟫ (or: ⟪इन्द्रः⟫ ⟪शत्रुर्येषां⟫ ⟪ते⟫ ⟪।⟫)
 
@@ -244,20 +244,20 @@ Fig.: ⟪सम्पन्नरूपा⟫ ⟪रूपसम्पन्न�
 :::
 ---
 
-## Scholarly Fragments
+## ܦܶܠܓܹܐ ܝܽܘܠܦܵܢܵܝ̈ܳܐ
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪१⟫.⟪३३⟫ ⟪॥⟫  
-The clarification of the mind occurs through the unfolding of friendly goodwill, compassion, sympathetic joy, and equanimity, which have happiness and suffering, merit and non-merit as their object.
+ܐܝܕܥܬܐ ܕܠܒܐ ܗܘܐ ܒܦܬܝܚܘܬܐ ܕܪܘܟܢܝܘܬܐ ܠܛܦܣܐ، ܪܘܚܢܝܘܬܐ ܠܛܦܣܐ، ܪܘܚܢܝܘܬܐ ܠܛܦܣܐ، ܘܫܠܡܬܐ، ܕܗܝܢܘܬܐ ܘܦܠܓܬܐ، ܚܒܠܐ ܘܠܐ ܚܒܠܐ ܗܝ ܡܪܟܙܢܘܬܗܝ.
 
 ⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪१⟫ ⟪॥⟫  
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪२⟫.⟪२⟫ ⟪॥⟫  
-The yoga of action is asceticism, study of the Vedas, and attentive service to the LORD. Its goal is the unfolding of concentration and the weakening of "sufferings".
+ܝܘܓܐ ܕܥܒܕܐ ܗܘ ܙܩܦܢܘܬܐ، ܫܝܦܬܐ ܕܘܕܪ̈ܐ، ܘܫܡܥܢܘܬܐ ܠܡܪܝܐ. ܫܘܟܠܗ ܗܘ ܦܬܝܚܘܬܐ ܕܫܪܒܬܐ، ܘܦ̈ܠܓܬܐ ܕ"ܦܠܓܬܐ".
 
 ::: deleteme-box Erläuterung
-The five "sufferings" (⟪क्लेश⟫) are: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — ignorance, egoism, greed, hatred, and attachment to the body.
+ܚܒ̈ܠܐ ܦ̈ܠܓܬܐ (⟪क्लेश⟫) ܗܝ: **⟪अविद्यास्मितारागद्वेषाभ्निवेशाः⟫** (Yoga-Sūtra 2.3) — ܐܝܕܥܬܐ، ܙܠܘܠܢܘܬܐ، ܚ̈ܡܝܡܘܬܐ، ܫܢܐ، ܘܦ̈ܠܓܬܐ ܕܠܒܐ.
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यन्तपुरुषार्थः⟫ ⟪॥⟫ ⟪सांख्यसूत्र⟫ ⟪१⟫.⟪१⟫ ⟪॥⟫  
-The highest goal of man is that triple suffering disappears completely. (*Triple suffering: from oneself, from objects, from the gods.*)
+ܡܠܬܐ ܪܒܬܐ ܕܢܘܫ̈ܐ ܗܝ ܕܦ̈ܠܓܬܐ ܫܠܝܣܬܐ ܢܦܩܬ ܒܫܠܡܘܬܐ. (*ܦ̈ܠܓܬܐ ܫܠܝܣܬܐ: ܡܢ ܕܟܠ، ܡܢ ܐܘܪ̈ܚܐ، ܡܢ ܠܗܘܝ̈ܬܐ.*)
 
 ⟪बाधनालक्षणं⟫ ⟪दुःखम्⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२१⟫ ⟪॥⟫  
 ⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥⟫ ⟪न्यायसूत्र⟫ ⟪१⟫.⟪२२⟫ ⟪॥⟫  
@@ -265,31 +265,31 @@ Suffering is characterized by distress. Liberation is complete freedom from it.
 
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫  
 ⟪नैव⟫ ⟪वर्णाश्रमादीनां⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫  
-There is no heaven, no liberation, no transcendent soul, nor are there fruitful rituals and activities for estates and stages of life. ( ⟪सर्वदर्शनसंग्रह⟫ )
+ܠܝܬ ܣܘܪܟܐ، ܠܝܬ ܦܘܩ̈ܕܢܐ، ܠܝܬ ܪܘܚܐ ܥܒܪ̈ܝܬܐ، ܘܠܝܬ ܡܕ̈ܥܐ ܒܪ̈ܟܝܢ ܠܡܕܥܬܐ וְלַעֲשׂוֹת אֶת-הַמִּצְווֺت. ( ⟪सर्वदर्शनसंग्रह⟫ )
 
 ⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
 ⟪विप्राणां⟫ ⟪करदा⟫ ⟪नृपाः⟫ ⟪।⟫  
 ⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
 ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫  
-Brahmins give offerings to the gods, Brahmins receive offerings from kings, kings receive offerings from the people, the earth receives offerings from the people.
+ܒ̈ܪ̈ܝ ܟ̈וּרְכָא מַקְטִירֵי ܠܐ̈ܠܗܝ، وְקַבָּלֵי ܒ̈ר̈כܬܐ מִן-מַלְכָּא، וּמַלְכָּא קַבִּיל ܡֵן-עַמָּא، וְאַרְעָא קַבִּיל ܡֵן-עַמָּא.
 
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫  
 ⟪त्रय⟫ ⟪एवाधनाः⟫ ⟪स्मृताः⟫ ⟪।⟫  
 ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫  
 ⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪४१६⟫ ⟪॥⟫  
-Wife, son, and serf, these three are traditionally without property. What they acquire is the property of the one to whom they belong.
+ܐܬܘܢ، וּבְנָא، וְעַבְדָּא — תִּלְתָּה הֵימַן לָא יܗוֹר ܡܕ̈ܥܐ. כּל-דְּיַחֲסוּן ܠܡָא דְאַשְׁרֵי לַהּ.
 
 ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫  
 ⟪रक्तौष्ठमसितेक्षणम्⟫ ⟪।⟫  
 ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫  
 ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫  
-Slender in the middle, wide at the hips, with red lips, black eyes, with a curved navel and full breasts, which man does not slay such a beautiful female body?
+ܢַחֲתָא בְּגוֹ מַרְכְּזָה، רַחֲתָא בְּאַרְמְלָה، שׁוֹפַת ܫ̈וּרְקָא، עֵינִין שַׁחֲרֻת، מָחוּל ܡְעַקְפָּא וְשׁוֹדִין מְלֵאי — דַּאֲנָשׁ לָא יְקַטְל — מַאי ܐִיתּוּר לָהּ?
 
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫  
 ⟪दरिद्राणामनिच्छताम्⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫  
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫  
-Those who do not desire have many sons, the rich have not a single son. Strange is the course of creation.
+ܕܠܐ ܡܬܚܙܝ ܠܗ ܢܘܟܪ̈ܐ ܥܕܝܪ̈ܐ
 
 ::: media
 ![](/images/uebung032.webp)

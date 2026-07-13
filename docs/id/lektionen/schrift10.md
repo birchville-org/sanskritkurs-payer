@@ -1,12 +1,12 @@
 # Writing Exercise 10
 
-### Second Rule for the Formation of Consonant Ligatures
+### Aturan Kedua untuk Pembentukan Ligatur Konsonan
 
 [First rule see in [Writing Exercise 8](schrift08.md)]
 
-If the first of the consonants to be combined does not end with a vertical stroke, then the following consonant is placed under the first consonant with loss of its horizontal stroke.
+Jika konsonan pertama yang digabungkan tidak diakhiri dengan garis vertikal, maka konsonan berikutnya ditempatkan di bawah konsonan pertama dengan menghilangkan garis horizontalnya.
 
-Exceptions: If ⟪म्⟫ or ⟪य्⟫ is the second member of the ligature, they are written shortened after the first character:
+Pengecualian: Jika ⟪म्⟫ atau ⟪य्⟫ adalah anggota kedua dari ligatur, mereka ditulis lebih pendek setelah karakter pertama:
 
 > ⟪क्म⟫ kma, ⟪ङ्म⟫ ṅma, ⟪द्म⟫ dma, ⟪ह्म⟫ hma, ⟪क्य⟫ kya, ⟪छ्य⟫ chya, ⟪द्य⟫ dya, ⟪ह्य⟫ hya
 
@@ -28,7 +28,7 @@ Examples (exceptions are underlined):
 
 Write out all the ligatures listed above
 
-### List of the most common ligatures in the typeface of Kielhorn's Grammar
+### Daftar ligatur yang paling umum dalam jenis huruf Tata Bahasa Kielhorn
 
 ![](/images/schrift023.jpg)
 

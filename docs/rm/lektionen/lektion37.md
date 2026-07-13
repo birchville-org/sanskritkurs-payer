@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 37
 
-## 37.1. Das Adverb (⟪क्रियाविशेषणम्⟫)
+## 37.1. L'adverb (⟪क्रियाविशेषणम्⟫)
 
 Adverbien vegnan en il Sanscrit
 
@@ -20,7 +20,7 @@ En il prüm cas è la cunfinaziun tranter casus vivents ed avverbis fluida. Quai
 
 ## 37.2. Adverbiala utilizaziun da formas casuales
 
-### 37.2.1. Akkusativ (⟪द्वितीया⟫)
+### 37.2.1. Accusativ (⟪dvitīyā⟫)
 
 ::: grammar-box
 L’accusativ (⟪द्वितीया⟫) po vegnir adina adina adina
@@ -184,9 +184,9 @@ Abb.: ⟪क्व⟫
 | **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
-## 37.5. Adverbiale Komposita
+## 37.5. Composita adverbiala
 
-### 37.5.1. Komposita cun in avverbio u casus adverbial sco element posterior
+### 37.5.1. Composita cun in avverb u casus adverbial sco element posteriur
 
 Esempel: ⟪सुचिरम्⟫ "mol mult (temp)"
 
@@ -194,7 +194,7 @@ Esempel: ⟪सुचिरम्⟫ "mol mult (temp)"
 
 Esempel: ⟪रक्षार्थम्⟫ "en moda da inu, cun in intent da protecziun, per l'intent da protecziun". Po er vegnir considerà sco apartenent a 5.1.: -⟪अर्थम्⟫ sco part adverbiala posteriora.
 
-### 37.5.3. ⟪अव्ययीभाव⟫-Komposita
+### 37.5.3. Composita ⟪अव्ययीभाव⟫
 
 ⟪अव्ययीभाव⟫ = «unchangiabel/undeklinabel geworden»
 
@@ -374,7 +374,7 @@ Abb.: ⟪वृक्षः⟫
 :::
 ⟪मुख⟫ n.: bosa, visadi, part avant, cumenzament
 
-## 37.10. Übung
+## 37.10. Exercizi
 
 A) Respondezi a las suentas suenter en sanscrit cun l'agut da las paraulas en parentesis. Traducì las frasis da suenta.
 

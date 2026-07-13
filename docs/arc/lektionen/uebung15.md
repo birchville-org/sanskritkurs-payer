@@ -6,35 +6,35 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 15
+# ܬܪܓܡܬܐ 15
 
-A) Translate the proverb at the beginning of the lesson
+A) ܛܪܡ ܐܪܘܢܬܐ ܕܒܪܝܫܬ ܕܠܦܢܘܬܐ
 
 ⟪गुरुशुश्रूषया⟫ ⟪विद्या⟫  
 ⟪पुष्कलेन⟫ ⟪धनेन⟫ ⟪वा⟫ ⟪।⟫  
 ⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫  
 ⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫  
-Knowledge is obtained through obedience to a teacher, or for an exorbitant amount of money, or in exchange for knowledge. There is no fourth way.
+ܝܕܥܬܐ ܗܘܟܠ ܒܫܡܥܢܘܬܐ ܕܠܦܝܪ ܐܘ ܒܟܢܣ ܕܡܠܝܐ ܙܥܘܪܬܐ ܐܘ ܒܫܠܡܢܘܬܐ ܕܝܕܥܬܐ. ܠܐ ܗܘܟܠ ܪܒܝܥܝ.
 
 B) Resolve the following Tatpuruṣa compounds:
 
 ⟪१⟫. ⟪बलकृतः⟫ ⟪।⟫ ⟪बलेन⟫ ⟪कृतः⟫ — a violent one
 
-⟪२⟫. ⟪बालधनस्य⟫ ⟪।⟫ ⟪बालस्य⟫ ⟪धनस्य⟫ — of the property of a minor
+⟪२⟫. ⟪बालधनस्य⟫ ⟪।⟫ ⟪बालस्य⟫ ⟪धनस्य⟫ — ܕܡܠܘܟܬܐ ܕܝܬܝܪ
 
 ⟪३⟫. ⟪नरकाकम्⟫ ⟪।⟫ ⟪काक⟫ ⟪इव⟫ ⟪नरम्⟫ ⟪।⟫ ⟪नर⟫ ⟪एव⟫ ⟪काकम्⟫ — a man like a crow
 
-⟪४⟫. ⟪लोकगुरोः⟫ ⟪।⟫ ⟪लोकस्य⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪लोकानां⟫ ⟪गुरोः⟫ — of the master / teacher of the people / of the world / of the worlds
+⟪४⟫. ⟪लोकगुरोः⟫ ⟪।⟫ ⟪लोकस्य⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪लोकानां⟫ ⟪गुरोः⟫ — ܕܡܪܐ / ܕܡܠܦܢܐ ܕܥܡܐ / ܕܥܠܡܐ / ܕܥܠܡܝܢ
 
-⟪५⟫. ⟪जलेश्वरेण⟫ ⟪।⟫ ⟪जलस्येश्वरेण⟫ ⟪।⟫ ⟪जालानामीश्वरेण⟫ — by the LORD of the waters = by Varuṇa
+⟪५⟫. ⟪जलेश्वरेण⟫ ⟪।⟫ ⟪जलस्येश्वरेण⟫ ⟪।⟫ ⟪जालानामीश्वरेण⟫ — ܒܝܕ ܡܪܝܐ ܕܡܝܐ = ܒܝܕ Varuṇa
 
-⟪६⟫. ⟪जनपानम्⟫ ⟪।⟫ ⟪जनस्य⟫ ⟪पानम्⟫ ⟪।⟫ ⟪जनानां⟫ ⟪पानम्⟫ — drink for the people / for the humans
+⟪६⟫. ⟪जनपानम्⟫ ⟪।⟫ ⟪जनस्य⟫ ⟪पानम्⟫ ⟪।⟫ ⟪जनानां⟫ ⟪पानम्⟫ — ܡܫܬܝܐ ܠܥܡܐ / ܠܒܪܝ ܐܢܫܐ
 
 ⟪७⟫. ⟪वाक्यसारथीन्⟫ ⟪।⟫ ⟪वाक्यस्य⟫ ⟪सारथीन्⟫ ⟪।⟫ ⟪वाक्यानां⟫ ⟪सारथीन्⟫ — the (Acc.) spokesmen
 
 ⟪८⟫. ⟪गुणवचनानि⟫ ⟪।⟫ ⟪गुणस्य⟫ ⟪वचनानि⟫ ⟪।⟫ ⟪गुणानां⟫ ⟪वचनानि⟫ — adjectives
 
-⟪९⟫. ⟪मृगेश्वरैः⟫ ⟪।⟫ ⟪मृगस्येश्वरैः⟫ ⟪।⟫ ⟪मृगाणामीश्वरैः⟫ — by the LORDS of the wild animals = by lions
+⟪९⟫. ⟪मृगेश्वरैः⟫ ⟪।⟫ ⟪मृगस्येश्वरैः⟫ ⟪।⟫ ⟪मृगाणामीश्वरैः⟫ — ܒܣܘܟ̈ܠܝ ܡܕܢܚܐ = ܒܣܘܟ̈ܠܝ
 
 ⟪१०⟫. ⟪बुद्धिकृतायाः⟫ ⟪।⟫ ⟪बुद्ध्या⟫ ⟪कृतायाः⟫ — the (Gen.), the one made with reason, acting reasonably
 
@@ -50,7 +50,7 @@ B) Resolve the following Tatpuruṣa compounds:
 
 ⟪१६⟫. ⟪पुण्यजिताभिः⟫ ⟪।⟫ ⟪पुण्येन⟫ ⟪जिताभिः⟫ — by merit / good deeds conquered (fem.)
 
-⟪१७⟫. ⟪पापलोकम्⟫ ⟪।⟫ ⟪पापस्य⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापानां⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापं⟫ ⟪लोकम्⟫ — the (Acc.) world of evil, world of the wicked, hell, evil world
+⟪१७⟫. ⟪पापलोकम्⟫ ⟪।⟫ ⟪पापस्य⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापानां⟫ ⟪लोकम्⟫ ⟪।⟫ ⟪पापं⟫ ⟪लोकम्⟫ — ܕܝܼܠܘܼܟܵܐ (ܐܲܩ) ܕܝܼܠܘܼܟܵܐ ܕܪܝܼܫܹܐ ܥܲܠܡܵܐ
 
 ⟪१८⟫. ⟪सत्यवदनस्य⟫ ⟪।⟫ ⟪सत्यस्य⟫ ⟪वदनस्य⟫ — of speaking the truth
 
@@ -78,15 +78,15 @@ Fig.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 :::
 ---
 
-## Additional Exercises
+## Additional ܬܪܓܠܐs
 
 Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German translation. Provide all resolutions and translations that seem possible to you. Also indicate which case and number the entire compound represents.
 
-⟪१⟫. ⟪देवेन्द्रस्य⟫ ⟪।⟫ ⟪देवानामिन्द्रस्य⟫ — The lord of the gods
+⟪१⟫. ⟪देवेन्द्रस्य⟫ ⟪।⟫ ⟪देवानामिन्द्रस्य⟫ — ܡܠܟܐ ܕܐܠ̈ܗܬ
 
 ⟪२⟫. ⟪दुःखदग्धा⟫ ⟪।⟫ ⟪दुःखेन⟫ ⟪दग्धा⟫ — a woman burnt by suffering
 
-⟪३⟫. ⟪मोक्षधर्मः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪धर्मः⟫ — the doctrine of liberation, the law of liberation
+⟪३⟫. ⟪मोक्षधर्मः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪धर्मः⟫ — ܐܕܘܬ ܦܪܩܢܝܘܬܐ، ܫܠܬ ܦܪܩܢܝܘܬܐ
 
 ⟪४⟫. ⟪अन्नजातानि⟫ ⟪।⟫ ⟪अन्नेन⟫ ⟪जातानि⟫ ⟪।⟫ ⟪अन्नस्य⟫ ⟪जातानि⟫ — produced from food, types of food
 
@@ -98,11 +98,11 @@ Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German 
 
 ⟪८⟫. ⟪देवेश्वरः⟫ ⟪।⟫ ⟪देवानामीश्वरः⟫ — LORD of the gods
 
-⟪९⟫. ⟪क्षत्रिययज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियस्य⟫ ⟪यज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियाणां⟫ ⟪यज्ञम्⟫ — sacrifice (accusative) of the Kaṣatriyas / of the Kṣatriya, sacrifice for Kṣatriyas / a Kṣatriya
+⟪९⟫. ⟪क्षत्रिययज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियस्य⟫ ⟪यज्ञम्⟫ ⟪।⟫ ⟪क्षत्रियाणां⟫ ⟪यज्ञम्⟫ — ܣܓܝܐ (ܟܢܘܿܫ) ܕܠܡܠܟ̈ܐ / ܕܠܡܠܟܐ، ܣܓܝܐ ܠܡܠܟ̈ܐ / ܡܠܟܐ
 
 ⟪१०⟫. ⟪वैश्यभावेन⟫ ⟪।⟫ ⟪वैश्यस्य⟫ ⟪भावेन⟫ ⟪।⟫ ⟪वैश्यानां⟫ ⟪भावेन⟫ — through Vaiśya essence
 
-⟪११⟫. ⟪देवगुरोः⟫ ⟪।⟫ ⟪देवानां⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्येव्⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्यैव⟫ ⟪गोरोः⟫ — of the teacher of the gods, of the teacher equal to the gods, of the divine teacher
+⟪११⟫. ⟪देवगुरोः⟫ ⟪।⟫ ⟪देवानां⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्येव्⟫ ⟪गुरोः⟫ ⟪।⟫ ⟪देवस्यैव⟫ ⟪गोरोः⟫ — ܕܡܠܦܬܐ ܕܐܠ̈ܗܐ，ܕܡܠܦܬܐ ܫܘ̈ܟܠ ܠܐܠ̈ܗܐ，ܕܡܠܦܬܐ ܩܕܝܫ
 
 ⟪१२⟫. ⟪धनलोभः⟫ ⟪॥⟫ ⟪धनस्य⟫ ⟪लोभः⟫ ⟪।⟫ ⟪धनानां⟫ ⟪लोभः⟫ — material gain
 
@@ -110,21 +110,21 @@ Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German 
 
 ⟪१४⟫. ⟪दुःखमोहः⟫ ⟪।⟫ ⟪दुःखस्य⟫ ⟪मोहः⟫ — delusion about suffering, confusion through suffering
 
-⟪१५⟫. ⟪ग्रामेश्वरम्⟫ ⟪।⟫ ⟪ग्रामस्येश्वरम्⟫ ⟪।⟫ ⟪ग्रामाणामीश्वरम्⟫ — the lords of the village
+⟪१५⟫. ⟪ग्रामेश्वरम्⟫ ⟪।⟫ ⟪ग्रामस्येश्वरम्⟫ ⟪।⟫ ⟪ग्रामाणामीश्वरम्⟫ — ܡܠܟ̈ܘܬܐ ܕܝܬܪܐ
 
 ⟪१६⟫. ⟪नगरजनाः⟫ ⟪।⟫ ⟪नगरस्य⟫ ⟪जनाः⟫ ⟪।⟫ ⟪नगराणां⟫ ⟪जनाः⟫ — townsmen, city dwellers
 
-⟪१७⟫. ⟪यज्ञकालस्य⟫ ⟪॥⟫ ⟪यज्ञस्य⟫ ⟪कालस्य⟫ ⟪।⟫ ⟪जज्ञानां⟫ ⟪कालस्य⟫ — of the right time for the sacrifice / for sacrifices, the time ...
+⟪१७⟫. ⟪यज्ञकालस्य⟫ ⟪॥⟫ ⟪यज्ञस्य⟫ ⟪कालस्य⟫ ⟪।⟫ ⟪जज्ञानां⟫ ⟪कालस्य⟫ — ܕܥܬܐ ܠܙܒܘܟܐ / ܠܨܝܦ̈ܬܐ, ܥܬܐ ...
 
 ⟪१८⟫. ⟪देवगृहाणि⟫ ⟪।⟫ ⟪देवस्य⟫ ⟪गृहाणि⟫ ⟪।⟫ ⟪देवाणां⟫ ⟪गृहाणि⟫ — houses of the gods
 
-⟪१९⟫. ⟪देवपुत्राणाम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪पुत्राणाम्⟫ — the sons of the gods
+⟪१९⟫. ⟪देवपुत्राणाम्⟫ ⟪।⟫ ⟪देवानां⟫ ⟪पुत्राणाम्⟫ — בני עלמא
 
 ⟪२०⟫. ⟪पश्विष्टिः⟫ ⟪।⟫ ⟪पशोरिष्टिः⟫ ⟪।⟫ ⟪पशूनामीष्टिः⟫ — animal sacrifice
 
 ⟪२१⟫. ⟪स्मृत्युक्तम्⟫ ⟪।⟫ ⟪स्मृत्योक्तम्⟫ ⟪।⟫ ⟪स्मृतेरुक्तम्⟫ ⟪।⟫ ⟪स्मृत्या⟫ ⟪उक्तम्⟫ — verse of the sacred tradition
 
-⟪२२⟫. ⟪गुरुगृहम्⟫ ⟪।⟫ ⟪गुरोर्गृहम्⟫ ⟪।⟫ ⟪गुरूणां⟫ ⟪गृहम्⟫ — house of the master / of the masters
+⟪२२⟫. ⟪गुरुगृहम्⟫ ⟪।⟫ ⟪गुरोर्गृहम्⟫ ⟪।⟫ ⟪गुरूणां⟫ ⟪गृहम्⟫ — ܕܝܪܐ ܕܡܠܦܢ / ܕܡܠܦ̈ܢ
 
 ⟪२३⟫. ⟪सोमयज्ञेन⟫ ⟪।⟫ ⟪सोमस्य⟫ ⟪यज्ञेन⟫ — through a Soma sacrifice
 
@@ -136,9 +136,9 @@ Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German 
 
 ⟪२७⟫. ⟪स्वर्गलोकः⟫ ⟪।⟫ ⟪स्वर्⟫ga⟪णां⟫ ⟪लोकः⟫ ⟪।⟫ ⟪स्वर्ग⟫ ⟪एव⟫ ⟪लोकः⟫ — heavenly world, world of the heavens
 
-⟪२८⟫. ⟪ऋषियज्ञैः⟫ ⟪।⟫ ⟪ऋषेर्यज्ञैः⟫ ⟪।⟫ ⟪ऋषीणां⟫ ⟪यज्ञैः⟫ — through sacrifice of Vedic sages / of the Vedic sage
+⟪२८⟫. ⟪ऋषियज्ञैः⟫ ⟪।⟫ ⟪ऋषेर्यज्ञैः⟫ ⟪।⟫ ⟪ऋषीणां⟫ ⟪यज्ञैः⟫ — ܒܩܘܪ̈ܢܐ ܕܫܠܡܝ ܥܬܝܩ̈ܐ / ܕܫܠܡܐ ܥܬܝܩܐ
 
-⟪२९⟫. ⟪तत्कालम्⟫ ⟪।⟫ ⟪तस्य⟫ ⟪कालम्⟫ ⟪।⟫ ⟪त्स्याः⟫ ⟪कालम्⟫ ⟪।⟫ ⟪तेषां⟫ ⟪कालम्⟫ ⟪।⟫ ⟪तासां⟫ ⟪कालम्⟫ — time (accusative) for it, the (right) time for it
+⟪२९⟫. ⟪तत्कालम्⟫ ⟪।⟫ ⟪तस्य⟫ ⟪कालम्⟫ ⟪।⟫ ⟪त्स्याः⟫ ⟪कालम्⟫ ⟪।⟫ ⟪तेषां⟫ ⟪कालम्⟫ ⟪।⟫ ⟪तासां⟫ ⟪कालम्⟫ — ܙܒܢܐ (ܣܘܪ̈ܩ) ܠܗ، ܙܒܢܐ ܫܪܝܪܐ ܠܗ
 
 ⟪३०⟫. ⟪सत्यवदनम्⟫ ⟪।⟫ ⟪स्त्यस्य⟫ ⟪वदनम्⟫ — Speech of Truth, Speaking the Truth
 

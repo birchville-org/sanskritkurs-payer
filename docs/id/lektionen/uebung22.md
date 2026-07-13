@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 22
 
-A) Form and translate the Absolute for the following verbs:
+[A] Bentuk dan terjemahkan bentuk absolut untuk kata kerja berikut:
 
 1.  ⟪आप्⟫ — **⟪आप्त्वा⟫** (after he has obtained)
 2.  ⟪प्राप्⟫ — **⟪प्राप्य⟫** (after he has reached)
@@ -51,11 +51,11 @@ B) Translate and resolve the compounds into Sanskrit:
 
 ⟪१⟫. **⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदास्यत्ति⟫ ⟪॥१॥⟫**
 (⟪ब्राह्मणस्य⟫ ⟪दासी⟫)
-The servant of the Brahmin cooked food and now eats.
+Pelayan brahmana itu telah memasak makanan dan sekarang memakannya.
 
 ⟪२⟫. **⟪इष्टदेवतापूजां⟫ ⟪कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः⟫ ⟪स्तुवन्ति⟫ ⟪॥२॥⟫**
 (⟪इष्टाया⟫ ⟪देवताया⟫ ⟪पूजां⟫ ⟪।⟫ ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪तान्देवान्⟫ ⟪।⟫ ⟪सन्तो⟫ ⟪ब्राह्मणाः⟫)
-The good Brahmins worshipped their personal deity and now praise Indra and the other gods.
+Para brahmana yang baik telah menyembah dewa pribadi mereka dan sekarang memuji Indra serta dewa-dewa lainnya.
 
 ⟪३⟫. **⟪प्रस्थाय⟫ ⟪रामः⟫ ⟪सपुत्रः⟫ ⟪सद्गुरुश्रवणार्थेन⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गच्छति⟫ ⟪॥३॥⟫**
 (⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪सतो⟫ ⟪गुरोः⟫ ⟪श्रवणार्थेन⟫ ⟪।⟫ ⟪ब्राह्मणानां⟫ ⟪ग्रामम्⟫)
@@ -69,8 +69,8 @@ Even if he has never sacrificed, a person attains liberation solely through devo
 Pahlawan Kṣatriya memasuki bagian dalam rumah, berdiri dengan sikap hormat di depan putra Brahmana dan berbicara.
 
 ⟪६⟫. **⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫**
-(⟪दुःखमादिर्येषां⟫ ⟪तान्यार्याणि⟫ ⟪सत्यानि⟫ ⟪।⟫ ⟪सुष्टु⟫ ⟪गतः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪मार्गेण⟫)
-Buddha (Sugata) has awakened to insight, has proclaimed the truth of suffering and the other noble truths, and now leads people on the path to liberation.
+(⟪दुःखमादिर्येषां⟫ ⟪तान्यार्याणि⟫ ⟪सत्यानि⟫ ⟪।⟫ ⟪सुष्टु⟫ ⟪गतः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪मार्गेण⟩)
+Buddha (Sugata) telah terbangun ke dalam wawasan, telah menyatakan kebenaran tentang penderitaan dan kebenaran mulia lainnya, dan sekarang membimbing orang-orang di jalan menuju pembebasan.
 
 ⟪७⟫. **⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫**
 (⟪यज्ञस्य⟫ ⟪दोषम्⟫)
@@ -85,7 +85,7 @@ When they receive money, monks who follow the Buddha's path are ruined.
 The lion-like men have encountered the enemies who are not Āryas, and they achieve complete victory.
 
 ⟪१०⟫. **⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫**
-If he has done meritorious deeds and spoken only the truth, a person does not go to any hell.
+Jika ia telah melakukan perbuatan mulia dan hanya mengucapkan kebenaran, seseorang tidak pergi ke neraka manapun.
 
 ::: media
 ![](/images/uebung034.jpg)

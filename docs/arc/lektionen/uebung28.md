@@ -6,11 +6,11 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 28
+# ܬܶܪܓܳܠܳܐ 28
 
-A) Form the causative of the following verb forms and participial forms:
+[A] ܣܘܓ ܟܢܝܬ ܕܡܠܬ ܗܕܐ ܘܟܢܝܬ ܡܠܦܬ:
 
-### ⟪१⟫. With strong-grade root (Guṇa)
+### ⟪ܐ⟫. ܥܡ ܥܩܪܐ ܕܕܪܓܐ ܚܝܠܬܢܐ (ܓܘܢܐ)
 
 | Form | Causative |
 | :--- | :--- |
@@ -43,7 +43,7 @@ A) Form the causative of the following verb forms and participial forms:
 | ⟪स्रक्ष्यति⟫ | ⟪सर्जयिष्यति⟫ |
 | ⟪लिम्पन्ति⟫ | ⟪लेपयन्ति⟫ |
 | ⟪वृद्धाः⟫ | ⟪वर्धिताः⟫ |
-### ⟪२⟫. With lengthened-grade root (Vṛddhi)
+### 2. ܥܡ ܥܩܪܐ ܕܕܪܓܐ ܡܘܪܟܒܐ (ܒܪܕܗܝ)
 
 | Form | Causative |
 | :--- | :--- |
@@ -86,47 +86,47 @@ A) Form the causative of the following verb forms and participial forms:
 | ⟪सोढायाः⟫ | ⟪साहितायाः⟫ |
 | ⟪हरन्ती⟫ | ⟪हारयन्ती⟫ |
 | ⟪ऊढया⟫ | ⟪वाहितया⟫ |
-### ⟪३⟫. Causative in -⟪पय⟫ (and special forms)
+### ⟪3⟫. ܥܶܠܬܳܢܳܐ ܒ-⟪ܦܰܝ⟫ (ܘܨܽܘܪ̈ܬܳܐ ܦܰܪ̈ܝܳܬܳܐ)
 
-| Root | Causative | Meaning |
+| ܪܘܬ | ܣܝܦܬܐ | ܡܠܘܬ |
 | :--- | :--- | :--- |
-| ⟪स्था⟫ | ⟪स्थापयति⟫ | to place, to set |
-| ⟪दुष्⟫ | ⟪दूषयति⟫ | to spoil |
-| ⟪पा⟫ ⟪१⟫ (to drink) | ⟪पाययति⟫ | to cause to drink |
-| ⟪पा⟫ ⟪२⟫ (to protect) | ⟪पालयति⟫ | to guard, to protect |
-| ⟪लभ्⟫ | ⟪लम्भयति⟫ | to cause to remain |
-| ⟪हन्⟫ | ⟪घातयति⟫ | to cause to be struck, to kill |
-| ⟪जि⟫ | ⟪जापयति⟫ | to cause to win |
-| ⟪जीव्⟫ | ⟪जीवयति⟫ | to enliven |
-B) Translate the following sentences and form sentences using the simple verbs that express what happens when that which is expressed by the causative is effected.
+| ⟪स्था⟫ | ⟪स्थापयति⟫ | ܠܡܕܟ |
+| ⟪दुष्⟫ | ⟪दूषयति⟫ | ܠܡܒܥܝ |
+| ⟪पा⟫ ⟪१⟫ (ܠܡܣܟ) | ⟪पाययति⟫ | ܠܡܣܟ |
+| ⟪पा⟫ ⟪२⟫ (ܠܡܕܒܝ) | ⟪पालयति⟫ | ܠܡܕܒܝ, ܠܡܣܓܕ |
+| ⟪लभ्⟫ | ⟪लम्भयति⟫ | ܠܡܗܕܪ |
+| ⟪हन्⟫ | ⟪घातयति⟫ | ܠܡܣܟ, ܠܡܨܩܐ |
+| ⟪जि⟫ | ⟪जापयति⟫ | ܠܡܙܟܐ |
+| ⟪जीव्⟫ | ⟪जीवयति⟫ | ܠܡܚܝܐ |
+B) ܫܪ̈ܟ ܠܡܕܟ ܐܝܠܢ ܫܘܥ̈ܠܬܐ ܘܙܟܝ ܫܘܥ̈ܠܬܐ ܒܣܝܦܬܐ ܕܡܕܟܘ̈ܝܢ ܕܐܠܦܬ ܡܟܘ̈ܪ ܕܐܝܠܢ.
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
 The Kṣatriya has, in order to defeat the enemies, caused a Brāhmaṇa named Hari and Hara to worship with a sacrifice and will fight the enemies.
-(Basis: **⟪ब्राह्मणो⟫ ⟪हरिहरं⟫ ⟪यजति⟫ ⟪।⟫**)
+(ܒܣܝܦܬ: **⟪ब्राह्मणो⟫ ⟪हरिहरं⟫ ⟪यजति⟫ ⟪।⟫**)
 
 ⟪२⟫. **⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫**
-The teacher has taught the boy the Veda and then gone home.
-(Basis: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**)
+ܡܕܒܪܐ ܠܦ̈ܬ ܠܗܝܟܠܐ ܕܒܪܬܐ ܘܚܙܝ ܠܡܕܟܬܐ.
+(ܒܣܝܦܬ: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**)
 
 ⟪३⟫. **⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫ ⟪॥३॥⟫**
-In the innermost sanctuary, the image of the goddess is shown.
-(Basis: **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**)
+ܒܩܘ̈ܟܐ ܕܡܪܝܙܬܐ, ܨܠܡ ܕܒܪܬܐ ܢܛܝܠ.
+(ܒܣܝܦܬ: **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**)
 
 ⟪४⟫. **⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫**
-The sacrificer gives food to the fire to eat and drink to the fire to drink.
-(Basis: **⟪अग्निरन्नमत्ति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पिबति⟫ ⟪।⟫**)
+ܕܡܠܟܐ ܝܗܒ ܓܘܦܪܐ ܠܢܘܪܐ ܠܡܟܠ ܘܝܗܒ ܫܪܒܐ ܠܢܘܪܐ ܠܡܫܬܐ.
+(בסיס: **⟪अग्निरन्नमत्ति⟩ ⟪पानं⟩ ⟪च⟩ ⟪पिबति⟩ ⟪।⟩**)
 
-⟪५⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫ ⟪ब्राह्मणस्तं⟫ ⟪दासं⟫ ⟪गृहं⟫ ⟪प्रवेश्य⟫ ⟪पुत्रं⟫ ⟪पृच्छति⟫ ⟪॥५॥⟫**
-As soon as the son is born, the Brahmin woman sends a servant to the Brahmin. The Brahmin has the servant enter the house and asks about his son.
-(Basis: **⟪दासो⟫ ⟪ब्राह्मणं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪दासो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫**)
+⟪५⟩. **⟪पुत्रे⟩ ⟪जाते⟩ ⟪ब्राह्मणी⟩ ⟪दासं⟩ ⟪ब्राह्मणं⟩ ⟪गमयति⟩ ⟪।⟩ ⟪ब्राह्मणस्तं⟩ ⟪दासं⟩ ⟪गृहं⟩ ⟪प्रवेश्य⟩ ⟪पुत्रं⟩ ⟪पृच्छति⟩ ⟪॥५॥⟩**
+כשנולד הבן, שולחת אשת הברמן משרת אל הברמן. הברמן מצווה על המשרת להיכנס לבית ושואל אודות בנו.
+(בסיס: **⟪दासो⟩ ⟪ब्राह्मणं⟩ ⟪गच्छति⟩ ⟪।⟩ ⟪दासो⟩ ⟪गृहं⟩ ⟪प्रविशति⟩ ⟪।⟩**)
 
-⟪६⟫. **⟪स्तुवता⟫ ⟪नरेण⟫ ⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪श्राविताः⟫ ⟪॥६॥⟫**
-The praising man brings the praise hymns of the great poet to the gods.
-(Basis: **⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪शृण्वन्ति⟫ ⟪।⟫**)
+⟪६⟩. **⟪स्तुवता⟩ ⟪नरेण⟩ ⟪देवा⟩ ⟪महाकवेः⟩ ⟪स्तोत्राणि⟩ ⟪श्राविताः⟩ ⟪॥६॥⟩**
+המהלל מביא את שירי ההלל של המשורר הגדול לאלוהים.
+(בסיס: **⟪देवा⟩ ⟪महाकवेः⟩ ⟪स्तोत्राणि⟩ ⟪शृण्वन्ति⟩ ⟪।⟩**)
 
-⟪७⟫. **⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫**
-The noble warriors kill the enemies in the great battle.
-(Basis: **⟪अरयो⟫ ⟪म्रियन्ते⟫ ⟪।⟫**)
+⟪७⟩. **⟪आर्ययोधैर्महायुद्धे⟩ ⟪ऽरयो⟩ ⟪मार्यन्ते⟩ ⟪॥७॥⟩**
+הלוחמים האצילים הורגים את האויבים בקרב הגדול.
+(בסיס: **⟪अरयो⟩ ⟪म्रियन्ते⟩ ⟪।⟩**)
 
 ⟪८⟫. **⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪॥८॥⟫**
 The good Kṣatriyā has a Brahmin worship her personal deity.
@@ -134,7 +134,7 @@ The good Kṣatriyā has a Brahmin worship her personal deity.
 
 ⟪९⟫. **⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫**
 To conquer treasures, the great Kṣatriya will have the tiger-like warriors make vows.
-(Basis: **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**)
+(בסיס: **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**)
 
 ⟪१०⟫. **⟪पापाद्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫**
 To free them from evil, Buddha has noble people recognize the noble truths.

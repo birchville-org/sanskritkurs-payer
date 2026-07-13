@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 47
+# ܡܠܦܢܐ 47
 
-## 47.1. Der Imperativ (⟪लोट्⟫)
+## 47.1. ܦܘܩܕܢܐ (ܠܘܛ)
 
 ::: grammar-box
 The imperative (⟪लोट्⟫) denotes
@@ -23,15 +23,15 @@ The imperative (⟪लोट्⟫) denotes
 *   **Consideration**
 *   **Question**
 
-The meanings mentioned above are shared by him with the Optative (⟪विधिलिङ्⟫).
+ܡܕܠܩ̈ܐ ܕܬܝܡ̈ܢ ܠܗ ܒܟܘܪܝܐ (⟪विधिलिङ्⟫).
 
 With the imperative, one also expresses:
 
-*   **Permission**
-*   **that an action is timely** (also expressed through the gerundive (⟪कृत्य⟫))
-*   **Blessing wish**
+*   **ܐܘܪܚܢܘܬܐ**
+*   **ܕܡܢ ܟܬܒܐ ܗܘ** (ܠܦܡܣܟܢ ܒܨܘܪܬ ܓܝܪܘܿܕܝܘܢ ܐܬܝܕܥ) (⟪कृत्य⟫))
+*   **ܒܪܟܬ ܐܠܗܐ**
 :::
-Examples:
+ܡܕܥ:
 
 ::: indent
 ⟪एहि⟫ ⟪।⟫ "Come!"
@@ -44,7 +44,7 @@ Examples:
 
 ⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟩ or Optative: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ "Should I study the Veda?"
 
-⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟩ or Gerundive: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ "Make a knife!" ; "You may make a knife." ; "It is time for you to make a knife."
+⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟩ או בינוני עתידי: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ "עשה סכין!" ; "אתה יכול לעשות סכין." ; "זה הזמן עבורך לעשות סכין."
 
 ⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ "May you live long!"
 :::
@@ -56,33 +56,33 @@ Examples:
 ::: indent
 ⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ "Please enter!"
 
-⟪निषद्यताम्⟫ ⟪।⟫ "Please, take a seat!"
+⟪निषद्यताम्⟫ ⟪।⟫ "ܡܕܥܟ، ܐܬܒܘ!"
 :::
-In the imperative of classical Sanskrit, the forms of the first person are ancient subjunctive forms. The Vedic subjunctive is primarily the mood that expresses a wish: "Let us go!" "Let us go!"
+ܒܨܘܪܬ ܦܘܩܕܢܐ ܕܣܢ̈ܣܟܪܝܘܬ ܩܕܡܝܐ، ܣܘܪ̈ܬ ܦܠܓܐ ܕܡܢܐ ܪܒܝܥܝܐ. ܦܘܩܕܢܐ ܪܒܝܥܝܐ ܗܘ ܠܓܪܡܐ ܕܡܢ̈ܗܝ ܠܓܪܡܐ: "ܢܟܘܠ!" "ܢܟܘܠ!"
 
 ::: grammar-box
-The imperative is formed from the present stem.
+ܦܘܩܕܢܐ ܗܘ ܡܠܝ̈ܐ ܡܢ ܫܪ̈ܫ ܕܙܒܢܐ.
 :::
-## 47.2. Formation of the Imperative (⟪लोट्⟫) thematic present stems
+## 47.2. ܨܘܪܬܐ ܕܦܘܩܕܢܐ (ܠܘܛ) ܕܫܪ̈ܫܐ ܕܙܒܢܐ ܗܫܝܐ ܡܠܝ̈ܐ
 
-### 47.2.1. Endings of the Imperative on thematic present stems
+### 47.2.1. ܫܘܠܡ̈ܐ ܕܦܘܩܕܢܐ ܥܠ ܫܪ̈ܫܐ ܕܙܒܢܐ ܕܗܫܐ ܬܡܝܡ̈ܐ
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **Endings** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
-| **2. Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
-| **3. Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
+| **ܐܘܪ̈ܚܝܢ** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **ܠܦܪ̈ܘܿܟ 1** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
+| **ܠܦܪ̈ܘܿܟ 2** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
+| **ܠܦܪ̈ܘܿܟ 3** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
-Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt when expressing a blessing:
+ܡܕܥ: ¹ ܐܘܪ̈ܚܝ ܕܠܦܪ̈ܘܿܟ 2 ܘ3 ܣܓܕܐ ܡܫܬܥܒܪ̈ܝܢ ܒـ-tāt ܐܘܪ̈ܚܝܢ ܕܒܪ̈ܟܬܐ:
 
 ::: indent
 ⟪भद्रो⟫ ⟪भवतात्⟫ "May you be happy!" "May he be happy!"
 
 ⟪शुभं⟫ ⟪भवतु⟫ or ⟪शुभं⟫ ⟪भवतात्⟫ "May it be good!" "All good!"
 :::
-### 47.2.2. First Present Class (⟪भ्वादि⟫)
+### 47.2.2. ܕܪܓܬܐ ܩܕܡܝܬܐ ܕܙܒܢܐ ܗܫܝܐ (⟪ܒܗܘܐܕܝ⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -92,7 +92,7 @@ Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt when expres
 | **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \&lt;⟪भवस्व⟫\&gt; | \&lt;⟪भवध्वम्⟫\&gt; |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \&lt;⟪भ्वताम्⟫\&gt; | \&lt;⟪भवन्ताम्⟫\&gt; |
 :::
-### 47.2.3. Sechste Präsensklasse (⟪तुदादि⟫)
+### 47.2.3. ܕܪܓܐ ܫܬܝܬܝܐ ܕܙܒܢܐ ܕܗܫܐ (⟪ܬܘܕܐܕܝ⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -108,7 +108,7 @@ Abb.: ⟪प्रविशत⟫
 Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
 (Bildquelle: [Details](/arc/licenses#lekt4702))
 :::
-### 47.2.4. Vierte Präsensklasse (⟪दिवादि⟫)
+### 47.2.4. ܕܪܓܐ ܪܒܝܥܝܐ ܕܙܒܢܐ ܗܫܝܐ (ܕܝܘܐܕܝ)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -123,7 +123,7 @@ Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, �
 Fig.: ⟪नृत्यत⟫
 (Image source: [Details](/arc/licenses#lekt4701))
 :::
-### 47.2.5. Tenth Present Class (⟪चुरादि⟫) and Causatives
+### 47.2.5. ܕܪܓܐ ܕܥܣܪܐ ܕܙܒܢܐ ܗܫܝܐ (ܟܘܪܐܕܝ) ܘܡܥܠܢ̈ܐ
 
 ⟪चुर्⟫ 10U
 
@@ -135,7 +135,7 @@ Fig.: ⟪नृत्यत⟫
 | **2. Person** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
 :::
-### 47.2.6. Passiv
+### 47.2.6. ܡܬܡܨܝܢܘܬܐ
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -147,7 +147,7 @@ Fig.: ⟪नृत्यत⟫
 | **2. Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::
-## 47.3. Übung
+## 47.3. ܬܪܓܠܐ
 
 A) Translate:
 
@@ -209,7 +209,7 @@ B.) Translate into Sanskrit (use the imperative):
 
 12\. We shall go to Benares (⟪पद्⟫).
 
-13\. They (pl.) shall worship the gods with a sacrifice as hosts of sacrifice.
+13\. ܗܘܢ (pl.) יܬܒܥܘ ܠܐܠ̈ܗܐ ܒܩurbānā ܟܣܝ̈ܦܐ
 
 23\. We desire to dwell in your house.
 
@@ -241,7 +241,7 @@ B.) Translate into Sanskrit (use the imperative):
 
 28\. The horse shall pull the load.
 
-29\. We wish to bring order to the worlds.
+29\. אֲנָחְנוּ מַשְׂכִּילִין לְאַתְקְנָא עַלמַיָּא.
 
 30\. Drink the draught!
 

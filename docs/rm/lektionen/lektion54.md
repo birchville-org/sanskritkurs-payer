@@ -113,7 +113,7 @@ Determinai en la Bhagavadgītā II Triṣṭubhs e Jagatīs.
 
 Exempl d'ina recitaziun: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Access il 2009-01-28
 
-## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫)
+## 54.5. Tips da furmaziun da l'aorist (⟪लुङ्⟫)
 
 ::: grammar-box
 **Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (⟪लङ्⟫) vorgesetzt wird.**
@@ -135,7 +135,7 @@ Dal aorist è en sanscrit mo indiciu e precativ usitads.
 
 La distribuziun dals radichals sin ils singuls tipus da furmaziun vesair tar ils singuls tipus
 :::
-## 54.6. Aorist da radichal
+## 54.6. Aorist da radical
 
 ::: grammar-box
 **Educaziun:**

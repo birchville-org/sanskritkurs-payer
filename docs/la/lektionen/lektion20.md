@@ -252,7 +252,7 @@ Tab.: Hermannus Jacobi
 :::
 Id fortasse verum est. Atqui Indos multa ornantia et descriptiva putare, quae nos "conceptu necessaria vel importantia" putaremus.
 
-## 20.9. Wortliste
+## 20.9. Vocabularium
 
 ⟪वा⟫ : aut
 
@@ -354,7 +354,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Haec pars est Ashram in Rishikesh ubi Bea
 
 ⟪चेष्ट्⟩ 1 A ⟪चेष्टते⟩ Participium Praesentis Passivi ⟪चेष्ट्यते⟩ Participium Perfecti Passivi ⟪चेष्टित⟩ : se movere
 
-## 20.10. Übung 1
+## 20.10. Exercitium 1
 
 Solvite haec composita ut Bahuvrīhi et/aut Dvandva et/aut Tatpuruṣa omnibus modis vobis possibilem videntibus in Sanscrito (exceptis compositis cum membro anteriori adverbiali). Traducite haec composita diversimode soluta in Germanice, date genus, casum et numerum compositi totalis.
 
@@ -440,7 +440,7 @@ Solvite haec composita ut Bahuvrīhi et/aut Dvandva et/aut Tatpuruṣa omnibus m
 80.  ⟪अकरुणस्य⟫
 81.  ⟪सोढदुःखाः⟫
 
-## 20.11. Übung 2
+## 20.11. Exercitium II
 
 A) Translate and resolve the compounds in Sanskrit:
 
@@ -474,7 +474,7 @@ B) Versa in Sanscritum per composita:
 
 4\. Etiam mulieres Śūdrae, ut Dharma, habent non-violentiam, veritatem, puritatem, non-murmurationem, non-malitiam et patientiam.
 
-## 20.12. Übersetzungsübung
+## 20.12. Exercitium translationis
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪३३॥⟫
 

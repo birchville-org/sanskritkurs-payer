@@ -153,7 +153,7 @@ Un **-n-**, suivi d'une voyelle ou de **n, m, y, v**, est remplacé par **-ṇ-*
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
+## 10.4. Das Passif, Indikativ Präsens (yak = ⟪यक्⟫)
 
 ::: grammar-box
 **Formation :**
@@ -206,7 +206,7 @@ p. ex. **tan** 8 U.
    * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
    * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (de \*tn-ya-nte)
 
-## 10.5. Wortliste
+## 10.5. Liste de mots
 
 **gṛha** n. ⟪गृह⟫ : Maison
 
@@ -269,7 +269,7 @@ Fig. : ⟪विश्वामित्रः⟫
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : demander (quelqu'un : Acc. ; quelque chose : Acc.)
 - **saha** ⟪सह⟫ : avec, conjointement avec (aussi dans « combattre avec », etc.) (Postposition avec le instrumental)
 
-## 10.6. Übung
+## 10.6. Exercice
 
 **A) Formez la voix passive des formes verbales suivantes (avec traduction de la forme verbale) :**
 
@@ -334,7 +334,7 @@ Fig. : ⟪तन्तुवायः⟫
 9. Le kṣatriya vénère le SEIGNEUR avec un sacrifice. (Construction passive, sans utiliser le mot **yajña**)
 10. Par la générosité, un disciple de Bouddha atteint un ciel.
 
-## 10.7. Wortliste 2
+## 10.7. Liste de mots 2
 
 - **makṣikā** f. ⟪मक्षिका⟫ : mouche, abeille
 - **vraṇa** m. ⟪व्रण⟫ : plaie, erreur, dommage
@@ -361,7 +361,7 @@ Fig. : ⟪तन्तुवायः⟫
 - **iha** ⟪इह⟫ : ici
 - **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : être beau, briller
 
-## 10.8. Lese- und Übersetzungsübung
+## 10.8. Exercice de lecture et de traduction
 
 **Lisez et traduisez, puis mettez à la forme passive :**
 

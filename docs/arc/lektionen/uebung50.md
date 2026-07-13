@@ -6,27 +6,27 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 50
+# ܬܪܓܠܐ 50
 
-A) For the review of declension: The following verse contains all declension forms in the singular for **⟪गुरु⟫** m.:
+[A] לעיון דשליק: הפסוק הבא מכיל את כל צורות השליק בחד ל**⟪गुरु⟫** זכר:
 
 **⟪गुरुरेव⟫ ⟪गतिर्गुरुमेव⟫ ⟪भजे⟫**  
 **⟪गुरुणैव⟫ ⟪सहास्मि⟫ ⟪नमो⟫ ⟪गुरवे⟫ ⟪।⟫**  
 **⟪न⟫ ⟪गुरोः⟫ ⟪परमं⟫ ⟪शिशुरस्मि⟫ ⟪गुरोर्⟫**  
 **⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫**
 
-> My teacher is my refuge,  
-> I worship my teacher,  
-> I am with my teacher,  
-> Reverence to my teacher,  
-> There is nothing higher than the teacher,  
-> I am the child of my teacher,  
-> My heart is with my teacher,  
-> Teacher, protect me!
+> ܡܕܒܪܝ ܗܘ ܠܦܫܩܢܐ ܕܝܠܝ،  
+> ܐܫܬܚܐ ܠܡܕܒܪܝ،  
+> ܐܢܐ ܥܡ ܡܕܒܪܝ،  
+> ܫܘܚܠܐ ܠܡܕܒܪܝ،  
+> ܠܐ ܗܘܐ ܡܕܡ ܪܒܐ ܡܢ ܡܕܒܪܝ،  
+> ܐܢܐ ܘܠܕܐ ܕܡܕܒܪܝ،  
+> ܠܒܐ ܕܝܠܝ ܥܡ ܡܕܒܪܝ،  
+> ܡܕܒܪܝ، ܫܦܩܢܟ ܠܝ!
 
 ---
 
-## B) Translations
+## B) ܬܘܪ̈ܓܡܐ
 
 ### ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫
 
@@ -35,7 +35,7 @@ A) For the review of declension: The following verse contains all declension for
 **⟪तेन⟫ ⟪यायात्सतां⟫ ⟪मार्गम्⟫**  
 **⟪तेन⟫ ⟪गच्छन्न⟫ ⟪रिष्यते⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 
-> One should walk on the path of the good, on which the fathers have walked, on which the grandfathers have walked. If one walks on this path, then one suffers no harm.
+> ܡܶܫܪ̈ܐ ܝܬܝܪ̈ܐ ܠܰܦܘܿܟ ܒ݁ܶܫܪ̈ܐ ܕܰܢܝܼܚܘ ܠܶܗ ܐݣܳܒ̈ܝ̇ܘ ܕܰܢܝܼܚܘ ܠܶܗ ܐݣܳܒ̈ܝ̇ܘ. ܐݣܳܠ ܬܶܡܕܰܟ ܒ݁ܶܫܪ̈ܐ ܕܰܢܝܼܚܘ ܠܶܗ ܐݣܳܒ̈ܝ̇ܘ، ܠܰܐ ܬܶܫܟ݂ܘ.
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६३⟫
 
@@ -44,7 +44,7 @@ A) For the review of declension: The following verse contains all declension for
 **⟪कुलान्यकुलतां⟫ ⟪यान्ति⟫**  
 **⟪ब्राह्मणातिक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
-> Families become non-families through bad marriages, through omission of rites, through non-study of the Vedas, and through transgression against Brahmins.
+> ܣܘܟ̈ܠܐ ܕܝܬܝܪܘܬܐ ܠܐ ܒܝܬܐ ܗܘܢ̈ܝܢ ܒܟܠܐ ܕܪܥܝܐ ܢܩܘܟ̈ܬܐ، ܒܚܣܪܢܘܬܐ ܕܥܒܝ̈ܕܬܐ، ܒܠܐ ܫܡܥ̈ܢܘܬܐ ܕܠܦܛܪ̈ܐ، ܘܒܚܬܝܐ ܥܠ ܟ̈והֲנ̈ܝܐ.
 
 ### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪६०⟫
 
@@ -53,7 +53,7 @@ A) For the review of declension: The following verse contains all declension for
 **⟪यस्मिन्नेव⟫ ⟪कुले⟫ ⟪नित्यम्⟫**  
 **⟪कल्याणं⟫ ⟪तत्र⟫ ⟪वै⟫ ⟪ध्रुवम्⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 
-> A family in which the husband is always satisfied with the wife and the wife with the husband, in such a family is constant happiness certain.
+[0] > ܐܝܠܘܢ ܕܓܒܪܐ ܫܬܝܩ ܠܟܢܫܬܗ ܘܟܢܫܬܐ ܫܬܝܩܐ ܠܓܒܪܗ، ܒܟܠ ܝܘܡܐ ܫܠܡܬܐ ܗܝ
 
 ::: media
 ![](/images/uebung081.webp)
@@ -62,7 +62,7 @@ Fig.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्त
 :::
 ---
 
-### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: On the necessity of sacrifice
+### ⟪मनुस्मृति⟫ ⟪3⟫, ⟪75⟫ - ⟪76⟫: ܥܠ ܨܒܘܬܐ ܕܕܒܚܐ
 
 **⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫**  
 **⟪दैवे⟫ ⟪चैवेह⟫ ⟪कर्मणि⟫ ⟪।⟫**  
@@ -74,7 +74,7 @@ Fig.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्त
 **⟪आदित्याज्जायते⟫ ⟪वृष्टिर्⟫**  
 **⟪वृष्टेरन्नं⟫ ⟪ततः⟫ ⟪प्रजाः⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 
-> One should always engage in Vedic study and in the rites for the gods. For one who engages in the rites for the gods, indeed obtains this world of the animate and inanimate. The sacrifice that is rightly thrown into the fire goes to the sun, from the sun arises rain, from rain arises food, from that the creatures.
+> ܡܶܫܬ̈ܟܺܠ ܠܰܗ ܠܡܶܫܬ̈ܟ݁ܺܠ ܒܰܪܡܶܐ ܕܬ̈ܘܥܳܝܬ݁ܶܐ ܘܒܰܪܡܳܐ ܕܠܶܗ ܠܰܗ. ܟ݁ܢ ܡܶܫܬ̈ܟ݁ܺܠ ܒܰܪܡܳܐ ܕܠܶܗ ܠܰܗ, ܒܶܫܪ ܐܺܝܠܶܐ ܥܳܡܰܢ ܕܝܼܪ̈ܘܬ݁ܶܐ ܕܝܼܪ̈ܘܬ݁ܶܐ ܘܕܝܼܪ̈ܘܬ݁ܶܐ. ܟ݁ܢ ܡܶܫܬ̈ܟ݁ܺܠ ܒܰܪܡܳܐ ܕܠܶܗ ܠܰܗ, ܒܶܫܪ ܐܺܝܠܶܐ ܥܳܡܰܢ ܕܝܼܪ̈ܘܬ݁ܶܐ ܕܝܼܪ̈ܘܬ݁ܶܐ ܘܕܝܼܪ̈ܘܬ݁ܶܐ.
 
 ::: media
 ![](/images/uebung082.webp)
@@ -88,41 +88,41 @@ Fig.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪�
 **⟪हेयं⟫ ⟪दुःखमनागतम्⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**  
 **⟪द्रष्टृदृश्ययोः⟫ ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> To be abandoned is future suffering.  
-> The cause of this abandoning is the connection of the seer and the seen [= the perceiver and the perceived].
+> ܠܐܘܬܐ ܕܝܬܒܪ ܗܘܐ ܠܡܥܒܕ.  
+> ܫܪܝܪܘܬܐ ܕܗܠܟ ܗܢܐ ܗܘ ܝܘܬܪܐ ܕܡܫܟܠ ܘܝܘܬܪܐ ܕܡܫܟܠ.
 
 ---
 
-### ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: On Advisors of the King
+### ⟪ܟܰܘܛܺܝܠܺܝܝܰܐܪܬܰܫܰܐܣܬܪܰܐ⟫ ⟪ܐ⟫, ⟪ܝܗ⟫: ܥܰܠ ܝܳܥܽܘ̈ܛܶܐ ܕܡܰܠܟܳܐ
 
 **⟪न⟫ ⟪किंचिदवमन्येत⟫**  
 **⟪सर्वस्य⟫ ⟪शृणुयान्मतम्⟫ ⟪।⟫**  
 **⟪बालस्याप्यर्थवद्वाक्यम्⟫**  
 **⟪उपयुन्जीत⟫ ⟪पाण्डितः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 
-> [The King] should not disdain anything; he should listen to the opinion of everyone. A scholar also adopts the word of a boy, if it is significant.
+> [ܡܠܟܐ] ܠܝܣܬܘܿܩ ܟܠ ܐܪܙܐ، ܘܢܫ̈ܟ ܠܦܘܿܪܣܢ ܕܟܠ ܐܝܬ. ܘܚ̈כִים ܢܫ̈וּך ܠܡܕܒܪ ܕܝܘܿܬ، ܐܠܐ ܗܘ ܡܕ̈וּע.
 
 ---
 
-### ⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition of ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
+### ܡܢܘܣܡܪܝܬܝ 2, 140 - 142: ܬܚܘܡܐ ܕܐܟܪܝܐ, ܐܘܦܕܝܐܝ, ܓܘܪܘ
 
 **⟪उपनीय⟫ ⟪तु⟫ ⟪यः⟫ ⟪शिष्यं⟫**  
 **⟪वेदमध्यापयेद्द्द्विजः⟫ ⟪।⟫**  
 **⟪सकल्पं⟫ ⟪सरहस्यं⟫ ⟪च⟫**  
 **⟪तमाचार्यां⟫ ⟪प्रचक्षते⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
 
-> **Ācārya** is called the Twice-born who gives Upanayana to the student and then teaches him the Veda, the ritual, and the secret doctrine.
+> **ܐܲܟܵܪܳܐ** ܗܘ ܕܝܼܠܩ ܒܟܹܢܘܬܵܐ ܕܡܲܪ ܠܟܘܼܠ ܐܝܼܡܵܐ ܕܥܲܒܰܕ ܠܟܘܼܠ ܐܝܼܡܵܐ ܕܥܲܒܰܕ ܠܟܘܼܠ ܐܝܼܡܵܐ ܕܥܲܒܰܕ ܠܟܘܼܠ ܐܝܼ
 
 **⟪एकदेशं⟫ ⟪तु⟫ ⟪वेदस्य⟫**  
 **⟪वेदाङ्गान्यपि⟫ ⟪वा⟫ ⟪पुनः⟫ ⟪।⟫**  
 **⟪यो⟫ ⟪ऽध्यापयति⟫ ⟪वृत्त्यर्थम्⟫**  
 **⟪उपाध्यायः⟫ ⟪स⟫ ⟪उच्यते⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**
 
-> **Upādhyāya** is called the one who teaches a part of the Veda or the auxiliary sciences for the sake of his livelihood.
+> **ܘܦܐ̈ܕܝܵܐ** ܗܘ ܕܡܠܦ ܚܠܩ ܡܢ ܘܕܥ̈ܝܬܐ ܐܘ ܠܦܢ̈ܘܬܐ ܡܕܥܒܝܢ ܠܦܘܩ̈ܚܐ ܕܡܢܗ
 
 **⟪निषेकादीनि⟫ ⟪कर्माणि⟫**  
 **⟪यः⟫ ⟪करोति⟫ ⟪यथाविधि⟫ ⟪।⟫**  
 **⟪संभावयति⟫ ⟪चान्नेन⟫**  
 **⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫**
 
-> **Guru** is called the Brāhmaṇa who performs Niṣeka and the other rituals according to the rules and causes him to arise through food.
+> **ܓܘܪܐ** ܗܘ ܕܝܩܘܠ ܒܪܗܡܢ ܕܐܝܟ ܠܦܘܩܕܢܬܐ ܘܥܒܕ ܠܦܘܩܕܢ̈ܬܐ ܐ̈ܠܝܢ ܘܫܦܩ ܠܗ ܡܢ ܓܕܠܐ.

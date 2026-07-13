@@ -29,7 +29,7 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
 :::
-### 44.1.2. Achte Präsensklasse (⟪तनादि⟫)
+### 44.1.2. Huitième classe de présent (⟪tanādi⟫)
 
 ⟪तन्⟫ 8U
 
@@ -51,7 +51,7 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
 :::
-### 44.1.3. Neunte Präsensklasse (⟪क्र्यादि⟫)
+### 44.1.3. Neuvième classe de présent (⟪kryādi⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -210,7 +210,7 @@ Légende : Pour une bonne utilisation de « Ô » en allemand : **« Ô homme ! 
 
 **Les formes du vocatif au singulier sont présentées dans [Leçon 45](lektion45.md).**
 :::
-## 44.5. Wortliste
+## 44.5. Liste de mots
 
 ⟪प्रति⟫ Préfixe verbal : en arrière, à l’encontre, contre - vers
 
@@ -352,7 +352,7 @@ Voir :
 Fig. : ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4408))
 :::
-## 44.6. Übung
+## 44.6. Exercice
 
 A) Déterminez et traduisez les formes suivantes :
 

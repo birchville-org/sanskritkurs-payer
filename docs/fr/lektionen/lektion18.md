@@ -302,7 +302,7 @@ Fig. : ⟪उपनयनम्⟫
 
 ⟪प्रभृति⟫ f. : commencement
 
-## 18.5. Übung
+## 18.5. Exercice
 
 A) Traduisez le ⟪सुभाषित⟫ au début de la leçon.
 

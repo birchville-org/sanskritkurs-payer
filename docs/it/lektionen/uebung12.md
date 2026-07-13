@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Esercizio 12
 
-A) Formulate passive sentences in the past tense from the active sentences of [Lesson 7](lektion07.md), Exercise A, and for intransitive verbs and verbs of motion, formulate active sentences in the past tense.
+A) Formulare frasi passive al passato a partire dalle frasi attive dell'[Esercizio A della Lezione 7](lektion07.md), e per i verbi intransitivi e i verbi di moto, formulate frasi attive al passato.
 
 ⟪१⟫. ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इष्टः⟫ ⟪।⟫ ⟪देवीष्टा⟫ ⟪।⟫ ⟪विष्णुरिष्टः⟫ ⟪।⟫ ⟪ब्राह्मणेनाग्निरिष्टः⟫ ⟪।⟫ ⟪देवतेष्टा⟫ ⟪।⟫
 
@@ -24,7 +24,7 @@ A) Formulate passive sentences in the past tense from the active sentences of [L
 ⟪५⟫. Lo śūdra è stato vinto ⟪॥⟫
 ⟪शूद्रो⟫ ⟪जितः⟫ ⟪॥⟫
 
-B) Formulate the corresponding PPPs (Participi del Passato Passivo) for the verb forms of [Lesson 10](lektion10.md), Exercise A. Note that a form like sṛjati corresponds to PPPs in all three genders.
+[B0] B) Formulare i corrispondenti PPP (Participi del Passato Passivo) per le forme verbali della [Lezione 10](lektion10.md), Esercizio A. Si noti che una forma come sṛjati corrisponde a PPP in tutti e tre i generi.
 
 1. sṛjati ⟪सृजति⟫ : ⟪सृष्टः⟫ ⟪३⟫ (⟪सृष्टः⟫ ⟪।⟫ ⟪सृष्टा⟫ ⟪।⟫ ⟪सृष्टम्⟫)
 2. yudhyate ⟪युध्यते⟫ : ⟪युद्धः⟫ ⟪३⟫
@@ -49,7 +49,7 @@ B) Formulate the corresponding PPPs (Participi del Passato Passivo) for the verb
 21. pṛcchanti ⟪पृच्छन्ति⟫ : ⟪पृष्टाः⟫ ⟪३⟫
 22. tanvanti ⟪तन्वन्ति⟫ : ⟪तताः⟫ ⟪३⟫
 
-C) Convert the sentences of [Lesson 10](lektion10.md), Exercise C, into the passive voice in the past tense.
+[C) Trasforma le frasi dell'[Esercizio C della Lezione 10](lektion10.md) nella forma passiva al tempo passato.]
 
 1\. Il brāhmaṇa venera la dea. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 ⟪ब्रामणेन⟫ ⟪देवीष्टा⟫ ⟪।⟫

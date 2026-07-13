@@ -169,7 +169,7 @@ Classificaziun
 :::
 La meglra pronunzia cuntansescha ins cun leger las frastas, vers u pleds quasi lentamain e monotun cun exacta observaziun da la lungia dals vocals.
 
-## 1.3. Übung
+## 1.3. Exercizi
 
 **A) Leghì su las suentas paraulas:**
 

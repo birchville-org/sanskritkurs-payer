@@ -151,7 +151,7 @@ Ils auters casus dal singular sco neutrum
 ::: indent
 Ils auters casus dal plural sco neutrum
 :::
-## 49.3. Furmaziun nominala: ⟪कृत्⟫-suffix -as neutrum
+## 49.3. Furmaziun nominala: ⟪कृत्⟫-suffiz -as neutrum
 
 Cun il sufix ⟪कृत्⟫ -as vegnan formatds numerus sustantivs. La mai part dals èn abstracta u nomina actionis (parolas che designeschan l'acziun).
 

@@ -4,28 +4,28 @@ lesson_id: 35
 status: stable
 ---
 
-# Lektion 35
+# ܐܘܠܦܢܐ 35
 
-## 35.1. Perfekt Typ III: Starker Stamm Vollstufe/Dehnstufe
+## 35.1. Perfect Type III: Strong Stem Full Grade/Lengthened Grade
 
 ::: grammar-box
 **Education:**
 
-**starker Stamm:**
+**strong stem:**
 *   3.sg.P: lengthened grade
 *   2.sg.P: zero grade
 *   1.sg.P: optional zero grade or lengthened grade
 
-**schwacher Stamm:** siehe unter den Untertypen
+**weak stem:** see under the subtypes
 :::
-### 35.1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+### 35.1.1. ܓܡܝܼܪܵܐ ܕܕܽܘܟܬܵܐ IIIa: ܫܲܪܫܵܐ ܚܲܝܠܵܢܵܐ ܕܕܲܪܓܵܐ ܥܸܠܵܝܵܐ/ܡܲܬܚܵܢܵܐ، ܫܲܪܫܵܐ ܡܚܝܼܠܵܐ ܕܕܲܪܓܵܐ ܬܚܬܵܝܵܐ
 
 ::: grammar-box
 **Education:**
 
 :::
 ::: indent
-**schwacher Stamm:** Guṇa-Stufe
+**weak stem:** guṇa grade
 :::
 Wird gebildet von Wurzeln der Typen:
 *   (Consonant)-(Consonant) - i/ī/u/ū
@@ -35,7 +35,7 @@ Before a vowel-initial ending, the following replacements occur:
 *   -i/-ī becomes -iy
 *   -u/-ū becomes -uv
 *   -ṛ durch r
-Beispiele:
+Examples:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -45,7 +45,7 @@ Beispiele:
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfekt Typ IIIb: Starker Stamm Vṛddhi/Dehnstufe, schwacher Stamm Guṇa
+### 35.1.2. ܓܡܝܪܐ ܛܘܦܣܐ ܓܒ: ܫܰܪܫܳܐ ܚܰܝܠܳܢܳܐ ܒܪܺܝܕܕܺܝ/ܕܶܗܢܣܛܽܘܦܶܐ, ܫܰܪܫܳܐ ܡܚܺܝܠܳܐ ܓܽܘܢܰܐ
 
 ::: grammar-box
 **Education:**
@@ -56,8 +56,8 @@ Beispiele:
 :::
 Wird gebildet von Wurzeln der Typen:
 *   (Konsonant)-(Konsonant)-ṝ
-*   Konsonant-Konsonant-ṛ (d.h. Wurzeln auf -ṛ, denen mehrere Konsonanten vorangehen)
-Beispiele:
+*   consonant-consonant-ṛ (i.e. roots ending in -ṛ preceded by several consonants)
+Examples:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -65,42 +65,42 @@ Beispiele:
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-## 35.2. Perfekt Typ IV: Wurzeln auf -ā / -āi
+## 35.2. ܓܡܝܪܐ ܛܘܦܣܐ ܕ: ܫܰܪ̈ܫܶܐ ܥܰܠ -ܐ / -ܐܝ
 
 ::: grammar-box
 **Education:**
 
-**starker Stamm:**
+**strong stem:**
 *   3rd/1st sg. P Perfect ends in -au
 *   2nd sg. P : strong grade -ā or weak grade -i
 
-**schwacher Stamm:**
+**weak stem:**
 *   before consonant: low grade -i
 *   before vowel: low grade Ø
 
 Wird gebildet von Wurzeln auf -ā / -āi
 :::
-Beispiel:
+Example:
 
 | Wurzel | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
+## 35.3. ܡܫܠܡܢܐ ܕܕܡܘܬܐ ܚܡܝܫܝܬܐ: ܥܩܪ̈ܐ ܕܚܪ̈ܦܬܐ ܘܐܠܦ ܘܚܪ̈ܦܬܐ
 
 ::: grammar-box
 **Education:**
 
-**starker Stamm:**
+**strong stem:**
 *   3.sg.P: lengthened grade
 *   2.sg.P: zero grade
 *   1.sg.P: optional zero grade or lengthened grade
 
-**schwacher Stamm:** siehe Untertypen
+**weak stem:** see subtypes
 
 Wird gebildet von Wurzeln des Typs (Konsonant)-Konsonant-a-Konsonant
 :::
-### 35.3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
+### 35.3.1. ܓܡܝܪܐ ܛܘܦܣܐ ܗܐ: ܫܰܪܫܳܐ ܡܚܺܝܠܳܐ ܬܰܚܬܳܝܳܐ
 
 ::: grammar-box
 **Education:**
@@ -109,14 +109,14 @@ Wird gebildet von Wurzeln des Typs (Konsonant)-Konsonant-a-Konsonant
 ::: indent
 **Education:**
 :::
-**schwacher Stamm:** Guṇa-Stufe
+**weak stem:** guṇa grade
 *   ⟪गम्⟫
 *   ⟪हन्⟫
 *   ⟪जन्⟫
 *   ⟪वच्⟫
 *   ⟪वद्⟫
 *   ⟪यज्⟫
-Beispiele:
+Examples:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -124,57 +124,57 @@ Beispiele:
 | ⟪हन्⟫ 2P | sig[⟪जघान⟫] :brja-**ghān**-a | *⟪जघ्नुर्⟫* | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \&lt;⟪ऊदे⟫\&gt; | \&lt;⟪ऊदिरे⟫\&gt; |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-### 35.3.2. Perfekt Typ Vb: Schwacher Stamm Kontraktion (e-Typ)
+### 35.3.2. ܫܠܡܐ ܐܕܫܐ ܒ: ܫܪܫܐ ܟܪܝܗܐ ܟܢܘܫܝܐ (ܐܕܫܐ ܕ-ܐ)
 
 ::: grammar-box
 **Education:**
 
 :::
 ::: indent
-**schwacher Stamm:** keine Reduplikation. Ersetzung des -a- der Wurzel durch -e-
+**weak stem:** no reduplication. Replacement of the root's -a- by -e-
 (for explanation see Thumb-Hauschild 1,2 p. 286f.)
 :::
-Wird gebildet von Wurzeln mit -a- zwischen zwei einfachen Konsonanten, deren Anlautkonsonant in der Reduplikationssilbe nicht verändert wird (d.h. deren Anlautkonsonant kein Guttural, Aspirat oder h ist).
-Beispiel:
+Formed from roots with -a- between two simple consonants, whose initial consonant is not altered in the reduplication syllable (i.e. whose initial consonant is not a guttural, aspirate, or h).
+Example:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पच्⟫ 1U | ⟪पपाच⟫ | *⟪पे⟫*⟪चुर्⟫ | *⟪पे⟫*⟪चे⟫ | *⟪पे⟫*⟪चिरे⟫ |
 
-### 35.3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
+### 35.3.3. ܡܫܠܡܢܐ ܕܕܡܘܬܐ ܚܡܝܫܝܬܐ ܓ: ܥܩܪ̈ܐ ܕܚܪ̈ܦܬܐ ܘܐܠܦ ܘܚܪ̈ܦܬܐ. ܫܪܫܐ ܟܪܝܗܐ ܕܪܓܐ ܥܠܝܐ
 
 ::: grammar-box
 **Education:**
 
-**schwacher Stamm:** Vollstufe
+**weak stem:** full grade
 
-Wird gebildet von allen anderen Wurzeln mit mittlerem -a-, d.h. Wurzeln mit mittlerem -a-
-*   those that begin with two consonants
-*   those that begin with a guttural
-*   those that begin with an aspirate
-*   those that begin with h
+ܐܝܬ ܗܘ ܒܪܝܐ ܡܢ ܟܠ ܫܪܫ̈ܐ ܒܬܘܟܝܠܘܬ -a-, ܗዐ ܫܪܫ̈ܐ ܒܬܘܟܝܠܘܬ -a-
+*   ܐܠܝܢ ܕܡܬܚܠܦ̈ܐ ܒܪܫܡ ܬܩܠ
+*   ܐܠܝܢ ܕܡܬܚܠܦ̈ܐ ܒܪܫܡ ܓܘܟܠ
+*   ܐܠܝܢ ܕܡܬܚܠܦ̈ܐ ܒܪܫܡ ܣܘܬܡ
+*   ܐܠܝܢ ܕܡܬܚܠܦ̈ܐ ܒܪܫܡ h
 
 if they do not belong to Perfect Type Va.
 :::
-Beispiel:
+Example:
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-## 35.4. Wortliste
+## 35.4. ܡܠܘܐܐ
 
-**⟪नश्⟫** 4P **⟪नश्यति⟫** : to perish, to be destroyed, to disappear
+**⟪नश्⟫** 4P **⟪नश्यति⟫** :ܠܐ ܡܘܬ، ܠܐ ܒܪܝ، ܠܐ ܫܬܘܝ
 ::: indent
-**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
-**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :br
-**Caus. ⟪नाशयति⟫** :br
+**Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :ܒܪ
+**Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :ܒܪ
+**Caus. ⟪नाशयति⟫** :ܒܪ
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : to disappear, to perish, to be destroyed
+**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** :ܠܐ ܫܬܘܝ، ܠܐ ܡܘܬ، ܠܐ ܒܪܝ
 
 **⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : step, go
 ::: indent
@@ -210,7 +210,7 @@ Fig.: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
 (Image source: [Details](/arc/licenses#lekt3501))
 :::
-## 35.5. Exercise
+## 35.5. ܬܪܓܠܐ
 
 A) Forme die entsprechenden Perfektformen zu den folgenden Verbformen:
 
@@ -278,7 +278,7 @@ Yajña ceremony, Shiva ashram, Ganeshpuri.
 :::
 ⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 
-C) Transform the sentences of Exercise B) by replacing perfects with imperfects.
+[C) ܛܪܡ ܐܝܠܟܝ ܕܡܠܦܬܐ ܕܡܠܦܬܐ B) ܒܪܝܘܬܐ ܕܦܠܚܢܐ ܒܪܝܘܬܐ.]
 
 ::: deleteme-box
 

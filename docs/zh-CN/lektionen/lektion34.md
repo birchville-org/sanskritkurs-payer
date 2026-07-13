@@ -4,9 +4,9 @@ lesson_id: 34
 status: stable
 ---
 
-# Lektion 34
+# 第34课
 
-## 34.1. Das Perfekt (⟪लिट्⟫)
+## 34.1. 完成时（⟪लिट्⟫）
 
 在古典梵语中，完成时词干仅有直陈式和分词两种形式。
 
@@ -53,7 +53,7 @@ status: stable
 | **Ātmanepada** | **-e** | **-re** |
 
 :::
-### 34.2.3. Bindevokal -i-
+### 34.2.3. 连接元音 -i-
 
 ::: grammar-box
 **在第三人称复数词尾 -re 之前，总是插入连接元音 -i-；在其他以辅音开头的词尾之前，对于大多数词根也是如此。**
@@ -162,7 +162,7 @@ status: stable
 | ⟪अश्⟫ | ⟪आनशे⟫:brunregelmäßige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
-## 34.5. Perfekt Typ II: Starker Stamm in Hochstufe, schwacher Stamm in Tiefstufe
+## 34.5. 完成时类型 II:强词干为高级元音,弱词干为零级元音
 
 ::: grammar-box
 **由以下形式的词根构成：**
@@ -185,7 +185,7 @@ status: stable
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
 :::
-## 34.6. Wortliste
+## 34.6. 词汇表
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
@@ -259,7 +259,7 @@ status: stable
 
 **⟪कन्या⟫ f.:** 女孩，处女
 
-## 34.7. Übung
+## 34.7. 练习
 
 构成与以下动词形式在人称、数和性上相对应的完成时（Perfekt）形式：
 
@@ -295,7 +295,7 @@ status: stable
 30. ⟪कुप्यन्ति⟫
 31. ⟪इच्छन्ति⟫
 
-## 34.8. Übersetzungsübung
+## 34.8. 翻译练习]
 
 请翻译以下关于向婆罗门布施的文本，出自 ⟪पद्मपुराण⟫：
 
@@ -331,9 +331,9 @@ status: stable
 :::
 ::: deleteme-box
 
-**lekt3401:** Nandi-Stierstatue, Chamundi-Hügel, Mysore. [Bildquelle: Luna Park / Flickr. CC BY-NC-ND]
+**lekt3401:** Nandi公牛雕像，昌迪希山，迈索尔。[图片来源：Luna Park / Flickr. CC BY-NC-ND]
 
-**lekt3402:** Goldener Tempel (Harmandir Sahib), Amritsar. [Bildquelle: Wikipedia. GNU FDL]
+**lekt3402:** 金庙（哈曼迪尔·萨希卜），阿姆利则。[图片来源：维基百科. GNU FDL]
 
 **lekt3403:** 芝麻。[图片来源：维基百科。公有领域]
 
@@ -341,7 +341,7 @@ status: stable
 
 **lekt3405:** Lakshadweep群岛地图。[图片来源：CIA World Factbook。公有领域]
 
-**lekt3406:** Reisfeld in Indien。[图片来源：Ray Witlin / 世界银行。CC BY-NC-ND]
+**lekt3406:** 印度的稻田。[图片来源：Ray Witlin / 世界银行。CC BY-NC-ND]
 
-**lekt3407:** Hinduistisches Hochzeitsritual. [Bildquelle: BriceFR / Flickr. CC BY-NC-SA]
+**lekt3407:** 印度教婚礼仪式。[图片来源：BriceFR / Flickr. CC BY-NC-SA]
 :::

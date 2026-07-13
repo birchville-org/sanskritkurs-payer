@@ -185,7 +185,7 @@ Exemples:
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
 :::
-## 34.6. Wortliste
+## 34.6. Glista da pleds
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
@@ -260,7 +260,7 @@ Statua dal bue Nandi, Collinas da Chamundi, Mysore.
 
 **⟪कन्या⟫ f.:** giuvna, virginitat
 
-## 34.7. Übung
+## 34.7. Exercizi
 
 Formai las formas da perfet correspundentas en persuna, numer e genur per las suventas formas verbalas:
 
@@ -296,7 +296,7 @@ Formai las formas da perfet correspundentas en persuna, numer e genur per las su
 30. ⟪कुप्यन्ति⟫
 31. ⟪इच्छन्ति⟫
 
-## 34.8. Übersetzungsübung
+## 34.8. Exercizi da translaziun
 
 Traducir il suvent text dal ⟪पद्मपुराण⟫ davart donaziuns a Brahmanus:
 

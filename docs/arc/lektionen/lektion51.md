@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 51
+# ܡܠܦܢܐ 51
 
-## 51.1. ⟪उपपद⟫-Komposita
+## 51.1. ܐܘܦܦܕ-ܡ̈ܠܝܢ ܚܕܝܕ̈ܬܐ
 
 ::: grammar-box
 **⟪उपपद⟫-compounds (⟪उपपद⟩ n. "accompanying word") are ⟪तत्पुरुष⟩ with a verbal noun as the second member, which occurs only as the second member of compounds, not as an independent, standalone word. ⟪उपपद⟩ are formed with the ⟪कृत्⟩ suffixes**
@@ -100,22 +100,22 @@ Fig.: ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪ह�
 ⟪नेपाल⟫
 (Image source: [Details](/arc/licenses#lekt5102))
 :::
-## 51.2. Declension of stems ending in a simple consonant (except nasal, semivowel, -s)
+## 51.2. ܢܘܛܝܐ ܕܓܕܫ̈ܐ ܕܡܫܬܠܡܝܢ ܒܚܕܐ ܫܪܘܝܬܐ (ܠܒܪ ܡܢ ܢܚܝܪܝܬܐ, ܦܠܓܘܬ ܩܠܐ, -ܣ)
 
 ::: grammar-box
 **Stems that end in a simple consonant (except nasal, semivowel, -s) have no stem gradation. Declension occurs completely regularly by appending the regular case endings.**
 
-**Singular irregularity: in the Nom., Acc., Voc. pl. Neut. a nasal is inserted before the stem ending.**
+**סִינְגוּלָרִית אֵינוֹ סְדִיר: בְּנָמֶה, אַקוּסָטִיב, וְוקָאטִיב רַבּוּת נְקֵיבָה, נוּחָא מְסוֹרֶת לִפְנֵי סוֹף הַשָּׁרֶשׂ.**
 :::
-### 51.2.1. Stems with non-palatal stop
+### 51.2.1. ܫܲܪ̈ܫܹܐ ܕܠܵܐ ܦܵܠܵܛܵܠܵܝ̈ܳܐ
 
 ::: grammar-box
-**The usual sound change laws apply, i.e.**
-* **in final position stands the corresponding voiceless non-aspirate**
-* **before the -su of the locative plural, the final position is first replaced by the corresponding voiceless non-aspirate, then the corresponding sound changes occur**
-* **before a voiced consonant, the final position is replaced by the corresponding voiced non-aspirate.**
+**הַחֻקּוֹת הַצְּלוּלִים הָרְגִילִים חַלִּין, כלומר**
+* **בְּמָקוֹם אַחֲרוֹן עומד הְעָצוּר חָסַר שְׁמִיעָה הַמֻּתְאָם**
+* **לִפְנֵי ה-su של המקום הרבּוּת, מָקוֹם אַחֲרוֹן נִתְהַפֵּך תְּחִלָּה לְעָצוּר חָסַר שְׁמִיעָה הַמֻּתְאָם, ואז מתרחשים השינויים הצליליים המתאימים**
+* **לִפְנֵי עָצוּר מְדֻבָּק, מָקוֹם אַחֲרוֹן נִתְהַפֵּך לְעָצוּר מְדֻבָּק חָסַר שְׁמִיעָה הַמֻּתְאָם.**
 :::
-Examples:
+דוגמאות:
 
 ⟪शत्रुजित्⟫ 3 "Conquering Enemies"
 
@@ -152,17 +152,17 @@ etc.
 :::
 Complete paradigms in Kielhorn, Grammar pp. 16ff.
 
-### 51.2.2. Stämme auf palatale Verschlusslaute (c, ch, j), ś, ṣ
+### 51.2.2. ܫܪ̈ܫܐ ܥܠ ܩ̈ܠܐ ܦܠܛܠܝ̈ܐ ܕܡܬܚܒܫܢܘܬܐ (ܟ, ܟܗ, ܓ), ܫ, ܨ
 
 ::: grammar-box
-**Before a vowel-initial ending, the final sound of the stem remains unchanged.**
+**לפני סיום המתחיל בתנועה, הצליל הסופי של השורש נשאר ללא שינוי.**
 
 **Before the other endings, the following applies:**
 
-* **final -c and -j are replaced by k, and the stem is then treated as if it ended in -k**
-* **in some words (list in Kielhorn, Grammar p. 18) final -j is replaced by -ṭ**
-* **final -ch is replaced by -ṭ**
-* **final -ś and -ṣ are replaced by -ṭ — with some exceptions. In the exceptional cases, -ś and -ṣ are replaced by -k**
+* **סופית -c ו- j מוחלפות ב- k, וגזע אז מטופל כאילו מסתיים ב- -k**
+* **במילים מסוימות (רשימה בKielhorn, Grammar עמ' 18) סופית -j מוחלפת ב- -ṭ**
+* **סופית -ch מוחלפת ב- -ṭ**
+* **סופית -ś ו- ṣ מוחלפות ב- -ṭ — עם כמה חריגות. במקרים החריגים, -ś ו- ṣ מוחלפות ב- -k**
 
 **d. h.**
 
@@ -252,15 +252,15 @@ Fig.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
 (Image source: [Details](/arc/licenses#lekt5104))
 :::
-### 51.2.3. Stems ending in -h
+### 51.2.3. ܓܶܕܠ̈ܶܐ ܕܡܶܫܬܰܠܡܺܝܢ ܒ-ܗ
 
 ::: grammar-box
 **Before a vowel-initial ending, the -h remains unchanged.**
 
-**Before the other endings**
-* **-h is normally replaced by -ḍh**
-* **if the underlying root begins with d-, -h is replaced by -gh. The same applies to some other words optionally or obligatorily (compilation in Kielhorn, Grammar §80,2)**
-* **(in the final position of the root noun, -h is replaced by -dh)**
+**קוֹם לְמַאֲרָעָה דְּאַחֳרָנִין**
+* **-h מְבַטֵּל לְ-ḍh בְּעָלְמָא**
+* **אִם שׁוֹרַשָּׁא דְּבָתְרָה מִד- פָּתֵחַ, -h מְבַטֵּל לְ-gh. וְכָל כַּעֲבַדְתָּא דְּאַחֳרָנִין בְּעַל מַאֲמַר אוֹבָדוֹת (כְּלָלָא בְּקִילְפּוֹרן, דִּינָא §80,2)**
+* **(בְּסוֹף מַאֲרָעָה דְּשׁוֹרַשָּׁא, -h מְבַטֵּל לְ-dh)**
 
 **After these substitutions, the stem is further treated as if it ended in -ḍh, -gh, or -dh.**
 
@@ -306,10 +306,10 @@ Plural:
 Instr. ⟪ध्रुड्भिस्⟫ ⟪।⟫ ⟪ध्रुग्भिस्⟫
 Lok. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 :::
-## 51.3. Sandhi of initial h-
+## 51.3. ܣܰܢܕܺܝ ܕܗ-ܕܪܺܝܫܳܐ
 
 ::: grammar-box
-**Before an initial h-, a preceding stop is replaced by the corresponding voiced non-aspirate, and the initial h- is replaced by the corresponding voiced aspirate of that stop:**
+**לפני ה- ראשונית, תחליף קודם מוחלף בתחליף המתאים ללא חרטום, והה- הראשונה מוחלפת בתחליף המתאים עם חרטום של התחליף ההוא:**
 
 :::
 ::: indent
@@ -319,16 +319,16 @@ Lok. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 
 ⟪परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
 :::
-## 51.4. Sandhi von anlautendem ch-
+## 51.4. ܣܢܕܗܝ ܕܩܕܡܝܬܐ ܟܗ-
 
 ::: grammar-box
-**Initial ch- is replaced by cch- after a short vowel, after ⟪मा⟫ "not" and after ⟪आ⟫ "to":**
+**ܐܬܪܬܐ ܕܟ- ܡܫܬܢܝ ܠܥܒܕܐ cch- ܒܝܬ ܡܛܠ ܩܨܐ، ܒܝܬ ⟪मा⟫ "ܠܐ" ܘܒܝܬ ⟪आ⟫ "ܠܥܒܕ":**
 
 :::
 ::: indent
 ⟪न⟫ + ⟪छिन्दति⟫ » ⟪न⟫ ⟪च्छिन्दति⟫
 :::
-## 51.5. -ch- im Wortinnern
+## 51.5. -ܟ- ܒܓܰܘ ܡܶܠܬܳܐ
 
 ::: grammar-box
 **In the word interior, -ch- is replaced by -cch- after all vowels:**
@@ -337,9 +337,9 @@ Lok. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 ::: indent
 e.g. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 :::
-## 51.6. Word List
+## 51.6. ܡܠܘܐܐ ܕܡ̈ܠܝܢ
 
-⟪अजिन⟫ n.: antelope hide, esp. the hide of the black antelope (nilgai : _Antilope cervicapra_ L. ). Originally occurred throughout the Indian subcontinent from Punjab and Sindh to Bengal and from Nepal to Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) See:
+⟪अजिन⟫ n.: עוֹר אַנְטִילּוֹפָה, בִּמְיוּחָד עוֹר שׁוֹר הַשְּׂחָם (נִילְגַאי: _Antilope cervicapra_ L. ). בָּרָה תְחִלָּה בְכָל אַדְמַת תַּחֲמוֹר הוֹדוּ מִפָּנְגַב וְסִינְד לְבַעַל בָּרְג וּמִנֵּפָל לְקַנְיָקוּמָרִי (תָּמִית: கன்னியாகுமரி) רְאֵה:
 
 > **Walker's Säugetiere der Welt** / Ronald M. Nowak. -- 6. Aufl. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
 
@@ -354,19 +354,19 @@ Fig.:
 
 ⟪अरण्य⟫ n.: wilderness, forest
 
-⟪ऋतु⟫ m.: periodic event, season, time period, menstruation, time when the woman is fertile and has a right to intercourse with her husband.
+⟪ऋतु⟫ m.: אירוע מחזורי, עונה, תקופת זמן, וסת, הזמן שבו האישה פורייה ויש לה זיווג עם בעלה.
 
 ::: note-box
-See ⟪ऋतु⟫ in Manu III, 45-48: thereafter ⟪ऋतु⟫ lasts 16 days (according to the alternative translation: 20 days) from the beginning of the menstrual flow; sexual intercourse is forbidden on the first four days after the start of menstruation (according to the alternative translation: on the first eight (4 + 4) days), as well as on the 11th (or 15th) and 13th (or 18th) day. On even days the woman conceives sons, on odd days daughters. For the following, a ⟪ऋतु⟫ of a total of 16 days (not the alternative translation) is assumed, as most indigenous commentaries do, and which was therefore the prevailing view.
+ראה ⟪ऋतु⟫ במנו III, 45-48: לאחר מכן ⟪ऋतु⟫ נמשך 16 ימים (לפי התרגום החלופי: 20 ימים) מתחילת הווסת; יחסי מין אסורים בארבעה הימים הראשונים לאחר תחילת הווסת (לפי התרגום החלופי: בשמונה הימים הראשונים (4 + 4)), כמו כן ביום ה-11 (או 15) וביום ה-13 (או 18). בימים זוגיים האישה מתעברת בנים, בימים אי-זוגיים בנות. להלן, מניחים ⟪ऋतु⟫ של 16 ימים בסך הכל (ולא התרגום החלופי), כפי שרוב הפרשנים המקומיים עושים, וזה היה אכן הדעה הרווחת.
 
-Since ovulation occurs 14 days before the onset of menstruation, this determination of the fertile period nearly "guarantees" fertility for a menstrual cycle interval of 19 to 30 days. The forbidden days (11th and 13th) improve the probability of sexual intercourse on the 12th and 14th days, i.e., the probability of conception in a 28-day cycle (the lifespan of sperm in the woman is approximately 3 days). These regulations are as it were a positive application of Knaus-Ogino.
+מכיוון שהבשלת הביצית מתרחשת 14 ימים לפני תחילת הווסת, קביעה זו של התקופה הפורייה כמעט "מבטיחה" פוריות למחזור וסת בין 19 ל-30 ימים. הימים האסורים (היום ה-11 וה-13) משפרים את ההסתברות ליחסי מין ביום ה-12 וה-14, כלומר את ההסתברות להריון במחזור של 28 יום (תוחלת החיים של הזרע אצל האישה היא כ-3 ימים). תקנות אלו הן למעשה יישום חיובי של שיטת קנאוס-אוגינו.
 :::
 ::: media
 ![](/images/lekt5106.jpg)
-Fig.: ⟪ऋतुः⟫
-(Image source: [Details](/arc/licenses#lekt5106))
+איור: ⟪ऋतुः⟫
+(מקור התמונה: [פרטים](/arc/licenses#lekt5106))
 :::
-⟪एकत्र⟫ Adv.: at one place
+⟪एकत्र⟫ מילת תואר: במקום אחד
 
 ⟪जटा⟫ f.: hair braid (ascetic hairstyle)
 
@@ -401,11 +401,11 @@ Absol. -⟪शिष्य⟫
 ⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : distinguish
 
 ::: indent
-Pass. ⟪विशिष्यते⟫ : to differ from (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), to be better than (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), to be the best among (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
+ܡܠܦܢܘܬܐ. ⟪विशिष्यते⟫ : ܕܡܬܦܪܩܐ ܡܢ (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), ܕܝܬܝܪ ܡܢ (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), ܕܝܬܝܪ ܒܟܠ (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
 :::
-⟪समान⟫ 3: of the same kind, equal, similar; m.: peer
+⟪समान⟫ 3: ܕܡܢܘܚܬܐ, ܫܘܐ, ܡܠܦܢ; m.: ܚܒܪܐ
 
-⟪स्व⟫ 3: own, be (my, your etc.) Declined like ⟪सर्व⟫. In the Abl./Loc.sg.m.n and in the Nom.pl.m it can also be declined like ⟪देव⟫:
+⟪स्व⟫ 3: ܐܢܦܘܟ, ܗܘ (ܕܝܠܐ, ܕܟܢܐ etc.) ܡܬܪכב כְּ⟪सर्व⟫. ܒܐܓܠ/ܡܘܟܢ.m.n וּבְנוֹמ.pl.m ܐܦ ܡܬܪכב כְּ⟪देव⟫:
 
 ::: indent
 Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ ***⟪स्वात्⟫***
@@ -573,7 +573,7 @@ Absol. ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 ⟪शबर⟫ .:  Proper name of a non-Aryan tribe
 
-## 51.7. Übersetzungsübung
+## 51.7. ܬܪܓܠܐ ܕܬܘܪܓܡܐ
 
 ⟪१⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪९⟫ - ⟪१२⟫ ⟪आश्रमधर्मः⟫
 
@@ -584,23 +584,23 @@ Absol. ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 Explanation: -⟪अभिषेकौ⟫ Nom.Akk.Voc.Dual.masc. (Dualdvandva)
 
-⟪२⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟫ On the necessity of respecting the ⟪वर्नाश्रमधर्म⟫
+⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪२⟫⟫. ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪कौटिलीयार्थशास्त्र⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪१⟫⟫, ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪३⟫⟫, ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪१६⟫⟫ - ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪१७⟫⟫ ܥܠ ܕܝܢܐ ܕܟܬܒ ܠܡܕܥ ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪वर्नाश्रमधर्म⟫
 
 ::: indent
-⟪तस्मात्स्वधर्मं⟫ ⟪भूतानाम्⟫
-⟪राजा⟫ ⟪न⟫ ⟪व्यभिचारयेत्⟫ ⟪।स्⟫
-⟪स्वधर्मं⟫ ⟪संदधानो⟫ ⟪हि⟫
-⟪प्रेत्य⟫ ⟪चेह⟫ ⟪च⟫ ⟪नन्दति⟫ ⟪॥१६॥⟫
-⟪व्यवस्थितार्यमर्यादः⟫
-⟪कृतवर्णाश्रमस्थितिः⟫ ⟪।⟫
-⟪त्रय्याभिरक्षितो⟫ ⟪लोकः⟫
-⟪प्रसीदति⟫ ⟪न⟫ ⟪सीदति⟫ ⟪॥१७॥⟫
+⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪तस्मात्स्वधर्मं⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪भूतानाम्⟫⟫
+⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪राजा⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪न⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪व्यभिचारयेत्⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪।स्⟫⟫
+⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪स्वधर्मं⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪संदधानो⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪हि⟫⟫
+⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪प्रेत्य⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪चेह⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪च⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪नन्दति⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪॥१६॥⟫⟫
+⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪व्यवस्थितार्यमर्यादः⟫⟫
+⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪कृतवर्णाश्रमस्थितिः⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪।⟫⟫
+⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪त्रय्याभिरक्षितो⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪लोकः⟫⟫
+⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪प्रसीदति⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪न⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪सीदति⟫⟫ ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪॥१७॥⟫⟫
 :::
-⟪३⟫. ⟪बाण⟫ (7th cent. CE): ⟪कादम्बरी⟫ ed. K.P. Parab, 1896, p. 65ff.: Reflections of the Parrot ⟪वैशम्पायन⟫ on the life of a hunter:
+⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪३⟫⟫. ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪बाण⟫⟫ (ܣܕܪ 7ܕܥ): ⟪ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪कादम्बरी⟫⟫ ed. K.P. Parab, 1896, p. 65ff.: ܐܬܘܬܐ ܕܦܪܝܣ ܐܪܡ ܣܘܓܠ ܕܟܢܫ⟪वैशम्पायन⟫ ܥܠ ܚܝܠܐ ܕܢܒܪ
 
 ⟪आसीच्च⟫ ⟪मे⟫ ⟪मनसि⟫ -- ⟪अहो⟫ ⟪मोहप्रायमेतेषां⟫ ⟪जीवितं⟫ ⟪साधुजनगर्हितं⟫ ⟪च⟫ ⟪चरितम्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ ⟪।⟫ ⟪पुरुषपिशितोपहारे⟫ ⟪धर्मबुद्धिः⟫ , ⟪अहारः⟫ ⟪साधुजनगर्हितो⟫ ⟪मधुमांसादिः⟫ , ⟪श्रमो⟫ ⟪मृगया⟫ , ⟪शास्त्रं⟫ ⟪शिवारुतम्⟫ , ⟪समुपदेष्टारः⟫ ⟪सद्सतां⟫ ⟪कौशिकाः⟫ , ⟪प्रज्ञा⟫ ⟪शकुनिज्ञानम्⟫ , ⟪परिचिताः⟫ ⟪श्वानः⟫ , ⟪राज्यं⟫ ⟪शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि⟫ ⟪क्रुरकर्मसाधनानि⟫ ⟪धनूंषि⟫ , ⟪सहाया⟫ ⟪विषदिग्धमुखा⟫ ⟪भुजंगा⟫ ⟪इव⟫ ⟪सायकाः⟫ , ⟪गीतमुत्सादकारि⟫ ⟪मुग्धमृगाणाम्⟫ , ⟪कलत्राणि⟫ ⟪बन्दीगृहीताः⟫ ⟪परयोषितः⟫ , ⟪क्रूरात्मभिः⟫ ⟪शार्दूलैः⟫ ⟪सह⟫ ⟪संवासः⟫ , ⟪पशुरुधिरेण⟫ ⟪देवतार्चनम्⟫ , ⟪मांसेन⟫ ⟪बलिकर्म⟫ , ⟪चौर्येण⟫ ⟪जीवनम्⟫ , ⟪भूषणानि⟫ ⟪भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव⟫ ⟪कानने⟫ ⟪निवसन्ति⟫ ⟪तदेवोत्ख्यातमूलमशेषतः⟫ ⟪कुर्वत⟫ ⟪इति⟫ ⟪चिन्तयत्येव⟫ ⟪मयि⟫ ⟪शबरसेनापतिः⟫ ⟪समुपाविशत्⟫ ⟪॥⟫
 
-⟪४⟫. Commentary of ⟪भानुचन्द्र⟫ (16th century) on the preceding section of ⟪कादम्बरी⟫ (this exercise should be translated under the guidance of a teacher. If such is not available, it may be skipped)
+⟪४⟫. מְבָאֲרָה דִּלְ⟪भानुचन्द्र⟫ (מַתָּא דִּסְלֵיק) עַל פֻּרְקָא קַדְמָאָה דִּלְ⟪कादम्बरी⟫ (דָא מִצְוָה לְמֶחֱזֵי בְּרַבָּנָא. אִלּוּ לָאו קָאים, שְׁקֵיל וְשַׂדֵּי)
 
 ⟪आसीच्चेति⟫ ⟪।⟫ ⟪मे⟫ ⟪मम⟫ ⟪मनसि⟫ ⟪चित्त⟫ ⟪आसीद्बभूव⟫ ⟪।⟫ ⟪खेद⟫ ⟪इति⟫ ⟪शेषः⟫ ⟪।⟫ ⟪तदेव⟫ ⟪दर्शयति⟫ -- ⟪अहो⟫ ⟪इत्यादिना⟫ ⟪।⟫ ⟪अहो⟫ ⟪इत्याश्चर्ये⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪भिल्लानां⟫ ⟪जीवितं⟫ ⟪प्राणितं⟫ ⟪मोहो⟫ ⟪ऽज्ञानं⟫ ⟪प्रायं⟫ ⟪प्रचुरं⟫ ⟪यत्र⟫ ⟪तादृशम्⟫ ⟪।⟫ ⟪चः⟫ ⟪पुनरर्थे⟫ ⟪।⟫ ⟪चरितमाचरणं⟫ ⟪साधुजनैः⟫ ⟪सज्जनजनैर्गर्हितं⟫ ⟪निन्दितम्⟫ ⟪।⟫ ⟪तदेव⟫ ⟪विशेषतो⟫ ⟪दर्शयति⟫ -- ⟪तथा⟫ ⟪हीति⟫ ⟪।⟫ ⟪पुरुषेति⟫ ⟪।⟫ ⟪पुरुषस्य⟫ ⟪पुंसो⟫ ⟪यत्पिशितं⟫ ⟪मांसं⟫ ⟪तस्य⟫ ⟪य⟫ ⟪उपहारो⟫ ⟪भगवत्यै⟫ ⟪नैवेद्यदर्शनं⟫ ⟪तस्मिन्धर्मबुद्धिः⟫ ⟪श्रेयोधीः⟫ ⟪।⟫ ⟪आहार⟫ ⟪इति⟫ ⟪।⟫ ⟪आहारः⟫ ⟪प्रत्यवसानं⟫ ⟪साधुजनैर्गर्हितो⟫ ⟪निन्दितो⟫ ⟪मधुमांसादिर्मधुः⟫ ⟪मद्यं⟫ ⟪माक्षिकं⟫ ⟪वा⟫ ⟪।⟫ ⟪मांसं⟫ ⟪प्रतीतम्⟫ ⟪।⟫ ⟪ते⟫ ⟪आदौ⟫ ⟪यस्येति⟫ ⟪बहुव्रीहिः⟫ ⟪।⟫ ⟪आदिशब्दात्कन्दादिपरिग्रहः⟫ ⟪।⟫ ⟪श्रम⟫ ⟪इति⟫ ⟪।⟫ ⟪श्रमः⟫ ⟪शक्तिसाधनायासो⟫ ⟪मृगयाखेटकः⟫ ⟪।⟫ ⟪शास्त्रमिति⟫ ⟪।⟫ ⟪शिवा⟫ ⟪सृगाली⟫ ⟪तस्य⟫ ⟪रुतं⟫ ⟪शब्दितं⟫ ⟪शास्त्रमुच्चस्वरवेदपाठः⟫ ⟪।⟫ ⟪प्रबोधजनकत्वसाम्यात्तदुपमानम्⟫ ⟪।⟫ ⟪सदिति⟫ ⟪।⟫ ⟪सदसतां⟫ ⟪शुभाशुभानां⟫ ⟪समुपदेष्टारो⟫ ⟪बोधकाः⟫ ⟪कौशिका⟫ ⟪उलूकाः⟫ ⟪।⟫ ⟪प्रज्ञेति⟫ ⟪।⟫ ⟪शकुनयः⟫ ⟪पत्त्रिणस्तेषां⟫ ⟪स्थूलमहत्त्वादिना⟫ ⟪ज्ञानं⟫ ⟪तदेव⟫ ⟪प्रज्ञा⟫ ⟪विवेकबुद्धिः⟫ ⟪।⟫ ⟪परीति⟫ ⟪।⟫ ⟪श्वानः⟫ ⟪सारमेयाः⟫ ⟪परिचिता⟫ ⟪विश्वासपालत्राणि⟫ ⟪।⟫ ⟪राज्यमिति⟫ ⟪।⟫ ⟪शून्यासु⟫ ⟪जनरहितासु⟫ ⟪विन्ध्याटवीषु⟫ ⟪राज्यं⟫ ⟪स्वामित्वम्⟫ ⟪।⟫ ⟪आपानकेति⟫ ⟪।⟫ ⟪उत्सवः⟫ ⟪संतुष्टिकार्यं⟫ ⟪तदेवापानमेवापानकम्⟫ ⟪।⟫ ⟪स्वार्थे⟫ ⟪कः⟫ ⟪।⟫ ⟪पानगोष्ठिका⟫ ⟪।⟫ ⟪मित्राणीति⟫ ⟪।⟫ ⟪क्रूरं⟫ ⟪यत्कर्म⟫ ⟪तत्साधनानि⟫ ⟪तद्धेतुभूतानि⟫ ⟪धनूंष्येव⟫ ⟪चापान्येव⟫ ⟪मित्राणि⟫ ⟪सहृदः⟫ ⟪।⟫ ⟪हितचिन्तकानीति⟫ ⟪यावत्⟫ ⟪।⟫ ⟪सहाया⟫ ⟪इति⟫ ⟪।⟫ ⟪विषेण⟫ ⟪दिग्धं⟫ ⟪मुखमाननं⟫ ⟪येषामेवंविधाः⟫ ⟪सायका⟫ ⟪बाणास्त⟫ ⟪एव⟫ ⟪सहाया⟫ ⟪इष्टकार्यकर्तृत्वात्साहाय्यकारिणः⟫ ⟪।⟫ ⟪क⟫ ⟪इव⟫ ⟪।⟫ ⟪भुजंगाः⟫ ⟪सर्पा⟫ ⟪इव⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪विषदिग्धमुखत्वं⟫ ⟪स्वाभाविकम्⟫ ⟪।⟫ ⟪तेषामौपाधिकमिति⟫ ⟪भावः⟫ ⟪।⟫ ⟪गीतमिति⟫ ⟪।⟫ ⟪मुग्धा⟫ ⟪अनभिज्ञा⟫ ⟪ये⟫ ⟪मृगा⟫ ⟪हरिणास्तेषामुत्साहकारि⟫ ⟪स्तब्धताविधायि⟫ ⟪गीतं⟫ ⟪गानम्⟫ ⟪।⟫ ⟪कलत्रेति⟫ ⟪।⟫ ⟪परयोषितो⟫ ⟪ऽन्यस्त्रिय⟫ ⟪एव⟫ ⟪बन्दी⟫ ⟪ग्रहकस्तद्रूपत्वेन⟫ ⟪गृहीताः⟫ ⟪स्त्रीकृताः⟫ ⟪कलत्राणि⟫ ⟪स्वपत्न्यः⟫ ⟪।⟫ ⟪क्रूरेति⟫ ⟪।⟫ ⟪क्रूरात्मभिर्दुष्टात्मभिः⟫ ⟪शार्दुलैश्चित्रकैः⟫ ⟪समं⟫ ⟪संवासः⟫ ⟪सहावस्थानम्⟫ ⟪।⟫ ⟪पश्वेति⟫ ⟪।⟫ ⟪पशवो⟫ ⟪महिषास्तेषां⟫ ⟪रुधिरेण⟫ ⟪रक्तेन⟫ ⟪देवतार्चनं⟫ ⟪देवपूजनम्⟫ ⟪।⟫ ⟪मांसेनेति⟫ ⟪।⟫ ⟪मांसेन⟫ ⟪पिशितेन⟫ ⟪बलिर्हन्तकरस्तत्कर्म⟫ ⟪तत्कृत्यम्⟫ ⟪।⟫ ⟪चौर्येणेति⟫ ⟪।⟫ ⟪चौर्येण⟫ ⟪परद्रव्यापहारेण⟫ ⟪जीवनं⟫ ⟪प्राणधारणम्⟫ ⟪।⟫ ⟪भूषणनीति⟫ ⟪।⟫ ⟪भूषणान्याभरणानि⟫ ⟪भुजंगमणयः⟫ ⟪सर्परत्नानि⟫ ⟪।⟫ ⟪पर्वतवासित्वात्तेषां⟫ ⟪ते⟫ ⟪सुलभा⟫ ⟪इति⟫ ⟪भावः⟫ ⟪।⟫ ⟪वनेति⟫ ⟪।⟫ ⟪वनकरिणामरण्यहस्तिनां⟫ ⟪मदैर्दानवारिभिरङ्गरागो⟫ ⟪विलेपनम्⟫ ⟪।⟫ ⟪यस्मिन्निति⟫ ⟪।⟫ ⟪अनिर्दिष्टनामनि⟫ ⟪कानने⟫ ⟪वने⟫ ⟪निवसन्ति⟫ ⟪निवासं⟫ ⟪कुर्वन्ति⟫ ⟪तदेव⟫ ⟪काननमशेषतः⟫ ⟪समग्रत⟫ ⟪उत्खातमुत्पाटितं⟫ ⟪मूलं⟫ ⟪मध्यभागो⟫ ⟪यस्यैवंभूतं⟫ ⟪कुर्वते⟫ ⟪विदधत⟫ ⟪इति⟫ ⟪पूर्वोक्तप्रकारेण⟫ ⟪मयि⟫ ⟪चन्तयति⟫ ⟪ध्यायति⟫ ⟪सत्येव⟫ ... ⟪॥⟫
 

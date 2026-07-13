@@ -641,7 +641,7 @@ Paradigme :
 | **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
 :::
-## 61.7. Deklination der Nomina auf -ai, -o, -au
+## 61.7. Déclinaison des noms en -ai, -o, -au
 
 ::: grammar-box
 **Devant une consonne, ces radicaux se terminent par -ai, -o, -au ; devant une voyelle par -āy, -av, -āv**
@@ -662,7 +662,7 @@ Fig. : ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 :::
 ## 61.8. Restliche Pronomina
 
-### 61.8.1. Personalpronomen des Dual
+### 61.8.1. Pronoms personnels du duel
 
 Kielhorn, Grammatik § 177 :
 

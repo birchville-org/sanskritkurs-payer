@@ -33,7 +33,7 @@ Résultat : ⟪भक्ता⟫ ⟪विष्णुं⟫ ⟪पश्यन
 
 Les règles correspondent donc, en règle générale, à celles de l’emploi de l’Ātmanepada (⟪आत्मनेपद⟫) pour les verbes Ubhayapada (⟪उभयपद⟫).
 
-## 29.2. Wortliste
+## 29.2. Liste de mots
 
 Préfixes verbaux :
 

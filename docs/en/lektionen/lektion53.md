@@ -5,7 +5,7 @@ lesson_id: 53
 
 # Lesson 53
 
-## 53.1. The Dual (⟪द्विवचन⟫ n.) of Nouns
+## 53.1. नामपदानां द्विवचनम्
 
 ::: grammar-box
 **The Dual (⟪द्विवचनम्⟫) is used to designate "two":**
@@ -41,7 +41,7 @@ Fig.: ⟪मार्जारयुगम्⟫
 Fig.: ⟪हस्तौ⟫
 (Image source: [Details](/en/licenses#lekt5302))
 :::
-## 53.2. Dual Endings of Nouns
+## 53.2. नामपदानां द्विवचनप्रत्ययाः
 
 ::: grammar-box
 |   | Maskulininum/Feminine :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neuter :br ⟪नपुंसक⟫ 
@@ -53,7 +53,7 @@ Fig.: ⟪हस्तौ⟫
 ::: grammar-box
 **For nouns with stem gradation, the Nom.Acc.Voc. dual m.f. has the strong stem**
 :::
-## 53.3. The Dual of Consonant-Stemmed Nouns
+## 53.3. हलन्तानां द्विवचनम्
 
 ### 53.3.1. Stems without Stem Gradation
 
@@ -194,7 +194,7 @@ Fig.: ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
-## 53.4. The Dual of Vowel-final Stems
+## 53.4. अजन्तानां द्विवचनम्
 
 **Stems in -a**
 
@@ -320,7 +320,7 @@ Examples:
 Fig.: ⟪पितापुत्रौ⟫
 (Image source: [Details](/en/licenses#lekt5308))
 :::
-## 53.6. The Dual of Pronouns
+## 53.6. सर्वनाम्नां द्विवचनम्
 
 ::: grammar-box
 |   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫ 

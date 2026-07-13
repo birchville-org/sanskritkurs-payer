@@ -112,13 +112,13 @@ L’⟪पाद⟫ dans l’⟪इन्द्रवज्रा⟫ et l’⟪�
 ::: indent
 « Lorsque deux Pādas, qui présentent les caractéristiques de l’Indravajrā ou de l’Upendravajrā, sont impliqués dans un vers, il s’agit d’Upajātis. Même lorsque d’autres mètres sont mélangés dans un vers, on l’appelle Upajāti. »
 :::
-## 54.4. Übung zur Metrik
+## 54.4. Exercice zur Metrik
 
 Déterminez dans le Bhagavadgītā II les Triṣṭubhs et les Jagatīs.
 
 Exemple de récitation : [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Consulté le 2009-01-28
 
-## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫)
+## 54.5. Types de formation de l'aoriste (⟪luṅ⟫)
 
 ::: grammar-box
 **Ce qui est commun à tous les types de formation de l’aoriste (⟪लुङ्⟫) est l’augment a-, qui est placé avant selon les mêmes règles que dans l’imparfait (⟪लङ्⟫).**
@@ -184,7 +184,7 @@ Pour ⟪भू⟫ 1re personne, le racine aoriste se forme ainsi :
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | *⟪अभूवन्⟫* (!!!) |
 :::
-### 54.6.1. Der Aorist der 3.sg.Passiv
+### 54.6.1. Der Aorist der 3.sg.Passif
 
 Une forme spéciale de l'aoriste de la racine est l'aoriste à la 3e personne du singulier du passif. Celui-ci peut être formé à partir de toutes les racines.
 

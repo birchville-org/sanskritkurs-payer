@@ -22,13 +22,18 @@ features:
     details: Construit sur les fondations de VitePress pour une vitesse maximale.
 ---
 
-::: tip Version 1.5 — Hebrew Translation & Typography
-**Nouveau dans v1.5 (juin 2026) :**
 
-- **Nouvelle langue (hébreu) :** Le cours entier est désormais également disponible en hébreu (avec prise en charge RTL).
-- **Typographie sanskrite :** Uniformisation à l'échelle du système et mise en évidence colorée du devanāgarī dans toutes les langues de traduction.
-- **Améliorations PWA :** Stabilisation accrue de l'application web progressive pour l'utilisation hors ligne.
+::: note-box  Version 1.6 — Global Integrity & Stabilität
+**Noutăți în v1.6 (iulie 2026):**
 
-**Remarques et rapports d'erreurs :** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Contribuer en tant qu'auteur ou correcteur :** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+- **Finalizare la 100% în 19 limbi:** Arabă, ebraică, aramaică, chineză simplificată, indoneziană, hindi, tamilă, punjabi, latină, română și rumantsch grischun sunt acum traduse integral mecanic (calitate nesigurată; studiu de fezabilitate pur, fără corecturi).
+- **Suport RTL:** Suport nativ de layout pentru limbi cu scriere de la dreapta la stânga (arabă, ebraică), inclusiv interfață complet localizată.
+- **PWA & Offline-First:** Utilizare offline completă și fără erori a tuturor conținuturilor cursului, pe toate versiunile lingvistice active.
+- **Versiune pentru autori & Editor:** Editor complet pentru corectori (vizualizator QA) cu sistem de rezervă asincron AI pentru traduceri în masă extrem de stabile.
+
+**Observații și rapoarte de erori binevenite la:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Contribuie ca editor sau curator:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+
+- Pentru autori (și pentru cei care doresc să folosească un editor Markdown standalone ușor), este disponibil un editor open-source la https://github.com/marcodem/zentauri
+
 :::

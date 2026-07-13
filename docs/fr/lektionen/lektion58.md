@@ -19,7 +19,7 @@ status: stable
 | **2. ⟪मध्यमः⟫** | -thas | -**ī**the | -**ā**the |
 | **3. ⟪प्रथमः⟫** | -tas | -**ī**te | -**ā**te |
 :::
-## 58.2. Der Dual thematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
+## 58.2. Le duel des classes de présent thématiques : indicatif présent (⟪laṭ⟫)
 
 Devant -vas et -vahe, la voyelle thématique -a- est remplacée par -ā-.
 
@@ -33,7 +33,7 @@ Devant -vas et -vahe, la voyelle thématique -a- est remplacée par -ā-.
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
 | **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
-### 58.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
+### 58.2.2. Quatrième classe de présent (⟪divādigaṇaḥ⟫)
 
 Devant -vas et -vahe, la voyelle thématique -a- est remplacée par -ā-.
 
@@ -101,7 +101,7 @@ Parc national de Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪भविष्यतस्⟫ | ⟪भविष्येते⟫ |
 :::
-## 58.4. Der Dual Passiv (Suffix -⟪यक्⟫)
+## 58.4. Der Dual Passif (Suffix -⟪यक्⟫)
 
 ⟪तुद्⟫ 6U "pousser, frapper"
 
@@ -113,7 +113,7 @@ Parc national de Bandipur -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 :::
 ## 58.5. Le duel des classes de présent athématiques : Indicatif présent (⟪लट्⟫)
 
-### 58.5.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
+### 58.5.1. Deuxième classe de présent (⟪adādigaṇaḥ⟫)
 
 ⟪द्विष्⟫ 2U « haïr »
 
@@ -204,7 +204,7 @@ Fig. : ⟪भगिन्यौ⟫ ⟪स्वः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪धत्थस्⟫ | ⟪दधाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्तस्⟫ | ⟪दधाते⟫ |
 :::
-### 58.5.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
+### 58.5.3. Cinquième classe de présent (⟪svādigaṇaḥ⟫)
 
 ⟪सु⟫ 5U « presser »
 
@@ -275,7 +275,7 @@ Fig. : ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Fig. : ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Source de l'image : [Détails](/fr/licenses#lekt5801))
 :::
-## 58.6. Aoriste 5 : aoriste iṣ-Aorist
+## 58.6. Aoriste 5 : aoriste en iṣ
 
 ::: grammar-box
 **L’iṣ-Aorist est formé par toutes les racines seṭ pour lesquelles il n’est pas explicitement enseigné qu’une autre forme de l’Aorist est la seule forme valable.**
@@ -376,7 +376,7 @@ Paradigmes :
 Fig. : ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
 (Source de l’image : [Détails](/fr/licenses#lekt5808))
 :::
-## 58.7. Übung
+## 58.7. Exercice
 
 A) Déterminez et traduisez sans aide les formes suivantes, et formez les formes correspondantes de l’aoriste en i :
 

@@ -185,7 +185,7 @@ Exemples :
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
 :::
-## 34.6. Wortliste
+## 34.6. Liste de mots
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
@@ -260,7 +260,7 @@ Statue du taureau Nandi, collines de Chamundi, Mysore.
 
 **⟪कन्या⟫ f. :** fille, vierge
 
-## 34.7. Übung
+## 34.7. Exercice
 
 Formez les formes de parfait correspondant en personne, nombre et genre aux formes verbales suivantes :
 
@@ -296,7 +296,7 @@ Formez les formes de parfait correspondant en personne, nombre et genre aux form
 30. ⟪कुप्यन्ति⟫
 31. ⟪इच्छन्ति⟫
 
-## 34.8. Übersetzungsübung
+## 34.8. Exercice de traduction
 
 Traduisez le texte suivant depuis le ⟪पद्मपुराण⟫ concernant les dons aux Brahmanes :
 

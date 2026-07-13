@@ -7,9 +7,9 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 22
+# 第22课
 
-## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
+## 22.1. 绝对格（⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫）
 
 ::: grammar-box
 
@@ -262,7 +262,7 @@ Abb.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 
 **lekt2201:** Goa = ⟪गोंय⟫ [图片来源：Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- 访问日期：2008-12-12. -- 知识共享许可协议（署名、非商业性使用、禁止演绎）]
 
-**lekt2202:** 19. Jahrhundert [Bildquelle: Wikipedia, Gemeinfrei]
+**lekt2202:** 19世纪 [图片来源：维基百科，公共领域]
 
 **lekt2203:** 加尔各答 = কলকাতা [图片来源：The Eternity. -- http://www.flickr.com/photos/the_world_in_my_eyes/2914301330/. -- 访问日期：2008-12-12. -- 知识共享许可协议（署名-非商业性使用-禁止演绎）]
 

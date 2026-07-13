@@ -34,21 +34,21 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
-| **2nd Person**:br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **3rd Person**:br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br**3rd Cl.: -atu**:br(alt. -\*ntu) | \-atām:br(alt.: -\*ntām) |
+| **Orang Pertama**:br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
+| **Orang Kedua**:br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
+| **Orang Ketiga**:br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br**Klausa 3rd.: -atu**:br(alt. -\*ntu) | \-atām:br(alternatif: -\*ntām) |
 :::
-Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessing is to be expressed. -tāt occurs (also in the 3rd sg.) with the weak stem.
+Catatan: ¹ Akhiran untuk orang kedua dan ketiga tunggal dapat diganti dengan -tāt jika sebuah doa ingin diungkapkan. -tāt muncul (juga dalam orang ketiga tunggal) dengan batang lemah.
 
 ::: grammar-box
-| **Regarding the form of the 2.sg. Imperative ending:** ||
+| **Tentang bentuk akhiran Imperatif orang ke-2.sg.:** ||
 | :---: | :--- |
-| **\-ø** | Roots of the 5th and 8th class, where a final \-u is preceded only by a consonant. |
-| **\-āna** | Roots of the 9th class, ending in a consonant, substitute \-nī+ending with \-āna |
-| **\-hi** | all other present stems ending in a vowel or semivowel (exception: **⟪जुहुधि⟫** to **⟪हु⟫ 3**) |
-| **\-dhi** | All other cases |
+| **\-ø** | Akar dari kelas kelima dan kedelapan, di mana akhiran \-u didahului hanya oleh konsonan. |
+| **\-āna** | Akar dari kelas kesembilan, berakhiran konsonan, mengganti \-nī+akhiran dengan \-āna |
+| **\-hi** | semua batang hadir lainnya yang berakhiran vokal atau semivokal (kecualian: **⟪जुहुधि⟫** ke **⟪हु⟫ 3**) |
+| **\-dhi** | Semua kasus lainnya |
 :::
-### 48.2.2. Form of the Present Stem
+### 48.2.2. Bentuk Batang Kini
 
 ::: grammar-box
 **Strong Stem:**
@@ -164,9 +164,9 @@ Note: ¹ Explanation of **⟪जहि⟫*** see Thumb-Hauschild I,2 p. 253
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brirregular¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
+| **1st Person**:br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \&lt;⟪जुहवै⟫\&gt; | \&lt;⟪जुहवामहै⟫\&gt; |
+| **2nd Person**:br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brirregular¹ | ⟪जुहुत⟫ | \&lt;⟪जुहुष्व⟫\&gt; | \&lt;⟪जुहुध्वम्⟫\&gt; |
+| **3rd Person**:br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \&lt;⟪जुहुताम्⟫\&gt; | \&lt;⟪जुह्वताम्⟫\&gt; |
 
 Note: ¹ Dissimilation, so that two syllables with **⟪ह्⟫** do not follow each other.
 :::
@@ -195,52 +195,53 @@ Note: ¹ **⟪धेहि⟫** from \*dhazdhi: loss of the Indo-European sibila
 ## 48.3. On nominal derivation: ⟪तद्धित⟫ suffixes -a and -ya
 
 ::: grammar-box
-With the suffix **-a** and (rarely) **-ya**, a noun can be derived from another noun. In doing so, the first syllable of the original noun receives the guṇa grade (**⟪वृद्धि⟫**). If the original stem already ends in **-a**, then the **⟪वृद्धि⟫** is the only marker of derivation, since the final sound of the stem remains unchanged.
+Dengan akhiran **-a** dan (jarang) **-ya**, sebuah kata benda dapat diturunkan dari kata benda lain. Dalam prosesnya, suku kata pertama dari kata benda asli menerima tingkat guṇa (**⟪वृद्धि⟫**). Jika batang asli sudah berakhiran **-a**, maka **⟪वृद्धि⟫** adalah satu-satunya penanda penurunan, karena bunyi akhir batang tetap tidak berubah.
 
 The derived words have the meaning:
 
-> "having some relation to that designated by the base word"
+> "memiliki hubungan tertentu dengan yang ditunjuk oleh kata dasar"
 
 e.g.
 
 *   "originating from"
 *   "belonging to"
 
-The words formed in this way are adjectives, but can be substantivized, e.g. as patronymics (name formation after the father: "son of N.N.") or abstracta (mostly neuter).
-:::
-Examples:
+[Kata-kata yang dibentuk dengan cara ini adalah kata sifat, tetapi dapat disubstantivkan, misalnya sebagai patronimik (pembentukan nama setelah ayah: "putra dari N.N.") atau abstrakta (kebanyakan netral).]
+[:::]
+[Contoh:]
 
-::: indent
-| Base word | Derivation |
+[::: indent]
+| Kata dasar | Turunan |
 | :--- | :--- |
-| **⟪शुचि⟫** 3 "shining, pure" | **⟪शौच⟫** n. "purity" |
-| **⟪पुत्र⟫** m. "son" | **⟪पौत्र⟫** m. "originating from the son = grandson" |
-| **⟪गोतम⟫** m. "owner of many cows" proper name | **⟪गौतम⟫** m. "son of Gotama" |
-| **⟪ब्रह्मन्⟫** n. "formulated truth, Veda, Absolute" | **⟪ब्राह्मण⟫** m. "formulator of truth, Brāhmaṇa" |
-| **⟪शूर⟫** 3 "heroic" | **⟪शौर्य⟫** n. "heroism, bravery" |
-| **⟪राजन्⟫** m. "king" | **⟪राज्य⟫** n. "kingship" |
-| **⟪देव⟫** m. "Heavenly one, god" | **⟪दैव्य⟫** 3 "heavenly" |
-| **⟪ग्राम⟫** m. "village" | **⟪ग्राम्य⟫** 3 "village-related" |
-:::
-::: grammar-box
-| **Treatment of the stem final before the suffix \-a:** ||
+| **⟪शुचि⟫** 3 "bersinar, murni" | **⟪शौच⟫** n. "kemurnian" |
+| **⟪पुत्र⟫** m. "putra" | **⟪पौत्र⟫** m. "berasal dari putra = cucu" |
+| **⟪गोतम⟫** m. "pemilik banyak sapi" nama diri | **⟪गौतम⟫** m. "putra Gotama" |
+| **⟪ब्रह्मन्⟫** n. "kebenaran yang dirumuskan, Weda, Absolut" | **⟪ब्राह्मण⟫** m. "perumus kebenaran, Brāhmaṇa" |
+| **⟪शूर⟫** 3 "heroik" | **⟪शौर्य⟫** n. "keheroikan, keberanian" |
+| **⟪राजन्⟫** m. "raja" | **⟪राज्य⟫** n. "kekerajaan" |
+| **⟪देव⟫** m. "Yang Surgawi, dewa" | **⟪दैव्य⟫** 3 "surgawi" |
+| **⟪ग्राम⟫** m. "desa" | **⟪ग्राम्य⟫** 3 "berkaitan dengan desa" |
+[:::]
+[::: grammar-box]
+| **Perlakuan akhir stem sebelum sufiks \-a:** ||
 | :---: | :--- |
-| **\-ṛ** | **\-a** generally attaches to the final **\-r**::bre.g. **⟪जेतृ⟫** "winner" » **⟪जैत्र⟫** 3 "victorious" |
-| **\-a** | Replacement of the **\-a** of the base word by the new suffix **\-a**.:brSee examples above. |
-| **\-i** | Loss of the **\-i**:bre.g. **⟪प्रकृति⟫** f. "nature" » **⟪प्राकृत⟫** 3 "natural, normal, usual, vulgar" |
-| **\-u** | mostly: **\-av-a**:bre.g. **⟪गुरु⟫** 3 "heavy"; m. "master, teacher" » **⟪गौरव⟫** 3 "belonging to the master, originating from the master"; n. "weight, heaviness, dignity" |
-| **other declension stems:** | see Wackernagel, Altind. Grammatik II,2 § 38 |
+| **\-ṛ** | **\-a** umumnya melekat pada akhiran **\-r**: mis. **⟪जेतृ⟫** "pemenang" » **⟪जैत्र⟫** 3 "berhasil" |
+| **\-a** | Penggantian **\-a** dari kata dasar dengan sufiks baru **\-a**. :Lihat contoh di atas. |
+| **\-i** | Hilangnya **\-i**: mis. **⟪प्रकृति⟫** f. "sifat" » **⟪प्राकृत⟫** 3 "alami, normal, biasa, vulgar" |
+| **\-u** | kebanyakan: **\-av-a**: mis. **⟪गुरु⟫** 3 "berat"; m. "tuan, guru" » **⟪गौरव⟫** 3 "milik tuan, berasal dari tuan"; n. "berat, kebesaran, kehormatan" |
+| **stem deklinasi lainnya:** | lihat Wackernagel, Altind. Grammatik II,2 § 38 |
 
-Before the suffix **-ya**, the stem final is treated similarly to before the suffix **-a**.
+Sebelum sufiks **-ya**, akhiran stem diperlakukan serupa seperti sebelum sufiks **-a**.
+[:::]
+Lihat contoh di atas!
+
 :::
-See examples above!
-
 ::: grammar-box
 **Derivations can also be formed from compounds using these suffixes.**
 
 e.g. **⟪स्वश्व⟫** m. "he, whose horses are good" proper name » **⟪सौवश्व⟫** m. "descendant of Svaśva"
 
-**In compounds, in which due to sandhi in the prior member final -i or -u is replaced by -y or -v and thus precede the first vowel of the base word (e.g. compounds with ni-, vi-, su-), the ⟪वृद्धि⟫ is formed as if -iy or -uv were present.**
+**Dalam majemuk, di mana karena sandhi pada anggota sebelumnya akhir -i atau -u diganti dengan -y atau -v dan sehingga mendahului vokal pertama dari kata dasar (misalnya majemuk dengan ni-, vi-, su-), ⟪वृद्धि⟫ dibentuk seolah-olah -iy atau -uv hadir.**
 
 e.g. **⟪व्याघ्र⟫** m. "tiger" » **⟪वैयाघ्र⟫** 3 "originating from a tiger, belonging to a tiger"
 :::: media
@@ -357,30 +358,30 @@ Fig.: ⟪मम⟫ ⟪जाया⟫
 :::
 ## 48.5. Exercise
 
-A) Translate the ⟪सुभाषितानि⟫ at the beginning of the lesson.
+[A] Terjemahkan ⟪सुभाषितानि⟫ di awal pelajaran.
 
-B) Translate into Sanskrit (using the imperative and preferably roots of the 2nd and 3rd present class):
+[B] Terjemahkan ke dalam bahasa Sanskerta (menggunakan imperatif dan lebih disukai akar kata dari kelas 2 dan 3 sekarang):
 
-1. After you have obtained a son, leave the family!
-2. Descendants of Puru, fear those who have done evil!
-3. The girls should give food to the beggars.
-4. We want to speak.
-5. With the words "Come, monk!" Buddha admitted the man into the monastic order (⟪उपसम्पद्⟫ causative).
-6. Be true descendants of Manu!
-7. I want to praise ⟪शिव⟫ and the other gods.
-8. Tell!
-9. Measure out the hells!
-10. They (pl.) should lie on these beds.
-11. The tiger-like men should kill those who are hostile to Indra.
-12. Concentrate!
-13. Sit here!
-14. We want to eat these fruits.
-15. The servant should milk the cow.
-16. King, guard the dharma and the people.
-17. Teach the students the Veda!
-18. He should put on new clothes.
-19. They (pl.) should sit in my house.
-20. Husbands should maintain their wives (in the sense of providing sustenance).
+1. Setelah kamu mendapatkan seorang putra, tinggalkanlah keluarga!
+2. Keturunan Puru, takutlah kepada mereka yang telah melakukan kejahatan!
+3. Para gadis harus memberikan makanan kepada pengemis.
+4. Kami ingin berbicara.
+5. Dengan kata-kata "Datanglah, bhikkhu!" Buddha menerima pria itu ke dalam orde monastik (⟪उपसम्पद्⟩ kausatif).
+6. Jadilah keturunan Manu yang sejati!
+7. Saya ingin memuji ⟪शिव⟫ dan dewa-dewa lainnya.
+8. Katakan!
+9. Ukurlah neraka!
+10. Mereka (jamak) harus berbaring di tempat tidur ini.
+11. Para pria yang seperti harimau harus membunuh mereka yang bermusuhan dengan Indra.
+12. Konsentrasilah!
+13. Duduklah di sini!
+14. Kami ingin makan buah-buahan ini.
+15. Pelayan harus memerah sapi betina.
+16. Raja, jagalah dharma dan rakyat.
+17. Ajarlah para siswa Veda!
+18. Ia harus memakai pakaian baru.
+19. Mereka (jamak) harus duduk di rumah saya.
+20. Suami harus memelihara istri mereka (dalam arti memberikan nafkah).
 
 ## 48.6. Translation Exercise
 

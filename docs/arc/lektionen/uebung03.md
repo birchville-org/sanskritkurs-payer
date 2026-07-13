@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 3
+# ܬܶܪܓܳܡܳܐ 3
 
 A) Convert the following sentences into the plural:
 

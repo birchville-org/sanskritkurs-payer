@@ -23,30 +23,30 @@ Exempla:
 | ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫sig[⟪घ्नु⟫]⟪र्⟫ | | |
 
 ::: grammar-box
-2\. The root ⟪विद्⟫ 2P "to know" has a perfect with present-tense meaning.
+2\. Radix ⟪विद्⟫ 2P "scire" perfectum habet praesentis temporis significatione.
 :::
 ::: grammar-box
-| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Radix:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| ⟪विद्⟫ 2P | ⟪वेद⟫ :brer/sie/es weiss | ⟪विदुर्⟫ :brsie wissen |
+| ⟪विद्⟫ 2P | ⟪वेद⟫ :brille/scit/ea scit | ⟪विदुर्⟫ :brilli sciunt |
 :::
 ::: grammar-box
-3\. The root ⟪अह्⟫ "to say" has only perfect forms (Perfect I). These have present-tense meaning.
+3\. Radix ⟪अह्⟫ "dicere" solum perfectas formas habet (Perfectum I). Haec praesentis temporis significationem habent.
 :::
 ::: grammar-box
-| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Radix:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brer/sie/es sagt | ⟪आहुर्⟫ :brsie sagen |
+| ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brille/scit/ea dicit | ⟪आहुर्⟫ :brilli dicunt |
 :::
 ::: grammar-box
-4\. The root ⟪भू⟫ 1P has the perfect stem ⟪बभू⟫, before vowels ⟪बभूव्⟫.
+4\. Radix ⟪भू⟫ 1P perfectum radicem habet ⟪बभू⟫, ante vocales ⟪बभूव्⟫.
 :::
 ::: grammar-box
-| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Radix:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪भू⟫ 1P | ⟪बभूव⟫ | ⟪बभूवुर्⟫ |
 :::
-## 36.2. The periphrastic perfect (⟪अनुप्रयोगलिट्⟫)
+## 36.2. Perfectum periphrasticum (⟪अनुप्रयोगलिट्⟫)
 
 ::: grammar-box
 Periphrasticum perfectum (⟪अनुप्रयोगलिट्⟫) adhibetur:
@@ -72,7 +72,7 @@ Exempla:
 | ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां⟫ ⟪चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां⟫ ⟪बभूव⟫** | **⟪ईक्षां⟫ ⟪चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां⟫ ⟪बभूवुर्⟫** |
 | ⟪बन्ध्⟫ :brKausativ: ⟪बन्धय⟫-:br"binden lassen" | **⟪बन्धयां⟫ ⟪चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
 
-## 36.3. Perfectum Passivum
+## 36.3. Perfectum Passivumum
 
 ::: grammar-box
 In perfecto formae ātmanepadī pro passive adhibentur. Praeferitur tamen usus participii perfecti passivi. Construcio in utroque casu est passiva:

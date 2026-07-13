@@ -92,7 +92,7 @@ Esempel **yaj** = ⟪यज्⟫ = "venerar cun in sacrifici", "sacrifitgar":
 
 ## 6.5. Bildung des Präsensstamms
 
-### 6.5.1. Verben der 6. Präsensklasse (tudādi = ⟪तुदादि⟫ = "tud usw.")
+### 6.5.1. Verb da la 6avla classa da prescha (tudādi = ⟪तुदादि⟫ = "tud e.u.v.")
 
 ::: grammar-box
 **Stam dal presens = radich en grad bass (en la quala ella vegn listada) + a-**
@@ -102,7 +102,7 @@ Esempel **yaj** = ⟪यज्⟫ = "venerar cun in sacrifici", "sacrifitgar":
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
 :::
-### 6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
+### 6.5.2. Verb da l'emprima classa da prescha (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū e.u.v.")
 
 ::: grammar-box
 | Stem dal present = radiz en stadi da guaud (rara stadi da lungida) + a- ||||
@@ -129,7 +129,7 @@ Avant vocals vegn en l'intern da la parola **e** sustituid cun **ay**, **o** cun
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verben der 4. Präsensklasse (divādi = ⟪दिवादि⟫ = "div usw.")
+### 6.5.3. Verb da la 4. classa dal temp preschent (divādi = ⟪divādi⟫ = "div e.u.v.")
 
 ::: grammar-box
 **stam dal presens = radich en grad bass (en la quala ella è enaquadrada) + ya-**
@@ -157,7 +157,7 @@ Il **a** en las suffissas da furmaziun dal stem da las classes da present vegnes
 - Risposta: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Stai) en mintga senn ben."
 :::
 
-## 6.7. Wortliste
+## 6.7. Glista da pleds
 
 ::: grammar-box
 En Sanscrit vegnan ils verbs donads en la **furma da radischa**. Il num suenter la radischa designescha la **clasa da conjugaziun**.
@@ -179,7 +179,7 @@ En Sanscrit vegnan ils verbs donads en la **furma da radischa**. Il num suenter 
 - **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : entrar
 - **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : liberar, lassar sortir, emanar
 
-## 6.8. Übung
+## 6.8. Exercizi
 
 **A) Formai cun las radichas indicadas en las parentesis per inserir frasis verbalas:**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)

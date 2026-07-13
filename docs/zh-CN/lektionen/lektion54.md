@@ -7,9 +7,9 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 54
+# 第54课
 
-## 54.1. Vorbemerkung
+## 54.1. 前言
 
 从第54课开始，大学课程进入第二学期。从现在起，课程将围绕本学期的主要主题——整部《薄伽梵歌》的阅读——展开。学习目标是达到能够流畅阅读中等难度文本的水平，以便在学期最后三分之一的时间里，能够即兴翻译《薄伽梵歌》的大部分章节。在课程初期，大学课堂上还会分发词汇表，后来学生必须自行使用相应的词典（Monier-Williams、Apte、PW）。
 
@@ -17,7 +17,7 @@ status: stable
 
 本梵语课程的课程涵盖尚未涉及的梵语语法主题。
 
-## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
+## 54.2. 构词：⟪कृत्⟫-后缀 -u 接于愿望体词干
 
 ::: grammar-box
 **对于欲求词干（⟪इच्छाप्रकृति⟫）（“想要做某事”；“准备做某事”），在构成施事名词时，添加后缀 -u。**
@@ -102,7 +102,7 @@ c) ⟪उपजाति⟫
 ::: indent
 „Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā aufweisen, an einem Vers beteiligt sind, dann handelt es sich um Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti.“
 :::
-## 54.4. Übung zur Metrik
+## 54.4. 练习 zur Metrik
 
 Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 
@@ -254,9 +254,9 @@ Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs.
 
 ::: media
 ![](/images/lekt5401.webp)
-Abb.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
-Tamil Nadu
-(Bildquelle: [Details](/zh-CN/licenses#lekt5401))
+图：⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
+泰米尔纳德邦
+（图片来源：[详情](/zh-CN/licenses#lekt5401)）
 :::
 ::: deleteme-box
 

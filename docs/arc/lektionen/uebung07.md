@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 7
+# ܬܪܓܠܐ 7
 
-A) Insert in each case the singular and plural (unless they are proper names) the direct object or the directional accusative:
+[A] הכי תכניס בכל מקום יחיד ורבים (אלא אם כן הם שמות עצם) את המושא הישיר או את האקוזטיב הכיווני:
 
 1\. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
 
@@ -92,7 +92,7 @@ devī kupyati. devī krudhyati.
 
 ⟪देवी⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪देवी⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-C) Insert in the exercise sentences B) the agent, object, and verb in the plural.
+ܟ) ܐܬܪܝܡ ܒܦܠܘܚ̈ܐ ܕܡܠܦܬܐ ܒ) ܕܝܩܢܐ، ܡܠܬܐ ܘܦܥܠ̈ܐ ܒܟܢܝܬܐ.
 
 1\. sādhavaḥ svargān āpnuvanti. sādhavaḥ svargān gacchanti. sādhavaḥ svargān aśnuvate.
 
@@ -144,7 +144,7 @@ yajate.
 
 ⟪यजते⟫ ⟪।⟫
 
-E) Form the accusative (dvitīyā) sg. and pl. for all nouns learned so far.
+E) Bildet den Akkusativ (द्वितीयā) Singular und Plural für alle bisher gelernten Substantive.
 
 F) Translate:
 
@@ -166,7 +166,7 @@ They listen to the masters, however.
 
 ⟪शूद्राः⟫ ⟪स्वर्गमाप्नुवन्ति⟫ ⟪।⟫
 
-4\. The Kṣatriyas worship the goddesses with sacrifices as sacrificial lords.
+4\. ܟܬܪ̈ܝܐ ܡܕܒܚܝܢ ܠܣܘܟܪ̈ܐ ܒܕܚܠܦܘܬ̈ܐ ܟܡܢܝܼܠܘܬ̈ܐ.
 
 kṣatriyā devīr yajante.
 
@@ -188,7 +188,7 @@ vaiśyā devatā yajante.
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 
-The auxiliary sciences of Vedic studies are: phonetics, ritualism, grammar, etymology, metrics, calendar science.
+ܠܫܢ̈ܐ ܕܡܕܒܪ̈ܬܐ ܕܩܘܪܝܢ̈ܐ ܕܒܕܝܩܘܬܐ:
 
 8\. To which god does this Brahmin sacrifice?
 
@@ -208,7 +208,7 @@ ete kiṃ sunvanti / sunvate?
 
 ⟪एते⟫ ⟪किं⟫ ⟪सुन्वन्ति⟫ / ⟪सुन्वते⟫ ⟪।⟫
 
-11\. He is the teacher. To him one listens (= they listen).
+11\. Huwa huwa mʿallim. Lehoneh yeshmaʿu (= d’mechamʿin).
 
 sa guruḥ. enaṃ śṛṇvanti.
 

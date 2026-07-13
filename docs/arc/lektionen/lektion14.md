@@ -7,14 +7,14 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lesson 14
+# ܡܠܦܢܐ 14
 
-## 14.1. The Expression of the Relationship of that Designated by Nouns: the Genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)
+## 14.1. ܚܘܝܕܐ ܕܫܘܬܦܘܬܐ ܕܡܕܡ ܕܡܬܚܘܐ ܒܫܡܗ̈ܐ: ܓܢܣܝܐ (ܨܫܛܝ ܢܩܒܬܐ = ܨܫܛܝ = ܫܘܠܡܐ ܕܕܘܟܬܐ ܕܫܬܐ)
 
 ::: grammar-box
-If the relationship expressed by two nouns is to be indicated, the genitive (ṣaṣṭhī f. "sixth case ending") is used. The genitive differs from all other cases in that it -- with a few exceptions -- does not serve to specify the action expressed by the verb, but rather to express the relationship between persons or things designated by nouns. Frequently, the genitive answers the question: Whose?
+ܐܝܟܢܐ ܕܡܠܬܐ ܒܝܬ ܟܢܫܬܐ ܕܡܠܬܐ ܗܘܝܬ، ܓܢܛܝܘܬܐ (ṣaṣṭhī f. "שֵׁישִׁי") ܬܫܡܫ. ܓܢܛܝܘܬܐ ܡܕܥܟ ܠܗ ܡܢ ܟܠ ܐܘܪ̈ܚܐ، ܕܗܝ -- ܒܫܪܟܬܐ ܡܥܛܠ -- ܠܝܣܬܐ ܠܡܕܥ ܠܦܥܠܬܐ ܕܡܢ ܨܘܪܬܐ، ܠܐ ܠܡܕܥ ܠܦܘܟܬܐ ܒܝܬ ܐܢܫ̈ܐ ܘܠܡܠܬܐ ܕܡܢ ܟܢܫܬܐ. ܒܪ̈ܙܝܘܬܐ، ܓܢܛܝܘܬܐ ܡܫܠܡ ܠܫܘܠܚܐ: מִי?
 :::
-Examples:
+ܡܠ̈ܐ:
 
 ⟪कवेः⟫ ⟪पुत्रः⟫ "The Poet's Son"
 
@@ -32,19 +32,19 @@ The normal word order is:
 **Genitive and PPP:**
 
 ::: grammar-box
-In PPPs can the genitive stand instead of the instrumental (tṛtīyā) for the agent (kartṛ); In the construction with the instrumental, the PPP is regarded as a passive verbal form (that which stands in the instrumental denotes the agent), in the construction with the genitive, the PPP is regarded as a noun or adjective (that which stands in the genitive is therefore not actually an agent).
+ב־PPPs יכיל גנטיבא קימא במקום אינסטרומנטל (תְּרִיתַיא) לבעל מעשה (כַּרְטָא); בִבנינא דאינסטרומנטל, PPP מתפרשא כצורה פועליית שלילא (דאיכא בִּידָה מפרש בעל מעשה), ובבנינא דגנטיב, PPP מתפרשא כשם או תואר (דאיכא בגנטיב לאו בעל מעשה הוא).
 
-According to Pāṇini 2.3.67, when the PPP has present-tense meaning (see above), the genitive case is used; when the PPP has past-tense meaning, the instrumental case is used:
+כְּפִי פָאנִינוּ 2.3.67, כד PPP ליה משמעות זמן הוה (רואי לעיל), גנטיבא קאי; כד PPP ליה משמעות זמן עבר, אינסטרומנטל קאי:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "The fruit desired by Rāma = The fruit that Rāma currently desires"
+> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "פריא דאתכסיף מֵרָמ = פריא דְּרָם עכשיו מתקף"
 > 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "The fruit that Rāma desired"
+> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "פריא דְּרָם קדם מתקף"
 
-Of course, in the case of a PPP neuter singular used as a verbal abstract—i.e., as a noun—the genitive case is employed.
+כמובן, בדוגמת PPP נייחא יחידי דאתיב לשם פועלי — כלומר, כשם עצמי — גנטיבא קאי.
 :::
-## 14.2. Formation of the Genitive Forms (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+## 14.2. ܨܽܘܪܬܳܐ ܕܨܽܘܪ̈ܬܳܐ ܕܩܶܢܝܳܢܳܐ (ܨܰܫܛܺܝ ܐܰܢܬܬܳܐ = ⟪ܨܰܫܛܺܝ⟫)
 
-The genitive is formed from the weak stem for verbal stems with stem gradation.
+ܐܪܡܝܬ ܓܢܛܝܘܬܐ ܡܫܪ̈ܝܐ ܠܦܘܬܟܐ ܕܡܠܬܐ ܥܒܝܕܬܐ ܕܠܫܢ̈ܐ ܡܛܪ̈ܝܬܐ.
 
 **Genetiv von konsonantisch auslautenden Stämmen:**
 
@@ -92,7 +92,7 @@ Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet:
 
 ::: grammar-box
 
-The genitive singular of vocally ending stems is formed irregularly and must be memorized well.
+ܕܝܬܐ ܠܦܢܘܬܐ ܕܡܠܬܐ ܕܢ̈ܘܟܪܝܬܐ ܠܫܢܐ ܕܡܠܬܐ ܕܢ̈ܘܟܪܝܬܐ ܠܫܢܐ ܕܡܠܬܐ ܕܢ̈ܘܟܪܝܬܐ ܠܫܢܐ.
 
 :::
 ::: center
@@ -125,15 +125,15 @@ The genitive singular of vocally ending stems is formed irregularly and must be 
 
 ::: important
 
-In all nominal stems except for the masculines and neuters ending in -a and the pronouns, the form of the genitive singular is identical to that of the ablative (pañcamī "fifth case ending") singular!
+ܒܟܠ ܫܪ̈ܐ ܕܡܠܬܐ ܒܠܦ̈ܘܼܛܐ ܡܢ ܓܒܪ̈ܐ ܘܠܐ ܡܢ ܕܟܬ̈ܒ̈ܝܐ ܒ-ܐܠܦ ܘܒܫܪ̈ܐ, ܡܠܬܐ ܕܓܢܛܝܘܿܙ ܡܠܐ ܗܝ ܟܕܘܿܬ ܠܡܠܬܐ ܕܐܒܛ̈ܘܼܠܬܝ ܡܠܐ!
 
-Observe that in stems ending in a consonant, the ablative and genitive singular sound the same as the accusative plural masculine and feminine!
+ܚܙܝ ܕܒܫܪ̈ܐ ܕܟܬ̈ܒ̈ܝܐ ܒܫܪ̈ܐ, ܡܠܬܐ ܕܐܒܛ̈ܘܼܠܬܝ ܡܠܐ ܘܓܢܛܝܘܿܙ ܡܠܐ ܗܝ ܟܕܘܿܬ ܠܡܠܬܐ ܕܟܢܝܘܿܙ ܪܒܐ ܠܓܒܪ̈ܐ ܘܢܫܐ!
 
 :::
-## 14.3. Further on the Use of the Genitive (⟪षष्ठी⟫)
+## 14.3. ܬܘܒ ܥܠ ܡܬܚܫܚܢܘܬܐ ܕܓܢܣܐ (⟪षष्ठी⟫)
 
-::: grammar-box
-Contrary to the above basic rule, the genitive is used to express the object of certain verbs, e.g., verbs of remembrance:
+::: grammar-box  
+Im Gegensatz zur oben genannten Grundregel wird der Genitiv verwendet, um das Objekt bestimmter Verben auszudrücken, z. B. Gedächtnisverben:
 
 > ⟪देवानां⟫ ⟪स्मरति⟫ "He remembers the gods"
 
@@ -143,7 +143,7 @@ Bei all diesen Verben kann das Objekt aber auch im Akkusativ stehen:
 
 Further information later.
 :::
-## 14.4. Word List
+## 14.4. ܡܠܘܐܐ ܕܡ̈ܠܝܢ
 
 * **śīla n.** (⟪शील⟫) : (good) character, morality
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : ornament
@@ -151,24 +151,24 @@ Further information later.
 
 ::: media
 ![](/images/lekt1405.webp)
-Fig.: ⟪दीपाः⟫
-(Image source: [Details](/arc/licenses#lekt1405))
+ܩܛܪܐ: ⟪दीपाः⟫
+(מקור התמונה: [פרטים](/arc/licenses#lekt1405))
 :::
-* **bala n.** (⟪बल⟫) : violence, power, strength; military force, army
-* **bāla 3** (⟪बाल⟫) : young, childish, foolish; m. boy
-* **bālā f.** (⟪बाला⟫) : young girl
-* **nara m.** (⟪नर⟫) : man, human being
-* **śatru m.** (⟪शत्रु⟫) : enemy
-* **loka m.** (⟪लोक⟫) : world; Sing. and Plur.: the people, the humans, the populace
-* **jala n.** (⟪जल⟫) : water
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : to be born, to arise, to appear
-  * **jan-a m.** (⟪जन⟫) : creature, human being, people
-* **vac 2 P** (vakti, no 3rd plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : to say, to speak to (accusative)
-  * **uk-ti f.** (⟪उक्ति⟫) : utterance, word
-  * **vac-ana n.** (⟪वचन⟫) : speaking, the word
-  * **vāk-ya n.** (⟪वाक्य⟫) : word, speech
+* **bala n.** (⟪बल⟫) : אלים, כוח, עוצמה; כוח צבאי, צבא
+* **bāla 3** (⟪बाल⟫) : צעיר, ילדותי, טפש; זכר: נער
+* **bālā f.** (⟪बाला⟫) : נערה
+* **nara m.** (⟪नर⟫) : אדם, בני אדם
+* **śatru m.** (⟪शत्रु⟫) : אויב
+* **loka m.** (⟪लोक⟫) : עולם; יחיד ורבים: העם, האנשים, הציבור
+* **jala n.** (⟪जल⟫) : מים
+* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : להיוולד, לצמוח, להופיע
+* **jan-a m.** (⟪जन⟫) : יצור, אדם, עם
+* **vac 2 P** (vakti, no 3rd plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : לומר, לדבר אל (תאמר)
+* **uk-ti f.** (⟪उक्ति⟫) : אמירה, מילה
+* **vac-ana n.** (⟪वचन⟫) : דיבור, המילה
+* **vāk-ya n.** (⟪वाक्य⟫) : מילה, דיבור
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Proverbs
+## 14.5. ܣܘܒܗܐܫܝܬܐܢܝ = ⟪ܣܘܒܗܐܫܝܬܐܢܝ⟫ = ܦܬܓܡ̈ܐ
 
 Translate the following proverbs and memorize them:
 
@@ -182,9 +182,9 @@ Translate the following proverbs and memorize them:
 
 **⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫**
 
-## 14.6. Exercise
+## 14.6. ܬܪܓܠܐ
 
-**A) Form the Genitive Singular and Plural for the following words. Provide the meaning and gender of the words:**
+**ܐ) ܫܘܬܪ ܠܦܢ ܣܕܪܐ ܘܟܝܠܐ ܠܡܕܒܪ̈ܬܐ ܕܟܢܝܬܐ. ܫܘܬܪ ܠܦܢ ܡܕܒܪ̈ܬܐ ܘܠܫܢܐ ܕܡ̈ܕܒܪ̈ܬܐ:**
 
 ⟪१⟫. ⟪अनृत⟫
 

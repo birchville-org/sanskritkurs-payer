@@ -7,7 +7,7 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 44
+# 第44课
 
 ## 44.1. 第二人称动词形式（⟪मध्यमः⟫）无词尾词干，后缀以元音结尾
 
@@ -69,7 +69,7 @@ status: stable
 
 （关于此处相关的所有音变现象的详细汇编，参见Kielhorn，《语法》第76-77页。）
 
-### 44.2.1. Zum Wortsandhi für dh-
+### 44.2.1. 关于 dh- 的词尾连音（Wortsandhi）
 
 ::: grammar-box
 1. **送气音在送气音前被相应的不送气音取代：**
@@ -93,7 +93,7 @@ status: stable
 :::
 ## 44.3. 第二人称动词形式（⟪मध्यमः⟫）无元音结尾后缀的非主题词干的构成
 
-### 44.3.1. Zweite Präsensklasse (⟪अदादि⟫)
+### 44.3.1.第二现在时类（⟪अदादि⟫）
 
 ::: grammar-box
 | | ⟪⟪परस्मैपदम्⟫⟫ || ⟪⟪आत्मनेपदम्⟫⟫ ||
@@ -342,16 +342,16 @@ davon:
 ::: deleteme-box
 参见：
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois &lt;1944 - &gt;：**《Vinayamukha：上座部戒律与僧团法的基本概念》。-- 第一部分。 -- （佛教基本概念资料）。 -- _URL_：[http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::: media
 ![](/images/lekt4408.webp)
-Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Bildquelle: [Details](/zh-CN/licenses#lekt4408))
+图：⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
+（图片来源：[详情](/zh-CN/licenses#lekt4408)）
 ::::
 :::
-## 44.6. Übung
+## 44.6. 练习
 
-A) Bestimmen und übersetzen Sie folgende Formen:
+A) 确定并翻译以下形式：
 
 1.  ⟪आदेः⟫
 2.  ⟪आदः⟫
@@ -430,7 +430,7 @@ B）翻译：
 ⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
 ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫
 
-## 44.7. Wiederholungsübung zur Formenlehre
+## 44.7. 形态学复习练习
 
 确定以下形式：
 

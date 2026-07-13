@@ -7,11 +7,11 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 46
+# الدرس 46
 
 ## 46.1. صياغة أفعال الشخص الثاني (⟪मध्यमः⟫) التام (⟪लिट्⟫)
 
-### 46.1.1. Endungen
+### 46.1.1. النهايات
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -65,7 +65,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪आसिथ⟫ | ⟪आस⟫ | \&lt;⟪आसिषे⟫\&gt; | \&lt;⟪आसिध्वे⟫\&gt; |
 :::
-### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 46.1.4. الماضي التام النوع الثاني: جذر قوي درجة عالية، جذر ضعيف درجة منخفضة
 
 الأفعال التي تتبع هذا النوع:
 
@@ -87,7 +87,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
-### 46.1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 46.1.5. الماضي التام النوع الثالث: جذر قوي درجة عالية/درجة إطالة
 
 #### 46.1.5.1. صيغة التام من النوع IIIa: جذع قوي في درجة عليا/درجة مدودة، جذع ضعيف في درجة منخفضة
 
@@ -151,7 +151,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
-### 46.1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 46.1.6. الماضي التام النوع الرابع: الجذور المنتهية بـ -ā / -ai
 
 *   جذر ضعيف:
     *   قبل الساكن: درجة عميقة -i
@@ -173,7 +173,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
-### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
+### 46.1.7. الماضي التام النوع الخامس: ساكن-أ-ساكن
 
 #### 46.1.7.1. صيغة الماضي التام من النوع Va: ساكن-أ-ساكن، جذر ضعيف في الدرجة العميقة
 
@@ -279,7 +279,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
 :::
-### 46.1.8. Besondere Perfekt-Bildungen
+### 46.1.8. تكوينات الماضي التام الخاصة
 
 ⟪विद्⟫ 2P صيغة ماضية فعلية
 
@@ -313,7 +313,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जिगेथ⟫:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
 :::
-### 46.1.9. Periphrastisches Perfekt (⟪अनुप्रयोगलिट्⟫)
+### 46.1.9. الماضي التام الظرفي (अनुप्रयोगलिट्)
 
 يُشكَّل الفعل الماضي الدائري (Periphrastisches Perfekt) من:
 
@@ -336,7 +336,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
 :::
-## 46.2. Wortliste
+## 46.2. قائمة الكلمات
 
 ⟪सम⟫ 3: متساوٍ، بالضبط، مشابه
 

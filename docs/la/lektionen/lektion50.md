@@ -9,20 +9,20 @@ status: stable
 
 # Lektion 50
 
-## 50.1. Nominalbildung: regelmäßige Steigerung
+## 50.1. Formatio nominalis: gradus regularis
 
 ::: grammar-box
-**The regular degree of comparison in Sanskrit is formed with the ⟪तद्धित⟫-suffixes**
-* **-⟪तर⟫ (fem.: ⟪तरा⟫) in the "comparative"**
-* **⟪तम⟫ (fem.: ⟪तमा⟫) in the "superlative"**
+**Gradus regularis comparationis in Sanscrito formatur per suffixa ⟪तद्धित⟫**
+* **-⟪तर⟫ (fem.: ⟪तरा⟫) in "comparativo"**
+* **⟪तम⟫ (fem.: ⟪तमा⟫) in "superlativo"**
 
-**These suffixes are attached to the masculine stem of adjectives. For nouns with stem alternation, they are attached to the weak stem, which has the form as before the ending -su of the locative (⟪पञ्चमी⟫) plural.**
+**Haec suffixa ad radicem masculinam adiectivorum adiunguntur. Pro nominibus cum alternatione radicis, ad radicem infirmam adiunguntur, quae formam habet ante terminationem -su genitivi pluralis (⟪पञ्चमी⟫).**
 :::
 ::: media
 ![](/images/lekt5007.webp)
 Fig.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
-⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
-(Image source: [Details](/la/licenses#lekt5007))
+⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mons Everest
+(Fons imaginis: [Detalia](/la/licenses#lekt5007))
 :::
 
 ::: grammar-box
@@ -32,24 +32,24 @@ Fig.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
 
 :::
 ::: indent
-e.g. ⟪सुचितर⟫ 3 "fairly pure", "very pure", "too pure"
+e.g. ⟪सुचितर⟫ 3 "satis purus", "valde purus", "nimis purus"
 :::
-**When a compared object is expressed, it stands in the Ablative (⟪पञ्चमी⟫). Comparative + Ablative corresponds to the degree of comparison with "than" in German.**
+**Cum comparato expresso, in Ablativo (⟪पञ्चमी⟫) ponitur. Comparativus + Ablativus gradum comparisonis cum "quam" in Germanico correspondet.**
 
 ::: indent
-e.g. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = literally: "from Devadatta's perspective, Rāma is more insightful" = "Rāma is more insightful than Devadatta"
+e.g. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = litteraliter: "ex sententia Devadattae, Rāma sagacior est" = "Rāma sagacior est quam Devadatta"
 :::
-**The "Superlative" means that no compared object is expressed: "extremely, very":**
+**Superlativum significat comparatum non expressum: "extreme, valde":**
 
 ::: indent
-e.g. ⟪सत्तम⟫ 3 (to ⟪सन्त्⟫) "extremely good, very good"
+e.g. ⟪सत्तम⟫ 3 (ad ⟪सन्त्⟫) "valde bonus, nimis bonus"
 :::
-**When a compared object is expressed, it stands in the Genitive (⟪षष्ठी⟫) ("of", "among") and the Superlative corresponds to the German superlative (superior degree):**
+**Cum comparato expresso, in Genitivo (⟪षष्ठी⟫) ("ex", "inter") ponitur, et Superlativus Germanico superlativo (gradus superior) correspondet:**
 
 ::: indent
-e.g. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "the best of the Twice-born"
+e.g. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "optimus Dvija"
 :::
-**The suffixes -⟪तर⟫ and -⟪तम⟫ can occur not only with adjectives, but also with nouns, indeclinables and even verbal forms:**
+**Suffixa -⟪तर⟫ et -⟪तम⟫ non solum cum adiectivis, sed etiam cum nominibus, indeclinabilibus ac formis verbalibus occurrere possunt:**
 
 Exempla:
 
@@ -199,7 +199,7 @@ non adhibetur in ceteris temporibus
 
 ⟪देश⟫ m.: locus, spatium, terra, regio
 
-## 50.3. Übersetzungsübung
+## 50.3. Exercitium translationis
 
 A) Ad memoriam declinationis: sequens versus omnes formas declinativas in singulari continet ad ⟪गुरु⟫ m.:
 

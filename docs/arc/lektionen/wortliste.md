@@ -6,12 +6,12 @@ outline: 2
 **Citation Style & Rights**
 
 :::
-# Word List (Complete Overview)
+# ܡܠܘܐܐ ܕܡ̈ܠܝܢ (Complete Overview)
 
-*All new words from the course in the order of their introduction, with thematic explanations.*
+[0] *כָּל מִילַיָּא חֲדָתַיָּא מֵהוֹרָא בְּסִדְרַת קַבְלָן, עִם פֵּירוּשׁוֹי דַּעֲתָא.*
 
 
-## Lesson 2
+## ܐܘܠܦܢܐ 2
 
 
 
@@ -32,71 +32,71 @@ outline: 2
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (service estate).
 
 ::: note-box Die vier Stände (varna)
-According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distributed:
+לפי תיאוריה קלאסית (למשל, מנוסמריטי I, 88-91), החובות מחולקות:
 
-- **of the Brahmins**
-  - Study of the Vedas
-  - Teaching
-  - Sacrifice for oneself
-  - Sacrifice for others
-  - Giving
-  - Receiving gifts
-- **of the Kṣatriyas**
-  - Protect the people
-  - Give gifts (to Brahmins)
-  - Sacrifice for oneself
-  - Study of the Vedas
-- **of the Vaiśyas**
-  - Animal husbandry
-  - Agriculture
-  - Trade
-  - Money lending
-  - Sacrifice for oneself
-  - Give gifts (to Brahmins)
-  - Sacrifice for oneself
-  - Study of the Vedas
-- **of the Śūdras**
-  - Serve the three upper estates
+- **של הברמנים**
+- לימוד הוודות
+- הוראה
+- קרבן לעצמו
+- קרבן לאחרים
+- נתינה
+- קבלת מתנות
+- **של הKṣatriyas**
+- להגן על העם
+- לתת מתנות (לברמנים)
+- קרבן לעצמו
+- לימוד הוודות
+- **של הVaiśyas**
+- רעיית חיות
+- חקלאות
+- מסחר
+- הלוואת כסף
+- קרבן לעצמו
+- לתת מתנות (לברמנים)
+- קרבן לעצמו
+- לימוד הוודות
+- **של הŚūdras**
+- לשרת את שלושת המעמדות העליונים
 :::
-**dvija** m. -- ⟪द्विज⟫ : "Twice-born" (initiates of the upper three estates: Brāhmaṇa, Kṣatriya, Vaiśya).
+**dvija** m. -- ⟪द्विज⟫ : "שני לידה" (תלמידי עליונים של שלושת המעמדות העליונים: Brāhmaṇa, Kṣatriya, Vaiśya).
 
 **varṇa** m. -- ⟪वर्ण⟫ : Color, birth estate (aspiration).
 
-The four estates (**varṇa** m.) are often confused with castes. However, the four estates are -- in contrast to castes -- not specifically Indian; in Europe, we also had (partly up to the First World War) an estate system, as the following illustration from the 15th century confirms:
+ארבעת המעמדות (**varṇa** מ') מתבללים לעיתים קרובות עם מעמדות. אולם, ארבעת המעמדות הם -- בניגוד למעמדות -- לא ספציפיים להודו; באירופה, גם לנו היה (חלקית עד למלחמת העולם הראשונה) מערכת מעמדות, כפי שאיור הבא מהמאה ה-15 מאשר:
 
 ::: media
 ![](/images/lekt0201.webp)
-Fig.: Representation of the estate division of the European Middle Ages (woodcut from the late 15th century).
-(Image source: [Details](/licenses#lekt0201))
+איור: ייצוג חלוקת המעמדות של ימי הביניים האירופיים (חיתוך עץ מהסוף המאה ה-15).
+(מקור התמונה: [פרטים](/licenses#lekt0201))
 :::
-**Labels:**
-- **Priestly estate** (~Brāhmaṇa): Tu supplex ora = You pray earnestly!
-- **Nobility estate** (~Kṣatriya): Tu protege = You protect!
-- **Peasant estate** (~Vaiśya/Śūdra): Tuque labora = And you work!
+**תוויות:**
+- **מעמד הכהנים** (~Brāhmaṇa): Tu supplex ora = אתה מתפלל בתחינה!
+- **מעמד האצולה** (~Kṣatriya): Tu protege = אתה מגן!
+- **מעמד האיכרים** (~Vaiśya/Śūdra): Tuque labora = ואתה עובד!
 
-The three estates wear the respective estate attire. Above the -- thus designated as divinely ordained -- estates sits Christ.
+שלושת המעמדות לובשים את בגדי המעמד המתאימים. מעל -- כך שנקראו כמסודרים על ידי האלוהים -- המעמדות יושב ישו.
 
-Max Weber \<1864 – 1920\> defines estate as follows:
+Max Weber \&lt;1864 – 1920\&gt; defines estate as follows:
 
 ::: note-box
-»**Estate**« is meant to denote a multitude of people who within an association effectively
-a) claim an estate-specific special estimation, - possibly also
-b) estate-specific special monopolies.
+»**ܡܕܢܚܐ**« ܝܬܘܠܛ ܕܟܝܐ ܣܓ݂ܝܠ ܥܡܘܢܐ ܕܒܟܝܬܐ ܫܪܩܝܬܐ
+a) ܡܠܛܘܢ ܣܓ݂ܝܠ ܕܟܝܐ ܫܡܬܐ، — ܠܓ݂ܝܪ
+b) ܣܓ݂ܝܠ ܕܟܝܐ ܡܘܢܦܪܝܠܝܬܐ.
 
-Estates can arise
-a) primarily, through their own estate-specific way of life, particularly through the type of **profession** (**estate-based or professional estates**),
-b) secondarily, hereditarily charismatic, through successful prestige claims based on estate-specific **descent** (**birth estates**),
-c) through estate-specific **appropriation** of political or hierocratic lordships as monopolies (**political or hierocratic estates**).
+ܕܟܝܬܐ ܡܩܘܪܒܬ
+a) ܠܓ݂ܝܪ، ܒܟܝܬܐ ܕܟܝܐ ܫܪܩܝܬ، ܒܛܥܡܐ ܕ**ܫܪܩܐ** (**ܕܟܝܬ ܡܫܪܩܐ**)،
+b) ܬܠܝܬ، ܒܟܪܐ ܫܡܠܝܬ، ܒܟܝܬ ܫܡܬܐ ܕ**ܢܘܗܪܐ** (**ܕܟܝܬ ܠܕܘܬ**),
+c) ܒ**ܐܦܩܪܝܬ** ܕܟܝܐ ܕܫܪܩܘܬ ܠܓ݂ܝܪ ܐܘ **ܡܕܢܚܐ** (**ܕܟܝܬ ܫܪܩܘܬ**).
 
-The birth-estate development is regularly a form of (hereditary) appropriation of privileges to an association or to qualified individuals. Any fixed appropriation of opportunities, particularly [of] lord [powers or occupational] opportunities, tends to lead to the formation of estates. Any estate formation tends to lead to the monopolistic appropriation of lordships and occupational opportunities.
+ܕܟܝܬ ܠܕܘܬ ܗܝ ܒܫܪܐ ܕ(ܟܪܘܢܐ) ܐܦܩܪܝܬ ܕܫܡܠܐ ܠܟܝܬ ܐܘ ܠܢܦܫܐ. ܟܠ ܐܦܩܪܝܬ ܕܫܡܠܐ، ܒܛܥܡܐ، ܠ**ܫܪܩܘܬ** ܐܘ **ܡܫܪܩܐ**، ܡܠܛܘܢ ܟܝܬ ܕܟܝܐ. ܟܠ ܕܟܝܬ ܡܠܛܘܢ ܐܦܩܪܝܬ ܡܘܢܦܪܝܠܝܬ ܕܫܪܩܘܬ ܐܘ ܡܫܪܩܐ.
 
-While occupational classes grow on the soil of the market-oriented economy, estates arise and exist preferably on the soil of the monopolistically led liturgical or the feudal or the estate-patrimonial needs coverage of associations.
+ܒܝܬ ܡܫܪܩܐ ܢܗܘܝܢ ܒܟܝܬ ܡܫܪܩܐ، ܕܟܝܬ ܢܗܘܝܢ ܒܟܝܬ ܡܫܪܩܐ ܠܓ݂ܝܪ ܕ**ܡܫܪܩܐ** ܐܘ **ܠܓ݂ܝܪ** ܐܘ **ܕܟܝܬ ܡܫܪܩܐ**.
 
-»**Estatal**« should mean a society, when the social division is preferably by estates, »**class-based**«, when it is preferably by classes. The »estate« is closest to the »classes« the »social« class, the »occupational class« is furthest. Estates are often formed by property classes according to their focus.
+»**מדינתי**« ארעא דין, כד אתחזי חלוקתא דאינשא בריש מַעֲלָה, »**מְחַלְקָתָא**« כד אתחזי בריש מְחַלְקִין. »מַעֲלָה« קרובא ל»מְחַלְקוּתָא« »מְחַלְקִין דְּאַנָסׁא« »מְחַלְקִין דְּעוּבדָא« רחוקה. מַעֲלָתָא ארעא דין, כד אתחזי בריש מְחַלְקִין דְּמָמונא.
 
-Every estate society is conventional, ordered by rules of life conduct, therefore creates economically irrational consumption conditions and hinders in this way through monopolistic appropriations and by excluding the free disposal of one's own earning capacity the free market formation.
+כל מַעֲלָתָא דאינשא ארעא, סדורה בדיני חיי, לכן יצרה ממונא דלא שפיר ועבדה בריש מַעֲלָתָא דאינשא ומנעה מן שוקא חופשי.
 
-[**Weber, Max \<1864 – 1920\>: Economy and Society : Outline of Understanding Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – P. 625 f.]
+[**וֵבֶר, מַקְס \&lt;1864 – 1920\&gt;: כלכלה וחברה : תיאור סוציולוגיה. – מהדורה חמישית, מתוקנת. – טיווין : מֹהר, 1976. – עמ' 625 ד.]
 :::
 Varṇas are accordingly birth estates.
 
@@ -124,7 +124,7 @@ Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
 
 ---
 
-## Lesson 3
+## ܕܪܫܐ 3
 
 
 
@@ -134,22 +134,22 @@ Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
 
 **Learn the following words:**
 
-**śruti** f. = ⟪श्रुति⟫ : hearing, the eternal tradition (designation for the Vedas and Brāhmaṇa's).
+**śruti** f. = ⟪श्रुति⟫ : ܐܕܢܬܐ, ܗܝ ܓܘܪܟܢܬܐ ܕܥܠܡܝܘܬܐ (ܫܡܗ ܕܠܦ̈ܘܬܐ ܘܒܪܗܡܢ̈ܐ).
 
-**smṛti** f. = ⟪स्मृति⟫ : recollection, memory, meditative recollection = mindfulness, tradition (counter-concept to **śruti**). Encompasses:
-- the six **vedāṅga** n. (⟪वेदाङ्ग⟫)
-  1. **śikṣā** f. (⟪शिक्षा⟫): correct pronunciation
-  2. **chandas** n. (⟪छन्दस्⟫): meter
-  3. **vyākaraṇa** n. (⟪व्याकरण⟫): grammar
-  4. **nirukta** n. (⟪निरुक्त⟫) : word explanation, etymology
-  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : astronomy, calendar science
-  6. **kalpa** m. (⟪कल्प⟫) : ceremonial
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : treatises for the performance of the great sacrifices
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : treatises for the ceremonies and sacrifices of daily life
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) and **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : treatises on law and custom (right conduct)
-- the great epics **mahābhārata** n. (⟪महाभारत⟫) and **rāmāyaṇa** n. (⟪रामायण⟫)
-- the **purāṇa** n. (⟪पुराण⟫)
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : treatises of worldly wisdom
+**smṛti** f. = ⟪स्मृति⟫ : ܐܬܩܪܝ, ܓܒܝܢܘܬܐ, ܐܬܩܪܝ ܒܡܕܫܢܐ = ܦܘܪܩܢܘܬܐ, ܓܘܪܟܢܬܐ (ܡܠܬܐ ܕܝܬܝܪܐ ܡܢ **śruti**). ܬܫܟܠ:
+- ܣܗܕ **vedāṅga** n. (⟪वेदाङ्ग⟫)
+1. **śikṣā** f. (⟪शिक्षा⟫): ܐܬܩܝܡ ܦܘܪܫܢܐ
+2. **chandas** n. (⟪छन्दस्⟫): ܡܢܘܗܪܐ
+3. **vyākaraṇa** n. (⟪व्याकरण⟫): ܩܘܢܝܢܐ
+4. **nirukta** n. (⟪निरुक्त⟫) : ܐܬܩܝܡ ܠܦ̈ܘܬܐ, ܫܪܫܝܘܬܐ
+5. **jyotiṣa** n. (⟪ज्योतिष⟫) : ܐܣܬܪܘܢܘܡܝܐ, ܩܘܢܝܢܐ ܕܫܪܒܬܐ
+6. **kalpa** m. (⟪कल्प⟫) : ܡܠܟܘܬܐ
+- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : ܟܬܒ̈ܐ ܕܠܦ̈ܘܬܐ ܥܠ ܨܒܚܐ ܪܒܬܐ
+- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : ܟܬܒ̈ܐ ܕܠܦ̈ܘܬܐ ܥܠ ܨܒܚܐ ܘܡܠܟܘܬܐ ܕܚܝܠܦ̈ܐ
+- **dharmasūtra** n. (⟪धर्मसूत्र⟫) ܘ **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : ܟܬܒ̈ܐ ܥܠ ܩܘܢܝܢܐ ܘܡܪܒܥ (ܫܠܝܡܘܬܐ)
+- ܟܬ̈ܒܝ ܪܒܬܐ **mahābhārata** n. (⟪महाभारत⟫) ܘ **rāmāyaṇa** n. (⟪रामायण⟫)
+- ܟܬ̈ܒܐ **purāṇa** n. (⟪पुराण⟫)
+- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : ܟܬ̈ܒܐ ܕܚܘܟܡܬܐ ܕܥܠܡܐ
 
 **smṛti** is also particularly designation for Dharma treatises.
 
@@ -194,7 +194,7 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 ---
 
-## Lesson 5
+## ܕܰܪܫܳܐ 5
 
 
 
@@ -204,7 +204,7 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **Learn the following words:**
 
-**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : inclination, tenacity, insistence; specifically: attachment to the body as if it were something belonging to oneself.
+**abhiniveṣa** m. = ⟪अभिनिवेष⟫ : נְהוֹגָא, סְבַרְנוּתָא; בִּפְלִיגוּ: עַנְיוּתָא לְגוּפָא כְּאַדַר דִּילֵיהּ.
 
 **kāma** m. = ⟪काम⟫ : wish, desire, desired gift, sensual pleasure, love; love god Kāma.
 
@@ -239,8 +239,8 @@ Fig.: God Kāma = kāmadeva = ⟪कामदेव⟫, 18th century.
 
 **avidyā** f. = ⟪अविद्या⟫ : ignorance, non-knowledge.
 
-**ca** = ⟪च⟫ : and.
-(Placed after the word it connects. When connecting multiple words, it ideally stands after the first word of the last connected element: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
+**ca** = ⟪च⟫ : ו.
+(מוצב לאחר המילה שהוא מחבר. כאשר הוא מחבר מספר מילים, רצוי שיימצא לאחר המילה הראשונה של האלמנט המקושר האחרון: brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫).
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : both ... and.
 
@@ -255,29 +255,29 @@ Fig.: God Kāma = kāmadeva = ⟪कामदेव⟫, 18th century.
 
 
 ::: grammar-box
-In Sanskrit, verbs are listed in the **root form**. The number after the root indicates the **conjugation class**.
+בְּסַנְסְקִיט, פְעוּלִין מְתַרְגְמִין בְּפוּמָא דְשׁוֹרֶשׁ. מַסְפָּא אֲחוֹרֵי שׁוֹרֶשׁ מְעַדָּא קַטְגוֹרְיָת אִיתְעֲנָא.
 
-- **P:** Root is only Parasmaipada
-- **Ā:** Root is only Ātmanepada
-- **U:** Ubhayapada ("both word forms"): Root is used in both Parasmaipada and Ātmanepada.
-- **():** In parentheses is the 3rd person singular present indicative (laṭ).
+- **פ:** שׁוֹרֶשׁ דַּק פַּרָסְמַאִיפָּדָה
+- **אַ:** שׁוֹרֶשׁ דַּק אָתְמַנֵּיפָּדָה
+- **א:** אֻבְחַיָּפָּדָה ("שְׁתֵּי פוּמִין"): שׁוֹרֶשׁ מְטַלְעָא בְּפַרָסְמַאִיפָּדָה וְאַתְמַנֵּיפָּדָה.
+- **():** בְּסִימַן סָלֵיק הוּא פְעוּל תְּלִיתָאָה יַחֲדָא מוֹעֲלָם (לַט).
 
 :::
-**Learn the following words:**
-- **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : honor with a sacrifice, sacrifice
-- **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : become, arise, be
-- **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : make present, remember
-- **nṛt** 4 P (nṛtyati) ⟪नृत्⟫ ⟪नृत्यति⟫ : dance
-- **nī** 1 U (nayati) ⟪नी⟫ ⟪नयति⟫ : lead
-- **man** 4 Ā (manyate) ⟪मन्⟫ ⟪मन्यते⟫ : think
-- **muh** 4 P (muhyati) ⟪मुह्⟫ ⟪मुह्यति⟫ : be confused
-- **yudh** 4 Ā (yudhyate) ⟪युध्⟫ ⟪युध्यते⟫ : fight
-- **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : enter
-- **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : release, let out, cause to emanate
+**לְמִדָּן מֵימְרַיָּא הָכִין:**
+- **יאג** 1 א (יאגַתִי) ⟪यज्⟫ ⟪यजति⟫ : כַּבֵּיד בְּקָרְבָּנָא, קַרֵיב
+- **בו** 1 פ (בהוַתִי) ⟪भू⟫ ⟪भवति⟫ : הֲוָה, עַלְיָא, יֵשׁ
+- **סמַר** 1 פ (סְמָרַתִי) ⟪स्मृ⟫ ⟪स्मरति⟫ : עֲבַד מְקָרֵב, זְכוֹר
+- **נַרְת** 4 פ (נַרְתִי) ⟪नृत्⟫ ⟪नृत्यति⟫ : רַקֵּד
+- **נִי** 1 א (נַיאַתִי) ⟪नी⟫ ⟪नयति⟫ : נַחֲל
+- **מַן** 4 א (מַנְיָתִי) ⟪मन्⟫ ⟪मन्यते⟫ : סָבַר
+- **מוּה** 4 פ (מוּהִי) ⟪मुह्⟫ ⟪मुह्यति⟫ : אֲבַל
+- **יוּדְה** 4 א (יוּדְיָתִי) ⟪युध्⟫ ⟪युध्यते⟫ : מִלְחָמָא
+- **וִישׁ** 6 פ (וִישָׁתִי) ⟪विश्⟫ ⟪विशति⟫ : עֲלָה
+- **סַרְג** 6 פ (סַרְגָתִי) ⟪सृज्⟫ ⟪सृजति⟫ : שְׁלַח, פָּרַשׂ, גִּיט
 
 ---
 
-## Lesson 7
+## ܠܶܩܨܝܳܐ 7
 
 
 
@@ -287,31 +287,31 @@ In Sanskrit, verbs are listed in the **root form**. The number after the root in
 
 **Learn the following words:**
 
-- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : reach, arrive at, attain
-- **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : reach, attain
-- **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : be angry
-- **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : be angry
-- **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : chew, eat
-- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : hear (something: Accusative, someone: Genitive or Accusative; about: Accusative; from someone: Genitive, Ablative, Instrumental)
-- **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : press out
-- **soma** m. ⟪सोम⟫ : pressed drink, Soma; Moon (Which plant Soma was pressed from is still disputed to this day).
+- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : ܡܠܟܘܬܐ, ܐܬܐ, ܚܕ
+- **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : ܐܬܐ, ܚܕ
+- **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : ܐܓܝܡ
+- **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : ܐܓܝܡ
+- **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : ܡܠܟ, ܐܟܠ
+- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : ܫܡܥ (ܟܢܝܬ: ܐܘܪܚܐ, ܟܢܝܬ: ܓܒܪܐ: ܕܡܘܣܟܐ ܐܘ ܐܘܪܚܐ; ܟܢܝܬ: ܕܡܘܣܟܐ; ܡܢ ܓܒܪܐ: ܕܡܘܣܟܐ, ܦܠܘܚܐ, ܡܕܢܚܐ)
+- **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : ܦܠܚ
+- **soma** m. ⟪सोम⟫ : ܦܠܚ ܐܘܪܚܐ, ܣܘܡܐ; ܫܠܝܦܢܐ (ܕܡܘܣܟܐ ܐܝܬ ܦܠܚ ܣܘܡܐ ܦܠܚ ܡܢ ܗܝ ܬܩܦ ܠܐ ܡܕܥܝܢ ܗܘܐ).
 ::: media
 ![](/images/lekt0701.webp)
-Fig.: Was this the Vedic Soma plant?: Fly agaric: *Amanita muscaria* (L.) Lam.
-(Image source: [Details](/licenses#lekt0701))
+ܩܘܣܡܐ: ܗܕܐ ܗܘܝ ܦܠܚ ܣܘܡܐ ܕܟܬܒܐ: ܦܠܚ ܐܡܪܝܢܘܬܐ: *Amanita muscaria* (L.) Lam.
+(ܡܕܒܪ ܐܝܟܬܐ: [ܦܠܘܚ](/licenses#lekt0701))
 :::
-- **phala** n. ⟪फल⟫ : fruit (also in a figurative sense: (karmic) fruit of an action)
-- **nṛtya** n. ⟪नृत्य⟫ : dance
-- **svarga** m. ⟪स्वर्ग⟫ : heaven
-- **naraka** m. ⟪नरक⟫ : hell (according to a Hindu conception, the universe has the form of an egg (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Egg of Brahmā"): above the earth are six heavens with increasing bliss, below the earth are seven so-called **pātāla** n. = ⟪पाताल⟫, dwellings of the **nāga** m. = ⟪नाग⟫ (snakes) and other mythical beings, among them come 7 hells with increasing torments)
-- **aṅga** n. ⟪अङ्ग⟫ : limb of the body, component; also = **vedāṅga** = ⟪वेदाङ्ग⟫
-- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : go (According to the indigenous verb classification, it belongs to present class 1, but in reality it is a formation with a present stem formation suffix **-ccha-**: **gam** » reduced grade (**gm** ») **ga-ccha-ti**)
+- **phala** n. ⟪फल⟫ : ܦܠܚ (ܐܝܟܬܐ: ܦܠܘܚ ܕܡܠܟܬܐ: ܦܠܘܚ ܕܡܠܟܬܐ)
+- **nṛtya** n. ⟪नृत्य⟫ : ܡܠܟ
+- **svarga** m. ⟪स्वर्ग⟫ : ܫܡܝܐ
+- **naraka** m. ⟪नरक⟫ : ܓܘܗܪܐ (ܟܢܝܬ: ܕܡܘܣܟܐ, ܫܠܝܦܢܐ ܗܘܐ ܟܕܡܝܬ: **Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "ܓܘܗܪ ܕܒܪܗܡܐ"): ܥܠ ܦܘܣܩܐ ܗܢܫܝܢ ܫܡܝܐ ܕܦܠܘܚ ܒܪܟܬܐ, ܡܬܝܢ ܦܘܣܩܐ ܗܒܥܬܐ **pātāla** n. = ⟪पाताल⟫, ܡܕܝܢܬ ܕ**nāga** m. = ⟪नाग⟫ (ܐܘܢܝܬ) ܘܟܠ ܡܕܥܝܢ, ܒܗܘܢ ܐܬܝܠܕ 7 ܓܘܗܪܐ ܕܦܠܘܚ ܟܝܢܬ)
+- **aṅga** n. ⟪अङ्ग⟫ : ܦܘܣܩܐ ܕܢܒܠ, ܡܕܥܝܢ; ܐܝܟܬ: = **vedāṅga** = ⟪वेदाङ्ग⟫
+- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : ܐܟܘ (ܟܢܝܬ: ܕܡܘܣܟܐ, ܗܘ ܒܝܬ ܦܠܘܚ 1, ܐܠܐ ܗܘ ܦܘܣܩܐ ܕܡܠܟܬ ܦܘܣܩܐ **-ccha-**: **gam** » ܡܬܝܢ (**gm** ») **ga-ccha-ti**)
 
 
 
 ---
 
-## Lesson 8
+## ܕܪܫܐ 8
 
 
 
@@ -321,40 +321,40 @@ Fig.: Was this the Vedic Soma plant?: Fly agaric: *Amanita muscaria* (L.) Lam.
 
 **Learn the following words:**
 
-- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : triumph, defeat, conquer
-- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : grasp, obtain, seize
-- **tu** ⟪तु⟫ : but (appears after the first word of the opposing sentence or sentence part)
-- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : see, behold (used as the present stem instead of the root **dṛś** 0 "see, behold")
-- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : make, do
-- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : stretch
-- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : guard
-- **sārathi** m. ⟪सारथि⟫ : charioteer, driver
-- **kapi** m. ⟪कपि⟫ : monkey
-- **kumārī** f. ⟪कुमारी⟫ : the girl, the maiden
-- **nāga** m. ⟪नाग⟫ : the naked one, the elephant, the snake (Elephants and snakes have no fur, just like the "naked monkey" human)
-- **gaja** m. ⟪गज⟫ : elephant
-- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : mourn
-- **śuka** m. ⟪शुक⟫ : parrot
-- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : fall, fly
-- **patrikā** f. ⟪पत्रिका⟫ : letter
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : incise, write (originally with a stylus on a palm leaf, but then generally)
+- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : ܛܥܡ, ܢܨܚ, ܟ̈ܘܠ
+- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : ܦ̈ܩܕ, ܚܙܐ, ܟ̈וֹל
+- **tu** ⟪तु⟫ : ܠܐ (ܬܩܦ ܒܥܝܪ ܕܡܠܬܐ ܘܫܒܟܬܐ)
+- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : ܚܙܐ, ܪܟ̈וֹל (ܬܩܦ ܒܥܝܪ ܕܡܠܬܐ **dṛś** 0 "ܚܙܐ, ܪܟ̈וֹל")
+- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : ܥܒ̈ܕ, ܠܘܬ
+- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : ܢܘܚ
+- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : ܦ̈ܩܕ
+- **sārathi** m. ⟪सारथि⟫ : ܣ̈ܦܪ, ܢܘܟ
+- **kapi** m. ⟪कपि⟫ : ܟ̈וֹל
+- **kumārī** f. ⟪कुमारी⟫ : ܐܢ̈ܬܐ, ܟ̈וֹל
+- **nāga** m. ⟪नाग⟫ : ܐ̈ܢܘܟ, ܣ̈ܦܪ, ܐ̈וֹר (ܫܒܟܬܐ ܘܣ̈ܦܪ ܠܝܫܢ, ܐܘ̈ܟܪ)
+- **gaja** m. ⟪गज⟫ : ܣ̈ܦܪ
+- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : ܡ̈ܠܐ
+- **śuka** m. ⟪शुक⟫ : ܟ̈וֹל
+- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : ܢܘܚ, ܠܐ
+- **patrikā** f. ⟪पत्रिका⟫ : ܐ̈וֹר
+- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : ܥ̈וֹר, ܠܐ (ܒܝܬ ܣ̈ܦܪ, ܠܐ)
 
 ::: media
 ![](/images/lekt0809.jpg)
-Fig.: **likh** (⟪लिख्⟫) : Indian steel stylus for incising palm leaves
+Fig.: **likh** (⟪लिख्⟫) : ܣ̈ܦܪ ܠܐ
 (Image source: [Details](/licenses#lekt0809))
 :::: media
 ![](/images/lekt0810.jpg)
-Fig.: **likh** (⟪लिख्⟫) : Writing stick of the Batak (Sumatra), as it was probably also used in India
+Fig.: **likh** (⟪लिख्⟫) : ܣ̈ܦܪ ܠܐ
 (Image source: [Details](/licenses#lekt0809))
 ::::
 :::
-- **sukha** n. ⟪सुख⟫ : happiness, well-being
-- **duḥkha** n. ⟪दुःख⟫ : misfortune, suffering
+- **sukha** n. ⟪सुख⟫ : ܡ̈ܠܐ, ܦ̈וֹר
+- **duḥkha** n. ⟪दुःख⟫ : ܡ̈ܠܐ, ܦ̈וֹר
 
 ---
 
-## Lesson 9
+## ܐܘܠܦܢܐ 9
 
 
 
@@ -375,28 +375,28 @@ Fig.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tirup
 
 ::: media
 ![](/images/lekt0902.webp)
-Fig.: **kāru** = ⟪कारु⟫, Gujarat.
-(Image source: [Details](/licenses#lekt0902))
+ܩ̈ܘܪܬܐ: **ܟܰܪܘ** = ⟪कारु⟫, ܓ̈ܘܓ̈ܪܰܛ.
+(ܡܕܝܢܬ ܨ̈ܠܥܐ: [ܦ̈ܪܣܡ̈ܘܬ̈](/licenses#lekt0902))
 :::
-- **kuśīlava** m. (⟪कुशीलव⟫) : (wandering) showman, actor, singer
-- **kusīda** n. (⟪कुसीद⟫) : usury
-- **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : to pull
-- **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : to plow
-  - from this: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : agriculture
-- **dāna** n. (⟪दान⟫) : giving, gift, generosity
-- **pratigraha** m. (⟪प्रतिग्रह⟫) : receiving, gift
-- **pravacana** n. (⟪प्रवचन⟫) : speech, (oral) instruction
-- **pāśupālya** n. (⟪पाशुपाल्य⟫) : cattle keeping, cattle breeding
-- to **yaj** 1 U:
-  - **ijyā** f. (⟪इज्या⟫) : sacrifice (from \*yj » ij + suffix **yā**)
-  - **yajana** n. (⟪यजन⟫) : sacrifice on behalf of someone else
-- **rūpa** n. (⟪रूप⟫) : appearance, form, beautiful form, nature, essence
-- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : trade
-- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : obedience, obedient service
+- **ܟ̈ܘܣ̈ܝܠܰܒܰ** ܡ̈. (⟪कुशीलव⟫) : (ܠܘܬ ܐܝܟܐ) ܪ̈ܒܐ ܕܩ̈ܘܪܬܐ, ܣ̈ܟ̈ܢܐ
+- **ܟ̈ܘܣ̈ܝܕܰ** ܢ̈. (⟪कुसीद⟫) : ܩ̈ܘܠܐ ܕܚ̈ܡܝܬܐ
+- **ܟ̈ܪ̈ܣ** 1 ܦ̈. (ܟܰܪܣ̈ܬܝ) ⟪कृष्⟫ ⟪कर्षति⟫ : ܠܘܬ ܐܝܟܐ
+- **ܟ̈ܪ̈ܣ** 6 ܐ̈. (ܟܰܪܣ̈ܬܝ) ⟪कृष्⟫ ⟪कृषति⟫ : ܠܘܬ ܐܝܟܐ
+- מן ܗ̈ܕ: **ܟ̈ܪ̈ܣܝ** ܦ̈. / **ܟ̈ܪ̈ܣܝܩܰ** ܦ̈. (⟪कृषि⟫ / ⟪कृषिका⟫) : ܩ̈ܘܠܐ ܕܚ̈ܡܝܬܐ
+- **ܕܰܢܰ** ܢ̈. (⟪दान⟫) : ܠܘܬ ܐܝܟܐ, ܡ̈ܗܒܬܐ
+- **ܦ̈ܪܬܝܓ̈ܪܗܰ** ܡ̈. (⟪प्रतिग्रह⟫) : ܠܘܬ ܐܝܟܐ, ܡ̈ܗܒܬܐ
+- **ܦ̈ܪܰܘܰܐܟ̈ܢܰ** ܢ̈. (⟪प्रवचन⟫) : ܠܘܬ ܐܝܟܐ, (ܫ̈ܡܥܬܐ) ܠܘܬ ܐܝܟܐ
+- **ܦ̈ܰܥ̈ܘܦ̈ܝܰ** ܢ̈. (⟪पाशुपाल्य⟫) : ܩ̈ܘܠܐ ܕܚ̈ܡܝܬܐ, ܩ̈ܘܠܐ ܕܚ̈ܡܝܬܐ
+- ܠܘܬ **ܝ̈ܰܓ** 1 ܐ̈.:
+- **ܝ̈ܰܓ̈ܝܰ** ܦ̈. (⟪इज्या⟫) : ܠܘܬ ܐܝܟܐ (מן \*yj » ܝ̈ + ܣ̈ܘܦܐ **ܝ̈**)
+- **ܝ̈ܰܓ̈ܢܰ** ܢ̈. (⟪यजन⟫) : ܠܘܬ ܐܝܟܐ ܡܢ ܚ̈ܕܪܐ
+- **ܪ̈ܘܦܰ** ܢ̈. (⟪रूप⟫) : ܠܘܬ ܐܝܟܐ, ܣ̈ܘܪܬܐ, ܣ̈ܘܪܬܐ ܕܢ̈ܝܩܐ, ܣ̈ܘܪܬܐ
+- **ܒ̈ܰܢܝܩܬܐ** ܢ̈. / **ܒ̈ܰܢܝܩܬܐ** ܦ̈. / **ܒ̈ܰܢܝܩܬܐ** ܦ̈. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : ܩ̈ܘܠܐ ܕܚ̈ܡܝܬܐ
+- **ܫ̈ܘܫ̈ܪ̈ܝܰ** ܦ̈. (⟪शुश्रूषा⟫) : ܠܘܬ ܐܝܟܐ, ܠܘܬ ܐܝܟܐ
 
 ---
 
-## Lesson 10
+## ܡܠܦܢܐ 10
 
 
 
@@ -411,23 +411,23 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 - **nagara** n. ⟪नगर⟫ : city
 
 ::: note-box
-  For city and village life, see Basham, *Wonder*, Chapter 6.
+ܠܥܒܕܐ ܟܘܪܬܐ ܘܚܝ̈ܠܐ ܕܥܡܪܐ ܟܘܢ ܒܫܠܬ ܕܒܫܡ ܒܐܣܡ ܠܟܘܢ ܫܪܩܐ ܕܡܠܦܬܐ.
 :::
 ::: note-box
-  In India, sacrifice is primarily a veneration of the deity as a guest. By this, one obligates oneself to the deity.
-  
-  Word formation: **yaj** 1 U + kṛt suffix **-na-**.
+ܒܗܕܐ ܝܘܠܦܬܐ ܡܢ ܕܥܒܕ ܠܗ ܐܝܟ ܡܪܒܐ ܕܥܒܕ ܠܗ ܡܪܝܢܐ.
+
+ܫܘܬܦܬܐ ܕܡܠܦܬܐ: **yaj** 1 U + kṛt suffix **-na-**.
 :::
 ::: note-box
-  By which one earns well-being and good rebirths.
-  :::- **pāpa** n. ⟪⟨DEVA_33⟩⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
-- **satya** n. ⟪सत्य⟫ : truth
+ܕܡܢ ܗܠܟ ܐܝܬ ܠܗ ܫܠܡܘܬܐ ܘܚܝ̈ܠܐ ܕܥܡܪܐ.
+  :::- **pāpa** n. ⟪⟫ : Übeltat, Böses (Gegensatz zu **puṇya**)
+- **satya** n. ⟪सत्य⟫ : ܐܠܦ
 
 :::
 ::: note-box
-In India, the true word was attributed with magical power; indeed, the entire cosmic order is maintained and created by the true word. For this important concept, see the fundamental work:
+בְּהוֹדוּ, מִלְתָּא דִקְשׁוֹטָא אַשֵּׁימֻהּ בְּכֹחָא אַגְדָּרָא; וַאֲרום, כָּל סְדוּרָא עַלְמָאָה בִּקְשׁוֹטָא דִמְלַתָּא אִיתְקַיְּם וְאַשְׁכַּח. לִגְוַון מֵימְרָא חֲשׁוּבָה הַדֵין, אִתְקְרֵי לְסִפְרָא בִּנְיָנָא:
 
-Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII pp., pp. 340 - 764
+Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII pp., pp. 340 - 764
 :::: media
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
@@ -438,12 +438,12 @@ Fig.: ⟪वरुणः⟫
 - **anṛta** n. ⟪अनृत⟫ : untruth, lie (opposite of **satya**)
 
 ::: note-box
-  Word formation **an-** ("un-") + **ṛta** n.
-  
-  **ṛta** is a central concept in the Veda, whose translation is disputed: "truth" (Lüders, Thieme), "order" (Renou).
+Word formation **an-** ("un-") + **ṛta** n.
+
+**ṛta** is a central concept in the Veda, whose translation is disputed: "truth" (Lüders, Thieme), "order" (Renou).
 :::
 ::: note-box
-  The names of these **ṛṣi**s are mentioned in the Brāhmaṇas as well as in separate lists of the Vedas. All Brahmins trace their origin to such **ṛṣi**s after whom their **gotra** (⟪गोत्र⟫) are named. For the concept **gotra** see Basham, *Wonder*, Chap. 5.
+The names of these **ṛṣi**s are mentioned in the Brāhmaṇas as well as in separate lists of the Vedas. All Brahmins trace their origin to such **ṛṣi**s after whom their **gotra** (⟪गोत्र⟫) are named. For the concept **gotra** see Basham, *Wonder*, Chap. 5.
 :::: media
 ![](/images/lekt1002.jpg)
 Fig.: ⟪विश्वामित्रः⟫
@@ -456,7 +456,7 @@ Fig.: ⟪विश्वामित्रः⟫
 
 ---
 
-## Lesson 11
+## ܡܠܦܢܐ 11
 
 
 
@@ -466,22 +466,22 @@ Fig.: ⟪विश्वामित्रः⟫
 
 **Learn the following words:**
 
-- **iti** ⟪इति⟫ : thus
-  - Stands *after* the formulation of a thought, wish, utterance, quote as if as quotation marks (").
-  - e.g. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmins say: 'The righteous go to heaven'" = "Brahmins say that the righteous go to heaven".
-  - In Sanskrit there is no indirect speech; formations with **iti** often need to be rendered in indirect speech in German.
-  - **... (quote) ... iti śrutiḥ** = "thus the Veda".
-  - Often a verb of thinking is to be assumed after **iti**: "thinking: '...' he does that". Render idiomatically in German (e.g. "Because he is hungry, he goes...").
+- **iti** ⟪इति⟫ : אֲרֵק
+- עומד *אחרי* ניסוח של מחשבה, משאלה, אמירה או ציטוט כאילו כמרכאות ("").
+- למשל: **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "כֹּהֲנִים אומרים: 'צַדִיקִים עוֹלִים לְשָׁמַיִם'" = "כֹּהֲנִים אומרים שצַדִיקִים עוֹלִים לְשָׁמַיִם".
+- בסנסקריט אין דבור עקיף; צורות עם **iti** לרוב יש להציג בדבור עקיף בגרמנית.
+- **... (ציטוט) ... iti śrutiḥ** = "כֹּה הַוֵידָה".
+- לעיתים קרובות יש להניס פעל מחשבה אחרי **iti**: "חושב: '...' הוא עושה זאת". יש לתרגם באופן אידיומטי לגרמנית (למשל "בגלל שהוא רעב, הוא הולך...").
 
 - **evam** ⟪एवम्⟫ : thus (adverbial, e.g. **evaṃ jayati** "thus he wins").
 - **na** ⟪न⟫ : not
   - Negates individual words (stands immediately before it: **na sādhuḥ** "a not good") or entire sentences (stands at the beginning or immediately before the verb).
 
-- **putra** m. ⟪पुत्र⟫ : son (In India it was necessary to beget a son who could perform the sacrifices for the ancestors.)
-- **dharma** m. ⟪धर्म⟫ : ("that which is firm", i.e.) right, law, custom, character.
-  - Corresponds most closely to natural law/moral law. Everyone has his own duties (**svadharma**) according to **varṇa** and **āśrama** (stage of life).
-- **adharma** m. ⟪अधर्म⟫ : injustice (opposite of **dharma**).
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : to wish (**iṣ-ccha-ti**).
+- **putra** m. ⟪पुत्र⟫ : ܣܘܼܪ̈ܐ (ܒܝܬ ܦܘܿܠܲܟ̈ܐ ܗܝ ܕܡܼܘܿܬ̈ܐ ܠܗܝܡܼܘܿܢ̈ܐ ܠܦܹܠܲܚ̈ܝܢ).
+- **dharma** m. ⟪धर्म⟫ : (ܕܡܼܘܿܬ̈ܐ ܟܹܝܼܡ̈ܐ) ܫܘܿܪ̈ܬܵܐ, ܩܲܢܘܼܢ̈ܐ, ܥܵܕܬܵܐ, ܡܲܪ̈ܟܹܒܬܵܐ.
+- ܡܼܘܿܬ̈ܪ ܠܩܲܢܘܼܢ̈ܐ ܕܬܹܫܒܘܼܩܬܵܐ/ܡܲܪ̈ܟܹܒܬܵܐ. ܠܗܝܡܼܘܿܢ̈ܐ ܠܗܝܡܼܘܿܢ̈ܐ ܠܗܝܡܼܘܿܢ̈ܐ ܠܗܝܡܼܘܿܢ̈ܐ (svadharma) ܠܦܹܠܲܚ̈ܝܢ varṇa ܘ āśrama (ܡܲܪ̈ܟܹܒܬܵܐ ܕܚܲܝ̈ܠܹܐ).
+- **adharma** m. ⟪अधर्म⟫ : ܥܵܕܬܵܐ (ܡܼܘܿܬ̈ܪ ܕ dharma).
+- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : ܠܼܘܿܬ (iṣ-ccha-ti).
 
 **Some nominal formations:**
 
@@ -502,7 +502,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 
 ---
 
-## Lesson 12
+## ܡܠܦܢܐ 12
 
 
 
@@ -510,7 +510,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 
 
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : to awaken, to awaken to knowledge, to recognize; PPP **buddha** 3 awakened, hence **Buddha** = "the awakened one" (not: the enlightened one)
+- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : ܠܐܘܬ ܠܒܝܬ, ܠܐܘܬ ܠܡܕܢܬ, ܠܫܟܪ; PPP **buddha** 3 ܠܐܘܬ, ܡܢ ܗܢܐ **Buddha** = "ܠܐܘܬ ܒܪ" (ܠܐ: ܠܡܕܟ)
 
 ::: media
 ![](/images/lekt1201.webp)
@@ -529,16 +529,16 @@ Fig.: ⟪मार्गः⟫
 :::
 - **api** ⟪अपि⟫ : also (postposed)
 
-To the 6th present class, some roots are counted by the indigenous grammarians, which form the present stem with nasal infix and thematic vowel a, e.g.:
+ܠܡܠܦܢܘܬܐ ܣܪܝܩܬܐ ܫܡܬܐ، ܗܝ ܓܪܡܘܣ̈ܐ ܕܥܢܝܬܐ ܡܫܟܠ̈ܝܢ، ܕܐܪܡܘܿܢ ܫܪܩܬܐ ܕܨܘܿܡܢܝܼܬܐ ܒܨܘܿܡܢܝܼܬܐ ܕܨܘܿܡܢܝܼܬܐ ܕܨܘܿܡܢܝܼܬܐ، ܠܦ̈ܘܿܡ:
 
 - **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : unfasten, let go, liberate; from the cycle of rebirths (**saṃsāra** m.) liberate = redeem
 - **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : sprinkle
 
 Regarding word formation:
 
-- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : release, liberation, redemption
-- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : sprinkling of a king during the royal consecration, royal consecration
-- **budh**: **bodhi** m./f. ⟪बोधि⟫ : the awakening (through which a Buddha or Jina attains liberating insight)
+- **muc**: **mokṣa** m. ⟪मोक्ष⟫ : ܐܦܩܘܪܐ, ܫܝܥܬܐ, ܦܘܪܩܢ
+- **sic** + **abhi-**: **abhiṣeka** m. ⟪अभिषेक⟫ : ܢܛܦܬܐ ܕܡܠܟܐ ܒܨܘܪܬ ܫܘܦܛܐ, ܫܘܦܛܐ ܡܠܟܝܬ
+- **budh**: **bodhi** m./f. ⟪बोधि⟫ : ܐܬܒܘܪ (ܕܡܢܗ ܒܥܝܐ ܒܪܟܐ ܠܡܕܥ ܫܝܥܬܐ)
 
 ::: media
 ![](/images/lekt1203.webp)
@@ -549,7 +549,7 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 ---
 
-### 12.5.1. Passive and PPP of the roots learned so far
+### 12.5.1. ܦܣܝܒܐ ܘܦܦܦ ܕܥܩܪ̈ܐ ܕܐܬܝܠܦܘ ܥܕܡܐ ܠܗܫܐ
 
 | Root:br⟪धातु⟫ | Passive Present 3. sg. Indicative:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
@@ -601,43 +601,43 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 ---
 
-## Lesson 13
+## ܡܠܦܢܐ 13
 
 Learn the following words:
 
 - **eva** ⟪एव⟫ : emphasizes preceding word
 - **asura** m. ⟪असुर⟫ : demon
 
-> **ASURA.** 'Spiritual, divine.'
+> **ܐܣܘܪܐ.** 'ܪܘܚܝܐ، ܐܠܗܝ.'
 >
-> In the oldest parts of the Ṛgveda this term is used for the supreme spirit, and is the same as the Ahura of the Zoroastrians. In the sense of 'god' it was applied to several of the chief deities, as to Indra, Agni, and Varuṇa. It afterwards acquired an entirely opposite meaning, and came to signify, as now, a demon or enemy of the gods.
+> ܒܦܠܘ̈ܗܝ ܕܪܝܫܬܐ ܕܪ̈ܓܘܠ ܪ̈ܓܒܕܐ، ܗܢܐ ܠܫܢܐ ܬܝܡܪ ܥܠ ܪ̈ܘܚܐ ܫܠܝܡܬܐ، ܘܗܘ ܗܘ ܠܫܢܐ ܕܐܚܘܪܐ ܕܙܝܪܘܣܛܪ. ܒܡܠܬܐ ܕ'ܐܠܗܐ'، ܬܝܡܪ ܥܠ ܚܕ ܡܢ ܫܘܣ̈ܦܐ ܕܐܠ̈ܗܬܐ، ܟܡܐ ܕܐܝܢܕܪܐ، ܐܓܢܝ، ܘܒܪܘܢܐ. ܠܚܕ ܫܝܦܬܐ ܩܒܠܬ ܡܠܬܐ ܕܦܘ̈ܟܪܢܐ، ܘܐܬܝܠܕ ܠܡܥܕܪ، ܟܐܦܘ̈ܠ ܗܕܐ، ܫܡܣܟܢܐ ܘܥܕܪ.
 >
-> The word is found with this signification in the later parts of the Ṛgveda, particularly in the last book, and also in the Atharvaveda. The Brāhmaṇas attach the same meaning to it, and record many contests between the Asuras and the gods. According to the Taittirīya Brāhmaṇa, the breath *(asu)* of Prajapati became alive, and "with that breath he created me Asuras." In another part of the same work it is said that Prajāpati "became pregnant. He created Asuras from his abdomen." The Śatapatha Brāhmaṇa accords with the former statement, and states that "he created Asuras from his lower breath." The Taittirīya Āraṇyaka represents that Prajāpati created gods, men, fathers, Gandharvas, and Apsarases from water, and that the Asuras, Rakṣasas, and piśācas sprang from the drops which were spilt. Manu's statement is that they were created by the Prajāpatis.
+> ܗܢܐ ܠܫܢܐ ܬܝܡܪ ܒܗܠܟܢܐ ܕܫܘܣ̈ܦܐ، ܒܦܠܘ̈ܗܝ ܕܪ̈ܓܘܠ ܪ̈ܓܒܕܐ، ܒܝܬܪ ܒܟܘ̈ܠܐ ܚܕܫܬܐ، ܘܒܐܬܪܒܝܕ. ܟ̈ܠܡܘ̈ܬ ܒܪܗܡܢܐ ܠܟܝܠܬ ܒܗ، ܘܡܥܕܪ̈ܐ ܠܗܝܟܢ ܒܫܘ̈ܦܩܐ ܕܐܣܘܪܐ ܘܐܠ̈ܗܬܐ. ܒܡܠܬܐ ܕܛܝܘܪܝܐ ܒܪܗܡܢܐ، ܪ̈ܘܚܐ (ܐܣܘ) ܕܦܪܓܝܒܬܐ ܗܘܐ، ܘ'ܒܪ̈ܘܚܐ ܗܕܐ ܠܒܪ ܠܡܥܒܕ ܐܣܘܪܐ'. ܒܦܠܘ̈ܗܝ ܐܚܪܢܐ ܕܠܘܬ ܗܟܝܠ، ܐܝܕܥܐ ܕܦܪܓܝܒܬܐ 'ܗܘܐ ܠܦܢܝܐ. ܠܒܪ ܠܡܥܒܕ ܐܣܘܪܐ ܡܢ ܦܓܪܗ'. ܒܪ̈ܗܡܢܐ ܫܛܦܬܐ ܠܟܝܠ ܒܡܠܬܐ ܕܪܝܫܬܐ، ܘܡܥܕܪ ܠܗ 'ܠܒܪ ܠܡܥܒܕ ܐܣܘܪܐ ܡܢ ܪ̈ܘܚܐ ܬܠܝܬ'. ܛܝܪܝܐ ܐܪܢܝܩܐ ܡܥܕܪ ܠܗ ܕܦܪܓܝܒܬܐ ܠܒܪ ܠܡܥܒܕ ܐܠ̈ܗܬܐ، ܢܘܫܦܐ، ܐܒ̈ܗܬܐ، ܓܕܪܒܘܐ، ܘܐܦܣܪܝܐ ܡܢ ܡܝܐ، ܘܐܣܘܪܐ، ܪܟܣܝܐ، ܘܦܫܝܩܐ ܠܒܪ ܡܢ ܦܘ̈ܛܝܐ ܕܬܠܬ. ܡܘܢܐ ܡܥܕܪ ܠܗ ܕܒܝܬ ܦܪܓܝ̈ܢܐ ܠܒܪ.
 >
-> According to the Viṣṇu Purāṇa, they were produced from the groin of Brahma (prajāpati). The account of the Vāyu Purāṇa is: "Asuras were first produced as sons from his (Prajāpati's) groin. *Asu* is declared by Brāhmaṇa to mean breath. From it these beings were produced; hence they are Asuras." The word has long been used as a general name for the enemies of the gods, including the Daityas and Danavas and other descendants of Kaśyapa, but not including the Rakṣasas descended from Pulastya.
+> ܒܡܠܬܐ ܕܦܝ̈ܫܢܘ ܒܘܪܐܢܐ، ܠܒܪ ܡܢ ܦܓܪܐ ܕܒܗܡܐ (ܦܪܓܝܒܬܐ). ܡܠܬܐ ܕܘܝܐ ܒܘܪܐܢܐ: 'ܐܣܘܪܐ ܠܒܪ ܡܢ ܦܓܪܐ ܕܠܘܬ (ܦܪܓܝܒܬܐ). ܐܣܘ ܡܥܕܪ ܒܝܬ ܒܪ̈ܗܡܢܐ ܠܡܥܕܪ ܪ̈ܘܚ. ܡܢ ܗܠܟܢܐ ܗܕܐ ܠܒܪ؛ ܡܛܠ ܗܢܐ ܐܣܘܪܐ'. ܠܫܢܐ ܗܕܐ ܬܝܡܪ ܠܡܥܕܪ ܠܗ ܒܟܠܐ ܥܡ ܥܕܪ̈ܐ ܕܐܠ̈ܗܬܐ، ܟܡܐ ܕܕܝܛܝܐ، ܕܢܘܒܐ، ܘܦܠ̈ܗܝ ܕܟܫܝܦܐ، ܠܐ ܒܪ̈ܟܣܝܐ ܕܠܘܬ ܦܘܠܣܝܐ.
 >
-> In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
+> ܒܗܠܟܢܐ ܗܕܐ، ܡܥܒܕ ܠܗ ܫܘܣ̈ܦܐ ܐܚܪܢܐ: ܡܕܒܪ ܠܗ ܠܐ ܐܣܘ، 'ܪ̈ܘܚ'؛ ܠܐ ܒܝܬ ܐܦܣ، ܗܘ ܐܠܦܒܝܬ ܕ'ܐ' ܡܥܕܪ ܠܗ ܒܝܬ ܦܘ̈ܩܕܐ، ܘ'ܐܣܘܪܐ' ܡܠܬܐ 'ܠܐ ܐܠܗ'؛ ܡܛܠ ܗܢܐ، ܒܝܬ ܚܕ ܠܒܪ ܡܢ ܗܠܟܢܐ 'ܣܘܪ'، ܬܝܡܪ ܠܗ ܒܟܠܐ 'ܐܠܗ'.'
 >
-> [Source: **Dowson, John \<1820-1881\>:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [ܡܕܒܪ: **ܕܘܐܣܢ، ܝܘܚܢܐ &lt;1820-1881&gt;:** ܡܠܬܐ ܕܟܠܝܠ ܕܡܝܘܬܘܠܘܓܝܐ ܕܗܢܘ، ܘܕܬܡܝܪܐ، ܓܦܘ̈ܓܪܦܝܐ، ܬܫܒܚܬܐ، ܘܠܘܬܪܛܘܪܐ. -- ܠܘܕܩܝܐ، ܬܪܒܢܦܪ، 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
-Fig.: ⟪महिषासुरः⟫
-(Image source: [Details](/licenses#lekt1301))
+ܡܠܬܐ: ⟪महिषासुरः⟫
+(ܡܕܒܪ ܕܬܫܒܚܬܐ: [ܦܪܝ̈ܩܐ](/licenses#lekt1301))
 :::
-- **guṇa** m. ⟪गुण⟫ : thread, cord; quality, good quality
-- **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : to go, to arrive at
-- **as** 2 P (asti) ⟪अस्⟫ ⟪अस्ति⟫ : to be, to exist
-- **as** 4 P (asyati), Pass.: asyate, PPP asta ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : to throw, (away-)cast
-- **i** 2 P (eti), Pass.: īyate, PPP ita ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : to go
-- **pā** 2 P (pāti), Pass. pāyate, PPP pāta ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : to protect, to guard
+- **ܓܘܢܐ** ܡ. ⟪गुण⟫ : ܬܝܒܐ، ܦܘ̈ܛ؛ ܟܝܠܬܐ، ܟܝܠܬܐ ܛܒܬܐ
+- **ܦܕ** 4 ܐ (ܦܕܝܬ)، ܡܠ: ܦܕܝܬ، ܦܪ ܦܢܐ ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : ܠܟܢ، ܠܒܪ
+- **ܐ** 2 ܦ (ܐܣܬܝ) ⟪अस्⟫ ⟪अस्ति⟫ : ܠܗ، ܠܒܪ
+- **ܐ** 4 ܦ (ܐܣܝܬ)، ܡܠ: ܐܣܝܬ، ܦܪ ܐܣܛܐ ⟪अस्⟫ ⟪अस्यति⟫ ⟪अस्यते⟫ ⟪अस्त⟫ : ܠܒܪ، (ܠܐ)
+- **ܐ** 2 ܦ (ܐܬܝ)، ܡܠ: ܐܝܝܬ، ܦܪ ܐܛܐ ⟪इ⟫ ⟪एति⟫ ⟪ईयते⟫ ⟪इत⟫ : ܠܟܢ
+- **ܦܐ** 2 ܦ (ܦܬܝ)، ܡܠ: ܦܐܝܬ، ܦܪ ܦܬܐ ⟪पा⟫ ⟪पाति⟫ ⟪पायते⟫ ⟪पात⟫ : ܠܡܥܕܪ، ܠܡܥܒܕ
 
 ::: indent
-**pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : to drink (traditionally counted in the 1st class)
+**ܦܐ** 1 ܦ (ܦܒܬ)، ܡܠ: ܦܝܝܬ، ܦܪ ܦܝܛܐ ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : ܠܡܥܒܕ (ܬܪܝܙܐ ܠܡܥܒܕ ܒܟܘ̈ܠܐ ܪܝܫܬܐ)
 :::
-- **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : to hate, to be hostile towards
-- **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : to eat, to consume
-- **anna** n. ⟪अन्न⟫ : food (from PPP: *ad-na: that which is eaten)
+- **ܕܒܝ** 2 ܐ (ܕܒܝ̈ܣܬ)، ܡܠ: ܕܒܝ̈ܣܬ، ܦܪ ܕܒܝ̈ܣܛܐ ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : ܠܡܥܒܕ، ܠܡܥܒܕ ܠܗ
+- **ܐ** 2 ܦ (ܐܬܝ)، ܡܠ: ܐܕܝܬ، ܦܪ ܐܢܛܐ ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : ܠܡܥܒܕ، ܠܡܥܒܕ
+- **ܐܢܛܐ** ܡ. ⟪अन्न⟫ : ܐܟܠ (ܡܢ ܦܪ: *ܐ-ܢܐ: ܕܠܡܥܒܕ)
 
 ::: media
 ![](/images/lekt1304.webp)
@@ -665,7 +665,7 @@ dviṣ 2 U:
 :::
 ---
 
-## Lesson 14
+## ܡܠܦܢܐ 14
 
 
 
@@ -679,24 +679,24 @@ dviṣ 2 U:
 
 ::: media
 ![](/images/lekt1405.webp)
-Fig.: ⟪दीपाः⟫
-(Image source: [Details](/licenses#lekt1405))
+ܩܛܥܬܐ: ⟪दीपाः⟫
+(מקור ܕܬܩܠܝܐ: [ܦܪ̈ו̣טܝ](/licenses#lekt1405))
 :::
-* **bala n.** (⟪बल⟫) : violence, power, strength; army force, army
-* **bāla 3** (⟪बाल⟫) : young, childish, foolish; m. boy
-* **bālā f.** (⟪बाला⟫) : young girl
-* **nara m.** (⟪नर⟫) : man, human being
-* **śatru m.** (⟪शत्रु⟫) : enemy
-* **loka m.** (⟪लोक⟫) : world; Sing. and Plur.: the people, the humans, the public
-* **jala n.** (⟪जल⟫) : water
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : to be born, to arise, to appear
-  * **jan-a m.** (⟪जन⟫) : creature, human being, people
-* **vac 2 P** (vakti, no 3rd plural!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : to say, to speak to (accusative)
-  * **uk-ti f.** (⟪उक्ति⟫) : utterance, word
-  * **vac-ana n.** (⟪वचन⟫) : speaking, the word
-  * **vāk-ya n.** (⟪वाक्य⟫) : word, speech
+* **bala n.** (⟪बल⟫) : ܓܙܪܐ, ܩܘܬܐ, ܚܝܠܐ; ܟܕܒܐ ܕܣܦܝܩܐ
+* **bāla 3** (⟪बाल⟫) : ܥܘܒܕܐ, ܟܬܝܡܐ; m. ܥܘܒܕܐ
+* **bālā f.** (⟪बाला⟫) : ܥܘܒܕܬܐ
+* **nara m.** (⟪नर⟫) : ܐܢܫܐ, ܒܪ ܐܢܫ
+* **śatru m.** (⟪शत्रु⟫) : ܥܕܬܐ
+* **loka m.** (⟪लोक⟫) : ܥܠܡܐ; Sing. and Plur.: ܝܬܝܪ̈ܐ, ܒܘܟܠ ܚܢܝ̈ܐ, ܥܡܘܡܐ
+* **jala n.** (⟪जल⟫) : ܡ̈ܝܐ
+* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : ܠܕܬ, ܠܐܘܝ̈ܢܐ, ܠܬܩܪܒ
+* **jan-a m.** (⟪जन⟫) : ܠܕܝܬ, ܒܪ ܐܢܫ, ܥܡܘܡܐ
+* **vac 2 P** (vakti, no 3rd plural!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : ܠܡܠܠ, ܠܡܕܒܪ ܥܡ (accusative)
+* **uk-ti f.** (⟪उक्ति⟫) : ܡܠܬܐ, ܕܒܪ
+* **vac-ana n.** (⟪वचन⟫) : ܡܠܬܐ, ܕܒܪ
+* **vāk-ya n.** (⟪वाक्य⟫) : ܡܠܬܐ, ܕܒܪ
 
-## Lesson 15
+## ܡܠܦܢܐ 15
 
 
 
@@ -744,7 +744,7 @@ Fig.: ⟪इन्द्रः⟫
 
 ⟪पुरुष⟫ m.: Human, Man, Servant
 
-\-⟪जन⟫ as second member of Tatpuruṣas often expression of the plural
+\-⟪जन⟫ כܰܠ ܬܘܒܝܐ ܕܛܪ̈ܦܘܣܐ ܡܶܠܬ ܕܪ̈ܒܝܐ
 
 ⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : praise, extol
 
@@ -769,19 +769,19 @@ Fig.: ⟪व्याघ्रः⟫
 :::
 ⟪इव⟫ (postposed): as if, like (in comparisons: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "a man like a tiger", "a tiger-like man"
 
-⟪एव⟫ (postposed): emphasizes the preceding, in German often corresponds to the emphasis, a kind of emoticon `\<!\>`, e.g. ⟪सत्यमेव⟫ ⟪जयति⟫ "only the truth prevails", "precisely the truth prevails", "the truth prevails"
+⟪एव⟫ (postposed): emphasizes the preceding, in German often corresponds to the emphasis, a kind of emoticon `\&lt;!\&gt;`, e.g. ⟪सत्यमेव⟫ ⟪जयति⟫ "only the truth prevails", "precisely the truth prevails", "the truth prevails"
 
 ⟪अरि⟫ m.: Enemy (according to Thieme, Der Fremdling im Ṛgveda: originally = stranger)
 
 ::: indent
-⟪आर्य⟫ 3: Aryan, noble ; m. Aryan (self-designation of the Sanskrit-speaking ancient Indians, lit.: Hospitable (Thieme)) ; Noble, Man of honor
+⟪आर्य⟫ 3: אַרְיָן, נָבִיל ; ז. אַרְיָן (תּוֹכְחָה עַצְמִית הַהוֹדִים הָעַתִּיקִים דְּבָרֵי סַנְסְקְרִית, מִלָּה: אַחֲוָה (תִּימֵר)) ; נָבִיל, אִישׁ כָּבוֹד
 :::
-to ⟪जन्⟫
+לְ ⟪जन्⟫
 
 ::: indent
-⟪जाति⟫ f.: Birth, Kind, Caste (to ⟪जाति⟫ as caste see Basham, Wonder, p. 148ff.)
+⟪जाति⟫ נ.: לֵדָה, מוֹצָא, שִׁבְטָן (לְ ⟪जाति⟫ כְּשִׁבְטָן ראה בַּשָּׁם, פֶּלֶא, עמ' 148ff.)
 :::
-⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : to die (according to Indian grammarians: 6 Ā)
+⟪मृ⟫ 4 אַ ⟪म्रियते⟫ ; פָּעִיל שְׁלֵמָה ⟪म्रियते⟫ ; שְׁלֵמָה מְעוּרֶבֶת ⟪मृत⟫ : לָמוּת (לְפִי דַּקְדָּקֵי הוֹד: 6 אַ)
 
 thereof:
 
@@ -792,7 +792,7 @@ thereof:
 
 ⟪मृत्यु⟫ m.: Death ; personified: Death god
 :::
-## Lesson 16
+## ܡܠܦܢܐ 16
 
 
 
@@ -802,13 +802,13 @@ thereof:
 
 ⟪अध्यापन⟫ n.: Teaching, Instruction
 
-::: media
-![](/images/lekt1602.webp)
-Fig.: ⟪अध्यापनम्⟫
-"This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school."
-(Image source: [Details](/licenses#lekt1602))
-:::
-⟪अनसूया⟫ f.: Non-murmuring, Envylessness
+[0] ::: media
+[1] ![](/images/lekt1602.webp)
+[2] ܩܘܪܟܐ: ⟪अध्यापनम्⟫
+[3] "ܗܕܐ ܥܘܪܦܐ ܡܢܝܐ ܒܗܟܠ ܣܥܪܐ ܩܕܝܫܐ (⟪सातारा⟫). ܗܕܐ ܥܒܝܪ ܠܘܬ ܬܠܡܝ̈ܕܐ ܕܫܘܒܡܝ ܡܘܩܬܢܕܐ ܒܠܫܢܐ ܡܪܝܚܐ. ܗܕܐ ܠܫܢܐ ܩܕܝܫܐ، ܒܗ ܬܠܡܝ̈ܕܐ ܥܒܪܘ ܠܫܢܐ ܩܕܝܫܐ ܡܠܬܐ. ܗܕܐ ܠܫܢܐ ܡܠܬܐ ܟܪܝܫܐ ܝܕܘܪܒܕܐ ܘܡܠܬܐ ܣܡܒܥܕܐ. ܐܢܐ ܥܒܪ ܠܘܬ ܡܫܬܕܥܐ ܒܗܠܟ ܡܪܝܚܐ."
+[4] (ܡܕܒܪ ܩܘܪܟܐ: [ܦܠܘܚ](/licenses#lekt1602))
+[5] :::
+[6] ⟪अनसूया⟫ ܢ̈ܘܗܪܐ: ܠܐ ܡܠܬܐ، ܠܐ ܥܒܝܪ
 
 ⟪नृशंस्य⟫ n.: Malice, Baseness
 
@@ -843,7 +843,7 @@ Birla Mandir, Delhi
 (Image source: [Details](/licenses#lekt1601))
 
 :::
-⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : to turn, to turn oneself, to be (somewhere), to dwell
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : ܡܕܰܠܩ ܠܗ ܢܘܟܪܐ
 
 ⟪शस्त्र⟫ (śastra) n.: cutting tool, cutting weapon, sword, weapon
 
@@ -856,10 +856,10 @@ Birla Mandir, Delhi
 ::: media
 ![](/images/lekt1603.jpg)
 Fig.: ⟪अहिंसा⟫
-"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
-(Image source: [Details](/licenses#lekt1603))
+"ܕܝܩܢܐ ܕܚܘܠܦܬܐ ܥܠ ܟܣܡܐ ܕܪܒܝܥܬܐ ܡܫܠܰܚ ܒܪܝܬܐ ܕܗܘܟܡܬܐ ܕܝܢ. ܗܘ ܠܫܢܐ ܒܡܨܝܬܐ ܗܘ "ahimsa". ܪܒܝܥܬܐ ܡܫܠܰܚ ܕܝܢ ܕܪܒܝܥܬܐ ܕܕܚܡܪܐ ܕܝܢ ܠܦܘܩܕܬܐ ܕܫܒܝܟ ܠܦܘܩܕܬܐ ܕܪܒܝܥܬܐ ܡܫܠܰܚ ܒܪܝܬܐ ܕܗܘܟܡܬܐ ܕܝܢ."
+(מקור התמונה: [פרטים](/licenses#lekt1603))
 :::
-## Lesson 17
+## ܡܠܦܢܐ 17
 
 
 
@@ -867,7 +867,7 @@ Fig.: ⟪अहिंसा⟫
 
 
 
-⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : to strike, to kill, to slay
+⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫ ܦ ܣ ܒ ܐ ܪ ⟪हत⟫ : ܠܕܟܐ, ܠܡܘܬ, ܠܫܪܝܐ
 
 therefrom:
 
@@ -885,30 +885,30 @@ Bangalore = ಬೆಂಗಳೂರು
 therefrom:
 
 ::: indent
-⟪आसन⟫ n.: the sitting, seat ; also: sitting postures of the yogin
+⟪आसन⟫ n.: ܡܖ̈ܚܢܐ, כּוֹסָא ; ܠܦ݂: מְרַחֲנֵי יוֹגִין
 :::: media
 ![](/images/lekt1701.webp)
-Fig.: ⟪योगासनम्⟫
-(Image source: [Details](/licenses#lekt1701))
+ܦ݂: ⟪योगासनम्⟫
+(מִן דַּעְתָּא: [פ݂רשׁוֹק](/licenses#lekt1701))
 ::::
 :::
-⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : to weep, to howl
+⟪रुद्⟫ 2 P ⟪रोदिति⟫ פ݂ס. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : ܠְבַי, לִזְעָק
 
 therefrom:
 
 ::: indent
-⟪रुद्र⟫ m.: (the howler =) the storm god Rudra
+⟪रुद्र⟫ ܡ̈: (ܗܘ ܕܡܙܥ =) ܐܠܗܐ ܕܪܘܒܐ ܪܘܕܪܐ
 :::
-⟪ब्रू⟫ 2 U ⟪ब्रवीति⟫ Ā ⟪ब्रूते⟫ no passive and PPP: to speak, to say (something to someone: double accusative)
+⟪ब्रू⟫ 2 ܡ ⟪ब्रवीति⟫ ܐ̈ ⟪ब्रूते⟫ ܠܐ ܦܥܝܠ ܘܦܥܿܠ ܫܡܐ: ܠܦܘܼܿܟ ܠܡܕܒܪ
 
 ⟪दुह्⟫ 2 U ⟪दोग्धि⟫ Pass. ⟪दुह्यते⟫ PPP ⟪दुग्ध⟫ : to milk
 
 ::: media
 ![](/images/lekt1702.webp)
-Fig.: ⟪दोग्धि⟫
-(Image source: [Details](/licenses#lekt1702))
+ܩ̈ܘܪܟܐ: ⟪दोग्धि⟫
+(מקור ܕܬܩ̈ܘܪܟܐ: [פרטים](/licenses#lekt1702))
 :::
-⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : to show, to instruct, to command
+⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : ܕܡܠܐ, ܕܝܪܐ, ܕܫܘܟ
 
 therefrom:
 
@@ -917,7 +917,7 @@ therefrom:
 
 ⟪दिष्ट्या⟫ Instr.: (lit.: by a happy occurrence) O happy occurrence (exclamation of joy and felicity)
 :::
-## Lesson 18
+## ܡܠܦܢܐ 18
 
 
 
@@ -959,7 +959,7 @@ therefrom:
 
 ⟪प्रभृति⟫ f.: beginning
 
-## Lesson 19
+## ܡܠܦܢܐ 19
 
 
 
@@ -967,24 +967,24 @@ therefrom:
 
 
 
-**⟪अर्थ⟫ m.:** purpose, goal, meaning (of a word), wealth, property, assets. **⟪अर्थम्⟫** (acc.), **⟪अर्थेन⟫** (instr.) with gen. or as the second member of a Tatpuruṣa compound: for the sake of ..., in order to.
+**⟪अर्थ⟫ ܕܶܟ݂ܪ:** ܢܝܼܫܵܐ، ܫܘܼܠܵܡܵܐ، ܦܘܼܫܵܩܵܐ (ܕܡܸܠܬ݂ܵܐ)، ܥܘܼܬ݂ܪܵܐ، ܩܸܢܝܵܢܵܐ، ܢܸܟ݂ܣܹ̈ܐ. **⟪अर्थम्⟫** (ܒܗܸܕ݇ܡܵܐ ܕܐܵܟ̇ܘܼܙܵܛܝܼܘ), **⟪अर्थेन⟫** (ܒܗܸܕ݇ܡܵܐ ܕܐܝܼܢܸܛܪܘܼܡܸܢܛܵܠ) ܥܲܡ ܓܸ̇ܢܸܛܝܼܘ ܐܵܘ ܐܲܝܟ݂ ܝܲܠܕܵܐ ܕܬܲܪܬܹܝܢ ܒܚܲܒ̇ܘܼܪܵܐ ܕܛܵܛܵܦܘܼܪܘܼܫܵܐ: ܡܸܛܠ ...، ܒܕܝܼܠ ܕ....
 
-**⟪अर्थ⟫** is one of the three goals of life (**⟪पुरुषार्थ⟫**), as described in secular and religious literature:
+**⟪अर्थ⟫** ܗ̄ܘ ܚܲܕ݇ ܡ̣ܢ ܬܠܵܬ݂ܵܐ ܢܝܼܫܹ̈ܐ ܕܚܲܝܹ̈ܐ (**⟪पुरुषार्थ⟫**)، ܐܲܝܟ݂ ܕܡܸܬ݂ܬܲܚܡ ܒܟܬ݂ܵܒ̣ܘܼܬ݂ܵܐ ܚܸܠܡܵܝܬܵܐ ܘܕ݂ܝܼܢܵܝܬܵܐ:
 
 ::: indent
-**⟪धर्म⟫ m.:** acquisition of merit through doing what is right, or at least avoiding evil, which would result from non-observance of dharma
+**⟪धर्म⟫ ܕܶܟ݂ܪ:** ܩܸܢܝܵܢ ܙܵܟ̇ܘܼܬ݂ܵܐ ܒܥܒ݂ܵܕ݂ ܡܹܕܸܡ ܕܟܹܝܢ، ܐܵܘ ܠܵܘ ܟܸܢ ܒܢܸܗܵܪܘܼܬ݂ ܡ̣ܢ ܒܝܼܫܬܵܐ، ܗ̇ܵܝ ܕܗ̇ܵܘܝܵܐ ܡ̣ܢ ܠܵܐ ܢܵܛܘܼܪܘܼܬ݂ ܕ݇ܗܲܪܡܵܐ
 
 **⟪अर्थ⟫ m.:** purposeful behavior, acquisition of prosperity
 
-**⟪काम⟫ m.:** sensual pleasure, esp. also in the sexual sphere
+**⟪काम⟫ ܡܠܟܐ: ܪܥܘܢܬ ܦܠܚܐ, ܒܝܬܪ ܒܨܘܟܐ ܕܦܠܚܢ**
 :::: media
 ![](/images/lekt1809.webp)
-Fig.: ⟪कामः⟫
-Illustration to ⟪कामसूत्र⟫
-(Image source: [Details](/licenses#lekt1809))
+ܦܘܩܕܢ: ⟪कामः⟫
+ܬܣܘܡܐ ܠܦܘܩܕܢ ⟪कामसूत्र⟫
+(מקור התמונה: [פרטים](/licenses#lekt1809))
 ::::
 :::
-**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** stand, remain, persist, be located. (Traditionally counted among the 1st present class, although it is a reduplicating thematic present class, as ⟪पा⟫ 1 ⟪पिबति⟫)
+**⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** ܩܡ, ܐܬܪܝܟ, ܫܪܝ, ܗܘ. (ܒܬܩܦܐ ܡܢܟܪ ܠܗ ܠܦܘܩܕܢ ܪܒܐ, ܠܦܘܩܕܢ ܪܒܐ ܗܝ, כְּ⟪पा⟫ 1 ⟪पिबति⟫)
 
 **⟪स्था⟫ + ⟪उप⟫ 1 U ⟪उपतिष्ठति⟫ :** step forward, place oneself before someone in a respectful posture
 
@@ -1002,15 +1002,15 @@ from **⟪स्था⟫** :
 ::: indent
 **⟪धनगर्भ⟫ 3:** "whose interior is money = in which money is located"
 
-**⟪गर्भगृह⟫ n.:** the innermost shrine room of a Hindu temple, containing the most important deity image of the temple (for the structure of Hindu temples see: Volwahsen, A.: India: Buildings of the Hindus, Buddhists and Jains. -- Munich, 1968)
+**⟪गर्भगृह⟫ m.:** חַדְרָא דִּבְּהוֹן מַקְדֵּשׁא דְּהִינְדוּ, אֲרֵם צַלְמָא דְּאַהֲנָן לְמַקְדֵּשׁ (לְבִנְיָנַיָא דְּהִינְדוּ רַעֵי: וולוואסן, א.: הודו: בנייני ההינדים, הבודהיסטים והג'יינים. -- מינכן, 1968)
 :::: media
 ![](/images/lekt1901.webp)
-Fig.: ⟪गर्भगृहम्⟫
-Badami (ಬದಾಮಿ)
-(Image source: [Details](/licenses#lekt1901))
+דִּמְיוּנָא: ⟪गर्भगृहम्⟫
+באדמי (ಬದಾಮಿ)
+(מקור התמונה: [פרטים](/licenses#lekt1901))
 ::::
 :::
-**⟪वारिद⟫ m.:** water-pourer = rain cloud
+**⟪वारिद⟫ m.:** שׁוֹתֵה מַיִם = עָנָן גְּשָׁמִים
 
 ::: media
 ![](/images/lekt1902.jpg)
@@ -1031,11 +1031,11 @@ thereof:
 
 ::: media
 ![](/images/lekt1904.webp)
-Fig.: ⟪छत्त्रम्⟫
-"_Onappottan_ (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. _Onappottan_ visists houses during the _onam_ and gives blessings. Off late _onappottan_ has become a rare sight, confined to villages."
-(Image source: [Details](/licenses#lekt1904))
+ܩܛܥܬܐ: ⟪छत्त्रम्⟫
+"_Onappottan_ (ഓണപ്പൊട്ടന്‍), ܒܠܫܢܐ ܕܡܕܝܢܬܐ ܗܘ ܚܘܛܐ ܒܡܕܝܢܬ ܟܠܪ. _Onappottan_ ܐܝܬ ܠܗ ܒܝܬ ܡܕܝܢܬ ܟܠܪ ܘܡܨܒܥ ܒܫܟܚܐ. ܡܕܝܢܬ ܟܠܪ ܐܝܬ ܠܗ ܒܫܟܚܐ."
+(ܡܕܝܢܬ ܟܠܪ: [ܦܣܘܩ](/licenses#lekt1904))
 :::
-**⟪पण्डित⟫ m.:** scholar, sage ; 3: clever, knowledgeable (in)
+**⟪पण्डित⟫ ܡ.:** ܣܓܝܐ, ܚܟܝܡ ; 3: ܚܟܝܡ, ܢܘܗܪܐ (ܒ)
 
 ::: media
 ![](/images/lekt1903.jpg)
@@ -1055,7 +1055,7 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **⟪विद्⟫ 6 U ⟪विन्दति⟫ Pass. ⟪विद्यते⟫ PPP ⟪विन्न⟫ / ⟪वित्त⟫ :** find
 
-**⟪भार्या⟫ f.:** that which is to be preserved = wife
+**⟪भार्या⟫ f.:** דְּאִית לְמֶחְזַק = אֵשׁוּ
 
 **⟪प्रिय⟫ 3:** dear, pleasant
 
@@ -1063,9 +1063,9 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **⟪बान्धव⟫ m.:** relative
 
-**⟪हि⟫ :** for, indeed (must never stand at the beginning of a sentence)
+**⟪हि⟫ :** ܠܐܬܝܐ, ܕܒܛܚܣܘܬܐ (ܠܐ ܝܕܥ ܠܡܗܟܣ ܒܪܫܐ ܕܦܠܘܟ)
 
-## Lesson 20
+## ܕܪܫܐ ܟ
 
 
 
@@ -1075,15 +1075,15 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 ⟪वा⟫ : or
 
-⟪आश्रम⟫ m., n.: hermitage, stage of life, phase of life (namely as ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ and possibly as ⟪सन्न्यासिन्⟫ ; see Basham, Wonder pp. 159f.)
+⟪ܐܪܡܝܐ⟫ आश्रम, ܡ; ܢ: ܕܝܪܐ, ܦܘܣܩܐ ܕܚܝܠܐ, ܦܘܣܩܐ ܕܚܝܠܐ (ܟܝܠ ܐܦ ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ ܘܐܝܟܢܐ ⟪सन्न्यासिन्⟫ ; ܚܙܝ Basham, Wonder pp. 159f.)
 
 ::: media
 ![](/images/lekt2008.webp)
-Fig.: ⟪आश्रमः⟫
-Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
-(Image source: [Details](/licenses#lekt2008))
+ܦܘܣ: ⟪आश्रमः⟫
+ܪܝܣܟܐܫ = ⟪ऋषिकेश⟫. "ܗܕܐ ܚܠܦ ܡܢ ܓܒܪܐ ܕܐܫܪܡ ܒܪܝܣܟܐ ܕܦܠܘܬܐ ܩܝܡ. ܗܕܐ ܦܘܣܩܐ ܠܐ ܗܘܐ ܚܢܬ ܒܫܥܝܪܗܘܢ, ܐܠܐ ܡܕܥܝܢ."
+(ܡܪܟܙ ܕܬܚܘܝ: [ܦܪܣܡ](/licenses#lekt2008))
 :::
-⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : doing, making, causing
+⟪कर⟫ ⟪३⟫ ܦ. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : ܥܒܕܐ, ܠܦܬ
 
 ⟪कर⟫ m.: hand (to ⟪कृ⟫ 8)
 
@@ -1173,7 +1173,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : move
 
-## Lesson 21
+## ܕܪܫܐ כא
 
 
 
@@ -1181,54 +1181,54 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 
 
-**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** to distribute something to someone (acc.), to grant, to love someone, to honor, to revere
+**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** ܠܡܕܒܪ ܐܘܟܝܢ ܠܡܕܒܪ ܐܘܟܝܢ (ܠܡ)ܕܒܪ ܐܘܟܝܢ, ܠܡܕܒܪ ܐܘܟܝܢ, ܠܡܕܒܪ ܐܘܟܝܢ, ܠܡܕܒܪ ܐܘܟܝܢ, ܠܡܕܒܪ ܐܘܟܝܢ
 
 thereof:
 
 ::: indent
-**⟪भक्ति⟫ f.:** devotion, loyalty, love (in the religious sphere: love and respect for a personal god. see Basham, Wonder p. 332f.)  
-**⟪भाग⟫ m.:** share, part  
-**⟪भग⟫ m.:** (good) share, luck, well-being, dignity  
-**⟪भगवन्त्⟫ 3:** luck-bearing, dignity-bearing (epithet of ⟪विष्णु⟫ – ⟪कृष्ण⟫)
+**⟪भक्ति⟫ m.:** ܡܕܒܪܐ, ܚܘܝܘܬܐ
+**⟪भाग⟫ m.:** ܦܠܓ, ܚܠܩ
+**⟪भग⟫ m.:** ܦܠܓ, ܚܘܬܐ, ܫܟܢܐ
+**⟪भगवन्त्⟫ 3:** ܦܠܓ, ܚܘܬܐ (ܫܡܗ ܕ⟪विष्णु⟫ – ⟪कृष्ण⟫)
 
 :::: media
 ![](/images/lekt2103.webp)
-Fig.: ⟪भगवान्कृष्णः⟫
-⟪भगवान्कृष्णः⟫ as ⟪जगन्नाथ⟫ (right) with his half-sister ⟪सुभद्रा⟫ (center) and his older brother ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
-(Image source: [Details](/licenses#lekt2103))
+ܡܠܟܬܐ: ⟪भगवान्कृष्णः⟫
+⟪भगवान्कृष्णः⟫ ܐܝܟ ⟨⟪जगन्नाथ⟫ (ܡܕܢܚ) ܥܡ ܐܬܘ ܪܒܬܗ ⟪सुभद्रा⟫ (ܡܠܐ) ܘܚܟܝܗ ⟪बलराम⟫, ܐܘܪܝܣܐ = ଓଡ଼ିଶ⟪ा⟫
+(ܡܕܒܪ ܕܨܠܝܐ: [ܦܫܩܐ](/licenses#lekt2103))
 ::::
 :::
 ::: indent
-**⟪भगवद्गीता⟫ f.:** "Song (⟪गीता⟫) of the Venerable One (⟪कृष्ण⟫)"
+**⟪भगवद्गीता⟫ f.:** "ܫܘܥܪܐ (⟪गीता⟫) ܕܡܕܒܪ (⟪कृष्ण⟫)"
 :::
 ::: media
 ![](/images/lekt2105.webp)
-Fig.: ⟪भगवद्गीता⟫
-⟪भगवद्गीता⟩ - Manuscript, 19th century.
-(Image source: [Details](/licenses#lekt2105))
+ܡܠܟܬܐ: ⟪भगवद्गीता⟫
+⟪भगवद्गीता⟩ - ܟܬܒܐ, ܩܪܢ 19.
+(ܡܕܒܪ ܕܨܠܝܐ: [ܦܫܩܐ](/licenses#lekt2105))
 :::
 ::: indent
-**⟪भिक्ष्⟩ 1 Ā ⟪भिक्षते⟩ Pass. ⟪भिक्ष्यते⟩ PPP ⟪भिक्षित⟩** (actually a desiderative of ⟪भज्⟩: to wish that one participates): to beg
+**⟪भिक्ष्⟩ 1 Ā ⟪भिक्षते⟩ ܐܬܝܠܕ. ⟪भिक्ष्यते⟩ ܦܘܠܟ. ⟪भिक्षित⟩** (ܐܝܕܢ ܡܠܦܢܘܬܐ ܕ⟪भज्⟩: ܠܡܚܘܬ): ܠܡܫܐܠ
 :::
-thereof:
+ܡܢܗ:
 
 ::: indent
-**⟪भिक्षु⟩ m.:** Beggar, monk
+**⟪भिक्षु⟩ m.:** ܣܓܝ, ܪܒܐ
 :::: media
 ![](/images/lekt2104.webp)
-Fig.: ⟪भिक्षवः⟩
-Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
-(Image source: [Details](/licenses#lekt2104))
+ܡܠܟܬܐ: ⟪भिक्षवः⟩
+ܠܘܐܢ ܦܪܒܝܓ = ຫລວງພະບາງ, ܠܐܘܣ = ປະເທດລາວ
+(ܡܕܒܪ ܕܨܠܝܐ: [ܦܫܩܐ](/licenses#lekt2104))
 ::::
 :::
-**⟪दुष्⟩ 4 P ⟪दुष्यति⟩ Pass. ⟪दुष्यते⟩ PPP ⟪दुष्ट⟩ :** to spoil (intransitive), to go bad, to be disgraced
+**⟪दुष्⟩ 4 P ⟪दुष्यति⟩ ܐܬܝܠܕ. ⟪दुष्यते⟩ ܦܘܠܟ. ⟪दुष्ट⟩ :** ܠܡܫܬܒ (ܐܝܟܘܢ), ܠܡܫܬܒ, ܠܡܕܟ
 
 ::: indent
-**⟪दोष⟩ m.:** Error
+**⟪दोष⟩ m.:** ܚܛܐ
 :::
-**⟪पच्⟩ 1 U ⟪पचति⟩ Pass. ⟪पच्यते⟩ (no PPP, instead ⟪पक्व⟩ 3: cooked, brewed) Absol. ⟪पक्त्वा⟩ :** to cook (transitive) = to boil, to roast, to toast, etc.
+**⟪पच्⟩ 1 U ⟪पचति⟩ ܐܬܝܠܕ. ⟪पच्यते⟩ (ܐܝܟܘܢ ܦܘܠܟ., ܐܝܕܢ ⟪पक्व⟩ 3: ܡܫܬܒ, ܡܫܬܒ) ܐܦܣ. ⟪पक्त्वा⟩ :** ܠܡܫܬ (ܐܝܟܘܢ) = ܠܡܫܬ, ܠܡܫܬ, ܠܡܫܬ
 
-## Lesson 22
+## ܕܪܫܐ 22
 
 
 
@@ -1239,37 +1239,37 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 **⟪काम⟩ m.:** Wish, desire; desired gift, sensual pleasure, love, god of love
 
 ::: indent
-**⟪कामम्⟩** Acc. adverbially: according to wish, according to one's heart's desire
+**⟪कामम्⟩** תרגא מן קדמין: כְּפוּם דִּי רָצָא, כְּפוּם מַשְׁאַל לִבָּא
 :::: media
 ![](/images/lekt2202.webp)
-Fig.: ⟪कामदेवः⟩
-19th century.
-(Image source: [Details](/licenses#lekt2202))
+מַשְׁכַּל: ⟪कामदेवः⟩
+מֵאָה תַּמְנִין סוֹלְפֵי.
+(מַרְגִּישׁוּת דִּיל תְּמוּנָא: [פַּרְטֵי](/licenses#lekt2202))
 ::::
 :::
-**⟪शक्⟩ 5 P  ⟪शक्नोति⟩ Pass.  ⟪शक्यते⟩ PPP  ⟪शक्त⟩ Inf.  ⟪शक्तुम्⟩ :** to be able, to be capable
+**⟪शक्⟩ 5 פּוֹרְשָׁן  ⟪शक्नोति⟩ מִתְפַּעֵל  ⟪शक्यते⟩ שָׁם פְּעֻלָּה  ⟪शक्त⟩ מִילְתָא  ⟪शक्तुम्⟩ :** לְהוֹכַל, לְהוֹכָא
 
 thereof:
 
 ::: indent
 **⟪शक्ति⟩ f.:** ability, power, capability, strength; also: divine power, personified as female companion esp. of **⟪शिव⟩**
 
-**⟪शक्र⟩ m.:** the Powerful (epithet of **⟪इन्द्र⟩**)
+**⟪शक्र⟩ ܡ.:** ܩܘܝ̈ܠܐ (כינוי של **⟪इन्द्र⟩**)
 :::: media
 ![](/images/lekt2203.webp)
-Fig.: ⟪दुर्गाशक्तिः⟩
-Kolkatta = কলকাতা
-(Image source: [Details](/licenses#lekt2203))
+איקונוגרפיה: ⟪दुर्गाशक्तिः⟩
+קולקטה = কলকাতা (תרגום: קלישטא)
+מקור התמונה: [פרטים](/licenses#lekt2203)
 ::::
 :::
-**⟪अर्ह⟩ 1 P  ⟪अर्हति⟩ Pass.  ⟪अर्ह्यते⟩ PPP  ⟪अर्हित⟩ Inf.  ⟪अर्हितुम्⟩ :** to deserve (to be worthy of something), to be allowed, to be obliged to, should (in the 2nd person **⟪अर्ह्⟩** + infinitive is often used as a mild command: "You should")
+**⟪अर्ह⟩ 1 P ⟪अर्हति⟩ Pass. ⟪अर्ह्यते⟩ PPP ⟪अर्हित⟩ Inf. ⟪अर्हितुम्⟩ :** לראוי (להיות ראוי לדבר מה), מותר, חייב, צריך (באמצעות **⟪अर्ह्⟩** בגוף שני + אינפיניטיב משמש לעיתים קרובות כפקודה עדינה: "אתה צריך")
 
 ::: indent
-**⟪अर्हन्त्⟩ 3** Pres. Part. P: a Venerable One. In Buddhism and Jainism: one who has attained final liberation
+**⟪अर्हन्त्⟩ 3** שם פעול בהווה: אדם מכובד. בבודהיזם ובג'אייניזם: מי שהגיע לשחרור סופי
 :::
-**⟪व्रत⟩ n.:** Vow, religious duty, religious observance (one promises something to the deity in order to receive something from it. Example: a mother promises to dedicate her daughter as a temple prostitute (**⟪देवदासी⟩**) if her daughter recovers. Important **⟪व्रत⟩** today: fasting; abstinence from foods one loves; sexual abstinence; reading sacred texts; performing certain rituals; feeding Brahmins, etc. Briefly on **⟪व्रत⟩**: Walker, Hindu World Vol. II, p. 581f. Detailed: P. V. Kane: History of Dharmaśāstra Vol. 5,1 p. 1 - 462. There p. 253 - 462 list of **⟪व्रत⟩** and religious festivals ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+**⟪व्रत⟩ נ.:** שבועה, חובה דתית, מצווה (אדם נוטל על עצמו הבטחה לאלוהים כדי לקבל משהו ממנו. דוגמה: אם הבת חוזרת לשלומה, האם מתחייבת להקדיש את בתה כזונה מקדש (**⟪देवदासी⟩**). **⟪व्रत⟩** חשובים כיום: צום; הימנעות ממאכלים אהובים; נזירות מינית; קריאת טקסטים מקודשים, ביצוע פולחנות מסוימים; האכלת כוהנים וכו'. בקצרה על **⟪व्रत⟩**: ולקר, "העולם ההינדואי", כרך 2, עמ' 581 ואילך. בפירוט: פ. ו'. קאנה, "היסטוריה של דרמשסטר", כרך 5.1 עמ' 1 - 462. שם, בעמודים 253-462 רשימת **⟪व्रत⟩** וחגים דתיים ("הרשימה הבאה ... אינה טוענת להיות ממצית לחלוטין" !!!)
 
-**⟪चर्⟩ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟩ 1 P ⟪चरति⟩ Pass.  ⟪चर्यते⟩ PPP  ⟪चरित⟩ Inf.  ⟪चरितुम्⟩) :** to graze, to wander, to stir, to move, to act, to exercise something, to perform (e.g. **⟪व्रतं⟩ ⟪चर्⟩**: to practice a vow, esp. sexual abstinence)
+**⟪चर्⟩ 1 P charati Pass. charyate PPP charita Inf. charitum (סנסקריט: ⟪चर्⟩ 1 P ⟪चरति⟩ Pass. ⟪चर्यते⟩ PPP ⟪चरित⟩ Inf. ⟪चरितुम्⟩) :** לרעות, לנוע, להניד, להתנועע, לפעול, לתרגל משהו, לבצע (למשל **⟪व्रतं⟩ ⟪चर्⟩**: לתרגל שבועה, במיוחד נזירות מינית)
 
 of:
 
@@ -1280,15 +1280,15 @@ of:
 
 **⟪चरित⟫ n.:** way of life, deeds of life
 
-**⟪ब्रह्मचर्य⟫ n.:** performance of the Veda (**⟪ब्रह्मन्⟫**) = study of the Veda in the first stage of life (that of the **⟪ब्रह्मचारिन्⟫**), which requires strict sexual abstinence; therefore also: sexual abstinence, celibate way of life
+**⟪ब्रह्मचर्य⟫ n.:** מִצְוָה דַּאֲתַר קׁל (⟪ब्रह्मन्⟫) = לִמּוּדָא דְקׁל בְּרַכֲתָא קַדְמָיָיתָה (דִּבְרַכֲתָא דְ⟪ब्रह्मचारिन्⟫), אִית בָּהּ צְעַר נַפְשׁוֹא; לָכֵן גַּם: צְעַר נַפְשׁוֹא, חַיּוּתָא דְעִירׁ
 :::: media
 ![](/images/lekt2201.webp)
-Fig.: ⟪धेनवश्चरन्ति⟫
-Goa = ⟪गोंय⟫
-(Image source: [Details](/licenses#lekt2201))
+דִּמְיוָנָא: ⟪धेनवश्चरन्ति⟫
+גּוֹאָה = ⟪गोंय⟫
+(מִצְוָה דַּאֲתַר: [פירוט](/licenses#lekt2201))
 ::::
 :::
-## Lesson 23
+## ܡܠܦܢܘܬܐ 23
 
 
 
@@ -1304,7 +1304,7 @@ Goa = ⟪गोंय⟫
 
 ⟪विशेष⟫ m.: peculiarity, specification, differentia specifica
 
-## Lesson 24
+## ܕܰܪܫܳܐ 24
 
 
 
@@ -1312,46 +1312,45 @@ Goa = ⟪गोंय⟫
 
 
 
-⟪अलम्⟫ Adverb: enough, sufficient, (someone, something) equal to ; with Dative: enough for, sufficient for, equal to ; with Instrumental: enough with, desist from , e.g. ⟪अलं⟫ ⟪क्रोधेन⟫ = "enough with anger = desist from anger!"
+⟪अलम्⟫ מלת תנא: מספיק, דיי; (משהו) שווה ל-; עם דאטיב: מספיק ל-, דיי ל-, שווה ל-; עם אברטיב: מספיק ב-, להימנע מ-, למשל, ⟪अलं⟫ ⟪क्रोधेन⟫ = "די בכעס! להימנע מכעס!"
 
-In the same way as ⟪अलम्⟫ with Instrumental is used:
+באותה צורה שבה ⟪अलम्⟫ משמש עם אברטיב:
 
 ⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "It is done with anger = desist from anger!"
 
 ⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : to adorn
 
 ::: indent
-⟪अलंकार⟫ m.: ornament, means of adornment (in poetry)
+⟪अलंकार⟫ m.: ܙܝܘܬܐ, ܣܓܕܬܐ (ܒܫܪܝܘܬ)
 :::: media
 ![](/images/lekt2405.webp)
-Fig.: ⟪अलंकारः⟫
-(Image source: [Details](/licenses#lekt2405))
+ܡܠܬܐ: ⟪अलंकारः⟫
+(מקור ܬܩܠܐ: [פּרטים](/licenses#lekt2405))
 ::::
 :::
-⟪हेतु⟫ m.: impulse, motivation, cause, reason ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ with Genitive or as the second member of a compound = "for the sake of ..., because of"
+⟪हेतु⟫ m.: ܐܘܬܒܐ, ܡܕܥܐ, ܣܒܒܬܐ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ ܥܡ ܣܓܕ ܐܘ כּוֹן ܡܢ ܟܬܒܐ = "לְמַעֲנֵי ..., מִפְּנֵי"
 
 ⟪प्रतिमा⟫ f.: image, likeness
 
-::: media
+[0] ::: media
 ![](/images/lekt2406.webp)
-Fig.: ⟪देवीप्रतिमा⟫
-Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Image source: [Details](/licenses#lekt2406))
-:::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : to occur, to happen, to arise
+ܩܛܥܬܐ: ⟪देवीप्रतिमा⟫
+ܗܡܦܐ = ࠠܗܡܦܐ, ܟܪܢܛܘܩܐ = ࠠܟܪܢܛܘܩܐ
+(ܡܕܝܢܬ ܨܠܘܩ: [ܦܪܣܘܦ̈ܬܐ](/licenses#lekt2406))
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : ࠠܡܕܥ, ࠠܐܝܬ
 
 From ⟪वृत्⟫:
 
 ::: indent
 ⟪वृत्ति⟫ f.: behavior, activity, way of life
 
-⟪वृत्त⟫ n.: behavior
+⟪वृत्त⟫ n.: ܡܕܢܚܐ
 :::
-⟪अभि⟫ Preverb:  be-, after - towards, to - towards, to - towards, against, in - into, in relation to, on, over, at
+⟪अभि⟫ Preverb: ܒ-, אַחֲרָא - לְקוֹמָא, לְקוֹמָא - לְקוֹמָא, לְקוֹמָא, עַל, בְּ - לְגַבֵּי, בְּ יַחֲדָא עִם, עַל, עַל
 
 ⟪नि⟫ Preverb: downwards, down, into, backwards
 
-⟪आ⟫ Preposition / Postposition: before Ablative or after Accusative: up to, up to ; with Ablative: from, from, since
+⟪आ⟫ ܩܘܿܠܵܐ / ܡܕܝܼܠܬܵܐ: ܩܘܿܒܲܠ ܓܵܪܝܼܐ ܘܰܒܲܥܵܪܝܼܐ ܠܶܡܕܵܐ: ܥַד, ܥַד ; ܡܰܪܬܵܐ ܓܵܪܝܼܐ: ܡܶן, ܡܶן, ܡܶן
 
 ⟪अतस्⟫ Indeclinable: from there, then, therefore, hence (Pronominal stem a- "this" + Ablative suffix -tas)
 
@@ -1366,7 +1365,7 @@ of
 ::: indent
 ⟪अपोह⟫ m.: negation (⟪अप⟫ + ⟪ऊह⟫)
 
-⟪ऊहापोह⟫ m.: discussion of the pros and cons
+⟪ऊहापोह⟫ m.: ܡܕܒܪ̈ܘܬܐ ܕܚܠܦ ܘܒܪ̈
 :::: media
 ![](/images/lekt2407.webp)
 Fig.: ⟪ऊहापोहः⟫
@@ -1374,11 +1373,11 @@ Fig.: ⟪ऊहापोहः⟫
 (Image source: [Details](/licenses#lekt2407))
 ::::
 :::
-⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : useful
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ :ܡܬܝܒܐ
 
 ⟪कुप्य⟫ n.: forest product, metal (not precious metal)
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : to see, to become visible ; to name, to explain, to communicate
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : ܡܕܟܝ, ܠܬܩܪܐ; ܠܫܘܥܝ, ܠܡܕܒܪ
 
 ::: indent
 ⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : to tell
@@ -1403,7 +1402,7 @@ therefrom:
 :::
 ⟪ग्रहण⟫ n.: grasping
 
-⟪चौल⟫ n.: ceremony (⟪संस्कार⟫) of hair cutting (at the age of 3 years)
+⟪चौल⟫ n.: ܡܠܘܟܐ (⟪संस्कार⟫) ܕܩܛܥ ܦܘܣܟܐ (ܒܡܪܬ ܠܦ̈ܛܝܐ)
 
 ⟪तत्त्व⟫ n.: true nature, truth, reality (⟪तद्⟫ + ⟪त्व⟫ = this-ness)
 
@@ -1414,21 +1413,21 @@ therefrom:
 therefrom:
 
 ::: indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : to bow, to revere, to greet
+⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ :ܠܡܕܟ ܠܡܚܒܐ ܠܨܘܿܟ
 :::: media
 ![](/images/lekt2411.webp)
-Fig.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
-Manuscript of the ⟪गीतगोविन्द⟫, 1730 A.D.
-(Image source: [Details](/licenses#lekt2411))
+ܦܩ: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
+ܟܬܒܐ ܕܡܢ ܫܪܝܬ ܥܠܘ̈ܡܐ ⟪गीतगोविन्द⟫ 1730
+(ܡܕܒܪ ܝܬܝܪ: [ܦܘ̈רשׁ](/licenses#lekt2411))
 ::::
 :::
-⟪स्वागत⟫ n.: welcome (from su-ā-gata)
+⟪स्वागत⟫ n.: ܡܕܒܪ (ܡܢ su-ā-gata)
 
 ⟪तृण⟫ n.: blade of grass
 
 ⟪पुनर्⟫ Adverb: again, back, but
 
-## Lesson 25
+## ܡܠܦܢܐ 25
 
 
 
@@ -1436,7 +1435,7 @@ Manuscript of the ⟪गीतगोविन्द⟫, 1730 A.D.
 
 
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫  to leave, to abandon, to leave behind
+⟪त्यज्⟫ 1P ⟪त्यजति⟫ ܠܥܙܒܐ، ܠܬܘܬܪܐ
 
 ::: indent
 Fut. ⟪त्यक्ष्यति⟫  
@@ -1471,9 +1470,9 @@ Absol. 2: -⟪धृत्य⟫
 
 therefrom:
 
-⟪धर्म⟫ m.: that which is firm and holds fast = Dharma
+⟪धर्म⟫ m.: ما هو ثابت ويمسك بقوة = دَهَرما
 :::
-⟪नित्य⟫ ⟪३⟫ : constant, enduring, eternal
+⟪नित्य⟫ ⟪३⟫ : ثابت، دائم، أبدي
 
 ::: indent
 ⟪नित्यम्⟫ Adv.: always, constantly, ever
@@ -1514,7 +1513,7 @@ Absol. 2: -⟪याय⟫
 
 ⟪प्रदान⟫ n. = ⟪दान⟫
 
-⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : to command, to teach, to punish
+⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : ܡܕܢ̈ܚ, ܠܦܢ, ܫܝܦܘܬܐ
 
 ::: indent
 Pass. ⟪शिष्यते⟫  
@@ -1559,7 +1558,7 @@ Fig.: ⟪लिप्तिः⟫
 :::
 ⟪वर्ष⟫ n.,m.: rain, rainy season, year
 
-⟪वह्⟫ 1U ⟪वहति⟫ : to lead, to drive, to blow (wind)
+⟪वह्⟫ 1U ⟪वहति⟫ : ܠܦܘܿܟ, ܠܒܫ, ܠܚܝܼ
 
 ::: indent
 Fut. ⟪वक्ष्यति⟫  
@@ -1568,18 +1567,18 @@ PPP ⟪ऊढ⟫
 Inf. ⟪वोढुम्⟫  
 Absol 2: -⟪उह्य⟫
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : to lead away (namely the bride from her parents' house) = to marry
+⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : ܠܕܘܟ (ܝܐܪ)
 
 therefrom:
 
-⟪विवाह⟫ m.: leading away, marriage of a woman (Instr., saha) (for marriage see Basham, Wonder pp. 166-171)
+⟪विवाह⟫ m.: מוֹנָא, חַתּוּן דְּאִיּוֹתָא (במקום, סַח) (לְחַתּוּן דִּיבְרָא רְאוּ בַשָׁם, פִּינֵי 166-171)
 :::: media
 ![](/images/lekt2504.webp)
-Fig.: ⟪विवाहः⟫
-(Image source: [Details](/licenses#lekt2504))
+מִלְּתָא: ⟪विवाहः⟫
+(מַרְגִּילָא דְתַבְעָה: [פֵּירוּשׁ](/licenses#lekt2504))
 ::::
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : to lead away, to instruct, to educate
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : לְמִנָּא, לְמוֹדַע, לְחַנֵּךְ
 
 ::: indent
 therefrom:
@@ -1624,7 +1623,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ⟪गोदान⟫ n.: giving of cows / of a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
-## Lesson 27
+## ܐܘܠܦܢܐ 27
 
 
 
@@ -1632,7 +1631,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 
 
-**⟪वस्⟫** 1P (⟪वसति⟫): to stay, to dwell (with locative of the person with whom one dwells)
+**⟪वस्⟫** 1P (⟪वसति⟫):ܠܒܬܐ، ܠܡܕܟ (ܥܡ ܓܒܪܐ ܕܠܝܬ ܠܗ ܡܿܟܘܢ)
 
 ::: indent
 **Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
@@ -1667,15 +1666,15 @@ Vastrāṇi. Majuli, Assam.
 ::: indent
 **⟪वसु⟫** n.: wealth, treasure, property, possession
 
-**⟪वसन्त⟫** m.: ("shining" =) spring (March to May)
+**⟪वसन्त⟫** m.: ("ܢܵܗܹܪ" =) ܪܵܒ݂ܝܼܥܵܐ (ܡ̣ܢ ܐܕܵܪ ܘܲܥܕܵܡܵܐ ܠܐܝܼܵܪ)
 :::: media
 ![](/images/lekt2707.webp)
-Fig.: ⟪वसन्तः⟫
+ܨܘܼܪܬܵܐ: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
-(Image source: [Details](/licenses#lekt2707))
+(ܡܩܘܼܪ ܨܘܼܪܬܵܐ: [ܦܪܝܼܫܘܵܬܵܐ](/licenses#lekt2707))
 ::::
 :::
-**⟪हृ⟫** 1U (⟪हरति⟫): to hold, to carry; to fetch, to take away, to steal
+**⟪हृ⟫** 1U (⟪हरति⟫): ܠܡܹܐܚܲܕ, ܠܡܸܛܥܲܢ; ܠܲܝܬܵܝܘ, ܠܲܡܘܒܵܠܵܐ, ܠܡܹܓܲܢܵܒ݂
 
 ::: indent
 **Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
@@ -1683,11 +1682,11 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 therefrom:
 
 ::: indent
-**⟪हर⟫** 3: taking away; m.: the Destroyer = epithet of Śiva
+**⟪हर⟫** 3: נטל; m.: מְשַׁחֵת = כינוי של שִׁוָּה
 :::
-Counterpart to **⟪हर⟫**:
+מקביל ל-**⟪हर⟫**:
 
-**⟪हरि⟫** 3: blond, yellow, green; m. epithet of Viṣṇu (does not belong to the root ⟪हृ⟫ 1)
+**⟪हरि⟫** 3: בָּלַע, צָהוֹב, יָרֹק; m. כינוי של וִישְׁנּוּ (אינו שייך לשורש ⟪हृ⟫ 1)
 
 **⟪हरिहर⟫** m.: Viṣṇu and Śiva united as a single deity.
 
@@ -1703,7 +1702,7 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 (Image source: [Details](/licenses#lekt2705))
 ::::
 :::
-## Lesson 28
+## ܐܘܠܦܢܐ 28
 
 
 
@@ -1712,7 +1711,7 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 
 
 ::: indent
-**⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: to know, to recognize
+**⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: ܡܕܥ, ܝܕܥ
 Fut. **vediṣyati**
 Pass. **vidyate**
 Caus. **vedayati**
@@ -1720,21 +1719,21 @@ PPP **vidita**
 Inf. **vediṣyum**
 therefrom: **vidyā** f., **veda** m.
 :::: indent
-**⟪विद्⟫** 6U **⟪विन्दति⟫** (!): to find
+**⟪विद्⟫** 6U **⟪विन्दति⟫** (!): ܡܠ
 Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: there is, it exists
+Pass. **vidyate**: ܗܘ, ܝܪ
 Caus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
 ::::
 :::
 ::: indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: to study, to memorize
-Caus. **adhyāpayati**: to cause to study, to teach
-therefrom: **adhyayana** n.: study (esp. of the Veda); **adhyāya** m.: lesson, chapter (section for memorization)
+**i + adhi** 2Ā **adhīte**, **adhīyate**: ܫܡ
+Caus. **adhyāpayati**: ܠܦ, ܡܕܥ
+therefrom: **adhyayana** n.: ܫܡ (ܒܝܬ ܟܬܒܐ); **adhyāya** m.: ܦܠܢ, ܫܡ
 :::
 ::: indent
-**⟪कम्⟫** 10Ā **⟪कामयते⟫**: to love
+**⟪कम्⟫** 10Ā **⟪कामयते⟫**: ܚܒ
 Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
 Caus. **kāmayati**
@@ -1748,7 +1747,7 @@ Painting by ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 190
 (Image source: [Details](/licenses#lekt2804))
 :::
 ::: indent
-**⟪चुर्⟫** 10 **⟪चोरयति⟫**: to steal
+**⟪चुर्⟫** 10 **⟪चोरयति⟫**: ܓܙ
 Fut. **corayiṣyati**
 Pass. **coryate**
 Caus. **corayati**
@@ -1757,10 +1756,10 @@ Inf. **coritum**
 :::
 ::: indent
 **Remember especially the meaning of the causatives for the following verbs:**
-**dṛś** — **darśayati**: to show
-**man** — **mānayati**: to esteem, to honor (but is probably a denominative from **māna** "honor")
-**vac** — **vācayati**: also: to read aloud (to cause a text to be spoken)
-**vad** — **vādayati**: also: to cause a musical instrument to speak = to play a musical instrument
+**dṛś** — **darśayati**: ܚܐ
+**man** — **mānayati**: ܟܕ, ܠܦ (ܐܝܬ ܠܗ ܕܡܢ ܟܕ)**
+**vac** — **vācayati**: ܩܪ
+**vad** — **vādayati**: ܢܘܗܪ
 :::
 ::: media
 ![](/images/lekt2803.webp)
@@ -1768,7 +1767,7 @@ Fig.: ⟪वीणां⟫ ⟪वादयति⟫
 Vīṇā-Spielerin.
 (Image source: [Details](/licenses#lekt2803))
 :::
-**⟪भार⟫** m.: burden
+**⟪भार⟫** m.: ܡܠ
 
 ::: media
 ![](/images/lekt2805.webp)
@@ -1780,7 +1779,7 @@ Girl carrying burden. Near Ahmedabad.
 
 ---
 
-## Lesson 29
+## ܕܪܫܐ 29
 
 
 
@@ -1793,15 +1792,15 @@ Prepositions:
 ::: indent
 ⟪उद्⟫° : up, upward, aloft, out, out-
 
-⟪परि⟫° : around, about (place, time), about
+⟪परि⟫° : ܠܥܡܘܟ, ܠܐܝܟ (ܡܿܿܘܼܟܬܐ, ܙܒܢܐ), ܠܥܡܘܟ
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (to become around someone = to encircle =) to master, to conquer; to disregard, to despise
+⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (ܠܗܘܿܝ ܠܥܡܘܟ ܕܓܪܐ = ܠܗܘܿܝ ܡܿܿܘܼܟܬܐ =) ܠܗܘܿܝ ܡܿܿܘܼܟܬܐ, ܠܗܘܿܝ ܡܿܿܘܼܟܬܐ; ܠܗܘܿܝ ܡܿܿܘܼܟܬܐ, ܠܗܘܿܝ ܡܿܿܘܼܟܬܐ
 
 ⟪अवज्ञान⟫ n.: disregard
 
 ⟪गुप्त⟫ 3: protected, guarded
 
-⟪गृहस्थ⟫ 3: located in the house; m. householder (someone who is in the 2nd ⟪आश्रम⟫)
+⟪गृहस्थ⟫ 3: דִּי בְּבֵיתָא; ז׳. בַּעַל בֵּית (דִּי הוּא בְּמַעֲלָה תְּרֵיָא דְּ⟪आश्रम⟫)
 
 ⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : to consume, to devour
 
@@ -1832,17 +1831,17 @@ Pushkar = ⟪पुष्कर⟫
 
 ⟪मत्स्य⟫ m.: fish
 
-thereof:
+מִן דַּיְירָא:
 ::: indent
-⟪मात्स्य⟫ 3: belonging to the fish (to fish)
+⟪मात्स्य⟫ 3: דִּי יַתְבָּא עַל מוּגְרָא (עַל מוּגְרָא)
 :::: media
 ![](/images/lekt2901.webp)
-Fig.: ⟪मत्स्यः⟫
+דְּמוּתָא: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
-(Image source: [Details](/licenses#lekt2901))
+(מַרְגִּישׁוּת דִּי תְמוּנָא: [פַּרְטֵי](/licenses#lekt2901))
 ::::
 :::
-⟪मृदु⟫  3 (f.: ⟪मृद्वी⟫): gentle, mild, soft ; slow, weak
+⟪मृदु⟫  (דִּי נְקֵית: ⟪मृद्वी⟫): רַכָּא, עֲנָוָה; אִילְמָא, חַלִּישׁ
 
 ⟪यथा⟫ Adv.: how, as if
 
@@ -1864,7 +1863,7 @@ Inf. ⟪रन्तुम्⟫
 ::: indent
 PPP ⟪पूजित⟫
 :::
-## Lesson 30
+## ܕܪܫܐ 30
 
 
 
@@ -1905,15 +1904,15 @@ thereof:
 
 ⟪ज्ञाति⟫ m.: (blood) relative (relatives are those whom one knows!)
 
-⟪ज्ञान⟫ n.: knowledge, wisdom, understanding (esp. of the "higher" truths in religion and philosophy)
+⟪ज्ञान⟫ n.: ידע, חכמה, הבנה (במיוחד של ה"אמתות" הגבוהות בדת ופילוסופיה)
 :::: media
 ![](/images/lekt3002.webp)
 Fig.: ⟪ज्ञातयः⟫
-Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
-(Image source: [Details](/licenses#lekt3002))
+דאריוואדי, מחוז אחמד נגאר = ⟪अहमदनगर⟫, מהאראשטרה = ⟪महाराष्ट्र⟫
+(מקור התמונה: [פרטים](/licenses#lekt3002))
 ::::
 :::
-⟪पू⟫ 9U ⟪पुनाति⟫ : purify
+⟪पू⟫ 9U ⟪पुनाति⟫ : לטהר
 
 ::: indent
 Fut. ⟪पविष्यति⟫  
@@ -1946,10 +1945,10 @@ Fig.: ⟪अश्नीयात्⟫
 
 ::: media
 ![](/images/lekt3004.webp)
-Fig.: ⟪प्रिया⟫
-(Image source: [Details](/licenses#lekt3004))
+ܩܛܪ: ⟪प्रिया⟫
+(ܡܕܒܪ ܕܬܚܘܝܐ: [ܦܣܩ̈ܘܬܐ](/licenses#lekt3004))
 :::
-⟪चेत्⟫ Conjunction: if; provided that (never stands at the beginning of a sentence)
+⟪चेत्⟫ ܩܘܛܪܐ: ܝܬܒ; ܡܢ ܕܝܠܐ (ܠܐ ܬܩܘܡ ܒܪܫܡܐ ܕܦܠܘܟ)
 
 ::: indent
 ⟪न⟫ ⟪चेत्⟫ : if not
@@ -1991,7 +1990,7 @@ therefrom:
 :::
 ⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : eternal, imperishable, constant
 
-## Lesson 31
+## ܕܪܫܐ 31
 
 
 
@@ -1999,13 +1998,13 @@ therefrom:
 
 
 
-**⟪युज्⟫** 7U **⟪युनक्ति⟫** : to harness, to yoke, to fasten; Ā also: to strain (= to exert oneself), to connect with, to concentrate on (Locative, ⟪सप्तमी⟫)
+**⟪युज्⟫** 7U **⟪युनक्ति⟫** : لְאַגַּד, לִזְרֹע; אָף: לִכְבּוֹד (= לְהַעֲמִיק בְּתוֹךְ עַצמוֹ), לְהִשָּׂא אֶל, לְהַתְמַקֵּד בְּ (בְּלָאוֹנִיטִיב, ⟪सप्तमी⟫)
 ::: indent
-**Fut. ⟪योक्ष्यति⟫**
-**Pass. ⟪युज्यते⟫**
-**Caus. ⟪योजयति⟫**
-**PPP ⟪युक्त⟫**
-**Inf. ⟪योक्तुम्⟫**
+**עָתִיד ⟪योक्ष्यति⟫**
+**פָּעִיל מְסוּר ⟪युज्यते⟫**
+**הִפְעֵל ⟪योजयति⟫**
+**פָּעוֹל ⟪युक्त⟫**
+**מִסְפָּר ⟪योक्तुम्⟫**
 
 therefrom:
 **⟪युग⟫ n. → ⟪युग⟫ n.:** yoke, pair, age (there are four ages:
@@ -2014,17 +2013,17 @@ therefrom:
 3. **⟪द्वापर⟫**
 4. **⟪कलि⟫**
 
-The **⟪कलियुग⟫** began around 3102 BC, the year of the **⟪महाभारत⟫** war. For more details, see Basham, Wonder p. 323)
+ܐܬܚܠܦ **⟪कलियुग⟫** ܒܣܘܬ 3102 לפנה"ס, ܐܝܟܘܬ ܫܪܩܬ **⟪महाभारत⟫**. ܠܦܪܘܣܬܐ ܕܡܕܥ, ܚܙܝ Basham, Wonder p. 323)
 
-**⟪योग⟫ m.:** "harnessing, straining", exertion, connection, Yoga (see Basham, Wonder pp. 327ff.)
+**⟪योग⟫ m.:** "ܐܦܩܕܬ, ܣܓܝ", ܢܘܗܪܐ, ܩܪܒܬ, Yoga (חזי Basham, Wonder pp. 327ff.)
 :::: media
 ![](/images/lekt3101.webp)
-Fig.: ⟪योगः⟫
-Yoga depiction.
-(Image source: [Details](/licenses#lekt3101))
+ܡܠܟܬ: ⟪योगः⟫
+ܐܦܩܕܬ Yoga.
+(מקור ܐܦܩܕܬ: [Details](/licenses#lekt3101))
 ::::
 :::
-**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : to stop, to bring to a standstill, to hold back = to enclose, to cover
+**⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : ܠܐ ܢܘܗܪ, ܠܐ ܢܘܗܪ = ܠܐ ܩܪܒ, ܠܐ ܩܪܒ
 ::: indent
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
@@ -2032,7 +2031,7 @@ Yoga depiction.
 **PPP ⟪रुद्ध⟫**
 **Inf. ⟪रोद्धुम्⟫**
 :::
-**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : to cut off
+**⟪छिद्⟫** 7U **⟪छिनत्ति⟫** : ܠܐ ܢܘܗܪ
 ::: indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
@@ -2040,13 +2039,13 @@ Yoga depiction.
 **PPP ⟪छिन्न⟫**
 **Inf. ⟪छेत्तुम्⟫**
 :::
-**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : to break (something)
+**⟪भञ्ज्⟫** 7P **⟪भनक्ति⟫** : ܠܐ ܢܘܗܪ (ܡܕܥ)
 ::: indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
 **PPP ⟪भग्न⟫**
 :::
-**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : to anoint, to smear
+**⟪अञ्ज्⟫** 7P **⟪अनक्ति⟫** : ܠܐ ܢܘܗܪ, ܠܐ ܢܘܗܪ
 ::: indent
 **Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
@@ -2054,20 +2053,20 @@ Yoga depiction.
 **PPP ⟪अक्त⟫**
 **Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
 :::
-**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : to smear apart = to apply makeup, to distinguish oneself
+**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā **⟪व्यङ्क्ते⟫** : ܠܐ ܢܘܗܪ = ܠܐ ܩܪܒ, ܠܐ ܩܪܒ
 ::: indent
-**PPP ⟪व्यक्त⟫ :** distinguished, unfolded
+**PPP ⟪व्यक्त⟫ :** ܠܐ ܢܘܗܪ, ܠܐ ܢܘܗܪ
 
-therefrom:
-**⟪व्यञ्जन⟫ n.:** means of distinction = makeup, spice, sign, consonant (that by which meanings are distinguished)
+מן:
+**⟪व्यञ्जन⟫ n.:** ܡܕܥ = ܐܦܩܕ, ܢܘܗܪ, ܡܕܥ (ܐܝܟ ܢܘܗܪ)
 :::: media
 ![](/images/lekt3102.webp)
-Fig.: ⟪व्यञ्जनम्⟫
-Preparation for Kathakali dance, Kochi.
-(Image source: [Details](/licenses#lekt3102))
+ܡܠܟܬ: ⟪व्यञ्जनम्⟫
+ܐܦܩܕ Kathakali, Kochi.
+(מקור ܐܦܩܕ: [Details](/licenses#lekt3102))
 ::::
 :::
-**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : to split
+**⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : ܠܐ ܢܘܗܪ
 ::: indent
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
@@ -2075,7 +2074,7 @@ Preparation for Kathakali dance, Kochi.
 **PPP ⟪भिन्न⟫**
 **Inf. ⟪भेत्तुम्⟫**
 :::
-**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : to enjoy (e.g., food; "to enjoy the earth" = to rule the earth)
+**⟪भुज्⟫** 7U **⟪भुनक्ति⟫** : ܠܐ ܢܘܗܪ (ܡܕܥ; "ܠܐ ܢܘܗܪ" = ܠܐ ܩܪܒ)
 ::: indent
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
@@ -2113,7 +2112,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪शरीर⟫ n.:** Leib, Körper
 
-## Lektion 32
+## ܕܪܫܐ 32
 
 
 
@@ -2247,7 +2246,7 @@ Abb.: ⟪कौशलम्⟫
 Mehndi painting on hands in Mumbai.
 (Bildquelle: [Details](/licenses#lekt3206))
 :::
-## Lektion 33
+## ܠܩܨܝܘܢ 33
 
 
 
@@ -2332,14 +2331,14 @@ Note:
 
 therefrom:
 
-**⟪भय⟫** n.: fear, dread; danger (the subjective and the objective side)
+**⟪भय⟫** n.: ܕܝܩܐ, ܚܘܦܪܢܘܬܐ; ܫܘܟܠܐ (ܦܪܣܘܡ ܕܢܩܒܐ ܘܦܪܣܘܡ ܕܥܒܝܕܐ)
 :::: media
 ![](/images/lekt3304.webp)
 Fig.: ⟪भयम्⟫
 (Image source: [Details](/licenses#lekt3304))
 ::::
 :::
-**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: carry, bring; sustain, nourish
+**⟪भृ⟫** 3U **⟪बिभर्ति⟫**: ܣܒܩ, ܐܬܝ; ܢܚܘܬܐ, ܓܕܠ
 
 ::: indent
 **Fut.** ⟪भरिष्यति⟫  
@@ -2380,14 +2379,14 @@ therefrom:
 **Inf.** ⟪हातुम्⟫
 from PPP **⟪हीन⟫**:
 
-**⟪हीनयान⟫** n.: the deficient vehicle (of Buddhism): derogatory term used by proponents of the "great vehicle", the **⟪महायान⟫**; the deficient path (**⟪यान⟫** to **⟪या⟫** 2: go, drive). The term ⟪हीनयान⟫ should no longer be used. The currently existing form of the old Buddhism is called **⟪थेरवाद⟫**.
+**⟪हीनयान⟫** ܫܡ: ܡܪܟܒܬܐ ܡܒܨܪܬܐ (ܕ‌ܒܘܕܗܝܘܬܐ): ܡܠܬܐ ܕܒܘܙܝܐ ܕܡܫܬܡܗܐ ܡܼܢ ܗܵܢܘܢ ܕܡܗܝܡܢܝܢ ܒ"ܡܪܟܒܬܐ ܪܒܬܐ", **⟪महायान⟫**; ܐܘܪܚܐ ܡܒܨܪܬܐ (**⟪यान⟫** ܠ**⟪या⟫** 2: ܢܐܙܠ, ܢܕܒܪ). ܡܠܬܐ ⟪हीनयान⟫ ܠܐ ܙܕܩ ܬܘܒ ܕܬܶܬܥܗܕ. ܛܘܟܵܣܵܐ ܕܐܝܬ ܗܫܐ ܕܒܘܕܗܝܘܬܐ ܥܬܝܩܬܐ ܡܬܩܪܝܵܐ **⟪थेरवाद⟫**.
 :::: media
 ![](/images/lekt3303.webp)
-Fig.: ⟪हीनयानमेव⟫
-(Image source: [Details](/licenses#lekt3303))
+ܨܘܪܬܵܐ: ⟪हीनयानमेव⟫
+(ܡܩܘܡ ܨܘܪܬܵܐ: [ܦܪܝܫܘܬܵܐ](/licenses#lekt3303))
 ::::
 :::
-**⟪हु⟫** 3P **⟪जुहोति⟫**: pour into fire (as offering, esp. melted butter)
+**⟪हु⟫** 3P **⟪जुहोति⟫**: ܢܐܫܘܕ ܠܢܘܪܵܐ (ܐܝܟ ܩܘܪܒܵܢܵܐ, ܝܬܝܪܵܐܝܬ ܫܡܢܵܐ ܡܫܘܚܵܵܐ)
 
 ::: indent
 **Fut.** ⟪होष्यति⟫  
@@ -2403,12 +2402,11 @@ Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 :::
 **⟪घृत⟫** n.: melted butter, ghee (⟪घी⟫ / گھی / ঘী)
 
-::: note-box
-"Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk."
+[0] ::: note-box
+"ܐܦܪܓܠܬܐ ܝܬܝܪܬܐ ܗܝ ܕܢܫܟܚ ܦܘܬܐ ܒܠܝܢ ܡܛܠ ܕܬܐܦܩ ܢܘܗܪܐ. ܒܝܬ ܦܠܚܢܐ ܕܡܘܟܪܐ ܠܦܘܬܐ ܒܡܝܫܪܐ ܠܗ ܥܕܡܐ ܕܬܫܪܒ ܢܘܗܪܐ. ܠܦܬܐ ܕܢܫܟܚ ܒܡܝܫܪܐ ܠܗ ܥܕܡܐ ܕܬܫܪܒ ܢܘܗܪܐ. ܠܦܬܐ ܕܢܫܟܚ ܒܡܝܫܪܐ ܠܗ ܥܕܡܐ ܕܬܫܪܒ ܢܘܗܪܐ.
 
 [Source: http://en.wikipedia.org/wiki/Ghee. -- Accessed on 2008-12-26]
-:::
-## Lesson 34
+## ܕܪܫܐ 34
 
 
 
@@ -2488,7 +2486,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪कन्या⟫ f.:** girl, maiden
 
-## Lesson 35
+## ܕܪܫܐ 35
 
 
 
@@ -2539,7 +2537,7 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 (Image source: [Details](/licenses#lekt3501))
 ::::
 :::
-## Lesson 36
+## ܐܘܠܦܢܐ 36
 
 
 
@@ -2563,20 +2561,19 @@ Inf. ⟪ईक्षितुम्⟫
 :::
 ⟪चि⟫ 5U ⟪चिनोति⟫ : to heap, to gather
 
-::: indent
+[0] ::: indent
 Perf. ⟪चिकाय⟫ ⟪।⟫ ⟪चिचाय⟫  
 Fut. ⟪चेष्यति⟫  
 Pass. ⟪चीयते⟫  
 Kaus. ⟪चाययति⟫ ⟪।⟫ ⟪चापयति⟫  
 PPP ⟪चित⟫  
 Inf. ⟪चेतुम्⟫
-:::: media
+::: media
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
-(Image source: [Details](/licenses#lekt3601))
-::::
+(מקור התמונה: [פרטים](/licenses#lekt3601))
 :::
-⟪व्रज्⟫ 1P ⟪व्रजति⟫ : to stride, to go, to go away
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : ללכת, ללכת, ללכת
 
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -2627,7 +2624,7 @@ e.g.
 
 ⟪अनुकृ⟫ : to imitate, to do after
 
-⟪अनुगम्⟫ : to follow someone, to walk along
+⟪अनुगम्⟫ : ܠܐܘܟܬܐ ܕܡܢ ܝܬܝܪ, ܠܐܘܟܬܐ ܕܝܬܪ
 :::
 ⟪अभि⟫ : to, after - to, to - to, towards, into - into, with regard to, on, over, at
 
@@ -2636,9 +2633,9 @@ e.g.
 
 ⟪अभिगम्⟫ : to go towards, to approach
 
-⟪वद्⟫ + ⟪अभि⟫ causative Ā ⟪अभिवादयते⟫ : to greet formally, to address
+⟪वद्⟫ + ⟪अभि⟫ causative Ā ⟪अभिवादयते⟫ : ܠܒܫ ܣܘܬܪܐ، ܠܡܕܒܪ
 :::
-⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : to feel reluctance, to fade away
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : ܠܡܚܙܝ، ܠܢܘܫ
 
 ::: indent
 Perf. IV ⟪जग्लौ⟫  
@@ -2660,7 +2657,7 @@ PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : to delight, to please; to love, to be inclined towards someone
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : לְהַשְׂמִיחַ, לְרָצוֹת; לְאַהֵב, לַחֲנוֹת אֶל מִי שֶׁהוּא
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : to rejoice
 
@@ -2705,7 +2702,7 @@ Fig.: ⟪लोमहर्षः⟫
 :::
 ⟪स्वक⟫ 3: own (my, your ...) ; m.: member
 
-## Lesson 37
+## ܠܶܩܨܝܳܐ 37
 
 
 
@@ -2736,7 +2733,7 @@ Fig.: ⟪वृक्षः⟫
 :::
 ⟪मुख⟫ n.: mouth, face, front part, beginning
 
-## Lesson 38
+## ܕܪܫܐ 38
 
 
 
@@ -2770,23 +2767,23 @@ Inf. ⟪वातुम्⟫
 
 thereof:
 
-⟪वात⟫ m.: wind
+⟪वात⟫ ܡ. : רוחא
 :::
-⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : to blow, to scatter, to extinguish
+⟪वा⟫ + ⟪निस्⟫ ܬ. ע. ⟪निर्वाति⟫ : לנְפַח, לָפוץ, לכבות
 
 ::: indent
 thereof:
 
 ⟪निर्वाण⟫ n.: extinguishing, Nirvana
 
-⟪परिनिर्वाण⟫ n.: perfect extinguishing, perfect liberation (at the end of life of a Buddha or Arhat)
+⟪परिनिर्वाण⟫ n.: כִּבּוּי מְשׁוּלָם, גְּאֻלָּה מְשׁוּלָם (בסוף חייו של בודהה או ארהט)
 :::: media
 ![](/images/lekt3804.webp)
-Fig.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Image source: [Details](/licenses#lekt3804))
+דמות: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
+(מקור התמונה: [פרטים](/licenses#lekt3804))
 ::::
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : to urinate, to piss, to ejaculate
+⟪मिह्⟫ 1P ⟪मेहति⟫ : לְהַשִׁתֵּן, לְהַגִּיחַ, לְהוֹצִיא זָרע
 
 ::: indent
 Fut. ⟪मेक्ष्यति⟫
@@ -2816,32 +2813,32 @@ from ⟪राज⟫ :
 
 ⟪सीमन्⟫ f.: boundary
 
-⟪आत्मन्⟫ m.: self, own person, innermost essence. Philosophical and in liberation doctrines: the Absolute in the individual, of which the individual is sometimes not conscious (v. Stietencron)
+⟪आत्मन्⟫ ܡ.: ܥܛܪܐ, ܢܦܫܗ, ܠܒܐ ܕܠܒ. ܟܝܢܘܬܐ ܦܠܣܦܬܝܬܐ ܘܒܕܓܠܬ̈ܐ ܕܫܘܩܠܐ: ܗܝ ܟܝܢܘܬܐ ܪܒܬܐ ܒܝܬܡܕܐ, ܕܠܥܡ̈ܐ ܢܦܫܗ ܠܝܬ ܠܘܟܠܐ (ܡ. ܣܛܝܠܬܢܩܪܘܢ)
 
-⟪ब्रह्मन्⟫ n.: the Absolute, the Veda (according to Thieme originally: the formulated truth, from which ⟪ब्राह्मण⟫ "formulator of truth")
+⟪ब्रह्मन्⟫ ܣ.: ܗܝ ܟܝܢܘܬܐ ܪܒܬܐ, ܗܝ ܘܕܐ (ܠܦܡ ܬܝܐ: ܒܫܪܐ ܪܒܬܐ, ܡܢ ܗܝ ܟܠܡܬܐ ܕܫܪܬܐ, ܡܢ ܗܝ ⟪ब्राह्मण⟫ "ܡܫܪܐ ܟܠܡܬܐ")
 
 ⟪ब्रह्मन्⟫ m.: the personally conceived creator god Brahmā
 
 ::: media
 ![](/images/lekt3809.webp)
-Fig.: ⟪ब्रह्मा⟫
-(Image source: [Details](/licenses#lekt3809))
+ܩܛܥܬܐ: ⟪ब्रह्मा⟫
+(מקור ܕܬܩܠܝܐ: [פּרטים](/licenses#lekt3809))
 :::
-⟪कर्मन्⟫ n.: to ⟪कृ⟫ 8U: action, deed, work; sacred work, sacrificial act; Karma: the past action that later brings its fruits (e.g. in rebirth) 
+⟪कर्मन्⟫ ܢ.: לְ⟪कृ⟫ 8U: פּעܘܠܬܐ, מַעֲשׂוֹה; עבודה קודשתא, מעשה זבח; כַּרְמָה: הפּעܘܠܬܐ ܕܥܒ̈ܕܐ ܟܠܬܐ ܡܛܪܐ לִפּוּק̈ܗ ܒܝܘמ̈ܐ (כְּגוֹן בְּיַולָדוּת)
 
 ::: indent
-⟪कर्मविपाक⟫ m.: ring of deeds = the good and bad consequences of deeds in previous existences (to ⟪वि⟫-⟪पच्⟫)
+⟪कर्मविपाक⟫ ܡ.: טַבְּעָה דִמַעֲשׂוֹת = טܒ̈ܐ וܪܥܝ ܕְמַעֲשׂוֹת בְּק̈יָמ̈ܐ ܕְלַעܠ (לְ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: elephant (_Elephas maximus_)
+⟪हस्तिन्⟫ ܡ.: פִּיל (_Elephas maximus_)
 
-⟪मनु⟫ m.: human, man; name of the father of the human race (to ⟪मन्⟫ 4Ā)
+⟪मनु⟫ ܡ.: אֱנָשׁ, גּוּבְרָא; שׁܡ̈ܗ ܕܐܒ݂ ܕְנִשְׁמָת̈ܐ (לְ⟪मन्⟫ 4Ā)
 
 ::: indent
 thereof:
 
-⟪मनुष्य⟫ m.: human
+⟪मनुष्य⟫ m.: אנוש
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (to flame, to shine) ; to mourn, to lament
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (ללהב, לזרוח) ; לאבל, להתאבל
 
 ::: indent
 Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
@@ -2869,7 +2866,7 @@ Fig.: ⟪अशोकवृक्षः⟫
 Fig.: ⟪अशोकसाम्राज्यम्⟫
 (Image source: [Details](/licenses#lekt3811))
 :::
-## Lesson 40
+## ܐܘܪܬܐ 40
 
 
 
@@ -2883,12 +2880,12 @@ Fig.: ⟪अशोकसाम्राज्यम्⟫
 
 ⟪पुस्तक⟫ m.n.: manuscript, book
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : to be in proper order, to fit (Loc.) ; to take shape, to form ; to resolve to, to condescend to (Dative)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : ܠܒܘܿܫ ܒܐܘܪܬܐ ܕܝܠܓܘܿܢ, ܠܒܘܿܫ ܒܐܘܪܬܐ (Loc.) ; ܠܒܘܿܫ ܣܘܼܓ, ܠܒܘܿܫ ܣܘܼܓ ; ܠܒܘܿܫ ܠ, ܠܒܘܿܫ ܠ (Dative)
 
 ::: indent
-Perf. II ⟪चकॢपे⟫ optional ⟪अनिट्⟫  
+Perf. II ⟪चकॢपे⟫ ܐܘܬܒܼܐ ⟪अनिट्⟫  
 Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
-Caus. ⟪कल्पयति⟫ : to put in order, to create, to form in the imagination, to imagine  
+Caus. ⟪कल्पयति⟫ : ܠܒܘܿܫ ܒܐܘܪܬܐ, ܠܒܘܿܫ ܣܘܼܓ, ܠܒܘܿܫ ܣܘܼܓ ܒܡܕܥܝܬܐ, ܠܒܘܿܫ ܣܘܼܓ  
 PPP ⟪कॢप्त⟫  
 Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫
 
@@ -2913,7 +2910,7 @@ Caus. ⟪तोदयति⟫
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
 :::
-⟪तॄ⟫ 1P ⟪तरति⟫ :  to cross over, to cross, to save oneself from someone (Acc. = to cross someone)
+⟪तॄ⟫ 1P ⟪तरति⟫ : ܠܥܒܕ ܡܪܟܒܬܐ, ܠܥܒܕ ܡܪܟܒܬܐ, ܠܥܒܕ ܡܪܟܒܬܐ ܡܢ ܝܬܝܪ (ܐܘܪܚܐ = ܠܥܒܕ ܡܪܟܒܬܐ)
 
 ::: indent
 Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
@@ -2925,22 +2922,22 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 
 of which:
 
-⟪तीर्थ⟫ n.: ford, sacred bathing place, pilgrimage site
+⟪तीर्थ⟫ n.: מעבר, מקום טבילה קדוש, אתר עלייה לרגל
 :::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
-Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
-(Image source: [Details](/licenses#lekt4003))
+דמיון: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
+(מקור התמונה: [פרטים](/licenses#lekt4003))
 ::::
 :::
 ::: indent
-⟪तीर्थङ्कर⟫ m. (from: ⟪तीर्थम्⟫+ ⟪कृ⟫): ford-maker (beyond suffering) = the 24 teachers of the Jains
+⟪तीर्थङ्कर⟫ m. (מ: ⟪तीर्थम्⟫+ ⟪कृ⟫): בונה מעבר (מעבר לסבל) = 24 המורים של הג'יינים
 :::
 ::: media
 ![lekt4002.jpg](/images/lekt4002.webp)
-Fig.: ⟪तीर्थङ्करः⟫
-(Image source: [Details](/licenses#lekt4002))
+דמיון: ⟪तीर्थङ्करः⟫
+(מקור התמונה: [פרטים](/licenses#lekt4002))
 :::
-⟪अव⟫ prefix: down, downward, away, off-
+⟪अव⟫ prefix: מטה, כלפי מטה, הרחק,
 
 ⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : to descend
 
@@ -2976,7 +2973,7 @@ Fig.: ⟪स्वपन्ति⟫
 (Image source: [Details](/licenses#lekt4004))
 ::::
 :::
-## Lesson 41
+## ܕܪܫܐ ܡܐ
 
 
 
@@ -3000,13 +2997,13 @@ Fig.: ⟪भुजङ्गः⟫
 
 ::: media
 ![lekt4104.jpg](/images/lekt4104.webp)
-Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
-(Image source: [Details](/licenses#lekt4104))
+ܩܘܪܟܐ: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
+(ܡܕܝܢܬ ܨܠܩܐ: [ܦܪܣܘܦ](/licenses#lekt4104))
 :::
-⟪शास्⟫ 2P ⟪शास्ति⟫ : to reprove, to control, to command, to teach
+⟪शास्⟫ 2P ⟪शास्ति⟫ : ܠܡܕܢ ܠܡܣܪ ܠܡܫܬܘܠ ܠܡܕܒ
 
 ::: indent
-has the weak present stem **⟪शिष्⟫** : **⟪शिष्मस्⟫**, but the 3rd Pl. Pres. has the strong stem: **⟪शासति⟫** (!! ending -ati) alongside occasional **⟪शासन्ति⟫**. **⟪अशासुर्⟫**. Also the entire ⟪आत्मनेपद⟫ has, insofar as it occurs, the strong stem: **⟪शास्ते⟫**
+ܠܐ ܝܬܪ ܩܘܠܐ ܕܦܪܝܟ **⟪शिष्⟫** : **⟪शिष्मस्⟫**, ܐܠܐ 3rd Pl. Pres. ܝܬܪ ܩܘܠܐ: **⟪शासति⟫** (!! ܣܘܡ -ati) ܥܡ ܐܝܟ **⟪शासन्ति⟫**. **⟪अशासुर्⟫**. ܐܠܐ ܟܠ ⟪आत्मनेपद⟫, ܒܐܝܟ ܕܢܬܩܪ, ܠܐ ܝܬܪ ܩܘܠܐ: **⟪शास्ते⟫**
 
 Perf I **⟪शशास⟫**, **⟪शशासुर्⟫**  
 Fut. **⟪शासिष्यति⟫**  
@@ -3044,9 +3041,9 @@ Fig.: ⟪शास्त्री⟫
 ::: deleteme-box
 see also:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**פייאר, אלוֹס \&lt;1944 - \&gt;:** וינַיאָמוּכְה : מושגים יסודיים של חוקי המנזר וההלכה הנוסחית של תֵּרוַואָדָה. -- חלק א'. -- (חומרים על המושגים היסודיים של הבודהיזם). -- _כתובת_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-⟪कन्या⟫ f.: young girl, daughter, maiden
+⟪कन्या⟫ f.: נערה צעירה, בת, כלה
 
 ⟪अति⟫ prefix: over, over - way, over - beyond (in space, in time, in number, in quantity, in order, in power, in intensity), exceedingly
 
@@ -3058,9 +3055,9 @@ PPP **⟪अतीत⟫** : n. past
 ::: deleteme-box
 see also:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**פייאר, אלוֹס \&lt;1944 - \&gt;:** וינַיאָמוּכְה : מושגי יסוד בהלכות המונוכיות ובדיני הטהרוואדה. -- חלק א'. -- (חומרים למושגי יסוד בבודהיזם). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-⟪कन्या⟫ f.: young girl, daughter, maiden
+⟪कन्या⟫ f.: ילדה צעירה, בת, נערה
 
 ⟪अति⟫ prefix: over, over - way, over - beyond (in space, in time, in number, in quantity, in order, in power, in intensity), exceedingly
 
@@ -3072,9 +3069,9 @@ PPP **⟪अतीत⟫** : n. past
 ::: deleteme-box
 see also:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**پייאר، أloys &lt;1944 - \&gt;:** ܛܝܢܐܡܘܟܗ : ܚܘܒܝ̈ܐ ܕܡܕܢܚܬܐ ܕܩܘܢܝ̈ܐ ܕܡܠܦܢܘܬܐ ܘܩܘܢܝ̈ܐ ܕܡܠܦܢܘܬܐ ܕܛܗܪܒܐܕܐ. -- ܦܠ̈ܘܓ 1. -- (ܡܕܥ̈ܝܢ ܠܚܘܒܝ̈ܐ ܕܡܕܢܚܬܐ ܕܒܘܕܗܡ). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-⟪कन्या⟫ f.: young girl, daughter, maiden
+⟪कन्या⟫ ܦ.: ܥܕܬܐ ܢܝ̈ܚܬܐ، بِنۄة، عَذۄرة
 
 ⟪अति⟫ prefix: over, over - way, over - beyond (in space, in time, in number, in quantity, in order, in power, in intensity), exceedingly
 
@@ -3083,7 +3080,7 @@ see also:
 ::: indent
 PPP **⟪अतीत⟫** : n. Past tense
 :::
-## Lesson 42
+## ܕܪܫܐ ܡܒ
 
 
 
@@ -3093,9 +3090,9 @@ PPP **⟪अतीत⟫** : n. Past tense
 
 ⟪प्रकृति⟫ f.: (to ⟪कृ⟫ + ⟪प्र⟫) basic form, natural state, nature; prime matter, primal substance
 
-⟪अर्जुन⟫ m. Proper name: Arjuna, one of the five sons of ⟪पण्डु⟫. Hero in the ⟪महाभारत⟫ (see Basham, Wonder pp. 409 - 414)
+⟪अर्जुन⟫. שם פרטי: ארזונה, אחד מבניו החמישה של ⟪पण्डु⟫. גיבור ב-⟪महाभारत⟫ (ראה באשמ, פלאים עמ' 409 - 414)
 
-⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : to abstain from, to refrain from, to keep away, to remain, to stand
+⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : להימנע, להתרחק, להישאר, לעמוד
 
 ::: indent
 PPP ⟪अवस्थित⟫ 3: standing, located
@@ -3116,7 +3113,7 @@ PPP ⟪अवस्थित⟫ 3: standing, located
 
 ⟪बाण⟫ m.: Arrow, target
 
-⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : to approve, to promise; Ā: to answer, to confirm, to assert, to recognize
+⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : ܠܐܝܡܕ, ܠܬܥܕܪ; א: ܠܐܢܘ, ܠܬܥܕܪ, ܠܐܝܡܕ, ܠܬܫܟܚ
 
 ⟪चल्⟫ 1P ⟪चलति⟫ : to set in motion
 
@@ -3158,16 +3155,16 @@ Inf. ⟪शंसितुम्⟫
 :::
 ⟪हृदय⟫ n.: Heart
 
-### 42.2.1. Some kinship terms
+### 42.2.1. ܩܰܠܺܝܠ ܡܶܢ ܡܰܠ̈ܶܐ ܕܫܰܪܒܬܳܐ
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
-Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
-(Image source: [Details](/licenses#lekt4202))
+ܦܩ: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
+(מקור ܕܬܩܠܐ: [פּרטים](/licenses#lekt4202))
 :::
-⟪भर्तृ⟫ m. (to ⟪भृ⟫ "to carry, to sustain"): Sustainer, provider, husband
+⟪भर्तृ⟩ ܡ. (ל भृ "לשאת, לנסך"): נוסע, ספקן, בעל
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: Wife (⟪भार्या⟫ = gerundive to ⟪भृ⟫ : to be carried, to be sustained, entitled to support)
+⟪भार्या⟩ ܟ.,  ⟪जाया⟩ ܟ.  ⟪पत्नी⟩ ܟ.: אשתא (⟪भार्या⟩ = גרונדיווה ל भृ : לשאת, לנסך, זכאי לתמיכה)
 
 ⟪पितृ⟫ m.: Father
 
@@ -3176,7 +3173,7 @@ Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 1.  Father, grandfather, great-grandfather
 2.  the ancestral forefathers of humanity
 
-Rites are performed for both, so-called ⟪श्राद्ध⟫ n. Daily, three male ancestors (paternal and maternal) receive water and, on certain occasions, rice balls or flour balls (⟪पिण्ड⟫ m. "balls") as offerings. This is so that the ancestors receive food. The performance of this ceremony is one reason why a man should beget a son. Those who are connected through this ⟪पिण्ड⟫-gift are called ⟪सपिण्ड⟫ (to whom ⟪पिण्ड⟫ is common). ⟪सपिण्ड⟫ encompasses six generations: three backwards (to the great-grandfather) and three forwards (to the great-grandson).
+ܠܐܘ̈ܦ̈ܬܐ ܝܕܥܢ ܠܟܠ ܡܢ ⟪श्राद्ध⟫ n. יܘ̈ܡܝ ܬܠܬ ܓܒܪ̈ܐ (ܕܡܢ ܐܒܗܬܗܝ וܡܪܟܒܬܗ) ܩܠܢ ܡܝܐ וܒܓܘ ܥܕܢ̈ܐ ܟܬܦܐ או ܓܪܝܢ (⟪पिण्ड⟫ m. "כּוֹתָלוֹת") כְּנִיסܬܐ. ܗܕܐ ܠܡܶן דְּיַהֲבוּ לܐܒ̈ܗܬܐ ܡܕܥܢܐ. ܦܠܝܚܬܐ ܕܗܢܐ ܥܒܕܐ ܚܕ ܡܢ ܫܠܬ̈ܐ ܠܡܰܪ ܢܘܗܪ ܒܪ. ܕܝܠ̈ܦܬܐ ܒܗܢܐ ⟪पिण्ड⟫-ܡܕܥܢܐ ܝܩܪ̈ܒܘ לְ⟪सपिण्ड⟫ (ܕܠܗוֹן ⟪पिण्ड⟫ ܐܝܬ). ⟪सपिण्ड⟫ ܡܠܐ ܣ̈ܬܪ ܕܫܒܥ: תּܠܬ̈ܐ ܠܡܚܘܟ (לְגַבֵּי ܐܒܐ ܕܐܒܐ) וְתּܠܬ̈ܐ ܠܡܕܟ (לְגַבֵּי ܒܪ ܕܒܪ).
 
 ⟪तात⟫ m.: Papa
 
@@ -3192,7 +3189,7 @@ Rites are performed for both, so-called ⟪श्राद्ध⟫ n. Daily, th
 
 ⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Sister
 
-⟪देवृ⟫ m.: Brother of the husband (brother-in-law of the wife)
+⟪देवृ⟫ m.: ܐܚܘܢܗ ܕܓܒܪܐ (ܐܚܘܢܗ ܕܬܫܟܛܐ)
 
 ⟪यातृ⟫ m.: Wife of the husband's brother
 
@@ -3216,7 +3213,7 @@ Rites are performed for both, so-called ⟪श्राद्ध⟫ n. Daily, th
 
 ⟪मातामही⟫ f.: maternal grandmother
 
-## Lesson 43
+## ܕܪܫܐ ܡܓ
 
 
 
@@ -3291,7 +3288,7 @@ Fig.: ⟪वत्सः⟫
 
 ⟪कियत्⟫ 3: how big
 
-⟪शर्करा⟫ f.: sugar (the German "Zucker" goes via Italian zucchero, from there via Arabic sukkar - سكر and Persian äkär - شکر back to the Sanskrit ⟪शर्करा⟫!)
+⟪शर्करा⟫ f.: שֻׁקָּר (המילה הגרמנית "Zucker" מגיעה דרך האיטלקית zucchero, משם דרך הערבית sukkar - سكر והפרסית äkär - شəkַר חזרה לסנסקריט ⟪शर्करा⟫!)
 
 ⟪अधिक⟫ 3: additional, surplus, extraordinary
 
@@ -3341,7 +3338,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: bliss, joy
 
-## Lesson 44
+## ܠܶܩܨܺܝܳܘܢ ܡܕ
 
 
 
@@ -3358,9 +3355,9 @@ e.g.
 
 **⟪वद्⟫ + ⟪प्रति⟫** 1P ⟪प्रतिवदति⟫ : to say back = to answer
 
-**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : to reject, to spurn
+**⟪ख्या⟫ + ⟪प्रति⟫ + ⟪आ⟫** 2P ⟪प्रत्याख्याति⟫ : ܠܕܚܐ, ܠܒܫ
 :::
-⟪या⟫ 2P ⟪याति⟫ : to go, to travel
+⟪या⟫ 2P ⟪याति⟫ : ܠܟܘ
 
 ::: indent
 Perf. IV ⟪ययौ⟫  
@@ -3372,14 +3369,14 @@ Inf. ⟪यातुम्⟫
 
 from which:
 
-**⟪यान⟫** n.: going, way, vehicle
+**⟪यान⟫** n.: הָלְכָה, דֶּרֶךְ, רַכֵּב
 :::: media
 ![](/images/lekt4403.webp)
-Fig.: ⟪रेल्यानम्⟫
-(Image source: [Details](/licenses#lekt4403))
+מִטָּה: ⟪रेल्यानम्⟫
+(מְקוֹר הַתְמוּנָה: [פירוט](/licenses#lekt4403))
 ::::
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : to lie. This root has in all forms of the present stem **Guna grade:** 1.sg.Ind.Pres.Ā ***⟪शेये⟫*** (śe + e). The following forms are particularly noteworthy: 3.pl.Ind.Pres.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
+**⟪शी⟫** 2Ā ⟪शेते⟫ : לִשְׁכַּב. שָׁרֵשׁ זֶה כָּל צוּרוֹת שורש הַנוכחי **גְּאוּנָה:** 1.sg.Ind.Pres.Ā ***⟪शेये*** (שֵׁ + א). הצורות הבאות הן במיוחד בולטות: 3.pl.Ind.Pres.Ā ***⟪शेरते***, 3.pl.Impf.Ā ***⟪अशेरत***
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -3411,16 +3408,16 @@ Gerundiv ⟪नन्द्य⟫
 
 thereof:
 
-**⟪नन्दिन्⟫** 3: characterized by (special) joy, joyful ; m. name of the mount (⟪वहन⟫) of the ⟪शिव⟫ (a bull)
+**⟪नन्दिन्⟫** 3: ܕܡܫܘܚ ܒܚܕܘܬܐ (ܝܬܝܪܬܐ), ܚܕܝܐ ; ܕ. ܫܡܐ ܕܪܟܘܫܐ (⟪वहन⟫) ܕ⟪शिव⟫ (ܬܘܪܐ)
 :::: media
 ![](/images/lekt4405.webp)
-Fig.: ⟪नन्दी⟫
-(Image source: [Details](/licenses#lekt4405))
+ܨܘܪܬܐ: ⟪नन्दी⟫
+(ܡܒܘܥܐ ܕܨܘܪܬܐ: [ܦܪܘܛܝܐ](/licenses#lekt4405))
 ::::
 :::
-⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : to have one's joy in (⟪द्वितीयया⟫), to greet someone joyfully, to welcome
+⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : ܠܡܗܘܐ ܠܚܕܘܬܐ ܗ ܒ (⟪द्वितीयया⟫), ܠܫܠܡ ܥܠ ܐܢܫ ܒܚܕܘܬܐ, ܠܡܩܒܠ
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : to hold, to carry ; to offer, to grant ; to hold together, to restrain, to curb, to conquer
+**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : ܠܡܐܚܕ, ܠܡܛܥܢ ; ܠܡܝܗܒ, ܠܡܫܟܢ ; ܠܡܐܚܕ ܐܟܚܕܐ, ܠܡܥܘܟ, ܠܡܟܒܫ, ܠܡܙܟܐ
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
@@ -3434,16 +3431,16 @@ Absol. -⟪यम्य⟫
 **⟪यम्⟫ + ⟪आ⟫** 1**U** ⟪आयच्छति⟫ : to stretch, to extend
 
 ::: indent
-PPP ⟪आयत⟫ 3: stretched out long
+ܦܪ̈ܣܠ ܕܡܢܐ ⟪आयत⟫ : ܡܕܥ ܐܪܟ
 :::: media
 ![](/images/lekt4406.webp)
-Fig.: ⟪आयतो⟫ ⟪मरुः⟫
-(Image source: [Details](/licenses#lekt4406))
+ܡܠܟܬܐ: ⟪आयतो⟫ ⟪मरुः⟫
+(ܡܕܥ ܐܪܟ: [ܦܘܣܩ](/licenses#lekt4406))
 ::::
 :::
-⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : to offer, to present, to hand over
+⟪यम्⟫ + ⟪प्र⟫ ܦܠ ܐܝܟ ⟪प्रयच्छति⟫ : ܠܬܝܬ, ܠܬܩܪܒ, ܠܬܫܝܡ
 
-⟪यम्⟫ + ⟪सम्⟫ 1P ⟪संयच्छति⟫ : to bind together, to tie up, to restrain
+⟪यम्⟫ + ⟪सम्⟫ ܦܠ ܐܝܟ ⟪संयच्छति⟫ : ܠܬܩܕܪ, ܠܬܩܫܪ, ܠܬܚܙܝ
 
 ⟪यत्⟫ 1Ā ⟪यतते⟫ : to strive for (⟪सप्तमी⟫, ⟪चतुर्थी⟫, ⟪द्वितीया⟫)
 
@@ -3467,50 +3464,50 @@ Fig.: ⟪यत्नेन⟫
 **⟪रभ्⟫** 1Ā ⟪रभते⟫ (variant form to ⟪लभ्⟫): to grasp
 
 ::: indent
-Perf. Vb ⟪रेभे⟫  
-Fut. ⟪रप्स्यते⟫  
-Pass. ⟪रभ्यते⟫  
-Kaus. ***⟪रम्भ⟫***⟪यति⟫  
-PPP ⟪रब्ध⟫  
-Inf. ⟪रब्धुम्⟫  
-Absol. -⟪रभ्य⟫
+כּוֹלָא פְעִיל ⟪रेभे⟫  
+עָתִיד ⟪रप्स्यते⟫  
+פָּסוֹק ⟪रभ्यते⟫  
+סַבָּא ***⟪रम्भ⟫***⟪यति⟫  
+פְּעִיל שָׁלֵם ⟪रब्ध⟫  
+אִינְפִּינִית ⟪रब्धुम्⟫  
+אַבְסוֹלּוּט -⟪रभ्य⟫
 :::
-⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : to touch, to begin, to undertake
+⟪रभ्⟫ + ⟪आ⟫ 1Ā ⟪आरभते⟫ : לִגְעוֹת, לְהָחֵל, לַעֲשׂוֹת
 
 ⟪प्रव्रज्या⟫ f. (to ⟪प्र⟫-⟪व्रज्⟫): the going forth from home into homelessness ; ceremony by which one becomes a Buddhist novice (Pali: ⟪पब्बजा⟫)
 
 ::: deleteme-box
 See:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic concepts of the monastic rules and monastic law of the Theravāda. -- Part I. -- (Materials on the basic concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**پייאר، אַלֹויס \&lt;1944 - \&gt;:** ויניאַמוכּה : בסיסיות קונצעפֿטן פון די מָנאַכישע ריכל און מָנאַכישן רעכט פֿון דער תּהַרוואָאַדאָ. -- טייל אײן. -- (מאַטעריאַלן צו די בסיסיות קונצעפֿטן פון דער בודהישמוּם). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::: media
 ![](/images/lekt4408.webp)
-Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Image source: [Details](/licenses#lekt4408))
+פֿיג.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
+(בילד־קוואַל: [דעטאַלן](/licenses#lekt4408))
 ::::
 :::
 ::: deleteme-box
-See:
+זע:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic concepts of the monastic rules and monastic law of the Theravāda. -- Part I. -- (Materials on the basic concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**פּייאַר, אַלֹויס \&lt;1944 - \&gt;:** ויניאַמוכּה : בסיסיות קונצעפֿטן פון די מָנאַכישע ריכל און מָנאַכישן רעכט פֿון דער תּהַרוואָאַדאָ. -- טייל אײן. -- (מאַטעריאַלן צו די בסיסיות קונצעפֿטן פון דער בודהישמוּם). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
-Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Image source: [Details](/licenses#lekt4408))
+פֿיג.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
+(בילד־קוואַל: [דעטאַלן](/licenses#lekt4408))
 
 :::
 ::: deleteme-box
 See:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Basic Concepts of the Monastic Rules and Monastic Law of the Theravāda. -- Part I. -- (Materials on the Basic Concepts of Buddhism). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**פייאר, אָלויס \&lt;1944 - \&gt;:** וִינַיאְמוּכְהָ : מוּסָרֵי יְסוֹד שֶׁל חֻקּוֹת הַמּוֹנָסְטִיר וְהַדִּין הַמּוֹנָסְטִיר שֶׁל תֵּרַוָאדָה. -- חֵלֶק א'. -- (חֻמְרִים עַל מוּסָרֵי יְסוֹד שֶׁל בּוּדָהִיזְם). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
-Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Image source: [Details](/licenses#lekt4408))
+תְּמוּנָה: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
+(מְקוֹר הַתְּמוּנָה: [פֵּרוּט](/licenses#lekt4408))
 :::
-## Lesson 45
+# ܡܠܦܢܘܬܐ 45
 
 
 
@@ -3520,7 +3517,7 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 
 ⟪वा⟫ ... ⟪वा⟫ : either ... or
 
-## Lesson 46
+## ܐܘܠܦܢܐ 46
 
 
 
@@ -3537,7 +3534,7 @@ thereof:
 ⟪विषम⟫ 3: unequal, uneven, evil
 
 :::
-⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : to seize, to grasp, to catch
+⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : ܠܘܦ, ܚܙܩ
 
 ::: indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
@@ -3563,28 +3560,28 @@ thereof:
 :::
 Regarding ⟪राहु⟫ and ⟪केतु⟫ see:
 
-> **Payer, Alois \<1944 - \>:** Dharmashastra : Introduction and Overview. -- 10. Sacraments and Transition Rites (samskara). -- Appendix C: Rahu and Ketu, the invisible wandering stars . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **پייאר، أloys \&lt;1944 - \&gt;:** دارماساترا : مقدمة ونظرة عامة. -- 10. الطقوس وطقوس الانتقال (سامسكارا). -- الملحق ج: راوه وكيتو، النجوم المتجولة غير المرئية . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
-Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
-(Image source: [Details](/licenses#lekt4602))
+الشكل: [⟪सूर्यः⟫، ⟪चन्द्रः⟫، ⟪मङ्गलः⟫](/licenses#lekt4602)
+(مصدر الصورة: [تفاصيل](/licenses#lekt4602))
 :::: media
 ![](/images/lekt4603.webp)
-Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/licenses#lekt4603)
-(Image source: [Details](/licenses#lekt4603))
+الشكل: [⟪बुधः⟫، ⟪बृहस्पतिः⟫](/licenses#lekt4603)
+(مصدر الصورة: [تفاصيل](/licenses#lekt4603))
 ::::
 :::
 ::: media
 ![](/images/lekt4604.webp)
-Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/licenses#lekt4604)
-(Image source: [Details](/licenses#lekt4604))
+الشكل: [⟪शुक्रः⟫، ⟪शनिः⟫](/licenses#lekt4604)
+(مصدر الصورة: [تفاصيل](/licenses#lekt4604))
 :::
 ::: media
 ![](/images/lekt4605.webp)
-Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/licenses#lekt4605)
-(Image source: [Details](/licenses#lekt4605))
+الشكل: [⟪राहुः⟫، ⟪केतुः⟫](/licenses#lekt4605)
+(مصدر الصورة: [تفاصيل](/licenses#lekt4605))
 :::
-⟪तुष्⟫ 4P ⟪तुष्यति⟫ : to be content, to be satisfied with (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
+⟪तुष्⟫ 4P ⟪तुष्यति⟫ : أن يكون راضياً، أن يكون مُرضىً بـ (⟪षष्ठ्या⟫، ⟪चतुर्थ्या⟫، ⟪तृतियया⟫، ⟪सप्तम्या⟫)
 
 ::: indent
 Perf. II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
@@ -3595,7 +3592,7 @@ PPP ⟪तुष्ट⟫
 Inf. ⟪तोष्टुम्⟫
 
 :::
-⟪नम्⟫ 1P ⟪नमति⟫ : to bend, to bow, to incline, to prostrate
+⟪नम्⟫ 1P ⟪नमति⟫ : ܠܩܘܦ, ܠܪܥܝ, ܠܬܕܟܐ
 
 ::: indent
 Perf. Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
@@ -3668,11 +3665,11 @@ thereof:
 
 :::: media
 ![](/images/lekt4609.webp)
-Fig.: [⟪श्रान्तः⟩](/licenses#lekt4609)
-(Image source: [Details](/licenses#lekt4609))
+ܩܘܛܢܐ: [⟪श्रान्तः⟩](/licenses#lekt4609)
+(ܡܕܝܢܬ ܨܘܪܟܐ: [ܦܣܩ̈ܠܐ](/licenses#lekt4609))
 ::::
 :::
-⟪श्रि⟩ 1U ⟪श्रयति⟩ : to lean, to lean against, to find support, to go to someone (⟪द्वितीयया⟩, ⟪सप्तम्या⟩)
+⟪श्रि⟩ 1U ⟪श्रयति⟩ : ܠܡܘܬܒܐ, ܠܡܘܬܒܐ ܥܠ, ܠܡܫܟܚ, ܠܡܙܥܝ ܠܐܢܫ (⟪द्वितीयया⟩, ⟪सप्तम्या⟩)
 
 ::: indent
 Perf. IIIa ⟪शिश्राय⟩, ⟪शिश्रिये⟩  
@@ -3683,7 +3680,7 @@ PPP ⟪श्रित⟩
 Inf. ⟪श्रयितुम्⟩
 
 :::
-⟪सञ्ज्⟩ 1P ***⟪सज⟩***⟪ति⟩ : to attach, to stick to (⟪सप्तम्या⟩)
+⟪सञ्ज्⟩ 1P ***⟪सज⟩***⟪ति⟩ : ܠܐܘܝܬ, ܠܐܘܝܬ (⟪सप्तम्या⟩)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟩, ⟪ससञ्जुर्⟩  
@@ -3692,8 +3689,8 @@ Pass. ⟪सज्यते⟩
 Kaus. ⟪सञ्जयति⟩  
 PPP ⟪सक्त⟩  
 Inf. ⟪संक्तुम्⟩
-thereof:
-⟪सङ्ग⟩ m.: the attaching to, contact with (⟪तृतीयया⟩)
+מן ד:
+⟪सङ्ग⟩ m.: ܠܐܘܝܬ, ܩܪܒܐ (⟪तृतीयया⟩)
 
 :::: media
 ![](/images/lekt4610.webp)
@@ -3747,7 +3744,7 @@ Fig.: [⟪लम्बोदर⟩ ⟪नमस्तुभ्यम्⟩](/lic
 
 ⟪यदि⟩ conjunction:  if
 
-⟪भू⟩ + ⟪परि⟩ 1P ⟪परिभवति⟩ : to encircle, to master, to conquer
+⟪भू⟩ + ⟪परि⟩ 1P ⟪परिभवति⟩ : ܠܚܘܦ, ܠܡܫܬܠܛ, ܠܢܨܚ
 
 ::: indent
 PPP ⟪परिभूत⟩ 3: conquered, humiliated, degraded
@@ -3760,14 +3757,14 @@ e.g.
 ⟪सद्⟩ + ⟪नि⟩ 1P ⟪नि⟩***⟪षी⟩***⟪दति⟩ : to sit down
 
 :::
-⟪भोस्⟩ vocative particle: exclamation of address, e.g.: hey, hola, oh, eh, hello, hi! often not translatable. This particle has a special sandhi: before all voiced sounds, it is ***⟪भो⟩***.
+⟪भोस्⟩ מִלַּת קְרָא: קְרָא דִבּוּר, כְּגוֹן: הָי, אוֹלָה, אַה, אֵי, שְׁלוֹמָא, סְלָם! לַעֲתִיקּוֹת אֵין מְתָרְגִים. לַמֶּלֶךְ זֶה יֵשׁ סַנְדִּי מְיוּחָד: לִפְנֵי כָל הַצְּלוּלִים, הוּא ***⟪भो⟩***.
 
 ::: media
 ![](/images/lekt4611.webp)
 Fig.: [⟪भोः⟫](/licenses#lekt4611)
 (Image source: [Details](/licenses#lekt4611))
 :::
-## Lesson 48
+## ܕܪܫܐ 48
 
 
 
@@ -3879,7 +3876,7 @@ Fig.: ⟪मम⟫ ⟪जाया⟫
 (Image: Payer)
 (Image source: [Details](/licenses#lekt4809))
 :::
-## Lesson 49
+## ܠܶܩܨܺܝܳܘܢ ܡܛ
 
 
 
@@ -3902,7 +3899,7 @@ see:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Selected texts from the Carakasaṃhitā / translated and explained by Alois Payer \<1944 - \>. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Selected texts from the Carakasaṃhitā / translated and explained by Alois Payer \&lt;1944 - \&gt;. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : throw, hurl
@@ -3981,11 +3978,11 @@ Fig.: ⟪वेषः⟫
 
 ::: media
 ![](/images/lekt4909.webp)
-Fig.: ⟪पञ्जरम्⟫
-Fortune teller with parrot in cage: the parrot draws slips of paper on which fate is written Mysore
-(Image source: [Details](/licenses#lekt4909))
+ܩܘܪܛܢܐ: ⟪पञ्जरम्⟫
+ܕܝܠܟ ܥܡ ܦܪܩܘܕܐ ܒܟܠܝ: ܦܪܩܘܕܐ ܡܫܟܠ ܬܪ̈ܥܝܢ ܕܩܪܛܐ ܕܟܬܒ ܠܗ ܡܘܬܐ. ምዉሰር
+(מקור ܕܬܩܠܐ: [פרטים](/licenses#lekt4909))
 :::
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: lowest level of [Dalits](http://de.wikipedia.org/wiki/Dalit)
+⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ ܡ.: ܐܘܬܒܐ ܕܢܫ̈ܐ
 
 ⟪स्वयम्⟫ Indecl.: self, of itself
 
@@ -4024,7 +4021,7 @@ Fig.: ⟪गजशिशुः⟫
 Sri Lanka
 (Image source: [Details](/licenses#lekt4906))
 :::
-## Lesson 50
+## ܐܘܪܬܐ 50
 
 
 
@@ -4044,11 +4041,11 @@ Sri Lanka
 
 ::: media
 ![](/images/lekt5001.jpg)
-Fig.: ⟪मन्त्री⟫
-Kapil Sibal (1948 -), Union minister in Ministry of Science and Technology and Ministry of Earth Sciences (since 2006)
-(Image source: [Details](/licenses#lekt5001))
+ܩܛܪܐ: ⟪मन्त्री⟫
+ܩܐܦܝܠ ܣܝܒܠ (1948 -)، ܡܕܢܒܪ ܝܘܚܕܐ ܒܡܫܬܦܠܬܐ ܕܣܘܟܪܐ ܘܡܫܬܦܠܬܐ ܕܐܪܥܐ (ܡܢ 2006)
+(ܡܕܒܪ ܨܠܩܐ: [ܦܣܘܩ̈ܬܐ](/licenses#lekt5001))
 :::
-⟪रहस्⟫ n.: secret, solitude
+⟪रहस्⟫ ܢ.: ܥܝܕܐ، ܚܘܪܒܐ
 
 ⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : be harmed, fail, damage
 
@@ -4087,11 +4084,11 @@ Absol.-⟪वृष्य⟫
 :::: media
 ![](/images/lekt5002.jpg)
 Fig.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
-Arrival of the Monsoon, Bangalore ಬೆಂಗಳೂರು
-(Image source: [Details](/licenses#lekt5002))
+Ankunft der Monsun, Bangalore ಬೆಂಗಳೂರು
+(Bildquelle: [Details](/licenses#lekt5002))
 ::::
 :::
-⟪संयक्⟫ Adv.: correctly, truly, in the proper manner; thoroughly, completely
+⟪संयक्⟫ Adv.: korrekt, wahrhaftig, auf die richtige Weise; gründlich, vollständig
 
 ⟪आदित्य⟫ m.: Sun; pl.: [Āditya](http://en.wikipedia.org/wiki/Aditya): a specific class of gods
 
@@ -4147,7 +4144,7 @@ not used in other tenses
 
 ⟪देश⟫ m.: place, spot, land, region
 
-## Lesson 51
+## ܐܘܠܦܢܐ 51
 
 
 
@@ -4155,7 +4152,7 @@ not used in other tenses
 
 
 
-⟪अजिन⟫ n.: antelope skin, esp. the skin of the black antelope (blackbuck: _Antilope cervicapra_ L. ). Originally occurred throughout the Indian subcontinent from Punjab and Sind to Bengal and from Nepal to Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) See:
+⟪अजिन⟫ n.: עוֹר צְבִי, בִּפְרָט עוֹר הַצְּבִי הַשָּׁחוֹם (אַנְטִילוֹפָה שְׁחֻמָּה: _Antilope cervicapra_ L. ). בְּתִחְלָה הִשְׁרִיץ בְּכָל אַחֲזוֹת תַּת-הַיְבֶשָׁת הַהוֹדִית מֵאַרְצוֹת פַּנְגָ'אב וּסִינְד לְהוֹר בֶּנגָל וּמֵנֶפַל לְקַנְיָאקוּמָרִי (כַּפְתּוֹר קוֹמוֹרִין) (טָאמִיל: கன்னியாகுமரி) רְאֵה:
 
 > **Walker's mammals of the world** / Ronald M. Nowak. -- 6. ed. -- Baltimore \[u.a.\] : Johns Hopkins Univ. Pr., 1999. -- 2 Bde. -- ISBN 0-8018-5789-9. -- Bd. 2. -- S. 1193f.
 
@@ -4170,19 +4167,19 @@ Fig.:
 
 ⟪अरण्य⟫ n.: wilderness, forest
 
-⟪ऋतु⟫ m.: periodic event, season, time period, menstruation, time during which the woman is fertile and has a claim to intercourse with her husband.
+⟪ऋतु⟫ m.: אירוע מחזורי, עונה, תקופת זמן, וסת, הזמן שבו האישה פורייה ולזכותה לקיים יחסי אישות עם בעלה.
 
 ::: indent
-Regarding ⟪ऋतु⟫ see Manu III, 45-48: according to this, ⟪ऋतु⟫ lasts 16 days (according to the alternative translation: 20 days) from the beginning of menstruation, sexual intercourse is forbidden for the first four days after the onset of bleeding (according to the alternative translation: for the first eight (4 + 4) days), as well on the 11th (resp. 15th) and 13th (resp. 18th) day. On even days the woman conceives sons, on odd days daughters. For the following, a ⟪ऋतु⟫ of a total of 16 days (not the alternative translation) is assumed, as most native commentaries do, and which was therefore the prevailing view.
+לגבי ⟪ऋतु⟫ ראה מנו III, 45-48: לפי זה, ⟪ऋतु⟫ נמשך 16 ימים (לפי התרגיל החלופי: 20 ימים) מתחילת הווסת, קיום יחסי אישות אסור במשך ארבעה הימים הראשונים לאחר תחילת הדימום (לפי התרגיל החלופי: במשך שמונה הימים הראשונים (4 + 4) ימים), כמו כן ביום ה-11 (או ה-15) וביום ה-13 (או ה-18). בימים זוגיים האישה מתעברת בנים, בימים אי-זוגיים בנות. להלן, נניח ⟪ऋतु⟫ של סך הכל 16 ימים (לא התרגיל החלופי), כפי שרוב הפרשנים המקומיים עושים, ושהיה זו therefore הדעה הרווחת.
 
-Since ovulation occurs 14 days before the onset of menstruation, with this determination of the fertile period, fertility is almost "guaranteed" for a menstrual cycle interval of 19 to 30 days. The forbidden days (11th and 13th) improve the probability of sexual intercourse on the 12th and 14th day, i.e., the probability of conception with a cycle of 28 days (the lifespan of sperm in the woman is approx. 3 days). These regulations are as it were a positive application of Knaus-Ogino.
+מכיוון שהבשלת הביצית מתרחשת 14 ימים לפני תחילת הווסת, עם קביעה זו של התקופה הפורייה, הפריון כמעט "מובטח" למחזור וסת של 19 עד 30 ימים. הימים האסורים (ה-11 וה-13) משפרים את הסבירות לקיום יחסי אישות ביום ה-12 וביום ה-14, כלומר הסבירות להריון עם מחזור של 28 ימים (תוחלת החיים של הזרע באישה היא כ-3 ימים). תקנות אלו הן כאילו יישום חיובי של קנוס-אגינאו.
 :::: media
 ![](/images/lekt5106.jpg)
-Fig.: ⟪ऋतुः⟫
-(Image source: [Details](/licenses#lekt5106))
+איור: ⟪ऋतुः⟫
+(מקור התמונה: [פרטים](/licenses#lekt5106))
 ::::
 :::
-⟪एकत्र⟫ Adv.: in one place
+⟪एकत्र⟫ מילת תואר: במקום אחד
 
 ⟪जटा⟫ f.: hair braid (ascetic hairstyle)
 
@@ -4217,11 +4214,11 @@ Absol. -⟪शिष्य⟫
 ⟪शिष्⟫ + ⟪वि⟫ 7P ⟪विशिनष्टि⟫ : distinguish
 
 ::: indent
-Pass. ⟪विशिष्यते⟫ : differ from (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), be better than (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), be the best among (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
+ܡܠܦܢܘܬܐ. ⟪विशिष्यते⟫ : ܡܕܓܪ ܡܢ (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), ܒܝܬ ܡܢ (⟪पञ्चम्या⟫, ⟪तृतीयया⟫), ܒܝܬ ܣܘܡܟ ܠ (⟪षष्ठ्या⟫, ⟪सप्तम्या⟫)
 :::
-⟪समान⟫ 3: of the same kind, equal, similar ; m.: contemporary
+⟪समान⟫ 3: ܕܡܝܢ ܢܘܥ, ܫܘܐ, ܡܬܚܙܐ ; ܢ.: ܕܝܪܐ
 
-⟪स्व⟫ 3: own, his (my, your etc.) Declined like ⟪सर्व⟫. In the Abl.Loc.sg.m.n and in the Nom.pl.m it can also be declined like ⟪देव⟫:
+⟪स्व⟫ 3: ܐܦܘܟ, ܠܗ (ܠܝ, ܠܟ ܘܐܦ) ܡܬܪܓܡ ܟܝܠ ⟪सर्व⟫. ܒ ܐܓܠ.ܣ.ܢ.ܡ.ܢ. ܘ ܒ ܢܝܐ.ܦ.ܡ. ܗܘ ܠܒܕ ܡܬܪܓܡ ܟܝܠ ⟪देव⟫:
 
 ::: indent
 Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ ***⟪स्वात्⟫***
@@ -4390,7 +4387,7 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 ⟪शबर⟫ .:  proper name of a non-Aryan tribe
 
-## Lesson 52
+## ܕܪܫܐ 52
 
 ⟪अखिल⟫ 3: seamless, whole
 
@@ -4399,15 +4396,15 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 ::: indent
 from:
 
-⟪खिल⟫ m.: fallow field, wasteland
+⟪खिल⟫ m.: שדיא דלא זרע, מדברא
 :::: media
 ![](/images/lekt5210.webp)
 Fig.: ⟪खिलः⟫
-Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Image source: [Details](/licenses#lekt5210))
+טמבהול, אקולה, אחמדנאגאר = ⟪अहमदनगर⟫
+(מקור התמונה: [פרטים](/licenses#lekt5210))
 ::::
 :::
-⟪अन्तर्⟫ Adv.: inside, in the interior ; Postposition with Gen. Loc. (⟪षष्टी⟫, ⟪सप्तमी⟫): within, in the midst ; Postposition with Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): out of ...
+⟪अन्तर्⟫ Adv.: בתוך, בפנים ; Postposition עם Gen. Loc. (⟪षष्टी⟫, ⟪सप्तमी⟫): בתוך, באמצע ; Postposition עם Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): מתוך ...
 
 ⟪अन्योन्य⟫ 3: mutually, each other
 
@@ -4419,17 +4416,17 @@ PPP ⟪विपरीत⟫ 3: wrong, incorrect
 ⟪त्रि⟫ 3: three
 
 ::: grammar-box
-| | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** |
+| | **ܡܕܟܪܐ:br⟪पुंस्⟫** | **ܢܟܘ:br⟪नपुंसकम्⟫** | **ܢܫܐ:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
-| **1. Nominative:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Accusative:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
-| **4. Dative:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **5. Ablative:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **6. Genitive:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
-| **7. Locative:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
+| **1. ܢܘܟܪܐ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **2. ܐܘܟܪܐ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **3. ܐܘܬܪܐ:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
+| **4. ܕܬܝܐ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **5. ܐܒܠܬܝܐ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **6. ܓܢܬܝܐ:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **7. ܠܘܟܬܝܐ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposition and prefix with nouns and verbs: out, away, forth, forth, out, away, without - from
+⟪निस्⟫ ܣܘܡܟܐ ܘܩܕܡܝܐ ܥܠ ܫܡ̈ܗܐ ܘܦܥܠ̈ܐ: ܡܢ, ܡܕܝܢ, ܠܦܬ, ܠܦܬ, ܡܢ, ܡܕܝܢ, ܠܐ - ܡܢ
 
 ⟪पीड्⟫ 10P ⟪पीडयति⟫ : to press, torment ; to distress, besiege, plague
 
@@ -4444,9 +4441,9 @@ Hyderabad = హైదరాబాద్
 ::: indent
 from that:
 
-⟪परम्⟫ Adv.: to a high degree, on that, later, but, however
+⟪परम्⟫ אד״ב: לְמַעְלָה, עַל זֹאת, אַחַר כָּךְ, אַךְ, אֲבָל
 :::
-⟪प्रति⟫ Postposition (⟪द्वितीयया⟫): to - towards, towards, with respect to, opposite to
+⟪प्रति⟫ פּוֹסְטְפּוֹזִצְיָה (⟪द्वितीयया⟫): אֶל - לְעֵבֶר, לְכַוּוָן אֶל, בְּנוֹגֵעַ לְ, מוּל
 
 ⟪प्रधान⟫ 3: principal, best ; n.: the most important
 
@@ -4486,9 +4483,9 @@ Inf. ⟪वातुम्⟫
 
 from that:
 
-⟪वात⟫ m.: wind
+⟪वात⟫ m.: רוחא
 :::
-⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : to turn, to rotate ; to ward off, to exclude
+⟪वृज्⟫ 7P ⟪वृणक्ति⟫ 1P ⟪वर्जति⟫ : למד, לסובב ; למנוע
 
 ::: indent
 Perf. II ⟪ववर्ज⟫, ⟪ववृजुर्⟫
@@ -4505,7 +4502,7 @@ Inf. ⟪वर्जितुम्⟫
 
 ⟪सूर्य⟫ m.: sun
 
-⟪सेव्⟫ 1Ā ⟪सेवते⟫ : to serve (⟪द्वितीया⟫), to attend upon, to honor, to love
+⟪सेव्⟫ 1Ā ⟪सेवते⟫ : ܠܥܒܕ (⟪द्वितीया⟫), ܠܫܡܫ, ܠܐܝܕܐ, ܠܚܒܒ
 
 ::: indent
 Perf I ⟪सिषेवे⟫
@@ -4540,7 +4537,7 @@ thereof:
 
 ⟪अमुत्र⟫ Adv.: there, thither
 
-⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : to move, to move forward, to fall down
+⟪च्यु⟫ 1Ā ⟪च्यवते⟫ : ܡܕܰܠܩ ܠܗ ܐܘ ܡܕܰܠܩ ܠܗ ܒܝܬ
 
 ::: indent
 Perf. IIIa ⟪चुच्युवे⟫
@@ -4605,9 +4602,9 @@ Kaus. ⟪त्रापयति⟫
 PPP ⟪त्राण⟫ ⟪।⟫ ⟪त्रात⟫
 Inf. ⟪त्रातुम्⟫
 :::
-#### Sources
+#### ܡ̈ܩܘܪ̈ܐ
 
-**lekt0201**: Representation of the estate division of the European Middle Ages (woodcut from the late 15th century). Caption: * Priestly estate (~Brāhmaṇa): Tu supplex ora = You pray fervently! * Nobility (~Kṣatriya): Tu protege = You protect! * Peasantry (~Vaiśya/Śūdra): Tuque labora = And you work! The three estates wear the respective estate attire. Above the - thus designated as willed by God - estates presides Christ. [Image source: Meyer, Werner: Millet Porridge and Halberd : on the trail of medieval life in Switzerland . -- 2nd ed. -- Olten [et al.] : Walter, 1986. -- ISBN: 3-530-56707-8. -- p. 129]
+**ܠܟܬ 0201**: ܐܪܥܘܬ ܦܠܓܐ ܕܡܕܝܢܬܐ ܕܥܠܡܐ ܪܒܝܬ (ܩܛܥܬ ܐܪܙ ܡܢ ܫܠܣܝܬ ܩܪܒ 15). ܛܥܡܐ: * ܟ̈ܢܫܬ ܩܕܝܫܐ (~בר̈המ̈נ): ܬܘ ܣܘܦܠܩܨ ܐܘܪܐ = ܬܫܠܚ! * ܟ̈ܢܫܬ ܐܪܒܥܝܐ (~כ̈שט̈ר): ܬܘ ܦܪܘܓܛ = ܬܫܒܚ! * ܟ̈ܢܫܬ ܥܡܘܪܐ (~ו̈א̈יש/ש̈ודר): ܬܘܩ ܠܒܘܪ = ܬܫܟܚ! ܦ̈ܠܓܐ ܕܬܪܬܝܢ ܡܠܟ̈ܘܬܐ. ܥܠ ܦ̈ܠܓܐ - ܕܡܢܬ ܒܪ̈ ܐܠܗ - ܡܠܟܬ ܩܕܝܫ. [מקור תמונה: מיילר, ווערנער: מילט פּאָרידזש און חאַלבארד : אויף דער שפּור פֿון מיטלאַלטערליכע לעבן אין שווייץ . -- 2nd ed. -- אָלדען [און נײַ] : וואַלטער, 1986. -- ISBN: 3-530-56707-8. -- עמ' 129]
 
 **lekt0203**: God Agni, miniature, 18th cent. [Image source: Wikipedia, Public domain]
 
@@ -4629,7 +4626,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1003**: God Varuṇa = ⟪वरुण⟫, 17th century [Image source. Wikipedia, Public domain]
 
-**lekt1002**: A Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / by Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \<1848 - 1906\> [Image source: Wikipedia, Public domain]
+**lekt1002**: A Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / by Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \&lt;1848 - 1906\&gt; [Image source: Wikipedia, Public domain]
 
 **lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysore (ಮೈಸೂರು) [Image source: Prakash Subbarao / Wikipedia. -- Public domain]
 
@@ -4641,17 +4638,17 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1504**: ⟪पूजा⟫ A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India, at the start of a seismic survey contract. [Image source: Wikiepdia, Public domain]
 
-**lekt1505**: Indra and Sachi Riding the Divine Elephant Airavata, Folio from a Panchakalyanaka (Five Auspicious Events in the Life of Jina Rishabhanatha [Adinatha]), circa 1670-1680 Painting; Watercolor, Opaque watercolor, gold, and silver on paper, Image: 9 1/8 x 15 1/8 in. (23.18 x 38.42 cm); Sheet: 10 5/8 x 16 3/4 in. (26.99 x 42.55 cm. Made in: India, Rajasthan, Amber [Image source: Wikipedia, Public domain]
+**ܠܟܬ 1505**: ܐܝܢܕܪܐ ܘܣܰܛ̈ܟܝ ܥܠ ܦܪܘܿܫܐ ܕܝܼܠ̈ܬܳܐ ܐܰܪܝܒܰܘܕܬܳܐ، ܦܠܝܘ ܡܢ ܦܰܢܟܐܠܝܳܢܰܩ ܚ̈ܕܫܬ ܐܘܪ̈ܝ̈ܠ̈ܬܳܐ ܒܚ̈ܝܘܬܶܗ ܕܐܝܼܠ̈ܢ ܪܝܫܒܰܗܬܳܐ [ܐܕܝܢܬܰܗ]، ܩ̈ܪܝܒ 1670-1680 ܦܰܬ̈ܝܚܳܐ؛ ܡܶܠܟܳܐ، ܡ̈ܠܟܳܐ ܫܰܪܝܩ، ܕ̈ܘܚܒܐ ܘܙܰܠܓܳܐ ܥܠ ܩ̈ܪܛܰܢܳܐ، ܬܘܣ̈ܡܶܗ: 9 1/8 x 15 1/8 ܐܝܢ̈ (23.18 x 38.42 سم)؛ ܩ̈ܪܛܰܢܳܐ: 10 5/8 x 16 3/4 ܐܝܢ̈ (26.99 x 42.55 سم). ܐܬ̈ܘܕܶܥ: ܗܝܢܕܳܐ، ܪܰܓ̈ܗܣܬܳܢ، ܐܰܡܒܪ [ܡ̈ܕܝܢܬ ܡܶܠܟܳܐ: Wikipedia، ܩ̈ܪܝܢܘܬ ܕܶܠܐ ܡ̈ܠܟܳܐ]
 
 **lekt1506**: ⟪सिंहः⟫ (Panthera leo persica) [Image source: Wikipedia, GNU FDLicense]
 
 **lekt1507**: ⟪व्याघ्रः⟫ (Panthera tigris tigris) Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫) [Image source: U.S. Fish and Wildlife Service / Wikipedia, Public domain]
 
-**lekt1602**: ⟪अध्यापनम्⟫ "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the celebration of Mahāśivarātri. This is a vedic school, where children by heart the sacred texts called the Vedas. This school teaches the Krishna Yajurveda and some portions of the Samaveda. I'm doing my master's thesis on this school." [Image source: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Accessed on 2008-12-07. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
+**ܠܟܬܐ 1602**: ⟪अध्यापनम्⟫ "ܗܕܐ ܡܪܝܙܬܐ ܒܨܠܘܢܐ ܩܪܝܟܬܐ ܒܣܛܕܪܐ (⟪सातारा⟫). ܗܝ ܬܩܪܒܐ ܡܢ ܬܠܡܝ̈ܕܐ ܕܒܝܬ ܡܕܪܣܐ ܕܫܘܡܝ ܡܘܟܬܢܕܐ ܒܥܝ̈ܠܘܬܐ ܕܡܗܐ ܫܝܪܐܪܬܪܝ. ܗܕܐ ܒܝܬ ܡܕܪܣܐ ܠܦ̈ܘܬܐ ܕܟܢܫܝ̈ܐ ܠܡܕܥ ܬܘܒ ܗܝ ܠܦ̈ܘܬܐ ܩܕܫܝ̈ܐ ܠܡܕܥ ܬܘܒ ܗܝ ܠܦ̈ܘܬܐ ܩܕܫܝ̈ܐ ܠܡܕܥ ܬܘܒ ܗܝ ܠܦ̈ܘܬܐ ܩܕܫܝ̈ܐ. ܗܕܐ ܒܝܬ ܡܕܪܣܐ ܠܦ̈ܘܬܐ ܕܟܢܫܝ̈ܐ ܠܡܕܥ ܬܘܒ ܗܝ ܠܦ̈ܘܬܐ ܩܕܫܝ̈ܐ. ܗܕܐ ܒܝܬ ܡܕܪܣܐ ܠܦ̈ܘܬܐ ܕܟܢܫܝ̈ܐ ܠܡܕܥ ܬܘܒ ܗܝ ܠܦ̈ܘܬܐ ܩܕܫܝ̈ܐ. ܗܕܐ ܒܝܬ ܡܕܪܣܐ ܠܦ̈ܘܬܐ ܕܟܢܫܝ̈ܐ ܠܡܕܥ ܬܘܒ ܗܝ ܠܦ̈ܘܬܐ ܩܕܫܝ̈ܐ. ܗܕܐ ܒܝܬ ܡܕܪܣܐ ܠܦ̈ܘܬܐ ܕܟܢܫܝ̈ܐ ܠܡܕܥ ܬܘܒ ܗܝ ܠܦ̈ܘܬܐ ܩܕܫܝ̈ܐ. ܗܕܐ ܒܝܬ ܡܕܪܣܐ ܠܦ̈ܘܬܐ ܕܟܢܫܝ̈ܐ ܠ
 
 **lekt1601**: ⟪योगी⟫ Birla Mandir, Delhi [Image source: Deepak / Wikipedia ; Creative Commons License (Attribution, share alike)]
 
-**lekt1603**: ⟪अहिंसा⟫ "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence." [Image source: Wikipedia, Public domain]
+**lekt1603**: ⟪अहिंसा⟫ "ܕܝܩܐ ܕܡܠܟܬܐ ܥܠ ܦܘܪܣܗ ܡܕܒܪ ܐܝܩܠܬܐ ܕܗܢܣܐ ܒܝܫܘܬ ܕܥܠܡܐ. ܗܢܘܢ ܒܨܠܡܐ ܕܡܠܟܬܐ. ܗܢܘܢ ܒܨܠܡܐ ܕܡܠܟܬܐ. ܗܢܘܢ ܒܨܠܡܐ ܕܡܠܟܬܐ." [ܡܪܝܙ ܕܨܠܒܐ: ܘܝܩܦܝܐ، ܕܡܠܟܬܐ ܒܨܠܡܐ]
 
 **lekt1703**: ⟪घाताः⟫ Bangalore = ಬೆಂಗಳೂರು [Image source: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/143399263/. -- Accessed on 2008-12-07. -- Creative Commons License (Attribution, non-commercial use)]
 
@@ -4665,11 +4662,11 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1902**: ⟪वारिदः⟫, Goa (⟪गोंय⟫) [Image source: pichenettes. -- http://www.flickr.com/photos/_pichenettes_/1257016116/. -- Accessed on 2008-12-08. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
 
-**lekt1904**: ⟪छत्त्रम्⟫ "Onappottan (ഓണപ്പൊട്ടന്‍), in traditional costume is a custom in sourthern parts of Kerala. Onappottan visists houses during the onam and gives blessings. Off late onappottan has become a rare sight, confined to villages." [Image source: Captain Nidish. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- Accessed on 2008-12-08. -- Creative Commons License (Attribution)]
+**lekt1904**: ⟪छत्त्रम्⟫ "Onappottan (ഓണപ്പൊട്ടന്‍), בלבוש מסורתי הוא מנהג באזורים הדרומיים של קרלה. Onappottan מבקר בבתים במהלך האונאם ומעניק ברכות. לאחרונה Onappottan הפך לנוף נדיר, המוגבל לכפרים." [מקור התמונה: קפטן נידיש. -- http://www.flickr.com/photos/captain_nidish/280389572/. -- נגיש ב-2008-12-08. -- רישיון Creative Commons (ייחוס)]
 
 **lekt1903**: ⟪पण्डीतः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫, ⟪१९५९⟫ [Image source: Wikipedia, Public domain]
 
-**lekt2008**: ⟪आश्रमाः⟫ Rishikesh = ⟪ऋषिकेश⟫ "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Image source: by ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Accessed on 2008-12-11. -- Creative Commons License (Attribution)]
+**lekt2008**: ⟪आश्रमाः⟫ ܪܝܫܩܐܫ = ⟪ऋषिकेश⟫ "ܗܕܐ ܥܣܟܪܐ ܡܢ ܦܠܘܗ̈ܝ ܕܐܫܪܡ ܒܪܝܫܩܐܫ ܕܗܘܟܠ ܒܝܬ ܡܫܚܦܐ. ܗܕܐ ܦܠܘܗ̈ܝ ܠܐ ܗܘܐ ܟܕ ܗܝܢ ܬܠܝ̈ܐ, ܐܠܐ ܗܕܐ ܡܫܬܚܝ. " [ܡܪܟܙ ܕܨܠܩܐ: ܡܢ ܥܘܓܝܡܘܓܝ. -- http://www.flickr.com/photos/ogimogi/284517677/. -- ܐܬܝܠܩ ܒ-2008-12-11. -- ܐܘܪ̈ܚܐ ܕܟܬܒܐ (ܐܘܪ̈ܚܐ)]
 
 **lekt2103**: ⟪भगवान्कृष्णः⟫ as ⟪जगन्नाथ⟫ (right) with his half-sister ⟪सुभद्रा⟫ (center) and his older brother ⟪बलराम⟫ Orissa = ଓଡ଼ିଶା [Image source: Sujitkumar / Wikipedia. GNU FDLicense]
 
@@ -4689,7 +4686,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt2407**: ⟪ऊहापोहः⟫ "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi, 16-18 November 2008." [Image source: World Economic Forum / Photo by Dana Smillie. --http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, Share Alike)]
 
-**lekt2408**: ⟪आख्यानम्⟫ "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers. " [Image source: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, Non-commercial)]
+**lekt2408**: ⟪आख्यानम्⟫ "ܣܦܘܪ ܣܓܢ ܕܩܠܐ ܝܦ ܒܝܪܣ ܡܫܬܘܥ ܩܠܐ ܝܗܒ ܠܣܟܢ̈ܐ ܕܛܘܪܬܐ ܕܟܢܝܪܝ ܩܠܐ ܡܕܒܪ ܓܝܘܐ ܪܗܓܘܢܬ ܡܫܬܥ ܠܣܟܢ̈ܐ ܒܛܡܝܠ." [ܡܕܒܪ ܡܕܒܪ: ܐܝܪܣܢܛܐ. -- http://www.flickr.com/photos/tereneta/3062024840/. -- ܫܡܥ ܒ-14/12/2008. -- ܓܘܢܐ ܕܟܠܐ ܚܝܠ (ܡܫܬܘܥ, ܠܐ ܩܢܝܐ)]
 
 **lekt2411**: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫ Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE [Image source: Wikipedia, Public domain]
 
@@ -4745,7 +4742,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3203**: ⟪वानराः⟫ Delhi = ⟪दहली⟫ [Image source: dewalt. -- http://www.flickr.com/photos/dewalt/389870377/. -- Accessed on 2008-12-25. -- Creative Commons License (Attribution, non-commercial use, share alike)]
 
-**lekt3204**: ⟪उपलाः⟫ "The boulders here are hard enough that the scavengers who have taken over the abandoned quarry south of downtown prefer not to strike them directly with their hammers. They heat the rocks first — with flaming tires, scrap plastic, even old rubber boots — so that the stones will fracture more easily. At dusk, when three or four blazes spew choking black clouds across the huge pit, the quarry looks like a woodcut out of Dante. At the mouth of this stone quarry in Pune Maharashtra, diminutive women in saris toil 14 hour shifts breaking boulders into cricket-ball sized chunks of stone. Sledgehammers cut through to the air to the sound of splintering stone. Just behind them roared large machines that chewed up stone only to spit out construction gravel. Almost everybodies face was smeared with a white dust. A dust, heavy and suffocating, floating in the air like mist covering everything." [Image source: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- Accessed on 2008-12-25. -- Creative Commons License (Attribution, non-commercial use, share alike)]
+**lekt3204**: ⟪उपलाः⟫ "אֱלָהַ דְּכָאן קַשׁי הֲוָאוֹת כְּדַא נַחֲלָאָה דַּעֲבְדוֹת בְּרֵישׁ מַחְצָבָא דְּדוֹרָה לְגַבָּל מַחְצָבָא דִּמְקוֹר עֲלַיְיהָ לָא יַחֲבוּן בְּקַרְפְּעוֹתָא דַּהֲווֹן לְפָנֵיהוֹן. הַא מַשְׁכְּחָן לְאַרְעָא בִּשְׁבִיל דַּהֲוָא יָתָן בְּשׁוּרַק דִּדְלָק, פְּלַסְטִיק דִּשְׁאָר, אֲפֻהוּ בַּעֲלֵי רַגְלָא דִּישַׁנִין — כְּדוֹן דַּאֲבָר יִשְׁתְּבְּרוּן בְּקַל. לִשְׁעָא דַּחֲשׁוֹכָא, בְּעֵידַן דְּתַלְתָּא אוֹ אַרְבַּע מוּקְדִין יָת עֲנָנַיָא דּוּכְתָא שְׁחֹר עַל מַחְצָבָא רַבָּה, מַחְצָבָא דִּמְקוֹר הֲווֹת כְּצַיָּיר דִּגְלֵיד מִדַּנְט. בִּשְׁעָא דַּהֲוָת יָת מַחְצָבָא דִּמְקוֹר בְּפוּנֵה מַהָרַשְׁטְרָא, נְשִׁין זְעֵירַיָּת בְּסָרִיס עֲבֵידוֹן שִׁשָּׁה עַסְרָא שְׁעוֹת דַּעֲבִידָה לְשַׁבְרָא יָת אֱלָהַ לְקוּטְנֵי כְּגַרְמָא דְּכַד בְּלִיסְטוֹן. פַּארוֹת רַבּוֹת יָתוֹן לְאַרְעָא עַל קוֹל שִׁבְרוּת אֱלָהַ. מֵאַחֲרֵיהוֹן הֲווֹת יָת מַכְנְסִין רַבּוֹת דַּאֲכָלוּ יָת אֱלָהַ וְיָתוּן יָת עֲבִידוֹת בְּנַיָּא. כָּל פַּרְצוֹפָא דְכָל אֱנָשׁ הֲוָת מְעֹרַבֶּת בִּשְׁחָקָא לְבַנָּה. שְׁחָקָא דִּכְבֵיד וּמַשְׁקָא, דַּהֲוָת יָת בְּאַוירָא כְּעַרְפִילָה דַּמְכַסְיָא יָת כֻּלְּהוֹן." [מַקוֹר תְּמוּנָה: lecercle. -- http://www.flickr.com/photos/lecercle/2304674715/in/set-72157604058089822/. -- נִגַּשׁ ב-25.12.2008. -- רִשְׁיוֹן קוּמוֹנִי קְרֵייב (יוֹחָן, לְאִסְתַּמְּרָה דִּלְבַד, לְחַלֵּק כְּמוֹהוֹ)]
 
 **lekt3205**: ⟪लक्ष्यम्⟫ Karnataka = ಕರ್ನಾಟಕ [Image source: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/321235900/. -- Accessed on 2008-12-25. -- Creative Commons License (Attribution, no derivative works)]
 
@@ -4765,7 +4762,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3302**: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫ ⟪यज्ञ⟫ in the Shiva ashram, Kothavala, Ganeshpuri, 80 km from Mumbai (⟪मुंबई⟫) [Image source: Dey. -- http://www.flickr.com/photos/dey/466758922/. -- Accessed on 2008-12-26. -- Creative Commons License (Attribution, Non-commercial, share alike)]
 
-**lekt3308**: ⟪घृतम्⟫ [Image source: Wikipedia. GNU FDLicense] "Ghee is made by simmering unsalted butter in a large pot until all water has boiled off and protein has settled to the bottom. The cooked and clarified butter is then spooned off to avoid disturbing the milk solids on the bottom of the pan. Unlike butter, ghee can be stored for extended periods without refrigeration, provided it is kept in an airtight container to prevent oxidation and remains moisture-free. Texture, colour, or taste of ghee depends on the source of the milk from which the butter was made. In India, ghee is usually made with water buffalo's milk as it tends to be whiter than cow's milk." [Source: http://en.wikipedia.org/wiki/Ghee. -- Accessed on 2008-12-26]
+**ܠܟܬܝܐ 3308**: ⟪घृतम्⟫ [מקור התמונה: ויקיפדיה. רישיון GNU FD] "ג'יה מיוצר על ידי בישול חמאה לא מלוחה בסיר גדול עד שכל המים מתאדים והחלבון שקע לתחתית. לאחר הבישול והסינון, הג'יה מוסר בכף כדי להימנע מהפרעת שאריות החלב בתחתית המחבת. בניגוד לחמאה, ג'יה ניתן לאחסן לתקופות ממושכות ללא קירור, בתנאי שהוא נשמר במכל אטום למניעת חמצון ונשאר ללא לחות. מרקם, צבע או טעמו של ג'יה תלויים במקור החלב שממנו הופקה החמאה. בהודו, ג'יה מיוצר בדרך כלל מחלב של מיני שור (בפאלו) כיוון שהוא נוטה להיות לבן יותר מחלב פרות." [מקור: http://en.wikipedia.org/wiki/Ghee. -- נגיש ב-26/12/2008]
 
 **lekt3406**: ⟪सस्यम्⟫ [Image source: Ray Witlin / World Bank. -- http://www.flickr.com/photos/worldbank/2183806492/. -- Accessed on 2008-12-27. -- Creative Commons License (Attribution, Non-commercial, No derivatives)]
 
@@ -4807,7 +4804,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt3810**: ⟪अशोकः⟫ _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা [Image source: J.M.Garg / Wikipedia. GNU FDLicense]
 
-**lekt3811**: ⟪अशोकः⟫ Greatest extent of the empire of Aśoka as well as locations of his rock and pillar edicts [Image source: Wikipedia.GNU FDLicense]
+**lekt3811**: ⟪अशोकः⟩ מלכותו של אשוקה וגם מקומות פקודות הסלע והערמות שלו [מקור התמונה: ויקיפדיה. רישיון GNU FD]
 
 **lekt3812**: ⟪विनोदः⟫ Carrom game [Image source: nicolas - نِيقُولاَوُ⟪स⟫َ . -- http://www.flickr.com/photos/keep-on-moving/3007779918/. -- Accessed on 2009-01-01. -- Creative Commons License (Attribution, non-commercial use, share alike)]
 
@@ -4831,7 +4828,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4110**: ⟪शास्त्री⟫ Max Müller (1823 - 1900), ca. 1898 [Image source: Wikipedia. Public domain]
 
-**lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. [Image source: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Accessed on 2009-01-04. -- Creative Commons License (Attribution, non-commercial use, share alike)]
+**lekt4202**: ⟪माता⟫ ⟪पिता⟫ ⟪पुत्रकश्च⟫ ܕܝܘܰܢ ܐܺܝ ܟܳܪܣ، ࡡ̈ܘܰܐ ܚܳܠ ܕܶܐ ܦܪܝ̈ܰܛ ܐܽܘܕܺܝܰܢ̈ܣ ܒܶܐ ܠܳܐܠ ܩܺܝܠܰ (ܦܽܘܪ̈ܬ ܕܶܐ ܕܳܗܒ) ܒܰܝ ܕܶܐ ܕܳܗܠܺܝ. [מקור התמונה: וֵן-יאָן קינג. -- http://www.flickr.com/photos/medapt/430287982/. -- נגיש ב-2009-01-04. -- רשות יצירה משותפת (ייחוס, שימוש לא מסחרי, שיתוף זהה)]
 
 **lekt4302**: ⟪आपणः⟫ Orissa = ଓଡ଼ିଶା [Image source: Rita Willaert. -- http://www.flickr.com/photos/rietje/324020365/. -- Accessed on 2009-01-06. -- Creative Commons License (Attribution, non-commercial use)]
 
@@ -4903,13 +4900,13 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt4904**: ⟪वेषः⟫ ⟪वाराणस्याम्⟫ [Image source: pyjama. -- http://www.flickr.com/photos/rpt/319410503/. -- Accessed on 2009-01-11. -- Creative Commons License (Attribution, non-commercial use, share alike)]
 
-**lekt4909**: ⟪पञ्जरम्⟫ Fortune teller with parrot in cage: the parrot draws slips on which fate is written. Mysore. [Image source: prakhar. -- http://www.flickr.com/photos/prakhar/2735441620/. -- Accessed on 2009-01-12. -- Creative Commons License (Attribution)]
+**lekt4909**: ⟪पञ्जरम्⟩ ܡܕܒܪ ܫܘܬܦܐ ܥܡ ܩܛܢܐ ܒܓܦܢܐ: ܩܛܢܐ ܡܫܪܝ ܦܣܩ̈ܬܐ ܕܥܠܝܗוֹן ܟܬܒܐ ܕܡܠܘܬ. ܡܝܣܘܪ. [ܡܕܒܪ ܡܢ: prakhar. -- http://www.flickr.com/photos/prakhar/2735441620/. -- ܐܬܟܠܶ ܥܠ 2009-01-12. -- ܪܫܡܐ ܕܚܢܘܬܐ (ܝܬܝܪܢ)]
 
 **lekt4905**: ⟪सादरः⟫ Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Image source: Koshyk. -- http://www.flickr.com/photos/kkoshy/2154426738/. -- Accessed on 2009-01-11. -- Creative Commons License (Attribution)]
 
 **lekt4906**: ⟪गजशिशुः⟫ Sri Lanka [Image source: Carmelo Aquilina. -- http://www.flickr.com/photos/carmelos-pictures/113895562/. -- Accessed on 2009-01-11. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
 
-**lekt5001**: ⟪मन्त्री⟫ Kapil Sibal (1948 -), Union minister in the Ministry of Science and Technology and the Ministry of Earth Sciences (since 2006) [Image source: World Economic Forum. -- http://www.flickr.com/photos/worldeconomicforum/3038328904/. -- Accessed on 2009-01-12. -- Creative Commons License (Attribution, share alike)]
+**lekt5001**: ⟪मन्त्री⟫ ܩܐܦܝܠ ܣܝܒܠ (1948 -), ܡܕܢܒܪ ܝܘܚܕܐ ܒܡܠܟܘܬ ܣܓܝܐ ܕܥܠܡܐ ܘܡܠܟܘܬ ܐܪܥܐ (ܡܢ 2006) [מקור תמונה: פֹרוּם ܕܥܠܡܐ ܝܘܚܕܐ. -- http://www.flickr.com/photos/worldeconomicforum/3038328904/. -- נִגְשָׁה ב-2009-01-12. -- רישיון Creative Commons (ייחוס, שיתוף זהה)]
 
 **lekt5002**: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫ Arrival of the Monsoon, Bangalore ಬೆಂಗಳೂರು [Image source: vandan desai. -- http://www.flickr.com/photos/vandan/526579892/. -- Accessed on 2009-01-12. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
 
@@ -4921,7 +4918,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt5105**: ⟪कृष्णमृगः⟫ Chinkara -- _Antilope cervicapra_ L., male [Image source: Wikipedia, public domain]
 
-**lekt5106**: ⟪ऋतुः⟫ "Graphical representation for the calculation of fertile days according to OGINO for 26- to 30-day cycle intervals... [Source for text and image: Roche Lexicon Medicine. Online: http://www.gesundheit.de/roche/ro20000/r20172.html. Accessed on 2003-12-16]
+**ܠܟܬ5106**: ⟪ऋतुः⟫ "ܡܛܠ ܓܪܦܝܩ ܕܚܫܒܐ ܕܝܡ̈ܝܢ ܪܘܚܝܢ ܠܦܘܟ OGINO ܠܡܕܬ 26-30 ימי מחזור... [מקור לטקסט ולתמונה: מילון הרוכה לרפואה. אונליין: http://www.gesundheit.de/roche/ro20000/r20172.html. נגיש ב-2003-12-16]
 
 **lekt5107**: ⟪जटा⟫ ⟪ऋषिकेश⟫ [Image source: EyalNow. -- http://www.flickr.com/photos/eyalnow/351734123/. -- Accessed on 2009-01-13. -- Creative Commons License (Attribution, non-commercial use, share alike)]
 
@@ -4937,7 +4934,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt5113**: ⟪श्वा⟫ ⟪लिङ्गश्च⟫ Karnataka = ಕರ್ನಾಟಕ [Image source: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/150316450/. -- Accessed on 2009-01-13. -- Creative Commons License (Attribution, non-commercial use)]
 
-**lekt5114**: ⟪आपानकम्⟫ ⟪जोधपुर⟫. "These men were sitting and drinking in front of sanctuary of some hindu god (I forgot the name). As they told me they were butchers and it was god of their profession who accepted sacrifices of alcohol only." [Source of image and text: zz77. -- http://www.flickr.com/photos/zz77/2255585927/. -- Accessed on 2009-01-13. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
+**ܠܟܬܐ 5114**: ⟪आपानकम्⟫ ⟪जोधपुर⟫. "ܗܕܘ ܓܒ̈ܝ̈ܐ ܚܙܪܘ ܘܫܬܘ ܩܕܡ ܟ̈ܢܫܬܐ ܕܐܠܗܐ ܗܝܢܘܬܐ (ܫܟܚܬ ܫܡܗ). ܕܝܠܐ ܠܝ ܕܒ̈ܟܪܝ̈ܐ ܗܘܢ ܘܕܐܠܗܐ ܕܚܪܬܗܘܢ ܗܘ ܕܡܠܝ ܩ̈urb̈̈ܢܘܬܐ ܕܝܪܥܐ ܠܚܘܢܬܐ." [מקור התמונה והטקסט: zz77. -- http://www.flickr.com/photos/zz77/2255585927/. -- נגיש ב-13 בינואר 2009. -- רישיון Creative Commons (ייחוס, שימוש לא מסחרי, ללא יצירות נגזרות)]
 
 **lekt5115**: ⟪मूषिकाविषाणि⟫ Bangalore = ಬೆಂಗಳೂರು [Image source: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/387955362/. -- Accessed on 2009-01-13. -- Creative Commons License (Attribution, non-commercial use)]
 

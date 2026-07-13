@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 6
+# ܠܩܨܝܘܢ 6
 
 ::: deleteme-box
 **In questa lezione imparerete:**
@@ -29,7 +29,7 @@ status: stable
 :::
 Quando l'agente (**kartṛ** m. = ⟪कर्तृ⟫) è menzionato in una proposizione verbale che non è al passivo, allora l'agente sta nel **Nominativo** (primo caso, prathamā = ⟪प्रथमा⟫). Nel numero (vacana n. = ⟪वचन⟫) allora l'agente e la forma verbale concordano.
 
-## 6.2. Sulla formazione delle forme verbali
+## 6.2. ܥܠ ܨܘܪܬܐ ܕܡ̈ܠܝܢ ܦܥ̈ܠܝܬܐ
 
 A finite verbal form, i.e., a verbal form with personal ending, expresses in Sanskrit the following:
 
@@ -60,14 +60,14 @@ Some verbs are used either only in the Parasmaipada or only in the Ātmanepada. 
 
 Tenses are formed from tense stems: present stem, aorist stem, perfect stem, future stem.
 
-## 6.3. Indikativ Präsens (laṭ = ⟪लट्⟫)
+## 6.3. ܡܠܦܢܐ ܕܙܒܢܐ ܗܫܝܐ (ܠܛ = ⟪लट्⟫)
 
-The present tense is the tense of the present, particularly also of duration.
+[0] ܐܘܩܬܐ ܕܚܢܐ ܗܝ ܐܘܩܬܐ ܕܚܢܐ، ܒܝܬܪ ܠܦܡܕܟܢ.
 
-::: grammar-box
-**The Indicative (declarative form) Present is formed by appending the so-called primary endings to the present stem.**
-:::
-Examples:
+[2] ::: grammar-box
+[3] **ܐܘܩܬܐ ܕܚܢܐ (ܣܘܓܪܬܐ) ܕܚܢܐ ܗܝ ܒܬܪ ܡܠܬܐ ܕܚܢܐ.**
+[4] :::
+[5] ܡܠܐ:
 
 | Wurzel (dhātu) | Präsensstamm | 3. Person Singular Indikativ Präsens Parasmaipada |
 | :--- | :--- | :--- |
@@ -75,10 +75,10 @@ Examples:
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" |
 | **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" |
 
-## 6.4. Primary endings of the third person (prathama m. = ⟪प्रथम⟫ = "first (!) person")
+## 6.4. ܫܘܠܡܐ ܩܕܡܝܐ ܕܕܥܠܬܐ ܬܠܝܬܝܬܐ (ܦܪܐܬܗܡܐ ܕܟܪܐ = ⟪ܦܪܐܬܗܡܐ⟫ = "ܕܥܠܬܐ ܩܕܡܝܬܐ (!)")
 
 ::: grammar-box
-| | Singular (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
+| | Singular (Einzahl):brkavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
 | **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
@@ -90,9 +90,9 @@ Example **yaj** = ⟪यज्⟫ = "to honor with a sacrifice", "to sacrifice":
 - 3. sg. Ā. **yajate** = ⟪यजते⟫
 - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
-## 6.5. Bildung des Präsensstamms
+## 6.5. ܓܘܕܠܐ ܕܫܪܫܐ ܕܙܒܢܐ ܗܫܝܐ
 
-### 6.5.1. Verben der 6. Präsensklasse (tudādi = ⟪तुदादि⟫ = "tud usw.")
+### 6.5.1. ܦܥ̈ܠܐ ܕܕܪܓܬܐ 6 ܕܙܒܢܐ ܗܫܝܐ (ܬܘܕܐܕܝ = ⟪ܬܘܕܐܕܝ⟫ = "ܬܘܕ ܐܠܝܨ.")
 
 ::: grammar-box
 **Present stem = root in guṇa grade (as it is listed) + a-**
@@ -102,7 +102,7 @@ Example **yaj** = ⟪यज्⟫ = "to honor with a sacrifice", "to sacrifice":
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
 :::
-### 6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
+### 6.5.2. ܦܥ̈ܠܐ ܕܕܪܓܐ ܩܕܡܝܐ ܕܙܒܢܐ ܗܫܝܐ (ܒܗܘܐܕܝ / ܒܗܘܐܕܝ = ⟪ܒܗܘܐܕܝ⟫ / ⟪ܒܗܘܐܕܝ⟫ = "ܒܗܘܐ ܐܚܪ̈ܢܐ")
 
 ::: grammar-box
 | Present stem = root in strong grade (rarely guṇa) + a- ||||
@@ -115,10 +115,10 @@ Example **yaj** = ⟪यज्⟫ = "to honor with a sacrifice", "to sacrifice":
 If the vowel is in a long closed syllable, i.e., short vowel before two or more consonants, the formation of the strong grade is omitted ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
-#### 6.5.2.1. Word Sandhi of e and o
+#### 6.5.2.1. ܣܢܕܗܝ ܕܡܠܬܐ ܕܐܝ ܘܐܘ
 Before vowels, **e** is replaced by **ay**, **o** by **av** within the word.
 
-#### 6.5.2.2. Vowel Gradation (Ablaut)
+#### 6.5.2.2. ܕܰܪܓܳܐ ܕܩܳܠܳܐ (ܐܰܒܠܰܘܬ)
 
 ::: grammar-box
 | Tiefstufe:brSchwundstufe | Hochstufe:brVollstufe:brGuṇa m.:br⟪गुण⟫ | Dehnstufe:brVṛddhi f.:br⟪वृद्धि⟫ |
@@ -129,7 +129,7 @@ Before vowels, **e** is replaced by **ay**, **o** by **av** within the word.
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verben der 4. Präsensklasse (divādi = ⟪दिवादि⟫ = "div usw.")
+### 6.5.3. ܦܥ̈ܠܐ ܕܕܪܓܐ ܪܒܝܥܝܐ ܕܙܒܢܐ ܗܫܝܐ (ܕܝܘܐܕܝ = ⟪ܕܝܘܐܕܝ⟫ = "ܕܝܘ ܐܚܪ̈ܢܐ")
 
 ::: grammar-box
 **Present stem = root in guṇa grade (as it is listed) + ya-**
@@ -141,45 +141,45 @@ Before vowels, **e** is replaced by **ay**, **o** by **av** within the word.
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
-### 6.5.4. Themavokal, thematische Präsensklassen
+### 6.5.4. ܩܳܠܳܐ ܕܬܶܡܳܐ, ܕܪ̈ܓܶܐ ܕܙܰܒܢܳܐ ܗܳܫܳܝܳܐ ܕܬܶܡܳܐ
 
 ::: grammar-box
-The **a** in the stem-forming suffixes of present classes is called the **thematic vowel**. Present classes with **a** in the stem-forming suffix are therefore called "thematic present classes."
+ܕܐ ܒܣܘܼܡܟܵܐ ܕܠܫܹܢ ܦܘܼר̈ܘܿܟ ܕܥܲܡܵܐ ܪܒ̈ܝܼܫ ܗܘܵܐ ܕܐ ܬܹܡܝܼܬ ܠܫܹܢ. ܥܲܡܵܐ ܪܒ̈ܝܼܫ ܕܬܹܡܝܼܬ ܠܫܹܢ ܒܣܘܼܡܟܵܐ ܕܠܫܹܢ ܦܘܼר̈ܘܿܟ ܗܝ ܬܹܡܝܼܬ ܠܫܹܢ.
 :::
 
-## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
+## 6.6. ܣܢܣܩܪܝܛ ܡܡܠܠܐ: ܫܘܐܠ̈ܐ ܐܚܪ̈ܢܐ (ܦܪܫܢ ܕܕܟܪ̈ܐ = ⟪ܦܪܫܢ⟫)
 
 ::: grammar-box
-- **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "What does N. N. do?"
-- **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = "What do the N.N.s do?"
-- (karoti, kurvanti zu **kṛ** = ⟪कृ⟫ 8 U: "to do, to make")
-- **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = "Are you well?, How are you?"
-- Antwort: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(It is going) well in every respect."
+- **ܢ. ܐܘ. ܟܝܡ ܩܪܘܬܐ؟** = N.N. ⟪किं⟫ ⟪करोति⟫ = "ܡܐ ܥܒܕ ܢ. ܐܘ.؟"
+- **ܢ. ܐܘ. (ܪܒܝ) ܟܝܡ ܩܘܪܒܢܬܐ؟** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = "ܡܐ ܥܒܕܝܢ ܢ. ܐܘ.؟"
+- (karoti, kurvanti zu **kṛ** = ⟪कृ⟫ 8 U: "ܠܥܒܕ، لܡܨܪ")
+- **ܟܝܢ ܩܘܫܠܡ؟** = ⟪किं⟫ ⟪कुशलम्⟫ = "ܗܝ ܚܠܦ؟، ܟܡ̈ܢ ܐܢܬ؟"
+- ܐܘܟܚܕ: **ܣܪܒܬܗ ܩܘܫܠܡ** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(ܗܝ ܠܟ) ܒܟܠ ܐܘܪ̈ܚܐ."
 :::
 
-## 6.7. Wortliste
+## 6.7. ܡܠܘܐܐ
 
 ::: grammar-box
-In Sanskrit, verbs are listed in the **root form**. The number following the root indicates the **conjugation class**.
+בְּסַנְסְקִיט, פְעוּלִין מְתַרְגְמִין בְּפוּמָא דְשׁוֹרַשׁ. מִנְיָן דַּעֲבֵר לְפוּמָא מְסַיְיעַ עַל פִּקְדַן דְכָנְשׁוּת.
 
-- **P:** Root is Parasmaipada only
-- **Ā:** Root is Ātmanepada only
-- **U:** Ubhayapada ("both forms"): Root is used in both Parasmaipada and Ātmanepada.
-- **():** Parentheses contain the 3rd person singular present indicative (laṭ).
+- **פ:** שׁוֹרַשׁ דְּפוּמָא פַרָסְמִיפָּדָה בִלְבַד
+- **א:** שׁוֹרַשׁ דְּפוּמָא אָתְמָנֶפָּדָה בִלְבַד
+- **א:** אוּבְהָיִיפָּדָה ("שְׁתַּיִם פּוּמִין"): שׁוֹרַשׁ מְטָא בְּפַרָסְמִיפָּדָה וְאָתְמָנֶפָּדָה.
+- **():** סְלִיקוּת מְכַסְיָא פְעוּל דִגְנֵי תְלִיתָא בְּמוֹעֲדָה הַיְיוֹמָא (לָט).
 :::
-**Learn the following words:**
-- **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : to honor with a sacrifice, to offer
-- **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : to become, to arise, to be
-- **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : to make present, to remember
-- **nṛt** 4 P (nṛtyati) ⟪नृत्⟫ ⟪नृत्यति⟫ : to dance
-- **nī** 1 U (nayati) ⟪नी⟫ ⟪नयति⟫ : to lead
-- **man** 4 Ā (manyate) ⟪मन्⟫ ⟪मन्यते⟫ : to think
-- **muh** 4 P (muhyati) ⟪मुह्⟫ ⟪मुह्यति⟫ : to be confused
-- **yudh** 4 Ā (yudhyate) ⟪युध्⟫ ⟪युध्यते⟫ : to fight
-- **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : to enter
-- **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : to release, to let out, to emanate
+**שְׁכִיחוּן מֵילַיָא דִלְעֵיל:**
+- **יאג** 1 א (יאגַּתִי) ⟪यज्⟫ ⟪यजति⟫ : לְכַבֵּד בְּקָרְבָּנָא, לְאַתָּא
+- **בוּ** 1 פ (בְּוָתִי) ⟪भू⟫ ⟪भवति⟫ : לְהוֹתָא, לְאַתָּא, לֱהוֹן
+- **סְמַר** 1 פ (סְמָרַתִי) ⟪स्मृ⟫ ⟪स्मरति⟫ : לְאַתָּא, לִזְכּוֹר
+- **נַרְת** 4 פ (נַרְתִי) ⟪नृत्⟫ ⟪नृत्यति⟫ : לְרַקֵּד
+- **נִי** 1 א (נָאיוּתִי) ⟪नी⟫ ⟪नयति⟫ : לְנַהֲגָא
+- **מַן** 4 א (מַנְיָתִי) ⟪मन्⟫ ⟪मन्यते⟫ : לְמַחֲשָׁב
+- **מוּה** 4 פ (מוֹחְיָתִי) ⟪मुह्⟫ ⟪मुह्यति⟫ : לִהְיוֹת מְבַלְבֵּל
+- **יוּדַה** 4 א (יוֹדְחָתִי) ⟪युध्⟫ ⟪युध्यते⟫ : לִלְחֹם
+- **וִישׁ** 6 פ (וִישָׁתִי) ⟪विश्⟫ ⟪विशति⟫ : לְאַתָּא
+- **סַרְג** 6 פ (סַרְגָּתִי) ⟪सृज्⟫ ⟪सृजति⟫ : לְשַׁלּוֹחַ, לְאַתָּא
 
-## 6.8. Übung
+## 6.8. ܬܪܓܠܐ
 
 **A) Form verbal sentences with the roots given in parentheses by inserting them:**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
@@ -193,20 +193,20 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 
 **B) Put the sentences formed in Exercise A into the plural.**
 
-**C) Translate into Sanskrit:**
-1. He worships with a sacrifice. (The priest for a sacrificer)
-2. Śiva dances.
-3. Śiva dances.
-4. Rāma leads.
-5. Śūdras are confused.
-6. The Kṣatriya women enter.
-7. The LORD causes to emanate.
-8. The Kṣatriya worships with a sacrifice. (as a sacrificer)
-9. Śūdra women dance.
-10. Kṣatriyas fight.
-11. Holy men lead.
-12. They remember.
-13. Who (fem.) dances?
+**C) ܡܠܦܢܘܬܐ ܣܚܝܪܐ:**
+1. ܗܘ ܡܕܟܝ ܒܬܠܬܐ. (ܩܪܒܢܐ ܕܡܕܟܝ)
+2. ܫܝܘܐ ܡܠܟܢ.
+3. ܫܝܘܐ ܡܠܟܢ.
+4. ܪܝܡܐ ܫܘܟܠ.
+5. ܣܘܕܪ̈ܐ ܡܬܚܒܠܝ.
+6. ܟܢ̈ܫܬ̈ܐ ܕܟܣܛܪܝܐ ܡܠܦ̈ܢ.
+7. ܡܪܝܐ ܡܫܬܩܦ.
+8. ܟܣܛܪܝܐ ܡܕܟܝ ܒܬܠܬܐ. (ܟܡܢܕܟܝ)
+9. ܟܢ̈ܫܬ̈ܐ ܕܣܘܕܪܐ ܡܠܟ̈ܢ.
+10. ܟܣܛܪܝܐ ܡܠܚܡ.
+11. ܩܕܝ̈ܫܐ ܡܠܟ̈ܢ.
+12. ܗܝܡܢ.
+13. מִי (נשׁית) ܡܠܟܢ?
 
 ::: media
 ![](/images/lekt0601.webp)
@@ -215,31 +215,31 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 (Image source: Wikipedia, CC-BY-SA 2.5)
 :::
 
-## 6.9. Wiederholungsübung
+## 6.9. ܬܶܪܓܳܠܳܐ ܕܬܽܘܚܕܳܐ
 
-**A) Insertion Exercise: Form questions to which the sentences you form after the following insertion exercises are answers:**
-1. devas ... (īśvara, nṛt, sṛj, agni, indra)
-⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫
-2. (dvija, sādhu, kavi) ... brāhmaṇaḥ
-⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫
-3. (śruti) ... vedaḥ
-⟪श्रुति⟫ ... ⟪वेदः⟫
-4. (veda) ... śrutiḥ
-⟪वेद⟫ ... ⟪श्रुतिः⟫
-5. (brāhmaṇa, guru) ... yajanti
-⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫
-6. (devī) ... indrāṇī
-⟪देवी⟫ ... ⟪इन्द्राणी⟫
-7. (śūdra, śūdrā, devī) ... nṛtyanti
-⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫
-8. (kṣatriya) ... yudhyante
-⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫
-9. (brāhmaṇa, brāhmaṇī) ... viśanti
-⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
-10. (guru) ... candrakīrtiḥ
-⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
-11. (sādhu) ... rāmaḥ
-⟪साधु⟫ ... ⟪रामः⟫
+[A) تمرين الإضافة: صيغ أسئلة تكون الجمل التي تشكلها بعد تمارين الإضافة التالية إجابات لها:]
+[1. devas ... (īśvara, nṛt, sṛj, agni, indra)]
+[⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫]
+[2. (dvija, sādhu, kavi) ... brāhmaṇaḥ]
+[⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫]
+[3. (śruti) ... vedaḥ]
+[⟪श्रुति⟫ ... ⟪वेदः⟫]
+[4. (veda) ... śrutiḥ]
+[⟪वेद⟫ ... ⟪श्रुतिः⟫]
+[5. (brāhmaṇa, guru) ... yajanti]
+[⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫]
+[6. (devī) ... indrāṇī]
+[⟪देवी⟫ ... ⟪इन्द्राणी⟫]
+[7. (śūdra, śūdrā, devī) ... nṛtyanti]
+[⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫]
+[8. (kṣatriya) ... yudhyante]
+[⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫]
+[9. (brāhmaṇa, brāhmaṇī) ... viśanti]
+[⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫]
+[10. (guru) ... candrakīrtiḥ]
+[⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫]
+[11. (sādhu) ... rāmaḥ]
+[⟪साधु⟫ ... ⟪रामः⟫]
 
 **B) Insert into the Plural:**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫
@@ -281,29 +281,29 @@ In Sanskrit, verbs are listed in the **root form**. The number following the roo
 10. sādhurguruḥ. = ⟪साधुर्गुरुः⟫
 11. gururyajate. = ⟪गुरुर्यजते⟫
 
-**F) Translate into Sanskrit:**
-1. Rāma sacrifices (as the sacrificer).
-2. Durgā is a goddess.
-3. Mīnākṣī is a goddess.
+**F) ܛܪ̈ܘܡ ܠܣܫܪܬ ܣܐܣܩܪܝܕ:**
+1. ܪܐܡܐ ܙܒܚ (ܟܕܝܘܬ ܓܠܦܐ).
+2. ܕܘܪܓܐ ܗܝ ܐܠܗܬ.
+3. ܡܝܢܐܟܣܝ ܗܝ ܐܠܗܬ.
 
 ::: media
 ![](/images/lekt0602.webp)
-**Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī Temple, Madurai, Tamil Nadu
-(Image source: Wikipedia, Public domain)
+**ܡܝܢܐܟܣܝ** (⟪मीनाक्षी⟫), ܟ̈ܢܣܬܐ ܕܡܝܢܐܟܣܝ, ܡܕܘܪܐ, ܛܐܡܝܠ
+(מקור התמונה: ויקיפדיה, רשות הציבור)
 :::
-4. They are confused.
-5. Rāma is a holy man.
-6. Who is the LORD?
-7. Indra is the LORD.
-8. The livestock enter.
-9. Viṣṇu causes to emanate = Viṣṇu creates.
-10. Twice-born are good.
-11. The triple (knowledge) is the Sāmaveda, the Ṛgveda and the Yajurveda. (2 possibilities)
-12. This goddess is good.
-13. The five "torments" are: ignorance, egoism, passion (love), hatred, attachment to the body. (2 possibilities)
-14. "Abidings of Brahma" are: friendly goodwill, compassion, sympathetic joy, equanimity. (2 possibilities)
-15. These Brahmins sacrifice on behalf of others.
-16. Brahmins, Kṣatriyas and Vaśyas are twice-born. (2 possibilities)
-17. The sciences (for a prince) are: philosophy, the triple (Vedic knowledge), economics and politics. (2 possibilities)
-18. Are you well?
-19. (I am) good in every respect.
+4. ܗܝܢ ܡܬܚܒܪ̈ܐ.
+5. ܪܐܡܐ ܗܘ ܓܒܪܐ ܩܕܝܫ.
+6. מִי הוּא אֲדוֹן?
+7. ܐܝܢܕܪܐ ܗܘ ܐܕܘܢ.
+8. ܚܝ̈ܠܬܐ ܥܒܕ̈ܢ.
+9. ܘܝܫܢܘ ܡܨܠܐ ܕܬܦܩܕ = ܘܝܫܢܘ ܒܪܐ.
+10. ܕ̈ܝܩ̈ܐ ܒܘܪ̈ܝ.
+11. ܫܠܬܐ (ܝܕܥܬ) ܗܢ̈ܫ: ܣܡܐܘܕܐ, ܪ̈ܓܛܐ וְיַגוּר. (2 אפשרויות)
+12. ܗܕܐ ܐܠܗܬ ܒܘܪ̈ܝ.
+13. חָמֵשׁ "סְבָלוֹת" הֵנָּה: אֲוִילוּת, יוֹצֵר, תַּאֲווָה (אַהֲבָה), שִׂנְאָה, דְּבֵקוּת לַגּוּף. (2 אפשרויות)
+14. "מְעֻגּוֹת שָׁדַי" הֵנָּה: חֶסֶד, רַחֲמִים, שְׂמָחָה עַל הַשּׁוֹכְנִים, שָׁלוֹם. (2 אפשרויות)
+15. ܗܕ̈ܝܢ ܒܪ̈ܟܢܐ ܙܚܝܢ ܠܗܘܢ.
+16. ܒܪ̈ܟܢܐ, ܟܫܛܪܝܐ וְוַש̈ܝܐ ܗܢ̈ܫ דּוֹר שֵׁנִי. (2 אפשרויות)
+17. חָכְמוֹת (לַנָּשִׂיא) הֵנָּה: פִּילוסוֹפְיָא, שַׁלְשֶׁלֶת (דַּעַת תּוֹרָה), מִשְׁפָּט וּמִדְת. (2 אפשרויות)
+18. הֲאַתָּה בְרִיא?
+19. (אָנֹכִי) טוֹב בְּכָל מַחֲשָׁבוֹת.

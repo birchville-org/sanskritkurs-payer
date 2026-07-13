@@ -6,40 +6,40 @@ export const id = {
   description: 'Buku teks tata bahasa oleh Alois Payer',
   themeConfig: {
     outline: { level: [2, 3], label: 'Di halaman ini' },
-    returnToTopLabel: 'Return to top',
+    returnToTopLabel: 'Kembali ke atas',
     sidebarMenuLabel: 'Menu',
-    darkModeSwitchLabel: 'Appearance',
-    lightModeSwitchTitle: 'Switch to light theme',
-    darkModeSwitchTitle: 'Switch to dark theme',
-    langMenuLabel: 'Change language',
+    darkModeSwitchLabel: 'Tampilan',
+    lightModeSwitchTitle: 'Beralih ke tema terang',
+    darkModeSwitchTitle: 'Beralih ke tema gelap',
+    langMenuLabel: 'Ubah bahasa',
     nav: [
-      { text: 'Home', link: '/en/' },
-      { text: 'TOC', link: '/en/lektionen/inhaltsverzeichnis' },
+      { text: 'Beranda', link: '/en/' },
+      { text: 'Daftar Isi', link: '/en/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'Credits', link: '/en/impressum' },
-      { text: '<span class="nav-gear-icon"></span>', link: '/en/settings', ariaLabel: 'Open Settings' }
+      { text: 'Kredit', link: '/en/impressum' },
+      { text: '<span class="nav-gear-icon"></span>', link: '/en/settings', ariaLabel: 'Buka Pengaturan' }
     ],
     docFooter: {
-      prev: 'Previous Lesson',
-      next: 'Next Lesson'
+      prev: 'Pelajaran Sebelumnya',
+      next: 'Pelajaran Selanjutnya'
     },
     sidebar: [
-      { text: 'Table of Contents', link: '/en/lektionen/inhaltsverzeichnis' },
-      { text: 'Grammar Topics', link: '/en/grammatik' },
-            { text: 'Grammar Index', link: '/en/themen' },
-      { text: 'Vocabulary', link: '/en/lektionen/wortliste' },
-      { text: 'Glossary', link: '/en/lektionen/glossar' },
-      { text: 'Lessons', collapsed: false, items: [] },
-      { text: 'Script (Introduction)', collapsed: true, items: [] },
-      { text: 'Exercises', collapsed: true, items: [] },
-      { text: 'Legal', collapsed: true, items: [
-          { text: 'Legal Notice & Citation', link: '/en/impressum' },
-          { text: 'Image Licenses', link: '/en/licenses' },
+      { text: 'Daftar Isi', link: '/en/lektionen/inhaltsverzeichnis' },
+      { text: 'Topik Tata Bahasa', link: '/en/grammatik' },
+            { text: 'Indeks Tata Bahasa', link: '/en/themen' },
+      { text: 'Kosakata', link: '/en/lektionen/wortliste' },
+      { text: 'Glosarium', link: '/en/lektionen/glossar' },
+      { text: 'Pelajaran', collapsed: false, items: [] },
+      { text: 'Naskah (Pendahuluan)', collapsed: true, items: [] },
+      { text: 'Latihan', collapsed: true, items: [] },
+      { text: 'Hukum', collapsed: true, items: [
+          { text: 'Pemberitahuan Hukum & Kutipan', link: '/en/impressum' },
+          { text: 'Lisensi Gambar', link: '/en/licenses' },
       ]}
     ],
     footer: {
-      message: "Part of Tüpfli's Global Village Library",
-      copyright: 'Copyright © 2008-2010 Alois Payer'
+      message: "Bagian dari Perpustakaan Desa Global Tüpfli",
+      copyright: 'Hak Cipta © 2008-2010 Alois Payer'
     }
   }
 }

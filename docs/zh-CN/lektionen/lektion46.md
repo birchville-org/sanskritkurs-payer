@@ -7,11 +7,11 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 46
+# 第46课
 
 ## 46.1. 第二人称动词形式（⟪मध्यमः⟫）完成时（⟪लिट्⟫）
 
-### 46.1.1. Endungen
+### 46.1.1. 词尾
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -87,9 +87,9 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
-### 46.1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 46.1.5. 第三类完成时：强词干 强化/长音
 
-#### 46.1.5.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 46.1.5.1. 第三类完成时a：强词干 强化/长音，弱词干 弱化
 
 动词，遵循此类型的：
 
@@ -338,7 +338,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 ## 46.2. 词汇表
 
-⟪सम⟫ 3: gleich, eben, ähnlich
+⟪सम⟫ 3：相同的，平等的，相似的
 
 ::: indent
 davon:
@@ -559,7 +559,7 @@ davon:
 ⟪भू⟫ + ⟪परि⟫ 第一人称单数 ⟨परिभवति⟩：包围，掌控，战胜
 
 ::: indent
-PPP ⟪परिभूत⟫ 3: besiegt, gedemütigt, erniedrigt
+PPP ⟪परिभूत⟫ 3：击败、羞辱、贬低
 
 :::
 ⟪नि⟫ 前缀：向下、往下、进入、向后

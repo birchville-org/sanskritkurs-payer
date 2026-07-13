@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 30
 
-## 30.1. Die 9. Präsensklasse (⟪क्र्यादि⟫ = "⟪क्री⟫ u.s.w.")
+## 30.1. Classis nona praesentis (⟪kryādi⟫ = "⟪krī⟫ etc.")
 
 ::: grammar-box
 **Educatio:**
@@ -260,7 +260,7 @@ Exempla:
 
 ⟪पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना⟫ ⟪रोदिति⟫
 :::
-## 30.6. Wortliste
+## 30.6. Vocabularium
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : emere
 
@@ -380,7 +380,7 @@ ex eo:
 :::
 ⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : aeternus, incorruptus, constans
 
-## 30.7. Übung
+## 30.7. Exercitium
 
 A) Vertite has verbi formas in optativos, qui personam, numerum et genus verbi sequantur:
 

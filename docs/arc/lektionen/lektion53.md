@@ -3,29 +3,29 @@ title: Lektion 53
 lesson_id: 53
 ---
 
-# Lektion 53
+# ܕܪܫܐ 53
 
 ## 53.1. Der Dual (⟪द्विवचन⟫ n.) der Nomina
 
 ::: grammar-box
-**The Dual (⟪द्विवचनम्⟫) is used to denote "two":**
+**ܕܘܝ̈ܐ (⟪द्विवचनम्⟫) ܠܡܕܢܐ "ܬܪ̈ܝܢ":**
 
 :::
 ::: indent
-**⟪अश्विनौ⟫** "the two Aśvin"
+**⟪अश्विनौ⟫ "ܬܪ̈ܝܢ ܐܣܒܝܢ"**
 :::
-**The use of the dual is mandatory where it concerns two things, etc.:**
+**ܐܝܕܝ ܕܘܝ̈ܐ ܗܝ ܡܛܠܬܐ ܒܕܝܟܪܐ ܕܡܢ ܬܪ̈ܝܢ ܐܠܗ, ܘܟܠ:**
 
 ::: indent
-**⟪हस्तौ⟫** "the hands (of an individual)"
-**⟪पादौ⟫** "the feet (of a human, monkey, or other biped)"
+**⟪हस्तौ⟫ "ܐܝ̈ܠܝ ܦܓܪܐ (ܕܢܦܫܐ)"**
+**⟪पादौ⟫ "ܦܘ̈ܠܝ ܨܠܒܐ (ܕܢܩܘܪܐ, ܟܦܪܐ, ܘܠܝ̈ܬܐ)"**
 :::
-**Sometimes the dual denotes a male plus a female specimen of the same class (species, genus):**
+**ܒܐܘܩܬܐ ܕܡܢ ܫܪ̈ܝܐ ܗܘ ܕܡܢ ܫܪ̈ܝܐ ܗܘ ܕܡܢ ܫܪ̈ܝܐ (ܦܠܗ, ܡܕܢܐ):**
 
 ::: indent
-**⟪पितरौ⟫** "Father and Mother = Parents"
+**⟪पितरौ⟫ "ܐܒܐ ܘܠܝ̈ܬܐ = ܡܕܢܐ"**
 :::
-**Words that mean "a pair" - e.g. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - are always used in the singular, unless referring to two or more pairs:**
+**ܡܠ̈ܬܐ ܕܝܣܦܘܪ ܫܠܡܐ - ܕܝ̈ܠܬ: ⟪युग⟩ ܢ., ⟪द्वन्द्व⟩ ܢ., ⟪द्वय⟩ ܢ. - ܐܝ̈ܠܝ ܒܫܘܥܠܐ, ܡܢ ܬܪ̈ܝܢ
 
 ::: indent
 **⟪बाहुद्वयम्⟫** "a pair of arms"
@@ -41,7 +41,7 @@ Fig.: ⟪मार्जारयुगम्⟫
 Fig.: ⟪हस्तौ⟫
 (Image source: [Details](/arc/licenses#lekt5302))
 :::
-## 53.2. Dual endings of the noun
+## 53.2. ܫܘܠܡ̈ܐ ܬܪ̈ܝܢܝܐ ܕܫܡܐ
 
 ::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
@@ -286,63 +286,63 @@ Fig.: ⟪धेनू⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ |
 :::
-## 53.5. Dualdvandva
+## 53.5. ܕܘܐܠܕܒܢܕܒܐ
 
 उदाहरणानि:
 
 ::: indent
-**⟪अर्थधर्मौ⟫** "Benefit (⟪अर्थ⟫) and Dharma"
-**⟪युधिष्ठिरार्जुनौ⟫** "Yudhiṣṭhira and Arjuna"
-**⟪सुखदुःखे⟫** (beside: ⟪सुखदुःखम्⟫) "Happiness and Sorrow"
-**⟪शीतोष्णे⟫** "Cold and Warmth"
+**⟪अर्थधर्मौ⟫** "ܦܘܠܚܢܐ (⟪अर्थ⟫) ܘܕܝܢܐ"
+**⟪युधिष्ठिरार्जुनौ⟫** "ܝܘܕܝܣܛܝܪܐ ܘܐܪܙܘܢ"
+**⟪सुखदुःखे⟫** (ܥܡ: ⟪सुखदुःखम्⟫) "ܬܝܘܠܐ ܘܟܢܘܚܐ"
+**⟪शीतोष्णे⟫** "ܩܠܐ ܘܚܡܝܡܘܬܐ"
 :::
 ::: grammar-box
-**When two kinship words ending in -ṛ (or two nouns ending in -ṛ that are designations for sacrifice priests) are compounded into a Dvandva, the first member stands in the form of the Nominative Singular:**
+**ܐܝܟܢܐ ܕܡܠܬ̈ܐ ܕܟܝܢܘܬܐ ܗܠܟ̈ܝܢ ܒ-ṛ (ܐܘ ܡܠܬ̈ܐ ܗܠܟ̈ܝܢ ܒ-ṛ ܕܗܘܐ ܠܩܫܝ̈ܐ) ܬܩܪܒܢ ܠܕܘܟܝܐ ܕܕܘܕܒܠܐ، ܗܝ ܡܠܬܐ ܪܒܬܐ ܢܩܘܡ ܒܣܘܓܕܐ ܕܢܝܚܐ:**
 
 :::
 ::: indent
-⟪मा⟫***⟪ता⟫***⟪पितरौ⟫ "Mother and Father"
+⟪मा⟫***⟪ता⟫***⟪पितरौ⟫ "ܐܡܗ ܘܐܒܗ"
 :::
-**The same occurs with such a kinship term in a Dvandva before -⟪पुत्र⟫ :**
+**ܐܝܟ ܗܠܟ ܒܡܠܬܐ ܕܟܝܢܘܬܐ ܒܕܘܕܒܠܐ ܩܪܒ ܠ-⟪पुत्र⟫:**
 
 ::: indent
-**⟪पितापुत्रौ⟫** "Father and Son"
+**⟪पितापुत्रौ⟫** "ܐܒ ܘܒܪ"
 :::
-**If the names of two deities, which are usually mentioned in sacrifices, form a dvandva, the final vowel of the first member is usually lengthened:**
+**ܐܝܟ ܕܡܠܬ̈ܐ ܕܐܠܗܘܬܐ، ܕܒܫܪ̈ܝܢ ܬܩܪܒܢ، ܐܠܗ̈ܘܬܐ ܕܡܢܩܪܒܢ، ܗܝ ܐܘܟܠܬܐ ܪܒܬܐ ܕܡܠܬܐ ܪܒܬܐ ܢܩܘܡ:**
 
 ::: indent
-⟪मि⟫***⟪त्रा⟫***⟪वरुणौ⟩ "Mitra and Varuṇa"
-**⟪अग्नीसोमौ⟫** "Agni and Soma"
+⟪मि⟫***⟪त्रा⟫***⟪वरुणौ⟩ "ܡܝܬܪ ܘܒܪܘܢ"
+**⟪अग्नीसोमौ⟫** "ܐܓܢܝ ܘܣܡܗ"
 :::
-**This vowel lengthening also occurs with other Dvandva.**
+**ܐܝܟ ܗܠܟ ܒܡܠܬ̈ܐ ܕܕܘܕܒܠܐ.**
 ::: media
 ![](/images/lekt5308.webp)
-Fig.: ⟪पितापुत्रौ⟫
-(Image source: [Details](/arc/licenses#lekt5308))
+ܦܘܬܩ: ⟪पितापुत्रौ⟫
+(ܡܕܒܪ ܕܬܣܘܝܐ: [ܦܠܘܚ̈ܢ](/arc/licenses#lekt5308))
 :::
-## 53.6. The Dual of Pronouns
+## 53.6. ܬܪܝܳܢܳܐ ܕܫܡܳܗܶܐ ܕܚܠܳܦܳܐ
 
 ::: grammar-box
-|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫ 
+|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫ 
 | :--- | :---: | :---: | :---: | :---: | :---: 
-| **Masculine** |   |   |   |   |  
+| **ܡܕܟܪ** |   |   |   |   |   
 | ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ 
 | ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫ 
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫ 
-|   |   |   |   |   |  
-| **Neuter** |   |   |   |   |  
+|   |   |   |   |   |   
+| **ܢܫ** |   |   |   |   |   
 | ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ 
 | ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ 
-|   | Rest as Masculine ||||||||
-| **Feminine** |   |   |   |   |  
+|   | ܐܦ ܠܡܕܟܪ ||||||||
+| **ܢܫܝ** |   |   |   |   |   
 | ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ 
 | ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ 
-|   | Rest as Masculine ||||||||
+|   | ܐܦ ܠܡܕܟܪ ||||||||
 :::
-⟪कतर⟫ 3 "who of two" and ⟪कतम⟫ 3 "who of several" are declined in all cases like ⟪यद्⟫.
+⟪कतर⟫ 3 "ܕܝܢ ܡܢ ܬܪܝܐ" and ⟪कतम⟫ 3 "ܕܝܢ ܡܢ ܪַבֵּי" are declined in all cases like ⟪यद्⟫.
 
-## 53.7. Pronominaladjektive
+## 53.7. ܨܦ̈ܬܐ ܚܠܦ ܫܡܐ
 
 The following pronominal adjectives are declined in all cases like ⟪यद्⟫:
 
@@ -350,11 +350,11 @@ The following pronominal adjectives are declined in all cases like ⟪यद्�
 *   ⟪अन्यतर⟫ 3 "one of two"
 *   ⟪इतर⟫ 3 "the other"
 
-*   ⟪सर्व⟫ 3 "each, all" is declined in all cases except the Nom.Akk.sg.n (⟪सर्वम्⟫) like ⟪यद्⟫.
-*   ⟪उभय⟫ 3 "both" has no dual. In the singular and plural masculine and neuter, it is declined like ⟪सर्व⟫. Feminine: ⟪उभयी⟫ (like ⟪देवी⟫).
-*   ⟪उभ⟫ 3 "both" is used only in the dual and is declined like ⟪देव⟫ m., ⟪फल⟫ n. or ⟪देवता⟫ f.
+*   ⟪ܐ̈ܘܿܠ ܕ݂सर्व⟫ 3 "each, all" is declined in all cases except the Nom.Akk.sg.n (⟪ܕ݂सर्वम्⟫) like ⟪ܐ̈ܘܿܠ ܕ݂यद्⟫.
+*   ⟪ܬ݁ܲܐ ܕ݂उभय⟫ 3 "both" has no dual. In the singular and plural masculine and neuter, it is declined like ⟪ܐ̈ܘܿܠ ܕ݂सर्व⟫. Feminine: ⟪ܬ݁ܲܐ ܕ݂उभयी⟫ (like ⟪ܬ݁ܲܐ ܕ݂देवी⟫).
+*   ⟪ܬ݁ܲܐ ܕ݂उभ⟫ 3 "both" is used only in the dual and is declined like ⟪ܐ̈ܘܿܠ ܕ݂देव⟫ m., ⟪ܐ̈ܘܿܠ ܕ݂फल⟫ n. or ⟪ܬ݁ܲܐ ܕ݂देवता⟫ f.
 
-The following pronominal adjectives are declined like ⟪सर्व⟫. In the Abl./Loc.sg.m.n and in the Nom.pl., they may be declined according to the -a- or -ā-declension:
+The following pronominal adjectives are declined like ⟪ܐ̈ܘܿܠ ܕ݂सर्व⟫. In the Abl./Loc.sg.m.n and in the Nom.pl., they may be declined according to the -a- or -ā-declension:
 
 *   ⟪अपर⟫ 3 "another"
 *   ⟪उत्तर⟫ 3 "upper, northern, subsequent"
@@ -362,10 +362,10 @@ The following pronominal adjectives are declined like ⟪सर्व⟫. In the
 *   ⟪पूर्व⟫ 3 "preceding, eastern"
 *   ⟪स्व⟫ 3 "own (my, your, his ...)"
 
-## 53.8. Unregelmäßige Steigerung
+## 53.8. ܡܥܠܝܳܢܽܘܬܳܐ ܠܳܐ ܩܰܢܽܘܢܳܝܬܳܐ
 
 ::: grammar-box
-**A number of adjectives form the comparative or superlative with the following ⟪कृत्⟫ suffixes (!):**
+**מספר תאריים יוצרים את השוואה או יתרה עם הסיומות הבאות ⟪कृत्⟫ (!):**
 
 *   Komparativ: **-īyas**
 *   Superlativ: **-iṣṭha**
@@ -379,10 +379,10 @@ The following pronominal adjectives are declined like ⟪सर्व⟫. In the
 उदाहरणानि:
 
 ::: grammar-box
-| धातुः | विशेषणम् | तरप्रत्ययः | उत्तमः |
+| ⟬धातुः⟭ | विशेषणम् | तरप्रत्ययः | उत्तमः |
 | --- | --- | --- 
-| ⟪क्षिप्⟫ 6P "to throw" | ⟪क्षिप्र⟫ 3 "fast" | sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
-| ⟪स्था⟫ 1P "to stand" | ⟪स्थिर⟫ 3 "constant, firm" | sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
+| ⟬क्षिप्⟭ 6P "to throw" | ⟬क्षिप्र⟭ 3 "fast" | sig[⟬क्षेपीयस्⟭] 3 "faster" :br ⟬क्षिप्रतर⟭ 3 | sig[⟬क्षेपिष्ठ⟭] 3 "fastest" :br ⟬क्षिप्रतम⟭ 3 |
+| ⟬स्था⟭ 1P "to stand" | ⟬स्थिर⟭ 3 "constant, firm" | sig[⟬स्थेयस्⟭] 3 "firmer" :br ⟬स्थिरतर⟭ 3 | sig[⟬स्थेष्ठ⟭] 3 "firmest" :br ⟬स्थिरतम⟭ 3 |
 :::
 **Special rules for the attachment of these suffixes:**
 
@@ -392,34 +392,34 @@ The following pronominal adjectives are declined like ⟪सर्व⟫. In the
 उदाहरणानि:
 
 ::: grammar-box
-| Adjective | Comparative | Superlative |
+| תּוֹכְנָא | מַשְׁפָּט | סוֹף |
 | --- | --- 
-| ⟪पाप⟫ 3 "evil" | ⟪पा⟫*⟪पी⟫*⟪यस्⟫ | ⟪पा⟫*⟪पि⟫*⟪ष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "great" | ⟪म⟫*⟪ही⟫*⟪यस्⟫ | ⟪म⟫*⟪हि⟫*⟪ष्ठ⟫ |
+| ⟪पाप⟫ 3 "רַע" | ⟪पा⟫*⟪पी⟫*⟪यस्⟫ | ⟪पा⟫*⟪पि⟫*⟪ष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "גָּדוֹל" | ⟪म⟫*⟪ही⟫*⟪यस्⟫ | ⟪म⟫*⟪हि⟫*⟪ष्ठ⟫ |
 :::
 ::: grammar-box
-**Rule 2:** **Possessive suffixes (-mant, vant, -vin, -in, etc.) are dropped. If the remaining part consists of only one syllable, it is not further changed; only sound changes caused by the connection with the possessive suffix are reversed. However, if the remainder consists of more than one syllable, Rule 1 comes into effect.**
+**חֻקָּה 2:** **סוּפוֹת הַשֵּׁךְ (-mant, vant, -vin, -in וכו') נִפְסָקוּ. אִם הַשְׁאָר מֻכְלָל בְּהוֹדָעָה אַחַת, לֹא יִשְׁתַּנֶּה עוֹד; רַק שִׁנוּיֵי הַצְלָחָה הַנִּגְרָמִים מֵהֶתְקַבְּלוּת עִם סוּף הַשֵּׁךְ יֻהַפְכוּ. אַךְ, אִם הַשָּׁאָר מוּכְלָל בְּיֶתֶר מֵהוֹדָעָה אַחַת, חֻקָּה 1 תְּבֹא לְיַד.**
 :::
 उदाहरणानि:
 
 ::: grammar-box
-| Adjective | Comparative | Superlative |
+| תּוֹכְנָא | מַשְׁפָּט | סוֹף |
 | --- | --- 
-| ⟪धनवन्त्⟫ 3 "rich" | ⟪ध⟫*⟪नी⟫*⟪यस्⟫ | ⟪ध⟫*⟪नि⟫*⟪ष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(especially) strong" | ⟪ब⟫*⟪ली⟫*⟪यस्⟫ | ⟪ब⟫*⟪लि⟫*⟪ष्ठ⟫ |
-| ⟪वसुमन्त्⟫ "possessing goods" | ⟪व⟫*⟪सी⟫*⟪यस्⟫ | ⟪व⟫*⟪सि⟫*⟪ष्ठ⟫ |
+| ⟪धनवन्त्⟫ 3 "עָשִׁיר" | ⟪ध⟫*⟪नी⟫*⟪यस्⟫ | ⟪ध⟫*⟪नि⟫*⟪ष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(בִּמְיוּדָע) חָזָק" | ⟪ब⟫*⟪ली⟫*⟪यस्⟫ | ⟪ब⟫*⟪लि⟫*⟪ष्ठ⟫ |
+| ⟪वसुमन्त्⟫ "מְחַזֵּק רְכוּשׁ" | ⟪व⟫*⟪सी⟫*⟪यस्⟫ | ⟪व⟫*⟪सि⟫*⟪ष्ठ⟫ |
 :::
 ::: grammar-box
-**Rule 3:** **For -ṛ-, preceded by an initial vowel and followed by only a single consonant, -ra- is substituted.**
+**חֻקָּה 3:** **לְפִי -ṛ-, הַנִּגְרָם מֵאֶת אֱלֹהִים וְנִגְרָם מֵאֶת אַחַד, -ra- יְהוּבָר.**
 :::
 उदाहरणम्:
 
 ::: grammar-box
-| Adjective | Comparative | Superlative |
+| תּוֹכְנָא | מַשְׁפָּט | סוֹף |
 | --- | --- 
-| ⟪पृथु⟫ 3 "broad" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
+| ⟪पृथु⟫ 3 "רָחַב" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
 :::
-**List of the most common degrees of comparison of this type for adjectives learned so far:**
+**רשימת מידות ההשוואה הנפוצות ביותר מסוג זה לתוכנות שנלמדו עד כה:**
 
 ::: grammar-box
 | Adjective | Comparative | Superlative |
@@ -447,19 +447,19 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 **एतस्य प्रकारस्य केचन विभक्तिरूपाणि धातुसम्बद्धं मूलरूपं न धारयन्ति; तानि "न्यूनानि"। अतः निम्नलिखिताः पङ्क्तयः विशेषतः स्मर्तव्याः:**
 
 ::: grammar-box
-| (Adjective) | Comparative | Superlative |
+| (ܣܦܪܐ) | ܡܕܥܝ̈ܢܬܐ | ܣܘܓܪܬܐ |
 | --- | --- 
-| (⟪अल्प⟫ 3 "small, little") | ⟪कनीयस्⟫ :br cf. ⟪कन्या⟫ f. "girl = the little one" | ⟪कनिष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "praiseworthy, good") | ⟪श्रेयस्⟫ :br to ⟪श्री⟫ f. "splendor" | ⟪श्रेष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "praiseworthy, good") | ⟪ज्यायस्⟫ :br also: "older" :br to ⟪ज्या⟫ f. "superiority" | ⟪ज्येष्ठ⟫ :br also: "oldest" |
-| (⟪बहु⟫ 3 "much") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "old") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "old") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
+| (⟪अल्प⟫ 3 "ܣܘܓܪ, ܩܠܐ") | ⟪कनीयस्⟫ :br ܡܕܥܝ̈ܢܬܐ ⟪कन्या⟫ ܦ. "ܙܒܘܢܐ = ܗܝ ܣܘܓܪܬܐ" | ⟪कनिष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "ܡܕܥܝ̈ܢܬܐ, ܦܘܣܩܐ") | ⟪श्रेयस्⟫ :br ܠܘ̈ܬ ⟪श्री⟫ ܦ. "ܙܠܬܐ" | ⟪श्रेष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "ܡܕܥܝ̈ܢܬܐ, ܦܘܣܩܐ") | ⟪ज्यायस्⟫ :br ܠܘ̈ܐ: "ܪܒܬ" :br ܠܘ̈ܬ ⟪ज्या⟫ ܦ. "ܡܕܥܝ̈ܢܬܐ" | ⟪ज्येष्ठ⟫ :br ܠܘ̈α: "ܪܒܬܐ" |
+| (⟪बहु⟫ 3 "ܣܘܓܪ") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "ܩܕܡܝ̈ܢ") | ⟪वर्षीयस्⟫ :br ܠܘ̈α ⟪वर्ष⟫ ܢ.ܡ. "ܙܒܘܢܐ, ܫܢܬ" | ⟪वर्षिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "ܩܕܡܝ̈ܢ") | ⟪ज्यायस्⟫ :br ܠܘ̈α: "ܦܘܣܩ" :br ܠܘ̈α ⟪ज्या⟫ ܦ. "ܡܕܥܝ̈ܢܬܐ" | ⟪ज्येष्ठ⟫ :br ܠܘ̈α: "ܦܘܣܩ" |
 :::
-## 53.9. Declension of comparatives in -īyas
+## 53.9. ܨܪܘܦܐ ܕܡܫܘܚܬܢܝ̈ܐ ܒـ -īyas
 
 ::: grammar-box
-**Comparatives in -īyas form the feminine in -īyasī (declension like ⟪देवी⟫). The masculine and neuter are declined according to the following paradigm.**
+**ܡܕܥܝ̈ܢܬܐ ܒـ -īyas ܫܪܝ̈ܪܬ ܗܝ ܦ. -īyasī (ܫܘܣܦܐ ܕ⟪देवी⟫). ܢ. וּנ̈ܐ ܘܢ̈ܝ̈ܬܐ ܫܪܝ̈ܪܬ ܠܘ̈α ܗܕܐ.**
 :::
 ::: grammar-box
 
@@ -475,7 +475,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
 | ⟪आमन्त्रितम्⟫ | *⟪गरीयान्⟫* | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
 :::
-## 53.10. Metrik (Lehre von den Versmaßen)
+## 53.10. ܡܹܛܪܝܼܩ (ܝܽܘܠܦܵܢܵܐ ܕܡܲܬܟܹܠܬ̈ܳܐ ܕܦܣܘܼܩܬ̈ܳܐ)
 
 ::: media
 ![](/images/lekt5303.jpg)
@@ -484,35 +484,35 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 See also:
 
-> **Payer, Alois \<1944 - \>:** Introduction to the Exegesis of Sanskrit Texts : Script. -- Chap. 8: The Actual Exegesis, Part II: On Specific Questions of Synchronous Understanding. -- Appendix B: On the Metrics of Sanskrit Texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **پایەر، ئالۆس \&lt;1944 - \&gt;:** ܡܫܪܟܬܐ ܕܦܫܩܬܐ ܕܟܬ̈ܒ̈ܐ ܣܢܣܩܪܝܬܐ : ܟܬ̈ܒܐ. -- פּאָר: 8: די אַקטועלע פּשׂקתּא, טייל II: אויף ספּעציפֿישע פֿראַגעס פון סינכראָן פֿאַרשטײם. -- אַפּענדיקס B: אויף די מעטריקס פון סאַנסקריט טעקסטן. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
-### 53.10.1. Importance of determining the meter
+### 53.10.1. ܐܚܝܕܘܬܐ ܕܡܕܡ ܕܡܬܚܙܐ ܒܡܫܘܚܬܐ
 
-The determination of the meter is important for the following reasons:
+ܕܐܝܪܘܬܐ ܕܡܢܘܗܪܐ ܚܫܝܒܬܐ ܠܦܘܪܟܢ ܕܝܠܝܬ:
 
 1.  **सौन्दर्यशास्त्रीयम्:** छन्दोरूपं वक्तव्यस्य सौन्दर्याय योगदानं करोति। अपि च केचन छन्दोरूपाणि विशिष्टानां भावानां व्यञ्जनाय उपयुज्यन्ते, अथवा विशिष्टेभ्यः सामाजिकवर्गेभ्यः (⟪वर्ण⟫) नियुज्यन्ते। विविधानि छन्दोरूपाणि भिन्नप्रकारेण पठ्यन्ते। :br सौन्दर्यप्रभावस्य उत्तमं दर्शनं यथा ⟪शिवताण्डवस्तोत्र⟫स्य (शिवनृत्यस्य स्तुतिः) पाठेन लभ्यते: [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
-2.  **Text-critical:** Errors in the metrical pattern can be an indication that the text is not correctly transmitted at a certain point. The metrical pattern helps to make textual emendations.
-3.  **Chronological:** certain metrical patterns underwent specific changes over the course of history. This can assist in the approximate dating of a text. See here **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Both printed in: :br **Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+2.  **ܟܬܒܐ ܕܡܢܘܗܪܐ:** ܓܠܛܐ ܒܡܢܘܗܪܐ ܕܬܩܦܐ ܡܨܝ ܠܘܬ ܕܟܬܒܐ ܠܝܣܪ ܒܡܕܢܚ. ܡܢܘܗܪܐ ܡܫܬܥܝ ܠܩܘܪܒܐ ܕܬܩܦܐ.
+3.  **ܙܒܢܐ:** ܡܢܘܗܪܐ ܕܬܩܦܐ ܡܠܦ ܒܫܘܬ ܕܝܠܝܢ. ܗܢܐ ܡܨܝ ܠܘܬ ܕܟܬܒܐ ܒܙܒܢ. ܪܟܘܟ ܗܢܐ **ܐܘܠܕܝܪܓ ܗܪܡܢ \&lt;1854 - 1920\&gt;:** ܠܫܘܬ ܕܛܪܝܣܛܗܘܒ ; ܕܪ: ܠܫܘܬ ܕܫܠܘܟ. -- ܟܠܗܝ: :br **ܐܘܠܕܝܪܓ ܗܪܡܢ \&lt;1854 - 1920\&gt;:** ܟܬܒܐ ܕܢܫܝ / ܗܪܡܢ ܐܘܠܕܝܪܓ. ܗܪܓ: ܟܠܘܣ ܐܠ. ܝܐܢܪܬ. -- ܘܝܙܒܕܐ : ܣܛܝܢܪ. -- 3 ܕܒ. -- (ܓܠܙܢܣܦ: ܣܛܝܘܬ ; ...). -- ܕܒ. 2. -- 1967. -- ܣ. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
 Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 (Image source: [Details](/arc/licenses#lekt5304))
 :::
-### 53.10.2. Types of Metra
+### 53.10.2. ܐܰܕܫܶܐ ܕܡܶܬܪܳܐ
 
 ::: grammar-box
 **The Indians distinguish:**
 
-*   **⟪वृत्त⟫ n.:** metres in which the number of syllables (⟪अक्षर⟫) is fixed
-*   **⟪जाति⟫ f.:** metres in which the sum of the metrical long units (⟪मात्रा⟫) (morae) is fixed (to these later)
+*   **⟪वृत्त⟫ ܡܨܥ.:** ܡܘܼܫ̈ܚܵܬ݂ܵܐ ܕܲܒܗܘܿܢ ܡܸܢܝܵܢܵܐ ܕܗܸܓܝ̈ܵܢܹܐ (⟪अक्षर⟫) ܩܲܒܝܼܥܵܐ ܝܠܹܗ
+*   **⟪जाति⟫ ܢܩܒ.:** ܡܘܼܫ̈ܚܵܬ݂ܵܐ ܕܲܒܗܘܿܢ ܣܘܼܟܵܡܵܐ ܕܝܘܼܚܕܹ̈ܐ ܕܐܘܼܪܟܵܐ ܡܘܼܫܚܵܢܵܝܹ̈ܐ (⟪मात्रा⟫) (ܡܘܿܪܹ̈ܐ) ܩܲܒܝܼܥܵܐ ܝܠܹܗ (ܥܰܠ ܗܿܠܹܝܢ ܒܬ݂ܰܪܟܹܢ)
 
-**Regarding the metres, in which the number of syllables is fixed (⟪वृत्त⟫), one can initially make further distinctions:**
+**ܒܡܘܼܫ̈ܚܵܬ݂ܵܐ ܕܲܒܗܘܿܢ ܡܸܢܝܵܢܵܐ ܕܗܸܓܝ̈ܵܢܹܐ ܩܲܒܝܼܥܵܐ ܝܠܹܗ (⟪वृत्त⟫), ܡܸܫܟܲܚ ܐ̱ܢܵܫ ܩܲܕܡܵܐܝܼܬ݂ ܠܡܲܦܪܲܫ ܝܲܬܝܼܪ:**
 
 *   Metra, bei denen die Zahl der Silben festgelegt ist, die Quantität dieser Silben aber nur teilweise
 *   Metra, bei denen die Zahl der Silben und deren Quantität festgelegt ist
 :::
-### 53.10.3. Die metrische Quantität von Silben
+### 53.10.3. ܟܡܝܘܬܐ ܡܫܘܚܬܐ ܕܗܓ̈ܝܢ
 
 ::: grammar-box
 **Mnemonic Verse**
@@ -527,26 +527,26 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 "A silver is heavy,
 
 *   wenn ihr Vokal einen Anusvāra hat,
-*   lang is,
-*   a Visarga has,
-*   as well when it stands before a consonant cluster
-*   as well when the syllable stands at the end of a quarter verse (Pāda)."
+*   ܠܫܢܐ ܗܘ,
+*   ܚܣܪܬܐ ܠܝܦ,
+*   ܟܕ ܐܪܝܟ ܩܘܡܬܐ
+*   ܟܕ ܫܘܥܬܐ ܒܣܘܡܟ ܕܪܒܥ ܫܝܦܬܐ (ܦܕܐ)."
 ::: grammar-box
-**A syllable is**
+**ܫܘܥܬܐ ܗܝ**
 
 *   either **⟪लघु⟫ = light**
 *   or **⟪गुरु⟫ = heavy**
 
 **⟪लघु⟫ = easy is a syllable, when**
 
-*   its vowel is short and to this vowel
+*   אִילּוּ דְאֵית לֵיהּ קָצִיר וְלַהֲדָא אֵית לֵיהּ
 *   kein Anusvāra,
-*   no visarga,
-*   not two consonants follow.
+*   לָא יֵית הִיסַרְגָּה,
+*   לָא יֵיתוּ תְרֵין עִיבְרַיָּא.
 
 Kurze Vokale sind a, i, u, ṛ, ḷ
 
-**All other syllables are ⟪गुरु⟫ = heavy. The final syllable of a verse quarter (⟪पाद⟫) is always considered ⟪गुरु⟫.**
+**כל שאר ההברות הן ⟪गुरु⟫ = כבדות. ההברה הסופית של רבע שיר (⟪पाद⟫) נחשבת תמיד ⟪गुरु⟫.**
 
 In der metrischen Analyse bedeutet:
 
@@ -569,7 +569,7 @@ Distribution of ⟪लघु⟫ and ⟪गुरु⟫ :
 ::: metrik-schema
 — ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. The epic Śloka (⟪श्लोक⟫ m.)
+### 53.10.4. ܫܠܳܘܩܳܐ ܐܶܦܺܝܩܳܝܳܐ (⟪श्लोक⟫ ܕܟܪ.)
 
 ::: grammar-box
 **Merkvers:**
@@ -581,28 +581,28 @@ Distribution of ⟪लघु⟫ and ⟪गुरु⟫ :
 ⟪द्विचतुष्पादयोर्ह्रस्वं⟫
 ⟪सप्तमं⟫ ⟪दीर्घमन्ययोः⟫ ⟪॥⟫
 :::
-"In the Śloka, the sixth syllable of a Pāda is heavy,  
+"ܒܣܘܪܐ ܕܫܠܘܩܐ ܣܡܝܟܬܐ ܕܫܒܥܝܢ ܣܘܪܬܐ ܕܦܐܕܐ",
 the fifth in all Pādas is light  
-The seventh syllable is short in the second and fourth Pāda, long in the other two."
-The most important verse meter in the Epics (⟪महाभारत⟫, ⟪रामायण⟫) as well as countless other works is the Śloka ("call", "sound", "stanza" from ⟪श्रु⟫ "to hear").
+"ܣܡܝܟܬܐ ܕܫܒܥܝܢ ܣܘܪܬܐ ܕܦܐܕܐ ܒܫܘܬܐ ܪܒܝܥܝܢ ܕܦܐܕܐ ܬܠܝܬܝܢ ܘܪܒܥܝܢ."
+"ܗܘ ܡܕܥܐ ܕܫܪܝܪܬܐ ܒܟܬܒ̈ܐ ܕܡܠܘܟܬܐ (⟪महाभारत⟩, ⟪रामायण⟩) ܘܟܠ ܗܕܐ ܡܢ̈ܫܝܼܟܘܬܐ ܗܘ ܫܠܘܩܐ (ܡܠܬܐ, ܣܘܪܬܐ, ܫܒܥܝܢ) ܡܢ ⟪श्रु⟩ (ܫܡܥ)."
 
 ::: grammar-box
-**The ⟪श्लोक⟫ is a double verse composed of half-verses, each with 16 syllables. Each half-verse further divides into two quarter-verses (⟪पाद⟫), each with 8 syllables. Each quarter-verse splits into two parts, each with 4 syllables. The entire verse (⟪पद्य⟫ n.) thus consists of four ⟪पाद⟫ (m. "foot, quarter"). The four ⟪पाद⟫ are numbered a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫).**
+"**ܗܘ ⟪श्लोक⟩ ܗܘ ܫܒܥܝܢ ܕܡܠܬ̈ܐ ܒܫܘܬܐ, ܟܠ ܡܢ̈ܗܝ 16 ܣܘܪܬܐ. ܟܠ ܫܒܥܝܢ ܡܕܥ ܠܬܪ̈ܝܢ ܫܒܥܝܢ (⟪पाद⟩), ܟܠ 8 ܣܘܪܬܐ. ܟܠ ܫܒܥܝܢ ܡܕܥ ܠܬܪ̈ܝܢ, ܟܠ 4 ܣܘܪܬܐ. ܗܘ ܫܒܥܝܢ (⟪पद्य⟩ n.) ܗܘ 4 ⟪पाद⟩ (m. "ܦܐܕܐ, ܫܒܥܝܢ"). 4 ⟪पाद⟩ ܡܕܥܝܢ a, b, c, (⟪क्⟩, ⟪ख्⟩, ⟪ग्⟩, ⟪घ्).**
 
 **Structure of the Śloka:**
 
 **Basic Schema (⟪पथ्या⟫):**
 
-**a = c:**
+**ܐ = ܓ:**
 :::
 ::: metrik-schema
 × × × ×   **◡ — — —**
 :::
-**b = d:**
+**ܒ = ܕ:**
 ::: metrik-schema
 × × × ×   **◡ — ◡ —**
 :::
-The second and third syllables of a ⟪पाद⟫ should not simultaneously be ⟪लघु⟫. In b and d, syllables 2–4 must not be ¯ ˘ ¯.
+ܐܪܒܥ ܬܠܬ ܡܕܝܢܘ̈ܬܐ ܕـ ⟪पाद⟫ ࣦܝܼ ܠܐ ܒܨܠܬܘ̈ܢ ܗܕܐ ⟪लघु⟫. ࣦܝ ܒ ܘـ ܕ، ܡܕܝܢܘ̈ܬܐ 2–4 ࣦܝܼ ܠܐ ܒܨܠܬܘ̈ܢ ¯ ˘ ¯.
 
 **Sub-schemas (⟪विपुला⟫) for a and c:**
 
@@ -622,22 +622,22 @@ The second and third syllables of a ⟪पाद⟫ should not simultaneously be
 ::: metrik-schema
 × × × ×   / — ◡ — —
 :::
-**In all Śloka forms, the main caesura is at the end of the 2. ⟪पाद⟫ : there is either the end of a word or — in the case of long compounds — the end of a compound component.**
-## 53.11. Exercise
+**ܒܟܠ ܣܘܓ̈ܝܐ ܕܫܛܘܟܐ, ܦܪܣܡܬܐ ܪܒܬܐ ܗܝ ܒܫܘܟܦܐ ܕܠܦ̈ܬ 2. ⟪पाद⟫ : ܐܘ ܗܝ ܫܘܟܦܐ ܕܠܦ̈ܬ ܐܘ — ܒܟܕܡܝܘܬ ܣܠܦ̈ܐ ܪܒ̈ܝܢ — ܫܘܟܦܐ ܕܠܦ̈ܬ.**
+## 53.11. ܬܪܓܠܐ
 
 ::: grammar-box
 **Identify the Ślokas among all verses learned so far. Create the metrical scheme for these in writing. Point out any irregularities or Vipulā forms.**
 :::
 ::: center
-Finitum feliciter 1984-02-15
-Editio interretialis feliciter finita 2009-01-19
-Alois Maria Payer
+ܦܘܣܩܐ ܒܫܠܡܐ 1984-02-15
+ܬܫܘܝܒܐ ܕܬܪܓܠܐ ܒܫܠܡܐ 2009-01-19
+ܐܠܘܝܣ ܡܪܝܡ ܦܐܝܪ
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 :::
 ::: deleteme-box
-**Sources**
+**ܡܕܒ̈ܪܐ**
 
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 53. Lesson 53 (Semester holidays). -- Version from 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurs. -- 53. Lesson 53 (Semester holidays). -- Version from 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
@@ -646,6 +646,6 @@ Alois Maria Payer
 :::
 ::: deleteme-box
 
-**Payer, Alois \<1944 - \>:** Sanskrit course. -- 53. Lesson 53 (Semester holidays). -- Version from 2009-01-19. -- Image source of the original table 53.9: Screenshot of the original source (Payer).
+**پייאר, אָלֹוס \&lt;1944 - \&gt;:** קורס סַנְסְקְרִית. -- 53. ܠܦܢܘܬܐ 53 (חופשת סמסטר). -- גרסה מ-2009-01-19. -- מקור התמונה של הטבלה המקורית 53.9: צילום מסך מהמקור המקורי (פייאר).
 :::
 

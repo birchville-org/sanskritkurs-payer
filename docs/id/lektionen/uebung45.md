@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Lesson 45
 
-A) Translate into Sanskrit (use the Imperfect for the past tense):
+A) Terjemahkan ke dalam bahasa Sanskerta (gunakan bentuk Imperfek untuk waktu lampau):
 
 ⟪१⟫. **⟪सङ्घं⟫ ⟪भिनत्सि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 You are dividing the (Buddhist) community.
@@ -26,7 +26,7 @@ Holy man, why do you not fear dangers?
 Father, where are you going as you leave the family?
 
 ⟪६⟫. **⟪शूद्रे⟫ ⟪ऽपि⟫ ⟪धनिनो⟫ ⟪ब्राह्मणस्य⟫ ⟪गृहं⟫ ⟪भारमबिभः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-Śūdra woman, have you perhaps carried the burden into the house of the rich Brāhmaṇa?
+Wanita Śūdra, apakah kau mungkin telah membawa beban itu ke dalam rumah Brāhmaṇa yang kaya?
 
 ⟪७⟫. **⟪देवि⟫ ⟪कृतपुण्यस्य⟫ ⟪वैश्यस्य⟫ ⟪सुखेष्टिं⟫ ⟪पिपूर्याः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 Goddess, you should fulfill the wish for happiness of the Vaiśya, who has done meritorious deeds.
@@ -47,7 +47,7 @@ Have you, O poet, perhaps measured the worlds?
 B) Translate:
 
 ⟪१⟫. **⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Arjuna, either you will be killed and attain heaven, or you will conquer and enjoy the earth. Therefore, you must fight.
+Arjuna, baik kau terbunuh dan mencapai surga, atau kau menang dan menikmati bumi. Oleh karena itu, kau harus bertarung.
 
 ⟪२⟫. **⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 Venerable one, how have you ended the infinite suffering?
@@ -56,7 +56,7 @@ Venerable one, how have you ended the infinite suffering?
 Brahmin, have you poured ghee into the sacrificial fire?
 
 ⟪४⟫. **⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Enemy, with the sword you do not split the soul (life).
+Musuh, dengan pedang kau tidak memisahkan jiwa (kehidupan).
 
 ::: media
 ![](/images/uebung074.webp)

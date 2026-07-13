@@ -236,9 +236,9 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 ## 12.6. Esercizio
 
-**A) Formulate passive sentences in the past tense from the active sentences of [Lesson 7](/lektionen/lektion07), Exercise A, using the past tense active sentences for intransitive verbs and verbs of motion.**
+**A) Formulare frasi passive al passato a partire dalle frasi attive della [Lezione 7](/lektionen/lektion07), Esercizio A, utilizzando le frasi attive al passato per i verbi intransitivi e i verbi di movimento.**
 
-**B) Formulate the corresponding past participles (PPP) for the verb forms of [Lesson 10](/lektionen/lektion10), Exercise A. Note that a form like sṛjati corresponds to PPPs in all three genders.**
+**B) Formulare i participi passati corrispondenti (PPP) per le forme verbali della [Lezione 10](/lektionen/lektion10), Esercizio A. Si noti che una forma come sṛjati corrisponde a PPP in tutti e tre i generi.**
 
-**C) Convert the sentences of [Lesson 10](/lektionen/lektion10), Exercise C, into the passive voice in the past tense.**
+**C) Convertire le frasi della [Lezione 10](/lektionen/lektion10), Esercizio C, nella voce passiva al passato.**
 

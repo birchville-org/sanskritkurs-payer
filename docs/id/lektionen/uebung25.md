@@ -42,10 +42,10 @@ A) Complete the declension examples from Lesson 16 by adding 4. Dative (⟪च�
 B) Translate and resolve the compounds into Sanskrit:
 
 ⟪१⟫. **⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫**
-At the teacher's instruction, Rāma goes from the village to the city, enters the holy man's house, respectfully presents himself before the holy man, and says: "Enough of anger!"
+Atas instruksi guru, Rāma pergi dari desa ke kota, memasuki rumah pertapa, dengan hormat mempersembahkan dirinya di hadapan pertapa tersebut, dan berkata: "Cukuplah kemarahan!"
 
 ⟪२⟫. **⟪गुरोरधर्मः⟫ ⟪श्रोतुं⟫ ⟪न⟫ ⟪शक्यत⟫ ⟪इति⟫ ⟪श्रुत्या⟫ ⟪च⟫ ⟪स्मृतिभिश्चोद्यते⟫ ⟪॥२॥⟫**
-The Veda (śruti) and the tradition (smṛti) say that one cannot hear anything unjust from a master.
+Veda (śruti) dan tradisi (smṛti) menyatakan bahwa seseorang tidak dapat mendengar sesuatu yang tidak adil dari seorang guru.
 
 ⟪३⟫. **⟪क्षत्रिया⟫ ⟪जनाञ्छत्रुभ्यो⟫ ⟪रक्षितुमर्हन्तीति⟫ ⟪क्षत्रियधर्मः⟫ ⟪॥३॥⟫**
 The duty of the Kṣatriyas is that the Kṣatriyas should protect the people from the enemies.
@@ -58,15 +58,15 @@ Since he has committed a sacrificial error, the Brahmane must not receive money.
 In order to become rich, these Vaiśyas have made a vow and abstain sexually.
 
 ⟪६⟫. **⟪बुद्द्धाश्चार्हन्तश्च⟫ ⟪दुःखान्मुक्ताः⟫ ⟪।⟫ ⟪मुञ्चन्ती⟫ ⟪बुद्धिर्हि⟫ ⟪तैः⟫ ⟪प्राप्ता⟫ ⟪॥६॥⟫**
-Buddhas and Arhants are freed from suffering. For they have attained the liberating insight.
+Para Buddha dan Arhat terbebas dari penderitaan. Karena mereka telah mencapai wawasan pembebasan.
 
 ⟪७⟫. **⟪लोभ⟫en ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫**
-Through greed, hatred, and delusion, people are ruined. When the time has come, they then fall into a hell.
+Melalui keserakahan, kebencian, dan kebingungan, orang-orang menjadi rusak. Ketika waktunya tiba, mereka kemudian jatuh ke dalam neraka.
 
 ::: media
 ![](/images/uebung040.webp)
 Fig.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫
-(Image source: [Details](/en/licenses#uebung040))
+(Sumber gambar: [Details](/en/licenses#uebung040))
 :::
 ⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
 The Kṣatriya brings heroic warriors from the metropolis to fight the village of the enemies.
@@ -84,7 +84,7 @@ Viṣṇu protects his believers from death.
 Ohne Rāma.
 
 ⟪१३⟫. **⟪साधोः⟫ ⟪शिक्षा⟫ ⟪गुणाय⟫ ⟪संपद्यते⟫ ⟪नासाधोः⟫ ⟪॥१३॥⟫**
-The instruction of a holy man contributes to virtue, not that of an unholy one.
+Petunjuk seorang orang suci berkontribusi pada kebajikan, bukan petunjuk seseorang yang tidak suci.
 
 ⟪१४⟫. **⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫**
 Rāma wartet auf Kṛṣṇa.
@@ -104,7 +104,7 @@ Stop with the fear!
 
 ⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫ ⟪ततस्ततो⟫ ⟪विमुच्यते⟫ ⟪।⟫  
 ⟪निवर्तनाद्धि⟫ ⟪सर्वतो⟫ ⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫  
-One is freed from that from which one withdraws. For if one withdraws from everything, one knows no suffering, however small, even as small as an atom.
+Seseorang terbebas dari apa yang ditinggalkannya. Karena jika seseorang menarik diri dari segala sesuatu, ia tidak mengetahui penderitaan apa pun, sekecil apapun, bahkan sebesar satu atom.
 
 ⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫ ⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
 ⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫ ⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫  
@@ -117,23 +117,23 @@ Hells arise because of evil, evil arises from poverty, poverty arises from not g
 ::: media
 ![](/images/uebung041.webp)
 Fig.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
-(Image source: [Details](/en/licenses#uebung041))
+(Sumber gambar: [Details](/en/licenses#uebung041))
 :::
-⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
+⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟩  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
-A thief is freed from the guilt of theft through punishment or through release. But if the king does not punish him, then he assumes the thief's guilt.
+Seorang pencuri dibebaskan dari dosa pencurian melalui hukuman atau pembebasan. Namun, jika raja tidak menghukumnya, maka ia mengambil alih dosa pencuri tersebut.
 
 ---
 
 ## Political Science Fragments (Arthaśāstra)
 
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
-The economy is useful because it produces grain, cattle, gold, metals, and labor.
+Ekonomi berguna karena menghasilkan biji-bijian, ternak, emas, logam, dan tenaga kerja.
 
 ::: media
 ![](/images/uebung042.webp)
 Fig.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
-(Image source: [Details](/en/licenses#uebung042))
+(Sumber gambar: [Details](/en/licenses#uebung042))
 :::
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
-Therefore, the three sciences have the staff (daṇḍa) as their foundation. The staff, which is the foundation of good conduct, brings beings acquisition and secure possession. Good conduct is either acquired or innate. Activity educates suitable material, not unsuitable. Knowledge educates a mind that has arrived at truth through obedience, listening, grasping, understanding, and reflection, not another. ... For from hearing arises knowledge, from knowledge practice, from practice self-possession; thus the sciences serve their purpose. Knowledge and good conduct are the cause for victory over the senses. This is necessary to cast off lust, hatred, greed, conceit, intoxication, and agitation.
+Oleh karena itu, ketiga ilmu pengetahuan memiliki tongkat (daṇḍa) sebagai fondasinya. Tongkat, yang merupakan dasar dari perilaku baik, membawa makhluk-makhluk pada perolehan dan kepemilikan yang aman. Perilaku baik dapat diperoleh atau bersifat bawaan. Aktivitas mendidik materi yang sesuai, bukan yang tidak sesuai. Pengetahuan mendidik pikiran yang telah mencapai kebenaran melalui ketaatan, mendengarkan, memahami, mengerti, dan refleksi, bukan pikiran lain. ... Karena dari mendengar muncul pengetahuan, dari pengetahuan muncul praktik, dari praktik muncul penguasaan diri; demikianlah ilmu-ilmu tersebut mencapai tujuan mereka. Pengetahuan dan perilaku baik adalah penyebab kemenangan atas indra-indra. Hal ini diperlukan untuk melepaskan nafsu, kebencian, keserakahan, keangkuhan, mabuk, dan keguncangan.

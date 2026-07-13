@@ -3125,9 +3125,9 @@ PPP ⟪ईक्षित⟫
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ :  abstain from, keep away from, refrain from
 
 ::: indent
-PPP ⟪अवस्थित⟫ 3: dastehend, befindlich
+PPP ⟪अवस्थित⟫ 3：站立，存在
 :::
-⟪पुरा⟫ Adv.: einst, früher
+⟪पुरा⟫ 副词：曾经，从前
 
 ⟪अनेक⟫ 3: viele (nicht einige)
 
@@ -3139,11 +3139,11 @@ PPP ⟪अवस्थित⟫ 3: dastehend, befindlich
 
 ⟪सकाश⟫ m.: Anwesenheit, Gegenwart
 
-⟪शर⟫ m.: Pfeil-Schaft, Pfeil
+⟪शर⟫ m.: 箭杆，箭
 
 ⟪बाण⟫ m.: Pfeil, Ziel
 
-⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : billigen, versprechen; Ā: antworten, bestätigen, behaupten, erkennen
+⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : 认可，承诺；Ā：回答，确认，断言，认识
 
 ⟪चल्⟫ 1P ⟪चलति⟫ : in Bewegung geraten
 
@@ -3166,11 +3166,11 @@ Inf. ⟪चलितुम्⟫
 
 ⟪लीला⟫ f.:  Scherz, Spiel
 
-⟪यावत्⟫ Adv.:  wie lange, während
+⟪यावत्⟫ 副词：多久，在……期间
 
 ⟪तावत्⟫ Adv.: so lange
 
-⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫ Adv.: zweifach, in zwei Teilen
+⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫ 副词：双重地，分两部分
 
 ⟪शंस्⟫ 1P ⟪शंसति⟫ : loben, gebieten
 
@@ -3192,7 +3192,7 @@ Inf. ⟪शंसितुम्⟫
 图：⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 （图片来源：[详情](/licenses#lekt4202)）
 :::
-⟪भर्तृ⟫ m. (zu ⟪भृ⟫ "tragen, erhalten"): Erhalter, Ernährer, Gatte
+⟪भर्तृ⟫ 阳性名词（源自⟪भृ⟫“承载，维持”）：供养者、滋养者、丈夫
 
 ⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: 妻子（⟪भार्या⟫ = ⟪भृ⟫ 的动形词：应被承载者，应被供养者，享有赡养权之人）
 
@@ -3223,17 +3223,17 @@ Inf. ⟪शंसितुम्⟫
 
 ⟪यातृ⟫ m.: 丈夫兄弟的妻子
 
-⟪ननान्दृ⟫ f.: Schwester des Mannes
+⟪ननान्दृ⟫ f.: 丈夫的姐妹
 
 ⟪श्वसुर⟫ f.: 岳父（古时：仅指妻子的父亲）
 
-⟪श्वस्रू⟫ f.: Schwiegermutter (Deklination folgt später)
+⟪श्वस्रू⟫ f.: 岳母（词形变化见后）
 
-⟪मातुल⟫ m.: Mutterbruder (Onkel mütterlicherseits)
+⟪मातुल⟫ m.: 舅父（母亲的兄弟）
 
-⟪मातुलानी⟫ f.: Gattin des Mutterbruders (Mutterbruderfrau)
+⟪मातुलानी⟫ f.: 舅母（母亲的兄弟的妻子）
 
-⟪पितृव्य⟫ m.: Vaterbruder (Onkel väterlicherseits)
+⟪पितृव्य⟫ m.: 伯父/叔父（父亲的兄弟）
 
 ⟪पितामह⟫ m.: Grossvater väterlicherseits
 
@@ -3808,7 +3808,7 @@ PPP ⟪परिभूत⟫ 3：被击败，受辱，贬低
 
 ⟪अद्य⟫ : heute
 
-⟪लघु⟫ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz (im Ausdruck)
+⟪लघु⟩ 3: leicht (nicht schwer, nicht schwierig), schnell, kurz（在表达中）
 
 ⟪व्याकरण⟫ n.: Grammatik (zu ⟪व्याकृ⟫)
 
@@ -3857,19 +3857,19 @@ Sitar演奏者 = ⟪सितारवादकः⟫
 
 ::: media
 ![](/images/lekt4805.webp)
-Abb.: ⟪कुमारः⟫
-Thaipusam-Fest = தைப்பூசம், Batu Caves, Malaysia
-(Bildquelle: [Details](/licenses#lekt4805))
+图：⟪कुमारः⟫
+泰普萨姆节 = தைப்பூசம்，黑风洞，马来西亚
+（图片来源：[详情](/licenses#lekt4805)）
 :::
-⟪कुमारी⟫ f.: Mädchen, Tochter
+⟪कुमारी⟫ f.：女孩，女儿
 
 ::: media
 ![](/images/lekt4806.webp)
-Abb.: ⟪कुमारी⟫
+图：⟪कुमारी⟫
 ⟪नेपाल⟫
-(Bildquelle: [Details](/licenses#lekt4806))
+（图片来源：[详情](/licenses#lekt4806)）
 :::
-⟪कौमर⟫ n.: Kindheit
+⟪कौमर⟫ n.：童年
 
 ⟪यौवन⟫ n.: Jugend
 
@@ -3877,11 +3877,11 @@ Abb.: ⟪कुमारी⟫
 
 ::: media
 ![](/images/lekt4807.webp)
-Abb.: ⟪स्थविराः⟫
+图：⟪स्थविराः⟫
 ⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt4807))
+（图片来源：[详情](/licenses#lekt4807)）
 :::
-⟪स्थाविर⟫ n.: (hohes) Alter
+⟪स्थाविर⟫ n.：（高）年龄
 
 ⟪वाच्य⟫ 3: auch: tadelnswert
 
@@ -3899,17 +3899,17 @@ Karanji 湖 = ಕಾರಂಜಿ ಕೆರೆ
 
 ⟪प्रसूति⟫ f.: Geburt, Nachkommenschaft
 
-⟪चरित्र⟫ n.: Brauch, Sitte, Gewohnheitsrecht ; Wandel
+⟪चरित्र⟫ n.：习俗、惯例、习惯法；行为方式
 
 ⟪जाया⟫ f.: Ehefrau
 
 ::: media
 ![](/images/lekt4809.webp)
-Abb.: ⟪मम⟫ ⟪जाया⟫
-(Bild: Payer)
-(Bildquelle: [Details](/licenses#lekt4809))
+图：⟪मम⟫ ⟪जाया⟫
+（图片：Payer）
+（图片来源：[详情](/licenses#lekt4809)）
 :::
-## Lektion 49
+## 第49课
 
 
 

@@ -90,7 +90,7 @@ Should someone whose insight is firmly established go into homelessness, or shou
 Does the Master also know the truth?
 
 ⟪३⟫. **⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Are the Śūdras perhaps servants of the Twice-born?
+Apakah Śūdra mungkin saja adalah hamba dari Dvija?
 
 ⟪४⟫. **⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 Has the Śūdra perhaps borne the burden?
@@ -102,32 +102,32 @@ Has the Śūdra perhaps borne the burden?
 C) Determine and translate the following compounds:
 
 ::: grammar-box
-| Compound | Meaning | Explanation |
+| Kata Majemuk | Makna | Penjelasan |
 | :--- | :--- | :--- |
-| **⟪अतिमात्रम्⟫** | excessively | ⟪मात्रामतीत्य⟫ (beyond measure) |
-| **⟪अतिवसन्तम्⟫** | after spring | ⟪वसन्तमतीत्य⟫ (after the end of spring) |
-| **⟪अधिहरि⟫** | in Hari | ⟪हरौ⟫ (in Hari) |
-| **⟪अधिकेरलम्⟫** | in Kerala | ⟪केरेलेषु⟫ (in Kerala) |
-| **⟪अनुरूपम्⟫** | accordingly | ⟪रूपस्य⟫ ⟪योग्यम्⟫ (suitable to the form) |
-| **⟪अनुदिनम्⟫** | daily | ⟪दिने⟫ ⟪दिने⟫ (day by day) |
-| **⟪अनुगङ्गम्⟫** | along the Ganges | ⟪गङ्गाया⟫ ⟪अनु⟫ (along the Ganges) |
-| **⟪अनुविष्णुम्⟫** | after Viṣṇu | ⟪विष्णोः⟫ ⟪पश्चात्⟫ (behind/after Viṣṇu) |
-| **⟪अपविष्णुम्⟫** | without Viṣṇu | ⟪विष्णोः⟫ ⟪पृथक्⟫ (far from Viṣṇu) |
-| **⟪अभिमुखम्⟫** | opposite | ⟪मुखमभि⟫ (towards the face) |
-| **⟪अभ्यग्नि⟫** | towards the fire | ⟪अग्निमभि⟫ (in the direction of the fire) |
-| **⟪आबालवृद्धम्⟫** | from children to the elderly | ⟪आ⟫ ⟪बालेभ्यश्च⟫ ⟪वृद्धेभ्यश्च⟫ (including...) |
-| **⟪आमरणम्⟫** | until death | ⟪आ⟫ ⟪मरणात्⟫ (until dying) |
-| **⟪उपवृक्षम्⟫** | at the tree | ⟪वृक्षस्य⟫ ⟪समीपे⟫ (near the tree) |
-| **⟪यथास्थानम्⟫** | in the right place | ⟪स्थानमनतिक्रम्य⟫ (not exceeding the place) |
+| **⟪अतिमात्रम्⟫** | secara berlebihan | ⟪मात्रामतीत्य⟫ (melampaui batas) |
+| **⟪अतिवसन्तम्⟫** | setelah musim semi | ⟪वसन्तमतीत्य⟫ (setelah akhir musim semi) |
+| **⟪अधिहरि⟫** | di Hari | ⟪हरौ⟫ (di dalam Hari) |
+| **⟪अधिकेरलम्⟫** | di Kerala | ⟪केरेलेषु⟫ (di dalam Kerala) |
+| **⟪अनुरूपम्⟫** | sesuai dengan itu | ⟪रूपस्य⟫ ⟪योग्यम्⟫ (sesuai dengan bentuknya) |
+| **⟪अनुदिनम्⟫** | setiap hari | ⟪दिने⟫ ⟪दिने⟫ (satu demi satu hari) |
+| **⟪अनुगङ्गम्⟫** | sepanjang Gangga | ⟪गङ्गाया⟫ ⟪अनु⟫ (sepanjang Gangga) |
+| **⟪अनुविष्णुम्⟫** | setelah Viṣṇu | ⟪विष्णोः⟫ ⟪पश्चात्⟫ (di belakang/setelah Viṣṇu) |
+| **⟪अपविष्णुम्⟫** | tanpa Viṣṇu | ⟪विष्णोः⟫ ⟪पृथक्⟫ (jauh dari Viṣṇu) |
+| **⟪अभिमुखम्⟫** | berlawanan | ⟪मुखमभि⟫ (menuju wajah) |
+| **⟪अभ्यग्नि⟫** | menuju api | ⟪अग्निमभि⟫ (ke arah api) |
+| **⟪आबालवृद्धम्⟫** | dari anak-anak hingga orang tua | ⟪आ⟫ ⟪बालेभ्यश्च⟫ ⟪वृद्धेभ्यश्च⟫ (termasuk...) |
+| **⟪आमरणम्⟫** | hingga kematian | ⟪आ⟫ ⟪मरणात्⟫ (hingga mati) |
+| **⟪उपवृक्षम्⟫** | di pohon | ⟪वृक्षस्य⟫ ⟪समीपे⟫ (di dekat pohon) |
+| **⟪यथास्थानम्⟫** | di tempat yang benar | ⟪स्थानमनतिक्रम्य⟫ (tidak melebihi tempat) |
 :::: media
 ![](/images/uebung062.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
-(Image source: [Details](/en/licenses#uebung062))
+(Sumber gambar: [Rincian](/en/licenses#uebung062))
 ::::
 :::
 ---
 
-## Narrative Perfect (The Story of the Old Man)
+## Perfect Naratif (Kisah Orang Tua)
 
 Translate into Sanskrit, using exclusively perfect tense verb forms:
 

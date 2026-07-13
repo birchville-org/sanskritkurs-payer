@@ -146,9 +146,9 @@ status: stable
 | **7. h-t is replaced by ḍh with lengthening of a preceding i or u; or by gdh. Before such a ḍh, a is replaced by o, rarely by ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-## 12.5. Word list
+## 12.5. قائمة الكلمات
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : to awaken, to awaken to knowledge, to recognize; PPP **buddha** 3 awakened, hence **Buddha** = "the awakened one" (not: the enlightened one)
+- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : يستيقظ، يستيقظ على المعرفة، يدرك؛ PPP **buddha** 3 مستيقظ، ومن هنا **Buddha** = "المستيقظ" (وليس: المستنير)
 
 ::: media
 ![](/images/lekt1201.webp)
@@ -158,7 +158,7 @@ Fig.: ⟪गौतमो⟫ ⟪बुद्धः⟫
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : to burn (something)
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : to overcome, to endure, to endure patiently = to forgive
 - **mṛga** m. ⟪मृग⟫ : wild animal
-- **mārga** m. ⟪मार्ग⟫ : path (paths were often game trails)
+- **mārga** m. ⟪मार्ग⟫ : طريق (غالبًا ما كانت الطرق عبارة عن مسارات للحيوانات البرية)
 
 ::: media
 ![](/images/lekt1202.webp)
@@ -167,10 +167,10 @@ Fig.: ⟪मार्गः⟫
 :::
 - **api** ⟪अपि⟫ : also (postposed)
 
-Regarding the 6th present class, some roots are counted by native grammarians that form the present stem with nasal infix and thematic vowel a, e.g.:
+فيما يتعلق بالفئة الحالية السادسة، يتم احتساب بعض الجذور بواسطة النحويين الأصليين والتي تشكل الجذع الحالي مع إقحام أنفي وحرف علة موضوعي a، على سبيل المثال:
 
 - **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : to unfasten, to let go, to liberate; to liberate from the cycle of rebirths (**saṃsāra** m.) = to redeem
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : to sprinkle
+- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : يرش
 
 Regarding word formation:
 
@@ -185,7 +185,7 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 :::
 - **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : knowledge, organ of knowledge.
 
-### 12.5.1. Passive and PPP of the roots learned so far
+### 12.5.1. المبني للمجهول واسم المفعول الماضي للجذور التي تم تعلمها حتى الآن
 
 | Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |

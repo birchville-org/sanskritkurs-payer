@@ -7,12 +7,12 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 24
+# ܐܘܠܦܢܐ 24
 
-## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung")
+## 24.1. ܕܬܝܒܐ (⟪ܨܬܘܪܬܝ⟫ = "ܫܘܠܡܐ ܕܩܢܝܢܐ ܪܒܝܥܝܐ")
 
 ::: grammar-box
-**1. To express the purpose or intention ("in order to") of an action, instead of the infinitive (⟪तुमुन्⟫), one can also use a noun with a kṛt suffix, which denotes an action or state, in the dative case (⟪चतुर्थी⟫ = "fourth case ending").**
+**1. כדי לבטא את המטרה או הכוונה ("כדי") של פעולה, במקום הפועל במשקל סתמי (⟪तुमुन्⟫), ניתן גם להשתמש בשם עצם עם סיומת קְרִת, המציין פעולה או מצב, במשפט נתון (⟪चतुर्थी⟩ = "סיום רביעי").**
 
 instead of:
 
@@ -39,30 +39,30 @@ Fig.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः
 :::
 
 ::: grammar-box
-**2. The Dative (⟪चतुर्थी⟫) can also denote the object of an infinitive of purpose to be supplied:**
+**2. הדאטיב (⟪चतुर्थी⟫) יכול גם לציין את עצם הפועל סתמי של מטרה שיש להשלים:**
 
 Example:
 
 :::
 ::: indent
-⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "He goes to the village for the purpose of fruits = He goes to the village in order to fetch fruits."
+⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "ܠܟ ܐܬ ܠܩܪܝܬܐ ܒܨܠܚ ܕܦܪܝ = ܠܟ ܐܬ ܠܩܪܝܬܐ ܒܨܠܚ ܕܦܪܝ."
 :::
-**In the same way, the dative (⟪चतुर्थी⟫) denotes the purpose of a thing or an action:**
+**ܒܨܠܚ ܕܡܠܐ, ܕܝܬܝܪ (⟪चतुर्थी⟫) ܡܕܥ ܣܠܚ ܕܐܢܫ ܘܐܪܬ:**
 
 Example:
 
 ::: indent
-⟪यज्ञायान्नम्⟫ = "Food for the purpose of a sacrifice = Food for a sacrifice"
+⟪यज्ञायान्नम्⟫ = "ܡܕܥܐ ܠܨܒܚܐ = ܡܕܥܐ ܠܨܒܚܐ"
 :::
 ::: media
 ![](/images/lekt2401.webp)
-Fig.: ⟪यज्ञायान्नम्⟫
-'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
-(Image source: [Details](/arc/licenses#lekt2401))
+ܦܩܕܬܐ: ⟪यज्ञायान्नम्⟫
+'ܐܢܟܘܛ' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] ܗܘ ܐܝܠܢ ܕܚܕܬܐ ܕܗܝܘܕܝܐ ܟܬܝܒ ܠܦܘܪܩܢܐ ܕܫܬܐ ܗܝܘܕܝܐ ܒܟܠ ܡܢܕܪ̈ܝܐ ܕܒܦܣ [ܒܘܟܪܢܝܐ ܐܩܫܪ ܦܘܪܘܫܛܡ ܣܒܝܢܐܪܝܐܢ ܣܢܣܬܐ] ܡܕܪ̈ܝܐ. ܚܘܬܢ̈ܐ ܕܠܦܝܠܘܬܐ ܡܢ ܨܒܚܝܢ ܠܒܗܓܘܢ ܣܒܝܢܐܪܝܐܢ [ܣܒܝܢܐܪܝܐ] ܒܗܠܛ ܢܘܟܪܐ.
+(ܡܕܥܐ ܕܬܒܝܠܬ: [ܦܪ̈וֹט](/arc/licenses#lekt2401))
 :::
 
 ::: grammar-box
-**3. The dative (⟪चतुर्थी⟫) also denotes the person or thing for which the object of an action is intended (indirect object; question: to whom?). (However, note the verbs with double accusative (⟪द्वितीया⟫)!)**
+**ܣܘܬ̈ܐ ܕܟܢܝܬܐ (⟪चतुर्थी⟫) ܠܦܘܩ ܢܝܐ ܕܡܪܟܒܬܐ ܘܠܦܘܩ ܕܡܪܟܒܬܐ ܠܦܘܩ ܕܡܪܟܒܬܐ (ܢܝܐ ܕܡܪܟܒܬܐ; ܫܘܠܚܢܐ: לְמַן?). (ܡܛܪ̈ܝܢ ܠܦܘܩ ܕܡܪܟܒܬܐ ܠܦܘܩ ܕܡܪܟܒܬܐ (⟪द्वितीया⟫)!)**
 
 Example:
 
@@ -78,33 +78,33 @@ Raksha bandhan is celebrated with fervour and joy all across India. This festiva
 :::
 
 ::: grammar-box
-**4. The dative case is used with some verbs (and a few other words) similarly to German, in response to the question "to whom?":**
+**4. דִּיבְדַק מְטוּר בְּעָלְמָא (וּבִשְׁעַת מֵימְרָא) כְּדוֹק בְּאַרַם, לְמֵימְרָא "לְמַן?":**
 
 Examples:
 
 :::
 ::: indent
-⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "The god is angry with the men."
+⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "ܐܠܗܐ ܟܝܦ ܥܒܕ ܠܡܕܢܚܐ."
 
-⟪अलम्⟫ Adverb: "enough, sufficient, equal to": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "a warrior is equal to another warrior"
+⟪अलम्⟫ Adverb: "enough, sufficient, equal to": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "ܣܓܝ ܗܘ ܠܡܕܢܚܐ"
 :::
 ::: media
 ![](/images/lekt2403.webp)
 Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
-"Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
+"ܪܡܐ ܥܠ ܣܘܟܝܐ ܕܚܢܡܢ ܥܒܕ ܠܡܕܢܚܐ." ca 1820
 (Image source: [Details](/arc/licenses#lekt2403))
 :::
 Further uses of the dative later.
 
-## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
+## 24.2. ܨܘܼܪܬܵܐ ܕܝܲܗܒ݂ܵܢܵܐ (⟪ܟܲܬܘܼܪܬܝ⟫)
 
 ::: grammar-box
-**The regular endings of the Dative are:**
+**דיינא דִּתְבַע מֵהָן הוֹדָא:**
 
 * **Singular: -e ; vowel-ending feminine stems: -ai**
 * **Plural: Dative and Ablative ⟪पञ्चमी⟫: -bhyas**
 :::
-### 24.2.1. Consonant stems
+### 24.2.1. ܫܪ̈ܫܐ ܚܪ̈ܝܫܐ
 
 ::: grammar-box
 
@@ -116,7 +116,7 @@ Further uses of the dative later.
 | ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ |
 
 :::
-### 24.2.2. Fragepronomen
+### 24.2.2. ܡܠܬܐ ܕܫܘܐܠܐ
 
 ::: grammar-box
 
@@ -126,7 +126,7 @@ Further uses of the dative later.
 | **Dativ Plural** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
-### 24.2.3. Demonstrativpronomina
+### 24.2.3. ܟܢܘܫܝ̈ܐ ܡܚܘܝܢܝ̈ܐ
 
 ::: grammar-box
 
@@ -138,7 +138,7 @@ Further uses of the dative later.
 | | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
-### 24.2.4. Vokalische Stämme
+### 24.2.4. ܫܪ̈ܫܐ ܩܠܝ̈ܐ
 
 ::: grammar-box
 **Vocalic Stems**
@@ -165,13 +165,13 @@ Further uses of the dative later.
 * Dat. sg. **⟪धेनवे⟫** or **⟪धेन्वै⟫**
 * Dat. pl. **⟪धेनुभ्यस्⟫**
 :::
-## 24.3. Sandhi of final -ai and -au
+## 24.3. ܣܢܕܗܝ ܕܫܘܠܡܐ -ܐܝ ܘ -ܐܘ
 
 ::: grammar-box
 **Sandhi of final -ai and -au**
 
-* **-ai before an initial vowel is generally replaced by -ā (rarely by -āy as within the word)**
-* **-au before a vowel is generally replaced by -āv (rarely by -ā)**
+* **-ai قبل صوت ابتدائي يُستبدل عادةً بـ -ā (نادراً ما يكون -āy كما في الكلمة)**
+* **-au قبل صوت يُستبدل عادةً بـ -āv (نادراً ما يكون -ā)**
 
 Example:
 
@@ -179,25 +179,25 @@ Example:
 ::: indent
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "to this fire"
 :::
-## 24.4. Vocabulary List
+## 24.4. ܡ̈ܠܝܢ List
 
-⟪अलम्⟫ Adverb: enough, sufficient; equal to (someone/something); with Dative: enough for, sufficient for, equal to; with Instrumental: enough with, cease from , e.g. ⟪अलं⟫ ⟪क्रोधेन⟫ = "enough with the anger = cease from anger!"
+⟪अलम्⟫ מִילָא: דַי, סָגִי; שְׁוֵה לְ (ܡܢ ܐܘ ܠܟܝ): עִם דָּתִי: דַי לְ, סָגִי לְ; עִם אֱדוֹמִי: דַי בְּ, חָדַל מֵ, יוֹם ע. ⟪अलं⟫ ⟪क्रोधेन⟫ = "דַי בְּאַף = חָדַל מֵאַף!"
 
-In the same manner as ⟪अलम्⟫ with Instrumental is used:
+בְּאוֹתָהּ שַׁעֲתָא דְּ⟪अलम्⟫ עִם אֱדוֹמִי יְתִיב:
 
 ⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "It is done with anger = desist from anger!"
 
 ⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : adorn
 
 ::: indent
-⟪अलंकार⟫ m.: ornament, means of adornment (in poetry)
+⟪अलंकार⟫ m.: ܙܝܢܐ, ܣܘܓܪܬܐ (ܒܫܥܪܐ)
 :::
 ::: media
 ![](/images/lekt2405.webp)
-Fig.: ⟪अलंकारः⟫
-(Image source: [Details](/arc/licenses#lekt2405))
+ܡܠܬܐ: ⟪अलंकारः⟫
+(מקור ܬܡܢܐ: [פרטים](/arc/licenses#lekt2405))
 :::
-⟪हेतु⟫ m.: motive, occasion, cause, reason ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ with genitive or as the second member of a compound = "for ... sake, because of"
+⟪हेतु m.: ܡܚܘܠܐ, ܣܒܒܬܐ, ܥܝܢܐ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ ܥܡ ݣܢܛܝܘ ܐܘ ܟܕ ܗܘ ܬܪܝܢ ܡܢ ܩܠܐ = "ܥܒܕ ܚܘܬܪܐ, ܡܛܠ"
 
 ⟪प्रतिमा⟫ f.: image, likeness
 
@@ -214,9 +214,9 @@ From ⟪वृत्⟫:
 ::: indent
 ⟪वृत्ति⟫ f.: conduct, activity, way of life
 
-⟪वृत्त⟫ n.: conduct
+⟪वृत्त⟫ n.: ܡܕܢܚܐ
 :::
-⟪अभि⟫ prefix:  be-, after - towards, to - from, to - towards, against, into - within, with regard to, on, over, at
+⟪अभि⟫ prefix: ܒ-, אַחֵר - לְ, מִן, עַל, בְּ, עַל
 
 ⟪नि⟫ Prefix: downward, down, into, backward
 
@@ -235,15 +235,15 @@ thereof
 ::: indent
 ⟪अपोह⟫ m.: negation (⟪अप⟫ + ⟪ऊह⟫)
 
-⟪ऊहापोह⟫ m.: Discussion of the pros and cons
+⟪ऊहापोह⟫ m.: ܡܠܬܐ ܕܚܘܒܐ ܘܪܥܝܢܐ
 :::
 ::: media
 ![](/images/lekt2407.webp)
-Fig.: ⟪ऊहापोहः⟫
-"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
-(Image source: [Details](/arc/licenses#lekt2407))
+ܦܘܩܕܢܐ: ⟪ऊहापोहः⟫
+"ניו דלהי/הודו, 16נוב08 - שוחאסיני חידאר, עורכת משנה לענייני חוץ ברשת CNN-IBN 18, הודו, מנחה דיון פאנל בכנס הכלכלה ההודי של הפורום הכלכלי העולמי 2008 בניו דלהי."
+(מקור התמונה: [פרטים](/arc/licenses#lekt2407))
 :::
-⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : useful
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : מועיל
 
 ⟪कुप्य⟫ n.: Forest product, metal (not precious metal)
 
@@ -272,7 +272,7 @@ thereof:
 :::
 ⟪ग्रहण⟫ n.: grasping
 
-⟪चौल⟫ n.: ceremony (⟪संस्कार⟫) of hair cutting (at the age of 3 years)
+⟪चौल⟫ n.: טܘܿܣܝܼܬܵܐ (⟪संस्कार⟫) דְּקִצַּת שַׂעְרָא (בְּשֵׁית תְּלַת שְׁנִין)
 
 ⟪तत्त्व⟫ n.: true nature, truth, reality (⟪तद्⟫ + ⟪त्व⟫ = this-ness)
 
@@ -283,21 +283,21 @@ thereof:
 from:
 
 ::: indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : to bow, revere, greet
+⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ :ܠܡܬܟܦ ܠܡܕܥܐ ܠܫܘܛܟ
 :::
 ::: media
 ![](/images/lekt2411.webp)
-Fig.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
-Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE
-(Image source: [Details](/arc/licenses#lekt2411))
+ܦܘܣܩܐ: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
+ܟܬܒܐ ܕܡܢܝܐ ܕܥܠܘ̈ܬ ⟪गीतगोविन्द⟫ 1730
+(ܡܕܒܪ ܐܝܟܬܐ: [ܦܘ̈רשׁ](/arc/licenses#lekt2411))
 :::
-⟪स्वागत⟫ n.: welcome (from su-ā-gata)
+⟪स्वागत⟫ ܢ: ܐܘܬܒܐ (מן su-ā-gata)
 
 ⟪तृण⟫ n.: blade of grass
 
 ⟪पुनर्⟫ Adverb: again, repeatedly, back, but
 
-## 24.5. Übung
+## 24.5. ܬܪܓܠܐ
 
 A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an:
 
@@ -351,23 +351,23 @@ B) Translate and resolve the compounds in Sanskrit:
 
 ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫
 
-C) Render sentences A) 1-4 in Sanskrit by replacing the Dative Infinitives (⟪तुमुन्⟫) with ⟨IAST_L_N⟩. Note that the infinitive governs the same case as the corresponding verb.
+[C] ܡܠܦܢܘܬ A) 1-4 ܒܣܡܣܩܪܝܬ ܥܒܕ ܠܟܘܢ ܐܪܡܝܬ ܕܣܓܠ ܦܘܪܟ (⟪तुमुन्⟫) ܒ ⟨IAST_L_N⟩. ܕܪܘܟ ܦܘܪܟ ܠܐ ܡܬܒܕܠ ܡܢ ܦܘܪܟ ܐܝܠܕ.
 
-D) Replace in sentence A) 7 the construction with -⟪अर्थ⟫ with an equivalent Dative.
+[D] ܒܡܠܦܢܘܬ A) 7 ܐܪܡܝ ܕ-⟪अर्थ⟫ ܠܡܕܟ ܒܣܓܠ ܕܝܬܝܪ.
 
 E) Replace in sentence A) 6 the Dative construction with an equivalent construction using -⟪अर्थ⟫
 
-## 24.6. Further exercises on the use of the Dative
+## 24.6. ܬܪ̈ܓܡܬܐ ܐܚܪ̈ܢܝܬܐ ܥܠ ܡܬܚܫܚܢܘܬܐ ܕܝܗܒܢܐ
 
 Translate to Sanskrit:
 
-1\. The goddess, who has not been offered sacrifice, is angry with humans.
+1\. ܐܠܗܬܐ، ܕܠܝܣܘܡ ܗܘܬ ܟܢܫܐ، ܥܠ ܒܪ̈ܢܫ̈ܐ.
 
 2\. He lets the cow loose into the village.
 
 3\. Now it's enough = Enough with patience.
 
-4\. That is good (⟪हित⟫, ⟪सुख⟫) for a Brahmin.
+4\. ܗܘ ܛܒ (⟪हित⟫, ⟪सुख⟫) ܠܟܗܢܐ.
 
 5\. Reverence (⟪नमस्⟫) be to Śiva! Reverence be to Śrī Gaṇeśa!
 
@@ -387,21 +387,21 @@ Fig.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 10\. After I have bowed before the three sages (Acc.) (⟪नमस्कृ⟫)... He bows before Narasiṃha (Dat.)
 
 ::: indent
-Explanation: ⟪मुनित्रयम्⟫ "the triad of sages = the three sages" = the grammarians ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
+ܣܦܪܐ: ⟪मुनित्रयम्⟫ "ܬܠܬܐ ܣܟܠ̈ܝܐ = ܬܠܬܐ ܣܟܠ̈ܝܐ" = ܡܫܦܛ̈ܝܐ ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
 :::
 ::: media
 ![](/images/lekt2410.webp)
-Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
-⟪नरसिंह⟩ tears apart ⟪हिरण्यकशिपु⟫, page from a manuscript of the ⟪भागवतपुराण⟫
-(Image source: [Details](/arc/licenses#lekt2410))
+ܬܫܥܝܬܐ: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
+⟪नरसिंह⟩ ܡܩ̈ܠܩܠ ܐܢܫ ⟪हिरण्यकशिपु⟫, ܕܝܩܘܡܬܐ ܡܢ ܟܬ̈ܒܐ ܕܝܠܦܢܘܬܐ ܕ⟪भागवतपुराण⟫
+(ܡܝܕܥ ܠܐܘܬܐ: [ܦ̈ܪܣܡ̈ܝܐ](/arc/licenses#lekt2410))
 :::
-11\. Welcome (⟪स्वागतम्⟫) to you. Welcome the queen.
+11\. ܫܠܡ̈ܐ (⟪स्वागतम्⟫) ܠܟ. ܫܠܡ̈ܐ ܠܡܠܟܬܐ.
 
 12. I wish you well-being (⟪कुशल⟫) = Well-being to you!
 
 13. He does not regard him as a blade of grass.
 
-14. One fruit suffices for eating and water for drinking.
+14. פּܪܝ ܚܕ ܐܦܩ ܠܡܟܠ ܘܡܝܐ ܠܫܬܝ.
 
 15⟪१५⟫. Until we meet again! (Neo-Sanskrit: ⟪पुनर्दर्शनाय⟫)
 

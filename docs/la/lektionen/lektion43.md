@@ -79,7 +79,7 @@ Tertia persona singularis aoris sive optativi forma est idem ac secunda persona 
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अचोरयस्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयथास्⟫ | ⟪अचोरयध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪चोरयेस्⟫ | ⟪चोरयेत⟫ | ⟪चोरयेथास्⟫ | ⟪चोरयेध्वम्⟫ |
 
-#### 43.2.1.5. Passivum
+#### 43.2.1.5. Passivumum
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -249,7 +249,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: voluptas, laetitia
 
-## 43.5. Übung
+## 43.5. Exercitium
 
 A) Formam secundae personae in tempore, numero, modo et ceteris correspondentem his verbis:
 

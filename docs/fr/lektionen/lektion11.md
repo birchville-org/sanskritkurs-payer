@@ -38,7 +38,7 @@ par ex. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं�
 » Passif : **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
 :::
 
-## 11.2. Wortliste
+## 11.2. Liste de mots
 
 **Apprenez les mots suivants :**
 
@@ -76,7 +76,7 @@ Fig. : **vadanāni** = ⟪वदनानि⟫
 - **iṣ** 6 P ⟪इष्⟫ : souhaiter
   - **iṣṭi** f. ⟪इष्टि⟫ : souhait (**iṣ** + **-ti**)
 
-## 11.3. Übung
+## 11.3. Exercice
 
 **A) Traduisez les phrases ci-dessous :**
 

@@ -9,7 +9,7 @@ status: stable
 
 # Lezione 57
 
-## 57.1. Aoristo 4: s-Aorist
+## 57.1. Aoristo 4: s-Aoristo
 
 ::: grammar-box
 **Lo s-Aorist si forma per la maggior parte delle radici ⟪अनिट्⟫, purché non abbiano esclusivamente un'altra forma di aoristo. Le radici ⟪अनिट्⟫ facoltative possono in generale formare opzionalmente questo o l'iṣ-Aorist. Anche le radici ⟪अनिट्⟫, che formano lo ⟪परस्मैपद⟫ dopo la 1., 2. o 6. forma dell'aoristo, formano lo ⟪आत्मनेपद⟫ secondo lo s-Aorist.**

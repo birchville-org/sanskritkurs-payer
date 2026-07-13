@@ -4,7 +4,7 @@
 
 ![](/images/schrift009.webp)
 
-The following form is also commonly used for jha:
+[B0] Bentuk berikut juga umum digunakan untuk jha:
 
 ![](/images/schrift010.jpg)
 

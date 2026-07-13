@@ -133,7 +133,7 @@ Quera era era resalvabla: ⟪देवस्य⟫ / ⟪देवानां⟫
 
 ⟪बुद्धरक्षिता⟫ = ⟪⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "quella che è stata protetta dal Buddha" (un nome proprio)
 
-## 15.5. Zerlegung von Komposita (außer Dvandvas)
+## 15.5. Decomposiziun da composita (cun excepziun dals Dvandvas)
 
 ::: grammar-box
 Anche se en sànscrit ponnan esser formatas cumpostas da lunghezza arbitraria e quai era fitg spess (cumpostas cun 10 fin 32 elements na èn betg in’excepziun!), èn tuttas cumpostas – cun l’eccepziun dals dvandvas – progressivas e hierarchicas, e pon vegnir divididas en dus parts:
@@ -235,7 +235,7 @@ p.ex.
 9.  PPP + PPP negà: "parzialmain", p.ex. ⟪कृताकृतम्⟫ = "parzialmain fatg"
 10.  ⟪द्विगुसमासः⟫ : numeral en il prim element
 
-## 15.8. Wortliste
+## 15.8. Glista da pleds
 
 ⟪पुष्कल⟫ 3: bellus, splendido, abundant
 
@@ -389,7 +389,7 @@ Scolvi las suentas cumposiziuns sco Tatpuruṣa en sanscrit e dondai ina traduct
 
 ⟪३०⟫. ⟪सत्यवदनम्⟫
 
-## 15.10. Übung 2
+## 15.10. Exercizi 2
 
 Solvìt sco en l'exercizi 1 suvents Tatpuruṣa:
 

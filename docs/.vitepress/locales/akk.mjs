@@ -12,6 +12,7 @@ export const akk = {
       { text: 'Qibītu ša ṭuppī', link: '/akk/lektionen/inhaltsverzeichnis' },
       { text: 'Grammaṭu', link: '/akk/grammatik' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
+      { text: '<span class="nav-gear-icon"></span>', link: '/akk/settings', ariaLabel: 'Settings' },
       { text: 'Tâmartum', link: '/akk/impressum' }
     ],
     docFooter: {

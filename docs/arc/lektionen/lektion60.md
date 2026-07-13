@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 60
+# ܡܠܦܢܐ 60
 
-## 60.1. The Dual endings of the Perfect (⟪द्विवचनम्⟫)
+## 60.1. ܫܽܘܠܳܡܶܐ ܕܬܪܝܳܢܳܐ ܕܡܰܫܠܡܳܢܳܐ (⟪ܕܘܝܘܰܟܰܢܰܡ⟫)
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
@@ -17,9 +17,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | \-athur | \-āthe |
 | 3\. ⟪प्रथमः⟫ | \-atur | \-āte |
 
-## 60.2. The dual of the reduplicated perfect (⟪द्वित्वलिट्⟫)
+## 60.2. ܬܪܝܢܐ ܕܡܫܠܡܢܐ ܡܟܦܠܐ (ܕܘܝܬܘܐܠܝܛ)
 
-### 60.2.1. Typ 1: keine Stammabstufung
+### 60.2.1. ܐܕܫܐ ܩܕܡܝܐ: ܠܝܬ ܫܘܚܠܦܐ ܕܫܪܫܐ
 
 ⟪बन्ध्⟫ 9P "binden"
 
@@ -39,7 +39,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
 :::
-### 60.2.2. Typ 2: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 60.2.2. ܕܪܓܐ 2: ܫܪܫܐ ܚܝܠܬܢܐ ܕܪܓܬܐ ܥܠܝܬܐ, ܫܪܫܐ ܟܪܝܗܐ ܕܪܓܬܐ ܬܚܬܝܬܐ
 
 ⟪भिद्⟫ 7U "spalten"
 
@@ -50,9 +50,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
 :::
-### 60.2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe
+### 60.2.3. ܛܽܘܦܣܳܐ 3: ܓܶܕܠܳܐ ܚܰܝܠܳܢܳܐ ܕܕܰܪܓܳܐ ܥܶܠܳܝܳܐ/ܕܕܰܪܓܳܐ ܡܰܘܫܰܛܬܳܐ
 
-#### 60.2.3.1. Typ 3a: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 60.2.3.1. ܕܡܘܬܐ 3a: ܫܪܫܐ ܚܝܠܬܢܐ ܕܪܓܐ ܥܠܝܐ/ܡܬܡܬܚܢܐ, ܫܪܫܐ ܟܪܝܗܐ ܕܪܓܐ ܬܚܬܝܐ
 
 ⟪नी⟫ 1U "lead"
 
@@ -81,7 +81,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
 :::
-#### 60.2.3.2. Type 3b: Strong stem, strong grade/lengthened grade; weak stem, strong grade
+#### 60.2.3.2. ܡܕܡܐ 3ܒ: ܫܪܫܐ ܚܝܠܬܢܐ, ܕܪܓܬܐ ܚܝܠܬܢܝܬܐ/ܕܪܓܬܐ ܡܘܪܟܬܐ; ܫܪܫܐ ܟܪܝܗܐ, ܕܪܓܬܐ ܚܝܠܬܢܝܬܐ
 
 ⟪स्मृ⟫ 1P "presentify"
 
@@ -92,7 +92,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
 :::
-### 60.2.4. Typ 4: Wurzeln auf -ā / -ai
+### 60.2.4. ܛܘܦܣܐ ܕ: ܥܩܪ̈ܐ ܥܠ -ܐ̄ / -ܐܝ
 
 ⟪दा⟫ 3U "give"
 
@@ -105,9 +105,9 @@ status: stable
 
 \* identisch mit den entsprechenden Formen des Indikativ Präsens!
 :::
-### 60.2.5. Type 5: Consonant-a-Consonant
+### 60.2.5. ܐܕܫܐ ܚܡܝܫܝܐ: ܩܢܨܘܢܢܛ-ܐ-ܩܢܨܘܢܢܛ
 
-#### 60.2.5.1. Type 5a: Consonant-a-Consonant, weak stem deep grade
+#### 60.2.5.1. ܕܡܘܬܐ 5ܐ: ܚܪܦܬܐ-ܐ-ܚܪܦܬܐ, ܫܪܫܐ ܟܪܝܗܐ ܕܪܓܐ ܥܡܝܩܐ
 
 ⟪गम्⟫ 1U "to go"
 
@@ -118,7 +118,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪जग्मतुर्⟫ | ⟪जग्माते⟫ |
 :::
-#### 60.2.5.2. Type 5b: Consonant-a-Consonant, initial consonant not a guttural, aspirate, h, weak stem without reduplication, with -e-
+#### 60.2.5.2. ܕܡܘܬܐ 5ܒ: ܫܪܘܝܬܐ-ܐ-ܫܪܘܝܬܐ, ܫܪܘܝܬܐ ܩܕܡܝܬܐ ܠܐ ܓܪܓܪܢܝܬܐ, ܢܦܚܢܝܬܐ, ܗ, ܓܕܫܐ ܟܪܝܗܐ ܕܠܐ ܬܘܪܨܐ, ܥܡ -ܐܝ-
 
 ⟪पच्⟫ 1U "garen"
 
@@ -129,7 +129,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
 :::
-#### 60.2.5.3. Type 5c: Consonant-a-Consonant, weak stem strong grade
+#### 60.2.5.3. ܛܽܘܦܣܳܐ 5c: ܚܰܪܦܳܐ ܫܰܬܺܝܩܳܐ-ܐ-ܚܰܪܦܳܐ ܫܰܬܺܝܩܳܐ, ܫܶܪܫܳܐ ܟܪܺܝܗܳܐ ܕܰܪܓܳܐ ܚܰܝܠܳܢܳܐ
 
 ⟪क्रम्⟫ 1U "to stride"
 
@@ -140,7 +140,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
 :::
-## 60.3. Der Dual des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 60.3. ܬܪܰܝܳܢܳܐ ܕܓܡܺܝܪܳܐ ܦܶܪܺܝܦܪܰܣܛܺܝܩܳܐ (⟪ܐܰܢܽܘܦܪܰܝܳܓܠܺܝܛ⟫)
 
 ⟪गण्⟫ 10P "to count"
 
@@ -160,16 +160,16 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ |
 :::
-## 60.4. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
+## 60.4. ܡܫܰܬܦܳܢܳܐ ⟪ܦܰܪܰܣܡܰܝܦܳܕ⟫ ܕܡܰܫܠܡܳܢܳܐ ܡܬܰܠܬܳܢܳܐ (⟪ܕܘܝܬܘܰܠܝܬ⟫)
 
 ::: grammar-box
 **Education:**
 
 **weak perfect stem + vāṃs**
 
-**If the weak perfect stem consists of only one syllable, then the connecting vowel -i- is added. In some perfect forms, the connecting vowel is optional.**
+**אִם שְׁרַשׁ הַתָּמִים הַחֲלוּשׁ מְאֻרָּךְ בְּהוּא סוֹלִיד, אָז יוֹסֵף הַתְּנוּעָה מְחַבֶּרֶת -i-. בְּכַמָּה צוּרוֹת תָּמִים, הַתְּנוּעָה מְחַבֶּרֶת הִיא אֵין סָפוֹק.**
 :::
-Examples:
+דְּמֵי:
 
 | ⟪भिद्⟫ 7U | ⟪बिभिद्वांस्⟫ "jemand, der gespalten hat" |
 | --- | --- |
@@ -205,26 +205,26 @@ See paradigms in Kielhorn, Grammar § 124:
 ![](/images/lekt6002.webp)
 (Image source: [Details](/arc/licenses#lekt6002))
 :::
-## 60.5. Declension of stems ending in -añc (-ac)
+## 60.5. ܢܚܬܬܐ ܕܫܪ̈ܫܐ ܕܡܫܬܠܡܝܢ ܒ -ܐܢܟ (-ܐܟ)
 
 ::: grammar-box
-**The stems on -añc/-ac are compounds of prepositions etc. with the root noun of the root ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "to move".**
+**השורשים בסיום -añc/-ac הם צירופים של תנועות וכו' עם שם השורש של השורש ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "לזוז".**
 :::
-### 60.5.1. Three-stemmed stems on -añc
+### 60.5.1. ܫܪ̈ܫܐ ܬܠܬ ܫܪ̈ܫܝܢ ܥܠ -añc
 
 ::: grammar-box
 **Education:**
 
-*   **strong stem: -añc**
-*   **weak stem:**
-    *   **before consonant: -ac**
-    *   **before vowel:**
-        *   **the -a- of the weak stem -ac is dropped and a preceding semivowel is replaced by the corresponding long vowel:**  
-            ⟪प्रत्यच्⟫ » ⟪प्रतीच्⟫  
-            ⟪अन्वच्⟫ » ⟪अनूच्⟫
-        *   **if no semivowel precedes -ac, -ac is replaced by -īc:**  
-            ⟪उदच्⟫ » ⟪उदीच्⟫
-        *   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
+*   **שורש חזק: -añc**
+*   **שורש חלש:**
+*   **לפני עיצור: -ac**
+*   **לפני תנועה:**
+*   **ה-a- של השורש החלש -ac נמחק, ועיצור ביניים קודם מוחלף בתנועה ארוכה מתאימה:**  
+⟪प्रत्यच्⟫ » ⟪प्रतीच्⟫  
+⟪अन्वच्⟫ » ⟪अनूच्⟫
+*   **אם אין עיצור ביניים קודם ל- ac, -ac מוחלף ב-īc:**  
+⟪उदच्⟫ » ⟪उदीच्⟫
+*   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
 
 **Femininum:**
 
@@ -232,7 +232,7 @@ See paradigms in Kielhorn, Grammar § 124:
 
 Example: ⟪प्रतीची⟫
 :::
-####  Paradigms see Kielhorn, Grammar § 128:
+####  ܦܪܕܝܓܡܐ ܚܙܝ ܩܝܠܗܘܪܢ, ܕקדܩܐ § 128:
 
 ::: media
 ![](/images/lekt6003.webp)
@@ -259,7 +259,7 @@ These belong here:
 
 *   ⟪विष्वञ्च्⟫ 3 "going in all directions"
 
-### 60.5.2. Zweistämmige Stämme auf -añc
+### 60.5.2. ܫܪ̈ܫܐ ܕܬܪ̈ܝܢ ܫܪ̈ܫܝܢ ܥܠ -ܐܢܟ
 
 ::: grammar-box
 **Education:**
@@ -283,17 +283,17 @@ The cardinal directions
 
 (Image source: [Details](/arc/licenses#lekt6005))
 
-## 60.6. Das Desiderativum (⟪सन्⟫)
+## 60.6. ܨܶܒܝܳܢܳܝܳܐ (⟪ܣܰܢ⟫)
 
 ::: grammar-box
-**From every root as well as from the causative, a desiderative (⟪सन्⟫) can be formed. The desiderative can be conjugated in all tenses and moods of the P, Ā, and passive. Desiderative forms outside the present stem, however, are very rare.**
+**ܡܢ ܟܠ ܫܪܫܐ ܘܣܓܝ ܦܠܚܢܐ، ܕܡܙ̈ܝܡܬܐ (⟪सन्⟫) ܗܝ ܕܡܬܒ݂ܪܐ. ܕܡܙ̈ܝܡܬܐ ܗܝ ܕܡܬܟܢܫܬ ܒܟܠ ܐܘܩܝܢܐ ܘܒܟܠ ܡܕ̈ܝܢܬܐ ܕܦܪܣ، ܐܠܢ ܐܝܬ. ܕܡܙ̈ܝܡܬܐ ܒܠܫܢܐ ܕܦܪܣ، ܐܠܢ ܗܝ ܕܡܬܒ݂ܪܐ.**
 
 **Meaning:**
 
-*   **a person or thing desires to do or undergo what is expressed by the root or the causative**
-*   **rarely: someone or something is about to do what is expressed by the root or the causative**
+*   **ܐܢܫ ܘܠܐ ܕܡܗܝܡ ܠܥܒܕ ܐܘ ܠܫܬܡܫ ܒܕܝܩܐ ܕܪܬܘܟ ܐܘ ܠܦܥܠ**
+*   **ܢܕܪ ܐܝܟܘܠܗ ܡܢ ܕܡܫܬܐ ܠܥܒܕ ܕܝܩܐ ܕܪܬܘܟ ܐܘ ܠܦܥܠ**
 :::
-####  Examples:
+####  ܡ̈ܠܘܐܐ:
 
 | ⟪कृ⟫ 8U | ⟪चिकीर्षति⟫ "er wünscht zu tun" |
 | --- | --- |
@@ -301,7 +301,7 @@ The cardinal directions
 | ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "er wünscht zu stehlen" |
 | ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" |
 
-### 60.6.1. Bildung des Desiderativstammes
+### 60.6.1. ܨܘܪܬܐ ܕܫܪܫܐ ܕܪܓܬܐ
 
 ::: grammar-box
 **Roots of the Present Classes 1 - 9:**
@@ -312,9 +312,9 @@ The cardinal directions
 
 **reduplicated root + i + ṣa**
 
-The rules for the use of the connecting vowel -i- see Kielhorn, Grammar § 443 - 445.
+כללי השימוש באות החיבור -i- ראו קילפורן, דקדוק סעיפים 443 - 445.
 
-**Roots of the 10th Present Class and Causatives:**
+**שורשי כיתה הנוכחית העשרה וסיבתיות:**
 
 **reduplicated present stem + i + ṣa**
 :::
@@ -323,65 +323,65 @@ The rules for the use of the connecting vowel -i- see Kielhorn, Grammar § 443 -
 
 1.  The root is mostly deep-level: ⟪जीव्⟫ » ⟪जिजीविष⟫-
 
-    1.  final -i, -u is replaced by -ī or -ū respectively, when no connective vowel follows:  
-        ⟪जि⟫ » ⟪जि⟫***⟪गी⟫***⟪ष⟫- "to wish to conquer"  
-        ⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- "to wish to run"
+1.  איתר -i, -u אתגבר על -ī או -ū באתרא דלא יתיר מילתא מחבר:  
+⟪जि⟫ » ⟪⟪जि⟫***⟪गी⟫***⟪ष⟫- "לרצון לכבוש"  
+⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- "לרצון לרוץ"
 
-    2.  final -ṛ, -ṝ is replaced by -īr, after labials by -ūr, if no connecting vowel follows:  
-        ⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- "to wish to do"  
-        ⟪मृ⟩ » ⟪मु⟫***⟪मूर्ष⟫***\- "to be about to die"  
-        ⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "to wish to fill"
+2.  איתר -ṛ, -ṝ אתגבר על -īr, בתר חכמים -ūr, אם לא יתיר מילתא מחבר:  
+⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- "לרצון לעשות"  
+⟪मृ⟩ » ⟪मु⟫***⟪मूर्ष⟫***\- "לרצון למות"  
+⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "לרצון למלא"
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ and some other roots on -ā, -e, -o have the zero-grade:  
         ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
         ⟪धा⟫ » ⟪धित्स⟫-  
         ⟪मा⟫ » ⟪मित्स⟫-
 
-2.  High-level roots have in the desiderative:
-    1.  most roots on -ā (-e, -ai etc.):
-        ⟪गै⟫ » ⟪जिगास⟫- "to wish to sing"
-        ⟪पा⟫ » ⟪पिपास⟫- "to wish to drink, to thirst"
+[0] 2. שרשי רמה גבוהה יש להם בדורש:
+[1]     1. רוב השורשים על -ā (-e, -ai וכו'):
+[2]         ⟪गै⟫ » ⟪जिगास⟫- "לרצות לשיר"
+[3]         ⟪पा⟫ » ⟪पिपास⟫- "לרצות לשתות, לצמא"
 
-    2.  most roots of the form (consonant -) a / ā - consonant:  
-        ⟪दह्⟫ » ⟪दिधक्ष⟫- "to wish to burn"  
-        ⟪खाद्⟫ » ⟪चिखादिष⟫- "to wish to chew"
+[5]     2. רוב השורשים בצורה (עיצור -) a / ā - עיצור:  
+[6]         ⟪दह्⟫ » ⟪दिधक्ष⟫- "לרצות לבעור"  
+[7]         ⟪खाद्⟫ » ⟪चिखादिष⟫- "לרצות ללעוס"
 
-    3.  upon the addition of the connecting vowel -i-:
-        1.  obligatory: roots of the form i/u - consonant as well as (consonant -) ṛ/ḷ - consonant:
-            ⟪इष्⟫ » ⟪एषिषिष⟫- "to wish desire"
-            ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "to wish to be suitable"
-            ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- "to wish to smile"
+[9]     3. בעת הוספת התנוכה המחברת -i-:
+[10]         1. חובה: שורשים בצורה i/u - עיצור כמו גם (עיצור -) ṛ/ḷ - עיצור:
+[11]             ⟪इष्⟫ » ⟪एषिषिष⟫- "לרצות חשק"
+[12]             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "לרצות להתאים"
+[13]             ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- "לרצות לחייך"
 
-        2.  optionally: Roots of the form Consonant - (Consonant -) i/u - Consonant except -v\_  
-            ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "to wish to flash"
-:::
-::: grammar-box
-**On reduplication:**
+[15]         2. באופן אופציונלי: שורשים בצורה עיצור - (עיצור -) i/u - עיצור למעט -v\_  
+[16]             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "לרצות להבהב"
+[17] :::
+[18] ::: grammar-box
+[19] **על כפילות:**
 
-1.  Consonant-initial roots: Reduplication occurs on the roots modified according to the above rules, following the usual rules. Instead of a as the reduplicating vowel, i appears:  
-    ⟪पा⟫ » ⟪पिपास⟫-  
-    ⟪त्यज्⟫ » ⟪तित्यज⟫-  
-    ⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
-    The cerebralization after i/u of final -s of the root is omitted when the s of the desiderative suffix is cerebralized:  
-    ⟪स्मि⟫ » ⟪सिस्मयिष⟫-
+1. שרשיים ברישא דכנויי: מוסיפין את הדוכנא על שרשיים דמתקנין כדכתיב לעיל, בתר כללי דשכיחין. במקום א כדוכנא, י' מתיצב:  
+⟪पा⟫ » ⟪पिपास⟫-  
+⟪त्यज्⟫ » ⟪तित्यज⟫-  
+⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
+דכנוייה דסוף שרשא ביו"ד/ו' לא עבדין כשסוף דתענוגא מתכנע:  
+⟪स्मि⟫ » ⟪सिस्मयिष⟫-
 
-2.  Vowel-initial roots are reduplicated according to the corresponding rules for the reduplicated aorist ([Lesson 56](lektion56.md)):  
-    ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
-    ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
-    ⟪ऋ⟫ » ⟪अरिरिष⟫-
+2. שרשיים ברישא דמילתא מתכנעין ככללי דדוכנא אוריסט ([Lektion 56](lektion56.md)):  
+⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
+⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
+⟪ऋ⟫ » ⟪अरिरिष⟫-
 
-3.  The special desiderative formation of certain roots see in Kielhorn, Grammar § 451.
-:::
-::: grammar-box
-**For some roots, desideratives are formed without desiderative meaning. For these desideratives, desideratives with desiderative meaning can be formed.**
-:::
-List in Kielhorn, Grammar § 452:
+3. דכנוייה מיוחדת לשרשיים מסוימים ראה בKielhorn, Grammar § 451.  
+:::  
+::: grammar-box  
+**לשרשיים מסוימים, דכנויי עבדין בלא משמעות דתענוגא. לדכנויי אלו, דכנויי עם משמעות דתענוגא יכולין לעשות.**  
+:::  
+רשימת בKielhorn, Grammar § 452:
 
 ::: media
 ![](/images/lekt6006.webp)
 (Image source: [Details](/arc/licenses#lekt6006))
 :::
-### 60.6.2. Conjugation of the Desiderative (⟪सन्⟫)
+### 60.6.2. ܨܶܪܦܳܐ ܕܪܳܓܳܢܳܐ (⟪ܣܰܢ⟫)
 
 ::: grammar-box
 **The Desiderative is — with few exceptions — P, Ā, or U, depending on whether the underlying root (or underlying verbal stem) is P, Ā, or U.**
@@ -413,7 +413,7 @@ Passive: ⟪यियक्ष्यते⟫ "it is wished to sacrifice"
 :::
 For the formation of agent nouns in -u from the desiderative stem, see [Lesson 54](lektion54.md).
 
-## 60.7. Übung
+## 60.7. ܬܪܓܠܐ
 
 A) Learn in Kielhorn, Grammar § 451 the irregular desiderative formations for previously learned verbs:
 

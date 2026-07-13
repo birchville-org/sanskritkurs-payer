@@ -12,6 +12,7 @@ export const cop = {
       { text: 'ⲡⲓⲡⲓⲛⲁⲝ', link: '/cop/lektionen/inhaltsverzeichnis' },
       { text: 'ⲅⲣⲁⲙⲙⲁⲣⲓⲟⲛ', link: '/cop/grammatik' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
+      { text: '<span class="nav-gear-icon"></span>', link: '/cop/settings', ariaLabel: 'Settings' },
       { text: 'ⲡⲓⲧⲁⲓⲟ', link: '/cop/impressum' }
     ],
     docFooter: {

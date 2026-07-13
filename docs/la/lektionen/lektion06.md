@@ -92,7 +92,7 @@ Exemplum **yaj** = ⟪यज्⟫ = "sacrificio colere", "sacrificare":
 
 ## 6.5. Bildung des Präsensstamms
 
-### 6.5.1. Verben der 6. Präsensklasse (tudādi = ⟪तुदादि⟫ = "tud usw.")
+### 6.5.1. Verba classis sextae praesentis (tudādi = ⟪tudādi⟫ = "tud etc.")
 
 ::: grammar-box
 **Radix praesentis = radix in gradu profundo (ubi indicatur) + a-**
@@ -102,7 +102,7 @@ Exemplum **yaj** = ⟪यज्⟫ = "sacrificio colere", "sacrificare":
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
 :::
-### 6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
+### 6.5.2. Verba classis primae praesentis (bhvādi / bhūvādi = ⟪bhvādi⟫ / ⟪bhūvādi⟫ = "bhū etc.")
 
 ::: grammar-box
 | Radix praesentis = radix in gradu superiori (rarissime in gradu productiore) + a- ||||
@@ -129,7 +129,7 @@ Ante vocales, in medio verbi, **e** per **ay**, **o** per **av** mutatur.
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verben der 4. Präsensklasse (divādi = ⟪दिवादि⟫ = "div usw.")
+### 6.5.3. Verba classis quartae praesentis (divādi = ⟪divādi⟫ = "div etc.")
 
 ::: grammar-box
 **Radix praesentis = radix in gradu profundo (in qua enuntiatur) + ya-**
@@ -157,7 +157,7 @@ Vocale tematisum in suffixis formationis radicis classium praesentium appellatur
 - Responsio: **omnino bene** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Mihi) omnino bene est."
 :::
 
-## 6.7. Wortliste
+## 6.7. Vocabularium
 
 ::: grammar-box
 In Sanscrito verba per **formam radicis** indicantur. Numerus post radicem **classem coniugationis** significat.
@@ -179,7 +179,7 @@ In Sanscrito verba per **formam radicis** indicantur. Numerus post radicem **cla
 - **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : intrare
 - **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : dimittere, ex se emittere, emanare facere
 
-## 6.8. Übung
+## 6.8. Exercitium
 
 **A) Coniungite verbales sententias radices in parenthesibus indicatas inserendo:**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)

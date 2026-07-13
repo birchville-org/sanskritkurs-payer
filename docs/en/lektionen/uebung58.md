@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 58
 
-## A) iṣ-Aorist Transformations
+## A) इष्-लुङ् Transformations
 
 Determine and translate the following forms and form the corresponding forms of the **iṣ-Aorist**:
 

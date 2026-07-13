@@ -7,9 +7,9 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 29
+# 第29课
 
-## 29.1. Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum
+## 29.1. Parasmaipada 的使用 (⟪परस्मैपद⟫) 以及 Ātmanepada (⟪आत्मनेपद⟫) 在使役动词中
 
 ::: grammar-box
 **除少数例外外，使役语态属于双格动词（⟪उभयपद⟫）**
@@ -33,7 +33,7 @@ status: stable
 
 因此，这些规则通常与使用 Ātmanepada（⟪आत्मनेपद⟫）的规则一致，适用于 Ubhayapada（⟪उभयपद⟫）动词。
 
-## 29.2. Wortliste
+## 29.2. 词汇表
 
 前缀：
 
@@ -166,7 +166,7 @@ PPP ⟪पूजित⟫
 
 ⟪।१६।⟫ ⟪चतुर्⟫ "चतुर्" (catus) 作为复合词的前半部分
 
-⟪राज्ञा⟫ Instr. sg. mask. zu ⟪राजन्⟫ m. "König"
+⟪राज्ञा⟫ 工具格单数阳性，对应 ⟪राजन्⟫ m. “国王”
 
 ⟪स्वेषु⟫：Lok. 复数 阳性/中性 对应 ⟪स्व⟫ ⟪३⟫ “自己的（我的、你的、他的等）”
 

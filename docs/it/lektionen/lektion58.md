@@ -275,7 +275,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5801))
 :::
-## 58.6. Aoristo 5: aoristo iṣ-Aorist
+## 58.6. Aoristo 5: aoristo iṣ-Aoristo
 
 ::: grammar-box
 **L'aoristo iṣ-Aorist viene formato da tutte le radici seṭ per le quali non viene esplicitamente insegnata esclusivamente un'altra forma dell'Aoristo.**

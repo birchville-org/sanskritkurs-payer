@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 20
+# ܐܘܪܬܐ 20
 
-## 20.1. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
+## 20.1. ܡܰܪܟܒܹܐ ܕܩܢܝܼܢܵܐ = ⟪ܒܲܗܘܼܒ݂ܪܝܼܗܝ⟫ ܕܲܟ݂ܪܵܢܵܐ
 
 ::: media
 ![](/images/lekt2004.webp)
@@ -21,7 +21,7 @@ Jodhpur = ⟪जोधपुर⟫
 
 ::: grammar-box
 
-**A Bahuvrīhi denotes, in contrast to a Tatpuruṣa, something other than what is expressed by its members: while ⟪बालपुत्रः⟫, resolved as a Tatpuruṣa, means "a young son," i.e., something expressed by the final member of the compound (⟪पुत्र⟫), ⟪बालपुत्रः⟫, resolved as a Bahuvrīhi, means "one whose son is young," i.e., the referent is neither the son (⟪पुत्र⟫) nor necessarily young (⟪बाल⟫), but a person distinct from the young son, namely his father.**
+**بֿוהַרִיְה (Bahuvrīhi) מְדַבֵּר, בְּהֶפֶךְ לְתַטְפוּרֻשָׁה (Tatpuruṣa), עַל דָּבָר אַחֵר מִמַּה שֶׁנִּתְבָּרֵר בְּחַלְקֵי הַהֶאָרוֹת: בְּעוֹד שֶׁ ⟪बालपुत्रः⟫, פָּתוּר כְּתַטְפוּרֻשָׁה (Tatpuruṣa), מְיַחֵד "בֶּן צָעִיר", כלומר, דָּבָר שֶׁנִּתְבָּרֵר בַּחֵלֶק הָאַחֲרוֹן שֶׁל הַהֶאָרָה (⟪पुत्र⟫), ⟪बालपुत्रः⟫, פָּתוּר כְּבֿוהַרִיְה (Bahuvrīhi), מְיַחֵד "אִישׁ שֶׁבְּנוֹ צָעִיר", כלומר, הַמֶּרְחָק אֵינוֹ בֶּן (⟪पुत्र⟫) וְלֹא מִצְטָרֵךְ לִהְיוֹת צָעִיר (⟪बाल⟫), אַךְ אִישׁ מוּבָדֵל מִן הַבֶּן הַצָּעִיר, וְהוּא אָבִיו.**
 
 **Possessive compounds are initially always adjectives, which however can be substantivized. Therefore, the grammatical gender of a Bahuvrīhi depends on what the Bahuvrīhi refers to, and not on the gender of the final component of the compound.**
 
@@ -30,7 +30,7 @@ Jodhpur = ⟪जोधपुर⟫
 
 **Schema for resolving a Bahuvrīhi:**
 
-**1. member mostly in the nominative (⟪प्रथमा⟫) singular, dual, or plural -- 2. member in the nominative singular, dual, or plural -- relative pronoun in a case other than the nominative (mostly genitive - ⟪षष्ठी⟫) and in gender and number of the total bahuvrīhi -- demonstrative pronoun in number, case, and gender of the total bahuvrīhi.**
+[0] **1. member mostly in the nominative (⟪प्रथमा⟫) singular, dual, or plural -- 2. member in the nominative singular, dual, or plural -- relative pronoun in a case other than the nominative (mostly genitive - ⟪षष्ठी⟫) and in gender and number of the total bahuvrīhi -- demonstrative pronoun in number, case, and gender of the total bahuvrīhi.**
 
 :::
 Examples:
@@ -72,7 +72,7 @@ Traditionally, one distinguishes:
 
 *   ⟪व्यधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ stehen Vorderglied und Hinterglied in verschiedenen Kasus
 
-## 20.2. Bahuvrīhi mit attributivem Vorderglied
+## 20.2. ܒܲܗܘܼܒ݂ܪܝܼܗܝ ܥܼܡ ܩܕܼܡܵܝܬܵܐ ܕܨܶܦܬܵܐ
 
 ::: grammar-box
 
@@ -85,9 +85,9 @@ Traditionally, one distinguishes:
 **Example:**
 
 ::: indent
-⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = "a Brāhmaṇa, whose son / sons possesses / possess good qualities"
+⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = "ܐܝܠܘ ܒܪܗ / ܒܪ̈ܗ ܠܘܛ ܟܝܢܬܐ ܨܒ̈ܘ"
 :::
-**Particularly frequent is the -- rare in Tatpuruṣa -- attributive determination by a PPP. The relative pronoun then usually stands in the resolution in the Instrumental (⟪तृतीया⟫) (rarely in the Genitive / ⟪षष्ठी⟫).**
+**ܒܝܫ ܐܘܪ̈ܚܐ ܗܘ ܕ - ܩܠܐ ܒܬܪ̈ܢܝܐ - ܕܝܩܘܢܐ ܒܬܪ̈ܢܝܐ ܒܦܠܘܟ. ܡܕܥܐ ܪ̈וואי ܒܬܩܝܡ ܠܗ ܒܦܘܪܟܐ (⟪तृतीया⟫) (ܩܠܐ ܒܬܪ̈ܢܝܐ / ⟪षष्ठी⟫).**
 
 **Faustregel:**
 
@@ -99,7 +99,7 @@ Traditionally, one distinguishes:
 ::: indent
 ⟪कृतफल⟫ ⟪३⟫ = ⟪कृतं⟫ ⟪फलं⟫ ye⟪न⟫ ⟪सः⟫ ⟪।⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫ ye⟪न⟫ ⟪तत्⟫ = "one / a / an, who / who / which has produced a result, someone / something effective"
 :::
-## 20.3. Bahuvrīhi with appositional first member
+## 20.3. ܒܰܗܽܘܘܪܺܝܗܺܝ ܥܰܡ ܗܰܝܡܳܢܽܘܬܳܐ ܩܰܕܡܳܝܬܳܐ
 
 ::: grammar-box
 
@@ -114,53 +114,53 @@ Traditionally, one distinguishes:
 ::: indent
 ⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = "a man whose sons are heroes"
 
-⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "the / the / the, whose end this is" = "ending with that"
+⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "ܗܵܢܵܐ / ܗܵܕܹܐ / ܗܵܢܵܐ، ܕܗܵܢܵܘ ܫܘܼܠܵܡܹܗ" = "ܡܸܫܬܲܠܡܵܢܵܐ ܒܗܵܘ"
 :::
 ::: grammar-box
 
-**Very important are appositional Bahuvrīhi with the final members ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ "first, beginning", less frequently ⟪प्रभृति⟫ "beginning". Such compounds correspond to "etc.":**
+**ܚܲܫܝܼܚܝܼܢ ܗܸܢ݇ܘ݂ܿܢ ܛܵܒ݂ ܒܲܗܘܼܪܝܼܗܝ ܐܲܦܘܿܙܝܼܛܝܼܘܵܝܹ̈ܐ ܥܲܡ ܗܲܕܵܡܹ̈ܐ ܐ̄ܚܪܵܝܹ̈ܐ ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ "ܪܹܝܫܵܝܵܐ، ܫܘܼܪܵܝܵܐ"، ܘܲܒ݂ܙܵܥܘܿܪ ⟪प्रभृति⟫ "ܫܘܼܪܵܝܵܐ". ܟܲܪ̈ܟܹܐ ܐܲܝܟ݂ ܗܵܠܹܝܢ ܗܵܘܹ̇ܝܢ ܗܵܢܝ݇ܢ ܕܡܸܫܬܲܠܡܝܼܢ ܠـ"ܘܲܟ݂ܘ̇":**
 
 **Example:**
 
 :::
 ::: indent
-⟪देवा⟫ ⟪इन्द्रादयः⟫ =  ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪ते⟫ ⟪देवाः⟫ = "The gods, whose beginning is Indra" = "the gods Indra and so forth" = "Indra and the other gods"
+⟪देवा⟫ ⟪इन्द्रादयः⟫ =  ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪ते⟫ ⟪देवाः⟫ = "ܐܠ̈ܗܬ ܕܪܒܝܘܗܝ ܐܝܢܕܪܐ" = "ܐܠ̈ܗܬ ܐܝܢܕܪܐ ܘܟܠܗܝ" = "ܐܝܢܕܪܐ ܘܐܠ̈ܗܬ ܐܚܪܢܝܘܬܐ"
 :::
-**To express "only" one can use bahuvrīhis with ⟪मात्रा⟫ f. "measure, limit" as the final member:**
+**ܠܡܫܟܚ "ܒܪܘܬ" ܐܝܟܠ ܡܕܒܪ ܒܗܘܬܐ ܥܡ ⟪मात्रा⟫ "ܡܕܘܬ" ܐܝܟ ܚܠܦ:**
 
 **Example:**
 
 ::: indent
-⟪शब्दमात्रम्⟫ = ⟪शब्दो⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तत्⟫ = "that, whose measure is a word" = "only a word"
+⟪शब्दमात्रम्⟫ = ⟪शब्दो⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तत्⟫ = "ܕܐܝܬ ܠܗ ܡܚܣܢܐ ܕܟܘܠܬܐ" = "ܪܒܝ ܟܘܠܬܐ"
 :::
-**⟪मात्र⟫ after a PPP is to be translated as "as soon as":**
+**⟪मात्र⟫ ܒܥܕܪ ܦܐܠ ܡܫܬܩܠ ܟܕܝܪ: **"
 
 **Example:**
 
 ::: indent
-⟪जातमात्रं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = ⟪जातं⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = "they slay an enemy whose measure is arising" = "they slay the enemy as soon as it has arisen"
+⟪जातमात्रं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = ⟪जातं⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = "ܗܸܢܘܿܢ ܩܵܛܠܝܼܢ ܠܲܒܥܸܠܕܒܵܒܵܐ ܕܡܼܫܘܼܚܬܹܗ ܕܵܢܚܵܐ" = "ܗܸܢܘܿܢ ܩܵܛܠܝܼܢ ܠܲܒܥܸܠܕܒܵܒܵܐ ܥܲܡ ܕܵܢܚܹܗ"
 :::
 ::: media
 ![](/images/lekt2005.webp)
-Fig.: ⟪देवा⟫ ⟪यीश्वादयः⟫
-Jesus and the other gods, Ahmedabad
-(Image source: [Details](/arc/licenses#lekt2005))
+ܨܘܪܬܐ: ⟪देवा⟫ ⟪यीश्वादयः⟫
+ܝܶܫܘܥ ܘܐܰܠܳܗܶܐ ܐ݇ܚܪ݇ܢܶܐ، ܐܰܗܡܰܕܐܳܒܰܐܕ
+(ܡܰܒܘܼܥܵܐ ܕܨܘܼܪܬܵܐ: [ܦܘܼܪ̈ܵܫܶܐ](/arc/licenses#lekt2005))
 :::
 
-## 20.4. Bahuvrīhi with causal first member
+## 20.4. ܒܰܗܘܰܘܪܺܝܗܝ ܥܰܡ ܗܰܕܳܡܳܐ ܩܰܕܡܳܝܳܐ ܥܶܠܬܳܢܳܐ
 
 i.e. Bahuvrīhi, whose first member represents a case other than the nominative (⟪प्रथमा⟩).
 
 Example:
 
 ::: indent
-⟪देवरूपा⟫ = ⟪देवस्यैव⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ = "a (woman) whose form is that of a god" "a woman of divine appearance"
+⟪देवरूपा⟫ = ⟪देवस्यैव⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ = "ܐܝܠܬܐ ܕܚܘܛܢܗܝ ܕܐܠܗܐ" "ܐܝܬܐ ܕܡܠܟܘܬܐ"
 :::
 ::: grammar-box
 
-**Exception to the general rule regarding the order of compositional elements:**
+**ܐ̈ܣܘܪܬܐ ܠܩܘܢܘܢܐ ܕܦܪܝܣܬܐ ܥܠ ܫܘܦܪܬ ܡܕܝܢ̈ܘܬܐ:**
 
-**The casual member stands in the second place, when it denotes a body part (especially the hand):**
+**ܡܕܝܢ̈ܘܬܐ ܕܦܪܝܣܬܐ ܒܬܪܝܬܐ ܡܢ̈ܗܝ ܕܠܫܢܐ ܡܪܟܒܬܐ (ܒܝܫܐ ܕܢܗܪܐ):**
 
 **Example:**
 
@@ -174,7 +174,7 @@ Fig.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
 Siemreap (ក្រុងសៀមរាប), Cambodia, 9th cent. CE.
 (Image source: [Details](/arc/licenses#lekt2001))
 :::
-## 20.5. Bahuvrīhi with adverbial first member
+## 20.5. ܒܗܘܘܪܝܗܝ ܥܡ ܡܠܬܐ ܩܕܡܝܬܐ ܕܡܠܬܐ
 
 In the first member stands an adverb, a preposition, a preverb, or another indeclinable; such compounds are generally ⟪नित्यसमास⟫.
 
@@ -187,50 +187,50 @@ Examples:
 :::
 ::: grammar-box
 
-**⟪सह⟫ "with" as the first member of a Bahuvrīhi is often replaced by ⟪स⟫.**
+**⟪सह⟫ "ܥܡ" ܐܝܟ ܗܕܡܐ ܩܕܡܝܐ ܕܚܕ ܒܗܘܘܪܝܗܝ (Bahuvrīhi) ܡܶܬܚܰܠܰܦ ܐܡܝܢܐܝܬ ܒ⟪स⟫.**
 
 **Example:**
 
 :::
 ::: indent
-⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = "with a son", "accompanied by a son"
+⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = "ܒܝܬ ܐܘܠܕܐ", "ܥܡ ܒܝܬ ܐܘܠܕܐ"
 :::
 ::: media
 ![](/images/lekt2006.webp)
-Fig.: ⟪सपुत्रा⟫
-Madhya Pradesh
-(Image source: [Details](/arc/licenses#lekt2006))
+ܦܘܩܕܢܐ: ⟪सपुत्रा⟫
+ܡܕܝܐ ܦܪܕܫ
+(ܡܕܒܪ ܐܝܟܬܐ: [ܦܠܘܓܐ](/arc/licenses#lekt2006))
 :::
-## 20.6. Flexion of the final member of a Bahuvrīhi
+## 20.6. ܦܠܘܓܬܐ ܕܡܠܬ ܚܛܘܡܐ ܕܒܗܘܪܝܗܝ
 
 ::: grammar-box
 
-The final member of a Bahuvrīhi is inflected as a multi-gendered adjective, independent of its original gender. Thus, if in a compound the final member has a gender different from its original one, it must be a Bahuvrīhi, provided it is not a Samāhāradvanva (Neuter singular).
+ܐܪܟܘܢܬܐ ܚܕܫܬܐ ܕܒܗܘܒܪܝܗܝ ܬܐܙܓ ܟܠܘܢ ܕܡܠܬ ܫܠܝܡܐ، ܒܠܘ ܕܓܢܪܝܗ ܐܘܠܝܢ. ܒܕܟܝ، ܐܪ ܒܩܘܡܦܘܢܕ ܐܪܟܘܢܬܐ ܚܕܫܬܐ ܠܐ ܗܘܝ ܓܢܪܝܗ ܐܘܠܝܢ، ܗܕܐ ܒܗܘܒܪܝܗܝ ܗܘ، ܐܠܐ ܣܡܐܗܪܕܘܢܒܝ ܗܘ (ܡܕܐ ܚܕ).
 
 **In the adjectivization process**
 
-*   **-ā-stems in the masculine and neuter corresponding to -a-stems**
-*   **-a-stems (m., n.) form their feminine on -ā or -ī**
-*   **-ī-stems (f.) must take the suffix -ka, -kā, -ka (n.) at the end of Bahuvrīhis; this suffix can or must also be taken by many other Bahuvrīhis**
+*   **-ā-שְׁרִירָא בְּזוּכְרָא וּנְקִיבְתָּא דַּעֲמִיקֵי לְ-אַ-שְׁרִירָא**
+*   **-אַ-שְׁרִירָא (זוּכְרָא, נְקִיבְתָּא) יַצְרֵן נְקִיבְתָּא עַל -ā אוֹ -ī**
+*   **-ī-שְׁרִירָא (נְקִיבְתָּא) חַיְבָה לְמֵיתָן סוּפִיקַת -ka, -kā, -ka (נְקִיבְתָּא) בְּסוֹף בַּהוּבְרִי; סוּפִיקָא זוֹ יַכְלָה אוֹ חַיְבָה לְמֵיתָן גַּם בְּרַבִּים מִבַּהוּבְרִי**
 
 :::
-## 20.7. Eine andere Einteilung der Arten von Bahuvrīhis
+## 20.7. ܦܘܠܓܐ ܐܚܪܢܐ ܕܕܡ̈ܘܬܐ ܕܒܗܘܘܪܝܗܝܣ
 
-The examples are provided here for later study; for some, the necessary grammar and vocabulary have not yet been discussed.
+ܕܡܠ̈ܐ ܗܢܘܢ ܝܬܝܪ̈ܐ ܠܡܕܥܘܬܐ ܚܪ̈ܝܬܐ، ܠܦܘܩܕܢ̈ܝܟܐ ܠܚܕ، ܗܘ ܓܝܪ ܩ̈ܠܣܐ ܘܟܕܒܬܐ ܩ̈ܪܝܒܘܬܐ ܠܗ ܥ̈ܕܪܟܘ.
 
-1.  qualifying word in the first member -- qualified word in the second member: ⟪स्थिरचित्तः⟫ = ⟪स्थिरं⟫ ⟪चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫
-2.  indeclinable in the first member: ⟪उच्चैःश्रवस्⟫
-3.  comparison in the first member: ⟪कुशाग्रधीः⟫ =  ⟪कुशाग्र⟫ ⟪इव⟫ ⟪धीर्यस्य⟫ ⟪सः⟫
-4.  implicit comparison: ⟪उष्ट्रमुखः⟫ = ⟪उष्ट्रस्य⟫ ⟪मुखमिव⟫ ⟪मुखं⟫ ⟪यस्य⟫ ⟪सः⟫ = "camel-mouthed" = whose mouth is like that of a camel
-5.  numeral as the second member with approximate number: ⟪उपसशाः⟫ = ⟪दशानां⟫ ⟪समीपे⟫ ⟪ये⟫ ⟪सन्ति⟫ ⟪ते⟫ = "about ten"
-6.  both members are numerals: ⟪एकद्वाः⟫ = ⟪एको⟫ ⟪वा⟫ ⟪द्वौ⟫ ⟪वा⟫ = "one or two"
-7.  with sa-/saha- in the first member: ⟪सपुत्रः⟫ ⟪।⟫ ⟪सहपुत्रः⟫
-8.  with sa- (= ⟪समान⟫) in the first member: ⟪सजनपदः⟫ = ⟪समानो⟫ ⟪जनपदो⟫ ⟪यस्य⟫ ⟪सः⟫
-9.  ⟪नञ्बहुव्रीहिः⟫ = with a-/an- in the first member: ⟪अपुत्रः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ; ⟪अनङ्गः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪अङ्गं⟫ ⟪यस्य⟫ ⟪सः⟫
-10.  with preposition etc. in the first member: ⟪प्रवातः⟫ =⟪प्रकृष्टो⟫ ⟪वातो⟫ ⟪यस्मिन्⟫ ⟪सः⟫ ; ⟪निर्धनः⟫ = ⟪निर्गतं⟫ ⟪धनं⟫ ⟪यस्मात्सः⟫ ; ⟪सुबुद्धिः⟫ = ⟪सुष्ठु⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ ; ⟪दुर्बुद्धिः⟫ = ⟪दुष्टा⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫
-11.  directional terms to denote intercardinal directions: ⟪पुर्वोत्तरा⟫ "northeast"
-12.  PPP as the first member: ⟪कृतकटः⟫ = ⟪कृतः⟫ ⟪कटो⟫ ⟪येन⟫ ⟪सः⟫
-13.  and others
+1.  מילת תואר בחלק הראשון -- מילה נקבית בחלק השני: ⟪स्थिरचित्तः⟫ = ⟪स्थिरं⟫ ⟪चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫
+2.  מילה בלתי משתנה בחלק הראשון: ⟪उच्चैःश्रवस्⟫
+3.  השוואה בחלק הראשון: ⟪कुशाग्रधीः⟫ =  ⟪कुशाग्र⟫ ⟪इव⟫ ⟪धीर्यस्य⟫ ⟪सः⟫
+4.  השוואה מרומזת: ⟪उष्ट्रमुखः⟫ = ⟪उष्ट्रस्य⟫ ⟪मुखमिव⟫ ⟪मुखं⟫ ⟪यस्य⟫ ⟪सः⟫ = "בעל פה" = אשר לו כמו פי גמלים
+5.  מספר כחלק השני עם מספר משוער: ⟪उपसशाः⟫ = ⟪दशानां⟫ ⟪समीपे⟫ ⟪ये⟫ ⟪सन्ति⟫ ⟪ते⟫ = "כעשרה"
+6.  שני החלקים הם מספרים: ⟪एकद्वाः⟫ = ⟪एको⟫ ⟪वा⟫ ⟪द्वौ⟫ ⟪वा⟫ = "אחד או שניים"
+7.  עם sa-/saha- בחלק הראשון: ⟪सपुत्रः⟫ ⟪।⟫ ⟪सहपुत्रः⟫
+8.  עם sa- (= ⟪समान⟫) בחלק הראשון: ⟪सजनपदः⟫ = ⟪समानो⟫ ⟪जनपदो⟫ ⟪यस्य⟫ ⟪सः⟫
+9.  ⟪नञ्बहुव्रीहिः⟫ = עם a-/an- בחלק הראשון: ⟪अपुत्रः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ; ⟪अनङ्गः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪अङ्गं⟫ ⟪यस्य⟫ ⟪सः⟫
+10.  עם תואר וכדומה בחלק הראשון: ⟪प्रवातः⟫ =⟪प्रकृष्टो⟫ ⟪वातो⟫ ⟪यस्मिन्⟫ ⟪सः⟫ ; ⟪निर्धनः⟫ = ⟪निर्गतं⟫ ⟪धनं⟫ ⟪यस्मात्सः⟫ ; ⟪सुबुद्धिः⟫ = ⟪सुष्ठु⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ ; ⟪दुर्बुद्धिः⟫ = ⟪दुष्टा⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫
+11.  מונחים כיווניים לציין כיוונים ביניים: ⟪पुर्वोत्तरा⟫ "צפון-מזרח"
+12.  PPP כחלק הראשון: ⟪कृतकटः⟫ = ⟪कृतः⟫ ⟪कटो⟫ ⟪येन⟫ ⟪सः⟫
+13.  ואחרים
 
 ::: media
 ![](/images/lekt2007.webp)
@@ -238,21 +238,21 @@ Fig.: ⟪कृतकटा⟫
 Chennai = சென்னை
 (Image source: [Details](/arc/licenses#lekt2007))
 :::
-## 20.8. Relationship between Bahuvrīhi and Relative Clause
+## 20.8. ܫܘܼܬܵܦܘܼܬ݂ܵܐ ܒܹܝܠ ܒܲܗܘܼܒ݂ܪܝܼܗܝ ܘܦܶܠܓܵܐ ܫܘܼܬܵܦܵܝܵܐ
 
-Although every Bahuvrīhi is resolved by a relative clause, not every relative clause can be replaced by a Bahuvrīhi. Hermann Georg Jacobi (1850 - 1937), who examined the relationship between the two in more detail (Compositum und Nebensatz, 1897), writes:
+ܠܐ ܟܠ ܒܗܘܝܪܗܝ ܐܬܝܫܟܚ ܒܣܡܠܘܐ ܕܝܫܪܐ، ܠܐ ܟܠ ܣܡܠܘܐ ܕܝܫܪܐ ܐܬܝܩܛܥ ܒܒܗܘܪܗܝ. ܚܪܡܢ ܓܘܪܓ ܝܐܩܘܒܝ (1850 - 1937)، ܕܚܫܒ ܠܗ ܒܝܬ ܦܘܪܫܐ ܕܗܢܘܢ (ܩܘܡܦܝܣܘܡ ܘܢܒܣܛ، 1897)، ܟܬܒ:
 
 ::: indent
-"If one translates from German or another modern language into Sanskrit, not all subordinate clauses can be rendered as compounds, but only the embellishing and descriptive ones; those, however, which contain a conceptually necessary or important determination, also appear in Sanskrit as relative clauses."
+"ܐܝ ܬܪܓܡܬ ܡܢ ܓܘܪܡܝܐ ܐܘ ܠܫܢܐ ܚܕܬܐ ܐܚܪܝܐ ܠܣܢܣܟܪܝܬ، ܠܐ ܟܠ ܣܡܠܘܬ̈ܐ ܕܝܫܪܢܐ ܐܬܩܛܥܘܢ ܟܡ̈ܐ ܣܡܦܘܪܬ، ܐܠܐ ܗܢܘܢ ܕܡܨܒܥܝܢ ܣܓܘܦܐ ܘܬܫܒܚܬ؛ ܗܢܘܢ ܕܐܝܟܬ ܦܪܫܘܬܐ ܕܚܫܒܐ ܣܓܝܐ ܐܘ ܫܡܫܬ، ܠܗܢܐ ܐܝܟܘܬ ܣܡܠܘܬ̈ܐ ܕܝܫܪܢܐ ܒܣܢܣܟܪܝܬ."
 :::
 ::: media
 ![](/images/lekt2002.jpg)
-Fig.: Hermann Jacobi
-(Image source: [Details](/arc/licenses#lekt2002))
+ܬܫܒܚܬ: ܚܪܡܢ ܓܘܪܓ ܝܐܩܘܒܝ
+(ܡܕܥ ܨܠܩܬ: [ܦܪ̈וֹט](/arc/licenses#lekt2002))
 :::
-That may be true. However, the Indians then view many things as embellishing and descriptive, which we would consider "conceptually necessary or important."
+ܗܢܐ ܡܠܬܐ. ܠܟܢ، ܗܝܕܝܢ ܚܫܒܘ ܠܗܘܢ ܐܝܟܬ ܣܓܘܦܐ ܘܬܫܒܚܬ، ܕܠܢ ܐܝܟܘܬ "ܦܪ̈וֹט ܕܚܫܒܐ ܣܓܝܐ ܐܘ ܫܡܫܬ."
 
-## 20.9. Wortliste
+## 20.9. ܡܠܘܐܐ
 
 ⟪वा⟫ : or
 
@@ -306,7 +306,7 @@ Rishikesh = ⟪ऋषिकेश⟫. «Dies ist tatsächlich ein Teil des Ashra
 
 ⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : sit, settle
 
-⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : to sit, to be seated (in a figurative sense) = to become composed, calm, serene; to be gracious to someone (Genitive ⟪षष्ठी⟫)
+⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : ܠܡܫܟܢ, ܠܬܒܘܣ (ܒܡܫܠܐ) = ܠܗܘܝ ܫܬܩ, ܪܕܦ, ܐܝܠܢ; ܠܡܗܒܐ ܠܝܬܪ (ܣܓܕ) ⟪षष्ठी⟫
 
 ⟪समाधि⟫ m.: inner composure, highest attentiveness, meditative "absorption"
 
@@ -354,9 +354,9 @@ Rishikesh = ⟪ऋषिकेश⟫. «Dies ist tatsächlich ein Teil des Ashra
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : sich regen
 
-## 20.10. Übung 1
+## 20.10. ܬܪܓܠܐ 1
 
-Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa in all ways that appear possible to you in Sanskrit (exception: compounds with adverbial first member). Translate these variously resolved compounds into German, and provide the gender, case, and number of the entire compound.
+פתרו את הרכבים הבאים כבahuverīhi ו/או Dvandva ו/או Tatpuruṣa בכל הדרכים האפשריות לכם בסנסקריט (חריגה: רכבים עם חבר ראשון אדברבלי). תרגמו את הרכבים השונים הללו לגרמנית, וספקו את המין, המקרה והמספר של הרכב כולו.
 
 1.  ⟪इन्द्रशत्रवः⟫
 2.  ⟪दुष्कुलायाः⟫
@@ -440,7 +440,7 @@ Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa 
 80.  ⟪अकरुणस्य⟫
 81.  ⟪सोढदुःखाः⟫
 
-## 20.11. Übung 2
+## 20.11. ܬܕܪܫܬܐ 2
 
 A) Translate and resolve the compounds in Sanskrit:
 
@@ -468,13 +468,13 @@ B) Translate into Sanskrit using compounds:
 
 1\. A Kṣatriya who does not hold the staff in his hand does not protect the people.
 
-2\. Kālidāsa and the other poets are the teachers in Sanskrit.
+ܠܟܡܝܐ ܩܕܝܠܰܣܳܐ ܘܟܠ ܡܫܪ̈ܝ̈ܐ ܒܣַנְסְקְרִית
 
 3\. A Kṣatriya earns his livelihood through weapons.
 
 4\. Śūdra women also have as dharma non-violence, truthfulness, purity, non-grumbling, non-malice, and forbearance.
 
-## 20.12. Übersetzungsübung
+## 20.12. ܬܪܓܠܐ ܕܬܘܪܓܡܐ
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪३३॥⟫
 
@@ -496,7 +496,7 @@ Buddha as an ascetic before his liberating insight, Gandhara, 2nd/3rd century.
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (For the Sāṃkhya system, see Basham, Wonder pp. 324f.)
 
 ::: indent
-Explanation: ⟪त्रिविध⟫ ⟪३⟫ : "triple"
+ܣܦܪܐ: ⟪त्रिविध⟫ ⟪३⟫ : "ܠܐܬ"
 :::
 Definition of liberation according to the Nyāya system:
 
@@ -505,15 +505,15 @@ Definition of liberation according to the Nyāya system:
 
 ⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२२॥⟫
 :::
-Utterance of the Materialists according to the ⟪सर्वदर्शनसंग्रह⟫ :
+ܐܘܬܪܬܐ ܕܡܕܥ̈ܝܠ̈ܐ ܠܦܘܿܟܬ ܕ⟪सर्वदर्शनसंग्रह⟫ :
 
 ::: indent
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
 ⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
 
-Explanation: ⟪अत्मा⟫ = Nom.sg. masc. to ⟪आत्मन्⟫ m. "Self, soul; the Absolute, insofar as it is realized in an individual"
+שְׁפִירָא: ⟪अत्मा⟫ = שְׁמֵהּ בְּלָשׁוֹן יחיד, זכר, ל- ⟪आत्मन्⟫ מ' "נַפְשָׁא, רוּחָא; שֶׁכְּבַר נְטִיר בְּיָתֵר, כְּדֵין דִּבְעִיר בְּיָתֵר"
 :::
-An ⟪सुभाषितम्⟫ :
+אַחַד ⟪सुभाषितम्⟫ :
 
 ::: indent
 ⟪देवानां⟫ ⟪करदा⟫ ⟪विप्रा⟫  
@@ -547,15 +547,15 @@ An ⟪सुभाषितम्⟫ on female beauty:
 ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫
 ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫
 
-Explanation: all forms except ⟪कं⟫ and ⟪स्त्रीणाम्⟫ are Nom. sg. neut. and refer to ⟪वपुस्⟫.
+ܐܦܘܟܣܝܘܢ: ܟܠ ܦܘܪ̈ܡܐ ܒܝܬ ܠܦܢ ⟪कं⟫ ܘ ⟪स्त्रीणाम्⟫ ܗܝ ܢܘܡ. ܣܓ. ܢܟܪܐ ܘ ܡܬܝܠܠ̈ܐ ܥܠ ⟪वपुस्⟫.
 :::
 ::: media
 ![](/images/lekt2003.webp)
-Fig.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
-Sanchi = ⟪सांची⟫
-(Image source: [Details](/arc/licenses#lekt2003))
+ܬܣܘܝܪܐ: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
+ܣܢ̈ܟܝ = ⟪सांची⟫
+(ܡܕܒܪ ܬܣܘܝܪܐ: [ܦܠܘ̈ܓܐ](/arc/licenses#lekt2003))
 :::
-Another ⟪सुभाषितम्⟫ :
+ܐܚܪܝ ⟪सुभाषितम्⟫ :
 
 ::: indent
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫
@@ -563,13 +563,13 @@ Another ⟪सुभाषितम्⟫ :
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
-Explanation: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P to ⟪इष्⟫ : of the desiring
+الشرح: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P to ⟪इष्⟫ : of the desiring
 :::
 ::: deleteme-box
 
 **lekt2001:** Siemreap (ក្រុងសៀមរាប), Cambodia, 9th century CE. [Image source: Wikipedia, Public domain]
 
-**lekt2002:** [Image source: Contributions to Literary Studies and Intellectual History of India. -- Bonn, 1926]
+**ܠܟܬ 2002:** [מקור דܝܩܘܟܐ: תרום ללמודי ספרות והיסטוריה אינטלקטואלית דהודו. -- בון, 1926]
 
 **lekt2003:** Sanchi = ⟪सांची⟫ [Image source Wikipedia, Public domain]
 
@@ -581,7 +581,7 @@ Explanation: ⟪इच्छताम्⟫ = gen. Pl. Part Präs. P to ⟪इ�
 
 **lekt2007:** Chennai = சென்னை [Image source: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Accessed on 2008-12-11. -- Creative Commons License (Attribution, Non-commercial use, No derivatives)]
 
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Bildquelle: von ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Zugriff am 2008-12-11. -- Creative Commons Lizenz (Namensnennung)]
+**ܠܟܬ 20:** רישיקש = ⟪ऋषिकेश⟫. "ܕܐ ܗܘ ܒܥܠܡܐ ܡܢ ܓܘܫܦܟܬܐ ܕܪܝܫܩܫ ܕܗܘܐ ܬܠܡܝ̈ܕܐ ܒܗ. ܗܟܢܐ ܓܘܫܦܟܬܐ ܠܐ ܗܘܐ ܒܫܥܝ̈ܢ ܕܗܘܐ ܬܠܡܝ̈ܕܐ ܒܗ, ܐܠܐ ܗܘܐ ܡܕܥܩܪ." [מקור תמונה: מאת ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- נגיש ב-2008-12-11. -- רשות יצירה משותפת (ייחוס)]
 
 **lekt2009:** Karnataka [Image source: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Accessed on 2008-12-11. -- Creative Commons License (Attribution, non-commercial use)]
 

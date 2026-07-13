@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 1
+# 第1课
 
 ::: center
 ⟪गणेशपूजनम्⟫
@@ -167,7 +167,7 @@ pārvatīparameśvarau |**
 
 ---
 
-## 1.3. Übung
+## 1.3. 练习
 
 **A) 阅读以下词语：**
 

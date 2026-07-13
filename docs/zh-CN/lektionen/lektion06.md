@@ -7,7 +7,7 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 6
+# 第6课
 
 ::: deleteme-box
 **在本课中，您将学习：**
@@ -64,7 +64,7 @@ status: stable
 
 ---
 
-## 6.3. Indikativ Präsens (laṭ = ⟪लट्⟫)
+## 6.3. 陈述式现在时 (laṭ = ⟪लट्⟫)
 
 现在时是表示现在的时态，尤其是表示持续的状态。
 
@@ -100,7 +100,7 @@ status: stable
 
 ## 6.5. 现在词干的构成
 
-### 6.5.1. Verben der 6. Präsensklasse （tudādi = ⟪तुदादि⟫ = "tud 等"）
+### 6.5.1. 第六类动词（tudādi = ⟪तुदादि⟫ = "tud 等"）
 
 ::: grammar-box
 **现在词干 = 词根在弱形（即其列出的形式）+ a-**
@@ -156,7 +156,7 @@ status: stable
 :::
 ---
 
-## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
+## 6.6. 口语梵语：更多问题（praśna m. = ⟪प्रश्न⟫）
 
 ::: grammar-box
 - **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = “N. N. 正在做什么？”
@@ -167,7 +167,7 @@ status: stable
 :::
 ---
 
-## 6.7. Wortliste
+## 6.7. 词汇表
 
 ::: grammar-box
 在梵语中，动词以**词根形式**列出。词根后的数字表示**变位类**。
@@ -191,7 +191,7 @@ status: stable
 
 ---
 
-## 6.8. Übung
+## 6.8. 练习
 
 **A) 使用括号中给出的词根，通过填入动词句子来造句：**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
@@ -228,7 +228,7 @@ status: stable
 :::
 ---
 
-## 6.9. Wiederholungsübung
+## 6.9. 复习练习
 
 **A) 填空练习：构造问题，使得根据以下填空练习所形成的句子成为这些问题的答案：**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)

@@ -1,6 +1,6 @@
-# Writing Exercise 9
+# Writing ܬܕܪܫܬܐ 9
 
-### Syllabification
+### ܦܘܠܓܐ ܕܡܠܝ̈ܬܐ
 
 Within a sentence (a half-verse), syllabification in the script occurs only when a word ends with
 
@@ -8,17 +8,17 @@ Within a sentence (a half-verse), syllabification in the script occurs only when
 *   Anusvāra (ṃ)
 *   Visarga (ḥ)
 
-and the following word begins with a consonant. The same applies in cases where, according to the sentence sandhi rules, a hiatus arises between vowels.
+והמילה הבאה מתחילה בעיצור. אותו הדבר חל במקרים שבהם, לפי כללי הסנדה של המשפט, נוצר היאוס בין תנועות.
 
-### Punctuation
+### ܢܩܕܘܬܐ
 
-The end of a sentence is marked in prose with | (ardhadanda m.). In verses, | marks the end of the half-verse, while || (danda m.) marks the end of the verse. In prose, || indicates a larger break (e.g., the end of a paragraph). Verse numbering is placed between two ||, e.g., ||⟪१⟫||.
+ܣܘܼܡܟܵܐ ܕܓܘܿܫܼܦܹܐ ܝܬܸܪ̈ܘܿܢ ܒ݁ܐܪܡܵܐ | (ܐܪܕܗܰܢܕܵܐ ܡ݁). ܒ݁ܬܸܫܘܼܟ̈ܬܹܐ | ܝܬܸܪ̈ܘܿܢ ܣܘܼܡܟܵܐ ܕܠܦܹ݁ܐ ܬܸܫܘܼܟ̈ܬܹܐ ܒ݁ܠܵܒ݂ܼܘܿܐ ܕܓܘܿܫܼܦܹܐ || (ܕܰܢܕܵܐ ܡ݁). ܒ݁ܐܪܡܵܐ || ܝܬܸܪ̈ܘܿܢ ܦ݁ܵܫܩܹܐ ܪܒ݂ܵܐ (ܡ݁ܠܼܘܿܠ ܣܘܼܡܟܵܐ ܕܦ݁ܵܫܩܹܐ). ܡ݁ܶܠܬ݂ܵܐ ܕܬܸܫܘܼܟ̈ܬܹܐ ܝܬܸܪ̈ܘܿܢ ܒ݁ܝܼܬܸܪ ܐܘܿܠ ||, ܡܼ݁ܟܵܪ: ||⟪१⟫||.
 
 ### Abbreviation
 
-Abbreviation marks (e.g., in references to works) are °, e.g., ⟪पा⟫° = pā(ṇinīye) = "In the grammatical treatise of Pāṇini".
+סימני קיצור (למשל, בהפניות לטקסטים) הם °, למשל, ⟪पा⟫° = pā(ṇinīye) = "במסכת הדקדוק של פאניני".
 
-### Additional Vowels in Initial Position
+### ܩ̈ܠܐ ܝܬܝܪ̈ܐ ܒܕܘܟܬܐ ܩܕܡܝܬܐ
 
 ![](/images/schrift018.webp)
 
@@ -26,7 +26,7 @@ Abbreviation marks (e.g., in references to works) are °, e.g., ⟪पा⟫° =
 
 Beachten Sie, dass a, ā, o, au nch demselben Grundschema geschrieben werden.
 
-## Exercise
+## ܬܪܓܠܐ
 
 A) Write in Devanāgarī:
 

@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 58
+# ܕܪܫܐ 58
 
-## 58.1. The Dual Primary Endings (⟪द्विवचनम्⟫)
+## 58.1. ܫܘܠܡܐ ܩܕܡܝܐ ܕܬܪ̈ܝܢ (⟪द्विवचनम्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ ||
@@ -19,21 +19,21 @@ status: stable
 | **2. ⟪मध्यमः⟫** | -thas | -**ī**the | -**ā**the |
 | **3. ⟪प्रथमः⟫** | -tas | -**ī**te | -**ā**te |
 :::
-## 58.2. Der Dual thematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
+## 58.2. ܬܪܝܢܝܘܬܐ ܕܦܘܠܚܢܐ ܕܙܒܢܐ ܗܫܝܐ: ܡܚܘܝܢܐ ܕܙܒܢܐ ܗܫܝܐ (⟪ܠܛ⟫)
 
 Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt.
 
-### 58.2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
+### 58.2.1. ܦܘܠܚܢܐ ܕܙܒܢܐ ܗܫܝܐ ܕܩܕܡܝܐ (⟪ܒܗܘܐܕܝܓܢܗ⟫)
 
 ⟪भू⟫ 1P "become, be"
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | :--- | :---: | :---: |
-| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \<⟪भवावहे⟫\> |
-| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
-| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
+| **1. ⟪तृतीयः⟫** | ⟪भवावस्⟫:br"wir beide werden" | \&lt;⟪भवावहे⟫\&gt; |
+| **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \&lt;⟪भवेथे⟫\&gt;:brbhav-a + īthe |
+| **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \&lt;⟪भवेते⟫\&gt; |
 
-### 58.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
+### 58.2.2. ܩܠܳܣܳܐ ܕܐܰܪܒܥܳܐ ܕܙܰܒܢܳܐ ܗܳܫܳܝܳܐ (⟪ܕܺܝܒܳܐܕܺܝܓܰܢܰܗ⟫)
 
 ⟪नृत्⟫ 4P "tanzen"
 
@@ -49,7 +49,7 @@ Fig.: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
 (Image source: [Details](/arc/licenses#lekt5802))
 :::
-### 58.2.3. Sixth Present Class (⟪तुदादिगणः⟫)
+### 58.2.3. ܩܠܳܣܳܐ ܕܫܬܳܐ ܕܙܰܒܢܳܐ ܗܳܫܳܝܳܐ (⟪ܬܽܘܕܳܐܕܺܝܓܰܢܰܗ⟫)
 
 ⟪तुद्⟫ 6U "push, strike"
 
@@ -60,7 +60,7 @@ Fig.: ⟪नृत्यतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदतस्⟫ | ⟪तुदेते⟫ |
 :::
-### 58.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
+### 58.2.4. ܕܪܓܬܐ ܥܣܝܪܝܬܐ ܕܙܒܢܐ ܗܫܝܐ (⟪चुरादिगणः⟫) ܘܡܥܠܢܝ̈ܐ (⟪णिजन्त⟫)
 
 ⟪चुर्⟫ 10U "stehlen"
 
@@ -77,7 +77,7 @@ Fig.: ⟪वानरौ⟫ ⟪रथाद्भाण्डानि⟫ ⟪च
 Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 (Image source: [Details](/arc/licenses#lekt5803))
 :::
-## 58.3. The Dual of the Simple Future (⟪ऌत्⟫)
+## 58.3. ܬܪܝܢܝܐ ܕܥܬܝܕܐ ܦܫܝܛܐ (⟪ऌत्⟫)
 
 ### 58.3.1. ⟪अनिट्⟫
 
@@ -101,7 +101,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪भविष्यतस्⟫ | ⟪भविष्येते⟫ |
 :::
-## 58.4. Der Dual Passiv (Suffix -⟪यक्⟫)
+## 58.4. ܬܪܝܢܝܘܬܐ ܦܣܝܒܐ (ܣܘܦܝܬܐ -ܝܩ)
 
 ⟪तुद्⟫ 6U "push, strike"
 
@@ -111,9 +111,9 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
 :::
-## 58.5. The Dual of athematic present classes: Indicative Present (⟪लट्⟫)
+## 58.5. ܬܪ̈ܝܢ ܕܕܪ̈ܓܐ ܕܙܒܢܐ ܗܫܝܐ ܕܠܐ ܬܝܡܐ: ܡܠܦܢܐ ܕܙܒܢܐ ܗܫܝܐ (⟪लट्⟫)
 
-### 58.5.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
+### 58.5.1. ܕܪܓܐ ܕܬܪܝܢ ܕܙܒܢܐ ܕܗܫܐ (⟪ܐܕܐܕܝܓܢܗ⟫)
 
 ⟪द्विष्⟫ 2U "hate"
 
@@ -184,18 +184,18 @@ Fig.: ⟪कन्ये⟫ ⟪अधीयते⟫
 Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 (Image source: [Details](/arc/licenses#lekt5805))
 :::
-### 58.5.2. Third Present Class (⟪जुहोत्यादिगणः⟫)
+### 58.5.2. ܕܪܓܐ ܬܠܝܬܝܐ ܕܙܒܢܐ ܕܗܫܐ (⟪ܓܘܗܘܬܝܐܕܝܓܢܗ⟫)
 
 ⟪हु⟫ 3P "pour into the sacrificial fire"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \<⟪जुहुवहे⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \<⟪जुह्वाथे⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \<⟪जुह्वाते⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪जुहुवस्⟫ | \&lt;⟪जुहुवहे⟫\&gt; |
+| 2\. ⟪मध्यमः⟫ | ⟪जुहुथस्⟫ | \&lt;⟪जुह्वाथे⟫\&gt; |
+| 3\. ⟪प्रथमः⟫ | ⟪जुहुतस्⟫ | \&lt;⟪जुह्वाते⟫\&gt; |
 :::
-⟪धा⟩ 3U "to set, to lay, to place"
+⟪धा⟩ 3U "ܠܡܕܟ"
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -204,7 +204,7 @@ Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪धत्थस्⟫ | ⟪दधाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्तस्⟫ | ⟪दधाते⟫ |
 :::
-### 58.5.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
+### 58.5.3. ܕܪܓܐ ܕܚܡܫܐ ܕܙܒܢܐ ܗܫܝܐ (ܣܘܐܕܝܓܢܗ)
 
 ⟪सु⟫ 5U "to squeeze out"
 
@@ -220,7 +220,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
 (Image source: [Details](/arc/licenses#lekt5807))
 :::
-### 58.5.4. Eighth Present Class (⟪तनादिगणः⟫)
+### 58.5.4. ܕܰܪܓܳܐ ܬܡܺܝܢܳܝܳܐ ܕܗܳܫܳܐ (⟪ܬܰܢܳܕܺܝܓܰܢܳܗ⟫)
 
 ⟪तन्⟫ 8U "to span"
 
@@ -240,7 +240,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुथस्⟫ | ⟪कुर्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुरुतस्⟫ | ⟪कुर्वाते⟫ |
 :::
-### 58.5.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
+### 58.5.5. ܕܰܪܓܳܐ ܫܒܺܝܥܳܝܳܐ ܕܗܳܫܳܐ (⟪ܪܽܘܕܳܕܺܝܓܰܢܳܗ⟫)
 
 ⟪रुध्⟫ 7U "stoppen"
 
@@ -260,7 +260,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्थस्⟫ | ⟪युञ्जाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युङ्क्तस्⟫ | ⟪युञ्जाते⟫ |
 :::
-### 58.5.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
+### 58.5.6. ܕܪܓܐ ܕܬܫܥܐ ܕܙܒܢܐ ܗܫܝܐ (ܟܪܝܐܕܝܓܢܗ)
 
 ⟪क्री⟫ 9U "buy"
 
@@ -275,7 +275,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Image source: [Details](/arc/licenses#lekt5801))
 :::
-## 58.6. Aorist 5: iṣ-Aorist
+## 58.6. Aorist 5: ܐܺܝܫ-ܐܰܘܪܺܝܣܛܳܐ
 
 ::: grammar-box
 **The iṣ-aorist is formed from all seṭ roots for which no other aorist form is explicitly taught exclusively.**
@@ -284,9 +284,9 @@ Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणात
 
 **Augment + Root + i + s + athematic secondary ending**
 
-**!!!** The 2.sg.P and 3.sg.P derive from **-**īs and -īt respectively **!!!** (This arose from a transfer of the imperfect of roots of the type ⟪अब्रवीत्⟫; they are therefore actually root-aorist forms).
+**!!!** Die Formen 2.sg.P und 3.sg.P leiten sich von **-īṣ** bzw. -īt ab **!!!** (Diese entstanden durch eine Übernahme des Imperfekts von Wurzeln vom Typ ⟪अब्रवीत्⟫; sie sind daher eigentlich Wurzel-Aorist-Formen).
 :::
-The stem-forming suffix + endings of the iṣ-aorist are thus:
+Die stammbildenden Suffixe + Endungen des iṣ-Aorists sind somit:
 
 ::: grammar-box
 
@@ -318,13 +318,13 @@ Examples:
     ⟪चर्⟫ 1P: 1.sg.P ⟪अचारिषम्⟫  
     ⟪वद्⟫ 1P: 1.sg.P ⟪अवादिषम्⟫
 
-*   **Other roots of the form (Cons.-)Cons.-a-Cons.: in the P optionally lengthened grade (does not apply to roots ending in -h, -m, -y, and some other roots)**  
-    Example:  
-    ⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
-    but:  
-    ⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
+*   **שאר שרשי הצורה (עיצ.-)עיצ.-א-עיצ.: במעלת האורך אופציונלית ב-P (לא חל על שרשים המסתיימים ב-h, -m, -y ושרשים אחרים מסוימים)**  
+דוגמה:  
+⟪तन्⟫ 8U: 1.sg.P ⟪अतनिषम्⟫ / ⟪अतानिषम्⟫  
+אבל:  
+⟪क्रम्⟫ 1U: 1.sg.P ⟪अक्रमिषम्⟫
 :::
-Paradigms:
+פראדיגמות:
 
 ⟪पू⟫ 9U "purify"
 
@@ -359,11 +359,11 @@ Paradigms:
 ::: grammar-box
 **Particularities:**
 
-1.  With certain roots, the connecting vowel -i- in ⟪आत्मनेपद⟫ may be replaced by -ī-. After ⟪ग्रह्⟫ 9U "to seize", this replacement must occur in the P and Ā:  
-    ⟪अग्र⟫*⟪ही⟫*⟪षम्⟫ , ⟪अग्र⟫*⟪ही⟫*⟪षि⟫
+1.  עִם שְׁרָשֵׁי מִן דִּין, יְכֹלָא לְהוֹתַב שׁוּקְטָנָא דְחִיּוּכָא -i- בְּ⟪आत्मनेपद⟫ לֵיתוֹב בְּ-ī-. אַחַר ⟪ग्रह्⟫ 9U "לִתְפּוֹס", הָכָא מַחְיָב לְהוֹתַב בְּפָא וְאַל"ף:  
+⟪अग्र⟫*⟪ही⟫*⟪षम्⟫ , ⟪अग्र⟫*⟪ही⟫*⟪षि⟫
 
-2.  Roots of the 8th present class on -n (or -ṇ) can be in the 2.3.sg.Ā deep-level:  
-    ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (root-aorist) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
+2.  שְׁרָשֵׁי דְקַטְעָא תְּמִינְתָּא דְפַרְקוֹן עַל -n (אוֹ -ṇ) יְכֹלָן לִהְוָא בְּ2.3.sg.Ā עַמְקָא:  
+⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (שְׁרָשָׁא דִיאוֹר) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
 
 3.  ⟪दीप्⟫ 4Ā, ⟪जन्⟫ 4Ā etc. können statt der 3.sg. Ā auch die Form des Passivaorists annehmen:  
     ⟪अदीपिष्ट⟫ / ⟪अदीपि⟫ ; ⟪अजनिष्ट⟫ / ⟪अजनि⟫
@@ -376,9 +376,9 @@ Paradigms:
 Fig.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
 (Image source: [Details](/arc/licenses#lekt5808))
 :::
-## 58.7. Exercise
+## 58.7. ܬܪܓܠܐ
 
-A) Determine and translate the following forms without aids, and form the corresponding i-aorist forms:
+[A] קܪܝ ܘܬܪܓܡ ܠܗܢ̈ ܦܘܼרְשָׁא ܒܠܐ ܥܙ̈ܪܬܐ، ܘܦܠܶח ܠܗܢ̈ ܐܘܪ̈ܚܬܐ ܕܐܝܠܶן ܐܘܪ̈ܟܬܐ:
 
 1.  ⟪औहे⟫
 2.  ⟪जाग्रति⟫

@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 8
+# ܬܪܓܠܐ 8
 
-A) Explain the following nouns by specifying the root from which they are derived, and the nominal suffix. Specify gender and meaning:
+[A] הסבר את השמות הבאים על ידי ציון השורש שממנו הם נגזרים, והסופיק השמי. ציין מין ומשמעות:
 
 1\. lobha: lubh 4 P "to desire" + -a m.: "desire"
 
@@ -151,13 +151,13 @@ Fig.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्व�
 :::
 ---
 
-## Reading Exercise
+## Reading ܬܪܓܠܐ
 
 1\. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
 The Śūdra leads the boy.
 
 2\. ⟪कविर्देवं⟫ ⟪यजते⟫ |
-The poet sacrifices to the god.
+ܐܝܠܡܐ ܩܪܒܢ ܠܐܠܗܐ
 
 3\. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
 The holy one eats fruits.
@@ -175,7 +175,7 @@ The cow enters the village.
 Passion, anger, and greed lead to hell.
 
 8\. ⟪देवतां⟫ ⟪यजति⟫ |
-He sacrifices for a lord of sacrifice of the deity.
+ܗܘ ܡܕܒܪ ܠܡܠܟܐ ܕܡܕܒܪ ܕܐܠܗܐ.
 
 9\. ⟪बाला⟫ ⟪भवति⟫ |
 A girl is created.

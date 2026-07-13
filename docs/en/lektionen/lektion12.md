@@ -26,7 +26,7 @@ One way to form passive sentences of the past is the construction with the so-ca
 **In reality, the PPP is not a true participle, as it is not formed from a tense stem. Rather, it is a nominal formation from the root with the primary suffix -ta or -na. Therefore, in Indian grammar, one speaks of the suffix kta.**
 :::
 
-### 12.1.1. Schema for transitive verbs
+### 12.1.1. सकर्मकधातूनां योजना
 
 ::: grammar-box
 **Agent (kartṛ) in the Instrumental (tṛtīyā) -- direct object (karman) in the Nominative (prathamā) -- Perfect Passive Participle**
@@ -41,7 +41,7 @@ Examples:
 > **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = "(By the Brahmin, the goddess was worshipped with a sacrifice) = The Brahmin has worshipped the goddess with a sacrifice."
 :::
 
-### 12.1.2. Schema I for intransitive verbs and verbs of motion
+### 12.1.2. अकर्मकधातूनां गतिधातूनां च योजना १
 
 ::: grammar-box
 **Agent (kartṛ) in the Nominative (prathamā) -- Perfect Passive Participle**
@@ -52,7 +52,7 @@ Example:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "The Kṣatriya woman has gone into the city."
 :::
 
-### 12.1.3. Schema II for intransitive verbs and verbs of motion
+### 12.1.3. अकर्मकधातूनां गतिधातूनां च योजना २
 
 ::: grammar-box
 **Agent (kartṛ) in the Instrumental (tṛtīyā) -- PPP in the Nominative Singular Neuter**

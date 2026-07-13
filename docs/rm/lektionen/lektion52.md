@@ -106,7 +106,7 @@ Abb.: ⟪भीमः⟫ ⟪कौन्तेयः⟫
 Figura da Wayang, Java, Indonesia
 (Fonte dal maletg: [Detagls](/rm/licenses#lekt5203))
 :::
-## 52.3. Furmazi d'adverb: sufix adverbial -śas
+## 52.3. Furmaziun d'adverb: suffiz adverbial -śas
 
 ::: grammar-box
 **Il suffixe adverbial -śas cumpilia avierbs da (principalmain) significaziun distributiva:**

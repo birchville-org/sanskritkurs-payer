@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 48
+# ܡܠܦܢܐ 48
 
 ## 48.1. ⟪सुभाषितानि⟫
 
@@ -26,29 +26,29 @@ status: stable
 
 ⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫
 :::
-## 48.2. Formation of the Imperative (⟪लोट्⟫) athematic present stems
+## 48.2. ܨܘܪܬܐ ܕܦܘܩܕܢܐ (⟪लोट्⟫) ܕܥܩܪ̈ܐ ܕܙܒܢܐ ܗܫܝܐ ܕܠܐ ܬܝܡܐ
 
-### 48.2.1. Endings of the Imperative on athematic present stems
+### 48.2.1. ܫܘܠܡ̈ܐ ܕܦܘܩܕܢܐ ܥܠ ܫܪ̈ܫܐ ܕܙܒܢܐ ܕܗܫܐ ܕܠܐ ܬܡܝܡܘܬܐ
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
-| **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3.Kl.: -atu** :br(aus. -\*ntu) | \-atām:br(aus: -\*ntām) |
+| **ܣܰܕܪܳܐ ܕܡܶܢ ܚܰܕ** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
+| **ܣܰܕܪܳܐ ܕܡܶܢ ܬܽܘܬܳܝ** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
+| **ܣܰܕܪܳܐ ܕܡܶܢ ܬܽܘܬܳܐ** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **ܣܰܕܪܳܐ ܬܽܘܬܳܐ: -atu** :br(ܣܶܓܝ ܠܶܐ -\*ntu) | \-atām:br(ܣܶܓܝ ܠܶܐ -\*ntām) |
 :::
-Note: ¹ The endings of the 2. and 3.sg.P can be replaced by -tāt if a blessing is to be expressed. -tāt occurs (also in the 3.sg.P) with the weak stem.
+ܡܶܠܬܳܐ: ¹ ܓܰܪܡ݂ܶܘ̈ܫܳܐ ܕܣܰܕܪܳܐ ܬܽܘܬܳܝ ܘܰܠܶܐ ܕܣܰܕܪܳܐ ܬܽܘܬܳܐ ܒܶܣܪܳܐ ܕܡܶܢ ܚܰܕ ܒܶܝܬ ܠܶܐ -tāt ܐܱܦ݂ ܟܳܪ ܠܶܐ ܒܰܝܬ ܕܡܶܠܬ݂ܳܐ. -tāt ܗܘܶܐ (ܟܠ݂ ܒܣܰܕܪܳܐ ܬܽܘܬܳܐ) ܒ݂ܶܝܬ ܣܰܕܪܳܐ ܚܶܠܝܼܦ.
 
 ::: grammar-box
-| **Regarding the form of the 2.sg. Imperative ending:** ||
+| **ܥܰܠ ܓܶܕܠܳܐ ܣܰܕܪܳܐ ܬܽܘܬܳܝ:** ||
 | :---: | :--- |
-| **\-ø** | Roots of the 5th and 8th class, where only a consonant precedes the final \-u. |
-| **\-āna** | Roots of the 9th class, ending in a consonant, substitute for \-nī+ending \-āna |
-| **\-hi** | all other present stems ending in a vowel or semivowel (exception: **⟪जुहुधि⟫** to **⟪हु⟫ 3**) |
-| **\-dhi** | All other cases |
+| **\-ø** | ܓܶܕܠܳܐ ܕܣܰܕܪܳܐ ܚܶܡܫܬ݂ܳܐ ܘܰܠܶܐ ܕܣܰܕܪܳܐ ܬܶܡܢܝܼܬ݂ܳܐ, ܕܒܶܝܬ ܠܶܐ ܟ݂ܳܢܺܝ ܩܰܪܶܐ ܠܶܐ ܣܳܡ݂ܘܼܟ݁. |
+| **\-āna** | ܓܶܕܠܳܐ ܕܣܰܕܪܳܐ ܬܶܫܥܝܼܬ݂ܳܐ, ܣܳܡ݂ܘܼܟ݁ ܠܶܐ -nī+ܣܰܕܪܳܐ \-āna |
+| **\-hi** | ܟ݂ܠ݂ ܣܰܕܪܳܐ ܚܶܝܠ݂ܳܐ ܣܳܡ݂ܘܼܟ݁ ܠܶܐ ܗܳܐ ܘܰܠܶܐ ܢܶܓ݂ܳܝ (ܣܶܓܝ: **⟪जुहुधि⟫** ܠܶܐ **⟪हु⟫ 3**) |
+| **\-dhi** | ܟ݂ܠ݂ ܣܰܕܪܳܐ ܚܶܠܝܼܦ |
 :::
-### 48.2.2. Form of the present stem
+### 48.2.2. ܨܽܘܪܬܳܐ ܕܺܝܠܳܐ ܕܓܶܕܠܳܐ ܕܗܳܫܳܐ
 
 ::: grammar-box
 **Strong Stem:**
@@ -58,7 +58,7 @@ Note: ¹ The endings of the 2. and 3.sg.P can be replaced by -tāt if a blessing
 
 **Weak stem: all other forms**
 :::
-### 48.2.3. Second present class (⟪अदादि⟫)
+### 48.2.3. ܕܪܓܐ ܕܬܪܝܢ ܕܙܒܢܐ ܕܗܫܐ (⟪ܐܕܐܕܝ⟫)
 
 ⟪द्विष्⟫ 2U
 
@@ -152,7 +152,7 @@ Note: ¹ Explanation of **⟪जहि⟫** see Thumb-Hauschild I,2 p. 253
 | **2. Person** :br⟪मध्यमः⟫ | sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. Third Present Class (⟪जुहोत्यादि⟫)
+### 48.2.4. ܕܪܓܐ ܬܠܝܬܝܐ ܕܙܒܢܐ ܗܫܝܐ (⟪जुहोत्यादि⟫)
 
 ::: grammar-box
 **The 3.pl.P ends in \-atu !**
@@ -163,9 +163,9 @@ Note: ¹ Explanation of **⟪जहि⟫** see Thumb-Hauschild I,2 p. 253
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \&lt;⟪जुहवै⟫\&gt; | \&lt;⟪जुहवामहै⟫\&gt; |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \&lt;⟪जुहुष्व⟫\&gt; | \&lt;⟪जुहुध्वम्⟫\&gt; |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \&lt;⟪जुहुताम्⟫\&gt; | \&lt;⟪जुह्वताम्⟫\&gt; |
 
 Note: ¹ Dissimilation, so that two syllables with **⟪ह्⟫** do not follow each other.
 :::
@@ -191,23 +191,23 @@ Note: ¹ **⟪धेहि⟫** from \*dhazdhi: loss of the Indo-European sibila
 | **2. Person** :br⟪मध्यमः⟫ | sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-## 48.3. Zur Nominalbildung: ⟪तद्धित⟫-Suffixe -a und -ya
+## 48.3. ܠܰܓܒܳܠܳܐ ܕܫܶܡܳܐ: ܣܽܘܦܺܝܩܣ̈ܶܐ ܕܬܰܕܗܺܝܬ -a ܘ -ya
 
 ::: grammar-box
-With the suffix **-a** and (rarely) **-ya**, another noun can be derived from a noun. In doing so, the first syllable of the original noun receives the guṇa grade (**⟪वृद्धि⟫**). If the original word stem already ends in **-a**, then the **⟪वृद्धि⟫** is the only sign of derivation, since the stem ending does not change.
+בעילת סופיקון **-a** ו(נדיר) **-ya**, שם עצם אחר יכול להיגזר משם עצם. בכך, ההברה הראשונה של שם העצם המקורי מקבלת את דרגת ה-**guṇa** (**⟪वृद्धि⟫**). אם שורש המילה המקורי מסתיים כבר ב-**a**, אזי ה-**⟪वृद्धि⟫** הוא רק סימן לגזירה, שכן סיום השורש אינו משתנה.
 
 The derived words have the meaning:
 
-> "having some relation to that designated by the root word"
+> "ܕܝܠܘ ܚܒܪܐ ܥܡ ܕܝܠܘ ܫܪܫܐ"
 
 e.g.
 
 *   "stammend von"
 *   "gehörig zu"
 
-The words formed in this manner are adjectives, but they can be substantivized, e.g., as patronymics (name formation based on the father: "son of N.N.") or abstracta (mostly neuter).
+Die so gebildeten Wörter sind Adjektive, können aber substantiviert werden, z.B. als Patronyme (Namensbildung nach dem Vater: „Sohn des N.N.“) oder Abstrakta (meist Neutrum).
 :::
-Examples:
+Beispiele:
 
 ::: indent
 | Grundwort | Ableitung |
@@ -230,16 +230,16 @@ Examples:
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
 | **andere Deklinationsstämme:** | siehe Wackernagel, Altind. Grammatik II,2 § 38 |
 
-Before the suffix **-ya**, the stem ending is treated similarly to before the suffix **-a**.
+קדם סופיקה **-ya**, שרשׁא דסוף מתנהג כדכין קדם סופיקה **-a**.
 :::
-See examples above!
+ראה דוגמאן לעיל!
 
 ::: grammar-box
 **By means of these suffixes, derivatives can also be formed from compounds.**
 
 e.g. **⟪स्वश्व⟫** m. "he, whose horses are good" proper name » **⟪सौवश्व⟫** m. "descendant of Svaśva"
 
-**In compounds where, due to sandhi, a final -i or -u in the first member is replaced by -y or -v respectively, and thus precede the first vowel of the base word (e.g., compounds with ni-, vi-, su-), the ⟪वृद्धि⟫ is formed as if -iy or -uv were present.**
+**בשילובים שבהם, בשל סנדי, -i או -u סופיים באבר הראשון מוחלפים ב-י או -ו בהתאמה, וכך מקדימים את התנועה הראשונה של מילת הבסיס (למשל, שילובים עם ni-, vi-, su-), ה⟪वृद्धि⟫ נוצר כאילו -iy או -uv קיימים.**
 
 e.g. **⟪व्याघ्र⟫** m. "tiger" » **⟪वैयाघ्र⟫** 3 "descended from a tiger, belonging to a tiger"
 :::
@@ -248,7 +248,7 @@ e.g. **⟪व्याघ्र⟫** m. "tiger" » **⟪वैयाघ्र⟫
 Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Image source: [Details](/arc/licenses#lekt4801))
 :::
-## 48.4. Vocabulary List
+## 48.4. ܡ̈ܠܝܢ List
 
 ⟪श्वस्⟫ : morgen
 
@@ -355,34 +355,34 @@ Fig.: ⟪मम⟫ ⟪जाया⟫
 (Image: Payer)
 (Image source: [Details](/arc/licenses#lekt4809))
 :::
-## 48.5. Exercise
+## 48.5. ܬܪܓܠܐ
 
-A) Translate the ⟪सुभाषितानि⟫ at the beginning of the lesson.
+A) ܛܪ̈ܓ ܕܡܠܬ ⟪सुभाषितानि⟫ ܒܐܘܟܬܐ.
 
-B) Translate into Sanskrit (use the imperative and preferably roots of the 2nd and 3rd present class):
+B) ܛܪ̈ܓ ܠܫܢܐ ܣܡܝܩ (ܒܨ̈ܘܬܐ ܕܡܠܬ ܦܥܠ ܘܒܪ̈ܝܐ ܕܦܥܠ ܬܡܢܝܐ ܘܪ̈ܒܥܝܐ):
 
-1. After you have received a son, leave the family!
-2. Descendants of Puru, fear those who have done evil!
-3. The girls should give food to the beggars.
-4. We want to speak.
-5. With the words "Come, monk!" the Buddha admitted the man into the monastic order (⟪उपसम्पद्⟩ causative).
-6. Be true descendants of Manu!
-7. I want to praise ⟪शिव⟩ and the other gods.
-8. Tell!
-9. Measure out the hells!
-10. They (pl.) should lie on these beds.
-11. The tiger-like men should kill those who are hostile to Indra.
-12. Concentrate!
-13. Sit here!
-14. We want to eat these fruits.
-15. The servant should milk the cow.
-16. King, guard the dharma and the people.
-17. Teach the students the Veda!
-18. He should put on new clothes.
-19. They (pl.) should sit in my house.
-20. Husbands should maintain their wives (in the sense of support).
+1. ܟܕ ܠܒ̈ܫܬ ܒܪ, ܦܩܕ!
+2. ܒܪ̈ܝ ܦܘܪܐ, ܚܕܩܘ ܠܗܝܢ ܕܥܒܕܘ ܪ̈ܫܐ!
+3. ܢܟܬ̈ܝܐ ܠܒ̈ܫܘ ܓܕܠܬܐ ܠܡܨ̈ܟܝ.
+4. ܐܢܚܢܐ ܡܠ̈ܠܝܢ.
+5. ܒܡ̈ܠܬ "ܐܬܝ", ܫܘܒ̈ܟܐ ܠܓܒܪܐ ܠܡܕܢܚܬܐ (⟪उपसम्पद्⟩ ܦܥܠ).
+6. ܒ̈ܪ̈ܝ ܡܢܘ ܗܘܐ!
+7. ܐܢܚܢܐ ܡܠ̈ܠܝܢ ⟪शिव⟩ ܘܐ̈ܠ̈ܗܬ̈ܝܢ ܐ̈ܚܪ̈ܝ.
+8. ܡܠ̈ܠ!
+9. ܦܩܕ ܢ̈והܪ!
+10. ܗܝܢ (ר̈ב) ܠܒ̈ܫܘ ܥܪ̈ܣܐ ܗܠܝ.
+11. ܓܒ̈ܪ̈ܝ ܐܣܘܡܐ ܩ̈ט̈ܠܘ ܠܗܝܢ ܕܡܪ̈ܓܐ ܠܐܝܢ.
+12. ܚܕܩ!
+13. ܐܬܒ!
+14. ܐܢܚܢܐ ܡܠ̈ܠܝܢ ܠܗܘ ܦܪܝ.
+15. ܫ̈ܦܚܐ ܠܒ̈ܫܘ ܥܓܪܬܐ.
+16. ܡ̈ܠܟ, ܫܒܪ ܕܝܢ ܘܥܡܐ.
+17. ܠܦ̈ܢ ܡܕܥ ܐܘܪ̈ܝܬܐ!
+18. ܗܘ ܠܒ̈ܫܐ ܠܦܪ̈ܘܣܝ.
+19. ܗܝܢ (ר̈ב) ܐܬܒܘ ܠܟܝܢ.
+20. ܓܒ̈ܪ̈ܝ ܠܒ̈ܫܘ ܢܫܬ̈ܗܝ.
 
-## 48.6. Übersetzungsübung
+## 48.6. ܬܪܓܠܐ ܕܬܘܪܓܡܐ
 
 ⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫):
 

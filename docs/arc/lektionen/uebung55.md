@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 55
+# ܬܪܓܠܐ 55
 
-Determine and translate the following forms and form the corresponding forms of the **a-aorist**:
+حدد و ترجم الأشكال التالية وشكل الأشكال المقابلة من **a-aorist**:
 
 ::: grammar-box
 | No. | Form | Determination / Meaning | a-Aorist |

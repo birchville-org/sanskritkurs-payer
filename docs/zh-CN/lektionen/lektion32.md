@@ -4,9 +4,9 @@ lesson_id: 32
 status: stable
 ---
 
-# Lektion 32
+# 第32课
 
-## 32.1. Die Vergangenheitstempora
+## 32.1. 过去时态
 
 ::: grammar-box
 **在较早的梵文文献以及本土语法学家的论述中，过去时的三种时态在用法上有着清晰的区分：**
@@ -22,7 +22,7 @@ status: stable
 ::: grammar-box
 **教育：**
 
-**Augment a- + Präsensstamm + Sekundärendung**
+**Augment a- + 现在时词干 + 次要词尾**
 
 **第三人称单数 Parasmaipada 未完成时态的词尾，对于无词尾变化的词根，由强现在时词干构成；所有其他形式则由弱现在时词干构成。**
 
@@ -85,7 +85,7 @@ status: stable
 | 被动语态 | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
-### 32.4.2. Athematische Präsensklassen
+### 32.4.2. 无词干元音现在时类
 
 ::: grammar-box
 
@@ -106,7 +106,7 @@ status: stable
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
 :::
-## 32.5. Wortliste
+## 32.5. 词汇表
 
 **⟪अग्र⟫ n.:** 尖端，最外端
 
@@ -551,11 +551,11 @@ C) 翻译成梵文：
 
 ::: media
 ![](/images/lekt3209.webp)
-Abb.: ⟪पुनर्दर्शनाय⟫
-Indischer Gruß / Abschied.
-(Bildquelle: [Details](/zh-CN/licenses#lekt3209))
+图：⟪पुनर्दर्शनाय⟫
+印度式问候/告别。
+（图片来源：[详情](/zh-CN/licenses#lekt3209)）
 :::
-## 32.8. Wiederholungsübung
+## 32.8. 复习练习
 
 翻译并确定以下词形：
 
@@ -600,7 +600,7 @@ Indischer Gruß / Abschied.
 39. ⟪यत्सु⟫
 40. ⟪रोत्स्यन्ती⟫
 
-## 32.9. Übersetzungsübung
+## 32.9. 翻译练习
 
 紧凑
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫**⟪न्पथि⟫** ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟩：br
@@ -644,7 +644,7 @@ Indischer Gruß / Abschied.
 
 **lekt3207:** 在拉贾斯坦邦燃烧的牛粪饼。[图片来源：thebigdurian / Flickr。CC BY-NC-SA]
 
-**lekt3206:** Mehndi-Handbemalung in Mumbai. [Bildquelle: the_gman / Flickr. CC BY-NC-SA]
+**lekt3206:** 孟买的 Mehndi（海娜）手绘。[图片来源：the_gman / Flickr. CC BY-NC-SA]
 
 **lekt3208:** 斯里兰卡的佛教僧侣。[图片来源：Trollderella / Wikipedia。GNU FDL]
 

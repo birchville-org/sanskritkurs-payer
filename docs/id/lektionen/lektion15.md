@@ -18,21 +18,21 @@ status: stable
 
 ## 15.2. Determinative Compounds = Tatpuruṣa m. = ⟪तत्पुरुष⟫
 
-The relationship between entities designated by nouns (substantives and adjectives) can be expressed not only through a genitive construction but also through a *Tatpuruṣa* (⟪तत्पुरुष⟫). Similarly, attributive modifications of adjectives or appositional modifications of substantives can be expressed through a specific type of *Tatpuruṣa*, namely the so-called *Karmadhāraya* (m.) = ⟪कर्मधारय⟫.
+Hubungan antara entitas yang ditandai oleh kata benda (kata sifat dan kata kerja) dapat dinyatakan tidak hanya melalui konstruksi genitif tetapi juga melalui *Tatpuruṣa* (⟪तत्पुरुष⟫). Demikian pula, modifikasi atributif kata sifat atau modifikasi aposisional kata benda dapat dinyatakan melalui jenis khusus *Tatpuruṣa*, yaitu yang disebut *Karmadhāraya* (m.) = ⟪कर्मधारय⟫.
 
-⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫ "his servant," i.e., an example of such a compound serves as the designation for this type of compound.
+⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫ "pelayannya," yaitu, contoh dari gabungan kata seperti itu berfungsi sebagai penunjukan untuk jenis gabungan kata ini.
 
 ::: grammar-box
 
-In determinative compounds (*Tatpuruṣa*), a noun (substantive or adjective) is specified by another noun or adverb. The specified word typically forms the final member (padānta) of the compound.
+Dalam majemuk determinatif (*Tatpuruṣa*), sebuah kata benda (substantif atau adjektiva) ditentukan oleh kata benda lain atau kata keterangan. Kata yang ditentukan biasanya membentuk anggota akhir (padānta) dari majemuk tersebut.
 
-The relationship between the initial member (determining member) and the final member (specified member) can be:
+Hubungan antara anggota awal (anggota penentu) dan anggota akhir (anggota yang ditentukan) dapat berupa:
 
-*   **attributive or appositional**: upon resolution of the compound, the initial member forms a specification of the final member in the same case (i.e., outside a sentence context, in the nominative (⟪प्रथमा⟫); within a sentence, in the syntactically required case).
-*   **casual**: upon resolution of the compound, the initial member stands in a different case than the final member (i.e., not in the nominative - ⟪प्रथमा⟫).
-*   **adverbial**: the initial member is an indeclinable word.
+*   **atributif atau aposisional**: setelah penguraian majemuk, anggota awal membentuk spesifikasi dari anggota akhir dalam kasus yang sama (yaitu, di luar konteks kalimat, dalam nominatif (⟪प्रथमा⟫); dalam sebuah kalimat, dalam kasus yang disyaratkan secara sintaksis).
+*   **kasual**: setelah penguraian majemuk, anggota awal berada dalam kasus yang berbeda dari anggota akhir (yaitu, bukan dalam nominatif - ⟪प्रथमा⟫).
+*   **adverbial**: anggota awal adalah kata tak berubah.
 
-The case relationship between the two members of a compound is independent of the case in which the compound itself stands: the compound is, after all, a single declinable word:
+Hubungan kasus antara dua anggota sebuah majemuk independen dari kasus di mana majemuk itu sendiri berada: majemuk tersebut, pada akhirnya, adalah sebuah kata yang dapat dideklinasikan tunggal:
 
 For example:
 
@@ -43,7 +43,7 @@ For example:
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫  
 > etc.
 
-The gender of a *Tatpuruṣa* is—with few exceptions—that of its final member.
+Jenis kelamin *Tatpuruṣa* adalah — dengan beberapa pengecualian — jenis kelamin dari anggota terakhirnya.
 
 :::
 ## 15.3. Determinative Compounds with Attributive / Appositional First Member = Karmadhāraya m. = ⟪कर्मधारय⟫
@@ -63,7 +63,7 @@ Nom. pl. ⟪गुणवत्पुत्राः⟫
 
 ⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = “good people”  
 
-⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = “the desired deity = the deity with whom one has a special relationship of devotion and refuge”
+⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = “dewa yang diinginkan = dewa dengan siapa seseorang memiliki hubungan khusus berupa pengabdian dan pelarian”
 
 ::: media
 ![](/images/lekt1501.webp)
@@ -72,65 +72,65 @@ Fig.: ⟪लक्ष्मी⟫
 :::
 ::: grammar-box
 
-The following special rule applies to the order of members in a Karmadhāraya:
+[0] The following special rule applies to the order of members in a Karmadhāraya:
 
 *   If a Karmadhāraya expresses a COMPARISON, then that which serves as the standard of comparison stands in the second member of the compound:
 
     ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = “a man like a lion”  
     ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = “a man like a tiger”
 
-*   If, however, a Karmadhāraya expresses an apposition (a specification of the second member by a noun), then the specifying element stands in the first member, as required by the general rule for the order of members in a Tatpuruṣa:
+*   Jika, bagaimanapun, sebuah Karmadhāraya menyatakan aposisi (spesifikasi anggota kedua oleh suatu kata benda), maka elemen yang menentukan berada pada anggota pertama, sebagaimana disyaratkan oleh aturan umum mengenai urutan anggota dalam Tatpuruṣa:
 
     ⟪नरसिंहः⟫ can also be resolved as: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = “A lion who (in reality) is a man.”
 
-    Such appositional Karmadhāraya compounds are resolved in indigenous commentaries, as in the example above, by means of ⟪एव⟫.
+Komposisi Karmadhāraya yang bersifat aposisional seperti itu diuraikan dalam komentar-komentar asli, sebagaimana pada contoh di atas, dengan menggunakan ⟪एव⟫.
 
 :::
 ::: media
 ![](/images/lekt1503.webp)
 Fig.: ⟪नरसिंहः⟫
-(Image source: [Details](/en/licenses#lekt1503))
+(Sumber gambar: [Details](/en/licenses#lekt1503))
 :::
-## 15.4. Determinative Compounds with a First Member in a Non-Attributive/Appositional Case Relation to the Second Member = Tatpuruṣa in the Narrower Sense
+## 15.4. Komposisi Penentu dengan Anggota Pertama dalam Hubungan Kasus Non-Atributif/Aposisional terhadap Anggota Kedua = Tatpuruṣa dalam Makna Sempit
 
 ::: grammar-box
 
-Tatpuruṣa compounds are possible for combinations of nouns (nouns and adjectives), in which the first member can stand in any case, according to the rules of syntax. As expected, the first member most frequently represents a genitive (⟪षष्ठी⟫), since this is the case used to express the relationship between nouns.
+[Kompausata Tatpuruṣa memungkinkan untuk kombinasi kata benda (kata benda dan kata sifat), di mana anggota pertama dapat berada dalam kasus apa pun, sesuai dengan aturan sintaksis. Seperti yang diharapkan, anggota pertama paling sering mewakili genitif (⟪षष्ठी⟩), karena ini adalah kasus yang digunakan untuk menyatakan hubungan antara kata benda.]
 
 :::
 For example:
 
-⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "the son of a Kṣatriya", "a young Kṣatriya", "a member of the group of Kṣatriyas"  
+⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "putra seorang Kṣatriya", "seorang pemuda Kṣatriya", "seorang anggota kelompok Kṣatriyas"  
 Acc. sg. ⟪क्षत्रियपुत्रम्⟫  
 Gen. sg. ⟪क्षत्रियपुत्रस्य⟫  
-etc.
+dll.
 
 ⟪गुरुभावः⟫ = ⟪गुरोर्भावः⟫ = "the nature of a teacher"
 
 ⟪धनलोभः⟫ = ⟪धनस्य⟫ ⟪लोभः⟫ = "desire for wealth, greed"
 
-⟪लोकगतिः⟫ = ⟪लोकस्य⟫ ⟪गतिः⟫ = "the course of the world, the behavior of people"
+⟪लोकगतिः⟫ = ⟪लोकस्य⟫ ⟪गतिः⟫ = "jalannya dunia, perilaku manusia"
 
-Almost any genitive relationship can be replaced by a Tatpuruṣa compound. See, for example, Kale, *A Higher Sanskrit Grammar* § 211, for the few exceptions, as well as the corresponding passages in Pāṇini.
+Hampir semua hubungan genitif dapat diganti dengan majemuk Tatpuruṣa. Lihat, misalnya, Kale, *A Higher Sanskrit Grammar* § 211, untuk beberapa pengecualian, serta bagian yang sesuai dalam Pāṇini.
 
-However, the first member of a Tatpuruṣa can, in principle, represent any case. Nevertheless, not all syntactically possible case relationships can be replaced by a Tatpuruṣa compound. In case of doubt, the relevant rules can be found in Kale, *A Higher Sanskrit Grammar* §§ 203–217, or in Pāṇini 2.1.22–2.2.22.
+Namun, anggota pertama dari sebuah Tatpuruṣa pada prinsipnya dapat mewakili kasus apa pun. Meskipun demikian, tidak semua hubungan kasusal yang secara sintaksis mungkin dapat diganti dengan majemuk Tatpuruṣa. Jika ragu, aturan yang relevan dapat ditemukan dalam Kale, *A Higher Sanskrit Grammar* §§ 203–217, atau dalam Pāṇini 2.1.22–2.2.22.
 
 ::: grammar-box
 
-The first member, when the compound is resolved, may appear in the singular, dual, or plural. Which of these possibilities applies must be inferred from meaning and context.
+Anggota pertama, ketika majemuk diuraikan, dapat muncul dalam bentuk tunggal, dwivacana, atau jamak. Kemungkinan mana yang berlaku harus disimpulkan dari makna dan konteks.
 
 :::
 Examples:
 
-The first member represents the accusative (⟪द्वितीया⟫): for example, in certain past participles (PPP) derived from verbs of motion (Pāṇini 2.1.24):
+Anggota pertama mewakili akusatif (⟪द्वितीया⟫): misalnya, pada beberapa kata kerja lampau (PPP) yang berasal dari kata kerja gerak (Pāṇini 2.1.24):
 
 ⟪ग्रामगतः⟫ = ⟪ग्रामं⟫ ⟪गतः⟫ = "one who has gone to the village"  
 ⟪नरकपतिता⟫ = ⟪नरकं⟫ ⟪पतिता⟫ = "one who has fallen into a hell"
 
-The first member represents the instrumental (⟪तृतीया⟫): for example, frequently the agent (⟪कर्तृ⟫) of nominal derivatives with kṛt suffixes (e.g., PPP):
+Anggota pertama mewakili alat (⟪तृतीया⟫): misalnya, sering kali pelaku (⟪कर्तृ⟫) dari derivasi nomina dengan akhiran kṛt (mis., PPP):
 
-⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "made by a god / by gods"  
-It could also be resolved as: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "act / deed of a god / of gods; divine act, acts of gods"
+⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "dibuat oleh dewa / oleh para dewa"
+Ini juga dapat diuraikan sebagai: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "tindakan / perbuatan dewa / para dewa; tindakan ilahi, tindakan-tindakan para dewa"
 
 ⟪बुद्धरक्षिता⟫ = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "one who was protected by Buddha" (a proper name)
 
@@ -138,7 +138,7 @@ It could also be resolved as: ⟪देवस्य⟫ / ⟪देवाना�
 
 ::: grammar-box
 
-Although Sanskrit allows for the formation of compounds of arbitrary length—and indeed, such formations are very common (compounds consisting of 10 to 30 members are by no means rare)—all compounds, with the exception of Dvandvas, are progressively hierarchical and can be decomposed into two parts at each step:
+Meskipun Sanskerta memungkinkan pembentukan majemuk dengan panjang sembarang—dan memang, pembentukan seperti itu sangat umum (majemuk yang terdiri dari 10 hingga 30 anggota sama sekali tidak jarang)—semua majemuk, kecuali Dvandvas, bersifat hierarkis progresif dan dapat diuraikan menjadi dua bagian pada setiap langkah:
 
 :::
 ::: media
@@ -159,7 +159,7 @@ For example:
 > 
 > = "the meritorious deed (or merit) performed by my virtuous son"
 
-In this process, different types of compounds may be mixed; for example, the prior member (Vorderglied) may be a Bahuvrīhi (⟪बहुव्रीहि⟫), while the posterior member (Hinterglied) is a Tatpuruṣa, and so forth.
+Dalam proses ini, berbagai jenis majemuk dapat dicampur; misalnya, anggota sebelumnya (Vorderglied) mungkin berupa Bahuvrīhi (⟪बहुव्रीहि⟩), sedangkan anggota berikutnya (Hinterglied) adalah Tatpuruṣa, dan seterusnya.
 
 For example:
 
@@ -169,32 +169,32 @@ For example:
 > 
 > 2nd level: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
 > 
-> = "the dharma of Brahmins, Kṣatriyas, and Vaiśyas"
+> = "dharma Brahmana, Kṣatriya, dan Vaiśya"
 
-Very often, there are multiple possible ways to resolve a given compound. Whether a particular resolution is correct—or at least the most appropriate—can only be determined from the context and the content of the text. Sometimes, such a decision is impossible. Often, two possible resolutions are likely intended by the author. In such cases, both interpretations must be rendered in the translation (connected by "and," "or," "respectively," or similar conjunctions).
+Sangat sering, terdapat beberapa cara yang mungkin untuk menyelesaikan suatu kompaus tertentu. Apakah resolusi tertentu itu benar—atau setidaknya paling tepat—hanya dapat ditentukan dari konteks dan isi teks. Terkadang, keputusan seperti itu tidak mungkin dilakukan. Seringkali, dua resolusi yang mungkin dimaksudkan oleh penulis. Dalam kasus tersebut, kedua interpretasi harus diterjemahkan (dihubungkan dengan "dan", "atau", "masing-masing", atau konjungsi serupa).
 
 For example:
 
 ⟪पुण्यवत्पुत्रकृतम्⟫
 
-> 1st level: either – or
+> Tingkat 1: baik – maupun
 > 
 > 1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫
 > 2. ⟪पुण्यवत्पुत्रस्य⟫ ⟪कृतम्⟫
 > 3. ⟪पुण्यवत्⟫ ⟪पुत्रकृतम्⟫
 > 
-> 2nd level: accordingly
+> Tingkat 2: oleh karena itu
 > 
-> 1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "that done by my meritorious son"
-> 2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "the deed of my meritorious son"
-> 3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "the meritorious deed done by my son"
->    2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "the meritorious deed of my son"
+> 1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "yang dilakukan oleh anakku yang berbakti"
+> 2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "perbuatan anakku yang berbakti"
+> 3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "perbuatan berbakti yang dilakukan oleh anakku"
+>    2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "perbuatan berbakti dari anakku"
 
-## 15.6. The Form of the First Member in Compounds (⟪समास⟫ m.)
+## 15.6. Bentuk Anggota Pertama dalam Majemuk (⟪समास⟩ m.)
 
 ::: grammar-box
 
-In all types of compounds, the first member is generally the uninflected stem. Two-stem nouns appear in the weak stem. Feminine adjectives that further specify a following member in a compound generally appear in the masculine stem:
+Dalam semua jenis majemuk, anggota pertama umumnya adalah bentuk dasar yang tidak terinfleksi. Kata benda dua-bentuk muncul dalam bentuk lemah. Kata sifat feminin yang lebih menentukan anggota berikutnya dalam majemuk umumnya muncul dalam bentuk maskulin:
 
 For example:
 
@@ -204,35 +204,35 @@ For example:
 :::
 ## 15.7. Classification of ⟪तत्पुरुष⟫
 
-1.  **⟪प्रथमातत्पुरुषः⟫** : The first member stands in the nominative (⟪प्रथमा⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
-2.  **⟪द्वितीयातत्पुरुषः⟫** : The first member stands in the accusative (⟪द्वितीया⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
-3.  **⟪तृतीयातत्पुरुषः⟫** : The first member stands in the instrumental (⟪तृतीया⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
-4.  **⟪चतुर्थीतत्पुरुषः⟫** : The first member stands in the dative (⟪चतुर्थी⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
-5.  **⟪पञ्चमीतत्पुरुषः⟫** : The first member stands in the ablative (⟪पञ्चमी⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
-6.  **⟪षष्ठीतत्पुरुषः⟫** : The first member stands in the genitive (⟪षष्ठी⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
-7.  **⟪सप्तमीतत्पुरुषः⟫** : The first member stands in the locative (⟪सप्तमी⟫) in the ⟪विग्रहवाक्य⟫ (analytical sentence).
+1. **⟪प्रथमातत्पुरुषः⟫** : Anggota pertama berada dalam nominatif (⟪प्रथमा⟫) pada ⟪विग्रहवाक्य⟫ (kalimat analitis).
+2. **⟪द्वितीयातत्पुरुषः⟫** : Anggota pertama berada dalam akusatif (⟪द्वितीया⟫) pada ⟪विग्रहवाक्य⟫ (kalimat analitis).
+3. **⟪तृतीयातत्पुरुषः⟫** : Anggota pertama berada dalam instrumetal (⟪तृतीया⟫) pada ⟪विग्रहवाक्य⟫ (kalimat analitis).
+4. **⟪चतुर्थीतत्पुरुषः⟫** : Anggota pertama berada dalam datif (⟪चतुर्थी⟫) pada ⟪विग्रहवाक्य⟫ (kalimat analitis).
+5. **⟪पञ्चमीतत्पुरुषः⟫** : Anggota pertama berada dalam ablatif (⟪पञ्चमी⟫) pada ⟪विग्रहवाक्य⟫ (kalimat analitis).
+6. **⟪षष्ठीतत्पुरुषः⟫** : Anggota pertama berada dalam genitif (⟪षष्ठी⟫) pada ⟪विग्रहवाक्य⟫ (kalimat analitis).
+7. **⟪सप्तमीतत्पुरुषः⟫** : Anggota pertama berada dalam lokatif (⟪सप्तमी⟫) pada ⟪विग्रहवाक्य⟫ (kalimat analitis).
 
-*   **⟪कर्मधारयः⟫** : appositional Tatpuruṣa, among others:
-    *   **⟪उपमानपूर्वपदकर्मधारयः⟫** : ⟪विग्रहवाक्य⟫ (analytical sentence) with ⟪इव⟫ after the first member.
-    *   **⟪उपमानोत्तरपदकर्मधारयः⟫** : ⟪विग्रहवाक्य⟫ (analytical sentence) with ⟪इव⟫ after the second member.
-    *   **⟪रूपकसमासः⟫** : ⟪विग्रहवाक्य⟫ (analytical sentence) with ⟪एव⟫.
-    *   **⟪द्विगुसमासः⟫** : numeral in the first member.
-*   **⟪नञ्तत्पुरुषः⟫** (⟪निषेधतत्पुरुषः⟫) : with negation a-, an- in the first member.
-*   **⟪गतिसमासः⟫** : with a preposition in the first member.
-*   **⟪प्रथमातत्पुरुषः⟫** etc. (see above).
+*   **⟪कर्मधारयः⟫** : Tatpuruṣa apozisional, antara lain:
+*   **⟪उपमानपूर्वपदकर्मधारयः⟫** : ⟪विग्रहवाक्य⟫ (kalimat analitis) dengan ⟪इव⟫ setelah anggota pertama.
+*   **⟪उपमानोत्तरपदकर्मधारयः⟫** : ⟪विग्रहवाक्य⟫ (kalimat analitis) dengan ⟪इव⟫ setelah anggota kedua.
+*   **⟪रूपकसमासः⟫** : ⟪विग्रहवाक्य⟫ (kalimat analitis) dengan ⟪एव⟫.
+*   **⟪द्विगुसमासः⟫** : numeralia pada anggota pertama.
+*   **⟪नञ्तत्पुरुषः⟫** (⟪निषेधतत्पुरुषः⟫) : dengan negasi a-, an- pada anggota pertama.
+*   **⟪गतिसमासः⟫** : dengan preposisi pada anggota pertama.
+*   **⟪प्रथमातत्पुरुषः⟫** dll. (lihat di atas).
 
 ### 15.7.1. Classification of ⟪कर्मधारय⟫ (Karmadhāraya)
 
-1.  **⟪विशेषणपूर्वपदकर्मधारयः⟫ (Viśeṣaṇapūrvapadakarmadhārayaḥ)**: The first member (Vorderglied) is an adjective (⟪विशेषण⟫).
-2.  **⟪विशेषणोभयपदकर्मधारयः⟫ (Viśeṣaṇobhayapadakarmadhārayaḥ)**: Both members are adjectives; this category also includes adjectives expressing a temporal sequence, e.g., "first bathed, then anointed."
-3.  **⟪उपमानपूर्वपदकर्मधारयः⟫ (Upamānapūrvapadakarmadhārayaḥ)** (= ⟪उपमासमासः⟫ (Upamasamāsaḥ)): The first member contains a comparison, and the second member denotes the compared property, e.g., "beautiful as a lotus."
-4.  **⟪उपमानोत्तरपदकर्मधारयः⟫ (Upamānottarapadakarmadhārayaḥ)** (= ⟪उपमितसमासः⟫ (Upamitasamāsaḥ)): The comparison appears in the second member.
-5.  **⟪रूपकसमासः⟫ (Rūpakasamāsaḥ)**: A ⟪विग्रहवाक्य⟫ (vibhāga-vākya, analytical sentence) with ⟪एव⟫ (eva) following the first member (metaphor).
-6.  **⟪संभावनपूर्वपदकर्मधारयः⟫ (Saṃbhāvanapūrvapadakarmadhārayaḥ)**: Both members refer to the same person or thing, e.g., ⟪कालिदासकविः⟫ (Kālidāsakaviḥ) = ⟪कालिदास⟫ ⟪इति⟫ ⟪कविः⟫ (Kālidāsa iti kaviḥ) = "the poet Kālidāsa."
-7.  **⟪कर्मधारयः⟫ (Karmadhārayaḥ) with ⟪कु⟫ (ku) or ⟪कद्⟫ (kad) as the first member**: Meaning "badly..." or "poorly..."
-8.  **⟪कर्मधारयः⟫ (Karmadhārayaḥ) with ⟪किम्⟫ (kim) as the first member**: Expressing censure or blame.
-9.  **PPP + negated PPP**: Meaning "partially," e.g., ⟪कृताकृतम्⟫ (kṛtākṛtam) = "partially done."
-10. **⟪द्विगुसमासः⟫ (Dvigu-samāsaḥ)**: A numeral in the first member.
+1. **⟪विशेषणपूर्वपदकर्मधारयः⟫ (Viśeṣaṇapūrvapadakarmadhārayaḥ)**: Anggota pertama (Vorderglied) adalah kata sifat (⟪विशेषण⟫).
+2. **⟪विशेषणोभयपदकर्मधारयः⟫ (Viśeṣaṇobhayapadakarmadhārayaḥ)**: Kedua anggota adalah kata sifat; kategori ini juga mencakup kata sifat yang menyatakan urutan waktu, mis. "dibilas terlebih dahulu, kemudian diubati."
+3. **⟪उपमानपूर्वपदकर्मधारयः⟫ (Upamānapūrvapadakarmadhārayaḥ)** (= ⟪उपमासमासः⟫ (Upamasamāsaḥ)): Anggota pertama mengandung perbandingan, dan anggota kedua menyatakan properti yang dibandingkan, mis. "indah seperti teratai."
+4. **⟪उपमानोत्तरपदकर्मधारयः⟫ (Upamānottarapadakarmadhārayaḥ)** (= ⟪उपमितसमासः⟫ (Upamitasamāsaḥ)): Perbandingan muncul di anggota kedua.
+5. **⟪रूपकसमासः⟫ (Rūpakasamāsaḥ)**: Sebuah ⟪विग्रहवाक्य⟫ (vibhāga-vākya, kalimat analitis) dengan ⟪एव⟫ (eva) mengikuti anggota pertama (metafora).
+6. **⟪संभावनपूर्वपदकर्मधारयः⟫ (Saṃbhāvanapūrvapadakarmadhārayaḥ)**: Kedua anggota merujuk pada orang atau hal yang sama, mis. ⟪कालिदासकविः⟫ (Kālidāsakaviḥ) = ⟪कालिदास⟫ ⟪इति⟫ ⟪कविः⟫ (Kālidāsa iti kaviḥ) = "penyair Kālidāsa."
+7. **⟪कर्मधारयः⟫ (Karmadhārayaḥ) dengan ⟪कु⟫ (ku) atau ⟪कद्⟫ (kad) sebagai anggota pertama**: Berarti "buruk..." atau "kurang baik..."
+8. **⟪कर्मधारयः⟫ (Karmadhārayaḥ) dengan ⟪किम्⟫ (kim) sebagai anggota pertama**: Menyatakan kecaman atau celaan.
+9. **PPP + PPP yang dinegasi**: Berarti "sebagian," mis. ⟪कृताकृतम्⟫ (kṛtākṛtam) = "sebagian dilakukan."
+10. **⟪द्विगुसमासः⟫ (Dvigu-samāsaḥ)**: Sebuah bilangan di anggota pertama.
 
 ## 15.8. Word List
 
@@ -301,7 +301,7 @@ Fig.: vyāghraḥ
 :::
 iva (postposed): as if, like (in comparisons: vyāghra iva puruṣaḥ = “a man like a tiger,” “a tiger-like man”)
 
-eva (postposed): emphasizes the preceding word, often corresponding in German to emphasis, a kind of emoticon `\<!>`, e.g., satyameva jayati “truth alone triumphs,” “truth specifically triumphs,” “truth triumphs”
+eva (postposed): menekankan kata sebelumnya, sering kali sesuai dalam bahasa Jerman dengan penekanan, semacam emotikon `\&lt;!&gt;`, misalnya satyameva jayati “kebenaran saja menang,” “kebenaran secara spesifik menang,” “kebenaran menang”
 
 ari m.: enemy (according to Thieme, Der Fremdling im Ṛgveda: originally = stranger)
 
@@ -326,7 +326,7 @@ mṛtyu m.: death ; personified: god of death
 :::
 ## 15.9. Exercise 1
 
-Resolve the following Sanskrit compounds as *Tatpuruṣa* and provide a German translation. Provide all resolutions and translations that appear plausible to you. Also indicate the case and number of the entire compound.
+Uraikan gabungan kata Sanskerta berikut sebagai *Tatpuruṣa* dan berikan terjemahan bahasa Jerman. Berikan semua uraian dan terjemahan yang menurut Anda masuk akal. Juga sebutkan kasus dan jumlah dari keseluruhan gabungan kata tersebut.
 
 ⟪१⟫. ⟪देवेन्द्रस्य⟫
 
@@ -519,7 +519,7 @@ Fig.: ⟪ग्रामदेवता⟫
 :::
 ## 15.11. Exercise 3
 
-A) Translate the proverb at the beginning of the lesson
+A) Terjemahkan peribahasa di awal pelajaran
 
 B) Resolve the following Tatpuruṣa compounds:
 

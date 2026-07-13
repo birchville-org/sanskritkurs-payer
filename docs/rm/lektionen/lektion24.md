@@ -116,7 +116,7 @@ Ulteriuras utilisaziuns dal dativ pli tard.
 | ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ |
 
 :::
-### 24.2.2. Fragepronomen
+### 24.2.2. Pronom interrogativ
 
 ::: grammar-box
 
@@ -126,7 +126,7 @@ Ulteriuras utilisaziuns dal dativ pli tard.
 | **Dativ Plural** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
-### 24.2.3. Demonstrativpronomina
+### 24.2.3. Pronomens demonstrativs
 
 ::: grammar-box
 
@@ -297,7 +297,7 @@ Manuscrit dal ⟪गीतगोविन्द⟫, 1730 n. Chr.
 
 ⟪पुनर्⟫ Adverb: pusp, pusp, enavos, maun
 
-## 24.5. Übung
+## 24.5. Exercizi
 
 A) Formate il dativ singulair e il dativ/(ablativ) plural e donai il significà dal stemma nominal:
 

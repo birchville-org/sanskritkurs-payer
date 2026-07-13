@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 5
 
-A) Translate the following sentences and compounds and resolve the dvandvas occurring therein into Sanskrit:
+[A] Terjemahkan kalimat-kalimat dan majemuk berikut ke dalam bahasa Sanskerta, serta selesaikan dvandva yang terdapat di dalamnya:
 
 1\. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ. (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
 
@@ -46,7 +46,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
 
-4\. The three enemies of man, which form the gate to hell (Viṣṇusmṛti 33,1+6): kāmakrodhalobhāḥ
+4\. Tiga musuh manusia, yang merupakan gerbang menuju neraka (Viṣṇusmṛti 33,1+6): kāmakrodhalobhāḥ
 
 ⟪कामक्रोधलोभाः⟫
 
@@ -60,9 +60,9 @@ kāmaḥ krodho lobhaś ca.
 
 ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫
 
-Explanation: brahmavihāra: "abiding states of Brahma", also called "the immeasurables": unlimited attitudes. They represent Buddhist meditation forms with which the meditator gradually, step by step, "radiates" the entire reality. These four also play a role in Yoga (Yogasūtra 1,33) in calming the mind.
+Penjelasan: brahmavihāra: "keadaan-keadaan Brahma", juga disebut "yang tak terukur": sikap-sikap tanpa batas. Mereka mewakili bentuk-bentuk meditasi Buddha di mana meditator secara bertahap, langkah demi langkah, "memancarkan" seluruh realitas. Keempat hal ini juga memainkan peran dalam Yoga (Yogasūtra 1,33) dalam menenangkan pikiran.
 
-The immeasurable attitudes are: goodwill, compassion, sympathetic joy, and equanimity.
+Sikap-sikap tak terukur adalah: kebaikan hati, kasih sayang, sukacita simpatik, dan keseimbangan batin.
 
 maitrī karuṇā muditopekṣā ca catvāro brahmavihārāḥ.
 
@@ -74,7 +74,7 @@ maitrī karuṇā muditopekṣā ca catvāro brahmavihārāḥ.
 
 Explanation: pañca = "five"
 
-The five afflictions are: ignorance, egoism, greed, hatred, and clinging.
+Lima kesengsaraan adalah: kebodohan, egoisme, ketamakan, kebencian, dan keterikatan.
 
 avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
@@ -145,7 +145,7 @@ dvijātayo vaiśyāḥ. dvijātayaḥ kṣatriyāḥ.
 
 ⟪द्विजातयो⟫ ⟪वश्याः⟫ ⟪।⟫ ⟪द्विजातयः⟫ ⟪क्षत्रियाः⟫ ⟪॥⟫
 
-C) Resolve the compound in the following sentence into Sanskrit and form the same sentence with this resolved form:
+[C) Uraikan majemuk dalam kalimat berikut ke dalam bahasa Sanskerta dan bentuk kalimat yang sama dengan bentuk uraiannya:]
 
 sāmargyajurvedās trayī.
 

@@ -7,11 +7,11 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lesson 49
+# ܠܶܩܨܺܝܳܘܢ ܡܛ
 
-## 49.1. Formation of the Imperative (⟪लोट्⟫) athematic present stems (continuation)
+## 49.1. ܨܘܪܬܐ ܕܦܘܩܕܢܐ (⟪लोट्⟫) ܕܥܩܪ̈ܐ ܕܙܒܢܐ ܗܫܝܐ ܕܠܐ ܬܝܡܐ (continuation)
 
-### 49.1.1. Seventh Present Class  (⟪रुधादि⟫)
+### 49.1.1. ܕܪܓܐ ܫܒܝܥܝܐ ܕܙܒܢܐ ܗܫܝܐ (⟪ܪܘܕܗܐܕܝ⟫)
 
 ⟪युज्⟫ 7U
 
@@ -33,10 +33,10 @@ status: stable
 | **2. Person** :br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
 :::
-### 49.1.2. Fifth Present Class (⟪स्वादि⟫)
+### 49.1.2. ܩܠܳܣܳܐ ܕܚܰܡܫܳܐ ܕܙܰܒܢܳܐ ܗܳܫܳܝܳܐ (⟪ܣܒܳܐܕܺܝ⟫)
 
 ::: grammar-box
-The 2.sg.P imperative is uninflected for roots of the 5th and 8th class, where only a consonant precedes the final -u of the suffix.
+ܐܡܛܠ ܕܟܢܝܬ ܦܥܠ ܫܘܪܩܐ ܕܡܢ 5ܘ8، ܠܝܣܬ ܡܫܬܥܒܕܐ ܠܦܘܪܫܬ -u، ܕܟܢܝܬ ܣܘܼܡܩܐ ܠܦܘܪܫܬ -u.
 :::
 ⟪सु⟫ 5U
 
@@ -58,7 +58,7 @@ The 2.sg.P imperative is uninflected for roots of the 5th and 8th class, where o
 | **2. Person** :br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
 :::
-### 49.1.3. Eighth Present Class (⟪तनादि⟫)
+### 49.1.3. ܕܪܓܐ ܕܬܡܢܝܐ ܕܙܒܢܐ ܗܫܝܐ (ܬܢܐܕܝ)
 
 ⟪तन्⟫ 8U
 
@@ -80,7 +80,7 @@ The 2.sg.P imperative is uninflected for roots of the 5th and 8th class, where o
 | **2. Person** :br⟪मध्यमः⟫ | *⟪कुरु⟫* | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
 :::
-### 49.1.4. Ninth Present Class (⟪क्र्यादि⟫)
+### 49.1.4. ܕܪܓܳܐ ܬܫܝܥܳܝܳܐ ܕܙܰܒܢܳܐ ܗܳܫܳܝܳܐ (⟪ܟܪܝܳܐܕܝ⟫)
 
 ⟪क्री⟫ 9U
 
@@ -88,12 +88,12 @@ The 2.sg.P imperative is uninflected for roots of the 5th and 8th class, where o
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪क्रीणानि⟫:brkrī-ṇā + āni | ⟪क्रीणाम⟫ | ⟪क्रीणै⟫:brkrī-ṇā + ai | ⟪क्रीणामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪क्रीणीहि⟫ | ⟪क्रीणीत⟫ | ⟪क्रीणीष्व⟫ | ⟪क्रीणीध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
+| **ܣܘܼ ܠܦܢܬܐ** :br⟪तृतीयः⟫ | ⟪क्रीणानि⟫:brkrī-ṇā + āni | ⟪क्रीणाम⟫ | ⟪क्रीणै⟫:brkrī-ṇā + ai | ⟪क्रीणामहै⟫ |
+| **ܬܘܼ ܠܦܢܬܐ** :br⟪मध्यमः⟫ | ⟪क्रीणीहि⟫ | ⟪क्रीणीत⟫ | ⟪क्रीणीष्व⟫ | ⟪क्रीणीध्वम्⟫ |
+| **ܬܠܝܼ ܠܦܢܬܐ** :br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
 :::
 ::: grammar-box
-Roots of the 9th class, which end in a consonant, replace the final -nī-hi of the 2.sg. imperative with -āna
+שרשי מדרגה תשעית, המסתיימים בעיצור, מחליפים את הסיום -nī-hi של ציווי יחיד ג' ב-āna
 :::
 ⟪ग्रह्⟩ 9U
 
@@ -105,9 +105,9 @@ Roots of the 9th class, which end in a consonant, replace the final -nī-hi of t
 | **2. Person** :br⟪मध्यमः⟫ | *⟪गृहाण⟫* | ⟪गृह्णीत⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
 :::
-## 49.2. Declension of nominal stems ending in -as, -is, -us
+## 49.2. ܢܘܛܝܐ ܕܓܕܫ̈ܐ ܫܡܝܢ̈ܐ ܕܡܫܬܠܡܝܢ ܒ-ܐܣ, -ܐܝܣ, -ܐܘܣ
 
-#### Neutrum (⟪नपुंसक⟫)
+#### ܢܝܘܛܪܘܡ (⟪नपुंसक⟫)
 
 ::: grammar-box
 | | **⟪मनस्⟫ n.** :br"Gedanke" | **⟪हविस्⟫ n.** :br"Opferspende" | **⟪चक्षुस्⟫ n.** :br"Auge" |
@@ -127,12 +127,12 @@ Roots of the 9th class, which end in a consonant, replace the final -nī-hi of t
 | ⟪षष्ठी⟫ | ⟪मनसाम्⟫ | ⟪हविषाम्⟫ | ⟪चक्षुषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪मनस्सु⟫:br⟪मनःसु⟫ | ⟪हविष्षु⟫:br⟪हविःषु⟫ | ⟪चक्षुष्षु⟫:br⟪चक्षुःषु⟫ |
 :::
-#### Masculines (⟪पुंस्⟫) and Feminines (⟪स्त्री⟫)
+#### ܕܟܪ̈ܢܝܐ (⟪ܦܘܡܣ⟫) ܘܢܩܒܬܢܝܬܐ (⟪ܣܬܪܝ⟫)
 
-Most cases are **⟪बहुव्रीहि⟫** with a -s-stem (originally neuter) in the second member.
+ܡܕܥܐ ܕܚܘܒ̈ܐ ܗܝ **⟪बहुव्रीहि⟫** ܥܡ ܫܪܩܬ -s (ܒܐܘܠܦܝܢ ܡܕܥܐ) ܒܬܪܝܢܬ.
 
 ::: grammar-box
-| | **⟪सुमनस्⟫ 3** :br"von gutem Denken, wohlwollend | **⟪दीर्घायुस्⟫ 3** :br"langlebig" |
+| | **⟪सुमनस्⟫ 3** :br"ܡܢ ܬܒܘܿܥܬܵܐ ܬܝܒܬܵܐ, ܡܠܛܘܿܦ" | **⟪दीर्घायुस्⟫ 3** :br"ܐܪܟܘܿܬܵܐ" |
 | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | | |
 | ⟪प्रथम⟫ | ⟪सुमनास्⟫ | ⟪दीर्घायुस्⟫ |
@@ -140,7 +140,7 @@ Most cases are **⟪बहुव्रीहि⟫** with a -s-stem (originally 
 | ⟪आमन्त्रितम्⟫ | ⟪सुमनस्⟫ | ⟪दीर्घायुस्⟫ |
 :::
 ::: indent
-Remaining cases of the singular like Neuter
+ܚܘܒ̈ܐ ܕܦܠܓܵܐ ܟܡ̈ܫܥܪ ܠܢܘܿܟܝ
 :::
 ::: grammar-box
 | | **⟪सुमनस्⟫ 3** | **⟪दीर्घायुस्⟫ 3** |
@@ -149,31 +149,31 @@ Remaining cases of the singular like Neuter
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसस्⟫ | ⟪दीर्घायुषस्⟫ |
 :::
 ::: indent
-Remaining cases of the plural like Neuter
+ܚܘܒ̈ܐ ܕܦܠܓܵܐ ܟܡ̈ܫܥܪ ܠܢܘܿܟܝ
 :::
-## 49.3. Nominal formation: ⟪कृत्⟫-suffix -as Neuter
+## 49.3. ܨܘܼܪܬܵܐ ܫܡܵܢܵܝܬܵܐ: ⟪ܟܪܝܼܬ⟫-ܣܘܼܦܝܼܟܣ -ܐܲܣ ܡܨܰܥܝܵܐ
 
 Mit dem ⟪कृत्⟫-Suffix -as Neutrum werden zahlreiche Substantive gebildet. Meist sind es Abstrakta oder Nomina actionis (Wörter, die die Handlung bezeichnen).
 
-Short vowel of the root before simple consonant as well as final root vowel appear in the strong grade.
+שְׁוָא קַטִּירָה דְּשָׁרַשׁ קֳדָם טַבְעָא פְּשׁוּטָא וְכֵן סוֹף שָׁרַשׁ מוֹצֵא בְּמַדְרִיגָא חֲזָקָה.
 
 Examples:
 
 ::: grammar-box
-| Root | Noun in -as |
+| ܫܪܫܬܐ | ܣܡܟܐ ܒـ -as |
 | --- | --- |
-| ⟪मन्⟫ 4Ā "to think" | ⟪मनस्⟫ n. "thinking, thought, organ of thought" |
-| ⟪नम्⟫ 1P "to bend" | ⟪नमस्⟫ n. "bowing, reverence" |
-| ⟪चित्⟫ 1P "to perceive, to think" | ⟪चेतस्⟫ n. "insight" |
+| ⟪मन्⟫ 4Ā "ܠܦܘܥ" | ⟪मनस्⟫ ܣܡܟܐ "ܠܦܘܥ, ܬܩܦܐ, ܙܕܩܢܘܬܐ" |
+| ⟪नम्⟫ 1P "ܟܝܠ" | ⟪नमस्⟫ ܣܡܟܐ "ܬܚܘܝܐ, ܩܕܫܢܘܬܐ" |
+| ⟪चित्⟫ 1P "ܚܙܐ, ܠܦܘܥ" | ⟪चेतस्⟫ ܣܡܟܐ "ܚܘܬܐ" |
 :::
-Nouns in -is and -us are relatively rare.
+ܣܡܟ̈ܐ ܒـ -is וـ -us ܗܝ ܢ̈ܕܪܐ.
 
 ::: media
 ![](/images/lekt4907.webp)
 Fig.: ⟪नमस्ते⟫
 (Image source: [Details](/arc/licenses#lekt4907))
 :::
-## 49.4. Word List
+## 49.4. ܡܠܘܐܐ ܕܡ̈ܠܝܢ
 
 ⟪दीर्घ⟫ 3: long
 
@@ -190,9 +190,9 @@ see:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and annotated by Alois Payer \<1944 - \>. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**כַּרָקסָמְהִיתָא:** מִן דִּכְתַבֵי כַּרָקסָמְהִיתָא / תוּגְבַּר וּפַשְׁקָן בֵּי יוֹסִף פַּיֶר \&lt;1944 - \&gt;. -- 0. מְבַעָא. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
-⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : to throw, to hurl
+⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : לְאַלְפָּא, לְמַשְׁלֵך
 
 ::: indent
 Perf. II ⟪चिक्षेप⟫, ⟪चिक्षेपिथ⟫, ⟪चिक्षिपुर्⟫
@@ -268,11 +268,11 @@ Fig.: ⟪वेषः⟫
 
 ::: media
 ![](/images/lekt4909.webp)
-Fig.: ⟪पञ्जरम्⟫
-Fortune-teller with parrot in cage: the parrot draws slips of paper on which fate is written Mysore
-(Image source: [Details](/arc/licenses#lekt4909))
+ܦܩܕܐ: ⟪पञ्जरम्⟫
+ܕܘܟܪܐ ܥܡ ܛܘܦܣܐ ܒܓܕܪܐ: ܛܘܦܣܐ ܡܫܟܚ ܩܠܨ̈ܐ ܕܝܪܘܬܐ ܠܟܬܒ̈ܐ ܕܡܝܢܘܬܐ ܡܫܘܪ
+(ܡܕܒܪ ܨܠܦ̈ܐ: [ܦܣܘܩ̈ܬܐ](/arc/licenses#lekt4909))
 :::
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: lowest level of the [Dalits](http://de.wikipedia.org/wiki/Dalit)
+⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ ܡ: ܐܘܬܒܐ ܕܢܝܪܐ ܕ[ܕܠܝܬ̈ܐ](http://de.wikipedia.org/wiki/Dalit)
 
 ⟪स्वयम्⟫ Indecl.: self, of itself
 
@@ -311,7 +311,7 @@ Fig.: ⟪गजशिशुः⟫
 Sri Lanka
 (Image source: [Details](/arc/licenses#lekt4906))
 :::
-## 49.5. Morphology Review Exercise
+## 49.5. Morphology ܬܪܓܡܬܐ ܕܚܙܘܪܐ
 
 Determine the following forms:
 
@@ -355,11 +355,11 @@ Determine the following forms:
 38.  ⟪गायी⟫
 39.  ⟪मय्हम्⟫
 
-## 49.6. Translation Exercise
+## 49.6. Translation ܬܪܓܠܐ
 
 ⟪बान⟫ (7th century CE): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, p. 35f.
 
-Questions of the King ⟪शूद्रक⟫ from ⟪विदिशा⟫ to the Parrot ⟪वैशम्पायन⟫:
+שְׁאֵלוּתָא דַמַלְכָּא ⟪शूद्रक⟫ מִן ⟪विदिशा⟫ לְיוּנְתָא ⟪वैशम्पायन⟫:
 
 ⟪नरपतिरब्रवीत्⟫ ⟪।⟫ ⟪आस्तां⟫ ⟪तावत्सर्वमेवेदम्⟫ ⟪।⟫ ⟪अपनयतु⟫ ⟪नः⟫ ⟪कुतूहलम्⟫ ⟪।⟫ ⟪आवेदयतु⟫ ⟪भवानादितः⟫ ⟪प्रभृति⟫ ⟪कार्त्न्येनात्मनो⟫ ⟪जन्म⟫ ⟪कस्मिन्देशे⟫ ⟪।⟫ ⟪भवान्कथं⟫ ⟪जातः⟫ ⟪।⟫ ⟪केन⟫ ⟪वा⟫ ⟪नाम⟫ ⟪कृतम्⟫ ⟪।⟫ ⟪का⟫ ⟪माता⟫ ⟪।⟫ ⟪कस्ते⟫ ⟪पिता⟫ ⟪।⟫ ⟪कथं⟫ ⟪वेदानामागमः⟫ ⟪।⟫ ⟪कथं⟫ ⟪शास्त्राणां⟫ ⟪परिचयः⟫ ⟪।⟫ ⟪कुतः⟫ ⟪कलाः⟫ ⟪समासादिताः⟫ ⟪।⟫ ⟪किं⟫ ⟪जन्मान्तरानुस्मरणमुत⟫ ⟪वरप्रदानम्⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विहंगवेषधारी⟫ ⟪कश्चिच्छन्नं⟫ ⟪विवससि⟫ ⟪।⟫ ⟪क्व⟫ ⟪वा⟫ ⟪पूर्वमुषितम्⟫ ⟪।⟫ ⟪कियद्वा⟫ ⟪वयः⟫ ⟪।⟫ ⟪कथं⟫ ⟪पञ्जरबन्धः⟫ ⟪।⟫ ⟪कथं⟫ ⟪चाण्डालहस्तगमनम्⟫ ⟪।⟫ ⟪इह⟫ ⟪वा⟫ ⟪कथमागमनमिति⟫ ⟪।⟫
 
@@ -384,7 +384,7 @@ Rose-ringed parakeet = Psittacula cyanocephala
 
 **lekt4904:** ⟪वाराणस्याम्⟫ [Image source: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Accessed on 2009-01-11. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
 
-**lekt4909:** Fortune-teller with parrot in cage: the parrot draws slips of paper on which fate is written Mysore [Image source: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
+**ܠܟܬ 4909:** ܡܕܘܥܐ ܣܓܠ ܦܪܝܐ ܒܩܢܘܣ: ܦܪܝܐ ܡܫܟܚ ܩܠܦ̈ܐ ܕܝܢܬ ܒܗܝ ܡܠܬ ܟܢܫܐ ܟܬܝܒܬ ܡܣܘܪ
 
 **lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Image source: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Accessed on 2009-01-11. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
 

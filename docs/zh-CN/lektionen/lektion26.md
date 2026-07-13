@@ -7,7 +7,7 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 26
+# 第26课
 
 ## 26.1. 词中-s-的脑化定律
 
@@ -134,7 +134,7 @@ status: stable
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
 :::
-## 26.8. Übung
+## 26.8. 练习
 
 构成与数、人称和语态（Parasmaipada，Ātmanepada）相应的将来时形式：
 

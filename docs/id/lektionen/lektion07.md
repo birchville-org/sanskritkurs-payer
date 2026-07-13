@@ -130,7 +130,7 @@ Apakah kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsun
 :::
 ---
 
-### 7.2.1. Akkusativ Singular dan Plural dari Kata Ganya Tanya dan Demonstratif
+### 7.2.1. Akusatif Tunggal dan Jamak dari Kata Ganti Interogatif dan Demonstratif
 
 
 
@@ -218,7 +218,7 @@ mis. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Ia mempero
 **Dalam neutrum, bentuk untuk Nominatif (prathamā) dan Akkusatif (dvitīyā) adalah identik.**
 
 :::
-### 7.4.1. Neutrum dari Stamm yang Berakhiran -a
+### 7.4.1. Netral dari Akar yang Berakhiran -a
 
 
 

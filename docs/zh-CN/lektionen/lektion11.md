@@ -7,7 +7,7 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 11
+# 第11课
 
 ::: deleteme-box
 **在本课中，您将学习：**
@@ -39,7 +39,7 @@ status: stable
 :::
 ---
 
-## 11.2. Wortliste
+## 11.2. 词汇表
 
 **学习以下词汇：**
 
@@ -68,18 +68,18 @@ status: stable
 
 ::: media
 ![](/images/lekt1102.webp)
-Abb.: **vadanāni** = ⟪वदनानि⟫
-(图片来源：[详细信息](/zh-CN/licenses#lekt1102))
+图：**vadanāni** = ⟪वदनानि⟫
+（图片来源：[详细信息](/zh-CN/licenses#lekt1102)）
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ ：询问
-  - **praśna** m. ⟪प्रश्न⟫ ：问题（后缀 **-na** 同 **yaj-ña**）
+- **praśna** m. ⟪प्रश्न⟫ ：问题（后缀 **-na** 同 **yaj-ña**）
 
 - **iṣ** 第六人称 ⟪इष्⟫ : 渴望
   - **iṣṭi** 阴性名词 ⟪इष्टि⟫ : 愿望（**iṣ** + **-ti**）
 
 ---
 
-## 11.3. Übung
+## 11.3. 练习
 
 **A) 翻译下列句子：**
 
@@ -109,7 +109,7 @@ Abb.: **vadanāni** = ⟪वदनानि⟫
 :::
 ---
 
-## 11.4. Wiederholungsübung
+## 11.4. 复习练习
 
 **A) 用带有被动结构的梵语翻译：**
 1. 吠舍妇女向婆罗门询问达摩。

@@ -52,7 +52,7 @@ Esempio:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „La donna Kṣatriya è andata in città.“
 :::
 
-### 12.1.3. Schema II per verbs intransitivs ed verbs dal moviment
+### 12.1.3. Schema II per verbs intransitivs e verbs dal moviment
 
 ::: grammar-box
 **Agent (kartṛ) instrumental (tṛtīyā) -- PPP nominativ singular neutrum**
@@ -146,7 +146,7 @@ Per las furmasiuns cun *aniṭ* èn da tegnair cont da las suandantas legas dal 
 | **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-## 12.5. Wortliste
+## 12.5. Glista da pleds
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्बुध्यतेबोधतिबुद्ध⟪ : sveschlar, sveschlar a la cumprensiun, reconuscher; PPP **buddha** 3 sveschlà, perquai **Buddha** = "el sveschlà" (betg: el illuminà)
 
@@ -234,7 +234,7 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-## 12.6. Übung
+## 12.6. Exercizi
 
 **A) Formai las frasis passivas dal temp passà cun l’ausa dal PPP (participi dal passà) da las frasis activas da [Lektion 7](/lektionen/lektion07), exercizi A; cun verbs intransitivs e verbs da moviment, formai frasis activas dal temp passà.**
 

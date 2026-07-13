@@ -7,23 +7,23 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 37
+# ܕܪܫܐ 37
 
-## 37.1. Das Adverb (⟪क्रियाविशेषणम्⟫)
+## 37.1. ܡܠܬܐ ܕܙܕܩܬܐ (⟪क्रियाविशेषणम्⟫)
 
 Adverbs are formed in Sanskrit
 
 1.  durch Kasusformen von Nomina und Pronomina
 2.  mit Hilfe besonderer Suffixe und Endungen
 
-In the first case, the boundary between living case forms and adverbs is fluid. This includes as a special case the adverbs that are fossilized, old case forms, while in the declension other forms are used or the corresponding nouns are no longer used as nouns.
+בܟܕܝܢ ܪܒܐ ܠܘܬ ܡܕܢܚܝܐ ܒܝܬ ܫܡ̈ܗܐ ܕܢܦܫܟ ܘܒܝܬ ܡܕܢܚܝܐ. ܗܕܐ ܠܘܬ ܡܕܢܚܝܐ ܒܝܬ ܫܡ̈ܗܐ ܕܢܦܫܟ ܘܒܝܬ ܡܕܢܚܝܐ، ܒܝܬ ܫܡ̈ܗܐ ܕܢܦܫܟ ܘܒܝܬ ܡܕܢܚܝܐ، ܒܝܬ ܫܡ̈ܗܐ ܕܢ
 
-## 37.2. Adverbial use of case forms
+## 37.2. ܡܬܚܫܚܢܘܬܐ ܕܕܡܘ̈ܬܐ ܕܩܛܝܪܐ ܐܝܟ ܫܡܐ ܕܩܕܡ ܦܥܠܐ
 
-### 37.2.1. Akkusativ (⟪द्वितीया⟫)
+### 37.2.1. ܩܒܠܢܝܐ (⟪ܕܘܝܬܝܝܐ⟫)
 
 ::: grammar-box
-The accusative (⟪द्वितीया⟫) can be used adverbially in response to the questions:
+אַקוּזָטִיב (⟪द्वितीया⟫) יְכֹל לְהֵעָשׂוֹת אַדְבִּירִי כְּעָנָה עַל שְׁאֵלוֹת:
 
 *   wohin?
 *   u. ä.
@@ -43,16 +43,16 @@ The accusative (⟪द्वितीया⟫) can be used adverbially in respo
     ⟪नित्यम्⟫ "always"  
     ⟪साधु⟫ "correct, good"
 
-*   of pronouns in the Neuter  
-    Examples:  
-    ⟪तद्⟫ "then, therefore"  
-    ⟪यद्⟫ "if, that"  
-    ⟪एतद्⟫ "so, here, now"
+*   של שם עצר במין נייטרלי
+דוגמאות:  
+⟪तद्⟫ "אז, לכן"
+⟪यद्⟫ "אם, ש"
+⟪एतद्⟫ "כן, כאן, עכשיו"
 :::
-### 37.2.2. Instrumental (⟪तृतीया⟫)
+### 37.2.2. ܡܰܥܒܕܳܢܳܐ (⟪ܬܪܝܬܝܳܐ⟫)
 
 ::: grammar-box
-The Instrumental (⟪तृतीया⟫) can be used adverbially in response to the questions:
+הכלי (⟪तृतीया⟫) יכול לשמש כמגיד זמן בתשובה לשאלות:
 
 *   wodurch?
 *   womit?
@@ -65,28 +65,28 @@ Adverbialmente, può essere utilizzato l'Instrumentale:
     ⟪अर्थेन⟫ "because"  
     ⟪क्षणेन⟫ "in the moment, immediately" (from ⟪क्षण⟫ m. "moment")
 
-*   from adjectives, often also in the plural form  
-    Examples:  
-    ⟪दूरेण⟫ "distant, from afar" (to ⟪दूर⟫ 3 "distant, far from")  
-    ⟪उच्चैस्⟫ "high, loud" (to ⟪उच्च⟫ 3 "high, elevated, loud, shrill (of voice)")
+*   من الصفات، وغالبًا ما تكون بصيغة الجمع
+أمثلة:  
+⟪दूरेण⟫ "بعيد، من بعيد" (إلى ⟪दूर⟫ 3 "بعيد، بعيدًا عن")  
+⟪उच्चैस्⟫ "عالي، مرتفع" (إلى ⟪उच्च⟫ 3 "عالي، مرتفع، عالٍ، حاد (بالصوت)")
 :::
-### 37.2.3. Dative (⟪चतुर्थी⟫)
+### 37.2.3. ܝܗܒܢܝܐ (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Rarely is the dative (⟪चतुर्थी⟫) used adverbially in response to the questions:
+نادرًا ما تُستخدم الحالة النصبية (⟪चतुर्थी⟫) ظرفًا استجابةً للأسئلة:
 
 *   et al.
 *   et al.
 
-Example:
+מܕܡܐ:
 :::
 ::: indent
-⟪अर्थाय⟫ "for the purpose of, in order to ..."
+⟪अर्थाय⟫ "למטרה, כדי ..."
 :::
-### 37.2.4. Ablative (⟪पञ्चमी⟫)
+### 37.2.4. ܦܪܫܢܝܐ (⟪पञ्चमी⟫)
 
 ::: grammar-box
-The Ablative (⟪पञ्चमी⟫) can be used adverbially in response to the questions:
+ܐܦܩܝ (⟪पञ्चमी⟫) ܐܬܐ ܠܡܕܒܪ ܟܕܝܢ ܥܠ ܫܘܐ̈ܠܬܐ:
 
 *   why?
 *   et al.
@@ -106,43 +106,43 @@ Adverbialgebrauch kann der Ablativ sein:
     ⟪कस्मात्⟫ "why"  
     ⟪अकस्मात्⟫ "unexpectedly"
 :::
-### 37.2.5. Genitive (⟪षष्ठी⟫)
+### 37.2.5. ܩܢܝܢܝܐ (⟪षष्ठी⟫)
 
 ::: grammar-box
-Rarely is the genitive (⟪षष्ठी⟫) used adverbially in response to the question "after how long a time?"
+נָדִיר הוּא דִּי אֲתוֹנָא (⟪षष्ठी⟫) מְשַׁתְּמָא בִּכְלָל מֵעֲנָיָא עַל שְׁאֵלְתָּא "אַחַר כְּמָה דִּי שְׁעָא?"
 
 e.g. ⟪चिरस्य⟫ "after a long time" (to ⟪चिर⟫ 3 "long (time)")
 :::
-### 37.2.6. Locative (⟪सप्तमी⟫)
+### 37.2.6. ܕܽܘܟܬܳܢܳܐ (⟪सप्तमी⟫)
 
 ::: grammar-box
-The locative (⟪सप्तमी⟫) can be used adverbially in response to the questions:
+Kann המקום (⟪सप्तमी⟫) דאָרף געניצט ווערן אַדווערבִיעל צו ענטפערן אויף די פֿראַגעס:
 
 *   where?
 *   et al.
 *   et al.
 
-Examples:
+أمثلة:
 :::
 ::: indent
-\-⟪अर्थे⟫ "because of"  
-\-⟪कृते⟫ "for the sake of"  
-⟪दूरे⟫ "far"
+\-⟪अर्थे⟫ "ܒܚܘܬܐ"  
+\-⟪कृते⟫ "ܠܡܚܘܬ"  
+⟪दूरे⟫ "ܕܡܝ"
 :::
-## 37.3. Adverbial use of no longer common case forms
+## 37.3. ܡܶܬܚܰܫܚܳܢܽܘܬܳܐ ܕܡܶܠܬܳܐ ܕܩܳܝܡܳܐ ܚܠܳܦ ܫܶܡܳܐ ܕܠܳܐ ܝܰܬܺܝܪ ܫܰܘܬܳܦܳܐ ܠܦܰܪ̈ܨܽܘܦܶܐ ܕܩܶܢܝܳܢܳܐ
 
 Examples:
 ::: indent
-⟪जातु⟫ "in general" (originally "by birth, by nature", acc.sg.n. to ⟪जातु⟫ \<no longer used as a noun\>)
+⟪जातु⟫ "in general" (originally "by birth, by nature", acc.sg.n. to ⟪जातु⟫ \&lt;no longer used as a noun\&gt;)
 
 ⟪तूष्णीम्⟫ "silent" (Acc.sg. of a no longer extant ⟪तूष्णी⟫ f. "silence")
 
 ⟪एवम्⟫ "so" (to an otherwise lost pronominal stem ⟪एव⟫ "one, single")
 :::
-## 37.4. Formation of adverbs with adverbial suffixes
+## 37.4. ܨܘܪܬܐ ܕܡ̈ܠܝ ܩܕܡܝ̈ܬܐ ܥܡ ܡܠܘܝ̈ܬܐ ܩܕܡܝ̈ܬܐ
 
 ::: grammar-box
-From the pronominal stems ⟪तद्⟫, ⟪इदम्⟫ or ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ or ⟪कु⟫, one can with the adverbial suffixes
+מִן שְׁרָשֵׁי הַכְּנָיוֹת ⟪तद्⟫, ⟪इदम्⟫ אוֹ ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ אוֹ ⟪कु⟫, יְכוֹלִין לְהוֹסִיף אֶת סוּפִיקַי הָאדְבֵּר
 
 *   \-⟪तस्⟫ (Ablative)
 *   \-⟪त्र⟫ (Locative)
@@ -184,35 +184,34 @@ Fig.: ⟪क्व⟫
 | **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
-## 37.5. Adverbiale Komposita
+## 37.5. ܡ̈ܠܝܢ ܚܕܝܕ̈ܬܐ ܕܡܠܬܐ ܕܩܕܡܝܬܐ
 
-### 37.5.1. Compounds with an adverb or a case used adverbially as the second member
+### 37.5.1. ܡܠ̈ܐ ܡܚܒܪ̈ܬܐ ܥܡ ܩܕܡܝܬܐ ܐܘ ܩܢܝܢܐ ܕܡܬܚܫܚܐ ܐܝܟ ܩܕܡܝܬܐ ܐܝܟ ܗܕܡܐ ܬܪܝܢܐ
 
 Example: ⟪सुचिरम्⟫ "very long (time)"
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
+### 37.5.2. ⟪ܒܰܗܽܘܒܪܺܝܗܺܝ⟫ ܕܡܶܬܚܰܫܚܳܐ ܐܰܝܟ ܡܰܠܬܳܐ ܕܡܰܠܘܳܝܳܐ
 
-Example: ⟪रक्षार्थम्⟫ "in the manner of someone whose purpose is protection, for the purpose of protection". It may also be regarded as belonging to 5.1: -⟪अर्थम्⟫ as an adverbial postmodifier.
+ܡܕܠܩ: ⟪रक्षार्थम्⟫ "ܒܣܘܓܠ ܕܡܢ ܕܐܝܬ ܠܗ ܪܘܚ ܕܫܡܥܐ، ܠܦܘܩܚ ܫܡܥܐ". ܗܕܐ ܐܝܟ ܡܢ 5.1: -⟪अर्थम्⟫ ܟܠܬܐ ܕܡܢ ܣܘܓܠ.
 
-### 37.5.3. ⟪अव्ययीभाव⟫-Komposita
+### 37.5.3. ⟪ܐܒܝܝܝܒܗܐܒ⟫-ܡܚܘܝܬܐ
 
 ⟪अव्ययीभाव⟫ = "unveränderlich/undeklinierbar gewordene"
 
-::: grammar-box
-An ⟪अव्ययीभाव⟫ is an adverbial compound whose first member is indeclinable (postposition, particle, etc.) and whose second member is a noun taking the ending of the accusative singular neuter.
+[0] ::: grammar-box  
+[1] ܐܢ ⟪अव्ययीभाव⟫ ܗܘ ܡܠܬܐ ܕܡܫܬܥܝ ܒܠܫܢܐ ܕܪܒܐ ܘܡܠܬܐ ܕܡܫܬܥܝ ܒܠܫܢܐ ܕܪܒܐ ܘܡܠܬܐ ܕܡܫܬܥܝ ܒܠܫܢܐ ܕܪܒܐ.
 
 Bei der Auflösung des Kompositums würde das Vorderglied das Hinterglied regieren:
 
 Examples:
-:::
 ::: indent
 ⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "against the fire"
 
-⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "to the best of one's ability"
+⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "ܠܦܘܡ ܕܐܝܟ ܢܫܬܐ"
 
-⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "forward, toward"
+⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "ܩܕܡ، ܠܦܘܪ"
 :::
-Especially important are ⟪अव्ययीभाव⟫ with ⟪यथा⟫ "how" as the first component:
+ܡܬܚܫܒܐ ܗܝ ⟪अव्ययीभाव⟫ ܥܡ ⟪यथा⟫ "ܐܝך" ܟܕ ܗܘ ܠܦܘܪ
 
 e.g. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "as one wishes, according to one's wish, arbitrarily"
 ::: media
@@ -220,7 +219,7 @@ e.g. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्त�
 Fig.: ⟪यथाशक्ति⟫
 (Image source: [Details](/arc/licenses#lekt3702))
 :::
-## 37.6. Syntactical
+## 37.6. ܡܠܝܠܘܬܢܝܐ
 
 ::: grammar-box
 At the verbs
@@ -238,7 +237,7 @@ e.g. ⟪तूष्णीं⟫ ⟪बभूव⟫ "he became silent, he fell s
 Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
 (Image source: [Details](/arc/licenses#lekt3703))
 :::
-## 37.7. Indefinite pronouns
+## 37.7. ܟܢܘܫܝ̈ܐ ܠܐ ܦܪ̈ܝܫܐ
 
 ::: grammar-box
 Indefinite pronouns (indefinite pronouns) are formed by appending
@@ -255,7 +254,7 @@ e.g.
 ⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "someone, anybody"  
 ⟪कस्यचिद्⟫ = someone's
 :::
-## 37.8. The Interrogative Sentence
+## 37.8. ܩܳܠܳܐ ܫܰܐܠܳܢܳܐ
 
 ::: grammar-box
 "Who?, how?, what?, why? wherefore?, why?
@@ -285,10 +284,10 @@ In questions about words, one asks about an agent (⟪कर्तृ⟫), an ob
 
 Bei Satzfragen wird der ganze Inhalt des Satzes erfragt, z.B.
 
-*   does Rāma go to Ofterdingen today?
-*   is it true that ... ?
+ܐܘܪ̈ܗܝ ܕܪܡܐ ܠܥܘܬܪܓܝܢ?
+ܐܘܪ̈ܗܝ ܕܡܛܠ ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen)
+### 37.8.1. ܫܘܐ̈ܠܐ ܕܡ̈ܠܐ (ܫܘܐ̈ܠܐ ܡܫܠܡܢ̈ܐ)
 
 ::: grammar-box
 Schema:
@@ -308,13 +307,13 @@ Examples:
 Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
 (Image source: [Details](/arc/licenses#lekt3704))
 :::
-### 37.8.2. Interrogative sentences
+### 37.8.2. ܩܳܠܶܐ ܕܫܶܐܠܬܳܐ
 
 ::: grammar-box
-Sometimes it is only discernible from the context whether a sentence is a question.
+לעיתים קרובות רק מההקשר ניתן להבחין אם משפט הוא שאלה.
 :::
 ::: grammar-box
-Schema I:
+סכמה א':
 
 Verb - remaining sentence
 :::
@@ -335,35 +334,35 @@ The most important question particles are:
 
 *   ⟪कच्चिद्⟫
 
-These particles correspond to the question mark.
+Diese Partikel entsprechen dem Fragezeichen.
 :::
-Example:
+Beispiel:
 ::: indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Is it also true?"
+⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Ist es auch wahr?"
 
 ⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Can he, then?"
 
-⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Has the Kṣatriya indeed defeated the enemies?"
+⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "ܗܘ ܟܣܛܪܝܐ ܕܐܠܦ ܥܕܬ ܡܢܝܐ?"
 :::
-Note: ⟪किम्⟫ can mean, besides "what?" and as an interrogative particle, also "why?, for what purpose?". Especially with the instrumental case (⟪तृतीया⟫):
+ܡܠܦܬܐ: ⟪किम्⟫ ܡܘܟܠ ܗܘ, ܒܝܬ ܡܢ "ܐܝܟ" ו-"למה", גרסינן נמי "למאי דעביד". במיוחד עם כלי (⟪तृतीया⟫):
 ::: indent
-⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "What is the use of anger? What does anger serve? What is the purpose of anger?"
+⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "מאי דעביד כעס? למאי דעביד כעס?"
 :::
-## 37.9. Vocabulary List
+## 37.9. ܡ̈ܠܝܢ List
 
 ⟪मूर्ख⟫ 3: stupid, foolish, dumb m. fool
 
 ⟪मुनि⟫ m.: Sage, (Schweige)asket
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: ascetic from the lineage of the ⟪शाक्य⟫ (Kṣatriyas from ⟪कपिलवस्तु⟫) = Buddha Gautama
+⟪शाक्यमुनि⟫ m.: אַסְכֵּט מִן שׁוּבְלָא דַּ⟪शाक्य⟫ (כַּשְׁטְרֵי מִן कपिलवस्तु) = בּוּדָא גּוֹטָמָא
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Fig.: ⟪शाक्यमुनिः⟫
-(Image source: [Details](/arc/licenses#lekt3705))
+מְטַר: ⟪शाक्यमुनिः⟫
+(מְקוֹר דִּתְמוּנָא: [פַּרְטֵי](/arc/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: day
+⟪दिन⟫ n.: יוֹמָא
 
 ⟪वृक्ष⟫ m.: Tree
 
@@ -374,9 +373,9 @@ Fig.: ⟪वृक्षः⟫
 :::
 ⟪मुख⟫ n.: mouth, face, front part, beginning
 
-## 37.10. Übung
+## 37.10. ܬܪܓܠܐ
 
-A) Answer the following questions in Sanskrit using the words specified in parentheses. Translate the question sentences.
+[A] ענא את שאלתן בְּסַנסְקְרִית אֱלָף מִן הַמִּילֵי דְתוֹקְפִין בְּסָלֵיק. תַרְגֵם מִילֵי שָׁאֲלָתָא.
 
 Example: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
 
@@ -386,7 +385,7 @@ Example: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » �
 
 ⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟩ \<Absolutive\>)
+⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟩ \&lt;Absolutive\&gt;)
 
 ⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
@@ -502,7 +501,7 @@ Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 ::: indent
 1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Wiederholungsübung
+## 37.11. ܬܶܪܓܳܠܳܐ ܕܬܽܘܚܕܳܐ
 
 अनुवादं कृत्वा संस्कृतं कृत्वा केवलं पूर्णकस्य क्रियापदानि प्रयुज्यताम्:
 

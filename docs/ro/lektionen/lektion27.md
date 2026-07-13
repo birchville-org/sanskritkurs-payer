@@ -361,11 +361,11 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) cu nepotul ei, Prințul Jaya Chama
 :::: media
 ![](/images/lekt2712.webp)
 Fig.: ⟪अरयः⟫
-Lynching of two participants in the Rebellion of 1857. Photograph by Felice Beato (1833/1834 – ca. 1907).
-(Image source: [Details](/ro/licenses#lekt2712))
+Lincijarea a doi participanți la Răscoala din 1857. Fotografie de Felice Beato (1833/1834 – ca. 1907).
+(Sursa imaginii: [Detalii](/ro/licenses#lekt2712))
 ::::
 :::
-### 27.7.5. Feminine în -i: ⟪मति⟫
+### 27.7.5. Feminin în -i: ⟪मति⟫
 
 ::: grammar-box
 

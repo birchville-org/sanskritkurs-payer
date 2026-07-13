@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 30
+# ܐܘܠܦܢܐ 30
 
-## 30.1. Die 9. Präsensklasse (⟪क्र्यादि⟫ = "⟪क्री⟫ u.s.w.")
+## 30.1. ܕܪܓܐ ܕܬܫܥܐ ܕܙܒܢܐ ܗܫܝܐ (ܩܪܝܐܕܝ = ܩܪܝ ܐܚܪ̈ܢܐ)
 
 ::: grammar-box
 **Education:**
@@ -35,7 +35,7 @@ Example:
 | **3. Person:brĀtmanepada** | ⟪क्रीणीते⟫:br(krī + nī + te) | ⟪क्रीणते⟫:br(krī + n + ate) |
 
 :::
-In this present tense class, special attention must be paid to the formation of the present stem from the root ⟪ज्ञा⟫ 9U "to recognize, to know":
+בְּקִיטָא דַעֲתִיקָא הַדְּרָכָא, חוֹבָה לְמִדְּקַק בִּשְׁרָשָׁא דְעֲתִיקָא מֵאַרְמַל ⟪ज्ञा⟫ 9U "לְאַדַּע, לִידָע":
 
 ::: grammar-box
 
@@ -44,13 +44,14 @@ In this present tense class, special attention must be paid to the formation of 
 | **3. Person:brParasmaipada** | ⟪जानाति⟫:br(jā-nā-ti) | ⟪जानन्ति⟫:br(jā-n-anti) |
 | **3. Person:brĀtmanepada** | ⟪जानीते⟫:br(jā-nī-te) | ⟪जानते⟫:br(jā-n-ate) |
 
-:::
-The form ⟪जा⟫, which underlies the present stem of ⟪ज्ञा⟫, is either to be explained by an ablaut series -ā (low grade) -nā (high grade), or by dissimilation from *jñā-nā-ti.
+[0] :::  
+ܐܘܪ̈ܗܝ ⟪जा⟫ ܕܐܢ̈ܫ ܠܦܬܝ ܡܕܥ ܐܘܪ̈ܗܝ ⟪ज्ञा⟫ ܐܘ̈ܠ ܡܕܥ ܐܘ̈ܪ̈ܗܝ -ā (ܡܕܥ ܐܘ̈ܪ̈ܗܝ) -nā (ܡܕܥ ܐܘ̈ܪ̈ܗܝ) ܐܘ̈ܠ ܡܕܥ ܐܘ̈ܪ̈ܗܝ *jñā-nā-ti.
 
 Alcune radici con vocale lunga la accorciano prima del suffisso della radice del presente della 9ª classe:
 
 Example:
 
+:::
 ::: indent
 ⟪पू⟫ 9U "purify"
 :::
@@ -69,26 +70,26 @@ Example:
 ::: indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
 :::
-## 30.2. Use of the Optative (⟪लिङ्⟫)
+## 30.2. ܡܬܚܫܚܢܘܬܐ ܕܡܬܚܫܚܢܝܬܐ (⟪ܠܝܢܓ⟫)
 
 The optative is used:
 
 ::: grammar-box
 **1. for designation**
 
-*   **of a wish**
-*   **of a wish**
-*   **of a request**
+*   **של רעוון**
+*   **של רעוון**
+*   **של שאלה**
 
-**(here the optative - ⟪लिङ्⟫ - overlaps with the imperative - ⟪लोट्⟫)**
+**(כאן האופטיב - ⟪लिङ्⟫ - חופף לאימפרטיב - ⟪लोट्⟫)**
 :::
-Example:
+דוגמה:
 
 ::: indent
-⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Let the serf come to the village"
+⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "יבוא העבד לכפר"
 :::
 ::: grammar-box
-**2. If something as**
+**2. אם משהו כ**
 
 *   **possible**
 *   **probable**
@@ -99,19 +100,19 @@ Example:
 Example:
 
 ::: indent
-⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "If he were to go out of the village, he would not hear the master"
+⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "ܐܠܦ ܕܝܟܘܪ ܡܢ ܐܘܪܚܐ ܠܐ ܝܫܡܥ ܠܪܒܗ"
 :::
 ::: grammar-box
-**3. Relative clauses with the optative sometimes have the meaning: "If someone ..."**
+**3. מלין דאית להון קינܐ ܥܡ ܣܘܓܝܬܐ ܠܗ ܡܢ ܩܒܠ: "ܐܝܟ ܕܡܢ"**
 :::
-Example:
+מלין:
 
 ::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "If someone were to tell a lie, he would fall into hell = If someone tells a lie, he falls into hell"
 :::
-## 30.3. Secondary endings of the 3rd person singular and plural
+## 30.3. ܫܘܠܡܐ ܬܪܝܢܝܐ ܕܕܥܠܬܐ ܬܠܝܬܝܬܐ ܕܚܕܝܘܬܐ ܘܕܣܓܝܘܬܐ
 
-The Optative (⟪लिङ्⟫), the Imperfect (⟪लङ्⟫), the Aorist (⟪लुङ्⟫), the Prekative (⟪आशिर्लिङ्⟫), and the Conditional have the so-called secondary endings:
+ܐܘܦܬܝܒ (⟪लिङ्⟫), ܦܪ̈ܛ (⟪लङ्⟫), ܐܘܪܝܣܬ (⟪लुङ्⟫), ܦܪ̈ܟܬܝܘܿܐ (⟪आशिर्लिङ्⟫), ܘܟܢܝܬܐ ܠܗܝ ܫܡ̈ܘ̈ܬܐ ܕܣܘܼܟܪ̈ܐ:
 
 ::: grammar-box
 
@@ -121,14 +122,14 @@ The Optative (⟪लिङ्⟫), the Imperfect (⟪लङ्⟫), the Aorist (
 | **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran** |
 
 :::
-## 30.4. Formation of the Optative Present (⟪लिङ्⟫)
+## 30.4. ܨܽܘܪܬܳܐ ܕܗܳܫܳܐ ܕܨܶܒܝܳܢܳܐ (⟪ܠܺܝܢܓ⟫)
 
-### 30.4.1. Thematische Präsensklassen
+### 30.4.1. ܕܪ̈ܓܐ ܬܡܬܝܐ ܕܙܒܢܐ ܗܫܝܐ
 
 ::: grammar-box
 **before endings beginning with a consonant:**
 
-**Present stem + -i- (which merges with the -a- to -e-) + secondary endings**
+**שורש בינוני + -i- (דא מיתכנס עם ה-a- ל-e-) + סופיות משניות**
 
 **before endings starting with a vowel:**
 
@@ -180,7 +181,7 @@ Examples:
 | **3. Person:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
 
 :::
-### 30.4.2. Athematische Präsensklassen
+### 30.4.2. ܕܽܘܟܝܵܬ̈ܳܐ ܕܙܲܒ݂ܢܵܐ ܕܗܳܫܵܐ ܠܵܐ ܬܹܡܵܬܝܼܩܵܝ̈ܳܐ
 
 ::: grammar-box
 **Parasmaipada:**
@@ -244,14 +245,14 @@ Examples:
 | **3. Person Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
 
 :::
-## 30.5. Sandhi von auslautendem -r
+## 30.5. ܣܢܕܗܝ ܕ -ܪ ܕܡܫܬܠܡܢܐ
 
 ::: grammar-box
-**Except for -ar, the same sandhi rules apply to final -r as to final -s.**
+**מִן דְּלָא אַר, הֲוָון כָּל מִצְוַת סַנְדִי עַל רָאשׁוֹי דְּר.**
 
 -ar before voiced consonants remains -ar, but before r- the -r drops out and the -a- is replaced by -ā-.
 :::
-Examples:
+דְּמִילֵי:
 
 ::: indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
@@ -260,7 +261,7 @@ Examples:
 
 ⟪पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना⟫ ⟪रोदिति⟫
 :::
-## 30.6. Wortliste
+## 30.6. ܡܠܘܐܐ
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : buy
 
@@ -272,16 +273,15 @@ Inf. ⟪क्रेतुम्⟫
 :::
 ⟪क्री⟫ + ⟪वि⟫ 9th class ⟪विक्रीणीते⟫ : to sell
 
-::: indent
-Absol. ⟪विक्रीय⟫
-:::
+[0] ::: indent
+מִתְלַבָּשׁ ⟪विक्रीय⟫
 ::: media
 ![](/images/lekt3001.webp)
-Fig.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
-Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
-(Image source: [Details](/arc/licenses#lekt3001))
+דִּמְיוֹן: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
+בוּנְדִי = ⟪बुन्दी⟫, רַגְ'אסְתָּן = ⟪राजस्थान⟫
+(מְקוֹר הַתְמוּנָה: [פְּרָטִים](/arc/licenses#lekt3001))
 :::
-⟪ज्ञा⟫ 9U ⟪जानाति⟫ : to know, to recognize, to know, to understand
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ : לֵידַע, לְהַכִּיר, לָדַעַת, לְהָבֵן
 
 ::: indent
 Fut. ⟪ज्ञास्यति⟫  
@@ -295,15 +295,15 @@ davon:
 
 ⟪ज्ञाति⟫ m.: (blood-)relative (relatives are those whom one knows!)
 
-⟪ज्ञान⟫ n.: knowledge, wisdom, understanding (esp. of the "higher" truths in religion and philosophy)
+⟪ज्ञान⟫ n.: ܝܕܥܬܐ, ܚܟܡܬܐ, ܦܘܫܩܢܘܬܐ (במיוחד על "האמתות הגבוהות" בדת ובפילוסופיה)
 :::
 ::: media
 ![](/images/lekt3002.webp)
 Fig.: ⟪ज्ञातयः⟫
-Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
-(Image source: [Details](/arc/licenses#lekt3002))
+דאראוואדי, מחוז אחמד נגאר = ⟪अहमदनगर⟫, מהאראשטרה = ⟪महाराष्ट्र⟫
+(מקור התמונה: [פרטים](/arc/licenses#lekt3002))
 :::
-⟪पू⟫ 9U ⟪पुनाति⟫ : to purify
+⟪पू⟫ 9U ⟪पुनाति⟫ : לטהר
 
 ::: indent
 Fut. ⟪पविष्यति⟫  
@@ -336,10 +336,10 @@ Fig.: ⟪अश्नीयात्⟫
 
 ::: media
 ![](/images/lekt3004.webp)
-Fig.: ⟪प्रिया⟫
-(Image source: [Details](/arc/licenses#lekt3004))
+ܩܘܪܟܐ: ⟪प्रिया⟫
+(ܡܕܝܢܬ ܨܠܩܐ: [ܦܪ̈ܘܣ̈ܝܐ](/arc/licenses#lekt3004))
 :::
-⟪चेत्⟫ Conjunction: if; provided that (never occurs at the beginning of a sentence)
+⟪चेत्⟫ ܩܘܠܐ: ܝܕܥ; ܒܫܪܬܐ (ܠܐ ܡܬܝܕܥ ܒܪܫܐ ܕܡܠܬ)
 
 ::: indent
 ⟪न⟫ ⟪चेत्⟫ : if not
@@ -349,7 +349,7 @@ Fig.: ⟪प्रिया⟫
 ::: indent
 ⟪यद्यपि⟫ : although, even if, though
 
-⟪यद्येवम्⟫ : if it is so, under these circumstances
+⟪यद्येवम्⟫ : ܐܠܐ ܗܟܢܐ، ܒܫܥܬ ܕܠܗ
 :::
 ⟪पुनर्⟫ : again, time and again, back, once more, on the contrary, but
 
@@ -380,9 +380,9 @@ davon:
 :::
 ⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : eternal, imperishable, constant
 
-## 30.7. Übung
+## 30.7. ܬܪܓܠܐ
 
-A) Convert the following verbal forms into the corresponding optative forms in person, number, and gender:
+[A] המרוי את פורמיי דאבראי לפורמיי אופטיוויי בפרסון, מספרא ודורא:
 
 1.  ⟪ह्रियते⟫
 2.  ⟪ध्नन्ति⟫
@@ -450,7 +450,7 @@ A) Convert the following verbal forms into the corresponding optative forms in p
 64.  ⟪अदन्ति⟫
 65.  ⟪अध्यापयन्ति⟫
 
-B) Translate the following sentences and resolve the compounds in Sanskrit:
+ܒ) ܛܪ̈ܡ ܠܗܘܢ ܐܝܠܝܢ ܫܡ̈ܘ̈ܗܐ ܘܦܪܫ ܠܗܘܢ ܒܣܘܩܪ̈ܐ ܕܣܢܣܟܪܝܬ:
 
 ⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫
 
@@ -471,7 +471,7 @@ B) Translate the following sentences and resolve the compounds in Sanskrit:
 ⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
 ⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
 
-## 30.8. Wiederholungsübung zur Formenlehre
+## 30.8. ܬܪܓܠܐ ܕܚܙܪܐ ܠܡܠܦܢܘܬܐ ܕܨܘܪ̈ܬܐ
 
 Determine and translate the following word forms:
 

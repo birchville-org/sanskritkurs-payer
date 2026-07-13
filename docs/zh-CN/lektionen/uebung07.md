@@ -184,7 +184,7 @@ vaiśyā devatā yajante.
 
 ⟪ईश्वरः⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪ईश्वरः⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. (Nach Kauṭilīya-arthaṣāstra 1.3.3.) Erklärung: chando = Nom,, Akk. sg. zu chandas n.)
+7\. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni.（据《考底利耶政事论》1.3.3。）释义：chando = chandas（中性名词）的单数主格或宾格形式。
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 
@@ -202,7 +202,7 @@ ayaṃ sādhuḥ kiṃ khādati?
 
 ⟪अयं⟫ ⟪साधुः⟫ ⟪किं⟫ ⟪खाद⟫ati ⟪।⟫
 
-10\. Was pressen diese (hier) aus?
+10. 这些（此处）压出的是什么？
 
 ete kiṃ sunvanti / sunvate?
 

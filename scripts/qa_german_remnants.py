@@ -43,12 +43,19 @@ def process_file(filepath, detector):
             new_blocks.append(block)
             continue
             
+        is_heading = bool(re.match(r'^#+\s+', block.strip()))
         clean_text = clean_markdown(block)
         
-        # Split into words to check length. If too short, lingua might misclassify IAST/Sanskrit as German.
-        words = [w for w in clean_text.split() if w.isalpha()]
+        # Remove punctuation to accurately count words (e.g. "Einsilbige," -> "Einsilbige")
+        import string
+        translator = str.maketrans('', '', string.punctuation + '„“«»()[]{}⟨⟩⟪⟫-–—')
+        words = [w.translate(translator) for w in clean_text.split()]
+        words = [w for w in words if w.isalpha()]
         
-        if len(words) >= 4:
+        # Lower threshold for headings since they are often short
+        min_words = 1 if is_heading else 4
+        
+        if len(words) >= min_words:
             # We want to check if the block is predominantly German
             lang = detector.detect_language_of(clean_text)
             if lang == Language.GERMAN:
@@ -76,8 +83,13 @@ def main():
         print(f"Error: Directory {target_dir} does not exist.")
         return
 
-    print("Loading Lingua Language Detector (All Languages)...")
-    detector = LanguageDetectorBuilder.from_all_languages().build()
+    print("Loading Lingua Language Detector (Restricted Languages)...")
+    from lingua import Language
+    detector = LanguageDetectorBuilder.from_languages(
+        Language.GERMAN, Language.ENGLISH, Language.CHINESE, 
+        Language.HINDI, Language.RUSSIAN, Language.SPANISH, 
+        Language.FRENCH, Language.ITALIAN
+    ).build()
     
     md_files = glob.glob(os.path.join(target_dir, '*.md'))
     md_files.sort()

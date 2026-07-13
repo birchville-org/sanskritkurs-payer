@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 51
 
-## 51.1. ⟪उपपद⟫-Komposita
+## 51.1. Composés ⟪upapada⟫
 
 ::: grammar-box
 **⟪उपपद⟫-composés (⟪उपपद⟫ n. « mot d'accompagnement ») sont ⟪तत्पुरुष⟫ formés d'un nom verbal comme second membre, qui n'apparaît que comme second membre de composés, mais jamais comme mot autonome et isolé. ⟪उपपद⟫ sont formés avec les suffixes ⟪कृत्⟫**
@@ -337,7 +337,7 @@ Loc. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 ::: indent
 p. ex. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 :::
-## 51.6. Wortliste
+## 51.6. Liste de mots
 
 ⟪अजिन⟫ n. : peau d'antilope, en particulier la peau de l'antilope noire (Antilope cervicapra L. ). Originellement présent sur tout le sous-continent indien, du Pendjab et du Sind au Bengale et du Népal au Kanyakumari (Cap Comorin) (Tamil: கன்னியாகுமரி) Voir :
 
@@ -573,7 +573,7 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 ⟪शबर⟫ . :  nom propre d'une tribu non aryenne
 
-## 51.7. Übersetzungsübung
+## 51.7. Exercice de traduction
 
 ⟪१⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪९⟫ - ⟪१२⟫ ⟪आश्रमधर्मः⟫
 

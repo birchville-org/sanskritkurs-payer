@@ -6,18 +6,18 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 61
+# ܐܘܪܬܐ 61
 
-## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
+## 61.1. ܢܘܛܝܐ ܕܫܡ̈ܐ ܕܥܩܪܐ ܕܥܠ -ܐ, -ܝ, -ܘ
 
 ### 61.1.1. Root nouns ending in -ā at the end of ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Before vocalic endings, the stem vowel in the weak cases has the zero-grade Ø.**
+**לפני סיומות תנותיות, התנועה השורשית במקרים החלשים היא דרגה אפס Ø.**
 
-**The declension in the masculine and feminine is identical.**
+**הניקוד בגזרה הזכרית והנקבית זהים.**
 :::
-Paradigm:
+פַּרָדִיגְמָה:
 
 ⟪विश्वपा⟫ f.m. "protecting the all"
 
@@ -31,14 +31,14 @@ Paradigm:
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Wurzelnomina auf -ī
+### 61.1.2. ܫܡܗ̈ܐ ܢܩܒܬܢܝ̈ܐ ܕܫܪܫܐ ܒـ -ī
 
 ::: grammar-box
 **Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
-**In addition to formations with the regular case endings, formations following the pattern of multisyllabic feminine nouns in -ī (⟪देवी⟫) also occur in the Dat.Ab.Gen.Lok.sg. and Gen.pl.**
+**     ,          -ī (⟪देवी⟫)  ., ., .  . ..,     ..**
 :::
-Paradigm:
+:
 
 ⟪धी⟫ f. "Thought"
 
@@ -71,12 +71,12 @@ Irregular: ⟪स्त्री⟫ f. "woman"
 Fig.: ⟪स्त्रियः⟫
 (Image source: [Details](/arc/licenses#lekt6102))
 :::
-### 61.1.3. Root nouns ending in -ī within ⟪तत्पुरुष⟫
+### 61.1.3. ܫܡ̈ܗܐ ܕܫܪܫܐ ܕܡܫܬܠܡܝܢ ܒـ -ܝ ܒܓܘ ܬܬܦܘܪܘܫ
 
 ::: grammar-box
 **Before vocalic endings, -ī is replaced by -y if it is preceded only by a consonant belonging to the root. If several consonants belonging to the root precede, the -ī before a vocalic ending is replaced by -iy.**
 
-**The declension is identical in the masculine and feminine.**
+**ܡܠܦܢܘܬ ܐܪܟܒܐ ܗܝ ܠܫܢܐ ܕܡܪܟܒܬ ܠܫܢܐ.**
 
 **Irregularity: Compounds ending in -⟪नी⟩ "leading" have the ending -ām in the loc.sg (like ⟪देवी⟩):**
 e.g. ⟪ग्रामणी⟩ "leading a group/a village": loc.sg.m.f. ⟪ग्रामण्याम्⟩
@@ -107,7 +107,7 @@ Paradigms:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
+### 61.1.4. ܫܶܡ̈ܗܶܐ ܫܰܪ̈ܫܳܝܶܐ ܢܩ̈ܒܳܝܶܐ ܚܰܕ̈ܗܶܓܝܳܢܳܝܶܐ ܥܰܠ -ܘ
 
 ::: grammar-box
 **Stem before vowel: -uv**
@@ -128,14 +128,14 @@ Paradigm:
 | ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. Root nouns ending in -ū at the end of ⟪तत्पुरुष⟫
+### 61.1.5. ܫܡܳܗܶܐ ܕܥܩܳܪܳܐ ܕܡܫܬܰܠܡܺܝܢ ܒـ -ܘܼ ܒܚܰܪܬܳܐ ܕ⟪ܬܰܬܦܘܪܘܫ⟫
 
 ::: grammar-box
 **Before vocalic endings, -ū is replaced by -v if it is preceded only by a consonant belonging to the root. If several consonants belonging to the root precede, the -ū before a vocalic ending is replaced by -uv.**
 
-**The declension is identical in the masculine and feminine.**
+**הַשְּׁלִיכָה מֵאִידַנְתָּא בְּזוּכְרָא וּבִנְתָּא.**
 :::
-Paradigm:
+פַּרָדִיגְמָא:
 
 ⟪खलपू⟫ m., f. "turning the barn"
 
@@ -155,12 +155,12 @@ Fig.: ⟪रथ्याप्वः⟫
 ⟪काशीपुर⟫
 (Image source: [Details](/arc/licenses#lekt6106))
 :::
-### 61.1.6. Declension of multisyllabic feminine nouns ending in -ū
+### 61.1.6. ܨܪܘܦܐ ܕܫܡܗ̈ܐ ܢܩܒܬܢܝ̈ܐ ܣܓܝ̈ܐܝ ܗܓܝ̈ܢ ܕܡܫܬܠܡܝܢ ܒـ -ū
 
 ::: grammar-box
-**Polysyllabic feminine stems ending in -ū are declined analogously to polysyllabic stems ending in -ī (⟪देवी⟫), but they end in -s in the Nom. sg.**
+**שְׁרִישַׁת שָׁם נְקֵיבְתָּא דִּי סוֹמְקַת בְּ -ū מְשַׁבְּחָן כִּדְמֵי שְׁרִישַׁת שָׁם דִּי סוֹמְקַת בְּ -ī (⟪देवी⟫), אֲבָל סוֹמְקַת בְּ -s בְּ נִיקְבָא סִימְעַת.**
 :::
-Paradigm:
+פָּרָדִיגְמָא:
 
 ⟪वधू⟫ f. "young woman, bride"
 
@@ -183,14 +183,14 @@ Fig.: ⟪वध्वौ⟫
 :::
 ## 61.2. The periphrastic future (⟪लुट्⟫)
 
-::: grammar-box
-**In addition to the simple future (⟪ऌत्⟫), there is a periphrastic future (⟪लुट्⟫). According to the teaching of native grammarians, it is used to denote the distant future ("after the current day"), while the simple future denotes the near future ("on the current day"). In Classical Sanskrit, it seems that no difference in the usage of the two futures is usually made.**
+::: grammar-box  
+**בנוסף לעתיד הפשוט (⟪ऌत्⟫), ישנו עתיד פריפרסטי (⟪लुट्⟫). לפי לימודם של דקדוקנים ילידים, הוא משמש לציין את העתיד הרחוק ("אחר היום הנוכחי"), בעוד שהעתיד הפשוט מציין את העתיד הקרוב ("ביום הנוכחי"). בסנסקריט קלאסית, נראה שאין הבדל בשימוש בין שני העתידים.**
 
 **Bildung:**
 
-**The periphrastic future is formed by combining a noun agent in -tṛ with the present of ⟪अस्⟫ 2. As the third person, the simple noun in the corresponding number serves, without distinction in grammatical gender. In the combinations with ⟪अस्⟫, the noun in all persons and numbers takes the form of the nom.sg. in -tā.**
+**ܡܠܦܢܘܬ ܐܪ̈ܝܟܬܐ ܕܥܬܝܕ ܗ̈ܘܝܐ ܒܫܠܬ ܣܡܟܘܢ̈ܐ ܕܠܫܢܐ -tṛ ܥ̈ܡ ܦܪܝܩܐ ܕ⟫अस्⟬ 2. כּוּלֵי מַאָה, שְׁמָא פְשׁוּטָא בִּרְכֵי מַתְנֶה ܠָקֳד, בְּלִי מַפְרֵשׁ ܒִּגְבוּלָא דְמַטְנֵי. בִּשְׁלָת ܥ̈ܡ ⟫अस्⟬, שְׁמָא בִּכל ܐ̈ܢܫ̇ܝ וְרַבּוֹת ܠָקֳד, בְּצוּרַת נׇמ.סג. -tā.**
 :::
-The endings of the periphrastic future are thus:
+גְּבוּלֵי מַפְרָק ܕܥ̈תܝܕ הֲווּן:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -219,26 +219,26 @@ Paradigma:
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | *⟪दाताहे⟫* | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
-| **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ |
-| **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
+| **ܠܦܢܘܬ 1. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | *⟪दाताहे⟫* | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
+| **ܠܦܢܘܬ 2. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ |
+| **ܠܦܢܘܬ 3. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
 ::: grammar-box
-**Very rarely is the verb ⟪अस्⟫ separated from the nominal stem.**
+**ܢܘܗܪ ܙܒܢܝܢ ܐܬ ܦܥܠܐ ⟪अस्⟫ ܡܕܥܐ ܡܢ ܫܪܫ ܫܡܐ.**
 :::
-## 61.3. The Intensive (Frequentative) (⟪चर्करीतम्⟫)
+## 61.3. ܡܰܥܠܳܢܳܐ (ܡܰܠܶܐ ܙܰܒܢܺܝܢ) (⟪ܟܰܪܟܰܪܺܝܬܰܡ⟫)
 
 ::: grammar-box
-**From every monosyllabic, consonant-initial root of the first nine present classes, an intensive (⟪चर्करीतम्⟫) can be formed; that is: with few exceptions, an intensive cannot be formed from disyllabic roots (e.g. ⟪जागृ⟫), vowel-initial roots, and roots of the 10th present class (⟪चुरादिगण⟫).**
+**ܡܢ ܟܠ ܫܪܫ ܚܕ ܣܘܡܩܐ ܒܟܢܝܬܐ ܕܦܘܪܩܐ ܕܢܝܐ ܬܠܬ ܫܒܥܬܐ, ܡܕܥܐ ܢܘܗܪ (⟪चर्करीतम्⟫) ܐܬ ܗܘܝ; ܕܠܡܠ: ܒܫܪܐ ܣܓܝ, ܢܘܗܪ ܠܐ ܐܬ ܗܘܝ ܡܢ ܫܪܫ ܬܐ ܣܘܡܩܐ (ܠ. ⟪जागृ⟫), ܫܪܫ ܒܐܘܩܠܬܐ, ܘܫܪܫ ܕܦܘܪܩܐ ܥܣܪܬܐ (⟪चुरादिगण⟫).**
 
 **The Intensivum means:**
 
-*   **that a person or thing repeatedly does or experiences what is expressed by the root**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "he does repeatedly"  
-    ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "he is (becomes) often"
+*   **ܕܝܐ ܕܓܒܪܐ ܘܠܫܢܐ ܕܡܬܩܪܒ ܠܫܪܫ**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "ܗܘ ܡܥܒܕ ܠܦܝ"  
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "ܗܘ ܗܝ (ܡܬܐ) ܠܦܝ"
 
-*   **that a person or thing intensely does or undergoes what is expressed by the root:**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "he does intensely, he does diligently"
+*   **ܕܝܐ ܕܓܒܪܐ ܘܠܫܢܐ ܕܡܬܩܪܒ ܠܫܪܫ:**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "ܗܘ ܡܥܒܕ ܠܦܝ, ܗܘ ܡܥܒܕ ܠܦܝ"
 
 *   **for roots expressing movement, the intensive denotes curved movement:**  
     ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "he goes in curves" (NOT: "he goes often")
@@ -257,14 +257,14 @@ Karnataka = ಕರ್ನಾಟಕ
 ::: grammar-box
 **Formation of the Intensivum:**
 
-**There are two types of education for the Intensivum:**
+**יש ליה שְׁנֵי סִטְרֵי מַלְפָּנוּת לְאִדְנֵי:**
 
 *   **Ātmanepada-Intensive**
 *   **Parasmaipada-Intensive**
 
-**Both are formed from the root reduplicated with strong reduplication. Both differ in meaning. Both can be formed from the same roots.**
+**שְׁנֵי הָאִתּוּבַן מִשְׁרָעֵי שָׂרַשׁ בִּתְדוּקְמַן חָזֵיק. שְׁנֵי מוּבדַל בְּמָעֳת. שְׁנֵי יַכּוֹל לְהָאִתְבַּנְיָן מֵרְגָלִין דַּעֲתִיק.**
 :::
-### 61.3.1. Ātmanepada Intensifier
+### 61.3.1. ܡܰܚܰܝܠܳܢܳܐ ܕܐܳܬܡܰܢܶܦܰܕܰ�
 
 ::: grammar-box
 **Education:**
@@ -294,13 +294,13 @@ Examples:
 | ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
 
 ::: grammar-box
-**Roots of the -a-stem lengthen the vowel in the reduplication syllable not by nasal extension, but by repeating the nasal.**
+**שְׁרִישַׁי הַגָּזְעַ -א- מַאֲרִיכִין אֶת הָאוֹמֶץ בְּשִׁירַת הַחֲזָרָה לֹא בְּנִיחוּם אַף, כִּי אָמְתוֹ בְּחֲזָרַת הָאַף.**
 
 :::
 ::: indent
-e.g. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
+מִשָּׁל: ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 :::
-**For certain roots, -nī- or -rī- (-rī- for roots containing an ṛ in the intensive) occurs between the vowel of the reduplication syllable and the initial consonant of the root.**
+**לְגַבֵּי שָׁרְשִׁים מוּגְדָּלִים, -nī- או -rī- (-rī- לְגַבֵּי שָׁרְשִׁים הַכּוֹלְלִים אֶת ṛ בְּעַצְמָם) מוֹפיעִים בֵּין הָאוֹמֶץ שֶׁל שִׁירַת הַחֲזָרָה לְקוֹנְסוֹנַנט הָרִאשׁוֹן שֶׁל הַגָּזְעַ.**
 
 ::: indent
 e.g.
@@ -310,24 +310,24 @@ e.g.
 ::: grammar-box
 **Conjugation:**
 
-*   **Present stem: like an Ātmanepada of the 4th present class (⟪दिवादिगण⟫).**
-*   **Passive and other tense stems: if a vowel precedes the -ya- of the intensive stem, the -ya- is replaced by -y-; if a consonant precedes the -ya-, the -ya- is dropped:**
-    *   **Passive present: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
-    *   **Perfect: periphrastic: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
-    *   **Aorist: iṣ-aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-    *   **Future: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-    *   **periphrastic future: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+*   **שורש הווה: דומה ל-Ātmanepada של כיתה 4 להווי (⟪दिवादिगण⟫).**
+*   **שורשי זמן פסיבי ואחרים: אם תנועה מקדימה את -ya- של שורש האינטנסיבי, ה--ya- מוחלף ב--y-; אם עיצור מקדים את ה--ya-, ה--ya- נמחק:**
+*   **הווה פסיבי: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+*   **שלם: פריפרזטי: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+*   **עבר: איש-אוריסט (עבר 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+*   **עתיד: סֵט: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+*   **עתיד פריפרזטי: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
-### 61.3.2. Parasmaipada intensive
+### 61.3.2. פאראסמאיפאד חילתנא
 
 ::: grammar-box
-**Present stem (other forms are extremely rare): Formation and conjugation like a verb of the 3rd present class (⟪जुहोत्यादिगण⟫) with the difference that the vowel of the reduplication syllable is high-grade, with -a- being lengthened-grade.**
+**שורש הווה (צורות אחרות נדירות מאוד): יצירה וטיגון כמו פעל של כיתה 3 להווי (⟪जुहोत्यादिगण⟫) עם ההבדל שהתנועה של הברה החוזרת היא דרגה גבוהה, כאשר -a- הוא דרגת הארכה.**
 
-In the singular indicative present, as well as the 2nd and 3rd person singular imperfect and the 3rd person singular imperative, an -ī- may be inserted between the root and the ending. If this -ī- is inserted, a short vowel in the penultimate position must not undergo guṇa.
+באינדיקטיב הווה יחיד, כמו גם בגוף השני והשלישי של העבר היחיד ובגוף שלישי של הציווי היחיד, ניתן להכניס -ī- בין השורש והסוף. אם מוכנס ה--ī-, תנועה קצרה במיקום הפני-אחרון לא תעבור גונה.
 
 **Regarding reduplication with nasal as well as the insertion of -nī- or -rī-, the same applies as for the Ātmanepada intensive. Instead of -rī-, -ri- may optionally stand.**
 :::
-Paradigm:
+טבלת טיגון:
 
 ⟪भू⟫ 1P
 
@@ -367,25 +367,25 @@ Optative (⟪विधिलिङ्⟩):
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ |
 :::
-## 61.4. Denominativa (⟪नामधातु⟫)
+## 61.4. ܕܢܘܡܝܢܐܛܝܒܐ (⟪ܢܐܡܕܗܐܬܘ⟫)
 
-Denominativa (⟪नामधातवः⟫) are formed, in contrast to the verbs treated hitherto, not from a verbal root, but from a nominal stem. There are various types of formation involved.
+[0] ܕܝܢܡܹܐ (⟪नामधातवः⟫) ܝܬܝܪܘ̈ܬܐ ܗܝܢܘ̈ܢ، ܒܚܠܦ ܡܢ ܐܪ̈ܡܝܐ ܕܬܠܛܘ̈ܢ، ܠܐ ܡܢ ܫܪܫܬܐ ܕܠܦܢ، ܐܠܐ ܡܢ ܫܪܫܬܐ ܕܫܡܐ. ܗܘ̈ܢܝܢ ܠܟܠ ܡܢ ܐܘ̈ܗܕܝܼ.
 
-### 61.4.1. Formation without special suffix, Parasmaipada
+### 61.4.1. ܨܘܪܬܐ ܕܠܐ ܡܠܘܝܬܐ ܡܝܚܕܬܐ, ܦܪܣܡܐܝܦܕܐ
 
 ::: grammar-box
 **Meaning:**
 
 :::
 ::: indent
-**a person or thing behaves as that, or resembles what is designated by the nominal stem.**
+**ܐܢܫ ܘܠܦܬܐ ܕܡܗܝܟ ܒܚܘܬܐ ܕܡܠܬ ܪܝܫܬܐ.**
 :::
-**Conjugation:**
+**ܩܘܢܘܬ ܟܝܕܐ:**
 
 ::: indent
-**in the present stem like a verb of the 1st present class (⟪भ्वादिगण⟫). If the noun *mehl* has a vowel, only the final vowel is treated like the root vowel of the 1st class. Final -a is dropped before the thematic vowel. A vowel before a final nasal is replaced by the corresponding long vowel.**
+**ܒܫܪܟܐ ܕܥܬܝܕ ܡܫܘܠܚ ܐܢܫ ܕܥܬܝܕ ܪܒܐ ܩܠ ܡܫܘܠܚ (⟪भ्वादिगण⟫). ܐܢ ܡܠܬܐ *ܡܗܝܟ* ܐܢ ܫܘܬܦܐ، ܠܚܕ ܫܘܬܦܐ ܡܫܘܠܚ ܒܚܘܬܐ ܕܪܝܫ ܩܠ. ܡܬܐ ܒܚܘܬܐ -a ܩܕܡ ܫܘܬܦܐ ܪܒܐ. ܫܘܬܦܐ ܩܕܡ ܢܝܫܐ ܡܬܐ ܒܚܘܬܐ ܪܒܐ.**
 :::
-Examples:
+**ܡܠܬ̈ܐ:**
 
 | ⟪कवि⟫ m. "Dichter" | ⟪कवयति⟫ "er verhält sich wie ein Dichter" |
 | --- | --- |
@@ -395,29 +395,29 @@ Examples:
 | ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" |
 | ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" |
 
-### 61.4.2. Bildung con sufixu -ya, Parasmaipada
+### 61.4.2. ܨܘܪܬܐ ܥܡ ܫܘܠܡܐ -ܝܐ, ܦܪܐܣܡܐܝܦܐܕܐ
 
 ::: grammar-box
 **Meaning:**
 
-*   **someone desires what is denoted by the nominal stem**
-*   **someone treats or regards a person or thing as what is denoted by the nominal stem**
+*   **ܣܘܼܡܟ ܕܝܼܠܶܐ ܕܬܘܿܓܪ ܒܟܠ ܐܢܫ ܕܬܘܿܓܪ ܒܟܠ ܐܢܫ**
+*   **ܣܘܼܡܟ ܕܝܼܠܶܐ ܕܬܘܿܓܪ ܒܟܠ ܐܢܫ ܕܬܘܿܓܪ ܒܟܠ ܐܢܫ**
 
 **Stammbildung:**
 
-:::
-::: indent
-**before the -ya, the final sound of the nominal stem undergoes the following changes:**
+[0] :::
+[1] ::: indent
+[2] **לפני ה-yā, הצליל הסופי של השורש השמיי נעבר את השינויים הבאים:**
 
-*   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫-
-*   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫-
-*   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
-*   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
-*   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
-*   **final nasal is dropped, preceding vowel is treated according to the aforementioned rules:** ⟪राजन्⟫ » ⟪राजीय⟫-
-*   **other final consonants remain unchanged**
-:::
-Examples:
+[4] *   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫-
+[5] *   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫-
+[6] *   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
+[7] *   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
+[8] *   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
+[9] *   **הגימטריא הסופית נפלטת, התנועה הקודמת מטופלת לפי הכללים הנ"ל:** ⟪राजन्⟫ » ⟪राजीय⟫-
+[10] *   **עיצורים סופיים אחרים נשארים ללא שינוי**
+[11] :::
+[12] דוגמאות:
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रीयति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
@@ -433,6 +433,7 @@ Beachten sie die Bedeutung von:
 | --- | --- |
 | ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" |
 
+:::
 ::: media
 ![](/images/lekt6105.webp)
 Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ?
@@ -445,14 +446,14 @@ Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟩ ?
 Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
 (Image source: [Details](/arc/licenses#lekt6103))
 :::
-### 61.4.3. Formation with the suffix -kāmya, Parasmaipada
+### 61.4.3. ܨܘܪܬܐ ܥܡ ܡܠܬܐ ܕܫܘܠܡܐ -ܟܐܡܝܐ، ܦܐܪܐܣܡܐܝܦܐܕܐ
 
 ::: grammar-box
 **Meaning:**
 
-**someone desires that which is designated by the nominal stem**
+**דְּיַחֲלָף אֱנוֹשׁ בְּכָל דְּאִתְיַחֵיד בְּשׁוֹרָשָׁא שְׁמָלָא**
 :::
-Examples:
+דְּמִילֵי:
 
 | ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" |
 | --- | --- |
@@ -464,16 +465,16 @@ Fig.: ⟪यशस्काम्यन्ति⟫
 ⟪मुंबई⟫
 (Image source: [Details](/arc/licenses#lekt6109))
 :::
-### 61.4.4. Formation with the suffix -sya or -asya, Parasmaipada
+### 61.4.4. ܡܚܘܝܬܐ ܥܡ ܡܠܘܝܬܐ -ܣܝܐ ܐܘ -ܐܣܝܐ, ܦܐܪܐܣܡܐܝܦܐܕܐ
 
 ::: grammar-box
 **Meaning:**
 
 :::
 ::: indent
-**someone strongly desires that which is designated by the nominal stem.**
+**ܐܪܟܢ ܕܝܩܠ ܚܫܒ ܐܪܟܢ ܕܝܩܠ ܚܫܒ.**
 :::
-Examples:
+ܡܕܝܢܬܐ:
 
 ::: grammar-box
 | ⟪मधु⟫ n. "honey" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "he desires honey strongly" |
@@ -486,16 +487,16 @@ Fig.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
 Karli
 (Image source: [Details](/arc/licenses#lekt6110))
 :::
-### 61.4.5. Formation with the suffix -ya, Ātmanepada
+### 61.4.5. ܨܽܘܪܬܳܐ ܥܰܡ ܡܰܠܘܳܝܳܐ -ܝܰܐ، ܐܳܬܡܰܢܶܦܰܕܰܐ
 
 ::: grammar-box
 **Meaning:**
 
 :::
 ::: indent
-**someone behaves as that, or is similar to that, which is designated by the nominal stem.**
+**ܐܪܟܢ ܕܝܠܘܦ ܗܕܐ ܐܘ ܗܘ ܕܡܝܠ ܠܗ، ܕܬܘܩܦ ܒܫܡܐ.**
 :::
-**Formation:**
+**ܫܘܬܦܐ:**
 
 *   **final -a » -ā**
 *   **final -ā remains unchanged**
@@ -511,13 +512,13 @@ Examples:
 | ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" |
 
 ::: grammar-box
-**For some nominal stems, this suffix means: something becomes like that, or becomes what is denoted by the nominal stem:**
+**לעניין כמה שרשי שמות, סופה זה מייחד: משהו הוי כמו דא, או הוי מה דמשמע בשורש השם:**
 
 :::
 ::: indent
-e.g. ⟪उन्मनस्⟫ 3 "arouses": ⟪उन्मनायते⟫ "he is aroused"
+למשל ⟪उन्मनस्⟫ 3 "מערר": ⟪उन्मनायते⟫ "הוא מתערר"
 :::
-**In some cases, verbs with other meanings are formed using this suffix:**
+**במקצת גווני, פועלים בעלי משמעויות אחרות מתכונים בשימוש בסופה דא:**
 
 Examples:
 
@@ -530,7 +531,7 @@ Examples:
 Fig.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
 (Image source: [Details](/arc/licenses#lekt6111))
 :::
-### 61.4.6. Formation with the suffix -aya, -āpaya
+### 61.4.6. ܨܽܘܪܬܳܐ ܥܰܡ ܡܰܘܣܦܳܢܳܐ -ܐܝܰܐ, -ܐܦܰܐܝܰܐ
 
 ::: grammar-box
 **Various Meanings.**
@@ -559,9 +560,9 @@ Abb.:
 :::
 
 ::: indent
-**Westergaard**, Niels Ludvig \<1815-1878\>: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
+**Westergaard**, Niels Ludvig \&lt;1815-1878\&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
-## 61.5. The Benediction (⟪आशीर्लिङ्⟫)
+## 61.5. ܒܘܪܟܬܐ (⟪ܐܫܝܪܠܝܢܓ⟫)
 
 ::: grammar-box
 **Meaning:**
@@ -588,12 +589,12 @@ e.g. ⟪बुध्यासम्⟫ "may I recognize!"
 **(high-level) root + ⟪ै⟫ + sī(y) + secondary ending**
 
 ::: indent
-e.g.
-⟪जि⟫ : ⟪जेषीय⟫ "may I conquer for my own interest!"
-⟪बुध्⟫ : ⟪बोधिषीय⟫ "may I recognize"
+ܡܫܠܐ
+⟪जि⟫ : ⟪जेषीय⟫ "ܠܐ ܡܘܬܒܪ ܥܠ ܦܘܟܪܝ"
+⟪बुध्⟫ : ⟪बोधिषीय⟫ "ܠܐ ܡܕܩܩ"
 :::
-**The rules for the form of the root in detail in Kielhorn, Grammar § 380ff.**
-Paradigm:
+**ܐܘܪ̈ܝܬܐ ܕܦܘܣܩܐ ܕܫܪܫܐ ܒܝܬܪܢܘܬܐ ܒܟܠܝܗܝ, ܩܠܢܐ, ܓܪܡܬܐ § 380ff.**
+ܦܪܝܕܡ:
 
 Paradigm:
 
@@ -613,12 +614,12 @@ Fig.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ �
 Santa Cruz Basilica, Kochi = കൊച്ചി
 (Image source: [Details](/arc/licenses#lekt6114))
 :::
-## 61.6. The Conditional (⟪ऌङ्⟫)
+## 61.6. ܕܫܪܛܐ (⟪ܠܢܓ⟫)
 
 ::: grammar-box
-**The Conditional (⟪ऌङ्⟫) is used when one wishes to express in conditional sentences that what is stated as the condition is not the case / has not been the case / will not be the case. The Conditional must be used in such sentences in both the conditional clause and the main clause.**
+**ܡܠܦܢܘܬ ܟܝܕ (⟪ऌङ्⟫) ܐܬܝܕܥ ܠܡܕܒܪ ܟܝܕ ܐܘܪ̈ܚܐ ܕܡܠܬ ܟܝܕ ܕܐܝܘܬܗ ܠܐ ܗܘܐ / ܠܐ ܗܘܐ / ܠܐ ܗܘܐ. ܡܠܦܢܘܬ ܟܝܕ ܐܬܝܕܥ ܒܟܠ ܡܢ ܐܘܪ̈ܚܐ ܕܡܠܬ ܟܝܕ ܘܒܐܘܪ̈ܚܐ ܕܡܠܬ ܟܝܕ.**
 :::
-Example:
+ܡܛܠ:
 
 ::: indent
 ⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "If it had rained well (or would rain), there would be abundant food. (But it has not (sufficiently) rained.)"
@@ -644,7 +645,7 @@ Paradigm:
 | **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
 :::
-## 61.7. Deklination der Nomina auf -ai, -o, -au
+## 61.7. ܬܓܕܠܐ ܕܫܡܗ̈ܐ ܕܒ-ܐܝ، -ܐܘ، -ܐܘ
 
 ::: grammar-box
 **Before consonants, these stems end in -ai, -o, -au; before consonants in -āy, -av, -āv**
@@ -663,9 +664,9 @@ Paradigms: Kielhorn, Grammar § 153:
 Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 (Image source: [Details](/arc/licenses#lekt6118))
 :::
-## 61.8. Remaining Pronouns
+## 61.8. ܫܡܳܗܶܐ ܕܚܠܳܦܳܐ ܕܝܰܬܺܝܪܺܝܢ
 
-### 61.8.1. Personalpronomen des Dual
+### 61.8.1. ܟܢܘܫܝܐ ܕܬܪ̈ܝܨܘܬܐ ܕܬܪ̈ܝܢ
 
 Kielhorn, Grammar § 177:
 
@@ -680,7 +681,7 @@ Fig.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
 Apatani people, Arunachal Pradesh
 (Image source: [Details](/arc/licenses#lekt6117))
 :::
-### 61.8.2. Demonstrative pronouns ⟪अदस्⟫ "that (distant)"
+### 61.8.2. ܟܢܘܫܝ̈ܐ ܡܚܘܝܢܝ̈ܐ ⟪ܐܕܣ⟫ "ܗܘ (ܪܚܝܩܐ)"
 
 Masculine (⟪पुंस्⟫)
 
@@ -721,7 +722,7 @@ Feminine (⟪स्त्री⟫)
 :::
 ## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
-After completing the Sanskrit course, the actual "swimming" in the ocean of Sanskrit literature only begins. Since this ocean is full of obstacles, it is appropriate to begin this new phase of life with an invocation of Gaṇeśa:
+ܒܥܕܪ ܫܠܡ ܟܘܪܣ ܣܐܢܣܩܪܝܬ，ܗܘ ܚܠܦ ܐܪܟܬܐ "ܫܘܝܐ" ܒܠܦܬ ܣܐܢܣܩܪܝܬ ܠܐ ܫܘܥܦ. ܟܕ ܗܢܐ ܠܦܬ ܡܠܝ ܒܥܕܪܐ，ܬܩܘܠ ܠܡܕܒܪ ܗܢܐ ܦܘܣܐ ܚܕܬܐ ܕܚܝܠܬ ܒܟܪܘܙܐ ܕܓܰܢܶܫ：
 
 ::: media
 ![](/images/lekt6101.webp)
@@ -749,15 +750,15 @@ Tāla: Rūpaka: o |4
 
 ::: media
 ![](/images/lekt6119.webp)
-Fig.: The melody, referenced to c, can be transposed depending on the vocal range.
-(Image source: [Details](/arc/licenses#lekt6119))
+ܦܘܩܕܢܐ: ܡܠܘܝܬܐ، ܕܬܫܟܚ ܠܥܘܬܪܐ c، ܡܦܩܕܬ ܠܗ ܒܐܘܪ̈ܚܐ ܕܩܠܐ.
+(מקור התמונה: [פרטים](/arc/licenses#lekt6119))
 :::
-śrīgaṇanātha / ⟪श्रीगणनाथ⟫ stands at the beginning of instruction in Kannarese music. See the video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Accessed on 2009-03-05
+שְׂרִיגָנַתָּה / ⟪श्रीगणनाथ⟫ עומד בראש ההוראה במוזיקה קנארית. ראו את הסרטון: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- נגיש ב-2009-03-05
 
-Having now learned the basics of Sanskrit, you are hopefully like the toddlers in the video: sometimes clumsy, yet eager to learn and full of curiosity, and enjoying the process. Maintain "a beginner's mind" until the end of your life.
+לאחר שלמדתם את יסודות הסנסקריט, אנו מקווים שאתם כמו התינוקות בסרטון: לפעמים חסרי ניסיון, אך עם רצון ללמוד ומלאי סקרנות, ונהנים מהתהליך. שמרו על "מחשבת מתחיל" עד סוף ימיכם.
 
 ::: center
-This is wished to you by your Alois Payer
+זה מאחל לכם אלוויס פיייר
 
 Ofterdingen, 2009-03-09
 

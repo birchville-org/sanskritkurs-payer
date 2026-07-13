@@ -1,8 +1,8 @@
-# Devanāgarī = ⟪देवनागरी⟫
+# ܕܝܘܢܐܓܪܝ = ܕܝܘܢܐܓܪܝ
 
-## Script Exercise 1
+## Script ܬܪܓܡܬܐ 1
 
-Sanskrit was and is written in a multitude of scripts. The following overview provides a small excerpt from these scripts:
+אָרַם הֲוָת וְהִיא כְּתֵיבָה בְּסַמְפָּרִין מְנַוְעִין. הַהּ סָקְלָא מַפְתָּחָא לִשְׁעוּרָא מֵהֲדָרַיָּא:
 
 ![](/images/schrift001.webp)  
 Fig.: Script samples Sanskrit  
@@ -12,7 +12,7 @@ Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
 ![](/images/schrift002.webp)
 
-Each consonant character denotes a following "a" with the consonant. If the pure consonant is to be written (without following vowel), this must be indicated by an underlined slash -- virāma = ⟪विराम⟫ --:
+כל אות עיצורית מציינת "א" הבאה עם העיצור. אם יש לכתוב את העיצור הטהור (ללא תנועה הבאה), יש להצביע על כך באמצעות קו חתוך מתחת -- ויראמה = ⟪विराम⟫ --:
 
 ⟪क्⟫ = k, ⟪च्⟫ = c, ⟪ट्⟫ = ṭ, ⟪त्⟫  = t, ⟪प्⟫ = p
 
@@ -22,13 +22,13 @@ Vowels following a consonant -- except "a" -- are written as follows:
 
 ⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
 
-The order when writing these combinations of consonant + vowel is:
+Die Reihenfolge beim Schreiben dieser Kombinationen aus Konsonant + Vokal ist:
 
 ![](/images/schrift003.jpg)
 
-When writing, each letter including the crossbar is completed on the upper line before the next letter is written.
+ܟ݂ܰܝܼܬ݁ ܐܳܪܡܺܝܵܐ ܟ݂ܠ ܚܳܪܘܼܬ݁ܵܐ ܒ݂ܰܫܡܵܐ ܕܶܠܦ݂ܳܬ݁ܵܐ ܥܰܡ ܚܛܘܼܬ݁ܵܐ ܕܶܠܦ݂ܳܬ݁ܵܐ ܒ݂ܰܫܡܵܐ ܕܶܠܦ݂ܳܬ݁ܵܐ ܥܰܡ ܚܛܘܼܬ݁ܵܐ ܕܶܠܦ݂ܳܬ݁ܵܐ ܒ݂ܰ
 
-## Exercise
+## ܬܪܓܠܐ
 
 Schreiben Sie in Devanāgarī:
 
@@ -40,4 +40,4 @@ Read and transliterate:
 
 Additional reading exercise:
 
-⟪पिता⟩ Father, ⟪कपि⟩ Monkey, ⟪कृत⟩ done,  ⟪टीका⟩ Subcommentary, ⟪तत्⟩ this, ⟪तट⟩ Shore, ⟪पत्⟩ shoot forth, ⟪पट⟩ Fabric, ⟪काच⟩ Glass,  ⟪काकुत्⟩ Palate, ⟪चित्⟩ perceive, ⟪पृच्⟩ mix,  ⟪पोटक⟩ Servant, ⟪चेतु⟩ Intention, ⟪तौतातित⟩ Disciple of Kumārila (Mīmāṃsā), ⟪तूत⟩ Mulberry tree, ⟪पीत⟩ drunk,  ⟪पीति⟩ Drink, ⟪कॢप्⟩  fit, ⟪कृपते⟩ he laments, ⟪पुटी⟩ Fold, ⟪चापि⟩ likewise, ⟪तोक⟩ Offspring, ⟪तृपत्⟩ full, ⟪पॄ⟩ fill, ⟪कृकाटी⟩ Neck joint, ⟪पूपौ⟩ two cakes, ⟪पैतृकी⟩ paternal (fem.), ⟪कौट⟩ fraudulent, ⟪कच⟩ Head hair, ⟪कुतपे⟩ on the goat-hair mat, ⟪कुचौ⟩ Bosom, ⟪चकिता⟩ startled (fem.)
+⟪पिता⟩ ܐܒܐ, ⟪कपि⟩ ܩܘܢܦܪܐ, ⟪कृत⟩ ܫܠܡ, ⟪टीका⟩ ܬܩܘܦܐ, ⟪तत्⟩ ܗܕܐ, ⟪तट⟩ ܫܘܬܦܐ, ⟪पत्⟩ ܫܕܩ, ⟪पट⟩ ܬܓܢܐ, ⟪काच⟩ ܫܡܫܐ, ⟪काकुत्⟩ ܠܦܝܬܐ, ⟪चित्⟩ ܫܡܥ, ⟪पृच्⟩ ܟܬܒ, ⟪पोटक⟩ ܥܒܕ, ⟪चेतु⟩ ܐܘܬܒܐ, ⟪तौतातित⟩ ܬܠܝܕ ܟܘܡܪܐ, ⟪तूत⟩ ܬܝܢܐ, ⟪पीत⟩ ܫܟܝܪ, ⟪पीति⟩ ܫܟܘܥ, ⟪कॢप्⟩ ܐܝܕܐ, ⟪कृपते⟩ ܢܚܡ, ⟪पुटी⟩ ܦܠܘܟ, ⟪चापि⟩ ܐܦ, ⟪तोक⟩ ܙܪܥ, ⟪तृपत्⟩ ܡܠܐ, ⟪पॄ⟩ ܡܠܘ, ⟪कृकाटी⟩ ܓܒܠܐ, ⟪पूपौ⟩ ܬܪܝܢ, ⟪पैतृकी⟩ ܐܒܝܬ, ⟪कौट⟩ ܫܘܩܠ, ⟪कच⟩ ܫܬܐ, ⟪कुतपे⟩ ܥܠ ܬܓܢܐ, ⟪कुचौ⟩ ܦܘܣܩ, ⟪चकिता⟩ ܫܘܥܐ

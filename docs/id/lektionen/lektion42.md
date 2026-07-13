@@ -14,12 +14,12 @@ status: stable
 ### 42.1.1. Tribes with lengthened grade in the strong stem
 
 ::: grammar-box
-All masculines ending in -ṛ with the exception of the kinship terms listed under 1.3. Included here are also the kinship terms:
+Semua kata benda maskulin yang berakhiran -ṛ, kecuali istilah kekerabatan yang tercantum di bawah 1.3. Termasuk juga dalam sini adalah istilah-istilah kekerabatan:
 
 *   **⟪नप्तृ⟫** m. "grandson"
 *   **⟪भर्तृ⟫** m. "husband (lit. supporter)"
 
-The majority of the nouns belonging here are agent nouns formed with the ⟪कृत्⟫-suffix -⟪तृ⟫.
+Sebagian besar kata benda yang termasuk di sini adalah kata benda pelaku yang dibentuk dengan akhiran ⟪कृत्⟫ -⟪तृ⟫.
 
 **Formation:**
 
@@ -48,17 +48,17 @@ Masculine:
 | ⟪सप्तमी⟫ | ***⟪दातरि⟫*** | ⟪दातृषु⟫ |
 
 :::
-For an explanation of the irregular formations, see Thumb-Hauschild I,2 pp. 76-81
+Untuk penjelasan mengenai bentuk-bentuk tidak beraturan, lihat Thumb-Hauschild I,2 hlm. 76-81
 
 Feminine:
 
 ::: indent
-**⟪स्वसृ⟫** f. is declined like **⟪दातृ⟫** with the exception of the accusative (**⟪द्वितीया⟫**) plural: ***⟪स्वसॄस्⟫***.
+**⟪स्वसृ⟫** f. dideklinasikan seperti **⟪दातृ⟫** dengan pengecualian akusatif (**⟪द्वितीया⟫**) jamak: ***⟪स्वसॄस्⟫***.
 :::
-### 42.1.2. Nominal Derivation: ⟪कृत्⟫ Suffix -⟪तृ⟫
+### 42.1.2. Turunan Nominal: ⟪कृत्⟫ Akhiran -⟪तृ⟫
 
 ::: grammar-box
-The very common ⟪कृत्⟫ suffix -⟪तृ⟫ is used to form nominal agents (designations for the ⟪कर्तृ⟫) from almost any root or causative stem.
+Akhiran ⟪कृत्⟫ -⟪तृ⟫ yang sangat umum digunakan untuk membentuk agen nominal (penunjukan untuk ⟪कर्तृ⟫) dari hampir semua akar atau batang kausatif.
 
 **Formation:**
 
@@ -96,15 +96,15 @@ e.g. **⟪कर्त्री⟫** f. "female agent"
 ### 42.1.3. Tribes with strong stem grade
 
 ::: grammar-box
-The following kinship terms belong to this category:
+Istilah-istilah kekerabatan berikut termasuk dalam kategori ini:
 
-*   **⟪पितृ⟫** m. "father"
-*   **⟪मातृ⟫** f. "mother"
-*   **⟪दुहितृ⟫** f. "daughter"
-*   **⟪भ्रातृ⟫** m. "brother"
-*   **⟪देवृ⟫** m. "husband's brother (brother-in-law of the wife)"
-*   **⟪यातृ⟫** f. "wife of the husband's brother"
-*   **⟪ननान्दृ⟫** f. "sister of the husband (sister-in-law of the wife)"
+*   **⟪पितृ⟫** m. "ayah"
+*   **⟪मातृ⟫** f. "ibu"
+*   **⟪दुहितृ⟫** f. "putri"
+*   **⟪भ्रातृ⟫** m. "saudara laki-laki"
+*   **⟪देवृ⟫** m. "saudara laki-laki suami (kakak/ipar dari istri)"
+*   **⟪यातृ⟫** f. "istri dari saudara laki-laki suami"
+*   **⟪ननान्दृ⟫** f. "saudara perempuan suami (kakak/ipar dari istri)"
 
 **Formation:**
 
@@ -141,9 +141,9 @@ As the first member of a compound, nouns ending in -ṛ naturally stand in their
 
 ⟪प्रकृति⟫ f.: (from ⟪कृ⟫ + ⟪प्र⟫) basic form, natural state, nature; primordial matter, prime substance
 
-⟪अर्जुन⟫ m. Proper name: Arjuna, one of the five sons of ⟪पण्डु⟫. Hero in the ⟪महाभारत⟫ (see Basham, Wonder pp. 409 - 414)
+⟪अर्जुन⟫ m. Nama diri: Arjuna, salah satu dari lima putra ⟪पण्डु⟫. Pahlawan dalam ⟪महाभारत⟫ (lihat Basham, Wonder hal. 409 - 414)
 
-⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : to abstain from, to keep away from, to keep distant, to remain, to stand
+⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : menahan diri dari, menjauhkan diri dari, menjaga jarak, tetap berada di tempat, berdiri
 
 ::: indent
 PPP ⟪अवस्थित⟫ 3: standing, located
@@ -164,7 +164,7 @@ PPP ⟪अवस्थित⟫ 3: standing, located
 
 ⟪बाण⟫ m.: arrow, target
 
-⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : to approve, to promise; Ā: to answer, to confirm, to assert, to recognize
+⟪ज्ञा⟫ + ⟪प्रति⟫ 9U ⟪प्रतिजानाति⟫ : menyetujui, berjanji; Ā: menjawab, mengonfirmasi, menegaskan, mengakui
 
 ⟪चल्⟫ 1P ⟪चलति⟫ : to get into motion
 
@@ -215,7 +215,7 @@ Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 :::
 ⟪भर्तृ⟫ m. (from ⟪भृ⟫ "to carry, to sustain"): Sustainer, Nourisher, Husband
 
-⟪भार्या⟫ f., ⟪जाया⟫ f. ⟪पत्नी⟫ f.: Wife (⟪भार्या⟫ = gerundive from ⟪भृ⟫ : one to be carried, one to be sustained, one entitled to maintenance)
+⟪भार्या⟫ f., ⟪जाया⟫ f. ⟪पत्नी⟫ f.: Istri (⟪भार्या⟫ = gerundive dari ⟪भृ⟫ : yang harus dibawa, yang harus ditopang, yang berhak mendapatkan pemeliharaan)
 
 ⟪पितृ⟫ m.: Father
 
@@ -224,7 +224,7 @@ Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 1.  Father, Grandfather, Great-grandfather
 2.  the progenitors of humanity
 
-Rites are performed for both, so-called ⟪श्राद्ध⟫ n. Daily, water and, on specific occasions, rice balls or flour balls (⟪पिण्ड⟫ m. "balls") are offered to three male ancestors each (paternal and maternal sides). This is so that the ancestors receive nourishment. The performance of this ceremony is one reason why a man should beget a son. Those connected through this ⟪पिण्ड⟫-gift are called ⟪सपिण्ड⟫ (to whom ⟪पिण्ड⟫ is common). ⟪सपिण्ड⟫ encompasses six generations: three backward (up to the great-grandfather) and three forward (up to the great-grandson).
+Upacara dilakukan untuk keduanya, yaitu ⟪श्राद्ध⟫ f. yang disebut-sebut. Setiap hari, air dan, pada kesempatan tertentu, bola nasi atau bola tepung (⟪पिण्ड⟩ m. "bola") dipersembahkan kepada tiga leluhur pria masing-masing (sisi paternal dan maternal). Hal ini dilakukan agar para leluhur menerima nutrisi. Pelaksanaan upacara ini adalah salah satu alasan mengapa seorang pria harus memiliki putra. Mereka yang terhubung melalui pemberian ⟪पिण्ड⟫ ini disebut sebagai ⟪सपिण्ड⟫ (di mana ⟪पिण्ड⟫ adalah hal yang sama). ⟪सपिण्ड⟫ mencakup enam generasi: tiga ke belakang (hingga kakek buyut) dan tiga ke depan (hingga cicit).
 
 ⟪तात⟫ m.: Papa
 
@@ -240,7 +240,7 @@ Rites are performed for both, so-called ⟪श्राद्ध⟫ n. Daily, wa
 
 ⟪स्वसृ⟫ f., ⟪भगिनी⟫ f.: Sister
 
-⟪देवृ⟫ m.: Brother of the husband (brother-in-law to the wife)
+⟪देवृ⟫ m.: Saudara laki-laki suami (saudara ipar bagi istri)
 
 ⟪यातृ⟫ m.: Wife of the husband's brother
 
@@ -321,7 +321,7 @@ Fig.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभू
 
 Explanation of the **red** highlighted expressions:
 
-⟪सीता⟫ f. proper name: daughter of King ⟪जनक⟫ from ⟪विदेह⟫. She had emerged from the earth when the king once plowed the field, hence her name: ⟪सीता⟫ f. "furrow of the field"
+⟪सीता⟫ f. nama diri: putri dari Raja ⟪जनक⟫ dari ⟪विदेह⟫. Ia muncul dari bumi ketika raja suatu kali membajak ladang, oleh karena itu namanya: ⟪सीता⟫ f. "barisan tanah yang dibajak"
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
@@ -345,7 +345,7 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 ⟪लङ्का⟫ f. proper name: identified with modern Sri Lanka (ශ්⟪‍⟫රී ලංකාව / இலங்கை)
 
-⟪रावण⟫ m. proper name; ruler of ⟪लङ्का⟫, ruler of the ⟪राक्षस⟫.
+⟪रावण⟫. m. nama diri; penguasa ⟪लङ्का⟫, penguasa dari ⟪राक्षस⟫.
 
 ::: media
 ![lekt4207.jpg](/images/lekt4207.webp)
@@ -360,19 +360,19 @@ Fig.: ⟪रावणः⟫
 
 ⟪लक्ष्मन⟫ m. proper name: son of ⟪दशरथ⟫
 
-⟪विश्वामित्र⟫ m. proper name: ⟪ऋषि⟫, pulled out ⟪राम⟫ and ⟪लक्ष्मन⟫ to kill demons; in return, the two receive magical weapons from him.
+⟪विश्वामित्र⟫. m. nama diri: ⟪ऋषि⟫, menarik keluar ⟪राम⟫ dan ⟪लक्ष्मन⟫ untuk membunuh iblis; sebagai imbalan, keduanya menerima senjata ajaib darinya.
 
 ⟪सीतारामयोस्⟫ Gen.Lok.Dual from ⟪सीताराम⟫
 
 ::: deleteme-box
 
-* **Fig. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Image source: Wikipedia. Public domain)
-* **Fig. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. (Image source: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Accessed on 2009-01-04. -- Creative Commons License (Attribution, non-commercial use, share alike))
-* **Fig. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Image source: Wikipedia. Public domain)
-* **Fig. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. chariot). (Image source: Wikipedia. Public domain)
-* **Fig. lekt4205**: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 17th century. (Image source: Wikipedia. Public domain)
-* **Fig. lekt4206**: Location of ⟪मिथिला⟫ and ⟪विदेह⟫, ⟪अयोध्या⟫ and ⟪कोसल⟫. (Image source: JIJITH NR / Wikipedia. GNU FDLicense)
-* **Fig. lekt4207**: ⟪रावणः⟫. Yakṣagaṇa dance mask (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Image source: Manohara Upadhya / Wikipedia. GNU FDLicense)
-* **Fig. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Image of ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Image source: Wikipedia. Public domain)
+* **Fig. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Sumber gambar: Wikipedia. Domain publik)
+* **Fig. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. Diwan I Khas, atau Aula Audiensi Pribadi di Lal Qila (Benteng Merah) di Delhi. (Sumber gambar: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Diakses pada 2009-01-04. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, berbagi sama))
+* **Fig. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, kira-kira tahun 1825. (Sumber gambar: Wikipedia. Domain publik)
+* **Fig. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. kereta perang). (Sumber gambar: Wikipedia. Domain publik)
+* **Fig. lekt4205**: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. Abad ke-17. (Sumber gambar: Wikipedia. Domain publik)
+* **Fig. lekt4206**: Lokasi ⟪मिथिला⟫ dan ⟪विदेह⟫, ⟪अयोध्या⟫ dan ⟪कोसल⟫. (Sumber gambar: JIJITH NR / Wikipedia. GNU FDLicense)
+* **Fig. lekt4207**: ⟪रावणः⟫. Topeng tari Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Sumber gambar: Manohara Upadhya / Wikipedia. GNU FDLicense)
+* **Fig. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Gambar ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Sumber gambar: Wikipedia. Domain publik)
 
 :::

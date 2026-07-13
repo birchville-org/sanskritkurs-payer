@@ -27,7 +27,7 @@ Las formas da construcziun pli impurtantas da cumponids èn:
 
 (Per las duas ultimas menziunadas, vesair pli tard!)
 
-## 5.2. Zur Sanskrit-Terminologie für Komposita
+## 5.2. Davart la terminologia da sanscrit per composita
 
 - **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Elements d'in cumpost
 - **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : Resoluziun d'in cumpost
@@ -36,7 +36,7 @@ Las formas da construcziun pli impurtantas da cumponids èn:
 - **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Cumpost, cun elements frontals senza desinenzas casalas (il cas normal)
 - **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Cumpost, en il qual in u plirs elements intermediars vegnan tralasciads
 
-## 5.3. Kopulative Komposita (Dvandva n. = ⟪द्वन्द्व⟫)
+## 5.3. Composita copulativa (Dvandva n. = ⟪द्वन्द्व⟫)
 
 I composts copulativs servan per cunectar partidas grammaticamain equiparadas e coordinadas (sustantivs u adiectivs).
 
@@ -60,7 +60,7 @@ Fitscha cun "e" (**ca** = ⟪च⟫), a giadas cun "u" (**vā** = ⟪वा⟫) 
 :::
 Per ils Dualdvandva ves pli tard!
 
-### 5.3.1. Vorderglieder von Komposita
+### 5.3.1. Emprimas parts da composita
 
 Las parts davant en cumponids (beti mo Dvandvas) han en general la furma dal **stema nominal** immutà. Las singulas parts da cumponids vegnan colliadas suenter las reglas dal **sandhi da la frasa** (c.a. il sandhi, che nus fin uss avain enconuschì, en cuntrast al sandhi da la paraula, che vegn applicà en l'intern da la paraula avant elements formativs).
 
@@ -90,7 +90,7 @@ Ezemplis per dvandva plural:
 
 Qua dus da las trais ultimas reglas pon vegnir aplicadas simultanamain, duai adina la regla donada pli tard vegnir observada. (Exemples da dualdvandva per questas reglas en Kielhorn, Grammatica § 570).
 
-## 5.4. Wortliste
+## 5.4. Glista da pleds
 
 **Studei las suandantas parolas:**
 
@@ -134,7 +134,7 @@ Fig.: dio Kāma = kāmadeva = ⟪कामदेव⟫, 18. sec.
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : tut ... ed.
 
-## 5.5. Übung
+## 5.5. Exercizi
 
 **A) Traducì las suandantas frasis e cumposts e resolvì ils dvandvas preschents en quels en sanscrit:**
 

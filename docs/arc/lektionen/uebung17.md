@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 17
+# ܬܪܓܡܬܐ 17
 
-A) Insert the verb in the following sentences and translate:
+[A] הוסיפו את הפועל במשפטים הבאים ותרגמו:
 
 ⟪१⟫. ⟪ब्राह्मनो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ... (⟪ब्रू⟫ ⟪।⟫ ⟪वच्⟫ ⟪।⟫ ⟪वद्⟫) ⟪।⟫
 ⟪ब्रवीति⟫ ⟪।⟫ ⟪वक्ति⟫ ⟪।⟫ ⟪वदति⟫ ⟪।⟫
@@ -20,11 +20,11 @@ A Kṣatriya protects the people.
 
 ⟪३⟫. ⟪बलवद्योधो⟫ ⟪द्विजारीन्⟫ ... (⟪जि⟫ ⟪।⟫ ⟪हन्⟫ ⟪।⟫ ⟪युध्⟫) ⟪।⟫
 ⟪द्विजारीञ्जयति⟫ ⟪।⟫ ⟪द्विजारीन्हन्ति⟫ ⟪।⟫ ⟪युध्यते⟫ ⟪।⟫
-The mighty warrior defeats / kills / fights the enemies of the twice-born.
+ܣܝܦܐ ܕܪܒܐ ܢܨܚ / ܡܘܬ / ܠܥܒܕ ܝܬܝܪ̈ܐ ܕܠܦ̈ܝܢ ܬܪܥܐ.
 
 ⟪४⟫. ⟪ब्राह्मणकविर्लोकेश्वरम्⟫ ... (⟪स्तु⟫ ⟪।⟫ ⟪यज्⟫) ⟪।⟫
 ⟪स्तौति⟫ ⟪।⟫ ⟪स्तुते⟫ ⟪।⟫ ⟪यजते⟫ ⟪।⟫ ⟪यजति⟫ ⟪।⟫
-The Brahminical poet praises the LORD of the world. (or: ...sacrifices... to the LORD of the world)
+ܒܪ ܟ̈ܢܫܐ ܕܒܪ̈ܝܬܐ ܡܠܟܐ ܫܒܚ / (ܐܘ: ...ܡܠܟܐ...) ܠܒܪ ܟ̈ܢܫܐ ܕܒܪ̈ܝܬܐ.
 
 ⟪५⟫. ⟪अग्निर्यज्ञान्नम्⟫ ... (⟪अद्⟫ ⟪।⟫ ⟪दह्⟫) ⟪।⟫
 ⟪अत्ति⟫ ⟪।⟫ ⟪दहति⟫ ⟪।⟫
@@ -36,7 +36,7 @@ The young Vaiṣya milks / tends the cow.
 
 ⟪७⟫. ⟪द्विजदासो⟫ ⟪मृगमार्गेण⟫ ⟪ब्राह्मणग्रामम्⟫ ... (⟪गम्⟫ ⟪।⟫ ⟪इ⟫ ⟪।⟫ ⟪पद्⟫) ⟪।⟫
 ⟪गच्छति⟫ ⟪।⟫ ⟪एति⟫ ⟪।⟫ ⟪पद्यते⟫ ⟪।⟫
-A servant of the twice-born goes on the game trail to the Brahmin village.
+ܣܝܦܩܐ ܕܡܢ ܬܪ̈ܝܦ ܐܘܠܦܐ ܙܚܝܟ ܥܠ ܪ̈ווחא ܕܒܝܬ ܡܕܢܚܐ.
 
 ⟪८⟫. ⟪द्विजदासः⟫ ⟪शूद्रस्⟫ ... (⟪अस्⟫ ⟪२⟫ ⟪।⟫ ⟪भू⟫) ⟪।⟫
 ⟪द्विजदासः⟫ ⟪शूद्रो⟫ ⟪ऽस्ति⟫ ⟪।⟫ ... ⟪शूद्रो⟫ ⟪भवति⟫ ⟪।⟫
@@ -50,7 +50,7 @@ The young Brahmin girl weeps / sits / dies.
 ⟪द्वेष्टि⟫ ⟪।⟫ ⟪द्विष्टे⟫ ⟪।⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫ ⟪न⟫ ⟪कुरुते⟫ ⟪।⟫
 A good person hates injustice. (or: ...does no injustice.)
 
-B) Insert the agent and verb in the plural in the sentences formed in A)
+B) ܣܘܓ ܠܟܢ ܕܡܪܝܐ ܘܦܥܠ ܒܟܢܫܬܐ ܒܦܪܣܘܼܟ̈ܬܐ ܕܗܒܝܢ ܠܟܢ ܐܝܠܝܼܙ
 
 ⟪१⟫. ⟪ब्राह्मणा⟫ ⟪अनृतं⟫ ⟪न⟫ ⟪ब्रुवन्ति⟫ ⟪।⟫ (Plural of ⟪वच्⟫ does not occur) ⟪।⟫ ⟪वदन्ति⟫ ⟪।⟫
 
@@ -79,9 +79,9 @@ Fig.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 :::
 ---
 
-## Verb Form Exercise
+## ܬܪܓܡܬܐ ܕܨܘܪܬܐ ܕܡܠܬܐ
 
-Translate the following verb forms and provide the corresponding root:
+ܡܠܘܿܟ ܐܬܝܪܓ ܗܕ ܡܠܘܿܟ ܘܐܬܝܪܓ ܫܪܫܪܘܿ
 
 ⟪१⟫. **⟪अदन्ति⟫** (⟪अद्⟫ 2P): they eat
 

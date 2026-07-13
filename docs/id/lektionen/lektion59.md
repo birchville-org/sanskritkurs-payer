@@ -9,7 +9,7 @@ status: stable
 
 # Lesson 59
 
-## 59.1. The Secondary Endings and Imperative Endings of the Dual (⟪द्विवचनम्⟫)
+## 59.1. Akhiran Sekunder dan Akhiran Imperatif Dwivachana (⟪द्विवचनम्⟫)
 
 ::: grammar-box
 |   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** |||
@@ -19,12 +19,12 @@ status: stable
 | **2. ⟪मध्यमः⟫** | -tam:br-tām || -īthām | -āthām | -īthām / āthām |
 | **3. ⟪प्रथमः⟫** | ^^ || -ītām | -ātām | -ītām / -ātām |
 :::
-## 59.2. The Dual of Thematic Present Classes: Optative (⟪विधिलिङ्⟫), Imperfect (⟪लङ्⟫), Imperative (⟪लोट्⟫)
+## 59.2. Dwivachana dari Kelas Present Tematik: Optatif (⟪विधिलिङ्⟫), Imperfek (⟪लङ्⟫), Imperatif (⟪लोट्⟫)
 
 ::: grammar-box
 **Before -va and -vahi, the thematic vowel -a- is replaced by -ā-.**
 :::
-### 59.2.1. First Present Class (⟪भ्वादिगणः⟫)
+### 59.2.1. Kelas Present Pertama (⟪भ्वादिगणः⟫)
 
 ⟪भू⟫ 1P "to become, to be"
 
@@ -33,27 +33,27 @@ Optative (⟪विधिलिङ्⟫)
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪भवेव⟫ | \<⟪भवेवहि⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪भवेतम्⟫ | \<⟪भवेयाथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪भवेताम्⟫ | \<⟪भवेयाताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪भवेव⟫ | \&lt;⟪भवेवहि⟫\&gt; |
+| 2\. ⟪मध्यमः⟫ | ⟪भवेतम्⟫ | \&lt;⟪भवेयाथाम्⟫\&gt; |
+| 3\. ⟪प्रथमः⟫ | ⟪भवेताम्⟫ | \&lt;⟪भवेयाताम्⟫\&gt; |
 :::
 Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪अभवाव⟫ | \<⟪अभवावहि⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪अभवतम्⟫ | \<⟪अभवेथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪अभवताम्⟫ | \<⟪भभवेताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪अभवाव⟫ | \&lt;⟪अभवावहि⟫\&gt; |
+| 2\. ⟪मध्यमः⟫ | ⟪अभवतम्⟫ | \&lt;⟪अभवेथाम्⟫\&gt; |
+| 3\. ⟪प्रथमः⟫ | ⟪अभवताम्⟫ | \&lt;⟪भभवेताम्⟫\&gt; |
 :::
 Imperative (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪भवाव⟫ | \<⟪भवावहै⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪भवतम्⟫ | \<⟪भवेथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪भवताम्⟫ | \<⟪भवेताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪भवाव⟫ | \&lt;⟪भवावहै⟫\&gt; |
+| 2\. ⟪मध्यमः⟫ | ⟪भवतम्⟫ | \&lt;⟪भवेथाम्⟫\&gt; |
+| 3\. ⟪प्रथमः⟫ | ⟪भवताम्⟫ | \&lt;⟪भवेताम्⟫\&gt; |
 :::
 ### 59.2.2. Fourth Present Class (⟪दिवादिगणः⟫)
 
@@ -64,27 +64,27 @@ Optative (⟪विधिलिङ्⟫)
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪नृत्येव⟫ | \<⟪नृत्येवहि⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪नृत्येतम्⟫ | \<⟪नृत्येयाथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪नृत्येताम्⟫ | \<⟪नृत्येयाताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪नृत्येव⟫ | \&lt;⟪नृत्येवहि⟫\&gt; |
+| 2\. ⟪मध्यमः⟫ | ⟪नृत्येतम्⟫ | \&lt;⟪नृत्येयाथाम्⟫\&gt; |
+| 3\. ⟪प्रथमः⟫ | ⟪नृत्येताम्⟫ | \&lt;⟪नृत्येयाताम्⟫\&gt; |
 :::
 Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪अनृत्याव⟫ | \<⟪अनृत्यावहि⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪अनृत्यतम्⟫ | \<⟪अनृत्येथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪अनृत्यताम्⟫ | \<⟪नृत्येताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪अनृत्याव⟫ | \&lt;⟪अनृत्यावहि⟫\&gt; |
+| 2\. ⟪मध्यमः⟫ | ⟪अनृत्यतम्⟫ | \&lt;⟪अनृत्येथाम्⟫\&gt; |
+| 3\. ⟪प्रथमः⟫ | ⟪अनृत्यताम्⟫ | \&lt;⟪नृत्येताम्⟫\&gt; |
 :::
 Imperative (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪नृत्याव⟫ | \<⟪नृत्यावहै⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪नृत्यतम्⟫ | \<⟪नृत्येथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪नृत्यताम्⟫ | \<⟪नृत्येताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪नृत्याव⟫ | \&lt;⟪नृत्यावहै⟫\&gt; |
+| 2\. ⟪मध्यमः⟫ | ⟪नृत्यतम्⟫ | \&lt;⟪नृत्येथाम्⟫\&gt; |
+| 3\. ⟪प्रथमः⟫ | ⟪नृत्यताम्⟫ | \&lt;⟪नृत्येताम्⟫\&gt; |
 :::
 ### 59.2.3. Sixth Present Class (⟪तुदादिगणः⟫)
 
@@ -176,7 +176,7 @@ Imperative (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येताम्⟫ |
 :::
-## 59.3. The Dual of Athematic Present Classes: Optative (⟪विधिलिङ्⟫), Imperfect (⟪लङ्⟫), Imperative (⟪लोट्⟫)
+## 59.3. Dwivachana dari Kelas Present Athematik: Optatif (⟪विधिलिङ्⟫), Imperfek (⟪लङ्⟫), Imperatif (⟪लोट्⟫)
 
 ### 59.3.1. Second Present Class (⟪अदादिगणः⟫)
 
@@ -365,27 +365,27 @@ Optative (⟪विधिलिङ्⟫)
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪जुहुयाव⟫ | \<⟪जुह्वीवहि⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪जुहुयातम्⟫ | \<⟪जुह्वीयाथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪जुहुयाताम्⟫ | \<⟪जुह्वीयाताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪जुहुयाव⟫ | \&lt;⟪जुह्वीवहि⟫\&gt; |
+| 2\. ⟪मध्यमः⟫ | ⟪जुहुयातम्⟫ | \&lt;⟪जुह्वीयाथाम्⟫\&gt; |
+| 3\. ⟪प्रथमः⟫ | ⟪जुहुयाताम्⟫ | \&lt;⟪जुह्वीयाताम्⟫\&gt; |
 :::
 Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪अजुहुव⟫ | \<⟪अजुहुवहि⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪अजुहुतम्⟫ | \<⟪अजुह्वाथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪अजुहुताम्⟫ | \<⟪अजुह्वाताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪अजुहुव⟫ | \&lt;⟪अजुहुवहि⟫\&gt; |
+| 2\. ⟪मध्यमः⟫ | ⟪अजुहुतम्⟫ | \&lt;⟪अजुह्वाथाम्⟫\&gt; |
+| 3\. ⟪प्रथमः⟫ | ⟪अजुहुताम्⟫ | \&lt;⟪अजुह्वाताम्⟫\&gt; |
 :::
 Imperative (⟪लोट्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟫ | ⟪जुहवाव⟫ | \<⟪जुहवावहै⟫\> |
-| 2\. ⟪मध्यमः⟫ | ⟪जुहुतम्⟫ | \<⟪जुह्वाथाम्⟫\> |
-| 3\. ⟪प्रथमः⟫ | ⟪जुहुताम्⟫ | \<⟪जुह्वाताम्⟫\> |
+| 1\. ⟪तृतीयः⟫ | ⟪जुहवाव⟫ | \&lt;⟪जुहवावहै⟫\&gt; |
+| 2\. ⟪मध्यमः⟫ | ⟪जुहुतम्⟫ | \&lt;⟪जुह्वाथाम्⟫\&gt; |
+| 3\. ⟪प्रथमः⟫ | ⟪जुहुताम्⟫ | \&lt;⟪जुह्वाताम्⟫\&gt; |
 :::
 ⟪धा⟫ 3U "to set, place, put"
 
@@ -599,9 +599,9 @@ Imperative (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीतम्⟫ | ⟪क्रीणाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीताम्⟫ | ⟪क्रीणाताम्⟫ |
 :::
-## 59.4. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
+## 59.4. Aoris Dwivachana (⟪द्विवचनम्⟫) (⟪लुङ्⟫)
 
-### 59.4.1. Root Aorist
+### 59.4.1. Aoris Akar
 
 ⟪पा⟫ 1P "drink"
 
@@ -612,7 +612,7 @@ Imperative (⟪लोट्⟫)
 | 2. ⟪मध्यमः⟫ | ⟪अपातम्⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪अपाताम्⟫ |
 :::
-### 59.4.2. a-Aorist
+### 59.4.2. a-Aoris
 
 ⟪सिच्⟫ 6U "to sprinkle"
 
@@ -623,7 +623,7 @@ Imperative (⟪लोट्⟫)
 | 2. ⟪मध्यमः⟫ | ⟪असिचतम्⟫ | ⟪असिचेथाम्⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪असिचताम्⟫ | ⟪असिचेताम्⟫ |
 :::
-### 59.4.3. Reduplicated Aorist
+### 59.4.3. Aoris Reduplikasi
 
 ⟪श्रि⟫ 1U "to go to"
 
@@ -634,7 +634,7 @@ Imperative (⟪लोट्⟫)
 | 2. ⟪मध्यमः⟫ | ⟪अशिश्रियतम्⟫ | ⟪अशिश्रियेथाम्⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪शिश्रियताम्⟫ | ⟪अशिश्रियेताम्⟫ |
 :::
-### 59.4.4. s-Aorist
+### 59.4.4. s-Aoris
 
 ⟪नी⟫ 1U "lead"
 
@@ -655,7 +655,7 @@ Imperative (⟪लोट्⟫)
 | a-taut+s+tam | ⟪अतुत्साथाम्⟫ | | |
 | 3. ⟪प्रथमः⟫ | ⟪अतौत्ताम्⟫ | ⟪अतित्साताम्⟫ |
 :::
-### 59.4.5. iṣ-Aorist
+### 59.4.5. iṣ-Aoris
 
 ⟪पू⟫ 9U "to purify"
 
@@ -666,14 +666,14 @@ Imperative (⟪लोट्⟫)
 | 2. ⟪मध्यमः⟫ | ⟪अपाविष्टम्⟫ | ⟪अपविषाथाम्⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪पाविष्टाम्⟫ | ⟪अपविषाताम्⟫ |
 :::
-## 59.5. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (P only)
+## 59.5. Aorist (⟪लुङ्⟫) 6: siṣ-Aoris (P only)
 
 ::: grammar-box
-**The siṣ-Aorist is formed in the P by all roots ending in -ā, -e, -o, -ai that are not restricted to the 1st, 2nd, or 3rd Aorist, as well as by several other roots, including ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. In the Ā, all these roots form the s-Aorist.**
+**Siṣ-aorist dibentuk di Parasmaipada oleh semua akar yang berakhiran -ā, -e, -o, -ai dan tidak dibatasi pada Aorist ke-1, ke-2, atau ke-3, serta oleh beberapa akar lainnya, termasuk ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. Di Atmanepada, semua akar ini membentuk s-aorist.**
 
 **Formation:**
 
-**Augment + strengthened root + s + i + ṣ + athematic secondary endings (as in the iṣ-Aorist)**
+**Augmen + diperkuat akar + s + i + ṣ + akhiran sekunder atematik (seperti dalam aorist iṣ)**
 :::
 Thus, the stem-forming suffix and endings of the siṣ-Aorist are:
 
@@ -697,18 +697,18 @@ Paradigm:
 | **2. ⟪द्वितीयः⟫** | ***⟪अयासीस्⟫*** | ⟪अयासिष्टम्⟫ | ⟪अयासिष्ट⟫ |
 | **3. ⟪प्रथमः⟫** | ***⟪अयासीत्⟫*** | ⟪अयासिष्टाम्⟫ | ⟪अयासिषुर्⟫ |
 :::
-## 59.6. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematic s-aorist)
+## 59.6. Aoris (⟪लुङ्⟫) 7: sa-Aoris (s-Aoris Tematik)
 
 ::: grammar-box
-**The majority of ⟪अनिट्⟫-roots ending in -ś, -ṣ, or -h, with i, u, or ṛ in the penultimate position, form the sa-Aorist. Optional ⟪अनिट्⟫-roots of this shape form either the sa-Aorist or the iṣ-Aorist optionally.**
+**Mayoritas akar ⟪अनिट्⟫ yang berakhiran -ś, -ṣ, atau -h, dengan i, u, atau ṛ di posisi kedua dari akhir, membentuk aorista-sa. Akar ⟪अनिट्⟫ opsional dengan bentuk ini dapat membentuk aorista-sa atau aorista-iṣ secara opsional.**
 
 **Formation:**
 
 **Augment + low-grade root + s + a + thematic secondary ending**
 
-**The 1.sg.2.3.du.Ā are formed athematically from the s-aorist, i.e., without thematic vowel.**
+**Bentuk 1.sg.2.3.du.Ā dibentuk secara atematis dari aorist-s, yaitu tanpa vokal tematik.**
 :::
-Thus, the stem-forming suffix + endings of the sa-aorist are:
+Dengan demikian, akhiran pembentuk akar + akhiran aorist-s adalah:
 
 ::: grammar-box
 |   | **⟪परस्मैपदम्⟫** ||| **⟪आत्मनेपदम्⟫** |||
@@ -753,23 +753,23 @@ A) Translate the following text and identify all verbal forms occurring within i
 
 _Preliminary note:_
 
-The following text is from the ⟪भट्टिकाव्य⟫ ("Artistic poem by [poet] Bhaṭṭi"). The ⟪भट्टिकाव्य⟫ narrates the story of ⟪राम⟫ in 22 cantos, while simultaneously illustrating the rules of grammar and poetics through examples.
+Teks berikut berasal dari ⟪भट्टिकाव्य⟫ ("Puisi artistik oleh [penyair] Bhaṭṭi"). ⟪भट्टिकाव्य⟫ menceritakan kisah ⟪राम⟫ dalam 22 bait, sambil secara bersamaan mengilustrasikan aturan tata bahasa dan puisi melalui contoh-contoh.
 
 The poem has four sections:
 
-1.  Canto 1-5: mixed rules
-2.  Canto 6-9: main rules of Pāṇini's grammar
-3.  Canto 10-13: the most important poetic ornaments
-4.  Canto 14-22: usage of tenses and moods
+1.  Canto 1-5: aturan campuran
+2.  Canto 6-9: aturan utama tata bahasa Pāṇini
+3.  Canto 10-13: ornamen puitis yang paling penting
+4.  Canto 14-22: penggunaan waktu dan modus
 
 The ⟪भट्टिकाव्य⟫ was composed between 495 and 641 CE.
 
 ::: media
 ![](/images/lekt5902.webp)
 Fig.: ⟪रावणः⟫
-(Image source: [Details](/en/licenses#lekt5902))
+(Sumber gambar: [Details](/en/licenses#lekt5902))
 :::
-The following section is the beginning of the 15th Canto, which is dedicated to the Aorist. ⟪रावण⟫, the demon king, who has stolen his wife ⟪सीता⟫ from ⟪राम⟫, sends for his brother ⟪कुम्भकर्ण⟫ ("Pot-ear"), who lies in a kind of permanent sleep as punishment for his misdeeds.
+Bagian berikut adalah awal dari Canto ke-15, yang didedikasikan untuk Aorist. ⟪रावण⟫, raja iblis, yang telah mencuri istrinya ⟪सीता⟫ dari ⟪राम⟫, memanggil saudaranya ⟪कुम्भकर्ण⟫ ("Telinga-Gendang"), yang berada dalam semacam tidur permanen sebagai hukuman atas kejahatannya.
 
 ::: media
 ![](/images/lekt5903.webp)

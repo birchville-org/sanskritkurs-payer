@@ -7,14 +7,14 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lesson 21
+# ܕܪܫܐ כא
 
-## 21.1. Further present stems in -nt
+## 21.1. ܫܶܪ̈ܫܶܐ ܐ̱ܚܪ̈ܳܢܶܐ ܕܙܰܒܢܳܐ ܗܳܫܳܝܳܐ ܒ -ܢܬ
 
-### 21.1.1. Present Participle (⟪लडादेशः⟫) Parasmaipada
+### 21.1.1. ܡܠܬܐ ܕܦܘܠܚܢܐ ܕܙܒܢܐ ܗܫܝܐ (ܠܕܐܕܫܗ) ܦܪܣܡܐܝܦܕܐ
 
-::: grammar-box
-This participle is a nominal formation from the present stem, thus a true participle. It is an adjective that indicates that someone or something is currently doing what is expressed by the verbal root (+ prefix), while something else is happening. A permanent state can also be expressed with it.
+::: grammar-box  
+ܗܕܐ ܫܡܥܬܐ ܗܝ ܠܫܢܐ ܡܕܒܪܬ ܡܢ ܫܪܩܐ ܕܥܬܝܕܐ، ܠܗܢܐ ܫܡܥܬܐ ܕܚܠܛ. ܗܝ ܡܠܬܐ ܕܡܫܬܒܪܬ ܠܗܢܐ ܕܡܢ ܚܠܛܐ ܕܥܬܝܕܐ، ܘܡܫܬܒܪܬ ܠܗܢܐ ܕܡܢ ܚܠܛܐ ܕܥܬܝܕܐ.
 
 **Beispiele:**
 
@@ -25,14 +25,14 @@ This participle is a nominal formation from the present stem, thus a true partic
 :::
 ::: grammar-box
 
-| **Formation of the Present Participle Parasmaipada for thematic present stems:** |||
+| **Bildung des Partizips Präsens Parasmaipada für thematische Presentstämme:** |||
 | :--- | :--- | :--- |
-| **Masculine, Neuter** | | |
-| | **strong stem** | present stem + **-nt-** |
-| | **weak stem** | present stem + **-t-** |
-| **Feminine** | | |
-| | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6th present class** | present stem + **-nt-** + **-ī** :brother::brpresent stem + **-t-** + **-ī** |
+| **Maskulinum, Neutrum** | | |
+| | **starke Stammform** | Presentstamm + **-nt-** |
+| | **schwache Stammform** | Presentstamm + **-t-** |
+| **Femininum** | | |
+| | | Presentstamm + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | **6. Presentklasse** | Presentstamm + **-nt-** + **-ī** :brother::brPresentstamm + **-t-** + **-ī** |
 
 :::
 Examples:
@@ -56,7 +56,7 @@ Examples:
 | | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | |
 
 :::
-Note the identity of **⟪यजन्ति⟫** (Nom. pl. Neutrum) with the 3. pl. P.!
+שְׁאַלוּ יָת ܐܘܬܝܕܘܼܬܵܐ ܕ-**⟪यजन्ति⟫** (נָּמְלַךְ. סוֹף נְקֵיבְתָּא) ܥܲܡ ܦַלָּה.
 
 4\. Present class
 
@@ -78,12 +78,12 @@ Note the identity of **⟪यजन्ति⟫** (Nom. pl. Neutrum) with the 3.
 :::
 ::: grammar-box
 
-| **Formation of the Present Participle Parasmaipada for athematic present stems (except 3rd present class):** |||
+| **ܒܪܝܬ ܦܘܼܩܕܳܢ ܐܪܬܟܘܼܒܳܐ ܦܰܪܣܡܰܝܶܐ ܠܟܘܼܪܳܢ ܦܰܪܣܡܶܐ ܕܠܳܐ ܬܝܘܼܡܶܐ (ܠܳܐ ܦܰܪܣܡܶܐ ܬܝܘܼܡܳܐ ܠܰܒܥܶܐ):** |||
 | :--- | :--- | :--- |
-| **Masculine, Neuter** | | |
-| | **strong stem** | present stem + **-ant-** |
-| | **weak stem** | present stem + **-at-** :br(The ending of the weak present stem is the same as before the 3rd plural person.) |
-| **Feminine** | | |
+| **ܡܕܒܪ ܟܢܫܳܐ** | | |
+| | **ܪܝܫ ܩܘܼܒܠ** | present stem + **-ant-** |
+| | **ܪܝܫ ܩܘܼܒܠ ܕܟܢܳܐ** | present stem + **-at-** :br(ܦܘܼܩܕܳܢ ܪܝܫ ܦܰܪܣܡܶܐ ܕܟܢܳܐ ܗܘ ܠܒܥܶܐ ܕܦܰܪܣܡܳܐ ܬܠܝܼܬܳܐ.) |
+| **ܡܕܒܪ ܢܫܳܐ** | | |
 | | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
 
 :::
@@ -107,15 +107,15 @@ Note the identity of **⟪यजन्ति⟫** (Nom. pl. Neutrum) with the 3.
 
 :::
 ::: indent
-¹ **⟪सती⟫** "a good (faithful) woman (who has herself burned to death after the death of her husband)" English: sutee
+¹ **⟪सती⟫** "אִשָּׁה טוֹבָה (נֶאֱמָנָה) (שֶׁהִצְתַּלְמָה עַל יְדֵי הַצְרָקָה אַחַר מוֹת בַּעְלָה)" עברית: סוטי
 :::
 ::: media
 ![](/images/lekt2101.webp)
-Fig.: ⟪सती⟫ memorial plaque
-⟪सती⟫ memorial plaque in the palace of Jodhpur - ⟪जोधपुर⟩ / Rajasthan - ⟪राजस्थान⟫
-(Image source: [Details](/arc/licenses#lekt2101))
+דוגמא: ⟪सती⟫ לוח זיכרון
+⟪सती⟫ לוח זיכרון בארמון ג'ודפור - ⟪जोधपुर⟩ / רג'סטאן - ⟪राजस्थान⟫
+(מקור התמונה: [פרטים](/arc/licenses#lekt2101))
 :::
-5\. Present class:
+5\. מעמד נוכחי:
 
 ::: indent
 **⟪सु⟫** "to press": **⟪सुन्वन्त्⟫**
@@ -133,7 +133,7 @@ Fig.: ⟪सती⟫ memorial plaque
 *   Neuter Nom. Acc. sg. **⟪कुर्वत्⟫**
 *   Feminine Nom. sg. **⟪कुर्वती⟫**
 :::
-### 21.1.2. ⟪महान्त्⟫ "great"
+### 21.1.2. ⟪ܡܗܐܢܬ⟫ "ܪܒܐ"
 
 ::: no-header
 
@@ -161,26 +161,26 @@ Fig.: ⟪सती⟫ memorial plaque
 
 :::
 ::: grammar-box
-**As the first member of a compound, instead of ⟪महत्⟫ ⟪महा⟫:**
+**כדחילא דקומרא דשם, במקום ⟪महत्⟫ ⟪महा⟫:**
 
 **Beispiele:**
 
 :::
 ::: indent
-**⟪महादेव⟫** "the great God" (e.g. ⟪शिव⟫)  
-**⟪महादेवी⟫** "the great Goddess, the principal wife of a king (⟪देव⟫)"
+**⟪महादेव⟫** "ܡܕܠܩܐ ܪܒܐ" (e.g. ⟪शिव⟫)  
+**⟪महादेवी⟫** "ܡܕܠܩܬܐ ܪܒܬܐ, ܫܘܟܠܗ ܕܡܠܟܐ (⟪देव⟫)"
 :::
 ::: media
 ![](/images/lekt2102.webp)
 Fig.: ⟪महादेवो⟫ ⟪विष्णुः⟫
-"A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".
-(Image source: [Details](/arc/licenses#lekt2102))
+"ܣܓܕܐ ܕܪܒܘܬܐ ܡܢ 4-6 qnܝܐ, ܕܚܫܒ ܠܗ ܘܝܫܢܘ ܘܫܝܒܐ. ܟܬܒܐ ܒܠܫܢܐ ܒܟܬܪܝܐ: "ܡܚܝܪܐ, ܘܝܫܢܘ ܘܫܝܒܐ".
+(מקור התמונה: [פרטים](/arc/licenses#lekt2102))
 :::
 
 ::: indent
 "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: 'Mihira, Vishnu and Shiva'."
 :::
-## 21.2. Sandhi für auslautende Nasale
+## 21.2. ܣܢܕܝ ܠܚܪ̈ܦܬܐ ܢܚܝܪ̈ܝܬܐ ܕܡܫܬܠܡܢ
 
 ::: grammar-box
 **After a short vowel, final nasals – except -m – are doubled before an initial vowel.**
@@ -191,10 +191,10 @@ Fig.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 ::: indent
 **⟪जयन्⟫ + ⟪अरिः⟫** » **⟪जयन्नरिः⟫** "the conquering enemy"
 :::
-## 21.3. Polite forms of address
+## 21.3. ܨܘܪ̈ܬܐ ܡܝܩܪ̈ܬܐ ܕܩܪܝܬܐ
 
 ::: grammar-box
-**In Sanskrit, one can address someone in the second person singular without being impolite. However, if one wishes to be polite, one can use a noun meaning "Venerable" and similar terms, and put the verb in the third person singular or plural, or use a passive construction. The escalation of politeness in the use of the person in the address is approximately as follows:**
+**ܒܣܘܿܟܼܪܬ ܐܝܟܳܐ ܡܿܫܟܺܚ ܠܬܕܲܒܪ ܐܝܟ ܫܘܿܡܳܢ ܬܠܝܼܐ ܒܠܘܿܟ ܡܢ ܠܐ ܒܬܘܿܥ. ܗܟܡ ܐܝܕܳܐ ܠܬܒܥܶܐ ܠܗܘܢ ܠܬܕܲܒܪ ܒܟܘܿܠܬ ܐܝܣܳܡ ܕܩܘܿܪܐ "ܫܟܝܼܠ" ܘܒܬܪ̈ܗ ܡܢ ܠܦܘܿܟܬ ܐܝܕܳܐ ܠܗܘܢ ܠܬܒܥܶܐ ܠܗܘܢ ܠܬܕܲܒܪ ܒܐܘܿܟܬ ܫܠܝܼܣܳܐ ܘܒܬܪ̈ܗ ܡܢ ܠܐ ܒܬܘܿܥ. ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿܥ ܡܢ ܠܐ ܒܬܘܿ�
 
 :::
 ::: indent
@@ -221,32 +221,32 @@ Feminine:
 :::
 Other words that can be used similarly to **⟪भवन्त्⟫**:
 
-*   **⟪आर्य⟫** (f.: **⟪आर्या⟫**) "Noble". E.g. **⟪यदार्य⟫ ⟪इच्छति⟫** "As you wish"
-*   **⟪महाभाग⟫** "the one whose share / fortune is great = Noble". Often used by women in address or when speaking about men of good standing. Very common in modern spoken Sanskrit.
+*   **⟪ܐ̈ܠܦ ܒܝܬ आर्य⟫** (f.: **⟪ܐ̈ܠܦ ܒܝܬ आर्या⟫**) "ܟ̈ܕܒܐ". ܡ. **⟪यदार्य⟫ ⟪इच्छति⟫** "ܟ̈ܕ ܝܗܒ"
+*   **⟪महाभाग⟫** "ܕܝܐ ܡ̈ܠܬ / ܦܘܪܟܐ = ܟ̈ܕܒܐ". ܡܿܠܬ ܢ̈ܫܝܐ ܒܟܘܠ ܡ̈ܠܬܐ ܕܢ̈ܫܝܐ. ܡܿܠܬ ܢ̈ܫܝܐ ܒܟܘܠ ܡ̈ܠܬܐ.
 
-If one wishes to express not only politeness but also reverence for someone, one uses **⟪भवन्त्⟫** **⟪अत्रभवन्त्⟫** for someone who is present or nearby, and **⟪तत्रभवन्त्⟫** for someone absent or distant. **⟪अत्रभवन्त्⟫** and **⟪तत्रभवन्त्⟫** can be translated as "you" (formal), "Your Honor", "Your Reverence", etc.:
+ܟܢ ܝ̈ܠܦ ܐܪܡܝܬܐ ܟ̈ܕ ܠܘܬ ܡ̈ܠܬܐ, ܝ̇ܗܒ **⟪भवन्त्⟫** **⟪अत्रभवन्त्⟫** ܠܡ̈ܢ ܕܝܐ, **⟪तत्रभवन्त्⟫** ܠܡ̈ܢ ܕܐܝܬ. **⟪अत्रभवन्त्⟫** ܘ **⟪तत्रभवन्त्⟫** ܝ̇ܠܦ "ܐܢܬ" (ܟ̈ܕ), "ܡܿܠܬ ܐܢܬ", "ܟ̈ܕܒܝܟ" ܘܡ̈ܠܬ:
 
 ::: indent
-**⟪किमत्रभवत्यत्रभवतां⟫ ⟪भार्या⟫** = "Is the gracious (present here) lady your wife?"
-**⟪किं⟫ ⟪तत्रभवतां⟫ ⟪कुशलवृत्तम्⟫** (in a letter or telephone conversation) = "How are you?"
+**⟪किमत्रभवत्यत्रभवतां⟫ ⟪भार्या⟫** = "ܐ̈ܝܢ ܡ̈ܠܬܐ (ܕܝܐ) ܐܢ̈ת?"
+**⟪किं⟫ ⟪तत्रभवतां⟫ ⟪कुशलवृत्तम्⟫** (ܒܟ̈ܬܐ ܘܡ̈ܠܬ) = "ܟ̇ܕ?"
 :::
-## 21.4. Vocabulary List
+## 21.4. ܡ̈ܠܝܢ List
 
-**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** to assign (Acc.) something, to befall, to love someone, to honor, to revere
+**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** ܠ̈ܘܬ (Acc.) ܡ̈ܠܬ, ܐܝܬ, ܚܒܝܟ, ܡ̈ܠܬ, ܐܪܡ
 
 davon:
 
 ::: indent
-**⟪भक्ति⟫ f.:** Devotion, loyalty, love (in the religious sphere: love and respect for a personal god. See Basham, Wonder pp. 332f.)
-**⟪भाग⟫ m.:** Share, part
-**⟪भग⟫ m.:** (good) share, fortune, well-being, dignity
-**⟪भगवन्त्⟫ 3:** Fortune-having, dignity-having (epithet of ⟪विष्णु⟫ – ⟪कृष्ण⟫)
+**⟪भक्ति⟫ m.:** ܐܘܬܪܐ، ܚܢܢܐ
+**⟪भाग⟫ m.:** ܦܠܓ
+**⟪भग⟫ m.:** (ܐܝܠܝ) ܦܠܓ، ܡܕܢܚܐ، ܫܘܬܦܐ، ܟܕܪܐ
+**⟪भगवन्त्⟫ 3:** ܡܕܢܚܐ، ܟܕܪܐ (ܣܘܡܢܐ ܕ⟪विष्णु⟫ – ⟪कृष्ण⟫)
 :::
 ::: media
 ![](/images/lekt2103.webp)
-Fig.: ⟪भगवान्कृष्णः⟫
-⟪भगवान्कृष्णः⟫ as ⟪जगन्नाथ⟫ (right) with his half-sister ⟪सुभद्रा⟫ (center) and his older brother ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
-(Image source: [Details](/arc/licenses#lekt2103))
+ܡܫܠ: ⟪भगवान्कृष्णः⟫
+⟪भगवान्कृष्णः⟫ ܟܕ ⟨�जगन्नाथ⟫ (ܝܡܢ) ܥܡ ܐܘܬܪܗ ܠܝܬܐ ⟪सुभद्रा⟫ (ܒܣܘܬ) ܘܐܚܗ ܪܒܐ ⟪बलराम⟫، ܐܘܪܝܣܐ = ଓଡ଼ିଶ⟪ा⟫
+(ܡܕܒܪ ܕܬܣܘܝܬ: [ܦܠܘܓ](/arc/licenses#lekt2103))
 :::
 
 ::: indent
@@ -260,27 +260,27 @@ Fig.: ⟪भगवद्गीता⟫
 :::
 
 ::: indent
-**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (actually a desiderative of ⟪भज्⟫: to wish that one participates): to beg
+**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (في الواقع طلبية من ⟪भज्⟫: أن يتمنى المرء مشاركته): أن يتوسل
 :::
-from it:
+منه:
 
 ::: indent
-**⟪भिक्षु⟫ m.:** beggar, monk
+**⟪भिक्षु⟫ م.:** متسول، راهب
 :::
 ::: media
 ![](/images/lekt2104.webp)
-Fig.: ⟪भिक्षवः⟫
-Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
-(Image source: [Details](/arc/licenses#lekt2104))
+مجازياً: ⟪भिक्षवः⟫
+لوانغ برابانغ = ຫລວງພະບາງ، لاوس = ປະເທດລາວ
+(مصدر الصورة: [تفاصيل](/arc/licenses#lekt2104))
 :::
-**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** to spoil (intransitive), to go bad, to be disgraced
+**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** أن يفسد (لازم)، أن يتعفن، أن يُشهر عيبه
 
 ::: indent
-**⟪दोष⟫ m.:** Error
+**⟪दोष⟫ م.:** خطأ
 :::
-**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (no PPP, instead ⟪पक्व⟫ 3: cooked, boiled) Absol. ⟪पक्त्वा⟫ :** to cook (transitive) = to boil, to roast, to toast, etc.
+**⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (لا يوجد PPP، بدلاً من ذلك ⟪पक्व⟫ 3: مطبوخ، مسلوق) مطلق ⟪पक्त्वा⟫ :** أن يطبخ (عابر) = أن يغلي، أن يشوي، أن يحمص، إلخ.
 
-## 21.5. Exercise
+## 21.5. ܬܪܓܠܐ
 
 A) Translate the following compounds:
 

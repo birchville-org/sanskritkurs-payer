@@ -116,7 +116,7 @@ Autres utilisations du datif plus loin.
 | ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ |
 
 :::
-### 24.2.2. Fragepronomen
+### 24.2.2. Pronoms interrogatifs
 
 ::: grammar-box
 
@@ -126,7 +126,7 @@ Autres utilisations du datif plus loin.
 | **Dativ Plural** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
-### 24.2.3. Demonstrativpronomina
+### 24.2.3. Pronoms démonstratifs
 
 ::: grammar-box
 
@@ -179,7 +179,7 @@ Exemple :
 ::: indent
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = « ce feu »
 :::
-## 24.4. Wortliste
+## 24.4. Liste de mots
 
 ⟪अलम्⟫ Adv. : assez, suffisant, (à qqn, qqch) à la hauteur ; avec datif : assez pour, suffisant pour, à la hauteur de ; avec instrumental : assez avec, cesse de , p. ex. ⟪अलं⟫ ⟪क्रोधेन⟫ = « assez de colère = cesse de te fâcher ! »
 
@@ -297,7 +297,7 @@ Manuscrit du ⟪गीतगोविन्द⟫, 1730 après J.-C.
 
 ⟪पुनर्⟫ Adv. : à nouveau, de nouveau, en arrière, mais
 
-## 24.5. Übung
+## 24.5. Exercice
 
 A) Formez le datif singulier et le datif/(ablatif) pluriel, et indiquez la signification de la base nominale :
 

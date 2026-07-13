@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 5
 
-A) Translate the following sentences and compounds, and resolve the dvandvas occurring therein into Sanskrit:
+A) Versa et composita sequentia translate, dvandva ibi occurrentia in Sanscritum resolve:
 
 1\. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ. (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)
 
@@ -46,7 +46,7 @@ sāmaveda ṛgvedo yajurvedaś ca trayī.
 
 ⟪सामवेद⟫ ⟪ऋग्वेदो⟫ ⟪यजुर्वेदश्च⟫ ⟪त्रयी⟫ ⟪।⟫
 
-4\. The three enemies of man, which form the gate to hell (Viṣṇusmṛti 33,1+6): kāmakrodhalobhāḥ
+4\. Tres hominis inimici, qui ad inferos portam constituunt (Viṣṇusmṛti 33,1+6): kāmakrodhalobhāḥ
 
 ⟪कामक्रोधलोभाः⟫
 
@@ -60,9 +60,9 @@ kāmaḥ krodho lobhaś ca.
 
 ⟪मैत्रीकरुणामुदितोपेक्षाश्चत्वारो⟫ ⟪ब्रह्मविहाराः⟫
 
-Explanation: brahmavihāra: "states of abiding in Brahman", also called "the immeasurables": unlimited attitudes. They represent Buddhist meditation forms with which the meditator gradually, step by step "radiates" all reality. These four also play a role in Yoga (Yogasūtra 1,33) when calming the mind.
+Explicatio: brahmavihāra: "status in Brahman manendi", etiam appellati "innumerabiles": attitudes infinitae. Quattuor haec meditationum formas Buddhisticas repraesentant, quibus meditator gradatim, per singulos gradus "omnem realitatem irradiat". Haec quoque quattuor in Yoga officium habent (Yogasūtra 1,33) cum mentem placant.
 
-The boundless attitudes are: goodwill, compassion, sympathetic joy and equanimity.
+Attitudes infinitae sunt: benevolentia, misericordia, gaudium sympathicum et aequanimitas.
 
 maitrī karuṇā muditopekṣā ca catvāro brahmavihārāḥ.
 
@@ -74,7 +74,7 @@ maitrī karuṇā muditopekṣā ca catvāro brahmavihārāḥ.
 
 Explanation: pañca = "five"
 
-The five afflictions are: ignorance, egoism, greed, hatred and attachment to life.
+Quinque afflictiones sunt: ignorantia, egoismus, avaritia, odium et adhaesio ad vitam.
 
 avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 

@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 40
+# ܡܠܦܢܐ 40
 
 ## 40.1. ⟪सुभाषितानि⟫
 
@@ -32,9 +32,9 @@ status: stable
 Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 (Image source: [Details](/arc/licenses#lekt4005))
 :::
-## 40.2. Formation of the first person perfect verb forms (⟪लिट्⟫)
+## 40.2. ܨܘܪܬܐ ܕܦܥ̈ܠܐ ܓܡܝܪ̈ܐ ܕܓܢܝܣܐ ܩܕܡܝܐ (⟪लिट्⟫)
 
-Endings of the first person (⟪तृतीयः⟫) in the perfect (⟪लिट्⟫)
+סיום דראשית נפשי (⟪तृतीयः⟫) במלכות (⟪लिट्⟫)
 
 ::: grammar-box
 
@@ -45,31 +45,31 @@ Endings of the first person (⟪तृतीयः⟫) in the perfect (⟪लि
 
 :::
 ::: grammar-box
-Note that the endings of the 1st person singular P,Ā are identical to those of the 3rd person singular. Therefore, in all perfect types except type III(a,b) and type V(a,b,c), the forms of the 1st singular P and Ā are always identical to those of the 3rd singular P and Ā.
+שܘܡ ܕܐܝܟܢܐ ܦܘܪܫ̈ܬܐ ܕܠܫܢܐ ܪܒܝܥܝ ܕܡܠܬ ܚܕ ܗܘ ܐܝܟ ܦܘܪܫ̈ܬܐ ܕܠܫܢܐ ܪܒܝܥܝ ܕܡܠܬ ܫܘܣ̈ܐ. ܠܗ ܟܢܝܬ ܒܟܠ ܐܘܪ̈ܚܝ ܕܫܡܬ ܐܠܐ ܐܘܪ̈ܚܐ ܬܠܝܬ ܒܢܝ̈ܢܐ ܬܠܬ ܘܒܢܝ̈ܢܐ ܦܫܬܐ، ܡܠܬ ܚܕ ܪܒܝܥܝ ܕܡܠܬ ܚܕ ܗܘ ܐܝܟ ܡܠܬ ܫܘܣ̈ܐ ܕܡܠܬ ܚܕ ܘܫܘܣ̈ܐ.
 
 Bei Typ IV endet die 1. sg. P. wie die 3.sg.P. auf -au.
 
 Bei den Perfekttypen III und V ist die 1. Singular Ā immer identisch mit der 3. Singular Ā.
 
-In the perfect types III and V, the 1st singular P and the 3rd singular P are optionally identical: the 3.sg.P must always be in the guṇa grade for these formation types, while the 1.sg.P can optionally be in the vṛddhi grade or the guṇa grade.
+ܒܢܘܝ̈ܐ ܡܠܬܐ ܚܕܫܝ̈ܐ III ו-V, שְׁמָשָׁא ܚܕܐ ו-ג' מִן שְׁמָשָׁא ܐܘ̈תַּיִן הוּא: שְׁמָשָׁא ג' חַיֵּב תָּמִיד לְהוֹתָא בְּדַרְגָּא גּוּנָה לִבְנוּי̈ אַל, ו-שְׁמָשָׁא ܚܕܐ אִית יְכוּל לְהוֹתָא בְּדַרְגָּא וְרִיטְהֵי אוֹ בְּדַרְגָּא גּוּנָה.
 :::
 ::: grammar-box
-Before endings beginning with a consonant, the connecting vowel -i- occurs with the majority of roots.
+קֳדָם נְתוּבַי̈א דִּיתְחַלָּן בְּעוּת, נְתוּב -i- מִשְׁכַּח לְרַבָּה דֵּי שְׁמָש̈וֹת.
 
 Except before the ending -re, before which -i- must always occur, the connecting vowel never occurs before consonant-initial endings in the case of eight roots ending in -ṛ or -u, namely
 
-1.  ⟪कृ⟫ 8U (except ⟪संस्कृ⟫)
-2.  ⟪भृ⟫ 1U
-3.  ⟪वृ⟫ 9U "to choose"
-4.  ⟪सृ⟫ 1P
-5.  ⟪द्रु⟫ 1p "to run"
-6.  ⟪श्रु⟫ 5P
-7.  ⟪स्तु⟫ 2U
-8.  ⟪स्रु⟫ 1P "to flow"
+1. ⟪कृ⟫ 8U (לִבְדַּק ⟪संस्कृ⟫)
+2. ⟪भृ⟫ 1U
+3. ⟪वृ⟫ 9U "לִבְחַר"
+4. ⟪सृ⟫ 1P
+5. ⟪द्रु⟫ 1p "לִרְצוּת"
+6. ⟪श्रु⟫ 5P
+7. ⟪स्तु⟫ 2U
+8. ⟪स्रु⟫ 1P "לִזְרוּעַ"
 
-In the case of so-called optional ⟪अनिट्⟫-roots, the connecting vowel may optionally be inserted or not. (List of these roots in Kielhorn, Grammar p. 92 § 298b,2,3)
+בְּמָאן דִּכְנוּי̈י ⟪अनिट्⟫-שְׁמָש̈וֹת, נְתוּב אִית יְכוּל לְהוֹתָא אוֹ לֵית. (רַמּוּז שְׁמָש̈וֹת בְּקִילפּוֹרן, דֵּינָא עמ' 92 § 298b,2,3)
 :::
-### 40.2.1. Perfect Type I: no stem gradation
+### 40.2.1. ܓܡܝܪܐ ܛܘܦܣܐ ܐ: ܠܐ ܡܕܪܓ ܫܪܫܐ
 
 1.sg. = 3.sg.
 
@@ -104,7 +104,7 @@ Verben, die diesem Typ folgen:
 *   1.sg.P ⟪आस⟫
 *   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
 :::
-### 40.2.2. Perfect Type II: strong stem full grade, weak stem reduced grade
+### 40.2.2. ܓܡܺܝܪܳܐ ܛܽܘܦܣܳܐ II: ܫܶܪܫܳܐ ܚܰܝܠܳܢܳܐ ܕܰܪܓܳܐ ܡܠܶܐ, ܫܶܪܫܳܐ ܟܪܺܝܗܳܐ ܕܰܪܓܳܐ ܙܥܽܘܪܳܐ
 
 Verben, die diesem Typ folgen:
 
@@ -128,11 +128,11 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
 :::
-### 40.2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 40.2.3. ܡܫܠܡܢܐ ܛܘܦܣܐ ܓ: ܫܪܫܐ ܚܝܠܬܢܐ ܕܕܪܓܐ ܥܠܝܐ/ܕܡܬܚܬܐ
 
 1.sg.P optionally high-grade or lengthened-grade
 
-#### 40.2.3.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 40.2.3.1. ܓܡܝܼܪܵܐ ܕܕܽܘܟܬܵܐ IIIa: ܫܲܪܫܵܐ ܚܲܝܠܵܢܵܐ ܕܕܲܪܓܵܐ ܥܸܠܵܝܵܐ/ܡܲܬܚܵܢܵܐ، ܫܲܪܫܵܐ ܡܚܝܼܠܵܐ ܕܕܲܪܓܵܐ ܬܚܬܵܝܵܐ
 
 Verben, die diesem Typ folgen:
 
@@ -179,7 +179,7 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪चकृमहे⟫
 :::
-#### 40.2.3.2. Perfekttyp IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 40.2.3.2. ܡܰܫܠܡܳܢܳܐ ܕܕܰܪܓܳܐ IIIb: ܥܩܳܪܳܐ ܚܰܝܠܳܢܳܐ ܕܕܰܪܓܳܐ ܥܶܠܳܝܳܐ/ܕܕܰܪܓܳܐ ܡܘܫܚܳܢܳܐ, ܥܩܳܪܳܐ ܟܪܺܝܗܳܐ ܕܕܰܪܓܳܐ ܥܶܠܳܝܳܐ
 
 Verben, die diesem Typ folgen:
 
@@ -211,7 +211,7 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
 :::
-### 40.2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 40.2.4. ܡܫܠܡܢܐ ܕܕܪܓܐ ܪܒܝܥܝܐ: ܫܪ̈ܫܐ ܕܥܠ -ܐ / -ܐܝ
 
 *   Strong stem:
     *   Strong stem:
@@ -230,11 +230,11 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪ददिमहे⟫
 :::
-### 40.2.5. Perfect Type V: Consonant-a-Consonant
+### 40.2.5. ܡܫܠܡܢܐ ܕܕܪܓܐ V: ܚܪܝܬܐ-ܐ-ܚܪܝܬܐ
 
 1.sg.P. optionally high-grade or lengthened-grade
 
-#### 40.2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 40.2.5.1. ܓܡܝܪܐ ܕܡܘܬܐ ܘܐ: ܫܪܘܝܬܐ-ܐ-ܫܪܘܝܬܐ, ܓܕܫܐ ܟܪܝܗܐ ܕܕܪܓܐ ܬܚܬܝܐ
 
 Verben, die diesem Typ folgen:
 
@@ -297,7 +297,7 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.ā ⟪ईजिमहे⟫
 :::
-#### 40.2.5.2. Perfect type Vb: Consonant-a-consonant, initial consonant not guttural, aspirate, h, weak stem without reduplication, with -e-
+#### 40.2.5.2. ܓܡܝܼܪܵܐ ܕܕܽܘܟܬܵܐ Vb: ܩܳܠܵܢܝܼܬܵܐ-ܐܲ-ܩܳܠܵܢܝܼܬܵܐ، ܩܳܠܵܢܝܼܬܵܐ ܩܕܼܡܵܝܬܵܐ ܠܵܐ ܓܰܓܪܵܢܝܼܬܵܐ، ܢܶܦܚܵܢܝܼܬܵܐ، ܗܹܐ، ܫܲܪܫܵܐ ܡܚܝܼܠܵܐ ܕܠܵܐ ܬܲܪ̈ܬܹܝܢ، ܥܼܡ -ܐܹܐ-
 
 ⟪पच्⟫ 1U
 
@@ -310,7 +310,7 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪पेचिमहे⟫
 :::
-#### 40.2.5.3. Perfekt Type Vc: Consonant-a-Consonant, weak stem High grade
+#### 40.2.5.3. ܓܡܝܪܐ ܡܕܡܐ Vc: ܩܘܢܨܘܢܢܛ-ܐ-ܩܘܢܨܘܢܢܛ, ܫܪܫܐ ܟܪܝܗܐ ܕܪܓܬܐ ܥܠܝܬܐ
 
 Verben, die diesem Typ folgen:
 
@@ -327,7 +327,7 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.Ā ⟪चक्रमिमहे⟫
 :::
-### 40.2.6. Special Perfect Forms
+### 40.2.6. ܡ̈ܠܝܢ ܦܐܪ̈ܫܢ ܕܡܫܠܡܢܐ
 
 ⟪विद्⟫ 2P present perfect:
 
@@ -352,20 +352,20 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
 :::
-## 40.3. Formation of the verb forms of the first person of the periphrastic perfect (⟪अनुप्रयोगलिट्⟫)
+## 40.3. ܨܘܪܬܐ ܕܦܥ̈ܠܐ ܕܓܢܣܐ ܩܕܡܝܐ ܕܡܫܠܡܢܐ ܡܚܠܦܢܐ (ܐܢܘܦܪܝܘܓܐܠܝܛ)
 
 The periphrastic perfect is formed by:
 
-*   derived verbal stems (causative, desiderative, frequentative, denominative), especially causative
-*   roots that begin with a long vowel (except ā)
-*   roots: vowel (except a-)-consonant-consonant
-*   some others
-*   for some roots, both perfects can optionally be formed: uṣ "to burn", vid "to know", jāgṛ "to wake", daridrā "to be poor"
-*   for the following roots, both perfects can optionally be formed and the periphrastic perfect is also reduplicated, namely with the reduplication syllable of the present stem:
-    *   bhī "to fear"
-    *   bhṛ "to carry"
-    *   hu "to sacrifice"
-    *   hrī "to be ashamed"
+*   שרשׁי פועל נגזרים (פִּעֵל, דִּמְיוֹן, חִזּוּק, שֵׁם), במיוחד פִּעֵל
+*   שָׁרְשִׁים הַנּוֹתְנִים בְּעָלֶיהָ תְנוּעָה ארוכה (חוץ מ- ā)
+*   שָׁרְשִׁים: תְנוּעָה (חוץ מ- a)-עיצור-עיצור
+*   אֲחֵרִים מְעַט
+*   לְשָׁרְשִׁים מְעַט, שְׁנֵי הָאֲפִיקּוֹת יְכוֹלִים לְהֵעָשׂוֹת בְּאֶפֶס: uṣ "לִשְׂרֵף", vid "לָדַע", jāgṛ "לְהִתְעוֹרֵר", daridrā "לִהְיוֹת עָנִי"
+*   לַשְּׁרָשִׁים הַבָּאִים, שְׁנֵי הָאֲפִיקּוֹת יְכוֹלִים לְהֵעָשׂוֹת בְּאֶפֶס וְהָאֲפִיקּוֹת הַמְּנֻחָה גַם כֵּן מְחֹזֶרֶת, כלומר עם הַסּוֹף הַמְחֻזָר שֶׁל שָׁרְשׁ הַנּוֹתֵן:
+*   bhī "לְהַפְחִיד"
+*   bhṛ "לָשׂוֹא"
+*   hu "לְהַקְרִיב"
+*   hrī "לְהַכְנִיס"
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -381,12 +381,12 @@ The periphrastic perfect is formed by:
 
 *   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
 :::
-## 40.4. Syntaktisches zur ersten Person (⟪तृतीयः⟫)
+## 40.4. ܬܚܒܝܫܬܐ ܕܡܠ̈ܐ ܕܥܠ ܓܢܣܐ ܩܕܡܝܐ (ܬܪܬܝܝܐ)
 
 ::: grammar-box
 Since a finite verb (conjugated verb) expresses the agent (⟪कर्तृ⟫), the "I", "we" in non-passive verbal sentences with finite verb does not need to be expressed additionally by a personal pronoun
 :::
-## 40.5. Personal pronouns (⟪पुरुषार्थकसर्वनाम⟫) of the 1st person singular and plural
+## 40.5. ܟܢܘܫܝ̈ܐ ܦܪ̈ܨܘܦܝܐ (⟪ܦܘܪܘܫܐܪܬܟܐܣܪܘܢܐܡ⟫) ܕܓܢܒܪܐ ܩܕܡܝܐ ܚܕܝܐ ܘܣܓܝܐܐ
 
 ::: grammar-box
 The form of the personal pronoun (personal pronoun) is the same for all genders.
@@ -426,7 +426,7 @@ As the first member of compounds, these pronouns have the stems:
 
 e.g. ⟪मत्पुस्तकम्⟫ "my book" ; ⟪अस्मद्पुस्तकानि⟫ "our books"
 :::
-## 40.6. Vocabulary List
+## 40.6. ܡ̈ܠܝܢ List
 
 ⟪पात्र⟫ n.: Venerable, Master, Worthy
 
@@ -528,7 +528,7 @@ davon:
 Fig.: ⟪स्वपन्ति⟫
 (Image source: [Details](/arc/licenses#lekt4004))
 :::
-## 40.7. Exercise
+## 40.7. ܬܪܓܠܐ
 
 A) Translate the ⟪सुभाषितानि⟫ at the beginning of the lesson.
 
@@ -606,7 +606,7 @@ B) Convert the following verbal forms into the corresponding perfect forms. If t
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Wiederholungsübung zur Formenlehre
+## 40.8. ܬܪܓܠܐ ܕܚܙܪܐ ܠܡܠܦܢܘܬܐ ܕܨܘܪ̈ܬܐ
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫

@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 58
 
-## 58.1. Las desinenzas primarias dal dual (⟪द्विवचनम्⟫)
+## 58.1. Las desinenzas primarias dal dual (⟪dvivacanam⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ ||
@@ -19,11 +19,11 @@ status: stable
 | **2. ⟪मध्यमः⟫** | -thas | -**ī**the | -**ā**the |
 | **3. ⟪प्रथमः⟫** | -tas | -**ī**te | -**ā**te |
 :::
-## 58.2. Der Dual thematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
+## 58.2. Il dual da classas da prescha tematicas: indicativ prescha (⟪लट्⟫)
 
 Avant -vas e -vahe vegn il vocal da tema -a- sustitui da -ā-.
 
-### 58.2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
+### 58.2.1. Emprima classa da prescha (⟪भ्वादिगणः⟫)
 
 ⟪भू⟫ 1P "esser, esser"
 
@@ -33,7 +33,7 @@ Avant -vas e -vahe vegn il vocal da tema -a- sustitui da -ā-.
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
 | **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
-### 58.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
+### 58.2.2. Quarta classa da prescha (⟪दिवादिगणः⟫)
 
 ⟪नृत्⟫ 4P "danzar"
 
@@ -60,7 +60,7 @@ Imag.: ⟪नृत्यतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदतस्⟫ | ⟪तुदेते⟫ |
 :::
-### 58.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
+### 58.2.4. Dieschavla classa da prescha (⟪चुरादिगणः⟫) e causativs (⟪णिजन्त⟫)
 
 ⟪चुर्⟫ 10U "rubar"
 
@@ -77,7 +77,7 @@ Imag.: ⟪वानरौ⟫ ⟪रथाद्भाण्डानि⟫ ⟪�
 Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 (Sursa d’imagia: [Detagls](/rm/licenses#lekt5803))
 :::
-## 58.3. Il dual dal futur simpel (⟪ऌत्⟫)
+## 58.3. Il dual dal futur simpel (⟪ḷt⟫)
 
 ### 58.3.1. ⟪अनिट्⟫
 
@@ -111,9 +111,9 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
 :::
-## 58.5. Il dual da las classas da prezens senza a-: Indicativ prezens (⟪लट्⟫)
+## 58.5. Il dual da las classas da prescha senza a-: Indicativ prescha (⟪लट्⟫)
 
-### 58.5.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
+### 58.5.1. Segunda classa dal temp preschent (⟪adādigaṇaḥ⟫)
 
 ⟪द्विष्⟫ 2U "odiar"
 
@@ -204,7 +204,7 @@ Imag.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪धत्थस्⟫ | ⟪दधाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्तस्⟫ | ⟪दधाते⟫ |
 :::
-### 58.5.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
+### 58.5.3. Tschintgavla classa dal temp preschent (⟪svādigaṇaḥ⟫)
 
 ⟪सु⟫ 5U "premer"
 
@@ -240,7 +240,7 @@ Imag.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुथस्⟫ | ⟪कुर्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुरुतस्⟫ | ⟪कुर्वाते⟫ |
 :::
-### 58.5.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
+### 58.5.5. Setavla classa da prescha (⟪रुधादिगणः⟫)
 
 ⟪रुध्⟫ 7U "stoppar"
 
@@ -260,7 +260,7 @@ Imag.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्थस्⟫ | ⟪युञ्जाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युङ्क्तस्⟫ | ⟪युञ्जाते⟫ |
 :::
-### 58.5.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
+### 58.5.6. Novavla classa da prescha (⟪क्र्यादिगणः⟫)
 
 ⟪क्री⟫ 9U "cumprar"
 

@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 9
+# ܬܕܪܫܬܐ 9
 
-A) Try to determine the possible meanings of the following words:
+[A] ܠܘܫܬ ܐܪܡܝ ܕܩܘܠܐ ܕܚܫܒܢ:
 
 1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. one who is only similar to a Brahmin = a bad Brahmin
 
@@ -95,7 +95,7 @@ dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्वि�
 Explanation:
 dvijātīnām = Genitive (oblique case) plural of dvijāti (translate here: "towards the twice-born")
 
-kārukuśīlavakarma is a Tatpuruṣa compound with a Dvandva (kārukuśīlava) in the prior member. karma = Nom. sg. of karman n. "deed, activity, karma" from the root kṛ 8 U). Translate "deed / activity of the ... (Genitive)" (designated by the Dvandva).
+kārukuśīlavakarma הוא קומפוזיציה של טיטפורוסה עם דוונדוו (kārukuśīlava) בחבר הקודם. karma = יחיד שם עצם של karman n "מעשה, פעילות, קארמה" מהשורש kṛ 8 U). תרגם "מעשה / פעילות של ... (תולדה)" (מיועד על ידי הדוונדוו).
 
 Obedience towards the twice-born, activities for livelihood, activity as a craftsman or wandering showman.
 

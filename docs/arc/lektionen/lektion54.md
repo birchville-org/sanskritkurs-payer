@@ -7,20 +7,20 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 54
+# ܐܘܪܬܐ 54
 
-## 54.1. Vorbemerkung
+## 54.1. ܡܰܠܘܳܝܳܐ ܩܕܳܡܳܝܳܐ
 
-With Lesson 54, the second semester begins in university instruction. From now on, the course runs only alongside the main topic of this semester: the reading of the entire Bhagavadgītā. The learning objective is such fluency in reading a medium-difficulty text that large parts of the Bhagavadgītā can be translated extemporaneously in the last third of the semester. At the beginning, word lists were still distributed in university instruction; later, students had to use corresponding dictionaries (Monier-Williams, Apte, PW) themselves.
+ܒܠܦܢܘܬܐ 54, ܫܪܝܪܐ ܕܬܩܦܬܐ ܬܝܡܢܬܐ ܕܒܫܪܫܝܘܬܐ. ܡܢ ܗܠܟ, ܩܘܪܣܐ ܢܫܬܡܠܟ ܒܪܘܚ ܪܝܫܐ ܕܬܩܦܬܐ ܗܢܐ: ܟܝܕܘܬ ܓܒܪܐ ܒܗܝܕܘܬ ܒܓܪܡܐ ܒܗܝܕܘܬ. ܠܫܢܐ ܕܡܪܝܙܘܬܐ ܗܢܐ ܟܝܕܘܬ ܒܟܝܕܘܬ ܡܠܦܢܘܬܐ ܕܟܝܕܘܬ ܡܠܦܢܘܬܐ, ܟܝܕܘܬ ܒܗܝܕܘܬ ܓܒܪܐ ܒܗܝܕܘܬ ܒܓܪܡܐ ܒܗܝܕܘܬ. ܒܪܫܡܐ, ܠܫܢܐ ܕܡܪܝܙܘܬܐ ܗܢܐ ܟܝܕܘܬ ܒܟܝܕܘܬ ܡܠܦܢܘܬܐ; ܒܫܪܫܝܘܬܐ, ܠܫܢܐ ܕܡܪܝܙܘܬܐ ܗܢܐ ܟܝܕܘܬ ܒܟܝܕܘܬ ܡܠܦܢܘܬܐ.
 
 The course on the Bhagavadgītā will not yet be made available online.
 
-The lessons of the Sanskrit course cover topics of Sanskrit grammar that have not yet been covered.
+ܠܦܢ̈ܘܬܐ ܕܟܘܪܣ ܣܡ̈ܣܩܪܝܬܐ ܥܒܕ̈ܝܢ ܠܓܘܫܦܐ ܕܩܘܪܒ̈ܢ̈ܝܬ ܣܡ̈ܣܩܪܝܬܐ ܕܠܐ ܗܘ̈ܢ ܥܕܡܐ
 
-## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
+## 54.2. ܒܢܝܢܐ ܕܡܠܬܐ: ⟪ܟܪܝܬ⟫-ܡܠܘܝܬܐ -ܘ ܠܫܪ̈ܫܐ ܕܪܓܬܐ
 
 ::: grammar-box
-**To Desiderative stems (⟪इच्छाप्रकृति⟫) ("to wish to do something"; "about to do something") the suffix -u is added for the formation of agent nouns.**
+**לְשָׁרְשֵׁי הַדֶּסִידֶרָטִיב (⟪इच्छाप्रकृति⟫) ("לַחֲפֹץ לַעֲשׂוֹת מְאוּמָה"; "קָרוֹב לַעֲשׂוֹת מְאוּמָה") נִסְפֶּק הַסוּפִיק -u לִיצוּר שְׁמוֹת פּוֹעֵל.**
 
 (Formation of Desiderative stems follows later)
 
@@ -28,22 +28,22 @@ Example:
 
 :::
 ::: indent
-⟪युयुत्सु⟫ (yu-yudh + s + u) "eager for battle, about to fight"
+⟪युयुत्सु⟫ (yu-yudh + s + u) "ܡܕܥ ܠܦܘܪܟܐ، ܡܫܬܥܒ ܠܦܘܪܟܐ"
 :::
 ::: media
 ![](/images/lekt5402.webp)
-Fig.: ⟪अयुयुत्सुरर्जुनः⟫
-⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
-(Image source: [Details](/arc/licenses#lekt5402))
+ܦܘܩܕܢܐ: ⟪अयुयुत्सुरर्जुनः⟫
+⟪भगवद्गीतोपदेशः⟫ ܬܝܪܘܦܛܐ = తిరుపతి
+(ܡܕܒܪ ܕܬܣܘܝܐ: [ܦܠܘܗ](/arc/licenses#lekt5402))
 :::
-## 54.3. Metrics II: the epic ⟪त्रिष्टुभ्⟫ and the ⟪जगती⟫
+## 54.3. ܡܛܠܬܐ ܕܫܥܘܪܐ II: ܦܠܓܬܐ ⟪त्रिष्टुभ्⟫ ܘܦܠܓܬܐ ⟪जगती⟫
 
 ::: grammar-box
-The ⟪त्रिष्टुभ्⟫ ("Three Sighs") appears in the epics amidst the usual ⟪श्लोक⟫-parts precisely at points where mood or action experience a particular surge or conclusion.
+ܦܠܓܬܐ ⟪त्रिष्टुभ्⟫ ("ܦܘܣܩ̈ܐ ܬܠܬ") ܡܫܬܥܒ ܒܦܠܓ̈ܬܐ ܡܕܝܩܬܐ ܒܦܠܓ̈ܬܐ ⟪श्लोक⟫-ܦܠܓ̈ܬܐ ܒܚܘܪܢܐ ܕܡܕܝܩܬܐ ܘܦܠܓ̈ܬܐ ܡܫܬܥܒܬ
 
 The ⟪त्रिष्टुभ्⟫-stanza consists of four eleven-syllable ⟪पाद⟫, which do not differ from each other in structure.
 
-The ⟪त्रिष्टुभ्⟫ has two basic schemas, depending on whether the caesura (word end, compositional junction or before certain suffixes like -tara, -tama etc.) stands after the 4th or 5th syllable of the ⟪पाद⟫.
+ܐܪܒܥ ܣܘܼܡ̈ܘܿܟ̇ܐ ܒܝܼܬ ܡܢ̈ܫ̇ܐ ܕ⟪त्रिष्टुभ्⟫, ܒܝܼܬ ܕܡܘܿܟ̇ܐ (ܫܠܬ ܕܡ̈ܢ̇ܫ̇ܐ, ܘܟܠ ܕܡ̈ܢ̇ܫ̇ܐ ܘܟܠ ܕܡ̈ܢ̇ܫ̇ܐ -tara, -tama ܘܟܠ) ܕܡ̈ܢ̇ܫ̇ܐ ܒܝܼܬ 4 ܘ5 ܕ⟪पाद⟫.
 
 Schema I:
 
@@ -56,19 +56,19 @@ Schema II:
 ::: metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
-The quantity of the four final syllables is therefore identical in both schemas.
+כמותן דארבעה סופייא מילין שווייא בܟܠ ܡܢ ܫܬܐ.
 
-⟪जगती⟫-base form: as with ⟪त्रिष्टुभ्⟫, but 12-syllabic. The final five syllables of each Pada exhibit the following quantities:
+⟪जगती⟫-שורש: כדכח ⟪त्रिष्टुभ्⟫, אלא דאריך תלת עשר סופייא. חמשה סופייא אחרוניין דכל פּדה מציין כן:
 
 ::: metrik-schema
 **— ◡ — ◡ —**
 :::
-Additionally, there exists the so-called typically superfluous ⟪त्रिष्टुभ्⟫ with a five-syllabic initial segment, which proceeds like an ⟪त्रिष्टुभ्⟫ with a four-syllabic initial segment:
+עוד, ישנו כן נקרא ⟪त्रिष्टुभ्⟫ דאריך חמשה סופייא קדמיין, דעביד כ⟪त्रिष्टुभ्⟫ דאריך ארבעה סופייא קדמיין:
 
 ::: metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
-In later times, the forms of ⟪त्रिष्टुभ्⟫ are established according to a strict scheme of long and short syllables; the caesura no longer plays a role. The most important later forms are:
+בסופא, שריין ד⟪त्रिष्टुभ्⟫ קיימין על מנהגא דקשיחא דסופייא אריכין וקצירין; לא חשיב קיסורה. שריין אחרוניין מפורסמין:
 
 a) ⟪इन्द्रवज्रा⟫
 
@@ -92,12 +92,12 @@ c) ⟪उपजाति⟫
 
 :::
 ::: indent
-"It is an Indravajrā when the syllables in all Pādas are ta ta ja ga ga.
+"ܗܘ ܐܪܟܐ ܕܝܢ ܠܛܘܪܥܐ ܕܟܬܒ̈ܝܢ ܒܟܠ ܦܐܕ̈ܐ ܗܘ ܛ ܛ ܓ ܓ ܓ."
 :::
 ⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
 
 ::: indent
-"An Upendravajrā is like an Indravajrā that has a light syllable at the beginning"
+"ܠܛܘܪܥܐ ܕܝܢ ܡܠܦܬܐ ܗܘ ܟܝܠ ܕܠܛܘܪܥܐ ܕܝܢ ܟܬܒ̈ܝܢ ܠܦܬܚܐ ܕܟܬܒ̈ܝܢ ܠܦܬܚܐ."
 :::
 ⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
 ⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
@@ -105,23 +105,23 @@ c) ⟪उपजाति⟫
 ⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
 
 ::: indent
-"If two Pādas, which have the characteristics of Indravajrā or Upendravajrā, are involved in a verse, then they are Upajātis. Even if other metres are mixed in a verse, it is called Upajāti."
+"ܐܝ ܬܪܝܢ ܦܐ̈ܕ̈ܐ ܠܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܕܠܛܘܪܥܐ ܕܝܢ ܡܠܦܬܐ ܗܘ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒܟܬܒ̈ܝܢ ܕܡܨܠܛܐ ܒ
 :::
-## 54.4. Exercise on Metrics
+## 54.4. ܬܪܓܠܐ on Metrics
 
 Determine in Bhagavadgītā II Triṣṭubhs and Jagatīs.
 
 Example of a recitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Accessed on 2009-01-28
 
-## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫)
+## 54.5. ܕܪ̈ܓܐ ܕܒܢܝܢܐ ܕܐܘܪܝܣܛ (⟪ܠܘܢܓ⟫)
 
 ::: grammar-box
-**What all formation types of the Aorist (⟪लुङ्⟫) share is the augment a-, which, according to the same rules as in the Imperfect (⟪लङ्⟫), is prefixed.**
+**כל סוגי הצורות של העבר (⟪लुङ्⟫) משתפים את האוגמנט א-, אשר, לפי אותם כללים כמו בעבר (⟪लङ्⟫), מוקדם.**
 
-In Sanskrit, only the Indicative and Optative of the Aorist are in common use.
+בסנסקריט, רק האינדיקטיב והאופטיבי של העבר נפוצים בשימוש.
 :::
 ::: grammar-box
-**The following formation types of the Aorist (⟪लुङ्⟫) exist:**
+**סוגי הצורות הבאים של העבר (⟪लुङ्⟫) קיימים:**
 
 1. Non-sibilant (asigmatic) Aorists:
 *   54.1. Root aorist: Augment + root + secondary endings
@@ -133,16 +133,16 @@ In Sanskrit, only the Indicative and Optative of the Aorist are in common use.
 *   54.6. -siṣ aorist: Augment + root + **siṣ** + secondary endings
 *   54.7. -sa aorist: Augment + root + **s** + **a** + secondary endings
 
-For the distribution of roots among the individual formation types, see under the respective types.
+Zur Verteilung der Wurzeln auf die einzelnen Bildungsarten siehe bei den jeweiligen Arten.
 :::
-## 54.6. Root aorist
+## 54.6. ܐܰܘܪܺܝܣܛܳܐ ܕܥܶܩܳܪܳܐ
 
 ::: grammar-box
 **Formation:**
 
-**Augment + Root + Secondary Ending**
+**Augment + Root + Sekundäres Endung**
 :::
-The ending of the 3rd plural is -ur. Middle voice is not in common use.
+Die Endung der 3. Plural ist -ur. Mittelstimme ist nicht im allgemeinen Gebrauch.
 
 Example:
 
@@ -157,20 +157,20 @@ Example:
 :::
 The root aorist is formed from only 12 roots:
 
-1. ⟪गा⟫ 3 "to go"
-2. ⟪घ्रा⟫ 1P "to smell"
-3. ⟪छो⟫ 6 "to cut" (⟪अच्छात्⟫)
-4. ⟪दा⟫ 3U "to give"
-5. ⟪दो⟫  1, 4 "to cut"
-6. ⟪धा⟫ 3U "to place"
-7. ⟪धे⟫ 1 "to suck" (⟪अधात्⟫)
-8. ⟪पा⟫ 1P "to drink"
-9. ⟪शो⟫ 4P "to sharpen"
-10. ⟪सो⟫ "to finish"
-11. ⟪स्था⟫ 1P "to stand"
-12. ⟪भू⟫ 1P "to be"
+1. ⟪गा⟫ 3 "ܠܟܘ"
+2. ⟪घ्रा⟫ 1P "ܠܒܘ"
+3. ⟪छो⟫ 6 "ܠܩܘ" (⟪अच्छात्⟫)
+4. ⟪दा⟫ 3U "ܠܒܩ"
+5. ⟪दो⟫  1, 4 "ܠܩܘ"
+6. ⟪धा⟫ 3U "ܠܒܩ"
+7. ⟪धे⟫ 1 "ܠܒܘ" (⟪अधात्⟫)
+8. ⟪पा⟫ 1P "ܠܒܩ"
+9. ⟪शो⟫ 4P "ܠܩܘ"
+10. ⟪सो⟫ "ܠܒܘ"
+11. ⟪स्था⟫ 1P "ܠܒܩ"
+12. ⟪भू⟫ 1P "ܠܒܘ"
 
-For ⟪भू⟫ 1P, the root aorist is formed as follows:
+ܠܦ ⟪भू⟫ 1P, ܐܬܪ ܡܠܦܢܘܬܐ ܗܕܐ:
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -179,9 +179,9 @@ For ⟪भू⟫ 1P, the root aorist is formed as follows:
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | *⟪अभूवन्⟫* (!!!) |
 :::
-### 54.6.1. Der Aorist der 3.sg.Passiv
+### 54.6.1. Der Aorist der 3.sg.ܡܬܡܨܝܢܘܬܐ
 
-A special form of the root aorist is the 3rd person singular passive aorist. This can be formed from all roots.
+ܐܘܪ̈ܚܐ ܕܡܢܝܢܐ ܕܪ̈ܫܝ ܗܘܐ ܠܦܡܕܪ ܬܝܢܬܐ ܠܟܣܕܐ ܒܛܘܪܐ.
 
 ::: grammar-box
 **Formation:**
@@ -217,9 +217,9 @@ Example:
 
 Insertion of y before ending:
 
-*   Roots ending in -ā, -e, -ai, -o insert y between the root's -ā and the ending:
-Example:  
-⟪दा⟫ 3Sg: ⟪अदायि⟫ "it was given"
+*   جذور تنتهي بـ -ā، -e، -ai، -o تضيف y بين جذر الـ -ā والنهاية:
+مثال:  
+⟪दा⟫ 3Sg: ⟪अदायि⟫ "تم إعطاؤه"
 
 Nasal infix:
 
@@ -227,11 +227,11 @@ Nasal infix:
 Example:  
 ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ beside ⟪अलाभि⟫ : "it was received"
 
-(The remaining forms of the passive are rendered in the aorist through Ātmanepada-forms).
-:::
-## 54.7. Exercise
+[0] (הדיונים הנותרים של הפעיל מתורגמים באמצעות צורות עבר באתמנפדה).
+[1] :::
+[2] ## 54.7. ܬܪܓܠܐ
 
-Translate the following forms in writing and form the corresponding aorist forms:
+[3]
 
 1.  ⟪यन्ति⟫
 2.  ⟪पिबामि⟫
@@ -257,6 +257,7 @@ Translate the following forms in writing and form the corresponding aorist forms
 22.  ⟪गीयते⟫
 23.  ⟪गम्यते⟫
 
+:::
 ::: media
 ![](/images/lekt5401.webp)
 Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫

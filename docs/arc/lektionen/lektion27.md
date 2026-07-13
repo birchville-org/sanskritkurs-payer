@@ -7,22 +7,22 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lesson 27
+# ܐܘܠܦܢܐ 27
 
-## 27.1. Use of the Locative (⟪सप्तमी⟫ f. = "seventh case ending")
+## 27.1. ܡܸܬܚܲܫܚܵܢܘܼܬ݂ܵܐ ܕܠܘܿܩܵܠܵܐ (⟪ܣܲܦܬܲܡܝ⟫ ܐܲܢܬܬ݂ܵܝܬܵܐ = "ܫܲܒ݂ܥܵܐܝܬ݂ ܚܲܪܬܵܐ ܕܩܢܝܼܢܵܐ")
 
 ::: grammar-box
 
-**The Locative (⟪सप्तमी⟫) stands in response to the questions:**
-*   **where?**
-*   **when?**
-*   **under what circumstances?**
-*   **with respect to what?**
+**הַלּוֹקָטִי (⟪सप्तमी⟫) עוֹמֵד בְּתַשׁוּבָה לַשְּׁאֵלוֹת:**
+*   **אַיֵּה?**
+*   **מָתַי?**
+*   **בְּאֵיזוֹ סִטְרָה?**
+*   **לְעֵבֶר מַה?**
 
 :::
 ::: grammar-box
 
-**1. The Locative (⟪सप्तमी⟫) denotes, in response to the question "Where?", the space in (at, on, by) which the agent (⟪कर्ता⟫) or the object of an action is located, or where the action itself takes place.**
+**1. ܠܘܓ̈ܐ (⟪सप्तमी⟫) ܡܕܥ ܠܦܘܿܟܬ݂ «אַיֵּה»؟ ܐܝܩ ܠܘܬ݂ ܡܕܢܚܐ (ܒ݁, ܥܠ, ܠܩܪܒ) ܕ݁ܐܝܬ݂ ܦܥܠܐ (⟪कर्ता⟫) ܘܝܬ݂ܪ ܕ݁ܦܥܠܐ, ܘܝܬ݂ר ܕ݁ܦܥܠܐ ܢܦܫܗ.**
 
 > ⟪नगरे⟫ ⟪वसति⟫ = "He dwells in the city"
 
@@ -36,13 +36,13 @@ Jaipur, 1875.
 
 ::: grammar-box
 
-**2. The locative denotes, in response to the question "When?", the time or the external circumstances:**
+**2. Die Lokativ gibt, als Antwort auf die Frage „Wann?“, die Zeit oder äußere Umstände an:**
 
 > ⟪तस्मिन्काले⟫ = "at that time, at this time"
 
 **Hierher gehört auch der sog. Locativus Absolutus:**
 
-**Determines the action or state of a person or thing the time at which — or the circumstances under which — ANOTHER person or thing performs an action or is in a certain state, then the word designating the first person or thing together with the word specifying it (which is often a participle) goes into the locative (⟪सप्तमी⟫):**
+**קבע את הפעולה או המצב של אדם או דבר בזמן שבו — או בתנאים שבהם — אדם או דבר אחר מבצע פעולה או נמצא במצב מסוים, אז המילה המתארת את האדם או הדבר הראשון יחד עם המילה הקובעת אותו (שלעיתים קרובה היא שם תואר בפועל) נכנסת למקום (⟪सप्तमी⟫):**
 
 > ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "während die Zeit vergeht so..."
 >
@@ -54,7 +54,7 @@ Jaipur, 1875.
 
 **The Locativus absolutus must be translated according to context as "while" (e.g., present participle), "after," "when" (e.g., past participle), "since," "because," "although," "if," etc.**
 
-**Note: In the case of the absolute accusative, the agent of the absolute accusative and the agent of the main clause must be identical; in the case of the absolute locative, the agent of the absolute locative and the agent of the main verb must be different.**
+**ܡܕܠܐ: ܒܟܢܫ ܣܘܪܬܐ ܡܛܠܬܐ، ܨܒܝܢ ܟܢܫ ܣܘܪܬܐ ܡܛܠܬܐ ܘܨܒܝܢ ܟܢܫ ܪܒܬܐ ܗܝ ܡܛܠ؛ ܒܟܢܫ ܣܘܪܬܐ ܡܛܠܬܐ، ܨܒܝܢ ܟܢܫ ܣܘܪܬܐ ܡܛܠܬܐ ܘܨܒܝܢ ܟܢܫ ܪܒܬܐ ܗܝ ܡܛܠ.**
 
 :::
 ::: media
@@ -66,9 +66,9 @@ Rajasthan.
 
 ::: grammar-box
 
-**3. The locative also stands in response to the question "With respect to what?" etc.:**
+**3. Die Lokativ steht auch als Antwort auf die Frage „Worüber?“ usw.:**
 
-> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "He has love for his son" (lit. "Regarding the son, there is love in him")
+> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = „Er hat Liebe zu seinem Sohn“ (wörtl. „Bezüglich des Sohnes gibt es Liebe in ihm“)
 
 :::
 ::: media
@@ -80,25 +80,25 @@ Holi.
 
 ::: grammar-box
 
-**4. The locative is used in native lexica and by commentators to indicate the meaning of a word:**
+**4. איתַת הָאִינְגְטִיב בְּלֶקסִיקוֹנָא דַעֲדִיפ וּבְפֵירוּקָא דַמְפָרְשִׁין לְאַתְבַּע יוֹצֵא מִנֵיהּ:**
 
-> ⟪भू⟫ ⟪सत्तायाम्⟫ = "the root ⟪भू⟫ in the sense of 'beingness' (sat-tā)"
+> ⟪भू⟫ ⟪सत्तायाम्⟫ = "שָׁרְשָׁא דַעֲדִיפ ⟪भू⟫ בְּמַשְׁמָעוּת 'הֱוָיָא' (סַט-תָּ)"
 
 :::
-Further information on the use of the locative later.
+עוֹד מִלְּתָא עַל איתַת הָאִינְגְטִיב בְּעוֹקָב.
 
-## 27.2. Formation of the Locative (⟪सप्तमी⟫)
+## 27.2. ܨܽܘܪܬܳܐ ܕܡܰܘܕܥܳܢܳܐ ܕܐܰܬܪܳܐ (⟪ܣܰܦܬܰܡܺܝ⟫)
 
 ::: grammar-box
 
-**The regular endings of the Locative (⟪सप्तमी⟫) are:**
+**Die regulären Endungen des Lokativs (⟪सप्तमी⟫) sind:**
 *   **Singular: -i**
 *   **Plural: -su**
 
 **Observe the sound changes before -su as well as the possible cerebralization of -su to -ṣu!**
 
 :::
-### 27.2.1. Consonantal Stems
+### 27.2.1. ܫܪ̈ܫܐ ܩܘܢܣܘܢܢܛܝ̈ܐ
 
 ::: grammar-box
 
@@ -110,7 +110,7 @@ Further information on the use of the locative later.
 | ⟪गुणवन्त्⟫ | ⟪गुणवति⟫ | ⟪गुणवत्सु⟫ |
 
 :::
-### 27.2.2. Interrogative, Demonstrative, and Relative Pronouns
+### 27.2.2. ܟܢܘܫܝ̈ܐ ܫܐܠܢ̈ܐ, ܚܘܝܬܢ̈ܐ, ܘܚܒܘܫܢ̈ܐ
 
 ::: grammar-box
 
@@ -122,7 +122,7 @@ Further information on the use of the locative later.
 | Feminine:brLocative Plural | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
 :::
-### 27.2.3. Vowel Stems
+### 27.2.3. ܫܪ̈ܫܐ ܙܘܥܝ̈ܐ
 
 ::: grammar-box
 
@@ -155,7 +155,7 @@ Further information on the use of the locative later.
 :::
 **Signalrot gedruckt**: starke Kasus (bei Stammabstufung).
 
-## 27.4. A verse with all declension forms (singular) to ⟪राम⟫
+## 27.4. ܦܣܘܼܩܬܵܐ ܕܟܠܗܹܝܢ ܨܘܼܪ̈ܬܵܐ ܕܟܲܪܝܘܼܬ݂ܵܐ (ܚܕܵܢܵܝܬܵܐ) ܠ ⟪ܪܵܡ⟫
 
 ::: media
 ![](/images/lekt2708.webp)
@@ -165,19 +165,19 @@ Rāma-Satz.
 :::
 *⟪रामो⟫* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *⟪रामं⟫* ⟪रमेशं⟫ ⟪भजे⟫:br *⟪रामेणा⟫*⟪भिहता⟫ ⟪निशाचरचमू⟫ *⟪रामाय⟫* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *⟪रामान्ना⟫*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *⟪रामस्य⟫* ⟪दासोऽस्म्यहम्⟫:br *⟪रामे⟫* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *⟪राम⟫* ⟪मामुद्धर⟫ ⟪॥⟫
 
-**Translation:**
-1. **Nominative:** Rāma, the jewel (⟪मणि⟫ m.) among kings (⟪राजन्⟫ m.) always conquers (⟪सदा⟫).
-2. **Accusative:** I love (⟪भज्⟫ 1U) Rāma, the lord and husband (⟪ईश⟫ m.) of Ramā (= Lakṣmī).
-3. **Instrumental:** Rāma has killed the army (⟪चमू⟫ f.) of night-roamers (= demons) (⟪निशा⟫ f. = night).
-4. **Dative:** To this Rāma be homage!
-5. **Ablative:** There is no better (⟪परतर⟫ 3) refuge (⟪परायण⟫ n.) than Rāma.
-6. **Genitive:** I (⟪अहम्⟫) am (⟪अस्मि⟫) a servant of Rāma.
-7. **Locative:** In Rāma may (⟪भवतु⟫) always be the peace (⟪लय⟫ m.) of my (⟪मे⟫) heart.
-8. **Vocative:** Rāma, save (⟪उद्धर⟫ = Imperative to ⟪उद्⟫ + ⟪हृ⟫ or ⟪उद्⟫ + ⟪धृ⟫) me (⟪माम्⟫)!
+**ܬܪ̈ܓܡܐ:**
+1. **ܢܘܟܪܝܐ:** ܪܕ̈ܡܐ (⟪मणि⟫ ܡ) ܒܝܬ ܠܦ̈ܣ̈ܐ (⟪राजन्⟫ ܡ) ܟܠ ܦ̈ܘܩܕ (⟪सदा⟫).
+2. **ܐܟܘܣܛܬܝܒ:** ܐܢܐ (⟪भज्⟫ 1U) ܚܒܝܠ (⟪ईश⟫ ܡ) ܕܝܠܬ ܪܕ̈ܡܐ (ܠܟ̈ܫܝ).
+3. **ܐܘܣܛܪܡܢܬܝܒ:** ܪܕ̈ܡܐ ܩܛܠ (⟪चमू⟫ ܦ) ܕܠܝ̈ܠܐ (⟪निशा⟫ ܦ = ܠܝ̈ܠ).
+4. **ܕܬܝܒ:** ܠܗ ܪܕ̈ܡܐ ܫܘܬܩܐ!
+5. **ܐܒܠܬܝܒ:** ܠܐ ܗܘܐ ܛܒ (⟪परतर⟫ 3) ܡܠܛ (⟪परायण⟫ ܢ) ܡܢ ܪܕ̈ܡܐ.
+6. **ܓܢܬܝܒ:** ܐܢܐ (⟪अहम्⟫) ܗܘܝ (⟪अस्मि⟫) ܥܒܕ ܪܕ̈ܡܐ.
+7. **ܠܘܩܬܝܒ:** ܒܪܕ̈ܡܐ ܢܗܘ (⟪भवतु⟫) ܟܠ ܫܘܬܩ (⟪लय⟫ ܡ) ܕܠܒܐ (⟪मे⟫).
+8. **ܙ̈ܘܩܬܝܒ:** ܪܕ̈ܡܐ, ܢܨܠ (⟪उद्धर⟫ = ܡܛ̈ܠ ܕܝܠ ⟪उद्⟫ + ⟪हृ⟫ ܐܘ ⟪उद्⟫ + ⟪धृ⟫) ܠܐ (⟪माम्⟫)!
 
-## 27.5. Word List
+## 27.5. ܡܠܘܐܐ ܕܡ̈ܠܝܢ
 
-**⟪वस्⟫** 1P (⟪वसति⟫): to reside, to dwell (with the locative of the person with whom one dwells)
+**⟪वस्⟫** 1P (⟪वसति⟫):ܠܒܬܘܟ ܠܡܕܒܪ
 
 ::: indent
 **Fut.:** ⟪वत्स्यति⟫:br **Pass.:** ⟪उष्यते⟫:br **PPP:** ⟪उषित⟫:br **Inf.:** ⟪वस्तुम्⟫
@@ -212,15 +212,15 @@ Vastrāṇi. Majuli, Assam.
 ::: indent
 **⟪वसु⟫** n.: wealth, treasure, property, possession
 
-**⟪वसन्त⟫** m.: ("shining" =) spring (March to May)
+**⟪वसन्त⟫** m.: ("ܢܗܝܪܐ" =) ܪܒܝܥܐ (ܢܝܣܢ ܥܕܡܐ ܠܐܝܵܪ)
 :::
 ::: media
 ![](/images/lekt2707.webp)
-Fig.: ⟪वसन्तः⟫
+ܨܘܪܬܐ: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
-(Image source: [Details](/arc/licenses#lekt2707))
+(ܡܩܘܪ ܨܘܪܬܐ: [ܦܪܝܫܘܬܐ](/arc/licenses#lekt2707))
 :::
-**⟪हृ⟫** 1U (⟪हरति⟫): to hold, to carry; to fetch, to take away, to steal
+**⟪हृ⟫** 1U (⟪हरति⟫): ܠܡܐܚܕ، ܠܡܛܥܢ؛ ܠܡܝܬܝ، ܠܡܥܕܝ، ܠܡܓܢܘܒ
 
 ::: indent
 **Fut.:** ⟪हरिष्यति⟫:br **Pass.:** ⟪ह्रियते⟫:br **PPP:** ⟪हृत⟫:br **Inf.:** ⟪हर्तुम्⟫
@@ -228,11 +228,11 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 from it:
 
 ::: indent
-**⟪हर⟫** 3: taking away; m.: the Destroyer = epithet of Śiva
+**⟪हर⟫** 3: נטל; m.: המהר = כינוי של שׁיוו
 :::
-Counterpart to **⟪हर⟫**:
+מקביל ל- **⟪हर⟫**:
 
-**⟪हरि⟫** 3: blond, yellow, green; m. epithet of Viṣṇu (does not belong to the root ⟪हृ⟫ 1)
+**⟪हरि⟫** 3: צהוב, צהבהב, ירוק; m. כינוי של וישׁנוּ (אינו שייך לשורש ⟪हृ⟫ 1)
 
 **⟪हरिहर⟫** m.: Viṣṇu and Śiva united as a single deity.
 
@@ -249,9 +249,9 @@ Fig.: ⟪हरिहरः⟫
 Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 (Image source: [Details](/arc/licenses#lekt2705))
 :::
-## 27.6. Exercise
+## 27.6. ܬܪܓܠܐ
 
-**A) Insert the expressions in parentheses in the Locative (⟪सप्तमी⟩) Singular and, where it makes sense, Plural in the following sentence. Observe the various Sandhi, i.e., write out the full sentence each time!**
+[A] ܐܬܝܘ ܦܪܫܬ̈ܐ ܕܒܓܘܦܢܐ (⟪सप्तमी⟩) ܒܠܘܛܐ ܕܡܕܢܚܬܐ ܘܒܠܘܛܐ ܕܪܒܝܥܬܐ، ܐܠܦ ܡܢ ܟܠ ܙܒܥܐ، ܗܘ ܕܡܫܬܒܪ ܠܦܢ̈ܐ، ܘܟܬܒ ܠܦܢ̈ܐ ܡܕܝܢܬܐ!
 
 ⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫ (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟫)
 
@@ -283,9 +283,9 @@ Painting by Rāja Ravi Varmā (1848 - 1906).
 
 ⟪गुरुषूपदिशत्सु⟫ ⟪सुनीतबाला⟫ ⟪वक्तुं⟫ ⟪नार्हन्ति⟫ ⟪॥१०॥⟫
 
-## 27.7. Declension paradigms for memorization
+## 27.7. ܕܽܘܟܝܵܬ̈ܳܐ ܕܟܲܪܝܘܼܬ݂ܵܐ ܠܡܶܕܟܼܪܵܢܘܼܬ݂ܵܐ
 
-### 27.7.1. Masculine nouns ending in -a: ⟪नर⟫
+### 27.7.1. ܫܡ̈ܐ ܕܕܟܪ̈ܐ ܕܡܫܬܠܡܝܢ ܒ -ܐ: ⟪ܢܪ⟫
 
 ::: grammar-box
 
@@ -306,7 +306,7 @@ Fig.: ⟪नराः⟫
 Naran. Udaipur.
 (Image source: [Details](/arc/licenses#lekt2711))
 :::
-### 27.7.2. Neuters on -a: ⟪फल⟫
+### 27.7.2. ܫܡ̈ܐ ܡܨܥܝ̈ܐ ܕܡܫܬܠܡܝܢ ܒ -ܐ: ⟪ܦܠ⟫
 
 ::: grammar-box
 
@@ -348,7 +348,7 @@ Fig.: ⟪क्षत्रिया⟫
 Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore.
 (Image source: [Details](/arc/licenses#lekt2718))
 :::
-### 27.7.4. Masculine nouns ending in -i: ⟪अरि⟫
+### 27.7.4. ܫܡܗ̈ܐ ܕܕܟܪ̈ܐ ܕܡܫܬܠܡܝܢ ܒ-ܝ: ܐܪܝ
 
 ::: grammar-box
 
@@ -369,7 +369,7 @@ Fig.: ⟪अरयः⟫
 Hanging of two participants of the 1857 Rebellion. Photograph by Felice Beato (1833/1834 - ca. 1907).
 (Image source: [Details](/arc/licenses#lekt2712))
 :::
-### 27.7.5. Feminines on -i: ⟪मति⟫
+### 27.7.5. ܢܩܒ̈ܬܐ ܕܥܠ -ܝ: ܡܬܝ
 
 ::: grammar-box
 
@@ -384,7 +384,7 @@ Hanging of two participants of the 1857 Rebellion. Photograph by Felice Beato (1
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪मतौ⟫ / ⟪मत्याम्⟫ | ⟪मतिषु⟫ |
 
 :::
-### 27.7.6. Masculines auf -u: ⟪गुरु⟫
+### 27.7.6. ܕܲܟ݂ܪ̈ܳܢܹܐ ܥܲܠ -ܘܼ: ⟪ܓܘܼܪܘܼ⟫
 
 ::: grammar-box
 
@@ -405,7 +405,7 @@ Fig.: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
 (Image source: [Details](/arc/licenses#lekt2713))
 :::
-### 27.7.7. Feminines on -u: ⟪धेनु⟫
+### 27.7.7. ܢܩܒܬܢܝܬܐ ܥܠ -ܘ: ⟪ܕܗܢܘ⟫
 
 ::: grammar-box
 
@@ -426,7 +426,7 @@ Fig.: ⟪धेनुः⟫
 Cow in Udaipur.
 (Image source: [Details](/arc/licenses#lekt2714))
 :::
-### 27.7.8. Polysyllabic Feminines in -ī: ⟪देवी⟫
+### 27.7.8. ܢܩܒܬ̈ܐ ܣܓܝܐܬ̈ܐ ܗܓܝܬ̈ܐ ܒ-ܝ: ܕܝܘܝ
 
 ::: grammar-box
 
@@ -447,7 +447,7 @@ Fig.: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 (Image source: [Details](/arc/licenses#lekt2715))
 :::
-### 27.7.9. Present Participle Parasmaipada on -ant: ⟪सन्त्⟫
+### 27.7.9. ܡܫܰܬܦܳܢܳܐ ܕܙܰܒܢܳܐ ܗܳܫܳܝܳܐ ܦܰܪܰܣܡܰܝܦܳܕܳܐ ܥܰܠ -ܰܢܬ: ⟪ܣܰܢܬ⟫
 
 ::: grammar-box
 
@@ -483,7 +483,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪महति⟫ || ⟪महत्सु⟫ ||
 
 :::
-### 27.7.11. Masculine and Neuter in -vant / -mant: ⟪गुणवन्त्⟫
+### 27.7.11. ܕܟܪܳܝܳܐ ܘܣܪܝܣܳܝܳܐ ܒـ -ܘܰܢܬ / -ܡܰܢܬ: ⟪ܓܘܢܰܘܰܢܬ⟫
 
 ::: grammar-box
 
@@ -498,7 +498,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪गुणवति⟫ || ⟪गुणवत्सु⟫ ||
 
 :::
-### 27.7.12. Demonstrative Pronouns: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
+### 27.7.12. ܟܢܘܫܝܐ ܡܚܘܝܢܝܐ: ⟪ܬܕ⟫ ⟪.⟫ ⟪ܐܝܬܕ⟫ ⟪.⟫ ⟪ܐܝܕܡ⟫
 
 ::: grammar-box
 
@@ -541,7 +541,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪अस्मिन्⟫ || ⟪अस्याम्⟫ | ⟪एषु⟫ || ⟪आसु⟫ |
 
 :::
-### 27.7.13. Relativpronomen: ⟪यद्⟫
+### 27.7.13. ܟܢܺܝܫܳܐ ܚܰܕܬܳܝܳܐ: ⟪ܝܰܕ⟫
 
 ::: grammar-box
 
@@ -556,7 +556,7 @@ Sai Baba of Shirdi (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪यस्मिन्⟫ || ⟪यस्याम्⟫ | ⟪येषु⟫ || ⟪यासु⟫ |
 
 :::
-### 27.7.14. Fragepronomen: ⟪किम्⟫
+### 27.7.14. ܡܠܬܐ ܕܫܘܐܠܐ: ⟪किम्⟫
 
 ::: grammar-box
 

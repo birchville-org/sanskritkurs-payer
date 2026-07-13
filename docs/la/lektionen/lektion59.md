@@ -19,7 +19,7 @@ status: stable
 | **2. ⟪मध्यमः⟫** | -tam:br-tām || -īthām | -āthām | -īthām / āthām |
 | **3. ⟪प्रथमः⟫** | ^^ || -ītām | -ātām | -ītām / -ātām |
 :::
-## 59.2. Der Dual thematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+## 59.2. Dualis Classium Praesentium Thematicarum: Optativus (⟪विधिलिङ्⟫), Imperfectum (⟪लङ्⟫), Imperativus (⟪लोट्⟫)
 
 ::: grammar-box
 **Ante -va et -vahi, vocalis thematicae -a- per -ā- mutatur.**
@@ -57,7 +57,7 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪भवतम्⟫ | \&lt;⟪भवेथाम्⟫\&gt; |
 | 3\. ⟪प्रथमः⟫ | ⟪भवताम्⟫ | \&lt;⟪भवेताम्⟫\&gt; |
 :::
-### 59.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
+### 59.2.2. Classis praesentis quarta (⟪दिवादिगणः⟫)
 
 ⟪नृत्⟫ 4P "saltare"
 
@@ -90,7 +90,7 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪नृत्यतम्⟫ | \&lt;⟪नृत्येथाम्⟫\&gt; |
 | 3\. ⟪प्रथमः⟫ | ⟪नृत्यताम्⟫ | \&lt;⟪नृत्येताम्⟫\&gt; |
 :::
-### 59.2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
+### 59.2.3. Classis sexta praesentis (⟪tudādigaṇaḥ⟫)
 
 ⟪तुद्⟫ 6U "pulsare, percutere"
 
@@ -123,7 +123,7 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुदतम्⟫ | ⟪तुदेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदताम्⟫ | ⟪तुदेताम्⟫ |
 :::
-### 59.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
+### 59.2.4. Classis praesentis decima (⟪चुरादिगणः⟫) et Causativa (⟪णिजन्त⟫)
 
 ⟪चुर्⟫ 10U "furari"
 
@@ -156,7 +156,7 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयतम्⟫ | ⟪चोरयेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चोरयताम्⟫ | ⟪चोरयेताम्⟫ |
 :::
-### 59.2.5. Der Passiv (Suffix -⟪यक्⟫)
+### 59.2.5. Der Passivum (Suffix -⟪यक्⟫)
 
 ⟪तुद्⟫ 6U "pulsare, percutere"
 
@@ -186,9 +186,9 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येताम्⟫ |
 :::
-## 59.3. Der Dual athematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+## 59.3. Dualis classium praesentis athematicarum: Optativus (⟪vidhiliṅ⟫), Imperfectum (⟪laṅ⟫), Imperativus (⟪loṭ⟫)
 
-### 59.3.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
+### 59.3.1. Classis secunda praesentis (⟪adādigaṇaḥ⟫)
 
 ⟪द्विष्⟫ 2U "odisse"
 
@@ -382,7 +382,7 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪स्तम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪स्ताम्⟫ |
 :::
-### 59.3.2. Dritte Präsensklasse (⟪जुहोत्यादिगणः⟫)
+### 59.3.2. Classis praesentis tertia (⟪जुहोत्यादिगणः⟫)
 
 ⟪हु⟫ 3P "in ignem sacrificalem effundere"
 
@@ -448,7 +448,7 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪धत्तम्⟫ | ⟪दधाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्ताम्⟫ | ⟪दधाताम्⟫ |
 :::
-### 59.3.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
+### 59.3.3. Classis quinta praesentis (⟪svādigaṇaḥ⟫)
 
 ⟪सु⟫ 5U "exprimere"
 
@@ -481,7 +481,7 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪सुनुतम्⟫ | ⟪सुन्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वाताम्⟫ |
 :::
-### 59.3.4. Achte Präsensklasse (⟪तनादिगणः⟫)
+### 59.3.4. Classis octava praesentis (⟪tanādigaṇaḥ⟫)
 
 ⟪तन्⟫ 8U "tendere"
 
@@ -546,7 +546,7 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुतम्⟫ | ⟪कुर्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वाताम्⟫ |
 :::
-### 59.3.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
+### 59.3.5. Classis praesentis septima (⟪रुधादिगणः⟫)
 
 ⟪रुध्⟫ 7U "stoppant"
 
@@ -611,7 +611,7 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्तम्⟫ | ⟪युञ्जाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युङ्क्ताम्⟫ | ⟪युञ्जाताम्⟫ |
 :::
-### 59.3.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
+### 59.3.6. Classis praesentis nona (⟪क्र्यादिगणः⟫)
 
 ⟪क्री⟫ 9U "emere"
 
@@ -644,7 +644,7 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीतम्⟫ | ⟪क्रीणाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीताम्⟫ | ⟪क्रीणाताम्⟫ |
 :::
-## 59.4. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
+## 59.4. Dualis (⟪dvivacanam⟫) Aoristi (⟪luṅ⟫)
 
 ### 59.4.1. Wurzelaorist
 
@@ -657,7 +657,7 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अपातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अपाताम्⟫ |
 :::
-### 59.4.2. a-Aorist
+### 59.4.2. Aoristus a-
 
 ⟪सिच्⟫ 6U "aspergere"
 
@@ -668,7 +668,7 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪असिचतम्⟫ | ⟪असिचेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचताम्⟫ | ⟪असिचेताम्⟫ |
 :::
-### 59.4.3. Reduplizierter Aorist
+### 59.4.3. Aoristus reduplicatus
 
 ⟪श्रि⟫ 1U "adire"
 
@@ -679,7 +679,7 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अशिश्रियतम्⟫ | ⟪अशिश्रियेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪शिश्रियताम्⟫ | ⟪अशिश्रियेताम्⟫ |
 :::
-### 59.4.4. s-Aorist
+### 59.4.4. s-Aoristus
 
 ⟪नी⟫ 1U "ducere"
 
@@ -701,7 +701,7 @@ Imperativus (⟪लोट्⟫)
 | a-taut+s+tam | ⟪अतुत्साथाम्⟫ | | |
 | 3\. ⟪प्रथमः⟫ | ⟪अतौत्ताम्⟫ | ⟪अतित्साताम्⟫ |
 :::
-### 59.4.5. iṣ-Aorist
+### 59.4.5. iṣ-Aoristus
 
 ⟪पू⟫ 9U "purgo"
 
@@ -712,7 +712,7 @@ Imperativus (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अपाविष्टम्⟫ | ⟪अपविषाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पाविष्टाम्⟫ | ⟪अपविषाताम्⟫ |
 :::
-## 59.5. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (nur P)
+## 59.5. Aoristus (⟪लुङ्⟫) 6: siṣ-Aoristus (tantum P)
 
 ::: grammar-box
 **Radices in -ā, -e, -o, -ai quae non ad primum, secundum vel tertium aoristum pertinent, necnon aliae quaedam radices, inter quas ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫, siṣ-aoristum in P constituunt. In Ā omnes hae radices s-aoristum formant.**
@@ -745,7 +745,7 @@ Paradigma:
 | **2. ⟪द्वितीयः⟫** | *⟪अयासीस्⟫* | ⟪अयासिष्टम्⟫ | ⟪अयासिष्ट⟫ |
 | **3. ⟪प्रथमः⟫** | *⟪अयासीत्⟫* | ⟪अयासिष्टाम्⟫ | ⟪अयासिषुर्⟫ |
 :::
-## 59.6. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematischer s-Aorist)
+## 59.6. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematischer s-Aoristus)
 
 ::: grammar-box
 **Radix sa-Aoristis a radice plurima ⟪अनिट्⟫ formantur, quae -ś, -ṣ aut -h terminantur et cuius anteultima syllaba i, u vel ṛ continet. Radices facultativae ⟪अनिट्⟫ huiusmodi vel sa-Aoristum vel iṣ-Aoristum formant.**
@@ -798,7 +798,7 @@ Paradigma:
 | **2. ⟪द्वितीयः⟫** | ⟪अधिक्षथास्⟫ / *⟪अधिग्धास्⟫* | ⟪अधिक्षथाम्⟫ | ⟪अधिक्षध्वम्⟫ / *⟪अधिग्ध्वम्⟫* |
 | **3. ⟪प्रथमः⟫** | ⟪अधिक्षत⟫ / *⟪अदिग्ध⟫* | ⟪अधिक्षताम्⟫ | ⟪अधिक्षन्त⟫ |
 :::
-## 59.7. Übung
+## 59.7. Exercitium
 
 A) Textum vertite atque omnes formas verborum in eo positas defini.
 

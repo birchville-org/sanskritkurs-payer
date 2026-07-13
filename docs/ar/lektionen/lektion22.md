@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 22
+# الدرس الثاني والعشرون
 
-## 22.1. Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
+## 22.1. المطلق (क्त्वा | ल्यप्)
 
 ::: grammar-box
 

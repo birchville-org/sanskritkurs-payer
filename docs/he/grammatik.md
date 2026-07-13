@@ -3,11 +3,11 @@ aside: true
 outline: [2, 3]
 ---
 
-# Grammar Topics
+# נושאי דקדוק
 
 This page provides a systematic overview of all grammatical topics of the Sanskrit course. Each of the 61 lessons is categorized thematically here.
 
-## 1. Phonology & Script (Saṃhitā & Lipi)
+## 1. פונולוגיה וכתב (סַנְהִיטַה ולִיפִּי)
 
 *   **Introduction to Sounds**: Systematics and pronunciation → [Lesson 1](/en/lektionen/lektion01)
 *   **Script Introduction (Devanāgarī)**:
@@ -23,9 +23,9 @@ This page provides a systematic overview of all grammatical topics of the Sanskr
     *   Word Sandhi (h-, ch-) → [Lesson 44](/en/lektionen/lektion44), [Lesson 51](/en/lektionen/lektion51)
     *   **Consonant Sandhi** (Summaries) → [Lesson 16](/en/lektionen/lektion16), [Lesson 43](/en/lektionen/lektion43)
 
-## 2. Word Study (Morphology)
+## 2. חקר מילים (מורפולוגיה)
 
-### 2.1 Nouns and Adjectives (Declension)
+### 2.1 שמות עצם ותארים (נטייה)
 
 *   **Fundamentals**: Case grammar → [Lesson 1](/en/lektionen/lektion01), [Lesson 2](/en/lektionen/lektion02)
 *   **A-stems** (Masculine & Neuter) → [Lesson 2](/en/lektionen/lektion02), [Lesson 7](/en/lektionen/lektion07)
@@ -40,7 +40,7 @@ This page provides a systematic overview of all grammatical topics of the Sanskr
     *   Numeral words (Cardinals/Ordinals) → [Lesson 52](/en/lektionen/lektion52)
     *   Degrees of comparison (Comparative/Superlative) → [Lesson 53](/en/lektionen/lektion53)
 
-### 2.2 Pronouns & Adverbs
+### 2.2 כינויים ותוארי פועל
 
 *   **Pronouns**:
     *   Interrogative and demonstrative pronouns -\> [Lesson 4](/en/lektionen/lektion04)
@@ -51,7 +51,7 @@ This page provides a systematic overview of all grammatical topics of the Sanskr
     *   Formation of adverbs -\> [Lesson 37](/en/lektionen/lektion37), [Lesson 52](/en/lektionen/lektion52)
     *   Polite address & vocative -\> [Lesson 21](/en/lektionen/lektion21), [Lesson 44](/en/lektionen/lektion44)
 
-### 2.3 Verbs (Conjugation)
+### 2.3 פעלים (נטייה)
 
 *   **The Present System (Indicative)**:
     *   Personal endings (3rd, 2nd, 1st person) -\> [Lesson 6](/en/lektionen/lektion06), [Lesson 44](/en/lektionen/lektion44), [Lesson 39](/en/lektionen/lektion39)
@@ -69,7 +69,7 @@ This page provides a systematic overview of all grammatical topics of the Sanskr
     *   **Intensive & Denominative** -\> [Lesson 61](/en/lektionen/lektion61)
 *   **Verbs in the Dual (Dual Number)** -\> [Lesson 59](/en/lektionen/lektion59), [Lesson 60](/en/lektionen/lektion60)
 
-### 2.4 Nominal Derivations & Compounds
+### 2.4 גזירה שמנית ומורכבות
 
 *   **Compounds (Samāsa)**:
     *   **Dvandva** (Copulative Compound) -\> [Lesson 5](/en/lektionen/lektion05), [Lesson 9](/en/lektionen/lektion09)
@@ -82,7 +82,7 @@ This page provides a systematic overview of all grammatical topics of the Sanskr
     *   **PPA** (Past Participle Active) -\> [Lesson 52](/en/lektionen/lektion52)
     *   **Absolutive & Infinitive** -\> [Lesson 22](/en/lektionen/lektion22), [Lesson 23](/en/lektionen/lektion23)
 
-## 3. Sentence Structure (Syntax)
+## 3. מבנה משפט (תחביר)
 
 *   **The nominal sentence** -\> [Lesson 2](/en/lektionen/lektion02)
 *   **The interrogative sentence** -\> [Lesson 37](/en/lektionen/lektion37)
@@ -98,7 +98,7 @@ This page provides a systematic overview of all grammatical topics of the Sanskr
     *   Relative clauses -\> [Lesson 19](/en/lektionen/lektion19)
     *   Usage of participles -\> [Lesson 12](/en/lektionen/lektion12), [Lesson 44](/en/lektionen/lektion44)
 
-## 4. Metrics (Verse Studies)
+## 4. מטריקה (חקר המשקל)
 
 Sanskrit philosophy and literature are often composed in verses. Metrics teaches the rhythm and structure of these verses.
 

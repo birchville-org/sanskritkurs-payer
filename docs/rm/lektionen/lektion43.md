@@ -158,7 +158,7 @@ Imag.: ⟪पण्यानि⟫
 
 ⟪भद्र⟫ 3: bun, feliç; vocativ: carissim!
 
-⟪समय⟫ m. (a सम्-⟪इ⟫): cunvegna, cuntratt,期限, termin, temp
+⟪समय⟫ m. (a सम्-⟪इ⟫): cunvegna, cuntratt,, termin, temp
 
 ⟪निश्चित⟫ 3: decidì, fixà
 
@@ -249,7 +249,7 @@ Inf. ⟪द्रोतुम्⟫
 
 ⟪आनन्द⟫ m.: diletg, gaude
 
-## 43.5. Übung
+## 43.5. Exercizi
 
 A) Formai la segunda persona correspondenta en temp, numer, modus e.c. als suventas formas verbalas:
 

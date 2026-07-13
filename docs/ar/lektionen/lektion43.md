@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 43
+# الدرس 43
 
 ## 43.1. Personalendungen der 2. Person (⟪मध्यमः⟫ = "mittlere \&lt;Person\&gt;")
 
@@ -28,7 +28,7 @@ status: stable
 *   المفرد: "أنت"
 *   الجمع: "أنتم" (أكثر من اثنين!)
 
-### 43.2.1. Thematische Stämme
+### 43.2.1. الجذور الموضوعية
 
 ::: media
 ![](/images/lekt4301.jpg)
@@ -249,7 +249,7 @@ status: stable
 
 ⟪आनन्द⟫ م.: سعادة، فرح
 
-## 43.5. Übung
+## 43.5. تمرين
 
 أ) شكّل الشخص الثاني المقابل في الزمن والعدد والوضع وما إلى ذلك للأشكال الفعلية التالية:
 

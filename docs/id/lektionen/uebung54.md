@@ -8,37 +8,37 @@ last_reconstructed: 2026-05-15
 
 # Exercise 54
 
-Form the corresponding Aorist forms for the following Present or Perfect forms:
+[B0] Bentukkan bentuk Aorist yang sesuai untuk bentuk Present atau Perfect berikut:
 
 ::: grammar-box
-| No. | Form | Determination / Meaning | Aorist |
+| No. | Bentuk | Penentuan / Makna | Aorist |
 |:---|:---|:---|:---|
-| ⟪१⟫. | **⟪यन्ति⟫** | they go | **⟪अगुः⟫** |
-| ⟪२⟫. | **⟪पिबामि⟫** | I drink | **⟪अपाम्⟫** |
-| ⟪३⟫. | **⟪ददौ⟫** | I have / he has given | **⟪अदाम्⟫ / ⟪अदात्⟫** |
-| ⟪४⟫. | **⟪बभूव⟫** | I / he / they were / were | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
-| ⟪५⟫. | **⟪दधति⟫** | they place | **⟪अधुः⟫** |
-| ⟪६⟫. | **⟪ऐम⟫** | we went | **⟪अगाम⟫** |
-| ⟪७⟫. | **⟪पपिथ⟫** | you have drunk / protected | **⟪अपाः⟫** (to *⟪पा⟫* "to drink") |
-| ⟪८⟫. | **⟪तिष्ठति⟫** | he stands | **⟪अस्थात्⟫** |
-| ⟪९⟫. | **⟪इयेथ⟫** | you have gone | **⟪अगाः⟫** |
-| ⟪१०⟫. | **⟪पप⟫** | you have drunk | **⟪अपात⟫** |
-| ⟪११⟫. | **⟪एष्यथ⟫** | you will go | **⟪अगात⟫** |
-| ⟪१२⟫. | **⟪तस्थुः⟫** | they stood | **⟪अस्थुः⟫** |
-| ⟪१३⟫. | **⟪अधत्त⟫** | you placed | **⟪अधात⟫** |
-| ⟪१४⟫. | **⟪अददाः⟫** | you gave | **⟪अदाः⟫** |
-| ⟪१५⟫. | **⟪अभवन्⟫** | they were | **⟪अभूवन्⟫** |
-| ⟪१६⟫. | **⟪ददिम⟫** | we have given | **⟪अदाम⟫** |
-| ⟪१७⟫. | **⟪भिद्यते⟫** | it is split | **⟪अभेदि⟫** |
-| ⟪१८⟫. | **⟪उद्यते⟫** | it is said | **⟪अवादि⟫** |
-| ⟪१९⟫. | **⟪स्तूयते⟫** | he is praised | **⟪अस्तावि⟫** |
-| ⟪२०⟫. | **⟪कृष्यते⟫** | it is plowed | **⟪अकर्षि⟫** |
-| ⟪२१⟫. | **⟪जायते⟫** | he is born | **⟪अजनि⟫** |
-| ⟪२२⟫. | **⟪गीयते⟫** | it is sung | **⟪अगायि⟫** |
-| ⟪२३⟫. | **⟪गम्यते⟫** | it has gone | **⟪अगामि⟫** |
+| ⟪१⟫. | **⟪यन्ति⟫** | mereka pergi | **⟪अगुः⟫** |
+| ⟪२⟫. | **⟪पिबामि⟫** | saya minum | **⟪अपाम्⟫** |
+| ⟪३⟫. | **⟪ददौ⟫** | saya / dia telah memberi | **⟪अदाम्⟫ / ⟪अदात्⟫** |
+| ⟪४⟫. | **⟪बभूव⟫** | saya / dia / mereka adalah / pernah ada | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
+| ⟪५⟫. | **⟪दधति⟫** | mereka menempatkan | **⟪अधुः⟫** |
+| ⟪६⟫. | **⟪ऐम⟫** | kami pergi | **⟪अगाम⟫** |
+| ⟪७⟫. | **⟪पपिथ⟫** | kamu telah minum / melindungi | **⟪अपाः⟫** (ke *⟪पा⟫* "untuk minum") |
+| ⟪८⟫. | **⟪तिष्ठति⟫** | dia berdiri | **⟪अस्थात्⟫** |
+| ⟪९⟫. | **⟪इयेथ⟫** | kamu telah pergi | **⟪अगाः⟫** |
+| ⟪१०⟫. | **⟪पप⟫** | kamu telah minum | **⟪अपात⟫** |
+| ⟪११⟫. | **⟪एष्यथ⟫** | kamu akan pergi | **⟪अगात⟫** |
+| ⟪१२⟫. | **⟪तस्थुः⟫** | mereka berdiri | **⟪अस्थुः⟫** |
+| ⟪१३⟫. | **⟪अधत्त⟫** | kamu menempatkan | **⟪अधात⟫** |
+| ⟪१४⟫. | **⟪अददाः⟫** | kamu memberi | **⟪अदाः⟫** |
+| ⟪१५⟫. | **⟪अभवन्⟫** | mereka adalah | **⟪अभूवन्⟫** |
+| ⟪१६⟫. | **⟪ददिम⟫** | kami telah memberi | **⟪अदाम⟫** |
+| ⟪१७⟫. | **⟪भिद्यते⟫** | itu dipisahkan | **⟪अभेदि⟫** |
+| ⟪१८⟫. | **⟪उद्यते⟫** | itu dikatakan | **⟪अवादि⟫** |
+| ⟪१९⟫. | **⟪स्तूयते⟫** | dia dipuji | **⟪अस्तावि⟫** |
+| ⟪२०⟫. | **⟪कृष्यते⟫** | itu dibajak | **⟪अकर्षि⟫** |
+| ⟪२१⟫. | **⟪जायते⟫** | dia dilahirkan | **⟪अजनि⟫** |
+| ⟪२२⟫. | **⟪गीयते⟫** | itu dinyanyikan | **⟪अगायि⟫** |
+| ⟪२३⟫. | **⟪गम्यते⟫** | itu telah pergi | **⟪अगामि⟫** |
 :::: media
 ![](/images/uebung093.webp)
 Fig.: ⟪अगायि⟫
-(Image source: [Details](/en/licenses#uebung093))
+(Sumber gambar: [Details](/en/licenses#uebung093))
 ::::
 :::

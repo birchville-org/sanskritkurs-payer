@@ -9,7 +9,7 @@ status: stable
 
 # Lezione 51
 
-## 51.1. ⟪उपपद⟫-Komposita
+## 51.1. Composti ⟪उपपद⟫
 
 ::: grammar-box
 **⟪उपपद⟫-Komposita (⟪उपपद⟫ n. "Begleitwort") sono ⟪तत्पुरुष⟫ con un nome verbale come elemento posteriore, che appare solo come elemento posteriore di composti, ma non come parola autonoma e singola. ⟪उपपद⟫ vengono formati con i suffissi ⟪कृत्⟫**

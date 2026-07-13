@@ -13,11 +13,11 @@ status: stable
 ### 61.1.1. Root nouns ending in -ā in ⟪तत्पुरुष⟫
 
 ::: grammar-box
-**Before vocal endings, the stem vowel in the weak cases has the zero-grade Ø.**
+**Sebelum akhiran vokal, vokaal akar dalam kasus lemah memiliki derajat-nol Ø.**
 
-**Declension in the masculine and feminine is identical.**
+**Deklinasi pada maskulin dan feminin adalah identik.**
 :::
-Paradigm:
+Paradigma:
 
 ⟪विश्वपा⟫ m.f. "protecting the all"
 
@@ -36,9 +36,9 @@ Paradigm:
 ::: grammar-box
 **Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
-**In addition to formations with the regular case endings, formations following the pattern of multisyllabic feminine nouns in -ī (⟪देवी⟫) also occur in the Dat.Ab.Gen.Loc.sg. and Gen.pl.**
+**Selain pembentukan dengan akhiran kasus reguler, pembentukan yang mengikuti pola kata benda feminin multisuku kata dalam -ī (⟪देवी⟫) juga terjadi pada Dat.Ab.Gen.Loc.sg. dan Gen.pl.**
 :::
-Paradigm:
+Paradigma:
 
 ⟪धी⟫ f. "thought"
 
@@ -76,7 +76,7 @@ Fig.: ⟪स्त्रियः⟫
 ::: grammar-box
 **Before vocalic endings, -ī is replaced by -y if it is preceded only by a consonant belonging to the root. If several consonants belonging to the root precede, the -ī before a vocalic ending is replaced by -iy.**
 
-**Declension is identical in the masculine and feminine.**
+**Pembentukan kata sifat (declension) identik untuk jenis kelamin maskulin dan feminin.**
 
 **Irregularity: Compounds ending in -⟪नी⟫ "leading" have the ending -ām in the loc.sg (like ⟪देवी⟫):**
 e.g. ⟪ग्रामणी⟫ "leading a troop/a village": loc.sg.m.f. ⟪ग्रामण्याम्⟫
@@ -133,9 +133,9 @@ Paradigm:
 ::: grammar-box
 **Before vocal endings, -ū is replaced by -v if it is preceded only by a consonant belonging to the root. If several consonants belonging to the root precede, the -ū before a vocal ending is replaced by -uv.**
 
-**Declension is identical in the masculine and feminine.**
+**Pembentukan kata sifat (declension) sama untuk jenis kelamin maskulin dan feminin.**
 :::
-Paradigm:
+Paradigma:
 
 ⟪खलपू⟫ m., f. "one who sweeps the barn"
 
@@ -158,9 +158,9 @@ Fig.: ⟪रथ्याप्वः⟫
 ### 61.1.6. Declension of multisyllabic feminine nouns ending in -ū
 
 ::: grammar-box
-**Multisyllabic feminine nouns ending in -ū are declined analogously to multisyllabic stems ending in -ī (⟪देवी⟫), but they end in -s in the Nom. sg.**
+**Kata benda feminin multisilabik yang berakhiran -ū dideklinasikan secara analogis dengan kata benda multisilabik yang berakhiran -ī (⟪देवी⟫), namun mereka berakhir dengan -s pada Nom. sg.**
 :::
-Paradigm:
+Paradigma:
 
 ⟪वधू⟫ f. "young woman, bride"
 
@@ -184,13 +184,13 @@ Fig.: ⟪वध्वौ⟫
 ## 61.2. The periphrastic future (⟪लुट्⟫)
 
 ::: grammar-box
-**In addition to the simple future (⟪ऌत्⟫), there is a periphrastic future (⟪लुट्⟫). According to the teaching of native grammarians, it is used to denote the distant future ("after the current day"), while the simple future denotes the near future ("on the current day"). In Classical Sanskrit, it seems that no difference in the use of the two futures is usually made.**
+**Selain masa depan sederhana (⟪ऌत्⟫), terdapat masa depan periphrastik (⟪लुट्⟫). Menurut ajaran para gramatikus asli, masa depan periphrastik digunakan untuk menyatakan masa depan yang jauh ("setelah hari ini"), sedangkan masa depan sederhana menyatakan masa depan yang dekat ("pada hari ini"). Dalam Sanskrit Klasik, tampaknya tidak ada perbedaan dalam penggunaan kedua bentuk masa depan tersebut yang biasanya dibuat.**
 
 **Formation:**
 
-**The periphrastic future is formed by connecting a nominal agent in -tṛ with the present tense of ⟪अस्⟫ 2. As the third person, the simple noun serves in the corresponding number, without distinction in grammatical gender. In the combinations with ⟪अस्⟫, the noun in all persons and numbers has the form of the nominative singular in -tā.**
+**Masa depan periphrastik dibentuk dengan menghubungkan agen nominal dalam -tṛ dengan bentuk waktu sekarang dari ⟪अस्⟫ 2. Sebagai orang ketiga, kata benda sederhana berfungsi dalam jumlah yang sesuai, tanpa perbedaan jenis kelamin gramatikal. Dalam kombinasi dengan ⟪अस्⟫, kata benda dalam semua orang dan jumlah memiliki bentuk nominatif tunggal dalam -tā.**
 :::
-The endings of the periphrastic future are therefore:
+Akhiran masa depan periphrastik adalah sebagai berikut:
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
@@ -201,9 +201,9 @@ The endings of the periphrastic future are therefore:
 | **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
 :::
 ::: grammar-box
-**Form of the root: The root generally has the same form as in the simple future. The same applies to the connecting vowel -i-.**
+**Bentuk akar: Akar umumnya memiliki bentuk yang sama seperti pada masa depan sederhana. Hal yang sama berlaku untuk vokal penghubung -i-.**
 :::
-Examples:
+Contoh:
 
 | ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ etc. |
 | --- | --- |
@@ -224,46 +224,46 @@ Paradigm:
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
 ::: grammar-box
-**The verb ⟪अस्⟫ is separated from the nominal stem only very rarely.**
+**Kata kerja ⟪अस्⟫ sangat jarang dipisahkan dari batang nomina.**
 :::
-## 61.3. The Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
+## 61.3. Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
 
 ::: grammar-box
-**An Intensivum (⟪चर्करीतम्⟫) can be formed from every monosyllabic root beginning with a consonant of the first nine present classes; that is: with few exceptions, no Intensivum can be formed from disyllabic roots (e.g. ⟪जागृ⟫), roots beginning with a vowel, and roots of the 10th present class (⟪चुरादिगण⟫).**
+**Sebuah Intensivum (⟪चर्करीतम्⟫) dapat dibentuk dari setiap akar monosilabik yang dimulai dengan konsonan dari sembilan kelas sekarang pertama; yaitu: dengan sedikit pengecualian, tidak ada Intensivum yang dapat dibentuk dari akar disilabik (misalnya ⟪जागृ⟫), akar yang dimulai dengan vokal, dan akar dari kelas sekarang ke-10 (⟪चुरादिगण⟫).**
 
 **The Intensivum means:**
 
-*   **that a person or thing repeatedly does or suffers what is expressed by the root**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "he does repeatedly"  
-    ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "he is (becomes) often"  
+*   **bahwa seseorang atau sesuatu secara berulang-ulang melakukan atau mengalami apa yang dinyatakan oleh akar kata**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "ia melakukan secara berulang-ulang"  
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "ia (menjadi) sering"
 
-*   **that a person or thing does or suffers intensively what is expressed by the root:**  
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "he does intensively, he does vigorously"  
+*   **bahwa seseorang atau sesuatu melakukan atau mengalami secara intensif apa yang dinyatakan oleh akar kata:**  
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "ia melakukan secara intensif, ia melakukan dengan kuat"
 
 *   **for roots expressing movement, the Intensivum means curved movement:**  
     ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "he goes in curves" (NOT: "he goes often")  
 
-*   **for some roots (list: Kielhorn, Grammar § 458b) the Intensivum means blame:**  
-    ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "he cuts badly"  
-    ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "he sits badly"
+*   **untuk beberapa akar (daftar: Kielhorn, Tata Bahasa § 458b) Intensivum berarti mencela:**  
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "ia memotong dengan buruk"  
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "ia duduk dengan buruk"
 :::: media
 ![](/images/lekt6104.webp)
 Fig.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Image source: [Details](/en/licenses#lekt6104))
+(Sumber gambar: [Details](/en/licenses#lekt6104))
 ::::
 :::
 ::: grammar-box
-**Formation of the Intensivum:**
+**Pembentukan Intensivum:**
 
-**There are two formation types of the Intensivum:**
+**Ada dua jenis pembentukan untuk Intensivum:**
 
 *   **Ātmanepada-Intensivum**
 *   **Parasmaipada-Intensivum**
 
-**Both are formed from the root reduplicated with strong reduplication. Both differ in meaning not. Both can be formed for the same roots.**
+**Keduanya dibentuk dari akar yang diduplikasi dengan duplikasi kuat. Keduanya tidak berbeda dalam makna. Keduanya dapat dibentuk untuk akar yang sama.**
 :::
-### 61.3.1. Ātmanepada Intensive
+### 61.3.1. Ātmanepada Intensif
 
 ::: grammar-box
 **Formation:**
@@ -293,13 +293,13 @@ Contoh:
 | ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
 
 ::: grammar-box
-**Roots of the form -a-Nasal do not lengthen the vowel in the reduplicating syllable, but repeat the nasal.**
+**Akar dengan bentuk -a-Nasal tidak memanjangkan vokal pada suku kata reduplikasi, tetapi mengulangi konsonan nasal.**
 
 :::
 ::: indent
-e.g. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
+mis. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 :::
-**With some roots, between the vowel of the reduplicating syllable and the initial consonant of the root, -nī- or -rī- appears (-rī- with roots that contain an ṛ in the Intensive).**
+**Pada beberapa akar, di antara vokal suku kata reduplikasi dan konsonan awal akar, -nī- atau -rī- muncul (-rī- untuk akar yang mengandung ṛ dalam Intensif).**
 
 ::: indent
 e.g.
@@ -309,24 +309,24 @@ e.g.
 ::: grammar-box
 **Conjugation:**
 
-*   **Present stem: like an Ātmanepada of the 4th present class (⟪दिवादिगण⟫).**
-*   **Passive and other tense stems: if a vowel precedes the -ya- of the intensive stem, then -ya- is replaced by -y-; if a consonant precedes the -ya-, then -ya- is dropped:**
-    *   **Passive Present: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
-    *   **Perfect: periphrastic: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
-    *   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-    *   **Future: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-    *   **periphrastic future: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+*   **Stem kini: menyerupai Ātmanepada dari kelas kini ke-4 (⟪दिवादिगण⟫).**
+*   **Stem untuk Pasif dan tenses lain: jika sebuah vokal mendahului -ya- dari stem intensif, maka -ya- diganti dengan -y-; jika sebuah konsonan mendahului -ya-, maka -ya- dihilangkan:**
+*   **Kini Pasif: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+*   **Sempurna: periphrastic: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+*   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+*   **Masa depan: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+*   **masa depan periphrastic: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
 ### 61.3.2. Parasmaipada-Intensivum
 
 ::: grammar-box
-**Present stem (other forms are extremely rare): Formation and conjugation like a verb of the 3rd present class (⟪जुहोत्यादिगण⟫) with the difference that the vowel of the reduplication syllable is high-grade, with -a- being extended-grade.**
+**Stem kini (bentuk lain sangat jarang): Pembentukan dan konjugasi seperti kata kerja dari kelas kini ke-3 (⟪जुहोत्यादिगण⟫) dengan perbedaan bahwa vokal dari suku kata reduplicasi adalah tingkat tinggi, dengan -a- sebagai tingkat ekstensi.**
 
-**In the singular indicative present as well as 2.3.sg. imperfect and 3.sg.imperative, an -ī- can be inserted between root and ending. If this -ī- is inserted, a short vowel in penultimate position must not be guṇated.**
+**Dalam indikatif kini tunggal serta 2.3.sg. imperfect dan 3.sg.imperative, sebuah -ī- dapat disisipkan antara akar dan akhiran. Jika -ī- ini disisipkan, vokal pendek di posisi penultimate tidak boleh diguṇatkan.**
 
 **Regarding reduplication with nasal as well as the insertion of -nī- or -rī-, the same applies as for the Ātmanepada-Intensivum. Instead of -rī-, -ri- may optionally stand.**
 :::
-Paradigm:
+Paradigma:
 
 ⟪भू⟫ 1P
 
@@ -368,7 +368,7 @@ Optative (⟪विधिलिङ्⟫):
 :::
 ## 61.4. Denominatives (⟪नामधातु⟫)
 
-Denominatives (⟪नामधातवः⟫) are formed, in contrast to the verbs treated so far, not from a verbal root, but from a nominal stem. There are various types of formation.
+Denominativa (⟪नामधातवः⟫) dibentuk, berbeda dengan kata kerja yang telah dibahas sejauh ini, bukan dari akar verbal, melainkan dari stam nomina. Terdapat berbagai jenis pembentukan.
 
 ### 61.4.1. Formation without special suffix, Parasmaipada
 
@@ -377,14 +377,14 @@ Denominatives (⟪नामधातवः⟫) are formed, in contrast to the ve
 
 :::
 ::: indent
-**a person or thing behaves as that which, or resembles that which, is designated by the nominal stem.**
+**seseorang atau sesuatu berperilaku seperti yang, atau menyerupai apa pun, yang ditunjuk oleh batang nominal.**
 :::
-**Conjugation:**
+**Konjugasi:**
 
 ::: indent
-**in the present stem like a verb of the 1st present class (⟪भ्वादिगण⟫). If the noun has mehl as a vowel, only the final vowel is treated like the root vowel of the 1st class. Final -a is dropped before the thematic vowel. A vowel before a final nasal is replaced by the corresponding long vowel.**
+**dalam batang saat ini seperti kata kerja dari kelas sekarang pertama (⟪भ्वादिगण⟫). Jika kata benda memiliki mehl sebagai vokal, hanya vokal akhir yang diperlakukan seperti vakar akar kelas pertama. Akhiran -a dihilangkan sebelum vokal tematik. Vokal sebelum akhir nasal diganti dengan vokal panjang yang sesuai.**
 :::
-Examples:
+Contoh:
 
 | ⟪कवि⟫ m. "poet" | ⟪कवयति⟫ "he behaves like a poet" |
 | --- | --- |
@@ -399,24 +399,24 @@ Examples:
 ::: grammar-box
 **Meaning:**
 
-*   **someone desires that which is designated by the nominal stem**
-*   **someone treats or regards a person or thing as that which is designated by the nominal stem**
+*   **seseorang menginginkan apa yang ditunjuk oleh akar kata benda**
+*   **seseorang memperlakukan atau menganggap seseorang atau sesuatu sebagai apa yang ditunjuk oleh akar kata benda**
 
 **Stem formation:**
 
 :::
 ::: indent
-**before the -ya, the final sound of the nominal stem undergoes the following changes:**
+**sebelum akhiran -ya, bunyi terakhir dari stem nomina mengalami perubahan berikut:**
 
 *   **a, ā » ī :** ⟪पुत्र⟫ » ⟪पुत्रीय⟫-
 *   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫-
 *   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫-
 *   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
 *   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
-*   **final nasal drops out, preceding vowel is treated according to the rules just mentioned:** ⟪राजन्⟫ » ⟪राजीय⟫-
-*   **other final consonants remain unchanged**
+*   **bunyi nasal akhir hilang, vokal sebelumnya diperlakukan sesuai aturan yang baru saja disebutkan:** ⟪राजन्⟫ » ⟪राजीय⟫-
+*   **konsonan akhir lainnya tetap tidak berubah**
 :::
-Examples:
+Contoh:
 
 | ⟪पुत्र⟫ m. "son" | ⟪पुत्रीयति⟫ "he desires a son" |
 | --- | --- |
@@ -448,9 +448,9 @@ Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥�
 ::: grammar-box
 **Meaning:**
 
-**one wishes for that which is designated by the nominal stem**
+**seseorang menginginkan apa yang ditunjuk oleh akar nominal**
 :::
-Examples:
+Contoh:
 
 | ⟪पुत्र⟫ m. "son" | ⟪पुत्रकाय्म्यति⟫ "he wishes for a son" |
 | --- | --- |
@@ -469,31 +469,31 @@ Fig.: ⟪यशस्काम्यन्ति⟫
 
 :::
 ::: indent
-**someone desires intensely that which is designated by the nominal stem.**
+**seseorang menginginkan dengan intens apa yang ditunjuk oleh nominal stem.**
 :::
-Examples:
+Contoh:
 
 ::: grammar-box
-| ⟪मधु⟫ n. "honey" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "he desires honey intensely" |
+| ⟪मधु⟫ n. "madu" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "ia menginginkan madu dengan intens" |
 | --- | --- |
-| ⟪अश्व⟫ m. "stallion" | ⟪अश्वस्यति⟫ "(the mare) desires the stallion intensely" |
+| ⟪अश्व⟫ m. "kuda jantan" | ⟪अश्वस्यति⟫ "(kuda betina) menginginkan kuda jantan dengan intens" |
 :::: media
 ![](/images/lekt6110.webp)
 Fig.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
 Karli
-(Image source: [Details](/en/licenses#lekt6110))
+(Sumber gambar: [Details](/en/licenses#lekt6110))
 ::::
 :::
-### 61.4.5. Formation with the suffix -ya, Ātmanepada
+### 61.4.5. Pembentukan dengan akhiran -ya, Ātmanepada
 
 ::: grammar-box
 **Meaning:**
 
 :::
 ::: indent
-**someone behaves as that which, or resembles that which, is designated by the nominal stem.**
+**seseorang bertingkah laku seperti apa yang, atau menyerupai apa yang, ditunjuk oleh batang nomina.**
 :::
-**Formation:**
+**Pembentukan:**
 
 *   **final -a » -ā**
 *   **final -ā remains unchanged**
@@ -509,13 +509,13 @@ Examples:
 | ⟪कुमारी⟫ f. "girl" | ⟪कुमारायते⟫ "he behaves like a girl" |
 
 ::: grammar-box
-**With some nominal stems, this suffix means: something becomes like that which, or becomes that which, is designated by the nominal stem:**
+**Dengan beberapa batang nomina, akhiran ini berarti: sesuatu menjadi seperti yang ditunjuk oleh batang nomina, atau menjadi yang ditunjuk oleh batang nomina:**
 
 :::
 ::: indent
-e.g. ⟪उन्मनस्⟫ 3 "excited": ⟪उन्मनायते⟫ "he becomes excited"
+mis. ⟪उन्मनस्⟫ 3 "tergugah": ⟪उन्मनायते⟫ "ia menjadi tergugah"
 :::
-**In some cases, verbs with other meanings are formed with this suffix:**
+**Dalam beberapa kasus, kata kerja dengan makna lain dibentuk dengan akhiran ini:**
 
 Examples:
 
@@ -552,13 +552,13 @@ A list of denominatives e.g. in:
 ::: media
 ![](/images/lekt6112.jpg)
 Fig.:
-1845 - 1878 Professor of Indological and Oriental Philology at the University of Copenhagen
-(Image source: [Details](/en/licenses#lekt6112))
+1845 - 1878 Profesor Filologi Indologis dan Oriental di Universitas Kopenhagen
+(Sumber gambar: [Details](/en/licenses#lekt6112))
 :::: indent
 **Westergaard**, Niels Ludvig \&lt;1815-1878\&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 ::::
 :::
-## 61.5. The Benedictive (⟪आशीर्लिङ्⟫)
+## 61.5. Benediktif (⟪आशीर्लिङ्⟫)
 
 ::: grammar-box
 **Meaning:**
@@ -585,11 +585,11 @@ e.g. ⟪बुध्यासम्⟫ "may I know!"
 **(strong-grade) root + ⟪ै⟫ + sī(y) + secondary ending**
 
 ::: indent
-e.g.
-⟪जि⟫ : ⟪जेषीय⟫ "may I conquer for my own benefit!"
-⟪बुध्⟫ : ⟪बोधिषीय⟫ "may I know"
+mis.
+⟪जि⟫ : ⟪जेषीय⟫ "semoga saya menaklukkan untuk kepentingan saya sendiri!"
+⟪बुध्⟫ : ⟪बोधिषीय⟫ "semoga saya mengetahui"
 :::
-**The rules for the form of the root in detail can be found in Kielhorn, Grammar § 380ff.**
+**Aturan-aturan mengenai bentuk akar secara rinci dapat ditemukan dalam Kielhorn, Tata Bahasa § 380ff.**
 
 Paradigm:
 
@@ -612,15 +612,15 @@ Santa Cruz Basilica, Kochi = കൊച്ചി
 ## 61.6. The Conditional (⟪ऌङ्⟫)
 
 ::: grammar-box
-**The Conditional (⟪ऌङ्⟫) is used when one wishes to express in conditional sentences that what is stated as the condition is not the case / has not been the case / will not be the case. The Conditional must be used in such sentences in both the conditional clause and the main clause.**
+**Kondisional (⟪ऌङ्⟫) digunakan ketika seseorang ingin menyatakan dalam kalimat kondisional bahwa apa yang dinyatakan sebagai kondisi tidak terjadi / belum terjadi / tidak akan terjadi. Kondisional harus digunakan dalam kalimat-kalimat tersebut, baik pada klausa kondisional maupun klausa utama.**
 :::
-Example:
+Contoh:
 
 ::: indent
-⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "If it had rained well (or were to rain), there would be abundant food. (But it has not (sufficiently) rained.)"
+⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Jika hujan turun dengan baik (atau akan turun), maka akan ada makanan yang melimpah. (Tetapi hujan tidak cukup.)"
 :::
 ::: grammar-box
-**Formation of the Conditional (⟪ऌङ्⟫):**
+**Pembentukan Kondisional (⟪ऌङ्⟫):**
 
 **Augment + stem of the simple future (⟪ऌत्⟫) + secondary ending**
 
@@ -660,7 +660,7 @@ Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 :::
 ## 61.8. Remaining Pronouns
 
-### 61.8.1. Personal pronouns of the dual
+### 61.8.1. Kata Ganti Orang Dwivachana
 
 Kielhorn, Grammar § 177:
 
@@ -715,7 +715,7 @@ Feminine (⟪स्त्री⟫)
 :::
 ## 61.9. Release into the Ocean of Sanskrit Literature: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
-After completing the Sanskrit course, the actual "swimming" in the ocean of Sanskrit literature only begins. Since this ocean is full of obstacles, it is appropriate to begin this new phase of life with an invocation of Gaṇeśa:
+Setelah menyelesaikan kursus Sanskerta, "berenang" yang sebenarnya di lautan literatur Sanskerta baru dimulai. Karena lautan ini penuh dengan rintangan, adalah tepat untuk memulai fase kehidupan baru ini dengan seruan kepada Gaṇeśa:
 
 ::: media
 ![](/images/lekt6101.webp)
@@ -743,12 +743,12 @@ Tāla: Rūpaka: o |4
 
 ::: media
 ![](/images/lekt6119.webp)
-Fig.: Melody, referenced to c, can be transposed depending on vocal range.
-(Image source: [Details](/en/licenses#lekt6119))
+Fig.: Melodi, yang dirujuk ke c, dapat ditransposisikan tergantung pada jangkauan vokal.
+(Sumber gambar: [Details](/en/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ stands at the beginning of instruction in Kannarese music. See the video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Accessed on 2009-03-05 
+ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ berada di awal instruksi dalam musik Kannarese. Lihat video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Diakses pada 2009-03-05
 
-After you have now learned the basics of Sanskrit, you are hopefully like the toddlers in the video: sometimes clumsy, but eager to learn and full of curiosity, and enjoying the process. Keep "a beginner's mind" until the end of your life.
+Setelah Anda sekarang telah mempelajari dasar-dasar Sanskerta, semoga Anda seperti balita-balita dalam video: kadang-kadang canggung, tetapi bersemangat untuk belajar dan penuh rasa ingin tahu, serta menikmati prosesnya. Pertahankan "pikiran pemula" hingga akhir hidup Anda.
 
 ::: center
 This is your wish from your Alois Payer
@@ -783,7 +783,7 @@ END OF THE SANSKRIT COURSE
 
 **lekt6113:** Thailand - เมืองไทย [Image source: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, non-commercial use, no derivatives)]
 
-**lekt6112:** 1845 - 1878 Professor of Indological and Oriental Philology at the University of Copenhagen
+**lekt6112:** 1845 - 1878 Profesor Filologi Indologis dan Oriental di Universitas Kopenhagen
 
 **lekt6114:** Santa Cruz Basilica, Kochi = കൊച്ചി [Image source: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Accessed on 2009-03-09. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribution, non-commercial use)]
 

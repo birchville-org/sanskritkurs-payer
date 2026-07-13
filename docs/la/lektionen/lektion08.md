@@ -164,7 +164,7 @@ Nota: \* ante formam significat hanc formam in Sanscrito non occurrere, sed theo
 
 Haec formata ad quodlibet nomen formari possunt et in operibus Sanscriticis scientificis valde frequenter occurrunt.
 
-## 8.4. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.")
+## 8.4. Classis praesentis octava (tanādi = ⟪तनादि⟫ = "tan etc.")
 
 ::: grammar-box
 **Stammbildung:**
@@ -189,7 +189,7 @@ Radix principalis classis octavae est **kṛ** 8 U (⟪कृ⟫) "facere, agere
 - 3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫
 :::
 
-## 8.5. Wortliste
+## 8.5. Vocabularium
 
 **Haec verba discite:**
 
@@ -225,7 +225,7 @@ Tab.: **likh** (⟪लिख्⟫) : Stylus Batarum (Sumatra), quale fortasse i
 - **sukha** n. ⟪सुख⟫ : felicitas, eudaimonia
 - **duḥkha** n. ⟪दुःख⟫ : infelicitas, dolor
 
-## 8.6. Übung
+## 8.6. Exercitium
 
 **A) Explicare sequentia nomina per indicium radicis, a qua derivatum est, et suffixi nominalis. Genus et significationem praebere:**
 1. lobha
@@ -275,7 +275,7 @@ Tab.: **likh** (⟪लिख्⟫) : Stylus Batarum (Sumatra), quale fortasse i
 10. Quid deorum desiderant?
 11. Quae est causa?
 
-## 8.7. Lese- und Übersetzungsübung
+## 8.7. Exercitium legendi et vertendi
 
 1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
 2. ⟪कविर्देवं⟫ ⟪यजते⟫ |

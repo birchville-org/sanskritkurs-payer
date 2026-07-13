@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 16
+# ܬܪܓܡܬܐ 16
 
 A) Convert the following expressions into Tatpuruṣa compounds and translate them:
 
@@ -34,23 +34,23 @@ A) Convert the following expressions into Tatpuruṣa compounds and translate th
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫ — ⟪देवस्तुतिः⟫
 
-B) Resolve the following compounds in Sanskrit, form sentences with inflected nouns, and translate:
+B) פתחו את הצירופים הבאים בסנסקריט, צרו משפטים עם שמות עצם מנושאים, ותרגמו:
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
-⟪पुण्यवान्वैश्यस्य⟫ ⟪पुत्रो⟫ ⟪देवानामिन्द्रस्य⟫ ⟪लोकं⟫ ⟪गच्छति⟫ ⟪।⟫ (or: ⟪पुण्यवतो⟫ ⟪वैश्यस्य⟫ ⟪पुत्रो⟫...)
-The meritorious son of a Vaiśya goes to the heaven of the lord of gods. (or: The son of a meritorious Vaiśya...)
+⟪पुण्यवान्वैश्यस्य⟫ ⟪पुत्रो⟫ ⟪देवानामिन्द्रस्य⟫ ⟪लोकं⟫ ⟪गच्छति⟫ ⟪।⟫ (או: ⟪पुण्यवतो⟫ ⟪वैश्यस्य⟫ ⟪पुत्रो⟫...)
+בנו המועיל של ויישה עולה לשמיים של אלוהי האלים. (או: בנו של ויישה מועיל...)
 
 ⟪२⟫. ⟪पुण्यकरणं⟫ ⟪स्वर्गमार्गः⟫ ⟪।⟫
-⟪पुण्यस्य⟫ ⟪करणं⟫ ⟪स्वर्गस्य⟫ ⟪मार्गः⟫ ⟪।⟫ (or: ⟪पुण्यानां⟫ ⟪करणं⟫ ⟪स्वर्गं⟫ ⟪मार्गः⟫ ⟪।⟫)
-Doing what is meritorious is the path to heaven.
+⟪पुण्यस्य⟫ ⟪करणं⟫ ⟪स्वर्गस्य⟫ ⟪मार्गः⟫ ⟪।⟫ (או: ⟪पुण्यानां⟫ ⟪करणं⟫ ⟪स्वर्गं⟫ ⟪मार्गः⟫ ⟪।⟫)
+עשיית מה שהוא מועיל היא הדרך לשמיים.
 
 ⟪३⟫. ⟪न⟫ ⟪साधुः⟫ ⟪पशुवन्नरधेनुलोभः⟫ ⟪।⟫
-⟪न⟫ ⟪साधुः⟫ ⟪पशुवतो⟫ ⟪नरस्य⟫ ⟪धेनूनां⟫ ⟪लोभः⟫ ⟪।⟫ (or: ...⟪धेनोर्लोभः⟫ ⟪।⟫)
-The greed of the man rich in cattle for cows / for the cow is not good.
+⟪न⟫ ⟪साधुः⟫ ⟪पशुवतो⟫ ⟪नरस्य⟫ ⟪धेनूनां⟫ ⟪लोभः⟫ ⟪।⟫ (או: ...⟪धेनोर्लोभः⟫ ⟪।⟫)
+חמדנותו של האדם העשיר בבהמות בקר כלפי בהמות בקר / כלפי הפרה אינה טובה.
 
-⟪४⟫. ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मयज्ञैस्तु⟫ ⟪स्वर्गसुखमाप्नुवन्ति⟫ ⟪।⟫
-⟪न⟫ ⟪पशूनां⟫ ⟪यज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मस्य⟫ ⟪यज्ञैस्तु⟫ ⟪स्वर्गस्य⟫ ⟪सुखमाप्नुवन्ति⟫ ⟪।⟫
-With animal sacrifices people do not go to heaven. With (non-violent) sacrifices of righteousness, however, they attain heavenly bliss.
+⟪ܐܘܟܠ ܕܒܝܬ ܣܓܪ ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪४⟫. ⟪ܒܬ ܣܓܪ ܕܟܘܢܝ̈ܐ ܠܐ ܒܪ ܢܫܐ⟪न⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪पशुयज्ञैर्नराः⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪स्वर्गं⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪गच्छन्ति⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪।⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪धर्मयज्ञैस्तु⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪स्वर्गसुखमाप्नुवन्ति⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪।⟫
+⟪ܒܬ ܣܓܪ ܕܟܘܢܝ̈ܐ⟪न⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪पशूनां⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪यज्ञैर्नराः⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪स्वर्गं⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪गच्छन्ति⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪।⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪धर्मस्य⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪यज्ञैस्तु⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪स्वर्गस्य⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪सुखमाप्नुवन्ति⟫ ⟪ܠܐ ܢܚܡ ܒܫܡܝ̈ܐ⟪।⟫
+ܒܬ ܣܓܪ ܕܟܘܢܝ̈ܐ ܠܐ ܒܪ ܢܫܐ
 
 ⟪५⟫. ⟪द्विजदासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
 ⟪द्विजानां⟫ ⟪दासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
@@ -58,7 +58,7 @@ With animal sacrifices people do not go to heaven. With (non-violent) sacrifices
 
 ⟪६⟫. ⟪बालब्राह्मणपुत्राः⟫ ⟪सत्यवन्नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
 ⟪बा्ला⟫ ⟪ब्राह्मणानां⟫ ⟪पुत्राः⟫ ⟪स्त्यवन्तं⟫ ⟪नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-The young Brahmin sons listen to the truthful man.
+ܣܝܦ̈ܐ ܕܒܪܝܬܐ ܕܟ̈ܗܢ̈ܐ ܫܡܥ̈ܝܢ ܠܗܘܢ ܕܐܝܬ ܠܗܘܢ ܟ̈ܕܒܐ.
 
 ⟪७⟫. ⟪बलवत्क्षत्रिया⟫ ⟪धनवच्छत्रुनगरं⟫ ⟪जयन्ति⟫ ⟪।⟫
 ⟪बलवन्तः⟫ ⟪क्षत्रिया⟫ ⟪धनवतां⟫ ⟪शत्रूनां⟫ ⟪नगरं⟫ ⟪जयन्ति⟫ ⟪।⟫
@@ -66,11 +66,11 @@ The powerful Kṣatriyas conquer the rich city of the enemies.
 
 ⟪८⟫. ⟪ऋष्युक्त्या⟫ ⟪सत्यमुच्यते⟫ ⟪।⟫
 ⟪ऋषीणामुक्त्या⟫ ⟪सत्यमुच्यते⟫ ⟪।⟫
-The word of the Vedic sages speaks the truth.
+ܡ̈ܠܬܐ ܕܟ̈ܗܢ̈ܝܠ̈ܐ ܕܬܘܪܬܐ ܡܠ̈ܠ̈ܝܢ ܟ̈ܕܒܐ.
 
 ⟪९⟫. ⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪।⟫
 ⟪बलवन्तो⟫ ⟪योधा⟫ ⟪ब्राह्मणानां⟫ ⟪ग्रामं⟫ ⟪गताः⟫ ⟪।⟫
-The strong warriors have gone to the Brahmin village.
+ܐܝܠ̈ܦܬܐ ܕܓܒܪ̈ܝܢ ܠܟ̈ܗܢ̈ܐ ܫܪܩܘ.
 
 ⟪१०⟫. ⟪पुण्यवद्वैश्येष्टवेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
 ⟪पुन्यवतो⟫ ⟪वैश्यस्येष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजां⟫ ⟪करोति⟫ ⟪।⟫
@@ -83,9 +83,9 @@ Fig.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर
 :::
 ---
 
-## Declension Patterns
+## ܕܽܘܓܡܶܐ ܕܡܰܛܝܳܢܽܘܬܳܐ
 
-A) Form all previously learned cases for the following words as examples of the declension classes learned so far.
+A) Bildet alle zuvor gelernten Fälle für die folgenden Wörter als Beispiele der bisher gelernten Deklinationsklassen.
 
 ::: grammar-box
 ⟪१⟫. **⟪नर⟫** (m.)
@@ -221,13 +221,13 @@ A) Form all previously learned cases for the following words as examples of the 
 :::
 ---
 
-## Additional Exercises
+## Additional ܬܪܓܠܐs
 
 B) Translate and resolve all compounds into Sanskrit:
 
 ⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪१⟫.⟪२⟫ ⟪॥⟫
-⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ (or: ⟪वृत्तीनां⟫ ⟪निरोधः⟫) ⟪।⟫
-Yoga is the cessation of mental activity.
+⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ (أو: ⟪वृत्तीनां⟫ ⟪निरोधः⟫) ⟪।⟫
+اليوغا هي كفاية النشاط العقلي.
 
 ⟪२⟫. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫
 The specific duty of the Brāhmaṇa is: study of the Vedas, teaching of the Vedas, performing sacrifices as the patron, performing sacrifices on behalf of others, giving gifts to Brāhmaṇas, receiving gifts.
@@ -245,17 +245,17 @@ The specific duty of a Vaiśya is: study of the Vedas, performing sacrifices as 
 The specific duty of a Śūdra is obedient service to the twice-born, economic activity, and activity as an artisan and showman.
 
 ⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫
-The duty of all is: non-violence, truthfulness, purity, not murmuring about one's lot, freedom from malice, and patient forbearance.
+ܟܘܪܒܐ ܕܟܠ ܗוּܝ: ܠܐ ܫܘܬܦܐ, ܩܛܝܪܘܬܐ, ܨܚܘܬܐ, ܠܐ ܡܠܠܢ ܥܠ ܦܘܣܩܗ, ܫܪܝܪܘܬܐ ܡܢ ܥܒܝܕܐ, ܘܫܟܠܢܘܬܐ.
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
 ::: deleteme-box Erklärungen
-Sentence 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nom. Acc.: Dvandva, denoting the two "things"
-Sentence 8: **⟪कर्म⟫** Nom., Acc. sg. Neuter to ⟪कर्मन्⟫ "act"
-Sentence 13: **⟪सर्वेषाम्⟫** Gen. pl. masc. to ⟪सर्व⟫ "each, all" (pronoun, not declined like deva)
+ܡܠܬܐ 7: **⟪कृषिपाशुपाल्ये⟫** ܬܐܝܬܐ, ܢܘܟܪܐ: ܕܘܬܒܐ, ܡܠܦܢ ܕܝܠܗ ܬܪܥܝܢ "ܡܕܒܪ"
+ܡܠܬܐ 8: **⟪कर्म⟫** ܢܘܟܪܐ, ܢܘܩܠܐ. ܣܡܟܐ ܠ⟪कर्मन्⟫ "ܡܕܒܪ"
+ܡܠܬܐ 13: **⟪सर्वेषाम्⟫** ܣܡܟܐ. ܦܠܗ. ܢܘܩܠܐ ܠ⟪सर्व⟫ "ܟܠ, ܟܠ" (ܡܠܦܢܐ, ܠܐ ܫܘܬܦܐ)
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
-The rod brings about the acquisition and secure possession of philosophy, Vedic studies, and economics. The handling of the rod is politics.
+ܟܘܪܒܐ ܡܫܬܥܝ ܠܩܪܒܐ ܘܫܟܢܐ ܕܦܠܣܦܬܐ, ܩܪܝܢ ܕܟܘܬܒܐ, ܘܩܪܒܢܘܬܐ. ܟܘܪܒܐ ܕܟܠ ܗוּܝ.
 
 ::: media
 ![](/images/uebung024.webp)

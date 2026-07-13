@@ -7,9 +7,9 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 55
+# 第55课
 
-## 55.1. Der a-Aorist (Aorist mit Themavokal)
+## 55.1. a-词干前字（带主题元音的前字）
 
 ::: grammar-box
 **a-词干不定过去时（a-Aorist）的构成方式如同第六类现在时（⟪लङ्⟫）的不定过去时（⟪तुदादि⟫），即：**
@@ -24,7 +24,7 @@ status: stable
 
 **Liste of roots that have this aorist, in Kielhorn, Grammar §340.**
 :::
-Example:
+示例：
 
 ⟪सिच्⟫ 6U “浇洒”
 

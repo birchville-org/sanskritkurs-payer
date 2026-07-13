@@ -133,7 +133,7 @@ Solvitur etiam: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृ
 
 ⟪बुद्धरक्षिता⟫ = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "quae a Buddha custodita est" (nomen proprium)
 
-## 15.5. Zerlegung von Komposita (außer Dvandvas)
+## 15.5. Resolutio compositorum (praeter Dvandvas)
 
 ::: grammar-box
 Quamvis in Sanscrito composita quavis longitudine formari possint atque saepissime formentur (composita ex 10 ad 30 membris non sunt rara!), tamen — exceptis Dvandvis — omnia composita progressive hierarchice in duo partes dividuntur:
@@ -235,7 +235,7 @@ e.g.
 9.  PPP + PPP negatum: "partim", e.g. ⟪कृताकृतम्⟫ = "partim factum"
 10.  ⟪द्विगुसमासः⟫ : numerale in parte priori
 
-## 15.8. Wortliste
+## 15.8. Vocabularium
 
 ⟪पुष्कल⟫ 3: pulcher, splendidus, copiosus
 
@@ -389,7 +389,7 @@ Solve the following compounds as Tatpuruṣa in Sanskrit and provide a German tr
 
 ⟪३०⟫. ⟪सत्यवदनम्⟫
 
-## 15.10. Übung 2
+## 15.10. Exercitium II
 
 Solve the following Tatpuruṣa as in Exercise 1:
 

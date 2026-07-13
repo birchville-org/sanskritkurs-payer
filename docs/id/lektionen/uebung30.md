@@ -8,10 +8,10 @@ last_reconstructed: 2026-05-15
 
 # Exercise 30
 
-A) Convert the following verbal forms into the corresponding optative forms with respect to person, number, and genus verbi:
+A) Ubah bentuk-bentuk verbal berikut ke dalam bentuk optatif yang sesuai mengenai orang, jumlah, dan genus verbi:
 
 ::: grammar-box
-| Present | Optative |
+| Presente | Optatif |
 | :--- | :--- |
 | ⟪१⟫. **⟪ह्रियते⟫** | ⟪ह्रियेत⟫ |
 | ⟪२⟫. **⟪घ्नन्ति⟫** | ⟪हन्युः⟫ |
@@ -79,22 +79,22 @@ A) Convert the following verbal forms into the corresponding optative forms with
 | ⟪६४⟫. **⟪अदन्ति⟫** | ⟪अद्युः⟫ |
 | ⟪६५⟫. **⟪अध्यापयन्ति⟫** | ⟪अध्यापयेयुः⟫ |
 :::
-B) Translate the following sentences and resolve the Sanskrit compounds:
+B) Terjemahkan kalimat-kalimat berikut dan selesaikan majas Sanskerta:
 
 ⟪१⟫. **⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫**
 (⟪आर्याणि⟫ ⟪सत्यानि⟫)
-Buddha proclaimed his teaching to people for the welfare of the noble ones, so that they might recognize the noble truths.
+Buddha mengajarkan ajarannya kepada orang-orang demi kesejahteraan para bangsawan, agar mereka dapat mengenali kebenaran mulia.
 
 ⟪२⟫. **⟪ये⟫ ⟪नरा⟫ ⟪देवान्न⟫ ⟪यजेरन्व्रतानि⟫ ⟪च⟫ ⟪न⟫ ⟪चरेयुरनृतं⟫ ⟪च⟫ ⟪वदेयुरधर्मं⟫ ⟪च⟫ ⟪कुर्युस्ते⟫ ⟪सुखं⟫ ⟪नाप्नुयुर्मृत्वा⟫ ⟪च⟫ ⟪नरकं⟫ ⟪पतेयुः⟫ ⟪॥२॥⟫**
-People who do not sacrifice to the gods, do not keep vows, lie, and do wrong, do not become happy and fall into a hell after their death.
+Orang-orang yang tidak berkorban kepada para dewa, tidak menjaga sumpah, berdusta, dan melakukan kesalahan, tidak menjadi bahagia dan jatuh ke neraka setelah kematian mereka.
 
 ⟪३⟫. **⟪ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो⟫ ⟪ज्ञातिं⟫ ⟪दासमाययति⟫ ⟪॥३॥⟫**
 (⟪आर्यपुत्रः⟫ — ⟪आर्याणां⟫ ⟪पुत्रः⟫)
-The noble son wishes that his relatives come and has a servant fetch the relatives.
+Putra mulia berharap agar kerabatnya datang dan menyuruh pelayan untuk menjemput para kerabat.
 
 ⟪४⟫. **⟪अन्नलोभाद्दुःखं⟫ ⟪जायेतेति⟫ ⟪प्राप्तज्ञानः⟫ ⟪सुफलानि⟫ ⟪नाश्नाति⟫ ⟪॥४॥⟫**
 (⟪अन्नस्य⟫ ⟪लोभात्⟫ ⟪।⟫ ⟪प्राप्तं⟫ ⟪ज्ञानं⟫ ⟪येन⟫ ⟪सः⟫)
-Having realized that suffering arises from greed for food, he does not eat the good fruits.
+Setelah menyadari bahwa penderitaan timbul dari keserakahan akan makanan, ia tidak memakan buah-buahan yang baik.
 
 ⟪५⟫. **⟪क्रयेण⟫ ⟪च⟫ ⟪विक्रयेण⟫ ⟪च⟫ ⟪वैश्या⟫ ⟪जीवेयुरिति⟫ ⟪वैश्यधर्मः⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪वैश्यपुत्राः⟫ ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫ ⟪॥५॥⟫**
 (⟪वैश्यानां⟫ ⟪पुत्राः⟫)
@@ -106,7 +106,7 @@ When a wrongdoer has been purified of his evil in a hell, he is reborn.
 
 ⟪७⟫. **⟪ब्राह्मणपुत्रा⟫ ⟪वेदाध्यायांश्च⟫ ⟪स्मृत्यध्यायांश्च⟫ ⟪पुनः⟫ ⟪पुनरधीयीरन्नित्यार्यधर्मः⟫ ⟪॥७॥⟫**
 (⟪ब्राह्मणानां⟫ ⟪पुत्राः⟫ ⟪।⟫ ⟪वेदानामध्यायांश्च⟫ ⟪स्मृतीनामध्यायांश्च⟫)
-The duty of the noble is that sons of Brahman constantly study the sections of the Vedas and the tradition.
+Kewajiban orang mulia adalah bahwa putra-putra Brahmana senantiasa mempelajari bagian-bagian Veda dan tradisi.
 
 ⟪८⟫. **⟪यो⟫ ⟪ब्राह्मणः⟫ ⟪शूद्रां⟫ ⟪कामयेत⟫ ⟪स⟫ ⟪सद्ब्राह्मणो⟫ ⟪न⟫ ⟪स्यात्⟫ ⟪।⟫ ⟪सद्ब्राह्मणो⟫ ⟪हि⟫ ⟪ब्राह्मणीं⟫ ⟪कामयेत⟫ ⟪॥८॥⟫**
 (⟪सन्⟫-⟪ब्राह्मणः⟫)
@@ -114,7 +114,7 @@ Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Br
 
 ⟪९⟫. **⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫**  
 **⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫** (Manu IV.138)  
-Speak truths that are pleasant; do not speak unpleasant truths. Do not speak pleasant untruths; this is the eternal law.
+Ucapkan kebenaran yang menyenangkan; jangan ucapkan kebenaran yang tidak menyenangkan. Jangan ucapkan kebohongan yang menyenangkan; ini adalah hukum abadi.
 
 ::: media
 ![](/images/uebung048.webp)
@@ -128,51 +128,51 @@ Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्त�
 Determine and translate the following word forms:
 
 ::: grammar-box
-| Word form | Determination | Meaning |
+| Bentuk kata | Penentuan | Makna |
 | :--- | :--- | :--- |
-| ⟪१⟫. **⟪भारे⟫** | Loc. sg. m. | on the load |
-| ⟪२⟫. **⟪अध्ययनम्⟫** | Nom./Acc. sg. n. | study |
-| ⟪३⟫. **⟪वस्तुतः⟫** | Adv. | in reality |
-| ⟪४⟫. **⟪वस्त्राणि⟫** | Nom./Acc. pl. n. | clothes |
-| ⟪५⟫. **⟪प्रतिमया⟫** | Instr. sg. f. | by an image |
-| ⟪६⟫. **⟪आचाराय⟫** | Dat. sg. m. | to the behavior |
-| ⟪७⟫. **⟪आचार्यैः⟫** | Instr. pl. m. | by teachers |
-| ⟪८⟫. **⟪अश्वेषु⟫** | Loc. pl. m. | on horses |
-| ⟪९⟫. **⟪ताम्⟫** | Acc. sg. f. | these |
-| ⟪१०⟫. **⟪वृत्त्यै⟫** | Dat. sg. f. | to the way of life |
-| ⟪११⟫. **⟪चरितस्य⟫** | Gen. sg. n. | of the life story |
-| ⟪१२⟫. **⟪अर्हता⟫** | Instr. sg. m. | by the Arhat |
-| ⟪१३⟫. **⟪शक्तीः⟫** | Acc. pl. f. | the powers |
-| ⟪१४⟫. **⟪कामम्⟫** | Adv. | at will |
-| ⟪१५⟫. **⟪भिक्षवे⟫** | Dat. sg. m. | to the monk |
-| ⟪१६⟫. **⟪भगवद्गीतायाम्⟫** | Loc. sg. f. | in the Bhagavadgītā |
-| ⟪१७⟫. **⟪भगवति⟫** | Loc. sg. m./n. | in the Venerable |
-| ⟪१८⟫. **⟪भक्त्याः⟫** | Abl./Gen. sg. f. | of love / from love |
-| ⟪१९⟫. **⟪स्थानात्⟫** | Abl. sg. n. | from the place |
-| ⟪२०⟫. **⟪स्थित्या⟫** | Instr. sg. f. | by the determination |
-| ⟪२१⟫. **⟪मात्रायै⟫** | Dat. sg. f. | to the measure |
-| ⟪२२⟫. **⟪प्रभृतौ⟫** | Loc. sg. f. | at the beginning |
-| ⟪२३⟫. **⟪हस्तेन⟫** | Instr. sg. m. | by the hand |
-| ⟪२४⟫. **⟪आदेः⟫** | Abl./Gen. sg. m. | of/from the beginning |
-| ⟪२५⟫. **⟪दिष्टिम्⟫** | Acc. sg. f. | the instruction |
+| ⟪१⟫. **⟪भारे⟫** | Loc. sg. m. | di atas beban |
+| ⟪२⟫. **⟪अध्ययनम्⟫** | Nom./Acc. sg. n. | studi |
+| ⟪३⟫. **⟪वस्तुतः⟫** | Adv. | pada kenyataannya |
+| ⟪४⟫. **⟪वस्त्राणि⟫** | Nom./Acc. pl. n. | pakaian |
+| ⟪५⟫. **⟪प्रतिमया⟫** | Instr. sg. f. | oleh sebuah gambar |
+| ⟪६⟫. **⟪आचाराय⟫** | Dat. sg. m. | kepada perilaku |
+| ⟪७⟫. **⟪आचार्यैः⟫** | Instr. pl. m. | oleh para guru |
+| ⟪८⟫. **⟪अश्वेषु⟫** | Loc. pl. m. | di atas kuda-kuda |
+| ⟪९⟫. **⟪ताम्⟫** | Acc. sg. f. | ini |
+| ⟪१०⟫. **⟪वृत्त्यै⟫** | Dat. sg. f. | kepada cara hidup |
+| ⟪११⟫. **⟪चरितस्य⟫** | Gen. sg. n. | dari kisah hidup |
+| ⟪१२⟫. **⟪अर्हता⟫** | Instr. sg. m. | oleh Arhat |
+| ⟪१३⟫. **⟪शक्तीः⟫** | Acc. pl. f. | kekuatan-kekuatan |
+| ⟪१४⟫. **⟪कामम्⟫** | Adv. | sesuai kehendak |
+| ⟪१५⟫. **⟪भिक्षवे⟫** | Dat. sg. m. | kepada biksu |
+| ⟪१६⟫. **⟪भगवद्गीतायाम्⟫** | Loc. sg. f. | dalam Bhagavadgītā |
+| ⟪१७⟫. **⟪भगवति⟫** | Loc. sg. m./n. | dalam Yang Mulia |
+| ⟪१८⟫. **⟪भक्त्याः⟫** | Abl./Gen. sg. f. | dari cinta / dari kasih sayang |
+| ⟪१९⟫. **⟪स्थानात्⟫** | Abl. sg. n. | dari tempat |
+| ⟪२०⟫. **⟪स्थित्या⟫** | Instr. sg. f. | oleh penentuan |
+| ⟪२१⟫. **⟪मात्रायै⟫** | Dat. sg. f. | kepada ukuran |
+| ⟪२२⟫. **⟪प्रभृतौ⟫** | Loc. sg. f. | pada awal |
+| ⟪२३⟫. **⟪हस्तेन⟫** | Instr. sg. m. | oleh tangan |
+| ⟪२४⟫. **⟪आदेः⟫** | Abl./Gen. sg. m. | dari/dari awal |
+| ⟪२५⟫. **⟪दिष्टिम्⟫** | Acc. sg. f. | instruksi |
 | ⟪२६⟫. **⟪रुद्रः⟫** | Nom. sg. m. | Rudra |
-| ⟪२७⟫. **⟪मृत्यौ⟫** | Loc. sg. m. | in death |
-| ⟪२८⟫. **⟪मृतिः⟫** | Nom. sg. f. | death |
-| ⟪२९⟫. **⟪द्विजातये⟫** | Dat. sg. m./f. | to the Twice-born |
-| ⟪३०⟫. **⟪जातिभिः⟫** | Instr. pl. f. | by the births |
-| ⟪३१⟫. **⟪व्याघ्रान्⟫** | Acc. pl. m. | the tigers |
-| ⟪३२⟫. **⟪पूजाः⟫** | Nom./Acc. pl. f. | the reverences |
-| ⟪३३⟫. **⟪शत्रोः⟫** | Abl./Gen. sg. m. | of/from the enemy |
-| ⟪३४⟫. **⟪उक्तिभ्यः⟫** | Dat./Abl. pl. f. | to/from the utterances |
-| ⟪३५⟫. **⟪महान्ति⟫** | Nom./Acc. pl. n. | the great |
-| ⟪३६⟫. **⟪महति⟫** | Loc. sg. m./n. | in the great |
-| ⟪३७⟫. **⟪सा⟫** | Nom. sg. f. | she, these |
-| ⟪३८⟫. **⟪तस्यै⟫** | Dat. sg. f. | to her |
-| ⟪३९⟫. **⟪तस्मिन्⟫** | Loc. sg. m./n. | therein, in this |
-| ⟪४०⟫. **⟪सते⟫** | Dat. sg. m./n. | to the Being / Good |
+| ⟪२७⟫. **⟪मृत्यौ⟫** | Loc. sg. m. | dalam kematian |
+| ⟪२८⟫. **⟪मृतिः⟫** | Nom. sg. f. | kematian |
+| ⟪२९⟫. **⟪द्विजातये⟫** | Dat. sg. m./f. | kepada Dvija/Dua Kali Lahir |
+| ⟪३०⟫. **⟪जातिभिः⟫** | Instr. pl. f. | oleh kelahiran-kelahiran |
+| ⟪३१⟫. **⟪व्याघ्रान्⟫** | Acc. pl. m. | harimau-harimau |
+| ⟪३२⟫. **⟪पूजाः⟫** | Nom./Acc. pl. f. | penghormatan-penghormatan |
+| ⟪३३⟫. **⟪शत्रोः⟫** | Abl./Gen. sg. m. | dari/musuh |
+| ⟪३४⟫. **⟪उक्तिभ्यः⟫** | Dat./Abl. pl. f. | kepada/dari ucapan-ucapan |
+| ⟪३५⟫. **⟪महान्ति⟫** | Nom./Acc. pl. n. | yang agung |
+| ⟪३६⟫. **⟪महति⟫** | Loc. sg. m./n. | dalam yang agung |
+| ⟪३७⟫. **⟪सा⟫** | Nom. sg. f. | dia, ini |
+| ⟪३८⟫. **⟪तस्यै⟫** | Dat. sg. f. | kepadanya |
+| ⟪३९⟫. **⟪तस्मिन्⟫** | Loc. sg. m./n. | di dalamnya, dalam ini |
+| ⟪४०⟫. **⟪सते⟫** | Dat. sg. m./n. | kepada Keberadaan / Kebajikan |
 :::: media
 ![](/images/uebung047.webp)
 Fig.: ⟪भक्त्याः⟫
-(Image source: [Details](/en/licenses#uebung047))
+(Sumber gambar: [Rincian](/en/licenses#uebung047))
 ::::
 :::

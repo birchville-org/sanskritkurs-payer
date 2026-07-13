@@ -19,7 +19,7 @@ status: stable
 :::
 ## 3.1. Nominativ singular dal feminin
 
-### 3.1.1. Nominativ Singular auf -s
+### 3.1.1. Nominativ singular sin -s
 
 Anche las suentas nominalas, che finischan cun in vocal, furman il nominativ singular cun **-s**:
 
@@ -51,7 +51,7 @@ Il nominativ singular vegn format senza desinentza:
   (**-u-** davant vocala daventa **-v-**, perquai **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominativ Plural Maskulinum und Femininum
+## 3.3. Nominativ plural masculin e feminin
 
 ::: grammar-box
 La desinenza dal nominativ plural en il masculin ed il feminin è **-as**.
@@ -131,7 +131,7 @@ p.ex.
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas èn naschidnas" = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
-## 3.6. Wortliste
+## 3.6. Glista da pleds
 
 **Imparar las suentas suventas:**
 
@@ -193,7 +193,7 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **muditā** f. = ⟪मुदिता⟫ : gaud, spezialmain gaud cun auters (cuntrari a gelusia).
 
-## 3.7. Übung
+## 3.7. Exercizi
 
 **A) Metter las suentas en il plural:**
 

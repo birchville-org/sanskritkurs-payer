@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 30
 
-## 30.1. Die 9. Präsensklasse (⟪क्र्यादि⟫ = "⟪क्री⟫ u.s.w.")
+## 30.1. La 9. classa dal temp preschent (⟪kryādi⟫ = "⟪krī⟫ e.u.v.")
 
 ::: grammar-box
 **Educaziun:**
@@ -260,7 +260,7 @@ Exempels:
 
 ⟪पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना⟫ ⟪रोदिति⟫
 :::
-## 30.6. Wortliste
+## 30.6. Glista da pleds
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : cumprar
 
@@ -380,7 +380,7 @@ daquest:
 :::
 ⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : etern, imperishevel, constant
 
-## 30.7. Übung
+## 30.7. Exercizi
 
 A) Convertir las formas verbales siguientes en formas optativas correspondientes a persona, número y género verbal:
 

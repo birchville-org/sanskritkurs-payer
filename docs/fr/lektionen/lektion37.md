@@ -20,7 +20,7 @@ Dans le premier cas, la frontière entre le cas vivant et l’adverbe est fluide
 
 ## 37.2. Usage adverbial des formes casuelles
 
-### 37.2.1. Akkusativ (⟪द्वितीया⟫)
+### 37.2.1. Accusatif (⟪dvitīyā⟫)
 
 ::: grammar-box
 L'accusatif (⟪द्वितीया⟫) peut être employé adverbialement pour les questions :
@@ -184,7 +184,7 @@ Fig. : ⟪क्व⟫
 | **-⟪धा⟫** | 1. Avec les adverbes de nombre, dans le sens « -fois », « -pluriel » :brpar ex. ⟪द्विधा⟫ « double » :br2. dans le sens « de la manière dont » :brpar ex. ⟪समधा⟫ « de la même manière » (à सम 3 « semblable ») |
 
 :::
-## 37.5. Adverbiale Komposita
+## 37.5. Composés adverbiaux
 
 ### 37.5.1. Compositions avec un adverbe ou un cas employé adverbialement comme second membre
 
@@ -373,7 +373,7 @@ Fig. : ⟪वृक्षः⟫
 :::
 ⟪मुख⟫ n. : Bouche, visage, partie antérieure, commencement
 
-## 37.10. Übung
+## 37.10. Exercice
 
 A) Répondez aux questions suivantes en sanskrit en utilisant les mots indiqués entre parenthèses. Traduisez les phrases interrogatives.
 

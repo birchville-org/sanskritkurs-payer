@@ -185,7 +185,7 @@ Exempla:
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
 :::
-## 34.6. Wortliste
+## 34.6. Vocabularium
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
@@ -260,7 +260,7 @@ Statua tauri Nandi, Collis Chamundi, Mysore.
 
 **⟪कन्या⟫ f.:** puella, virgo
 
-## 34.7. Übung
+## 34.7. Exercitium
 
 Forma perfecti personae, numeri et generis congruentia ex sequentibus formis verbalibus:
 
@@ -296,7 +296,7 @@ Forma perfecti personae, numeri et generis congruentia ex sequentibus formis ver
 30. ⟪कुप्यन्ति⟫
 31. ⟪इच्छन्ति⟫
 
-## 34.8. Übersetzungsübung
+## 34.8. Exercitium translationis
 
 Versa hanc sententiam e textu ⟪पद्मपुराण⟫ de donis Brahmānis dandis:
 

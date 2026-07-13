@@ -1,6 +1,6 @@
-# Devanāgarī = ⟪देवनागरी⟫
+# ܕܝܘܢܐܓܪܝ = ܕܝܘܢܐܓܪܝ
 
-## Script Exercise 4
+## Script ܬܪܓܠܐ 4
 
 ![](/images/schrift006.webp)
 
@@ -12,7 +12,7 @@ Writing:
 
 Note the mandatory writing of hṛ: ⟪हृ⟫
 
-## Exercise
+## ܬܪܓܠܐ
 
 A) Write in Devanāgarī:
 

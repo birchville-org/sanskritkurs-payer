@@ -1,26 +1,26 @@
 ---
-title: Lesson 14
-subtitle: "Expressing the relationship of what is designated by nouns: the genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)"
+title: Pelajaran 14
+subtitle: "Menyatakan hubungan yang ditunjuk oleh kata benda: genitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = akhiran kasus keenam)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
-category: "Grammar"
-status: stable
+category: "Tata Bahasa"
+status: stabil
 ---
 
 # Lesson 14
 
-## 14.1. The Expression of the Relationship of that Designated by Nouns: the Genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)
+## 14.1. Ungkapan Hubungan yang Ditunjuk oleh Kata Benda: Genitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = akhiran kasus keenam)
 
 ::: grammar-box
-If the relationship expressed by two nouns is to be designated, the genitive (ṣaṣṭhī f. "sixth case ending") is used. The genitive differs from all other cases in that it -- with few exceptions -- does not serve for the closer determination of the action expressed by the verb, but for the expression of the relationship between persons or things designated by nouns. Frequently the genitive stands in answer to the question: Whose?
+Jika hubungan yang dinyatakan oleh dua kata benda hendak ditunjuk, maka genitif (ṣaṣṭhī f. "akhiran kasus keenam") digunakan. Genitif berbeda dari semua kasus lainnya karena ia — dengan sedikit pengecualian — tidak berfungsi untuk penentuan lebih dekat atas tindakan yang dinyatakan oleh kata kerja, melainkan untuk ungkapan hubungan antara orang-orang atau hal-hal yang ditunjuk oleh kata benda. Seringkali genitif muncul sebagai jawaban atas pertanyaan: Milik siapa?
 :::
-Examples:
+Contoh-contoh:
 
 ⟪कवेः⟫ ⟪पुत्रः⟫ "The poet's son"
 
 ⟪धनस्य⟫ ⟪लोभः⟫ "Greed for wealth"
 
-⟪नगरस्यार्धम्⟫ "The half of the city"
+⟪नगरस्यार्धम्⟫ "Setengah dari kota"
 
 ⟪रामस्य⟫ ⟪कृतम्⟫ "The / One deed of Rāma"
 
@@ -32,19 +32,19 @@ The normal word order is:
 **Genitive and PPP:**
 
 ::: grammar-box
-With PPPs, the genitive can stand instead of the instrumental (tṛtīyā) for the agent (kartṛ); In the construction with the instrumental, the PPP is regarded as a passive verbal form (that standing in the instrumental designates the agent), in the construction with the genitive, the PPP is regarded as a noun or adjective (that standing in the genitive is thus not actually an agent).
+Dengan PPP, genitif dapat berdiri sebagai pengganti instrumental (tṛtīyā) untuk agen (kartṛ); Dalam konstruksi dengan instrumental, PPP dianggap sebagai bentuk verbal pasif (yang berdiri dalam instrumental menunjuk pada agen), dalam konstruksi dengan genitif, PPP dianggap sebagai kata benda atau kata sifat (yang berdiri dalam genitif sehingga sebenarnya bukan agen).
 
-According to Pāṇini 2.3.67, with a PPP the genitive stands if the PPP has present meaning (see above), the instrumental if the PPP has past meaning:
+Menurut Pāṇini 2.3.67, dengan PPP genitif berdiri jika PPP memiliki makna sekarang (lihat di atas), instrumental jika PPP memiliki makna masa lalu:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "The fruit desired by Rāma = The fruit that Rāma desires at present"
+> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Buah yang diinginkan oleh Rāma = Buah yang saat ini diinginkan oleh Rāma"
 > 
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "The fruit that Rāma has desired"
+> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Buah yang telah diinginkan oleh Rāma"
 
-Naturally, with a PPP neuter singular, which is used as a verbal abstract -- i.e. as a noun -- the genitive stands.
+Secara alami, dengan PPP neuter singular, yang digunakan sebagai abstrak verbal -- yaitu sebagai kata benda -- genitif berdiri.
 :::
-## 14.2. Formation of Genitive Forms (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+## 14.2. Pembentukan Bentuk Genitif (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
-The genitive is formed for verbal stems with stem gradation from the weak stem.
+Bentuk genitif dibentuk untuk akar verbal dengan gradasi akar dari akar lemah.
 
 **Genitive of consonant-ending stems:**
 
@@ -63,13 +63,13 @@ After a consonant, the regular genitive endings are:
 | **paśu-mant-**:br**⟪पशुमन्त्⟫** | **paśu-mat-**:br**⟪पशुमत्⟫** | **paśu-mat-as**:br**⟪पशुमतस्⟫** | **paśu-mat-ām**:br**⟪पशुमताम्⟫** |
 
 :::
-**Genitive of vowel-ending stems, except for monosyllabic root nouns and diphthong-ending stems:**
+**Kasustafel untuk kata benda berakhiran vokal, kecuali untuk kata kerja akar monosilabel dan kata benda berakhiran diftong:**
 
 **Plural:**
 
 ::: grammar-box
 
-The genitive plural of vowel-ending stems is formed as follows:
+Bentuk genitif jamak dari kata benda berakhiran vokal dibentuk sebagai berikut:
 
 > **-long vowel of the stem + -nām**
 
@@ -92,7 +92,7 @@ The genitive plural of vowel-ending stems is formed as follows:
 
 ::: grammar-box
 
-The genitive singular of vowel-ending stems is formed irregularly and must be memorized well.
+Bentuk genitif tunggal dari stem berakhiran vokal dibentuk secara tidak teratur dan harus dihafal dengan baik.
 
 :::
 ::: center
@@ -126,19 +126,19 @@ The genitive singular of vowel-ending stems is formed irregularly and must be me
 
 ::: important
 
-For all nominal stems except masculines and neuters ending in -a, and except for pronouns, the form of the Genitive Singular is identical to that of the Ablative (pañcamī "fifth case ending") Singular!
+Untuk semua batang nomina kecuali maskulin dan netra yang berakhiran -a, serta kecuali untuk kata ganti, bentuk Genitif Tunggal identik dengan Ablatif (pañcamī "akhiran kasus kelima") Tunggal!
 
-Note that for stems ending in a consonant, the Ablative and Genitive Singular sound the same as the Accusative Plural Masculine and Feminine!
+Perhatikan bahwa untuk batang yang berakhiran konsonan, Ablatif dan Genitif Tunggal terdengar sama dengan Akusatif Jamak Maskulin dan Feminin!
 
 :::
-## 14.3. Further on the Use of the Genitive (⟪षष्ठी⟫)
+## 14.3. Lebih Lanjut tentang Penggunaan Genitif (⟪षष्ठी⟫)
 
 ::: grammar-box
-Contrary to the basic rule above, the genitive is used to express the object of certain verbs, e.g. verbs of remembrance:
+Bertentangan dengan aturan dasar di atas, genitif digunakan untuk menyatakan objek dari kata kerja tertentu, misalnya kata kerja mengingat:
 
 > ⟪देवानां⟫ ⟪स्मरति⟫ "He remembers the gods"
 
-With all these verbs, however, the object can also be in the accusative:
+Dengan semua kata kerja ini, objek juga dapat berada dalam kasus akusatif:
 
 > ⟪देवान्स्मरति⟫ "He remembers the gods"
 
@@ -153,21 +153,21 @@ More on this later.
 ::: media
 ![](/images/lekt1405.webp)
 Fig.: ⟪दीपाः⟫
-(Image source: [Details](/en/licenses#lekt1405))
+(Sumber gambar: [Details](/en/licenses#lekt1405))
 :::
-* **bala n.** (⟪बल⟫) : violence, power, strength; military force, army
-* **bāla 3** (⟪बाल⟫) : young, childish, foolish; m. boy
-* **bālā f.** (⟪बाला⟫) : young girl
-* **nara m.** (⟪नर⟫) : man, human being
-* **śatru m.** (⟪शत्रु⟫) : enemy
-* **loka m.** (⟪लोक⟫) : world; Sing. and Plur.: the people, the humans, the populace
-* **jala n.** (⟪जल⟫) : water
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : to be born, to arise, to appear
-  * **jan-a m.** (⟪जन⟫) : creature, human being, people
-* **vac 2 P** (vakti, no 3rd plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : to say, to speak to (accusative)
-  * **uk-ti f.** (⟪उक्ति⟫) : utterance, word
-  * **vac-ana n.** (⟪वचन⟫) : speaking, the word
-  * **vāk-ya n.** (⟪वाक्य⟫) : word, speech
+* **bala n.** (⟪बल⟫) : kekerasan, kekuatan; pasukan militer, tentara
+* **bāla 3** (⟪बाल⟫) : muda, kekanak-kanakan, bodoh; m. anak laki-laki
+* **bālā f.** (⟪बाला⟫) : gadis muda
+* **nara m.** (⟪नर⟫) : pria, manusia
+* **śatru m.** (⟪शत्रु⟫) : musuh
+* **loka m.** (⟪लोक⟫) : dunia; Tunggal dan Jamak: rakyat, manusia, penduduk
+* **jala n.** (⟪जल⟫) : air
+* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : lahir, muncul, tampak
+* **jan-a m.** (⟪जन⟫) : makhluk, manusia, rakyat
+* **vac 2 P** (vakti, tidak ada bentuk jamak ke-3!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : berkata, berbicara kepada (akusatif)
+* **uk-ti f.** (⟪उक्ति⟫) : ucapan, kata
+* **vac-ana n.** (⟪वचन⟫) : berbicara, kata
+* **vāk-ya n.** (⟪वाक्य⟫) : kata, pidato
 
 ## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Proverbs
 
@@ -185,7 +185,7 @@ Translate the following proverbs and memorize them:
 
 ## 14.6. Exercise
 
-**A) Form the Genitive Singular and Plural for the following words. Provide the meaning and gender of the words:**
+**A) Bentuklah Kasus Genitif Tunggal dan Jamak untuk kata-kata berikut. Berikan makna dan jenis kelamin kata tersebut:**
 
 ⟪१⟫. ⟪अनृत⟫
 

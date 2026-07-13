@@ -6,36 +6,36 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 42
+# ܬܪܓܡܬܐ 42
 
 Translate:
 
 ⟪१⟫. **⟪प्रकृत्यैव⟫ ⟪यः⟫ ⟪कर्माणि⟫ ⟪क्रियमाणानि⟫ ⟪पश्यति⟫ ⟪स⟫ ⟪आत्मानमकर्तरं⟫ ⟪पश्यति⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-He who sees that actions are performed solely by material nature (**⟪प्रकृति⟫**) sees that the Self (**⟪आत्मा⟫**) is inactive.
+ܕܐܝܟܘܬܐ ܕܚܙܐ ܕܦܠܚܢܐ ܒܨܪܘܪ̈ܝܬܐ ܠܒܕܩ (⟪प्रकृति⟫) ܚܙܐ ܕܠܘܦ̈ܢܐ (⟪आत्मा⟫) ܒܠܐ ܦܥܠ.
 
 ⟪२⟫. **⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 Kṛṣṇa is the father, mother, grandsire, and creator of this world.
 
 ⟪३⟫. **⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-"Teachers, fathers, sons, grandsires, fathers-in-law, and grandsons have assembled for battle. I do not wish to kill these!" — thus spoke Arjuna in the Bhagavadgītā.
+"ܡܕܪ̈ܒܝܢ ܘܐܒܗܬܐ ܘܒܪ̈ܝܢ ܘܐܒܗܬܐ ܕܐܒ̈ܗܢ ܘܚܬܝ̈ܠܐ ܘܒܪ̈ܗܝ ܕܚܬܐ ܟܢܫܘ ܠܦܠܚܢܐ. ܠܐ ܐܒܝ ܠܡܥܩܪ ܗܢܘܢ!" — ܕܡܠܠ ܐܪܦܘܢ ܒܗܓܕ̈ܐ.
 
 ⟪४⟫. **⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
 Poets praised fathers and mothers for attaining fatherhood (respectively, parenthood).
 
 ⟪५⟫. **⟪भर्त्रा⟫ ⟪भार्या⟫ ⟪भर्तव्या⟫ ⟪।⟫ ⟪तस्माद्भार्येत्युच्यते⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
-The wife is to be maintained by the husband. Therefore, she is called "bhāryā" (the one to be maintained).
+ܐܝܬܐ ܕܡܫܪܟܬ ܠܗ ܒܝܕ ܓܒܪܐ. ܠܗ ܢܝܚ ܕܡܬܩܪܐ "ܒܗܪܝܐ" (ܕܡܫܪܟܬ).
 
 ⟪६⟫. **⟪सत्पुत्रः⟫ ⟪पितृभ्यः⟫ ⟪पिण्डान्ददाति⟫ ⟪।⟫ ⟪पितृभिः⟫ ⟪पिण्डदानमश्यत⟫ ⟪एवं⟫ ⟪च⟫ ⟪सुखजीवो⟫ ⟪जीवितुं⟫ ⟪शक्यते⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
-A good son offers food oblations (**⟪पिण्ड⟫**) to his forefathers. Through the forefathers, the gift of food is consumed, and thus one can lead a happy life.
+ܒܪ ܬܝܒܐ ܢܚܘܬ ܓܪܡܐ (⟪पिण्ड⟫) ܠܗ ܠܐܒ̈ܘܗ. ܒܝܕ ܐܒ̈ܘܗ, ܓܪܡܐ ܕܢܚܘܬ ܝܬܒܠ, ܘܗܟܢ ܐܪܫ ܡܠܬ ܚܝܠܬ.
 
 ⟪७⟫. **⟪भ्रात्रा⟫ ⟪स्वसा⟫ ⟪न⟫ ⟪विवोड्धव्या⟫ ⟪।⟫ ⟪भातरि⟫ ⟪स्वसारं⟫ ⟪कामयमाने⟫ ⟪देवाः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 A brother must not marry his sister. If a brother desires his sister, the gods become angry.
 
 ⟪८⟫. **⟪क्थं⟫ ⟪भर्तुर्भ्रातोच्यते⟫ ⟪।⟫ ⟪देवेति⟫ ⟪भर्तुर्भ्राता⟫ ⟪वक्तव्यः⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
-What is the husband's brother called? The husband's brother is to be designated as "devara" (brother-in-law).
+ܡܐ ܗܘ ܒܪ ܓܒܪܐ ܕܡܠܬܐ ܩܘܼܣܡܗ؟ ܒܪ ܓܒܪܐ ܕܡܠܬܐ ܝܗܒ ܠܘܟ ܩܘܼܣܡܗ "ܕܝܪܐ" (ܚܘܼܟܬܐ).
 
 ⟪९⟫. **⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
-The father desired the attainment of grandsons.
+ܐܒܐ ܚܢܶܟ ܠܬܩܝܼܡ ܕܒܪ̈ܐ.
 
 ::: media
 ![](/images/uebung068.webp)
@@ -44,7 +44,7 @@ Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पि
 :::
 ---
 
-## Narrative: Sītā's Wedding (⟪सीताविवाहः⟫)
+## ܬܫܥܝܬܐ: ܚܬܢܘܬܐ ܕܣܝܛܐ (⟪ܣܝܛܐܒܝܒܐܗܐ⟫)
 
 ⟪पुरा⟫ ⟪मिथिलायां⟫ ⟪जनको⟫ ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमारा⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
 
@@ -58,16 +58,16 @@ Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पि
 
 ⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ ⟪सीतरामयोर्विवाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
 
-**Translation:**
+**ܬܪ̈ܓܡܐ:**
 Once upon a time, there was a king named Janaka in Mithilā. He had a daughter named Sītā. She was incomparable in beauty and virtue. Many princes who wished to marry her sent messengers to Janaka.
 
-But Janaka wished to give her to a powerful Kṣatriya prince. Therefore, he decreed that she must be "won" through heroic strength. The matter stood thus: He possessed an exceedingly heavy bow. Janaka promised: "Whoever lifts this bow and nocks an arrow upon it, shall marry my daughter."
+ܘܠܐ ܚܢܝܟ ܓܕܪ ܠܗ ܠܡܢܐ ܠܣܪ ܟܝܬܪܝܐ. ܠܗٰذَا ܡܕܢܚ ܠܗ ܕܝܬܘܦܩ ܒܟܝܢܐ. ܗٰذَا ܫܘܡܠ: ܓܒܪ ܟܝܢܐ. ܚܢܝܟ: "ܕܝܬܘܦܩ ܠܗٰذَا ܟܝܢܐ ܘܬܩܪܒ ܠܗٰذَا ܫܝܦܐ, ܢܬܒܥ ܠܗٰذَا ܒܪܝ."
 
 When they heard this promise, princes came by the hundreds. Yet not one of them could move the bow even slightly. It is known that even Rāvaṇa, the ruler of Laṅkā, appeared full of pride and turned back in shame. When Janaka saw that all the princes returned, he became full of worry about who would be the husband of his daughter. Meanwhile, Viśvāmitra brought Rāma, the son of King Daśaratha of Ayodhyā, together with Lakṣmaṇa there. At the command of the great Ṛṣi Viśvāmitra, the splendid Rāma lifted the bow with playful ease. As soon as he nocked an arrow upon it, the bow broke into two pieces.
 
-"Good, good!" — thus the people praised the heroic strength of the splendid Rāma.
+"ܒܪܝ ܒܪܝ!" — ܗٰذَا ܡܕܢܚ ܠܗ ܟܝܢܐ ܕܪܒܘܬ.
 
-The heart of King Janaka was exceedingly joyful. Then he summoned Daśaratha and the others and celebrated the wedding feast of Sītā and Rāma with great splendor.
+ܐܪܡܝܐ
 
 ::: media
 ![](/images/uebung069.webp)

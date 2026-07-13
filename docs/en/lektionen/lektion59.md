@@ -9,7 +9,7 @@ status: stable
 
 # Lesson 59
 
-## 59.1. The Dual Secondary Endings and Imperative Endings (⟪द्विवचनम्⟫)
+## 59.1. द्विवचनस्य लङ्लकारप्रत्ययाः लोट्लकारप्रत्ययाः च
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ |||
@@ -19,7 +19,7 @@ status: stable
 | **2. ⟪मध्यमः⟫** | -tam:br-tām || -īthām | -āthām | -īthām / āthām |
 | **3. ⟪प्रथमः⟫** | ^^ || -ītām | -ātām | -ītām / -ātām |
 :::
-## 59.2. The Dual of Thematic Present Classes: Optative (⟪विधिलिङ्⟫), Imperfect (⟪लङ्⟫), Imperative (⟪लोट्⟫)
+## 59.2. दशगणानां द्विवचनम्: विधिलिङ्, लङ्, लोट्
 
 ::: grammar-box
 **Before -va and -vahi, the thematic vowel -a- is replaced by -ā-.**
@@ -176,7 +176,7 @@ Imperative (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येताम्⟫ |
 :::
-## 59.3. The Dual of Athematic Present Classes: Optative (⟪विधिलिङ्⟫), Imperfect (⟪लङ्⟫), Imperative (⟪लोट्⟫)
+## 59.3. अदन्तप्रथमादिगणानां द्विवचनम्: विधिलिङ्, लङ्, लोट्
 
 ### 59.3.1. Second Present Class (⟪अदादिगणः⟫)
 
@@ -598,9 +598,9 @@ Imperative (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीतम्⟫ | ⟪क्रीणाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीताम्⟫ | ⟪क्रीणाताम्⟫ |
 :::
-## 59.4. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
+## 59.4. लुङ्लकारस्य द्विवचनम्
 
-### 59.4.1. Root Aorist
+### 59.4.1. धातु-लुङ्
 
 ⟪पा⟫ 1P "to drink"
 
@@ -611,7 +611,7 @@ Imperative (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अपातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अपाताम्⟫ |
 :::
-### 59.4.2. a-Aorist
+### 59.4.2. अ-लुङ्
 
 ⟪सिच्⟫ 6U "to sprinkle"
 
@@ -622,7 +622,7 @@ Imperative (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪असिचतम्⟫ | ⟪असिचेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचताम्⟫ | ⟪असिचेताम्⟫ |
 :::
-### 59.4.3. Reduplicated Aorist
+### 59.4.3. चिण्-लुङ्
 
 ⟪श्रि⟫ 1U "to go to"
 
@@ -633,7 +633,7 @@ Imperative (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अशिश्रियतम्⟫ | ⟪अशिश्रियेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪शिश्रियताम्⟫ | ⟪अशिश्रियेताम्⟫ |
 :::
-### 59.4.4. s-Aorist
+### 59.4.4. स-लुङ्
 
 ⟪नी⟫ 1U "to lead"
 
@@ -654,7 +654,7 @@ Imperative (⟪लोट्⟫)
 | a-taut+s+tam | ⟪अतुत्साथाम्⟫ | | |
 | 3\. ⟪प्रथमः⟫ | ⟪अतौत्ताम्⟫ | ⟪अतित्साताम्⟫ |
 :::
-### 59.4.5. iṣ-Aorist
+### 59.4.5. इष्-लुङ्
 
 ⟪पू⟫ 9U "to purify"
 
@@ -665,7 +665,7 @@ Imperative (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अपाविष्टम्⟫ | ⟪अपविषाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पाविष्टाम्⟫ | ⟪अपविषाताम्⟫ |
 :::
-## 59.5. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (P only)
+## 59.5. Aorist (⟪लुङ्⟫) 6: sइष्-लुङ् (P only)
 
 ::: grammar-box
 **The siṣ-Aorist is formed in the P by all roots ending in -ā, -e, -o, -ai, which are not restricted to the 1st, 2nd, or 3rd Aorist, as well as by several other roots, including ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. In the Ā, all these roots form the s-Aorist.**
@@ -696,7 +696,7 @@ Paradigm:
 | **2. ⟪द्वितीयः⟫** | *⟪अयासीस्⟫* | ⟪अयासिष्टम्⟫ | ⟪अयासिष्ट⟫ |
 | **3. ⟪प्रथमः⟫** | *⟪अयासीत्⟫* | ⟪अयासिष्टाम्⟫ | ⟪अयासिषुर्⟫ |
 :::
-## 59.6. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematic s-Aorist)
+## 59.6. लुङ् ७: स-लुङ् (स-लुङ् सस्वरः)
 
 ::: grammar-box
 **The sa-Aorist is formed by most ⟪अनिट्⟫ roots ending in -ś, -ṣ, or -h, with i, u, or ṛ in the penultimate position. Optional ⟪अनिट्⟫ roots of this form may optionally form either the sa-Aorist or the iṣ-Aorist.**

@@ -11,16 +11,16 @@ status: stable
 
 ## 54.1. Preliminary Note
 
-With Lesson 54, the second semester begins in university instruction. From now on, the course runs only alongside the main topic of this semester: the reading of the entire Bhagavadgītā. The learning objective is such fluency in reading a medium-difficulty text that in the last third of the semester, large parts of the Bhagavadgītā can be translated extemporaneously. At the beginning, word lists were still distributed in university instruction; later, students had to use corresponding dictionaries themselves (Monier-Williams, Apte, PW).
+Dengan Pelajaran 54, semester kedua dimulai dalam pengajaran universitas. Mulai sekarang, kursus hanya berjalan berdampingan dengan topik utama semester ini: pembacaan seluruh Bhagavadgītā. Tujuan pembelajaran adalah kelancaran sedemikian rupa dalam membaca teks dengan tingkat kesulitan sedang sehingga pada sepertiga terakhir semester, sebagian besar Bhagavadgītā dapat diterjemahkan secara spontan. Pada awalnya, daftar kata masih dibagikan dalam pengajaran universitas; kemudian, mahasiswa harus menggunakan kamus yang sesuai sendiri (Monier-Williams, Apte, PW).
 
 The course on the Bhagavadgītā will not yet be made available online.
 
-The lessons of the Sanskrit course deal with topics of Sanskrit grammar that have not yet been covered.
+Pelajaran-pelajaran dalam kursus Sanskerta membahas topik-topik tata bahasa Sanskerta yang belum dibahas sebelumnya.
 
 ## 54.2. Word Formation: ⟪कृत्⟫ Suffix -u on Desiderative Stems
 
 ::: grammar-box
-**On Desiderative stems (⟪इच्छाप्रकृति⟫) ("to wish to do something"; "to be about to do something") the suffix -u is added to form agent nouns.**
+**Pada akar kata Keinginan (⟪इच्छाप्रकृति⟫) ("ingin melakukan sesuatu"; "akan segera melakukan sesuatu"), akhiran -u ditambahkan untuk membentuk kata benda pelaku.**
 
 (The formation of desiderative stems follows later)
 
@@ -28,22 +28,22 @@ Example:
 
 :::
 ::: indent
-⟪युयुत्सु⟫ (yu-yudh + s + u) "eager for battle, about to fight"
+⟪युयुत्सु⟫ (yu-yudh + s + u) "bersemangat untuk pertempuran, siap bertempur"
 :::: media
 ![](/images/lekt5402.webp)
 Fig.: ⟪अयुयुत्सुरर्जुनः⟫
 ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
-(Image source: [Details](/en/licenses#lekt5402))
+(Sumber gambar: [Details](/en/licenses#lekt5402))
 ::::
 :::
-## 54.3. Meter II: the epic ⟪त्रिष्टुभ्⟫ and the ⟪जगती⟫
+## 54.3. Metrum II: epik ⟪त्रिष्टुभ्⟫ dan ⟪जगती⟫
 
 ::: grammar-box
-The ⟪त्रिष्टुभ्⟫ ("Three-sigh") appears in the epics amidst the usual ⟪श्लोक⟫ sections precisely at points where mood or action experience a special surge or conclusion.
+⟪त्रिष्टुभ्⟫ ("Tiga-helaah") muncul dalam epik di antara bagian-bagian ⟪श्लोक⟫ yang biasa, tepatnya pada titik-titik di mana suasana atau aksi mengalami lonjakan khusus atau kesimpulan.
 
 The ⟪त्रिष्टुभ्⟫ stanza consists of four eleven-syllable ⟪पाद⟫, which do not differ from each other in structure.
 
-The ⟪त्रिष्टुभ्⟫ has two basic schemas, depending on whether the caesura (word end, compositional junction, or before certain suffixes like -tara, -tama, etc.) occurs after the 4th or 5th syllable of the ⟪पाद⟫.
+⟪त्रिष्टुभ्⟫ memiliki dua skema dasar, tergantung pada apakah caesura (akhir kata, persambungan komposisional, atau sebelum akhiran tertentu seperti -tara, -tama, dll.) terjadi setelah suku kata ke-4 atau ke-5 dari ⟪पाद⟫.
 
 Schema I:
 
@@ -56,19 +56,19 @@ Schema II:
 ::: metrik-schema
 × — × — × / × ◡ **— ◡ — —**
 :::
-The quantity of the last four syllables is therefore identical in both schemas.
+Oleh karena itu, kuantitas empat suku kata terakhir adalah identik dalam kedua skema.
 
-⟪जगती⟫ basic form: as with ⟪त्रिष्टुभ्⟫, but 12-syllable. The last 5 syllables of each Pada exhibit the following quantities:
+⟪जगती⟫ bentuk dasar: seperti dengan ⟪त्रिष्टुभ्⟫, tetapi 12-suku kata. Lima suku kata terakhir dari setiap Pada menunjukkan kuantitas berikut:
 
 ::: metrik-schema
 **— ◡ — ◡ —**
 :::
-In addition, there is the so-called typically superfluous ⟪त्रिष्टुभ्⟫ with a five-syllable initial member, which continues like a ⟪त्रिष्टुभ्⟫ with a four-syllable initial member:
+Selain itu, terdapat apa yang disebut sebagai ⟪त्रिष्टुभ्⟫ yang biasanya berlebihan dengan anggota awal lima suku kata, yang berlanjut seperti ⟪त्रिष्टुभ्⟫ dengan anggota awal empat suku kata:
 
 ::: metrik-schema
 — × — × / × ◡ — **— ◡ — —**
 :::
-In later times, the forms of the ⟪त्रिष्टुभ्⟫ are established according to a strict schema of long and short syllables; the caesura no longer plays a role. The most important later forms are:
+Pada masa kemudian, bentuk-bentuk ⟪त्रिष्टुभ्⟫ ditetapkan sesuai dengan skema ketat suku kata panjang dan pendek; caesura tidak lagi berperan. Bentuk-bentuk penting kemudian adalah:
 
 a) ⟪इन्द्रवज्रा⟫
 
@@ -92,12 +92,12 @@ c) ⟪उपजाति⟫
 
 :::
 ::: indent
-"It is an Indravājrā if the syllables in all Pādas are ta ta ja ga ga.
+"Ini adalah Indravajrā jika suku kata di semua Pāda adalah ta ja ga ga.
 :::
 ⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
 
 ::: indent
-"An Upendravajrā is like an Indravajrā that has a light syllable at the beginning"
+"Sebuah Upendravajrā mirip dengan Indravajrā yang memiliki suku kata ringan di awal"
 :::
 ⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
 ⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
@@ -105,23 +105,23 @@ c) ⟪उपजाति⟫
 ⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
 
 ::: indent
-"If two Pādas, which have the features of Indravajrā and Upendravajrā respectively, are involved in a verse, then they are Upajātis. Also, if other meters are mixed in a verse, it is called Upajāti."
+"Jika dua Pāda, yang memiliki ciri Indravajrā dan Upendravajrā masing-masing, terlibat dalam sebuah bait, maka mereka adalah Upajāti. Juga, jika meter lain dicampurkan ke dalam sebuah bait, itu disebut Upajāti."
 :::
-## 54.4. Exercise on Metrics
+## 54.4. Latihan tentang Metrik
 
 Identify Triṣṭubhs and Jagatīs in Bhagavadgītā II.
 
 Example of a recitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Accessed on 2009-01-28
 
-## 54.5. Types of Aorist Formation (⟪लुङ्⟫)
+## 54.5. Jenis Pembentukan Aoris (⟪लुङ्⟫)
 
 ::: grammar-box
-**What all types of Aorist formation (⟪लुङ्⟫) have in common is the augment a-, which is prefixed according to the same rules as in the Imperfect (⟪लङ्⟫).**
+**Yang dimiliki bersama oleh semua jenis pembentukan Aorist (⟪लुङ्⟫) adalah augment a-, yang ditambahkan sebagai awalan sesuai dengan aturan yang sama seperti pada Imperfect (⟪लङ्⟫).**
 
-In Sanskrit, only the Indicative and Optative of the Aorist are commonly used.
+Dalam bahasa Sanskerta, hanya Indicative dan Optatif dari Aorist yang umum digunakan.
 :::
 ::: grammar-box
-**The following types of Aorist formation (⟪लुङ्⟫) exist:**
+**Berikut adalah jenis-jenis pembentukan Aorist (⟪लुङ्⟫) yang ada:**
 
 1.  Non-sibilant (asigmatic) Aorists:
     *   54.1. Root Aorist: Augment + Root + Secondary Ending
@@ -133,16 +133,16 @@ In Sanskrit, only the Indicative and Optative of the Aorist are commonly used.
     *   54.6. -siṣ Aorist: Augment + Root + **siṣ** + Secondary Ending
     *   54.7. -sa Aorist: Augment + Root + **s** + **a** + Secondary Ending
 
-For the distribution of roots among the individual types, see the respective types.
+Untuk distribusi akar di antara jenis-jenis individu, lihat masing-masing jenis.
 :::
-## 54.6. Root Aorist
+## 54.6. Akar Aoris
 
 ::: grammar-box
 **Formation:**
 
-**Augment + Root + Secondary Ending**
+**Augment + Root + Akhiran Sekunder**
 :::
-The ending of the 3rd plural is -ur. The Ātmanepada is not commonly used.
+Akhiran untuk orang ketiga jamak adalah -ur. Bentuk Ātmanepada tidak lazim digunakan.
 
 Example:
 
@@ -157,20 +157,20 @@ Example:
 :::
 The Root Aorist is formed from only 12 roots:
 
-1.  ⟪गा⟫ 3rd class "to go"
-2.  ⟪घ्रा⟫ 1st class "to smell"
-3.  ⟪छो⟫ 6th class "to cut" (⟪अच्छात्⟫)
-4.  ⟪दा⟫ 3rd class "to give"
-5.  ⟪दो⟫  1st, 4th class "to cut"
-6.  ⟪धा⟫ 3rd class "to place"
-7.  ⟪धे⟫ 1st class "to suck" (⟪अधात्⟫)
-8.  ⟪पा⟫ 1st class "to drink"
-9.  ⟪शो⟫ 4th class "to sharpen"
-10.  ⟪सो⟫ "to finish"
-11.  ⟪स्था⟫ 1st class "to stand"
-12.  ⟪भू⟫ 1st class "to be"
+1. ⟪गा⟫ kelas ke-3 "pergi"
+2. ⟪घ्रा⟫ kelas ke-1 "mencium"
+3. ⟪छो⟫ kelas ke-6 "memotong" (⟪अच्छात्⟫)
+4. ⟪दा⟫ kelas ke-3 "memberi"
+5. ⟪दो⟫ kelas ke-1, kelas ke-4 "memotong"
+6. ⟪धा⟫ kelas ke-3 "menempatkan"
+7. ⟪धे⟫ kelas ke-1 "menyedot" (⟪अधात्⟫)
+8. ⟪पा⟫ kelas ke-1 "minum"
+9. ⟪शो⟫ kelas ke-4 "menajamkan"
+10. ⟪सो⟫ "menyelesaikan"
+11. ⟪स्था⟫ kelas ke-1 "berdiri"
+12. ⟪भू⟫ kelas ke-1 "ada"
 
-For ⟪भू⟫ 1st class, the Root Aorist is formed as follows:
+Untuk ⟪भू⟫ kelas ke-1, Aorist Akar dibentuk sebagai berikut:
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -179,9 +179,9 @@ For ⟪भू⟫ 1st class, the Root Aorist is formed as follows:
 | 2. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
 :::
-### 54.6.1. The Aorist of the 3rd sg. Passive
+### 54.6.1. Aoris Pasif Orang Ketiga Tunggal
 
-A special form of the root aorist is the aorist of the 3rd sg. passive. This can be formed from all roots.
+[B0] Bentuk khusus dari aorist akar adalah aorist pasif untuk orang ketiga tunggal. Ini dapat dibentuk dari semua akar kata.
 
 ::: grammar-box
 **Formation:**
@@ -199,19 +199,18 @@ Strong grade:
 
 Guṇa grade:
 
-*   Roots with a final vowel  
-    Examples:  
-    ⟪नी⟫ 1U: ⟪अनायि⟫ "he was led"  
-    ⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "she was praised"  
-    ⟪कृ⟫ 8U: ⟪अकारि⟫ "it was made"  
-     
-    
-*   Roots with a before a simple consonant (except ⟪जन्⟫ and roots ending in -am)  
-    Example:  
-    ⟪वद्⟫ 1P: ⟪अवादि⟫ "it was said"  
-    but:  
-    ⟪जन्⟫ 4Ā: ⟪अजनि⟫ "she was born"  
-     
+*   Akar dengan vokal akhir  
+Contoh:  
+⟪नी⟫ 1U: ⟪अनायि⟫ "ia dibawa"  
+⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "ia dipuji"  
+⟪कृ⟫ 8U: ⟪अकारि⟫ "ia dibuat"  
+
+
+*   Akar dengan sebelum konsonan sederhana (kecuali ⟪जन्⟫ dan akar yang berakhiran -am)  
+Contoh:  
+⟪वद्⟫ 1P: ⟪अवादि⟫ "ia dikatakan"  
+tetapi:  
+⟪जन्⟫ 4Ā: ⟪अजनि⟫ "ia lahir"
 
 *   some roots ending in -am  
     Example:  
@@ -221,9 +220,8 @@ Guṇa grade:
 Insertion of y before the ending:
 
 *   Roots ending in -ā, -e, -ai, -o insert a y between the -ā of the root and the ending:  
-    Example:  
-    ⟪दा⟫ 3U: ⟪अदायि⟫ "it was given"
-    
+Contoh:  
+⟪दा⟫ 3U: ⟪अदायि⟫ "itu diberikan"
 
 Nasal infix:
 
@@ -232,11 +230,11 @@ Nasal infix:
     ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ alongside ⟪अलाभि⟫ : "it was received"
     
 
-(The other forms of the passive are expressed in the aorist by Ātmanepada forms).
+(Bentuk-bentuk pasif lainnya dinyatakan dalam aorist dengan bentuk Ātmanepada).
 :::
-## 54.7. Exercise
+## 54.7. Latihan
 
-Write the following forms and form the corresponding aorist forms:
+Tulis bentuk-bentuk berikut dan buat bentuk aorist yang sesuai:
 
 1.  ⟪यन्ति⟫
 2.  ⟪पिबामि⟫

@@ -1,52 +1,52 @@
-# Table of Contents
+# ܦܬܟܐ ܕܚܒܝܫܘܬܐ
 
-## [Lesson 1](lektion01)
+## [ܡܠܦܢܐ 1](lektion01)
 
-*   ⟪गणेशपूजनम्⟫ = gaṇeśapūjanam = Veneration of Gaṇeśa
-*   ⟪मङ्गलचरणम्⟫ = maṅgalacaraṇam = "Auspicious Beginning"
-*   1\. Literature for Beginners in Indology
-*   2\. The Sounds of Sanskrit according to the traditional Indian classification and their scientific transcription
-    *   2.1. On the pronunciation of individual sounds
-*   3\. Exercise
+*   ⟪गणेशपूजनम्⟫ = ܓܰܐܢܶܝ̈ܲܣܦܘܼܟ݂ܳܢܡ = ܓܰܐܢܶܝ̈ܣܦܘܼܟ݂ܳܢܡ ܕܶܠܓܰܐܢܶܝ̈ܣ
+*   ⟪मङ्गलचरणम्⟫ = ܡܰܐܢ݂ܓܳܠܲܟܪܰܐܢܡ = "ܒܪ̈ܘܟ݂ܬ ܐܘܪܚܐ"
+*   1\. ܠܰܝܬ݂ܪܳܛܘܼܪܳܐ ܠܶܡܕ݂ܝ̈ܢ ܒܰܐܘܪܚܳܐ ܕ݂ܣܰܢܟ݂ܪܝܬ
+*   2\. ܐܘܼܪ̈ܚܳܐ ܕ݂ܣܰܢܟ݂ܪܝܬ ܠܦ݂ܘܼܡ ܒܰܐܘܪ̈ܚܳܐ ܕ݂ܗܰܝܕ݂ܶܐ ܘܒܰܬܪܓܡܳܢܘܼܬ ܣܰܝܪܐ
+*   2.1. ܥܰܠ ܦ݂ܘܼܡ ܐܘܼܪ̈ܚܳܐ ܕ݂ܟ݁ܠ ܘܼܚܰܕ
+*   3\. ܡܶܠܟ݂ܬ
 
-## [Lesson 2](lektion02)
+## [ܕܲܪܫܵܐ 2](ܠܹܩܨܝܼܘܿܢ02)
 
-*   1\. The Nominal Sentence
-*   2\. On Declension (Inflection of Nouns)
-*   3\. Nominative Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫
-    *   3.1. Nominative Singular ending in -s
-*   4\. Sandhi -- ⟪सन्धि⟫
-    *   4.1. Sandhi of final -s
-*   5\. Vocabulary List
-*   6\. Exercise
+*   ܠܦܢܘܬܐ 1. ܫܡܝܐ
+*   2. ܥܠ ܬܚܘܒܬ ܫܡ̈ܗܝܢ
+*   3. ܣܘܓܪ ܢܝܕܐ = פּܪܬܡܐ ܐܚܕܢܝܘܬ = ⟪प्रथमा⟫ ⟪एकवचनम्⟫
+*   3.1. ܣܘܓܪ ܢܝܕܐ ܟܬܒ ܫ
+*   4. ܣܢܕܗܝ -- ⟪सन्धि⟫
+*   4.1. ܣܢܕܗܝ ܫܠܬ ܫ
+*   5. ܪܟܝܠ ܫܡ̈ܗܝܢ
+*   6. ܬܒܝܘܬ
 
-## [Lesson 3](lektion03)
+## [ܐܘܪܬܐ 3](lektion03)
 
-*   1\. Nominative singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫ (Continuation)
-    *   1.1. Nominative Singular ending in -s (Continuation)
-    *   1.2. Nominative singular without ending
-*   2\. Formation of Feminines from Masculines (Adjectives and Nouns)
-*   3\. Nominative plural = prathamā bahuvacanam = ⟪प्रथमा⟫ ⟪बहुचनम्⟫
-*   4\. Vocalic Sandhi
-*   5\. Sentential Sandhi of -ās
-*   6\. Vocabulary List
-*   7\. Exercise
+*   1\. ܣܘܪܝܐ ܕܡܕܢܚܐ = ܦܪܬܐ ܠܫܢܐ = ⟪प्रथमा⟫ ⟪एकवचनम्⟫ (ܡܘܕܥ)
+*   1.1. ܣܘܪܝܐ ܕܡܕܢܚܐ ܒܟܠܬܐ -s (ܡܘܕܥ)
+*   1.2. ܣܘܪܝܐ ܕܡܕܢܚܐ ܒܠܐ ܟܠܬܐ
+*   2\. ܙܘܓܐ ܕܢ̈ܫܐ ܡܢ ܓܒܪܝܐ (ܠܫܘܟ̈ܐ ܘܡܠܬ̈)
+*   3\. ܣܘܪܝܐ ܕܡܕܢܚܐ = ܦܪܬܐ ܠܫܢܐ = ⟪प्रथमा⟫ ⟪बहुचनम्⟫
+*   4\. ܣܢܕܗܝ ܡܠܬ̈
+*   5\. ܣܢܕܗܝ ܡܠܬ̈ -ās
+*   6\. ܪܟܝܦܬ̈ ܡܠܬ̈
+*   7\. ܡܟܘܠ
 
 ## [Lesson 4](lektion04)
 
 Spoken Sanskrit
 
-*   1\. Simple Supplementary Questions (Word Questions) and Answers
-    *   1.1. Interrogative Pronouns (praśnārthakasarvanāma n.) and Demonstrative Pronouns (nidarśakasarvanāma n.) = ⟪प्रश्नार्थकसर्वनाम⟫ ⟪निदर्शकसर्वनामानि⟫ ⟪च⟫
-        *   1.1.1. Interrogative Pronoun (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
-        *   1.1.2. Demonstrative Pronouns (nidarśakasarvanāmāni n. = ⟪निदर्शकसर्वनामानि⟫)
-    *   1.2. Sandhi of final -m
-    *   1.3. Sandhi of final -e
-    *   1.4. Sandhi of final -d
-    *   1.5. Question Formulas
-*   2\. Exercise
+*   ܐܫܘܠ̈ܬܐ ܕܡܕܒܪ̈ܝܢ ܠܐܬܪ̈ܟܢ (ܐܫܘܠ̈ܬܐ ܕܡܠܠܬ) ܘܐܫܟܚ̈ܬܐ
+*   1.1. ܡܕܒܪ̈ܝܢ ܠܐܬܪ̈ܟܢ (ܡܕܒܪ̈ܝܢ ܠܐܬܪ̈ܟܢ) ܘܡܕܒܪ̈ܝܢ ܠܐܬܪ̈ܟܢ (ܡܕܒܪ̈ܝܢ ܠܐܬܪ̈ܟܢ) = ⟪प्रश्नार्थकसर्वनाम⟫ ⟪निदर्शकसर्वनामानि⟫ ⟪च⟫
+*   1.1.1. ܡܕܒܪ̈ܝܢ ܠܐܬܪ̈ܟܢ (ܡܕܒܪ̈ܝܢ ܠܐܬܪ̈ܟܢ = ⟪प्रश्नार्थकसर्वनामन्⟫)
+*   1.1.2. ܡܕܒܪ̈ܝܢ ܠܐܬܪ̈ܟܢ (ܡܕܒܪ̈ܝܢ ܠܐܬܪ̈ܟܢ = ⟪निदर्शकसर्वनामानि⟫)
+*   1.2. ܣܢܕܝ ܕܡܬܐ
+*   1.3. ܣܢܕܝ ܕܐ
+*   1.4. ܣܢܕܝ ܕܕ
+*   1.5. ܦܘܪܡ̈ܠܬܐ ܕܐܫܘܠ̈ܬܐ
+*   2. ܡܟܘܠܬܐ
 
-## [Lesson 5](lektion05)
+## [ܐܘܠܦܢܐ 5](lektion05)
 
 *   1\. Nominal Compounds = samāsa m. = ⟪समास⟫
 *   2\. On Sanskrit Terminology for Compounds
@@ -56,57 +56,57 @@ Spoken Sanskrit
 *   4\. Vocabulary List
 *   5\. Exercise
 
-## [Lesson 6](lektion06)
+## ܕܪܫܐ 6
 
-*   1\. The Verbal Sentence
-*   2\. On the Formation of Verb Forms
-*   3\. Indicative Present (laṭ = ⟪लट्⟫)
-*   4\. Primary Endings of the Third Person (prathama m. = ⟪प्रथम⟫ = "first (!) Person")
-*   5\. Formation of the Present Stem
-    *   5.1. Verbs of the 6th Present Class (tudādi = ⟪तुदादि⟫ = "tud etc.")
-    *   5.2. Verbs of the 1st Present Class (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū etc.")
-        *   5.2.1. Word Sandhi of e and o
-        *   5.2.2. Sound Gradation (Ablaut)
-    *   5.3. Verbs of the 4th Present Class (divādi = ⟪दिवादि⟫ = "div etc.")
-    *   5.4. Thematic Vowel, Thematic Present Classes
-*   6\. Spoken Sanskrit: Further Questions (praśna m. = ⟪प्रश्न⟫)
-*   7\. Vocabulary List
-*   8\. Exercise
-*   9\. Review Exercise
+*   ܠܦܢܘܬܐ 1\. ܫܡܝܐ ܕܟܘܠܐ
+*   2\. ܥܠ ܗܘܝܬ ܕܟܘܠܐ
+*   3\. ܡܕܒܪ ܥܬܝܩ (laṭ = ⟪लट्⟫)
+*   4\. ܐܘܪ̈ܚܐ ܕܬܠܝܢ ܡܪܒܝ (prathama m. = ⟪प्रथम⟫ = "ܐܘܪ̈ܚܐ ܡܕܝܩ")
+*   5\. ܗܘܬ ܕܟܘܠܐ
+*   5.1. ܟܘܠܐ ܕܣܝܡ 6 (tudādi = ⟪तुदादि⟫ = "tud ܘܟܠ")
+*   5.2. ܟܘܠܐ ܕܣܝܡ 1 (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū ܘܟܠ")
+*   5.2.1. ܫܡܝܐ ܕܗܘܬ ܕ e ו o
+*   5.2.2. ܗܘܬ ܕܟܘܠܐ (Ablaut)
+*   5.3. ܟܘܠܐ ܕܣܝܡ 4 (divādi = ⟪दिवादि⟫ = "div ܘܟܠ")
+*   5.4. ܫܡܝܐ ܕܗܘܬ, ܟܘܠܐ ܕܣܝܡ
+*   6\. ܫܘܥܐ ܕܣܢܣܟܪܝܬ: ܐܘܪ̈ܚܐ ܕܡܕܒܪ (praśna m. = ⟪प्रश्न⟫)
+*   7\. ܡܕܒܪ ܕܟܘܠܐ
+*   8\. ܡܕܒܪ
+*   9\. ܡܕܒܪ ܕܗܘܬ
 
-## [Lesson 7](lektion07)
+## [ܠܶܩܨܝܳܐ 7](lektion07)
 
 Weekly Saying
 
-*   1\. The Verbal Sentence with Direct Object
-*   2\. The Accusative (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "second Case Ending")
-    *   2.1. Accusative singular and Plural of the Interrogative and Demonstrative Pronouns
-    *   2.2. Usage of the Accusative (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "second Case Ending")
-*   3\. Sandhi of final -n
-*   4\. The Neuter (napuṃsaka n. = ⟪नपुंसक⟫)
-    *   4.1. Neuter of Stems ending in -a
-*   5\. Athematic Present Classes
-    *   5.1. Primary Endings of the 3rd Person Plural in Athematic Present Stems
-    *   5.2. The 5th Present Class (svādi = ⟪स्वादि⟫ = "su etc."
-*   6\. Vocabulary List
-*   7\. Exercise
+*   ܠܦܢܘܬܐ 1. ܫܡܝܐ ܕܟܬܒܐ ܥܡ ܓܘܫܦܐ
+*   2. ܡܕܢܚܝܐ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "ܬܩܢܝܐ ܬܪܥܝܢ")
+*   2.1. ܡܕܢܚܝܐ ܗܕܪܐ ܘܟܢܫܐ ܕܡܠܬܐ ܘܦܠܗܝ
+*   2.2. ܐܬܘܬܐ ܕܡܕܢܚܝܐ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "ܬܩܢܝܐ ܬܪܥܝܢ")
+*   3. ܫܕܗܝ ܕ-נ סוֹף
+*   4. ܢܒܘܬܐ (napuṃsaka n. = ⟪नपुंसक⟫)
+*   4.1. ܢܒܘܬܐ ܕܫܪܝܪܐ ܟܢܫܐ -a
+*   5. ܣܕܪ̈ܐ ܕܡܠܬܐ ܠܝܪܢ̈ܐ
+*   5.1. ܬܩܢ̈ܝܐ ܪܒܝܥܝܐ ܕܫܠܫܬܐ ܢ̈ܫܝܐ ܒܫܪܝܪ̈ܐ ܠܝܪܢ̈ܐ
+*   5.2. ܣܕܪ̈ܐ ܦܠܓܬܐ 5 (svādi = ⟪स्वादि⟫ = "su etc."
+*   6. ܟܬܒܐ ܕܠܫܢ̈ܐ
+*   7. ܡܠܦܢܘܬܐ
 
-## [Lesson 8](lektion08)
+## [ܕܪܫܐ 8](lektion08)
 
-*   1\. On the formation of nouns
-*   2\. Classification of nominal suffixes
-*   3\. Some important nominal suffixes
-    *   3.1. -a m. (kṛt)
-    *   3.2. -ana n. (kṛt)
-    *   3.3. -tra n. (kṛt)
-    *   3.4. -ti f. (kṛt)
-    *   3.5. -tva n., tā f. (taddhita)
-*   4\. The 8th present class (tanādi = ⟪तनादि⟫ = "tan etc.")
-*   5\. Vocabulary list
-*   6\. Exercise
-*   7\. Reading and translation exercise
+*   ܠܦܢܘܬܐ 1. ܥܠ ܫܪܝܘܬܐ ܕܡܠܦ̈ܢ
+*   ܠܦܢܘܬܐ 2. ܗܕܝܪܘܬܐ ܕܣܦܝܠ̈ܢ ܫܡ̈ܐ
+*   ܠܦܢܘܬܐ 3. ܡܢ ܣܦܝܠ̈ܢ ܫܡ̈ܐ ܪܒ̈ܝ
+*   3.1. -a m. (kṛt)
+*   3.2. -ana n. (kṛt)
+*   3.3. -tra n. (kṛt)
+*   3.4. -ti f. (kṛt)
+*   3.5. -tva n., tā f. (taddhita)
+*   ܠܦܢܘܬܐ 4. ܟܬܒܐ ܕܡܫܪ̈ܝܢ ܬܡܢܝܐ (tanādi = ⟪तनादि⟫ = "tan etc.")
+*   ܠܦܢܘܬܐ 5. ܪܟܝܠ̈ܐ
+*   ܠܦܢܘܬܐ 6. ܡܟܝܠܬܐ
+*   ܠܦܢܘܬܐ 7. ܩܪܝܬܐ ܘܦܫܩܢܘܬܐ
 
-## [Lesson 9](lektion09)
+## [ܐܘܠܦܢܐ 9](lektion09)
 
 *   1\. Samāhāradvandva = ⟪सआहारद्वन्द्व⟫ ("summary dvandva")
 *   2\. On the formation of nominal stems
@@ -115,111 +115,111 @@ Weekly Saying
 *   3\. Vocabulary list
 *   4\. Exercise
 
-## [Lesson 10](lektion10)
+## [ܡܠܦܢܐ 10](lektion10)
 
-*   1\. The passive sentence
-*   2\. The instrumental = tṛtīyā f. = ⟪तृतीया⟫ = "third case ending"
-    *   2.1\. On the usage of the instrumental (tṛtīyā = ⟪तृतीया⟫)
-*   3\. The so-called cerebellarization law for -n- (a word sandhi)
-*   4\. The passive, indicative present (yak = ⟪यक्⟫)
-    *   4.1\. Special rules for the formation of the passive
-*   5\. Vocabulary list
-*   6\. Exercise
-*   7\. Vocabulary list 2
-*   8\. Reading and translation exercise
+*   ܠܦܢܘܬܐ 1\. ܫܡܥܐ
+*   2\. ܛܪ̈ܝܬܐ = tṛtīyā f. = ⟪तृतीया⟫ = "ܬܠܝܬ ܡܕܒܪ"
+*   2.1\. ܥܠ ܫܡܫܐ ܕܛܪ̈ܝܬܐ (tṛtīyā = ⟪तृतीया⟫)
+*   3\. ܩܘܢܘܬܐ ܕܣܡ̈ܟܐ ܠ- n- (ܫܢܕܝ)
+*   4\. ܫܡܥܐ, ܝܕܥܢܘܬܐ (yak = ⟪यक्⟫)
+*   4.1\. ܩܘܢܘܬ̈ܐ ܡܕܪ̈ܝܢܘܬ̈ܐ ܠܫܡܥܐ
+*   5\. ܪܟܝܠ ܡܠ̈ܬ
+*   6\. ܡܟܘܠܐ
+*   7\. ܪܟܝܠ ܡܠ̈ܬ 2
+*   8\. ܩܪܐܘܬܐ ܘܬܪܓܡܬ
 
-## [Lesson 11](lektion11)
+## [ܡܠܦܢܐ 11](lektion11)
 
 *   1\. Double accusative
 *   2\. Vocabulary list
 *   3\. Exercise
 *   4\. Review exercise
 
-## [Lesson 12](lektion12)
+## [ܡܠܦܢܐ 12](lektion12)
 
-*   1\. Perfect passive participle (PPP)
-    *   1.1\. Schema for transitive verbs
-    *   1.2\. Schema I for intransitive verbs and verbs of motion
-    *   1.3\. Schema II for intransitive verbs and verbs of motion
-*   2\. On the meaning of the PPP
-*   3\. Formation of the PPP
-    *   3.1\. PPP in -ta (kta)
-        *   3.1.1\. Without connecting vowel -i- (aniṭ)
-        *   3.1.2\. With connecting vowel -i- (seṭ)
-*   4\. Laws of sound combination in words
-*   5\. Vocabulary list
-    *   5.1\. Passive and PPP of the roots learned so far
-*   6\. Exercise
+*   ܠܦܢܘܬܐ 1\. שם פועל שלם בשקול (PPP)
+*   1.1\. סכמה לפעלים מעבירים
+*   1.2\. סכמה א' לפעלים בלתי מעבירים ופעלי תנועה
+*   1.3\. סכמה ב' לפעלים בלתי מעבירים ופעלי תנועה
+*   2\. על משמעות שם הפועל השקול
+*   3\. יצירת שם הפועל השקול
+*   3.1\. שם פועל בשקול ב-טא (קתה)
+*   3.1.1\. ללא תנועת חיבור -י- (אניט)
+*   3.1.2\. עם תנועת חיבור -י- (סֵת)
+*   4\. חוקי שילוב צלילים במלים
+*   5\. רשימת מילים
+*   5.1\. שם הפועל בשקול ושמות הפועל השקולים של השורשים שנלמדו עד כה
+*   6\. תרגילים
 
-## [Lesson 13](lektion13)
+## [ܡܠܦܢܐ 13](lektion13)
 
-*   1\. PPP in -na-
-*   2\. Further on the usage of the PPP
-*   3\. Attributive specifications of nouns (word order)
-*   4\. Formation of adjectives in -mant and -vant (taddhita)
-*   5\. Stem gradation of nouns
-*   6\. On word sandhi
-*   7\. Case endings of consonantal stems
-*   8\. Declension of stems in -mant and -vant
-*   9\. Vocabulary list
-*   10\. Exercise
-*   11\. Review exercise
+*   ܐܪܡܝܐ: ܦܠܓܬܐ 1\. PPP ܒـ -na-
+*   ܐܪܡܝܐ: ܠܦܬܐ 2\. עוֹד עַל שְׁרָשׁ הַPPP
+*   ܐܪܡܝܐ: ܠܦܬܐ 3\. מִשְׁפָּטִים שֶׁל שְׁמוֹת (סדר מילים)
+*   ܐܪܡܝܐ: ܠܦܬܐ 4\. יְצִירַת תּוֹאָרוֹת בـ -mant וـ -vant (taddhita)
+*   ܐܪܡܝܐ: ܠܦܬܐ 5\. מִשְׁתַּנּוֹת שָׁרָשׁ שְׁמוֹת
+*   ܐܪܡܝܐ: ܠܦܬܐ 6\. עַל שְׁרָשׁ מִלּוֹת
+*   ܐܪܡܝܐ: ܠܦܬܐ 7\. סוֹפוֹת מִשְׁפָּט שָׁרָשׁוֹת
+*   ܐܪܡܝܐ: ܠܦܬܐ 8\. שְׁנוּת שָׁרָשׁוֹת בـ -mant וـ -vant
+*   ܐܪܡܝܐ: ܠܦܬܐ 9\. רשימת מילים
+*   ܐܪܡܝܐ: ܠܦܬܐ 10\. תִּרגוּם
+*   ܐܪܡܝܐ: ܠܦܬܐ 11\. תִּרגוּם חֲזָרָה
 
-## [Lesson 14](lektion14)
+## [ܡܠܦܢܐ 14](lektion14)
 
-*   1\. The expression of the relationship of that designated by substantives: the genitive (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixth case ending)
-*   2\. Formation of the genitive forms (ṣāṣṭhī f. = ⟪षष्ठी⟫)
-*   3\. Further on the usage of the genitive (⟪षष्ठी⟫)
-*   4\. Vocabulary list
-*   5\. Subhāṣitāni = ⟪सुभाषितानि⟫ = proverbs
-*   6\. Exercise
+*   1\. אָמְרָא דִּיחֲדוּתָא דַהֲווֹר בְּשׁוֹם עָלַיְיהוּ: גֵנִיטִיב (ṣaṣṭhī f. = ⟪षष्टी⟫ = שִׁיתָא קְרַן)
+*   2\. יוֹצֵי גִּבְרַת גֵנִיטִיב (ṣāṣṭhī f. = ⟪षष्ठी⟫)
+*   3\. עוֹד בְּשׁוֹם גֵנִיטִיב (⟪षष्ठी⟫)
+*   4\. רְשׁוּם מִלָּה
+*   5\. סוּבְהָשִׁינֵי = ⟪सुभाषितानि⟫ = מִלְּתָא
+*   6\. תַּרְגֵם
 
-## [Lesson 15](lektion15)
+## [ܡܠܦܢܐ 15](lektion15)
 
 *   ⟪१⟫. ⟪सुभाषितम्⟫
-*   2\. Determinative compounds = Tatpuruṣa m. = ⟪तत्पुरुष⟫
-*   3\. Determinative compounds with an attributive / appositional first member = Karmadhāraya m. = ⟪कर्मधारय⟫
-*   4\. Determinative compounds with a first member that stands in a non-attributive/appositional case relationship to the second member = Tatpuruṣa in the narrower sense
-*   5\. Analysis of compounds (except Dvandvas)
-*   6\. The form of the first member in compounds (⟪समास⟫ m.)
-*   7\. Classification of the ⟪तत्पुरुष⟫
-    *   7.1\. Classification of the ⟪कर्मधारय⟫
-*   8\. Vocabulary list
-*   9\. Exercise 1
-*   10\. Exercise 2
-*   11\. Exercise 3
+*   2\. קומפאונדן דטרמינאַטיוו = טאַטפּורוש מ. = ⟪तत्पुरुष⟫
+*   3\. דטרמינאַטיוו קומפאונדן מיט אַטריבוטיק / אַפּאָזיציאָנאַל ערשטער מיטגליד = קאַרמאַדהַראַי מ. = ⟪कर्मधारय⟫
+*   4\. דטרמינאַטיוו קומפאונדן מיט אַ ערשטער מיטגליד וואָס שטייט אין אַ נישט-אַטריבוטיק/אַפּאָזיציאָנאַל קייס רעלאַציע צוום צווייטן מיטגליד = טאַטפּורוש אין דער ענגער זין
+*   5\. אַנאַליז פון קומפאונדן (אויסער דוואַנדוואַס)
+*   6\. די פֿאָרעם פון דעם ערשטן מיטגליד אין קומפאונדן (⟪समास⟫ מ.)
+*   7\. קלאַסיפֿיקאַציע פון די ⟪तत्पुरुष⟫
+*   7.1\. קלאַסיפֿיקאַציע פון די ⟪कर्मधारय⟫
+*   8\. וואָקאַבולאַר ליסטע
+*   9\. עקסערציע 1
+*   10\. עקסערציע 2
+*   11\. עקסערציע 3
 
-## [Lesson 16](lektion16)
+## [ܡܠܦܢܐ 16](lektion16)
 
 *   1\. On the Sandhi of final consonants
 *   2\. Vocabulary list
 *   3\. Exercise
 *   4\. Review exercise
 
-## [Lesson 17](lektion17)
+## [ܡܠܦܢܐ 17](lektion17)
 
-*   1\. Second present class (⟪अदादि⟫ = ⟪अद्⟫ etc.)
-*   2\. Roots of the second present class with stem gradation strong grade - weak grade
-*   3\. Roots of the second present class with stem gradation guṇa grade - weak grade
-*   4\. Roots of the second present class without stem gradation
-*   5\. Two-syllable roots ending in -i/-ī with stem gradation
-*   6\. Vocabulary list
-*   7\. Exercise 1
-*   8\. Exercise 2
+*   1\. מחנא דאתרע שני (⟪अदादि⟫ = ⟪अद्⟫ וכו')
+*   2\. שרשי מחנא דאתרע שני עם שינוי מדרגה חזקה - חלשה
+*   3\. שרשי מחנא דאתרע שני עם שינוי מדרגה גונה - חלשה
+*   4\. שרשי מחנא דאתרע שני ללא שינוי מדרגה
+*   5\. שרשים בני הברות מסתיימים ב- i/-ī עם שינוי מדרגה
+*   6\. רשימת אוצר המילים
+*   7\. תרגיל 1
+*   8\. תרגיל 2
 
-## [Lesson 18](lektion18)
+## [ܡܠܦܢܐ 18](lektion18)
 
 *   ⟪१⟫. ⟪सुभाषितम्⟫
-*   2\. Determinative compounds (⟪तत्पुरुष⟫) with adverbial first member
-    *   2.1. Compounds of the type ⟪सुकर⟫ / ⟪दुष्कर⟫
-    *   2.2. Meanings of nañ-Tatpuruṣa (a- / an-)
-*   3\. Verbal compounds
-    *   3.1. Nominal formations from verbal compounds
-*   4\. Vocabulary list
-*   5\. Exercise
-*   6\. Review exercise
+*   2\. קומפאונטין דטרמינטיביים (⟪तत्पुरुष⟫) עם חלק ראשון אדברביאלי
+*   2.1. קומפאונטין מסוג ⟪सुकर⟫ / ⟪दुष्कर⟫
+*   2.2. משמעויות של נאן-טתפורוש (א- / אנ-)
+*   3\. קומפאונטין ורבלים
+*   3.1. פורמציות שמיות מקומפאונטין ורבלים
+*   4\. רשימת אוצר מילים
+*   5\. תרגיל
+*   6\. תרגיל סקירה
 
-## [Lesson 19](lektion19)
+## [ܡܠܦܢܐ 19](lektion19)
 
 *   1\. The relative clause
 *   2\. The relative pronoun = ⟪व्यपेक्षकसर्वनाम⟫ n.
@@ -227,22 +227,22 @@ Weekly Saying
 *   4\. Exercise
 *   ⟪५⟫. ⟪सुभाषितानि⟫
 
-## [Lesson 20](lektion20)
+## [ܐܘܠܦܢܐ 20](lektion20)
 
-*   1\. Possessive compounds = ⟪बहुव्रीहि⟫ m.
-*   2\. Bahuvrīhi with attributive first member
-*   3\. Bahuvrīhi with appositional first member
-*   4\. Bahuvrīhi with causal first member
-*   5\. Bahuvrīhi with adverbial first member
-*   6\. Inflection of the final member of a Bahuvrīhi
-*   7\. Another classification of the types of Bahuvrīhis
-*   8\. Relationship between Bahuvrīhi and relative clause
-*   9\. Vocabulary list
-*   10\. Exercise 1
-*   11\. Exercise 2
-*   12\. Translation exercise
+*   ܠܦܢܘܬܐ 1. ܟ̈ܘܝܠܬܐ ܕܡܠܟܘܬܐ = ⟪बहुव्रीहि⟫ ܡܣܟܢܝܐ
+*   2. ܒܗܘܠܝܪܗܝ ܥܡ ܐܘܬܒܥܬܐ ܕܪܒܝܡܐ
+*   3. ܒܗܘܠܝܪܗܝ ܥܡ ܐܘܬܒܥܬܐ ܕܪܒܝܡܐ
+*   4. ܒܗܘܠܝܪܗܝ ܥܡ ܐܘܬܒܥܬܐ ܕܪܒܝܡܐ
+*   5. ܒܗܘܠܝܪܗܝ ܥܡ ܐܘܬܒܥܬܐ ܕܪܒܝܡܐ
+*   6. ܦܠܘܟܬܐ ܕܪܒܝܡܐ ܕܒܗܘܠܝܪܗܝ
+*   7. ܐܘܬܪܐ ܕܒܗܘܠܝܪܗܝ
+*   8. ܫܘܬܦܘܬܐ ܒܝܬ ܒܗܘܠܝܪܗܝ ܘܟ̈ܘܝܠܬܐ ܕܡܠܟܘܬܐ
+*   9. ܡܠܟܘܬܐ ܕܡܠܟܘܬܐ
+*   10. ܡܠܟܘܬܐ 1
+*   11. ܡܠܟܘܬܐ 2
+*   12. ܡܠܟܘܬܐ ܕܡܠܟܘܬܐ
 
-## [Lesson 21](lektion21)
+## [ܕܪܫܐ כא](lektion21)
 
 *   1\. Further present stems ending in -nt
     *   1.1. Present participle (⟪लडादेशः⟫) Parasmaipada
@@ -252,172 +252,172 @@ Weekly Saying
 *   4\. Vocabulary list
 *   5\. Exercise
 
-## [Lesson 22](lektion22)
+## [ܕܪܫܐ 22](lektion22)
 
-*   1\. The absolutive (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
-*   2\. Formation of the absolutive
-    *   2.1. Verbs without prefix: absolutive ending in -⟪त्वा⟫
-    *   2.2. Verbs with prefix
-        *   2.2.1. Roots ending in long vowel (except -ā) or consonant
-        *   2.2.2. Roots ending in -ā
-        *   2.2.3. Roots that end in short -i, -u, -ṛ in the weak grade
-        *   2.2.4. Roots ending in -am / -an, which end in -a in the weak grade
-*   3\. Vocabulary list
-*   4\. Exercise
+*   ܠܦܢܘܬܐ 1\. ܐܪܡܠܐ (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
+*   ܠܦܢܘܬܐ 2\. ܫܪܝܪܬ ܕܐܪܡܠܐ
+*   ܠܦܢܘܬܐ 2.1\. ܡܕܒܪ̈ܝܢ ܠܐ ܥܡ ܩܕܡܝܬܐ: ܫܘܟܒܬ ܐܪܡܠܐ -⟪त्वा⟫
+*   ܠܦܢܘܬܐ 2.2\. ܡܕܒܪ̈ܝܢ ܥܡ ܩܕܡܝܬܐ
+*   ܠܦܢܘܬܐ 2.2.1\. שׁר̈יש̈ܐ ܫܟܒ̈ܝܢ ܒܡܪܬ ܐܘܟܠܐ (ܥܕܡܐ -ā) ܐܘ ܟܢܝܬ
+*   ܠܦܢܘܬܐ 2.2.2\. שׁר̈יש̈ܐ ܫܟܒ̈ܝܢ -ā
+*   ܠܦܢܘܬܐ 2.2.3\. שׁר̈יש̈ܐ ܕܫܟܒ̈ܝܢ -i, -u, -ṛ ܒܡܕܝܬ
+*   ܠܦܢܘܬܐ 2.2.4\. שׁר̈יש̈ܐ ܫܟܒ̈ܝܢ -am / -an, ܕܫܟܒ̈ܝܢ -a ܒܡܕܝܬ
+*   ܠܦܢܘܬܐ 3\. ܪܟܝܠܐ
+*   ܠܦܢܘܬܐ 4\. תּܫܟܠܬ
 
-## [Lesson 23](lektion23)
+## [ܐܘܪܬܐ 23](lektion23)
 
-*   1\. The infinitive (⟪तुमुन्⟫)
-*   2\. Formation of the infinitive (⟪तुमुन्⟫)
-*   3\. The infinitive (⟪तुमुन्⟫) for the roots learned so far
-*   4\. Vocabulary list
-*   5\. Exercise
-*   6\. Review exercise
+*   1\. שפתא (⟪तुमुन्⟫)
+*   2\. יצירת שפתא (⟪तुमुन्⟫)
+*   3\. שפתא (⟪तुमुन्⟫) לשורשים דליקו עד השתא
+*   4\. רשימת מילים
+*   5\. תרגיל
+*   6\. תרגיל סקירה
 
-## [Lesson 24](lektion24)
+## ܕܪܫܐ ܟܕ
 
-*   1\. The dative (⟪चतुर्थी⟫ = "fourth case ending")
-*   2\. Formation of the dative (⟪चतुर्थी⟫)
-    *   2.1. Consonantal stems
-    *   2.2. Interrogative pronouns
-    *   2.3. Demonstrative pronouns
-    *   2.4. Vocalic stems
-*   3\. Sandhi of final -ai and -au
-*   4\. Vocabulary list
-*   5\. Exercise
-*   6\. Further exercises on the usage of the dative
+*   ܠܦܢܘܬܐ 1\. ݂ܓܪܝܐ (⟪चतुर्थी⟫ = "ܣܘܬ ܐܪܒܥܝܐ")
+*   ܠܦܢܘܬܐ 2\. ݂ܓܪܝܐ (⟪चतुर्थी⟫)
+*   ݂ܓܪܝܐ 2.1. ݂ܫܘܡܬ ܟܢܣܘܢܛܐ
+*   ݂ܓܪܝܐ 2.2. ݂ܫܘܡܬ ܦܪܝܣܐ
+*   ݂ܓܪܝܐ 2.3. ݂ܫܘܡܬ ܕܝܡܘܣܐ
+*   ݂ܓܪܝܐ 2.4. ݂ܫܘܡܬ ܒܟܝܐ
+*   ܠܦܢܘܬܐ 3\. ݂ܣܢܕܝ ܚܬܡܐ -ai ו- au
+*   ܠܦܢܘܬܐ 4\. ݂רשימת מילים
+*   ܠܦܢܘܬܐ 5\. תרגיל
+*   ܠܦܢܘܬܐ 6\. תרגילים נוספים על השימוש ב݂גܪܝܐ
 
-## [Lesson 25](lektion25)
+## [ܡܠܦܢܐ 25](lektion25)
 
-*   1\. Formation of the ablative (⟪पञ्चमी⟫ = "fifth case ending")
-*   2\. Usage of the ablative (⟪पञ्चमी⟫)
-*   3\. The suffix -⟪तस्⟫
-*   4\. Other ways to express reasons
-*   5\. Vocabulary list
-*   6\. Exercise
-*   7\. ⟪सुभाषितानि⟫
-*   8\. Translation exercise
+*   1. ܣܘܪ̈ܬܐ ܕܡܠܦܢܘܬܐ (⟪पञ्चमी⟫ = "ܣܘܪ̈ܬܐ ܕܡܠܦܢܘܬܐ")
+*   2. ܫܡܫܘܬܐ ܕܡܠܦܢܘܬܐ (⟪पञ्चमी⟫)
+*   3. ܐܘܪ̈ܚܐ -⟪तस्⟫
+*   4. ܐܘܪ̈ܚܐ ܐܚܪܢܝܐ ܠܡܕܒܪ ܫܘܬܦ̈ܐ
+*   5. ܪܟܝܠܐ ܕܡܠܦ̈ܢܘܬܐ
+*   6. ܡܠܦ̈ܢܘܬܐ
+*   7. ⟪सुभाषितानि⟫
+*   8. ܡܠܦ̈ܢܘܬܐ ܕܬܪܓܡܬܐ
 
-## [Lesson 26](lektion26)
+## [ܕܪܫܐ 26](lektion26)
 
-*   1\. Law of cerebralisations for -s- within the word
-*   2\. Law of cerebralisations for dentals within the word
-*   3\. Word sandhi for palatals, gutturals, ṣ, h + -s
-*   4\. Grassmann's law of aspiration dissimilation
-*   5\. Word sandhi for -m, -n before sibilants
-*   6\. Usage of the simple future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
-*   7\. Formation of the simple future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
-*   8\. Exercise
+*   ܠܘܚܐ ܕܣܪܒܪܝܙܬܐ ܠܡܫܡܫ -s- ܒܝܬ ܟܢܫܐ
+*   ܠܘܚܐ ܕܣܪܒܪܝܙܬܐ ܠܡܫܡܫ ܕܢܛܠܐ ܒܝܬ ܟܢܫܐ
+*   ܣܢܕܝ ܟܠܬܐ ܠܡܫܡܫ ܕܦܠܛܠܐ، ݣܘܬܪܠܐ، ṣ، h + -s
+*   ܠܘܚܐ ݣܪܣܡܢ ܕܬܫܘܥܐ ܠܦܪܝܩܬܐ
+*   ܣܢܕܝ ܟܠܬܐ ܠܡܫܡܫ -m، -n ܩܕܡ sibilants
+*   ܫܘܬܦܐ ܕܡܠܬܐ ܩܕܡ simple future (⟪ऌत्⟫، ⟪भविष्यन्ती⟫ f.)
+*   ܬܪܒܝܬ ܕܡܠܬܐ ܩܕܡ simple future (⟪ऌत्⟫، ⟪भविष्यन्ती⟫  f.)
+*   ܡܠܦܢܘܬܐ
 
-## [Lesson 27](lektion27)
+## [ܕܪܫܐ 27](ܠܩܨܝܘܢ27)
 
-*   1\. Usage of the locative (⟪सप्तमी⟫ f. = "seventh case ending)
-*   2\. Formation of the locative (⟪सप्तमी⟫)
-    *   2.1. Consonantal stems
-    *   2.2. Interrogative, demonstrative, and relative pronouns
-    *   2.3. Vowel stems
-*   3\. Overview of the regular case endings (⟪विभक्ति⟫) of the singular and plural
-*   4\. A verse with all declension forms of the singular to ⟪राम⟫
-*   5\. Word list
-*   6\. Exercise
-*   7\. Declension paradigms to memorize
-    *   7.1. Masculines on -a: ⟪नर⟫
-    *   7.2. Neuters on -a: ⟪फल⟫
-    *   7.3. Feminines on -ā: ⟪क्षत्रिया⟫
-    *   7.4. Masculines on -i: ⟪अरि⟫
-    *   7.5. Feminines on -i: ⟪मति⟫
-    *   7.6. Masculines on -u: ⟪गुरु⟫
-    *   7.7. Feminines on -u: ⟪धेनु⟫#
-    *   7.8. Polysyllabic feminines on -ī: ⟪देवी⟫
-    *   7.9. Present participle Parasmaipada on -ant: ⟪सन्त्⟫
-    *   7.10. ⟪महान्त्⟫
-    *   7.11. Masculines and neuters on -vant / -mant: ⟪गुणवन्त्⟫
-    *   7.12. Demonstrative pronouns: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
-    *   7.13. Relative pronoun: ⟪यद्⟫
-    *   7.14. Interrogative pronoun: ⟪किम्⟫
+*   ܠܘܫܢܐ ܕܡܿܟܽܘܪ (⟪सप्तमी⟫ ܢ. = "סוֹמֶק שְׁבִיעָא")
+*   ܒ݂נܵܐ ܕܡܿܟܽܘܪ (⟪सप्तमी⟫)
+*   ܒ݂נܵܐ ܕמַכּוֹרְתָא
+*   ܫַּׁוְעִין, מַשָּׂא וܕ݁יֵן
+*   שְׂרָגִין ד݁יּוֹן
+*   ܣܸܟ݁וּל ܕ݁מַכּוֹרְתָא (⟪विभक्ति⟫) ܕ݁יַחִיד וְרַב
+*   ܐܝܩ݂תָא ܒְּכֹל שְׁרַגְו̈יָא ܕ݁יַחִיד לְ⟪राम⟫
+*   ܟְתָבָא
+*   מַלּוֹפ̈ܐ
+*   ܦָרַדְגְּמֵי מַכּוֹר
+*   ܦָרְדַּק ܐַכִּי -א: ⟪नर⟫
+*   ܦָרְדַּק נִיטְרוֹ -א: ⟪फल⟫
+*   ܦָרְדַּק נִשׁי -א: ⟪क्षत्रिया⟫
+*   ܦָרְדַּק אַכִּי -א: ⟪अरि⟫
+*   ܦָרְדַּק נִשׁי -א: ⟪मति⟫
+*   ܦָרְדַּק אַכִּי -א: ⟪गुरु⟫
+*   ܦָרְדַּק נִשׁי -א: ⟪धेनु⟫#
+*   ܦָרְדַּק נִשׁי רַב -א: ⟪देवी⟫
+*   ܦָרְדַּק נִשׁי -א: ⟪सन्त्⟫
+*   ܦָרְדַּק ⟪महान्त्⟫
+*   ܦָרְדַּק אַכִּי וניטרו -ו̈ת / -מְנָא: ⟪गुणवन्त्⟫
+*   ܡַשָּׂא: ⟪तद्⟫ ⟪।⟫ ⟪एतद्⟫ ⟪।⟫ ⟪इदम्⟫
+*   ܡַשָּׂא: ⟪यद्⟫
+*   ܡַשָּׂא: ⟪किम्⟫
 
-## [Lesson 28](lektion28)
+## [ܐܘܠܦܢܐ 28](lektion28)
 
-*   1\. The causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   2\. Sentence construction with the causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   3\. Formation of the present stem for the causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
-*   4\. Formation of the passive (⟪यक्⟫)  for the causative
-*   5\. Formation of the future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) for the causative
-*   6\. Formation of the PPP (⟪क्त⟫) for the causative
-*   7\. Formation of the absolutive (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫) for the causative
-*   8\. Formation of the infinitive (⟪तुमुन्⟫) for the causative
-*   9\. The 10th present class (⟪चुरादि⟫ = ⟪चुर्⟫ etc.)
-*   10\. Word list
-*   11\. Exercise
+*   ܐܪܡܝܬ: 1\. ܦܠܚܐ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   ܐܪܡܝܬ: 2\. בְּנִיַן מִשְׁפָּטָא עִם ܦܠܚܐ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   ܐܪܡܝܬ: 3\. יְצִירַת שָׁרְשָׁא דִּזְמַן עַכְשָׁאו לְܦܠܚܐ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+*   ܐܪܡܝܬ: 4\. יְצִירַת מוֹפָע (⟪यक्⟫)  לְܦܠܚܐ
+*   ܐܪܡܝܬ: 5\. יְצִירַת עָתִיד (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ לְוָות) לְܦܠܚܐ
+*   ܐܪܡܝܬ: 6\. יְצִירַת שָׁם פּוֹעַל עָבַר (⟪क्त⟫) לְܦܠܚܐ
+*   ܐܪܡܝܬ: 7\. יְצִירַת מוּסָר (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫) לְܦܠܚܐ
+*   ܐܪܡܝܬ: 8\. יְצִירַת מִסְפָּר (⟪तुमुन्⟫) לְܦܠܚܐ
+*   ܐܪܡܝܬ: 9\. מְעִילָא עַשְׂרָא דִּזְמַן (⟪चुरादि⟫ = ⟪चुर्⟫ וכו')
+*   ܐܪܡܝܬ: 10\. רשימת מילים
+*   ܐܪܡܝܬ: 11\. תִּלְמוּד
 
-## [Lesson 29](lektion29)
+## [ܐܘܪܬܐ 29](lektion29)
 
-*   1\. Usage of the Parasmaipada and Ātmanepada in the causative
-*   2\. Word list
-*   3\. Translation exercise for review
-*   4\. Future and causative for the roots learned so far
+*   ܠܫܢܐ ܕܦܪܡܣܝܦܘܕܐ ܘܐ̈ܛܡܢܝܦܘܕܐ ܒܣܥܘܪܬܐ
+*   ܠܫܢܐ ܕܡܠܬܐ
+*   ܬܪܓܡܘܬܐ ܕܠܦܢܘܬܐ ܠܡܚܙܝ
+*   ܐܬܘܬܐ ܕܥܬܝܩ ܘܣܥܘܪܬܐ ܠܫܪܝܪ̈ܐ ܕܠܦܢܘܬܐ
 
-## [Lesson 30](lektion30)
+## [ܕܪܫܐ 30](lektion30)
 
-*   1\. The 9th present class (⟪क्र्यादि⟫ = "⟪क्री⟫ etc.")
-*   2\. Usage of the optative (⟪लिङ्⟫)
-*   3\. Secondary endings of the 3rd persons singular and plural
-*   4\. Formation of the optative present (⟪लिङ्⟫)
-    *   4.1. Thematic present classes
-    *   4.2. Athematic present classes
-*   5\. Sandhi of final -r
-*   6\. Word list
-*   7\. Exercise
-*   8\. Review exercise on morphology
+*   1\. ܣܕܪܐ 9ܝܬܐ (⟪क्र्यादि⟫ = "⟪क्री⟫ ܘܟܠܗ)
+*   2\. ܐܫܬܡܫܘܬܐ ܕܐܘܦܛܝܘܬܝܼ (⟪लिङ्⟫)
+*   3\. ܐܝܟܬܐ ܕܫܘܡܠܐ ܬܪܒܝܼ (ܣܘܓܠܐ ܘܟܢܝܼ)
+*   4\. ܐܫܬܡܪܘܬܐ ܕܐܘܦܛܝܘܬܝܼ ܩܕܡܝܼ (⟪लिङ्⟫)
+*   4.1. ܣܕܪ̈ܐ ܩܕܡܝܼ ܬܡܝܼ
+*   4.2. ܣܕܪ̈ܐ ܩܕܡܝܼ ܠܐ ܬܡܝܼ
+*   5\. ܫܢܕܗ ܐܚܪܝܼ -r
+*   6\. ܟܬܒܐ ܠܫܢܐ
+*   7\. ܡܟܬܒܐ
+*   8\. ܡܟܬܒܐ ܚܘܪܢܐ ܥܠ ܡܫܬܒܗ
 
-## [Lesson 31](lektion31)
+## [ܕܪܫܐ ܠܐ](ܠܩܛܝܘܢܠܐ)
 
 *   1\. The 7th present class (⟪रुधादि⟫ = "⟪रुध्⟫ etc.")
 *   2\. Word list
 *   3\. Exercise
 
-## [Lesson 32](lektion32)
+## [ܕܪܫܐ 32](lektion32)
 
-*   1\. The past tenses
-*   2\. The imperfect (⟪लङ्⟫)
-*   3\. Rules for the augment
-*   4\. Examples for the formation of the imperfect of the individual present classes
-    *   4.1. Thematic present classes
-    *   4.2. Athematic present classes
-*   5\. Word list
-*   6\. Exercise
-*   7\. Review exercise over the Christmas holidays
+*   ܠܫܢ̈ܐ ܕܙܒܢ̈ܐ ܩܕܡܝܐ
+*   ܠܫܢ̈ܐ ܕܒܝܬ ܦܘܩܕ̈ܢܐ (⟪लङ्⟫)
+*   ܐܘܪ̈ܝܬܐ ܠܡܕܢ̈ܚܐ ܕܬܩܦ
+*   ܡܠ̈ܐ ܠܝܘܬ ܒܝܬ ܦܘܩܕ̈ܢܐ ܕܟܠ ܦܘܩܕ̈ܢܐ
+*   4.1. ܦܘܩܕ̈ܢܐ ܬܡܝܗܝܢ
+*   4.2. ܦܘܩܕ̈ܢܐ ܠܐ ܬܡܝܗܝܢ
+*   ܟܬ̈ܒܐ ܕܠܫܢ̈ܐ
+*   ܡܟܘܬܒ̈ܐ
+*   ܡܟܘܬܒ̈ܐ ܠܝܘܬ ܦܘܩܕ̈ܢܐ
 
-## [Lesson 33](lektion33)
+## ܕܰܪܫܳܐ 33
 
-*   1\. The Reduplication (⟪अभ्यास⟩ m.)
-    *   1.1. The Reduplication Consonant
-*   2\. The Third Present Class (⟪जुहोत्यादि⟩ = "⟪जुहोति⟩ etc.")
-    *   2.1. The Reduplication Vowel of the 3rd Present Class
-*   3\. On the Ablaut of ā
-*   4\. Roots ending in -ā of the third Present Class
-    *   4.1. The roots ⟪दा⟩ and ⟪धा⟩
-*   5\. The Present Participle Parasmaipada of the roots of the 3rd Present Class
-*   6\. Vocabulary List
-*   7\. Exercise
+*   ܠܦܢܘܬܐ 1. (⟪अभ्यास⟩ m.)
+*   1.1. ܟܢܬܐ ܕܪܒܥ ܦܘܫܩ
+*   ܠܦܢܘܬܐ 2. (⟪जुहोत्यादि⟩ = "⟪जुहोति⟩ etc.")
+*   2.1. ܐܘܪܟܝܐ ܕܦܘܫܩ ܬܠܝܬ
+*   ܠܦܢܘܬܐ 3. ܥܠ ܫܪܒܘܬ ܐ
+*   ܠܦܢܘܬܐ 4. שרשים מסתיימים ב-א של הכיתה השלישית
+*   4.1. שרשים ⟪दा⟩ ו-⟪धा⟩
+*   ܠܦܢܘܬܐ 5. שם הפועל הנוכחי פארמסאפדה של שרשים מהכיתה השלישית
+*   ܠܦܢܘܬܐ 6. רשימת אוצר מילים
+*   ܠܦܢܘܬܐ 7. תרגיל
 
-## [Lesson 34](lektion34)
+## [ܕܪܫܐ 34](lektion34)
 
-*   1\. The Perfect (⟪लिट्⟩)
-*   2\. The Reduplicated Perfect (⟪द्वित्वलिट्⟩)
-    *   2.1. Stem Gradation
-    *   2.2. The Perfect Endings
-    *   2.3. Connecting Vowel -i-
-    *   2.4. Reduplication of roots beginning with a consonant
-    *   2.5. Reduplication of roots beginning with a vowel
-*   3\. Types of the Reduplicated Perfect
-*   4\. Perfect Type I: Perfect without Stem Gradation
-*   5\. Perfect II: Strong Stem High Grade, Weak Stem Low Grade
-*   6\. Vocabulary List
-*   7\. Exercise
-*   8\. Translation Exercise
+*   1\. ܛܒܐ (⟪लिट्⟩)
+*   2\. ܛܒܐ ܡܕܘܩܪ (⟪द्वित्वलिट्⟩)
+*   2.1. ܫܪܒܬ ܣܗܕ
+*   2.2. ܫܘܟܠ̈ܐ ܕܛܒܐ
+*   2.3. ܫܘܟܠ̈ܐ ܕܝܣܕ -i-
+*   2.4. ܡܕܘܩܪ ܫܪܒ̈ܐ ܕܡܬܚܠܦ
+*   2.5. ܡܕܘܩܪ ܫܪܒ̈ܐ ܕܡܬܚܠܦ
+*   3\. ܐܘܪ̈ܝܐ ܕܛܒܐ ܡܕܘܩܪ
+*   4\. ܛܒܐ ܐܘܪ̈ܝܐ I: ܛܒܐ ܠܐ ܫܪܒܬ
+*   5\. ܛܒܐ II: ܫܪܒܬ ܩܘܝ̈ܐ, ܫܪܒܬ ܕܘܟ̈ܐ
+*   6\. ܪܘܟ̈ܐ
+*   7\. ܡܠܦܢܘܬܐ
+*   8\. ܡܠܦܢܘܬܐ ܕܬܪܓܡܬ
 
-## [Lesson 35](lektion35)
+## [ܕܪܫܐ 35](lektion35)
 
 *   1\. Perfect Type III: Strong Stem High Grade/Guṇa Grade
     *   1.1. Perfect Type IIIa: Strong Stem High Grade/Guṇa Grade, Weak Stem Low Grade
@@ -430,426 +430,426 @@ Weekly Saying
 *   4\. Vocabulary List
 *   5\. Exercise
 
-## [Lesson 36](lektion36)
+## [ܐܘܠܦܢܐ 36](lektion36)
 
-*   1\. Special Formations of the Perfect
-*   2\. The Periphrastic Perfect (⟪अनुप्रयोगलिट्⟩)
-*   3\. Perfect Passive
-*   4\. Vocabulary List
-*   5\. Exercise
-*   6\. The Perfect (⟪लिट्⟩) for the roots learned so far
-*   7\. Translation Exercise
-*   8\. Review Exercise on Morphology
+*   ܣܘܡܩܐ ܕܟܠܝܠ ܫܘܡܫ
+*   ܟܠܝܠ ܦܪܝܣܬܐ (⟪अनुप्रयोगलिट्⟩)
+*   ܟܠܝܠ ܦܪܘܩ
+*   ܟܬܒܐ ܕܠܫܢ
+*   ܡܟܬܒ
+*   ܟܠܝܠ (⟪लिट्⟩) ܥܕܬ ܫܪܫ
+*   ܡܟܬܒ ܦܪܫ
+*   ܡܟܬܒ ܚܘܪܢ
 
-## [Lesson 37](lektion37)
+## [ܠܶܩܨܝܳܐ 37](lektion37)
 
-*   1\. The Adverb (⟪क्रियाविशेषनम्⟩)
-*   2\. Adverbial Use of Case Forms
-    *   2.1. Accusative (⟪द्वितीया⟩)
-    *   2.2. Instrumental (⟪तृतीया⟩)
-    *   2.3. Dative (⟪चतुर्थी⟩)
-    *   2.4. Ablative (⟪पञ्चमी⟩)
-    *   2.5. Genitive (⟪षष्ठी⟩)
-    *   2.6. Locative (⟪सप्तमी⟩)
-*   3\. Adverbial Use of no longer current Case Forms
-*   4\. Formation of Adverbs with Adverbial Suffixes
-*   5\. Adverbial Compounds
-    *   5.1. Compounds with an adverb or case used adverbially as the second member
-    *   5.2. Adverbially used ⟪बहुव्रीहि⟩
-    *   5.3. ⟪अव्ययीभाव⟩-Compounds
-*   6\. Syntax
-*   7\. Indefinite Pronouns
-*   8\. The Interrogative Sentence
-    *   8.1. Word Questions (Supplementary Questions)
-    *   8.2. Sentence Questions
-*   9\. Vocabulary List
-*   10\. Exercise
-*   11\. Review Exercise
+*   ܐܪܡܝܬܐ 1\. (⟪क्रियाविशेषनम्⟩)
+*   ܐܪܡܝܬܐ 2\. ܒܫܘܥܠܐ ܕܡܪܟܒܬܐ
+*   2.1. ܐܩܘܣܛܬܝܒ (⟪द्वितीया⟩)
+*   2.2. ܐܘܓܡܪܬܝܒ (⟪तृतीया⟩)
+*   2.3. ܕܬܝܒ (⟪चतुर्थी⟩)
+*   2.4. ܐܒܠܬܝܒ (⟪पञ्चमी⟩)
+*   2.5. ܓܢܬܝܒ (⟪षष्ठी⟩)
+*   2.6. ܠܘܟܬܝܒ (⟪सप्तमी⟩)
+*   3\. ܐܪܡܝܬܐ ܕܠܐ ܥܘܕ ܡܪܟܒܬܐ
+*   4\. ܫܘܥܠܐ ܕܡܪܟܒܬܐ
+*   5\. ܡܫܘܥܠܐ
+*   5.1. ܡܫܘܥܠܐ ܕܡܪܟܒܬܐ
+*   5.2. ܡܫܘܥܠܐ ⟪बहुव्रीहि⟩
+*   5.3. ⟪अव्ययीभाव⟩-ܡܫܘܥܠܐ
+*   6\. ܣܝܢܬܐ
+*   7\. ܡܫܘܥܠܐ
+*   8\. ܡܫܘܥܠܐ
+*   8.1. ܡܫܘܥܠܐ
+*   8.2. ܡܫܘܥܠܐ
+*   9\. ܡܫܘܥܠܐ
+*   10\. ܡܫܘܥܠܐ
+*   11\. ܡܫܘܥܠܐ
 
-## [Lesson 38](lektion38)
+## [ܕܪܫܐ ܠܚ](ܠܩܛܝܘܢܠܚ)
 
-*   1\. Solution of the Week
-*   2\. Sound Change of Nasals in Words
-*   3\. Declension of Stems ending in -n
-    *   3.1. Nouns ending in -an as well as Nouns -man or -van after a Vowel
-    *   3.2. Nouns ending in -man or -van after a Consonant
-    *   3.3. Masculines and Neuters ending in -in, -min, -vin
-*   4\. On Nominal Formation: ⟪तद्धित⟩ Suffix -in
-*   5\. Syntax regarding ⟪नामन्⟩
-*   6\. Syntax regarding ⟪आत्मन्⟩
-*   7\. Consonant-ending Stems as First Members of Compounds
-*   8\. Stems ending in -an as Second Member of a ⟪बहुव्रीहि⟩
-*   9\. Vocabulary List
-*   10\. Exercise
-*   11\. Vocabulary List for Translation Exercise
-*   12\. Translation Exercise
+*   ܫܘܬܐ ܕܫܒܥܬܐ
+*   ܛܠܫܢܘܬܐ ܕܢܝܦ̈ܐ ܒܠܫܢܐ
+*   ܦܪܝܩܬܐ ܕܫܪܟ̈ܐ ܒܚܬܡܘܬ -n
+*   3.1. ܫܡ̈ܐ ܒܚܬܡܘܬ -an ܘܫܡ̈ܐ -man ܐܘ -van ܒܝܬ ܡܕܢܒܪ
+*   3.2. ܫܡ̈ܐ ܒܚܬܡܘܬ -man ܐܘ -van ܒܝܬ ܟܢܫ
+*   3.3. ܡܕܟܪ̈ܐ ܘܢܫܝܐ ܒܚܬܡܘܬ -in, -min, -vin
+*   4\. ܥܠ ܦܘܪܡܬ ܫܡ̈ܐ: ⟪तद्धित⟩ ܦܘܬܪ -in
+*   5\. ܣܝܢܛܩܬܐ ܥܠ ⟪नामन्⟩
+*   6\. ܣܝܢܛܩܬܐ ܥܠ ⟪आत्मन्⟩
+*   7\. ܫܪܟ̈ܐ ܒܚܬܡܘܬ ܟܢܫ ܐܪܒܥܝܘܬܐ ܕܟܢ̈ܫ
+*   8\. ܫܪܟ̈ܐ ܒܚܬܡܘܬ -an ܟܪ̈ܝܐ ܕ⟪बहुव्रीहि⟩
+*   9\. ܦ̈ܠܟܬܐ ܕܠܫܢܐ
+*   10\. ܡܠܦܢܘܬܐ
+*   11\. ܦ̈ܠܟܬܐ ܕܠܫܢܐ ܠܡܠܦܢܘܬ ܬܪܓܡܐ
+*   12\. ܡܠܦܢܘܬ ܬܪܓܡܐ
 
-## [Lesson 39](lektion39)
+## [ܐܘܠܦܢܐ 39](lektion39)
 
-*   1. The personal endings of the first person (⟪तृतीयः⟫ ⟪पुरुषः⟫ = "third person")
-*   2. Formation of the first person verb forms of thematic present stems
-    *   2.1. First present class (⟪भ्वादि⟫)
-    *   2.2. Sixth present class (⟪तुदादि⟫)
-    *   2.3. Fourth present class (⟪दिवादि⟫)
-    *   2.4. Tenth present class (⟪चुरादि⟫) and causatives (⟪णिजन्त⟫)
-    *   2.5. Passive (suffix ⟪यक्⟫)
-*   3. Formation of the first person verb forms of the simple future (⟪ऌत्⟫)
-    *   3.1. ⟪अनिट्⟫-formation
-    *   3.2. ⟪सेट्⟫-formation
-*   4. Formation of the first person verb forms of athematic present stems
-    *   4.1. Second present class (⟪अदादि⟫)
-    *   4.2. Third present class (⟪जुहोत्यादि⟫)
-    *   4.3. Fifth present class (⟪स्वादि⟫)
-    *   4.4. Eighth present class (⟪तनादि⟫)
-    *   4.5. Seventh present class (⟪रुधादि⟫)
-    *   4.6. Ninth present class (⟪क्र्यादि⟫)
-*   5. Exercise
+*   1. סיומי הפועל של האיש הראשון (⟪तृतीयः⟫ ⟪पुरुषः⟫ = "איש שלישי")
+*   2. בניין צורות הפועל של האיש הראשון בשורשים תמטיים בהווה
+*   2.1. מחלקת הווה ראשונה (⟪भ्वादि⟫)
+*   2.2. מחלקת הווה שישית (⟪तुदादि⟫)
+*   2.3. מחלקת הווה רביעית (⟪दिवादि⟫)
+*   2.4. מחלקת הווה עשירית (⟪चुरादि⟫) ופועלי גרמה (⟪णिजन्त⟫)
+*   2.5. מעבר (סיומת ⟪यक्⟫)
+*   3. בניין צורות הפועל של האיש הראשון בעתיד פשוט (⟪ऌत्⟫)
+*   3.1. בניין ⟪अनिट्⟫
+*   3.2. בניין ⟪सेट्⟫
+*   4. בניין צורות הפועל של האיש הראשון בשורשים אל-תמטיים בהווה
+*   4.1. מחלקת הווה שנייה (⟪अदादि⟫)
+*   4.2. מחלקת הווה שלישית (⟪जुहोत्यादि⟫)
+*   4.3. מחלקת הווה חמישית (⟪स्वादि⟫)
+*   4.4. מחלקת הווה שמינית (⟪तनादि⟫)
+*   4.5. מחלקת הווה שביעית (⟪रुधादि⟫)
+*   4.6. מחלקת הווה תשיעית (⟪क्र्यादि⟫)
+*   5. תרגילים
 
-## [Lesson 40](lektion40)
+## [ܐܘܠܦܢܐ 40](lektion40)
 
 *   1. ⟪सुभाषितानि⟫
-*   2. Formation of the first person perfect verb forms (⟪लिट्⟫)
-    *   2.1. Perfect type I: no stem gradation
-    *   2.2. Perfect type II: strong stem strong grade, weak stem weak grade
-    *   2.3. Perfect type III: Strong stem strong grade/guṇa grade
-        *   2.3.1. Perfect type IIIa: Strong stem strong grade/guṇa grade, weak stem weak grade
-        *   2.3.2. Perfect type IIIb: Strong stem strong grade/guṇa grade, weak stem strong grade
-    *   2.4. Perfect type IV: Roots ending in -ā / -ai
-    *   2.5. Perfect type V: Consonant-a-Consonant
-        *   2.5.1. Perfect type Va: Consonant-a-Consonant, weak stem weak grade
-        *   2.5.2. Perfect type Vb: Consonant-a-Consonant, initial consonant not guttural, aspirate, h, weak stem without reduplication, with -e-
-        *   2.5.3. Perfect type Vc: Consonant-a-Consonant, weak stem strong grade
-    *   2.6. Special perfect formations
-*   3. Formation of the first person verb forms of the periphrastic perfect (⟪अनुप्रयोगलिट्⟫)
-*   4. Syntax regarding the first person (⟪तृतीयः⟫)
-*   5. Personal pronouns (⟪पुरुषार्थकसर्वनाम⟫) of the 1st person singular and plural
-*   6. Word list
-*   7. Exercise
-*   8. Review exercise on morphology
+*   2. Formación de las formas verbales del perfecto en primera persona (⟪लिट्⟫)
+*   2.1. Tipo de perfecto I: sin gradación del tema
+*   2.2. Tipo de perfecto II: tema fuerte en grado fuerte, tema débil en grado débil
+*   2.3. Tipo de perfecto III: Tema fuerte en grado fuerte/grado guṇa
+*   2.3.1. Tipo de perfecto IIIa: Tema fuerte en grado fuerte/grado guṇa, tema débil en grado débil
+*   2.3.2. Tipo de perfecto IIIb: Tema fuerte en grado fuerte/grado guṇa, tema débil en grado fuerte
+*   2.4. Tipo de perfecto IV: Raíces que terminan en -ā / -ai
+*   2.5. Tipo de perfecto V: Consonante-a-Consonante
+*   2.5.1. Tipo de perfecto Va: Consonante-a-Consonante, tema débil en grado débil
+*   2.5.2. Tipo de perfecto Vb: Consonante-a-Consonante, consonante inicial no gutural ni aspirada ni h, tema débil sin reduplicación, con -e-
+*   2.5.3. Tipo de perfecto Vc: Consonante-a-Consonante, tema débil en grado fuerte
+*   2.6. Formaciones perfectas especiales
+*   3. Formación de las formas verbales en primera persona del perfecto perífrástico (⟪अनुप्रयोगलिट्⟫)
+*   4. Sintaxis respecto a la primera persona (⟪तृतीयः⟫)
+*   5. Pronombres personales (⟪पुरुषार्थकसर्वनाम⟫) de la primera persona singular y plural
+*   6. Lista de palabras
+*   7. Ejercicio
+*   8. Ejercicio de repaso sobre morfología
 
-## [Lesson 41](lektion41)
+## [ܐܘܠܦܢܐ 41](lektion41)
 
-*   1. ⟪सुभाषिते⟩ (two proverbs)
-*   2. Further ⟪कृत्⟫-formations on -a
-    *   2.1. Present participle (⟪लडादेशः⟫) Ā, Present participle (⟪लडादेशः⟫) Passive, Future participle (⟪ऌडादेशः⟫) Ā
-        *   2.1.1. Thematic present stems, passive and future
-        *   2.1.2. Athematic present classes
-    *   2.2. "Participle" of passive necessity (gerundive) (⟪कृत्य⟫)
-        *   2.2.1. The suffix -⟪तव्य⟫ / -⟪तव्या⟫
-        *   2.2.2. The suffix -⟪अनीय⟫ / -⟪अनीया⟫
-        *   2.2.3. The suffix -⟪य⟫ / -⟪या⟫
-        *   2.2.4. The suffix -⟪त्य⟫ / ⟪त्या⟫ (instead of -⟪य⟫ / -⟪या⟫)
-    *   2.3. Syntax regarding the "participle" of passive necessity (gerundive) (⟪कृत्य⟫)
-    *   2.4. Differences in the usage of gerundive suffixes
-    *   2.5. No connection with ⟪सु⟫- and ⟪दुस्⟫-
-*   3. Word list
-*   4. Exercise
+*   1. ⟪सुभाषिते⟩ (ܫܘܬ̈ܦ̈ܝ ܡܠܠܐ)
+*   2. ܥܕܪ̈ܐ ܠܝܬܪ̈א कृत्-ܐ ܥܠ -a
+*   2.1. שׁוּם פָּעֵל עַכְשָׁו (⟪लडादेशः⟩) אַל�ף, שׁוּם פָּעֵל עַכְשָׁו (⟪लडादेशः⟩) פָּעִיל, שׁוּם פָּעֵל עָתִיד (⟪ऌडादेशः⟩) אַלֶף
+*   2.1.1. שָׁרְשֵׁי פָּעִיל תִּמַתְרִים, פָּעִיל וְעָתִיד
+*   2.1.2. מַחְלָקוֹת פָּעִיל אֵין תִּמְתוּר
+*   2.2. "שׁוּם פָּעֵל" שֶׁל צְרִיכוּת פָּעִיל (גֵּרוּנְדִיב) (⟪कृत्य⟩)
+*   2.2.1. הַסּוֹף -⟪तव्य⟩ / -⟪तव्या⟩
+*   2.2.2. הַסּוֹף -⟪अनीय⟩ / -⟪अनीया⟩
+*   2.2.3. הַסּוֹף -⟪य⟩ / -⟪या⟩
+*   2.2.4. הַסּוֹף -⟪त्य⟩ / ⟪त्या⟩ (בְּמָקוֹם -⟪य⟩ / -⟪या⟩)
+*   2.3. דַּקְדּוּק עִנְיָן "שׁוּם פָּעֵל" שֶׁל צְרִיכוּת פָּעִיל (גֵּרוּנְדִיב) (⟪कृत्य⟩)
+*   2.4. הַבְדָּלוֹת בְּהִשְׁתַּמְּרוּת סוֹפֵי גֵּרוּנְדִיב
+*   2.5. אֵין קֶשֶׁר עִם ⟪सु⟩- וְעִם ⟪दुस्⟩-
+*   3. רשימת מילים
+*   4. תֵּנוּעָה
 
-## [Lesson 42](lektion42)
+## ܐܘܠܦܢܐ 42
 
-*   1\. Stems in -ṛ
-    *   1.1. Stems with lengthened grade in the strong stem
-    *   1.2. Nominal formation: ⟪कृत्⟫-suffix -⟪तृ⟫
-    *   1.3. Stems with full grade in the strong stem
-    *   1.4. Stems in -ṛ in compounds
-*   2\. Vocabulary list
-    *   2.1. Some kinship terms
-*   3\. Exercise
-*   4\. Translation exercise
+*   1\. שרשים ב-ṛ
+*   1.1. שרשים עם דרגה מוארכת בשורש החזק
+*   1.2. יצירה שמית: סיומת ⟪कृत्⟫-⟪तृ⟫
+*   1.3. שרשים עם דרגה מלאה בשורש החזק
+*   1.4. שרשים ב-ṛ בהרכבים
+*   2\. רשימת מילים
+*   2.1. כמה מונחי יחוס משפחה
+*   3\. תרגיל
+*   4\. תרגיל תרגום
 
-## [Lesson 43](lektion43)
+## [ܠܶܩܨܝܳܐ 43](ܠܶܩܨܝܳܐ43)
 
-*   1\. Personal endings of the 2nd person (⟪मध्यमः⟫ = "middle \<person\>")
-*   2\. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫)
-    *   2.1. Thematic stems
-        *   2.1.1. First present class (⟪भ्वादि⟫)
-        *   2.1.2. Sixth present class (⟪तुदादि⟫)
-        *   2.1.3. Fourth present class (⟪दिवादि⟫)
-        *   2.1.4. Tenth present class (⟪चुरादि⟫) and causatives
-        *   2.1.5. Passive
-        *   2.1.6. Future (⟪ऌट्⟫)
-            *   2.1.6.1. ⟪अनिट्⟫-forms
-            *   2.1.6.2. ⟪सेट्⟫-forms
-*   3\. The personal pronoun of the second person
-*   4\. Vocabulary list
-*   5\. Exercise
-*   6\. ⟪संवादः⟫ = Conversation
+*   ܠܫܢ̈ܐ ܕܡܕܒܪ̈ܝܬܐ ܕܦܘܠܢܐ ܬܪ̈ܝܬܐ (⟪मध्यमः⟫ = "ܡ̈ܕܒܪ̈ܝܬܐ &lt;ܦܘܠܢ&gt;")
+*   ܫܪ̈ܝܬܐ ܕܡܠܦ̈ܘܬܐ ܕܡܕܒܪ̈ܝܬܐ ܕܦܘܠܢܐ ܬܪ̈ܝܬܐ (⟪मध्यमः⟫)
+*   ܬܪ̈ܝܬܐ ܠܦܢ̈ܝܐ
+*   ܬܪ̈ܝܬܐ ܠܦܢ̈ܝܐ ܪܒܝܥܬܐ (⟪भ्वादि⟫)
+*   ܬܪ̈ܝܬܐ ܠܦܢ̈ܝܐ ܫܪܒܥܬܐ (⟪तुदादि⟫)
+*   ܬܪ̈ܝܬܐ ܠܦܢ̈ܝܐ ܪܒܥܬܐ (⟪दिवादि⟫)
+*   ܬܪ̈ܝܬܐ ܠܦܢ̈ܝܐ ܥܫܪܬܐ (⟪चुरादि⟫) ܘܡܕܒܪ̈ܝܬܐ
+*   ܬܪ̈ܝܬܐ ܠܦܢ̈ܝܐ
+*   ܬܪ̈ܝܬܐ ܠܦܢ̈ܝܐ (⟪ऌट्⟫)
+*   ܬܪ̈ܝܬܐ ܠܦܢ̈ܝܐ ܪܒܥܬܐ (⟪अनिट्⟫)
+*   ܬܪ̈ܝܬܐ ܠܦܢ̈ܝܐ ܫܪܒܥܬܐ (⟪सेट्⟫)
+*   ܡ̈ܕܒܪ̈ܝܬܐ ܕܦܘܠܢܐ ܬܪ̈ܝܬܐ
+*   ܡܠܦ̈ܘܬܐ
+*   ܡܕܒܪ̈ܝܬܐ
+*   ⟪संवादः⟫ = ܡ̈ܕܒܪ̈ܝܬܐ
 
-## [Lesson 44](lektion44)
+## [ܕܲܪܫܵܐ 44](ܠܹܩܨܝܼܘܿܢ44)
 
-*   1.  Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems with a suffix ending in a vowel
-    *   1.1. Fifth present class (⟪स्वादि⟫)
-    *   1.2. Eighth present class (⟪तनादि⟫)
-    *   1.3. Ninth present class (⟪क्र्यादि⟫)
-*   2\. On word sandhi
-    *   2.1. On word sandhi for dh-
-    *   2.2. On word sandhi for s-
-*   3.  Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems without a suffix ending in a vowel
-    *   3.1. Second present class (⟪अदादि⟫)
-*   4\. The vocative (⟪आमन्त्रितम्⟫)
-*   5\. Vocabulary list
-*   6\. Exercise
-*   7\. Review exercise on morphology
+*   1.  ܦܘܪܡܐ ܕܣܘܓܠ̈ܬ ܦܥܠ̈ܐ ܕܡܢܝܢ ܬܪܥܝܢ (⟪मध्यमः⟫) ܣܠܩ̈ܬ ܐܝܟܘܬ ܣܘܓܠ̈ܐ
+*   1.1. ܦܘܪܡܐ ܕܣܘܓܠ̈ܬ ܦܥܠ̈ܐ ܕܡܢܝܢ ܬܪܥܝܢ (⟪स्वादि⟫) ܣܠܩ̈ܬ ܐܝܟܘܬ
+*   1.2. ܦܘܪܡܐ ܕܣܘܓܠ̈ܬ ܦܥܠ̈ܐ ܕܡܢܝܢ ܬܪܥܝܢ (⟪तनादि⟫) ܣܠܩ̈ܬ ܐܝܟܘܬ
+*   1.3. ܦܘܪܡܐ ܕܣܘܓܠ̈ܬ ܦܥܠ̈ܐ ܕܡܢܝܢ ܬܪܥܝܢ (⟪क्र्यादि⟫) ܣܠܩ̈ܬ ܐܝܟܘܬ
+*   2\. ܥܠ ܣܘܓܠ̈ܬ ܡܕܒܪ
+*   2.1. ܥܠ ܣܘܓܠ̈ܬ ܡܕܒܪ ܕܗ
+*   2.2. ܥܠ ܣܘܓܠ̈ܬ ܡܕܒܪ ܣ
+*   3.  ܦܘܪܡܐ ܕܣܘܓܠ̈ܬ ܦܥܠ̈ܐ ܕܡܢܝܢ ܬܪܥܝܢ (⟪मध्यमः⟫) ܣܠܩ̈ܬ ܐܝܟܘܬ ܣܘܓܠ̈ܐ
+*   3.1. ܦܘܪܡܐ ܕܣܘܓܠ̈ܬ ܦܥܠ̈ܐ ܕܡܢܝܢ ܬܪܥܝܢ (⟪अदादि⟫) ܣܠܩ̈ܬ ܐܝܟܘܬ
+*   4\. ܡܕܒܪ (⟪आमन्त्रितम्⟫)
+*   5\. ܡܕܒܪ ܣܘܓܠ̈ܬ
+*   6\. ܡܕܒܪ ܣܘܓܠ̈ܬ
+*   7\. ܡܕܒܪ ܣܘܓܠ̈ܬ
 
-## [Lesson 45](lektion45)
+## [ܐܘܪܬܐ 45](lektion45)
 
-*   1\. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) athematic stems without a suffix ending in a vowel (continuation)
-    *   1.1. Third present class (⟪जुहोत्यादि⟫)
-    *   1.2. Seventh present class (⟪रुधादि⟫)
-*   2\. The singular vocative (⟪आमन्त्रितमेकवचने⟫)
-*   3\. Vocabulary list
-*   4\. Exercise
+*   ܠܦܢܘܬܐ 1\. ܫܪܝܪܘܬܐ ܕܦܘܪܡܣ̈ܝܢ ܕܠܫܘܢ ܬܪܥܝܐ (⟪मध्यमः⟫) ܣ̈ܘܡܟ̈ܐ ܠܝܬ ܒܗוֹן ܫܘܣܦ̈ܐ ܒܬܪ ܡܠܬܐ ܕܟܝܢܐ (ܫܘܠܩ̈ܐ)
+*   ܠܦܢܘܬܐ 1.1. ܣ̈ܕܪܐ ܬܠܝܬܐ ܕܦܘܪܡܣ̈ܝܢ (⟪जुहोत्यादि⟫)
+*   ܠܦܢܘܬܐ 1.2. ܣ̈ܕܪܐ ܫܒܥܝܐ ܕܦܘܪܡܣ̈ܝܢ (⟪रुधादि⟫)
+*   ܠܦܢܘܬܐ 2\. ܡܕܥ̈ܐ ܒܪܝܬܐ (⟪आमन्त्रितमेकवचने⟫)
+*   ܠܦܢܘܬܐ 3\. ܟܬܒ̈ܐ ܕܠܫܘܢ
+*   ܠܦܢܘܬܐ 4\. ܡܕܥ̈ܐ
 
-## [Lesson 46](lektion46)
+## [ܐܘܠܦܢܐ 46](lektion46)
 
-*   1\. Formation of the verbal forms of the 2nd person (⟪मध्यमः⟫) perfect (⟪लिट्⟫)
-    *   1.1. Endings
-    *   1.2. Sound change of the ending -dhve
-    *   1.3. Perfect Type I: no stem alternation
-    *   1.4. Perfect Type II: strong stem full grade, weak stem zero grade
-    *   1.5. Perfect Type III: strong stem full grade/lengthened grade
-        *   1.5.1. Perfect Type IIIa: strong stem full grade/lengthened grade, weak stem zero grade
-        *   1.5.2. Perfect Type IIIb: strong stem full grade/lengthened grade, weak stem full grade
-    *   1.6. Perfect Type IV: roots in -ā / -ai
-    *   1.7. Perfect Type V: Consonant-a-Consonant
-        *   1.7.1. Perfect Type Va: Consonant-a-Consonant, weak stem zero grade
-        *   1.7.2. Perfect Type Vb: Consonant-a-Consonant, initial consonant not a guttural, aspirate, h, weak stem without reduplication, with -e-
-        *   1.7.3. Perfect Type Vc: Consonant-a-Consonant, weak stem full grade
-    *   1.8. Special perfect formations
-    *   1.9. Periphrastic perfect (⟪अनुप्रयोगलिट्⟫)
-*   2\. Vocabulary list
-*   3\. Exercise
+*   ܠܦܢܘܬܐ 1\. ܫܪܝܪܬܐ ܕܡܠܬܐ ܕܢܘܟܚ ܬܪܝܬܐ (⟪मध्यमः⟫) ܩܕܡܝܐ (⟪लिट्⟫)
+*   ܠܦܢܘܬܐ 1.1. ܫܘܟܠܐ
+*   ܠܦܢܘܬܐ 1.2. ܛܥܡܬܐ ܕܫܘܟܠܐ -dhve
+*   ܠܦܢܘܬܐ 1.3. ܣܕܪܐ ܩܕܡܝܐ I: ܠܐ ܫܪܒܬܐ
+*   ܠܦܢܘܬܐ 1.4. ܣܕܪܐ ܩܕܡܝܐ II: ܫܪܒܬܐ ܩܘܝܬܐ ܡܠܐ, ܫܪܒܬܐ ܟܝܢܬܐ ܙܪܥ
+*   ܠܦܢܘܬܐ 1.5. ܣܕܪܐ ܩܕܡܝܐ III: ܫܪܒܬܐ ܩܘܝܬܐ ܡܠܐ/ܫܪܒܬܐ ܡܕܥ
+*   ܠܦܢܘܬܐ 1.5.1. ܣܕܪܐ ܩܕܡܝܐ IIIa: ܫܪܒܬܐ ܩܘܝܬܐ ܡܠܐ/ܫܪܒܬܐ ܡܕܥ, ܫܪܒܬܐ ܟܝܢܬܐ ܙܪܥ
+*   ܠܦܢܘܬܐ 1.5.2. ܣܕܪܐ ܩܕܡܝܐ IIIb: ܫܪܒܬܐ ܩܘܝܬܐ ܡܠܐ/ܫܪܒܬܐ ܡܕܥ, ܫܪܒܬܐ ܟܝܢܬܐ ܡܠܐ
+*   ܠܦܢܘܬܐ 1.6. ܣܕܪܐ ܩܕܡܝܐ IV: שרשים ב-ā / -ai
+*   ܠܦܢܘܬܐ 1.7. ܣܕܪܐ ܩܕܡܝܐ V: עיצור-a-עיצור
+*   ܠܦܢܘܬܐ 1.7.1. ܣܕܪܐ ܩܕܡܝܐ Va: עיצור-a-עיצור, ܫܪܒܬܐ ܟܝܢܬܐ ܙܪܥ
+*   ܠܦܢܘܬܐ 1.7.2. ܣܕܪܐ ܩܕܡܝܐ Vb: עיצור-a-עיצור, ܫܪܒܬܐ ܩܕܡܝܐ ܠܐ עיצור גרוני, חית, h, ܫܪܒܬܐ ܟܝܢܬܐ ܠܐ תגין, ב-e-
+*   ܠܦܢܘܬܐ 1.7.3. ܣܕܪܐ ܩܕܡܝܐ Vc: עיצור-a-עיצור, ܫܪܒܬܐ ܟܝܢܬܐ ܡܠܐ
+*   ܠܦܢܘܬܐ 1.8. ܫܪܒܬܐ ܩܕܡܝܐ מיוחדת
+*   ܠܦܢܘܬܐ 1.9. ܩܕܡܝܐ פריפראטי (⟪अनुप्रयोगलिट्⟫)
+*   ܠܦܢܘܬܐ 2\. רשימת מילים
+*   ܠܦܢܘܬܐ 3\. תרגיל
 
-## [Lesson 47](lektion47)
+## ܐܘܠܦܢܐ 47
 
-*   1\. The Imperative (⟪लोट्⟫)
-*   2\. Formation of the Imperative (⟪लोट्⟫) thematic present stems
-    *   2.1. Endings of the Imperative on thematic present stems
-    *   2.2. First present class (⟪भ्वादि⟫)
-    *   2.3. Sixth present class (⟪तुदादि⟫)
-    *   2.4. Fourth present class (⟪दिवादि⟫)
-    *   2.5. Tenth present class (⟪चुरादि⟫) and causatives
-    *   2.6. Passive
-*   3\. Exercise
+*   ܐܪܡܝܘ ܕܩܠ (⟪लोट्⟫)
+*   ܦܘܪܡܬ ܕܐܪܡܝܘ (⟪लोट्⟫) שרשי הוֹאָה תִּמְתִיק
+*   2.1. סוּפֵי אַרְמָא עַל שׁרשי הוֹאָה תִּמְתִיק
+*   2.2. מַחְלָקָא תִּשְׁעָא דְהוֹאָה (⟪भ्वादि⟫)
+*   2.3. מַחְלָקָא שִׁישָּׁא דְהוֹאָה (⟪तुदादि⟫)
+*   2.4. מַחְלָקָא רְבִיעָא דְהוֹאָה (⟪दिवादि⟫)
+*   2.5. מַחְלָקָא עֲשָׂרָא דְהוֹאָה (⟪चुरादि⟫) וְקַוִּין
+*   2.6. פָּעֵל מְסַב
+*   3. תִּשְׁעָא
 
-## [Lesson 48](lektion48)
+## [ܕܪܫܐ 48](lektion48)
 
 *   1\. ⟪सुभाषितानि⟫
-*   2\. Formation of the Imperative (⟪लोट्⟫) athematic present stems
-    *   2.1. Endings of the Imperative on athematic present stems
-    *   2.2. Form of the present stem
-    *   2.3. Second present class (⟪अदादि⟫)
-    *   2.4. Third present class (⟪जुहोत्यादि⟫)
-*   3\. On nominal formation: ⟪तद्धित⟫ suffixes -a and -ya
-*   4\. Word list
-*   5\. Exercise
-*   6\. Translation exercise
+*   2\. Formación del Imperativo (⟪लोट्⟫) temas presentes atemáticos
+*   2.1. Desinencias del Imperativo en temas presentes atemáticos
+*   2.2. Forma del tema presente
+*   2.3. Segunda clase de presentes (⟪अदादि⟫)
+*   2.4. Tercera clase de presentes (⟪जुहोत्यादि⟫)
+*   3\. Sobre la formación nominal: sufijos ⟪तद्धित⟫ -a y -ya
+*   4\. Lista de palabras
+*   5\. Ejercicio
+*   6\. Ejercicio de traducción
 
-## [Lesson 49](lektion49)
+## [ܐܘܠܦܢܐ 49](lektion49)
 
-*   1\. Formation of the Imperative (⟪लोट्⟫) athematic present stems (continuation)
-    *   1.1. Seventh present class  (⟪रुधादि⟫)
-    *   1.2. Fifth present class (⟪स्वादि⟫)
-    *   1.3. Eighth present class (⟪तनादि⟫)
-    *   1.4. Ninth present class (⟪क्र्यादि⟫)
-*   2\. Declension of nominal stems ending in -as, -is, -us
-*   3\. Nominal formation: ⟪कृत्⟫ suffix -as Neuter
-*   4\. Word list
-*   5\. Review exercise on morphology
-*   6\. Translation exercise
+*   1. ܐܘܪ̈ܚܐ ܕܡܠܦܢܘܬ ܩܛܪ̈ܐ (⟪लोट्⟫) שרשי הוויתא דלא אורחין (משך)
+*   1.1. שביעית מניינא דהוויתא (⟪रुधादि⟫)
+*   1.2. חמישית מניינא דהוויתא (⟪स्वादि⟫)
+*   1.3. שמינית מניינא דהוויתא (⟪तनादि⟫)
+*   1.4. תשיעית מניינא דהוויתא (⟪क्र्यादि⟫)
+*   2. ִשְׁנוּת שרשי שמות הנגמרים ב-אס, -יס, -וס
+*   3. ִצְרוּף שם: סיומת אס נייטרלי (⟪कृत्⟫)
+*   4. רשימת מילים
+*   5. תרגיל חזרה על המורפולוגיה
+*   6. תרגיל תרגום
 
-## [Lesson 50](lektion50)
+## [ܐܘܪܬܐ 50](lektion50)
 
 *   1\. Nominal formation: regular comparison
 *   2\. Word list
 *   3\. Translation exercise
 
-## [Lesson 51](lektion51)
+## [ܐܘܠܦܢܐ 51](lektion51)
 
 *   1\. ⟪उपपद⟫ compounds
 *   2\. Declension of stems ending in a simple consonant (except nasal, semivowel, -s)
-    *   2.1. Stems ending in non-palatal stop
-    *   2.2. Stems ending in palatal stop (c, ch, j), ś, ṣ
-    *   2.3. Stems ending in -h
+*   2.1. Stems ending in non-palatal stop
+*   2.2. Stems ending in palatal stop (c, ch, j), ś, ṣ
+*   2.3. Stems ending in -h
 *   3\. Sandhi of initial h-
 *   4\. Sandhi of initial ch-
 *   5\. -ch- within the word
 *   6\. Word list
 *   7\. Translation exercise
 
-## [Lesson 52](lektion52)
+## [ܐܘܠܦܢܐ 52](lektion52)
 
-*   1\. Neuter of stems ending in -i and -u
-*   2\. Nominal formation
-    *   2.1. PPP + -vant: Past participle Parasmaipada
-    *   2.2. ⟪तद्धित⟫ suffix -maya / -mayī
-    *   2.3. ⟪तद्धित⟫ suffix -eya
-*   3\. Adverbial formation: adverbial suffix -śas
-*   4\. Verbal compounds expressing that something becomes or is made into something it was not before (⟪अभुततद्भावः⟫)
-    *   4.1. cvi formations
-    *   4.2. Suffix -sāt
-*   5\. Word repetitions (⟪द्विरुक्तम्⟫)
-*   6\. The numeral (⟪सम्ख्या⟫ f.)
-    *   6.1. Cardinal numbers
-        *   6.1.1. Number adjectives (for 1 to 19)
-        *   6.1.2. Number nouns (for 19ff.)
-        *   6.1.3. Syntax regarding cardinal numbers
-    *   6.2. Ordinal numbers
-    *   6.3. Number adverbs
-    *   6.4. Number adjectives
-    *   6.5. Compounds with cardinal numbers in the first member
-*   7\. Word list
-*   8\. Translation exercise
-*   9\. Tasks during the semester break
+*   ܠܦܢܘܬܐ 1\. נייטרל דאִגְמָן דִּי סוֹפְהוֹן ב־i ו־u
+*   ܠܦܢܘܬܐ 2\. יְצִירַת שֵׁם עָמֳר
+*   2.1. PPP + -vant: שֵׁם פָּעוֹל עָתִיד מִן הַצְדָּא דִי פַרָסָמִיפָּדָה
+*   2.2. ⟪तद्धित⟫ סוּפִיקס -maya / -mayī
+*   2.3. ⟪तद्धित⟫ סוּפִיקס -eya
+*   ܠܦܢܘܬܐ 3\. יְצִירַת מִלָּה: סוּפִיקס מִילְתָּא -śas
+*   ܠܦܢܘܬܐ 4\. קוֹמְפּוּנַט דִּי פָעֲלֵי מְבַרְרִין דִּי מִילָּה אֲתַרְגְלָא אוֹ נַעֲבֵיד לְמִילָּה דִי הוּא לָאו מִן קַדְמָא (⟪अभुततद्भावः⟫)
+*   4.1. יְצִירַת cvi
+*   4.2. סוּפִיקס -sāt
+*   ܠܦܢܘܬܐ 5\. כְּפִילוּת מִלַּיִן (⟪द्विरुक्तम्⟫)
+*   ܠܦܢܘܬܐ 6\. מִנְיָן (⟪सम्ख्या⟫ נְקִיב)
+*   6.1. מִנְיָן קַרְדִינָל
+*   6.1.1. מִילַת מִנְיָן (לְמֵין 1 לְ19)
+*   6.1.2. שֵׁם עָמֳר דִּי מִנְיָן (לְמֵין 19 וּלְעֵיל)
+*   6.1.3. סִינְטַקְסָא דִּי מִלַּת מִנְיָן קַרְדִינָל
+*   6.2. מִנְיָן סוּרְדִינָל
+*   6.3. מִילַת מִנְיָן
+*   6.4. מִילַת מִנְיָן
+*   6.5. קוֹמְפּוּנַט דִּי מִלַּת מִנְיָן קַרְדִינָל בְּמַאֲרָכָא קַדְמָא
+*   ܠܦܢܘܬܐ 7\. רִשְׁמַת מִלַּיִן
+*   ܠܦܢܘܬܐ 8\. תִּרְגְּמָא דִי מַלְחֲמָה
+*   ܠܦܢܘܬܐ 9\. מַעֲבָדוּת בְּשׁוּבְעַת שִׁבְקָא דִי סֵמֶס
 
-## [Lesson 53](lektion53)  (Semester break)
+## [ܠܶܩܨܝܳܐ 53](ܠܶܩܨܝܳܐ53) (ܦܽܘܪܫܳܐ ܕܣܶܡܶܣܬܰܪ)
 
-*   1\. The Dual (⟪द्विवचन⟫ n.) of nouns
-*   2\. Dual endings of the noun
-*   3\. The dual of stems ending in a consonant
-    *   3.1. Stems without stem gradation
-    *   3.2. Stems with stem gradation
-*   4\. The dual of stems ending in a vowel
-*   5\. Dual dvandva
-*   6\. The dual of pronouns
-*   7\. Pronominal adjectives
-*   8\. Irregular comparison
-*   9\. Declension of comparatives ending in -īyas
-*   10\. Metrics (study of verse forms)
-    *   10.1. Significance of determining the meter
-    *   10.2. Types of meters
-    *   10.3. The metrical quantity of syllables
-    *   10.4. The epic Śloka (⟪श्लोक⟫ m.)
-*   11\. Exercise
+*   ܠܘܬܐ 1. (⟪द्विवचन⟫ n.) דּוֹבְלָא דְּשׁוֹם
+*   ܠܘܬܐ 2. סוֹפִין דְּדוֹבְלָא לְשׁוֹם
+*   ܠܘܬܐ 3. דוֹבְלָא דְּשׁרִישַׁיָּא דִּמְסוֹפֵי בְּעַם
+*   3.1. שׁרִישַׁיָּא דְלָא יֵשׁ לְהוֹן מַעֲלָא שֵׁרֶשׁ
+*   3.2. שׁרִישַׁיָּא דְיֵשׁ לְהוֹן מַעֲלָא שֵׁרֶשׁ
+*   ܠܘܬܐ 4. דוֹבְלָא דְּשׁרִישַׁיָּא דִּמְסוֹפֵי בְּאוּת
+*   ܠܘܬܐ 5. דוֹבְלָא דְּדַוְדְּוָא
+*   ܠܘܬܐ 6. דוֹבְלָא דְּכַנְיָן
+*   ܠܘܬܐ 7. שְׁמוֹת תּוֹכְחָא
+*   ܠܘܬܐ 8. מַשְׁוָא דִּלְבַד
+*   ܠܘܬܐ 9. נִקְבָּעַת מַשְׁוָאֵי דִּמְסוֹפֵי בְּ-īyas
+*   ܠܘܬܐ 10. מִטְרוּת (מַלְכוּת דִּשְׁעוּרֵי)
+*   10.1. חוּשְׁבָּנָא דִּמְטַרְתָּא
+*   10.2. סַגְיָן דִּמְטוּר
+*   10.3. מַעֲלָא שְׁעוּרֵי דְּאוּת
+*   10.4. שְׁלוֹקָא דְּעַתִּיקָא (⟪श्लोक⟫ m.)
+*   ܠܘܬܐ 11. תּוֹכְחָא
 
-## [Lesson 54](lektion54)
+## ܕܰܪܫܳܐ 54
 
-*   1\. Preliminary Remarks
-*   2\. Word Formation: ⟪कृत्⟫-suffix -u on Desiderative stems
-*   3\. Metrics II: the epic ⟪त्रिष्टुभ्⟫ and the ⟪जगती⟫
-*   4\. Exercise on Metrics
-*   5\. Formation Types of the Aorist (⟪लुङ्⟫)
-*   6\. Root Aorist
-    *   6.1. The Aorist of the 3.sg.Passive
-*   7\. Exercise
+*   ܠܦܢܘܬܐ 1\. ܡܕܒܪ̈ܝܢ ܩܕܡܝܐ
+*   2\. ܫܘܬܦ̈ܐ ܕܠܫܢܐ: ⟪कृत्⟫-ܣܘܦܝܩ -u ܥܠ ܫܪ̈ܫ̈ܝܢ ܕܡܬܠܛܦ
+*   3\. ܡܘܣܝܩܐ II: ܐ̈ܕܪܥܐ ܕܫܘܬܦ̈ܐ ⟪त्रिष्टुभ्⟫ ܘܕ-⟪जगती⟫
+*   4\. ܡܠܦܢܘܬܐ ܥܠ ܡܘܣܝܩܐ
+*   5\. ܫܘܬܦ̈ܐ ܕ-ܥܣܪ̈ܝܢ (⟪लुङ्⟫)
+*   6\. ܪ̈ܘܫܡܐ ܕ-ܥܣܪ̈ܝܢ
+*   6.1. ܥܣܪ̈ܝܢ ܕ-3.ܡܠܐ ܦܥܝܠ
+*   7\. ܡܠܦܢܘܬܐ
 
-## [Lesson 55](lektion55)
+## [ܕܪܫܐ 55](ܠܝܩܛܝܘܢ55)
 
 *   1\. The a-Aorist (Aorist with thematic vowel)
 *   2\. Exercise
 
-## [Lesson 56](lektion56)
+## [ܕܪܫܐ 56](ܠܩܨܝܘܢ56)
 
-*   1\. The reduplicated Aorist
-    *   1.1. Formation of the Aorist of Causatives and of the roots of the 10th Present class
-*   2\. The Injunctive
-*   3\. The Prohibitive Sentence
-*   4\. ⟪स्म⟫
+*   ܠܦܢܘܬܐ 1.ܐ
+*   1.1. ܫܘܬܦܐ ܕܥܒܕܢܐ ܘܪܬܝܐ ܕܣܕܪܐ 10
+*   3.ܠܦܢܘܬܐ
+*   4.ܠܦܢܘܬܐ
+*   5.⟪स्म⟫
 *   5\. Exercise
 
-## [Lesson 57](lektion57)
+## ܕܪܫܐ 57
 
 *   1\. Aorist 4: s-Aorist
 *   2\. Exercise
 
-## [Lesson 58](lektion58)
+## ܕܪܫܐ ܢܚ
 
-*   1\. The Primary Endings of the Dual (⟪द्विवचनम्⟫)
-*   2\. The Dual of thematic Present classes: Indicative Present (⟪लट्⟫)
-    *   2.1. First Present class (⟪भ्वादिगणः⟫)
-    *   2.2. Fourth Present class (⟪दिवादिगणः⟫)
-    *   2.3. Sixth Present class (⟪तुदादिगणः⟫)
-    *   2.4. Tenth Present class (⟪चुरादिगणः⟫) and Causatives (⟪णिजन्त⟫)
-*   3\. The Dual of the simple Future (⟪ऌत्⟫)
-    *   3.1. ⟪अनिट्⟫
-    *   3.2. ⟪सेट्⟫
-*   4\. The Dual Passive (suffix -⟪यक्⟫)
-*   5\. The Dual of athematic Present classes: Indicative Present (⟪लट्⟫)
-    *   5.1. Second Present class (⟪अदादिगणः⟫)
-    *   5.2. Third Present class (⟪जुहोत्यादिगणः⟫)
-    *   5.3. Fifth Present class (⟪स्वादिगणः⟫)
-    *   5.4. Eighth Present class (⟪तनादिगणः⟫)
-    *   5.5. Seventh Present class (⟪रुधादिगणः⟫)
-    *   5.6. Ninth Present class (⟪क्र्यादिगणः⟫)
-*   6\. Aorist 5: iṣ-Aorist
-*   7\. Exercise
+*   ܠܫܘܢ̈ܐ ܪܒܬܐ ܕܠܦܢ̈ܝܘܬܐ ܪܒܬܐ (⟪द्विवचनम्⟫)
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ ܕܡܢ̈ܝܢ̈ ܪܒܬܐ: ܡܠܦܢ̈ܘܬܐ ܪܒܬܐ (⟪लट्⟫)
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ ܠܚܕ (⟪भ्वादिगणः⟫)
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ ܪܒܥܝ (⟪दिवादिगणः⟫)
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ ܫܡܫܝ (⟪तुदादिगणः⟫)
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ ܥܫܪܝ (⟪चुरादिगणः⟫) ܘܡܠܦ̈ܢܝܢ̈ (⟪णिजन्त⟫)
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ ܕܡܢ̈ܝܢ̈ ܪܒܬܐ (⟪ऌत्⟫)
+*   ⟪अनिट्⟫
+*   ⟪सेट्⟫
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ ܠܫܘܢ̈ܐ (suffix -⟪यक्⟫)
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ ܕܡܢ̈ܝܢ̈ ܪܒܬܐ: ܡܠܦܢ̈ܘܬܐ ܪܒܬܐ (⟪लट्⟫)
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ ܫܢ̈ܝ (⟪अदादिगणः⟫)
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ ܠܫܢ̈ (⟪जुहोत्यादिगणः⟫)
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ ܦ̈ܢ (⟪स्वादिगणः⟫)
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ ܡܫܢ̈ (⟪तनादिगणः⟫)
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ ܫܒܥܝ (⟪रुधादिगणः⟫)
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ ܬܫܥܝ (⟪क्र्यादिगणः⟫)
+*   ܠܦܢ̈ܝܘܬܐ ܪܒܬܐ: iṣ-ܠܦܢ̈ܝܘܬܐ
+*   ܡܠܦ̈ܢܘܬܐ
 
-## [Lesson 59](lektion59)
+## [ܐܘܠܦܢܐ 59](lektion59)
 
-*   1\. The Secondary Endings and Imperative Endings of the Dual (⟪द्विवचनम्⟫)
-*   2\. The Dual of thematic Present classes: Optative (⟪विधिलिङ्⟫), Imperfect (⟪लङ्⟫), Imperative (⟪लोट्⟫)
-    *   2.1. First Present class (⟪भ्वादिगणः⟫)
-    *   2.2. Fourth Present class (⟪दिवादिगणः⟫)
-    *   2.3. Sixth Present class (⟪तुदादिगणः⟫)
-    *   2.4. Tenth Present class (⟪चुरादिगणः⟫) and Causatives (⟪णिजन्त⟫)
-    *   2.5. The Passive (suffix -⟪यक्⟫)
-*   3\. The Dual of athematic Present classes: Optative (⟪विधिलिङ्⟫), Imperfect (⟪लङ्⟫), Imperative (⟪लोट्⟫)
-    *   3.1. Second Present class (⟪अदादिगणः⟫)
-    *   3.2. Third Present class (⟪जुहोत्यादिगणः⟫)
-    *   3.3. Fifth Present class (⟪स्वादिगणः⟫)
-    *   3.4. Eighth Present class (⟪तनादिगणः⟫)
-    *   3.5. Seventh Present class (⟪रुधादिगणः⟫)
-    *   3.6. Ninth Present class (⟪क्र्यादिगणः⟫)
-*   4\. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
-    *   4.1. Root Aorist
-    *   4.2. a-Aorist
-    *   4.3. Reduplicated Aorist
-    *   4.4. s-Aorist
-    *   4.5. iṣ-Aorist
-*   5\. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (P only)
-*   6\. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematic s-Aorist)
-*   7\. Exercise
+*   ܠܦܢܘܬܐ 1\. ܫܪܩܝ̈ܐ ܬܠܝܦܘ̈ܬܐ ܕܟܢܝܬܐ ܘܫܪܩܝ̈ܐ ܡܠܬܐ ܕܟܢܝܬܐ (⟪द्विवचनम्⟫)
+*   ܠܦܢܘܬܐ 2\. ܟܢܝܬܐ ܕܣܕܪ̈ܐ ܕܦܠܘܟܢܝܬܐ: ܡܠܬܐ (⟪विधिलिङ्⟫), ܦܠܘܟܢܝܬܐ (⟪लङ्⟫), ܡܠܬܐ (⟪लोट्⟫)
+*   ܠܦܢܘܬܐ 2.1. ܣܕܪܐ ܩܕܡܝܐ (⟪भ्वादिगणः⟫)
+*   ܠܦܢܘܬܐ 2.2. ܣܕܪܐ ܪܒܥܝܐ (⟪दिवादिगणः⟫)
+*   ܠܦܢܘܬܐ 2.3. ܣܕܪܐ ܫܒܥܝܐ (⟪तुदादिगणः⟫)
+*   ܠܦܢܘܬܐ 2.4. ܣܕܪܐ ܥܫܪܝܐ (⟪चुरादिगणः⟫) ܘܡܠܬ̈ܐ (⟪णिजन्त⟫)
+*   ܠܦܢܘܬܐ 2.5. ܫܪܩܝ̈ܐ (ܣܘܦܝ̈ܐ -⟪यक्⟫)
+*   ܠܦܢܘܬܐ 3\. ܟܢܝܬܐ ܕܣܕܪ̈ܐ ܕܦܠܘܟܢܝܬܐ: ܡܠܬܐ (⟪विधिलिङ्⟫), ܦܠܘܟܢܝܬܐ (⟪लङ्⟫), ܡܠܬܐ (⟪लोट्⟫)
+*   ܠܦܢܘܬܐ 3.1. ܣܕܪܐ ܬܠܝܦܘ̈ܬܐ (⟪अदादिगणः⟫)
+*   ܠܦܢܘܬܐ 3.2. ܣܕܪܐ ܬܠܝܦܘ̈ܬܐ (⟪जुहोत्यादिगणः⟫)
+*   ܠܦܢܘܬܐ 3.3. ܣܕܪܐ ܫܒܥܝܐ (⟪स्वादिगणः⟫)
+*   ܠܦܢܘܬܐ 3.4. ܣܕܪܐ ܥܫܪܝܐ (⟪तनादिगणः⟫)
+*   ܠܦܢܘܬܐ 3.5. ܣܕܪܐ ܫܒܥܝܐ (⟪रुधादिगणः⟫)
+*   ܠܦܢܘܬܐ 3.6. ܣܕܪܐ ܬܠܝܦܘ̈ܬܐ (⟪क्र्यादिगणः⟫)
+*   ܠܦܢܘܬܐ 4\. ܟܢܝܬܐ (⟪द्विवचनम्⟫) ܡܠܬܐ (⟪लुङ्⟫)
+*   ܠܦܢܘܬܐ 4.1. ܪܝܫܐ ܡܠܬܐ
+*   ܠܦܢܘܬܐ 4.2. ܡܠܬܐ ܐ
+*   ܠܦܢܘܬܐ 4.3. ܡܠܬܐ ܪܒܘ̈ܕܐ
+*   ܠܦܢܘܬܐ 4.4. ܡܠܬܐ ܣ
+*   ܠܦܢܘܬܐ 4.5. ܡܠܬܐ ܝ
+*   ܠܦܢܘܬܐ 5\. ܡܠܬܐ (⟪लुङ्⟫) 6: ܡܠܬܐ ܣ (ܦܘ̈ܪܩܢܝܐ)
+*   ܠܦܢܘܬܐ 6\. ܡܠܬܐ (⟪लुङ्⟫) 7: ܡܠܬܐ ܣ (ܦܠܘܟܢܝܬܐ)
+*   ܠܦܢܘܬܐ 7\. ܡܠܬܐ
 
-## [Lesson 60](lektion60)
+## ܕܪܫܐ ܣ
 
-*   1\. The Perfect Endings of the Dual (⟪द्विवचनम्⟫)
-*   2\. The Dual of the reduplicated Perfect (⟪द्वित्वलिट्⟫)
-    *   2.1. Type 1: no stem gradation
-    *   2.2. Type 2: strong stem strong grade, weak stem weak grade
-    *   2.3. Type 3: Strong stem strong grade/guṇa grade
-        *   2.3.1. Type 3a: Strong stem strong grade/guṇa grade, weak stem weak grade
-        *   2.3.2. Type 3b: Strong stem strong grade/guṇa grade, weak stem strong grade
-    *   2.4. Type 4: Roots ending in -ā / -ai
-    *   2.5. Type 5: Consonant-a-Consonant
-        *   2.5.1. Type 5a: Consonant-a-Consonant, weak stem weak grade
-        *   2.5.2. Type 5b: Consonant-a-Consonant, initial consonant not a guttural, aspirate, h, Weak stem without reduplication, with -e-
-        *   2.5.3. Type 5c: Consonant-a-Consonant, weak stem strong grade
-*   3\. The Dual of the periphrastic Perfect (⟪अनुप्रयोगलिट्⟫)
-*   4\. The Participle ⟪परस्मैपद⟫ of the reduplicated Perfect (⟪द्वित्वलिट्⟫)
-*   5\. Declension of stems ending in -añc (-ac)
-    *   5.1. Three-stem stems ending in -añc
-    *   5.2. Two-stem stems ending in -añc
-*   6\. The Desiderative (⟪सन्⟫)
-    *   6.1. Formation of the Desiderative stem
-    *   6.2. Conjugation of the Desiderative (⟪सन्⟫)
-*   7\. Exercise
+*   ܠܦܢܘܬܐ 1\. ܫܠܡܝ̈ܘܬܐ ܕܛܪܝܦܐ (⟪द्विवचनम्⟫)
+*   ܠܦܢܘܬܐ 2\. ܛܪܝܦܐ ܕܡܠܬܐ ܫܪܝܩܬܐ (⟪द्वित्वलिट्⟫)
+*   ܠܦܢܘܬܐ 2.1. ܣܕܪܐ 1: ܠܐ ܫܘܬܦܬܐ
+*   ܠܦܢܘܬܐ 2.2. ܣܕܪܐ 2: שרש חזק, מדרגה חזקה; שרש דלוק, מדרגה דלוקה
+*   ܠܦܢܘܬܐ 2.3. ܣܕܪܐ 3: שרש חזק, מדרגה חזקה/גונה
+*   ܠܦܢܘܬܐ 2.3.1. ܣܕܪܐ 3a: שרש חזק, מדרגה חזקה/גונה; שרש דלוק, מדרגה דלוקה
+*   ܠܦܢܘܬܐ 2.3.2. ܣܕܪܐ 3b: שרש חזק, מדרגה חזקה/גונה; שרש דלוק, מדרגה חזקה
+*   ܠܦܢܘܬܐ 2.4. ܣܕܪܐ 4: שרשים מסתיימים ב-ā / -ai
+*   ܠܦܢܘܬܐ 2.5. ܣܕܪܐ 5: עיצור-a-עיצור
+*   ܠܦܢܘܬܐ 2.5.1. ܣܕܪܐ 5a: עיצור-a-עיצור, שרש דלוק, מדרגה דלוקה
+*   ܠܦܢܘܬܐ 2.5.2. ܣܕܪܐ 5b: עיצור-a-עיצור, העיצור הראשון אינו גרוני, חרישי או h; שרש דלוק ללא כפולה, עם -e-
+*   ܠܦܢܘܬܐ 2.5.3. ܣܕܪܐ 5c: עיצור-a-עיצור, שרש דלוק, מדרגה חזקה
+*   ܠܦܢܘܬܐ 3\. ܛܪܝܦܐ ܕܡܠܬܐ ܩܪܝܢܬܐ (⟪अनुप्रयोगलिट्⟫)
+*   ܠܦܢܘܬܐ 4\. ܫܡܐ ܕܦܥܠ (⟪परस्मैपद⟫) ܕܡܠܬܐ ܫܪܝܩܬܐ (⟪द्वित्वलिट्⟫)
+*   ܠܦܢܘܬܐ 5\. ܫׁוּלְשָׁנִין שרשים מסתיימים ב-añc (-ac)
+*   ܠܦܢܘܬܐ 5.1. שרשים בעלי שלושה שורשים מסתיימים ב-añc
+*   ܠܦܢܘܬܐ 5.2. שרשים בעלי שני שורשים מסתיימים ב-añc
+*   ܠܦܢܘܬܐ 6\. הדיזידראטיב (⟪सन्⟫)
+*   ܠܦܢܘܬܐ 6.1. יצירת שרש הדיזידראטיב
+*   ܠܦܢܘܬܐ 6.2. הטיית הדיזידראטיב (⟪सन्⟫)
+*   ܠܦܢܘܬܐ 7\. תרגילים
 
-## [Lesson 61](lektion61)
+## [ܐܘܠܦܢܐ 61](ܠܩܛܝܘܢ61)
 
-*   1\. Declension of root nouns ending in -ā, -ī, -ū
-    *   1.1. Root nouns ending in -ā at the end of ⟪तत्पुरुष⟫
-    *   1.2. Feminine root nouns ending in -ī
-    *   1.3. Root nouns ending in -ī at the end of ⟪तत्पुरुष⟫
-    *   1.4. Monosyllabic feminine root nouns ending in -ū
-    *   1.5. Root nouns ending in -ū at the end of ⟪तत्पुरुष⟫
-    *   1.6. Declension of polysyllabic feminine nouns ending in -ū
-*   2\. The periphrastic future (⟪लुट्⟫)
-*   3\. The intensive (frequentative) (⟪चर्करीतम्⟫)
-    *   3.1. Ātmanepada intensive
-    *   3.2. Parasmaipada intensive
-*   4\. Denominatives (⟪नामधातु⟫)
-    *   4.1. Formation without special suffix, Parasmaipada
-    *   4.2. Formation with suffix -ya, Parasmaipada
-    *   4.3. Formation with the suffix -kāmya, Parasmaipada
-    *   4.4. Formation with the suffix -sya or -asya, Parasmaipada
-    *   4.5. Formation with the suffix -ya, Ātmanepada
-    *   4.6. Formation with the suffix -aya, -āpaya
-*   5\. The optative (⟪आशीर्लिङ्⟫)
-*   6\. The conditional (⟪ऌङ्⟫)
-*   7\. Declension of nouns ending in -ai, -o, -au
-*   8\. Remaining pronouns
-    *   8.1. Dual personal pronouns
-    *   8.2. Demonstrative pronoun ⟪अदस्⟫ "that (distant)"
-*   9\. Dismissal into the ocean of Sanskrit literature: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+*   ܠܦܢܘܬܐ 1\. ܓܪܡܫܘܬܐ ܕܫܪܝ̈ܪ̈ܐ ܟܢܝ̈ܬ̈ܐ ܒ-ā, -ī, -ū
+*   1.1. שܪܝ̈ܪ̈ܐ ܟܢܝ̈ܬ̈ܐ ܒ-ā ܒܫܘܟܠܐ ܕ⟪तत्पुरुष⟫
+*   1.2. שܪܝ̈ܪ̈ܐ ܟܢܝ̈ܬ̈ܐ ܢܫܝ̈ܐ ܒ-ī
+*   1.3. שܪܝ̈ܪ̈ܐ ܟܢܝ̈ܬ̈ܐ ܒ-ī ܒܫܘܟܠܐ ܕ⟪तत्पुरुष⟫
+*   1.4. שܪܝ̈ܪ̈ܐ ܟܢܝ̈ܬ̈ܐ ܢܫܝ̈ܐ ܡܘܠܦܚܐ ܒ-ū
+*   1.5. שܪܝ̈ܪ̈ܐ ܟܢܝ̈ܬ̈ܐ ܒ-ū ܒܫܘܟܠܐ ܕ⟪तत्पुरुष⟫
+*   1.6. ܓܪܡܫܘܬܐ ܕשܪܝ̈ܪ̈ܐ ܟܢܝ̈ܬ̈ܐ ܪܒܘܠܦܚܝ̈ܢ ܢܫܝ̈ܐ ܒ-ū
+*   2\. ܡܠܬܐ ܥܬܝܩܬܐ (⟪लुट्⟫)
+*   3\. ܡܕܥܐ ܪܒܝܐ (⟪चर्करीतम्⟫)
+*   3.1. מܕܥܐ ܪܒܝܐ ܠܦܢܘܬܐ ܕܐܘܬܐ
+*   3.2. מܕܥܐ ܪܒܝܐ ܠܦܢܘܬܐ ܕܦܪܣܡܝ
+*   4\. שם-מלואים (⟪नामधातु⟫)
+*   4.1. יצירה בלא סופי מיוחד, לפנוթא דפרסמי
+*   4.2. יצירה ב סופי -ya, לפנוթא דפרסמי
+*   4.3. יצירה ב סופי -kāmya, לפנוթא דפרסמי
+*   4.4. יצירה ב סופי -sya או -asya, לפנוթא דפרסמי
+*   4.5. יצירה ב סופי -ya, לפנוթא דאוטא
+*   4.6. יצירה ב סופי -aya, -āpaya
+*   5\. אופטיב (⟪आशीर्लिङ्⟫)
+*   6\. תנאי (⟪ऌङ्⟫)
+*   7\. גרמשתא דשם-עצמיים ב -ai, -o, -au
+*   8\. שאר כנויי-שם
+*   8.1. כנויי-שם זוגי
+*   8.2. כנויי-שם רמז ⟪अदस्⟫ "הוא (רחוק)"
+*   9\. שחרור אל ים ספרות הסנסקריט: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
 END OF THE SANSKRIT COURSE

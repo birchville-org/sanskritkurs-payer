@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 8
 
-A) Explain the following nouns by specifying the root from which they are derived, and the nominal suffix. Specify gender and meaning:
+A) Jelaskan kata benda berikut dengan menentukan akar dari mana mereka berasal, dan akhiran nominalnya. Tentukan jenis kelamin dan artinya:
 
 1. lobha: lubh 4 P "to desire" + -a m.: "desire"
 
@@ -157,7 +157,7 @@ Fig.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्व�
 The Śūdra leads the boy.
 
 2\. ⟪कविर्देवं⟫ ⟪यजते⟫ |
-The poet sacrifices to the god.
+Penyair berkorban kepada dewa.
 
 3\. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
 The saint eats fruits.
@@ -175,7 +175,7 @@ The cow enters the village.
 Passion, anger, and greed lead to hell.
 
 8\. ⟪देवतां⟫ ⟪यजति⟫ |
-He sacrifices for a lord of sacrifice of the deity.
+Ia berkorban untuk seorang tuan korban dari dewa.
 
 9\. ⟪बाला⟫ ⟪भवति⟫ |
 A girl comes into being.

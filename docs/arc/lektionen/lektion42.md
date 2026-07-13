@@ -7,19 +7,19 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 42
+# ܡܠܦܢܐ 42
 
-## 42.1. Stämme auf -ṛ
+## 42.1. ܫܪ̈ܫܐ ܥܠ -ܪ̣
 
-### 42.1.1. Stämme mit Dehnstufe im starken Stamm
+### 42.1.1. ܫܰܪ̈ܒܳܬܳܐ ܥܰܡ ܕܶܗܢܣܛܽܘܦܶܐ ܒܫܰܪܫܳܐ ܚܰܝܠܳܢܳܐ
 
 ::: grammar-box
-All masculines ending in -ṛ with the exception of the kinship terms listed under 1.3. This category also includes the following kinship terms:
+כל הזכרים המסתיימים ב-ṛ למעט מונחי היחסנות הרשומים תחת 1.3. קבוצה זו כוללת גם את מונחי היחסנות הבאים:
 
 *   **⟪नप्तृ⟫** m. "grandson"
 *   **⟪भर्तृ⟫** m. "husband (lit. sustainer)"
 
-The majority of the nouns belonging here are agent nouns with the ⟪कृत्⟫-suffix -⟪तृ⟫.
+רוב השמות העצם השייכים לכאן הם שמות פעול עם הסיומת ⟪कृत्⟫ -⟪तृ⟫.
 
 **Bildung:**
 
@@ -48,14 +48,14 @@ Masculine:
 | ⟪सप्तमी⟫ | *⟪दातरि⟫* | ⟪दातृषु⟫ |
 
 :::
-For the explanation of irregular formations, see Thumb-Hauschild I,2 p. 76 -81
+ܠܫܘܟ݂ܐ ܕܡܛܝܪ̈ܬܐ ܠܫܘܡܠܣܝ̈ܢ ܐܪܬܒܛܘܣܝ̈ܢ ܚܙܐ ተምጎ-ሃውዝልድ I,2 p. 76 -81
 
 Femininum:
 
 ::: indent
 **⟪स्वसृ⟫** f. is declined like **⟪दातृ⟫** with the exception of the accusative (**⟪द्वितीया⟫**) plural: ***⟪स्वसॄस्⟫***.
 :::
-### 42.1.2. Nominal formation: ⟪कृत्⟫-suffix -⟪तृ⟫
+### 42.1.2. ܨܶܘܪܳܐ ܫܡܳܢܳܝܳܐ: ⟪ܟܪܺܝܬ⟫-ܡܠܘܝܬܐ -⟪ܬܪ⟫
 
 ::: grammar-box
 With the very frequently occurring ⟪कृत्⟫-suffix -⟪तृ⟫, one forms agent nouns (designations for the ⟪कर्तृ⟫) from almost every root or causative stem.
@@ -90,11 +90,11 @@ Fig.: ⟪अयं⟫ ⟪बोधयिता⟫
 ::: grammar-box
 Rare occurring Neuters on -⟪तृ⟫ have a partially independent declension (s. Kielhorn, Grammar § 148).
 
-The feminine of the stems ending in -⟪तृ⟫ is **-⟪त्री⟫** (as in **⟪देवी⟫**).
+[ L0 ] שְׁרַשָּׁא דִּי סוֹמְכֵי עַל -⟪तृ⟫ הוּא **-⟪त्री⟫** (כְּמוֹ בְּ-**⟪देवी⟫**).
 
 e.g. **⟪कर्त्री⟫** f. "agentess"
 :::
-### 42.1.3. Tribes with strong grade in the strong stem
+### 42.1.3. ܫܪ̈ܒܬܐ ܕܥܠܝܐ ܚܝܠܬܢܝܬܐ ܒܓܕܫܐ ܚܝܠܬܢܐ
 
 ::: grammar-box
 The following kinship terms are included:
@@ -130,7 +130,7 @@ Beispiele:
 | Rest wie ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
-### 42.1.4. Stems ending in -ṛ in compounds
+### 42.1.4. ܫܪ̈ܫܐ ܕܡܫܬܠܡܝܢ ܒـ -ܪ ܒܓܘ ܡܠ̈ܐ ܚܕܝ̈ܕܬܐ
 
 ::: grammar-box
 As the first member of a compound, nouns in -ṛ naturally stand in their weak stem, i.e.
@@ -138,11 +138,11 @@ As the first member of a compound, nouns in -ṛ naturally stand in their weak s
 *   **before consonant: -ṛ**
 *   **before vowel: -r**
 :::
-## 42.2. Word List
+## 42.2. ܡܠܘܐܐ ܕܡ̈ܠܝܢ
 
 ⟪प्रकृति⟫ f.: (to ⟪कृ⟫ + ⟪प्र⟫) basic form, natural state, nature; prime matter, primal substance
 
-⟪अर्जुन⟫ m. Proper name: Arjuna, one of the five sons of ⟪पण्डु⟫. Hero in the ⟪महाभारत⟫ (see Basham, Wonder pp. 409–414)
+⟪अर्जुन⟫. שם עצם: ארְגּוּנָה, אחד מבני חמשת בני ⟪पण्डु⟫. גיבור ב-⟪महाभारत⟫ (ראה באשמ, פלאים עמ' 409–414)
 
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ : abstain from, keep away from, keep aloof, remain, stand
 
@@ -207,16 +207,16 @@ Inf. ⟪शंसितुम्⟫
 :::
 ⟪हृदय⟫ n.: heart
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen
+### 42.2.1. ܚܰܕܟܡܳܐ ܫܽܘܡܳܗ̈ܶܐ ܕܫܽܘܬܳܦܽܘܬܳܐ
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
-Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
-(Image source: [Details](/arc/licenses#lekt4202))
+ܡ̈ܘܬܒ: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
+(ܡ̈ܕܝܢܬ ܐܘܪܟܐ: [ܦ̈ܠܝܢ](/arc/licenses#lekt4202))
 :::
-⟪भर्तृ⟫ m. (to ⟪भृ⟫ "to carry, to sustain"): Sustainer, Nourisher, Husband
+⟪भर्तृ⟫ ܡ̈. (ܠ- ⟪भृ⟫ "ܠܘܬ ܟܢܐ, ܠܘܬ ܫܒܩܐ"): ܡ̈ܕܘܟܢ, ܡ̈ܬܒܠ, ܐܝܪܟ
 
-⟪भार्या⟫ f.,  ⟪जाया⟫ f.  ⟪पत्नी⟫ f.: wife (⟪भार्या⟩ = gerundive of ⟪भृ⟩ : to be carried, to be maintained, entitled to support)
+⟪भार्या⟫ ܦ̈.,  ⟪जाया⟫ ܦ̈.  ⟪पत्नी⟫ ܦ̈.: ܐܝܬܐ (⟪भार्या⟩ = ܡ̈ܠܬܐ ܕ- ⟪भृ⟩ : ܠܘܬ ܟܢܐ, ܠܘܬ ܫܒܩܐ, ܡ̈ܕܝܢܬ ܟܠܐ)
 
 ⟪पितृ⟫ m.: Father
 
@@ -225,7 +225,7 @@ Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 1.  Father, grandfather, great-grandfather
 2.  the ancestral forebears of humanity
 
-Both rites are performed, so-called ⟪श्राद्ध⟫ n. Daily, three male ancestors (paternal and maternal) are offered water and, on specific occasions, rice balls or flour balls (⟪पिण्ड⟫ m. "balls"). Thus, the ancestors receive sustenance. The performance of this ceremony is one reason why a man should father a son. Those connected through this ⟪पिण्ड⟫-gift are called ⟪सपिण्ड⟫ (to whom ⟪पिण्ड⟫ is common). ⟪सपिण्ड⟫ encompasses six generations: three backward (up to the great-grandfather) and three forward (up to the great-grandson).
+שְׁנֵי הַמִּצְווֹת נַעֲשׂוֹת, כָּךְ קוֹרִים לָהֶם ⟪श्राद्ध⟫ נְקֵבָה. בְּיוֹם יוֹם, שְׁלֹשָׁה אֲבוֹת זְכָרִים (אָב וְאֵם) נִתָּן לָהֶם מַיִם וְעַל מְנָת מְאוּרָה, כַדּוּרֵי אֹכֶל אוֹ כַדּוּרֵי קְמָח (⟪पिण्ड⟩ זַכָּר "כַדּוּרִים"). כְּךָ, הָאֲבוֹת מַקְבִּילִים לָהֶם תּוֹרָה. הַמִּצְווֹת שֶׁלָּהּ הַזֹּאת מְנָחָה אֶחָת לָמַד שֶׁאִישׁ צָרִיךְ לַעֲשׂוֹת בֵּן. הָאֲנָשִׁים שֶׁמְּקַבְּלִים עָלָיו זֶה הַ⟪पिण्ड⟩-מַתָּנָה נִקְרָאִים ⟪सपिण्ड⟩ (לְמַעַן לָהֶם הַ⟪पिण्ड⟩ מְשׁוּתָף). ⟪सपिण्ड⟩ כּוֹלֵל שִׁשָּׁה דּוֹרוֹת: שְׁלֹשָׁה אַחֲרוֹנִים (עַד סָבָא) וּשְׁלֹשָׁה קַדְמוֹנִים (עַד בֶּן סָבָא).
 
 ⟪तात⟫ m.: Sin
 
@@ -265,7 +265,7 @@ Both rites are performed, so-called ⟪श्राद्ध⟫ n. Daily, three 
 
 ⟪मातामही⟫ f.: maternal grandmother
 
-## 42.3. Übung
+## 42.3. ܬܪܓܠܐ
 
 Translate:
 
@@ -297,7 +297,7 @@ Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 
 ⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥९॥⟫
 
-## 42.4. Übersetzungsübung
+## 42.4. ܬܪܓܠܐ ܕܬܘܪܓܡܐ
 
 *⟪सीता⟫*⟪विवाहः⟫
 
@@ -322,7 +322,7 @@ Fig.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभू
 
 Explanation of the **red** highlighted expressions:
 
-⟪सीता⟫ f. Proper name: daughter of the king ⟪जनक⟫ of ⟪विदेह⟫. She had emerged from the earth when the king once plowed the field, hence her name: ⟪सीता⟫ f. "field furrow"
+⟪सीता⟫ ܣܘܼܟܠܵܐ: ܒܬܼܪܬ ܡܠܟܵܐ ⟪जनक⟫ ܕ- ⟪विदेह⟫. ܗܝ ܐܬܦܪܸܟܵܐ ܡܢ ܐܪܥܵܐ ܝܬܝܪ ܡܢ ܕ-ܟܠ ܫܥܵܐ ܗܘܝ ܡܠܟܵܐ ܒܫܕܪܹܗ, ܠܟܵܢ ܫܡܼܗ: ⟪सीता⟫ ܣܘܼܟܠܵܐ "ܦܪܸܟ ܫܕܪܹܗ"
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
@@ -346,7 +346,7 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 ⟪लङ्का⟫ f. proper name: identified with present-day Sri Lanka (ශ්‍රී ලංකාව / இலங்கை)
 
-⟪रावण⟫ m. proper name; ruler of ⟪लङ्का⟫, ruler of the ⟪राक्षस⟫.
+⟪रावण⟫. שם עצמי; מלך של ⟪लङ्का⟫, מלך ה-⟪राक्षस⟫.
 
 ::: media
 ![lekt4207.jpg](/images/lekt4207.webp)
@@ -361,18 +361,18 @@ Fig.: ⟪रावणः⟫
 
 ⟪लक्ष्मन⟫ m. Proper name: Son of ⟪दशरथ⟫
 
-⟪विश्वामित्र⟫ m. Proper name: ⟪ऋषि⟫, drew forth ⟪राम⟫ and ⟪लक्ष्मन⟫ to slay demons; for this, the two receive magical weapons from him.
+⟪विश्वामित्र⟫ ܡ. ܫܡܐ ܕܢܘܟܪܐ: ⟪ऋषि⟫, ܡܘܬܒ ܐܪܩ  ⟪राम⟫ ܘ  ⟪लक्ष्मन⟫ ܠܡܥܒܕ ܝܦܚ̈ܐ; ܠܗܢܐ, ܬܪܝܢ ܫܒܩ̈ܐ ܡܠܗܝ ܡܢ ܬܩܪܒ̈ܐ.
 
 ⟪सीतारामयोस्⟫ Gen.Lok.Dual zu ⟪सीताराम⟫
 
 ::: deleteme-box
 
-* **Fig. lekt4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (Image source: Wikipedia. Public domain)
-* **Fig. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. (Image source: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Accessed on 2009-01-04. -- Creative Commons License (Attribution, non-commercial use, share alike))
-* **Fig. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Image source: Wikipedia. Public domain)
-* **Fig. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. chariot). (Image source: Wikipedia. Public domain)
-* **Fig. lekt4205**: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 17th century. (Image source. Wikipedia. Public domain)
-* **Fig. lekt4206**: Location of ⟪मिथिला⟫ and ⟪विदेह⟫, ⟪अयोध्या⟫ and ⟪कोसल⟫. (Image source: JIJITH NR / Wikipedia. GNU FDLicense)
-* **Fig. lekt4207**: ⟪रावणः⟫. Yakṣagaṇa dance mask (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Image source: Manohara Upadhya / Wikipedia. GNU FDLicense)
-* **Fig. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Image of ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Image source: Wikipedia. Public domain)
+* **ܦܩܕ ܠܟܬ4201**: ⟪अयं⟫ ⟪बोधयिता⟫. (ܡܕܒܪ ܐܝܟܬܐ: Wikipedia. ܦܘܒܠܝܩ ܕܡܝܢ)
+* **ܦܩܕ ܠܟܬ4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. ܕܝܘܐܢ ܐܝ ܟܗܣ, ܐܘ ܚܠ ܕܝܪܢ ܣܘܬ ܥܠ ܦܐܪܝܢ ܒܕܝܠܘܟܐ ܕܠܐܠ ܩܝܠܐ (ܦܘܪܬܐ ܕܫܡܫ) ܒܕܠܗܝ. (ܡܕܒܪ ܐܝܟܬܐ: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- ܐܬܝܕܥ ܒ-2009-01-04. -- ܟܢܘܫܐ ܕܚܝܠܬܐ (ܐܬܪܒܘ, ܫܡܫܠܐ ܥܒܕܬܐ, ܫܘܟܠܐ))
+* **ܦܩܕ ܠܟܬ4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளי, ca. 1825. (ܡܕܒܪ ܐܝܟܬܐ: Wikipedia. ܦܘܒܠܝܩ ܕܡܝܢ)
+* **ܦܩܕ ܠܟܬ4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. ܡܘܟܠ). (ܡܕܒܪ ܐܝܟܬܐ: Wikipedia. ܦܘܒܠܝܩ ܕܡܝܢ)
+* **ܦܩܕ ܠܟܬ4205**: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 17ܬܐ ܩܪܢܐ. (ܡܕܒܪ ܐܝܟܬܐ. Wikipedia. ܦܘܒܠܝܩ ܕܡܝܢ)
+* **ܦܩܕ ܠܟܬ4206**: ܡܘܩܦܐ ܕ- ⟪मिथिला⟫ ܘ- ⟪विदेह⟫, ⟪अयोध्या⟫ ܘ- ⟪कोसल⟫. (ܡܕܒܪ ܐܝܟܬܐ: JIJITH NR / Wikipedia. GNU FDLicense)
+* **ܦܩܕ ܠܟܬ4207**: ⟪रावणः⟫. ܡܠܟܬܐ ܕ- Yakṣagaṇa (ಯಕ್ಷಗಾನ) Karnataka (ಕರ್ನಾಟಕ). (ܡܕܒܪ ܐܝܟܬܐ: Manohara Upadhya / Wikipedia. GNU FDLicense)
+* **ܦܩܕ ܠܟܬ4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. ܐܝܟܬܐ ܕ- ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (ܡܕܒܪ ܐܝܟܬܐ: Wikipedia. ܦܘܒܠܝܩ ܕܡܝܢ)
 :::

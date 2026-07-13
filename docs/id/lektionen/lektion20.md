@@ -21,7 +21,7 @@ Jodhpur = ⟪जोधपुर⟫
 
 ::: grammar-box
 
-**In contrast to a Tatpuruṣa, a Bahuvrīhi denotes something other than what is expressed by its members: while ⟪बालपुत्रः⟫, resolved as a Tatpuruṣa, means "a young son," i.e., something expressed by the final member of the compound (⟪पुत्र⟫), ⟪बालपुत्रः⟫, resolved as a Bahuvrīhi, means "one whose son is young," i.e., the denoted entity is neither the son (⟪पुत्र⟫) nor necessarily young (⟪बाल⟫), but a person different from the young son, namely his father.**
+**Berbeda dengan Tatpuruṣa, Bahuvrīhi menunjukkan sesuatu yang lain daripada apa yang dinyatakan oleh anggotanya: sementara ⟪बालपुत्रः⟫, diuraikan sebagai Tatpuruṣa, berarti "seorang putra muda," yaitu sesuatu yang dinyatakan oleh anggota terakhir dari majemuk tersebut (⟪पुत्र⟫), ⟪बालपुत्रः⟫, diuraikan sebagai Bahuvrīhi, berarti "seseorang yang putranya muda," yaitu entitas yang ditunjuk bukanlah putra (⟪पुत्र⟫) maupun pasti muda (⟪बाल⟫), melainkan seseorang yang berbeda dari putra muda tersebut, yaitu ayahnya.**
 
 **Possessive compounds are initially always adjectives, which, however, can be substantivized. Therefore, the grammatical gender of a Bahuvrīhi depends on what the Bahuvrīhi refers to, and not on the gender of the final member of the compound.**
 
@@ -30,7 +30,7 @@ Jodhpur = ⟪जोधपुर⟫
 
 **Schema for resolving a Bahuvrīhi:**
 
-**1. First member usually in the Nominative (⟪प्रथमा⟫) Sing., Dual, or Plural -- 2. Second member in the Nominative Sing., Dual, or Plural -- Relative pronoun in a case other than Nominative (usually Genitive - ⟪षष्ठी⟫) and in gender and number of the total Bahuvrīhi -- Demonstrative pronoun in number, case, and gender of the total Bahuvrīhi.**
+**1. Anggota pertama biasanya dalam Kasus Nominatif (⟪प्रथमा⟫) Tunggal, Dwiwanda, atau Jamak -- 2. Anggota kedua dalam Kasus Nominatif Tunggal, Dwiwanda, atau Jamak -- Kata ganti relatif dalam kasus selain Nominatif (biasanya Genitif - ⟪षष्ठी⟫) dan dalam jenis kelamin serta jumlah Bahuvrīhi keseluruhan -- Kata ganti demonstratif dalam jumlah, kasus, dan jenis kelamin Bahuvrīhi keseluruhan.**
 
 :::
 Examples:
@@ -69,9 +69,9 @@ etc.
 :::
 Traditionally, one distinguishes:
 
-*   ⟪समानाधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ the first and second members are in the same case
-    
-*   ⟪व्यधिकरणबहुव्रीहिः⟫ : in ⟪विग्रहवाक्य⟫ the first and second members are in different cases
+*   ⟪समानाधिकरणबहुव्रीहिः⟫ : dalam ⟪विग्रहवाक्य⟫ anggota pertama dan kedua berada pada kasus yang sama
+
+*   ⟪व्यधिकरणबहुव्रीहिः⟫ : dalam ⟪विग्रहवाक्य⟫ anggota pertama dan kedua berada pada kasus yang berbeda
 
 ## 20.2. Bahuvrīhi with attributive first member
 
@@ -86,9 +86,9 @@ Traditionally, one distinguishes:
 **Example:**
 
 ::: indent
-⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = "a Brahmin who possesses good qualities (son / sons)"
+⟪गुणवत्पुत्रो⟫ ⟪ब्राह्मणः⟫ =  ⟪गुणवान्पुत्रो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ = "seorang brahmana yang memiliki sifat-sifat baik (putra / putra-putra)"
 :::
-**Participles (PPP) are particularly frequent in forming -- rare in Tatpuruṣa -- attributive determinations. In the resolution, the relative pronoun usually stands in the Instrumental case (⟪तृतीया⟫) (rarely in the Genitive / ⟪षष्ठी⟫).**
+**Partisip (PPP) sangat sering digunakan dalam membentuk -- jarang dalam Tatpuruṣa -- penentuan atributif. Dalam resolusi, kata ganti relatif biasanya berada dalam kasus Instrumental (⟪तृतीया⟫) (jarang dalam Genitif / ⟪षष्ठी⟫).**
 
 **Rule of thumb:**
 
@@ -115,61 +115,61 @@ Traditionally, one distinguishes:
 ::: indent
 ⟪शूरपुत्रो⟫ ⟪नरः⟫ = ⟪शूरा⟫ ⟪एव⟫ ⟪पुत्रा⟫ ⟪यस्य⟫ ⟪स⟫ ⟪नरः⟫ = "a man whose sons are heroes"
 
-⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "the one whose end is this" = "ending with this"
+⟪तदन्त⟫ ⟪३⟫ = ⟪सो⟫ ⟪ऽन्तो⟫ ⟪यस्य⟫ ⟪सः⟫ ⟪।⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪यस्य⟫ ⟪तत्⟫ = "yang akhirannya ini" = "berakhir dengan ini"
 :::
 ::: grammar-box
 
-**Very important are appositional Bahuvrīhis with the second members ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ "first, beginning", more rarely ⟪प्रभृति⟫ "beginning". Such compounds correspond to "etc.":**
+**Sangat penting adalah Bahuvrīhi apozisional dengan anggota kedua ⟪आदि⟫ ⟪।⟫ ⟪आदिक⟫ ⟪।⟫ ⟪आद्य⟫ "pertama, awal", lebih jarang ⟪प्रभृति⟫ "awal". Senyawa semacam itu sesuai dengan "dll.":**
 
 **Example:**
 
 :::
 ::: indent
-⟪देवा⟫ ⟪इन्द्रादयः⟫ =  ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪ते⟫ ⟪देवाः⟫ = "the gods whose beginning is Indra" = "the gods Indra etc." = "Indra and the other gods"
+⟪देवा⟫ ⟪इन्द्रादयः⟫ =  ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪ते⟫ ⟪देवाः⟫ = "para dewa yang berawal dari Indra" = "para dewa Indra dll." = "Indra dan para dewa lainnya"
 :::
-**To express "only", one can use bahuvrīhis with ⟪मात्रा⟫ f. "measure, limit" as the second member:**
+**Untuk mengungkapkan "hanya", seseorang dapat menggunakan bahuvrīhis dengan ⟪मात्रा⟫ f. "ukuran, batas" sebagai anggota kedua:**
 
 **Example:**
 
 ::: indent
-⟪शब्दमात्रम्⟫ = ⟪शब्दो⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तत्⟫ = "that whose measure is a word" = "only a word"
+⟪शब्दमात्रम्⟫ = ⟪शब्दो⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तत्⟫ = "yang ukurannya adalah kata" = "hanya sebuah kata"
 :::
-**⟪मात्र⟫ after a PPP is to be translated as "as soon as":**
+**⟪मात्र⟫ setelah PPP harus diterjemahkan sebagai "segera setelah":**
 
 **Example:**
 
 ::: indent
-⟪जातमात्रं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = ⟪जातं⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = "they slay an enemy whose measure is arising" = "they slay the enemy as soon as he has arisen"
+⟪जातमात्रं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = ⟪जातं⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = "mereka membunuh musuh yang ukurannya muncul" = "mereka membunuh musuh begitu ia telah muncul"
 :::: media
 ![](/images/lekt2005.webp)
 Fig.: ⟪देवा⟫ ⟪यीश्वादयः⟫
-Jesus and the other gods, Ahmedabad
-(Image source: [Details](/en/licenses#lekt2005))
+Yesus dan para dewa lainnya, Ahmedabad
+(Sumber gambar: [Details](/en/licenses#lekt2005))
 ::::
 :::
-## 20.4. Bahuvrīhi with a case-marked first member
-that is, Bahuvrīhi compounds whose first member represents a case other than the nominative (⟪प्रथमा⟫).
-Example:
+## 20.4. Bahuvrīhi dengan anggota pertama yang diberi tanda kasus
+yaitu, majemuk Bahuvrīhi yang anggota pertamanya mewakili kasus selain nominatif (⟪प्रथमा⟫).
+Contoh:
 ::: indent
-⟪देवरूपा⟫ = ⟪देवस्यैव⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ = "a (woman) whose form is that of a god" "a woman of divine appearance"
+⟪देवरूपा⟫ = ⟪देवस्यैव⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ = "seorang (wanita) yang bentuknya adalah dewa" "seorang wanita dengan penampilan ilahi"
 :::
 ::: grammar-box
-**Exception to the general rule regarding the order of compound members:**
-**The case-marked member stands in the second position when it denotes a body part (esp. the hand):**
-**Example:**
+**Pengecualian terhadap aturan umum mengenai urutan anggota majemuk:**
+**Anggota yang diberi tanda kasus berada di posisi kedua ketika itu menunjukkan bagian tubuh (khususnya tangan):**
+**Contoh:**
 :::
 ::: indent
-⟪दण्डहस्तः⟫ =  ⟪दण्डो⟫ ⟪हस्ते⟫ (Loc. sg.) ⟪यस्य⟫ ⟪सः⟫ = "one in whose hand there is a staff" = "one who carries a staff in his hand."
+⟪दण्डहस्तः⟫ =  ⟪दण्डो⟫ ⟪हस्ते⟫ (Loc. sg.) ⟪यस्य⟫ ⟪सः⟫ = "seseorang yang di tangannya terdapat tongkat" = "seseorang yang membawa tongkat di tangannya."
 :::: media
 ![](/images/lekt2001.webp)
 Fig.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
-Siemreap (ក្រុងសៀមរាប), Cambodia, 9th century CE.
-(Image source: [Details](/en/licenses#lekt2001))
+Siemreap (ក្រុងសៀមរាប), Kamboja, abad ke-9 M.
+(Sumber gambar: [Details](/en/licenses#lekt2001))
 ::::
 :::
-## 20.5. Bahuvrīhi with adverbial first member
+## 20.5. Bahuvrīhi dengan anggota pertama adverbial
 
-The first member consists of an adverb, a preposition, a preverb, or another indeclinable; such compounds are generally ⟪नित्यसमास⟫.
+Anggota pertama terdiri dari kata keterangan, preposisi, prekata kerja, atau partikel tak berubah lainnya; majemuk seperti itu umumnya ⟪नित्यसमास⟫.
 
 Examples:
 
@@ -180,50 +180,50 @@ Examples:
 :::
 ::: grammar-box
 
-**⟪सह⟫ "with" as the first member of a Bahuvrīhi is often replaced by ⟪स⟫.**
+**⟪सह⟫ "dengan" sebagai anggota pertama dari Bahuvrīhi sering diganti dengan ⟪स⟫.**
 
 **Example:**
 
 :::
 ::: indent
-⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = "with a son", "accompanied by a son"
+⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = "dengan seorang putra", "disertai oleh seorang putra"
 :::: media
 ![](/images/lekt2006.webp)
 Fig.: ⟪सपुत्रा⟫
 Madhya Pradesh
-(Image source: [Details](/en/licenses#lekt2006))
+(Sumber gambar: [Details](/en/licenses#lekt2006))
 ::::
 :::
-## 20.6. Inflection of the Final Member of a Bahuvrīhi
+## 20.6. Infleksi Anggota Akhir dari Bahuvrīhi
 
 ::: grammar-box
 
-**The final member of a Bahuvrīhi is inflected as a multi-gendered adjective, independent of its original gender. Thus, if in a compound the final member has a gender different from its original one, it must be a Bahuvrīhi, provided it is not a Samāhāradvanva (Neuter singular).**
+**Anggota terakhir dari sebuah Bahuvrīhi dideklinasikan sebagai kata sifat multi-gender, terlepas dari gender aslinya. Dengan demikian, jika dalam sebuah majemuk anggota terakhir memiliki gender yang berbeda dari aslinya, itu haruslah merupakan Bahuvrīhi, kecuali jika itu adalah Samāhāradvanva (Neuter tunggal).**
 
 **In the case of adjectivization,**
 
-*   **-ā-stems in the Masculine and Neuter become -a-stems**
-*   **-a-stems (m., n.) form their Feminine on -ā or -ī**
-*   **-ī-stems (f.) must take the suffix -ka, -kā, -ka (n.) at the end of Bahuvrīhis; this suffix can or must also be taken by many other Bahuvrīhis**
+*   **-ā-stem pada maskulin dan netral menjadi -a-stem**
+*   **-a-stem (m., n.) membentuk Feminin mereka pada -ā atau -ī**
+*   **-ī-stem (f.) harus mengambil akhiran -ka, -kā, -ka (n.) di akhir Bahuvrīhi; akhiran ini dapat atau harus juga diambil oleh banyak Bahuvrīhi lainnya**
 
 :::
 ## 20.7. Another Classification of Types of Bahuvrīhis
 
-The examples are provided here for later study; for some, the necessary grammar and vocabulary have not yet been discussed.
+Contoh-contoh ini disediakan untuk studi selanjutnya; untuk beberapa di antaranya, tata bahasa dan kosakata yang diperlukan belum dibahas.
 
-1. qualifying word in the first member -- qualified word in the second member: ⟪स्थिरचित्तः⟫ = ⟪स्थिरं⟫ ⟪चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫
-2. indeclinables in the first member: ⟪उच्चैःश्रवस्⟫
-3. comparison in the first member: ⟪कुशाग्रधीः⟫ =  ⟪कुशाग्र⟫ ⟪इव⟫ ⟪धीर्यस्य⟫ ⟪सः⟫
-4. implicit comparison: ⟪उष्ट्रमुखः⟫ = ⟪उष्ट्रस्य⟫ ⟪मुखमिव⟫ ⟪मुखं⟫ ⟪यस्य⟫ ⟪सः⟫ = "camel-mouthed" = whose mouth is like that of a camel
-5. numeral as the second member for approximate number: ⟪उपसशाः⟫ = ⟪दशानां⟫ ⟪समीपे⟫ ⟪ये⟫ ⟪सन्ति⟫ ⟪ते⟫ = "approximately ten"
-6. both members are numerals: ⟪एकद्वाः⟫ = ⟪एको⟫ ⟪वा⟫ ⟪द्वौ⟫ ⟪वा⟫ = "one or two"
-7. with sa-/saha- in the first member: ⟪सपुत्रः⟫ ⟪।⟫ ⟪सहपुत्रः⟫
-8. with sa- (= ⟪समान⟫) in the first member: ⟪सजनपदः⟫ = ⟪समानो⟫ ⟪जनपदो⟫ ⟪यस्य⟫ ⟪सः⟫
-9. ⟪नञ्बहुव्रीहिः⟫ = with a-/an- in the first member: ⟪अपुत्रः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ; ⟪अनङ्गः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪अङ्गं⟫ ⟪यस्य⟫ ⟪सः⟫
-10. with preposition etc. in the first member: ⟪प्रवातः⟫ =⟪प्रकृष्टो⟫ ⟪वातो⟫ ⟪यस्मिन्⟫ ⟪सः⟫ ; ⟪निर्धनः⟫ = ⟪निर्गतं⟫ ⟪धनं⟫ ⟪यस्मात्सः⟫ ; ⟪सुबुद्धिः⟫ = ⟪सुष्ठु⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ ; ⟪दुर्बुद्धिः⟫ = ⟪दुष्टा⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫
-11. directional terms used to denote intercardinal directions: ⟪पुर्वोत्तरा⟫ "northeast"
-12. PPP as the first member: ⟪कृतकटः⟫ = ⟪कृतः⟫ ⟪कटो⟫ ⟪येन⟫ ⟪सः⟫
-13. and others
+1. kata sifat di anggota pertama -- kata benda yang disifati di anggota kedua: ⟪स्थिरचित्तः⟫ = ⟪स्थिरं⟫ ⟪चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫
+2. kata tak berubah di anggota pertama: ⟪उच्चैःश्रवस्⟫
+3. perbandingan di anggota pertama: ⟪कुशाग्रधीः⟫ =  ⟪कुशाग्र⟫ ⟪इव⟫ ⟪धीर्यस्य⟫ ⟪सः⟫
+4. perbandingan implisit: ⟪उष्ट्रमुखः⟫ = ⟪उष्ट्रस्य⟫ ⟪मुखमिव⟫ ⟪मुखं⟫ ⟪यस्य⟫ ⟪सः⟫ = "bermulut unta" = yang mulutnya seperti mulut unta
+5. bilangan sebagai anggota kedua untuk jumlah perkiraan: ⟪उपसशाः⟫ = ⟪दशानां⟫ ⟪समीपे⟫ ⟪ये⟫ ⟪सन्ति⟫ ⟪ते⟫ = "sekitar sepuluh"
+6. kedua anggota adalah bilangan: ⟪एकद्वाः⟫ = ⟪एको⟫ ⟪वा⟫ ⟪द्वौ⟫ ⟪वा⟫ = "satu atau dua"
+7. dengan sa-/saha- di anggota pertama: ⟪सपुत्रः⟫ ⟪।⟫ ⟪सहपुत्रः⟫
+8. dengan sa- (= ⟪समान⟫) di anggota pertama: ⟪सजनपदः⟫ = ⟪समानो⟫ ⟪जनपदो⟫ ⟪यस्य⟫ ⟪सः⟫
+9. ⟪नञ्बहुव्रीहिः⟫ = dengan a-/an- di anggota pertama: ⟪अपुत्रः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ; ⟪अनङ्गः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪अङ्गं⟫ ⟪यस्य⟫ ⟪सः⟫
+10. dengan kata depan dll. di anggota pertama: ⟪प्रवातः⟫ =⟪प्रकृष्टो⟫ ⟪वातो⟫ ⟪यस्मिन्⟫ ⟪सः⟫ ; ⟪निर्धनः⟫ = ⟪निर्गतं⟫ ⟪धनं⟫ ⟪यस्मात्सः⟫ ; ⟪सुबुद्धिः⟫ = ⟪सुष्ठु⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ ; ⟪दुर्बुद्धिः⟫ = ⟪दुष्टा⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫
+11. istilah arah yang digunakan untuk menunjukkan arah interkardinal: ⟪पुर्वोत्तरा⟫ "timur laut"
+12. PPP sebagai anggota pertama: ⟪कृतकटः⟫ = ⟪कृतः⟫ ⟪कटो⟫ ⟪येन⟫ ⟪सः⟫
+13. dan lainnya
 
 ::: media
 ![](/images/lekt2007.webp)
@@ -236,28 +236,28 @@ Chennai = சென்னை
 Although every Bahuvrīhi can be resolved into a relative clause, not every relative clause can be replaced by a Bahuvrīhi. Hermann Georg Jacobi (1850 - 1937), who examined the relationship between the two in greater detail (Compositum und Nebensatz, 1897), writes:
 
 ::: indent
-"When translating from German or another modern language into Sanskrit, not all subordinate clauses can be rendered by compounds, but only the embellishing and descriptive ones; however, those that contain a conceptually necessary or important determination also appear in Sanskrit as relative clauses."
+"Ketika menerjemahkan dari bahasa Jerman atau bahasa modern lainnya ke dalam bahasa Sanskerta, tidak semua klausa bawahan dapat diubah menjadi majemuk (compound), melainkan hanya yang bersifat hiasan dan deskriptif; namun, klausa yang mengandung penentuan secara konseptual penting atau perlu juga muncul dalam bahasa Sanskerta sebagai klausa relatif."
 :::: media
 ![](/images/lekt2002.jpg)
 Fig.: Hermann Jacobi
-(Image source: [Details](/en/licenses#lekt2002))
+(Sumber gambar: [Details](/en/licenses#lekt2002))
 ::::
 :::
-That may be true. However, the Indians then view many things as embellishing and descriptive, which we would consider "conceptually necessary or important."
+Itu mungkin benar. Namun, orang India kemudian menganggap banyak hal sebagai hiasan dan deskriptif, yang menurut kita adalah "penentuan secara konseptual penting atau perlu."
 
 ## 20.9. Word List
 
 ⟪वा⟫ : or
 
-⟪आश्रम⟫ m., n.: hermitage, stage of life, phase of life (namely as ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ and possibly as ⟪सन्न्यासिन्⟫; see Basham, Wonder p. 159f.)
+⟪आश्रम⟫, m., n.: tempat pertapaan, tahap kehidupan, fase kehidupan (yaitu sebagai ⟪ब्रह्मचरिन्⟫, ⟪गृहस्थ⟫, ⟪वनप्रस्थ⟫ dan mungkin juga sebagai ⟪सन्न्यासिन्⟩; lihat Basham, Wonder hlm. 159f.)
 
 ::: media
 ![](/images/lekt2008.webp)
 Fig.: ⟪आश्रमः⟫
-Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
-(Image source: [Details](/en/licenses#lekt2008))
+Rishikesh = ⟪ऋषिकेश⟫. "Ini sebenarnya bagian dari Ashram di Rishikesh tempat The Beatles tinggal. Bagian spesifik ini tidak ada saat mereka berada di sana, tetapi terlihat keren."
+(Sumber gambar: [Details](/en/licenses#lekt2008))
 :::
-⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : doing, making, causing
+⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : melakukan, membuat, menyebabkan
 
 ⟪कर⟫ m.: hand (to ⟪कृ⟫ 8)
 
@@ -267,7 +267,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪अधि⟫ Prefix: over, on, up, with reference to
 
-⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : to encounter, to reach, to attain
+⟪गम्⟫ +⟪अधि⟫ 1 P ⟪अधिगच्छति⟫ : bertemu, mencapai, memperoleh
 
 ⟪तनूकृ⟫ 8 U ⟪तनूकरोति⟫ : to reduce, to weaken
 
@@ -279,7 +279,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪बाधना⟫ f.: distress, plague, torment
 
-⟪भार्या⟫ f.: "that which is to be preserved" = wife
+⟪भार्या⟫ f.: "yang harus dipelihara" = istri
 
 ⟪भावना⟫ f.: meditative expansion (to ⟪भू⟫ causative)
 
@@ -299,7 +299,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : to sit, to settle down
 
-⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : to sit, to be seated (in a figurative sense) = to become composed, calm, cheerful; to be gracious to someone (genitive ⟪षष्ठी⟫)
+⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : duduk, terduduk (dalam arti kiasan) = menjadi tenang, damai, ceria; bersikap baik kepada seseorang (genitif ⟪षष्ठी⟫)
 
 ⟪समाधि⟫ m.: inner collection, highest attention, meditative "absorption"
 
@@ -349,7 +349,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Ri
 
 ## 20.10. Exercise 1
 
-Resolve the following compounds as Bahuvrīhi and/or Dvandva and/or Tatpuruṣa in all ways that appear possible to you in Sanskrit (exception: compounds with adverbial first member). Translate these variously resolved compounds into German, and specify the gender, case, and number of the entire compound.
+Uraikan majemuk berikut sebagai Bahuvrīhi dan/atau Dvandva dan/atau Tatpuruṣa dengan semua cara yang tampaknya mungkin dalam bahasa Sanskerta (kecuali: majemuk dengan anggota pertama adverbia). Terjemahkan berbagai majemuk yang telah diuraikan ini ke dalam bahasa Jerman, dan tentukan jenis kelamin, kasus, serta jumlah keseluruhan majemuk tersebut.
 
 1.  ⟪इन्द्रशत्रवः⟫
 2.  ⟪दुष्कुलायाः⟫
@@ -461,7 +461,7 @@ B) Translate into Sanskrit using compounds:
 
 1. A Kṣatriya who does not hold the staff in his hand does not protect the people.
 
-2. Kālidāsa and the other poets are the teachers in Sanskrit.
+2. Kālidāsa dan penyair lainnya adalah guru dalam bahasa Sanskerta.
 
 3. A Kṣatriya earns his livelihood through weapons.
 
@@ -489,7 +489,7 @@ Buddha as an ascetic before his liberating insight, Gandhara, 2nd/3rd century CE
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (On the Sāṃkhya system, see Basham, Wonder pp. 324f.)
 
 ::: indent
-Explanation: ⟪त्रिविध⟫ ⟪३⟫ : "triple"
+Penjelasan: ⟪त्रिविध⟫ ⟪३⟫ : "triple"
 :::
 Definition of liberation according to the Nyāya system:
 
@@ -498,13 +498,13 @@ Definition of liberation according to the Nyāya system:
 
 ⟪तदत्यन्तविमोक्षो⟫ ⟪ऽपवर्गः⟫ ⟪॥न्यायसूत्र⟫ ⟪१⟫.⟪२२॥⟫
 :::
-Statement of the Materialists according to the ⟪सर्वदर्शनसंग्रह⟫ :
+Pernyataan Para Materialis menurut ⟪सर्वदर्शनसंग्रह⟫ :
 
 ::: indent
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
 ⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
 
-Explanation: ⟪अत्मा⟫ = nom. sg. masc. of ⟪आत्मन्⟫ m. "self, soul; the Absolute, insofar as it is realized in an individual"
+Penjelasan: ⟪अत्मा⟫ = nom. sg. masc. dari ⟪आत्मन्⟫ m. "diri, jiwa; Yang Mutlak, sejauh terwujud dalam individu"
 :::
 A ⟪सुभाषितम्⟫ :
 
@@ -514,15 +514,15 @@ A ⟪सुभाषितम्⟫ :
 ⟪नृपाणां⟫ ⟪करदा⟫ ⟪लोका⟫  
 ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫
 
-Explanation: -da at the end of a compound: "giving"
+[PENJELASAN:] -da di akhir sebuah majemuk: "memberikan"
 :::: media
 ![](/images/lekt2009.webp)
-Fig.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
+Gambar: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
 Karnataka
-(Image source: [Details](/en/licenses#lekt2009))
+(Sumber gambar: [Rincian](/en/licenses#lekt2009))
 ::::
 :::
-On matters of property:
+Mengenai masalah properti:
 
 ::: indent
 ⟪भार्या⟫ ⟪पुत्रश्च⟫ ⟪दासश्च⟫
@@ -540,15 +540,15 @@ A ⟪सुभाषितम्⟫ on female beauty:
 ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫
 ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫
 
-Explanation: all forms except ⟪कं⟫ and ⟪स्त्रीणाम्⟫ are nom. sg. neut. and refer to ⟪वपुस्⟫.
+Penjelasan: semua bentuk kecuali ⟪कं⟫ dan ⟪स्त्रीणाम्⟫ adalah nom. sg. neut. dan merujuk kepada ⟪वपुस्⟫.
 :::: media
 ![](/images/lekt2003.webp)
 Fig.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
-(Image source: [Details](/en/licenses#lekt2003))
+(Sumber gambar: [Details](/en/licenses#lekt2003))
 ::::
 :::
-Yet another ⟪सुभाषितम्⟫ :
+Namun, satu lagi ⟪सुभाषितम्⟫ :
 
 ::: indent
 ⟪सन्ति⟫ ⟪पुत्राः⟫ ⟪सुबहवो⟫
@@ -556,14 +556,14 @@ Yet another ⟪सुभाषितम्⟫ :
 ⟪नास्ति⟫ ⟪पुत्रः⟫ ⟪समृद्धानां⟫
 ⟪विचित्रं⟫ ⟪विधिचेष्टितम्⟫ ⟪॥⟫
 
-Explanation: ⟪इच्छताम्⟫ = gen. pl. Part Pres. P of ⟪इष्⟫ : of the desiring
+Penjelasan: ⟪इच्छताम्⟫ = gen. pl. Part Pres. P dari ⟪इष्⟫ : yang menginginkan
 :::
 ::: deleteme-box
 
 
 **lekt2001:** Siemreap (ក្រុងសៀមរាប), Cambodia, 9th century CE. [Image source: Wikipedia, Public domain]
 
-**lekt2002:** [Image source: Contributions to Literary Studies and Intellectual History of India. -- Bonn, 1926]
+**lekt2002:** [Sumber gambar: Kontribusi pada Studi Sastra dan Sejarah Intelektual India. -- Bonn, 1926]
 
 **lekt2003:** Sanchi = ⟪सांची⟫ [Image source Wikipedia, Public domain]
 
@@ -575,7 +575,7 @@ Explanation: ⟪इच्छताम्⟫ = gen. pl. Part Pres. P of ⟪इष
 
 **lekt2007:** Chennai = சென்னை [Image source: by calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- Accessed on 2008-12-11. -- Creative Commons License (Attribution, no commercial use, no derivatives)]
 
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [Image source: by ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Accessed on 2008-12-11. -- Creative Commons License (Attribution)]
+**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "Ini sebenarnya bagian dari Ashram di Rishikesh tempat para Beatles tinggal. Bagian spesifik ini tidak ada saat mereka berada di sana, tetapi memang terlihat keren." [Sumber gambar: oleh ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- Diakses pada 2008-12-11. -- Lisensi Creative Commons (Atribusi)]
 
 **lekt2009:** Karnataka [Image source: by mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- Accessed on 2008-12-11. -- Creative Commons License (Attribution, no commercial use)]
 

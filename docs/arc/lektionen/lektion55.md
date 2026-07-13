@@ -7,12 +7,12 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 55
+# ܕܪܫܐ 55
 
-## 55.1. Der a-Aorist (Aorist mit Themavokal)
+## 55.1. ܐ-ܐܘܪܝܣܛ (ܐܘܪܝܣܛ ܥܡ ܩܠܐ ܕܡܘܠܟܢܐ)
 
 ::: grammar-box
-**The a-aorist is formed like an imperfect (⟪लङ्⟫) of the 6th present class (⟪तुदादि⟫), i.e.:**
+**אָת א-אַוּרִיסְתָא יܬܝܪܬ ܟܕܠܘܓ ܐܝܡܦܪܟܛ (⟪लङ्⟫) ד-ܣܝܬ ܦܪܐܙܠܬ ܫܥܝܬ (⟪तुदादि⟫) ܐܘ:**
 
 **Augment + deep-level root + a + secondary ending**
 
@@ -20,11 +20,11 @@ status: stable
 
 **No nasal infixes.**
 
-**The Ātmanepada is rare; for Ubhayapada roots it is usually formed according to other Aorist classes (see Kielhorn, Grammar §340 and below under the corresponding Aorist classes).**
+**Das Ātmanepada ist selten; bei Ubhayapada-Wurzeln wird es gewöhnlich nach anderen Aorist-Klassen gebildet (siehe Kielhorn, Grammatik §340 und unten unter den entsprechenden Aorist-Klassen).**
 
-**List of roots that have this aorist, in Kielhorn, Grammar §340.**
+**Liste der Wurzeln, die diesen Aorist haben, in Kielhorn, Grammatik §340.**
 :::
-Example:
+Beispiel:
 
 ⟪सिच्⟫ 6U "to sprinkle with"
 
@@ -50,9 +50,9 @@ Note:
 ::: indent
 ⟪शास्⟫ 2P "command": ⟪अशिषत्⟫ (regular strong grade!)
 :::
-## 55.2. Exercise
+## 55.2. ܬܪܓܠܐ
 
-Determine and translate the following forms in writing, and form the corresponding aorist-a forms:
+ܘܕܥ ܘܬܪܓܡ ܠܫܢ̈ܐ ܕܗܝܟܠ ܗܢܘܢ ܒܟܬܒܐ، ܘܙܠ ܠܫܢ̈ܐ ܕܐܘܪܝܣܛ ܡܠܦܢܘܬܐ:
 
 1.  ⟪दोक्ष्यन्ति⟫
 2.  ⟪बुबोध⟫
@@ -89,13 +89,13 @@ Determine and translate the following forms in writing, and form the correspondi
 
 ::: media
 ![](/images/lekt5501.webp)
-Fig.: ⟪अजीर्यमिति⟫
-'Inâyat Khân on his deathbed, design for a miniature of a manuscript for Jahângîr = جهانگير, ca. 1618
-(Image source: [Details](/arc/licenses#lekt5501))
+ܐܘܪ̈ܚܐ: ⟪अजीर्यमिति⟫
+'ܝܢܐܘܬ ܟܗܢܐ ܥܠ ܦܘܣܩܬܗ، ܡܫܟܠܐ ܠܨܝܩܘܬܐ ܕܟܬܒܐ ܠܝܗܘܓܪ = جهانگير، ق. 1618
+(מקור תמונה: [פרטים](/arc/licenses#lekt5501))
 :::
 
 ::: deleteme-box
 
-**lekt5501:** 'Inâyat Khân on his deathbed, draft for a miniature of a manuscript for Jahângîr = جهانگير, ca. 1618 [Image source: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Accessed on 2009-01-28. Public domain]
+**lekt5501:** 'إينايات خان على فراش الموت، مسودة لتصوير مصغر لمخطوطة لجاهاڠير = جهانگير، حوالي 1618 [مصدر الصورة: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- تم الوصول إليه في 2009-01-28. ملكية عامة]'
 
 :::

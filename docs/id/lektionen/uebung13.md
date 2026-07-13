@@ -15,7 +15,7 @@ A fire has burned down the house.
 ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
 
 ⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
-Buddha has awakened to the truth. Buddha has recognized the truth.
+Buddha telah terbangun menuju kebenaran. Buddha telah mengenali kebenaran.
 ⟪बुद्धः⟫ ⟪सत्यं⟫ ⟪बुध्यते⟫ / ⟪बोधति⟫ ⟪।⟫
 
 ⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
@@ -35,7 +35,7 @@ Rāma performed a meritorious deed. Rāma did something meritorious.
 ⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
 
 ⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
-It is said that Vedic sages have spoken only the truth.
+Dikatakan bahwa para resi Weda hanya mengucapkan kebenaran.
 ⟪ऋषयः⟫ ⟪सत्यमेव⟫ ⟪वदन्तीति⟫ ⟪वदन्ति⟫ ⟪।⟫
 
 ⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
@@ -54,7 +54,7 @@ By means of the mantra, liberation has been attained.
 What kind of amulet has protected this girl?
 ⟪का⟫ ⟪रक्षिका⟫ ⟪बालां⟫ ⟪रक्षति⟫ ⟪॥⟫
 
-B) Translate and convert into passive sentences of the past
+[B0] B) Terjemahkan dan ubah menjadi kalimat pasif lampau
 
 ⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
 Although Rāma desires liberation, he does not attain it.
@@ -69,7 +69,7 @@ Saints visualize the gods.
 ⟪साधुभिर्देवाः⟫ ⟪स्मृताः⟫ ⟪।⟫
 
 ⟪४⟫. ⟪पुण्यवान्पुत्रो⟫ ⟪देवान्यजते⟫ ⟪।⟫
-The virtuous son sacrifices to the gods.
+Putra yang berbakti berkorban kepada para dewa.
 ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪देवा⟫ ⟪इष्टाः⟫ ⟪।⟫
 
 ⟪५⟫. ⟪सुखवान्क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
@@ -113,7 +113,7 @@ Lowly people think that rulers desire wealth.
 ⟪पार्थिवेन⟫ ⟪धनमिष्टमिति⟫ ⟪नीचैर्मतम्⟫ ⟪।⟫
 
 ⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
-The Vedic sages see that the demon by no means wins.
+Para resi Weda melihat bahwa iblis itu sama sekali tidak menang.
 ⟪नैवासुरेण⟫ ⟪जितमित्यृषिभिर्दृष्टम्⟫ ⟪।⟫
 
 ⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
@@ -144,7 +144,7 @@ People desire happiness through wealth.
 ⟪नरैर्धनेन⟫ ⟪सुखमिष्यते⟫ ⟪।⟫ ⟪सुखमिष्टम्⟫ ⟪।⟫
 
 ⟪३⟫. ⟪नरः⟫ ⟪पुत्रेण⟫ ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫
-The man goes to the city with his son.
+Pria itu pergi ke kota dengan putranya.
 ⟪नरेण⟫ ⟪पुत्रेण⟫ (⟪सह⟫) ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫ ⟪नरः⟫ ⟪पुत्रेण⟫ (⟪सह⟫) ⟪नगरं⟫ ⟪पन्नः⟫ ⟪।⟫
 
 ⟪४⟫. ⟪देवो⟫ ⟪लोकान्सृजति⟫ ⟪।⟫
@@ -168,7 +168,7 @@ A virtuous person does not fight his enemy, even if he is hateful to him.
 ⟪गुणवता⟫ ⟪द्विष्तो⟫ ⟪ऽपि⟫ ⟪शत्रुर्न⟫ ⟪युध्यते⟫ ⟪।⟫ ⟪युद्धः⟫ ⟪।⟫
 
 ⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
-The Vedic sage says that anger, hatred, and greed are wrong.
+Resi Weda menyatakan bahwa kemarahan, kebencian, dan keserakahan adalah salah.
 ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिणोद्यते⟫ ⟪।⟫ ⟪लोभश्चेत्यृषिणोदितम्⟫ ⟪।⟫
 
 ⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫
@@ -259,7 +259,7 @@ E) Translate into Sanskrit:
 8. Śūdra women worshipped the goddess with offerings.
 ⟪शूद्राभिर्देवीष्टा⟫ ⟪।⟫
 
-9. Buddha has awakened to the truth = Buddha has recognized the truth.
+9. Buddha telah terbangun dari kebenaran = Buddha telah menyadari kebenaran.
 ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫ ⟪बुद्धः⟫ ⟪सत्यं⟫ ⟪बुद्धः⟫ ⟪।⟫
 
 10. The Vedic sages have heard the Śruti.

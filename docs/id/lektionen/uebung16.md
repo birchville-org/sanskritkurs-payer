@@ -34,23 +34,23 @@ A) Convert the following expressions into Tatpuruṣa compounds and translate th
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫ — ⟪देवस्तुतिः⟫
 
-B) Resolve the compounds in the following sentences into Sanskrit, thereby forming sentences with inflected nouns, and translate them:
+B) Uraikan majas dalam kalimat-kalimat berikut ke dalam bahasa Sanskerta, sehingga membentuk kalimat dengan kata benda yang telah dideklarasikan, dan terjemahkan:
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
-⟪पुण्यवान्वैश्यस्य⟫ ⟪पुत्रो⟫ ⟪देवानामिन्द्रस्य⟫ ⟪लोकं⟫ ⟪गच्छति⟫ ⟪।⟫ (or: ⟪पुण्यवतो⟫ ⟪वैश्यस्य⟫ ⟪पुत्रो⟫...)
-The meritorious son of a Vaiśya goes to the heaven of the lord of gods. (or: The son of a meritorious Vaiśya...)
+⟪पुण्यवान्वैश्यस्य⟫ ⟪पुत्रो⟫ ⟪देवानामिन्द्रस्य⟫ ⟪लोकं⟫ ⟪गच्छति⟫ ⟪।⟫ (atau: ⟪पुण्यवतो⟫ ⟪वैश्यस्य⟫ ⟪पुत्रो⟫...)
+Anak yang berbakti dari seorang Vaiśya pergi ke surga dewa-dewa. (atau: Anak dari seorang Vaiśya yang berbakti...)
 
 ⟪२⟫. ⟪पुण्यकरणं⟫ ⟪स्वर्गमार्गः⟫ ⟪।⟫
-⟪पुण्यस्य⟫ ⟪करणं⟫ ⟪स्वर्गस्य⟫ ⟪मार्गः⟫ ⟪।⟫ (or: ⟪पुण्यानां⟫ ⟪करणं⟫ ⟪स्वर्गं⟫ ⟪मार्गः⟫ ⟪।⟫)
-Doing what is meritorious is the path to heaven.
+⟪पुण्यस्य⟫ ⟪करणं⟫ ⟪स्वर्गस्य⟫ ⟪मार्गः⟫ ⟪।⟫ (atau: ⟪पुण्यानां⟫ ⟪करणं⟫ ⟪स्वर्गं⟫ ⟪मार्गः⟫ ⟪।⟫)
+Melakukan apa yang berbakti adalah jalan menuju surga.
 
 ⟪३⟫. ⟪न⟫ ⟪साधुः⟫ ⟪पशुवन्नरधेनुलोभः⟫ ⟪।⟫
-⟪न⟫ ⟪साधुः⟫ ⟪पशुवतो⟫ ⟪नरस्य⟫ ⟪धेनूनां⟫ ⟪लोभः⟫ ⟪।⟫ (or: ...⟪धेनोर्लोभः⟫ ⟪।⟫)
-The greed of the man rich in cattle for cows / for the cow is not good.
+⟪न⟫ ⟪साधुः⟫ ⟪पशुवतो⟫ ⟪नरस्य⟫ ⟪धेनूनां⟫ ⟪लोभः⟫ ⟪।⟫ (atau: ...⟪धेनोर्लोभः⟫ ⟪।⟫)
+Keserakahan pria yang kaya akan ternak terhadap sapi / terhadap seekor sapi bukanlah hal baik.
 
 ⟪४⟫. ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मयज्ञैस्तु⟫ ⟪स्वर्गसुखमाप्नुवन्ति⟫ ⟪।⟫
 ⟪न⟫ ⟪पशूनां⟫ ⟪यज्ञैर्नराः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ ⟪।⟫ ⟪धर्मस्य⟫ ⟪यज्ञैस्तु⟫ ⟪स्वर्गस्य⟫ ⟪सुखमाप्नुवन्ति⟫ ⟪।⟫
-With animal sacrifices people do not go to heaven. With (non-bloody) sacrifices of justice, however, they attain heavenly bliss.
+Dengan pengorbanan hewan, manusia tidak pergi ke surga. Namun, dengan (tanpa darah) pengorbanan keadilan, mereka mencapai kebahagiaan surgawi.
 
 ⟪५⟫. ⟪द्विजदासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
 ⟪द्विजानां⟫ ⟪दासा⟫ ⟪इति⟫ ⟪शूद्रा⟫ ⟪उच्यन्ते⟫ ⟪।⟫
@@ -58,7 +58,7 @@ With animal sacrifices people do not go to heaven. With (non-bloody) sacrifices 
 
 ⟪६⟫. ⟪बालब्राह्मणपुत्राः⟫ ⟪सत्यवन्नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
 ⟪बा्ला⟫ ⟪ब्राह्मणानां⟫ ⟪पुत्राः⟫ ⟪स्त्यवन्तं⟫ ⟪नरं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-The young Brahmana sons listen to the truthful man.
+Putra-putra brahmana muda mendengarkan orang yang jujur.
 
 ⟪७⟫. ⟪बलवत्क्षत्रिया⟫ ⟪धनवच्छत्रुनगरं⟫ ⟪जयन्ति⟫ ⟪।⟫
 ⟪बलवन्तः⟫ ⟪क्षत्रिया⟫ ⟪धनवतां⟫ ⟪शत्रूनां⟫ ⟪नगरं⟫ ⟪जयन्ति⟫ ⟪।⟫
@@ -66,11 +66,11 @@ The powerful Kṣatriyas conquer the rich city of the enemies.
 
 ⟪८⟫. ⟪ऋष्युक्त्या⟫ ⟪सत्यमुच्यते⟫ ⟪।⟫
 ⟪ऋषीणामुक्त्या⟫ ⟪सत्यमुच्यते⟫ ⟪।⟫
-The word of the Vedic sages speaks the truth.
+Kata-kata para resi Weda berbicara kebenaran.
 
 ⟪९⟫. ⟪बलवद्योधा⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गताः⟫ ⟪।⟫
 ⟪बलवन्तो⟫ ⟪योधा⟫ ⟪ब्राह्मणानां⟫ ⟪ग्रामं⟫ ⟪गताः⟫ ⟪।⟫
-The strong warriors have gone to the Brahmana village.
+Para prajurit yang perkasa telah pergi ke desa Brahmana.
 
 ⟪१०⟫. ⟪पुण्यवद्वैश्येष्टवेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
 ⟪पुन्यवतो⟫ ⟪वैश्यस्येष्टाया⟫ ⟪देवतायाः⟫ ⟪पूजां⟫ ⟪करोति⟫ ⟪।⟫
@@ -85,7 +85,7 @@ Fig.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर
 
 ## Declension Patterns
 
-A) Form all previously learned cases for the following words as examples of the declension classes learned so far.
+A) Bentukkan semua kasus yang telah dipelajari sebelumnya untuk kata-kata berikut sebagai contoh dari kelas-kelas deklinasi yang telah dipelajari sejauh ini.
 
 ::: grammar-box
 ⟪१⟫. **⟪नर⟫** (m.)
@@ -226,8 +226,8 @@ A) Form all previously learned cases for the following words as examples of the 
 B) Translate and resolve all compounds in Sanskrit:
 
 ⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥⟫ ⟪योगसूत्र⟫ ⟪१⟫.⟪२⟫ ⟪॥⟫
-⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ (or: ⟪वृत्तीनां⟫ ⟪निरोधः⟫) ⟪।⟫
-Yoga is the cessation of mental activity.
+⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ (atau: ⟪वृत्तीनां⟫ ⟪निरोधः⟫) ⟪।⟫
+Yoga adalah penghentian aktivitas mental.
 
 ⟪२⟫. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫
 The specific duty of a Brāhmaṇa is: study of the Vedas, teaching the Vedas, performing sacrifices as the patron, performing sacrifices on behalf of others, giving gifts to Brāhmaṇas, receiving gifts.
@@ -245,17 +245,17 @@ The specific duty of a Vaiśya is: study of the Vedas, performing sacrifices as 
 The specific duty of a Śūdra is obedient service to the twice-born, economic activity, and activity as an artisan and showman.
 
 ⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫
-The duty of all is: non-violence, truthfulness, purity, not murmuring about one's lot, freedom from malice, and patient forbearance.
+Kewajiban semua orang adalah: tidak melakukan kekerasan, kebenaran, kemurnian, tidak menggerutu tentang nasibnya sendiri, bebas dari kebencian, dan kesabuan yang sabar.
 (⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
 ::: deleteme-box Explanations
-Sentence 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nom. Acc.: Dvandva, denoting the two "things"
-Sentence 8: **⟪कर्म⟫** Nom., Acc. sg. Neuter to ⟪कर्मन्⟫ "action"
-Sentence 13: **⟪सर्वेषाम्⟫** Gen. pl. masc. to ⟪सर्व⟫ "each, all" (pronoun, declined not like deva)
+Kalimat 7: **⟪कृषिपाशुपाल्ये⟫** Dual, Nom. Acc.: Dvandva, menunjukkan dua "hal"
+Kalimat 8: **⟪कर्म⟫** Nom., Acc. sg. Neuter ke ⟪कर्मन्⟫ "tindakan"
+Kalimat 13: **⟪सर्वेषाम्⟫** Gen. pl. masc. ke ⟪सर्व⟫ "masing-masing, semua" (kata ganti, dideklinasikan tidak seperti deva)
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥⟫ ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३⟫ ⟪॥⟫
 ⟪आन्वीक्षिक्याः⟫ ⟪त्रय्याः⟫ ⟪वार्त्ताया⟫ ⟪योगस्य⟫ ⟪क्ष⟫e⟪मस्य⟫ ⟪च⟫ ⟪साधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪।⟫
-The staff produces acquisition and secure possession of philosophy, Vedic studies, and economics. The wielding of the staff is politics.
+Tongkat menghasilkan akuisisi dan kepemilikan yang aman dari filsafat, studi Veda, dan ekonomi. Penggunaan tongkat adalah politik.
 
 ::: media
 ![](/images/uebung024.webp)

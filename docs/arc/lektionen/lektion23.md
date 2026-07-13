@@ -7,39 +7,39 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 23
+# ܕܲܪܫܵܐ 23
 
-## 23.1. Der Infinitiv (⟪तुमुन्⟫)
+## 23.1. ܡܨܕܪܐ (⟪ܬܘܡܘܢ⟫)
 
 ::: grammar-box
-**If one wishes to express in Sanskrit that an action is performed for the sake of another action ("in order to"), one can use the infinitive (⟪तुमुन्⟫) for the action for whose sake it is performed. The infinitive primarily denotes the purpose or intention:**
+**אִם אֱלָהּ יַחְפֵּץ לְאַשְׁרָא בְסַנְסְקִית דִּבְרָא אֲתַר עֵינָא דִּדְבַר אָחֳר (״לְמַעַן״), יְכֵיל לְאֶשְׁתַּמָּשָׁ בְּמוֹפְעָא (⟪तुमुन्⟫) לַדִּבְרָא דִּי בַעֲבוּרָהּ עֲבֵיד. הַמוֹפְעָא מְאַשְׁרָ קִיּוּמָא אוֹ כַוְונָה:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma has gone to listen to the master's discourse."
+> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "רָמָא אֲתָה לְשַׁמְעָא מִלְּבַר רַבָּא."
 
-**Note that the infinitive — with a few strictly defined exceptions — cannot function as the subject or object of a verb:**
+**וּשְׁמַע דִּי הַמוֹפְעָא — בִּלְתֵּי אִם מִצְוַת סָפְרֵי — לָא יְכֵיל לְהוּקְמָא כִּדְבַר אוֹ מֻצָּע לְפִעוּל:**
 
 > "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen").
 
-**The infinitive is also used with verbs and nouns meaning "to wish" or "to long for," when the agent (⟪कर्तृ⟫) of the infinitive and the verb are identical:**
+**[L0] **ܐܬܓܪܐ ܕܡܠܬܐ ܗܘܝ ܓܪܝܙ ܥܡ ܦܠܗ̈ܐ ܘܫܡ̈ܗ̇ ܕܝܠܬܐ ܘܫܪܩܐ، ܒܝܬ ܠܦܘܿܟ ܕܡܠܬܐ (⟪कर्तृ⟫) ܕܡܠܬܐ ܘܦܠܗ̇ ܗܝ ܚܕ:****
 
 > ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma desires to hear the Master's discourse."
 
-**The infinitive is also used, among other things, with verbs meaning "to be able," "there is," "to know," "to begin":**
+**يُستَخدَم المَصْدَر أَيْضًا، بَيْنَ شَيءٍ آخَرَ، مَعَ أَفْعَال تَدْلِل عَلَى "القُدْرَة"، "هُنَاكَ"، "المَعْرِفَة"، "البِدَاء":**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "A holy person cannot commit injustice."  
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "There is food to eat" (⟪भुज्⟫ 7: Ā: to eat, P: to rule)
+> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "لا يُمْكِن لِلشَّخْصِ المُقَدَّسِ ارتِكَابَ ظُلْم."  
+> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "هُنَاكَ طَعَامٌ لِيَأْكُلَهُ" (⟪भुज्⟫ 7: Ā: لِيَأْكُلَ، P: لِيَحْكُم)
 
-**The infinitive is also used with words in the meanings "sufficient," "capable," and with nouns in the meanings "ability," "power," "skill":**
+**يُستَخدَم المَصْدَر أَيْضًا مَعَ كَلِمَات بِمَعَانِي "كَافٍ"، "قَادِر"، وَمَعَ أَسْمَاء بِمَعَانِي "القُدْرَة"، "القُوَّة"، "المَهَارَة":**
 
 > ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Fire has the power to burn everything."
 
-**Also with words meaning "time," the infinitive can be used in expressions like "It is time to ...":**
+**بִּשְׂמָא דַלְפֵי "זְמַן", יܘּכִיל לְהוֹתָא בֵּיטַף עִם תְּלָמִין כְּגוֹן "הוּא זְמַנָּא לְ...":**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "It is time to devote oneself to eating" = "It is time to eat"
+> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "הוּא זְמַנָּא לְעִיסְקָא בְּאַכְלָה" = "הוּא זְמַנָּא לְאַכְלָה"
 
-**The infinitive can be used actively and passively. A passive infinitive in German is rendered in Sanskrit by putting the verb (especially frequently ⟪शक्⟩ "to be able, can") from which the infinitive depends, into the passive.**
+**יܘּכִיל לְהוֹתָא בֵּיטַף עִם פְּעוֹל וְאַפְסָק. בֵּיטַף אַפְסָק עוּבְדָא בִּשְׂרַיָּה יܬְבַּק בִּשְׁמָא דַל פְּעוֹל (בִּרְחָמָא ⟪शक्⟩ "יܘּכִיל, יָכֹל") מֵהַן דְּבִיטַף תָּל, בְּאַפְסָק.**
 
-**Regarding the object, the infinitive behaves like a verbal form, i.e., the direct object (⟪कर्मन्⟫) stands in the accusative (⟪द्वितीया⟫), or the case required by the relevant verb, when the infinitive is used actively; when the infinitive is used passively, the direct object stands in the nominative.**
+**עַל עוֹבְדָּא, בֵּיטַף כְּגוֹן פְּעוֹל, כלומר עַבְדָּא (⟪कर्मन्⟫) בִּקְשָׁא (⟪द्वितीया⟫), אוֹ מַקְרָא דְּפִיל עוֹבְדָּה, בֵּיטַף פְּעוֹל; כָּאן דְּבִיטַף אַפְסָק, עַבְדָּא בִּקְשָׁא.**
 
 e.g.
 
@@ -47,11 +47,11 @@ e.g.
 
 **In the 2nd person, ⟪अर्ह्⟫ + infinitive is often used as a mild command: "You should."**
 
-**When the infinitive depends on a noun, it must not be compounded with it. Exceptions are Bahuvrīhis whose second member is ⟪काम⟫ or ⟪मनस्⟫:**
+**כד דאִימְתַּגַר פֿוֹעֵל בְּשׁוֹם, לָא יִתְעַבֵּיד מִנֵּיהּ. אֲלָל דְּבַהוּוִירִיִּים דִּשְׁמָא בַר מֵימְרָא דִּיהוֹב ⟪काम⟫ אוֹ ⟨ּमनस्⟩:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "one whose desire it is to speak; one who desires to speak".
+> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "דִּיהוֹב מַלְתָּא בְּעֵינֵיהּ; דִּיהוֹב מַלְתָּא בְּעֵינֵיהּ".
 :::
-## 23.2. Formation of the Infinitive (⟪तुमुन्⟫)
+## 23.2. ܨܽܘܪܬܳܐ ܕܡܰܠܬܳܐ ܕܠܳא ܙܰבܢܳܐ (⟪ܬܽܘܡܽܘܢ⟫)
 
 ::: grammar-box
 **or**
@@ -60,17 +60,17 @@ e.g.
 
 **high-grade root + -i- + -tum**
 
-**The final consonants of the root are modified before -tum according to the same rules as before the -ta of the PPP.**
+**ܟܬ̈ܒ̈ ܚܛܡܝܐ ܕܫܪܫ̈ܐ ܬܩܘܡ̈ܝܢ ܠܦܪܣ -tum ܒ݂ܟ̈ܠ ܐܘܪ̈ܚ̈ܝܐ ܕܠܦܪܣ -ta ܕ݂ܟ̈ܬ̈ܒ̈ ܦܫܘܩ̈ܐ.**
 
-**Verbs with prefixes form the infinitive in the same way as simple roots.**
+**ܥܡ̈ܠ̈ ܝܬܝܪ̈ܐ ܡ݁ܫ̈ܟܚ̇ܝܢ ܐܬ݂ܒ̈ܘܪ̇ܝܠ ܒ݂ܟ̈ܠ ܐܘܪ̈ܚ̇ܝܐ ܕ݂ܫܪܣ̈ܬ̇ܝܐ.**
 :::
-Examples:
+ܡ݁ܬ݂ܒ̈ܪ̇ܐ:
 
 ::: indent
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
 :::
-No fixed rules can be established regarding the use of the connecting vowel -i-. Essentially, the distribution of the connecting vowel in the infinitive corresponds to that of the future tense.
+ܠܐ ܡ݁ܫ̈ܟܚ̇ܝܢ ܐܘܪ̈ܚ̇ܝܐ ܩܛ݂ܥ̈ܝܢ ܠܦܪܣ -i- ܕ݂ܡ̈ܫܟܚ. ܒ݇ܨܠܐ, ܦܘܫ̈ܩܬ݂ ܕ݂ܡ̈ܫܟܚ ܒ݇ܐܬ݂ܒ̈ܘܪ̇ܠ ܡ݁ܫ̈ܟܚ ܣܘܓ̇ܝܐ.
 
 Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten:
 
@@ -88,7 +88,7 @@ Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten:
 :::
 Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
-## 23.3. The Infinitive (⟪तुमुन्⟫) for the roots learned so far
+## 23.3. ܡܩܘܪܒܢܐ (⟪ܬܘܡܘܢ⟫) ܠܥܩܪ̈ܐ ܕܐܬܝܕܥܘ ܥܕܡܐ ܠܗܫܐ
 
 ⟪अद्⟫ 2P ⟪अत्तुम्⟫  
 ⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
@@ -151,7 +151,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 ⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
 ⟪हन्⟫ 2P ⟪हन्तुम्⟫
 
-## 23.4. Wortliste
+## 23.4. ܡܠܘܐܐ
 
 ⟪समान⟫ ⟪३⟫: equal
 
@@ -161,9 +161,9 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 
 ⟪विशेष⟫ m.: peculiarity, specification, differentia specifica
 
-## 23.5. Übung
+## 23.5. ܬܪܓܠܐ
 
-A) The following roots form the infinitive without the connecting vowel -i-. Form the infinitive, taking into account the sound changes, for:
+[A] שְׁרָשַׁיָּא אִלֵּין יְצִירַן לְפָעֱלָא בְּלָא מִדְבַּר שְׁוָא -י-. יְצֵיר לְפָעֱלָא, בַּר מִן תַּגְוָורְתָּא דְּאַשְׁמַעְתָּא, לִרְגָז:
 
 1.  ⟪आप्⟫
 2.  ⟪इ⟫
@@ -203,7 +203,7 @@ A) The following roots form the infinitive without the connecting vowel -i-. For
 36.  ⟪पच्⟫
 37.  ⟪सद्⟫
 
-B) The following roots form the infinitive with the connecting vowel -i-. Form the infinitive for:
+B) Die folgenden Wurzeln bilden den Infinitiv mit dem Bindevokal -i-. Bildet den Infinitiv für:
 
 1.  ⟪आस्⟫
 2.  ⟪नृत्⟫
@@ -258,7 +258,7 @@ C) Translate the following ⟪सुभाषितम्⟫
 ⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
 
-Explanation: ⟪हीन⟫ ⟪३⟫: PPP to ⟪हा⟫ 3: to leave ; ⟪धर्मे⟫ = locative sg. "in the ..."
+[0] שְׁרַיָּא: ⟪हीन⟫ ⟪३⟫: PPP לְ- ⟪हा⟫ 3: לְהַנִּיחׁ ; ⟪धर्मे⟫ = לְכֵיד שׁׁינִית "בְּ"
 
 ::: media
 ![](/images/lekt2302.webp)
@@ -266,25 +266,25 @@ Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Image source: [Details](/arc/licenses#lekt2302))
 :::
-## 23.6. Review Exercise
+## 23.6. ܬܪܓܡܬܐ ܕܚܙܘܪܐ
 
 Please do not use aids!
 
 A) Translate into Sanskrit:
 
-2\. Knowledge is given for obedience to a teacher, or for a lot of money, or in exchange for knowledge. A fourth type of acquiring knowledge does not exist.
+[0] ܕܝܩܢܘܬܐ ܗܝ ܠܪܒܟܢ ܘܐܘܪܚܬܗ ܠܡܕܒܪ ܐܘ ܠܟܣܦܐ ܕܡܪܒܐ ܐܘ ܠܦܘܩܕܢ ܕܝܩܢܘܬܐ.
 
 3\. A low person speaks but does not act; a good person does not speak but only acts.
 
 3\. A low one speaks, but does not act; a good one does not speak, but acts only.
 
-4\. The auxiliary sciences to the Veda are: phonetics, ritualistics, grammar, semantics, metrics (⟪छन्दस्⟫), and calendrical science.
+4\. המדעים העזרים לווידה הם: פונטיקה, טקסיות, דקדוק, סמנטיקה, מטרות (⟪छन्दस्⟫), ומדע הלוח השנה.
 
 5\. Yoga est l'arrêt des activités de l'organe de pensée.
 
 6\. Right prevails, not wrong; truth prevails, not falsehood; patience prevails, not anger; God prevails, not a counter-god. (Passive)
 
-7\. The "staff" brings about acquisition and secure possession of philosophy, Veda, and economics. The handling of this staff is politics.
+7\. "ܕܝܪܐ" ܗܘ ܕܝܢ ܡܫܟܚ ܠܦܠܣܦܬܐ، ܘܠܬܘܪܝܬܐ، ܘܠܟܣܦܐ. ܡܪܝܙܘܬܐ ܗܝ ܫܡܫܐ ܕܓܘܦܗ.
 
 ::: media
 ![](/images/lekt2304.jpg)
@@ -294,19 +294,19 @@ Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪�
 :::
 9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden.
 
-12\. The poor have many sons, although they do not desire them. The rich have no son. Strange is the stirring of fate.
+12\. דאין לרזינן בני רבוי, אף על גב דלא יהבי להו. עשירין לית להון בר. אפס הוא דאשתני גזירת שמיא.
 
-10\. The specific duty of a Brāhmaṇa is: study, teaching, offering as the officiant of a sacrifice, offering on behalf of others, giving and receiving; that of a Kṣatriya is: study, offering as the officiant of a sacrifice, giving, earning one's livelihood through weapons, protecting beings; that of a Vaiśya: study, offering as the officiant of a sacrifice, giving, agriculture, animal husbandry and trade; that of a Śūdra: obedience towards the twice-born, economic activity, work (⟪कर्म⟫) of craftsmen and performers.
+10\. מילתא דברירה דבַּרְהֲמָנָא: תלמוד, הוראה, הקרבן ככהן זבח, הקרבן בעד אחרינא, נתינה וקבלה; דבַּרְשָׁתָא: תלמוד, הקרבן ככהן זבח, נתינה, פרנסה בחרב, שמירת בריות; דוַאִישָׁה: תלמוד, הקרבן ככהן זבח, נתינה, חקלאות, רעיית בהמה ומסחר; דשׁוּדְרָא: ציות לזוגי-לידה, פעולה כלכלית, מלאכה (⟪कर्म⟩) דסַנְפֵּיר וזמרי.
 
-11\. The clarification of consciousness occurs due to the meditative development of loving-kindness, compassion, sympathetic joy and equanimity, which have happiness and suffering, good and evil as their objects.
+11\. פשרא דהכנעה אתי מפתחנות דרחמי, רחמנות, שמחה בשלום ושיווי-דעת, דאית להו אושר וצער, טוב ורע כמטרתן.
 
-12\. The poor have many sons, although they do not wish for them. The rich have no son. Strange is the stirring of fate.
+12\. דאין לרזינן בני רבוי, אף על גב דלא יהבי להו. עשירין לית להון בר. אפס הוא דאשתני גזירת שמיא.
 
 13\. Who does not strike down a woman's body (⟪वपुस्⟫ f.) with a slender waist, wide hips, red lips, black eyes, curved navel, upright breasts.
 
 B) Decline in all cases known to you ⟪क्षत्रिया⟫ f.
 
-C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicative, 3rd sg. passive, PPP, absolutes, infinitive) for the following verbs:
+[C] סְטַם פּוֹרְמָא (מְנוּיָא, מַעֲלָתָא עַכְשָׁאוּ, מוֹד, 3 דּוּכְתָא סִינֵה מַעֲלָתָא עַכְשָׁאוּ, 3 דּוּכְתָא סִינֵה פַעֲלָא, שְׁמָא דִּבְרַת, מוֹלֵךְ, אֲפָס) לְאַתְוָון דַּא:
 
 ⟪१⟫. ⟪सह्⟫
 

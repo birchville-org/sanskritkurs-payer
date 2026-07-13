@@ -1,177 +1,181 @@
 ---
-title: Lektion 1
-subtitle: "Die Laute des Sanskrit"
+title: ܡܠܦܢܘܬܐ 1
+subtitle: "ܩ̈ܠܐ ܕܣܢܣܩܪܝܛ"
 lesson_id: 1
-category: "Grammatik"
+category: "ܕܘܩܝܐ"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 1
+# ܡܠܦܢܘܬܐ 1
 
 ::: center
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
-Veneration of Gaṇeśa
+ܣܓܕܬܐ ܠܓܢܫܐ
 :::
 
 ::: media
 ![](/images/lekt0102.webp)
-Fig.: Gaṇeśa, Adamspeak, Sri Lanka
-(Image source: [Details](/arc/licenses#lekt0102))
+ܨܘܪܬܐ 1.2: ܓܢܫܐ، ܐܕܡܣܦܝܩ، ܣܪܝ ܠܢܩܐ
+(ܡܒܘܥܐ ܕܨܘܪܬܐ: [ܦܪ̈ܛܐ](/arc/licenses#lekt0102))
 :::
 
 ::: center
-⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫
-⟪सततं⟫ ⟪मोदकप्रिय⟫ |
-⟪निर्विघ्नं⟫ ⟪कुरु⟫ ⟪मे⟫ ⟪देव⟫
-⟪सर्वकार्येषु⟫ ⟪सर्वदा⟫ |
+sig[लम्बोदर नमस् तुभ्यं]
+sig[सततं मोदकप्रिय ⟪|⟫]
+sig[निर्विघ्नं कुरु मे देव]
+sig[सर्वकार्येषु सर्वदा ⟪||⟫]
 
 **lambodara namas tubhyaṃ
 satataṃ modakapriya |
 nirvighnaṃ kuru me deva
 sarvakāryeṣu sarvadā |**
 
-Du Hängebauch, Du Naschkatze,
-Stets sei Dir Verehrung!
-Gott, mache all meine Unternehmungen
-Frei von Hindernissen!
+ܐܢܬ ܕܟܪܣܟ ܢܦܝܠܐ، ܐܢܬ ܪܚܡ ܚܠܝ̈ܬܐ،
+ܒܟܠܙܒܢ ܬܗܘܐ ܠܟ ܣܓܕܬܐ!
+ܐܠܗܐ، ܥܒܕ ܟܠܗܘܢ ܥܒܕ̈ܝ
+ܚܐܪ̈ܐ ܡܢ ܟܠ̈ܝܬܐ!
 :::
 
 ::: center
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
-"Propitious Beginning"
+"ܫܘܪܝܐ ܡܝܬܪܐ"
 :::
 
 ::: media
 ![](/images/lekt0101.webp)
-Fig.: Ardhanarīśvara
-(Image source: [Details](/arc/licenses#lekt0101))
+ܨܘܪܬܐ 1.1: ܐܪܕܗܢܪܝܫܘܪܐ
+(ܡܒܘܥܐ ܕܨܘܪܬܐ: [ܦܪ̈ܛܐ](/arc/licenses#lekt0101))
 :::
 
 ::: center
-⟪वागर्थाविव⟫ ⟪संपृक्तौ⟫
-⟪वागर्थप्रतिपत्तये⟫ |
-⟪जगतः⟫ ⟪पितरौ⟫ ⟪वन्दे⟫
-⟪पार्वतीपरमेश्वरौ⟫ |
+sig[वागर्थाविव संपृक्तौ]
+sig[वागर्थप्रतिपत्तये |]
+sig[जगतः पितरौ वन्दे]
+sig[पार्वतीपरमेश्वरौ |]
 
 **vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
 jagataḥ pitarau vande
 pārvatīparameśvarau |**
 
-(कालिदासः: रघुवंशम् १.१)
+(Kālidāsa: Raghuvaṃśa 1.1)
 
-I greet the parents of the world,
-Pārvatī and Śiva,
-Who are so firmly united
-As word and meaning for the understanding
-Of the meaning of the word.
+ܫܐܠ ܐܢܐ ܒܫܠܡܐ ܕܐܒܗ̈ܐ ܕܥܠܡܐ،
+ܦܪܘܬܝ ܘܫܝܘܐ،
+ܐܝܠܝܢ ܕܗܟܢܐ ܚܬܝܬܐܝܬ ܡܚܝܕܝܢ ܐܢܘܢ
+ܐܝܟ ܡܠܬܐ ܘܪܥܝܢܐ ܠܡܣܬܟܠܢܘܬܐ
+ܕܪܥܝܢܐ ܕܡܠܬܐ.
 :::
 
-At the beginning, a curiosity:
+ܠܫܘܪܝܐ، ܢܘܟܪܝܘܬܐ ܚܕܐ:
 
->"When William Jones [1746–1794] and Henry Thomas Colebrooke (1765—1857) first thoroughly studied Sanskrit, partially translated it, and discovered that it possessed a rich literature and considerable affinity with the classical languages, they encountered significant resistance. Since this intimate relationship of Sanskrit to European languages geographically so distant could not be reconciled with the old views, which either derived all languages from Hebrew or largely isolated them from one another, the renowned philosopher Dugald Stewart (1753—1828) took the simplest way out by declaring the entire history with Sanskrit a lie. He wrote an essay in which he attempted to prove that it had been concocted by the rascally Brahmins after the model of Greek and Latin, and that both language and literature were forgeries. This view was further elaborated in 1840 by the professor in Dublin, Charles William Wall (Göttingische gelehrte Anzeigen 1842 p. 1888)."
+>"ܟܕ ܘܠܝܡ ܓ̰ܘܢܣ [1746–1794] ܘܗܢܪܝ ܬܐܘܡܐܣ ܩܘܠܒܪܘܩ (1765—1857) ܠܣܢܣܩܪܝܛ ܩܕܡܝܬ ܓܡܝܪܐܝܬ ܐܠܦܘ، ܘܡܢܗ ܦܫܩܘ، ܘܐܫܟܚܘ ܕܐܝܬ ܠܗ ܣܦܪܝܘܬܐ ܥܬܝܪܬܐ ܘܩܘܪܒܐ ܠܐ ܙܥܘܪܐ ܥܡ ܠܫܢ̈ܐ ܩܠܣܝܩܝ̈ܐ، ܐܬܟܠܝܘ ܒܩܘܡܐ ܠܐ ܙܥܘܪܐ. ܘܡܛܠ ܕܥܡ ܗܢܐ ܐܚܝܢܐ ܚܬܝܬܐ ܕܣܢܣܩܪܝܛ ܥܡ ܠܫܢ̈ܐ ܐܘܪ̈ܘܦܝܐ ܕܗܟܢܐ ܪ̈ܚܝܩܝܢ ܓܐܘܓܪܦܐܝܬ، ܠܐ ܡܫܟܚܢ ܗܘ̈ܝ ܠܡܫܬܘܝܘ ܣܘܟܠ̈ܐ ܥܬܝܩ̈ܐ، ܗܢܘܢ ܕܐܘ ܟܠܗܘܢ ܠܫܢ̈ܐ ܡܢ ܥܒܪܝܐ ܐܦܩܘ ܐܘ ܣܘܓܐܗܘܢ ܚܕ ܡܢ ܚܕ ܦܪܫܘ، ܐܚܕ ܦܝܠܘܠܘܓܐ ܡܫܡܗܐ ܕܘܓܠܕ ܣܛܝܘܐܪܕ (1753—1828) ܐܘܪܚܐ ܦܫܝܛܬܐ، ܟܕ ܟܠܗ ܬܫܥܝܬܐ ܥܡ ܠܫܢܐ ܣܢܣܩܪܝܛܝܐ ܕܓܠܘܬܐ ܚܫܒܗ. ܟܬܒ ܡܐܡܪܐ ܚܕ، ܕܒܗ ܒܥܐ ܠܡܚܘܝܘ ܕܗܝ ܡܢ ܒܪܗܡܢ̈ܐ ܢܟܝ̈ܠܐ ܐܝܟ ܕܡܘܬܐ ܕܝܘܢܝܐ ܘܠܛܝܢܝܐ ܐܬܓܒܠܬ، ܘܕܠܫܢܐ ܐܝܟܢܐ ܕܐܦ ܣܦܪܝܘܬܐ ܓܢܒܘܬܐ ܐܢܘܢ. ܗܢܐ ܪܥܝܢܐ ܐܦ ܒܫܢܬ 1840 ܦܪܘܦܣܘܪܐ ܕܒܕܘܒܠܝܢ، ܬܫܪܠܣ ܘܠܝܡ ܘܐܠ، ܐܪܘܚܗ (Göttingische gelehrte Anzeigen 1842 S. 1888)."
 >
->[Source: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- Munich : Langen. -- Vol. 2. -- 1923. -- p. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Accessed on 2010-01-10]
+>[ܡܒܘܥܐ: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- München : Langen. -- ܟܪܟܐ 2. -- 1923. -- ܦ. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- ܐܬܬܚܙܝ ܒܝܘܡ 2010-01-10]
 
-## 1.1. Literature for Beginners in Indology
+## 1.1. ܣܦܪ̈ܐ ܠܫܪܘܝ̈ܐ ܒܐܢܕܘܠܘܓܝܐ
 
 ::: media
 ![](/images/lekt0103.webp)
-Abb.: Einbandtitel einer Taschenbuchausgabe
-(Bildquelle: [Details](/arc/licenses#lekt0103))
+ܨܘܪܬܐ: ܟܬܝܒܬܐ ܕܓܠܕܐ ܕܡܦܩܬܐ ܕܓܝܒܐ
+(ܡܒܘܥܐ ܕܨܘܪܬܐ: [ܦܪ̈ܛܐ](/arc/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Teil: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Seither viele Ausgaben, auch Taschenbuchausgaben. -- **Pflichtlektüre.** Eine gute Übersicht über Leben, Geschichte und Kultur im vormuslimischen Indien. Gesamtübersicht über die verschiedenen Gebiete der klassischen Indologie.
+>**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ ܡܢܬܐ: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- ܡܢ ܗܝܕܝܢ ܡܦܩܝ̈ܬܐ ܣܓܝ̈ܐܬܐ، ܐܦ ܡܦܩܝ̈ܬܐ ܕܓܝܒܐ. -- **ܩܪܝܢܐ ܚܘܒܠܢܝܐ.** ܡܚܘܝܢܘܬܐ ܛܒܬܐ ܥܠ ܚܝ̈ܐ، ܬܫܥܝܬܐ ܘܡܪܕܘܬܐ ܒܗܢܕܘ ܩܕܡ ܡܫܠܡܢ̈ܐ. ܡܚܘܝܢܘܬܐ ܓܘܢܝܬܐ ܥܠ ܦܢ̈ܝܬܐ ܡܫܚܠܦ̈ܬܐ ܕܐܢܕܘܠܘܓܝܐ ܩܠܣܝܩܝܬܐ.
 
 ::: media
 ![](/images/lekt0104.webp)
-Fig.: Title page
-(Image source: [Details](/arc/licenses#lekt0104))
+ܨܘܪܬܐ: ܦܐܬܐ ܩܕܡܝܬܐ
+(ܡܒܘܥܐ ܕܨܘܪܬܐ: [ܦܪ̈ܝܫܬܐ](/arc/licenses#lekt0104))
 :::
 
-**Best systematic grammar**
+ܩܢܘܢܐ ܣܕܝܪܐ ܛܒ ܡܢ ܟܠ:
 
-> **Kielhorn**, Franz \&lt;1840-1908\&gt;: Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language
+> **Kielhorn**, Franz \&lt;1840-1908\&gt;: ܩܢܘܢܐ ܕܠܫܢܐ ܣܢܣܩܪܝܛܝܐ / ܡܬܪܓܡ ܡܢ ܐܢܓܠܝܐ ܒܝܕ W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 ܦ. -- ܫܡܐ ܩܕܡܝܐ: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
-Fig.: Cover title
-(Image source: [Details](/arc/licenses#lekt0105))
+ܨܘܪܬܐ: ܫܡܐ ܕܥܠ ܟܪܝܟܐ
+(ܡܒܘܥܐ ܕܨܘܪܬܐ: [ܦܪ̈ܝܫܬܐ](/arc/licenses#lekt0105
 :::
 
-**A sound systematic grammar based on indigenous grammarians and at the same time an introduction to Pāṇini:**
+Gute systematische Grammatik auf der Grundlage der einheimischen Grammatiker und zugleich eine Einführung in Pāṇini:
 
 > **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Originally written in Malayalam. Translated into English by K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm.
 
 ::: media
 ![](/images/lekt0107.jpg)
-Fig.: Cover title
-(Image source: [Details](/arc/licenses#lekt0107))
+Abb.: Einbandtitel
+(Bildquelle: [Details](/arc/licenses#lekt0107))
 :::
 
-A good, concise presentation of European linguistic terminology can be found in:
+Eine gute, knappe Darstellung der europäischen sprachwissenschaftlichen Terminologie findet man in:
 
 > **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)
-Fig.: Cover title
-(Image source: [Details](/arc/licenses#lekt0108))
+Abb.: Umschlagtitel
+(Bildquelle: [Details](/arc/licenses#lekt0108))
 :::
 
-For the inquisitive, for reference:
+Für Wissbegierige zum Nachschlagen:
 
-> **Lexicon of Linguistics** / edited by Hadumod Bußmann. -- 4th, revised and bibliographically supplemented ed. / with the collaboration of Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Lexikon der Sprachwissenschaft** / hrsg. von Hadumod Bussmann. -- 4., durchges. und bibliogr. erg. Aufl. / unter Mitarb. von Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7
 
-## 1.2. The Sounds of Sanskrit
+<fallback>
+## 1.2. ܩ̈ܠܶܐ ܕܣܰܢܣܩܪܺܝܛ
 
-The sounds of Sanskrit according to the traditional Indian classification and their scientific transliteration.
+Die Laute des Sanskrit nach der traditionellen indischen Klassifikation und ihre wissenschaftliche Umschrift.
 
 ::: media
 ![](/images/lekt0106.webp)
-(Image source: [Details](/arc/licenses#lekt0106))
+(Bildquelle: [Details](/arc/licenses#lekt0106))
 :::
-Modern Sanskrit dictionaries are arranged in the order of this classification. This classification and the order of the sounds are essential for understanding Sanskrit grammar and therefore must be memorized:
+Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikation angeordnet. Diese Klassifikation und die Reihenfolge der Laute ist zum Verständnis der Sanskrit-Grammatik unerlässlich und muss deshalb auswendig gewusst werden:
 
 ::: note-box
-Classification
-- **simple vowels** (samānākṣara -- ⟪समानाक्षर⟫):
-⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
-- **Diphthongs** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
-⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
-- **Consonants** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
-⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
-⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
-⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
-⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
-⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
-⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
-⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
-⟪ह⟫ ha
+Klassifikation
+
+- **einfache Vokale** (samānākṣara -- ⟪समानाक्षर⟫):
+  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
+- **Diphtonge** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
+  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
+- **Konsonanten** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
+  ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
+  ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
+  ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
+  ⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
+  ⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
+  ⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
+  ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
+  ⟪ह⟫ ha
 :::
-### 1.2.1. On the pronunciation of individual sounds
+
+### 1.2.1. ܠܡܰܡܠܳܠܳܐ ܕܩܳܠ̈ܶܐ ܝܰܚܺܝܕܳܝ̈ܶܐ
 
 ::: laut-table
-| Sound | Description |
+
+| Laut | Beschreibung |
 | :--- | :--- |
-| **a - ⟪अ⟫** | "short a" is often pronounced by Indians -- since ancient times -- as ə. In Europe it is pronounced as short a, in Bengal as short dark o. |
-| **ṛ - ⟪ऋ⟫** | like Czech vocalized r. Slight echo of i. |
-| **ṝ - ⟪ॠ⟫** | like Czech vocalized r. Slight echo of u. |
-| **jñ - ⟪ज्ञ्⟫** | also like dny (Marāṭhī) or gy (North Indian). |
-| **ś - ⟪श्⟫** | sh-sound with tongue tip bent downwards. Similar to sh in "mischen". |
-| **ṣ - ⟪ष्⟫** | kh-sound with tongue tip curled back. Often articulated so far back in the throat that it sounds almost like kh. |
-| **h - ⟪ह्⟫** | aspirate, never a lengthening mark. |
-| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Voiceless aspirate with echo of the preceding vowel or the second part of the preceding diphthong: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
-| **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Before sibilants, h, l: nasalization of the vowel. At the end of a word = m. In the middle of a word before consonants: the nasal corresponding to the following consonant: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
+| **a - ⟪अ⟫** | "kurzes a" wird bei den Indern -- schon seit alter Zeit -- oft wie ə ausgesprochen. In Europa spricht man es als kurzes a, in Bengalen als kurzes dunkles o. |
+| **ṛ - ⟪ऋ⟫** | wie böhmisches vokalisiertes r. Leichter Nachklang von i. |
+| **ṝ - ⟪ॠ⟫** | wie böhmisches vokalisiertes r. Leichter Nachklang von u. |
+| **jñ - ⟪ज्ञ्⟫** | auch wie dny (Marāṭhī) oder gy (Nordindisch). |
+| **ś - ⟪श्⟫** | sch-Laut mit nach unten gebogener Zungenspitze. Ähnlich wie sch in "mischen". |
+| **ṣ - ⟪ष्⟫** | ach-Laut mit zurückgebogener Zungenspitze. Öfters so weit hinten im Rachen artikuliert, dass es fast wie kh klingt. |
+| **h - ⟪ह्⟫** | Hauchlaut, nie Dehnungszeichen. |
+| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Stimmloser Hauchlaut mit Nachklang des vorhergehenden Vokals oder des zweiten Teils des vorausgehenden Diphtones: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
+| **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Vor Zischlauten, h, l: Nasalierung des Vokals. Im Auslaut = m. Im Inlaut vor Konsonanten: der dem folgenden Konsonanten entsprechende Nasal: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::
-The best pronunciation is achieved when one reads the sentences, verses, or words quite slowly and monotonously, taking exact account of the length of the vowels.
+Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter ziemlich langsam und monoton mit genauer Berücksichtigung der Länge der Vokale liest.
 
-## 1.3. Übung
+## 1.3. ܬܪܓܠܐ
 
-**A) Read the following words:**
+**A) Lesen Sie folgende Worte:**
 
 1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रिय⟫ ⟪वैश्य⟫ ⟪शूद्र⟫
 2. brahmā viṣṇu śiva — ⟪ब्रह्मा⟫ ⟪विष्णु⟫ ⟪शिव⟫
@@ -184,4 +188,5 @@ The best pronunciation is achieved when one reads the sentences, verses, or word
 9. pitṝn — ⟪पितॄन्⟫
 10. saṃskṛta — ⟪संस्कृत⟫
 
-**B) Read the Sanskrit expressions in the phonetic classification above.**
+**B) Lesen Sie die Sanskrit-Ausdrücke in der Lautklassifikation oben.**
+</fallback>

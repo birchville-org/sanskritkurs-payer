@@ -6,25 +6,25 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 40
+# ܬܪܓܠܐ 40
 
-A) Translate the **⟪सुभाषितानि⟫** at the beginning of the lesson:
+A) ܛܪ̈ܓܡ ܐܬ ܦܘܩܕܢ ܣܠܝܒ ܫܪ̈ܐ सुभाषितानि סܘܡܟ ܠܦܬܚܐ ܕܡܠܦܢܘܬܐ:
 
-⟪१⟫. **⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫ ⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫**  
-**⟪पात्रत्वाद्धनमाप्नोति⟫ ⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**  
-Knowledge yields right conduct; because of right conduct one becomes worthy of honor; when one is worthy of honor, one becomes wealthy; when one is wealthy, one becomes righteous — and from this follows happiness.
+१. ܫܪ̈ܐ विद्या ददाति विनयं विनयाद्याति पात्रताम् ।
+ܫܪ̈ܐ पात्रत्वाद्धनमाप्नोति धनाद्धर्मं ततः सुखम् ॥ १ ॥
+ܝܕܥܬܐ ܗܘܟܪ ܫܠܝܩܘܬܐ; ܡܛܠ ܫܠܝܩܘܬܐ ܗܘܟܪ ܫܠܝܩܘܬܐ; ܡܛܠ ܫܠܝܩܘܬܐ ܗܘܟܪ ܫܠܝܩܘܬܐ; ܡܛܠ ܫܠܝܩܘܬܐ ܗܘܟܪ ܫܠܝܩܘܬܐ; ܡܛܠ ܫܠܝܩܘܬܐ ܗܘܟܪ ܫܠܝܩܘܬܐ; ܡܛܠ ܫܠܝܩܘܬܐ ܗܘܟܪ ܫܠܝܩܘܬܐ; ܡܛܠ ܫܠܝܩܘܬܐ ܗܘܟܪ ܫܠܝܩܘܬܐ;
 
-⟪२⟫. **⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫ ⟪विद्यार्थी⟫ ⟪चेत्त्यजेत्सुखम्⟫ ⟪।⟫**  
-**⟪सुखार्थिनः⟫ ⟪कुतो⟫ ⟪विद्या⟫ ⟪कुतो⟫ ⟪विद्यार्थिनः⟫ ⟪सुखम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**  
-If one abandons knowledge in the search for happiness, or if one abandons happiness in the search for knowledge: whence should then a happiness-seeker have knowledge, and whence a knowledge-seeker happiness?
+२. ܫܪ̈ܐ सुखार्थी चेत्त्यजेद्विद्यां विद्यार्थी चेत्त्यजेत्सुखम् ।
+ܫܪ̈ܐ सुखार्थिनः कुतो विद्या कुतो विद्यार्थिनः सुखम् ॥ २ ॥
+ܐܝܟܢܐ ܕܡܛܠ ܫܠܝܩܘܬܐ ܗܘܟܪ ܫܠܝܩܘܬܐ; ܡܛܠ ܫܠܝܩܘܬܐ ܗܘܟܪ ܫܠܝܩܘܬܐ; ܡܛܠ ܫܠܝܩܘܬܐ ܗܘܟܪ ܫܠܝܩܘܬܐ; ܡܛܠ ܫܠܝܩܘܬܐ ܗܘܟܪ ܫܠܝܩܘܬܐ; ܡܛܠ ܫܠܝܩܘܬܐ ܗܘܟܪ ܫܠܝܩܘܬܐ; ܡܛܠ ܫܠܝܩܘܬܐ ܗܘܟܪ ܫܠܝܩܘܬܐ;
 
-⟪३⟫. **⟪आचार्यात्पादमादत्ते⟫ ⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫**  
-**⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫ ⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**  
-A student receives one quarter (of knowledge) from his teacher, one quarter through his own intellect, one quarter from his fellow students, and one quarter through the course of time.
+३. ܫܪ̈ܐ आचार्यात्पादमादत्ते पादं शिष्यः स्वमेधया ।
+ܫܪ̈ܐ पादं सब्रह्मचारिभ्यः पादं कालक्रमेण च ॥ ३ ॥
+ܬܠܡܝܕ ܢܦܩ ܐܘܪ̈ܚܐ ܡܢ ܫܠܝܩܘܬܐ; ܐܘܪ̈ܚܐ ܡܢ ܫܠܝܩܘܬܐ; ܐܘܪ̈ܚܐ ܡܢ ܫܠܝܩܘܬܐ; ܐܘܪ̈ܚܐ ܡܢ ܫܠܝܩܘܬܐ;
 
 ---
 
-## Verbal Transformations (Perfect)
+## ܫܘܚܠܦ̈ܐ ܦܥܠܝ̈ܐ (ܓܡܝܪܐ)
 
 B) Transform the following verbal forms into the corresponding perfect forms (1st person):
 
@@ -109,42 +109,42 @@ Fig.: ⟪आशिमेति⟫
 :::
 ---
 
-## Word Form Determination
+## ܦܘܪܫܢܐ ܕܦܘܪܡܐ ܕܡܠܬܐ
 
 Determine and translate the following word forms:
 
 ::: grammar-box
-| Word Form | Determination | Meaning |
+| ܡܠܦܬܐ | ܕܝܘܙܫܪܬܐ | ܡܠܬܐ |
 | :--- | :--- | :--- |
-| ⟪१⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | I gave / he gave for himself |
-| ⟪२⟫. **⟪ददते⟫** | ⟪दा⟫ (3U) 3. pl. Ā. Ind. Pres. | they give for themselves |
-| ⟪३⟫. **⟪पापे⟫** | ⟪पाप⟫ (n.) Loc. sg. | in evil |
-| ⟪४⟫. **⟪आसे⟫** | ⟪आस्⟫ (2Ā) 1. sg. Ā. Ind. Pres. | I sit |
-| ⟪५⟫. **⟪एते⟫** | ⟪एतद्⟫ (m.) Nom. pl. | these |
-| ⟪६⟫. **⟪इते⟫** | ⟪इ⟫ (2P) PPP Loc. sg. m./n. | in the gone |
-| ⟪७⟫. **⟪इतः⟫** | Adv. / PPP Nom. sg. m. | from here / gone |
-| ⟪८⟫. **⟪यतः⟫** | Adv. / Part. Pres. P. Gen. sg. | from where / of the going |
-| ⟪९⟫. **⟪यते⟫** | ⟪इ⟫ (2P) Part. Pres. P. Dat. sg. | to the going |
-| ⟪१०⟫. **⟪ईयते⟫** | ⟪इ⟫ (2P) Pass. 3. sg. Ind. Pres. | he is gone |
-| ⟪११⟫. **⟪यत्⟫** | ⟪यद्⟫ (n.) Nom./Akk. sg. | which |
-| ⟪१२⟫. **⟪यदा⟫** | Adv. | when (relative) |
-| ⟪१३⟫. **⟪अस्तुवि⟫** | ⟪स्तु⟫ (2U) 1. sg. Ā. Impf. | I praised for myself |
-| ⟪१४⟫. **⟪अस्तवीत्⟫** | ⟪स्तु⟫ (2U) 3. sg. P. Impf. | he praised |
-| ⟪१५⟫. **⟪ब्रह्मणः⟫** | ⟪ब्रह्मन्⟫ (n./m.) Gen./Abl. sg. | of the Absolute / of the Brahmin |
-| ⟪१६⟫. **⟪ब्राह्मणः⟫** | ⟪ब्राह्मण⟫ (m.) Nom. sg. | the Brahmin |
-| ⟪१७⟫. **⟪लभे⟫** | ⟪लभ्⟫ (1Ā) 1. sg. Ā. Ind. Pres. | I receive |
-| ⟪१८⟫. **⟪लाभे⟫** | ⟪लाभ⟫ (m.) Loc. sg. | in gain |
-| ⟪१९⟫. **⟪लेभे⟫** | ⟪लभ्⟫ (1Ā) 1./3. sg. Ā. Perf. | I received / he received |
-| ⟪२०⟫. **⟪लोभे⟫** | ⟪लोभ⟫ (m.) Loc. sg. | in greed |
-| ⟪२१⟫. **⟪काश्चन⟫** | ⟪किं⟫-⟪चन⟫ (f.) Nom./Akk. pl. | any |
-| ⟪२२⟫. **⟪तन्त्रे⟫** | ⟪तन्त्र⟫ (n.) Loc. sg. | in the system |
-| ⟪२३⟫. **⟪तत्र⟫** | Adv. | there |
-| ⟪२४⟫. **⟪मनौ⟫** | ⟪मनु⟫ (m.) Loc. sg. | in Manu |
-| ⟪२५⟫. **⟪मेने⟫** | ⟪मन्⟫ (4Ā) 1./3. sg. Ā. Perf. | I thought / he thought |
-| ⟪२६⟫. **⟪वेत्स्यामः⟫** | ⟪विद्⟫ (6U) 1. pl. P. Fut. | we will know |
-| ⟪२७⟫. **⟪कच्चित्⟫** | Interrogative particle | perhaps? |
-| ⟪२८⟫. **⟪तत्याज⟫** | ⟪त्यज्⟫ (1P) 1./3. sg. P. Perf. | I left / he left |
-| ⟪२९⟫. **⟪विद्ये⟫** | ⟪विद्या⟫ (f.) Voc. sg. | O Science! |
+| ⟪१⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 1./3. sg. Ā. Perf. | ܐܬܒܪܟܢܝ / ܗܘ ܐܬܒܪܟܢܝ |
+| ⟪२⟫. **⟪ददते⟫** | ⟪दा⟫ (3U) 3. pl. Ā. Ind. Pres. | ܗܝܢ ܐܬܒܪܟܢ |
+| ⟪३⟫. **⟪पापे⟫** | ⟪पाप⟫ (n.) Loc. sg. | ܒܐܘܪܚܐ ܕܫܟܠ |
+| ⟪४⟫. **⟪आसे⟫** | ⟪आस्⟫ (2Ā) 1. sg. Ā. Ind. Pres. | ܐܢܐ ܫܝܟ |
+| ⟪५⟫. **⟪एते⟫** | ⟪एतद्⟫ (m.) Nom. pl. | ܗܠܝܢ |
+| ⟪६⟫. **⟪इते⟫** | ⟪इ⟫ (2P) PPP Loc. sg. m./n. | ܒܕܝܪܟܐ ܕܫܠܩ |
+| ⟪७⟫. **⟪इतः⟫** | Adv. / PPP Nom. sg. m. | ܡܢ ܗܠܐ / ܫܠܩ |
+| ⟪८⟫. **⟪यतः⟫** | Adv. / Part. Pres. P. Gen. sg. | ܡܢ ܐܝܟ / ܕܫܠܩ |
+| ⟪९⟫. **⟪यते⟫** | ⟪इ⟫ (2P) Part. Pres. P. Dat. sg. | ܠܕܫܠܩ |
+| ⟪१०⟫. **⟪ईयते⟫** | ⟪इ⟫ (2P) Pass. 3. sg. Ind. Pres. | ܗܘ ܫܠܩ |
+| ⟪११⟫. **⟪यत्⟫** | ⟪यद्⟫ (n.) Nom./Akk. sg. | ܐܝܕܐ |
+| ⟪१२⟫. **⟪यदा⟫** | Adv. | ܐܝܟ (ܪܒܬܐ) |
+| ⟪१३⟫. **⟪अस्तुवि⟫** | ⟪स्तु⟫ (2U) 1. sg. Ā. Impf. | ܐܢܐ ܫܒܚܬܝ |
+| ⟪१४⟫. **⟪अस्तवीत्⟫** | ⟪स्तु⟫ (2U) 3. sg. P. Impf. | ܗܘ ܫܒܚ |
+| ⟪१५⟫. **⟪ब्रह्मणः⟫** | ⟪ब्रह्मन्⟫ (n./m.) Gen./Abl. sg. | ܕܐܠܗܐ / ܕܟܘܪܝ |
+| ⟪१६⟫. **⟪ब्राह्मणः⟫** | ⟪ब्राह्मण⟫ (m.) Nom. sg. | ܟܘܪܝ |
+| ⟪१७⟫. **⟪लभे⟫** | ⟪लभ्⟫ (1Ā) 1. sg. Ā. Ind. Pres. | ܐܢܐ ܩܒܠ |
+| ⟪१८⟫. **⟪लाभे⟫** | ⟪लाभ⟫ (m.) Loc. sg. | ܒܡܪܒܐ |
+| ⟪१९⟫. **⟪लेभे⟫** | ⟪लभ्⟫ (1Ā) 1./3. sg. Ā. Perf. | ܐܢܐ ܩܒܠܬ / ܗܘ ܩܒܠ |
+| ⟪२०⟫. **⟪लोभे⟫** | ⟪लोभ⟫ (m.) Loc. sg. | ܒܡܠܘܟܬܐ |
+| ⟪२१⟫. **⟪काश्चन⟫** | ⟪किं⟫-⟪चन⟫ (f.) Nom./Akk. pl. | ܟܠ |
+| ⟪२२⟫. **⟪तन्त्रे⟫** | ⟪तन्त्र⟫ (n.) Loc. sg. | ܒܢܨܒܐ |
+| ⟪२३⟫. **⟪तत्र⟫** | Adv. | ܗܠܟ |
+| ⟪२४⟫. **⟪मनौ⟫** | ⟪मनु⟫ (m.) Loc. sg. | ܒܡܢܘ |
+| ⟪२५⟫. **⟪मेने⟫** | ⟪मन्⟫ (4Ā) 1./3. sg. Ā. Perf. | ܐܢܐ ܚܫܒܬ / ܗܘ ܚܫܒ |
+| ⟪२६⟫. **⟪वेत्स्यामः⟫** | ⟪विद्⟫ (6U) 1. pl. P. Fut. | ܢܕܥ |
+| ⟪२७⟫. **⟪कच्चित्⟫** | Interrogative particle | ܐܝܕܐ? |
+| ⟪२८⟫. **⟪तत्याज⟫** | ⟪त्यज्⟫ (1P) 1./3. sg. P. Perf. | ܐܢܐ ܫܠܩ / ܗܘ ܫܠܩ |
+| ⟪२९⟫. **⟪विद्ये⟫** | ⟪विद्या⟫ (f.) Voc. sg. | ܐܝܠܘܬ! |
 
 | ⟪३०⟫. **⟪विद्याम्⟫** | ⟪विद्या⟫ (f.) Acc. sg. | the science |
 | ⟪३१⟫. **⟪एनेन⟫** | ⟪एनद्⟫ (m./n.) Instr. sg. | by this |

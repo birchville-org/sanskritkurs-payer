@@ -11,17 +11,17 @@ status: stable
 Dalam bahasa Sanskerta Klasik, bentuk sempurna hanya memiliki bentuk indikatif dan partisipel.
 
 ::: grammar-box
-**There are two types of perfect formation:**
-*   **the reduplicated perfect = ⟪द्वित्वलिट्⟫**
-*   **the periphrastic perfect = ⟪अनुप्रयोगलिट्⟫**
+**Ada dua jenis pembentukan sempurna:**
+*   **perfecta reduplicata = ⟪द्वित्वलिट्⟫**
+*   **perfecta periphrastica = ⟪अनुप्रयोगलिट्⟫**
 :::
 ::: grammar-box
-**The periphrastic perfect (⟪अनुप्रयोगलिट्⟫) is used:**
-1. **in derived conjugations (causative, desiderative, frequentative, denominative)**
+**Perfecta periphrastica (⟪अनुप्रयोगलिट्⟫) digunakan:**
+1. **dalam konjugasi turunan (kausatif, desideratif, frekuentatif, denominatif)**
 2. **dengan akar yang dimulai dengan vokal panjang (kecuali ā-) atau dengan vokal (kecuali a-) sebelum dua konsonan**
 3. **dengan beberapa akar lainnya**
 :::
-## 34.2. The reduplicated perfect (⟪द्वित्वलिट्⟫)
+## 34.2. Perfecta reduplicata (⟪द्वित्वलिट्⟫)
 
 ### 34.2.1. Gradasi Batang
 
@@ -61,11 +61,11 @@ Dalam bahasa Sanskerta Klasik, bentuk sempurna hanya memiliki bentuk indikatif d
 ### 34.2.4. Reduplikasi akar yang dimulai dengan konsonan
 
 ::: grammar-box
-**For the reduplication of initial consonants, the rules given in [Lesson 33](lektion33.md) apply.**
+**Untuk reduplikasi konsonan awal, aturan yang diberikan dalam [Pelajaran 33](lektion33.md) berlaku.**
 
 **Vokal reduplikasi untuk akar yang dimulai dengan konsonan adalah vokal akar pendek.**
 
-**Diphthongs before a consonant are reduced to the corresponding short low-grade vowel.**
+[Diphthongs sebelum konsonan direduksi menjadi vokal tingkat rendah pendek yang sesuai.]
 
 **ṛ, ṝ, ḷ, and final diphthongs are reduplicated with -a-.**
 :::
@@ -261,7 +261,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 ## 34.7. Exercise
 
-Form the corresponding perfect forms in person, number, and gender for the following verb forms:
+Bentuklah bentuk sempurna yang sesuai dalam orang, jumlah, dan jenis untuk bentuk kata kerja berikut:
 
 1. ⟪रक्षिष्यन्ति⟫
 2. ⟪स्रक्ष्यति⟫
@@ -297,7 +297,7 @@ Form the corresponding perfect forms in person, number, and gender for the follo
 
 ## 34.8. Translation Exercise
 
-Translate the following text from the ⟪पद्मपुराण⟫ regarding gifts to Brahmins:
+Terjemahkan teks berikut dari ⟪पद्मपुराण⟩ mengenai hadiah kepada Brahmin:
 
 ⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫***⟪त्तम⟫*** ⟪।⟫  
 ⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫***⟪श्चतुर्दश⟫*** ⟪॥१॥⟫  

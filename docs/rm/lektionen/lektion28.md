@@ -286,7 +286,7 @@ Esempio:
 **āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "dapoi ch'ell ha lassà vegnì"
 :::
 
-## 28.8. Furma il infinitiv (⟪तुमुन्⟫) al causativ
+## 28.8. Furma l'infinitiv (⟪तुमुन्⟫) al causativ
 
 ::: grammar-box
 **L'infinitiv dal causativ vegn format dal stem dal causativ sin -ay- (senza la a finala):**
@@ -297,7 +297,7 @@ Esempio:
 **jan** — **janayati** — **janayitum** (janay-i-tum) "per generare"
 :::
 
-## 28.9. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.)
+## 28.9. La 10. classa dal temp preschent (⟪curādi⟫ = ⟪cur⟫ e.u.v.)
 
 ::: grammar-box
 **Al medem sglut scoi las radis dal 10. classa da prezens (ed ils auters tempus) furman prezens, senza esser causativa.**
@@ -310,7 +310,7 @@ Ezemplas:
 **Las furmas dal causativ per verbs da la 10. classa da prezens èn identicas cun las furmas dal verb simpl. La decisiun sche in causativ è present è mo pussaivla dal significat u da la construcziun.**
 :::
 
-## 28.10. Wortliste
+## 28.10. Glista da pleds
 
 ::: indent
 **⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: savair, cognoscher
@@ -380,7 +380,7 @@ Femna porta il pes. A la regidun d'Ahmedabad.
 :::
 **⟪भृत्य⟫** m.: subordinà, servitur
 
-## 28.11. Übung
+## 28.11. Exercizi
 
 **A) Formai il causativ per las suandantas formas verbalas e participialas e donai il significà:**
 

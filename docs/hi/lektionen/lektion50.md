@@ -1,15 +1,15 @@
 ---
-title: Lektion 50
-subtitle: "Nominalbildung: regelmässige Steigerung"
+title: पाठ 50
+subtitle: "नाम निर्माण: नियमित वृद्धि"
 lesson_id: 50
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+category: "व्याकरण"
+status: स्थिर
 ---
 
-# Lektion 50
+# पाठ 50
 
-## 50.1. Nominalbildung: regelmäßige Steigerung
+## 50.1. नाम निर्माण: नियमित वृद्धि
 
 ::: grammar-box
 **नियत तुलना संस्कृत में ⟪तद्धित⟫ प्रत्ययों द्वारा होती है**
@@ -83,7 +83,7 @@ status: stable
 Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (चित्र स्रोत: [विवरण](/hi/licenses#lekt5006))
 :::
-## 50.2. Wortliste
+## 50.2. शब्दावली
 
 ⟪ध्रुव⟫ 3: दृढ़, अचल
 
@@ -199,7 +199,7 @@ PPP ⟪वृष्ट⟫
 
 ⟪देश⟫ पुं.: स्थान, स्थान, देश, क्षेत्र
 
-## 50.3. Übersetzungsübung
+## 50.3. अनुवाद अभ्यास
 
 A) विभक्ति का पुनरावृत्ति करने के लिए: निम्नलिखित श्लोक में ⟪गुरु⟫ पुल्लिंग के लिए एकवचन की सभी विभक्ति रूप हैं:
 
@@ -305,7 +305,7 @@ B) अनुवाद करें:
 
 **lekt5003:** [चित्र स्रोत: dhyanji. --  [http://www.flickr.com/photos/dhyanji/131433199/](http://www.flickr.com/photos/dhyanji/131433199/). -- 12-01-2009 को प्राप्त। -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (नाम उल्लेख, गैर-वाणिज्यिक उपयोग, कोई संशोधन नहीं)]
 
-**lekt5004:** ⟪धारावी⟫, ⟪मुंबई⟫ [चित्र स्रोत: Kounosu / Wikipedia. GNU FDLicense]
+**lekt5004:** ⟪⟪धारावी⟫⟫, ⟪⟪मुंबई⟫⟫ [⟪चित्र⟫ ⟪स्रोत⟫: कौनोसु / विकिपीडिया। GNU FDलाइसेंस]
 
 **lekt5008:** मुंबई (⟪मुंबई⟫) से 80 किमी दूर स्थित गणेशपुरी [चित्र स्रोत: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- 13-01-2009 को प्राप्त। -- [Creative Commons लाइसेंस](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (नाम उल्लेख, गैर-वाणिज्यिक उपयोग, share alike)]
 

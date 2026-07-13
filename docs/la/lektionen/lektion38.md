@@ -440,7 +440,7 @@ A) In sequentibus sententiis formam congruentem verborum in parenthesibus posita
 
 ... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫)
 
-## 38.11. Wortliste zur Übersetzungsübung
+## 38.11. Vocabularium ad Exercitium Vertendum
 
 ⟪प्राय⟫ m.: res principalis, instr. ⟪प्रायेण⟫ : saepe, consuevit (ad ⟪प्र⟫-⟪इ⟫)
 
@@ -551,7 +551,7 @@ Inf. ⟪सर्तुम्⟫
 
 ⟪अधस्⟫ Adv.: deorsum
 
-## 38.12. Übersetzungsübung
+## 38.12. Exercitium translationis
 
 *⟪दश⟫* ⟪मूढाः⟫
 

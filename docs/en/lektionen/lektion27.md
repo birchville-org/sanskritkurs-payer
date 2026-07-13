@@ -155,7 +155,7 @@ Further information on the usage of the Locative later.
 :::
 **Printed in red**: strong cases (with stem gradation).
 
-## 27.4. A Verse with All Declension Forms (Singular) for ⟪राम⟫
+## 27.4. रामशब्दस्य सर्वरूपाणि (एकवचनम्) श्लोके
 
 ::: media
 ![](/images/lekt2708.webp)

@@ -25,7 +25,7 @@ As an adverbial (indeclinable) first member,
 *   other indeclinables
 
 ::: indent
-may be used. Such Tatpuruṣa compounds mostly belong to the class of Nityasamāsa = ⟪नित्यसमास⟫ (m. "permanent compound"), i.e., compounds that cannot be resolved at all, or not merely by means of the words occurring within the compound itself.
+dapat digunakan. Senyawa Tatpuruṣa semacam itu sebagian besar termasuk ke dalam kelas Nityasamāsa = ⟪नित्यसमास⟫ (m. "senyawa permanen"), yaitu, senyawa yang sama sekali tidak dapat diuraikan, atau tidak hanya dengan menggunakan kata-kata yang terdapat dalam senyawa itu sendiri.
 :::
 Contoh-contoh:
 
@@ -83,7 +83,7 @@ The following rule applies:
 
 Phonetic Change of -s in Compounds
 
-Contrary to sentence Sandhi, in the final position of the first member of compounds:
+Berbeda dengan Sandhi kalimat, pada posisi akhir dari anggota pertama majemuk:
 
 \-s after -i- or -u- before voiceless guttural or labial » -ṣ
 
@@ -94,7 +94,7 @@ Therefore: ⟪दुष्करण⟫
 
 ::: grammar-box
 
-Compounds of Type ⟪सुकर⟫ / ⟪दुष्कर⟫ primarily denote the meaning of passive possibility:
+Kata majemuk Tipe ⟪सुकर⟫ / ⟪दुष्कर⟫ terutama menunjukkan makna kemungkinan pasif:
 
 Contoh-contoh:
 
@@ -112,18 +112,18 @@ Contoh-contoh:
 
 Tatpuruṣa with a- / an- can have the following meanings:
 
-1.  Similarity (⟪तत्सादृश्यम्⟫):  
-    ⟪अब्राह्मणः⟫ = a Kṣatriya or Vaiśya who wears the sacred thread (⟪यज्ञोपवीत⟫ n.) and thus resembles a Brahmin, without being one
-2.  Absence, non-existence (⟪तदभावः⟫):  
-    ⟪अज्ञानम्⟫ = ignorance (absence of knowledge)
-3.  Otherness (⟪तदन्यत्वम्⟫):  
-    ⟪अपटम्⟫ = something that is not fabric / garment (⟪पट⟫ m: fabric, garment)
-4.  Smallness (⟪तदल्पता⟫):  
-    ⟪अनुदरम्⟫ = a small belly (a non-belly)
-5.  Disapproval (⟪अप्राशास्त्यम्⟫):  
-    ⟪अकालः⟫ = unseasonableness
-6.  Hostility (⟪निरोधः⟫):  
-    ⟪असुरः⟫ = anti-god (according to the false etymology a-sura)
+1.  Persamaan (⟪तत्सादृश्यम्⟫):  
+⟪अब्राह्मणः⟫ = seorang Kṣatriya atau Vaiśya yang mengenakan benang suci (⟪यज्ञोपवीत⟫ n.) dan dengan demikian menyerupai seorang Brahmin, tanpa menjadi satu
+2.  Ketidakhadiran, ketiadaan (⟪तदभावः⟫):  
+⟪अज्ञानम्⟫ = kebodohan (ketidakhadiran pengetahuan)
+3.  Keasingan (⟪तदन्यत्वम्⟫):  
+⟪अपटम्⟫ = sesuatu yang bukan kain / pakaian (⟪पट⟫ m: kain, pakaian)
+4.  Kekecilan (⟪तदल्पता⟫):  
+⟪अनुदरम्⟫ = perut kecil (sebuah bukan-perut)
+5.  Ketidaksetujuan (⟪अप्राशास्त्यम्⟫):  
+⟪अकालः⟫ = ketidakmusatan
+6.  permusuhan (⟪निरोधः⟫):  
+⟪असुरः⟫ = anti-dewa (menurut etimologi palsu a-sura)
 
 The following verse summarizes these meanings:
 
@@ -161,7 +161,7 @@ Contoh-contoh:
 ::: indent
 ⟪उपगम्⟫ 1 ⟪उपगच्छति⟫ : to go towards, to approach
 
-⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : to point out, to instruct, to advise
+⟪उपदिश्⟫ 6 ⟪उपदिशति⟫ : menunjukkan, menginstruksikan, menasihati
 
 ⟪उपपद्⟫ 4 Ā ⟪उपपद्यते⟫ : to reach, to arrive
 
@@ -180,49 +180,49 @@ Contoh-contoh:
 
 ⟪प्रबुध्⟫ 4 Ā ⟪प्रबुध्यते⟫ : to awaken, to recognize
 
-⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : to come forth, to stand out, to have power over (Gen., Loc. Dat.)
+⟪प्रभू⟫ 1 ⟪प्रभवति⟫ : muncul, menonjol, memiliki kekuasaan atas (Gen., Loc. Dat.)
 
-⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : to explain, to communicate, to utter
+⟪प्रवच्⟫ 2 ⟪प्रवक्ति⟫ PPP ⟪प्रोक्त⟫ (« pra + ukta) : menjelaskan, mengkomunikasikan, mengucapkan
 
-⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : to utter, to designate as, to declare as
+⟪प्रवद्⟫ 1 ⟪प्रवदति⟫ : mengucapkan, menunjuk sebagai, menyatakan sebagai
 
-⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : to praise before, to loudly praise, to mention something, to begin
+⟪प्रस्तु⟫ 2 ⟪प्रस्तौति⟫ : memuji sebelumnya, memuji dengan keras, menyebutkan sesuatu, memulai
 :::
-⟪वि⟫ "apart, away, apart, ver-"
+⟪वि⟫ "terpisah, menjauh, terpisah, ver-"
 
 Contoh-contoh:
 
 ::: indent
-⟪विगम्⟫ 1 ⟪विगच्छति⟫ : to go apart, to pass away, to disappear
+⟪विगम्⟫ 1 ⟪विगच्छति⟫ : pergi terpisah, meninggal dunia, menghilang
 
 ⟪विजि⟫ 1 Ā (!) ⟪विजयते⟫ : to conquer
 
 ⟪विमुच्⟫ 6 ⟪विमुञ्चति⟫ : to release, to free
 
-⟪विवद्⟫ 1 ⟪विवदति⟫ : to dispute, to discuss, to tell
+⟪विवद्⟫ 1 ⟪विवदति⟫ : berdebat, mendiskusikan, menceritakan
 
 ⟪विस्मृ⟫ 1 ⟪विस्मरति⟫ : to forget
 
-⟪विहन्⟫ 2 ⟪विहन्ति⟫ : to shatter, to destroy, to annihilate
+⟪विहन्⟫ 2 ⟪विहन्ति⟫ : menghancurkan, membinasakan, melenyapkan
 :::
-⟪सम्⟫ "together, with"
+⟪सम्⟫ "bersama, dengan"
 
 Contoh-contoh:
 
 ::: indent
-⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : to sit together, to stay, to dwell
+⟪समास्⟫ 2 Ā ⟪समास्ते⟫ : duduk bersama, tinggal, berdiam
 
 ⟪समि⟫ 2 ⟪समेति⟫ : to come together, to unite
 
-⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : to come together, to meet (friendly or hostile), to have sexual intercourse with (Acc.)
+⟪संगम्⟫ 1 Ā (!) ⟪संगच्छते⟫ : datang bersama, bertemu (secara ramah atau bermusuhan), berhubungan seksual dengan (Akk.)
 
 ⟪संजन्⟫ 4 Ā ⟪संजायते⟫ : to arise
 
 *   PPP ⟪संजात⟫ 3: born, arisen, become
 
-⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : to fully awaken (to the truth)
+⟪सम्बुध्⟫ 4 Ā ⟪सम्बुध्यते⟫ : untuk sepenuhnya terbangun (akan kebenaran)
 
-⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : to be granted to someone, to succeed
+⟪सम्पद्⟫ 4 Ā ⟪सम्पद्यते⟫ : diberikan kepada seseorang, berhasil
 
 *   PPP ⟪सम्पन्न⟫ 3: provided with (Instr.)
 :::
@@ -234,11 +234,11 @@ Akar kata ⟪कृ⟫ "melakukan" menunjukkan, dalam hubungannya dengan awalan 
 Contoh:
 
 ::: indent
-sam-kṛ 8 ⟪संस्करोति⟫ : to prepare, to prepare for sacrifice, to consecrate
+sam-kṛ 8 ⟪संस्करोति⟫ : mempersiapkan, menyiapkan untuk pengorbanan, menguduskan
 
-*   PPP ⟪संस्कृत⟫ 3: prepared for sacrifice ; ⟪संस्कृत⟫ n.: Sanskrit: the language suitable for sacrifice ; counterpart ⟪प्राकृत⟫ 3: ordinary, common ; ⟪प्राकृत⟫ n.: common language, Prakrit (designation for the folk and trade languages related to Sanskrit)
+*   PPP ⟪संस्कृत⟫ 3: disiapkan untuk pengorbanan; ⟪संस्कृत⟫ n.: Sanskerta: bahasa yang sesuai untuk pengorbanan; lawan kata ⟪प्राकृत⟫ 3: biasa, umum; ⟪प्राकृत⟫ n.: bahasa sehari-hari, Prakrit (penyebutan untuk bahasa rakyat dan perdagangan yang berkaitan dengan Sanskerta)
 :::
-### 18.3.1. Nominal formations from verbal compounds
+### 18.3.1. Pembentukan nomina dari gabungan kata kerja
 
 ::: grammar-box
 
@@ -247,15 +247,15 @@ Dari akar kata dengan preverba, nomina dapat dibentuk menggunakan sufiks kṛt.
 :::
 Contoh-contoh:
 
-sam-kṛ + -a = ⟪संस्कार⟫ m.: consecration, preparation ; transition rituals = designation for the ceremonies that accompany the various stages of life from conception to death (see the excellent summary by Basham, Wonder pp. 160 - 170!)
+sam-kṛ + -a = ⟪संस्कार⟫ m.: konsekrasi, persiapan; ritual transisi = sebutan untuk upacara yang menyertai berbagai tahap kehidupan mulai dari konsepsi hingga kematian (lihat ringkasan bagus oleh Basham, Wonder hal. 160 - 170!)
 
 ::: media
 ![](/images/lekt1804.webp)
 Fig.: ⟪विवाहः⟫
-Wedding = ⟪विवाह⟫ m., an important ⟪संस्कारः⟫
-(Image source: [Details](/en/licenses#lekt1804))
+Pernikahan = ⟪विवाह⟫ m., sebuah ⟪संस्कारः⟫ yang penting
+(Sumber gambar: [Details](/en/licenses#lekt1804))
 :::
-upa-nī + -ana = ⟪उपनयन⟫ n.: the leading near (to the sacrificial fire) = ceremony in which the sacred thread (⟪यज्ञोपवीत⟫ n.) is placed on the male members of the three upper castes and the sacred verse ⟪सावित्री⟫ is whispered into their ear, which they are to recite daily at sunrise and sunset from then on. For the Brahmins, this is Ṛgveda III.62.10:
+upa-nī + -ana = ⟪उपनयन⟫ n.: pengantar dekat (ke api korban) = upacara di mana benang suci (⟪यज्ञोपवीत⟫ n.) diletakkan pada anggota laki-laki dari tiga kasta teratas dan mantra suci ⟪सावित्री⟫ dibisikkan ke telinga mereka, yang harus diucapkan setiap hari saat matahari terbit dan tenggelam mulai saat itu. Bagi para Brahmin, ini adalah Ṛgveda III.62.10:
 
 ::: indent
 "May we receive the excellent radiance of the god 'Driver,' who may set our thoughts in motion."
@@ -265,10 +265,10 @@ Through the Upanayana, the second birth occurs, therefore: ⟪द्विज⟫
 ::: media
 ![](/images/lekt1801.webp)
 Fig.: ⟪उपनयनम्⟫
-"A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
-(Image source: [Details](/en/licenses#lekt1801))
+"Seorang anak laki-laki muda terlihat selama upacara upanayana. Benang kuning tipis yang berjalan dari bahu kiri ke pinggang adalah Yagnopaivta. Perhatikan juga ikat pinggang dari rumput munja di sekitar pinggang. Cabang kecil di tangan kanan (biasanya dari pohon peepa) menandakan masuknya ke dalam Brahmacharya."
+(Sumber gambar: [Details](/en/licenses#lekt1801))
 :::
-## 18.4. Word List
+## 18.4. Daftar Kata
 
 ⟪सुष्टु⟫ 3: highly praised, distinguished, good
 
@@ -306,7 +306,7 @@ Fig.: ⟪उपनयनम्⟫
 
 ## 18.5. Exercise
 
-A) Translate the ⟪सुभाषित⟫ at the beginning of the lesson.
+[A] Terjemahkan ⟪सुभाषित⟫ di awal pelajaran.
 
 B) Translate the following Tatpuruṣa compounds:
 
@@ -406,23 +406,23 @@ B) Terjemahkan menggunakan verba dari kelas presens ke-2:
 
 1. The Brahmin praises the goddesses.
 
-2. The heroes go on the difficult-to-traverse path to the village of the Āryas.
+2. Para pahlawan menempuh jalan yang sulit dilalui menuju desa kaum Ārya.
 
 3. The housemaid milks the cows.
 
-4. The enemies of the Āryas slay the powerful Kṣatriyas.
+4. Para musuh para Ārya membunuh para Kṣatriya yang perkasa.
 
 5. A ghost eats no fruits.
 
-6. Thus speaks he who has [walked the path of rebirths] well to the disciple.
+6. Demikianlah ia yang telah [melalui jalan reinkarnasi] dengan baik berbicara kepada muridnya.
 
 ::: media
 ![](/images/lekt1803.webp)
 Fig.: ⟪सुगतः⟫
 ⟪गन्धार⟫ 1st/2nd cent. CE
-(Image source: [Details](/en/licenses#lekt1803))
+(Sumber gambar: [Details](/en/licenses#lekt1803))
 :::
-C) Provide the definition of Yoga in Sanskrit in two ways: once using a compound, once by resolving the compound.
+C) Berikan definisi Yoga dalam bahasa Sanskerta dengan dua cara: sekali menggunakan majemuk (compound), dan sekali lagi dengan menguraikan majemuk tersebut.
 
 D) Translate:
 
@@ -430,8 +430,7 @@ D) Translate:
 
 ::: deleteme-box
 
-
-**lekt1801:** "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya." [Image source: Nagesh Rao / Wikipedia, GNU FDLicense]
+**lekt1801:** "Seorang anak laki-laki muda terlihat selama upacara upanayana. Benang kuning, tipis yang berjalan dari bahu kiri ke pinggang adalah Yagnopaivta. Perhatikan juga ikat pinggang dari rumput munja di sekitar pinggang. Cabang kecil di tangan kanan (biasanya dari pohon peepa) menandakan masuknya dia ke dalam Brahmacharya." [Sumber gambar: Nagesh Rao / Wikipedia, GNU FDLicense]
 
 **lekt1802:** 1770 Print [Image source: Wikipedia, Public domain]
 

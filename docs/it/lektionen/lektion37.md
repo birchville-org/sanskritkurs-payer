@@ -194,7 +194,7 @@ Esempio: ⟪सुचिरम्⟫ "molto a lungo (tempo)"
 
 Esempio: ⟪रक्षार्थम्⟫ "nel modo di qualcuno, il cui scopo è la protezione, allo scopo di proteggere". Può anche essere considerato come appartenente a 5.1.1: -⟪अर्थम्⟫ come componente avverbiale posteriore.
 
-### 37.5.3. ⟪अव्ययीभाव⟫-Komposita
+### 37.5.3. Composti ⟪अव्ययीभाव⟫
 
 ⟪अव्ययीभाव⟫ = "unveränderlich/undeklinierbar gewordene"
 

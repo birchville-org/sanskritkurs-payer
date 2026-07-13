@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 10
+# שיעור 10
 
 ::: deleteme-box
 **בשיעור זה תלמדו:**
@@ -55,7 +55,7 @@ important
 **משפטים סבילים בסנסקריט באופן כללי לא ניתן לתרגם לגרמנית באמצעות משפט סביל, שכן הסביל הגרמני בעל פונקציה סגנונית שונה לחלוטין.**
 :::
 
-## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
+## 10.2. האינסטרומנטליס (טריטייה נ. = ⟪טריטייה⟫ = "סיומת יחסה שלישית")
 
 ::: grammar-box
 **הסיומות הרגילות של האמצעי (tṛtīyā):**
@@ -108,7 +108,7 @@ important
 למעט במתכנת ובאקוזטיב, צורות הניטרלים בסוף -a, מילת השאל וכינויי הרמיזה זהות לצורות הזכר המתאימות.
 :::
 
-### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
+### 10.2.1. לשימוש באינסטרומנטליס (טריטייה = ⟪טריטייה⟫)
 
 ::: grammar-box
 **הסיומות הרגילות של האמצעי (tṛtīyā):**
@@ -125,7 +125,7 @@ important
 :::
 Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 
-## 10.3. Das sogenannte Cerebralisationsgesetz für -n- (ein Wortsandhi)
+## 10.3. מה שמכונה חוק הצרברליזציה עבור -n- (סנדהי-מילים)
 
 ::: grammar-box
 **-n-**, שאחריו עולה תנועה או **n, m, y, v**, מוחלף ב-**ṇ-**, אם **ṛ, ṝ, r, ṣ** במילה קודמים ל-**n-** או שאין אחרת אלא תנועות, גורגלים, שפתיים, **y, v, h** או אנוסווארה בין צלילים אלו ובין ה-**n-** הבא במילה.
@@ -153,7 +153,7 @@ Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
+## 10.4. Das סביל, Indikativ Präsens (yak = ⟪यक्⟫)
 
 ::: grammar-box
 **בנייה:**
@@ -206,7 +206,7 @@ Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
 * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (מ-\*tn-ya-nte)
 
-## 10.5. Wortliste
+## 10.5. רשימת מילים
 
 **למדו את המילים הבאות:**
 
@@ -272,7 +272,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : לשאול (מישהו: אקוסטיב; על משהו: אקוסטיב)
 - **saha** ⟪सह⟫ : יחד עם, בשיתוף עם (גם בהקשר של "להילחם עם" וכו') (פוסטפוזיציה עם אינסטרומנטליס)
 
-## 10.6. Übung
+## 10.6. תרגיל
 
 **א) בניין את הפסיבי לצורות הפועל הבאות (עם תרגום צורת הפועל):**
 
@@ -337,7 +337,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 9. הקשטריה משבח את האדון עם קורבן. (מבנה סביל, ללא שימוש במילה **yajña**)
 10. באמצעות נדיבות, תלמיד של בודהה מגיע לשמיים.
 
-## 10.7. Wortliste 2
+## 10.7. רשימת מילים 2
 
 - **makṣikā** f. ⟪मक्षिका⟫ : זבוב, דבורה
 - **vraṇa** m. ⟪व्रण⟫ : פצע, טעות, נזק
@@ -364,7 +364,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 - **iha** ⟪इह⟫ : כאן
 - **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : להיות יפה, לזהור
 
-## 10.8. Lese- und Übersetzungsübung
+## 10.8. תרגיל קריאה ותרגום
 
 **קראו ותרגמו והמירו לפעל סביל:**
 

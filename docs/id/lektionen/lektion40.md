@@ -34,7 +34,7 @@ Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 :::
 ## 40.2. Formation of the first person perfect verb forms (⟪लिट्⟫)
 
-Endings of the first person (⟪तृतीयः⟫) in the perfect (⟪लिट्⟫)
+Akhiran orang pertama (⟪तृतीयः⟫) dalam bentuk sempurna (⟪लिट्⟫)
 
 ::: grammar-box
 
@@ -45,31 +45,31 @@ Endings of the first person (⟪तृतीयः⟫) in the perfect (⟪लि
 
 :::
 ::: grammar-box
-Note that the endings of the 1st person singular P,Ā are identical to those of the 3rd person singular. Therefore, in all perfect types except Type III(a,b) and Type V(a,b,c), the forms of the 1st singular P and Ā are always identical to those of the 3rd singular P and Ā.
+Perhatikan bahwa akhiran untuk orang pertama tunggal P,Ā identik dengan akhiran untuk orang ketiga tunggal. Oleh karena itu, dalam semua jenis sempurna kecuali Jenis III(a,b) dan Jenis V(a,b,c), bentuk orang pertama tunggal P dan Ā selalu identik dengan bentuk orang ketiga tunggal P dan Ā.
 
 In Type IV, the 1st sg. P ends like the 3rd sg. P in -au.
 
-In perfect types III and V, the 1st singular Ā is always identical to the 3rd singular Ā.
+Pada jenis sempurna III dan V, bentuk tunggal pertama Ā selalu identik dengan bentuk tunggal ketiga Ā.
 
-In perfect types III and V, the 1st singular P and the 3rd singular P are optionally identical: the 3rd sg. P must always be in the guṇa grade for these formation types, while the 1st sg. P can optionally be in the strong grade or the guṇa grade.
+Pada jenis sempurna III dan V, bentuk tunggal pertama P dan bentuk tunggal ketiga P opsional identik: bentuk tunggal ke-3 P harus selalu dalam tingkat guṇa untuk jenis pembentukan ini, sementara bentuk tunggal ke-1 P dapat secara opsional berada dalam tingkat kuat atau tingkat guṇa.
 :::
 ::: grammar-box
-Before consonant-initial endings, the connecting vowel -i- occurs with the majority of roots.
+Sebelum akhiran yang diawali konsonan, vokal penghubung -i- terjadi dengan sebagian besar akar.
 
 Except before the ending -re, before which -i- must always occur, the connecting vowel before consonant-initial endings never occurs with eight roots ending in -ṛ or -u, namely
 
-1.  ⟪कृ⟫ 8U (except ⟪संस्कृ⟫)
-2.  ⟪भृ⟫ 1U
-3.  ⟪वृ⟫ 9U "to choose"
-4.  ⟪सृ⟫ 1P
-5.  ⟪द्रु⟫ 1p "to run"
-6.  ⟪श्रु⟫ 5P
-7.  ⟪स्तु⟫ 2U
-8.  ⟪स्रु⟫ 1P "to flow"
+1. ⟪कृ⟫ 8U (kecuali ⟪संस्कृ⟫)
+2. ⟪भृ⟫ 1U
+3. ⟪वृ⟫ 9U "memilih"
+4. ⟪सृ⟫ 1P
+5. ⟪द्रु⟫ 1p "berlari"
+6. ⟪श्रु⟫ 5P
+7. ⟪स्तु⟫ 2U
+8. ⟪स्रु⟫ 1P "mengalir"
 
-With so-called optional ⟪अनिट्⟫-roots, the connecting vowel may optionally be inserted or not. (List of these roots in Kielhorn, Grammar p. 92 § 298b,2,3)
+Dengan akar-akar ⟪अनिट्⟫ yang disebut opsional, vokal penghubung dapat disisipkan atau tidak secara opsional. (Daftar akar-akar ini dalam Kielhorn, Tata Bahasa hlm 92 § 298b,2,3)
 :::
-### 40.2.1. Perfect Type I: no stem gradation
+### 40.2.1. Jenis Sempurna I: tanpa gradasi tem
 
 1.sg. = 3.sg.
 
@@ -239,13 +239,13 @@ Verbs that follow this type:
 Verbs that follow this type:
 
 ::: indent
-1.  gam "to go"
-2.  han (»ghan) "to strike"
-3.  jan "to be born"
-4.  vac "to speak"
-5.  vad "to speak"
-6.  yaj "to sacrifice"
-7.  etc.
+1. gam "pergi"
+2. han (»ghan) "memukul"
+3. jan "terlahir"
+4. vac "berbicara"
+5. vad "berbicara"
+6. yaj "mengorbankan"
+7. dll.
 :::
 ⟪गम्⟫ 1P
 
@@ -347,25 +347,24 @@ Verbs that follow this type:
 :::
 ⟪जि⟫ 1st person
 
-::: indent
+[0] ::: indent
 *   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
-    
+
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
-:::
-## 40.3. Formation of the verb forms of the first person of the periphrastic perfect (⟪अनुप्रयोगलिट्⟫)
+## 40.3. Pembentukan bentuk kata kerja orang pertama dari sempurna periphrastik (⟪अनुप्रयोगलिट्⟫)
 
 The periphrastic perfect is formed from:
 
-*   derived verbal stems (causative, desiderative, frequentative, denominative), especially causative
-*   roots that begin with a long vowel (except ā)
-*   roots: vowel (except a)-consonant-consonant
-*   some others
-*   for some roots both perfects can be formed optionally: uṣ "to burn", vid "to know", jāgṛ "to wake", daridrā "to be poor"
-*   for the following roots both perfects can be formed optionally and also the periphrastic perfect is reduplicated, namely with the reduplication syllable of the present stem:
-    *   bhī "to fear"
-    *   bhṛ "to carry"
-    *   hu "to sacrifice"
-    *   hrī "to be ashamed"
+*   akar kata kerja turunan (kausatif, desideratif, frekuentatif, denominatif), terutama kausatif
+*   akar yang dimulai dengan vokal panjang (kecuali ā)
+*   akar: vokal (kecuali a)-konsonan-konsonan
+*   beberapa lainnya
+*   untuk beberapa akar, kedua bentuk sempurna dapat dibentuk secara opsional: uṣ "untuk membakar", vid "untuk mengetahui", jāgṛ "untuk bangun", daridrā "untuk menjadi miskin"
+*   untuk akar berikut, kedua bentuk sempurna dapat dibentuk secara opsional dan juga bentuk sempurna periphrastik direplikasi, yaitu dengan suku kata replikasi dari akar present:
+*   bhī "untuk takut"
+*   bhṛ "untuk membawa"
+*   hu "untuk mengorbankan"
+*   hrī "untuk malu"
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -384,12 +383,12 @@ The periphrastic perfect is formed from:
 ## 40.4. Syntax regarding the first person (⟪तृतीयः⟫)
 
 ::: grammar-box
-Since a finite verb (conjugated verb) also expresses the agent (⟪कर्तृ⟫), the "I" or "we" in non-passive verbal sentences with a finite verb does not need to be expressed additionally by a personal pronoun.
+Karena kata kerja terbatas (kata kerja yang dikonjugasikan) juga menyatakan agen (⟪कर्तृ⟫), kata "saya" atau "kami" dalam kalimat verbal non-pasif dengan kata kerja terbatas tidak perlu dinyatakan secara tambahan oleh kata ganti orang.
 :::
-## 40.5. Personal Pronouns (⟪पुरुषार्थकसर्वनाम⟫) of the First Person Singular and Plural
+## 40.5. Kata Ganti Orang (⟪पुरुषार्थकसर्वनाम⟫) Orang Pertama Tunggal dan Jamak
 
 ::: grammar-box
-The form of the personal pronoun (personal pronoun) is the same for all genders.
+Bentuk kata ganti orang (kata ganti orang) adalah sama untuk semua jenis kelamin.
 :::
 ::: grammar-box
 
@@ -405,21 +404,21 @@ The form of the personal pronoun (personal pronoun) is the same for all genders.
 
 :::
 ::: grammar-box
-The shorter forms, which stand in second place above (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), must never be used at the beginning of a sentence or verse.
+Bentuk-bentuk lebih pendek, yang menempati urutan kedua di atas (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), tidak boleh digunakan pada awal kalimat atau bait.
 
 Before the particles ⟪च⟫, ⟪वा⟫, ⟪एव⟫, these so-called enclitic forms may also not be used:
 
-only: ... ⟪मां⟫ ⟪च⟫ ... "and me"
+hanya: ... ⟪मां⟫ ⟪च⟫ ... "dan saya"
 :::
 ::: grammar-box
-The genitive (⟪षष्ठी⟫) of the personal pronouns is used as a possessive pronoun:
+Kasus genitif (⟪षष्ठी⟫) dari kata ganti orang digunakan sebagai kata ganti kepemilikan:
 
 ⟪मम⟫ ⟪।⟫ ⟪मे⟫ = "my"
 
-⟪अस्माकम्⟫ ⟪।⟫ ⟪नस्⟫ = "our"
+⟪अस्माकम्⟫ ⟪।⟫ ⟪नस्⟫ = "kami"
 :::
 ::: grammar-box
-As the first member of compounds, the stems for these pronouns are:
+Sebagai anggota pertama dari majemuk, akhiran untuk kata ganti ini adalah:
 
 *   sg. ⟪मद्⟫
 *   pl. ⟪अस्मद्⟫
@@ -434,20 +433,20 @@ e.g. ⟪मत्पुस्तकम्⟫ "my book" ; ⟪अस्मद्�
 
 ⟪पुस्तक⟫ m.n. Manuscript, Book
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : to be in proper order, to fit (Loc.) ; to take shape, to form ; to resolve to, to condescend to (Dative)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : berada dalam urutan yang benar, sesuai (Lokatif) ; membentuk bentuk, menyusun; bertekad untuk, merendahkan diri untuk (Dativ)
 
 ::: indent
-Perf. II ⟪चकॢपे⟫ optional ⟪अनिट्⟫  
+Perf. II ⟪चकॢपे⟫ opsional ⟪अनिट्⟫  
 Fut. ⟪कल्पिष्यते⟫ ⟪।⟫ ⟪कल्प्स्यते⟫  
-Caus. ⟪कल्पयति⟫ : to put in order, to create, to form in the imagination, to imagine  
+Kaus. ⟪कल्पयति⟫ : menyusun, menciptakan, membentuk dalam imajinasi, membayangkan  
 PPP ⟪कॢप्त⟫  
 Inf. ⟪कल्पितुम्⟫ ⟪।⟫ ⟪कल्प्तुम्⟫
 
 therefrom:
 
-⟪कल्पना⟫ f.: The forming in thought, the assumption of something non-existent in reality, fiction
+⟪कल्पना⟫ f.: Pembentukan dalam pikiran, asumsi terhadap sesuatu yang tidak ada dalam realitas, fiksi
 :::
-⟪कॢप्⟫ + ⟪वि⟫ Caus. ⟪विकल्पयति⟫ : (to imagine differently =) to call into question, to doubt
+⟪कॢप्⟫ + ⟪वि⟫ Kaus. ⟪विकल्पयति⟫ : (membayangkan secara berbeda =) mempertanyakan, meragukan
 
 ::: indent
 therefrom:
@@ -464,7 +463,7 @@ Caus. ⟪तोदयति⟫
 PPP ⟪तुन्न⟫ (tud + na)  
 Inf. ⟪तोत्तुम्⟫
 :::
-⟪तॄ⟫ 1P ⟪तरति⟫ : to cross over, to cross, to save oneself from someone (Acc. = to cross someone)
+⟪तॄ⟫ 1P ⟪तरति⟫ : menyebrang, melintasi, menyelamatkan diri dari seseorang (Akk. = menyeberangi seseorang)
 
 ::: indent
 Perf. IIIb ⟪ततार⟫, ⟪ततरुर्⟫ ⟪।⟫ ⟪तेरुर्⟫  
@@ -476,36 +475,36 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 
 therefrom:
 
-⟪तीर्थ⟫ n.: Ford, sacred bathing place, pilgrimage site
+⟪तीर्थ⟫ n.: tempat penyeberangan, tempat mandi suci, situs ziarah
 :::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
-(Image source: [Details](/en/licenses#lekt4003))
+(Sumber gambar: [Details](/en/licenses#lekt4003))
 ::::
 :::
 ::: indent
-⟪तीर्थङ्कर⟫ m. (from: ⟪तीर्थम्⟫+ ⟪कृ⟫): Ford-maker (across suffering) = the 24 teachers of the Jains
+⟪तीर्थङ्कर⟫ m. (dari: ⟪तीर्थम्⟫+ ⟪कृ⟫): pembuat penyeberangan (melintasi penderitaan) = 24 guru para Jain
 :::
 ::: media
 ![lekt4002.jpg](/images/lekt4002.webp)
 Fig.: ⟪तीर्थङ्करः⟫
-(Image source: [Details](/en/licenses#lekt4002))
+(Sumber gambar: [Details](/en/licenses#lekt4002))
 :::
-⟪अव⟫ Pref.: down, downward, away, off-
+⟪अव⟫ Pref.: ke bawah, menurun, menjauh, dari-
 
 ⟪तॄ⟫ + ⟪अव⟫ 1P ⟪अवतरति⟫ : to descend
 
 ::: indent
 therefrom:
 
-⟪अवतार⟫ m.: (Descender, Descent) Incarnation of a god, esp. Viṣṇu's 10 incarnations (see Basham, Wonder pp. 304 - 309)
+⟪अवतार⟫ m.: (Descender, Descent) Inkarnasi seorang dewa, khususnya 10 inkarnasi Viṣṇu (lihat Basham, Wonder pp. 304 - 309)
 :::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
 Fig.: ⟪विष्णोर्दशावताराः⟫
-(Image source: [Details](/en/licenses#lekt4001))
+(Sumber gambar: [Details](/en/licenses#lekt4001))
 ::::
 :::
-⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : to sleep, to go to sleep
+⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : tidur, tertidur
 
 ::: indent
 Impf. ⟪अस्वपीत्⟫ ⟪।⟫ ⟪अस्वपत्⟫  
@@ -529,9 +528,9 @@ Fig.: ⟪स्वपन्ति⟫
 :::
 ## 40.7. Exercise
 
-A) Translate the ⟪सुभाषितानि⟫ at the beginning of the lesson.
+[A] Terjemahkan ⟪सुभाषितानि⟫ di awal pelajaran.
 
-B) Transform the following verbal forms into the corresponding perfect forms. If there are multiple possibilities, please provide all possibilities.
+[B] Ubah bentuk-bentuk verbal berikut ke dalam bentuk sempurna yang sesuai. Jika ada beberapa kemungkinan, silakan berikan semua kemungkinan.
 
 (Explanation of symbols: ⟪अ⟫ = ⟪अनिट्⟫, ⟪इ⟫ = optional ⟪अनिट्⟫)
 

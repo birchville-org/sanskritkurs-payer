@@ -7,9 +7,9 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-# Lektion 2
+# ܕܲܪܫܵܐ 2
 
-## 2.1. Der Nominalsatz
+## 2.1. ܦܬܓܡܐ ܫܡܢܝܐ
 
 ::: grammar-box
 **Schema: Prädikatsnomen - Subjekt**
@@ -22,9 +22,9 @@ Es gibt **keine Artikel**: **devaḥ** -- ⟪देवः⟫ kann bedeuten "der 
 
 Obwohl im Sanskrit die Satzstellung ziemlich frei ist (besonders in Versen), muss man bei der Übersetzung eines Nominalsatzes immer in erster Linie eine Übersetzung gemäß obigem Standardschema in Betracht ziehen.
 
-In the nominal sentence, the subject is in the nominative (first case = **prathamā** f. = ⟪प्रथमा⟫). The predicate noun agrees with the subject in number and case; if the predicate noun is an adjective, also in gender.
+בְּמִלְּתָא שְׁמָא, אַרְכָּנָא בִּשְׁמָא (קַסְתָּא טַבְעָה = **פֶרְתָמָה** פ. = ⟪प्रथमा⟫). אַרְכָּנָא מִלְּתָא נְטוֹר עִם אַרְכָּנָא בְּמִסְפַּר וּבְקַסְתָּא; אִם אַרְכָּנָא מִלְּתָהּ שְׁמַע, גַּם בִּשְׁכָל.
 
-## 2.2. Zur Deklination (Beugung von Nomina)
+## 2.2. ܠܟܲܪܝܘܼܬ݂ܵܐ (ܟܲܪܝܘܼܬ݂ܵܐ ܕܫܡܵܗܹܐ)
 
 In Sanskrit there are:
 
@@ -38,7 +38,7 @@ In Sanskrit there are:
 - Neuter (neuter) = **napuṃsaka** n. -- ⟪नपुंसक⟫
 - **eight cases** (cases) = **sup** -- ⟪सुप्⟫ (= case endings)
 
-To declension, the case endings (**sup** = ⟪सुप्⟫) attach to the so-called **nominal stem** (form of the noun without case endings).
+Zur Deklination werden die Kasusendungen (**sup** = ⟪सुप्⟫) an den sogenannten **Nomenstamm** (Form des Nomens ohne Kasusendungen) angehängt.
 
 Example: **devas** = ⟪देवस्⟫ (nominative singular masculine) "the/a god" = **deva-** -- ⟪देव⟫- (nominal stem) + **-s** -- -⟪स्⟫ (case ending).
 
@@ -47,16 +47,16 @@ In Sanskrit dictionaries, nouns are listed in the **nominal stem**:
 - **vacana** n. -- ⟪वचन⟫ n. (neuter)
 - **vyakti** f. -- ⟪व्यक्ति⟫ f. (feminine)
 
-## 2.3. Der Nominativ Singular
+## 2.3. ܫܡܐ ܕܚܕܢܝܐ
 
 **Nominative Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
 ::: grammar-box
 **The Nominative Singular ends in -s = -⟪स्⟫ or is zero-ending.**
 :::
-### 2.3.1. Nominative Singular in -s
+### 2.3.1. ܫܡܐ ܦܫܝܛܐ ܕܚܕܢܝܐ ܒ-ܣ
 
-The following nominal stems, which end in a vowel, form the Nominative Singular with **-s**:
+השורשים השמניים הבאים, המסתיימים בתנועה, יוצרים את הסינגולר הנודע עם **-s**:
 
 ::: grammar-box
 **Masculines in -a:** e.g. deva m. = ⟪देव⟫ "god" -- Nom. sg.: devas = ⟪देवस्⟫
@@ -64,11 +64,11 @@ The following nominal stems, which end in a vowel, form the Nominative Singular 
 **Masculines in -u:** e.g. guru m. = ⟪गुरु⟫ "teacher" -- Nom. sg.: gurus = ⟪गुरुस्⟫
 :::
 
-## 2.4. Sandhi -- ⟪सन्धि⟫
+## 2.4. ܣܢܕܝ -- ⟪सन्धि⟫
 
-The final sound of a word in Sanskrit is also determined by the initial sound of the following word. This phenomenon is called **Sandhi** (m.) = ⟪सन्धि⟫ ("connection").
+האות הסופית של מילה בסנסקריט נקבעת גם על ידי הצליל הראשוני של המילה הבאה. תופעה זו נקראת **סנדהי** (זכר) = ⟪सन्धि⟫ ("חיבור").
 
-### 2.4.1. Sandhi von auslautendem -s
+### 2.4.1. ܣܢܕܗܝ ܕ-ܣ ܕܫܘܠܡܐ
 
 See also the overview:
 
@@ -81,27 +81,27 @@ Final **-s**:
 - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
 - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
-- **before voiceless sounds**:
-- before **k, kh, p, ph** and **ś, ṣ, s**: becomes **Visarga (-ḥ)**
-- **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva is a god")
-- before **c, ch**: becomes **-ś**
-- before **ṭ, ṭh**: becomes **-ṣ**
-- before **t, th**: remains **-s**
-- **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya is a saint")
+- **לפני צלילים חסרי-קול**:
+- לפני **k, kh, p, ph** ו-**ś, ṣ, s**: הופך ל-**Visarga (-ḥ)**
+- **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("שִׁיְוָה הוא אלוה")
+- לפני **c, ch**: הופך ל-**ś**
+- לפני **ṭ, ṭh**: הופך ל-**ṣ**
+- לפני **t, th**: נשאר **-s**
+- **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("צ׳ייטניה הוא קדוש")
 
-- **before voiced sounds**:
-- after non-a vowels: becomes **-r**
-- **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha is a poet")
-- after non-a vowels before **r-**: **-s** drops out, the vowel is lengthened.
-- **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ ("Rāma is a teacher")
-- after **a-**: **-as**
-- before voiced consonants/a: becomes **-o** (initial a drops out » ⟪ऽ⟫)
+- **לפני צלילים מוקוליים**:
+- אחרי תנויות שאינן a: הופך ל-**r**
+- **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("מָגְהַ הוא משורר")
+- אחרי תנויות שאינן a לפני **r-**: **-s** נופלת, התנויה מתארכת.
+- **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ ("רָמָה הוא מורה")
+- אחרי **a-**: **-as**
+- לפני עיצורים מוקוליים/a: הופך ל-**o** (התנויה הראשונית a נופלת » ⟪ऽ⟫)
 - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
 - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
-- before other vowels: becomes **-a** (hiatus)
+- לפני תנויות אחרות: הופך ל-**a** (היאתוס)
 - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
 
-## 2.5. Wortliste
+## 2.5. ܡܠܘܐܐ
 
 **deva** m. -- ⟪देव⟫ : Celestial being, god; prince, king.
 
@@ -116,71 +116,71 @@ Final **-s**:
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (service caste).
 
 ::: note-box Die vier Stände (varna)
-According to classical theory (e.g., Manusmṛti I, 88-91), the duties are distributed:
+על פי התורה הקלאסית (למשל, מנוסמריטי I, 88-91), התפקדים מחולקים:
 
-- **of the Brāhmaṇas**
-- Giving (donations)
-- Teaching
-- Studying the Vedas
-- Performing sacrifices for others
-- Accepting gifts (from devotees)
-- **of the Kṣatriyas**
-- **of the Vaiśyas**
-- Agriculture
-- Trade (commerce)
-- Lending money
-- Raising cattle
-- Trade (commerce)
-- Agriculture
-- Lending money
-- Raising cattle
-- Trade (commerce)
-- Lending money
-- Performing sacrifices for oneself
-- Giving gifts (to Brāhmaṇas)
-- Performing sacrifices for oneself
-- Study of the Vedas
-- **of the Śūdras**
+- **של הבראהמנים**
+- נתינה (מתנות)
+- הוראה
+- לימוד הוודות
+- קיום קורבנות לאחרים
+- קבלת מתנות (ממעריצים)
+- **של הקשטריות**
+- **של הויאסיה**
+- חקלאות
+- מסחר (מסחר)
+- הלוואת כסף
+- גידול בקר
+- מסחר (מסחר)
+- חקלאות
+- הלוואת כסף
+- גידול בקר
+- מסחר (מסחר)
+- הלוואת כסף
+- קיום קורבנות לעצמו
+- נתינת מתנות (לבראהמנים)
+- קיום קורבנות לעצמו
+- לימוד הוודות
+- **של השודרות**
 :::
-**dvija** m. -- ⟪द्विज⟫ : "Twice-born" (initiates of the upper three castes: Brāhmaṇa, Kṣatriya, Vaiśya).
+**דוויג'ה** ז. -- ⟪द्विज⟫ : "שני לידה" (תלמידים של שלושת המעמדות העליונים: ברהמן, קשטריה, ויאסיה).
 
 **varṇa** m. -- ⟪वर्ण⟫ : color, birth estate (aspiration).
 
-The four estates (**varṇa** m.) are often confused with castes. However, the four estates -- in contrast to castes -- are not specifically Indian; Europe also had an estate system (partly up to the First World War), as evidenced by the following illustration from the 15th century:
+ארבעת המעמדות (**varṇa** מ') מתבללים לעיתים קרובות עם מעמדות. אולם, ארבעת המעמדות -- בניגוד למעמדות -- אינם ספציפיים להודו; אירופה גם כן הכירה במערכת מעמדותית (חלקית עד למלחמת העולם הראשונה), כפי שמעידה האיור הבא מהמאה ה-15:
 
 ::: media
 ![](/images/lekt0201.webp)
-Fig.: Representation of the estate division in European Middle Ages (woodcut from the late 15th century).
-(Image source: [Details](/arc/licenses#lekt0201))
+איור: ייצוג חלוקת המעמדות בימי הביניים האירופיים (חיתוך עץ מאמצע המאה ה-15).
+(מקור התמונה: [פרטים](/arc/licenses#lekt0201))
 :::
-**Labeling:**
-- **Priestly estate** (~Brāhmaṇa): Tu supplex ora = You pray earnestly!
-- **Nobility estate** (~Kṣatriya): Tu protege = You protect!
-- **Peasant estate** (~Vaiśya/Śūdra): Tuque labora = And you work!
+**תיוג:**
+- **מעמד הכוהנים** (~Brāhmaṇa): Tu supplex ora = אתה מתפלל בתחינה!
+- **מעמד האצולה** (~Kṣatriya): Tu protege = אתה מגן!
+- **מעמד האיכרים** (~Vaiśya/Śūdra): Tuque labora = ואתה עובד!
 
 The three estates wear their respective estate attire. Above them -- thus designated as willed by God -- Christ reigns on his throne.
 
 Max Weber \&lt;1864 – 1920\&gt; defines estate as follows:
 
 ::: note-box
-»**estate**« is meant to denote a multitude of people who, within an association, effectively
-a) claim an estate-specific special valuation, - possibly also
-b) estate-specific special monopolies.
+»**estate**« ܐܝܬ ܠܗ ܡܕܢܚܐ ܕܓܘܪ̈ܝܐ ܕܒܟܢܫܬܐ
+a) ܡܠܛ̈ܝܢ ܐܪܟܬܐ ܕܩܠܘܢܣܐ ܡܬܝܪ̈ܐ، - ܠܓܘ
+b) ܩܠܘܢܣ̈ܐ ܡܬܝܪ̈ܐ.
 
-Estates can arise
-a) primarily, through their own estate-specific way of life, particularly by the nature of **occupation** (way-of-life or occupational estates),
-b) secondarily, by hereditary charisma, through successful prestige claims based on estate-specific **descent** (birth estates),
-c) through estate-specific **appropriation** of political or hierocratic lordships as monopolies (political or hierocratic estates).
+ܩܠܘܢܣ̈ܐ ܡܫܬܥܒܕܝ
+a) ܪܘܚܢܐ، ܒܬܩܝܡܬܗ ܕܐܪܟܬܐ، ܒܝܬܪ̈ܘܬܐ ܕ**ܥܣܩܐ** (ܪܘܚܢܐ ܕܥܣܩܐ)،
+b) ܬܪܝܢܐ، ܒܟܕܘܣܬܐ ܡܪ̈ܝܢܬܐ، ܒ**ܫܠܣܠܬܐ** (ܩܠܘܢܣ̈ܐ ܕܡܪ̈ܝܢܬܐ)،
+c) ܒ**ܡܠܛܘܬܐ** ܕܩܠܘܢܣܐ ܥܠ ܡܪ̈ܝܢܬܐ ܣܘܟܠܐ ܐܘ ܩܕܝܫܬܐ (ܩܠܘܢܣ̈ܐ ܣܘܟܠܐ ܐܘ ܩܕܝܫܬܐ).
 
-The birth-estate development is regularly a form of (hereditary) appropriation of privileges to an association or to qualified individuals. Every fixed appropriation of opportunities, particularly [of] lordships [or livelihoods], tends to lead to estate formation. Every estate formation tends to lead to the monopolistic appropriation of lordships and livelihood opportunities.
+ܦܘܪܡܬܐ ܕܩܠܘܢܣܐ ܡܪ̈ܝܢܬܐ ܗܝ ܦܘܪܡܬܐ ܕ**ܡܠܛܘܬܐ** ܥܠ ܟܢܫܬܐ ܐܘ ܓܒ̈ܪܝܢ ܡܬܝܪ̈ܐ. ܟܠ ܡܠܛܘܬܐ ܕ**ܦܘܪܣ̈ܢܐ**، ܒܝܬܪ̈ܘܬܐ [ܕ] **ܡܪ̈ܝܢܬܐ** [ܐܘ ܦܘܪܣ̈ܢܐ]، ܡܠܛܬ ܥܠ ܩܠܘܢܣܐ. ܟܠ ܩܠܘܢܣܐ ܡܠܛ ܥܠ **ܡܠܛܘܬܐ** ܕܡܪ̈ܝܢܬܐ ܘܦܘܪܣ̈ܢܐ.
 
-While occupational classes grow on the soil of a market-oriented economy, estates arise and persist preferably on the soil of monopolistically directed liturgical or feudal or estate-based patrimonial provision needs of associations.
+ܒܝܬܪ̈ܘܬܐ ܕ**ܥܣܩܐ** ܡܫܬܒܪ̈ܝ ܥܠ ܐܘܟܣܢܘܦܝܬ ܡܠܛܐ، ܩܠܘܢܣ̈ܐ ܡܫܬܥܒܕܝ ܘܡܩܪ̈ܒܝ ܥܠ ܐܘܟܣܢܘܦܝܬ **ܡܠܛܐ** ܕ**ܩܘܪܒ̈ܢܐ** ܐܘ **ܦܘܪܣ̈ܢܐ** ܐܘ **ܩܠܘܢܣ̈ܐ** ܕ**ܟܢܫܬܐ**.
 
-»**Estate-based**« means a society when the social division is preferably by estates, »**class-based**«, if it happens preferably by classes. The »estate« is closest to the »social« class among the »classes«, and the »occupational class« is furthest. Estates are often formed by property classes according to their focus.
+»**ܐܪ̈ܫܝܬܐ ܒܠܚܘܕ**« ܡܫܬܥܐ ܟܢ̈ܫܬܐ ܕܝܠܗ ܒܚܘܟܡܬܐ ܕܪ̈ܫܝܬܐ، »**ܣܦܟܬܐ ܒܠܚܘܕ**«، ܐܝܟ ܡܢ ܕܗܘ ܒܚܘܟܡܬܐ ܕܣܦܟ̈ܬܐ. ܐܪ̈ܫܝܬܐ ܗܝ ܠܩܪ̈ܒܐ ܡܢ ܣܦܟܬܐ ܕܝܠܗ ܒܣܦܟ̈ܬܐ، וְהַסִּפְרָא ܗܝ ܠܪ̈חܩܐ. ܪ̈ܫܝܬܐ ܡܠܦ̈ܢܘܬܐ ܗܝ ܡܫܬܥܐ ܒܣܦܟ̈ܬܐ ܕܝܠܗ ܒܚܘܟܡܬܐ.
 
-Every estate-based society is conventional, ordered by rules of life conduct, thus creates economically irrational consumption conditions and hinders free market formation in this way through monopolistic appropriations and by excluding the free disposal of one's own earning capacity.
+כָּל ܟܢ̈ܫܬܐ ܕܝܠܗ ܒܪ̈ܫܝܬܐ ܗܝ ܡܫܬܥܐ، וְהוּא מֻסָד בְּחֻקֵּי חַיִּים، וְכָךְ יוֹצֵר תַּנְאִי אֲכָלָה בְּלֹא שׂכַר، וְעוֹצֵר יְצִירַת שׁוּק חָפְשִׁי בְּכָךְ דַּוְקָא עַל יְדֵי תַפְשׁוּטָא מוֹנָרְכִית וּבְהַפְסָקָת ܫׁוֹלְטָנוּת חָפְשִׁית עַל כֹּחַ הַהַכְנָעָה.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Economy and Society : Outline of Understanding Sociology. – 5th, revised ed. – Tübingen : Mohr, 1976. – Pp. 625 ff.]
+[**וֵבֶר، מַקְס \&lt;1864 – 1920\&gt;:** מִשְׁקָל וּמַחְתֶּרֶת : תִּקְנוּן סוֹצְיוֹלוֹגְיָה. – 5th, מְתוּקָן. – טִיבִינְגֶן : מוֹהַר، 1976. – עמ' 625 ff.]
 :::
 Varṇas are accordingly birth estates.
 
@@ -206,7 +206,7 @@ Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
 
 **guru** m. -- ⟪गुरु⟫ : worthy of veneration person: father, mother, older relative, esp. teacher, master
 
-## 2.6. Übung
+## 2.6. ܬܪܓܠܐ
 
 **A) Insert according to Sandhi and form nominal sentences:**
 

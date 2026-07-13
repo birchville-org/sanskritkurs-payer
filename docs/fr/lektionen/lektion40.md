@@ -426,7 +426,7 @@ En tant que premier membre de composés, les radicaux de ces pronoms sont :
 
 par ex. ⟪मत्पुस्तकम्⟫ "mon livre" ; ⟪अस्मद्पुस्तकानि⟫ "nos livres"
 :::
-## 40.6. Wortliste
+## 40.6. Liste de mots
 
 ⟪पात्र⟫ n. : Vénérable, Maître, Digne
 
@@ -528,7 +528,7 @@ dont :
 Fig. : ⟪स्वपन्ति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt4004))
 :::
-## 40.7. Übung
+## 40.7. Exercice
 
 A) Traduisez les ⟪सुभाषितानि⟫ au début de la leçon.
 

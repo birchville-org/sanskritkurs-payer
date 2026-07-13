@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 14
+# ܬܪܓܡܬܐ 14
 
 Translate the following proverbs and learn them by heart:
 
@@ -24,9 +24,9 @@ Through truth, happiness comes to people.
 Evil people do not enter heaven.
 
 ⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫  
-Truth is the light of the world.
+ܚܘܬܐ ܗܝ ܢܘܪܐ ܕܥܠܡܐ.
 
-A) Form the Genitive Singular and Plural for the following words. Provide the meaning and gender of the words:
+A) ܫܘܬܪܝ ܐܢܓܠܝܣܛܪܘܣ ܕܡܢܐ ܠܟܝ ܘܪܒܥ. ܫܘܬܪܝ ܡܢܐ ܠܟܝ ܘܪܒܥ:
 
 ⟪१⟫. ⟪अनृत⟫ : n. Untruth — ⟪अनृतस्य⟫ ⟪अनृतानाम्⟫
 
@@ -136,8 +136,8 @@ A) Form the Genitive Singular and Plural for the following words. Provide the me
 
 B) Translate:
 
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 possibilities)
-The son of the Brahmin has gone to the village of the Brahmin woman. The son of the Brahmin has gone to the village with the Brahmin woman.
+[0] ⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (ܬܘܒ ܐܝܟ)
+[1] ܪܒܐ ܕܡܢܘܗܪܝܐ ܠܥܝܬܐ ܕܡܢܘܗܪܝܬܐ. ܪܒܐ ܕܡܢܘܗܪܝܐ ܠܥܝܬܐ ܡܨܪܦ ܕܡܢܘܗܪܝܬܐ.
 
 ⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
 The sacrificial fire has burned the food.
@@ -146,7 +146,7 @@ The sacrificial fire has burned the food.
 Buddha was liberated through the knowledge of truth.
 
 ⟪४⟫. ⟪अधर्मो⟫ ⟪ऽनृतस्य⟫ ⟪वदनमित्यृषयो⟫ ⟪वदन्ति⟫ ⟪।⟫
-The Vedic sages say that speaking untruth is wrong.
+ܡܕܒܪ̈ܝ ܕܟܬܒܐ ܕܥܠܡܐ ܩܘܪ̈ܝܢ ܕܠܫܢܐ ܩܛܥܬܐ ܗܘ.
 
 ⟪५⟫. ⟪नरा⟫ ⟪देवानां⟫ ⟪यज्ञैर्न⟫ ⟪मुच्यन्ते⟫ ⟪।⟫
 People are not liberated through sacrifices to gods.
@@ -155,10 +155,10 @@ People are not liberated through sacrifices to gods.
 The powerful Kṣatriyas conquer the rich cities of the enemies.
 
 ⟪७⟫. ⟪कवेरुक्तिं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-They hear the verse of the poet.
+ܗ̈ܘܝܢ ܠܟܬܒܐ ܕܡܫܥܪ̈ܝܢ.
 
 ⟪८⟫. ⟪कविर्देव्याः⟫ ⟪कृतं⟫ ⟪वद⟫ti ⟪।⟫
-The poet reports the deed of the goddess.
+ܡܫܥܪ̈ܝܢ ܐܦܩܕ ܠܥܒ̈ܝܕܐ ܕܢܫܬܟܚ.
 
 ⟪९⟫. ⟪द्विजाः⟫ ⟪पशोर्लाभमिच्छन्ति⟫ ⟪।⟫
 Twice-born wish to obtain cattle.

@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 10
+# ܬܪܓܡܬܐ 10
 
-A) Form the passive for the following verb forms (with translation of the verb form), i.e., the passive that corresponds to the verb form in person and number:
+A) Bildet die Passivform für folgende Verbformen (mit Übersetzung der Verbform), d. h., das Passiv, das zur Verbform in Person und Zahl entspricht:
 
 1. sṛjati ⟪सृजति⟫ : sṛjyate ⟪सृज्यते⟫
 2. yudhyate ⟪युध्यते⟫ : yudhyate ⟪युध्यते⟫
@@ -33,9 +33,9 @@ A) Form the passive for the following verb forms (with translation of the verb f
 21. pṛcchanti ⟪पृच्छन्ति⟫ : pṛcchyante ⟪पृच्छ्यन्ते⟫
 22. tanvanti ⟪तन्वन्ति⟫ (2 forms!) : tanyante / tāyante ⟪तन्यन्ते⟫ ⟪तायन्ते⟫
 
-B) Form the instrumental singular and plural for all nouns learned so far.
+ב) ܣܘܡ ܐܪܒܥ ܠܟܝܕ ܘܫܡܐ ܠܟܝܕ ܠܟܠ ܡܢ ܐܪܒܥ ܕܝܠܟ.
 
-C) Convert the following sentences into the passive and translate them:
+ג) ܫܘܬ ܐܪܒܥ ܠܟܝܕ ܘܫܡܐ ܠܟܝܕ ܠܟܠ ܡܢ ܐܪܒܥ ܕܝܠܟ.
 
 1\. brāhmaṇo devīm yajati. ⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫
 
@@ -103,7 +103,7 @@ vaiśyair / vaiśyābhir imaṃ grāmaṃ / ayaṃ grāmo gamyate.
 
 ⟪वैश्यैरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्यैरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरिमं⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪वैश्याभिरयं⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ ⟪।⟫
 
-Vaiśyas / Women of the Vaiśya caste go to this village.
+ܒܪ̈ܝܐ ܕܟܬܒܐ ܕܠܦܢܘܬܐ ܝܗܒܝܢ ܠܟܘܪܬܐ ܕܒܝܬ
 
 12\. ete gurūṃstu śṛṇvanti. ⟪एते⟫ ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫
 
@@ -148,7 +148,7 @@ Which soldiers fight (together) with the Kṣatriyas?
 
 D) Translate into Sanskrit:
 
-1\. A Brahmin goes to the village with a Vaiśya.
+1\. ܟܗܢܐ ܝܬܝܒ ܠܘܬ ܩܪܝܬܐ ܥܡ ܒܪ ܟܢܫܬܐ.
 
 brāhmano vaiśyena saha grāmaṃ gacchati.
 
@@ -178,7 +178,7 @@ gurubhiḥ pṛcchyate.
 
 ⟪गुरुभिः⟫ ⟪प्र्च्छ्यते⟫ ⟪।⟫
 
-6\. The eye leads. (Passive construction) (Eyes and ears are otherwise normally used in the dual)
+6\. ܕܝܩܢܐ ܡܠܟܐ. (בניין פועל) (עיניים ואוזניים בדרך כלל משמעותן ברבים)]
 
 netreṇa nīyate.
 
@@ -196,7 +196,7 @@ kayā bālā rakṣyate.
 
 ⟪कया⟫ ⟪बाला⟫ ⟪रक्ष्यते⟫ ⟪।⟫
 
-9\. The Kṣatriya venerates the LORD with a sacrifice. (Passive construction, without using the word yajña)
+9\. ܟܬܝܪܐ ܡܠܟܐ ܕܥܒܕ ܠܫܡܐ ܒܩܘܪܒܢܐ. (בניין פועל, בלי להשתמש במילה קורבנא)
 
 kṣatriyeṇeśvara ijyate.
 
@@ -215,9 +215,9 @@ Fig.: ⟪ग्रामः⟫
 :::
 ---
 
-## Reading Exercise
+## Reading ܬܪܓܠܐ
 
-Read and translate, then convert to the passive:
+ܟܬܘܒ ܘܦܫܩ ܠܟܢ ܗܒܪ ܠܗ ܠܦܫܩ:
 
 ⟪क⟫
 

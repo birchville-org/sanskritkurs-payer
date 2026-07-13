@@ -8,7 +8,7 @@
 अभिव.: संस्कृत लिपि नमूने  
 \[चित्र स्रोत: विकिपीडिया, GNU FD लाइसेंस\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+⟨iast_l_0⟩
 
 ![](/images/schrift002.webp)
 
@@ -18,9 +18,9 @@ Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
 
 एक व्यंजन के बाद आने वाले स्वर -- "a" को छोड़कर -- इस प्रकार लिखे जाते हैं:
 
-⟪का⟫ = kā, ⟪कि⟫ = ki, ⟪की⟫ = kī, ⟪कु⟫ = ku, ⟪कू⟫ = kū, ⟪कृ⟫ = kṛ, ⟪कॄ⟫ = kṝ, ⟪कॢ⟫  = kḷ
+⟪⟪का⟫⟫ = kā, ⟪⟪कि⟫⟫ = ki, ⟪⟪की⟫⟫ = kī, ⟪⟪कु⟫⟫ = ku, ⟪⟪कू⟫⟫ = kū, ⟪⟪कृ⟫⟫ = kṛ, ⟪⟪कॄ⟫⟫ = kṝ, ⟪⟪कॢ⟫⟫  = kḷ
 
-⟪के⟫ = ke, ⟪कै⟫ = kai, ⟪को⟫ = ko, ⟪कौ⟫ = kau
+⟪⟪के⟫⟫ = ke, ⟪⟪कै⟫⟫ = kai, ⟪⟪को⟫⟫ = ko, ⟪⟪कौ⟫⟫ = kau
 
 इन व्यंजन + स्वर संयोजनों को लिखने का क्रम है:
 

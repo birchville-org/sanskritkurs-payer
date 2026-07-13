@@ -13,6 +13,7 @@ export const arc = {
       { text: 'ܠܘܚܐ ܕܣܘܟܠ̈ܐ', link: '/arc/lektionen/inhaltsverzeichnis' },
       { text: 'ܕܩܕܘܩܝܐ', link: '/arc/grammatik' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
+      { text: '<span class="nav-gear-icon"></span>', link: '/arc/settings', ariaLabel: 'Settings' },
       { text: 'ܙܘܗܪ̈ܐ', link: '/arc/impressum' }
     ],
     docFooter: {

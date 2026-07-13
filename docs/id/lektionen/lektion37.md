@@ -9,21 +9,21 @@ status: stable
 
 # Lesson 37
 
-## 37.1. The Adverb (⟪क्रियाविशेषणम्⟫)
+## 37.1. Adverbia (⟪क्रियाविशेषणम्⟫)
 
 Adverbs are formed in Sanskrit
 
-1.  through case forms of nouns and pronouns
-2.  with the help of special suffixes and endings
+1. melalui bentuk kasus kata benda dan kata ganti
+2. dengan bantuan akhiran dan imbuhan khusus
 
-In the first case, the boundary between living case and adverb is fluid. This includes as a special case the adverbs that are fossilized, old case forms, while in the declension other forms are used or the corresponding nouns are no longer used as nouns.
+Dalam kasus pertama, batas antara kasus hidup dan kata keterangan bersifat cair. Ini mencakup sebagai kasus khusus kata-kata keterangan yang memfosil, bentuk-bentuk lama dari kasus, sementara dalam deklinasi digunakan bentuk lain atau kata benda yang sesuai tidak lagi digunakan sebagai kata benda.
 
 ## 37.2. Adverbial Use of Case Forms
 
 ### 37.2.1. Accusative (⟪द्वितीया⟫)
 
 ::: grammar-box
-The accusative (⟪द्वितीया⟫) can be used adverbially in response to the questions:
+Akusatif (⟪द्वितीया⟫) dapat digunakan secara adverbia sebagai respons terhadap pertanyaan:
 
 *   in what manner?
 *   how long?
@@ -32,27 +32,27 @@ The accusative (⟪द्वितीया⟫) can be used adverbially in respo
 
 The accusative can be used adverbially:
 
-*   with substantives  
-    Examples:  
-    ⟪कामम्⟫ "as wished, according to desire"  
-    ⟪अर्थम्⟫ "because of"  
-     
-*   with neuter adjectives  
-    Examples:  
-    ⟪सुखम्⟫ "easily, happily"  
-    ⟪नित्यम्⟫ "always"  
-    ⟪साधु⟫ "correctly, well"  
-     
-*   with neuter pronouns  
-    Examples:  
-    ⟪तद्⟫ "then, therefore"  
-    ⟪यद्⟫ "if, that"  
-    ⟪एतद्⟫ "thus, here, now"
+*   dengan kata benda  
+Contoh:  
+⟪कामम्⟫ "sesuai keinginan, menurut kehendak"  
+⟪अर्थम्⟫ "karena"  
+
+*   dengan kata sifat netral  
+Contoh:  
+⟪सुखम्⟫ "dengan mudah, dengan bahagia"  
+⟪नित्यम्⟫ "selalu"  
+⟪साधु⟫ "dengan benar, dengan baik"  
+
+*   dengan kata ganti netral  
+Contoh:  
+⟪तद्⟫ "kemudian, oleh karena itu"  
+⟪यद्⟫ "jika, bahwa"  
+⟪एतद्⟫ "demikian, di sini, sekarang"
 :::
 ### 37.2.2. Instrumental (⟪तृतीया⟫)
 
 ::: grammar-box
-The Instrumental (⟪तृतीया⟫) can be used adverbially in response to the questions:
+Kasus Aletif (⟪तृतीया⟫) dapat digunakan secara adverbial sebagai respons terhadap pertanyaan:
 
 *   by what means?
 *   with what?
@@ -60,33 +60,33 @@ The Instrumental (⟪तृतीया⟫) can be used adverbially in response 
 
 The Instrumental can be used adverbially:
 
-*   with nouns  
-    Examples:  
-    ⟪अर्थेन⟫ "because of"  
-    ⟪क्षणेन⟫ "at the moment, immediately" (from ⟪क्षण⟫ m. "moment")  
-     
-*   with adjectives, often also in the plural form  
-    Examples:  
-    ⟪दूरेण⟫ "distant, from afar" (related to ⟪दूर⟫ 3 "distant, far from")  
-    ⟪उच्चैस्⟫ "high, loud" (related to ⟪उच्च⟫ 3 "high, elevated, loud, shrill (of voice)")
+*   dengan kata benda  
+Contoh:  
+⟪अर्थेन⟫ "karena"  
+⟪क्षणेन⟫ "pada saat ini, segera" (dari ⟪क्षण⟫ m. "saat")  
+
+*   dengan kata sifat, sering juga dalam bentuk jamak  
+Contoh:  
+⟪दूरेण⟫ "jauh, dari jauh" (terkait dengan ⟪दूर⟫ 3 "jauh, jauh dari")  
+⟪उच्चैस्⟫ "tinggi, keras" (terkait dengan ⟪उच्च⟫ 3 "tinggi, tinggi, keras, nyaring (suara)")
 :::
-### 37.2.3. Dative (⟪चतुर्थी⟫)
+### 37.2.3. Dativ (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Rarely is the dative (⟪चतुर्थी⟫) used adverbially in response to the questions:
+Jaranglah kasus datif (⟪चतुर्थी⟫) digunakan secara adverbia sebagai respons terhadap pertanyaan:
 
 *   for what purpose?
 *   etc.
 
-Example:
+Contoh:
 :::
 ::: indent
-⟪अर्थाय⟫ "for the purpose of, for the sake of ..."
+⟪अर्थाय⟫ "untuk tujuan, demi ..."
 :::
-### 37.2.4. Ablative (⟪पञ्चमी⟫)
+### 37.2.4. Ablatif (⟪पञ्चमी⟫)
 
 ::: grammar-box
-The Ablative (⟪पञ्चमी⟫) can be used adverbially in response to the questions:
+Ablatif (⟪पञ्चमी⟫) dapat digunakan secara adverbia sebagai respons terhadap pertanyaan:
 
 *   why?
 *   on account of what?
@@ -95,41 +95,41 @@ The Ablative (⟪पञ्चमी⟫) can be used adverbially in response to t
 
 The Ablative can be used adverbially:
 
-*   with substantives  
-    e.g. ⟪बलात्⟫ "forcibly, by force"  
-     
-*   with adjectives  
-    e.g. ⟪दूरात्⟫ "from afar"  
-     
-*   with pronouns  
-    Examples:  
-    ⟪कस्मात्⟫ "why"  
-    ⟪अकस्मात्⟫ "unexpectedly"
+*   dengan kata benda  
+misalnya ⟪बलात्⟫ "secara paksa, dengan kekuatan"  
+
+*   dengan kata sifat  
+misalnya ⟪दूरात्⟫ "dari jauh"  
+
+*   dengan kata ganti  
+Contoh:  
+⟪कस्मात्⟫ "mengapa"  
+⟪अकस्मात्⟫ "secara tak terduga"
 :::
-### 37.2.5. Genitive (⟪षष्ठी⟫)
+### 37.2.5. Genitif (⟪षष्ठी⟫)
 
 ::: grammar-box
-Rarely is the genitive (⟪षष्ठी⟫) used adverbially to ask "after how long a time?"
+Jaranglah kasus genitif (⟪षष्ठी⟫) digunakan secara adverbial untuk menanyakan "setelah berapa lama?"
 
 e.g. ⟪चिरस्य⟫ "after a long time" (to ⟪चिर⟫ 3 "long (time)")
 :::
 ### 37.2.6. Locative (⟪सप्तमी⟫)
 
 ::: grammar-box
-The locative (⟪सप्तमी⟫) can be used adverbially in response to the questions:
+Lokatif (⟪सप्तमी⟫) dapat digunakan secara adverbia sebagai respons terhadap pertanyaan:
 
 *   where?
 *   under what circumstances?
 *   etc.
 
-Examples:
+Contoh:
 :::
 ::: indent
-\-⟪अर्थे⟫ "because of"  
-\-⟪कृते⟫ "for the sake of"  
-⟪दूरे⟫ "far"
+\-⟪अर्थे⟫ "karena"  
+\-⟪कृते⟫ "untuk kepentingan"  
+⟪दूरे⟫ "jauh"
 :::
-## 37.3. Adverbial Use of Case Forms No Longer in Common Use
+## 37.3. Penggunaan Adverbiaal Bentuk Kasus yang Tidak Lagi Umum Digunakan
 
 Examples:
 ::: indent
@@ -137,12 +137,12 @@ Examples:
 
 ⟪तूष्णीम्⟫ "silently" (acc.sg. to a no longer common ⟪तूष्णी⟫ f. "silence")
 
-⟪एवम्⟫ "thus" (to an otherwise lost pronominal stem ⟪एव⟫ "one, single")
+⟪एवम्⟫ "demikian" (terhadap batang kata ganti yang hilang ⟪एव⟫ "satu, tunggal")
 :::
-## 37.4. Formation of Adverbs with Adverbial Suffixes
+## 37.4. Pembentukan Kata Keterangan Dengan Akhiran Kata Keterangan
 
 ::: grammar-box
-From the pronominal stems ⟪तद्⟫, ⟪इदम्⟫ respectively ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ respectively ⟪कु⟫ one can derive corresponding pronominal adverbs with the adverbial suffixes
+Dari batang kata ganti ⟪तद्⟫, ⟪इदम्⟫ dan masing-masing ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ dan masing-masing ⟪कु⟫, dapat diturunkan kata keterangan ganti yang sesuai dengan akhiran kata keterangan
 
 *   \-⟪तस्⟫ (Ablative)
 *   \-⟪त्र⟫ (Locative)
@@ -154,14 +154,14 @@ accordingly.
 :::
 ::: grammar-box
 
-| Suffix | Pronominal Stem | | | |
+| Akhiran | Batang Pronominal | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | **⟪तद्⟫** | **⟪इदम्⟫**:br**⟪अ⟫-** | **⟪यद्⟫** | **⟪किम्⟫**:br**⟪कु⟫-** |
-| **-⟪तस्⟫**:br(Ablative) | **⟪ततस्⟫**:brfrom there, on that account, therefore | **⟪इतस्⟫**:br**⟪अतस्⟫**:brfrom here, on this account | **⟪यतस्⟫**:brfrom where, from what | **⟪कुतस्⟫**:brfrom where?, why? |
-| **-⟪त्र⟫**:br(Locative) | **⟪तत्र⟫**:brthere, there | **⟪अत्र⟫**:brhere | **⟪यत्र⟫**:brwhere | **⟪कुत्र⟫**:brwhere? |
-| **-⟪था⟫**:br(Manner) | **⟪तथा⟫**:brso | | **⟪यथा⟫**:brhow | |
-| **-⟪थम्⟫**:br(Manner) | | | | **⟪कथम्⟫**:brhow? |
-| **-⟪दा⟫**:br(Time) | **⟪तदा⟫**:brthen, at that time | | **⟪यदा⟫**:brwhen | **⟪कदा⟫**:brwhen? |
+| **-⟪तस्⟫**:br(Ablatif) | **⟪ततस्⟫**:brdari sana, karena itu, oleh karena itu | **⟪इतस्⟫**:br**⟪अतस्⟫**:brdari sini, karena ini | **⟪यतस्⟫**:brdari mana, dari apa | **⟪कुतस्⟫**:brdari mana?, mengapa? |
+| **-⟪त्र⟫**:br(Lokatif) | **⟪तत्र⟫**:brdi sana, di situ | **⟪अत्र⟫**:brdi sini | **⟪यत्र⟫**:brdi mana | **⟪कुत्र⟫**:brdi mana? |
+| **-⟪था⟫**:br(Manner) | **⟪तथा⟫**:brbegitu | | **⟪यथा⟫**:brbagaimana | |
+| **-⟪थम्⟫**:br(Manner) | | | | **⟪कथम्⟫**:brbagaimana? |
+| **-⟪दा⟫**:br(Waktu) | **⟪तदा⟫**:brkemudian, pada waktu itu | | **⟪यदा⟫**:brketika | **⟪कदा⟫**:brkapan? |
 
 :::
 ::: grammar-box
@@ -176,50 +176,50 @@ Fig.: ⟪क्व⟫
 
 **Further Adverbial Suffixes**
 
-| Suffix | |
+| Akhiran | |
 | :--- | :--- |
-| **-⟪वत्⟫** | can be attached to any nouns to express "in the manner of, like":bre.g. **⟪पुत्रवत्⟫** "like a son" |
-| **-⟪तस्⟫** | to nouns and pronouns. Mostly ablative meaning "from where?", but also "where?", "to where?":bre.g. **⟪आदितस्⟫** "from the beginning" |
-| **-⟪धा⟫** | 1. With numeral adverbs in the meaning "-fold", "-fold":bre.g. **⟪द्विधा⟫** "twofold":br2. in the meaning "in such and such a way":bre.g. **⟪समधा⟫** "in the same way" (to **⟪सम⟫** 3 "same") |
+| **-⟪वत्⟫** | dapat dilekatkan pada kata benda apa pun untuk menyatakan "dengan cara, seperti":bre.g. **⟪पुत्रवत्⟫** "seperti seorang putra" |
+| **-⟪तस्⟫** | pada kata benda dan kata ganti. Sebagian besar makna ablative "dari mana?", tetapi juga "di mana?", "ke mana?":bre.g. **⟪आदितस्⟫** "dari awal" |
+| **-⟪धा⟫** | 1. Dengan kata bilangan adverbial dalam makna "-lipat", "-lipat":bre.g. **⟪द्विधा⟫** "dua kali lipat":br2. dalam makna "dengan cara tertentu":bre.g. **⟪समधा⟫** "dengan cara yang sama" (ke **⟪सम⟫** 3 "sama") |
 
 :::
 ## 37.5. Adverbial Compounds
 
-### 37.5.1. Compounds with an Adverb or a Case Used Adverbially as the Second Member
+### 37.5.1. Kata Majemuk dengan Adverbia atau Kasus yang Digunakan secara Adverbial sebagai Anggota Kedua
 
 Example: ⟪सुचिरम्⟫ "very long (time)"
 
 ### 37.5.2. Adverbial use of ⟪बहुव्रीहि⟫
 
-Example: ⟪रक्षार्थम्⟫ "in the manner of someone whose purpose is protection, for the purpose of protection". It may also be regarded as belonging to 5.1.: -⟪अर्थम्⟫ as an adverbial second member.
+Contoh: ⟪रक्षार्थम्⟫ "dengan cara seseorang yang tujuannya adalah perlindungan, untuk tujuan perlindungan". Ini juga dapat dianggap sebagai bagian dari 5.1.: -⟪अर्थम्⟫ sebagai anggota kedua adverbial.
 
 ### 37.5.3. ⟪अव्ययीभाव⟫-Composites
 
 ⟪अव्ययीभाव⟫ = "become unchangeable/indeclinable"
 
 ::: grammar-box
-An ⟪अव्ययीभाव⟫ is an adverbial compound whose first member is an indeclinable (postposition, particle, etc.) and whose second member is a noun that takes the ending of the accusative singular neuter.
+An ⟪अव्ययीभाव⟫ adalah majemuk adverbia yang anggota pertamanya adalah kata takterbuai (postposisi, partikel, dll.) dan anggota keduanya adalah kata benda yang mengambil akhiran akusatif tunggal neuter.
 
-When resolving the compound, the first member would govern the second member:
+Saat menyelesaikan majemuk tersebut, anggota pertama akan menguasai anggota kedua:
 
 Examples:
 :::
 ::: indent
 ⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "against the fire"
 
-⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "to the best of one's ability"
+⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "seoptimal mungkin"
 
-⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "forward, towards"
+⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "maju, ke arah"
 :::
-Especially important are ⟪अव्ययीभाव⟫ with ⟪यथा⟫ "as" as the first member:
+Sangat penting adalah ⟪अव्ययीभाव⟫ dengan ⟪यथा⟫ "sebagai" sebagai anggota pertama:
 
-e.g. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "as the desire is, according to desire, arbitrarily"
+mis. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "sesuai keinginan, menurut keinginan, sewenang-wenang"
 ::: media
 ![lekt3702.jpg](/images/lekt3702.webp)
 Fig.: ⟪यथाशक्ति⟫
-(Image source: [Details](/en/licenses#lekt3702))
+(Sumber gambar: [Details](/en/licenses#lekt3702))
 :::
-## 37.6. Syntactical
+## 37.6. Sintaksis
 
 ::: grammar-box
 With the verbs
@@ -246,7 +246,7 @@ Kata ganti tak tentu (unbestimmte Fürwörter) dibentuk dengan menambahkan
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-to the cases of the interrogative pronoun ⟪किम्⟫.
+pada kasus-kasus kata tanya ⟪किम्⟫.
 
 e.g.
 :::
@@ -265,9 +265,9 @@ He who does not ask remains stupid."
 ⟪यो⟫ ⟪न⟫ ⟪पृच्छेन्⟫  
 ⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
 
-Motto of Sesame Street, which is a good guideline for life and for the study of Sanskrit
+Motto Jalan Sesame, yang merupakan pedoman baik untuk kehidupan dan untuk studi Sanskerta
 :::
-See also [Lesson 4](lektion04.md).
+Lihat juga [Pelajaran 4](lektion04.md).
 
 One must distinguish
 
@@ -282,10 +282,10 @@ In word questions, one asks about an agent (⟪कर्तृ⟫), an object, a
 *   how does she speak Sanskrit?
 *   where is the mother?
 
-In sentence questions, the entire content of the sentence is queried, e.g.
+In Fragesätzen wird der gesamte Inhalt des Satzes abgefragt, z.B.
 
-*   is Rāma going to Ofterdingen today?
-*   is it true that ... ?
+*   geht Rāma heute nach Ofterdingen?
+*   ist es wahr, dass ... ?
 
 ### 37.8.1. Word Questions (Supplementary Questions)
 
@@ -310,21 +310,21 @@ Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
 ### 37.8.2. Interrogative Sentences
 
 ::: grammar-box
-Sometimes it is only clear from the context whether a sentence is an interrogative sentence.
+Terkadang hanya dari konteksnya saja terlihat apakah sebuah kalimat adalah kalimat interogatif.
 :::
 ::: grammar-box
-Schema I:
+Skema I:
 
-Verb - rest of the sentence
+Kata kerja - sisa kalimat
 :::
-Example:
+Contoh:
 ::: indent
-⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Will the Brāhmaṇa boy go to become a master?"
+⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Apakah anak Brāhmaṇa akan pergi untuk menjadi guru?"
 :::
 ::: grammar-box
-Schema II:
+Skema II:
 
-Interrogative particle (usually at the beginning of the sentence) - sentence
+Partikel interogatif (biasanya di awal kalimat) - kalimat
 
 The most important interrogative particles are:
 
@@ -335,35 +335,35 @@ The most important interrogative particles are:
 *   ⟪कच्चिद्⟫
     
 
-These particles correspond to the question mark.
+Partikel-partikel ini sesuai dengan tanda tanya.
 :::
-Example:
+Contoh:
 ::: indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Is it also true?"
+⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Apakah itu juga benar?"
 
 ⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Can he, then?"
 
-⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Has the Kṣatriya perhaps defeated the enemies?"
+⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Mungkinkah ksatria telah mengalahkan musuh-musuh?"
 :::
-Note: ⟪किम्⟫ can mean, besides "what?" and as an interrogative particle, also "why?, for what purpose?". So esp. with the instrumental case (⟪तृतीया⟫):
+Catatan: ⟪किम्⟫ dapat berarti, selain "apa?" dan sebagai partikel interogatif, juga "mengapa?, untuk tujuan apa?". Jadi terutama dengan kasus instrumental (⟪तृतीया⟩):
 ::: indent
-⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "For what purpose the anger? What is the use of the anger? What is the purpose of the anger?"
+⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "Untuk tujuan apa kemarahan? Apa gunanya kemarahan? Apa tujuan dari kemarahan?"
 :::
-## 37.9. Word List
+## 37.9. Daftar Kata
 
 ⟪मूर्ख⟫ 3: stupid, foolish, dumb m. fool
 
 ⟪मुनि⟫ m.: sage, (silent) ascetic
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: ascetic from the lineage of the ⟪शाक्य⟫ (Kṣatriyas from ⟪कपिलवस्तु⟫) = Buddha Gautama
+⟪शाक्यमुनि⟫ m.: pertapa dari garis keturunan ⟪शाक्य⟫ (Kṣatriyas dari ⟪कपिलवस्तु⟫) = Buddha Gautama
 :::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Fig.: ⟪शाक्यमुनिः⟫
-(Image source: [Details](/en/licenses#lekt3705))
+(Sumber gambar: [Details](/en/licenses#lekt3705))
 ::::
 :::
-⟪दिन⟫ n.: day
+⟪दिन⟫ n.: hari
 
 ⟪वृक्ष⟫ m.: tree
 
@@ -376,7 +376,7 @@ Fig.: ⟪वृक्षः⟫
 
 ## 37.10. Exercise
 
-A) Answer the following questions in Sanskrit using the words specified in parentheses. Translate the question sentences.
+[A] Jawab pertanyaan-pertanyaan berikut dalam bahasa Sanskerta menggunakan kata-kata yang ditentukan dalam tanda kurung. Terjemahkan kalimat pertanyaan tersebut.
 
 Example: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
 
@@ -506,7 +506,7 @@ Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 
 Translate into Sanskrit using exclusively perfect tense verb forms:
 
-Once an old man went to another village; he grew tired on the way. So he went to the foot of a mango tree standing by the side to rest. On this tree there were ripe fruits. The old man desired these. But he could not climb the tree and reach for the fruits. Fortunately, there were some monkeys on this tree eating fruits. When he saw these, the old man rejoiced. What did he do? He took some stones, aimed at the monkeys, and threw. The enraged monkeys plucked some fruits and threw them at the old man. The old man joyfully took these and went to his desired destination. Behold, the fate of the old man!
+Suatu kali, seorang lelaki tua pergi ke desa lain; ia merasa lelah di sepanjang jalan. Maka, ia pergi ke bawah pohon mangga yang berdiri di tepi untuk beristirahat. Di pohon ini terdapat buah-buahan yang matang. Lelaki tua itu menginginkan buah tersebut. Namun, ia tidak dapat memanjat pohon dan mengambil buah-buahan itu. Untungnya, ada beberapa monyet di pohon ini yang sedang memakan buah-buahan. Ketika ia melihatnya, lelaki tua itu merasa senang. Apa yang dilakukannya? Ia mengambil beberapa batu, mengarahkannya pada monyet-monyet itu, dan melemparkannya. Monyet-monyet yang marah memetik beberapa buah dan melemparkannya kepada lelaki tua itu. Lelaki tua itu dengan gembira menerima buah-buahan tersebut dan melanjutkan perjalanannya ke tujuan yang diinginkannya. Lihatlah nasib lelaki tua itu!
 
 ::: deleteme-box
 

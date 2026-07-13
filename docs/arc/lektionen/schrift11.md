@@ -1,6 +1,6 @@
-# Writing Exercise 11
+# Writing ܬܪܓܡܬܐ 11
 
-### Digits
+### ܐܶܣܛܰܘ̈ܳܬܳܐ
 
 The following two spellings are common:
 
@@ -10,7 +10,7 @@ Variant in the typeface of Kielhorn’s Grammar:
 
 ![](/images/schrift027.jpg)
 
-### Exercise
+### ܬܪܓܠܐ
 
 A) Write in Devanāgarī:
 
@@ -20,10 +20,10 @@ B) Read and transliterate:
 
 ⟪१२⟫ ⟪२३⟫ ⟪२४⟫ ⟪५३६⟫ ⟪६५⟫ ⟪८७⟫ ⟪१९४४⟫ ⟪२००८⟫ ⟪९९०⟫ ⟪८७⟫ ⟪७६⟫ ⟪६५⟫ ⟪५४⟫ ⟪४३⟫ ⟪३२⟫ ⟪२१⟫ ⟪१९⟫ ⟪२८⟫ ⟪८३⟫ ⟪७४⟫ ⟪५७⟫ ⟪६६⟫
 
-### Classification of Sanskrit Sounds (from: Kielhorn: Grammar of the Sanskrit Language)
+### ܕܪܓܐ ܕܩ̈ܠܝ ܣܢܣܩܪܝܛ (ܡܢ: ܟܝܠܗܘܪܢ: ܕקדܩܐ ܕܠܫܢܐ ܣܢܣܩܪܝܛ)
 
 ![](/images/schrift028.webp)
 
-### End of Writing Exercises
+### End of Writing ܬܪܓܠܐs
 
 ## ⟪ॐ⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪ॐ⟫

@@ -6,9 +6,9 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 2
+# ܬܪܓܠܐ 2
 
-A) Insert the specified names and nouns into the following sentences, observing Sandhi, and form nominal sentences:
+[A] הכיני את שמותיהם ואת המילים הנקובים במשפטים הבאים, תוך שמירה על סנדי, וצרו משפטים שמיים:
 
 1\. devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra) = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 
@@ -66,7 +66,7 @@ sādhuḥ śūdraḥ.
 
 ⟪साधुः⟫ ⟪शूद्रः⟫
 
-4\. The poet is the teacher.
+4\. ܣܘܪܝܐ ܗܘ ܡܠܦܢܐ.
 
 guruḥ kaviḥ.
 

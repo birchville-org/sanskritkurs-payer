@@ -36,7 +36,7 @@ status: stable
 ### 49.1.2. Fifth Present Class (⟪स्वादि⟫)
 
 ::: grammar-box
-The 2.sg.P Imperative is endingless for roots of the 5th and 8th class, where only a consonant precedes the final -u of the suffix.
+Imperatif 2.sg.P berakhiran nol untuk akar kelas ke-5 dan ke-8, di mana hanya konsonan mendahului -u akhir dari sufiks.
 :::
 ⟪सु⟫ 5U
 
@@ -88,12 +88,12 @@ The 2.sg.P Imperative is endingless for roots of the 5th and 8th class, where on
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪क्रीणानि⟫:brkrī-ṇā + āni | ⟪क्रीणाम⟫ | ⟪क्रीणै⟫:brkrī-ṇā + ai | ⟪क्रीणामहै⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪क्रीणीहि⟫ | ⟪क्रीणीत⟫ | ⟪क्रीणीष्व⟫ | ⟪क्रीणीध्वम्⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
+| **Orang Pertama**:br⟪तृतीयः⟫ | ⟪क्रीणानि⟫:brkrī-ṇā + āni | ⟪क्रीणाम⟫ | ⟪क्रीणै⟫:brkrī-ṇā + ai | ⟪क्रीणामहै⟫ |
+| **Orang Kedua**:br⟪मध्यमः⟫ | ⟪क्रीणीहि⟫ | ⟪क्रीणीत⟫ | ⟪क्रीणीष्व⟫ | ⟪क्रीणीध्वम्⟫ |
+| **Orang Ketiga**:br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
 :::
 ::: grammar-box
-Roots of the 9th class ending in a consonant replace the final -nī-hi of the 2.sg. Imperative with -āna
+Akar kelas 9 yang berakhir dengan konsonan mengganti akhir -nī-hi Imperatif ke-2.sg. dengan -āna
 :::
 ⟪ग्रह्⟫ 9U
 
@@ -129,17 +129,17 @@ Roots of the 9th class ending in a consonant replace the final -nī-hi of the 2.
 :::
 #### Masculines (⟪पुंस्⟫) and Feminines (⟪स्त्री⟫)
 
-Most cases are **⟪बहुव्रीहि⟫** with a -s stem (originally neuter) in the second member.
+Sebagian besar kasus adalah **⟪बहुव्रीहि⟫** dengan akhiran -s (asalnya netral) pada anggota kedua.
 
 ::: grammar-box
-| | **⟪सुमनस्⟫ 3**:br"of good thinking, benevolent" | **⟪दीर्घायुस्⟫ 3**:br"long-lived" |
+| | **⟪सुमनस्⟫ 3**:br"berpikir baik, welas asih" | **⟪दीर्घायुस्⟫ 3**:br"umur panjang" |
 | :---: | :---: | :---: | :---: |
 | **⟪एकवचनम्⟫** | | |
 | **⟪प्रथम⟫** | ⟪सुमनास्⟫ | ⟪दीर्घायुस्⟫ |
 | **⟪द्विटिया⟫** | ⟪सुमनसम्⟫ | ⟪दीर्घायुषम्⟫ |
 | **⟪आमन्त्रितम्⟫** | ⟪सुमनस्⟫ | ⟪दीर्घायुस्⟫ |
 :::: indent
-Remaining cases of the singular as with Neuter
+Kasus tunggal yang tersisa sama dengan Netral
 ::::
 :::
 ::: grammar-box
@@ -149,24 +149,24 @@ Remaining cases of the singular as with Neuter
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसस्⟫ | ⟪दीर्घायुषस्⟫ |
 :::
 ::: indent
-Remaining cases of the plural as with Neuter
+Kasus jamak yang tersisa sama dengan Netral
 :::
-## 49.3. Nominal Derivation: ⟪कृत्⟫-Suffix -as Neuter
+## 49.3. Penurunan Nominal: Akhiran Netral ⟪कृत्⟩-as
 
-With the ⟪कृत्⟫-suffix -as Neuter, numerous nouns are formed. Mostly these are abstracta or nomina actionis (words that denote the action).
+Dengan akhiran Netral ⟪कृत्⟩-as, banyak kata benda dibentuk. Sebagian besar adalah abstrakta atau nomina actionis (kata-kata yang menyatakan tindakan).
 
-A short vowel of the root before a simple consonant and a final root vowel appear in the strong grade.
+Vokal pendek dari akar sebelum konsonan sederhana dan vokal akhir akar muncul dalam tingkat kuat.
 
 Examples:
 
 ::: grammar-box
-| Root | Noun on -as |
+| Akar | Kata benda pada -as |
 | --- | --- |
-| ⟪मन्⟫ 4Ā "to think" | ⟪मनस्⟫ n. "thinking, thought, organ of thought" |
-| ⟪नम्⟫ 1P "to bend" | ⟪नमस्⟫ n. "bowing, reverence" |
-| ⟪चित्⟫ 1P "to perceive, to think" | ⟪चेतस्⟫ n. "insight" |
+| ⟪मन्⟫ 4Ā "berpikir" | ⟪मनस्⟫ n. "berpikir, pikiran, alat berpikir" |
+| ⟪नम्⟫ 1P "membungkuk" | ⟪नमस्⟫ n. "membungkuk, penghormatan" |
+| ⟪चित्⟫ 1P "mempersepsikan, berpikir" | ⟪चेतस्⟫ n. "wawasan" |
 :::
-Nouns on -is and -us are relatively rare.
+Kata benda pada -is dan -us relatif jarang.
 
 ::: media
 ![](/images/lekt4907.webp)
@@ -190,7 +190,7 @@ see:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer \<1944 - \>. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer \&lt;1944 - \&gt;. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : throw, hurl
 
@@ -269,10 +269,10 @@ Fig.: ⟪वेषः⟫
 ::: media
 ![](/images/lekt4909.webp)
 Fig.: ⟪पञ्जरम्⟫
-Fortune teller with parrot in cage: the parrot draws slips of paper on which fate is written Mysore
-(Image source: [Details](/en/licenses#lekt4909))
+Peramal dengan burung beo dalam sangkar: burung beo menarik potongan kertas di mana takdir ditulis Mysore
+(Sumber gambar: [Details](/en/licenses#lekt4909))
 :::
-⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: lowest level of the [Dalits](http://de.wikipedia.org/wiki/Dalit)
+⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: tingkat terendah dari [Dalit](http://de.wikipedia.org/wiki/Dalit)
 
 ⟪स्वयम्⟫ Indecl.: self, of itself
 
@@ -359,7 +359,7 @@ Determine the following forms:
 
 ⟪बान⟫ (7th cent. CE): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, p. 35f.
 
-Questions of King ⟪शूद्रक⟫ of ⟪विदिशा⟫ to the Parrot ⟪वैशम्पायन⟫:
+Pertanyaan Raja ⟪शूद्रक⟫ dari ⟪विदिशा⟫ kepada Burung Beo ⟪वैशम्पायन⟫:
 
 ⟪नरपतिरब्रवीत्⟫ ⟪।⟫ ⟪आस्तां⟫ ⟪तावत्सर्वमेवेदम्⟫ ⟪।⟫ ⟪अपनयतु⟫ ⟪नः⟫ ⟪कुतूहलम्⟫ ⟪।⟫ ⟪आवेदयतु⟫ ⟪भवानादितः⟫ ⟪प्रभृति⟫ ⟪कार्त्न्येनात्मनो⟫ ⟪जन्म⟫ ⟪कस्मिन्देशे⟫ ⟪।⟫ ⟪भवान्कथं⟫ ⟪जातः⟫ ⟪।⟫ ⟪केन⟫ ⟪वा⟫ ⟪नाम⟫ ⟪कृतम्⟫ ⟪।⟫ ⟪का⟫ ⟪माता⟫ ⟪।⟫ ⟪कस्ते⟫ ⟪पिता⟫ ⟪।⟫ ⟪कथं⟫ ⟪वेदानामागमः⟫ ⟪।⟫ ⟪कथं⟫ ⟪शास्त्राणां⟫ ⟪परिचयः⟫ ⟪।⟫ ⟪कुतः⟫ ⟪कलाः⟫ ⟪समासादिताः⟫ ⟪।⟫ ⟪किं⟫ ⟪जन्मान्तरानुस्मरणमुत⟫ ⟪वरप्रदानम्⟫ ⟪।⟫ ⟪अथवा⟫ ⟪विहंगवेषधारी⟫ ⟪कश्चिच्छन्नं⟫ ⟪विवससि⟫ ⟪।⟫ ⟪क्व⟫ ⟪वा⟫ ⟪पूर्वमुषितम्⟫ ⟪।⟫ ⟪कियद्वा⟫ ⟪वयः⟫ ⟪।⟫ ⟪कथं⟫ ⟪पञ्जरबन्धः⟫ ⟪।⟫ ⟪कथं⟫ ⟪चाण्डालहस्तगमनम्⟫ ⟪।⟫ ⟪इह⟫ ⟪वा⟫ ⟪कथमागमनमिति⟫ ⟪।⟫
 
@@ -383,7 +383,7 @@ Plum-headed parakeet = Psittacula cyanocephala
 
 **lekt4904:** ⟪वाराणस्याम्⟫ [Image source: pyjama. -- [http://www.flickr.com/photos/rpt/319410503/](http://www.flickr.com/photos/rpt/319410503/). -- Accessed on 2009-01-11. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
 
-**lekt4909:** Fortune teller with parrot in cage: the parrot draws slips of paper on which fate is written Mysore [Image source: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
+**lekt4909:** Peramal dengan burung beo dalam sangkar: burung beo mengundi kertas-kertas tempat takdir tertulis Mysore [Sumber gambar: prakhar. -- [http://www.flickr.com/photos/prakhar/2735441620/](http://www.flickr.com/photos/prakhar/2735441620/). -- Diakses pada 2009-01-12. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribusi)]
 
 **lekt4905:** Amritsar = ਅੰਮ੍ਰਿਤਸਰ [Image source: Koshyk. -- [http://www.flickr.com/photos/kkoshy/2154426738/](http://www.flickr.com/photos/kkoshy/2154426738/). -- Accessed on 2009-01-11. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
 

@@ -7,22 +7,22 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lesson 26
+# ܕܪܫܐ 26
 
-## 26.1. Rule of Cerebralization for -s- within the word
+## 26.1. ܦܘܩܕܢܐ ܕܡܘܚܐ ܠـ -s- ܠܓܘ ܡܠܬܐ
 
 ::: grammar-box
 **-s-** is replaced by **-ṣ-**, when **k, r, l** or a **vowel** — other than **a, ā** — precedes immediately or only separated by ⟪अनुस्वार⟫ or ⟪विसर्ग⟫ and another sound than **ṛ, r** follows.
 
-This Sandhi also applies to **⟪दुस्⟫-** before voiceless gutturals and labials in compounds.
+ينطبق هذا الساندِ أيضاً على **⟪दुस्⟫-** قبل الحروف الغارية والعربية الصامتة في المركبات.
 :::
-*Examples:*
+*أمثلة:*
 ::: indent
-⟪तेषाम्⟫ (from: *te-sām*)
+⟪तेषाम्⟫ (من: *te-sām*)
 
 but: ⟪तासाम्⟫ (*tā-sām*)
 :::
-## 26.2. Law of Cerebralization for Dental Stops within the Word
+## 26.2. ܢܡܘܣܐ ܕܡܘܚܐ ܠܩܢܨܘܢܢܛ̈ܐ ܫܢܢܝ̈ܐ ܓܘ ܡܠܬܐ
 
 ::: grammar-box
 Dental stops are replaced by their corresponding retroflexes after retroflex consonants (including **-ṣ-**):
@@ -31,17 +31,17 @@ Dental stops are replaced by their corresponding retroflexes after retroflex con
 - **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
 *(**ṣ** due to the preceding **i**, **ṭh** due to the subsequently following **ṣ**)*
 :::
-## 26.3. Word Sandhi for Palatals, Velars, ṣ, h + -s
+## 26.3. ܣܲܢܕܝܼ ܕܡܶܠܬܵܐ ܠܦܵܠܵܛܵܠܵܝ̈ܳܐ، ܒܹܠܵܪ̈ܳܐ، ܨ، ܗܹܐ + -ܣ
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
 Examples see below
 :::
-## 26.4. Grassmann's Law of Aspirate Dissimilation
+## 26.4. ܢܡܘܣܐ ܕܓܪܣܡܢ ܕܦܘܪܫܐ ܕܐܣܦܝܪܐܛܐ
 
 ::: grammar-box
-**A direct sequence of two aspirates (aspirate - vowel - aspirate) results in the loss of aspiration on the first sound:**
+**סדר מישܪܐ ܕܬܪܬ̈ܝܢ ܚܫܦ̈ܐ (חשׁף - מלܬܐ - חשׁף) ܕܓܝܪ ܒܨܠܬܐ ܥܠܝܢܐ:**
 
 Example:
 
@@ -49,7 +49,7 @@ Example:
 ::: indent
 \*dhu(gh) » du(g)h
 :::
-**If the second sound loses its aspiration due to phonetic laws, then aspiration reappears on the first sound.**
+**ܐܝ ܬܘܪ ܫܘܢܐ ܕܝܠܦ ܡܪܝܗ ܒܐܘܪ̈ܚܐ ܦܣܝܩܝܬܐ، ܕܘܪ̈ܟܢܘܬܐ ܡܕܥܩ ܒܫܘܢܐ ܪܝܫܹܐ.**
 
 Examples: see below future of  ⟪दुह्⟫ and  ⟪बुध्⟫
 ::: media
@@ -57,14 +57,14 @@ Examples: see below future of  ⟪दुह्⟫ and  ⟪बुध्⟫
 Fig.: Hermann Grassmann
 (Image source: [Details](/arc/licenses#lekt2601))
 :::
-## 26.5. Wortsandhi for -m, -n before sibilants
+## 26.5. ܣܢܕܗܝ ܕܡ̈ܠܐ ܠ-ܡ, -ܢ ܩܕܡ ܫ̈ܪܩܢܝܬܐ
 
 ::: grammar-box
 **Before sibilants, -n and -m are replaced by -ṃ-:**
 
 Example: s. below future of ⟪मन्⟫
 :::
-## 26.6. Usage of the simple future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.6. ܡܰܦܠܰܚܬܳܐ ܕܥܬܺܝܕܳܐ ܦܫܺܝܛܳܐ (⟪ܠܺܝܬ⟫, ⟪ܒܰܗܰܒܺܝܫܝܰܢܬܺܝ⟫ ܢ.)
 
 ::: grammar-box
 **The simple future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) expresses:**
@@ -78,16 +78,16 @@ Example: s. below future of ⟪मन्⟫
 - **speaker's opinion**
 - **command/order**
 
-**The future tense partially competes with the optative (see later).**
+**Die Zukunftsform konkurriert teilweise mit dem Optativ (siehe später).**
 :::
-e.g. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Someone who wishes to make a vow goes to the temple."
+z.B. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = „Wer ein Gelübde ablegen möchte, geht zum Tempel.“
 
 ::: media
 ![](/images/lekt2602.webp)
 Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
 (Image source: [Details](/arc/licenses#lekt2602))
 :::
-## 26.7. Formation of the simple future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.7. ܨܘܪܬܐ ܕܥܬܝܕܐ ܦܫܝܛܐ (ܠܬ, ܒܗܘܝܫܝܢܬܝ ܢܩܒܬܐ)
 
 ::: grammar-box
 **Simple Future:**
@@ -101,13 +101,13 @@ Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ 
 
 :::
 ::: indent
-**(mostly) guṇa-strengthened root + -sya**  
-**or**  
-**(mostly) guṇa-strengthened root + -i- + -sya (= - iṣya)**
+**(לעילא) שרשא מְחַזֵּקָה בְּגוּנָא + -sya**  
+**אוֹ**
+**(לעילא) שרשא מְחַזֵּקָה בְּגוּנָא + -i- + -sya (= - iṣya)**
 :::
-**One must learn with the stem forms which root has which formation of the future stem!**  
-**In general, the root form and connecting vowel of the future correspond to those of the infinitive.**  
-**Some roots can optionally form the future with and without the connecting vowel -i-.**  
+**עָלַיִךְ לְמֵידַע עִם שְׁרָשֵׁי הַשּׁוֹרֶשׁ אֵית לְמַאי טַעֲמָא דִּשְׁרָשָׁא?**
+**בִּכְלַל, שְׁרָשָׁא וְקוֹל הַמְחַבֵּר דִּשְׁרָשָׁא מִתְכַּוְּנֵי לְהָדָר.**
+**כַּמָּה שְׁרָשִׁין יְכֵילִין לַעֲבָדָא הֲדָר בְּקוֹל מְחַבֵּר -i- אוֹ בְּלָא.**
 **The Parasmaipada participle of the future is formed by adding the suffix -nt- to the future stem, feminine optionally on -ntī or -tī:**
 
 ::: indent
@@ -134,9 +134,9 @@ Examples:
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
 :::
-## 26.8. Exercise
+## 26.8. ܬܪܓܠܐ
 
-Form the future tense forms corresponding to number, person, and gender (Parasmaipada, Ātmanepada):
+ܡܪܟܒ ܐܘܬܒܝ̈ܘܬ ܕܙܡܢ ܐܪܟܒܐ ܠܦܬܚܐ ܕܡܢܘ̈ܗܝ ܘܠܦܬܚܐ ܕܡܢܘ̈ܗܝ (ܦܪܣܡܐܝܦܕܐ, ܐܬܡܢܐܦܕܐ):
 
 A) without connecting vowel -i-:
 

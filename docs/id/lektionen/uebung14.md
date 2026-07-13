@@ -15,7 +15,7 @@ Translate the following proverbs and memorize them:
 A low person neither speaks nor acts; a good person does not speak, but acts.
 
 ⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥२॥⟫  
-Virtue is the ornament of man.
+Kebajikan adalah hiasan manusia.
 
 ⟪सत्येन⟫ ⟪जनानां⟫ ⟪सुखं⟫ ⟪भवति⟫ ⟪॥३॥⟫  
 Through truth, people attain happiness.
@@ -24,9 +24,9 @@ Through truth, people attain happiness.
 Evil people do not enter heaven.
 
 ⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫  
-Truth is the light of the world.
+Kebenaran adalah cahaya dunia.
 
-A) Form the genitive singular and plural for the following words. Provide the meaning and gender of the words:
+A) Bentuklah kasus genitif tunggal dan jamak untuk kata-kata berikut. Berikan makna dan jenis kelamin kata-katanya:
 
 ⟪१⟫. ⟪अनृत⟫ : n. untruth — ⟪अनृतस्य⟫ ⟪अनृतानाम्⟫
 
@@ -136,8 +136,8 @@ A) Form the genitive singular and plural for the following words. Provide the me
 
 B) Translate:
 
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 possibilities)
-The son of the Brahmin has gone to the village of the Brahmin woman. The son of the Brahmin has gone to the village with the Brahmin woman.
+⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 kemungkinan)
+Putra dari Brahmin telah pergi ke desa wanita Brahmin. Putra dari Brahmin telah pergi ke desa bersama wanita Brahmin.
 
 ⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
 The sacrificial fire has burned the food.
@@ -146,7 +146,7 @@ The sacrificial fire has burned the food.
 Buddha was liberated through the knowledge of truth.
 
 ⟪४⟫. ⟪अधर्मो⟫ ⟪ऽनृतस्य⟫ ⟪वदनमित्यृषयो⟫ ⟪वदन्ति⟫ ⟪।⟫
-The Vedic sages say that speaking untruth is wrong.
+Para resi Weda menyatakan bahwa mengucapkan ketidakbenaran adalah salah.
 
 ⟪५⟫. ⟪नरा⟫ ⟪देवानां⟫ ⟪यज्ञैर्न⟫ ⟪मुच्यन्ते⟫ ⟪।⟫
 People are not liberated through sacrifices to gods.
@@ -155,10 +155,10 @@ People are not liberated through sacrifices to gods.
 The powerful Kṣatriyas conquer the rich cities of the enemies.
 
 ⟪७⟫. ⟪कवेरुक्तिं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
-They hear the verse of the poet.
+Mereka mendengar bait penyair.
 
 ⟪८⟫. ⟪कविर्देव्याः⟫ ⟪कृतं⟫ ⟪वद⟫ti ⟪।⟫
-The poet relates the deed of the goddess.
+Penyair menceritakan perbuatan dewi.
 
 ⟪९⟫. ⟪द्विजाः⟫ ⟪पशोर्लाभमिच्छन्ति⟫ ⟪।⟫
 Twice-born desire to obtain cattle.

@@ -6,11 +6,11 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 25
+# ܬܪܓܠܐ 25
 
 A) Complete the declension examples from Lesson 16 by adding 4. Dative (⟪चतुर्थी⟫) and 5. Ablative (⟪पञ्चमी⟫).
 
-### ⟪१⟫. **⟪सन्त्⟫** (being, good)
+### 1. ܣܢܬ (ܗܘܐ, ܛܒܐ)
 
 | Case | m. Singular | m. Plural | n. Singular | n. Plural |
 | :--- | :--- | :--- | :--- | :--- |
@@ -20,7 +20,7 @@ A) Complete the declension examples from Lesson 16 by adding 4. Dative (⟪च�
 | 4. Dat. | ⟪सते⟫ | ⟪सद्भ्यः⟫ | ⟪स⟫ate | ⟪सद्भ्यः⟫ |
 | 5. Abl. | ⟪सतः⟫ | ⟪सद्भ्यः⟫ | ⟪सतः⟫ | ⟪सद्भ्यः⟫ |
 
-### ⟪२⟫. **⟪महान्त्⟫** (great)
+### ⟪2⟫. **⟪ܡܲܗܵܢܬ⟫** (ܪܲܒܵܐ)
 
 | Case | m. Singular | m. Plural | n. Singular | n. Plural |
 | :--- | :--- | :--- | :--- | :--- |
@@ -30,7 +30,7 @@ A) Complete the declension examples from Lesson 16 by adding 4. Dative (⟪च�
 | 4. Dat. | ⟪महते⟫ | ⟪महद्भ्यः⟫ | ⟪महते⟫ | ⟪महद्भ्यः⟫ |
 | 5. Abl. | ⟪महतः⟫ | ⟪महद्भ्यः⟫ | ⟪महतः⟫ | ⟪महद्भ्यः⟫ |
 
-### ⟪३⟫. **⟪यद्⟫** (which, who)
+### ⟪ܓ⟫. **⟪ܝܰܕ⟫** (ܕܰܐܝܢܳܐ, ܕܰܐܝܢܳܐ)
 
 | Case | m. Sg. | m. Pl. | n. Sg. | n. Pl. | f. Sg. | f. Pl. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -42,10 +42,10 @@ A) Complete the declension examples from Lesson 16 by adding 4. Dative (⟪च�
 B) Translate and resolve the compounds in Sanskrit:
 
 ⟪१⟫. **⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫**
-At the teacher's instruction, Rāma goes from the village to the city, enters the house of the saint, respectfully presents himself before the saint, and speaks: "Enough of anger!"
+על פי הוראת המורה, רָמָה יוצא מהכפר אל העיר, נכנס לבית הקדוש, מציג את עצמו בכבוד לפני הקדוש ואומר: "די לכעס!"
 
 ⟪२⟫. **⟪गुरोरधर्मः⟫ ⟪श्रोतुं⟫ ⟪न⟫ ⟪शक्यत⟫ ⟪इति⟫ ⟪श्रुत्या⟫ ⟪च⟫ ⟪स्मृतिभिश्चोद्यते⟫ ⟪॥२॥⟫**
-The Veda (śruti) and the tradition (smṛti) say that one cannot hear anything unjust from a master.
+הוֹדָעָה (שְׁרוּטִי) והמסורת (סְמוֹרְטִי) אומרות שאין לשמוע דבר בלתי צדק ממורה.
 
 ⟪३⟫. **⟪क्षत्रिया⟫ ⟪जनाञ्छत्रुभ्यो⟫ ⟪रक्षितुमर्हन्तीति⟫ ⟪क्षत्रियधर्मः⟫ ⟪॥३॥⟫**
 The duty of the Kṣatriyas is that the Kṣatriyas should protect the people from the enemies.
@@ -58,10 +58,10 @@ Since he has committed a sacrificial error, the Brahmin may not receive money.
 In order to become rich, these Vaiśyas have made a vow and abstain sexually.
 
 ⟪६⟫. **⟪बुद्द्धाश्चार्हन्तश्च⟫ ⟪दुःखान्मुक्ताः⟫ ⟪।⟫ ⟪मुञ्चन्ती⟫ ⟪बुद्धिर्हि⟫ ⟪तैः⟫ ⟪प्राप्ता⟫ ⟪॥६॥⟫**
-Buddhas and Arhants are freed from suffering. For they have attained liberating insight.
+ܒܘܕܗܐ ܘܐܪܚܢ̈ܐ ܡܬܦܘܩ̈ܝܢ ܡܢ ܟܐܦܬܐ. ܕܝܠܗܝܢ ܐܬܘܟܠܘ ܪܘܚܢܐ ܕܦܘܩܩܝܢ.
 
 ⟪७⟫. **⟪लोभ⟫en ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫**
-Through greed, hatred, and delusion, people are ruined. When the time has come, they then fall into a hell.
+ܒܓܘܢ̈ܐ, ܟܚܠܐ, ܘܫܪܝܬܐ, ܓܒ̈ܠܐ ܡܫܬܚܝܢ. ܟܕ ܐܬܐ ܙܒܢܗ, ܠܗܝܢ ܦܠܘܟ̈ܝܢ ܐܣܪܐ.
 
 ::: media
 ![](/images/uebung040.webp)
@@ -69,7 +69,7 @@ Fig.: ⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪�
 (Image source: [Details](/licenses#uebung040))
 :::
 ⟪८⟫. **⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫**
-The Kṣatriya brings heroic warriors from the metropolis to fight the enemy's village.
+ܟܣܛܪܝܐ ܐܬܐ ܠܡܕܢܚܐ ܠܫܘܟܠܐ ܕܒܪ̈ܢܫܐ ܠܡܨܠܚ ܥܠ ܟܝܢܬܐ ܕܨܘܒ̈ܐ.
 
 ⟪९⟫. **⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫**
 To obtain a son, the Brahmin woman makes a vow (i.e., she fasts).
@@ -84,7 +84,7 @@ Viṣṇu protects his devotees from death.
 Ohne Rāma.
 
 ⟪१३⟫. **⟪साधोः⟫ ⟪शिक्षा⟫ ⟪गुणाय⟫ ⟪संपद्यते⟫ ⟪नासाधोः⟫ ⟪॥१३॥⟫**
-The instruction of a saint serves as virtue, not that of an unrighteous person.
+ܡܕܥܐ ܕܢܝܚܐ ܗܘ ܠܬ ܟܕܝܫܘܬܐ، ܠܐ ܟܕܝܪܓܘܬܐ ܕܒܥܠ ܚܛܐ.
 
 ⟪१४⟫. **⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫**
 Rāma wartet auf Kṛṣṇa.
@@ -100,7 +100,7 @@ Stop with the fear!
 
 ---
 
-## Scholarly Fragments
+## ܦܶܠܓܹܐ ܝܽܘܠܦܵܢܵܝ̈ܳܐ
 
 ⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫ ⟪ततस्ततो⟫ ⟪विमुच्यते⟫ ⟪।⟫  
 ⟪निवर्तनाद्धि⟫ ⟪सर्वतो⟫ ⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫  
@@ -119,22 +119,22 @@ Hells arise because of evil, evil arises from poverty, poverty arises from not g
 Fig.: ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫
 (Image source: [Details](/licenses#uebung041))
 :::
-⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
+⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫ ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟩  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫ ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥⟫ ⟪मनुस्मृति⟫ ⟪८⟫.⟪३१६⟫ ⟪॥⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫  
-A thief is freed from the guilt of theft by punishment or by release. But if the king does not punish him, then he takes over the thief's guilt.
+ܣܦܩܐ ܕܓܙܠܐ ܡܬܦܪܩ ܡܢ ܚܘܒܬ ܓܙܠܐ ܒܕܝܢܘܬܐ ܐܘ ܒܫܪܝܐ. ܘܐܠܐ ܡܠܟܐ ܠܝܬ ܗܘ ܕܡܕܝܢ ܠܗ، ܐܦܘܪܬ ܚܒܠܗ ܕܓܙܠܐ.
 
 ---
 
 ## Political Science Fragments (Arthaśāstra)
 
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
-The economy is useful because it produces grain, cattle, gold, metals, and labor.
+ܐܘܩܪܢܬܐ ܡܫܟܚܬܐ ܠܗ ܕܢܦܩ ܓܪܝܡܐ ܘܒܟܪܐ ܘܙܗܒܐ ܘܡܕܠܝܢ ܘܥܒܕܐ.
 
 ::: media
 ![](/images/uebung042.webp)
-Fig.: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
-(Image source: [Details](/licenses#uebung042))
+ܦܘܬܓ: ⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫
+(ܡܕܒܪ ܕܬܚܘܝܐ: [ܦܠܫܝ̈ܢ](/licenses#uebung042))
 :::
 ⟪२⟫. **⟪तस्माद्दण्डमूलास्तिस्रो⟫ ⟪विद्याः⟫ ⟪॥⟫** (AS 1.5)  
-Therefore, the three sciences have the staff (daṇḍa) as their foundation. The staff, which is the foundation of good conduct, brings living beings acquisition and secure possession. Good conduct is acquired or innate. For activity educates suitable material, not unsuitable. Knowledge educates a mind that has come to truth through obedience, listening, grasping, understanding, and reflection, not another. ... For from what is heard arises knowledge, from knowledge arises practice, from practice arises self-possession; thus the sciences correspond to their purpose. Knowledge and good conduct are the cause for victory over the senses. This is necessary to lay aside lust, hatred, greed, conceit, intoxication, and agitation.
+ܠܗܝܢ ܬܠܬ ܫܪܝܪ̈ܘܬܐ ܠܗܟܢ ܕܡܫܘܪ̈ܬܐ (ܕܰܢܕܳ) ܗܝ ܫܪܩܬܐ. ܡܫܘܪ̈ܬܐ ܕܗܝ ܫܪܩܬܐ ܕܥܒܕܐ ܫܪܝܪ̈ܐ ܢܦܩܬ ܠܗܘܢ ܐܫܪܐ ܘܩܝܡܘܬܐ. ܥܒܕܐ ܫܪܝܪ̈ܐ ܡܩܒܠ ܗܘ ܐܘ ܝܬܝܪ. ܠܗܝܢ ܥܒܕܐ ܡܫܟܚ ܠܗ ܓܒܪܐ ܕܢܫܟܚ ܠܗ ܡܪܝܐ, ܠܘ ܠܓܒܪܐ ܕܢܫܟܚ. ... ܠܗܝܢ ܡܕܡ ܕܐܫܟܚ ܠܗ ܥܒܕܐ, ܡܕܡ ܕܢܫܟܚ ܠܗ ܥܒܕܐ, ܡܕܡ ܕܢܫܟܚ ܠܗ ܥܒܕܐ, ܠܗܝܢ ܫܪܝܪ̈ܘܬܐ ܠܗܟܢ ܕܡܫܘܪ̈ܬܐ. ܥܒܕܐ ܘܥܒܕܐ ܫܪܝܪ̈ܐ ܗܘ ܠܗܟܢ ܕܡܫܘܪ̈ܬܐ. ܗܢܟܝܢ ܠܡܕܒܪ ܠܗ ܫܘܬܦܐ, ܟܢܘܬܐ, ܫܪܩܐ, ܡܕܠܝܢ, ܫܪܩܐ, ܘܡܕܠܝܢ.
 

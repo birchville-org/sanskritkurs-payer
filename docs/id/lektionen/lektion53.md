@@ -5,27 +5,27 @@ lesson_id: 53
 
 # Lesson 53
 
-## 53.1. The Dual (⟪द्विवचन⟫ n.) of Nouns
+## 53.1. Dwivachana (⟪द्विवचन⟫ n.) dari Nomina
 
 ::: grammar-box
-**The Dual (⟪द्विवचनम्⟫) is used to denote "two":**
+**Dual (⟪द्विवचनम्⟫) digunakan untuk menunjukkan "dua":**
 
 :::
 ::: indent
-**⟪अश्विनौ⟫** "the two Aśvin"
+**⟪अश्विनौ⟫** "dua Aśvin"
 :::
-**The use of the Dual is obligatory where it concerns two things, etc.:**
+**Penggunaan Dual wajib di mana hal tersebut berkaitan dengan dua benda, dll.:**
 
 ::: indent
-**⟪हस्तौ⟫** "the hands (of an individual)"
-**⟪पादौ⟫** "the feet (of a human, monkey, or other biped)"
+**⟪हस्तौ⟫** "tangan (seseorang)"
+**⟪पादौ⟫** "kaki (manusia, monyet, atau bipedal lainnya)"
 :::
 **Kadang-kadang Dwiwacana menunjukkan satu contoh jantan dan satu betina dari kelas (spesies, genus) yang sama:**
 
 ::: indent
-**⟪पितरौ⟫** "father and mother = parents"
+**⟪पितरौ⟫** "ayah dan ibu = orang tua"
 :::
-**Words that mean "a pair" - e.g. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - are always used in the Singular, unless it concerns two or more pairs:**
+**Kata-kata yang berarti "sepasang" - misalnya ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - selalu digunakan dalam Singular, kecuali jika berkaitan dengan dua pasang atau lebih:**
 
 ::: indent
 **⟪बाहुद्वयम्⟫** "a pair of arms"
@@ -40,7 +40,7 @@ Fig.: ⟪मार्जारयुगम्⟫
 Fig.: ⟪हस्तौ⟫
 (Image source: [Details](/en/licenses#lekt5302))
 :::
-## 53.2. Dual Endings of Nouns
+## 53.2. Akhiran Dwivachana Nomina
 
 ::: grammar-box
 |   | Masculine/Feminine :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neuter :br ⟪नपुंसक⟫
@@ -290,56 +290,56 @@ Fig.: ⟪धेनू⟫
 Contoh:
 
 ::: indent
-**⟪अर्थधर्मौ⟫** "Benefit (⟪अर्थ⟫) and Dharma"
-**⟪युधिष्ठिरार्जुनौ⟫** "Yudhiṣṭhira and Arjuna"
-**⟪सुखदुःखे⟫** (alongside: ⟪सुखदुःखम्⟫) "Happiness and Suffering"
-**⟪शीतोष्णे⟫** "Cold and Heat"
+**⟪अर्थधर्मौ⟫** "Manfaat (⟪अर्थ⟫) dan Dharma"
+**⟪युधिष्ठिरार्जुनौ⟫** "Yudhiṣṭhira dan Arjuna"
+**⟪सुखदुःखे⟫** (bersamaan: ⟪सुखदुःखम्⟫) "Kebahagiaan dan Penderitaan"
+**⟪शीतोष्णे⟫** "Dingin dan Panas"
 :::
 ::: grammar-box
-**When two kinship terms ending in -ṛ (or two nouns ending in -ṛ that denote sacrificial priests) are compounded into a Dvandva, the first member stands in the form of the Nominative Singular:**
+**Ketika dua istilah kekerabatan yang berakhir dengan -ṛ (atau dua kata benda yang berakhir dengan -ṛ yang menunjukkan imam pengorbanan) digabungkan menjadi Dvandva, anggota pertama berada dalam bentuk Nominatif Tunggal:**
 
 :::
 ::: indent
-⟪मा⟫***⟪ता⟫***⟪पितरौ⟫ "Mother and Father"
+⟪मा⟫***⟪ता⟫***⟪पितरौ⟫ "Ibu dan Ayah"
 :::
-**The same occurs with such a kinship term in a Dvandva before -⟪पुत्र⟫:**
+**Hal yang sama terjadi dengan istilah kekerabatan tersebut dalam Dvandva sebelum -⟪पुत्र⟫:**
 
 ::: indent
-**⟪पितापुत्रौ⟫** "Father and Son"
+**⟪पितापुत्रौ⟫** "Ayah dan Putra"
 :::
-**When the names of two deities, usually mentioned in sacrifices, form a Dvandva, the final vowel of the first member is usually lengthened:**
+**Ketika nama dua dewa, biasanya disebutkan dalam pengorbanan, membentuk Dvandva, vokal akhir dari anggota pertama biasanya diperpanjang:**
 
 ::: indent
-⟪मि⟫***⟪त्रा⟫***⟪वरुणौ⟫ "Mitra and Varuṇa"
-**⟪अग्नीसोमौ⟫** "Agni and Soma"
+⟪मि***⟪त्रा***⟪वरुणौ⟫ "Mitra dan Varuṇa"
+**⟪अग्नीसोमौ** "Agni dan Soma"
 :::
-**This vowel lengthening also occurs in other Dvandvas.**
+**Pemanjangan vokal ini juga terjadi dalam Dvandva lainnya.**
 ::: media
 ![](/images/lekt5308.webp)
 Fig.: ⟪पितापुत्रौ⟫
-(Image source: [Details](/en/licenses#lekt5308))
+(Sumber gambar: [Details](/en/licenses#lekt5308))
 :::
-## 53.6. The Dual of Pronouns
+## 53.6. Dwivachana dari Kata Ganti
 
 ::: grammar-box
 |   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫
 | :--- | :---: | :---: | :---: | :---: | :---:
-| **Masculine** |   |   |   |   |   |
+| **Maskulin** |   |   |   |   |   |
 | **⟪प्रथमा⟫** | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
 | **⟪द्वितीया⟫** | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫
 |   |   |   |   |   |   |
-| **Neuter** |   |   |   |   |   |
+| **Neutrum** |   |   |   |   |   |
 | **⟪प्रथमा⟫** | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
 | **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
-|   | Rest as Masculine ||||||||
-| **Feminine** |   |   |   |   |   |
+|   | Wie Maskulin ||||||||
+| **Femininum** |   |   |   |   |   |
 | **⟪प्रथमा⟫** | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
 | **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
-|   | Rest as Masculine ||||||||
+|   | Wie Maskulin ||||||||
 :::
-⟪कतर⟫ 3 "who of both" and ⟪कतम⟫ 3 "who of several" are declined in all cases like ⟪यद्⟫.
+⟪कतर⟫ 3 "wer von beiden" und ⟪कतम⟫ 3 "wer von mehreren" werden in allen Fällen wie ⟪यद्⟫ dekliniert.
 
 ## 53.7. Pronominal Adjectives
 
@@ -349,22 +349,22 @@ The following pronominal adjectives are declined in all cases like ⟪यद्�
 *   ⟪अन्यतर⟫ 3 "one of two"
 *   ⟪इतर⟫ 3 "the other"
 
-*   ⟪सर्व⟫ 3 "each, all" is declined in all cases except the Nom.Akk.sg.n (⟪सर्वम्⟫) like ⟪यद्⟫.
-*   ⟪उभय⟫ 3 "both" has no dual. In the singular and plural masculine and neuter, it is declined like ⟪सर्व⟫. Feminine: ⟪उभयी⟫ (like ⟪देवी⟫).
-*   ⟪उभ⟫ 3 "both" is used only in the dual and is declined like ⟪देव⟫ m., ⟪फल⟫ n. and ⟪देवता⟫ f.
+*   ⟪सर्व⟫ 3 "setiap, semua" dideklinasikan dalam semua kasus kecuali Nom.Akk.sg.n (⟪सर्वम्⟫) seperti ⟪यद्⟫.
+*   ⟪उभय⟫ 3 "kedua" tidak memiliki bentuk dual. Dalam maskulin dan netral tunggal serta jamak, ia dideklinasikan seperti ⟪सर्व⟫. Feminin: ⟪उभयी⟫ (seperti ⟪देवी⟫).
+*   ⟪उभ⟫ 3 "kedua" hanya digunakan dalam bentuk dual dan dideklinasikan seperti ⟪देव⟫ m., ⟪फल⟫ n. dan ⟪देवता⟫ f.
 
-The following pronominal adjectives are declined like ⟪सर्व⟫. In the Abl.Loc.sg.m.n and in the Nom.pl., they can be declined according to the -a- or -ā-declension:
+Kata sifat pronominal berikut dideklinasikan seperti ⟪सर्व⟫. Dalam Abl.Loc.sg.m.n dan dalam Nom.pl., mereka dapat dideklinasikan sesuai dengan deklinasi -a- atau -ā:
 
-*   ⟪अपर⟫ 3 "another"
-*   ⟪उत्तर⟫ 3 "the upper, northern, following"
-*   ⟪पर⟫ 3 "the following, later"
-*   ⟪पूर्व⟫ 3 "the preceding, eastern"
-*   ⟪स्व⟫ 3 "own (my, your, his ...)"
+*   ⟪अपर⟫ 3 "lainnya"
+*   ⟪उत्तर⟫ 3 "atas, utara, berikutnya"
+*   ⟪पर⟫ 3 "berikutnya, kemudian"
+*   ⟪पूर्व⟫ 3 "sebelumnya, timur"
+*   ⟪स्व⟫ 3 "milik sendiri (saya, Anda, nya ...)"
 
 ## 53.8. Irregular Comparison
 
 ::: grammar-box
-**A number of adjectives form the comparative and superlative with the following ⟪कृत्⟫ suffixes (!):**
+**Sejumlah kata sifat membentuk tingkat pembanding dan tertinggi dengan akhiran ⟪कृत्⟫ berikut (!):**
 
 *   Comparative: **-īyas**
 *   Superlative: **-iṣṭha**
@@ -383,7 +383,7 @@ Contoh:
 | ⟪क्षिप्⟫ 6P "to throw" | ⟪क्षिप्र⟫ 3 "fast" | ***⟪क्षेपीयस्⟫*** 3 "faster" :br ⟪क्षिप्रतर⟫ 3 | ***⟪क्षेपिष्ठ⟫*** 3 "fastest" :br ⟪क्षिप्रतम⟫ 3 |
 | ⟪स्था⟫ 1P "to stand" | ⟪स्थिर⟫ 3 "constant, firm" | ***⟪स्थेयस्⟫*** 3 "firmer" :br ⟪स्थिरतर⟫ 3 | ***⟪स्थेष्ठ⟫*** 3 "firmest" :br ⟪स्थिरतम⟫ 3 |
 :::
-**Special rules for the attachment of these suffixes:**
+**Aturan khusus untuk penambahan akhiran ini:**
 
 ::: grammar-box
 **Aturan 1:** **Vokal akhir dari tema maskulin multisukuan, atau vokal akhir dan vokal sebelumnya, dihilangkan.**
@@ -391,34 +391,34 @@ Contoh:
 Contoh:
 
 ::: grammar-box
-| Adjective | Comparative | Superlative |
+| Kata Sifat | Komparatif | Superlatif |
 | --- | --- | --- |
-| ⟪पाप⟫ 3 "evil" | ⟪पा⟫***⟪पी⟫***⟪यस्⟫ | ⟪पा⟫***⟪पि⟫***⟪ष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "great" | ⟪म⟫***⟪ही⟫***⟪यस्⟫ | ⟪म⟫***⟪हि⟫***⟪ष्ठ⟫ |
+| ⟪पाप⟫ 3 "jahat" | ⟪पा⟫***⟪पी⟫***⟪यस्⟫ | ⟪पा⟫***⟪पि⟫***⟪ष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "besar" | ⟪म⟫***⟪ही⟫***⟪यस्⟫ | ⟪म⟫***⟪हि⟫***⟪ष्ठ⟫ |
 :::
 ::: grammar-box
-**Rule 2:** **Possessive suffixes (-mant, vant, -vin, -in, etc.) are dropped. If the remaining part consists of only one syllable, it remains unchanged, except for phonetic changes caused by the connection with the possessive suffix, which are reversed. However, if the remainder consists of more than one syllable, Rule 1 applies.**
+**Aturan 2:** **Akta posesif (-mant, vant, -vin, -in, dll.) dilepaskan. Jika bagian yang tersisa terdiri dari hanya satu suku kata, bagian tersebut tetap tidak berubah, kecuali untuk perubahan fonetik yang disebabkan oleh koneksi dengan akta posesif, yang dibalik. Namun, jika sisaannya terdiri dari lebih dari satu suku kata, Aturan 1 berlaku.**
 :::
 Contoh:
 
 ::: grammar-box
-| Adjective | Comparative | Superlative |
+| Kata Sifat | Komparatif | Superlatif |
 | --- | --- | --- |
-| ⟪धनवन्त्⟫ 3 "rich" | ⟪ध⟫***⟪नी⟫***⟪यस्⟫ | ⟪ध⟫***⟪नि⟫***⟪ष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(especially) strong" | ⟪ब⟫***⟪ली⟫***⟪यस्⟫ | ⟪ब⟫***⟪लि⟫***⟪ष्ठ⟫ |
-| ⟪वसुमन्त्⟫ "possessing goods" | ⟪व⟫***⟪सी⟫***⟪यस्⟫ | ⟪व⟫***⟪सि⟫***⟪ष्ठ⟫ |
+| ⟪धनवन्त्⟫ 3 "kaya" | ⟪ध⟫***⟪नी⟫***⟪यस्⟫ | ⟪ध⟫***⟪नि⟫***⟪ष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(terutama) kuat" | ⟪ब⟫***⟪ली⟫***⟪यस्⟫ | ⟪ब⟫***⟪लि⟫***⟪ष्ठ⟫ |
+| ⟪वसुमन्त्⟫ "memiliki harta" | ⟪व⟫***⟪सी⟫***⟪यस्⟫ | ⟪व⟫***⟪सि⟫***⟪ष्ठ⟫ |
 :::
 ::: grammar-box
-**Rule 3:** **For -ṛ-, preceded by an initial vowel and followed by only a single consonant, -ra- is substituted.**
+**Aturan 3:** **Untuk -ṛ-, yang didahului oleh vokal awal dan diikuti hanya oleh satu konsonan tunggal, -ra- diganti.**
 :::
 Contoh:
 
 ::: grammar-box
-| Adjective | Comparative | Superlative |
+| Kata Sifat | Komparatif | Superlatif |
 | --- | --- | --- |
-| ⟪पृथु⟫ 3 "broad" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
+| ⟪पृथु⟫ 3 "luas" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
 :::
-**List of the most common forms of comparison of this type for adjectives learned so far:**
+**Daftar bentuk perbandingan paling umum dari jenis ini untuk kata sifat yang telah dipelajari sejauh ini:**
 
 ::: grammar-box
 | Adjective | Comparative | Superlative |
@@ -459,7 +459,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 ## 53.9. Declension of Comparatives in -īyas
 
 ::: grammar-box
-**Comparatives in -īyas form the feminine in -īyasī (declension like ⟪देवी⟫). The masculine and neuter are declined according to the following paradigm.**
+**Bentuk komparatif dalam -īyas membentuk feminin dalam -īyasī (penurunan seperti ⟪देवी⟫). Maskulin dan netra menurun sesuai dengan paradigma berikut.**
 :::
 ::: grammar-box
 
@@ -484,15 +484,15 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 See also:
 
-> **Payer, Alois \<1944 - \>:** Introduction to the Exegesis of Sanskrit Texts : Script. -- Ch. 8: The Actual Exegesis, Part II: On Specific Questions of Synchronous Understanding. -- Appendix B: On the Metrics of Sanskrit Texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois \&lt;1944 - \&gt;:** Pengantar Eksegesis Teks Sanskerta : Naskah. -- Bab 8: Eksegesa Aktual, Bagian II: Tentang Pertanyaan Khusus Pemahaman Sinkron. -- Lampiran B: Tentang Metrik Teks Sanskerta. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Significance of Determining the Meter
 
-The determination of the meter is important for the following reasons:
+Penentuan metrum penting karena alasan berikut:
 
-1.  **Secara estetis:** ukuran syair berkontribusi, antara lain, pada keindahan suatu ucapan. Selanjutnya, ukuran syair tertentu dapat berfungsi untuk mengekspresikan suasana hati tertentu, atau mereka ditugaskan untuk kelas sosial tertentu (⟪वर्ण⟫). Berbagai ukuran syair diresitasikan secara berbeda satu sama lain. :br Kesan yang baik tentang efek estetis dapat diberikan, misalnya, oleh resitasi ⟪शिवताण्डवस्तोत्र⟫ (pujian terhadap tarian Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
-2.  **Text-critically:** errors in the verse measure can be an indication that the text has not been transmitted correctly at a certain point. The verse measure helps to make textual emendations.
-3.  **Chronologically:** certain verse measures underwent specific changes over the course of history. This can assist in the approximate dating of a text. See **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Both printed in: :br **Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+1. **Secara estetis:** ukuran syair berkontribusi, antara lain, pada keindahan suatu ucapan. Selanjutnya, ukuran syair tertentu dapat berfungsi untuk mengekspresikan suasana hati tertentu, atau mereka ditugaskan untuk kelas sosial tertentu (⟪वर्ण⟫). Berbagai ukuran syair diresitasikan secara berbeda satu sama lain. :br Kesan yang baik tentang efek estetis dapat diberikan, misalnya, oleh resitasi ⟪शिवताण्डवस्तोत्र⟫ (pujian terhadap tarian Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+2. **Secara tekstual:** kesalahan dalam ukuran syair dapat menjadi indikasi bahwa teks tidak ditransmisikan dengan benar pada titik tertentu. Ukuran syair membantu dalam melakukan emendasi tekstual.
+3. **Secara kronologis:** ukuran syair tertentu mengalami perubahan spesifik sepanjang sejarah. Hal ini dapat membantu dalam penanggalan perkiraan sebuah teks. Lihat **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Both printed in: :br **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -504,15 +504,15 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 ::: grammar-box
 **The Indians distinguish:**
 
-*   **⟪वृत्त⟫ n.:** Metra in which the number of syllables (⟪अक्षर⟫) is fixed
-*   **⟪जाति⟫ f.:** Metra in which the sum of the metrical units of length (⟪मात्रा⟫) (morae) is fixed (on these later)
+*   **⟪वृत्त⟫ n.:** Metra di mana jumlah suku kata (⟪अक्षर⟫) tetap
+*   **⟪जाति⟫ f.:** Metra di mana jumlah satuan metrik panjang (⟪मात्रा⟫) (morae) tetap (pada yang belakangan ini nanti)
 
-**Among the metra in which the number of syllables is fixed (⟪वृत्त⟫), one can initially distinguish further:**
+**Di antara metra di mana jumlah suku kata tetap (⟪वृत्त⟫), dapat pada awalnya dibedakan lebih lanjut:**
 
-*   Metra in which the number of syllables is fixed, but the quantity of these syllables only partially
-*   Metra in which the number of syllables and their quantity are fixed
+*   Metra di mana jumlah suku kata tetap, tetapi kuantitas suku kata tersebut hanya sebagian
+*   Metra di mana jumlah suku kata dan kuantitasnya tetap
 :::
-### 53.10.3. The metrical quantity of syllables
+### 53.10.3. Kuantitas metrik suku kata
 
 ::: grammar-box
 **Mnemonic verse**
@@ -527,26 +527,26 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 "A syllable is heavy,
 
 *   if its vowel has an Anusvāra,
-*   is long,
-*   has a Visarga,
-*   equally if it stands before a consonant cluster
-*   as well as if the syllable is at the end of a quarter-verse (Pāda)."
+*   adalah panjang,
+*   memiliki Visarga,
+*   sama jika berada sebelum gugusan konsonan
+*   maupun jika suku kata berada di akhir seperempat bait (Pāda)."
 ::: grammar-box
-**A syllable is**
+**Sebuah suku kata adalah**
 
 *   either **⟪लघु⟫ = light**
 *   or **⟪गुरु⟫ = heavy**
 
 **⟪लघु⟫ = light is a syllable, if**
 
-*   its vowel is short and this vowel
+*   vokalnya pendek dan vokal ini
 *   has no Anusvāra,
-*   no Visarga,
-*   no two consonants follow.
+*   tidak ada Visarga,
+*   tidak diikuti oleh dua konsonan.
 
 Short vowels are a, i, u, ṛ, ḷ
 
-**All other syllables are ⟪गुरु⟫ = heavy. The final syllable of a verse-quarter (⟪पाद⟫) always counts as ⟪गुरु⟫.**
+**Semua suku kata lainnya adalah ⟪गुरु⟫ = berat. Suku kata terakhir dari sebuah kuartet bait (⟪पाद⟫) selalu dihitung sebagai ⟪गुरु⟫.**
 
 In metrical analysis this means:
 
@@ -581,13 +581,13 @@ Distribution of ⟪लघु⟫ and ⟪गुरु⟫ :
 ⟪द्विचतुष्पादयोर्ह्रस्वं⟫
 ⟪सप्तमं⟫ ⟪दीर्घमन्ययोः⟫ ⟪॥⟫
 :::
-"In the Śloka, the sixth syllable of a Pāda is heavy,  
+"Dalam Śloka, suku kata keenam dari sebuah Pāda adalah berat,
 the fifth in all Pādas is light  
-The seventh syllable is short in the second and fourth Pāda, long in the other two."
-The most important verse meter in the Epics (⟪महाभारत⟫, ⟪रामायण⟫) as well as in countless other works is the Śloka ("call", "sound", "stanza" from ⟪श्रु⟫ "to hear").
+Suku kata ketujuh adalah pendek pada Pāda kedua dan keempat, panjang pada dua lainnya."
+Metre ayat yang paling penting dalam Epik (⟪महाभारत⟫, ⟪रामायण⟫) serta dalam tak terhitung karya lainnya adalah Śloka ("panggilan", "suara", "stanza" dari ⟪श्रु⟫ "mendengar").
 
 ::: grammar-box
-**The ⟪श्लोक⟫ is a double verse consisting of half-verses of 16 syllables each. Each half-verse breaks down again into two quarter-verses (⟪पाद⟫) of 8 syllables each. Each quarter-verse breaks down into two parts of 4 syllables each. The entire verse (⟪पद्य⟫ n.) thus consists of four ⟪पाद⟫ (m. "foot, quarter"). The four ⟪पाद⟫ are numbered consecutively with a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫).**
+**⟪श्लोक⟫ adalah ayat ganda yang terdiri dari setengah-ayat masing-masing 16 suku kata. Setiap setengah-ayat terbagi lagi menjadi dua seperempat-ayat (⟪पाद⟫) masing-masing 8 suku kata. Setiap seperempat-ayat terbagi menjadi dua bagian masing-masing 4 suku kata. Seluruh ayat (⟪पद्य⟫ n.) demikian terdiri dari empat ⟪पाद⟫ (m. "kaki, seperempat"). Empat ⟪पाद⟫ tersebut dinomori secara berurutan dengan a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫).**
 
 **Structure of the Śloka:**
 
@@ -602,7 +602,7 @@ The most important verse meter in the Epics (⟪महाभारत⟫, ⟪र
 ::: metrik-schema
 × × × ×   **◡ — ◡ —**
 :::
-The second and third syllables of a ⟪पाद⟫ should not simultaneously be ⟪लघु⟫. In b and d, syllables 2 - 4 may not be ¯ ˘ ¯.
+Kedua dan ketiga suku kata dari a ⟪पाद⟫ tidak boleh secara bersamaan menjadi ⟪लघु⟫. Pada b dan d, suku kata 2 - 4 tidak boleh ¯ ˘ ¯.
 
 **Secondary Schemes (⟪विपुला⟫) for a and c:**
 
@@ -622,8 +622,8 @@ The second and third syllables of a ⟪पाद⟫ should not simultaneously be
 ::: metrik-schema
 × × × ×   / — ◡ — —
 :::
-**In all Śloka forms, the main caesura lies at the end of the 2. ⟪पाद⟫: there is either the end of a word or — in the case of long compounds — the end of a compound component.**
-## 53.11. Exercise
+**Dalam semua bentuk Śloka, caesura utama terletak di akhir 2. ⟪पाद⟫: ada baik akhir kata atau — dalam kasus majemuk panjang — akhir dari komponen majemuk.**
+## 53.11. Latihan
 
 ::: grammar-box
 **Identify the Ślokas among all verses learned so far. Write down the metrical scheme for these. Point out any irregularities or Vipulā forms.**
@@ -635,9 +635,9 @@ Alois Maria Payer
 ::::
 :::
 ::: deleteme-box
-**Sources**
+**Sumber**
 
-**Payer, Alois \<1944 - \>:** Sanskrit Course. -- 53rd Lesson 53 (Semester Break). -- Version from 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois \&lt;1944 - \&gt;:** Sanskrit Course. -- 53rd Lesson 53 (Semester Break). -- Version from 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
@@ -646,6 +646,5 @@ Alois Maria Payer
 :::
 ::: deleteme-box
 
-
-**Payer, Alois \<1944 - \>:** Sanskrit course. -- 53. Lesson 53 (Semester holidays). -- Version from 2009-01-19. -- Image source of the original table 53.9: Screenshot of the original source (Payer).
+**Payer, Alois \&lt;1944 - \&gt;:** Kursus Sanskerta. -- 53. Pelajaran 53 (Libur semester). -- Versi dari 2009-01-19. -- Sumber gambar tabel asli 53.9: Tangkapan layar dari sumber asli (Payer).
 :::

@@ -269,11 +269,11 @@ Exempla:
 
 **Stamens causativus in -ay- + -i- + -tvā**
 
-Example:
-**sthāpayitvā** (sthā-pay-i-tvā) "after he has placed"
+Exemplum:
+**sthāpayitvā** (sthā-pay-i-tvā) "postquam posuit"
 :::
 ::: grammar-box
-**The absolutive in -ya occurs with causatives with prefix usually at the causative stem WITHOUT -aya-**
+**Abolutivum in -ya cum causativis praefixis saepe ad stilum causativum SINE -aya- pertinet**
 
 Exempla:
 **prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "postquam evigilavit"
@@ -297,7 +297,7 @@ Exemplum:
 **jan** — **janayati** — **janayitum** (janay-i-tum) "ut generet"
 :::
 
-## 28.9. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.)
+## 28.9. Classis decima praesentis (⟪curādi⟫ = ⟪cur⟫ etc.)
 
 ::: grammar-box
 **Eodem modo ac causativa, praesens (aliaque tempora) radices decimae classis praesentis sine causativis formant.**
@@ -310,7 +310,7 @@ Exempla:
 **Formae causativi ad verba decimae classis praesentis identicae sunt formis simplicis verbi. Iudicium de causativo praesente ex sensu vel interdum ex constructione tantum fieri potest.**
 :::
 
-## 28.10. Wortliste
+## 28.10. Vocabularium
 
 ::: indent
 **⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: scire, noscere
@@ -380,7 +380,7 @@ Puella onus gerit. Apud Ahmedabad.
 :::
 **⟪भृत्य⟫** m.: Subordinatus, servus
 
-## 28.11. Übung
+## 28.11. Exercitium
 
 **A) Formate causativa verborum et formarum participialium praebitarum, et significationem indicate:**
 
@@ -468,7 +468,7 @@ Puella onus gerit. Apud Ahmedabad.
 6. ⟪जि⟫ — ⟪जापयति⟫
 7. ⟪जीव्⟫ — ⟪जीवयति⟫
 
-**B. Translate the following sentences, resolve the compounds into Sanskrit, and form sentences using simple verbs that express what happens when that which is expressed by the causative is effected:**
+**B. Haec verba translate, composita in Sanscritum resolve et sententias forma verbis simplicibus exprimere quid accidat cum eo fit quod per causativum exprimitur:**
 
 Exemplum: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫
 

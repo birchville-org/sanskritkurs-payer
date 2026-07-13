@@ -47,14 +47,14 @@ In Sanskrit dictionaries, nouns are listed in the **nominal stem**:
 - **vacana** n. -- ⟪वचन⟫ n. (neuter)
 - **vyakti** f. -- ⟪व्यक्ति⟫ f. (feminine)
 
-## 2.3. The Nominative Singular
+## 2.3. प्रथमैकवचनम्
 
 **Nominative Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
 ::: grammar-box
 **The nominative singular ends in -s = -⟪स्⟫ or is endingless.**
 :::
-### 2.3.1. Nominative Singular ending in -s
+### 2.3.1. स-कारान्तं प्रथमैकवचनम्
 
 The following nominal stems, which end in a vowel, form the nominative singular in **-s**:
 

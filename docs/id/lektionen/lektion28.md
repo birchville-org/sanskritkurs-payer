@@ -10,11 +10,11 @@ last_reconstructed: 2026-05-16
 ## 28.1. The Causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**If one wants to express that someone or something causes or brings about that someone else or something else does or suffers something, which is expressed by a root (with or without prefix), then one uses the causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
+**Jika seseorang ingin menyatakan bahwa seseorang atau sesuatu menyebabkan atau membawa kepada orang lain atau sesuatu yang lain melakukan atau mengalami sesuatu, yang dinyatakan oleh sebuah akar (dengan atau tanpa awalan), maka digunakan bentuk kausatif (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
 
-Example:
-⟪गम्⟫ "to go" » Causative: ⟪गमयति⟫ "he causes someone to go; he sends"
-⟪दृश्⟫ "to see" » Causative: ⟪दर्शयति⟫ "he makes see = he shows"
+Contoh:
+⟪गम्⟫ "pergi" » Kausatif: ⟪गमयति⟫ "ia menyebabkan seseorang pergi; ia mengirim"
+⟪दृश्⟫ "melihat" » Kausatif: ⟪दर्शयति⟫ "ia membuat melihat = ia menunjukkan"
 :::
 ---
 
@@ -23,42 +23,42 @@ Example:
 ::: grammar-box
 **Schema 1:**
 
-**If the root underlying the causative (with or without prefix) is INTRANSITIVE (i.e., cannot take an accusative object) or expresses movement, knowledge, information, or eating:**
+**Jika akar kata yang mendasari bentuk kausatif (dengan atau tanpa awalan) adalah INTRANSITIF (yaitu, tidak dapat mengambil objek akusatif) atau menyatakan pergerakan, pengetahuan, informasi, atau makan:**
 
-**Agent (⟪कर्ता⟫) of the causative in the Nominative (⟪प्रथमा⟫) — Agent of the caused action in the Accusative (⟪द्वितीया⟫) — (Goal of movement, object of knowledge, etc. in the Accusative = ⟪द्वितीया⟫) — Verb in the causative**
+**Agen (⟪कर्ता⟫) dari bentuk kausatif dalam Nominatif (⟪प्रथमा⟫) — Agen dari aksi yang disebabkan dalam Akusatif (⟪द्वितीया⟫) — (Tujuan pergerakan, objek pengetahuan, dll. dalam Akusatif = ⟪द्वितीया⟫) — Kata kerja dalam bentuk kausatif**
 :::
-Examples:
+Contoh:
 
-⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "an evil person causes Rāma to be confused = confuses Rāma = causes Rāma to err"
-Result: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma is confused / deluded / errs."
+⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "seorang orang jahat menyebabkan Rāma menjadi bingung = membingungkan Rāma = membuat Rāma bersalah"
+Hasil: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma menjadi bingung / tertipu / bersalah."
 
-⟪रामः⟫ ⟪शत्रून्स्वर्गं⟫ ⟪गमयति⟫ = "Rāma causes the enemies to go to heaven = sends the enemies to heaven"
-Result: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = "the enemies go to heaven / come to heaven"
+⟪रामः⟫ ⟪शत्रून्स्वर्गं⟫ ⟪गमयति⟫ = "Rāma menyebabkan musuh-musuh pergi ke surga = mengirim musuh-musuh ke surga"
+Hasil: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = "musuh-musuh pergi ke surga / datang ke surga"
 
-⟪गुरू⟫ ⟪रामं⟫ ⟪वेदार्थं⟫ ⟪वेदयति⟫ = "The teacher causes Rāma to know the meaning of the Veda = explains / teaches Rāma the meaning of the Veda"
-Result: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = "Rāma knows / understands the meaning of the Veda"
+⟪गुरू⟫ ⟪रामं⟫ ⟪वेदार्थं⟫ ⟪वेदयति⟫ = "Guru menyebabkan Rāma mengetahui makna Veda = menjelaskan / mengajarkan Rāma makna Veda"
+Hasil: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = "Rāma mengetahui / memahami makna Veda"
 
 ⟪स⟫ ⟪रामं⟫ ⟪वेदमध्यापयति⟫ = "he teaches Rāma the Veda"
 Result: ⟪रामो⟫ ⟪वेदमधीते⟫ "Rāma studies the Veda"
 
-⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Rāma causes the gods to eat immortality food = gives the gods immortality food to eat" (⟪अश्⟫ 9 "to eat")
-Result: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "The gods eat immortality food"
+⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Rāma menyebabkan para dewa memakan makanan keabadian = memberikan kepada para dewa makanan keabadian untuk dimakan" (⟪अश्⟫ 9 "memakan")
+Hasil: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Para dewa memakan makanan keabadian"
 
 ::: media
 ![](/images/lekt2802.webp)
 Fig.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
-ISKCON Temple Bangalore.
-(Image source: [Details](/en/licenses#lekt2801))
+Kuil ISKCON Bangalore.
+(Sumber gambar: [Details](/en/licenses#lekt2801))
 :::
 ::: grammar-box
-**Constructed according to Schema 1 is also the root ⟪दृश्⟫:**
+**Dibangun sesuai dengan Skema 1 juga adalah akar ⟪दृश्⟫:**
 
 **Exceptions to Schema 1 see under Schema 2**
 
-Example:
-(⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "he shows the son to Rāma"
-:::
-The following verse summarizes examples of causative formation according to Schema 1 (the verbal forms are each the 3rd person Imperfect Parasmaipada):
+Contoh:
+(L⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "ia menunjukkan putra kepada Rāma"
+⟪:::⟫
+Ayat berikut meringkas contoh pembentukan kausatif sesuai Skema 1 (bentuk kata kerja masing-masing adalah orang ketiga Imperfect Parasmaipada):
 
 ⟪शत्रूनगमयत्स्वर्गं⟫
 ⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
@@ -67,52 +67,53 @@ The following verse summarizes examples of causative formation according to Sche
 ⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
 ⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
 
+:::
 ::: indent
-My refuge and my goal is Hari,
-Who sent the enemies to heaven,
-Who taught his followers the meaning of the Veda,
-Who fed the gods with immortality food,
-Who taught the Creator the Veda,
-Who placed the earth in the water.
+Pelindung dan tujuan saya adalah Hari,
+Yang mengirim musuh-musuh ke surga,
+Yang mengajarkan pengikut-pengikutnya makna Veda,
+Yang memberi para dewa makanan keabadian,
+Yang mengajarkan Veda kepada Sang Pencipta,
+Yang menempatkan bumi di dalam air.
 :::: media
 ![](/images/lekt2801.webp)
 Fig.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
-Jadavpur University Management building.
-(Image source: [Details](/en/licenses#lekt2802))
+Gedung manajemen Universitas Jadavpur.
+(Sumber gambar: [Details](/en/licenses#lekt2802))
 ::::
 :::
 ::: grammar-box
-**Schema 2:**
+**Skema 2:**
 
-**With transitive verbs (except those mentioned under Schema 1). Also with all verbs when the action designated by the causative is caused (i.e., when the causative is thus a causative of a causative):**
+**Dengan kata kerja transitif (kecuali yang disebutkan di bawah Skema 1). Juga dengan semua kata kerja ketika tindakan yang ditunjuk oleh kausatif disebabkan (yaitu, ketika kausatif demikian merupakan kausatif dari kausatif):**
 
-**Agent (⟪कर्ता⟫) of the causative in the Nominative (⟪प्रथमा⟫) — Agent of the caused action in the Instrumental (⟪तृतीया⟫) — Object of the caused action in the case it would have according to the simple verb (i.e., usually in the Accusative) — Verb in the causative**
+**Agen (⟪कर्ता⟫) dari kausatif dalam Nominatif (⟪प्रथमा⟫) — Agen dari tindakan yang disebabkan dalam Instrumental (⟪तृतीया⟫) — Objek dari tindakan yang disebabkan dalam kasus yang seharusnya dimiliki oleh kata kerja sederhana (yaitu, biasanya dalam Akusatif) — Kata kerja dalam bentuk kausatif**
 :::
 ::: indent
-Examples:
-(⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = "He causes Rāma to leave his wife"
-Result: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma leaves his wife"
+Contoh:
+(⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = "Dia menyebabkan Rāma meninggalkan istrinya"
+Hasil: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma meninggalkan istrinya"
 
-⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Viṣṇumitra causes Rāma to cause Govinda to go = Viṣṇumitra has Rāma send Govinda away"
-Result: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Rāma sends Govinda away"
-Result of this result: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda goes"
+⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Viṣṇumitra menyebabkan Rāma menyebabkan Govinda pergi = Viṣṇumitra memerintahkan Rāma untuk mengirim Govinda pergi"
+Hasil: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Rāma mengirim Govinda pergi"
+Hasil dari hasil ini: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda pergi"
 :::
 ::: grammar-box
-**Exceptions to Schema 1:**
+**Pengecualian untuk Skema 1:**
 
 **The following verbs also construct according to Schema 2:**
 
-**Causative of:**
-- **⟪नी⟫ "to lead"**
-- **⟪वह्⟫ "to drive" (only when the agent of the caused action is not a driver)**
-- **⟪स्मृ⟫ "to recall" (there are exceptions to this)**
-- **⟪अद्⟫ "to eat"**
-- **⟪खाद्⟫ "to chew"**
+**Kausatif dari:**
+- **⟪नी⟫ "memimpin"**
+- **⟪वह्⟫ "mendorong" (hanya ketika agen dari tindakan yang disebabkan bukan seorang pengemudi)**
+- **⟪स्मृ⟫ "mengingat kembali" (ada pengecualian untuk ini)**
+- **⟪अद्⟫ "makan"**
+- **⟪खाद्⟫ "mengunyah"**
 :::
-Examples:
+Contoh:
 
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma has the servant lead or drive the burden"
-Result: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "The servant leads or drives the burden"
+⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma menyuruh pelayan memimpin atau mendorong beban"
+Hasil: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "Pelayan memimpin atau mendorong beban"
 
 ⟪रामो⟫ ⟪बालेनान्नमादयति⟫ ⟪खादयति⟫ ⟪वा⟫ = "Rāma has the boy eat or chew food"
 Result: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति⟫ ⟪वा⟫ = "the boy eats or chews food"
@@ -121,77 +122,77 @@ Result: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति�
 Result: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma remembers"
 
 ::: grammar-box
-**The following causatives can construct both according to Schema 1 and according to Schema 2:**
+**Kausatif berikut dapat dibentuk sesuai dengan Schema 1 dan juga sesuai dengan Schema 2:**
 
-- **⟪हृ⟫ "to hold, to fetch"**
-- **⟪कृ⟫ "to do, to make"**
-- **Ātmanepadakausative of ⟪दृश्⟫**
+- **⟪हृ⟫ "menahan, mengambil"**
+- **⟪कृ⟫ "melakukan, membuat"**
+- **Kausatif Ātmanepadakusativ dari ⟪दृश्⟫**
 :::
-Examples:
+Contoh:
 
 ⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma has the servant make or fetch a mat (⟪कट⟫ m.)"
 or:
 ⟪रामो⟫ ⟪भृत्येन⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫
 Result: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ ⟪हरति⟫ ⟪वा⟫ = "The servant makes or fetches a mat"
 
-⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = "Rāma has the boy see the picture = shows the boy the picture (in his own interest)"
-or:
+⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = "Rāma membuat anak laki-laki itu melihat gambar = menunjukkan gambar kepada anak laki-laki itu (untuk kepentingannya sendiri)"
+atau:
 ⟪रामो⟫ ⟪बालेन⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫
-Result: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "the boy sees the picture"
+Hasil: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "anak laki-laki itu melihat gambar"
 
-When the causative is used in a passive construction, the following schema is almost always applied:
+Ketika kata kerja kausatif digunakan dalam konstruksi pasif, skema berikut hampir selalu diterapkan:
 
 ::: grammar-box
 **Schema A (Passive Construction):**
 
-**Agent of the causative in the Instrumental (⟪तृतीया⟫) — Agent of the caused action in the Nominative (⟪प्रथमा⟫) — Object of the caused action in the case it would have according to the simple verb (i.e., usually in the Accusative) — Verb in the causative**
+**Agen dalam Kasus Instrumen (⟪तृतीया⟫) — Agen dari aksi yang disebabkan dalam Kasus Nominatif (⟪प्रथमा⟫) — Objek dari aksi yang disebabkan dalam kasus yang seharusnya dimiliki oleh kata kerja sederhana (yaitu, biasanya dalam Kasus Akusatif) — Kata kerja dalam bentuk kausatif**
 :::
-Examples:
+Contoh:
 
-⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "The master sends Rāma to the village"
-Result: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma goes to the village"
+⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "Tuan mengirim Rāma ke desa"
+Hasil: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma pergi ke desa"
 
 ⟪रामेण⟫ ⟪भृत्यः⟫ ⟪कटं⟫ ⟪कार्यते⟫ = "Rāma has the servant make a mat"
 Result: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "The servant makes a mat"
 
-⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma has the servant fetch the burden"
-Result: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "The servant fetches the burden"
+⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma menyuruh pelayan membawa beban"
+Hasil: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Pelayan membawa beban"
 
 ---
 
-## 28.3. Formation of the present stem for the causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.3. Pembentukan akar kata sekarang untuk kausatif (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**The thematic endings of the present stem are added to the causative stem**
+**Akhiran tematik dari akar kata sekarang ditambahkan ke akar kata kausatif**
 :::
-There are various formation types:
+Terdapat berbagai jenis pembentukan:
 
 ::: grammar-box
 **Formation type 1: (mostly) guṇited root + -aya-**
 :::
 Examples:
 
-| Root | Causative 3rd sg. Indicative Present | Meaning |
+| Akar | Kausatif 3rd sg. Indikatif Sekarang | Arti |
 | :--- | :--- | :--- |
-| ⟪विश्⟫ | ⟪वेशयति⟫ | he/she/it causes to enter, leads in |
-| ⟪लुभ्⟫ | ⟪लोभयति⟫ | to make desire, to make desirous, to entice |
-| ⟪दृश्⟫ | ⟪दर्शयति⟫ | to make see = to show |
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | to make turn, to turn (transitive), to roll (transitive), to set in motion |
+| ⟪विश्⟫ | ⟪वेशयति⟫ | menyebabkan masuk, memimpin masuk |
+| ⟪लुभ्⟫ | ⟪लोभयति⟫ | membuat keinginan, membuat berkeinginan, menggoda |
+| ⟪दृश्⟫ | ⟪दर्शयति⟫ | membuat melihat = menunjukkan |
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | membuat berputar, memutar (transitif), menggulung (transitif), menggerakkan |
 
 ::: grammar-box
 **Formation type 2: dīrghited root + -aya-**
 
-**Often with roots ending in a vowel, and with roots where a single final consonant follows -a-.**
+**Seringkali dengan akar yang berakhir dengan vokal, dan dengan akar di mana satu konsonan akhir mengikuti -a-.**
 :::
-Examples:
+Contoh:
 
-| Root | Causative 3rd sg. Indicative Present | Meaning |
+| Akar | Kausatif 3rd sg. Indikatif Sekarang | Makna |
 | :--- | :--- | :--- |
-| ⟪भू⟫ | ⟪भावयति⟫:br(from: bhau-aya-ti) | to cause someone or something to become, to produce |
-| ⟪इ⟫ | ⟪आययति⟫:br(from: ai-aya-ti) | to cause someone to go |
-| ⟪नी⟫ | ⟪नाययति⟫:br(from: nai-aya-ti) | to let lead |
-| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | to let make |
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | to let speak, to make speak, (to make speak a text =) to read aloud |
+| ⟪भू⟫ | ⟪भावयति⟫:br(dari: bhau-aya-ti) | menyebabkan seseorang atau sesuatu menjadi, menghasilkan |
+| ⟪इ⟫ | ⟪आययति⟫:br(dari: ai-aya-ti) | menyebabkan seseorang pergi |
+| ⟪नी⟫ | ⟪नाययति⟫:br(dari: nai-aya-ti) | membiarkan memimpin |
+| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | membiarkan membuat |
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | membiarkan berbicara, membuat berbicara, (membuat berbicara sebuah teks =) membaca keras-keras |
 
 ::: grammar-box
 **Formation type 3: weak-grade root + -aya-**
@@ -211,44 +212,44 @@ Example:
 :::
 Examples:
 
-| Root | Causative 3rd sg. Indicative Present | Meaning |
+| Akar | Kausatif 3rd sg. Indikativ Prasenta | Arti |
 | :--- | :--- | :--- |
-| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | to make stand, to set up |
-| ⟪इ⟫ + ⟪अधि⟫:br"to study" | ⟪अध्यापयति⟫:br(from: adhi+ā-paya-ti):br(for explanation see Thumb-Hauschildt Vol. I,2 p. 341) | to let study, to instruct |
+| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | membuat berdiri, mendirikan |
+| ⟪इ⟫ + ⟪अधि⟫:br"belajar" | ⟪अध्यापयति⟫:br(dari: adhi+ā-paya-ti):br(untuk penjelasan lihat Thumb-Hauschildt Vol. I,2 hlm 341) | membiarkan belajar, menginstruksikan |
 
 ::: grammar-box
 **Irregular formations:**
 
 **Native grammarians consider the following forms to be causatives:**
 
-- **han** : Caus. **ghātayati**¹ "to cause to strike, to cause to kill"
-- **pā** 2 "to guard": **pālayati**² "to bring across, to save, to protect"
+- **han** : Kausatif. **ghātayati**¹ "menyebabkan pukulan, menyebabkan pembunuhan"
+- **pā** 2 "melindungi": **pālayati**² "menyeberangkan, menyelamatkan, melindungi"
 :::
-Notes:
-1. **ghātayati** is in fact a verb derived from the noun **ghāta** m. "strike" (denominative) and is used instead of the causative of **han**.
-2. **pālayati** is a genuine causative, but from the root **pṛ** 3 "to bring across, to save, to protect": **pārayati** (pār-aya-ti) » **pālayati** (in some parts of India an r corresponds to an l, in others conversely an l corresponds to an r).
+Catatan:
+1. **ghātayati** sebenarnya adalah kata kerja yang berasal dari kata benda **ghāta** m. "pukulan" (denominatif) dan digunakan sebagai pengganti kausatif dari **han**.
+2. **pālayati** adalah kausatif yang sah, tetapi berasal dari akar kata **pṛ** 3 "menyeberangkan, menyelamatkan, melindungi": **pārayati** (pār-aya-ti) » **pālayati** (di beberapa bagian India, r sesuai dengan l, di tempat lain sebaliknya l sesuai dengan r).
 
 ---
 
-## 28.4. Formation of the Passive (⟪यक्⟫) from the Causative
+## 28.4. Pembentukan Pasif (⟪यक्⟫) dari Kausatif
 
 ::: grammar-box
-**The Passive from the Causative is formed as follows:**
+**Pasif dari Kausatif dibentuk sebagai berikut:**
 
 **Causative stem WITHOUT -aya- + Passive suffix -ya-**
 
-Examples:
-**bhāvyate** (bhāv-ya-te) "he/she/it is brought forth"
-**sthāpyate** (sthāp-ya-te) "he/she/it is placed"
+Contoh:
+**bhāvyate** (bhāv-ya-te) "dibawa keluar"
+**sthāpyate** (sthāp-ya-te) "ditempatkan"
 :::
 While the passive from the original root is usually formed from the guṇa-grade root, the passive of the causative can usually be recognized by the fact that it is formed from the strong or dīrgha-grade root.
 
 ---
 
-## 28.5. Formation of the Future (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) of the Causative
+## 28.5. Pembentukan Bentuk Masa Depan (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) dari Kata Kerja Kausatif
 
 ::: grammar-box
-**The Future of the Causative is formed from the causative stem, whereby the final -a- of the causative suffix is dropped:**
+**Bentuk Masa Depan dari Kata Kerja Kausatif dibentuk dari akar kausatif, di mana akhiran -a- dari sufiks kausatif dihilangkan:**
 
 **-ay-iṣya-**
 
@@ -257,7 +258,7 @@ Example:
 :::
 ---
 
-## 28.6. Formation of the PPP (⟪क्त⟫) for the Causative
+## 28.6. Pembentukan PPP (⟪क्त⟫) untuk Kausatif
 
 ::: grammar-box
 **Causative stem in -ay- (without final a) + -i- + -ta**
@@ -268,35 +269,35 @@ Examples:
 :::
 ---
 
-## 28.7. Formation of the Absolutiv (⟪क्त्वा⟫ . ⟪ल्यप्⟫) from the Causative
+## 28.7. Pembentukan Absolutiv (⟪क्त्वा⟫ . ⟪ल्यप्⟫) dari Kausatif
 
 ::: grammar-box
-**The Absolutiv in -tvā is formed from the causative stem in -ay- (without final a):**
+**Absolutiv dalam -tvā dibentuk dari akar kausatif dalam -ay- (tanpa a akhir):**
 
 **Causative stem in -ay- + -i- + -tvā**
 
-Example:
-**sthāpayitvā** (sthā-pay-i-tvā) "after he has set up"
+Contoh:
+**sthāpayitvā** (sthā-pay-i-tvā) "setelah ia mendirikan"
 :::
 ::: grammar-box
-**The Absolutiv in -ya occurs with causatives with a prefix usually at the causative stem WITHOUT -aya-**
+**Absolutif dalam -ya terjadi pada kata-kata penyebab dengan awalan biasanya pada akar penyebab TANPA -aya-**
 
-Examples:
-**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "after he has awakened"
-**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "after he has allowed to bring, after he has caused to bring"
+Contoh:
+**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "setelah ia membangunkan"
+**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "setelah ia membiarkan membawa, setelah ia menyebabkan membawa"
 :::
 ::: grammar-box
-**However, if the root syllable of the causative contains a short -a- before a single consonant, the -ya of the Absolutiv appears at the causative stem in -ay- (without final a)**
+**Namun, jika suku kata akar dari penyebab mengandung -a- pendek sebelum satu konsonan tunggal, -ya dari Absolutif muncul pada akar penyebab dalam -ay- (tanpa a akhir)**
 
 Example:
 **āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "after he has caused to come"
 :::
 ---
 
-## 28.8. Formation of the Infinitive (⟪तुमुन्⟫) for the Causative
+## 28.8. Pembentukan Infinitif (⟪तुमुन्⟫) untuk Kausatif
 
 ::: grammar-box
-**The infinitive of the causative is formed from the causative stem in -ay- (without final a):**
+**Infinitif kausatif dibentuk dari akar kausatif dalam -ay- (tanpa a akhir):**
 
 **Causative stem in -ay- + -i- + -tum**
 
@@ -308,77 +309,77 @@ Example:
 ## 28.9. The 10th Present Class (⟪चुरादि⟫ = ⟪चुर्⟫ etc.)
 
 ::: grammar-box
-**In the same way that causatives are formed, some roots of the 10th Present Class form the present (and other tenses) without being causatives.**
+**Sama seperti cara pembentukan kata kerja kausatif, beberapa akar dari Kelas 10 Waktu Kini membentuk waktu kini (dan waktu lainnya) tanpa menjadi kausatif.**
 
-Examples:
-1.  Lengthened-grade root + -aya-: **⟪कम्⟫** 10A **⟪कामयते⟫** "to love"
-2.  Guṇa-grade root + -aya-: **cur** 10U **corayati** "to steal"; Future: **corayiṣyate**; Passive: **coryate**
+Contoh:
+1.  Akar tingkat panjang + -aya-: **⟪कम्⟫** 10A **⟪कामयते⟫** "mencintai"
+2.  Akar tingkat Guṇa + -aya-: **cur** 10U **corayati** "mencuri"; Masa Depan: **corayiṣyate**; Pasif: **coryate**
 :::
 ::: grammar-box
-**The forms of the causative for verbs of the 10th Present Class are identical to the forms of the simple verb. The decision as to whether a causative is present is possible only from the meaning or sometimes from the construction.**
+**Bentuk-bentuk kausatif untuk kata kerja Kelas 10 Waktu Kini identik dengan bentuk-bentuk kata kerja sederhana. Penentuan apakah sebuah kausatif hadir hanya dapat dilakukan dari makna atau kadang-kadang dari konstruksi.**
 :::
 ---
 
 ## 28.10. Word List
 
 ::: indent
-**⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: to know, to recognize
+**⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: mengetahui, mengenali
 Fut. **vediṣyati**
 Pass. **vidyate**
-Caus. **vedayati**
+Kaus. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
-from this: **vidyā** f., **veda** m.
+dari ini: **vidyā** f., **veda** m.
 :::: indent
-**⟪विद्⟫** 6U **⟪विन्दति⟫** (!): to find
+**⟪विद्⟫** 6U **⟪विन्दति⟫** (!): menemukan
 Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: there is, it exists
-Caus. **vedayati**
+Pass. **vidyate**: ada, terdapat
+Kaus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
 ::::
 :::
 ::: indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: to study, to learn by heart
-Caus. **adhyāpayati**: to cause to study, to teach
-from this: **adhyayana** n.: study (esp. of the Veda); **adhyāya** m.: lesson, chapter (section for memorization)
+**i + adhi** 2Ā **adhīte**, **adhīyate**: mempelajari, menghafal
+Kaus. **adhyāpayati**: menyebabkan mempelajari, mengajar
+dari ini: **adhyayana** n.: studi (khususnya Veda); **adhyāya** m.: pelajaran, bab (bagian untuk dihafal)
 :::
 ::: indent
-**⟪कम्⟫** 10Ā **⟪कामयते⟫**: to love
+**⟪कम्⟫** 10Ā **⟪कामयते⟫**: mencintai
 Fut. **kāmayiṣyate** / **kamiṣyate**
 Pass. **kāmyate**
-Caus. **kāmayati**
+Kaus. **kāmayati**
 PPP **kānta** (!)
 Inf. **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
 Fig.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
-Painting by ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
-(Image source: [Details](/en/licenses#lekt2804))
+Lukisan oleh ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
+(Sumber gambar: [Rincian](/en/licenses#lekt2804))
 :::
 ::: indent
-**⟪चुर्⟫** 10 **⟪चोरयति⟫**: to steal
+**⟪चुर्⟫** 10 **⟪चोरयति⟫**: mencuri
 Fut. **corayiṣyati**
 Pass. **coryate**
-Caus. **corayati**
+Kaus. **corayati**
 PPP **corita**
 Inf. **coritum**
 :::
 ::: indent
-**Pay special attention to the meaning of the causatives of the following verbs:**
-**dṛś** — **darśayati**: to show
-**man** — **mānayati**: to esteem, to honor (but probably a denominative from **māna** "honor")
-**vac** — **vācayati**: also: to read aloud (to cause to speak a text)
-**vad** — **vādayati**: also: to cause a musical instrument to speak = to play a musical instrument
+**Perhatikan makna kausatif dari kata kerja berikut:**
+**dṛś** — **darśayati**: menunjukkan
+**man** — **mānayati**: menghargai, memuliakan (tetapi kemungkinan merupakan denominatif dari **māna** "harga/hormat")
+**vac** — **vācayati**: juga: membaca keras (menyebabkan berbicara sebuah teks)
+**vad** — **vādayati**: juga: menyebabkan alat musik berbunyi = memainkan alat musik
 :::
 ::: media
 ![](/images/lekt2803.webp)
 Fig.: ⟪वीणां⟫ ⟪वादयति⟫
 Vīṇā player.
-(Image source: [Details](/en/licenses#lekt2803))
+(Sumber gambar: [Rincian](/en/licenses#lekt2803))
 :::
-**⟪भार⟫** m.: burden
+**⟪भार⟫** m.: beban
 
 ::: media
 ![](/images/lekt2805.webp)
@@ -392,7 +393,7 @@ Girl carrying load. Near Ahmedabad.
 
 ## 28.11. Exercise
 
-**A) Form the causative of the following verb forms and participial forms and provide the meaning:**
+**A) Bentukkan kata kerja penyebab dari bentuk-bentuk kata kerja dan partisip berikut, serta berikan artinya:**
 
 **1. With strong-grade root:**
 1. ⟪अर्हन्ति⟫
@@ -469,16 +470,16 @@ Girl carrying load. Near Ahmedabad.
 **3. Causative in -⟪पय⟫**
 1. ⟪स्थित्वा⟫
 
-**4. Pay special attention to and learn the following causative formations**
+**4. Perhatikan dengan saksama dan pelajari pembentukan kausatif berikut**
 1. ⟪दुष्⟫ — ⟪दूषयति⟫
-2. ⟪पा⟫ 1 ("to drink") — ⟪पाययति⟫
-3. ⟪पा⟫ 2 ("to protect") — ⟪पालयति⟫
+2. ⟪पा⟫ 1 ("untuk minum") — ⟪पाययति⟫
+3. ⟪पा⟫ 2 ("untuk melindungi") — ⟪पालयति⟫
 4. ⟪लभ्⟫ — ⟪लम्भयति⟫
 5. ⟪हन्⟫ — ⟪घातयति⟫
 6. ⟪जि⟫ — ⟪जापयति⟫
 7. ⟪जीव्⟫ — ⟪जीवयति⟫
 
-**B. Translate the following sentences, resolve the compounds into Sanskrit, and form sentences using the simple verbs that express what happens when that which is expressed by the causative is brought about:**
+**B. Terjemahkan kalimat-kalimat berikut, uraikan majemuk kata menjadi bahasa Sanskerta, dan susun kalimat menggunakan kata kerja sederhana yang menyatakan apa yang terjadi ketika sesuatu yang dinyatakan oleh bentuk kausatif itu terwujud:**
 
 Example: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫
 

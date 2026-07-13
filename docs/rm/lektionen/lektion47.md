@@ -92,7 +92,7 @@ Nota: ¹ Las fins da la 2. e 3. pers. sg. ponnan vegnir sustituidas cun -tāt, s
 | **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \<⟪भवस्व⟫\> | \<⟪भवध्वम्⟫\> |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \<⟪भ्वताम्⟫\> | \<⟪भवन्ताम्⟫\> |
 :::
-### 47.2.3. Sechste Präsensklasse (⟪तुदादि⟫)
+### 47.2.3. Sisavla classa dal temp preschent (⟪tudādi⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -147,7 +147,7 @@ Abb.: ⟪नृत्यत⟫
 | **2. Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::
-## 47.3. Übung
+## 47.3. Exercizi
 
 A) Tradusci:
 

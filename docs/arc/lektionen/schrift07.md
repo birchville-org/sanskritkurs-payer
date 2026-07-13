@@ -1,6 +1,6 @@
-# Devanagari = ⟪देवनागरी⟫
+# ܕܝܘܢܓܪܝ = ⟪देवनागरी⟫
 
-## Script Exercise 7
+## ܬܶܪܓܳܠܳܐ ܕܟܬܳܒܳܐ 7
 
 ![](/images/schrift012.webp)
 
@@ -14,10 +14,9 @@ Regarding the script:
 
 r after consonant: /
 
-*   with letters having a vertical terminal stroke: / attached to the vertical terminal stroke
-    
-*   with other letters: below the letter
-    
+*   מיט אותיות וואס האבן א פֿאַרטיקאלע טערמינאַל שטריך: / צוגעשטעלט צום פֿאַרטיקאלע טערמינאַל שטריך
+
+*   מיט אנדערע אותיות: אונטער דער אות
 
 > ⟪क्र⟩ ⟪ख्र⟩ ⟪ग्र⟩ ⟪घ्र⟩ ⟪ङ्र्⟩  
 > kra khra gra ghra ṅra
@@ -47,7 +46,7 @@ Regarding the script:
 
 ![](/images/schrift014.webp)
 
-## Exercise
+## ܬܪܓܠܐ
 
 A) Write in Devanagari and provide the translation (requires Lesson 8):
 

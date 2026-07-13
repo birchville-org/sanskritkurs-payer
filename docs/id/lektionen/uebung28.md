@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Lesson 28
 
-A) Form the causative for the following verb forms and participial forms:
+A) Bentukkan kata kerja kausatif untuk bentuk-bentuk kata kerja dan partisip berikut:
 
 ### ⟪१⟫. With high-grade root (Guṇa)
 
@@ -88,45 +88,45 @@ A) Form the causative for the following verb forms and participial forms:
 | ⟪ऊढया⟫ | ⟪वाहितया⟫ |
 ### ⟪३⟫. Causative in -⟪पय⟫ (and special forms)
 
-| Root | Causative | Meaning |
+| Akar | Kausatif | Makna |
 | :--- | :--- | :--- |
-| ⟪स्था⟫ | ⟪स्थापयति⟫ | to place, to set |
-| ⟪दुष्⟫ | ⟪दूषयति⟫ | to spoil |
-| ⟪पा⟫ ⟪१⟫ (to drink) | ⟪पाययति⟫ | to give to drink |
-| ⟪पा⟫ ⟪२⟫ (to protect) | ⟪पालयति⟫ | to guard, to protect |
-| ⟪लभ्⟫ | ⟪लम्भयति⟫ | to let remain |
-| ⟪हन्⟫ | ⟪घातयति⟫ | to have killed, to cause to die |
-| ⟪जि⟫ | ⟪जापयति⟫ | to cause to conquer |
-| ⟪जीव्⟫ | ⟪जीवयति⟫ | to enliven |
-B) Translate the following sentences and form sentences using the simple verbs that express what happens when that which is expressed by the causative is brought about.
+| ⟪स्था⟫ | ⟪स्थापयति⟫ | menempatkan, meletakkan |
+| ⟪दुष्⟫ | ⟪दूषयति⟫ | merusak |
+| ⟪पा⟫ ⟪१⟫ (minum) | ⟪पाययति⟫ | memberi minum |
+| ⟪पा⟫ ⟪२⟫ (melindungi) | ⟪पालयति⟫ | menjaga, melindungi |
+| ⟪लभ्⟫ | ⟪लम्भयति⟫ | membiarkan tetap ada |
+| ⟪हन्⟫ | ⟪घातयति⟫ | telah membunuh, menyebabkan mati |
+| ⟪जि⟫ | ⟪जापयति⟫ | menyebabkan menaklukkan |
+| ⟪जीव्⟫ | ⟪जीवयति⟫ | menghidupkan kembali |
+B) Terjemahkan kalimat-kalimat berikut dan bentuklah kalimat menggunakan kata kerja sederhana yang menyatakan apa yang terjadi ketika sesuatu yang dinyatakan oleh kausatif terwujud.
 
 ⟪१⟫. **⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫**
 The Kṣatriya, in order to defeat the enemies, has had a Brāhmaṇa named Hari and Hara worshipped with a sacrifice and will fight the enemies.
-(Basis: **⟪ब्राह्मणो⟫ ⟪हरिहरं⟫ ⟪यजति⟫ ⟪।⟫**)
+(Dasar: **⟪ब्राह्मणो⟫ ⟪हरिहरं⟫ ⟪यजति⟫ ⟪।⟫**)
 
 ⟪२⟫. **⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫**
-The teacher has taught the boy the Veda and then went home.
-(Basis: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**)
+Guru telah mengajar anak laki-laki itu Veda dan kemudian pulang ke rumah.
+(Dasar: **⟪बाला⟫ ⟪वेदमधीयते⟫ ⟪।⟫**)
 
 ⟪३⟫. **⟪गर्भगृहे⟫ ⟪देवीप्रतिमा⟫ ⟪दर्श्यते⟫ ⟪॥३॥⟫**
-In the innermost sanctuary, the image of the goddess is shown.
-(Basis: **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**)
+Di dalam ruang terdalam, gambar dewi ditampilkan.
+(Dasar: **⟪देवीप्रतिमा⟫ ⟪दृश्यते⟫ ⟪।⟫**)
 
 ⟪४⟫. **⟪यजन्नग्निनान्नमादयति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पाययति⟫ ⟪॥४॥⟫**
-The sacrificer gives food to eat and drink to the fire.
-(Basis: **⟪अग्निरन्नमत्ति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पिबति⟫ ⟪।⟫**)
+Korban mempersembahkan makanan dan minuman kepada api.
+(Dasar: **⟪अग्निरन्नमत्ति⟫ ⟪पानं⟫ ⟪च⟫ ⟪पिबति⟫ ⟪।⟫**)
 
 ⟪५⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫ ⟪ब्राह्मणस्तं⟫ ⟪दासं⟫ ⟪गृहं⟫ ⟪प्रवेश्य⟫ ⟪पुत्रं⟫ ⟪पृच्छति⟫ ⟪॥५॥⟫**
 As soon as the son is born, the Brāhmaṇī sends a servant to the Brāhmaṇa. The Brāhmaṇa has the servant come into the house and asks about his son.
-(Basis: **⟪दासो⟫ ⟪ब्राह्मणं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪दासो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫**)
+(Dasar: **⟪दासो⟫ ⟪ब्राह्मणं⟫ ⟪गच्छति⟫ ⟪।⟫ ⟪दासो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫**)
 
 ⟪६⟫. **⟪स्तुवता⟫ ⟪नरेण⟫ ⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪श्राविताः⟫ ⟪॥६॥⟫**
-The praising man brings the gods the praise hymns of the great poet.
-(Basis: **⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪शृण्वन्ति⟫ ⟪।⟫**)
+Pujian sang pemuji membawa para dewa puji-pujian penyair agung.
+(Dasar: **⟪देवा⟫ ⟪महाकवेः⟫ ⟪स्तोत्राणि⟫ ⟪शृण्वन्ति⟫ ⟪।⟫**)
 
 ⟪७⟫. **⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫**
-The noble warriors kill the enemies in the great battle.
-(Basis: **⟪अरयो⟫ ⟪म्रियन्ते⟫ ⟪।⟫**)
+Para pejuang mulia membunuh musuh-musuh dalam pertempuran besar.
+(Dasar: **⟪अरयो⟫ ⟪म्रियन्ते⟫ ⟪।⟫**)
 
 ⟪८⟫. **⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪॥८॥⟫**
 The noble Kṣatriyā has a Brāhmaṇa worship her personal deity.
@@ -134,11 +134,11 @@ The noble Kṣatriyā has a Brāhmaṇa worship her personal deity.
 
 ⟪९⟫. **⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫**
 In order to conquer treasures, the great Kṣatriya will have the tiger-like warriors make vows.
-(Basis: **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**)
+(Das ist: **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**)
 
 ⟪१०⟫. **⟪पापाद्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫**
-In order to free them from evil, Buddha causes noble people to realize the noble truths.
-(Basis: **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
+Um sie vom Bösen zu befreien, veranlasst der Buddha edle Menschen, die edlen Wahrheiten zu erkennen.
+(Das ist: **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
 
 ::: media
 ![](/images/uebung045.webp)

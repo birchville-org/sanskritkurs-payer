@@ -12,7 +12,7 @@ status: stable
 ## 24.1. The Dative (⟪चतुर्थी⟫ = "fourth case ending")
 
 ::: grammar-box
-**1. To express the purpose or intention ("in order to") of an action, instead of the infinitive (⟪तुमुन्⟫), one can also use a noun with a kṛt suffix, which denotes an action or state, in the dative (⟪चतुर्थी⟫ = "fourth case ending").**
+**1. Untuk menyatakan tujuan atau maksud ("guna") dari suatu tindakan, sebagai pengganti infinitif (⟪तुमुन्⟫), juga dapat digunakan kata benda dengan akhiran kṛt, yang menyatakan tindakan atau keadaan, dalam kasus datif (⟪चतुर्थी⟫ = "akhiran kasus keempat").**
 
 Example:
 
@@ -35,47 +35,47 @@ or:
 ::: media
 ![](/images/lekt2404.webp)
 Fig.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
-(Image source: [Details](/en/licenses#lekt2404))
+(Sumber gambar: [Details](/en/licenses#lekt2404))
 :::
 ::: grammar-box
-**2. The dative (⟪चतुर्थी⟫) can also denote the object of an infinitive of purpose to be supplied:**
+**2. Dativ (⟪चतुर्थी⟫) juga dapat menunjukkan objek dari infinitif tujuan yang harus disediakan:**
 
 Example:
 
 :::
 ::: indent
-⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "He goes to the village for the purpose of fruits = He goes to the village in order to fetch fruits."
+⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Ia pergi ke desa untuk tujuan buah-buahan = Ia pergi ke desa demi mengambil buah-buahan."
 :::
-**In the same way, the dative (⟪चतुर्थी⟫) denotes the purpose of a thing or an action:**
+**Dengan cara yang sama, kasus datif (⟪चतुर्थी⟫) menunjukkan tujuan dari suatu benda atau tindakan:**
 
 Example:
 
 ::: indent
-⟪यज्ञायान्नम्⟫ = "Food for the purpose of a sacrifice = Food for a sacrifice"
+⟪यज्ञायान्नम्⟫ = "Makanan untuk tujuan suatu pengorbanan = Makanan untuk suatu pengorbanan"
 :::: media
 ![](/images/lekt2401.webp)
 Fig.: ⟪यज्ञायान्नम्⟫
-'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
-(Image source: [Details](/en/licenses#lekt2401))
+'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] adalah acara tradisional Hindu yang berlangsung pada perayaan Tahun Baru Hindu di semua mandir BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Ratusan hidangan vegetarian dipersembahkan kepada Bhagwan Swaminarayan [સ્વામિનારાયણ] pada hari ini.
+(Sumber gambar: [Details](/en/licenses#lekt2401))
 ::::
 :::
 ::: grammar-box
-**3. The dative (⟪चतुर्थी⟫) also denotes the person or thing for which the object of an action is intended (indirect object; question: to whom?). (But note the verbs with double accusative (⟪द्वितीया⟫)!)**
+**3. Kasus datif (⟪चतुर्थी⟫) juga menunjukkan orang atau benda untuk mana objek suatu tindakan ditujukan (objek tidak langsung; pertanyaan: kepada siapa?). (Namun perhatikan kata kerja dengan akusatif ganda (⟪द्वितीया⟫)!)**
 
 Example:
 
 :::
 ::: indent
-⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "He gives Rāma a fruit." (Root ⟪दा⟫ 3. present class)
+⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "Ia memberikan buah kepada Rāma." (Akar ⟪दा⟫ kelas 3. bentuk sekarang)
 :::: media
 ![](/images/lekt2402.webp)
 Fig.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
-Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
-(Image source: [Details](/en/licenses#lekt2402))
+Raksha Bandhan dirayakan dengan semangat dan sukacita di seluruh India. Festival ini merupakan perwujudan cinta tanpa syarat antara saudara laki-laki dan perempuan.
+(Sumber gambar: [Detail](/en/licenses#lekt2402))
 ::::
 :::
 ::: grammar-box
-**4. The dative occurs with some verbs (and some other words) similar to German, answering the question "to whom?":**
+**4. Kasus datif muncul dengan beberapa kata kerja (dan beberapa kata lain) yang mirip dengan bahasa Jerman, menjawab pertanyaan "kepada siapa?":**
 
 Examples:
 
@@ -83,20 +83,20 @@ Examples:
 ::: indent
 ⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "The god is angry with the men."
 
-⟪अलम्⟫ Adverb: "enough, sufficient, equal to": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "a warrior is equal to the other warrior"
+⟪अलम्⟫ Kata keterangan: "cukup, memadai, setara dengan": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "seorang prajurit setara dengan prajurit lainnya"
 :::: media
 ![](/images/lekt2403.webp)
 Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
-"Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
-(Image source: [Details](/en/licenses#lekt2403))
+"Rama (kanan) duduk di atas bahu Hanuman, bertempur melawan raja raksasa Ravana." sekitar tahun 1820
+(Sumber gambar: [Details](/en/licenses#lekt2403))
 ::::
 :::
-Further uses of the dative later.
+Penggunaan lain dari kasus datif nanti.
 
 ## 24.2. Formation of the Dative (⟪चतुर्थी⟫)
 
 ::: grammar-box
-**The regular endings of the Dative are:**
+**Akhiran regular untuk Dative adalah:**
 
 * **Singular: -e ; vowel-ending feminine stems: -ai**
 * **Plural: Dative and Ablative ⟪पञ्चमी⟫: -bhyas**
@@ -167,8 +167,8 @@ Further uses of the dative later.
 ::: grammar-box
 **Sandhi of final -ai and -au**
 
-* **-ai before an initial vowel is usually replaced by -ā (rarely by -āy as within the word)**
-* **-au before a vowel is usually replaced by -āv (rarely by -ā)**
+* **-ai sebelum vokal awal biasanya diganti dengan -ā (jarang oleh -āy seperti dalam kata)**
+* **-au sebelum vokal biasanya diganti dengan -āv (jarang oleh -ā)**
 
 Example:
 
@@ -178,23 +178,23 @@ Example:
 :::
 ## 24.4. Word List
 
-⟪अलम्⟫ Adverb: enough, sufficient, equal to (someone, something); with Dative: enough for, sufficient for, equal to; with Instrumental: enough with, stop , e.g. ⟪अलं⟫ ⟪क्रोधेन⟫ = "enough with the anger = stop the anger!"
+⟪अलम्⟫ Kata keterangan: cukup, memadai, setara dengan (seseorang, sesuatu); dengan Dativ: cukup untuk, memadai untuk, setara; dengan Instrumental: cukup dengan, berhenti , mis. ⟪अलं⟫ ⟪क्रोधेन⟫ = "cukup dengan kemarahan = hentikan kemarahan!"
 
-In the same way as ⟪अलम्⟫ with the Instrumental is used:
+Sama halnya dengan ⟪अलम्⟫ yang menggunakan Instrumental:
 
-⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "It is done with the anger = stop the anger!"
+⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "selesai dengan kemarahan = hentikan kemarahan!"
 
 ⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : to adorn
 
 ::: indent
-⟪अलंकार⟫ m.: ornament, means of adornment (in poetry)
+⟪अलंकार⟫ m.: ornamen, alat hias (dalam puisi)
 :::: media
 ![](/images/lekt2405.webp)
 Fig.: ⟪अलंकारः⟫
-(Image source: [Details](/en/licenses#lekt2405))
+(Sumber gambar: [Details](/en/licenses#lekt2405))
 ::::
 :::
-⟪हेतु⟫ m.: motive, occasion, cause, reason; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ with Genitive or as the second member of a compound = "for the sake of ..., because of"
+⟪हेतु⟫ m.: motif, alasan, sebab; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ dengan Genitif atau sebagai anggota kedua dari majemuk = "untuk kepentingan ..., karena"
 
 ⟪प्रतिमा⟫ f.: image, likeness
 
@@ -202,22 +202,22 @@ Fig.: ⟪अलंकारः⟫
 ![](/images/lekt2406.webp)
 Fig.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Image source: [Details](/en/licenses#lekt2406))
+(Sumber gambar: [Details](/en/licenses#lekt2406))
 :::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : to occur, to happen, to arise
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : terjadi, terjadi, muncul
 
 From ⟪वृत्⟫:
 
 ::: indent
 ⟪वृत्ति⟫ f.: behavior, activity, way of life
 
-⟪वृत्त⟫ n.: behavior
+⟪वृत्त⟫ n.: perilaku
 :::
-⟪अभि⟫ Prefix:  be-, after - towards, to - here, to - towards, against, in - into, in relation to, on, over, at
+⟪अभि⟫ Prefiks:  be-, setelah - menuju, ke - sini, ke - menuju, terhadap, dalam - ke dalam, berkaitan dengan, di, atas, pada
 
 ⟪नि⟫ Prefix: downwards, down, into, backwards
 
-⟪आ⟫ Preposition / Postposition: before Ablative or after Accusative: up to, up to; with Ablative: from here, from then, since
+⟪आ⟫ Preposisi / Postposisi: sebelum Ablatif atau setelah Akusatif: hingga, sampai; dengan Ablatif: dari sini, dari sana, sejak
 
 ⟪अतस्⟫ Indeclinable: from there, then, therefore, hence (Pronominal stem a- "this" + Ablative suffix -tas)
 
@@ -232,35 +232,35 @@ from this
 ::: indent
 ⟪अपोह⟫ m.: negation (⟪अप⟫ + ⟪ऊह⟫)
 
-⟪ऊहापोह⟫ m.: discussion of the pros and cons
+⟪ऊहापोह⟫ m.: pembahasan pro dan kontra
 :::: media
 ![](/images/lekt2407.webp)
 Fig.: ⟪ऊहापोहः⟫
-"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
-(Image source: [Details](/en/licenses#lekt2407))
+"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor Senior Urusan Luar Negeri Jaringan CNN-IBN 18, India, memoderasi diskusi panel pada KTT Ekonomi India Forum Ekonomi Dunia 2008 di New Delhi."
+(Sumber gambar: [Details](/en/licenses#lekt2407))
 ::::
 :::
-⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : useful
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : berguna
 
 ⟪कुप्य⟫ n.: forest product, metal (not precious metal)
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : to see, to become visible; to name, to explain, to communicate
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : melihat, menjadi terlihat; menamai, menjelaskan, mengomunikasikan
 
 ::: indent
 ⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : to tell
 
 from this:
 
-⟪आख्यान⟫ n.: narration
+⟪आख्यान⟫ n.: narasi
 :::: media
 ![](/images/lekt2408.webp)
 Fig.: ⟪आख्यानम्⟫
-"San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
-(Image source: [Details](/en/licenses#lekt2408))
+"Pencerita San Francisco, Jeff Byers, berbagi cerita dengan penduduk Chenneri, sebuah desa Irula. Pencerita Jeeva Raghunath menerjemahkan ke dalam bahasa Tamil untuk para penduduk desa."
+(Sumber gambar: [Details](/en/licenses#lekt2408))
 ::::
 :::
 ::: indent
-⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : to add up, to calculate
+⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : menjumlahkan, menghitung
 
 from this:
 
@@ -279,15 +279,15 @@ from this:
 from this:
 
 ::: indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : to bow, to revere, to greet
+⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : untuk membungkuk, untuk menghormati, untuk menyapa
 :::: media
 ![](/images/lekt2411.webp)
 Fig.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
-Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE.
-(Image source: [Details](/en/licenses#lekt2411))
+Naskah dari ⟪गीतगोविन्द⟫, tahun 1730 Masehi.
+(Sumber gambar: [Details](/en/licenses#lekt2411))
 ::::
 :::
-⟪स्वागत⟫ n.: welcome (from su-ā-gata)
+⟪स्वागत⟫ n.: selamat datang (dari su-ā-gata)
 
 ⟪तृण⟫ n.: blade of grass
 
@@ -295,7 +295,7 @@ Manuscript of the ⟪गीतगोविन्द⟫, 1730 CE.
 
 ## 24.5. Exercise
 
-A) Form the Dative Singular and the Dative/(Ablative) Plural and provide the meaning of the nominal stem:
+A) Bentuklah Dativ Singular dan Dativ/(Ablativ) Plural serta berikan makna dari stem nominal:
 
 1.  ⟪श्रव⟫
 2.  ⟪भवन⟫
@@ -347,23 +347,23 @@ B) Translate and resolve the compounds in Sanskrit:
 
 ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫
 
-C) Render sentences A) 1-4 in Sanskrit by replacing the Dative Infinitives (⟪तुमुन्⟫) with [appropriate forms]. Note that the infinitive governs the same case as the corresponding verb.
+[C) Terjemahkan kalimat-kalimat A) 1-4 ke dalam bahasa Sanskerta dengan mengganti Infinitif Datif (⟪तुमुन्⟩) dengan [bentuk yang sesuai]. Perhatikan bahwa infinitif tersebut memerintah kasus yang sama seperti kata kerja yang bersesuaian.
 
-D) Replace in sentence A) 7 the construction with -⟪अर्थ⟫ with an equivalent Dative.
+D) Ganti pada kalimat A) 7 konstruksi dengan -⟪अर्थ⟩ dengan Datif yang setara.
 
 E) Replace in sentence A) 6 the Dative construction with an equivalent construction using -⟪अर्थ⟫
 
-## 24.6. Further Exercises on the Use of the Dative
+## 24.6. Latihan Lanjutan tentang Penggunaan Kasus Datif
 
 Translate into Sanskrit:
 
-1. The goddess, to whom no sacrifice has been made, is angry with the people.
+1. Dewi, yang tidak diberi persembahan, sedang marah kepada rakyat.
 
 2. He lets the cow loose into the village.
 
-3. Now it is enough = Enough with the patience.
+3. Sekarang cukup = Cukup dengan kesabaran.
 
-4. That is good (⟪हित⟫, ⟪सुख⟫) for a Brahmin.
+4. Itu baik (⟪हित⟫, ⟪सुख⟫) bagi seorang Brahmin.
 
 5. Reverence (⟪नमस्⟫) be to Śiva! Reverence be to Śrī Gaṇeśa!
 
@@ -374,40 +374,40 @@ Fig.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 :::
 6. Farewell! (= Well-being (⟪स्वस्ति⟫ f.) to you!)
 
-7. This fruit is sufficient for eating.
+7. Buah ini cukup untuk dimakan.
 
-8. A warrior is matched (⟪शक्त⟫) with (the other) warrior.
+8. Seorang prajurit dipasangkan (⟪शक्त⟩) dengan (prajurit lainnya).
 
 9. Even Viṣṇu does not surpass (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva.
 
 10. After I have bowed before the three sages (Acc.) (⟪नमस्कृ⟫)... He bows before Narasiṃha (Dat.)
 
 ::: indent
-Explanation: ⟪मुनित्रयम्⟫ "the triad of sages = the three sages" = the grammarians ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
+Penjelasan: ⟪मुनित्रयम्⟫ "triad para resi = tiga resi" = para gramatika ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
 :::: media
 ![](/images/lekt2410.webp)
 Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
-⟪नरसिंह⟫ torn apart ⟪हिरण्यकशिपु⟫, page from a manuscript of the ⟪भागवतपुराण⟫
-(Image source: [Details](/en/licenses#lekt2410))
+⟪नरसिंह⟫ tercabut ⟪हिरण्यकशिपु⟫, halaman dari sebuah naskah dari ⟪भागवतपुराण⟫
+(Sumber gambar: [Details](/en/licenses#lekt2410))
 ::::
 :::
-11. Welcome (⟪स्वागतम्⟫) to you. Welcome to the queen.
+11. Selamat datang (⟪स्वागतम्⟫) kepada Anda. Selamat datang bagi sang ratu.
 
 12. I wish you well-being (⟪कुशल⟫) = Well-being to you!
 
 13. He does not regard him as a blade of grass.
 
-14. One fruit is sufficient for eating and water for drinking.
+14. Satu buah sudah cukup untuk dimakan dan air untuk diminum.
 
 15⟪१५⟫. See you again! (Neo-Sanskrit: ⟪पुनर्दर्शनाय⟫)
 
 ::: deleteme-box
 
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day. [Image source: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use)]
+**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] adalah acara Hindu tradisional yang berlangsung pada perayaan Tahun Baru Hindu di semua mandir BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Ratusan hidangan vegetarian dipersembahkan kepada Bhagwan Swaminarayan [સ્વામિનારાયણ] pada hari ini. [Sumber gambar: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Diakses pada 2008-12-14. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
 
-**lekt2402:** Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters. [Image source: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use, share alike)]
+**lekt2402:** Raksha bandhan dirayakan dengan semangat dan sukacita di seluruh India. Festival ini merupakan perwujudan cinta tanpa syarat antara saudara laki-laki dan perempuan. [Sumber gambar: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Diakses pada 2008-12-14. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, berbagi sama)]
 
-**lekt2403:** "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820 [Image source: Wikipedia, Public domain]
+**lekt2403:** "Rama (kanan) duduk di atas bahu Hanuman, berperang melawan raja iblis Ravana." sekitar tahun 1820 [Sumber gambar: Wikipedia, Domain publik]
 
 **lekt2404:** [Image source: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, no derivatives)]
 
@@ -417,7 +417,7 @@ Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोत
 
 **lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi." [Image source: World Economic Forum / Photo by Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, share alike)]
 
-**lekt2408:** "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers." [Image source: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Accessed on 2008-12-14. -- Creative Commons License (Attribution, non-commercial use)]
+**lekt2408:** "Pencerita San Francisco, Jeff Byers, berbagi cerita dengan penduduk Chenneri, sebuah desa Irula. Pencerita Jeeva Raghunath menerjemahkan ke dalam bahasa Tamil untuk para penduduk desa." [Sumber gambar: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Diakses pada 14-12-2008. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
 
 **lekt2409:** [Image source: Redtigerxyz / Wikipedia, GNU FDL]
 

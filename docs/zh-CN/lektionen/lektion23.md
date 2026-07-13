@@ -7,9 +7,9 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 23
+# 第23课
 
-## 23.1. Der Infinitiv (⟪तुमुन्⟫)
+## 23.1. 不定式 (⟪तुमुन्⟫)
 
 ::: grammar-box
 **如果要表达“为了做某事而做另一件事”（“为了”），可以使用不定式（⟪तुमुन्⟫）来表示目的行为。不定式主要表示目的或意图：**
@@ -39,7 +39,7 @@ status: stable
 
 **不定式可以以主动或被动方式使用。德语中的被动不定式在梵语中通过将从属的不定式（尤其是⟪शक्⟩“能够”）变为被动语态来表达。**
 
-**关于宾语，不定式 behaves like a verbal form, i.e., the direct object (⟪कर्मन्⟫) stands in the accusative case (⟪द्वितीया⟫) when the infinitive is used actively, or in the case required by the relevant verb; when the infinitive is used passively, the direct object stands in the nominative.**
+**关于宾语，不定式表现为动词形式，即，当不定式以主动语态使用时，直接宾语（⟪कर्मन्⟫）使用宾格（⟪द्वितीया⟫），或使用相关动词要求的格；当不定式以被动语态使用时，直接宾语使用主格。**
 
 例如
 
@@ -77,7 +77,7 @@ status: stable
 ::: indent
 ⟪गम्⟫：⟪गन्तुम्⟫
 
-⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
+⟪प्रच्छ्⟫ ： ⟪प्रष्टुम्⟫
 :::
 -ra- als Hochstufe zu -ṛ- haben im Infinitiv:
 
@@ -151,7 +151,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 ⟪स्मृ⟫ 第一人称 ⟪स्मर्तुम्⟫  
 ⟪हन्⟫ 第二人称 ⟪हन्तुम्⟫
 
-## 23.4. Wortliste
+## 23.4. 词汇表
 
 ⟪समान⟫ ⟪३⟫: gleich
 
@@ -161,7 +161,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 
 ⟪विशेष⟫ m.: 特性，规范，不同种差
 
-## 23.5. Übung
+## 23.5. 练习
 
 A) 以下词根构成不带连接元音 -i- 的动词不定式。请根据语音变化规则，构成下列动词的不定式：
 

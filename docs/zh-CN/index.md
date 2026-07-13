@@ -22,14 +22,18 @@ features:
     details: 基于VitePress构建，实现极致速度。
 ---
 
-::: tip 版本 1.4 — 离线优先 PWA
-**v1.4（2026年6月）新增功能：**
 
-- **渐进式 Web 应用 (PWA)：** 现在可以将课程作为应用程序安装在桌面和智能手机（iOS/Android）上。
-- **完全离线：** 所有选定内容均本地存储，无需互联网连接即可使用。
-- **动态缓存：** 通过设置（Settings），可以精确控制哪些语言可供离线使用。
-- **高性能：** 通过高度压缩的 WebP 图像大幅减少加载时间和数据消耗。
+::: note-box  Version 1.6 — Global Integrity & Stabilität
+**v1.6 版新增功能（2026年7月）：**
 
-**备注与错误报告：** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**作为作者或校对者参与：** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+- **19种语言的100%完成度：** 阿拉伯语、希伯来语、亚拉姆语、简体中文、印尼语、印地语、泰米尔语、旁遮普语、拉丁语、罗马尼亚语和罗曼什语（格里松方言）现已实现无缝机器翻译（质量未获保证；仅为可行性研究，未经编辑校对）。
+- **RTL支持：** 对右至左语言（阿拉伯语、希伯来语）的原生布局支持，包括完全本地化的用户界面。
+- **PWA 与离线优先：** 在所有活跃语言版本中，完整且无错误地离线使用所有课程内容。
+- **作者版本与编辑器：** 为编辑（QA查看器）提供完整的编辑器，配备异步AI后备系统，确保大规模翻译的极高稳定性。
+
+**欢迎提出意见和错误报告至：** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**作为编辑或策展人参与：** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+
+- 对于作者（以及希望使用轻量级Markdown独立编辑器的人），开源编辑器可在 https://github.com/marcodem/zentauri 获取
+
 :::

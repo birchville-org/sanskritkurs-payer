@@ -87,7 +87,7 @@ If the verb is in the Parasmaipada or Ātmanepada, then the direct object (**kar
 | **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
 
-### 7.2.1. Accusative singular and plural of the interrogative and demonstrative pronouns
+### 7.2.1. किं-शब्दस्य तद्-शब्दस्य च द्वितीयाविभक्तिः एकवचनं बहुवचनं च
 
 ::: grammar-box
 | || Masculine | Feminine | Neuter |
@@ -173,7 +173,7 @@ The 5th present class forms a so-called athematic present stem, i.e., the presen
 
 **All other forms have the weak present stem.**
 :::
-### 7.5.1. Primary endings of the 3rd person Plural in athematic stems
+### 7.5.1. अदन्तधातूनां तृतीयपुरुषबहुवचनस्य सार्वधातुकप्रत्ययाः
 
 ::: grammar-box
 **In athematic present stems, the primary endings of the 3rd person Plural are:**

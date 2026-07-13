@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Lesson 35
 
-A) Form the corresponding perfect forms for the following verb forms:
+[A] Bentuklah bentuk sempurna yang sesuai untuk bentuk-bentuk kata kerja berikut:
 
 ::: grammar-box
 | Present / Imperfect | Perfect |
@@ -58,22 +58,22 @@ A) Form the corresponding perfect forms for the following verb forms:
 B) Translate:
 
 ⟪१⟫. **⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫**
-Once upon a time, a great Kṣatriya began to sacrifice. Indra abducted (took) his sacrificial animal. But when the animal had disappeared, a wicked Brahman spoke to the Kṣatriya: "The animal has disappeared because of the bad conduct of the Kṣatriya."
-
-⟪२⟫. **⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवू⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫**
-Rāma was childless. He wished for a son, but did not get one. Therefore, he sacrificed to the gods and performed vows such as sexual abstinence and the like. The gods heard Rāma's wish and granted him the desired son.
-
-⟪३⟫. **⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫**
-The Brahman women cooked ghee for the sacrifice. While the Brahman women were cooking, the Brahmen prepared the sacrificial ground. Then the Kṣatriyas sacrificed to Śiva and the other gods as sacrificial patrons, and the Brahmen performed the sacrifice (on behalf).
+Para wanita Brahman memasak ghee untuk pengorbanan. Sementara para wanita Brahman sedang memasak, para Brahmen menyiapkan tanah kurban. Kemudian, para Kṣatriya berkorban kepada Śiva dan dewa-dewain lain sebagai pelindung kurban, dan para Brahmen melaksanakan pengorbanan (atas nama mereka).
 
 ⟪४⟫. **⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫**
-Arhats have severed family ties, ended greed, hatred, and delusion, realized the truth, and — freed from suffering — attained the bliss of liberation.
+Dulu kala, seorang Kṣatriya agung memulai pengorbanan. Indra menculik (mengambil) hewan kurbannya. Namun, ketika hewan itu menghilang, seorang Brahman jahat berbicara kepada Kṣatriya tersebut: "Hewan itu menghilang karena perilaku buruk sang Kṣatriya."
+
+⟪२⟫. **⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवू⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫**
+Para Arhat telah memutuskan ikatan keluarga, mengakhiri keserakahan, kebencian, dan kebingungan, menyadari kebenaran, dan — terbebas dari penderitaan — mencapai kebahagiaan pembebasan.
+
+⟪४⟫. **⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫**
+⟪३⟫. **⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫**
 
 ---
 
 ## Syntactic Variation (Perfect to Imperfect)
 
-C) Transform the sentences of exercise B) by replacing perfects with imperfects:
+[C0] C) Ubahlah kalimat-kalimat dari latihan B) dengan mengganti bentuk lampau sempurna (perfects) menjadi bentuk lampau tidak lengkap (imperfeks):
 
 ⟪१⟫. ⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपाक्रामत⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪ऽहरत्⟫ ⟪॥⟫
 

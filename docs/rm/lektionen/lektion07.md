@@ -51,7 +51,7 @@ z.B.
 :::
 Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**karman** n. = ⟪कर्मन्⟫) im Allgemeinen im **Akkusativ** (Wenfall, dvitīyā f. = ⟪द्वितीया⟫).
 
-## 7.2. Der Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
+## 7.2. L'accusativ (cas dal «tschertgà», dvitīyā f. = ⟪द्वितीया⟫ = «segunda desinenza da casus»)
 
 ::: grammar-box
 **Desinenza dal accusativ singular masculin e feminin suvot da vocal: -m**
@@ -87,7 +87,7 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 | **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
 
-### 7.2.1. Akkusativ Singular und Plural der Frage- und Demonstrativpronomina
+### 7.2.1. Akkusativ Singular und Plural der Frage- und Pronomens demonstrativs
 
 ::: grammar-box
 | || Maskulinum | Femininum | Neutrum |
@@ -143,7 +143,7 @@ Autras utilisaziuns da l’accusativ vegnan tractadas pli tard.
 4. Suenter ina curta vocala (vair pli tard) resta la finala **-n** en tut ils auters cas senza midada.
 :::
 
-## 7.4. Das Neutrum (napuṃsaka n. = ⟪नपुंसक⟫)
+## 7.4. Il neutrum (napuṃsaka n. = ⟪नपुंसक⟫)
 
 ::: grammar-box
 **En il neuter èn las furmas per nominativ (prathamā) ed accusativ (dvitīyā) identicas.**
@@ -197,7 +197,7 @@ La 5. classa da prezens furma ina tala numnada radis da prezens athematica, è.d
 | **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
 | **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
-## 7.6. Wortliste
+## 7.6. Glista da pleds
 
 **Imparar las suentas suventas:**
 
@@ -221,7 +221,7 @@ Abb.: Era quai la planta da Soma vedica?: Pil da muvel: *Amanita muscaria* (L.) 
 - **aṅga** n. ⟪अङ्ग⟫ : part dal corp, element; era = **vedāṅga** = ⟪वेदाङ्ग⟫
 - **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : ir (Appartegna suenter la classificaziun da verbs indigens a la classa da presens 1, è ma en realitad ina furmaziun cun in suffiss da furmaziun da stem da presens **-ccha-**: **gam** » stadi profund (**gm** ») **ga-ccha-ti**)
 
-## 7.7. Übung
+## 7.7. Exercizi
 
 **A) Inserir en singulär e plural l'object direct u l'accusativ da direcziun:**
 
@@ -270,10 +270,10 @@ Fig.: Viṣṇu = ⟪विष्णु⟫, 8./9. tschientenni.
 
 ::: media
 ![](/images/lekt0702.webp)
-Abb.: **yajati** = ⟪यजति⟫ — Vedic sacrifice = **yajña** m. = ⟪यज्ञ⟫
-(Source image: [Details](/rm/licenses#lekt0702))
+Fig.: **yajati** = ⟪यजति⟫ — sacrifici vedic = **yajña** m. = ⟪यज्ञ⟫
+(Surs da l'imagina: [Detagls](/rm/licenses#lekt0702))
 :::
-**E) Form the accusative (dvitīyā) singular and plural for all nouns learned so far.**
+**E) Formai l'accusativ (dvitīyā) singular e plural per tut ils sustantivs emprids fin uss.**
 
 **F) Traducir:**
 

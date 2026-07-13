@@ -7,11 +7,11 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 16
+# ܠܶܩܨܺܝܳܘܢ ܝܘ
 
-## 16.1. On the Sandhi of Final Consonants
+## 16.1. ܥܠ ܣܢܕܝ ܕܚܪ̈ܦܐ ܡܫܠܡܢܝ̈ܬܐ
 
-To form compounds whose first member ends in consonantal stems, the following rules are required:
+ܠܡܫܟܼܰܢ ܩܘܪܝ̈ܐ ܕܡܠܬܐ ܕܪܒܥܝ̈ܗܘܢ ܟܬܒܐ ܕܡܫܛܪ̈ܐ ܗܠܟ
 
 Final guttural, retroflex, dental and labial stops (i.e. not nasals or palatals).
 
@@ -56,7 +56,7 @@ Examples:
 
 ⟪बलवत्⟫ + ⟪शत्रु⟫ = ⟪बलवच्छत्रु⟫
 
-## 16.2. Wortliste
+## 16.2. ܡܠܘܐܐ
 
 ⟪अध्यापन⟫ n.: Teaching, instruction
 
@@ -96,11 +96,11 @@ from that:
 
 ::: media
 ![](/images/lekt1601.webp)
-Fig.: ⟪योगी⟫
-Birla Mandir, Delhi
-(Image source: [Details](/arc/licenses#lekt1601))
+ܩܘܪܛܢܐ: ⟪योगी⟫
+ܡܕܝܢܬ ܒܝܪܠܐ, ܕܗܠܝ
+(ܡܪܟܙ ܕܬܣܘܝܬ: [ܦܪ̈ܨܘܼܟ̈ܐ](/arc/licenses#lekt1601))
 :::
-⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : to turn, to face, to be (somewhere), to dwell
+⟪वृत्⟫ ١ ܐ̈ܠܦ ܒܝܬ ⟪वर्तते⟫ ; ܦܠܐ. ⟪वृत्यते⟫ ; ܦܠ̈ܦܐ. ⟪वृत्त⟫ : ܠܡܕܵܐ, ܠܡܗܝܶܐ, ܠܡܘܼܕܥ ܒܝܬ, ܠܡܫܟܢ
 
 ⟪शस्त्र⟫ (śastra) n.: cutting tool, cutting weapon, sword, weapon
 
@@ -116,7 +116,7 @@ Fig.: ⟪अहिंसा⟫
 "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
 (Image source: [Details](/arc/licenses#lekt1603))
 :::
-## 16.3. Exercise
+## 16.3. ܬܪܓܠܐ
 
 A) Convert the following expressions into Tatpuruṣa and translate them:
 
@@ -150,7 +150,7 @@ Fig.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫
 
-B) Resolve all compounds in the following sentences into Sanskrit, form such sentences with inflected nouns, and translate them:
+ܒ) ܫܪ̈ܘ ܟܠ ܡܕܥܝܢܐ ܒܦܣܘܩ̈ܬܐ ܕܡܠܝܢ ܗܠܝן، ܘܙܟܪ ܡ̈ܛܠܝܢ ܒܐܘܪ̈ܚܐ ܕܡܠܝܢ، ܘܬܪܓ̈ܡ ܗܠܝן:
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
 
@@ -172,11 +172,11 @@ B) Resolve all compounds in the following sentences into Sanskrit, form such sen
 
 ⟪१०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
 
-## 16.4. Wiederholungsübung
+## 16.4. ܬܶܪܓܳܠܳܐ ܕܬܽܘܚܕܳܐ
 
-[A) Arc all previously learned cases for the following words as examples of the declension classes studied so far.]
+[א) אַרְכָּל כָּל הַמִּקְרָאוֹת שֶׁנִּלְמְדוּ מֵאָז לַמִּילִים הַלָּלוֹת כְּדֶגֶם לַחֲלָקוֹת הַדְּגָנָה שֶׁלָּמְדוּ עַד כָּאן.]
 
-Use the following schema, which corresponds to the case order of Indian grammarians and was also adopted by Western grammarians due to its — later to be discussed — advantages:]
+הִשְׁתַּמֵּשׁ בְּהַסְכָּמָה הַזֹּאת, שֶׁתְּכוֹנָה לַסדר הַמִּקְרָאוֹת שֶׁל דַּיְקָנִים הוֹדִים וְגַם נֶאֱמָר בְּדַיְקָנִים מַעֲרָבִים עַל יְדֵי הֶעֱרָכָיו — שֶׁלְּבַסּוֹף יְדוּנָה — יִתְרוֹנוֹת:]
 
 | Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
 | :--- | :--- |

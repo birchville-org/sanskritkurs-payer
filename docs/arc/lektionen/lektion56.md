@@ -7,16 +7,16 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 56
+# ܕܪܫܐ 56
 
-## 56.1. Der reduplizierte Aorist
+## 56.1. ܐܘܪܝܣܛܐ ܡܫܘܚܠܦܐ
 
 ::: grammar-box
 **Formation:**
 
 **Augment + reduplicated root + a + thematic secondary ending**
 
-**The root syllable can be low- or high-pitched. For roots ending in -i or -u, the low pitch is the rule.**
+**ܐܫܡ ܕܪܫܐ ܝܬܘܼܪ ܠܒܘܿܪ ܐܘ ܡܕܝܼܠ. לְשָׁרֵׁי שורקים ב-i או -u, הַדָּבָר הוּא שֶׁהַקּוֹל הַנָּמוּךְ.**
 
 **Final -i and -u are replaced by -iy or -uv, respectively.**
 
@@ -24,7 +24,7 @@ status: stable
 :::
 Paradigm:
 
-⟪श्रि⟫ 1U "to go to, to lean on"
+⟪श्रि⟫ 1U "ܠܥܒܕ ܠܡܪܟܙ"
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
@@ -33,25 +33,25 @@ Paradigm:
 | **2. ⟪द्वितीयः⟫** | ⟪अशिश्रियस्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियथास्⟫ | ⟪अशिश्रियध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अशिश्रियत्⟫ | ⟪अशिश्रियन्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियन्त⟫ |
 
-This form of the aorist is formed by, among others:
+דין סוּרְתָא דַאֲוּרִיסְטָא אִתְבְּנַיָּא מִן, בֵּין שְׁאַר:
 
-*   ⟪श्रि⟫ 1U "to go to"
-*   ⟪द्रु⟫ 1P "to run"
-*   ⟪कम्⟫ 1Ā "to love": ⟪अचकमत⟫ / ⟪अचीकमत⟫ (see below!)
-*   ⟪पत्⟫ 1P "to fall": ⟪अपप्तत्⟫ (a-pa-pt-a-t; pt = zero-grade of pat)
-*   ⟪वच्⟫ 2P "to say": ⟪अवोचत्⟫ (a-va + uc-a-t)
+*   ⟪श्रि⟫ 1U "לְהֵילֵךְ אֶל"
+*   ⟪द्रु⟫ 1P "לָרוּץ"
+*   ⟪कम्⟫ 1Ā "לְאַהֲבָא": ⟪अचकमत⟩ / ⟪अचीकमत⟩ (דְּלָא לְעֵיל!)
+*   ⟪पत्⟩ 1P "לִפּוֹל": ⟪अपप्तत्⟩ (א-פַּ-פְתָּ-ט; פְּת = מִדָּה אַפְסָא דַּפַּת)
+*   ⟪वच्⟩ 2P "לְמֵימַר": ⟪अवोचत्⟩ (א-וַּ + אוּקָת)
 
 ::: grammar-box
-**All roots of the 10th present class as well as all causatives always form the reduplicated aorist.**
+**כָּל שֵׁרְשַׁיָּא דַעֲשַׂרְתָּא מַחְלַף פְּרֶסֶנְטָא וְכָל קַוְזָתִין תָּמִיד אִתְבְּנַיָּא הָאֲוּרִיסְטָא דַעֲדֵידִיפִיק.**
 :::
-### 56.1.1. Formation of the aorist of causatives and roots of the 10th present class
+### 56.1.1. ܨܘܪܬܐ ܕܐܘܪܝܣܛܐ ܕܥܠܬܢ̈ܐ ܘܥܩܪ̈ܐ ܕܕܪܓܐ 10 ܕܙܒܢܐ ܗܫܝܐ
 
 Stem syllable:
 
 ::: grammar-box
-**The starting point is the form of the present stem or causative stem that remains after the removal of the derivational element -aya- (i.e., a stem ending in -p for causatives in -paya-).**
+**הַשֵּׁרוּת הוּא צוּרַת שָׁרֵשׁ הַזְּמַן הוֹאֶה אוֹ שָׁרֵשׁ הַגְּרוּעוֹת שֶׁנִּשְׁאָרַת אַחַר הַסָּרוּת הַדְּרִיבָטִית -aya- (כלומר, שָׁרֵשׁ הַנִּגְמָר ב-p לַגְּרוּעוֹת ב-paya-).**
 
-**The vowel of this so-called stem syllable is determined in the aorist according to the following rules:**
+**הַתְנוּעָה שֶׁל הוֹלֵךְ זֶה נִקְרָא שִׁילַת הַשָּׁרֵשׁ נִקְבַּעַת בָּאָרוּס כְּפִי הַחֻקִּים שֶׁלְמָטָה:**
 
 *   **\-ā- before a simple consonant is replaced by -a-:**
 ⟪पॄ⟫ 3P: Caus. ***⟪पार⟫***⟪यति⟫, Aor. ⟪अपि⟫***⟪पर⟫***⟪त्⟫  
@@ -65,65 +65,65 @@ Stem syllable:
 *   **-u-, -o-, -au- before a simple consonant is replaced by -u-:**
 ⟪चुर्⟫ 10U: ***⟪चोर⟫***⟪यति⟫, Aor. ⟪अचू⟫***⟪चुर⟫***⟪त्⟫
 
-**For some roots, the changes mentioned so far are optional or must be omitted:**
+**לעניין כמה שרשים, השינויים הנזכרים עד כה הם אופציונליים או יש להשמיטם:**
 
-*   **ar, ār, īr, al preceding the final consonant of the stem syllable, which substitutes for ṛ, ṝ, ḷ, remains optionally unchanged or is replaced by ṛ or ḷ:**
-⟪कॢप्⟫ 1Ā: Caus. ***⟪कल्प⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कल्प⟫***⟪त्⟫ / ⟪अची⟫***⟪कॢ⟫***⟪पत्⟫  
-⟪कृष्⟫ 1P/6U: Caus. ***⟪कर्ष⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कर्ष⟫***⟪त्⟫ / ⟪अची⟫***⟪कृ⟫***⟪षत्⟫
+*   **ar, ār, īr, al שלפני העיצור הסופי של הברה שרשית, המחליף את ṛ, ṝ, ḷ, נשאר ללא שינוי באופן אופציונלי או מוחלף ב- ṛ או ḷ:**
+⟪कॢप्⟫ 1Ā: סיבת. ***⟪कल्प⟫***⟪यति⟫, עתיד. ⟪अच⟫***⟪कल्प⟫***⟪त्⟫ / ⟪अची⟫***⟪कॢ⟫***⟪पत्⟫  
+⟪कृष्⟫ 1P/6U: סיבת. ***⟪कर्ष⟫***⟪यति⟫, עתיד. ⟪अच⟫***⟪कर्ष⟫***⟪त्⟫ / ⟪अची⟫***⟪कृ⟫***⟪षत्⟫
 :::
-Vowel of the reduplication syllable:
+תנועת הסיפוק:
 
-After the aforementioned rules have been applied to the stem syllable, the following rules for the vowel of the reduplication syllable must be observed:
+לאחר שחלים הכללים הנזכרים לעיל על הברה השורשית, יש לשים לב לכללים הבאים עבור תנועת הסיפוק:
 
 ::: grammar-box
-**The starting point is the regular reduplication vowel, i.e.**
+**הנקודה ההתחלתית היא תנועת הסיפוק הרגילה, כלומר**
 
-*   a for a, ā, ṛ,  ṝ, ḷ
-*   i for i, ī, e, ai
-*   u for u, ū, o, au
+[Aramaic: ܐܪܡܝܐ]
+[Aramaic: ܐܪܡܝܐ]
+[Aramaic: ܐܪܡܝܐ]
 
 **This reduplication vowel undergoes the following changes:**
 
-*   **i, u is replaced by ī, ū if the stem syllable begins with only one consonant and is metrically short:**
-⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भिदत्⟫  
-⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫***⟪तू⟫***⟪तुदत्⟫
+*   **i, u ܕܝܐܠ ܒ-ī, ū ܡܢ ܣܘܼܩܠܬܐ ܕ-ܫܡܗ ܒܪܝܬܐ ܠܦ̈ܢ ܚܕ ܣܘܼܩܠܬܐ ܘ-ܡܢ ܨܝܕܐ:**
+⟪भिद्⟫ 7U: ܣܘܼܡܟܬܐ ⟪भेदयति⟫, ܥܕܢ̈ܐ ⟪अ⟫***⟪बी⟫***⟪भिदत्⟫  
+⟪तुद्⟫ 6U: ܣܘܼܡܟܬܐ ⟪तोदयति⟫, ܥܕܢ̈ܐ ⟪अ⟫***⟪तू⟫***⟪तुदत्⟫
 
-*   **a is replaced by ī when the stem syllable is metrically short and begins with only one consonant. If the stem syllable is metrically short and begins with more than one consonant, the a of the reduplication syllable is replaced by i. If the stem syllable is metrically long, the a remains:**
-⟪नी⟫ 1U: Caus. ⟪नाययति⟫, stem syllable of the Aor. ⟪नय्⟫, Aor. ⟪अ⟫***⟪नी⟫***⟪नयत्⟫  
-⟪कृ⟫ 8U: Caus. ⟪कारयति⟫, stem syllable of the Aor. ⟪कर्⟫, Aor. ⟪अ⟫***⟪ची⟫***⟪करत्⟫  
-⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, stem syllable of the Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫***⟪ति⟫***⟪त्यजत्⟫  
-⟪भू⟫ 1P: Caus. ⟪भावयति⟫, stem syllable of the Aor. ⟪भव्⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भवत्⟫
+*   **a ܕܝܐܠ ܒ-ī ܡܢ ܣܘܼܩܠܬܐ ܕ-ܫܡܗ ܒܪܝܬܐ ܠܦ̈ܢ ܚܕ ܣܘܼܩܠܬܐ. ܡ̈ܢ ܣܘܼܩܠܬܐ ܕ-ܫܡܗ ܒܪܝܬܐ ܠܦ̈ܢ ܛܘܼܒܬܐ, a ܕ-ܪܕܘܦ̈ܠܬܐ ܕܝܐܠ ܒ-i. ܡ̈ܢ ܣܘܼܩܠܬܐ ܕ-ܫܡܗ ܒܪܝܬܐ ܠܦ̈ܢ ܛܘܼܒܬܐ, a ܕܝܐ:**
+⟪नी⟫ 1U: ܣܘܼܡܟܬܐ ⟪नाययति⟫, ܣܘܼܩܠܬܐ ܕ-ܥܕܢ̈ܐ ⟪नय्⟫, ܥܕܢ̈ܐ ⟪अ***⟫⟪नी***⟫⟪नयत्**
+⟪कृ⟫ 8U: ܣܘܼܡܟܬܐ ⟪कारयति⟫, ܣܘܼܩܠܬܐ ܕ-ܥܕܢ̈ܐ ⟪कर्⟫, ܥܕܢ̈ܐ ⟪अ***⟫⟪ची***⟫⟪करत्**
+⟪त्यज्⟫ 1P: ܣܘܼܡܟܬܐ ⟪त्याजयति⟫, ܣܘܼܩܠܬܐ ܕ-ܥܕܢ̈ܐ ⟪त्यज्⟫, ܥܕܢ̈ܐ ⟪अ***⟫⟪ति***⟫⟪त्यजत्**
+⟪भू⟫ 1P: ܣܘܼܡܟܬܐ ⟪भावयति⟫, ܣܘܼܩܠܬܐ ܕ-ܥܕܢ̈ܐ ⟪भव्⟫, ܥܕܢ̈ܐ ⟪अ***⟫⟪बी***⟫⟪भवत्**
 
 Special features of certain roots in Kielhorn, Grammar § 435c ff.
 
-**Vowel-initial stem syllables are reduplicated according to the following rules:**
+**שְׁרִיקוֹת שָׁרַשׁ דְּבֵק בְּהוֹן מִתְחַדְּשֵׁי כְּהָלֹךְ אִילֵּין:**
 
-*   **If a single consonant or a consonant cluster follows the initial vowel, whose first member is neither nasal nor d nor r, then the reduplicated syllable reads:**
+*   **אִם יְתֵי בַּר נָשׁוּב אוֹ שְׁרִיקַת נָשׁוּב אֲחָרָא בְּדַלְתָא דְּבֵיק, וְרִישׁוֹהִי לָא יְתֵי מִן נַחֲלָה אוֹ דּוּר אוֹ רֵישׁ, אָז שְׁרִיקַת דְּבֵיק קוֹרָא:**
 
 Vowel - following consonant (or its representative in a reduplicating syllable) - **i** - all consonants
 
 :::
 ::: indent
-⟪अश्⟫ 9P: Caus. ⟪आशयति⟫, reduplicating syllable ⟪आशिश्⟫, Aor. ⟪आशिशत्⟫
-⟪इष्⟫ 6P: Caus. ⟪एषयति⟫, reduplicating syllable ⟪एषिष्⟫, Aor. ⟪ऐषिषत्⟫
-⟪ईक्ष्⟫ 1Ā: Caus. ⟪ईक्षयति⟫, reduplicating syllable ⟪ईचिक्ष्⟫, Aor. ⟪ऐचिक्षत्⟫
+⟪अश्⟫ 9P: סַרְקִינָא ⟪आशयति⟫, סוֹלְקָא דְּסַרְקִינָא ⟪आशिश्⟫, אַרְכִין ⟪आशिशत्⟫
+⟪इष्⟫ 6P: סַרְקִינָא ⟪एषयति⟫, סוֹלְקָא דְּסַרְקִינָא ⟪एषिष्⟫, אַרְכִין ⟪ऐषिषत्⟫
+⟪ईक्ष्⟫ 1Ā: סַרְקִינָא ⟪ईक्षयति⟫, סוֹלְקָא דְּסַרְקִינָא ⟪ईचिक्ष्⟫, אַרְכִין ⟪ऐचिक्षत्⟫
 :::
-*   **If a consonant group beginning with a nasal or d or r follows the initial vowel, then the second consonant of the group (or its representative) is inserted with i according to the following schema:**
+*   אִם קָטְרָא דִּשְׁמַע אוֹ רַךְ עָבַר מִן הַאֲוִירָא, יְתֵיב קָטְרָא תַּנְיָנָא (אוֹ נְקִיבָהּ) בְּאַלַף יוֹד, כְּמַנְיָא דִלְעיל:
 
 Vowel - first consonant - second consonant (representative) - i - second consonant
 
 ::: indent
-⟪अञ्ज्⟫ 7P: Caus. ⟪अञ्जयति⟫, reduplicating syllable ⟪अञ्जिज्⟫, Aor. ⟪आञ्जिजत्⟫
-⟪ऋ⟫ 1P: Caus. ⟪अर्पयति⟫, reduplicating syllable ⟪अर्पिप्⟫, Aor. ⟪आर्पिपत्⟫
-⟪अर्ह्⟫ 1P: Caus. ⟪अर्हयति⟫, reduplicating syllable ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
+⟪अञ्ज्⟫ 7P: סַפִּיר. ⟪अञ्जयति⟫, שְׁמָא דִּתְקוּף ⟪अञ्जिज्⟫, אָרוֹךְ. ⟪आञ्जिजत्⟫
+⟪ऋ⟫ 1P: סַפִּיר. ⟪अर्पयति⟫, שְׁמָא דִּתְקוּף ⟪अर्पिप्⟫, אָרוֹךְ. ⟪आर्पिपत्⟫
+⟪अर्ह्⟫ 1P: סַפִּיר. ⟪अर्हयति⟫, שְׁמָא דִּתְקוּף ⟪अर्जिह्⟫, אָרוֹךְ. ⟪आर्जिहत्⟫
 :::
-This form of reduplication for derived stems beginning with a vowel (causatives) is called "Attic reduplication".
-## 56.2. The Injunctive
+שְׁמָא דִּתְקוּף הַדָּא לְשָׁרֵישׁוֹן דִּתְקַל לְאָרוֹךְ (סַפִּיר) אִתְקְרֵא "אַטִיק".
+## 56.2. ܡܦܩܕܢܝܐ
 
 ::: grammar-box
-**The injunctive is the augmentless form corresponding to augmented forms, i.e., its forms are identical with the augmentless forms of the indicative imperfect or aorist. Indigenous Indian grammar did not recognize the injunctive as a distinct grammatical category.**
+**אִינְגַּקְטִיווּ הוּא צוּרָה דְלָא אִתְעַדְּפַת מוּכְבָּר, דִּי הֲווֹת לַאֲמָרָה דְעִם עֶדְפָּא, כלומר צוּרָתֵיהּ מִשְׁתַּוְיָא לְצוּרָה דִלָא עֶדְפָּא דְעַכְשָׁאו אוֹ אָרוֹךְ. מוּסַר הִינְדִית עֲתִיקָה לָא מַכֵּיר אֶלָא אִינְגַקְטִיווּ כְּמֵין קָטְגוֹרְיָא דִּדַעְתָּא.**
 :::
-According to the fundamental work:
+לְפִי מַשְׁכְּלָא עֲתִיקָה:
 
 ::: media
 ![](/images/lekt5601.jpg)
@@ -133,26 +133,26 @@ Professor of Comparative Linguistics, University of Erlangen-Nuremberg (1955 - 1
 :::
 
 ::: indent
-Hoffmann, Karl \&lt;1915 - 1996\&gt;: The Injunctive in the Veda: A Synchronic Functional Study / by Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3rd series, Investigations)
+הָפְמַן, כַּרְל &lt;1915 - 1996&gt;: הָאִינְגֻּנְטִיב בַּוֵידָה: מֻסְתּוּד פּוּנְקְצִיוֹנָלִי סִינְכְרוֹנִי / מאת כַּרְל הָפְמַן. -- חֵידֶלבֶּרְג : ווינטער, 1967. -- 298 עמ'. -- (סִפְרַת הוֹדוֹאֵירוֹפִּי: סדרה 3, חקירות)
 :::
-the injunctive in the Veda has the following properties:
+לאִינְגֻּנְטִיב בַוֵידָה יֵשׁ לוֹ אֶת הַמְּאָפוֹת זֶה:
 
-*   it is not narrative, but mentionative
-*   it is tenseless
-*   the injunctive present (= augmentless imperfect) denotes the imperfective aspect
-*   the injunctive aorist denotes the perfective aspect.
+*   הוּא אֵינוֹ נַרְטִיב, אֶלָּא מַזְכִּיר
+*   הוּא אֵין לוֹ זְמַן
+*   הָאִינְגֻּנְטִיב פְּרֵזֶנט (= אִמפֶּרְפֶקט בְּלִי אוֹגְמֶנְט) מַצְהִיר אֶת הָאָסְפֵּקט הַאִימפֶּרְפֶקְטִיב
+*   הָאִינְגֻּנְטִיב אֲוֹרִיסְט מַצְהִיר אֶת הָאָסְפֵּקט הַפִּרְפֶּקְטִיב.
 
 ::: grammar-box
-**In post-Vedic Sanskrit, the injunctive occurs only in conjunction with the prohibitive particle ⟪मा⟫ (+ injunctive aorist) or ⟪मा⟫ ⟪स्म⟫ (+ injunctive present or aorist); the distinction of aspect is generally no longer observed.**
+**בְּסַנְסְקִירְט פָּסְט-וֵידִי, הָאִינְגֻּנְטִיב מוֹפָע רַק בְּהַתְרָאָה עִם חוֹלְנָה הַמְּנִיעָה ⟪मा⟫ (+ אֲוֹרִיסְט הַאִינְגֻּנְטִיב) אוֹ ⟪मा⟫ ⟪स्म⟫ (+ פְּרֵזֶנְט אוֹ אֲוֹרִיסְט הַאִינְגֻּנְטִיב); הַהַבְדָּלָה בֵּין אָסְפֶּקְטִים לֹא נִשְׁמָרֶת בְּכַלְל.**
 
 (with aspect)
 
-*   ⟪मा⟫ + injunctive aorist would denote a prohibitive sentence: "Do not begin to ...!", "Do not do ...!"
-*   ⟪मा⟫ ⟪स्म⟫ + injunctive present would denote an inhibitive sentence, i.e., the prohibition of an action already in progress or a state already existing: "Stop ...!", "Desist from ...!"
+*   ⟪मा⟫ + אָרִיְסִיבּוֹת יַחֲטָף מְדַבֵּר שׁוֹאֵל לְשָׁנוּת מַנְע: "אַל תִּתְחֵל לְ...!", "אַל תַּעֲשֶׂה ...!"
+*   ⟪मा⟫ ⟪स्म⟫ + אָרִיְסִיבּוֹת יַחֲטָף מְדַבֵּר שׁוֹאֵל לְשָׁנוּת מַנְע כְּבָר: "הִפְסֵק ...!", "נָא מִ...!"
 
 However, this distinction is generally not made in Classical Sanskrit.)
 :::
-## 56.3. The Prohibitive Sentence
+## 56.3. ܦܬܓܡܐ ܡܚܪܡܢܐ
 
 ::: grammar-box
 **Main form:**
@@ -164,17 +164,17 @@ However, this distinction is generally not made in Classical Sanskrit.)
 Examples:
 
 ::: indent
-⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Do not become one who is motivated by the fruit of an action!" (Injunctive Aorist) (⟪भगवद्गीता⟫ 2,47c)
+⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "ܠܐ ܬܗܘܝ ܕܡܫܟܚ ܒܦܪܘܟ ܕܥܒܕܐ!" (אָגַר אֲמַר) (⟪भगवद्गीता⟫ 2,47c)
 
-⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ "Do not become unmanly!" (Aorist Jussive) (⟪भगवद्गीता⟫ 2,3a)
+⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ "ܠܐ ܬܗܘܝ ܕܠܐ ܢܫܝ!" (אָגַר יוּשִׁיב) (⟪भगवद्गीता⟫ 2,3a)
 :::
 ::: media
 ![](/images/lekt5602.webp)
 Fig.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
-Poster (Ernesto Che Guevara) of a political party in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards."
-(Image source: [Details](/arc/licenses#lekt5602))
+Postera (אֱרוּסְטוֹ צ'ה גוויראַ) דܝܐ ܣܘܟܠܐ ܒܘܪܓܐ ܒܘܠܟܝܪܐ (വാല്ലചിര), ትሩስሩር (തൃശ്ശൂര്‍). "ܬܪܓܡ ܫܘܥܠܐ ܕܡܬܟܬܒ ܥሌይኗ: ܫܘܡܟܐ ܗܝ ܚܢܬܐ ܫܪܝܪܬܐ ܠܕܡܫܟܚ. ܘܬܪܗܒܐ ܠܕܡܫܟܚ ܠܩܪܒܐ. צ'ה ܠܐ ܗܘܐ ܡܬܓܠܝ ܠܕܡܫܟܚ."
+(מקור תמונה: [פרטים](/arc/licenses#lekt5602))
 :::
-Both examples have a prohibitive sense. The Aorist Jussive is thus used here in its original meaning. (The predominance of the Aorist Jussive in such sentences may be explained by the predominance of prohibitive sentences over inhibitive ones, yet this question would still need to be investigated for Classical Sanskrit.)
+שְׁנֵי הַדּוּגְמוֹת יֶשׁ לָהֶם מַחְלָקוּת. הָאָגַר יוּשִׁיב מְשַׁמֵּשׁ כָּאן בְּמִלּוֹאוֹ הַתְחָלוֹנִי. (הַרְבּוּת הָאָגַר יוּשִׁיב בְּמֵאָרוֹת כָּאֵלּוּ יְכוֹלָה לִהְיוֹת מְסוּבָּב בְּהַרְבּוּת מֵאָרוֹת נְעִילָה עַל פְּנֵי מֵאָרוֹת מִנּוּעַ, אַךְ שְׁאֵלָה זוֹ עוֹד צְרִיכָה בְּחִינָה לַסַּנְסְקְרִית הַקְלָסִית.)
 
 ::: grammar-box
 **Other forms of prohibition sentences:**
@@ -211,7 +211,7 @@ Fig.: ⟪अलं⟫  ⟪विषादेन⟫
 
 e.g. ⟪वसति⟫ ⟪स्म⟫ "there lived once" (⟪स्म⟫ can sometimes also be missing).
 :::
-## 56.5. Exercise
+## 56.5. ܬܪܓܠܐ
 
 A) Determine and translate the following forms without aids (!):
 

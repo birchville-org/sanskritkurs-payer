@@ -6,12 +6,12 @@ export const th = {
   description: 'Grammar textbook by Alois Payer',
   themeConfig: {
     outline: { level: [2, 3], label: 'ในหน้านี้' },
-    returnToTopLabel: 'Return to top',
-    sidebarMenuLabel: 'Menu',
-    darkModeSwitchLabel: 'Appearance',
-    lightModeSwitchTitle: 'Switch to light theme',
-    darkModeSwitchTitle: 'Switch to dark theme',
-    langMenuLabel: 'Change language',
+    returnToTopLabel: 'กลับสู่ด้านบน',
+    sidebarMenuLabel: 'เมนู',
+    darkModeSwitchLabel: 'ลักษณะ',
+    lightModeSwitchTitle: 'เปลี่ยนเป็นธีมสว่าง',
+    darkModeSwitchTitle: 'เปลี่ยนเป็นธีมมืด',
+    langMenuLabel: 'เปลี่ยนภาษา',
     nav: [
       { text: 'Home', link: '/th/' },
       { text: 'TOC', link: '/th/lektionen/inhaltsverzeichnis' },
@@ -20,8 +20,8 @@ export const th = {
       { text: '<span class="nav-gear-icon"></span>', link: '/th/settings', ariaLabel: 'Open Settings' }
     ],
     docFooter: {
-      prev: 'Previous Lesson',
-      next: 'Next Lesson'
+      prev: 'บทก่อนหน้า',
+      next: 'บทถัดไป'
     },
     sidebar: [
       { text: 'Table of Contents', link: '/th/lektionen/inhaltsverzeichnis' },

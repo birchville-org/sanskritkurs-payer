@@ -55,7 +55,7 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪भवतम्⟫ | \&lt;⟪भवेथाम्⟫\&gt; |
 | 3\. ⟪प्रथमः⟫ | ⟪भवताम्⟫ | \&lt;⟪भवेताम्⟫\&gt; |
 :::
-### 59.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
+### 59.2.2. Quatrième classe de présent (⟪divādigaṇaḥ⟫)
 
 **Avant -va et -vahi, la voyelle thématique -a- est remplacée par -ā-.**
 
@@ -86,7 +86,7 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪नृत्यतम्⟫ | \&lt;⟪नृत्येथाम्⟫\&gt; |
 | 3\. ⟪प्रथमः⟫ | ⟪नृत्यताम्⟫ | \&lt;⟪नृत्येताम्⟫\&gt; |
 :::
-### 59.2.3. Sechste Präsensklasse (⟪तुदादिगणः⟫)
+### 59.2.3. Sixième classe de présent (⟪tudādigaṇaḥ⟫)
 
 **Avant -va et -vahi, la voyelle thématique -a- est remplacée par -ā-.**
 
@@ -148,7 +148,7 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयतम्⟫ | ⟪चोरयेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चोरयताम्⟫ | ⟪चोरयेताम्⟫ |
 :::
-### 59.2.5. Der Passiv (Suffix -⟪यक्⟫)
+### 59.2.5. Der Passif (Suffix -⟪यक्⟫)
 
 **Avant -va et -vahi, la voyelle thématique -a- est remplacée par -ā-.**
 
@@ -176,9 +176,9 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येताम्⟫ |
 :::
-## 59.3. Der Dual athematischer Präsensklassen: Optativ (⟪विधिलिङ्⟫), Imperfekt (⟪लङ्⟫), Imperativ (⟪लोट्⟫)
+## 59.3. Le duel des classes de présent athématiques : optatif (⟪vidhiliṅ⟫), imparfait (⟪laṅ⟫), impératif (⟪loṭ⟫)
 
-### 59.3.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
+### 59.3.1. Deuxième classe de présent (⟪adādigaṇaḥ⟫)
 
 ⟪द्विष्⟫ 2U « haïr »
 
@@ -416,7 +416,7 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪धत्तम्⟫ | ⟪दधाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्ताम्⟫ | ⟪दधाताम्⟫ |
 :::
-### 59.3.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
+### 59.3.3. Cinquième classe de présent (⟪svādigaṇaḥ⟫)
 
 ⟪सु⟫ 5U « presser »
 
@@ -447,7 +447,7 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪सुनुतम्⟫ | ⟪सुन्वाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वाताम्⟫ |
 :::
-### 59.3.4. Achte Präsensklasse (⟪तनादिगणः⟫)
+### 59.3.4. Huitième classe de présent (⟪tanādigaṇaḥ⟫)
 
 ⟪तन्⟫ 8U « étendre »
 
@@ -598,7 +598,7 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीतम्⟫ | ⟪क्रीणाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीताम्⟫ | ⟪क्रीणाताम्⟫ |
 :::
-## 59.4. Dual (⟪द्विवचनम्⟫) Aorist (⟪लुङ्⟫)
+## 59.4. Duel (⟪dvivacanam⟫) Aoriste (⟪luṅ⟫)
 
 ### 59.4.1. Wurzelaorist
 
@@ -611,7 +611,7 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अपातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अपाताम्⟫ |
 :::
-### 59.4.2. a-Aorist
+### 59.4.2. Aoriste en a
 
 ⟪सिच्⟫ 6U «asperger»
 
@@ -622,7 +622,7 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪असिचतम्⟫ | ⟪असिचेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪असिचताम्⟫ | ⟪असिचेताम्⟫ |
 :::
-### 59.4.3. Reduplizierter Aorist
+### 59.4.3. Aoriste rédupliqué
 
 ⟪श्रि⟫ 1U « se rendre à »
 
@@ -633,7 +633,7 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अशिश्रियतम्⟫ | ⟪अशिश्रियेथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪शिश्रियताम्⟫ | ⟪अशिश्रियेताम्⟫ |
 :::
-### 59.4.4. s-Aorist
+### 59.4.4. Aoriste en s
 
 ⟪नी⟫ 1U "conduire"
 
@@ -654,7 +654,7 @@ Impératif (⟪लोट्⟫)
 | a-taut+s+tam | ⟪अतुत्साथाम्⟫ | | |
 | 3\. ⟪प्रथमः⟫ | ⟪अतौत्ताम्⟫ | ⟪अतित्साताम्⟫ |
 :::
-### 59.4.5. iṣ-Aorist
+### 59.4.5. Aoriste en iṣ
 
 ⟪पू⟫ 9U « purifier »
 
@@ -665,7 +665,7 @@ Impératif (⟪लोट्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अपाविष्टम्⟫ | ⟪अपविषाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पाविष्टाम्⟫ | ⟪अपविषाताम्⟫ |
 :::
-## 59.5. Aorist (⟪लुङ्⟫) 6: siṣ-Aorist (nur P)
+## 59.5. Aorist (⟪लुङ्⟫) 6: sAoriste en iṣ (nur P)
 
 ::: grammar-box
 **La formation de l’aoriste en siṣ à la Parantam (P) concerne toutes les racines se terminant par -ā, -e, -o, -ai, qui ne sont pas limitées aux 1ᵉʳ, 2ᵉ ou 3ᵉ aoristes, ainsi que certaines autres racines, notamment ⟪नम्⟫, ⟪यम्⟫, ⟪रम्⟫. À l’Ārdhadhātukā (Ā), toutes ces racines forment l’aoriste en s.**
@@ -696,7 +696,7 @@ Paradigme :
 | **2. ⟪द्वितीयः⟫** | *⟪अयासीस्⟫* | ⟪अयासिष्टम्⟫ | ⟪अयासिष्ट⟫ |
 | **3. ⟪प्रथमः⟫** | *⟪अयासीत्⟫* | ⟪अयासिष्टाम्⟫ | ⟪अयासिषुर्⟫ |
 :::
-## 59.6. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematischer s-Aorist)
+## 59.6. Aorist (⟪लुङ्⟫) 7: sa-Aorist (thematischer Aoriste en s)
 
 ::: grammar-box
 **La plupart des racines ⟪अनिट्⟫ se terminant par -ś, -ṣ ou -h, et dont l'avant-dernière syllabe est i, u ou ṛ, forment l'aoriste en s. Les racines facultatives ⟪अनिट्⟫ de cette forme peuvent former soit l'aoriste en s, soit l'aoriste en iṣ.**
@@ -746,7 +746,7 @@ Paradigme :
 | **2. ⟪द्वितीयः⟫** | ⟪अधिक्षथास्⟫ / *⟪अधिग्धास्⟫* | ⟪अधिक्षथाम्⟫ | ⟪अधिक्षध्वम्⟫ / *⟪अधिग्ध्वम्⟫* |
 | **3. ⟪प्रथमः⟫** | ⟪अधिक्षत⟫ / *⟪अदिग्ध⟫* | ⟪अधिक्षताम्⟫ | ⟪अधिक्षन्त⟫ |
 :::
-## 59.7. Übung
+## 59.7. Exercice
 
 A) Traduisez le texte suivant et identifiez toutes les formes verbales qui y figurent.
 

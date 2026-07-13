@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 12
+# ܕܪܫܐ 12
 
 ::: deleteme-box
 **In dieser Lektion lernen Sie:**
@@ -18,41 +18,41 @@ status: stable
 - Passiv und PPP der bisher gelernten Wurzeln
 :::
 
-## 12.1. Partizip Perfekt Passiv (PPP)
+## 12.1. ܡܫܬܘܬܦܢܐ ܓܡܝܪܐ ܚܒܫܝܐ (PPP)
 
-One way to form passive sentences in the past tense is the construction using the so-called Participle Perfect Passive (PPP).
+לייטא דלמסר קומי מן עתיקא הויא בנשמתא דלמסר קומי מן עתיקא.
 
 ::: grammar-box
-**In reality, the PPP is not a true participle, as it is not formed from a tense stem. Rather, it is a nominal derivation from the root with the primary suffix -ta or -na. Therefore, Indian grammar refers to it as the kta suffix.**
+**במציאות, נשמתא דלמסר קומי מן עתיקא לאו נשמתא אמתית היא, דלא אתיא משרש זמן. אלא הויא נגזרת שמית משרש עם סוף ראשון -ta או -na. לכן, גרמא דהוד מיקרי לה בשרש kta.**
 :::
 
-### 12.1.1. Schema for transitive verbs
+### 12.1.1. ܕܡܘܬܐ ܠܦܥ̈ܠܐ ܥܒܪ̈ܢܐ
 
 ::: grammar-box
 **Agent (kartṛ) in the Instrumental case (tṛtīyā) -- direct object (karman) in the Nominative case (prathamā) -- Participle Perfect Passive**
 
-The PPP agrees with the object in number, case and gender.
+ܐܪܡܝܬ ܦܠܓܘܣ ܕܩܪܝܐ ܒܡܢܝܢܬܐ، ܣܦܪܘܬܐ و ܡܕܒܪܬܐ.
 
 An auxiliary verb ("to be") is not necessary.
 
-Examples:
-> **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = "(By the saint was heaven attained) = The saint has attained heaven."
+أمثلة:
+> **سادهوناسوارجاابتاه** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = "(بالقدوس نال السماء) = لقد نال القدوس السماء."
 >
-> **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = "(By the Brahmin was the goddess with a sacrifice worshipped) = The Brahmin has worshipped the goddess with a sacrifice."
+> **براهمنا ديفيشطات** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = "(بالبرهماني عُبِدت الإلهة بذبيحة) = لقد عبد البراهمي الإلهة بذبيحة."
 :::
 
-### 12.1.2. Schema I for intransitive verbs and verbs of motion
+### 12.1.2. مخطط أفعال اللزوم وأفعال الحركة
 
 ::: grammar-box
 **Agent (kartṛ) in the Nominative case (prathamā) -- Perfect Passive Participle**
 
-In this case, the PPP agrees with the agent in number, case, and gender. The Perfect Passive Participle has active meaning for intransitive verbs (verbs without a direct object) and verbs of motion.
+בܟܕܐ ܗܢܐ، ܦܠܓ ܫܪܝܪ ܒܡܢܐ، ܣܦܬܐ، וּבְמִין. לְפַלְגָא ܫܪܝܪ ܠܐ ܡܘܕܥ לְעִין ܒܝܬ ܠܐ ܡܘܣܪ (ܒܝܬ ܠܐ ܡܘܣܪ) וּבְעִין ܕܢܘܩܐ.
 
 Example:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "The Kṣatriya woman has gone into the city."
 :::
 
-### 12.1.3. Schema II for intransitive verbs and verbs of motion
+### 12.1.3. ܣܟܹܡܵܐ II ܠܦܶܥܠܹܐ ܕܠܵܐ ܥܵܒ݂ܪ̈ܳܢܹܐ ܘܦܶܥܠܹܐ ܕܚܰܪܟܵܐ
 
 ::: grammar-box
 **Agent (kartṛ) im Instrumentalis (tṛtīyā) -- PPP im Nominativ Singular Neutrum**
@@ -63,18 +63,18 @@ Beispiel:
 Die Konstruktion nach Schema II ist viel seltener als die Konstruktion nach Schema I.
 :::
 
-## 12.2. Zur Bedeutung des PPP
+## 12.2. ܠܘܬ ܡܕܡ ܕܡܬܚܙܐ ܒܦܦܦ
 
-Thus, while the so-called „Participle Perfect Passive“ for transitive verbs primarily has a passive meaning (**āpta** = „reached (been)“) and for intransitive verbs and verbs of motion an active meaning (**gata** = „gone“), there are some verbs where the PPP can have both active and passive meanings:
+כך, בעוד שהכינוי „Participle Perfect Passive“ לפעלים מעבירים משמש בעיקר במשמעות פסיבית (**āpta** = „הגיע (נמצא)“) ולפעלים לא מעבירים ופועלי תנועה משמש במשמעות אקטיבית (**gata** = „הלך“), ישנם כמה פעלים שבהם ה-PPP יכול לשמש גם במשמעות אקטיבית וגם פסיבית:
 
 e.g.
 - **gata** = ⟪गत⟫ = „gone“ (active); but also: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „a gone path“ (passive)
 - **āpta** = ⟪आप्त⟫ = „reached (been)“ (passive), „having reached“ (active)
 
-## 12.3. Bildung des PPP
+## 12.3. ܨܘܪܬܐ ܕܦܦܦ
 
 ::: grammar-box
-The following forms of derivation occur (for each root, its PPP must be learned!):
+דְּמִיטוֹן אִלֵּין דִּי לְשׁוֹן (לְכָל שָׁרַשׁ, יְהוֹב לְמִדְּעָא פַּרְסוֹי דִּבְנָא מְלַעֲלָא!):
 
 **(mostly) strong-grade root**
 
@@ -83,17 +83,17 @@ The following forms of derivation occur (for each root, its PPP must be learned!
 - **+ -na**
 - **+ -na**
 
-The feminine stems are: **-tā**, **-itā**, **-nā**; the neuter declines like **phala** n.
+די סטמות דנשיתא הנה: **-tā**, **-itā**, **-nā**; די נייטרלית משתנא כ-**phala** n.
 :::
 
-### 12.3.1. PPP auf -ta (kta)
+### 12.3.1. ܦܦܦ ܥܠ -ܬ (ܟܬ)
 
-#### 12.3.1.1. Without connecting vowel -i- (aniṭ)
+#### 12.3.1.1. ܕܠܐ ܙܘܥܐ ܡܚܒܢܐ -ܝ- (ܐܢܝܛ)
 
 *aniṭ* = "without (*an-*) preceding the suffix (*-i-) *t*" (i.e., without the connecting vowel *i*).
 
-::: grammar-box
-Without a connecting vowel, the PPP is generally formed from roots ending in a vowel as well as many other roots, without there being a fixed rule for which structured roots take or do not take the connecting vowel.
+::: grammar-box  
+בְּלָא מִדַבְרָא דְמַחְבּוּר, פִּתְגָם גׁמַר מֵעוּבדָא נְטִיר בְּכַל שׁרשׁוֹי דְמִתְכַּנָן בְּקוֹל, וְאַף עַל פִּי כָן לָא יֵשׁ מִצְוַת קָבַע לְמֵידַע מַאי שׁרשׁוֹי נָטְרוּ אוֹ לָא נָטְרִין מֵדַבְּרָא דְמַחְבּוּר.
 
 A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 :::
@@ -115,9 +115,9 @@ A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
 | **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
-#### 12.3.1.2. With connecting vowel -i- (seṭ)
+#### 12.3.1.2. ܥܡ ܩܠܐ ܡܚܒܪܢܐ -ܝ- (ܣܛ)
 
-*seṭ* = *sa-iṭ* = “with (*sa-*) the suffix preceded by (*-i-) *t*” (i.e., with the connecting vowel *i*).
+*seṭ* = *sa-iṭ* = “עִם (*sa-*) הַסּוֹף שֶׁקּוֹדֵם לוֹ (*-i-) *t*” (כלומר, עִם הַתּוֹךְ מְחַבֵּר *i*).
 
 **Examples:**
 
@@ -130,9 +130,9 @@ A list of *aniṭ* roots can be found in Kielhorn, *Grammar* § 298.
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
 :::
 
-## 12.4. Laws of Sound Combination in the Word
+## 12.4. ܢܡܘܣ̈ܐ ܕܚܒܪܐ ܕܩܠܐ ܒܡܠܬܐ
 
-In *aniṭ*-forms, the following laws of sound combination in the word must be observed. **These laws are very important for understanding all Sanskrit morphology.**
+בְּשַׁעֲתָא דִּבְשַׁלְטוֹן *aniṭ*, יָבוּק לַאֲתַבְרָא מַלְכָּוְתָא דִּשְׁמֻעַ בְּלֵישָׁנָא דִּמְלַח. **בְּשַׁעֲתָא דִּי מַלְכָּוְתָא אֵלֶּה חֲשׁוּבַת לְאַחְזָאָה כָּל מוֹרְפּוֹלוֹגְיָא דַסַנְסְקְרִית.**
 
 ::: no-header
 | | |
@@ -146,19 +146,19 @@ In *aniṭ*-forms, the following laws of sound combination in the word must be o
 | **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-## 12.5. Wortliste
+## 12.5. ܡܠܘܐܐ
 
-- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : to awaken, to awaken to knowledge, to recognize; PPP **buddha** 3 awakened, hence **Buddha** = "the Awakened" (not: the Enlightened)
+- **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : ܠܝܬ, ܠܝܬ ܠܘܚܡܬܐ, ܠܝܬ ܕܝܕܥ; PPP **buddha** 3 ܠܝܬ, ܐܦ ܒܘܕܗ = "ܠܝܬ" (ܠܐ: ܡܫܟܠ)
 
 ::: media
 ![](/images/lekt1201.webp)
-Fig.: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Image source: [Details](/arc/licenses#lekt1201))
+ܦܠܓ: ⟪गौतमो⟫ ⟪बुद्धः⟫
+(ܡܕܒܪ ܝܬܝܪ: [ܦܠܘܚ](/arc/licenses#lekt1201))
 :::
-- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : to burn (something)
-- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : to overcome, to endure, patiently to endure = to forgive
-- **mṛga** m. ⟪मृग⟫ : wild animal
-- **mārga** m. ⟪मार्ग⟫ : path (paths were often game trails)
+- **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : ܠܒܶܝܬ (ܟܢ)
+- **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟫ sahate soḍha : ܠܓܰܪ, ܠܒܶܝܬ ܠܓܰܪ = ܠܫܘܟ
+- **mṛga** m. ⟪मृग⟫ : ܚܝܠܐ
+- **mārga** m. ⟪मार्ग⟫ : ܐܘܪܟܬܐ (ܐܘܪܚ̈ܐ ܗܝܢܘܿ ܠܓܰܪ ܚܝܠܐ)
 
 ::: media
 ![](/images/lekt1202.webp)
@@ -167,10 +167,10 @@ Fig.: ⟪मार्गः⟫
 :::
 - **api** ⟪अपि⟫ : also (postposed)
 
-Regarding the 6th present class, some roots are counted by indigenous grammarians that form the present stem with nasal infix and thematic vowel a, e.g.:
+Bezüglich der 6. heutigen Stunde zählen einige einheimische Grammatiker Wurzeln, die den Präsensstamm mit nasalem Infix und thematischem Vokal a bilden, z.B.:
 
-- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : unbind, release, liberate; to liberate from the cycle of rebirths (**saṃsāra** m.) = to save
-- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : to sprinkle
+- **muc** 6 U (muñcati), PPP **mukta** ⟪मुच्⟫ ⟪मुञ्चति⟫ ⟪मुक्त⟫ : lösen, befreien, freimachen; von dem Kreislauf der Wiedergeburten (**saṃsāra** m.) befreien = retten
+- **sic** 6 U (siñcati), PPP **sikta** ⟪सिच्⟫ ⟪सिञ्चति⟫ ⟪सिक्त⟫ : besprengen
 
 On word formation:
 
@@ -185,7 +185,7 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 :::
 - **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : knowledge, organ of cognition.
 
-### 12.5.1. Passive and PPP of the roots learned so far
+### 12.5.1. ܦܣܝܒܐ ܘܦܦܦ ܕܥܩܪ̈ܐ ܕܐܬܝܠܦܘ ܥܕܡܐ ܠܗܫܐ
 
 | Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
@@ -234,11 +234,11 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-## 12.6. Übung
+## 12.6. ܬܪܓܠܐ
 
-**A) Form passive sentences of the past from the active sentences in [Lesson 7](/lektionen/lektion07), Exercise A, and for intransitive verbs and verbs of motion form active sentences of the past.**
+**ܐ) ܫܘܪ̈ܝ ܦܠܚܐ ܕܥܒܪ ܡܢ ܫܘܪ̈ܝ ܦܠܚܐ ܒ[ܠܩܘܢܝܬܐ 7](/lektionen/lektion07), תּוֹכְחָה ܐ, וּלְפִי פְעַל בְּלוֹא מוֹשָׁך וּפְעַל דַּרְכּוֹ ܫܘܪ̈ܝ ܦַעֲלָא דְּעוֹבַר.**
 
-**B) Form the corresponding PPPs for the verb forms in [Lesson 10](/lektionen/lektion10), Exercise A. Note that a form like sṛjati corresponds to PPPs in all three genders.**
+**ܒ) ܫܘܪ̈ܝ פּ"פ דְּעוֹבַר לְפִי שׁוּם פְעָל ב[ܠܩܘܢܝܬܐ 10](/lektionen/lektion10), תּוֹכְחָה ܐ. וַדַע כִּי שׁוּם פְּשׁוטָא כְגַון sṛjati מִתְחַבֵּר לְפִי פ"פ בְכָל שְׁלושַׁת הַמִּינִים.**
 
-**C) Put the sentences from [Lesson 10](/lektionen/lektion10), Exercise C, into the passive voice in the past tense.**
+**ܓ) ܫׁוּר̈י פְעָלִין מֵ[ܠܩܘܢܝܬܐ 10](/lektionen/lektion10), תּוֹכְחָה ܓ, לְפִי פַּעַל בְּלוֹא מוֹשָׁך ܒַעֲבְרָא.**
 

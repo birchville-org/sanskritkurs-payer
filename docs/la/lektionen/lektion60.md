@@ -140,7 +140,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रमतुर्⟫ | ⟪चक्रमाते⟫ |
 :::
-## 60.3. Der Dual des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 60.3. Dualis perfecti periphrastici (⟪anuprayoga-liṭ⟫)
 
 ⟪गण्⟫ 10P "numerare"
 
@@ -160,7 +160,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪आसां⟫ ⟪चक्राते⟫:br⟪आसामासतुर्⟫:br⟪आसां⟫ ⟪बभूवतुर्व्⟫ |
 :::
-## 60.4. Das Partizip ⟪परस्मैपद⟫ des reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
+## 60.4. Participium ⟪parasmaipada⟫ perfecti reduplicati (⟪dvitvaliṭ⟫)
 
 ::: grammar-box
 **Eruditio:**
@@ -413,7 +413,7 @@ Passivum: ⟪यियक्ष्यते⟫ "vult sacrificare"
 :::
 De formatione nominum agentis in -u ex radicibus desiderativis vide [Lectio 54](lektion54.md).
 
-## 60.7. Übung
+## 60.7. Exercitium
 
 A) Discite in Kielhorn, Grammatica § 451 formationes irregularium desiderativorum ad verba iam didacta:
 

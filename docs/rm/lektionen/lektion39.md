@@ -48,7 +48,7 @@ Las desinenzas da la prima persuna (***⟪⟪तृतीयः⟫⟫⟪⟪प�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
 
 :::
-### 39.2.2. Sechste Präsensklasse (⟪तुदादि⟫)
+### 39.2.2. Sisavla classa dal temp preschent (⟪tudādi⟫)
 
 ⟪विश्⟫ 6P
 
@@ -62,7 +62,7 @@ Las desinenzas da la prima persuna (***⟪⟪तृतीयः⟫⟫⟪⟪प�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪विशेयम्⟫ | ⟪विशेम⟫ | **\<⟪विशेय⟫\>** | **\<⟪विशेमहि⟫\>** |
 
 :::
-### 39.2.3. Vierte Präsensklasse (⟪दिवादि⟫)
+### 39.2.3. Quarta classa da prescha (⟪दिवादि⟫)
 
 ⟪नृत्⟫ 1P
 
@@ -203,7 +203,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪दध्याम्⟫ | ⟪दध्याम⟫ | ⟪दधीय⟫ | ⟪दधीमहि⟫ |
 
 :::
-### 39.4.3. Fünfte Präsensklasse (⟪स्वादि⟫)
+### 39.4.3. Tschintgavla classa dal temp preschent (⟪svādi⟫)
 
 ::: grammar-box
 **En radis cun finala vocalica po il -u dal suffix da furmaziun da stem (-nu) vegnir omità avant desinenzas che cumenzan cun m-.**
@@ -220,7 +220,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪सुनुयाम्⟫ | ⟪सुनुयाम⟫ | ⟪सुन्वीय⟫ | ⟪सुन्वीमहि⟫ |
 
 :::
-### 39.4.4. Achte Präsensklasse (⟪तनादि⟫)
+### 39.4.4. Otgavla classa dal temp preschent (⟪tanādi⟫)
 
 ⟪तन्⟫ 8U
 
@@ -246,7 +246,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪कुर्याम्⟫ | ⟪कुर्याम⟫ | ⟪कुर्वीय⟫ | ⟪कुर्वीमहि⟫ |
 
 :::
-### 39.4.5. Siebte Präsensklasse (⟪रुधादि⟫)
+### 39.4.5. Setavla classa da prescha (⟪रुधादि⟫)
 
 ⟪युज्⟫ 7U
 
@@ -260,7 +260,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪युञ्ज्याम्⟫ | ⟪युञ्ज्याम⟫ | ⟪युञ्जीय⟫ | ⟪युञ्जीमहि⟫ |
 
 :::
-### 39.4.6. Neunte Präsensklasse (⟪क्र्यादि⟫)
+### 39.4.6. Novavla classa dal temp preschent (⟪kryādi⟫)
 
 ⟪क्री⟫ 9U
 
@@ -274,7 +274,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪क्रीणीयाम्⟫ | ⟪क्रीणीयाम⟫ | ⟪क्रीणीय⟫ :brkrī + n-īy-a | ⟪क्रीणीमहि⟫ |
 
 :::
-## 39.5. Übung
+## 39.5. Exercizi
 
 Furmà las formas da la emprima persuna, che correspundan a questa forma verbala en numer, temp, modi (indicativ, optativ) e modus d'acziun (P, Ā, passìv).
 

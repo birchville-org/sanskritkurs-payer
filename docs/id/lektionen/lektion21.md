@@ -13,8 +13,8 @@ status: stable
 
 ### 21.1.1. Present Participle (⟪लडादेशः⟫) Parasmaipada
 
-::: grammar-box
-This participle is a nominal formation derived from the present stem, i.e., a true participle. It is an adjective indicating that someone or something is currently doing what is expressed by the verbal root (+ prefix) while something else is happening. A permanent state can also be expressed with it.
+::: grammar-box  
+Partisip ini adalah bentuk nomina yang berasal dari batang kata sekarang, yaitu partisip sejati. Ini adalah kata sifat yang menunjukkan bahwa seseorang atau sesuatu sedang melakukan apa yang dinyatakan oleh akar verbal (+ awalan) sementara hal lain terjadi. Keadaan permanen juga dapat dinyatakan dengannya.
 
 **Examples:**
 
@@ -25,14 +25,14 @@ This participle is a nominal formation derived from the present stem, i.e., a tr
 :::
 ::: grammar-box
 
-| **Formation of the Present Participle Parasmaipada for thematic present stems:** |||
+| **Pembentukan Partisip Sekarang Parasmaipada untuk akar present tematik:** |||
 | :--- | :--- | :--- |
-| **Masculine, Neuter** | | |
-| | **strong stem** | present stem + **-nt-** |
-| | **weak stem** | present stem + **-t-** |
-| **Feminine** | | |
-| | | present stem + **-nt-** + **-ī** (declension like **devī**:br⟪देवी⟫) |
-| | **6th present class** | present stem + **-nt-** + **-ī**:bror::brpresent stem + **-t-** + **-ī** |
+| **Maskulin, Neuter** | | |
+| | **bentuk kuat** | akar present + **-nt-** |
+| | **bentuk lemah** | akar present + **-t-** |
+| **Feminin** | | |
+| | | akar present + **-nt-** + **-ī** (fleksi seperti **devī**:br⟪देवी⟫) |
+| | **kelas present ke-6** | akar present + **-nt-** + **-ī**:bror::brakar present + **-t-** + **-ī** |
 
 :::
 Examples:
@@ -56,7 +56,7 @@ Examples:
 | | **6. Genitive**:br⟪षष्ठी⟫ | **⟪यजताम्⟫**:bryaja-t-ām | **⟪यजताम्⟫** | |
 
 :::
-Note the identity of **⟪यजन्ति⟫** (Nom. pl. Neuter) with the 3rd pl. P.!
+Perhatikan kesamaan **⟪यजन्ति⟫** (Nom. jamak Neuter) dengan bentuk orang ketiga jamak!
 
 4\. Present class
 
@@ -78,13 +78,13 @@ Note the identity of **⟪यजन्ति⟫** (Nom. pl. Neuter) with the 3rd
 :::
 ::: grammar-box
 
-| **Formation of the Present Participle Parasmaipada for athematic present stems (except 3rd present class):** |||
+| **Pembentukan Partisip Sekarang Parasmaipada untuk akar present athematic (kecuali kelas 3 present):** |||
 | :--- | :--- | :--- |
-| **Masculine, Neuter** | | |
-| | **strong stem** | present stem + **-ant-** |
-| | **weak stem** | present stem + **-at-**:br(The final sound of the weak present stem is the same as before the 3rd plural P.) |
-| **Feminine** | | |
-| | | present stem + **-at-** + **-ī** (declension like **devī**:br⟪देवी⟫) |
+| **Maskulin, Neuter** | | |
+| | **bentuk kuat** | bentuk present + **-ant-** |
+| | **bentuk lemah** | bentuk present + **-at-**:br(Bunyi akhir dari bentuk present lemah sama seperti sebelum plural ke-3 P.) |
+| **Feminin** | | |
+| | | bentuk present + **-at-** + **-ī** (deklinsi seperti **devī**:br⟪देवी⟫) |
 
 :::
 2\. Present class:
@@ -107,15 +107,15 @@ Note the identity of **⟪यजन्ति⟫** (Nom. pl. Neuter) with the 3rd
 
 :::
 ::: indent
-¹ **⟪सती⟫** "a good (faithful) woman (who burns herself with her husband's corpse in later times)" English: sutee
+¹ **⟪सती⟫** "seorang wanita yang baik (setia) (yang membakar dirinya sendiri bersama jenazah suaminya di masa kemudian)" Bahasa Inggris: sutee
 :::
 ::: media
 ![](/images/lekt2101.webp)
-Fig.: ⟪सती⟫-memorial plaque
-⟪सती⟫ memorial plaque in the palace of Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫
-(Image source: [Details](/en/licenses#lekt2101))
+Fig.: ⟪सती⟫-plakat peringatan
+⟪सती⟫ plakat peringatan di istana Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫
+(Sumber gambar: [Details](/en/licenses#lekt2101))
 :::
-5\. Present class:
+5\. Kelas saat ini:
 
 ::: indent
 **⟪सु⟫** "to press": **⟪सुन्वन्त्⟫**
@@ -161,25 +161,25 @@ Fig.: ⟪सती⟫-memorial plaque
 
 :::
 ::: grammar-box
-**As the first member of a compound, instead of ⟪महत्⟫ ⟪महा⟫ appears:**
+**Sebagai anggota pertama dari suatu majemuk, yang muncul sebagai pengganti ⟪महत्⟫ ⟪महा⟫ adalah:**
 
 **Examples:**
 
 :::
 ::: indent
-**⟪महादेव⟫** "the great God" (e.g. ⟪शिव⟫)  
-**⟪महादेवी⟫** "the great Goddess, the chief wife of a king (⟪देव⟫)"
+**⟪महादेव⟫** "dewa agung" (mis. ⟪शिव⟫)  
+**⟪महादेवी⟫** "dewi agung, istri utama seorang raja (⟪देव⟫)"
 :::: media
 ![](/images/lekt2102.webp)
 Fig.: ⟪महादेवो⟫ ⟪विष्णुः⟫
-"A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".
-(Image source: [Details](/en/licenses#lekt2102))
+"Segel Sardonyx abad ke-4–ke-6 Masehi yang menggambarkan Wisnu bersama seorang pemuja. Prasasti dalam bahasa Baktria tulisan sambung berbunyi: 'Mihira, Wisnu, dan Siwa'."
+(Sumber gambar: [Rincian](/en/licenses#lekt2102))
 ::::
 :::
 ::: indent
-"A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: 'Mihira, Vishnu and Shiva'."
+"Segel Sardonyx abad ke-4–ke-6 Masehi yang menggambarkan Wisnu bersama seorang pemuja. Prasasti dalam bahasa Baktria tulisan sambung berbunyi: 'Mihira, Wisnu, dan Siwa'."
 :::
-## 21.2. Sandhi for final nasals
+## 21.2. Sandhi untuk nasal akhir
 
 ::: grammar-box
 **After a short vowel, final nasals – except -m – are doubled before an initial vowel.**
@@ -193,14 +193,14 @@ Fig.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 ## 21.3. Polite Forms of Address
 
 ::: grammar-box
-**In Sanskrit, one can address someone in the 2nd person singular without being impolite. However, if one wishes to be polite, one can use a noun meaning "Venerable" or similar, and put the verb in the 3rd person singular or plural, or use a passive construction. The escalation of politeness in the use of person in address is roughly as follows:**
+**Dalam bahasa Sanskerta, seseorang dapat menyapa orang lain dalam bentuk tunggal kedua tanpa dianggap tidak sopan. Namun, jika ingin bersikap sopan, seseorang dapat menggunakan kata benda yang berarti "Yang Terhormat" atau sejenisnya, dan menempatkan kata kerja dalam bentuk tunggal ketiga atau jamak ketiga, atau menggunakan konstruksi pasif. Peningkatan tingkat kesopanan dalam penggunaan orang saat menyapa kira-kira sebagai berikut:**
 
 :::
 ::: indent
-**2. sg. » 2. pl. » 3. sg. with corresponding noun » 3. pl. with corresponding noun**
+**tung. 2 » jam. 2 » tung. 3 dengan kata benda terkait » jam. 3 dengan kata benda terkait**
 :::
-**The most important such politeness noun is ⟪भवन्त्⟫, fem.: ⟪भवती⟫. It corresponds in its usage to our polite "you" (formal).**
-This **⟪भवन्त्⟫** is a contraction of **⟪भगवन्त्⟫**; its declension is that of nouns ending in **-vant** (see [Lesson 13](lektion13.md)). This **⟪भवन्त्⟫** must be distinguished from the present participle P of **⟪भू⟫** "to become" **⟪भवन्त्⟫**: the nom. sg. masc. of **⟪भवन्त्⟫** "you" (formal) is **⟪भवान्⟫**, that of the participle **⟪भवन्⟫**.
+**Kata benda kesopanan terpenting seperti itu adalah ⟪भवन्त्⟫, feminin: ⟪भवती⟫. Penggunaannya sesuai dengan kata "Anda" (formal) yang sopan dalam bahasa kita.**
+Kata **⟪भवन्त्⟫** ini adalah kontraksi dari **⟪भगवन्त्⟫**; penurunannya sama dengan kata benda yang berakhiran **-vant** (lihat [Pelajaran 13](lektion13.md)). Kata **⟪भवन्त्⟫** ini harus dibedakan dari kata kerja partisipal kini P dari **⟪भू⟫** "menjadi" **⟪भवन्त्⟫**: bentuk nominatif tunggal maskulin dari **⟪भवन्त्⟫** "Anda" (formal) adalah **⟪भवान्⟫**, sedangkan dari partisipial tersebut adalah **⟪भवन्⟫**.
 
 **Examples:**
 
@@ -220,57 +220,57 @@ Feminine:
 :::
 Other words that can be used similarly to **⟪भवन्त्⟫**:
 
-*   **⟪आर्य⟫** (fem.: **⟪आर्या⟫**) "Noble". E.g., **⟪यदार्य⟫ ⟪इच्छति⟫** "What is your wish?"
-*   **⟪महाभाग⟫** "he whose share/fortune is great = Distinguished". Often used by women in address or when speaking about men of good standing. Very common in modern spoken Sanskrit.
+*   **⟪आर्य⟫** (fem.: **⟪आर्या⟫**) "Mulia". Mis., **⟪यदार्य⟫ ⟪इच्छति⟫** "Apa keinginan Anda?"
+*   **⟪महाभाग⟫** "yang bagiannya/rezekinya besar = Terhormat". Sering digunakan oleh wanita dalam sapaan atau ketika berbicara tentang pria yang berkedudukan baik. Sangat umum dalam bahasa Sanskerta lisan modern.
 
-If one wishes to express not only politeness but also reverence for someone, one uses **⟪अत्रभवन्त्⟫** instead of **⟪भवन्त्⟫** for someone who is present or nearby, and **⟪तत्रभवन्त्⟫** for someone absent or distant. **⟪अत्रभवन्त्⟫** and **⟪तत्रभवन्त्⟫** can be translated as "you" (formal), "Your Venerability", "Your Eminence", etc.:
+Jika seseorang ingin menyatakan tidak hanya kesopanan tetapi juga penghormatan kepada seseorang, maka digunakan **⟪अत्रभवन्त्⟫** sebagai pengganti **⟪भवन्त्⟫** untuk seseorang yang hadir atau berada di dekatnya, dan **⟪तत्रभवन्त्⟫** untuk seseorang yang tidak hadir atau berada di kejauhan. **⟪अत्रभवन्त्⟫** dan **⟪तत्रभवन्त्⟫** dapat diterjemahkan sebagai "Anda" (formal), "Kemuliaan Anda", "Kardinalitas Anda", dll.:
 
 ::: indent
-**⟪किमत्रभवत्यत्रभवतां⟫ ⟪भार्या⟫** = "Is the gracious (here present) woman your wife?"  
-**⟪किं⟫ ⟪तत्रभवतां⟫ ⟪कुशलवृत्तम्⟫** (in a letter or telephone conversation) = "Are you well?"
+**⟪किमत्रभवत्यत्रभवतां⟫ ⟪भार्या⟫** = "Apakah wanita yang mulia (yang hadir di sini) adalah istri Anda?"  
+**⟪किं⟫ ⟪तत्रभवतां⟫ ⟪कुशलवृत्तम्⟫** (dalam surat atau percakapan telepon) = "Apakah Anda baik-baik saja?"
 :::
-## 21.4. Word List
+## 21.4. Daftar Kata
 
-**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** to allocate something to someone (Acc.), to befall, to love, honor, revere someone
+**⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** mengalokasikan sesuatu kepada seseorang (Akk.), menimpa, mencintai, menghormati, mengagumi seseorang
 
 derived from:
 
 ::: indent
-**⟪भक्ति⟫ f.:** devotion, loyalty, love (in the religious sphere: love and respect for a personal god. see Basham, Wonder p. 332f.)  
-**⟪भाग⟫ m.:** share, part  
-**⟪भग⟫ m.:** (good) share, fortune, well-being, dignity  
-**⟪भगवन्त्⟫ 3:** fortune-having, dignity-having (epithet of ⟪विष्णु⟫ – ⟪कृष्ण⟫)
+**⟪भक्ति⟫ f.:** bhakti, kesetiaan, cinta (dalam ranah keagamaan: cinta dan rasa hormat kepada dewa personal. lihat Basham, Wonder hlm. 332f.)
+**⟪भाग⟫ m.:** berbagi, bagian
+**⟪भग⟫ m.:** (bagian) baik, nasib, kesejahteraan, martabat
+**⟪भगवन्त्⟫ 3:** memiliki nasib, memiliki martabat (epitet dari ⟪विष्णु⟫ – ⟪कृष्ण⟫)
 :::: media
 ![](/images/lekt2103.webp)
 Fig.: ⟪भगवान्कृष्णः⟫
-⟪भगवान्कृष्णः⟫ as ⟪जगन्नाथ⟫ (right) with his half-sister ⟪सुभद्रा⟫ (center) and his older brother ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
-(Image source: [Details](/en/licenses#lekt2103))
+⟪भगवान्कृष्णः⟫ sebagai ⟪जगन्नाथ⟫ (kanan) dengan saudara perempuan seperdadanya ⟪सुभद्रा⟫ (tengah) dan kakaknya ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
+(Sumber gambar: [Details](/en/licenses#lekt2103))
 ::::
 :::
 ::: indent
-**⟪भगवद्गीता⟫ f.:** "Song (⟪गीता⟫) of the Dignified (⟪कृष्ण⟫)"
+**⟪भगवद्गीता⟫ f.:** "Lagu (⟪गीता⟫) dari yang Bermartabat (⟪कृष्ण⟫)"
 :::
 ::: media
 ![](/images/lekt2105.webp)
 Fig.: ⟪भगवद्गीता⟫
-⟪भगवद्गीता⟫ - Manuscript, 19th century.
-(Image source: [Details](/en/licenses#lekt2105))
+⟪भगवद्गीता⟫ - Naskah, abad ke-19.
+(Sumber gambar: [Details](/en/licenses#lekt2105))
 :::
 ::: indent
-**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (actually a desiderative form of ⟪भज्⟫: to wish that one participates): to beg
+**⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (sebenarnya bentuk desideratif dari ⟪भज्⟫: ingin berpartisipasi): memohon
 :::
-derived from:
+berasal dari:
 
 ::: indent
-**⟪भिक्षु⟫ m.:** beggar, monk
+**⟪भिक्षु⟫ m.:** pengemis, biksu
 :::: media
 ![](/images/lekt2104.webp)
 Fig.: ⟪भिक्षवः⟫
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
-(Image source: [Details](/en/licenses#lekt2104))
+(Sumber gambar: [Details](/en/licenses#lekt2104))
 ::::
 :::
-**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** to ruin (intransitive), to go bad, to be disgraced
+**⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** merusak (intransitif), menjadi buruk, dipermalukan
 
 ::: indent
 **⟪दोष⟫ m.:** fault
@@ -307,7 +307,7 @@ B) Translate:
 
 **lekt2101:** ⟪सती⟫ memorial plaque in the palace of Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫ [Image source: Flicka / Wikipedia. GNU FDL license]
 
-**lekt2102:** "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva". [Image source: PHGCOM / Wikipedia. GNU FDL license]
+**lekt2102:** "Segel Sardonyx abad ke-4–ke-6 Masehi yang menggambarkan Wisnu bersama seorang pemuja. Prasasti dalam bahasa Bactria bersambung berbunyi: 'Mihira, Wisnu, dan Siwa'. [Sumber gambar: PHGCOM / Wikipedia. Lisensi GNU FDL]"
 
 **lekt2103:** ⟪भगवान्कृष्णः⟫ as ⟪जगन्नाथ⟫ (right) with his half-sister ⟪सुभद्रा⟫ (center) and his older brother ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫ [Image source: Sujitkumar / Wikipedia. GNU FDL license]
 

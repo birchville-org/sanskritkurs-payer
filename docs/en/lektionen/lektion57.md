@@ -9,7 +9,7 @@ status: stable
 
 # Lesson 57
 
-## 57.1. Aorist 4: s-Aorist
+## 57.1. लुङ् ४: स-लुङ्
 
 ::: grammar-box
 **The s-Aorist is formed for most ⟪अनिट्⟫ roots, provided they do not exclusively have another aorist form. Optional ⟪अनिट्⟫ roots can generally optionally form either this or the iṣ-Aorist. Also, ⟪अनिट्⟫ roots that form the ⟪परस्मैपद⟫ after the 1st, 2nd, or 6th form of the aorist form the ⟪आत्मनेपद⟫ according to the s-Aorist.**

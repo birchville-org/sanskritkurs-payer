@@ -4,9 +4,9 @@ lesson_id: 33
 status: stable
 ---
 
-# Lektion 33
+# 第33课
 
-## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
+## 33.1. 重叠（⟪अभ्यास⟫ m.）
 
 * 第三现在时类
 * （以及其他现在时类的某些动词），
@@ -19,7 +19,7 @@ status: stable
 
 重叠音节由（一个辅音和）一个元音组成。
 
-### 33.1.1. Der Reduplikationskonsonant
+### 33.1.1. 重辅音
 
 ::: grammar-box
 **1. 通常：**
@@ -82,7 +82,7 @@ status: stable
 **教育：**
 
 **强词干：**  
-**reduplizierte hochstufige Wurzel + Endung**
+**重叠的高阶词根 + 词尾**
 
 **弱词干：**  
 **带词尾的重叠低声调词根**
@@ -115,7 +115,7 @@ status: stable
 ā kann
 
 * 一方面，它是元音交替系列之一，带有 -a-
-* andrerseits Hochstufe in einer Ablautreihe der ā-Gruppe sein
+* 另一方面，它是 ā 组元音交替系列中的高阶元音
 
 Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
@@ -218,7 +218,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 类似地 **⟪जुह्वत्⟫** (juhu-at + s)
 
-## 33.6. Wortliste
+## 33.6. 词汇表
 
 **⟪दा⟫** 3U **⟪ददाति⟫**: 给予
 
@@ -419,8 +419,8 @@ C) 翻译并将单数句转换为复数句，反之亦然：
 
 ::: deleteme-box
 
-**Ghee-Definition und -Details:**
-* Quelle: http://en.wikipedia.org/wiki/Ghee (Zugriff: 2008-12-26)
+**酥油（Ghee）的定义与详情：**
+* 来源：http://en.wikipedia.org/wiki/Ghee（访问日期：2008-12-26）
 
 **图片目录与许可协议：**
 * **图 lekt3306（婚礼队伍，金奈）：** 图片来源：http://www.pbase.com/chandra/image/62118318（访问日期：2008-12-27）。知识共享许可协议（署名，非商业性使用，相同方式共享）。

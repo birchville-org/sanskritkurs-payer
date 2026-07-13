@@ -9,10 +9,10 @@ status: stable
 
 # Lesson 57
 
-## 57.1. Aorist 4: s-Aorist
+## 57.1. Aoris 4: s-Aoris
 
 ::: grammar-box
-**The s-aorist is formed for most ⟪अनिट्⟫-roots, provided they do not exclusively have another aorist form. Optional ⟪अनिट्⟫-roots can generally optionally form this or the iṣ-aorist. Also ⟪अनिट्⟫-roots that form the ⟪परस्मैपद⟫ after the 1st, 2nd or 6th form of the aorist form the ⟪आत्मनेपद⟫ according to the s-aorist.**
+**S-aorist dibentuk untuk sebagian besar akar ⟪अनिट्⟫, asalkan mereka tidak secara eksklusif memiliki bentuk aorist lain. Akar ⟪अनिट्⟫ opsional umumnya dapat secara opsional membentuk ini atau iṣ-aorist. Juga akar ⟪अनिट्⟫ yang membentuk ⟪परस्मैपद⟫ setelah bentuk ke-1, ke-2 atau ke-6 dari aorist membentuk ⟪आत्मनेपद⟫ sesuai dengan s-aorist.**
 
 **Formation: Augment + Root + s + athematic secondary endings**
 :::
@@ -28,7 +28,7 @@ Table of endings with stem-forming suffix
 | **3. ⟪प्रथमः⟫** | **-sīt** | -sur | -sta | -sata |
 :::
 ::: grammar-box
-**The general sound law is applied that a sibilant between two plosives drops out (cf. ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), i.e. the stem-forming suffix -s- before endings that begin with -t- or -th- drops out (but not after nasals or r-).**
+**Hukum bunyi umum yang diterapkan adalah bahwa sibilan di antara dua letupan akan hilang (lihat ⟪उद्⟫ + ⟪स्थित⟫ » ⟪उत्थित⟫), yaitu akhiran pembentuk akar -s- sebelum akhiran yang dimulai dengan -t- atau -th- akan hilang (tetapi tidak setelah bunyi sengau atau r-).**
 
 Examples:
 
@@ -37,13 +37,13 @@ Examples:
 3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***⟪क्षिप्त⟫***
 2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***⟪क्षिप्था⟫***⟪स्⟫
 :::
-Such forms could also belong to the root aorist and probably also partly belong there.
-The Indian grammarians also counted forms like ⟪अकृत⟫ (3.sg.Ā) to the s-aorist, which clearly belong to the root aorist. For this purpose, the Indian grammarians invented the following ad-hoc sound rule for the s-aorist:
+Bentuk-bentuk seperti itu juga dapat termasuk ke dalam aorist akar dan mungkin juga sebagian besar di sana.
+Para gramatika India juga menghitung bentuk-bentuk seperti ⟪अकृत⟫ (3.sg.Ā) ke dalam aorist-s, yang jelas-jelas termasuk ke dalam aorist akar. Untuk tujuan ini, para gramatika India menciptakan aturan bunyi ad-hoc berikut untuk aorist-s:
 
 ::: indent
-"After a short vowel, the 'endings' that begin with -st- or -sth- lose the -s-."
+"Setelah vokal pendek, 'akhiran' yang dimulai dengan -st- atau -sth- kehilangan -s-."
 :::
-Otherwise, the sound rules for the connection of final consonants with s- must be observed.
+Selain itu, aturan bunyi untuk penggabungan konsonan akhir dengan s- harus diperhatikan.
 
 For -dhvam applies:
 
@@ -80,7 +80,7 @@ Examples:
 | ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
 
 ::: grammar-box
-**⟪दृश्⟫ and ⟪सृज्⟫ have in the ⟪परस्मैपद⟫ Guṇa stage with rising diphthong -rā-:**
+**⟪दृश्⟫ dan ⟪सृज्⟫ berada pada tahap Guṇa dari ⟪परस्मैपद⟫ dengan diftong naik -rā-:**
 
 :::
 ::: indent
@@ -129,20 +129,20 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 ::: grammar-box
 **Irregular Forms:**
 
-**1. Roots ending in nasal (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) form the s-aorist with strong grade:**
+**1. Akar yang berakhiran dengan nasal (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) membentuk aorist-s dengan tingkat kuat:**
 **⟪अगंसि⟫ ⟪।⟫ ⟪अमंसि⟫ ⟪।⟫ ⟪अरंस्त⟫**
-**In addition, for ⟪गम्⟫ there are the regular weak-grade forms:**
-**⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (in the P, ⟪गम्⟫ has the thematic aorist)**
+**Selain itu, untuk ⟪गम्⟫ terdapat bentuk-bentuk tingkat lemah yang reguler:**
+**⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (dalam P, ⟪गम्⟫ memiliki aorist tematik)**
 
-2.  ⟪पद्⟫ 4Ā is regular (e.g. ⟪अपत्सि⟫), but in the 3.sg.Ā it has the form of the passive root aorist:
-    ⟪अपादि⟫ "he went"
+2. ⟪पद्⟫ 4Ā adalah reguler (mis. ⟪अपत्सि⟫), tetapi dalam 3.sg.Ā ia memiliki bentuk aorist akar pasif:
+⟪अपादि⟫ "ia pergi"
 
-3.  ⟪बुध्⟫ Ā can optionally take the form of the passive root aorist in the 3.sg.Ā:
-    ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "he recognized"
+3. ⟪बुध्⟫ Ā secara opsional dapat mengambil bentuk aorist akar pasif dalam 3.sg.Ā:
+⟪अबोधि⟫ / ⟪अबुद्ध⟫ "ia mengenali"
 :::
-## 57.2. Exercise
+## 57.2. Latihan
 
-A) Translate and identify the following forms without aids, and form the corresponding Aorist forms. Except for causatives and roots that form the s-Aorist, the class of the corresponding Aorist is given in parentheses:
+A) Terjemahkan dan identifikasi bentuk-bentuk berikut tanpa bantuan, serta bentukkan bentuk Aorist yang sesuai. Kecuali untuk kausatif dan akar yang membentuk aorist-s, kelas dari Aorist yang sesuai diberikan dalam tanda kurung:
 
 1.  ⟪पेचिथ⟫
 2.  ⟪अवक्⟫ (⟪३⟫)

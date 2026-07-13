@@ -23,15 +23,15 @@ The Imperative (⟪लोट्⟫) denotes
 *   **Consideration**
 *   **Question**
 
-The meanings listed above are shared with the Optative (⟪विधिलिङ्⟫).
+Makna-makna yang tercantum di atas dibagi bersama dengan Optatif (⟪विधिलिङ्⟫).
 
 The Imperative also expresses:
 
-*   **Permission**
-*   **that an action is timely** (also expressed by the Gerundive (⟪कृत्य⟫))
-*   **Blessing**
+*   **Izin**
+*   **bahwa suatu tindakan itu tepat waktu** (juga dinyatakan oleh Gerundiva (⟪कृत्य⟫))
+*   **Berkat**
 :::
-Examples:
+Contoh:
 
 ::: indent
 ⟪एहि⟫ ⟪।⟫ "Come!"
@@ -56,26 +56,26 @@ Examples:
 ::: indent
 ⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ "Please enter!"
 
-⟪निषद्यताम्⟫ ⟪।⟫ "Please, sit down!"
+⟪निषद्यताम्⟫ ⟪।⟫ "Silakan, duduklah!"
 :::
-In the Imperative of Classical Sanskrit, the forms of the 1st person are ancient Subjunctive forms. The Vedic Subjunctive is primarily the mood that expresses a wish: "Let us go!" "Let us go!"
+Dalam Imperatif Sanskerta Klasik, bentuk-bentuk orang pertama adalah bentuk Subjuntif kuno. Subjuntif Weda terutama merupakan mood yang mengungkapkan harapan: "Mari kita pergi!" "Mari kita pergi!"
 
 ::: grammar-box
-The Imperative is formed from the Present stem.
+Imperatif dibentuk dari stem Present.
 :::
-## 47.2. Formation of the Imperative (⟪लोट्⟫) of thematic present stems
+## 47.2. Pembentukan Imperatif (⟪लोट्⟫) dari stem present tematik
 
-### 47.2.1. Endings of the Imperative for thematic present stems
+### 47.2.1. Akhiran Imperatif untuk stem present tematik
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **Endings** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
-| **2nd Person**:br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
-| **3rd Person**:br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
+| **Akhiran** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **Orang Pertama**:br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
+| **Orang Kedua**:br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
+| **Orang Ketiga**:br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
-Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessing is to be expressed:
+Catatan: ¹ Akhiran orang kedua dan ketiga tunggal dapat diganti dengan -tāt jika sebuah doa restu ingin diungkapkan:
 
 ::: indent
 ⟪भद्रो⟫ ⟪भवतात्⟫ "May you be happy!" "May he be happy!"
@@ -88,9 +88,9 @@ Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessi
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪भू⟫ 1P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \<⟪भवै⟫\> | \<⟪भवामहै⟫\> |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \<⟪भवस्व⟫\> | \<⟪भवध्वम्⟫\> |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \<⟪भ्वताम्⟫\> | \<⟪भवन्ताम्⟫\> |
+| **1st Person**:br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \&lt;⟪भवै⟫\&gt; | \&lt;⟪भवामहै⟫\&gt; |
+| **2nd Person**:br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \&lt;⟪भवस्व⟫\&gt; | \&lt;⟪भवध्वम्⟫\&gt; |
+| **3rd Person**:br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \&lt;⟪भ्वताम्⟫\&gt; | \&lt;⟪भवन्ताम्⟫\&gt; |
 :::
 ### 47.2.3. Sixth Present Class (⟪तुदादि⟫)
 
@@ -98,9 +98,9 @@ Note: ¹ The endings of the 2nd and 3rd sg. can be replaced by -tāt if a blessi
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪विश्⟫ 6P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \<⟪विशै⟫\>:br(viś-a + ai) | \<⟪विशामहै⟫\> |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \<⟪विशस्व⟫\> | \<⟪विशध्वम्⟫\> |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \<⟪विशताम्⟫\> | \<⟪विशन्ताम्⟫\> |
+| **1st Person**:br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \&lt;⟪विशै⟫\&gt;:br(viś-a + ai) | \&lt;⟪विशामहै⟫\&gt; |
+| **2nd Person**:br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \&lt;⟪विशस्व⟫\&gt; | \&lt;⟪विशध्वम्⟫\&gt; |
+| **3rd Person**:br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \&lt;⟪विशताम्⟫\&gt; | \&lt;⟪विशन्ताम्⟫\&gt; |
 :::: media
 ![](/images/lekt4702.webp)
 Fig.: ⟪प्रविशत⟫
@@ -114,9 +114,9 @@ Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, �
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪नृत्⟫ 4P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \<⟪नृत्यै⟫\> | \<⟪नृत्यामहै⟫\> |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \<⟪नृत्यस्व⟫\> | \<⟪नृत्यध्वम्⟫\> |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \<⟪नृत्यताम्⟫\> | \<⟪नृत्यन्ताम्⟫\> |
+| **1st Person**:br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \&lt;⟪नृत्यै⟫\&gt; | \&lt;⟪नृत्यामहै⟫\&gt; |
+| **2nd Person**:br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \&lt;⟪नृत्यस्व⟫\&gt; | \&lt;⟪नृत्यध्वम्⟫\&gt; |
+| **3rd Person**:br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \&lt;⟪नृत्यताम्⟫\&gt; | \&lt;⟪नृत्यन्ताम्⟫\&gt; |
 :::: media
 ![](/images/lekt4701.webp)
 Fig.: ⟪नृत्यत⟫

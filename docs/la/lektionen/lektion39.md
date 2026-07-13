@@ -48,7 +48,7 @@ Formae primae personae (***⟪तृतीयः⟫⟫ ⟪पुरुषः⟫ 
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
 
 :::
-### 39.2.2. Sechste Präsensklasse (⟪तुदादि⟫)
+### 39.2.2. Classis sexta praesentis (⟪tudādi⟫)
 
 ⟪विश्⟫ 6P
 
@@ -62,7 +62,7 @@ Formae primae personae (***⟪तृतीयः⟫⟫ ⟪पुरुषः⟫ 
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪विशेयम्⟫ | ⟪विशेम⟫ | **\<⟪विशेय⟫\>** | **\<⟪विशेमहि⟫\>** |
 
 :::
-### 39.2.3. Vierte Präsensklasse (⟪दिवादि⟫)
+### 39.2.3. Classis praesentis quarta (⟪दिवादि⟫)
 
 ⟪नृत्⟫ 1P
 
@@ -90,7 +90,7 @@ Formae primae personae (***⟪तृतीयः⟫⟫ ⟪पुरुषः⟫ 
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪चोरयेयम्⟫ | ⟪चोरयेम⟫ | ⟪चोरयेय⟫ | ⟪चोरयेमहि⟫ |
 
 :::
-### 39.2.5. Passiv (Suffix ⟪यक्⟫)
+### 39.2.5. Passivum (Suffix ⟪यक्⟫)
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -203,7 +203,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪दध्याम्⟫ | ⟪दध्याम⟫ | ⟪दधीय⟫ | ⟪दधीमहि⟫ |
 
 :::
-### 39.4.3. Fünfte Präsensklasse (⟪स्वादि⟫)
+### 39.4.3. Classis quinta praesentis (⟪svādi⟫)
 
 ::: grammar-box
 **Radix vocali terminata, ante suffixum -nu cum m- incipiens, -u potest omitteri.**
@@ -220,7 +220,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪सुनुयाम्⟫ | ⟪सुनुयाम⟫ | ⟪सुन्वीय⟫ | ⟪सुन्वीमहि⟫ |
 
 :::
-### 39.4.4. Achte Präsensklasse (⟪तनादि⟫)
+### 39.4.4. Classis octava praesentis (⟪tanādi⟫)
 
 ⟪तन्⟫ 8U
 
@@ -246,7 +246,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪कुर्याम्⟫ | ⟪कुर्याम⟫ | ⟪कुर्वीय⟫ | ⟪कुर्वीमहि⟫ |
 
 :::
-### 39.4.5. Siebte Präsensklasse (⟪रुधादि⟫)
+### 39.4.5. Classis praesentis septima (⟪रुधादि⟫)
 
 ⟪युज्⟫ 7U
 
@@ -260,7 +260,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪युञ्ज्याम्⟫ | ⟪युञ्ज्याम⟫ | ⟪युञ्जीय⟫ | ⟪युञ्जीमहि⟫ |
 
 :::
-### 39.4.6. Neunte Präsensklasse (⟪क्र्यादि⟫)
+### 39.4.6. Classis nona praesentis (⟪kryādi⟫)
 
 ⟪क्री⟫ 9U
 
@@ -274,7 +274,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪क्रीणीयाम्⟫ | ⟪क्रीणीयाम⟫ | ⟪क्रीणीय⟫ :brkrī + n-īy-a | ⟪क्रीणीमहि⟫ |
 
 :::
-## 39.5. Übung
+## 39.5. Exercitium
 
 Forma primae personae, quae huic formae verbalis in numero, tempore, modo (indicativo, optativo) et modo actionis (P, Ā, Passivo) respondet, formetur.
 

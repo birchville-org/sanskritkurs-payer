@@ -34,7 +34,7 @@ trayo varṇā dvijātayo brāhmaṇaḥ kṣatriyo vaiśyaś ca / trayo varṇ�
 
 ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪।⟫ ⟪त्रयो⟫ ⟪वर्णाद्विजातयो⟫ ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याश्च⟫ ⟪।⟫
 
-3\. sāmavedargvedayajurvedās trayī. (Kauṭilīya-arthaśāstra 1.3.1.) (in gutem Sanskrit: sāmargyajurvedās trayī)
+3\. सामवेदऋग्यजुर्वेदास् त्रयी। (कौटिलीयार्थशास्त्र 1.3.1.) (सुगद संस्कृत: सामर्ग्यजुर्वेदास् त्रयी)
 
 ⟪सामवेदर्ग्वेदयजुर्वेदास्त्रयी⟫
 
@@ -80,7 +80,7 @@ avidyāsmitā rāgo dveṣo 'bhiniveṣaś ca pañca kleśāḥ.
 
 ⟪अविद्यास्मिता⟫ ⟪रागो⟫ ⟪द्वेषो⟫ ⟪ऽभिनिवेषश्च⟫ ⟪पञ्च⟫ ⟪क्लेशाः⟫ ⟪।⟫
 
-7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (Nach Kauṭilīya-arthaśāstra 1.2.1.)
+7\. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ. (कौटिल्य-अर्थशास्त्र 1.2.1 से।)
 
 ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫
 

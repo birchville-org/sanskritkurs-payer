@@ -88,7 +88,7 @@ Contrā regulam sandhi vocum coniunctārum, in fine partis prioris compositionum
 Quapropter: ⟪दुष्करण⟫
 
 :::
-### 18.2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
+### 18.2.1. Composita typi ⟪सुकर⟫ / ⟪दुष्कर⟫
 
 ::: grammar-box
 
@@ -302,7 +302,7 @@ Tab.: ⟪उपनयनम्⟫
 
 ⟪प्रभृति⟫ f.: initium
 
-## 18.5. Übung
+## 18.5. Exercitium
 
 A) Versione ⟪सुभाषित⟫ initium lectionis.
 

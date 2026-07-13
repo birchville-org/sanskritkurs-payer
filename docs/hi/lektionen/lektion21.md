@@ -1,9 +1,9 @@
 ---
-title: Lektion 21
-subtitle: "Weitere Präsensstämme auf -nt"
+title: पाठ 21
+subtitle: "अन्य -nt प्रेसन्ट स्टेम्स"
 lesson_id: 21
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "व्याकरण"
 status: stable
 ---
 

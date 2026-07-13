@@ -6,27 +6,27 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 36
+# ܬܶܪܓܳܡܳܐ 36
 
-A) Form both the reduplicated and the periphrastic perfect forms for the following forms:
+A) ܡܠܟܘ ܝܬܪ ܕܦܐܓܠ ܘܡܫܬܒܪ ܕܦܐܓܠ ܡܢ ܗܘ:
 
 ::: grammar-box
-| Present | Reduplicated | Periphrastic |
+| ሰዓቱ | ܝܬܪ | ܡܫܬܒܪ |
 | :--- | :--- | :--- |
 | ⟪१⟫. **⟪बिभ्रते⟫** | ⟪बभ्रिरे⟫ | ⟪बिभरां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 | ⟪२⟫. **⟪बिभ्यति⟫** | ⟪बिभ्युः⟫ | ⟪बिभयां⟫ ⟪चक्रुः⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 | ⟪३⟫. **⟪जुहोति⟫** | ⟪जुहाव⟫ | ⟪जुहवां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪४⟫. **⟪वेत्ति⟫** | ⟪विवेद⟫ | ⟪विदां⟫ ⟪चकार⟫ / -⟪आस⟫ / -⟪बभूव⟫ |
 :::
-B) Form the periphrastic perfect for the root **⟪आस्⟫** (to sit):
+B) ܡܠܟܘ ܝܬܪ ܕܦܐܓܠ ܡܢ ܫܪܬ **⟪आस्⟫** (to sit):
 
 ::: grammar-box
-| Present | Periphrastic Perfect |
+| ሰዓቱ | ܝܬܪ ܕܦܐܓܠ |
 | :--- | :--- |
 | ⟪१⟫. **⟪आस्ते⟫** | ⟪आसां⟫ ⟪चक⟫re / -⟪आस⟫ / -⟪बभूव⟫ |
 | ⟪२⟫. **⟪आसते⟫** | ⟪आसां⟫ ⟪चक्रिरे⟫ / -⟪आसुः⟫ / -⟪बभूवुः⟫ |
 :::
-C) Form the corresponding perfect for the following forms:
+C) ܡܠܟܘ ܝܬܪ ܕܦܐܓܠ ܡܢ ܗܘ:
 
 ::: grammar-box
 | Present / Imperfect | Perfect |
@@ -47,19 +47,19 @@ C) Form the corresponding perfect for the following forms:
 :::
 ---
 
-## Translations
+## ܬܘܪ̈ܓܡܐ
 
 ⟪१⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ ⟪।⟫ ⟪बुद्ध्यार्यसत्यानि⟫ ⟪प्रज्ञाय⟫ ⟪प्रज्ञया⟫ ⟪च⟫ ⟪दुःखान्मुक्तो⟫ ⟪मोक्तुकामार्यजनान्बोधयामासेति⟫ ⟪भिक्षव⟫ ⟪आहुः⟫ ⟪॥१॥⟫**
-When a son was born to him, the Enlightened One left family and property and went forth from home to homelessness. He recognized the Noble Truths with his mind, was liberated through the knowledge of suffering, and brought noble people who desired liberation to insight — so the monks report.
+ܡܕܢܚܐ ܕܗܘܐ ܠܝܬ ܠܗ ܒܪ، ܫܟܚ ܡܢ ܝܬܝܒܘܬܗ ܘܡܕܢܚܐ ܡܢ ܟܠܗ ܘܫܟܚ ܡܢ ܝܬܝܒܘܬܗ. ܫܟܚ ܠܝܬ ܠܗ ܡܕܢܚܐ ܒܝܬ ܣܘܦܪܐ، ܘܫܟܚ ܠܝܬ ܠܗ ܡܕܢܚܐ ܒܝܬ ܣܘܦܪܐ، ܘܫܟܚ ܠܝܬ ܠܗ ܡܕܢܚܐ ܒܝܬ ܣܘܦܪܐ — ܗܕܐ ܡܠܬܐ ܕܟ̈ܢ̈ܫܐ.
 
 ⟪२⟫. **⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञ⟫en ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫**
-The Brahmins built a fire for the great sacrifice to the gods. While the Brahmins praised Indra and the other gods, the sacrificial fire consumed the food. Thus the Brahmins caused the great gods to eat through the sacrifice, and had them hear hymns of praise.
+ܟ̈ܢ̈ܫܐ ܕܒܪܝܬ ܠܗ ܢܘܪܐ ܠܙܒܢܐ ܪܒܐ ܠܐܠ̈ܗܬܐ. ܒܝܡܐ ܕܟ̈ܢ̈ܫܐ ܫܒܚܘ ܠܝܬܪ ܘܠܐܠ̈ܗܬܐ، ܢܘܪܐ ܕܙܒܢܐ ܚܡܝܠ ܠܓܘܦܪܐ. ܗܕܐ ܡܠܬܐ ܕܟ̈ܢ̈ܫܐ ܠܝܬ ܠܗ ܡܕܢܚܐ ܒܝܬ ܣܘܦܪܐ، ܘܫܟܚ ܠܝܬ ܠܗ ܡܕܢܚܐ ܒܝܬ ܣܘܦܪܐ، ܘܫܟܚ ܠܝܬ ܠܗ ܡܕܢܚܐ ܒܝܬ ܣܘܦܪܐ.
 
 ⟪३⟫. **⟪रक्षितधर्मक्षत्रिययोधा⟫ ⟪महानगरं⟫ ⟪जेतुकामाञ्छत्रून्विजिग्युर्न⟫ ⟪तु⟫ ⟪जघ्नुः⟫ ⟪॥३॥⟫**
 The Kṣatriya warriors, who guarded the law, defeated the enemies who wanted to conquer the great city, but they did not kill them.
 
 ⟪४⟫. **⟪अधीतवेदद्विजो⟫ ⟪द्विजधर्मं⟫ ⟪वेद⟫ ⟪॥४॥⟫**
-A twice-born person who has studied the Veda knows the law and custom of the twice-born.
+ܐܝܠܢܐ ܕܬܪ̈ܝܬ ܡܕܢܚܐ ܘܫܟܚ ܠܝܬ ܠܗ ܡܕܢܚܐ ܒܝܬ ܣܘܦܪܐ، ܫܟܚ ܠܝܬ ܠܗ ܡܕܢܚܐ ܒܝܬ ܣܘܦܪܐ، ܘܫܟܚ ܠܝܬ ܠܗ ܡܕܢܚܐ ܒܝܬ ܣܘܦܪܐ.
 
 ⟪५⟫. **⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪।⟫ ⟪य⟫ ⟪एवं⟫ ⟪विदुर्नाधीयीरन्⟫ ⟪॥५॥⟫**
 One cannot live solely from science. Whoever knows this should not study.
@@ -71,7 +71,7 @@ Fig.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪�
 :::
 ---
 
-## Scholarly Fragments
+## ܦܶܠܓܹܐ ܝܽܘܠܦܵܢܵܝ̈ܳܐ
 
 ### ⟪१⟫. **⟪महाभारत⟫ ⟪१३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫**
 **⟪येन⟫ ⟪प्रीणति⟫ ⟪पितरं⟫ ⟪तेन⟫ ⟪प्रीतः⟫ ⟪प्रजापतिः⟫ ⟪।⟫**  
@@ -79,17 +79,17 @@ Fig.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪�
 **⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫**  
 **⟪सर्वे⟫ ⟪तस्यादृता⟫ ⟪धर्मा⟫ ⟪यस्यैते⟫ ⟪त्रय⟫ ⟪आदृताः⟫ ⟪।⟫**  
 **⟪अनादृतास्तु⟫ ⟪यस्यैते⟫ ⟪सर्वास्तस्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫**
-By that with which one gladdens one’s father, the Creator is gladdened; by that with which one gladdens one’s mother, the Earth is honored; by that with which one gladdens the teacher, the Veda is honored. Whoever esteems these three, esteems all regulations; whoever does not esteem these three, all his actions are fruitless.
+בְּשַׁעַת אֲדָרָה דְאָבֵיהּ, מַנְחֲלָא אִתְדַּר; בְּשַׁעַת אֲדָרָה דְאִמֵּיהּ, אַרְעָא מְכַבְדָּה; בְּשַׁעַת אֲדָרָה דְרַבָּנָא, תוֹרָתָא מְכַבְדָּה. דְיִשְׁתַּוֵי בְהָאן תְּלַת, שְׁרֵי בְכָל מִצְוָן; דְלָא יִשְׁתַּוֵי בְהָאן תְלַת, כָּל מַעֲשֵׂיהּ אִינוּן רֵיקָנִין.
 
-### ⟪२⟫. **⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫** (Behavior towards the Elderly)
-**⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫**  
-**⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫**
-One should greet the elderly with proper form, yield one’s seat to them, and stand before them with folded hands. When an elder departs, one should follow him.
+### ⟪2⟫. **⟪ܡܢܘܣܡܪܝܛܝ⟫ ⟪4⟫.⟪154⟫** (ܐܘܪܚܐ ܕܢܦܫܐ ܠܘܬ ܩܫܝܫܐ)
+**⟪अभिवादयेद्वृद्धांश्च⟩ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫**  
+**⟪कृताञ्जलिरुपासीत⟩ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫**
+יָכוֹל לְאַפְקַד קַמֵּי עָתִיקוֹן בְּאִידַע, וְיָתֵב לֵיהּ מוֹקַד, וְיָתִיב קַמֵּיהּ בִּכְפָא; וּבְשַׁעַת מִינַיָהּ דְעָתִיקוֹן, יֵיתֵי אַחֲרָיו.
 
-### ⟪३⟫. **⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫** (Control of the Senses)
-**⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫**  
-**⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ⟪विज्ञेयो⟫ ⟪जितेन्द्रियः⟫ ⟪॥⟫**
-If a man neither rejoices nor grieves, when he hears, touches, sees, tastes, or smells, then he is considered one who has conquered his senses (**⟪जितेन्द्रियः⟫**).
+### ⟪३⟩. **⟪मनुस्मृति⟩ ⟪२⟩.⟪९८⟩** (ܫܘܬܦܐ ܕܢܗܪܝ)
+**⟪श्रुत्वा⟩ ⟪स्पृष्ट्वा⟩ ⟪च⟩ ⟪दृष्ट्वा⟩ ⟪च⟩ ⟪भुक्त्वा⟩ ⟪घ्रात्वा⟩ ⟪च⟩ ⟪यो⟩ ⟪नरः⟩ ⟪।⟩**  
+**⟪न⟩ ⟪हृष्यति⟩ ⟪ग्लायति⟩ ⟪वा⟩ ⟪स⟩ ⟪विज्ञेयो⟩ ⟪जितेन्द्रियः⟩ ⟪॥⟩**
+אִם לָא יַהֲבֵי וְלָא יַעֲגוּן, בְּשַׁעַת מַלֵילָא וּמַגְעָא וּרְאִיָּה וְטַעוּם וְנְשׁוֹק, הָכֵי שַׂגִּיא בְשַׁוְיָא דְעָבַד שܘܬܦܐ ܕܢܗܪܝ (**⟪जितेन्द्रियः⟩**).
 
 ::: media
 ![](/images/uebung060.webp)
@@ -98,53 +98,53 @@ Fig.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ �
 :::
 ---
 
-## Word Form Determination
+## ܦܘܪܫܢܐ ܕܦܘܪܡܐ ܕܡܠܬܐ
 
 Determine and translate the following word forms:
 
 ::: grammar-box
-| Word Form | Determination | Meaning |
+| ܡܠܦܢܘܬܐ ܣܘܼܟܪܵܐ | ܕܝܼܬܹܪܢܘܼܬܵܐ | ܡܲܕܥܵܐ |
 | :--- | :--- | :--- |
-| ⟪१⟫. **⟪नयति⟫** | ⟪नी⟫ (1U) 3. sg. P. Ind. Pres. | he leads |
-| ⟪२⟫. **⟪समस्कुर्वन्⟫** | ⟪सम्⟫-⟪कृ⟫ (8U) 3. pl. P. Impf. | they prepared |
-| ⟪३⟫. **⟪स्यात्⟫** | ⟪अस्⟫ (2P) 3. sg. P. Opt. Pres. | he would be / should be |
-| ⟪४⟫. **⟪यस्याम्⟫** | ⟪यद्⟫ Loc. sg. f. | in which |
-| ⟪५⟫. **⟪अधीयते⟫** | ⟪अधि⟫-⟪इ⟫ (2Ā) 3. pl. Ā. Ind. Pres. | they study |
-| ⟪६⟫. **⟪प्रोचुः⟫** | ⟪प्र⟫-⟪वच्⟫ (2P) 3. pl. P. Perf. | they proclaimed |
-| ⟪७⟫. **⟪समादधाति⟫** | ⟪सम्⟫-⟪आ⟫-⟪धा⟫ (3U) 3. sg. P. Ind. Pres. | he concentrates himself |
-| ⟪८⟫. **⟪हरेः⟫** | ⟪हरि⟫ (m.) Abl./Gen. sg. | of/from the Yellow (Hari) |
-| ⟪९⟫. **⟪हरे⟫** | ⟪हर⟫ (m.) Loc. sg. | in Śiva (Hara) |
-| ⟪१०⟫. **⟪हरेत्⟫** | ⟪हृ⟫ (1U) 3. sg. P. Opt. Pres. | he would take |
-| ⟪११⟫. **⟪जह्रे⟫** | ⟪हृ⟫ (1U) 3. sg. Ā. Perf. | he took for himself |
-| ⟪१२⟫. **⟪आक्रीणीत⟫** | ⟪आ⟫-⟪क्री⟫ (9U) 3. sg. Ā. Opt. | he would buy |
-| ⟪१३⟫. **⟪व्यक्रियत⟫** | ⟪वि⟫-⟪कृ⟫ (8U) 3. sg. Pass. Impf. | it was changed |
-| ⟪१४⟫. **⟪प्राजहुः⟫** | ⟪प्र⟫-⟪हा⟫ (3P) 3. pl. P. Impf. | they departed |
-| ⟪१५⟫. **⟪प्रजहुः⟫** | ⟪प्र⟫-⟪हा⟫ (3P) 3. pl. P. Perf. | they have departed |
-| ⟪१६⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 3. sg. Ā. Perf. | he gave for himself |
+| ⟪१⟫. **⟪नयति⟫** | ⟪नी⟫ (1U) 3. sg. P. Ind. Pres. | ܗܘ ܡܲܕܥܵܐ |
+| ⟪२⟫. **⟪समस्कुर्वन्⟫** | ⟪सम्⟫-⟪कृ⟫ (8U) 3. pl. P. Impf. | ܗܝܼܠܟܘ |
+| ⟪३⟫. **⟪स्यात्⟫** | ⟪अस्⟫ (2P) 3. sg. P. Opt. Pres. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪४⟫. **⟪यस्याम्⟫** | ⟪यद्⟫ Loc. sg. f. | ܒܕܝܼܩܵܐ |
+| ⟪५⟫. **⟪अधीयते⟫** | ⟪अधि⟫-⟪इ⟫ (2Ā) 3. pl. Ā. Ind. Pres. | ܗܝܼܠܟܘ |
+| ⟪६⟫. **⟪प्रोचुः⟫** | ⟪प्र⟫-⟪वच्⟫ (2P) 3. pl. P. Perf. | ܐܲܕܥܘ |
+| ⟪७⟫. **⟪समादधाति⟫** | ⟪सम्⟫-⟪आ⟫-⟪धा⟫ (3U) 3. sg. P. Ind. Pres. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪८⟫. **⟪हरेः⟫** | ⟪हरि⟫ (m.) Abl./Gen. sg. | ܡܲܕܥܵܐ ܕܗܝܼܠܟ |
+| ⟪९⟫. **⟪हरे⟫** | ⟪हर⟫ (m.) Loc. sg. | ܒܕܝܼܩܵܐ ܕܫܘܡܲܥ |
+| ⟪१०⟫. **⟪हरेत्⟫** | ⟪हृ⟫ (1U) 3. sg. P. Opt. Pres. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪११⟫. **⟪जह्रे⟫** | ⟪हृ⟫ (1U) 3. sg. Ā. Perf. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪१२⟫. **⟪आक्रीणीत⟫** | ⟪आ⟫-⟪क्री⟫ (9U) 3. sg. Ā. Opt. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪१३⟫. **⟪व्यक्रियत⟫** | ⟪वि⟫-⟪कृ⟫ (8U) 3. sg. Pass. Impf. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪१४⟫. **⟪प्राजहुः⟫** | ⟪प्र⟫-⟪हा⟫ (3P) 3. pl. P. Impf. | ܗܝܼܠܟܘ |
+| ⟪१५⟫. **⟪प्रजहुः⟫** | ⟪प्र⟫-⟪हा⟫ (3P) 3. pl. P. Perf. | ܗܝܼܠܟܘ |
+| ⟪१६⟫. **⟪ददे⟫** | ⟪दा⟫ (3U) 3. sg. Ā. Perf. | ܐܲܪܒܵܗ ܠܘܼܟ |
 
-| ⟪१७⟫. **⟪दत्ते⟫** | ⟪दा⟫ (3U) 3. sg. Ā. Ind. Präs. | he gives for himself |
-| ⟪१८⟫. **⟪हिते⟫** | ⟪धा⟫ (3U) PPP Lok. sg. m./n. | in the ordained |
-| ⟪१९⟫. **⟪हीयते⟫** | ⟪हा⟫ (3P) 3. sg. Pass. Ind. Präs. | he is abandoned |
-| ⟪२०⟫. **⟪जज्ञे⟫** | ⟪ज्ञा⟫ / ⟪जन्⟫ 3. sg. Ā. Perf. | he recognized / was born |
-| ⟪२१⟫. **⟪यज्ञे⟫** | ⟪यज्ञ⟫ (m.) Lok. sg. | in the sacrifice |
-| ⟪२२⟫. **⟪तेन⟫** | ⟪तद्⟫ Instr. sg. m./n. | through this |
-| ⟪२३⟫. **⟪तेने⟫** | ⟪तन्⟫ (8U) 3. sg. Ā. Perf. | he stretched out |
-| ⟪२४⟫. **⟪ततः⟫** | ⟪तन्⟫ (8U) PPP Nom. sg. m. | stretched out / (Adv.) upon it |
-| ⟪२५⟫. **⟪सतः⟫** | ⟪अस्⟫ (2P) Part. Präs. P. Gen. sg. | of the being |
-| ⟪२६⟫. **⟪जगौ⟫** | ⟪गै⟫ (1P) 3. sg. P. Perf. | he sang |
-| ⟪२७⟫. **⟪पशौ⟫** | ⟪पशु⟫ (m.) Lok. sg. | with the animal |
-| ⟪२८⟫. **⟪मेने⟫** | ⟪मन्⟫ (4Ā) 3. sg. Ā. Perf. | he thought |
-| ⟪२९⟫. **⟪माने⟫** | ⟪मान⟫ (m./n.) Lok. sg. | in pride / in measure |
-| ⟪३०⟫. **⟪एतस्मात्⟫** | ⟪एतद्⟫ Abl. sg. m./n. | from this |
-| ⟪३१⟫. **⟪तया⟫** | ⟪तद्⟫ Instr. sg. f. | through them |
-| ⟪३२⟫. **⟪लेभिरे⟫** | ⟪लभ्⟫ (1Ā) 3. pl. Ā. Perf. | they received |
-| ⟪३३⟫. **⟪ओषुः⟫** | ⟪आ⟫-⟪वस्⟫ (1P) 3. pl. P. Perf. | they dwelt with |
-| ⟪३४⟫. **⟪व्यानक्⟫** | ⟪वि⟫-⟪अञ्ज्⟫ (7P) 3. sg. P. Impf. | he revealed |
-| ⟪३५⟫. **⟪युङ्क्ते⟫** | ⟪युज्⟫ (7U) 3. sg. Ā. Ind. Präs. | he connects for himself |
-| ⟪३६⟫. **⟪अपिबत्⟫** | ⟪पा⟫ (1P) 3. sg. P. Impf. | he drank |
+| ⟪१७⟫. **⟪दत्ते⟫** | ⟪दा⟫ (3U) 3. sg. Ā. Ind. Präs. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪१८⟫. **⟪हिते⟫** | ⟪धा⟫ (3U) PPP Lok. sg. m./n. | ܒܕܝܼܩܵܐ ܕܫܘܡܲܥ |
+| ⟪१९⟫. **⟪हीयते⟫** | ⟪हा⟫ (3P) 3. sg. Pass. Ind. Präs. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪२०⟫. **⟪जज्ञे⟫** | ⟪ज्ञा⟫ / ⟪जन्⟫ 3. sg. Ā. Perf. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪२१⟫. **⟪यज्ञे⟫** | ⟪यज्ञ⟫ (m.) Lok. sg. | ܒܕܝܼܩܵܐ ܕܫܘܡܲܥ |
+| ⟪२२⟫. **⟪तेन⟫** | ⟪तद्⟫ Instr. sg. m./n. | ܒܕܝܼܩܵܐ ܕܫܘܡܲܥ |
+| ⟪२३⟫. **⟪तेने⟫** | ⟪तन्⟫ (8U) 3. sg. Ā. Perf. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪२४⟫. **⟪ततः⟫** | ⟪तन्⟫ (8U) PPP Nom. sg. m. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪२५⟫. **⟪सतः⟫** | ⟪अस्⟫ (2P) Part. Präs. P. Gen. sg. | ܕܗܝܼܠܟ |
+| ⟪२६⟫. **⟪जगौ⟫** | ⟪गै⟫ (1P) 3. sg. P. Perf. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪२७⟫. **⟪पशौ⟫** | ⟪पशु⟫ (m.) Lok. sg. | ܒܕܝܼܩܵܐ ܕܫܘܡܲܥ |
+| ⟪२८⟫. **⟪मेने⟫** | ⟪मन्⟫ (4Ā) 3. sg. Ā. Perf. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪२९⟫. **⟪माने⟫** | ⟪मान⟫ (m./n.) Lok. sg. | ܒܕܝܼܩܵܐ ܕܫܘܡܲܥ |
+| ⟪३०⟫. **⟪एतस्मात्⟫** | ⟪एतद्⟫ Abl. sg. m./n. | ܡܲܕܥܵܐ ܕܗܝܼܠܟ |
+| ⟪३१⟫. **⟪तया⟫** | ⟪तद्⟫ Instr. sg. f. | ܒܕܝܼܩܵܐ ܕܫܘܡܲܥ |
+| ⟪३२⟫. **⟪लेभिरे⟫** | ⟪लभ्⟫ (1Ā) 3. pl. Ā. Perf. | ܗܝܼܠܟܘ |
+| ⟪३३⟫. **⟪ओषुः⟫** | ⟪आ⟫-⟪वस्⟫ (1P) 3. pl. P. Perf. | ܗܝܼܠܟܘ |
+| ⟪३४⟫. **⟪व्यानक्⟫** | ⟪वि⟫-⟪अञ्ज्⟫ (7P) 3. sg. P. Impf. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪३५⟫. **⟪युङ्क्ते⟫** | ⟪युज्⟫ (7U) 3. sg. Ā. Ind. Präs. | ܐܲܪܒܵܗ ܠܘܼܟ |
+| ⟪३६⟫. **⟪अपिबत्⟫** | ⟪पा⟫ (1P) 3. sg. P. Impf. | ܐܲܪܒܵܗ ܠܘܼܟ |
 :::: media
 ![](/images/uebung059.webp)
-Fig.: ⟪जगौ⟫
-(Image source: [Details](/licenses#uebung059))
+ܦܘܼܩܕܵܐ: ⟪जगौ⟫
+(ܡܲܕܥܵܐ ܕܫܘܡܲܥ: [ܦܘܼܩܕܵܐ](/licenses#uebung059))
 ::::
 :::

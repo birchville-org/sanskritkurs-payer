@@ -3,7 +3,7 @@ title: Lektion 19
 lesson_id: 19
 ---
 
-# Lektion 19
+# ܠܶܩܨܝܳܐ 19
 
 ## 19.1. Der Relativsatz
 
@@ -13,31 +13,31 @@ lesson_id: 19
 
 **Pronomen relativ -- Propositio relativa quae nomen continet ad quod propositio relativa refertur -- (Pronomen demonstrativum) -- Propositio principalis**
 
-**The relative clause may also follow the main clause, but it cannot be inserted into the main clause.**
+**ܐܪܡܝ ܕܩܠܬܐ ܢܘܗܪܝܬܐ ܕܡܠܬܐ ܥܘܒܕܐ ܗܘܝܬ ܠܦܪܫ ܡܢ ܩܠܬܐ ܥܘܒܕܐ، ܐܠܐ ܠܝܫ ܬܩܦ ܒܨܘܟܐ ܕܡܠܬܐ ܥܘܒܕܐ.**
 
-**The relative pronoun and the relative word, which — in contrast to German — stands in the relative clause, stand in the case that the relative clause syntactically requires. The demonstrative pronoun stands in the case that the main clause syntactically requires.**
+**ܣܡܟܬ ܩܠܬܐ ܢܘܗܪܝܬܐ ܕܡܠܬܐ ܥܘܒܕܐ، ܕܡܢ ܩܠܬܐ ܥܘܒܕܐ، ܗܘ ܠܦܪܫ ܡܢ ܩܠܬܐ ܥܘܒܕܐ، ܗܘ ܠܦܪܫ ܡܢ ܩܠܬܐ ܥܘܒܕܐ. ܣܡܟܬ ܩܠܬܐ ܢܘܗܪܝܬܐ ܕܡܠܬܐ ܥܘܒܕܐ، ܕܡܢ ܩܠܬܐ ܥܘܒܕܐ، ܗܘ ܠܦܪܫ ܡܢ ܩܠܬܐ ܥܘܒܕܐ، ܗܘ ܠܦܪܫ ܡܢ ܩܠܬܐ ܥܘܒܕܐ.**
 :::
 
 उदाहरणानि:
 
 टिप्पणी: सामान्यवैधतायुक्तेषु यत्रवाक्येषु विधिलिङः प्रायः लकारस्य स्थाने प्रयुज्यते। अतः अस्माकं बहूनि उदाहरणानि विधिलिङि एव श्रेयांसि स्युः।
 
-**1. The agent (⟪कर्तृ⟫) of the sentence is further specified by a relative clause:**
+**1. ܣܘܼܓܵܐ (⟪कर्तृ⟫) ܕܡܠܘܼܬܵܐ ܝܬܝܪ ܡܕܘܼܥ ܒܦܠܗ ܢܝܚܵܐ:**
 
 ::: indent
-⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪स⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ =  ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ = ⟪येन⟫ ⟪नरेण⟫ ⟪पुण्यम्⟫ ⟪क्रियते⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ etc. = "A man who performs meritorious deeds goes to heaven."
+⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪स⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ =  ⟪यो⟫ ⟪नरः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ = ⟪येन⟫ ⟪नरेण⟫ ⟪पुण्यम्⟫ ⟪क्रियते⟫ ⟪तेन⟫ ⟪स्वर्गं⟫ ⟪गम्यते⟫ etc. = "ܐܢܫ ܕܥܒܵܕ ܦܠܗ ܬܝܡܵܐ ܢܚܹܐ ܠܫܡܲܝܵܐ."
 :::
-**2. The direct object (⟪कर्म⟫) of the main clause is further specified by the relative clause:**
+**2. ܡܕܘܼܥ ܠܟܹܝ (⟪कर्म⟫) ܕܦܠܗ ܢܝܚܵܐ ܒܦܠܗ ܢܝܚܵܐ:**
 
 ::: indent
-⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "The gods protect a Brahmin who offers sacrifice to them as the sacrificer."
+⟪यो⟫ ⟪ब्राह्मणो⟫ ⟪देवान्यजते⟫ ⟪तं⟫ ⟪देवा⟫ ⟪रक्षन्ति⟫ = "ܐܠܗܹ̈ܐ ܢܣܝܼܘ ܒܪ ܟܕܵܢ ܕܝܬܝܼܪ ܠܗܘܢ ܟܕܵܢ."
 :::
-**3. The closer determination of a noun of the main clause stands in the relative clause:**
+**3. ܡܕܘܼܥ ܠܟܹܝ ܕܡܠܘܼܬܵܐ ܢܝܚܵܐ ܒܦܠܗ ܢܝܚܵܐ:**
 
 ::: indent
-⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "Sons of men who do evil obtain no wealth."
+⟪ये⟫ ⟪नराः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪तेषां⟫ ⟪पुत्रा⟫ ⟪धनं⟫ ⟪न⟫ ⟪लभन्ते⟫ = "ܒܢܹ̈ܐ ܕܐܢܫܝܼܢ ܕܥܒܹ̈ܕ ܦܠܗ ܪܝܼܫ ܠܐ ܢܚܹܘ."
 :::
-**4. Relative pronoun and correlative noun are in the genitive (⟪षष्ठी⟫):**
+**4. ܦܠܗ ܢܝܚܵܐ ܘܡܕܘܼܥ ܠܟܹܝ ܒ݂݁ܓ݂݁ܵܐ (⟪षष्ठी⟫):**
 
 ::: indent
 ⟪यस्य⟫ ⟪नरस्य⟫ ⟪पुत्राः⟫ ⟪पापं⟫ ⟪कुर्वन्ति⟫ ⟪स⟫ ⟪न⟫ ⟪सुखवान्⟫ = "The man is not happy whose sons do evil."
@@ -45,14 +45,14 @@ lesson_id: 19
 **5. यत्सर्वनामं सह्संबन्धिशब्दश्च तृतीयायां विभक्तौ स्तः (⟪तृतीया⟫):**
 
 ::: indent
-⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "They hate the enemy who has defeated / conquered their village."
+⟪येन⟫ ⟪शत्रुणा⟫ ⟪ग्रामो⟫ ⟪जितस्तं⟫ ⟪द्विषन्ति⟫ = "ܗܘܢ ܐܝܒܠܝܢ ܠܡܕܒܪܐ ܕܦܘܣܩ ܠܥܡܪܗ."
 :::
-**6. Relative pronoun and correlative stand in the accusative (⟪द्वितीया⟫):**
+**6. ܫܡܐ ܕܝܘܬܪܐ ܘܫܡܐ ܕܝܘܬܪܐ ܒܟܢܫܐ (⟪द्वितीया⟫):**
 
 ::: indent
 ⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = "A man protected by the goddess attains happiness."
 :::
-## 19.2. The Relative Pronoun = ⟪व्यपेक्षकसर्वनाम⟫ n.
+## 19.2. ܟܢܘܫܝܐ ܚܒܫܝܐ = ⟪व्यपेक्षकसर्वनाम⟫ ܕܟܪܐ
 
 ::: grammar-box
 
@@ -73,14 +73,14 @@ lesson_id: 19
 
 :::
 
-## 19.3. Wortliste
+## 19.3. ܡܠܘܐܐ
 
-**⟪अर्थ⟫ m.:** purpose, goal, meaning (of a word), wealth, property, assets. **⟪अर्थम्⟫** (Acc.), **⟪अर्थेन⟫** (Instr.) with Gen. or as the final member of a Tatpuruṣa compound: for the sake of ..., in order to.
+**⟪ܡܶܫܰܠܬܳܐअर्थ⟩ ܡ.:** ܩܘܣܬܐ، هَدَف، مַعְנܶܝܘܿ (ܕܟܠܬܐ)، ܚܢܘܿܦܳܝܶܠܬܐ، ܟ݁ܪܛܳܝܘܿܬܐ، ܓ݁ܒ̈ܰܝܶܠܬܐ. **⟪अर्थम्⟫** (ܣ݁וּרְמָא)، **⟪अर्थेन⟫** (ܡ݁וּכְלָא) ܥִם ܓ݁ܒ̈ܰܝܶܠܬܐ ܘְܗܳܒ݁וֹר ܕܟܠܬܐ ܓ݁ܒ̈ܰܝܶܠܬܐ ܕ݁וֹר: לְמַעַן ...، בְּסַיִם.
 
-**⟪अर्थ⟫** is one of the three purposes of life (**⟪पुरुषार्थ⟫**), as described in secular and religious literature:
+**⟪अर्थ⟫** ܗܘ ܐ݁חܕܳܢ ܡܶן ܠܰܬ݁לַתְ ܣ݁וּרְמֵי ח̈ייָא (**⟪पुरुषार्थ⟫**)، כְּדַאי בִּסܦ̈ܪܘܿת ܥܰלְמָא וּבִסܦ̈ܪܘܿת וֹרָא:
 
 ::: indent
-**⟪धर्म⟫ m.:** Acquisition of merit through doing what is right for one, or at least avoiding evil, which would result from non-observance of dharma
+**⟪धर्म⟫ ܡ.:** אַקְסִיקָטוּשׁ דְּחַסܕ̈א בִּדְעָבְרָא ܐ݁יטַוִּיר ܠܰܗ، אוֹ בְּלָא לַעֲשׂוֹת רַע، ܕְהָא מִן לָאו עוּבַד דְּחַסܕ̈א
 
 **⟪अर्थ⟫ m.:** purposeful-rational behavior, acquisition of wealth
 
@@ -110,15 +110,15 @@ of **⟪स्था⟫** :
 ::: indent
 **⟪धनगर्भ⟫ 3:** "whose interior is money = in which money is located"
 
-**⟪गर्भगृह⟫ n.:** the innermost shrine room of a Hindu temple, which contains the most important deity image of the temple (for the structure of Hindu temples see: Volwahsen, A.: India: Buildings of the Hindus, Buddhists and Jains. -- Munich, 1968)
+**⟪गर्भगृह⟫ m.:** חַדְרָא דִּקְלִיסְיָתָא בֵּית עַבְדָּה דְּהוּנְדִי, דִּבְקֵיהּ תַּרְתָּא עֲבוּדָה מִן קְלִיסְיָתָא (עַל שַׁרְיַת קְלִיסְיָוֹת הוּנְדַא רְאוּ: וולווהזן, א.: הוֹדוּ: בְּנָאֵי הוּנְדַא, בּוּדַא וְגִינָא. -- מוּניך, 1968)
 :::
 ::: media
 ![](/images/lekt1901.webp)
-Fig.: ⟪गर्भगृहम्⟫
-Badami (ಬದಾಮಿ)
-(Image source: [Details](/arc/licenses#lekt1901))
+תְּמוּנָה: ⟪गर्भगृहम्⟫
+בַּדָּמִי (ಬದಾಮಿ)
+(מַרְגְּלֵת תְּמוּנָה: [פַּרְטִין](/arc/licenses#lekt1901))
 :::
-**⟪वारिद⟫ m.:** water vessel = rain cloud
+**⟪वारिद⟫ m.:** כְּלִי מַיָּא = עֲנָנָא
 
 ::: media
 ![](/images/lekt1902.jpg)
@@ -149,9 +149,9 @@ Fig.: ⟪छत्त्रम्⟫
 ![](/images/lekt1903.jpg)
 Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
 ⟪१९५९⟫
-(Image source: [Details](/arc/licenses#lekt1903))
+(מקור התמונה: [פרטים](/arc/licenses#lekt1903))
 :::
-**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** to dwell with, inhabit (Acc., Loc.) ; to visit, go to (Acc.) ; to serve, tend, revere ; to practice, use ; to be present with, have sexual intercourse
+**⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** לשבת עם, לישב (אשכנזי, מקום) ; לבקר, ללכת אל (אשכנזי) ; לשרת, להקדיש, לכבד ; לתרגל, להשתמש ; להיות נוכח עם, לקיים יחסי מין
 
 **⟪नि⟫ Prefix:** down, into
 
@@ -171,19 +171,19 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **⟪बान्धव⟫ m.:** Relative
 
-**⟪हि⟫ :** for, indeed (must never stand at the beginning of a sentence)
+**⟪हि⟫ :** ܠܐܬܝܪ, ܕܒܛܥܡܘܬܐ (ܠܐ ܝܕܥ ܠܗ ܠܡܫܟܚ ܒܪܝܬ ܐܘܠܦܐ)
 
-## 19.4. Übung
+## 19.4. ܬܪܓܠܐ
 
 **अनुवादं संस्कृतं करोतु:**
 
 3\. The poet praises the Kṣatriya, whose wealth he desires.
 
-4\. Fire burns the house of the man who does not honor Agni with an offering.
+4\. אֱדָם דְּלָא מַכְבִּיד יַת אַגְנֵי בְּקָרְבָּן, שְׂרִיפַת אֱשָׁא בֵּיתֵיהּ.
 
 3\. The poet praises the Kṣatriya, whose wealth he desires.
 
-4\. Fire burns the house of the man who does not honor Agni with a sacrifice.
+4\. ܐܪܟܐ ܕܢܘܪܐ ܝܬܦܟ ܠܒܝܬ ܓܒܪܐ ܕܠܐ ܡܫܬܚܝ ܠܥܕܢܐ ܒܩܘܪܒܢܐ.
 
 5\. The tiger-like man slays the Kṣatriya warriors who have been defeated by Rāma (passive).
 
@@ -205,7 +205,7 @@ Explanation: ⟪वारि⟫ Nom., Acc. sg. to ⟪वारि⟫ n.: water
 ⟪धर्मार्थकामसंयोगं⟫  
 ⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫
 :::
-Explanation: ⟪यथाकालम्⟫ Avyayībhāva compound: at the right time; whenever the right moment for it is present.
+ܣܦܪ̈ܐ: ⟪यथाकालम्⟫ ܣܘܼܟܪ̈ܐ ܕܥܝܢ: ܒܨܘܼܟܬ̈ܐ; ܠܥܝܢ ܕܨܘܼܟܬ̈ܐ.
 
 ::: indent
 ⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
@@ -213,12 +213,12 @@ Explanation: ⟪यथाकालम्⟫ Avyayībhāva compound: at the right
 ⟪स⟫ ⟪जीवति⟫ ⟪गुणो⟫ ⟪यस्य⟫  
 ⟪धर्मो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪जीवति⟫ ⟪॥३॥⟫
 
-⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫  
+⟪ܣܘܪ̈ܐ ܕܡܠܬܐ⟫ ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫  
 ⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫
 :::
-Explanation: ⟪पुमान्⟫ Nom. sg. to ⟪पुंस्⟫ "man" ; ⟪लोके⟫ Loc. sg. to ⟪लोक⟫ m.: in the ...
+ܦܫܩܐ: ⟪पुमान्⟫ ܣܘܓ. ܠܡܕܢܚܐ ܠ⟪पुंस्⟫ "ܓܒܪܐ" ; ⟪लोके⟫ ܠܟ. ܣܘܓ. ܠ⟪लोक⟫ ܡ.: ܒܐ
 
 ::: deleteme-box
 

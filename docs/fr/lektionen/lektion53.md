@@ -53,7 +53,7 @@ Fig. : ⟪हस्तौ⟫
 ::: grammar-box
 **Pour les noms avec alternance de la racine, le nominatif, accusatif et vocatif duel masculin/féminin ont le thème fort**
 :::
-## 53.3. Der Dual konsonantisch auslautender Stämme
+## 53.3. Le duel des thèmes se terminant par une consonne
 
 ### 53.3.1. Stämme ohne Stammabstufung
 
@@ -194,7 +194,7 @@ Fig. : ⟪भरन्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
-## 53.4. Der Dual vokalisch auslautender Stämme
+## 53.4. Le duel des thèmes se terminant par une voyelle
 
 **Racines en -a**
 
@@ -320,7 +320,7 @@ Exemples :
 Fig. : ⟪पितापुत्रौ⟫
 (Source de l'image : [Détails](/fr/licenses#lekt5308))
 :::
-## 53.6. Der Dual von Pronomina
+## 53.6. Le duel des pronoms
 
 ::: grammar-box
 |   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫ 
@@ -362,7 +362,7 @@ Les adjectifs pronominaux suivants se déclinent comme ⟪सर्व⟫. Au ab
 *   ⟪पूर्व⟫ 3 « le précédent, l'oriental »
 *   ⟪स्व⟫ 3 « propre (mon, ton, son ...) »
 
-## 53.8. Unregelmäßige Steigerung
+## 53.8. Comparaison irrégulière
 
 ::: grammar-box
 **Un certain nombre d'adjectifs forment le comparatif ou le superlatif avec les suffixes ⟪कृत्⟫ suivants (!) :**

@@ -151,7 +151,7 @@ Ceteri casus singularis ut Neutrum
 ::: indent
 Ceteri casus pluralis ut Neutrum
 :::
-## 49.3. Nominalis constructio: ⟪कृत्⟫-suffixum -as Neutrum
+## 49.3. Constructio nominalis: ⟪कृत्⟫-suffixum -as Neutrum
 
 Cum ⟪कृत्⟫-suffixo -as Neutrum multa substantiva formantur. Pleraque sunt abstracta vel nomina actionis (verba quae actionem significant).
 

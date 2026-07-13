@@ -19,7 +19,7 @@ status: stable
 :::
 ## 4.1. Dumondas da cumplement simpel (dumondas da paraula) e respostas
 
-### 4.1.1. Fragepronomina und Demonstrativpronomina
+### 4.1.1. Pronomens interrogativs e pronomens demonstrativs
 
 #### 4.1.1.1. Interrogativpronomen (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
@@ -93,15 +93,15 @@ In exempli d'autras dumondas:
 
 NOTA: Las respuondas che Vus pudais dar cun las cumpetenzas da Sanscrit fin qua a talas dumondas correspundan naturalmain anc betg en mintga relaziun ad in Sanscrit idiomaticamain bun.
 
-## 4.2. Übung
+## 4.2. Exercizi
 
-**A) Formulate oral questions based on the following words using the pattern viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) and answer the questions in Sanskrit:**
+**A) Formuladas dumondas oralbas basandà sin las suenterdidas cun il model viṣṇuḥ kaḥ (⟪विष्णुः⟩ ⟪कः⟩) e respundì las dumondas en sanscrit:**
 
 śruti, śiva, brāhmaṇa, dvija (Plural), indrāṇī, dhenu, tulādhara, kālidāsa
 
 = ⟪श्रुति⟫, ⟪शिव⟫, ⟪ब्राह्मण⟫, ⟪द्विज⟫ (⟪बहुवचनम्⟫), ⟪इन्द्राणी⟫, ⟪धेनु⟫, ⟪तुलाधर⟫, ⟪कालिदास⟫
 
-**B) Formulate questions for the following reading exercise according to the pattern etat kim (⟪एतत्किम्⟫) and answer the questions using the specified words and demonstrative pronouns, e.g., eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):**
+**B) Formuladest questions per l'exercizi da lectura suenter il model etat kim (⟪एतत्किम्⟫) e respuondas las questions cun las paraulas specificadas ed ils pronom demonstrativ, per exempel eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):**
 
 ::: media
 ![](/images/lekt0401.webp)

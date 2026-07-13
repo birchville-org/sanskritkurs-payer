@@ -12,9 +12,9 @@ status: stable
 ## 36.1. Special Formations of the Perfect
 
 ::: grammar-box
-1. Some roots show a change of the root initial after the reduplication syllable.
+1. Beberapa akar menunjukkan perubahan pada awal akar setelah suku kata reduplikasi.
 :::
-Examples:
+Contoh:
 
 | Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -23,45 +23,45 @@ Examples:
 | **⟪हन्⟫** 2P:brPerf. Va | ⟪ज⟫***⟪घा⟫***⟪न⟫ | ⟪ज⟫***⟪घ्नु⟫***⟪र्⟫ | | |
 
 ::: grammar-box
-2. The root ⟪विद्⟫ 2P "to know" has a perfect with present tense meaning.
+2. Akar ⟪विद्⟫ kelas 2 "mengetahui" memiliki bentuk sempurna yang bermakna waktu sekarang.
 :::
 ::: grammar-box
-| Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Akar:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| **⟪विद्⟫** 2P | **⟪वेद⟫**:brhe/she/it knows | **⟪विदुर्⟫**:brthey know |
+| **⟪विद्⟫** kelas 2 | **⟪वेद⟫**:brdia (lk/pt) tahu | **⟪विदुर्⟫**:brmereka tahu |
 :::
 ::: grammar-box
-3. The root ⟪अह्⟫ "to say" has only perfect forms (Perfect I). These have present tense meaning.
+3. Akar ⟪अह्⟫ "berkata" hanya memiliki bentuk sempurna (Sempurna I). Bentuk-bentuk ini bermakna waktu sekarang.
 :::
 ::: grammar-box
-| Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Akar:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| **⟪अह्⟫**:brPerf. I | **⟪आह⟫**:brhe/she/it says | **⟪आहुर्⟫**:brthey say |
+| **⟪अह्⟫**:brSempurna I | **⟪आह⟫**:brdia (lk/pt) berkata | **⟪आहुर्⟫**:brmereka berkata |
 :::
 ::: grammar-box
-4. The root ⟪भू⟫ 1P has the perfect stem ⟪बभू⟫, before vowels ⟪बभूव्⟫.
+4. Akar ⟪भू⟫ kelas 1 memiliki batang sempurna ⟪बभू⟫, sebelum vokal menjadi ⟪बभूव्⟫.
 :::
 ::: grammar-box
-| Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Akar:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| **⟪भू⟫** 1P | **⟪बभूव⟫** | **⟪बभूवुर्⟫** |
+| **⟪भू⟫** kelas 1 | **⟪बभूव⟫** | **⟪बभूवुर्⟫** |
 :::
-## 36.2. The periphrastic perfect (⟪अनुप्रयोगलिट्⟫)
+## 36.2. Sempurna periphrastik (⟪अनुप्रयोगलिट्⟫)
 
 ::: grammar-box
 The periphrastic perfect (⟪अनुप्रयोगलिट्⟫) is used:
 
-1. in derived conjugations (causative, desiderative, frequentative, denominative)
-2. with roots that begin with a long vowel (except ā-) or with a vowel (except a-) before two consonants
-3. with some other roots
+1. dalam konjugasi turunan (kausal, desideratif, frekuentatif, denominatif)
+2. dengan akar yang dimulai dengan vokal panjang (kecuali ā-) atau dengan vokal (kecuali a-) sebelum dua konsonan
+3. dengan beberapa akar lainnya
 :::
 ::: grammar-box
-**Formation:**
+**Pembentukan:**
 
 (weak) present stem + -ām + corresponding perfect form of ⟪कृ⟫, ⟪अस्⟫ or ⟪भू⟫
 
 - The final stem vowel is guṇa-substituted before -ām.
-- ⟪अस्⟫ and ⟪भू⟫ are also conjugated in the parasmaipada for ātmanepada verbs.
+- ⟪अस्⟫ dan ⟪भू⟫ juga dideklarasikan dalam parasmaipada untuk kata kerja ātmanepada.
 :::
 The periphrastic perfect probably arose from the accusative of a verbal noun in -ā. This accusative is used -- as often elsewhere -- adverbially.
 
@@ -83,11 +83,11 @@ In the perfect, the forms of the Ātmanepada are used for the passive. In contra
 :::
 ## 36.4. Word List
 
-⟪अह्⟫ P only Perfect with present meaning ⟪आह⟫, ⟪आहुर्⟫ : to say, to speak
+⟪अह्⟫ P hanya Sempurna dengan makna sekarang ⟪आह⟫, ⟪आहुर्⟫ : untuk mengatakan, untuk berbicara
 
-⟪अह्⟫ ⟪प्र⟫ P only Perfect with present meaning ⟪प्राह⟫ : to say, to speak
+⟪अह्⟫ ⟪प्र⟫ P hanya Sempurna dengan makna sekarang ⟪प्राह⟫ : untuk mengatakan, untuk berbicara
 
-⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : to see, to (dis)cover, to look at
+⟪ईक्ष्⟫ 1Ā ⟪ईक्षते⟫ : untuk melihat, untuk (men)emukan, untuk memandang
 
 ::: indent
 Perf. ⟪ईक्षां⟫ ⟪चक्रे⟫  
@@ -109,10 +109,10 @@ Inf. ⟪चेतुम्⟫
 :::: media
 ![](/images/lekt3601.webp)
 Fig.: ⟪गोमयं⟫ ⟪चिकाय⟫
-(Image source: [Details](/en/licenses#lekt3601))
+(Sumber gambar: [Rincian](/en/licenses#lekt3601))
 ::::
 :::
-⟪व्रज्⟫ 1P ⟪व्रजति⟫ : to stride, to go, to go away
+⟪व्रज्⟫ 1P ⟪व्रजति⟫ : melangkah, pergi, pergi jauh
 
 ::: indent
 Perf. Vc ⟪वव्राज⟫, ⟪वव्रजुर्⟫  
@@ -163,18 +163,18 @@ e.g.
 
 ⟪अनुकृ⟫ : to imitate, to do after
 
-⟪अनुगम्⟫ : to follow someone, to go along
+⟪अनुगम्⟫ : mengikuti seseorang, berjalan bersama
 :::
-⟪अभि⟫ : to-, after - hin, to - her, to - hin, against, in - into, with regard to, on, over, at
+⟪अभि⟫ : ke-, setelah - ke, ke - sini, ke - sana, terhadap, di - dalam, mengenai, pada, atas
 
 ::: indent
 e.g.
 
-⟪अभिगम्⟫ : to go to, to approach
+⟪अभिगम्⟫ : pergi ke, mendekati
 
-⟪वद्⟫ + ⟪अभि⟫ Causative Ā ⟪अभिवादयते⟫ : to formally greet, to address
+⟪वद्⟫ + ⟪अभि⟫ Kausatif Ā ⟪अभिवादयते⟫ : menyapa secara formal, mengalamatkan
 :::
-⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : to feel reluctance, to fade away
+⟪ग्लै⟫ 1P ⟪ग्लायति⟫ : merasa enggan, memudar
 
 ::: indent
 Perf. IV ⟪जग्लौ⟫  
@@ -196,7 +196,7 @@ PPP ⟪घ्रात⟫ ⟪।⟫ ⟪घ्राण⟫
 Inf. ⟪घ्रातुम्⟫  
 Absol. -⟪घ्राय⟫
 :::
-⟪प्री⟫ 9U ⟪प्रीणति⟫ : to delight, to please; to love, to be inclined towards someone
+⟪प्री⟫ 9U ⟪प्रीणति⟫ : untuk menyenangkan, untuk memuaskan; untuk mencintai, untuk cenderung kepada seseorang
 
 ⟪प्री⟫ 4Ā ⟪प्रीयते⟫ : to rejoice
 
@@ -221,10 +221,10 @@ Absol. -⟪स्पृश्य⟫
 :::: media
 ![](/images/lekt3606.webp)
 Fig.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
-(Image source: [Details](/en/licenses#lekt3606))
+(Sumber gambar: [Details](/en/licenses#lekt3606))
 ::::
 :::
-⟪हृष्⟫ 4P ⟪हृष्यति⟫ : to become stiff: to bristle (hair), to rejoice over (Instr., Acc., Loc.)
+⟪हृष्⟫ 4P ⟪हृष्यति⟫ : menjadi kaku: menggerombong (rambut), bersukacita atas (Instr., Acc., Loc.)
 
 ::: indent
 Perf II ⟪जहर्ष⟫  
@@ -244,19 +244,19 @@ Fig.: ⟪लोमहर्षः⟫
 
 ## 36.5. Exercise
 
-A) The following roots have both a reduplicated and a periphrastic perfect. Form the corresponding periphrastic and reduplicated perfect forms for the following forms:
+A) Akar-akar berikut memiliki bentuk sempurna reduplikatif dan perifrastik. Bentuklah bentuk sempurna perifrastik dan reduplikatif yang sesuai untuk bentuk-bentuk berikut:
 
 1.  ⟪बिभ्रते⟫
 2.  ⟪बिभ्यति⟫
 3.  ⟪जुहोति⟫
 4.  ⟪वेत्ति⟫
 
-B) The root ⟪आस्⟫ "to sit" has a periphrastic perfect. Form this for the following forms:
+B) Akar ⟪आस्⟫ "duduk" memiliki bentuk sempurna periphrastik. Bentukkan ini untuk bentuk-bentuk berikut:
 
 1.  ⟪आस्ते⟫
 2.  ⟪आसते⟫
 
-C) Form the corresponding perfect for the following forms:
+[C] Bentukkan bentuk sempurna yang sesuai untuk bentuk-bentuk berikut:
 
 1.  ⟪जीयते⟫
 2.  ⟪विदन्ति⟫
@@ -293,7 +293,7 @@ Fig.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 
 ⟪ब्राह्मणीभिः⟫ ⟪स्वान्नानि⟫ ⟪पेचिरे⟫ ⟪॥७॥⟫
 
-## 36.6. The Perfect (⟪लिट्⟫) for the roots learned so far
+## 36.6. Sempurna (⟪लिट्⟫) untuk akar yang telah dipelajari sejauh ini
 
 | Root:br⟪धातु⟫ | Perfect class | Perfect (⟪लिट्⟫) |
 | :--- | :--- | :--- |
@@ -428,14 +428,14 @@ Explanations:
 
 ⟪त्रयस्⟫ : Nom. pl. masc. of ⟪त्रि⟫ "three"
 
-⟪सर्वास्⟫ : Nom./Acc. pl. fem. of ⟪सर्व⟫ "all, every"
+⟪सर्वास्⟫ : Nom./Acc. pl. fem. dari ⟪सर्व⟫ "semua, setiap"
 :::: media
 ![](/images/lekt3607.webp)
 Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
-(Image source: [Details](/en/licenses#lekt3607))
+(Sumber gambar: [Details](/en/licenses#lekt3607))
 ::::
 :::
-2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ on the proper conduct towards the elderly:
+2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ tentang tata krama yang tepat terhadap orang tua:
 
 ::: indent
 ⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫
@@ -447,9 +447,9 @@ Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं�
 ⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫
 ⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ***⟪विज्ञेयो⟫*** ⟪जितेन्द्रियः⟫ ⟪॥⟫
 
-Explanation: ⟪विज्ञेय⟫ ⟪३⟫: one who is to be recognized; one who is to be known (as)
+Penjelasan: ⟪विज्ञेय⟫ ⟪३⟫: seseorang yang harus dikenali; seseorang yang harus diketahui (sebagai)
 :::
-4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ on the proper conduct of a Brahmin:
+4\. ⟪मनुस्मृति⟫ ⟪२⟫.⟪११०⟫ tentang tata krama yang tepat bagi seorang Brahmin:
 
 ::: indent
 ⟪नापृष्टः⟫ ⟪कस्यचिद्ब्रूयान्न⟫ ⟪चान्यायेन⟫ ⟪पृच्छतः⟫ ⟪।⟫
@@ -457,7 +457,7 @@ Explanation: ⟪विज्ञेय⟫ ⟪३⟫: one who is to be recognized;
 
 Explanations:
 
-In this verse, ⟪ब्रू⟫ is constructed with the genitive
+Dalam ayat ini, ⟪ब्रू⟫ dibentuk dengan genitif
 
 ⟪मेधावी⟫ : Nom. sg. masc. of ⟪मेधाविन्⟫ ⟪३⟫ "intelligent, wise"
 

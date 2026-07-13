@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 15
+# ܕܰܪܫܳܐ 15
 
 ## 15.1. ⟪सुभाषितम्⟫
 
@@ -16,20 +16,20 @@ status: stable
 ⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫  
 ⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫
 
-## 15.2. Determinativkomposita = Tatpuruṣa m. = ⟪तत्पुरुष⟫
+## 15.2. ܡܠ̈ܐ ܡܚܒܪ̈ܬܐ ܕܡܚܘܝܢܘܬܐ = ܬܬܦܘܪܘܫܐ ܕܕܟܪ̈ܐ = ⟪ܬܬܦܘܪܘܫ⟫
 
-The relationship between entities designated by nouns (substantives and adjectives) can be expressed not only through a genitive construction but also through a Tatpuruṣa (⟪तत्पुरुष⟫). Likewise, attributive apposition of adjectives or appositional subordination of substantives can be expressed through a specific type of Tatpuruṣa, namely the so-called Karmadhāraya (m.) = ⟪कर्मधारय⟫.
+ܕܝܩܘܬܐ ܒܝܬ ܡܕܥ̈ܝܢ ܕܐܘܪ̈ܬ̈ܐ (ܣܡܟ̈ܐ ܘܐܕܒ̈ܝܢ) ܡܫܬܥܪ ܠܐ ܒܘܗܝ ܕܓܢܛܝܘܣ ܠܚܘܕ ܒܬܛܦܘܪ̈ܣܐ (⟪तत्पुरुष⟫). ܠܦ̈ܘܟ ܕܐܝܬ ܙܠܬ̈ܐ ܡܕܥ̈ܝܢ ܠܐܒ̈ܘܬ̈ܐ ܕܐܕܒ̈ܝܢ ܘܠܙܠܬ̈ܐ ܡܕܥ̈ܝܢ ܠܣܡܟ̈ܐ ܡܫܬܥܪ ܒܬܛܦܘܪ̈ܣܐ ܕܡܢܝܢܐ، ܗܘ ܟܪܡܕ̈ܗܝܪܐ (m.) = ⟪कर्मधारय⟫.
 
-⟪तत्पुरुषः⟫ =  ⟪तस्य⟫ ⟪पुरुषः⟫ "his servant", i.e., as a designation of this type of compounds serves an example of such compounds.
+⟪तत्पुरुषः⟫ =  ⟪तस्य⟫ ⟪पुरुषः⟫ "ܥܒܕܘܗ"، ܐܝܟܢܐ ܕܡܕܥ̈ܝܢ ܠܗܘܢ ܡܕܥ̈ܝܢ ܕܗܠܟ،
 ::: grammar-box
 
-In determinative compounds (Tatpuruṣa), a noun (substantive or adjective) is further specified by another noun or adverb. The specified word usually forms the final member of the compound.
+ܒܬܛܦܘܪ̈ܣܐ ܕܡܕܥ̈ܝܢ (ܬܛܦܘܪ̈ܣܐ)، ܡܕܥ̈ܝܢ (ܣܡܟ̈ܐ ܘܐܕܒ̈ܝܢ) ܡܫܬܥܪ ܒܐܘܪ̈ܬ̈ܐ ܕܡܕܥ̈ܝܢ ܘܠܐ ܒܡܕܥ̈ܝܢ. ܗܘ ܐܘܪ̈ܬ̈ܐ ܕܡܫܬܥܪ ܠܗ ܒܐܘܟܝܢܬܐ.
 
-The relationship between the preposed element (determining element) and the postposed element (determined element) can be:
+ܕܝܩܘܬܐ ܒܝܬ ܗܠܟ ܕܡܩܕܡ (ܐܘܪ̈ܬ̈ܐ ܕܡܕܥ̈ܝܢ) ܘܗܠܟ ܕܡܚܬܡ (ܐܘܪ̈ܬ̈ܐ ܕܡܫܬܥܪ) ܡܘܟܠ:
 
-*   attributive or appositional: upon resolution of the compound, the first member forms a closer determination of the second member in the same case (i.e., outside a sentence context in the nominative (⟪प्रथमा⟫), within a sentence in the syntactically required case)
-*   causal: the first member stands in a different case upon resolution of the compound than the second member (i.e., not in the nominative - ⟪प्रथमा⟫)
-*   adverbial: the first member is an indeclinable word
+*   תבוסחא אוו רמוסחא: על פתרון הדובדל, חברא קדימא עבידא תבוסחא דחברא בתראה באותו גנאה (כלומר, מחוץ להקשר משפטית בגנאת נוקבא ⟨JAप्रथमा⟩, בתוך משפט בגנאה דרושה סמנטית)
+*   סיבתא: חברא קדימא עביד בגנאה דחברא בתראה על פתרון הדובדל (כלומר, לא בגנאת נוקבא - ⟨JAप्रथमा⟩)
+*   אדברבאל: חברא קדימא הוא מילת בלתי משתנית
 
 Das Kasusverhältnis beider Glieder eines Kompositums ist unabhängig davon, in welchem Kasus das Kompositum steht: das Kompositum ist ja ein einziges deklinierbares Wort:
 
@@ -45,7 +45,7 @@ e.g.
 Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
 
 :::
-## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
+## 15.3. ܡܚܘܕ̈ܐ ܦܪ̈ܫܢܝܐ ܥܡ ܡܠܝܠܘܬܐ ܦܪܫܢܝܬܐ / ܡܠܝܠܘܬܐ ܡܬܚܫܚܢܝܬܐ = ܟܪܡܕܗܪܝܐ ܕܟܪܐ = ⟪कर्मधारय⟫
 ::: grammar-box
 
 Bei Auflösung des Karmadhāraya stehen beide Glieder des Kompositums im selben Kasus.
@@ -61,7 +61,7 @@ Nom pl. ⟪गुणवत्पुत्राः⟫
 
 ⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = "good people"
 
-⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "the desired deity = the deity to whom one has a special devotional and refuge relationship"
+[0] ⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "ܕܝܘܬܐ ܡܬܩܣܪܐ = ܕܝܘܬܐ ܠܗ ܫܪܩܐ ܕܚܢܘܬܐ ܘܡܠܛܐ"
 
 ::: media
 ![](/images/lekt1501.webp)
@@ -78,11 +78,11 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "a man like a lion"  
     ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "a man like a tiger"
 
-*   expresses a Karmadhāraya but an apposition (closer determination of the back member by a noun), then the closer determined is in the front member, as it also the general rule for the order for the members in a Tatpuruṣa demands:
+*   מְבַטֵּחַ קָרְמָדָהַרַיָא אֲבָל מְתַגְּרָא (מִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד בְּמִפְּסוּקָא דַּעֲבֵיד ב
 
 ⟪नरसिंहः⟫ can also be resolved: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "A lion, who is (in reality) a man."
 
-Such appositional Karmadhāraya compounds are resolved in the indigenous commentaries, as in the example above, by means of ⟪एव⟫.
+כְּבַיָּא דִּכְנֵיסוּת קַרְמָהָאֲיָא אִלֵּין מַתְבַּרְיָן בְּמַלְכֻוְתָא דִּשְׁרָעָא, כְּמַן דִּכְנֵיסוּת בְּעֵילָא, בְּמַלְכֻוְתָא דִּשְׁרָעָא ⟪एव⟫.
 
 :::
 ::: media
@@ -90,16 +90,16 @@ Such appositional Karmadhāraya compounds are resolved in the indigenous comment
 Fig.: ⟪नरसिंहः⟫
 (Image source: [Details](/arc/licenses#lekt1503))
 :::
-## 15.4. Determinative compounds with a prior member that stands in a non-attributive/appositional case relation to the posterior member = Tatpuruṣa in the narrower sense
+## 15.4. ܡܰܪܟܰܒ̈ܳܬܳܐ ܡܦܰܪ̈ܫܳܢܺܝܬܳܐ ܥܰܡ ܗܰܝܡܳܢܽܘܬܳܐ ܩܰܕܡܳܝܬܳܐ ܕܩܳܝܡܳܐ ܒܫܽܘܚܠܳܦܳܐ ܕܩܶܢܝܳܢܳܐ ܠܐܰܚܪܳܝܬܳܐ = ܬܰܬܦܽܘܪܽܘܫܳܐ ܒܡܰܕܥܳܐ ܙܥܽܘܪܳܐ
 
 ::: grammar-box
 
-Tatpuruṣa compounds are possible for connections of nouns (nouns and adjectives), where the first member - according to the rules of syntax - can be in any case. As expected, the first member most frequently represents a genitive (⟪षष्ठी⟫), since this is the case for expressing the relationship between nouns.
+ܟܘܡܦܘܢ̈ܝܐ ܕܬܐܛܦܘܪܘܣ ܡܫܟܚ̈ܝܢ ܠܐܘܪ̈ܬܐ ܕܫܡ̈ܐ (ܫܡ̈ܐ ܘܠܫܢ̈ܐ)، ܕܡܪܟܙܐ ܪܒܬܐ — ܠܦܘܩܕ̈ܢ̈ܝ ܣܝܢܬܐ — ܡܫܟܚ ܠܗܘܢ ܒܟܠ ܐܝܩܪ̈ܐ. ܟܕܬܘܩܦܐ، ܡܪܟܙܐ ܪܒܬܐ ܕܡܫܟܚ ܠܗ ܒܓܢܝܛܘܣ (⟪षष्ठी⟫)، ܡܢ ܚܘܒܐ ܕܗܓܪ ܠܦܘܩܕ̈ܢ̈ܝ ܣܝܢܬܐ.
 
 :::
 e.g.
 
-⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "the son of a Kṣatriya", "a young Kṣatriya", "a member of the Kṣatriya group"  
+⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "ܕܝܠ ܟܣܛܪܝܐ", "ܟܣܛܪܝܐ ܥܬܝܩ", "ܚܕ ܡܢ ܓܘܦܬ ܟܣܛܪܝܐ"  
 Acc. sg. ⟪क्षत्रियपुत्रम्⟫  
 Gen. sg. ⟪क्षत्रियपुत्रस्य⟫  
 etc.
@@ -108,7 +108,7 @@ etc.
 
 ⟪धनलोभः⟫ = ⟪धनस्य⟫  ⟪लोभः⟫ = "Desire for wealth, avarice"
 
-⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "the course of the world, the behavior of the people"
+⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "ܡܕܝܢܘܬ ܥܠܡܐ, ܫܪܝܬ ܒܢܝ ܢܘܣܐ"
 
 Fast jedes Genetivverhältnis kann durch ein Tatpuruṣa ersetzt werden. Die Wenigen Ausnahmen siehe z.B. bei Kale, A higher Sanskrit grammar § 211, dort auch die entsprechenden Stellen bei Pāṇini.
 
@@ -116,27 +116,27 @@ Das Vorderglied eines Tatpuruṣa kann aber prinzipiell jeden Kasus vertreten. A
 
 ::: grammar-box
 
-The first member of a compound may appear in the singular, dual, or plural when the compound is resolved. Which possibility is present must be inferred from meaning and context.
+ܕܝܠܘܩܐ ܕܪܒܐ ܕܡܠܬܐ ܝܬܘܪ ܢܟܬ ܒܫܡܐ ܚܕ، ܗܘܬ ܒܫܡܐ ܪܒܐ، ܘܗܘܬ ܒܫܡܐ ܪܒܝܢ.
 
 :::
 Examples:
 
-The front member represents the accusative (⟪द्वितीया⟫): e.g., with certain PPPs to verbs of motion (Pāṇini 2,1,24):
+Das vordere Glied steht für den Akkusativ (⟪द्वितीया⟫): z.B. bei bestimmten PPPs zu Verben der Bewegung (Pāṇini 2,1,24):
 
 ⟪ग्रामगतः⟫ = ⟪ग्रामं⟫ ⟪गतः⟫ = "one who has gone to the village"  
 ⟪नरकपतिता⟫ = ⟪नरकं⟫ ⟪पतिता⟫ = "one who has fallen into a hell"
 
-The prefix represents the instrumental case (⟪तृतीया⟩): e.g., frequently the agent (⟪कर्तृ⟩) of nominal formations with kṛt suffixes (e.g., PPP):
+Die Vorsilbe repräsentiert den Instrumentalfall (⟪तृतीया⟩): z.B. häufig der Agens (⟪कर्तृ⟩) von Nominalbildungen mit kṛt-Suffixen (z.B. PPP):
 
 ⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "made by a god / made by gods"  
 Also resolvable: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "act / doing of a god / by gods; divine act, godly deed"
 
 ⟪बुद्धरक्षिता⟫ = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "the one who was protected by Buddha" (a proper name)
 
-## 15.5. Zerlegung von Komposita (außer Dvandvas)
+## 15.5. ܦܘܪܫܐ ܕܡܚܘܕ̈ܐ (ܒܪ ܡܢ ܕܘܢܕܘܐ)
 
 ::: grammar-box
-Although in Sanskrit compounds of any length can be formed and are also very frequently formed (compounds of 10 to 30 members are no rarity!), yet - with the exception of Dvandvas - all compounds are progressively hierarchical and can be divided into two parts each:
+אַף עֲבָר דְּיַכְלִין לְאַתְּבָא שַׁדְרָא דְסַנְסְקִירְתָּא בְּכָל קוּרְטוּבָא וַהֲווֹ יַתִּיר מְדַבְּרֵי (קוּרְטוּבָא דְעַשְׂרָה עֲדַ תְּלַת סִימָן לָא הוּא נִידְרָה!), אַלָּא — בִּשְׁעוּת דְדַנְדְוָוא — כָּל קוּרְטוּבֵי שַׁדְרָא וְיַכְלִין לְאַתְּבָא בִּשְׁנֵי חוּלְקֵי:
 
 :::
 ::: media
@@ -157,9 +157,9 @@ e.g.
 
 3\. Stage (2. Sub-caesura): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
-= "the meritorious deed (the merit) that my virtuous son has performed"
+= "ܐܪ̈ܘܚ ܕܦܠܗ ܟܝܪܐ (ܟܝܪܐ) ܕܥܒܕ ܒܪܟܬܐ"
 :::
-In this process, various types of compounds can be mixed, e.g., foreground element: Bahuvrīhi (⟪बहुव्रीहि⟫) - background element: Tatpuruṣa, etc.
+ܒܗܢܐ ܫܘܟܠܐ, ܡܕܥ ܣܓܝ̈ܬܐ ܕܠܦܦܢ̈ܝܬܐ ܡܫܬܠܒ̈ܢ, ܝܗܘܕ: ܩܪܒܐ ܫܥܠܝܐ: ܒܗܘܒܪܝܗܐ (⟪बहुव्रीहि⟫) - ܩܠܐ ܫܥܠܝܐ: ܬܐܛܦܘܪܘܣܐ, ܘܟܠܗ.
 
 e.g.
 
@@ -170,9 +170,9 @@ e.g.
 
 2nd stage: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
 
-= "the Dharma of Brāhmaṇas, Kṣatriyas, and Vaiśyas"
+= "ܕܝܢ ܚܘܬܐ ܕܒܪܗ̈ܡܢܝܐ ܘܟܣܛܪܝܐ ܘܒܝ̈ܫܐ"
 :::
-Very often, there are various possibilities for resolving a compound. Whether the correct or at least the best one is, can only be decided from the context and the content of the text. Sometimes, such a decision is not possible. Often, two resolution possibilities are presumably intended by the author. Then, both resolution possibilities must be rendered in the translation (connected with "and", "or", "respectively", and the like.
+ܬܘܒ ܥܬܝܩ ܗܘ ܕܐܢܫ̈ܐ ܡܠܦܝܢ ܒܟܠ ܐܘܪ̈ܚܐ. ܗܢܐ ܕܡܠܬܐ ܒܝܬ ܟܢܫܬܐ ܘܒܝܬ ܡܠܦ̈ܘܬܐ. ܒܫܥܝܪܐ ܕܡܠܬܐ ܒܝܬ ܟܢܫܬܐ.
 
 e.g.
 
@@ -187,12 +187,12 @@ e.g.
 
 2\. Stufe: entsprechend
 
-1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "the deed done by my meritorious son"
-2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "the deed of my meritorious son"
-3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "the meritorious deed done by my son"
-   2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "the meritorious deed of my son"
+1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "ܡܠܟܘܬܐ ܕܪܒܝ ܣܦܪܟ"
+2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "ܡܠܟܘܬܐ ܕܪܒܝ ܣܦܪܟ"
+3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "ܡܠܟܘܬܐ ܕܪܒܝ ܣܦܪܟ"
+2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "ܡܠܟܘܬܐ ܕܪܒܝ ܣܦܪܟ"
 :::
-## 15.6. The form of the prior member in compounds (⟪समास⟩ m.)
+## 15.6. ܨܘܪܬܐ ܕܗܕܡܐ ܩܕܡܝܐ ܒܡ̈ܠܝܢ ܚܕܝܕ̈ܬܐ (ܣܡܐܣ)
 ::: grammar-box
 
 In allen Arten von Komposita ist das Vorderglied in der Regel der unveränderte Wortstamm. Zweistämmige Nomina stehen im schwachen Stamm. Feminine Adjektive, die ein folgendes Glied im Kompositum näher bestimmen, stehen im Allgemeinen in maskulinen Stamm:
@@ -203,15 +203,15 @@ e.g.
 ⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "a son with good qualities"
 
 :::
-## 15.7. Einteilung der ⟪तत्पुरुष⟫
+## 15.7. ܦܘܠܓܐ ܕ⟪ܬܬܦܘܪܘܫ⟫
 
-1.  ⟪प्रथमातत्पुरुषः⟫ : The first component stands in ⟪विग्रहवाक्य⟫ in the Nominative (⟪प्रथमा⟫)
-2.  ⟪द्वितीयातत्पुरुषः⟫ : The first component stands in ⟪विग्रहवाक्य⟫ in the Accusative (⟪द्वितीया⟫)
-3.  ⟪तृतीयातत्पुरुषः⟫ : The first component stands in ⟪विग्रहवाक्य⟫ in the Instrumental (⟪तृतीया⟫)
-4.  ⟪चतुर्थीतत्पुरुषः⟫ : The first component stands in ⟪विग्रहवाक्य⟫ in the Dative (⟪चतुर्थी⟫)
-5.  ⟪पञ्चमीतत्पुरुषः⟫ : The first component stands in ⟪विग्रहवाक्य⟫ in the Ablative (⟪पज्चमी⟫)
-6.  ⟪षष्ठीतत्पुरुषः⟫ : The first component stands in ⟪विग्रहवाक्य⟫ in the Genitive (⟪षष्ठी⟫)
-7.  ⟪सप्तमीतत्पुरुषः⟫ : The first component stands in ⟪विग्रहवाक्य⟫ in the Locative (⟪सप्तमी⟫)
+1. ⟪प्रथमातत्पुरुषः⟫ : המרכיב הראשון עומד ב- ⟪विग्रहवाक्य⟫ במתכונת הנominative (⟪प्रथमा⟫)
+2. ⟪द्वितीयातत्पुरुषः⟫ : המרכיב הראשון עומד ב- ⟪विग्रहवाक्य⟫ במתכונת האקוזטיב (⟪द्वितीया⟫)
+3. ⟪तृतीयातत्पुरुषः⟫ : המרכיב הראשון עומד ב- ⟪विग्रहवाक्य⟫ במתכונת האינסטרומטל (⟪तृतीया⟫)
+4. ⟪चतुर्थीतत्पुरुषः⟫ : המרכיב הראשון עומד ב- ⟪विग्रहवाक्य⟫ במתכונת הדטיב (⟪चतुर्थी⟫)
+5. ⟪पञ्चमीतत्पुरुषः⟫ : המרכיב הראשון עומד ב- ⟪विग्रहवाक्य⟫ במתכונת האבלטיב (⟪पज्चमी⟫)
+6. ⟪षष्ठीतत्पुरुषः⟫ : המרכיב הראשון עומד ב- ⟪विग्रहवाक्य⟫ במתכונת הגנטיב (⟪षष्ठी⟫)
+7. ⟪सप्तमीतत्पुरुषः⟫ : המרכיב הראשון עומד ב- ⟪विग्रहवाक्य⟫ במתכונת הלוקטיב (⟪सप्तमी⟫)
 
 *   ⟪कर्मधारयः⟫ : appositional Tatpuruṣa, u.a.:
     *   ⟪उपमानपूर्वपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪इव⟫ nach erstem Glied
@@ -222,20 +222,20 @@ e.g.
 *   ⟪गतिसमासः⟫ : mit Präposition im Vorderglied
 *   ⟪प्रथमातत्पुरुषः⟫ u.s.w. (siehe oben)
 
-### 15.7.1. Einteilung der ⟪कर्मधारय⟫
+### 15.7.1. ܦܘܠܓܐ ܕ⟪ܟܪܡܕܗܪܝ⟫
 
-1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫ : The first component is an adjective (⟪विशेषण⟫)
-2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : both components are adjectives; here also belong adjectives expressing a sequence of time: "first bathed, then anointed"
-3.  ⟪उपमानपूर्वपदकर्मधारयः⟫ (=  ⟪उपमासमासः⟫): in the first component comparison, in the second component the compared property: e.g. "beautiful like a lotus"
-4.  ⟪उपमानोत्तरपदकर्मधारयः⟫ (=  ⟪उपमितसमासः⟫):  comparison in the second component
-5.  ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ with ⟪एव⟫ after the first component (metaphor)
-6.  ⟪संभावनपूर्वपदकर्मधारयः⟫ : both components refer to the same person or thing, e.g. ⟪कालिदासकविः⟫ = ⟪कालिदास⟫ ⟪इति⟫ ⟪कविः⟫ = "the poet Kālidāsa"
-7.  ⟪कर्मधारयः⟫ with ⟪कु⟫ / ⟪कद्⟫ as the first component: "bad..."
-8.  ⟪कर्मधारयः⟫ with ⟪किम्⟫ as the first component: criticism
-9.  PPP + negated PPP: "partially", e.g. ⟪कृताकृतम्⟫ = "partially done"
-10.  ⟪द्विगुसमासः⟫ : numeral in the first component
+1.  ⟪ܐܪܡܝܐ⟫विशेषणपूर्वपदकर्मधारयः⟫ : ܗܘ רכב הראשון הוא תארים (⟪विशेषण⟫)
+2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : שני הרכבים הם תארים; כאן גם נכללים תארים המביעים רצף זמן: "ראשון טבל, לאחר מכן משח"
+3.  ⟪उपमानपूर्वपदकर्मधारयः⟫ (=  ⟪उपमासमासः⟫): ברכב הראשון השוואה, ברכב השני התכונה המשווה: למשל "יפה כפרח לוטוס"
+4.  ⟪उपमानोत्तरपदकर्मधारयः⟫ (=  ⟪उपमितसमासः⟫): השוואה ברכב השני
+5.  ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ עם ⟪एव⟫ לאחר הרכב הראשון (מטאפורה)
+6.  ⟪संभावनपूर्वपदकर्मधारयः⟫ : שני הרכבים מתייחסים לאותו אדם או דבר, למשל ⟪कालिदासकविः⟫ = ⟪कालिदास⟫ ⟪इति⟫ ⟪कविः⟫ = "המשורר קלידאסה"
+7.  ⟪कर्मधारयः⟫ עם ⟪कु⟫ / ⟪कद्⟫ כרכב הראשון: "רע..."
+8.  ⟪कर्मधारयः⟫ עם ⟪किम्⟫ כרכב הראשון: ביקורת
+9.  PPP + PPP שלילי: "חלקית", למשל ⟪कृताकृतम्⟫ = "נעשה חלקית"
+10.  ⟪द्विगुसमासः⟫ : מספר ברכב הראשון
 
-## 15.8. Wortliste
+## 15.8. ܡܠܘܐܐ
 
 ⟪पुष्कल⟫ 3: glorious, magnificent, abundant
 
@@ -277,7 +277,7 @@ Fig.: ⟪इन्द्रः⟫
 
 ⟪पुरुष⟫ m.: human, man, servant
 
-\-⟪जन⟫ as the second member of Tatpuruṣas often expresses the plural
+\-⟪जन⟫ כדבר השני דטאפורושא אקרי רבוי
 
 ⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : laudare, praedicare
 
@@ -307,9 +307,9 @@ Fig.: ⟪व्याघ्रः⟫
 ⟪अरि⟫ m.: Enemy (according to Thieme, Der Fremdling im Ṛgveda: originally = stranger)
 
 ::: indent
-⟪आर्य⟫ 3: āryan, noble; m. Ārya (self-designation of the Sanskrit-speaking ancient Indians, literally: Hospitable (Thieme)); Noble, Man of Honor
+⟪आर्य⟫ 3: אַרְיָן, נָבִיל; זכ. אַרְיָא (שם-עצמי של ההודים העתיקים דוברי סנסקריט, מיל': אַכְסָנִי (טימי)); נָבִיל, אִישׁ כָּבוֹד
 :::
-to ⟪जन्⟫
+לְ⟪जन्⟫
 
 ::: indent
 ⟪जाति⟫ f.: birth, kind, caste (on ⟪जाति⟫ as caste see Basham, Wonder, pp. 148ff.)
@@ -325,7 +325,7 @@ davon:
 
 ⟪मृत्यु⟫ m.: death ; personified: god of death
 :::
-## 15.9. Exercise 1
+## 15.9. ܬܪܓܡܬܐ 1
 
 Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German translation. Provide all resolutions and translations that seem possible to you. Also indicate which case and number the entire compound represents.
 
@@ -389,7 +389,7 @@ Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German 
 
 ⟪३०⟫. ⟪सत्यवदनम्⟫
 
-## 15.10. Übung 2
+## 15.10. ܬܕܪܫܬܐ 2
 
 Resolve the following Tatpuruṣa as in Exercise 1:
 
@@ -517,9 +517,9 @@ Resolve the following Tatpuruṣa as in Exercise 1:
 Fig.: ⟪ग्रामदेवता⟫
 (Image source: [Details](/arc/licenses#lekt1508))
 :::
-## 15.11. Exercise 3
+## 15.11. ܬܶܪܓܳܡܳܐ 3
 
-A) Translate the proverb at the beginning of the lesson
+[A] תרגם את המימרא בראש הלכודתא
 
 B) Resolve the following Tatpuruṣa:
 

@@ -18,7 +18,7 @@ status: stable
 - Le passif et le PPP des racines apprises jusqu'à présent
 :::
 
-## 12.1. Partizip Perfekt Passiv (PPP)
+## 12.1. Partizip Perfekt Passif (PPP)
 
 Une manière de former des phrases passées au passif est la construction avec le soi-disant participe passé passif (PPP).
 
@@ -146,7 +146,7 @@ Dans les formations *aniṭ*, les lois suivantes de la combinaison phonétique d
 | **7. h-t est remplacé par ḍh avec allongement d'un i ou u précédent ; ou par gdh. Devant un tel ḍh, a est remplacé par o, plus rarement par ā :** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) « cacher quelque chose »):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-## 12.5. Wortliste
+## 12.5. Liste de mots
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : s'éveiller, s'éveiller à la connaissance, reconnaître ; PPP **buddha** 3 éveillé, donc **Buddha** = « celui qui s'est éveillé » (et non : celui qui est illuminé)
 
@@ -234,7 +234,7 @@ Fig. : ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-## 12.6. Übung
+## 12.6. Exercice
 
 **A) Formez à partir des phrases actives de [Leçon 7](/lektionen/lektion07), Exercice A, des phrases passives au passé ; pour les verbes intransitifs et les verbes de mouvement, formez des phrases actives au passé.**
 

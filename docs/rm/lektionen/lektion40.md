@@ -60,12 +60,12 @@ Furavant la desinenza -re, avant la quala sto adina -i-, il vocal da giunt n'app
 
 1.  ⟪कृ⟫ 8U (except ⟪संस्कृ⟫)
 2.  ⟪भृ⟫ 1U
-3.  ⟪वृ⟫ 9U "to choose"
+3.  ⟪वृ⟫ 9U "scozar"
 4.  ⟪सृ⟫ 1P
-5.  ⟪द्रु⟫ 1p "to run"
+5.  ⟪द्रु⟫ 1p "currir"
 6.  ⟪श्रु⟫ 5P
 7.  ⟪स्तु⟫ 2U
-8.  ⟪स्रु⟫ 1P "to flow"
+8.  ⟪स्रु⟫ 1P "fluir"
 
 En radischas ⟨⟪अनिट्⟨⟩⟩-sogen. facultativas poa il vocal da giuntar vegnir intercalà u betg. (Enumeraziun da questas radischas en Kielhorn, Grammatik p. 92 § 298b,2,3)
 :::
@@ -426,7 +426,7 @@ En qual da prim da cumponids statan per quests pronomins ils stems:
 
 z.B. ⟪मत्पुस्तकम्⟫ "mein Buch" ; ⟪अस्मद्पुस्तकानि⟫ "unsere Bücher"
 :::
-## 40.6. Wortliste
+## 40.6. Glista da pleds
 
 ⟪पात्र⟫ n.: Reverenziabel, Maister, Degno
 

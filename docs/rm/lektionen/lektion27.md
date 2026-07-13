@@ -155,7 +155,7 @@ Ulteriura davart l'usi dal locatiu pli tard.
 :::
 **Signalrot stampà**: casus forts (en cas d'alternanza da la radis).
 
-## 27.4. In vers cun tut las formas da declinaziun (singular) a ⟪राम⟫
+## 27.4. In vers cun tut las furmas da declinaziun (singular) a ⟪rāma⟫
 
 ::: media
 ![](/images/lekt2708.webp)
@@ -556,7 +556,7 @@ Sai Baba da Shirdi (1835 - 1918).
 | **7. Lokativ** :br **⟪७⟫. ⟪सप्तमी⟫** | ⟪यस्मिन्⟫ || ⟪यस्याम्⟫ | ⟪येषु⟫ || ⟪यासु⟫ |
 
 :::
-### 27.7.14. Fragepronomen: ⟪किम्⟫
+### 27.7.14. Pronom interrogativ: ⟪किम्⟫
 
 ::: grammar-box
 

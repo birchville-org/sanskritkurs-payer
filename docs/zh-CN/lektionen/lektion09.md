@@ -7,7 +7,7 @@ status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
-# Lektion 9
+# 第九课
 
 ::: deleteme-box
 **在本课中，您将学习：**
@@ -18,7 +18,7 @@ last_reconstructed: 2026-05-07
 :::
 ---
 
-## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva")
+## 9.1. Samāhāradvandva（⟪समाहारद्वन्द्व⟫ = “总结性双数”）
 
 ::: grammar-box
 **如果一个复合词意在表达一系列事物等构成一个整体，那么它通常以中性单数形式出现：**
@@ -47,13 +47,13 @@ last_reconstructed: 2026-05-07
 3\. **名词，其意义与基础名词无差异：**
    **putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**
 
-4\. **Nomen, die „zum Begriff des Grundwortes in Beziehung stehend“ ausdrücken:**
-   **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "in Benares gebürtig, aus Benares stammend"**
-   **rūpa n. "Gestalt" » rūpaka 3 ⟪रूपक⟫ "die Gestalt von etwas besitzend"**
+4\. **表示“与词根概念相关”的名词：**
+**kāśi f. "瓦拉纳西" » kāśika 3 ⟪काशिक⟫ "瓦拉纳西出生的，来自瓦拉纳西的"**
+**rūpa n. "形态" » rūpaka 3 ⟪रूपक⟫ "拥有某物形态的"**
 :::
 ---
 
-### 9.2.2. -aka (kṛt), fem. oft -ikā
+### 9.2.2. -aka (kṛt)，阴性通常为 -ikā
 
 ::: grammar-box
 **后缀 -aka（阴性常为 -ikā）用于构成动词名词（表示施事者的名词），适用于任何词根。**
@@ -88,7 +88,7 @@ last_reconstructed: 2026-05-07
 
 ---
 
-## 9.3. Wortliste
+## 9.3. 词汇表
 
 **学习以下词汇：**
 
@@ -124,9 +124,9 @@ last_reconstructed: 2026-05-07
 
 ---
 
-## 9.4. Übung
+## 9.4. 练习
 
-**A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:**
+**A) 请尝试确定以下词语的可能含义：**
 1\. **brāhmāṇaka** ⟪ब्राह्मणक⟫
 2\. **mati** ⟪मति⟫
 3\. **śravaṇa** ⟪श्रवण⟫

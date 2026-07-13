@@ -12,34 +12,34 @@ status: stable
 ## 23.1. The Infinitive (⟪तुमुन्⟫)
 
 ::: grammar-box
-**If one wants to express in Sanskrit that an action is performed for the sake of another action ("in order to"), one can use the infinitive (⟪तुमुन्⟫) for the action for whose sake it is performed. The infinitive primarily denotes purpose or intention:**
+**Jika seseorang ingin menyatakan dalam bahasa Sanskerta bahwa suatu tindakan dilakukan demi tindakan lain ("agar"), maka dapat menggunakan infinitif (⟪तुमुन्⟫) untuk tindakan yang menjadi tujuan. Infinitif terutama menyatakan maksud atau niat:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma has gone to listen to the teacher's speech."
+> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma telah pergi untuk mendengarkan ceramah guru."
 
-**Note that the infinitive — with some strictly defined exceptions — cannot stand as the subject or object of a verb:**
+**Perhatikan bahwa infinitif — dengan beberapa pengecualian yang didefinisikan secara ketat — tidak dapat berdiri sebagai subjek atau objek dari sebuah kata kerja:**
 
-> "He learns to dance" must therefore not be translated with the infinitive ("to dance"), but one must use a verbal noun, e.g.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "to learn").
+> "Ia belajar menari" oleh karena itu tidak boleh diterjemahkan dengan infinitif ("untuk menari"), melainkan harus menggunakan kata benda verbal, misalnya: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "belajar").
 
-**The infinitive is also used with verbs and nouns meaning "to wish" or "to long for," when the agent (⟪कर्तृ⟫) of the infinitive and the verb are identical:**
+**Kata kerja tak berserta juga digunakan dengan kata kerja dan kata benda yang berarti “berkeinginan” atau “merindukan,” ketika pelaku (⟪कर्तृ⟫) dari kata kerja tak berserta dan kata kerja tersebut identik:**
 
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma wishes to listen to the teacher's speech."
+> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = “Rāma ingin mendengarkan pidato guru.”
 
-**The infinitive is also used, among other things, with verbs in the meanings "to be able," "there is," "to know," "to begin":**
+**Kata kerja tak berserta juga digunakan, antara lain, dengan kata kerja dalam arti “mampu,” “ada,” “tahu,” “mulai”:**
 
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "A saint cannot do wrong."  
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "There is food to eat" (⟪भुज्⟫ 7: Ā: to eat, P: to rule)
+> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = “Seorang orang suci tidak dapat berbuat salah.”  
+> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = “Ada makanan untuk dimakan” (⟪भुज्⟫ 7: Ā: untuk makan, P: untuk memerintah)
 
-**The infinitive is also used with words meaning "sufficient," "able," and with nouns meaning "ability," "power," "skill":**
+**Kata kerja tak berserta juga digunakan dengan kata-kata yang berarti "cukup," "mampu," dan dengan kata benda yang berarti "kemampuan," "kekuatan," "keterampilan":**
 
 > ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Fire has the power to burn everything."
 
-**The infinitive can also be used with words meaning "time" in expressions such as "It is time to ...":**
+**Kata kerja tak terbatas juga dapat digunakan dengan kata-kata yang berarti "waktu" dalam ungkapan seperti "Saatnya untuk ...":**
 
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "It is time to devote oneself to eating" = "It is time to eat"
+> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "Saatnya untuk mencurahkan diri pada makan" = "Saatnya untuk makan"
 
-**The infinitive can be used actively and passively. A passive infinitive in German is rendered in Sanskrit by putting the verb (especially frequently ⟪शक्⟫ "to be able, can") from which the infinitive depends into the passive voice.**
+**Kata kerja tak terbatas dapat digunakan secara aktif dan pasif. Kata kerja tak terbatas pasif dalam bahasa Jerman diterjemahkan ke dalam bahasa Sanskerta dengan menempatkan kata kerja (terutama sering kali ⟪शक्⟫ "dapat, bisa") yang menjadi dasar kata kerja tak terbatas tersebut ke dalam bentuk pasif.**
 
-**Regarding the object, the infinitive behaves like a verbal form, i.e., the direct object (⟪कर्मन्⟫) stands in the accusative (⟪द्वितीया⟫) when the infinitive is used actively, or in the case required by the relevant verb; when the infinitive is used passively, the direct object stands in the nominative.**
+**Mengenai objek, kata kerja tak terbatas berperilaku seperti bentuk verbal, yaitu objek langsung (⟪कर्मन्⟫) berada dalam kasus akusatif (⟪द्वितीया⟫) ketika kata kerja tak terbatas digunakan secara aktif, atau dalam kasus yang diperlukan oleh kata kerja terkait; ketika kata kerja tak terbatas digunakan secara pasif, objek langsung berada dalam kasus nominatif.**
 
 e.g.
 
@@ -47,11 +47,11 @@ e.g.
 
 **In the 2nd person, ⟪अर्ह्⟫ + infinitive is often used as a mild command: "You should."**
 
-**When the infinitive depends on a noun, it must not be combined with it into a compound. Exceptions are Bahuvrīhis, whose second member is ⟪काम⟫ or ⟪मनस्⟫:**
+**Ketika infinitif bergantung pada kata benda, ia tidak boleh digabungkan dengannya menjadi majemuk. Pengecualian adalah Bahuvrīhi, yang anggota keduanya adalah ⟪काम⟫ atau ⟪मनस्⟫:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "one whose wish it is to speak; one who wishes to speak".
+> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "seseorang yang keinginannya adalah berbicara; seseorang yang ingin berbicara".
 :::
-## 23.2. Formation of the Infinitive (⟪तुमुन्⟫)
+## 23.2. Pembentukan Infinitif (⟪तुमुन्⟫)
 
 ::: grammar-box
 **guṇa-grade root + -tum**
@@ -60,17 +60,17 @@ e.g.
 
 **guṇa-grade root + -i- + -tum**
 
-**Final consonants of the root are modified before -tum according to the same rules as before the -ta of the PPP.**
+**Konsonan akhir dari akar kata diubah sebelum -tum menurut aturan yang sama seperti sebelum -ta dari PPP.**
 
-**Verbs with prefixes form the infinitive in the same way as simple roots.**
+**Kata kerja dengan prefiks membentuk infinitif dengan cara yang sama seperti akar kata sederhana.**
 :::
-Examples:
+Contoh:
 
 ::: indent
 ⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
 :::
-No fixed rules can be established regarding the use of the connecting vowel -i-. Essentially, the distribution of the connecting vowel in the infinitive corresponds to that in the future tense.
+Tidak ada aturan pasti yang dapat ditetapkan mengenai penggunaan vokal penghubung -i-. Pada dasarnya, distribusi vokal penghubung dalam infinitif sesuai dengan distribusinya dalam bentuk future.
 
 Among the roots learned so far, the following infinitives deserve particular attention:
 
@@ -88,7 +88,7 @@ Among the roots learned so far, the following infinitives deserve particular att
 :::
 Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
-## 23.3. The Infinitive (⟪तुमुन्⟫) for the roots learned so far
+## 23.3. Infinitif (⟪तुमुन्⟫) untuk akar kata yang telah dipelajari sejauh ini
 
 ⟪अद्⟫ 2P ⟪अत्तुम्⟫  
 ⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
@@ -163,7 +163,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 
 ## 23.5. Exercise
 
-A) The following roots form the infinitive without the connecting vowel -i-. Form the infinitive, taking into account the sound changes:
+[A] Akar-akar berikut membentuk infinitiva tanpa vokal penghubung -i-. Bentuklah infinitiva, dengan memperhitungkan perubahan bunyi:
 
 1.  ⟪आप्⟫
 2.  ⟪इ⟫
@@ -203,7 +203,7 @@ A) The following roots form the infinitive without the connecting vowel -i-. For
 36.  ⟪पच्⟫
 37.  ⟪सद्⟫
 
-B) The following roots form the infinitive with the connecting vowel -i-. Form the infinitive for:
+B) Akar-akar berikut membentuk infinitif dengan vokal penghubung -i-. Bentukkanlah infinitif untuk:
 
 1.  ⟪आस्⟫
 2.  ⟪नृत्⟫
@@ -213,7 +213,7 @@ B) The following roots form the infinitive with the connecting vowel -i-. Form t
 6.  ⟪वृत्⟫
 7.  ⟪कुप्⟫
 
-C) The following roots optionally with or without the connecting vowel:
+C) Akar-akar berikut opsional dengan atau tanpa vokal penghubung:
 
 1.  ⟪अश्⟫
 2.  ⟪इष्⟫
@@ -258,7 +258,7 @@ C) Translate the following ⟪सुभाषितम्⟫
 ⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
 ⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
 
-Explanation: ⟪हीन⟫ ⟪३⟫: PPP to ⟪हा⟫ 3: to leave; ⟪धर्मे⟫ = locative sg. "in the ..."
+Penjelasan: ⟪हीन⟫ ⟪३⟫: PPP ke ⟪हा⟫ 3: untuk meninggalkan; ⟪धर्मे⟫ = lokatif sg. "di dalam ..."
 
 ::: media
 ![](/images/lekt2302.webp)
@@ -272,41 +272,41 @@ Please do not use any aids!
 
 A) Translate into Sanskrit:
 
-1\. The five (⟪पञ्च⟫) "torments" are: ignorance, false belief in the self, affection, aversion, and attachment to the body.
+1\. Lima (⟪पञ्च⟫) "siksaan" adalah: kebodohan, keyakinan palsu akan diri, afeksi, aversi, dan keterikatan pada tubuh.
 
-2\. Knowledge is acquired through obedience to a teacher, or for a large sum of money, or in exchange for knowledge. A fourth type of acquiring knowledge does not exist.
+2\. Pengetahuan diperoleh melalui ketaatan kepada guru, atau dengan jumlah uang yang besar, atau sebagai pertukaran atas pengetahuan. Tidak ada jenis keempat dari perolehan pengetahuan.
 
 3\. A low-born person speaks but does not act; a good person does not speak, but acts only.
 
-4\. The auxiliary sciences of the Veda are: phonetics, ritualistics, grammar, semantics, metrics (⟪छन्दस्⟫), and calendar science.
+4\. Ilmu-ilmu bantu Veda adalah: fonetik, ritualistik, tata bahasa, semantik, metrik (⟪छन्दस्⟩), dan ilmu kalender.
 
-5\. Yoga is the cessation of the activities of the mind.
+5\. Yoga adalah penghentian aktivitas pikiran.
 
 6\. Right prevails, not wrong; truth prevails, not falsehood; patience prevails, not anger; God prevails, not an opposing god. (Passive)
 
-7\. The "staff" brings about acquisition and secure possession of philosophy, Veda, and economics. The wielding of this staff is politics.
+7\. "Tongkat" itu membawa perolehan dan penguasaan yang aman atas filsafat, Weda, dan ekonomi. Penggunaan tongkat ini adalah politik.
 
 ::: media
 ![](/images/lekt2304.jpg)
 Fig.: ⟪दण्डनीतिः⟫
-Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, since 2004
-(Image source: [Details](/en/licenses#lekt2304))
+Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Perdana Menteri India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, sejak 2004
+(Sumber gambar: [Details](/en/licenses#lekt2304))
 :::
-8\. Wife, son, and slave, these three (⟪त्रयस्⟫) are, according to tradition, without property. Whatever comes to them belongs to the one to whom these (three) belong.
+8\. Istri, anak, dan budak, ketiga orang ini (⟪त्रयस्⟫) adalah, menurut tradisi, tanpa harta. Apa pun yang datang kepada mereka milik orang yang memiliki (ketiga) orang ini.
 
 9\. Mosquitoes desire a wound, rulers desire property, low-born persons desire conflict, good persons desire peace.
 
-10\. The specific duty of a Brāhmaṇa is: study, teaching, sacrificing as the officiant, sacrificing on behalf of others, giving, and receiving; that of a Kṣatriya is: study, sacrificing as the officiant, giving, earning a livelihood through weapons, protecting beings; that of a Vaiśya: study, sacrificing as the officiant, giving, agriculture, animal husbandry, and trade; that of a Śūdra: obedience to the twice-born, economic activity, activity (⟪कर्म⟫) of artisans and performers.
+10\. Tugas khusus seorang Brāhmaṇa adalah: belajar, mengajar, melakukan upacara sebagai pemimpin ritual, melakukan upacara untuk orang lain, memberi, dan menerima; tugas seorang Kṣatriya adalah: belajar, melakukan upacara sebagai pemimpin ritual, memberi, mencari nafkah dengan senjata, melindungi makhluk; tugas seorang Vaiśya: belajar, melakukan upacara sebagai pemimpin ritual, memberi, pertanian, peternakan, dan perdagangan; tugas seorang Śūdra: ketaatan kepada dua kali lahir, kegiatan ekonomi, aktivitas (⟪कर्म⟫) para pengrajin dan pelaku seni.
 
-11\. Clarification of consciousness occurs due to the meditative development of loving-kindness, compassion, sympathetic joy, and equanimity, which have happiness and suffering, good and evil, as their objects.
+11\. Kejernihan kesadaran terjadi karena pengembangan meditatif atas welas asih, belas kasihan, sukacita simpatik, dan keseimbangan batin, yang memiliki kebahagiaan dan penderitaan, kebaikan dan kejahatan, sebagai objeknya.
 
-12\. Poor people have many sons, although they do not wish for them. Rich people have no son. Strange is the stirring of fate.
+12\. Orang miskin memiliki banyak anak, meskipun mereka tidak menginginkannya. Orang kaya tidak memiliki anak. Anehnya adalah bangkitnya takdir.
 
 13\. Who does not slay a woman's body (⟪वपुस्⟫ f.) with a slender waist, broad hips, red lips, black eyes, a curved navel, and upright breasts?
 
 B) Decline in all cases known to you ⟪क्षत्रिया⟫ f.
 
-C) Provide the stem forms (meaning, present class, mood, 3rd sg. present indicative, 3rd sg. passive, PPP, absolutes, infinitive) for the following verbs:
+[C) Berikan bentuk-bentuk akar (makna, kelas sekarang, modus, indikatif sekarang tunggal ke-3, pasif tunggal ke-3 sekarang, PPP, absolut, infinitif) untuk kata kerja berikut:]
 
 ⟪१⟫. ⟪सह्⟫
 

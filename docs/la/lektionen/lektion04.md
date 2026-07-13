@@ -19,7 +19,7 @@ status: stable
 :::
 ## 4.1. Quaestiones supplementariae simplices (quaestiones verborum) et responsiones
 
-### 4.1.1. Fragepronomina und Demonstrativpronomina
+### 4.1.1. Pronomina interrogativa et demonstrativa
 
 #### 4.1.1.1. Quaestiva pronomina (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
@@ -93,7 +93,7 @@ Exemplum alterius quaestionis:
 
 ANIMADVERSIO: Responsiones, quas cum vestris adhuc Sanscriticis notitiis ad huiusmodi quaestiones dare potestis, sane nondum omnibus ex partibus idiomaticum bonum Sanscritum repraesentant.
 
-## 4.2. Übung
+## 4.2. Exercitium
 
 **A) Oraliter quaestiones formate secundum schemata viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) et ad quaestiones Sanscritice respondete:**
 

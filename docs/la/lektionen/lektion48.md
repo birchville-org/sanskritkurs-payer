@@ -382,7 +382,7 @@ B) Versio facite in Sanscritum (imperativum utere et radices 2ae et 3ae classis 
 19. Illi (pl.) in domo mea sedere debeant.
 20. Mariti uxores sustentent (scilicet sustentationem).
 
-## 48.6. Übersetzungsübung
+## 48.6. Exercitium translationis
 
 ⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫):
 

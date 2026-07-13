@@ -64,7 +64,7 @@ See later for dual Dvandvas!
 
 The first members of compounds (not only Dvandvas) generally have the form of the unchanged **nominal stem**. The individual members of compounds are connected according to the rules of **sentence sandhi** (i.e., the sandhi we have learned so far, in contrast to word sandhi, which applies within the word before formative elements).
 
-### 5.3.2. Plural Itaretaradvandva
+### 5.3.2. इतरेतरद्वन्द्वसमासस्य बहुवचनम्
 
 Examples of plural Dvandva:
 

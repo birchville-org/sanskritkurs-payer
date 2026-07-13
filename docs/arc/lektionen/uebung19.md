@@ -6,7 +6,7 @@ last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 19
+# ܬܪܓܡܬܐ 19
 
 A) Translate into Sanskrit:
 
@@ -19,7 +19,7 @@ A) Translate into Sanskrit:
 3. The poet praises the Kṣatriya, whose wealth he desires.
 ⟪यस्य⟫ ⟪क्षत्रियस्य⟫ ⟪धनं⟫ ⟪लुभ्यति⟫ ⟪तं⟫ ⟪कविः⟫ ⟪स्तौति⟫ ⟪।⟫
 
-4. Fire burns the house of the man who does not honor Agni with a sacrifice.
+4. אִיתָא בְּרַעֲתָא דְגוֹבְרָא דְלָא מַכְבֵּיד יַת אַגְנִי בְּקָרְבָּנָא.
 ⟪यो⟫ ⟪नरो⟫ ⟪ऽग्निं⟫ ⟪न⟫ ⟪यजते⟫ ⟪तस्य⟫ ⟪गृहमग्निर्दहति⟫ ⟪।⟫
 
 5. The tiger-like man strikes down the Kṣatriya warriors, who have been defeated by Rāma (Passive).
@@ -31,32 +31,32 @@ B) Translate:
 ⟪वारिदो⟫ ⟪वारि⟫ ⟪मुञ्चति⟫ ⟪।⟫  
 ⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫  
 ⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥१॥⟫  
-With which wind the cloud lets fall water, with that wind a scholar moves his umbrella.
-(Corresponds to: *Behind the wind sails the wise man. / As the wind blows, so turns the flag.*)
+בּܶܐ ܕܰܪܘܚܳܐ ܕܶܡܬܝܪ ܠܰܒ݂ܳܐ، בּܶܐ ܕܪܘܚܳܐ ܗܢܶܐ ܕܡܰܟ݂ܳܠ ܣܘܦܪܶܐ.
+(ܡܬܚܰܒ݂ܪ ܠ: *ܐܝܡܳܐ ܕܪܘܚܳܐ ܗܰܟ݁ܝܢ ܠܒܳܐ. / ܟܡܶܐ ܕܪܘܚܳܐ ܢܦ݂ܫܶܗ، כּܝܢ ܠܪܘܚܳܐ.*)
 
 ⟪यो⟫ ⟪धर्ममर्थं⟫ ⟪कामं⟫ ⟪च⟫  
 ⟪यथाकालं⟫ ⟪निषेवते⟫ ⟪।⟫  
 ⟪धर्मार्थकामसंयोगं⟫  
 ⟪सो⟫ ⟪ऽमुत्रेह⟫ ⟪च⟫ ⟪विन्दति⟫ ⟪॥२॥⟫  
-He who at the right time follows religion (dharma), profitable activity (artha) or love (kāma), finds in this world and in the next communion with religion, profit, and love.
+ܡܶܐ ܕܒ݂ܰܨܝܳܟ݁ܬܶܐ ܗܘܶܐ ܠܕ݂ܳܝܢ ܒ݂ܶܐ ܠܕ݂ܳܝܢ ܒ݂ܶܐ ܠܕ݂ܳܝܢ، ܗܘܶܐ ܠܒ݂ܳܐ ܒ݂ܰܨܝܳܟ݁ܬܶܐ، ܘܒ݂ܰܨܝܳܟ݁ܬܶܐ ܒ݂ܰܨܝܳܟ݁ܬܶܐ.
 
 ⟪सा⟫ ⟪भार्या⟫ ⟪या⟫ ⟪प्रियं⟫ ⟪ब्रूते⟫  
 ⟪स⟫ ⟪पुत्रो⟫ ⟪यस्तु⟫ ⟪जीवति⟫ ⟪।⟫  
 ⟪स⟫ ⟪जीवति⟫ ⟪गुणो⟫ ⟪यस्य⟫  
 ⟪धर्मो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪जीवति⟫ ⟪॥३॥⟫  
-This is his wife, who speaks love,  
-This is a son, who lives,  
-He lives, who has virtue,  
-He who has religion, law, and custom, lives.
+ܗܢܶܐ ܐܝܬܳܐ ܕܡܰܠܠ ܒ݂ܶܐ،  
+ܗܢܶܐ ܒ݂ܪܳܐ ܕܡܰܚܶܐ،  
+ܗܘܶܐ ܕܡܰܚܶܐ،  
+ܗܘ ܕܡܰܚܶܐ، ܠܒ݂ܳܐ، ܘܚܘܩܶܐ، ܡܰܚܶܐ.
 
 ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫  
 ⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫  
-He who has prosperity, has friends,  
-He who has prosperity, has relatives,  
-He who has prosperity, is a man in the world,  
-He who indeed has prosperity, is a scholar.
+ܡܶܐ ܕܗܘܶܐ ܠܟ݁ܳܢ، ܗܘܶܐ ܠܚܰܒ݂ܪ̈ܳܝ،  
+ܡܶܐ ܕܗܘܶܐ ܠܟ݁ܳܢ، ܗܘܶܐ ܠܡܰܪ̈ܟ݁ܳܝ،  
+ܡܶܐ ܕܗܘܶܐ ܠܟ݁ܳܢ، ܗܘܶܐ ܠܒ݂ܰܥܳܝ ܒ݂ܰܠܡܶܐ،  
+ܗܘ ܕܒ݂ܶܐ ܠܟ݁ܳܢ، ܗܘܶܐ ܠܟ݂ܡܳܝ.
 
 ::: media
 ![](/images/uebung029.webp)

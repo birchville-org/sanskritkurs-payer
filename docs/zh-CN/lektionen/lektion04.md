@@ -7,7 +7,7 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 4
+# 第4课
 
 ::: deleteme-box
 **在本课中，您将学习：**
@@ -19,9 +19,9 @@ status: stable
 :::
 ## 4.1. 简单的补充问句（词问句）与回答
 
-### 4.1.1. Fragepronomina und Demonstrativpronomina
+### 4.1.1. 疑问代词 und Demonstrativpronomen
 
-#### 4.1.1.1. Fragepronomen (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
+#### 4.1.1.1. 疑问代词 (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
 ::: grammar-box
 | | 单数主格 | 复数主格 |
@@ -95,7 +95,7 @@ status: stable
 
 ---
 
-## 4.2. Übung
+## 4.2. 练习
 
 **A) 口头练习：根据 viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟩) 的模式，用以下词语提问，并用梵语回答这些问题：**
 

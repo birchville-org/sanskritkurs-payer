@@ -8,16 +8,16 @@ last_reconstructed: 2026-05-15
 
 # Exercise 18
 
-A) Translate the ⟪सुभाषित⟫ at the beginning of the lesson.
+[A) Terjemahkan ⟪सुभाषित⟫ di awal pelajaran.
 
 ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिर्⟫  
 ⟪नास्ति⟫ ⟪मोहसमो⟫ ⟪रिपुः⟫ ⟪।⟫  
 ⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
 ⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫  
-There is no disease like love,  
-There is no deceiver and enemy like delusion,  
-There is no fire like anger,  
-There is no happiness like knowledge.
+Tidak ada penyakit seperti cinta,  
+Tidak ada penipu dan musuh seperti kebodohan,  
+Tidak ada api seperti kemarahan,  
+Tidak ada kebahagiaan seperti pengetahuan.]
 
 B) Translate the following Tatpuruṣa compounds:
 
@@ -100,7 +100,7 @@ A) Resolve the following Sanskrit compounds and provide translation suggestions:
 
 ⟪३⟫. ⟪क्षेमेन्द्र⟫ m.⟪।⟫ ⟪क्षेमस्येन्द्रः⟫ ⟪।⟫ — Lord of peace / well-being / tranquility
 
-⟪४⟫. ⟪शस्त्रकोपनिरोध⟫ m. ⟪।⟫ ⟪शस्त्राणां⟫ ⟪कोपस्य⟫ ⟪निरोधः⟫ ⟪।⟫ — stopping of anger with the sword = stopping of combat
+⟪४⟫. ⟪शस्त्रकोपनिरोध⟫ m. ⟪।⟫ ⟪शस्त्राणां⟫ ⟪कोपस्य⟫ ⟪निरोधः⟫ ⟪।⟫ — penghentian kemarahan dengan pedang = penghentian pertempuran
 
 ⟪५⟫. ⟪सिंहसंहनन⟫ n.⟪।⟫ ⟪सिंहस्य⟫ ⟪संहननम्⟫ ⟪।⟫ — killing of one/several lions, killing by one/several lions
 
@@ -117,29 +117,29 @@ B) Translate using verbs of the 2nd present class:
 1. The Brahmin praises the goddesses.
 ⟪ब्राह्मणो⟫ ⟪देवीः⟫ ⟪स्तौति⟫ ⟪।⟫ (or: ⟪स्तवीति⟫ ⟪।⟫)
 
-2. The heroes go on the difficult path to the village of the Āryas.
+2. Para pahlawan menempuh jalan yang sulit menuju desa kaum Ārya.
 ⟪शूरा⟫ ⟪दुर्गमेण⟫ ⟪मार्गेणार्यग्रामं⟫ ⟪यन्ति⟫ ⟪।⟫
 
 3. The maidservant milks the cows.
 ⟪गृहदासी⟫ ⟪धेनूर्दोग्धि⟫ ⟪।⟫
 
-4. The enemies of the Āryas slay the powerful Kṣatriyas.
-⟪आर्यारयो⟫ ⟪बलवत्क्षत्रियान्घन्ति⟫ ⟪।⟫ (or: ⟪आर्यशत्रवो⟫...)
+4. Para musuh Ārya membunuh para Kṣatriya yang perkasa.
+⟪आर्यारयो⟫ ⟪बलवत्क्षत्रियान्घन्ति⟫ ⟪।⟫ (atau: ⟪आर्यशत्रवो⟫...)
 
 5. A ghost eats no fruits.
 ⟪भूतं⟫ ⟪फलानि⟫ ⟪नात्ति⟫ ⟪।⟫
 
-6. Thus speaks the one who has [walked the path of rebirths] well to the disciple.
-⟪एवं⟫ ⟪सुगतः⟫ ⟪श्रावकं⟫ ⟪वक्ति⟫ ⟪।⟫ (or: ⟪ब्रवीति⟫ ⟪।⟫ ⟪ब्रूते⟫ ⟪।⟫)
+6. Demikianlah ucapan seseorang yang telah [berjalan di jalan reinkarnasi] dengan baik kepada muridnya.
+⟪एवं⟫ ⟪सुगतः⟫ ⟪श्रावकं⟫ ⟪वक्ति⟫ ⟪।⟫ (atau: ⟪ब्रवीति⟫ ⟪।⟫ ⟪ब्रूते⟫ ⟪।⟫)
 
-C) Provide the definition of Yoga in Sanskrit in two ways: once using a compound, once by resolving the compound.
+C) Berikan definisi Yoga dalam bahasa Sanskerta dengan dua cara: sekali menggunakan majemuk (compound), dan sekali lagi dengan menguraikan majemuk tersebut.
 
 ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪।⟫ (⟪योगश्चित्तस्य⟫ ⟪वृत्तेर्निरोधः⟫ ⟪।⟫)
 
 D) Translate:
 
 (⟪धर्मः⟫) ⟪सर्वेषामाहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥⟫
-The duty of all is: non-violence, truthfulness, purity, not murmuring about one's lot, freedom from malice, and patient forbearance.
+Kewajiban semua orang adalah: tidak melakukan kekerasan, kejujuran, kesucian, tidak menggerutu tentang nasibnya, bebas dari kebencian, dan ketabahan yang sabar.
 
 ::: media
 ![](/images/uebung028.webp)

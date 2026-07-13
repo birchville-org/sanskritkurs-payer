@@ -14,10 +14,9 @@ Regarding the writing:
 
 r after consonant: /
 
-*   for letters with a vertical terminal stroke: / on the vertical terminal stroke
-    
-*   for other letters: at the bottom of the letter
-    
+*   untuk huruf dengan garis terminal vertikal: / pada garis terminal vertikal
+
+*   untuk huruf lainnya: di bagian bawah huruf
 
 > ⟪क्र⟫ ⟪ख्र⟫ ⟪ग्र⟫ ⟪घ्र⟫ ⟪ङ्र्⟫  
 > kra khra gra ghra ṅra

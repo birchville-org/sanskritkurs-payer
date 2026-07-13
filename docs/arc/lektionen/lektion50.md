@@ -7,22 +7,22 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 50
+# ܕܪܫܐ 50
 
-## 50.1. Nominalbildung: regelmäßige Steigerung
+## 50.1. ܓܒܳܠܳܐ ܕܫܶܡܳܐ: ܡܰܪܒܳܝܳܐ ܩܰܢܽܘܢܳܝܳܐ
 
 ::: grammar-box
-**The regular degree of comparison in Sanskrit is formed with the ⟪तद्धित⟫ suffixes**
-* **-⟪तर⟫ (fem.: ⟪तरा⟫) in the "comparative"**
-* **⟪तम⟫ (fem.: ⟪तमा⟫) in the "superlative"**
+**הדרגה הסדירה של השוואה בסנסקריט נוצרת עם הסיומות ⟪तद्धित⟫**
+* **-⟪तर⟫ (נקבה: ⟪तरा⟫) ב"השוואת יתר"**
+* **⟪तम⟫ (נקבה: ⟪तमा⟫) ב"השוואת העליון"**
 
-**These suffixes are attached to the masculine stem of adjectives. In nouns with stem gradation, they are attached to the weak stem, which has the form like before the ending -su of the locative (⟪पञ्चमी⟩) plural.**
+**סיומות אלו מצורפות לשורש הזכר של תארים. בשמות עצם עם מדרגת שורש, הם מצורפים לשורש החלש, בעל צורה כמו לפני הסיום -su של המקום (⟪पञ्चमी⟩) רבים.**
 :::
 ::: media
 ![](/images/lekt5007.webp)
-Fig.: ⟪लोकस्योत्तमो⟩ ⟪गिरिः⟩
-⟪सगरमाथा⟩ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Mount Everest
-(Image source: [Details](/arc/licenses#lekt5007))
+איור: ⟪लोकस्योत्तमो⟩ ⟪गिरिः⟩
+⟪सगरमाथा⟩ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = הר האוורסט
+(מקור התמונה: [פרטים](/arc/licenses#lekt5007))
 :::
 
 ::: grammar-box
@@ -32,35 +32,35 @@ Fig.: ⟪लोकस्योत्तमो⟩ ⟪गिरिः⟩
 
 :::
 ::: indent
-e.g. ⟪सुचितर⟫ 3 "fairly pure", "very pure", "too pure"
+زع١م. ⟪सुचितर⟫ ٣ "طاهر شوية"، "طاهر بزاف"، "طاهر مفرط"
 :::
-**When a compared object is expressed, it stands in the Ablative (⟪पञ्चमी⟫). Comparative + Ablative corresponds to the degree of comparison with "than" in German.**
+**حيتي كيما يتسنا شي كائن مقارنة، كاين فالحال الإبتدائية (⟪पञ्चमी⟫). المقارنة + الحالة الإبتدائية تقابل درجة المقارنة مع "من" فلعربية.**
 
 ::: indent
-e.g. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = lit.: "from Devadatta's perspective, Rāma is more discerning" = "Rāma is more discerning than Devadatta"
+زع١م. ⟪देवदत्ताद्रामो⟫ ⟪धीमत्तरः⟫ = حرفيا: "من منظور ديفاداتا، راما أذكى" = "راما أذكى من ديفاداتا"
 :::
-**The "superlative" means that no compared object is expressed: "extremely, very":**
+**المقصود بـ "التفضيل" هو أن شي كائن مقارنة ما كاين: "بشدة، بزاف":**
 
 ::: indent
-e.g. ⟪सत्तम⟫ 3 (to ⟪सन्त्⟫) "extremely good, very good"
+زع١م. ⟪सत्तम⟫ ٣ (إلى ⟪सन्त्⟫) "خير بزاف، جيد بزاف"
 :::
-**When a compared object is expressed, it stands in the genitive (⟪षष्ठी⟫) ("of", "among") and the superlative corresponds to the German superlative (superlative degree):**
+**حيتي كيما يتسنا شي كائن مقارنة، كاين فالحال المجرورة (⟪षष्ठी⟫) ("لي"، "بين") والتفضيل يقابل التفضيل فلعربية (درجة التفضيل):**
 
 ::: indent
-e.g. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "the best of the twice-born"
+زع١م. ⟪द्विजानां⟫ ⟪सत्तमः⟫ = "أحسن الناس مرتين المولد"
 :::
-**The suffixes -⟪तर⟫ and -⟪तम⟫ can attach not only to adjectives, but also to nouns, indeclinables, and even verbal forms:**
+**اللاحقات -⟪तर⟫ و-⟪तम⟫ يقدرين يتصلو ليس فقط بالصفات، بل حتى بالأسماء، والأدوات غير المتغيرة، وحتى الأشكال الفعلية:**
 
 Examples:
 
 ::: indent
-⟪गजतम⟫ m. "the best elephant" (⟪गज⟫) (also a title of the Buddha)
+⟪गजतम⟫ ܡ̈. "ܗܘ ܕܒܪ ܫܦܝܠ̈ܐ" (⟪गज⟫) (ܠܦ̈ܡ ܕܒܘܟܪ̈ܐ)
 
 ⟪गोतम⟫ m. "the greatest ox" (⟪गो⟫) or: "the richest in cattle"
 
-⟪उद्⟫ Indecl. "up", "upward" » ⟪उत्तर⟫ 3 "higher" » ⟪उत्तम⟫ 3 "highest"
+⟪उद्⟫ בל״ע "לעיל", "למעלה" » ⟪उत्तर⟫ 3 "גבוה יותר" » ⟪उत्तम⟫ 3 "גבוה ביותר"
 :::
-**When these suffixes are attached to a verbal form, they always appear in the adverbial form:**
+**כאשר סופיקסים אלו מצורפים לצורה פועלית, הם תמיד מופיעים בצורת המסגרת:**
 
 * **-⟪तराम्⟫**
 * **-⟪तमाम्⟫**
@@ -70,9 +70,9 @@ Examples:
 ::: indent
 ⟪पचतितराम्⟫ "er/sie/es kocht besser"
 
-⟪पचतितमाम्⟫ "he/she/it cooks best"
+⟪पचतितमाम्⟫ "ܗܘ/ܗܝ ܡܠܦ ܒܬܪ̈ܢܐ"
 :::
-**This form do these suffixes also have, when they attach to an indeclinable and the derived word is used adverbially:**
+**ܗܕܐ ܣܘܦܝܬܐ ܠܫܢ̈ܐ ܗܕܐ ܝܬܝܪܐ، ܟܕ ܢܠܩܚ ܥܠ ܐܝܟܬܐ ܘܢܫܬܡܥ ܠܦܝ ܐܕܒ̈ܐ:**
 
 ::: indent
 e.g. ⟪सुतराम्⟫ (to ⟪सु⟫) "in a better way" (adverbial)
@@ -83,7 +83,7 @@ Fig.: ⟪का⟫ ⟪पचतितमाम्⟫
 Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (Image source: [Details](/arc/licenses#lekt5006))
 :::
-## 50.2. Vocabulary
+## 50.2. ܡ̈ܠܝܢ
 
 ⟪ध्रुव⟫ 3: firm, unveränderlich
 
@@ -103,7 +103,7 @@ Kapil Sibal (1948 -), Union minister in the Ministry of Science and Technology a
 :::
 ⟪रहस्⟫ n.: mystery, solitude
 
-⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ : to be damaged, to fail, to damage
+⟪रिष्⟫ 1P ⟪रिषति⟫ 4P ⟪रिष्यति⟫ :ܕܶܟ݂ ܠܰܒ݂ ܐܽܘܪ
 
 ::: indent
 Perf. II ⟪रिरेष⟫, ⟪रिरिषुर्⟫
@@ -191,15 +191,14 @@ Fig.: ⟪कुनगरम्⟫
 :::
 ⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : to see
 
-::: indent
+[0] ::: indent
 Perf. ⟪चचक्षे⟫
-not used in other tenses
-:::
-⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : to tell, to consider, to name
+לא משתמש בזמנים אחרים
+⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : למסור, לשקול, לקרוא בשם
 
 ⟪देश⟫ m.: place, location, country, region
 
-## 50.3. Übersetzungsübung
+## 50.3. ܬܪܓܠܐ ܕܬܘܪܓܡܐ
 
 A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsformen im Singular zu ⟪गुरु⟫ m.:
 

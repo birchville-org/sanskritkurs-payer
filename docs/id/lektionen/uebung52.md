@@ -18,12 +18,12 @@ last_reconstructed: 2026-05-15
 **⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫ ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫**  
 **⟪एतद्विद्यात्समासेन⟫ ⟪लक्षणं⟫ ⟪सुखदुःखयोः⟫ ⟪॥⟫ ⟪१६०⟫ ⟪॥⟫**
 
-> Everything that depends on another's will is painful; everything that depends on one's own will is happy. This should be known in summary as the characteristic of happiness and suffering.
+> Segala sesuatu yang bergantung pada kehendak orang lain adalah menyakitkan; segala sesuatu yang bergantung pada kehendak sendiri adalah bahagia. Ini harus diketahui secara ringkas sebagai ciri kebahagiaan dan penderitaan.
 
 **⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫**  
 **⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫ ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥⟫ ⟪१६१⟫ ⟪॥⟫**
 
-> That which, when done, leads to inner satisfaction, that one should diligently do; but one should refrain from the opposite.
+> Apa yang, ketika dilakukan, mengarah pada kepuasan batin, itu harus dikerjakan dengan tekun; tetapi seseorang harus menahan diri dari yang berlawanan.
 
 ::: media
 ![](/images/uebung087.webp)
@@ -37,15 +37,15 @@ Fig.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 **⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलं⟫ ⟪स्मृतिशीले⟫ ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫**  
 **⟪आचारश्चैव⟫ ⟪साधूनामात्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 
-> The root of Dharma is:
-> * the entire Veda
-> * the tradition and the custom of the Veda-scholars
-> * the conduct of the Good
-> * the contentment of the soul
+> Akar Dharma adalah:
+> * seluruh Veda
+> * tradisi dan kebiasaan para ahli Veda
+> * perilaku orang-orang baik
+> * kepuasan jiwa
 
 ---
 
-## ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫: On ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ in the Life of the Prince
+## ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫: Tentang ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ dalam Kehidupan Pangeran
 
 **⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतमुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
@@ -59,7 +59,7 @@ Fig.: ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखम्⟫
 
 **⟪अर्थमूलौ⟫ ⟪हि⟫ ⟪धर्मकामाविति⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> Thus, let him keep his senses under control, avoid other men's women, other men's property, and violence, and avoid sleep, lust, falsehood, frivolity, uselessness, and improper or useless business. Let him indulge in pleasure without thereby disturbing righteousness and purposeful conduct; let him not be joyless. Or let him cultivate equally all three goals of life, which are interconnected. For if one indulges excessively in one of righteousness and custom, purposeful conduct, and pleasure, then that oppresses the soul and the other two goals. Kauṭilya says that purposeful conduct (**Artha**) is the most important. Righteousness and custom as well as pleasure are rooted in purposeful action.
+> Dengan demikian, biarkan ia mengendalikan indranya, menghindari wanita orang lain, harta benda orang lain, dan kekerasan, serta menghindari tidur, nafsu, kebohongan, keseriusan yang tidak perlu, hal-hal yang sia-sia, dan bisnis yang tidak pantas atau tidak berguna. Biarkan ia menikmati kesenangan tanpa mengganggu kebenaran dan tindakan yang bertujuan; jangan biarkan dirinya menjadi tanpa sukacita. Atau biarkan ia membudidayakan secara setara ketiga tujuan hidup, yang saling terkait. Karena jika seseorang terlalu menikmati salah satu dari kebenaran dan adat istiadat, tindakan yang bertujuan, dan kesenangan, maka itu akan menekan jiwa dan dua tujuan lainnya. Kauṭilya mengatakan bahwa tindakan yang bertujuan (**Artha**) adalah yang paling penting. Kebenaran dan adat istiadat serta kesenangan berakar pada tindakan yang bertujuan.
 
 ---
 
@@ -70,12 +70,12 @@ Buddha’s liberating insight:
 **⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫ ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫**  
 **⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫ ⟪स⟫ ⟪दद्ध्यौ⟫ ⟪ध्यानकोविदः⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 
-> Having defeated Māra’s host with firmness and calm, the one experienced in meditation wished to fully recognize the highest truth and reality, and meditated.
+> Setelah mengalahkan pasukan Māra dengan keteguhan dan kedamaian, sang terpelajar dalam meditasi ingin sepenuhnya mengenali kebenaran tertinggi dan realitas, lalu bermeditasi.
 
 **⟪सर्वेषु⟫ ⟪ध्यानविधिषु⟫ ⟪प्राप्य⟫ ⟪चैश्वर्यमुत्तमम्⟫ ⟪।⟫**  
 **⟪सस्मार⟫ ⟪प्रथमे⟫ ⟪यामे⟫ ⟪पूर्वजन्मपरंपराम्⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
 
-> He attained the highest mastery in all meditation methods and, in the first watch of the night, recalled the uninterrupted sequence of his rebirths.
+> Ia mencapai penguasaan tertinggi dalam semua metode meditasi dan, pada jaga pertama malam, mengingat kembali urutan berkelanjutan dari reinkarnasinya.
 
 **⟪अमुत्राहमयं⟫ ⟪नाम⟫ ⟪च्युतस्तस्मादिहागतः⟫ ⟪।⟫**  
 **⟪इति⟫ ⟪जन्मसहस्राणि⟫ ⟪सस्मारानुभवन्निव⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
@@ -90,27 +90,27 @@ Buddha’s liberating insight:
 **⟪कृत्वेह⟫ ⟪स्वजनोत्सर्गं⟫ ⟪पुनरन्यत्र⟫ ⟪च⟫ ⟪कृत्वा⟫ ⟪।⟫**  
 **⟪अत्राणः⟫ ⟪खलु⟫ ⟪लोको⟫ ⟪ऽयं⟫ ⟪परिभ्रमति⟫ ⟪चक्रवत्⟫ ⟪॥⟫ ⟪५⟫ ⟪॥⟫**
 
-> Truly, this world is without salvation and wanders around like a wheel: it releases its creatures here and then again there.
+> Sungguh, dunia ini tanpa keselamatan dan berkeliaran seperti roda: ia melepaskan makhluk-makhluknya di sini dan kemudian di sana.
 
 **⟪इत्येवं⟫ ⟪स्मरतस्तस्य⟫ ⟪बभूव⟫ ⟪नियतात्मनः⟫ ⟪।⟫**  
 **⟪कदलीगर्भनिःसारः⟫ ⟪संसार⟫ ⟪इति⟫ ⟪निश्चयः⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 
-> Having thus recalled with determined heart, he arrived at firm insight: The course of rebirths is without mark and core, like the inside of a banana plant.
+> Dengan demikian, mengingatnya dengan hati yang bulat, ia tiba pada wawasan yang teguh: Aliran kelahiran kembali tidak memiliki tanda dan inti, seperti bagian dalam dari tanaman pisang.
 
 **⟪द्वितीये⟫ ⟪त्वागते⟫ ⟪यामे⟫ ⟪सो⟫ ⟪ऽद्वितीयपराक्रमः⟫ ⟪।⟫**  
 **⟪दिव्यं⟫ ⟪लेभे⟫ ⟪परं⟫ ⟪चक्षुः⟫ ⟪सर्वचक्षुष्मतां⟫ ⟪वरः⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
 
-> When the second watch of the night had come, he, whose power is like that of no second, received the highest heavenly eye, he, the best of all who have an eye.
+> Ketika jaga malam kedua telah tiba, dia yang kekuatannya tak tertandingi menerima mata surga tertinggi, dia yang terbaik di antara semua yang memiliki mata.
 
 **⟪ततस्तेन⟫ ⟪स⟫ ⟪दिव्येन⟫ ⟪परिशुद्धेन⟫ ⟪चक्षुषा⟫ ⟪।⟫**  
 **⟪ददर्श⟫ ⟪निखिलं⟫ ⟪लोकम्⟫ ⟪आदर्श⟫ ⟪इव⟫ ⟪निर्मले⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 
-> Then, with this completely pure heavenly eye, he saw the entire world as in an flawless mirror.
+> Kemudian, dengan mata surgawi yang sepenuhnya murni ini, ia melihat seluruh dunia seperti dalam cermin yang sempurna.
 
 **⟪सत्त्वानां⟫ ⟪पश्यतस्तस्य⟫ ⟪निकृष्टोत्कृष्टकर्मणाम्⟫ ⟪।⟫**  
 **⟪प्रच्युतिं⟫ ⟪चोपपत्तिं⟫ ⟪च⟫ ⟪ववृधे⟫ ⟪करुणात्मता⟫ ⟪॥⟫ ⟪९⟫ ⟪॥⟫**
 
-> Seeing the passing away and arising of beings who had good or bad karma, compassion grew in his heart.
+> Melihat lenyapnya dan munculnya makhluk-makhluk yang memiliki karma baik atau buruk, kasih sayang tumbuh di hatinya.
 
 **⟪इमे⟫ ⟪दुष्कृतकर्माणः⟫ ⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫**  
 **⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫ ⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫**

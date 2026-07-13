@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 29
 
-## 29.1. Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum
+## 29.1. Usus Parasmaipada (⟪परस्मैपद⟫) et Ātmanepada (⟪आत्मनेपद⟫) in Causativo
 
 ::: grammar-box
 **Causativum est, paucis exceptis, Ubhayapada (⟪उभयपद⟫)**
@@ -33,7 +33,7 @@ Resultatum: ⟪भक्ता⟫ ⟪विष्णुं⟫ ⟪पश्यन
 
 Regulae igitur, ut plurimum, cum regulis pro utendo Ātmanepada (⟪आत्मनेपद⟫) apud verba Ubhayapada (⟪उभयपद⟫) congruunt.
 
-## 29.2. Wortliste
+## 29.2. Vocabularium
 
 Praefix
 

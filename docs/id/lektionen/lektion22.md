@@ -13,13 +13,13 @@ status: stable
 
 ::: grammar-box
 
-If one wishes to express in Sanskrit that an action of the agent (⟪कर्तृ⟫) precedes another action of the agent or accompanies it as a circumstantial condition, one uses the absolutive (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫). Thus
+Jika seseorang ingin menyatakan dalam bahasa Sanskerta bahwa suatu tindakan dari pelaku (⟪कर्तृ⟩) mendahului atau menyertai tindakan lain dari pelaku tersebut sebagai kondisi kontekstual, maka digunakan bentuk absolutif (⟪क्त्वा⟩ ⟪।⟩ ⟪ल्यप्⟩). Dengan demikian
 
-"after he has done that, he does that other thing"; "he does that, then he does that other thing"; "as a result of this he does that other thing"; "I came, saw, and conquered" and the like.
+"setelah ia melakukan itu, ia melakukan hal lain tersebut"; "ia melakukan itu, kemudian ia melakukan hal lain tersebut"; "akibat dari ini ia melakukan hal lain tersebut"; "aku datang, melihat, dan menaklukkan" serta sejenisnya.
 
-The absolutive is a verbal adverb, i.e., it is neither conjugable nor declinable, but it always has — with few exceptions — the same agent (⟪कर्तृ⟫) as the action whose action precedes or accompanies the action designated by the absolutive. The agent of the absolutive is therefore in the nominative (⟪प्रथमा⟫) or instrumental (⟪तृतीया⟫).
+Bentuk absolutif adalah kata keterangan verbal, yaitu, ia tidak dapat dikonjugasikan maupun dideklinasi, tetapi selalu memiliki — dengan sedikit pengecualian — pelaku yang sama (⟪कर्तृ⟩) dengan tindakan yang mendahului atau menyertai tindakan yang dimaksudkan oleh bentuk absolutif. Pelaku dari bentuk absolutif berada dalam kasus nominatif (⟪प्रथमा⟩) atau instrumental (⟪तृतीया⟩).
 
-Besides compounds, the absolutive is one of the most frequent means of expression in Sanskrit.
+Selain majemuk, bentuk absolutif adalah salah satu sarana ekspresi yang paling sering digunakan dalam bahasa Sanskerta.
 
 In translating into German, one should avoid constantly saying "after." Instead, one should use the common German expressions for temporal sequence.
 
@@ -31,8 +31,8 @@ In translating into German, one should avoid constantly saying "after." Instead,
 **Examples:**
 
 ::: indent
-**⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = passive construction: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
-"The man enters the house, sees the little girl, and addresses her."
+**⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति** = konstruksi pasif: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते**
+"Pria itu memasuki rumah, melihat gadis kecil itu, dan menyapanya."
 
 Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
 :::
@@ -50,9 +50,9 @@ Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां�
 
 **Formation:**
 
-(mostly) root in the lowest grade in the form it has before the PPP + **-tvā** (**-⟪त्वा⟫**)
+(sebagian besar) akar kata dalam tingkatan terendah dalam bentuk yang dimilikinya sebelum PPP + **-tvā** (**-⟪त्वा⟫**)
 
-Only the negative **a-** / **an-** is compatible with the suffix **-⟪त्वा⟫** : **⟪अकृत्वा⟫** "without having done"
+Hanya negatif **a-** / **an-** yang kompatibel dengan akhiran **-⟪त्वा⟫** : **⟪अकृत्वा⟫"tanpa telah melakukan"**
 
 :::
 **Examples:**
@@ -114,9 +114,9 @@ Only the negative **a-** / **an-** is compatible with the suffix **-⟪त्व
 
 **⟪विस्मृत्य⟫** "after he (...) has forgotten / had forgotten"
 
-**⟪संस्कृत्य⟫** "after he (...) has prepared for the sacrifice / had prepared for the sacrifice"
+**⟪संस्कृत्य⟫** "setelah ia (...) telah mempersiapkan korban / telah menyiapkan korban"
 :::
-#### 22.2.2.4. Roots ending in -am / -an, which end in -a in the low grade
+#### 22.2.2.4. Akar kata yang berakhiran -am / -an, yang berakhir dengan -a pada bentuk rendah (low grade)
 
 ::: grammar-box
 
@@ -139,37 +139,37 @@ Root ending in **-a** + **-tya**
 **⟪काम⟫ m.:** wish, desire; desired gift, sensual pleasure, love, god of love
 
 ::: indent
-**⟪कामम्⟫** Acc. adverbially: according to wish, according to one's heart's desire
+**⟪कामम्⟫** Acc. secara adverbia: sesuai keinginan, sesuai dengan kehendak hati
 :::: media
 ![](/images/lekt2202.webp)
 Fig.: ⟪कामदेवः⟫
-19th century
-(Image source: [Details](/en/licenses#lekt2202))
+abad ke-19
+(Sumber gambar: [Details](/en/licenses#lekt2202))
 ::::
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** to be able, to be capable
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** dapat, mampu
 
 from this:
 
 ::: indent
 **⟪शक्ति⟫ f.:** ability, power, capability, strength; also: divine power, personified as a female companion especially of **⟪शिव⟫**
 
-**⟪शक्र⟫ m.:** the powerful (epithet of **⟪इन्द्र⟫**)
+**⟪शक्र⟫ m.:** yang kuat (epitet dari **⟪इन्द्र⟫**)
 :::: media
 ![](/images/lekt2203.webp)
 Fig.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
-(Image source: [Details](/en/licenses#lekt2203))
+(Sumber gambar: [Details](/en/licenses#lekt2203))
 ::::
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** to deserve (to be worthy of something), to be allowed, to be obliged to, should (in the 2nd person, **⟪अर्ह्⟫** + infinitive is often used as a mild command: "You should")
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** pantas (layak akan sesuatu), diperbolehkan, berkewajiban, harus (dalam orang kedua, **⟪अर्ह्⟫** + infinitif sering digunakan sebagai perintah ringan: "Kau harus")
 
 ::: indent
-**⟪अर्हन्त्⟫ 3** Pres. Part. P: a worthy one. In Buddhism and Jainism: someone who has attained final liberation
+**⟪अर्हन्त्⟫ 3** Pres. Part. P: seorang yang layak. Dalam Buddhisme dan Jainisme: seseorang yang telah mencapai pembebasan akhir
 :::
-**⟪व्रत⟫ n.:** vow, religious duty, religious observance (one promises something to the deity in order to receive something from it. Example: a mother promises to give her daughter as a temple prostitute (**⟪देवदासी⟫**) if her daughter recovers. Important **⟪व्रत⟫** today: fasting; abstinence from foods one loves; sexual abstinence; reading sacred texts; performing certain rituals; feeding Brahmins, etc. Briefly on **⟪व्रत⟫**: Walker, Hindu World Vol. II, p. 581f. In detail: P. V. Kane: History of Dharmaśāstra Vol. 5,1 p. 1 - 462. There p. 253 - 462 list of **⟪व्रत⟫** and religious festivals ("the following list ... does not claim to be thoroughly exhaustive" !!!)
+**⟪व्रत⟫ n.:** sumpah, kewajiban agama, pengamalan keagamaan (seseorang berjanji kepada dewa untuk menerima sesuatu darinya. Contoh: seorang ibu berjanji akan memberikan putrinya sebagai pelacur kuil (**⟪देवदासी⟫**) jika putrinya sembuh. **⟪व्रत⟫** penting saat ini: berpuasa; menjauhi makanan yang disukai; pantangan seksual; membaca teks suci; melakukan ritual tertentu; memberi makan Brahmin, dll. Singkat tentang **⟪व्रत⟫**: Walker, Hindu World Vol. II, hlm. 581f. Secara rinci: P. V. Kane: History of Dharmaśāstra Vol. 5,1 hlm. 1 - 462. Di sana hlm. 253 - 462 daftar **⟪व्रत⟫** dan festival keagamaan ("daftar berikut ... tidak mengklaim secara menyeluruh lengkap" !!!)
 
-**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** to graze, to wander, to move, to act, to exercise, to perform (e.g. **⟪व्रतं⟫ ⟪चर्⟫**: to practice a vow, especially sexual abstinence)
+**⟪चर्⟫ 1 P  charati Pass.  charyate PPP  charita Inf.  charitum (Sanskrit: ⟪चर्⟫ 1 P ⟪चरति⟫ Pass.  ⟪चर्यते⟫ PPP  ⟪चरित⟫ Inf.  ⟪चरितुम्⟫) :** menggembala, berkeliaran, bergerak, bertindak, berolahraga, melakukan (mis. **⟪व्रतं⟫ ⟪चर्⟫**: mengamalkan sumpah, terutama pantangan seksual)
 
 from this:
 
@@ -180,17 +180,17 @@ from this:
 
 **⟪चरित⟫ n.:** way of life, life deeds
 
-**⟪ब्रह्मचर्य⟫ n.:** performance of the Veda (**⟪ब्रह्मन्⟫**) = study of the Veda in the first stage of life (that of the **⟪ब्रह्मचारिन्⟫**), which requires strict sexual abstinence; therefore also: sexual abstinence, celibate way of life
+**⟪ब्रह्मचर्य⟫ n.:** pelaksanaan Veda (**⟪ब्रह्मन्⟫**) = studi Veda pada tahap awal kehidupan (yaitu **⟪ब्रह्मचारिन्⟫**), yang memerlukan pantangan seksual ketat; oleh karena itu juga: pantangan seksual, cara hidup selibat
 :::: media
 ![](/images/lekt2201.webp)
 Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
-(Image source: [Details](/en/licenses#lekt2201))
+(Sumber gambar: [Details](/en/licenses#lekt2201))
 ::::
 :::
-## 22.4. Exercise
+## 22.4. Latihan
 
-**A) Form and translate the Absolute to the following verbs:**
+**A) Bentuk dan terjemahkan Kata Benda Absolut ke dalam kata kerja berikut:**
 
 1.  ⟪आप्⟫
 2.  ⟪प्राप्⟫

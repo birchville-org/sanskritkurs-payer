@@ -131,9 +131,9 @@ outline: 2
 
 ## ⟪ऊ⟫
 
-| Sanskrit | IAST | Genus | 德语 | Lektion |
+| 梵语 | IAST | 词性 | 德语 | 课程 |
 |---|---|---|---|---|
-| ⟪ऊह⟫ | [ūha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ūha&filter=roman&accent=no&transLit=roman) | m | 思考，论证 | [24](/lektionen/lektion24#_24-4-wortliste) |
+| ⟪ऊह⟫ | [ūha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ūha&filter=roman&accent=no&transLit=roman) | 阳性 | 思考，论证 | [24](/lektionen/lektion24#_24-4-wortliste) |
 
 | ⟪ऊहापोह⟫ | [ūhāpoha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ūhāpoha&filter=roman&accent=no&transLit=roman) | m | 正反讨论 | [24](/lektionen/lektion24#_24-4-wortliste) |
 
@@ -246,9 +246,9 @@ outline: 2
 
 ## ⟪घ⟫
 
-| Sanskrit | IAST | Genus | Deutsch | Lektion |
+| 梵语 | IAST | 词性 | 德语 | 课次 |
 |---|---|---|---|---|
-| ⟪घात⟫ | [ghāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghāta&filter=roman&accent=no&transLit=roman) | m | 杀戮 | [17](/lektionen/lektion17#_17-6-wortliste) |
+| ⟪घात⟫ | [ghāta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=ghāta&filter=roman&accent=no&transLit=roman) | 阳性 | 杀戮 | [17](/lektionen/lektion17#_17-6-wortliste) |
 
 ## ⟪च⟫
 

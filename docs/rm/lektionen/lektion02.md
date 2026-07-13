@@ -24,7 +24,7 @@ Anche se en sanscrit la posiziun da la frasa è assai libera (specialmain en ver
 
 En la frasa nominala, il subjecte stat en nominativ (emprim cas = **prathamā** f. = ⟪प्रथमा⟫). Il predicat nominal concorda cun il subjecte en numer e cas; sche il predicat nominal è in adjectiv, er en il gener.
 
-## 2.2. Zur Deklination (Beugung von Nomina)
+## 2.2. Davart la declinaziun (flexiun da nums)
 
 En il sanscrit dat:
 
@@ -47,7 +47,7 @@ En diziunaris sanscrits vegnan indicads ils sustantivs en il **stema da sustanti
 - **vacana** n. -- ⟪⟪वचन⟫⟫ n. (neutrum)
 - **vyakti** f. -- ⟪⟪व्यक्ति⟫⟫ f. (feminin)
 
-## 2.3. Der Nominativ Singular
+## 2.3. Il nominativ singular
 
 **Nominativ Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
@@ -101,7 +101,7 @@ Auslautendes **-s**:
     - avant autras vowels: daventa **-a** (Hiatus)
       - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
 
-## 2.5. Wortliste
+## 2.5. Glista da pleds
 
 **deva** m. -- ⟪देव⟫ : Celestial, god; prince, king.
 
@@ -206,7 +206,7 @@ Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
 
 **guru** m. -- ⟪गुरु⟫ : persuna degna da veneraziun: bab, mamma, parent pli vegl, surtut magister, maister
 
-## 2.6. Übung
+## 2.6. Exercizi
 
 **A) Inserir, tenend en consideraziun il Sandhi, e furmar frasis nominalas:**
 

@@ -138,7 +138,7 @@ Comè element anterior d'un cumponì, ston sustantivs sin -ṛ natiralmain en lu
 *   **vor Konsonant: -ṛ**
 *   **vor Vokal: -r**
 :::
-## 42.2. Wortliste
+## 42.2. Glista da pleds
 
 ⟪प्रकृति⟫ f.: (a ⟪कृ⟫ + ⟪प्र⟫) furma da basa, stadi natirala, natira; materia primordiala, sustantiv primordial
 
@@ -265,7 +265,7 @@ Ambedue vegnan ritus executads, usitads ⟪श्राद्ध⟫ n. Mintgadi 
 
 ⟪मातामही⟫ f.: ava materna
 
-## 42.3. Übung
+## 42.3. Exercizi
 
 Traducì:
 
@@ -297,7 +297,7 @@ Abb.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 
 ⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥९॥⟫
 
-## 42.4. Übersetzungsübung
+## 42.4. Exercizi da translaziun
 
 *⟪सीता⟫*⟪विवाहः⟫
 

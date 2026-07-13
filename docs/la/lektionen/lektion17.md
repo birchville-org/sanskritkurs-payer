@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 17
 
-## 17.1. Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)
+## 17.1. Classis secunda praesentis (⟪adādi⟫ = ⟪ad⟫ etc.)
 
 Verba suffixa radicibus directe adnectuntur. Etenim mutationes sonorum, quae e sandhi verbi oriuntur, observandae sunt.
 
@@ -233,7 +233,7 @@ Etiam ⟪स्तु⟫ 2 U "laudant" habet praeter formas sub 3. indicatas for
 | 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
-## 17.6. Wortliste
+## 17.6. Vocabularium
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ : colere, interficere, necare
 
@@ -288,7 +288,7 @@ ex eo:
 ⟪दिष्ट्या⟫ Instr.: (verbum: per fortunam felicem) O fortuna felix (exclamatio laetitiae et felicitatis)
 :::
 
-## 17.7. Übung 1
+## 17.7. Exercitium 1
 
 A) In sequentibus sententiis verbum inserite et traducite:
 
@@ -314,7 +314,7 @@ A) In sequentibus sententiis verbum inserite et traducite:
 
 B) In sententiis in A) compositis, agens et verbum in pluralia mutare
 
-## 17.8. Übung 2
+## 17.8. Exercitium II
 
 Versa formas verborum sequentes et radicem ad eas pertinentem indica:
 

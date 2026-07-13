@@ -7,7 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 40
+# الدرس 40
 
 ## 40.1. ⟪सुभाषितानि⟫
 
@@ -69,7 +69,7 @@ status: stable
 
 Bei sog. fakultativen ⟪अनिट्⟫-Wurzeln kann der Bindevokal wahlweise eingeschoben werden oder nicht. (Aufzählung dieser Wurzeln bei Kielhorn, Grammatik S. 92 § 298b,2,3)
 :::
-### 40.2.1. Perfekt Typ I: keine Stammabstufung
+### 40.2.1. الماضي التام النوع الأول: لا يوجد تدرج جذري
 
 1.مفرد = 3.مفرد
 
@@ -606,7 +606,7 @@ Bei sog. fakultativen ⟪अनिट्⟫-Wurzeln kann der Bindevokal wahlweis
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Wiederholungsübung zur Formenlehre
+## 40.8. تمرين مراجعة في علم الصرف
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫

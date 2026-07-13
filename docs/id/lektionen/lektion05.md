@@ -32,7 +32,7 @@ Bentuk-bentuk pendidikan terpenting dari Komposita adalah:
 
 ---
 
-## 5.2. Tentang Terminologi Sanskerta untuk Komposita
+## 5.2. Tentang Terminologi Sanskerta untuk Kata Majemuk
 
 - **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Anggota sebuah majemuk
 - **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : Penguraian sebuah majemuk
@@ -43,7 +43,7 @@ Bentuk-bentuk pendidikan terpenting dari Komposita adalah:
 
 ---
 
-## 5.3. Kopulative Komposita (Dvandva n. = ⟪द्वन्द्व⟫)
+## 5.3. Kata Majemuk Kopulatif (Dvandva n. = ⟪द्वन्द्व⟫)
 
 Komposita kopulatif berfungsi untuk menghubungkan elemen-elemen tata bahasa yang setara dan terkoordinasi (kata benda atau kata sifat).
 
@@ -74,7 +74,7 @@ Untuk dvandva dwandwa, lihat nanti!
 
 Bagian-bagian depan dari majemuk (tidak hanya Dvandva) umumnya berbentuk **stem nominal** yang tidak berubah. Bagian-bagian individu dari majemuk dihubungkan menurut aturan **Satzsandhi** (yaitu sandhi yang telah kita pelajari sejauh ini, berbeda dengan Wortsandhi yang diterapkan di dalam kata sebelum elemen formatif).
 
-### 5.3.2. Plural-Itaretaradvandva
+### 5.3.2. Itaretaradvandva Jamak
 
 Beispiele für Pluraldvandva:
 

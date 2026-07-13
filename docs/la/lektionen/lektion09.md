@@ -80,7 +80,7 @@ vide supra e.g. **śrāvaka**, **yājaka**, **jayaka**
 
 Praeterea sunt nonnullae usus minus importantes suffixi **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff.
 
-## 9.3. Wortliste
+## 9.3. Vocabularium
 
 **Haec verba discite:**
 
@@ -114,7 +114,7 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 - **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : mercatura
 - **śuśrūṣā** f. (⟪शुश्रूषा⟫) : oboedientia, obsequium
 
-## 9.4. Übung
+## 9.4. Exercitium
 
 **A) Conare possibile significata sequentium verborum determinare:**
 1\. **brāhmāṇaka** ⟪ब्राह्मणक⟫

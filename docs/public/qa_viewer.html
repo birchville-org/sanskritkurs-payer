@@ -621,6 +621,17 @@
             right: 0; /* Align dropdown to the right of the button */
         }
 
+        /* Bridge the gap so hover isn't lost when moving mouse from button to dropdown */
+        .dropdown-content::after {
+            content: "";
+            position: absolute;
+            top: -10px;
+            left: 0;
+            right: 0;
+            height: 10px;
+            background: transparent;
+        }
+
         .dropdown-content a {
             color: var(--color-ink, #03192e);
             padding: 8px 16px;
@@ -790,40 +801,46 @@
                 <option value="grc/lektionen/lektion01">Ancient Greek (GRC)</option>
                 <option value="fa/lektionen/lektion01">Persian (FA)</option>
                 <option value="akk/lektionen/lektion01">Akkadian (AKK)</option>
-                <option value="cop/lektionen/lektion01">Coptic (COP)</option>
                 <option value="zh-CN/lektionen/lektion01">Simplified Chinese (ZH-CN)</option>
             </select>
         </div>
 
         <div class="controls-group group-center">
             <div class="btn-group" id="sync-controls">
-                <select id="sync-dropdown" class="control-btn" onchange="setSyncMode(this.value)" style="appearance: auto; padding: 4px 8px;">
-                    <option value="header" selected>Sync: Header</option>
-                    <option value="pct">Sync: Percentage</option>
-                    <option value="off">Sync: OFF</option>
-                </select>
+                <div class="dropdown">
+                    <button class="control-btn" id="btn-sync-menu" style="min-width: 130px;">Sync: Header ▾</button>
+                    <div class="dropdown-content">
+                        <a href="#" onclick="setSyncMode('header', 'Sync: Header'); return false;">Sync: Header</a>
+                        <a href="#" onclick="setSyncMode('pct', 'Sync: Percentage'); return false;">Sync: Percentage</a>
+                        <a href="#" onclick="setSyncMode('off', 'Sync: OFF'); return false;">Sync: OFF</a>
+                    </div>
+                </div>
                 <button class="control-btn" onclick="swapPanes()" id="btn-swap" title="Seiten tauschen">SWAP</button>
             </div>
             <div class="btn-group" id="view-controls">
-                <select id="view-dropdown" class="control-btn" onchange="setViewMode(this.value)" style="appearance: auto; padding: 4px 8px;">
-                    <option value="rendered" selected>View (Rendered)</option>
-                    <option value="raw">View (Raw Source)</option>
-                    <option value="edit-2col">2-Col Edit</option>
-                    <option value="edit-3col">3-Col Edit</option>
-                </select>
+                <div class="dropdown">
+                    <button class="control-btn" id="btn-view-menu" style="min-width: 140px;">View (Rendered) ▾</button>
+                    <div class="dropdown-content">
+                        <a href="#" onclick="setViewMode('rendered', 'View (Rendered)'); return false;">View (Rendered)</a>
+                        <a href="#" onclick="setViewMode('raw', 'View (Raw Source)'); return false;">View (Raw Source)</a>
+                        <a href="#" onclick="setViewMode('edit-2col', '2-Col Edit'); return false;">2-Col Edit</a>
+                        <a href="#" onclick="setViewMode('edit-3col', '3-Col Edit'); return false;">3-Col Edit</a>
+                    </div>
+                </div>
                 <button class="control-btn active" onclick="toggleVimMode()" id="btn-vim" title="Vim Keybindings Toggle">VIM: ON</button>
                 <button class="control-btn" onclick="openHelpModal()" id="btn-help" title="Manual & Help">Help</button>
                 <button class="control-btn" onclick="exitQA()" id="btn-exit-qa" title="End QA, return to page">END QA</button>
             </div>
-            <div class="dropdown btn-group" id="editor-actions">
-                <button class="control-btn" id="btn-file-menu" style="min-width: 80px; opacity: 1;">File ▾</button>
-                <div class="dropdown-content">
-                    <a href="#" onclick="saveEditor(); return false;" id="menu-save">Save</a>
-                    <a href="#" onclick="saveAsEditor(); return false;">Save As... (System)</a>
-                    <a href="#" onclick="openFile(); return false;">Open File... (System)</a>
-                    <hr style="border:none; border-top:1px solid var(--vp-c-divider); margin:4px 0;">
-                    <a href="#" onclick="resetEditor(); return false;">Reset</a>
+            <div class="btn-group" id="editor-actions" style="display: none;">
+                <div class="dropdown">
+                    <button class="control-btn" id="btn-file-menu" style="min-width: 80px; opacity: 1;">File ▾</button>
+                    <div class="dropdown-content">
+                        <a href="#" onclick="saveEditor(); return false;" id="menu-save">Save</a>
+                        <a href="#" onclick="saveAsEditor(); return false;">Save As... (System)</a>
+                        <a href="#" onclick="openFile(); return false;">Open File... (System)</a>
+                    </div>
                 </div>
+                <button class="control-btn" id="btn-reset" onclick="resetEditor(); return false;" title="Discard unsaved changes">Reset</button>
             </div>
         </div>
 
@@ -858,7 +875,6 @@
                 <option value="grc/lektionen/lektion01">Ancient Greek (GRC)</option>
                 <option value="fa/lektionen/lektion01">Persian (FA)</option>
                 <option value="akk/lektionen/lektion01">Akkadian (AKK)</option>
-                <option value="cop/lektionen/lektion01">Coptic (COP)</option>
                 <option value="zh-CN/lektionen/lektion01">Simplified Chinese (ZH-CN)</option>
             </select>
         </div>
@@ -1206,8 +1222,14 @@
         setInitialDropdowns(initialCtx);
 
         // --- Sync Mode ---
-        function setSyncMode(mode) {
+        function setSyncMode(mode, label) {
             syncMode = mode;
+            if (!label) {
+                const map = {'header':'Sync: Header','pct':'Sync: Percentage','off':'Sync: OFF'};
+                label = map[mode] || 'Sync';
+            }
+            const btn = document.getElementById('btn-sync-menu');
+            if (btn) btn.textContent = label + ' ▾';
         }
 
         // --- Editor ---
@@ -1260,7 +1282,7 @@
             return text;
         }
 
-        async function loadEditorContent() {
+        async function loadEditorContent(force = false) {
             const editorInput = document.getElementById('editor-input');
             const num = lessonInput.value.padStart(2, '0');
             const leftVal = document.getElementById('left-lang').value;
@@ -1269,7 +1291,7 @@
             // Load left reference frame in 3-column edit mode
             if (viewMode === 'edit-3col') {
                 let lUrl = leftVal.includes('lektion') ? baseUrl + leftVal.replace(/lektion\d+/, 'lektion' + num) : baseUrl + leftVal;
-                if (!leftFrame.src || !leftFrame.src.includes(lUrl)) {
+                if (!leftFrame.src || !leftFrame.src.includes(lUrl) || force) {
                     leftFrame.contentWindow.location.replace(lUrl);
                 }
             }
@@ -1288,10 +1310,10 @@
 
             editorInput.placeholder = 'Enter Markdown here...';
             const mdPath = targetVal.replace(/lektion\d+/, 'lektion' + num);
-            const mdUrl = baseUrl + mdPath + '.md';
+            const mdUrl = baseUrl + mdPath + '.md' + (force ? '?t=' + Date.now() : '');
             const cloudFile = 'docs/' + mdPath + '.md';
             
-            if (window._fileHandle) {
+            if (window._fileHandle && !force) {
                 updateSaveButtonState();
                 renderPreview();
                 if (cmEditor) {
@@ -1303,7 +1325,7 @@
                 return;
             }
             
-            if (window._currentCloudFile === cloudFile && editorInput.value !== '') {
+            if (!force && window._currentCloudFile === cloudFile && editorInput.value !== '') {
                 updateSaveButtonState();
                 renderPreview();
                 if (cmEditor) {
@@ -1462,8 +1484,15 @@
         });
 
         // --- View Mode ---
-        function setViewMode(mode) {
+        function setViewMode(mode, label) {
             viewMode = mode;
+            if (!label) {
+                const map = {'rendered':'View (Rendered)','raw':'View (Raw Source)','edit-2col':'2-Col Edit','edit-3col':'3-Col Edit'};
+                label = map[mode] || 'View';
+            }
+            const btn = document.getElementById('btn-view-menu');
+            if (btn) btn.textContent = label + ' ▾';
+            
             const editorInput = document.getElementById('editor-input');
             const editorPreview = document.getElementById('editor-preview');
             const syntaxPane = document.getElementById('syntax-pane');
@@ -1600,7 +1629,7 @@
             const filepath = 'docs/' + relPath;
 
             try {
-                const res = await fetch(`/api/load?filepath=${encodeURIComponent(filepath)}`);
+                const res = await fetch(`/api/load?filepath=${encodeURIComponent(filepath)}&t=${Date.now()}`, { cache: 'no-store' });
                 if (!res.ok) throw new Error('Failed to load file');
                 const data = await res.json();
                 
@@ -1750,10 +1779,43 @@
             }
         }
 
-        function resetEditor() {
-            window._fileHandle = null;
-            document.getElementById('btn-file-menu').textContent = 'File ▾';
-            loadEditorContent();
+        async function resetEditor() {
+            if (!confirm("Alle ungespeicherten Änderungen verwerfen und Datei neu laden?")) return;
+
+            if (window._fileHandle) {
+                try {
+                    const file = await window._fileHandle.getFile();
+                    const text = await file.text();
+                    const cleanText = text.replace(/\r\n/g, '\n').replace(/\r/g, '\n');
+                    const cleanValue = stripFrontmatter(cleanText);
+                    const editorInput = document.getElementById('editor-input');
+                    editorInput.value = cleanValue;
+                    window._originalEditorContentText = cleanValue;
+                    if (cmEditor) {
+                        cmEditor.setValue(cleanValue);
+                        const offset = window._editorFrontmatter ? (window._editorFrontmatter.split('\n').length - 1) : 0;
+                        cmEditor.setOption("firstLineNumber", offset + 1);
+                        updateCodeMirrorBlocks(cmEditor);
+                    }
+                    updateSaveButtonState();
+                    renderPreview();
+                } catch (e) {
+                    console.error('Reload failed:', e);
+                    alert('Fehler beim Neuladen der lokalen Datei.');
+                }
+            } else {
+                await loadEditorContent(true);
+            }
+
+            // Force reload of active iframes to reflect any external changes
+            const leftFrame = document.getElementById('left-frame');
+            const rightFrame = document.getElementById('right-frame');
+            if (leftFrame && leftFrame.style.display !== 'none') {
+                try { leftFrame.contentWindow.location.reload(true); } catch(e) { leftFrame.src = leftFrame.src; }
+            }
+            if (rightFrame && rightFrame.style.display !== 'none') {
+                try { rightFrame.contentWindow.location.reload(true); } catch(e) { rightFrame.src = rightFrame.src; }
+            }
         }
 
         async function saveEditor() {

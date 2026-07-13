@@ -217,7 +217,7 @@ Les formes de **⟪दा⟫** s'obtiennent en remplaçant **dh** par **d** dans
 :::
 De manière similaire **⟪जुह्वत्⟫** (juhu-at + s)
 
-## 33.6. Wortliste
+## 33.6. Liste de mots
 
 **⟪दा⟫** 3U **⟪ददाति⟫** : donner
 
@@ -372,7 +372,7 @@ note-box
 
 [Source : http://en.wikipedia.org/wiki/Ghee. -- Consulté le 2008-12-26]
 :::
-## 33.7. Übung
+## 33.7. Exercice
 
 A) Insérez dans le modèle de phrase suivant les formes correspondantes des mots entre parenthèses :
 

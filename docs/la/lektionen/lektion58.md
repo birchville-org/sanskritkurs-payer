@@ -19,11 +19,11 @@ status: stable
 | **2. ⟪मध्यमः⟫** | -thas | -**ī**the | -**ā**the |
 | **3. ⟪प्रथमः⟫** | -tas | -**ī**te | -**ā**te |
 :::
-## 58.2. Der Dual thematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
+## 58.2. Dualis classium praesentis thematicarum: Indicativus praesentis (⟪लट्⟫)
 
 Ante -vas et -vahe, tema vocalis -a- per -ā- substituitur.
 
-### 58.2.1. Erste Präsensklasse (⟪भ्वादिगणः⟫)
+### 58.2.1. Classis praesentis prima (⟪भ्वादिगणः⟫)
 
 ⟪भू⟫ 1P "fieri, esse"
 
@@ -33,7 +33,7 @@ Ante -vas et -vahe, tema vocalis -a- per -ā- substituitur.
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \&lt;⟪भवेथे⟫\&gt;:brbhav-a + īthe |
 | **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \&lt;⟪भवेते⟫\&gt; |
 
-### 58.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
+### 58.2.2. Classis praesentis quarta (⟪दिवादिगणः⟫)
 
 ⟪नृत्⟫ 4P "saltare"
 
@@ -60,7 +60,7 @@ Fig.: ⟪नृत्यतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदतस्⟫ | ⟪तुदेते⟫ |
 :::
-### 58.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
+### 58.2.4. Classis praesentis decima (⟪चुरादिगणः⟫) et Causativa (⟪णिजन्त⟫)
 
 ⟪चुर्⟫ 10U "furari"
 
@@ -101,7 +101,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪भविष्यतस्⟫ | ⟪भविष्येते⟫ |
 :::
-## 58.4. Der Dual Passiv (Suffix -⟪यक्⟫)
+## 58.4. Der Dual Passivum (Suffix -⟪यक्⟫)
 
 ⟪तुद्⟫ 6U "pulsare, percutere"
 
@@ -113,7 +113,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 :::
 ## 58.5. Dualis classium praesentialium athematicorum: Indicativus Praesens (⟪लट्⟫)
 
-### 58.5.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
+### 58.5.1. Classis secunda praesentis (⟪adādigaṇaḥ⟫)
 
 ⟪द्विष्⟫ 2U "odisse"
 
@@ -204,7 +204,7 @@ Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪धत्थस्⟫ | ⟪दधाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्तस्⟫ | ⟪दधाते⟫ |
 :::
-### 58.5.3. Fünfte Präsensklasse (⟪स्वादिगणः⟫)
+### 58.5.3. Classis quinta praesentis (⟪svādigaṇaḥ⟫)
 
 ⟪सु⟫ 5U "exprimere"
 
@@ -240,7 +240,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुथस्⟫ | ⟪कुर्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुरुतस्⟫ | ⟪कुर्वाते⟫ |
 :::
-### 58.5.5. Siebte Präsensklasse (⟪रुधादिगणः⟫)
+### 58.5.5. Classis praesentis septima (⟪रुधादिगणः⟫)
 
 ⟪रुध्⟫ 7U "stoppāre"
 
@@ -260,7 +260,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्थस्⟫ | ⟪युञ्जाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युङ्क्तस्⟫ | ⟪युञ्जाते⟫ |
 :::
-### 58.5.6. Neunte Präsensklasse (⟪क्र्यादिगणः⟫)
+### 58.5.6. Classis praesentis nona (⟪क्र्यादिगणः⟫)
 
 ⟪क्री⟫ 9U "emere"
 
@@ -275,7 +275,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt5801))
 :::
-## 58.6. Aoristus: iṣ-Aorist
+## 58.6. Aoristus: iṣ-Aoristus
 
 ::: grammar-box
 **Aoristus iṣ a radicibus seṭ omnibus formatur, pro quibus non expresse alia forma aoristi sola docetur.**

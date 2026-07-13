@@ -13,16 +13,16 @@ status: stable
 
 ::: grammar-box
 
-**The Locative (⟪सप्तमी⟫) answers the following questions:**
-*   **where?**
-*   **when?**
-*   **under what circumstances?**
-*   **with regard to what?**
+**Kasus Lokatif (⟪सप्तमी⟫) menjawab pertanyaan-pertanyaan berikut:**
+*   **di mana?**
+*   **kapan?**
+*   **dalam keadaan apa?**
+*   **terkait dengan apa?**
 
 :::
 ::: grammar-box
 
-**1. The Locative (⟪सप्तमी⟫) indicates, in response to the question "Where?", the space in (at, on, by) which the agent (⟪कर्ता⟫) or the object of an action is located, or where the action itself takes place.**
+**1. Lokativ (⟪सप्तमी⟫) menunjukkan, sebagai respons terhadap pertanyaan "Di mana?", ruang (di, pada, oleh) di mana agen (⟪कर्ता⟫) atau objek tindakan berada, atau di mana tindakan itu sendiri terjadi.**
 
 > ⟪नगरे⟫ ⟪वसति⟫ = "He lives in the city"
 
@@ -35,13 +35,13 @@ Jaipur, 1875.
 :::
 ::: grammar-box
 
-**2. The Locative indicates, in response to the question "When?", the point in time or the external circumstances:**
+**2. Lokativ menunjukkan, sebagai respons terhadap pertanyaan "Kapan?", titik waktu atau keadaan eksternal:**
 
 > ⟪तस्मिन्काले⟫ = "at that time, at that time"
 
 **This also includes the so-called Locativus Absolutus:**
 
-**If an action or state of a person or thing determines the time to which - or the circumstances under which - ANOTHER person or thing performs an action or is in a certain state, then the word designating the first person or thing, together with the word specifying it further (which is often a participle), appears in the Locative (⟪सप्तमी⟫):**
+**Jika suatu tindakan atau keadaan seseorang atau sesuatu menentukan waktu — atau keadaan di mana — ORANG LAIN atau sesuatu melakukan tindakan atau berada dalam keadaan tertentu, maka kata yang menunjuk pada orang atau hal pertama, bersama dengan kata yang menentukan lebih lanjut (yang sering berupa participle), muncul dalam Kasus Lokatif (⟪सप्तमी⟫):**
 
 > ⟪एवं⟫ ⟪गच्छति⟫ ⟪काले⟫ = "while time passes so..."
 >
@@ -53,7 +53,7 @@ Jaipur, 1875.
 
 **The Locativus absolutus must be translated according to context as "while" (e.g., present participle), "after", "when" (e.g., PPP), "since", "because", "although", "if", etc.**
 
-**Note: in the Absolutivum, the agent of the Absolutivum and the agent of the main clause must be identical; in the Locativus absolutus, the agent of the Locativus absolutus and the agent of the main verb must be different.**
+[Catatan: dalam Absolutivum, agen dari Absolutivum dan agen dari klausa utama harus identik; dalam Locativus absolutus, agen dari Locativus absolutus dan agen dari kata kerja utama harus berbeda.]
 
 :::
 ::: media
@@ -64,9 +64,9 @@ Rajasthan.
 :::
 ::: grammar-box
 
-**3. The Locative also appears in response to the question "With regard to what?" etc.:**
+**3. Lokativ juga muncul sebagai respons terhadap pertanyaan "Sehubungan dengan apa?" dll.:**
 
-> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "He has love for his son" (lit. "With regard to the son, love is with him")
+> ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Ia memiliki cinta kepada putranya" (lit. "Sehubungan dengan putra, cinta ada padanya")
 
 :::
 ::: media
@@ -77,18 +77,18 @@ Holi.
 :::
 ::: grammar-box
 
-**4. The Locative is used in native dictionaries and by commentators to indicate the meaning of a word:**
+**4. Lokativ digunakan dalam kamus lokal dan oleh para komentator untuk menunjukkan makna sebuah kata:**
 
 > ⟪भू⟫ ⟪सत्तायाम्⟫ = "the root ⟪भू⟫ in the meaning 'beingness' (sat-tā)"
 
 :::
-Further information on the use of the Locative will follow later.
+Informasi lebih lanjut mengenai penggunaan Lokatif akan menyusul kemudian.
 
 ## 27.2. Formation of the Locative (⟪सप्तमी⟫)
 
 ::: grammar-box
 
-**The regular endings of the Locative (⟪सप्तमी⟫) are:**
+**Akhiran regular untuk Lokativ (⟪सप्तमी⟫) adalah:**
 *   **Singular: -i**
 *   **Plural: -su**
 
@@ -152,7 +152,7 @@ Further information on the use of the Locative will follow later.
 :::
 **Printed in red**: strong cases (with stem gradation).
 
-## 27.4. A Verse with All Declension Forms (Singular) to ⟪राम⟫
+## 27.4. Sebuah Ayat dengan Semua Bentuk Deklinasi (Tunggal) dari ⟪राम⟫
 
 ::: media
 ![](/images/lekt2708.webp)
@@ -162,19 +162,19 @@ Rāma-Satz.
 :::
 ***⟪रामो⟫*** ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ ***⟪रामं⟫*** ⟪रमेशं⟫ ⟪भजे⟫:br***⟪रामेणा⟫***⟪भिहता⟫ ⟪निशाचरचमू⟫ ***⟪रामाय⟫*** ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br***⟪रामान्ना⟫***⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ ***⟪रामस्य⟫*** ⟪दासोऽस्म्यहम्⟫:br***⟪रामे⟫*** ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ***⟪राम⟫*** ⟪मामुद्धर⟫ ⟪॥⟫
 
-**Translation:**
-1. **Nominative:** Rāma, the jewel (⟪मणि⟫ m.) among kings (⟪राजन्⟫ m.) always conquers (⟪सदा⟫).
-2. **Accusative:** I love (⟪भज्⟫ 1S) Rāma, the lord and husband (⟪ईश⟫ m.) of Ramā (= Lakṣmī).
-3. **Instrumental:** Rāma has killed the army (⟪चमू⟫ f.) of night-roamers (= demons) (⟪निशा⟫ f. = night).
-4. **Dative:** To this Rāma be reverence!
-5. **Ablative:** There is no better (⟪परतर⟫ 3) refuge (⟪परायण⟫ n.) than Rāma.
-6. **Genitive:** I (⟪अहम्⟫) am (⟪अस्मि⟫) a servant of Rāma.
-7. **Locative:** In Rāma may (⟪भवतु⟫) always be the peace (⟪लय⟫ m.) of my (⟪मे⟫) heart.
-8. **Vocative:** Rāma, save (⟪उद्धर⟫ = Imperative to ⟪उद्⟫ + ⟪हृ⟫ or ⟪उद्⟫ + ⟪धृ⟫) me (⟪माम्⟫)!
+**Terjemahan:**
+1. **Nominatif:** Rāma, permata (⟪मणि⟩ m.) di antara raja-raja (⟪राजन्⟩ m.) selalu menaklukkan (⟪सदा⟩).
+2. **Akkusatif:** Aku mencintai (⟪भज्⟩ 1S) Rāma, tuan dan suami (⟪ईश⟩ m.) dari Ramā (= Lakṣmī).
+3. **Instrumental:** Rāma telah membunuh pasukan (⟪चमू⟩ f.) dari penghuni malam (= raksasa) (⟪निशा⟩ f. = malam).
+4. **Dativ:** Kepada Rāma ini, hormatlah!
+5. **Ablatif:** Tidak ada tempat berlindung (⟪परायण⟩ n.) yang lebih baik (⟪परतर⟩ 3) selain Rāma.
+6. **Genitif:** Aku (⟪अहम्⟩) adalah (⟪अस्मि⟩) pelayan Rāma.
+7. **Lokatif:** Dalam Rāma semoga (⟪भवतु⟩) selalu ada kedamaian (⟪लय⟩ m.) dari hatiku (⟪मे⟩).
+8. **Vokatif:** Rāma, selamatkan (⟪उद्धर⟩ = Imperatif ke ⟪उद्⟩ + ⟪हृ⟩ atau ⟪उद्⟩ + ⟪धृ⟩) aku (⟪माम्⟩)!
 
 ## 27.5. Word List
 
-**⟪वस्⟫** 1P (⟪वसति⟫): to stay, to dwell (with the locative of the person with whom one dwells)
+**⟪वस्⟫** 1P (⟪वसति⟫): tinggal, berdiam (dengan lokatif orang tempat seseorang berdiam)
 
 ::: indent
 **Fut.:** ⟪वत्स्यति⟫:br**Pass.:** ⟪उष्यते⟫:br**PPP:** ⟪उषित⟫:br**Inf.:** ⟪वस्तुम्⟫
@@ -196,28 +196,28 @@ from this:
 from this:
 
 ::: indent
-**⟪वस्त्र⟫** n.: means to put on = garment, robe, fabric
+**⟪वस्त्र⟫** n.: berarti memakai = pakaian, jubah, kain
 :::: media
 ![](/images/lekt2706.webp)
 Fig.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
-(Image source: [Details](/en/licenses#lekt2706))
+(Sumber gambar: [Details](/en/licenses#lekt2706))
 ::::
 :::
-**⟪वस्⟫** 6P (⟪उच्छति⟫): to shine forth (this root is important because of the nominal formations:)
+**⟪वस्⟫** 6P (⟪उच्छति⟫): bersinar terang (akar ini penting karena pembentukan nominalnya:)
 
 ::: indent
 **⟪वसु⟫** n.: wealth, treasure, property, possession
 
-**⟪वसन्त⟫** m.: ("shining" =) spring (March to May)
+**⟪वसन्त⟫** m.: ("bersinar" =) musim semi (Maret hingga Mei)
 :::: media
 ![](/images/lekt2707.webp)
 Fig.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
-(Image source: [Details](/en/licenses#lekt2707))
+(Sumber gambar: [Details](/en/licenses#lekt2707))
 ::::
 :::
-**⟪हृ⟫** 1U (⟪हरति⟫): to hold, to carry; to fetch, to take away, to steal
+**⟪हृ⟫** 1U (⟪हरति⟫): menahan, membawa; mengambil, membawa pergi, mencuri
 
 ::: indent
 **Fut.:** ⟪हरिष्यति⟫:br**Pass.:** ⟪ह्रियते⟫:br**PPP:** ⟪हृत⟫:br**Inf.:** ⟪हर्तुम्⟫
@@ -225,11 +225,11 @@ Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
 from this:
 
 ::: indent
-**⟪हर⟫** 3: taking away; m.: the destroyer = epithet of Śiva
+**⟪हर⟫** 3: mengambil; m.: sang pemusnah = sebutan untuk Śiva
 :::
-Opposite of **⟪हर⟫**:
+Lawan dari **⟪हर⟫**:
 
-**⟪हरि⟫** 3: blond, yellow, green; m. epithet of Viṣṇu (does not belong to the root ⟪हृ⟫ 1)
+**⟪हरि⟫** 3: pirang, kuning, hijau; m. sebutan untuk Viṣṇu (tidak berasal dari akar kata ⟪हृ⟫ 1)
 
 **⟪हरिहर⟫** m.: Viṣṇu and Śiva united as a single deity.
 
@@ -247,7 +247,7 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 :::
 ## 27.6. Exercise
 
-**A) In the following sentence, put the expressions in parentheses into the locative (⟪सप्तमी⟫) singular and, where it makes sense, plural. Note the different Sandhi, i.e., write out the full sentence each time!**
+[A) Dalam kalimat berikut, ubah ungkapan dalam kurung ke dalam lokativus (⟪सप्तमी⟫) tunggal dan, jika masuk akal, jamak. Perhatikan Sandhi yang berbeda, yaitu tulislah kalimat lengkap setiap kali!]
 
 ⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫ (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟫)
 
@@ -361,11 +361,11 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Cham
 :::: media
 ![](/images/lekt2712.webp)
 Fig.: ⟪अरयः⟫
-Hanging of two participants of the 1857 Rebellion. Photograph by Felice Beato (1833/1834 - ca. 1907).
-(Image source: [Details](/en/licenses#lekt2712))
+Digantungnya dua peserta Pemberontakan 1857. Foto oleh Felice Beato (1833/1834 - kira-kira 1907).
+(Sumber gambar: [Details](/en/licenses#lekt2712))
 ::::
 :::
-### 27.7.5. Feminine nouns ending in -i: ⟪मति⟫
+### 27.7.5. Kata benda feminin yang berakhir dengan -i: ⟪मति⟫
 
 ::: grammar-box
 
@@ -575,24 +575,23 @@ Tsunami 2005, Sri Lanka.
 :::
 ::: deleteme-box
 
-
-**lekt2701:** Jaipur, 1875. [Image source: Wikipedia. Public domain]
-**lekt2702:** Rajasthan. [Image source: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2703:** Holi. [Image source: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2704:** Harihara (left: Viṣṇu, right: Śiva). [Image source: Wikipedia. Public domain]
-**lekt2705:** Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal. [Image source: GourangaUK / Wikipedia. GNU FDLicense]
-**lekt2706:** Vastrāṇi. Majuli, Assam. [Image source: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2707:** Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07. [Image source: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2708:** Rāma-Satz. [Image source: Wikipedia. Public domain]
-**lekt2709:** Painting by Rāja Ravi Varmā (1848 - 1906). [Image source: Wikipedia. Public domain]
-**lekt2710:** Fruits. Bangalore. [Image source: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
-**lekt2711:** Naran. Udaipur. [Image source: Dey Flickr, 2008-12-18, CC BY-NC-SA]
-**lekt2712:** Hanging of two participants of the 1857 Rebellion. Photograph by Felice Beato (1833/1834 - ca. 1907). [Image source: Wikipedia. Public domain]
-**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008) Guru. [Image source: Wikipedia, GNU FDLicense]
-**lekt2714:** Cow in Udaipur. [Image source: Dey Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2715:** Tridevī (Lakṣmī, Pārvatī, Sarasvatī). [Image source: Wikipedia. Public domain]
-**lekt2716:** Sai Baba of Shirdi (1835 - 1918). [Image source: Wikipedia. Public domain]
-**lekt2717:** Tsunami 2005, Sri Lanka. [Image source: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
-**lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore. [Image source: Wikipedia. Public domain]
+**lekt2701:** Jaipur, 1875. [Sumber gambar: Wikipedia. Domain publik]
+**lekt2702:** Rajasthan. [Sumber gambar: fbloeink Flickr, 2008-12-18, CC BY-NC-SA]
+**lekt2703:** Holi. [Sumber gambar: S.Raj Flickr, 2008-12-18, CC BY-NC-ND]
+**lekt2704:** Harihara (kiri: Viṣṇu, kanan: Śiva). [Sumber gambar: Wikipedia. Domain publik]
+**lekt2705:** Harihara (kiri: Viṣṇu, kanan: Śiva). Godrumdwip, Bengal Barat. [Sumber gambar: GourangaUK / Wikipedia. Lisensi GNU FD]
+**lekt2706:** Vastrāṇi. Majuli, Assam. [Sumber gambar: deepsan Flickr, 2008-12-18, CC BY-NC-ND]
+**lekt2707:** Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07. [Sumber gambar: dinesh_valke Flickr, 2008-12-18, CC BY-NC-ND]
+**lekt2708:** Rāma-Satz. [Sumber gambar: Wikipedia. Domain publik]
+**lekt2709:** Lukisan oleh Rāja Ravi Varmā (1848 - 1906). [Sumber gambar: Wikipedia. Domain publik]
+**lekt2710:** Buah-buahan. Bangalore. [Sumber gambar: GflaiG Flickr, 2008-12-18, CC BY-NC-ND]
+**lekt2711:** Naran. Udaipur. [Sumber gambar: Dey Flickr, 2008-12-18, CC BY-NC-SA]
+**lekt2712:** Penggantungan dua peserta Pemberontakan 1857. Foto oleh Felice Beato (1833/1834 - kira-kira 1907). [Sumber gambar: Wikipedia. Domain publik]
+**lekt2713:** Maharishi Mahesh Yogi (1917 - 2008) Guru. [Sumber gambar: Wikipedia, Lisensi GNU FD]
+**lekt2714:** Sapi di Udaipur. [Sumber gambar: Dey Flickr, 2008-12-19, CC BY-NC-SA]
+**lekt2715:** Tridevī (Lakṣmī, Pārvatī, Sarasvatī). [Sumber gambar: Wikipedia. Domain publik]
+**lekt2716:** Sai Baba dari Shirdi (1835 - 1918). [Sumber gambar: Wikipedia. Domain publik]
+**lekt2717:** Tsunami 2005, Sri Lanka. [Sumber gambar: Hjálparstarf Flickr, 2008-12-19, CC BY-NC-SA]
+**lekt2718:** Maharani Vani Vilasa Sannidhana (1866 - 1934) bersama cucunya Pangeran Jaya Chamaraja Wadiyar, Mysore. [Sumber gambar: Wikipedia. Domain publik]
 
 :::

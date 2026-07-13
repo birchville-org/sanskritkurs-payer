@@ -87,7 +87,7 @@ Lorsque le verbe est au Parasmaipada ou au Ātmanepada, l’objet direct (**karm
 | **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
 
-### 7.2.1. Akkusativ Singular und Plural der Frage- und Demonstrativpronomina
+### 7.2.1. Akkusativ Singular und Plural der Frage- und Pronoms démonstratifs
 
 ::: grammar-box
 | || Masculin | Féminin | Neutre |
@@ -143,12 +143,12 @@ D'autres utilisations du accusatif seront traitées plus tard.
 4. Sauf après une voyelle brève (voir plus tard), le **-n** final reste inchangé dans tous les autres cas.
 :::
 
-## 7.4. Das Neutrum (napuṃsaka n. = ⟪नपुंसक⟫)
+## 7.4. Le neutre (napuṃsaka n. = ⟪napuṃsaka⟫)
 
 ::: grammar-box
 **Au neutre, les formes du nominatif (prathamā) et de l’accusatif (dvitīyā) sont identiques.**
 :::
-### 7.4.1. Neutrum der Stämme auf -a
+### 7.4.1. Neutre des thèmes en -a
 
 ::: grammar-box
 - **Au neutre, les formes du nominatif (prathamā) et de l’accusatif (dvitīyā) sont identiques.**
@@ -173,7 +173,7 @@ La 5e classe de présent forme ce qu'on appelle un radical de présent athémati
 
 **Toutes les autres formes possèdent le radical de présent faible.**
 :::
-### 7.5.1. Primärendungen der 3. Person Plural bei athematischen Stämmen
+### 7.5.1. Terminaisons primaires de la 3e personne du pluriel pour les thèmes athématiques
 
 ::: grammar-box
 La 5e classe de présent forme ce qu'on appelle un radical de présent athématique, c'est-à-dire que le radical de présent ne se termine pas, contrairement aux classes de présent thématiques (classes 1, 4, 6, 10), par la « voyelle thématique » **-a**.
@@ -197,7 +197,7 @@ La 5e classe de présent forme ce qu'on appelle un radical de présent athémati
 | **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
 | **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
-## 7.6. Wortliste
+## 7.6. Liste de mots
 
 **Apprenez les mots suivants :**
 
@@ -221,7 +221,7 @@ Fig. : S'agissait-il de la plante védique du Soma ? : Amanite tue-mouches : *Am
 - **aṅga** n. ⟪अङ्ग⟫ : membre du corps, composant ; aussi = **vedāṅga** = ⟪वेदाङ्ग⟫
 - **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : aller (Selon la classification verbale indigène, il appartient à la classe de présent 1, mais en réalité c'est une formation avec un suffixe de formation de radical de présent **-ccha-** : **gam** » forme profonde (**gm** ») **ga-ccha-ti**)
 
-## 7.7. Übung
+## 7.7. Exercice
 
 **A) Insérez respectivement au singulier et au pluriel l’objet direct ou l’accusatif de direction :**
 

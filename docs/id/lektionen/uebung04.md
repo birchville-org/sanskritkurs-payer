@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 4
 
-A) Form questions orally using the following words according to the pattern viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) and answer the questions in Sanskrit:
+A) Ajukan pertanyaan lisan menggunakan kata-kata berikut sesuai dengan pola viṣṇuḥ kaḥ (⟪विष्णुः⟩ ⟪कः⟩) dan jawab pertanyaan-pertanyaan tersebut dalam bahasa Sanskerta:
 
 śruti, śiva, brāhmaṇa, dvija (plural), indrāṇī, dhenu, tulādhara, kālidāsa
 
@@ -46,7 +46,7 @@ kālidāsaḥ kaḥ? kaviḥ kālidāsaḥ.
 
 ⟪कालिदासः⟫ ⟪कः⟫ ⟪।⟫ ⟪कविः⟫ ⟪कालिदासः⟫ ⟪॥⟫
 
-B) Form questions for the following reading exercise according to the pattern etat kim (⟪एतत्किम्⟫) and answer the questions with the specified words and demonstrative pronouns, e.g. eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
+B) Bentuklah pertanyaan untuk latihan bacaan berikut sesuai pola etat kim (⟪एतत्किम्⟫) dan jawab pertanyaan-pertanyaan tersebut dengan kata-kata yang ditentukan serta kata ganti demonstratif, misalnya eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):
 
 ::: media
 ![](/images/lekt0401.webp)

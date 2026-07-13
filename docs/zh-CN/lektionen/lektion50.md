@@ -7,9 +7,9 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 50
+# 第50课
 
-## 50.1. Nominalbildung: regelmäßige Steigerung
+## 50.1. 名词构成：规则比较级
 
 ::: grammar-box
 **梵语中的规则比较级通过 ⟪तद्धित⟫ 后缀构成**
@@ -199,7 +199,7 @@ Abb.: ⟪आदित्यः⟫
 
 ⟪देश⟫ m.: 地点，位置，土地，地区
 
-## 50.3. Übersetzungsübung
+## 50.3. 翻译练习
 
 A) 复习变位：以下偈颂包含⟪गुरु⟫（阳性）单数形式的全部变位：
 

@@ -9,7 +9,7 @@ status: stable
 
 # Lesson 55
 
-## 55.1. The a-aorist (Aorist with thematic vowel)
+## 55.1. अ-लुङ् (सस्वरः लुङ्)
 
 ::: grammar-box
 **The a-aorist is formed like an imperfect (⟪लङ्⟫) of the 6th present class (⟪तुदादि⟫), i.e.:**

@@ -19,7 +19,7 @@ status: stable
 :::
 ## 4.1. Questions partielles simples (questions mot) et réponses
 
-### 4.1.1. Fragepronomina und Demonstrativpronomina
+### 4.1.1. Pronoms interrogatifs et pronoms démonstratifs
 
 #### 4.1.1.1. Interrogative pronoms (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
@@ -93,7 +93,7 @@ Un exemple d'autres questions :
 
 REMARQUE : Les réponses que vous pouvez donner à de telles questions avec vos connaissances actuelles en sanskrit ne correspondent bien sûr pas encore à un bon sanskrit idiomatique à tous égards.
 
-## 4.2. Übung
+## 4.2. Exercice
 
 **A) Formez oralement des questions selon le schéma viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) à l’aide des mots suivants, et répondez aux questions en sanskrit :**
 

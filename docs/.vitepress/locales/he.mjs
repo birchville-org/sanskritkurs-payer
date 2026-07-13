@@ -7,40 +7,40 @@ export const he = {
   description: 'Grammar textbook by Alois Payer',
   themeConfig: {
     outline: { level: [2, 3], label: 'בדף זה' },
-    returnToTopLabel: 'Return to top',
-    sidebarMenuLabel: 'Menu',
-    darkModeSwitchLabel: 'Appearance',
-    lightModeSwitchTitle: 'Switch to light theme',
-    darkModeSwitchTitle: 'Switch to dark theme',
-    langMenuLabel: 'Change language',
+    returnToTopLabel: 'חזרה למעלה',
+    sidebarMenuLabel: 'תפריט',
+    darkModeSwitchLabel: 'מראה',
+    lightModeSwitchTitle: 'מעבר לערכת נושא בהירה',
+    darkModeSwitchTitle: 'מעבר לערכת נושא כהה',
+    langMenuLabel: 'שינוי שפה',
     nav: [
-      { text: 'Home', link: '/he/' },
-      { text: 'TOC', link: '/he/lektionen/inhaltsverzeichnis' },
-      { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'Credits', link: '/he/impressum' },
-      { text: '<span class="nav-gear-icon"></span>', link: '/he/settings', ariaLabel: 'Open Settings' }
+      { text: 'דף הבית', link: '/he/' },
+      { text: 'תוכן עניינים', link: '/he/lektionen/inhaltsverzeichnis' },
+      { text: 'שאלות ותשובות', link: '/qa_viewer.html', target: '_blank' },
+      { text: 'אחריות', link: '/he/impressum' },
+      { text: '<span class="nav-gear-icon"></span>', link: '/he/settings', ariaLabel: 'פתח הגדרות' }
     ],
     docFooter: {
-      prev: 'Previous Lesson',
-      next: 'Next Lesson'
+      prev: 'שיעור קודם',
+      next: 'שיעור הבא'
     },
     sidebar: [
-      { text: 'Table of Contents', link: '/he/lektionen/inhaltsverzeichnis' },
-      { text: 'Grammar Topics', link: '/he/grammatik' },
-            { text: 'Grammar Index', link: '/he/themen' },
-      { text: 'Vocabulary', link: '/he/lektionen/wortliste' },
-      { text: 'Glossary', link: '/he/lektionen/glossar' },
-      { text: 'Lessons', collapsed: false, items: [] },
-      { text: 'Script (Introduction)', collapsed: true, items: [] },
-      { text: 'Exercises', collapsed: true, items: [] },
-      { text: 'Legal', collapsed: true, items: [
-          { text: 'Legal Notice & Citation', link: '/he/impressum' },
-          { text: 'Image Licenses', link: '/he/licenses' },
+      { text: 'תוכן עניינים', link: '/he/lektionen/inhaltsverzeichnis' },
+      { text: 'נושאי דקדוק', link: '/he/grammatik' },
+            { text: 'מפתח דקדוק', link: '/he/themen' },
+      { text: 'אוצר מילים', link: '/he/lektionen/wortliste' },
+      { text: 'לקסיקון', link: '/he/lektionen/glossar' },
+      { text: 'שיעורים', collapsed: false, items: [] },
+      { text: 'כתב (הקדמה)', collapsed: true, items: [] },
+      { text: 'תרגילים', collapsed: true, items: [] },
+      { text: 'משפטי', collapsed: true, items: [
+          { text: 'הודעת אחריות וציטוט', link: '/he/impressum' },
+          { text: 'רישיונות תמונה', link: '/he/licenses' },
       ]}
     ],
     footer: {
-      message: "Part of Tüpfli's Global Village Library",
-      copyright: 'Copyright © 2008-2010 Alois Payer'
+      message: "חלק מספריית הכפר הגלובלי של Tüpfli",
+      copyright: 'זכויות יוצרים © 2008-2010 Alois Payer'
     }
   }
 }

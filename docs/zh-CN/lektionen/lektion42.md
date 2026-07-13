@@ -7,7 +7,7 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 42
+# 第42课
 
 ## 42.1. 以 -ṛ 结尾的词干
 
@@ -146,9 +146,9 @@ status: stable
 ⟪स्था⟫ + ⟪अव⟫ 1Ā ⟪अवतिष्ठते⟫ ：远离，避开，保持距离，停留，站立
 
 ::: indent
-PPP ⟪अवस्थित⟫ 3: stehend, vorhanden
+PPP ⟪अवस्थित⟫ 3：站立，存在
 :::
-⟪पुरा⟫ Adv.: einst, früher
+⟪पुरा⟫ 副词：曾经，从前
 
 ⟪अनेक⟫ 3：许多（而非少数）
 
@@ -206,7 +206,7 @@ PPP ⟪अवस्थित⟫ 3: stehend, vorhanden
 :::
 ⟪हृदय⟫ 名词：心
 
-### 42.2.1. Einige Verwandtschaftsbezeichnungen
+### 42.2.1. 一些亲属称谓
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
@@ -264,7 +264,7 @@ PPP ⟪अवस्थित⟫ 3: stehend, vorhanden
 
 ⟪मातामही⟫ f.: 外祖母
 
-## 42.3. Übung
+## 42.3. 练习
 
 翻译：
 
@@ -296,7 +296,7 @@ PPP ⟪अवस्थित⟫ 3: stehend, vorhanden
 
 ⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥९॥⟫
 
-## 42.4. Übersetzungsübung
+## 42.4. 翻译练习
 
 ***⟪सीता⟫***⟪विवाहः⟫
 
@@ -362,7 +362,7 @@ PPP ⟪अवस्थित⟫ 3: stehend, vorhanden
 
 ⟪विश्वामित्र⟫ 阳性专有名词：⟪ऋषि⟫，他拔出了⟪राम⟫和⟪लक्ष्मन⟫以斩杀恶魔；因此，他从那里获得了两件法宝。
 
-⟪सीतारामयोस्⟫ Genitiv Lokativ Dual zu ⟪सीताराम⟫
+⟪सीतारामयोस्⟫ 属格、位格双数，对应 ⟪सीताराम⟫
 
 ::: deleteme-box
 

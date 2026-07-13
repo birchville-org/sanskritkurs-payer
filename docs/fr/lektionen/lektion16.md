@@ -56,7 +56,7 @@ Exemples :
 
 ⟪बलवत्⟫ + ⟪शत्रु⟫ = ⟪बलवच्छत्रु⟫
 
-## 16.2. Wortliste
+## 16.2. Liste de mots
 
 ⟪अध्यापन⟫ n. : Enseignement, instruction
 
@@ -116,7 +116,7 @@ Fig. : ⟪अहिंसा⟫
 « La main avec une roue sur la paume symbolise le vœu jaïn d’Ahimsa. Le mot au milieu est « ahimsa ». La roue représente le dharmacakra, qui symbolise la résolution d’arrêter le cycle des réincarnations par une poursuite implacable de la vérité et de la non-violence. »
 (Source de l’image : [Détails](/fr/licenses#lekt1603))
 :::
-## 16.3. Übung
+## 16.3. Exercice
 
 A) Transformez les expressions suivantes en Tatpuruṣa et traduisez-les :
 

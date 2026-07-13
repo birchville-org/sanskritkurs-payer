@@ -1,14 +1,14 @@
 ---
-title: Lektion 61
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+title: 第61课
+subtitle: "以 -ā, -ī, -ū 结尾的词根名词的变格"
 next: false
-category: "Grammatik"
+category: "语法"
 status: stable
 ---
 
-# Lektion 61
+# 第61课
 
-## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
+## 61.1. 以 -ā, -ī, -ū 结尾的词根名词的变格
 
 ### 61.1.1. 词干名词以 -ā 结尾于 ⟪तत्पुरुष⟫ 处
 
@@ -31,7 +31,7 @@ status: stable
 | **⟪षष्ठी⟫** | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Wurzelnomina auf -ī
+### 61.1.2. 阴性词根名词以 -ī 结尾
 
 ::: grammar-box
 **Vor vokalischer Endung wird -ī durch -iy ersetzt.**
@@ -107,14 +107,14 @@ status: stable
 | **⟪षष्ठी⟫** | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | **⟪सप्तमी⟫** | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
+### 61.1.4. 单音节阴性词根名词，以 -ū 结尾
 
 ::: grammar-box
 **元音前的词干：-uv**
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-变格范式：
+Deklinationsparadigma:
 
 ⟪भू⟫ f. “大地”
 
@@ -660,7 +660,7 @@ Beispiel:
 :::
 ## 61.8. 其余代词
 
-### 61.8.1. Personalpronomen des Dual
+### 61.8.1. 双数人称代词
 
 基尔霍恩，《语法》第177节：
 

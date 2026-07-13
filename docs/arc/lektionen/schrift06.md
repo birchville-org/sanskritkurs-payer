@@ -1,10 +1,10 @@
-# Devanagari = ⟪देवनागरी⟫
+# ܕܝܘܢܓܪܝ = ⟪देवनागरी⟫
 
-## Script Exercise 6
+## Script ܬܕܪܫܬܐ 6
 
 ![](/images/schrift009.webp)
 
-The following form is also commonly used for jha:
+ܗܕܐ ܣܘܪܬܐ ܠܦܝܡ ܕܟܢܫ ܗܘܐ
 
 ![](/images/schrift010.jpg)
 
@@ -12,7 +12,7 @@ In older books printed in Calcutta, the following forms for jha can also be foun
 
 ![](/images/schrift011.jpg)
 
-## Exercise
+## ܬܪܓܠܐ
 
 A) Write in Devanagari:
 

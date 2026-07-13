@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 7
 
-A) Insert in each case the singular and plural (if they are not proper names) the direct object or the accusative of direction:
+[A) Masukkan dalam setiap kasus bentuk tunggal dan jamak (jika bukan nama diri) objek langsung atau akusatif arah:]
 
 1\. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
 
@@ -92,7 +92,7 @@ devī kupyati. devī krudhyati.
 
 ⟪देवी⟫ ⟪कुप्यति⟫ ⟪।⟫ ⟪देवी⟫ ⟪क्रुध्यति⟫ ⟪।⟫
 
-C) Insert in the exercise sentences B) the agent, object, and verb in the plural.
+[C0] C) Masukkan ke dalam kalimat latihan B) agen, objek, dan kata kerja dalam bentuk jamak.
 
 1\. sādhavaḥ svargān āpnuvanti. sādhavaḥ svargān gacchanti. sādhavaḥ svargān aśnuvate.
 
@@ -144,7 +144,7 @@ yajate.
 
 ⟪यजते⟫ ⟪।⟫
 
-E) Form the accusative (dvitīyā) sg. and pl. for all nouns learned so far.
+E) Bentuklah kasus akusatif (dvitīyā) tunggal dan jamak untuk semua kata benda yang telah dipelajari sejauh ini.
 
 F) Translate:
 
@@ -166,7 +166,7 @@ They listen however to the masters.
 
 ⟪शूद्राः⟫ ⟪स्वर्गमाप्नुवन्ति⟫ ⟪।⟫
 
-4. The Kṣatriyas, as sacrifice-lords, worship the goddesses with sacrifices.
+4. Para Kṣatriya, sebagai tuan pengorbanan, menyembah para dewi dengan pengorbanan.
 
 kṣatriyā devīr yajante.
 
@@ -188,7 +188,7 @@ vaiśyā devatā yajante.
 
 ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫
 
-The auxiliary sciences of Vedic studies are: phonetics, ritualistics, grammar, etymology, metrics, and calendrical science.
+Ilmu-ilmu pembantu studi Weda adalah: fonetik, ritualistik, tata bahasa, etimologi, metrik, dan ilmu kalender.
 
 8. To which god does this Brahmin sacrifice?
 
@@ -208,7 +208,7 @@ ete kiṃ sunvanti / sunvate?
 
 ⟪एते⟫ ⟪किं⟫ ⟪सुन्वन्ति⟫ / ⟪सुन्वते⟫ ⟪।⟫
 
-11. He is the teacher. One listens to him (= they listen to him).
+11. Dia adalah guru. Seseorang mendengarkan kepadanya (= mereka mendengarkannya).
 
 sa guruḥ. enaṃ śṛṇvanti.
 

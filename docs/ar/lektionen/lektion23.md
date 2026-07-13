@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 23
+# الدرس الثاني3
 
-## 23.1. Der Infinitiv (⟪तुमुन्⟫)
+## 23.1. المصدر (⟪तुमुन्⟫)
 
 ::: grammar-box
 **إذا أراد المرء أن يعبر في السنسكريتية عن أن نشاطًا ما يحدث لغرض نشاط آخر ("لكي")، يمكنه استخدام المصدر (⟪तुमुन्⟫) للنشاط الذي من أجله يحدث. المصدر يشير في المقام الأول إلى الغرض أو القصد:**
@@ -151,7 +151,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 ⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
 ⟪हन्⟫ 2P ⟪हन्तुम्⟫
 
-## 23.4. Wortliste
+## 23.4. قائمة الكلمات
 
 ⟪समान⟫ ⟪३⟫: متساوٍ
 
@@ -161,7 +161,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 
 ⟪विशेष⟫ م.: خاصية، تحديد، differentia specifica
 
-## 23.5. Übung
+## 23.5. تمرين
 
 أ) الجذور التالية تُشكّل المصدر بدون حرف ربط -i-. شكّل المصدر مع مراعاة التغيرات الصوتية إلى:
 

@@ -4,9 +4,9 @@ lesson_id: 33
 status: stable
 ---
 
-# Lektion 33
+# الدرس 33
 
-## 33.1. Die Reduplikation (⟪अभ्यास⟫ m.)
+## 33.1. التكرار (⟪أبهياسا⟫ م.)
 
 * الصف الثالث من الأفعال المضارعة
 * (بالإضافة إلى بعض أفعال الصفوف الأخرى من الأفعال المضارعة)،
@@ -19,7 +19,7 @@ status: stable
 
 تتكون مقطع التكرار من (صامت و) حرف متحرك.
 
-### 33.1.1. Der Reduplikationskonsonant
+### 33.1.1. الحرف الساكن المضعف
 
 ::: grammar-box
 **1. عادةً:**
@@ -110,7 +110,7 @@ status: stable
 | **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
 | **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
-## 33.3. Zum Ablaut von ā
+## 33.3. حول تناوب حرف العلة ā
 
 ā kann
 
@@ -218,7 +218,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 :::
 مشابه **⟪जुह्वत्⟫** (juhu-at + s)
 
-## 33.6. Wortliste
+## 33.6. قائمة الكلمات
 
 **⟪दा⟫** 3U **⟪ददाति⟫**: يعطي
 

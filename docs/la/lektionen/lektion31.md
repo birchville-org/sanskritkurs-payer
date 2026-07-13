@@ -176,7 +176,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 **⟪शरीर⟫ n.:** corpus, corpus
 
-## 31.3. Übung
+## 31.3. Exercitium
 
 A) Versa hos versus et solve composita:
 

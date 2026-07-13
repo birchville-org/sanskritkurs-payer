@@ -7,57 +7,57 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lesson 11
+# ܡܠܦܢܐ 11
 
 ::: deleteme-box
-**In this lesson, you will learn:**
-- The double accusative (accusative of the person and the thing)
-- The usage of the particles **iti**, **evam** and **na**
-- Basic terms such as **dharma**, **adharma** and **putra**
-- The formation of nouns from the roots **vad**, **prach** and **iṣ**
+**ܒܠܦܢܘܬܐ ܗܕܐ، תלמדו:**
+- אקוזטיב כפול (אקוזטיב דאינש ואקוזטיב דחפצא)
+- שימוש בשרתים **iti**، **evam** ו-**na**
+- מונחים בסיסיים כגון **dharma**، **adharma** ו-**putra**
+- בניית שמות עצם משורשים **vad**، **prach** ו-**iṣ**
 :::
-## 11.1. Double Accusative
+## 11.1. ܚܒܝܫܐ ܟܦܝܠܐ
 
 ::: grammar-box
-**Some verbs can govern a double accusative (dvitīyā): accusative of the person and accusative of the thing.**
+**כמה פעלים יכולים לשלוט באקוזטיב כפול (דויתיאה): אקוזטיב דאינש ואקוזטיב דחפצא.**
 
-**These include:**
-- **Verbs of speaking**: to speak to someone (accusative) about something (accusative); to say something (accusative) to someone (accusative)
-- **Verbs of asking**: to ask someone (accusative) about something (accusative)
-- **Verbs of teaching**: to teach someone (accusative) something (accusative)
-- some further verbs, which are noted in the word lists
+**הנה:**
+- **פעלי אמירה**: לדבר לאיזה אינש (אקוזטיב) על חפצא מסוימת (אקוזטיב); לומר משהו (אקוזטיב) לאיזה אינש (אקוזטיב)
+- **פעלי שאלה**: לשאול איזה אינש (אקוזטיב) על חפצא מסוימת (אקוזטיב)
+- **פעלי הוראה**: ללמד איזה אינש (אקוזטיב) משהו (אקוזטיב)
+- כמה פעלים נוספים، שמופיעים ברשימות המילים
 
-**If such a construction is put into the passive voice, the person (who is asked, etc.) is placed in the nominative case (prathamā), while the thing (after which one asks, etc.) remains in the accusative case.**
+**כאשר מבנים כזה מועבר לצליל פסיבי، האינש (שאליהו שואלים וכו') עובר למקרה נומינטיב (פרתמאה)، בעוד החפצא (שאליהו שואלים אחריו וכו') נשארת באקוזטיב.**
 
 e.g. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma asks the Brahmin about the Dharma."
 » Passive: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫
 
-**This rule applies only when both the person and the thing are objects. If a thing is the sole object, it stands in the nominative case (prathamā) according to the basic scheme of a passive sentence:**
+**ܐܝܕܐ ܗܕܐ ܡܠܬܐ ܒܝܬ ܟܘܪܟܢܐ ܕܡܠܬܐ ܘܒܝܬ ܟܘܪܟܢܐ ܕܡܠܬܐ. ܐܝܟܢܐ ܕܡܠܬܐ ܗܝ ܒܢܘܟܪܐ ܕܡܠܬܐ، ܗܝ ܒܢܘܟܪܐ ܕܡܠܬܐ (ܦܪܬܡܐ) ܒܣܘܟܠܐ ܕܡܠܬܐ ܦܪܣܝܐ:**
 
 e.g. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma asks about the Dharma."
 » Passive: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
 :::
 
-## 11.2. Word List
+## 11.2. ܡܠܘܐܐ ܕܡ̈ܠܝܢ
 
 **Learn the following words:**
 
-- **iti** ⟪इति⟫ : thus
-- Appears *after* the formulation of a thought, wish, utterance, or quotation, functioning as a sort of quotation mark (").
-- e.g. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmins say: 'The righteous go to heaven'" = "Brahmins say that the righteous go to heaven".
-- Sanskrit has no indirect speech; constructions with **iti** often need to be rendered in German as indirect speech.
-- **... (quotation) ... iti śrutiḥ** = "thus the Veda".
-- Often a verb of thinking is to be understood after **iti**: "thinking: '...' he does that". Render idiomatically in German (e.g. "Because he is hungry, he goes...").
+- **iti** ⟪इति⟫ : ܠܟܢ
+- ܐܬܐ *ܒܥܕܪ* ܣܓܝܘܬܐ ܕܦܠܚܢܐ, ܪܨܘܟܐ, ܡܠܬܐ, ܐܘ ܩܛܥܝܕܐ, ܘܡܫܬܡܫ ܟܠܒܐ ܕܩܛܥܝܕܐ (").
+- ܡܠ: **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "ܒܪܝ̈ ܟܗܢܐ ܡܠܠܝ: 'ܫܪܝ̈ܐ ܕܟܢܫܬܐ ܠܡܨܠܝ'" = "ܒܪܝ̈ ܟܗܢܐ ܡܠܠܝ ܕܫܪܝ̈ܐ ܕܟܢܫܬܐ".
+- ܣܘܣܩܪܝܬܐ ܠܐ ܗܘܬ ܡܠܬܐ ܒܥܕܪ; ܩܛܥܝ̈ܐ ܒ**iti** ܡܢܐ ܠܬܦܫܩ ܒܓܘ ܡܠܬܐ ܒܥܕܪ.
+- **... (ܩܛܥܝܕܐ) ... iti śrutiḥ** = "ܠܟܢ ܡܕܒܪ̈".
+- ܥܬܝܕ ܐܘܪ̈ܚܐ ܕܦܠܚܢܐ ܡܫܬܥܪ ܒ**iti**: "ܦܠܚܢܐ: '...' ܗܘ ܥܒܕ". ܦܫܩ ܒܓܘ ܡܠܬܐ (ܡܠ: "ܗܝܡܢ ܕܥܒܪ, ܐܠܗ ܡܨܠ").
 
 - **evam** ⟪एवम्⟫ : thus (adverbially, e.g. **evaṃ jayati** "thus he conquers").
 - **na** ⟪न⟫ : not
 - Negates individual words (stands immediately before it: **na sādhuḥ** "a not-good person") or entire sentences (stands at the beginning or immediately before the verb).
 
-- **putra** m. ⟪पुत्र⟫ : son (In India it was necessary to father a son who could perform the sacrifices for the ancestors.)
-- **dharma** m. ⟪धर्म⟫ : ("that which is firm", i.e.) right, law, custom, character.
-- Corresponds most closely to the natural/moral law. Everyone has their own duties (**svadharma**) according to **varṇa** and **āśrama** (stage of life).
-- **adharma** m. ⟪अधर्म⟫ : injustice (opposite of **dharma**).
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : to wish (**iṣ-ccha-ti**).
+- **ܦܘܬܪܐ** m. ⟪पुत्र⟫ : ܙܘܓܐ (ܒܗܝܕ ܣܘܪܝܝܐ ܗܘܐ ܕܡܢܬ ܠܙܘܓܐ ܕܝܟܘܠ ܠܥܒܕ ܣܓܕܬܐ ܠܐܒ̈ܘܗܝ.)
+- **ܕܚܠܬܐ** m. ⟪धर्म⟫ : ("ܕܡܩܝܡ", ܐܠܐ) ܫܪܝܪ, ܕܘܢܝܐ, ܥܘܬܪܐ, ܡܢܗܓ.
+- ܠܐܬܪ̈ܢܐ ܒܕܝܩܐ ܠܥܘܬܪܐ ܕܢܚܝܐ/ܡܠܬܐ. ܟܠ ܚܕ ܠܗ ܦܘܣ̈ܩܐ (ܣܒܬܪܡ) ܠܦܘܫܩܐ ܕܒܪ̈ܢܐ ܘܐܣܡܪܐ (ܦܘܫܩܐ ܕܚܝܠ).
+- **ܐܕܪܡܐ** m. ⟪अधर्म⟫ : ܥܘܬܪܐ (ܠܦ̈ܢܝ ܕܕܚܠܬܐ).
+- **ܝܫ** 6 P (ܝܟܬܐ) ⟪इष्⟫ ⟪इच्छति⟫ : ܠܡܬܒܥ (ܝܫ-ܟܐ-ܬ).
 
 **Some nominal formations:**
 
@@ -76,7 +76,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 - **iṣ** 6 P ⟪इष्⟫ : to desire
 - **iṣṭi** f. ⟪इष्टि⟫ : wish (**iṣ** + **-ti**)
 
-## 11.3. Exercise
+## 11.3. ܬܪܓܠܐ
 
 **A) Translate the following sentences:**
 
@@ -93,11 +93,11 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 11. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ | |
 12. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ||
 
-**B) Form the passive voice constructions for the sentences in A).**
+**ב) ܣܘܡ ܠܫܢܐ ܕܦܥܠ ܒܟܘܪܝܐ ܕܫܡܬ ܒܟܘܪܝܐ A).**
 
-**C) In the sentences from A), where it makes sense, put the subject, object, and predicate into the plural.**
+**C) ܒܫܡܬ ܕA), ܐܝܟ ܕܢܫܡܥ, ܣܘܡ ܠܫܢܐ ܕܦܥܠ, ܡܪܟܙܐ, ܘܦܥܠ ܒܪܟܝܐ.**
 
-**D) Form the passive voice constructions for the sentences formed in C).**
+**D) ܣܘܡ ܠܫܢܐ ܕܦܥܠ ܒܟܘܪܝܐ ܕܫܡܬ ܒܟܘܪܝܐ C).**
 
 ::: media
 ![](/images/lekt1101.webp)
@@ -105,20 +105,20 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 (Image source: [Details](/arc/licenses#lekt1101))
 :::
 
-## 11.4. Review Exercise
+## 11.4. ܬܪܓܡܬܐ ܕܚܙܘܪܐ
 
-**A) Translate into Sanskrit using passive constructions:**
-1. Vaiśya women ask Brāhmaṇas about Dharma.
-2. The teacher utters a mantra.
-3. Holy women attain to heaven.
-4. A Vedic sage does no evil.
-5. Brāhmaṇas, as sacrificial priests, worship the goddess with offerings.
-6. The Śūdra woman goes to the village.
-7. Who sees the truth?
+**A) ܠܫܢܐ ܣܢ̈ܩܪܬܐ ܒܛܝܠܘܬ ܦܥܠܐ:**
+1. נ̈שׁܝ ܒܪܝܫܐ ܠܟ̈ܢܝܐ ܡܕܒܪܝܢ.
+2. מܠܦܬܐ ܡܕܒܪ ܡܢ̈ܘܗܪܐ.
+3. נ̈שׁܝ ܩܕܫܬܐ ܠܪ̈וܟܝܐ ܡܬܩܪܒܢ.
+4. ר̈וܚܐ ܬܘܪܝܐ ܠܐ ܥܒܕ.
+5. כ̈ܢܝܐ, ܟܠܘܬ ܡܕ̈ו̇ܪ̈ܐ, ܠܐܝܠܬ ܡܕ̈ו̇ܪ̈ܐ.
+6. נ̈שܬ ܫܘܡܪܐ ܠܟ̈ܢܝܐ.
+7. מܕܒܪ ܠܡ̈ܕܥ?
 
 **B)**
-1. State the duties of all twice-born persons using a dvandva. Resolve the compound into Sanskrit.
-2. State the duties of the Vaiśyas using a dvandva. Resolve the compound into Sanskrit.
+1. ܐ̈ܘܪ̈ܚܐ ܕܟ̈ܠ ܒܪܝܫܐ ܡܕܒܪ.
+2. ܐ̈ܘܪ̈ܚܐ ܕܒܪܝܫܐ ܡܕ̈ו̇ܪ̈ܐ.
 
 **C) Translate:**
 
@@ -131,7 +131,7 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 7. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ | |
 8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ||
 
-**D) Translate and put Sanskrit agent, object, and verb into the plural:**
+**D) תרגם ושמט את הסוכן, העצם והפועל בסנסקריט לרבים:**
 
 1. ⟪फलमश्नुते⟫ | |
 2. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ | |

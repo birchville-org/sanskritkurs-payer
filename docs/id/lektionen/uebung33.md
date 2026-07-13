@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Exercise 33
 
-A) Insert the corresponding forms of the words in parentheses into the following sentence pattern:
+A) Sisipkan bentuk yang sesuai dari kata-kata dalam kurung ke dalam pola kalimat berikut:
 
 ⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 
@@ -28,7 +28,7 @@ A) Insert the corresponding forms of the words in parentheses into the following
 
 ⟪रामो⟫ ⟪धेनवे⟫ ⟪ऽन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेन्वायन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेन्वा⟫ ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ ⟪रामो⟫ ⟪धेनुभ्यो⟫ ⟪ऽन्नं⟫ ⟪ददाति⟫ ⟪॥⟫
 
-B) Insert the corresponding forms of the verbs specified in parentheses in the Indicative Present, Imperfect, and Optative:
+B) Masukkan bentuk-bentuk yang sesuai dari kata kerja yang ditentukan dalam kurung pada Bentuk Kini Indikatif, Lampau Tak Sempurna (Imperfect), dan Optatif:
 
 ⟪ब्राह्मनो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
 
@@ -66,19 +66,19 @@ C) Translate and convert singular sentences into plural sentences and vice versa
 
 ⟪योगयुक्तो⟫ ⟪मतिं⟫ ⟪दुःखमक्षनयन्त्यां⟫ ⟪प्रज्ञायां⟫ ⟪समाधत्ते⟫ ⟪॥१॥⟫
 
-A yogin concentrates his mind on the insight that leads to liberation from suffering.
+Seorang yogi memusatkan pikirannya pada wawasan yang mengarah pada pembebasan dari penderitaan.
 
 ⟪योगयुक्ता⟫ ... ⟪समादधते⟫ ⟪॥१॥⟫
 
 ⟪यो⟫ ⟪भिक्षवे⟫ ⟪दानानि⟫ ⟪द्द्यात्सो⟫ ⟪ऽपि⟫ ⟪दानपुण्यमाददीत⟫ ⟪॥२॥⟫
 
-One who gives gifts to a monk receives the merit of his giving.
+Orang yang memberikan hadiah kepada seorang biarawan menerima pahala dari pemberiannya.
 
 ⟪ये⟫ ... ⟪दद्युस्ते⟫ ... ⟪आददीरन्⟫ ⟪॥२॥⟫
 
 ⟪ब्राह्मणा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪ब्राह्मणदासो⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫ ⟪॥३॥⟫
 
-Since Brahmins carry no burden, the servant of the Brahmin carried the burden home.
+Karena kaum Brahmana tidak memikul beban, pelayan kaum Brahmana itu membawa pulang beban tersebut.
 
 ⟪ब्राह्म्णो⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभर्तीति⟫ ⟪ब्राह्मणदासा⟫ ⟪भारं⟫ ⟪गृहमबिभरुः⟫ ⟪॥३॥⟫
 
@@ -90,7 +90,7 @@ The Kṣatriya hero left his family with his son to fight. Since he was killed b
 
 ⟪देवदत्तमपि⟫ ⟪सुखं⟫ ⟪दुःखमोक्षेष्टिं⟫ ⟪न⟫ ⟪पिपर्ति⟫ ⟪।⟫ ⟪सेष्टिः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यते⟫ ⟪॥५॥⟫
 
-Happiness bestowed even by the gods does not fulfill the desire for liberation from suffering. This desire is fulfilled only through liberating insight.
+Kebahagiaan yang diberikan bahkan oleh para dewa tidak memenuhi keinginan untuk pembebasan dari penderitaan. Keinginan ini hanya terpenuhi melalui wawasan pembebas.
 
 ⟪देवदत्तान्यपि⟫ ⟪सुखानि⟫ ⟪दुःखमोक्षेष्तीर्न⟫ ⟪पिपुरति⟫ ⟪।⟫ ⟪ता⟫ ⟪इष्टयः⟫ ⟪प्रज्ञयैव⟫ ⟪सम्पूर्यन्ते⟫ ⟪॥५॥⟫
 
@@ -102,7 +102,7 @@ Before a sage who grants fearlessness to beings, beings do not fear, and he does
 
 ⟪मितमतयो⟫ ⟪नरकभयाद्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-Intellectually limited beings perform meritorious deeds and refrain from evil because they fear hells and desire heavens. Those who have awakened to unlimited insight do not fear hells nor desire heavens. They have ended fear and desire.
+Makhluk yang terbatas secara intelektual melakukan perbuatan terpuji dan menjauhi kejahatan karena mereka takut terhadap neraka dan menginginkan surga. Mereka yang telah terbangun ke dalam wawasan tak terbatas tidak takut akan neraka maupun menginginkan surga. Mereka telah mengakhiri ketakutan dan keinginan.
 
 ⟪मितमतिर्नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहाति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धो⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयात्स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येत्⟫ ⟪।⟫ ⟪स⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुणत्⟫ ⟪।⟫ ... ⟪बिभियात्⟫ ... ⟪॥७॥⟫
 

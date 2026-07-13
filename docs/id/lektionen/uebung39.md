@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Lesson 39
 
-A) Form the first-person forms corresponding to the following verb forms in number, tense, mood (indicative, optative), and voice (P, Ā, Passive):
+A) Bentuklah bentuk orang pertama yang sesuai dengan bentuk kata kerja berikut dalam jumlah, waktu, modus (indikatoratif, optatif), dan suara (P, Ā, Pasif):
 
 ::: grammar-box
 | 3rd Person | 1st Person |

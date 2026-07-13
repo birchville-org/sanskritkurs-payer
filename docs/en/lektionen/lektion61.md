@@ -665,7 +665,7 @@ Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 :::
 ## 61.8. Remaining Pronouns
 
-### 61.8.1. Personal Pronoun of the Dual
+### 61.8.1. अस्मद्युष्मदोर्द्विवचनम्
 
 Kielhorn, Grammar § 177:
 

@@ -7,9 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 47
+# 第47课
 
-## 47.1. Der Imperativ (⟪लोट्⟫)
+## 47.1. 命令式 (⟪लोट्⟫)
 
 ::: grammar-box
 命令式（⟪लोट्⟫）表示

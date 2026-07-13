@@ -81,10 +81,10 @@ Exempl:
 ::: grammar-box
 **Educaziun:**
 
-**Stamm ferm:**
-**Stamm reduplitgà cun gronda vocala + desinenza**
+**Tema ferm:**
+**Tema reduplitgà cun gronda vocala + desinenza**
 
-**stèssel Stamm:**
+**stèssel Tema:**
 **reduplicada radich profunda + desinenza**
 
 **Per il consonante di reduplicazione valgono le regole date sopra.**
@@ -101,14 +101,14 @@ Exemples:
 ::: grammar-box
 **⟪हु⟫** 3P "(per sacrifici) versar en il foc"
 
-* **Stamm ferm:** ⟪जुहो⟫
-* **Stamm stèssel:** ⟪जुहु⟫
+* **Tema ferm:** ⟪जुहो⟫
+* **Tema stèssel:** ⟪जुहु⟫
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikativ Präsens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
-| **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
-| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
+| **Indikativ Präsens** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \&lt;⟪जुहुते⟫\&gt; | \&lt;⟪जुह्वते⟫\&gt;:brjuhu + ate |
+| **Imperfekt** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \&lt;⟪अजुहुत⟫\&gt; | \&lt;⟪अजुह्वत⟫\&gt;:bra-juhu + ata |
+| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \&lt;⟪जुह्वीत⟫\&gt;:brjuhu + ī-ta | \&lt;⟪जुह्वीरन्⟫\&gt;:brjuhu + ī-ran |
 :::
 ## 33.3. Zum Ablaut von ā
 
@@ -148,7 +148,7 @@ Qua qua appartegna era p.ex.:
 ## 33.4. Radichs cun -ā da la terza classa da prezens
 
 ::: grammar-box
-**Radichas cun finala -ā (exceptà ⟪दा⟫ e ⟪धा⟫) han en il Stamm deblit usitàramain finala -ī-** (vesa quai Thumb-Hauschild Vol. 1,1 p. 271. Probablamain ha agì la seria da ablaut surmenziunada B sco model, anc che questas radichas ablautan usitadamain suenter la seria A), **davant desinenzas vocalicas svanescha il vocal da la radicha cumplettamain (vesa seria da ablaut A).**
+**Radichas cun finala -ā (exceptà ⟪दा⟫ e ⟪धा⟫) han en il Tema deblit usitàramain finala -ī-** (vesa quai Thumb-Hauschild Vol. 1,1
 :::
 Exemplas:
 
@@ -218,7 +218,7 @@ Las furmas da **⟪दा⟫** s’obtien, sche en il paradigma da **⟪धा�
 :::
 Similarmain ⟨⟪जुह्वत्⟫⟩ (juhu-at + s)
 
-## 33.6. Wortliste
+## 33.6. Glista da pleds
 
 **⟪दा⟫** 3U **⟪ददाति⟫**: donar
 
@@ -374,7 +374,7 @@ Abb.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 :::
 ## 33.7. Exercizi
 
-A) Insert in the following sentence pattern the corresponding forms of the words in the parentheses:
+A) Insera en la sequenta da sentenzas las furmas correspundentas dals pleds en parentesis:
 
 ⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 

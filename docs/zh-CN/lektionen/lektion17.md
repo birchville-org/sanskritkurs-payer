@@ -7,7 +7,7 @@ category: "语法"
 status: stable
 ---
 
-# Lektion 17
+# 第17课
 
 ## 17.1. 第2现在时类（⟪अदादि⟫ = ⟪अद्⟫ 等）
 
@@ -30,8 +30,8 @@ status: stable
 
 ⟪द्विष्⟫ 2 U “hassen”
 
-*   starker Präsensstamm: dveṣ-
-*   schwacher Präsensstamm: dviṣ-
+*   强现在词干：dveṣ-
+*   弱现在词干：dviṣ-
 
 ::: no-header
 
@@ -50,7 +50,7 @@ status: stable
 
 -ṣ + t(h)- » -ṣṭ(h)-
 :::
-Weitere Beispiele:
+更多示例：
 
 ⟪इ⟫ 2 P “走”（Ā 在特定前缀后）
 
@@ -103,8 +103,8 @@ Weitere Beispiele:
 :::
 ⟪अस्⟫ 2 P “sein”
 
-*   starker Präsensstamm: as-
-*   schwacher Präsensstamm: s-
+*   强现在词干：as-
+*   弱现在词干：s-
 
 ::: no-header
 
@@ -162,8 +162,8 @@ Weitere Beispiele:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪अत्ति⟫ (« ad- + -ti) |
-| 3\. pl. Präs. P | ⟪अदन्ति⟫ (ad-anti) |
+| 第三人称单数现在时主动语态 | ⟪अत्ति⟫（“ad- + -ti）|
+| 第三人称复数现在时主动语态 | ⟪अदन्ति⟫（ad-anti）|
 
 :::
 ⟪आस्⟫ 2 Ā “坐”
@@ -172,8 +172,8 @@ Weitere Beispiele:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. Ā | ⟪आस्ते⟫ (ās-te) |
-| 3\. pl. Präs. Ā | ⟪आसते⟫ (ās-ate) |
+| 第三人称单数现在时 Ā | ⟪आस्ते⟫ (ās-te) |
+| 第三人称复数现在时 Ā | ⟪आसते⟫ (ās-ate) |
 
 :::
 ⟪वच्⟫ 2 P "sagen"
@@ -203,8 +203,8 @@ Weitere Beispiele:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪रोदिति⟫ (rodi-ti) |
-| 3\. pl. Präs. P | ⟪रुदन्ति⟫ (rud-anti) |
+| 第三人称单数现在时主动态 | ⟪रोदिति⟫ (rodi-ti) |
+| 第三人称复数现在时主动态 | ⟪रुदन्ति⟫ (rud-anti) |
 
 :::
 ⟪ब्रू⟫ 2 U “sprechen”
@@ -233,7 +233,7 @@ Weitere Beispiele:
 | 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
-## 17.6. Wortliste
+## 17.6. 词汇表
 
 ⟪हन्⟫ 2 P ⟪हन्ति⟫, ⟪घ्नन्ति⟫ Pass. ⟪हन्यते⟫  PPP ⟪हत⟫ ：打击，击杀，杀死
 
@@ -311,7 +311,7 @@ A) 在以下句子中填入动词并翻译：
 
 B) 将A)中构成的句子的施事和动词变为复数
 
-## 17.8. Übung 2
+## 17.8. 练习2
 
 翻译以下动词形式，并给出相应的词根：
 

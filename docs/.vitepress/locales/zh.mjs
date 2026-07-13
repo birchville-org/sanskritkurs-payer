@@ -12,6 +12,7 @@ export const zh = {
       { text: '目录', link: '/zh/lektionen/inhaltsverzeichnis' },
       { text: '语法', link: '/zh/grammatik' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
+      { text: '<span class="nav-gear-icon"></span>', link: '/zh/settings', ariaLabel: 'Settings' },
       { text: '致谢', link: '/zh/impressum' }
     ],
     docFooter: {

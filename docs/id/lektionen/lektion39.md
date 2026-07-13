@@ -1,17 +1,17 @@
 ---
-title: Lesson 39
-subtitle: "The personal endings of the first person (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = \"**third** person\")"
+title: Pelajaran 39
+subtitle: "Akhiran pribadi orang pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = \"**orang ketiga**\")"
 lesson_id: 39
 last_reconstructed: 2026-05-21
-category: "Grammar"
-status: stable
+category: "Tata Bahasa"
+status: stabil
 ---
 
 # Lesson 39
 
-## 39.1. The Personal Endings of the First Person (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**third** Person")
+## 39.1. Akhiran Orang Pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**orang** ketiga")
 
-The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**third** Person") are:
+Akhiran orang pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**orang** ketiga") adalah:
 
 ::: grammar-box
 
@@ -26,9 +26,9 @@ The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Perfect ending** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
-1 Note: actually, the primary ending Ā of thematic stems is also to be assumed as -e, before which the thematic vowel -a- falls away for reasons of analogy. However, the effect is as if the ending -i were to attach to the thematic vowel -a-: a + i » e.
+1 Catatan: sebenarnya, akhiran utama Ā dari stem tematik juga harus diasumsikan sebagai -e, sebelum mana vokal tematik -a- hilang karena alasan analogi. Namun, efeknya seolah-olah akhiran -i melekat pada vokal tematik -a-: a + i » e.
 
-## 39.2. Formation of the verb forms of the first person thematic present stems
+## 39.2. Pembentukan bentuk-bentuk kata kerja dari stem present tematik orang pertama
 
 ::: grammar-box
 **Aturan:**
@@ -103,10 +103,10 @@ The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Optative  - ⟪विधिलिङ्⟫** | **⟪ईक्ष्येय⟫**:brīkṣ-ya + iy-a | **⟪ईक्ष्येमहि⟫**:brīkṣ-ya + i-mahi |
 
 :::
-## 39.3. Formation of the verb forms of the first person of the simple future - ⟪ऌत्⟫
+## 39.3. Pembentukan bentuk kata kerja orang pertama dari masa depan sederhana - ⟪ऌत्⟫
 
 ::: grammar-box
-**The future has thematic formation. Therefore, the rule for thematic stems also applies:**
+**Masa depan memiliki pembentukan tematik. Oleh karena itu, aturan untuk akar kata tematik juga berlaku:**
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
 :::
@@ -134,12 +134,12 @@ The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Future - ⟪ऌत्⟫** | **⟪भविष्यामि⟫**:brbho + i + syā + mi | **⟪भविष्यामस्⟫** | **\&lt;⟪भविष्ये⟫\&gt;** | **\&lt;⟪भविष्यामहे⟫\&gt;** |
 
 :::
-## 39.4. Formation of the verb forms of the first person athematic present stems
+## 39.4. Pembentukan bentuk-bentuk kata kerja dari akar present athematic orang pertama
 
 ::: grammar-box
-**Note that within the word — in contrast to sentence sandhi — consonants generally remain unchanged before endings that begin with**
-* **Vowel**
-* **Semi-vowel**
+**Perhatikan bahwa dalam kata — berbeda dengan sandhi kalimat — konsonan umumnya tetap tidak berubah sebelum akhiran yang dimulai dengan**
+* **Vokal**
+* **Semi-vokal**
 * **Nasal**
 
 **e.g. ⟪वच्⟫ 1.sg.Ind.Pres. **⟪व⟫***⟪च्मि⟫***
@@ -204,7 +204,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 ### 39.4.3. Fifth Present Class (⟪स्वादि⟫)
 
 ::: grammar-box
-**In the case of roots ending in a vowel, the -u of the stem-forming suffix (-nu) may optionally be dropped before endings beginning with m-.**
+**Dalam kasus akar yang berakhir dengan vokal, -u dari sufiks pembentuk kata dasar (-nu) dapat dihilangkan secara opsional sebelum akhiran yang dimulai dengan m-.**
 :::
 ⟪सु⟫ 5U
 
@@ -274,7 +274,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 :::
 ## 39.5. Exercise
 
-Form the first-person forms corresponding to the following verb forms in number, tense, mood (indicative, optative), and diathesis (P, Ā, passive).
+[B0] Bentuklah bentuk orang pertama yang sesuai dengan bentuk kata kerja berikut dalam jumlah, waktu, modus (indikatoratif, optatif), dan diatesis (P, Ā, pasif).
 
 Example: ⟪गच्छन्ति⟫ » ⟪गच्छामस्⟫
 

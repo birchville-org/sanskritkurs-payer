@@ -7,23 +7,23 @@ category: "Grammatik"
 status: stable
 ---
 
-# Lektion 29
+# ܕܪܫܐ ܟܛ
 
-## 29.1. Verwendung des Parasmaipada (⟪परस्मैपद⟫) und Ātmanepada (⟪आत्मनेपद⟫) im Kausativum
+## 29.1. ܡܬܚܫܚܢܘܬܐ ܕܦܐܪܐܣܡܐܝܦܐܕܐ (⟪ܦܐܪܐܣܡܐܝܦܐܕ⟫) ܘܐܬܡܐܢܝܦܐܕܐ (⟪ܐܬܡܐܢܝܦܐܕ⟫) ܒܥܠܬܐ
 
 ::: grammar-box
-**The causative is, with few exceptions, Ubhayapada (⟪उभयपद⟫)**
+**הַפִּיעוּל, בְּחָדוֹת מְעַט, הוּא אוּבְהָיָפָדָה (⟪उभयपद⟫)**
 :::
 ::: grammar-box
-**In the causative, the Ātmanepada (⟪आत्मनेपद⟫) is used:**
+**בַּפִּיעוּל, הָאָתְמָנֶפָדָה (⟪आत्मनेपद⟫) נִשְׁתַּמֶּשֶׂת:**
 
-**1. If the fruit of the prompted action benefits the prompter:**
+**1. אִם פְּרִי הַפָּעוּל שֶׁנִּגְרַם מֵהַתְקָלָה יוֹעִיל לַמַּתְקֵל:**
 :::
-Example:
+דּוֹמֶה:
 
 ⟪रामः⟫ ⟪कटं⟫ ⟪कारयते⟫ = "Rāma lässt für sich (im eigenen Interesse) eine Matte machen"
 
-**2. When the causative of transitive verbs is used reflexively ("to show itself," "to let itself be heard," etc.), or when the object of the simple verb is the agent (⟪कर्तृ⟫) of the causative:**
+**2. כאשר הפיעל של פעלים מעבר משמש בהקשר עצמי ("להראות את עצמו", "לתת לשמוע את עצמו" וכו'), או כאשר העצם של הפועל הבסיסי הוא הסוכן (⟪कर्तृ⟫) של הפיעל:**
 
 Example:
 
@@ -31,24 +31,24 @@ Example:
 
 Result: ⟪भक्ता⟫ ⟪विष्णुं⟫ ⟪पश्यन्ति⟫ = "The believers see Viṣṇu"
 
-The rules thus generally correspond to the rules for the use of the Ātmanepada (⟪आत्मनेपद⟫) with Ubhayapada (⟪⟪उभयपद⟫)-verbs.
+[0] ܠܘܫ̈ܢ̈ܐ ܕܡܢ ܗܠܟ ܬܫܒܩ̈ܐ ܠܘܫ̈ܢ̈ܐ ܕܡܪ̈ܚ ܠܬܫܡܥܐ (⟪आत्मनेपद⟫) ܒܟܠ ܡܕ̈ܢܚ (⟪⟪उभयपद⟫)-ܡ̈ܠܬ.
 
-## 29.2. Wortliste
+## 29.2. ܡܠܘܐܐ
 
 Prepositions:
 
 ::: indent
 ⟪उद्⟫° : up, upward, aloft, out, out, out-
 
-⟪परि⟫° : around, about (place, time), about
+⟪परि⟫° : ܠܥܡܘܟ, ܠܥܡܘܟ (ܡܿܿܟܢܐ, ܨܒܬܐ), ܠܥܡܘܟ
 :::
-⟪भू⟫ + ⟪परि⟫ 1P ⟪परिभवति⟫ : (to become around someone = to encircle =) to master, to conquer; to disregard, to despise
+⟪भू⟫ + ⟪परि⟫ ܩܕܡܝܐ ⟪परिभवति⟫ : (ܠܗܘܝ ܠܥܡܐ ܠܦܪܣ = ܠܗܘܝ ܠܥܡܐ =) ܠܫܬܪܝ, ܠܫܬܪܝ; ܠܗܘܝ ܠܐ ܠܫܡܥ, ܠܗܘܝ ܠܐ ܠܫܡܥ
 
 ⟪अवज्ञान⟫ n.: disregard
 
 ⟪गुप्त⟫ 3: protected, safeguarded
 
-⟪गृहस्थ⟫ 3: present in the house; m. house father (one who is in the 2. ⟪आश्रम⟫)
+⟪गृहस्थ⟫ 3: موجود في البيت؛ م. أب البيت (من هو في الـ 2. ⟪आश्रम⟫)
 
 ⟪ग्रस्⟫ 1Ā ⟪ग्रसते⟫ : devour, devour
 
@@ -79,17 +79,17 @@ Pushkar = ⟪पुष्कर⟫
 
 ⟪मत्स्य⟫ m.: fish
 
-of which:
+מִן דַּא:
 ::: indent
-⟪मात्स्य⟫ 3: belonging to the fish (to fishes)
+⟪मात्स्य⟫ 3: דִּי לְיוָתָא (לְיוָותַיִן)
 :::
 ::: media
 ![](/images/lekt2901.webp)
-Fig.: ⟪मत्स्यः⟫
+דִּמְיוָנָא: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
-(Image source: [Details](/arc/licenses#lekt2901))
+(מַרְגִּישׁוּת דִּתְמוּנָא: [פַּרְטֵי](/arc/licenses#lekt2901))
 :::
-⟪मृदु⟫ 3 (f.: ⟪मृद्वी⟫): gentle, mild, soft; slow, weak
+⟪मृदु⟫ 3 (דִּי נְקֵיתָא: ⟪मृद्वी⟫): רַכָּא, עֲנָוָה; אִטְמָא, חַלְשָׁא
 
 ⟪यथा⟫ Adv.: wie, gleichsam
 
@@ -111,7 +111,7 @@ Inf. ⟪रन्तुम्⟫
 ::: indent
 PPP ⟪पूजित⟫
 :::
-## 29.3. Translation Exercise for Review
+## 29.3. ܬܪܓܡܬܐ ܕܬܪܓܡܬܐ ܠܚܙܘܪܐ
 
 Übersetzen Sie wortgetreu in gutes Deutsch und lernen Sie die Sanskrittexte auswendig:
 
@@ -119,9 +119,9 @@ PPP ⟪पूजित⟫
 
 ⟪अनित्याशुचिदुःखा⟫*⟪नात्मसु⟫* ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
 
-Explanation: ⟪आत्मसु⟫ = Loc. sg. of ⟪आत्मन्⟫ m. "soul; the Absolute, insofar as it is realized in the individual"
+ܣܦܪܐ: ⟪आत्मसु⟫ = ܡܕܢܚܐ ܝܗܘܕܟܝܐ ܡܢ ⟪आत्मन्⟫ ܙܟܪܐ "ܢܝܫܡܬܐ; ܗܕܐ ܥܠܡܐ, ܒܝܬ ܕܢܫܟܚ ܒܐܢܫ"
 
-2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. on the proper use of the ⟪दण्ड⟫ :
+2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. ܥܠ ܐܘܪܚܐ ܫܪܝܪܬܐ ܕ⟪दण्ड⟫ :
 
 ⟪तीक्ष्णदण्डो⟫ ⟪भूताना⟫*⟪मुद्वेजनीयो⟫* ⟪भवति⟫ ⟪।८।⟫
 
@@ -172,7 +172,7 @@ Explanations:
 
 ⟪वर्त्मसु⟫ : Lok. plur. neut. to ⟪वर्त्मन्⟫ n. "track, rail, path"
 
-## 29.4. Futur and causative for the roots learned so far
+## 29.4. ܥܬܺܝܕܳܐ ܘܥܶܠܬܳܢܳܐ ܠܫܶܪ̈ܫܶܐ ܕܐܶܬܝܰܠܦܽܘ ܥܕܰܡܳܐ ܠܗܳܫܳܐ
 
 ::: grammar-box
 

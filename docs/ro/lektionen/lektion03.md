@@ -27,7 +27,7 @@ De asemenea, următoarele teme nominal care se termină cu o vocală, formează 
 - **Feminina pe -i**: ex. **śruti** f. "ascultarea" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **Feminina pe -u**: ex. **dhenu** f. "vacă de lapte" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominativ Singular fără sufix
+### 3.1.2. Nominativ singular fără sufix
 
 Nominativul singular se formează fără sufix:
 

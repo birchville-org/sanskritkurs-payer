@@ -35,7 +35,7 @@ Example:
 |**3rd Person:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
 
 :::
-In this present class, special attention must be paid to the formation of the present stem from the root ⟪ज्ञा⟫ 9U "to know, to recognize":
+Dalam kelas saat ini, perhatian khusus harus diberikan pada pembentukan kata dasar waktu sekarang dari akar ⟪ज्ञा⟫ 9U "mengetahui, mengenali":
 
 ::: grammar-box
 
@@ -45,9 +45,9 @@ In this present class, special attention must be paid to the formation of the pr
 |**3rd Person:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
 
 :::
-The form ⟪जा⟫, which underlies the present stem of ⟪ज्ञा⟫, can be explained either by an ablaut series -ā (zero grade) -nā (guṇa grade) or by dissimilation from *jñā-nā-ti.
+Bentuk ⟪जा⟫, yang mendasari bentuk akar sekarang dari ⟪ज्ञा⟫, dapat dijelaskan baik oleh seri ablaut -ā (derajat nol) -nā (derajat guṇa) maupun oleh disimilasi dari *jñā-nā-ti.
 
-Some roots with long vowels shorten this vowel before the present stem suffix of the 9th class:
+Beberapa akar dengan vokal panjang memendekkan vokal ini sebelum sufiks bentuk akar sekarang dari kelas 9:
 
 Example:
 
@@ -80,15 +80,15 @@ The optative is used:
 *   **a request**
 *   **a softened command**
 
-**(here the optative - ⟪लिङ्⟫ - overlaps with the imperative - ⟪लोट्⟫)**
+**(di sini optatif - ⟪लिङ्⟫ - tumpang tindih dengan imperatif - ⟪लोट्⟫)**
 :::
-Example:
+Contoh:
 
 ::: indent
-⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Let the serf come to the village"
+⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Biarkan hamba datang ke desa"
 :::
 ::: grammar-box
-**2. When something is to be presented as**
+**2. Ketika sesuatu harus disajikan sebagai**
 
 *   **possible**
 *   **probable**
@@ -99,19 +99,19 @@ Example:
 Example:
 
 ::: indent
-⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "If he were to leave the village, he would not hear the master"
+⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "Jika ia meninggalkan desa, ia tidak akan mendengar sang guru"
 :::
 ::: grammar-box
-**3. Relative clauses with the optative sometimes have the meaning: "If someone ..."**
+**3. Klausa relatif dengan optatif kadang-kadang memiliki makna: "Jika seseorang ..."**
 :::
-Example:
+Contoh:
 
 ::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "If someone were to tell a lie, he would fall into hell = If someone tells a lie, he falls into hell"
 :::
-## 30.3. Secondary endings of the 3rd person singular and plural
+## 30.3. Akhiran Sekunder Orang Ketiga Tunggal dan Jamak
 
-The optative (⟪लिङ्⟫), the imperfect (⟪लङ्⟫), the aorist (⟪लुङ्⟫), the precative (⟪आशिर्लिङ्⟫) and the conditional have the so-called secondary endings:
+Optatif (⟪लिङ्⟫), Imperfekt (⟪लङ्⟫), Aorist (⟪लुङ्⟫), Precativ (⟪आशिर्लिङ्⟫) und Konditional haben die sogenannten Sekundarendungen:
 
 ::: grammar-box
 
@@ -247,11 +247,11 @@ Examples:
 ## 30.5. Sandhi of final -r
 
 ::: grammar-box
-**Except for -ar, the same Sandhi rules apply to final -r as to final -s.**
+**Kecuali untuk -ar, aturan Sandhi yang sama berlaku untuk akhiran -r seperti untuk akhiran -s.**
 
 **-ar before voiced sounds remains -ar, but before r- the -r is lost and the -a- is replaced by -ā-.**
 :::
-Examples:
+Contoh:
 
 ::: indent
 ⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
@@ -273,15 +273,15 @@ Inf. ⟪क्रेतुम्⟫
 ⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : to sell
 
 ::: indent
-Absol. ⟪विक्रीय⟫
+Abs. ⟪विक्रीय⟫
 :::: media
 ![](/images/lekt3001.webp)
 Fig.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
-(Image source: [Details](/en/licenses#lekt3001))
+(Sumber gambar: [Details](/en/licenses#lekt3001))
 ::::
 :::
-⟪ज्ञा⟫ 9U ⟪जानाति⟫ : to know, to recognize, to know, to understand
+⟪ज्ञा⟫ 9U ⟪जानाति⟫ : mengetahui, mengenali, tahu, memahami
 
 ::: indent
 Fut. ⟪ज्ञास्यति⟫  
@@ -295,15 +295,15 @@ from which:
 
 ⟪ज्ञाति⟫ m.: (blood) relative (relatives are those whom one knows!)
 
-⟪ज्ञान⟫ n.: knowledge, wisdom, understanding (esp. of the "higher" truths in religion and philosophy)
+⟪ज्ञान⟫ n.: pengetahuan, kebijaksanaan, pemahaman (khususnya mengenai "kebenaran yang lebih tinggi" dalam agama dan filsafat)
 :::: media
 ![](/images/lekt3002.webp)
 Fig.: ⟪ज्ञातयः⟫
-Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
-(Image source: [Details](/en/licenses#lekt3002))
+Darewadi, Distrik Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
+(Sumber gambar: [Details](/en/licenses#lekt3002))
 ::::
 :::
-⟪पू⟫ 9U ⟪पुनाति⟫ : to purify
+⟪पू⟫ 9U ⟪पुनाति⟫ : untuk menyucikan
 
 ::: indent
 Fut. ⟪पविष्यति⟫  
@@ -337,9 +337,9 @@ Fig.: ⟪अश्नीयात्⟫
 ::: media
 ![](/images/lekt3004.webp)
 Fig.: ⟪प्रिया⟫
-(Image source: [Details](/en/licenses#lekt3004))
+(Sumber gambar: [Details](/en/licenses#lekt3004))
 :::
-⟪चेत्⟫ Conjunction: if; provided that (never occurs at the beginning of a sentence)
+⟪चेत्⟫ Konjungsi: jika; dengan syarat (tidak pernah muncul di awal kalimat)
 
 ::: indent
 ⟪न⟫ ⟪चेत्⟫ : if not
@@ -382,7 +382,7 @@ from which:
 
 ## 30.7. Exercise
 
-A) Convert the following verbal forms into the corresponding optative forms in person, number, and gender:
+[A] Ubahlah bentuk-bentuk verbal berikut ke dalam bentuk optatif yang sesuai mengenai orang, jumlah, dan jenis kelamin:
 
 1.  ⟪ह्रियते⟫
 2.  ⟪ध्नन्ति⟫
@@ -450,7 +450,7 @@ A) Convert the following verbal forms into the corresponding optative forms in p
 64.  ⟪अदन्ति⟫
 65.  ⟪अध्यापयन्ति⟫
 
-B) Translate the following sentences and resolve the compounds in Sanskrit:
+B) Terjemahkan kalimat-kalimat berikut dan pecahkan sandhangan (compound) dalam bahasa Sanskerta:
 
 ⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫
 

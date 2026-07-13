@@ -1,10 +1,10 @@
 ---
-title: Lektion 49
-subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
+title: पाठ 49
+subtitle: "अथमैिक प्रत्ययकर्म के निर्माण (⟪⟪लोट्⟫⟫) अथमैिक वर्तमानकालीन मूलों का (अंत)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
+category: "व्याकरण"
+status: स्थिर
 ---
 
 # पाठ 49
@@ -190,7 +190,7 @@ status: stable
 
 :::
 ::: indent
-**चरकसंहिता:** चरकसंहिता से चयनित पाठ / अलोइस पायर द्वारा अनुवादित और टिप्पणी सहित \<1944 - \>। -- 0. परिचय। -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**चरकसंहिता:** चरकसंहिता से चयनित पाठ / अलोइस पायर द्वारा अनुवादित और टिप्पणी सहित \&lt;1944 - \&gt;। -- 0. परिचय। -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪⟪क्षिप्⟫⟫ 6P ⟪⟪क्षिपति⟫⟫ : फेंकना, छूटना
 

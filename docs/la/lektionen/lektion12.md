@@ -18,7 +18,7 @@ status: stable
 - Passivum et PPP radicum iam didactarum
 :::
 
-## 12.1. Partizip Perfekt Passiv (PPP)
+## 12.1. Partizip Perfekt Passivum (PPP)
 
 Una via ad passivam praeteriti temporis formandam est constructio cum dicto participio perfecti passivi (PPP).
 
@@ -63,7 +63,7 @@ Example:
 Constructio secundum schemata II multo rarior est quam constructio secundum schemata I.
 :::
 
-## 12.2. De pondere Participii Perfecti Passivi
+## 12.2. De pondere Participii Perfecti Passivumi
 
 Cum igitur participium perfecti passivi, quod dicitur, pro verbis transitivis primam passive significationem habet (**āpta** = “receptum (est)”) et pro verbis intransitivis et motis activam significationem (**gata** = “iit”), sunt aliqua verba, quibus PPP et activam et passivam significationem habere potest:
 
@@ -146,7 +146,7 @@ Apud formationes *aniṭ* sequentes leges coniunctionis phonematum in verbo obse
 | **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
-## 12.5. Wortliste
+## 12.5. Vocabularium
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्बुध्यतेबोधतिबुद्ध⟫ : evigilare, ad cognitionem evigilare, cognoscere; PPP **buddha** 3 evigilatus, ideo **Buddha** = "evigilatus" (non: illuminatus)
 
@@ -185,7 +185,7 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 :::
 - **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : cognitio, organum cognitionis.
 
-### 12.5.1. Passivum et participium perfecti passivi radicum hactenus didactarum
+### 12.5.1. Passivumum et participium perfecti passivi radicum hactenus didactarum
 
 | Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
@@ -234,7 +234,7 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-## 12.6. Übung
+## 12.6. Exercitium
 
 **A) Ex activis sententiis [Lectionis 7](/lektionen/lektion07), Exercitium A, formate passivas sententias praeteriti temporis, in verbis intransitivis et verbis motus activas sententias praeteriti temporis.**
 

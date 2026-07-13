@@ -39,7 +39,7 @@ Su c- e j- vegn -n- sustituid da -ñ-.
 :::
 ## 38.3. Declinaziun dals stems sin -n
 
-### 38.3.1. Nomina cun finala -an u nomins cun finala -man resp. -van suenter vocala
+### 38.3.1. Noms cun finala -an u noms cun finala -man resp. -van suenter vocala
 ::: grammar-box
 Nomins cun finala **-an** u nomins cun finala **-man** resp. **-van** suenter vocala han trais stams:
 
@@ -440,7 +440,7 @@ A) Inserir en las sentèncias suventas la furma correspundenta dals pleds en par
 
 ... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫)
 
-## 38.11. Wortliste zur Übersetzungsübung
+## 38.11. Glista da pleds per l'exercizi da translaziun
 
 ⟪प्राय⟫ m.: la suttana, instrumental ⟪प्रायेण⟫ : per ordinari, usitau (a ⟪प्र⟫-⟪इ⟫)
 
@@ -551,7 +551,7 @@ Inf. ⟪सर्तुम्⟫
 
 ⟪अधस्⟫ Adv.: vers
 
-## 38.12. Übersetzungsübung
+## 38.12. Exercizi da translaziun
 
 *⟪दश⟫* ⟪मूढाः⟫
 
