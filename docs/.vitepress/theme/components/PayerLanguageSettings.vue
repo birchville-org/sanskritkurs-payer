@@ -216,7 +216,7 @@ const LOCALE_TEXTS = {
     installedStatus: 'Web App ist installiert',
     installedHint: 'Die App läuft als eigenständige Anwendung.',
     unavailableStatus: 'Installation nicht verfügbar',
-    unavailableHint: 'Für PWA-Installation: HTTPS-Verbindung und moderner Browser (Chrome, Edge, Safari 16.4+) erforderlich.',
+    unavailableHint: 'Für PWA-Installation: HTTPS-Verbindung und moderner Browser (Chrome, Edge, Safari 16.4+) erforderlich (oder App ist bereits installiert).',
     preparingApp: 'App wird vorbereitet…',
   },
   en: {
@@ -234,7 +234,7 @@ const LOCALE_TEXTS = {
     installedStatus: 'Web App is installed',
     installedHint: 'The app is running as a standalone application.',
     unavailableStatus: 'Installation not available',
-    unavailableHint: 'For PWA installation: HTTPS connection and a modern browser (Chrome, Edge, Safari 16.4+) required.',
+    unavailableHint: 'For PWA installation: HTTPS connection and a modern browser (Chrome, Edge, Safari 16.4+) required (or app is already installed).',
     preparingApp: 'Preparing app…',
   },
   it: {
