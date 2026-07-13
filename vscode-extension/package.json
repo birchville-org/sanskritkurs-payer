@@ -1,0 +1,21 @@
+{
+  "name": "payer-sanskrit-tools",
+  "displayName": "Payer Sanskrit Tools",
+  "description": "Productivity snippets and tools for editing the Payer Sanskrit course",
+  "version": "1.0.0",
+  "publisher": "marcodem",
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Snippets"
+  ],
+  "contributes": {
+    "snippets": [
+      {
+        "language": "markdown",
+        "path": "./snippets/markdown.json"
+      }
+    ]
+  }
+}
