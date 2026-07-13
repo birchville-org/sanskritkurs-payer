@@ -25,7 +25,7 @@ export function filterSidebarByLocales() {
   
   // Skip if unchanged (performance optimization)
   if (lastActiveLocales && JSON.stringify(lastActiveLocales) === JSON.stringify(activeLocales)) {
-    // still apply — elements may have been added by navigation
+    return
   }
   lastActiveLocales = [...activeLocales]
   
@@ -37,91 +37,29 @@ export function filterSidebarByLocales() {
       currentLocale = currentLocaleMatch[1]
   }
   
-  // --- 1. Filter all <a> links with locale-prefixed hrefs ---
-  document.querySelectorAll('a[href]').forEach(a => {
-    const href = a.getAttribute('href')
-    if (!href) return
-    
-    // Match: /<locale>/ or /<locale> or /<locale>#...
-    // Ignore non-rooted links (mailto:, http://, etc.)
-    let locale = null
-    
-    if (href === '/' || href.startsWith('/#')) {
-      locale = 'de'
-    } else if (href.startsWith('/')) {
-      const m = href.match(/^\/([^/]+)(?=\/|$|#)/)
-      if (m && ALL_LOCALES.includes(m[1])) {
-          locale = m[1]
-      }
-    }
-    
-    if (!locale) {
-      // Non-locale link (asset, external, etc.) — leave visible
-      a.classList.remove('locale-hidden')
-      return
-    }
-    
-    // Always show current locale
-    if (locale === currentLocale) {
-      a.classList.remove('locale-hidden')
-      return
-    }
-    
-    // Hide if not in active locales
-    if (!activeLocales.includes(locale)) {
-      a.classList.add('locale-hidden')
-    } else {
-      a.classList.remove('locale-hidden')
-    }
-  })
+  // Build CSS rules to hide INACTIVE locales
+  const inactiveLocales = ALL_LOCALES.filter(loc => loc !== currentLocale && !activeLocales.includes(loc))
   
-  // --- 2. Hide locale group containers in sidebar/switcher ---
-  // VitePress Language Switcher wraps each locale option in a button/link
-  // These typically have data-value attributes — try to detect
-  document.querySelectorAll(
-    '.VPLocaleLink, ' +              // VitePress locale link
-    '[data-locale], ' +              // Generic locale marker
-    '.language-selector a, ' +       // Common selector
-    '.VPLink[lang]'                   // Lang-attributed link
-  ).forEach(el => {
-    const elLocale = el.getAttribute('data-locale')
-                 || el.getAttribute('lang')
-                 || null
-    
-    if (!elLocale) return
-    
-    const localeCode = elLocale.split('-')[0]  // 'en-US' → 'en', but wait! 'zh-CN' split by '-' is 'zh'!
-    // Actually VitePress uses the exact locale name, e.g. 'zh-CN'. Let's just use the exact match first.
-    // We should check ALL_LOCALES
-    let exactLocale = ALL_LOCALES.includes(elLocale) ? elLocale : (ALL_LOCALES.includes(localeCode) ? localeCode : null)
-    if (!exactLocale) exactLocale = elLocale // fallback to what we had
-    
-    if (exactLocale === currentLocale) {
-      el.classList.remove('locale-hidden')
-    } else if (!activeLocales.includes(exactLocale)) {
-      el.classList.add('locale-hidden')
-    } else {
-      el.classList.remove('locale-hidden')
-    }
-  })
+  let cssRules = inactiveLocales.map(loc => {
+      // Hide standard links to this locale, and hide VPMenuLink wrappers (for dropdowns)
+      return `
+        .VPNav a[href^="/${loc}/"], .VPNav a[href="/${loc}/"],
+        .VPSidebar a[href^="/${loc}/"], .VPSidebar a[href="/${loc}/"],
+        .VPMenuLink:has(a[href^="/${loc}/"]), .VPMenuLink:has(a[href="/${loc}/"]),
+        .VPLink[href^="/${loc}/"], .VPLink[href="/${loc}/"] {
+            display: none !important;
+        }
+      `
+  }).join('\n')
   
-  // --- 3. Hide locale <option> elements in any <select> ---
-  document.querySelectorAll('select option[value]').forEach(opt => {
-    const val = opt.getAttribute('value')
-    if (!val || !val.startsWith('/')) return
-    
-    const m = val.match(/^\/([^/]+)(?:\/|$)/)
-    let optLocale = 'de'
-    if (m && ALL_LOCALES.includes(m[1])) {
-        optLocale = m[1]
-    }
-    
-    if (optLocale === currentLocale || activeLocales.includes(optLocale)) {
-      opt.classList.remove('locale-hidden')
-    } else {
-      opt.classList.add('locale-hidden')
-    }
-  })
+  // Inject or update style tag
+  let styleEl = document.getElementById('payer-dynamic-locales')
+  if (!styleEl) {
+      styleEl = document.createElement('style')
+      styleEl.id = 'payer-dynamic-locales'
+      document.head.appendChild(styleEl)
+  }
+  styleEl.textContent = cssRules
 }
 
 /**

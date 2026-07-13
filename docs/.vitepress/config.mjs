@@ -19,15 +19,8 @@ import { ro } from './locales/ro.mjs'
 // ── hidden (planned for later versions) ───────────────────────────────────────
 import { ar } from './locales/ar.mjs'
 import { arc } from './locales/arc.mjs'
-import { zh } from './locales/zh.mjs'
-import { grc } from './locales/grc.mjs'
-import { el } from './locales/el.mjs'
-import { fa } from './locales/fa.mjs'
-import { akk } from './locales/akk.mjs'
-import { cop } from './locales/cop.mjs'
 import { id } from './locales/id.mjs'
 import { zhCN } from './locales/zh-CN.mjs'
-import { th } from './locales/th.mjs'
 import { he } from './locales/he.mjs'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
@@ -99,30 +92,9 @@ arc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'ܬܪܓܘܡܐ', 'ar
 he.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'שיעור', 'he', 10)
 he.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'כתב', 'he')
 he.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'תרגיל', 'he', 10)
-th.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'th', 10)
-th.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'th')
-th.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'th', 10)
-el.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Lesson', 'el', 10)
-el.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Script', 'el')
-el.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Exercise', 'el', 10)
-cop.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Lesson', 'cop', 10)
-cop.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Script', 'cop')
-cop.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Exercise', 'cop', 10)
-zh.themeConfig.sidebar[3].items = getSidebarItems('lektion', '第', 'zh', 10)
-zh.themeConfig.sidebar[4].items = getSidebarItems('schrift', '书写', 'zh')
-zh.themeConfig.sidebar[5].items = getSidebarItems('uebung', '练习', 'zh', 10)
 la.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Lectio', 'la', 10)
 la.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Scriptura', 'la')
 la.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Exercitatio', 'la', 10)
-grc.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Μάθημα', 'grc', 10)
-grc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Γραφή', 'grc')
-grc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Ἄσκησις', 'grc', 10)
-fa.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'درس', 'fa', 10)
-fa.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'خط', 'fa')
-fa.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'تمرین', 'fa', 10)
-akk.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Ṭupšarru', 'akk', 10)
-akk.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Šiṭru', 'akk')
-akk.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Birku', 'akk', 10)
 
 id.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Pelajaran', 'id', 10)
 id.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Aksara', 'id')
@@ -137,7 +109,7 @@ he.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'כתב', 'he')
 he.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'תרגיל', 'he', 10)
 
 const isAuthorBuild = process.env.VITEPRESS_ENV === 'author';
-const allLocales = [de, en, it, ru, uk, hi, fr, es, ta, pa, ro, id, he, bg, la, rm, ar, arc, zh, grc, fa, akk, zhCN];
+const allLocales = [de, en, it, ru, uk, hi, fr, es, ta, pa, ro, id, he, bg, la, rm, ar, arc, zhCN];
 
 if (!isAuthorBuild) {
   for (const localeObj of allLocales) {
@@ -183,16 +155,11 @@ export default defineConfig({
     pa: { ...pa },
     la: { ...la },
     rm: { ...rm },
-    ro: { ...ro },
     id: { ...id },
     'zh-CN': { ...zhCN },
     he: { ...he },
     ar: { ...ar },
     arc: { ...arc },
-    zh: { ...zh },
-    grc: { ...grc },
-    fa: { ...fa },
-    akk: { ...akk },
   },
   
   themeConfig: {
@@ -226,7 +193,7 @@ export default defineConfig({
             prefix: function(term) { return term.length >= 4; },
             boost: { title: 5, text: 1, titles: 3 },
             filter: function(result) {
-              const ACTIVE = ['en','it','ru','uk','hi','fr','es','ta','pa','la','rm','ro','id','he','bg','ar','arc','zh','grc','fa','akk','zh-CN'];
+              const ACTIVE = ['en','it','ru','uk','hi','fr','es','ta','pa','la','rm','ro','id','he','bg','ar','arc','zh-CN'];
               const seg = (typeof window !== 'undefined' ? window.location.pathname : '/').split('/').filter(Boolean)[0] || '';
               if (ACTIVE.includes(seg)) {
                 // Sprachseite: nur Ergebnisse dieser Sprache
@@ -257,12 +224,8 @@ export default defineConfig({
           rm: { translations: { button: { buttonText: 'Tschertgar' } } },
           ar: { translations: { button: { buttonText: 'بحث' } } },
           arc: { translations: { button: { buttonText: 'ܒܥܬܐ' } } },
-          zh: { translations: { button: { buttonText: '搜索' } } },
           la: { translations: { button: { buttonText: 'Quaerere' } } },
-          grc: { translations: { button: { buttonText: 'Ζητεῖν' } } },
-          fa: { translations: { button: { buttonText: 'جستجو' } } },
-          akk: { translations: { button: { buttonText: 'Šâlu' } } },
-          cop: { translations: { button: { buttonText: 'ϣⲓⲛⲓ' } } },
+          sq: { translations: { button: { buttonText: 'Kërko' } } }
         }
       }
     }
