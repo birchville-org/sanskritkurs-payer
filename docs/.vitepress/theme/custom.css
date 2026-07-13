@@ -939,3 +939,83 @@ select.control-btn,
 .VPNavBarTranslations .action:hover {
   background-color: var(--color-parchment-dark, #f1eee7) !important;
 }
+
+
+/* ── PRINT STYLES (Stufe 1) ──────────────────────────────────────────────── */
+@media print {
+  /* 1. Hide UI Elements */
+  .VPNav,
+  .VPSidebar,
+  .VPDocAside,
+  .VPDocFooter,
+  .VPFooter,
+  .VPLocalNav,
+  #payer-qa-tools,
+  .clean-btn,
+  .pager,
+  .edit-link,
+  .last-updated,
+  button {
+    display: none !important;
+  }
+
+  /* 2. Reset Layout to Full Width */
+  #app, .Layout, .VPContent, .VPDoc, .vp-doc, .container {
+    padding: 0 !important;
+    margin: 0 !important;
+    max-width: 100% !important;
+    width: 100% !important;
+  }
+  
+  .VPContent.has-sidebar {
+    padding-left: 0 !important;
+  }
+
+  /* 3. Typography & Colors (Force light mode) */
+  body, html {
+    background: white !important;
+    color: black !important;
+    font-size: 11pt !important;
+  }
+  .vp-doc h1, .vp-doc h2, .vp-doc h3, .vp-doc h4, .vp-doc p, .vp-doc li, .vp-doc td, .vp-doc th {
+    color: black !important;
+  }
+  
+  /* Borders and Boxes */
+  .grammar-box, .indent, .deleteme-box {
+    border: 1px solid #ccc !important;
+    background: transparent !important;
+    box-shadow: none !important;
+  }
+
+  /* 4. Page Breaks */
+  h1, h2, h3 {
+    page-break-after: avoid !important;
+    break-after: avoid !important;
+    margin-top: 2em !important;
+  }
+  h1 {
+    page-break-before: always !important;
+    break-before: page !important;
+  }
+  /* First H1 doesn't need a break before */
+  .vp-doc > h1:first-child {
+    page-break-before: avoid !important;
+    break-before: avoid !important;
+    margin-top: 0 !important;
+  }
+  
+  table, tr, img, .grammar-box, .deleteme-box, .indent {
+    page-break-inside: avoid !important;
+    break-inside: avoid !important;
+  }
+  
+  /* Tables */
+  table {
+    border-collapse: collapse !important;
+    width: 100% !important;
+  }
+  th, td {
+    border: 1px solid #999 !important;
+  }
+}
