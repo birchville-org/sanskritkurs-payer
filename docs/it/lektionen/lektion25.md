@@ -1,4 +1,4 @@
-[0] ---
+---
 titolo: Lezione 25
 sottotitolo: "Formazione dell'ablativo (⟪पञ्चमी⟫ = \"quinta desinenza casuale\")"
 lesson_id: 25

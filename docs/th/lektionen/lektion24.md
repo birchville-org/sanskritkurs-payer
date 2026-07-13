@@ -261,9 +261,9 @@ Abb.: ⟪ऊहापोहः⟫
 ::: media
 ![](/images/lekt2408.webp)
 Abb.: ⟪आख्यानम्⟫
-"San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
-(Bildquelle: [Details](/th/licenses#lekt2408))
-::: <!-- TODO: Fallback translation -->
+"นักเล่าเรื่องจากซานฟรานซิสโก เจฟ ไบเออร์ส เล่าเรื่องราวให้ชาวเมืองเชนเนรี หมู่บ้านอิรูลาฟัง นักเล่าเรื่องจีวา ราชุนัท แปลเป็นภาษาทมิฬให้ชาวบ้านฟัง"
+(แหล่งที่มาของภาพ: [รายละเอียด](/th/licenses#lekt2408))
+:::
 
 :::
 ::: indent

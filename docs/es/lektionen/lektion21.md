@@ -1,4 +1,4 @@
-[0] ---
+---
 title: Lección 21
 subtitle: "Otras raíces de presente en -nt"
 lesson_id: 21

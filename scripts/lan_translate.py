@@ -5,6 +5,7 @@ import time
 import sys
 import re
 import datetime
+import hashlib
 
 # Configuration
 API_URL = "http://nyx.local:8088/v1/chat/completions"
@@ -12,7 +13,7 @@ MODEL = "mlx-community--Qwen3.6-35B-A3B-4bit"
 LANGUAGES = [
     "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "ta", "pa",
     "la", "rm", "ro", "id", "zh-CN", "he", "ar", "arc",
-    "th", "el", "cop"
+    "th", "el", "cop", "grc", "fa", "nl", "af", "lt", "sh", "sq", "akk", "am", "gez"
 ]
 LANG_NAMES = {
     "en": "English", "it": "Italian", "es": "Spanish",
@@ -23,7 +24,7 @@ LANG_NAMES = {
     "th": "Thai", "he": "Hebrew",
     "ar": "Arabic", "arc": "Aramaic",
 #    "zh": "Mandarin Chinese",
-    "grc": "Ancient Greek", "el": "Modern Greek",
+    "grc": "Ancient Greek", "el": "Modern Greek", "am": "Amharic", "gez": "Ge\'ez",
     "fa": "Persian (Farsi)", "akk": "Akkadian", "cop": "Coptic",
 }
 LESSONS = list(range(1, 62))
@@ -131,6 +132,22 @@ LICENSES_LABELS = {
         "title": "Ἔλεγχος Ἀδειῶν Εἰκόνων",
         "col1": "Ἀρχεῖον", "col2": "Εὑρεθεῖσα Πληροφορία Πηγῆς", "col3": "Προεπισκόπησις",
         "no_license": "Οὐδεμία εἰδικὴ ἄδεια οὐδὲ πηγὴ εἰκόνος εὑρέθη ἐν τῷ κειμένῳ",
+    },
+    "am": {
+        "title": "የሳንስክሪት ኮርስ",
+        "author": "Alois Payer",
+        "description": "የሳንስክሪት ሰዋሰው መማሪያ መጽሐፍ",
+        "lesson": "ትምህርት",
+        "script": "ጽሑፍ",
+        "exercise": "መልመጃ"
+    },
+    "gez": {
+        "title": "ትምህርተ ሳንስክሪት",
+        "author": "Alois Payer",
+        "description": "መጽሐፈ ሰዋስው ዘሳንስክሪት",
+        "lesson": "ትምህርት",
+        "script": "ጽሑፍ",
+        "exercise": "መልመጃ"
     },
     "el": {
         "title": "Έλεγχος Αδειών Εικόνων",
@@ -556,6 +573,22 @@ LICENSES_PHRASES = {
         "Beschriftung:": "Ἐπιγραφή:",
         "Lehrgangsmaterial": "Ὕλη μαθήματος",
     },
+    "am": {
+        "title": "የሳንስክሪት ኮርስ",
+        "author": "Alois Payer",
+        "description": "የሳንስክሪት ሰዋሰው መማሪያ መጽሐፍ",
+        "lesson": "ትምህርት",
+        "script": "ጽሑፍ",
+        "exercise": "መልመጃ"
+    },
+    "gez": {
+        "title": "ትምህርተ ሳንስክሪት",
+        "author": "Alois Payer",
+        "description": "መጽሐፈ ሰዋስው ዘሳንስክሪት",
+        "lesson": "ትምህርት",
+        "script": "ጽሑፍ",
+        "exercise": "መልመጃ"
+    },
     "el": {
         "Abb.:": "Εικ.:",
         "Bildquelle:": "Πηγή εικόνας:",
@@ -781,7 +814,7 @@ def translate_text(text, target_lang):
         "(1) Translate every German word — including captions, image descriptions, verse translations, and prose. "
         "(2) Preserve unchanged: Markdown syntax, IAST transliterations, YAML frontmatter keys, HTML comments, ⟨DEVA_N⟩ placeholders, ⟨IAST_L_N⟩ placeholders, ⟨BR⟩ placeholders, and ⟨STRUCT_N⟩ placeholders. "
         f"(3) Translate '# Lektion N' headings to the target-language equivalent (e.g. '# Lesson N' in English, '# Lezione N' in Italian, '# Lección N' in Spanish, '# Урок N' in Russian/Ukrainian/Bulgarian, '# पाठ N' in Hindi, '# Leçon N' in French, '# Lecziun N' in Romansh Grischun, '# பாடம் N' in Tamil, '# ਪਾਠ N' in Punjabi, '# الدرس N' in Arabic, '# ܡܠܦܢܘܬܐ N' in Aramaic, '# שיעור N' in Hebrew, '# 第N课' in Mandarin Chinese, '# บทที่ N' in Thai, '# Lectio N' in Latin, '# Μάθημα N' in Ancient Greek, '# Μάθημα N' in Modern Greek, '# درس N' in Persian, '# Ṭupšarru N' in Akkadian, '# ⲙⲁⲑⲏⲙⲁ N' in Coptic). "
-        "(4) NEVER add TODO comments, fallback markers, or any annotations of your own. If unsure how to translate something, translate it as best you can. "
+        "(4) NEVER add TODO comments, fallback markers, or any annotations of your own. If unsure how to translate a word or sentence into the target language, translate it into English as a fallback (NEVER leave it in German). "
         "(5) Keep the scholarly editorial tone throughout. "
         "(6) CRITICAL: Preserve the exact line count of the source. Every source line must appear as exactly one output line. NEVER delete, merge, or collapse lines. "
         "(6a) CRITICAL: Each non-empty line of the input is prefixed with a bracketed identifier like [L0], [L1], [L2]... You MUST preserve these identifiers exactly at the start of each translated line. Do not translate, modify, or remove them. "
@@ -874,7 +907,7 @@ def translate_text(text, target_lang):
                 restored_lines = [None] * len(source_lines)
                 unmatched_lines = []
                 for r_line in result_lines:
-                    m = re.match(r'^\s*\[[LЛlл](\d+)\]\s*(.*)$', r_line)
+                    m = re.match(r'^\s*\[[LЛlл]?(\d+)\]\s*(.*)$', r_line)
                     if m:
                         idx = int(m.group(1))
                         content = m.group(2)
@@ -892,7 +925,7 @@ def translate_text(text, target_lang):
                     if src_l.strip():
                         if restored_lines[idx] is None:
                             if unmatched_idx < len(unmatched_lines):
-                                clean_line = re.sub(r'^\s*\[[LЛlл]\d+\]\s*', '', unmatched_lines[unmatched_idx])
+                                clean_line = re.sub(r'^\s*\[[LЛlл]?\d+\]\s*', '', unmatched_lines[unmatched_idx])
                                 restored_lines[idx] = clean_line
                                 unmatched_idx += 1
                             else:
@@ -1103,6 +1136,29 @@ def fix_lesson_links(content, lang):
     return re.sub(r'\((/licenses[^)]*)\)', replace, content)
 
 
+def get_tm_path(lang):
+    tm_dir = os.path.join(BASE_DIR, ".zennotes", "tm")
+    os.makedirs(tm_dir, exist_ok=True)
+    return os.path.join(tm_dir, f"{lang}.json")
+
+def load_tm(lang):
+    p = get_tm_path(lang)
+    if os.path.exists(p):
+        try:
+            with open(p, "r", encoding="utf-8") as f:
+                return json.load(f)
+        except json.JSONDecodeError:
+            pass
+    return {}
+
+def save_tm(lang, tm):
+    p = get_tm_path(lang)
+    with open(p, "w", encoding="utf-8") as f:
+        json.dump(tm, f, ensure_ascii=False, indent=2)
+
+def hash_chunk(chunk):
+    return hashlib.md5(chunk.encode('utf-8')).hexdigest()
+
 def translate_file(source_path, target_path, lang, post_process=None, force=False):
     """Translate a single file with mtime-based skip and chunking. Returns True on success."""
     filename = os.path.basename(source_path)
@@ -1113,8 +1169,10 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
         with open(target_path, 'r', encoding='utf-8') as tf:
             target_content = tf.read()
         has_fallback = "Fallback translation" in target_content
+        source_mtime = os.path.getmtime(source_path)
+        target_mtime = os.path.getmtime(target_path)
 
-        if not has_fallback:
+        if not has_fallback and source_mtime <= target_mtime:
             print(f"[{lang}] Skipping {filename} (up to date, no fallback tags).")
             return True
         
@@ -1227,12 +1285,23 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
         if yaml_block:
             translated_chunks.append(yaml_block)
             
+        tm_cache = load_tm(lang)
+        tm_updated = False
+        
         for i, chunk in enumerate(chunks, 1):
             if not chunk.strip():
                 translated_chunks.append(chunk)
                 continue
+                
+            chunk_hash = hash_chunk(chunk)
+            if chunk_hash in tm_cache:
+                ts = time.strftime('%H:%M:%S')
+                print(f"[{ts}]  -> section {i}/{len(chunks)}... (TM CACHE HIT)")
+                translated_chunks.append(tm_cache[chunk_hash])
+                continue
+                
             ts = time.strftime('%H:%M:%S')
-            print(f"[{ts}]  -> section {i}/{len(chunks)}...")
+            print(f"[{ts}]  -> section {i}/{len(chunks)}... (LLM API)")
             
             result_tuple = translate_text(chunk, lang)
             result = result_tuple[0]
@@ -1241,7 +1310,13 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
             if result.startswith("ERROR:"):
                 print(f"  [!] Failed chunk {i}: {result}")
                 return False
+                
+            tm_cache[chunk_hash] = result
+            tm_updated = True
             translated_chunks.append(result)
+
+        if tm_updated:
+            save_tm(lang, tm_cache)
 
         translated = '\n\n'.join(translated_chunks)
 
@@ -1564,7 +1639,7 @@ def sonnet_patch_residues(content: str, flagged_lines: list, target_lang: str) -
     # Parse Sonnet's response and apply corrections
     patched_lines = list(lines)  # copy
     for resp_line in patched_text.split('\n'):
-        m = re.match(r'^\[L(\d+)\](?:>>)?\s*(.*)', resp_line.strip())
+        m = re.match(r'^\[[LЛlл]?(\d+)\](?:>>)?\s*(.*)', resp_line.strip())
         if m:
             idx = int(m.group(1))
             corrected = m.group(2)

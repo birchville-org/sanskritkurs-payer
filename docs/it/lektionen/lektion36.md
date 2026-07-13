@@ -1,4 +1,4 @@
-[0] ---
+---
 titolo: Lezione 36
 sottotitolo: "Formazioni speciali del perfetto"
 lesson_id: 36

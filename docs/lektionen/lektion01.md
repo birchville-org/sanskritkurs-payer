@@ -137,7 +137,7 @@ Die Laute des Sanskrit nach der traditionellen indischen Klassifikation und ihre
 ![](/images/lekt0106.webp)
 (Bildquelle: [Details](/licenses#lekt0106))
 :::
-Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikation angeordnet. Diese Klassifikation und die Reihenfolge der Laute ist zum Verständnis der Sanskrit-Grammatik unerlässlich und muss deshalb auswendig gewusst werden:
+Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikation angeordnet. Diese Klassifikation ist zum Verständnis der Sanskrit-Grammatik unerlässlich und muss deshalb auswendig gewusst werden:
 
 ::: note-box
 Klassifikation

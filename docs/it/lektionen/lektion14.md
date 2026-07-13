@@ -1,4 +1,4 @@
-[0] ---
+---
 titolo: Lezione 14
 sottotitolo: "L'espressione della relazione tra entità designate da sostantivi: il genitivo (ṣaṣṭhī f. = ⟪षष्टी⟫ = sesta desinenza casuale)"
 lesson_id: 14

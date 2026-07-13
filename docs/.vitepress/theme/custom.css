@@ -212,6 +212,14 @@ html {
   font-size: 1.15em;
   font-weight: 600;
   margin: 0;
+  direction: ltr;
+  unicode-bidi: isolate;
+}
+
+/* RTL Isolation for code blocks */
+html[dir="rtl"] code {
+  direction: ltr;
+  unicode-bidi: isolate;
 }
 
 /* Hindi Devanagari — same font as Sanskrit but no color override */

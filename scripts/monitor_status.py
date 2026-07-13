@@ -13,6 +13,12 @@ def pad_str(s, width):
 ROOT = Path(__file__).parent.parent
 DOCS = ROOT / "docs"
 
+ACTIVE_LANGS = [
+    'de', 'en', 'it', 'es', 'fr', 'hi', 'bg', 'ru', 'uk', 'ta', 'pa', 
+    'la', 'rm', 'ro', 'he', 'id', 'zh-CN', 'ar', 'arc', 'th', 'el', 'cop',
+    'grc', 'fa', 'nl', 'af', 'lt', 'sh', 'sq', 'akk', 'am', 'gez'
+]
+
 LANGS = {
     "de": ("Deutsch",  DOCS / "lektionen"),
     "en": ("English",  DOCS / "en/lektionen"),
@@ -34,8 +40,18 @@ LANGS = {
     "ar": ("العربية",   DOCS / "ar/lektionen"),
     "arc": ("ܐܪܡܝܐ",    DOCS / "arc/lektionen"),
     "th": ("ไทย",      DOCS / "th/lektionen"),
+    "am": ("አማርኛ", DOCS / "am/lektionen"),
+    "gez": ("ግዕዝ", DOCS / "gez/lektionen"),
     "el": ("Ελληνικά", DOCS / "el/lektionen"),
     "cop": ("ⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ", DOCS / "cop/lektionen"),
+    "grc": ("Ἀρχαία", DOCS / "grc/lektionen"),
+    "fa": ("فارسی", DOCS / "fa/lektionen"),
+    "nl": ("Nederlands", DOCS / "nl/lektionen"),
+    "af": ("Afrikaans", DOCS / "af/lektionen"),
+    "lt": ("Lietuvių", DOCS / "lt/lektionen"),
+    "sh": ("Srpskohrvatski", DOCS / "sh/lektionen"),
+    "sq": ("Shqip", DOCS / "sq/lektionen"),
+    "akk": ("Akkadian", DOCS / "akk/lektionen"),
 }
 
 def count_files(d, pattern):

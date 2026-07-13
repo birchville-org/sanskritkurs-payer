@@ -28,7 +28,12 @@ LANG_NAMES = {
     'he': 'Hebrew',
     'id': 'Indonesian',
     'ar': 'Arabic',
-    'arc': 'Aramaic'
+    'arc': 'Aramaic',
+    'nl': 'Dutch',
+    'af': 'Afrikaans',
+    'lt': 'Lithuanian',
+    'sh': 'Serbo-Croatian',
+    'sq': 'Albanian'
 }
 
 def translate_mjs(filepath, lang_code):

@@ -266,10 +266,10 @@ Siemreap (ក្រុងសៀមរាប), กัมพูชา, ศตว�
 ::: media
 ![](/images/lekt2008.webp)
 ภาพ: ⟪आश्रमः⟫
-Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool."
-(แหล่งที่มาของภาพ: [รายละเอียด](/th/licenses#lekt2008))
+ฤๅษีเกษ = ⟪ऋषिकेश⟫. "นี่เป็นส่วนหนึ่งของอาศรมในฤๅษีเกะที่เดอะบีเทิลส์เคยพัก ที่นี่เป็นส่วนนั้นไม่ได้มีอยู่ตอนที่พวกเขาอยู่ที่นั่น แต่ดูน่าทึ่งดี"
+(ที่มาของภาพ: [รายละเอียด](/th/licenses#lekt2008))
 :::
-⟪कर⟫ ⟪३⟫ กิต. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : ผู้กระทำ, ผู้สร้าง, ผู้ก่อให้เกิด <!-- TODO: Fallback translation -->
+⟪कर⟫ ⟪३⟩ กิต. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : ผู้กระทำ, ผู้สร้าง, ผู้ก่อให้เกิด
 
 ⟪कर⟫ นาม.: มือ (เกี่ยวข้องกับ ⟪कृ⟫ 8)
 
@@ -589,7 +589,7 @@ B) Переведите на санскрит, используя составн
 
 **lekt2007:** Chennai = சென்னை [แหล่งที่มาของภาพ: calamur. -- http://www.flickr.com/photos/gargi/162477734/. -- เข้าถึงเมื่อ 2008-12-11. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อผู้สร้าง ห้ามใช้เพื่อการค้า ห้ามดัดแปลง)]
 
-**lekt2008:** Rishikesh = ⟪ऋषिकेश⟫. "This is actually part of the Ashram in Rishikesh where the Beatles stayed. This specific part was not there when they were there, but it does look cool." [แหล่งที่มาของภาพ: โดย ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- เข้าถึงเมื่อ 2008-12-11. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อผู้สร้าง)] <!-- TODO: Fallback translation -->
+**lekt2008:** ṛṣikeśa = ⟪ऋषिकेश⟫. "นี่เป็นส่วนหนึ่งของอาศรมในริชิเกศที่เดอะบีเทิลส์เคยพัก ที่นี่ไม่ได้มีอยู่ตอนพวกเขาอยู่ที่นั่น แต่ดูน่าทึ่งมาก" [แหล่งที่มาของภาพ: โดย ogimogi. -- http://www.flickr.com/photos/ogimogi/284517677/. -- เข้าถึงเมื่อ 2008-12-11. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อผู้สร้าง)]
 
 **lekt2009:** Karnataka [แหล่งที่มาของภาพ: mattlogelin. -- http://www.flickr.com/photos/mattlogelin/188758072/. -- เข้าถึงเมื่อ 2008-12-11. -- ใบอนุญาตครีเอทีฟคอมมอนส์ (ระบุชื่อผู้สร้าง ห้ามใช้เพื่อการค้า)]
 
