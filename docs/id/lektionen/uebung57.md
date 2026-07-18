@@ -112,6 +112,7 @@ Determine and translate the following forms:
 | ⟪५४⟫. | **⟪आदिषि⟫** | *⟪आ⟫-⟪दा⟫* 3Ā: 1. Sg. s-Aor. Ā. (saya mengambil) |
 | ⟪५५⟫. | **⟪पाणी⟫** | *⟪पाणि⟫* m.: Nom. Acc. Voc. Du. (kedua tangan) |
 | ⟪५६⟫. | **⟪अस्प्राक्षम्⟫** | *⟪स्पृश्⟫* 6P: 1. Sg. s-Aor. P. (saya menyentuh) |
+:::
 ::: media
 ![](/images/uebung094.webp)
 Fig.: ⟪पाणी⟫ ⟪धूपं⟫ ⟪कुरुतः⟫ ⟪॥⟫

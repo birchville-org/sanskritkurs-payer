@@ -51,7 +51,6 @@ Alcune radici con vocale lunga la accorciano prima del suffisso della radice del
 
 Example:
 
-:::
 ::: indent
 ⟪पू⟫ 9U "purify"
 :::
@@ -275,6 +274,7 @@ Inf. ⟪क्रेतुम्⟫
 
 ::: indent
 מִתְלַבָּשׁ ⟪विक्रीय⟫
+:::
 ::: media
 ![](/images/lekt3001.webp)
 דִּמְיוֹן: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫

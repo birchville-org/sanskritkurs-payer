@@ -204,6 +204,7 @@ Example: ⟪सुचिरम्⟫ "very long (time)"
 Bei der Auflösung des Kompositums würde das Vorderglied das Hinterglied regieren:
 
 Examples:
+:::
 ::: indent
 ⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "against the fire"
 

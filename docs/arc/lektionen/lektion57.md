@@ -17,6 +17,7 @@ status: stable
 **Formation: Augment + Root + s + athematic secondary ending**
 Table of endings with stem-forming suffix
 
+:::
 ::: grammar-box
 
 |   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||

@@ -351,6 +351,7 @@ Verbs that follow this type:
 *   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
 
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
+:::
 ## 40.3. Pembentukan bentuk kata kerja orang pertama dari sempurna periphrastik (⟪अनुप्रयोगलिट्⟫)
 
 The periphrastic perfect is formed from:

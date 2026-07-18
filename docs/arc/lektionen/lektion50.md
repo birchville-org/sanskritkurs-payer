@@ -198,6 +198,7 @@ Perf. ⟪चचक्षे⟫
 
 ⟪देश⟫ m.: place, location, country, region
 
+:::
 ## 50.3. ܬܪܓܠܐ ܕܬܘܪܓܡܐ
 
 A) Zur Wiederholung der Deklination: folgender Vers enthält alle Deklinationsformen im Singular zu ⟪गुरु⟫ m.:
