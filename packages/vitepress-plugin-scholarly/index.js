@@ -74,7 +74,7 @@ module.exports = function scholarlyPlugin(md, options = {}) {
         let newChildren = [];
         token.children.forEach(child => {
           if (child.type === 'text') {
-            const SCHOLARLY_RE = /([⟪《][^⟫⟩》]+[⟫⟩》]|sig\\[.*?\\]|(?<!:):br|(?<!:):indent)/g;
+            const SCHOLARLY_RE = /([⟪《][^⟫⟩》]+[⟫⟩》](?:\s*\|\|?)?|sig\\[.*?\\]|(?<!:):br|(?<!:):indent)/g;
             if (!SCHOLARLY_RE.test(child.content)) {
               newChildren.push(child);
               return;
@@ -84,9 +84,19 @@ module.exports = function scholarlyPlugin(md, options = {}) {
               const parts = content.split(SCHOLARLY_RE);
               parts.forEach(part => {
                 if (!part) return;
-                if (part.match(/^[⟪《].*[⟫⟩》]$/)) {
+                if (part.match(/^[⟪《].*[⟫⟩》](?:\s*\|\|?)?$/)) {
+                  let innerText = part.replace(/^[⟪《]|(?:[⟫⟩》](?:\s*\|\|?)?)$/g, '');
+                  const pipeMatch = part.match(/[⟫⟩》](\s*)(\|\|?)$/);
+                  let dandaHtml = '';
+                  if (pipeMatch) {
+                      const space = pipeMatch[1];
+                      const pipe = pipeMatch[2];
+                      const danda = pipe === '||' ? '॥' : '।';
+                      dandaHtml = `${space}${danda}`;
+                  }
+                  
                   const span = new state.Token('html_inline', '', 0);
-                  span.content = `<span class="sanskrit-dev" translate="no" lang="sa">${part.slice(1, -1)}</span>`;
+                  span.content = `<span class="sanskrit-dev" translate="no" lang="sa">${innerText}${dandaHtml}</span>`;
                   newChildren.push(span);
                 } else if (part.match(/^sig\\[.*\\]$/) && !isInsideSig) {
                   const spanOpen = new state.Token('html_inline', '', 0);

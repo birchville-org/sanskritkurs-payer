@@ -10,10 +10,9 @@ last_reconstructed: 2026-04-30
 # पाठ 1
 
 ::: center
-center
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
-Verehrung des Gaṇeśa
+गणेश की आराधना
 :::
 
 ::: media
@@ -40,7 +39,6 @@ sarvakāryeṣu sarvadā |**
 :::
 
 ::: center
-center
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "शुभ आरंभ"
@@ -66,7 +64,7 @@ pārvatīparameśvarau |**
 (कालिदास: रघुवंश 1.1)
 
 मैं संसार के माता-पिता को नमस्कार करता हूँ,
-Pārvatī und Śiva,
+पार्वती और शिव,
 जो इतने दृढ़ता से आपस में जुड़े हुए हैं
 शब्द और अर्थ के समझ के लिए
 शब्द के अर्थ के।

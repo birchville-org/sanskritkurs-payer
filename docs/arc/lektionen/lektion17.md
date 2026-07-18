@@ -253,7 +253,7 @@ Bangalore = ಬೆಂಗಳೂರು
 
 davon:
 
-[0] ::: indent
+::: indent
 ⟪आसन⟫ n.: ܐܘܬܒܐ, כܣܪ; גܘ̈ܠ ܡܕܒܪ ܝܓܝܢ
 
 ::: media

@@ -22,6 +22,11 @@ import { arc } from './locales/arc.mjs'
 import { id } from './locales/id.mjs'
 import { zhCN } from './locales/zh-CN.mjs'
 import { he } from './locales/he.mjs'
+import { el } from './locales/el.mjs'
+import { th } from './locales/th.mjs'
+import { grc } from './locales/grc.mjs'
+// import { fi } from './locales/fi.mjs'
+// import { hu } from './locales/hu.mjs'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
 const multimd_table = require('markdown-it-multimd-table')
@@ -104,12 +109,32 @@ zhCN.themeConfig.sidebar[5].items = getSidebarItems('lektion', '第', 'zh-CN', 1
 zhCN.themeConfig.sidebar[6].items = getSidebarItems('schrift', '书写', 'zh-CN')
 zhCN.themeConfig.sidebar[7].items = getSidebarItems('uebung', '练习', 'zh-CN', 10)
 
+// fi.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Oppitunti', 'fi', 10)
+// fi.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Kirjoitusjärjestelmä', 'fi')
+// fi.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Harjoitus', 'fi', 10)
+
+// hu.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lecke', 'hu', 10)
+// hu.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Írásrendszer', 'hu')
+// hu.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Gyakorlat', 'hu', 10)
+
+el.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Μάθημα', 'el', 10)
+el.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Γραφή', 'el')
+el.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Άσκηση', 'el', 10)
+
+th.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'บทที่', 'th', 10)
+th.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'ตัวอักษร', 'th')
+th.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'แบบฝึกหัด', 'th', 10)
+
 he.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'שיעור', 'he', 10)
 he.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'כתב', 'he')
 he.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'תרגיל', 'he', 10)
 
+grc.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Μάθημα', 'grc', 10)
+grc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Γραφή', 'grc')
+grc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Ἄσκησις', 'grc', 10)
+
 const isAuthorBuild = process.env.VITEPRESS_ENV === 'author';
-const allLocales = [de, en, it, ru, uk, hi, fr, es, ta, pa, ro, id, he, bg, la, rm, ar, arc, zhCN];
+const allLocales = [de, en, it, ru, uk, hi, fr, es, ta, pa, ro, id, he, bg, la, rm, ar, arc, zhCN, el, th, grc];
 
 if (!isAuthorBuild) {
   for (const localeObj of allLocales) {
@@ -160,6 +185,12 @@ export default defineConfig({
     he: { ...he },
     ar: { ...ar },
     arc: { ...arc },
+    el: { ...el },
+    th: { ...th },
+    ro: { ...ro },
+    grc: { ...grc },
+    // fi: { ...fi },
+    // hu: { ...hu },
   },
   
   themeConfig: {
@@ -193,7 +224,7 @@ export default defineConfig({
             prefix: function(term) { return term.length >= 4; },
             boost: { title: 5, text: 1, titles: 3 },
             filter: function(result) {
-              const ACTIVE = ['en','it','ru','uk','hi','fr','es','ta','pa','la','rm','ro','id','he','bg','ar','arc','zh-CN'];
+              const ACTIVE = ['en','it','ru','uk','hi','fr','es','ta','pa','la','rm','ro','id','he','bg','ar','arc','zh-CN','el','th','grc'];
               const seg = (typeof window !== 'undefined' ? window.location.pathname : '/').split('/').filter(Boolean)[0] || '';
               if (ACTIVE.includes(seg)) {
                 // Sprachseite: nur Ergebnisse dieser Sprache
@@ -225,7 +256,11 @@ export default defineConfig({
           ar: { translations: { button: { buttonText: 'بحث' } } },
           arc: { translations: { button: { buttonText: 'ܒܥܬܐ' } } },
           la: { translations: { button: { buttonText: 'Quaerere' } } },
-          sq: { translations: { button: { buttonText: 'Kërko' } } }
+          sq: { translations: { button: { buttonText: 'Kërko' } } },
+          el: { translations: { button: { buttonText: 'Αναζήτηση' } } },
+          th: { translations: { button: { buttonText: 'ค้นหา' } } },
+          ro: { translations: { button: { buttonText: 'Căutare' } } },
+          grc: { translations: { button: { buttonText: 'Ἀναζήτησις' } } }
         }
       }
     }

@@ -347,7 +347,7 @@ Verbs that follow this type:
 :::
 ⟪जि⟫ 1st person
 
-[0] ::: indent
+::: indent
 *   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
 
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)

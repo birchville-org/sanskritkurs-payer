@@ -117,7 +117,7 @@ Examples:
 * einerseits eine verlängerte Stufe einer der Ablautreihen mit -a-
 * on the other hand, high grade in an ablaut series of the ā-group
 
-[0] Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 ::: grammar-box
 **A.**

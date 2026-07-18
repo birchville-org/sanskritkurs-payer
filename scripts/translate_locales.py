@@ -13,7 +13,7 @@ LANG_NAMES = {
     'el': 'Modern Greek',
     'cop': 'Coptic (Bohairic)',
     'hi': 'Hindi',
-    'rm': 'Romansh Grischun',
+    'rm': 'Rumantsch Grischun',
     'ru': 'Russian',
     'it': 'Italian',
     'en': 'English',

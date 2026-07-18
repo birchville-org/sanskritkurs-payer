@@ -111,7 +111,7 @@ Economics is a science.
 
 ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫
 
-[0] The three twice-born castes are: Brahmin, Kṣatriya, and Vaiśya.
+The three twice-born castes are: Brahmin, Kṣatriya, and Vaiśya.
 
 3\. dvijā vaiśyāḥ. (2 possibilities)
 

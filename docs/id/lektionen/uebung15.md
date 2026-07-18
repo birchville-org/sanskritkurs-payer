@@ -79,7 +79,7 @@ Fig.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 
 ## Additional Exercises
 
-[0] Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German translation. Provide all resolutions and translations that seem possible to you. Also indicate which case and number the entire compound represents.
+Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German translation. Provide all resolutions and translations that seem possible to you. Also indicate which case and number the entire compound represents.
 
 ⟪१⟫. ⟪देवेन्द्रस्य⟫ ⟪।⟫ ⟪देवानामिन्द्रस्य⟫ — dari pangeran para dewa
 

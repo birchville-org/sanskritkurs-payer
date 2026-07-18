@@ -3,7 +3,7 @@ import re
 from pathlib import Path
 
 ROOT = Path("/Volumes/SanDisk1TB/proj/Payer/docs")
-pattern = re.compile(r'^\[[LЛlл]?\d+\](?:>>)?\s*')
+pattern = re.compile(r'^\[[LЛlл]?\d+\](?:>>)?\s*', flags=re.MULTILINE)
 
 fixed_count = 0
 file_count = 0

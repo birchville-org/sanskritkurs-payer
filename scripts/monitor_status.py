@@ -16,7 +16,7 @@ DOCS = ROOT / "docs"
 ACTIVE_LANGS = [
     'de', 'en', 'it', 'es', 'fr', 'hi', 'bg', 'ru', 'uk', 'ta', 'pa', 
     'la', 'rm', 'ro', 'he', 'id', 'zh-CN', 'ar', 'arc', 'th', 'el', 'cop',
-    'grc', 'fa', 'nl', 'af', 'lt', 'sh', 'sq', 'akk', 'am', 'gez'
+    'grc', 'fa', 'nl', 'af', 'lt', 'sh', 'sq', 'akk', 'am', 'gez', 'fi', 'hu'
 ]
 
 LANGS = {
@@ -52,6 +52,8 @@ LANGS = {
     "sh": ("Srpskohrvatski", DOCS / "sh/lektionen"),
     "sq": ("Shqip", DOCS / "sq/lektionen"),
     "akk": ("Akkadian", DOCS / "akk/lektionen"),
+    "fi": ("Suomi", DOCS / "fi/lektionen"),
+    "hu": ("Magyar", DOCS / "hu/lektionen"),
 }
 
 def count_files(d, pattern):
@@ -64,10 +66,29 @@ def count_files(d, pattern):
 
 def root_files(d):
     if not d.exists():
-        return 0, 0
-    files = [f for f in d.glob("*.md") if not re.match(r'(lektion|schrift|uebung)\d', f.name)]
-    total = len(files)
-    translated = sum(1 for f in files if "TODO: Fallback translation" not in f.read_text(encoding="utf-8", errors="ignore"))
+        return 8, 0
+    root_pages = ["index.md", "grammatik.md", "themen.md", "impressum.md"]
+    lek_pages = ["index.md", "inhaltsverzeichnis.md", "wortliste.md", "glossar.md"]
+    total = len(root_pages) + len(lek_pages)
+    translated = 0
+    
+    # Check parent directory (docs root)
+    parent_dir = d.parent
+    for filename in root_pages:
+        file_path = parent_dir / filename
+        if file_path.exists():
+            content = file_path.read_text(encoding="utf-8", errors="ignore")
+            if "TODO: Fallback translation" not in content:
+                translated += 1
+                
+    # Check lektionen directory
+    for filename in lek_pages:
+        file_path = d / filename
+        if file_path.exists():
+            content = file_path.read_text(encoding="utf-8", errors="ignore")
+            if "TODO: Fallback translation" not in content:
+                translated += 1
+                
     return total, translated
 
 def status_bar(n, total, width=20):
@@ -140,24 +161,38 @@ print(f"  Übersetzungsjob: {job}\n")
 
 # ── Übersetzungsstatus ───────────────────────────────────────────────────────
 print("  ── Übersetzungsstand ──────────────────────────────────")
-print(f"  {'':4} {'Sprache':<12} {'Lektionen':>20}  {'Schriften':>14}  {'Übungen':>14}  Root")
-print(f"  {'':4} {'-'*12}  {'-'*20}  {'-'*14}  {'-'*14}  ----")
+print(f"  {'':4} {'Sprache':<17}  {'Lektionen':<10}  {'Schriften':<10}  {'Übungen':<10}  {'Root':<8}")
+print(f"  {'':4} {'-'*17}  {'-'*10}  {'-'*10}  {'-'*10}  {'-'*8}")
 for code, (name, d) in LANGS.items():
     lekt_t, lekt_tr = count_files(d, "lektion*.md")
     schr_t, schr_tr = count_files(d, "schrift*.md")
     ueb_t, ueb_tr   = count_files(d, "uebung*.md")
     root_t, root_tr = root_files(d)
     
-    lekt_ok = "✅" if lekt_tr >= 61 else "🔄" if lekt_tr > 0 else "⏳"
-    schr_ok = "✅" if schr_tr >= 11 else "🔄" if schr_tr > 0 else "⏳"
-    ueb_ok  = "✅" if ueb_tr  >= 61 else "🔄" if ueb_tr  > 0 else "⏳"
+    # Expected maximum number of files per category
+    lekt_max = 61
+    schr_max = 11
+    ueb_max = 61
+    root_max = 8
+    
+    # Evaluate completeness icons
+    lekt_ok = "✅" if lekt_tr >= lekt_max else "🔄" if lekt_tr > 0 else "⏳"
+    schr_ok = "✅" if schr_tr >= schr_max else "🔄" if schr_tr > 0 else "⏳"
+    ueb_ok  = "✅" if ueb_tr  >= ueb_max else "🔄" if ueb_tr  > 0 else "⏳"
+    root_ok = "✅" if root_tr >= root_max else "🔄" if root_tr > 0 else "⏳"
+    
+    # Evaluate overall language translation status
+    is_complete = (lekt_tr >= lekt_max and schr_tr >= schr_max and ueb_tr >= ueb_max and root_tr >= root_max)
+    is_started = (lekt_tr > 0 or schr_tr > 0 or ueb_tr > 0 or root_tr > 0)
+    lang_ok = "✅" if is_complete else "🔄" if is_started else "⏳"
     
     code_pad = f"{code:<5}"
-    name_pad = pad_str(name, 10)
-    print(f"  {lekt_ok}  {code_pad} {name_pad}  "
-          f"{lekt_tr:>2}/{lekt_t:<2} {schr_ok}  "
-          f"{schr_tr:>2}/{schr_t:<2} {ueb_ok}  "
-          f"{ueb_tr:>2}/{ueb_t:<2}  {root_tr}/{root_t}")
+    name_pad = pad_str(name, 11)
+    print(f"  {lang_ok}  {code_pad} {name_pad}  "
+          f"{lekt_ok} {lekt_tr:>2}/{lekt_max:<2}  "
+          f"{schr_ok} {schr_tr:>2}/{schr_max:<2}  "
+          f"{ueb_ok} {ueb_tr:>2}/{ueb_max:<2}  "
+          f"{root_ok} {root_tr:>2}/{root_max:<2}")
 
 # ── Phasenstatus ─────────────────────────────────────────────────────────────
 print("\n  ── GSD Phasenstatus ───────────────────────────────────")

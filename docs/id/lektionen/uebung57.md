@@ -52,7 +52,7 @@ Fig.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्�
 
 Determine and translate the following forms:
 
-[0] ::: grammar-box
+::: grammar-box
 | No. | Bentuk | Penentuan / Makna |
 |:---|:---|:---|
 | ⟪१⟫. | **⟪चेलुः⟫** | *⟪चल्⟫* 1P: 3. Pl. Perf. P. (mereka telah menggerakkan) |

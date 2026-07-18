@@ -26,7 +26,7 @@ features:
 ::: note-box  Version 1.6 — Global Integrity & Stabilität
 **New in v1.6 (July 2026):**
 
-- **100% Completion in 19 Languages:** Arabic, Hebrew, Aramaic, Simplified Chinese, Indonesian, Hindi, Tamil, Punjabi, Latin, Romanian, and Romansh Grischun are now fully machine-translated (quality unverified; pure feasibility study without editors).
+- **100% Completion in 19 Languages:** Arabic, Hebrew, Aramaic, Simplified Chinese, Indonesian, Hindi, Tamil, Punjabi, Latin, Romanian, and Rumantsch Grischun are now fully machine-translated (quality unverified; pure feasibility study without editors).
 - **RTL Support:** Native layout support for right-to-left languages (Arabic, Hebrew) including fully localized user interface.
 - **PWA & Offline-First:** Complete and error-free offline usage of all course content across all active language versions.
 - **Author Version & Editor:** Complete editor for editors (QA viewer) with asynchronous AI fallback system for extremely stable mass translations.

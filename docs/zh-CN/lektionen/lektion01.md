@@ -53,7 +53,7 @@ maṅgalacaraṇam
 ⟪जगतः⟫ ⟪पितरौ⟫ ⟪वन्दे⟫
 ⟪पार्वतीपरमेश्वरौ⟫ |
 
-[0] **vāgarthāviva saṃpṛktau
+**vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
 jagataḥ pitarau vande
 pārvatīparameśvarau |**

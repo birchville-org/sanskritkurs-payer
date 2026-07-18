@@ -1,3 +1,4 @@
+#!/usr/bin/env python3
 import os
 import json
 import urllib.request
@@ -8,24 +9,26 @@ import datetime
 import hashlib
 
 # Configuration
-API_URL = "http://nyx.local:8088/v1/chat/completions"
-MODEL = "mlx-community--Qwen3.6-35B-A3B-4bit"
+API_URL = "http://nyx.local:8000/v1/chat/completions"
+MODEL = "mlx-community/Qwen3.6-35B-A3B-4bit"
+LAST_RESTART_TIME = 0
 LANGUAGES = [
     "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "ta", "pa",
     "la", "rm", "ro", "id", "zh-CN", "he", "ar", "arc",
-    "th", "el", "cop", "grc", "fa", "nl", "af", "lt", "sh", "sq", "akk", "am", "gez"
+    "th", "el", "cop", "grc", "fa", "nl", "af", "lt", "sh", "sq", "akk", "am", "gez", "fi", "hu"
 ]
 LANG_NAMES = {
     "en": "English", "it": "Italian", "es": "Spanish",
     "ru": "Russian", "uk": "Ukrainian", "bg": "Bulgarian",
     "hi": "Hindi", "fr": "French", "ta": "Tamil", "pa": "Punjabi (Gurmukhi)",
-    "la": "Latin", "rm": "Romansh Grischun", "ro": "Romanian",
+    "la": "Latin", "rm": "Rumantsch Grischun", "ro": "Romanian",
     "id": "Indonesian", "zh-CN": "Simplified Chinese",
     "th": "Thai", "he": "Hebrew",
     "ar": "Arabic", "arc": "Aramaic",
 #    "zh": "Mandarin Chinese",
     "grc": "Ancient Greek", "el": "Modern Greek", "am": "Amharic", "gez": "Ge\'ez",
     "fa": "Persian (Farsi)", "akk": "Akkadian", "cop": "Coptic",
+    "fi": "Finnish", "hu": "Hungarian",
 }
 LESSONS = list(range(1, 62))
 MAIN_PAGES = ["index.md", "grammatik.md", "themen.md", "impressum.md"]
@@ -148,6 +151,16 @@ LICENSES_LABELS = {
         "lesson": "ትምህርት",
         "script": "ጽሑፍ",
         "exercise": "መልመጃ"
+    },
+    "fi": {
+        "title": "Kuvien lisenssien tarkastus",
+        "col1": "Tiedosto", "col2": "Löydetyt lähdetiedot", "col3": "Esikatselu",
+        "no_license": "Tekstistä ei löytynyt erityistä lisenssiä tai kuvalähdettä",
+    },
+    "hu": {
+        "title": "Képlicencek ellenőrzése",
+        "col1": "Fájl", "col2": "Talált forrásinformáció", "col3": "Előnézet",
+        "no_license": "A szövegben nem található specifikus licenc vagy képforrás",
     },
     "el": {
         "title": "Έλεγχος Αδειών Εικόνων",
@@ -589,6 +602,32 @@ LICENSES_PHRASES = {
         "script": "ጽሑፍ",
         "exercise": "መልመጃ"
     },
+    "fi": {
+        "Abb.:": "Kuva:",
+        "Bildquelle:": "Kuvalähde:",
+        "Bildquelle.": "Kuvalähde.",
+        "Bildquelle ": "Kuvalähde ",
+        "gemeinfrei": "public domain / vapaasti käytettävissä",
+        "Zugriff am": "haettu",
+        "keine kommerzielle Nutzung": "ei-kaupallinen käyttö",
+        "keine Bearbeitung": "ei muutoksia",
+        "Namensnennung": "Nimeä",
+        "Creative Commons Lizenz": "Creative Commons -lisenssi",
+        "Lehrgangsmaterial": "Kurssimateriaali",
+    },
+    "hu": {
+        "Abb.:": "Ábra:",
+        "Bildquelle:": "Képforrás:",
+        "Bildquelle.": "Képforrás.",
+        "Bildquelle ": "Képforrás ",
+        "gemeinfrei": "közkincs (public domain)",
+        "Zugriff am": "letöltés dátuma:",
+        "keine kommerzielle Nutzung": "nem kereskedelmi",
+        "keine Bearbeitung": "változtatások nélkül",
+        "Namensnennung": "Nevezd meg!",
+        "Creative Commons Lizenz": "Creative Commons licenc",
+        "Lehrgangsmaterial": "Tananyag",
+    },
     "el": {
         "Abb.:": "Εικ.:",
         "Bildquelle:": "Πηγή εικόνας:",
@@ -808,12 +847,39 @@ def translate_text(text, target_lang):
     protected, iast_registry = protect_iast_lines(protected)
     protected = protect_br(protected)
     protected, struct_registry = protect_structure(protected)
+    heading_mappings = {
+        'en': "e.g. '# Lesson N'",
+        'es': "e.g. '# Lección N'",
+        'it': "e.g. '# Lezione N'",
+        'fr': "e.g. '# Leçon N'",
+        'hi': "e.g. '# पाठ N'",
+        'ru': "e.g. '# Урок N'",
+        'uk': "e.g. '# Урок N'",
+        'bg': "e.g. '# Урок N'",
+        'ta': "e.g. '# பாடம் N'",
+        'pa': "e.g. '# ਪਾਠ N'",
+        'la': "e.g. '# Lectio N'",
+        'rm': "e.g. '# Lecziun N'",
+        'ro': "e.g. '# Lecție N'",
+        'he': "e.g. '# שיעور N'",
+        'id': "e.g. '# Pelajaran N'",
+        'zh-CN': "e.g. '# 第N课'",
+        'ar': "e.g. '# الدرس N'",
+        'arc': "e.g. '# ܡܠܦܢܘܬܐ N'",
+        'th': "e.g. '# บทที่ N'",
+        'el': "e.g. '# Μάθημα N'",
+        'fa': "e.g. '# درس N'",
+        'cop': "e.g. '# ⲙⲁⲑⲏⲙⲁ N'",
+    }
+    target_example = heading_mappings.get(target_lang, "")
+    if target_example:
+        target_example = f" ({target_example})"
     system = (
         f"You are a scholarly translator. Translate ALL German text in this Sanskrit-education markdown to {lang_name}. "
         "Rules: "
         "(1) Translate every German word — including captions, image descriptions, verse translations, and prose. "
         "(2) Preserve unchanged: Markdown syntax, IAST transliterations, YAML frontmatter keys, HTML comments, ⟨DEVA_N⟩ placeholders, ⟨IAST_L_N⟩ placeholders, ⟨BR⟩ placeholders, and ⟨STRUCT_N⟩ placeholders. "
-        f"(3) Translate '# Lektion N' headings to the target-language equivalent (e.g. '# Lesson N' in English, '# Lezione N' in Italian, '# Lección N' in Spanish, '# Урок N' in Russian/Ukrainian/Bulgarian, '# पाठ N' in Hindi, '# Leçon N' in French, '# Lecziun N' in Romansh Grischun, '# பாடம் N' in Tamil, '# ਪਾਠ N' in Punjabi, '# الدرس N' in Arabic, '# ܡܠܦܢܘܬܐ N' in Aramaic, '# שיעור N' in Hebrew, '# 第N课' in Mandarin Chinese, '# บทที่ N' in Thai, '# Lectio N' in Latin, '# Μάθημα N' in Ancient Greek, '# Μάθημα N' in Modern Greek, '# درس N' in Persian, '# Ṭupšarru N' in Akkadian, '# ⲙⲁⲑⲏⲙⲁ N' in Coptic). "
+        f"(3) Translate '# Lektion N' headings to the target-language equivalent{target_example}. "
         "(4) NEVER add TODO comments, fallback markers, or any annotations of your own. If unsure how to translate a word or sentence into the target language, translate it into English as a fallback (NEVER leave it in German). "
         "(5) Keep the scholarly editorial tone throughout. "
         "(6) CRITICAL: Preserve the exact line count of the source. Every source line must appear as exactly one output line. NEVER delete, merge, or collapse lines. "
@@ -877,7 +943,7 @@ def translate_text(text, target_lang):
             "repetition_penalty": repetition_penalty
         }
 
-        max_retries = 100
+        max_retries = 5
         got_response = False
         for attempt in range(max_retries):
             try:
@@ -954,7 +1020,7 @@ def translate_text(text, target_lang):
                                 # time.sleep(60)
                                 
                                 # New oMLX App restart method:
-                                _sp.run(['ssh', 'marco@nyx.local', 'osascript -e \'quit app "oMLX"\' || pkill -9 -f oMLX'], timeout=15)
+                                _sp.run(['ssh', 'marco@nyx.local', 'killall -9 oMLX > /dev/null 2>&1; pkill -9 -f omlx-server > /dev/null 2>&1 || true'], timeout=15)
                                 time.sleep(3)
                                 _sp.run(['ssh', 'marco@nyx.local', 'open -a oMLX'], timeout=15)
                                 sys.stdout.write(f"[{ts}] [!] oMLX-Neustart-Befehl gesendet. Warte 40s auf den Server...\n")
@@ -1040,26 +1106,48 @@ def translate_text(text, target_lang):
                 
                 # Auto-Restart bei Timeouts, HTTP 500 (Compute error) oder Absturz (Connection refused/exit 7, exit 56)
                 err_lower = err_str.lower()
-                is_local = 'localhost' in current_api_url or '127.0.0.1' in current_api_url
+                is_local = 'localhost' in current_api_url or '127.0.0.1' in current_api_url or 'nyx.local' in current_api_url
                 if is_local and ("exit 28" in err_str or "timeout" in err_lower or "500" in err_str or "exit 7" in err_str or "exit 56" in err_str or "exit 52" in err_str or "refused" in err_lower or "choices" in err_lower):
-                    ts = time.strftime('%H:%M:%S')
-                    sys.stdout.write(f"\n[{ts}] [!] Timeout/Absturz erkannt ({err_str}). Führe automatischen oMLX-Neustart aus...\n")
-                    sys.stdout.flush()
-                    try:
-                        import subprocess as _sp_err
-                        # Old CLI restart method (commented out):
-                        # _sp_err.run(['ssh', 'marco@nyx.local', 'pkill -f "mlx_lm server"; sleep 2; cd ~/llm-benchmark && nohup ./start > /dev/null 2>&1 &'], timeout=15)
-                        # time.sleep(60)
-                        
-                        # New oMLX App restart method:
-                        _sp_err.run(['ssh', 'marco@nyx.local', 'osascript -e \'quit app "oMLX"\' || pkill -9 -f oMLX'], timeout=15)
-                        time.sleep(3)
-                        _sp_err.run(['ssh', 'marco@nyx.local', 'open -a oMLX'], timeout=15)
-                        sys.stdout.write(f"[{ts}] [!] oMLX-Neustart-Befehl gesendet. Warte 40s...\n")
+                    host = 'nyx.local' if 'nyx.local' in current_api_url else ('127.0.0.1' if '127.0.0.1' in current_api_url else 'localhost')
+                    is_pingable = True
+                    if host == 'nyx.local':
+                        try:
+                            import subprocess as _sp_ping
+                            ping_res = _sp_ping.run(['ping', '-c', '1', '-t', '2', 'nyx.local'], capture_output=True, timeout=3)
+                            if ping_res.returncode != 0:
+                                is_pingable = False
+                        except Exception:
+                            is_pingable = False
+                    
+                    if not is_pingable:
+                        ts = time.strftime('%H:%M:%S')
+                        sys.stdout.write(f"\n[{ts}] [!] Host {host} ist offline (Ping fehlgeschlagen). Überspringe Server-Neustart.\n")
                         sys.stdout.flush()
-                        time.sleep(40)
-                    except Exception:
-                        pass
+                    else:
+                        global LAST_RESTART_TIME
+                        current_time = time.time()
+                        if current_time - LAST_RESTART_TIME < 180:
+                            ts = time.strftime('%H:%M:%S')
+                            sys.stdout.write(f"\n[{ts}] [!] Server vor weniger als 3 Minuten neu gestartet. Überspringe Drossel-Neustart.\n")
+                            sys.stdout.flush()
+                        else:
+                            LAST_RESTART_TIME = current_time
+                            ts = time.strftime('%H:%M:%S')
+                            sys.stdout.write(f"\n[{ts}] [!] Timeout/Absturz erkannt ({err_str}). Führe automatischen Server-Neustart aus...\n")
+                            sys.stdout.flush()
+                            try:
+                                import subprocess as _sp_err
+                                _sp_err.run(['ssh', 'marco@nyx.local', '~/llm-benchmark/start'], timeout=15)
+                                sys.stdout.write(f"[{ts}] [!] Server-Neustart-Befehl gesendet. Warte 40s...\n")
+                                sys.stdout.flush()
+                                time.sleep(40)
+                            except Exception:
+                                pass
+
+                if "prefill_memory_exceeded" in err_str or "prefill_memory_exceeded" in err_lower:
+                    sys.stdout.write(f"\n[!] oMLX Prefill Memory Guard error: {err_str}\nSkipping immediately to next fallback tier...\n")
+                    sys.stdout.flush()
+                    break
 
                 if "API Error" in err_str:
                     if "'code': 404" in err_str or "'code': 400" in err_str:
@@ -1077,7 +1165,7 @@ def translate_text(text, target_lang):
                 time.sleep(wait_time)
 
         if not got_response:
-            if is_fallback and ph_attempt < max_ph_retries - 1:
+            if ph_attempt < max_ph_retries - 1:
                 sys.stdout.write(f"[{target_lang}] WARNING: API failed. Escalating to next fallback tier (attempt {ph_attempt + 2})...\n")
                 sys.stdout.flush()
                 continue
@@ -1626,6 +1714,8 @@ def sonnet_patch_residues(content: str, flagged_lines: list, target_lang: str) -
         if 'error' in res:
             raise RuntimeError(f"API Error: {res['error']}")
         patched_text = res['choices'][0]['message']['content']
+        if not patched_text:
+            raise ValueError("Empty or null content returned from OpenRouter choices.")
     except Exception as e:
         err_str = str(e)
         if "API Error" in err_str and ("'code': 402" in err_str or "'code': 404" in err_str or "'code': 401" in err_str):
@@ -1899,7 +1989,7 @@ def main():
                 translate_file(source_path, os.path.join(lesson_dir, filename), lang, force=force)
 
             # ── Sonderdateien in lektionen/ ──────────────────────────────────
-            for filename in ("wortliste.md", "inhaltsverzeichnis.md", "index.md", "glossar.md"):
+            for filename in ("wortliste.md", "inhaltsverzeichnis.md", "index.md"):
                 src = os.path.join(SOURCE_DIR, filename)
                 if os.path.exists(src):
                     def make_post_process(fname):

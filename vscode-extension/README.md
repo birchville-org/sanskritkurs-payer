@@ -1,10 +1,10 @@
-# Payer Sanskrit Tools
+# Extensible Markdown Extension
 
-Eine kleine, hochspezialisierte VSCode-Erweiterung für die Editoren und Maintainer des Payer Sanskritkurs-Projekts.
+Eine konfigurierbare VSCode-Erweiterung zur dynamischen Definition und Visualisierung von benutzerdefinierten Markdown-Containern (wie `::: grammar-box` etc.).
 
 ## Features
 
-Diese Extension rüstet Visual Studio Code mit nativen Snippets für das komplexe Projekt-Markdown (VitePress) aus. Dies erspart Tipparbeit und stellt sicher, dass die Container-Hierarchie nach den AGENTS.md Regeln strikt eingehalten wird.
+Diese Extension rüstet Visual Studio Code mit nativen Snippets für das Projekt-Markdown aus und ermöglicht es, neue Syntax-Elemente dynamisch über die VSCode-Einstellungen zu definieren.
 
 ### Snippets für Markdown-Dateien
 
@@ -25,7 +25,7 @@ Diese Extension ist lokal im Repository verlinkt. Um sie in deinem VSCode zu akt
 
 ```bash
 # Im Root des Payer-Projekts ausführen:
-ln -s $(pwd)/vscode-extension ~/.vscode/extensions/payer-sanskrit-tools
+ln -s $(pwd)/vscode-extension ~/.vscode/extensions/extensible-markdown-extension
 ```
 Oder verpacke sie per `vsce package` zu einer `.vsix` Datei.
 

@@ -65,8 +65,8 @@ We wish to speak.
 ⟪६⟫. **⟪सन्मानवाः⟫ ⟪स्त⟫ ⟪॥⟫ ⟪६⟫ ⟪॥⟫**
 Be true humans (descendants of Manu)!
 
-[0] ⟪७⟫. **⟪शिवादिदेवान्स्तवानि⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
-[1] I wish to praise Śiva and the other gods.
+⟪७⟫. **⟪शिवादिदेवान्स्तवानि⟫ ⟪॥⟫ ⟪७⟫ ⟪॥⟫**
+I wish to praise Śiva and the other gods.
 
 ⟪८⟫. **⟪आख्याहि⟫ ⟪॥⟫ ⟪८⟫ ⟪॥⟫**
 Tell!

@@ -60,10 +60,10 @@ Perfektul perifrastic (⟪अनुप्रयोगलिट्⟫) este folos
 
 timp prezent (slab) + -ām + forma corespunzătoare de perfect a lui ⟪कृ⟫, ⟪अस्⟫ sau ⟪भू⟫
 
-[0] - Vocala finală a temei devine guṇa înainte de -ām.
-[1] - ⟪अस्⟫ și ⟪भू⟫ sunt, de asemenea, conjugate la Parasmaipada pentru verbele Ātmanepada.
-[2] :::
-[3] Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+- Vocala finală a temei devine guṇa înainte de -ām.
+- ⟪अस्⟫ și ⟪भू⟫ sunt, de asemenea, conjugate la Parasmaipada pentru verbele Ātmanepada.
+:::
+Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
 
 Exemple:
 

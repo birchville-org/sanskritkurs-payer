@@ -19,11 +19,11 @@ A) תרגמו את המשפטים להלן
 ⟪३⟩. ⟪साधुः⟩ ⟪स्वर्गं⟩ ⟪गच्छति⟩ ⟪।⟩
 קדוש בא לשמיים.
 
-[0] ⟪४⟩. ⟪ब्राह्मणो⟩ ⟪ऽनृतं⟩ ⟪न⟩ ⟪वदतीति⟩ ⟪स्मृतिः⟩ ⟪।⟩
-[1] Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
+⟪४⟩. ⟪ब्राह्मणो⟩ ⟪ऽनृतं⟩ ⟪न⟩ ⟪वदतीति⟩ ⟪स्मृतिः⟩ ⟪।⟩
+Die Smṛti sagt, dass ein Brahmane keine Unwahrheit spricht.
 
 ⟪५⟩. ⟪क्षत्रियो⟩ ⟪ब्राह्मणं⟩ ⟪धर्मं⟩ ⟪पृच्छति⟩ ⟪।⟩
-[4] Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
+Ein Kṣatriya fragt den Brahmanen nach dem Dharma.
 
 ⟪६⟩. ⟪एवं⟩ ⟪ब्राह्मणो⟩ ⟪यज्ञेन⟩ ⟪देवं⟩ ⟪यजति⟩ ⟪।⟩
 כך מביא הברמן קורבן לאל.

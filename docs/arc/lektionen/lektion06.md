@@ -62,12 +62,12 @@ Tenses are formed from tense stems: present stem, aorist stem, perfect stem, fut
 
 ## 6.3. ܡܠܦܢܐ ܕܙܒܢܐ ܗܫܝܐ (ܠܛ = ⟪लट्⟫)
 
-[0] ܐܘܩܬܐ ܕܚܢܐ ܗܝ ܐܘܩܬܐ ܕܚܢܐ، ܒܝܬܪ ܠܦܡܕܟܢ.
+ܐܘܩܬܐ ܕܚܢܐ ܗܝ ܐܘܩܬܐ ܕܚܢܐ، ܒܝܬܪ ܠܦܡܕܟܢ.
 
-[2] ::: grammar-box
-[3] **ܐܘܩܬܐ ܕܚܢܐ (ܣܘܓܪܬܐ) ܕܚܢܐ ܗܝ ܒܬܪ ܡܠܬܐ ܕܚܢܐ.**
-[4] :::
-[5] ܡܠܐ:
+::: grammar-box
+**ܐܘܩܬܐ ܕܚܢܐ (ܣܘܓܪܬܐ) ܕܚܢܐ ܗܝ ܒܬܪ ܡܠܬܐ ܕܚܢܐ.**
+:::
+ܡܠܐ:
 
 | Wurzel (dhātu) | Präsensstamm | 3. Person Singular Indikativ Präsens Parasmaipada |
 | :--- | :--- | :--- |

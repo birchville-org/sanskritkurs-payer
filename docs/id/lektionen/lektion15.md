@@ -72,7 +72,7 @@ Fig.: ⟪लक्ष्मी⟫
 :::
 ::: grammar-box
 
-[0] The following special rule applies to the order of members in a Karmadhāraya:
+The following special rule applies to the order of members in a Karmadhāraya:
 
 *   If a Karmadhāraya expresses a COMPARISON, then that which serves as the standard of comparison stands in the second member of the compound:
 

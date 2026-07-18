@@ -44,7 +44,7 @@ Example:
 | **3. Person:brParasmaipada** | ⟪जानाति⟫:br(jā-nā-ti) | ⟪जानन्ति⟫:br(jā-n-anti) |
 | **3. Person:brĀtmanepada** | ⟪जानीते⟫:br(jā-nī-te) | ⟪जानते⟫:br(jā-n-ate) |
 
-[0] :::  
+:::  
 ܐܘܪ̈ܗܝ ⟪जा⟫ ܕܐܢ̈ܫ ܠܦܬܝ ܡܕܥ ܐܘܪ̈ܗܝ ⟪ज्ञा⟫ ܐܘ̈ܠ ܡܕܥ ܐܘ̈ܪ̈ܗܝ -ā (ܡܕܥ ܐܘ̈ܪ̈ܗܝ) -nā (ܡܕܥ ܐܘ̈ܪ̈ܗܝ) ܐܘ̈ܠ ܡܕܥ ܐܘ̈ܪ̈ܗܝ *jñā-nā-ti.
 
 Alcune radici con vocale lunga la accorciano prima del suffisso della radice del presente della 9ª classe:
@@ -273,7 +273,7 @@ Inf. ⟪क्रेतुम्⟫
 :::
 ⟪क्री⟫ + ⟪वि⟫ 9th class ⟪विक्रीणीते⟫ : to sell
 
-[0] ::: indent
+::: indent
 מִתְלַבָּשׁ ⟪विक्रीय⟫
 ::: media
 ![](/images/lekt3001.webp)

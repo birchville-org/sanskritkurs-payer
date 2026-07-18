@@ -1,4 +1,4 @@
-# Plan 23-1: VSCode Extension (Payer Markdown)
+# Plan 23-1: VSCode Extension (Payer Markdown) [Status: Complete]
 
 ## Goal
 Entwicklung einer projektspezifischen VSCode Extension (`vscode-payer-markdown`), die als Template für selbstdefinierte Markdown Extensions dient. Die Extension klinkt sich in den Standard-Markdown-Parser von VSCode ein und liefert Syntax-Highlighting, Snippets und (in Stufe 2) Preview-Rendering für die Payer-spezifischen Elemente.

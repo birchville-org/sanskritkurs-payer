@@ -68,12 +68,12 @@ Die ersten Glieder von Komposita (nicht nur Dvandvas) nehmen allgemein die Form 
 
 Beispiele für Pluraldvandva:
 
-[0] **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
-[1] > = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
-[2] > (ܒܪܗܡܢ̈ܐ، ܟܫܬܪܝܐ، ܘܐܝܠܝܢ)
-[3] > 
-[4] > or = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
-[5] > ((ܐܘ) ܒܪܗܡܢ، ܟܫܬܪܝܐ، ܘܐܝܠܝܢ)
+**brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
+> = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
+> (ܒܪܗܡܢ̈ܐ، ܟܫܬܪܝܐ، ܘܐܝܠܝܢ)
+> 
+> or = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
+> ((ܐܘ) ܒܪܗܡܢ، ܟܫܬܪܝܐ، ܘܐܝܠܝܢ)
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
 > = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫

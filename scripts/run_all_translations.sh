@@ -1,10 +1,13 @@
 #!/bin/bash
+set -e
 
-# Translates the 11 new languages sequentially to avoid overloading the nyx.local API
-# Order: th, el, cop, grc, fa, nl, af, lt, sh, sq, akk
+# Translates the languages sequentially to avoid overloading the nyx.local API
+# Order: fi, hu, th, el, cop, grc, fa, nl, af, lt, sh, sq, akk, am, gez
 
-echo "Starting massive language expansion (11 languages)..."
+echo "Starting massive language expansion..."
 
+python3 scripts/lan_translate.py --lang fi all
+python3 scripts/lan_translate.py --lang hu all
 python3 scripts/lan_translate.py --lang th all
 python3 scripts/lan_translate.py --lang el all
 python3 scripts/lan_translate.py --lang cop all
@@ -16,6 +19,7 @@ python3 scripts/lan_translate.py --lang lt all
 python3 scripts/lan_translate.py --lang sh all
 python3 scripts/lan_translate.py --lang sq all
 python3 scripts/lan_translate.py --lang akk all
+python3 scripts/lan_translate.py --lang am all
+python3 scripts/lan_translate.py --lang gez all
 
-echo "All 11 languages completed!"
-\npython3 scripts/lan_translate.py --lang am all\npython3 scripts/lan_translate.py --lang gez all\n
+echo "All languages completed!"

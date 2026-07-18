@@ -411,9 +411,9 @@ Jalakandapuram = ஜலகண்டபுரம்
 
 **Tatpuruṣa, die nach dieser Regel gebildet werden heißen ***Dvigu (⟪द्विगु⟫)***.**
 
-[0] ܐܪܡܝܐ
-[1] :::
-[2] ܡܕܥܝ̈ܐ:
+ܐܪܡܝܐ
+:::
+ܡܕܥܝ̈ܐ:
 
 :::
 ::: indent

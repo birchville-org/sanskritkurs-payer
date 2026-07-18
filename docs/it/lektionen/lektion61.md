@@ -33,7 +33,7 @@ Paradigma:
 
 ### 61.1.2. Nomi radicali femminili in -ī
 
-[0] ::: grammar-box
+::: grammar-box
 **Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
 **Oltre alle formazioni con le desinenze casuali regolari, nel Dat.Ab.Gen.Loc.sg. e Gen.pl. si trovano anche formazioni secondo il modello di femminili polisillabici in -ī (⟪देवी⟫).**

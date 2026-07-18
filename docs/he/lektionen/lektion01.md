@@ -26,30 +26,29 @@ gaṇeśapūjanam
 ⟪निर्विघ्नं⟫ ⟪कुरु⟫ ⟪मे⟫ ⟪देव⟫
 ⟪सर्वकार्येषु⟫ ⟪सर्वदा⟫ |
 
-[0] **lambodara namas tubhyaṃ
-[1] satataṃ modakapriya |
-[2] nirvighnaṃ kuru me deva
-[3] sarvakāryeṣu sarvadā |**
+**lambodara namas tubhyaṃ
+satataṃ modakapriya |
+nirvighnaṃ kuru me deva
+sarvakāryeṣu sarvadā |**
 
-[5] בעל הבטן התלויה, חמודה,
-[6] יהי לך תמיד כבוד!
-[7] אלוהים, עשה את כל מעשיי
-[8] חופשיים מהתנגדויות!
-[9] :::
-
-[11] ::: center
-[12] ⟪मङ्गलचरणम्⟫
-[13] maṅgalacaraṇam
-[14] "תחילה מביאה מזל"
-[15] :::
-
-[17] ::: media
-[18] ![](/images/lekt0101.webp)
-[19] איור: ארדנרישvara
-[20] (מקור התמונה: [פרטים](/he/licenses#lekt0101))
-[21] :::
-
+בעל הבטן התלויה, חמודה,
+יהי לך תמיד כבוד!
+אלוהים, עשה את כל מעשיי
+חופשיים מהתנגדויות!
 :::
+
+::: center
+⟪मङ्गलचरणम्⟫
+maṅgalacaraṇam
+"תחילה מביאה מזל"
+:::
+
+::: media
+![](/images/lekt0101.webp)
+איור: ארדנרישvara
+(מקור התמונה: [פרטים](/he/licenses#lekt0101))
+:::
+
 ::: center
 ⟪वागर्थाविव⟫ ⟪संपृक्तौ⟫
 ⟪वागर्थप्रतिपत्तये⟫ |

@@ -198,8 +198,8 @@ Example: ⟪सुचिरम्⟫ "very long (time)"
 
 ⟪अव्ययीभाव⟫ = "unveränderlich/undeklinierbar gewordene"
 
-[0] ::: grammar-box  
-[1] ܐܢ ⟪अव्ययीभाव⟫ ܗܘ ܡܠܬܐ ܕܡܫܬܥܝ ܒܠܫܢܐ ܕܪܒܐ ܘܡܠܬܐ ܕܡܫܬܥܝ ܒܠܫܢܐ ܕܪܒܐ ܘܡܠܬܐ ܕܡܫܬܥܝ ܒܠܫܢܐ ܕܪܒܐ.
+::: grammar-box  
+ܐܢ ⟪अव्ययीभाव⟫ ܗܘ ܡܠܬܐ ܕܡܫܬܥܝ ܒܠܫܢܐ ܕܪܒܐ ܘܡܠܬܐ ܕܡܫܬܥܝ ܒܠܫܢܐ ܕܪܒܐ ܘܡܠܬܐ ܕܡܫܬܥܝ ܒܠܫܢܐ ܕܪܒܐ.
 
 Bei der Auflösung des Kompositums würde das Vorderglied das Hinterglied regieren:
 

@@ -276,7 +276,7 @@ davon:
 
 ⟪मूल⟫ n.: 词根
 
-[0] ::: media
+::: media
 ![](/images/lekt2502.webp)
 图：⟪मूलानि⟫
 （图片来源：[详情](/zh-CN/licenses#lekt2502)）

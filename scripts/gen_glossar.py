@@ -202,40 +202,26 @@ def get_wortliste_anchor(lang_dir: Path, lektion_num: int) -> str:
     if not path.exists():
         return ""
     text = path.read_text(encoding="utf-8")
-    # Suche nach irgendwelchem Wortliste-ähnlichem Abschnitt (mehrsprachig)
-    m = re.search(
-        r"^## (\d+(?:\.\d+)*)\.\s+\S+",
-        text,
-        re.MULTILINE,
-    )
-    # Finde den letzten ## Abschnitt vor der Übung
     headings = re.findall(r"^## (\d+(?:\.\d+)*)\..*$", text, re.MULTILINE)
     if len(headings) >= 2:
-        # Vorletzter Abschnitt = typischerweise Wortliste
         sec = headings[-2].replace(".", "-")
         return f"#_{sec}-" + re.sub(r"^## \d+(?:\.\d+)*\.\s+", "", [h for h in text.split("\n") if h.startswith(f"## {headings[-2]}.")][0]).strip().lower().replace(" ", "-").replace("/", "-")[:30] if sec[0].isdigit() else f"#{sec}-wortliste"
     return ""
 
 
-def _make_anchor(lektion_num: int, lang_dir: Path) -> str:
-    """Vereinfachter Anker: Sektionsnummer des vorletzten ## Abschnitts."""
-    path = lang_dir / f"lektion{lektion_num:02d}.md"
-    if not path.exists():
-        return ""
-    text = path.read_text(encoding="utf-8")
-    headings = re.findall(r"^## (\d+(?:\.\d+)*)\..*$", text, re.MULTILINE)
-    if len(headings) >= 2:
-        sec = headings[-2].replace(".", "-")
-        prefix = "_" if sec[0].isdigit() else ""
-        # Heading text für anchor
-        for line in text.split("\n"):
-            m = re.match(rf"^## {re.escape(headings[-2])}\.\s+(.+)", line)
-            if m:
-                slug = m.group(1).lower().strip()
-                slug = re.sub(r"[^a-z0-9-￿\s-]", "", slug)
-                slug = re.sub(r"\s+", "-", slug)[:40]
-                return f"#{prefix}{sec}-{slug}"
-    return ""
+def find_meaning_split(rest: str) -> int:
+    """Findet den Doppelpunkt, der die Wortbedeutung abtrennt.
+    Ignoriert Doppelpunkte innerhalb von Klammern (z.B. bei Gattungsnamen).
+    """
+    colons = [m.start() for m in re.finditer(r":", rest)]
+    if not colons:
+        return -1
+    for pos in colons:
+        before = rest[:pos]
+        depth = before.count("(") - before.count(")")
+        if depth <= 0:
+            return pos
+    return colons[0]
 
 
 def parse_entries(lang_dir: Path, de_dir: Path) -> list:
@@ -262,7 +248,6 @@ def parse_entries(lang_dir: Path, de_dir: Path) -> list:
 
         lang_text = lang_path.read_text(encoding="utf-8")
         # Wortliste-Abschnitt in der Zielsprache finden
-        # Use simple string matching since wl_sec is like "5.4" and heading is "## 5.4. ..."
         sec_m = re.search(rf"^## {wl_sec}\.\s+.+\n", lang_text, re.MULTILINE)
         if not sec_m:
             continue
@@ -274,75 +259,106 @@ def parse_entries(lang_dir: Path, de_dir: Path) -> list:
         # Anker berechnen
         heading_line = sec_m.group(0).strip()
         heading_slug = re.sub(r"^## \d+(?:\.\d+)*\.\s+", "", heading_line).lower()
-        heading_slug = re.sub(r"[^a-z0-9-￿\s-]", "", heading_slug)
+        heading_slug = re.sub(r"[^a-z0-9\s-]", "", heading_slug)
         heading_slug = re.sub(r"\s+", "-", heading_slug.strip())[:40]
         sec_anchor = wl_sec.replace(".", "-")
         anchor = f"#_{sec_anchor}-{heading_slug}" if wl_sec[0].isdigit() else f"#{sec_anchor}-{heading_slug}"
 
         # Einträge parsen — vereinfachter einheitlicher Ansatz
         for line in section_text.split("\n"):
-            # Skip lines that don't contain bold text with Devanagari
-            if "**⟪" not in line and "**" not in line:
-                continue
-            if not re.search(DEV, line):
-                continue
-
-            # Extract word from **⟪WORD⟫, **WORD**, or bare WORD
-            word_m = re.match(r"^\*\*⟪([^⟪⟩]+)⟫", line)
-            if not word_m:
-                word_m = re.match(r"^\*\*([ऀ-ॿ]+)\*\*", line)
-            if not word_m:
-                word_m = re.match(r"^([ऀ-ॿ][ऀ-ॿ\s]*?)\s*(m\b|f\b|n\b|mfn\b|3\b|Adv\b|Adj\b|PP\b)[.,]?", line)
-
-            if not word_m:
+            line_str = line.strip()
+            # Die Zeile muss mit '**' oder '⟪' beginnen, um als Vokabeleintrag zu gelten
+            if not (line_str.startswith("**") or line_str.startswith("⟪")):
                 continue
 
-            deva = word_m.group(1).strip()
-            if not re.search(DEV, deva) or len(deva) < 2:
+            # Devanagari-Wort (Sanskrit) aus den eckigen Klammern ⟪...⟫ extrahieren (falls vorhanden)
+            deva = None
+            m_dev = re.search(r"⟪+([ऀ-ॿ\s/|,\(\)\.-]+)⟫+", line_str)
+            if m_dev:
+                deva = m_dev.group(1).strip()
+            else:
+                m_bold = re.match(r"^\*\*([^*]+)\*\*", line_str)
+                if m_bold:
+                    bold_val = m_bold.group(1).strip()
+                    if re.search(DEV, bold_val):
+                        deva = bold_val
+
+            if not deva or len(deva) < 2:
                 continue
 
-            rest = line[word_m.end():]
+            # IAST-Lemma bestimmen
+            iast = None
+            m_bold = re.match(r"^\*\*([^*]+)\*\*", line_str)
+            if m_bold:
+                bold_val = m_bold.group(1).strip()
+                if not re.search(DEV, bold_val):
+                    iast = bold_val
 
-            # Genus/word-class extraction from text between **word** and meaning
+            if not iast:
+                iast = deva_to_iast(deva) or deva
+
+            # Den restlichen Text nach dem Devanagari-Wort bzw. dem fettgedruckten Lemma bestimmen
+            if m_bold:
+                rest = line_str[m_bold.end():]
+            elif m_dev:
+                rest = line_str[m_dev.end():]
+            else:
+                rest = line_str
+
+            # Genus/word-class extraction from text between lemma and meaning
             genus_val = _extract_genus(rest)
 
-            # Find ALL colons, score each: pick the one with most Devanagari
-            # text after it and fewest Latin chars. This handles the complex
-            # Hindi format where meanings can follow `:`, `:**`, or ` :**`.
-            candidates = []
-            for m in re.finditer(r":", rest):
-                pos = m.end()
-                if pos >= len(rest):
-                    continue
-                text = rest[pos:]
-                deva_count = len(re.findall(DEV, text))
-                latin_count = len(re.findall(r"[a-zA-Z]+", text))
-                candidates.append((pos, text, deva_count, latin_count))
-
-            if not candidates:
+            # Split by first colon outside parentheses
+            split_pos = find_meaning_split(rest)
+            if split_pos == -1:
                 continue
+            bed = rest[split_pos+1:].strip()
 
-            # Pick: most Devanagari, fewest Latin
-            candidates.sort(key=lambda c: (c[2], -c[3]), reverse=True)
-            bed = candidates[0][1].strip()
+            # Determine language code from lang_dir
+            lang_code = "de"
+            for p in lang_dir.parts:
+                if p in LANG_CONFIG:
+                    lang_code = p
+                    break
 
-            # Aggressive cleanup — meaning text may contain metadata bleed-in
+            # Basic cleanup for all languages
             bed = bed.replace("*", "").replace("`", "")
             bed = re.sub(r"⟪[^⟪⟩]+⟫", "", bed)
-            bed = re.sub(r"[A-Za-z]+[.,]\s*", "", bed)
-            bed = re.sub(r"\d+[\u0900-\u097F.]+", "", bed)
-            bed = re.sub(r"\s+", " ", bed).strip()
-            bed = re.sub(r"^[,.:;]+|[,.:;]+$", "", bed)
 
-            if not re.search(DEV, bed) or len(bed) < 2:
-                continue
+            # Language-specific cleanup
+            if lang_code == "hi":
+                # Hindi: remove Latin and require Devanagari in meaning
+                bed = re.sub(r"[A-Za-z]+[.,]\s*", "", bed)
+                bed = re.sub(r"\d+[\u0900-\u097F.]+", "", bed)
+                bed = re.sub(r"\s+", " ", bed).strip()
+                bed = re.sub(r"^[,.:;]+|[,.:;]+$", "", bed)
+                if not re.search(r'[\u0900-\u097F]', bed) or len(bed) < 2:
+                    continue
+            elif lang_code == "ta":
+                # Tamil: remove Latin and require Tamil script
+                bed = re.sub(r"[A-Za-z]+[.,]\s*", "", bed)
+                bed = re.sub(r"\s+", " ", bed).strip()
+                bed = re.sub(r"^[,.:;]+|[,.:;]+$", "", bed)
+                if not re.search(r'[\u0B80-\u0BFF]', bed) or len(bed) < 2:
+                    continue
+            elif lang_code == "pa":
+                # Punjabi: remove Latin and require Gurmukhi script
+                bed = re.sub(r"[A-Za-z]+[.,]\s*", "", bed)
+                bed = re.sub(r"\s+", " ", bed).strip()
+                bed = re.sub(r"^[,.:;]+|[,.:;]+$", "", bed)
+                if not re.search(r'[\u0A00-\u0A7F]', bed) or len(bed) < 2:
+                    continue
+            else:
+                # Other languages (German, English, Italian, etc.)
+                # Clean up multiple spaces and strip punctuation
+                bed = re.sub(r"\s+", " ", bed).strip()
+                bed = re.sub(r"^[,.:;]+|[,.:;]+$", "", bed)
+                if len(bed) < 2:
+                    continue
 
             key = (deva, n)
             if key not in seen:
                 seen.add(key)
-                iast = deva_to_iast(deva)
-                if not iast:
-                    iast = deva
                 entries.append({
                     "iast": iast, "deva": deva, "genus": genus_val,
                     "bedeutung": bed, "lektion": n, "anchor": anchor,
@@ -374,7 +390,7 @@ def generate(lang: str) -> None:
         return
 
     entries.sort(key=lambda e: unicodedata.normalize("NFC", e["deva"]))
-    groups: dict = defaultdict(list)
+    groups = defaultdict(list)
     for e in entries:
         groups[first_char(e["deva"])].append(e)
 
@@ -402,9 +418,8 @@ def generate(lang: str) -> None:
             genus = e["genus"] or "—"
             bed = e["bedeutung"].replace("|", "/").replace("\n", " ")[:120]
             lekt_link = f"[{e['lektion']}]({c['link_prefix']}{e['lektion']:02d}{e['anchor']})"
-            # Wrap Sanskrit Devanagari in <strong><em> for SignalRot (VitePress
-            # doesn't render *** in table cells; raw HTML is always rendered)
-            deva_display = f"<strong><em>{e['deva']}</em></strong>"
+            # Wrap Sanskrit Devanagari in semantic brackets for extensible-markdown-plugin styling
+            deva_display = f"⟪{e['deva']}⟫"
             lines.append(f"| {deva_display} | {iast} | {genus} | {bed} | {lekt_link} |")
         lines.append("")
 
