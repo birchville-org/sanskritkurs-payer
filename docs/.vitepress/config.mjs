@@ -4,7 +4,7 @@ import { de } from './locales/de.mjs'
 import { en } from './locales/en.mjs'
 import { fr } from './locales/fr.mjs'
 import { it } from './locales/it.mjs'
-import { bg } from './locales/bg.mjs'
+// import { bg } from './locales/bg.mjs'
 import { ru } from './locales/ru.mjs'
 import { uk } from './locales/uk.mjs'
 import { hi } from './locales/hi.mjs'
@@ -18,7 +18,7 @@ import { rm } from './locales/rm.mjs'
 import { ro } from './locales/ro.mjs'
 // ── hidden (planned for later versions) ───────────────────────────────────────
 import { ar } from './locales/ar.mjs'
-import { arc } from './locales/arc.mjs'
+// import { arc } from './locales/arc.mjs'
 import { id } from './locales/id.mjs'
 import { zhCN } from './locales/zh-CN.mjs'
 import { he } from './locales/he.mjs'
@@ -58,9 +58,9 @@ pa.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'ਪਾਠ', 'pa', 
 pa.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'ਲਿਪੀ', 'pa')
 pa.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'ਅਭਿਆਸ', 'pa', 10)
 
-bg.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Урок', 'bg', 10)
-bg.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Писмо', 'bg')
-bg.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Упражнение', 'bg', 10)
+// bg.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Урок', 'bg', 10)
+// bg.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Писмо', 'bg')
+// bg.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Упражнение', 'bg', 10)
 
 ru.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Лекция', 'ru', 10)
 ru.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Письмо', 'ru')
@@ -91,9 +91,9 @@ ro.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercițiu', 'ro', 
 ar.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'الدرس', 'ar', 10)
 ar.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'الكتابة', 'ar')
 ar.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'التمرين', 'ar', 10)
-arc.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'ܡܠܦܢܘܬܐ', 'arc', 10)
-arc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'ܟܬܒܬܐ', 'arc')
-arc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'ܬܪܓܘܡܐ', 'arc', 10)
+// arc.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'ܡܠܦܢܘܬܐ', 'arc', 10)
+// arc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'ܟܬܒܬܐ', 'arc')
+// arc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'ܬܪܓܘܡܐ', 'arc', 10)
 he.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'שיעור', 'he', 10)
 he.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'כתב', 'he')
 he.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'תרגיל', 'he', 10)
@@ -134,7 +134,7 @@ grc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Γραφή', 'grc
 grc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Ἄσκησις', 'grc', 10)
 
 const isAuthorBuild = process.env.VITEPRESS_ENV === 'author';
-const allLocales = [de, en, it, ru, uk, hi, fr, es, ta, pa, ro, id, he, bg, la, rm, ar, arc, zhCN, el, th, grc];
+const allLocales = [de, en, it, ru, uk, hi, fr, es, ta, pa, ro, id, he, la, rm, ar, zhCN, el, th, grc];
 
 if (!isAuthorBuild) {
   for (const localeObj of allLocales) {
@@ -169,7 +169,7 @@ export default defineConfig({
     root: { ...de },
     en: { ...en },
     it: { ...it },
-    bg: { ...bg },
+    // bg: { ...bg },
     ru: { ...ru },
     uk: { ...uk },
     hi: { ...hi },
@@ -184,7 +184,7 @@ export default defineConfig({
     'zh-CN': { ...zhCN },
     he: { ...he },
     ar: { ...ar },
-    arc: { ...arc },
+    // 'arc': { ...arc },
     el: { ...el },
     th: { ...th },
     ro: { ...ro },
@@ -224,7 +224,7 @@ export default defineConfig({
             prefix: function(term) { return term.length >= 4; },
             boost: { title: 5, text: 1, titles: 3 },
             filter: function(result) {
-              const ACTIVE = ['en','it','ru','uk','hi','fr','es','ta','pa','la','rm','ro','id','he','bg','ar','arc','zh-CN','el','th','grc'];
+              const ACTIVE = ['en','it','ru','uk','hi','fr','es','ta','pa','la','rm','ro','id','he','ar','zh-CN','el','th','grc'];
               const seg = (typeof window !== 'undefined' ? window.location.pathname : '/').split('/').filter(Boolean)[0] || '';
               if (ACTIVE.includes(seg)) {
                 // Sprachseite: nur Ergebnisse dieser Sprache
@@ -240,7 +240,7 @@ export default defineConfig({
           root: { translations: { button: { buttonText: 'Suchen' } } },
           en: { translations: { button: { buttonText: 'Search' } } },
           it: { translations: { button: { buttonText: 'Cerca' } } },
-          bg: { translations: { button: { buttonText: 'Търсене' } } },
+          // bg: { translations: { button: { buttonText: 'Търсене' } } },
           ru: { translations: { button: { buttonText: 'Поиск' } } },
           uk: { translations: { button: { buttonText: 'Пошук' } } },
           hi: { translations: { button: { buttonText: 'खोज' } } },
@@ -254,7 +254,7 @@ export default defineConfig({
           he: { translations: { button: { buttonText: 'חפש' } } },
           rm: { translations: { button: { buttonText: 'Tschertgar' } } },
           ar: { translations: { button: { buttonText: 'بحث' } } },
-          arc: { translations: { button: { buttonText: 'ܒܥܬܐ' } } },
+          // arc: { translations: { button: { buttonText: 'ܒܥܬܐ' } } },
           la: { translations: { button: { buttonText: 'Quaerere' } } },
           sq: { translations: { button: { buttonText: 'Kërko' } } },
           el: { translations: { button: { buttonText: 'Αναζήτηση' } } },

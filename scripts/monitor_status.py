@@ -14,9 +14,9 @@ ROOT = Path(__file__).parent.parent
 DOCS = ROOT / "docs"
 
 ACTIVE_LANGS = [
-    'de', 'en', 'it', 'es', 'fr', 'hi', 'bg', 'ru', 'uk', 'ta', 'pa', 
-    'la', 'rm', 'ro', 'he', 'id', 'zh-CN', 'ar', 'arc', 'th', 'el', 'cop',
-    'grc', 'fa', 'nl', 'af', 'lt', 'sh', 'sq', 'akk', 'am', 'gez', 'fi', 'hu'
+    'de', 'en', 'it', 'es', 'fr', 'hi', 'ru', 'uk', 'ta', 'pa', 
+    'la', 'rm', 'ro', 'he', 'id', 'zh-CN', 'ar', 'th', 'el', 'cop',
+    'grc', 'fa', 'nl', 'af', 'lt', 'sh', 'sq', 'am', 'gez', 'fi', 'hu'
 ]
 
 LANGS = {
@@ -26,7 +26,6 @@ LANGS = {
     "es": ("Español",  DOCS / "es/lektionen"),
     "fr": ("Français", DOCS / "fr/lektionen"),
     "hi": ("हिंदी",    DOCS / "hi/lektionen"),
-    "bg": ("Български",DOCS / "bg/lektionen"),
     "ru": ("Русский",  DOCS / "ru/lektionen"),
     "uk": ("Українська",DOCS/"uk/lektionen"),
     "ta": ("தமிழ்",    DOCS / "ta/lektionen"),
@@ -38,7 +37,6 @@ LANGS = {
     "id": ("Indonesia",DOCS / "id/lektionen"),
     "zh-CN": ("简体中文", DOCS / "zh-CN/lektionen"),
     "ar": ("العربية",   DOCS / "ar/lektionen"),
-    "arc": ("ܐܪܡܝܐ",    DOCS / "arc/lektionen"),
     "th": ("ไทย",      DOCS / "th/lektionen"),
     "am": ("አማርኛ", DOCS / "am/lektionen"),
     "gez": ("ግዕዝ", DOCS / "gez/lektionen"),
@@ -51,7 +49,6 @@ LANGS = {
     "lt": ("Lietuvių", DOCS / "lt/lektionen"),
     "sh": ("Srpskohrvatski", DOCS / "sh/lektionen"),
     "sq": ("Shqip", DOCS / "sq/lektionen"),
-    "akk": ("Akkadian", DOCS / "akk/lektionen"),
     "fi": ("Suomi", DOCS / "fi/lektionen"),
     "hu": ("Magyar", DOCS / "hu/lektionen"),
 }

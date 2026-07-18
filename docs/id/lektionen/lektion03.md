@@ -87,131 +87,57 @@ Catatan: **e** adalah tingkat tinggi (**guṇa**) dari **i**, **o** adalah tingk
 
 ## 3.4. Sandhi Vokal
 
-::: info Etimologi dan Penjelasan
-**Sandhi** (Sanskerta: ⟪संधि⟫, *saṃdhi*) secara harfiah berarti "pertemuan", "sambungan", atau "aliansi". Dalam tata bahasa Sanskerta, istilah ini mengacu pada aturan fonologis yang mengatur bagaimana bunyi-bunyi pada batas kata berinteraksi dan menyatu ketika kata-kata tersebut diucapkan secara berurutan.
-
-**Vokalsandhi** adalah subset khusus dari sandhi yang melibatkan vokal. Aturan-aturan ini menentukan bagaimana dua vokal yang bersebelahan (satu dari akhir kata pertama dan satu dari awal kata kedua) berubah atau bergabung menjadi satu vokal baru, atau tetap terpisah tergantung pada konteks fonetiknya.
-
-Tujuan dari sandhi adalah untuk memastikan kelancaran ucapan (*pratyāhāra*) dan menjaga ritme puisi serta mantra. Tanpa sandhi, ucapan Sanskerta akan terdengar patah-patah dan tidak alami.
-
-
-:::
-### Prinsip Dasar Vokalsandhi
-
-Vokalsandhi terjadi ketika sebuah kata berakhir dengan vokal dan kata berikutnya dimulai dengan vokal. Aturan-aturan ini sangat sistematis dan dapat diprediksi.
-
-Berikut adalah tabel ringkasan aturan vokalsandhi untuk vokal pendek dan panjang:
-
-| Vokal Akhir (Purva-pada) | Vokal Awal (Para-pada) | Hasil Sandhi | Contoh (A+B) | Hasil |
-| :--- | :--- | :--- | :--- | :--- |
-| **a / ā** | **a / ā** | **ā** | *tad + asti* → *tāsti* | *tāsti* |
-| **a / ā** | **i / ī** | **e** | *tad + iti* → *tedi* | *tedi* |
-| **a / ā** | **u / ū** | **o** | *tad + uṣas* → *toṣas* | *toṣas* |
-| **a / ā** | **ṛ / ṝ** | **ar** | *tad + ṛta* → *tarṭa* | *tarṭa* |
-| **i / ī** | **a / ā** | **e** | *kari + āti* → *keāti* | *keāti* |
-| **i / ī** | **i / ī** | **ī** | *kari + iti* → *kīiti* | *kīiti* |
-| **i / ī** | **u / ū** | **ai** | *kari + uṣas* → *kaīṣas* | *kaīṣas* |
-| **i / ī** | **ṛ / ṝ** | **air** | *kari + ṛta* → *kairṭa* | *kairṭa* |
-| **u / ū** | **a / ā** | **o** | *gacu + āti* → *gocāti* | *gocāti* |
-| **u / ū** | **i / ī** | **o** | *gacu + iti* → *gociti* | *gociti* |
-| **u / ū** | **u / ū** | **ū** | *gacu + uṣas* → *gūṣas* | *gūṣas* |
-| **u / ū** | **ṛ / ṝ** | **aur** | *gacu + ṛta* → *gaurṭa* | *gaurṭa* |
-| **ṛ / ṝ** | **a / ā / i / ī / u / ū** | **ar / aur** | *ṛta + asti* → *arta* | *arta* |
-
-
-
-### Penjelasan Detail Aturan
-
-#### 1. Penggabungan Vokal Serupa (a/ā + a/ā → ā)
-Jika kata pertama berakhir dengan *a* atau *ā*, dan kata kedua dimulai dengan *a* atau *ā*, maka keduanya bergabung menjadi *ā*.
-*   *tad + asti* → *tāsti* (Itu ada)
-*   *rāmaḥ + āgataḥ* → *rāmāgataḥ* (Rama telah datang)
-
-#### 2. Penggabungan ke E (a/ā + i/ī → e)
-Jika kata pertama berakhir dengan *a* atau *ā*, dan kata kedua dimulai dengan *i* atau *ī*, maka hasilnya adalah *e*.
-*   *tad + iti* → *tedi* (Demikian)
-*   *devaḥ + īśaḥ* → *devīśaḥ* → *devīśaḥ* (Catatan: Dalam praktik, *i* setelah *a* sering menjadi *e*, sehingga *devaḥ + īśaḥ* bisa menjadi *devīśaḥ* atau *devīśaḥ* tergantung dialek, namun aturan standar Panini menghasilkan *e*). Koreksi: *tad + iti* → *tedi*. *rāmaḥ + īśaḥ* → *rāmīśaḥ* (bentuk lain) atau *rāmīśaḥ*. Aturan baku: *a/i/ī* + *i/ī* → *e*. Jadi *tad + iti* → *tedi*.
-
-#### 3. Penggabungan ke O (a/ā + u/ū → o)
-Jika kata pertama berakhir dengan *a* atau *ā*, dan kata kedua dimulai dengan *u* atau *ū*, maka hasilnya adalah *o*.
-*   *tad + uṣas* → *toṣas* (Sang Fajar)
-*   *rāmaḥ + ugrah* → *rograh* (Rama yang gagah)
-
-#### 4. Penggabungan ke Ar/Aur (a/ā + ṛ/ṝ → ar/aur)
-Jika kata pertama berakhir dengan *a* atau *ā*, dan kata kedua dimulai dengan *ṛ* atau *ṝ*, maka hasilnya adalah *ar* atau *aur*.
-*   *tad + ṛta* → *tarṭa* (Kebenaran)
-*   *rāmaḥ + ṝṣiḥ* → *rāmaṝṣiḥ* → *rāmaṛṣiḥ* (Rama yang resi)
-
-#### 5. Penggabungan ke E (i/ī + a/ā → e)
-Jika kata pertama berakhir dengan *i* atau *ī*, dan kata kedua dimulai dengan *a* atau *ā*, maka hasilnya adalah *e*.
-*   *kari + āti* → *keāti* (Dia yang bekerja)
-*   *vāṇī + āgataḥ* → *vāṇīāgataḥ* → *vāṇīāgataḥ* (Catatan: *i* + *a* → *e*. Jadi *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *i* + *a* → *e*. Jadi *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Mari kita periksa: *i* + *a* → *e*. Jadi *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī* berakhir dengan *ī*. *ī* + *ā* → *e*. Jadi *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Maaf, kebingungan. *i/ī* + *a/ā* → *e*. Jadi *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vāṇī + āgataḥ* → *vāṇīāgataḥ* menjadi *vāṇīāgataḥ*? Tidak, *vā
-
-
-
 ::: grammar-box
-**Vokal sederhana yang hanya berbeda dalam panjangnya, atau tidak berbeda sama sekali, "berfusi" menjadi vokal panjang yang sesuai:**
+**Vokal sederhana yang tidak berbeda atau hanya berbeda dalam panjangnya, "berfusi" menjadi vokal panjang yang sesuai:**
 - -a / -ā + a- / ā- » **-ā-**
 - -i / -ī + i- / ī- » **-ī-**
 - -u / -ū + u- / ū- » **-ū-**
 - (-ṛ + ṛ- » **-ṝ-**)
-
 :::
 misalnya
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā adalah seorang dewi" = ⟪देवतान्नपूर्णा⟫
+devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā adalah sesosok dewi" = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā adalah dewi makanan dan memasak, ia dianggap sebagai perwujudan Pārvatī, istri Śiva.)
+> (Annapūrṇā adalah dewi makanan dan memasak, ia dianggap sebagai perwujudan dari Pārvatī, istri Śiva.)
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī adalah seorang dewi" = ⟪देवीन्द्राणी⟫
+devī + indrāṇī » devīndrāṇī "Indrāṇī adalah sesosok dewi" = ⟪देवीन्द्राणी⟫
 
 > (Indrāṇī adalah istri dari dewa Indra.)
-
-
 
 ::: media
 ![](/images/lekt0301.webp)
 Gambar: Indra dan Indrāṇī di atas gajah Airavata, miniatur, Rājasthān, 1670/80
 (Sumber gambar: [Details](/id/licenses#lekt0301))
-
 :::
+
 ::: grammar-box
-**Vokal sederhana (kecuali -a / -ā) diganti dengan semivokal yang sesuai sebelum vokal yang tidak serupa:**
+**Vokal sederhana (kecuali -a / -ā) digantikan oleh semivokal yang sesuai sebelum vokal yang tidak sejenis:**
 - -i / -ī » **-y-**
 - -u / -ū » **-v-**
 - -ṛ » **-r-**
-(!! Terdapat pengecualian untuk aturan ini, khususnya untuk bentuk dwitunggal !!)
+(!! Aturan ini memiliki pengecualian, khususnya untuk bentuk dual !!)
 :::
 misalnya
 
-devī + umā » devy umā "Umā adalah seorang / sang Dewi" = ⟪देव्युमा⟫
+devī + umā » devy umā "Umā adalah dewi / sang dewi" = ⟪देव्युमा⟫
 
-> (Umā adalah nama untuk Pārvatī, istri Śiva)
-
-
+> (Umā adalah nama lain untuk Pārvatī, istri Śiva)
 
 ::: grammar-box
-**-a / -ā sebelum vokal yang tidak serupa:**
+**-a / -ā sebelum vokal yang tidak sejenis:**
 - -a / -ā + i- / ī- » **-e-**
 - -a / -ā + ṛ- » **-ar-**
 - -a / -ā + e- / ai- » **-ai-**
 - -a / -ā + o- / au- » **-au-**
-
 :::
-Untuk Sandhi ini, skema berikut berlaku:
-
-
+Untuk sandhi ini berlaku skema berikut:
 
 ::: media
 ![](/images/lekt0302.jpg)
-(Sumber gambar: [Rincian](/id/licenses#lekt0302))
-
+(Sumber gambar: [Details](/id/licenses#lekt0302))
 :::
-Tentang tingkatan klan yang disebut ini, lihat nanti!
 
-misalnya
-
-śūdrā + itarā » śudretarā "Itarā adalah seorang wanita Śūdra" = ⟪शूद्रेतरा⟫
+Mengenai apa yang disebut penyesuaian batang kata (Stammabstufung) ini akan dibahas nanti!
 
 ---
 

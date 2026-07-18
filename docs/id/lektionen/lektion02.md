@@ -88,30 +88,30 @@ Pelafalan akhir sebuah kata dalam bahasa Sanskerta juga ditentukan oleh pelafala
 
 Lihat juga ringkasan:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi dari -s akhir. -- (Materialia tentang Sanskerta). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois &lt;1944 - &gt;:** Sandhi dari akhiran -s. -- (Materialia tentang Sanskerta). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-Auslautendes **-s**:
+Akhiran **-s**:
 
 - **di akhir absolut** (akhir kalimat) berubah menjadi **Visarga (-ḥ)**:
   - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
   - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
   - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
-- **vor stimmlosen Lauten**:
-  - vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)**
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva ist ein Gott")
-  - vor **c, ch**: wird zu **-ś**
-  - vor **ṭ, ṭh**: wird zu **-ṣ**
-  - vor **t, th**: bleibt **-s**
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya ist ein Heiliger")
+- **sebelum bunyi tak bersuara (stimmlos)**:
+  - sebelum **k, kh, p, ph** dan **ś, ṣ, s**: berubah menjadi **Visarga (-ḥ)**
+    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva adalah dewa")
+  - sebelum **c, ch**: berubah menjadi **-ś**
+  - sebelum **ṭ, ṭh**: berubah menjadi **-ṣ**
+  - sebelum **t, th**: tetap **-s**
+    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya adalah orang suci")
 
-- **sebelum bunyi bersuara**:
+- **sebelum bunyi bersuara (stimmhaft)**:
   - setelah vokal bukan-a: berubah menjadi **-r**
     - **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha adalah seorang penyair")
   - setelah vokal bukan-a sebelum **r-**: **-s** hilang, vokal diperpanjang.
     - **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ ("Rāma adalah seorang guru")
   - setelah **a-**: **-as**
-    - sebelum konsonan bersuara/a: berubah menjadi **-o** (a awal hilang » ⟪ऽ⟫)
+    - sebelum konsonan bersuara/a: berubah menjadi **-o** (vokal a di awal kata berikutnya hilang » ⟪ऽ⟫)
       - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
       - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
     - sebelum vokal lain: berubah menjadi **-a** (Hiatus)

@@ -13,21 +13,21 @@ API_URL = "http://nyx.local:8000/v1/chat/completions"
 MODEL = "mlx-community/Qwen3.6-35B-A3B-4bit"
 LAST_RESTART_TIME = 0
 LANGUAGES = [
-    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "ta", "pa",
-    "la", "rm", "ro", "id", "zh-CN", "he", "ar", "arc",
-    "th", "el", "cop", "grc", "fa", "nl", "af", "lt", "sh", "sq", "akk", "am", "gez", "fi", "hu"
+    "en", "it", "es", "ru", "uk", "hi", "fr", "ta", "pa",
+    "la", "rm", "ro", "id", "zh-CN", "he", "ar",
+    "th", "el", "cop", "grc", "fa", "nl", "af", "lt", "sh", "sq", "am", "gez", "fi", "hu"
 ]
 LANG_NAMES = {
     "en": "English", "it": "Italian", "es": "Spanish",
-    "ru": "Russian", "uk": "Ukrainian", "bg": "Bulgarian",
+    "ru": "Russian", "uk": "Ukrainian",
     "hi": "Hindi", "fr": "French", "ta": "Tamil", "pa": "Punjabi (Gurmukhi)",
     "la": "Latin", "rm": "Rumantsch Grischun", "ro": "Romanian",
     "id": "Indonesian", "zh-CN": "Simplified Chinese",
     "th": "Thai", "he": "Hebrew",
-    "ar": "Arabic", "arc": "Aramaic",
+    "ar": "Arabic",
 #    "zh": "Mandarin Chinese",
     "grc": "Ancient Greek", "el": "Modern Greek", "am": "Amharic", "gez": "Ge\'ez",
-    "fa": "Persian (Farsi)", "akk": "Akkadian", "cop": "Coptic",
+    "fa": "Persian (Farsi)", "cop": "Coptic",
     "fi": "Finnish", "hu": "Hungarian",
 }
 LESSONS = list(range(1, 62))

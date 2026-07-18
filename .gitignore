@@ -86,6 +86,8 @@ scripts/syntax_*.py
 
 # Planned/Inactive languages (not in v1.5)
 docs/akk/
+docs/arc/
+docs/bg/
 docs/cop/
 docs/el/
 docs/fa/

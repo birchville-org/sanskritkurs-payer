@@ -17,13 +17,13 @@ last_reconstructed: 2026-04-30
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Pemujaan kepada Gaṇeśa
+:::
 
-:::: media
+::: media
 ![](/images/lekt0102.webp)
 Gambar: Gaṇeśa, Adamspeak, Sri Lanka
 (Sumber gambar: [Details](/id/licenses#lekt0102))
 
-::::
 :::
 ::: center
 ⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫
@@ -46,17 +46,17 @@ Bebas dari halangan!
 
 
 
-::: center
+:::: center
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Awalan yang membawa keberuntungan"
-:::: media
+::: media
 ![](/images/lekt0101.webp)
 Gambar: Ardhanarīśvara
 (Sumber gambar: [Details](/id/licenses#lekt0101))
 
-::::
 :::
+::::
 ::: center
 ⟪वागर्थाविव⟫ ⟪संपृक्तौ⟫
 ⟪वागर्थप्रतिपत्तये⟫ |
