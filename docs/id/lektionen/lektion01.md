@@ -46,17 +46,17 @@ Bebas dari halangan!
 
 
 
-:::: center
+::: center
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Awalan yang membawa keberuntungan"
+:::
 ::: media
 ![](/images/lekt0101.webp)
 Gambar: Ardhanarīśvara
 (Sumber gambar: [Details](/id/licenses#lekt0101))
 
 :::
-::::
 ::: center
 ⟪वागर्थाविव⟫ ⟪संपृक्तौ⟫
 ⟪वागर्थप्रतिपत्तये⟫ |

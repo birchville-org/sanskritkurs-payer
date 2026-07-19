@@ -1,35 +1,37 @@
 ---
 layout: doc
-title: Impressum & Citation
+title: "אודות וציטוט"
 ---
 
-# Impressum, זכויות יוצרים & Citation
 
-*The following text was extracted during the conversion from the lesson files to improve the reading flow.*
 
-## ציטוט | יש לצטט כך:
-**Payer, Alois \<1944 - \>:** Sanskrit Course. -- Version of 2010. -- URL: http://www.payer.de/sanskritkurs/
+# הודעות משפטיות, זכויות יוצרים ודרכי ציטוט
 
-## אירוע
-Created for the courses 1980 - 1984
+*הטקסט הבא הוצא מקבצישי השיעורים במהלך ההמרה, כדי לשפר את זרימת הקריאה.*
+
+## דרכי ציטוט | cite as:
+**Payer, Alois \&lt;1944 - \&gt;:** קורס סנסקריט. -- גרסה משנת 2010. -- URL: http://www.payer.de/sanskritkurs/
+
+## נסיבות הקמה
+נוצר עבור קורסי הוראה בשנים 1980 - 1984
 
 ## זכויות יוצרים
-This text is available to the public. 
-Any use in publications that goes beyond standard quotations requires the explicit permission of the author.
+טקסט זה נמצא ברשות הציבור. 
+ניצוח בטקסטים, החורג מציטוטים מקובלים, דורש את אישור המחבר במפורש.
 
-This text is part of the Sanskrit section of **Tüpfli's Global Village Library**.
+טקסט זה הוא חלק ממחלקת הסנסקריט של **ספריית הכפר הגלובלי של Tüpfli**.
 
 ---
 
-## רישיון פרסום זה
+## רישיון לפרסום זה
 
-**Original text** (German lessons): © Alois Payer. The text is available to the general public; its use in publications requires the explicit permission of the author.
+**טקסט מקורי** (שיעורים בגרמנית): © אלוيس פיייר. הטקסט נמצא ברשות הציבור; ניצוח בטקסטים דורש את אישור המחבר במפורש.
 
-**AI-generated translations** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) and **technical pipeline** (scripts, QA viewer, VitePress configuration):
+**תרגומים שנוצרו על ידי בינה מלאכותית** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) ו**צינור טכני** (סקריפטים, תצוגת בדיקת איכות, הגדרות VitePress):
 
-- Translations: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Attribution, ShareAlike
-- Code/Pipeline: [MIT License](https://opensource.org/licenses/MIT)
+- תרגומים: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — ייחוס, שיתוף זהה
+- קוד/צינור: [רישיון MIT](https://opensource.org/licenses/MIT)
 
-**Citation format for the translations:**
-> Payer, Alois: Sanskrit course. Translated with AI assistance. Marco Demarmels (ed.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+**דרכי ציטוט לתרגומים:**
+> Payer, Alois: קורס סנסקריט. תורגם בעזרת בינה מלאכותית. Marco Demarmels (עורך), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 

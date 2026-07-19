@@ -3,105 +3,109 @@ aside: true
 outline: [2, 3]
 ---
 
-# Grammar Topics
 
-This page provides a systematic overview of all grammatical topics of the Sanskrit course. Each of the 61 lessons is categorized thematically here.
 
-## 1. Phonology & Script (Saṃhitā & Lipi)
+# Topik Tata Bahasa
 
-*   **Introduction to Sounds**: Systematics and pronunciation → [Lesson 1](/en/lektionen/lektion01)
-*   **Script Introduction (Devanāgarī)**:
-    *   Vowels and simple consonants → [Lesson 40](/en/lektionen/lektion40)
-    *   Conjunct consonants (Ligatures) → [Lesson 41](/en/lektionen/lektion41) & [Lesson 42](/en/lektionen/lektion42)
-*   **Sandhi (Sound Combination)**:
-    *   Sandhi of final **-s/Visarga** → [Lesson 2](/en/lektionen/lektion02), [Lesson 3](/en/lektionen/lektion03), [Lesson 30](/en/lektionen/lektion30)
-    *   Sandhi of **-m, -e, -d** → [Lesson 4](/en/lektionen/lektion04)
-    *   **Vowel Sandhi** → [Lesson 3](/en/lektionen/lektion03), [Lesson 24](/en/lektionen/lektion24)
-    *   Sandhi of **-n** → [Lesson 7](/en/lektionen/lektion07)
-    *   Sandhi for **Nasals** → [Lesson 21](/en/lektionen/lektion21), [Lesson 26](/en/lektionen/lektion26)
-    *   Cerebralisation (**n → ṇ / s → ṣ**) → [Lesson 10](/en/lektionen/lektion10), [Lesson 26](/en/lektionen/lektion26)
-    *   Word Sandhi (h-, ch-) → [Lesson 44](/en/lektionen/lektion44), [Lesson 51](/en/lektionen/lektion51)
-    *   **Consonant Sandhi** (Summaries) → [Lesson 16](/en/lektionen/lektion16), [Lesson 43](/en/lektionen/lektion43)
+Halaman ini menyediakan gambaran sistematis mengenai semua topik tata bahasa dari kursus Sanskerta. Setiap dari 61 pelajaran diklasifikasikan secara tematik di sini.
 
-## 2. Word Study (Morphology)
+## 1. Fonologi & Aksara (Saṃhitā & Lipi)
 
-### 2.1 Nouns and Adjectives (Declension)
+*   **Pengenalan bunyi**: Sistem dan pengucapan -\> [Pelajaran 1](/id/lektionen/lektion01)
+*   **Pengenalan aksara (Devanāgarī)**:
+*   Vokal dan konsonan sederhana -\> [Pelajaran 40](/id/lektionen/lektion40)
+*   Konsonan gabungan (ligatur) -\> [Pelajaran 41](/id/lektionen/lektion41) & [Pelajaran 42](/id/lektionen/lektion42)
+*   **Sandhi (gabungan bunyi)**:
+*   Sandhi dari akhiran **-s/Visarga** -\> [Pelajaran 2](/id/lektionen/lektion02), [Pelajaran 3](/id/lektionen/lektion03), [Pelajaran 30](/id/lektionen/lektion30)
+*   Sandhi dari **-m, -e, -d** -\> [Pelajaran 4](/id/lektionen/lektion04)
+*   **Sandhi vokal** -\> [Pelajaran 3](/id/lektionen/lektion03), [Pelajaran 24](/id/lektionen/lektion24)
+*   Sandhi dari **-n** -\> [Pelajaran 7](/id/lektionen/lektion07)
+*   Sandhi untuk **Nasal** -\> [Pelajaran 21](/id/lektionen/lektion21), [Pelajaran 26](/id/lektionen/lektion26)
+*   Serebralisaasi (**n -\> ṇ / s -\> ṣ**) -\> [Pelajaran 10](/id/lektionen/lektion10), [Pelajaran 26](/id/lektionen/lektion26)
+*   Sandhi kata (h-, ch-) -\> [Pelajaran 44](/id/lektionen/lektion44), [Pelajaran 51](/id/lektionen/lektion51)
+*   **Sandhi konsonan** (ringkasan) -\> [Pelajaran 16](/id/lektionen/lektion16), [Pelajaran 43](/id/lektionen/lektion43)
 
-*   **Fundamentals**: Case grammar → [Lesson 1](/en/lektionen/lektion01), [Lesson 2](/en/lektionen/lektion02)
-*   **A-stems** (Masculine & Neuter) → [Lesson 2](/en/lektionen/lektion02), [Lesson 7](/en/lektionen/lektion07)
-*   **I- and U-stems** → [Lesson 3](/en/lektionen/lektion03), [Lesson 27](/en/lektionen/lektion27), [Lesson 52](/en/lektionen/lektion52)
-*   **Consonant stems**:
-    *   Stems ending in **-mant / -vant** → [Lesson 13](/en/lektionen/lektion13)
-    *   Stems ending in **-n** (Rājan, Ātman) → [Lesson 38](/en/lektionen/lektion38)
-    *   Simple consonant stems → [Lesson 51](/en/lektionen/lektion51), [Lesson 54](/en/lektionen/lektion54)
-    *   Root nouns ending in **-ā, -ī, -ū** → [Lesson 61](/en/lektionen/lektion61)
-*   **The Dual** of nouns → [Lesson 49](/en/lektionen/lektion49), [Lesson 50](/en/lektionen/lektion50), [Lesson 53](/en/lektionen/lektion53)
-*   **Numbers & Degrees of comparison**:
-    *   Numeral words (Cardinals/Ordinals) → [Lesson 52](/en/lektionen/lektion52)
-    *   Degrees of comparison (Comparative/Superlative) → [Lesson 53](/en/lektionen/lektion53)
+## 2. Morfologi Kata (Morfologi)
 
-### 2.2 Pronouns & Adverbs
+### 2.1 Nomina dan Adjektiva (Deklinasi)
 
-*   **Pronouns**:
-    *   Interrogative and demonstrative pronouns -\> [Lesson 4](/en/lektionen/lektion04)
-    *   Relative pronoun (yad) -\> [Lesson 19](/en/lektionen/lektion19)
-    *   Personal pronouns (1st & 2nd person) -\> [Lesson 46](/en/lektionen/lektion46), [Lesson 47](/en/lektionen/lektion47)
-    *   Indefinite pronouns -\> [Lesson 37](/en/lektionen/lektion37)
-*   **Adverbs & Address**:
-    *   Formation of adverbs -\> [Lesson 37](/en/lektionen/lektion37), [Lesson 52](/en/lektionen/lektion52)
-    *   Polite address & vocative -\> [Lesson 21](/en/lektionen/lektion21), [Lesson 44](/en/lektionen/lektion44)
+*   **Dasar-dasar**: Teori kasus -\> [Pelajaran 1](/id/lektionen/lektion01), [Pelajaran 2](/id/lektionen/lektion02)
+*   **Stem A** (Maskulinum & Neutrum) -\> [Pelajaran 2](/id/lektionen/lektion02), [Pelajaran 7](/id/lektionen/lektion07)
+*   **Stem I dan U** -\> [Pelajaran 3](/id/lektionen/lektion03), [Pelajaran 27](/id/lektionen/lektion27), [Pelajaran 52](/id/lektionen/lektion52)
+*   **Stem konsonan**:
+*   Stem pada **-mant / -vant** -\> [Pelajaran 13](/id/lektionen/lektion13)
+*   Stem pada **-n** (Rājan, Ātman) -\> [Pelajaran 38](/id/lektionen/lektion38)
+*   Stem konsonan sederhana -\> [Pelajaran 51](/id/lektionen/lektion51), [Pelajaran 54](/id/lektionen/lektion54)
+*   Nomina akar pada **-ā, -ī, -ū** -\> [Pelajaran 61](/id/lektionen/lektion61)
+*   **Dual (angka dua)** dari nomina -\> [Pelajaran 49](/id/lektionen/lektion49), [Pelajaran 50](/id/lektionen/lektion50), [Pelajaran 53](/id/lektionen/lektion53)
+*   **Angka & Derajat perbandingan**:
+*   Kata bilangan (Kardinalia/Ordinalia) -\> [Pelajaran 52](/id/lektionen/lektion52)
+*   Derajat perbandingan (Komparatif/Superlatif) -\> [Pelajaran 53](/id/lektionen/lektion53)
 
-### 2.3 Verbs (Conjugation)
+### 2.2 Pronomina & Adverbia
 
-*   **The Present System (Indicative)**:
-    *   Personal endings (3rd, 2nd, 1st person) -\> [Lesson 6](/en/lektionen/lektion06), [Lesson 44](/en/lektionen/lektion44), [Lesson 39](/en/lektionen/lektion39)
-    *   Thematic classes (1, 4, 6, 10) -\> [Lesson 6](/en/lektionen/lektion06), [Lesson 28](/en/lektionen/lektion28)
-    *   Athematic classes -\> [Lesson 17](/en/lektionen/lektion17), [Lesson 33](/en/lektionen/lektion33), [Lesson 7](/en/lektionen/lektion07), [Lesson 31](/en/lektionen/lektion31), [Lesson 8](/en/lektionen/lektion08), [Lesson 30](/en/lektionen/lektion30)
-*   **Other Tenses & Moods**:
-    *   **Imperfect** (Past) -\> [Lesson 32](/en/lektionen/lektion32)
-    *   **Optative & Imperative** -\> [Lesson 30](/en/lektionen/lektion30), [Lesson 48](/en/lektionen/lektion48)
-    *   **Perfect** (Singular/Plural) -\> [Lesson 34](/en/lektionen/lektion34), [Lesson 35](/en/lektionen/lektion35), [Lesson 36](/en/lektionen/lektion36)
-    *   **Perfect (Dual)** -\> [Lesson 60](/en/lektionen/lektion60)
-    *   **Future** (Simple & Periphrastic) -\> [Lesson 26](/en/lektionen/lektion26), [Lesson 61](/en/lektionen/lektion61)
-    *   **Aorist** (Past) -\> [Lesson 54](/en/lektionen/lektion54), [Lesson 55](/en/lektionen/lektion55), [Lesson 56](/en/lektionen/lektion56), [Lesson 57](/en/lektionen/lektion57), [Lesson 58](/en/lektionen/lektion58)
-*   **Derived Verb Forms**:
-    *   **Passive & Causative** -\> [Lesson 10](/en/lektionen/lektion10), [Lesson 28](/en/lektionen/lektion28), [Lesson 29](/en/lektionen/lektion29)
-    *   **Intensive & Denominative** -\> [Lesson 61](/en/lektionen/lektion61)
-*   **Verbs in the Dual (Dual Number)** -\> [Lesson 59](/en/lektionen/lektion59), [Lesson 60](/en/lektionen/lektion60)
+*   **Pronomina**:
+*   Pronomina tanya dan demonstratif -\> [Pelajaran 4](/id/lektionen/lektion04)
+*   Pronomina relatif (yad) -\> [Pelajaran 19](/id/lektionen/lektion19)
+*   Pronomina personal (Orang ke-1 & ke-2) -\> [Pelajaran 46](/id/lektionen/lektion46), [Pelajaran 47](/id/lektionen/lektion47)
+*   Pronomina indefinit -\> [Pelajaran 37](/id/lektionen/lektion37)
+*   **Adverbia & Sapaan**:
+*   Pembentukan adverbia -\> [Pelajaran 37](/id/lektionen/lektion37), [Pelajaran 52](/id/lektionen/lektion52)
+*   Sapaan sopan & vokatif -\> [Pelajaran 21](/id/lektionen/lektion21), [Pelajaran 44](/id/lektionen/lektion44)
 
-### 2.4 Nominal Derivations & Compounds
 
-*   **Compounds (Samāsa)**:
-    *   **Dvandva** (Copulative Compound) -\> [Lesson 5](/en/lektionen/lektion05), [Lesson 9](/en/lektionen/lektion09)
-    *   **Tatpuruṣa** (Determinative) -\> [Lesson 15](/en/lektionen/lektion15), [Lesson 18](/en/lektionen/lektion18)
-    *   Upapada Compounds -\> [Lesson 51](/en/lektionen/lektion51)
-    *   **Bahuvrīhi** (Possessive) -\> [Lesson 20](/en/lektionen/lektion20)
-*   **Suffixes & Participles**:
-    *   Important Suffixes (-a, -ana, -tra, etc.) -\> [Lesson 8](/en/lektionen/lektion08), [Lesson 9](/en/lektionen/lektion09)
-    *   **PPP** (Past Participle Passive) -\> [Lesson 12](/en/lektionen/lektion12), [Lesson 13](/en/lektionen/lektion13)
-    *   **PPA** (Past Participle Active) -\> [Lesson 52](/en/lektionen/lektion52)
-    *   **Absolutive & Infinitive** -\> [Lesson 22](/en/lektionen/lektion22), [Lesson 23](/en/lektionen/lektion23)
+### 2.3 Kata Kerja (Konjugasi)
 
-## 3. Sentence Structure (Syntax)
+*   **Sistem Present tense (Indikatif)**:
+*   Akhiran orang ke-3, ke-2, dan ke-1 -\> [Pelajaran 6](/id/lektionen/lektion06), [Pelajaran 44](/id/lektionen/lektion44), [Pelajaran 39](/id/lektionen/lektion39)
+*   Kelas tematik (1, 4, 6, 10) -\> [Pelajaran 6](/id/lektionen/lektion06), [Pelajaran 28](/id/lektionen/lektion28)
+*   Kelas atematika -\> [Pelajaran 17](/id/lektionen/lektion17), [Pelajaran 33](/id/lektionen/lektion33), [Pelajaran 7](/id/lektionen/lektion07), [Pelajaran 31](/id/lektionen/lektion31), [Pelajaran 8](/id/lektionen/lektion08), [Pelajaran 30](/id/lektionen/lektion30)
+*   **Tempus & Modus lainnya**:
+*   **Imperfek** (Masa lalu) -\> [Pelajaran 32](/id/lektionen/lektion32)
+*   **Optatif & Imperatif** -\> [Pelajaran 30](/id/lektionen/lektion30), [Pelajaran 48](/id/lektionen/lektion48)
+*   **Perfek** (Singular/Plural) -\> [Pelajaran 34](/id/lektionen/lektion34), [Pelajaran 35](/id/lektionen/lektion35), [Pelajaran 36](/id/lektionen/lektion36)
+*   **Perfek (Dual)** -\> [Pelajaran 60](/id/lektionen/lektion60)
+*   **Futurum** (Sederhana & Periphrastis) -\> [Pelajaran 26](/id/lektionen/lektion26), [Pelajaran 61](/id/lektionen/lektion61)
+*   **Aorist** (Masa lalu) -\> [Pelajaran 54](/id/lektionen/lektion54), [Pelajaran 55](/id/lektionen/lektion55), [Pelajaran 56](/id/lektionen/lektion56), [Pelajaran 57](/id/lektionen/lektion57), [Pelajaran 58](/id/lektionen/lektion58)
+*   **Bentuk kata kerja turunan**:
+*   **Pasif & Kausatif** -\> [Pelajaran 10](/id/lektionen/lektion10), [Pelajaran 28](/id/lektionen/lektion28), [Pelajaran 29](/id/lektionen/lektion29)
+*   **Intensivum & Denominativa** -\> [Pelajaran 61](/id/lektionen/lektion61)
+*   **Kata kerja dalam Dual (Bilangan Dua)** -\> [Pelajaran 59](/id/lektionen/lektion59), [Pelajaran 60](/id/lektionen/lektion60)
 
-*   **The nominal sentence** -\> [Lesson 2](/en/lektionen/lektion02)
-*   **The interrogative sentence** -\> [Lesson 37](/en/lektionen/lektion37)
-*   **Case usage**:
-    *   Nominal sentence & Nominative -\> [Lesson 2](/en/lektionen/lektion02)
-    *   Accusative (also double) -\> [Lesson 7](/en/lektionen/lektion07), [Lesson 11](/en/lektionen/lektion11)
-    *   Instrumental -\> [Lesson 10](/en/lektionen/lektion10)
-    *   Genitive -\> [Lesson 14](/en/lektionen/lektion14)
-    *   Dative -\> [Lesson 24](/en/lektionen/lektion24)
-    *   Ablative -\> [Lesson 25](/en/lektionen/lektion25)
-    *   Locative -\> [Lesson 27](/en/lektionen/lektion27)
-*   **Subordinate clauses**:
-    *   Relative clauses -\> [Lesson 19](/en/lektionen/lektion19)
-    *   Usage of participles -\> [Lesson 12](/en/lektionen/lektion12), [Lesson 44](/en/lektionen/lektion44)
+### 2.4 Pembentukan Nomina & Komposita
 
-## 4. Metrics (Verse Studies)
+*   **Komposita (Samāsa)**:
+*   **Dvandva** (Komposita kopulatif) -\> [Pelajaran 5](/id/lektionen/lektion05), [Pelajaran 9](/id/lektionen/lektion09)
+*   **Tatpuruṣa** (Determinatif) -\> [Pelajaran 15](/id/lektionen/lektion15), [Pelajaran 18](/id/lektionen/lektion18)
+*   Komposita Upapada -\> [Pelajaran 51](/id/lektionen/lektion51)
+*   **Bahuvrīhi** (Possesif/Pemilik) -\> [Pelajaran 20](/id/lektionen/lektion20)
+*   **Sufiks & Partisip**:
+*   Sufiks penting (-a, -ana, -tra, dll.) -\> [Pelajaran 8](/id/lektionen/lektion08), [Pelajaran 9](/id/lektionen/lektion09)
+*   **PPP** (Partisip Perfek Pasif) -\> [Pelajaran 12](/id/lektionen/lektion12), [Pelajaran 13](/id/lektionen/lektion13)
+*   **PPA** (Partisip Perfek Aktif) -\> [Pelajaran 52](/id/lektionen/lektion52)
+*   **Absolutivum & Infinitif** -\> [Pelajaran 22](/id/lektionen/lektion22), [Pelajaran 23](/id/lektionen/lektion23)
 
-Sanskrit philosophy and literature are often composed in verses. Metrics teaches the rhythm and structure of these verses.
+## 3. Tata Kalimat (Sintaksis)
 
-*   **Introduction & Śloka** → [Lesson 45](/en/lektionen/lektion45), [Lesson 53](/en/lektionen/lektion53)
-*   **Advanced Metrics** (Trīṣṭubh, Jāgatī) → [Lesson 54](/en/lektionen/lektion54)
+*   **Kalimat Nominal** -\> [Pelajaran 2](/id/lektionen/lektion02)
+*   **Kalimat Tanya** -\> [Pelajaran 37](/id/lektionen/lektion37)
+*   **Penggunaan Kasus**:
+*   Kalimat Nominal & Nominatif -\> [Pelajaran 2](/id/lektionen/lektion02)
+*   Akusatif (juga ganda/dobel) -\> [Pelajaran 7](/id/lektionen/lektion07), [Pelajaran 11](/id/lektionen/lektion11)
+*   Instrumentalis -\> [Pelajaran 10](/id/lektionen/lektion10)
+*   Genitif -\> [Pelajaran 14](/id/lektionen/lektion14)
+*   Datif -\> [Pelajaran 24](/id/lektionen/lektion24)
+*   Ablatif -\> [Pelajaran 25](/id/lektionen/lektion25)
+*   Lokatif -\> [Pelajaran 27](/id/lektionen/lektion27)
+*   **Anak Kalimat**:
+*   Kalimat Relatif -\> [Pelajaran 19](/id/lektionen/lektion19)
+*   Penggunaan Partisip -\> [Pelajaran 12](/id/lektionen/lektion12), [Pelajaran 44](/id/lektionen/lektion44)
+
+
+## 4. Metrik (Kajian Verse)
+
+Filsafat dan sastra Sanskerta sering kali disusun dalam bentuk puisi. Metrik mengajarkan irama dan struktur dari berbagai jenis puisi tersebut.
+
+*   **Pengantar & Śloka** -\> [Pelajaran 45](/id/lektionen/lektion45), [Pelajaran 53](/id/lektionen/lektion53)
+*   **Metrum Lanjutan** (Trīṣṭubh, Jāgatī) -\> [Pelajaran 54](/id/lektionen/lektion54)
 

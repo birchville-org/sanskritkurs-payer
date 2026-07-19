@@ -12,3 +12,4 @@ Automatically generated. Do not edit manually.
 | 2026-07-11 10:44 | rm | lektion33.md | `EN_RESIDUE` | 83, 84, 86, 103, 104, 150, 175, 202, 204 | After Sonnet EN patch: 9 unresolved |
 | 2026-07-12 02:37 | th | lektion32.md | `RESIDUE` | 75 | Sonnet patch ineffective (1 remain) |
 | 2026-07-12 23:09 | rm | lektion33.md | `RESIDUE` | 175, 202, 204 | After Sonnet patch: 3 unresolved |
+| 2026-07-18 21:42 | fi | lektion33.md | `RESIDUE` | 117 | Sonnet patch ineffective (1 remain) |

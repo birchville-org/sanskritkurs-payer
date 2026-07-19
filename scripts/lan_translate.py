@@ -1223,6 +1223,17 @@ def fix_lesson_links(content, lang):
         return f'(/{lang}{path})'
     return re.sub(r'\((/licenses[^)]*)\)', replace, content)
 
+def fix_main_page_links(content, lang):
+    """Prefix absolute links in main pages with /{lang}/ (e.g. /lektionen/ -> /id/lektionen/)."""
+    def replace(m):
+        path = m.group(1)
+        if path.startswith(f'/{lang}/') or path == f'/{lang}':
+            return f'({path})'
+        if path.startswith('http') or path.startswith('#') or not path.startswith('/'):
+            return f'({path})'
+        return f'(/{lang}{path})'
+    return re.sub(r'\((/[^)]*)\)', replace, content)
+
 
 def get_tm_path(lang):
     tm_dir = os.path.join(BASE_DIR, ".zennotes", "tm")
@@ -1903,6 +1914,8 @@ def translate_main_pages(lang, force=False):
                 t = t.replace('&lt;style&gt;', '<style>').replace('&lt;/style&gt;', '</style>')
                 if fname == "index.md":
                     t = fix_home_links(t, l)
+                else:
+                    t = fix_main_page_links(t, l)
                 return t
             return post
         translate_file(source_path, os.path.join(lang_dir, filename), lang, post_process=make_post(filename), force=force)

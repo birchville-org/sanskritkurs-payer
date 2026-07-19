@@ -30,7 +30,7 @@ import { grc } from './locales/grc.mjs'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
 const multimd_table = require('markdown-it-multimd-table')
-const scholarlyPlugin = require('vitepress-plugin-scholarly')
+const extensiblePlugin = require('markdown-it-extensible')
 import { getSidebarItems } from './utils.mjs'
 
 // Populate sidebars dynamically
@@ -278,7 +278,7 @@ export default defineConfig({
         multiscript: true,
         colspans: true
       });
-      md.use(scholarlyPlugin);
+      md.use(extensiblePlugin);
     }
   },
 

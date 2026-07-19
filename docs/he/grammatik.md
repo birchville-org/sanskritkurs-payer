@@ -3,105 +3,109 @@ aside: true
 outline: [2, 3]
 ---
 
+
+
 # נושאי דקדוק
 
-This page provides a systematic overview of all grammatical topics of the Sanskrit course. Each of the 61 lessons is categorized thematically here.
+עמוד זה מספק סקירה שיטתית של כל הנושאים הדקדוקיים בקורס הסנסקריט. כל אחת מ-61 השיעורים מסווגת כאן לפי נושא.
 
-## 1. פונולוגיה וכתב (סַנְהִיטַה ולִיפִּי)
+## 1. פונולוגיה וכתב (Saṃhitā & Lipi)
 
-*   **Introduction to Sounds**: Systematics and pronunciation → [Lesson 1](/en/lektionen/lektion01)
-*   **Script Introduction (Devanāgarī)**:
-    *   Vowels and simple consonants → [Lesson 40](/en/lektionen/lektion40)
-    *   Conjunct consonants (Ligatures) → [Lesson 41](/en/lektionen/lektion41) & [Lesson 42](/en/lektionen/lektion42)
-*   **Sandhi (Sound Combination)**:
-    *   Sandhi of final **-s/Visarga** → [Lesson 2](/en/lektionen/lektion02), [Lesson 3](/en/lektionen/lektion03), [Lesson 30](/en/lektionen/lektion30)
-    *   Sandhi of **-m, -e, -d** → [Lesson 4](/en/lektionen/lektion04)
-    *   **Vowel Sandhi** → [Lesson 3](/en/lektionen/lektion03), [Lesson 24](/en/lektionen/lektion24)
-    *   Sandhi of **-n** → [Lesson 7](/en/lektionen/lektion07)
-    *   Sandhi for **Nasals** → [Lesson 21](/en/lektionen/lektion21), [Lesson 26](/en/lektionen/lektion26)
-    *   Cerebralisation (**n → ṇ / s → ṣ**) → [Lesson 10](/en/lektionen/lektion10), [Lesson 26](/en/lektionen/lektion26)
-    *   Word Sandhi (h-, ch-) → [Lesson 44](/en/lektionen/lektion44), [Lesson 51](/en/lektionen/lektion51)
-    *   **Consonant Sandhi** (Summaries) → [Lesson 16](/en/lektionen/lektion16), [Lesson 43](/en/lektionen/lektion43)
+*   **הקדמה לצלילים**: סיסטמטיקה והגייה -\> [שיעור 1](/he/lektionen/lektion01)
+*   **הקדמה לכתב (Devanāgarī)**:
+*   תנועות ועיצורים בסיסיים -\> [שיעור 40](/he/lektionen/lektion40)
+*   עיצורים משולבים (ליגטורות) -\> [שיעור 41](/he/lektionen/lektion41) ו-[שיעור 42](/he/lektionen/lektion42)
+*   **סנדהי (חיבור צלילים)**:
+*   סנדהי של **-s/Visarga** בסוף הברה -\> [שיעור 2](/he/lektionen/lektion02), [שיעור 3](/he/lektionen/lektion03), [שיעור 30](/he/lektionen/lektion30)
+*   סנדהי של **-m, -e, -d** -\> [שיעור 4](/he/lektionen/lektion04)
+*   **סנדהי תנועות** -\> [שיעור 3](/he/lektionen/lektion03), [שיעור 24](/he/lektionen/lektion24)
+*   סנדהי של **-n** -\> [שיעור 7](/he/lektionen/lektion07)
+*   סנדהי של **אפיניים** -\> [שיעור 21](/he/lektionen/lektion21), [שיעור 26](/he/lektionen/lektion26)
+*   סרברליזציה (**n -\> ṇ / s -\> ṣ**) -\> [שיעור 10](/he/lektionen/lektion10), [שיעור 26](/he/lektionen/lektion26)
+*   סנדהי מילים (h-, ch-) -\> [שיעור 44](/he/lektionen/lektion44), [שיעור 51](/he/lektionen/lektion51)
+*   **סנדהי עיצורים** (סיכומים) -\> [שיעור 16](/he/lektionen/lektion16), [שיעור 43](/he/lektionen/lektion43)
 
-## 2. חקר מילים (מורפולוגיה)
+## 2. מורפולוגיה של מילים (מורפולוגיה)
 
-### 2.1 שמות עצם ותארים (נטייה)
+### 2.1 שמות עצם ותארים (הטייה)
 
-*   **Fundamentals**: Case grammar → [Lesson 1](/en/lektionen/lektion01), [Lesson 2](/en/lektionen/lektion02)
-*   **A-stems** (Masculine & Neuter) → [Lesson 2](/en/lektionen/lektion02), [Lesson 7](/en/lektionen/lektion07)
-*   **I- and U-stems** → [Lesson 3](/en/lektionen/lektion03), [Lesson 27](/en/lektionen/lektion27), [Lesson 52](/en/lektionen/lektion52)
-*   **Consonant stems**:
-    *   Stems ending in **-mant / -vant** → [Lesson 13](/en/lektionen/lektion13)
-    *   Stems ending in **-n** (Rājan, Ātman) → [Lesson 38](/en/lektionen/lektion38)
-    *   Simple consonant stems → [Lesson 51](/en/lektionen/lektion51), [Lesson 54](/en/lektionen/lektion54)
-    *   Root nouns ending in **-ā, -ī, -ū** → [Lesson 61](/en/lektionen/lektion61)
-*   **The Dual** of nouns → [Lesson 49](/en/lektionen/lektion49), [Lesson 50](/en/lektionen/lektion50), [Lesson 53](/en/lektionen/lektion53)
-*   **Numbers & Degrees of comparison**:
-    *   Numeral words (Cardinals/Ordinals) → [Lesson 52](/en/lektionen/lektion52)
-    *   Degrees of comparison (Comparative/Superlative) → [Lesson 53](/en/lektionen/lektion53)
+*   **יסודות**: לימוד המקרים -\> [שיעור 1](/he/lektionen/lektion01), [שיעור 2](/he/lektionen/lektion02)
+*   **שורשי A** (זכר ונייטרלי) -\> [שיעור 2](/he/lektionen/lektion02), [שיעור 7](/he/lektionen/lektion07)
+*   **שורשי I ו-U** -\> [שיעור 3](/he/lektionen/lektion03), [שיעור 27](/he/lektionen/lektion27), [שיעור 52](/he/lektionen/lektion52)
+*   **שורשי עיצורים**:
+*   שורשים על **-mant / -vant** -\> [שיעור 13](/he/lektionen/lektion13)
+*   שורשים על **-n** (Rājan, Ātman) -\> [שיעור 38](/he/lektionen/lektion38)
+*   שורשי עיצורים פשוטים -\> [שיעור 51](/he/lektionen/lektion51), [שיעור 54](/he/lektionen/lektion54)
+*   שורשי-שם על **-ā, -ī, -ū** -\> [שיעור 61](/he/lektionen/lektion61)
+*   **הדואל (שני)** של שמות עצם -\> [שיעור 49](/he/lektionen/lektion49), [שיעור 50](/he/lektionen/lektion50), [שיעור 53](/he/lektionen/lektion53)
+*   **מספרים והדרגה**:
+*   מילות מספר (קארדינליים/אורדליים) -\> [שיעור 52](/he/lektionen/lektion52)
+*   הדרגה (קומפרטיב/סופרלטיב) -\> [שיעור 53](/he/lektionen/lektion53)
 
-### 2.2 כינויים ותוארי פועל
+### 2.2 תארים ומוספיות (פרונומינים ואדברבים)
 
-*   **Pronouns**:
-    *   Interrogative and demonstrative pronouns -\> [Lesson 4](/en/lektionen/lektion04)
-    *   Relative pronoun (yad) -\> [Lesson 19](/en/lektionen/lektion19)
-    *   Personal pronouns (1st & 2nd person) -\> [Lesson 46](/en/lektionen/lektion46), [Lesson 47](/en/lektionen/lektion47)
-    *   Indefinite pronouns -\> [Lesson 37](/en/lektionen/lektion37)
-*   **Adverbs & Address**:
-    *   Formation of adverbs -\> [Lesson 37](/en/lektionen/lektion37), [Lesson 52](/en/lektionen/lektion52)
-    *   Polite address & vocative -\> [Lesson 21](/en/lektionen/lektion21), [Lesson 44](/en/lektionen/lektion44)
+*   **תארים**:
+*   שאלות והפניות -\> [שיעור 4](/he/lektionen/lektion04)
+*   יחסיות (yad) -\> [שיעור 19](/he/lektionen/lektion19)
+*   אישיים (אדם ראשון ושני) -\> [שיעור 46](/he/lektionen/lektion46), [שיעור 47](/he/lektionen/lektion47)
+*   אינדיפניטיביים -\> [שיעור 37](/he/lektionen/lektion37)
+*   **אדברבים ופניות**:
+*   יצירת אדברבים -\> [שיעור 37](/he/lektionen/lektion37), [שיעור 52](/he/lektionen/lektion52)
+*   פנייה מכובדת ווקטיב -\> [שיעור 21](/he/lektionen/lektion21), [שיעור 44](/he/lektionen/lektion44)
 
-### 2.3 פעלים (נטייה)
 
-*   **The Present System (Indicative)**:
-    *   Personal endings (3rd, 2nd, 1st person) -\> [Lesson 6](/en/lektionen/lektion06), [Lesson 44](/en/lektionen/lektion44), [Lesson 39](/en/lektionen/lektion39)
-    *   Thematic classes (1, 4, 6, 10) -\> [Lesson 6](/en/lektionen/lektion06), [Lesson 28](/en/lektionen/lektion28)
-    *   Athematic classes -\> [Lesson 17](/en/lektionen/lektion17), [Lesson 33](/en/lektionen/lektion33), [Lesson 7](/en/lektionen/lektion07), [Lesson 31](/en/lektionen/lektion31), [Lesson 8](/en/lektionen/lektion08), [Lesson 30](/en/lektionen/lektion30)
-*   **Other Tenses & Moods**:
-    *   **Imperfect** (Past) -\> [Lesson 32](/en/lektionen/lektion32)
-    *   **Optative & Imperative** -\> [Lesson 30](/en/lektionen/lektion30), [Lesson 48](/en/lektionen/lektion48)
-    *   **Perfect** (Singular/Plural) -\> [Lesson 34](/en/lektionen/lektion34), [Lesson 35](/en/lektionen/lektion35), [Lesson 36](/en/lektionen/lektion36)
-    *   **Perfect (Dual)** -\> [Lesson 60](/en/lektionen/lektion60)
-    *   **Future** (Simple & Periphrastic) -\> [Lesson 26](/en/lektionen/lektion26), [Lesson 61](/en/lektionen/lektion61)
-    *   **Aorist** (Past) -\> [Lesson 54](/en/lektionen/lektion54), [Lesson 55](/en/lektionen/lektion55), [Lesson 56](/en/lektionen/lektion56), [Lesson 57](/en/lektionen/lektion57), [Lesson 58](/en/lektionen/lektion58)
-*   **Derived Verb Forms**:
-    *   **Passive & Causative** -\> [Lesson 10](/en/lektionen/lektion10), [Lesson 28](/en/lektionen/lektion28), [Lesson 29](/en/lektionen/lektion29)
-    *   **Intensive & Denominative** -\> [Lesson 61](/en/lektionen/lektion61)
-*   **Verbs in the Dual (Dual Number)** -\> [Lesson 59](/en/lektionen/lektion59), [Lesson 60](/en/lektionen/lektion60)
+### 2.3 פעלים (הטייה)
 
-### 2.4 גזירה שמנית ומורכבות
+*   **מערכת הנוכחי (אינדיקטיב)**:
+*   סיומות אישיות (אדם 3., 2., 1.) -\> [שיעור 6](/he/lektionen/lektion06), [שיעור 44](/he/lektionen/lektion44), [שיעור 39](/he/lektionen/lektion39)
+*   מחלקות נושאיות (1, 4, 6, 10) -\> [שיעור 6](/he/lektionen/lektion06), [שיעור 28](/he/lektionen/lektion28)
+*   מחלקות אתמטיות -\> [שיעור 17](/he/lektionen/lektion17), [שיעור 33](/he/lektionen/lektion33), [שיעור 7](/he/lektionen/lektion07), [שיעור 31](/he/lektionen/lektion31), [שיעור 8](/he/lektionen/lektion08), [שיעור 30](/he/lektionen/lektion30)
+*   **זמנים ומצבים אחרים**:
+*   **אימפרפקט** (עבר) -\> [שיעור 32](/he/lektionen/lektion32)
+*   **אופטיב ואימפרטיב** -\> [שיעור 30](/he/lektionen/lektion30), [שיעור 48](/he/lektionen/lektion48)
+*   **פרפקט** (יחיד/רבים) -\> [שיעור 34](/he/lektionen/lektion34), [שיעור 35](/he/lektionen/lektion35), [שיעור 36](/he/lektionen/lektion36)
+*   **פרפקט (דואל)** -\> [שיעור 60](/he/lektionen/lektion60)
+*   **פיוטור** (פשוט ופריראסטי) -\> [שיעור 26](/he/lektionen/lektion26), [שיעור 61](/he/lektionen/lektion61)
+*   **אוריסט** (עבר) -\> [שיעור 54](/he/lektionen/lektion54), [שיעור 55](/he/lektionen/lektion55), [שיעור 56](/he/lektionen/lektion56), [שיעור 57](/he/lektionen/lektion57), [שיעור 58](/he/lektionen/lektion58)
+*   **צורות פעל נגזרות**:
+*   **פאסיב וקאוואטיב** -\> [שיעור 10](/he/lektionen/lektion10), [שיעור 28](/he/lektionen/lektion28), [שיעור 29](/he/lektionen/lektion29)
+*   **אינטנסיבום ודנומינטיבה** -\> [שיעור 61](/he/lektionen/lektion61)
+*   **פעלים בדואל (שניים)** -\> [שיעור 59](/he/lektionen/lektion59), [שיעור 60](/he/lektionen/lektion60)
 
-*   **Compounds (Samāsa)**:
-    *   **Dvandva** (Copulative Compound) -\> [Lesson 5](/en/lektionen/lektion05), [Lesson 9](/en/lektionen/lektion09)
-    *   **Tatpuruṣa** (Determinative) -\> [Lesson 15](/en/lektionen/lektion15), [Lesson 18](/en/lektionen/lektion18)
-    *   Upapada Compounds -\> [Lesson 51](/en/lektionen/lektion51)
-    *   **Bahuvrīhi** (Possessive) -\> [Lesson 20](/en/lektionen/lektion20)
-*   **Suffixes & Participles**:
-    *   Important Suffixes (-a, -ana, -tra, etc.) -\> [Lesson 8](/en/lektionen/lektion08), [Lesson 9](/en/lektionen/lektion09)
-    *   **PPP** (Past Participle Passive) -\> [Lesson 12](/en/lektionen/lektion12), [Lesson 13](/en/lektionen/lektion13)
-    *   **PPA** (Past Participle Active) -\> [Lesson 52](/en/lektionen/lektion52)
-    *   **Absolutive & Infinitive** -\> [Lesson 22](/en/lektionen/lektion22), [Lesson 23](/en/lektionen/lektion23)
+### 2.4 בניין שם וצירופים (קומפוסטה)
 
-## 3. מבנה משפט (תחביר)
+*   **צירופים (סמאסה)**:
+*   **דוואדווה** (צירוף קופולטיבי) -\> [שיעור 5](/he/lektionen/lektion05), [שיעור 9](/he/lektionen/lektion09)
+*   **טאטפורוסה** (דטרמינטיבי) -\> [שיעור 15](/he/lektionen/lektion15), [שיעור 18](/he/lektionen/lektion18)
+*   צירופי אוואפדה -\> [שיעור 51](/he/lektionen/lektion51)
+*   **בהווריהי** (בעלותי) -\> [שיעור 20](/he/lektionen/lektion20)
+*   **סופיקים ובינונים**:
+*   סופיקים חשובים (-a, -ana, -tra, וכו') -\> [שיעור 8](/he/lektionen/lektion08), [שיעור 9](/he/lektionen/lektion09)
+*   **PPP** (בינון פרפקט פאסיב) -\> [שיעור 12](/he/lektionen/lektion12), [שיעור 13](/he/lektionen/lektion13)
+*   **PPA** (בינון פרפקט אקטיב) -\> [שיעור 52](/he/lektionen/lektion52)
+*   **אבסולוטיבום ואינפיניטיווי** -\> [שיעור 22](/he/lektionen/lektion22), [שיעור 23](/he/lektionen/lektion23)
 
-*   **The nominal sentence** -\> [Lesson 2](/en/lektionen/lektion02)
-*   **The interrogative sentence** -\> [Lesson 37](/en/lektionen/lektion37)
-*   **Case usage**:
-    *   Nominal sentence & Nominative -\> [Lesson 2](/en/lektionen/lektion02)
-    *   Accusative (also double) -\> [Lesson 7](/en/lektionen/lektion07), [Lesson 11](/en/lektionen/lektion11)
-    *   Instrumental -\> [Lesson 10](/en/lektionen/lektion10)
-    *   Genitive -\> [Lesson 14](/en/lektionen/lektion14)
-    *   Dative -\> [Lesson 24](/en/lektionen/lektion24)
-    *   Ablative -\> [Lesson 25](/en/lektionen/lektion25)
-    *   Locative -\> [Lesson 27](/en/lektionen/lektion27)
-*   **Subordinate clauses**:
-    *   Relative clauses -\> [Lesson 19](/en/lektionen/lektion19)
-    *   Usage of participles -\> [Lesson 12](/en/lektionen/lektion12), [Lesson 44](/en/lektionen/lektion44)
+## 3. תחביר (סינטקס)
 
-## 4. מטריקה (חקר המשקל)
+*   **משפט שמני** -\> [שיעור 2](/he/lektionen/lektion02)
+*   **משפט שאלה** -\> [שיעור 37](/he/lektionen/lektion37)
+*   **שימוש במקרים**:
+*   משפט שמני ונומינטיב -\> [שיעור 2](/he/lektionen/lektion02)
+*   אקוזטיב (גם כפול) -\> [שיעור 7](/he/lektionen/lektion07), [שיעור 11](/he/lektionen/lektion11)
+*   אינסטרומטליס -\> [שיעור 10](/he/lektionen/lektion10)
+*   ג'נטיב -\> [שיעור 14](/he/lektionen/lektion14)
+*   דאטיב -\> [שיעור 24](/he/lektionen/lektion24)
+*   אבליטיב -\> [שיעור 25](/he/lektionen/lektion25)
+*   לוקטיב -\> [שיעור 27](/he/lektionen/lektion27)
+*   **משפטים משניים**:
+*   משפטי יחס -\> [שיעור 19](/he/lektionen/lektion19)
+*   שימוש בבינונים -\> [שיעור 12](/he/lektionen/lektion12), [שיעור 44](/he/lektionen/lektion44)
 
-Sanskrit philosophy and literature are often composed in verses. Metrics teaches the rhythm and structure of these verses.
 
-*   **Introduction & Śloka** → [Lesson 45](/en/lektionen/lektion45), [Lesson 53](/en/lektionen/lektion53)
-*   **Advanced Metrics** (Trīṣṭubh, Jāgatī) → [Lesson 54](/en/lektionen/lektion54)
+## 4. מטרות (תורת השירה)
+
+פילוסופיה וספרות בסנסקריט נכתבות לעיתים קרובות בשירה. המטרות מלמדת על הקצב ומבנה השירים הללו.
+
+*   **הקדמה וסְלוקָה** -\> [שיעור 45](/he/lektionen/lektion45), [שיעור 53](/he/lektionen/lektion53)
+*   **מטרים מתקדמים** (טרִישְׁטוּבְה, גָ'גַתִי) -\> [שיעור 54](/he/lektionen/lektion54)
 
