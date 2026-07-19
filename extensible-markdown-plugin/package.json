@@ -1,0 +1,15 @@
+{
+  "name": "markdown-it-extensible",
+  "version": "1.0.0",
+  "description": "A highly extensible container and inline syntax engine for markdown-it",
+  "main": "index.js",
+  "author": "marcodem",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/marcodem/extensible-markdown-plugin.git"
+  },
+  "dependencies": {
+    "markdown-it-container": "^3.0.0"
+  }
+}
