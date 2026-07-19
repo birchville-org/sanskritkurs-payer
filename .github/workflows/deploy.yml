@@ -2,7 +2,10 @@ name: Multi-Platform Docker Build
 
 on:
   push:
-    tags: [ 'v*.*.*' ]
+    tags:
+      - 'v*.*.*'
+      - '*update'
+      - '*-update'
 
 env:
   REGISTRY: ghcr.io
