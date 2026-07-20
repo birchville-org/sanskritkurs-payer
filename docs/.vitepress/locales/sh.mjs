@@ -1,5 +1,5 @@
 export const sh = {
-  label: 'SH',
+  label: 'SH - Srpskohrvatski',
   lang: 'sh-BA',
   link: '/sh/',
   title: 'Sanskrit Kurs',

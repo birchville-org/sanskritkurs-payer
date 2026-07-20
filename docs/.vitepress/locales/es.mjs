@@ -1,6 +1,6 @@
 
 export const es = {
-  label: 'ES',
+  label: 'ES - Español',
   lang: 'es-ES',
   link: '/es/',
   title: 'Curso de Sánscrito',

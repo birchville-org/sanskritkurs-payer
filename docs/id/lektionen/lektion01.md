@@ -1,67 +1,63 @@
 ---
-title: Pelajaran 1
-subtitle: "Bunyi Bahasa Sanskerta"
+title: "# Pelajaran 1"
+subtitle: "Die Laute des Sanskrit"
 lesson_id: 1
-category: "Tata Bahasa"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
+
+
 # Pelajaran 1
-
-
-
 
 
 ::: center
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
-Pemujaan kepada Gaṇeśa
+Pujian kepada Gaṇeśa
 :::
 
 ::: media
 ![](/images/lekt0102.webp)
-Gambar: Gaṇeśa, Adamspeak, Sri Lanka
+Fig. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
 (Sumber gambar: [Details](/id/licenses#lekt0102))
-
 :::
+
 ::: center
-⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫
-⟪सततं⟫ ⟪मोदकप्रिय⟫ |
-⟪निर्विघ्नं⟫ ⟪कुरु⟫ ⟪मे⟫ ⟪देव⟫
-⟪सर्वकार्येषु⟫ ⟪सर्वदा⟫ |
+sig[लम्बोदर नमस् तुभ्यं]
+sig[सततं मोदकप्रिय ⟪|⟫]
+sig[निर्विघ्नं कुरु मे देव]
+sig[सर्वकार्येषु सर्वदा ⟪||⟫]
 
 **lambodara namas tubhyaṃ
 satataṃ modakapriya |
 nirvighnaṃ kuru me deva
 sarvakāryeṣu sarvadā |**
 
-Wahai perut gantung, wahai pencinta manisan,
-Selalu semoga ada penghormatan padamu!
-Tuhan, buatlah semua usahaku
+Hai yang berperut gantung, hai pencinta manisan,
+Semoga pujian selalu tercurah padamu!
+Wahai Tuhan, jadikanlah semua usahaku
 Bebas dari halangan!
-
 :::
----
-
-
 
 ::: center
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
-"Awalan yang membawa keberuntungan"
+"Awal yang membawa keberuntungan"
 :::
+
 ::: media
 ![](/images/lekt0101.webp)
-Gambar: Ardhanarīśvara
+Fig. 1.1: Ardhanarīśvara
 (Sumber gambar: [Details](/id/licenses#lekt0101))
-
 :::
+
 ::: center
-⟪वागर्थाविव⟫ ⟪संपृक्तौ⟫
-⟪वागर्थप्रतिपत्तये⟫ |
-⟪जगतः⟫ ⟪पितरौ⟫ ⟪वन्दे⟫
-⟪पार्वतीपरमेश्वरौ⟫ |
+sig[वागर्थाविव संपृक्तौ]
+sig[वागर्थप्रतिपत्तये |]
+sig[जगतः पितरौ वन्दे]
+sig[पार्वतीपरमेश्वरौ |]
 
 **vāgarthāviva saṃpṛktau
 vāgarthapratipattaye |
@@ -70,132 +66,107 @@ pārvatīparameśvarau |**
 
 (Kālidāsa: Raghuvaṃśa 1.1)
 
-Saya menghormati para orang tua di dunia,
+Aku memuja orang tua dunia,
 Pārvatī dan Śiva,
-Yang begitu erat satu sama lain
-Seperti kata dan makna untuk memahami
-Arti dari kata tersebut.
-
+Yang begitu erat bersatu
+Seperti kata dan makna bagi pemahaman
+Makna sebuah kalimat.
 :::
----
 
-Pada awalnya, ada sesuatu yang aneh:
-
+Di awal, sebuah keanehan:
 
 
-::: note-box
-"Ketika William Jones [1746–1794] dan Henry Thomas Colebrooke (1765—1857) pertama kali mempelajari secara mendalam, menerjemahkan sebagian, dan menemukan bahwa bahasa Sanskerta memiliki literatur yang kaya serta kekerabatan yang tidak kecil dengan bahasa-bahasa klasik, mereka menghadapi perlawanan yang tidak kecil. Karena hubungan erat bahasa Sanskerta dengan bahasa-bahasa Eropa yang secara geografis sangat jauh ini tidak dapat disesuaikan dengan pandangan-pandangan lama yang entah menurunkan semua bahasa dari bahasa Ibrani atau sebagian besar memisahkan satu sama lain, maka filsuf terkenal Dugald Steward (1753—1828) mengambil jalan keluar paling sederhana, yaitu dengan menyatakan seluruh sejarah yang berkaitan dengan bahasa Sanskerta sebagai kebohongan. Ia menulis sebuah esai yang berusaha membuktikan bahwa bahasa tersebut direkatkan oleh Brahmana yang licik dengan meniru bahasa Yunani dan Latin, sehingga bahasa maupun literaturnya merupakan pemalsuan. Pandangan ini masih dikembangkan secara luas oleh profesor di Dublin, Charles William Wall, pada tahun 1840 (Göttingische gelehrte Anzeigen 1842 hlm. 1888)."
+>"Ketika William Jones [1746–1794] dan Henry Thomas Colebrooke (1765—1857) pertama kali mempelajari Sanskrit secara mendalam, menerjemahkannya sebagian, dan menemukan bahwa bahasa tersebut memiliki literatur yang kaya serta kekerabatan yang tidak kecil dengan bahasa-bahasa klasik, mereka menghadapi perlawanan yang cukup besar. Karena hubungan erat Sanskrit dengan bahasa-bahasa Eropa yang secara geografis sangat jauh tidak dapat diselaraskan dengan pandangan lama, yang entah menurunkan semua bahasa dari bahasa Ibrani atau menganggapnya sebagian besar terisolasi satu sama lain, maka ahli filologi terkenal Dugald Steward (1753—1828) mengambil jalan keluar paling sederhana, yaitu dengan menyatakan seluruh sejarah yang berkaitan dengan bahasa Sanskrit sebagai kebohongan. Ia menulis sebuah esai di mana ia berusaha membuktikan bahwa bahasa tersebut dipalsukan oleh Brahmana yang licik berdasarkan pola Yunani dan Latin, sehingga baik bahasanya maupun literaturnya adalah pemalsuan. Pandangan ini masih dikembangkan secara luas oleh profesor di Dublin, Charles William Wall, pada tahun 1840 (Göttingische gelehrte Anzeigen 1842 hlm. 1888)."
+>
+>[Sumber: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- hlm. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Diakses pada 2010-01-10]
 
-:::
-> [Sumber: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Diakses pada 2010-01-10]
-
-## 1.1. Literatur untuk Pemula dalam Studi India
-
-
+## 1.1. Literatur untuk pemula dalam Indologi
 
 ::: media
 ![](/images/lekt0103.webp)
-Gambar: Sampul depan edisi saku
-(Sumber gambar: [Detail](/id/licenses#lekt0103))
-
+Fig.: Sampul edisi saku
+(Sumber gambar: [Details](/id/licenses#lekt0103))
 :::
-> **Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Bagian: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sejak itu banyak edisi, termasuk edisi saku. -- **Bacaan wajib.** Gambaran yang baik tentang kehidupan, sejarah, dan budaya di India pra-Islam. Ringkasan menyeluruh tentang berbagai bidang Indologi klasik.
 
+>**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Bagian: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sejak itu banyak edisi, termasuk edisi saku. -- **Wajib dibaca.** Gambaran umum yang baik tentang kehidupan, sejarah, dan budaya di India pra-Islam. Tinjauan menyeluruh atas berbagai bidang Indologi klasik.
 
 
 ::: media
 ![](/images/lekt0104.webp)
 Gambar: Halaman judul
-(Sumber gambar: [Detail](/id/licenses#lekt0104))
-
+(Sumber gambar: [Details](/id/licenses#lekt0104))
 :::
-**Gramatika Sistematis Terbaik**
 
-> **Kielhorn**, Franz \&lt;1840-1908\&gt;: Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Judul asli: A grammar of the Sanscrit language
+Tata bahasa sistematis terbaik:
 
-
+> **Kielhorn**, Franz \&lt;1840-1908\&gt;: Grammatik der Sanskrit-Sprache / Diterjemahkan dari bahasa Inggris oleh W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Judul asli: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
-Gambar: Judul sampul
-(Sumber gambar: [Detail](/id/licenses#lekt0105))
-
+Gambar: Sampul judul
+(Sumber gambar: [Details](/id/licenses#lekt0105))
 :::
-**Sistem tata bahasa yang baik berdasarkan pada para ahli tata bahasa lokal dan sekaligus pengantar ke Pāṇini:**
 
-> **Kunnappally, John:** Prakriyā bhāshyam : Tata bahasa Sanskerta / Awalnya ditulis dalam bahasa Melayalam. Diterjemahkan ke dalam bahasa Inggris oleh K.V.R. Pai. -- Parathode : Penerbit sendiri, 1983. -- 818 hlm. ; 23 cm.
+Tata bahasa sistematis yang baik berdasarkan pada para ahli tata bahasa lokal dan sekaligus pengantar ke Pāṇini:
 
-
+> **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Aslinya ditulis dalam bahasa Malayalam. Diterjemahkan ke dalam bahasa Inggris oleh K.V.R. Pai. -- Parathode : Selbstverl., 1983. -- 818 S. ; 23 cm.
 
 ::: media
 ![](/images/lekt0107.jpg)
-Gambar: Sampul depan
-(Sumber gambar: [Detail](/id/licenses#lekt0107))
-
+Gambar: Sampul buku
+(Sumber gambar: [Details](/id/licenses#lekt0107))
 :::
-Deskripsi yang baik dan ringkas mengenai terminologi linguistik Eropa dapat ditemukan di:
 
-> **Kamus Etimologi Bahasa Jerman** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. Disunting oleh Elmar Seebold. -- Edisi ke-24, yang direvisi dan diperluas. -- Berlin [dan lainnya.] : de Gruyter, 2002. - LXXXIX, 1023 hlm. : 24 cm. -- ISBN 3-11-017473-1 Sampel tipis. -- Hlm. XIII - XLVII.
+Sebuah paparan yang baik dan ringkas tentang terminologi ilmu bahasa Eropa dapat ditemukan dalam:
 
-
+> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. Disunting oleh Elmar Seebold. -- Edisi ke-24, yang telah ditinjau dan diperluas. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- Hal. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)
-Gambar: Judul sampul
-(Sumber gambar: [Detail](/id/licenses#lekt0108))
-
+Gambar: Sampul judul
+(Sumber gambar: [Details](/id/licenses#lekt0108))
 :::
-Bagi yang ingin mencari tahu:
 
-> **Kamus Ilmu Bahasa** / disunting oleh Hadumod Bußmann. -- Edisi ke-4, yang direvisi dan dilengkapi secara bibliografis / dengan partisipasi Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 hlm. ; 22 cm. -- ISBN 978-3-520-45204-7
+Untuk yang ingin tahu untuk referensi:
 
----
-
-## 1.2. Bunyi-bunyi dalam Bahasa Sanskerta
-
-Bunyi-bunyi bahasa Sanskerta menurut klasifikasi tradisional India dan translasi ilmiahnya.
+> **Lexikon der Sprachwissenschaft** / Diedit oleh Hadumod Bussmann. -- Edisi ke-4, yang telah ditinjau dan dilengkapi secara bibliografis / dengan partisipasi Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7
 
 
+## 1.2. Bunyi-bunyi Sanskerta
+
+Bunyi-bunyi Sanskerta menurut klasifikasi tradisional India dan transliterasi ilmiahnya.
 
 ::: media
 ![](/images/lekt0106.webp)
-(Sumber gambar: [Detail](/id/licenses#lekt0106))
-
+(Sumber gambar: [Details](/id/licenses#lekt0106))
 :::
-Kamus-kamus modern Sanskrit disusun menurut urutan klasifikasi ini. Klasifikasi ini dan urutan bunyi-bunyi tersebut sangat penting untuk memahami tata bahasa Sanskrit, oleh karena itu harus dihafal:
+Kamus Sanskerta modern disusun sesuai urutan klasifikasi ini. Klasifikasi ini penting untuk memahami tata bahasa Sanskerta dan karenanya harus dihafal:
 
-
-
-::: tip Klasifikasi
-
+::: note-box
+Klasifikasi
 - **vokal sederhana** (samānākṣara -- ⟪समानाक्षर⟫):
-  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
+⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
 - **Diftong** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
-  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
+⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
 - **Konsonan** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
-  ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
-  ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
-  ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
-  ⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
-  ⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
-  ⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
-  ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
-  ⟪ह⟫ ha
-
+⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
+⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
+⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
+⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
+⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
+⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
+⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
+⟪ह⟫ ha
 :::
-### 1.2.1. Tentang Pengucapan Bunyi-bunyi Tertentu
+### 1.2.1. Tentang pengucapan bunyi-bunyi tertentu
 
-
-
-tabel-lagu
-
-| Suara | Keterangan |
-
+::: laut-table
+| Bunyi | Deskripsi |
 | :--- | :--- |
+| **a - ⟪अ⟫** | "a pendek" diucapkan oleh orang India -- sejak zaman kuno -- sering seperti ə. Di Eropa, ini diucapkan sebagai a pendek, di Bengalen sebagai o gelap pendek. |
+| **ṛ - ⟪ऋ⟫** | seperti r vokal bahasa Bohemia. Gema ringan dari i. |
+| **ṝ - ⟪ॠ⟫** | seperti r vokal bahasa Bohemia. Gema ringan dari u. |
 
-| **a - ⟪अ⟫** | "a pendek" diucapkan oleh orang India -- sejak zaman kuno -- sering seperti ə. Di Eropa diucapkan sebagai a pendek, di Bengali sebagai o pendek yang gelap. |
-
-| **ṛ - ⟪ऋ⟫** | seperti r yang divokalkan dalam bahasa Bohemia. Gema ringan dari i. |
 
 | **ṝ - ⟪ॠ⟫** | seperti r yang divokalkan dalam bahasa Bohemia. Gema ringan dari u. |
 

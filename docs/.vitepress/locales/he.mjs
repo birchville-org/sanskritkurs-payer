@@ -1,5 +1,5 @@
 export const he = {
-  label: 'HE',
+  label: 'HE - עברית',
   lang: 'he-IL',
   dir: 'rtl',
   link: '/he/',

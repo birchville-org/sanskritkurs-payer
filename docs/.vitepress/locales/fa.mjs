@@ -1,6 +1,6 @@
 
 export const fa = {
-  label: 'FA',
+  label: 'FA - فارسی',
   lang: 'fa',
   dir: 'rtl',
   link: '/fa/',

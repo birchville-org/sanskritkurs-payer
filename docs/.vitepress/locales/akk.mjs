@@ -1,6 +1,6 @@
 
 export const akk = {
-  label: 'AKK',
+  label: 'AKK - Akkadian',
   lang: 'akk',
   link: '/akk/',
   title: 'Ṭupšarrūtu ša Sanskriti',

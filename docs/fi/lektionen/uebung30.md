@@ -1,0 +1,183 @@
+---
+title: "[Harjoitus 30]"
+uebung_id: 30
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
+
+
+
+
+# Harjoitus 30
+
+A) Muunna seuraavat verbimuodot vastaaviksi optatiivimuodoissa persoonan, numeron ja genus verbin mukaisesti:
+
+::: grammar-box
+| Preesens | Optatiivi |
+| :--- | :--- |
+| ⟪१⟫. ⟪ह्रियते⟫ | ⟪ह्रियेत⟫ |
+| ⟪२⟫. ⟪घ्नन्ति⟫ | ⟪हन्युः⟫ |
+| ⟪३⟫. ⟪स्मरति⟫ | ⟪स्मरेत्⟫ |
+| ⟪४⟫. ⟪स्थापयन्ति⟫ | ⟪स्थापयेयुः⟫ |
+| ⟪५⟫. ⟪स्तौति⟫ | ⟪स्तुयात्⟫ |
+| ⟪६⟫. ⟪सर्ज्यते⟫ | ⟪सर्ज्येत⟫ |
+| ⟪७⟫. ⟪सुन्वन्ति⟫ | ⟪सुनुयुः⟫ |
+| ⟪८⟫. ⟪सिञ्चति⟫ | ⟪सिञ्चेत्⟫ |
+| ⟪९⟫. ⟪शृणोति⟫ | ⟪शृणुयात्⟫ |
+| ⟪१०⟫. ⟪शक्नुवन्ति⟫ | ⟪शक्नुयुः⟫ |
+| ⟪११⟫. ⟪वर्तन्ते⟫ | ⟪वर्तेरन्⟫ |
+| ⟪१२⟫. ⟪वेशयन्ति⟫ | ⟪वेशयेयुः⟫ |
+| ⟪१३⟫. ⟪वस्ते⟫ | ⟪वसीत⟫ |
+| ⟪१४⟫. ⟪उष्यते⟫ | ⟪उष्येत⟫ |
+| ⟪१५⟫. ⟪वाद्यते⟫ | ⟪वाद्येत⟫ |
+| ⟪१६⟫. ⟪उच्यते⟫ | ⟪उच्येत⟫ |
+| ⟪१७⟫. ⟪लम्भ्यते⟫ | ⟪लम्भ्येत⟫ |
+| ⟪१८⟫. ⟪रक्षयन्ति⟫ | ⟪रक्ष⟫aye⟪युः⟫ |
+| ⟪१९⟫. ⟪युध्यते⟫ | ⟪युध्येत⟫ |
+| ⟪२०⟫. ⟪इज्यते⟫ | ⟪इज्येत⟫ |
+| ⟪२१⟫. ⟪म्रियते⟫ | ⟪म्रियेत⟫ |
+| ⟪२२⟫. ⟪मुञ्चन्ति⟫ | ⟪मुञ्चेयुः⟫ |
+| ⟪२३⟫. ⟪मन्यन्ते⟫ | ⟪मन्येरन्⟫ |
+| ⟪२४⟫. ⟪भवति⟫ | ⟪भवेत्⟫ |
+| ⟪२५⟫. ⟪भजन्ति⟫ | ⟪भजेयुः⟫ |
+| ⟪२६⟫. ⟪ब्रवीति⟫ | ⟪ब्रूयात्⟫ |
+| ⟪२७⟫. ⟪बुध्यते⟫ | ⟪बुध्येत⟫ |
+| ⟪२८⟫. ⟪पृच्छन्ति⟫ | ⟪पृच्छेयुः⟫ |
+| ⟪२९⟫. ⟪पुनाति⟫ | ⟪पुनीयात्⟫ |
+| ⟪३०⟫. ⟪पाति⟫ | ⟪पायात्⟫ |
+| ⟪३१⟫. ⟪पीयते⟫ | ⟪पीयेत⟫ |
+| ⟪३२⟫. ⟪पद्यते⟫ | ⟪पद्येत⟫ |
+| ⟪३३⟫. ⟪पतति⟫ | ⟪पतेत्⟫ |
+| ⟪३४⟫. ⟪पाचयन्ति⟫ | ⟪पाचयेयुः⟫ |
+| ⟪३५⟫. ⟪नृत्यन्ति⟫ | ⟪नृत्येयुः⟫ |
+| ⟪३६⟫. ⟪नीयते⟫ | ⟪नीये⟫et |
+| ⟪३७⟫. ⟪द्विषते⟫ | ⟪द्विषीरन्⟫ |
+| ⟪३८⟫. ⟪पश्यन्ति⟫ | ⟪पश्येयुः⟫ |
+| ⟪३९⟫. ⟪दोग्धि⟫ | ⟪दुह्यात्⟫ |
+| ⟪४०⟫. ⟪दुष्यति⟫ | ⟪दुष्येत्⟫ |
+| ⟪४१⟫. ⟪देशयन्ति⟫ | ⟪देशयेयुः⟫ |
+| ⟪४२⟫. ⟪दहति⟫ | ⟪दहेत्⟫ |
+| ⟪४३⟫. ⟪तनुते⟫ | ⟪तन्वीत⟫ |
+| ⟪४४⟫. ⟪जानाति⟫ | ⟪जानीयात्⟫ |
+| ⟪४५⟫. ⟪जानते⟫ | ⟪जानीरन्⟫ |
+| ⟪४६⟫. ⟪जयन्ति⟫ | ⟪जयेयुः⟫ |
+| ⟪४७⟫. ⟪जायन्ते⟫ | ⟪जायेरन्⟫ |
+| ⟪४८⟫. ⟪चोर्यते⟫ | ⟪चोर्येत⟫ |
+| ⟪४९⟫. ⟪चारयति⟫ | ⟪चारयेत्⟫ |
+| ⟪५०⟫. ⟪गच्छन्ति⟫ | ⟪गच्छेयुः⟫ |
+| ⟪५१⟫. ⟪खाद्यते⟫ | ⟪खाद्येत⟫ |
+| ⟪५२⟫. ⟪क्रीणीते⟫ | ⟪क्रीणीत⟫ |
+| ⟪५३⟫. ⟪क्रियते⟫ | ⟪क्रियेत⟫ |
+| ⟪५४⟫. ⟪कोपयति⟫ | ⟪कोपयेत्⟫ |
+| ⟪५५⟫. ⟪कामयते⟫ | ⟪कामयेत⟫ |
+| ⟪५६⟫. ⟪इच्छति⟫ | ⟪इच्छेत्⟫ |
+| ⟪५७⟫. ⟪आययन्ति⟫ | ⟪आययेयुः⟫ |
+| ⟪५८⟫. ⟪आस्यते⟫ | ⟪आस्येत⟫ |
+| ⟪५९⟫. ⟪आप्नुवते⟫ | ⟪आप्नुवीरन्⟫ |
+| ⟪६०⟫. ⟪अस्यते⟫ | ⟪अस्येत⟫ |
+| ⟪६१⟫. ⟪सन्ति⟫ | ⟪स्युः⟫ |
+| ⟪६२⟫. ⟪अश्नुते⟫ | ⟪अश्नुवीत⟫ |
+| ⟪६३⟫. ⟪अर्हति⟫ | ⟪अर्हेत्⟫ |
+| ⟪६४⟫. ⟪अदन्ति⟫ | ⟪अद्युः⟫ |
+| ⟪६५⟫. ⟪अध्यापयन्ति⟫ | ⟪अध्यापयेयुः⟫ |
+:::
+B) Käännä seuraavat lauseet ja ratkaise sanskritinkieliset samāhiti-kompositiot:
+
+⟪१⟫. **⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫**
+(⟪आर्याणि⟫ ⟪सत्यानि⟫)
+Buddha julisti ihmisille opettajansa arvovaltaisten olentojen hyödyksi, jotta he tunnistaisivat arvokkaat totuudet.
+
+⟪२⟫. **⟪ये⟫ ⟪नरा⟫ ⟪देवान्न⟫ ⟪यजेरन्व्रतानि⟫ ⟪च⟫ ⟪न⟫ ⟪चरेयुरनृतं⟫ ⟪च⟫ ⟪वदेयुरधर्मं⟫ ⟪च⟫ ⟪कुर्युस्ते⟫ ⟪सुखं⟫ ⟪नाप्नुयुर्मृत्वा⟫ ⟪च⟫ ⟪नरकं⟫ ⟪पतेयुः⟫ ⟪॥२॥⟫**
+Ihmiset, jotka eivät uhraa jumalille, eivät pidä lupauksia, valehtelevat ja tekevät väärin, eivät tule onnellisiksi ja lankeavat kuolemansa jälkeen helvettiin.
+
+⟪३⟫. **⟪ज्ञातिरागच्छेतितीष्ट्वार्यपुत्रो⟫ ⟪ज्ञातिं⟫ ⟪दासमाययति⟫ ⟪॥३॥⟫**
+(⟪आर्यपुत्रः⟫ — ⟪आर्याणां⟫ ⟪पुत्रः⟫)
+Arvokas poika haluaa, että hänen sukulaisensa tulevat, ja lähettää palvelijan hakemaan sukulaiset.
+
+
+⟪४⟫. **⟪अन्नलोभाद्दुःखं⟫ ⟪जायेतेति⟫ ⟪प्राप्तज्ञानः⟫ ⟪सुफलानि⟫ ⟪नाश्नाति⟫ ⟪॥४॥⟫**
+(⟪अन्नस्य⟫ ⟪लोभात्⟫ ⟪।⟫ ⟪प्राप्तं⟫ ⟪ज्ञानं⟫ ⟪येन⟫ ⟪सः⟫)
+Hän ymmärtää, että kärsimys syntyy ahneudesta, joten hän ei syö hyviä hedelmiä.
+
+⟪५⟫. **⟪क्रयेण⟫ ⟪च⟫ ⟪विक्रयेण⟫ ⟪च⟫ ⟪वैश्या⟫ ⟪जीवेयुरिति⟫ ⟪वैश्यधर्मः⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪वैश्यपुत्राः⟫ ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫ ⟪॥५॥⟫**
+(⟪वैश्यानां⟫ ⟪पुत्राः⟫)
+Vaiśyoiden velvollisuus on elää kaupankäynnillä. Siksi vaiśyat ostavat ja myyvät.
+
+⟪६⟫. **⟪कृतपापो⟫ ⟪नरश्चेन्नरके⟫ ⟪पापात्पूतः⟫ ⟪स्यात्पुनर्भवं⟫ ⟪गच्छेत्⟫ ⟪॥६॥⟫**
+(⟪कृतं⟫ ⟪पापं⟫ ⟪येन⟫ ⟪सः⟫ ⟪।⟫ ⟪पुनर्भव⟫ — ⟪पुनः⟫ ⟪भवति⟫ ⟪इति⟫)
+Kun pahantekijä on puhdistettu helvetissä pahuudestaan, hän syntyy uudelleen.
+
+⟪७⟫. **⟪ब्राह्मणपुत्रा⟫ ⟪वेदाध्यायांश्च⟫ ⟪स्मृत्यध्यायांश्च⟫ ⟪पुनः⟫ ⟪पुनरधीयीरन्नित्यार्यधर्मः⟫ ⟪॥७॥⟫**
+(⟪ब्राह्मणानां⟫ ⟪पुत्राः⟫ ⟪।⟫ ⟪वेदानामध्यायांश्च⟫ ⟪स्मृतीनामध्यायांश्च⟫)
+Arvovaltaisten on velvollisuus, että brahmaninpojat opiskelevat vedojen ja perinteen tekstikappaleita toistuvasti.
+
+⟪८⟫. **⟪यो⟫ ⟪ब्राह्मणः⟫ ⟪शूद्रां⟫ ⟪कामयेत⟫ ⟪स⟫ ⟪सद्ब्राह्मणो⟫ ⟪न⟫ ⟪स्यात्⟫ ⟪।⟫ ⟪सद्ब्राह्मणो⟫ ⟪हि⟫ ⟪ब्राह्मणीं⟫ ⟪कामयेत⟫ ⟪॥८॥⟫**
+(⟪सन्⟫-⟪ब्राह्मणः⟫)
+Ein Brahmane, der eine Śūdra liebt, ist kein guter Brahmane, denn ein guter Brahmane liebt eine Brahmanin.
+
+⟪९⟫. **⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫**  
+**⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫** (Manu IV.138)  
+Sano totuuksia, jotka ovat miellyttäviä; älä sano epämiellyttäviä totuuksia; älä sano miellyttävää epätotuutta, tämä on ikuinen laki.
+
+::: media
+![](/images/uebung048.webp)
+Kuv.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्तो⟫ ⟪वाद्यते⟫
+(Kuv lähde: [Details](/licenses#uebung048))
+:::
+---
+
+## Sanamuodon määrittäminen
+
+Määritä ja käännä seuraavat sanamuodot:
+
+::: grammar-box
+| Sanamuoto | Määritelmä | Merkitys |
+| :--- | :--- | :--- |
+| ⟪१⟫. ⟪भारे⟫ | Lok. sg. m. | kuormalla |
+| ⟪२⟫. ⟪अध्ययनम्⟫ | Nom./Akk. sg. n. | opiskelu |
+| ⟪३⟫. ⟪वस्तुतः⟫ | Adv. | todellisuudessa |
+| ⟪४⟫. ⟪वस्त्राणि⟫ | Nom./Akk. pl. n. | vaatteet |
+| ⟪५⟫. ⟪प्रतिमया⟫ | Instr. sg. f. | kuvan kautta |
+| ⟪६⟫. ⟪आचाराय⟫ | Dat. sg. m. | käytökselle |
+| ⟪७⟫. ⟪आचार्यैः⟫ | Instr. pl. m. | opettajien kautta |
+| ⟪८⟫. ⟪अश्वेषु⟫ | Lok. pl. m. | hevosilla |
+| ⟪९⟫. ⟪ताम्⟫ | Akk. sg. f. | nämä |
+| ⟪१०⟫. ⟪वृत्त्यै⟫ | Dat. sg. f. | elämäntavalle |
+| ⟪११⟫. ⟪चरितस्य⟫ | Gen. sg. n. | elämäkerran |
+| ⟪१२⟫. ⟪अर्हता⟫ | Instr. sg. m. | arhatin kautta |
+| ⟪१३⟫. ⟪शक्तीः⟫ | Akk. pl. f. | voimat |
+| ⟪१४⟫. ⟪कामम्⟫ | Adv. | mielivaltaisesti |
+| ⟪१५⟫. ⟪भिक्षवे⟫ | Dat. sg. m. | munkille |
+| ⟪१६⟫. ⟪भगवद्गीतायाम्⟫ | Lok. sg. f. | Bhagavadgītāssa |
+| ⟪१७⟫. ⟪भगवति⟫ | Lok. sg. m./n. | kunnioitettavassa |
+| ⟪१८⟫. ⟪भक्त्याः⟫ | Abl./Gen. sg. f. | rakkaudesta / rakkauden vuoksi |
+| ⟪१९⟫. ⟪स्थानात्⟫ | Abl. sg. n. | paikasta |
+| ⟪२०⟫. ⟪स्थित्या⟫ | Instr. sg. f. | asetuksen kautta |
+| ⟪२१⟫. ⟪मात्रायै⟫ | Dat. sg. f. | mitalle |
+| ⟪२२⟫. ⟪प्रभृतौ⟫ | Lok. sg. f. | alussa |
+| ⟪२३⟫. ⟪हस्तेन⟫ | Instr. sg. m. | käden kautta |
+
+| ⟪२४⟫. ⟪आदेः⟫ | Abl./Gen. sg. m. | alusta/päältä |
+| ⟪२५⟫. ⟪दिष्टिम्⟫ | Akk. sg. f. | ohje |
+| ⟪२६⟫. ⟪रुद्रः⟫ | Nom. sg. m. | Rudra |
+| ⟪२७⟫. ⟪मृत्यौ⟫ | Lok. sg. m. | kuolemassa |
+| ⟪२८⟫. ⟪मृतिः⟫ | Nom. sg. f. | kuolema |
+| ⟪२९⟫. ⟪द्विजातये⟫ | Dat. sg. m./f. | kahdesti syntyneelle |
+| ⟪३०⟫. ⟪जातिभिः⟫ | Instr. pl. f. | syntymien kautta |
+| ⟪३१⟫. ⟪व्याघ्रान्⟫ | Akk. pl. m. | tiikerit |
+| ⟪३२⟫. ⟪पूजाः⟫ | Nom./Akk. pl. f. | kunnioitukset |
+| ⟪३३⟫. ⟪शत्रोः⟫ | Abl./Gen. sg. m. | viholliselta/päältä |
+| ⟪३४⟫. ⟪उक्तिभ्यः⟫ | Dat./Abl. pl. f. | lausunnoille/lta |
+| ⟪३५⟫. ⟪महान्ति⟫ | Nom./Akk. pl. n. | suuret |
+| ⟪३६⟫. ⟪महति⟫ | Lok. sg. m./n. | suuressa |
+| ⟪३७⟫. ⟪सा⟫ | Nom. sg. f. | hän, tämä |
+| ⟪३८⟫. ⟪तस्यै⟫ | Dat. sg. f. | hänelle/hänelle |
+| ⟪३९⟫. ⟪तस्मिन्⟫ | Lok. sg. m./n. | siinä, tässä |
+| ⟪४०⟫. ⟪सते⟫ | Dat. sg. m./n. | olevalle/hyville |
+:::
+::: media
+![](/images/uebung047.webp)
+Kuv.: ⟪भक्त्याः⟫
+(Kuv lähde: [Details](/licenses#uebung047))
+:::
+

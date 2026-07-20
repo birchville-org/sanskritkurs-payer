@@ -1,5 +1,5 @@
 export const zhCN = {
-  label: '简体中文',
+  label: 'ZH-CN - 简体中文',
   lang: 'zh-CN',
   link: '/zh-CN/',
   title: '梵语课程',

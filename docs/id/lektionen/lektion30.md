@@ -1,255 +1,259 @@
 ---
-title: Lesson 30
-subtitle: "The 9th Present Class (⟪क्र्यादि⟫ = \"⟪क्री⟫ etc.\")"
+title: "[Pelajaran 30]"
+subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
 lesson_id: 30
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 30
 
-## 30.1. The 9th Present Class (⟪क्र्यादि⟫ = "⟪क्री⟫ etc.")
+
+# Pelajaran 30
+
+## 30.1. Kelas Present ke-9 (⟪क्र्यादि⟫ = "⟪क्री⟫ dan seterusnya")
 
 ::: grammar-box
-**Formation:**
+**Pembentukan:**
 
-*   strong stem: root in guṇa grade + -nā-
-    
-*   weak stem:
-    
-    *   before consonant: root in zero grade + -nī-
-        
-    *   before vowel: root in zero grade + -n-
+*   akar kuat: akar tingkat rendah + -nā-
+
+*   akar lemah:
+
+*   sebelum konsonan: akar tingkat rendah + -nī-
+
+*   sebelum vokal: akar tingkat rendah + -n-
 :::
-Example:
+Contoh:
 
 ::: indent
-⟪क्री⟫ 9U "to buy"
+⟪क्री⟫ 9U "membeli"
 :::
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
-|**3rd Person:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
+|**Orang ke-3:brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
+|**Orang ke-3:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
 
 :::
-Dalam kelas saat ini, perhatian khusus harus diberikan pada pembentukan kata dasar waktu sekarang dari akar ⟪ज्ञा⟫ 9U "mengetahui, mengenali":
+Pada kelas present ini, yang perlu diperhatikan secara khusus adalah pembentukan akar present untuk akar ⟪ज्ञा⟫ 9U "mengenal, mengetahui":
 
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
-|**3rd Person:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
+|**Orang ke-3:brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
+|**Orang ke-3:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
 
 :::
-Bentuk ⟪जा⟫, yang mendasari bentuk akar sekarang dari ⟪ज्ञा⟫, dapat dijelaskan baik oleh seri ablaut -ā (derajat nol) -nā (derajat guṇa) maupun oleh disimilasi dari *jñā-nā-ti.
+Bentuk ⟪जा⟫ yang mendasari akar present dari ⟪ज्ञा⟫, dapat dijelaskan baik melalui rangkaian ablaut -ā (tingkat rendah) -nā (tingkat tinggi), maupun melalui disimilasi dari *jñā-nā-ti.
 
-Beberapa akar dengan vokal panjang memendekkan vokal ini sebelum sufiks bentuk akar sekarang dari kelas 9:
+Beberapa akar dengan vokal panjang memendekkan vokal tersebut sebelum sufiks akar present kelas ke-9:
 
-Example:
+Contoh:
 
 ::: indent
-⟪पू⟫ 9U "to purify"
+⟪पू⟫ 9U "membersihkan"
 :::
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
-|**3rd Person:brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
+|**Orang ke-3:brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
+|**Orang ke-3:brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
 
 :::
-Formation of the Present Participle Parasmaipada:
+Pembentukan Partisip Present Parasmaipada:
 
-Example:
+Contoh:
 
 ::: indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
 :::
-## 30.2. Use of the Optative (⟪लिङ्⟫)
+## 30.2. Penggunaan Optatif (⟪लिङ्⟫)
 
-The optative is used:
+Optatif digunakan:
 
 ::: grammar-box
-**1. to express**
+**1. untuk menyatakan**
 
-*   **a wish**
-*   **a request**
-*   **a softened command**
+*   **keinginan**
+*   **permintaan**
+*   **perintah yang dilemahkan**
 
-**(di sini optatif - ⟪लिङ्⟫ - tumpang tindih dengan imperatif - ⟪लोट्⟫)**
+**(dalam hal ini Optatif - ⟪लिङ्⟫ - tumpang tindih dengan Imperatif - ⟪लोट्⟫)**
 :::
 Contoh:
 
 ::: indent
-⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Biarkan hamba datang ke desa"
+⟪दासो⟫ ⟪ग्राममागच्छेत्⟫ = "Hamba sahara itu hendaklah datang ke desa"
 :::
 ::: grammar-box
-**2. Ketika sesuatu harus disajikan sebagai**
+**2. Jika sesuatu digambarkan sebagai**
 
-*   **possible**
-*   **probable**
-*   **presumed**
+*   **mungkin**
+*   **kemungkinan**
+*   **diduga**
 
-**to be the case.**
-:::
-Example:
-
-::: indent
-⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "Jika ia meninggalkan desa, ia tidak akan mendengar sang guru"
-:::
-::: grammar-box
-**3. Klausa relatif dengan optatif kadang-kadang memiliki makna: "Jika seseorang ..."**
+**seharusnya.**
 :::
 Contoh:
 
 ::: indent
-⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "If someone were to tell a lie, he would fall into hell = If someone tells a lie, he falls into hell"
+⟪ग्रामाच्चेद्गच्छेद्गुरुं⟫ ⟪न⟫ ⟪शृणुयात्⟫ = "Jika dia pergi dari desa, dia tidak akan mendengar guru"
 :::
-## 30.3. Akhiran Sekunder Orang Ketiga Tunggal dan Jamak
+::: grammar-box
+**3. Kalimat relatif dengan Optatif kadang-kadang memiliki makna: "Jika seseorang ..."**
+:::
+Contoh:
 
-Optatif (⟪लिङ्⟫), Imperfekt (⟪लङ्⟫), Aorist (⟪लुङ्⟫), Precativ (⟪आशिर्लिङ्⟫) und Konditional haben die sogenannten Sekundarendungen:
+::: indent
+⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Jika seseorang akan mengatakan ketidakbenaran, dia akan jatuh ke neraka = Jika seseorang mengatakan ketidakbenaran, dia jatuh ke neraka"
+:::
+## 30.3. Akhiran Sekunder untuk Orang Ketiga Singular dan Plural
+
+Optatif (⟪लिङ्⟫), Imperfek (⟪लङ्⟫), Aorist (⟪लुङ्⟫), Prekatif (⟪आशिर्लिङ्⟫) dan Kondisional memiliki yang disebut akhiran sekunder:
 
 ::: grammar-box
 
-| |3rd person singular|3rd person plural|
+| |Orang Ketiga Singular|Orang Ketiga Plural|
 | :--- | :--- | :--- |
-|**Parasmaipada**|**-t**|athematic classes: **-an** or **-ur**:brOptative: **-ur**|
-|**Ātmanepada**|**-ta**|athematic classes: **-ata** (from *nta):brOptative: **-ran**|
+|**Parasmaipada**|**-t**|kelas ateis: **-an** atau **-ur** :brOptatif: **-ur**|
+|**Ātmanepada**|**-ta**|kelas ateis: **-ata** (dari *nta):brOptatif: **-ran**|
+
 
 :::
-## 30.4. Formation of the Optative Present (⟪लिङ्⟫)
+## 30.4. Pembentukan Optatif Präsens (⟪लिङ्⟫)
 
-### 30.4.1. Thematic Present Classes
+### 30.4.1. Kelas Präsens Tematis
 
 ::: grammar-box
-**before endings beginning with a consonant:**
+**sebelum akhiran yang diawali konsonan:**
 
-**Present stem + -i- (which merges with -a- to form -e-) + secondary endings**
+**Stem Präsens + -i- (yang melebur dengan -a menjadi -e) + Akhiran Sekunder**
 
-**before endings beginning with a vowel:**
+**sebelum akhiran yang diawali vokal:**
 
-**Present stem + -i- (» -e-) + -y- + secondary ending**
+**Stem Präsens + -i- (» -e-) + -y- + Akhiran Sekunder**
 :::
-Examples:
+Contoh:
 
-1\. Present class:
+1\. Kelas Präsens:
 
 ⟪भू⟫
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
-|**3rd Person:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
+|**Orang ke-3:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
+|**Orang ke-3:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
 
 :::
-4\. Present class:
+4\. Kelas Präsens:
 
 ⟪नृत्⟫
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
-|**3rd Person:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
+|**Orang ke-3:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
+|**Orang ke-3:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
 
 :::
-6\. Present class
+6\. Kelas Präsens
 
 ⟪विश्⟫
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
-|**3rd Person:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
+|**Orang ke-3:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
+|**Orang ke-3:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
 
 :::
-10\. Present class and causatives
+10\. Kelas Präsens dan Kausatif
 
 ⟪चुर्⟫
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
-|**3rd Person:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
+|**Orang ke-3:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
+|**Orang ke-3:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
 
 :::
-### 30.4.2. Atheric Present Classes
+### 30.4.2. Kelas Präsens Atematis
 
 ::: grammar-box
 **Parasmaipada:**
 
-**weak present stem + -yā- (before -ur: -y-) + secondary ending**
+**Stem Präsens lemah + -yā- (sebelum -ur: -y-) + Akhiran Sekunder**
 
 **Ātmanepada:**
 
-**weak present stem + -ī- + secondary ending**
+**Stem Präsens lemah + -ī- + Akhiran Sekunder**
 :::
-Examples:
+Contoh:
 
-2. Present class:
+2\. Kelas Präsens:
 
 ⟪द्विष्⟫
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
-|**3rd Person:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
+|**Orang ke-3:brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
+|**Orang ke-3:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
 
 :::
-5. Present class
+5\. Kelas Präsens
 
 ⟪सु⟫
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
-|**3rd Person:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
+|**Orang ke-3:brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
+|**Orang ke-3:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
 
 :::
-8. Present class
+8\. Kelas Präsens
 
 ⟪तन्⟫
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
-|**3rd Person:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
+|**Orang ke-3:brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
+|**Orang ke-3:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
 
 :::
-**kṛ**:br(⟪कृ⟫)
+**kṛ** :br(⟪कृ⟫)
 
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3rd Person:brParasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
-|**3rd Person:brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
+|**Orang ke-3:brParasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
+|**Orang ke-3:brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
 
 :::
 ::: grammar-box
 
 | |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
 | :--- | :--- | :--- |
-|**3rd Person Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
-|**3rd Person Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
+|**Orang ke-3 Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
+|**Orang ke-3 Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
+
 
 :::
-## 30.5. Sandhi of final -r
+## 30.5. Sandhi dari akhiran -r
 
 ::: grammar-box
-**Kecuali untuk -ar, aturan Sandhi yang sama berlaku untuk akhiran -r seperti untuk akhiran -s.**
+**Selain untuk -ar, aturan Sandhi untuk akhiran -r sama dengan yang berlaku untuk akhiran -s.**
 
-**-ar before voiced sounds remains -ar, but before r- the -r is lost and the -a- is replaced by -ā-.**
+**-ar sebelum bunyi bersuara tetap -ar, tetapi sebelum r- akhiran -r hilang dan -a- diganti dengan -ā-.**
 :::
 Contoh:
 
@@ -260,9 +264,9 @@ Contoh:
 
 ⟪पुनर्⟫ + ⟪रोदिति⟫ » ⟪पुना⟫ ⟪रोदिति⟫
 :::
-## 30.6. Word List
+## 30.6. Daftar Kata
 
-⟪क्री⟫ 9U ⟪क्रीणाति⟫ : to buy
+⟪क्री⟫ 9U ⟪क्रीणाति⟫ : membeli
 
 ::: indent
 Fut. ⟪क्रेष्यति⟫  
@@ -270,187 +274,188 @@ Pass. ⟪क्रीयते⟫
 PPP ⟪क्रीत⟫  
 Inf. ⟪क्रेतुम्⟫
 :::
-⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : to sell
+⟪क्री⟫ + ⟪वि⟫ 9Ā ⟪विक्रीणीते⟫ : menjual
 
 ::: indent
-Abs. ⟪विक्रीय⟫
-:::: media
+Absol. ⟪विक्रीय⟫
+:::
+::: media
 ![](/images/lekt3001.webp)
-Fig.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
+Gambar: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
-(Sumber gambar: [Details](/en/licenses#lekt3001))
-::::
+(Sumber gambar: [Detail](/id/licenses#lekt3001))
 :::
 ⟪ज्ञा⟫ 9U ⟪जानाति⟫ : mengetahui, mengenali, tahu, memahami
 
 ::: indent
 Fut. ⟪ज्ञास्यति⟫  
 Pass. ⟪ज्ञायते⟫  
-Caus. ⟪ज्ञापयति⟫  
-Caus. PPP ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫  
+Kaus. ⟪ज्ञापयति⟫  
+Kaus. PPP ⟪ज्ञप्त⟫ / ⟪ज्ञापित⟫  
 PPP ⟪ज्ञात⟫  
 Inf. ⟪ज्ञातुम्⟫
 
-from which:
+dari itu:
 
-⟪ज्ञाति⟫ m.: (blood) relative (relatives are those whom one knows!)
+⟪ज्ञाति⟫ m.: (kerabat) darah (Kerabat adalah mereka yang dikenal!)
 
-⟪ज्ञान⟫ n.: pengetahuan, kebijaksanaan, pemahaman (khususnya mengenai "kebenaran yang lebih tinggi" dalam agama dan filsafat)
-:::: media
-![](/images/lekt3002.webp)
-Fig.: ⟪ज्ञातयः⟫
-Darewadi, Distrik Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
-(Sumber gambar: [Details](/en/licenses#lekt3002))
-::::
+⟪ज्ञान⟫ n.: pengetahuan, ilmu, pengenalan (khususnya "pengetahuan" yang lebih tinggi dalam agama dan filsafat)
 :::
-⟪पू⟫ 9U ⟪पुनाति⟫ : untuk menyucikan
+::: media
+![](/images/lekt3002.webp)
+Gambar: ⟪ज्ञातयः⟫
+Darewadi, Distrik Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
+(Sumber gambar: [Detail](/id/licenses#lekt3002))
+:::
+⟪पू⟫ 9U ⟪पुनाति⟫ : membersihkan
 
 ::: indent
 Fut. ⟪पविष्यति⟫  
 Pass. ⟪पूयते⟫  
-Caus. ⟪पावयति⟫  
+Kaus. ⟪पावयति⟫  
 PPP ⟪पूत⟫  
 Inf. ⟪पवितुम्⟫
-:::: media
-![](/images/lekt3003.webp)
-Fig.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
-(Image source: [Details](/en/licenses#lekt3003))
-::::
 :::
-⟪अश्⟫ 9P ⟪अश्नाति⟫ : to eat, to consume
+::: media
+![](/images/lekt3003.webp)
+Gambar: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
+(Sumber gambar: [Detail](/id/licenses#lekt3003))
+:::
+⟪अश्⟫ 9P ⟪अश्नाति⟫ : makan, mengonsumsi
 
 ::: indent
 Fut. ⟪अशिष्यति⟫  
 Pass. ⟪अश्यते⟫  
-Caus. ⟪आशयति⟫  
+Kaus. ⟪आशयति⟫  
 PPP ⟪अशित⟫  
 Inf. ⟪अशितुम्⟫
-:::: media
-![](/images/lekt3005.webp)
-Fig.: ⟪अश्नीयात्⟫
-⟪थाली⟫, South India
-(Image source: [Details](/en/licenses#lekt3005))
-::::
 :::
-⟪प्रिय⟫ ⟪३⟫: dear, loving, friendly
+::: media
+![](/images/lekt3005.webp)
+Gambar: ⟪अश्नीयात्⟫
+⟪थाली⟫, India Selatan
+(Sumber gambar: [Detail](/id/licenses#lekt3005))
+:::
+⟪प्रिय⟫ ⟪३⟫: manis, penuh kasih, ramah
 
 ::: media
 ![](/images/lekt3004.webp)
-Fig.: ⟪प्रिया⟫
-(Sumber gambar: [Details](/en/licenses#lekt3004))
+Gambar: ⟪प्रिया⟫
+(Sumber gambar: [Detail](/id/licenses#lekt3004))
 :::
-⟪चेत्⟫ Konjungsi: jika; dengan syarat (tidak pernah muncul di awal kalimat)
+⟪चेत्⟫ Konjungsi: jika; dengan syarat bahwa (tidak pernah muncul di awal kalimat)
 
 ::: indent
-⟪न⟫ ⟪चेत्⟫ : if not
+⟪न⟫ ⟪चेत्⟫ : jika tidak
 :::
-⟪यदि⟫ Conjunction: if
+⟪यदि⟫ Konjungsi: jika
 
 ::: indent
-⟪यद्यपि⟫ : even if, although
+⟪यद्यपि⟫ : meskipun, sekalipun, walaupun
 
-⟪यद्येवम्⟫ : if so, under these circumstances
+⟪यद्येवम्⟫ : jika demikian, dalam keadaan ini
 :::
-⟪पुनर्⟫ : again, repeatedly, back, once more, on the contrary, but
+⟪पुनर्⟫ : kembali, berulang kali, balik, sekali lagi, sebaliknya, tetapi
 
 ::: indent
-⟪पुनः⟫ ⟪पुनर्⟫ : repeatedly
+⟪पुनः⟫ ⟪पुनर्⟫ : berulang kali
 
-from which:
+dari itu:
 
-⟪पुनर्भव⟫ m.: rebirth
-:::: media
+⟪पुनर्भव⟫ m.: kelahiran kembali
+:::
+::: media
 ![](/images/lekt2904.webp)
-Fig.: ⟪पुनर्भवः⟫
-(Image source: [Details](/en/licenses#lekt2904))
-::::
+Gambar: ⟪पुनर्भवः⟫
+(Sumber gambar: [Detail](/id/licenses#lekt2904))
 :::
-⟪जीव्⟫ 1P ⟪जीवति⟫ : to live
+⟪जीव्⟫ 1P ⟪जीवति⟫ : hidup
 
 ::: indent
 Fut. ⟪जीविष्यति⟫  
 Pass. ⟪जीव्यते⟫  
-Caus. ⟪जीवयति⟫  
-PPP ⟪जीवित⟫ : living  
+Kaus. ⟪जीवयति⟫  
+PPP ⟪जीवित⟫ : hidup  
 Inf. ⟪जीवितुम्⟫
 
-from which:
+dari itu:
 
-⟪जीव⟫ m./n.: life, individual soul
+⟪जीव⟫ m./n.: kehidupan, jiwa individu
 :::
-⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : eternal, imperishable, constant
+⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : abadi, tak layu, kekal
 
-## 30.7. Exercise
+## 30.7. Latihan
 
-[A] Ubahlah bentuk-bentuk verbal berikut ke dalam bentuk optatif yang sesuai mengenai orang, jumlah, dan jenis kelamin:
+A) Ubah bentuk-bentuk verbal berikut ke dalam bentuk Optatif yang sesuai dengan orang, jumlah, dan genus verbi:
 
-1.  ⟪ह्रियते⟫
-2.  ⟪ध्नन्ति⟫
-3.  ⟪स्मरति⟫
-4.  ⟪स्थापयन्ति⟫
-5.  ⟪स्तौति⟫
-6.  ⟪सर्ज्यते⟫
-7.  ⟪सुन्वन्ति⟫
-8.  ⟪सिञ्चति⟫
-9.  ⟪शृणोति⟫
-10.  ⟪शक्नुवन्ति⟫
-11.  ⟪वर्तन्ते⟫
-12.  ⟪वेशयन्ति⟫
-13.  ⟪वस्ते⟫
-14.  ⟪उष्यते⟫
-15.  ⟪वाद्यते⟫
-16.  ⟪उच्यते⟫
-17.  ⟪लम्भ्यते⟫
-18.  ⟪रक्षयन्ति⟫
-19.  ⟪युध्यते⟫
-20.  ⟪इज्यते⟫
-21.  ⟪म्रियते⟫
-22.  ⟪मुञ्चन्ति⟫
-23.  ⟪मन्यन्ते⟫
-24.  ⟪भवति⟫
-25.  ⟪भजन्ति⟫
-26.  ⟪ब्रवीति⟫
-27.  ⟪बुध्यते⟫
-28.  ⟪पृच्छन्ति⟫
-29.  ⟪पुनाति⟫
-30.  ⟪पाति⟫
-31.  ⟪पीयते⟫
-32.  ⟪पद्यते⟫
-33.  ⟪पतति⟫
-34.  ⟪पाचयन्ति⟫
-35.  ⟪नृत्यन्ति⟫
-36.  ⟪नीयते⟫
-37.  ⟪द्विषते⟫
-38.  ⟪पश्यन्ति⟫
-39.  ⟪दोग्धि⟫
-40.  ⟪दुष्यति⟫
-41.  ⟪देशयन्ति⟫
-42.  ⟪दहति⟫
-43.  ⟪तनुते⟫
-44.  ⟪जानाति⟫
-45.  ⟪जानते⟫
-46.  ⟪जयन्ति⟫
-47.  ⟪जायन्ते⟫
-48.  ⟪चोर्यते⟫
-49.  ⟪चारयति⟫
-50.  ⟪गच्छन्ति⟫
-51.  ⟪खाद्यते⟫
-52.  ⟪क्रीणीते⟫
-53.  ⟪क्रियते⟫
-54.  ⟪कोपयति⟫
-55.  ⟪कामयते⟫
-56.  ⟪इच्छति⟫
-57.  ⟪आययन्ति⟫
-58.  ⟪आस्यते⟫
-59.  ⟪आप्नुवते⟫
-60.  ⟪अस्यते⟫
-61.  ⟪सन्ति⟫
-62.  ⟪अश्नुते⟫
-63.  ⟪अर्हति⟫
-64.  ⟪अदन्ति⟫
-65.  ⟪अध्यापयन्ति⟫
+1. ⟪ह्रियते⟫
+2. ⟪ध्नन्ति⟫
+3. ⟪स्मरति⟫
+4. ⟪स्थापयन्ति⟫
+5. ⟪स्तौति⟫
+6. ⟪सर्ज्यते⟫
+7. ⟪सुन्वन्ति⟫
+8. ⟪सिञ्चति⟫
+9. ⟪शृणोति⟫
+10. ⟪शक्नुवन्ति⟫
+11. ⟪वर्तन्ते⟫
+12. ⟪वेशयन्ति⟫
+13. ⟪वस्ते⟫
+14. ⟪उष्यते⟫
+15. ⟪वाद्यते⟫
+16. ⟪उच्यते⟫
+17. ⟪लम्भ्यते⟫
+18. ⟪रक्षयन्ति⟫
+19. ⟪युध्यते⟫
+20. ⟪इज्यते⟫
+21. ⟪म्रियते⟫
+22. ⟪मुञ्चन्ति⟫
+23. ⟪मन्यन्ते⟫
+24. ⟪भवति⟫
+25. ⟪भजन्ति⟫
+26. ⟪ब्रवीति⟫
+27. ⟪बुध्यते⟫
+28. ⟪पृच्छन्ति⟫
+29. ⟪पुनाति⟫
+30. ⟪पाति⟫
+31. ⟪पीयते⟫
+32. ⟪पद्यते⟫
+33. ⟪पतति⟫
+34. ⟪पाचयन्ति⟫
+35. ⟪नृत्यन्ति⟫
+36. ⟪नीयते⟫
+37. ⟪द्विषते⟫
+38. ⟪पश्यन्ति⟫
+39. ⟪दोग्धि⟫
+40. ⟪दुष्यति⟫
+41. ⟪देशयन्ति⟫
+42. ⟪दहति⟫
+43. ⟪तनुते⟫
+44. ⟪जानाति⟫
+45. ⟪जानते⟫
+46. ⟪जयन्ति⟫
+47. ⟪जायन्ते⟫
+48. ⟪चोर्यते⟫
+49. ⟪चारयति⟫
+50. ⟪गच्छन्ति⟫
+51. ⟪खाद्यते⟫
+52. ⟪क्रीणीते⟫
+53. ⟪क्रियते⟫
+54. ⟪कोपयति⟫
+55. ⟪कामयते⟫
+56. ⟪इच्छति⟫
+57. ⟪आययन्ति⟫
+58. ⟪आस्यते⟫
+59. ⟪आप्नुवते⟫
+60. ⟪अस्यते⟫
+61. ⟪सन्ति⟫
+62. ⟪अश्नुते⟫
+63. ⟪अर्हति⟫
+64. ⟪अदन्ति⟫
+65. ⟪अध्यापयन्ति⟫
 
-B) Terjemahkan kalimat-kalimat berikut dan pecahkan sandhangan (compound) dalam bahasa Sanskerta:
+
+B) Terjemahkan kalimat-kalimat berikut dan pecahkan komposita ke dalam bahasa Sanskerta:
 
 ⟪जना⟫ ⟪आर्यसत्यानि⟫ ⟪जानीयुरिति⟫ ⟪सुगतेनार्याणां⟫ ⟪सुखाय⟫ ⟪जना⟫ ⟪धर्मं⟫ ⟪ज्ञाप्यन्ते⟫ ⟪॥१॥⟫
 
@@ -471,9 +476,9 @@ B) Terjemahkan kalimat-kalimat berikut dan pecahkan sandhangan (compound) dalam 
 ⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
 ⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
 
-## 30.8. Form Exercise
+## 30.8. Latihan Ulangan untuk Morfologi
 
-Determine and translate the following word forms:
+Tentukan dan terjemahkan bentuk-bentuk kata berikut:
 
 1.  ⟪भारे⟫
 2.  ⟪अध्ययनम्⟫
@@ -518,10 +523,11 @@ Determine and translate the following word forms:
 
 ::: deleteme-box
 
-**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Image source: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Non-commercial, No derivatives)]
-**lekt3002:** Darewadi, Ahmed Nagar District = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Image source: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Non-commercial, ShareAlike)]
-**lekt3003:** [Image source: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, ShareAlike)]
-**lekt3005:** ⟪थाली⟫, South India [Image source: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, Non-commercial, ShareAlike)]
-**lekt3004:** [Image source: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Accessed on 2008-12-21. -- Creative Commons License (Attribution, ShareAlike)]
-**lekt2904:** [Image source: Wikipedia / Copyrighted to Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
+**lekt3001:** Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫ [Sumber gambar: earth2marsh. -- http://www.flickr.com/photos/earth2marsh/56270619/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, Non-Komersial, Tidak ada Turunan)]
+**lekt3002:** Darewadi, Distrik Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫ [Sumber gambar: Robin Murphy / World Resources Institute. -- http://www.flickr.com/photos/worldresourcesinstitute/2555776315/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, Non-Komersial, Berbagi Sama)]
+**lekt3003:** [Sumber gambar: Karmalize. -- http://www.flickr.com/photos/agaylon/1799930862/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, Berbagi Sama)]
+**lekt3005:** ⟪थाली⟫, India Selatan [Sumber gambar: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, Non-Komersial, Berbagi Sama)]
+**lekt3004:** [Sumber gambar: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, Berbagi Sama)]
+**lekt2904:** [Sumber gambar: Wikipedia / Hak Cipta milik Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
+
 :::

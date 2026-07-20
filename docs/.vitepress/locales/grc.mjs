@@ -1,6 +1,6 @@
 
 export const grc = {
-  label: 'GRC',
+  label: 'GRC - Ἀρχαία',
   lang: 'grc',
   link: '/grc/',
   title: 'Σανσκριτικὸν Μάθημα',

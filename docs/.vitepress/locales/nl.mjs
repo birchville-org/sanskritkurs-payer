@@ -1,5 +1,5 @@
 export const nl = {
-  label: 'NL',
+  label: 'NL - Nederlands',
   lang: 'nl-NL',
   link: '/nl/',
   title: 'Sanskritcursus',

@@ -1,6 +1,6 @@
 
 export const ta = {
-  label: 'TA',
+  label: 'TA - தமிழ்',
   lang: 'ta-IN',
   link: '/ta/',
   title: 'சமஸ்கிருத பாடநெறி',

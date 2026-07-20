@@ -1,6 +1,6 @@
 
 export const hi = {
-  label: 'HI',
+  label: 'HI - हिन्दी',
   lang: 'hi-IN',
   link: '/hi/',
   title: 'संस्कृत पाठ्यक्रम',

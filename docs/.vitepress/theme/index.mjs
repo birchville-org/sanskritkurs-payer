@@ -14,6 +14,52 @@ import PayerLanguageSettings from './components/PayerLanguageSettings.vue'
 import PayerOfflineIndicator from './components/PayerOfflineIndicator.vue'
 import './custom.css'
 
+const LANGUAGES = [
+    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "rm", "ta",
+    "ar", "arc", "he", "zh-CN", "la", "grc", "el", "th", "ro", "fi", "hu", "fa", "cop", "nl"
+];
+
+function updateNavbarLangLabel() {
+    if (typeof document === 'undefined') return;
+    const pathParts = window.location.pathname.split('/').filter(Boolean);
+    let langCode = 'de';
+    if (pathParts.length > 0 && LANGUAGES.includes(pathParts[0])) {
+        langCode = pathParts[0];
+    }
+    
+    const btn = document.querySelector('.VPNavBarTranslations button');
+    if (btn) {
+        let labelSpan = btn.querySelector('.custom-lang-label');
+        if (!labelSpan) {
+            labelSpan = document.createElement('span');
+            labelSpan.className = 'custom-lang-label';
+            labelSpan.style.marginLeft = '6px';
+            labelSpan.style.fontSize = '11px';
+            labelSpan.style.fontWeight = '600';
+            labelSpan.style.textTransform = 'uppercase';
+            labelSpan.style.color = 'var(--vp-c-text-1)';
+            btn.appendChild(labelSpan);
+        }
+        labelSpan.textContent = langCode.toUpperCase();
+    }
+    
+    const mBtn = document.querySelector('.VPNavScreenTranslations button');
+    if (mBtn) {
+        let labelSpan = mBtn.querySelector('.custom-lang-label');
+        if (!labelSpan) {
+            labelSpan = document.createElement('span');
+            labelSpan.className = 'custom-lang-label';
+            labelSpan.style.marginLeft = '6px';
+            labelSpan.style.fontSize = '11px';
+            labelSpan.style.fontWeight = '600';
+            labelSpan.style.textTransform = 'uppercase';
+            labelSpan.style.color = 'var(--vp-c-text-1)';
+            mBtn.appendChild(labelSpan);
+        }
+        labelSpan.textContent = langCode.toUpperCase();
+    }
+}
+
 function closeAllExcept(clickedGroup) {
     const levelClass = Array.from(clickedGroup.classList).find(c => c.startsWith('level-'));
     if (!levelClass) return;
@@ -126,6 +172,7 @@ export default {
     // from install-state.js. This keeps install UI out of every other page.
     onMounted(() => {
         setupInstallCapture()
+        updateNavbarLangLabel()
     })
 
     if (typeof document !== 'undefined') {
@@ -135,6 +182,7 @@ export default {
                  mergeTableCells();
                  fixTableColors();
                  filterSidebarByLocales();
+                 updateNavbarLangLabel();
              }, 250);
              
              // License Audit ID Migration (Move ID from <a> to <tr> for highlighting)

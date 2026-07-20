@@ -1,5 +1,5 @@
 export const sq = {
-  label: 'SQ',
+  label: 'SQ - Shqip',
   lang: 'sq-AL',
   link: '/sq/',
   title: 'Kurs Sanskritisht',

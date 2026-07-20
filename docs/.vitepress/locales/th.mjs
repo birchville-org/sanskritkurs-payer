@@ -1,5 +1,5 @@
 export const th = {
-  label: 'TH',
+  label: 'TH - ไทย',
   lang: 'th-TH',
   link: '/th/',
   title: 'Sanskrit Course',

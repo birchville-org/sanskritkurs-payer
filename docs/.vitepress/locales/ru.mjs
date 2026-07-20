@@ -1,6 +1,6 @@
 
 export const ru = {
-  label: 'RU',
+  label: 'RU - Русский',
   lang: 'ru-RU',
   link: '/ru/',
   title: 'Курс санскрита',

@@ -1,5 +1,5 @@
 export const de = {
-  label: 'DE',
+  label: 'DE - Deutsch',
   lang: 'de-DE',
   title: 'Sanskritkurs',
   description: 'Grammatik Lehrbuch von Alois Payer',

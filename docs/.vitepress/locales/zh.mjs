@@ -1,6 +1,6 @@
 
 export const zh = {
-  label: 'ZH',
+  label: 'ZH - 中文',
   lang: 'zh-Hans',
   link: '/zh/',
   title: '梵语课程',

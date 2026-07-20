@@ -1,6 +1,6 @@
 
 export const bg = {
-  label: 'BG',
+  label: 'BG - Български',
   lang: 'bg-BG',
   link: '/bg/',
   title: 'Курс по санскрит',

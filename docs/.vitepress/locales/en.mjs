@@ -1,6 +1,6 @@
 
 export const en = {
-  label: 'EN',
+  label: 'EN - English',
   lang: 'en-US',
   link: '/en/',
   title: 'Sanskrit Course',

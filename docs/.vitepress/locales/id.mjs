@@ -1,5 +1,5 @@
 export const id = {
-  label: 'ID',
+  label: 'ID - Bahasa Indonesia',
   lang: 'id-ID',
   link: '/id/',
   title: 'Kursus Sanskerta',

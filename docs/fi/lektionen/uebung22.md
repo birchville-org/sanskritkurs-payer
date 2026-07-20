@@ -1,0 +1,118 @@
+---
+title: "Harjoitus 22"
+uebung_id: 22
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
+
+
+
+
+# Harjoitus 22
+
+A) Muodosta ja käännä absolutiivi seuraaville verbeille:
+
+1. ⟪आप्⟫ — ⟪आप्त्वा⟫ (sen jälkeen, kun hän on saavuttanut)
+2. ⟪प्राप्⟫ — ⟪प्राप्य⟫ (sen jälkeen, kun hän on saavuttanut)
+3. ⟪समास्⟫ — ⟪समास्य⟫ (sen jälkeen, kun hän on asettunut)
+4. ⟪आस्⟫ — ⟪आसित्वा⟫ (sen jälkeen, kun hän on istunut)
+5. ⟪समि⟫ — ⟪समित्य⟫ (sen jälkeen, kun hän on kokoontunut)
+6. ⟪संस्कृ⟫ — ⟪संस्कृत्य⟫ (sen jälkeen, kun hän on valmistanut/pyhittänyt)
+7. ⟪कृ⟫ — ⟪कृत्वा⟫ (sen jälkeen, kun hän on tehnyt)
+8. ⟪गम्⟫ — ⟪गत्वा⟫ (sen jälkeen, kun hän on mennyt)
+9. ⟪उपगम्⟫ — ⟪उपगत्य⟫ / ⟪उपगम्य⟫ (sen jälkeen, kun hän on lähestynyt)
+10. ⟪जि⟫ — ⟪जित्वा⟫ (sen jälkeen, kun hän on voittanut)
+11. ⟪विजि⟫ — ⟪विजित्य⟫ (sen jälkeen, kun hän on voittanut)
+12. ⟪तन्⟫ — ⟪तत्वा⟫ (sen jälkeen, kun hän on jännittänyt)
+13. ⟪दह्⟫ — ⟪दग्ध्वा⟫ (sen jälkeen, kun hän on polttanut)
+14. ⟪उपदिश्⟫ — ⟪उपदिश्य⟫ (sen jälkeen, kun hän on ohjeistanut)
+15. ⟪नी⟫ — ⟪नीत्वा⟫ (sen jälkeen, kun hän on johtanut)
+16. ⟪पच्⟫ — ⟪पक्त्वा⟫ (sen jälkeen, kun hän on keittänyt)
+17. ⟪उपपद्⟫ — ⟪उपपद्य⟫ (sen jälkeen, kun hän on astunut lähelle)
+18. ⟪पा⟫ ⟪१⟫ — ⟪पीत्वा⟫ (sen jälkeen, kun hän on juonut)
+19. ⟪प्रच्छ्⟫ — ⟪पृष्ट्वा⟫ (sen jälkeen, kun hän on kysynyt)
+20. ⟪बुध्⟫ — ⟪बुद्ध्वा⟫ (sen jälkeen, kun hän on tunnistanut)
+21. ⟪सम्बुध्⟫ — ⟪सम्बुध्य⟫ (sen jälkeen, kun hän on herännyt tietämykseen)
+22. ⟪भज्⟫ — ⟪भक्त्वा⟫ (sen jälkeen, kun hän on jakanut)
+23. ⟪भू⟫ — ⟪भूत्वा⟫ (sen jälkeen, kun hän on tullut)
+24. ⟪प्रभू⟫ — ⟪प्रभूय⟫ (sen jälkeen, kun hän on syntynyt)
+25. ⟪मन्⟫ — ⟪मत्वा⟫ (sen jälkeen, kun hän on tarkoittanut)
+26. ⟪मुच्⟫ — ⟪मुक्त्वा⟫ (sen jälkeen, kun hän on vapauttanut)
+27. ⟪विमुच्⟫ — ⟪विमुच्य⟫ (sen jälkeen, kun hän on päästänyt irti)
+28. ⟪मृ⟫ — ⟪मृत्वा⟫ (sen jälkeen, kun hän on kuollut)
+29. ⟪यज्⟫ — ⟪ईष्ट्वा⟫ (sen jälkeen, kun hän on uhrautunut)
+30. ⟪लभ्⟫ — ⟪लब्ध्वा⟫ (sen jälkeen, kun hän on saanut)
+31. ⟪उपलभ्⟫ — ⟪उपलभ्य⟫ (sen jälkeen, kun hän on havainnut)
+32. ⟪वच्⟫ — ⟪उक्त्वा⟫ (sen jälkeen, kun hän on puhunut)
+33. ⟪प्रवच्⟫ — ⟪प्रोच्य⟫ (sen jälkeen, kun hän on julistanut)
+34. ⟪वद्⟫ — ⟪उदित्वा⟫ (sen jälkeen, kun hän on puhunut)
+35. ⟪प्रवद्⟫ — ⟪प्रोद्य⟫ (sen jälkeen, kun hän on sanonut esiin)
+36. ⟪हन्⟫ — ⟪हत्वा⟫ (sen jälkeen, kun hän on surmannut)
+
+B) Käännä ja ratkaise sanskritinkieliset yhdyssanat:
+
+⟪१⟫. **⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदास्यत्ति⟫ ⟪॥१॥⟫**
+(⟪ब्राह्मणस्य⟫ ⟪दासी⟫)
+Pappien palvelijakeittiö keitti ruokaa ja syö nyt.
+
+⟪२⟫. **⟪इष्टदेवतापूजां⟫ ⟪कृत्वेन्द्रादिदेवान्सद्ब्राह्मणाः⟫ ⟪स्तुवन्ति⟫ ⟪॥२॥⟫**
+(⟪इष्टाया⟫ ⟪देवताया⟫ ⟪पूजां⟫ ⟪।⟫ ⟪इन्द्र⟫ ⟪आदिर्येषां⟫ ⟪तान्देवान्⟫ ⟪।⟫ ⟪सन्तो⟫ ⟪ब्राह्मणाः⟫)
+Hyvät brahmanit kunnioittivat henkilökohtaista jumaluuttaan ja ylistävät nyt Indria ja muita jumalia.
+
+⟪३⟫. **⟪प्रस्थाय⟫ ⟪रामः⟫ ⟪सपुत्रः⟫ ⟪सद्गुरुश्रवणार्थेन⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गच्छति⟫ ⟪॥३॥⟫**
+(⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪सतो⟫ ⟪गुरोः⟫ ⟪श्रवणार्थेन⟫ ⟪।⟫ ⟪ब्राह्मणानां⟫ ⟪ग्रामम्⟫)
+Rāma on lähtenyt poikansa kanssa ja kävelee brahmanikyliin kuullakseen hyvää mestaria.
+
+⟪४⟫. **⟪अनिष्ट्वा⟫ ⟪नरो⟫ ⟪भगवद्भक्तिमात्रेणापि⟫ ⟪मोक्षमाप्नोति⟫ ⟪॥४॥⟫**
+Vaikka hän ei olisi koskaan uhrautunut, ihminen saa vapautuksen yksinomaan antautumalla kunnioitettavalle (Kṛṣṇa).
+
+⟪५⟫. **⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरो⟫ ⟪वक्ति⟫ ⟪॥५॥⟫**
+(⟪गृहस्य⟫ ⟪गर्भम्⟫ ⟪।⟫ ⟪ब्राह्मणस्य⟫ ⟪पुत्रम्⟫ ⟪।⟫ ⟪क्षत्रिय⟫ ⟪एव⟫ ⟪शूरः⟫)
+Kṣatriya-sankeri astuu talon sisälle, asettuu nöyrässä asennossa brahmanin pojan eteen ja puhuu.
+
+
+⟪६⟫. **⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतो⟫ ⟪मोक्षमार्गेण⟫ ⟪नरान्नयति⟫ ⟪॥६॥⟫**
+(⟪दुःखमादिर्येषां⟫ ⟪तान्यार्याणि⟫ ⟪सत्यानि⟫ ⟪।⟫ ⟪सुष्टु⟫ ⟪गतः⟫ ⟪।⟫ ⟪मोक्षस्य⟫ ⟪मार्गेण⟫)
+Buddha (Sugata) on noussut valaistumiseen, on julistanut kärsimyksen totuuden ja muut jalot totuudet, ja johtaa nyt ihmisiä vapautumisen polulla.
+
+⟪७⟫. **⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजन्यज्ञदोषं⟫ ⟪करोति⟫ ⟪॥७॥⟫**
+(⟪यज्ञस्य⟫ ⟪दोषम्⟫)
+Koska uhraaja on unohtanut säkeen, hän tekee uhrivirheen.
+
+⟪८⟫. **⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫ ⟪॥८॥⟫**
+(⟪बुद्धस्य⟫ ⟪मार्गो⟫ ⟪मार्गो⟫ ⟪येषां⟫ ⟪ते⟫ ⟪भिक्षवः⟫)
+Kun munkit, jotka kulkevat Buddhan tietä, saavat rahaa, he pilaantuvat.
+
+⟪९⟫. **⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहा⟫ ⟪विजयन्ते⟫ ⟪॥९॥⟫**
+(⟪अनार्यैः⟫ ⟪शत्रुभिः⟫ ⟪।⟫ ⟪नराः⟫ ⟪सिंहा⟫ ⟪इव⟫)
+Leijonanvoimaiset miehet ovat kohdanneet viholliset, jotka eivät ole āryoja, ja voittavat täydellisesti.
+
+⟪१०⟫. **⟪पुण्यं⟫ ⟪कृत्वा⟫ ⟪सत्यमेवोदित्वा⟫ ⟪नरो⟫ ⟪नरकं⟫ ⟪नोपपद्यते⟫ ⟪॥१०॥⟫**
+Kun ihminen on tehnyt ansioita ja puhunut vain totuutta, hän ei joudu mihinkään helvettiin.
+
+::: media
+![](/images/uebung034.jpg)
+Kuv: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्गभिक्षवो⟫ ⟪दुष्यन्ति⟫
+(Kuv lähde: [Yksityiskohdat](/licenses#uebung034))
+:::
+---
+
+## Passiivilauseet
+
+C) Muuta yllä olevista lauseista (paitsi lauseet 8 ja 10) passiivilauseita:
+
+⟪१⟫. ⟪अन्नं⟫ ⟪पक्त्वा⟫ ⟪ब्राह्मणदास्याद्यते⟫ ⟪॥⟫
+
+⟪२⟫. ⟪इष्टदेवतापूजां⟫ ⟪कृत्वेन्द्रादिदेवाः⟫ ⟪सद्ब्राह्मणैः⟫ ⟪स्तूयन्ते⟫ ⟪॥⟫
+
+⟪३⟫. ⟪प्रस्थाय⟫ ⟪रामेण⟫ ⟪सपुत्रेण⟫ ⟪सद्गुरुश्रवणार्थेन⟫ ⟪ब्राह्मणग्रामं⟫ ⟪गम्यते⟫ ⟪॥⟫
+
+⟪४⟫. ⟪अनिष्ट्वा⟫ ⟪नरेण⟫ ⟪भगवद्भक्तिमात्रेणापि⟫ ⟪मोक्ष⟫ ⟪आप्यते⟫ ⟪॥⟫
+
+⟪५⟫. ⟪गृहगर्भं⟫ ⟪प्रविश्य⟫ ⟪ब्राह्मणपुत्रमुपस्थाय⟫ ⟪क्षत्रियशूरेणोच्यते⟫ ⟪॥⟫
+
+⟪६⟫. ⟪सम्बुध्य⟫ ⟪दुःखाद्यार्यसत्यानि⟫ ⟪प्रोच्य⟫ ⟪सुगतेन⟫ ⟪मोक्षमार्गेण⟫ ⟪नरा⟫ ⟪नीयन्ते⟫ ⟪॥⟫
+
+⟪७⟫. ⟪मन्त्रं⟫ ⟪विस्मृत्य⟫ ⟪यजता⟫ ⟪यज्ञदोषः⟫ ⟪क्रियते⟫ ⟪॥⟫
+
+⟪९⟫. ⟪अनार्यशत्रुभिः⟫ ⟪संगत्य⟫ ⟪नरसिंहैर्विजीयते⟫ ⟪॥⟫
