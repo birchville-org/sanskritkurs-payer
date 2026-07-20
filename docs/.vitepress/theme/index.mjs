@@ -14,10 +14,7 @@ import PayerLanguageSettings from './components/PayerLanguageSettings.vue'
 import PayerOfflineIndicator from './components/PayerOfflineIndicator.vue'
 import './custom.css'
 
-const LANGUAGES = [
-    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "rm", "ta",
-    "ar", "arc", "he", "zh-CN", "la", "grc", "el", "th", "ro", "fi", "hu", "fa", "cop", "nl"
-];
+import { ACTIVE_LOCALES as LANGUAGES } from '../languages.mjs'
 
 function updateNavbarLangLabel() {
     if (typeof document === 'undefined') return;

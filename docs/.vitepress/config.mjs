@@ -1,4 +1,5 @@
 import { defineConfig } from 'vitepress'
+import { ACTIVE_LOCALES } from './languages.mjs'
 // ── v1.2 languages ────────────────────────────────────────────────────────────
 import { de } from './locales/de.mjs'
 import { en } from './locales/en.mjs'
@@ -134,7 +135,10 @@ grc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Γραφή', 'grc
 grc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Ἄσκησις', 'grc', 10)
 
 const isAuthorBuild = process.env.VITEPRESS_ENV === 'author';
-const allLocales = [de, en, it, ru, uk, hi, fr, es, ta, pa, ro, id, he, la, rm, ar, zhCN, el, th, grc];
+const localeObjects = {
+  de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc
+};
+const allLocales = ACTIVE_LOCALES.map(code => localeObjects[code]).filter(Boolean);
 
 if (!isAuthorBuild) {
   for (const localeObj of allLocales) {
@@ -224,7 +228,7 @@ export default defineConfig({
             prefix: function(term) { return term.length >= 4; },
             boost: { title: 5, text: 1, titles: 3 },
             filter: function(result) {
-              const ACTIVE = ['en','it','ru','uk','hi','fr','es','ta','pa','la','rm','ro','id','he','ar','zh-CN','el','th','grc'];
+              const ACTIVE = ACTIVE_LOCALES.filter(c => c !== 'de');
               const seg = (typeof window !== 'undefined' ? window.location.pathname : '/').split('/').filter(Boolean)[0] || '';
               if (ACTIVE.includes(seg)) {
                 // Sprachseite: nur Ergebnisse dieser Sprache

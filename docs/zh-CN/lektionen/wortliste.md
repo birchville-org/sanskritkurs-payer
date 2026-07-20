@@ -2130,7 +2130,7 @@ PPP ⟨BHUKTA- ⟪अशित⟫
 ::: media
 ![](/images/lekt3103.webp)
 图：⟪प्रज्ञापारमिता⟫
-Aus einem Prajñāpāramitā-Manuskript.
+来自《般若波罗蜜多经》写本。
 （图片来源：[详情](/licenses#lekt3103)）
 :::
 **⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ ：产生，存在

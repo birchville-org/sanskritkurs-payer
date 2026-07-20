@@ -168,7 +168,7 @@ davon:
 :::: media
 ![](/images/lekt3103.webp)
 图：⟪प्रज्ञापारमिता⟫
-Aus einem Prajñāpāramitā-Manuskript.
+来自《般若波罗蜜多经》写本。
 (图片来源：[详情](/zh-CN/licenses#lekt3103))
 ::::
 :::

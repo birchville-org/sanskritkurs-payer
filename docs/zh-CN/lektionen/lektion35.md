@@ -172,7 +172,7 @@ status: stable
 *   以送气音开头的
 *   以 h 开头的
 
-sofern sie nicht zur Perfekt-Klasse Va gehören.
+只要它们不属于完成式第 Va 类。
 :::
 示例：
 

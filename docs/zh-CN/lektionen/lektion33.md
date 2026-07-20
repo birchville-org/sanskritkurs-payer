@@ -117,7 +117,7 @@ status: stable
 * 一方面，它是元音交替系列之一，带有 -a-
 * 另一方面，它是 ā 组元音交替系列中的高阶元音
 
-Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
+ā 组的两个最重要的元音交替系列是：
 
 ::: grammar-box
 **A.**

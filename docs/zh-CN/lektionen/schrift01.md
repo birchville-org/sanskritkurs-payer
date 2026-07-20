@@ -8,7 +8,7 @@
 图：梵语书法样本  
 \[图片来源：维基百科，GNU FD LIzenz\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+最重要的现代北印度梵文手写体是天城体（Devanāgarī）：
 
 ![](/images/schrift002.webp)
 

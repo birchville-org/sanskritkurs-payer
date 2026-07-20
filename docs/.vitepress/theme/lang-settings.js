@@ -5,9 +5,8 @@
  * Persists to localStorage and syncs with Service Worker.
  */
 
+import { ACTIVE_LOCALES as ALL_LOCALES, DEFAULT_LOCALES } from '../languages.mjs'
 const STORAGE_KEY = 'payer_active_locales'
-const ALL_LOCALES = ['de', 'en', 'it', 'bg', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'arc']
-const DEFAULT_LOCALES = ['de', 'en', 'fr', 'it', 'rm', 'hi', 'he', 'zh-CN']
 
 /**
  * Get currently active locales from localStorage (or defaults if not set)

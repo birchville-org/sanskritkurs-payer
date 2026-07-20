@@ -13,10 +13,7 @@ import { join, relative } from 'node:path'
 
 const DIST_DIR = new URL('../docs/.vitepress/dist/', import.meta.url).pathname
 
-const LOCALES = [
-  'de', 'en', 'it', 'bg', 'ru', 'uk', 'hi', 'fr',
-  'es', 'ta', 'pa', 'la', 'rm', 'ro', 'id', 'zh-CN', 'th', 'he', 'ar', 'arc', 'el'
-]
+import { ACTIVE_LOCALES as LOCALES } from '../docs/.vitepress/languages.mjs'
 
 /**
  * Recursively collect all .html files under dirPath.

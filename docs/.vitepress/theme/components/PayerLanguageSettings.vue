@@ -168,35 +168,7 @@ const installProgressDetail = ref('Initialisiere…')
 const installOverlayLocale = ref('')
 let unsubscribeInstall = null
 
-const LOCALE_NAMES = {
-  de: 'Deutsch',
-  bg: 'Български',
-  en: 'English',
-  it: 'Italiano',
-  ru: 'Русский',
-  uk: 'Українська',
-  hi: 'हिन्दी',
-  fr: 'Français',
-  es: 'Español',
-  ta: 'தமிழ்',
-  pa: 'ਪੰਜਾਬੀ',
-  la: 'Latine',
-  rm: 'Rumantsch',
-  ro: 'Română',
-  id: 'Bahasa Indonesia',
-  'zh-CN': '简体中文',
-  'zh-TW': '繁體中文',
-  th: 'ไทย',
-  he: 'עברית',
-  ar: 'العربية',
-  arc: 'ܐܪܡܝܐ',
-  zh: '文言',
-  grc: 'Ἑλληνική (Αρχαία)',
-  fa: 'فارسی',
-  akk: 'Akkadū',
-  cop: 'ⲙⲉⲧⲣⲉⲙⲛⲭⲏⲙⲓ (Coptic)',
-  el: 'Ελληνικά (Modern)'
-}
+import { LOCALE_NAMES } from '../../languages.mjs'
 
 // Localized UI strings for all 14 languages. Settings page always renders in the
 // currently selected locale — never bilingual.
