@@ -13,28 +13,28 @@ export const id = {
     darkModeSwitchTitle: 'Beralih ke tema gelap',
     langMenuLabel: 'Ubah bahasa',
     nav: [
-      { text: 'Beranda', link: '/en/' },
-      { text: 'Daftar Isi', link: '/en/lektionen/inhaltsverzeichnis' },
+      { text: 'Beranda', link: '/id/' },
+      { text: 'Daftar Isi', link: '/id/lektionen/inhaltsverzeichnis' },
       { text: 'QA', link: '/qa_viewer.html', target: '_blank' },
-      { text: 'Kredit', link: '/en/impressum' },
-      { text: '<span class="nav-gear-icon"></span>', link: '/en/settings', ariaLabel: 'Buka Pengaturan' }
+      { text: 'Kredit', link: '/id/impressum' },
+      { text: '<span class="nav-gear-icon"></span>', link: '/id/settings', ariaLabel: 'Buka Pengaturan' }
     ],
     docFooter: {
       prev: 'Pelajaran Sebelumnya',
       next: 'Pelajaran Selanjutnya'
     },
     sidebar: [
-      { text: 'Daftar Isi', link: '/en/lektionen/inhaltsverzeichnis' },
-      { text: 'Topik Tata Bahasa', link: '/en/grammatik' },
-            { text: 'Indeks Tata Bahasa', link: '/en/themen' },
-      { text: 'Kosakata', link: '/en/lektionen/wortliste' },
-      { text: 'Glosarium', link: '/en/lektionen/glossar' },
+      { text: 'Daftar Isi', link: '/id/lektionen/inhaltsverzeichnis' },
+      { text: 'Topik Tata Bahasa', link: '/id/grammatik' },
+            { text: 'Indeks Tata Bahasa', link: '/id/themen' },
+      { text: 'Kosakata', link: '/id/lektionen/wortliste' },
+      { text: 'Glosarium', link: '/id/lektionen/glossar' },
       { text: 'Pelajaran', collapsed: false, items: [] },
       { text: 'Naskah (Pendahuluan)', collapsed: true, items: [] },
       { text: 'Latihan', collapsed: true, items: [] },
       { text: 'Hukum', collapsed: true, items: [
-          { text: 'Pemberitahuan Hukum & Kutipan', link: '/en/impressum' },
-          { text: 'Lisensi Gambar', link: '/en/licenses' },
+          { text: 'Pemberitahuan Hukum & Kutipan', link: '/id/impressum' },
+          { text: 'Lisensi Gambar', link: '/id/licenses' },
       ]}
     ],
     footer: {
