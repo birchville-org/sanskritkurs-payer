@@ -12,6 +12,7 @@ import PayerRelatedLessons from './components/PayerRelatedLessons.vue'
 import PayerWideToggle from './components/PayerWideToggle.vue'
 import PayerLanguageSettings from './components/PayerLanguageSettings.vue'
 import PayerOfflineIndicator from './components/PayerOfflineIndicator.vue'
+import PayerNotFound from './components/PayerNotFound.vue'
 import './custom.css'
 
 import { ACTIVE_LOCALES as LANGUAGES } from '../languages.mjs'
@@ -155,6 +156,7 @@ export default {
     'doc-footer-before': () => h(PayerDocFooter),
     'nav-bar-content-after': () => h(PayerWideToggle)
   }),
+  NotFound: PayerNotFound,
   setup() {
     const route = useRoute();
 

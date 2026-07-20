@@ -15,9 +15,9 @@ export function registerServiceWorker() {
   
   // Skip only on Vite dev server (HMR active).
   // Vite's default dev port is 5173; accept any other port (incl. 4173 for preview).
-  const isDevServer = (hostname === 'localhost' || hostname === '127.0.0.1') && port === '5173'
+  const isDevServer = (hostname === 'localhost' || hostname === '127.0.0.1') && port.startsWith('517')
   if (isDevServer) {
-    console.log('[SW] Skipping registration in Vite dev mode (port 5173, HMR active)')
+    console.log('[SW] Skipping registration in Vite dev mode (port ' + port + ', HMR active)')
     return
   }
   
