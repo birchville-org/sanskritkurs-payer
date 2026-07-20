@@ -40,7 +40,6 @@ LANGS = {
     "nl": "Nederlands",
     "grc": "Ἀρχαία",
     "am": "አማርኛ",
-    "gez": "ግዕዝ",
     "af": "Afrikaans",
     "lt": "Lietuvių",
     "sh": "Srpskohrvatski",
@@ -249,9 +248,7 @@ def main():
         ("lt", "Lietuvių"),
         ("sh", "Srpskohrvatski"),
         ("sq", "Shqip"),
-        ("akk", "Akkadian"),
-        ("am", "Amharic"),
-        ("gez", "Ge'ez")
+        ("am", "Amharic")
     ]
     
     active_codes = [act["lang"] for act in activities]

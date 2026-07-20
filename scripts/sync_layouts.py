@@ -370,11 +370,13 @@ def extract_sanskrit_anchors(text):
     return set(deva + iast)
 
 def block_similarity(b1, b2):
-    if b1['type'] != b2['type']:
-        return 0.0
+    t1, t2 = b1['type'], b2['type']
+    if t1 != t2:
+        if not ((t1 == 'paragraph' and t2 == 'list_item') or (t1 == 'list_item' and t2 == 'paragraph')):
+            return 0.0
         
-    c1 = b1['content'].strip()
-    c2 = b2['content'].strip()
+    c1 = re.sub(r'\s*<!-- TODO: Fallback translation -->', '', b1['content'].strip())
+    c2 = re.sub(r'\s*<!-- TODO: Fallback translation -->', '', b2['content'].strip())
     
     # 1. Hallucination filter for target block
     hallucinations = {'center', 'media', 'note-box', 'notebox', 'laut-table', 'lauttable', 'deleteme-box', 'grammar-box'}

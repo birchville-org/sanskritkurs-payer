@@ -165,6 +165,15 @@ LANG_CONFIG = {
         "col_meaning": "Română", "col_lektion": "Lecție",
         "link_prefix": "/ro/lektionen/lektion",
     },
+    "fi": {
+        "dir": "docs/fi/lektionen",
+        "glossar_path": "docs/fi/lektionen/glossar.md",
+        "title": "Sanasto Sanskrit–Suomi",
+        "subtitle": "Koottu Alois Payerin sanskritin kurssin sanalistoista.",
+        "col_sanskrit": "Sanskrit", "col_iast": "IAST", "col_genus": "Suku",
+        "col_meaning": "Suomi", "col_lektion": "Oppitunti",
+        "link_prefix": "/fi/lektionen/lektion",
+    },
 }
 
 DEV = r'[ऀ-ॿ]'

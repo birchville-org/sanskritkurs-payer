@@ -1,9 +1,9 @@
 #!/bin/bash
 
 # Script to translate multiple languages sequentially with robust retries and fallback
-# Order: fi, hu, th, el, cop, grc, fa, nl, af, lt, sh, sq, akk, am, gez
+# Order: fi, hu, th, el, cop, grc, fa, nl, af, lt, sh, sq, am
 
-LANGUAGES=("fi" "hu" "th" "el" "cop" "grc" "fa" "nl" "af" "lt" "sh" "sq" "akk" "am" "gez")
+LANGUAGES=("fi" "hu" "th" "el" "cop" "grc" "fa" "nl" "af" "lt" "sh" "sq" "am")
 MAX_ATTEMPTS=3
 RETRY_DELAY=30
 
