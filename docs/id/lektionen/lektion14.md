@@ -1,177 +1,180 @@
 ---
-title: Pelajaran 14
-subtitle: "Menyatakan hubungan yang ditunjuk oleh kata benda: genitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = akhiran kasus keenam)"
+title: "# Pelajaran 14"
+subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
-category: "Tata Bahasa"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
-# Lesson 14
 
-## 14.1. Ungkapan Hubungan yang Ditunjuk oleh Kata Benda: Genitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = akhiran kasus keenam)
+
+# Pelajaran 14
+
+## 14.1. Ungkapan Hubungan yang Dinyatakan oleh Kata Benda: Genitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = akhiran kasus keenam)
 
 ::: grammar-box
-Jika hubungan yang dinyatakan oleh dua kata benda hendak ditunjuk, maka genitif (ṣaṣṭhī f. "akhiran kasus keenam") digunakan. Genitif berbeda dari semua kasus lainnya karena ia — dengan sedikit pengecualian — tidak berfungsi untuk penentuan lebih dekat atas tindakan yang dinyatakan oleh kata kerja, melainkan untuk ungkapan hubungan antara orang-orang atau hal-hal yang ditunjuk oleh kata benda. Seringkali genitif muncul sebagai jawaban atas pertanyaan: Milik siapa?
+Jika hubungan yang dinyatakan oleh dua kata benda ingin ditunjukkan, maka digunakan Genitif (ṣaṣṭhī f. "akhiran kasus keenam"). Genitif berbeda dari semua kasus lainnya karena ia — dengan beberapa pengecualian kecil — tidak berfungsi untuk menentukan lebih lanjut tindakan yang dinyatakan oleh kata kerja, melainkan untuk mengekspresikan hubungan antara orang atau benda yang dinyatakan oleh kata benda. Genitif sering kali menjawab pertanyaan: Milik siapa?
 :::
-Contoh-contoh:
+Contoh:
 
-⟪कवेः⟫ ⟪पुत्रः⟫ "The poet's son"
+⟪कवेः⟫ ⟪पुत्रः⟫ "Anak penyair"
 
-⟪धनस्य⟫ ⟪लोभः⟫ "Greed for wealth"
+⟪धनस्य⟫ ⟪लोभः⟫ "Kerak akan kekayaan"
 
-⟪नगरस्यार्धम्⟫ "Setengah dari kota"
+⟪नगरस्यार्धम्⟫ "Setengah kota"
 
-⟪रामस्य⟫ ⟪कृतम्⟫ "The / One deed of Rāma"
+⟪रामस्य⟫ ⟪कृतम्⟫ "Tindakan / Sebuah tindakan Rāma"
 
 ::: grammar-box
-The normal word order is:
+Urutan kata normal adalah:
 
-> **Determining word in the genitive — Further specified noun in another case**
+> **Kata penentu dalam Genitif — Kata benda yang ditentukan lebih lanjut dalam kasus lain**
 :::
-**Genitive and PPP:**
+**Genitif dan PPP:**
 
 ::: grammar-box
-Dengan PPP, genitif dapat berdiri sebagai pengganti instrumental (tṛtīyā) untuk agen (kartṛ); Dalam konstruksi dengan instrumental, PPP dianggap sebagai bentuk verbal pasif (yang berdiri dalam instrumental menunjuk pada agen), dalam konstruksi dengan genitif, PPP dianggap sebagai kata benda atau kata sifat (yang berdiri dalam genitif sehingga sebenarnya bukan agen).
+Pada PPP, Genitif dapat menggantikan Instrumentalis (tṛtīyā) untuk Agens (kartṛ); Dalam konstruksi dengan Instrumentalis, PPP dianggap sebagai bentuk verba pasif (yang ada dalam Instrumentalis menyatakan Agens), sedangkan dalam konstruksi dengan Genitif, PPP dianggap sebagai kata benda atau adjektiva (yang ada dalam Genitif oleh karena itu bukan sebenarnya sebagai Agens).
 
-Menurut Pāṇini 2.3.67, dengan PPP genitif berdiri jika PPP memiliki makna sekarang (lihat di atas), instrumental jika PPP memiliki makna masa lalu:
+Menurut Pāṇini 2.3.67, pada PPP Genitif digunakan jika PPP memiliki makna present (lihat di atas), dan Instrumentalis digunakan jika PPP memiliki makna lampau:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Buah yang diinginkan oleh Rāma = Buah yang saat ini diinginkan oleh Rāma"
+> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Buah yang diinginkan Rāma = Buah yang saat ini diinginkan oleh Rāma"
 > 
 > ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Buah yang telah diinginkan oleh Rāma"
 
-Secara alami, dengan PPP neuter singular, yang digunakan sebagai abstrak verbal -- yaitu sebagai kata benda -- genitif berdiri.
+Tentu saja, pada PPP Neutrum Singular yang digunakan sebagai abstrak verbal — yaitu sebagai kata benda — Genitif digunakan.
 :::
 ## 14.2. Pembentukan Bentuk Genitif (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
-Bentuk genitif dibentuk untuk akar verbal dengan gradasi akar dari akar lemah.
+Genitif pada akar verba dengan ablasi akar dibentuk dari bentuk lemah.
 
-**Genitive of consonant-ending stems:**
+**Genitif pada akar yang berakhiran konsonan:**
 
 ::: grammar-box
 
-After a consonant, the regular genitive endings are:
+Setelah konsonan, akhiran Genitif yang teratur adalah:
 * Singular: **-as**
 * Plural: **-ām**
 
 :::
 ::: center
 
-| Nominal Stem | Weak Stem | Genitive Singular | Genitive Plural |
+| Akar Nomina | Bentuk Lemah | Genitif Singular | Genitif Plural |
 | :--- | :--- | :--- | :--- |
-| **guṇa-vant-**:br**⟪गुणवन्त्⟫** | **guṇa-vat-**:br**⟪गुणवत्⟫** | **guṇa-vat-as**:br**⟪गुणवतस्⟫** | **guṇa-vat-ām**:br**⟪गुणवताम्⟫** |
-| **paśu-mant-**:br**⟪पशुमन्त्⟫** | **paśu-mat-**:br**⟪पशुमत्⟫** | **paśu-mat-as**:br**⟪पशुमतस्⟫** | **paśu-mat-ām**:br**⟪पशुमताम्⟫** |
+| **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
+| **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
-**Kasustafel untuk kata benda berakhiran vokal, kecuali untuk kata kerja akar monosilabel dan kata benda berakhiran diftong:**
+**Genitif pada akar yang berakhiran vokal, kecuali nomina akar satu suku kata dan akar yang berakhiran diftong:**
 
 **Plural:**
 
 ::: grammar-box
 
-Bentuk genitif jamak dari kata benda berakhiran vokal dibentuk sebagai berikut:
+Genitif Plural akar yang berakhiran vokal dibentuk sebagai berikut:
 
-> **-long vowel of the stem + -nām**
+> **-vokal akhir akar yang panjang + -nām**
 
 :::
 ::: center
 
-| Nominal Stem | Genitive Plural |
+| Akar Nomina | Genitif Plural |
 | :--- | :--- |
-| **deva** m.:br**⟪देव⟫** | **devā-nām**:br**⟪देवानाम्⟫** |
-| **phala** n.:br**⟪फल⟫** | **phalā-nām**:br**⟪फलानाम्⟫** |
-| **devatā** f.:br**⟪देवता⟫** | **devatā-nām**:br**⟪देवतानाम्⟫** |
-| **kavi** m.:br**⟪कवि⟫** | **kavī-nām**:br**⟪कवीनाम्⟫** |
-| **śruti** f.:br**⟪श्रुति⟫** | **śrutī-nām**:br**⟪श्रुतीनाम्⟫** |
-| **devī** f.:br**⟪देवी⟫** | **devī-nām**:br**⟪देवीनाम्⟫** |
-| **paśu** m.:br**⟪पशु⟫** | **paśū-nām**:br**⟪पशूनाम्⟫** |
-| **dhenu** f.:br**⟪धेनु⟫** | **dhenū-nām**:br**⟪धेनूनाम्⟫** |
+| **deva** m.:br ⟪देव⟫ | **devā-nām** :br ⟪देवानाम्⟫ |
+| **phala** n.:br ⟪फल⟫ | **phalā-nām** :br ⟪फलानाम्⟫ |
+| **devatā** f.:br ⟪देवता⟫ | **devatā-nām** :br ⟪देवतानाम्⟫ |
+
+| **kavi** m.:br ⟪कवि⟫ | **kavī-nām** :br ⟪कवीनाम्⟫ |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutī-nām** :br ⟪श्रुतीनाम्⟫ |
+| **devī** f.:br ⟪देवी⟫ | **devī-nām** :br ⟪देवीनाम्⟫ |
+| **paśu** m.:br ⟪पशु⟫ | **paśū-nām** :br ⟪पशूनाम्⟫ |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genitive Singular of vowel-ending stems:**
+**Genetif Tunggal batang vokal berakhiran:**
 
 ::: grammar-box
 
-Bentuk genitif tunggal dari stem berakhiran vokal dibentuk secara tidak teratur dan harus dihafal dengan baik.
+Genetif tunggal batang vokal berakhiran dibentuk secara tidak teratur dan baik untuk dihafal.
 
 :::
 ::: center
 
-| Stem | Genitive Singular |
+| Batang | Genetif Tunggal |
 | :--- | :--- |
-| **deva** m.:br**⟪देव⟫** | **devasya**:br**⟪देवस्य⟫** |
-| **phala** n.:br**⟪फल⟫** | **phalasya**:br**⟪फलस्य⟫** |
-| **devatā** f.:br**⟪देवता⟫** | **devatāyās**:br**⟪देवतायास्⟫** |
-| **kavi** m.:br**⟪कवि⟫** | **kaves**:br**⟪कवेस्⟫** |
-| **paśu** m.:br**⟪पशु⟫** | **paśos**:br**⟪पशोस्⟫** |
-| **devī** f.:br**⟪देवी⟫** | **devyās**:br**⟪देव्यास्⟫** |
-| **śruti** f.:br**⟪श्रुति⟫** | **śrutes / śrutyās**:br**⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫**:br(i.e. either like kavi or like devī) |
-| **dhenu** f.:br**⟪धेनु⟫** | **dhenos / dhenvās**:br**⟪धेनोस्⟫ / ⟪धेन्वास्⟫**:br(i.e. either like paśu or like polysyllabic feminines ending in -ū) |
+| **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
+| **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
+| **devatā** f.:br ⟪देवता⟫ | **devatāyās** :br ⟪देवतायास्⟫ |
+| **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
+| **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
+| **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(yaitu baik seperti kavi atau seperti devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(yaitu baik seperti paśu atau seperti feminin bersuku kata banyak berakhiran -ū) |
 
 :::
-**Interrogative and Demonstrative Pronouns:**
+**Kata ganti tanya dan kata ganti penunjuk:**
 
 ::: center
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Masculine / Neuter** | **Genitive Singular** | kasya:br**⟪कस्य⟫** | tasya:br**⟪तस्य⟫** | etasya:br**⟪एतस्य⟫** | asya:br**⟪अस्य⟫** |
-| | **Genitive Plural** | keṣām:br**⟪केषाम्⟫** | teṣām:br**⟪तेषाम्⟫** | eteṣām:br**⟪एतेषाम्⟫** | eṣām:br**⟪एषाम्⟫** |
-| **Feminine** | **Genitive Singular** | kasyās:br**⟪कस्यास्⟫** | tasyās:br**⟪तस्यास्⟫** | etasyās:br**⟪एतस्यास्⟫** | asyās:br**⟪अस्यास्⟫** |
-
-| | **Genitive Plural** | kāsām:br**⟪कासाम्⟫** | tāsām:br**⟪तासाम्⟫** | etāsām:br**⟪एतासाम्⟫** | āsām:br**⟪आसाम्⟫** |
+| **Maskulinum / Neutrum** | **Genetif Tunggal** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **Genetif Jamak** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **Femininum** | **Genetif Tunggal** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **Genetif Jamak** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
-**Formal Identity:**
+**Kesamaan bentuk:**
 
 ::: important
 
-Untuk semua batang nomina kecuali maskulin dan netra yang berakhiran -a, serta kecuali untuk kata ganti, bentuk Genitif Tunggal identik dengan Ablatif (pañcamī "akhiran kasus kelima") Tunggal!
+Pada semua batang nominal kecuali maskulinum dan neutrum berakhiran -a serta kata ganti, bentuk Genetif Tunggal identik dengan bentuk Ablatif (pañcamī "akhiran kasus kelima") Tunggal!
 
-Perhatikan bahwa untuk batang yang berakhiran konsonan, Ablatif dan Genitif Tunggal terdengar sama dengan Akusatif Jamak Maskulin dan Feminin!
+Perhatikan bahwa pada batang berakhiran konsonan, Ablatif dan Genetif Tunggal terdengar sama dengan Akusatif Jamak Maskulinum dan Femininum!
 
 :::
-## 14.3. Lebih Lanjut tentang Penggunaan Genitif (⟪षष्ठी⟫)
+## 14.3. Lebih lanjut tentang penggunaan Genetif (⟪षष्ठी⟫)
 
 ::: grammar-box
-Bertentangan dengan aturan dasar di atas, genitif digunakan untuk menyatakan objek dari kata kerja tertentu, misalnya kata kerja mengingat:
+Bertentangan dengan aturan dasar di atas, Genetif digunakan untuk menyatakan objek beberapa kata kerja, misalnya pada kata kerja mengingat:
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "He remembers the gods"
+> ⟪देवानां⟫ ⟪स्मरति⟫ "Ia mengingat para dewata"
 
-Dengan semua kata kerja ini, objek juga dapat berada dalam kasus akusatif:
+Pada semua kata kerja ini, objek juga dapat berada dalam Akusatif:
 
-> ⟪देवान्स्मरति⟫ "He remembers the gods"
+> ⟪देवान्स्मरति⟫ "Ia mengingat para dewata"
 
-More on this later.
+Lebih lanjut nanti.
 :::
-## 14.4. Word List
+## 14.4. Daftar kata
 
-* **śīla n.** (⟪शील⟫) : (good) character, morality
-* **bhūṣ-aṇa n** (⟪भूषण⟫) : jewelry
-* **dīpa m.** (⟪दीप⟫) : lamp
+* **śīla n.** (⟪शील⟫) : karakter (baik), kesopanan
+* **bhūṣ-aṇa n** (⟪भूषण⟫) : perhiasan
+* **dīpa m.** (⟪दीप⟫) : lampu
 
 ::: media
 ![](/images/lekt1405.webp)
-Fig.: ⟪दीपाः⟫
-(Sumber gambar: [Details](/en/licenses#lekt1405))
+Gambar: ⟪दीपाः⟫
+(Sumber gambar: [Details](/id/licenses#lekt1405))
 :::
-* **bala n.** (⟪बल⟫) : kekerasan, kekuatan; pasukan militer, tentara
-* **bāla 3** (⟪बाल⟫) : muda, kekanak-kanakan, bodoh; m. anak laki-laki
+* **bala n.** (⟪बल⟫) : kekerasan, kekuatan; pasukan militer
+* **bāla 3** (⟪बाल⟫) : muda, kekanak-kanakan; m. anak laki-laki
 * **bālā f.** (⟪बाला⟫) : gadis muda
 * **nara m.** (⟪नर⟫) : pria, manusia
 * **śatru m.** (⟪शत्रु⟫) : musuh
-* **loka m.** (⟪लोक⟫) : dunia; Tunggal dan Jamak: rakyat, manusia, penduduk
+* **loka m.** (⟪लोक⟫) : dunia; Tung. dan Jam.: orang-orang, manusia, rakyat
 * **jala n.** (⟪जल⟫) : air
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : lahir, muncul, tampak
-* **jan-a m.** (⟪जन⟫) : makhluk, manusia, rakyat
-* **vac 2 P** (vakti, tidak ada bentuk jamak ke-3!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : berkata, berbicara kepada (akusatif)
+* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : lahir, muncul
+* **jan-a m.** (⟪जन⟫) : ciptaan, manusia
+* **vac 2 P** (vakti, tidak ada bentuk jamak ke-3!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : mengatakan, berbicara kepada (dvitīyā)
 * **uk-ti f.** (⟪उक्ति⟫) : ucapan, kata
 * **vac-ana n.** (⟪वचन⟫) : berbicara, kata
 * **vāk-ya n.** (⟪वाक्य⟫) : kata, pidato
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Proverbs
 
-Translate the following proverbs and memorize them:
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Peribahasa
+
+Terjemahkan peribahasa berikut dan hafalkan:
 
 **⟪नीचो⟫ ⟪वद⟫ati ⟪न⟫ ⟪कुरुते⟫** **⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥१॥⟫**
 
@@ -183,9 +186,9 @@ Translate the following proverbs and memorize them:
 
 **⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫**
 
-## 14.6. Exercise
+## 14.6. Latihan
 
-**A) Bentuklah Kasus Genitif Tunggal dan Jamak untuk kata-kata berikut. Berikan makna dan jenis kelamin kata tersebut:**
+**A) Bentuklah Genitiv Singular dan Plural untuk kata-kata berikut. Berikan makna dan jenis kelamin (gender) kata-kata tersebut:**
 
 ⟪१⟫. ⟪अनृत⟫
 
@@ -239,8 +242,8 @@ Translate the following proverbs and memorize them:
 
 ::: media
 ![](/images/lekt1404.webp)
-Fig.: ⟪पुत्रवती⟫
-(Image source: [Details](/en/licenses#lekt1404))
+Gambar: ⟪पुत्रवती⟫
+(Sumber gambar: [Detail](/id/licenses#lekt1404))
 :::
 ⟪२६⟫. ⟪जल⟫
 
@@ -290,7 +293,7 @@ Fig.: ⟪पुत्रवती⟫
 
 ⟪४९⟫. ⟪गूढा⟫
 
-⟪५०⟫. ⟪ईष्टा⟫ (2 meanings)
+⟪५०⟫. ⟪ईष्टा⟫ (2 makna)
 
 ⟪५१⟫. ⟪उदित⟫
 
@@ -300,12 +303,12 @@ Fig.: ⟪पुत्रवती⟫
 
 ::: media
 ![](/images/lekt1403.webp)
-Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
-(Image source: [Details](/en/licenses#lekt1403))
+Gambar: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
+(Sumber gambar: [Detail](/id/licenses#lekt1403))
 :::
-**B) Translate:**
+**B) Terjemahkan:**
 
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 possibilities)
+⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 kemungkinan)
 
 ⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
 
@@ -333,6 +336,6 @@ Fig.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 
 ::: media
 ![](/images/lekt1402.webp)
-Fig.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-(Image source: [Details](/en/licenses#lekt1402))
+Gambar: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
+(Sumber gambar: [Detail](/id/licenses#lekt1402))
 :::

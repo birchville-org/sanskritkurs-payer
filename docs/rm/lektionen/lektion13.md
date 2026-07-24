@@ -62,13 +62,13 @@ Esempel:
 ⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "In sanctus videt fructum desideratum (operum suorum)."
 :::
 
-## 13.4. Furmaiziun d'agiets sin -mant e -vant (taddhita)
+## 13.4. Furmaziun d'agiets sin -mant e -vant (taddhita)
 
 ::: grammar-box
 
 Mediant las suffixes taddhita -mant resp. -vant vegnan adjetivs possessivs da nomens formads. Lur significaziun è: "quai che vegn designà tras il num da basegna possedend".
 
--vant tritt an Nomina, deren letzter oder vorletzter Laut ein a, ā oder m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
+-vant tritt an Nomina, deren letzter ni vorletzter Laut ein a, ā ni m ist, sowie an Nomina, die auf einen Verschlusslaut auslauten; an andere Nomina tritt meistens -mant.
 
 Ezempels:
 
@@ -137,7 +137,7 @@ En cun stins che finescon cun consonant:
 * Stamm fort: Nomen + -mant- / -vant-
 * Stamm debol: Nomen + -mat- / -vat- (da: *-mnt- / *-vnt-)
 
-| | | Maskulinum || Neutrum ||
+| | | Masculin || Neutrum ||
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | Singular:br⟪एकवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
 | | Akkusativ:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
@@ -146,7 +146,7 @@ En cun stins che finescon cun consonant:
 | | Akkusativ:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
 | | Instrumentalis:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 
-Femininum:
+Feminin:
 
 La radisch feminina dals radischs cun -mant- e -vant- finischa cun -mat-ī resp. -vat-ī. La declinaziun va sco tar devī, quai vul dir: n’exista nagina variaziun dal radisch.
 
@@ -164,7 +164,7 @@ Imparar las suentas suventas:
 
 > **ASURA.** «Spiritual, divin.»
 >**ASURA.** «Spiritual, divin.»
-> En las partes más antiguas del Ṛgveda este término se utiliza para el espíritu supremo, y es lo mismo que el Ahura de los zoroastrianos. En el sentido de 'dios' se aplicó a varios de los dioses principales, como Indra, Agni y Varuṇa. Posteriormente adquirió un significado completamente opuesto, y pasó a significar, como ahora, un demonio o enemigo de los dioses.
+> En las partes más antiguas del Ṛgveda este término se utiliza para el espíritu supremo, y es lo mismo que el Ahura de los zoroastrianos. En el sentido de 'dios' se aplicó a varios de los dioses principales, como Indra, Agni y Varuṇa. Posteriormente adquirió un significado cumpletamain opuesto, y pasó a significar, como ahora, un demonio o enemigo de los dioses.
 >Según el Viṣṇu Purāṇa, fueron producidos del vientre de Brahma (prajāpati). El relato del Vāyu Purāṇa es: "Los Asuras fueron producidos primero como hijos de su (Prajāpati's) vientre. *Asu* es declarado por Brāhmaṇa para significar aliento. De él fueron producidos estos seres; de ahí que sean Asuras." La palabra ha sido utilizada durante mucho tiempo como un nombre general para los enemigos de los dioses, incluyendo los Daityas y Danavas y otros descendientes de Kaśyapa, pero no incluyendo los Rakṣasas descendientes de Pulastya.
 > Según el Viṣṇu Purāṇa, fueron producidos del vientre de Brahma (prajāpati). El relato del Vāyu Purāṇa es: "Los Asuras fueron producidos primero como hijos de su (Prajāpati's) vientre. *Asu* es declarado por Brāhmaṇa para significar aliento. De él fueron producidos estos seres; de ahí que sean Asuras." La palabra ha sido utilizada durante mucho tiempo como un nombre general para los enemigos de los dioses, incluyendo los Daityas y Danavas y otros descendientes de Kaśyapa, pero no incluyendo los Rakṣasas descendientes de Pulastya.
 >En este sentido se ha encontrado una derivación diferente para ello: la fuente ya no es asu, 'aliento', sino que la inicial *a* se toma como el prefijo negativo, y *asura* significa 'no un dios;' de ahí, según algunos, surgió la palabra *sura,* comúnmente utilizada para 'un dios.'"
@@ -262,7 +262,7 @@ B) Tradusci e trasforma in frasi passive al passato:
 
 ## 13.11. Wiederholungsübung
 
-A) Traducir las siguientes frases:
+A) Traducir las siguientes frasas:
 
 ⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
 ⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫

@@ -1,44 +1,46 @@
 ---
-title: Lesson 16
-subtitle: "On the sandhi of final consonants"
+title: "# Pelajaran 16"
+subtitle: "Zum Sandhi auslautender Konsonanten"
 lesson_id: 16
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 16
 
-## 16.1. On the Sandhi of Final Consonants
 
-Untuk pembentukan majemuk yang anggota pertamanya berakhiran pada stem konsonantal, aturan-aturan berikut diperlukan:
+# Pelajaran 16
 
-Final guttural, retroflex, dental, and labial stops (i.e., not nasals and not palatals).
+## 16.1. Tentang Sandhi Konsonan Akhir Kata
 
-::: no-header
+Untuk membentuk komposita, yang mana komponen depannya adalah akar kata yang berakhir dengan konsonan, diperlukan aturan-aturan berikut:
 
-| | |
-| :--- | :--- |
-| **dalam jeda dan sebelum bunyi tak bersuara** | **Penggantian dengan bunyi tak bersuara tanpa aspirasi yang sesuai:** :br **misalnya** :br [[indent]] -g + p- » -kp- :br [[indent]] -d + ph- » -tph- :br [[indent]] -dh + p- » -tp- |
-| **sebelum bunyi non-hidung bersuara** | **Penggantian dengan bunyi tanpa aspirasi yang sesuai:** :br **misalnya** :br [[indent]] -t + g- » -dg- :br [[indent]] -k + b- » -gb- :br [[indent]] -dh + d- » -dd- :br [[indent]] -k + a- » -ga- |
-| **sebelum bunyi hidung** | **Penggantian dengan bunyi hidung yang sesuai:** :br **misalnya** :br [[indent]] -t + n- » -nn- :br [[indent]] -p + n- » -mn- |
-
-:::
-Exception to the above rule:
-
-Final dental stop (not nasal):
+Konsonan hambat (plosif) akhir yang berupa gutural, retrofleks, dental, dan labial (yaitu bukan nasal dan bukan palatal).
 
 ::: no-header
 
-| | |
+|   |   |
 | :--- | :--- |
-| **before palatals** | **Replacement by the relevant unaspirated palatal:** :br **i.e.** :br [[indent]] -t + c- » -cc- :br [[indent]] -d + c- » -cc- :br [[indent]] -th + c- » -cc- :br [[indent]] -dh + c- » -cc- :br [[indent]] -t/-th/-d/-dh + ch- » -cch- :br [[indent]] -t/-th/-d/-dh + j- » -jj- :br [[indent]] -t/-th/-d/-dh + jh- » -jjh- |
-| **+ ś** | **» -cś- or -cch-** |
-| **before retroflexes** | **Replacement by the relevant unaspirated retroflex:** :br **i.e.** :br [[indent]] -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br [[indent]] -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
-| **before l-** | **Replacement by -l:** :br **i.e.** :br [[indent]] -t/-th/-d/-dh + l- » -ll- |
+| **dalam jeda dan sebelum bunyi bersuara** | **Penggantian dengan bunyi plosif tak bersuara yang sesuai:** :br **misalnya** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **sebelum bunyi bersuara non-nasal** | **Penggantian dengan bunyi plosif bersuara tak aspirasi yang sesuai:** :br **misalnya** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **sebelum nasal** | **Penggantian dengan bunyi nasal yang sesuai:** :br **misalnya** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
-Examples:
+Pengecualian dari aturan di atas:
+
+Konsonan hambat dental akhir (bukan nasal):
+
+::: no-header
+
+|   |   |
+| :--- | :--- |
+| **sebelum Palatal** | **Penggantian dengan konsonan palatal tak aspirasi yang bersangkutan:** :br **artinya** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
+**+ ś** | **» -cś- atau -cch-** |
+| **sebelum Retrofleks** | **Penggantian dengan konsonan retrofleks tak aspirasi yang bersangkutan:** :br **artinya** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
+| **sebelum l-** | **Penggantian dengan -l:** :br **artinya** :br :indent -t/-th/-d/-dh + l- » -ll- |
+
+:::
+Contoh:
 
 ⟪तद्⟫ + ⟪फल⟫ = ⟪तत्फल⟫
 
@@ -56,69 +58,70 @@ Examples:
 
 ⟪बलवत्⟫ + ⟪शत्रु⟫ = ⟪बलवच्छत्रु⟫
 
-## 16.2. Word List
+## 16.2. Daftar Kata
 
-⟪अध्यापन⟫ n.: Teaching, instruction
+⟪अध्यापन⟫ n.: Pengajaran, pelajaran
 
 ::: media
 ![](/images/lekt1602.webp)
-Fig.: ⟪अध्यापनम्⟫
-"This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the occasion of Mahāśivarātri. This is a Vedic school where children memorize the sacred texts known as the Vedas. The school teaches the Krishna Yajurveda and certain portions of the Samaveda. I am writing my master’s thesis on this school."
-(Image source: [Details](/en/licenses#lekt1602))
+Gambar: ⟪अध्यापनम्⟫
+"Ini adalah upacara khusus di sebuah kuil kecil di Satara (⟪सातारा⟩). Upacara ini dilakukan oleh para siswa Swami Muktananda Vedashala pada perayaan Mahāśivarātri. Ini adalah sekolah Veda, di mana anak-anak menghafal teks-teks suci yang disebut Veda. Sekolah ini mengajarkan Krishna Yajurveda dan beberapa bagian dari Samaveda. Saya sedang mengerjakan tesis master saya di sekolah ini."
+(Sumber gambar: [Details](/id/licenses#lekt1602))
 :::
-⟪अनसूया⟫ f.: Absence of grumbling, freedom from envy
+⟪अनसूया⟫ f.: Tidak bergumam, tidak iri
 
-⟪नृशंस्य⟫ n.: Cruelty, baseness
+⟪नृशंस्य⟫ n.: Kejahatan, kekejaman
 
-from this:
+dari itu:
 
 ::: indent
-⟪अनृशंस्य⟫ n.: Absence of cruelty
+⟪अनृशंस्य⟫ n.: Tidak jahat
 :::
-⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : to live
+⟪जीव्⟫ 1 P ⟪जीवति⟫ ; Pass. ⟪जीव्यते⟫ ; PPP ⟪जीवित⟫ : hidup
 
-from this:
+dari itu:
 
 ::: indent
-⟪आजीव⟫ m.: livelihood
+⟪आजीव⟫ m.: Penghidupan
 :::
-⟪क्षमा⟫ f.: Patience, forbearance, tolerance
+⟪क्षमा⟫ f.: Kesabaran, keteguhan hati, kesabaran
 
-⟪क्षेम⟫ n.: Rest, peace, well-being, secure possession
+⟪क्षेम⟫ n.: Ketenangan, kedamaian, kesejahteraan, kepemilikan yang aman
 
-⟪चित्त⟫ n.: Consciousness, thought, mind
+⟪चित्त⟫ n.: Kesadaran, pemikiran, pikiran
 
-⟪निरोध⟫ m.: Stopping, bringing to a standstill
+⟪निरोध⟫ m.: Menghentikan, membuat berhenti
 
-* **bhūta n.** (⟪भूत⟫) (PPP from bhū): being, spirit, ghost
+* **bhūta n.** (⟪भूत⟩) (PPP dari bhū): Makhluk, hantu
 
-⟪योग⟫ m.: Harnessing, connection, union, acquisition; Yoga
+
+⟪योग⟫ m.: Pemasangan tali kekang, Hubungan, Penyatuan, Perolehan; Yoga
 
 ::: media
 ![](/images/lekt1601.webp)
-Fig.: ⟪योगी⟫
+Gambar: ⟪योगी⟫
 Birla Mandir, Delhi
-(Sumber gambar: [Details](/en/licenses#lekt1601))
+(Sumber gambar: [Rincian](/id/licenses#lekt1601))
 :::
-⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : berputar, memutar diri, berada (di suatu tempat), berdiam
+⟪वृत्⟫ 1 Ā ⟪वर्तते⟫ ; Pass. ⟪वृत्यते⟫ ; PPP ⟪वृत्त⟫ : berputar, berbalik, berada (di suatu tempat), tinggal
 
-⟪शस्त्र⟫ (śastra) n.: Cutting tool, cutting weapon, sword, weapon
+⟪शस्त्र⟫ (śastra) n.: Alat pemotong, Senjata pemotong, Pedang, Senjata
 
-⟪शौच⟫ n.: Purification, purity
+⟪शौच⟫ n.: Pemurnian, Kesucian
 
-⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: leading to the goal, effective
+⟪साधन⟫ m.,n. ⟪साधनी⟫ ⟪साधना⟫ f.: menuntun ke tujuan, mewujudkan
 
-⟪अहिंसा⟫ f.: The act of harming no one, non-injury, non-violence
+⟪अहिंसा⟫ f.: tidak menyakiti siapa pun, tidak melukai, tanpa kekerasan
 
 ::: media
 ![](/images/lekt1603.jpg)
-Fig.: ⟪अहिंसा⟫
-"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the center is 'ahimsa.' The wheel represents the dharmacakra, which stands for the resolve to halt the cycle of reincarnation through the relentless pursuit of truth and non-violence."
-(Image source: [Details](/en/licenses#lekt1603))
+Gambar: ⟪अहिंसा⟫
+"The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the middle is "ahimsa". The wheel represents the dharmacakra which stands for the resolve to halt the cycle of reincarnation through relentless pursuit of truth and non-violence."
+(Sumber gambar: [Rincian](/id/licenses#lekt1603))
 :::
-## 16.3. Exercise
+## 16.3. Latihan
 
-A) Transform the following expressions into Tatpuruṣa compounds and translate them:
+A) Ubahlah ungkapan-ungkapan berikut menjadi Tatpuruṣa dan terjemahkan:
 
 ⟪१⟫. ⟪देवस्य⟫ ⟪पुरुषः⟫ ⟪।⟫
 
@@ -130,13 +133,13 @@ A) Transform the following expressions into Tatpuruṣa compounds and translate 
 
 ::: media
 ![](/images/lekt1604.webp)
-Fig.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
+Gambar: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 ⟪हरियाणा⟫ / ਹਰਿਆਣਾ
-(Image source: [Details](/en/licenses#lekt1604))
+(Sumber gambar: [Rincian](/id/licenses#lekt1604))
 :::
 ⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
-⟪६⟫. ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
+⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
 ⟪७⟫. ⟪कवेरुक्त्याः⟫ ⟪सत्यम्⟫ ⟪।⟫
 
@@ -150,7 +153,7 @@ Fig.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 
 ⟪१२⟫. ⟪देवानां⟫ ⟪स्तुतिः⟫ ⟪।⟫
 
-B) Uraikan majemuk berikut dalam bahasa Sanskerta menjadi kalimat-kalimat independen, membentuk kalimat dengan kata benda yang dideklarasikan, dan terjemahkan:
+B) Uraikanlah semua kata majemuk (Komposita) dalam kalimat-kalimat berikut dalam bahasa Sanskerta, susunlah kalimat dengan nomina yang dideklinasikan, dan terjemahkan:
 
 ⟪१⟫. ⟪पुण्यवद्वैश्यपुत्रो⟫ ⟪देवेन्द्रलोकं⟫ ⟪गच्छति⟫ ⟪।⟫
 
@@ -172,52 +175,53 @@ B) Uraikan majemuk berikut dalam bahasa Sanskerta menjadi kalimat-kalimat indepe
 
 ⟪१०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
 
-## 16.4. Review Exercise
+## 16.4. Latihan Pengulangan
 
-[A] Bentukkan semua kasus yang telah dipelajari sebelumnya untuk kata-kata berikut sebagai contoh dari kelas-kelas deklinasi yang telah dipelajari sejauh ini.
+A) Bentuklah semua kasus yang telah dipelajari sejauh ini untuk kata-kata berikut sebagai contoh untuk kelas-kelas deklinasi yang telah dipelajari sejauh ini.
 
-[C2] Untuk tujuan ini, gunakan skema berikut, yang sesuai dengan urutan kasus yang digunakan oleh para gramatika India dan yang, karena keunggulannya (akan dibahas nanti), juga diadopsi oleh para gramatika Barat:
+Gunakanlah skema berikut, yang sesuai dengan urutan kasus pada tata bahasawan India dan yang karena kelebihan-kelebihannya - yang akan dibahas kemudian - juga telah diambil alih oleh para tata bahasawan Barat:
 
 | Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
 | :--- | :--- |
-| **1. ⟪प्रथमा⟫**:brNominative | **1. ⟪प्रथमा⟫** |
-| **2. ⟪द्वितीया⟫**:brAccusative | **2. ⟪द्वितीया⟫** |
-| **3. ⟪तृतीया⟫**:brInstrumental | **3. ⟪तृतीया⟫** |
-| **6. ⟪षष्ठी⟫**:brGenitive | **6. ⟪षष्ठी⟫** |
+| **⟪१⟫. ⟪प्रथमा⟫** :brNominatif | **⟪१⟫. ⟪प्रथमा⟫** |
+| **⟪२⟫. ⟪द्वितीया⟫** :brAkusatif | **⟪२⟫. ⟪द्वितीया⟫** |
+| **⟪३⟫. ⟪तृतीया⟫** :brInstrumentalis | **⟪३⟫. ⟪तृतीया⟫** |
+| **⟪६⟫. ⟪षष्ठी⟫** :brGenetif | **⟪६⟫. ⟪षष्ठी⟫** |
 
-Memorize the declension patterns based on these examples!!!
+Pelajarilah pola-pola deklinasi berdasarkan contoh-contoh ini dengan hafalan!!!
 
-1. ⟪नर⟫ m.
+⟪१⟫. ⟪नर⟫ m.
 
-2. ⟪फल⟫ n.
+⟪२⟫. ⟪फल⟫ n.
 
-3. ⟪क्षत्रिया⟫ f.
+⟪३⟫. ⟪क्षत्रिया⟫ f.
 
-4. ⟪अरि⟫ m.
+⟪४⟫. ⟪अरि⟫ m.
 
-5. ⟪मति⟫ f.
+⟪५⟫. ⟪मति⟫ f.
 
-6. ⟪गुरु⟫ m.
+⟪६⟫. ⟪गुरु⟫ m.
 
-7. ⟪धेनु⟫ f.
+⟪७⟫. ⟪धेनु⟫ f.
 
-8. ⟪देवी⟫ f.
 
-9. ⟪गुणवन्त्⟫ m., n., f.
+⟪८⟫. ⟪देवी⟫ f.
 
-10. ⟪किम्⟫  m., n., f.
+⟪९⟫. ⟪गुणवन्त्⟫ m., n., f.
 
-11. ⟪तद्⟫ m., n., f.
+⟪१०⟫. ⟪किम्⟫  m., n., f.
 
-12. ⟪एतद्⟫ m., n., f.
+⟪११⟫. ⟪तद्⟫ m., n., f.
 
-13. ⟪इदम्⟫ m., n., f.
+⟪१२⟫. ⟪एतद्⟫ m., n., f.
 
-B) Translate and resolve all Sanskrit compounds:
+⟪१३⟫. ⟪इदम्⟫ m., n., f.
 
-1. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪२॥⟫
+B) Terjemahkan dan pecahkan semua majemuk (komposita) ke dalam bahasa Sanskerta:
 
-2. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫
+⟪१⟫. ⟪योगश्चित्तवृत्तिनिरोधः⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪२॥⟫
+
+⟪२⟫. ⟪स्वधर्मो⟫ ⟪ब्राह्मणस्याध्ययनमध्यापनं⟫ ⟪यजनं⟫ ⟪याजनं⟫ ⟪दानं⟫ ⟪प्रतिग्रहश्च⟫ ⟪॥५॥⟫
 
 ⟪क्षत्रियस्याध्ययनं⟫ ⟪यजनं⟫ ⟪दानं⟫ ⟪शस्त्राजीवो⟫ ⟪भूतरक्षणं⟫ ⟪च⟫ ⟪॥६॥⟫
 
@@ -227,27 +231,26 @@ B) Translate and resolve all Sanskrit compounds:
 
 ⟪सर्वेषामहिंसा⟫ ⟪सत्यं⟫ ⟪शौचमनसूयानृशंस्यं⟫ ⟪क्षमा⟫ ⟪च⟫ ⟪॥१३॥⟫
 
-(Kaṭhīya Arthaśāstra 1.3.5-8, 13)
+(⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪३⟫.⟪५⟫-⟪८⟫, ⟪१३⟫)
 
 ::: indent
-Explanations;
+Penjelasan;
 
-Sentence 7: ⟪कृषिपाशुपाल्ये⟫ Dual, Nom./Akk.: Dvandva, denoting two "things"
+Kalimat 7: ⟪कृषिपाशुपाल्ये⟫ Dualis, Nominatif Akusativ: Dvandva, yang menunjukkan dua "benda"
 
-Sentence 8: ⟪कर्म⟫ Nom./Akk. sg. Neuter from ⟪कर्मन्⟫ "deed"
+Kalimat 8: ⟪कर्म⟫ Nominatif, Akusatif sg. Neutrum dari ⟪कर्मन्⟫ "tindakan"
 
-Sentence 13: ⟪सर्वेषाम्⟫ Gen. pl. masc. from ⟪सर्व⟫ "every, all" (pronoun, not declined like deva)
+Kalimat 13: ⟪सर्वेषाम्⟫ Genitif pl. mask. dari ⟪सर्व⟫ "setiap, semua" (Kata ganti, tidak dideklinasikan seperti deva)
 :::
-3. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
+⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 
 ::: deleteme-box
 
+**lekt1601:** Birla Mandir, Delhi [Sumber gambar: Deepak / Wikipedia ; Lisensi Creative Commons (Atribusi, sama seperti)]
 
-**lekt1601:** Birla Mandir, Delhi [Image source: Deepak / Wikipedia; Creative Commons License (Attribution, ShareAlike)]
+**lekt1602:** "Ini adalah upacara khusus di sebuah kuil kecil di Satara (⟪सातारा⟫). Ini dilakukan oleh para siswa dari Swami Muktananda Vedashala pada perayaan Mahāśivarātri. Ini adalah sekolah Veda, di mana anak-anak menghafal teks suci yang disebut Veda. Sekolah ini mengajarkan Krishna Yajurveda dan beberapa bagian dari Samaveda. Saya sedang mengerjakan tesis master saya di sekolah ini." [Sumber gambar: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Diakses pada 2008-12-07. -- Lisensi Creative Commons (Atribusi, tidak untuk tujuan komersial, tidak ada karya turunan)]
 
-**lekt1602:** "This is a special ceremony in a small temple in Satara (⟪सातारा⟫). It is performed by the students of the Swami Muktananda Vedashala on the occasion of Mahāśivarātri. This is a Vedic school where children memorize the sacred texts known as the Vedas. The school teaches the Krishna Yajurveda and certain portions of the Samaveda. I am writing my master’s thesis on this school." [Image source: Shrimaitreya. -- http://www.flickr.com/photos/shrimaitreya/339418301/. -- Accessed on 2008-12-07. -- Creative Commons License (Attribution, Non-Commercial, No Derivative Works)]
+**lekt1603:** "Tangan dengan roda di telapak tangan melambangkan Sumpah Jain Ahimsa. Kata di tengah adalah "ahimsa". Roda mewakili dharmacakra yang melambangkan tekad untuk menghentikan siklus reinkarnasi melalui pengejaran kebenaran dan non-kekerasan yang tanpa henti." [Sumber gambar: Wikipedia, Domain Publik]
 
-**lekt1603:** "The hand with a wheel on the palm symbolizes the Jain Vow of Ahimsa. The word in the center is 'ahimsa.' The wheel represents the dharmacakra, which stands for the resolve to halt the cycle of reincarnation through the relentless pursuit of truth and non-violence." [Image source: Wikipedia, Public domain]
-
-**lekt1604:** ⟪हरियाणा⟫ / ਹਰਿਆਣਾ [Image source: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Accessed on 2008-12-07. -- Creative Commons License (Attribution, Non-Commercial, No Derivative Works)]
+**lekt1604:** ⟪हरियाणा⟫ / ਹਰਿਆਣਾ [Sumber gambar: mksfoto. -- http://www.flickr.com/photos/mksfoto/583024679/. -- Diakses pada 2008-12-07. -- Lisensi Creative Commons (Atribusi, tidak untuk tujuan komersial, tidak ada karya turunan)]
 :::

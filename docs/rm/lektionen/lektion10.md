@@ -1,6 +1,6 @@
 ---
 title: Lektion 10
-subtitle: "Den Passivsatz (Instrumentalis des Agens)"
+subtitle: "La frasa passiva (Instrumental dal agent)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
 category: "Grammatik"
@@ -23,20 +23,20 @@ status: stable
 **Schema:**
 **(Agens - kartṛ - en l’Instrumental (tṛtīyā)) - (object direct - karman - en il Nominativ) - forma verbala passiva**
 
-z.B. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इज्यते⟫ = "Ein Brahmane verehrt einen Gott mit einem Opfer" (wörtlich: "Ein Gott wird von einem Brahmanen mit einem Opfer verehrt.")
+z.B. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इज्यते⟫ = "In brahman onura in dieu cun in sacrifici" (literalmain: "In dieu vegn onurà da in brahman cun in sacrifici.")
 
-Questa frase è **completamente (!) sinonima** alla frase:
+Questa frasa è **cumpletamain (!) sinonima** a la frasa:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫
 :::
 
 ::: grammar-box
 - En la frasa passiva, l'agent (kartṛ) stat en l'**instrumental** (tṛtīyā f. "terza finis casala"), l'object direct (karman n.) en il **nominativ** (prathamā f.).
-- Frasa passivas, nua l'agent na vegn betg designà, han per ordinari in significà impersonal ("in":
+- Frasa passivas, nua l'agent na vegn betg designà, han per ordinari in significà impersonal ("in"):
   ex. **ijyate** = ⟪इज्यते⟫ "In sacrificiescha" (literalmain: "el vegn onurà cun in sacrifici").
 :::
 
 ::: grammar-box
-**Anche sche il verbu activ correspundenta duvess cuntener in accusativ (dvitīyā) da l'object, po quest en il passiv vegnir mess en il nominativ (prathamā):**
+**Era sche il verb activ correspundent duess cuntegnair in accusativ (dvitīyā) da l'object, po quest en il passiv vegnir mess en il nominativ (prathamā):**
 
 Al passiv **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma va al vitg." correspundnan ils passivs:
 - **rāmeṇa grāmaṃ gamyate** = ⟪रामेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫
@@ -51,10 +51,10 @@ Al passiv **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्राम�
 Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli facil da furmar che per exempel numerus stims da present.
 
 ::: important
-**Satzes passivs en sanscrit pon esser tradusids en general en passiv en tudestg, perquai che il passiv tudestg ha ina funcziun stilistica differenta.**
+**Frasas passivas en sanscrit pon esser tradusidas en general en passiv en rätoromanisch, perquai che il passiv en linguas occidentalas ha ina funcziun stilistica differenta.**
 :::
 
-## 10.2. Der Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "dritte Kasusendung")
+## 10.2. L'instrumental (tṛtīyā f. = ⟪तृतीया⟫ = "terza desinenza casala")
 
 ::: grammar-box
 **Las desinenzas regularas dal instrumental (tṛtīyā):**
@@ -63,43 +63,43 @@ Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli faci
 
 **Formaziuns regularas:**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | Instrumental singular | Instrumental plural |
 | :--- | :--- | :--- |
-| **Feminina auf -i**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
-| **Feminina auf -ī**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
-| **Feminina auf -u**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
+| **Feminins sin -i**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
+| **Feminins sin -ī**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
+| **Feminins sin -u**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
 
 **Formaziuns irregularas (singular):**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | Instrumental singular | Instrumental plural |
 | :--- | :--- | :--- |
-| **Maskulina auf -i**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
-| **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
-| **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
+| **Masculins sin -i**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
+| **Masculins sin -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
+| **Feminins sin -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
 
-**Maskulina e Neutra sin -a (irregulàrs en il singular e plural):**
+**Masculins e Neutrums sin -a (irregulàrs en il singular e plural):**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | Instrumental singular | Instrumental plural |
 | :--- | :--- | :--- |
-| **Maskulina auf -a**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
-| **Neutra auf -a**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
+| **Masculins sin -a**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
+| **Neutrums sin -a**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
 
-**Fragepronomen kim:**
+**Pronom interrogativ kim:**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | Instrumental singular | Instrumental plural |
 | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **kena** :br⟪केन⟫ | **kais** :br⟪कैस्⟫ |
-| **Femininum** | **kayā** :br⟪कया⟫ | **kābhis** :br⟪काभिस्⟫ |
+| **Masculin / Neutrum** | **kena** :br⟪केन⟫ | **kais** :br⟪कैस्⟫ |
+| **Feminin** | **kayā** :br⟪कया⟫ | **kābhis** :br⟪काभिस्⟫ |
 
 **Pronoms demonstrativs:**
 
-| Pronomen | Genus | Instrumentalis Singular | Instrumentalis Plural |
+| Pronomen | Genus | Instrumental singular | Instrumental plural |
 | :--- | :--- | :--- | :--- |
-| **tad** :br"er, sie, es; der, die, das" (Erwähnte):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
+| **tad** :br"el, ella, quai; chel, chella" (mensiunà):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
 | | F | **tayā** :br⟪तया⟫ | **tābhis** :br⟪ताभिस्⟫ |
-| **etad** :br"dieser, diese, dieses" (dem Sprechenden sehr Nahe):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
+| **etad** :br"quest, questa, quest" (fitg datiers al discurrint):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
 | | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
-| **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
+| **idam** :br"quest, questa, quest" (datiers):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
@@ -107,13 +107,13 @@ Construcziuns passivas en sanscrit èn fitg savens: il passiv è uschia pli faci
 Fatsch dal Nominativ ed il Accusativ èn las formas dals neutris sin -a, dal pronom interrogativ e dals pronomas demonstrativas identicas cun las formas dal respectiv masculin.
 :::
 
-### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
+### 10.2.1. Tar l'utilisaziun dal instrumental (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
 **L’Instrumental (tṛtīyā) statta principalmaina sin sias las dumondas:**
 - **Cun quai?**
 - **Cun tge?**
-- ** Cun cun tgi?**
+- **Cun tgi?**
 
 **El stat**
 1. **en cunstrucziuns passivas: agent (kartṛ) en instrumental**
@@ -132,7 +132,7 @@ Ina **-n-**, suenter la quala suonda ina vocala u **n, m, y, v**, vegn sustituid
 **Perquai:**
 
 ::: grammar-box
-| | Instrumentalis Singular |
+| | Instrumental singular |
 | :--- | :--- |
 | **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
 | **śūdra** :br⟪शूद्र⟫ | **śūdreṇa** :br⟪शूद्रेण⟫ |
@@ -140,19 +140,18 @@ Ina **-n-**, suenter la quala suonda ina vocala u **n, m, y, v**, vegn sustituid
 | **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
 | **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
 :::
-**śravaṇa** ⟪श्रवण⟫
 
 ::: indent
 **śravaṇa** ⟪श्रवण⟫
 
 **śṛṇoti** ⟪शृणोति⟫
 
-**kāraṇa** ⟪कारण⟨
+**kāraṇa** ⟪कारण⟫
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
 
-## 10.4. Das Passiv, Indikativ Präsens (yak = ⟪यक्⟫)
+## 10.4. Il passiv, indicativ preschent (yak = ⟪यक्⟫)
 
 ::: grammar-box
 **Formaziun:**
@@ -160,13 +159,13 @@ Ina **-n-**, suenter la quala suonda ina vocala u **n, m, y, v**, vegn sustituid
 :::
 ex.
 
-| Wurzel:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ |
+| Radis:br⟪धातु⟫ | 3. sg. pass. presch. indic.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. pass. presch. indic.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
-| **nī** :br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"er wird geführt" | **nīyante** :br(⟪नीयन्ते⟫) |
-| **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
-| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
+| **nī** :br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"el vegn manà" | **nīyante** :br(⟪नीयन्ते⟫) |
+| **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"el vegn manegià" | **manyante** :br(⟪मन्यन्ते⟫) |
+| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"el vegn entravanà" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
-**Nota che per i verbi della quarta classe di presente, le forme atmanepada e passiva sono identiche! In questo caso, si può determinare se si tratti di atmanepada o passivo solo dalla struttura della frase.**
+**Nota che per ils verbs da la quarta classa da preschent èn las furmas Ātmanepada e passivas identicas! En quest cas po ins determinar sche i sa tracta da Ātmanepada u passiv mo ord la structura da la frasa.**
 
 ### 10.4.1. Reglas spezialas per la furmaziun dal passiv
 
@@ -185,7 +184,7 @@ ex.
 
 4. **Livell profund da verbs che cumenzan cun ya, va, ra u en ils quals quels sons sa chattan suenter in auter consonant (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
-   | Wurzel:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
+   | Radis:br⟪धातु⟫ | Stadi bass:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
    | :--- | :--- | :--- |
    | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
    | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
@@ -193,11 +192,11 @@ ex.
 
 La denominaziun tradiziunala autoctona per questa furmaziun dal nivel profund en verbs cun **ya** resp. **va** è **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
-5. **Auslautendes -ṛ** nach einem einzigen Konsonanten wird vor dem Passivsuffix **-ya-** durch **-ri-** ersetzt:
+5. **-ṛ final suenter in singul consonant vegn remplazzà tras -ri- davant il suffix dal passiv -ya-:**
    * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪⟪क्रियते⟫⟫, ⟪⟪क्रियन्ते⟫⟫
-   * Aber: **smṛ** 1 P: **smaryate** :br⟪⟪स्मर्यते⟫⟫
+   * Ma: **smṛ** 1 P: **smaryate** :br⟪⟪स्मर्यते⟫⟫
 
-6. **Certains radichs cun -an han alternativamain duas furmas dal stem dal passiv:**
+6. **Certas radischs cun -an han alternativamain duas furmas dal stem dal passiv:**
    * ina **-an-ya**
    * ina **-ā-ya-** (il **ā** lung è in represchentant per in nasals lung ipotetic)
 
@@ -207,66 +206,42 @@ z.B. **tan** 8 U.
 
 ## 10.5. Glista da pleds
 
-**gṛha** n. ⟪गृह⟫ : Chasa
-
+::: indent
 - **gṛha** n. ⟪गृह⟫ : chasa
 - **grāma** m. ⟪ग्राम⟫ : vitg
 - **nagara** n. ⟪नगर⟫ : citad
-
-  ::: note-box
-**yajña** m. ⟪यज्ञ⟫ : Sacrifici
-  :::
-
-- **yajña** m. ⟪यज्ञ⟫ : Sacrifiz
-
-  ::: note-box
-  L'offranda è in India innanzitutto un onore reso alla divinità come ospite. In tal modo ci si impegna verso la divinità.
-
-Formazione delle parole: **yaj** 1 U + suffisso **-na-**.
-  :::
-
+- **yajña** m. ⟪यज्ञ⟫ : sacrifiz (L'offranda è en l'Índia in onur fatg a la divinitad sco ospit. Furmaziun da pleds: **yaj** 1 U + suffix **-na-**.)
 - **puṇya** n. ⟪पुण्य⟫ : bun' lavur, merit
+- **pāpa** n. ⟪पाप⟫ : anṛta, mal (cuntrari a **puṇya**)
+- **satya** n. ⟪सत्य⟫ : veritad (En l'Índia s'attribuiva a la paraula veritabla in pussanza magica.)
+:::
 
-  ::: note-box
-**satya** n. ⟪सत्य⟫ : veritad
-  :::
-
-- **pāpa** n. ⟪पाप⟫ : acṛta, mal (cuntrari a **puṇya**)
-- **satya** n. ⟪सत्य⟫ : veritad
-
-::: note-box
-En l'Índia s'attribuiva a la paraula veritable poder magic, e fin la orden mundiala es mantenguda e creada per la paraula veritable. Per a questa idea importanta vesear l'ovra fundamentala:
-
-Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck &amp; Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+::: deleteme-box
+Lüders, Heinrich <1869 - 1943>: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
 
 ::: media
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
-(Sursa d’imagine: [Detagls](/rm/licenses#lekt1003))
+(Sursa d’imagine: [Detagl](/rm/licenses#lekt1003))
 :::
-- **anṛta** n. ⟪अनृत⟫ : falsadad, fals (cuntrari a **satya**)
 
-  ::: note-box
-  Wortbildung **an-** („un-“) + **ṛta** n.
-
-**ṛta** è un concèpt central en il Veda, cun ina tradiziun disputada: „veritad“ (Lüders, Thieme), „urden“ (Renou).
-  :::
-
+::: indent
+- **anṛta** n. ⟪अनृत⟫ : falsadad, fals (cuntrari a **satya**; furmaziun da pleds **an-** [„un-“] + **ṛta** n. **ṛta** è in concept central en il Veda)
 - **ṛṣi** m. ⟪ऋषि⟫ : savant vedic, autore da cants vedicas
-
-  ::: note-box
-  Ils numens da quests **ṛṣi**s vegnan numnads en ils Brāhmaṇas sco er en catalogspecs independents davart ils Veds. Tut ils Brahmanas derivan lur origina da quests **ṛṣi**s, suenter ils quals lur **gotra** (⟪गोत्र⟫) èn numnads. Per il concept **gotra** vesair Basham, *Wonder*, chap. 5.
-  :::
+:::
 
 ::: media
 ![](/images/lekt1002.jpg)
 Fig.: ⟪विश्वामित्रः⟫
 (Sursa d’imaginas: [Detagl](/rm/licenses#lekt1002))
 :::
+
+::: indent
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : dir, parlar
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : dumandar (inqualchid: Acc.; davartge: Acc.)
-- **saha** ⟪सह⟫ : ensemen cun, ensemen cun (era cun „lutar cun“ etc.) (postposiziun cun instrumental)
+- **saha** ⟪सह⟫ : ensemen cun (postposiziun cun instrumental)
+:::
 
 ## 10.6. Exercizi
 
@@ -297,7 +272,7 @@ Fig.: ⟪विश्वामित्रः⟫
 
 **B) Formate l’instrumental singular e plural per tut ils sustantivs emparads fin uss.**
 
-**C) Bildet den Passiv und übersetzt folgende Sätze:**
+**C) Furmai il passiv e tradusci las suandantas frasas:**
 1. **brāhmaṇo devīm yajati.** (⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫)
 2. **sādhuḥ svargaṃ gacchati.** (⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫)
 3. **śūdraṃ jayati.** (⟪शूद्रं⟫ ⟪जयति⟫)
@@ -306,9 +281,9 @@ Fig.: ⟪विश्वामित्रः⟫
 6. **ko 'gniṃ paśyati.** (⟪को⟫ ⟪ऽग्निं⟫ ⟪पश्यति⟫)
 7. **ayaṃ kavirmantraṃ smarati.** (⟪अयं⟫ ⟪कविर्मन्त्रं⟫ ⟪स्मरति⟫)
 8. **iyaṃ devī kṣatriyā rakṣati.** (⟪इयं⟫ ⟪देवी⟫ ⟪क्षत्रिया⟫ ⟪रक्षति⟫)
-9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫) (2 Möglichkeiten)
+9. **kṣatriyā viṣṇuṃ yajante.** (⟪क्षत्रिया⟫ ⟪विष्णुं⟫ ⟪यजन्ते⟫) (2 pussaivladads)
 10. **brāhmaṇo 'gniṃ karoti.** (⟪ब्राह्मणो⟫ ⟪ऽग्निं⟫ ⟪करोति⟫)
-11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫) (2 Möglichkeiten)
+11. **vaiśyā imaṃ grāmaṃ gacchanti.** (⟪वैश्या⟫ ⟪इमं⟫ ⟪ग्रामं⟫ ⟪गच्छन्ति⟫) (2 pussaivladads)
 12. **ete gurūṃstu śṛṇvanti.** (⟪एते⟫ ⟪गुरूंस्तु⟫ ⟪शृण्वन्ति⟫)
 13. **sādhuḥ svargamāpnoti.** (⟪साधुः⟫ ⟪स्वर्गमाप्नोति⟫)
 14. **brāhmāṇāḥ somaṃ sunvanti.** (⟪ब्राह्मणाः⟫ ⟪सोमं⟫ ⟪सुन्वन्ति⟫)
@@ -323,8 +298,8 @@ Fig.: ⟪विश्वामित्रः⟫
 
 ::: media
 ![](/images/lekt1004.jpg)
-Abb.: ⟪तन्तुवायः⟫
-(Bildquelle: [Detagl](/rm/licenses#lekt1004))
+Fig.: ⟪तन्तुवायः⟫
+(Sursa d'imagiens: [Detagl](/rm/licenses#lekt1004))
 :::
 5. Magisters dumandass. (Passivkonstruktion)
 6. L'egh guida. (Passivkonstruktion)
@@ -335,6 +310,7 @@ Abb.: ⟪तन्तुवायः⟫
 
 ## 10.7. Glista da pleds 2
 
+::: indent
 - **makṣikā** f. ⟪मक्षिका⟫ : mosca, ape
 - **vraṇa** m. ⟪व्रण⟫ : ferida, error, dany
 - **dhana** n. ⟪धन⟫ : recompensa, diners, riquesa, possessiun
@@ -359,6 +335,7 @@ Abb.: ⟪तन्तुवायः⟫
 - **evam** ⟪एवम्⟫ : uschè
 - **iha** ⟪इह⟫ : qua
 - **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : esser bel, splender
+:::
 
 ## 10.8. Exercizi da lectura e translaziun
 

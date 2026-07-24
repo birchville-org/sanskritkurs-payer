@@ -254,7 +254,6 @@ outline: 2
 | ⟪गुप्त⟫ | [gupta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gupta&filter=roman&accent=no&transLit=roman) | 3 | protegi, protegi | [29](/rm/lektionen/lektion29#_29-2-glista-da-pleds) |
 | ⟪गुरु⟫ | [guru](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=guru&filter=roman&accent=no&transLit=roman) | 3 | pesant, impurtant, deg da venerar | [2](/rm/lektionen/lektion02#_2-5-glista-da-pleds) |
 | ⟪गुर्वी⟫ | [gurvī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gurvī&filter=roman&accent=no&transLit=roman) | f | fem. a guru | [3](/rm/lektionen/lektion03#_3-6-glista-da-pleds) |
-| ⟪गृह⟫ | [gṛha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛha&filter=roman&accent=no&transLit=roman) | n | Chasa | [10](/rm/lektionen/lektion10#_10-5-glista-da-pleds) |
 | ⟪गृहस्थ⟫ | [gṛhastha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhastha&filter=roman&accent=no&transLit=roman) | 3 | en la casa; m. patrun da la famiglia (ina persuna che sa chatta en il 2. ) | [29](/rm/lektionen/lektion29#_29-2-glista-da-pleds) |
 | ⟪गृहीत⟫ | [gṛhīta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhīta&filter=roman&accent=no&transLit=roman) | — | br | [32](/rm/lektionen/lektion32#_32-5-glista-da-pleds) |
 | ⟪गृह्यते⟫ | [gṛhyate](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=gṛhyate&filter=roman&accent=no&transLit=roman) | — | br | [32](/rm/lektionen/lektion32#_32-5-glista-da-pleds) |
@@ -525,7 +524,7 @@ outline: 2
 | ⟪बाधना⟫ | [bādhanā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bādhanā&filter=roman&accent=no&transLit=roman) | f | anguscha, plaga, dolur | [20](/rm/lektionen/lektion20#_20-9-glista-da-pleds) |
 | ⟪बाह्य⟫ | [bāhya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bāhya&filter=roman&accent=no&transLit=roman) | 3 | situà en l'exteriur, davent, stranier | [51](/rm/lektionen/lektion51#_51-6-lista-da-pleds) |
 | ⟪ब्रह्मचर्य⟫ | [brahmacarya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brahmacarya&filter=roman&accent=no&transLit=roman) | — | chastitad sexuala, stil da vita celibatar | [22](/rm/lektionen/lektion22#_22-3-lista-da-parolas) |
-| ⟪ब्रह्मन्⟫ | [brahman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brahman&filter=roman&accent=no&transLit=roman) | n | l'absolut, il Veda (secondo Thieme originariamente: la verità formulata, da cui "formulatore della verità") | [38](/rm/lektionen/lektion38#_38-9-vocabulari) |
+| ⟪ब्रह्मन्⟫ | [brahman](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brahman&filter=roman&accent=no&transLit=roman) | n | l'absolut, il Veda (secondo Thieme originariamente: la verità formulata, da cui "formulatore da la verità") | [38](/rm/lektionen/lektion38#_38-9-vocabulari) |
 | ⟪ब्राह्मण⟫ | [brāhmaṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brāhmaṇa&filter=roman&accent=no&transLit=roman) | m | Brahmane (spiritual class) | [2](/rm/lektionen/lektion02#_2-5-glista-da-pleds) |
 | ⟪ब्राह्मणी⟫ | [brāhmaṇī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brāhmaṇī&filter=roman&accent=no&transLit=roman) | f | Brahmanin | [3](/rm/lektionen/lektion03#_3-6-glista-da-pleds) |
 | ⟪ब्रू⟫ | [brū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=brū&filter=roman&accent=no&transLit=roman) | — | dir, dir (qualcoss a inqualchidun: doppi accusativ) | [17](/rm/lektionen/lektion17#_17-6-glista-da-pleds) |
@@ -614,7 +613,6 @@ outline: 2
 
 | Sanscrit | IAST | Gener | Rumantsch | Lecziun |
 |---|---|---|---|---|
-| ⟪यज्ञ⟫ | [yajña](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yajña&filter=roman&accent=no&transLit=roman) | m | Sacrifici | [10](/rm/lektionen/lektion10#_10-5-glista-da-pleds) |
 | ⟪यत्⟫ | [yat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yat&filter=roman&accent=no&transLit=roman) | 1Ā | s'diriger cap vers (, , ) | [44](/rm/lektionen/lektion44#_44-5-lista-da-vuschs) |
 | ⟪यत्न⟫ | [yatna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yatna&filter=roman&accent=no&transLit=roman) | m | emprova, sforsa | [44](/rm/lektionen/lektion44#_44-5-lista-da-vuschs) |
 | ⟪यथा⟫ | [yathā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yathā&filter=roman&accent=no&transLit=roman) | Adv | sco, quasi | [29](/rm/lektionen/lektion29#_29-2-glista-da-pleds) |
@@ -823,7 +821,6 @@ outline: 2
 | ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | n | (a - : cun-schlagar): gruppa, amassada, communitad (p.ex. buddhista) | [41](/rm/lektionen/lektion41#_41-3-lista-da-pleds) |
 | ⟪सज्ज्⟫ | [sajj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sajj&filter=roman&accent=no&transLit=roman) | 1P | hängen, anhaften | [48](/rm/lektionen/lektion48#_48-4-glista-da-pleds) |
 | ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | attachar, s'attaccar a () | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
-| ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | veritad | [10](/rm/lektionen/lektion10#_10-5-glista-da-pleds) |
 | ⟪सत्वर⟫ | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satvara&filter=roman&accent=no&transLit=roman) | 3 | svelt, urgents | [43](/rm/lektionen/lektion43#_43-4-glossari) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | s'assire, stabilir | [20](/rm/lektionen/lektion20#_20-9-glista-da-pleds) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sich niedersetzen | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |

@@ -196,7 +196,7 @@ Exempels:
 ⟪भस्मसात्करोति⟫ "el transfigurescha cumplettamain en tschendra (⟪भस्मन्⟫ n. "tschendra"))
 :::
 ::: grammar-box
-**Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
+**Manchmal bedeutet das Suffix -sāt, dass eine Person ni Sache**
 
 *   **da quai ch'el dependescha u**
 *   **ch'il vegn en possessiun da quai**
@@ -421,7 +421,7 @@ Exemples:
 ⟪त्रिलोक⟫ n. ⟪।⟫ ⟪त्रिलोकी⟫ n. "Dreiwelt"
 :::
 ::: grammar-box
-**Dvigu-Komposita, denen kein Taddhitasuffix angefügt ist, die aber die Bedeutung haben, die durch ein Taddhita-Suffix bezeichnet wird, richten wie Bahuvrīhis ihr Geschlecht nach dem Nomen, welches sie näher bestimmen (es sind in Wirklichkeit wohl Bahuvrīhi)**
+**Dvigu-Komposita, denen kein Taddhitasuffix angefügt ist, die aber die Significaziun haben, die durch ein Taddhita-Suffix bezeichnet wird, richten wie Bahuvrīhis ihr Geschlecht nach dem Nomen, welches sie näher bestimmen (es sind in Wirklichkeit wohl Bahuvrīhi)**
 :::
 Exempl:
 

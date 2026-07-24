@@ -1,87 +1,88 @@
 ---
-judul: Pelajaran 11
-subjudul: "Akkusatif ganda (akkusatif orang dan benda)"
+title: "# Pelajaran 11"
+subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
-kategori: "Tata Bahasa"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
-# Lesson 11
+
+
+# Pelajaran 11
 
 ::: deleteme-box
-**Dalam pelajaran ini, Anda akan mempelajari:**
-- Akusatif ganda (akusatif orang dan akusatif benda)
-- Penggunaan partikel **iti**, **evam**, dan **na**
-- Istilah dasar seperti **dharma**, **adharma**, dan **putra**
-- Pembentukan kata benda dari akar kata **vad**, **prach**, dan **iṣ**
+**Dalam pelajaran ini Anda akan mempelajari:**
+- Akusatif ganda (akusatif orang dan akusatif hal)
+- Penggunaan partikel **iti**, **evam** dan **na**
+- Konsep dasar seperti **dharma**, **adharma** dan **putra**
+- Pembentukan nomina dari akar kata **vad**, **prach** dan **iṣ**
 :::
 ## 11.1. Akusatif Ganda
 
 ::: grammar-box
-**Beberapa kata kerja dapat mengatur akusatif ganda (dvitīyā): akusatif orang dan akusatif benda.**
+**Beberapa kata kerja dapat mengatur akusatif ganda (dvitīyā): Akusatif orang dan Akusatif hal.**
 
-**Ini termasuk:**
-- **Kata kerja berbicara**: berbicara kepada seseorang (akusatif) tentang sesuatu (akusatif); mengatakan sesuatu (akusatif) kepada seseorang (akusatif)
-- **Kata kerja meminta**: meminta kepada seseorang (akusatif) tentang sesuatu (akusatif)
+**Di antaranya termasuk:**
+- **Kata kerja berbicara**: berkata kepada seseorang (akusatif) tentang sesuatu (akusatif); mengatakan kepada seseorang (akusatif) sesuatu (akusatif)
+- **Kata kerja bertanya**: menanyakan kepada seseorang (akusatif) tentang sesuatu (akusatif)
 - **Kata kerja mengajar**: mengajarkan kepada seseorang (akusatif) sesuatu (akusatif)
 - beberapa kata kerja lainnya, yang dicatat dalam daftar kosakata
 
-**Ketika konstruksi seperti itu diubah menjadi pasif, orang (yang ditanya, dll.) ditempatkan dalam nominatif (prathamā), sedangkan benda (tentang yang ditanyakan, dll.) tetap dalam akusatif.**
+**Jika konstruksi seperti itu diubah menjadi pasif, orang (yang ditanya dll.) ditempatkan dalam nominatif (prathamā), sedangkan hal (yang ditanyakan dll.) tetap dalam akusatif.**
 
-e.g. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma asks the Brahmin about the Dharma."
-» Passive: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫
+mis. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma bertanya kepada Brahmana tentang Dharma."
+» Pasif: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫
 
-**Aturan ini hanya berlaku ketika kedua orang dan benda adalah objek. Jika benda satu-satunya objek, maka berada dalam nominatif (prathamā) sesuai dengan skema dasar kalimat pasif:**
+**Aturan ini hanya berlaku jika baik orang maupun hal adalah objek. Jika satu-satunya objek adalah hal, maka menurut skema dasar kalimat pasif, hal tersebut berada dalam nominatif (prathamā):**
 
-e.g. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma asks about the Dharma."
-» Passive: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
+mis. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma bertanya tentang Dharma."
+» Pasif: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
 :::
----
 
-## 11.2. Word List
+## 11.2. Daftar Kosakata
 
-**Learn the following words:**
+**Pelajari kata-kata berikut:**
 
 - **iti** ⟪इति⟫ : demikian
-- Muncul *setelah* perumusan pikiran, keinginan, ucapan, atau kutipan, berfungsi sebagai tanda kutip (").
-- mis. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Para brahmana berkata: 'Orang-orang yang benar pergi ke surga'" = "Para brahmana mengatakan bahwa orang-orang yang benar pergi ke surga".
-- Bahasa Sanskerta tidak memiliki kalimat tak langsung; konstruksi dengan **iti** sering kali perlu diterjemahkan ke dalam bahasa Indonesia sebagai kalimat tak langsung.
-- **... (kutipan) ... iti śrutiḥ** = "demikianlah firman Weda".
-- Seringkali sebuah kata kerja berpikir dapat disimpulkan setelah **iti**: "berpikir: '...' ia melakukan itu". Terjemahkan secara idiomatik ke dalam bahasa Indonesia (mis. "Karena ia lapar, ia pergi...").
+- Berada *setelah* perumusan pikiran, keinginan, ucapan, kutipan seolah-olah sebagai tanda kutip (").
+- mis. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmana berkata: 'Orang suci pergi ke surga'" = "Brahmana berkata bahwa orang suci pergi ke surga".
+- Dalam bahasa Sanskerta tidak ada kalimat tak langsung; pembentukan dengan **iti** sering kali harus diterjemahkan ke dalam bahasa Jerman sebagai kalimat tak langsung.
+- **... (kutipan) ... iti śrutiḥ** = "demikianlah Veda".
+- Seringkali setelah **iti** perlu ditambahkan kata kerja berpikir: "berpikir: '...' dia melakukan hal itu". Diterjemahkan secara idiomatik ke dalam bahasa Jerman (mis. "Karena dia lapar, dia pergi...").
 
-- **evam** ⟪एवम्⟫ : thus (adverbial, e.g. **evaṃ jayati** "thus he conquers").
-- **na** ⟪न⟫ : not
-  - Negates individual words (stands immediately before: **na sādhuḥ** "a not-good") or entire sentences (stands at the beginning or immediately before the verb).
+- **evam** ⟪एवम्⟫ : demikian (adverbia, mis. **evaṃ jayati** "demikian dia menang").
+- **na** ⟪न⟫ : tidak
+- Menyangkal kata tunggal (berada tepat di depannya: **na sādhuḥ** "seorang tidak baik") atau seluruh kalimat (berada di awal atau tepat sebelum kata kerja).
 
-- **putra** m. ⟪पुत्र⟫ : putra (Di India, penting untuk memiliki seorang putra yang dapat melakukan upacara pengorbanan bagi para leluhur.)
-- **dharma** m. ⟪धर्म⟫ : ("yang menegakkan", yaitu) benar, hukum, adat, karakter.
-- Paling sesuai dengan hukum alam/hukum moral. Setiap orang memiliki kewajiban masing-masing (**svadharma**) menurut **varṇa** dan **āśrama** (tahap kehidupan).
-- **adharma** m. ⟪अधर्म⟫ : salah (kebalikan dari **dharma**).
+- **putra** m. ⟪पुत्र⟫ : putra (Di India perlu memiliki seorang putra yang dapat mempersembahkan korban untuk leluhur.)
+- **dharma** m. ⟪धर्म⟫ : ("yang teguh", yaitu) keadilan, hukum, adat, karakter.
+- Paling sesuai dengan hukum alam/hukum moral. Setiap orang memiliki kewajiban sendiri (**svadharma**) menurut **varṇa** dan **āśrama** (tahap kehidupan).
+- **adharma** m. ⟪अधर्म⟫ : ketidakadilan (kebalikan dari **dharma**).
 - **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : menginginkan (**iṣ-ccha-ti**).
 
-**Some nominal formations:**
 
-- **vad** 1 P ⟪वद्⟫ : to say
-  - **vāda** m. ⟪वाद⟫ : utterance, statement, word
-  - **vadana** n. ⟪वदन⟫ : speaking; instrument of speech: mouth, face
+**Beberapa Bentuk Nomina:**
+
+- **vad** 1 P ⟪वद्⟫ : berkata
+- **vāda** m. ⟪वाद⟫ : ucapan, pernyataan, kata
+- **vadana** n. ⟪वदन⟫ : berbicara; alat bicara: mulut, wajah
 
 ::: media
 ![](/images/lekt1102.webp)
-Fig.: **vadanāni** = ⟪वदनानि⟫, Jamalpur district, Bangladesh.
-(Image source: [Details](/en/licenses#lekt1102))
+Gambar: **vadanāni** = ⟪वदनानि⟫
+(Sumber gambar: [Detail](/id/licenses#lekt1102))
 :::
-- **prach** 6 P ⟪प्रच्छ्⟫ : to ask
-  - **praśna** m. ⟪प्रश्न⟫ : question (suffix **-na** as in **yaj-ña**)
+- **prach** 6 P ⟪प्रच्छ्⟫ : bertanya
+- **praśna** m. ⟪प्रश्न⟫ : pertanyaan (akhiran **-na** seperti dalam **yaj-ña**)
 
-- **iṣ** 6 P ⟪इष्⟫ : to wish
-  - **iṣṭi** f. ⟪इष्टि⟫ : wish (**iṣ** + **-ti**)
+- **iṣ** 6 P ⟪इष्⟫ : menginginkan
+- **iṣṭi** f. ⟪इष्टि⟫ : keinginan (**iṣ** + **-ti**)
 
----
 
-## 11.3. Exercise
+## 11.3. Latihan
 
-**A) Translate the following sentences:**
+**A) Terjemahkan kalimat-kalimat berikut:**
 
 1. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ |
 2. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ |
@@ -96,35 +97,34 @@ Fig.: **vadanāni** = ⟪वदनानि⟫, Jamalpur district, Bangladesh.
 11. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ | |
 12. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ||
 
-**B) Convert the sentences from A) into passive constructions.**
+**B) Ubah kalimat-kalimat dari A) ke dalam konstruksi pasif.**
 
-**C) Dalam kalimat-kalimat dari A), di mana sesuai, ubah subjek, objek, dan predikat menjadi bentuk jamak.**
+**C) Ubah subjek, objek, dan predikat dalam kalimat-kalimat A), jika masuk akal, menjadi bentuk jamak.**
 
-**D) Bentuk konstruksi pasif untuk kalimat-kalimat yang dibentuk dalam C).**
+**D) Bentuk konstruksi pasif untuk kalimat-kalimat yang dibentuk menurut C).**
 
 ::: media
 ![](/images/lekt1101.webp)
-Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
-(Image source: [Details](/en/licenses#lekt1101))
+Gambar: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
+(Sumber gambar: [Detail](/id/licenses#lekt1101))
 :::
----
 
-## 11.4. Review Exercise
+## 11.4. Latihan Ulangan
 
-**A) Terjemahkan ke dalam bahasa Sanskerta menggunakan konstruksi pasif:**
-1. Para wanita Vaiśya bertanya kepada para Brahmin tentang dharma.
-2. Guru mengucapkan sebuah mantra.
-3. Wanita-wanita suci mencapai surga.
-4. Seorang resi Weda tidak melakukan kejahatan.
-5. Para Brahmin menyembah dewi dengan persembahan sebagai imam pengorbanan.
-6. Wanita Śūdra pergi ke desa.
+**A) Terjemahkan ke dalam bahasa Sanskerta dengan menggunakan konstruksi pasif:**
+1. Para wanita Vaiśya bertanya kepada para Brahmana tentang Dharma.
+3. Para wanita suci mencapai surga.
+4. Seorang resi Weda tidak melakukan kejahatan apa pun.
+5. Para Brahmana, sebagai pendeta korban, menyembah Dewi dengan persembahan.
+6. Seorang wanita Śūdra pergi ke desa.
 7. Siapa yang melihat kebenaran?
+7. Wer sieht die Wahrheit?
 
 **B)**
-1. Tentukan kewajiban semua yang lahir dua kali menggunakan dvandva. Uraikan majemuk tersebut ke dalam bahasa Sanskerta.
-2. Tentukan kewajiban para Vaiśya menggunakan dvandva. Uraikan majemuk tersebut ke dalam bahasa Sanskerta.
+1. Sebutkan tugas semua Dwijottama (orang yang lahir dua kali) dengan menggunakan Dvandva. Uraikan majemuk tersebut ke dalam bahasa Sanskerta.
+2. Sebutkan tugas para Vaiśya dengan menggunakan Dvandva. Uraikan majemuk tersebut ke dalam bahasa Sanskerta.
 
-**C) Translate:**
+**C) Terjemahkan:**
 
 1. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ | |
 2. ⟪कर्षर्कैः⟫ ⟪कृष्यते⟫ | |
@@ -135,17 +135,17 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 7. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ | |
 8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ||
 
-[D0] **D) Terjemahkan dan ubah agen, objek, dan kata kerja ke dalam bentuk jamak dalam bahasa Sanskerta:**
+**D) Terjemahkan dan ubah agen, objek, dan kata kerja dalam bahasa Sanskerta menjadi bentuk jamak:**
 
 1. ⟪फलमश्नुते⟫ | |
 2. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ | |
 3. ⟪वैश्यः⟫ ⟪पशुं⟫ ⟪लभते⟫ | |
 4. ⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ||
 
-**E) Transform sentences C) 1-5 into active constructions.**
+**E) Ubah kalimat-kalimat C) 1-5 ke dalam konstruksi aktif.**
 
 ::: media
 ![](/images/lekt1103.webp)
-Fig.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
-(Image source: [Details](/en/licenses#lekt1103))
+Gambar: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
+(Sumber gambar: [Detail](/id/licenses#lekt1103))
 :::

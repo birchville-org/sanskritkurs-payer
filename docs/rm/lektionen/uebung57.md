@@ -77,7 +77,7 @@ Determinar e tradurs las suandantas formas:
 | ⟪१९⟫. | ⟪कन्याम्⟫ | sig[⟪कन्या⟫] f.: Akk. Sg. (la giuvna) |
 | ⟪२०⟫. | ⟪आरम्⟫ | sig[⟪ऋ⟫] 1. Sg. a-Aor. P. (jau ai) |
 | ⟪२१⟫. | ⟪रिपू⟫ | sig[⟪रिपु⟫] m.: Nom. Akk. Voc. Du. (ils dus inimis) |
-| ⟪२२⟫. | ⟪अदात्⟫ | sig[⟪दा⟫] 3. Sg. Wurzelaor. P. (el dà) |
+| ⟪२२⟫. | ⟪अदात्⟫ | sig[⟪दा⟫] 3. Sg. Radisaor. P. (el dà) |
 | ⟪२३⟫. | ⟪आदत्⟫ | sig[⟪अद्⟫] 3. Sg. Impf. P. (el mangià) |
 | ⟪२४⟫. | ⟪अवोढ⟫ | sig[⟪वह्⟫] 3. Sg. s-Aor. Ā. (el viagià); *⟪अ⟫-⟪वह्⟫*: Voc. Sg. m. n. |
 | ⟪२५⟫. | ⟪अवोचम्⟫ | sig[⟪वच्⟫] 1. Sg. a-Aor. P. (jau ai ditg) |

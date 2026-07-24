@@ -99,7 +99,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुदेतम्⟫ | ⟪तुदेयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदेताम्⟫ | ⟪तुदेयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -130,7 +130,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪चोरयेतम्⟫ | ⟪चोरयेयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चोरयेताम्⟫ | ⟪चोरयेयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -160,7 +160,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 | 1\. ⟪तृतीयः⟫ | ⟪अतुद्यावहि⟫ |
@@ -191,7 +191,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪द्विष्यातम्⟫ | ⟪द्विषीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪द्विष्याताम्⟫ | ⟪द्विषीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -220,7 +220,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪दुह्यातम्⟫ | ⟪दुहीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪दुह्याताम्⟫ | ⟪दुहीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -249,7 +249,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪इयातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪इयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -278,7 +278,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪अधीयीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अधीयीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪आत्मनेपदम्⟫ |
@@ -307,7 +307,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪हन्यातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪हन्याताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -337,7 +337,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪स्यातम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪स्याताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ |
@@ -368,7 +368,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪जुहुयातम्⟫ | \<⟪जुह्वीयाथाम्⟫\> |
 | 3\. ⟪प्रथमः⟫ | ⟪जुहुयाताम्⟫ | \<⟪जुह्वीयाताम्⟫\> |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -397,7 +397,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪दध्यातम्⟫ | ⟪दधीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪दध्याताम्⟫ | ⟪दधीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -429,7 +429,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪सुनुयातम्⟫ | ⟪सुन्वीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सुनुयाताम्⟫ | ⟪सुन्वीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -460,7 +460,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪तनुयातम्⟫ | ⟪तन्वीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तनुयाताम्⟫ | ⟪तन्वीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -489,7 +489,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪कुर्यातम्⟫ | ⟪कुर्वीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुर्याताम्⟫ | ⟪कुर्वीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -520,7 +520,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪रुन्ध्यातम्⟫ | ⟪रुन्धीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्ध्याताम्⟫ | ⟪रुन्धीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -549,7 +549,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪युञ्ज्यातम्⟫ | ⟪युञ्जीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युञ्ज्याताम्⟫ | ⟪युञ्जीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -580,7 +580,7 @@ Optativ (⟪विधिलिङ्⟫)
 | 2\. ⟪मध्यमः⟫ | ⟪क्रीणीयातम्⟫ | ⟪क्रीणीयाथाम्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪क्रीणीयाताम्⟫ | ⟪क्रीणीयाताम्⟫ |
 :::
-Imperfekt (⟪लङ्⟫)
+Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
@@ -600,7 +600,7 @@ Imperativ (⟪लोट्⟫)
 :::
 ## 59.4. Dual (⟪dvivacanam⟫) Aorist (⟪luṅ⟫)
 
-### 59.4.1. Wurzelaorist
+### 59.4.1. Radisaorist
 
 ⟪पा⟫ 1P "bair"
 
@@ -672,7 +672,7 @@ Imperativ (⟪लोट्⟫)
 
 **Educaziun:**
 
-**Augment + hochstufige Wurzel + s + i + ṣ + athematische Sekundärendung (wie iṣ-Aorist)**
+**Augment + hochstufige Radis + s + i + ṣ + athematische Sekundärendung (wie iṣ-Aorist)**
 :::
 Stammbildungssuffix + Endungen des siṣ-Aorist lauten also:
 
@@ -703,7 +703,7 @@ Paradigma:
 
 **Educaziun:**
 
-**Augment + tiefstufige Wurzel + s + a + thematische Sekundärendung**
+**Augment + tiefstufige Radis + s + a + thematische Sekundärendung**
 
 **La 1.sg.2.3.du.ġ vegnan dal s-aorist, cunzègnidamain formati senza tema.**
 :::
@@ -752,7 +752,7 @@ A) Tradusci il seguent text e determina tuttas las formas verbalas che s'annunzi
 
 _Vorbemerkung:_
 
-Il test che segue proviene da ⟪भट्टिकाव्य⟫ ("poesia artistica di \[poeta\] Bhaṭṭi"). L'⟪भट्टिकाव्य⟫ narra in 22 canti la storia di ⟪राम⟫, illustrando contemporaneamente le regole della grammatica e della poetica attraverso esempi.
+Il test che segue proviene da ⟪भट्टिकाव्य⟫ ("poesia artistica di \[poeta\] Bhaṭṭi"). L'⟪भट्टिकाव्य⟫ narra in 22 canti la storia di ⟪राम⟫, illustrando contemporaneamente le regole da la grammatica e da la poetica attraverso esempi.
 
 Il poem ha quatter parts:
 

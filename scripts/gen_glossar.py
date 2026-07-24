@@ -383,8 +383,22 @@ def first_char(deva: str) -> str:
     return deva[0]
 
 
+def get_config(lang: str) -> dict:
+    if lang in LANG_CONFIG:
+        return LANG_CONFIG[lang]
+    return {
+        "dir": f"docs/lektionen" if lang == "de" else f"docs/{lang}/lektionen",
+        "glossar_path": f"docs/lektionen/glossar.md" if lang == "de" else f"docs/{lang}/lektionen/glossar.md",
+        "title": f"Glossar Sanskrit–{lang.upper()}",
+        "subtitle": "Zusammengestellt aus den Wortlisten des Sanskrit-Kurses von Alois Payer.",
+        "col_sanskrit": "Sanskrit", "col_iast": "IAST", "col_genus": "Genus",
+        "col_meaning": "Bedeutung", "col_lektion": "Lektion",
+        "link_prefix": "/lektionen/lektion" if lang == "de" else f"/{lang}/lektionen/lektion",
+    }
+
+
 def generate(lang: str) -> None:
-    cfg = LANG_CONFIG[lang]
+    cfg = get_config(lang)
     lang_dir = ROOT / cfg["dir"]
     de_dir = ROOT / "docs/lektionen"
     out_path = ROOT / cfg["glossar_path"]
@@ -448,13 +462,16 @@ def main() -> None:
 
     if lang == "all":
         print("Generiere Glossar für alle Sprachen...")
-        for l in LANG_CONFIG:
+        # Check all existing language directories under docs/
+        all_langs = set(LANG_CONFIG.keys())
+        for d in (ROOT / "docs").iterdir():
+            if d.is_dir() and (d / "lektionen").exists():
+                all_langs.add(d.name)
+        all_langs.add("de")
+        for l in sorted(all_langs):
             generate(l)
-    elif lang in LANG_CONFIG:
-        generate(lang)
     else:
-        print(f"Unbekannte Sprache: '{lang}'. Verfügbar: {', '.join(LANG_CONFIG)}")
-        sys.exit(1)
+        generate(lang)
 
 
 if __name__ == "__main__":

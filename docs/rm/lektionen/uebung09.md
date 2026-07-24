@@ -8,7 +8,7 @@ last_reconstructed: 2026-05-15
 
 # Lecziun 9
 
-A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:
+A) Versuchen Sie, die möglichen Significaziunen folgender Wörter zu bestimmen:
 
 1\. brāhmānaka ⟪ब्राह्मणक⟫ : m. einer, der einem Brahmanen nur ähnlich ist = ein schlechter Brahmane
 
@@ -92,10 +92,10 @@ dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca. ⟪द्वि�
 
 (nach Kauṭilīya-arthaśāstra 1.3.8.)
 
-Erklärung:
+Explicaziun:
 dvijātīnām = Genetiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen")
 
-kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
+kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Radis kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten).
 
 Gehorsam gegenüber den Zweimalgeborenen, Tätigkeiten zum Lebensunterhalt, Tätigkeit als Handwerker bzw. wandernde Schausteller.
 

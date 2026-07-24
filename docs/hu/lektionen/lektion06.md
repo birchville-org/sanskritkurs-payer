@@ -1,309 +1,309 @@
 ---
-title: Lektion 6
-subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
+title: 6. lecke
+subtitle: "A mondat szerkezete (alany és igealak)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
-category: "Grammatik"
+category: "Nyelvtan"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 6 <!-- TODO: Fallback translation -->
+# 6. lecke
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Den Aufbau des Verbalsatzes (Agens und Verbalform) <!-- TODO: Fallback translation -->
-- Die Képzés von Verbalformen (Parasmaipada, Ātmanepada, Passiv) <!-- TODO: Fallback translation -->
-- Die Modi und Tempi des Verbs <!-- TODO: Fallback translation -->
-- Indikativ Jelen idő (laṭ) und die Primärendungen der 3. Person <!-- TODO: Fallback translation -->
-- Die Képzés des Jelen idejű tős (Klassen 1, 4 und 6) <!-- TODO: Fallback translation -->
-- Die Lautabstufung (Ablaut: Guṇa und Vṛddhi) <!-- TODO: Fallback translation -->
+**Ebben a leckében megtanulják:**
+- A mondat szerkezete (alany és igealak)
+- Az igealkotás módjai (Parasmaipada, Ātmanepada, Passzív)
+- Az igemódok és igeidők
+- Jelentő mód, jelen idő (laṭ) és a 3. személy fő végződései
+- A jelen idő alapjának képzése (1., 4. és 6. osztály)
+- A hangváltozás (Ablaut: Guṇa és Vṛddhi)
 :::
-## 6.1. Der Verbalsatz <!-- TODO: Fallback translation -->
+## 6.1. A mondat szerkezete
 
 ::: grammar-box
-**Schema I: Verbalform** <!-- TODO: Fallback translation -->
-- z.B. **yajati** = ⟪यजति⟫ = "Er (sie, es) verehrt mit einem Opfer", "Er (sie, es) opfert" <!-- TODO: Fallback translation -->
+**I. vázlat: Igealak**
+- pl. **yajati** = ⟪यजति⟫ = "Ő (ő, az) áldozattal tisztel" vagy "Ő (ő, az) áldoz"
 
-**Schema II: Agens (kartṛ m. = ⟪कर्तृ⟫) – Verbalform** <!-- TODO: Fallback translation -->
-- z.B. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = "Rāma verehrt mit einem Opfer", "Rāma opfert" <!-- TODO: Fallback translation -->
+**II. sém séma: Alany (kartṛ m. = ⟪कर्तृ⟫) – Igealak**
+- pl. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = „Rāma áldozattal tisztel, „Rāma áldoz”
 :::
-Wird der Agens (**kartṛ** m. = ⟪कर्तृ⟫) in einem Verbalsatz genannt, der nicht im Passiv steht, dann steht der Agens im **Nominativ** (erster Fall, prathamā = ⟪प्रथमा⟫). Im Numerus (Zahl, vacana n. = ⟪वचन⟫) stimmen dann Agens und Verbalform überein. <!-- TODO: Fallback translation -->
+Ha az alany (**kartṛ m. = ⟪कर्तृ⟫) egy nem passzív igemondatban szerepel, akkor az alany **Nominativus** (első eset, prathamā = ⟪प्रथमा⟫) esetben áll. A szám (vacana n. = ⟪वचन⟫) egyezik az alany és az igealak között.
 
-## 6.2. Zur Bildung der Verbalformen <!-- TODO: Fallback translation -->
+## 6.2. Az igék képzése
 
-Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sanskrit Folgendes aus: <!-- TODO: Fallback translation -->
+Egy véges (rögzült) igealak, azaz személyes végződésű igemondat a szanszkritban a következőket fejezi ki:
 
-1. **Bedeutung** (**artha** m. ⟪अर्थ⟫) <!-- TODO: Fallback translation -->
-2. **Person** und **Numerus** (Zahl, **vacana** n. = ⟪वचन⟫) (ich, du, er \<sie, es\>, wir beide, ihr beide, sie beide, wir, ihr, sie) <!-- TODO: Fallback translation -->
-3. Verhaltensweise (genus verbi): <!-- TODO: Fallback translation -->
-   1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("Wortform mit Bezug auf einen anderen"): Aktivum. z.B. **yajati** = ⟪यजति⟫ = "Er verehrt mit einem Opfer" (nämlich der Priester, der für jemanden anderen das Opfer vollzieht) <!-- TODO: Fallback translation -->
-   2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("Wortform mit Bezug auf sich selbst"): Medium. z.B. **yajate** = ⟪यजते⟫ = "Er verehrt mit einem Opfer im eigenen Interesse" (nämlich der Opferherr, der für sich und seine Familie opfert) <!-- TODO: Fallback translation -->
-   3. **Passiv** (**karman** n. = ⟪कर्मन्⟫). z.B. **ijyate** = ⟪इज्यते⟫ = "Es wird mit einem Opfer verehrt" <!-- TODO: Fallback translation -->
+1. **Jelentés** (**artha m. ⟪अर्थ⟫)
+2. **Személy** és **szám** (vacana n. = ⟪वचन⟫) (én, te, ő \&lt;ő, az\&gt;, mi ketten, ti ketten, ők ketten, mi, ti, ők)
+3. Viselkedésmód (genus verbi):
+1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) („másra utaló szóalak”): Aktívum. pl. **yajati** = ⟪यजति⟫ = „Ő áldozattal tisztel” (nevezetesen a pap, aki másokért végzi az áldozatot)
+2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) („önmagára utaló szóalak”): Medium. pl. **yajate** = ⟪यजते⟫ = „Ő áldozattal tisztel saját érdeke érdekében” (nevezetesen az áldozó úr, aki önmagáért és családjáért áldoz)
+3. **Passzív** (**karman n. = ⟪कर्मन्⟫). pl. **ijyate** = ⟪इज्यते⟫ = „Áldozattal tisztelik”
 
-   In vielen Fällen lässt sich die Bedeutungsnuance des Ātmanepada nicht mehr erkennen; auch verwenden selbst Kunstdichter oft das Ātmanepada ohne Bedeutungsunterschied zum Parasmaipada. Dennoch ist bei der Übersetzung immer genau zu beachten, ob nicht eine solche Bedeutungsnuance vorliegt. <!-- TODO: Fallback translation -->
+Sok esetben az Ātmanepada jelentésárnyalata már nem ismerhető fel; sőt, még a műköltők is gyakran használják az Ātmanepadát jelentéskülönbség nélkül a Parasmaipadához képest. Ugyanakkor fordításkor mindig pontosan figyelembe kell venni, hogy esetleg ilyen jelentésárnyalat áll-e fenn.
 
-   Verben, die im Parasmaipada und Ātmanepada (in der spezifischen Ātmanepada-Bedeutung) verwendet werden, nennt man **Ubhayapada**-Verben (**ubhayapada** n. = ⟪उभयपद⟫ = "beide Wortformen"). <!-- TODO: Fallback translation -->
+Azokat az igéket, amelyeket a Parasmaipadában és az Ātmanepadában (a specifikus Ātmanepada-jelentésben) használnak, **Ubhayapada**-igéknek nevezzük (**ubhayapada** n. = ⟪उभयपद⟫ = "mindkét szóforma").
 
-   Manche Verben werden entweder nur im Parasmaipada oder nur im Ātmanepada gebraucht. Bei diesen Verben hat das Ātmanepada bzw. Parasmaipada keine spezifische Bedeutung. z.B. **manyate** = ⟪मन्यते⟫ = "er (sie, es) denkt" (ohne spezifische Ātmanepadabedeutung). <!-- TODO: Fallback translation -->
+Egyes igéket vagy csak a Parasmaipadában, vagy csak az Ātmanepadában használnak. Ezeknél az igéknél az Ātmanepada, illetve a Parasmaipada nem rendelkezik specifikus jelentéssel. Például: **manyate** = ⟪मन्यते⟫ = "ő (ő, ő) gondol" (specifikus Ātmanepada-jelentés nélkül).
 
-4. **Aussageweise** (Modus): <!-- TODO: Fallback translation -->
-   1. **Indikativ**: Aussageform <!-- TODO: Fallback translation -->
-   2. **Kívánó mód (optativus)**: Wunschform und Möglichkeitsform <!-- TODO: Fallback translation -->
-   3. **Felszólító mód**: Befehlsform <!-- TODO: Fallback translation -->
-5. **Zeit** (Tempus): <!-- TODO: Fallback translation -->
-   1. **Jelen idő**: Gegenwart <!-- TODO: Fallback translation -->
-   2. **Múlt idő (imperfektum)** <!-- TODO: Fallback translation -->
-   3. **Perfekt** <!-- TODO: Fallback translation -->
-   4. **Aorist** <!-- TODO: Fallback translation -->
-   5. **Jövő idő**: Zukunft <!-- TODO: Fallback translation -->
-   6. **Konditional** <!-- TODO: Fallback translation -->
+4. **Kifejezésmód** (Módus):
+1. **Indikatívus**: Állító mód
+2. **Kívánó mód (optativus)**: Kívánság és lehetőség kifejezése
+3. **Felszólító mód**: Parancsoló mód
+5. **Idő** (Tempus):
+1. **Jelen idő**: Jelenidő
+2. **Múlt idő (imperfektum)**
+3. **Perfektum**
+4. **Aorisztus**
+5. **Jövő idő**: Jövendőidő
+6. **Kondicionális**
 
-   Die Zeiten werden von Tempusstämmen gebildet: Präsensstamm, Aoriststamm, Perfektstamm, Futurstamm. <!-- TODO: Fallback translation -->
+Az időket igealakok (törzsek) alkotják: jelen idő törzs, aorist törzs, perfekta törzs, jövő idő törzs.
 
-## 6.3. Indikativ Präsens (laṭ = ⟪लट्⟫) <!-- TODO: Fallback translation -->
+## 6.3. Jelentő mód jelen idő (laṭ = ⟪लट्⟫)
 
-Das Präsens ist das Tempus der Gegenwart, insbesondere auch der Dauer. <!-- TODO: Fallback translation -->
+A jelen idő a jelen idejű igeidő, különösen az állandóság kifejezésére is szolgál.
 
 ::: grammar-box
-**Der Indikativ (Aussageform) Präsens wird gebildet, indem an den Präsensstamm die sogenannten Primärendungen angefügt werden.** <!-- TODO: Fallback translation -->
+**A jelentő mód (kijelentő alak) jelen idő úgy képződik, hogy a jelen idő törzséhez hozzáadják az úgynevezett elsődleges végződéseket.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
-| Tő (dhātu) | Jelen idejű tő | 3. Person egyes szám Indikativ Jelen idő Parasmaipada | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "er (sie, es) tritt ein" | <!-- TODO: Fallback translation -->
-| **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" | <!-- TODO: Fallback translation -->
-| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" | <!-- TODO: Fallback translation -->
+| Tő (dhātu) | Jelen idejű tő | 3. Person egyes szám Indikativ Jelen idő Parasmaipada |
+| :--- | :--- | :--- |
+| **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "er (sie, es) tritt ein" |
+| **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" |
+| **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "er (sie, es) tanzt" |
 
-## 6.4. Primärendungen der dritten Person (prathama m. = ⟪प्रथम⟫ = "erste (!) Person") <!-- TODO: Fallback translation -->
+## 6.4. A harmadik személy fő végződése (prathama m. = ⟪प्रथम⟫ = "első (!) személy")
 
 ::: grammar-box
-| | egyes szám (Einzahl):brekavacana n.:br⟪एकवचन⟫ | többes szám (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ | <!-- TODO: Fallback translation -->
-| **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ | <!-- TODO: Fallback translation -->
+| | egyes szám (Einzahl):brekavacana n.:br⟪एकवचन⟫ | többes szám (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
+| :--- | :--- | :--- |
+| **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
+| **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
 :::
-Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern": <!-- TODO: Fallback translation -->
-- Jelen idejű tő: **yaja** = ⟪यज⟫ <!-- TODO: Fallback translation -->
-  - 3. sg. P. **yajati** = ⟪यजति⟫ <!-- TODO: Fallback translation -->
-  - 3. pl. P. **yajanti** = ⟪यजन्ति⟫ <!-- TODO: Fallback translation -->
-  - 3. sg. Ā. **yajate** = ⟪यजते⟫ <!-- TODO: Fallback translation -->
-  - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫ <!-- TODO: Fallback translation -->
+Példa **yaj** = ⟪यज्⟫ = "egy áldozattal tisztelni", "áldozni":
+- Jelen idejű tő: **yaja** = ⟪यज⟫
+- 3. sg. P. **yajati** = ⟪यजति⟫
+- 3. pl. P. **yajanti** = ⟪यजन्ति⟫
+- 3. sg. Ā. **yajate** = ⟪यजते⟫
+- 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
-## 6.5. Bildung des Präsensstamms <!-- TODO: Fallback translation -->
+## 6.5. A jelen időstémaképzés
 
-### 6.5.1. Verben der 6. Präsensklasse (tudādi = ⟪तुदादि⟫ = "tud usw.") <!-- TODO: Fallback translation -->
+### 6.5.1. A hatodik jelen időosztályba tartozó igék (tudādi = ⟪तुदादि⟫ = „tud stb.”)
 
 ::: grammar-box
-**Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + a-** <!-- TODO: Fallback translation -->
+**Jelen időstéma = gyökér erős fokozatban (ahol felsorolják) + a-**
 
-| Tő (dhātu m.):br⟪धातु⟫ | Jelen idejű tő | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- | <!-- TODO: Fallback translation -->
-| **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- | <!-- TODO: Fallback translation -->
+| Tő (dhātu m.):br⟪धातु⟫ | Jelen időstéma |
+| :--- | :--- |
+| **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
+| **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
 :::
-### 6.5.2. Verben der 1. Präsensklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.") <!-- TODO: Fallback translation -->
+### 6.5.2. Az első jelen időosztályba tartozó igék (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = „bhū stb.”)
 
 ::: grammar-box
-| Jelen idejű tő = Tő in Hochstufe (selten Dehnstufe) + a- |||| <!-- TODO: Fallback translation -->
-| Tő (dhātu m.):br⟪धातु⟫ | Hochstufe | Hochstufe vor a- | Jelen idejű tő | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- | <!-- TODO: Fallback translation -->
-| **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- | <!-- TODO: Fallback translation -->
-| **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- | <!-- TODO: Fallback translation -->
-| **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- | <!-- TODO: Fallback translation -->
-| Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten, unterbleibt die Képzés der Hochstufe |||| <!-- TODO: Fallback translation -->
-| **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- | <!-- TODO: Fallback translation -->
+| Jelen időstéma = Tő erős fokozatban (ritkán nyújtott fok) + a- ||||
+| Tő (dhātu m.):br⟪धातु⟫ | Erős fokozat | Nyújtott fok a- előtt | Jelen időstéma |
+| :--- | :--- | :--- | :--- |
+| **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
+| **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
+| **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- |
+| **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
+| Ha a magánhangzó hosszú zárt szótagban áll, azaz rövid magánhangzó két vagy több mássalhangzó előtt, akkor a nyújtott fok képzése elmarad ||||
+| **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
-#### 6.5.2.1. Wortsandhi von e und o <!-- TODO: Fallback translation -->
-Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt. <!-- TODO: Fallback translation -->
+#### 6.5.2.1. Szóvégi sandhi az e és o hangok között
+Magánhangzó előtt a szó belsejében az **e** helyett **ay**, az **o** helyett pedig **av** áll.
 
-#### 6.5.2.2. Lautabstufung (Ablaut) <!-- TODO: Fallback translation -->
+#### 6.5.2.2. Hangfokozás (Ablaut)
 
 ::: grammar-box
-| Tiefstufe:brSchwundstufe | Hochstufe:brVollstufe:brGuṇa m.:br⟪गुण⟫ | Dehnstufe:brVṛddhi f.:br⟪वृद्धि⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **ø** | **a** | **ā** | <!-- TODO: Fallback translation -->
-| **i / ī** | **e** | **ai** | <!-- TODO: Fallback translation -->
-| **u / ū** | **o** | **au** | <!-- TODO: Fallback translation -->
-| **ṛ / ṝ** | **ar** | **ār** | <!-- TODO: Fallback translation -->
-| **ḷ** | **al** | **āl** | <!-- TODO: Fallback translation -->
+| Mély fokozat:brgyengült alak | Magas fokozat:brteljes alak:brGuṇa m.:br⟪गुण⟫ | Hosszabbított fokozat:brVṛddhi f.:br⟪वृद्धि⟫ |
+| :--- | :--- | :--- |
+**ø** | **a** | **ā** |
+**i / ī** | **e** | **ai** |
+**u / ū** | **o** | **au** |
+**ṛ / ṝ** | **ar** | **ār** |
+**ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verben der 4. Präsensklasse (divādi = ⟪दिवादि⟫ = "div usw.") <!-- TODO: Fallback translation -->
+### 6.5.3. A negyedik jelen időosztályba tartozó igék (divādi = ⟪दिवादि⟫ = „div stb.”)
 
 ::: grammar-box
-**Präsensstamm = Wurzel in Tiefstufe (in der sie aufgeführt wird) + ya-** <!-- TODO: Fallback translation -->
+**Jelen időtő = gyökér mély fokozatban (ahol felsorolják) + ya-**
 
-| Tő (dhātu m.):br⟪धातु⟫ | Jelen idejű tő | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- | <!-- TODO: Fallback translation -->
-| **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- | <!-- TODO: Fallback translation -->
-| **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- | <!-- TODO: Fallback translation -->
-| **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- | <!-- TODO: Fallback translation -->
+| Tő (dhātu m.):br⟪धातु⟫ | Jelen időtő |
+| :--- | :--- |
+**nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
+**muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
+**yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
+**man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
-### 6.5.4. Themavokal, thematische Präsensklassen <!-- TODO: Fallback translation -->
+### 6.5.4. Témavokál, tematikus jelen időosztályok
 
 ::: grammar-box
-Das **a** in den Stammbildungssuffixen von Präsensklassen nennt man **Themavokal**. Präsensklassen mit **a** im Stammbildungssuffix heissen deswegen "thematische Präsensklassen". <!-- TODO: Fallback translation -->
+Az **a** a jelen idő osztályainak szóképző utótagjaiban **témavokálisnak** nevezzük. A jelen idő osztályait, amelyeknek a szóképző utótagjában **a** van, ezért „témás jelen idő osztályoknak” hívjuk.
 :::
 
-## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫) <!-- TODO: Fallback translation -->
+## 6.6. Beszélt szanszkrit: További kérdések (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
-- **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Was tut N. N.?" <!-- TODO: Fallback translation -->
-- **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = "Was tun die N.N.s?" <!-- TODO: Fallback translation -->
-- (karoti, kurvanti zu **kṛ** = ⟪कृ⟫ 8 U: "tun, machen") <!-- TODO: Fallback translation -->
-- **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = "Geht es Ihnen gut?, Wie geht es Ihnen?" <!-- TODO: Fallback translation -->
-- Antwort: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Es geht mir) in jeder Hinsicht gut." <!-- TODO: Fallback translation -->
+- **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = „Mit csinál N. N.?”
+- **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = „Mit csinálnak a N.N.-k?”
+- (karoti, kurvanti a **kṛ** = ⟪कृ⟫ 8. osztály: „csinál, készít”)
+- **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = „Jól van? Hogy van?”
+- Válasz: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = „(Nekem) minden tekintetben jól van.”
 :::
 
-## 6.7. Wortliste <!-- TODO: Fallback translation -->
+## 6.7. Szószedet
 
 ::: grammar-box
-Im Sanskrit werden die Verben in der **Wurzel-Form** angeführt. Die Zahl nach der Wurzel bedeutet die **Konjugationsklasse**. <!-- TODO: Fallback translation -->
+A szanszkertben az igéket a **tő-alakban** adják meg. A tő után álló szám a **konjugációs osztályt** jelöli.
 
-- **P:** Tő ist nur Parasmaipada <!-- TODO: Fallback translation -->
-- **Ā:** Tő ist nur Ātmanepada <!-- TODO: Fallback translation -->
-- **U:** Ubhayapada ("beide Wortformen"): Tő wird im Parasmaipada und Ātmanepada verwendet. <!-- TODO: Fallback translation -->
-- **():** In Klammern steht die 3. Person egyes szám Jelen idő Indikativ (laṭ). <!-- TODO: Fallback translation -->
+- **P:** A tő csak Parasmaipada
+- **Ā:** A tő csak Ātmanepada
+- **U:** Ubhayapada ("mindkét szóforma"): a tőt Parasmaipada és Ātmanepada kontextusban használják.
+- **():** Zárójelben a 3. személy egyes szám jelen idő indikativ (laṭ) áll.
 :::
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
-- **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : mit einem Opfer verehren, opfern <!-- TODO: Fallback translation -->
-- **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : werden, entstehen, sein <!-- TODO: Fallback translation -->
-- **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : vergegenwärtigen, sich erinnern <!-- TODO: Fallback translation -->
-- **nṛt** 4 P (nṛtyati) ⟪नृत्⟫ ⟪नृत्यति⟫ : tanzen <!-- TODO: Fallback translation -->
-- **nī** 1 U (nayati) ⟪नी⟫ ⟪नयति⟫ : führen <!-- TODO: Fallback translation -->
-- **man** 4 Ā (manyate) ⟪मन्⟫ ⟪मन्यते⟫ : denken <!-- TODO: Fallback translation -->
-- **muh** 4 P (muhyati) ⟪मुह्⟫ ⟪मुह्यति⟫ : verwirrt sein <!-- TODO: Fallback translation -->
-- **yudh** 4 Ā (yudhyate) ⟪युध्⟫ ⟪युध्यते⟫ : kämpfen <!-- TODO: Fallback translation -->
-- **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : eintreten <!-- TODO: Fallback translation -->
-- **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : loslassen, aus sich entlassen, emanieren lassen <!-- TODO: Fallback translation -->
+**Tanulja meg a következő szavakat:**
+- **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : áldozattal tisztel, áldoz
+- **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : válik, keletkezik, van
+- **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : szem előtt tart, emlékezik
+- **nṛt** 4 P (nṛtyati) ⟪नृत्⟫ ⟪नृत्यति⟫ : táncol
+- **nī** 1 U (nayati) ⟪नी⟫ ⟪नयति⟫ : vezet
+- **man** 4 Ā (manyate) ⟪मन्⟫ ⟪मन्यते⟫ : gondol
+- **muh** 4 P (muhyati) ⟪मुह्⟫ ⟪मुह्यति⟫ : összezavarodik
+- **yudh** 4 Ā (yudhyate) ⟪युध्⟫ ⟪युध्यते⟫ : harcol
+- **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : belép
+- **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : elenged, kibocsát, emanál
 
-## 6.8. Übung <!-- TODO: Fallback translation -->
+## 6.8. Gyakorlat
 
-**A) Bilden Sie mit den in Klammern angegebenen Wurzeln durch Einsetzen Verbalsätze:** <!-- TODO: Fallback translation -->
-1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh) <!-- TODO: Fallback translation -->
-   ⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫ <!-- TODO: Fallback translation -->
-2. devas ... (nṛt, yudh, smṛ, sṛj) <!-- TODO: Fallback translation -->
-   ⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫ <!-- TODO: Fallback translation -->
-3. kavis ... (man, smṛ, viś) <!-- TODO: Fallback translation -->
-   ⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫ <!-- TODO: Fallback translation -->
-4. dhenus ... (viś, bhū) <!-- TODO: Fallback translation -->
-   ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫ <!-- TODO: Fallback translation -->
+**A) Alkossön mondatokat a zárójelben megadott tövekkel az igék behelyettesítésével:**
+1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
+⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫
+2. devas ... (nṛt, yudh, smṛ, sṛj)
+⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫
+3. kavis ... (man, smṛ, viś)
+⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
+4. dhenus ... (viś, bhū)
+⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
 
-**B) Setzen Sie die in Übung A gebildeten Sätze in den Plural.** <!-- TODO: Fallback translation -->
+**B) Alkossák meg az A gyakorlatban képzett mondatokat többes számban.**
 
-**C) Übersetzen Sie ins Sanskrit:** <!-- TODO: Fallback translation -->
-1. Er verehrt mit einem Opfer. (Der Opferpriester für einen Opferherrn) <!-- TODO: Fallback translation -->
-2. Śiva tanzt. <!-- TODO: Fallback translation -->
-3. Rāma führt. <!-- TODO: Fallback translation -->
-4. Śūdras sind verwirrt. <!-- TODO: Fallback translation -->
-5. Die Kṣatriyafrauen treten ein. <!-- TODO: Fallback translation -->
-6. Der HERR lässt emanieren. <!-- TODO: Fallback translation -->
-7. Der Kṣatriya verehrt mit einem Opfer. (als Opferherr) <!-- TODO: Fallback translation -->
-8. Śūdrafrauen tanzen. <!-- TODO: Fallback translation -->
-9. Kṣatriyas kämpfen. <!-- TODO: Fallback translation -->
-10. Heilige Männer führen. <!-- TODO: Fallback translation -->
-11. Sie erinnern sich. <!-- TODO: Fallback translation -->
-12. Wer (fem.) tanzt? <!-- TODO: Fallback translation -->
-13. Die (erwähnte) Brahmanin tanzt. <!-- TODO: Fallback translation -->
+**C) Fordítsák szanszkritra:**
+1. Áldozattal tisztel. (Áldozati pap egy áldozatúr számára)
+2. Śiva táncol.
+3. Rāma vezet.
+4. A śūdrák zavarban vannak.
+5. A kṣatriya nők belépnek.
+6. Az ÚR bocsátja ki.
+7. A kṣatriya tisztel áldozattal. (áldozatúrként)
+8. A śūdra nők táncolnak.
+9. A kṣatriyák harcolnak.
+10. Szent férfiak vezetnek.
+11. Emlékeznek.
+12. Ki (nőnemű) táncol?
+13. A (megemlített) bráhmani nő táncol.
 
 ::: media
 ![](/images/lekt0601.webp)
 **Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
-(Bildquelle: Wikipedia, CC-BY-SA 2.5) <!-- TODO: Fallback translation -->
+(Képmegjelenítés forrása: Wikipedia, CC-BY-SA 2.5)
 :::
 
-## 6.9. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 6.9. Ismétlő gyakorlat
 
-**A) Einsetzübung: Bilden Sie Fragen, auf die die Sätze, die Sie nach folgenden Einsetzübungen bilden, Antworten sind:** <!-- TODO: Fallback translation -->
-1. devas ... (īśvara, nṛt, sṛj, agni, indra) <!-- TODO: Fallback translation -->
-   ⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫ <!-- TODO: Fallback translation -->
-2. (dvija, sādhu, kavi) ... brāhmaṇaḥ <!-- TODO: Fallback translation -->
-   ⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-3. (śruti) ... vedaḥ <!-- TODO: Fallback translation -->
-   ⟪श्रुति⟫ ... ⟪वेदः⟫ <!-- TODO: Fallback translation -->
-4. (veda) ... śrutiḥ <!-- TODO: Fallback translation -->
-   ⟪वेद⟫ ... ⟪श्रुतिः⟫ <!-- TODO: Fallback translation -->
-5. (brāhmaṇa, guru) ... yajanti <!-- TODO: Fallback translation -->
-   ⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫ <!-- TODO: Fallback translation -->
-6. (devī) ... indrāṇī <!-- TODO: Fallback translation -->
-   ⟪देवी⟫ ... ⟪इन्द्राणी⟫ <!-- TODO: Fallback translation -->
-7. (śūdra, śūdrā, devī) ... nṛtyanti <!-- TODO: Fallback translation -->
-   ⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫ <!-- TODO: Fallback translation -->
-8. (kṣatriya) ... yudhyante <!-- TODO: Fallback translation -->
-   ⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫ <!-- TODO: Fallback translation -->
-9. (brāhmaṇa, brāhmaṇī) ... viśanti <!-- TODO: Fallback translation -->
-   ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫ <!-- TODO: Fallback translation -->
-10. (guru) ... candrakīrtiḥ <!-- TODO: Fallback translation -->
-    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫ <!-- TODO: Fallback translation -->
-11. (sādhu) ... rāmaḥ <!-- TODO: Fallback translation -->
-    ⟪साधु⟫ ... ⟪रामः⟫ <!-- TODO: Fallback translation -->
+**A) Beillesztési gyakorlat: Képezzen kérdéseket, amelyekre a következő beillesztési gyakorlatok után képzett mondatok válaszai vannak:**
+1. devas ... (īśvara, nṛt, sṛj, agni, indra)
+⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫
+2. (dvija, sādhu, kavi) ... brāhmaṇaḥ
+⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫
+3. (śruti) ... vedaḥ
+⟪श्रुति⟫ ... ⟪वेदः⟫
+4. (veda) ... śrutiḥ
+⟪वेद⟫ ... ⟪श्रुतिः⟫
+5. (brāhmaṇa, guru) ... yajanti
+⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫
+6. (devī) ... indrāṇī
+⟪देवी⟫ ... ⟪इन्द्राणी⟫
+7. (śūdra, śūdrā, devī) ... nṛtyanti
+⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫
+8. (kṣatriya) ... yudhyante
+⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫
+9. (brāhmaṇa, brāhmaṇī) ... viśanti
+⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
+10. (guru) ... candrakīrtiḥ
+⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+11. (sādhu) ... rāmaḥ
+⟪साधु⟫ ... ⟪रामः⟫
 
-**B) Setzen Sie in den Plural:** <!-- TODO: Fallback translation -->
-1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫ <!-- TODO: Fallback translation -->
-2. kaiṣā. = ⟪कैषा⟫ <!-- TODO: Fallback translation -->
-3. kṣatriyo yajate. = ⟪क्षत्रियो⟫ ⟪यजते⟫ <!-- TODO: Fallback translation -->
-4. sādhvī smarati. = ⟪साध्वी⟫ ⟪स्मरति⟫ <!-- TODO: Fallback translation -->
-5. vaiśyā muhyati. = ⟪वैश्या⟫ ⟪मुह्यति⟫ <!-- TODO: Fallback translation -->
-6. sṛjati. = ⟪सृजति⟫ <!-- TODO: Fallback translation -->
-7. devī manyate. = ⟪देवी⟫ ⟪मन्यते⟫ <!-- TODO: Fallback translation -->
-8. gururviśati. = ⟪गुरुर्विशति⟫ <!-- TODO: Fallback translation -->
-9. ko 'yam. = ⟪को⟫ ⟪ऽयम्⟫ <!-- TODO: Fallback translation -->
-10. iyaṃ devī nṛtyati. = ⟪इयं⟫ ⟪देवी⟫ ⟪नृत्यति⟫ <!-- TODO: Fallback translation -->
-11. eṣa devo yudhyate. = ⟪एष⟫ ⟪देवो⟫ ⟪युध्यते⟫ <!-- TODO: Fallback translation -->
-12. sa sṛjati. = ⟪स⟫ ⟪सृजति⟫ <!-- TODO: Fallback translation -->
-13. paśurdhenuḥ. = ⟪पशुर्धेनुः⟫ <!-- TODO: Fallback translation -->
-14. keyam. = ⟪केयम्⟫ <!-- TODO: Fallback translation -->
+**B) Alakítsa többes számra:**
+1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫
+2. kaiṣā. = ⟪कैषा⟫
+3. kṣatriyo yajate. = ⟪क्षत्रियो⟫ ⟪यजते⟫
+4. sādhvī smarati. = ⟪साध्वी⟫ ⟪स्मरति⟫
+5. vaiśyā muhyati. = ⟪वैश्या⟫ ⟪मुह्यति⟫
+6. sṛjati. = ⟪सृजति⟫
+7. devī manyate. = ⟪देवी⟫ ⟪मन्यते⟫
+8. gururviśati. = ⟪गुरुर्विशति⟫
+9. ko 'yam. = ⟪को⟫ ⟪ऽयम्⟫
+10. iyaṃ devī nṛtyati. = ⟪इयं⟫ ⟪देवी⟫ ⟪नृत्यति⟫
+11. eṣa devo yudhyate. = ⟪एष⟫ ⟪देवो⟫ ⟪युध्यते⟫
+12. sa sṛjati. = ⟪स⟫ ⟪सृजति⟫
+13. paśurdhenuḥ. = ⟪पशुर्धेनुः⟫
+14. keyam. = ⟪केयम्⟫
 
-**C) Bilden Sie das Ātmanepada zu:** <!-- TODO: Fallback translation -->
-1. rāmo yajati. = ⟪रामो⟫ ⟪यजति⟫ <!-- TODO: Fallback translation -->
-2. kṣatriyā nayanti. = ⟪क्षत्रिया⟫ ⟪नयन्ति⟫ <!-- TODO: Fallback translation -->
+**C) Alakítsa az Ātmanepada alakot:**
+1. rāmo yajati. = ⟪रामो⟫ ⟪यजति⟫
+2. kṣatriyā nayanti. = ⟪क्षत्रिया⟫ ⟪नयन्ति⟫
 
-**D) Bilden Sie das Femininum zu:** <!-- TODO: Fallback translation -->
-1. śūdro nayati. = ⟪शूद्रो⟫ ⟪नयति⟫ <!-- TODO: Fallback translation -->
-2. sādhurviśati. = ⟪साधुर्विशति⟫ <!-- TODO: Fallback translation -->
-3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः⟫ ⟪स्मरति⟫ <!-- TODO: Fallback translation -->
-4. kṣatriyo yudhyate. = ⟪क्षत्रियो⟫ ⟪युध्यते⟫ <!-- TODO: Fallback translation -->
-5. devo guruḥ. = ⟪देवो⟫ ⟪गुरुः⟫ <!-- TODO: Fallback translation -->
+**D) Alakítsa a nőnemű alakot:**
+1. śūdro nayati. = ⟪शूद्रो⟫ ⟪नयति⟫
+2. sādhurviśati. = ⟪साधुर्विशति⟫
+3. brāhmaṇaḥ smarati. = ⟪ब्राह्मणः⟫ ⟪स्मरति⟫
+4. kṣatriyo yudhyate. = ⟪क्षत्रियो⟫ ⟪युध्यते⟫
+5. devo guruḥ. = ⟪देवो⟫ ⟪गुरुः⟫
 
-**E) Übersetzen Sie:** <!-- TODO: Fallback translation -->
-1. devatānnapūrṇā. = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
-2. śūdretarā. = ⟪शूद्रेतरा⟫ <!-- TODO: Fallback translation -->
-3. vaiśyastulādhāraḥ. = ⟪वैश्यस्तुलाधारः⟫ <!-- TODO: Fallback translation -->
-4. kavirmāghaḥ. = ⟪कविर्माघः⟫ <!-- TODO: Fallback translation -->
-5. devyumā. = ⟪देव्युमा⟫ <!-- TODO: Fallback translation -->
-6. śrutirvedaḥ. = ⟪श्रुतिर्वेदः⟫ <!-- TODO: Fallback translation -->
-7. dhenurviśati. = ⟪धेनुर्विशति⟫ <!-- TODO: Fallback translation -->
-8. guruścaitanyaḥ. = ⟪गुरुश्चैतन्यः⟫ <!-- TODO: Fallback translation -->
-9. devīndrāṇī. = ⟪देवीन्द्राणी⟫ <!-- TODO: Fallback translation -->
-10. sādhurguruḥ. = ⟪साधुर्गुरुः⟫ <!-- TODO: Fallback translation -->
-11. gururyajate. = ⟪गुरुर्यजते⟫ <!-- TODO: Fallback translation -->
+**E) Fordítsa le:**
+1. devatānnapūrṇā. = ⟪देवतान्नपूर्णा⟫
+2. śūdretarā. = ⟪शूद्रेतरा⟫
+3. vaiśyastulādhāraḥ. = ⟪वैश्यस्तुलाधारः⟫
+4. kavirmāghaḥ. = ⟪कविर्माघः⟫
+5. devyumā. = ⟪देव्युमा⟫
+6. śrutirvedaḥ. = ⟪श्रुतिर्वेदः⟫
+7. dhenurviśati. = ⟪धेनुर्विशति⟫
+8. guruścaitanyaḥ. = ⟪गुरुश्चैतन्यः⟫
+9. devīndrāṇī. = ⟪देवीन्द्राणी⟫
+10. sādhurguruḥ. = ⟪साधुर्गुरुः⟫
+11. gururyajate. = ⟪गुरुर्यजते⟫
 
-**F) Übersetzen Sie ins Sanskrit:** <!-- TODO: Fallback translation -->
-1. Rāma opfert (als Opferherr). <!-- TODO: Fallback translation -->
-2. Durgā ist eine Göttin. <!-- TODO: Fallback translation -->
-3. Mīnākṣī ist eine Göttin. <!-- TODO: Fallback translation -->
+**F) Fordítsa le szanszkritra:**
+1. Rāma áldozatot végez (áldozat urakéntszin).
+2. Durgā egy istennő.
+3. Mīnākṣī egy istennő.
 
 ::: media
 ![](/images/lekt0602.webp)
-**Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī-Tempel, Madurai, Tamil Nadu
-(Bildquelle: Wikipedia, Public domain) <!-- TODO: Fallback translation -->
+**Mīnākṣī** (⟪मीनाक्षी⟫), Mīnākṣī-templom, Madurai, Tamil Nadu
+(Kép forrása: Wikipedia, közkincs)
 :::
-4. Sie sind verwirrt. <!-- TODO: Fallback translation -->
-5. Rāma ist ein heiliger Mann. <!-- TODO: Fallback translation -->
-6. Wer ist der HERR? <!-- TODO: Fallback translation -->
-7. Indra ist der HERR. <!-- TODO: Fallback translation -->
-8. Die Nutztiere treten ein. <!-- TODO: Fallback translation -->
-9. Viṣṇu lässt emanieren = Viṣṇu erschafft. <!-- TODO: Fallback translation -->
-10. Zweimalgeborene sind gut. <!-- TODO: Fallback translation -->
-11. Das dreifache (Wissen) ist der Sāmaveda, der Ṛgveda und der Yajurveda. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
-12. Diese Göttin ist gut. <!-- TODO: Fallback translation -->
-13. Die fünf "Qualen" sind: Nichtwissen, Ichwahn, Leidenschaft (Liebe), Hass, Anhänglichkeit an den Leib. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
-14. "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
-15. Diese Brahmanen opfern im Auftrag anderer. <!-- TODO: Fallback translation -->
-16. Brahmanen, Kṣatriyas und Vaśyas sind Zweimalgeborene. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
-17. Die Wissenschaften (für einen Fürsten) sind: Philosophie, das dreifache (Vedawissen), Ökonomie und Politik. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
-18. Geht es Ihnen gut? <!-- TODO: Fallback translation -->
-19. (Es geht mir) in jeder Hinsicht gut. <!-- TODO: Fallback translation -->
+4. Ők zavarodottak.
+5. Rāma egy szent ember.
+6. Ki az ÚR?
+7. Indra az ÚR.
+8. A haszonállatok belépnek.
+9. Viṣṇu emanáltat = Viṣṇu teremt.
+10. A kétszerszülöttek jók.
+11. A hármas (tudás) a Sāmaveda, a Ṛgveda és a Yajurveda. (2 lehetőség)
+12. Ez az istennő jó.
+13. Az öt "gyötrelem": a nemtudás, az énhit, a szenvedély (szerelem), a gyűlölet, a testhez való ragaszkodás. (2 lehetőség)
+14. "Brahmā tartózkodási állapotai": a baráti jóakarat, az együttérzés, az együttörvendés, az egykedvűség. (2 lehetőség)
+15. Ezek a brahmanok mások megbízásából áldoznak.
+16. A brahmanok, a kṣatriyák és a vaiśyák kétszerszülöttek. (2 lehetőség)
+17. A tudományok (egy fejedelem számára) a következők: filozófia, a hármas (véda-tudás), gazdaságtan és politika. (2 lehetőség)
+18. Jól van?
+19. (Nekem) minden tekintetben jól megy.

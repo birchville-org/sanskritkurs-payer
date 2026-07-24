@@ -1,6 +1,6 @@
 ---
 title: Lektion 61
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+subtitle: "Deklination der Radisnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable
@@ -8,7 +8,7 @@ status: stable
 
 # Lektion 61
 
-## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū
+## 61.1. Deklination der Radisnomina auf -ā, -ī, -ū
 
 ### 61.1.1. Noms da radis cun la desinenza -ā a la fin da ⟪तत्पुरुष⟫
 
@@ -31,7 +31,7 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Wurzelnomina auf -ī
+### 61.1.2. Feminine Radisnomina auf -ī
 
 ::: grammar-box
 **Vor vokalischer Endung wird -ī durch -iy ersetzt.**
@@ -107,12 +107,12 @@ Paradigmas:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
+### 61.1.4. Einsilbige, feminine Radisnomina auf -ū
 
 ::: grammar-box
 **Radix avant vocal: -uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī**
+**Deklination analog zu den femininen Radisnomina auf -ī**
 :::
 Paradigma:
 
@@ -269,7 +269,7 @@ Karnataka = ಕರ್ನಾಟಕ
 ::: grammar-box
 **Educaziun:**
 
-**reduplizierte Wurzel + -ya-**
+**reduplizierte Radis + -ya-**
 
 **Forma da la radischa: en general sco en il passiv, uschia per ordinari nivel bass:**
 
@@ -321,7 +321,7 @@ z.B.
 ### 61.3.2. Intensivum dal Parasmaipada
 
 ::: grammar-box
-**Stema dal present (autras furmas èn extreamamain raras): furmaziun e coniugaziun sco in verbdella 3. classa dal present (⟪जुहोत्यादिगण⟫) cun la differenza che la vocala da la sillaba da la reduplicaziun è da nivel aut, en cas da -a- da nivel da lunghezza.**
+**Stema dal present (autras furmas èn extreamamain raras): furmaziun e coniugaziun sco in verbda la 3. classa dal present (⟪जुहोत्यादिगण⟫) cun la differenza che la vocala da la sillaba da la reduplicaziun è da nivel aut, en cas da -a- da nivel da lunghezza.**
 
 **Al singular indicativ presenz sco 2.3.sg. imperfect e 3.sg.imperativ po vegnir intercalà tranter la radis e la desinenza in -ī-. Sche quest -ī- vegn intercalà, na d’è in vocal curt avant l’ultima posiziun betg da vegnir guṇit.**
 
@@ -331,7 +331,7 @@ Paradigma:
 
 ⟪भू⟫ 1P
 
-Indikativ Präsens (⟪लट्⟫):
+Indicativ preschent (⟪लट्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -340,7 +340,7 @@ Indikativ Präsens (⟪लट्⟫):
 | 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
 :::
-Imperfekt (⟪लङ्⟫):
+Imperfect (⟪लङ्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -497,10 +497,10 @@ Karli
 :::
 **Cunstrucziun:**
 
-*   **auslautendes -a » -ā**
-*   **auslautendes -ā bleibt unverändert**
+*   **final -a » -ā**
+*   **final -ā bleibt unverändert**
 *   **sonst wie vor -ya, Parasmaipada (siehe oben 4.2.)**
-*   **auslautendes -as wahlweise » -ā**
+*   **final -as wahlweise » -ā**
 *   **Femininstamm meist » Maskulinstamm**
 
 Ezempels:
@@ -585,7 +585,7 @@ p.ex. ⟪बुध्यासम्⟫ "che jau scuvigliai!"
 
 **oppur:**
 
-**(hochstufige) Wurzel + ⟪ै⟫ + sī(y) + Sekundäraendung**
+**(hochstufige) Radis + ⟪ै⟫ + sī(y) + Sekundäraendung**
 
 ::: indent
 p.ex.
@@ -628,7 +628,7 @@ Exempel:
 
 **Augment + Stamm des einfachen Futur (⟪ऌत्⟫) + Sekundärendung**
 
-d.h. wie ein Imperfekt (⟪लङ्⟫) al stem dal futur.
+d.h. wie ein Imperfect (⟪लङ्⟫) al stem dal futur.
 
 z.B. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
 :::
@@ -706,7 +706,7 @@ Neutrum (⟪नपुंसक⟫)
 Resta sco mascolin
 
 :::
-Femininum (⟪स्त्री⟫)
+Feminin (⟪स्त्री⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |

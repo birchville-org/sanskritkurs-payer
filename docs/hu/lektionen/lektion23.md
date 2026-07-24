@@ -1,94 +1,94 @@
 ---
 title: Lektion 23
-subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
+subtitle: "A végtelen mód (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "Nyelvtan"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 23 <!-- TODO: Fallback translation -->
+# Lektion 23
 
-## 23.1. Der Infinitiv (⟪तुमुन्⟫) <!-- TODO: Fallback translation -->
-
-::: grammar-box
-**Will man in Sanskrit ausdrücken, dass eine Tätigkeit um einer anderen Tätigkeit willen geschieht ("um zu"), kann man für die Tätigkeit, um deren willen es geschieht, den Infinitiv (⟪तुमुन्⟫) verwenden. Der Infinitiv bezeichnet in erster Linie den Zweck oder die Absicht:** <!-- TODO: Fallback translation -->
-
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Rāma ist gegangen, um die Rede des Meisters zu hören." <!-- TODO: Fallback translation -->
-
-**Beachten Sie, dass der Infinitiv - mit einigen fest definierten Ausnahmen - nicht als Subjekt oder Objekt eines Verbs stehen kann:** <!-- TODO: Fallback translation -->
-
-> "Er lernt tanzen" darf man also nicht mit dem Infinitiv ("tanzen") übersetzen, sondern muss ein Verbalnomen verwenden, z.B.: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "lernen"). <!-- TODO: Fallback translation -->
-
-**Der Infinitiv wird auch verwendet mit Verben und Substantiven in der Bedeutung "wünschen" oder "sich sehnen", wenn der Agens (⟪कर्तृ⟫) des Infinitivs und des Verbs identisch sind:** <!-- TODO: Fallback translation -->
-
-> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Rāma wünscht, die Rede des Meisters zu hören." <!-- TODO: Fallback translation -->
-
-**Der Infinitiv wird u.a. auch verwendet bei Verben in den Bedeutungen "fähig sein", "es gibt", "wissen", "beginnen":** <!-- TODO: Fallback translation -->
-
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Ein Heiliger kann kein Unrecht tun."   <!-- TODO: Fallback translation -->
-> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Es gibt Speise zu essen" (⟪भुज्⟫ 7: Ā: esssen, P: regieren) <!-- TODO: Fallback translation -->
-
-**Der Infinitiv wird auch verwendet mit Wörtern in den Bedeutungen "ausreichend", "fähig" und mit Substantiven in den Bedeutungen "Fähigkeit", "Kraft", "Geschicklichkeit":** <!-- TODO: Fallback translation -->
-
-> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "Feuer hat die Macht, alles zu verbrennen." <!-- TODO: Fallback translation -->
-
-**Auch mit Wörtern in der Bedeutung "Zeit" kann der Infinitiv verwendet werden in Ausdrücken wie "Es ist Zeit zu ...":** <!-- TODO: Fallback translation -->
-
-> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = "Es ist Zeit, sich dem Essen zu widmen" = "Es ist Zeit zu essen" <!-- TODO: Fallback translation -->
-
-**Der Infinitiv kann aktivisch und passivisch verwendet werden. Ein passiver Infinitiv im Deutschen wird im Sanskrit dadurch wiedergegeben, dass das Verb (besonders häufig ⟪शक्⟫ "fähig sein, können"), von dem der Infinitiv abhängt, ins Passiv gesetzt wird.** <!-- TODO: Fallback translation -->
-
-**Bezüglich des Objekts verhält sich der Infinitiv wie eine Verbalform, d.h. das direkte Objekt (⟪कर्मन्⟫) steht bei aktivisch gebrauchtem Infinitiv im Akkusativ (⟪द्वितीया⟫), bzw. dem Kasus, den das betr. Verb verlangt ; bei passivisch gebrauchtem Infinitiv steht das direkte Objekt im Nominativ.** <!-- TODO: Fallback translation -->
-
-z.B. <!-- TODO: Fallback translation -->
-
-> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Ein Heiliger kann kein Unrecht tun." <!-- TODO: Fallback translation -->
-
-**In der 2. Person wird ⟪अर्ह्⟫ + Infinitiv oft als milder Befehl verwendet: "Du solltest".** <!-- TODO: Fallback translation -->
-
-**Wenn der Infinitiv von einem Nomen abhängt, darf er mit diesem nicht zu einem Kompositum verbunden werden. Ausgenommen sind Bahuvrīhi, deren zweites Glied ⟪काम⟫ oder ⟪मनस्⟫ ist:** <!-- TODO: Fallback translation -->
-
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "einer dessen Wunsch es ist, zu sprechen; einer, der zu sprechen wünscht". <!-- TODO: Fallback translation -->
-:::
-## 23.2. Bildung des Infinitiv (⟪तुमुन्⟫) <!-- TODO: Fallback translation -->
+## 23.1. A végtelen mód (⟪तुमुन्⟫)
 
 ::: grammar-box
-**hochstufige Wurzel + -tum** <!-- TODO: Fallback translation -->
+**Ha szanszkritul azt szeretnénk kifejezni, hogy egy tevékenység egy másik tevékenység céljából történik („hogy…-jon”), a cselekvés, amelynek célja, kifejezésére használhatjuk a végtelen módot (⟪तुमुन्⟫). A végtelen mód elsősorban a célt vagy szándékot jelöli:**
 
-**oder** <!-- TODO: Fallback translation -->
+> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ = "Ráma elment, hogy meghallgassa a mester beszédét."
 
-**hochstufige Wurzel + -i- + -tum** <!-- TODO: Fallback translation -->
+**Vegye észre, hogy az infinitívuszt – néhány szigorúan meghatározott kivételtől eltekintve – nem lehet igének alanyaként vagy tárgyaként használni:**
 
-**Auslautende Konsonanten der Wurzel werden vor -tum nach denselben Regeln verändert wie vor dem -ta des PPP.** <!-- TODO: Fallback translation -->
+> "Megtanul táncolni" tehát nem lehet az infinitívussal ("táncolni") lefordítani, hanem egy névmást kell használni, például: ⟪नर्तनमधीते⟫ (⟪इ⟫ + ⟪अधि⟫ 2 Ā: "tanulni").
 
-**Verben mit Präverb bilden den Infinitiv in gleicher Weise wie die einfachen Wurzeln.** <!-- TODO: Fallback translation -->
+**Az infinitívuszt akkor is használjuk igék és főnevek "kívánni" vagy "vágyakozni" jelentésében, ha az infinitívus és az ige alanya (⟪कर्तृ⟫) megegyezik:**
+
+> ⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुमिच्छति⟫ = "Ráma hallani kívánja a mester beszédét."
+
+**Az infinituszt többek között olyan igékben használják, amelyek jelentése: "képes lenni", "létezik", "tudni", "kezdeni":**
+
+> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = "Egy szent nem tehet jót."
+> ⟪अस्ति⟫ ⟪भोक्तुमन्नम्⟫ = "Van mit enni" (⟪भुज्⟩ 7: Ā: esssen, P: regieren)
+
+**Az infinituszt továbbá olyan szavakkal használják, amelyek jelentése: "megfelelő", "képes" és olyan főnevekkel, amelyek jelentése: "képesség", "erő", "ügyesség":**
+
+> ⟪अस्त्यग्नेर्विभवः⟫ ⟪सर्वं⟫ ⟪दग्धुम्⟫ = "A tűnek ereje van mindent elégetni."
+
+**Az infinitívuszt a „idő” jelentésű szavakkal is lehet használni olyan kifejezésekben, mint „Idő van a ...-ra”:**
+
+> ⟪कालो⟫ ⟪भोजनं⟫ ⟪सेवितुम्⟫ = „Idő van az evésre összpontosítani” = „Idő van enni”
+
+**Az infinitívuszt aktívan és passzívan is lehet használni. A német nyelvben a passzív infinitívuszt szanszkritban úgy adják vissza, hogy az igét (különösen gyakran a ⟪शक्⟫ „képes lenni, tudni” igét), amelytől az infinitívus függ, passzív alakba helyezzük.**
+
+**A tekintetben az igeigek viselkedése hasonló egy ragozott igéhez, azaz a közvetlen tárgy (⟪कर्मन्⟫) az aktívan használt igeigénél accusativusban áll (⟪द्वितीया⟫), vagyis abban az esetben, amelyet a szóban forgó ige megkövetel; passzívan használt igeigénél a közvetlen tárgy nominativusban áll.**
+
+pl.
+
+> ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "Egy szent nem követhet el bűnt."
+
+**A 2. személyben a ⟪अर्ह्⟫ + igeképző gyakran enyhített parancsként használatos: "Te kellene, hogy..."**
+
+**Ha az infinitívus egy főnévtől függ, nem kapcsolódhat hozzá összetett szóként. Kivételt képeznek a Bahuvrīhi-szavak, amelyek második tagja ⟪काम⟫ vagy ⟪मनस्⟫:**
+
+> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = „egy olyan, akinek a vágya beszélni; egy, aki beszélni kíván”.
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+## 23.2. Az infinitívus képzése (⟪तुमुन्⟫)
+
+::: grammar-box
+**magas fokú gyökér + -tum**
+
+**vagy**
+
+**magas rangú gyökér + -i- + -tum**
+
+**A gyökör végződő mássalhangzói a -tum előtt ugyanazok szerint változnak, mint a PPP -ta előtti esetben.**
+
+**Préfixumos igék az infinitívust ugyanúgy képezik, mint a egyszerű gyökök.**
+:::
+Példák:
 
 ::: indent
-⟪दिश्⟫ : ⟪देष्टुम्⟫  
-⟪रुद्⟫ : ⟪रोदितुम्⟫ <!-- TODO: Fallback translation -->
+⟪दिश्⟫ : ⟪देष्टुम्⟫
+⟪रुद्⟫ : ⟪रोदितुम्⟫
 :::
-Über die Verwendung des Bindevokals -i- lassen sich keine festen Regeln aufstellen. Im Wesentlichen stimmt die Verteilung des Bindevokals beim Infinitiv mit der des Futurs überein. <!-- TODO: Fallback translation -->
+Az -i- kötőmagyaró használatáról nem lehet szilárd szabályokat felállítani. Alapvetően az infinitívus esetében a kötőmagyaró eloszlása megegyezik az időjelével.
 
-Zu den bisher gelernten Wurzeln sind folgende Infinitive besonders zu beachten: <!-- TODO: Fallback translation -->
+A eddig tanult gyökökhöz a következő infinitívusok különösen figyelembe veendők:
 
 ::: indent
-⟪गम्⟫ : ⟪गन्तुम्⟫ <!-- TODO: Fallback translation -->
+⟪गम्⟫ : ⟪गन्तुम्⟫
 
-⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫ <!-- TODO: Fallback translation -->
+⟪प्रच्छ्⟫ : ⟪प्रष्टुम्⟫
 :::
--ra- als Hochstufe zu -ṛ- haben im Infinitiv: <!-- TODO: Fallback translation -->
+-ra- als Hochstufe zu -ṛ- haben im Infinitiv:
 
 ::: indent
-⟪दृश्⟫ : ⟪द्रष्टुम्⟫ <!-- TODO: Fallback translation -->
+⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
-⟪सृज्⟫ : ⟪स्रष्टुम्⟫ <!-- TODO: Fallback translation -->
+⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind. <!-- TODO: Fallback translation -->
+Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
-## 23.3. Der Infinitiv (⟪तुमुन्⟫) zu den bisher gelernten Wurzeln <!-- TODO: Fallback translation -->
+## 23.3. Az infinitívus (⟪तुमुन्⟫) a eddig tanult gyökökhez
 
 ⟪अद्⟫ 2P ⟪अत्तुम्⟫  
 ⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
@@ -149,180 +149,180 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 ⟪स्तु⟫ 2U ⟪स्तोतुम्⟫  
 ⟪स्था⟫ 1P ⟪स्थातुम्⟫  
 ⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
-⟪हन्⟫ 2P ⟪हन्तुम्⟫   <!-- TODO: Fallback translation -->
+⟪हन्⟫ 2P ⟪हन्तुम्⟫
 
-## 23.4. Wortliste <!-- TODO: Fallback translation -->
+## 23.4. Szószedet
 
-⟪समान⟫ ⟪३⟫: gleich <!-- TODO: Fallback translation -->
+⟪समान⟫ ⟪३⟫: egyenlő
 
-⟪सामान्य⟫ n.: Gleichheit, Übereinstimmung <!-- TODO: Fallback translation -->
+⟪सामान्य⟫ n.: egyenlőség, összhang
 
-⟪अधिक⟫ ⟪३⟫ : überschüssig, zusätzlich, grösser, besser, ausserordentlich <!-- TODO: Fallback translation -->
+⟪अधिक⟫ ⟪३⟫ : fölösleges, további, nagyobb, jobb, rendkívüli
 
-⟪विशेष⟫ m.: Besonderheit, Spezifikation, differentia specifica <!-- TODO: Fallback translation -->
+⟪विशेष⟫ m.: sajátosság, specifikáció, differentia specifica
 
-## 23.5. Übung <!-- TODO: Fallback translation -->
+## 23.5. Gyakorlat
 
-A) Folgende Wurzeln bilden den Infinitiv ohne Bindevokal -i-. Bilden Sie den Infinitiv unter Beachtung der Lautveränderungen zu: <!-- TODO: Fallback translation -->
+A) Az alábbi gyökök képezik az infinitivumot -i- kötőmag hang nélkül. Képezd az infinitivumot a hangváltoztatások figyelembevételével:
 
-1.  ⟪आप्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪इ⟫ <!-- TODO: Fallback translation -->
-3.  ⟪गम्⟫ <!-- TODO: Fallback translation -->
-4.  ⟪कृ⟫ <!-- TODO: Fallback translation -->
-5.  ⟪क्रुध्⟫ <!-- TODO: Fallback translation -->
-6.  ⟪जि⟫ <!-- TODO: Fallback translation -->
-7.  duh (⟪दुह्⟫) <!-- TODO: Fallback translation -->
-8.  ⟪दिश्⟫ <!-- TODO: Fallback translation -->
-9.  ⟪दह्⟫ <!-- TODO: Fallback translation -->
-10.  ⟪सृज्⟫ <!-- TODO: Fallback translation -->
-11.  ⟪द्विष्⟫ <!-- TODO: Fallback translation -->
-12.  ⟪नी⟫ <!-- TODO: Fallback translation -->
-13.  ⟪पद्⟫ <!-- TODO: Fallback translation -->
-14.  ⟪पा⟫ ⟪१⟫ <!-- TODO: Fallback translation -->
-15.  ⟪पा⟫ ⟪२⟫ <!-- TODO: Fallback translation -->
-16.  ⟪भज्⟫ <!-- TODO: Fallback translation -->
-17.  ⟪कृष्⟫ <!-- TODO: Fallback translation -->
-18.  ⟪सु⟫ <!-- TODO: Fallback translation -->
-19.  ⟪मन्⟫ <!-- TODO: Fallback translation -->
-20.  ⟪मुच्⟫ <!-- TODO: Fallback translation -->
-21.  ⟪मृ⟫ <!-- TODO: Fallback translation -->
-22.  ⟪यज्⟫ <!-- TODO: Fallback translation -->
-23.  ⟪युध्⟫ <!-- TODO: Fallback translation -->
-24.  ⟪वच्⟫ <!-- TODO: Fallback translation -->
-25.  ⟪विश्⟫ <!-- TODO: Fallback translation -->
-26.  ⟪श्रु⟫ <!-- TODO: Fallback translation -->
-27.  ⟪प्रच्छ्⟫ <!-- TODO: Fallback translation -->
-28.  ⟪सिच्⟫ <!-- TODO: Fallback translation -->
-29.  ⟪स्तु⟫ <!-- TODO: Fallback translation -->
-30.  ⟪स्था⟫ <!-- TODO: Fallback translation -->
-31.  ⟪स्मृ⟫ <!-- TODO: Fallback translation -->
-32.  ⟪हन्⟫ <!-- TODO: Fallback translation -->
-33.  ⟪लभ्⟫ <!-- TODO: Fallback translation -->
-34.  ⟪अद्⟫ <!-- TODO: Fallback translation -->
-35.  ⟪दृश्⟫ <!-- TODO: Fallback translation -->
-36.  ⟪पच्⟫ <!-- TODO: Fallback translation -->
-37.  ⟪सद्⟫ <!-- TODO: Fallback translation -->
+1. ⟪आप्⟫
+2. ⟪इ⟫
+3. ⟪गम्⟫
+4. ⟪कृ⟫
+5. ⟪क्रुध्⟫
+6. ⟪जि⟫
+7. duh (⟪दुह्⟫)
+8. ⟪दिश्⟫
+9. ⟪दह्⟫
+10. ⟪सृज्⟫
+11. ⟪द्विष्⟫
+12. ⟪नी⟫
+13. ⟪पद्⟫
+14. ⟪पा⟫ ⟪१⟫
+15. ⟪पा⟫ ⟪२⟫
+16. ⟪भज्⟫
+17. ⟪कृष्⟫
+18. ⟪सु⟫
+19. ⟪मन्⟫
+20. ⟪मुच्⟫
+21. ⟪मृ⟫
+22. ⟪यज्⟫
+23. ⟪युध्⟫
+24. ⟪वच्⟫
+25. ⟪विश्⟫
+26. ⟪श्रु⟫
+27. ⟪प्रच्छ्⟫
+28. ⟪सिच्⟫
+29. ⟪स्तु⟫
+30. ⟪स्था⟫
+31. ⟪स्मृ⟫
+32. ⟪हन्⟫
+33. ⟪लभ्⟫
+34. ⟪अद्⟫
+35. ⟪दृश्⟫
+36. ⟪पच्⟫
+37. ⟪सद्⟫
 
-B) Folgende Wurzeln bilden den Infinitiv mit Bindevokal -i-. Bilden Sie den Infinitiv zu: <!-- TODO: Fallback translation -->
+B) Az alábbi gyökök képezik az infinitivumot -i- kötőmaggal. Képezd az infinitivumot:
 
-1.  ⟪आस्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪नृत्⟫ <!-- TODO: Fallback translation -->
-3.  ⟪रक्ष्⟫ <!-- TODO: Fallback translation -->
-4.  ⟪रुद्⟫ <!-- TODO: Fallback translation -->
-5.  ⟪वद्⟫ <!-- TODO: Fallback translation -->
-6.  ⟪वृत्⟫ <!-- TODO: Fallback translation -->
-7.  ⟪कुप्⟫ <!-- TODO: Fallback translation -->
+1. ⟪आस्⟫
+2. ⟪नृत्⟫
+3. ⟪रक्ष्⟫
+4. ⟪रुद्⟫
+5. ⟪वद्⟫
+6. ⟪वृत्⟫
+7. ⟪कुप्⟫
 
-C) Folgende Wurzeln wahlweise mit oder ohne Bindevokal: <!-- TODO: Fallback translation -->
+C) A következő gyökök választás szerint kötőmaggal vagy anélkül:
 
-1.  ⟪अश्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪इष्⟫ <!-- TODO: Fallback translation -->
-3.  ⟪बुध्⟫ <!-- TODO: Fallback translation -->
-4.  ⟪मुह्⟫ (3 Formen!) <!-- TODO: Fallback translation -->
-5.  ⟪सह्⟫ <!-- TODO: Fallback translation -->
+1. ⟪अश्⟫
+2. ⟪इष्⟫
+3. ⟪बुध्⟫
+4. ⟪मुह्⟫ (3 alak!)
+5. ⟪सह्⟫
 
-D) Übersetzen Sie und lösen Sie die Komposita auf: <!-- TODO: Fallback translation -->
+D) Fordítsa le, és bontsa fel a szanszkrit összetételeket:
 
-⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪नराः⟫ ⟪स्वर्गं⟫ ⟪लब्धुं⟫ ⟪देवान्यज्ञैर्यष्टुमिच्छन्ति⟫ ⟪॥१॥⟫
 
-⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪महापुण्यं⟫ ⟪कृत्वा⟫ ⟪गतपापजनेन⟫ ⟪नरकं⟫ ⟪गन्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ ⟪॥२॥⟫
 
-⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪फलवन्ति⟫ ⟪पुण्यानीति⟫ ⟪सज्जनो⟫ ⟪ऽधर्मं⟫ ⟪कर्तुं⟫ ⟪नेच्छति⟫ ⟪॥३॥⟫
 
 ::: media
 ![](/images/lekt2303.webp)
-Abb.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
-ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย
-(Bildquelle: [Details](/licenses#lekt2303)) <!-- TODO: Fallback translation -->
+Kép: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
+A jót cselekedni = ⟪पुण्यकरणम्⟫, Thaiföld = ประเทศไทย
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2303))
 :::
-⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
 ::: media
 ![](/images/lekt2301.webp)
-Abb.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
-Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
-(Bildquelle: [Details](/licenses#lekt2301)) <!-- TODO: Fallback translation -->
+Ábra: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
+Chiang Mai, Thaiföld = เชียงใหม่, ประเทศไทย
+(Képmegjelenítés: [Details](/hu/licenses#lekt2301))
 :::
-⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
 
-⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪लोभसम्पन्ननरा⟫ ⟪नृत्यन्तीं⟫ ⟪सम्पन्नरूपदासीं⟫ ⟪द्रष्टुं⟫ ⟪गताः⟫ ⟪॥६॥⟫
 
-⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫
 
-⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫
 
-C) Übersetzen Sie folgendes ⟪सुभाषितम्⟫ <!-- TODO: Fallback translation -->
+C) Fordítsa le a következőt ⟪सुभाषितम्⟫
 
 ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫  
 ⟪सामान्यमेतत्पशुभिर्नराणाम्⟫ ⟪।⟫  
 ⟪धर्मे⟫ ⟪हि⟫ ⟪तेषामधिको⟫ ⟪विशेषो⟫  
-⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪धर्मेण⟫ ⟪हीनाः⟫ ⟪पशुभिः⟫ ⟪समानाः⟫ ⟪॥⟫
 
-Erklärung: ⟪हीन⟫ ⟪३⟫: PPP zu ⟪हा⟫ 3: verlassen ; ⟪धर्मे⟫ = Lokativ sg. "im ..." <!-- TODO: Fallback translation -->
+Magyarázat: ⟪हीन⟫ ⟪३⟫: PPP a következőhöz ⟪हा⟫ 3: elhagy; ⟪धर्मे⟫ = Lokális egyes szám: „a ...-ban”
 
 ::: media
 ![](/images/lekt2302.webp)
-Abb.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
+Ábr.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
-(Bildquelle: [Details](/licenses#lekt2302)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2302))
 :::
-## 23.6. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 23.6. Ismétlőgyakorlat
 
-Bitte keine Hilfsmittel benutzen! <!-- TODO: Fallback translation -->
+Kérjük, ne használjanak segédeszközöket!
 
-A) Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+A) Fordítsa szanszkritra:
 
-1\. Die fünf (⟪पञ्च⟫) "Qualen" sind: Unwissenheit, der falsche Glaube ans Ich, Zuneigung, Abneigung und Anhänglichkeit an den Leib. <!-- TODO: Fallback translation -->
+1. Az öt (⟪पञ्च⟩) „szenvedés” a következő: tudatlanság, az én téves hite, vágyakozás, ellenkezés és a testhez való ragaszkodás.
 
-2\. Wissen gibt es für Gehorsam gegenüber einem Lehrer oder für viel Geld oder im Austausch gegen Wissen. Eine vierte Art von Wissenserwerb gibt es nicht. <!-- TODO: Fallback translation -->
+2. A tudás megszerzése a tanár iránti engedelmességgel, nagy pénzösszeggel vagy tudáscserével lehetséges. Nincs negyedik fajta tudásszerzés.
 
-3\. Ein Niedriger spricht, handelt aber nicht ; ein Guter spricht nicht, sondern handelt nur. <!-- TODO: Fallback translation -->
+3\. Egy alacsonyabb rendű beszél, de nem cselekszik; egy nemes nem beszél, hanem csak cselekszik.
 
-4\. Die Hilfswissenschaften zum Veda sind: Aussprachelehre, Ritualistik, Grammatik, Bedeutungslehre, Metrik (⟪छन्दस्⟫) und Kalenderlehre. <!-- TODO: Fallback translation -->
+4\. A Védához tartozó segédtudományok: kiejtéstan, rituálékutatás, nyelvtantudomány, jelentéstan, metrika (⟪छन्दस्⟫) és naptártan.
 
-5\. Yoga ist das Stoppen der Tätigkeiten des Denkorgans. <!-- TODO: Fallback translation -->
+5\. A jóga a gondolkodó szerv tevékenységének leállítása.
 
-6\. Recht siegt, nicht Unrecht ; Wahrheit siegt, nicht Lüge ; Geduld siegt, nicht Zorn ; Gott siegt, nicht ein Gegengott. (Passiv) <!-- TODO: Fallback translation -->
+6\. Az igazság győz, nem az igazságtalanság; a valóságosság győz, nem a hazugság; a türelem győz, nem a harag; Isten győz, nem egy ellenisten. (Passzív)
 
-7\. Der "Stock" bewirkt Erwerb und sicheren Besitz von Philosophie, Veda und Ökonomie. Die Führung dieses Stocks ist Politik. <!-- TODO: Fallback translation -->
+7\. A „bot“ filozófia, Védák és gazdaságtan szerzését és biztonságos birtoklását eredményezi. Ennek a botnak az irányítása politika.
 
 ::: media
 ![](/images/lekt2304.jpg)
-Abb.: ⟪दण्डनीतिः⟫
-Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, seit 2004
-(Bildquelle: [Details](/licenses#lekt2304)) <!-- TODO: Fallback translation -->
+Ábra: ⟪दण्डनीतिः⟫
+Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, India miniszterelnöke = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, 2004 óta
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2304))
 :::
-8\. Gattin, Sohn und Sklave, diese drei (⟪त्रयस्⟫) sind gemäss der Überlieferung besitzlos. Wozu diese kommen, das gehört dem, dem diese (drei) gehören. <!-- TODO: Fallback translation -->
+8\. Feleség, fiú és szolga, ezek a három (⟪त्रयस्⟫) hagyomány szerint birtok nélküliek. Amit ezekhez társul, az a tulajdonosaé, akinek ez a három (három) tartozik.
 
-9\. Mücken wünschen eine Wunde, Herrscher wünschen Besitz, Niedrige wünschen Streit, Gute wünschen Frieden. <!-- TODO: Fallback translation -->
+9\. A szúnyogok sebet kívánnak, uralkodók birtokot, alacsonyabb rendűek vitát, jók békét.
 
-10\. Die spezifische Pflicht eines Brahmanen ist: Studium, Lehren, Opfern als Opferherr, Opfern im Auftrag, Geben und Empfangen ; die eines Kṣatriya ist: Studium, Opfern als Opferherr, Geben, Lebensunterhalt durch Waffen, Hüten der Wesen ; die eines Vaiśya: Studium, Opfern als Opferherr, Geben, Ackerbau, Viehhaltung und Handel ; die eines Śūdra: Gehorsam gegenüber den Zweimalgeborenen, Wirtschaftstätigkeit, Tätigkeit (⟪कर्म⟫) von Handwerkern und Schaustellern. <!-- TODO: Fallback translation -->
+10\. A bráhmana specifikus kötelessége: tanulmányozás, tanítás, áldozatfelajánlás áldozati úrként, megbízásból történő áldozatfelajánlás, adományozás és fogadás; a kṣatriyaé: tanulmányozás, áldozatfelajánlás áldozati úrként, adományozás, fegyverekkel szerzett megélhetés, lények gondozása; a vaiśyáé: tanulmányozás, áldozatfelajánlás áldozati úrként, adományozás, földművelés, állattartás és kereskedelem; a śūdráé: a kétszer születettek iránti engedelmesség, gazdasági tevékenység, (⟪कर्म⟫) kézművesek és előadóművészek tevékenysége.
 
-11\. Abklärung des Bewusstseins geschieht aufgrund der meditativen Entfaltung von freundlichem Wohlwollen, Mitgefühl, Mitfreude und Gleichmut, die als Objekt Glück und Leid, Gutes und Böses haben. <!-- TODO: Fallback translation -->
+11\. A tudat tisztázása a barátságos jóindulat, az együttérzés, az öröm és az egyensúly meditációs fejlesztésén alapul, amelyek tárgya boldogság és szenvedés, jó és rossz.
 
-12\. Arme haben viele Söhne, obwohl sie sie nicht wünschen. Reiche haben keinen Sohn. Seltsam ist die Regung des Schicksals. <!-- TODO: Fallback translation -->
+12\. A szegényeknek sok fiuk van, bár nem kívánják őket. A gazdagnak nincs fia. Furcsa a sors ingadozása.
 
-13\. Wen erschlägt nicht ein Frauenkörper (⟪वपुस्⟫ n.) mit schlanker Taille, breiten Hüften, roten Lippen, schwarzen Augen, gebogenem Nabel, aufrechten Brüsten. <!-- TODO: Fallback translation -->
+13\. Kit nem öl meg egy női test (⟪वपुस्⟫ n.), karcsú derékkal, széles csípővel, vörös ajakkal, fekete szemmel, ívelt köldökkel, egyenes mellbimbókkal.
 
-B) Deklinieren Sie in allen Ihnen bekannten Kasus ⟪क्षत्रिया⟫ f. <!-- TODO: Fallback translation -->
+B) Ragozzon minden ismert esetben ⟪क्षत्रिया⟫ f.
 
-C) Geben Sie die Stammformen (Bedeutung, Präsensklasse, Modus, 3. sg. Präs. Indikativ, 3. sg. Passiv, PPP, Absolutiva, Infinitiv) zu folgenden Verben: <!-- TODO: Fallback translation -->
+C) Adja meg a következő igák tőalakjait (jelentés, jelen időosztály, mód, 3. sg. jelen idő jelzőmód, 3. sg. passzív, PPP, abszolútivusok, infinitívusz):
 
-⟪१⟫. ⟪सह्⟫ <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪सह्⟫
 
-⟪२⟫. ⟪पा⟫ (2x) <!-- TODO: Fallback translation -->
+⟪२⟫. ⟪पा⟫ (2x)
 
-⟪३⟫. ⟪वच्⟫ <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪वच्⟫
 
-⟪४⟫. ⟪हन्⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪४⟫. ⟪हन्⟫ ⟪॥⟫
 
 ::: deleteme-box
 
-**lekt2301:** Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย [Bildquelle: Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2301:** Chiang Mai, Thaiföld = เชียงใหม่, ประเทศไทย [Képmegjelenítés: Wikipedia. GNU FDLicense]
 
-**lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Bildquelle: von zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Zugriff am 2008-12-13. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2302:** Chittorgarh = ⟪चित्तौडगढ⟫ [Képmegjelenítés: zz77. -- http://www.flickr.com/photos/zz77/2256200876/. -- Hozzáférés: 2008-12-13. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
-**lekt2303:** ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย [Bildquelle: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Zugriff am 2008-12-13. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2303:** ทำบุญ = ⟪पुण्यकरणम्⟫, Thaiföld = ประเทศไทย [Képmegjelenítés: Y-Not ?. -- http://www.flickr.com/photos/36716657@N00/519798246/. -- Hozzáférés: 2008-12-13. -- Creative Commons licenc (nevesítés, nincs módosítás)]
 
-**lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Prime Minister of India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, seit 2004 [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2304:** Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, India miniszterelnöke = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, 2004 óta [Képmegjelenítés: Wikipedia, közterület]
 :::

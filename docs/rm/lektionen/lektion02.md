@@ -33,14 +33,14 @@ En il sanscrit dat:
   - Dual (Zweizahl) = **dvivacana** n. -- ⟪द्विवचन⟫
   - Plural (Mehrzahl) = **bahuvacana** n. -- ⟪बहुवचन⟫
 - **drei Genera** (grammatische Geschlechter) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
-  - Maskulinum (männlich) = **puṃs** m. -- ⟪पुंस्⟫
-  - Femininum (weiblich) = **strī** f. -- ⟪स्त्री⟫
+  - Masculin (männlich) = **puṃs** m. -- ⟪पुंस्⟫
+  - Feminin (weiblich) = **strī** f. -- ⟪स्त्री⟫
   - Neutrum (sächlich) = **napuṃsaka** n. -- ⟪नपुंसक⟫
 - **acht Kasus** (Fälle) = **sup** -- ⟪सुप्⟫ (= Kasusendungen)
 
 A la declinaziun s'agglutinan las desinenzas casuales (**sup** = ⟪सुप्⟫) al cunseguentamain numnà **stam nominal** (furma dal num senza desinenzas casuales).
 
-Esempel: **devas** = ⟪देवस्⟫ (Nominativ Singular Maskulinum) "der/ein Gott" = **deva-** -- ⟪देव⟫- (Nominalstamm) + **-s** -- -⟪स्⟫ (Kasusendung).
+Esempel: **devas** = ⟪देवस्⟫ (Nominativ Singular Masculin) "der/ein Gott" = **deva-** -- ⟪देव⟫- (Nominalstamm) + **-s** -- -⟪स्⟫ (Kasusendung).
 
 En diziunaris sanscrits vegnan indicads ils sustantivs en il **stema da sustantiv**:
 - **deva** m. -- ⟪⟪देव⟫⟫ m. (masculin)
@@ -74,7 +74,7 @@ Vesair era l'ovis:
 
 > **Payer, Alois \<1944 - \>:** Sandhi da final -s. -- (Materialas davart Sanscrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-Auslautendes **-s**:
+Final **-s**:
 
 - **im absoluten Auslaut** (Satzende) wird es zu **Visarga (-ḥ)**:
   - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫

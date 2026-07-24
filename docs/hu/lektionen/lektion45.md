@@ -1,156 +1,156 @@
 ---
-title: Lektion 45
-subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
+title: 45. lecke
+subtitle: "A második személy ragozott formáinak képzése (⟪मध्यमः⟫) hangzó végű toldalék nélküli athémás tövek (folytatás)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
---- <!-- TODO: Fallback translation -->
+category: "Nyelvtan"
+status: stabil
+---
 
-# Lektion 45 <!-- TODO: Fallback translation -->
+# 45. lecke
 
-## 45.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung) <!-- TODO: Fallback translation -->
+## 45.1. A második személy ragozott formáinak képzése (⟪मध्यमः⟫) hangzó végű toldalék nélküli athémás tövek (folytatás)
 
-### 45.1.1. Dritte Präsensklasse (⟪जुहोत्यादि⟫) <!-- TODO: Fallback translation -->
+### 45.1.1. Harmadik jelen idő osztály (⟪जुहोत्यादि⟫)
 
-⟪हु⟫ 3P <!-- TODO: Fallback translation -->
+⟪हु⟫ 3P
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Jelen idő** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> | <!-- TODO: Fallback translation -->
-| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> | <!-- TODO: Fallback translation -->
-| **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Jelen idő indikatívus** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \&lt;⟪जुहुषे⟫\&gt; | \&lt;⟪जुहुध्वे⟫\&gt; |
+| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \&lt;⟪अजुहुथास्⟫\&gt; | \&lt;⟪अजुहुध्वम्⟫\&gt; |
+| **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \&lt;⟪जुह्वीथास्⟫\&gt; | \&lt;⟪जुह्वीध्वम्⟫\&gt; |
 :::
-⟪धा⟫ 2U <!-- TODO: Fallback translation -->
+⟪धा⟫ 2U
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Jelen idő** :br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:braus: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Jelen idő indikatívus** :br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:braus: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
+| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
+| **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
 :::
-### 45.1.2. Siebte Präsensklasse (⟪रुधादि⟫) <!-- TODO: Fallback translation -->
+### 45.1.2. Hetedik jelen idő osztály (⟪रुधादि⟫)
 
 ::: grammar-box
-**Wenn auslautendes k/g der Wurzel zwischen den Nasal ṅ und einen Dental der Endung zu stehen kommt, so kann wahlweise das k/g wegfallen** <!-- TODO: Fallback translation -->
+**Ha a gyök végén álló k/g a ṅ mássalhangzó és a ragozás egy dentális mássalhangzója között helyezkedik el, akkor a k/g elhagyható**
 
-z.B. ⟪युज्⟫ 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ oder ⟪यु⟫sig[⟪ङ्ते⟫] <!-- TODO: Fallback translation -->
+pl. ⟪युज्⟫ 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ vagy ⟪यु⟫sig[⟪ङ्ते⟫]
 :::
-⟪युज्⟫ 7U <!-- TODO: Fallback translation -->
+⟪युज्⟫ 7U
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Jelen idő** :br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अयुनक्⟫:braus: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Jelen idő** :br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
+| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अयुनक्⟫:braus: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
+| **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
 :::
-⟪रुध्⟫ 7U <!-- TODO: Fallback translation -->
+⟪रुध्⟫ 7U
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **Indikativ Jelen idő** :br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ | <!-- TODO: Fallback translation -->
-| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br sig[⟪अरुण्स्⟫] (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| --- | --- | --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Jelen idő** :br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
+| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br sig[⟪अरुण्स्⟫] (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
+| **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
 :::
-## 45.2. Der Vokativ Singular (⟪आमन्त्रितमेकवचने⟫) <!-- TODO: Fallback translation -->
+## 45.2. A vocativus singularis (⟪आमन्त्रितमेकवचने⟫)
 
 ::: grammar-box
-**Die meisten Vokative des Singular sind der Stamm mit hochstufigem Auslaut.** <!-- TODO: Fallback translation -->
+**A legtöbb egyes számú vocativus a tő magas fokú végződésével.**
 
-z.B. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** u.s.w. <!-- TODO: Fallback translation -->
+pl. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन्⟫, ⟪पितर्⟫** stb.
 
-**Ausnahmen sind die Feminina auf -ā und -ī sowie die Stämme auf -in, deren Vokativ sg. besonders zu merken ist.** <!-- TODO: Fallback translation -->
+**Kivéve az -ā és -ī végződésű nőnemeket, valamint a -in tövű szavakat, amelyeknek az egyes számú megszólító esetét különösen meg kell jegyezni.**
 :::
 ::: no-header
-| | megszólító eset (vocativus) egyes szám | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| Maskulina auf -a | ⟪देव⟫ | <!-- TODO: Fallback translation -->
-| Neutra auf -a | ⟪फल⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -ā | ⟪देवते⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -i | ⟪कवे⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -i | ⟪मते⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -u | ⟪शत्रो⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -u | ⟪धेनो⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -ī | ⟪देवि⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -ṛ | ⟪पितर्⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf -ṛ | ⟪मातर्⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -an | ⟪राजन्⟫ | <!-- TODO: Fallback translation -->
-| Neutra auf -an | ⟪नामन्⟫:br⟪नाम⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -man/-van | ⟪आत्मन्⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -in | ⟪बलिन्⟫ | <!-- TODO: Fallback translation -->
-| Maskulina auf -ant | ⟪बलिन्⟫:br⟪बलि⟫ | <!-- TODO: Fallback translation -->
-| mahānt m. | ⟪महन्⟫ | <!-- TODO: Fallback translation -->
-| mahānt n. | ⟪महत्⟫:br= alanyeset (nominativus) | <!-- TODO: Fallback translation -->
-| Maskulina auf -mant/-vant | ⟪गुणवन्⟫ | <!-- TODO: Fallback translation -->
-| Neutra auf -mant/-vant | ⟪गुणवत्⟫:br= alanyeset (nominativus) | <!-- TODO: Fallback translation -->
-| Pronomina | ein megszólító eset (vocativus) wird nicht gebildet | <!-- TODO: Fallback translation -->
+| | megszólító eset (vocativus) egyes szám |
+| --- | --- |
+-a végződésű hímnem | ⟪देव⟫ |
+-a végződésű középnem | ⟪फल⟫ |
+-ā végződésű nőnem | ⟪देवते⟫ |
+-i végződésű hímnem | ⟪कवे⟫ |
+-i végződésű nőnem | ⟪मते⟫ |
+-u végződésű hímnem | ⟪शत्रो⟫ |
+-u végződésű nőnem | ⟪धेनो⟫ |
+-ī végződésű nőnem | ⟪देवि⟫ |
+-ṛ végződésű hímnem | ⟪पितर्⟫ |
+-ṛ végződésű nőnem | ⟪मातर्⟫ |
+-an végződésű hímnem | ⟪राजन्⟫ |
+-an végződésű középnem | ⟪नामन्⟫:br⟪नाम⟫ |
+-man/-van végződésű hímnem | ⟪आत्मन्⟫ |
+-in végződésű hímnem | ⟪बलिन्⟫ |
+-ant végződésű hímnem | ⟪बलिन्⟫:br⟪बलि⟫ |
+mahānt m. | ⟪महन्⟫ |
+mahānt n. | ⟪महत्⟫:br= alanyeset (nominativus) |
+-mant/-vant végződésű hímnem | ⟪गुणवन्⟫ |
+-mant/-vant végződésű középnem | ⟪गुणवत्⟫:br= alanyeset (nominativus) |
+Határozószók | nem képeznek megszólító esetet (vocativus) |
 :::
 ::: media
 ![](/images/lekt4501.webp)
-Abb.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
-(Bildquelle: [Details](/licenses#lekt4501)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
+(Képmegjelenítés: [Details](/hu/licenses#lekt4501))
 :::
-## 45.3. Wortliste <!-- TODO: Fallback translation -->
+## 45.3. Szószedet
 
-⟪वा⟫ ... ⟪वा⟫ : entweder ... oder <!-- TODO: Fallback translation -->
+⟪वा⟫ ... ⟪वा⟫ : either ... or
 
-## 45.4. Übung <!-- TODO: Fallback translation -->
+## 45.4. Gyakorlat
 
-A) Übersetzen Sie ins Sanskrit (für Vergangenheitsformen bitte das Imperfekt \<⟪लङ्⟫\> verwenden): <!-- TODO: Fallback translation -->
+A) Fordítsd szanszkritra (a múlt időben kérjük az imperfectumot \&lt;⟪लङ्⟫\&gt; használatával):
 
-1\. Du spaltest die (buddhistische) Gemeinde. <!-- TODO: Fallback translation -->
+1. Te szétosztod a (buddhista) közösséget.
 
 ::: indent
-zur Gemeindespaltung (⟪सङ्घभेद⟫) siehe: <!-- TODO: Fallback translation -->
+a közösség szétosztásáról (⟪सङ्घभेद⟫) lásd:
 
-**Payer, Alois \<1944 - \>:** Vinayamukha : Grundbegriffe der Ordensregeln und des Ordensrechts des Theravāda. -- Teil I. -- (Materialien zu den Grundbegriffen des Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm) <!-- TODO: Fallback translation -->
+**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Az Ordensregeln és az Ordensrecht alapfogalmai a Theravāda számára. -- I. rész. -- (Anyagok a buddhizmus alapfogalmaihoz). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-2\. Habt ihr die Erde genossen? <!-- TODO: Fallback translation -->
+2. Élveztétek-e a földet?
 
-3\. Hast du vom König eine Gabe empfangen? <!-- TODO: Fallback translation -->
+3. Kaptál ajándékot a királytól?
 
-4\. Heiliger Mann, warum fürchtest du dich nicht vor Gefahren? <!-- TODO: Fallback translation -->
+4. Szent ember, miért nem félsz a veszélyektől?
 
-5\. Vater, wohin verlässt du die Familie? <!-- TODO: Fallback translation -->
+5. Atyám, hová hagyod el a családot?
 
-6\. Śūdrafrau, hast du die Last ins Haus des reichen Brahmanen getragen? <!-- TODO: Fallback translation -->
+6. Śūdra asszony, felvitte a terhet a gazdag bráhmanák házába?
 
-7\. Göttin, du solltest den Wunsch nach Glück des Vaiśya, der Verdienstvolles getan hat, erfüllen. <!-- TODO: Fallback translation -->
+7. Istenasszony, teljesítsd a Vaiśya boldogságra irányuló vágyát, aki érdemeket gyűjtött.
 
-8\. Elefanten, ihr solltet die Fesseln nicht zerbrechen. <!-- TODO: Fallback translation -->
+8. Elefántok, ne törjétek szét a bilincseket.
 
-9\. Du löwengleicher Mann, warum richtest du nicht deine ganze Aufmerksamkeit auf das Absolute (Brahman)? <!-- TODO: Fallback translation -->
+9. Te oroszlánhoz méltó férfiú, miért nem fordítod teljes figyelmedet az Abszolutra (Brahman-ra)?
 
-10\. Hast du, Dichter, die Welten gemessen? <!-- TODO: Fallback translation -->
+10. Te költő, megmérted-e a világokat?
 
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B) Fordítsa le:
 
-⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪अर्जुन⟫ ⟪हतो⟫ ⟪वा⟫ ⟪प्राप्स्यसि⟫ ⟪स्वर्गं⟫ ⟪जित्वा⟫ ⟪वा⟫ ⟪भोक्ष्यसे⟫ ⟪महीं⟫ ⟪।⟫ ⟪तस्माद्भवता⟫ ⟪योध्यम्⟫ ⟪॥१॥⟫
 
-⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪भवति⟫ ⟪कथमनन्तदुःखमरुणत्⟫ ⟪॥२॥⟫
 
-⟪ब्राह्मण⟫ ⟪किमग्नौ⟫ ⟪घृतमजुहोः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪ब्राह्मण⟫ ⟪किमग्नौ⟫ ⟪घृतमजुहोः⟫ ⟪॥३॥⟫
 
-⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪शत्रो⟫ ⟪शस्तेण⟫ ⟪जीवं⟫ ⟪न⟫ ⟪छिनत्सि⟫ ⟪॥४॥⟫
 
 ::: media
 ![](/images/lekt4502.jpg)
-Abb.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
-(Bildquelle: [Details](/licenses#lekt4502)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
+(Képmegjelenítés: [Details](/hu/licenses#lekt4502))
 :::
 
 ::: deleteme-box
 
-**lekt4501.jpg**: Textil-Blockdruck, Ahmedabad. -- Bildquelle: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike) <!-- TODO: Fallback translation -->
+**lekt4501.jpg**: Textilblokknyomás, Ahmedabad. -- Képmegjelenítés forrása: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Hozzáférés: 2009-01-08. -- Creative Commons licenc (Nevezd meg! – Nem kereskedelmi célú felhasználás –相同方式 megosztás)
 
-**lekt4502.jpg**: Bildquelle: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Zugriff am 2009-01-08. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung) <!-- TODO: Fallback translation -->
+**lekt4502.jpg**: Képmegjelenítés forrása: John Isaac / Világbank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Hozzáférés: 2009-01-08. -- Creative Commons licenc (Nevezd meg! – Nem kereskedelmi célú felhasználás – Ne változtasd)
 :::
 

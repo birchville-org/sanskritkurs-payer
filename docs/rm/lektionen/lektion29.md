@@ -176,7 +176,7 @@ Explicaziuns:
 
 ::: grammar-box
 
-| Wurzel:br⟪धातु⟫ | Futur:br⟪ऌत्⟫ | Kausativ:br⟪कारित⟫ |
+| Radis:br⟪धातु⟫ | Futur:br⟪ऌत्⟫ | Kausativ:br⟪कारित⟫ |
 | :--- | :--- | :--- |
 | ⟪अद्⟫ ⟪२⟫ ⟪प⟫ | ⟪अत्स्यति⟫ | ⟪आदयति⟫ |
 | ⟪अर्ह्⟫ ⟪१⟫ ⟪प⟫ | ⟪अर्हिष्यति⟫ | ⟪अर्हयति⟫ |

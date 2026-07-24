@@ -50,7 +50,7 @@ Masculin:
 :::
 Per l'explicaziun dals models irregulars vesair Thumb-Hauschild I,2 p. 76 -81
 
-Femininum:
+Feminin:
 
 ::: indent
 **⟪स्वसृ⟫** f. vegn declinà sco **⟪दातृ⟫** cun l'excepziun dal accusativ (**⟪द्वितीया⟫**) plural: ***⟪स्वसॄस्⟫***.

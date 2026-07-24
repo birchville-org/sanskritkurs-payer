@@ -37,7 +37,7 @@ Avant finala che cumenza cun vocal vegn remplazzà:
 *   -ṛ durch r
 Exempels:
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Radis | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इयाय⟫:briy-ai + a | ⟪ईयुर्⟫:bri + iy + ur | | |
 | ⟪नी⟫ 1U | ⟪निनाय⟫ | ⟪निन्युर्⟫:brni-nī + ur | ⟪निन्ये⟫ | ⟪निन्यिरे⟫ |
@@ -59,7 +59,7 @@ Exempels:
 *   consonant-consonant-ṛ (i.e. radischas sin -ṛ, sche quai èn pliras consonants avant)
 Exempels:
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Radis | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पॄ⟫ 3P | ⟪पपार⟫ | ⟪पपरुर्⟫ | | |
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
@@ -82,11 +82,11 @@ Vegn furmà da ragischs sin -ā / -āi
 :::
 Exempel:
 
-| Wurzel | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Radis | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
+## 35.3. Perfekt Typ V: Radisn Konsonant-a-Konsonant
 
 ::: grammar-box
 **Educaziun:**
@@ -118,7 +118,7 @@ Vegn furmà da ragischs dal tip (consonanta)-consonanta-a-consonanta
 *   ⟪यज्⟫
 Exemples:
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Radis | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
 | ⟪हन्⟫ 2P | sig[⟪जघान⟫] :brja-**ghān**-a | *⟪जघ्नुर्⟫* | | |
@@ -140,7 +140,7 @@ Exemples:
 El vegn furmà da radis cun -a- tranter dus consonants simpls, il consonant inicial dal qual na vegn betg midà en la sillaba da duplicaziun (quai vul dir: il consonant inicial n’è nagin guttural, aspirà u h).
 Exempl:
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Radis | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पच्⟫ 1U | ⟪पपाच⟫ | *⟪पे⟫*⟪चुर्⟫ | *⟪पे⟫*⟪चे⟫ | *⟪पे⟫*⟪चिरे⟫ |
 
@@ -161,7 +161,7 @@ schon sie nicht zu Perfekt Typ Va gehören.
 :::
 Exempel:
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Radis | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 

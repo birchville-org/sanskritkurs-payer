@@ -1,5 +1,5 @@
 ---
-title: Pelajaran 9
+title: "# Pelajaran 9"
 subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
 lesson_id: 9
 category: "Grammatik"
@@ -7,90 +7,68 @@ status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
+
+
 # Pelajaran 9
-
-
 
 ::: deleteme-box
 **Dalam pelajaran ini Anda akan mempelajari:**
-- Samāhāradvandva ("dvandva rangkuman")
+- Samāhāradvandva ("Dvandva ringkasan")
 - Pembentukan akar nomina dengan akhiran **-ka** (taddhita) dan **-aka** (kṛt)
-- Kosakata tentang topik pekerjaan dan peran sosial
-- Kutipan dari teks hukum klasik (Dharmaśāstra)
-
+- Kosakata tentang topik profesi dan peran sosial
+- Kutipan dari teks hukum klasik (Dharmaśāstras)
 :::
----
-
-## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Samāhāra-dvandva")
 
 
+## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Dvandva ringkasan")
 
 ::: grammar-box
-**Jika Dvandva ingin menyatakan bahwa serangkaian hal, dll., membentuk satu kesatuan, maka umumnya berada dalam bentuk tunggal neuter:**
+**Jika sebuah Dvandva ingin menyatakan bahwa serangkaian hal, dll., membentuk satu kesatuan, maka umumnya berada dalam bentuk tunggal neutrum:**
 
-misalnya **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ tidak hanya berarti "makanan (**āhāra** m.), tidur (**nidrā** f.), perkawinan (**maithuna** n.), dan ketakutan (**bhaya** n.)", melainkan keempat hal tersebut sebagai **kesatuan** yang mencirikan kehidupan hewan.
+mis. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ bukan berarti sekadar "makan (**āhāra** m.), tidur (**nidrā** f.), hubungan seksual (**maithuna** n.) dan ketakutan (**bhaya** n.)", melainkan keempat hal tersebut sebagai **kesatuan**, yang mencirikan kehidupan hewan.
+:::
+Selain aturan dasar pembentukan Samāhāradvandvas ini, terdapat sejumlah aturan lain yang dapat ditemukan di Pāṇini 2,4,2-17 atau misalnya Mr. R. Kale, A higher Sanskrit grammar, cetak ulang 1969, § 189 - 192 a. Dalam berbagai tahap perkembangan bahasa tidak selalu aturan yang sama dipatuhi!
 
-:::  
-Selain aturan dasar untuk pembentukan Samāhāradvandvas, terdapat sejumlah aturan lain yang dapat ditemukan pada Pāṇini 2,4,2-17 atau misalnya Mr. R. Kale, A higher Sanskrit grammar, cetakan ulang 1969, § 189 - 192 a. Dalam berbagai tahap perkembangan bahasa, tidak selalu aturan yang sama dipatuhi!
 
----
-
-## 9.2. Pembentukan Akar Nomina
-
----
+## 9.2. Tentang Pembentukan Akar Nomina
 
 ### 9.2.1. -ka (taddhita)
 
-
-
 ::: grammar-box
-**Sufiks taddhita -ka membentuk terutama:**
+**Akhiran taddhita -ka membentuk antara lain:**
 
-1\. **Bentuk kata kecil (bentuk pengecil seperti bahasa Jerman -chen, -lein, -li, -le):**
-   **putra m. "putra" » putraka m. ⟪पुत्रक⟫ "anak laki-laki kecil"**
+1\. **Diminutiva (bentuk pengecil seperti bahasa Jerman -chen, -lein, -li, -le):**
+**putra m. "anak laki-laki" » putraka m. ⟪पुत्रक⟫ "anak laki-laki kecil"**
 
-2\. **Nomina yang menunjukkan kemiripan yang mendekati:**
-   **aśva m. "kuda" » aśvaka m. ⟪अश्वक⟫ "kuda kecil, sesuatu yang mirip dengan kuda"**
+2\. **Nomina yang menyatakan kesamaan mendekati:**
+**aśva m. "kuda" » aśvaka m. ⟪अश्वक⟫ "kuda kecil, sesuatu yang mirip kuda"**
 
-3\. **Kata benda tanpa perbedaan makna dari kata benda dasar:**
-   **putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**
+3\. **Nomina tanpa perbedaan makna dari nomina dasar:**
+**putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**
 
-4\. **Kata benda yang menyatakan "berhubungan dengan konsep kata dasar":**
-   **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "berasal dari Benares, berasal dari Benares"**
-   **rūpa n. "Bentuk" » rūpaka 3 ⟪रूपक⟫ "memiliki bentuk sesuatu"**
-
+4\. **Nomina yang menyatakan "berhubungan dengan konsep kata dasar":**
+**kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "berasal dari Benares, berasal dari Benares"**
+**rūpa n. "bentuk" » rūpaka 3 ⟪रूपक⟫ "memiliki bentuk sesuatu"**
 :::
----
 
 ### 9.2.2. -aka (kṛt), fem. sering -ikā
 
-
-
 ::: grammar-box
-**Sufiks kṛt -aka, Feminin sering -ikā, membentuk nomina agentis (nomina yang menyatakan pelaku) dari setiap akar.**
+**Akhiran kṛt -aka, feminin sering -ikā, membentuk nomina agen (nomina yang menyatakan pelaku) dari setiap akar.**
 
-Vokal akhir dari akar serta **-a-** pada posisi kedua dari akhir akar diganti dengan tingkat panjangnya (**vṛddhi**) (ada beberapa pengecualian), sedangkan vokal lainnya diganti dengan tingkat tingginya (**guṇa**).
-
+Vokal akhir dari akar serta **-a-** di posisi kedua terakhir dari akar diganti dengan tingkat perpanjangan mereka (**vṛddhi**) (ada beberapa pengecualian), sedangkan vokal lainnya diganti dengan tingkat tinggi mereka (**guṇa**).
 :::
 **Contoh:**
 
-
-
-| Akar:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Arti |
-
+| Akar:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Makna |
 | :--- | :--- | :--- |
+| **kṛ** :br8 U:br⟪कृ⟫:br"membuat" | **kāraka** :br(⟪कारक⟫) | "pelaku, yang membuat" |
+| **śru** :br5 P:br⟪श्रु⟫:br"mendengar" | **śrāvaka** m.:br(⟪श्रावक⟫) | "pendengar, murid,:brbuddh.: pengikut Buddha" |
+| **nī** :br1 U:br⟪नी⟫:br"memimpin" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "pemimpin, tuan, suami,:brkekasih / kekasih, wanita" |
+| **yaj** :br1 U:br⟪यज्⟫:br"mengorbankan" | **yājaka** m.:br(⟪याजक⟫) | "korban, imam korban" |
+| **nṛt** :br4 P:br⟪नृत्⟫:br"menari" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "penari / penari wanita" |
+| **ji** :br1 P:br⟪जि⟫:br"menang" | **jayaka** 3:br(⟪जयक⟫) | "berhasil" |
 
-| **kṛ**:br8 U:br⟪कृ⟫:br"membuat" | **kāraka**:br(⟪कारक⟫) | "pelaku, pembuat" |
-
-| **śru**:br5 P:br⟪श्रु⟫:br"mendengar" | **śrāvaka** m.:br(⟪श्रावक⟫) | "pendengar, murid,:brbuddh.: pengikut Buddha" |
-
-| **nī**:br1 U:br⟪नी⟫:br"memimpin" | **nāyaka** m.:br(⟪नायक⟫) /:br**nāyikā** f.:br(⟪नायिका⟫) | "pemimpin, penguasa, suami,:brkekasih / kekasih, wanita" |
-
-| **yaj**:br1 U:br⟪यज्⟫:br"menyembah" | **yājaka** m.:br(⟪याजक⟫) | "pelaksana upacara, imam" |
-
-| **nṛt**:br4 P:br⟪नृत्⟫:br"menari" | **nartaka** m.:br(⟪नर्तक⟫) /:br**nartakī** f.:br(⟪नर्तकी⟫) | "penari pria / penari wanita" |
-
-| **ji**:br1 P:br⟪जि⟫:br"menang" | **jayaka** 3:br(⟪जयक⟫) | "berhasil" |
 
 
 
@@ -200,28 +178,23 @@ Gambar: **karṣaka** = ⟪कर्षक⟫.
    ⟪इज्याध्ययनदानानि⟫
    (Yājñavalkyadharmaśāstra I, 118)
 
-2. Tugas khusus seorang Brahmana:
-   **pravacanayājanapratigrahāḥ**
-   ⟪प्रवचनयाजनप्रतिग्रहाः⟫
-   (Gautamadharmasūtra X, 2)
 
-3. Tugas khusus seorang Kṣatriya:
+3. Tugas spesifik seorang Kṣatriya:
    **rakṣaṇaṃ sarvabhūtānām**
-   ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-   (sarvabhūtānām = Genitiv (Kasus Atributif): "semua makhluk"; Gautamadharmasūtra X, 7)
+⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
+(sarvabhūtānām = Genitiv: "semua makhluk"; Gautamadharmasūtra X, 7)
 
-4. Tugas khusus seorang Vaiśya:
+4. Tugas spesifik seorang Vaiśya:
    **kṛṣivāṇijyapāśupālyakusīdam**
-   ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
-   (menurut Gautamadharmasūtra X, 49)
+⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
+(menurut Gautamadharmasūtra X, 49)
 
 5. Tugas seorang Śūdra:
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
-   ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
-   (menurut Kauṭilīya-Arthaśāstra 1.3.8.)
-   Penjelasan: dvijātīnām = Genitif (Kasus Atributif) Plural dari dvijāti (terjemahkan di sini: "terhadap para Dwijatā"); kārukuśīlavakarma adalah Tatpuruṣa dengan Dvandva (kārukuśīlava) di komponen depan. karma = Nom. sg. dari karman n. "Tindakan, aktivitas, Karma" dari akar kṛ 8 U). Terjemahkan "Tindakan / aktivitas dari ... (Genitif)" (ditunjuk oleh Dvandva).
+⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
+(menurut Kauṭilīya-Arthaśāstra 1.3.8.)
+Penjelasan: dvijātīnām = Genitiv Plural dari dvijāti (terjemahkan di sini: "terhadap para Dwija"); kārukuśīlavakarma adalah Tatpuruṣa dengan Dvandva (kārukuśīlava) di komponen pertama. karma = Nom. sg. dari karman n. "tindakan, aktivitas, Karma" berasal dari akar kṛ 8 U). Terjemahkan "Tindakan / Aktivitas ... (Genitif)" (yang ditunjuk oleh Dvandva).
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
-   ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
-   (setelah Kauṭilīya-Arthaśāstra 1.4.1.)
-
+⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
+(menurut Kauṭilīya-Arthaśāstra 1.4.1.)

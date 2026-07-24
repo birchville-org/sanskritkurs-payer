@@ -1,27 +1,27 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Writing Exercise 4
+## Latihan Penulisan 4
 
 ![](/images/schrift006.webp)
 
-Anusvāra ṃ: Dot above the letter. preceding the sound: ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫
+Anusvāra ṃ: Titik di atas huruf. yang mendahului bunyi: ⟪कं⟫ ⟪कां⟫ ⟪किं⟫ ⟪कीं⟫ ⟪कुं⟫ ⟪कूं⟫ ⟪कें⟫ ⟪कैं⟫ ⟪कों⟫ ⟪कौं⟫
 
-Writing:
+Penulisan:
 
 ![](/images/schrift007.jpg)
 
-Note the mandatory writing of hṛ: ⟪हृ⟫
+Perhatikan penulisan wajib hṛ: ⟪हृ⟫
 
-## Exercise
+## Latihan
 
-A) Write in Devanāgarī:
+A) Tulis dalam Devanāgarī:
 
 nṛt nī man muh sṛjati viśati yajate viśeṣaḥ namas doṣo mūlaṃ meru hṛdayaṃ hanumat hariṃ setuṃ puruṣaṃ kumārī satī saṃśayaṃ
 
-B) Read and transliterate:
+B) Baca dan transliterasikan:
 
 ⟪हृषिकेश⟫ | ⟪विषूचिका⟫ | ⟪देवनागरी⟫ | ⟪संयोगं⟫ | ⟪सिंहं⟫ | ⟪संसारः⟫ | ⟪नमो⟫ | ⟪रुह्⟫ | ⟪मुसलं⟫ | ⟪मुनिः⟫ | ⟪तुष्⟫ | ⟪दानवः⟫ | ⟪दहति⟫ | ⟪नागं⟫ | ⟪रामो⟫ ⟪नयति⟫ | ⟪देवः⟫ ⟪सृजति⟫ ||
 
-To Lesson 6
+Untuk Pelajaran 6
 
-To Writing Exercise 5
+Untuk Latihan Penulisan 5

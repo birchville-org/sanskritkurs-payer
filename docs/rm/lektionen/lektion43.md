@@ -21,7 +21,7 @@ status: stable
 :::
 Notai che la desinenza secundaria da 2.pl.P. è identica a la desinenza secundaria da 3.sg.Ā.
 
-## 43.2. Furmaiziun dals furmis verbalas da la 2. persuna (⟪मध्यमः⟫)
+## 43.2. Furmaziun dals furmis verbalas da la 2. persuna (⟪मध्यमः⟫)
 
 2.persuna:
 
@@ -33,7 +33,7 @@ Notai che la desinenza secundaria da 2.pl.P. è identica a la desinenza secundar
 ::: media
 ![](/images/lekt4301.jpg)
 :::
-La 3.sg.Ā.Imperfekt resp. Optativ è formamain cun la 2.pl.P.Imperfekt resp. Optativ!
+La 3.sg.Ā.Imperfect resp. Optativ è formamain cun la 2.pl.P.Imperfect resp. Optativ!
 
 #### 43.2.1.1. Emprima classa dal present (⟪भ्वादि⟫)
 
@@ -42,8 +42,8 @@ La 3.sg.Ā.Imperfekt resp. Optativ è formamain cun la 2.pl.P.Imperfekt resp. Op
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \<⟪भवसे⟫\> | \<⟪भवध्वे⟫\> |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \<⟪अभवथास्⟫\> | \<⟪अभवध्वम्⟫\> |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \<⟪भवसे⟫\> | \<⟪भवध्वे⟫\> |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \<⟪अभवथास्⟫\> | \<⟪अभवध्वम्⟫\> |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \<⟪भवेथास्⟫\> | \<⟪भवेध्वम्⟫\> |
 
 #### 43.2.1.2. Sesta classa da presens (⟪तुदादि⟫)
@@ -53,8 +53,8 @@ La 3.sg.Ā.Imperfekt resp. Optativ è formamain cun la 2.pl.P.Imperfekt resp. Op
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \<⟪विशसे⟫\> | \<⟪विशध्वे⟫\> |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \<⟪अविशथास्⟫\> | \<⟪अविशध्वम्⟫\> |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \<⟪विशसे⟫\> | \<⟪विशध्वे⟫\> |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \<⟪अविशथास्⟫\> | \<⟪अविशध्वम्⟫\> |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \<⟪विशेथास्⟫\> | \<⟪विशेध्वम्⟫\> |
 
 #### 43.2.1.3. Quarta classe da prezens (⟪दिवादि⟫)
@@ -64,8 +64,8 @@ La 3.sg.Ā.Imperfekt resp. Optativ è formamain cun la 2.pl.P.Imperfekt resp. Op
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \<⟪नृत्यसे⟫\> | \<⟪नृत्यध्वे⟫\> |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \<⟪अनृत्यथास्⟫\> | \<⟪अनृत्यध्वम्⟫\> |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \<⟪नृत्यसे⟫\> | \<⟪नृत्यध्वे⟫\> |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \<⟪अनृत्यथास्⟫\> | \<⟪अनृत्यध्वम्⟫\> |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \<⟪नृत्येथास्⟫\> | \<⟪नृत्येध्वम्⟫\> |
 
 #### 43.2.1.4. Decima classe dal presentu (⟪चुरादि⟫) e causativs
@@ -75,8 +75,8 @@ La 3.sg.Ā.Imperfekt resp. Optativ è formamain cun la 2.pl.P.Imperfekt resp. Op
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪चोरयसि⟫ | ⟪चोरयथ⟫ | ⟪चोरयसे⟫ | ⟪चोरयध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अचोरयस्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयथास्⟫ | ⟪अचोरयध्वम्⟫ |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪चोरयसि⟫ | ⟪चोरयथ⟫ | ⟪चोरयसे⟫ | ⟪चोरयध्वे⟫ |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अचोरयस्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयथास्⟫ | ⟪अचोरयध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪चोरयेस्⟫ | ⟪चोरयेत⟫ | ⟪चोरयेथास्⟫ | ⟪चोरयेध्वम्⟫ |
 
 #### 43.2.1.5. Passiv
@@ -85,8 +85,8 @@ La 3.sg.Ā.Imperfekt resp. Optativ è formamain cun la 2.pl.P.Imperfekt resp. Op
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
-| **Indikativ Präsens** ⟪लट्⟫ | ⟪ईक्ष्यसे⟫ īkṣ-ya-se | ⟪ईक्ष्यध्वे⟫ |
-| **Imperfekt** ⟪लङ्⟫ | ⟪ऐक्ष्यथास्⟫ | ⟪ऐक्ष्यध्वम्⟫ |
+| **Indicativ preschent** ⟪लट्⟫ | ⟪ईक्ष्यसे⟫ īkṣ-ya-se | ⟪ईक्ष्यध्वे⟫ |
+| **Imperfect** ⟪लङ्⟫ | ⟪ऐक्ष्यथास्⟫ | ⟪ऐक्ष्यध्वम्⟫ |
 | **Optativ** ⟪विधिलिङ्⟫ | ⟪ईक्ष्येथास्⟫ | ⟪ईक्ष्येध्वम्⟫ |
 
 #### 43.2.1.6. Futur (⟪ऌट्⟫)

@@ -1,651 +1,651 @@
 ---
-title: Lektion 53
+title: 53. lecke
 lesson_id: 53
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 53 <!-- TODO: Fallback translation -->
+# 53. lecke
 
-## 53.1. Der Dual (⟪द्विवचन⟫ n.) der Nomina <!-- TODO: Fallback translation -->
+## 53.1. A kettős szám (⟪द्विवचन⟫ n.) a főnevekben
 
 ::: grammar-box
-**Der Dual (⟪द्विवचनम्⟫) wird verwendet, um "zwei" zu bezeichnen:** <!-- TODO: Fallback translation -->
+**A kettős szám (⟪द्विवचनम्⟫) a „két” jelentés kifejezésére szolgál:**
 
 :::
 ::: indent
-⟪अश्विनौ⟫ "die beiden Aśvin" <!-- TODO: Fallback translation -->
+⟪अश्विनौ⟫ „a két Aśvin”
 :::
-**Die Verwendung des Dual ist dort obligatorisch, wo es sich um zwei Dinge usw. handelt:** <!-- TODO: Fallback translation -->
+**A kettőst ott kötelező használni, ahol két dologról van szó stb.:**
 
 ::: indent
-⟪हस्तौ⟫ "die Hände (eines Individuums)"
-⟪पादौ⟫ "die Füsse (eines Menschen, Affen oder sonstigen Zweifüssers)" <!-- TODO: Fallback translation -->
+⟪हस्तौ⟫ „a kéz (egy egyén)”
+⟪पादौ⟫ „a láb (egy ember, majom vagy más kétlábú)”
 :::
-**Manchmal bezeichnet der Dual ein männliches plus ein weibliches Exemplar derselben Klasse (Art, Gattung):** <!-- TODO: Fallback translation -->
+[L10**Néha a kettős egy ugyanazon osztályba (faj, nem) tartozó hím és nőstény példányt jelöl:**
 
 ::: indent
-⟪पितरौ⟫ "Vater und Mutter = Eltern" <!-- TODO: Fallback translation -->
+⟪पितरौ⟫ „apa és anya = szülők”
 :::
-**Wörter, die "ein Paar" bedeuten - z.B. ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - werden aber immer im Singular verwendet, es sei denn es handle sich um zwei oder mehr Paare:** <!-- TODO: Fallback translation -->
+**A „pár” jelentésű szavakat – például ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. – mindig egyes számban használják, kivéve ha két vagy több párról van szó:**
 
 ::: indent
-⟪बाहुद्वयम्⟫ "ein Paar Arme" <!-- TODO: Fallback translation -->
+⟪बाहुद्वयम्⟫ „egy pár kar”
 :::
 ::: media
 ![](/images/lekt5301.webp)
-Abb.: ⟪मार्जारयुगम्⟫
-(Bildquelle: [Details](/licenses#lekt5301)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪मार्जारयुगम्⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5301))
 :::
 
 ::: media
 ![](/images/lekt5302.webp)
-Abb.: ⟪हस्तौ⟫
-(Bildquelle: [Details](/licenses#lekt5302)) <!-- TODO: Fallback translation -->
+Ábra: ⟪हस्तौ⟫
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt5302))
 :::
-## 53.2. Dualendungen des Nomen <!-- TODO: Fallback translation -->
+## 53.2. A főnevek kettős számú végződése
 
 ::: grammar-box
-|   | Maskulininum/nőnem :br ⟪पुंस्⟫/⟪स्त्री⟫ | semlegesnem :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | -bhyām || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os || <!-- TODO: Fallback translation -->
+|  | Hímnem/nőnem :br ⟪पुंस्⟫/⟪स्त्री⟫ | Semlegesnem :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | -bhyām ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
 :::
 ::: grammar-box
-**Bei Nomina mit Stammabstufung haben der Nom.Akk.Vok.Dual m.f. den starken Stamm** <!-- TODO: Fallback translation -->
+**A szófajszabályos főneveknél a név-, tárgy- és felszólító kettős számú hím-nőnem erős tövű**
 :::
-## 53.3. Der Dual konsonantisch auslautender Stämme <!-- TODO: Fallback translation -->
+## 53.3. A mássalhangzóval végződő tövek kettős száma
 
-### 53.3.1. Stämme ohne Stammabstufung <!-- TODO: Fallback translation -->
+### 53.3.1. Tövek szófajszabály nélkül
 
-⟪सत्यवाच्⟫ 3 "die Wahrheit sprechend" <!-- TODO: Fallback translation -->
+⟪सत्यवाच्⟫ 3 „az igazságot beszélő”
 
 ::: grammar-box
-|   | Maskulininum/nőnem :br ⟪पुंस्⟫/⟪स्त्री⟫ | semlegesnem :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Masculinum/nőnem :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ ||
 :::
-⟪बलिन⟫ 3 "(besonders) stark" <!-- TODO: Fallback translation -->
+⟪बलिन⟫ 3 "(különösen) erős"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | semlegesnem :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪बलिभ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪बलिनोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Masculinum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪बलिभ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪बलिनोस्⟫ ||
 :::
-⟪सुमनस्⟫ 3 "wohlgesinnt" <!-- TODO: Fallback translation -->
+⟪सुमनस्⟫ 3 "jóindulatú"
 
 ::: grammar-box
-|   | Maskulininum/nőnem :br ⟪पुंस्⟫/⟪स्त्री⟫ | semlegesnem :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सुमनोभ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सुमनसोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Masculinum/nőnem :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सुमनोभ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सुमनसोस्⟫ ||
 :::
-⟪हविस्⟫ n. "Opfergabe" <!-- TODO: Fallback translation -->
+⟪हविस्⟫ n. "áldozat"
 
 ::: grammar-box
-|   | semlegesnem :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪हविषी⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪हविर्भ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪हविषोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Neutrum :br ⟪नपुंसक⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪हविषी⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪हविर्भ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪हविषोस्⟫ |
 :::
-⟪दीर्घायुस्⟫ 3 "langlebig" <!-- TODO: Fallback translation -->
+⟪दीर्घायुस्⟫ 3 "hosszú életű"
 
 ::: grammar-box
-|   | Maskulininum/nőnem :br ⟪पुंस्⟫/⟪स्त्री⟫ | semlegesnem :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Nem: férfi :br ⟪पुंस्⟫/⟪स्त्री⟫ | Nem: középső :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
 :::
-### 53.3.2. Stämme mit Stammabstufung <!-- TODO: Fallback translation -->
+### 53.3.2. Törzshajlásos tőkéjű szavak
 
-**Partizip Präsens Parasmaipada** <!-- TODO: Fallback translation -->
+**Jelen idői melléknév (Parasmaipada)**
 
-⟪भरन्त्⟫ 3 "tragend" <!-- TODO: Fallback translation -->
+⟪भरन्त्⟫ 3 "hordozó"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | semlegesnem :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | sig[⟪भरन्ती⟫] (!) <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Nem: férfi :br ⟪पुंस्⟫ | Nem: középső :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | sig[⟪भरन्ती⟫] (!)
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ ||
 :::
 ::: media
 ![](/images/lekt5305.webp)
-Abb.: ⟪भरन्तौ⟫
-(Bildquelle: [Details](/licenses#lekt5305)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪भरन्तौ⟫
+(Képmegjelenés: [Részletek](/hu/licenses#lekt5305))
 :::
-⟪ददत्⟫ 3 "gebend" <!-- TODO: Fallback translation -->
+⟪ददत्⟫ 3 "adományozó"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | semlegesnem :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Nem: br ⟪पुंस्⟫ | Semleges nem: br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ ||
 :::
-**Stämme auf -mant/-vant** <!-- TODO: Fallback translation -->
+**-mant/-vant végződésű tövek**
 
-⟪पशुमन्त्⟫ 3 "Vieh besitzend" <!-- TODO: Fallback translation -->
+⟪पशुमन्त्⟫ 3 "szarvasmarhát birtokló"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | semlegesnem :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पशुमतोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Nem: br ⟪पुंस्⟫ | Semleges nem: br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पशुमतोस्⟫ ||
 :::
-⟪महान्त्⟫ 3 "gross" <!-- TODO: Fallback translation -->
+⟪महान्त्⟫ 3 "nagy"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | semlegesnem :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪महद्भ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪महतोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Nem: br ⟪पुंस्⟫ | Semleges nem: br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪महद्भ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪महतोस्⟫ ||
 :::
-⟪आत्मन्⟫ m. <!-- TODO: Fallback translation -->
+⟪आत्मन्⟩ m.
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪आत्मानौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪आत्मभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪आत्मनोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Férfi nem :br ⟪पुंस्⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪आत्मानौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪आत्मभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪आत्मनोस्⟫ |
 :::
-⟪ब्रह्मन्⟫ n. <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ n.
 
 ::: grammar-box
-|   | semlegesnem :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ब्रह्मणी⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ब्रह्मभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ब्रह्मणोस्⟫ | <!-- TODO: Fallback translation -->
+|   | középnem :br ⟪नपुंसक⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ब्रह्मणी⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ब्रह्मभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ब्रह्मणोस्⟫ |
 :::
-⟪राजन्⟫ m. "König" <!-- TODO: Fallback translation -->
+⟪राजन्⟫ m. "Király"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪राजानौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪राजभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪राज्ञोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Férfi nem :br ⟪पुंस्⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪राजानौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪राजभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪राज्ञोस्⟫ |
 :::
-⟪सीमन्⟫ f. "Grenze" <!-- TODO: Fallback translation -->
+⟪सीमन्⟫ f. "Határ"
 
 ::: grammar-box
-|   | nőnem :br ⟪स्त्री⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सीमानौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सीमभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सीम्नोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Női nem :br ⟪स्त्री⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सीमानौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सीमभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सीम्नोस्⟫ |
 :::
-⟪नामन्⟫ n. "Name" <!-- TODO: Fallback translation -->
+⟪नामन्⟫ n. "Név"
 
 ::: grammar-box
-|   | semlegesnem :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br sig[⟪नामानी⟫] | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ | <!-- TODO: Fallback translation -->
+|   | középnem :br ⟪नपुंसक⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟩ :br sig[⟪नामानी⟫] |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
-## 53.4. Der Dual vokalisch auslautender Stämme <!-- TODO: Fallback translation -->
+## 53.4. A kettős szám magánhangzó végű tövek esetén
 
-**Stämme auf -a** <!-- TODO: Fallback translation -->
+**-a végződésű tövek**
 
-⟪देव⟫ m. "Gott"  
-⟪फल⟫ n. "Frucht" <!-- TODO: Fallback translation -->
+⟪देव⟫ m. "Isten"  
+⟪फल⟫ n. "Gyümölcs"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | semlegesnem :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | sig[⟪देवाभ्याम्⟫] | sig[⟪फलाभ्याम्⟫] | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | sig[⟪देवयोस्⟫] | sig[⟪फलयोस्⟫] | <!-- TODO: Fallback translation -->
+|   | hímnem :br ⟪पुंस्⟫ | középnem :br ⟪नपुंसक⟫ |
+| :---: | :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | sig[⟪देवाभ्याम्⟫] | sig[⟪फलाभ्याम्⟫] |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | sig[⟪देवयोस्⟫] | sig[⟪फलयोस्⟫] |
 :::
 ::: media
 ![](/images/lekt5306.webp)
-Abb.: ⟪फले⟫
-(Bildquelle: [Details](/licenses#lekt5306)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪फले⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5306))
 :::
-**Stämme auf -i** <!-- TODO: Fallback translation -->
+**-i végződésű tövek**
 
-⟪अग्नि⟫ m. "Feuer"  
-⟪वारि⟫ n. "Wasser"  
-⟪मति⟫ f. "Gedanke" <!-- TODO: Fallback translation -->
+⟪अग्नि⟫ m. "tűz"  
+⟪वारि⟫ n. "víz"  
+⟪मति⟫ f. "gondolat"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | nőnem :br ⟪स्त्री⟫ | semlegesnem :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | sig[⟪अग्नी⟫] | sig[⟪मती⟫] | ⟪वारिणी⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Masculinum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
+| :---: | :---: | :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | sig[⟪अग्नी⟫] | sig[⟪मती⟫] | ⟪वारिणी⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
-**Stämme auf -u** <!-- TODO: Fallback translation -->
+**Stemmek -u**
 
 ⟪शत्रु⟫ m.  
 ⟪धिनु⟫ f.  
-⟪मधु⟫ n. <!-- TODO: Fallback translation -->
+⟪मधु⟫ n.
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | nőnem :br ⟪स्त्री⟫ | semlegesnem :br ⟪नपुंसक⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | sig[⟪शत्रू⟫] | sig[⟪धेनू⟫] | ⟪मधुनी⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪शत्र्वोस्⟫ | ⟪धेन्वोस्⟫ | ⟪मधुनोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Masculinum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
+| :---: | :---: | :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | sig[⟪शत्रू⟫] | sig[⟪धेनू⟫] | ⟪मधुनी⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪शत्र्वोस्⟫ | ⟪धेन्वोस्⟫ | ⟪मधुनोस्⟫ |
 :::
 ::: media
 ![](/images/lekt5307.webp)
 Abb.: ⟪धेनू⟫
-(Bildquelle: [Details](/licenses#lekt5307)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés: [Details](/hu/licenses#lekt5307))
 :::
-**Stämme auf -ā** <!-- TODO: Fallback translation -->
+**Stemmek -ā**
 
-⟪कन्या⟫ f. "Mädchen" <!-- TODO: Fallback translation -->
+⟪कन्या⟫ f. "lány"
 
 ::: grammar-box
-|   | nőnem :br ⟪स्त्री⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | sig[⟪कन्ये⟫] | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | sig[⟪कन्ययोस्⟫] | <!-- TODO: Fallback translation -->
+|   | nőnem :br ⟪स्त्री⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | sig[⟪कन्ये⟫] |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | sig[⟪कन्ययोस्⟫] |
 :::
-**Mehrsilbige Stämme auf -ī** <!-- TODO: Fallback translation -->
+**Több szótagú -ī végű tövek**
 
-⟪देवी⟫ f. "Göttin" <!-- TODO: Fallback translation -->
+⟪देवी⟫ f. "istennő"
 
 ::: grammar-box
-|   | nőnem :br ⟪स्त्री⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देव्यौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪देव्योस्⟫ | <!-- TODO: Fallback translation -->
+|   | nőnem :br ⟪स्त्री⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देव्यौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪देव्योस्⟫ |
 :::
-**Stämme auf -ṛ** <!-- TODO: Fallback translation -->
+**-ṛ végű tövek**
 
-⟪दातृ⟫ 3 "Geber" <!-- TODO: Fallback translation -->
+⟪दातृ⟫ 3 „Adományozó”
 
 ::: grammar-box
-|   | Maskulininum/nőnem :br ⟪पुंस्⟫/⟪स्त्री⟫ | semlegesnem :br ⟪नपुंसक⟫ <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | sig[⟪दातृणी⟫] <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ || <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ || <!-- TODO: Fallback translation -->
+|   | Férfi nem/női nem :br ⟪पुंस्⟫/⟪स्त्री⟫ | középnem :br ⟪नपुंसक⟫
+| :---: | :---: | :---:
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | sig[⟪दातृणी⟫]
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
-⟪पितृ⟫ m. "Vater" <!-- TODO: Fallback translation -->
+⟪पितृ⟫ m. „Apa”
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ | <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ | <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ | <!-- TODO: Fallback translation -->
+|   | Férfi nem :br ⟪पुंस्⟫ |
+| :---: | :---: |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ |
 :::
-## 53.5. Dualdvandva <!-- TODO: Fallback translation -->
+## 53.5. Kettős dvandva
 
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
-⟪अर्थधर्मौ⟫ "Nutzen (⟪अर्थ⟫) und Dharma"
-⟪युधिष्ठिरार्जुनौ⟫ "Yudhiṣṭhira und Arjuna"
-⟪सुखदुःखे⟫ (neben: ⟪सुखदुःखम्⟫) "Glück und Leid"
-⟪शीतोष्णे⟫ "Kälte und Wärme" <!-- TODO: Fallback translation -->
+⟪अर्थधर्मौ⟫ "Haszon (⟪अर्थ⟫) és dharma"
+⟪युधिष्ठिरार्जुनौ⟫ "Yudhiṣṭhira és Arjuna"
+⟪सुखदुःखे⟫ (mellett: ⟪सुखदुःखम्⟫) "Boldogság és szenvedés"
+⟪शीतोष्णे⟫ "Hideg és meleg"
 :::
 ::: grammar-box
-**Werden zwei Verwandtschaftswörter auf -ṛ (oder zwei Substantive auf -ṛ, die Bezeichnungen für Opferpriester sind) zu einem Dvandva komponiert, so steht das erste Glied in der Form des Nominativ Singular:** <!-- TODO: Fallback translation -->
+**Ha két rokonsági név -ṛ végződésűre (vagy két -ṛ végződésű főnévre, amelyek áldozati papok megnevezései) Dvandva szerkezetbe rendeződnek, az első tag nominativus egyes számú alakban áll:**
 
 :::
 ::: indent
-⟪मा⟫sig[⟪ता⟫]⟪पितरौ⟫ "Mutter und Vater" <!-- TODO: Fallback translation -->
+⟪मा⟫sig[⟪ता⟫]⟪पितरौ⟫ "Édesanya és édesapa"
 :::
-**Dasselbe geschieht mit einem solchen Verwandtschaftswort in einem Dvandva vor -⟪पुत्र⟫ :** <!-- TODO: Fallback translation -->
+**Ugyanez történik egy ilyen rokonsági névvel Dvandva előtt -⟪पुत्र⟫ :**
 
 ::: indent
-⟪पितापुत्रौ⟫ "Vater und Sohn" <!-- TODO: Fallback translation -->
+⟪पितापुत्रौ⟫ "Édesapa és fiú"
 :::
-**Bilden die Namen zweier Gottheiten, die gewöhnlich bei Opfern genannt werden, ein Dvandva, so wird der auslautende Vokal des ersten Gliedes gewöhnlich verlängert:** <!-- TODO: Fallback translation -->
+**Ha két istenség neve, amelyeket áldozatokkor szokás megnevezni, Dvandva szerkezetbe rendeződik, az első tag végén álló magánhangzót általában meghosszabbítják:**
 
 ::: indent
-⟪मि⟫sig[⟪त्रा⟫]⟪वरुणौ⟫ "Mitra und Varuṇa"
-⟪अग्नीसोमौ⟫ "Agni und Soma" <!-- TODO: Fallback translation -->
+⟪मि⟫sig[⟪त्रा⟫]⟪वरुणौ⟫ "Mitra és Varuṇa"
+⟪अग्नीसोमौ⟫ "Agni és Soma"
 :::
-**Auch bei anderen Dvandva kommt diese Vokalverlängerung vor.** <!-- TODO: Fallback translation -->
+**Egyéb Dvandva esetében is előfordul ez a magánhangzó-hosszabbítás.**
 ::: media
 ![](/images/lekt5308.webp)
-Abb.: ⟪पितापुत्रौ⟫
-(Bildquelle: [Details](/licenses#lekt5308)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪पितापुत्रौ⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5308))
 :::
-## 53.6. Der Dual von Pronomina <!-- TODO: Fallback translation -->
+## 53.6. A névmások duális alakja
 
 ::: grammar-box
-|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫ <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: <!-- TODO: Fallback translation -->
-| **hímnem** |   |   |   |   |   <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ <!-- TODO: Fallback translation -->
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫ <!-- TODO: Fallback translation -->
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫ <!-- TODO: Fallback translation -->
-|   |   |   |   |   |   <!-- TODO: Fallback translation -->
-| **semlegesnem** |   |   |   |   |   <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ <!-- TODO: Fallback translation -->
-|   | Rest wie hímnem |||||||| <!-- TODO: Fallback translation -->
-| **nőnem** |   |   |   |   |   <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ <!-- TODO: Fallback translation -->
-|   | Rest wie hímnem |||||||| <!-- TODO: Fallback translation -->
+|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫
+| :--- | :---: | :---: | :---: | :---: | :---:
+| **hímnem** |   |   |   |   |
+| ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫
+|   |   |   |   |   |
+| **semlegesnem** |   |   |   |   |
+| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
+| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+|   | A többi mint hímnem ||||||||
+| **nőnem** |   |   |   |   |
+| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
+| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
+|   | A többi mint hímnem ||||||||
 :::
-⟪कतर⟫ 3 "wer von beiden" und ⟪कतम⟫ 3 "wer von mehreren" werden in allen Kasus wie ⟪यद्⟫ dekliniert. <!-- TODO: Fallback translation -->
+⟪कतर⟫ 3 "aki közül kettő" és ⟪कतम⟫ 3 "aki közül több" mindes esetben úgy declineszkálnak, mint ⟪यद्⟫.
 
-## 53.7. Pronominaladjektive <!-- TODO: Fallback translation -->
+## 53.7. Melléknemű határozószavak
 
-Folgende Pronominaladjektive werden in allen Kasus wie ⟪यद्⟫ dekliniert: <!-- TODO: Fallback translation -->
+A következő melléknemű határozószavak mindes esetben úgy declineszkálnak, mint ⟪यद्⟫:
 
-*   ⟪अन्य⟫ 3 "ein anderer" <!-- TODO: Fallback translation -->
-*   ⟪अन्यतर⟫ 3 "einer von zweien" <!-- TODO: Fallback translation -->
-*   ⟪इतर⟫ 3 "der andere" <!-- TODO: Fallback translation -->
+*   ⟪अन्य⟫ 3 "egy másik"
+*   ⟪अन्यतर⟫ 3 "egy a kettő közül"
+*   ⟪इतर⟫ 3 "a másik"
 
-*   ⟪सर्व⟫ 3 "jeder, alle" wird in allen Kasus ausser dem Nom.Akk.sg.n (⟪सर्वम्⟫) wie ⟪यद्⟫ dekliniert. <!-- TODO: Fallback translation -->
-*   ⟪उभय⟫ 3 "beide" hat keinen kettes szám (dualis). Im egyes szám und többes szám mask. und neutr. wird es wie ⟪सर्व⟫ dekliniert. nőnem: ⟪उभयी⟫ (wie ⟪देवी⟫). <!-- TODO: Fallback translation -->
-*   ⟪उभ⟫ 3 "beide" wird nur im kettes szám (dualis) gebraucht und wird wie ⟪देव⟫ m., ⟪फल⟫ n. bzw. ⟪देवता⟫ f. dekliniert. <!-- TODO: Fallback translation -->
+*   ⟪सर्व⟫ 3 „mindenki, mind” minden ragozási esetben a nominatívus és akkusativus egyes szám középnem kivételével (⟪सर्वम्⟫) úgy ragozódik, mint ⟪यद्⟫.
+*   ⟪उभय⟫ 3 „kettő” nincs kettes szám (dualis). Az egyes és többes számban neműsített és semleges alakban úgy ragozódik, mint ⟪सर्व⟫. Női nem: ⟪उभयी⟫ (mint ⟪देवी⟫).
+*   ⟪उभ⟫ 3 „kettő” csak kettes számban (dualis) használatos, és úgy ragozódik, mint ⟪देव⟫ m., ⟪फल⟫ n. illetve ⟪देवता⟫ f.
 
-Folgende Pronominaladjektive werden wie ⟪सर्व⟫ dekliniert. Im Abl.Lok.sg.m.n sowie in im Nom.pl. können sie nach der -a- bzw. -ā-Deklination dekliniert werden: <!-- TODO: Fallback translation -->
+A következő névmási melléknevek úgy ragozódnak, mint ⟪सर्व⟫. Az ablatívus és lokativus egyes szám m.n., valamint a nominativus többes számban az -a- vagy -ā-ragozás szerint is ragozhatók:
 
-*   ⟪अपर⟫ 3 "ein anderer" <!-- TODO: Fallback translation -->
-*   ⟪उत्तर⟫ 3 "der obere, nördliche, nachfolgende" <!-- TODO: Fallback translation -->
-*   ⟪पर⟫ 3 "der folgende, spätere" <!-- TODO: Fallback translation -->
-*   ⟪पूर्व⟫ 3 "der vorausgehende, östliche" <!-- TODO: Fallback translation -->
-*   ⟪स्व⟫ 3 "eigen (mein, dein, sein ...)" <!-- TODO: Fallback translation -->
+*   ⟪अपर⟫ 3 „egy másik”
+*   ⟪उत्तर⟫ 3 „felső, északi, következő”
+*   ⟪पर⟫ 3 „következő, későbbi”
+*   ⟪पूर्व⟫ 3 „előző, keleti”
+*   ⟪स्व⟫ 3 „saját (enyém, tiéd, övé ...)”
 
-## 53.8. Unregelmässige Steigerung <!-- TODO: Fallback translation -->
+## 53.8. Szabálytalan fokozás
 
 ::: grammar-box
-**Eine Anzahl von Adjektiven bildet den Komparativ bzw. Superlativ mit folgenden ⟪कृत्⟫-Suffixen (!):** <!-- TODO: Fallback translation -->
+**Egy számú melléknevek képezik a komparatívot, ill. szuperlatívust az alábbi ⟪कृत्⟫-képzőkkel (!):**
 
-*   Komparativ: **-īyas** <!-- TODO: Fallback translation -->
-*   Superlativ: **-iṣṭha** <!-- TODO: Fallback translation -->
+*   Komparatív: **-īyas**
+*   Szuperlatívus: **-iṣṭha**
 
-**Während die ⟪तद्धित⟫-Suffixe -⟪तर⟫ und -⟪तम⟫ an den Maskulinstamm des Adjektivs treten, werden die Suffixe -⟪ईयस्⟫ und -⟪इष्ठ⟫ an die Wurzel angefügt, von der das Adjektiv abgeleitet ist (sofern es eine solche Wurzel gibt!). Der Wurzelvokal ist hochstufig.** <!-- TODO: Fallback translation -->
+**Míg a ⟪तद्धित⟫-képzők -⟪तर⟫ és -⟪तम⟫ a melléknem hímnemű tövéhez kapcsolódnak, addig a -⟪ईयस्⟫ és -⟪इष्ठ⟫ képzők a melléknem származtatott gyökeréhez csatolódnak (amennyiben ilyen gyökér létezik!). A gyökvowel magas fokú.**
 
-**Superlative auf -iṣṭha (Fem.: iṣṭhā) werden wie a- bzw. ā-Stämme dekliniert.** <!-- TODO: Fallback translation -->
+**-iṣṭha végződésű szuperlatívusok (nőnem: iṣṭhā) az a- vagy ā-törzsek szerint ragozódnak.**
 
-**Deklination von -īyas siehe unten.** <!-- TODO: Fallback translation -->
+**Deklination von -īyas siehe unten.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: grammar-box
-| Tő | Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- | --- <!-- TODO: Fallback translation -->
-| ⟪क्षिप्⟫ 6P "werfen" | ⟪क्षिप्र⟫ 3 "schnell" | sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 | <!-- TODO: Fallback translation -->
-| ⟪स्था⟫ 1P "stehen" | ⟪स्थिर⟫ 3 "beständig, fest" | sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 | <!-- TODO: Fallback translation -->
+| Tő | Melléknév | Komparatív | Szuperlatív |
+| --- | --- | ---
+| ⟪क्षिप्⟫ 6P "dobni" | ⟪क्षिप्र⟫ 3 "gyors" | sig[⟪क्षेपीयस्⟫] 3 "gyorsabb" :br ⟪क्षिप्रतर⟫ 3 | sig[⟪क्षेपिष्ठ⟫] 3 "leggyorsabb" :br ⟪क्षिप्रतम⟫ 3 |
+| ⟪स्था⟫ 1P "állni" | ⟪स्थिर⟫ 3 "tartós, szilárd" | sig[⟪स्थेयस्⟫] 3 "szilárdabb" :br ⟪स्थिरतर⟫ 3 | sig[⟪स्थेष्ठ⟫] 3 "legszilárdabb" :br ⟪स्थिरतम⟫ 3 |
 :::
-**Besondere Regeln für die Anfügung dieser Suffixe:** <!-- TODO: Fallback translation -->
+**Különleges szabályok e képzők hozzátételéhez:**
 
 ::: grammar-box
-**Regel 1:** **Der auslautende Vokal eines mehrsilbigen Maskulinstammes oder der auslautende Vokal und der vorausgehende Vokal fallen ab.** <!-- TODO: Fallback translation -->
+**1. szabály:** **A több szótagú hímnemű töv végi magánhangzója, illetve a végmagánhangzó és az azt megelőző magánhangzó kiesik.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| ⟪पाप⟫ 3 "böse" | ⟪पा⟫sig[⟪पी⟫]⟪यस्⟫ | ⟪पा⟫sig[⟪पि⟫]⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪महान्त्⟫ 3 "gross" | ⟪म⟫sig[⟪ही⟫]⟪यस्⟫ | ⟪म⟫sig[⟪हि⟫]⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
+| Melléknév | Komparatív | Szuperlatív |
+| --- | ---
+| ⟪पाप⟫ 3 "rossz" | ⟪पा⟫sig[⟪पी⟫]⟪यस्⟫ | ⟪पा⟫sig[⟪पि⟫]⟪ष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "nagy" | ⟪म⟫sig[⟪ही⟫]⟪यस्⟫ | ⟪म⟫sig[⟪हि⟫]⟪ष्ठ⟫ |
 :::
 ::: grammar-box
-**Regel 2:** **Possessivsuffixe (-mant, vant, -vin, -in u.ä.) fallen ab. Besteht der übrig bleibende Teil nur aus einer Silbe, wird er nicht weiter verändert, nur durch die Verbindung mit dem Possesivsuffix bedingte Lautveränderungen werden rückgängig gemacht. Besteht der Rest aber aus mehr als einer Silbe, tritt Regel 1 in Kraft.** <!-- TODO: Fallback translation -->
+**2. szabály:** **Birtokos képzők (-mant, vant, -vin, -in stb.) kiesnek. Ha a megmaradó rész csak egy szótagból áll, azt nem változtatjuk tovább; csupán a birtokos képzővel való kapcsolódásból eredő hangváltozások visszavonásra kerülnek. Ha azonban a maradék több szótagból áll, az 1. szabály lép érvénybe.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪ध⟫sig[⟪नी⟫]⟪यस्⟫ | ⟪ध⟫sig[⟪नि⟫]⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪ब⟫sig[⟪ली⟫]⟪यस्⟫ | ⟪ब⟫sig[⟪लि⟫]⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪वसुमन्त्⟫ "Güter besitzend" | ⟪व⟫sig[⟪सी⟫]⟪यस्⟫ | ⟪व⟫sig[⟪सि⟫]⟪ष्ठ⟫ | <!-- TODO: Fallback translation -->
+| Melléknév | Fokozatfokozás (Komparatív) | Legfokozott fok (Szuperlatív) |
+| --- | ---
+| ⟪धनवन्त्⟫ 3 "gazdag" | ⟪ध⟫sig[⟪नी⟫]⟪यस्⟫ | ⟪ध⟫sig[⟪नि⟫]⟪ष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(különösen) erős" | ⟪ब⟫sig[⟪ली⟫]⟪यस्⟫ | ⟪ब⟫sig[⟪लि⟫]⟪ष्ठ⟫ |
+| ⟪वसुमन्त्⟫ "javakat birtokoló" | ⟪व⟫sig[⟪सी⟫]⟪यस्⟫ | ⟪व⟫sig[⟪सि⟫]⟪ष्ठ⟫ |
 :::
 ::: grammar-box
-**Regel 3:** **Für -ṛ-, dem ein Anfangsvokal vorausgeht und auf das nur ein einziger Konsonant folgt, wird -ra- substituiert.** <!-- TODO: Fallback translation -->
+**3. szabály:** **-ṛ- esetén, ha azt kezdő magánhangzó követi, és csak egy mássalhangzó következik rá, -ra-ra helyettesítik.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ | <!-- TODO: Fallback translation -->
+| Melléknév | Fokozatfokozás (Komparatív) | Legfokozott fok (Szuperlatív) |
+| --- | ---
+| ⟪पृथु⟫ 3 "széles" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
 :::
-**Verzeichnis der häufigsten Steigerungsformen solcher Art zu bisher gelernten Adjektiven:** <!-- TODO: Fallback translation -->
+**A korábban tanult melléknevek ilyen típusú fokozási formáinak gyakori listája:**
 
 ::: grammar-box
-| Adjektiv | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| ⟪अल्प⟫ 3 "klein, wenig" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪क्षिप्र⟫ 3 "schnell" :br (zu ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪गुरु⟫ 3 "schwer" :br (zu *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪दीर्घ⟫ 3 "lang" :br (zu *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪दूर⟫ 3 "fern" :br (zu *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪पाप⟫ 3 "böse" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪पृथु⟫ 3 "breit" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪प्रिय⟫ 3 "lieb" | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪महान्त्⟫ 3 "gross" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪युवन्⟫ 3 "jung" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪स्थिर⟫ 3 "fest" :br (zu ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ | <!-- TODO: Fallback translation -->
-| ⟪ह्रस्व⟫ 3 "kurz" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ | <!-- TODO: Fallback translation -->
+| Melléknév | Fokozatfokozás (Komparatív) | Legfokozott fok (Szuperlatív) |
+| --- | ---
+| ⟪अल्प⟫ 3 "kicsi, kevés" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
+| ⟪क्षिप्र⟫ 3 "gyors" :br (a ⟪क्षिप्⟫-ból) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
+| ⟪गुरु⟫ 3 "nehéz" :br (a *⟪गृ⟫-ból) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
+| ⟪दीर्घ⟫ 3 "hosszú" :br (a *⟪दृघ्⟫-ból) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
+| ⟪दूर⟫ 3 "távol" :br (a *⟪दु⟫/*⟪दू⟫-ból) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
+| ⟪धनवन्त्⟫ 3 "gazdag" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ |
+| ⟪पाप⟫ 3 "rossz" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ |
+| ⟪पृथु⟫ 3 "széles" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
+| ⟪प्रिय⟫ 3 "kedves" | ⟪प्रेयस्⟫ | ⟪प्रेष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(különösen) erős" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "nagy" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
+| ⟪युवन्⟫ 3 "fiatal" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
+| ⟪स्थिर⟫ 3 "szilárd" :br (a ⟪स्था⟫-ból) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
+| ⟪ह्रस्व⟫ 3 "rövid" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
 :::
 ::: media
 ![](/images/lekt5309.webp)
-Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
-(Bildquelle: [Details](/licenses#lekt5309)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5309))
 :::
-**Einige Steigerungsformen dieser Art haben überhaupt keine wurzelverwandte Grundform, sie sind "defektiv". Deshalb sind folgende Reihen besonders zu merken:** <!-- TODO: Fallback translation -->
+**Egyes ilyen típusú fokozási formáknak egyáltalán nincs gyökszoros alapformájuk, ezek "defektívek". Ezért a következő sorrendeket különösen meg kell jegyezni:**
 
 ::: grammar-box
-| (Adjektiv) | Komparativ | Superlativ | <!-- TODO: Fallback translation -->
-| --- | --- <!-- TODO: Fallback translation -->
-| (⟪अल्प⟫ 3 "klein, wenig") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ | <!-- TODO: Fallback translation -->
-| (⟪प्रशस्य⟫ 3 "lobenswert, gut") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" | <!-- TODO: Fallback translation -->
-| (⟪बहु⟫ 3 "viel") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| (⟪वृद्ध⟫ 3 "alt") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ | <!-- TODO: Fallback translation -->
-| (⟪वृद्ध⟫ 3 "alt") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" | <!-- TODO: Fallback translation -->
+| (Melléknév) | Fokozatfokozás (Komparatív) | Legfokozott fok (Szuperlatív) |
+| --- | ---
+| (⟪अल्प⟫ 3 "kicsi, kevés") | ⟪कनीयस्⟫ :br vö. ⟪कन्या⟫ n. "lány = a kicsi" | ⟪कनिष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "dicséretre méltó, jó") | ⟪श्रेयस्⟫ :br a ⟪श्री⟫ n. "fény" -ból | ⟪श्रेष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "dicséretre méltó, jó") | ⟪ज्यायस्⟫ :br továbbá: "idősebb" :br a ⟪ज्या⟫ n. "fölény" -ból | ⟪ज्येष्ठ⟫ :br továbbá: "legidősebb" |
+| (⟪बहु⟫ 3 "sok") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "idős") | ⟪वर्षीयस्⟫ :br a ⟪वर्ष⟫ n.m. "esős évszak, év" -ból | ⟪वर्षिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "idős") | ⟪ज्यायस्⟫ :br továbbá: "jobb" :br a ⟪ज्या⟫ n. "fölény" -ból | ⟪ज्येष्ठ⟫ :br továbbá: "legjobb" |
 :::
-## 53.9. Deklination der Komparative auf -īyas <!-- TODO: Fallback translation -->
+## 53.9. Az -īyas végű komparatívok deklinációja
 
 ::: grammar-box
-**Komparative auf -īyas bilden das Femininum auf -īyasī (Deklination wie ⟪देवी⟫). Das maskulinum und Neutrum wird nach folgendem Paradigma dekliniert.** <!-- TODO: Fallback translation -->
+**A -īyas végződésű komparatívok képezik a nőnemet -īyasī végződéssel (ragozás mint ⟪देवी⟫). A nemnem és a középnem ragozása az alábbi táblázat szerint történik.**
 :::
 ::: grammar-box
 
-|   | ⟪एकवचनम्⟫ || ⟪द्विवचनम्⟫ || ⟪बहुवचनम्⟫ || <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪गरीयान्⟫ | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪गरीयांसम्⟫ | ⟪गरीयस्⟫ | ^^ | ^^ | ⟪गरीयसस्⟫ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪गरीयसा⟫ || ⟪गरीयोभ्याम्⟫ || ⟪गरीयोभिस्⟫ || <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪गरीयसे⟫ || ^^ || ⟪गरीयोभ्यस्⟫ || <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪गरीयसस्⟫ || ^^ || ^^ || <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ || <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ || <!-- TODO: Fallback translation -->
-| ⟪आमन्त्रितम्⟫ | sig[⟪गरीयान्⟫] | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ || ⟪द्विवचनम्⟫ || ⟪बहुवचनम्⟫ ||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ |
+| ⟪प्रथमा⟫ | ⟪गरीयान्⟫ | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+| ⟪द्वितीया⟫ | ⟪गरीयांसम्⟫ | ⟪गरीयस्⟫ | ^^ | ^^ | ⟪गरीयसस्⟫ | ^^ |
+| ⟪तृतीया⟫ | ⟪गरीयसा⟫ || ⟪गरीयोभ्याम्⟫ || ⟪गरीयोभिस्⟫ ||
+| ⟪चतुर्थी⟫ | ⟪गरीयसे⟫ || ^^ || ⟪गरीयोभ्यस्⟫ ||
+| ⟪पञ्चमी⟫ | ⟪गरीयसस्⟫ || ^^ || ^^ ||
+| ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
+| ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
+| ⟪आमन्त्रितम्⟫ | sig[⟪गरीयान्⟫] | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
 :::
-## 53.10. Metrik (Lehre von den Versmassen) <!-- TODO: Fallback translation -->
+## 53.10. Metrika (a versmértékek tanítása)
 
 ::: media
 ![](/images/lekt5303.jpg)
-Abb.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
-(Bildquelle: [Details](/licenses#lekt5303)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5303))
 :::
-Siehe auch: <!-- TODO: Fallback translation -->
+Lásd még:
 
-> **Payer, Alois \<1944 - \>:** Einführung in die Exegese von Sanskrittexten : Skript. -- Kap. 8: Die eigentliche Exegese, Teil II: Zu einzelnen Fragestellungen synchronen Verstehens. -- Anhang B: Zur Metrik von Sanskrittexten. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm) <!-- TODO: Fallback translation -->
+> **Payer, Alois \&lt;1944 - \&gt;:** Bevezetés a szanszkrit szövegek exegézisébe : jegyzet. -- 8. fejezet: A valódi exegézis, II. rész: Külön kérdések a szinkronikus megértéshez. -- B függelék: A szanszkrit szövegek metrikájáról. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
-### 53.10.1. Bedeutung der Bestimmung des Metrums <!-- TODO: Fallback translation -->
+### 53.10.1. A mérték meghatározásának jelentése
 
-Die Bestimmung des Metrums ist aus folgenden Gründen wichtig: <!-- TODO: Fallback translation -->
+A mértékek meghatározása az alábbi okok miatt fontos:
 
-1.  **Ästhetisch:** das Versmass macht u.a. die Schönheit einer Aussage aus. Auch dienen bestimmte Versmasse u.U. dazu, bestimmte Stimmungen auszudrücken, oder sie sind bestimmten Ständen (⟪वर्ण⟫) zugeordnet. Die verschiedenen Versmasse werden je verschieden rezitiert. :br Einen guten Eindruck der ästhetischen Wirkung gibt z.B. die Rezitation des ⟪शिवताण्डवस्तोत्र⟫ (Lobpreis des Tanzes Śivas): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58) <!-- TODO: Fallback translation -->
-2.  **Textkritisch:** Fehler im Versmass können ein Hinweis darauf sein, dass der Text an einer Stelle nicht korrekt überliefert ist. Das Versmass hilft, Textverbesserungen vorzunehmen. <!-- TODO: Fallback translation -->
-3.  **Chronologisch:** gewisse Versmasse gingen im Lauf der Geschichte bestimmte Veränderungen durch. Das kann bei der ungefähren Datierung eines Textes helfen. Siehe dazu **Oldenberg, Hermann \<1854 - 1920\>:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Beides abgedruckt in: :br **Oldenberg, Hermann \<1854 - 1920\>:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255. <!-- TODO: Fallback translation -->
+1.  **Esztétikai szempontból:** a versmérték többek között egy állítás szépségét adja. Bizonyos versmértékek bizonyos hangulatok kifejezésére is szolgálhatnak, vagy bizonyos társadalmi rendekhez (⟪वर्ण⟩) vannak kapcsolva. A különböző versmértékeket eltérően recitálják. :br Egy jó benyomást adó esztétikai hatás például a ⟪शिवताण्डवस्तोत्र⟩ (Śiva táncának dicsérete) recitálása: [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+2.  **Szövegkritikai szempontból:** a versmértékbeli hibák arra utalhatnak, hogy egy adott helyen a szöveg nem került hűen átadásra. A versmérték segít a szöveghelyesbítések elvégzésében.
+3.  **Kronológiai szempontból:** bizonyos versmértékek történeti folyamat során bizonyos változásokon mentek keresztül. Ez segíthet egy szöveg hozzávetőleges keltezésében. Lásd: **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Zur Geschichte der Triṣṭhubh ; uő.: Zur Geschichte des Śloka. -- Mindkettő megtalálható: :br **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
-Abb.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
-(Bildquelle: [Details](/licenses#lekt5304)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪हर्मन्⟩-⟪ओल्डन्बेर्ग्⟩
+(Képmeghatározás: [Details](/hu/licenses#lekt5304))
 :::
-### 53.10.2. Arten von Metren <!-- TODO: Fallback translation -->
+### 53.10.2. A mértékek fajtái
 
 ::: grammar-box
-**Die Inder unterscheiden:** <!-- TODO: Fallback translation -->
+**Az indiaiak megkülönböztetnek:**
 
-*   **⟪वृत्त⟫ n.:** Metren, bei denen die Zahl der Silben (⟪अक्षर⟫) festgelegt ist <!-- TODO: Fallback translation -->
-*   **⟪जाति⟫ f.:** Metren, bei denen die Summe der metrischen Längeneinheiten (⟪मात्रा⟫) (Moren) festgelegt ist (zu diesen später) <!-- TODO: Fallback translation -->
+*   **⟪वृत्त⟫ n.:** olyan métrák, ahol a szótagok száma (⟪अक्षर⟫) van rögzítve
+*   **⟪जाति⟫ f.:** olyan métrák, ahol a metrikus hosszúsági egységek (⟪मात्रा⟫) (mórák) összege van rögzítve (ezekről később)
 
-**Bei den Metren, bei denen die Zahl der Silben festgelegt ist (⟪वृत्त⟫) kann man zunächst weiter unterscheiden:** <!-- TODO: Fallback translation -->
+**Azoknál a métráknál, ahol a szótagok száma van rögzítve (⟪वृत्त⟫), további megkülönböztetést tehetünk:**
 
-*   Metren, bei denen die Zahl der Silben festgelegt ist, die Quantität dieser Silben aber nur teilweise <!-- TODO: Fallback translation -->
-*   Metren, bei denen die Zahl der Silben and deren Quantität festgelegt ist <!-- TODO: Fallback translation -->
+*   olyan métrák, ahol a szótagok száma van rögzítve, de ezeknek a szótagoknak a mennyisége csak részben
+*   olyan métrák, ahol mind a szótagok száma, mind pedig azok mennyisége van rögzítve
 :::
-### 53.10.3. Die metrische Quantität von Silben <!-- TODO: Fallback translation -->
+### 53.10.3. A szótagok metrikus mennyisége
 
 ::: grammar-box
-**Merkvers** <!-- TODO: Fallback translation -->
+**Emlékezővers**
 
 :::
 ::: indent
 ⟪सानुस्वारश्च⟫ ⟪दीर्घश्च⟫
 ⟪विसर्गी⟫ ⟪च⟫ ⟪गुरुर्भवेत्⟫ ⟪।⟫
 ⟪वर्णः⟫ ⟪संयोगपूर्वश्च⟫
-⟪तथा⟫ ⟪पादान्तगो⟫ ⟪ऽपि⟫ ⟪वा⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪तथा⟫ ⟪पादान्तगो⟫ ⟪ऽपि⟫ ⟪वा⟫ ⟪॥⟫
 :::
-"Eine Silber ist schwer, <!-- TODO: Fallback translation -->
+"Egy ezüst nehéz,
 
-*   wenn ihr Vokal einen Anusvāra hat, <!-- TODO: Fallback translation -->
-*   lang ist, <!-- TODO: Fallback translation -->
-*   einen Visarga hat, <!-- TODO: Fallback translation -->
-*   ebenso wenn er vor einer Konsonantenverbindung steht <!-- TODO: Fallback translation -->
-*   sowie wenn die Silbe am Schluss eines Viertelverses (Pāda) steht." <!-- TODO: Fallback translation -->
+*   wenn ihr Vokal einen Anusvāra hat,
+*   hosszú,
+*   visarga-t tartalmaz,
+*   ugyanúgy, ha mássalhangzó-együttes előtt áll
+*   valamint, ha a szótag egy félvers (pāda) végén áll."
 ::: grammar-box
-**Eine Silbe ist** <!-- TODO: Fallback translation -->
+**Egy szótag**
 
-*   entweder **⟪लघु⟫ = leicht** <!-- TODO: Fallback translation -->
-*   oder **⟪गुरु⟫ = schwer** <!-- TODO: Fallback translation -->
+*   vagyis **⟪लघु⟫ = könnyű**
+*   vagy **⟪गुरु⟫ = nehéz**
 
-**⟪लघु⟫ = leicht ist eine Silbe, wenn** <!-- TODO: Fallback translation -->
+**⟪लघु⟫ = könnyű egy szótag, ha**
 
-*   ihr Vokal kurz ist und auf diesen Vokal <!-- TODO: Fallback translation -->
-*   kein Anusvāra, <!-- TODO: Fallback translation -->
-*   kein Visarga, <!-- TODO: Fallback translation -->
-*   nicht zwei Konsonanten folgen. <!-- TODO: Fallback translation -->
+*   a magánhangzó rövid, és erre a magánhangzóra
+*   kein Anusvāra,
+*   nem következik visarga,
+*   nem két mássalhangzó.
 
-Kurze Vokale sind a, i, u, ṛ, ḷ <!-- TODO: Fallback translation -->
+Kurze Vokale sind a, i, u, ṛ, ḷ
 
-**Alle anderen Silben sind ⟪गुरु⟫ = schwer. Die letzte Silbe eines Versviertels (⟪पाद⟫) gilt immer als ⟪गुरु⟫.** <!-- TODO: Fallback translation -->
+**Minden más szótag ⟪गुरु⟫ = nehéz. Egy versnegyed utolsó szótagja (⟪पाद⟫) mindig ⟪गुरु⟫.**
 
-In der metrischen Analyse bedeutet: <!-- TODO: Fallback translation -->
+A metrikai elemzésben ez jelenti:
 
-*   **◡** = ⟪ल⟫ = ⟪लघु⟫ <!-- TODO: Fallback translation -->
-*   **—** = ⟪ग⟫ = ⟪गुरु⟫ <!-- TODO: Fallback translation -->
-*   **×** = ⟪लघु⟫ oder ⟪गुरु⟫ <!-- TODO: Fallback translation -->
-*   **/** = Zäsur (Worttrennung) <!-- TODO: Fallback translation -->
+*   **◡** = ⟪ल⟫ = ⟪लघु⟫
+*   **—** = ⟪ग⟫ = ⟪गुरु⟫
+*   **×** = ⟪लघु⟫ vagy ⟪गुरु⟫
+*   **/** = caesura (szótagolás)
 :::
-Beispiel: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫: <!-- TODO: Fallback translation -->
+Példa: ⟪भगवद्गीता⟫ ⟪१⟫,⟪१⟫:
 
 ::: indent
 ⟪धर्मक्षेत्रे⟫ ⟪कुरुक्षेत्रे⟫ ⟪समवेता⟫ ⟪युयुत्सवः⟫ ⟪।⟫
-⟪मामकाः⟫ ⟪पाण्डवाश्चैव⟫ ⟪किम्⟫ ⟪अकुर्वत⟫ ⟪संजय⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪मामकाः⟫ ⟪पाण्डवाश्चैव⟫ ⟪किम्⟫ ⟪अकुर्वत⟫ ⟪संजय⟫ ⟪॥१॥⟫
 :::
-Verteilung von ⟪लघु⟫ und ⟪गुरु⟫ : <!-- TODO: Fallback translation -->
+⟪लघु⟫ és ⟪गुरु⟫ eloszlása:
 
 ::: metrik-schema
-— — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —** <!-- TODO: Fallback translation -->
+— — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
 :::
 ::: metrik-schema
-— ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —** <!-- TODO: Fallback translation -->
+— ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
 :::
-### 53.10.4. Der epische Śloka (⟪श्लोक⟫ m.) <!-- TODO: Fallback translation -->
+### 53.10.4. Az eposzi śloka (⟪श्लोक⟫ m.)
 
 ::: grammar-box
-**Merkvers:** <!-- TODO: Fallback translation -->
+**Emlékezővers:**
 
 :::
 ::: indent
 ⟪श्लोके⟫ ⟪षष्ठं⟫ ⟪गुरु⟫ ⟪ज्ञेयं⟫
 ⟪सर्वत्र⟫ ⟪लघु⟫ ⟪पञ्चमम्⟫ ⟪।⟫
 ⟪द्विचतुष्पादयोर्ह्रस्वं⟫
-⟪सप्तमं⟫ ⟪दीर्घमन्ययोः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪सप्तमं⟫ ⟪दीर्घमन्ययोः⟫ ⟪॥⟫
 :::
-"Im Śloka ist die sechste Silbe eines Pāda schwer,  
-die fünfte in allen Pādas leicht  
-Die siebte Silbe ist im zweiten und vierten Pāda kurz, lang in den beiden anderen."
-Das wichtigste Versmass in den Epen (⟪महाभारत⟫, ⟪रामायण⟫) sowie unzähligen anderen Werken ist der Śloka ("Ruf", "Geräusch", "Strophe" zu ⟪श्रु⟫ "hören"). <!-- TODO: Fallback translation -->
+"A ślokában a páda hatodik szótagja nehéz,  
+az ötödik minden pādában könnyű.
+A hetedik szótag rövid a második és negyedik pādában, hosszú a másik kettőben."
+A legfontosabb versmérték az eposzokban (⟪महाभारत⟫, ⟪रामायण⟫), valamint számos más műben a śloka ("hívószó", "zaj", "stílus" a ⟪श्रु⟫ "hallani" szóból).
 
 ::: grammar-box
-**Der ⟪श्लोक⟫ ist eine Doppelvers aus Halbversen zu je 16 Silben. Jeder Halbvers zerfällt wieder in zwei Viertelverse (⟪पाद⟫) zu je 8 Silben. Jeder Viertelvers zerfällt in zwei Teile zu je 4 Silben. Der ganze Vers (⟪पद्य⟫ n.) besteht also aus vier ⟪पाद⟫ (m. "Fuss, Viertel"). Die vier ⟪पाद⟫ werden mit a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫) durchgezählt.** <!-- TODO: Fallback translation -->
+**A ⟪श्लोक⟫ egy kettős vers, félversekből állóan, mindegyik 16 szótaggal. Minden félveres tovább oszlik két negyedversre (⟪पाद⟫), mindegyik 8 szótaggal. Minden negyedveres tovább oszlik két részre, mindegyik 4 szótaggal. Az egész vers (⟪पद्य⟫ n.) tehát négy ⟪पाद⟫-ból áll (m. "láb, negyed"). A négy ⟪पाद⟫-ot a, b, c, (⟪क्⟫, ⟪ख्⟫, ⟪ग्⟫, ⟪घ्⟫) számozással jelöljük.**
 
-**Aufbau des Śloka:** <!-- TODO: Fallback translation -->
+**A śloka felépítése:**
 
-**Grundschema (⟪पथ्या⟫):** <!-- TODO: Fallback translation -->
+**Alapséma (⟪पथ्या⟫):**
 
-**a = c:** <!-- TODO: Fallback translation -->
+**a = c:**
 :::
 ::: metrik-schema
-× × × ×   **◡ — — —** <!-- TODO: Fallback translation -->
+× × × ×   **◡ — — —**
 :::
-**b = d:** <!-- TODO: Fallback translation -->
+**b = d:**
 ::: metrik-schema
-× × × ×   **◡ — ◡ —** <!-- TODO: Fallback translation -->
+× × × ×   **◡ — ◡ —**
 :::
-Die zweite und dritte Silbe eines ⟪पाद⟫ sollten nicht zugleich ⟪लघु⟫ sein. In b und d darf Silbe 2 - 4 nicht ¯ ˘ ¯ sein. <!-- TODO: Fallback translation -->
+A második és harmadik szótag egy ⟪पाद⟫ nem lehet egyszerre ⟪लघु⟫. A b és d sávokban a 2–4. szótag nem lehet ¯ ˘ ¯.
 
-**Nebenschemata (⟪विपुला⟫) für a und c:** <!-- TODO: Fallback translation -->
+**Kiegészítő sémák (⟪विपुला⟩) az a és c számára:**
 
-**⟪विपुला⟫ 1:** <!-- TODO: Fallback translation -->
+**⟪विपुला⟫ 1.:**
 ::: metrik-schema
-× × × —   ◡ ◡ ◡ — <!-- TODO: Fallback translation -->
+× × × —   ◡ ◡ ◡ —
 :::
-**⟪विपुला⟫ 2:** <!-- TODO: Fallback translation -->
+**⟪विपुला⟫ 2.:**
 ::: metrik-schema
-× — ◡ —   — ◡ ◡ — <!-- TODO: Fallback translation -->
+× — ◡ —   — ◡ ◡ —
 :::
-**⟪विपुला⟫ 3:** <!-- TODO: Fallback translation -->
+**⟪विपुला⟫ 3.:**
 ::: metrik-schema
-× — ◡ —   — / — — — <!-- TODO: Fallback translation -->
+× — ◡ —   — / — — —
 :::
-**⟪विपुला⟫ 4:** <!-- TODO: Fallback translation -->
+**⟪विपुला⟫ 4.:**
 ::: metrik-schema
-× × × ×   / — ◡ — — <!-- TODO: Fallback translation -->
+× × × ×   / — ◡ — —
 :::
-**Bei allen Ślokaformen liegt die Hauptzäsur am Ende des 2. ⟪पाद⟫ : dort ist entweder Wortende oder - bei langen Komposita - Ende eines Kompositionsgliedes.** <!-- TODO: Fallback translation -->
-## 53.11. Übung <!-- TODO: Fallback translation -->
+**Minden Śloka-formánál a fő caesura a 2. ⟪पाद⟫ végén található: ott van a szó vége, vagy – hosszú összetételek esetén – egy összetétel tagjának a vége.**
+## 53.11. Gyakorlat
 
 ::: grammar-box
-**Bestimmen sie unter allen bisher gelernten Versen die Ślokas. Machen Sie zu diesen schriftlich das metrische Schema. Weisen Sie auf eventuelle Unregelmässigkeiten bzw. Vipulāformen hin.** <!-- TODO: Fallback translation -->
+**Határozzák meg az eddig tanult versek közül a szlokákat. Készítsék ezekhez írásban a metrikai sémát. Mutassák meg az esetleges szabálytalanságokat vagy Vipulā-formákat.**
 :::
 ::: center
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
-⟪श्रीगणेशाय⟫ ⟪नमः⟫ <!-- TODO: Fallback translation -->
+⟪श्रीगणेशाय⟫ ⟪नमः⟫
 :::
 ::: deleteme-box
-**Quellen** <!-- TODO: Fallback translation -->
+**Források**
 
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm) <!-- TODO: Fallback translation -->
+**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
 Alois Maria Payer  
-⟪श्रीगणेशाय⟫ ⟪नमः⟫ <!-- TODO: Fallback translation -->
+⟪श्रीगणेशाय⟫ ⟪नमः⟫
 :::
 ::: deleteme-box
 
-**Payer, Alois \<1944 - \>:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer). <!-- TODO: Fallback translation -->
+**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
 :::
 

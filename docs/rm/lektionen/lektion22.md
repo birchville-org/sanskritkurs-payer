@@ -50,7 +50,7 @@ Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां�
 
 **Educaziun:**
 
-(meist) tiefstufige Wurzel in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-⟪त्वा⟫**)
+(meist) tiefstufige Radis in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-⟪त्वा⟫**)
 
 Sulei la negaziun **a-** / **an-** tolerescha cun il suffix **-⟪त्वा⟫** : **⟪अकृत्वा⟫** "senza avair fatg"
 
@@ -88,7 +88,7 @@ Sulei la negaziun **a-** / **an-** tolerescha cun il suffix **-⟪त्वा�
 
 **⟪प्राप्य⟫** "nachdem er (...) erlangt hat / hatte"
 :::
-#### 22.2.2.2. Wurzeln auf -ā
+#### 22.2.2.2. Radisn auf -ā
 
 ::: grammar-box
 
@@ -116,7 +116,7 @@ Sulei la negaziun **a-** / **an-** tolerescha cun il suffix **-⟪त्वा�
 
 **⟪संस्कृत्य⟫** "nachdem er (...) fürs Opfer zubereitet hat / hatte"
 :::
-#### 22.2.2.4. Wurzeln auf -am / -an, die in der Tiefstufe auf -a auslauten
+#### 22.2.2.4. Radisn auf -am / -an, die in der Tiefstufe auf -a auslauten
 
 ::: grammar-box
 

@@ -1,6 +1,6 @@
 ---
 title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+subtitle: "Las desinenzas persunalas da la emprima persuna (sig[⟪उत्तमः⟫ ⟪पुरुषः⟫] = \"**emprima** persuna\")"
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,30 +9,30 @@ status: stable
 
 # Lektion 39
 
-## 39.1. Las desinenzas persunalas da la emprima persuna (***⟪तृतीयः⟫⟫ ⟪पुरुषः⟫ = "**terza** persuna")
+## 39.1. Las desinenzas persunalas da la emprima persuna (sig[⟪उत्तमः⟫ ⟪पुरुषः⟫] = "**emprima** persuna")
 
-Las desinenzas da la prima persuna (***⟪⟪तृतीयः⟫⟫⟪⟪पुरुषः⟫⟫ = "**terza** persuna") èn:
+Las desinenzas da la prima persuna (sig[⟪उत्तमः⟫ ⟪पुरुषः⟫] = "**emprima** persuna") èn:
 
 ::: grammar-box
 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Primärendung thematische Stämme** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
-| **Primärendung athematische Stämme** | ^^ | ^^ | **-e** | ^^ |
-| **Sekundärendung thematische Stämme** | **-m** | **-ma** | **-i** | **-mahi** |
-| **Sekundärendung athematische Stämme** | **-am** | ^^ | ^^ | ^^ |
-| **Optativendung** | ^^ | ^^ | **-a** | ^^ |
-| **Perfektendung** | **-a** | ^^ | **-e** | **-mahe** |
+| **Desinenza primara da stramps tematics** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
+| **Desinenza primara da stramps atematics** | ^^ | ^^ | **-e** | ^^ |
+| **Desinenza secundara da stramps tematics** | **-m** | **-ma** | **-i** | **-mahi** |
+| **Desinenza secundara da stramps atematics** | **-am** | ^^ | ^^ | ^^ |
+| **Desinenza d'optativ** | ^^ | ^^ | **-a** | ^^ |
+| **Desinenza da perfect** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
 1 Nota: en realitad è la desinenza primara Ā dals stals tematics er da stabilirar sco -e, avant il qual la vocala dal tema -a- daventa nul per motivs d'analogia. L'effect è però, sco sche la desinenza -i s'attasscha a la vocala dal tema -a-: a + i » e.
 
-## 39.2. Furmaiziun dals verbs da la emprima persuna da stems tematics dal present
+## 39.2. Furmaziun dals verbs da la emprima persuna da stems tematics dal present
 
 ::: grammar-box
 **Regla:**
-**Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!**
+**Avant -mi, -mas, -ma, -mahe, -mahi vegn la vocala tematica -a- remplazzada tras -ā- !!!**
 :::
 ### 39.2.1. Emprima classa da prezens (⟪भ्वादि⟫)
 
@@ -43,8 +43,8 @@ Las desinenzas da la prima persuna (***⟪⟪तृतीयः⟫⟫⟪⟪प�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brgueldig: bhav-e | **\<⟪भवामहे⟫\>** |
+| **Imperfect  - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
 
 :::
@@ -57,8 +57,8 @@ Las desinenzas da la prima persuna (***⟪⟪तृतीयः⟫⟫⟪⟪प�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪विशामि⟫ | ⟪विशामस्⟫ | **\<⟪विशे⟫\>** | **\<⟪विशामहे⟫\>** |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अविशम्⟫ | ⟪अविशाम⟫ | **\<⟪अविशे⟫\>** | **\<⟪अविशामहि⟫\>** |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪विशामि⟫ | ⟪विशामस्⟫ | **\<⟪विशे⟫\>** | **\<⟪विशामहे⟫\>** |
+| **Imperfect  - ⟪लङ्⟫** | ⟪अविशम्⟫ | ⟪अविशाम⟫ | **\<⟪अविशे⟫\>** | **\<⟪अविशामहि⟫\>** |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪विशेयम्⟫ | ⟪विशेम⟫ | **\<⟪विशेय⟫\>** | **\<⟪विशेमहि⟫\>** |
 
 :::
@@ -71,8 +71,8 @@ Las desinenzas da la prima persuna (***⟪⟪तृतीयः⟫⟫⟪⟪प�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪नृत्यामि⟫ | ⟪नृत्यामस्⟫ | **\<⟪नृत्ये⟫\>** | **\<⟪नृत्यामहे⟫\>** |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अनृत्यम्⟫ | ⟪अनृत्याम⟫ | **\<⟪अनृत्ये⟫\>** | **\<⟪अनृत्यामहि⟫\>** |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪नृत्यामि⟫ | ⟪नृत्यामस्⟫ | **\<⟪नृत्ये⟫\>** | **\<⟪नृत्यामहे⟫\>** |
+| **Imperfect  - ⟪लङ्⟫** | ⟪अनृत्यम्⟫ | ⟪अनृत्याम⟫ | **\<⟪अनृत्ये⟫\>** | **\<⟪अनृत्यामहि⟫\>** |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪नृत्येयम्⟫ | ⟪नृत्येम⟫ | **\<⟪नृत्येय⟫\>** | **\<⟪नृत्येमहि⟫\>** |
 
 :::
@@ -85,8 +85,8 @@ Las desinenzas da la prima persuna (***⟪⟪तृतीयः⟫⟫⟪⟪प�
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪चोरयामि⟫ | ⟪चोरयामस्⟫ | ⟪चोरये⟫ | ⟪चोरयामहे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अचोरयम्⟫ | ⟪अचोरयाम⟫ | ⟪अचोरये⟫ | ⟪अचोरयामहि⟫ |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪चोरयामि⟫ | ⟪चोरयामस्⟫ | ⟪चोरये⟫ | ⟪चोरयामहे⟫ |
+| **Imperfect  - ⟪लङ्⟫** | ⟪अचोरयम्⟫ | ⟪अचोरयाम⟫ | ⟪अचोरये⟫ | ⟪अचोरयामहि⟫ |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪चोरयेयम्⟫ | ⟪चोरयेम⟫ | ⟪चोरयेय⟫ | ⟪चोरयेमहि⟫ |
 
 :::
@@ -98,17 +98,17 @@ Las desinenzas da la prima persuna (***⟪⟪तृतीयः⟫⟫⟪⟪प�
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪ईक्ष्ये⟫ :brīkṣ-ya + i | ⟪ईक्ष्यामहे⟫ |
+| **Imperfect  - ⟪लङ्⟫** | ⟪ऐक्ष्ये⟫ :bra + īkṣ-ya + i | ⟪ऐक्ष्यामहि⟫ |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
 
 :::
-## 39.3. Furmaiziun dals verbs da la emprim persuna dal futur simpl - ⟪ऌत्⟫
+## 39.3. Furmaziun dals verbs da la emprim persuna dal futur simpl - ⟪ऌत्⟫
 
 ::: grammar-box
 **Il futur ha ina construcziun tematica. Perquai vala er la regla per stizs tematics:**
 
-**Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!**
+**Avant -mi, -mas, -mahe vegn la vocala tematica -a- remplazzada tras -ā- !!!**
 :::
 ### 39.3.1. Furma⟪अनिट्⟫
 
@@ -122,7 +122,7 @@ Las desinenzas da la prima persuna (***⟪⟪तृतीयः⟫⟫⟪⟪प�
 | **Futur  - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
-### 39.3.2. ⟪सेट्⟫-Bildung
+### 39.3.2. Furmaziun ⟪सेट्⟫
 
 ⟪भू⟫ 1P
 
@@ -134,7 +134,7 @@ Las desinenzas da la prima persuna (***⟪⟪तृतीयः⟫⟫⟪⟪प�
 | **Futur  - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
 
 :::
-## 39.4. Furmaiziun dals verbs da la emprim persuna da stims da presens atemats
+## 39.4. Furmaziun dals verbs da la emprim persuna da stims da presens atemats
 
 ::: grammar-box
 **Notizai ch’è che en il intern dal pled – en cuntrast cun il sandhi da frasa – avant desinenzas che cumenzan cun**
@@ -155,8 +155,8 @@ z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P **⟪व⟫***⟪च्मि⟫***
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪द्वेष्मि⟫ | ⟪द्विष्मस्⟫ | ⟪द्विषे⟫ :brdviṣ-e | ⟪द्विष्महे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अद्वेषम्⟫ | ⟪अद्विष्म⟫ | ⟪अद्विषि⟫ | ⟪अद्विष्महि⟫ |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪द्वेष्मि⟫ | ⟪द्विष्मस्⟫ | ⟪द्विषे⟫ :brdviṣ-e | ⟪द्विष्महे⟫ |
+| **Imperfect  - ⟪लङ्⟫** | ⟪अद्वेषम्⟫ | ⟪अद्विष्म⟫ | ⟪अद्विषि⟫ | ⟪अद्विष्महि⟫ |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪द्विष्याम्⟫ :brdviṣ-yā + m | ⟪द्विष्याम⟫ | ⟪द्विषीय⟫ :brdviṣ-īy-a | ⟪द्विषीमहि⟫ |
 
 :::
@@ -167,8 +167,8 @@ z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P **⟪व⟫***⟪च्मि⟫***
 | | ⟪परस्मैपदम्⟫ ||
 | :--- | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪अस्मि⟫ | ⟪स्मस्⟫ :brs-mas |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪आसाम्⟫ :bra + as-am | ⟪आस्म⟫ |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪अस्मि⟫ | ⟪स्मस्⟫ :brs-mas |
+| **Imperfect  - ⟪लङ्⟫** | ⟪आसाम्⟫ :bra + as-am | ⟪आस्म⟫ |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪स्याम्⟫ :brs-yā + m | ⟪स्याम⟫ |
 
 :::
@@ -186,8 +186,8 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪जुहोमि⟫ | ⟪जुहुमस्⟫ | **\<⟪जुह्वे⟫\>** :brju-hu + e | **\<⟪जुहुमहे⟫\>** |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अजुहवम्⟫ :bra-juho + am | ⟪अजुहुम⟫ | **\<⟪अजुहवि⟫\>** | **\<⟪अजुहुमहि⟫\>** |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪जुहोमि⟫ | ⟪जुहुमस्⟫ | **\<⟪जुह्वे⟫\>** :brju-hu + e | **\<⟪जुहुमहे⟫\>** |
+| **Imperfect  - ⟪लङ्⟫** | ⟪अजुहवम्⟫ :bra-juho + am | ⟪अजुहुम⟫ | **\<⟪अजुहवि⟫\>** | **\<⟪अजुहुमहि⟫\>** |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪जुहुयाम्⟫ | ⟪जुहुयाम⟫ | **\<⟪जुह्वीय⟫\>** :brjuhu + īy-a | **\<⟪जुह्वीमहि⟫\>** |
 
 :::
@@ -198,8 +198,8 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪दधामि⟫ | ⟪दध्मस्⟫ | ⟪दधे⟫ :brdadh-e | ⟪दध्महे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अदधाम्⟫ :bra-dadh + am | ⟪अदध्म⟫ | ⟪अदधि⟫ | ⟪अदध्महि⟫ |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪दधामि⟫ | ⟪दध्मस्⟫ | ⟪दधे⟫ :brdadh-e | ⟪दध्महे⟫ |
+| **Imperfect  - ⟪लङ्⟫** | ⟪अदधाम्⟫ :bra-dadh + am | ⟪अदध्म⟫ | ⟪अदधि⟫ | ⟪अदध्महि⟫ |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪दध्याम्⟫ | ⟪दध्याम⟫ | ⟪दधीय⟫ | ⟪दधीमहि⟫ |
 
 :::
@@ -215,8 +215,8 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪सुनोमि⟫ | ⟪सुनुमस्⟫ / ⟪सुन्मस्⟫ | ⟪सुन्वे⟫ | ⟪सुनुमहे⟫ / ⟪सुन्महे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪असुनवम्⟫ | ⟪असुनुम⟫ / ⟪असुन्म⟫ | ⟪असुन्वि⟫ | ⟪असुनुमहि⟫ / ⟪असुन्महि⟫ |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪सुनोमि⟫ | ⟪सुनुमस्⟫ / ⟪सुन्मस्⟫ | ⟪सुन्वे⟫ | ⟪सुनुमहे⟫ / ⟪सुन्महे⟫ |
+| **Imperfect  - ⟪लङ्⟫** | ⟪असुनवम्⟫ | ⟪असुनुम⟫ / ⟪असुन्म⟫ | ⟪असुन्वि⟫ | ⟪असुनुमहि⟫ / ⟪असुन्महि⟫ |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪सुनुयाम्⟫ | ⟪सुनुयाम⟫ | ⟪सुन्वीय⟫ | ⟪सुन्वीमहि⟫ |
 
 :::
@@ -229,8 +229,8 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪तनोमि⟫ | ⟪तनुमस्⟫ / ⟪तन्मस्⟫ | ⟪तन्वे⟫ | ⟪तनुमहे⟫ / ⟪तन्महे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अतनवम्⟫ | ⟪अतनुम⟫ / ⟪अतन्म⟫ | ⟪अतन्वि⟫ | ⟪अतनुमहि⟫ / ⟪अतन्महि⟫ |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪तनोमि⟫ | ⟪तनुमस्⟫ / ⟪तन्मस्⟫ | ⟪तन्वे⟫ | ⟪तनुमहे⟫ / ⟪तन्महे⟫ |
+| **Imperfect  - ⟪लङ्⟫** | ⟪अतनवम्⟫ | ⟪अतनुम⟫ / ⟪अतन्म⟫ | ⟪अतन्वि⟫ | ⟪अतनुमहि⟫ / ⟪अतन्महि⟫ |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪तनुयाम्⟫ | ⟪तनुयाम⟫ | ⟪तन्वीय⟫ | ⟪तन्वीमहि⟫ |
 
 :::
@@ -241,8 +241,8 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪करोमि⟫ | ⟪कुर्मस्⟫ | ⟪कुर्वे⟫ | ⟪कुर्महे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अकरवम्⟫ | ⟪अकुर्म⟫ | ⟪अकुर्वि⟫ | ⟪अकुर्महि⟫ |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪करोमि⟫ | ⟪कुर्मस्⟫ | ⟪कुर्वे⟫ | ⟪कुर्महे⟫ |
+| **Imperfect  - ⟪लङ्⟫** | ⟪अकरवम्⟫ | ⟪अकुर्म⟫ | ⟪अकुर्वि⟫ | ⟪अकुर्महि⟫ |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪कुर्याम्⟫ | ⟪कुर्याम⟫ | ⟪कुर्वीय⟫ | ⟪कुर्वीमहि⟫ |
 
 :::
@@ -255,8 +255,8 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪युनज्मि⟫ :bryu-na-j-mi | ⟪युञ्ज्मस्⟫ :bryu + n + j-mas | ⟪युञ्जे⟫ | ⟪युञ्ज्महे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अयुनजम्⟫ | ⟪अयुञ्ज्म⟫ | ⟪अयुञ्जि⟫ | ⟪अयुञ्ज्महि⟫ |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪युनज्मि⟫ :bryu-na-j-mi | ⟪युञ्ज्मस्⟫ :bryu + n + j-mas | ⟪युञ्जे⟫ | ⟪युञ्ज्महे⟫ |
+| **Imperfect  - ⟪लङ्⟫** | ⟪अयुनजम्⟫ | ⟪अयुञ्ज्म⟫ | ⟪अयुञ्जि⟫ | ⟪अयुञ्ज्महि⟫ |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪युञ्ज्याम्⟫ | ⟪युञ्ज्याम⟫ | ⟪युञ्जीय⟫ | ⟪युञ्जीमहि⟫ |
 
 :::
@@ -269,8 +269,8 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens  - ⟪लट्⟫** | ⟪क्रीणामि⟫ | ⟪क्रीणीमस्⟫ | ⟪क्रीणे⟫ :brkrī + n-e | ⟪क्रीणीमहे⟫ |
-| **Imperfekt  - ⟪लङ्⟫** | ⟪अक्रीणाम्⟫ :bra-krī + nā + am | ⟪अक्रीणीम⟫ | ⟪अक्रीणि⟫ | ⟪अक्रीणीमहि⟫ |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪क्रीणामि⟫ | ⟪क्रीणीमस्⟫ | ⟪क्रीणे⟫ :brkrī + n-e | ⟪क्रीणीमहे⟫ |
+| **Imperfect  - ⟪लङ्⟫** | ⟪अक्रीणाम्⟫ :bra-krī + nā + am | ⟪अक्रीणीम⟫ | ⟪अक्रीणि⟫ | ⟪अक्रीणीमहि⟫ |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪क्रीणीयाम्⟫ | ⟪क्रीणीयाम⟫ | ⟪क्रीणीय⟫ :brkrī + n-īy-a | ⟪क्रीणीमहि⟫ |
 
 :::

@@ -180,8 +180,8 @@ Abb.: ⟪क्व⟫
 | Suffix | |
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
+| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Significaziun "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Significaziun "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Significaziun "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Composita adverbiala
@@ -316,7 +316,7 @@ A voutadas è mo cumprendibel dal context, sche ina frasa è ina frasa da dumond
 ::: grammar-box
 Schema I:
 
-Verbo - parte restante della frase
+Verbo - parte restante da la frasa
 :::
 Esempio:
 ::: indent
@@ -325,7 +325,7 @@ Esempio:
 ::: grammar-box
 Schema II:
 
-Particella interrogativa (per lo più all'inizio della frase) - Frase
+Particella interrogativa (per lo più all'inizio da la frasa) - Frase
 
 Las particlas interrogativas pli impurtantas èn:
 

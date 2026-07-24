@@ -14,7 +14,7 @@ status: stable
 ::: grammar-box
 **Educaziun:**
 
-*   Stamm stark: Wurzelniveau tief + -nā-
+*   Stamm stark: Radisniveau tief + -nā-
 
 *   stem debole:
 
@@ -117,22 +117,22 @@ L'optativ (⟪लिङ्⟫), l'imperfet (⟪लङ्⟫), l'aorist (⟪ल�
 
 | | 3. Person Singular | 3. Person Plural |
 | :--- | :--- | :--- |
-| **Parasmaipada** | **-t** | athematische Klassen: **-an** oder **-ur** :brOptativ: **-ur** |
+| **Parasmaipada** | **-t** | athematische Klassen: **-an** ni **-ur** :brOptativ: **-ur** |
 | **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran** |
 
 :::
-## 30.4. Furmaiziun dal Optativ Present (⟪लिङ्⟫)
+## 30.4. Furmaziun dal Optativ Present (⟪लिङ्⟫)
 
 ### 30.4.1. Thematische Präsensklassen
 
 ::: grammar-box
 **avant las finas che cumenzan cun consonantas:**
 
-**Präsensstamm + -i- (das mit dem -a- zu -e- verschmilzt) + Sekundärendungen**
+**Stampa da preschent + -i- (das mit dem -a- zu -e- verschmilzt) + Sekundärendungen**
 
 **davant de sufixes començant per una vocal:**
 
-**Präsensstamm + -i- (» -e-) + -y- + Sekundärendung**
+**Stampa da preschent + -i- (» -e-) + -y- + Sekundärendung**
 :::
 Ezempels:
 
@@ -189,7 +189,7 @@ Ezempels:
 
 **Ātmanepada:**
 
-**schwacher Präsensstamm + -ī- + Sekundärendung**
+**schwacher Stampa da preschent + -ī- + Sekundärendung**
 :::
 Beispiele:
 

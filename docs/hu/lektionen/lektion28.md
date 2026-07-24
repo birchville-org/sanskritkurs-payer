@@ -1,476 +1,476 @@
 ---
-title: Lektion 28
+title: 28. lecke
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 28 <!-- TODO: Fallback translation -->
+# 28. lecke
 
-## 28.1. Das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫) <!-- TODO: Fallback translation -->
-
-::: grammar-box
-**Will man ausdrücken, dass jemand oder etwas veranlasst oder bewirkt, dass jemand anderer oder etwas anderes etwas tut oder erleidet, was durch eine Wurzel (mit oder ohne Präverb) ausgedrückt wird, so verwendet man das Kausativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).** <!-- TODO: Fallback translation -->
-
-Beispiel:
-⟪गम्⟫ "gehen" » Kausativ: ⟪गमयति⟫ "er veranlasst, dass jemand geht; er schickt"
-⟪दृश्⟫ "sehen" » Kausativ: ⟪दर्शयति⟫ "er macht sehen = er zeigt" <!-- TODO: Fallback translation -->
-:::
-
-## 28.2. Satzkonstruktion mit dem Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫) <!-- TODO: Fallback translation -->
+## 28.1. A causativum (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**Schema 1:** <!-- TODO: Fallback translation -->
+**Ha valaki vagy valami meg akarja fejezni, hogy valakit vagy valamit arra késztet vagy okoz, hogy egy másik személy vagy valami mást cselekszik vagy elszenved, amit egy gyökér (prefixummal vagy anélkül) fejez ki, akkor a causativumot használjuk (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
 
-**Wenn die dem Kausativ zugrundeliegende Wurzel (mit oder ohne Präverb) INTRANSITIV ist (d.h. kein Akkusativobjekt bei sich haben kann) oder Bewegung, Wissen, Information oder Essen ausdrückt:** <!-- TODO: Fallback translation -->
-
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Akkusativ (⟪द्वितीया⟫) — (Ziel der Bewegung, Objekt des Wissens usw. im Akkusativ = ⟪द्वितीया⟫) — Verb im Kausativ** <!-- TODO: Fallback translation -->
+Példa:
+⟪गम्⟫ "menni" » Kausatívum: ⟪गमयति⟫ "ő arra készteti, hogy valaki menjen; ő elküldi"
+⟪दृश्⟫ "látni" » Kausatívum: ⟪दर्शयति⟫ "ő látásba hoz = ő mutat"
 :::
-Beispiele: <!-- TODO: Fallback translation -->
 
-⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "ein böser Mensch bewirkt, dass Rāma verwirrt ist = verwirrt den Rāma = bewirkt, dass Rāma irrt"
-Ergebnis: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma ist verwirrt / verblendet / irrt." <!-- TODO: Fallback translation -->
+## 28.2. Mondatkonstrukció a kausatívummal (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
-⟪रामः⟫ ⟪शत्रून्स्वर्गं⟫ ⟪गमयति⟫ = "Rāma macht die Feinde in den Himmel gehen = schickt die Feinde in den Himmel"
-Ergebnis: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = "die Feinde gehen zum Himmel / kommen in den Himmel" <!-- TODO: Fallback translation -->
+::: grammar-box
+**Séma 1:**
 
-⟪गुरू⟫ ⟪रामं⟫ ⟪वेदार्थं⟫ ⟪वेदयति⟫ = "Der Meister macht Rāma den Sinn des Veda wissen = erklärt / lehrt Rāma den Sinn des Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = "Rāma kennt / versteht den Sinn des Veda" <!-- TODO: Fallback translation -->
+**Ha az alapvető kausatívum gyökere (prefixummal vagy anélkül) INTRANSZITÍV (azaz nem állhat birtokában akkuzatív tárgy), vagy mozgást, tudást, információt vagy evést fejez ki:**
 
-⟪स⟫ ⟪रामं⟫ ⟪वेदमध्यापयति⟫ = "er lehrt Rāma den Veda"
-Ergebnis: ⟪रामो⟫ ⟪वेदमधीते⟫ "Rāma studiert den Veda" <!-- TODO: Fallback translation -->
+**Agens (⟪कर्ता⟫) a kausatívum nominativusában (⟪प्रथमा⟫) — a kiváltott cselekvés agense az accusativusban (⟪द्वितीया⟫) — (a mozgás célja, az ismeret tárgya stb. az accusativusban = ⟪द्वितीया⟫) — ige a kausatívban**
+:::
+Példák:
 
-⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Rāma lässt die Götter Unsterblichkeitsspeise essen = gibt den Göttern Unsterblichkeitsspeise zu essen" (⟪अश्⟫ 9 "essen")
-Ergebnis: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Die Götter essen Unsterblichkeitsspeise" <!-- TODO: Fallback translation -->
+⟪दुर्जनो⟫ ⟪रामं⟫ ⟪मोहयति⟫ = "egy gonosz ember okozza, hogy Rāma zavarban van = összezavarja Rāmát = okozza, hogy Rāma téved"
+Eredmény: ⟪रामो⟫ ⟪मुह्यति⟫ = "Rāma zavarban van / vakított / téved."
+
+⟪रामः⟫ ⟪शत्रून्स्वर्गं⟫ ⟪गमयति⟫ = "Rāma a ellenségeket az égbe küldi = elküldi az ellenségeket az égbe"
+Eredmény: ⟪शत्रवः⟫ ⟪स्वर्गं⟫ ⟪गच्छन्ति⟫ = "az ellenségek az égbe mennek / érkeznek az égbe"
+
+⟪गुरू⟫ ⟪रामं⟫ ⟪वेदार्थं⟫ ⟪वेदयति⟫ = "A mester Rāmának megérteti a Védák értelmét = elmagyarázza / tanítja Rāmának a Védák értelmét"
+Eredmény: ⟪रामो⟫ ⟪वेदार्थं⟫ ⟪वेत्ति⟫ = "Rāma ismeri / érti a Védák értelmét"
+
+⟪स⟫ ⟪रामं⟫ ⟪वेदमध्यापयति⟫ = "ő tanítja Rámát a Védára"
+Eredmény: ⟪रामो⟫ ⟪वेदमधीते⟫ "Ráma tanulmányozza a Védát"
+
+⟪रामो⟫ ⟪देवानामृतमाशयति⟫ = "Ráma a isteneket halhatatlanság-étellel eteti = adja az isteneknek a halhatatlanság-étel evését" (⟪अश्⟫ 9 "eszik")
+Eredmény: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Az istenek eszik a halhatatlanság-ételt"
 
 ::: media
 ![](/images/lekt2802.webp)
-Abb.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
-ISKCON Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt2801)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
+ISKCON Templom Bangalor.
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2801))
 :::
 
 ::: grammar-box
-**Nach Schema 1 konstruiert u.a. auch die Wurzel ⟪दृश्⟫:** <!-- TODO: Fallback translation -->
+**Az 1. sémát követve konstruált többek között a ⟪दृश्⟫ gyökér:**
 
-**Ausnahmen zu Schema 1 siehe unter Schema 2** <!-- TODO: Fallback translation -->
+**Ausnahmen zu Schema 1 siehe unter Schema 2**
 
-Beispiel:
-(⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "er zeigt dem Rāma den Sohn" <!-- TODO: Fallback translation -->
+Példa:
+(⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = „megmutatja Rámának a fiút”
 :::
-Der folgende Vers fasst Beispiele für die Kausativbildung nach Schema 1 zusammen (bei den Verbalformen handelt es sich jeweils um die 3. Person Imperfekt Parasmaipada): <!-- TODO: Fallback translation -->
+A következő vers Schema 1 szerinti kausatív képzés példáit foglalja össze (a ragozott igék mind 3. személyű, imperfectum parasmaipada alakok):
 ::: indent
 ⟪शत्रूनगमयत्स्वर्गं⟫
 ⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
 ⟪आशयच्चामृतं⟫ ⟪देवान्⟫
 ⟪वेदमध्यापयद्विधिम्⟫ ⟪।⟫
 ⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
-⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
 :::
 
 ::: indent
-Meine Zuflucht und mein Ziel ist Hari,
-Der die Feinde in den Himmel schickte,
-Der die Seinen die Bedeutung des Veda lehrte,
-Der die Götter mit Unsterblichkeitsspeise speiste,
-Der den Schöpfer den Veda lehrte,
-Der die Erde in das Wasser setzte. <!-- TODO: Fallback translation -->
+Hari az én menedékem és célom,
+aki ellenségeit mennybe küldte,
+aki tanítványait a Védák jelentésével ismertetett meg,
+aki az isteneket halhatatlansági étellel etette,
+aki a teremtőnek megmutatta a Védákat,
+aki a földet vízbe helyezte.
 :::
 ::: media
 ![](/images/lekt2801.webp)
-Abb.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
-Jadavpur University Management building.
-(Bildquelle: [Details](/licenses#lekt2802)) <!-- TODO: Fallback translation -->
+Kép: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
+A Jadavpur Egyetem igazgatósági épülete.
+(Képmegjelölés: [Részletek](/hu/licenses#lekt2802))
 :::
 
 ::: grammar-box
-**Schema 2:** <!-- TODO: Fallback translation -->
+**Schema 2:**
 
-**Bei transitiven Verben (ausser den unter Schema 1 genannten). Ebenfalls bei allen Verben, wenn das durch das Kausativ Bezeichnete veranlasst wird (wenn das Kausativ also ein Kausativ zum Kausativ ist):** <!-- TODO: Fallback translation -->
+**Átmenetes igék esetén (kivéve az 1. sémában felsoroltakat). Ugyanez minden olyan igére vonatkozik, amikor a kausatív által jelölt cselekvést kiváltják (tehát ha a kauszív egy kausatívra épül):**
 
-**Agens (⟪कर्ता⟫) des Kausativums im Nominativ (⟪प्रथमा⟫) — Agens der veranlassten Handlung im Instrumentalis (⟪तृतीया⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum** <!-- TODO: Fallback translation -->
+**A kausatív alanya (⟪कर्ता⟫) nominatívban áll (⟪प्रथमा⟫) — a kiváltott cselekvés alanya instrumentalisban (⟪तृतीया⟫) — a kiváltott cselekvés tárgya abban az esetszárnyban, amelyben a egyszerű ige esetén állna (azaz általában akkuzatív) — az igekausatív**
 :::
 ::: indent
-Beispiele:
-(⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = "Er veranlasst den Rāma, seine Frau zu verlassen"
-Ergebnis: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = "Rāma verlässt seine Frau" <!-- TODO: Fallback translation -->
+Példák:
+(⟪स⟫) ⟪रामेण⟫ ⟪भार्यां⟫ ⟪त्याजयति⟫ = „Ő elrendeli Rámát, hogy hagyja ott a feleségét”
+Eredmény: ⟪रामो⟫ ⟪भार्यां⟫ ⟪त्यजति⟫ = „Rámá elhagyja a feleségét”
 
-⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Viṣṇumitra veranlasst den Rāma, dass dieser den Govinda veranlasst zu gehen = Viṣṇumitra lässt Rāma den Govinda fortschicken"
-Ergebnis: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = "Rāma schickt den Govinda fort"
-Ergebnis dieses Ergebnisses: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = "Govinda geht" <!-- TODO: Fallback translation -->
+⟪विष्णुमित्रो⟫ ⟪रामेण⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = „Viṣṇumitra elrendeli Rámát, hogy ő Govindát küldje tovább = Viṣṇumitra Rámán keresztül Govindát küldi el”
+Eredmény: ⟪रामो⟫ ⟪गोविन्दं⟫ ⟪गमयति⟫ = „Rámá elküldi Govindát”
+Ennek az eredménynek az eredménye: ⟪गोविन्दो⟫ ⟪गच्छति⟫ = „Govinda elmegy”
 :::
 ::: grammar-box
-**Ausnahmen zu Schema 1:** <!-- TODO: Fallback translation -->
+**Kivételek az 1. sémához:**
 
-**Nach Schema 2 konstruieren u.a. auch folgende Verben:** <!-- TODO: Fallback translation -->
+**A következő igék is a 2. séma szerint épülnek fel:**
 
-**Kausativ zu:** <!-- TODO: Fallback translation -->
-- **⟪नी⟫ "führen"** <!-- TODO: Fallback translation -->
-- **⟪वह्⟫ "fahren" (nur wenn der Agens der veranlassten Handlung kein Fahrer ist)** <!-- TODO: Fallback translation -->
-- **⟪स्मृ⟫ "vergegenwärtigen" (es gibt dazu Ausnahmen)** <!-- TODO: Fallback translation -->
-- **⟪अद्⟫ "essen"** <!-- TODO: Fallback translation -->
-- **⟪खाद्⟫ "kauen"** <!-- TODO: Fallback translation -->
+**Kauzatív képzés:**
+- **⟪नी⟫ "vezet"**
+- **⟪वह्⟫ "halad" (csak akkor, ha az okozott cselekvés alanya nem a sofőr)**
+- **⟪स्मृ⟫ "eszét szemléltet" (kivételek vannak erre vonatkozóan)**
+- **⟪अद्⟫ "eszik"**
+- **⟪खाद्⟫ "rág"**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
-⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma lässt den Diener die Last führen bzw. fahren"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "Der Diener führt bzw. fährt die Last" <!-- TODO: Fallback translation -->
+⟪रामो⟫ ⟪भृत्येन⟫ ⟪भारं⟫ ⟪नाययति⟫ ⟪वाहयति⟫ ⟪वा⟫ = "Rāma a szolgára bízza, hogy vigye vagy szállítsa a terhet"
+Eredmény: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪नयति⟫ ⟪वहति⟫ ⟪वा⟫ = "A szolga viszi vagy szállítja a terhet"
 
-⟪रामो⟫ ⟪बालेनान्नमादयति⟫ ⟪खादयति⟫ ⟪वा⟫ = "Rāma lässt den Knaben Speise essen bzw. kauen"
-Ergebnis: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति⟫ ⟪वा⟫ = "der Knabe isst oder kaut Speise" <!-- TODO: Fallback translation -->
+⟪रामो⟫ ⟪बालेनान्नमादयति⟫ ⟪खादयति⟫ ⟪वा⟫ = "Rāma a fiúra bízza, hogy egye vagy rágja az ételt"
+Eredmény: ⟪बालो⟫ ⟪ऽन्नमत्ति⟫ ⟪खादति⟫ ⟪वा⟫ = "a fiú eszi vagy rágja az ételt"
 
-(⟪स⟫) ⟪रामेण⟫ ⟪स्मारयति⟫ = "Er bewirkt, dass Rāma sich erinnert"
-Ergebnis: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma erinnert sich" <!-- TODO: Fallback translation -->
+(⟪स⟫) ⟪रामेण⟫ ⟪स्मारयति⟫ = "Az okozza, hogy Rāma emlékszik"
+Eredmény: ⟪रामः⟫ ⟪स्मरति⟫ = "Rāma emlékszik"
 
 ::: grammar-box
-**Folgende Kausative können sowohl nach Schema 1 als auch nach Schema 2 konstruieren:** <!-- TODO: Fallback translation -->
+**A következő kausatívumok mindkét séma szerint, azaz a 1. és a 2. séma szerint is ragozhatók:**
 
-- **⟪हृ⟫ "halten, holen"** <!-- TODO: Fallback translation -->
-- **⟪कृ⟫ "tun, machen"** <!-- TODO: Fallback translation -->
-- **Ātmanepadakausativ zu ⟪दृश्⟫** <!-- TODO: Fallback translation -->
+- **⟪हृ⟫ "tart, hoz"**
+- **⟪कृ⟫ "cselekszik, csinál"**
+- **Önmagában végződő kausatív a ⟪दृश्⟫ szóhoz**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
-⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma lässt den Diener eine Matte (⟪कट⟫ m.) machen bzw. holen"
-oder:
+⟪रामो⟫ ⟪भृत्यं⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫ = "Rāma a szolgára bízza egy szőnyeg (⟪कट⟫ m.) elkészítését vagy hozatalát"
+avagy:
 ⟪रामो⟫ ⟪भृत्येन⟫ ⟪कटं⟫ ⟪कारयति⟫ ⟪हारयति⟫ ⟪वा⟫
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ ⟪हरति⟫ ⟪वा⟫ = "Der Diener macht bzw. holt eine Matte" <!-- TODO: Fallback translation -->
+Eredmény: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ ⟪हरति⟫ ⟪वा⟫ = "A szolga elkészíti vagy hozza a szőnyeget"
 
-⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = "Rāma lässt den Knaben das Bildnis sehen = zeigt dem Knaben das Bildnis (im eigenen Interesse)"
-oder:
+⟪रामो⟫ ⟪बालं⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫ = "Rāma a fiúra bízza a kép megnézését = megmutatja a fiúnak a képet (a saját érdeke érdekében)"
+avagy:
 ⟪रामो⟫ ⟪बालेन⟫ ⟪प्रतिमां⟫ ⟪दर्शयते⟫
-Ergebnis: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "der Knabe sieht das Bildnis" <!-- TODO: Fallback translation -->
+Eredmény: ⟪बालः⟫ ⟪प्रतिमां⟫ ⟪पश्यति⟫ = "a fiú megnézi a képet"
 
-Wird das Kausativum in einer Passivkonstruktion verwendet, so findet fast immer folgendes Schema Anwendung: <!-- TODO: Fallback translation -->
-
-::: grammar-box
-**Schema A (Passivkonstruktion):** <!-- TODO: Fallback translation -->
-
-**Agens des Kausativums im Instrumentalis (⟪तृतीया⟫) — Agens der veranlassten Handlung im Nominativ (⟪प्रथमा⟫) — Objekt der veranlassten Handlung in dem Kasus, den es nach dem einfachen Verb hätte (d.h. meist im Akkusativ) — Verb im Kausativum** <!-- TODO: Fallback translation -->
-:::
-Beispiele: <!-- TODO: Fallback translation -->
-
-⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "Der Meister schickt Rāma ins Dorf"
-Ergebnis: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma geht ins Dorf" <!-- TODO: Fallback translation -->
-
-⟪रामेण⟫ ⟪भृत्यः⟫ ⟪कटं⟫ ⟪कार्यते⟫ = "Rāma lässt den Diener eine Matte machen"
-Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "Der Diener macht eine Matte" <!-- TODO: Fallback translation -->
-
-⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma lässt den Diener die Last holen"
-Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der Diener holt die Last" <!-- TODO: Fallback translation -->
-
-## 28.3. Bildung des Präsensstamms zum Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫) <!-- TODO: Fallback translation -->
+Ha a causativum passzív szerkezetben használatos, akkor szinte mindig az alábbi séma érvényesül:
 
 ::: grammar-box
-**An den Kausativstamm treten die thematischen Endungen des Präsensstamms** <!-- TODO: Fallback translation -->
+**A séma (passzív szerkezet):**
+
+**A causativum agense az instrumentalisban (⟪तृतीया⟫) — a kiváltott cselekvés agense a nominativusban (⟪प्रथमा⟫) — a kiváltott cselekvés tárgya abban az esetszárnyban, amelyet a egyszerű ige követne (azaz általában az accusativus) — az ige causativum alakban**
 :::
-Es gibt verschiedene Bildungstypen: <!-- TODO: Fallback translation -->
+Példák:
+
+⟪गुरुणा⟫ ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ = "A mester elküldi Rámát a faluba"
+Eredmény: ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Ráma elmegy a faluba"
+
+⟪रामेण⟫ ⟪भृत्यः⟫ ⟪कटं⟫ ⟪कार्यते⟫ = "Rāma parancsolja a szolgának, hogy készítsen egy szőnyeget"
+Eredmény: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "A szolga készít egy szőnyeget"
+
+⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma parancsolja a szolgának, hogy hozza el a terhet"
+Eredmény: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "A szolga elhozza a terhet"
+
+## 28.3. A kausatív jelen idő alapjának képzése (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
-**Bildungstyp 1: (meist) hochstufige Wurzel + -aya-** <!-- TODO: Fallback translation -->
+**A kausatív alaphoz a jelen idő tematikus végződéseket kapcsolunk**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
-
-| Tő | Kausativ 3. sg. Indikativ Jelen idő | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪विश्⟫ | ⟪वेशयति⟫ | er/sie/es lässt eintreten, führt hinein | <!-- TODO: Fallback translation -->
-| ⟪लुभ्⟫ | ⟪लोभयति⟫ | begehren machen, begehrlich machen, verlocken | <!-- TODO: Fallback translation -->
-| ⟪दृश्⟫ | ⟪दर्शयति⟫ | sehen machen = zeigen | <!-- TODO: Fallback translation -->
-| ⟪वृत्⟫ | ⟪वर्तयति⟫ | sich drehen machen, wenden (transitiv), rollen (transitiv), ins Rollen bringen | <!-- TODO: Fallback translation -->
+Különböző képzéstípusok léteznek:
 
 ::: grammar-box
-**Bildungstyp 2: dehnstufige Wurzel + -aya-** <!-- TODO: Fallback translation -->
-
-**Oft bei Wurzeln, die vokalisch enden, und bei Wurzeln, bei denen auf -a- ein einziger Endkonsonant folgt.** <!-- TODO: Fallback translation -->
+**Alkotási típus 1: (általában) magas fokú gyökér + -aya-**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
-| Tő | Kausativ 3. sg. Indikativ Jelen idő | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen | <!-- TODO: Fallback translation -->
-| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht | <!-- TODO: Fallback translation -->
-| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen | <!-- TODO: Fallback translation -->
-| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen | <!-- TODO: Fallback translation -->
-| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen | <!-- TODO: Fallback translation -->
+| Tő | Kausatív 3. sg. indikativ jelen idő | Jelentés |
+| :--- | :--- | :--- |
+| ⟪विश्⟫ | ⟪वेशयति⟫ | beenged, behoz |
+| ⟪लुभ्⟫ | ⟪लोभयति⟫ | vágyat kelt, kíváncsivá tesz, csábít |
+| ⟪दृश्⟫ | ⟪दर्शयति⟫ | látást okoz = mutat |
+| ⟪वृत्⟫ | ⟪वर्तयति⟫ | forgat (transzitív), gördít (transzitív), mozgásba hoz |
 
 ::: grammar-box
-**Bildungstyp 3: tiefstufige Wurzel + -aya-** <!-- TODO: Fallback translation -->
+**Alkotási típus 2: nyújtott fokú gyökér + -aya-**
 
-**Kommt vor.** <!-- TODO: Fallback translation -->
+**Gyakori olyan gyököknél, amelyek magánhangzóra végződnek, és olyan gyököknél, ahol -a- után egyetlen végmássalhangzó következik.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példák:
 
-| Tő | Kausativ 3. sg. Indikativ Jelen idő | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben | <!-- TODO: Fallback translation -->
+| Tő | Kausativ 3. sg. Indikativ Jelen idő | Jelentés |
+| :--- | :--- | :--- |
+| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | előidézni, hogy valaki vagy valami legyen, létrehozni |
+| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | előidézni, hogy valaki menjen |
+| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | vezettetni |
+| ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | csináltatni |
+| ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | beszéltetni, beszélni hagyni, (egy szöveget elmondatni =) hangosan olvasni |
 
 ::: grammar-box
-**Bildungstyp 4: Wurzel + -paya-** <!-- TODO: Fallback translation -->
+**Képzési típus 3: alacsony fokú gyök + -aya-**
 
-**Bei Wurzeln auf -ā und einigen anderen Wurzeln.** <!-- TODO: Fallback translation -->
+**Előfordul.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példa:
 
-| Tő | Kausativ 3. sg. Indikativ Jelen idő | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen | <!-- TODO: Fallback translation -->
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Magyarázat siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten | <!-- TODO: Fallback translation -->
+| Tő | Kausativ 3. sg. Indikativ Jelen idő | Jelentés |
+| :--- | :--- | :--- |
+| ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (valakit) megrontani |
 
 ::: grammar-box
-**Unregelmässige Bildungen:** <!-- TODO: Fallback translation -->
+**Alakítás típus 4: Tő + -paya-**
 
-**Einheimische Grammatiker betrachten folgende Formen als Kausativa:** <!-- TODO: Fallback translation -->
-
-- **han** : Kaus. **ghātayati**¹ "erschlagen lassen, töten lassen" <!-- TODO: Fallback translation -->
-- **pā** 2 "hüten": **pālayati**² "hinüberbringen, retten, schützen" <!-- TODO: Fallback translation -->
+**-ā végződésű tövek és néhány más tő esetén.**
 :::
-Anmerkungen: <!-- TODO: Fallback translation -->
-1. **ghātayati** ist in Wirklichkeit ein Verb, das vom Substantiv **ghāta** m. "Schlag" abgeleitet ist (denominativum) und anstelle des Kausativums von **han** verwendet wird. <!-- TODO: Fallback translation -->
-2. **pālayati** ist ein echtes Kausativum, allerdings zur Tő **pṛ** 3 "hinüberbringen, retten, schützen": **pārayati** (pār-aya-ti) » **pālayati** (in einigen Gegenden Indiens entspricht dem r ein l, in anderen umgekehrt dem l ein r). <!-- TODO: Fallback translation -->
+Példák:
 
-## 28.4. Bildung des Passivs (⟪यक्⟫) zum Kausativ <!-- TODO: Fallback translation -->
+| Tő | Kausatív 3. sg. indikativ jelen idő | Jelentés |
+| :--- | :--- | :--- |
+⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | állít, felállít |
+| ⟪इ⟫ + ⟪अधि⟫:br"tanulmányoz" | ⟪अध्यापयति⟫:br(ki: adhi+ā-paya-ti):br(a magyarázathoz lásd Thumb-Hauschildt I. kötet, 2. oldal, 341.) | tanulmányoztat, oktat |
 
 ::: grammar-box
-**Das Passiv zum Kausativ wird so gebildet:** <!-- TODO: Fallback translation -->
+**Rendszertelen alakítások:**
 
-**Kausativstamm OHNE -aya- + Passivsuffix -ya-** <!-- TODO: Fallback translation -->
+**A bennszülött grammatikusok a következő alakokat kausatívnak tekintik:**
 
-Beispiele:
-**bhāvyate** (bhāv-ya-te) "er/sie/es wird hervorgebracht"
-**sthāpyate** (sthāp-ya-te) "er/sie/es wird aufgestellt" <!-- TODO: Fallback translation -->
+- **han** : Kaus. **ghātayati**¹ „megöletni, meggyilkoltatni”
+- **pā** 2 „óvni”: **pālayati**² „átjuttat, megment, megvéd”
 :::
-Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird. <!-- TODO: Fallback translation -->
+Megjegyzések:
+1. **ghātayati** valójában egy olyan ige, amely a **ghāta** m. „ütés” főnévből származik (denominatívum), és a **han** kausatíve helyett használatos.
+2. **pālayati** egy valódi kausatív, azonban a **pṛ** 3 „átjuttat, megment, megvéd” tőből: **pārayati** (pār-aya-ti) » **pālayati** (India egyes részeiben az r-nek l felel meg, másokban fordítva az l-nek r).
 
-## 28.5. Bildung des Futurs (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) zum Kausativ <!-- TODO: Fallback translation -->
+## 28.4. A passzív képzése (⟪यक्⟫) a kausatívhoz
 
 ::: grammar-box
-**Das Futur des Kausativs wird vom Kausativstamm gebildet, dabei fällt das auslautende -a- des Kausativsuffixes aus:** <!-- TODO: Fallback translation -->
+**A kausatív passzívja így képződik:**
 
-**-ay-iṣya-** <!-- TODO: Fallback translation -->
+**Kauzális alap -aya- nélkül + passzív képző -ya-**
 
-Beispiel:
-**budh** Futur-Kausativ: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "er/sie/es wird aufwecken" <!-- TODO: Fallback translation -->
+Példák:
+**bhāvyate** (bhāv-ya-te) „hozzák létre / előállítják őt/őket”
+**sthāpyate** (sthāp-ya-te) „felállítják őt/őket”
 :::
+Míg a passzív általában a mély fokú gyökből képződik az eredeti gyök alapján, a kauzális passzív általában felismerhető arról, hogy magas vagy nyújtott fokú gyökből képződik.
 
-## 28.6. Bildung des PPP (⟪क्त⟫) zum Kausativ <!-- TODO: Fallback translation -->
+## 28.5. A jövő idő képzése (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) a kauzálisra
 
 ::: grammar-box
-**Kausativstamm auf -ay- (ohne auslautendes a) + -i- + -ta** <!-- TODO: Fallback translation -->
+**A kauzális jövő idő a kauzális alapból képződik, a kauzális képző végén álló -a kiesik:**
 
-Beispiele:
-**gam** — **gamayati** — **gamita** (gam-i-ta) "gesendet" (PPP der einfachen Wurzel: **gata**)
-**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "aufgestellt" <!-- TODO: Fallback translation -->
+**-ay-iṣya-**
+
+Példa:
+**budh** Futurum kausatívum: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): „felébreszt”
 :::
 
-## 28.7. Bildung des Absolutivs (⟪क्त्वा⟫ . ⟪ल्यप्⟫) zum Kausativ <!-- TODO: Fallback translation -->
+## 28.6. A PPP (⟪क्त⟫) képzése a kausatívból
 
 ::: grammar-box
-**Das Absolutivum auf -tvā wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:** <!-- TODO: Fallback translation -->
+**-ay- végződésű kausatívstám (végi a nélkül) + -i- + -ta**
 
-**Kausativstamm auf -ay- + -i- + -tvā** <!-- TODO: Fallback translation -->
-
-Beispiel:
-**sthāpayitvā** (sthā-pay-i-tvā) "nachdem er aufgestellt hat" <!-- TODO: Fallback translation -->
-:::
-::: grammar-box
-**Das Absolutivum auf -ya tritt bei Kausativa mit Präverb in der Regel an Kausativstamm OHNE -aya-** <!-- TODO: Fallback translation -->
-
-Beispiele:
-**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) "nachdem er aufgeweckt hat"
-**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) "nachdem er heranführen gelassen hat, nachdem er bringen gelassen hat" <!-- TODO: Fallback translation -->
-:::
-::: grammar-box
-**Enthält jedoch die Wurzelsilbe des Kausativs ein kurzes -a- vor einem einzigen Konsonanten, tritt das -ya des Absolutivums an den Kausativstamm auf -ay- (ohne auslautendes a)** <!-- TODO: Fallback translation -->
-
-Beispiel:
-**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "nachdem er kommen gelassen hat" <!-- TODO: Fallback translation -->
+Példák:
+**gam** — **gamayati** — **sthāpita** (sthāp-i-ta) „felállított”
+**sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) „felállított”
 :::
 
-## 28.8. Bildung des Infinitivs (⟪तुमुन्⟫) zum Kausativ <!-- TODO: Fallback translation -->
+## 28.7. Az abszolútum (⟪क्त्वा⟫ . ⟪ल्यप्⟫) képzése a kausatívról
 
 ::: grammar-box
-**Der Infinitiv zum Kausativ wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:** <!-- TODO: Fallback translation -->
+**A -tvā végződésű abszolútum a -ay- kausatívstámból (végső a nélkül) képződik:**
 
-**Kausativstamm auf -ay- + -i- + -tum** <!-- TODO: Fallback translation -->
+**-ay- kausatívstám + -i- + -tvā**
 
-Beispiel:
-**jan** — **janayati** — **janayitum** (janay-i-tum) "um zu erzeugen" <!-- TODO: Fallback translation -->
-:::
-
-## 28.9. Die 10. Präsensklasse (⟪चुरादि⟫ = ⟪चुर्⟫ u.s.w.) <!-- TODO: Fallback translation -->
-
-::: grammar-box
-**In gleicher Weise wie die Kausativa bilden das Präsens (und die anderen tempora) einige Wurzeln der 10. Präsensklasse, ohne Kausativa zu sein.** <!-- TODO: Fallback translation -->
-
-Beispiele: <!-- TODO: Fallback translation -->
-1.  Dehnstufige Tő + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "lieben" <!-- TODO: Fallback translation -->
-2.  Hochstufige Tő + -aya- : **cur** 10U **corayati** "stehlen"; Jövő idő: **corayiṣyate**; Pass.: **coryate** <!-- TODO: Fallback translation -->
+Példa:
+**sthāpayitvā** (sthā-pay-i-tvā) „miután felállította”
 :::
 ::: grammar-box
-**Die Formen des Kausativs zu Verben der 10. Präsensklasse sind identisch mit den Formen des einfachen Verbs. Die Entscheidung darüber, ob ein Kausativ vorliegt, ist nur aus dem Sinn bzw. manchmal aus der Konstruktion möglich.** <!-- TODO: Fallback translation -->
+**A -ya végződésű abszolutívum a praefixszal ellátott kausatívoknál általában a -aya- nélküli kausatívszótémához kapcsolódik**
+
+Példák:
+**prabudh** — **prabodhayati** — **prabodhya** (pra-bodh-ya) „miután felébresztette”
+**ānī** — **ānayati** — **ānāyya** (ā-nāy-ya) „miután behozatta, miután elhozatta”
+:::
+::: grammar-box
+**Ha azonban a kausatívszó magja egy-egy mássalhangzó előtt rövid -a-t tartalmaz, az abszolutívum -ya-ja a -ay végződésű kausatívszótémához kapcsolódik (végső a nélkül)**
+
+Példa:
+**āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) „miután elhozatta”
 :::
 
-## 28.10. Wortliste <!-- TODO: Fallback translation -->
+## 28.8. Az infinitivus (⟪तुमुन्⟫) képzése a kausatívból
+
+::: grammar-box
+**Az infinitívus a kausatívra a -ay- végződésű kausatívszóból képződik (végső a nélkül):**
+
+**-ay- végződésű kausatívszó + -i- + -tum**
+
+Példa:
+**jan** — **janayati** — **janayitum** (janay-i-tum) „létrehozni”
+:::
+
+## 28.9. A tizedik jelen időosztály (⟪चुरादि⟫ = ⟪चुर्⟫ stb.)
+
+::: grammar-box
+**Ugyanúgy, mint a causativa igék, az 10. jelen időosztályba tartozó egyes gyökök képeznek jelen időt (és egyéb ragozásokat) causativa nélkül.**
+
+Példák:
+1. Hosszított fokú gyök + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "szeretni"
+2. Magas fokú gyök + -aya- : **cur** 10U **corayati** "lopni"; Jövő idő: **corayiṣyate**; Passzív: **coryate**
+:::
+::: grammar-box
+**Az 10. jelen időosztályba tartozó igék causativusának formái megegyeznek az egyszerű igeformákkal. Dönteni csak a jelentés, vagy néha a szerkezet alapján lehet arról, hogy causativusról van-e szó.**
+:::
+
+## 28.10. Szószedet
 
 ::: indent
-⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: wissen, kennen
-Fut. **vediṣyati**
-Pass. **vidyate**
-Kaus. **vedayati**
+⟪विद्⟫ 2P ⟪वेत्ति⟫, ⟪विदन्ति⟫: tudni, ismerni
+Jövő idő: **vediṣyati**
+Passzív: **vidyate**
+Causativus: **vedayati**
 PPP **vidita**
-Inf. **vediṣyum**
-davon: **vidyā** f., **veda** m. <!-- TODO: Fallback translation -->
+Infinitívum: **vediṣyum**
+ebből: **vidyā** f., **veda** m.
 :::
 ::: indent
-⟪विद्⟫ 6U ⟪विन्दति⟫ (!): finden
-Fut. **vediṣyati** / **vetsyat**
-Pass. **vidyate**: es gibt, es ist vorhanden
-Kaus. **vedayati**
+⟪विद्⟫ 6U ⟪विन्दति⟫ (!): találni
+Jövő idő: **vediṣyati** / **vetsyat**
+Passzív: **vidyate**: van, létezik
+Causativus: **vedayati**
 PPP **vinna** / **vitta**
-Inf. **vediṣtum** / **vettum** <!-- TODO: Fallback translation -->
+Infinitívum: **vediṣtum** / **vettum**
 :::
 ::: indent
-**i + adhi** 2Ā **adhīte**, **adhīyate**: studieren, auswendig lernen
-Kaus. **adhyāpayati**: studieren lassen, unterrichten
-davon: **adhyayana** n.: Studium (bes. des Veda); **adhyāya** m.: Lektion, Kapitel (Abschnitt zum Auswendiglernen) <!-- TODO: Fallback translation -->
+**i + adhi** 2Ā **adhīte**, **adhīyate**: tanulni, fejből megtanulni
+Causativus: **adhyāpayati**: tanulni engedni, oktatni
+ebből: **adhyayana** n.: tanulmányozás (különösen a Védáét); **adhyāya** m.: lecke, fejezet (megtanulandó rész)
 :::
 ::: indent
-⟪कम्⟫ 10Ā ⟪कामयते⟫: lieben
-Fut. **kāmayiṣyate** / **kamiṣyate**
-Pass. **kāmyate**
-Kaus. **kāmayati**
+⟪कम्⟫ 10Ā ⟪कामयते⟫: szeretni
+Jövő idő: **kāmayiṣyate** / **kamiṣyate**
+Passzív: **kāmyate**
+Causativus: **kāmayati**
 PPP **kānta** (!)
-Inf. **kāmayitum** / **kamitum** <!-- TODO: Fallback translation -->
+Infinitívum: **kāmayitum** / **kamitum**
 :::
 ::: media
 ![](/images/lekt2804.webp)
-Abb.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
-Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
-(Bildquelle: [Details](/licenses#lekt2804)) <!-- TODO: Fallback translation -->
+Kép: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
+Festmény: ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
+(Képmagyarázat: [Részletek](/hu/licenses#lekt2804))
 :::
 
 ::: indent
-⟪चुर्⟫ 10 ⟪चोरयति⟫: stehlen
+⟪चुर्⟫ 10 ⟪चोरयति⟫: lopni
 Fut. **corayiṣyati**
 Pass. **coryate**
 Kaus. **corayati**
 PPP **corita**
-Inf. **coritum** <!-- TODO: Fallback translation -->
+Inf. **coritum**
 :::
 ::: indent
-**Merken Sie sich besonders die Bedeutung der Kausativa zu folgenden Verben:**
-**dṛś** — **darśayati**: zeigen
-**man** — **mānayati**: hochschätzen, ehren (ist vermutlich aber ein Denominativ zu **māna** "Ehre")
-**vac** — **vācayati**: auch: laut lesen (einen Text sprechen machen)
-**vad** — **vādayati**: auch: ein Musikinstrument zum Sprechen bringen = ein Musikinstrument spielen <!-- TODO: Fallback translation -->
+**Különösen jegyezzék meg a következő igák kausatívumának jelentését:**
+**dṛś** — **darśayati**: mutatni
+**man** — **mānayati:** tisztelni, becsülni (valószínűleg azonban névige **māna** "becsület" alapján képzett)
+**vac** — **vācayati**: továbbá: hangosan olvasni (szöveget mondani)
+**vad** — **vādayati**: továbbább: megszólaltatni egy hangszer = hangszert játszani
 :::
 ::: media
 ![](/images/lekt2803.webp)
-Abb.: ⟪वीणां⟫ ⟪वादयति⟫
+Ábr.: ⟪वीणां⟫ ⟪वादयति⟫
 Vīṇā-Spielerin.
-(Bildquelle: [Details](/licenses#lekt2803)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt2803))
 :::
-⟪भार⟫ m.: Last <!-- TODO: Fallback translation -->
+⟪भार⟫ m.: teher
 
 ::: media
 ![](/images/lekt2805.webp)
-Abb.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
-Mädchen trägt Last. Bei Ahmedabad.
-(Bildquelle: [Details](/licenses#lekt2805)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
+Lány teherrel. Ahmedabad közelében.
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt2805))
 :::
-⟪भृत्य⟫ m.: Untergebener, Diener <!-- TODO: Fallback translation -->
+⟪भृत्य⟫ m.: alárendelt, szolga
 
-## 28.11. Übung <!-- TODO: Fallback translation -->
+## 28.11. Gyakorlat
 
-**A) Bilden Sie das Kausativum zu folgenden Verbformen und Partizipialformen und geben Sie die Bedeutung an:** <!-- TODO: Fallback translation -->
+**A) Képezzék a kausatívumot az alábbi igai és participiumi alakokból, valamint adják meg a jelentésüket:**
 
-**1. Mit hochstufiger Wurzel:** <!-- TODO: Fallback translation -->
-1. ⟪अर्हन्ति⟫ <!-- TODO: Fallback translation -->
-2. ⟪प्राप्य⟫ <!-- TODO: Fallback translation -->
-3. ⟪एषिष्यन्ति⟫ <!-- TODO: Fallback translation -->
-4. ⟪कुप्यति⟫ <!-- TODO: Fallback translation -->
-5. ⟪कर्क्ष्यति⟫ <!-- TODO: Fallback translation -->
-6. ⟪क्रुध्यन्ती⟫ <!-- TODO: Fallback translation -->
-7. ⟪चोर्यते⟫ <!-- TODO: Fallback translation -->
-8. ⟪गन्तुम्⟫ <!-- TODO: Fallback translation -->
-9. ⟪जातः⟫ <!-- TODO: Fallback translation -->
-10. ⟪देक्ष्यन्ति⟫ <!-- TODO: Fallback translation -->
-11. ⟪दोग्धि⟫ <!-- TODO: Fallback translation -->
-12. ⟪माद्यन्⟫ <!-- TODO: Fallback translation -->
-13. ⟪द्रक्ष्यति⟫ <!-- TODO: Fallback translation -->
-14. ⟪द्वेष्टि⟫ <!-- TODO: Fallback translation -->
-15. ⟪नर्तितुम्⟫ <!-- TODO: Fallback translation -->
-16. ⟪भोत्स्यन्ते⟫ <!-- TODO: Fallback translation -->
-17. ⟪मुञ्चन्ति⟫ <!-- TODO: Fallback translation -->
-18. ⟪पृच्छन्ति⟫ <!-- TODO: Fallback translation -->
-19. ⟪मुह्यति⟫ <!-- TODO: Fallback translation -->
-20. ⟪योत्स्यन्⟫ <!-- TODO: Fallback translation -->
-21. ⟪रक्ष्यते⟫ <!-- TODO: Fallback translation -->
-22. ⟪रोदिति⟫ <!-- TODO: Fallback translation -->
-23. ⟪लुब्धा⟫ <!-- TODO: Fallback translation -->
-24. ⟪प्रविश्य⟫ <!-- TODO: Fallback translation -->
-25. ⟪वर्तते⟫ <!-- TODO: Fallback translation -->
-26. ⟪सिक्त्वा⟫ <!-- TODO: Fallback translation -->
-27. ⟪स्रक्ष्यति⟫ <!-- TODO: Fallback translation -->
-28. ⟪लिम्पन्ति⟫ <!-- TODO: Fallback translation -->
-29. ⟪वृद्धाः⟫ <!-- TODO: Fallback translation -->
+**1. Magas gyökérrel:**
+1. ⟪अर्हन्ति⟫
+2. ⟪प्राप्य⟫
+3. ⟪एषिष्यन्ति⟫
+4. ⟪कुप्यति⟫
+5. ⟪कर्क्ष्यति⟫
+6. ⟪क्रुध्यन्ती⟫
+7. ⟪चोर्यते⟫
+8. ⟪गन्तुम्⟫
+9. ⟪जातः⟫
+10. ⟪देक्ष्यन्ति⟫
+11. ⟪दोग्धि⟫
+12. ⟪माद्यन्⟫
+13. ⟪द्रक्ष्यति⟫
+14. ⟪द्वेष्टि⟫
+15. ⟪नर्तितुम्⟫
+16. ⟪भोत्स्यन्ते⟫
+17. ⟪मुञ्चन्ति⟫
+18. ⟪पृच्छन्ति⟫
+19. ⟪मुह्यति⟫
+20. ⟪योत्स्यन्⟫
+21. ⟪रक्ष्यते⟫
+22. ⟪रोदिति⟫
+23. ⟪लुब्धा⟫
+24. ⟪प्रविश्य⟫
+25. ⟪वर्तते⟫
+26. ⟪सिक्त्वा⟫
+27. ⟪स्रक्ष्यति⟫
+28. ⟪लिम्पन्ति⟫
+29. ⟪वृद्धाः⟫
 
-**2. Mit dehnstufiger Wurzel:** <!-- TODO: Fallback translation -->
-1. ⟪अत्ति⟫ <!-- TODO: Fallback translation -->
-2. ⟪अस्यन्ति⟫ <!-- TODO: Fallback translation -->
-3. ⟪एष्यति⟫ <!-- TODO: Fallback translation -->
-4. ⟪संस्कृतम्⟫ <!-- TODO: Fallback translation -->
-5. ⟪चरति⟫ <!-- TODO: Fallback translation -->
-6. ⟪तनोति⟫ <!-- TODO: Fallback translation -->
-7. ⟪खाद्यते⟫ <!-- TODO: Fallback translation -->
-8. ⟪धक्ष्यति⟫ <!-- TODO: Fallback translation -->
-9. ⟪उपानैष्यति⟫ <!-- TODO: Fallback translation -->
-10. ⟪पच्यते⟫ <!-- TODO: Fallback translation -->
-11. ⟪पतन्ति⟫ <!-- TODO: Fallback translation -->
-12. ⟪पत्स्यते⟫ <!-- TODO: Fallback translation -->
-13. ⟪भक्तः⟫ <!-- TODO: Fallback translation -->
-14. ⟪भवति⟫ <!-- TODO: Fallback translation -->
-15. ⟪मंस्यन्ते⟫ <!-- TODO: Fallback translation -->
-16. ⟪म्रियते⟫ <!-- TODO: Fallback translation -->
-17. ⟪इज्यते⟫ <!-- TODO: Fallback translation -->
-18. ⟪वक्ति⟫ <!-- TODO: Fallback translation -->
-19. ⟪प्रोद्य⟫ <!-- TODO: Fallback translation -->
-20. ⟪शृणोति⟫ <!-- TODO: Fallback translation -->
-21. ⟪सुन्वन्ति⟫ <!-- TODO: Fallback translation -->
-22. ⟪स्तौति⟫ <!-- TODO: Fallback translation -->
-23. ⟪विस्मृत्य⟫ <!-- TODO: Fallback translation -->
-24. ⟪उषितः⟫ <!-- TODO: Fallback translation -->
-25. ⟪वसिता⟫ <!-- TODO: Fallback translation -->
-26. ⟪अश्नुते⟫ <!-- TODO: Fallback translation -->
-27. ⟪आस्ते⟫ <!-- TODO: Fallback translation -->
-28. ⟪त्यक्ष्यता⟫ <!-- TODO: Fallback translation -->
-29. ⟪धृतेन⟫ <!-- TODO: Fallback translation -->
-30. ⟪म्रियन्ते⟫ <!-- TODO: Fallback translation -->
-31. ⟪यजतः⟫ <!-- TODO: Fallback translation -->
-32. ⟪उक्ते⟫ <!-- TODO: Fallback translation -->
-33. ⟪उद्यन्ते⟫ <!-- TODO: Fallback translation -->
-34. ⟪शक्नुवन्ति⟫ <!-- TODO: Fallback translation -->
-35. ⟪श्रोष्यन्तः⟫ <!-- TODO: Fallback translation -->
-36. ⟪सीदति⟫ <!-- TODO: Fallback translation -->
-37. ⟪सोढायाः⟫ <!-- TODO: Fallback translation -->
-38. ⟪हरन्ती⟫ <!-- TODO: Fallback translation -->
-39. ⟪ऊढया⟫ <!-- TODO: Fallback translation -->
+**2. Hosszú magyaggal:**
+1. ⟪अत्ति⟫
+2. ⟪अस्यन्ति⟫
+3. ⟪एष्यति⟫
+4. ⟪संस्कृतम्⟫
+5. ⟪चरति⟫
+6. ⟪तनोति⟫
+7. ⟪खाद्यते⟫
+8. ⟪धक्ष्यति⟫
+9. ⟪उपानैष्यति⟫
+10. ⟪पच्यते⟫
+11. ⟪पतन्ति⟫
+12. ⟪पत्स्यते⟫
+13. ⟪भक्तः⟫
+14. ⟪भवति⟫
+15. ⟪मंस्यन्ते⟫
+16. ⟪म्रियते⟫
+17. ⟪इज्यते⟫
+18. ⟪वक्ति⟫
+19. ⟪प्रोद्य⟫
+20. ⟪शृणोति⟫
+21. ⟪सुन्वन्ति⟫
+22. ⟪स्तौति⟫
+23. ⟪विस्मृत्य⟫
+24. ⟪उषितः⟫
+25. ⟪वसिता⟫
+26. ⟪अश्नुते⟫
+27. ⟪आस्ते⟫
+28. ⟪त्यक्ष्यता⟫
+29. ⟪धृतेन⟫
+30. ⟪म्रियन्ते⟫
+31. ⟪यजतः⟫
+32. ⟪उक्ते⟫
+33. ⟪उद्यन्ते⟫
+34. ⟪शक्नुवन्ति⟫
+35. ⟪श्रोष्यन्तः⟫
+36. ⟪सीदति⟫
+37. ⟪सोढायाः⟫
+38. ⟪हरन्ती⟫
+39. ⟪ऊढया⟫
 
-**3. Kausativ auf -⟪पय⟫** <!-- TODO: Fallback translation -->
-1. ⟪स्थित्वा⟫ <!-- TODO: Fallback translation -->
+**3. Kausatívus -⟪पय⟫ végződéssel**
+1. ⟪स्थित्वा⟫
 
-**4. Beachten und lernen Sie besonders folgende Kausativbildungen** <!-- TODO: Fallback translation -->
-1. ⟪दुष्⟫ — ⟪दूषयति⟫ <!-- TODO: Fallback translation -->
-2. ⟪पा⟫ 1 ("trinken") — ⟪पाययति⟫ <!-- TODO: Fallback translation -->
-3. ⟪पा⟫ 2 ("schützen") — ⟪पालयति⟫ <!-- TODO: Fallback translation -->
-4. ⟪लभ्⟫ — ⟪लम्भयति⟫ <!-- TODO: Fallback translation -->
-5. ⟪हन्⟫ — ⟪घातयति⟫ <!-- TODO: Fallback translation -->
-6. ⟪जि⟫ — ⟪जापयति⟫ <!-- TODO: Fallback translation -->
-7. ⟪जीव्⟫ — ⟪जीवयति⟫ <!-- TODO: Fallback translation -->
+**4. Különös figyelmet és tanulást igényelnek a következő kausatívus képzések**
+1. ⟪दुष्⟫ — ⟪दूषयति⟫
+2. ⟪पा⟫ 1 ("inni") — ⟪पाययति⟫
+3. ⟪पा⟫ 2 ("védekezni") — ⟪पालयति⟫
+4. ⟪लभ्⟫ — ⟪लम्भयति⟫
+5. ⟪हन्⟫ — ⟪घातयति⟫
+6. ⟪जि⟫ — ⟪जापयति⟫
+7. ⟪जीव्⟫ — ⟪जीवयति⟫
 
-**B. Übersetzen Sie folgende Sätze, lösen Sie die Komposita in Sanskrit auf und bilden Sie mittels der einfachen Verben Sätze, die ausdrücken, was geschieht, wenn das durch das Kausativum ausgedrückte bewirkt wird:** <!-- TODO: Fallback translation -->
+**B. Fordítsa le a következő mondatokat, oldja fel a szanszkrit összetételeket (kompozitumokat), és alkosszon egyszerű igékkel olyan mondatokat, amelyek kifejezik, mi történik, ha a kausztívum által kifejezett cselekvés bekövetkezik:**
 
-Beispiel: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫ <!-- TODO: Fallback translation -->
+Példa: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हारयति⟫ » ⟪दासो⟫ ⟪भारं⟫ ⟪हरति⟫
 
 ⟪शत्रुजयाय⟫ ⟪क्षत्रियो⟫ ⟪ब्राह्मणेन⟫ ⟪हरिहरं⟫ ⟪याजयित्वारीन्योत्स्यते⟫ ⟪॥१॥⟫
 ⟪गुरुर्बालान्वेदमध्याप्य⟫ ⟪गृहं⟫ ⟪गतः⟫ ⟪॥२॥⟫
@@ -481,13 +481,13 @@ Beispiel: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हार�
 ⟪आर्ययोधैर्महायुद्धे⟫ ⟪ऽरयो⟫ ⟪मार्यन्ते⟫ ⟪॥७॥⟫
 ⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪।⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ ⟪पूजां⟫ ⟪कृत्वा⟫ ⟪क्षत्रियाया⟫ ⟪धनमेषिष्यति⟫ ⟪॥८॥⟫
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
-⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫ <!-- TODO: Fallback translation -->
+⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
 
 ::: deleteme-box
 
-**lekt2801:** Jadavpur University Management building. [Bildquelle: noii's Flickr, 2008-12-19, CC BY-SA]
-**lekt2802:** ISKCON Temple Bangalore. [Bildquelle: Ramki's reflections Flickr, 2008-12-19, CC BY-NC-ND]
-**lekt2803:** Vīṇā-Spielerin. [Bildquelle: Kelvin Kay / Wikipedia. GNU FDLicense]
-**lekt2804:** Kṛṣṇa und Rādhā. Gemälde von Rāja Ravi Varmā. [Bildquelle: Wikipedia. Public domain]
-**lekt2805:** Mädchen trägt Last. Bei Ahmedabad. [Bildquelle: m-bot. Flickr, 2008-12-20. CC BY-SA] <!-- TODO: Fallback translation -->
+**lekt2801:** A Jadavpur Egyetem igazgatósági épülete. [Képmegjelenítés: noii Flickr, 2008-12-19, CC BY-SA]
+**lekt2802:** ISKCON templom Bangalorban. [Képmegjelenítés: Ramki reflections Flickr, 2008-12-19, CC BY-NC-ND]
+**lekt2803:** Vīṇā-játékos nő. [Képmegjelenítés: Kelvin Kay / Wikipedia. GNU FDLicense]
+**lekt2804:** Kṛṣṇa és Rādhā. Festmény Rāja Ravi Varmától. [Képmegjelenítés: Wikipedia. Közterület]
+**lekt2805:** Lány hordoz terhet. Ahmedabad közelében. [Képmegjelenítés: m-bot. Flickr, 2008-12-20. CC BY-SA]
 :::

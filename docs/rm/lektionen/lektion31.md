@@ -178,7 +178,7 @@ Aus einem Prajñāpāramitā-Manuskript.
 
 ## 31.3. Exercizi
 
-A) Traducir las siguientes frases y descomponer los compuestos:
+A) Traducir las siguientes frasas y descomponer los compuestos:
 
 ⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫
 

@@ -133,7 +133,7 @@ Ulteriura davart l'usi dal locatiu pli tard.
 | **⟪पशु⟫** m. | ⟪पशौ⟫ | ⟪पशुषु⟫ |
 | **⟪देवता⟫** f. | ⟪देवतायाम्⟫ | ⟪देवतासु⟫ |
 | **⟪देवी⟫** f. | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
-| **⟪श्रुति⟫** f. | ⟪श्रुतौ⟫ oder ⟪श्रुत्याम्⟫ :br(d.h. entweder wie **kavi** :br⟪कवि⟫ oder wie **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
+| **⟪श्रुति⟫** f. | ⟪श्रुतौ⟫ ni ⟪श्रुत्याम्⟫ :br(d.h. entweder wie **kavi** :br⟪कवि⟫ ni wie **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
 | **⟪धेनु⟫** f. | **⟪धेनौ⟫** u **⟪धेन्वाम्⟫** | ⟪धेनुषु⟫ |
 
 :::
@@ -142,7 +142,7 @@ Ulteriura davart l'usi dal locatiu pli tard.
 ::: grammar-box
 
 | | Singular:br⟪एकवचनम्⟫ || Plural:br⟪बहुवचनम्⟫ ||
-| | Maskulinum / Femininum:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Neutrum:br⟪नपुंसकम्⟫ | Maskulinum / Femininum:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Neutrum:br⟪नपुंसकम्⟫ |
+| | Masculin / Feminin:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Neutrum:br⟪नपुंसकम्⟫ | Masculin / Feminin:br⟪पुंस्⟫ / ⟪स्त्री⟫ | Neutrum:br⟪नपुंसकम्⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **1. Nominativ** :br **⟪१⟫. ⟪प्रथमा⟫** | **-s** | -Ø | **-as** | **-i** |
 | **2. Akkusativ** :br **⟪२⟫. ⟪द्वितीया⟫** | **-am** | -Ø | -as | **-i** |
@@ -251,7 +251,7 @@ Harihara (a sanestra: Viṣṇu, a dextra: Śiva). Godrumdwip, Bengala occidenta
 :::
 ## 27.6. Exercizi
 
-**A) Metti en la frase suventanta las expressiuns en la parentesa en il cas local (⟪सप्तमी⟫) singular e – quai ch’è sensibel – plural. Observai il divers sandhi, c.a.d. scribiti mintgadi la frase cumpletta!**
+**A) Metti en la frasa suventanta las expressiuns en la parentesa en il cas local (⟪सप्तमी⟫) singular e – quai ch’è sensibel – plural. Observai il divers sandhi, c.a.d. scribiti mintgadi la frasa cumpletta!**
 
 ⟪रामस्⟫ ... ⟪वसति⟫ ⟪।⟫ (⟪ग्राम⟫ ⟪।⟫ ⟪गुरु⟫ ⟪।⟫ ⟪सत्यवान्कविः⟫ ⟪।⟫ ⟪पुत्रं⟫ ⟪लब्धुकामा⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪तन्नगरम्⟫ ⟪।⟫ ⟪मुह्यञ्छत्रुः⟫)
 
@@ -451,7 +451,7 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 
 ::: grammar-box
 
-| | **Singular:brMaskulinum:br⟪पुंस्⟫** | **Singular:brNeutrum:br⟪नपुंसकम्⟫** | **Plural:brMaskulinum:br⟪पुंस्⟫** | **Plural:brNeutrum:br⟪नपुंसकम्⟫** |
+| | **Singular:brMasculin:br⟪पुंस्⟫** | **Singular:brNeutrum:br⟪नपुंसकम्⟫** | **Plural:brMasculin:br⟪पुंस्⟫** | **Plural:brNeutrum:br⟪नपुंसकम्⟫** |
 | :--- | :---: | :---: | :---: | :---: |
 | **1. Nominativ** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪सन्⟫ | ⟪सत्⟫ | ⟪सन्तः⟫ | ⟪सन्ति⟫ |
 | **2. Akkusativ** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪सन्तम्⟫ | ⟪सत्⟫ | ⟪सतस्⟫ | ⟪सन्ति⟫ |
@@ -472,7 +472,7 @@ Sai Baba da Shirdi (1835 - 1918).
 
 ::: grammar-box
 
-| | **Singular:brMaskulinum:br⟪पुंस्⟫** | **Singular:brNeutrum:br⟪नपुंसकम्⟫** | **Plural:brMaskulinum:br⟪पुंस्⟫** | **Plural:brNeutrum:br⟪नपुंसकम्⟫** |
+| | **Singular:brMasculin:br⟪पुंस्⟫** | **Singular:brNeutrum:br⟪नपुंसकम्⟫** | **Plural:brMasculin:br⟪पुंस्⟫** | **Plural:brNeutrum:br⟪नपुंसकम्⟫** |
 | :--- | :---: | :---: | :---: | :---: |
 | **1. Nominativ** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪महान्⟫ | ⟪महत्⟫ | ⟪महान्तस्⟫ | ⟪महान्ति⟫ |
 | **2. Akkusativ** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪महान्तम्⟫ | ⟪महत्⟫ | ⟪महतस्⟫ | ⟪महान्ति⟫ |
@@ -487,7 +487,7 @@ Sai Baba da Shirdi (1835 - 1918).
 
 ::: grammar-box
 
-| | **Singular:brMaskulinum:br⟪पुंस्⟫** | **Singular:brNeutrum:br⟪नपुंसकम्⟫** | **Plural:brMaskulinum:br⟪पुंस्⟫** | **Plural:brNeutrum:br⟪नपुंसकम्⟫** |
+| | **Singular:brMasculin:br⟪पुंस्⟫** | **Singular:brNeutrum:br⟪नपुंसकम्⟫** | **Plural:brMasculin:br⟪पुंस्⟫** | **Plural:brNeutrum:br⟪नपुंसकम्⟫** |
 | :--- | :---: | :---: | :---: | :---: |
 | **1. Nominativ** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪गुणवान्⟫ | ⟪गुणवत्⟫ | ⟪गुणवन्तस्⟫ | ⟪गुणवन्ति⟫ |
 | **2. Akkusativ** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪गुणवन्तम्⟫ | ⟪गुणवत्⟫ | ⟪गुणवतस्⟫ | ⟪गुणवन्ति⟫ |

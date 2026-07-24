@@ -32,7 +32,7 @@ status: stable
 z.B. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt den Brahmanen nach dem Dharma."
 » Passiv: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫
 
-**Questa regola vale solo quando sia la persona sia la cosa sono oggetto. Se una cosa è l'unico oggetto, questa si trova nel nominativo (prathamā) secondo lo schema base della frase passiva:**
+**Questa regola vale solo quando sia la persona sia la cosa sono oggetto. Se una cosa è l'unico oggetto, questa si trova nel nominativo (prathamā) secondo lo schema base da la frasa passiva:**
 
 z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt nach dem Dharma."
 » Passiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫

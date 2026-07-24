@@ -11,7 +11,7 @@ last_reconstructed: 2026-05-15
 A) Crear las correspondentas formas dal perfect per las suandantas furmas verbalas:
 
 ::: grammar-box
-| Präsens / Imperfekt | Perfect |
+| Präsens / Imperfect | Perfect |
 | :--- | :--- |
 | ⟪१⟫. ⟪गायन्ति⟫ | ⟪जगुः⟫ |
 | ⟪२⟫. ⟪स्मरन्ति⟫ | ⟪सस्मरुः⟫ |

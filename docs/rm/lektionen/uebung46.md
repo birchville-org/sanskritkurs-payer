@@ -11,7 +11,7 @@ last_reconstructed: 2026-05-15
 A) Determinar e traduscher las suandantas formas:
 
 ::: grammar-box
-| Wortform | Bestimmung | Bedeutung |
+| Wortform | Bestimmung | Significaziun |
 | :--- | :--- | :--- |
 | ⟪१⟫. ⟪वित्थ⟫ | ⟪विद्⟫ (2P) 2. pl. P. Ind. Präs. | vus savais |
 | ⟪२⟫. ⟪वेत्थ⟫ | ⟪विद्⟫ (2P) 2. sg. P. Perf. (Präsentisches Perfekt) | ti savas |

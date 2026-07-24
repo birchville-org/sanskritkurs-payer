@@ -1,595 +1,595 @@
 ---
-title: Lektion 15
+title: 15. lecke
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
---- <!-- TODO: Fallback translation -->
+category: "Nyelvtan"
+status: stabil
+---
 
-# Lektion 15 <!-- TODO: Fallback translation -->
+# 15. lecke
 
-## 15.1. ⟪सुभाषितम्⟫ <!-- TODO: Fallback translation -->
+## 15.1. ⟪सुभाषितम्⟫
 
 ⟪गुरुशुश्रूषया⟫ ⟪विद्या⟫  
 ⟪पुष्कलेन⟫ ⟪धनेन⟫ ⟪वा⟫ ⟪।⟫  
 ⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫  
-⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫
 
-## 15.2. Determinativkomposita = Tatpuruṣa m. = ⟪तत्पुरुष⟫ <!-- TODO: Fallback translation -->
+## 15.2. Determinatív összetételek = Tatpuruṣa m. = ⟪तत्पुरुष⟫
 
-Das Verhältnis von durch Nomina (Substantive und Adjektive) Bezeichnetem zueinander kann man ausser durch eine Genetivkonstruktion auch durch ein Tatpuruṣa (⟪तत्पुरुष⟫) ausdrücken. Ebenso kann man attributive Beiordnungen von Adjektiven oder appositionelle Beiordnung von Substantiven durch eine bestimmte Art von Tatpuruṣa, nämlich durch sog. Karmadhāraya (m.) = ⟪कर्मधारय⟫ ausdrücken. <!-- TODO: Fallback translation -->
+A főnevekkel (főnevek és melléknevek) jelölt dolgok egymáshoz való viszonyát nemcsak birtokos szerkezetekkel, hanem Tatpuruṣa (⟪तत्पुरुष⟫) segítségével is kifejezhetjük. Hasonlóképpen, melléknevek attribútív elrendezéseit vagy főnevek appozíciós elrendezését egy bizonyos típusú Tatpuruṣa, nevezetesen az úgynevezett Karmadhāraya (m.) = ⟪कर्मधारय⟩ segítségével is kifejezhetjük.
 
-⟪तत्पुरुषः⟫ =  ⟪तस्य⟫ ⟪पुरुषः⟫ "sein Knecht", d.h. als Bezeichnung dieser Art von Komposita dient ein Beispiel solcher Komposita. <!-- TODO: Fallback translation -->
+⟪तत्पुरुषः⟫ =  ⟪तस्य⟫ ⟪पुरुषः⟫ "a szolgája", azaz e típusú összetételek megnevezéseként egy ilyen összetétel példája szolgál.
 ::: grammar-box
 
-In determinativen Komposita (Tatpuruṣa) wird ein Nomen (Substantiv oder Adjektiv) durch ein anderes Nomen oder Adverb näher bestimmt. Das näher bestimmte Wort bildet in der Regel das Hinterglied des Kompositum. <!-- TODO: Fallback translation -->
+A determinatív összetételekben (Tatpuruṣa) egy főnevet (főnév vagy melléknév) egy másik főnév vagy határozószó pontosít. A pontosított szó általában az összetétel hátsó tagját képezi.
 
-Das Verhältnis der Vorderglieds (determinierendes Glied) zum Hinterglied (determiniertes Glied) kann sein: <!-- TODO: Fallback translation -->
+A hattag (meghatározó tag) és a utótag (meghatározott tag) viszonya lehet:
 
-*   attributiv bzw. appositionell: bei Auflösung des Kompositums bildet das Vorderglied zum Hinterglied eine nähere Bestimmung im selben Kasus (d.h. ausserhalb eines Satzzusammenhangs im alanyeset (nominativus) (⟪प्रथमा⟫), im Satz im syntaktisch geforderten Kasus) <!-- TODO: Fallback translation -->
-*   kasuell: das Vorderglied steht bei der Auflösung der Kompositums in einem anderen Kasus als das Hinterglied (d.h. nicht im alanyeset (nominativus) - ⟪प्रथमा⟫) <!-- TODO: Fallback translation -->
-*   adverbial: das Vorderglied ist ein nicht-deklinierbares Wort <!-- TODO: Fallback translation -->
+*   attributív vagy appozíciós: a szanszkrit összetétel feloldásakor az előtag egy további meghatározást képez a hátsó tag számára ugyanabban az esetségben (azaz mondaton kívül alanyesetben (nominativus) (⟪प्रथमा⟫), mondaton belül pedig a szintaktikusan kért esetben)
+*   kasuális: az előtag feloldáskor más esetben áll, mint a hátsó tag (azaz nem alanyesetben (nominativus) - ⟪प्रथमा⟫)
+*   adverbális: az előtag egy nem deklinálható szó
 
-Das Kasusverhältnis beider Glieder eines Kompositums ist unabhängig davon, in welchem Kasus das Kompositum steht: das Kompositum ist ja ein einziges deklinierbares Wort: <!-- TODO: Fallback translation -->
+Az összetett tagok mindkét elemének esetviszonya független attól, hogy milyen esetben áll az összetett szó: hisz ez egyetlen deklinálható szó:
 
-z. B. <!-- TODO: Fallback translation -->
+pl.
 
-> Nom. sg. ⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫   <!-- TODO: Fallback translation -->
-> Akk. sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य⟫ ⟪पुरुषम्⟫   <!-- TODO: Fallback translation -->
-> Instr. sg. ⟪तत्पुरुषेण⟫ = ⟪तस्य⟫ ⟪पुरुषेण⟫   <!-- TODO: Fallback translation -->
-> Gen. sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य⟫ ⟪पुरुषस्य⟫   <!-- TODO: Fallback translation -->
-> Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫   <!-- TODO: Fallback translation -->
-> usw. <!-- TODO: Fallback translation -->
+> Nominativus singularis ⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫
+> Akkusativus singularis ⟪तत्पुरुषम्⟫ = ⟪तस्य⟫ ⟪पुरुषम्⟫
+> Instrumentalis singularis ⟪तत्पुरुषेण⟫ = ⟪तस्य⟫ ⟪पुरुषेण⟫
+> Genetivus singularis ⟪तत्पुरुषस्य⟫ = ⟪तस्य⟫ ⟪पुरुषस्य⟫
+> Nominativus pluralis ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
+> stb.
 
-Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes. <!-- TODO: Fallback translation -->
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
 
 :::
-## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫ <!-- TODO: Fallback translation -->
+## 15.3. Determinativkomposita mit attributivem / appositionellem Vorderglied = Karmadhāraya m. = ⟪कर्मधारय⟫
 ::: grammar-box
 
-Bei Auflösung des Karmadhāraya stehen beide Glieder des Kompositums im selben Kasus. <!-- TODO: Fallback translation -->
+Bei Auflösung des Karmadhāraya stehen beide Glieder des Kompositums im selben Kasus.
 
 :::
-z.B. <!-- TODO: Fallback translation -->
+z.B.
 
-⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "ein Sohn mit guten Eigenschaften"  
+⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "egy jó tulajdonságokkal rendelkező fiú"  
 Akk. sg. ⟪गुणवत्पुत्रम्⟫  
-Nom pl. ⟪गुणवत्पुत्राः⟫   <!-- TODO: Fallback translation -->
+Nom pl. ⟪गुणवत्पुत्राः⟫
 
-⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "eine verdienstreiche Kṣatriyafrau"   <!-- TODO: Fallback translation -->
+⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "egy érdemgazdag kṣatriya asszony"
 
-⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = "gute Leute"   <!-- TODO: Fallback translation -->
+⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = "jó emberek"
 
-⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "die gewünschte Gottheit = die Gottheit, zu der man ein besonderes Andachts- und Zufluchtsverhältnis hat" <!-- TODO: Fallback translation -->
+⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "a kívánt isteni lény = az a isteni lény, akivel különös imádságos és menedékkapcsolat fűz"
 
 ::: media
 ![](/images/lekt1501.webp)
-Abb.: ⟪लक्ष्मी⟫
-(Bildquelle: [Details](/licenses#lekt1501)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪लक्ष्मी⟫
+(Képmegjelenítés: [Details](/hu/licenses#lekt1501))
 :::
 
 ::: grammar-box
 
-Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten: <!-- TODO: Fallback translation -->
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
-*   drückt ein Karmadhāraya einen VERGLEICH aus, dann steht das, womit verglichen wird, im Hinterglied des Kompositums: <!-- TODO: Fallback translation -->
+*   ha egy Karmadhāraya hasonlóságot fejez ki, akkor az összehasonlítási alany a szóösszetétel hátsó tagjában áll:
 
-    ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "ein Mann wie ein Löwe"  
-    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger" <!-- TODO: Fallback translation -->
+⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "egy ember, mint egy oroszlán"  
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "egy ember, mint egy tigris"
 
-*   drückt ein Karmadhāraya aber eine Apposition (nähere Bestimmung des Hinterglieds durch ein Substantiv) aus, so steht das näher Bestimmende im Vorderglied, wie es auch die allgemeine Regel für die Reihenfolge für die Glieder in einem Tatpuruṣa fordert: <!-- TODO: Fallback translation -->
+*   ha azonban egy Karmadhāraya appozíciót (a hátsó tag pontosabb meghatározását egy főnévvel) fejez ki, akkor a pontosabban meghatározó elem az első tagban áll, ahogy azt az általános szabály is előírja a Tatpuruṣa tagjainak sorrendjére:
 
-    ⟪नरसिंहः⟫ kann auch aufgelöst werden: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Ein Löwe, der (in Wirklichkeit) ein Mann ist." <!-- TODO: Fallback translation -->
+⟪नरसिंहः⟫ felbontva is értelmezhető: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = „Egy oroszlán, aki (valójában) ember.”
 
-    Solche appositionelle Karmadhāraya werden in den einheimischen Kommentaren wie im obigen Beispiel mittels ⟪एव⟫ aufgelöst. <!-- TODO: Fallback translation -->
+Az ilyen appozíciós Karmadhāraya összetételeket a helyi kommentárokban, mint a fenti példában is, ⟪एव⟫ segítségével oldják fel.
 
 :::
 ::: media
 ![](/images/lekt1503.webp)
-Abb.: ⟪नरसिंहः⟫
-(Bildquelle: [Details](/licenses#lekt1503)) <!-- TODO: Fallback translation -->
+Ábra: ⟪नरसिंहः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt1503))
 :::
-## 15.4. Determinativkomposita mit einem Vorderglied, das zum Hinterglied in einem nicht-attributiv/appositionellem Kasusverhältnis steht = Tatpuruṣa im engeren Sinn <!-- TODO: Fallback translation -->
+## 15.4. Determinatív összetételek olyan előtaggal, amely a hátsó taghoz nem attributív/appozíciós esetviszonyban áll = Tatpuruṣa szűkebb értelemben
 
 ::: grammar-box
 
-Tatpuruṣaverbindungen sind möglich für Verbindungen von Nomina (Substantive und Adjektive), bei denen das Vorderglied - den Regeln der Syntax entsprechend - in jedem Kasus stehen kann. Erwartungsgemäss vertritt das Vorderglied am häufigsten einen Genetiv (⟪षष्ठी⟫), da dies ja der Kasus ist, um das Verhältnis von Nomina auszudrücken. <!-- TODO: Fallback translation -->
+A tatpuruṣa kapcsolatok lehetségesek névszói (főnevek és melléknevek) kapcsolatainál, ahol az első tag a szintaxis szabályainak megfelelően bármelyes esetben állhat. Várhatóan az első tag leggyakrabban birtokos esetet (⟪षष्ठी⟫) fejez ki, mivel ez az eset a főnevek közötti viszony kifejezésére szolgál.
 
 :::
-z.B. <!-- TODO: Fallback translation -->
+pl.
 
-⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "der Sohn eines Kṣatriya", "ein junger Kṣatriya", "ein  Angehöriger der Gruppe der Kṣatriyas"  
-Akk. sg. ⟪क्षत्रियपुत्रम्⟫  
-Gen. sg. ⟪क्षत्रियपुत्रस्य⟫  
-u.s.w.   <!-- TODO: Fallback translation -->
+⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "egy kṣatriya fia", "fiatal kṣatriya", "a kṣatriyák csoportjának tagja"
+Többes szám ragozás: ⟪क्षत्रियपुत्रम्⟫
+Birtokos eset, egyes szám: ⟪क्षत्रियपुत्रस्य⟫
+stb.
 
-⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "die Natur eines Lehrers" <!-- TODO: Fallback translation -->
+⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "egy tanár természete"
 
-⟪धनलोभः⟫ = ⟪धनस्य⟫  ⟪लोभः⟫ = "Begierde nach Reichtum, Habsucht" <!-- TODO: Fallback translation -->
+⟪धनलोभः⟫ = ⟪धनस्य⟫  ⟪लोभः⟫ = "a gazdagság utáni vágy, kapzsiság"
 
-⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "der Gang der Welt, das Verhalten der Leute" <!-- TODO: Fallback translation -->
+⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "a világ menete, az emberek viselkedése"
 
-Fast jedes Genetivverhältnis kann durch ein Tatpuruṣa ersetzt werden. Die Wenigen Ausnahmen siehe z.B. bei Kale, A higher Sanskrit grammar § 211, dort auch die entsprechenden Stellen bei Pāṇini. <!-- TODO: Fallback translation -->
+Majdnem minden birtokos eset viszony helyettesíthető Tatpuruṣa összetétellel. A kevés kivételért lásd például Kale, A higher Sanskrit grammar § 211, ahol Pāṇini megfelelő helyei is szerepelnek.
 
-Das Vorderglied eines Tatpuruṣa kann aber prinzipiell jeden Kasus vertreten. Allerdings können nicht alle syntaktisch möglichen Kasusverhältnisse durch ein Tatpuruṣa ersetzt werden. Die entsprechenden regeln findet man im Zweifelsfall bei Kale, A higher Sanskrit grammar § 203 - 217 bzw. Pāṇini 2,1,22 - 2,2,22. <!-- TODO: Fallback translation -->
+A Tatpuruṣa első tagja azonban elvileg bármelyik esetet képviselheti. Azonban nem minden szintaktikailag lehetséges esetviszony helyettesíthető Tatpuruṣa összetétellel. A megfelelő szabályokat kétség esetén Kale, A higher Sanskrit grammar § 203 - 217 vagy Pāṇini 2,1,22 - 2,2,22 műveiben találjuk.
 
 ::: grammar-box
 
-Das Vorderglied kann bei der Auflösung des Kompositums im Singular, Dual oder Plural stehen. Welche Möglichkeit vorliegt, muss aus Bedeutung und Kontext erschlossen werden. <!-- TODO: Fallback translation -->
+Az összetétel felbontásakor az első tag egyeses, kettős vagy többes számú lehet. A konkrét esetet a jelentés és a kontextus alapján kell megállapítani.
 
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
-Das Vorderglied vertritt den Akkusativ (⟪द्वितीया⟫): z.B. bei gewissen PPP zu Verben der Bewegung (Pāṇini 2,1,24): <!-- TODO: Fallback translation -->
+Az első tag az accusativust helyettesíti (⟪द्वितीया⟫): például egyes, mozgást kifejező igékhez kapcsolódó PPP-k esetén (Pāṇini 2,1,24):
 
-⟪ग्रामगतः⟫ = ⟪ग्रामं⟫ ⟪गतः⟫ = "einer, der ins Dorf gegangen ist"  
-⟪नरकपतिता⟫ = ⟪नरकं⟫ ⟪पतिता⟫ = "eine, die in eine Hölle gefallen ist" <!-- TODO: Fallback translation -->
+⟪ग्रामगतः⟫ = ⟪ग्रामं⟫ ⟪गतः⟫ = "egy, aki elment a faluba"  
+⟪नरकपतिता⟫ = ⟪नरकं⟫ ⟪पतिता⟫ = "egy, aki egy pokolba esett"
 
-Das Vorderglied vertritt den Instrumentalis (⟪तृतीया⟫): z.B. häufig der Agens (⟪कर्तृ⟫) von Nominalbildungen mit kṛt-Suffixen (z.B. PPP): <!-- TODO: Fallback translation -->
+Az előtag az abszolútivuszt (⟪तृतीया⟫) helyettesíti: pl. gyakran az agensét (⟪कर्तृ⟫) kṛt-utókéval képzett főnevek esetén (pl. PPP):
 
-⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "von einem Gott / von Göttern gemacht"  
-Wäre auch auflösbar: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "Tat / Tun eines Gottes / von Göttern ; Gottestat, Göttertat"   <!-- TODO: Fallback translation -->
+⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "egy isten / istenek által alkotott"  
+Felbontható így is: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "egy isten cselekedete / tette; isteni tett, istenek műve"
 
-⟪बुद्धरक्षिता⟫  = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "die, die von Buddha behütet wurde" (ein Eigenname) <!-- TODO: Fallback translation -->
+⟪बुद्धरक्षिता⟫  = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "aki Buddha által oltalmazva lett" (egy sajátnév)
 
-## 15.5. Zerlegung von Komposita (ausser Dvandvas) <!-- TODO: Fallback translation -->
+## 15.5. Összetételek felbontása (Dvandva kivételével)
 
 ::: grammar-box
-Obwohl im Sanskrit Komposita beliebiger Länge gebildet werden können und auch sehr häufig gebildet werden (Komposita aus 10 bis 30 Gliedern sind keine Seltenheit!), so sind doch - mit Ausnahme der Dvandvas - alle Komposita fortschreitend hierarchisch in je zwei Teile zu zerlegen: <!-- TODO: Fallback translation -->
+Bár a szanszkritban tetszőleges hosszúságú összetett szavak képezhetők, sőt nagyon gyakoriak is (10-30 tagú összetett szavak egyáltalán nem ritkák!), kivéve a dvandva-kapcsolatokat, minden összetett szó fokozatosan hierarchikusan bontható két részre:
 
 :::
 ::: media
 ![](/images/lekt1502.jpg)
-Abb.: ⟪समासविच्छेदः⟫
-(Bildquelle: [Details](/licenses#lekt1502)) <!-- TODO: Fallback translation -->
+Ábra: ⟪समासविच्छेदः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt1502))
 :::
-u.s.w. bis man zu den einzelnen Wortstämmen kommt. <!-- TODO: Fallback translation -->
+stb., amíg el nem jutunk az egyes szógyökökig.
 
-z.B. <!-- TODO: Fallback translation -->
+pl.
 
-⟪गुणवत्पुत्रकृतपुण्यम्⟫ <!-- TODO: Fallback translation -->
+⟪गुणवत्पुत्रकृतपुण्यम्⟫
 
 ::: indent
-1\. Stufe (Hauptzäsur): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫ <!-- TODO: Fallback translation -->
+1. szint (fő szünet): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
-2\. Stufe (1. Nebenzäsur): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫ <!-- TODO: Fallback translation -->
+2. szint (1. mellékszünet): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
-3\. Stufe (2. Nebenzäsur): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫ <!-- TODO: Fallback translation -->
+3. szint (2. mellékszünet): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
-= "die verdienstvolle Tat (das Verdienst), die mein tugendhafter Sohn getan hat" <!-- TODO: Fallback translation -->
+= „a dicséretes cselekedet (az érdem), amelyet az én erényes fiam elkövetett”
 :::
-Dabei können verschiedene Arten von Komposita gemischt werden, z.B. Vorderglied: Bahuvrīhi (⟪बहुव्रीहि⟫) - Hinterglied: Tatpuruṣa usw. <!-- TODO: Fallback translation -->
+Különböző típusú összetett szavak keveredhetnek, például: előtag: Bahuvrīhi (⟪बहुव्रीहि⟫) - utótag: Tatpuruṣa stb.
 
-z.B. <!-- TODO: Fallback translation -->
+pl.
 
-⟪ब्राह्मणक्षत्रियवैश्यधर्मः⟫ <!-- TODO: Fallback translation -->
+⟪ब्राह्मणक्षत्रियवैश्यधर्मः⟫
 
 ::: indent
-1\. Stufe: ⟪ब्राह्मणक्षत्रियवैश्यानां⟫ ⟪धर्मः⟫ (Vorderglied: Itaretaradvandva) <!-- TODO: Fallback translation -->
+1\. szint: ⟪ब्राह्मणक्षत्रियवैश्यानां⟫ ⟪धर्मः⟫ (első tag: Itaretaradvandva)
 
-2\. Stufe: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫ <!-- TODO: Fallback translation -->
+2\. szint: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
 
-= "der Dharma von Brahmanen, Kṣatriyas und Vaiśyas" <!-- TODO: Fallback translation -->
+„a bráhmanák, kṣatriyák és vaiśyák dharma”
 :::
-Sehr oft gibt es für ein Kompositum verschiedene Möglichkeiten der Auflösung. Welches die richtige oder zumindest die beste ist, kann nur aus dem Kontext und dem Inhalt des Textes entschieden werden. Manchmal ist eine solche Entscheidung nicht möglich. Oft sind zwei Auflösungsmöglichkeiten vermutlich vom Autor intendiert. Dann muss man in der Übersetzung beide Auflösungsmöglichkeiten wiedergeben (verbunden mit "und", "oder" "bzw." und dergleichen. <!-- TODO: Fallback translation -->
+Egy összetett szó feloldására nagyon gyakran több lehetőség is létezik. Az, hogy melyik a helyes vagy legalábbis a legjobb, csak a szöveg kontextusából és tartalmából dönthető el. Néha ilyen döntés nem lehetséges. Gyakran a szerző valószínűleg két feloldási lehetőséget szándékozott. Ekkor a fordításban mindkét feloldási lehetőséget vissza kell adni („és”, „vagy” vagy „illetve” stb. összekötéssel).
 
-z.B. <!-- TODO: Fallback translation -->
+pl.
 
-⟪पुण्यवत्पुत्रकृतम्⟫ <!-- TODO: Fallback translation -->
+⟪पुण्यवत्पुत्रकृतम्⟫
 
 ::: indent
-1\. Stufe: entweder - oder <!-- TODO: Fallback translation -->
+1. szint: vagy – vagy
 
-1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫ <!-- TODO: Fallback translation -->
-2. ⟪पुण्यवत्पुत्रस्य⟫ ⟪कृतम्⟫ <!-- TODO: Fallback translation -->
-3. ⟪पुण्यवत्⟫ ⟪पुत्रकृतम्⟫ <!-- TODO: Fallback translation -->
+1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫
+2. ⟪पुण्यवत्पुत्रस्य⟫ ⟪कृतम्⟫
+3. ⟪पुण्यवत्⟫ ⟪पुत्रकृतम्⟫
 
-2\. Stufe: entsprechend <!-- TODO: Fallback translation -->
+2\. szint: megfelelően
 
-1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "das von meinem verdienstreichen Sohn Getane" <!-- TODO: Fallback translation -->
-2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "die Tat meines verdienstreichen Sohnes" <!-- TODO: Fallback translation -->
-3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "das verdienstvolle, von meinem Sohn Getane" <!-- TODO: Fallback translation -->
-   2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "die verdienstvolle Tat meines Sohnes" <!-- TODO: Fallback translation -->
+1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟩ = „a dicséretes fiam által elvégzett”
+2. ⟪पुण्यवतः⟩ ⟪पुत्रस्य⟩ ⟪कृतम्⟩ = „a dicséretes fiam cselekedete”
+3. 1. ⟪पुण्यवत्⟩  ⟪पुत्रेण⟩ ⟪कृतम्⟩ = „a dicséretes, a fiam által elvégzett”
+2. ⟪पुण्यवत्⟩  ⟪पुत्रस्य⟩ ⟪कृतम्⟩ = „a dicséretes cselekedet a fiam által”
 :::
-## 15.6. Die Form des Vorderglieds in Komposita (⟪समास⟫ m.) <!-- TODO: Fallback translation -->
+## 15.6. A összetételek előtagjának formája (⟪समास⟩ m.)
 ::: grammar-box
 
-In allen Arten von Komposita ist das Vorderglied in der Regel der unveränderte Wortstamm. Zweistämmige Nomina stehen im schwachen Stamm. Feminine Adjektive, die ein folgendes Glied im Kompositum näher bestimmen, stehen im Allgemeinen in maskulinen Stamm: <!-- TODO: Fallback translation -->
+Összes összetétel-fajtában az előtag általában a változatlan szógyök. Két gyökből álló főnevek az erős alakban szerepelnek. A nőnemű melléknevek, amelyek a következő tagot pontosítják az összetételben, általában hímnemű alakban állnak:
 
-z.B. <!-- TODO: Fallback translation -->
+z.B.
 
-⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "eine Kṣatriyafrau, die Verdienst besitzt"  
-⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "ein Sohn mit guten Eigenschaften" <!-- TODO: Fallback translation -->
+⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "egy érdemekkel rendelkező kṣatriya nő"  
+⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "jó tulajdonságokkal rendelkező fiú"
 
 :::
-## 15.7. Einteilung der ⟪तत्पुरुष⟫ <!-- TODO: Fallback translation -->
+## 15.7. A ⟪तत्पुरुष⟫ felosztása
 
-1.  ⟪प्रथमातत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im alanyeset (nominativus) (⟪प्रथमा⟫) <!-- TODO: Fallback translation -->
-2.  ⟪द्वितीयातत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im tárgyeset (accusativus) (⟪द्वितीया⟫) <!-- TODO: Fallback translation -->
-3.  ⟪तृतीयातत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im eszközhatározó eset (instrumentalis) (⟪तृतीया⟫) <!-- TODO: Fallback translation -->
-4.  ⟪चतुर्थीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im részes eset (dativus) (⟪चतुर्थी⟫) <!-- TODO: Fallback translation -->
-5.  ⟪पञ्चमीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im ablativus (⟪पज्चमी⟫) <!-- TODO: Fallback translation -->
-6.  ⟪षष्ठीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im birtokos eset (genitivus) (⟪षष्ठी⟫) <!-- TODO: Fallback translation -->
-7.  ⟪सप्तमीतत्पुरुषः⟫ : Vorderglied steht in ⟪विग्रहवाक्य⟫ im lokativus (⟪सप्तमी⟫) <!-- TODO: Fallback translation -->
+1. ⟪प्रथमातत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟫ állapota (nominativus) (⟪प्रथमा⟫)
+2. ⟪द्वितीयातत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟫ állapota (accusativus) (⟪द्वितीया⟫)
+3. ⟪तृतीयातत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (instrumentalis) (⟪तृतीया⟫)
+4. ⟪चतुर्थीतत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (dativus) (⟪चतुर्थी⟫)
+5. ⟪पञ्चमीतत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (ablativus) (⟪पज्चमी⟫)
+6. ⟪षष्ठीतत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (genitivus) (⟪षष्ठी⟫)
+7. ⟪सप्तमीतत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (lokativus) (⟪सप्तमी⟫)
 
-*   ⟪कर्मधारयः⟫ : appositioneller Tatpuruṣa, u.a.: <!-- TODO: Fallback translation -->
-    *   ⟪उपमानपूर्वपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪इव⟫ nach erstem Glied <!-- TODO: Fallback translation -->
-    *   ⟪उपमानोत्तरपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪इव⟫ nach zweitem Glied <!-- TODO: Fallback translation -->
-    *   ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪एव⟫ <!-- TODO: Fallback translation -->
-    *   ⟪द्विगुसमासः⟫ : Zahlwort im Vorderglied <!-- TODO: Fallback translation -->
-*   ⟪नञ्तत्पुरुषः⟫ (⟪निषेधतत्पुरुषः⟫) : mit Verneinung a-, an- im Vorderglied <!-- TODO: Fallback translation -->
-*   ⟪गतिसमासः⟫ : mit Präposition im Vorderglied <!-- TODO: Fallback translation -->
-*   ⟪प्रथमातत्पुरुषः⟫ u.s.w. (siehe oben) <!-- TODO: Fallback translation -->
+*   ⟪कर्मधारयः⟫ : appozíciós Tatpuruṣa, többek között:
+*   ⟪उपमानपूर्वपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ a ⟪इव⟫ taggal az első elem után
+*   ⟪उपमानोत्तरपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ a ⟪इव⟫ taggal a második elem után
+*   ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ a ⟪एव⟫ taggal
+*   ⟪द्विगुसमासः⟫ : számjel az első tagban
+*   ⟪नञ्तत्पुरुषः⟫ (⟪निषेधतत्पुरुषः⟫) : tagadás az első tagban, a- vagy an- előtaggal
+*   ⟪गतिसमासः⟫ : előtagban prepozícióval
+*   ⟪प्रथमातत्पुरुषः⟫ stb. (lásd fent)
 
-### 15.7.1. Einteilung der ⟪कर्मधारय⟫ <!-- TODO: Fallback translation -->
+### 15.7.1. A ⟪कर्मधारय⟫ osztályozása
 
-1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫ : Vorderglied ist Adjektiv (⟪विशेषण⟫) <!-- TODO: Fallback translation -->
-2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : beide Glieder sind Adjektive, hierher gehören auch Adjektive, die einen Zeitablauf ausdrücken: "zuerst gebadet, dann gesalbt" <!-- TODO: Fallback translation -->
-3.  ⟪उपमानपूर्वपदकर्मधारयः⟫ (=  ⟪उपमासमासः⟫): im Vorderglied Vergleich, im Hinterglied verglichene Eigenschaft: z.B. "schön wie ein Lotus" <!-- TODO: Fallback translation -->
-4.  ⟪उपमानोत्तरपदकर्मधारयः⟫ (=  ⟪उपमितसमासः⟫):  Vergleich im Hinterglied <!-- TODO: Fallback translation -->
-5.  ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ mit ⟪एव⟫ nach Vorderglied (Metapher) <!-- TODO: Fallback translation -->
-6.  ⟪संभावनपूर्वपदकर्मधारयः⟫ : beide Glieder Glieder beziehen sich auf selbe Person oder Sache, z.B. ⟪कालिदासकविः⟫ = ⟪कालिदास⟫ ⟪इति⟫ ⟪कविः⟫ = "der Dichter Kālidāsa" <!-- TODO: Fallback translation -->
-7.  ⟪कर्मधारयः⟫ mit ⟪कु⟫ / ⟪कद्⟫ als Vorderglied: "schlecht..." <!-- TODO: Fallback translation -->
-8.  ⟪कर्मधारयः⟫ mit ⟪किम्⟫ als Vorderglied: Tadel <!-- TODO: Fallback translation -->
-9.  PPP + negiertes PPP: "teilweise", z.B. ⟪कृताकृतम्⟫ = "teilweise getan" <!-- TODO: Fallback translation -->
-10.  ⟪द्विगुसमासः⟫ : Zahlwort im Vorderglied <!-- TODO: Fallback translation -->
+1.  ⟪विशेषणपूर्वपदकर्मधारयः⟫ : az első tag melléknév (⟪विशेषण⟫)
+2.  ⟪विशेषणोभयपदकर्मधारयः⟫ : mindkét tag melléknév, ide tartoznak azok a melléknevek is, amelyek időbeli sorrendet fejeznek ki: „először megfürdött, aztán bekenték”
+3.  ⟪उपमानपूर्वपदकर्मधारयः⟫ (=  ⟪उपमासमासः⟫): az első tagban hasonlat, a második tagban összehasonlított tulajdonság: pl. „szép mint egy lótusz”
+4.  ⟪उपमानोत्तरपदकर्मधारयः⟫ (=  ⟪उपमितसमासः⟫): hasonlat a második tagban
+5.  ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ a ⟪एव⟫ taggal az első elem után (metafora)
+6.  ⟪संभावनपूर्वपदकर्मधारयः⟫ : mindkét tag ugyanarra a személyre vagy dologra utal, pl. ⟪कालिदासकविः⟫ = ⟪कालिदास⟫ ⟪इति⟫ ⟪कविः⟫ = „Kālidāsa költő”
+7.  ⟪कर्मधारयः⟫ a ⟪कु⟫ / ⟪कद्⟫ első taggal: „rossz...”
+8.  ⟪कर्मधारयः⟫ a ⟪किम्⟫ első taggal: kifogás
+9.   PPP + megtagadott PPP: „részben”, pl. ⟪कृताकृतम्⟫ = „részben megcsinálva”
+10.  ⟪द्विगुसमासः⟫ : számjel az első tagban
 
-## 15.8. Wortliste <!-- TODO: Fallback translation -->
+## 15.8. Szószedet
 
-⟪पुष्कल⟫ 3: herrlich, prächtig, reichlich <!-- TODO: Fallback translation -->
+⟪पुष्कल⟫ 3: csodálatos, pompás, bőséges
 
-⟪वा⟫ : oder (nachgestellt) <!-- TODO: Fallback translation -->
+⟪वा⟫ : vagy (utólagosan)
 
-⟪अथवा⟫ : oder (vorangestellt) <!-- TODO: Fallback translation -->
+⟪अथवा⟫ : vagy (előre helyezett)
 
-⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): vierter <!-- TODO: Fallback translation -->
+⟪चतुर्थ⟫ 3 (f.: ⟪चतुर्थी⟫): negyedik
 
-⟪विद्⟫ "finden" 6 U ⟪विन्दति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त⟫ <!-- TODO: Fallback translation -->
+⟪विद्⟫ "találni" 6 U ⟪विन्दति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त⟫
 
-⟪विद्⟫ "wissen" 2 P ⟪वेत्ति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विदित⟫ <!-- TODO: Fallback translation -->
+⟪विद्⟫ "tudni" 2 P ⟪वेत्ति⟫ ; Pass. ⟪विद्यते⟫ ; PPP ⟪विदित⟫
 
-⟪पत्⟫ "fliegen, fallen" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित⟫ <!-- TODO: Fallback translation -->
+⟪पत्⟫ "repülni, esni" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित⟫
 
-⟪अर्ध⟫ 3: halb, m.n. Hälfte <!-- TODO: Fallback translation -->
+⟪अर्ध⟫ 3: fél, m.n. fele
 
-⟪पूजा⟫ f.: Ehrung, ehrenvoller Empfang, religiöse Verehrung (Pūjā) <!-- TODO: Fallback translation -->
+⟪पूजा⟫ f.: tisztelet, tisztelettudó fogadtatás, vallási imádás (Pūjā)
 ::: media
 ![](/images/lekt1504.webp)
-Abb.: ⟪पूजा⟫
-(Bildquelle: [Details](/licenses#lekt1504)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪पूजा⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt1504))
 :::
-⟪कुल⟫ n.: Herde, Menge, Geschlecht, Abstammung, Familie <!-- TODO: Fallback translation -->
+⟪कुल⟫ n.: nyáj, tömeg, nemzedék, származás, család
 
-⟪इन्द्र⟫ m.: Fürst, Erster, Bester unter ; Götterkönig Indra <!-- TODO: Fallback translation -->
+⟪इन्द्र⟫ m.: fejedelem, első, legjobb ; istenek királya Indra
 ::: media
 ![](/images/lekt1505.webp)
-Abb.: ⟪इन्द्रः⟫
-(Bildquelle: [Details](/licenses#lekt1505)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪इन्द्रः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt1505))
 :::
-⟪दास⟫ m.: Sklave, Leibeigener, Diener <!-- TODO: Fallback translation -->
+⟪दास⟫ m.: szolga, jobbágy, cseléd
 
-⟪दासी⟫ f.: Sklavin, Leibeigene, Dienerin <!-- TODO: Fallback translation -->
+⟪दासी⟫ f.: szolgaasszony, jobbágyasszony, cselédnő
 
-⟪काल⟫ m.: Zeit, (rechter) Zeitpunkt ; Schicksal, Tod ; Todesgott Kāla <!-- TODO: Fallback translation -->
+⟪काल⟫ m.: idő, (megfelelő) pillanat ; sors, halál ; halálgod Kāla
 
-⟪काल⟫ 3: schwarz, blauschwarz, dunkel <!-- TODO: Fallback translation -->
+⟪काल⟫ 3: fekete, kékesfekete, sötét
 
-⟪पुरुष⟫ m.: Mensch, Mann, Knecht <!-- TODO: Fallback translation -->
+⟪पुरुष⟫ m.: ember, férfi, szolga
 
-\-⟪जन⟫ als zweites Glied von Tatpuruṣas oft Ausdruck des Plurals <!-- TODO: Fallback translation -->
+\-⟪जन⟫ mint a Tatpuruṣa második tagja gyakran a többes szám kifejezője
 
-⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : loben, preisen <!-- TODO: Fallback translation -->
+⟪स्तु⟫ 2 ⟪स्तौति⟫ ; Pass. ⟪स्तूयते⟫ ; PPP ⟪स्तुत⟫ : dicsér, magasztal
 
-davon: <!-- TODO: Fallback translation -->
+ebből:
 
 ::: indent
-⟪स्तुति⟫ f.: Lobpreis, Loblied <!-- TODO: Fallback translation -->
+⟪स्तुति⟫ f.: dicséret, himnusz
 
-⟪स्तोत्र⟫ n.: (Mittel zum Preisen =) Loblied, Hymnus <!-- TODO: Fallback translation -->
+⟪स्तोत्र⟫ n.: (dicséret eszköze =) himnusz, ének
 :::
-⟪सिंह⟫ m.: Löwe (_Panthera leo persica_) <!-- TODO: Fallback translation -->
+⟪सिंह⟫ m.: oroszlán (_Panthera leo persica_)
 ::: media
 ![](/images/lekt1506.webp)
-Abb.: ⟪सिंहः⟫
-(Bildquelle: [Details](/licenses#lekt1506)) <!-- TODO: Fallback translation -->
+Kép: ⟪सिंहः⟫
+(Képmagyarázat: [Részletek](/hu/licenses#lekt1506))
 :::
-⟪व्याघ्र⟫ m.: Tiger (_Panthera tigris tigris_) (wörtl: Gähner) <!-- TODO: Fallback translation -->
+⟪व्याघ्र⟫ m.: tigris (_Panthera tigris tigris_) (szó szerint: ásító)
 ::: media
 ![](/images/lekt1507.webp)
-Abb.: ⟪व्याघ्रः⟫
-(Bildquelle: [Details](/licenses#lekt1507)) <!-- TODO: Fallback translation -->
+Kép: ⟪व्याघ्रः⟫
+(Képmagyarázat: [Részletek](/hu/licenses#lekt1507))
 :::
-⟪इव⟫ (nachgestellt): gleichsam, wie (in Vergleichen: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "ein Mann wie ein Tiger", "ein tigergleicher Mann" <!-- TODO: Fallback translation -->
+⟪इव⟫ (utólagosan): olyasvalami, mint (hasonlatokban: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "egy ember, mint egy tigris", "tigriszerű ember"
 
-⟪एव⟫ (nachgestellt): betont das Vorhergehende, entspricht im Deutschen oft der Betonung, eine Art Emoticon `\<!\>`, z.B. ⟪सत्यमेव⟫ ⟪जयति⟫ "allein die Wahrheit siegt", "gerade die Wahrheit siegt", "die Wahrheit siegt" <!-- TODO: Fallback translation -->
+⟪एव⟫ (utólagosan): hangsúlyozza az előzőt, a németben gyakran a hangsúlynak felel meg, egyfajta érzelmi jelző `\&lt;!\&gt;`, pl. ⟪सत्यमेव⟫ ⟪जयति⟫ "csak az igazság győz", "pontosan az igazság győz", "az igazság győz"
 
-⟪अरि⟫ m.: Feind (laut Thieme, Der Fremdling im Ṛgveda: ursprünglich = Fremdling) <!-- TODO: Fallback translation -->
+⟪अरि⟫ m.: ellenség (Thieme szerint, Der Fremdling im Ṛgveda: eredetileg = idegen)
 
 ::: indent
-⟪आर्य⟫ 3: arisch, edel ; m. Arier (Selbstbezeichnung der sanskritsprechenden alten Inder, wörtlich: Gastfreundlicher (Thieme)) ; Edler, Ehrenmann <!-- TODO: Fallback translation -->
+⟪आर्य⟫ 3: ári, nemes; m. ária (a szanszkittal beszélő ókori indiaiak önmegnevezése, szó szerint: vendégszerető (Thieme)); nemes ember, becsületes férfi
 :::
-zu ⟪जन्⟫ <!-- TODO: Fallback translation -->
+a ⟪जन्⟫ szóhoz
 
 ::: indent
-⟪जाति⟫ f.: Geburt, Art, Kaste (zu ⟪जाति⟫ als Kaste siehe Basham, Wonder, S. 148ff.) <!-- TODO: Fallback translation -->
+⟪जाति⟫ f.: születés, fajta, kaszt (a ⟪जाति⟫ kasztként való értelmezéséhez lásd Basham, Wonder, 148. old.)
 :::
-⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : sterben (nach indischen Grammatikern: 6 Ā) <!-- TODO: Fallback translation -->
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : meghalni (az indiai grammatikusok szerint: 6 Ā)
 
-davon: <!-- TODO: Fallback translation -->
+ebből:
 
 ::: indent
-⟪मरण⟫ n.: Sterben, Tod <!-- TODO: Fallback translation -->
+⟪मरण⟫ n.: halál, elhalás
 
-⟪मृति⟫ f.: Sterben, Tod <!-- TODO: Fallback translation -->
+⟪मृति⟫ f.: halál, elhalás
 
-⟪मृत्यु⟫ m.: Tod ; personifiziert: Todesgott <!-- TODO: Fallback translation -->
+⟪मृत्यु⟫ m.: halál; personifikált: a halál istene
 :::
-## 15.9. Übung 1 <!-- TODO: Fallback translation -->
+## 15.9. Gyakorlat 1
 
-Lösen Sie folgende Komposita als Tatpuruṣa in Sanskrit auf und geben Sie eine deutsche Übersetzung. Geben Sie jeweils alle Auflösungen und Übersetzungen, die Ihnen möglich erscheinen. Geben Sie auch an, um welchen Kasus und welche Zahl es sich beim Gesamtkompositum handelt. <!-- TODO: Fallback translation -->
+Oldja fel a következő összetett szavakat (tatpuruṣa) szanszkrit nyelven, és adjon német fordítást. Adja meg az összes lehetséges feloldást és fordítást, amelyeket képesnek talál. Adja meg továbbá, hogy az összetett szó egészében melyik esetre és számra vonatkozik.
 
-⟪१⟫. ⟪देवेन्द्रस्य⟫ <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪देवेन्द्रस्य⟫
 
-⟪२⟫. ⟪दुःखदग्धा⟫ <!-- TODO: Fallback translation -->
+⟪२⟫. ⟪दुःखदग्धा⟫
 
-⟪३⟫. ⟪मोक्षधर्मः⟫ <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪मोक्षधर्मः⟫
 
-⟪४⟫. ⟪अन्नजातानि⟫ <!-- TODO: Fallback translation -->
+⟪४⟫. ⟪अन्नजातानि⟫
 
-⟪५⟫. ⟪गृहकरणम्⟫ <!-- TODO: Fallback translation -->
+⟪५⟫. ⟪गृहकरणम्⟫
 
-⟪६⟫. ⟪शूद्रकृतेन⟫ <!-- TODO: Fallback translation -->
+⟪६⟫. ⟪शूद्रकृतेन⟫
 
-⟪७⟫. ⟪ईश्वरपूजा⟫ <!-- TODO: Fallback translation -->
+⟪७⟫. ⟪ईश्वरपूजा⟫
 
-⟪८⟫. ⟪देवेश्वरः⟫ <!-- TODO: Fallback translation -->
+⟪८⟫. ⟪देवेश्वरः⟫
 
-⟪९⟫. ⟪क्षत्रिययज्ञम्⟫ <!-- TODO: Fallback translation -->
+⟪९⟫. ⟪क्षत्रिययज्ञम्⟫
 
-⟪१०⟫. ⟪वैश्यभावेन⟫ <!-- TODO: Fallback translation -->
+⟪१०⟫. ⟪वैश्यभावेन⟫
 
-⟪११⟫. ⟪देवगुरोः⟫ <!-- TODO: Fallback translation -->
+⟪११⟫. ⟪देवगुरोः⟫
 
-⟪१२⟫. ⟪धनलोभः⟫ <!-- TODO: Fallback translation -->
+⟪१२⟫. ⟪धनलोभः⟫
 
-⟪१३⟫. ⟪गृहदासी⟫ <!-- TODO: Fallback translation -->
+⟪१३⟫. ⟪गृहदासी⟫
 
-⟪१४⟫. ⟪दुःखमोहः⟫ <!-- TODO: Fallback translation -->
+⟪१४⟫. ⟪दुःखमोहः⟫
 
-⟪१५⟫. ⟪ग्रामेश्वरम्⟫ <!-- TODO: Fallback translation -->
+⟪१५⟫. ⟪ग्रामेश्वरम्⟫
 
-⟪१६⟫. ⟪नगरजनाः⟫ <!-- TODO: Fallback translation -->
+⟪१६⟫. ⟪नगरजनाः⟫
 
-⟪१७⟫. ⟪यज्ञकालस्य⟫ <!-- TODO: Fallback translation -->
+⟪१७⟫. ⟪यज्ञकालस्य⟫
 
-⟪१८⟫. ⟪देवगृहाणि⟫ <!-- TODO: Fallback translation -->
+⟪१८⟫. ⟪देवगृहाणि⟫
 
-⟪१९⟫. ⟪देवपुत्राणाम्⟫ <!-- TODO: Fallback translation -->
+⟪१९⟫. ⟪देवपुत्राणाम्⟫
 
-⟪२०⟫. ⟪पश्विष्टिः⟫ <!-- TODO: Fallback translation -->
+⟪२०⟫. ⟪पश्विष्टिः⟫
 
-⟪२१⟫. ⟪स्मृत्युक्तम्⟫ <!-- TODO: Fallback translation -->
+⟪२१⟫. ⟪स्मृत्युक्तम्⟫
 
-⟪२२⟫. ⟪गुरुगृहम्⟫ <!-- TODO: Fallback translation -->
+⟪२२⟫. ⟪गुरुगृहम्⟫
 
-⟪२३⟫. ⟪सोमयज्ञेन⟫ <!-- TODO: Fallback translation -->
+⟪२३⟫. ⟪सोमयज्ञेन⟫
 
-⟪२४⟫. ⟪स्वर्गगताः⟫ <!-- TODO: Fallback translation -->
+⟪२४⟫. ⟪स्वर्गगताः⟫
 
-⟪२५⟫. ⟪सुखप्रश्नम्⟫ <!-- TODO: Fallback translation -->
+⟪२५⟫. ⟪सुखप्रश्नम्⟫
 
-⟪२६⟫. ⟪पशुधर्मः⟫ <!-- TODO: Fallback translation -->
+⟪२६⟫. ⟪पशुधर्मः⟫
 
-⟪२७⟫. ⟪स्वर्गलोकः⟫ <!-- TODO: Fallback translation -->
+⟪२७⟫. ⟪स्वर्गलोकः⟫
 
-⟪२८⟫. ⟪ऋषियज्ञैः⟫ <!-- TODO: Fallback translation -->
+⟪२८⟫. ⟪ऋषियज्ञैः⟫
 
-⟪२९⟫. ⟪तत्कालम्⟫ <!-- TODO: Fallback translation -->
+⟪२९⟫. ⟪तत्कालम्⟫
 
-⟪३०⟫. ⟪सत्यवदनम्⟫ <!-- TODO: Fallback translation -->
+⟪३०⟫. ⟪सत्यवदनम्⟫
 
-## 15.10. Übung 2 <!-- TODO: Fallback translation -->
+## 15.10. Gyakorlat 2
 
-Lösen Sie wie bei Übung 1 folgende Tatpuruṣa auf: <!-- TODO: Fallback translation -->
+Oldja meg a következő Tatpuruṣa-összetételt, akárcsak az 1. gyakorlatban:
 
-⟪१⟫. ⟪देवतागृहम्⟫ <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪देवतागृहम्⟫
 
-⟪२⟫. ⟪देवीस्तोत्रम्⟫ <!-- TODO: Fallback translation -->
+⟪२⟫. ⟪देवीस्तोत्रम्⟫
 
-⟪३⟫. ⟪ब्राह्मणगृहम्⟫ <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪ब्राह्मणगृहम्⟫
 
-⟪४⟫. ⟪वैश्यापुत्राः⟫ <!-- TODO: Fallback translation -->
+⟪४⟫. ⟪वैश्यापुत्राः⟫
 
-⟪५⟫. ⟪शूद्रधर्मः⟫ <!-- TODO: Fallback translation -->
+⟪५⟫. ⟪शूद्रधर्मः⟫
 
-⟪६⟫. ⟪अग्निगृहम्⟫ <!-- TODO: Fallback translation -->
+⟪६⟫. ⟪अग्निगृहम्⟫
 
-⟪७⟫. ⟪साधुगता⟫ <!-- TODO: Fallback translation -->
+⟪७⟫. ⟪साधुगता⟫
 
-⟪८⟫. ⟪सत्यवचनेन⟫ <!-- TODO: Fallback translation -->
+⟪८⟫. ⟪सत्यवचनेन⟫
 
-⟪९⟫. ⟪धर्मयज्ञानाम्⟫ <!-- TODO: Fallback translation -->
+⟪९⟫. ⟪धर्मयज्ञानाम्⟫
 
-⟪१०⟫. ⟪सत्यधर्मः⟫ <!-- TODO: Fallback translation -->
+⟪१०⟫. ⟪सत्यधर्मः⟫
 
-⟪११⟫. ⟪अनृतवदनस्य⟫ <!-- TODO: Fallback translation -->
+⟪११⟫. ⟪अनृतवदनस्य⟫
 
-⟪१२⟫. ⟪देवीदासः⟫ <!-- TODO: Fallback translation -->
+⟪१२⟫. ⟪देवीदासः⟫
 
-⟪१३⟫. ⟪द्विजदासान्⟫ <!-- TODO: Fallback translation -->
+⟪१३⟫. ⟪द्विजदासान्⟫
 
-⟪१४⟫. ⟪अग्निदग्धम्⟫ <!-- TODO: Fallback translation -->
+⟪१४⟫. ⟪अग्निदग्धम्⟫
 
-⟪१५⟫. ⟪साधुवादः⟫ <!-- TODO: Fallback translation -->
+⟪१५⟫. ⟪साधुवादः⟫
 
-⟪१६⟫. ⟪बालमृगः⟫ <!-- TODO: Fallback translation -->
+⟪१६⟫. ⟪बालमृगः⟫
 
-⟪१७⟫. ⟪धनसर्गः⟫ <!-- TODO: Fallback translation -->
+⟪१७⟫. ⟪धनसर्गः⟫
 
-⟪१८⟫. ⟪अन्नद्वेषम्⟫ <!-- TODO: Fallback translation -->
+⟪१८⟫. ⟪अन्नद्वेषम्⟫
 
-⟪१९⟫. ⟪देवदेवम्⟫ <!-- TODO: Fallback translation -->
+⟪१९⟫. ⟪देवदेवम्⟫
 
-⟪२०⟫. ⟪देवप्रश्नेन⟫ <!-- TODO: Fallback translation -->
+⟪२०⟫. ⟪देवप्रश्नेन⟫
 
-⟪२१⟫. ⟪गृहजनानाम्⟫ <!-- TODO: Fallback translation -->
+⟪२१⟫. ⟪गृहजनानाम्⟫
 
-⟪२२⟫. ⟪गुरुपूजायाः⟫ <!-- TODO: Fallback translation -->
+⟪२२⟫. ⟪गुरुपूजायाः⟫
 
-⟪२३⟫. ⟪गुरुगतैः⟫ <!-- TODO: Fallback translation -->
+⟪२३⟫. ⟪गुरुगतैः⟫
 
-⟪२४⟫. ⟪स्वर्गमार्गेण⟫ <!-- TODO: Fallback translation -->
+⟪२४⟫. ⟪स्वर्गमार्गेण⟫
 
-⟪२५⟫. ⟪नरकदेवतया⟫ <!-- TODO: Fallback translation -->
+⟪२५⟫. ⟪नरकदेवतया⟫
 
-⟪२६⟫. ⟪गृहेश्वरः⟫ <!-- TODO: Fallback translation -->
+⟪२६⟫. ⟪गृहेश्वरः⟫
 
-⟪२७⟫. ⟪ग्रामधर्मः⟫ <!-- TODO: Fallback translation -->
+⟪२७⟫. ⟪ग्रामधर्मः⟫
 
-⟪२८⟫. ⟪देवीपूजाम्⟫ <!-- TODO: Fallback translation -->
+⟪२८⟫. ⟪देवीपूजाम्⟫
 
-⟪२९⟫. ⟪देवदर्शनम्⟫ <!-- TODO: Fallback translation -->
+⟪२९⟫. ⟪देवदर्शनम्⟫
 
-⟪३०⟫. ⟪देवपादान्⟫ <!-- TODO: Fallback translation -->
+⟪३०⟫. ⟪देवपादान्⟫
 
-⟪३१⟫. ⟪धनजाता⟫ <!-- TODO: Fallback translation -->
+⟪३१⟫. ⟪धनजाता⟫
 
-⟪३२⟫. ⟪बालभावेन⟫ <!-- TODO: Fallback translation -->
+⟪३२⟫. ⟪बालभावेन⟫
 
-⟪३३⟫. ⟪लोकगुरोः⟫ <!-- TODO: Fallback translation -->
+⟪३३⟫. ⟪लोकगुरोः⟫
 
-⟪३४⟫. ⟪देवपुत्रः⟫ <!-- TODO: Fallback translation -->
+⟪३४⟫. ⟪देवपुत्रः⟫
 
-⟪३५⟫. ⟪देवमार्गम्⟫ <!-- TODO: Fallback translation -->
+⟪३५⟫. ⟪देवमार्गम्⟫
 
-⟪३६⟫. ⟪स्वर्गसुखम्⟫ <!-- TODO: Fallback translation -->
+⟪३६⟫. ⟪स्वर्गसुखम्⟫
 
-⟪३७⟫. ⟪सोमसुतिः⟫ <!-- TODO: Fallback translation -->
+⟪३७⟫. ⟪सोमसुतिः⟫
 
-⟪३८⟫. ⟪देवपूजायाः⟫ <!-- TODO: Fallback translation -->
+⟪३८⟫. ⟪देवपूजायाः⟫
 
-⟪३९⟫. ⟪लोकधर्मेण⟫ <!-- TODO: Fallback translation -->
+⟪३९⟫. ⟪लोकधर्मेण⟫
 
-⟪४०⟫. ⟪देवजनाः⟫ <!-- TODO: Fallback translation -->
+⟪४०⟫. ⟪देवजनाः⟫
 
-⟪४१⟫. ⟪पापलोकः⟫ <!-- TODO: Fallback translation -->
+⟪४१⟫. ⟪पापलोकः⟫
 
-⟪४२⟫. ⟪पुण्यफलानि⟫ <!-- TODO: Fallback translation -->
+⟪४२⟫. ⟪पुण्यफलानि⟫
 
-⟪४३⟫. ⟪सत्यवादः⟫ <!-- TODO: Fallback translation -->
+⟪४३⟫. ⟪सत्यवादः⟫
 
-⟪४४⟫. ⟪ऋषिपुत्रः⟫ <!-- TODO: Fallback translation -->
+⟪४४⟫. ⟪ऋषिपुत्रः⟫
 
-⟪४५⟫. ⟪पुत्रपुत्राः⟫ <!-- TODO: Fallback translation -->
+⟪४५⟫. ⟪पुत्रपुत्राः⟫
 
-⟪४६⟫. ⟪धर्मवादः⟫ <!-- TODO: Fallback translation -->
+⟪४६⟫. ⟪धर्मवादः⟫
 
-⟪४७⟫. ⟪देवलोकम्⟫ <!-- TODO: Fallback translation -->
+⟪४७⟫. ⟪देवलोकम्⟫
 
-⟪४८⟫. ⟪यज्ञेश्वरः⟫ <!-- TODO: Fallback translation -->
+⟪४८⟫. ⟪यज्ञेश्वरः⟫
 
-⟪४९⟫. ⟪ग्रामदेवता⟫ <!-- TODO: Fallback translation -->
+⟪४९⟫. ⟪ग्रामदेवता⟫
 
-⟪५०⟫. ⟪दुःखलोकः⟫ <!-- TODO: Fallback translation -->
+⟪५०⟫. ⟪दुःखलोकः⟫
 
-⟪५१⟫. ⟪देवशत्रुणा⟫ <!-- TODO: Fallback translation -->
+⟪५१⟫. ⟪देवशत्रुणा⟫
 
-⟪५२⟫. ⟪क्षत्रियधर्मः⟫ <!-- TODO: Fallback translation -->
+⟪५२⟫. ⟪क्षत्रियधर्मः⟫
 
-⟪५३⟫. ⟪द्विजेन्द्रः⟫ <!-- TODO: Fallback translation -->
+⟪५३⟫. ⟪द्विजेन्द्रः⟫
 
-⟪५४⟫. ⟪अग्निकृतम्⟫ <!-- TODO: Fallback translation -->
+⟪५४⟫. ⟪अग्निकृतम्⟫
 
-⟪५५⟫. ⟪साधूक्तानि⟫ <!-- TODO: Fallback translation -->
+⟪५५⟫. ⟪साधूक्तानि⟫
 
-⟪५६⟫. ⟪ब्राह्मणभावेन⟫ <!-- TODO: Fallback translation -->
+⟪५६⟫. ⟪ब्राह्मणभावेन⟫
 
-⟪५७⟫. ⟪देवधर्मः⟫ <!-- TODO: Fallback translation -->
+⟪५७⟫. ⟪देवधर्मः⟫
 
-⟪५८⟫. ⟪गृहदेवता⟫ <!-- TODO: Fallback translation -->
+⟪५८⟫. ⟪गृहदेवता⟫
 
-⟪५९⟫. ⟪कारुकुशीलवकृतम्⟫ <!-- TODO: Fallback translation -->
+⟪५९⟫. ⟪कारुकुशीलवकृतम्⟫
 
-⟪६०⟫. ⟪द्विजातिशुश्रूषया⟫ <!-- TODO: Fallback translation -->
+⟪६०⟫. ⟪द्विजातिशुश्रूषया⟫
 ::: media
 ![](/images/lekt1508.webp)
-Abb.: ⟪ग्रामदेवता⟫
-(Bildquelle: [Details](/licenses#lekt1508)) <!-- TODO: Fallback translation -->
+Ábra: ⟪ग्रामदेवता⟫
+(Képmegjelölés: [Részletek](/hu/licenses#lekt1508))
 :::
-## 15.11. Übung 3 <!-- TODO: Fallback translation -->
+## 15.11. Gyakorlat 3
 
-A) Übersetzen Sie das Sprichwort zu Beginn der Lektion <!-- TODO: Fallback translation -->
+A) Fordítsa le a tanóra elején szereplő mondást
 
-B) Lösen Sie folgende Tatpuruṣa auf: <!-- TODO: Fallback translation -->
+B) Oldja fel az alábbi Tatpuruṣa-t:
 
-⟪१⟫. ⟪बलकृतः⟫ <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪बलकृतः⟫
 
-⟪२⟫. ⟪बालधनस्य⟫ <!-- TODO: Fallback translation -->
+⟪२⟫. ⟪बालधनस्य⟫
 
-⟪३⟫. ⟪नरककाकम्⟫ <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪नरककाकम्⟫
 
-⟪४⟫. ⟪लोकगुरोः⟫ <!-- TODO: Fallback translation -->
+⟪४⟫. ⟪लोकगुरोः⟫
 
-⟪५⟫. ⟪जलेश्वरेण⟫ <!-- TODO: Fallback translation -->
+⟪५⟫. ⟪जलेश्वरेण⟫
 
-⟪६⟫. ⟪जनपानम्⟫ <!-- TODO: Fallback translation -->
+⟪६⟫. ⟪जनपानम्⟫
 
-⟪७⟫. ⟪वाक्यसारथीन्⟫ <!-- TODO: Fallback translation -->
+⟪७⟫. ⟪वाक्यसारथीन्⟫
 
-⟪८⟫. ⟪गुणवचनानि⟫ <!-- TODO: Fallback translation -->
+⟪८⟫. ⟪गुणवचनानि⟫
 
-⟪९⟫. ⟪मृगेश्वरैः⟫ <!-- TODO: Fallback translation -->
+⟪९⟫. ⟪मृगेश्वरैः⟫
 
-⟪१०⟫. ⟪बुद्धिकृतायाः⟫ <!-- TODO: Fallback translation -->
+⟪१०⟫. ⟪बुद्धिकृतायाः⟫
 
-⟪११⟫. ⟪धर्मयज्ञेन⟫ <!-- TODO: Fallback translation -->
+⟪११⟫. ⟪धर्मयज्ञेन⟫
 
-⟪१२⟫. ⟪यज्ञाङ्गानि⟫ <!-- TODO: Fallback translation -->
+⟪१२⟫. ⟪यज्ञाङ्गानि⟫
 
-⟪१३⟫. ⟪गृहजनेन⟫ <!-- TODO: Fallback translation -->
+⟪१३⟫. ⟪गृहजनेन⟫
 
-⟪१४⟫. ⟪ग्रामलेखकाः⟫ <!-- TODO: Fallback translation -->
+⟪१४⟫. ⟪ग्रामलेखकाः⟫
 
-⟪१५⟫. ⟪नागदेवः⟫ <!-- TODO: Fallback translation -->
+⟪१५⟫. ⟪नागदेवः⟫
 
-⟪१६⟫. ⟪पुण्यजिताभिः⟫ <!-- TODO: Fallback translation -->
+⟪१६⟫. ⟪पुण्यजिताभिः⟫
 
-⟪१७⟫. ⟪पापलोकम्⟫ <!-- TODO: Fallback translation -->
+⟪१७⟫. ⟪पापलोकम्⟫
 
-⟪१८⟫. ⟪सत्यवदनस्य⟫ <!-- TODO: Fallback translation -->
+⟪१८⟫. ⟪सत्यवदनस्य⟫
 
-⟪१९⟫. ⟪दानधर्मेण⟫ <!-- TODO: Fallback translation -->
+⟪१९⟫. ⟪दानधर्मेण⟫
 
-⟪२०⟫. ⟪सुखप्रश्नः⟫ <!-- TODO: Fallback translation -->
+⟪२०⟫. ⟪सुखप्रश्नः⟫
 
-⟪२१⟫. ⟪दुःखमोहस्य⟫ <!-- TODO: Fallback translation -->
+⟪२१⟫. ⟪दुःखमोहस्य⟫
 
-⟪२२⟫. ⟪सोमपात्राणि⟫ <!-- TODO: Fallback translation -->
+⟪२२⟫. ⟪सोमपात्राणि⟫
 
-⟪२३⟫. ⟪स्वर्गमार्गः⟫ <!-- TODO: Fallback translation -->
+⟪२३⟫. ⟪स्वर्गमार्गः⟫
 
-⟪२४⟫. ⟪कामधेन्वा⟫ <!-- TODO: Fallback translation -->
+⟪२४⟫. ⟪कामधेन्वा⟫
 
-⟪२५⟫. ⟪वर्णधर्मः⟫ <!-- TODO: Fallback translation -->
+⟪२५⟫. ⟪वर्णधर्मः⟫
 
-⟪२६⟫. ⟪श्रुत्युदितम्⟫ <!-- TODO: Fallback translation -->
+⟪२६⟫. ⟪श्रुत्युदितम्⟫
 ::: media
 ![](/images/lekt1509.webp)
-Abb.: ⟪नागदेवाः⟫
-(Bildquelle: [Details](/licenses#lekt1509)) <!-- TODO: Fallback translation -->
+Ábra: ⟪नागदेवाः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt1509))
 :::
 
 ::: deleteme-box
 
-- **Ábra: ⟪लक्ष्मी⟫** (Lakshmi): Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Képforrás: Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Ábra: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Képforrás: Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Diagramm** (lekt1502.jpg): Diagramm zur Zerlegung von Komposita. Képforrás: Alois Payer / Original-Kursgrafik. <!-- TODO: Fallback translation -->
-- **Ábra: ⟪पूजा⟫** (Puja): A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Képforrás: Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Ábra:  ⟪इन्द्रः⟫** (Indra): Folio from a Panchakalyanaka, Rajasthan, Amber. Képforrás: Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Ábra: ⟪सिंहः⟫** (Lion): Panthera leo persica. Képforrás: Wikipedia, GNU FDLicense. <!-- TODO: Fallback translation -->
-- **Ábra: ⟪व्याघ्रः⟫** (Tiger): Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫). Képforrás: U.S. Fish and Wildlife Service / Wikipedia, Public domain. <!-- TODO: Fallback translation -->
-- **Ábra: ⟪ग्रामदेवता⟫** (Gramadevata): Lord Virpanath @ Pasvadal village, Vadgam, Gujarat, India. Képforrás: ganuullu (Flickr), Creative Commons Lizenz. <!-- TODO: Fallback translation -->
-- **Ábra: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Képforrás: Dineshkannambadi / Wikipedia, GNU FDLicense. <!-- TODO: Fallback translation -->
+- **Ábra: ⟪लक्ष्मी⟫** (Lakshmi): Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Képforrás: Wikipedia, Public domain.
+- **Ábra: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Képforrás: Wikipedia, Public domain.
+- **Diagramm** (lekt1502.jpg): Diagramm zur Zerlegung von Komposita. Képforrás: Alois Payer / Original-Kursgrafik.
+- **Ábra: ⟪पूजा⟫** (Puja): A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ಆಂಧ್ರ ಪ್ರದೇಶ್), India. Képforrás: Wikipedia, Public domain.
+- **Ábra:  ⟪इन्द्रः⟫** (Indra): Folio from a Panchakalyanaka, Rajasthan, Amber. Képforrás: Wikipedia, Public domain.
+- **Ábra: ⟪सिंहः⟫** (Lion): Panthera leo persica. Képforrás: Wikipedia, GNU FDLicense.
+- **Ábra: ⟪व्याघ्रः⟫** (Tiger): Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫). Képforrás: U.S. Fish and Wildlife Service / Wikipedia, Public domain.
+- **Ábra: ⟪ग्रामदेवता⟫** (Gramadevata): Lord Virpanath @ Pasvadal village, Vadgam, Gujarat, India. Képforrás: ganuullu (Flickr), Creative Commons Lizenz.
+- **Ábra: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Képforrás: Dineshkannambadi / Wikipedia, GNU FDLicense.
 :::
 

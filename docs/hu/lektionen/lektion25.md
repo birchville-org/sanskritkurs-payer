@@ -1,456 +1,456 @@
 ---
 title: Lektion 25
-subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
+subtitle: "Az ablative (⟪पञ्चमी⟫ = \"ötös esetrag\") képzése"
 lesson_id: 25
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "Nyelvtan"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 25 <!-- TODO: Fallback translation -->
+# Lektion 25
 
-## 25.1. Bildung des Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung") <!-- TODO: Fallback translation -->
-
-::: grammar-box
-Ausser bei Maskulina / Neutra auf -a sowie den Pronomina sind im Singular in allen Deklinationsklassen die Formen des Ablativ (⟪पञ्चमी⟫) mit denen des Genetiv (⟪षष्ठी⟫) identisch. <!-- TODO: Fallback translation -->
-
-Ausser bei den Personalpronomina sind in allen Deklinationen im Plural die Formen des Ablativ mit denen des Dativ (⟪चतुर्थी⟫) identisch. <!-- TODO: Fallback translation -->
-:::
-Jetzt erkennen Sie den Grund für die Reihenfolge der Kasus (⟪विभक्ति⟫) im Sanskrit: sie sind so angeordnet, dass gleichlautende Formen möglichst beieinander - bzw. untereinander - stehen. <!-- TODO: Fallback translation -->
+## 25.1. Az ablative képzése (⟪पञ्चमी⟫ = \"ötös esetrag\")
 
 ::: grammar-box
-**Ablativ Singular der Maskulina / Neutra auf -a** <!-- TODO: Fallback translation -->
+A -a végű hímnemű és középnemű szavak, valamint a névmások kivételével az ablative (⟪पञ्चमी⟫) alakja egyes számban az összes ragozási osztályban megegyezik a genitivéval (⟪षष्ठी⟫).
 
-- **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫) <!-- TODO: Fallback translation -->
+Kivéve a személyes névmásokat, az összes ragozásban többes számban az ablativus alakja megegyezik a dativuséval (⟪चतुर्थी⟫).
 :::
-Frage-, Relativ- und Demonstrativpronomina: <!-- TODO: Fallback translation -->
+Most megérti a szanszkrit esetek sorrendjének okát (⟪विभक्ति⟫): úgy vannak elrendezve, hogy azonos hangzású alakok lehetőleg egymás mellett – vagy alatta – álljanak.
+
+::: grammar-box
+**Ablativus egyes szám, maskulinum / neutrum -a végződésű**
+
+- **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
+:::
+Kérdő, viszonyító és mutató névmások:
 
 ::: grammar-box
 
-| | ablativus egyes szám:brhímnem / semlegesnem | ablativus egyes szám:brnőnem | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪किम्⟫ | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) | <!-- TODO: Fallback translation -->
-| ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) | <!-- TODO: Fallback translation -->
-| ⟪तद्⟫ | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) | <!-- TODO: Fallback translation -->
-| ⟪एतद्⟫ | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) | <!-- TODO: Fallback translation -->
-| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) | <!-- TODO: Fallback translation -->
+| | egyes szám alaki eset: hímnem / középnem | egyes szám alaki eset: nőnem |
+| :--- | :--- | :--- |
+| ⟪किम्⟫ | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) |
+| ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
+| ⟪तद्⟫ | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) |
+| ⟪एतद्⟫ | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) |
+| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
-## 25.2. Gebrauch des Ablativ (⟪पञ्चमी⟫) <!-- TODO: Fallback translation -->
+## 25.2. Az alaki eset használata (⟪पञ्चमी⟫)
 
-"Der Ablativ bezeichnet dasjenige, das fest bleibt, wenn etwas davon weggeht." <!-- TODO: Fallback translation -->
+„Az alaki eset azt jelöli, ami megmarad, amikor valami elmozdul tőle.”
 
-Pāṇini 2,3,28 + 1,4,24 <!-- TODO: Fallback translation -->
+Pāṇini 2,3,28 + 1,4,24
 
-Der Ablativ steht vor allem auf die Fragen "Woher?", "Warum?". <!-- TODO: Fallback translation -->
+Az ablativus főleg a „Honnan?”, „Miért?” kérdésekre áll.
 
 ::: grammar-box
-1\. Der Ablativ bezeichnet also den Ausgangspunkt, die Herkunft und den Stoff. <!-- TODO: Fallback translation -->
+1\. Az ablativus tehát a kiindulópontot, az eredetet és az anyagot jelöli.
 
-Der Ablativ kann daher auch die Person bezeichnen, von der man etwas kauft, hört, wünscht usw. <!-- TODO: Fallback translation -->
+Az ablativus ezért utalhat arra a személyre is, akinek valamit veszünk, hallgatunk, kérünk stb.
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
-⟪ग्रमादागच्छति⟫ = "Er kommt aus dem Dorf" <!-- TODO: Fallback translation -->
+⟪ग्रमादागच्छति⟫ = „Faluból jön”
 
-⟪अश्वात्पतितः⟫ = "vom Pferde gefallen" <!-- TODO: Fallback translation -->
+⟪अश्वात्पतितः⟫ = "leesikült a lóról"
 
-⟪तेभ्यो⟫ ⟪लब्धम्⟫ = "von ihnen (her) empfangen" <!-- TODO: Fallback translation -->
+⟪तेभ्यो⟫ ⟪लब्धम्⟫ = "tőlük (felé) kapott"
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
-⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "er hört vom Lehrer über den Dharma" <!-- TODO: Fallback translation -->
+⟪गुरोर्धर्मं⟫ ⟪शृणोति⟫ = "a tanártól hallja a dharmáról"
 
-⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "der Brahmane wünscht sich vom Kṣatriya eine Milchkuh" <!-- TODO: Fallback translation -->
+⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "a bráhmana tehenet kér a kṣatriyától"
 :::
 ::: grammar-box
-2\. Der Ablativ steht bei Verben mit den Bedeutungen "abhalten von", "schützen vor", "verteidigen gegen", "sich fürchten vor": <!-- TODO: Fallback translation -->
+2. Az ablativus a „valamitől tartóztat fel”, „valami elől véd”, „valaki ellen védekezik”, „valamitől fél” jelentésű igékkel áll:
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: indent
-⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "er schützt vor den Feinden" <!-- TODO: Fallback translation -->
+⟪अरिभ्यो⟫ ⟪रक्षति⟫ = "megvédi őt az ellenségektől"
 :::
 ::: grammar-box
-3\. Der Ablativ bezeichnet den Grund oder die Ursache: <!-- TODO: Fallback translation -->
+3\. Az ablativus az okot vagy a alapot jelöli:
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
-⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "Er erschlägt seinen Sohn aus Zorn" <!-- TODO: Fallback translation -->
+⟪क्रोधात्पुत्रं⟫ ⟪हन्ति⟫ = "Haragjában megöli a fiát"
 
-⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Weil er Böses getan hat, kommt er in die Hölle" (« Weil er einer ist, durch den Böses getan wurde) <!-- TODO: Fallback translation -->
+⟪कृतपापत्वान्नरकं⟫ ⟪गच्छति⟫ = "Mivel gonoszságot tett, a pokolba kerül" (« Mivel ő az, aki által gonoszság tétetett)
 
-⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Weil er Böses tut / tat, kommt er in die Hölle" <!-- TODO: Fallback translation -->
+⟪पापकरणान्नरकं⟫ ⟪गच्छति⟫ = "Mivel gonoszságot tesz / tett, a pokolba kerül"
 :::
-Nomina, die nicht Feminina sind, können, um den Grund einer Tätigkeit zu bezeichnen, im Instrumentalis (⟪तृतीया⟫) oder Ablativ (⟪पञ्चमी⟫) stehen. Feminina stehen in diesem Sinn in der Regel im Instrumentalis, können aber gelegentlich auch im Ablativ stehen. <!-- TODO: Fallback translation -->
+Azok a névszók, amelyek nem hímneműek, egy cselekvés okának jelölésére állhatnak instrumentálisban (⟪तृतीया⟫) vagy ablativusban (⟪पञ्चमी⟫). A nőnemű szavak ebben az értelemben rendszerint instrumentálisban állnak, de alkalmanként ablativusban is állhatnak.
 
-## 25.3. Das Suffix -⟪तस्⟫ <!-- TODO: Fallback translation -->
+## 25.3. A -⟪तस्⟫ képző
 
 ::: grammar-box
-Will man im Singular (eindeutig) ausdrücken, dass das Wort in ablativischer Bedeutung verwendet wird, kann man an den Wortstamm das Suffix -⟪तस्⟫ anhängen, das Adverbien mit meist ablativischer Bedeutung bildet (auf die Frage "Woher?"): <!-- TODO: Fallback translation -->
+Ha az egyes számban egyértelműen kifejezni akarjuk, hogy a szó ablative jelentésben szerepel, a szótőhöz fűzhetjük a -⟪तस्⟫ képzőt, amely általában ablative jelentésű határozószavakat alkot (a „Honnan?” kérdésre):
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
-⟪आदितस्⟫ = "von Anfang an" <!-- TODO: Fallback translation -->
+⟪आदितस्⟫ = „elejétől fogva”
 
-⟪धर्मतस्⟫ = "wegen des Dharma, aufgrund des Dharma" <!-- TODO: Fallback translation -->
+⟪धर्मतस्⟫ = „a dharma miatt, a dharma alapján”
 :::
 ::: grammar-box
-Das Suffix -⟪तस्⟫ tritt auch an Pronominalstämme: <!-- TODO: Fallback translation -->
+A -⟪तस्⟫ képző névmástövekhez is kapcsolódik:
 :::
 ::: indent
-⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) "von dort, dort, dorthin, darauf, dann, darum" <!-- TODO: Fallback translation -->
+⟪तद्⟫ : ⟪ततस्⟫ (« ta-tas) „onnan, ott, odé, arra, akkor, ezért”
 
-⟪यद्⟫ : ⟪यतस्⟫ "von welchem, wovon, woher, wo, wohin, weshalb, weil" (relativ) <!-- TODO: Fallback translation -->
+⟪यद्⟫ : ⟪यतस्⟫ „melyik, micsoda, honnan, hol, hová, miért, mivel“ (relatív)
 
-⟪किम्⟫ :  ⟪कुतस्⟫ "woher?" "warum?" <!-- TODO: Fallback translation -->
+⟪किम्⟫ :  ⟪कुतस्⟫ „honnan?“ „miért?“
 :::
-## 25.4. Andere Möglichkeiten, Begründungen auszudrücken <!-- TODO: Fallback translation -->
+## 25.4. Más lehetőségek indoklás kifejezésére
 
 ::: grammar-box
-**1\. Relativsätze** <!-- TODO: Fallback translation -->
+**1\. Relatív mondatok**
 
-Relativsätze drücken oft eine kausale (begründende), konsekutive (folgernde) oder finale (bezweckende) Beziehung zum Hauptsatz aus. <!-- TODO: Fallback translation -->
+A relatív mondatok gyakran oki (indokoló), konzekutív (következményes) vagy finales (célzó) kapcsolatot fejeznek ki a főmondattal.
 
-Formen des Relativpronomens, die als kausale Konjunktion dienen: <!-- TODO: Fallback translation -->
+A viszonyító névmás formái, amelyek ok kötőszóként szolgálnak:
 
-*   ablativisch: <!-- TODO: Fallback translation -->
-    *   ⟪यतस्⟫ ... Nebensatz ... ⟪ततस्⟫ ... Hauptsatz ... = "weil ..., deshalb ..." <!-- TODO: Fallback translation -->
-    *   ⟪यस्मात्⟫ ... Nebensatz ... ⟪तस्मात्⟫ ... Hauptsatz ... = "weil ..., deshalb ..." <!-- TODO: Fallback translation -->
-*   instrumental: <!-- TODO: Fallback translation -->
-    *   ⟪येन⟫ ... Nebensatz ... ⟪तेन⟫ ... Hauptsatz ... = "wodurch/weil ..., dadurch / deswegen ..." <!-- TODO: Fallback translation -->
+*   ablativeus:
+*   ⟪यतस्⟫ ... almondat ... ⟪ततस्⟫ ... főmondat ... = „mert ..., ezért ..."
+*   ⟪यस्मात्⟫ ... almondat ... ⟪तस्मात्⟫ ... főmondat ... = „mert ..., ezért ..."
+*   instrumentális:
+*   ⟪येन⟫ ... almondat ... ⟪तेन⟫ ... főmondat ... = „amivel/mert ..., azzal / ezért ..."
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: indent
-⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो⟫ ⟪व्रतं⟫ ⟪चरति⟫ = "Weil Rāma Wohlstand wünscht, praktiziert er das Gelübde" <!-- TODO: Fallback translation -->
+⟪यतो⟫ (⟪यस्माद्⟫ / ⟪येन⟫) ⟪धर्ममिच्छति⟫ \[⟪ततो⟫ (⟪तस्माद्⟫ / ⟪तेन⟫)\] ⟪रामो⟫ ⟪व्रतं⟫ ⟪चरति⟫ = „Mivel Rāma jólétet kíván, betartja a fogadalmat”
 :::
 ::: grammar-box
-**2\. ⟪हि⟫** <!-- TODO: Fallback translation -->
+**2\. ⟪हि⟫**
 
-Hauptsätze kann man mittels der Partikel ⟪हि⟫ "denn, weil" miteinander verknüpfen. Ein Satz mit ⟪हि⟫ (das nicht an erster Stelle stehen darf, sondern in Prosa an zweiter Stelle stehen muss) gibt eine Begründung an entweder für den vorhergehenden Satz oder für den darauffolgenden Satz: <!-- TODO: Fallback translation -->
+A főmondatokat a ⟪हि⟫ „hiszen, mert” partikula segítségével lehet összekapcsolni. Egy ⟪हि⟫-t tartalmazó mondat (amely nem állhat első helyen, hanem prózában a második helyen kell szerepelnie) indoklást ad vagy az előző mondat, vagy a következő mondat számára:
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: indent
-⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "Die Leute tun Verdienstliches. Sie wollen nämlich in den Himmel kommen." <!-- TODO: Fallback translation -->
+⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "Az emberek érdemcselekedeteket hajtanak végre. Ugyanis a mennybe akarnak jutni."
 :::
 ::: grammar-box
-**3\. Instrumentalis (⟪तृतीया⟫)** <!-- TODO: Fallback translation -->
+**3\. Instrumentalis (⟪तृतीया⟫)**
 
-Neben dem Ablativ (⟪पञ्चमी⟫) wird der Instrumentalis (⟪तृतीया⟫) zur Angabe des Grundes oder der Ursache verwendet. Bei femininen Nomina ist der Instrumentalis im Allgemeinen obligatorisch. <!-- TODO: Fallback translation -->
+Az ablativuszon (⟪पञ्चमी⟫) kívül az instrumentalist (⟪तृतीया⟫)) ok vagy okosság megjelölésére szolgál. Női nemű főneveknél az instrumentalis általában kötelező.
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: indent
-⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "Er erschlägt seinen Sohn aus Zorn" = "Er erschlägt seinen Sohn im Zorn" <!-- TODO: Fallback translation -->
+⟪क्रोधेन⟫ ⟪पुत्रं⟫ ⟪हन्ति⟫ = "Megöli a fiát haragból" = "Megöli a fiát dühében"
 :::
 ::: grammar-box
-**4\. Nomina** <!-- TODO: Fallback translation -->
+**4\. Főnevek**
 
-Daneben kann man selbstverständlich Begründungen auch ausdrücken durch Konstruktionen mit <!-- TODO: Fallback translation -->
+Természetesen indokokat más szerkezetekkel is kifejezhetünk
 
-*   ⟪कारण⟫ n. "Ursache": ⟪कारणात्⟫ ⟪।⟫ ⟪कारणेन⟫ <!-- TODO: Fallback translation -->
-*   ⟪हेतु⟫ m. <!-- TODO: Fallback translation -->
-*   andere Nomina in der Bedeutung "Ursache" <!-- TODO: Fallback translation -->
+*   ⟪कारण⟫ n. "ok": ⟪कारणात्⟫ ⟪।⟫ ⟪कारणेन⟫
+*   ⟪हेतु⟫ m.
+*   egyéb főnevek "ok" jelentésben
 
-\+ Genetiv (⟪षष्ठी⟫) oder als Hinterglied von Komposita: <!-- TODO: Fallback translation -->
+\+ Genitiv (⟪षष्ठी⟫) vagy összetétek második tagjaként:
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: indent
-⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ u.s.w.) = "wegen des Verdienstes" <!-- TODO: Fallback translation -->
+⟪पुण्यस्य⟫ ⟪कारणात्⟫ (⟪हेतोः⟫ stb.) = "a érdem miatt"
 :::
 ::: grammar-box
-**5\. ⟪इति⟫** <!-- TODO: Fallback translation -->
+**5\. ⟪इति⟫**
 
-Das Motiv für eine Tätigkeit kann man als Gedanken mit ⟪इति⟫ angeben: <!-- TODO: Fallback translation -->
+A cselekvés motívumát ⟪इति⟫ gondolatokkal lehet megadni:
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: indent
-⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫  = "Weil der Sugata vollkommen zur Wahrheit erwacht ist, fragt Ānanda den Gautama nach seiner Lehre" (« "Denkend "Der Sugata ist vollkommen zur Wahrheit erwacht" ...) <!-- TODO: Fallback translation -->
+⟪सम्यक्संबुद्धः⟫ ⟪सुगत⟫ ⟪इत्यानन्दो⟫ ⟪गौतमं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Mivel a Sugata teljesen felébredt az igazsághoz, Ānanda megkérdezi Gautamát a tanításáról" (« "Gondolva: 'A Sugata teljesen felébredt az igazsághoz" ...)
 :::
-## 25.5. Wortliste <!-- TODO: Fallback translation -->
+## 25.5. Szószedet
 
-⟪त्यज्⟫ 1P ⟪त्यजति⟫  verlassen, aufgeben, im Stich lassen <!-- TODO: Fallback translation -->
+⟪त्यज्⟫ 1P ⟪त्यजति⟫ elhagy, felad, cserben hagy
 
 ::: indent
-Fut. ⟪त्यक्ष्यति⟫  
-Pass. ⟪त्यज्यते⟫  
+Jöv. ⟪त्यक्ष्यति⟫  
+Kiv. ⟪त्यज्यते⟫  
 PPP ⟪त्यक्त⟫  
 Inf. ⟪त्यक्तुम्⟫  
-Absol. 2: -⟪त्यज्य⟫ <!-- TODO: Fallback translation -->
+Abszol. 2: -⟪त्यज्य⟫
 
-davon: <!-- TODO: Fallback translation -->
+ebből:
 
-⟪त्याग⟫ m.: Aufgeben, Verzicht, Meiden <!-- TODO: Fallback translation -->
+⟪त्याग⟫ m.: feladás, lemondás, kerülés
 :::
-⟪दार⟫ m. pl. (!!!): Ehefrau <!-- TODO: Fallback translation -->
+⟪दार⟫ m. pl. (!!!): feleség
 
-⟪द्रव्य⟫ n.: Gegenstand, Habe, materieller Besitz, Geld <!-- TODO: Fallback translation -->
+⟪द्रव्य⟫ n.: tárgy, vagyon, anyagi birtok, pénz
 
-⟪धान्य⟫ n.:  gedroschenes Getreide <!-- TODO: Fallback translation -->
+⟪धान्य⟫ n.: kikérgelt gabona
 
 ::: media
 ![](/images/lekt2501.webp)
-Abb.: ⟪धान्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2501)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪धान्यम्⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2501))
 :::
-⟪धृ⟫ 1U ⟪धरति⟫ : halten, festhalten <!-- TODO: Fallback translation -->
+⟪धृ⟫ 1U ⟪धरति⟫ : tart, szorosabban fog
 
 ::: indent
-Fut. ⟪धरिष्यति⟫  
-Pass. ⟪ध्रियते⟫  
-PPP ⟪धृत⟫  
-Inf. ⟪धर्तुम्⟫  
-Absol. 2: -⟪धृत्य⟫ <!-- TODO: Fallback translation -->
+Jöv. ⟪धरिष्यति⟫  
+Mult. ⟪ध्रियते⟫  
+III. igenév ⟪धृत⟫  
+Főnévi igenév ⟪धर्तुम्⟫  
+Abszolútum 2: -⟪धृत्य⟫
 
-davon: <!-- TODO: Fallback translation -->
+ebből:
 
-⟪धर्म⟫ m.: das, was fest ist und fest hält = Dharma <!-- TODO: Fallback translation -->
+⟪धर्म⟫ m.: az, ami szilárd és tartós = Dharma
 :::
-⟪नित्य⟫ ⟪३⟫ : ständig, beständig, ewig <!-- TODO: Fallback translation -->
+⟪नित्य⟫ ⟪३⟫ : állandó, tartós, örök
 
 ::: indent
-⟪नित्यम्⟫ Adv.: stets, beständig immer <!-- TODO: Fallback translation -->
+⟪नित्यम्⟫ Hatószó: mindig, állandóan
 :::
-⟪प्रज्ञा⟫ f.:  Weisheit, Erkenntnis <!-- TODO: Fallback translation -->
+⟪प्रज्ञा⟫ n.: bölcsesség, tudás
 
-⟪प्रदान⟫ n.: Geben, Spenden ; Gabe, Spende <!-- TODO: Fallback translation -->
+⟪प्रदान⟫ n.: adományozás, ajándékozás; ajándék, adomány
 
-⟪मद्⟫ 4 P ⟪माद्यति⟫ (!) : sich freuen, sich an etwas (Instr., Gen., Lok.) berauschen <!-- TODO: Fallback translation -->
+⟪मद्⟫ 4 P ⟪माद्यति⟫ (!): örül, valami (Igenő, Birtk., Hely.) felett élvezi a részvétet
 
 ::: indent
-Fut. ⟪मदिष्यति⟫  
-Pass. ⟪मद्यते⟫  
+Jöv. ⟪मदिष्यति⟫  
+Kiv. ⟪मद्यते⟫  
 PPP ⟪मत्त⟫  
-Inf. ⟪मदितुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪मदितुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+ebből:
 
-⟪मद⟫ m.: Rausch, Sinnenrausch = Sinneslust <!-- TODO: Fallback translation -->
+⟪मद⟫ m.: bódulat, érzéki vágyakozás = érzékiség
 :::
-⟪मान⟫ m.: Einschätzung, Ansehen, Ruhm, Ehre, Stolz, Dünkel, Minderwertigkeitsgefühl ; (man misst sich an anderen) <!-- TODO: Fallback translation -->
+⟪मान⟫ m.: becslés, tekintély, dicsőség, becsület, büszkeség, gőg, alacsonyabbrendűség érzése; (másokhoz mérjük magunkat)
 
-⟪यदि⟫ Konjunktion: wenn <!-- TODO: Fallback translation -->
+⟪यदि⟫ kötőszó: ha
 
-⟪न्याय⟫ m.: Regel, Prinzip, Methode, Urteil (jurist.), Logik (aus ni + i +a) <!-- TODO: Fallback translation -->
+⟪न्याय⟫ m.: szabály, elv, módszer, ítélet (jogi), logika (ni + i + a-ból)
 
-⟪अन्यथा⟫ Adv.: anders, sonst, fälschlich, unrichtig <!-- TODO: Fallback translation -->
+⟪अन्यथा⟫ határozó: másképp, különben, tévesen, helytelenül
 
-⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫ <!-- TODO: Fallback translation -->
+⟪या⟫ 2P ⟪याति⟫, ⟪यान्ति⟫ = ⟪गम्⟫
 
 ::: indent
-Pass. ⟪यायते⟫  
+Át. ⟪यायते⟫  
 PPP ⟪यात⟫  
 Inf. ⟪यातुम्⟫  
-Absol. 2: -⟪याय⟫ <!-- TODO: Fallback translation -->
+Abszol. 2: -⟪याय⟫
 :::
-⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫ <!-- TODO: Fallback translation -->
+⟪दारिद्र्य⟫ n. = ⟪दरिद्रस्य⟫ ⟪भावः⟫
 
-⟪प्रदान⟫ n. = ⟪दान⟫ <!-- TODO: Fallback translation -->
+⟪प्रदान⟫ n. = ⟪दान⟫
 
-⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : befehlen, lehren, bestrafen <!-- TODO: Fallback translation -->
+⟪शास्⟫ 2P ⟪शास्ति⟫, ⟪शासति⟫ (3. pl.) : parancsol, tanít, büntet
 
 ::: indent
-Pass. ⟪शिष्यते⟫  
-PPP ⟪शिष्ट⟫ ⟪३⟫ : gelehrt  
-Absol 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫ <!-- TODO: Fallback translation -->
+Igen. ⟪शिष्यते⟫  
+Mbt ⟪शिष्ट⟫ ⟪३⟫ : tanult
+Absz 1.: ⟪शासित्वा⟫ / ⟪शिष्त्वा⟫
 
-davon: <!-- TODO: Fallback translation -->
+abból:
 
-⟪शिक्षा⟫ f.: Wissenschaft, Unterricht ; Phonetik <!-- TODO: Fallback translation -->
+⟪शिक्षा⟫ n.: tudomány, oktatás; fonetika
 :::
-⟪स्तेन⟫ m.: Dieb <!-- TODO: Fallback translation -->
+⟪स्तेन⟫ m.: tolvaj
 
-⟪स्तेय⟫ n.: Diebstahl <!-- TODO: Fallback translation -->
+⟪स्तेय⟫ n.: tolvajlás
 
-⟪किल्बिष⟫ n.: Schuld, Beleidigung, Sünde <!-- TODO: Fallback translation -->
+⟪किल्बिष⟫ n.: bűn, sértés, vétek
 
-⟪विना⟫ Postposition: ohne, ausser (mit  Akk., Instr., Abl.) <!-- TODO: Fallback translation -->
+⟪विना⟫ határozószó: nélkül, kivéve (akk., instr., abl. esettel)
 
-⟪मूल⟫ n.: Wurzel <!-- TODO: Fallback translation -->
+⟪मूल⟫ n.: gyökér
 
 ::: media
 ![](/images/lekt2502.webp)
-Abb.: ⟪मूलानि⟫
-(Bildquelle: [Details](/licenses#lekt2502)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪मूलानि⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2502))
 :::
-⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bestreichen, beschmieren <!-- TODO: Fallback translation -->
+⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): bekenni, megken
 
 ::: indent
 Fut. ⟪लेप्स्यति⟫  
 Pass. ⟪लिप्यते⟫  
 PPP ⟪लिप्त⟫  
-Inf. ⟪लेप्तुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪लेप्तुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+ebből:
 
-⟪लिप्ति⟫ f.: Bestreichen, Schreiben, Schrift <!-- TODO: Fallback translation -->
+⟪लिप्ति⟫ f.: bekenni, írni, írás
 :::
 ::: media
 ![](/images/lekt2503.webp)
-Abb.: ⟪लिप्तिः⟫
-(Bildquelle: [Details](/licenses#lekt2503)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪लिप्तिः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2503))
 :::
-⟪वर्ष⟫ n.,m.: Regen, Regenzeit, Jahr <!-- TODO: Fallback translation -->
+⟪वर्ष⟫ n.,m.: eső, esős évszak, év
 
-⟪वह्⟫ 1U ⟪वहति⟫ : führen, fahren, wehen (Wind) <!-- TODO: Fallback translation -->
+⟪वह्⟫ 1U ⟪वहति⟫ : vezet, halad, fúj (szél)
 
 ::: indent
 Fut. ⟪वक्ष्यति⟫  
 Pass. ⟪उह्यते⟫  
 PPP ⟪ऊढ⟫  
 Inf. ⟪वोढुम्⟫  
-Absol 2: -⟪उह्य⟫ <!-- TODO: Fallback translation -->
+Absol 2: -⟪उह्य⟫
 
-⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : wegführen (nämlich die Braut aus dem Elternhaus) = heiraten <!-- TODO: Fallback translation -->
+⟪वह्⟫ + ⟪वि⟫ 1P ⟪विवहति⟫ : elvezet (nevezetesen a menyasszonyt az szülői házból) = feleségül vesz
 
-davon: <!-- TODO: Fallback translation -->
+ebből:
 
-⟪विवाह⟫ m.: Wegführen, Heirat einer Frau (Instr., saha) (zur Heirat siehe Basham, Wonder S. 166 -171) <!-- TODO: Fallback translation -->
+⟪विवाह⟫ m.: elvezetés, nő házassága (Instr., saha) (a házasságról lásd Basham, Wonder S. 166 -171)
 :::
 ::: media
 ![](/images/lekt2504.webp)
-Abb.: ⟪विवाहः⟫
-(Bildquelle: [Details](/licenses#lekt2504)) <!-- TODO: Fallback translation -->
+Kép: ⟪विवाहः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2504))
 :::
-⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : wegführen, unterrichten, erziehen <!-- TODO: Fallback translation -->
+⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : elvezet, oktat, nevel
 
 ::: indent
-davon: <!-- TODO: Fallback translation -->
+abból:
 
-⟪विनय⟫ m.: Entfernen, Erziehen, Zucht, buddhist.: Ordensdisziplin, Ordensrecht <!-- TODO: Fallback translation -->
+⟪विनय⟫ m.: eltávolítás, nevelés, fegyelem, buddhista: szerzetesi fegyelem, szerzetesi rend
 :::
-⟪विज्ञान⟫ n.: Erkenntnis, Kenntnis <!-- TODO: Fallback translation -->
+⟪विज्ञान⟫ n.: felismerés, tudás
 
-⟪विष्टि⟫ f.: Arbeit, Frondienst <!-- TODO: Fallback translation -->
+⟪विष्टि⟫ f.: munka, robotszolgálat
 
 ::: media
 ![](/images/lekt2505.webp)
-Abb.: ⟪विष्टिः⟫
-(Bildquelle: [Details](/licenses#lekt2505)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪विष्टिः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2505))
 :::
-⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : wachsen, grösser werden <!-- TODO: Fallback translation -->
+⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : nőni, nagyobbá válni
 
 ::: indent
 Fut. ⟪वर्धिष्यते⟫  
 Pass. ⟪वृध्यते⟫  
-PPP ⟪वृद्ध⟫ : erwachsen, alte, vermehrt  
-Inf. ⟪वर्धितुम्⟫ <!-- TODO: Fallback translation -->
+PPP ⟪वृद्ध⟫ : felnőtt, idős, szaporodott  
+Inf. ⟪वर्धितुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+ebből:
 
-⟪वृद्धि⟫ f.: Wachsen, Wachstum, Dehnstufe (aus: vṛdh-ti) <!-- TODO: Fallback translation -->
+⟪वृद्धि⟫ f.: növekedés, fejlődés, nyújtásfok (forrás: vṛdh-ti)
 :::
-⟪सामर्थ्य⟫ n.: das seinem Zweck Entsprechen <!-- TODO: Fallback translation -->
+⟪सामर्थ्य⟫ n.: a céljának megfelelő
 
-⟪स्वभाव⟫ m.: Wesen, Natur, Charakter <!-- TODO: Fallback translation -->
+⟪स्वभाव⟫ m.: lény, természet, karakter
 
-⟪हर्ष⟫ m.: (Aufrichten der Körperhärchen), Freude <!-- TODO: Fallback translation -->
+⟪हर्ष⟫ m.: (a szőrtusok felállítása), öröm
 
-⟪हिरण्य⟫ ⟪३⟫ : golden ; n.: Gold, Geld, Reichtum <!-- TODO: Fallback translation -->
+⟪हिरण्य⟫ ⟪३⟫ : arany ; n.: arany, pénz, gazdagság
 
 ::: media
 ![](/images/lekt2506.webp)
-Abb.: ⟪हिरण्यम्⟫
-(Bildquelle: [Details](/licenses#lekt2506)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪हिरण्यम्⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2506))
 :::
-⟪अणु⟫ ⟪३⟫ : dünn, fein, sehr klein ; m.: Atom <!-- TODO: Fallback translation -->
+⟪अणु⟫ ⟪३⟫ : vékony, finom, nagyon kicsi ; m.: atom
 
-⟪गोदान⟫ n.: Geben von Kühen / einer Kuh ; zweite Haarschnittzeremonie (ein ⟪संस्कार⟫) <!-- TODO: Fallback translation -->
+⟪गोदान⟫ n.: tehenek / egy tehén adása; második hajvágási ceremónia (egy ⟪संस्कार⟫)
 
-## 25.6. Übung <!-- TODO: Fallback translation -->
+## 25.6. Gyakorlat
 
-A) Ergänzen Sie die Deklinationsbeispiele von [Lektion 16](lektion16.md), Wiederholungsübung A durch Hinzufügen von 4. Dativ (⟪चतुर्थी⟫) und 5. Ablativ (⟪पञ्चमी⟫). Bilden Sie ausserdem Deklinationsreihen mit allen bisher gelernten Formen zu <!-- TODO: Fallback translation -->
+A) Kiegészítések a [16. lecke](lektion16.md) deklinációs példáihoz, ismétlőgyakorlat A: adjon hozzá 4. Datívuszt (⟪चतुर्थी⟩) és 5. Ablatívuszt (⟪पञ्चमी⟩). Képezzen továbbá deklinációs sorokat az eddig tanult formák alapján a következőkhöz:
 
-⟪१⟫. ⟪सन्त्⟫ (m., n.) <!-- TODO: Fallback translation -->
+⟪१⟩. ⟪सन्त्⟩ (m., n.)
 
-⟪२⟫. ⟪महान्त्⟫ (m., n.) <!-- TODO: Fallback translation -->
+⟪२⟩. ⟪महान्त्⟩ (m., n.)
 
-⟪३⟫. ⟪यद्⟫ (m., n., f.) <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪यद्⟫ (m., n., f.)
 
-Lernen Sie diese Deklinationsparadigmen auswendig! <!-- TODO: Fallback translation -->
+Tanulja meg ezeket a deklinációs paradigmákat!
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: <!-- TODO: Fallback translation -->
+B) Fordítsa le, és oldja fel a szanszkrit összetételeket:
 
-⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪गुर्वादेशाद्रामो⟫ ⟪ग्रामान्नगरं⟫ ⟪गत्वा⟫ ⟪साधुगृहं⟫ ⟪प्रविश्य⟫ ⟪साधुमुपस्थायालं⟫ ⟪क्रोधेनेति⟫ ⟪वक्ति⟫ ⟪॥१॥⟫
 
-⟪गुरोरधर्मः⟫ ⟪श्रोतुं⟫ ⟪न⟫ ⟪शक्यत⟫ ⟪इति⟫ ⟪श्रुत्या⟫ ⟪च⟫ ⟪स्मृतिभिश्चोद्यते⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪गुरोरधर्मः⟫ ⟪श्रोतुं⟫ ⟪न⟫ ⟪शक्यत⟫ ⟪इति⟫ ⟪श्रुत्या⟫ ⟪च⟫ ⟪स्मृतिभिश्चोद्यते⟫ ⟪॥२॥⟫
 
-⟪क्षत्रिया⟫ ⟪जनाञ्छत्रुभ्यो⟫ ⟪रक्षितुमर्हन्तीति⟫ ⟪क्षत्रियधर्मः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪क्षत्रिया⟫ ⟪जनाञ्छत्रुभ्यो⟫ ⟪रक्षितुमर्हन्तीति⟫ ⟪क्षत्रियधर्मः⟫ ⟪॥३॥⟫
 
-⟪कृतयज्ञदोषत्वाद्ब्राह्मणो⟫ ⟪धनं⟫ ⟪लब्धुं⟫ ⟪नार्हति⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪कृतयज्ञदोषत्वाद्ब्राह्मणो⟫ ⟪धनं⟫ ⟪लब्धुं⟫ ⟪नार्हति⟫ ⟪॥४॥⟫
 
-⟪धनलाभहेतोस्ते⟫ ⟪वैश्या⟫ ⟪व्रतं⟫ ⟪कृत्वा⟫ ⟪ब्रह्मचर्यं⟫ ⟪चरन्ति⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪धनलाभहेतोस्ते⟫ ⟪वैश्या⟫ ⟪व्रतं⟫ ⟪कृत्वा⟫ ⟪ब्रह्मचर्यं⟫ ⟪चरन्ति⟫ ⟪॥५॥⟫
 
-⟪बुद्द्धाश्चार्हन्तश्च⟫ ⟪दुःखान्मुक्ताः⟫ ⟪।⟫ ⟪मुञ्चन्ती⟫ ⟪बुद्धिर्हि⟫ ⟪तैः⟫ ⟪प्राप्ता⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪बुद्द्धाश्चार्हन्तश्च⟫ ⟪दुःखान्मुक्ताः⟫ ⟪।⟫ ⟪मुञ्चन्ती⟫ ⟪बुद्धिर्हि⟫ ⟪तैः⟫ ⟪प्राप्ता⟫ ⟪॥६॥⟫
 
-⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪लोभेन⟫ ⟪च⟫ ⟪क्रोधेन⟫ ⟪च⟫ ⟪मोहेन⟫ ⟪च⟫ ⟪जना⟫ ⟪दुष्यन्ति⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्राप्तकाला⟫ ⟪नरकं⟫ ⟪पतन्ति⟫ ⟪॥७॥⟫
 
-⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪क्षत्रियो⟫ ⟪महानगरतः⟫ ⟪शत्रुग्रामं⟫ ⟪योद्धुं⟫ ⟪शूरयोधानानयति⟫ ⟪॥८॥⟫
 
-⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫ <!-- TODO: Fallback translation -->
+⟪पुत्रलाभकारणाद्ब्राह्मणी⟫ ⟪व्रतं⟫ ⟪चरति⟫ ⟪॥९॥⟫
 
-⟪लब्धपुत्रत्वाद्द्विजेन⟫ ⟪महासुखमाप्तम्⟫ ⟪॥१०॥⟫ <!-- TODO: Fallback translation -->
+⟪लब्धपुत्रत्वाद्द्विजेन⟫ ⟪महासुखमाप्तम्⟫ ⟪॥१०॥⟫
 
-⟪विष्णुर्भक्तान्मरणात्पाति⟫ ⟪॥११॥⟫ <!-- TODO: Fallback translation -->
+⟪विष्णुर्भक्तान्मरणात्पाति⟫ ⟪॥११॥⟫
 
-⟪रामाद्विना⟫ =  ⟪रामं⟫ ⟪विना⟫ = ⟪रामेण⟫ ⟪विना⟫ ⟪॥१२॥⟫ <!-- TODO: Fallback translation -->
+⟪रामाद्विना⟫ =  ⟪रामं⟫ ⟪विना⟫ = ⟪रामेण⟫ ⟪विना⟫ ⟪॥१२॥⟫
 
-⟪साधोः⟫ ⟪शिक्षा⟫ ⟪गुणाय⟫ ⟪संपद्यते⟫ ⟪नासाधोः⟫ ⟪॥१३॥⟫ <!-- TODO: Fallback translation -->
+⟪साधोः⟫ ⟪शिक्षा⟫ ⟪गुणाय⟫ ⟪संपद्यते⟫ ⟪नासाधोः⟫ ⟪॥१३॥⟫
 
-⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫ <!-- TODO: Fallback translation -->
+⟪रामः⟫ ⟪कृष्णाय⟫ ⟪तिष्ठति⟫ ⟪॥१४॥⟫
 
-⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫ <!-- TODO: Fallback translation -->
+⟪सुखेन⟫ ⟪गच्छति⟫ ⟪॥१५॥⟫
 
-⟪अलं⟫ ⟪भयेन⟫ ⟪॥१६॥⟫ <!-- TODO: Fallback translation -->
+⟪अलं⟫ ⟪भयेन⟫ ⟪॥१६॥⟫
 
-⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫ (⟪हर⟫i m. = ⟪विष्णु⟫ / ⟪कृष्ण⟫) <!-- TODO: Fallback translation -->
+⟪लोकादधिको⟫ ⟪हरिः⟫ ⟪॥१७॥⟫ (⟪हर⟫i m. = ⟪विष्णु⟫ / ⟪कृष्ण⟫)
 
 ::: media
 ![](/images/lekt2507.webp)
-Abb.: ⟪लोकादधिको⟫ ⟪हरिः⟫ <!-- TODO: Fallback translation -->
+Ábra: ⟪लोकादधिको⟫ ⟪हरिः⟫
 :::
-## 25.7. ⟪सुभाषितानि⟫ <!-- TODO: Fallback translation -->
+## 25.7. ⟪सुभाषितानि⟫
 
 ⟪यतो⟫ ⟪यतो⟫ ⟪निवर्तते⟫  
 ⟪ततस्ततो⟫ ⟪विमुच्यते⟫ ⟪।⟫  
 ⟪निवर्तनाद्धि⟫ ⟪सर्वतो⟫  
-⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥१॥⟫
 
 ::: indent
-Erklärung: ⟪सर्वतस्⟫ = sarva "jeder, alle" + -tas ; ⟪अणु⟫ = Nom., Akk. sg. neutr. <!-- TODO: Fallback translation -->
+Magyarázat: ⟪सर्वतस्⟫ = sarva "minden, mindenki" + -tas ; ⟪अणु⟫ = Nominatívus, Akkusztívus egyes szám középnem
 :::
 ⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
 ⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  
 ⟪यो⟫ ⟪न्यायमन्यथा⟫ ⟪ब्रूते⟫  
-⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪स⟫ ⟪याति⟫ ⟪नरकं⟫ ⟪नरः⟫ ⟪॥२॥⟫
 
 ⟪भवन्ति⟫ ⟪नरकाः⟫ ⟪पापात्⟫  
 ⟪पापं⟫ ⟪दारिद्र्यसंभवम्⟫ ⟪।⟫  
-⟪दारिद्र्यमप्रदानेन⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪दारिद्र्यमप्रदानेन⟫ ⟪॥३॥⟫
 
 ⟪शासनाद्वा⟫ ⟪विमोक्षाद्वा⟫  
 ⟪स्तेनः⟫ ⟪स्तेयाद्विमुच्यते⟫ ⟪।⟫  
 ⟪अशासित्वा⟫ ⟪तु⟫ ⟪तं⟫ ⟪राजा⟫  
-⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪३१६॥⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪३१६॥⟫ ⟪॥४॥⟫
 
 ::: indent
-Erklärung: ⟪राजा⟫ = Nom. sg. zu ⟪राजन्⟫ m. = ⟪नृप⟫ <!-- TODO: Fallback translation -->
+Magyarázat: ⟪राजा⟫ = Nominativ egyes szám a következőhöz: ⟪राजन्⟩ m. = ⟪नृप⟫
 :::
-## 25.8. Übersetzungsübung <!-- TODO: Fallback translation -->
+## 25.8. Fordítási gyakorlat
 
-1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. über den Nutzen der Ökonomie: <!-- TODO: Fallback translation -->
+1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫. a közgazdaságtan hasznosságáról:
 
-⟪वार्त्ता⟫ ⟪धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪वार्त्ता⟫ ⟪धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫
 
-2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. über die Ausbildung eines Fürsten: <!-- TODO: Fallback translation -->
+2. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. egy herceg kiképzéséről:
 
 ⟪तस्माद्दण्डमूला⟫sig[⟪स्तिस्रो⟫] ⟪विद्याः⟫ ⟪॥१॥⟫  
 ⟪विनयमूलो⟫ ⟪दण्डः⟫ sig[⟪प्राणभृतां⟫] ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
@@ -466,25 +466,25 @@ Erklärung: ⟪राजा⟫ = Nom. sg. zu ⟪राजन्⟫ m. = ⟪न�
 ... ⟪॥⟫  
 ⟪श्रुता⟫sig[⟪द्धि⟫] ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫sig[⟪दात्मवत्ते⟫]⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
 ... ⟪॥⟫  
-⟪कामक्रोधलोभमानमदहर्षत्यागा⟫sig[⟪त्कार्यः⟫] ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪कामक्रोधलोभमानमदहर्षत्यागा⟫sig[⟪त्कार्यः⟫] ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
-Erklärung der im obigen Text rot hervorgehobenen Wörter: <!-- TODO: Fallback translation -->
+A fenti szövegben pirossal kiemelt szavak magyarázata:
 
-1.5.1. ⟪तिस्रस्⟫ : Nom, Akk, fem. zu ⟪त्रि⟫ "drei" <!-- TODO: Fallback translation -->
+1.5.1. ⟪तिस्रस्⟫ : főnév, accusativus, nőnemű a következőhöz: ⟪त्रि⟩ "három"
 
-1.5.2. ⟪प्राणभृताम्⟫ : Gen. pl. m. zu ⟪प्राणभृत्⟫ m. "Lebewesen" <!-- TODO: Fallback translation -->
+1.5.2. ⟪प्राणभृताम्⟫ : Gen. pl. m. zu ⟪प्राणभृत्⟫ m. "lények"
 
-1.5.5.  ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "anderer" <!-- TODO: Fallback translation -->
+1.5.5.  ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "másik"
 
-1.5.7. ⟪कर्मा⟫ : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "Tat, Werk" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā zu upa-yuj 7 "sich aneignen": "er möge sich aneignen" <!-- TODO: Fallback translation -->
+1.5.7. ⟪कर्मा⟫ : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "cselekvés, mű" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā a upa-yuj 7 "megszerezni": "ő megszerezze"
 
-1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Abl., Dat. pl. zu ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "Theoretiker und Praktiker" <!-- TODO: Fallback translation -->
+1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Abl., Dat. pl. zu ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "elméleti és gyakorlati szakemberek"
 
-1.5.9. ⟪षोडश⟫ ⟪३⟫ : "sechzehnter" <!-- TODO: Fallback translation -->
+1.5.9. ⟪षोडश⟫ ⟪३⟫ : „hatodik”
 
-1.5.10. ⟪कर्म⟫ Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "Tat" <!-- TODO: Fallback translation -->
+1.5.10. ⟪कर्म⟫ N., Akk. sg. a következőhöz: ⟪कर्मन्⟫ n. „cselekmény”
 
-1.5.16. ⟪धि⟫ Sandhiform zu ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "Selbstbesitz" <!-- TODO: Fallback translation -->
+1.5.16. ⟪धि⟫ Sandha-forma a következőhöz: ⟪हि⟫ ; ⟪आत्मवत्ता⟫ n.: „önbirtoklás”
 
-1.6.1. ⟪कार्य⟫ ⟪३⟫ "zu tuendes, was getan werden muss" <!-- TODO: Fallback translation -->
+1.6.1. ⟪कार्य⟫ ⟪३⟫ „elvégzendő, amit el kell végezni”
 

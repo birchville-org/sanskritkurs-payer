@@ -29,7 +29,7 @@ In dischèpel riceva in quart (da la savida) da ses magister, in quart tras sase
 B) Transforma las suandantas formas verbalas en las correspundentas formas da perfectum (1. persuna):
 
 ::: grammar-box
-| Präsens / Imperfekt | Perfectum (1. persuna) |
+| Präsens / Imperfect | Perfectum (1. persuna) |
 | :--- | :--- |
 | ⟪१⟫. ⟪अश्नीमः⟫ | ⟪आशिम⟫ |
 | ⟪२⟫. ⟪स्मः⟫ | ⟪आसिम⟫ |

@@ -1,182 +1,182 @@
 ---
-title: Lektion 35
+title: 35. lecke
 lesson_id: 35
-status: stable
---- <!-- TODO: Fallback translation -->
+status: stabil
+---
 
-# Lektion 35 <!-- TODO: Fallback translation -->
+# 35. lecke
 
-## 35.1. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe <!-- TODO: Fallback translation -->
+## 35.1. Perfekt III. típus: Erős alap, magas fok/hosszúsági fok
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Alkotás:**
 
-**starker Stamm:** <!-- TODO: Fallback translation -->
-*   3.sg.P: Dehnstufe <!-- TODO: Fallback translation -->
-*   2.sg.P: Hochstufe <!-- TODO: Fallback translation -->
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe <!-- TODO: Fallback translation -->
+**erős törag:**
+*   3.sg.P: nyújtott fok
+*   2.sg.P: emelt fok
+*   1.sg.P: választás szerint emelt vagy nyújtott fok
 
-**schwacher Stamm:** siehe bei den Untertypen <!-- TODO: Fallback translation -->
+**gyenge törag:** lásd az altípusoknál
 :::
-### 35.1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
+### 35.1.1. Perfektum IIIa típus: erős törag emelt/nyújtott fok, gyenge törag mélyfok
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Alakítás:**
 
 :::
 ::: indent
-**schwacher Stamm:** Tiefstufe <!-- TODO: Fallback translation -->
+**gyenge törag:** mélyfok
 :::
-Wird gebildet von Wurzeln der Typen: <!-- TODO: Fallback translation -->
-*   (Konsonant)-(Konsonant) - i/ī/u/ū <!-- TODO: Fallback translation -->
-*   (Konsonant) - ṛ <!-- TODO: Fallback translation -->
+Gyökösztályokból képezve:
+*   (mássalhangzó)-(mássa hangzó) - i/ī/u/ū
+*   (mássa hangzó) - ṛ
 
-Vor vokalisch anlautender Endung wird ersetzt: <!-- TODO: Fallback translation -->
-*   -i/-ī durch -iy <!-- TODO: Fallback translation -->
-*   -u/-ū durch -uv <!-- TODO: Fallback translation -->
-*   -ṛ durch r <!-- TODO: Fallback translation -->
-Beispiele: <!-- TODO: Fallback translation -->
+Vokális hangzó végződés előtt helyettesíti:
+*   -i/-ī → -iy
+*   -u/-ū → -uv
+*   -ṛ durch r
+Példák:
 
-| Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪इ⟫ 2P | ⟪इयाय⟫:briy-ai + a | ⟪ईयुर्⟫:bri + iy + ur | | | <!-- TODO: Fallback translation -->
-| ⟪नी⟫ 1U | ⟪निनाय⟫ | ⟪निन्युर्⟫:brni-nī + ur | ⟪निन्ये⟫ | ⟪निन्यिरे⟫ | <!-- TODO: Fallback translation -->
-| ⟪स्तु⟫ 2U | ⟪तुष्टाव⟫:brtu + stau + a | ⟪तुष्टुवुर्⟫:brtu + stuv-ur | ⟪तुष्टुवे⟫ | ⟪तुष्टुविरे⟫ | <!-- TODO: Fallback translation -->
-| ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ | <!-- TODO: Fallback translation -->
-| ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ | <!-- TODO: Fallback translation -->
+| Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| ⟪इ⟫ 2P | ⟪इयाय⟫:briy-ai + a | ⟪ईयुर्⟫:bri + iy + ur | | |
+| ⟪नी⟫ 1U | ⟪निनाय⟫ | ⟪निन्युर्⟫:brni-nī + ur | ⟪निन्ये⟫ | ⟪निन्यिरे⟫ |
+| ⟪स्तु⟫ 2U | ⟪तुष्टाव⟫:brtu + stau + a | ⟪तुष्टुवुर्⟫:brtu + stuv-ur | ⟪तुष्टुवे⟫ | ⟪तुष्टुविरे⟫ |
+| ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
+| ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
+### 35.1.2. Perfektum IIIb típus: Erős tő magas fokú/hosszúsított fok, gyenge tő magas fokú
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Alkotás:**
 
 :::
 ::: indent
-**schwacher Stamm:** Hochstufe <!-- TODO: Fallback translation -->
+**gyenge alap:** erős fok
 :::
-Wird gebildet von Wurzeln der Typen: <!-- TODO: Fallback translation -->
-*   (Konsonant)-(Konsonant)-ṝ <!-- TODO: Fallback translation -->
-*   Konsonant-Konsonant-ṛ (d.h. Tőn auf -ṛ, wenn diesem mehrere Konsonanten vorausgehen) <!-- TODO: Fallback translation -->
-Beispiele: <!-- TODO: Fallback translation -->
+Az alábbi típusú gyökökből képződik:
+*   (mássalhangzó)-(mássalhangzó)-ṝ
+*   mássalhangzó-mássalhangzó-ṛ (azaz -ṝ végződésű gyökök, ha előttük több mássalhangzó áll)
+Példák:
 
-| Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪पॄ⟫ 3P | ⟪पपार⟫ | ⟪पपरुर्⟫ | | | <!-- TODO: Fallback translation -->
-| ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | | <!-- TODO: Fallback translation -->
-| ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ | <!-- TODO: Fallback translation -->
+| Gyök | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| ⟪पॄ⟫ 3P | ⟪पपार⟫ | ⟪पपरुर्⟫ | | |
+| ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
+| ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-## 35.2. Perfekt Typ IV: Wurzeln auf -ā / -āi <!-- TODO: Fallback translation -->
+## 35.2. Perfektum IV. típus: -ā / -āi végződésű gyökök
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Képzés:**
 
-**starker Stamm:** <!-- TODO: Fallback translation -->
-*   3./1. sg. P Perfekt endet auf -au <!-- TODO: Fallback translation -->
-*   2\. sg. P : Hochstufe -ā oder Tiefstufe -i <!-- TODO: Fallback translation -->
+**erős tövű:**
+*   3./1. sg. P Perfekt végződés -au
+*   2\. sg. P : magas fok -ā vagy mély fok -i
 
-**schwacher Stamm:** <!-- TODO: Fallback translation -->
-*   vor Konsonant: Tiefstufe -i <!-- TODO: Fallback translation -->
-*   vor Vokal: Tiefstufe Ø <!-- TODO: Fallback translation -->
+**gyenge tövű:**
+*   mássalhangzó előtt: mély fok -i
+*   magánhangzó előtt: mély fok Ø
 
-Wird gebildet von Wurzeln auf -ā / -āi <!-- TODO: Fallback translation -->
+Gyökerekből képzett -ā / -āi végződésű
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
-| Tő | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re | <!-- TODO: Fallback translation -->
+| Tő | 3. sg. Perf. P.:br1. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant <!-- TODO: Fallback translation -->
+## 35.3. A V típusú perfekta: mássalhangzó-a-mássalhangzó gyökök
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Alakítás:**
 
-**starker Stamm:** <!-- TODO: Fallback translation -->
-*   3.sg.P: Dehnstufe <!-- TODO: Fallback translation -->
-*   2.sg.P: Hochstufe <!-- TODO: Fallback translation -->
-*   1.sg.P: wahlweise Hochstufe oder Dehnstufe <!-- TODO: Fallback translation -->
+**erős alap:**
+*   3. szg.P: nyújtott fok
+*   2. szg.P: emelt fok
+*   1. szg.P: választás szerint emelt vagy nyújtott fok
 
-**schwacher Stamm:** siehe Untertypen <!-- TODO: Fallback translation -->
+**gyenge alap:** lásd altípusok
 
-Wird gebildet von Wurzeln des Typs (Konsonant)-Konsonant-a-Konsonant <!-- TODO: Fallback translation -->
+A (mássalhangzó)-mássalhangzó-a-mássalhangzó típusú gyökökből képződik
 :::
-### 35.3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe <!-- TODO: Fallback translation -->
+### 35.3.1. Perfektum Va típus: gyenge alap
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Képzés:**
 
 :::
 ::: indent
-**schwacher Stamm:** Tiefstufe <!-- TODO: Fallback translation -->
+**gyenge alap:** mély fok (mélyfok)
 :::
-Wird gebildet u.a. von den Wurzeln: <!-- TODO: Fallback translation -->
-*   ⟪गम्⟫ <!-- TODO: Fallback translation -->
-*   ⟪हन्⟫ <!-- TODO: Fallback translation -->
-*   ⟪जन्⟫ <!-- TODO: Fallback translation -->
-*   ⟪वच्⟫ <!-- TODO: Fallback translation -->
-*   ⟪वद्⟫ <!-- TODO: Fallback translation -->
-*   ⟪यज्⟫ <!-- TODO: Fallback translation -->
-Beispiele: <!-- TODO: Fallback translation -->
+Képződik többek között az alábbi gyökökből:
+*   ⟪गम्⟫
+*   ⟪हन्⟫
+*   ⟪जन्⟫
+*   ⟪वच्⟫
+*   ⟪वद्⟫
+*   ⟪यज्⟫
+Példák:
 
-| Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | | <!-- TODO: Fallback translation -->
-| ⟪हन्⟫ 2P | sig[⟪जघान⟫] :brja-**ghān**-a | sig[⟪जघ्नुर्⟫] | | | <!-- TODO: Fallback translation -->
-| ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ | <!-- TODO: Fallback translation -->
-| ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | | <!-- TODO: Fallback translation -->
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> | <!-- TODO: Fallback translation -->
-| ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ | <!-- TODO: Fallback translation -->
+| Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
+| ⟪हन्⟫ 2P | sig[⟪जघान⟫] :brja-**ghān**-a | sig[⟪जघ्नुर्⟫] | | |
+| ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
+| ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \&lt;⟪ऊदे⟫\&gt; | \&lt;⟪ऊदिरे⟫\&gt; |
+| ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-### 35.3.2. Perfekt Typ Vb: schwacher Stamm Kontraktion (e-Typ) <!-- TODO: Fallback translation -->
+### 35.3.2. Perfektum Vb-típus: gyenge alap Kontrakció (e-típus)
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Alakítás:**
 
 :::
 ::: indent
-**schwacher Stamm:** keine Reduplikation. Ersetzung des -a- der Wurzel durch -e-  
-(zur Erklärung siehe Thumb-Hauschild 1,2 S. 286f.) <!-- TODO: Fallback translation -->
+**gyenge alap:** nincs reduplikáció. A gyökér -a- helyettesítése -e-vel
+(magyarázatért lásd Thumb-Hauschild 1,2 old. 286f.)
 :::
-Wird gebildet von Wurzeln mit -a- zwischen zwei einfachen Konsonanten, deren Anfangskonsonant in der Reduplikationssilbe nicht verändert wird (d.h. deren Anfangskonsonant kein Guttural, Aspirat oder h ist).
-Beispiel: <!-- TODO: Fallback translation -->
+Azokból a gyökökből képezik, amelyekben -a- található két egyszerű mássalhangzó között, és amelynek kezdőmássalhangzója a reduplikációs szótagban nem változik (azaz kezdőmássalhangzója nem gutturális, aspirált vagy h).
+Példa:
 
-| Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | sig[⟪पे⟫]⟪चुर्⟫ | sig[⟪पे⟫]⟪चे⟫ | sig[⟪पे⟫]⟪चिरे⟫ | <!-- TODO: Fallback translation -->
+| Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | sig[⟪पे⟫]⟪चुर्⟫ | sig[⟪पे⟫]⟪चे⟫ | sig[⟪पे⟫]⟪चिरे⟫ |
 
-### 35.3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe <!-- TODO: Fallback translation -->
+### 35.3.3. Perfekt V. típusc: mássalhangzó-a-mássalhangzó gyökök. Gyenge alap erős fok
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Alakítás:**
 
-**schwacher Stamm:** Hochstufe <!-- TODO: Fallback translation -->
+**gyenge alap:** erős fok
 
-Wird gebildet von allen anderen Wurzeln mit mittlerem -a-, d.h. Wurzeln mit mittlerem -a- <!-- TODO: Fallback translation -->
-*   die mit zwei Konsonanten beginnen <!-- TODO: Fallback translation -->
-*   die mit Guttural beginnen <!-- TODO: Fallback translation -->
-*   die mit Aspirat beginnen <!-- TODO: Fallback translation -->
-*   die mit h beginnen <!-- TODO: Fallback translation -->
+Minden más gyökből képződik, amelyekben közép -a- van, azaz olyan gyökökből, amelyekben közép -a- található:
+*   amelyek két mássalhangzóval kezdődnek
+*   amelyek gutturálissal kezdődnek
+*   amelyek aspirálttal kezdődnek
+*   amelyek h-val kezdődnek
 
-sofern sie nicht zu Perfekt Typ Va gehören. <!-- TODO: Fallback translation -->
+ha nem a Perfekt Va típusba tartoznak.
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
-| Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ | <!-- TODO: Fallback translation -->
+| Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| :--- | :--- | :--- | :--- | :--- |
+| ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-## 35.4. Wortliste <!-- TODO: Fallback translation -->
+## 35.4. Szószedet
 
-⟪नश्⟫ 4P ⟪नश्यति⟫ : verloren gehen, zugrundegehen, verschwinden <!-- TODO: Fallback translation -->
+⟪नश्⟫ 4P ⟪नश्यति⟫ : elveszni, elpusztulni, eltűnni
 ::: indent
 **Perf. Vb ⟪ननाश⟫, ⟪नेशुर्⟫** :br
 **Fut. ⟪नशिष्यति⟫ ⟪।⟫ ⟪नङ्क्ष्यति⟫** :br
 **Kaus. ⟪नाशयति⟫** :br
-**PPP ⟪नष्ट⟫** <!-- TODO: Fallback translation -->
+**PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫sig[⟪ण⟫]⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen <!-- TODO: Fallback translation -->
+**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫sig[⟪ण⟫]⟪श्यति⟫** : eltűnni, elveszni, elpusztulni
 
-⟪क्रम्⟫ 1U sig[⟪क्रा⟫]⟪मति⟫, 4P sig[⟪क्रा⟫]⟪म्यति⟫ : schreiten, gehen <!-- TODO: Fallback translation -->
+⟪क्रम्⟫ 1U sig[⟪क्रा⟫]⟪मति⟫, 4P sig[⟪क्रा⟫]⟪म्यति⟫ : menni, haladni
 ::: indent
 **Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
 **Fut. ⟪क्रमिष्यति⟫** :br
@@ -184,109 +184,109 @@ Beispiel: <!-- TODO: Fallback translation -->
 **Kaus. ⟪क्रमयति⟫** :br
 **PPP sig[⟪क्रा⟫]⟪न्त⟫** :br
 **Inf. ⟪क्रमितुम्⟫** :br
-**Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫** <!-- TODO: Fallback translation -->
+**Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
 ::: media
 ![](/images/lekt3502.webp)
-Abb.: ⟪क्रामन्ति⟫
+Kép: ⟪क्रामन्ति⟫
 People walking, Senegal.
-(Bildquelle: [Details](/licenses#lekt3502)) <!-- TODO: Fallback translation -->
+(Képmegjelölés: [Details](/hu/licenses#lekt3502))
 :::
-⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): singen, in singendem Ton rezitieren, in gebundener Rede verkünden <!-- TODO: Fallback translation -->
+⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): énekelni, éneklő hangon előadni, rímes beszédben hirdetni
 ::: indent
 **Perf. IV ⟪जगौ⟫, ⟪जगुर्⟫** :br
 **Fut. ⟪गास्यति⟫** :br
 **Pass. ⟪गीयते⟫** :br
 **Kaus. ⟪गापयति⟫** :br
 **PPP ⟪गीत⟫** :br
-**Inf. ⟪गातुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪गातुम्⟫**
 
-davon:
-**⟪गीता⟫ f.:** Lied, Gesang <!-- TODO: Fallback translation -->
+ebből:
+**⟪गीता⟫ f.:** dal, ének
 :::
 ::: media
 ![](/images/lekt3501.webp)
-Abb.: ⟪जगुः⟫
+Kép: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
-(Bildquelle: [Details](/licenses#lekt3501)) <!-- TODO: Fallback translation -->
+(Képmegjelölés: [Details](/hu/licenses#lekt3501))
 :::
-## 35.5. Übung <!-- TODO: Fallback translation -->
+## 35.5. Gyakorlat
 
-A) Bilden Sie zu den folgenden Verbformen die entsprechenden Perfektformen: <!-- TODO: Fallback translation -->
+A) Alakítsa ki a következő igai formákhoz a megfelelő perfekta formákat:
 
-1. ⟪गायन्ति⟫ <!-- TODO: Fallback translation -->
-2. ⟪स्मरन्ति⟫ <!-- TODO: Fallback translation -->
-3. ⟪एष्यति⟫ <!-- TODO: Fallback translation -->
-4. ⟪गच्छन्ति⟫ <!-- TODO: Fallback translation -->
-5. ⟪कुरुते⟫ <!-- TODO: Fallback translation -->
-6. ⟪नेष्यन्ते⟫ <!-- TODO: Fallback translation -->
-7. ⟪जायते⟫ <!-- TODO: Fallback translation -->
-8. ⟪जानाति⟫ <!-- TODO: Fallback translation -->
-9. ⟪संस्करोति⟫ <!-- TODO: Fallback translation -->
-10. ⟪पुनीते⟫ <!-- TODO: Fallback translation -->
-11. ⟪बिभ्यति⟫ <!-- TODO: Fallback translation -->
-12. ⟪पिपुरति⟫ <!-- TODO: Fallback translation -->
-13. ⟪दत्ते⟫ <!-- TODO: Fallback translation -->
-14. ⟪यजन्ते⟫ <!-- TODO: Fallback translation -->
-15. ⟪भजन्ति⟫ unregelmässig, nach Typ Vb! <!-- TODO: Fallback translation -->
-16. ⟪वक्ति⟫ <!-- TODO: Fallback translation -->
-17. ⟪अदधुः⟫ <!-- TODO: Fallback translation -->
-18. ⟪बिभ्रते⟫ <!-- TODO: Fallback translation -->
-19. ⟪मरिष्यन्ति⟫ <!-- TODO: Fallback translation -->
-20. ⟪अशक्नुवन्⟫ <!-- TODO: Fallback translation -->
-21. ⟪अवदन्⟫ <!-- TODO: Fallback translation -->
-22. ⟪अपिबत्⟫ <!-- TODO: Fallback translation -->
-23. ⟪अपान्⟫ <!-- TODO: Fallback translation -->
-24. ⟪अलभत⟫ <!-- TODO: Fallback translation -->
-25. ⟪अहन्⟫ <!-- TODO: Fallback translation -->
-26. ⟪मन्यन्ते⟫ <!-- TODO: Fallback translation -->
-27. ⟪अक्रामन्⟫ <!-- TODO: Fallback translation -->
-28. ⟪अशृण्वन्⟫ <!-- TODO: Fallback translation -->
-29. ⟪मिमति⟫   <!-- TODO: Fallback translation -->
+1. ⟪गायन्ति⟫
+2. ⟪स्मरन्ति⟫
+3. ⟪एष्यति⟫
+4. ⟪गच्छन्ति⟫
+5. ⟪कुरुते⟫
+6. ⟪नेष्यन्ते⟫
+7. ⟪जायते⟫
+8. ⟪जानाति⟫
+9. ⟪संस्करोति⟫
+10. ⟪पुनीते⟫
+11. ⟪बिभ्यति⟫
+12. ⟪पिपुरति⟫
+13. ⟪दत्ते⟫
+14. ⟪यजन्ते⟫
+15. ⟪भजन्ति⟫ szabálytalan, Vb típus szerint!
+16. ⟪वक्ति⟫
+17. ⟪अदधुः⟫
+18. ⟪बिभ्रते⟫
+19. ⟪मरिष्यन्ति⟫
+20. ⟪अशक्नुवन्⟫
+21. ⟪अवदन्⟫
+22. ⟪अपिबत्⟫
+23. ⟪अपान्⟫
+24. ⟪अलभत⟫
+25. ⟪अहन्⟫
+26. ⟪मन्यन्ते⟫
+27. ⟪अक्रामन्⟫
+28. ⟪अशृण्वन्⟫
+29. ⟪मिमति⟫
 ::: media
 ![](/images/lekt3503.webp)
-Abb.: ⟪मिमति⟫
+Kép: ⟪मिमति⟫
 Market in Vadaseri, Tamil Nadu.
-(Bildquelle: [Details](/licenses#lekt3503)) <!-- TODO: Fallback translation -->
+(Képmegjelölés: [Details](/hu/licenses#lekt3503))
 :::
-30. ⟪अपद्यत⟫ <!-- TODO: Fallback translation -->
-31. ⟪सुनोति⟫ <!-- TODO: Fallback translation -->
-32. ⟪अतिष्ठत्⟫ <!-- TODO: Fallback translation -->
-33. ⟪पतिष्यन्ति⟫ <!-- TODO: Fallback translation -->
-34. ⟪अपचत्⟫ <!-- TODO: Fallback translation -->
-35. ⟪अजहुर्⟫ <!-- TODO: Fallback translation -->
-36. ⟪धक्ष्यन्ति⟫ <!-- TODO: Fallback translation -->
-37. ⟪स्तौति⟫ <!-- TODO: Fallback translation -->
-38. ⟪तनुते⟫ <!-- TODO: Fallback translation -->
-39. ⟪अचरत्⟫ <!-- TODO: Fallback translation -->
-40. ⟪जुह्वति⟫ <!-- TODO: Fallback translation -->
-41. ⟪अहरत्⟫ <!-- TODO: Fallback translation -->
+30. ⟪अपद्यत⟫
+31. ⟪सुनोति⟫
+32. ⟪अतिष्ठत्⟫
+33. ⟪पतिष्यन्ति⟫
+34. ⟪अपचत्⟫
+35. ⟪अजहुर्⟫
+36. ⟪धक्ष्यन्ति⟫
+37. ⟪स्तौति⟫
+38. ⟪तनुते⟫
+39. ⟪अचरत्⟫
+40. ⟪जुह्वति⟫
+41. ⟪अहरत्⟫
 
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B) Fordítsa le:
 
-⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪एकस्मिन्नेव⟫ ⟪काले⟫ ⟪क्षत्रियो⟫ ⟪महान्यष्टुमुपचक्रमे⟫ ⟪।⟫ ⟪तस्य⟫ ⟪यज्ञपशुमिन्द्रो⟫ ⟪जहार⟫ ⟪।⟫ ⟪प्रनष्टे⟫ ⟪तु⟫ ⟪पशौ⟫ ⟪दुर्ब्राह्मणः⟫ ⟪क्षत्रियमब्रवीत्⟫ ⟪।⟫ ⟪पशुर्हृतः⟫ ⟪क्षत्रियस्य⟫ ⟪दुर्नयादिति⟫ ⟪॥१॥⟫
 
-⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवुर्⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪रामो⟫ ⟪ऽपुत्र⟫ ⟪आस⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमियेष⟫ ⟪न⟫ ⟪तु⟫ ⟪लेभे⟫ ⟪।⟫ ⟪तस्माद्देवानीजे⟫ ⟪ब्रह्मचर्यादिव्रतानि⟫ ⟪च⟫ ⟪चकार⟫ ⟪।⟫ ⟪देवा⟫ ⟪रामस्येष्टिं⟫ ⟪शुश्रुवुर्⟫ ⟪रामाय⟫ ⟪चेष्टपुत्रं⟫ ⟪ददुः⟫ ⟪॥२॥⟫
 
-⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫
 
 ::: media
 ![](/images/lekt3504.webp)
-Abb.: ... ⟪ब्राह्मणाश्चेजुः⟫
+Ábra: ... ⟪ब्राह्मणाश्चेजुः⟫
 Yajña ceremony, Shiva ashram, Ganeshpuri.
-(Bildquelle: [Details](/licenses#lekt3504)) <!-- TODO: Fallback translation -->
+(Képmeghatározás: [Részletek](/hu/licenses#lekt3504))
 :::
-⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 
-C) Wandeln Sie die Sätze der Übung B) um, indem Sie Perfekta durch Imperfekta ersetzen. <!-- TODO: Fallback translation -->
+C) Alakítsa át a B) gyakorlat mondatait úgy, hogy az perfekta igealakokat imperfekta igealakra cserélje.
 
 ::: deleteme-box
 
-**lekt3501:** Temple musicians Kaadu Malleswara Temple Bangalore. [Bildquelle: Samuelraj / Flickr. CC BY-NC] <!-- TODO: Fallback translation -->
+**lekt3501:** Templomi zenészek, Kaadu Malleswara templom, Bangalore. [Képmegjelenítés: Samuelraj / Flickr. CC BY-NC]
 
-**lekt3502:** People walking, Senegal. [Bildquelle: Curt Carnemark / World Bank. CC BY-NC-ND] <!-- TODO: Fallback translation -->
+**lekt3502:** Emberek sétálnak, Szenegál. [Képmegjelenítés: Curt Carnemark / Világbank. CC BY-NC-ND]
 
-**lekt3503:** Market in Vadaseri, Tamil Nadu. [Bildquelle: kifo / Flickr. CC BY-SA] <!-- TODO: Fallback translation -->
+**lekt3503:** Piac Vadaseriben, Tamilnádu. [Képmegjelenítés: kifo / Flickr. CC BY-SA]
 
-**lekt3504:** Yajña ceremony, Shiva ashram, Ganeshpuri. [Bildquelle: Dey / Flickr. CC BY-NC-SA] <!-- TODO: Fallback translation -->
+**lekt3504:** Yajña szertartás, Sivá ásram, Ganeshpuri. [Képmegjelenítés: Dey / Flickr. CC BY-NC-SA]
 :::

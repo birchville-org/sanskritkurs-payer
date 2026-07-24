@@ -105,8 +105,8 @@ Il cas genitiv singular da radichs che fineschan cun vocala vegn format irreglam
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi ni wie devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu ni wie mehrsilbige Feminina auf -ū) |
 
 :::
 **Fragepronomen und Demonstrativpronomen:**
@@ -115,9 +115,9 @@ Il cas genitiv singular da radichs che fineschan cun vocala vegn format irreglam
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Genetiv Singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| **Masculin / Neutrum** | **Genetiv Singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
 | | **Genetiv Plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
-| **Femininum** | **Genetiv Singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| **Feminin** | **Genetiv Singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
 | | **Genetiv Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::

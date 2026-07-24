@@ -86,7 +86,7 @@ Trai las radis fin ussa emprendidas, èn ils suandants infinitivs specialmain da
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Radisn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- ni -ar-, wenn sie aniṭ sind.
 
 ## 23.3. L'infinitiv (⟪तुमुन्⟫) a las ragischs gudidas fin qua
 

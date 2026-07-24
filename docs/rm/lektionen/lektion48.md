@@ -26,7 +26,7 @@ status: stable
 
 ⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫
 :::
-## 48.2. Furmaiziun dal imperativ (⟪लोट्⟫) stams da preschent a-tematics
+## 48.2. Furmaziun dal imperativ (⟪लोट्⟫) stams da preschent a-tematics
 
 ### 48.2.1. Desinenzas dal imperativ sin da radichs da present athematic
 
@@ -36,7 +36,7 @@ status: stable
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
 | **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3.Kl.: -atu** :br(aus. -\*ntu) | \-atām:br(aus: -\*ntām) |
+| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3.Kl.: -atu** :br(aus. -\*ntu) | \-atām:br(da: -\*ntām) |
 :::
 Obs.: ¹ Las desinenzas da la 2. e la 3. sg.P ponnan vegnir sustituidas cun -tāt, sche in desideri da benedicziun duess esser exprimmà. -tāt apparisc (era en la 3. sg.P) al stem faivel.
 
@@ -117,7 +117,7 @@ Obs.: ¹ Las desinenzas da la 2. e la 3. sg.P ponnan vegnir sustituidas cun -tā
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(aus: \*hn-ta) |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(da: \*hn-ta) |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
 
 Nota: ¹ Explicaziun da **⟪जहि⟫** vesai Thumb-Hauschild I,2 p. 253
@@ -139,7 +139,7 @@ Nota: ¹ Explicaziun da **⟪जहि⟫** vesai Thumb-Hauschild I,2 p. 253
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | sig[⟪एधि⟫] :br(aus: \*s-dhi) | ⟪स्त⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪एधि⟫] :br(da: \*s-dhi) | ⟪स्त⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
 :::
 ⟪⟪शास्⟫⟫ 2P
@@ -149,7 +149,7 @@ Nota: ¹ Explicaziun da **⟪जहि⟫** vesai Thumb-Hauschild I,2 p. 253
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪शाधि⟫] :br(da: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
 ### 48.2.4. Terza classa da prezens (⟪जुहोत्यादि⟫)
@@ -179,7 +179,7 @@ Nota: ¹ Dissimaziun, uschia che betg duas silbas cun **⟪ह्⟫** suandassa
 | **2. Person** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
 
-Nota: ¹ **⟪धेहि⟫** da \*dhazdhi: perdita della sibilante indoeuropea z con sostituzione allungata; v. Thumb-Hauschild I,1 pag. 302
+Nota: ¹ **⟪धेहि⟫** da \*dhazdhi: perdita da la sibilante indoeuropea z con sostituzione allungata; v. Thumb-Hauschild I,1 pag. 302
 :::
 ⟪हा⟫ 3P
 

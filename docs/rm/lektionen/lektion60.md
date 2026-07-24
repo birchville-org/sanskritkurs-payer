@@ -1,6 +1,6 @@
 ---
 title: Lektion 60
-subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
+subtitle: "Die Desinenza da perfecten des Dual (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -92,7 +92,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
 :::
-### 60.2.4. Typ 4: Wurzeln auf -ā / -ai
+### 60.2.4. Typ 4: Radisn auf -ā / -ai
 
 ⟪दा⟫ 3U "dar dar"
 
@@ -226,7 +226,7 @@ Vesair las paradigmas en Kielhorn, Grammatik § 124:
             ⟪उदच्⟫ » ⟪उदीच्⟫
         *   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
 
-**Femininum:**
+**Feminin:**
 
 **stèll stem davant vocal + -ī (declinà sco ⟪देवी⟫)**
 
@@ -306,28 +306,28 @@ Las direcziuns principalas dal sid
 ::: grammar-box
 **Raditgias dals classes da present 1 - 9:**
 
-**reduplizierte Wurzel + sa**
+**reduplizierte Radis + sa**
 
 **oppur:**
 
-**reduplizierte Wurzel + i + ṣa**
+**reduplizierte Radis + i + ṣa**
 
 Las regulaziuns davart l'usi dal vocal da ligaziun -i — vesair en Kielhorn, Grammatica § 443 - 445.
 
 **Radixs da la 10a classa da prezens e causativs:**
 
-**radoppiamento della radice del presente + i + ṣa**
+**radoppiamento da la radice del presente + i + ṣa**
 :::
 ::: grammar-box
-**Forma della radice:**
+**Forma da la radice:**
 
 1.  La radis è per ordinari profundida: ⟪जीव्⟫ » ⟪जिजीविष⟫-
 
-    1.  Auslautendes -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:  
+    1.  Final -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:  
         ⟪जि⟫ » ⟪जि⟫***⟪गी⟫***⟪ष⟫- "zu siegen wünschen"  
         ⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- "zu laufen wünschen"
 
-    2.  Auslautendes -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:  
+    2.  Final -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:  
         ⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- "vuler far"  
         ⟪मृ⟫ » ⟪मु⟫***⟪मूर्ष⟫***\- "s'apprèttar a morir"  
         ⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "vuler emplenar"

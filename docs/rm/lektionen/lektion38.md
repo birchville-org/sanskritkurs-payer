@@ -241,7 +241,7 @@ Fig.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪ना
 ## 38.6. Sintactica a ⟪आत्मन्⟫
 
 ::: grammar-box
-**⟪आत्मन्⟫** **maskulinum** poa esser adoperà en il **singular** sco reflexiv (pronomen reflexiv) per tut las trais generas, numerus (incluì il dual ed il plural) e persunas.
+**⟪आत्मन्⟫** **masculin** poa esser adoperà en il **singular** sco reflexiv (pronomen reflexiv) per tut las trais generas, numerus (incluì il dual ed il plural) e persunas.
 :::
 Exemples:
 
@@ -340,7 +340,7 @@ dai quai:
 ⟪राजन्⟫ m.: re (per il regno in India veda Basham, Wonder pp. 82-94). Coma element final d'un cumponì (specialmain ⟨तत्पुरुष⟩) per ordinari: -⟪राज⟫ m. (sco ⟨देव⟩)
 
 ::: indent
-Femininum:
+Feminin:
 
 ⟪राज्ञी⟫ f.: regina, uxor regis
 
@@ -354,7 +354,7 @@ da ⟪राज⟫ :
 
 ⟪आत्मन्⟫ m.: sez, persuna, essenza interna. Filosoficamain ed en dotrinas da la liberaziun: l'absolut en l'individui, dal qual l'individui n'è betg adina conscient (v. Stietencron)
 
-⟪ब्रह्मन्⟫ n.: l'absolut, il Veda (secondo Thieme originariamente: la verità formulata, da cui ⟪ब्राह्मण⟫ "formulatore della verità")
+⟪ब्रह्मन्⟫ n.: l'absolut, il Veda (secondo Thieme originariamente: la verità formulata, da cui ⟪ब्राह्मण⟫ "formulatore da la verità")
 
 ⟪ब्रह्मन्⟫ m.: il dieu creatur Brahmā conceput persunal
 

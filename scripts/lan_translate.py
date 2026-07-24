@@ -7,6 +7,7 @@ import sys
 import re
 import datetime
 import hashlib
+import subprocess
 
 # Configuration
 API_URL = "http://nyx.local:8000/v1/chat/completions"
@@ -15,17 +16,16 @@ LAST_RESTART_TIME = 0
 LANGUAGES = [
     "en", "it", "es", "ru", "uk", "hi", "fr", "ta", "pa",
     "la", "rm", "ro", "id", "zh-CN", "he", "ar",
-    "th", "el", "cop", "grc", "fa", "nl", "af", "lt", "sh", "sq", "am", "gez", "fi", "hu"
+    "th", "el", "cop", "grc", "fa", "nl", "af", "lt", "sh", "sq", "am", "gez", "fi", "hu", "zh"
 ]
 LANG_NAMES = {
     "en": "English", "it": "Italian", "es": "Spanish",
     "ru": "Russian", "uk": "Ukrainian",
     "hi": "Hindi", "fr": "French", "ta": "Tamil", "pa": "Punjabi (Gurmukhi)",
     "la": "Latin", "rm": "Rumantsch Grischun", "ro": "Romanian",
-    "id": "Indonesian", "zh-CN": "Simplified Chinese",
+    "id": "Indonesian", "zh-CN": "Simplified Chinese", "zh": "Traditional Chinese (Taiwan)",
     "th": "Thai", "he": "Hebrew",
     "ar": "Arabic",
-#    "zh": "Mandarin Chinese",
     "grc": "Ancient Greek", "el": "Modern Greek", "am": "Amharic", "gez": "Ge\'ez",
     "fa": "Persian (Farsi)", "cop": "Coptic",
     "fi": "Finnish", "hu": "Hungarian",
@@ -1012,23 +1012,18 @@ def translate_text(text, target_lang):
                         sys.stdout.write(f"[{ts}]      [Speed: {tps:.1f} t/s | {comp_tokens} tokens in {elapsed:.1f}s]\n")
                         sys.stdout.flush()
                         if comp_tokens > 20 and tps < 1.0:
-                            sys.stdout.write(f"\n[{ts}] [!] Performance kritisch ({tps:.1f} t/s). Führe automatischen oMLX-Neustart aus...\n")
-                            sys.stdout.flush()
-                            try:
-                                # Old CLI restart method (commented out):
-                                # _sp.run(['ssh', 'marco@nyx.local', 'pkill -f "mlx_lm server"; sleep 2; cd ~/llm-benchmark && nohup ./start > /dev/null 2>&1 &'], timeout=15)
-                                # time.sleep(60)
-                                
-                                # New oMLX App restart method:
-                                _sp.run(['ssh', 'marco@nyx.local', 'killall -9 oMLX > /dev/null 2>&1; pkill -9 -f omlx-server > /dev/null 2>&1 || true'], timeout=15)
-                                time.sleep(3)
-                                _sp.run(['ssh', 'marco@nyx.local', 'open -a oMLX'], timeout=15)
-                                sys.stdout.write(f"[{ts}] [!] oMLX-Neustart-Befehl gesendet. Warte 40s auf den Server...\n")
+                                sys.stdout.write(f"\n[{ts}] [!] Performance kritisch ({tps:.1f} t/s). Führe automatischen mlx_lm Neustart auf nyx.local aus...\n")
                                 sys.stdout.flush()
-                                time.sleep(40)
-                            except Exception as ssh_e:
-                                sys.stdout.write(f"[{ts}] [!] SSH oMLX-Neustart fehlgeschlagen: {ssh_e}\n")
-                                sys.stdout.flush()
+                                try:
+                                    _sp.run(['ssh', 'marco@nyx.local', 'pkill -9 -f "mlx_lm server" || true'], timeout=15)
+                                    time.sleep(3)
+                                    _sp.run(['ssh', 'marco@nyx.local', 'nohup python3 -m mlx_lm server --model mlx-community/Qwen3.6-35B-A3B-4bit --host 0.0.0.0 --port 8000 --chat-template-args \'{"enable_thinking":false}\' --temp 0.1 --max-tokens 16384 --trust-remote-code --decode-concurrency 1 --prompt-concurrency 1 --prompt-cache-size 1 > /tmp/mlx_server.log 2>&1 &'], timeout=15)
+                                    sys.stdout.write(f"[{ts}] [!] mlx_lm Server-Neustart-Befehl gesendet. Warte 20s auf den Server...\n")
+                                    sys.stdout.flush()
+                                    time.sleep(20)
+                                except Exception as ssh_e:
+                                    sys.stdout.write(f"[{ts}] [!] SSH mlx_lm Neustart fehlgeschlagen: {ssh_e}\n")
+                                    sys.stdout.flush()
 
                 # --- QUALITY CONTROL (QC) ---
                 source_lines = protected.split('\n')
@@ -1419,7 +1414,47 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
 
         translated = '\n\n'.join(translated_chunks)
 
+GLOSSARY_CLEANUP_MAPS = {
+    "rm": [
+        ("Indikativ Präsens", "Indicativ preschent"),
+        ("Passiv Präsens", "Passiv preschent"),
+        ("Imperfekt", "Imperfect"),
+        ("Maskulinum", "Masculin"),
+        ("maskulinum", "masculin"),
+        ("Femininum", "Feminin"),
+        ("femininum", "feminin"),
+        ("Wortbildung", "Furmaziun da pleds"),
+        ("Auslautendes", "Final"),
+        ("auslautendes", "final"),
+        ("Stammvokal", "Vocala da stramps"),
+        ("Passivsatz", "Frasa passiva"),
+        ("dritte Person", "terza persuna"),
+        ("dritte", "terza"),
+        ("Furmaiziun", "Furmaziun"),
+        ("furmaiziun", "furmaziun"),
+        ("questa frase", "questa frasa"),
+        ("completamente", "cumpletamain"),
+        ("frase", "frasa"),
+        ("della", "da la"),
+        ("richtig:", "gueldig:"),
+        ("Erklärung:", "Explicaziun:"),
+    ]
+}
+
+def sanitize_translation_output(text, lang):
+    """Sanitize translated content: purge empty containers and enforce language glossary maps."""
+    if not text:
+        return text
+    # Purge empty or unclosed container blocks
+    text = re.sub(r':::\s*(?:note-box|indent|grammar-box|deleteme-box)\s*\n\s*:::\n?', '', text)
+    # Apply glossary map if available for language
+    if lang in GLOSSARY_CLEANUP_MAPS:
+        for src, target in GLOSSARY_CLEANUP_MAPS[lang]:
+            text = text.replace(src, target)
+    return text
+
     translated = escape_angle_brackets_in_tables(translated)
+    translated = sanitize_translation_output(translated, lang)
     if post_process:
         translated = post_process(translated)
 
@@ -2016,6 +2051,13 @@ def main():
 
             # ── Hauptseiten ──────────────────────────────────────────────────
             translate_main_pages(lang, force=force)
+
+        # ── Glossar automatisch generieren ─────────────────────────
+        try:
+            glossar_script = os.path.join(os.path.dirname(__file__), "gen_glossar.py")
+            subprocess.run([sys.executable, glossar_script, "--lang", lang], check=False)
+        except Exception as e:
+            print(f"[{lang}] Warning: Glossar-Generierung fehlgeschlagen: {e}")
 
         elapsed = time.time() - lang_start
         print(f"[{lang}] End:   {time.strftime('%H:%M:%S')} — {_fmt_elapsed(elapsed)}")

@@ -1,147 +1,147 @@
 ---
-title: Lektion 11
-subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
+title: 11. lecke
+subtitle: "A kétszeres tárgyeset (a személy és a dolog tárgyesete)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
-category: "Grammatik"
-status: stable
---- <!-- TODO: Fallback translation -->
+category: "Nyelvtan"
+status: stabil
+---
 
-# Lektion 11 <!-- TODO: Fallback translation -->
+# 11. lecke
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Den doppelten tárgyeset (accusativus) (tárgyeset (accusativus) der Person und der Sache) <!-- TODO: Fallback translation -->
-- Den Használat der Partikel **iti**, **evam** und **na** <!-- TODO: Fallback translation -->
-- Grundlegende Begriffe wie **dharma**, **adharma** und **putra** <!-- TODO: Fallback translation -->
-- Die Képzés von Nomina zu den Tőn **vad**, **prach** und **iṣ** <!-- TODO: Fallback translation -->
+**Ebben a leckében megtanulják:**
+- A kétszeres tárgyesetet (accusativus) (a személy és a dolog tárgyesete)
+- Az **iti**, **evam** és **na** részecskék használatát
+- Alapfogalmakat, mint például **dharma**, **adharma** és **putra**
+- A névszavak képzését a vad, **prach** és **iṣ** tövekből
 :::
-## 11.1. Doppelter Akkusativ <!-- TODO: Fallback translation -->
+## 11.1. Kétszeres tárgyeset
 
 ::: grammar-box
-**Einige Verben können einen doppelten Akkusativ (dvitīyā) regieren: Akkusativ der Person und Akkusativ der Sache.** <!-- TODO: Fallback translation -->
+**Egyes igék kétszeres tárgyesetet (dvitīyā) követelnek: a személy és a dolog tárgyesete.**
 
-**Hierzu gehören:** <!-- TODO: Fallback translation -->
-- **Verben des Sprechens**: spreche zu jemandem (tárgyeset (accusativus)) über etwas (tárgyeset (accusativus)); jemandem (tárgyeset (accusativus)) etwas (tárgyeset (accusativus)) sagen <!-- TODO: Fallback translation -->
-- **Verben des Fragens**: jemanden (tárgyeset (accusativus)) nach etwas (tárgyeset (accusativus)) fragen <!-- TODO: Fallback translation -->
-- **Verben des Lehrens**: jemanden (tárgyeset (accusativus)) etwas (tárgyeset (accusativus)) lehren <!-- TODO: Fallback translation -->
-- einige weitere Verben, bei denen es in den Szójegyzékn vermerkt wird <!-- TODO: Fallback translation -->
+**Ide tartoznak:**
+- **Szólásigék**: valakinek (tárgyeset) valamiről (tárgyeset) beszél; valakinek (tárgyeset) valamit mond
+- **Kérdező igék**: valakit (tárgyeset) valamiről kérdez
+- **Tanító igék**: valakit (tárgyeset) valamivel tanít
+- néhány további ige, amelyeket a Szójegyzékek megjegyeznek
 
-**Wird eine solche Konstruktion ins Passiv gesetzt, wird die Person (die gefragt wird usw.) in den Nominativ (prathamā) gesetzt, die Sache (nach der gefragt wird usw.) bleibt im Akkusativ.** <!-- TODO: Fallback translation -->
+**Ha egy ilyen szerkezetet passzívba fordítunk, a személyt (akit kérdeznek stb.) nominativusban (prathamā) helyezzük el, a dolog (amiről kérdeznek stb.) pedig akkuzatívusban marad.**
 
-z.B. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt den Brahmanen nach dem Dharma."
-» Passiv: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫ <!-- TODO: Fallback translation -->
+pl. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = „Ráma a bráhmanától kérdezi a dharmát.”
+» Passzív: **rāmeṇa brāhmaṇo dharmaṃ pṛcchyate** = ⟪रामेण⟫ ⟪ब्राह्मणो⟫ ⟪धर्मं⟫ ⟪पृच्छयते⟫
 
-**Diese Regel gilt nur, wenn sowohl Person als auch Sache Objekt sind. Ist eine Sache das einzige Objekt, steht diese nach dem Grundschema des Passivsatzes im Nominativ (prathamā):** <!-- TODO: Fallback translation -->
+**Ez a szabály csak akkor érvényes, ha mind a személy, mind a dolog tárgy. Ha egy dolog az egyetlen tárgy, akkor ez a passzív mondat alaprendszere szerint nominativusban (prathamā) áll:**
 
 z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = "Rāma fragt nach dem Dharma."
-» Passiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫ <!-- TODO: Fallback translation -->
+» Passiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
 :::
 
-## 11.2. Wortliste <!-- TODO: Fallback translation -->
+## 11.2. Wortliste
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**Lernen Sie folgende Wörter:**
 
-- **iti** ⟪इति⟫ : so <!-- TODO: Fallback translation -->
-  - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen ("). <!-- TODO: Fallback translation -->
-  - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen". <!-- TODO: Fallback translation -->
-  - Im Sanskrit gibt es keine indirekte Rede; Képzésen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden. <!-- TODO: Fallback translation -->
-  - **... (Zitat) ... iti śrutiḥ** = "so der Veda". <!-- TODO: Fallback translation -->
-  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er..."). <!-- TODO: Fallback translation -->
+- **iti** ⟪इति⟫ : so
+- Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
+- z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
+- Im Sanskrit gibt es keine indirekte Rede; Képzésen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
+- **... (Zitat) ... iti śrutiḥ** = "so der Veda".
+- Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er...").
 
-- **evam** ⟪एवम्⟫ : so (adverbiell, z.B. **evaṃ jayati** "so siegt er"). <!-- TODO: Fallback translation -->
-- **na** ⟪न⟫ : nicht <!-- TODO: Fallback translation -->
-  - Verneint einzelne Worte (steht unmittelbar davor: **na sādhuḥ** "ein nicht guter") oder ganze Sätze (steht zu Beginn oder unmittelbar vor dem Verb). <!-- TODO: Fallback translation -->
+- **evam** ⟪एवम्⟫ : így (adverbial, pl. **evaṃ jayati** „így győz ő”).
+- **na** ⟪न⟫ : nem
+- Tagad egyes szavakat (azonnal megelőzi: **na sādhuḥ** „egy nem jó”) vagy egész mondatokat (a mondat elején áll, azonnal megelőzi a ragozott igét).
 
-- **putra** m. ⟪पुत्र⟫ : Sohn (In Indien war es notwendig, einen Sohn zu zeugen, der die Opfer für die Vorfahren darbringen konnte.) <!-- TODO: Fallback translation -->
-- **dharma** m. ⟪धर्म⟫ : ("das, was fest ist", d.h.) Recht, Gesetz, Sitte, Charakter. <!-- TODO: Fallback translation -->
-  - Entspricht am ehesten dem Naturgesetz/Sittengesetz. Jeder hat nach **varṇa** und **āśrama** (Lebensstadium) seine eigenen Pflichten (**svadharma**). <!-- TODO: Fallback translation -->
-- **adharma** m. ⟪अधर्म⟫ : Unrecht (Gegensatz zu **dharma**). <!-- TODO: Fallback translation -->
-- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : wünschen (**iṣ-ccha-ti**). <!-- TODO: Fallback translation -->
+- **putra** m. ⟪पुत्र⟫ : fiú (Gyermeknemzésre volt szükség Indiában, aki felajánlhatta az áldozatot a ősöknek.)
+- **dharma** m. ⟪धर्म⟫ : („ami szilárd”, azaz) jog, törvény, szokás, jellem.
+- Leginkább megfelel a természeti/erkölcsi törvénynek. Mindenki **varṇa** és **āśrama** (életszakasz) szerint saját kötelességeit (**svadharma**) teljesíti.
+- **adharma** m. ⟪अधर्म⟫ : igazságtalanság (**dharma** ellenkezője).
+- **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : kívánni (**iṣ-ccha-ti**).
 
-**Einige Nominalbildungen:** <!-- TODO: Fallback translation -->
+**Egyes névmeghatározások:**
 
-- **vad** 1 P ⟪वद्⟫ : sagen <!-- TODO: Fallback translation -->
-  - **vāda** m. ⟪वाद⟫ : Ausspruch, Aussage, Wort <!-- TODO: Fallback translation -->
-  - **vadana** n. ⟪वदन⟫ : das Sprechen; Sprechwerkzeug: Mund, Gesicht <!-- TODO: Fallback translation -->
+- **vad** 1 P ⟪वद्⟫ : mondani
+- **vāda** m. ⟪वाद⟫ : kijelentés, állítás, szó
+- **vadana** n. ⟪वदन⟫ : beszéd; beszédszerv: száj, arc
 
 ::: media
 ![](/images/lekt1102.webp)
-Abb.: **vadanāni** = ⟪वदनानि⟫
-(Bildquelle: [Details](/licenses#lekt1102)) <!-- TODO: Fallback translation -->
+Ábra: **vadanāni** = ⟪वदनानि⟫
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt1102))
 :::
-- **prach** 6 P ⟪प्रच्छ्⟫ : fragen <!-- TODO: Fallback translation -->
-  - **praśna** m. ⟪प्रश्न⟫ : Frage (Suffix **-na** wie in **yaj-ña**) <!-- TODO: Fallback translation -->
+- **prach** 6 P ⟪प्रच्छ्⟫ : kérdezni
+- **praśna** m. ⟪प्रश्न⟫ : kérdés (Suffix **-na**, mint a **yaj-ña** esetében)
 
-- **iṣ** 6 P ⟪इष्⟫ : wünschen <!-- TODO: Fallback translation -->
-  - **iṣṭi** f. ⟪इष्टि⟫ : Wunsch (**iṣ** + **-ti**) <!-- TODO: Fallback translation -->
+- **iṣ** 6 P ⟪इष्⟫ : kívánni
+- **iṣṭi** f. ⟪इष्टि⟫ : vágy (**iṣ** + **-ti**)
 
-## 11.3. Übung <!-- TODO: Fallback translation -->
+## 11.3. Gyakorlat
 
-**A) Übersetzen Sie untenstehende Sätze:** <!-- TODO: Fallback translation -->
+**A) Fordítsa le az alábbi mondatokat:**
 
-1. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ | <!-- TODO: Fallback translation -->
-2. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ | <!-- TODO: Fallback translation -->
-3. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ | <!-- TODO: Fallback translation -->
-4. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ | <!-- TODO: Fallback translation -->
-5. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ | <!-- TODO: Fallback translation -->
-6. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ | <!-- TODO: Fallback translation -->
-7. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ | <!-- TODO: Fallback translation -->
-8. ⟪क्षत्रियः⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫ <!-- TODO: Fallback translation -->
-9. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ | | <!-- TODO: Fallback translation -->
-10. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ | | <!-- TODO: Fallback translation -->
-11. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ | | <!-- TODO: Fallback translation -->
-12. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ || <!-- TODO: Fallback translation -->
+1. ⟪ऋषिः⟫ ⟪सत्यं⟫ ⟪वदति⟫ |
+2. ⟪ब्राह्मणः⟫ ⟪पुत्रमिच्छति⟫ |
+3. ⟪साधुः⟫ ⟪स्वर्गं⟫ ⟪गच्छति⟫ |
+4. ⟪ब्राह्मणो⟫ ⟪ऽनृतं⟫ ⟪न⟫ ⟪वदतीति⟫ ⟪स्मृतिः⟫ |
+5. ⟪क्षत्रियो⟫ ⟪ब्राह्मणं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ |
+6. ⟪एवं⟫ ⟪ब्राह्मणो⟫ ⟪यज्ञेन⟫ ⟪देवं⟫ ⟪यजति⟫ |
+7. ⟪पुत्रः⟫ ⟪पापं⟫ ⟪करोतीति⟫ ⟪वैश्या⟫ ⟪मन्यते⟫ |
+8. ⟪क्षत्रियः⟫ ⟪क्षत्रियेण⟫ ⟪सह⟫ ⟪युध्यते⟫
+9. ⟪अधर्मो⟫ ⟪ऽनृतमिति⟫ ⟪पुत्रः⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोति⟫ | |
+10. ⟪अयं⟫ ⟪क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ | |
+11. ⟪को⟫ ⟪ऽग्निं⟫ ⟪यजते⟫ | |
+12. ⟪स⟫ ⟪श्रावको⟫ ⟪बुद्धं⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ ||
 
-**B) Setzen Sie die Sätze von A) in Passivkonstruktion.** <!-- TODO: Fallback translation -->
+**B) Alakítsa át az A)-ban szereplő mondatokat passzív szerkezetbe.**
 
-**C) Setzen Sie in den Sätzen A), wo es sinnvoll ist, Subjekt, Objekt und Prädikat in den Plural.** <!-- TODO: Fallback translation -->
+**C) Alakítsa ki a C)-ban szereplő mondatokban, ahol ez indokolt, az alanyt, a tárgyat és az állítmány többes számban.**
 
-**D) Bilden Sie zu den nach C) gebildeten Sätzen die Passivkonstruktion.** <!-- TODO: Fallback translation -->
+**D) Képezze a C)-ban képzett mondatokhoz tartozó passzív szerkezeteket.**
 
 ::: media
 ![](/images/lekt1101.webp)
-Abb.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
-(Bildquelle: [Details](/licenses#lekt1101)) <!-- TODO: Fallback translation -->
+Kép: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
+(Képmegjelenítés forrása: [Details](/hu/licenses#lekt1101))
 :::
 
-## 11.4. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 11.4. Ismétlőgyakorlat
 
-**A) Übersetzen Sie ins Sanskrit mit Passivkonstruktionen:** <!-- TODO: Fallback translation -->
-1. Vaiśyafrauen fragen Brahmanen nach dem Dharma. <!-- TODO: Fallback translation -->
-2. Der Lehrer spricht ein Mantra. <!-- TODO: Fallback translation -->
-3. Heilige Frauen gelangen in einen Himmel. <!-- TODO: Fallback translation -->
-4. Ein vedischer Weiser tut nichts Böses. <!-- TODO: Fallback translation -->
-5. Brahmanen verehren als Opferpriester die Göttin mit Opfern. <!-- TODO: Fallback translation -->
-6. Die Śūdrafrau geht ins Dorf. <!-- TODO: Fallback translation -->
-7. Wer sieht die Wahrheit? <!-- TODO: Fallback translation -->
+**A) Fordítsa szanszkritra passzív szerkezetekkel:**
+1. A vaiśya nők a brahmanákat kérdezik a dharma után.
+2. A tanító egy mantrát mond.
+3. Szent nők eljutnak egy mennybe.
+4. Egy védikus bölcs nem tesz semmi rosszat.
+5. A brahmanák áldozati papokként istennőt tisztelnek áldozatokkal.
+6. A śūdra nő elmegy a faluba.
+7. Ki látja az igazságot?
 
-**B)** <!-- TODO: Fallback translation -->
-1. Geben Sie mit einem Dvandva die Aufgaben aller Zweimalgeborenen an. Lösen Sie das Kompositum in Sanskrit auf. <!-- TODO: Fallback translation -->
-2. Geben Sie mit einem Dvandva die Aufgaben der Vaiśyas an. Lösen Sie das Kompositum in Sanskrit auf. <!-- TODO: Fallback translation -->
+**B)**
+1. Adja meg egy dvandva segítségével a kétszer születettek (dviják) feladatait. Oldja fel a szanszkrit összetételt.
+2. Adja meg egy dvandva segítségével a vaiśyák feladatait. Oldja fel a szanszkrit összetételt.
 
-**C) Übersetzen Sie:** <!-- TODO: Fallback translation -->
+**C) Fordítsa le:**
 
-1. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ | | <!-- TODO: Fallback translation -->
-2. ⟪कर्षर्कैः⟫ ⟪कृष्यते⟫ | | <!-- TODO: Fallback translation -->
-3. ⟪श्रावकेणेश्वरो⟫ ⟪नेज्यते⟫ | | <!-- TODO: Fallback translation -->
-4. ⟪रक्षिक्या⟫ ⟪गुरू⟫ ⟪रक्ष्यते⟫ | | <!-- TODO: Fallback translation -->
-5. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यते⟫ | | <!-- TODO: Fallback translation -->
-6. ⟪शूद्रेतरा⟫ | | <!-- TODO: Fallback translation -->
-7. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ | | <!-- TODO: Fallback translation -->
-8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ || <!-- TODO: Fallback translation -->
+1. ⟪श्रवणेन⟫ ⟪श्रूयते⟫ | |
+2. ⟪कर्षर्कैः⟫ ⟪कृष्यते⟫ | |
+3. ⟪श्रावकेणेश्वरो⟫ ⟪नेज्यते⟫ | |
+4. ⟪रक्षिक्या⟫ ⟪गुरू⟫ ⟪रक्ष्यते⟫ | |
+5. ⟪ब्राह्मणेनानृतं⟫ ⟪नोद्यते⟫ | |
+6. ⟪शूद्रेतरा⟫ | |
+7. ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ | |
+8. ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनीतयो⟫ ⟪विद्याः⟫ ||
 
-**D) Übersetzen Sie und setzen Sie in Sanskrit Agens, Objekt und Verb in den Plural:** <!-- TODO: Fallback translation -->
+**D) Fordítsa le, és tegye többes számúvá a szanszkrit alanyt, tárgyat és igét:**
 
-1. ⟪फलमश्नुते⟫ | | <!-- TODO: Fallback translation -->
-2. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ | | <!-- TODO: Fallback translation -->
-3. ⟪वैश्यः⟫ ⟪पशुं⟫ ⟪लभते⟫ | | <!-- TODO: Fallback translation -->
-4. ⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ || <!-- TODO: Fallback translation -->
+1. ⟪फलमश्नुते⟫ | |
+2. ⟪गुरुणा⟫ ⟪सत्यमुद्यते⟫ | |
+3. ⟪वैश्यः⟫ ⟪पशुं⟫ ⟪लभते⟫ | |
+4. ⟪पुत्रः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ||
 
-**E) Verwandeln Sie die Sätze C) 1-5 in Aktivkonstruktionen.** <!-- TODO: Fallback translation -->
+**E) Alakítsa át a C) 1-5. mondatokat aktív szerkezetekké.**
 
 ::: media
 ![](/images/lekt1103.webp)
-Abb.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
-(Bildquelle: [Details](/licenses#lekt1103)) <!-- TODO: Fallback translation -->
+Ábr.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
+(Képmegjelenítés: [Details](/hu/licenses#lekt1103))
 :::

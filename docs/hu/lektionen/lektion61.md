@@ -1,800 +1,800 @@
 ---
-title: Lektion 61
-subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
+title: 61. lecke
+subtitle: "A -ā, -ī, -ū végződésű gyökfőnevek ragozása"
 next: false
-category: "Grammatik"
+category: "Nyelvtan"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 61 <!-- TODO: Fallback translation -->
+# 61. lecke
 
-## 61.1. Deklination der Wurzelnomina auf -ā, -ī, -ū <!-- TODO: Fallback translation -->
+## 61.1. A -ā, -ī, -ū végződésű gyökfőnevek ragozása
 
-### 61.1.1. Wurzelnomina auf -ā am Ende von ⟪तत्पुरुष⟫ <!-- TODO: Fallback translation -->
+### 61.1.1. -ā végződésű gyökfőnevek a ⟪तत्पुरुष⟫ végén
 
 ::: grammar-box
-**Vor vokalischen Endungen hat der Stammvokal in den schwachen Kasus die Schwundstufe Ø.** <!-- TODO: Fallback translation -->
+**A magánhangzós végződéseknél a tövmagánhangzó a gyenge esetekben az elhagyási fokot (Ø) veszi fel.**
 
-**Die Deklination im Maskulinum und Femininum ist identisch.** <!-- TODO: Fallback translation -->
+**A nemű szerinti ragozás hímnemben és nőnemben azonos.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Ragozási táblázat:
 
-⟪विश्वपा⟫ m.f. "das All beschützend" <!-- TODO: Fallback translation -->
+⟪विश्वपा⟫ m.f. "mindent védő"
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪विश्वपास्⟫ | ⟪विश्वपौ⟫ | ⟪विश्वपास्⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪विश्वपाम्⟫ | ^^ | ⟪विश्वपस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪विश्वपा⟫ | ⟪विश्वपाभ्याम्⟫ | ⟪विश्वपाभस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪विश्वपे⟫ | ^^ | ⟪विश्वपाभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪विश्वपस्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪विश्वपास्⟫ | ⟪विश्वपौ⟫ | ⟪विश्वपास्⟫ |
+| ⟪द्वितीया⟫ | ⟪विश्वपाम्⟫ | ^^ | ⟪विश्वपस्⟫ |
+| ⟪तृतीया⟫ | ⟪विश्वपा⟫ | ⟪विश्वपाभ्याम्⟫ | ⟪विश्वपाभस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪विश्वपे⟫ | ^^ | ⟪विश्वपाभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪विश्वपस्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Wurzelnomina auf -ī <!-- TODO: Fallback translation -->
+### 61.1.2. Női alapszóképzők -ī végződéssel
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.** <!-- TODO: Fallback translation -->
+**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
 
-**Neben den Bildungen mit den regulären Kasusendungen kommen im Dat.Ab.Gen.Lok.sg. und Gen.pl. auch Bildungen nach dem Muster mehrsilbiger Feminina auf -ī (⟪देवी⟫) vor.** <!-- TODO: Fallback translation -->
+**A szabályos esetvégződéseken kívül a Dat.Ab.Gen.Lok.sg. és Gen.pl. alakokban előfordulnak több szótagú, -ī végű nőnemek mintájára képzett alakok is (⟪देवी⟫).**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Ragozás:
 
-⟪धी⟫ f. "Gedanke" <!-- TODO: Fallback translation -->
+⟪धी⟫ f. "gondolat"
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪धीस्⟫ | ⟪धियौ⟫ | ⟪धियस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪धियम्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪धिया⟫ | ⟪धीभ्याम्⟫ | ⟪धीभिस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪धिये⟫ / ⟪धियै⟫ | ^^ | ⟪धीभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪धियस्⟫ / ⟪धिया्स्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪धीस्⟫ | ⟪धियौ⟫ | ⟪धियस्⟫ |
+| ⟪द्वितीया⟫ | ⟪धियम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪धिया⟫ | ⟪धीभ्याम्⟫ | ⟪धीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪धिये⟫ / ⟪धियै⟫ | ^^ | ⟪धीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪धियस्⟫ / ⟪धिया्स्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ |
 
-Unregelmässig: ⟪स्त्री⟫ f. "Frau" <!-- TODO: Fallback translation -->
+Szabálytalan: ⟪स्त्री⟩ f. „nő“
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪स्त्री⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪स्त्रियम्⟫ / ⟪स्त्रीम्⟫ | ^^ | ⟪स्त्रियस्⟫ / ⟪स्त्रीस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪स्त्रिया⟫ | ⟪स्त्रीभ्याम्⟫ | ⟪स्त्रीभिस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪स्त्रियै⟫ | ^^ | ⟪स्त्रीभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪स्त्रियास्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ^^ | ⟪स्त्रियोस्⟫ | ⟪स्त्रीणाम्⟫ | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪स्त्रियाम्⟫ | ^^ | ⟪स्त्रीषु⟫ | <!-- TODO: Fallback translation -->
-| ⟪आमन्त्रितम्⟫ | ⟪स्त्रि⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| ⟪प्रथमा⟫ | ⟪स्त्री⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ |
+| ⟪द्वितीया⟫ | ⟪स्त्रियम्⟫ / ⟪स्त्रीम्⟫ | ^^ | ⟪स्त्रियस्⟫ / ⟪स्त्रीस्⟫ |
+| ⟪तृतीया⟫ | ⟪स्त्रिया⟫ | ⟪स्त्रीभ्याम्⟫ | ⟪स्त्रीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪स्त्रियै⟫ | ^^ | ⟪स्त्रीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪स्त्रियास्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪स्त्रियोस्⟫ | ⟪स्त्रीणाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪स्त्रियाम्⟫ | ^^ | ⟪स्त्रीषु⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪स्त्रि⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ |
 :::
 ::: media
 ![](/images/lekt6102.webp)
-Abb.: ⟪स्त्रियः⟫
-(Bildquelle: [Details](/licenses#lekt6102)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪स्त्रियः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt6102))
 :::
-### 61.1.3. Wurzelnomina auf -ī am Ende von ⟪तत्पुरुष⟫ <!-- TODO: Fallback translation -->
+### 61.1.3. -ī végződésű gyökernomina a ⟪तत्पुरुष⟫ végén
 
 ::: grammar-box
-**Vor vokalischen Endungen wird -ī durch -y ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ī vor vokalischer Endung durch -iy ersetzt.** <!-- TODO: Fallback translation -->
+**Vokális végződés előtt a -ī-t -y-re helyettesítjük, ha csak egy gyökérhez tartozó mássalhangzó előzi meg. Ha több, a gyökérhez tartozó mássalhangzó előzi meg, akkor a -ī-t vokális végződés előtt -iy-re helyettesítjük.**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.** <!-- TODO: Fallback translation -->
+**A nemek szerinti ragozás a hímnem és nőnem esetén azonos.**
 
-**Unregelmässigkeit: Komposita auf -⟪नी⟫ "führend" haben im Lok.sg die Endung -ām (wie ⟪देवी⟫):**
-z.B. ⟪ग्रामणी⟫ "eine Schar/ein Dorf führend": Lok.sg.m.f. ⟪ग्रामण्याम्⟫ <!-- TODO: Fallback translation -->
+**Szabálytalanság: A -⟪नी⟫ "vezető" képzős összetételek lokatív egyes számban -ām végződést kapnak (mint ⟪देवी⟫):**
+pl. ⟪ग्रामणी⟫ "egy csapat/falu vezetője": lokatív egyes szám hímnem/nőnem ⟪ग्रामण्याम्⟫
 :::
-Paradigmen: <!-- TODO: Fallback translation -->
+Paradigmák:
 
-⟪शुद्धधी⟫ m., f. "Reines denkend" <!-- TODO: Fallback translation -->
+⟪शुद्धधी⟫ hímnem, nőnem "tiszta gondolkodású"
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪शुद्धधीस्⟫ | ⟪शुद्धध्यौ⟫ | ⟪शुद्धध्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪शुद्धध्यम्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪शुद्धध्या⟫ | ⟪शुद्धधीभ्याम्⟫ | ⟪शुद्धधीभिस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪शुद्धध्ये⟫ | ^^ | ⟪शुद्धधीभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪शुद्धध्यस्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪शुद्धधीस्⟫ | ⟪शुद्धध्यौ⟫ | ⟪शुद्धध्यस्⟫ |
+| ⟪द्वितीया⟫ | ⟪शुद्धध्यम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪शुद्धध्या⟫ | ⟪शुद्धधीभ्याम्⟫ | ⟪शुद्धधीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪शुद्धध्ये⟫ | ^^ | ⟪शुद्धधीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪शुद्धध्यस्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
+| ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
 
-⟪यवक्री⟫ m., f. "Gerste kaufend" <!-- TODO: Fallback translation -->
+⟪यवक्री⟫ m., f. "Árpát vásárló"
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪यवक्रीस्⟫ | ⟪यवक्रियौ⟫ | ⟪यवक्रियस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪यवक्रियम्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪यवक्रिया⟫ | ⟪यवक्रीभ्याम्⟫ | ⟪यवक्रीभिस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪यवक्रिये⟫ | ^^ | ⟪यवक्रीभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪यवक्रियस्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪यवक्रीस्⟫ | ⟪यवक्रियौ⟫ | ⟪यवक्रियस्⟫ |
+| ⟪द्वितीया⟫ | ⟪यवक्रियम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪यवक्रिया⟫ | ⟪यवक्रीभ्याम्⟫ | ⟪यवक्रीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪यवक्रिये⟫ | ^^ | ⟪यवक्रीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪यवक्रियस्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū <!-- TODO: Fallback translation -->
+### 61.1.4. Egy szótagú, nőnemű tőnévszavak -ū végződéssel
 
 ::: grammar-box
-**Stamm vor Vokal: -uv** <!-- TODO: Fallback translation -->
+**Tőmag magánhangzó előtt: -uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī** <!-- TODO: Fallback translation -->
+**Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
-⟪भू⟫ f. "Erde" <!-- TODO: Fallback translation -->
+⟪भू⟫ f. "Föld"
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪भूस्⟫ | ⟪भुवौ⟫ | ⟪भुवस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪भुवम्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪भुवा⟫ | ⟪भूभ्याम्⟫ | ⟪भूभिस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪भुवे⟫ / ⟪भुवै⟫ | ^^ | ⟪भूभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪भुवस्⟫ / ⟪भुवास्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪भूस्⟫ | ⟪भुवौ⟫ | ⟪भुवस्⟫ |
+| ⟪द्वितीया⟫ | ⟪भुवम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪भुवा⟫ | ⟪भूभ्याम्⟫ | ⟪भूभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪भुवे⟫ / ⟪भुवै⟫ | ^^ | ⟪भूभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪भुवस्⟫ / ⟪भुवास्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. Wurzelnomina auf -ū am Ende von ⟪तत्पुरुष⟫ <!-- TODO: Fallback translation -->
+### 61.1.5. -ū végződésű tőnév a ⟪तत्पुरुष⟫ végén
 
 ::: grammar-box
-**Vor vokalischen Endungen wird -ū durch -v ersetzt, wenn ihm nur ein zur Wurzel gehörender Konsonant vorausgeht. Gehen mehrere zur Wurzel gehörende Konsonanten voraus, wird das -ū vor vokalischer Endung durch -uv ersetzt.** <!-- TODO: Fallback translation -->
+**Vokális végződés előtt a -ū-t -v-vel helyettesítjük, ha csak egy, az ige gyökeréhez tartozó mássalhangzó előzi meg. Ha több, az ige gyökeréhez tartozó mássalhangzó előzi meg, a -ū-t vokális végződés előtt -uv-vel helyettesítjük.**
 
-**Die Deklination ist im Maskulinum und Femininum identisch.** <!-- TODO: Fallback translation -->
+**A ragozás a hímnemben és a nőnemben azonos.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Ragozási táblázat:
 
-⟪खलपू⟫ m., f. "die Scheune kehrend" <!-- TODO: Fallback translation -->
+⟪खलपू⟫ m., f. "a magtárat söprő"
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪खलपूस्⟫ | ⟪खलप्वौ⟫ | ⟪खलप्वस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪खलप्वम्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪खलप्वा⟫ | ⟪खलपूभ्याम्⟫ | ⟪खलपूभिस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪खलप्वे⟫ | ^^ | ⟪खलपूभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪खलप्वस्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ^^ | ⟪खलप्वोस्⟫ | ⟪खलप्वाम्⟫ | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪खलप्वि⟫ | ^^ | ⟪खलपूषु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪खलपूस्⟫ | ⟪खलप्वौ⟫ | ⟪खलप्वस्⟫ |
+| ⟪द्वितीया⟫ | ⟪खलप्वम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪खलप्वा⟫ | ⟪खलपूभ्याम्⟫ | ⟪खलपूभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪खलप्वे⟫ | ^^ | ⟪खलपूभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪खलप्वस्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪खलप्वोस्⟫ | ⟪खलप्वाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪खलप्वि⟫ | ^^ | ⟪खलपूषु⟫ |
 
 ::: media
 ![](/images/lekt6106.webp)
-Abb.: ⟪रथ्याप्वः⟫
+Ábra: ⟪रथ्याप्वः⟫
 ⟪काशीपुर⟫
-(Bildquelle: [Details](/licenses#lekt6106)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt6106))
 :::
-### 61.1.6. Deklination mehrsilbiger Feminina auf -ū <!-- TODO: Fallback translation -->
+### 61.1.6. Több szótagú -ū végű nőnemek deklinációja
 
 ::: grammar-box
-**Mehrsilbige Feminina auf -ū werden analog zu mehrsilbigen Stämmen auf -ī (⟪देवी⟫) dekliniert, sie enden aber im Nom. sg. auf -s.** <!-- TODO: Fallback translation -->
+**A több szótagú -ū végű nőnemeket analógiaként a több szótagú -ī végű tövekhez (⟪देवी⟫) deklináljuk, de az nominativus singularisban -s végződést kapnak.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
-⟪वधू⟫ f. "junge Frau, Braut" <!-- TODO: Fallback translation -->
+⟪वधू⟫ f. "fiatal nő, menyasszony"
 
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪वधूस्⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪वधूम्⟫ | ^^ | ⟪वधूस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪वध्वा⟫ | ⟪वधूभ्याम्⟫ | ⟪वधूभिस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪वध्वै⟫ | ^^ | ⟪वधूभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪वध्वास्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ^^ | ⟪वध्वोस्⟫ | ⟪वधूनाम्⟫ | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪वध्वाम्⟫ | ^^ | ⟪वधूषु⟫ | <!-- TODO: Fallback translation -->
-| ⟪आमन्त्रितम्⟫ | ⟪वधु⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| ⟪प्रथमा⟫ | ⟪वधूस्⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ |
+| ⟪द्वितीया⟫ | ⟪वधूम्⟫ | ^^ | ⟪वधूस्⟫ |
+| ⟪तृतीया⟫ | ⟪वध्वा⟫ | ⟪वधूभ्याम्⟫ | ⟪वधूभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪वध्वै⟫ | ^^ | ⟪वधूभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪वध्वास्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪वध्वोस्⟫ | ⟪वधूनाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪वध्वाम्⟫ | ^^ | ⟪वधूषु⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪वधु⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ |
 
 ::: media
 ![](/images/lekt6107.webp)
-Abb.: ⟪वध्वौ⟫
+Ábra: ⟪वध्वौ⟫
 ⟪जोधपुर⟫
-(Bildquelle: [Details](/licenses#lekt6107)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt6107))
 :::
-## 61.2. Das periphrastische Futur (⟪लुट्⟫) <!-- TODO: Fallback translation -->
+## 61.2. A perifrástikus jövő idő (⟪लुट्⟫)
 
 ::: grammar-box
-**Neben dem einfachen Futur (⟪ऌत्⟫) gibt es ein periphrastisches Futur (⟪लुट्⟫). Nach der Lehre der einheimischen Grammatiker wird es verwendet, um die entfernte Zukunft ("nach dem laufenden Tag") zu bezeichnen, während das einfache Futur die nahe Zukunft ("am laufenden Tag") bezeichnet. Im klassischen Sanskrit scheint meist kein Unterschied im Gebrauch der beiden Futura gemacht zu werden.** <!-- TODO: Fallback translation -->
+**Az egyszerű jövő időn (⟪ऌत्⟫) kívül létezik egy perifrástikus jövő idő (⟪लुट्⟫). A helyi grammatikusok tanítása szerint a perifrástikus jövő időt a távoli jövő ("a következő nap után") jelölésére használják, míg az egyszerű jövő idő a közeli jövőt ("a következő napon") jelöli. A klasszikus szanszkritban úgy tűnik, hogy a két jövő idő használata között általában nincs különbség.**
 
-**Bildung:** <!-- TODO: Fallback translation -->
+**Alakítás:**
 
-**Das periphrastische Futur wird gebildet durch die Verbindung eines nomen agentis auf -tṛ mit dem Präsens von ⟪अस्⟫ 2. Als dritte Person dient das einfache Nomen in der entsprechenden Zahl, ohne Unterscheidung im grammatischen Geschlecht. Bei den Verbindungen mit ⟪अस्⟫ hat das Nomen in allen Personen und Numeri die Form des Nom.sg. auf -tā.** <!-- TODO: Fallback translation -->
+**A perifrástikus jövő idő egy -tṛ végződésű névszó (nomen agentis) és a ⟪अस्⟫ 2 jelen idői alakjának összekapcsolásával képződik. A harmadik személyben a megfelelő számú egyszerű névszó áll, nem tesz különbséget az alanyi nemek között. A ⟪अस्⟫-szal képzett alakoknál a névszó minden személyben és számban -tā végződésű egyes számú alakot ölt.**
 :::
-Die Endungen des periphrastischen Futur lauten also: <!-- TODO: Fallback translation -->
+A perifrástikus jövő idő végződése tehát a következő:
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ ||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1\. ⟪तृतीयः⟫** | \-tāsmi:br(-tā + asmi) | \-tāsvas | \-tāsmas:br(-tā smas) | **\-tāhe** | \-tāsvahe | \-tāsmahe | <!-- TODO: Fallback translation -->
-| **2\. ⟪मध्यमः⟫** | \-tāsi | \-tāsthas | \-tāstha | \-tāse | \-tāsāthe | \-tādhve | <!-- TODO: Fallback translation -->
-| **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1\. ⟪तृतीयः⟫** | \-tāsmi:br(-tā + asmi) | \-tāsvas | \-tāsmas:br(-tā smas) | **\-tāhe** | \-tāsvahe | \-tāsmahe |
+| **2\. ⟪मध्यमः⟫** | \-tāsi | \-tāsthas | \-tāstha | \-tāse | \-tāsāthe | \-tādhve |
+| **3\. ⟪प्रथमः⟫** | \-tā | \-tārau | \-tāras | \-tā | \-tārau | \-tāras |
 :::
 ::: grammar-box
-**Form der Wurzel: Die Wurzel hat im allgemeinen dieselbe Form wie im einfachen Futur. Dasselbe gilt für den Bindevokal -i-.** <!-- TODO: Fallback translation -->
+**A gyök formája: A gyök általában ugyanazt a formát mutatja, mint az egyszerű jövő időben. Ugyanez érvényes a kapcsolómag -i- esetén is.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
-| ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ usw. | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪भू⟫ 1P | ⟪भवितास्मि⟫ ... ⟪भाविता⟫ usw. | <!-- TODO: Fallback translation -->
-| ⟪तुद्⟫ 6U | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ usw. | <!-- TODO: Fallback translation -->
-| ⟪गै⟫ 1P | ⟪गातास्मि⟫ ... ⟪गाता⟫ usw. | <!-- TODO: Fallback translation -->
+| ⟪दा⟫ 3U | ⟪दातास्मि⟫, ⟪दतासि⟫, ⟪दाता⟫ stb. |
+| --- | --- |
+| ⟪भू⟫ 1P | ⟪भवितास्मि⟫ ... ⟪भाविता⟫ stb. |
+| ⟪तुद्⟫ 6U | ⟪तोत्तास्मि⟫ ... ⟪तोत्ता⟫ stb. |
+| ⟪गै⟫ 1P | ⟪गातास्मि⟫ ... ⟪गाता⟫ stb. |
 
-Paradigma: <!-- TODO: Fallback translation -->
+Táblázat:
 
-⟪दा⟫ 3U <!-- TODO: Fallback translation -->
+⟪दा⟫ 3U
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ ||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | sig[⟪दाताहे⟫] | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ | <!-- TODO: Fallback translation -->
-| **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ | <!-- TODO: Fallback translation -->
-| **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | sig[⟪दाताहे⟫] | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
+| **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ |
+| **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
 ::: grammar-box
-**Nur ganz selten wird das Verb ⟪अस्⟫ vom Nominalstamm getrennt.** <!-- TODO: Fallback translation -->
+**Csak rendkívül ritkán válik szét a ⟪अस्⟫ ige a főnévi származéktól.**
 :::
-## 61.3. Das Intensivum (Frequentativum) (⟪चर्करीतम्⟫) <!-- TODO: Fallback translation -->
+## 61.3. Az intenzívum (frequentativum) (⟪चर्करीतम्⟫)
 
 ::: grammar-box
-**Von jeder einsilbigen, konsonantisch anlautenden Wurzel der ersten neun Präsensklassen kan ein Intensivum (⟪चर्करीतम्⟫)  gebildet werden; das heisst: mit wenigen Ausnahmen kann von zweisilbigen Wurzeln (z.B. ⟪जागृ⟫), vokalisch anlautenden Wurzeln und Wurzeln der 10. Präsensklasse (⟪चुरादिगण⟫) kein Intensivum gebildet werden.** <!-- TODO: Fallback translation -->
+**Minden egyes szótagú, mássalhangzóval kezdődő gyökérből az első kilenc jelen időosztályból képezhető intenzívum (⟪चर्करीतम्⟩); ez azt jelenti: kevés kivétellel nem képezhető intenzívum két szótagú gyökökből (pl. ⟪जागृ⟫), magánhangzóval kezdődő gyökökből és a 10. jelen időosztály gyökeiből (⟪चुरादिगण⟫).**
 
-**Das Intensivum bedeutet:** <!-- TODO: Fallback translation -->
+**Az intenzívum jelentése:**
 
-*   **dass eine Person oder Sache immer wieder tut oder erleidet, was durch die Tő ausgedrückt wird**   <!-- TODO: Fallback translation -->
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut immer wieder"  
-    ⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "er ist (wird) oft"   <!-- TODO: Fallback translation -->
+*   **hogy egy személy vagy dolog újra megteszi, vagy elszenvedi azt, amit a gyökér kifejez**
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "mindig újra cselekszik"  
+⟪भू⟫ 1P: ⟪बोभूयते⟫ / ⟪बोभवीति⟫ "gyakran van (válik)"
 
-*   **dass eine Person oder Sache intensiv tut oder erleidet, was durch die Tő ausgedrückt wird:**   <!-- TODO: Fallback translation -->
-    ⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "er tut intensiv, er tut tüchtig"   <!-- TODO: Fallback translation -->
+*   **azt jelenti, hogy egy személy vagy dolog intenzíven cselekszik vagy elszenved valamit, amit a gyökér fejez ki:**
+⟪कृ⟫ 8U: ⟪चेक्रीयते⟫ / ⟪चर्करीति⟫ "intenzíven cselekszik, hatékonyan cselekszik"
 
-*   **bei Tőn, die eine Bewegung ausdrücken, bedeutet das Intensivum die gekrümmte Bewegung:**   <!-- TODO: Fallback translation -->
-    ⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "er geht in Krümmungen" (NICHT: "er geht oft")   <!-- TODO: Fallback translation -->
+*   **mozgást kifejező gyököknél az intensívum a görbült mozgást jelenti:**
+⟪व्रज्⟫ 1P:  ⟪वव्रज्यते⟫ "görbülve halad" (NEM: "gyakran jár")
 
-*   **bei einigen Tőn (Aufzählung: Kielhorn, Grammatik § 458b) bedeutet das Intensivum Tadel:**   <!-- TODO: Fallback translation -->
-    ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "er schneidet schlecht"  
-    ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "er setzt sich schlecht" <!-- TODO: Fallback translation -->
+*   **néhány gyöknél (felsorolás: Kielhorn, Grammatik § 458b) az intensívum elítélést jelent:**
+⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "rosszul vág"  
+⟪सद्⟫ 1P: ⟪सासद्यते⟫ "rosszul ül le"
 :::
 ::: media
 ![](/images/lekt6104.webp)
-Abb.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
+Ábra: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt6104)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt6104))
 :::
 
 ::: grammar-box
-**Bildung des Intensivums:** <!-- TODO: Fallback translation -->
+**Az intensívum képzése:**
 
-**Es gibt zwei Bildungstypen des Intensivums:** <!-- TODO: Fallback translation -->
+**Két típusa van az intenzív képzésnek:**
 
-*   **Ātmanepada-Intensivum** <!-- TODO: Fallback translation -->
-*   **Parasmaipada-Intensivum** <!-- TODO: Fallback translation -->
+*   **Ātmanepada-intenzív**
+*   **Parasmaipada-intenzív**
 
-**Beide werden von der mit starker Reduplikation reduplizierten Wurzel gebildet. Beide unterscheiden sich in der Bedeutung nicht. Beide können zu denselben Wurzeln gebildet werden.** <!-- TODO: Fallback translation -->
+**Mindkettő erős reduplikációval ellátott gyökérből képződik. Jelentésükben nem különböznek. Ugyanazokhoz a gyökökhöz képezhetők.**
 :::
-### 61.3.1. Ātmanepada-Intensivum <!-- TODO: Fallback translation -->
+### 61.3.1. Ātmanepada-intenzív
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Képzés:**
 
-**reduplizierte Wurzel + -ya-** <!-- TODO: Fallback translation -->
+**reduplikált gyökér + -ya-**
 
-**Form der Wurzel: im allgemeinen wie im Passiv, d.h. meist tiefstufig:** <!-- TODO: Fallback translation -->
+**A gyöktő alakja: általában, mint a passzívban, azaz legtöbbször mély fokú:**
 
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 :::
 ::: indent
 ⟪स्वप्⟫ 2P: Pass. ⟪सुप्यते⟫ ; Intens. ⟪सोषुप्यते⟫
-⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫ <!-- TODO: Fallback translation -->
+⟪दा⟫ 3U: Pass. ⟪दीयते⟫ ; Intens. ⟪देदीयते⟫
 :::
-Die Regeln im einzelnen bei Kielhorn, Grammatik § 461. <!-- TODO: Fallback translation -->
+A szabályok részletei Kielhorn, Grammatik § 461.
 
 **Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
-| ⟪दा⟫ 3U | ⟪देदीय⟫- | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪भू⟫ 1P | ⟪बोभूय⟫- | <!-- TODO: Fallback translation -->
-| ⟪कृ⟫ 8U | ⟪चेक्रीय⟫- | <!-- TODO: Fallback translation -->
-| ⟪जीव्⟫ 1P | ⟪जेजीव्य⟫- | <!-- TODO: Fallback translation -->
-| ⟪शास्⟫ 2P | ⟪शेशिष्य⟫- | <!-- TODO: Fallback translation -->
-| ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- | <!-- TODO: Fallback translation -->
+| ⟪दा⟫ 3U | ⟪देदीय⟫- |
+| --- | --- |
+| ⟪भू⟫ 1P | ⟪बोभूय⟫- |
+| ⟪कृ⟫ 8U | ⟪चेक्रीय⟫- |
+| ⟪जीव्⟫ 1P | ⟪जेजीव्य⟫- |
+| ⟪शास्⟫ 2P | ⟪शेशिष्य⟫- |
+| ⟪ज्ञा⟫ 9U | ⟪जाज्ञाय⟫- |
 
 ::: grammar-box
-**Wurzeln der Form -a-Nasal verlängern in der Reduplikationssilbe den Vokal nicht, sondern wiederholen den Nasal.** <!-- TODO: Fallback translation -->
+**Az -a-tagozó alakok gyökei a reduplikációs szótagban nem hosszítják meg az magánhangzót, hanem ismétlik a nazálist.**
 
 :::
 ::: indent
-z.B. ⟪यम्⟫ 1P: ⟪यंयम्य⟫- <!-- TODO: Fallback translation -->
+pl. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 :::
-**Bei einigen Wurzeln tritt zwischen den Vokal der Reduplikationssilbe und den anlautenden Konsonanten der Wurzel -nī- bzw. -rī- (-rī- bei Wurzeln, die im Intensiv ein ṛ enthalten).** <!-- TODO: Fallback translation -->
+**Egyes gyököknél a reduplikációs szótag magánhangzója és a gyök kezdő mássalhangzója között -nī- vagy -rī- (az intensívben ṛ-t tartalmazó gyököknél -rī-) jelenik meg.**
 
 ::: indent
-z.B.
+pl.
 ⟪पत्⟫ 1P: ⟪प⟫sig[⟪नी⟫]⟪पत्य⟫-
-⟪वृत्⟫ 1Ā: ⟪व⟫sig[⟪री⟫]⟪वृत्य⟫- <!-- TODO: Fallback translation -->
+⟪वृत्⟫ 1Ā: ⟪व⟫sig[⟪री⟫]⟪वृत्य⟫-
 :::
 ::: grammar-box
-**Konjugation:** <!-- TODO: Fallback translation -->
+**Konjugáció:**
 
-*   **Jelen idejű tő: wie ein Ātmanepada der 4. Jelen időklasse (⟪दिवादिगण⟫).** <!-- TODO: Fallback translation -->
-*   **Passiv und übrige Tempusstämme: geht dem -ya- des Intensivstammes ein Vokal voraus, so wird das -ya- durch -y- ersetzt, geht dem -ya- ein Konsonant voraus, so entfällt das -ya-:** <!-- TODO: Fallback translation -->
-    *   **Passiv Jelen idő: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫** <!-- TODO: Fallback translation -->
-    *   **Perfekt: periphrastisch:  ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫** <!-- TODO: Fallback translation -->
-    *   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫** <!-- TODO: Fallback translation -->
-    *   **Jövő idő: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫** <!-- TODO: Fallback translation -->
-    *   **periphrastisches Jövő idő: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫** <!-- TODO: Fallback translation -->
+*   **Jelen idejű tő: Ātmanepada a 4. jelen időosztály szerint (⟪दिवादिगण⟫).**
+*   **Passzív és többi igeidőstémák: ha a -ya- előtt magánhangzó áll, akkor a -ya- helyett -y-; ha mássalhangzó előtt áll, akkor a -ya- kiesik:**
+*   **Passzív jelen idő: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+*   **Perfektum: perifrázissal: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+*   **Aoristus: iṣ-aoristus (5. aoristus): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+*   **Jövő idő: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+*   **perifrázisos jövő idő: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
-### 61.3.2. Parasmaipada-Intensivum <!-- TODO: Fallback translation -->
+### 61.3.2. Parasmaipada-intenzívum
 
 ::: grammar-box
-**Präsensstamm (andere Formen sind äusserst selten): Bildung und Konjugation wie ein Verb der 3. Präsensklasse (⟪जुहोत्यादिगण⟫) mit dem Unterschied, dass der Vokal der Reduplikationssilbe hochstufig, bei -a- dehnstufig ist.** <!-- TODO: Fallback translation -->
+**Jelen időstéma (egyéb alakok rendkívül ritkák): képzése és konjugációja mint a 3. jelen időosztályú igéé (⟪जुहोत्यादिगण⟩), azzal a különbséggel, hogy az ismétlő szótag magánhangzója magas fokú, -a esetén nyújtott fokú.**
 
-**Im Singular Indikativ Präsens sowie 2.3.sg. Imperfekt und 3.sg.Imperativ kann zwischen Wurzel und Endung ein -ī- eingeschoben werden. Wird dieses -ī- eingeschoben, darf ein kurzer Vokal an vorletzter Stelle nicht guṇiert werden.** <!-- TODO: Fallback translation -->
+**Egyes szám jelzős jelen időben, valamint 2.3.sg. imperfektumban és 3.sg.imperatívban a gyökér és a végződés közé -ī- illeszthető. Ha ezt a -ī-t beillesztik, akkor az előutolsó helyen álló rövid magánhangzó nem guṇírozható.**
 
-**Bezüglich der Reduplikation mit Nasal sowie der Einschiebung von -nī- bzw. -rī- gilt dasselbe wie für das Ātmanepada-Intensivum. Statt -rī- kann wahlweise -ri- stehen.** <!-- TODO: Fallback translation -->
+**A magánhangzós duplikáció nasalos formáival, valamint a -nī- és -rī- beékelődésével kapcsolatban ugyanaz érvényes, mint az Ātmanepada-intenzívum esetében. A -rī- helyett választható a -ri- is.**
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
-⟪भू⟫ 1P <!-- TODO: Fallback translation -->
+⟪भू⟫ 1P
 
-Indikativ Präsens (⟪लट्⟫): <!-- TODO: Fallback translation -->
+Indikativum jelen idő (⟪लट्⟫):
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
 :::
-Imperfekt (⟪लङ्⟫): <!-- TODO: Fallback translation -->
+Aorist (⟪लङ्⟫):
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
-Imperativ (⟪लोट्⟫): <!-- TODO: Fallback translation -->
+Igazító mód (⟪लोट्⟫):
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
 :::
-Optativ (⟪विधिलिङ्⟫): <!-- TODO: Fallback translation -->
+Kívánsági mód (⟪विधिलिङ्⟫):
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- | --- |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ |
 :::
-## 61.4. Denominativa (⟪नामधातु⟫) <!-- TODO: Fallback translation -->
+## 61.4. Név szerinti igék (⟪नामधातु⟫)
 
-Denominativa (⟪नामधातवः⟫) werden, im Gegensatz zu den bisher behandelten Verben, nicht von einer Verbalwurzel, sondern von einem Nominalstamm gebildet. Dabei gibt es verschiedene Bildungstypen. <!-- TODO: Fallback translation -->
+A név szerinti igék (⟪नामधातवः⟫) képzése eltér a korábban tárgyalt igéktől: nem az igei gyökből, hanem egy névi tőből származnak. Többféle képzési típus létezik.
 
-### 61.4.1. Bildung ohne besonderes Suffix, Parasmaipada <!-- TODO: Fallback translation -->
+### 61.4.1. Alap képző nélküli képzés, Parasmaipada
 
 ::: grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**Jelentés:**
 
 :::
 ::: indent
-**eine Person oder Sache verhält sich so wie das, oder gleicht dem, was vom Nominalstamm bezeichnet wird.** <!-- TODO: Fallback translation -->
+**egy személy vagy dolog úgy viselkedik, mint ami az igeneves tő által jelölt, vagy egyenlő azzal.**
 :::
-**Konjugation:** <!-- TODO: Fallback translation -->
+**Konjugáció:**
 
 ::: indent
-**im Präsensstamm wie ein Verb der 1. Präsensklasse (⟪भ्वादिगण⟫). Hat das Nomen mehl als einen vokal, so wird nur der letzte Vokal wie der Wurzelvokal der 1. Klasse behandelt. Auslautendes -a entfällt vor dem Themavokal. Vokal vor auslautendem Nasal wird durch den entsprechenden Langvokal ersetzt.** <!-- TODO: Fallback translation -->
+**a jelenlegi tőben, mint az 1. jelenlegi osztályba tartozó igék (⟪भ्वादिगण⟫). Ha a név „törekvés” egy magánhangzót tartalmaz, akkor csak az utolsó magánhangzó kezelendő úgy, mint az 1. osztály gyökmagánhangzójáé. A szó végén álló -a kiesik a téma magánhangzó előtt. A szó végi mássalhangzó előtti magánhangzót a megfelelő hosszú magánhangzó helyettesíti.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
-| ⟪कवि⟫ m. "Dichter" | ⟪कवयति⟫ "er verhält sich wie ein Dichter" | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪भू⟫ f. "Erde" | ⟪भवति⟫ "er verhält sich wie die Erde" | <!-- TODO: Fallback translation -->
-| ⟪पितृ⟫ "Vater" | ⟪पितरति⟫ "er verhält sich wie ein Vater" | <!-- TODO: Fallback translation -->
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "er verhält sich wie Kṛṣṇa" | <!-- TODO: Fallback translation -->
-| ⟪माला⟫ f. "Kranz" | ⟪मालाति⟫ "es gleicht einem Kranz" | <!-- TODO: Fallback translation -->
-| ⟪राजन्⟫ m. "König" | ⟪राजानति⟫ "er verhält sich wie ein König" | <!-- TODO: Fallback translation -->
+| ⟪कवि⟫ m. "költő" | ⟪कवयति⟫ "olyan, mint egy költő" |
+| --- | --- |
+| ⟪भू⟫ f. "föld" | ⟪भवति⟫ "olyan, mint a föld" |
+| ⟪पितृ⟫ "atya" | ⟪पितरति⟫ "olyan, mint egy atya" |
+| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णति⟫ "olyan, mint Kṛṣṇa" |
+| ⟪माला⟫ f. "füzér" | ⟪मालाति⟫ "olyan, mint egy füzér" |
+| ⟪राजन्⟫ m. "király" | ⟪राजानति⟫ "olyan, mint egy király" |
 
-### 61.4.2. Bildung mit Suffix -ya, Parasmaipada <!-- TODO: Fallback translation -->
+### 61.4.2. képzés -ya suffixszel, Parasmaipada
 
 ::: grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**Jelentés:**
 
-*   **jemand wünscht sich das, was durch den Nominalstamm bezeichnet wird** <!-- TODO: Fallback translation -->
-*   **jemand behandelt oder betrachtet eine Person oder Sache wie das, was vom Nominalstamm bezeichnet wird** <!-- TODO: Fallback translation -->
+*   **valaki azt kívánja, amit a névi alap jelöl**
+*   **valaki egy személyt vagy dolgot úgy kezel, mint amit a névi alap jelöl**
 
-**Stammbildung:** <!-- TODO: Fallback translation -->
+**Tőalakítás:**
 
 :::
 ::: indent
-**vor dem -ya unterliegt der Auslauts des Nominalstamms folgenden Veränderungen:** <!-- TODO: Fallback translation -->
+**-ya előtt a névtő végződése a következő változásoknak veti alá magát:**
 
-*   **a, ā » ī :** ⟪पुत्र⟫ » ⟪पुत्रीय⟫- <!-- TODO: Fallback translation -->
-*   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫- <!-- TODO: Fallback translation -->
-*   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫- <!-- TODO: Fallback translation -->
-*   **o » av :** ⟪गो⟫ » ⟪गव्य⟫- <!-- TODO: Fallback translation -->
-*   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫- <!-- TODO: Fallback translation -->
-*   **auslautender Nasal fällt ab, davor stehender Vokal wird nach den eben genannten Regeln behandelt:** ⟪राजन्⟫ » ⟪राजीय⟫- <!-- TODO: Fallback translation -->
-*   **andere auslautende Konsonanten bleiben unverändert** <!-- TODO: Fallback translation -->
+*   **a, ā » ī :** ⟪पुत्र⟫ » ⟪पुत्रीय⟫-
+*   **i, u » ī, ū :** ⟪कवि⟫ » ⟪कवीय⟫-
+*   **ṛ » rī :** ⟪कर्तृ⟫ » ⟪कर्त्रीय⟫-
+*   **o » av :** ⟪गो⟫ » ⟪गव्य⟫-
+*   **au » āv :** ⟪नौ⟫ » ⟪नाव्य⟫-
+*   **végződő mássalhangzó kiesik, előtte álló magánhangzót a fenti szabályok szerint kezeljük:** ⟪राजन्⟫ » ⟪राजीय⟫-
+*   **egyéb végződő mássalhangzók változatlanok maradnak**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रीयति⟫ "er wünscht sich einen Sohn" | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪कवि⟫ m. "Dichter" | ⟪कवीयति⟫ "er wünscht sich einen Dichter" | <!-- TODO: Fallback translation -->
-| ⟪गो⟫ f. "Kuh" | ⟪गव्यति⟫ "er wünscht sich eine Kuh" | <!-- TODO: Fallback translation -->
-| ⟪राजन्⟫ m. "König" | ⟪राजीयति⟫ "er wünscht sich einen König" | <!-- TODO: Fallback translation -->
-| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "er behandelt jemanden wie Viṣṇu" | <!-- TODO: Fallback translation -->
-| ⟪प्रासाद⟫ m. "Palast" | ⟪प्रासादीयति⟫ "er sieht (z.B. seine Hütte) für einen Palast an" | <!-- TODO: Fallback translation -->
+| ⟪पुत्र⟫ m. "fiú" | ⟪पुत्रीयति⟫ "ő fiút kíván magának" |
+| --- | --- |
+| ⟪कवि⟫ m. "költő" | ⟪कवीयति⟫ "ő költőt kíván magának" |
+| ⟪गो⟫ f. "tehén" | ⟪गव्यति⟫ "ő tehenet kíván magának" |
+| ⟪राजन्⟫ m. "király" | ⟪राजीयति⟫ "ő királyt kíván magának" |
+| ⟪विष्णु⟫ m. Viṣṇu | ⟪विष्णूयति⟫ "ő valakit Viṣṇuként kezel" |
+| ⟪प्रासाद⟫ m. "palota" | ⟪प्रासादीयति⟫ "ő (pl. kunyhóját) palotának nézi" |
 
-Beachten sie die Bedeutung von: <!-- TODO: Fallback translation -->
+Vegye figyelembe a következő jelentéseket:
 
-| ⟪तपस्⟫ n. "Askese" | ⟪तपस्यति⟫ "er übt Askese" | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪नमस्⟫ n. "Verehrung" | ⟪नमस्यति⟫ "er verehrt" | <!-- TODO: Fallback translation -->
+| ⟪तपस्⟫ n. "aszkézis" | ⟪तपस्यति⟫ "ő aszketikus gyakorlatot végez" |
+| --- | --- |
+| ⟪नमस्⟫ n. "tisztelet" | ⟪नमस्यति⟫ "ő tisztel" |
 
 ::: media
 ![](/images/lekt6105.webp)
-Abb.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
+Ábr.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 ⟪हरिद्वार⟫
-(Bildquelle: [Details](/licenses#lekt6105)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt6105))
 :::
 
 ::: media
 ![](/images/lekt6103.webp)
-Abb.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt6103)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt6103))
 :::
-### 61.4.3. Bildung mit dem Suffix -kāmya, Parasmaipada <!-- TODO: Fallback translation -->
+### 61.4.3. Képzés a -kāmya képzővel, Parasmaipada
 
 ::: grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**Jelentés:**
 
-**jemand wünsch sich das, was durch den Nominalstamm bezeichnet wird** <!-- TODO: Fallback translation -->
+**valaki azt kívánja, amit a névi alap jelöl**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
-| ⟪पुत्र⟫ m. "Sohn" | ⟪पुत्रकाय्म्यति⟫ "er wünscht sich einen Sohn" | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪यशस्⟫ n. "Ruhm" | ⟪यशस्काम्यति⟫ "er wünscht sich Ruhm" | <!-- TODO: Fallback translation -->
+| ⟪पुत्र⟫ m. "fiú" | ⟪पुत्रकाय्म्यति⟫ "ő fiút kíván" |
+| --- | --- |
+| ⟪यशस्⟫ n. "dicsőség" | ⟪यशस्काम्यति⟫ "ő dicsőséget kíván" |
 
 ::: media
 ![](/images/lekt6109.webp)
-Abb.: ⟪यशस्काम्यन्ति⟫
+Ábr.: ⟪यशस्काम्यन्ति⟫
 ⟪मुंबई⟫
-(Bildquelle: [Details](/licenses#lekt6109)) <!-- TODO: Fallback translation -->
+(Képmagyarázat: [Részletek](/hu/licenses#lekt6109))
 :::
-### 61.4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada <!-- TODO: Fallback translation -->
+### 61.4.4. Képzés a -sya vagy -asya képzővel, Parasmaipada
 
 ::: grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**Jelentés:**
 
 :::
 ::: indent
-**jemand verlangt heftig nach dem, was durch den Nominalstamm bezeichnet wird.** <!-- TODO: Fallback translation -->
+**valaki hevesen vágyik a főnévi tő által jelölt dologra.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: grammar-box
-| ⟪मधु⟫ n. "Honig" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "er verlangt heftig nach Honig" | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪अश्व⟫ m. "Hengst" | ⟪अश्वस्यति⟫ "(die Stute) verlangt heftig nach dem Hengst" | <!-- TODO: Fallback translation -->
+| ⟪मधु⟫ n. "méz" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "ő hevesen vágyik a méz után" |
+| --- | --- |
+| ⟪अश्व⟫ m. "kancsalk" | ⟪अश्वस्यति⟫ "(a kanca) hevesen vágyik a kancsalk után" |
 :::
 ::: media
 ![](/images/lekt6110.webp)
-Abb.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
+Ábr.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
 Karli
-(Bildquelle: [Details](/licenses#lekt6110)) <!-- TODO: Fallback translation -->
+(Képmegjelenés: [Részletek](/hu/licenses#lekt6110))
 :::
-### 61.4.5. Bildung mit dem Suffix -ya, Ātmanepada <!-- TODO: Fallback translation -->
+### 61.4.5. Képzés a -ya, Ātmanepada képzővel
 
 ::: grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**Jelentés:**
 
 :::
 ::: indent
-**jemand verhält sich als das, oder gleicht dem, was durch den Nominalstamm bezeichnet wird.** <!-- TODO: Fallback translation -->
+**valaki úgy viselkedik, mint amit a főnévi tő jelöl, vagy azzal egyenlő.**
 :::
-**Bildung:** <!-- TODO: Fallback translation -->
+**Alakítás:**
 
-*   **auslautendes -a » -ā** <!-- TODO: Fallback translation -->
-*   **auslautendes -ā bleibt unverändert** <!-- TODO: Fallback translation -->
-*   **sonst wie vor -ya, Parasmaipada (siehe oben 4.2.)** <!-- TODO: Fallback translation -->
-*   **auslautendes -as wahlweise » -ā** <!-- TODO: Fallback translation -->
-*   **Femininstamm meist » Maskulinstamm** <!-- TODO: Fallback translation -->
+*   **-a végződés » -ā**
+*   **-ā végződés változatlan marad**
+*   **egyéb esetben, mint előtte -ya, Parasmaipada (lásd fent 4.2.)**
+*   **-as végződés választás szerint » -ā**
+*   **Női tő általában » Férfi tő**
 
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
-| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "er verhält sich wie Kṛṣṇa | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪यशस्⟫ 3 "berühmt" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "er verhält sich wie ein Berühmter" | <!-- TODO: Fallback translation -->
-| ⟪कुमारी⟫ f. "Mädchen" | ⟪कुमारायते⟫ "er verhält sich wie ein Mädchen" | <!-- TODO: Fallback translation -->
+| ⟪कृष्ण⟫ m. Kṛṣṇa | ⟪कृष्णायते⟫ "úgy viselkedik, mint Kṛṣṇa |
+| --- | --- |
+| ⟪यशस्⟫ 3 "híres" | ⟪यशायते⟫ ⟪।⟫ ⟪यशस्यते⟫ "úgy viselkedik, mint egy híres ember" |
+| ⟪कुमारी⟫ f. "lány" | ⟪कुमारायते⟫ "úgy viselkedik, mint egy lány" |
 
 ::: grammar-box
-**Bei einigen Nominalstämmen bedeutet dieses Suffix: etwas wird wie das, oder wird zu dem, was durch den Nominalstamm bezeichnet wird:** <!-- TODO: Fallback translation -->
+**Egyes főnémi tövek esetén ez a képző azt jelenti: valami olyanná válik, mint amire a főnémi töv utal, vagy az lesz, amit a főnévi tő jelöl:**
 
 :::
 ::: indent
-z.B. ⟪उन्मनस्⟫ 3 "erregt": ⟪उन्मनायते⟫ "er wird erregt" <!-- TODO: Fallback translation -->
+pl. ⟪उन्मनस्⟫ 3 "kelt": ⟪उन्मनायते⟫ "felgerjed"
 :::
-**In einigen Fällen werden mit diesem Suffix Verben in anderen Bedeutungen gebildet:** <!-- TODO: Fallback translation -->
+**Egyes esetekben ezzel a képzővel más jelentésű igéket képeznek:**
 
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
-⟪दुःख⟫ n. "Leid" : ⟪दुःखायते⟫ "er empfindet Leid"
-⟪शब्द⟫ m. "Laut" : ⟪शब्दायते⟫ "er gibt einen Ton von sich" <!-- TODO: Fallback translation -->
+⟪दुःख⟫ n. "szenvedés" : ⟪दुःखायते⟫ "ő szenvedést érez"
+⟪शब्द⟫ m. "hang" : ⟪शब्दायते⟫ "hangot ad ki"
 :::
 ::: media
 ![](/images/lekt6111.webp)
-Abb.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
-(Bildquelle: [Details](/licenses#lekt6111)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt6111))
 :::
-### 61.4.6. Bildung mit dem Suffix -aya, -āpaya <!-- TODO: Fallback translation -->
+### 61.4.6. Képzés a -aya, -āpaya képzővel
 
 ::: grammar-box
-**Verschiedene Bedeutungen.** <!-- TODO: Fallback translation -->
+**Különböző jelentések.**
 
-**Konjugiert wie Kausativa.** <!-- TODO: Fallback translation -->
+**Konjugálva mint a kausatívmód.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
-| ⟪सत्य⟫ 3 "wahr" | ⟪स्तयपायति⟫ "er erklärt für wahr" | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ⟪मुण्ड⟫ 3 "kahlgeschoren" | ⟪मुण्डयति⟫ "er schert kahl" | <!-- TODO: Fallback translation -->
+| ⟪सत्य⟫ 3 "igaz" | ⟪स्तयपायति⟫ "ő igaznak nyilvánítja" |
+| --- | --- |
+| ⟪मुण्ड⟫ 3 "kopaszra nyírt" | ⟪मुण्डयति⟫ "ő kopaszra nyírja" |
 
 ::: media
 ![](/images/lekt6113.webp)
-Abb.: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
-Thailand - เมืองไทย
-(Bildquelle: [Details](/licenses#lekt6113)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
+Thaiföld - เมืองไทย
+(Képmegjelenés: [Részletek](/hu/licenses#lekt6113))
 :::
-Eine Liste von Denominative z.B. in: <!-- TODO: Fallback translation -->
+Egy felsorolás a denominatívumokról például itt:
 
 ::: media
 ![](/images/lekt6112.jpg)
-Abb.:
-1845 - 1878 Professor der indisch-orientalischen Philologie an der Universität Kopenhagen
-(Bildquelle: [Details](/licenses#lekt6112)) <!-- TODO: Fallback translation -->
+Ábra:
+1845 - 1878 az indiai-orientális filológia professzora a Koppenhágai Egyetemen
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt6112))
 :::
 
 ::: indent
-**Westergaard**, Niels Ludvig \<1815-1878\>: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341. <!-- TODO: Fallback translation -->
+**Westergaard**, Niels Ludvig \&lt;1815-1878\&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
 :::
-## 61.5. Der Benediktiv (⟪आशीर्लिङ्⟫) <!-- TODO: Fallback translation -->
+## 61.5. A benediktív (⟪आशीर्लिङ्⟫)
 
 ::: grammar-box
-**Bedeutung:** <!-- TODO: Fallback translation -->
+**Jelentés:**
 
 :::
 ::: indent
-**Segenswunsch** <!-- TODO: Fallback translation -->
+**Áldáskívánság**
 :::
-**Bildung:** <!-- TODO: Fallback translation -->
+**Alakítás:**
 
-**Parasmaipada:** <!-- TODO: Fallback translation -->
+**Parasmaipada:**
 
-**tiefstufige Wurzel + yās + Sekundärendung** <!-- TODO: Fallback translation -->
+**mély fokú gyökér + yās + szekunder végződés**
 
 ::: indent
-z.B. ⟪बुध्यासम्⟫ "möge ich erkennen!" <!-- TODO: Fallback translation -->
+pl. ⟪बुध्यासम्⟫ "hadd ismerje meg!"
 :::
-**Ātmanepada:** <!-- TODO: Fallback translation -->
+**Ātmanepada:**
 
-**(meist) hochstufige Wurzel + sī(y) + Sekundärendung** <!-- TODO: Fallback translation -->
+**(általában) magas fokú gyökér + sī(y) + szekunder végződés**
 
-**oder:** <!-- TODO: Fallback translation -->
+**vagy:**
 
-**(hochstufige) Wurzel + ⟪ै⟫ + sī(y) + Sekundäraendung** <!-- TODO: Fallback translation -->
+**(magas szintű) gyökér + ⟪ै⟫ + sī(y) + szekunder végződés**
 
 ::: indent
-z.B.
-⟪जि⟫ : ⟪जेषीय⟫ "möge ich im eigenen Interesse siegen!"
-⟪बुध्⟫ : ⟪बोधिषीय⟫ "möge ich erkennen" <!-- TODO: Fallback translation -->
+pl.
+⟪जि⟫ : ⟪जेषीय⟫ "hogy legyőzzem saját érdeklődésemre!"
+⟪बुध्⟫ : ⟪बोधिषीय⟫ "hogy felismerjem"
 :::
-**Die Regeln zur Form der Wurzel im Einzelnen bei Kielhorn, Grammatik § 380ff.** <!-- TODO: Fallback translation -->
+**A gyökér alakjára vonatkozó szabályok részletesen Kielhorn, Grammatik § 380ff.**
 
-Paradigma: <!-- TODO: Fallback translation -->
+Paradigma:
 
-⟪बुध्⟫ "erwachen" <!-- TODO: Fallback translation -->
+⟪बुध्⟫ "felébredni"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ ||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ | <!-- TODO: Fallback translation -->
-| **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3\. ⟪प्रथमः⟫** | sig[⟪बुध्यात्⟫] | ⟪बुध्यास्ताम्⟫ | sig[⟪बुध्यासुर्⟫] | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ |
+| **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ |
+| **3\. ⟪प्रथमः⟫** | sig[⟪बुध्यात्⟫] | ⟪बुध्यास्ताम्⟫ | sig[⟪बुध्यासुर्⟫] | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
 :::
 ::: media
 ![](/images/lekt6114.webp)
-Abb.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
-Santa Cruz Basilica, Kochi = കൊച്ചി
-(Bildquelle: [Details](/licenses#lekt6114)) <!-- TODO: Fallback translation -->
+Kép: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
+Santa Cruz Bazilika, Kochi = കൊച്ചി
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt6114))
 :::
-## 61.6. Der Konditionalis (⟪ऌङ्⟫) <!-- TODO: Fallback translation -->
+## 61.6. A kondicionális (⟪ऌङ्⟫)
 
 ::: grammar-box
-**Der Konditionalis (⟪ऌङ्⟫) wird verwendet, wenn man in Bedingungssätzen ausdrücken will, dass das, was als Bedingung genannt wird, nicht der Fall ist / gewesen ist / sein wird. Der Konditionalis muss bei solchen Sätzen sowohl im Bedingungssatz wie im Hauptsatz verwendet werden.** <!-- TODO: Fallback translation -->
+**A kondicionális (⟪ऌङ्⟫) akkor használatos, ha feltételes mondatokban azt akarjuk kifejezni, hogy az adott feltétel nem áll fenn / nem állt fenn / nem fog állni. Ilyen mondatokban a kondicionális mindkét ágon, azaz a feltételmondatban és a főmondatban is használandó.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: indent
-⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Wenn es gut geregnet hätte (oder regnen würde), würde es trreichlich Nahrung geben. (Es hat aber nicht (genügend) geregnet.)" <!-- TODO: Fallback translation -->
+⟪सुवृष्टिश्चेदभविष्यत्सुभिक्षमभविष्यत्⟫ "Ha jól esett volna az eső (vagy ha esne), bőséges élelem lenne. (De nem esett eleget.)"
 :::
 ::: grammar-box
-**Bildung des Konditionalis (⟪ऌङ्⟫):** <!-- TODO: Fallback translation -->
+**A kondicionális (⟪ऌङ्⟫) képzése:**
 
-**Augment + Stamm des einfachen Futur (⟪ऌत्⟫) + Sekundärendung** <!-- TODO: Fallback translation -->
+**Augment + aoriststam (⟪ऌत्⟫) + másodlagos végződés**
 
-d.h. wie ein Imperfekt (⟪लङ्⟫) zum Futurstamm. <!-- TODO: Fallback translation -->
+azaz úgy, mint egy aoriststamhoz tartozó imperfectum (⟪लङ्⟫).
 
-z.B. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫ <!-- TODO: Fallback translation -->
+pl. ⟪अदास्यम्⟫ ; ⟪अभविष्यम्⟫ ; ⟪अतोत्स्यम्⟫
 :::
-Paradigma: <!-- TODO: Fallback translation -->
+Ragozási táblázat:
 
-⟪भू⟫ "sein, werden" <!-- TODO: Fallback translation -->
+⟪भू⟫ "lenni, válni"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ ||| <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1\. ⟪तृतीयः⟫** | ⟪अभविष्यम्⟫ | ⟪अभविष्याव⟫ | ⟪अभविष्याम⟫ | ⟪अभविष्ये⟫ | ⟪अभविष्यावहि⟫ | ⟪अभविष्यामहि⟫ | <!-- TODO: Fallback translation -->
-| **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
+| :--- | :---: | :---: | :---: | :---: | :---: | :---: |
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪अभविष्यम्⟫ | ⟪अभविष्याव⟫ | ⟪अभविष्याम⟫ | ⟪अभविष्ये⟫ | ⟪अभविष्यावहि⟫ | ⟪अभविष्यामहि⟫ |
+| **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
+| **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
 :::
-## 61.7. Deklination der Nomina auf -ai, -o, -au <!-- TODO: Fallback translation -->
+## 61.7. A -ai, -o, -au végződésű főnevek deklinációja
 
 ::: grammar-box
-**Vor Konsonant lauten diese Stämme auf -ai, -o, -au; vor Konsonant auf -āy, -av, -āv** <!-- TODO: Fallback translation -->
+**Mássalhangzó előtt ezek a tövek -ai, -o, -au végződésűek; mássalhangzó előtt pedig -āy, -av, -āv**
 
-**⟪गो⟫ m.f. "Ochse, Kuh" hat Stammabstufung.** Siehe die Erklärung im Einzelnen bei Thumb-Hauschild § 296/7. <!-- TODO: Fallback translation -->
+**⟪गो⟩ m.f. "bika, tehén" szabatossági fokozást mutat.** Lásd a részletes magyarázatot Thumb-Hauschild § 296/7.
 :::
-Paradigmen: Kielhorn, Grammatik § 153: <!-- TODO: Fallback translation -->
+Paradigmák: Kielhorn, Grammatik § 153:
 
 ::: media
 ![](/images/lekt6115.webp)
-(Bildquelle: [Details](/licenses#lekt6115)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt6115))
 :::
 
 ::: media
 ![](/images/lekt6118.webp)
-Abb.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
-(Bildquelle: [Details](/licenses#lekt6118)) <!-- TODO: Fallback translation -->
+Ábra: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt6118))
 :::
-## 61.8. Restliche Pronomina <!-- TODO: Fallback translation -->
+## 61.8. További névmások
 
-### 61.8.1. Personalpronomen des Dual <!-- TODO: Fallback translation -->
+### 61.8.1. Kétes számú személyes névmások
 
-Kielhorn, Grammatik § 177: <!-- TODO: Fallback translation -->
+Kielhorn, Grammatik § 177:
 
 ::: media
 ![](/images/lekt6116.jpg)
-(Bildquelle: [Details](/licenses#lekt6116)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt6116))
 :::
 
 ::: media
 ![](/images/lekt6117.webp)
-Abb.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
-Apatani-Volk, Arunachal Pradesh
-(Bildquelle: [Details](/licenses#lekt6117)) <!-- TODO: Fallback translation -->
+Kép: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
+Apatani nép, Arunachal Pradesh
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt6117))
 :::
-### 61.8.2. Demonstrativpronomen ⟪अदस्⟫ "jener (entfernte)" <!-- TODO: Fallback translation -->
+### 61.8.2. Mutató névmás ⟪अदस्⟩ "az a (távolabbi)"
 
-Maskulinum (⟪पुंस्⟫) <!-- TODO: Fallback translation -->
+Nemek szerinti ragozás (⟪पुंस्⟫)
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमी⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪अमुम्⟫ | ^^ | ⟪अमून्⟫ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमीभिस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪अमुष्मै⟫ | ^^ | ⟪अमीभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪अमुष्मात्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| :--- | :---: | :---: | :---: |
+| ⟪प्रथमा⟫ | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमी⟫ |
+| ⟪द्वितीया⟫ | ⟪अमुम्⟫ | ^^ | ⟪अमून्⟫ |
+| ⟪तृतीया⟫ | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪अमुष्मै⟫ | ^^ | ⟪अमीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪अमुष्मात्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
 :::
-Neutrum (⟪नपुंसक⟫) <!-- TODO: Fallback translation -->
+Neutrum (⟪नपुंसक⟫)
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ^^ | ^^ | ^^ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| :--- | :---: | :---: | :---: |
+| ⟪प्रथमा⟫ | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
+| ⟪द्वितीया⟫ | ^^ | ^^ | ^^ |
 
-Rest wie Maskulinum <!-- TODO: Fallback translation -->
+Mint a hímnem
 
 :::
-Femininum (⟪स्त्री⟫) <!-- TODO: Fallback translation -->
+Nőnem (⟪स्त्री⟫)
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमूस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪अमूम्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमूभिस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪अमुष्यै⟫ | ^^ | ⟪अमूभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪अमुष्यास्⟫ | ^^ | ^^ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| :--- | :---: | :---: | :---: |
+| ⟪प्रथमा⟫ | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमूस्⟫ |
+| ⟪द्वितीया⟫ | ⟪अमूम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमूभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪अमुष्यै⟫ | ^^ | ⟪अमूभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪अमुष्यास्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ <!-- TODO: Fallback translation -->
+## 61.9. Bocsátás a szanszkrit irodalom óceánjába: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
-Nach dem Abschluss des Sanskritkurses beginnt erst das eigentliche "Schwimmen" im Ozean der Sanskritliteratur. Da dieser Ozean voller Hindernisse ist, ist es angemessen, diesen neuen Lebensabschnitt mit einer Anrufung Gaṇeśas zu beginnen: <!-- TODO: Fallback translation -->
+A szanszkit kurzus befejezése után kezdődik meg igazán a „úszás” a szanszkrit irodalom óceánjában. Mivel ez az óceán tele van akadályokkal, megfelelő ezt az új életszakaszt Gaṇeśa megkeresésével kezdeni:
 
 ::: media
 ![](/images/lekt6101.webp)
-Abb.: ⟪श्रीगणनाथः⟫
-Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr.
-(Bildquelle: [Details](/licenses#lekt6101)) <!-- TODO: Fallback translation -->
+Kép: ⟪श्रीगणनाथः⟫
+Halebidu (ಹಳೆಬೀಡು), 12./13. század e. Kr. után
+(Képmegjelenítés: [Details](/hu/licenses#lekt6101))
 :::
 
 ::: no-header
-|   |   | <!-- TODO: Fallback translation -->
-| --- | --- | <!-- TODO: Fallback translation -->
-| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ | <!-- TODO: Fallback translation -->
+|   |   |
+| --- | --- |
+| ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
-ಶ್ರೀಗಣನಾಥ / sig[⟪श्रीगणनाथ⟫] von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564) <!-- TODO: Fallback translation -->
+ಶ್ರೀಗಣನಾಥ / sig[⟪श्रीगणनाथ⟫] Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
-Komponist und Dichter: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564) <!-- TODO: Fallback translation -->
+Zenész és költő: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
-Rāga: Malahari (zu ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை): <!-- TODO: Fallback translation -->
+Rāga: Malahari (a ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை)
 
-*   ārohaṇa: s r1 m1 p d1 S <!-- TODO: Fallback translation -->
+*   ārohaṇa: s r1 m1 p d1 S
 
-*   avarohaṇa: S d1 p m1 g3 r1 s <!-- TODO: Fallback translation -->
+*   avarohaṇa: S d1 p m1 g3 r1 s
 
-Tāla: Rūpaka: o |4 <!-- TODO: Fallback translation -->
+Tāla: Rūpaka: o |4
 
 ::: media
 ![](/images/lekt6119.webp)
-Abb.: Melodie, auf c bezogen, kann je nach Stimmlage transponiert werden.
-(Bildquelle: [Details](/licenses#lekt6119)) <!-- TODO: Fallback translation -->
+Ábra: A dallam, c-re vonatkoztatva, a hangterjedelettől függően transzponálható.
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ steht am Beginn des Unterrichts in kannaresischer Musik. Siehe das Video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Zugriff am 2009-03-05  <!-- TODO: Fallback translation -->
+ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ a kannarai zenei oktatás kezdetén áll. Lásd a videót: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Hozzáférés: 2009-03-05
 
-Nachdem Sie jetzt die Grundlagen des Sanskrit gelernt haben, sind Sie hoffentlich wie die Kleinkinder im Video: manchmal ungeschickt, aber lern- und wissensbegierig und mit Freude bei der Sache. Behalten Sie bis an Ihr Lebensende "a beginner's mind". <!-- TODO: Fallback translation -->
+Mivel most megismerte a szanszkrit alapjait, remélhetőleg olyanok, mint a videóban szereplő kisgyermekek: néha ügyetlenek, de tanulni és tudni vágyók, valamint örömmel végzik a feladatot. Megőrizve „kezdők gondolkodását” egész életük során.
 
 ::: center
-Das wünscht Ihnen Ihr Alois Payer <!-- TODO: Fallback translation -->
+Ezt kívánja Önnek Alois Payer
 
-Ofterdingen, 2009-03-09 <!-- TODO: Fallback translation -->
+Ofterdingen, 2009-03-09
 
-sig[⟪ॐ⟫] <!-- TODO: Fallback translation -->
+sig[⟪ॐ⟫]
 
-ENDE DES SANSKRITKURSES <!-- TODO: Fallback translation -->
+A SZANSKRIT KURUS VÉGE
 :::
 
 ::: deleteme-box
 
-**lekt6102:** [Bildquelle: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Zugriff am 2009-03-06. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6102:** [Képmegjelenítés forrása: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2241690863/](http://www.flickr.com/photos/worldbank/2241690863/). -- Hozzáférés: 2009-03-06. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevezz meg, nem kereskedelmi felhasználás, nincs átdolgozás)]
 
-**lekt6106:** ⟪काशीपुर⟫ [Bildquelle: Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)]] <!-- TODO: Fallback translation -->
+**lekt6106:** ⟪काशीपुर⟫ [Képmegjelenítés forrása: Sumit. -- [http://www.flickr.com/photos/sumit/107861850/](http://www.flickr.com/photos/sumit/107861850/). -- Hozzáférés: 2009-03-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevezz meg, nem kereskedelmi felhasználás, share alike)]
 
-**lekt6107:** ⟪जोधपुर⟫ [Bildquelle: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt6107:** ⟪जोधपुर⟫ [Képmegjelenítés forrása: thebigdurian. -- [http://www.flickr.com/photos/thebigdurian/2200364164/](http://www.flickr.com/photos/thebigdurian/2200364164/). -- Hozzáférés: 2009-03-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevezz meg, nem kereskedelmi felhasználás, share alike)]
 
-**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [Bildquelle: Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Zugriff am 2009-03-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6104:** Karnataka = ಕರ್ನಾಟಕ [Képmegjelenítés forrása: Jessica Rabbit's Flickr. -- [http://www.flickr.com/photos/jessicarabbit/179116811/](http://www.flickr.com/photos/jessicarabbit/179116811/). -- Hozzáférés: 2009-03-08. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevezz meg, nem kereskedelmi felhasználás, nincs átdolgozás)]
 
-**lekt6105:** ⟪हरिद्वार⟫ [Bildquelle: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Zugriff am 2009-03-08. --  [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt6105:** ⟪हरिद्वार⟫ [Képmegjelenítés forrása: Naresh Dhiman. -- [http://www.flickr.com/photos/nareshdhiman/311832594/](http://www.flickr.com/photos/nareshdhiman/311832594/). -- Hozzáférés: 2009-03-08. -- [Creative Commons licenc](http://creativecommons.org/licenses/by/2.0/deed.de) (Nevegyék meg)]
 
-**lekt6103:** [Bildquelle: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Zugriff am 2009-03-08. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt6103:** [Képmegjelenítés forrása: frisse82. -- [http://www.flickr.com/photos/frisse82/496195924/](http://www.flickr.com/photos/frisse82/496195924/). -- Hozzáférés: 2009-03-08. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Nevegyék meg, nem kereskedelmi célra)]
 
-**lekt6109:** ⟪मुंबई⟫ [Bildquelle: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6109:** ⟪मुंबई⟫ [Képmegjelenítés forrása: FrogStarB. -- [http://www.flickr.com/photos/wormtongue/237776303/](http://www.flickr.com/photos/wormtongue/237776303/). --- Hozzáférés: 2009-03-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevegyék meg, nem kereskedelmi célra, nincs módosítás)]
 
-**lekt6110:** Karli [Bildquelle: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6110:** Karli [Képmegjelenítés forrása: Makwa. -- [http://www.flickr.com/photos/makwa/140499307/](http://www.flickr.com/photos/makwa/140499307/). -- Hozzáférés: 2009-03-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevegyék meg, nem kereskedelmi célra, nincs módosítás)]
 
-**lekt6111:** [Bildquelle: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt6111:** [Képmegjelenítés forrása: technicolorcavalry. -- [http://www.flickr.com/photos/technicolorcavalry/155364212/](http://www.flickr.com/photos/technicolorcavalry/155364212/). -- Hozzáférés: 2009-03-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Nevesítés, share alike)]
 
-**lekt6113:** Thailand - เมืองไทย [Bildquelle: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt6113:** Thaiföld - เมืองไทย [Képmegjelenítés forrása: Sailing "Footprints: Real to Reel" (Ronn ashore). -- [http://www.flickr.com/photos/12392252@N03/2505961590/](http://www.flickr.com/photos/12392252@N03/2505961590/). -- Hozzáférés: 2009-03-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, nincs átdolgozás)]
 
-**lekt6112:** 1845 - 1878 Professor der indisch-orientalischen Philologie an der Universität Kopenhagen <!-- TODO: Fallback translation -->
+**lekt6112:** 1845 - 1878 az indiai-orientális filológia professzora a Koppenhágai Egyetemen
 
-**lekt6114:** Santa Cruz Basilica, Kochi = കൊച്ചി [Bildquelle: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt6114:** Santa Cruz Bazilika, Kochi = കൊച്ചി [Képmegjelenítés forrása: monsieur paradis. -- [http://www.flickr.com/photos/zacharyparadis/3189670791/](http://www.flickr.com/photos/zacharyparadis/3189670791/). -- Hozzáférés: 2009-03-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás)]
 
-**lekt6118:** [Bildquelle: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt6118:** [Képmegjelenítés forrása: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2086490984/](http://www.flickr.com/photos/mckaysavage/2086490984/). -- Hozzáférés: 2009-03-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by/2.0/deed.de) (Nevesítés)]
 
-**lekt6117:** Apatani-Volk, Arunachal Pradesh [Bildquelle: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Zugriff am 2009-03-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt6117:** Apatani nép, Arunachal Pradesh [Képmegjelenítés forrása: ahinsajain. -- [http://www.flickr.com/photos/ahinsajain/3165501187/](http://www.flickr.com/photos/ahinsajain/3165501187/). -- Hozzáférés: 2009-03-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by/2.0/deed.de) (Nevesítés)]
 
-**lekt6101:** Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr. [Bildquelle: Quadell / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt6101:** Halebidu (ಹಳೆಬೀಡು), 12./13. század e. Kr. után [Képmegjelenítés forrása: Quadell / Wikipedia. GNU FDLicense]
 
 :::

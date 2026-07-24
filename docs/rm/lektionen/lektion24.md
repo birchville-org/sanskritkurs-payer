@@ -120,7 +120,7 @@ Ulteriuras utilisaziuns dal dativ pli tard.
 
 ::: grammar-box
 
-| | Maskulinum / Neutrum | Femininum |
+| | Masculin / Neutrum | Feminin |
 | :--- | :--- | :--- |
 | **Dativ Singular** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
 | **Dativ Plural** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
@@ -132,9 +132,9 @@ Ulteriuras utilisaziuns dal dativ pli tard.
 
 | | | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Dat. sg.** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
+| **Masculin / Neutrum** | **Dat. sg.** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
 | | **Dat. pl.** | ⟪तेभ्यस्⟫ | ⟪एतेभ्यस्⟫ | ⟪एभ्यस्⟫ |
-| **Femininum** | **Dat. sg.** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
+| **Feminin** | **Dat. sg.** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
 | | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
@@ -240,7 +240,7 @@ davon
 ::: media
 ![](/images/lekt2407.webp)
 Abb.: ⟪ऊहापोहः⟫
-"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderegescha ina discussiun da panel al summit economic da l'India dal Forum Economic Mundial 2008 a New Delhi."
+"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, mniegescha ina discussiun da panel al summit economic da l'India dal Forum Economic Mundial 2008 a New Delhi."
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt2407))
 :::
 ⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : util
@@ -419,7 +419,7 @@ Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोत
 
 **lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [fonte da imàgina: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- consultà il 2008-12-14. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala)]
 
-**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi." [Bildquelle: World Economic Forum / Photo by Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, share alike)]
+**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, mniates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi." [Bildquelle: World Economic Forum / Photo by Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, share alike)]
 
 **lekt2408:** «Il narratôr da istorgias Jeff Byers da San Francisco preschenta ina istorgia als abitants da Chenneri, in vitg Irula. Il narratôr da istorgias Jeeva Raghunath traduscha en tamil per ils abitants dal vitg.» [Sursa d’imagia: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Access il 2008-12-14. -- Licenza Creative Commons (attribuziun, nagina utilisaziun comerciala)]
 

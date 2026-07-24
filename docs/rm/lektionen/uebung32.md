@@ -98,7 +98,7 @@ Ina giada existiva in prinzi, el aveva tut las qualitads desiderablas, da bella 
 
 ⟪२⟫. **⟪ब्राह्मणो⟫ ⟪महानगरे⟫ ⟪ऽवसत्⟫ ⟪।⟫ ⟪स⟫ ⟪पुत्रमागमय्यावक्⟫ ⟪।⟫ ⟪ब्राह्मणपुत्रो⟫ ⟪वेदं⟫ ⟪गुरावधीयीतेति⟫ ⟪॥२॥⟫**
 (⟪ब्राह्मणस्य⟫ ⟪पुत्रः⟫ ⟪।⟫ ⟪गुरोः⟫ ⟪गृहे⟫)
-Ina citadella gronda ha in brahman vivì. El ha fatg vegnir sias uffants e ha ditg: «In uffant da brahman duai studiar il Veda apud in maister.» Cun quellas paraulas è l'uffant ì ad in maister per studiar. El ha entrà en la chasa dal maister e sa preschentà cun respect avant il maister. Il maister ha dumandà davart il brahman. Alura ha el dà a quel uffant da mangiar.
+Ina citada la gronda ha in brahman vivì. El ha fatg vegnir sias uffants e ha ditg: «In uffant da brahman duai studiar il Veda apud in maister.» Cun quellas paraulas è l'uffant ì ad in maister per studiar. El ha entrà en la chasa dal maister e sa preschentà cun respect avant il maister. Il maister ha dumandà davart il brahman. Alura ha el dà a quel uffant da mangiar.
 
 ⟪३⟫. **⟪राम⟫ ⟪आचर्यमुपसंगम्य⟫ ⟪वचनमब्रवीत्⟫ ⟪॥३॥⟫**
 Rama è ì al magister e ha ditg (las paraulas).

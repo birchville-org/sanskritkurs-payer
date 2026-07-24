@@ -180,7 +180,7 @@ A) Formai tut ils casus fin uss aprendids per las suandantas paraulas sco exempe
 | 3. Instr. | ⟪गुणवता⟫ | ⟪गुणवद्भिस्⟫ (⟪गुणवद्भिः⟫) |
 | 6. Gen. | ⟪गुणवतस्⟫ (⟪गुणवतः⟫) | ⟪गुण्वताम्⟫ |
 
-(Femininum **⟪गुणवती⟫** declinescha sco **⟪देवी⟫**)
+(Feminin **⟪गुणवती⟫** declinescha sco **⟪देवी⟫**)
 
 ⟪१०⟫. **⟪किम्⟫** (m./n./f.)
 

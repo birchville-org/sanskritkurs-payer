@@ -39,7 +39,7 @@ Quel ch'è daventà l'Absolut e la cui anima è schiarida, quest na dolia betg e
 On di ch'in'acziun bain fatga dat ina buna fruita.
 
 ⟪१०⟫. **⟪महीभोगो⟫ ⟪राज्ञां⟫ ⟪धर्मः⟫ ⟪॥⟫ ⟪१०⟫ ⟪॥⟫** (⟪राजन्⟫ — ⟪षष्ठी⟫ ⟪बहुवचन⟫)
-Il goder dal mund è il deber dals regins.
+Il gni dal mund è il deber dals regins.
 
 ⟪११⟫. **⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫ ⟪दीयेरन्⟫ ⟪॥⟫ ⟪११⟫ ⟪॥⟫** (⟪बलिन्⟫, ⟪हस्तिन्⟫)
 Forts elefants dovra il regein.

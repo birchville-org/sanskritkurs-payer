@@ -56,7 +56,7 @@ Per -dhvam vala:
 z.B. ***⟪चि⟫*** 5U: 2.pl.Ā ***⟪अचेढ्वम्⟫***
 :::
 ::: grammar-box
-**Form der Wurzel:**
+**Form der Radis:**
 
 *   **⟪परस्मैपद⟫ : Stadi da distensiun**
 *   **⟪आत्मनेपद⟫ :**
@@ -94,7 +94,7 @@ Exemples:
 ::: indent
 ⟪दृश्⟫ 3.sg.P ⟪अ⟫***⟪द्राक्षी⟫***⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Radisn mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***⟪क्राक्षी⟫***⟪त्⟫
@@ -130,7 +130,7 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अतौत्सम्⟫ | ⟪अतौत्स्म⟫ | ⟪अतुत्सि⟫ | ⟪अतुत्स्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अतौत्सीस्⟫ | ⟪अतौत्त⟫:braus: a-taut + s + ta | ⟪अतुत्थास्⟫ | ⟪अतुद्ध्वम्⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अतौत्सीस्⟫ | ⟪अतौत्त⟫:brda: a-taut + s + ta | ⟪अतुत्थास्⟫ | ⟪अतुद्ध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अतौत्सीत्⟫ | ⟪अतौत्सुर्⟫ | ⟪अतुत्त⟫ | ⟪अतुत्सत⟫ |
 
 ::: grammar-box

@@ -1,6 +1,6 @@
 ---
 title: Lektion 3
-subtitle: "Den Nominativ Singular des Femininums"
+subtitle: "Den Nominativ Singular des Feminins"
 lesson_id: 3
 last_reconstructed: 2026-05-07
 category: "Grammatik"
@@ -39,12 +39,12 @@ Il nominativ singular vegn format senza desinentza:
 **Attenziun!** Ultra quai existeschan nouns radicals femenins monosillabics su -ī, il qual cas nominativ singular finischa cun -s: per exempl dhī f. "pensament" -- Nom. sg.: dhīs = ⟪धीस्⟫. Era lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "navet" e tantrī (⟪तन्त्री⟫) f. "chorda" furman irregularmain il cas nominativ singular cun -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
-## 3.2. Furmaiziun dals feminins als mascuins
+## 3.2. Furmaziun dals feminins als mascuins
 
 ::: grammar-box
 **Maskulina su -a:**
-- **Femininum su -ā**: p.ex. **kṣatriya** m. » **kṣatriyā** f. "femna da Kṣatriya" = ⟪क्षत्रिया⟫
-- **Femininum su -ī**: p.ex. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ⟪ब्राह्मणी⟫
+- **Feminin su -ā**: p.ex. **kṣatriya** m. » **kṣatriyā** f. "femna da Kṣatriya" = ⟪क्षत्रिया⟫
+- **Feminin su -ī**: p.ex. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ⟪ब्राह्मणी⟫
 
 **Maschilins cun finala -u:**
 - **Feminin cun finala -ī**: per exempels **sādhu** m. » **sādhvī** f. (bon, sàint) = ⟪साध्वी⟫
@@ -78,7 +78,7 @@ e.g.
 
 devatā + annapūrṇā » devatānnapūrṇā «Annapūrṇa è ina dea» = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā è la dea del nutrimento e della cucina, considerata un'incarnazione di Pārvatī, consorte di Śiva.)
+> (Annapūrṇā è la dea del nutrimento e da la cucina, considerata un'incarnazione di Pārvatī, consorte di Śiva.)
 
 devī + indrāṇī » devīndrāṇī "Indrāṇī è ina deessa" = ⟪देवीन्द्राणी⟫
 

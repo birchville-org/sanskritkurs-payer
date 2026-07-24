@@ -134,7 +134,7 @@ I suns dal Sanskrit segun la classificaziun indiana tradicionala ed lur translit
 ![](/images/lekt0106.webp)
 (Fontana da l'imagina: [Detagls](/rm/licenses#lekt0106))
 :::
-Dizionaris moderns dal sanscrit èn ordenads en la sequenza da questa classificaziun. Questa classificaziun e la sequenza dals sons èn indispensablas per capir la gramatica dal sanscrit e dastgan perquai esser savidas a memoria:
+Dizionaris mnins dal sanscrit èn ordenads en la sequenza da questa classificaziun. Questa classificaziun e la sequenza dals sons èn indispensablas per capir la gramatica dal sanscrit e dastgan perquai esser savidas a memoria:
 
 ::: note-box
 Classificaziun

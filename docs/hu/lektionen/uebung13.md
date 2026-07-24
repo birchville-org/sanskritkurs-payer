@@ -1,0 +1,279 @@
+---
+title: "[Gyakorlat 13]"
+uebung_id: 13
+category: "Übung"
+last_reconstructed: 2026-05-15
+---
+
+
+
+
+# Gyakorlat 13
+
+A) Fordítsa le, és alakítsa át aktív jelen időre:
+
+⟪१⟫. ⟪अग्निना⟫ ⟪गृहं⟫ ⟪दग्धम्⟫ ⟪।⟫
+Egy tűz felégetett egy házat.
+⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
+
+⟪२⟫. ⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫
+Buddha felébredt az igazsághoz. Buddha megismerte az igazságot.
+⟪बुद्धः⟫ ⟪सत्यं⟫ ⟪बुध्यते⟫ / ⟪बोधति⟫ ⟪।⟫
+
+⟪३⟫. ⟪बोध्या⟫ ⟪गौतमो⟫ ⟪मुक्तः⟫ ⟪।⟫
+A megértés megszabadította Gautamát. Megszabadult Gautama a megértés által.
+⟪बोधिर्गौतमं⟫ ⟪मुञ्चति⟫ ⟪।⟫
+
+⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 lehetőség)
+A śūdrák / a śūdrafélék elvakultak.
+⟪शूद्रा⟫ ⟪मुह्यन्ति⟫ ⟪।⟫
+
+⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
+A bráhmana megszabadulást kívánt.
+⟪ब्राह्मणो⟫ ⟪मोक्षमिच्छति⟫ ⟪।⟫
+
+⟪६⟫. ⟪रामेण⟫ ⟪पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
+Rāma tat ein verdienstvolles Werk. Rāma tat Verdienstliches.
+⟪रामः⟫ ⟪पुण्यं⟫ ⟪करोति⟫ ⟪।⟫
+
+⟪७⟫. ⟪ऋषिभिः⟫ ⟪सत्यमेवोदितमित्युदितम्⟫ ⟪।⟫
+Azt mondják, hogy a védikus bölcsek csak az igazságot mondták.
+⟪ऋषयः⟫ ⟪सत्यमेव⟫ ⟪वदन्तीति⟫ ⟪वदन्ति⟫ ⟪।⟫
+
+⟪८⟫. ⟪धर्मेण⟫ ⟪स्वर्गं⟫ ⟪नीतम्⟫ ⟪।⟫
+A dharma egy mennybe vezetett.
+⟪धर्मः⟫ ⟪स्वर्गं⟫ ⟪नयति⟫ ⟪।⟫
+
+⟪९⟫. ⟪साधुनाधर्मो⟫ ⟪न⟫ ⟪कृतम्⟫ ⟪।⟫
+Egy szent nem követett el semmi helytelenet.
+⟪साधुरधर्मं⟫ ⟪न⟫ ⟪करोति⟫ ⟪।⟫
+
+⟪१०⟫. ⟪मन्त्रेण⟫ ⟪मोक्षो⟫ ⟪लब्धः⟫ ⟪।⟫
+A mantra segítségével megszerezte a megszabadulást.
+⟪मन्त्रेण⟫ ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
+
+⟪११⟫. ⟪कया⟫ ⟪रक्षिकयेयं⟫ ⟪बाला⟫ ⟪रक्षिता⟫ ⟪॥⟫
+Milyen amulett védett meg ezt a kislányt?
+⟪का⟫ ⟪रक्षिका⟫ ⟪बालां⟫ ⟪रक्षति⟫ ⟪॥⟫
+
+B) Fordítsa le, és alakítsa át múlt időre a passzív mondatokat
+
+⟪१⟫. ⟪राम⟫ ⟪इष्टमपि⟫ ⟪मोक्षं⟫ ⟪न⟫ ⟪लभते⟫ ⟪।⟫
+Bár Rāma megszabadulást kíván, nem szerzi meg azt.
+⟪रामेणेष्टो⟫ ⟪ऽपि⟫ ⟪मोक्षो⟫ ⟪न⟫ ⟪लब्धः⟫ ⟪।⟫
+
+⟪२⟫. ⟪योज्ञो⟫ ⟪न⟫ ⟪मुञ्चति⟫ ⟪।⟫
+Az áldozat nem szabadítja meg.
+⟪यज्ञेन⟫ ⟪न⟫ ⟪मुक्तः⟫ ⟪।⟫
+
+⟪३⟫. ⟪साधवो⟫ ⟪देवान्स्मरन्ति⟫ ⟪।⟫
+A szentek megidézik az isteneket.
+⟪साधुभिर्देवाः⟫ ⟪स्मृताः⟫ ⟪।⟫
+
+⟪४⟫. ⟪पुण्यवान्पुत्रो⟫ ⟪देवान्यजते⟫ ⟪।⟫
+Az erényes fiú áldozatot mutat be az isteneknek.
+⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪देवा⟫ ⟪इष्टाः⟫ ⟪।⟫
+
+⟪५⟫. ⟪सुखवान्क्षत्रियो⟫ ⟪धर्मं⟫ ⟪रक्षति⟫ ⟪।⟫
+A boldog kṣatriya őrködik a dharma felett.
+⟪सुखवता⟫ ⟪क्षत्रियेण⟫ ⟪धर्मो⟫ ⟪रक्षितः⟫ ⟪।⟫
+
+⟪६⟫. ⟪पुत्रवान्नरकं⟫ ⟪न⟫ ⟪गच्छति⟫ ⟪।⟫
+Aki fiakat nemz, az nem jut a pokolba.
+⟪पुत्रवान्न्रकं⟫ ⟪न⟫ ⟪गतः⟫ ⟪।⟫
+
+⟪७⟫. ⟪धर्मवती⟫ ⟪पापं⟫ ⟪न⟫ ⟪करोतीति⟫ ⟪गुरुर्वदति⟫ ⟪।⟫
+A mester azt mondja, hogy egy jámbor asszony nem követ el semmi rosszat.
+⟪धर्मवत्या⟫ ⟪पापं⟫ ⟪न⟫ ⟪कृतमिति⟫ ⟪गुरुणोदितम्⟫ ⟪।⟫
+
+⟪८⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्यवतो⟫ ⟪धर्मं⟫ ⟪प्र्च्छन्ति⟫ ⟪।⟫
+A megértők kérdezik a dharma felett azokat, akik birtokolják az igazságot.
+⟪बुद्धिमद्भिः⟫ ⟪सत्यवन्तो⟫ ⟪धर्मं⟫ ⟪पृष्टाः⟫ ⟪।⟫
+
+⟪९⟫. ⟪धर्मवन्तः⟫ ⟪फलवत्पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫
+A vallásos emberek erényes cselekedeteket hajtanak végre, amelyek gyümölcsöt teremnek.
+⟪धर्मवद्भिः⟫ ⟪फलवत्पुण्यं⟫ ⟪कृतम्⟫ ⟪।⟫
+
+⟪१०⟫. ⟪ब्राह्मणा⟫ ⟪गुणवतः⟫ ⟪पुत्रानिच्छन्ति⟫ ⟪।⟫
+A bráhmanák kiváló fiakat kívánnak.
+⟪ब्राह्मणैर्गुणवन्तः⟫ ⟪पुत्रा⟫ ⟪इष्टाः⟫ ⟪।⟫
+
+⟪११⟫. ⟪कयृग्वेदं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
+Milyen férfiak hallgatják a Ṛgvédát?
+⟪कैरृग्वेदः⟫ ⟪श्रुतः⟫ ⟪।⟫
+
+⟪१२⟫. ⟪किमीश्वरः⟫ ⟪सृजति⟫ ⟪।⟫
+Mit teremt a FŐÚR?
+⟪किमीश्वरेण⟫ ⟪सृष्टम्⟫ ⟪।⟫
+
+⟪१३⟫. ⟪साधुः⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सहते⟫ ⟪।⟫
+Egy szent elviseli a számára okozott rosszat.
+⟪साधुना⟫ ⟪कृतं⟫ ⟪पापं⟫ ⟪सोढम्⟫ ⟪।⟫
+
+
+⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
+Az alacsonyabb rendűek úgy vélik, hogy a uralkodók gazdagságot kívánnak.
+⟪पार्थिवेन⟫ ⟪धनमिष्टमिति⟫ ⟪नीचैर्मतम्⟫ ⟪।⟫
+
+⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
+A védikus bölcsek látják, hogy a démon egyáltalán nem győz.
+⟪नैवासुरेण⟫ ⟪जितमित्यृषिभिर्दृष्टम्⟫ ⟪।⟫
+
+⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
+Mit esznek és isznak a bráhmanák?
+⟪ब्राह्मणैः⟫ ⟪किं⟫ ⟪पीतं⟫ ⟪खादितं⟫ ⟪च⟫ ⟪॥⟫
+
+::: media
+![](/images/uebung019.webp)
+Ábr.: ⟪अग्निर्गृहं⟫ ⟪दहति⟫ ⟪।⟫
+(Képmegjelölés: [Részletek](/licenses#uebung019))
+:::
+---
+
+## További gyakorlatok
+
+A) Fordítsa le a következő mondatokat.
+
+B) Alakítsa ki az A) gyakorlatban szereplő mondatokat passzívba
+
+C) Alakítsa ki az A) gyakorlatban szereplő mondatokhoz PPP-konstrukciót
+
+⟪१⟫. ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ ⟪।⟫
+Rāma geht auf dem Weg ins Dorf.
+⟪रामेण⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫ ⟪।⟫ ⟪रामो⟫ ⟪मार्गेण⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ ⟪रामेण⟫ ⟪मार्गो⟫ ⟪ग्रामं⟫ ⟪गतम्⟫ ⟪।⟫
+
+⟪२⟫. ⟪नरा⟫ ⟪धनेन⟫ ⟪सुखमिच्छन्ति⟫ ⟪।⟫
+Az emberek boldogságot kívánnak a gazdagság révén.
+⟪नरैर्धनेन⟫ ⟪सुखमिष्यते⟫ ⟪।⟫ ⟪सुखमिष्टम्⟫ ⟪।⟫
+
+⟪३⟫. ⟪नरः⟫ ⟪पुत्रेण⟫ ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫
+Az ember a fiával együtt megy a városba.
+⟪नरेण⟫ ⟪पुत्रेण⟫ (⟪सह⟫) ⟪नगरं⟫ ⟪पद्यते⟫ ⟪।⟫ ⟪नरः⟫ ⟪पुत्रेण⟫ (⟪सह⟫) ⟪नगरं⟫ ⟪पन्नः⟫ ⟪।⟫
+
+⟪४⟫. ⟪देवो⟫ ⟪लोकान्सृजति⟫ ⟪।⟫
+Az Isten megteremti a világokat.
+⟪देवेन⟫ ⟪लोकाः⟫ ⟪सृज्यन्ते⟫ ⟪।⟫ ⟪सृष्टाः⟫ ⟪।⟫
+
+⟪५⟫. ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫
+A lány vizet iszik.
+⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫ ⟪पीतम्⟫ ⟪।⟫
+
+⟪६⟫. ⟪कवयो⟫ ⟪धनं⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫
+A költők vágyakoznak a gazdagság után.
+⟪कविबिर्धनं⟫ ⟪लुभ्यते⟫ ⟪।⟫ ⟪लुब्धम्⟫ ⟪।⟫
+
+⟪७⟫. ⟪बलवान्क्षत्रियः⟫ ⟪शूद्राञ्जयति⟫ ⟪।⟫
+A hatalmas kṣatriya legyőzi a śūdrákat.
+⟪बल्वता⟫ ⟪क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जीयन्ते⟫ ⟪।⟫ ⟪जिताः⟫ ⟪।⟫
+
+⟪८⟫. ⟪गुणवान्द्विष्टमपि⟫ ⟪शत्रुं⟫ ⟪न⟫ ⟪युध्यते⟫ ⟪।⟫
+A nemeslelkű ember nem harcol ellenségével, még akkor sem, ha ez utóbbi gyűlöletes számára.
+⟪गुणवता⟫ ⟪द्विष्तो⟫ ⟪ऽपि⟫ ⟪शत्रुर्न⟫ ⟪युध्यते⟫ ⟪।⟫ ⟪युद्धः⟫ ⟪।⟫
+
+⟪९⟫. ⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिर्वदति⟫ ⟪।⟫
+A védikus bölcs azt mondja, hogy a harag, gyűlölet és kapzsiság igazságtalan.
+⟪अधर्मः⟫ ⟪क्रोधश्च⟫ ⟪द्वेषश्च⟫ ⟪लोभश्चेत्यृषिणोद्यते⟫ ⟪।⟫ ⟪लोभश्चेत्यृषिणोदितम्⟫ ⟪।⟫
+
+⟪१०⟫. ⟪बाला⟫ ⟪अन्नेन⟫ ⟪बलमाप्नुवन्ति⟫ ⟪।⟫
+A fiúkat az étel erősíti.
+⟪बालैरन्नेन⟫ ⟪बलमाप्यते⟫ ⟪।⟫ ⟪बालाभिरन्नेन⟫ ⟪बलमाप्यते⟫ ⟪।⟫ ⟪बलमाप्तम्⟫ ⟪।⟫
+
+⟪११⟫. ⟪बुद्धिमन्तः⟫ ⟪सत्य⟫en ⟪मोक्षं⟫ ⟪लभन्ते⟫ ⟪।⟫
+Az eszes emberek az igazság révén elérik a megszabadulást.
+⟪बुद्धिमद्भिः⟫ ⟪सत्येन⟫ ⟪मोक्षो⟫ ⟪लभ्यते⟫ ⟪।⟫ ⟪लब्धः⟫ ⟪।⟫
+
+⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
+Ezek a szent nők elviselik a rosszat.
+⟪इमाभिः⟫ ⟪साध्वीभिः⟫ ⟪पापं⟫ ⟪सह्यते⟫ ⟪।⟫ ⟪सोढम्⟫ ⟪।⟫
+
+⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
+Melyik istenséget látja a ṛṣi?
+⟪का⟫ ⟪देवतर्षिना⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪दृष्टा⟫ ⟪।⟫
+
+⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
+Melyik isteneknek áldoznak a bráhmanák, kṣatriyák és vaiśyák?
+⟪के⟫ ⟪देवा⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिज्यन्ते⟫ ⟪।⟫ ⟪ब्राह्मणक्षत्रियवैश्यैरिष्टाः⟫ ⟪॥⟫
+
+D) Mely hangkapcsolatokból eredhettek a következő szandhi-formák? Adja meg az összes lehetőséget:
+
+1. -a magánhangzó előtt (kivéve a-): -as
+2. -ā- : -a + -a/-ā -ā + a-/ā-
+3. -ā magánhangzó előtt: -ās
+4. -ā hangzottas mássalhangzók előtt: -ās
+5. -ī-: -i + i-/ī-, -ī + i-/-ī
+6. -ū-: -u/-ū + u-/ū-
+7. -ṝ-: -ṛ/-ṝ + ṛ-/ṝ-
+8. -e-: -a/-ā + i-/ī-
+9. -e avagraha előtt: -e + a-
+10. -o-: -a/-ā + u-/ū-
+11. -o avagraha előtt: -o
+12. -o hangzottas mássalhangzók előtt: -as
+13. -ai-: -a/-ā + e-/ai-
+14. -au-: -a/-ā + e-/ai-
+15. -y magánhangzó előtt: -i/-ī
+16. -v magánhangzó előtt: -u/-ū
+17. -r magánhangzó előtt: -ṛ/-ṝ
+18. -ay magánhangzó előtt: -e
+19. -av magánhangzó előtt: -o
+20. -ar-: -a/-ā + ṛ-/ṝ-
+21. -ir magánhangzó előtt vagy hangzottas mássalhangzónál: -is
+22. -īr magánhangzó előtt vagy hangzottas mássalhangzónál: -īs
+23. -ur magánhangzó előtt vagy hangzottas mássalhangzónál: -us
+24. -ūr magánhangzó előtt vagy hangzottas mássalhangzónál: -ūs
+25. -er magánhangzó előtt vagy hangzottas mássalhangzónál: -es
+26. -or magánhangzó előtt vagy hangzottas mássalhangzónál: -os
+27. -air magánhangzó előtt vagy hangzottas mássalhangzónál: -ais
+28. -aur magánhangzó előtt vagy hangzottas mássalhangzónál: -aus
+29. -ñj-: -n + j-
+30. -ñś-: -n + ś
+31. -ñch-: -n + ch-
+32. -ṇḍ(h)-: -n + ḍ(h)-
+33. -śc-: -s + c-
+34. -ṣṭ-: -s + t-
+35. -st(h)-: -s + t(h)-
+36. Anusvara mássalhangzó előtt: -m
+37. -ṃśc-: -n + c-
+38. -ṃṣṭ-: -n + ṭ-
+39. -mst-: -n + t-
+
+
+E) Fordítsa le szanszkritra:
+
+1. Az istennő felháborodott.
+⟪देवी⟫ ⟪कुपिता⟫ ⟪।⟫ ⟪देव्या⟫ ⟪कुपितम्⟫
+
+2. A śūdrák egy mennyországba jutottak.
+⟪शूद्रैः⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ ⟪।⟫ ⟪स्वर्गो⟫ ⟪ऽष्टः⟫ ⟪।⟫
+
+3. A parasztok elmentek az úton.
+⟪कर्षकैर्मार्गो⟫ ⟪गतः⟫ ⟪।⟫ ⟪कर्षका⟫ ⟪मार्गं⟫ ⟪गताः⟫ ⟪।⟫
+
+4. A buddhista tanítás által a népet megszabadították.
+⟪धर्मेण⟫ ⟪जना⟫ ⟪मुक्ताः⟫ ⟪।⟫
+
+5. A fiú táncolt.
+⟪पुत्रेण⟫ ⟪नृत्तम्⟫ ⟪।⟫
+
+6. Az amulett megvédte a tanárt.
+⟪रक्षिकया⟫ ⟪गुरू⟫ ⟪रक्षितः⟫ ⟪।⟫
+
+7. Egy bráhmana nem mondott hazugságot.
+⟪ब्राह्मणेनानृतं⟫ ⟪नोदितम्⟫ ⟪।⟫
+
+8. A śūdra nők áldozatokkal tisztelték az istennőt.
+⟪शूद्राभिर्देवीष्टा⟫ ⟪।⟫
+
+9. Buddha felébredt az igazsághoz = Buddha megismerte az igazságot.
+⟪बुद्धेन⟫ ⟪सत्यं⟫ ⟪बुद्धम्⟫ ⟪।⟫ ⟪बुद्धः⟫ ⟪सत्यं⟫ ⟪बुद्धः⟫ ⟪।⟫
+
+10. A védikus bölcsek meghallgatták a Srútikat.
+⟪ऋषिभिः⟫ ⟪श्रुतिः⟫ ⟪श्रुता⟫ ⟪।⟫
+
+11. A szertartási papok kinyomták a Szómát.
+⟪यजकैः⟫ ⟪सोमः⟫ ⟪सुतः⟫ ⟪॥⟫
+
+::: media
+![](/images/uebung018.webp)
+Ábr.: ⟪बाला⟫ ⟪जलं⟫ ⟪पिबति⟫ ⟪।⟫ ⟪बालया⟫ ⟪जलं⟫ ⟪पीयते⟫ ⟪।⟫
+(Képmegjelenítés: [Részletek](/licenses#uebung018))
+:::

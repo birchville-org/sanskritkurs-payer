@@ -352,7 +352,7 @@ Verben, die diesem Typ folgen:
 
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
 :::
-## 40.3. Furmaiziun dals verbs da la emprima persuna dal perfet perifrastich (⟪अनुप्रयोगलिट्⟫)
+## 40.3. Furmaziun dals verbs da la emprima persuna dal perfet perifrastich (⟪अनुप्रयोगलिट्⟫)
 
 Il perfettu perifrastic vegn format da:
 
@@ -384,7 +384,7 @@ Il perfettu perifrastic vegn format da:
 ## 40.4. Sintactic davon la emprima persuna (⟪तृतीयः⟫)
 
 ::: grammar-box
-Perche inna frase cun verb finit (verb conjugà) vegn l'agent (⟪कर्तृ⟫) expressà, na vegn il «jau», «nus» en frasa verbalas activas cun verb finit betg necessari da exprimer cun in pronom persunal.
+Perche inna frasa cun verb finit (verb conjugà) vegn l'agent (⟪कर्तृ⟫) expressà, na vegn il «jau», «nus» en frasa verbalas activas cun verb finit betg necessari da exprimer cun in pronom persunal.
 :::
 ## 40.5. Pronoms personals (⟪पुरुषार्थकसर्वनाम⟫) da la emprima persuna singulara e plurala
 

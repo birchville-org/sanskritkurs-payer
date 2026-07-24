@@ -1,297 +1,297 @@
 ---
-title: Lektion 8
-subtitle: "Bildung von Nomina & 8. Präsensklasse"
+title: 8. lecke
+subtitle: "Főnevek képzése és a 8. jelen időosztály"
 lesson_id: 8
-category: "Grammatik"
-status: "stable"
+category: "Nyelvtan"
+status: "stabilis"
 last_reconstructed: 2026-05-07
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 8 <!-- TODO: Fallback translation -->
+# 8. lecke
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Die Képzés von Nomina (kṛt- und taddhita-Suffixe) <!-- TODO: Fallback translation -->
-- Wichtige Nominalsuffixe (-a, -ana, -tra, -ti, -tva, -tā) <!-- TODO: Fallback translation -->
-- Die 8. Jelen időklasse (tanādi) <!-- TODO: Fallback translation -->
-- Die Konjugation von **kṛ** (tun, machen) <!-- TODO: Fallback translation -->
+**Ebben a leckében megtanulja:**
+- A főnevek képzése (kṛt- és taddhita-suffixumok)
+- Fontos főnévi suffixumok (-a, -ana, -tra, -ti, -tva, -tā)
+- A 8. jelen időosztály (tanādi)
+- A **kṛ** ragozása (tun, csinálni)
 :::
 
-## 8.1. Zur Bildung von Nomina <!-- TODO: Fallback translation -->
+## 8.1. A főnevek képzéséről
 
-In der traditionellen indischen Grammatik unterscheidet man bei den Suffixen, mit denen Nominalstämme gebildet werden: <!-- TODO: Fallback translation -->
+A hagyományos indiai nyelvtanban a névmástörzsek képzésére szolgáló toldalékok között megkülönböztetünk:
 
-- **kṛt-Suffixe (⟪कृत्⟫) (Primärsuffixe):** bilden aus Verbalwurzeln (**dhātu** m. = ⟪धातु⟫) und Verbalstämmen Nominalstämme, Absolutiva und Infinitive. <!-- TODO: Fallback translation -->
-- **taddhita-Suffixe (⟪तद्धित⟫) (Sekundärsuffixe):** treten an Nominalstämme und Indeklinabilia und bilden neue Nominalstämme bzw. Indeklinabilia. <!-- TODO: Fallback translation -->
+- **kṛt-toldalékok (⟪कृत्⟫) (elsődleges toldalékok):** igegyökökből (**dhātu** m. = ⟪धातु⟫) és igatörzsekből képeznek névmástörzseket, abszolútumokat és infinitívusokat.
+- **taddhita-toldalékok (⟪तद्धित⟫) (másodlagos toldalékok):** névmástörzsekhez és változatlan szavakhoz (indeklinábilis) kapcsolódnak, és új névmástörzseket vagy változatlan szavakat képeznek.
 
 ::: grammar-box
-**Schema:**
-**Wurzel + kṛt-Suffix » Nominalstamm usw. + taddhita-Suffix » neuer Nominalstamm usw.** <!-- TODO: Fallback translation -->
+**Séma:**
+**Gyökér + kṛt-toldalék » névmástörzs stb. + taddhita-toldalék » új névmástörzs stb.**
 
-**Nominalstamm + Kasusendung » syntaxfähiges Nomen** <!-- TODO: Fallback translation -->
+**Névmástörzs + esetvégződés » szintaktikailag használható névszó**
 :::
 
-## 8.2. Einteilung der Nominalsuffixe <!-- TODO: Fallback translation -->
+## 8.2. A névszóképzők osztályozása
 
-- **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)** <!-- TODO: Fallback translation -->
-  - **kārakakṛt** (⟪कारककृत्⟫) » nomina agentis (bezeichnen jemanden, der das durch die Tő Bezeichnete tut) <!-- TODO: Fallback translation -->
-  - **kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (bezeichnen die durch die Tő ausgedrückte Handlung) bzw. Abstrakta <!-- TODO: Fallback translation -->
+- **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
+- **kārakakṛt** (⟪कारककृत्⟫) » névszóképzők az elkövetőre (olyan személyt jelölnek, aki a gyökér által kifejezett cselekvést végzi)
+- **kṛtikṛt** (⟪कृतिकृत्⟫) » névszóképzők a cselekvésre (a gyökér által kifejezett cselekvést jelölik) illetve absztraktumok
 
-- **taddhita** <!-- TODO: Fallback translation -->
-  - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » Adjektive <!-- TODO: Fallback translation -->
-  - **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » Abstrakta <!-- TODO: Fallback translation -->
-  - **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » besitzanzeigend (z.B. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫) <!-- TODO: Fallback translation -->
-  - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » Steigerung (Komparativ, Superlativ), Vergleich <!-- TODO: Fallback translation -->
-  - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » Ordinalzahlen (erster usw.) <!-- TODO: Fallback translation -->
-  - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » anstelle von Kasusendungen (z.B. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫) <!-- TODO: Fallback translation -->
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-Képzésen ⟪च्वि⟫, **-sāt** -⟪सात्⟫) <!-- TODO: Fallback translation -->
+- **taddhita**
+- **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » melléknevek
+- **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » absztraktumok
+- **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » birtokos jelzők (pl. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
+- **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » fokozás (komparatív, szuperlatív), összehasonlítás
+- **pūraṇataddhita** (⟪पूरणतद्धित⟫) » sorszámok (első stb.)
+- **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » esetragok helyett (pl. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
+- **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-képzésen ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
 
-**Einteilung nach dem Ablaut:** <!-- TODO: Fallback translation -->
-- **guṇya** (⟪गुण्य⟫): hochstufige Képzés <!-- TODO: Fallback translation -->
-- **na guṇya** (⟪न⟫ ⟪गुण्य⟫): tiefstufige Képzés <!-- TODO: Fallback translation -->
-- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): dehnstufige Képzés <!-- TODO: Fallback translation -->
+**Osztályozás az ablaut alapján:**
+- **guṇya** (⟪गुण्य⟫): magas fokú képzés
+- **na guṇya** (⟪न⟫ ⟪गुण्य⟫): mély fokú képzés
+- **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): nyújtott fokú képzés
 
-## 8.3. Einige wichtige Nominalsuffixe <!-- TODO: Fallback translation -->
+## 8.3. Néhány fontos névképző utótag
 
-### 8.3.1. -a m. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.1. -a m. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -a bildet maskuline (seltener neutrale) Substantive, die eine Handlung oder einen Zustand bezeichnen, der durch die Wurzel bezeichnet wird; manchmal auch Adjektive oder Substantive, die den Agens (kartṛ) der von der Verbalwurzel bezeichneten Handlung ausdrücken. Für kurze Penultima (= Vokal vor Konsonant, auf den die Wurzel auslautet) oder auslautenden Wurzelvokal wird meist Hochstufe (guṇa) oder Dehnstufe (vṛddhi) substituiert.** <!-- TODO: Fallback translation -->
+**A kṛt -a utótag hímes (ritkábban középes) főneveket képez, amelyek egy cselekvést vagy állapotot jelölnek, amelyet a gyökér fejez ki; néha mellékneveket vagy főneveket is, amelyek a cselekvés végzőjét (kartṛ) fejezik ki, amelyet a igegyökér jelöl. A rövid penultima (= magánhangzó mássalhangzóra, amelyre a gyökér végződik) vagy szóvégi gyökmagánhangzó esetén általában magasabb fokú (guṇa) vagy nyújtott fokú (vṛddhi) helyettesítést alkalmazunk.**
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**Példák:**
 
-| Tő:br⟪धातु⟫ | + -a (kṛt) | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **ji** 1 P:br⟪आप्⟫:br"siegen" | **jaya** m.:br⟪जय⟫ | "das Siegen, der Sieg" | <!-- TODO: Fallback translation -->
-| **muh** 4 P:br⟪मुह्⟫:br"verwirrt sein" | **moha** m.:br⟪मोह⟫ | "Verwirrung, Verblendung, Irrtum" | <!-- TODO: Fallback translation -->
-| **krudh** 4 P:br⟪क्रुध्⟫:br"zürnen" | **krodha** m.:br⟪क्रोध⟫ | "Zorn" | <!-- TODO: Fallback translation -->
-| **kup** 4 P:br⟪कुप्⟫:br"zürnen" | **kopa** m.:br⟪कोप⟫ | "Zorn" | <!-- TODO: Fallback translation -->
-| **lubh** 4 P:br⟪लुभ्⟫:br"begehren" | **lobha** m.:br⟪लोभ⟫ | "Begierde" | <!-- TODO: Fallback translation -->
-| **labh** 1 Ā:br⟪लभ्⟫:br"bekommen" | **lābha** m.:br⟪लाभ⟫ | "das Bekommen, Gewinn" | <!-- TODO: Fallback translation -->
-| **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "das Loslassen, die Emanation, die Schöpfung" (zum Wortsandhi j » g siehe später) | <!-- TODO: Fallback translation -->
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "das Hören" | <!-- TODO: Fallback translation -->
-| **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "das Werden, das (etwas) Sein, Natur, Charakter" | <!-- TODO: Fallback translation -->
-| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "Kämpfer, Krieger, Soldat" | <!-- TODO: Fallback translation -->
+| Tő:br⟪धातु⟫ | + -a (kṛt) | Jelentés |
+| :--- | :--- | :--- |
+| **ji** 1 P:br⟪आप्⟫:br"győzni" | **jaya** m.:br⟪जय⟫ | "a győzelem, a diadal" |
+| **muh** 4 P:br⟪मुह्⟫:br"zavarban lenni" | **moha** m.:br⟪मोह⟫ | "zavar, tévelygés, tévedés" |
+| **krudh** 4 P:br⟪क्रुध्⟫:br"haragudni" | **krodha** m.:br⟪क्रोध⟫ | "harag" |
+| **kup** 4 P:br⟪कुप्⟫:br"haragudni" | **kopa** m.:br⟪कोप⟫ | "harag" |
+| **lubh** 4 P:br⟪लुभ्⟫:br"vágyakozni" | **lobha** m.:br⟪लोभ⟫ | "vágyakozás" |
+| **labh** 1 Ā:br⟪लभ्⟫:br"kapni" | **lābha** m.:br⟪लाभ⟫ | "a kapás, nyereség" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"elengedni,:bocsátani ki" | **sarga** m.:br⟪सर्ग⟫ | "az elengedés, az emanáció, a teremtés" (a szóvégi sandhi j » g lásd később) |
+| **śru** 5 P:br⟪श्रु⟫:br"hallani" | **śrava** m.:br⟪श्रव⟫ | "a hallás" |
+| **bhū** 1 P:br⟪भू⟫:br"lesz, lenni" | **bhāva** m.:br⟪भाव⟫ | "a lesz, a (valami) lenni, természet, jellem" |
+| **yudh** 4 Ā:br⟪युध्⟫:br"harcolni" | **yodha** m.:br⟪योध⟫ | "harcos, katona, katonaság" |
 
-### 8.3.2. -ana n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.2. -ana n. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -ana bildet meist neutrale Substantive, die eine Handlung, einen Zustand oder das Mittel bzw. Werkzeug bezeichnen, durch welches die von der Wurzel oder einem Verbalstamm bezeichnete Handlung zustande gebracht wird. Für eine kurze Penultima oder einen auslautenden Vokal der Wurzel wird gewöhnlich Hochstufe (guṇa) substituiert.** <!-- TODO: Fallback translation -->
+**A kṛt -ana képző általában középnemű főneveket alkot, amelyek egy cselekvést, állapotot vagy azt az eszközt/fegyvert jelölik, amelyen keresztül a gyökérből vagy igastámból származó cselekvés megvalósul. A gyökör rövid penultimájára vagy végződő magánhangzójára általában magasabb fokú (guṇa) helyettesítés kerül.**
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**Példák:**
 
-| Tő:br⟪धातु⟫ | + -ana (kṛt) | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gamana** n.:br⟪गमन⟫ | "das Gehen" | <!-- TODO: Fallback translation -->
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nayana** n.:br⟪नयन⟫ | "(das Werkzeug des Führens, d.h.) Auge" | <!-- TODO: Fallback translation -->
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(Hörwerkzeug =) Ohr" | <!-- TODO: Fallback translation -->
-| **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(das, wodurch etwas getan wird, d.h.) Ursache, Grund" | <!-- TODO: Fallback translation -->
-| **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "das Werden, Entstehen" | <!-- TODO: Fallback translation -->
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "das Sehen, Sichtweise, philosophisches System, Erscheinung, speziell: Darśan" | <!-- TODO: Fallback translation -->
+| Tő:br⟪धातु⟫ | + -ana (kṛt) | Jelentés |
+| :--- | :--- | :--- |
+| **gam** 1 P:br⟪गम्⟫:br"menni" | **gamana** n.:br⟪गमन⟫ | "a menni" |
+| **nī** 1 U:br⟪नी⟫:br"vezetni" | **nayana** n.:br⟪नयन⟫ | "(a vezetés eszköze, azaz) szem" |
+| **śru** 5 P:br⟪श्रु⟫:br"hallani" | **śravaṇa** n.:br⟪श्रवण⟫ | "(hallóeszköz =) fül" |
+| **kṛ** 8 U:br⟪कृ⟫:br"tenni" | **kāraṇa** n.:br⟪कारण⟫ | "(az, amivel valami megtörténik, azaz) ok, alap" |
+| **bhū** 1 P:br⟪भू⟫:br"lesz" | **bhavana** n.:br⟪भवन⟫ | "a lesz, keletkezés" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"látni" | **darśana** n.:br⟪दर्शन⟫ | "a látni, nézőpont, filozófiai rendszer, megjelenés, különösen: Darśan" |
 
 ::: media
 ![](/images/lekt0801.webp)
-Abb.: Maa Batakali Darshan, Puri, Orissa
-(Bildquelle: [Details](/licenses#lekt0801)) <!-- TODO: Fallback translation -->
+Kép: Maa Batakali Darshan, Puri, Orissa
+(Képmegjelenés: [Részletek](/hu/licenses#lekt0801))
 :::
 
 ::: note-box
-**"Darshan"** oder **"Darshana"** ist ein Begriff aus dem Hinduismus für die Sicht und Vision des Heiligen und Göttlichen. Unter *Darshana* wird z.B. das offizielle Treffen von Schüler und Meister verstanden, bei dem der Schüler vom Meister geladen wurde. Es kann aber auch das *sich Versenken* beim Betrachten eines Götterbildes bedeuten. Letztere Bedeutung ist diejenige, die im heutigen Sprachgebrauch des Hindi die häufigste ist. Im Zusammenhang mit Mata Amritanandamayi bedeutet Darshan die Umarmung durch den Guru. <!-- TODO: Fallback translation -->
+A **"Darshan"** vagy **"Darshana"** a hinduizmusban a szent és az isteni meglátására és víziójára használt kifejezés. A *Darshana* alatt értik például a tanítvány és a mester hivatalos találkozóját, amelyre a tanítványt a mester hívta meg. Jelentheti azonban egy istenszobor szemlélése közbeni *elmélyülést* is. Ez utóbbi jelentés a leggyakoribb a mai hindi nyelvhasználatban. Mata Amritanandamayi esetében a Darshan a guru általi ölelést jelenti.
 
-Fromme Hindus gehen in den Tempel um die Sicht Gottes durch ein Symbol oder eine Statue, in der die geistige Anwesenheit der Gottheit angenommen wird, zu erlangen. In diesem Sinne auch eine Segnung durch die Gottheit. Darshan kann jedoch auch durch eine Vision der Gottheit bei Gebet oder der Meditation empfangen werden. Auch eine lebendige Person, die als Inkarnation der Gottheit angesehen wird, wie z. Bsp. ein Avatara, kann Darshan geben.
-(Quelle: Wikipedia) <!-- TODO: Fallback translation -->
+Az áhítatos hinduk azért mennek a templomba, hogy elnyerjék Isten látását egy szimbólumon vagy egy szobron keresztül, amelyben az istenség szellemi jelenlétét feltételezik. Ebben az értelemben ez egyben az istenség áldása is. A Darshan azonban ima vagy meditáció közben, az istenség víziója által is elnyerhető. Egy élő személy is adhat Darshant, akit az istenség megtestesülésének, például Avatārának tekintenek.
+(Forrás: Wikipédia)
 :::
 
-### 8.3.3. -tra n. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.3. -tra n. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -tra bildet (meist) neutrale Substantive, welche das Mittel oder Werkzeug bezeichnen, durch welches die von der Wurzel bezeichnete Handlung zustande kommt. Kurze Penultima und auslautender Vokal der Wurzel wird durch Hochstufe (guṇa) ersetzt.** <!-- TODO: Fallback translation -->
+**A -tra kṛt-képző (többnyire) semlegesnemű főneveket képez, amelyek azt az eszközt vagy szerszámot jelölik, amely által a gyök által jelölt cselekvés létrejön. A gyök rövid utolsó előtti magánhangzóját és a szóvégi magánhangzót a guṇa fok helyettesíti.**
 :::
 
-**Beispiele:** <!-- TODO: Fallback translation -->
+**Példák:**
 
-| Tő:br⟪धातु⟫ | + -tra (kṛt) | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" | <!-- TODO: Fallback translation -->
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" | <!-- TODO: Fallback translation -->
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Denkwerkzeug:) Spruch, 'magische' Formel (Mantra)" | <!-- TODO: Fallback translation -->
-| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "Webkette" | <!-- TODO: Fallback translation -->
+| Tő:br⟪धातु⟫ | + -tra (kṛt) | Jelentés |
+| :--- | :--- | :--- |
+| **nī** 1 U:br⟪नी⟫:br"vezet" | **netra** n.:br⟪नेत्र⟫ | "(A vezetés eszköze =) szem" |
+| **śru** 5 P:br⟪श्रु⟫:br"hall" | **śrotra** :br⟪श्रोत्र⟫ | "(Hallóeszköz=) fül" |
+| **man** 4 Ā:br⟪मन्⟫:br"gondol" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Gondolkodás eszköze:) versmondat, 'mágikus' formula (mantra)" |
+| **tan** 8 U:br⟪तन्⟫:br"kifeszít" | **tantra** n.:br⟪तन्त्र⟫ | "szövőfonat" |
 
 ::: media
-**Das Ur-Mantra Oṃ (⟪ॐ⟫) in verschiedenen indischen Schriften** <!-- TODO: Fallback translation -->
+**Az eredeti mantra Oṃ (⟪ॐ⟫) különböző indiai szövegekben**
 
-| ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) | <!-- TODO: Fallback translation -->
-| :---: | :---: | <!-- TODO: Fallback translation -->
-| In Devanāgarī | In Bengali Schrift | <!-- TODO: Fallback translation -->
-| ![](/images/lekt0802.jpg) | ![](/images/lekt0804.jpg) | <!-- TODO: Fallback translation -->
-| In Kannaresischer Schrift | In Tamil-Schrift | <!-- TODO: Fallback translation -->
-| ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) | <!-- TODO: Fallback translation -->
-| In Malayalam-Schrift | Jaina-Oṃ | <!-- TODO: Fallback translation -->
-(Bildquellen: [Details](/licenses#lekt0803)) <!-- TODO: Fallback translation -->
+| ![](/images/lekt0803.jpg) | ![](/images/lekt0807.jpg) |
+| :---: | :---: |
+| In Devanāgarī | In Bengali Schrift |
+| ![](/images/lekt0802.jpg) | ![](/images/lekt0804.jpg) |
+| Kannada írásban | Tamil írásban |
+| ![](/images/lekt0805.jpg) | ![](/images/lekt0808.jpg) |
+| In Malayalam-Schrift | Jaina-Oṃ |
+(Képmegjelenések: [Részletek](/hu/licenses#lekt0803))
 :::
 
-### 8.3.4. -ti f. (kṛt) <!-- TODO: Fallback translation -->
+### 8.3.4. -ti f. (kṛt)
 
 ::: grammar-box
-**Das kṛt-Suffix -ti bildet feminine Substantive, die im Allgemeinen die von der Wurzel bezeichnete Handlung oder den von der Wurzel bezeichneten Zustand ausdrückt. Die Form der Wurzel ist tiefstufig.** <!-- TODO: Fallback translation -->
+**A kṛt képző -ti nőnemű főneveket alkot, amelyek általában a gyökér által jelölt cselekvést vagy állapotot fejezik ki. A gyökér alakja mély fokú.**
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**Példák:**
 
-| Tő:br⟪धातु⟫ | + -ti (kṛt) | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śruti** f.:br⟪श्रुति⟫ | "das Hören, der Veda" | <!-- TODO: Fallback translation -->
-| **smṛ** 1 P:br⟪स्मृ⟫:br"vergegenwärtigen" | **smṛti** f.:br⟪स्मृति⟫ | "Das Vergegenwärtigen, Erinnerung, Überlieferung, Achtsamkeit" | <!-- TODO: Fallback translation -->
-| **nī** 1 U:br⟪नी⟫:br"führen" | **nīti** f.:br⟪नीति⟫ | "das Führen, Führung, Betragen" | <!-- TODO: Fallback translation -->
-| **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanation, Schöpfung" | <!-- TODO: Fallback translation -->
-| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "Blick, Gesicht, Sehweise" | <!-- TODO: Fallback translation -->
-| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "Gang, Laufbahn, Ziel des Gehens" (aus *gm » ga + -ti) | <!-- TODO: Fallback translation -->
-| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "Denken, Gedanke, Meinung" (aus *mn » ma + -ti) | <!-- TODO: Fallback translation -->
+| Tő:br⟪धातु⟫ | + -ti (kṛt) | Jelentés |
+| :--- | :--- | :--- |
+| **śru** 5 P:br⟪श्रु⟫:br"hallani" | **śruti** f.:br⟪श्रुति⟫ | "a hallás, a Véda" |
+| **smṛ** 1 P:br⟪स्मृ⟫:br"megidézni" | **smṛti** f.:br⟪स्मृति⟫ | "A megidézés, emlékezet, hagyomány, figyelem" |
+| **nī** 1 U:br⟪नी⟫:br"vezetni" | **nīti** f.:br⟪नीति⟫ | "a vezetés, irányítás, magatartás" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"kibocsátani" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanáció, teremtés" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"látni" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "tekintet, arc, látásmód" |
+| **gam** 1 P:br⟪गम्⟫:br"menni" | **gati** f.:br⟪गति⟫ | "járás, pálya, a járás célja" (a *gm » ga + -ti-ból) |
+| **man** 4 Ā:br⟪मन्⟫:br"gondolkodni" | **mati** f.:br⟪मति⟫ | "gondolkodás, gondolat, vélemény" (a *mn » ma + -ti-ból) |
 
-*Anmerkung: \* vor einer Form bedeutet, dass diese Form im Sanskrit nicht vorkommt, sondern theoretisch erschlossen ist als Voraussetzung für eine bestimmte Bildung. Die Tiefstufe von **gam** ist gṃ = \*gm, das m wird als sogenannte nasalis sonans durch **a** ersetzt » **ga**. Analoges gilt für **man** » **ma**. <!-- TODO: Fallback translation -->
+*Megjegyzés: A \* jel egy alak előtt azt jelenti, hogy ez az alak a szanszkritban nem fordul elő, hanem elméletileg levezetett, egy adott képzés feltételeként. A **gam** mély foka gṃ = \*gm, az m-t a úgynevezett nasalis sonans helyettesíti **a** » **ga**. Hasonló érvényes a **man** » **ma** esetében.
 
-### 8.3.5. -tva n., -tā f. (taddhita) <!-- TODO: Fallback translation -->
+### 8.3.5. -tva n., -tā f. (taddhita)
 
 ::: grammar-box
-**Die taddhita-Suffixe -tva n. bzw. -tā f. bilden abstrakte Substantive zu Nomina. Die Form des zugrundeliegenden Nominalstamms bleibt unverändert.** <!-- TODO: Fallback translation -->
+**A taddhita képzők -tva n. és -tā f. absztrakt főneveket képeznek a főnevekhez. Az alapul szolgáló névi tő alakja változatlan marad.**
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**Példák:**
 
-| Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen oder Natur eines Lehrers)" | <!-- TODO: Fallback translation -->
-| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" | <!-- TODO: Fallback translation -->
-| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" | <!-- TODO: Fallback translation -->
+| Névstam:br⟪नामप्रातिपदिक⟫:br | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Jelentés |
+| :--- | :--- | :--- | :--- |
+| **guru** :br⟪गुरु⟫:br3 "nehéz, méltóságteljes,:brm. mester" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "nehézség, tiszteletreméltóság,:brA tanárisék (egy tanár lényege vagy természete)" |
+| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "brahmana" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "a brahmanaság,:brami teszi egy brahmanát brahmanává,:brLényeg / Természet egy brahmanának" |
+| **deva** :br⟪देव⟫:brm. "isteni, isten" | — | **devatā** f.:br⟪देवता⟫ | "istenség" |
 
-Diese Bildungen können praktisch zu jedem Nomen gebildet werden und sind in wissenschaftlichen Sanskritwerken sehr häufig. <!-- TODO: Fallback translation -->
+Ezek a képzések gyakorlatilag bármely főnévhez létrehozhatók, és tudományos szanszkrit művekben nagyon gyakoriak.
 
-## 8.4. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.") <!-- TODO: Fallback translation -->
+## 8.4. A 8. jelen időosztály (tanādi = ⟪तनादि⟫ = "tan stb.")
 
 ::: grammar-box
-**Stammbildung:** <!-- TODO: Fallback translation -->
-- **Starker Tő: Tő + -o-** <!-- TODO: Fallback translation -->
-- **Schwacher Tő: Tő + -u- (vor Vokal: -v-)** <!-- TODO: Fallback translation -->
+**Tőképzés:**
+- **Erős tő: Tő + -o-**
+- **Gyenge tő: Tő + -u- (magánhangzó előtt: -v-)**
 
-Beispiel **tan** 8 U (⟪तन्⟫) "dehnen": <!-- TODO: Fallback translation -->
-- 3\. sg. P. **tanoti** :br⟪तनोति⟫ <!-- TODO: Fallback translation -->
-- 3\. pl. P. **tanvanti** :br⟪तन्वन्ति⟫ <!-- TODO: Fallback translation -->
-- 3\. sg. Ā. **tanute** :br⟪तनुते⟫ <!-- TODO: Fallback translation -->
-- 3\. pl. Ā. **tanvate** :br⟪तन्वते⟫ <!-- TODO: Fallback translation -->
+Példa **tan** 8 U (⟪तन्⟫) "nyújt":
+- 3\. sg. P. **tanoti** :br⟪तनोति⟫
+- 3\. pl. P. **tanvanti** :br⟪तन्वन्ति⟫
+- 3\. sg. Ā. **tanute** :br⟪तनुते⟫
+- 3\. pl. Ā. **tanvate** :br⟪तन्वते⟫
 :::
-Anmerkung: Zum Streit, ob **tan** eigentlich eine Wurzel der 5. Klasse ist (*tn » ta + no-), vgl. Thumb-Hauschild, Handbuch des Sanskrit II, 265. <!-- TODO: Fallback translation -->
+Megjegyzés: A vitához, hogy a **tan** valójában az 5. osztály gyöke-e (*tn » ta + no-), l. Thumb-Hauschild, Handbuch des Sanskrit II, 265.
 
-Die wichtigste Wurzel der 8. Klasse ist **kṛ** 8 U (⟪कृ⟫) "tun, machen". Ihre Konjugation ist unregelmässig: <!-- TODO: Fallback translation -->
+A 8. osztály legfontosabb gyöke a **kṛ** 8 U (⟪कृ⟫) "tenni, csinálni". Ragozása szabálytalan:
 
 ::: grammar-box
-**kṛ 8 U (⟪कृ⟫) "machen, tun"** <!-- TODO: Fallback translation -->
-- 3\. sg. P. **karoti** :br⟪करोति⟫ <!-- TODO: Fallback translation -->
-- 3\. pl. P. **kurvanti** :br⟪कुर्वन्ति⟫ <!-- TODO: Fallback translation -->
-- 3\. sg. Ā. **kurute** :br⟪कुरुते⟫ <!-- TODO: Fallback translation -->
-- 3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫ <!-- TODO: Fallback translation -->
+**kṛ 8 U (⟪कृ⟫) "tenni, csinálni"**
+- 3\. sg. P. **karoti** :br⟪करोति⟫
+- 3\. pl. P. **kurvanti** :br⟪कुर्वन्ति⟫
+- 3\. sg. Ā. **kurute** :br⟪कुरुते⟫
+- 3\. pl. Ā. **kurvate** :br⟪कुर्वते⟫
 :::
 
-## 8.5. Wortliste <!-- TODO: Fallback translation -->
+## 8.5. Szószedet
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**Tanulják meg a következő szavakat:**
 
-- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : siegen, besiegen, ersiegen <!-- TODO: Fallback translation -->
-- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : fassen, erhalten, ergreifen <!-- TODO: Fallback translation -->
-- **tu** ⟪तु⟫ : aber (steht nach dem ersten Wort des entgegengesetzten Satzes oder Satzteils) <!-- TODO: Fallback translation -->
-- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : sehen, erblicken (wird als Jelen idejű tő statt der Tő **dṛś** 0 "sehen, erblicken" verwendet) <!-- TODO: Fallback translation -->
-- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : machen, tun <!-- TODO: Fallback translation -->
-- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : dehnen <!-- TODO: Fallback translation -->
-- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : hüten <!-- TODO: Fallback translation -->
-- **sārathi** m. ⟪सारथि⟫ : Wagenlenker, Fuhrmann <!-- TODO: Fallback translation -->
-- **kapi** m. ⟪कपि⟫ : Affe <!-- TODO: Fallback translation -->
-- **kumārī** f. ⟪कुमारी⟫ : das Mädchen, die Jungfrau <!-- TODO: Fallback translation -->
-- **nāga** m. ⟪नाग⟫ : der Nackte, der Elefant, die Schlange (Elefant und Schlange haben kein Fell, ebenso wie der "nackte Affe" Mensch) <!-- TODO: Fallback translation -->
-- **gaja** m. ⟪गज⟫ : Elefant <!-- TODO: Fallback translation -->
-- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : trauern <!-- TODO: Fallback translation -->
-- **śuka** m. ⟪शुक⟫ : Papagei <!-- TODO: Fallback translation -->
-- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : fallen, fliegen <!-- TODO: Fallback translation -->
-- **patrikā** f. ⟪पत्रिका⟫ : Brief <!-- TODO: Fallback translation -->
-- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : ritzen, schreiben (ursprünglich mit dem Stichel auf einem Palmblatt, dann aber allgemein) <!-- TODO: Fallback translation -->
+- **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : diadalmaskodni, legyőzni
+- **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : megfogni, kapni, megszerezni
+- **tu** ⟪तु⟫ : de (az ellentétes mondat vagy mondatrész első szava után áll)
+- **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : látni, meglátni (a **dṛś** 0 "látni, meglátni" tő helyett jelen időben használt tő)
+- **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : tenni, csinálni
+- **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : nyújtani
+- **rakṣ** 1 P (rakṣati) ⟪रक्ष्⟫ ⟪रक्षति⟫ : óvni
+- **sārathi** m. ⟪सारथि⟫ : kocsis
+- **kapi** m. ⟪कपि⟫ : majom
+- **kumārī** f. ⟪कुमारी⟫ : a lány, a szűz
+- **nāga** m. ⟪नाग⟫ : a meztelen, az elefánt, a kígyó (az elefántnak és a kígyónak nincs szőre, akárcsak az "meztelen majom" embernek)
+- **gaja** m. ⟪गज⟫ : elefánt
+- **śuc** 1 P (śocati) ⟪शुच्⟫ ⟪शोचति⟫ : gyászolni
+- **śuka** m. ⟪शुक⟫ : papagáj
+- **pat** 1 P (patati) ⟪पत्⟫ ⟪पतति⟫ : esni, repülni
+- **patrikā** f. ⟪पत्रिका⟫ : levél
+- **likh** 1 P (likhati) ⟪लिख्⟫ ⟪लिखति⟫ : karcolni, írni (eredetileg a kővel pálmalevélen, később általánosan)
 
 ::: media
 ![](/images/lekt0809.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Indischer Schreibgriffel aus Stahl zum Einritzen in Palmblätter
-(Bildquelle: [Details](/licenses#lekt0809)) <!-- TODO: Fallback translation -->
+Kép: **likh** (⟪लिख्⟫) : Indiai acél írószál pálmalevelbe karcoláshoz
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt0809))
 :::
 
 ::: media
 ![](/images/lekt0810.jpg)
-Abb.: **likh** (⟪लिख्⟫) : Schreibstöckchen der Batak (Sumatra), wie es vermutlich auch in Indien gebräuchlich war
-(Bildquelle: [Details](/licenses#lekt0809)) <!-- TODO: Fallback translation -->
+Kép: **likh** (⟪लिख्⟫) : Batak írópálcika (Szumátra), amely valószínűleg Indiában is elterjedt volt
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt0809))
 :::
-- **sukha** n. ⟪सुख⟫ : Glück, Wohlsein <!-- TODO: Fallback translation -->
-- **duḥkha** n. ⟪दुःख⟫ : Unglück, Leid <!-- TODO: Fallback translation -->
+- **sukha** n. ⟪सुख⟫ : boldogság, jólét
+- **duḥkha** n. ⟪दुःख⟫ : boldogtalanság, szenvedés
 
-## 8.6. Übung <!-- TODO: Fallback translation -->
+## 8.6. Gyakorlat
 
-**A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:** <!-- TODO: Fallback translation -->
-1. lobha <!-- TODO: Fallback translation -->
-2. rakṣa <!-- TODO: Fallback translation -->
-3. śrotra <!-- TODO: Fallback translation -->
-4. mati <!-- TODO: Fallback translation -->
-5. savana <!-- TODO: Fallback translation -->
-6. yodha <!-- TODO: Fallback translation -->
-7. lābha <!-- TODO: Fallback translation -->
-8. kāraṇa <!-- TODO: Fallback translation -->
-9. gati <!-- TODO: Fallback translation -->
-10. khādana <!-- TODO: Fallback translation -->
-11. smara <!-- TODO: Fallback translation -->
-12. sṛṣṭi <!-- TODO: Fallback translation -->
-13. tantra <!-- TODO: Fallback translation -->
-14. bhāva <!-- TODO: Fallback translation -->
-15. darśana <!-- TODO: Fallback translation -->
-16. netra <!-- TODO: Fallback translation -->
-17. veśana <!-- TODO: Fallback translation -->
-18. kopa <!-- TODO: Fallback translation -->
-19. sarga <!-- TODO: Fallback translation -->
-20. yajana <!-- TODO: Fallback translation -->
-21. moha <!-- TODO: Fallback translation -->
-22. śrava <!-- TODO: Fallback translation -->
-23. bhavana <!-- TODO: Fallback translation -->
-24. nīti <!-- TODO: Fallback translation -->
-25. nartana <!-- TODO: Fallback translation -->
-26. jaya <!-- TODO: Fallback translation -->
-27. nayana <!-- TODO: Fallback translation -->
-28. śravaṇa <!-- TODO: Fallback translation -->
+**A) Magyarázza meg a következő főneveket az eredeti tő és a névszóképző megadásával, valamint nem és jelentés feltüntetésével:**
+1. lobha
+2. rakṣa
+3. śrotra
+4. mati
+5. savana
+6. yodha
+7. lābha
+8. kāraṇa
+9. gati
+10. khādana
+11. smara
+12. sṛṣṭi
+13. tantra
+14. bhāva
+15. darśana
+16. netra
+17. veśana
+18. kopa
+19. sarga
+20. yajana
+21. moha
+22. śrava
+23. bhavana
+24. nīti
+25. nartana
+26. jaya
+27. nayana
+28. śravaṇa
 
-**B) Bilden Sie Abstrakta zu allen bisher gelernten Nomina und überlegen Sie deren Bedeutung (mündlich).** <!-- TODO: Fallback translation -->
+**B) Alakítsd ki az absztraktumokat minden eddig tanult főnévhez, és gondold végig jelentésüket (szóban).**
 
-**C) Setzen Sie als direktes Objekt im Singular und Plural ein:** <!-- TODO: Fallback translation -->
-- kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā) <!-- TODO: Fallback translation -->
+**C) Illeszd be közvetlen tárgyként egyes és többes számban:**
+- kṣatriyas ... rakṣati (brāhmaṇa, vaiśya, śūdra, brāhmaṇī, kṣatriyā)
 
-**D) Übersetzen Sie:** <!-- TODO: Fallback translation -->
-1. Kṣatriyas behüten sowohl Brahmanen als auch Vaiśyas und Śūdras. (2 Möglichkeiten) <!-- TODO: Fallback translation -->
-2. Ein heiliger Mann sieht sowohl Himmel als auch Höllen. <!-- TODO: Fallback translation -->
-3. Er besiegt Kṣatriyas. <!-- TODO: Fallback translation -->
-4. Sie spannt die Webkette auf. <!-- TODO: Fallback translation -->
-5. Soldaten kämpfen. <!-- TODO: Fallback translation -->
-6. Der Brahmane macht ein Feuer. <!-- TODO: Fallback translation -->
-7. Brahmanen machen Feuer. <!-- TODO: Fallback translation -->
-8. Was tun diese Kämpfer? <!-- TODO: Fallback translation -->
-9. Wen sieht das Auge? <!-- TODO: Fallback translation -->
-10. Was begehren Götter? <!-- TODO: Fallback translation -->
-11. Was ist der Grund? <!-- TODO: Fallback translation -->
+**D) Fordítsd le:**
+1. A kṣatriyák mind brahmanákat, mind vaiśyákat és śūdrákat oltalmaznak. (2 lehetőség)
+2. Egy szent ember látja mind a mennyországot, mind az alvilágot.
+3. Ő legyőzi a kṣatriyákat.
+4. Ő felhúzza a szövőszék láncát (lancet).
+5. Katonák harcolnak.
+6. A brahman tűzet készít.
+7. A brahmanák tüzet készítenek.
+8. Mit tesznek ezek a harcosok?
+9. Kit lát a szem?
+10. Mit kívánnak az istenek?
+11. Mi az ok?
 
-## 8.7. Lese- und Übersetzungsübung <!-- TODO: Fallback translation -->
+## 8.7. Olvasási és fordítási gyakorlat
 
-1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ | <!-- TODO: Fallback translation -->
-2. ⟪कविर्देवं⟫ ⟪यजते⟫ | <!-- TODO: Fallback translation -->
-3. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ | <!-- TODO: Fallback translation -->
-4. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ | <!-- TODO: Fallback translation -->
-5. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ | <!-- TODO: Fallback translation -->
-6. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ | <!-- TODO: Fallback translation -->
-7. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ | <!-- TODO: Fallback translation -->
-8. ⟪देवतां⟫ ⟪यजति⟫ | <!-- TODO: Fallback translation -->
-9. ⟪बाला⟫ ⟪भवति⟫ | <!-- TODO: Fallback translation -->
-10. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ | <!-- TODO: Fallback translation -->
-11. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ | <!-- TODO: Fallback translation -->
-12. ⟪बाला⟫ ⟪लिखति⟫ | <!-- TODO: Fallback translation -->
-13. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ | <!-- TODO: Fallback translation -->
-14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ | <!-- TODO: Fallback translation -->
-15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ | <!-- TODO: Fallback translation -->
-16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟫ Eigenname Vimalā) <!-- TODO: Fallback translation -->
-17. ⟪शुकः⟫ ⟪पतति⟫ | <!-- TODO: Fallback translation -->
-18. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ | <!-- TODO: Fallback translation -->
+1. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
+2. ⟪कविर्देवं⟫ ⟪यजते⟫ |
+3. ⟪साधुः⟫ ⟪फलानि⟫ ⟪खादति⟫ |
+4. ⟪गुरुः⟫ ⟪क्रोधं⟫ ⟪जयति⟫ |
+5. ⟪देवो⟫ ⟪नरकं⟫ ⟪सृजति⟫ |
+6. ⟪धेनुर्ग्रामं⟫ ⟪विशति⟫ |
+7. ⟪कामक्रोधलोभा⟫ ⟪नरकं⟫ ⟪नयन्ति⟫ |
+8. ⟪देवतां⟫ ⟪यजति⟫ |
+9. ⟪बाला⟫ ⟪भवति⟫ |
+10. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ |
+11. ⟪कपयः⟫ ⟪फलानि⟫ ⟪खादन्ति⟫ |
+12. ⟪बाला⟫ ⟪लिखति⟫ |
+13. ⟪कुमारी⟫ ⟪गृहं⟫ ⟪विशति⟫ |
+14. ⟪देवो⟫ ⟪नागं⟫ ⟪सृजति⟫ |
+15. ⟪बालो⟫ ⟪गजं⟫ ⟪नयति⟫ |
+16. ⟪विमला⟫ ⟪शोचति⟫ | (⟪विमला⟩ tulajdonnév Vimalā)
+17. ⟪शुकः⟫ ⟪पतति⟫ |
+18. ⟪बालः⟫ ⟪पत्रिकां⟫ ⟪लिखति⟫ |

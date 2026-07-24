@@ -1,11 +1,13 @@
 ---
-title: Pelajaran 6
-subtitle: "Struktur Kalimat Verba (Agen dan Bentuk Verba)"
+title: "# Pelajaran 6"
+subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
-category: "Tata Bahasa"
+category: "Grammatik"
 status: stable
 ---
+
+
 
 # Pelajaran 6
 
@@ -67,6 +69,7 @@ Beberapa kata kerja hanya digunakan dalam Parasmaipada atau hanya dalam Ātmanep
    6. **Kondisional**
 
 Zaman-zaman dibentuk oleh batang waktu: batang kini, batang aorist, batang perfek, batang masa depan.
+
 
 ---
 
@@ -182,74 +185,42 @@ Sebelum vokal, di dalam kata **e** diganti dengan **ay**, **o** diganti dengan *
 
 | **i / ī** | **e** | **ai** |
 
-| **u / ū** | **o** | **au** |
 
-| **ṛ / ṝ** | **ar** | **ār** |
-
-| **ḷ** | **al** | **āl** |
-
-:::
-### 6.5.3. Kata kerja Kelas Präsens ke-4 (divādi = ⟪दिवादि⟫ = "div dll.")
-
-
-
-::: grammar-box
-**Bentuk akar kata kerja sekarang = akar kata dalam tingkat rendah (seperti yang tercantum) + ya-**
-
-
-
-| Akar (dhātu m.):br⟪धातु⟫ | Bentuk Dasar Kata Kerja Sekarang |
-
+| Kata dasar (dhātu m.):br⟪धातु⟫ | Bentuk kata dasar waktu sekarang (Präsensstamm) |
 | :--- | :--- |
-
-| **nṛt**:br⟪नृत्⟫ | **nṛtya-**:br⟪नृत्य⟫- |
-
-| **muh**:br⟪मुह्⟫ | **muhya-**:br⟪मुह्य⟫- |
-
-| **yudh**:br⟪युध्⟫ | **yudhya-**:br⟪युध्य⟫- |
-
-| **man**:br⟪मन्⟫ | **manya-**:br⟪मन्य⟫- |
-
+| **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
+| **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
+| **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
+| **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
-### 6.5.4. Vokal Tema, Kelas Present Tematik
-
-
+### 6.5.4. Vokal tema, kelas kata kerja waktu sekarang tematik
 
 ::: grammar-box
-**a** pada akhiran pembentukan akar kelas-kelas kala sekarang disebut **vokal tema**. Kelas-kelas kala sekarang dengan **a** pada akhiran pembentukan akar oleh karena itu disebut "kelas kala sekarang tematik".
-
+**a** pada sufiks pembentukan kata dasar dari kelas waktu sekarang disebut **Vokal Tema**. Kelas waktu sekarang dengan **a** pada sufiks pembentukan kata dasar oleh karena itu disebut "kelas kata kerja waktu sekarang tematik".
 :::
----
 
-## 6.6. Sanskerta Lisan: Pertanyaan Lainnya (praśna m. = ⟪प्रश्न⟫)
-
-
+## 6.6. Sanskerta Percakapan: Pertanyaan Lainnya (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
 - **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Apa yang dilakukan N. N.?"
 - **N. N. (plural) kiṃ kurvanti?** = N.N. ⟪किं⟫ ⟪कुर्वन्ति⟫ = "Apa yang dilakukan para N.N.?"
 - (karoti, kurvanti berasal dari **kṛ** = ⟪कृ⟫ 8 U: "melakukan, membuat")
 - **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = "Apakah Anda baik-baik saja?, Bagaimana kabar Anda?"
-- Jawaban: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Saya baik-baik saja) dalam segala hal."
-
+- Jawaban: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Saya) baik dalam segala hal."
 :::
----
 
 ## 6.7. Daftar Kata
 
-
-
 ::: grammar-box
-Dalam bahasa Sanskerta, kata kerja dicantumkan dalam **Bentuk Akar**. Angka setelah akar menunjukkan **Kelas Konjugasi**.
+Dalam Sanskerta, kata kerja dicantumkan dalam **Bentuk Kata Dasar**. Angka setelah kata dasar menunjukkan **kelas konjugasi**.
 
-- **P:** Akar hanya Parasmaipada
-- **Ā:** Akar hanya Ātmanepada
-- **U:** Ubhayapada ("kedua bentuk kata"): Akar digunakan dalam Parasmaipada dan Ātmanepada.
-- **():** Dalam kurung adalah orang ketiga tunggal Present Indikatif (laṭ).
-
+- **P:** Kata dasar hanya Parasmaipada
+- **Ā:** Kata dasar hanya Ātmanepada
+- **U:** Ubhayapada ("kedua bentuk kata"): Kata dasar digunakan dalam Parasmaipada dan Ātmanepada.
+- **():** Dalam kurung adalah kata kerja orang ketiga tunggal waktu sekarang indikatif (laṭ).
 :::
 **Pelajari kata-kata berikut:**
-- **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : menyembah dengan persembahan, mengorbankan
+- **yaj** 1 U (yajati) ⟪यज्⟫ ⟪यजति⟫ : memuliakan dengan persembahan, berkorban
 - **bhū** 1 P (bhavati) ⟪भू⟫ ⟪भवति⟫ : menjadi, muncul, ada
 - **smṛ** 1 P (smarati) ⟪स्मृ⟫ ⟪स्मरति⟫ : menghadirkan kembali, mengingat
 - **nṛt** 4 P (nṛtyati) ⟪नृत्⟫ ⟪नृत्यति⟫ : menari
@@ -257,39 +228,45 @@ Dalam bahasa Sanskerta, kata kerja dicantumkan dalam **Bentuk Akar**. Angka sete
 - **man** 4 Ā (manyate) ⟪मन्⟫ ⟪मन्यते⟫ : berpikir
 - **muh** 4 P (muhyati) ⟪मुह्⟫ ⟪मुह्यति⟫ : bingung
 - **yudh** 4 Ā (yudhyate) ⟪युध्⟫ ⟪युध्यते⟫ : bertarung
-- **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : memasuki
+- **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : masuk
 - **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : melepaskan, mengeluarkan, memancarkan
 
----
 
 ## 6.8. Latihan
 
-**A) Bentuklah kalimat verbal dengan memasukkan akar kata yang diberikan dalam kurung:**
+**A) Bentuklah kalimat verbal dengan kata dasar yang diberikan dalam kurung melalui penyisipan:**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
-   ⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫
+⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫
 2. devas ... (nṛt, yudh, smṛ, sṛj)
-   ⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫
+⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫
 3. kavis ... (man, smṛ, viś)
-   ⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
+⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
 4. dhenus ... (viś, bhū)
-   ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
+⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
 
-**B) Ubahlah kalimat-kalimat yang dibentuk dalam Latihan A ke dalam bentuk jamak.**
+**B) Ubahlah kalimat yang dibentuk dalam Latihan A ke bentuk jamak.**
 
-**C) Terjemahkan ke dalam bahasa Sanskerta:**
-1. Ia memuja dengan sebuah persembahan. (Pendeta persembahan untuk seorang tuan persembahan)
+**C) Terjemahkan ke Sanskerta:**
+1. Ia memuliakan dengan persembahan. (Pendeta korban untuk tuan korban)
 2. Śiva menari.
 3. Rāma memimpin.
 4. Śūdra bingung.
 5. Para wanita Kṣatriya masuk.
 6. TUHAN memancarkan.
-7. Seorang Kṣatriya memuja dengan sebuah persembahan. (sebagai tuan persembahan)
+7. Kṣatriya memuliakan dengan persembahan. (sebagai tuan korban)
 8. Para wanita Śūdra menari.
-9. Para Kṣatriya bertarung.
-10. Para orang suci memimpin.
+9. Kṣatriya bertarung.
+10. Para pria suci memimpin.
 11. Mereka mengingat.
 12. Siapa (perempuan) menari?
-13. Seorang Brahmana (yang disebutkan) menari.
+13. Sang Brahmani (yang disebutkan) menari.
+
+::: media
+![](/images/lekt0601.webp)
+**Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
+Śiva Naṭarāja (⟪नटराज⟫), Kuil Hindu Kadavul, Kauai, Hawaii
+(Sumber gambar: Wikipedia, CC-BY-SA 2.5)
+
 
 
 

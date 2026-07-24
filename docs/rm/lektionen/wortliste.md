@@ -1392,7 +1392,7 @@ dadof
 ::: media
 ![](/images/lekt2407.webp)
 Abb.: ⟪ऊहापोहः⟫
-"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
+"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, mniates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
 (funtana da l’imaginescha: [Detagls](/licenses#lekt2407))
 :::
 ⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : util
@@ -3676,7 +3676,7 @@ Abb.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 :::
 ::: indent
-1 ⟪महामात्र⟫ m. "Elefantführer"; ⟪चरिष्णु⟫ 3 "beweglich", ⟪दूरशब्द⟫ m. "Ferngespräch, Fernsprecher" » ⟪चरिष्णुदूरशब्द⟫ "Mobiltelefon" (Wortbildung: A. Payer)
+1 ⟪महामात्र⟫ m. "Elefantführer"; ⟪चरिष्णु⟫ 3 "beweglich", ⟪दूरशब्द⟫ m. "Ferngespräch, Fernsprecher" » ⟪चरिष्णुदूरशब्द⟫ "Mobiltelefon" (Furmaziun da pleds: A. Payer)
 
 :::
 ⟪विभ्रम⟫ m.: s'andir ed irgar
@@ -3828,7 +3828,7 @@ Fig.: ⟪तन्त्री⟫
 Musicist da sitar = ⟪सितारवादकः⟫
 (Fonta da l'imagines: [Detagls](/licenses#lekt4803))
 :::
-⟪स्त्री⟫ f.: dunna, sposa ; Femininum
+⟪स्त्री⟫ f.: dunna, sposa ; Feminin
 
 Declinaziun:
 
@@ -4732,7 +4732,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt2406**: ⟪देवीप्रतिमा⟫ Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [sursaintgiamna: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Access il 2008-12-14. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala)]
 
-**lekt2407**: ⟪ऊहापोहः⟫ "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderatescha ina discussiun da panel al summit economic d'India dal Forum Economic Mundial 2008 a New Delhi, 16-18 november 2008." [sursaintgiamna: Forum Economic Mundial / Photo da Dana Smillie. --http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Access il 2008-12-14. -- Licenza Creative Commons (attribuziun, share alike)]
+**lekt2407**: ⟪ऊहापोहः⟫ "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, mniatescha ina discussiun da panel al summit economic d'India dal Forum Economic Mundial 2008 a New Delhi, 16-18 november 2008." [sursaintgiamna: Forum Economic Mundial / Photo da Dana Smillie. --http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Access il 2008-12-14. -- Licenza Creative Commons (attribuziun, share alike)]
 
 **lekt2408**: ⟪आख्यानम्⟫ "Il racontader da istorgias american Jeff Byers dat ina istorgia als abitants da Chenneri, in vitg Irula. Il racontader d'istorgias Jeeva Raghunath tradurescha en tamil per ils abitants dal vitg. " [sursaintgiamna: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Access il 2008-12-14. -- Licenza Creative Commons (attribuziun, nagina utisaziun cummerciala)]
 

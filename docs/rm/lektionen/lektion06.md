@@ -52,7 +52,7 @@ Certains verbs vegnan adina mo en Parasmaipada u mo en Ātmanepada duvrads. A qu
    3. **Imperativ**: Forma da cumandament
 5. **Tempus** (Tempus):
    1. **Präsens**: preschent
-   2. **Imperfekt**
+   2. **Imperfect**
    3. **Perfekt**
    4. **Aorist**
    5. **Futur**: futur
@@ -60,7 +60,7 @@ Certains verbs vegnan adina mo en Parasmaipada u mo en Ātmanepada duvrads. A qu
 
 Ils tempus vegnan formatgs da stems da tempus: stem dal presens, stem da l'aorist, stem dal perfect, stem dal futur.
 
-## 6.3. Indikativ Präsens (laṭ = ⟪लट्⟫)
+## 6.3. Indicativ preschent (laṭ = ⟪लट्⟫)
 
 Il present è il tempus da la preschenta, spezialmain era da la durada.
 
@@ -69,7 +69,7 @@ Il present è il tempus da la preschenta, spezialmain era da la durada.
 :::
 Exemples:
 
-| Wurzel (dhātu) | Präsensstamm | 3. Person Singular Indikativ Präsens Parasmaipada |
+| Radis (dhātu) | Stampa da preschent | 3. Person Singular Indicativ preschent Parasmaipada |
 | :--- | :--- | :--- |
 | **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "er (sie, es) tritt ein" |
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "er (sie, es) entsteht" |
@@ -90,14 +90,14 @@ Esempel **yaj** = ⟪यज्⟫ = "venerar cun in sacrifici", "sacrifitgar":
   - 3. sg. Ā. **yajate** = ⟪यजते⟫
   - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
-## 6.5. Bildung des Präsensstamms
+## 6.5. Bildung des Stampa da preschents
 
 ### 6.5.1. Verb da la 6avla classa da prescha (tudādi = ⟪तुदादि⟫ = "tud e.u.v.")
 
 ::: grammar-box
 **Stam dal presens = radich en grad bass (en la quala ella vegn listada) + a-**
 
-| Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm |
+| Radis (dhātu m.):br⟪धातु⟫ | Stampa da preschent |
 | :--- | :--- |
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
@@ -106,7 +106,7 @@ Esempel **yaj** = ⟪यज्⟫ = "venerar cun in sacrifici", "sacrifitgar":
 
 ::: grammar-box
 | Stem dal present = radiz en stadi da guaud (rara stadi da lungida) + a- ||||
-| Wurzel (dhātu m.):br⟪धातु⟫ | Stadi da guaud | Stadi da guaud avant a- | Stem dal present |
+| Radis (dhātu m.):br⟪धातु⟫ | Stadi da guaud | Stadi da guaud avant a- | Stem dal present |
 | :--- | :--- | :--- | :--- |
 | **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
 | **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
@@ -134,7 +134,7 @@ Avant vocals vegn en l'intern da la parola **e** sustituid cun **ay**, **o** cun
 ::: grammar-box
 **stam dal presens = radich en grad bass (en la quala ella è enaquadrada) + ya-**
 
-| Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm |
+| Radis (dhātu m.):br⟪धातु⟫ | Stampa da preschent |
 | :--- | :--- |
 | **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
@@ -191,7 +191,7 @@ En Sanscrit vegnan ils verbs donads en la **furma da radischa**. Il num suenter 
 4. dhenus ... (viś, bhū)
    ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
 
-**B) Metta las frases formadas en l'exercizi A en il plural.**
+**B) Metta las frasas formadas en l'exercizi A en il plural.**
 
 **C) Traducir en Sanscrit:**
 1. El adulescha cun in sacrifici. (Il sacerdot dal sacrifici per un patrun dal sacrifici)

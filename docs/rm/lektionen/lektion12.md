@@ -122,7 +122,7 @@ Ina lista dals radis *aniṭ* sa chatta en Kielhorn, *Grammatik* § 298.
 **Esempis:**
 
 ::: grammar-box
-| Wurzel | PPP (kta) |
+| Radis | PPP (kta) |
 | :--- | :--- |
 | **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
 | **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
@@ -141,9 +141,9 @@ Per las furmasiuns cun *aniṭ* èn da tegnair cont da las suandantas legas dal 
 | **2. ct wird durch kt = ⟪क्त्⟫ ersetzt:** | **muc + ta » muk-ta** = **⟪मुक्त⟫** |
 | **3. śt wird durch ṣṭ = ⟪ष्ट्⟫ ersetzt:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
 | **4. Stimmhafter unaspirierter Verschlusslaut – außer j – wird vor stimmlosem Laut durch den ihm entsprechenden stimmlosen unaspirierten Laut ersetzt:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (wichtig für die 2. Präsensklasse) |
-| **5. jt wird durch kt oder ṣṭ ersetzt (nicht fakultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **5. jt wird durch kt ni ṣṭ ersetzt (nicht fakultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Stimmhafter aspirierter Verschlusslaut + stimmloser Verschlusslaut » stimmhafter unaspirierter Verschlusslaut + stimmhafter aspirierter Verschlusslaut (Bartholomaesches Aspiratengesetz):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; oder durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+| **7. h-t wird ersetzt durch ḍh mit Dehnung eines vorhergehenden i bzw. u; ni durch gdh. Vor einem solchen ḍh wird a durch o, seltener durch ā, ersetzt:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
 ## 12.5. Glista da pleds
@@ -187,7 +187,7 @@ Abb.: ⟪महावीरो⟫ ⟪जिनः⟫
 
 ### 12.5.1. Passiv e il PPP dals radis gudìds fin qua
 
-| Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+| Radis:br⟪धातु⟫ | Passiv preschent 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |

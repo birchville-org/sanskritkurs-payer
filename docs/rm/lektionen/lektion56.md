@@ -1,6 +1,6 @@
 ---
 title: Lektion 56
-subtitle: "Der reduplizierte Aorist"
+subtitle: "L'Aorist reduplitgà"
 lesson_id: 56
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -14,13 +14,13 @@ status: stable
 ::: grammar-box
 **Educaziun:**
 
-**Augment + reduplizierte Wurzel + a + thematische Sekundärendung**
+**Augment + radis reduplitgada + a + desinenza secundara tematica**
 
-**La silba radicala poea esser bassa u auta. Per radichas cun -i u -u è la regla la forma bassa.**
+**La sillaba radicala po esser bassa u auta. Per radichas cun -i u -u è la regla la furma bassa.**
 
-**Auslautendes -i, -u wird durch -iy bzw. -uv ersetzt.**
+**-i, -u final vegn remplazzà tras -iy resp. -uv.**
 
-**Auslautendes -ā (für -e) fällt ab.**
+**-ā final (per -e) svanescha.**
 :::
 Paradigma:
 
@@ -85,14 +85,14 @@ Post che las reglas mentinadas èn vegnidas applicadas sin la sillaba da la radi
 **Quest vocal da reduplicaziun è suttamess a las suandantas midadas:**
 
 *   **i, u vegnan sustituids da ī, ū, sche la sillaba da la radis cumenza cun mo in consonant ed è metricamain curta:**  
-    ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫***⟪तू⟫***⟪तुदत्⟫
+    ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भिदत्⟫  
+    ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫***⟪तू⟫***⟪तुदत्⟫
 
 *   **a vegn suttat da ī, sche la sillaba da la radis è metricamain curta e cumenza cun mo in consonant. Sche la sillaba da la radis è metricamain curta e cumenza cun dapli che in consonant, vegn il a da la sillaba da la reduplicaziun suttat da i. Sche la sillaba da la radis è metricamain lunga, resta il a:**  
-    ⟪नी⟫ 1U: Kaus. ⟪नाययति⟫, sillaba da la radis da l’Aor. ⟪नय्⟫, Aor. ⟪अ⟫***⟪नी⟫***⟪नयत्⟫  
-    ⟪कृ⟫ 8U: Kaus. ⟪कारयति⟫, sillaba da la radis da l’Aor. ⟪कर्⟫, Aor. ⟪अ⟫***⟪ची⟫***⟪करत्⟫  
-    ⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, sillaba da la radis da l’Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫***⟪ति⟫***⟪त्यजत्⟫  
-    ⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, sillaba da la radis da l’Aor. ⟪भव्⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भवत्⟫
+    ⟪नी⟫ 1U: Caus. ⟪नाययति⟫, sillaba da la radis da l’Aor. ⟪नय्⟫, Aor. ⟪अ⟫***⟪नी⟫***⟪नयत्⟫  
+    ⟪कृ⟫ 8U: Caus. ⟪कारयति⟫, sillaba da la radis da l’Aor. ⟪कर्⟫, Aor. ⟪अ⟫***⟪ची⟫***⟪करत्⟫  
+    ⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, sillaba da la radis da l’Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫***⟪ति⟫***⟪त्यजत्⟫  
+    ⟪भू⟫ 1P: Caus. ⟪भावयति⟫, sillaba da la radis da l’Aor. ⟪भव्⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भवत्⟫
 
 Partikularitads da certas radichas tar Kielhorn, Grammatica § 435c ss.
 

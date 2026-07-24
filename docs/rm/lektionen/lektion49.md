@@ -36,7 +36,7 @@ status: stable
 ### 49.1.2. Quinta classa da prezens (⟪स्वादि⟫)
 
 ::: grammar-box
-L'imperativ 2.sg è senza desinenza per le radici della 5. e 8. classe, quando al -u finale del suffisso precede solo una consonante.
+L'imperativ 2.sg è senza desinenza per le radici da la 5. e 8. classe, quando al -u finale del suffisso precede solo una consonante.
 :::
 ⟪सु⟫ 5U
 

@@ -1,13 +1,15 @@
 ---
-title: Lesson 15
+title: "# Pelajaran 15"
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 15
+
+
+# Pelajaran 15
 
 ## 15.1. ⟪सुभाषितम्⟫
 
@@ -16,201 +18,205 @@ status: stable
 ⟪अथवा⟫ ⟪विद्यया⟫ ⟪विद्या⟫  
 ⟪चतुर्थी⟫ ⟪नैव⟫ ⟪विद्यते⟫ ⟪॥⟫
 
-## 15.2. Determinative Compounds = Tatpuruṣa m. = ⟪तत्पुरुष⟫
+## 15.2. Determinativkomposita = Tatpuruṣa m. = ⟪तत्पुरुष⟫
 
-Hubungan antara entitas yang ditandai oleh kata benda (kata sifat dan kata kerja) dapat dinyatakan tidak hanya melalui konstruksi genitif tetapi juga melalui *Tatpuruṣa* (⟪तत्पुरुष⟫). Demikian pula, modifikasi atributif kata sifat atau modifikasi aposisional kata benda dapat dinyatakan melalui jenis khusus *Tatpuruṣa*, yaitu yang disebut *Karmadhāraya* (m.) = ⟪कर्मधारय⟫.
+Hubungan antara yang ditunjuk oleh nomina (kata benda dan kata sifat) dapat dinyatakan tidak hanya melalui konstruksi genitif, tetapi juga melalui Tatpuruṣa (⟪तत्पुरुष⟫). Demikian pula, penataan atributif kata sifat atau penataan aposisional kata benda dapat dinyatakan melalui jenis Tatpuruṣa tertentu, yaitu yang disebut Karmadhāraya (m.) = ⟪कर्मधारय⟫.
 
-⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫ "pelayannya," yaitu, contoh dari gabungan kata seperti itu berfungsi sebagai penunjukan untuk jenis gabungan kata ini.
-
+⟪तत्पुरुषः⟫ =  ⟪तस्य⟫ ⟪पुरुषः⟫ "pelayannya", yaitu sebagai penunjuk jenis komposita ini berfungsi contoh dari komposita tersebut.
 ::: grammar-box
 
-Dalam majemuk determinatif (*Tatpuruṣa*), sebuah kata benda (substantif atau adjektiva) ditentukan oleh kata benda lain atau kata keterangan. Kata yang ditentukan biasanya membentuk anggota akhir (padānta) dari majemuk tersebut.
+Dalam komposita determinatif (Tatpuruṣa), sebuah nomina (kata benda atau kata sifat) ditentukan lebih lanjut oleh nomina lain atau adverbia. Kata yang ditentukan lebih lanjut biasanya membentuk komponen belakang komposita tersebut.
 
-Hubungan antara anggota awal (anggota penentu) dan anggota akhir (anggota yang ditentukan) dapat berupa:
+Hubungan antara komponen depan (komponen penentu) dan komponen belakang (komponen yang ditentukan) dapat berupa:
 
-*   **atributif atau aposisional**: setelah penguraian majemuk, anggota awal membentuk spesifikasi dari anggota akhir dalam kasus yang sama (yaitu, di luar konteks kalimat, dalam nominatif (⟪प्रथमा⟫); dalam sebuah kalimat, dalam kasus yang disyaratkan secara sintaksis).
-*   **kasual**: setelah penguraian majemuk, anggota awal berada dalam kasus yang berbeda dari anggota akhir (yaitu, bukan dalam nominatif - ⟪प्रथमा⟫).
-*   **adverbial**: anggota awal adalah kata tak berubah.
+*   atributif atau aposisional: saat komposita diuraikan, komponen depan membentuk penentuan lebih lanjut terhadap komponen belakang dalam kasus yang sama (yaitu di luar konteks kalimat dalam Nominatif (⟪प्रथमा⟫), dan dalam kalimat sesuai kasus sintaksis yang diminta)
+kasual: komponen depan berada dalam kasus lain daripada komponen belakang saat komposita diuraikan (yaitu bukan Nominatif - ⟪प्रथमा⟫)
+adverbial: komponen depan adalah kata yang tidak dideklinasi
 
-Hubungan kasus antara dua anggota sebuah majemuk independen dari kasus di mana majemuk itu sendiri berada: majemuk tersebut, pada akhirnya, adalah sebuah kata yang dapat dideklinasikan tunggal:
+Hubungan kasus kedua komponen komposita independen dari kasus di mana komposita tersebut berada: komposita adalah satu kata yang dapat dideklinasi:
 
-For example:
+mis.
 
 > Nom. sg. ⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫  
-> Acc. sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य⟫ ⟪पुरुषम्⟫  
+> Akk. sg. ⟪तत्पुरुषम्⟫ = ⟪तस्य⟫ ⟪पुरुषम्⟫  
 > Instr. sg. ⟪तत्पुरुषेण⟫ = ⟪तस्य⟫ ⟪पुरुषेण⟫  
 > Gen. sg. ⟪तत्पुरुषस्य⟫ = ⟪तस्य⟫ ⟪पुरुषस्य⟫  
 > Nom. pl. ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫  
-> etc.
+> dll.
 
-Jenis kelamin *Tatpuruṣa* adalah — dengan beberapa pengecualian — jenis kelamin dari anggota terakhirnya.
+Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
 
 :::
-## 15.3. Determinative Compounds with Attributive / Appositional First Member = Karmadhāraya m. = ⟪कर्मधारय⟫
-
+## 15.3. Determinativkomposita dengan komponen depan atributif / aposisional = Karmadhāraya m. = ⟪कर्मधारय⟫
 ::: grammar-box
 
-When resolving a Karmadhāraya, both members of the compound stand in the same case.
+Saat Karmadhāraya diuraikan, kedua komponen komposita berada dalam kasus yang sama.
 
 :::
-For example:
+mis.
 
-⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = “a son with good qualities”  
-Acc. sg. ⟪गुणवत्पुत्रम्⟫  
-Nom. pl. ⟪गुणवत्पुत्राः⟫  
+⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्पुत्रः⟫ = "seorang putra dengan sifat-sifat baik"  
+Akk. sg. ⟪गुणवत्पुत्रम्⟫  
+Nom pl. ⟪गुणवत्पुत्राः⟫  
 
-⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = “a meritorious Kṣatriya woman”  
+⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "seorang wanita Kṣatriya yang berjasa"  
 
-⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = “good people”  
+⟪साधुजनाः⟫ = ⟪साधवो⟫ ⟪जनाः⟫ = "orang-orang baik"  
 
-⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = “dewa yang diinginkan = dewa dengan siapa seseorang memiliki hubungan khusus berupa pengabdian dan pelarian”
+⟪इष्टदेवता⟫ = ⟪इष्टा⟫ ⟪देवता⟫ = "dewa yang diinginkan = dewa tempat seseorang memiliki hubungan khusus berupa bhakti dan berlindung"
 
 ::: media
 ![](/images/lekt1501.webp)
-Fig.: ⟪लक्ष्मी⟫
-(Image source: [Details](/en/licenses#lekt1501))
+Gambar: ⟪लक्ष्मी⟫
+(Sumber gambar: [Details](/id/licenses#lekt1501))
 :::
+
 ::: grammar-box
 
-The following special rule applies to the order of members in a Karmadhāraya:
+Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
-*   If a Karmadhāraya expresses a COMPARISON, then that which serves as the standard of comparison stands in the second member of the compound:
+*   jika Karmadhāraya menyatakan PERBANDINGAN, maka hal yang dibandingkan berada di komponen belakang komposita:
 
-    ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = “a man like a lion”  
-    ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = “a man like a tiger”
+⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "seorang pria seperti singa"  
+⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "seorang pria seperti harimau"
 
-*   Jika, bagaimanapun, sebuah Karmadhāraya menyatakan aposisi (spesifikasi anggota kedua oleh suatu kata benda), maka elemen yang menentukan berada pada anggota pertama, sebagaimana disyaratkan oleh aturan umum mengenai urutan anggota dalam Tatpuruṣa:
 
-    ⟪नरसिंहः⟫ can also be resolved as: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = “A lion who (in reality) is a man.”
+*   jika Karmadhāraya menyatakan sebuah apposisi (penentuan lebih lanjut dari komponen kedua oleh kata benda), maka penentu yang lebih dekat berada di komponen pertama, sebagaimana juga aturan umum untuk urutan komponen dalam Tatpuruṣa mensyaratkan:
 
-Komposisi Karmadhāraya yang bersifat aposisional seperti itu diuraikan dalam komentar-komentar asli, sebagaimana pada contoh di atas, dengan menggunakan ⟪एव⟫.
+⟪नरसिंहः⟫ juga dapat diuraikan: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Seekor singa, yang (sebenarnya) adalah seorang pria."
+
+Karmadhāraya apposisional semacam itu diuraikan dalam komentar-komentar lokal seperti pada contoh di atas menggunakan ⟪एव⟫.
 
 :::
 ::: media
 ![](/images/lekt1503.webp)
-Fig.: ⟪नरसिंहः⟫
-(Sumber gambar: [Details](/en/licenses#lekt1503))
+Ilustr.: ⟪नरसिंहः⟫
+(Sumber gambar: [Details](/id/licenses#lekt1503))
 :::
-## 15.4. Komposisi Penentu dengan Anggota Pertama dalam Hubungan Kasus Non-Atributif/Aposisional terhadap Anggota Kedua = Tatpuruṣa dalam Makna Sempit
+## 15.4. Determinativkomposita dengan komponen pertama yang berada dalam hubungan kasus non-atributif/apposisional terhadap komponen kedua = Tatpuruṣa dalam arti sempit
 
 ::: grammar-box
 
-[Kompausata Tatpuruṣa memungkinkan untuk kombinasi kata benda (kata benda dan kata sifat), di mana anggota pertama dapat berada dalam kasus apa pun, sesuai dengan aturan sintaksis. Seperti yang diharapkan, anggota pertama paling sering mewakili genitif (⟪षष्ठी⟩), karena ini adalah kasus yang digunakan untuk menyatakan hubungan antara kata benda.]
+Gabungan Tatpuruṣa memungkinkan untuk gabungan kata benda (kata benda dan kata sifat), di mana komponen pertama - sesuai aturan sintaksis - dapat berada dalam kasus apa pun. Sesuai ekspektasi, komponen pertama paling sering mewakili Genetif (⟪षष्ठी⟫), karena inilah kasus yang digunakan untuk menyatakan hubungan antara kata benda.
 
 :::
-For example:
+mis.
 
-⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "putra seorang Kṣatriya", "seorang pemuda Kṣatriya", "seorang anggota kelompok Kṣatriyas"  
-Acc. sg. ⟪क्षत्रियपुत्रम्⟫  
+⟪क्षत्रियपुत्रः⟫ = ⟪क्षत्रियस्य⟫ ⟪पुत्रः⟫ = "putra seorang Kṣatriya", "seorang Kṣatriya muda", "seseorang dari kelompok Kṣatriyas"  
+Akk. sg. ⟪क्षत्रियपुत्रम्⟫  
 Gen. sg. ⟪क्षत्रियपुत्रस्य⟫  
-dll.
+dan seterusnya.  
 
-⟪गुरुभावः⟫ = ⟪गुरोर्भावः⟫ = "the nature of a teacher"
+⟪गुरुभावः⟫ =  ⟪गुरोर्भावः⟫  = "sifat seorang guru"
 
-⟪धनलोभः⟫ = ⟪धनस्य⟫ ⟪लोभः⟫ = "desire for wealth, greed"
+⟪धनलोभः⟫ = ⟪धनस्य⟫  ⟪लोभः⟫ = "keinginan akan kekayaan, keserakahan"
 
-⟪लोकगतिः⟫ = ⟪लोकस्य⟫ ⟪गतिः⟫ = "jalannya dunia, perilaku manusia"
+⟪लोकगतिः⟫ =  ⟪लोकस्य⟫ ⟪गतिः⟫ = "perjalanan dunia, perilaku orang-orang"
 
-Hampir semua hubungan genitif dapat diganti dengan majemuk Tatpuruṣa. Lihat, misalnya, Kale, *A Higher Sanskrit Grammar* § 211, untuk beberapa pengecualian, serta bagian yang sesuai dalam Pāṇini.
+Hampir setiap hubungan Genetif dapat diganti dengan Tatpuruṣa. Lihat pengecualian sedikit misalnya pada Kale, A higher Sanskrit grammar § 211, di sana juga terdapat rujukan yang sesuai pada Pāṇini.
 
-Namun, anggota pertama dari sebuah Tatpuruṣa pada prinsipnya dapat mewakili kasus apa pun. Meskipun demikian, tidak semua hubungan kasusal yang secara sintaksis mungkin dapat diganti dengan majemuk Tatpuruṣa. Jika ragu, aturan yang relevan dapat ditemukan dalam Kale, *A Higher Sanskrit Grammar* §§ 203–217, atau dalam Pāṇini 2.1.22–2.2.22.
+Namun, komponen pertama Tatpuruṣa pada prinsipnya dapat mewakili kasus apa pun. Meskipun demikian, tidak semua hubungan kasus yang secara sintaksis mungkin dapat diganti dengan Tatpuruṣa. Aturan-aturan yang sesuai dapat ditemukan dalam keraguan pada Kale, A higher Sanskrit grammar § 203 - 217 atau Pāṇini 2,1,22 - 2,2,22.
 
 ::: grammar-box
 
-Anggota pertama, ketika majemuk diuraikan, dapat muncul dalam bentuk tunggal, dwivacana, atau jamak. Kemungkinan mana yang berlaku harus disimpulkan dari makna dan konteks.
+Komponen pertama dapat berada dalam bentuk tunggal, dwitunggal (dual), atau jamak saat menguraikan komposita. Kemungkinan mana yang ada harus disimpulkan dari makna dan konteks.
 
 :::
-Examples:
+Contoh:
 
-Anggota pertama mewakili akusatif (⟪द्वितीया⟫): misalnya, pada beberapa kata kerja lampau (PPP) yang berasal dari kata kerja gerak (Pāṇini 2.1.24):
+Komponen pertama mewakili Akkusativ (⟪द्वितीया⟩): mis. pada beberapa PPP untuk kata kerja gerak (Pāṇini 2,1,24):
 
-⟪ग्रामगतः⟫ = ⟪ग्रामं⟫ ⟪गतः⟫ = "one who has gone to the village"  
-⟪नरकपतिता⟫ = ⟪नरकं⟫ ⟪पतिता⟫ = "one who has fallen into a hell"
+⟪ग्रामगतः⟫ = ⟪ग्रामं⟫ ⟪गतः⟫ = "seseorang yang telah pergi ke desa"  
+⟪नरकपतिता⟫ = ⟪नरकं⟫ ⟪पतिता⟫ = "seseorang yang telah jatuh ke neraka"
 
-Anggota pertama mewakili alat (⟪तृतीया⟫): misalnya, sering kali pelaku (⟪कर्तृ⟫) dari derivasi nomina dengan akhiran kṛt (mis., PPP):
+Komponen pertama mewakili Instrumentalis (⟪तृतीया⟩): mis. sering kali Agen (⟪कर्तृ⟩) dari pembentukan kata benda dengan sufiks kṛt (mis. PPP):
 
-⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "dibuat oleh dewa / oleh para dewa"
-Ini juga dapat diuraikan sebagai: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "tindakan / perbuatan dewa / para dewa; tindakan ilahi, tindakan-tindakan para dewa"
+⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "dibuat oleh dewa / oleh para dewa"  
+Juga dapat diuraikan: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "tindakan / perbuatan seorang dewa / oleh para dewa ; tindakan dewa, tindakan para dewa"  
 
-⟪बुद्धरक्षिता⟫ = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "one who was protected by Buddha" (a proper name)
+⟪बुद्धरक्षिता⟫  = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "yang dilindungi oleh Buddha" (sebuah nama diri)
 
-## 15.5. Decomposition of Compounds (excluding Dvandvas)
+## 15.5. Penguraian Komposita (kecuali Dvandvas)
+
 
 ::: grammar-box
-
-Meskipun Sanskerta memungkinkan pembentukan majemuk dengan panjang sembarang—dan memang, pembentukan seperti itu sangat umum (majemuk yang terdiri dari 10 hingga 30 anggota sama sekali tidak jarang)—semua majemuk, kecuali Dvandvas, bersifat hierarkis progresif dan dapat diuraikan menjadi dua bagian pada setiap langkah:
+Meskipun dalam bahasa Sanskrit komposis dengan panjang sembarang dapat dibentuk dan juga sangat sering dibentuk (komposis dari 10 hingga 30 anggota bukanlah hal yang jarang!), namun—dengan pengecualian Dvandvas—semua komposis bersifat progresif dan hierarkis, sehingga dapat diuraikan menjadi dua bagian masing-masing:
 
 :::
 ::: media
-![]/images/lekt1502.jpg
-(Image source: [Details](/en/licenses#lekt1502))
+![](/images/lekt1502.jpg)
+Ilm.: ⟪समासविच्छेदः⟫
+(Sumber gambar: [Details](/id/licenses#lekt1502))
 :::
-and so on, until one reaches the individual word stems.
+dan seterusnya hingga mencapai akar kata individual.
 
-For example:
+mis.
 
 ⟪गुणवत्पुत्रकृतपुण्यम्⟫
 
-> 1st level (main caesura): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
-> 
-> 2nd level (1st subordinate caesura): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
-> 
-> 3rd level (2nd subordinate caesura): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
-> 
-> = "the meritorious deed (or merit) performed by my virtuous son"
+::: indent
+1\. Tahap (käsura utama): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
-Dalam proses ini, berbagai jenis majemuk dapat dicampur; misalnya, anggota sebelumnya (Vorderglied) mungkin berupa Bahuvrīhi (⟪बहुव्रीहि⟩), sedangkan anggota berikutnya (Hinterglied) adalah Tatpuruṣa, dan seterusnya.
+2\. Tahap (käsura sampingan ke-1): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
-For example:
+3\. Tahap (käsura sampingan ke-2): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+
+= "tindakan berprestasi (keberhasilan) yang telah dilakukan oleh putra berbaktiku"
+:::
+Berbagai jenis komposis dapat dicampur, mis. anggota depan: Bahuvrīhi (⟪बहुव्रीहि⟫) - anggota belakang: Tatpuruṣa, dll.
+
+mis.
 
 ⟪ब्राह्मणक्षत्रियवैश्यधर्मः⟫
 
-> 1st level: ⟪ब्राह्मणक्षत्रियवैश्यानां⟫ ⟪धर्मः⟫ (Prior member: Itaretaradvandva)
-> 
-> 2nd level: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
-> 
-> = "dharma Brahmana, Kṣatriya, dan Vaiśya"
+::: indent
+1\. Tahap: ⟪ब्राह्मणक्षत्रियवैश्यानां⟫ ⟪धर्मः⟫ (anggota depan: Itaretaradvandva)
 
-Sangat sering, terdapat beberapa cara yang mungkin untuk menyelesaikan suatu kompaus tertentu. Apakah resolusi tertentu itu benar—atau setidaknya paling tepat—hanya dapat ditentukan dari konteks dan isi teks. Terkadang, keputusan seperti itu tidak mungkin dilakukan. Seringkali, dua resolusi yang mungkin dimaksudkan oleh penulis. Dalam kasus tersebut, kedua interpretasi harus diterjemahkan (dihubungkan dengan "dan", "atau", "masing-masing", atau konjungsi serupa).
+2\. Tahap: ⟪ब्राह्मणानां⟫ ⟪क्षत्रियाणां⟫ ⟪वैश्यानां⟫ ⟪च⟫ ⟪धर्मः⟫
 
-For example:
+= "dharma dari Brahman, Kṣatriya dan Vaiśya"
+:::
+Sangat sering terdapat berbagai kemungkinan penguraian untuk sebuah komposis. Mana yang benar atau setidaknya terbaik hanya dapat diputuskan dari konteks dan isi teks. Terkadang keputusan seperti itu tidak mungkin dilakukan. Seringkali dua kemungkinan penguraian tampaknya dimaksudkan oleh penulis. Maka dalam terjemahan, kedua kemungkinan penguraian harus disajikan (dihubungkan dengan "dan", "atau" "atau" dan sejenisnya.
+
+mis.
 
 ⟪पुण्यवत्पुत्रकृतम्⟫
 
-> Tingkat 1: baik – maupun
-> 
-> 1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫
-> 2. ⟪पुण्यवत्पुत्रस्य⟫ ⟪कृतम्⟫
-> 3. ⟪पुण्यवत्⟫ ⟪पुत्रकृतम्⟫
-> 
-> Tingkat 2: oleh karena itu
-> 
-> 1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "yang dilakukan oleh anakku yang berbakti"
-> 2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "perbuatan anakku yang berbakti"
-> 3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "perbuatan berbakti yang dilakukan oleh anakku"
->    2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "perbuatan berbakti dari anakku"
+::: indent
+1\. Tahap: entah - atau
 
-## 15.6. Bentuk Anggota Pertama dalam Majemuk (⟪समास⟩ m.)
+1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫
+2. ⟪पुण्यवत्पुत्रस्य⟫ ⟪कृतम्⟫
+3. ⟪पुण्यवत्⟫ ⟪पुत्रकृतम्⟫
 
+2\. Tahap: sesuai dengan
+
+1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "yang dilakukan oleh putra berprestasiku"
+2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "tindakan putra berprestasiku"
+3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "berprestasi, yang dilakukan oleh putraku"
+2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "tindakan berprestasi putraku"
+:::
+## 15.6. Bentuk anggota depan dalam komposis (⟪समास⟫ m.)
 ::: grammar-box
 
-Dalam semua jenis majemuk, anggota pertama umumnya adalah bentuk dasar yang tidak terinfleksi. Kata benda dua-bentuk muncul dalam bentuk lemah. Kata sifat feminin yang lebih menentukan anggota berikutnya dalam majemuk umumnya muncul dalam bentuk maskulin:
+Dalam semua jenis komposis, anggota depan pada umumnya adalah akar kata yang tidak berubah. Nomina dua akar berada dalam akar lemah. Kata sifat feminin yang menentukan anggota berikutnya dalam komposis umumnya berada dalam akar maskulin:
 
-For example:
+mis.
 
-⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "a Kṣatriya woman who possesses merit"  
-⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "a son with good qualities"
+⟪पुण्यवत्क्षत्रिया⟫ = ⟪पुण्यवती⟫ ⟪क्षत्रिया⟫ = "seorang wanita Kṣatriya yang memiliki prestasi"
+⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "seorang putra dengan sifat-sifat baik"
 
 :::
-## 15.7. Classification of ⟪तत्पुरुष⟫
+## 15.7. Pengelompokan ⟪तत्पुरुष⟫
 
-1. **⟪प्रथमातत्पुरुषः⟫** : Anggota pertama berada dalam nominatif (⟪प्रथमा⟫) pada ⟪विग्रहवाक्य⟫ (kalimat analitis).
-2. **⟪द्वितीयातत्पुरुषः⟫** : Anggota pertama berada dalam akusatif (⟪द्वितीया⟫) pada ⟪विग्रहवाक्य⟫ (kalimat analitis).
-3. **⟪तृतीयातत्पुरुषः⟫** : Anggota pertama berada dalam instrumetal (⟪तृतीया⟫) pada ⟪विग्रहवाक्य⟫ (kalimat analitis).
-4. **⟪चतुर्थीतत्पुरुषः⟫** : Anggota pertama berada dalam datif (⟪चतुर्थी⟫) pada ⟪विग्रहवाक्य⟫ (kalimat analitis).
-5. **⟪पञ्चमीतत्पुरुषः⟫** : Anggota pertama berada dalam ablatif (⟪पञ्चमी⟫) pada ⟪विग्रहवाक्य⟫ (kalimat analitis).
-6. **⟪षष्ठीतत्पुरुषः⟫** : Anggota pertama berada dalam genitif (⟪षष्ठी⟫) pada ⟪विग्रहवाक्य⟫ (kalimat analitis).
-7. **⟪सप्तमीतत्पुरुषः⟫** : Anggota pertama berada dalam lokatif (⟪सप्तमी⟫) pada ⟪विग्रहवाक्य⟫ (kalimat analitis).
+1.  ⟪प्रथमातत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Nominatif (⟪प्रथमा⟫)
+2.  ⟪द्वितीयातत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Akusatif (⟪द्वितीया⟫)
+3.  ⟪तृतीयातत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Instrumentalis (⟪तृतीया⟫)
+4.  ⟪चतुर्थीतत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Datif (⟪चतुर्थी⟫)
+5.  ⟪पञ्चमीतत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Ablatif (⟪पज्चमी⟫)
+6.  ⟪षष्ठीतत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Genetif (⟪षष्ठी⟫)
+7.  ⟪सप्तमीतत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Lokatif (⟪सप्तमी⟫)
+
 
 *   **⟪कर्मधारयः⟫** : Tatpuruṣa apozisional, antara lain:
 *   **⟪उपमानपूर्वपदकर्मधारयः⟫** : ⟪विग्रहवाक्य⟫ (kalimat analitis) dengan ⟪इव⟫ setelah anggota pertama.
@@ -272,61 +278,33 @@ dāsī f.: slave woman, serf woman, female servant
 
 kāla m.: time, (proper) moment ; fate, death ; god of death Kāla
 
-kāla 3: black, dark blue-black, dark
 
-puruṣa m.: human being, man, servant
+⟪एव⟫ (setelah): menekankan hal sebelumnya, dalam bahasa Jerman sering sesuai dengan penekanan, semacam emotikon `\&lt;!\&gt;`, mis. ⟪सत्यमेव⟫ ⟪जयति⟫ "hanya kebenaran yang menang", "tepatnya kebenaran yang menang", "kebenaran menang"
 
--jana as the second member of Tatpuruṣa compounds often expresses the plural
-
-stu 2 stauti ; Pass. stūyate ; PPP stuta : praise, extol
-
-from this:
+⟪अरि⟫ m.: musuh (menurut Thieme, Der Fremdling im Ṛgveda: pada awalnya = orang asing)
 
 ::: indent
-stuti f.: praise, hymn of praise
-
-stotra n.: (means of praise =) hymn of praise, hymn
+⟪आर्य⟫ 3: aris, mulia; m. Arya (sebutan diri orang India kuno yang berbicara bahasa Sanskerta, secara harfiah: Tamu yang ramah (Thieme)); Orang mulia, pria terhormat
 :::
-siṃha m.: lion (_Panthera leo persica_)
-::: media
-![](/images/lekt1506.webp)
-Fig.: siṃhaḥ
-(Image source: [Details](/en/licenses#lekt1506))
-:::
-vyāghra m.: tiger (_Panthera tigris tigris_) (literally: yawner)
-::: media
-![](/images/lekt1507.webp)
-Fig.: vyāghraḥ
-(Image source: [Details](/en/licenses#lekt1507))
-:::
-iva (postposed): as if, like (in comparisons: vyāghra iva puruṣaḥ = “a man like a tiger,” “a tiger-like man”)
-
-eva (postposed): menekankan kata sebelumnya, sering kali sesuai dalam bahasa Jerman dengan penekanan, semacam emotikon `\&lt;!&gt;`, misalnya satyameva jayati “kebenaran saja menang,” “kebenaran secara spesifik menang,” “kebenaran menang”
-
-ari m.: enemy (according to Thieme, Der Fremdling im Ṛgveda: originally = stranger)
+ke ⟪जन्⟫
 
 ::: indent
-ārya 3: Aryan, noble ; m. Aryan (self-designation of Sanskrit-speaking ancient Indians, literally: hospitable (Thieme)) ; noble person, gentleman
+⟪जाति⟫ f.: kelahiran, jenis, kasta (ke ⟪जाति⟫ sebagai kasta lihat Basham, Wonder, hlm. 148ff.)
 :::
-to jan
+⟪मृ⟫ 4 Ā ⟪म्रियते⟫ ; Pass. ⟪म्रियते⟫ ; PPP ⟪मृत⟫ : mati (menurut ahli tata bahasa India: 6 Ā)
+
+darinya:
 
 ::: indent
-jāti f.: birth, kind, caste (on jāti as caste, see Basham, Wonder, pp. 148ff.)
+⟪मरण⟫ n.: kematian, mati
+
+⟪मृति⟫ f.: kematian, mati
+
+⟪मृत्यु⟫ m.: kematian; dipersonifikasikan: dewa kematian
 :::
-mṛ 4 Ā mriyate ; Pass. mriyate ; PPP mṛta : die (according to Indian grammarians: 6 Ā)
+## 15.9. Latihan 1
 
-from this:
-
-::: indent
-maraṇa n.: dying, death
-
-mṛti f.: dying, death
-
-mṛtyu m.: death ; personified: god of death
-:::
-## 15.9. Exercise 1
-
-Uraikan gabungan kata Sanskerta berikut sebagai *Tatpuruṣa* dan berikan terjemahan bahasa Jerman. Berikan semua uraian dan terjemahan yang menurut Anda masuk akal. Juga sebutkan kasus dan jumlah dari keseluruhan gabungan kata tersebut.
+Pecahkan komposita berikut sebagai Tatpuruṣa dalam bahasa Sanskerta dan berikan terjemahan bahasa Jerman. Berikan semua resolusi dan terjemahan yang menurut Anda mungkin. Sebutkan juga kasus dan bilangan apa yang dimiliki oleh komposita keseluruhan tersebut.
 
 ⟪१⟫. ⟪देवेन्द्रस्य⟫
 
@@ -388,9 +366,9 @@ Uraikan gabungan kata Sanskerta berikut sebagai *Tatpuruṣa* dan berikan terjem
 
 ⟪३०⟫. ⟪सत्यवदनम्⟫
 
-## 15.10. Exercise 2
+## 15.10. Latihan 2
 
-Resolve the following *Tatpuruṣa* compounds, as in Exercise 1:
+Pecahkan seperti pada Latihan 1 berikut Tatpuruṣa:
 
 ⟪१⟫. ⟪देवतागृहम्⟫
 
@@ -511,17 +489,17 @@ Resolve the following *Tatpuruṣa* compounds, as in Exercise 1:
 ⟪५९⟫. ⟪कारुकुशीलवकृतम्⟫
 
 ⟪६०⟫. ⟪द्विजातिशुश्रूषया⟫
-
 ::: media
 ![](/images/lekt1508.webp)
-Fig.: ⟪ग्रामदेवता⟫
-(Image source: [Details](/en/licenses#lekt1508))
+Ilm.: ⟪ग्रामदेवता⟫
+(Sumber gambar: [Details](/id/licenses#lekt1508))
+
 :::
-## 15.11. Exercise 3
+## 15.11. Latihan 3
 
 A) Terjemahkan peribahasa di awal pelajaran
 
-B) Resolve the following Tatpuruṣa compounds:
+B) Uraikan Tatpuruṣa berikut:
 
 ⟪१⟫. ⟪बलकृतः⟫
 
@@ -574,22 +552,22 @@ B) Resolve the following Tatpuruṣa compounds:
 ⟪२५⟫. ⟪वर्णधर्मः⟫
 
 ⟪२६⟫. ⟪श्रुत्युदितम्⟫
-
 ::: media
 ![](/images/lekt1509.webp)
-Fig.: ⟪नागदेवाः⟫
-(Image source: [Details](/en/licenses#lekt1509))
+Gambar: ⟪नागदेवाः⟫
+(Sumber gambar: [Details](/id/licenses#lekt1509))
 :::
+
 ::: deleteme-box
 
-
-- **Fig.: ⟪लक्ष्मी⟫** (Lakshmi): Painting by ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848–1906). Image source: Wikipedia, Public domain.
-- **Fig.: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Image source: Wikipedia, Public domain.
-- **Diagram** (lekt1502.jpg): Diagram illustrating the decomposition of compounds. Image source: Alois Payer / Original course graphic.
-- **Fig.: ⟪पूजा⟫** (Puja): A Puja ceremony held in Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Image source: Wikipedia, Public domain.
-- **Fig.: ⟪इन्द्रः⟫** (Indra): Folio from a Panchakalyanaka, Rajasthan, Amber. Image source: Wikipedia, Public domain.
-- **Fig.: ⟪सिंहः⟫** (Lion): *Panthera leo persica*. Image source: Wikipedia, GNU FDL.
-- **Fig.: ⟪व्याघ्रः⟫** (Tiger): Bandhavgarh National Park (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫). Image source: U.S. Fish and Wildlife Service / Wikipedia, Public domain.
-- **Fig.: ⟪ग्रामदेवता⟫** (Gramadevata): Lord Virpanath @ Pasvadal village, Vadgam, Gujarat, India. Image source: ganuullu (Flickr), Creative Commons License.
-- **Fig.: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Image source: Dineshkannambadi / Wikipedia, GNU FDL.
+- **Gambar: ⟪लक्ष्मी⟫** (Lakshmi): Lukisan oleh ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Sumber gambar: Wikipedia, Domain Publik.
+- **Gambar: ⟪नरसिंहः⟫** (Narasimha): Belur (ಬೇಲೂರು), Karnataka (ಕರ್ನಾಟಕ). Sumber gambar: Wikipedia, Domain Publik.
+- **Diagram** (lekt1502.jpg): Diagram untuk penguraian komposita. Sumber gambar: Alois Payer / Grafik Kursus Asli.
+- **Gambar: ⟪पूजा⟫** (Puja): Upacara Puja yang diadakan di Kakinada (కాకినాడ), Andhra Pradesh (ఆంధ్ర ప్రదేశ్), India. Sumber gambar: Wikipedia, Domain Publik.
+- **Gambar:  ⟪इन्द्रः⟫** (Indra): Folio dari Panchakalyanaka, Rajasthan, Amber. Sumber gambar: Wikipedia, Domain Publik.
+- **Gambar: ⟪सिंहः⟫** (Singa): Panthera leo persica. Sumber gambar: Wikipedia, GNU FDLicense.
+- **Gambar: ⟪व्याघ्रः⟫** (Harimau): Taman Nasional Bandhavgarh (⟪बांधवगढ⟫ ⟪राष्ट्रीय⟫ ⟪उद्दान⟫). Sumber gambar: U.S. Fish and Wildlife Service / Wikipedia, Domain Publik.
+- **Gambar: ⟪ग्रामदेवता⟫** (Gramadevata): Lord Virpanath @ desa Pasvadal, Vadgam, Gujarat, India. Sumber gambar: ganuullu (Flickr), Lisensi Creative Commons.
+- **Gambar: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Sumber gambar: Dineshkannambadi / Wikipedia, GNU FDLicense.
 :::
+

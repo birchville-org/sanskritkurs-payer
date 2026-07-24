@@ -171,7 +171,7 @@ Existeschan differentas tipps da furmaziun:
 :::
 Exempels:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Radis | Kausativ 3. sg. Indicativ preschent | Significaziun |
 | :--- | :--- | :--- |
 | ⟪विश्⟫ | ⟪वेशयति⟫ | er/sie/es lässt eintreten, führt hinein |
 | ⟪लुभ्⟫ | ⟪लोभयति⟫ | begehren machen, begehrlich machen, verlocken |
@@ -185,11 +185,11 @@ Exempels:
 :::
 Exempels:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Radis | Kausativ 3. sg. Indicativ preschent | Significaziun |
 | :--- | :--- | :--- |
-| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | bewirken, dass jemand oder etwas wird, hervorbringen |
-| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | bewirken, dass jemand geht |
-| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | führen lassen |
+| ⟪भू⟫ | ⟪भावयति⟫:br(da: bhau-aya-ti) | bewirken, dass jemand ni etwas wird, hervorbringen |
+| ⟪इ⟫ | ⟪आययति⟫:br(da: ai-aya-ti) | bewirken, dass jemand geht |
+| ⟪नी⟫ | ⟪नाययति⟫:br(da: nai-aya-ti) | führen lassen |
 | ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | machen lassen |
 | ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | sprechen lassen, sprechen machen, (einen Text sprechen machen =) laut lesen |
 
@@ -200,7 +200,7 @@ Exempels:
 :::
 Ezempli:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Radis | Kausativ 3. sg. Indicativ preschent | Significaziun |
 | :--- | :--- | :--- |
 | ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | (jemanden) verderben |
 
@@ -211,10 +211,10 @@ Ezempli:
 :::
 Exemplas:
 
-| Wurzel | Kausativ 3. sg. Indikativ Präsens | Bedeutung |
+| Radis | Kausativ 3. sg. Indicativ preschent | Significaziun |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | stehen machen, aufstellen |
-| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(da: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | studieren lassen, unterrichten |
 
 ::: grammar-box
 **Furmaziuns irregularas:**

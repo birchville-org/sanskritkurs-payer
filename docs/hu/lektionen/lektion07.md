@@ -1,300 +1,300 @@
 ---
-title: Lektion 7
-subtitle: "Den Verbalsatz mit direktem Objekt"
+title: 7. lecke
+subtitle: "A mondat igéi szerkezete közvetlen tárggyal"
 lesson_id: 7
 last_reconstructed: 2026-05-07
-category: "Grammatik"
+category: "Nyelvtan"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 7 <!-- TODO: Fallback translation -->
+# 7. lecke
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Den Verbalsatz mit direktem Objekt <!-- TODO: Fallback translation -->
-- Den tárgyeset (accusativus) der Nomina und Pronomina <!-- TODO: Fallback translation -->
-- Den Sandhi von auslautendem -n <!-- TODO: Fallback translation -->
-- Das semlegesnem der a-Stämme <!-- TODO: Fallback translation -->
-- Die athematischen Jelen időklassen (am Példa der 5. Klasse) <!-- TODO: Fallback translation -->
+**Ebben a leckében megtanulják:**
+- A mondat igéi szerkezete közvetlen tárggyal
+- A főnevek és névmások tárgyesete (accusativus)
+- A végződő -n Sandhi-ja
+- Az a-tövek semleges nemű alakjai
+- A hangtalan jelen idő osztályok (az 5. osztály példáján)
 :::
 
 ::: center
-**Wochenspruch** <!-- TODO: Fallback translation -->
+**Heti idézet**
 :::
 
 ::: center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
 ⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
-⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ⟪||⟫ <!-- TODO: Fallback translation -->
+⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ⟪||⟫
 
 **dharmo jayati nādharmaḥ**
 **satyaṃ jayati nānṛtam |**
 **kṣamā jayati na krodho**
-**devo jayati nāsuraḥ ||** <!-- TODO: Fallback translation -->
+**devo jayati nāsuraḥ ||**
 
-Das Recht siegt, nicht das Unrecht,
-Die Wahrheit siegt, nicht die Unwahrheit,
-Nachsicht siegt, nicht Zorn,
-Gott siegt, nicht der Widergott. <!-- TODO: Fallback translation -->
+A jog győz, nem a bűn,
+Az igazság győz, nem az álhazság,
+[L13> A türelem győz, nem a harag,
+Az Isten győz, nem az istentelen.
 :::
 
-## 7.1. Der Verbalsatz mit direktem Objekt <!-- TODO: Fallback translation -->
+## 7.1. A ragozott mondat közvetlen tárggyal
 
 ::: grammar-box
-**Schema:**
-**(Agens = kartṛ m. = ⟪कर्तृ⟫) – direktes Objekt (karman n. = ⟪कर्मन्⟫) – Verb** <!-- TODO: Fallback translation -->
+**Séma:**
+**(Alany = kartṛ m. = ⟪कर्तृ⟫) – közvetlen tárgy (karman n. = ⟪कर्मन्⟫) – ige**
 
-z.B. <!-- TODO: Fallback translation -->
-- **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma isst (kaut) eine Frucht." <!-- TODO: Fallback translation -->
-- **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Der Brahmane verehrt einen Gott mit einem Opfer (für jemand anderes)." <!-- TODO: Fallback translation -->
+pl.
+- **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : „Ráma eszik (kaut) egy gyümölcsöt.”
+- **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : „A bráhmanas istent áldozattal tisztel (valaki másért).”
 :::
-Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**karman** n. = ⟪कर्मन्⟫) im Allgemeinen im **Akkusativ** (Wenfall, dvitīyā f. = ⟪द्वितीया⟫). <!-- TODO: Fallback translation -->
+Ha az ige a parasmaipada vagy az Ātmanepada alakjában áll, akkor a közvetlen tárgy (**karman** n. = ⟪कर्मन्⟫) általában a **tárgyesetben** áll (Wenfall, dvitīyā f. = ⟪द्वितीया⟫).
 
-## 7.2. Der Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung") <!-- TODO: Fallback translation -->
+## 7.2. A tárgyeset (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = „második esetrag”)
 
 ::: grammar-box
-**Endung des Akkusativ Singular Maskulinum und Femininum nach Vokal: -m** <!-- TODO: Fallback translation -->
+**A tárgyeset egyes számú nemű és nőnemű végződése magánhangzó után: -m**
 
-| Maskulina auf | tárgyeset (accusativus) egyes szám | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **-a**: deva | **devam** :br⟪देवम्⟫ | <!-- TODO: Fallback translation -->
-| **-i**: kavi | **kavim** :br⟪कविम्⟫ | <!-- TODO: Fallback translation -->
-| **-u**: guru | **gurum** :br⟪गुरुम्⟫ | <!-- TODO: Fallback translation -->
-| Feminina auf | tárgyeset (accusativus) egyes szám | <!-- TODO: Fallback translation -->
-| **-ā**: devatā | **devatām** :br⟪देवताम्⟫ | <!-- TODO: Fallback translation -->
-| **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ | <!-- TODO: Fallback translation -->
-| **-ī**: devī | **devīm** :br⟪देवीम्⟫ | <!-- TODO: Fallback translation -->
-| **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ | <!-- TODO: Fallback translation -->
+| Hímnemű szavak végződése | tárgyeset (accusativus) egyes szám |
+| :--- | :--- |
+| **-a**: deva | **devam** :br⟪देवम्⟫ |
+| **-i**: kavi | **kavim** :br⟪कविम्⟫ |
+| **-u**: guru | **gurum** :br⟪गुरुम्⟫ |
+| Nőnemű szavak végződése | tárgyeset (accusativus) egyes szám |
+| **-ā**: devatā | **devatām** :br⟪देवताम्⟫ |
+| **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ |
+| **-ī**: devī | **devīm** :br⟪देवीम्⟫ |
+| **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ |
 :::
 ::: grammar-box
-**Akkusativ Plural Maskulinum der Stämme auf Vokal (Ausnahme: einsilbige Wurzelstämme auf langen Vokal): Längung des auslautenden Vokals + -n** <!-- TODO: Fallback translation -->
+**A magánhangzóra végződő tövek hímnemű alakjainak többes szám tárgyesete (kivéve: egy szótagú gyöktövek hosszú magánhangzóra): a szóvégi magánhangzó megnyújtása + -n**
 
-| Maskulina auf | tárgyeset (accusativus) többes szám | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **-a**: deva | **devān** :br⟪देवान्⟫ | <!-- TODO: Fallback translation -->
-| **-i**: kavi | **kavīn** :br⟪कवीन्⟫ | <!-- TODO: Fallback translation -->
-| **-u**: guru | **gurūn** :br⟪गुरून्⟫ | <!-- TODO: Fallback translation -->
+| Hímnemű szavak végződése | tárgyeset (accusativus) többes szám |
+| :--- | :--- |
+| **-a**: deva | **devān** :br⟪देवान्⟫ |
+| **-i**: kavi | **kavīn** :br⟪कवीन्⟫ |
+| **-u**: guru | **gurūn** :br⟪गुरून्⟫ |
 :::
 ::: grammar-box
-**Akkusativ Plural Femininum der Stämme auf Vokal (Ausnahme: einsilbige Wurzelstämme auf langen Vokal): Längung des auslautenden Vokals + -s** <!-- TODO: Fallback translation -->
+**A magánhangzóra végződő tövek nőnemű alakjainak többes szám tárgyesete (kivéve: egy szótagú gyöktövek hosszú magánhangzóra): a szóvégi magánhangzó megnyújtása + -s**
 
-| Feminina auf | tárgyeset (accusativus) többes szám | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **-ā**: devatā | **devatās** :br⟪देवतास्⟫ | <!-- TODO: Fallback translation -->
-| **-i**: śruti | **śrutīs** :br⟪श्रुतीस्⟫ | <!-- TODO: Fallback translation -->
-| **-ī**: devī | **devīs** :br⟪देवीस्⟫ | <!-- TODO: Fallback translation -->
-| **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ | <!-- TODO: Fallback translation -->
+| Nőnemű szavak végződése | tárgyeset (accusativus) többes szám |
+| :--- | :--- |
+| **-ā**: devatā | **devatās** :br⟪देवतास्⟫ |
+| **-i**: śruti | **śrutīs** :br⟪श्रुतीस्⟫ |
+| **-ī**: devī | **devīs** :br⟪देवीस्⟫ |
+| **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
 
-### 7.2.1. Akkusativ Singular und Plural der Frage- und Demonstrativpronomina <!-- TODO: Fallback translation -->
+### 7.2.1. A kérdő- és mutató névmások egyes és többes számú tárgyesete
 
 ::: grammar-box
-| || hímnem | nőnem | semlegesnem | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **kim** :brwer/was | sg. | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ | <!-- TODO: Fallback translation -->
-| | pl. | **kān** :br⟪कान्⟫ | **kās** :br⟪कास्⟫ | **kāni** :br⟪कानि⟫ | <!-- TODO: Fallback translation -->
-| **tad** :brer/es/jenes | sg. | **tam** :br⟪तम्⟫ | **tām** :br⟪ताम्⟫ | **tad** :br⟪तद्⟫ | <!-- TODO: Fallback translation -->
-| | pl. | **tān** :br⟪तान्⟫ | **tās** :br⟪तास्⟫ | **tāni** :br⟪तानि⟫ | <!-- TODO: Fallback translation -->
-| **etad** :brdieses hier | sg. | **etam / enam** :br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām** :br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad** :br⟪एतद्⟫ / ⟪एनद्⟫ | <!-- TODO: Fallback translation -->
-| | pl. | **etān / enān** :br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās** :br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni** :br⟪एतानि⟫ / ⟪एनानि⟫ | <!-- TODO: Fallback translation -->
-| **idam** :brdieses | sg. | **imam / enam** :br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām** :br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad** :br⟪इदम्⟫ / ⟪एनद्⟫ | <!-- TODO: Fallback translation -->
-| | pl. | **imān / enān** :br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās** :br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni** :br⟪इमानि⟫ / ⟪एनानि⟫ | <!-- TODO: Fallback translation -->
+| || hímnem | nőnem | semlegesnem |
+| :--- | :--- | :--- | :--- | :--- |
+| **kim** :brwer/was | sg. | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
+| | pl. | **kān** :br⟪कान्⟫ | **kās** :br⟪कास्⟫ | **kāni** :br⟪कानि⟫ |
+| **tad** :brer/jenes | sg. | **tam** :br⟪तम्⟫ | **tām** :br⟪ताम्⟫ | **tad** :br⟪तद्⟫ |
+| | pl. | **tān** :br⟪तान्⟫ | **tās** :br⟪तास्⟫ | **tāni** :br⟪तानि⟫ |
+| **etad** :brdieses hier | sg. | **etam / enam** :br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām** :br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad** :br⟪एतद्⟫ / ⟪एनद्⟫ |
+| | pl. | **etān / enān** :br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās** :br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni** :br⟪एतानि⟫ / ⟪एनानि⟫ |
+| **idam** :brdieses | sg. | **imam / enam** :br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām** :br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad** :br⟪इदम्⟫ / ⟪एनद्⟫ |
+| | pl. | **imān / enān** :br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās** :br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni** :br⟪इमानि⟫ / ⟪एनानि⟫ |
 :::
-Die Formen **enam** (⟪एनम्⟫) usw. gehören zum Stamm **enad** (⟪एनद्⟫), der nur in einigen Kasus Formen bildet. Diese werden statt der Formen von **etad** und **idam** dann verwendet, wenn das damit Bezeichnete im Vorhergehenden bereits erwähnt wurde.
-z.B. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : "Er ist ein Gott. Man opfert ihm." <!-- TODO: Fallback translation -->
+Az **enam** (⟪एनम्⟩) stb. alakok a **enad** (⟪एनद्⟩) tövhez tartoznak, amely csak egyes esetekben képez alakokat. Ezeket az **etad** és **idam** alakok helyett használják, ha a rájuk utaló dolog az előző szövegben már szerepelt.
+pl. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟩ ⟪देवः⟩ | ⟪एनं⟩ ⟪यजन्ते⟩ || : "Ő egy isten. Áldozatot mutatnak be neki."
 
-### 7.2.2. Gebrauch des Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung") <!-- TODO: Fallback translation -->
+### 7.2.2. Az akkusativus (dvitīyā f. = ⟪द्वितीया⟩) használata
 
 ::: grammar-box
-Der Akkusativ (dvitīyā f. = ⟪द्वितीया⟫) bezeichnet: <!-- TODO: Fallback translation -->
-1. Im nicht-passiven Verbalsatz: das **direkte Objekt** (karman n. = ⟪कर्मन्⟫) der durch das Verb ausgedrückten Handlung: <!-- TODO: Fallback translation -->
-   z.B. <!-- TODO: Fallback translation -->
-   - **devaṃ yajati** = ⟪देवं⟫ ⟪यजति⟫ : "Er verehrt einen Gott mit einem Opfer." <!-- TODO: Fallback translation -->
-   - **phalam āpnoti** = ⟪फलमाप्नोति⟫ : "Er erlangt die Frucht (z.B. seines Handelns)." <!-- TODO: Fallback translation -->
-2. Bei Verben, die ein Gehen, eine Bewegung, ein Führen oder dergl. nach etwas hin ausdrücken, bezeichnet der tárgyeset (accusativus) das Ziel der Bewegung: <!-- TODO: Fallback translation -->
-   z.B. <!-- TODO: Fallback translation -->
-   - **narakaṃ gacchati** = ⟪नरकं⟫ ⟪गच्छति⟫ : "Er geht zur Hölle." <!-- TODO: Fallback translation -->
+Az akkusativus (dvitīyā f. = ⟪द्वितीया⟩) a következőket jelöli:
+1. Nem passzív igemondatban: a **karman n.** (⟪कर्मन्⟩) kifejezett cselekvés **közvetlen tárgyát**:
+pl.
+- **devaṃ yajati** = ⟪देवं⟩ ⟪यजति⟩ : "Egy istennek mutat be áldozatot."
+- **phalam āpnoti** = ⟪फलमाप्नोति⟩ : "Eléri a gyümölcsöt (pl. cselekedetének eredményét)."
+2. Mozgást, haladást vagy hasonló cselekvést kifejező igéknél az akkusativus a mozgás célját jelöli:
+pl.
+- **narakaṃ gacchati** = ⟪नरकं⟩ ⟪गच्छति⟩ : "A pokolba megy."
 :::
-Weitere Verwendungen des Akkusativ werden später behandelt. <!-- TODO: Fallback translation -->
+Az akkusativus további használatát később tárgyaljuk.
 
-## 7.3. Sandhi von auslautendem -n <!-- TODO: Fallback translation -->
+## 7.3. A végződő -n sandhi-ja
 
 ::: grammar-box
-**Auslautendes -n:** <!-- TODO: Fallback translation -->
+**Kiejtés végén -n:**
 
-1. Wird vor stimmhaften palatalen und retroflexen sparśa und vor **ś-** durch den diesen Lauten entsprechenden Nasal ersetzt: <!-- TODO: Fallback translation -->
-   - **-n** vor **j-, jh-, ñ-, ś-** » **-ñ** <!-- TODO: Fallback translation -->
-   - **-n** vor **ḍ-, ḍh-, ṇ-, ṣ-** » **-ṇ** <!-- TODO: Fallback translation -->
-   z.B. **kṣatriyān + jayati** » **kṣatriyāñ jayati** = ⟪क्षत्रियांञ्जयति⟫ : "Er besiegt die Kṣatriyas."
-   Anlautendes **ś-** wird dann meist durch **ch-** ersetzt:
-   **gurūn + śṛṇoti** » **gurūñ chṛṇoti** (neben gurūñ śṛṇoti) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : "Er hört die Lehrer." "Er hört auf die Lehrer." <!-- TODO: Fallback translation -->
+1. Hangzó palatális és retroflexus sparśa, valamint **ś-** előtt a hangnak megfelelő nazálissal helyettesítendő:
+- **-n** **j-, jh-, ñ-, ś-** előtt » **-ñ**
+- **-n** **ḍ-, ḍh-, ṇ-, ṣ-** előtt » **-ṇ**
+pl. **kṣatriyān + jayati** » **kṣatriyāñ jayati** = ⟪क्षत्रियांञ्जयति⟫ : „Megveri a kṣatriyákat.”
+Az **ś-** kezdetű szó elején általában **ch**-vá alakul:
+**gurūn + śṛṇoti** » **gurūñ chṛṇoti** (mellékelve gurūñ śṛṇoti) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : „Hallgatja a tanárokat.” „Figyel a tanárokra.”
 
-2. Wird vor anlautendem **l-** durch **-l** mit Anunāsika (nasaliertes l, in der Schrift ⟪ल्⟫ mit Anunāsika ⟪ँ⟫) ersetzt: <!-- TODO: Fallback translation -->
-   z.B. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Er erhält Nutztiere." <!-- TODO: Fallback translation -->
+2. Hangzó **l-** kezdetű szó elején **-l** Anunāsika-val (nazalizált l, írásban ⟪ल्⟫ Anunāsika-val ⟪ँ⟫) helyettesítendő:
+pl. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : „Haszonállatokat szerez.”
 
-3. Wird vor anlautendem stimmlosen Palatal, Retroflex oder Dental durch **Anusvāra** + dem diesen Lauten entsprechenden Zischlaut ersetzt: <!-- TODO: Fallback translation -->
-   - **-n** vor **c-, ch-** » **-ṃś** <!-- TODO: Fallback translation -->
-   - **-n** vor **ṭ-, ṭh-** » **-ṃṣ** <!-- TODO: Fallback translation -->
-   - **-n** vor **t-, th-** » **-ṃs** <!-- TODO: Fallback translation -->
-   z.B. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : "und die Götter (Akk.)"
-   **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : "aber die Götter (Akk.)" <!-- TODO: Fallback translation -->
+3. Hangzó palatális, retroflexus vagy dentális szó elején **Anusvāra** + a hangnak megfelelő sziszegővel helyettesítendő:
+- **-n** **c-, ch-** előtt » **-ṃś**
+- **-n** **ṭ-, ṭh-** előtt » **-ṃṣ**
+- **-n** **t-, th-** előtt » **-ṃs**
+pl. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : „és az istenek (tárgyeset)”
+**devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : „de az istenek (tárgyeset)”
 
-4. Ausser nach kurzem Vokal (siehe später) bleibt auslautendes **-n** in allen übrigen Fällen unverändert. <!-- TODO: Fallback translation -->
+4. Rövid magánhangzó után (lásd később) a szó végén álló **-n** minden más esetben változatlan marad.
 :::
 
-## 7.4. Das Neutrum (napuṃsaka n. = ⟪नपुंसक⟫) <!-- TODO: Fallback translation -->
+## 7.4. A középnem (napuṃsaka n. = ⟪नपुंसक⟫)
 
 ::: grammar-box
-**Im Neutrum sind die Formen für Nominativ (prathamā) und Akkusativ (dvitīyā) identisch.** <!-- TODO: Fallback translation -->
+**A középnemben a nominatívus (prathamā) és az akkusztívus (dvitīyā) alakjai megegyeznek.**
 :::
-### 7.4.1. Neutrum der Stämme auf -a <!-- TODO: Fallback translation -->
+### 7.4.1. Az -a végű tövek középneme
 
 ::: grammar-box
-- **Végződés alanyeset (nominativus) / tárgyeset (accusativus) egyes szám: -m** <!-- TODO: Fallback translation -->
-  z.B. **phala** n. = ⟪फल⟫ = "Frucht": Nom. / Akk. sg. **phalam** = ⟪फलम्⟫ <!-- TODO: Fallback translation -->
-- **Végződés alanyeset (nominativus) / tárgyeset (accusativus) többes szám: -āni** <!-- TODO: Fallback translation -->
-  z.B. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫ <!-- TODO: Fallback translation -->
+- **Tárgyeset (nominativus) / alanyeset (accusativus) egyes szám: -m**
+pl. **phala** n. = ⟪फल⟫ = "gyümölcs": Nom. / Akk. sg. **phalam** = ⟪फलम्⟫
+- **Tárgyeset (nominativus) / alanyeset (accusativus) többes szám: -āni**
+pl. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
 :::
 
-## 7.5. Athematische Präsensklassen <!-- TODO: Fallback translation -->
+## 7.5. Athematikus jelenidőosztályok
 
-Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h. der Präsensstamm lautet nicht wie bei den thematischen Präsensklassen (1., 4., 6., 10. Klasse) auf den "Themavokal" **-a** aus. <!-- TODO: Fallback translation -->
+Az ötödik jelenidőosztály egy úgynevezett athematikus jelenidőtövi alakot képez, azaz a jelenidőstamm nem – mint a tematikus jelenidőosztályoknál (1., 4., 6., 10. osztály) – a „témavokál” **-a** végződésre végződik.
 
 ::: grammar-box
-**Die athematischen Präsensklassen haben Stammabstufung, d.h. es gibt zwei Formen des Präsensstamms:** <!-- TODO: Fallback translation -->
-1. **starker Tő**: hochstufig (selten dehnstufig) <!-- TODO: Fallback translation -->
-2. **schwacher Tő**: tiefstufig <!-- TODO: Fallback translation -->
+**Az athematikus jelenidőosztályok tőváltást mutatnak, azaz két alakja van a jelenidőtönek:**
+1. **erős tő**: magas fokú (ritkán nyújtott fokú)
+2. **gyenge tő**: mély fokú
 
-**Der starke Stamm steht:** <!-- TODO: Fallback translation -->
-- im Indikativ egyes szám Parasmaipada Jelen idő (laṭ) und Múlt idő (imperfektum) (laṅ) <!-- TODO: Fallback translation -->
-- allen ersten Personen des Felszólító mód (loṭ) Parasmaipada und Ātmanepada <!-- TODO: Fallback translation -->
-- in der dritten Person egyes szám Felszólító mód (loṭ) Parasmaipada <!-- TODO: Fallback translation -->
+**Az erős töm a következő helyeken áll:**
+- az egyes szám jelzős mód (laṭ) és múlt idő (imperfektum) (laṅ) jelzős módjában Parasmaipada
+- az első személyek mind a Felszólító mód (loṭ) Parasmaipada és Ātmanepada
+- a harmadik személy egyes szám Felszólító mód (loṭ) Parasmaipada
 
-**Alle anderen Formen haben den schwachen Präsensstamm.** <!-- TODO: Fallback translation -->
+**Minden más alak a gyenge jelenidő-tőre épül.**
 :::
-### 7.5.1. Primärendungen der 3. Person Plural bei athematischen Stämmen <!-- TODO: Fallback translation -->
+### 7.5.1. A harmas szám többes számú személyei az athematikus tőknél
 
 ::: grammar-box
-**Bei athematischen Präsensstämmen lauten die Primärendungen der 3. Person Plural:** <!-- TODO: Fallback translation -->
-- **Parasmaipada: -anti** <!-- TODO: Fallback translation -->
-- **Ātmanepada: -ate** <!-- TODO: Fallback translation -->
+**Az athematikus jelenidő-tők esetén a harmas szám többes számú személyei:**
+- **Parasmaipada: -anti**
+- **Ātmanepada: -ate**
 :::
-### 7.5.2. Die 5. Präsensklasse (svādi = ⟪स्वादि⟫ = "su usw.") <!-- TODO: Fallback translation -->
+### 7.5.2. Az ötödik jelenidő-osztály (svādi = ⟪स्वादि⟫ = "su stb.")
 
 ::: grammar-box
-- **Starker Tő**: (meist) tiefstufige Tő (wie angeführt) + **-no-** <!-- TODO: Fallback translation -->
-- **Schwacher Tő**: (meist) tiefstufige Tő (wie angeführt) + **-nu-** <!-- TODO: Fallback translation -->
+- **Erős tő**: (általában) mély fokú tő (ahogy fentebb említve) + **-no-**
+- **Gyenge tő**: (általában) mély fokú tő (ahogy fentebb említve) + **-nu-**
 
-**Vor vokalischen Endungen wird bei vokalisch auslautenden Wurzeln -nu- durch -nv- ersetzt, bei konsonantisch auslautenden Wurzeln wird vor vokalischen Endungen -nu- durch -nuv- ersetzt.** <!-- TODO: Fallback translation -->
+**Magánhangzó végződés előtt magánhangzóra végződő gyököknél a -nu- helyett -nv-, mássalhangzóra végződő gyököknél pedig magánhangzó végződés előtt a -nu- helyett -nuv- szerepel.**
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**Példák:**
 
-| Tő:br⟪धातु⟫ | Starker Tő | Schwacher Tő | Vor Vokal:br(schwach) | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) | <!-- TODO: Fallback translation -->
-| **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) | <!-- TODO: Fallback translation -->
-| **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) | <!-- TODO: Fallback translation -->
-| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) | <!-- TODO: Fallback translation -->
+| Tő:br⟪धातु⟫ | Erős tő | Gyenge tő | Magánhangzó előtt:br(gyenge) |
+| :--- | :--- | :--- | :--- |
+| **āp** :br5 P:br⟪आप्⟫:br"elérni" | **āp-no** :br(3. sz. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3. szpl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
+| **aś** :br5 Ā:br⟪अश्⟫:br"elérni" | — | **aś-nu** :br(3. sz. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3. szpl. aśnuvate = ⟪अश्नुवते⟫) |
+| **su** :br5 U:br⟪सु⟫:br"kinyomni" | **su-no** :br(3. sz. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3. sz. sunute = ⟪सुनुते⟫) | **su-nv** :br(3. szpl. sunvanti = ⟪सुन्वन्ति⟫,:br3. szpl. sunvate = ⟪सुन्वते⟫) |
+| **śru** :br5 P:br⟪श्रु⟫:br"hallani" | **śṛ-ṇo** :br(3. sz. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3. szpl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
-## 7.6. Wortliste <!-- TODO: Fallback translation -->
+## 7.6. Szószedet
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**Tanulják meg a következő szavakat:**
 
-- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : erreichen, gelangen zu, erlangen <!-- TODO: Fallback translation -->
-- **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : erreichen, erlangen <!-- TODO: Fallback translation -->
-- **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : zürnen <!-- TODO: Fallback translation -->
-- **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : zürnen <!-- TODO: Fallback translation -->
-- **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : kauen, essen <!-- TODO: Fallback translation -->
-- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : hören (etwas: tárgyeset (accusativus), jemanden: birtokos eset (genitivus) oder tárgyeset (accusativus); über: tárgyeset (accusativus); von jemandem: birtokos eset (genitivus), ablativus, eszközhatározó eset (instrumentalis)) <!-- TODO: Fallback translation -->
-- **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : auspressen <!-- TODO: Fallback translation -->
-- **soma** m. ⟪सोम⟫ : Presstrank, Soma; Mond (Aus welcher Pflanze Soma gepresst wurde, ist bis heute umstritten). <!-- TODO: Fallback translation -->
+- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : elérni, eljutni, birtokba venni
+- **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : elérni, birtokba venni
+- **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : dühöngeni
+- **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : dühöngeni
+- **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : rágcsálni, enni
+- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : hallani (valamit: tárgyeset, valakit: birtokos eset vagy tárgyeset; valamiről: tárgyeset; valakitől: birtokos eset, ablativeus, instrumentalis)
+- **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : kinyomni
+- **soma** m. ⟪सोम⟫ : kinyomott ital, Szóma; Hold (Melyik növényből préselték a Szomát, máig vitatott).
 ::: media
 ![](/images/lekt0701.webp)
-Abb.: War das die vedische Somapflanze?: Fliegenpilz: *Amanita muscaria* (L.) Lam.
-(Bildquelle: [Details](/licenses#lekt0701)) <!-- TODO: Fallback translation -->
+Kép: Ez volt-e a védikus Szóma-növény?: Lúdbirka-gomba: *Amanita muscaria* (L.) Lam.
+(Képmegjelenés: [Részletek](/hu/licenses#lekt0701))
 :::
-- **phala** n. ⟪फल⟫ : Frucht (auch im übertragenen Sinn: (karmische) Frucht einer Tat) <!-- TODO: Fallback translation -->
-- **nṛtya** n. ⟪नृत्य⟫ : Tanz <!-- TODO: Fallback translation -->
-- **svarga** m. ⟪स्वर्ग⟫ : Himmel <!-- TODO: Fallback translation -->
-- **naraka** m. ⟪नरक⟫ : Hölle (nach einer Hinduauffassung hat das Universum die Form eines Eis (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Ei Brahmās"): oberhalb der Erde sind sechs Himmel mit ansteigender Glückseligkeit, unterhalb der Erde sind sieben sog. **pātāla** n. = ⟪पाताल⟫, Wohnstätten der **nāga** m. = ⟪नाग⟫ (Schlangen) und anderer mythischer Wesen, darunter kommen 7 Höllen mit steigenden Qualen) <!-- TODO: Fallback translation -->
-- **aṅga** n. ⟪अङ्ग⟫ : Glied des Körpers, Bestandteil; auch = **vedāṅga** = ⟪वेदाङ्ग⟫ <!-- TODO: Fallback translation -->
-- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : gehen (Gehört nach der einheimischen Verbklassifikation zur Jelen időklasse 1, ist aber in Wirklichkeit eine Képzés mit einem Jelen idejű tőbildungssuffix **-ccha-**: **gam** » Tiefstufe (**gm** ») **ga-ccha-ti**) <!-- TODO: Fallback translation -->
+- **phala** n. ⟪फल⟫ : gyümölcs (átvitt értelemben is: cselekedet (karmikus) gyümölcse)
+- **nṛtya** n. ⟪नृत्य⟫ : tánc
+- **svarga** m. ⟪स्वर्ग⟫ : mennyország
+- **naraka** m. ⟪नरक⟫ : pokol (egy hindu felfogás szerint az univerzum egy tojás formájú (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Brahmā tojása"): a föld felett hat mennyország van növekvő boldogsággal, a föld alatt hét úgynevezett **pātāla** n. = ⟪पाताल⟫, a **nāga** m. = ⟪नाग⟫ (kígyók) és más mitikus lények lakhelye, közöttük hét pokol van növekvő szenvedésekkel)
+- **aṅga** n. ⟪अङ्ग⟫ : testrész, alkotóelem; továbbá = **vedāṅga** = ⟪वेदाङ्ग⟫
+- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : menn (A helyi igeosztályozás szerint az 1. jelen időosztályba tartozik, de valójában egy képzés a jelen idejű tőképző utótag **-ccha-** segítségével: **gam** » mélyfok (**gm** ») **ga-ccha-ti**)
 
-## 7.7. Übung <!-- TODO: Fallback translation -->
+## 7.7. Gyakorlat
 
-**A) Setzen Sie jeweils im Singular und Plural das direkte Objekt bzw. den Richtungsakkusativ ein:** <!-- TODO: Fallback translation -->
+**A) Írja be az egyes szám és a többes szám esetén a közvetlen tárgyat, illetve az irányt kifejező akkuzatívust:**
 
-1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā) <!-- TODO: Fallback translation -->
-   ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫) <!-- TODO: Fallback translation -->
+1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
+⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
 
 ::: media
 ![](/images/lekt0704.webp)
-Abb.: Viṣṇu = ⟪विष्णु⟫, 8./9. Jahrhundert.
-(Bildquelle: [Details](/licenses#lekt0704)) <!-- TODO: Fallback translation -->
+Ábr.: Viṣṇu = ⟪विष्णु⟫, 8./9. század.
+(Képmegjelölés: [Details](/hu/licenses#lekt0704))
 :::
-2. gurus ... khādati (phala) <!-- TODO: Fallback translation -->
-   ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫) <!-- TODO: Fallback translation -->
-3. sādhus ... gacchati (svarga) <!-- TODO: Fallback translation -->
-   ⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫) <!-- TODO: Fallback translation -->
-4. śūdrā ... gacchati (naraka) <!-- TODO: Fallback translation -->
-   ⟪शूद्रा⟫ ... ⟪गच्छति⟫ (⟪नरक⟫) <!-- TODO: Fallback translation -->
-5. ... jayati (śūdra) <!-- TODO: Fallback translation -->
-   ... ⟪जयति⟫ (⟪शूद्र⟫) <!-- TODO: Fallback translation -->
-6. ... labhate (dhenu, paśu, phala) <!-- TODO: Fallback translation -->
-   ... ⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫) <!-- TODO: Fallback translation -->
+2. gurus ... khādati (phala)
+⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
+3. sādhus ... gacchati (svarga)
+⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
+4. śūdrā ... gacchati (naraka)
+⟪शूद्रा⟫ ... ⟪गच्छति⟫ (⟪नरक⟫)
+5. ... jayati (śūdra)
+... ⟪जयति⟫ (⟪शूद्र⟫)
+6. ... labhate (dhenu, paśu, phala)
+... ⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫)
 
-**B) Setzen Sie die entsprechenden Verbformen ein:** <!-- TODO: Fallback translation -->
+**B) Illessék be a megfelelő igealakokat:**
 
-1. sādhuḥ svargaṃ ... (āp, gam, aś) <!-- TODO: Fallback translation -->
-   ⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫) <!-- TODO: Fallback translation -->
-2. brāhmaṇaḥ somam ... (su) (2 Formen) <!-- TODO: Fallback translation -->
-   ⟪ब्राह्मणः⟫ ⟪सोमम्⟫ ... (⟪सु⟫) <!-- TODO: Fallback translation -->
-3. sādhur gurum ... (śru) <!-- TODO: Fallback translation -->
-   ⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫) <!-- TODO: Fallback translation -->
-4. devī ... (kup, krudh) <!-- TODO: Fallback translation -->
-   ⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫) <!-- TODO: Fallback translation -->
+1. sādhuḥ svargaṃ ... (āp, gam, aś)
+⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
+2. brāhmaṇaḥ somam ... (su) (2 Formen)
+⟪ब्राह्मणः⟫ ⟪सोमम्⟫ ... (⟪सु⟫)
+3. sādhur gurum ... (śru)
+⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫)
+4. devī ... (kup, krudh)
+⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
 
-**C) Setzen Sie in den Übungssätzen B) Agens, Objekt und Verb in den Plural.** <!-- TODO: Fallback translation -->
+**C) Írja át a B) gyakorlati mondatokat többes számra: alany, tárgy és ige.**
 
-**D) Setzen Sie ins Ātmanepada:** <!-- TODO: Fallback translation -->
+**D) Írja át Ātmanepada alakba:**
 
-1. sunvanti. <!-- TODO: Fallback translation -->
-   ⟪सुन्वन्ति⟫ | <!-- TODO: Fallback translation -->
-2. nayanti. <!-- TODO: Fallback translation -->
-   ⟪नयन्ति⟫ | <!-- TODO: Fallback translation -->
-3. sunoti. <!-- TODO: Fallback translation -->
-   ⟪सुनोति⟫ | <!-- TODO: Fallback translation -->
-4. yajati. <!-- TODO: Fallback translation -->
-   ⟪यजति⟫ | <!-- TODO: Fallback translation -->
+1. sunvanti.
+⟪सुन्वन्ति⟫ |
+2. nayanti.
+⟪नयन्ति⟫ |
+3. sunoti.
+⟪सुनोति⟫ |
+4. yajati.
+⟪यजति⟫ |
 
 ::: media
 ![](/images/lekt0702.webp)
-Abb.: **yajati** = ⟪यजति⟫ — Vedisches Opfer = **yajña** m. = ⟪यज्ञ⟫
-(Bildquelle: [Details](/licenses#lekt0702)) <!-- TODO: Fallback translation -->
+Kép: **yajati** = ⟪यजति⟫ — Védákn áldozat = **yajña** m. = ⟪यज्ञ⟫
+(Képmegjelölés: [Részletek](/hu/licenses#lekt0702))
 :::
-**E) Bilden Sie zu allen bisher gelernten Nomina den Akkusativ (dvitīyā) sg. und pl.** <!-- TODO: Fallback translation -->
+**E) Képezze meg az eddig tanos főnevek accusativusát (dvitīyā) sg. és pl.**
 
-**F) Übersetzen Sie:** <!-- TODO: Fallback translation -->
+**F) Fordítsa le:**
 
-1. narakāṃś ca svargāṃś ca gacchanti. <!-- TODO: Fallback translation -->
-   ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ | <!-- TODO: Fallback translation -->
-2. gurūṃs tu śṛṇvanti. <!-- TODO: Fallback translation -->
-   ⟪गुरूूंस्तु⟫ ⟪शृण्वन्ति⟫ | <!-- TODO: Fallback translation -->
-3. Śūdras erlangen einen Himmel. <!-- TODO: Fallback translation -->
-4. Die Kṣatriyas verehren als Opferherren die Göttinnen mit Opfern. <!-- TODO: Fallback translation -->
-5. Vaiśyafrauen verehren Gottheiten mit Opfern. <!-- TODO: Fallback translation -->
-6. Der HERR zürnt. <!-- TODO: Fallback translation -->
-7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni. <!-- TODO: Fallback translation -->
-   ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ | <!-- TODO: Fallback translation -->
-8. Welchem Gott opfert dieser Brahmane? <!-- TODO: Fallback translation -->
+1. narakāṃś ca svargāṃś ca gacchanti.
+⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ |
+2. gurūṃs tu śṛṇvanti.
+⟪गुरूूंस्तु⟫ ⟪शृण्वन्ति⟫ |
+3. A śūdrák elnyernek egy eget.
+4. A kṣatriyák isteneket áldozati urakként imádnak áldozatokkal.
+5. A vaiśyák asszonyok istenségeket imádnak áldozatokkal.
+6. Az ÚR haragszik.
+7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni.
+⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
+8. Melyik istennek áldoz ez a bráhmana?
 
 ::: media
 ![](/images/lekt0703.webp)
-Abb.: Welchem Gott opfert man hier? Antwort: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
-(Bildquelle: [Details](/licenses#lekt0703)) <!-- TODO: Fallback translation -->
+Ábra: Melyik istennek áldoznak itt? Válasz: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
+(Képmeghatározás: [Details](/hu/licenses#lekt0703))
 :::
-9. Was kaut dieser heilige Mann? <!-- TODO: Fallback translation -->
-10. Was pressen diese (hier) aus? <!-- TODO: Fallback translation -->
-11. Er ist der Lehrer. Auf ihn hört man (= hören sie). <!-- TODO: Fallback translation -->
+9. Mit rág ez a szent ember?
+10. Mit préselnek ezek (ide)?
+11. Ő a tanító. Hallgatnak rá (= hallgatók).
 

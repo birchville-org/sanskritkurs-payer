@@ -47,6 +47,13 @@ PLACEHOLDER_PATTERNS = [
     r'\bTODO\b',
     r'\bPLACEHOLDER\b',
     r'⟨DEVA_\d+⟩',
+    r'<!--\s*TODO:\s*Fallback\s*translation\s*-->',
+]
+
+# Fremde Grammatik-Begriffe in Nicht-DE Dateien
+FORBIDDEN_FOREIGN_GRAMMAR_TERMS = [
+    r'\bMaskulinum\b', r'\bFemininum\b', r'\bIndikativ Präsens\b', r'\bImperfekt\b',
+    r'\bWortbildung\b', r'\bAuslautendes\b', r'\bStammvokal\b', r'\bPassivsatz\b'
 ]
 
 # HTML-Tags die in Markdown nicht erlaubt sind (Zero-HTML Policy)

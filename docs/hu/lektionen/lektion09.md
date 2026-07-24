@@ -1,134 +1,134 @@
 ---
-title: Lektion 9
-subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
+title: 9. lecke
+subtitle: "Samāhāradvandva és -ka/-aka névmásutótagok"
 lesson_id: 9
-category: "Grammatik"
-status: "stable"
+category: "Nyelvtan"
+status: "stabil"
 last_reconstructed: 2026-05-07
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 9 <!-- TODO: Fallback translation -->
+# 9. lecke
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- Das Samāhāradvandva ("Zusammenfassungsdvandva") <!-- TODO: Fallback translation -->
-- Die Képzés von Nominalstämmen mit den Suffixen **-ka** (taddhita) und **-aka** (kṛt) <!-- TODO: Fallback translation -->
-- Wortschatz zum Thema Berufe und soziale Rollen <!-- TODO: Fallback translation -->
-- Zitate aus klassischen Gesetzestexten (Dharmaśāstras) <!-- TODO: Fallback translation -->
+**Ebben a leckében megtanulja:**
+- A Samāhāradvandva ("összefoglaló dvandva")
+- A névi alapok képzése a **-ka** (taddhita) és **-aka** (kṛt) utótagokkal
+- Szókincs a foglalkozások és társadalmi szerepek témaköréből
+- Idézetek klasszikus törvényes szövegekből (Dharmaśāstras)
 :::
 
-## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva") <!-- TODO: Fallback translation -->
+## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "összefoglaló dvandva")
 
 ::: grammar-box
-**Wenn ein Dvandva ausdrücken soll, dass eine Reihe von Dingen usw. eine Einheit bilden, dann steht es im Allgemeinen im Singular Neutrum:** <!-- TODO: Fallback translation -->
+**Ha egy Dvandva azt kívánja kifejezni, hogy egy dolgok sorozata egységet alkot, akkor általában a középnemű egyes szám áll:**
 
-z.B. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ bedeutet nicht einfach "Nahrungsaufnahme (**āhāra** m.), Schlaf (**nidrā** f.), Paarung (**maithuna** n.) und Angst (**bhaya** n.)", sondern diese vier als **Einheit**, die das tierische Leben charakterisiert. <!-- TODO: Fallback translation -->
+pl. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्रामैथुनभयम्⟫ nem egyszerűen "étel (āhāra m.), alvás (nidrā f.), párosodás (maithuna n.) és félelem (bhaya n.)"-t jelent, hanem ez a négy mint **egység**, amely jellemzi az állati életet.
 :::
-Neben dieser Grundregel zur Bildung von Samāhāradvandvas gibt es noch eine Reihe weiterer Regeln, die man bei Pāṇini 2,4,2-17 oder z.B. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a findet. In den verschiedenen Stufen der Sprachentwicklung wurden nicht immer die gleichen Regeln eingehalten! <!-- TODO: Fallback translation -->
+Ezen alapvető szabályon kívül a Samāhāradvandvas képzésére még számos további szabály létezik, amelyek Pāṇini 2,4,2-17-ben vagy pl. Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. alatt találhatók. A nyelvi fejlődés különböző szakaszaiban nem mindig tartották be ugyanazokat a szabályokat!
 
-## 9.2. Zur Bildung von Nominalstämmen <!-- TODO: Fallback translation -->
+## 9.2. A némi alapok képzéséről
 
-### 9.2.1. -ka (taddhita) <!-- TODO: Fallback translation -->
+### 9.2.1. -ka (taddhita)
 
 ::: grammar-box
-**Das taddhita-Suffix -ka bildet u.a.:** <!-- TODO: Fallback translation -->
+**A taddhita képző -ka alább főként:**
 
-1\. **Diminutiva (Verkleinerungsformen wie deutsch -chen, -lein, -li, -le):**
-   **putra m. "Sohn" » putraka m. ⟪पुत्रक⟫ "Söhnchen"** <!-- TODO: Fallback translation -->
+1\. **Kicsinyítő képzőket (német -chen, -lein, -li, -le megfelelői):**
+**putra m. "fiai" » putraka m. ⟪पुत्रक⟫ "kicsi fiú"**
 
-2\. **Nomina, die eine annähernde Ähnlichkeit bezeichnen:**
-   **aśva m. "Pferd" » aśvaka m. ⟪अश्वक⟫ "Rösslein, ein dem Pferd ähnliches Ding"** <!-- TODO: Fallback translation -->
+2\. **Főneveket, amelyek közelítő hasonlóságot jelölnek:**
+**aśva m. "ló" » aśvaka m. ⟪अश्वक⟫ "kiskocsi, lószerű tárgy"**
 
-3\. **Nomina ohne Bedeutungsunterschied zum zugrundeliegenden Nomen:**
-   **putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫** <!-- TODO: Fallback translation -->
+3\. **Főneveket, amelyek jelentése nem különbözik az alapfőnévtől:**
+**putraka m. ⟪पुत्रक⟫ = putra m. ⟪पुत्र⟫**
 
-4\. **Nomina, die ausdrücken "zum Begriff des Grundwortes in Beziehung stehend":**
-   **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "in Benares gebürtig, aus Benares stammend"**
-   **rūpa n. "Gestalt" » rūpaka 3 ⟪रूपक⟫ "die Gestalt von etwas besitzend"** <!-- TODO: Fallback translation -->
+4\. **A „az alapszó fogalmával kapcsolatban álló” jelentést kifejező főnevek:**
+**kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "benaresi származású, Benarestől eredő"**
+**rūpa n. "forma" » rūpaka 3 ⟪रूपक⟫ "valaminek a formáját birtokoló"**
 :::
 
-### 9.2.2. -aka (kṛt), fem. oft -ikā <!-- TODO: Fallback translation -->
+### 9.2.2. -aka (kṛt), nőnem gyakran -ikā
 
 ::: grammar-box
-**Das kṛt-Suffix -aka, Femininum oft -ikā, bildet Nomina agentis (Nomina, die den Täter ausdrücken) zu jeder Wurzel.** <!-- TODO: Fallback translation -->
+**A kṛt -aka képző, a nőnem gyakran -ikā, cselekvőt kifejező főneveket (a végzést kifejező főneveket) képez minden gyökből.**
 
-Ein auslautender Vokal der Wurzel sowie **-a-** an vorletzter Stelle der Wurzel werden durch ihre Dehnstufe (**vṛddhi**) ersetzt (es gibt einige Ausnahmen), die übrigen Vokale werden durch ihre Hochstufe (**guṇa**) ersetzt. <!-- TODO: Fallback translation -->
+A gyök végén álló magánhangzó, valamint a gyök előutolsó helyén álló **-a-** kiejtésfokozattal (**vṛddhi**) helyettesíthető (kivételek vannak), a többi magánhangzó pedig magas fokozattal (**guṇa**) helyettesíthető.
 :::
-**Beispiele:** <!-- TODO: Fallback translation -->
+**Példák:**
 
-| Tő:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **kṛ** :br8 U:br⟪कृ⟫:br"machen" | **kāraka** :br(⟪कारक⟫) | "Bewirker, machend" | <!-- TODO: Fallback translation -->
-| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Hörer, Schüler,:brbuddh.: Anhänger des Buddha" | <!-- TODO: Fallback translation -->
-| **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Führer, Gebieter, Gatte,:brLiebhaber / Geliebte, Dame" | <!-- TODO: Fallback translation -->
-| **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Opferer, Opferpriester" | <!-- TODO: Fallback translation -->
-| **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Tänzer / Tänzerin" | <!-- TODO: Fallback translation -->
-| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "siegreich" | <!-- TODO: Fallback translation -->
+| Tő:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Jelentés |
+| :--- | :--- | :--- |
+| **kṛ** :br8 U:br⟪कृ⟫:br"tenni" | **kāraka** :br(⟪कारक⟫) | "Cselekvő, végrehajtó" |
+| **śru** :br5 P:br⟪श्रु⟫:br"hallani" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Halló, tanítvány,:brbuddh.: Buddha-rajongó" |
+| **nī** :br1 U:br⟪नी⟫:br"vezetni" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Vezető, úr, férj,:brszerető / szeretett hölgy" |
+| **yaj** :br1 U:br⟪यज्⟫:br"áldozni" | **yājaka** m.:br(⟪याजक⟫) | "Áldozó, áldozópap" |
+| **nṛt** :br4 P:br⟪नृत्⟫:br"táncolni" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Táncos / táncoslány" |
+| **ji** :br1 P:br⟪जि⟫:br"győzni" | **jayaka** 3:br(⟪जयक⟫) | "győztes" |
 
 ::: grammar-box
-**Einige dieser Bildungen haben die engere Bedeutung: "das durch die Wurzel ausgedrückte gewohnheitsmässig oder als Obliegenheit oder gut vollziehend".** <!-- TODO: Fallback translation -->
+**Egyes képzések szűkebb jelentéssel bírnak: "a gyökér által kifejezett cselekvést szokásszerűen, kötelességként vagy kiválóan végző"**.
 :::
-siehe oben z.B. **śrāvaka**, **yājaka**, **jayaka** <!-- TODO: Fallback translation -->
+lásd fent pl. **śrāvaka**, **yājaka**, **jayaka**
 
-**Beispiele:** <!-- TODO: Fallback translation -->
+**Példák:**
 
-| Tő:br⟪धातु⟫ | + -aka (kṛt) | Bedeutung | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Ackerbauer":br(tiefstufig!) | <!-- TODO: Fallback translation -->
-| **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" | <!-- TODO: Fallback translation -->
-| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Esser, Fresser" | <!-- TODO: Fallback translation -->
+| Tő:br⟪धातु⟫ | + -aka (kṛt) | Jelentés |
+| :--- | :--- | :--- |
+| **kṛṣ** :br6 U:br⟪कृष्⟫:br"szántani" | **kṛṣaka** m.:br(⟪कृषक⟫) | "gazdálkodó":br(alapszintű!) |
+| **kliś** :br9 P:br⟪क्लिशु⟫:br"kínzni" | **kleśaka** m.:br(⟪क्लेशक⟫) | "kínzó" |
+| **khād** :br1 P:br⟪खाद्⟫:br"rágcsálni, enni" | **khādaka** m.:br(⟪खादक⟫) | "evő, falatozó" |
 
-Daneben gibt es noch einige weniger wichtige Verwendungen des Suffixes **-aka**. Vgl. Wackernagel, Altindische Grammatik, II, §45ff. <!-- TODO: Fallback translation -->
+Emellett még néhány kevésbé fontos használata van az **-aka** képzőnek. Ld. Wackernagel, Altindische Grammatik, II, §45ff.
 
-## 9.3. Wortliste <!-- TODO: Fallback translation -->
+## 9.3. Szószedet
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**Tanulja meg a következő szavakat:**
 
-- **adhyayana** n. (⟪अध्ययन⟫) : Lernen, insbes. Vedastudium <!-- TODO: Fallback translation -->
+- **adhyayana** n. (⟪अध्ययन⟫) : Tanulás, különösen a Védák tanulmányozása
 
 ::: media
 ![](/images/lekt0903.webp)
-Abb.: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram bei Madurai.
-(Bildquelle: [Details](/licenses#lekt0903)) <!-- TODO: Fallback translation -->
+Kép: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram Madurai közelében.
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt0903))
 :::
-- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Handwerker <!-- TODO: Fallback translation -->
+- **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : kézműves
 
 ::: media
 ![](/images/lekt0902.webp)
-Abb.: **kāru** = ⟪कारु⟫, Gujarat.
-(Bildquelle: [Details](/licenses#lekt0902)) <!-- TODO: Fallback translation -->
+Kép: **kāru** = ⟪कारु⟫, Gujarat.
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt0902))
 :::
-- **kuśīlava** m. (⟪कुशीलव⟫) : (fahrender) Schausteller, Schauspieler, Sänger <!-- TODO: Fallback translation -->
-- **kusīda** n. (⟪कुसीद⟫) : Wucher <!-- TODO: Fallback translation -->
-- **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : ziehen <!-- TODO: Fallback translation -->
-- **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : pflügen <!-- TODO: Fallback translation -->
-  - davon: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : Ackerbau <!-- TODO: Fallback translation -->
-- **dāna** n. (⟪दान⟫) : Geben, Gabe, Freigebigkeit <!-- TODO: Fallback translation -->
-- **pratigraha** m. (⟪प्रतिग्रह⟫) : Empfangen, Geschenk <!-- TODO: Fallback translation -->
-- **pravacana** n. (⟪प्रवचन⟫) : Rede, (mündlicher) Unterricht <!-- TODO: Fallback translation -->
-- **pāśupālya** n. (⟪पाशुपाल्य⟫) : Viehhaltung, Viehzucht <!-- TODO: Fallback translation -->
-- zu **yaj** 1 U: <!-- TODO: Fallback translation -->
-  - **ijyā** f. (⟪इज्या⟫) : Opfer (aus \*yj » ij + Suffix **yā**) <!-- TODO: Fallback translation -->
-  - **yajana** n. (⟪यजन⟫) : Opfer im Auftrag von jemand anderem <!-- TODO: Fallback translation -->
-- **rūpa** n. (⟪रूप⟫) : Aussehen, Form, schöne Form, Natur, Wesen <!-- TODO: Fallback translation -->
-- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : Handel <!-- TODO: Fallback translation -->
-- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : Gehorsam, gehorsamer Dienst <!-- TODO: Fallback translation -->
+- **kuśīlava** m. (⟪कुशीलव⟫) : (vándorló) látványosság, színész, énekes
+- **kusīda** n. (⟪कुसीद⟫) : kamatoskodsás
+- **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : húz
+- **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : szánt
+- ebből: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : mezőgazdálkodás
+- **dāna** n. (⟪दान⟫) : adás, ajándék, nagylelkűség
+- **pratigraha** m. (⟪प्रतिग्रह⟫) : vétel, ajándék
+- **pravacana** n. (⟪प्रवचन⟫) : beszéd, (szóbeli) oktatás
+- **pāśupālya** n. (⟪पाशुपाल्य⟫) : állattartás, állattenyésztés
+- a **yaj** 1 U-hoz:
+- **ijyā** f. (⟪इज्या⟫) : áldozat (*yj » ij + **yā** képzőből)
+- **yajana** n. (⟪यजन⟫) : áldozás más megbízásából
+- **rūpa** n. (⟪रूप⟫) : megjelenés, forma, szép forma, természet, lényeg
+- **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : kereskedelem
+- **śuśrūṣā** f. (⟪शुश्रूषा⟫) : engedelmesség, engedelmes szolgálat
 
-## 9.4. Übung <!-- TODO: Fallback translation -->
+## 9.4. Gyakorlat
 
-**A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:**
+**A) Próbálja meg meghatározni a következő szavak lehetséges jelentéseit:**
 1\. **brāhmāṇaka** ⟪ब्राह्मणक⟫
 2\. **mati** ⟪मति⟫
 3\. **śravaṇa** ⟪श्रवण⟫
 4\. **dhenuka** m. ⟪धेनुका⟫
 5\. **jayaka** ⟪जयक⟫
 6\. **rakṣikā** ⟪रक्षिका⟫
-7\. **karṣaka** ⟪कर्षक⟫ <!-- TODO: Fallback translation -->
+7\. **karṣaka** ⟪कर्षक⟫
 
 ::: media
 ![](/images/lekt0901.webp)
-Abb.: **karṣaka** = ⟪कर्षक⟫.
-(Bildquelle: [Details](/licenses#lekt0901)) <!-- TODO: Fallback translation -->
+Ábr.: **karṣaka** = ⟪कर्षक⟫.
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt0901))
 :::
 8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
@@ -142,36 +142,36 @@ Abb.: **karṣaka** = ⟪कर्षक⟫.
 17\. kopa (⟪कोप⟫)
 18\. veśaka (⟪वेशक⟫)
 19\. darśaka (⟪दर्शक⟫)
-20\. kopaka (⟪कोपक⟫) <!-- TODO: Fallback translation -->
+20\. kopaka (⟪कोपक⟫)
 
-**B) Übersetzen Sie:** <!-- TODO: Fallback translation -->
+**B) Fordítsa le:**
 
-1. Aufgaben aller Zweimalgeborenen: <!-- TODO: Fallback translation -->
+1. A kétszer születettek minden feladata:
    **ijyādhyayanadānāni**
-   ⟪इज्याध्ययनदानानि⟫
-   (Yājñavalkyadharmaśāstra I, 118) <!-- TODO: Fallback translation -->
+⟪इज्याध्ययनदानानि⟫
+(Yājñavalkyadharmaśāstra I, 118)
 
-2. Spezifische Aufgaben eines Brahmanen: <!-- TODO: Fallback translation -->
+2. A bráhmana specifikus feladatai:
    **pravacanayājanapratigrahāḥ**
-   ⟪प्रवचनयाजनप्रतिग्रहाः⟫
-   (Gautamadharmasūtra X, 2) <!-- TODO: Fallback translation -->
+⟪प्रवचनयाजनप्रतिग्रहाः⟫
+(Gautamadharmasūtra X, 2)
 
-3. Spezifische Aufgaben eines Kṣatriya: <!-- TODO: Fallback translation -->
+3. A Kṣatriya specifikus feladatai:
    **rakṣaṇaṃ sarvabhūtānām**
-   ⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
-   (sarvabhūtānām = Genitiv (Wesfall): "aller Wesen"; Gautamadharmasūtra X, 7) <!-- TODO: Fallback translation -->
+⟪रक्षणं⟫ ⟪सर्वभूतानाम्⟫
+(sarvabhūtānām = Genitiv: "minden lényeké"; Gautamadharmasūtra X, 7)
 
-4. Spezifische Aufgaben eines Vaiśya: <!-- TODO: Fallback translation -->
+4. A Vaiśya specifikus feladatai:
    **kṛṣivāṇijyapāśupālyakusīdam**
-   ⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
-   (nach Gautamadharmasūtra X, 49) <!-- TODO: Fallback translation -->
+⟪कृषिवाणिज्यपाशुपाल्यकुसीदम्⟫
+(a Gautamadharmasūtra X, 49 szerint)
 
-5. Aufgaben eines Śūdra: <!-- TODO: Fallback translation -->
+5. A Śūdra feladatai:
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
-   ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
-   (nach Kauṭilīya-Arthaśāstra 1.3.8.)
-   Erklärung: dvijātīnām = Genitiv (Wesfall) Plural zu dvijāti (übersetzen Sie hier: "gegenüber den Zweimalgeborenen"); kārukuśīlavakarma ist ein Tatpuruṣa mit einem Dvandva (kārukuśīlava) im Vorderglied. karma = Nom. sg. zu karman n. "Tat, Tätigkeit, Karma" zur Wurzel kṛ 8 U). Übersetzen Sie "Tat / Tätigkeit der ... (Genetiv)" (durch das Dvandva Bezeichneten). <!-- TODO: Fallback translation -->
+⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
+(a Kauṭilīya-Arthaśāstra 1.3.8. szerint)
+Magyarázat: dvijātīnām = Genitiv, többes szám a dvijāti szóból (fordítsa itt: "a kétszer születettekkel szemben"); kārukuśīlavakarma egy Tatpuruṣa, amelynek előtagja egy Dvandva (kārukuśīlava). karma = karman n. "cselekedet, tevékenység, Karma" főnévi igenév (tő: kṛ 8 U). Fordítsa "cselekedet / tevékenység ...-é (Genitivus)" (a Dvandva által jelölt személyeké).
 
-6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.** <!-- TODO: Fallback translation -->
-   ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
-   (nach Kauṭilīya-Arthaśāstra 1.4.1.) <!-- TODO: Fallback translation -->
+6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
+⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |
+(a Kauṭilīya-Arthaśāstra 1.4.1. szerint)

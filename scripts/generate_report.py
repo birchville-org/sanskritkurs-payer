@@ -98,14 +98,29 @@ def get_current_activity():
     activities = []
     for lang in running_langs:
         lang_dir = DOCS / "lektionen" if lang == "de" else DOCS / lang / "lektionen"
+        base_dir = DOCS if lang == "de" else DOCS / lang
         if lang_dir.exists():
-            files = list(lang_dir.glob("*.md"))
-            if files:
-                latest_file = max(files, key=lambda f: f.stat().st_mtime)
+            ordered_files = [f"lektion{i:02d}.md" for i in range(1, 62)] + \
+                            [f"schrift{i:02d}.md" for i in range(1, 12)] + \
+                            [f"uebung{i:02d}.md" for i in range(1, 62)] + \
+                            ["wortliste.md", "inhaltsverzeichnis.md", "index.md", "grammatik.md", "themen.md", "impressum.md"]
+            
+            active_file = None
+            active_mtime = None
+            for fname in ordered_files:
+                fpath = lang_dir / fname if (lang_dir / fname).exists() else base_dir / fname
+                if fpath.exists():
+                    content = fpath.read_text(encoding="utf-8", errors="ignore")
+                    if "TODO: Fallback translation" in content:
+                        active_file = fname
+                        active_mtime = fpath.stat().st_mtime
+                        break
+            
+            if active_file:
                 activities.append({
                     "lang": lang,
-                    "file": latest_file.name,
-                    "mtime": latest_file.stat().st_mtime
+                    "file": active_file,
+                    "mtime": active_mtime
                 })
     return activities
 
@@ -240,8 +255,9 @@ def main():
         ("el", "Neugriechisch"),
         ("fi", "Finnisch"),
         ("hu", "Ungarisch"),
-        ("cop", "Koptisch"),
         ("grc", "Altgriechisch"),
+        ("zh", "繁體中文 (Taiwan)"),
+        ("cop", "Koptisch"),
         ("fa", "Persisch"),
         ("nl", "Niederländisch"),
         ("af", "Afrikaans"),
@@ -258,7 +274,7 @@ def main():
         is_done = False
         if code in current_status:
             stat = current_status[code]
-            if stat["lekt"] == 61 and stat["schr"] == 11 and stat["ueb"] == 61:
+            if stat["lekt"] == 61 and stat["schr"] == 11 and stat["ueb"] == 61 and stat["meta"] == len(META_FILES):
                 is_done = True
                 
         if is_done:

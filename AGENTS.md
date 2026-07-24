@@ -91,3 +91,5 @@ These rules preserve OpenRouter prompt-cache hits. The agent MUST follow them; t
 - **Session Duration**: For complex multi-step tasks (lesson migrations, code reviews), prefer longer focused sessions over many short ones. The system message cache persists across turns; each new session pays the full cache-fill cost.
 
 - **LLM Server Timeouts**: Bei LLM-Timeouts (oder offensichtlichen Deadlocks) auf dem exklusiven Server `nyx.local` darf der Agent immer sofort und ohne Rückfrage eingreifen und den `mlx_lm server` über SSH neustarten.
+
+- **Ununterbrochene Übersetzung**: Die Übersetzungs-Pipeline darf niemals gestoppt werden oder vorzeitig aufhören, bis alle Sprachen im Kurs vollständig übersetzt sind.

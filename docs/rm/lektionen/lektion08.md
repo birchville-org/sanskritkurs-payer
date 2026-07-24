@@ -60,7 +60,7 @@ En la grammatica indiana tradicionala, distinguescha si cun ils suffiss, cun ils
 :::
 **Exempels:**
 
-| Wurzel:br⟪धातु⟫ | + -a (kṛt) | Bedeutung |
+| Radis:br⟪धातु⟫ | + -a (kṛt) | Significaziun |
 | :--- | :--- | :--- |
 | **ji** 1 P:br⟪आप्⟫:br"siegen" | **jaya** m.:br⟪जय⟫ | "das Siegen, der Sieg" |
 | **muh** 4 P:br⟪मुह्⟫:br"verwirrt sein" | **moha** m.:br⟪मोह⟫ | "Verwirrung, Verblendung, Irrtum" |
@@ -80,7 +80,7 @@ En la grammatica indiana tradicionala, distinguescha si cun ils suffiss, cun ils
 :::
 **Exempels:**
 
-| Wurzel:br⟪धातु⟫ | + -ana (kṛt) | Bedeutung |
+| Radis:br⟪धातु⟫ | + -ana (kṛt) | Significaziun |
 | :--- | :--- | :--- |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gamana** n.:br⟪गमन⟫ | "das Gehen" |
 | **nī** 1 U:br⟪नी⟫:br"führen" | **nayana** n.:br⟪नयन⟫ | "(das Werkzeug des Führens, d.h.) Auge" |
@@ -110,7 +110,7 @@ I Hindus devots van al temple per cuntanscher la visida da Dieu tras in simbol u
 
 **Exempels:**
 
-| Wurzel:br⟪धातु⟫ | + -tra (kṛt) | Bedeutung |
+| Radis:br⟪धातु⟫ | + -tra (kṛt) | Significaziun |
 | :--- | :--- | :--- |
 | **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
@@ -137,7 +137,7 @@ I Hindus devots van al temple per cuntanscher la visida da Dieu tras in simbol u
 :::
 **Exemples:**
 
-| Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Bedeutung |
+| Radis:br⟪धातु⟫ | + -ti (kṛt) | Significaziun |
 | :--- | :--- | :--- |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śruti** f.:br⟪श्रुति⟫ | "das Hören, der Veda" |
 | **smṛ** 1 P:br⟪स्मृ⟫:br"vergegenwärtigen" | **smṛti** f.:br⟪स्मृति⟫ | "Das Vergegenwärtigen, Erinnerung, Überlieferung, Achtsamkeit" |
@@ -156,9 +156,9 @@ I Hindus devots van al temple per cuntanscher la visida da Dieu tras in simbol u
 :::
 **Exempels:**
 
-| Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Bedeutung |
+| Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Significaziun |
 | :--- | :--- | :--- | :--- |
-| **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen oder Natur eines Lehrers)" |
+| **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Schwere, Ehrwürdigkeit,:brDas Lehrersein (Wesen ni Natur eines Lehrers)" |
 | **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "das Brahmane-sein,:brwas einen Brahmanen zum Brahmanen macht,:brWesen / Natur eines Brahmanen" |
 | **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "Gottheit" |
 
@@ -195,7 +195,7 @@ La radiz principala da la 8. classa è **kṛ** 8 U (⟪कृ⟫) "far, far". L
 
 - **ji** 1 P (jayati) ⟪जि⟫ ⟪जयति⟫ : gudagnar, gudagnar, gudagnar
 - **labh** 1 Ā (labhate) ⟪लभ्⟫ ⟪लभते⟫ : serrar, obtegnair, agarrar
-- **tu** ⟪तु⟫ : ma (sa suenter la emprima paraula da la frase oppurtamain opposida u da la part da la frase)
+- **tu** ⟪तु⟫ : ma (sa suenter la emprima paraula da la frasa oppurtamain opposida u da la part da la frasa)
 - **paś** 4 P (paśyati) ⟪पश्⟫ ⟪पश्यति⟫ : vesair, vesair (vegn adina sco stem dal present enstagl da la radis **dṛś** 0 "vesair, vesair")
 - **kṛ** 8 U (karoti) ⟪कृ⟫ ⟪करोति⟫ : far, far
 - **tan** 8 U (tanoti) ⟪तन्⟫ ⟪तनोति⟫ : stender
@@ -227,7 +227,7 @@ Fig.: **likh** (⟪लिख्⟫) : stgiet da scriver dals Batak (Sumatra), pr
 
 ## 8.6. Exercizi
 
-**A) Erklären Sie die folgenden Nomina durch Angabe der Wurzel, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Bedeutung an:**
+**A) Erklären Sie die folgenden Nomina durch Angabe der Radis, von der abgeleitet wurde, und des Nominalsuffixes. Geben Sie Geschlecht und Significaziun an:**
 1. lobha
 2. rakṣa
 3. śrotra

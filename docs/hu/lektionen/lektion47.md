@@ -1,266 +1,266 @@
 ---
-title: Lektion 47
-subtitle: "Der Imperativ (⟪लोट्⟫)"
+title: 47. lecke
+subtitle: "Az imperativus (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
-category: "Grammatik"
+category: "Nyelvtan"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 47 <!-- TODO: Fallback translation -->
+# 47. lecke
 
-## 47.1. Der Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
+## 47.1. Az imperativus (⟪लोट्⟫)
 
 ::: grammar-box
-Der Imperativ (⟪लोट्⟫) bezeichnet <!-- TODO: Fallback translation -->
+Az imperativus (⟪लोट्⟫) jelenti
 
-*   **Befehl** (wird auch durch das Gerundivum (⟪कृत्य⟫) ausgedrückt) <!-- TODO: Fallback translation -->
-*   **Vorschrift** <!-- TODO: Fallback translation -->
-*   **Forderung** <!-- TODO: Fallback translation -->
-*   **Wunsch** <!-- TODO: Fallback translation -->
-*   **Bitte** <!-- TODO: Fallback translation -->
-*   **Einladung** <!-- TODO: Fallback translation -->
-*   **Überlegung** <!-- TODO: Fallback translation -->
-*   **Frage** <!-- TODO: Fallback translation -->
+*   **Parancs** (am igemódú múlt időben is kifejezhető, ⟨⟪कृत्य⟫⟩)
+*   **Rendelet**
+*   **Követelés**
+*   **Vágy**
+*   **Kérés**
+*   **Meghívás**
+*   **Elgondolás**
+*   **Kérdés**
 
-Die genannten Bedeutungen hat er mit dem Optativ (⟪विधिलिङ्⟫) gemeinsam. <!-- TODO: Fallback translation -->
+A fenti jelentések mindegyike közös a képzett igemóddal (⟪विधिलिङ्⟫).
 
-Mit dem Imperativ drückt man auch aus: <!-- TODO: Fallback translation -->
+Az imperatívussal kifejezhető még:
 
-*   **Erlaubnis** <!-- TODO: Fallback translation -->
-*   **dass eine Handlung an der Zeit ist** (wird auch durch das Gerundivum (⟪कृत्य⟫) ausgedrückt) <!-- TODO: Fallback translation -->
-*   **Segenswunsch** <!-- TODO: Fallback translation -->
+*   **Engedély**
+*   **hogy egy cselekvés ideje van** (am igemódú múlt időben is kifejezhető, ⟨⟪कृत्य⟫⟩)
+*   **Áldásvágy**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
-⟪एहि⟫ ⟪।⟫ "Komm!" <!-- TODO: Fallback translation -->
+⟪एहि⟫ ⟪।⟫ "Gyere!"
 
-⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ oder Optativ : ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ "Kommen Sie zum Dorf!" <!-- TODO: Fallback translation -->
+⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ vagy optativus: ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ "Gyön a faluba!"
 
-⟪वेदमध्ययै⟫ ⟪।⟫ oder Optativ: ⟪वेदमधीयीय⟫ ⟪।⟫ "Ich möchte den Veda studieren." <!-- TODO: Fallback translation -->
+⟪वेदमध्ययै⟫ ⟪।⟫ vagy optativus: ⟪वेदमधीयीय⟫ ⟪।⟫ "Szeretném tanulni a Védát."
 
-⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ oder Optativ:  ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ "Ich wünsche, sie mögen essen." <!-- TODO: Fallback translation -->
+⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ vagy optativus:  ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ "Kívánom, hogy egyenek."
 
-⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ oder Optativ: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ "Sollte ich den Veda studieren?" <!-- TODO: Fallback translation -->
+⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ vagy optativus: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ „Tanuljam-e a Védát?”
 
-⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ oder Gerundiv: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ "Machen Sie ein Messer!" ; "Sie dürfen ein Messer machen." ; "Es ist an der Zeit, dass Sie ein Messer machen." <!-- TODO: Fallback translation -->
+⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ vagy gerundívum: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ „Készítsen egy kést!”; „Lehet készítenie egy kést.”; „Ideje van, hogy készítsen egy kést.”
 
-⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ "Lange mögen Sie leben!" <!-- TODO: Fallback translation -->
+⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ „Hosszú életet kívánok!”
 :::
 ::: grammar-box
-Höfliche Befehle werden gerne durch Passiv-Imperative ausgedrückt. <!-- TODO: Fallback translation -->
+A udvarias parancsokat szívesen fejezik ki passzív imperatívussal.
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
-⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ "Treten Sie **bitte** ein!" <!-- TODO: Fallback translation -->
+⟪भवता⟫ ⟪प्रविश्यताम्⟫ ⟪।⟫ „Kérem, lépjen be!”
 
-⟪निषद्यताम्⟫ ⟪।⟫ "Bitte, setzen Sie sich!" <!-- TODO: Fallback translation -->
+⟪निषद्यताम्⟫ ⟪।⟫ „Kérem, foglaljanak helyet!”
 :::
-Im Imperativ des klassischen Sanskrit sind die Formen der 1. Personen alte Konjunktivformen. Der vedische Konjunktiv ist vor allem der Modus, der einen Wunsch ausdrückt: "Wir wollen gehen!" "Lasst uns gehen!" <!-- TODO: Fallback translation -->
+Az klasszikus szanszkit imperatívusában az első személyű alakok régi konjunktív formák. A védikus konjunktív főleg az a módus, amely kívánságot fejez ki: „Menjünk!” „Hagyjuk, hogy menjünk!”
 
 ::: grammar-box
-Der Imperativ wird vom Präsensstamm gebildet. <!-- TODO: Fallback translation -->
+Az imperatívust a jelen idő töve képezi.
 :::
-## 47.2. Bildung des Imperativs (⟪लोट्⟫) thematischer Präsensstämme <!-- TODO: Fallback translation -->
+## 47.2. Az imperatívus képzése (⟪लोट्⟫) tematikus jelen idő tövekből
 
-### 47.2.1. Endungen des Imperativ an thematischen Präsensstämmen <!-- TODO: Fallback translation -->
+### 47.2.1. Az imperatívus végződéseit tematikus jelen idő töveknél
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **Végződésen** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| **Végződés** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Első személy** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
+| **Második személy** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
+| **Harmadik személy** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
-Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn ein Segenswunsch ausgedrückt werden soll: <!-- TODO: Fallback translation -->
+Megjegyzés: ¹ A második és harmadik személy egyes számának végződéseit -tát helyettesítheti, ha áldást kívánunk kifejezni:
 
 ::: indent
-⟪भद्रो⟫ ⟪भवतात्⟫ "Mögest du glücklich sein!" "Er möge glücklich sein!" <!-- TODO: Fallback translation -->
+⟪भद्रो⟫ ⟪भवतात्⟫ "Legyél boldog!" "Ő legyen boldog!"
 
-⟪शुभं⟫ ⟪भवतु⟫ oder ⟪शुभं⟫ ⟪भवतात्⟫ "Möge es gut sein!" "Alles Gute!" <!-- TODO: Fallback translation -->
+⟪शुभं⟫ ⟪भवतु⟫ vagy ⟪शुभं⟫ ⟪भवतात्⟫ "Legyen jól!" "Minden jó!"
 :::
-### 47.2.2. Erste Präsensklasse (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
+### 47.2.2. Első jelen idő osztály (⟪भ्वादि⟫)
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪भू⟫ 1P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \<⟪भवै⟫\> | \<⟪भवामहै⟫\> | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \<⟪भवस्व⟫\> | \<⟪भवध्वम्⟫\> | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \<⟪भ्वताम्⟫\> | \<⟪भवन्ताम्⟫\> | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| **⟪भू⟫ 1P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Első személy** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \&lt;⟪भवै⟫\&gt; | \&lt;⟪भवामहै⟫\&gt; |
+| **Második személy** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \&lt;⟪भवस्व⟫\&gt; | \&lt;⟪भवध्वम्⟫\&gt; |
+| **Harmadik személy** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \&lt;⟪भ्वताम्⟫\&gt; | \&lt;⟪भवन्ताम्⟫\&gt; |
 :::
-### 47.2.3. Sechste Präsensklasse (⟪तुदादि⟫) <!-- TODO: Fallback translation -->
+### 47.2.3. Hatodik jelen idő osztály (⟪तुदादि⟫)
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪विश्⟫ 6P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \<⟪विशै⟫\>:br(viś-a + ai) | \<⟪विशामहै⟫\> | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \<⟪विशस्व⟫\> | \<⟪विशध्वम्⟫\> | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \<⟪विशताम्⟫\> | \<⟪विशन्ताम्⟫\> | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| **⟪विश्⟫ 6P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Első személy** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \&lt;⟪विशै⟫\&gt;:br(viś-a + ai) | \&lt;⟪विशामहै⟫\&gt; |
+| **Második személy** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \&lt;⟪विशस्व⟫\&gt; | \&lt;⟪विशध्वम्⟫\&gt; |
+| **Harmadik személy** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \&lt;⟪विशताम्⟫\&gt; | \&lt;⟪विशन्ताम्⟫\&gt; |
 :::
 ::: media
 ![](/images/lekt4702.webp)
-Abb.: ⟪प्रविशत⟫
-Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
-(Bildquelle: [Details](/licenses#lekt4702)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪प्रविशत⟫
+Hanuman Templom, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt4702))
 :::
-### 47.2.4. Vierte Präsensklasse (⟪दिवादि⟫) <!-- TODO: Fallback translation -->
+### 47.2.4. Negyedik jelen idő osztály (⟪दिवादि⟫)
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| **⟪नृत्⟫ 4P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \<⟪नृत्यै⟫\> | \<⟪नृत्यामहै⟫\> | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \<⟪नृत्यस्व⟫\> | \<⟪नृत्यध्वम्⟫\> | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \<⟪नृत्यताम्⟫\> | \<⟪नृत्यन्ताम्⟫\> | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| **⟪नृत्⟫ 4P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \&lt;⟪नृत्यै⟫\&gt; | \&lt;⟪नृत्यामहै⟫\&gt; |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \&lt;⟪नृत्यस्व⟫\&gt; | \&lt;⟪नृत्यध्वम्⟫\&gt; |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \&lt;⟪नृत्यताम्⟫\&gt; | \&lt;⟪नृत्यन्ताम्⟫\&gt; |
 :::
 ::: media
 ![](/images/lekt4701.webp)
-Abb.: ⟪नृत्यत⟫
-(Bildquelle: [Details](/licenses#lekt4701)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪नृत्यत⟫
+(Képmagyarázat: [Részletek](/hu/licenses#lekt4701))
 :::
-### 47.2.5. Zehnte Präsensklasse (⟪चुरादि⟫) und Kausative <!-- TODO: Fallback translation -->
+### 47.2.5. Tizedik jelen időosztály (⟪चुरादि⟫) és kausatívák
 
-⟪चुर्⟫ 10U <!-- TODO: Fallback translation -->
+⟪चुर्⟫ 10U
 
 ::: grammar-box
-| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
 :::
-### 47.2.6. Passiv <!-- TODO: Fallback translation -->
+### 47.2.6. Passzív
 
-⟪ईक्ष्⟫ 1Ā <!-- TODO: Fallback translation -->
+⟪ईक्ष्⟫ 1Ā
 
 ::: grammar-box
-| | ⟪आत्मनेपदम्⟫ || <!-- TODO: Fallback translation -->
-| :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| **1. Person** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ | <!-- TODO: Fallback translation -->
-| **2. Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ | <!-- TODO: Fallback translation -->
-| **3. Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ | <!-- TODO: Fallback translation -->
+| | ⟪आत्मनेपदम्⟫ ||
+| :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. személy** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
+| **2. személy** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
+| **3. személy** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::
-## 47.3. Übung <!-- TODO: Fallback translation -->
+## 47.3. Gyakorlat
 
-A) Übersetzen Sie: <!-- TODO: Fallback translation -->
+A) Fordítsa le:
 
-⟪यदि⟫ ⟪गच्छसि⟫ ⟪गच्छ⟫ ⟪त्वम्⟫ ⟪।⟫ ⟪अहं⟫ ⟪न⟫ ⟪गमिष्यामि⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪यदि⟫ ⟪गच्छसि⟫ ⟪गच्छ⟫ ⟪त्वम्⟫ ⟪।⟫ ⟪अहं⟫ ⟪न⟫ ⟪गमिष्यामि⟫ ⟪॥१॥⟫
 
-⟪आर्य⟫ ⟪प्रेक्षस्व⟫ ⟪मे⟫ ⟪परिभवम्⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪आर्य⟫ ⟪प्रेक्षस्व⟫ ⟪मे⟫ ⟪परिभवम्⟫ ⟪॥२॥⟫
 
-⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तव्यं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तव्यं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫ ⟪॥३॥⟫
 
 ::: media
 ![](/images/lekt4703.webp)
-Abb.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
-(Bildquelle: [Details](/licenses#lekt4703)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
+(Képmegjelölés: [Részletek](/hu/licenses#lekt4703))
 :::
-⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫
 
-⟪प्रसीदत्वार्यः⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪प्रसीदत्वार्यः⟫ ⟪॥५॥⟫
 
-⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫ ⟪॥६॥⟫
 
 ::: media
 ![](/images/lekt4704.webp)
-Abb.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
-(Bildquelle: [Details](/licenses#lekt4704)) <!-- TODO: Fallback translation -->
+Ábra: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
+(Képforrás: [Részletek](/hu/licenses#lekt4704))
 :::
-⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫
 
-⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪युद्धाय⟫ ⟪युज्यस्व⟫ ⟪नैवं⟫ ⟪पापमवाप्स्यसि⟫ ⟪॥८॥⟫
 
-⟪प्रश्नः⟫ : ⟪कस्मात्त्वं⟫ ⟪भीतः⟫ ⟪।⟫ ⟪प्रतिवचनम्⟫ : ⟪तस्य⟫ ⟪रामस्य⟫ ⟪गुणेभ्यः⟫ ⟪।⟫ ⟪प्रष्टा⟫ : ⟪के⟫ ⟪तस्य⟫ ⟪गुणा⟫ ⟪यस्य⟫ ⟪गृहं⟫ ⟪प्रविश्याशितव्यमपि⟫ ⟪नास्ति⟫ ⟪॥९॥⟫ <!-- TODO: Fallback translation -->
+⟪प्रश्नः⟫ : ⟪कस्मात्त्वं⟫ ⟪भीतः⟫ ⟪।⟫ ⟪प्रतिवचनम्⟫ : ⟪तस्य⟫ ⟪रामस्य⟫ ⟪गुणेभ्यः⟫ ⟪।⟫ ⟪प्रष्टा⟫ : ⟪के⟫ ⟪तस्य⟫ ⟪गुणा⟫ ⟪यस्य⟫ ⟪गृहं⟫ ⟪प्रविश्याशितव्यमपि⟫ ⟪नास्ति⟫ ⟪॥९॥⟫
 
-⟪तवैव⟫ ⟪हस्ते⟫ ⟪शस्त्रं⟫ ⟪तिष्ठतु⟫ ⟪॥१०॥⟫ <!-- TODO: Fallback translation -->
+⟪तवैव⟫ ⟪हस्ते⟫ ⟪शस्त्रं⟫ ⟪तिष्ठतु⟫ ⟪॥१०॥⟫
 
-⟪भवति⟫ ⟪न⟫ ⟪ते⟫ ⟪परिभवस्तत्रभवतो⟫ ⟪रामस्य⟫ ⟪निवेदयितव्यः⟫ ⟪॥११॥⟫ <!-- TODO: Fallback translation -->
+⟪भवति⟫ ⟪न⟫ ⟪ते⟫ ⟪परिभवस्तत्रभवतो⟫ ⟪रामस्य⟫ ⟪निवेदयितव्यः⟫ ⟪॥११॥⟫
 
-B.) Übersetzen Sie ins Sanskrit (verwenden Sie den Imperativ): <!-- TODO: Fallback translation -->
+B.) Fordítsa szanszktra (használja az igemódot):
 
-1\. Ich will erhalten werden. <!-- TODO: Fallback translation -->
+1\. Meg akarok maradni.
 
-2\. Er soll zufrieden sein. <!-- TODO: Fallback translation -->
+2\. Ő elégedett legyen.
 
-3\. Wir wollen rufen. <!-- TODO: Fallback translation -->
+3. Kiáltani fogunk.
 
-4\. Ich will mich dir (⟪चतुर्थ्या⟫) beugen. <!-- TODO: Fallback translation -->
+4. Meghajolni akarok előtted (⟪चतुर्थ्या⟫).
 
-5\. Diese Tat soll getan werden. <!-- TODO: Fallback translation -->
+5. Ezt a cselekedetet el kell végezni.
 
-6\. Sie sollen schlafen (Passivkonstruktion). <!-- TODO: Fallback translation -->
+6. Aludjanak (passzív szerkezet).
 
-7\. Mein Sohn strebe nach Reichtum! <!-- TODO: Fallback translation -->
+7. Fiam, törekedj a gazdagságra!
 
-8\. Beginnt das Studium! <!-- TODO: Fallback translation -->
+8. Kezdje el a tanulást!
 
-9\. Gebt (⟪प्र⟫-⟪यम्⟫) den Ahnvätern Reisbällchen! <!-- TODO: Fallback translation -->
+9. Adjon (⟪प्र⟫-⟪यम्⟫) az őseinek rizsgombócokat!
 
-10\. Sie sollen sich freuen! <!-- TODO: Fallback translation -->
+10. Örüljenek nekik!
 
-11\. Ich will auf die Welt hinabblicken. <!-- TODO: Fallback translation -->
+11. Le akarok lenézni a világra.
 
-12\. Wir wollen nach Benares gehen (⟪पद्⟫). <!-- TODO: Fallback translation -->
+12. Elindulunk Benaresba (⟪पद्⟫).
 
-13\. Sie (pl.) sollen als Opferherren die Götter mit einem Opfer verehren. <!-- TODO: Fallback translation -->
+13. Ők (többes szám) áldozati urakként isteneket áldozattal tiszteljenek.
 
-14\. Singe ein Loblied! <!-- TODO: Fallback translation -->
+14. Énekelj dicséretet!
 
-15\. Söhne sollen mir geboren werden! <!-- TODO: Fallback translation -->
+[L1] 15. Szüljetek nekem fiakat!
 
-16\. Ich will dir mein Haus zeigen. <!-- TODO: Fallback translation -->
+[L3] 16. Megmutatom neked a házamat.
 
-17\. Gehe von mir weg! <!-- TODO: Fallback translation -->
+[L5] 17. Távolodj el tőlem!
 
-18\. Er soll befreit werden! <!-- TODO: Fallback translation -->
+[L7] 18. Szabaduljon meg!
 
-19\. Ich will deine Gattin behüten. <!-- TODO: Fallback translation -->
+19\. Megóvom a feleségedet.
 
-20\. Stirb, Feind! <!-- TODO: Fallback translation -->
+20\. Halj meg, ellenség!
 
-21\. Kämpft! <!-- TODO: Fallback translation -->
+21\. Harcoljatok!
 
-22\. Sie (pl.) mögen befehlen. <!-- TODO: Fallback translation -->
+22\. Parancsoljanak (többes szám).
 
-23\. Wir wollen in deinem Haus wohnen. <!-- TODO: Fallback translation -->
+23\. Lakozni akarunk a te házadban.
 
-24\. So soll es geschehen! <!-- TODO: Fallback translation -->
+24\. Így legyen!
 
-25\. Schlage das Pferd! <!-- TODO: Fallback translation -->
+25\. Verjed meg a lovat!
 
-26\. Sie (pl.) sollen umherirren. <!-- TODO: Fallback translation -->
+26\. (Ők, többes szám) vándoroljanak.
 
-27\. Berauscht euch! <!-- TODO: Fallback translation -->
+27. Itassátok magatokat!
 
-28\. Das Pferd soll die Last ziehen. <!-- TODO: Fallback translation -->
+28. A lónak kell húznia a terhet.
 
-29\. Wir wollen die Welten in Ordnung bringen. <!-- TODO: Fallback translation -->
+29. Rendszerezzük a világokat!
 
-30\. Trinke den Trank! <!-- TODO: Fallback translation -->
+30. Iddad az italt!
 
-31\. Denke! <!-- TODO: Fallback translation -->
+31. Gondolj!
 
-32\. Sie (pl.) sollen besiegt werden! <!-- TODO: Fallback translation -->
+32. Őket (többes szám) legyőzendők!
 
-33\. Wir wollen von dir geführt werden. <!-- TODO: Fallback translation -->
+33. Minket vezessenél te.
 
-34\. Es möge zum Glück gereichen (geschehen)! (Segenswunsch) <!-- TODO: Fallback translation -->
+34. Legyen áldásos! (Áldáskívánat)
 
 ::: deleteme-box
 
-**lekt4702:** Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Bildquelle: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Zugriff am 2009-01-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt4702:** Hanuman-templom, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی [Képmegjelölés: Carol Mitchell. -- [http://www.flickr.com/photos/webethere/2607777618/](http://www.flickr.com/photos/webethere/2607777618/). -- Hozzáférés: 2009-01-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nd/2.0/deed.de) (Nevegyen, nincs módosítás)]
 
-**lekt4701:** [Bildquelle: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Zugriff am 2009-01-09. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt4701:** [Képmegjelölés: lilPiX. -- [http://www.flickr.com/photos/lilpixie/464706524/](http://www.flickr.com/photos/lilpixie/464706524/). -- Hozzáférés: 2009-01-09. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevegyen, nem kereskedelmi célú felhasználás, share alike)]
 
-**lekt4703:** [Bildquelle: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by/2.0/deed.de) (Namensnennung)] <!-- TODO: Fallback translation -->
+**lekt4703:** [Képmegjelölés: said&done. -- [http://www.flickr.com/photos/faraz27989/413649119/](http://www.flickr.com/photos/faraz27989/413649119/). -- Hozzáférés: 2009-01-10. -- [Creative Commons licenc](http://creativecommons.org/licenses/by/2.0/deed.de) (Nevegyen)]
 
-**lekt4704:** [Bildquelle: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Zugriff am 2009-01-10. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt4704:** [Képmegjelölés: imchaudhry. -- [http://www.flickr.com/photos/imranchaudhry/2120997410/](http://www.flickr.com/photos/imranchaudhry/2120997410/). -- Hozzáférés: 2009-01-10. -- [Creative Commons licenc](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Nevegyen, nem kereskedelmi célú felhasználás, nincs módosítás)]
 
 :::

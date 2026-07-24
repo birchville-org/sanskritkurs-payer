@@ -1,466 +1,466 @@
 ---
-title: Lektion 38
-subtitle: "Losung der Woche"
+title: 38. lecke
+subtitle: "A hét üzenete"
 lesson_id: 38
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
---- <!-- TODO: Fallback translation -->
+category: "Nyelvtan"
+status: stabil
+---
 
-# Lektion 38 <!-- TODO: Fallback translation -->
+# 38. lecke
 
-## 38.1. Losung der Woche <!-- TODO: Fallback translation -->
+## 38.1. A hét üzenete
 
-⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ über rechtes Urinieren: <!-- TODO: Fallback translation -->
+⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ a helyes vizelésről:
 
 ::: indent
 ⟪प्रत्य⟫sig[⟪ग्नि⟫] ⟪प्रतिसूर्यं⟫ ⟪च⟫  
 ⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
 ⟪प्रति⟫sig[⟪गु⟫] ⟪प्रतिवातं⟫ ⟪च⟫  
-⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
 :::
-Erklärungen: <!-- TODO: Fallback translation -->
+Magyarázatok:
 
-\-⟪अग्नि⟫ Neutrum Nom.Akk.sg. zu ⟪अग्नि⟫ m. <!-- TODO: Fallback translation -->
+\-⟪अग्नि⟫ Neutrum nominativus/akkuzatívus egyes szám a következőhöz: ⟪अग्नि⟫ m.
 
-\-⟪गु⟫ Neutrum Nom.Akk.sg. zu ⟪गो⟫ m.f. "Rind, Kuh" <!-- TODO: Fallback translation -->
+\-⟪गु⟫ Neutrum nominativus/akkuzatívus egyes szám a következőhöz: ⟪गो⟫ m.f. "tehén, szarvasmarha"
 
 ::: media
 ![](/images/lekt3801.webp)
-Abb.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
-(Bildquelle: [Details](/licenses#lekt3801)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt3801))
 :::
-## 38.2. Lautwandel von Nasalen im Wort <!-- TODO: Fallback translation -->
+## 38.2. A nazálisok hangváltozása a szóban
 
 ::: grammar-box
-Nasale im Wort werden darauffolgenden Konsonanten assimiliert, d. h. sie werden durch den diesen Konsonanten entsprechenden Nasal ersetzt. <!-- TODO: Fallback translation -->
+A szóban lévő nazálisok a rájuk következő mássalhangzókhoz asszimilálódnak, azaz ezeket a nazálisokat a megfelelő mássalhangzónak megfelelő nazálissal helyettesítjük.
 
-Nach c- und j- wird -n- durch -ñ- ersetzt. <!-- TODO: Fallback translation -->
+A c- és j-előtagok után a -n- helyett -ñ- lép fel.
 :::
-## 38.3. Deklination der Stämme auf -n <!-- TODO: Fallback translation -->
+## 38.3. A -n végű tövek ragozása
 
-### 38.3.1. Nomina auf -an sowie Nomina auf -man bzw. -van nach Vokal <!-- TODO: Fallback translation -->
+### 38.3.1. -an végű főnevek, valamint a magánhangzó után álló -man vagy -van végű főnevek
 ::: grammar-box
-Nomina auf **-an** sowie Nomina **-man** bzw. **-van** nach Vokal haben drei Stämme: <!-- TODO: Fallback translation -->
+A **-an** végű főnevek, valamint a magánhangzó után álló **-man** és **-van** végű főnevek három tővel rendelkeznek:
 
-| Tő | -an | -man | -van | Verwendung | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | :--- | <!-- TODO: Fallback translation -->
-| **Starker Tő** | **-ān** | **-mān** | **-vān** | Nom., Akk., Vok. sg. m. f.:brNom., Akk., Vok. dual m. f.:brNom., Vok. pl. m. f.:brNom., Akk. pl. n. | <!-- TODO: Fallback translation -->
-| **Mittlerer Schwacher Tő** | **-a** :br(aus -*n) | **-ma** :br(aus -*mn) | **-va** :br(aus -*vn) | Übrige Kasus vor konsonantisch anlautender Végződés:brWahlweise auch Lok. sg. m. n. f. | <!-- TODO: Fallback translation -->
-| **Schwächster Tő** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Végződés | <!-- TODO: Fallback translation -->
+| Tő | -an | -man | -van | Használat |
+| :--- | :---: | :---: | :---: | :--- |
+| **Erős tő** | **-ān** | **-mān** | **-vān** | Nominativus, Akkusativus, Vokativus egyes szám nemű:brNominativus, Akkusativus, Vokativus kettős szám nemű:brNominativus, Vokativus többes szám nemű:brNominativus, Akkusativus többes szám középnemű |
+| **Közepesen gyenge tő** | **-a** :br(*-n-ből) | **-ma** :br(*-mn-ből) | **-va** :br(*-vn-ből) | A többi esetrag, mássalhangzóra végződő rag előtt:brVálasztható még az egyes szám helyhatározó eset nemű |
+| **Leggyengébb tő** | **-n** | **-mn** | **-vn** | A többi esetrag, magánhangzóra végződő rag előtt
 
-**Die Endungen sind regelmässig. Der Nominativ Singular m. f. wird ohne auslautendes -n gebildet.** <!-- TODO: Fallback translation -->
+**A végződések szabályosak. A nominativus singularis m. f. -n kimenetel nélkül képződik.**
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
-⟪राजन्⟫ m. "König" <!-- TODO: Fallback translation -->
+⟪राजन्⟫ m. "király"
 
-*   starker Tő: ⟪राजान्⟫ <!-- TODO: Fallback translation -->
-*   mittlerer Tő: ⟪राज⟫ <!-- TODO: Fallback translation -->
-*   schwächster Tő: ⟪राज्ञ्⟫ <!-- TODO: Fallback translation -->
+*   erős tő: ⟪राजान्⟫
+*   közepes tő: ⟪राज⟫
+*   leggyengébb tő: ⟪राज्ञ्⟫
 
-⟪सीमन्⟫ f. "Grenze" <!-- TODO: Fallback translation -->
+⟪सीमन्⟫ f. "határ"
 
-*   starker Tő: ⟪सीमान्⟫ <!-- TODO: Fallback translation -->
-*   mittlerer Tő: ⟪सीम⟫ <!-- TODO: Fallback translation -->
-*   schwächster Tő: ⟪सीम्न्⟫ <!-- TODO: Fallback translation -->
+*   erős Tő: ⟪सीमान्⟫
+*   közepes Tő: ⟪सीम⟫
+*   leggyengébb Tő: ⟪सीम्न्⟫
 
-⟪नामन्⟫ n. "Name" <!-- TODO: Fallback translation -->
+⟪नामन्⟫ n. "Név"
 
-*   starker Tő: ⟪नामान्⟫ <!-- TODO: Fallback translation -->
-*   mittlerer Tő: ⟪नाम⟫ <!-- TODO: Fallback translation -->
-*   schwächster Tő: ⟪नाम्न्⟫ <!-- TODO: Fallback translation -->
+*   erős Tő: ⟪नामान्⟫
+*   közepes Tő: ⟪नाम⟫
+*   leggyengébb Tő: ⟪नाम्न्⟫
 ::: grammar-box
 
-| | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | :---: | <!-- TODO: Fallback translation -->
-| ⟪एकवचनम्⟫ | | | | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪राजा⟫ | ⟪सीमा⟫ | ⟪नाम⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪राजानम्⟫ | ⟪सीमानम्⟫ | ⟪नाम⟫ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪राज्ञा⟫ | ⟪सीम्ना⟫ | ⟪नाम्ना⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪राज्ञे⟫ | ⟪सीम्ने⟫ | ⟪नाम्ने⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नाम्नस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नाम्नस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪राज्ञि⟫ / ⟪राजानि⟫ | ⟪सीम्नि⟫ / ⟪सीमनि⟫ | ⟪नाम्नि⟫ / ⟪नामनि⟫ | <!-- TODO: Fallback translation -->
-| ⟪बहुवचनम्⟫ | | | | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪राजानस्⟫ | ⟪सीमानस्⟫ | ⟪नामानि⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नामानि⟫ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪राजभिस्⟫ | ⟪सीम्नभिस्⟫ | ⟪नामभिस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪राजभ्यस्⟫ | ⟪सीम्नभ्यस्⟫ | ⟪नामभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪राजभ्यस्⟫ | ⟪सीम्नभ्यस्⟫ | ⟪नामभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ⟪राज्ञाम्⟫ | ⟪सीम्नाम्⟫ | ⟪नाम्नाम्⟫ | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪राजसु⟫ | ⟪सीमसु⟫ | ⟪नामसु⟫ | <!-- TODO: Fallback translation -->
+| | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
+| :--- | :---: | :---: | :---: |
+| ⟪एकवचनम्⟫ | | | |
+| ⟪प्रथमा⟫ | ⟪राजा⟫ | ⟪सीमा⟫ | ⟪नाम⟫ |
+| ⟪द्वितीया⟫ | ⟪राजानम्⟫ | ⟪सीमानम्⟫ | ⟪नाम⟫ |
+| ⟪तृतीया⟫ | ⟪राज्ञा⟫ | ⟪सीम्ना⟫ | ⟪नाम्ना⟫ |
+| ⟪चतुर्थी⟫ | ⟪राज्ञे⟫ | ⟪सीम्ने⟫ | ⟪नाम्ने⟫ |
+| ⟪पञ्चमी⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नाम्नस्⟫ |
+| ⟪षष्ठी⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नाम्नस्⟫ |
+| ⟪सप्तमी⟫ | ⟪राज्ञि⟫ / ⟪राजानि⟫ | ⟪सीम्नि⟫ / ⟪सीमनि⟫ | ⟪नाम्नि⟫ / ⟪नामनि⟫ |
+| ⟪बहुवचनम्⟫ | | | |
+| ⟪प्रथमा⟫ | ⟪राजानस्⟫ | ⟪सीमानस्⟫ | ⟪नामानि⟫ |
+| ⟪द्वितीया⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नामानि⟫ |
+| ⟪तृतीया⟫ | ⟪राजभिस्⟫ | ⟪सीम्नभिस्⟫ | ⟪नामभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪राजभ्यस्⟫ | ⟪सीम्नभ्यस्⟫ | ⟪नामभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪राजभ्यस्⟫ | ⟪सीम्नभ्यस्⟫ | ⟪नामभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪राज्ञाम्⟫ | ⟪सीम्नाम्⟫ | ⟪नाम्नाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪राजसु⟫ | ⟪सीमसु⟫ | ⟪नामसु⟫ |
 
 :::
 ::: media
 ![](/images/lekt3803.webp)
-Abb.: ⟪सीमा⟫
-(Bildquelle: [Details](/licenses#lekt3803)) <!-- TODO: Fallback translation -->
+Ábra: ⟪सीमा⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3803))
 :::
-### 38.3.2. Nomina auf -man bzw. -van nach Konsonant <!-- TODO: Fallback translation -->
+### 38.3.2. -man vagy -van végződésű főnevek mássalhangzóra végződő alap előtt
 
 ::: grammar-box
-*   Starker Tő: -mān, -vān <!-- TODO: Fallback translation -->
-*   Schwacher Tő: <!-- TODO: Fallback translation -->
-    *   vor konsonantisch anlautenden Végződésen: -ma, -va (aus -\*mn, -\*vn) <!-- TODO: Fallback translation -->
-    *   vor vokalisch anlautenden Végződésen: **\-man, -van** <!-- TODO: Fallback translation -->
+*   Erős tő: -mān, -vān
+*   Gyenge tő:
+*   mássalhangzóra végződő toldalékok előtt: -ma, -va (-\*mn, -\*vn-ból)
+*   magánhangzóra végződő toldalékok előtt: **\-man, -van**
 
-Sonst Bildung wie unter 3.1. <!-- TODO: Fallback translation -->
+Egyéb képzés szerint 3.1. alatt.
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
-⟪आत्मन्⟫ n. "Seele" <!-- TODO: Fallback translation -->
+⟪आत्मन्⟫ n. "lélek"
 
-*   starker Tő: ⟪आत्मान्⟫ <!-- TODO: Fallback translation -->
-*   schwacher Tő: <!-- TODO: Fallback translation -->
-    *   vor Konsonant: ⟪आत्म⟫ <!-- TODO: Fallback translation -->
-    *   vor Vokal: ⟪आत्मन्⟫ <!-- TODO: Fallback translation -->
+*   erős Tő: ⟪आत्मान्⟫
+*   gyenge Tő:
+*   mássalhangzó előtt: ⟪आत्म⟫
+*   magánhangzó előtt: ⟪आत्मन्⟫
 
-⟪ब्रह्मन्⟫ n.: Absolutes, Veda, Brahman <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ n.: Abszolútum, Veda, Brahman
 
-*   starker Tő: ⟪ब्रह्मान्⟫ <!-- TODO: Fallback translation -->
-*   schwacher Tő: <!-- TODO: Fallback translation -->
-    *   vor Konsonant: ⟪ब्रह्म⟫ <!-- TODO: Fallback translation -->
-    *   vor Vokal: ⟪ब्रह्मन्⟫ <!-- TODO: Fallback translation -->
+*   erős Tő: ⟪ब्रह्मान्⟫
+*   gyenge Tő:
+*   mássalhangzó előtt: ⟪ब्रह्म⟫
+*   magánhangzó előtt: ⟪ब्रह्मन्⟫
 ::: grammar-box
 
-| | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | <!-- TODO: Fallback translation -->
-| ⟪एकवचनम्⟫ | | | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪आत्मा⟫ | ⟪ब्रह्म⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪आत्मानम्⟫ | ⟪ब्रह्म⟫ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪आत्मना⟫ | ⟪ब्रह्मणा⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪आत्मने⟫ | ⟪ब्रह्मणे⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्मणस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्मणस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪आत्मनि⟫ | ⟪ब्रह्मणि⟫ | <!-- TODO: Fallback translation -->
-| ⟪बहुवचनम्⟫ | | | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪आत्मानस्⟫ | ⟪ब्रह्माणि⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्माणि⟫ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪आत्मभिस्⟫ | ⟪ब्रह्मभिस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪आत्मभ्यस्⟫ | ⟪ब्रह्मभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪आत्मभ्यस्⟫ | ⟪ब्रह्मभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ⟪आत्मनाम्⟫ | ⟪ब्रह्मणाम्⟫ | <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ | <!-- TODO: Fallback translation -->
+| | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
+| :--- | :---: | :---: |
+| ⟪एकवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪आत्मा⟫ | ⟪ब्रह्म⟫ |
+| ⟪द्वितीया⟫ | ⟪आत्मानम्⟫ | ⟪ब्रह्म⟫ |
+| ⟪तृतीया⟫ | ⟪आत्मना⟫ | ⟪ब्रह्मणा⟫ |
+| ⟪चतुर्थी⟫ | ⟪आत्मने⟫ | ⟪ब्रह्मणे⟫ |
+| ⟪पञ्चमी⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्मणस्⟫ |
+| ⟪षष्ठी⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्मणस्⟫ |
+| ⟪सप्तमी⟫ | ⟪आत्मनि⟫ | ⟪ब्रह्मणि⟫ |
+| ⟪बहुवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪आत्मानस्⟫ | ⟪ब्रह्माणि⟫ |
+| ⟪द्वितीया⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्माणि⟫ |
+| ⟪तृतीया⟫ | ⟪आत्मभिस्⟫ | ⟪ब्रह्मभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪आत्मभ्यस्⟫ | ⟪ब्रह्मभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪आत्मभ्यस्⟫ | ⟪ब्रह्मभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪आत्मनाम्⟫ | ⟪ब्रह्मणाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ |
 
 :::
-### 38.3.3. Maskulina und Neutra auf -in, -min, -vin <!-- TODO: Fallback translation -->
+### 38.3.3. Maskulina és Neutra -in, -min, -vin végződésűek
 
 ::: grammar-box
-Diese Nomina haben **keine** Stammabstufung. <!-- TODO: Fallback translation -->
+Ezek a főnevek **nem** mutatnak gyökváltozást.
 
-Nom.sg.m. und Nom.Akk.pl.n. sind in Analogie zu den -an-Stämmen gebildet (Dehnung des -i-), ebenso der Stamm auf **\-i-** vor konsonantischer Endung. <!-- TODO: Fallback translation -->
+A nominativus egyes számú nemnemű és a nominativus-akkuzatívus többes számú semleges alakok az -an gyökökhöz hasonlóan képződtek (az -i- megnyújtása), ugyanígy a mássalhangzós végződés előtt álló **\-i-** gyök.
 
-Das Femininum wird mit dem Suffix -ī gebildet: z.B. ⟪बलिनी⟫ <!-- TODO: Fallback translation -->
+A nőnemű alakot a -ī képzővel képezzük: pl. ⟪बलिनी⟫
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
-⟪बलिन्⟫ m.n. "stark, kräftig (durch besonderes ⟪बल⟫ gekennzeichnet, ⟪बल⟫ besitzend)" <!-- TODO: Fallback translation -->
+⟪बलिन्⟫ m.n. "erős, erős (kifejezetten ⟪बल⟫-szel jellemezve, ⟪बल⟫ birtokában)"
 
 ::: grammar-box
 
-| | ⟪पुंस्⟫ | ⟪नपुंसकम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :---: | :---: | <!-- TODO: Fallback translation -->
-| ⟪एकवचनम्⟫ | | | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪बली⟫ | ⟪बलि⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪बलिनम्⟫ | ⟪बलि⟫ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪बलिना⟫|| <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪बलिने⟫|| <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫|| <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ⟪बलिनस्⟫|| <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪बलिनि⟫|| <!-- TODO: Fallback translation -->
-| ⟪बहुवचनम्⟫ | | | <!-- TODO: Fallback translation -->
-| ⟪प्रथमा⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ | <!-- TODO: Fallback translation -->
-| ⟪द्वितीया⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ | <!-- TODO: Fallback translation -->
-| ⟪तृतीया⟫ | ⟪बलिभिस्⟫|| <!-- TODO: Fallback translation -->
-| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫|| <!-- TODO: Fallback translation -->
-| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫|| <!-- TODO: Fallback translation -->
-| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫|| <!-- TODO: Fallback translation -->
-| ⟪सप्तमी⟫ | ⟪बलिषु⟫|| <!-- TODO: Fallback translation -->
+| | ⟪पुंस्⟫ | ⟪नपुंसकम्⟫ |
+| :--- | :---: | :---: |
+| ⟪एकवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪बली⟫ | ⟪बलि⟫ |
+| ⟪द्वितीया⟫ | ⟪बलिनम्⟫ | ⟪बलि⟫ |
+| ⟪तृतीया⟫ | ⟪बलिना⟫||
+| ⟪चतुर्थी⟫ | ⟪बलिने⟫||
+| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫||
+| ⟪षष्ठी⟫ | ⟪बलिनस्⟫||
+| ⟪सप्तमी⟫ | ⟪बलिनि⟫||
+| ⟪बहुवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
+| ⟪द्वितीया⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
+| ⟪तृतीया⟫ | ⟪बलिभिस्⟫||
+| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫||
+| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫||
+| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫||
+| ⟪सप्तमी⟫ | ⟪बलिषु⟫||
 
 :::
-## 38.4. Zur Nominalbildung: ⟪तद्धित⟫-Suffix -in <!-- TODO: Fallback translation -->
+## 38.4. A névképzésről: ⟪तद्धित⟫-suffixum -in
 
 ::: grammar-box
-Mit dem (sehr wichtigen!) ⟪तद्धित⟫-Suffix **-in** werden aus Substantiven Adjektive gebildet in der Bedeutung: <!-- TODO: Fallback translation -->
+A (nagyon fontos!) ⟪तद्धित⟫-suffixum **-in** segítségével főnevekből képeznek mellékneveket, jelentésük:
 
-**gekennzeichnet durch, besitzend** <!-- TODO: Fallback translation -->
+**jellegzetes, birtokol**
 
-Ursprünglich unterschied sich die Bildung mit dem Suffix **-⟪इन्⟫** von der mit **-⟪मन्त्⟫/-⟪वन्त्⟫** dadurch, dass **-⟪इन्⟫** die Kennzeichnung durch etwas Besonderes bezeichnete, während **-⟪मन्त्⟫/-⟪वन्त्⟫** den Besitz von, die Kennzeichnung durch etwas ausdrückte, das gewöhnlich, allgemein ist. <!-- TODO: Fallback translation -->
+Eredetileg a **-⟪इन्⟫** képzővel képezett tanszék eltért a **-⟪मन्त्⟫/-⟪वन्त्⟫** tanszéktól abban, hogy a **-⟪इन्⟫** egy különleges jellemzővel való megjelölést jelölt, míg a **-⟪मन्त्⟫/-⟪वन्त्⟫** azt fejezte ki, hogy valakinek van valami, ami általánosan vagy közönségesen jellemző rá.
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
-⟪हस्तिन्⟫ m.: der durch eine besondere Hand gekennzeichnete = der Elefant (seine Hand ist ja keine gewöhnliche Hand, sondern ein Rüssel) <!-- TODO: Fallback translation -->
+⟪हस्तिन्⟫ m.: egy különleges kézzel megjelölt = az elefánt (hiszen a keze nem egy átlagos kéz, hanem egy tuskó)
 
 ::: media
 ![](/images/lekt3806.webp)
-Abb.: ⟪हस्ती⟫
-(Bildquelle: [Details](/licenses#lekt3806)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪हस्ती⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3806))
 :::
-⟪हस्तवन्त्⟫ : einer, der (menschliche) Hände hat <!-- TODO: Fallback translation -->
+⟪हस्तवन्त्⟫ : egy olyan, akinek (emberi) keze van
 
 ::: media
 ![](/images/lekt3807.webp)
-Abb.: ⟪हस्तवान्⟫
-(Bildquelle: [Details](/licenses#lekt3807)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪हस्तवान्⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3807))
 :::
 
 ::: grammar-box
-Adjektive auf **-⟪इन्⟫** werden gerne zu Komposita gebildet. <!-- TODO: Fallback translation -->
+A **-⟪इन्⟫** végződésű mellékneveket szívesen használják összetétek képzésére.
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
-⟪सत्यवादिन्⟫ zu ⟪सत्यवाद⟫ m. "Sprechen der Wahrheit": "jemand, der durch Sprechen der Wahrheit gekennzeichnet ist = einer, der immer die Wahrheit spricht" <!-- TODO: Fallback translation -->
+⟪सत्यवादिन्⟫ → ⟪सत्यवाद⟫ m. "az igazság beszéde": "valaki, akit az igazság beszédével jellemeznek = aki mindig az igazságot mondja"
 
-## 38.5. Syntaktisches zu ⟪नामन्⟫ <!-- TODO: Fallback translation -->
+## 38.5. Szintaktikai megjegyzések ⟪नामन्⟫ kapcsán
 
 ::: grammar-box
-Um auszudrücken "jemand namens N. N.", konstruiert man: <!-- TODO: Fallback translation -->
+Annak kifejezésére, hogy "N. N. nevű valaki", a következő szerkezetet alkalmazzuk:
 
-**N.N. (im Nominativ) ⟪नाम⟫** <!-- TODO: Fallback translation -->
+**N.N. (alanyesetben) ⟪नाम⟫**
 
-Wörtlich: "der Name ist/war N.N". Es handelt sich also um einen zwischengeschobenen Nominalsatz. <!-- TODO: Fallback translation -->
+Szó szerint: „a név N.N.” vagy „N.N. volt”. Tehát egy beékelődő névszólmon van szó.
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: indent
-⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ "Es war einmal ein König **namens Nala**, der starke Sohn Vīrasenas." <!-- TODO: Fallback translation -->
+⟪आसीद्राजा⟫ ⟪नलो⟫ ⟪नाम⟫ ⟪वीरसेनसुतो⟫ ⟪बली⟫ ⟪।⟫ „Egyszer volt egy király **Nala nevű**, Vīrasena erős fia.”
 :::
-Selbstverständlich kann man dasselbe mit einem ⟪बहुव्रीहि⟫ ausdrücken: <!-- TODO: Fallback translation -->
+Természetesen ugyanazt kifejezhetjük egy ⟪बहुव्रीहि⟫ segítségével:
 
 ::: indent
-⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ "ein Mann, dessen Name Devadatta ist" <!-- TODO: Fallback translation -->
+⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ „egy ember, akinek a neve Devadatta”
 
-⟪मदयन्तिकानाम्नी⟫ ⟪बाला⟫ "ein Mädchen, dessen Name Madayantika ist" <!-- TODO: Fallback translation -->
+⟪मदयन्तिकानाम्नी⟫ ⟪बाला⟫ "egy lány, akinek a neve Madayantika"
 :::
 ::: media
 ![](/images/lekt3808.jpg)
-Abb.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
-(Bildquelle: [Details](/licenses#lekt3808)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
+(Képmegjelölés: [Részletek](/hu/licenses#lekt3808))
 :::
-## 38.6. Syntaktisches zu ⟪आत्मन्⟫ <!-- TODO: Fallback translation -->
+## 38.6. Szintaktikai megjegyzések a ⟪आत्मन्⟫ kapcsán
 
 ::: grammar-box
-⟪आत्मन्⟫ **maskulinum** kann im **Singular** als rückbezügliches Fürwort (Reflexivpronomen) für alle drei Geschlechter, Zahlen (auch Dual und Plural) und Personen gebraucht werden. <!-- TODO: Fallback translation -->
+⟪आत्मन्⟫ **hímnem** használható a **tőszám**ban visszautaló névmódként (reflexív névmás) mindhárom nemre, számra (kettős és többes szám is), valamint személyekre.
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 ::: indent
-⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "Sie sieht keinen Fehler an ihr selbst" <!-- TODO: Fallback translation -->
+⟪आत्मन्येषा⟫ ⟪दोषं⟫ ⟪न⟫ ⟪पश्यति⟫ ⟪।⟫ "Látja, hogy nincs hibája önmagában"
 
-⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ "Sie rühmen sich selbst" <!-- TODO: Fallback translation -->
+⟪आत्मानं⟫ ⟪स्तुवन्ति⟫ ⟪।⟫ "Dicsérik önmagukat"
 :::
 ::: grammar-box
-Der Genetiv (⟪षष्ठी⟫) ⟪आत्मनस्⟫ kann deswegen stehen für "mein/dein/sein/... eigenes" <!-- TODO: Fallback translation -->
+A birtokos eset (⟪षष्ठी⟫) ⟪आत्मनस्⟫ ezért állhat "enyém/tied/sajátja..." jelentésben
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: indent
-⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Er betritt sein eigenes Haus." <!-- TODO: Fallback translation -->
+⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Belép a saját házába."
 :::
-## 38.7. Konsonantisch auslautende Stämme als Vorderglieder von Komposita <!-- TODO: Fallback translation -->
+## 38.7. Mássalhangzóra végződő tövek mint a összetételek első tagjai
 
 ::: grammar-box
-Stämme, die auf einen Konsonanten enden, erscheinen als Vorderglied eines Kompositums in dem (schwachen) Stamm, den sie vor der Endung -su des Lokativ (⟪सप्तमी⟫) Plural annehmen. <!-- TODO: Fallback translation -->
+Azok a tövek, amelyek mássalhangzóra végződnek, az összetétel első tagjaként abban (gyenge) alakban jelennek meg, amelyet a lokativus (-su) többes számú végződés előtt felvennek. (⟪सप्तमी⟫)
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: indent
-sig[⟪राज⟫]⟪पुत्र⟫ "Königssohn" <!-- TODO: Fallback translation -->
+sig[⟪राज⟫]⟪पुत्र⟫ "Királyfi"
 :::
-## 38.8. Stämme auf -an als Hinterglied eines ⟪बहुव्रीहि⟫ <!-- TODO: Fallback translation -->
+## 38.8. -an végződésű tövek mint a ⟪बहुव्रीहि⟫ második tagja
 
 ::: grammar-box
-Als Hinterglied eines ⟪बहुव्रीहि⟫ kann ein -an-Stamm für alle drei Geschlechter verwendet werden. In der Regel wird aber das Femininum mit dem Suffix -ī vom schwächsten Maskulinstamm gebildet. <!-- TODO: Fallback translation -->
+A ⟪बहुव्रीहि⟫ második tagjaként egy -an végződésű tő használható mindhárom nemben. Általában azonban a nőnemet a leggyengébb hímnemű tőből képezik az -ī végződéssel.
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: indent
-⟪दुर्णाम्नी⟫ "eine, deren Name böse ist ; Krankheitsdämonin" <!-- TODO: Fallback translation -->
+⟪दुर्णाम्नी⟫ „egy, akinek a neve rossz; betegségek démonnője”
 :::
-## 38.9. Wortliste <!-- TODO: Fallback translation -->
+## 38.9. Szószedet
 
-⟪सूर्य⟫ m.: Sonne, Sonnengott Sūrya <!-- TODO: Fallback translation -->
+⟪सूर्य⟫ m.: Nap, napisten Sūrya
 
 ::: media
 ![](/images/lekt3802.webp)
-Abb.: ⟪सूर्यः⟫
-(Bildquelle: [Details](/licenses#lekt3802)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪सूर्यः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3802))
 :::
-⟪उदक⟫ n.: Wasser <!-- TODO: Fallback translation -->
+⟪उदक⟫ n.: víz
 
 ::: media
 ![](/images/lekt3805.webp)
-Abb.: ⟪उदकम्⟫
-(Bildquelle: [Details](/licenses#lekt3805)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪उदकम्⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3805))
 :::
-⟪वा⟫ 2P ⟪वाति⟫ : wehen, blasen <!-- TODO: Fallback translation -->
+⟪वा⟫ 2P ⟪वाति⟫ : fúj, fou
 
 ::: indent
-Fut. ⟪वास्यति⟫
-Perf. IV ⟪ववौ⟫
-Pass. ⟪वायते⟫
-Kaus. ⟪वापयति⟫
+Jöv. ⟪वास्यति⟫
+Tört. IV ⟪ववौ⟫
+Kiv. ⟪वायते⟫
+Okaz. ⟪वापयति⟫
 PPP ⟪वान⟫ ⟪।⟫ ⟪वात⟫
-Inf. ⟪वातुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪वातुम्⟫
 
-davon: <!-- TODO: Fallback translation -->
+ebből:
 
-⟪वात⟫ m.: Wind <!-- TODO: Fallback translation -->
+⟪वात⟫ m.: szél
 :::
-⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : wehen, verwehen, erlöschen <!-- TODO: Fallback translation -->
+⟪वा⟫ + ⟪निस्⟫ 2P ⟪निर्वाति⟫ : fúj, szétszór, elalszik
 
 ::: indent
-davon: <!-- TODO: Fallback translation -->
+ebből:
 
-⟪निर्वाण⟫ n.: Erlöschen, Nirvana <!-- TODO: Fallback translation -->
+⟪निर्वाण⟫ n.: kialsztás, nirvána
 
-⟪परिनिर्वाण⟫ n.: vollkommenes Erlöschen, vollkommene Erlösung (am Lebensende eines Buddha oder Arhant) <!-- TODO: Fallback translation -->
+⟪परिनिर्वाण⟫ n.: tökéletes kialsztás, tökéletes megszabadítás (egy buddha vagy arhant életének végén)
 :::
 ::: media
 ![](/images/lekt3804.webp)
-Abb.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Bildquelle: [Details](/licenses#lekt3804)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
+(Képmegjelenítés: [Details](/hu/licenses#lekt3804))
 :::
-⟪मिह्⟫ 1P ⟪मेहति⟫ : pinkeln, pissen, ejakulieren <!-- TODO: Fallback translation -->
+⟪मिह्⟫ 1P ⟪मेहति⟫ : vizel, pisil, ejakulál
 
 ::: indent
 Fut. ⟪मेक्ष्यति⟫
 Perf. II ⟪मिमेह⟫, ⟪मिमिहुर्⟫
 Pass. ⟪मिह्यते⟫
 Kaus. ⟪मेहयति⟫
-PPP ⟪मीढ⟫ <!-- TODO: Fallback translation -->
+PPP ⟪मीढ⟫
 
-davon: <!-- TODO: Fallback translation -->
+ebből:
 
-⟪मेघ⟫ m.: Wolke ("Seicher") <!-- TODO: Fallback translation -->
+⟪मेघ⟫ m.: felhő („esőhozó”)
 :::
-⟪सुत⟫ m.: Sohn <!-- TODO: Fallback translation -->
+⟪सुत⟫ m.: fiú
 
-⟪राजन्⟫ m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. ⟪तत्पुरुष⟫) meist: -⟪राज⟫ m. (wie ⟪देव⟫) <!-- TODO: Fallback translation -->
+⟪राजन्⟫ m.: király (az indiai királyságról lásd Basham, Wonder old. 82–94). Összetétel végén (különösen ⟪तत्पुरुष⟫) általában: -⟪राज⟫ m. (mint ⟪देव⟫)
 
 ::: indent
-Femininum: <!-- TODO: Fallback translation -->
+Nem:
 
-⟪राज्ञी⟫ f.: Königin, Frau eines Königs <!-- TODO: Fallback translation -->
+⟪राज्ञी⟫ f.: királyné, király felesége
 
-von ⟪राज⟫ : <!-- TODO: Fallback translation -->
+a(z) ⟪राज⟫ :
 
-⟪राज्य⟫ 3: königlich; n. Königreich, Königtum, Herrschaft <!-- TODO: Fallback translation -->
+⟪राज्य⟫ 3: királyi; n. királyság, királynak lenni, uralkodás
 :::
-⟪नामन्⟫ n.: Name <!-- TODO: Fallback translation -->
+⟪नामन्⟫ n.: Név
 
-⟪सीमन्⟫ f.: Grenze <!-- TODO: Fallback translation -->
+⟪सीमन्⟫ f.: Határ
 
-⟪आत्मन्⟫ m.: Selbst, eigene Person, innerstes Wesen. Philosophisch und in Erlösungslehren: das Absolute im Individuum, dessen sich aber das Individuum unter Umständen nicht bewusst ist (v. Stietencron) <!-- TODO: Fallback translation -->
+⟪आत्मन्⟫ m.: Önmaga, saját személye, legbelső lény. Filozófiai és megszabadítástanok szempontjából: az abszolútum az egyénben, amelynek azonban az egyén néha nem tudatában van (v. Stietencron)
 
-⟪ब्रह्मन्⟫ n.: das Absolute, der Veda (laut Thieme ursprünglich: die formulierte Wahrheit, davon ⟪ब्राह्मण⟫ "Wahrheitsformulierer") <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ n.: az abszolút, a Védák (Thieme szerint eredetileg: megfogalmazott igazság, ebből ⟪ब्राह्मण⟫ "az igazság megfogalmazója")
 
-⟪ब्रह्मन्⟫ m.: der persönlich gedachte Schöpfergott Brahmā <!-- TODO: Fallback translation -->
+⟪ब्रह्मन्⟫ m.: személyes teremtő isten, Brahmā
 
 ::: media
 ![](/images/lekt3809.webp)
-Abb.: ⟪ब्रह्मा⟫
-(Bildquelle: [Details](/licenses#lekt3809)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪ब्रह्मा⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3809))
 :::
-⟪कर्मन्⟫ n.: zu ⟪कृ⟫ 8U: Handlung, Tat, Werk; heiliges Werk, Opferhandlung; Karma: das frühere Tun, das später seine Früchte bringt (z.B. in Wiedergeburt)  <!-- TODO: Fallback translation -->
+⟪कर्मन्⟫ n.: a következőhöz: ⟪कृ⟫ 8U: cselekvés, tett, mű; szent mű, áldozati cselekmény; karma: a korábbi tettek, amelyek később hozják gyümölcsüket (pl. újjászületésben)
 
 ::: indent
-⟪कर्मविपाक⟫ m.: Reifen der Taten = die guten und bösen Konsequenzen von Taten in früheren Existenzen (zu ⟪वि⟫-⟪पच्⟫) <!-- TODO: Fallback translation -->
+⟪कर्मविपाक⟫ m.: a cselekvések érlelődése = a korábbi létezési állapotokban elkövetett cselekvések jó és rossz következményei (lásd ⟪वि⟫-⟪पच्⟫)
 :::
-⟪हस्तिन्⟫ m.: Elefant (_Elephas maximus_) <!-- TODO: Fallback translation -->
+⟪हस्तिन्⟫ m.: elefánt (_Elephas maximus_)
 
-⟪मनु⟫ m.: Mensch, Mann; Name des Vaters des Menschengeschlechts (zu ⟪मन्⟫ 4Ā) <!-- TODO: Fallback translation -->
+⟪मनु⟫ m.: ember, férfi; az emberi nem atyjának a neve (lásd ⟪मन्⟫ 4Ā)
 
 ::: indent
-davon: <!-- TODO: Fallback translation -->
+ebből:
 
-⟪मनुष्य⟫ m.: Mensch <!-- TODO: Fallback translation -->
+⟪मनुष्य⟫ m.: ember
 :::
-⟪शुच्⟫ 1P ⟪शोचति⟫ : (flammen, leuchten) ; trauern, betrauern <!-- TODO: Fallback translation -->
+⟪शुच्⟫ 1P ⟪शोचति⟫ : (lángzik, ragyog); gyászol, sirat
 
 ::: indent
-Perf II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
+Perf. II ⟪शुशोच⟫, ⟪शुशुचुर्⟫
 Fut. ⟪शोचिष्यति⟫
 Pass. ⟪शुच्यते⟫
 Kaus. ⟪शोचयति⟫
 Inf. ⟪शुचितुम्⟫
-Absol. ⟪शोचित्वा⟫ ⟪।⟫ ⟪शुचित्वा⟫ <!-- TODO: Fallback translation -->
+Absol. ⟪शोचित्वा⟫ ⟪।⟫ ⟪शुचित्वा⟫
 
-davon: <!-- TODO: Fallback translation -->
+ebből:
 
-⟪शुचि⟫ 3: leuchtend, rein, klar <!-- TODO: Fallback translation -->
+⟪शुचि⟫ 3: ragyogó, tiszta, világos
 
-⟪शोक⟫ m.: Trauer, Gram <!-- TODO: Fallback translation -->
+⟪शोक⟫ m.: gyász, bánat
 
-⟪अशोक⟫ 3: frei von Gram; Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde; Name des Kaisers Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304   232 v.Chr.) <!-- TODO: Fallback translation -->
+⟪अशोक⟫ 3: gyászmentes; Ashoka-fa = _Saraca asoca_ (Roxb.) Wilde; Aśoka császár neve (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (i. e. kb. 304 – i. e. 232)
 :::
 ::: media
 ![](/images/lekt3810.webp)
-Abb.: ⟪अशोकवृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3810)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪अशोकवृक्षः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3810))
 :::
 
 ::: media
 ![](/images/lekt3811.webp)
-Abb.: ⟪अशोकसाम्राज्यम्⟫
-(Bildquelle: [Details](/licenses#lekt3811)) <!-- TODO: Fallback translation -->
+Ábra: ⟪अशोकसाम्राज्यम्⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3811))
 :::
-## 38.10. Übung <!-- TODO: Fallback translation -->
+## 38.10. Gyakorlat
 
-A) Setzen Sie in folgenden Sätzen die entsprechende Form der Wörter in Klammern ein und übersetzen Sie: <!-- TODO: Fallback translation -->
+A) Illessze be a következő mondatokba a zárójelben megadott szavak megfelelő alakját, és fordítsa le őket:
 
-... (⟪सप्तमी⟫ ⟪विभक्तिः⟫) ... ⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥१॥⟫ (⟪राजन्⟫) <!-- TODO: Fallback translation -->
+... (⟪सप्तमी⟫ ⟪विभक्तिः⟫) ... ⟪धर्मं⟫ ⟪रक्षत्यभया⟫ ⟪जनाः⟫ ⟪॥१॥⟫ (⟪राजन्⟫)
 
-⟪आसीद्राजपुत्रो⟫ ⟪गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो⟫ ⟪बुद्ध्या⟫ ⟪रूपामितबलः⟫ ⟪॥२॥⟫ (⟪नामन्⟫) <!-- TODO: Fallback translation -->
+⟪आसीद्राजपुत्रो⟫ ⟪गौतमस्⟫ ... ⟪सुकृतकर्मोपपन्नो⟫ ⟪बुद्ध्या⟫ ⟪रूपामितबलः⟫ ⟪॥२॥⟫ (⟪नामन्⟫)
 
-⟪राज्यस्य⟫ ... (⟪सप्तमी⟫ ⟪बहुवचने⟫) ... ⟪अरयो⟫ ⟪राजानं⟫ ⟪योद्धुं⟫ ⟪तिष्ठन्ति⟫ ⟪॥३॥⟫ (⟪सीमन्⟫) <!-- TODO: Fallback translation -->
+⟪राज्यस्य⟫ ... (⟪सप्तमी⟫ ⟪बहुवचने⟫) ... ⟪अरयो⟫ ⟪राजानं⟫ ⟪योद्धुं⟫ ⟪तिष्ठन्ति⟫ ⟪॥३॥⟫ (⟪सीमन्⟫)
 
-⟪वैश्यानां⟫ ⟪कानि⟫ ... ⟪॥४॥⟫ (⟪नामन्⟫) <!-- TODO: Fallback translation -->
+⟪वैश्यानां⟫ ⟪कानि⟫ ... ⟪॥४॥⟫ (⟪नामन्⟫)
 
-⟪वैश्यास्⟫ ... ⟪॥५॥⟫ (⟪किंनामन्⟫) <!-- TODO: Fallback translation -->
+⟪वैश्यास्⟫ ... ⟪॥५॥⟫ (⟪किंनामन्⟫)
 
-... (⟪सप्तम्येकवचने⟫) ... ⟪अकर्म⟫ ⟪यः⟫ ⟪पश्येदकर्मणि⟫ ⟪च⟫ ⟪कर्म⟫ ⟪यः⟫ ⟪स⟫ ⟪बुद्धिमान्मनुष्येषु⟫ ⟪स⟫ ⟪युक्त⟫ ⟪इति⟫ ⟪भगवद्गीतायाम्⟫ ⟪॥६॥⟫ (⟪कर्मन्⟫) <!-- TODO: Fallback translation -->
+... (⟪सप्तम्येकवचने⟫) ... ⟪अकर्म⟫ ⟪यः⟫ ⟪पश्येदकर्मणि⟫ ⟪च⟫ ⟪कर्म⟫ ⟪यः⟫ ⟪स⟫ ⟪बुद्धिमान्मनुष्येषु⟫ ⟪स⟫ ⟪युक्त⟫ ⟪इति⟫ ⟪भगवद्गीतायाम्⟫ ⟪॥६॥⟫ (⟪कर्मन्⟫)
 
-⟪किम्⟫ ... ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥७॥⟫ (⟪कर्मन्⟫) <!-- TODO: Fallback translation -->
+⟪किम्⟫ ... ⟪किमकर्मेति⟫ ⟪कवयो⟫ ⟪ऽप्यत्र⟫ ⟪मोहिताः⟫ ⟪॥७॥⟫ (⟪कर्मन्⟫)
 
-⟪ब्रह्मभूतस्⟫ ... (⟪प्रथमैकवचने⟫) ... ⟪न⟫ ⟪शोचति⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥८॥⟫ (⟪प्रसन्नात्मन्⟫) <!-- TODO: Fallback translation -->
+⟪ब्रह्मभूतस्⟫ ... (⟪प्रथमैकवचने⟫) ... ⟪न⟫ ⟪शोचति⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪॥८॥⟫ (⟪प्रसन्नात्मन्⟫)
 
-... (⟪षष्ठ्येकवचने⟫) ... ⟪सुकृतस्य⟫ ⟪सुफलमाहुः⟫ ⟪॥९॥⟫ (⟪कर्मन्⟫) <!-- TODO: Fallback translation -->
+... (⟪षष्ठ्येकवचने⟫) ... ⟪सुकृतस्य⟫ ⟪सुफलमाहुः⟫ ⟪॥९॥⟫ (⟪कर्मन्⟫)
 
-⟪महीभोगस्⟫ ... (⟪शष्ठी⟫ ⟪बहुवचने⟫) ... ⟪धर्मः⟫ ⟪॥१०॥⟫ (⟪राजन्⟫) <!-- TODO: Fallback translation -->
+⟪महीभोगस्⟫ ... (⟪शष्ठी⟫ ⟪बहुवचने⟫) ... ⟪धर्मः⟫ ⟪॥१०॥⟫ (⟪राजन्⟫)
 
-⟪राज्ञे⟫ ... ⟪दीयेरन्⟫ ⟪॥११॥⟫ (⟪बलिन्⟫ ⟪हस्तिन्⟫) <!-- TODO: Fallback translation -->
+⟪राज्ञे⟫ ... ⟪दीयेरन्⟫ ⟪॥११॥⟫ (⟪बलिन्⟫ ⟪हस्तिन्⟫)
 
-... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥१२॥⟫ (⟪ब्रह्मन्⟫ m.) <!-- TODO: Fallback translation -->
+... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪लोका⟫ ⟪असृज्यन्त⟫ ⟪॥१२॥⟫ (⟪ब्रह्मन्⟩ m.)
 
-... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪कृतं⟫ ⟪पापं⟫... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪अकृतं⟫ ⟪पापम्⟫ ⟪॥१३॥⟫ (⟪आत्मन्⟫) <!-- TODO: Fallback translation -->
+... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪कृतं⟫ ⟪पापं⟫... (⟪तृतीया⟫ ⟪विभक्तिः⟫) ... ⟪अकृतं⟫ ⟪पापम्⟫ ⟪॥१३॥⟫ (⟪आत्मन्⟫)
 
-⟪सद्भिस्⟫ ... ⟪जनेभ्यो⟫ ⟪ऽभयं⟫ ⟪दीयते⟫ ⟪॥१४॥⟫ (⟪राजन्⟫) <!-- TODO: Fallback translation -->
+⟪सद्भिस्⟫ ... ⟪जनेभ्यो⟫ ⟪ऽभयं⟫ ⟪दीयते⟫ ⟪॥१४॥⟫ (⟪राजन्⟫)
 
-... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫) <!-- TODO: Fallback translation -->
+... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫)
 
-## 38.11. Wortliste zur Übersetzungsübung <!-- TODO: Fallback translation -->
+## 38.11. Szószedet a fordítási gyakorláshoz
 
-⟪प्राय⟫  m.: Hauptsache, Instr. ⟪प्रायेण⟫ : meist, gewöhnlich (zu ⟪प्र⟫-⟪इ⟫) <!-- TODO: Fallback translation -->
+⟪प्राय⟫  m.: fő dolog, felsz. ⟪प्रायेण⟫ : általában, szokásosan (a ⟪प्र⟫-⟪इ⟫ szavakhoz)
 
-⟪विनोद⟫ m.: Zeitvertreib, Unterhaltung, Vergnügen <!-- TODO: Fallback translation -->
+⟪विनोद⟫ m.: időtöltés, szórakozás, élvezet
 
 ::: media
 ![](/images/lekt3812.webp)
-Abb.: ⟪विनोदः⟫
-(Bildquelle: [Details](/licenses#lekt3812)) <!-- TODO: Fallback translation -->
+Ábra: ⟪विनोदः⟫
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt3812))
 :::
-⟪अट्⟫ 1P ⟪अटति⟫ : herumschweifen <!-- TODO: Fallback translation -->
+⟪अट्⟫ 1P ⟪अटति⟫ : kóborol
 
 ::: indent
 Perf. I ⟪आट⟫, ⟪आटुः⟫
 Fut. ⟪अटिष्यति⟫
-Kaus. ⟪आटयति⟫ <!-- TODO: Fallback translation -->
+Kaus. ⟪आटयति⟫
 :::
-⟪गाध⟫ 3: seicht <!-- TODO: Fallback translation -->
+⟪गाध⟫ 3: sekély
 
-⟪तॄ⟫ 1P ⟪तरति⟫ : überqueren, sich retten vor (Akk.) <!-- TODO: Fallback translation -->
+⟪तॄ⟫ 1P ⟪तरति⟫: átkel, megmenti magát (vki/mtől) (Tárgyeset)
 
 ::: indent
 Perf. IIIb ⟪ततार⟫, ⟪तेरुः⟫
@@ -468,20 +468,20 @@ Fut. ⟪तरिष्यति⟫ ⟪।⟫ ⟪तरीष्यति⟫
 Pass. ⟪तीर्यते⟫
 Kaus. ⟪टारयति⟫
 PPP ⟪तीर्ण⟫
-Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 :::
-⟪पार⟫ n.(m.): jenseitiges Ufer, Grenze, Ziel <!-- TODO: Fallback translation -->
+⟪पार⟫ n.(m.): túlsó part, határ, cél
 
-⟪तीर⟫ n.: Ufer <!-- TODO: Fallback translation -->
+⟪तीर⟫ n.: part
 
 ::: media
 ![](/images/lekt3813.webp)
-Abb.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
-(Bildquelle: [Details](/licenses#lekt3813)) <!-- TODO: Fallback translation -->
+Kép: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
+(Képmegjelölés: [Részletek](/hu/licenses#lekt3813))
 :::
-⟪एकैकशस्⟫ Adv.: je einzeln <!-- TODO: Fallback translation -->
+⟪एकैकशस्⟫ Hat.: egyesével
 
-⟪गण्⟫ 10P ⟪गणयति⟫ : zählen <!-- TODO: Fallback translation -->
+⟪गण्⟫ 10P ⟪गणयति⟫ : számol
 
 ::: indent
 Perf. ⟪गणयां⟫ ⟪चकार⟫
@@ -489,53 +489,53 @@ Fut. ⟪गणयिष्यति⟫
 Pass. ⟪गण्यते⟫
 PPP ⟪गणित⟫
 Absol. -⟪गणय्य⟫
-Inf. ⟪गणयितुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪गणयितुम्⟫
 :::
 ::: media
 ![](/images/lekt3814.webp)
-Abb.: ⟪गणयां⟫ ⟪चक्रुः⟫
-(Bildquelle: [Details](/licenses#lekt3814)) <!-- TODO: Fallback translation -->
+Kép: ⟪गणयां⟫ ⟪चक्रुः⟫
+(Képmegjelölés: [Részletek](/hu/licenses#lekt3814))
 :::
-⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : schreien, wehklagen <!-- TODO: Fallback translation -->
+⟪क्रुश्⟫ 1P ⟪क्रोशति⟫: kiált, jajgat
 
 ::: indent
 Perf. II ⟪चुक्रोश⟫
-Fut. ⟪क्रोक्ष्यति⟫
-Pass. ⟪क्रुश्यते⟫
-Kaus. ⟪क्रोशयति⟫
-PPP ⟪क्रुष्ट⟫ <!-- TODO: Fallback translation -->
+Futum ⟪क्रोक्ष्यति⟫
+Passzív ⟪क्रुश्यते⟫
+Kausatív ⟪क्रोशयति⟫
+PPP ⟪क्रुष्ट⟫
 :::
-⟪इदानीम्⟫ Adv.: jetzt <!-- TODO: Fallback translation -->
+⟪इदानीम्⟫ Határozószó: most
 
-⟪नूनम्⟫ Adv.: jetzt; also, darum; gewiss, sicherlich <!-- TODO: Fallback translation -->
+⟪नूनम्⟫ Határozószó: most; tehát, ezért; bizonyosan, biztosan
 
-⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : sinken, tauchen <!-- TODO: Fallback translation -->
+⟪मज्ज्⟫ 6P ⟪मज्जति⟫ : süllyed, merül
 
 ::: indent
 PPP ⟪ममज्ज⟫
-Fut. ⟪मङ्क्ष्यति⟫
-Kaus. ⟪मज्जयति⟫
+Futum ⟪मङ्क्ष्यति⟫
+Kausatív ⟪मज्जयति⟫
 PPP ⟪मग्न⟫
-Absol. ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫ <!-- TODO: Fallback translation -->
+Abszolútum ⟪मङ्क्त्वा⟫ ⟪।⟫ ⟪मक्त्वा⟫
 :::
-⟪गवेषयति⟫ Denominativ: suchen <!-- TODO: Fallback translation -->
+⟪गवेषयति⟫ Névképzős: keres
 
-⟪व्याकुल⟫ 3: bestürzt, aufgeregt, verwirrt <!-- TODO: Fallback translation -->
+⟪व्याकुल⟫ 3: megdöbbenve, felbolyongva, összezavarodva
 
-⟪कोलाहल⟫ m.n.: Geschrei, Lärm <!-- TODO: Fallback translation -->
+⟪कोलाहल⟫ m.n.: kiáltás, zaj
 
-⟪विवेष्टित⟫ n.: das Rundherum-Suchen <!-- TODO: Fallback translation -->
+⟪विवेष्टित⟫ n.: körülnézés
 
-⟪हस्⟫ 1P ⟪हसति⟫ : lachen <!-- TODO: Fallback translation -->
+⟪हस्⟫ 1P ⟪हसति⟫ : nevetni
 
 ::: indent
 Perf. Vc ⟪जहास⟫, ⟪जहसुर्⟫
 Fut. ⟪हसिष्यति⟫
 Pass. ⟪हस्यते⟫
 Kaus. ⟪हासयति⟫
-PPP ⟪हसित⟫ <!-- TODO: Fallback translation -->
+PPP ⟪हसित⟫
 :::
-⟪सृ⟫ 1P ⟪सरति⟫ : laufen <!-- TODO: Fallback translation -->
+⟪सृ⟫ 1P ⟪सरति⟫ : futni
 
 ::: indent
 Perf. ⟪ससार⟫, ⟪सस्रुर्⟫
@@ -543,64 +543,64 @@ Fut. ⟪सरिष्यति⟫
 Pass. ⟪स्रियते⟫
 Kaus. ⟪सारयति⟫
 PPP ⟪सृत⟫
-Inf. ⟪सर्तुम्⟫ <!-- TODO: Fallback translation -->
+Inf. ⟪सर्तुम्⟫
 :::
-⟪कर्णयति⟫ Denominativ: hören (zu ⟪कर्ण⟫ m. "Ohr") <!-- TODO: Fallback translation -->
+⟪कर्णयति⟫ Denominatívum: hallgat (a ⟪कर्ण⟫ m. "fül" szóból)
 
-⟪लज्जा⟫ f.: Scham <!-- TODO: Fallback translation -->
+⟪लज्जा⟫ f.: szégyen
 
-⟪अधस्⟫ Adv.: nach unten <!-- TODO: Fallback translation -->
+⟪अधस्⟫ Adv.: lefelé
 
-## 38.12. Übersetzungsübung <!-- TODO: Fallback translation -->
+## 38.12. Fordítási gyakorlat
 
-sig[⟪दश⟫] ⟪मूढाः⟫ <!-- TODO: Fallback translation -->
+sig[⟪दश⟫] ⟪मूढाः⟫
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ sig[⟪नवै⟫]⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ sig[⟪वयम्⟫] ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ sig[⟪स्मः⟫] ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ sig[⟪गवेषयत⟫] ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫sig[⟪मेकैको⟫] ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ sig[⟪समजनि⟫] ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫sig[⟪स्तरसा⟫] ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ sig[⟪यूयम्⟫] ⟪।⟫ sig[⟪युष्माकमे⟫]⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫) <!-- TODO: Fallback translation -->
+⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ sig[⟪नवै⟫]⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ sig[⟪वयम्⟫] ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ sig[⟪स्मः⟫] ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ sig[⟪गवेषयत⟫] ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫sig[⟪मेकैको⟫] ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ sig[⟪समजनि⟫] ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫sig[⟪स्तरसा⟫] ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ sig[⟪यूयम्⟫] ⟪।⟫ sig[⟪युष्माकमे⟫]⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
-Erklärungen: <!-- TODO: Fallback translation -->
+Magyarázatok:
 
-⟪दश⟫ Nom.Akk.pl.m.f.n. zu ⟪दशन्⟫ "zehn" <!-- TODO: Fallback translation -->
+⟪दश⟫ Nominativ/Akkuzatív többes szám, nemek: férfi/nő/semleges a ⟪दशन्⟫ "tíz" szóból
 
-⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual zu ⟪बाहु⟫ m. "Arm" <!-- TODO: Fallback translation -->
+⟪बाहुभ्याम्⟫ Instrumentális/Datív/Ablatív kettős szám a ⟪बाहु⟫ m. "kar" szóból
 
-⟪सर्वे⟫ Nom.pl.m. zu ⟪सर्व⟫ 3 "jeder, alle" <!-- TODO: Fallback translation -->
+⟪सर्वे⟫ Nominatív többes szám, férfi nem a ⟪सर्व⟫ 3 "minden egyes, mind" szóból
 
-⟪जिज्ञासमान⟫ Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "erkennen wollen, wissen wollen" <!-- TODO: Fallback translation -->
+⟪जिज्ञासमान⟫ Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "tudni akar, tudni szeret"
 
-⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "neun" <!-- TODO: Fallback translation -->
+⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "kilenc"
 
-⟪वयम्⟫ Nom.pl. "wir" <!-- TODO: Fallback translation -->
+⟪वयम्⟫ Nom.pl. "mi"
 
-⟪स्मस्⟫ 1.pl.Ind.Präs.P zu ⟪अस्⟫ 2P <!-- TODO: Fallback translation -->
+⟪स्मस्⟫ 1.pl.Ind.Prész.P zu ⟪अस्⟫ 2P
 
-⟪गवेषयत⟫ 2.pl.Imperativ P <!-- TODO: Fallback translation -->
+⟪गवेषयत⟫ 2. személy, egyes szám, időtlen mód, felszólító mód
 
-⟪एकैक⟫ "jeder einzeln" <!-- TODO: Fallback translation -->
+⟪एकैक⟫ "minden egyes"
 
-⟪समजनि⟫ 3.sg.Passiv Aorist zu ⟪जन्⟫ <!-- TODO: Fallback translation -->
+⟪समजनि⟫ 3. személy, egyes szám, közönséges mód, múlt idő, szenvedő szerkezet a következőhöz: ⟪जन्⟫
 
-⟪तरसा⟫ Instr. sg. zu ⟪तरस्⟫ n. "Energie", adverbial gebraucht: "rasch, mit Gewalt" <!-- TODO: Fallback translation -->
+⟪तरसा⟫ Eszközes eset, egyes szám a következőhöz: ⟪तरस्⟫ n. "energia", határozószói jelentésben: "gyorsan, erővel"
 
-⟪यूयम्⟫ Nom.pl. "ihr" <!-- TODO: Fallback translation -->
+⟪यूयम्⟫ Névrag. "ő"
 
-⟪युष्माकम्⟫ Gen.pl. zu ⟪यूयम्⟫ <!-- TODO: Fallback translation -->
+⟪युष्माकम्⟫ Gen.pl. a következőhöz: ⟪यूयम्⟫
 
 ::: deleteme-box
 
-- **lekt3801.jpg**: Ábra: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  Bangalore = ಬೆಂಗಳೂರು \[Képforrás: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] <!-- TODO: Fallback translation -->
-- **lekt3802.jpg**: Ábra: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Képforrás: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Zugriff am 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] <!-- TODO: Fallback translation -->
-- **lekt3803.jpg**: Ábra: ⟪सीमा⟫  Grenzübergang zwischen Indien und Pakistan in Wagah (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Képforrás: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Zugriff am 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] <!-- TODO: Fallback translation -->
-- **lekt3804.jpg**: Ábra: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Gandhara, 2./3. Jhdt. n. Chr. \[Képforrás: Wikipedia. Public domain\] <!-- TODO: Fallback translation -->
-- **lekt3805.jpg**: Ábra: ⟪उदकम्⟫  Darewadi village, Ahmed Nagar District = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Képforrás: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] <!-- TODO: Fallback translation -->
-- **lekt3806.jpg**: Ábra: ⟪हस्ती⟫  Nagarhole National Park = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Képforrás: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Zugriff am 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] <!-- TODO: Fallback translation -->
-- **lekt3807.jpg**: Ábra: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Képforrás: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] <!-- TODO: Fallback translation -->
-- **lekt3808.jpg**: Ábra: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  1930er Jahre \[Képforrás: Wikipedia. Public domain\] <!-- TODO: Fallback translation -->
-- **lekt3809.jpg**: Ábra: ⟪ब्रह्मा⟫  Halebidu = ಹಳೆಬೀಡು \[Képforrás: Wikipedia. GNU FDLicense\] <!-- TODO: Fallback translation -->
-- **lekt3810.jpg**: Ábra: Ashoka-Baum = _Saraca asoca_ (Roxb.) Wilde  Kolkata = কলকাতা \[Képforrás: J.M.Garg / Wikipedia. GNU FDLicense\] <!-- TODO: Fallback translation -->
-- **lekt3811.jpg**: Ábra: Grösste Ausdehnung des Reiches Aśokas sowie Fundorte seiner Felsen- und Säulenedikte \[Képforrás: Wikipedia.GNU FDLicense\] <!-- TODO: Fallback translation -->
-- **lekt3812.jpg**: Ábra: ⟪विनोदः⟫  Carrom-Spiel \[Képforrás: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)\] <!-- TODO: Fallback translation -->
-- **lekt3813.jpg**: Ábra: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Képforrás: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)\] <!-- TODO: Fallback translation -->
-- **lekt3814.jpg**: Ábra: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Képforrás: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Zugriff am 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)\] <!-- TODO: Fallback translation -->
+- **lekt3801.jpg**: Kép: ... ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫  Bangalore = ಬೆಂಗಳೂರು \[Képmegjelölés: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Hozzáférés: 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)\]
+- **lekt3802.jpg**: Kép: ⟪सूर्यः⟫  ⟪सूर्य⟫ ⟪मंदिर⟫, Konark = ⟪कोनार्क⟫ \[Képmegjelölés: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Hozzáférés: 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)\]
+- **lekt3803.jpg**: Kép: ⟪सीमा⟫  Határátlpassz India és Pakisztán között Wagahban (⟪वाघा⟫ / واہگہ / ਵਾਘਾ) \[Képmegjelölés: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Hozzáférés: 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)\]
+- **lekt3804.jpg**: Kép: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫  Gandhara, i. sz. 2./3. század \[Képmegjelölés: Wikipedia. Közterület\]
+- **lekt3805.jpg**: Kép: ⟪उदकम्⟫  Darewadi falu, Ahmed Nagar kerület = ⟪अहमदनगर⟫, ⟪महाराष्ट्र⟫ \[Képmegjelölés: Robin Murphy, World Resources Institute. -- [http://www.flickr.com/photos/worldresourcesinstitute/2555779241/](http://www.flickr.com/photos/worldresourcesinstitute/2555779241/). -- Hozzáférés: 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)\]
+- **lekt3806.jpg**: Kép: ⟪हस्ती⟫  Nagarhole Nemzeti Park = ನಾಗರಹೊಳೆ ರಾಷ್ಟ್ರೀಯ ಉದ್ಯಾನವನ \[Képmegjelölés: gopalarathnam\_v. -- [http://www.flickr.com/photos/gopalarathnam\_v/3040514203/](http://www.flickr.com/photos/gopalarathnam_v/3040514203/). -- Hozzáférés: 2009-01-01. --  [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)\]
+- **lekt3807.jpg**: Kép: ⟪हस्तवान्⟫  ⟪जयपुर⟫ \[Képmegjelölés: brewingluminous. -- [http://www.flickr.com/photos/brewingluminous/958598614/](http://www.flickr.com/photos/brewingluminous/958598614/). -- Hozzáférés: 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, no derivatives)\]
+- **lekt3808.jpg**: Kép: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫  1930-as évek \[Képmegjelölés: Wikipedia. Közterület\]
+- **lekt3809.jpg**: Kép: ⟪ब्रह्मा⟫  Halebidu = ಹಳೆಬೀಡು \[Képmegjelölés: Wikipedia. GNU FDLicense\]
+- **lekt3810.jpg**: Kép: Ashoka-fa = _Saraca asoca_ (Roxb.) Wilde Kolkata = কলকাতা \[Képmegjelölés: J.M.Garg / Wikipedia. GNU FDLicense\]
+- **lekt3811.jpg**: Kép: Aśoka birodalmának legnagyobb kiterjedése, valamint szikla- és oszlopédiktumainak lelőhelyei \[Képmegjelölés: Wikipedia. GNU FDLicense\]
+- **lekt3812.jpg**: Kép: ⟪विनोदः⟫  Carrom játék \[Képmegjelölés: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Hozzáférés: 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)\]
+- **lekt3813.jpg**: Kép: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Képmegjelölés: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Hozzáférés: 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás)\]
+- **lekt3814.jpg**: Kép: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Képmegjelölés: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Hozzáférés: 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, no derivatives)\]
 :::

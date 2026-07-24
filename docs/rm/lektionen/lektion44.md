@@ -9,13 +9,13 @@ status: stable
 
 # Lektion 44
 
-## 44.1. Furmaiziun dals verbs da la 2. persuna (⟪मध्यमः⟫) stims sans tema cun suffix vocalic
+## 44.1. Furmaziun dals verbs da la 2. persuna (⟪मध्यमः⟫) stims sans tema cun suffix vocalic
 
 ::: media
 ![](/images/lekt4301.jpg)
 :::
 ::: grammar-box
-**La 3.sg.Ā.Imperfekt è formamainamain cun la 2.pl.P.Imperfekt!!!**
+**La 3.sg.Ā.Imperfect è formamainamain cun la 2.pl.P.Imperfect!!!**
 :::
 ### 44.1.1. Quinta classa da present (⟪स्वादि⟫)
 
@@ -25,8 +25,8 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralisation! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralisation! | ⟪सुनुध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralisation! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralisation! | ⟪सुनुध्वे⟫ |
+| **Imperfect** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
 :::
 ### 44.1.2. Otgavla classa dal temp preschent (⟪tanādi⟫)
@@ -37,8 +37,8 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
 :::
 ⟪⟪कृ⟫⟫ 8U
@@ -47,8 +47,8 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
 :::
 ### 44.1.3. Novavla classa dal temp preschent (⟪kryādi⟫)
@@ -57,8 +57,8 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
 :::
 ## 44.2. Zum Wortsandhi
@@ -99,8 +99,8 @@ Ultraclav è ancun applicadas las suandantas reglas dal Wortsandhi.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
 :::
 ⟪आस्⟫ 2Ā
@@ -109,8 +109,8 @@ Ultraclav è ancun applicadas las suandantas reglas dal Wortsandhi.
 | | ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
+| **Imperfect** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
 :::
 ⟪⟪दुह्⟫⟫ 2U
@@ -119,8 +119,8 @@ Ultraclav è ancun applicadas las suandantas reglas dal Wortsandhi.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अधोक्⟫:braus: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अधोक्⟫:brda: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
 :::
 ⟪⟪इ⟫⟫ 2P
@@ -129,16 +129,16 @@ Ultraclav è ancun applicadas las suandantas reglas dal Wortsandhi.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪⟪इषे⟫⟫\> | \<⟪⟪इध्वे⟫⟫\> |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪⟪इषे⟫⟫\> | \<⟪⟪इध्वे⟫⟫\> |
+| **Imperfect** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪इयास्⟫ | ⟪इयात⟫ | ⟪इयीथास्⟫:briy-ī-thās | ⟪इयीध्वम्⟫ |
 :::
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:braus: *hn + ta |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अहन्⟫:braus: a-han + s | ⟪अहत⟫:braus: a-*hn + ta |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:brda: *hn + ta |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अहन्⟫:brda: a-han + s | ⟪अहत⟫:brda: a-*hn + ta |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
 :::
 ⟪⟪स्तु⟫⟫ 2U
@@ -147,8 +147,8 @@ Ultraclav è ancun applicadas las suandantas reglas dal Wortsandhi.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
 :::
 ⟪⟪अस्⟫⟫ 2P (specialmemorar!)
@@ -157,8 +157,8 @@ Ultraclav è ancun applicadas las suandantas reglas dal Wortsandhi.
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | *⟪असि⟫* | *⟪स्थ⟫* |
-| **Imperfekt** :br⟪लङ्⟫ | *⟪आसीस्⟫* | *⟪आस्त⟫* |
+| **Indicativ preschent** :br⟪लट्⟫ | *⟪असि⟫* | *⟪स्थ⟫* |
+| **Imperfect** :br⟪लङ्⟫ | *⟪आसीस्⟫* | *⟪आस्त⟫* |
 | **Optativ** :br⟪विधिलिङ्⟫ | *⟪स्यास्⟫* | *⟪स्यात⟫* |
 :::
 ⟪तत्त्वमसि⟫
@@ -169,16 +169,16 @@ Ultraclav è ancun applicadas las suandantas reglas dal Wortsandhi.
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
+| **Imperfect** :br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
 :::
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
+| **Indicativ preschent** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
+| **Imperfect** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
 :::
 ## 44.4. Der Vokativ (⟪आमन्त्रितम्⟫)
@@ -186,7 +186,7 @@ Ultraclav è ancun applicadas las suandantas reglas dal Wortsandhi.
 I grammatichs nativs cunsideres il vocativ (⟪आमन्त्रितम्⟫) bet sco in casus separat, mo mozz sco ina modificaziun dal nominativ (⟪प्रथमा⟫).
 
 ::: important
-**Il vocativ serva per l'invocazione, l'indirizzamento e sta al di fuori del contesto con il resto della frase, differenziandosi quindi dagli altri casi che esprimono una relazione con il verbo o con un altro sostantivo.**
+**Il vocativ serva per l'invocazione, l'indirizzamento e sta al di fuori del contesto con il resto da la frasa, differenziandosi quindi dagli altri casi che esprimono una relazione con il verbo o con un altro sostantivo.**
 
 **Il vegn usità per ordinari il vocativ al cumenzament da la frasa:**
 

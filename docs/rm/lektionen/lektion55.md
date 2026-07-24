@@ -14,7 +14,7 @@ status: stable
 ::: grammar-box
 **L'aorist en -a vegn format sco in imperfect (⟪लङ्⟫) da la 6. classa da presens (⟪तुदादि⟫), uschia:**
 
-**Augment + radbasierte Wurzel + a + Sekundärendung**
+**Augment + radbasierte Radis + a + Sekundärendung**
 
 **Il -a- vegn en ils medesims cas sco en l'imperfet sustituit cun -ā-.**
 

@@ -1,431 +1,431 @@
 ---
-title: Lektion 24
-subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
+title: 24. lecke
+subtitle: "A datív (⟪चतुर्थी⟫ = \"negyes esetrag\")"
 lesson_id: 24
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
---- <!-- TODO: Fallback translation -->
+category: "Nyelvtan"
+status: stabil
+---
 
-# Lektion 24 <!-- TODO: Fallback translation -->
+# 24. lecke
 
-## 24.1. Der Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung") <!-- TODO: Fallback translation -->
+## 24.1. A datív (⟪चतुर्थी⟫ = "negyes esetrag")
 
 ::: grammar-box
-**1. Um den Zweck oder eine Absicht ("um zu") einer Handlung wiederzugeben, kann man statt des Infinitivs (⟪तुमुन्⟫) auch ein Nomen mit kṛt-Suffix, das eine Handlung oder einen Zustand bezeichnet, im Dativ (⟪चतुर्थी⟫ = "vierte Kasusendung") verwenden.** <!-- TODO: Fallback translation -->
+**1. A cselekvés céljának vagy szándékának ("hogy") kifejezésére az infinitívus (⟪तुमुन्⟫) helyett használhatunk egy cselekvést vagy állapotot jelző kṛt-utótaggal ellátott főnevet a datívusban (⟪चतुर्थी⟫ = "negyes esetrag").**
 
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
-anstatt: <!-- TODO: Fallback translation -->
+helyett:
 
 :::
 ::: indent
-⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪रामो⟫ ⟪गुरुवचनं⟫ ⟪श्रोतुं⟫ ⟪गतः⟫ ⟪।⟫
 :::
-kann man auch sagen: <!-- TODO: Fallback translation -->
+azt is mondhatjuk:
 
 ::: indent
-⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪रामो⟫ ⟪गुरुवचनस्य⟫ ⟪श्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
 
-oder: <!-- TODO: Fallback translation -->
+vagy:
 
-⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪रामो⟫ ⟪गुरुवचनश्रवणाय⟫ ⟪गतः⟫ ⟪।⟫
 :::
-= "Rāma ist gegangen, um die Rede des Lehrers zu hören." <!-- TODO: Fallback translation -->
+= „Ráma elment, hogy meghallgassa a tanár beszédét.”
 ::: media
 ![](/images/lekt2404.webp)
-Abb.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
-(Bildquelle: [Details](/licenses#lekt2404)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2404))
 :::
 
 ::: grammar-box
-**2. Der Dativ (⟪चतुर्थी⟫) kann auch das Objekt eines zu ergänzenden Infinitivs des Zweckes bezeichnen:** <!-- TODO: Fallback translation -->
+**2. A datívus (⟪चतुर्थी⟫) jelölheti egy kiegészítendő céli infinitívus tárgyát is:**
 
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 :::
 ::: indent
-⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Er geht zum Zweck von Früchten ins Dorf = Er geht ins Dorf, um Früchte zu holen." <!-- TODO: Fallback translation -->
+⟪फलेभ्यो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Menekül a gyümölcsök céljából a faluba = Menekül a faluba, hogy gyümölcsöket szedjen."
 :::
-**In gleicher Weise bezeichnet der Dativ (⟪चतुर्थी⟫) den Zweck eines Dinges oder einer Handlung:** <!-- TODO: Fallback translation -->
+**Ugyanezen okból a datívuszt (⟪चतुर्थी⟫) egy dolog vagy cselekvés célját jelöli:**
 
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 ::: indent
-⟪यज्ञायान्नम्⟫ = "Speise zum Zweck eines Opfers = Speise für ein Opfer" <!-- TODO: Fallback translation -->
+⟪यज्ञायान्नम्⟫ = "Élelem áldozat céljából = Élelem egy áldozatra"
 :::
 ::: media
 ![](/images/lekt2401.webp)
-Abb.: ⟪यज्ञायान्नम्⟫
-'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day.
-(Bildquelle: [Details](/licenses#lekt2401)) <!-- TODO: Fallback translation -->
+Ábra: ⟪यज्ञायान्नम्⟫
+'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] egy hagyományos hindu esemény, amely a hindu újévi ünnepeken minden BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] templomban megtartják. Századával virágzó vegetáriánus ételeket ajánlanak Bhagwan Swaminarayan [સ્વામિનારાયણ] erre a napra.
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2401))
 :::
 
 ::: grammar-box
-**3. Der Dativ (⟪चतुर्थी⟫) bezeichnet auch die Person oder Sache, für die das Objekt einer Handlung bestimmt ist (indirektes Objekt ; Frage: wem?). (Beachten Sie aber die Verben mit doppeltem Akkusativ (⟪द्वितीया⟫)!)** <!-- TODO: Fallback translation -->
+**3. A datívuszt (⟪चतुर्थी⟫) jelöli továbbá azt a személyt vagy tárgyat, akinek vagy aminek az objektuma egy cselekvésnek szánt (közvetett tárgy; kérdés: kinek?). (Vegye azonban figyelembe a dupla akkuzatívos igéket (⟪द्वितीया⟫)!)**
 
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 :::
 ::: indent
-⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "Er gibt dem Rāma eine Frucht." (Wurzel ⟪दा⟫ 3. Präsensklasse) <!-- TODO: Fallback translation -->
+⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "Rámának ad egy gyümölcsöt." (Tő ⟪दा⟫ 3. jelen időosztály)
 :::
 ::: media
 ![](/images/lekt2402.webp)
-Abb.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
-Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters.
-(Bildquelle: [Details](/licenses#lekt2402)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
+A Raksha Bandhant lelkesedéssel és örömmel ünneplik egész Indiában. Ez a fesztivál a testvérek közötti feltétel nélküli szeretet megtestesítője.
+(Képmegjelenés: [Részletek](/hu/licenses#lekt2402))
 :::
 
 ::: grammar-box
-**4. Der Dativ steht bei einigen Verben (und einigen anderen Wörtern) ähnlich wie im Deutschen auf die Frage "wem?":** <!-- TODO: Fallback translation -->
+**4. A datívus egyes igéknél (és néhány más szóban) hasonlóan a némethez arra a kérdésre áll, hogy „kinek?":**
 
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 
 :::
 ::: indent
-⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "Der Gott zürnt den Männern." <!-- TODO: Fallback translation -->
+⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "Az isten dühöng a férfiakon."
 
-⟪अलम्⟫ Adverb: "genug, hinreichend, gewachsen": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "ein Krieger ist dem anderen Krieger gewachsen" <!-- TODO: Fallback translation -->
+⟪अलम्⟫ Határozószó: "eleget, elegendő, felér": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "egy harcos felér a másik harcoshoz"
 :::
 ::: media
 ![](/images/lekt2403.webp)
-Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
-"Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820
-(Bildquelle: [Details](/licenses#lekt2403)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
+"Ráma (jobbra) Hanuman vállán ül, harcol a démonkirállyal, Rávanával." kb. 1820
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2403))
 :::
-Weitere Verwendungen des Dativ später. <!-- TODO: Fallback translation -->
+A datívus további felhasználásait később.
 
-## 24.2. Bildung des Dativ (⟪चतुर्थी⟫) <!-- TODO: Fallback translation -->
+## 24.2. A datívus képzése (⟪चतुर्थी⟫)
 
 ::: grammar-box
-**Die regelmässigen Endungen des Dativ sind:** <!-- TODO: Fallback translation -->
+**A datívus szabályos végződései:**
 
-* **egyes szám: -e ; vokalisch endende Femininstämme: -ai** <!-- TODO: Fallback translation -->
-* **többes szám: részes eset (dativus) und ablativus ⟪पञ्चमी⟫: -bhyas** <!-- TODO: Fallback translation -->
+* **egyes szám: -e ; vokalisch endende Femininstämme: -ai**
+* **többes szám: részes eset (dativus) und ablativus ⟪पञ्चमी⟫: -bhyas**
 :::
-### 24.2.1. Konsonantische Stämme <!-- TODO: Fallback translation -->
-
-::: grammar-box
-
-| | részes eset (dativus) egyes szám | részes eset (dativus) többes szám | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| ⟪यजन्त्⟫ | ⟪यजते⟫ :bryaja-t-e | ⟪यजद्भ्यस्⟫ :braus yaja-t-bhyas | <!-- TODO: Fallback translation -->
-| ⟪महान्त्⟫ | ⟪महते⟫ | ⟪महद्भ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪पशुमन्त्⟫ | ⟪पशुमते⟫ | ⟪पशुमद्भ्यस्⟫ | <!-- TODO: Fallback translation -->
-| ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ | <!-- TODO: Fallback translation -->
-
-:::
-### 24.2.2. Fragepronomen <!-- TODO: Fallback translation -->
+### 24.2.1. Konsonantische Stämme
 
 ::: grammar-box
 
-| | hímnem / semlegesnem | nőnem | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **részes eset (dativus) egyes szám** | ⟪कस्मै⟫ | ⟪कस्यै⟫ | <!-- TODO: Fallback translation -->
-| **részes eset (dativus) többes szám** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ | <!-- TODO: Fallback translation -->
+| | részes eset (dativus) egyes szám | részes eset (dativus) többes szám |
+| :--- | :--- | :--- |
+| ⟪यजन्त्⟫ | ⟪यजते⟫ :bryaja-t-e | ⟪यजद्भ्यस्⟫ :braus yaja-t-bhyas |
+| ⟪महान्त्⟫ | ⟪महते⟫ | ⟪महद्भ्यस्⟫ |
+| ⟪पशुमन्त्⟫ | ⟪पशुमते⟫ | ⟪पशुमद्भ्यस्⟫ |
+| ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ |
 
 :::
-### 24.2.3. Demonstrativpronomina <!-- TODO: Fallback translation -->
+### 24.2.2. Kérdőszavak
 
 ::: grammar-box
 
-| | | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **hímnem / semlegesnem** | **Dat. sg.** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ | <!-- TODO: Fallback translation -->
-| | **Dat. pl.** | ⟪तेभ्यस्⟫ | ⟪एतेभ्यस्⟫ | ⟪एभ्यस्⟫ | <!-- TODO: Fallback translation -->
-| **nőnem** | **Dat. sg.** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ | <!-- TODO: Fallback translation -->
-| | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ | <!-- TODO: Fallback translation -->
+| | hímnem / semlegesnem | nőnem |
+| :--- | :--- | :--- |
+| **részes eset (dativus) egyes szám** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
+| **részes eset (dativus) többes szám** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
-### 24.2.4. Vokalische Stämme <!-- TODO: Fallback translation -->
+### 24.2.3. Mutató névmások
 
 ::: grammar-box
-**Vokalische Stämme** <!-- TODO: Fallback translation -->
 
-* **Maskulina / Neutra auf -a:** ⟪देव⟫ <!-- TODO: Fallback translation -->
-  * Dat. sg. ⟪देवाय⟫ <!-- TODO: Fallback translation -->
-  * Dat. pl. ⟪देवेभ्यस्⟫ <!-- TODO: Fallback translation -->
-* **Maskulina auf -i:** ⟪कवि⟫ <!-- TODO: Fallback translation -->
-  * Dat. sg. ⟪कवये⟫ <!-- TODO: Fallback translation -->
-  * Dat. pl. ⟪कविभ्यस्⟫ <!-- TODO: Fallback translation -->
-* **Maskulina auf -u:** ⟪पशु⟫ <!-- TODO: Fallback translation -->
-  * Dat. sg. ⟪पशवे⟫ <!-- TODO: Fallback translation -->
-  * Dat. pl. ⟪पशुभ्यस्⟫ <!-- TODO: Fallback translation -->
-* **Feminina auf -ā:** ⟪देवता⟫ <!-- TODO: Fallback translation -->
-  * Dat. sg. ⟪देवतायै⟫ <!-- TODO: Fallback translation -->
-  * Dat. pl. ⟪देवताभ्यस्⟫ <!-- TODO: Fallback translation -->
-* **Feminina auf -ī:** ⟪देवी⟫ <!-- TODO: Fallback translation -->
-  * Dat. sg. ⟪देव्यै⟫ <!-- TODO: Fallback translation -->
-  * Dat. pl. ⟪देवीभ्यस्⟫ <!-- TODO: Fallback translation -->
-* **Feminina auf -i:** ⟪श्रुति⟫ <!-- TODO: Fallback translation -->
-  * Dat. sg. ⟪श्रुतये⟫ oder ⟪श्रुत्यै⟫ (d.h. wie ⟪कवि⟫ oder wie ⟪देवी⟫) <!-- TODO: Fallback translation -->
-  * Dat. pl. ⟪श्रुतिभ्यस्⟫ <!-- TODO: Fallback translation -->
-* **Feminina auf -u:** ⟪धेनु⟫ <!-- TODO: Fallback translation -->
-  * Dat. sg. ⟪धेनवे⟫ oder ⟪धेन्वै⟫ <!-- TODO: Fallback translation -->
-  * Dat. pl. ⟪धेनुभ्यस्⟫ <!-- TODO: Fallback translation -->
+| | | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ |
+| :--- | :--- | :--- | :--- | :--- |
+| **hímnem / semlegesnem** | **Dat. sg.** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
+| | **Dat. pl.** | ⟪तेभ्यस्⟫ | ⟪एतेभ्यस्⟫ | ⟪एभ्यस्⟫ |
+| **nőnem** | **Dat. sg.** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
+| | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
+
 :::
-## 24.3. Sandhi von auslautendem -ai und -au <!-- TODO: Fallback translation -->
+### 24.2.4. Vokális tövek
 
 ::: grammar-box
-**Sandhi von auslautendem -ai und -au** <!-- TODO: Fallback translation -->
+**Vokális tövek**
 
-* **-ai vor anlautendem Vokal wird in der Regel durch -ā ersetzt (seltener durch -āy wie im Wortinneren)** <!-- TODO: Fallback translation -->
-* **-au vor Vokal wird in der Regel durch -āv ersetzt (seltener durch -ā)** <!-- TODO: Fallback translation -->
+* **Hímnem / Neutrum -a végződésű:** ⟪देव⟫
+* Dat. sg. ⟪देवाय⟫
+* Dat. pl. ⟪देवेभ्यस्⟫
+* **Hímnem -i végződésű:** ⟪कवि⟫
+* Dat. sg. ⟪कवये⟫
+* Dat. pl. ⟪कविभ्यस्⟫
+* **Hímnem -u végződésű:** ⟪पशु⟫
+* Dat. sg. ⟪पशवे⟫
+* Dat. pl. ⟪पशुभ्यस्⟫
+* **Nőnem -ā végződésű:** ⟪देवता⟫
+* Dat. sg. ⟪देवतायै⟫
+* Dat. pl. ⟪देवताभ्यस्⟫
+* **Nőnem -ī végződésű:** ⟪देवी⟫
+* Dat. sg. ⟪देव्यै⟫
+* Dat. pl. ⟪देवीभ्यस्⟫
+* **Nőnem -i végződésű:** ⟪श्रुति⟫
+* Dat. sg. ⟪श्रुतये⟫ vagy ⟪श्रुत्यै⟫ (azaz mint ⟪कवि⟫ vagy mint ⟪देवी⟫)
+* Dat. pl. ⟪श्रुतिभ्यस्⟫
+* **Nőnem -u végződésű:** ⟪धेनु⟫
+* Dat. sg. ⟪धेनवे⟫ vagy ⟪धेन्वै⟫
+* Dat. pl. ⟪धेनुभ्यस्⟫
+:::
+## 24.3. Sandhi a végződő -ai és -au esetén
 
-Beispiel: <!-- TODO: Fallback translation -->
+::: grammar-box
+**A végződő -ai és -au sandhija**
+
+* **-ai előtt magánhangzóval általában -ā-ra cserélődik (ritkábban -āy, mint a szó belsejében)**
+* **-au előtt magánhangzóval általában -āv-ra cserélődik (ritkábban -ā)**
+
+Példa:
 
 :::
 ::: indent
-⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "diesem Feuer" <!-- TODO: Fallback translation -->
+⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = „ennek a tűznek”
 :::
-## 24.4. Wortliste <!-- TODO: Fallback translation -->
+## 24.4. Szószedet
 
-⟪अलम्⟫ Adverb: genug, hinreichend, (jemandem, etwas) gewachsen ; mit Dativ: genug für, hinreichend für, dem gewachsen ; mit Instrumentalis: genug mit, lass ab von , z.B. ⟪अलं⟫ ⟪क्रोधेन⟫ = "genug mit dem Zorn = lass ab vom Zorn!" <!-- TODO: Fallback translation -->
+⟪अलम्⟫ Határozószó: eleget, elegendő; (vkinek, vminek) megfelel; birtokos esettel: eleget tesz vminek, elegendő vmihez; felszólító esettel: elég vmivel, hagyd abba vmiből, pl. ⟪अलं⟫ ⟪क्रोधेन⟫ = „eleget a haraggal = hagyd abba a haragból!”
 
-In gleicher Weise wie ⟪अलम्⟫ mit Instrumentalis wird verwendet: <!-- TODO: Fallback translation -->
+Ugyanúgy, mint ⟪अलम्⟫ felszólító esettel használva:
 
-⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = "Es ist getan mit dem Zorn = lass ab vom Zorn!" <!-- TODO: Fallback translation -->
+⟪कृतम्⟫ : ⟪कृतं⟫ ⟪क्रोधेन⟫ = „Elkészült a haraggal = hagyd abba a haragból!”
 
-⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : schmücken <!-- TODO: Fallback translation -->
+⟪अलम्⟫ + ⟪कृ⟫ 8U ⟪अलंकरोति⟫ : díszít
 
 ::: indent
-⟪अलंकार⟫ m.: Schmuck, Schmuckmittel (in der Dichtung) <!-- TODO: Fallback translation -->
+⟪अलंकार⟫ m.: dísz, ékszer (költői nyelvben)
 :::
 ::: media
 ![](/images/lekt2405.webp)
-Abb.: ⟪अलंकारः⟫
-(Bildquelle: [Details](/licenses#lekt2405)) <!-- TODO: Fallback translation -->
+Kép: ⟪अलंकारः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2405))
 :::
-⟪हेतु⟫ m.: Antribe, Veranslassung, Ursache, Grund ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ mit Genetiv oder als Hinterglied eines Kompositums = "um ... willen, wegen" <!-- TODO: Fallback translation -->
+⟪हेतु⟫ m.: ösztönzés, indok, ok, alap ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ genitívussal vagy egy összetétel második tagjaként = „... végett, miatt”
 
-⟪प्रतिमा⟫ f.: Bildnis, Abbild <!-- TODO: Fallback translation -->
+⟪प्रतिमा⟫ f.: kép, ábrázolás
 
 ::: media
 ![](/images/lekt2406.webp)
-Abb.: ⟪देवीप्रतिमा⟫
+Kép: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Bildquelle: [Details](/licenses#lekt2406)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2406))
 :::
-⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : erfolgen, geschehen, entstehen <!-- TODO: Fallback translation -->
+⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : megtörténik, bekövetkezik, keletkezik
 
-Von ⟪वृत्⟫: <!-- TODO: Fallback translation -->
+A következőből: ⟪वृत्⟫
 
 ::: indent
-⟪वृत्ति⟫ f.: Benehmen, Tätigkeit, Lebensweise <!-- TODO: Fallback translation -->
+⟪वृत्ति⟫ f.: magatartás, tevékenység, életmód
 
-⟪वृत्त⟫ n.: Benehmen <!-- TODO: Fallback translation -->
+⟪वृत्त⟫ n.: magatartás
 :::
-⟪अभि⟫ Präverb:  be-, nach - hin, zu - her, zu - hin, gegen, in - hinein, in Bezug auf, auf, über, an <!-- TODO: Fallback translation -->
+⟪अभि⟫ előtag:  be-, után - felé, oda - ide, oda - felé, ellenében, be- , vonatkozásban, a(n), fölött, mellett
 
-⟪नि⟫ Präverb: niederwärts, hinunter, hinein, rückwärts <!-- TODO: Fallback translation -->
+⟪नि⟫ előtag: lefelé, lentebb, be-, hátra
 
-⟪आ⟫ Präposition / Postposition: vor Ablativ oder nach Akkusativ: bis hin, bis zu ; mit Ablativ: von her, von an, seit <!-- TODO: Fallback translation -->
+⟪आ⟫ prepozíció / poszpozíció: az ablutív előtt vagy az akkuzatív után: mindaddig, amíg; az ablutíval: onnan, attól fogva
 
-⟪अतस्⟫ Indeklinabile: von da, dann, deshalb, daher (Pronominalstamm a- "dieser" + Ablativsuffix -tas) <!-- TODO: Fallback translation -->
+⟪अतस्⟫ Ragozhatlan: onnan, akkor, ezért, azért (Pronominalstamm a- "ez" + Ablativsuffix -tas)
 
-⟪अध्यक्ष⟫ m.: Aufseher, Departementschef ; Augenzeuge <!-- TODO: Fallback translation -->
+⟪अध्यक्ष⟫ m.: felügyelő, osztályvezető; szemtanú
 
-⟪इन्द्रिय⟫ n.: Kraft, Sinnesorgan <!-- TODO: Fallback translation -->
+⟪इन्द्रिय⟫ n.: erő, érzékszerv
 
-⟪ऊह⟫ m.: Überlegung, Argumentation <!-- TODO: Fallback translation -->
+⟪ऊह⟫ m.: megfontolás, érvelés
 
-davon <!-- TODO: Fallback translation -->
+davon
 
 ::: indent
-⟪अपोह⟫ m.: Negierung (⟪अप⟫ + ⟪ऊह⟫) <!-- TODO: Fallback translation -->
+⟪अपोह⟫ m.: Negáció (⟪अप⟫ + ⟪ऊह⟫)
 
-⟪ऊहापोह⟫ m.: Diskussion des Für und Wider <!-- TODO: Fallback translation -->
+⟪ऊहापोह⟫ m.: A melles és ellenes érvek megvitatása
 :::
 ::: media
 ![](/images/lekt2407.webp)
-Abb.: ⟪ऊहापोहः⟫
-"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi."
-(Bildquelle: [Details](/licenses#lekt2407)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪ऊहापोहः⟫
+"NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, a CNN-IBN Network 18 India helyettes külpolitikai szerkesztője, moderál egy panelbeszélgetést a 2008-as Újdelhi Világ Gazdasági Fórum Indiai Gazdasági Csúcstalálkozóján."
+(Képmegjelenés: [Details](/hu/licenses#lekt2407))
 :::
-⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : nützlich <!-- TODO: Fallback translation -->
+⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : hasznos
 
-⟪कुप्य⟫ n.: Walderzeugnis, Metall (nicht Edelmetall) <!-- TODO: Fallback translation -->
+⟪कुप्य⟫ n.: Erdőtermék, fém (nem nemesfém)
 
-⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : sehen, sichtbar werden ; nennen, erklären, mitteilen <!-- TODO: Fallback translation -->
+⟪ख्या⟫ 2P ⟪ख्याति⟫ PPP ⟪ख्यात⟫ : látni, láthatóvá válni; nevezni, elmagyarázni, közölni
 
 ::: indent
-⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : erzählen <!-- TODO: Fallback translation -->
+⟪ख्या⟫ + ⟪आ⟫ 2P ⟪आख्यात⟫ : mesélni
 
-davon: <!-- TODO: Fallback translation -->
+róla:
 
-⟪आख्यान⟫ n.: Erzählung <!-- TODO: Fallback translation -->
+⟪आख्यान⟫ n.: mesélés
 :::
 ::: media
 ![](/images/lekt2408.webp)
-Abb.: ⟪आख्यानम्⟫
-"San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers."
-(Bildquelle: [Details](/licenses#lekt2408)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪आख्यानम्⟫
+"San Francisco-i mesélő, Jeff Byers egy történetet oszt meg Chenneri lakóival, egy Irula faluval. A mesélő, Jeeva Raghunath tamilra fordítja a falu lakói számára."
+(Képmegjelenés: [Részletek](/hu/licenses#lekt2408))
 :::
 
 ::: indent
-⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : zusammenzählen, berechnen <!-- TODO: Fallback translation -->
+⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : összeadni, kiszámolni
 
-davon: <!-- TODO: Fallback translation -->
+ebből:
 
-⟪संख्या⟫ f.: Zählung, Aufzählung ; ⟪सांख्य⟫ n.: eines der sechs philosophischen Systeme (kurz: Basham, Wonder S. 326f.) <!-- TODO: Fallback translation -->
+⟪संख्या⟫ f.: számlálás, felsorolás ; ⟪सांख्य⟫ n.: a hat filozófiai rendszer egyike (röviden: Basham, Wonder o. 326f.)
 :::
-⟪ग्रहण⟫ n.: Ergreifen <!-- TODO: Fallback translation -->
+⟪ग्रहण⟫ n.: megragadás
 
-⟪चौल⟫ n.: Zermonie (⟪संस्कार⟫) des Haarschneidens (im Alter von 3 Jahren) <!-- TODO: Fallback translation -->
+⟪चौल⟫ n.: ceremónia (⟪संस्कार⟫) a hajvágásról (hároméves korban)
 
-⟪तत्त्व⟫ n.: wahres Wesen, Wahrheit, Realität (⟪तद्⟫ + ⟪त्व⟫ = Dies-heit) <!-- TODO: Fallback translation -->
+⟪तत्त्व⟫ n.: valódi lényeg, igazság, valóság (⟪तद्⟫ + ⟪त्व⟫ = ez-ség)
 
-⟪स्वस्ति⟫ f.: Glück, Heil (Nominalbildung aus ⟪सु⟫ ⟪अस्ति⟫ = "es ist gut") <!-- TODO: Fallback translation -->
+⟪स्वस्ति⟫ f.: boldogság, üdvösség (névmási képző a ⟪सु⟫ ⟪अस्ति⟫ = "jó az" kifejezésből)
 
-⟪नमस्⟫ n.: Verbeugung, Verehrung, Gruss (Deklination später). Begrüssungsformel: ⟪नमो⟫ ⟪नमः⟫ <!-- TODO: Fallback translation -->
+⟪नमस्⟫ n.: meghajlás, tisztelet, üdvözlés (ragozás később). Üdvözlő formula: ⟪नमो⟫ ⟪नमः⟫
 
-davon: <!-- TODO: Fallback translation -->
+abból:
 
 ::: indent
-⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : sich verbeugen, verehren, begrüssen <!-- TODO: Fallback translation -->
+⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : meghajolni, tisztelni, üdvözletet mondani
 :::
 ::: media
 ![](/images/lekt2411.webp)
-Abb.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
-Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr.
-(Bildquelle: [Details](/licenses#lekt2411)) <!-- TODO: Fallback translation -->
+Ábra: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
+A ⟪गीतगोविन्द⟫ kézirata, i. sz. 1730
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2411))
 :::
-⟪स्वागत⟫ n.: Willkommen (aus su-ā-gata) <!-- TODO: Fallback translation -->
+⟪स्वागत⟫ n.: Üdvözlet (a su-ā-gata szóból)
 
-⟪तृण⟫ n.: Grashalm <!-- TODO: Fallback translation -->
+⟪तृण⟫ n.: Gyepűszál
 
-⟪पुनर्⟫ Adverb: wiederum, wieder, zurück, aber <!-- TODO: Fallback translation -->
+⟪पुनर्⟫ Hatószó: ismét, újra, vissza, de
 
-## 24.5. Übung <!-- TODO: Fallback translation -->
+## 24.5. Gyakorlat
 
-A) Bilden Sie den Dativ Singular und den Dativ/(Ablativ) Plural und geben Sie die Bedeutung des Nominalstamms an: <!-- TODO: Fallback translation -->
+A) Alakítsa ki az egyes számú dativust és a többes számú dativust/(ablativust), valamint adja meg a névi alap jelentését:
 
-1.  ⟪श्रव⟫ <!-- TODO: Fallback translation -->
-2.  ⟪भवन⟫ <!-- TODO: Fallback translation -->
-3.  ⟪गति⟫ <!-- TODO: Fallback translation -->
-4.  ⟪ऋषि⟫ <!-- TODO: Fallback translation -->
-5.  ⟪सुख⟫ <!-- TODO: Fallback translation -->
-6.  ⟪गमन⟫ <!-- TODO: Fallback translation -->
-7.  ⟪जय⟫ <!-- TODO: Fallback translation -->
-8.  ⟪साधु⟫ <!-- TODO: Fallback translation -->
-9.  ⟪धेनु⟫ <!-- TODO: Fallback translation -->
-10.  ⟪शुद्रा⟫ <!-- TODO: Fallback translation -->
-11.  ⟪ब्राह्मणी⟫ <!-- TODO: Fallback translation -->
-12.  ⟪अग्नि⟫ <!-- TODO: Fallback translation -->
-13.  ⟪एतद्⟫ ⟪३⟫ <!-- TODO: Fallback translation -->
-14.  ⟪सन्त्⟫ <!-- TODO: Fallback translation -->
-15.  ⟪बुद्धिमन्त्⟫ <!-- TODO: Fallback translation -->
-16.  ⟪यज्ञ⟫ <!-- TODO: Fallback translation -->
-17.  ⟪वचन⟫ <!-- TODO: Fallback translation -->
-18.  ⟪सत्यवन्त्⟫ <!-- TODO: Fallback translation -->
-19.  ⟪स्मृति⟫ <!-- TODO: Fallback translation -->
-20.  ⟪सर्ग⟫ <!-- TODO: Fallback translation -->
-21.  ⟪स्वर्ग⟫ <!-- TODO: Fallback translation -->
-22.  ⟪दर्शन⟫ <!-- TODO: Fallback translation -->
-23.  ⟪सृष्टि⟫ <!-- TODO: Fallback translation -->
-24.  ⟪अर्हन्त्⟫ <!-- TODO: Fallback translation -->
-25.  ⟪भक्ति⟫ <!-- TODO: Fallback translation -->
-26.  ⟪दोष⟫ <!-- TODO: Fallback translation -->
-27.  ⟪पूजा⟫ <!-- TODO: Fallback translation -->
-28.  ⟪दासी⟫ <!-- TODO: Fallback translation -->
-29.  ⟪गुरु⟫ <!-- TODO: Fallback translation -->
+1.  ⟪श्रव⟫
+2.  ⟪भवन⟫
+3.  ⟪गति⟫
+4.  ⟪ऋषि⟫
+5.  ⟪सुख⟫
+6.  ⟪गमन⟫
+7.  ⟪जय⟫
+8.  ⟪साधु⟫
+9.  ⟪धेनु⟫
+10.  ⟪शुद्रा⟫
+11.  ⟪ब्राह्मणी⟫
+12.  ⟪अग्नि⟫
+13.  ⟪एतद्⟫ ⟪३⟫
+14.  ⟪सन्त्⟫
+15.  ⟪बुद्धिमन्त्⟫
+16.  ⟪यज्ञ⟫
+17.  ⟪वचन⟫
+18.  ⟪सत्यवन्त्⟫
+19.  ⟪स्मृति⟫
+20.  ⟪सर्ग⟫
+21.  ⟪स्वर्ग⟫
+22.  ⟪दर्शन⟫
+23.  ⟪सृष्टि⟫
+24.  ⟪अर्हन्त्⟫
+25.  ⟪भक्ति⟫
+26.  ⟪दोष⟫
+27.  ⟪पूजा⟫
+28.  ⟪दासी⟫
+29.  ⟪गुरु⟫
 
-B) Übersetzen Sie und lösen Sie die Komposita in Sanskrit auf: <!-- TODO: Fallback translation -->
+B) Fordítsa le, és oldja fel a szanszkrit összetételeket:
 
-⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪ब्राह्मणो⟫ ⟪देवप्रतिमादर्शनाय⟫ ⟪गर्भगृहं⟫ ⟪विशति⟫ ⟪॥१॥⟫
 
-⟪नरा⟫ ⟪धनलाभाय⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪नरा⟫ ⟪धनलाभाय⟫ ⟪व्रतानि⟫ ⟪चरन्ति⟫ ⟪॥२॥⟫
 
-⟪गुरुर्धर्मोपदेशाय⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪गुरुर्धर्मोपदेशाय⟫ ⟪नगरं⟫ ⟪गतः⟫ ⟪॥३॥⟫
 
-⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनश्रुत्यै⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪बाला⟫ ⟪अपि⟫ ⟪गुरुवचनश्रुत्यै⟫ ⟪नगरं⟫ ⟪गताः⟫ ⟪॥४॥⟫
 
-⟪देवप्रतिमायै⟫ ⟪गृहं⟫ ⟪गर्भगृहम्⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪देवप्रतिमायै⟫ ⟪गृहं⟫ ⟪गर्भगृहम्⟫ ⟪॥५॥⟫
 
-⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥६॥⟫ <!-- TODO: Fallback translation -->
+⟪स्वर्गेभ्यो⟫ ⟪नराः⟫ ⟪पुण्यं⟫ ⟪कर्तुमिच्छन्ति⟫ ⟪॥६॥⟫
 
-⟪मोक्षार्थं⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥७॥⟫ <!-- TODO: Fallback translation -->
+⟪मोक्षार्थं⟫ ⟪बुद्धगता⟫ ⟪बुद्ध्याप्तिमिच्छन्ति⟫ ⟪॥७॥⟫
 
-⟪देवास्तेभ्यो⟫ ⟪ऽकृतपूजाब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
+⟪देवास्तेभ्यो⟫ ⟪ऽकृतपूजाब्राह्मणेभ्यः⟫ ⟪क्रुध्यन्ति⟫ ⟪॥८॥⟫
 
-⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫ <!-- TODO: Fallback translation -->
+⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫
 
-C) Geben Sie die Sätze A) 1-4 in Sanskrit wieder, indem Sie statt der Dative Infinitive (⟪तुमुन्⟫) setzen. Beachten Sie, dass der Infinitiv den gleichen Kasus regiert wie das entsprechende Verb. <!-- TODO: Fallback translation -->
+C) Írja át az A) 1-4. mondatokat szanszkritra, a datívus helyett ⟨⟪तुमुन्⟩⟩-t használva. Vegye figyelembe, hogy az infinitívus ugyanazt a szerkezetet követi, mint a megfelelő ige.
 
-D) Ersetzen Sie in Satz A) 7 die Konstruktion mit -⟪अर्थ⟫ durch einen gleichwertigen Dativ. <!-- TODO: Fallback translation -->
+D) Cserélje ki az A) 7. mondatban a -⟪अर्थ⟩⟩ szerkezetet egy ekvivalens datívusra.
 
-E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Konstruktion mit -⟪अर्थ⟫ <!-- TODO: Fallback translation -->
+E) Cserélje ki az A) 6. mondatban a datívus szerkezetet egy ekvivalens -⟪अर्थ⟩⟩ szerkezetre.
 
-## 24.6. Weitere Übungen zum Gebrauch des Dativ <!-- TODO: Fallback translation -->
+## 24.6. További gyakorlatok a datívus használatához
 
-Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
+Fordítsa szanszkritra:
 
-1\. Die Göttin, der man nicht geopfert hat, zürnt den Menschen. <!-- TODO: Fallback translation -->
+1. Az istennő, akinek áldozatot nem mutattak be, haragszik az emberekre.
 
-2\. Er lässt die Kuh ins Dorf los. <!-- TODO: Fallback translation -->
+2. Kiengedi a tehenet a faluba.
 
-3\. Jetzt reichts = Genug mit der Geduld. <!-- TODO: Fallback translation -->
+3. Most elég = Elég a türelemből.
 
-4\. Das ist gut (⟪हित⟫, ⟪सुख⟫) für einen Brahmanen. <!-- TODO: Fallback translation -->
+4\. Ez jó (⟪हित⟫, ⟪सुख⟫) egy bráhmanának.
 
-5\. Verehrung (⟪नमस्⟫)  sei Śiva! Verehrung sei Śrī Gaṇeśa! <!-- TODO: Fallback translation -->
+5\. Tisztelet (⟪नमस्⟩) legyen Śivának! Tisztelet legyen Śrī Gaṇészának!
 
 ::: media
 ![](/images/lekt2409.webp)
-Abb.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-(Bildquelle: [Details](/licenses#lekt2409)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
+(Képmegjelölés: [Részletek](/hu/licenses#lekt2409))
 :::
-6\. Auf Wiedersehen! (= Wohlergehen (⟪स्वस्ति⟫ f.)  Ihnen!) <!-- TODO: Fallback translation -->
+6\. Viszlát! (= Boldogulj (⟪स्वस्ति⟩ f.) neked!)
 
-7\. Diese Frucht reicht zum Essen. <!-- TODO: Fallback translation -->
+7\. Ez a gyümétel elegendő az evéshez.
 
-8\. Ein Kämpfer ist dem (anderen) Kämpfer gewachsen (⟪शक्त⟫). <!-- TODO: Fallback translation -->
+8\. Egy harcos egyenrangú a (másik) harccal (⟪शक्त⟫).
 
-9\. Selbst Viṣṇu übertrifft (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva nicht. <!-- TODO: Fallback translation -->
+9\. Maga Viṣṇu sem múlja felül (⟪प्र⟫-⟪भू⟩ + Dat.) Śivát.
 
-10\. Nachdem ich mich vor den drei Weisen (Akk.) verbeugt habe (⟪नमस्कृ⟫)... Er verbeugt sich vor Narasiṃha (Dat.) <!-- TODO: Fallback translation -->
+10\. Miután meghajoltam a három bölcs előtt (Akk.) (⟪नमस्कृ⟩)... Ő meghajol Narasiṃha előtt (Dat.)
 
 ::: indent
-Erklärung: ⟪मुनित्रयम्⟫ "die Dreiheit der Weisen = die drei Weisen" = die Grammatiker ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫ <!-- TODO: Fallback translation -->
+Magyarázat: ⟪मुनित्रयम्⟩ „a bölcsek hármasa = a három bölcs” = a grammatikusok ⟪पाणिनि⟩, ⟪कात्यायन⟩, ⟪पतञ्जलि⟩
 :::
 ::: media
 ![](/images/lekt2410.webp)
-Abb.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
-⟪नरसिंह⟫ zerfleischt ⟪हिरण्यकशिपु⟫, Blatt aus einem Manuskript des ⟪भागवतपुराण⟫
-(Bildquelle: [Details](/licenses#lekt2410)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪नरो⟩ ⟪नरसिंहाय⟩ ⟪नमस्करोति⟩
+⟪नरसिंह⟩ szétmarja ⟪हिरण्यकशिपु⟩, levél egy kéziratból a ⟪भागवतपुराण⟩-ből
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2410))
 :::
-11\. Willkommen (⟪स्वागतम्⟫)  Ihnen. Willkommen der Königin. <!-- TODO: Fallback translation -->
+11\. Üdvözlet (⟪स्वागतम्⟩) Önöknek. Üdvözlet a királynőnek.
 
-12\. Ich wünsche Ihnen Wohlergehen (⟪कुशल⟫) = Wohlergehen Ihnen! <!-- TODO: Fallback translation -->
+12. Önöknek jólétet kívánok (⟪कुशल⟫) = jólét Önöknek!
 
-13\. Er betrachtet ihn nicht als Grashalm. <!-- TODO: Fallback translation -->
+13. Nem tekinti őt gyomlának.
 
-14\. Es reicht eine Frucht zum Essen und Wasser zum Trinken. <!-- TODO: Fallback translation -->
+14. Elegendő egy gyümölcs az evéshez és víz a iváshoz.
 
-15⟪१५⟫. Auf Widersehen! (Neusanskrit: ⟪पुनर्दर्शनाय⟫) <!-- TODO: Fallback translation -->
+15⟪१५⟫. Viszlát! (Újszanszkrit: ⟪पुनर्दर्शनाय⟫)
 
 ::: deleteme-box
 
-**lekt2401:** 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] is a traditional Hindu event that takes place on the Hindu New Year celebrations at all BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] mandirs. Hundreds of vegetarian dishes are offered to Bhagwan Swaminarayan [સ્વામિનારાયણ] on this day. [Bildquelle: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt2401:** Az „Annakut” [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] egy hagyományos hindu esemény, amelyet a hindu újév ünneplések keretében rendeznek meg az összes BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] templomban. Ezen a napon több száz vegetárius ételt ajánlanak Bhagwan Swaminarayan [સ્વામિનારાયણ] felé. [Képmegjelölés: chiragkpatel. -- http://www.flickr.com/photos/chiragkpatel/61224686/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (Névmegjelölés, nem kereskedelmi felhasználás)]
 
-**lekt2402:** Raksha bandhan is celebrated with fervour and joy all across India. This festival epitomizes the unconditional love between brothers and sisters. [Bildquelle: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
+**lekt2402:** A Raksha bandhant lelkesedéssel és örömmel ünneplik egész Indiában. Ez a fesztivál a testvérek közötti feltétel nélküli szeretet megtestesítője. [Képmegjelölés: yogu. -- http://www.flickr.com/photos/meethi/1266237363/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (Névmegjelölés, nem kereskedelmi felhasználás, share alike)]
 
-**lekt2403:** "Rama (right) seated on the shoulders of Hanuman, battles the demon-king Ravana." ca 1820 [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2403:** „Ráma (jobbra) Hanuman vállán ülve, harcol a démonkirály, Rávana ellen.” kb. 1820 [Képmegjelölés: Wikipedia, Közterület]
 
-**lekt2404:** [Bildquelle: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2404:** [Képmegjelölés: sknaB nolA. -- http://www.flickr.com/photos/nolasknab/110920752/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (Névmegjelölés, nincs átdolgozás)]
 
-**lekt2405:** [Bildquelle: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+**lekt2405:** [Képmegjelenítés forrása: sarboo. -- http://www.flickr.com/photos/sarboo/320741523/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás, nincs módosítás)]
 
-**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Bildquelle: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt2406:** Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ [Képmegjelenítés forrása: thaths. -- http://www.flickr.com/photos/thaths/862012190/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás)]
 
-**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Deputy Foreign Editor, CNN-IBN Network 18, India, moderates a panel discussion at the World Economic Forum's India Economic Summit 2008 in New Delhi." [Bildquelle: World Economic Forum / Photo by Dana Smillie. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, share alike)] <!-- TODO: Fallback translation -->
+**lekt2407:** "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, a CNN-IBN Network 18 India külföldi szerkesztő-helyettese, moderál egy panelbeszélgetést a Világgazdasági Fórum Indiai Gazdasági Csúcsértekezletén 2008-ban Újdelhiben." [Képmegjelenítés forrása: World Economic Forum / Dana Smillie fotója. -- http://www.flickr.com/photos/worldeconomicforum/3040064901/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (nevesítés, azonos feltételekkel megosztás)]
 
-**lekt2408:** "San Francisco storyteller Jeff Byers shares a story with the residents of Chenneri, an Irula village. Storyteller Jeeva Raghunath translates into Tamil for the villagers." [Bildquelle: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Zugriff am 2008-12-14. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung)] <!-- TODO: Fallback translation -->
+**lekt2408:** "A San Francisco-i mesemondó, Jeff Byers egy történetet oszt meg Chenneri lakosaival, egy Irula faluval. A mesemondó, Jeeva Raghunath tamilra fordítja a történetet a falusiak számára." [Képmegjelenítés forrása: ereneta. -- http://www.flickr.com/photos/tereneta/3062024840/. -- Hozzáférés: 2008-12-14. -- Creative Commons licenc (nevesítés, nem kereskedelmi felhasználás)]
 
-**lekt2409:** [Bildquelle: Redtigerxyz / Wikipedia, GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt2409:** [Képmegjelenítés forrása: Redtigerxyz / Wikipedia, GNU FDLicense]
 
-**lekt2410:** ⟪नरसिंह⟫ zerfleischt ⟪हिरण्यकशिपु⟫, Blatt aus einem Manuskript des ⟪भागवतपुराण⟫ [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2410:** ⟪नरसिंह⟫ szétmarja ⟪हिरण्यकशिपु⟫, levél egy ⟪भागवतपुराण⟫ kéziratból [Képmegjelenítés forrása: Wikipedia, Public domain]
 
-**lekt2411:** Manuskript des ⟪गीतगोविन्द⟫, 1730 n. Chr. [Bildquelle: Wikipedia, Public domain] <!-- TODO: Fallback translation -->
+**lekt2411:** ⟪गीतगोविन्द⟫ kézirata, i. sz. 1730 [Képmegjelenítés forrása: Wikipedia, Public domain]
 :::

@@ -1,89 +1,84 @@
 ---
-title: Pelajaran 5
-subtitle: "Dasar-dasar Nomina Komposita (samāsa)"
+title: "# Pelajaran 5"
+subtitle: "Grundlagen der Nominalkomposita (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
-category: "Tata Bahasa"
+category: "Grammatik"
 status: stable
 ---
 
+
+
 # Pelajaran 5
-
-
 
 ::: deleteme-box
 **Dalam pelajaran ini Anda akan mempelajari:**
-- Dasar-dasar majemuk nominal (samāsa)
-- Terminologi khusus untuk majemuk
-- Majemuk kopulatif (Dvandva)
-- Urutan anggota dalam Dvandva
-
+- Dasar-dasar komposita nominal (samāsa)
+- Terminologi khusus untuk komposita
+- Komposita kopulatif (Dvandva)
+- Urutan anggota dalam Ddvandvas
 :::
-## 5.1. Nominalkomposita (samāsa m. = ⟪समास⟫)
+## 5.1. Komposita Nominal (samāsa m. = ⟪समास⟫)
 
-Pembentukan kata majemuk dalam skala yang sangat besar adalah ciri khas bahasa Sanskerta.
+Pembentukan kata majemuk dalam jumlah yang sangat besar adalah ciri khas bahasa Sanskerta.
 
-Bentuk-bentuk pendidikan terpenting dari Komposita adalah:
-- **kopulative Komposita** (dvandva n. = ⟪द्वन्द्व⟫)
-- **determinative Komposita** (tatpuruṣa m. = ⟪तत्पुरुष⟫)
-- **Possesivkomposita** (bahuvrīhi m. = ⟪बहुव्रीहि⟫)
+Bentuk-bentuk pembentukan komposita yang paling penting adalah:
+- **komposita kopulatif** (dvandva n. = ⟪द्वन्द्व⟫)
+- **komposita determinatif** (tatpuruṣa m. = ⟪तत्पुरुष⟫)
+- **komposita posesif** (bahuvrīhi m. = ⟪बहुव्रीहि⟫)
 
-(Lihat yang terakhir disebutkan di bawah ini nanti!)
-
----
-
-## 5.2. Tentang Terminologi Sanskerta untuk Kata Majemuk
-
-- **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Anggota sebuah majemuk
-- **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : Penguraian sebuah majemuk
-- **nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ : Majemuk yang tidak memiliki vigrahavākya atau yang vigrahavākyanya tidak mungkin dibentuk dengan kata-kata dari majemuk tersebut.
-- **aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : Majemuk yang anggota pertamanya mempertahankan akhiran kasus
-- **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Majemuk yang anggota pertamanya tanpa akhiran kasus (keadaan normal)
-- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Majemuk yang satu atau beberapa anggota tengahnya dihilangkan
-
----
-
-## 5.3. Kata Majemuk Kopulatif (Dvandva n. = ⟪द्वन्द्व⟫)
-
-Komposita kopulatif berfungsi untuk menghubungkan elemen-elemen tata bahasa yang setara dan terkoordinasi (kata benda atau kata sifat).
+(Untuk dua yang terakhir, lihat nanti!)
 
 
+## 5.2. Tentang Terminologi Sanskerta untuk Komposita
+
+- **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Anggota sebuah komposita
+- **vigrahavākyam** n. = ⟪विग्रहवाक्यम्⟫ : Pembongkaran sebuah komposita
+- **nityasamāsaḥ** m. = ⟪नित्यसमासः⟫ : Komposita yang tidak memiliki vigrahavākya atau vigrahavākyanya tidak mungkin dibentuk dengan kata-kata komposita tersebut.
+- **aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : Komposita di mana anggota pertama mempertahankan akhiran kasus
+- **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Komposita di mana anggota pertamanya tanpa akhiran kasus (keadaan normal)
+- **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Komposita di mana satu atau beberapa anggota tengah dihilangkan
+
+
+## 5.3. Komposita Kopulatif (Dvandva n. = ⟪द्वन्द्व⟫)
+
+Komposita kopulatif berfungsi untuk menghubungkan anggota-anggota yang setara secara gramatikal dan terkoordinasi (kata benda atau kata sifat).
 
 ::: grammar-box
-**Dvandva merujuk pada:**
+**Sebuah Ddvandva menunjukkan:**
 
-1. **baiklah gabungan summatif dari orang-orang, benda-benda, sifat-sifat yang ditunjuk oleh anggota-anggota individunya:**
-   Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
+1. **baiklah hubungan penjumlahan dari orang, benda, atau sifat yang ditunjuk oleh anggota-anggota tunggalnya:**
+Itaretaradvandva = ⟪इतरेतरद्वन्द्व⟫
 
-2. **atau ia mengelompokkan orang-orang, benda-benda, atau sifat-sifat tersebut menjadi satu kesatuan:**
-   Samāhāradvandva ("Dvandva Ringkasan") = ⟪समाहारद्वन्द्व⟫
+2. **atau ia menggabungkan orang, benda, atau sifat-sifat tersebut menjadi satu kesatuan:**
+Samāhāradvandva ("Ddvandva ringkasan") = ⟪समाहारद्वन्द्व⟫
 
 **Dalam kasus pertama (Itaretaradvandva):**
-Dvandva memperoleh jenis kelamin gramatikal dari kata terakhirnya dan akhiran dwiwa (untuk dua hal) atau jamak (untuk lebih dari dua hal). Akhiran tunggal juga diperbolehkan.
+Ddvandva memperoleh jenis kelamin gramatikal dari anggota terakhirnya dan akhiran dualis (untuk dua benda) atau pluralis (untuk lebih dari dua benda). Akhiran singular juga diperbolehkan.
 
 **Dalam kasus kedua (Samāhāradvandva):**
-Dvandva secara umum adalah kata benda netral (terlepas dari jenis kelamin anggota terakhir) dan berada dalam bentuk tunggal.
+Ddvandva umumnya adalah neutrum (terlepas dari jenis kelamin anggota terakhirnya) dan berada dalam bentuk singular.
 
-**Penyelesaiannya:**
-Dilakukan dengan "dan" (**ca** = ⟪च⟫), kadang-kadang dengan "atau" (**vā** = ⟪वा⟫) atau "tergantung".
-
+**Pembongkarannya:**
+Dilakukan dengan "dan" (**ca** = ⟪च⟫), kadang-kadang dengan "atau" (**vā** = ⟪वा⟫) atau "masing-masing".
 :::
-Untuk dvandva dwandwa, lihat nanti!
+Lihat nanti untuk Ddvandva dualis!
 
-### 5.3.1. Unsur depan majemuk
+### 5.3.1. Anggota pertama komposita
 
-Bagian-bagian depan dari majemuk (tidak hanya Dvandva) umumnya berbentuk **stem nominal** yang tidak berubah. Bagian-bagian individu dari majemuk dihubungkan menurut aturan **Satzsandhi** (yaitu sandhi yang telah kita pelajari sejauh ini, berbeda dengan Wortsandhi yang diterapkan di dalam kata sebelum elemen formatif).
+Anggota pertama komposita (bukan hanya Ddvandvas) umumnya berbentuk **stam nomina** yang tidak berubah. Anggota-anggota tunggal komposita dihubungkan menurut aturan **Satzsandhi** (yaitu sandhi yang telah kita pelajari sejauh ini, berbeda dengan Wortsandhi yang diterapkan di dalam kata sebelum elemen formatif).
 
-### 5.3.2. Itaretaradvandva Jamak
+### 5.3.2. Plural-Itaretaradvandva
 
-Beispiele für Pluraldvandva:
+Contoh untuk Ddvandvas plural:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
 > = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
-> (Brahmana, Kṣatriya, Vaishya, dan Shudra)
+> (Brahmanen, Kṣatriyas, Vaiśyas dan Śūdras)
 > 
 > atau = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
-> (seorang Brahmana, Kṣatriya, Vaishya, dan Shudra)
+> ((seorang/tertentu) Brahmana, Kṣatriya, Vaiśya dan Śūdra)
+
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
 > = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
@@ -164,6 +159,7 @@ Gambar: Dewa Kāma = kāmadeva = ⟪कामदेव⟫, abad ke-18
    (Vāsiṣṭhadharmaśāstra II,1)
    ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ||
    (Penjelasan: trayas = ⟪त्रयस्⟫ = "tiga")
+
 
 3. sāmavedargvedayajurvedās trayī.
    (Kauṭilīya-arthaśāstra 1.3.1. / dalam Sanskerta yang baik: sāmārgyajurvedās trayī)

@@ -38,7 +38,7 @@ Determinar e tradurre las suandantas formas:
 | ⟪२३⟫. | ⟪जिघ्रति⟫ | sig[⟪घ्रा⟫] 1P: 3. Sg. Ind. Präs. P. (el odura) |
 | ⟪२४⟫. | ⟪जाग्रति⟫ | sig[⟪जागृ⟫] 2P: 3. Pl. Ind. Präs. P. (els veglian avert) |
 | ⟪२५⟫. | ⟪आस्थत्⟫ | sig[⟪अस्⟫] 4P: 3. Sg. a-Aor. P. (el ha lantschà) |
-| ⟪२६⟫. | ⟪आस्थात्⟫ | *⟪आ⟫-⟪स्था⟫* 1P: 3. Sg. Wurzelaor. P. (el è sa preschentà) |
+| ⟪२६⟫. | ⟪आस्थात्⟫ | *⟪आ⟫-⟪स्था⟫* 1P: 3. Sg. Radisaor. P. (el è sa preschentà) |
 | ⟪२७⟫. | ⟪अबीभषम्⟫ | sig[⟪भाष्⟫] 1Ā: 1. Sg. Redupl. Aor. P. Caus. (jau hai laschà dir) |
 | ⟪२८⟫. | ⟪अशुषः⟫ | sig[⟪शुष्⟫] 4P: 2. Sg. a-Aor. P. (ti es stgì) |
 | ⟪२९⟫. | ⟪कपी⟫ | sig[⟪कपि⟫] m.: Nom. Akk. Vok. Du. (dus scimmis) |
@@ -73,7 +73,7 @@ Determinar e tradurre las suandantas formas:
 | ⟪५७⟫. | ⟪मन्मय्यः⟫ | sig[⟪मन्मय⟫]: Nom. Pl. f. (quellas ch’èn da mi) |
 | ⟪५८⟫. | ⟪औजिहः⟫ | sig[⟪ऊह्⟫] 1Ā: 2. Sg. Redupl. Aor. P. Kaus. (ti has laschà spustar) |
 | ⟪५९⟫. | ⟪अशिनट्⟫ | sig[⟪शिष्⟫] 7P: 2. 3. Sg. Impf. P. (ti has / el ha restà) |
-| ⟪६०⟫. | ⟪पाप्यभूवन्⟫ | sig[⟪पापीभू⟫]: 3. Pl. Wurzelaor. P. (els èn daventà mal) |
+| ⟪६०⟫. | ⟪पाप्यभूवन्⟫ | sig[⟪पापीभू⟫]: 3. Pl. Radisaor. P. (els èn daventà mal) |
 | ⟪६१⟫. | ⟪शोत्स्यामः⟫ | sig[⟪शुध्⟫] 4P: 1. Pl. Fut. P. (nus purifitgain) |
 | ⟪६२⟫. | ⟪अदीर्यथाः⟫ | sig[⟪दॄ⟫] 9U: 2. Sg. Impf. Pass. (ti es vegnì spartì) |
 | ⟪६३⟫. | ⟪भस्मसात्संपेदे⟫ | sig[⟪भस्मसात्सम्पद्⟫] 4Ā: 1. 3. Sg. Perf. Ā. (jau / el è daventà tschendra) |

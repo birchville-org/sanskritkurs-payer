@@ -229,7 +229,7 @@ Plural Nom.Akk.Vok. ⟪शेषभुञ्जि⟫
 ⟪परिव्राज्⟫ m. "Wandermönch"
 
 ::: indent
-Maskulinum, Femininum:
+Masculin, Feminin:
 
 :::
 ::: indent
@@ -271,7 +271,7 @@ Exemples:
 ::: indent
 ⟪गुह्⟫ 3 "che tegna celà"
 
-Masculinum, Femininum:
+Masculinum, Feminin:
 
 :::
 ::: indent
@@ -290,7 +290,7 @@ Lok. ⟪घुट्सु⟫
 :::
 ⟪द्रुह्⟫ "che fa mal, che odia" (alternativamain -ḍh/-gh)
 
-Masculinum, Femininum:
+Masculinum, Feminin:
 
 ::: indent
 Singular:

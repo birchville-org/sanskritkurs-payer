@@ -1,228 +1,228 @@
 ---
-title: Lektion 31
+title: 31. lecke
 lesson_id: 31
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 31 <!-- TODO: Fallback translation -->
+# 31. lecke
 
-## 31.1. Die 7. Präsensklasse (⟪रुधादि⟫ = "⟪रुध्⟫ u.s.w.") <!-- TODO: Fallback translation -->
-
-::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
-
-**Vor den auslautenden Konsonanten der tiefstufigen Wurzel wird ein sog. Nasalinfix (-na- bzw. -n-) eingeschoben:** <!-- TODO: Fallback translation -->
-
-*   **im starken Tő: -na-** <!-- TODO: Fallback translation -->
-*   **im schwachen Tő: -n-** <!-- TODO: Fallback translation -->
-
-**Für die Verbindung der Endkonsonanten der Wurzel mit konsonantisch beginnenden Endungen gelten dieselben Regeln wie für die 2. Präsensklasse.** <!-- TODO: Fallback translation -->
-:::
-Beispiele: <!-- TODO: Fallback translation -->
-
-⟪युज्⟫ 7U "verbinden, anschirren" <!-- TODO: Fallback translation -->
+## 31.1. A 7. jelen időosztály (⟪रुधादि⟫ = "⟪रुध्⟫ stb.")
 
 ::: grammar-box
+**Alakítás:**
 
-| | | Parasmaipada | Ātmanepada | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Indikativ** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) | <!-- TODO: Fallback translation -->
-| | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate | <!-- TODO: Fallback translation -->
-| **Kívánó mód (optativus)** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta | <!-- TODO: Fallback translation -->
-| | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran | <!-- TODO: Fallback translation -->
-| **Partizip Jelen idő** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | | <!-- TODO: Fallback translation -->
+**A mély hangzású igealak végződő mássalhangzói előtt egy úgynevezett nazális infixum (-na- vagy -n-) kerül beillesztésre:**
 
+*   **erős igealakban: -na-**
+*   **gyenge igealakban: -n-**
+
+**Az igék végződő mássalhangzóit és a mássalhangzóra kezdődő ragokat összekötő szabályok ugyanazok, mint a 2. jelen idői osztálynál.**
 :::
-⟪रुध्⟫ 7U "stoppen, zum Stillstand bringen" <!-- TODO: Fallback translation -->
+Példák:
+
+⟪युज्⟫ 7U "összeköt, befog"
 
 ::: grammar-box
 
-| | | Parasmaipada | Ātmanepada | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Indikativ** | **3. sg.** | ⟪रुणद्धि⟫:brru + na + dh + ti | ⟪रुन्द्धे⟫:brru-n + dh + te | <!-- TODO: Fallback translation -->
-| | **3. pl.** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate | <!-- TODO: Fallback translation -->
-| **Kívánó mód (optativus)** | **3. sg.** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta | <!-- TODO: Fallback translation -->
-| | **3. pl.** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran | <!-- TODO: Fallback translation -->
-| **Partizip Jelen idő** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | | <!-- TODO: Fallback translation -->
+| | | Parasmaipada | Ātmanepada |
+| :--- | :--- | :--- | :--- |
+| **Kijelentő mód** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(vor gutturális mássalhangzó a szó belsejében az orrhangokat -ṅ- helyettesíti) |
+| | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
+**Kívánó mód (optativus)** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
+| | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
+**Jelen idő résznév** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brnőnemű: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
+
+:::
+⟪रुध्⟫ 7U "megállítani, leállítani"
+
+::: grammar-box
+
+| | | Parasmaipada | Ātmanepada |
+| :--- | :--- | :--- | :--- |
+| **Indikativus** | **3. sg.** | ⟪रुणद्धि⟫:brru + na + dh + ti | ⟪रुन्द्धे⟫:brru-n + dh + te |
+| | **3. pl.** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate |
+| **Kívánó mód (optativus)** | **3. sg.** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta |
+| | **3. pl.** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran |
+| **Particium praesentis** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
 
 :::
 ::: grammar-box
-**Bei einigen Wurzeln ist das -n- des schwachen Präsensstamms auch in ausserpräsentische Tempora eingedrungen, sodass diese Wurzeln mit infigiertem Nasal angesetzt werden.** <!-- TODO: Fallback translation -->
+**Egyes gyököknél a gyenge jelenidő-stem -n-je behatolt az extrapresentiális időkbe, így ezeket a gyököket beépített nasszállal kell megadni.**
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
-⟪भञ्ज्⟫ 7P "brechen" <!-- TODO: Fallback translation -->
+⟪भञ्ज्⟫ 7P "törni"
 
 ::: indent
-*   Indikativ Jelen idő <!-- TODO: Fallback translation -->
-    *   3.sg.P. ⟪भनक्ति⟫ (bha-na + j + ti) <!-- TODO: Fallback translation -->
-    *   3.pl.P. ⟪भञ्जन्ति⟫ (bha + n + j-anti) <!-- TODO: Fallback translation -->
-*   Jövő idő: ⟪भङ्क्ष्यति⟫ (bha + n + j + sya + ti) <!-- TODO: Fallback translation -->
-*   Passiv: ⟪भज्यते⟫ (entweder aus ursprünglicher Tő ⟪भज्⟫ oder aus *bhñj-ya-te) <!-- TODO: Fallback translation -->
-*   PPP: ⟪भग्न⟫ (evtl. aus *bhñj + na) <!-- TODO: Fallback translation -->
+*   Indikativus praesentis
+*   3.sg.P. ⟪भनक्ति⟫ (bha-na + j + ti)
+*   3.pl.P. ⟪भञ्जन्ति⟫ (bha + n + j-anti)
+*   Futurum: ⟪भङ्क्ष्यति⟫ (bha + n + j + sya + ti)
+*   Passivum: ⟪भज्यते⟫ (vagy eredeti tőből ⟪भज्⟫ vagy *bhñj-ya-te-ből)
+*   PPP: ⟪भग्न⟫ (lehet, hogy *bhñj + na-ból)
 :::
-## 31.2. Wortliste <!-- TODO: Fallback translation -->
+## 31.2. Szószedet
 
-⟪युज्⟫ 7U ⟪युनक्ति⟫ : anschirren, anjochen, anspannen, befestigen ; Ā auch: sich anspannen (= sich anstrengen), sich verbinden mit, sich konzentrieren auf (Lokativ, ⟪सप्तमी⟫) <!-- TODO: Fallback translation -->
+⟪युज्⟫ 7U ⟪युनक्ति⟫ : megfogni, beállítani, megfeszíteni, rögzít; Ā továbbá: megfeszül (= erőlködni), kapcsolódik valakihez/valamihez, összpontosít valamire (locativus, ⟪सप्तमी⟫)
 ::: indent
 **Fut. ⟪योक्ष्यति⟫**
 **Pass. ⟪युज्यते⟫**
 **Kaus. ⟪योजयति⟫**
 **PPP ⟪युक्त⟫**
-**Inf. ⟪योक्तुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪योक्तुम्⟫**
 
-davon:
-**⟪युग⟫ n. → ⟪युग⟫ n.:** Joch, Paar, Weltzeitalter (es gibt vier Weltzeitalter: <!-- TODO: Fallback translation -->
-1. ⟪कृत⟫ <!-- TODO: Fallback translation -->
-2. ⟪त्रेता⟫ <!-- TODO: Fallback translation -->
-3. ⟪द्वापर⟫ <!-- TODO: Fallback translation -->
-4. ⟪कलि⟫ <!-- TODO: Fallback translation -->
+ebből:
+**⟪युग⟫ n. → ⟪युग⟫ n.:** igás, pár, világkorszak (négy világtörténeti korszak van:
+1. ⟪कृत⟫
+2. ⟪त्रेता⟫
+3. ⟪द्वापर⟫
+4. ⟪कलि⟫
 
-Das ⟪कलियुग⟫ begann um 3102 v. Chr., dem Jahr des ⟪महाभारत⟫-Krieges. Näheres bei Basham, Wonder S. 323) <!-- TODO: Fallback translation -->
+A ⟪कलियुग⟫ i. e. 3102 körül kezdődött, az ⟪महाभारत⟫-háború évében. Részletek Basham, Wonder S. 327.)
 
-**⟪योग⟫ m.:** "Anschirrung, Anspannung", Anstrengung, Verbindung, Yoga (siehe dazu Basham, Wonder S. 327ff.) <!-- TODO: Fallback translation -->
+**⟪योग⟫ m.:** "megfogatás, megfeszítés", erőlködés, kapcsolat, jóga (lásd Basham, Wonder S. 327ff.)
 :::
 ::: media
 ![](/images/lekt3101.webp)
-Abb.: ⟪योगः⟫
-Yoga-Darstellung.
-(Bildquelle: [Details](/licenses#lekt3101)) <!-- TODO: Fallback translation -->
+Kép: ⟪योगः⟫
+Jóga ábrázolás.
+(Képmegjelölés: [Részletek](/hu/licenses#lekt3101))
 :::
-⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : stoppen, zum Stillstand bringen, zurückhalten = einschliessen, verdecken <!-- TODO: Fallback translation -->
+⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : megállítani, leállítani, visszatartani = bezárni, eltakarni
 ::: indent
 **Fut. ⟪रोत्स्यति⟫**
 **Pass. ⟪रुध्यते⟫**
 **Kaus. ⟪रोधयति⟫**
 **PPP ⟪रुद्ध⟫**
-**Inf. ⟪रोद्धुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪रोद्धुम्⟫**
 :::
-⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : abschneiden <!-- TODO: Fallback translation -->
+⟪छिद्⟫ 7U ⟪छिनत्ति⟫ : levágni
 ::: indent
 **Fut. ⟪छेत्स्यति⟫**
 **Pass. ⟪छिद्यते⟫**
 **Kaus. ⟪छेदयति⟫**
 **PPP ⟪छिन्न⟫**
-**Inf. ⟪छेत्तुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪छेत्तुम्⟫**
 :::
-⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : (etwas) zerbrechen <!-- TODO: Fallback translation -->
+⟪भञ्ज्⟫ 7P ⟪भनक्ति⟫ : (valamit) megtörni
 ::: indent
 **Fut. ⟪भङ्क्ष्यति⟫**
 **Pass. ⟪भज्यते⟫**
-**PPP ⟪भग्न⟫** <!-- TODO: Fallback translation -->
+**PPP ⟪भग्न⟫**
 :::
-⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : salben, beschmieren <!-- TODO: Fallback translation -->
+⟪अञ्ज्⟫ 7P ⟪अनक्ति⟫ : bekenni, megken
 ::: indent
 **Fut. ⟪अङ्क्ष्यति⟫ ⟪।⟫ ⟪अञ्जिष्यति⟫**
 **Pass. ⟪अज्यते⟫**
 **Kaus. ⟪अञ्जयति⟫**
 **PPP ⟪अक्त⟫**
-**Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪अञ्जितुम्⟫ ⟪।⟫ ⟪अङ्क्तुम्⟫**
 :::
-**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : auseinanderschmieren = sich schminken, sich unterschieden machen <!-- TODO: Fallback translation -->
+**⟪अञ्ज्⟫ + vi → ⟪अञ्ज्⟫ + ⟪वि⟫** 7Ā ⟪व्यङ्क्ते⟫ : szétkenni = megfesteni, elkülöníteni
 ::: indent
-**PPP ⟪व्यक्त⟫ :** unterschieden, entfaltet <!-- TODO: Fallback translation -->
+**PPP ⟪व्यक्त⟫ :** elkülönített, kibontott
 
-davon:
-**⟪व्यञ्जन⟫ n.:** Unterscheidungsmittel = Schminke, Gewürz, Kennzeichen, Konsonant (das, wodurch die Bedeutungen unterschieden werden) <!-- TODO: Fallback translation -->
+ebből:
+**⟪व्यञ्जन⟫ n.:** megkülönböztető eszköz = festék, fűszer, jel, mássalhangzó (az, amivel a jelentések megkülönböztetve vannak)
 :::
 ::: media
 ![](/images/lekt3102.webp)
-Abb.: ⟪व्यञ्जनम्⟫
-Vorbereitung zum Kathakali-Tanz, Kochi.
-(Bildquelle: [Details](/licenses#lekt3102)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪व्यञ्जनम्⟫
+Kathakali-tánc előkészítése, Kochi.
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3102))
 :::
-⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : spalten <!-- TODO: Fallback translation -->
+⟪भिद्⟫ 7U ⟪भिनत्ति⟫ : hasít
 ::: indent
 **Fut. ⟪भेत्स्यति⟫**
 **Pass. ⟪भिद्यते⟫**
 **Kaus. ⟪भेदयति⟫**
 **PPP ⟪भिन्न⟫**
-**Inf. ⟪भेत्तुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪भेत्तुम्⟫**
 :::
-⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : geniessen (z.B. Essen ; "die Erde geniessen" = die Erde beherrschen) <!-- TODO: Fallback translation -->
+⟪भुज्⟫ 7U ⟪भुनक्ति⟫ : élvez (pl. ételt; „a földet élvezni” = a földet uralkodni)
 ::: indent
 **Fut. ⟪भोक्ष्यति⟫**
 **Pass. ⟪भुज्यते⟫**
 **Kaus. ⟪भोजयति⟫**
 **PPP bhukt → PPP ⟪भुक्त⟫**
-**Inf. ⟪भोक्तुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪भोक्तुम्⟫**
 
-davon:
-**⟪भोग⟫ m.:** Genuss, Essen, Lust, Nutzen, Steuer, Abgabe <!-- TODO: Fallback translation -->
+ebből:
+**⟪भोग⟫ m.:** élvezet, étkezés, öröm, haszon, adó, illeték
 :::
-⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!): binden, anbinden <!-- TODO: Fallback translation -->
+⟪बन्ध्⟫ 9P ⟪बध्नाति⟫ (!): kötni, rákötni
 ::: indent
 **Fut. ⟪भन्त्स्यति⟫**
 **Pass. ⟪बध्यते⟫**
 **Kaus. ⟪बन्धयति⟫**
 **PPP ⟪बद्ध⟫**
-**Inf. ⟪बद्धुम्⟫** <!-- TODO: Fallback translation -->
+**Inf. ⟪बद्धुम्⟫**
 
-davon:
-**⟪बन्धन⟫ n.:** Binden, Fessel <!-- TODO: Fallback translation -->
+ebből:
+**⟪बन्धन⟫ n.:** kötés, bilincs
 :::
-**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : erkennen, verstehen <!-- TODO: Fallback translation -->
+**⟪ज्ञा⟫ + ⟪प्र⟫** 9U ⟪प्रजानाति⟫ : felismerni, megérteni
 ::: indent
-davon:
-**⟪प्रज्ञा⟫ f.:** Weisheit, Erkenntnis <!-- TODO: Fallback translation -->
+ebből:
+**⟪प्रज्ञा⟫ f.:** bölcsesség, tudás
 :::
 ::: media
 ![](/images/lekt3103.webp)
-Abb.: ⟪प्रज्ञापारमिता⟫
+Ábr.: ⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
-(Bildquelle: [Details](/licenses#lekt3103)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3103))
 :::
-**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : entstehen, existieren <!-- TODO: Fallback translation -->
+**⟪भू⟫ + ⟪सम्⟫** 1P ⟪सम्भवति⟫ : keletkezni, létezni
 
-**⟪शरीर⟫ n.:** Leib, Körper <!-- TODO: Fallback translation -->
+**⟪शरीर⟫ n.:** test, törzs
 
-## 31.3. Übung <!-- TODO: Fallback translation -->
+## 31.3. Gyakorlat
 
-A) Übersetzen Sie folgende Sätze und lösen Sie die Komposita auf: <!-- TODO: Fallback translation -->
+A) Fordítsa le a következő mondatokat, és bontsa fel a szanszkrit összetételeket:
 
-⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪प्रज्ञा⟫ ⟪दुःखसम्भवं⟫ ⟪रुन्ध्यादिति⟫ ⟪बुद्धिमानार्यबुद्धमार्गेण⟫ ⟪गच्छेत्⟫ ⟪॥१॥⟫
 
-⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫ ⟪॥२॥⟫
 
 ::: media
 ![](/images/lekt3105.jpg)
-Abb.: ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
-Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War.
-(Bildquelle: [Details](/licenses#lekt3105)) <!-- TODO: Fallback translation -->
+Kép: ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
+Az 1965-ös indiai-pakisztáni háború során mozgóban lévő 18. Lovasezred tankjai (Indiai Hadsereg).
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3105))
 :::
-⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
 
-⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪पुत्रो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातमिति⟫ ⟪सुगतो⟫ ⟪मत्वा⟫ ⟪कुलबन्धनं⟫ ⟪भिनत्ति⟫ ⟪।⟫ ⟪ततो⟫ ⟪भग्नबन्धो⟫ ⟪मोक्षनयन्तीं⟫ ⟪प्रज्ञामाप्तुमर्हति⟫ ⟪॥४॥⟫
 
 ::: media
 ![](/images/lekt3104.webp)
-Abb.: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
+Kép: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
 Rāhula, der Sohn Buddhas, Laos.
-(Bildquelle: [Details](/licenses#lekt3104)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3104))
 :::
-⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫ <!-- TODO: Fallback translation -->
+⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
-B) Bilden Sie zu folgenden Wurzeln der 7. Klasse alle 3. Personen Singular und Plural, P und Ā, des Indikativ und Optativ Präsens: <!-- TODO: Fallback translation -->
+B) Alakítsa ki a következő 7. osztályú gyökökből az igemód jelen idejének mindkét számában, egyes és többes számban, kijelentő mód és felszólító mód alakjait:
 
-⟪१⟫. ⟪छिद्⟫ <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪छिद्⟫
 
-⟪२⟫. ⟪भिद्⟫ <!-- TODO: Fallback translation -->
+⟪२⟫. ⟪भिद्⟫
 
-⟪३⟫. ⟪भुज्⟫ <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪भुज्⟫
 
-⟪४⟫. ⟪अञ्ज्⟫ (nur P) <!-- TODO: Fallback translation -->
+⟪४⟫. ⟪अञ्ज्⟫ (csak P)
 
-⟪५⟫. ⟪भञ्ज्⟫ (nur P) <!-- TODO: Fallback translation -->
+⟪५⟫. ⟪भञ्ज्⟫ (csak P)
 
 ::: deleteme-box
 
-**lekt3101:** Yoga-Darstellung. [Bildquelle: Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
+**lekt3101:** Jógabemutatás. [Képmegjelenítés: Flickr, 2008-12-25. CC BY]
 
-**lekt3102:** Vorbereitung zum Kathakali-Tanz, Kochi. [Bildquelle: winchrisabi. Flickr, 2008-12-25. CC BY] <!-- TODO: Fallback translation -->
+**lekt3102:** Előkészületek a kathakali táncra, Kochi. [Képmegjelenítés: winchrisabi. Flickr, 2008-12-25. CC BY]
 
-**lekt3103:** Aus einem Prajñāpāramitā-Manuskript. [Bildquelle: zeno.org. Gemeinfrei] <!-- TODO: Fallback translation -->
+**lekt3103:** Egy Prajñāpāramitā kéziratból. [Képmegjelenítés: zeno.org. Közterület]
 
-**lekt3105:** Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War. [Bildquelle: Hari Singh Deora / Wikipedia. Public domain] <!-- TODO: Fallback translation -->
+**lekt3105:** Az 18. Lovasdandár (Indiai Hadsereg) harckocsói mozgásban az 1965-ös indiai-pakisztáni háború során. [Képmegjelenítés: Hari Singh Deora / Wikipedia. Közterület]
 
-**lekt3104:** Rāhula, der Sohn Buddhas, Laos. [Bildquelle: Sacca / Wikipedia. GNU FDL] <!-- TODO: Fallback translation -->
+**lekt3104:** Rāhula, Buddha fia, Laos. [Képmagyarázat: Sacca / Wikipedia. GNU FDL]
 :::

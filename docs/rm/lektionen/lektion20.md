@@ -243,7 +243,7 @@ Chennai = சென்னை
 Anche schei adina in Bahuvrīhi vegn dissolvià tras ina clausula relativa, na po betg mintga clausula relativa vegnir sustituida tras in Bahuvrīhi. Hermann Georg Jacobi (1850 - 1937), che ha examinà pli detagliadamain il rapport tranter ils dus (Compositum und Nebensatz, 1897), scriba:
 
 ::: indent
-«Quand on traduit de l'allemand ou d'une autre langue moderne vers le sanskrit, tous les subordonnés ne peuvent pas être rendus par des composés, mais seulement ceux qui sont ornements et descriptifs; ceux qui contiennent une détermination conceptuellement nécessaire ou importante apparaissent également en sanskrit comme des propositions relatives.»
+«Quand on traduit de l'allemand ou d'une autre langue mnine vers le sanskrit, tous les subordonnés ne peuvent pas être rendus par des composés, mais seulement ceux qui sont ornements et descriptifs; ceux qui contiennent une détermination conceptuellement nécessaire ou importante apparaissent également en sanskrit comme des propositions relatives.»
 :::
 ::: media
 ![](/images/lekt2002.jpg)
@@ -479,7 +479,7 @@ B) Tradusci suttasch da usar da cumponids en Sanscrit:
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪३३॥⟫
 
 ::: indent
-Erklärung: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + Suffix -tas, das ablativische Bedeutung hat. Übersetzen Sie: "aufgrund von ..." oder ähnlich.
+Explicaziun: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + Suffix -tas, das ablativische Significaziun hat. Übersetzen Sie: "aufgrund von ..." ni ähnlich.
 :::
 ⟪तपःस्वाध्यायेश्वरप्रणिधानानि⟫ ⟪क्रियायोगः⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪१॥⟫  
 ⟪समाधिभावनार्थः⟫ ⟪क्लेशतनूकरणार्थश्च⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪२॥⟫
@@ -511,7 +511,7 @@ Discurs dals materialists suenter il ⟪सर्वदर्शनसंग्�
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
 ⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
 
-Erklärung: ⟪अत्मा⟫ = Nom.sg. mask. zu ⟪आत्मन्⟫ m. "Selbst, Seele ; das Absolute, insofern es in einem Individuum realisiert wird"
+Explicaziun: ⟪अत्मा⟫ = Nom.sg. mask. zu ⟪आत्मन्⟫ m. "Selbst, Seele ; das Absolute, insofern es in einem Individuum realisiert wird"
 :::
 Ein ⟪सुभाषितम्⟫ :
 

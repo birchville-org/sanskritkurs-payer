@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 46
 
-## 46.1. Furmaiziun dals furmaverbs da la 2. persuna (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
+## 46.1. Furmaziun dals furmaverbs da la 2. persuna (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
 
 ### 46.1.1. Desinenzas
 
@@ -27,7 +27,7 @@ Avant -tha, la mai part dals radis -ṛ n'han nagina vocala da cunvegna \-i-. Pe
 ### 46.1.2. Midada da la finischa -dhve
 
 ::: grammar-box
-Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
+Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u ni -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal ni h unmittelbar vorangeht.
 :::
 ### 46.1.3. Perfekt Tip I: nagina la declinaziun dal stem
 
@@ -151,7 +151,7 @@ Verben, die diesem Typ folgen:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
-### 46.1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 46.1.6. Perfekt Typ IV: Radisn auf -ā / -ai
 
 *   Debol radis:
     *   avant consonant: nivel fonc – i
@@ -163,7 +163,7 @@ Verben, die diesem Typ folgen:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪ददाथ⟫:br⟪ददिथ⟫:brda-di-tha:broder::brda-d-i-tha | ⟪दद⟫ | ⟪ददिषे⟫ | ⟪ददिध्वे⟫ |
+| ⟪ददाथ⟫:br⟪ददिथ⟫:brda-di-tha:brni::brda-d-i-tha | ⟪दद⟫ | ⟪ददिषे⟫ | ⟪ददिध्वे⟫ |
 :::
 ⟪⟪गै⟫⟫ 1P
 
@@ -250,7 +250,7 @@ Verben, die diesem Typ folgen:
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
+| ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:brda: su + *svp + a |
 :::
 #### 46.1.7.2. Tip da perfetg Vb: Consonant-a-Consonant, consonanta iniciala betg gutturāla, aspirāda, h, stem faivel senza reduplicaziun, cun -e-
 

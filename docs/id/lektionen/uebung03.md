@@ -1,14 +1,16 @@
 ---
-title: "Exercise 3"
+title: "Latihan 3"
 uebung_id: 3
-category: "Exercise"
+category: "Übung"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 3
 
-A) Convert the following sentences into the plural:
+
+# Latihan 3
+
+A) Ubah kalimat-kalimat berikut ke dalam bentuk jamak:
 
 1\. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
 
@@ -69,7 +71,7 @@ paśavo dhenavaḥ.
 gurvyaḥ sādhvyaḥ.
 ⟪गुर्व्यः⟫ ⟪साध्व्यः⟫
 
-B) Form nominal sentences by inserting:
+B) Bentuklah kalimat nominal dengan mengisi bagian yang kosong:
 
 1\. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
 
@@ -101,7 +103,7 @@ devatā mīnākṣī. devatānnapūrṇā.
 
 ⟪शूद्रेतरा⟫
 
-C) Translate into the feminine:
+C) Terjemahkan ke dalam bentuk feminin:
 
 1\. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
 
@@ -121,45 +123,45 @@ kṣatriyā sādhvī.
 
 ⟪क्षत्रिया⟫ ⟪साध्वी⟫
 
-D) Translate into Sanskrit:
+D) Terjemahkan ke dalam bahasa Sanskerta:
 
-1\. Umā is a goddess.
+1\. Umā adalah seorang dewi.
 
 devy umā.
 
 ⟪देव्युमा⟫
 
-2\. The Veda is śruti.
+2\. Weda adalah śruti.
 
 śrutir vedaḥ.
 
 ⟪श्रुतिर्वेदः⟫
 
-3\. The teachers are goddesses.
+3\. Para guru perempuan adalah para dewi.
 
 devyo gurvyaḥ.
 
 ⟪देव्यो⟫ ⟪गुर्व्यः⟫
 
-4\. Milk cows are domesticated animals.
+4\. Sapi perah adalah hewan ternak.
 
 paśavo dhenavaḥ.
 
 ⟪पशवो⟫ ⟪धेनवः⟫
 
-5\. Poets are teachers.
+5\. Penyair adalah guru.
 
 guravaḥ kavayaḥ.
 
 ⟪गुरवः⟫ ⟪कवयः⟫
 
-6\. Kṣatriyas are twice-born.
+6\. Kṣatriyas adalah Dwijā (terlahir dua kali).
 
 dvijāḥ kṣatriyāḥ.
 
 ⟪द्वि्जाः⟫ ⟪क्षत्रियाः⟫
 
-7\. The holy men are Śūdras.
+7\. Para pria suci adalah Śūdras.
 
 śūdrāḥ sādhavaḥ.
 
@@ -167,6 +169,6 @@ dvijāḥ kṣatriyāḥ.
 
 ::: media
 ![](/images/uebung001.webp)
-Fig.: ⟪पशुर्धेनुः⟫
-(Image source: [Details](/en/licenses#uebung001))
+Gambar: ⟪पशुर्धेनुः⟫
+(Sumber gambar: [Detail](/licenses#uebung001))
 :::

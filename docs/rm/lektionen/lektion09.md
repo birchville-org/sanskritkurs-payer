@@ -56,7 +56,7 @@ In vocal final da la radiz sco era **-a-** en la penultima posiziun da la radiz 
 :::
 **Exempels:**
 
-| Wurzel:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Bedeutung |
+| Radis:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Significaziun |
 | :--- | :--- | :--- |
 | **kṛ** :br8 U:br⟪कृ⟫:br"machen" | **kāraka** :br(⟪कारक⟫) | "Bewirker, machend" |
 | **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Hörer, Schüler,:brbuddh.: Anhänger des Buddha" |
@@ -72,7 +72,7 @@ vair sur, per exempels **śrāvaka**, **yājaka**, **jayaka**
 
 **Esempis:**
 
-| Wurzel:br⟪धातु⟫ | + -aka (kṛt) | Bedeutung |
+| Radis:br⟪धातु⟫ | + -aka (kṛt) | Significaziun |
 | :--- | :--- | :--- |
 | **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Ackerbauer":br(tiefstufig!) |
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" |
@@ -116,7 +116,7 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 
 ## 9.4. Exercizi
 
-**A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:**
+**A) Versuchen Sie, die möglichen Significaziunen folgender Wörter zu bestimmen:**
 1\. **brāhmāṇaka** ⟪ब्राह्मणक⟫
 2\. **mati** ⟪मति⟫
 3\. **śravaṇa** ⟪श्रवण⟫

@@ -17,7 +17,7 @@ Il curs davart la Bhagavadgītā vegn per adina betg anc metgì a disposiziun en
 
 Las lecziuns dal curs da Sanscrit tractan tems da la gramatica dal Sanscrit, che fin uschia n'èn anc betg tractads.
 
-## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme
+## 54.2. Furmaziun da pleds: ⟪कृत्⟫-Suffix -u an Desiderativstämme
 
 ::: grammar-box
 **Als Desiderativstämme (⟪इच्छाप्रकृति⟫) ("vulair da far quaicosa" ; "sesser prest a far quaicosa") apparischa per la furmaziun da nomina agentis il sufix -u.**
@@ -116,7 +116,7 @@ Exempl d'ina recitaziun: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](h
 ## 54.5. Tips da furmaziun da l'aorist (⟪लुङ्⟫)
 
 ::: grammar-box
-**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (⟪लङ्⟫) vorgesetzt wird.**
+**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfect (⟪लङ्⟫) vorgesetzt wird.**
 
 Dal aorist è en sanscrit mo indiciu e precativ usitads.
 :::
@@ -124,14 +124,14 @@ Dal aorist è en sanscrit mo indiciu e precativ usitads.
 **Datti ils suandants tipps da furmaziun da l’aorist (⟪लुङ्⟫):**
 
 1.  Non-sibilantische (asigmatische) Aoriste:
-    *   54.1. Wurzelaorist: Augment + Wurzel + Sekundärendung
-    *   54.2. Themavokalischer Aorist: Augment + Wurzel + **a** + Sekundärendung
-    *   54.3. Reduplizierter Aorist: Augment + **reduplizierte** Wurzel + **a** + Sekundärendung
-2.  Sibilantische (sigmatische Aoriste: s oder eine Silbe, die s (ṣ) enthält tritt vor die Personalendung
-    *   54.4. -s-Aorist: Augment + Wurzel + **s** \+ Sekundärendung
-    *   54.5. -iṣ-Aorist: Augment + Wurzel + **i** + **ṣ** + Sekundärendung
-    *   54.6. -siṣ-Aorist: Augment + Wurzel + **siṣ** + Sekundärendung
-    *   54.7. -sa-Aorist: Augment + Wurzel + **s** + **a** + Sekundärendung
+    *   54.1. Radisaorist: Augment + Radis + Sekundärendung
+    *   54.2. Themavokalischer Aorist: Augment + Radis + **a** + Sekundärendung
+    *   54.3. Reduplizierter Aorist: Augment + **reduplizierte** Radis + **a** + Sekundärendung
+2.  Sibilantische (sigmatische Aoriste: s ni eine Silbe, die s (ṣ) enthält tritt vor die Personalendung
+    *   54.4. -s-Aorist: Augment + Radis + **s** \+ Sekundärendung
+    *   54.5. -iṣ-Aorist: Augment + Radis + **i** + **ṣ** + Sekundärendung
+    *   54.6. -siṣ-Aorist: Augment + Radis + **siṣ** + Sekundärendung
+    *   54.7. -sa-Aorist: Augment + Radis + **s** + **a** + Sekundärendung
 
 La distribuziun dals radichals sin ils singuls tipus da furmaziun vesair tar ils singuls tipus
 :::
@@ -186,7 +186,7 @@ Ina furma speziala dal aorist da la radis è l’aorist dal passiv 3.sg. Questu 
 ::: grammar-box
 **Educaziun:**
 
-**Augment + Wurzel + i**
+**Augment + Radis + i**
 
 **La radg ha la suandanta furma:**
 
@@ -215,7 +215,7 @@ ma:
 Esempel:  
 ⟪गम्⟫ ⟪अगामि⟫
 
-Aggiunta di y prima della desinenza:
+Aggiunta di y prima da la desinenza:
 
 *   Radis che finischan cun -ā, -e, -ai, -o insérnan in y tranter il -ā dal radis e la desinenza:  
 Esempel:  

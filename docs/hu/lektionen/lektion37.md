@@ -1,524 +1,524 @@
 ---
-title: Lektion 37
-subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
+title: 37. lecke
+subtitle: "A határozószó (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
---- <!-- TODO: Fallback translation -->
+category: "Nyelvtan"
+status: stabil
+---
 
-# Lektion 37 <!-- TODO: Fallback translation -->
+# 37. lecke
 
-## 37.1. Das Adverb (⟪क्रियाविशेषणम्⟫) <!-- TODO: Fallback translation -->
+## 37.1. Az határozószó (⟪क्रियाविशेषणम्⟫)
 
-Adverbien werden im Sanskrit gebildet <!-- TODO: Fallback translation -->
+A szanszkritban az határozószók képzése
 
-1.  durch Kasusformen von Nomina und Pronomina <!-- TODO: Fallback translation -->
-2.  mit Hilfe besonderer Suffixe und Végződésen <!-- TODO: Fallback translation -->
+1.  a főnevek és névmások ragozott alakjaival
+2.  különleges képzők és végződések segítségével
 
-Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fliessend. Hierzu gehören als Sonderfall die Adverbien, die erstarrte, alte Kasusformen sind, während in der Deklination andere Formen gebraucht werden bzw. die entsprechenden Nomina nicht mehr als Nomina gebraucht werden. <!-- TODO: Fallback translation -->
+Az első esetben élénk a határ az élő ragozás és az adverbium között. Ide tartoznak azok az adverbiumok, amelyek megkövesedett, régi ragozott alakok, míg a ragozásban más formákat használnak, vagy a megfelelő főneveket már nem használják főnévként.
 
-## 37.2. Adverbialer Gebrauch von Kasusformen <!-- TODO: Fallback translation -->
+## 37.2. A ragozott alakok adverbiumi használata
 
-### 37.2.1. Akkusativ (⟪द्वितीया⟫) <!-- TODO: Fallback translation -->
+### 37.2.1. Többes szám (⟪द्वितीया⟫)
 
 ::: grammar-box
-Der Akkusativ (⟪द्वितीया⟫) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
+Az akkuzatívus (⟪द्वितीया⟫) határozószói értelműen használható a következő kérdésekre:
 
-*   in welcher Weise? <!-- TODO: Fallback translation -->
-*   wie lange? <!-- TODO: Fallback translation -->
-*   wohin? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   milyen módon?
+*   meddig?
+*   hová?
+*   stb.
 
-Adverbial gebraucht werden kann der Akkusativ: <!-- TODO: Fallback translation -->
+Az akkuzatívus határozószói értelműen használható:
 
-*   von Substantiven   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪कामम्⟫ "wunschgemäss, nach Wunsch"  
-    ⟪अर्थम्⟫ "wegen"   <!-- TODO: Fallback translation -->
+*   főnevekből
+Példák:  
+⟪कामम्⟫ "kívánság szerint, a kívánságnak megfelelően"  
+⟪अर्थम्⟫ "miatt"
 
-*   von Adjektiven im semlegesnem   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪सुखम्⟫ "leicht, glücklich"  
-    ⟪नित्यम्⟫ "stets"  
-    ⟪साधु⟫ "richtig, gut"   <!-- TODO: Fallback translation -->
+melléknevekből a középnemben
+Példák:  
+⟪सुखम्⟫ "könnyű, boldog"  
+⟪नित्यम्⟫ "mindig"  
+⟪साधु⟫ "helyes, jó"
 
-*   von Pronomina im semlegesnem   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪तद्⟫ "dann, darum"  
-    ⟪यद्⟫ "wenn, dass"  
-    ⟪एतद्⟫ "so, hier, jetzt" <!-- TODO: Fallback translation -->
+névmásokból a középnemben
+Példák:  
+⟪तद्⟫ "akkor, ezért"  
+⟪यद्⟫ "ha, hogy"  
+⟪एतद्⟫ "így, itt, most"
 :::
-### 37.2.2. Instrumentalis (⟪तृतीया⟫) <!-- TODO: Fallback translation -->
+### 37.2.2. Eszközhatározó (⟪तृतीया⟫)
 
 ::: grammar-box
-Der Instrumentalis (⟪तृतीया⟫) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
+Az eszközhatározó (⟪तृतीया⟫) adverbialisan használható a következő kérdésekre:
 
-*   wodurch? <!-- TODO: Fallback translation -->
-*   womit? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+mi által?
+mivel?
+stb.
 
-Adverbial gebraucht werden kann der Instrumentalis: <!-- TODO: Fallback translation -->
+Az instrumentalis használható határozószói értelműen:
 
-*   von Substantiven   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪अर्थेन⟫ "wegen"  
-    ⟪क्षणेन⟫ "im Augenblick, sofort" (von ⟪क्षण⟫ m. "Augenblick")   <!-- TODO: Fallback translation -->
+*   főnevekből
+Példák:  
+⟪अर्थेन⟫ "miatt"
+⟪क्षणेन⟫ "pillanatban, azonnal" (a ⟪क्षण⟫ m. "pillanat" szóból)
 
-*   von Adjektiven, oft auch in der többes számform   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪दूरेण⟫ "fern, aus der Ferne" (zu ⟪दूर⟫ 3 "fern, weit von")  
-    ⟪उच्चैस्⟫ "hoch, laut" (zu ⟪उच्च⟫ 3 "hoch, erhöht, laut, schrill (von Stimme)") <!-- TODO: Fallback translation -->
+*   melléknevekből, gyakran többes számban is
+Példák:  
+⟪दूरेण⟫ "távol, messziről" (a ⟪दूर⟫ 3 "távol, messze" melléknévhez)
+⟪उच्चैस्⟫ "magas, hangos" (a ⟪उच्च⟫ 3 "magas, emelt, hangos, csengő (hangról)" melléknévhez)
 :::
-### 37.2.3. Dativ (⟪चतुर्थी⟫) <!-- TODO: Fallback translation -->
+### 37.2.3. Dativus (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Selten wird der Dativ (⟪चतुर्थी⟫) adverbial gebraucht auf die Fragen: <!-- TODO: Fallback translation -->
+Ritkán használják határozószói értelműen a dativust (⟪चतुर्थी⟫) a következő kérdésekre:
 
-*   zu welchem Zweck? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   milyen célból?
+*   stb.
 
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 :::
 ::: indent
-⟪अर्थाय⟫ "zum Zweck von, um ... willen" <!-- TODO: Fallback translation -->
+⟪अर्थाय⟫ "céljából, ... végett"
 :::
-### 37.2.4. Ablativ (⟪पञ्चमी⟫) <!-- TODO: Fallback translation -->
+### 37.2.4. Ablativus (⟪पञ्चमी⟫)
 
 ::: grammar-box
-Der Ablativ (⟪पञ्चमी⟫) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
+Az ablativus (⟪पञ्चमी⟫) határozószói értelmű lehet a következő kérdésekre:
 
-*   warum? <!-- TODO: Fallback translation -->
-*   aufgrund wessen? <!-- TODO: Fallback translation -->
-*   woher? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+*   miért?
+*   mi miatt?
+*   honnan?
+*   stb.
 
-Adverbial gebraucht werden kann der Ablativ: <!-- TODO: Fallback translation -->
+Az ablativeus használható határozószói jelleggel:
 
-*   von Substantiven   <!-- TODO: Fallback translation -->
-    z.B. ⟪बलात्⟫ "gewaltsam, mit Gewalt"   <!-- TODO: Fallback translation -->
+*   főnevekből
+pl. ⟪बलात्⟫ "erőszakkal, erővel"
 
-*   von Adjektiven   <!-- TODO: Fallback translation -->
-    z.B. ⟪दूरात्⟫ "von fern"   <!-- TODO: Fallback translation -->
+*   melléknevekből
+pl. ⟪दूरात्⟫ "távolról"
 
-*   von Pronomina   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪कस्मात्⟫ "warum"  
-    ⟪अकस्मात्⟫ "unerwartet" <!-- TODO: Fallback translation -->
+*   névmásokból
+Példák:  
+⟪कस्मात्⟫ "miért"  
+⟪अकस्मात्⟫ "váratlanul"
 :::
-### 37.2.5. Genetiv (⟪षष्ठी⟫) <!-- TODO: Fallback translation -->
+### 37.2.5. Genetivus (⟪षष्ठी⟫)
 
 ::: grammar-box
-Selten wird der Genetiv (⟪षष्ठी⟫) adverbial gebraucht auf die Frage "nach wie langer Zeit?" <!-- TODO: Fallback translation -->
+Ritkán használják az birtokos esetet (⟪षष्ठी⟫) határozószói értelműen a „hány idő után?” kérdésre.
 
-z.B. ⟪चिरस्य⟫ "nach langer Zeit" (zu ⟪चिर⟫ 3 "lang (Zeit)") <!-- TODO: Fallback translation -->
+pl. ⟪चिरस्य⟫ „hosszú idő után” (lásd ⟪चिर⟫ 3 „hosszú (idő)”)
 :::
-### 37.2.6. Lokativ (⟪सप्तमी⟫) <!-- TODO: Fallback translation -->
+### 37.2.6. Lokatívusz (⟪सप्तमी⟫)
 
 ::: grammar-box
-Der Lokativ (⟪सप्तमी⟫) kann adverbial gebraucht werden auf die Fragen: <!-- TODO: Fallback translation -->
+A lokatívusz (⟪सप्तमी⟫) határozószói értelműen használható a következő kérdésekre:
 
-*   wo? <!-- TODO: Fallback translation -->
-*   unter welchen Umständen? <!-- TODO: Fallback translation -->
-*   u. ä. <!-- TODO: Fallback translation -->
+* hol?
+* milyen körülmények között?
+* stb.
 
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 :::
 ::: indent
-\-⟪अर्थे⟫ "wegen"  
-\-⟪कृते⟫ "um willen"  
-⟪दूरे⟫ "fern" <!-- TODO: Fallback translation -->
+\-⟪अर्थे⟫ "miatt"  
+\-⟪कृते⟫ "kedvéért"  
+⟪दूरे⟫ "távol"
 :::
-## 37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusformen <!-- TODO: Fallback translation -->
+## 37.3. Az már nem használt esetek adverbialis használata
 
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 ::: indent
-⟪जातु⟫ "überhaupt" (ursprünglich "von Geburt, von Natur", Akk.sg.n. zu ⟪जातु⟫ \<nicht mehr als Nomen gebräuchlich\>) <!-- TODO: Fallback translation -->
+⟪जातु⟫ "egészében" (eredetileg "születés szerint, természeténél fogva", akk. sg. n. ⟪जातु⟫ \&lt;nem többé névként használatos\&gt;)
 
-⟪तूष्णीम्⟫ "schweigend" (Akk.sg. zu einem nicht mehr gebräuchlichen ⟪तूष्णी⟫ f. "Schweigen") <!-- TODO: Fallback translation -->
+⟪तूष्णीम्⟫ "csendben" (akk. sg. egy már nem használt ⟪तूष्णी⟫ n. "csend" szóhoz)
 
-⟪एवम्⟫ "so" (zu einem sonst verloren gegangenen Pronominalstamm ⟪एव⟫ "ein, einzig") <!-- TODO: Fallback translation -->
+⟪एवम्⟫ "így" (egyébként elveszett névmási tőhöz ⟪एव⟫ "egy, egyetlen")
 :::
-## 37.4. Bildung von Adverbien mit Adverbialsuffixen <!-- TODO: Fallback translation -->
+## 37.4. Adverbiumok képzése adverbialis utótagokkal
 
 ::: grammar-box
-Von den Pronominalstämmen ⟪तद्⟫, ⟪इदम्⟫ bzw. ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ bzw. ⟪कु⟫ kann man mit den Adverbialsuffixen <!-- TODO: Fallback translation -->
+A ⟪तद्⟫, ⟪इदम्⟫ illetve ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ illetve ⟪कु⟫ névmástövekből a határozói képzőkkel
 
-*   \-⟪तस्⟫ (ablativus) <!-- TODO: Fallback translation -->
-*   \-⟪त्र⟫ (lokativus) <!-- TODO: Fallback translation -->
-*   \-⟪था⟫ (Art und Weise) <!-- TODO: Fallback translation -->
-*   \-⟪थम्⟫ (Art und Weise) <!-- TODO: Fallback translation -->
-*   \-⟪दा⟫ (Zeit) <!-- TODO: Fallback translation -->
+*   \-⟪तस्⟫ (ablativus)
+*   \-⟪त्र⟫ (lokativus)
+*   \-⟪था⟫ (mód)
+*   \-⟪थम्⟫ (mód)
+*   \-⟪दा⟫ (idő)
 
-entsprechende Pronominaladverbien ableiten. <!-- TODO: Fallback translation -->
+megfelelő névmás határozószavakat lehet levezetni.
 :::
 ::: grammar-box
 
-| Suffix | Pronominalstamm | | | | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** | <!-- TODO: Fallback translation -->
-| **-⟪तस्⟫** :br(ablativus) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? | <!-- TODO: Fallback translation -->
-| **-⟪त्र⟫** :br(lokativus) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? | <!-- TODO: Fallback translation -->
-| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | | <!-- TODO: Fallback translation -->
-| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? | <!-- TODO: Fallback translation -->
-| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? | <!-- TODO: Fallback translation -->
+| Képző | Névmástömb | | | |
+| :--- | :--- | :--- | :--- | :--- |
+| | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
+| **-⟪तस्⟫** :br(ablativus) | ⟪ततस्⟫ :br onnan, arra, ezért | ⟪इतस्⟫ :br ⟪अतस्⟫ :br innen, ezért | ⟪यतस्⟫ :br honnan, miből | ⟪कुतस्⟫ :br honnan?, miért? |
+| **-⟪त्र⟫** :br(lokativus) | ⟪तत्र⟫ :br ott, arra | ⟪अत्र⟫ :br itt | ⟪यत्र⟫ :br hol | ⟪कुत्र⟫ :br hol? |
+| **-⟪था⟫** :br(mód) | ⟪तथा⟫ :br úgy | | ⟪यथा⟫ :br ahogy | |
+| **-⟪थम्⟫** :br(mód) | | | | ⟪कथम्⟫ :br hogyan? |
+| **-⟪दा⟫** :br(idő) | ⟪तदा⟫ :br akkor, ekkor | | ⟪यदा⟫ :br amikor | ⟪कदा⟫ :br mikor? |
 
 :::
 ::: grammar-box
-Ein weiteres Frageadverb ist: ⟪क्व⟫ "wo?" <!-- TODO: Fallback translation -->
+Egy másik kérdőhatározó szó: ⟪क्व⟫ "hol?"
 :::
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
-Abb.: ⟪क्व⟫
-(Bildquelle: [Details](/licenses#lekt3701)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪क्व⟫
+(Képmegjelenítés: [Details](/hu/licenses#lekt3701))
 :::
 
 ::: grammar-box
 
-**Weitere Adverbialsuffixe** <!-- TODO: Fallback translation -->
+**További adverbialis képzők**
 
-| Suffix | | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" | <!-- TODO: Fallback translation -->
-| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" | <!-- TODO: Fallback translation -->
-| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") | <!-- TODO: Fallback translation -->
+| Képző | |
+| :--- | :--- |
+| **-⟪वत्⟫** | bármely főnévhez ragasztható, hogy kifejezze: „szerűen, olyasféleképpen”:brpl. ⟪पुत्रवत्⟫ „fiúszerűen” |
+| **-⟪तस्⟫** | főnevekhez és névmásokhoz. Általában ablative jelentésű: „honnan?”, de előfordulhat „hol?”, „hová?” jelentéssel is:brpl. ⟪आदितस्⟫ „elejétől fogva” |
+| **-⟪धा⟫** | 1. Számhatározószavaknál a „-szeres, -fajta” jelentésben:brpl. ⟪द्विधा⟫ „kétszeres”;br2. a „valamilyen módon” jelentésben:brpl. ⟪समधा⟫ „ugyanolyan módon” (a ⟪सम⟫ 3 „egyenlő” szóhoz) |
 
 :::
-## 37.5. Adverbiale Komposita <!-- TODO: Fallback translation -->
+## 37.5. Adverbialis összetételek
 
-### 37.5.1. Komposita mit einem Adverb oder adverbial gebrauchtem Kasus als Hinterglied <!-- TODO: Fallback translation -->
+### 37.5.1. Adverbiumot vagy adverbialisan használt esetet tartalmazó összetételek, ahol az utolsó tag a meghatározott elem
 
-Beispiel: ⟪सुचिरम्⟫ "sehr lange (Zeit)" <!-- TODO: Fallback translation -->
+Példa: ⟪सुचिरम्⟫ "nagyon hosszú (idő)"
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫ <!-- TODO: Fallback translation -->
+### 37.5.2. Határozszói értelmű ⟪बहुव्रीहि⟫
 
-Beispiel: ⟪रक्षार्थम्⟫ "in der Art von jemandem, dessen Zweck Behüten ist, zum Zweck des Behütens". Kann auch als zu 5.1. gehörig betrachtet werden: -⟪अर्थम्⟫ als adverbiales Hinterglied. <!-- TODO: Fallback translation -->
+Példa: ⟪रक्षार्थम्⟫ "olyan valaki módjára, akinek célja a védelem, a védelem céljából". Tekinthető úgy is, mint ami az 5.1-hez tartozik: -⟪अर्थम्⟫ határozszói hátsó tagként.
 
-### 37.5.3. ⟪अव्ययीभाव⟫-Komposita <!-- TODO: Fallback translation -->
+### 37.5.3. ⟪अव्ययीभाव⟫-összetételek
 
-⟪अव्ययीभाव⟫ = "unveränderlich/undeklinierbar gewordene" <!-- TODO: Fallback translation -->
+⟪अव्ययीभाव⟫ = "változhatatlanná/le nem ragozottá vált"
 
 ::: grammar-box
-Ein ⟪अव्ययीभाव⟫ ist ein adverbiales Kompositum, dessen Vorderglied ein Indeklinabile (Postposition, Partikel u. ä.) ist, und dessen Hinterglied ein Nomen ist, das die Endung des Akkusativ Singulars Neutrum annnimmt. <!-- TODO: Fallback translation -->
+Egy ⟪अव्ययीभाव⟫ egy határozói összetétel, amelynek első tagja egy nem ragozható szó (utószó, részecske stb.), második tagja pedig egy főnév, amely a középnemű egyes számú akkuzatívus végződést veszi fel.
 
-Bei der Auflösung des Kompositums würde das Vorderglied das Hinterglied regieren: <!-- TODO: Fallback translation -->
+Az összetétel feloldásakor az első tag uralná a második tagot:
 
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 :::
 ::: indent
-⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "gegen das Feuer" <!-- TODO: Fallback translation -->
+⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "a tűz ellen"
 
-⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "nach Kräften" <!-- TODO: Fallback translation -->
+⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "a lehetőségek szerint"
 
-⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "nach vorn, entgegen" <!-- TODO: Fallback translation -->
+⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "előre, szemben"
 :::
-Besonders wichtig sind ⟪अव्ययीभाव⟫ mit ⟪यथा⟫ "wie" als Vorderglied: <!-- TODO: Fallback translation -->
+Különösen fontosak a ⟪अव्ययीभाव⟫ szerkezetek, ahol a ⟪यथा⟫ "mint" mint első tag szerepel:
 
-z.B. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "wie es der Wunsch ist, nach Wunsch, beliebig" <!-- TODO: Fallback translation -->
+pl. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "ahogyan a kívánság, kívánat szerint, tetszés szerint"
 ::: media
 ![lekt3702.jpg](/images/lekt3702.webp)
-Abb.: ⟪यथाशक्ति⟫
-(Bildquelle: [Details](/licenses#lekt3702)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪यथाशक्ति⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3702))
 :::
-## 37.6. Syntaktisches <!-- TODO: Fallback translation -->
+## 37.6. Szintaktikai
 
 ::: grammar-box
-Bei den Verben <!-- TODO: Fallback translation -->
+Az igéknél
 
-*   ⟪अस्⟫ 2P "sein" <!-- TODO: Fallback translation -->
-*   ⟪भू⟫ 1P <!-- TODO: Fallback translation -->
-*   ⟪कृ⟫ 8U <!-- TODO: Fallback translation -->
+*   ⟪अस्⟫ 2P "lenni"
+*   ⟪भू⟫ 1P
+*   ⟪कृ⟫ 8U
 
-kann statt eines prädikativen Adjektivs ein prädikatives Adverb stehen: <!-- TODO: Fallback translation -->
+egy predikatív melléknév helyett állhat predikatív határozó:
 
-z.B. ⟪तूष्णीं⟫ ⟪बभूव⟫ "er wurde schweigend, er verstummte" <!-- TODO: Fallback translation -->
+pl. ⟪तूष्णीं⟫ ⟪बभूव⟩ "csendessé vált, elhallgatott"
 :::
 ::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
-Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
-(Bildquelle: [Details](/licenses#lekt3703)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3703))
 :::
-## 37.7. Indefinitpronomina <!-- TODO: Fallback translation -->
+## 37.7. Határozatlan névmások
 
 ::: grammar-box
-Indefinitpronomina (unbestimmte Fürwörter) werden durch Anfügen von <!-- TODO: Fallback translation -->
+A határozatlan névmásokat (határozatlan melléknevek) a következők
 
-*   \-⟪चिद्⟫ <!-- TODO: Fallback translation -->
-*   \-⟪चन⟫ <!-- TODO: Fallback translation -->
-*   ⟪अपि⟫ <!-- TODO: Fallback translation -->
+*   \-⟪चिद्⟫
+*   \-⟪चन⟫
+*   ⟪अपि⟫
 
-an die Kasus des Fragepronomens ⟪किम्⟫ gebildet. <!-- TODO: Fallback translation -->
+a kérdéses névmás eseteiből képezve ⟪किम्⟫.
 
-z.B. <!-- TODO: Fallback translation -->
+pl.
 :::
 ::: indent
-⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "irgendeiner, irgendjemand"  
-⟪कस्यचिद्⟫ = irgendjemandes <!-- TODO: Fallback translation -->
+⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "valaki, bárki"  
+⟪कस्यचिद्⟫ = valakinek
 :::
-## 37.8. Der Fragesatz <!-- TODO: Fallback translation -->
+## 37.8. A kérdőmondat
 
 ::: grammar-box
-"Wer?, wie?, was?, wieso? weshalb?, warum?  
-Wer nicht fragt bleibt dumm." <!-- TODO: Fallback translation -->
+"Ki?, hogyan?, mi?, miért? honnan? miért?  
+Ki nem kérdez, az ostoba marad."
 
 ⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
 ⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
 ⟪यो⟫ ⟪न⟫ ⟪पृच्छेन्⟫  
-⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
 
-Motto der Sesamstrasse, das eine gute Leitlinie fürs Leben und das Sanskritstudium ist <!-- TODO: Fallback translation -->
+A Szomszédok mottója, amely jó irányelv az élethez és a szanszkrit tanulmányozáshoz
 :::
-Siehe auch [Lektion 4](lektion04.md). <!-- TODO: Fallback translation -->
+Lásd még [4. lecke](lektion04.md).
 
-Man muss unterscheiden <!-- TODO: Fallback translation -->
+[L9> Meg kell különböztetni
 
-*   Wortfragen (Ergänzungsfragen) <!-- TODO: Fallback translation -->
-*   Satzfragen <!-- TODO: Fallback translation -->
+*   Szókérdések (kiegészítő kérdések)
+*   Mondatkérdések
 
-Bei Wortfragen wird nach einem Agens (⟪कर्तृ⟫), einem Objekt, einer Tätigkeit, einem Umstand u. ä. gefragt, z.B. <!-- TODO: Fallback translation -->
+Szókérdéseknél egy agensre (⟪कर्तृ⟫), egy objektumra, egy tevékenységre, egy körülményre stb. kérdezünk rá, pl.
 
-*   wer kommt? <!-- TODO: Fallback translation -->
-*   was tut Rāma? <!-- TODO: Fallback translation -->
-*   wen hört er? <!-- TODO: Fallback translation -->
-*   wie spricht sie Sanskrit? <!-- TODO: Fallback translation -->
-*   wo ist die Mutter? <!-- TODO: Fallback translation -->
+*   ki jön?
+*   mit csinál Rāma?
+*   kit hallgat meg ő?
+*   hogyan beszél Sanskritul?
+*   hol van az anya?
 
-Bei Satzfragen wird der ganze Inhalt des Satzes erfragt, z.B. <!-- TODO: Fallback translation -->
+Mondatkérdéseknél a mondat teljes tartalmát kérdezzük rá, pl.
 
-*   geht Rāma heute nach Ofterdingen? <!-- TODO: Fallback translation -->
-*   ist es richtig, dass ... ? <!-- TODO: Fallback translation -->
+*   megy-e Rāma ma Ofterdingenbe?
+*   helyes-e, hogy ... ?
 
-### 37.8.1. Wortfragen (Ergänzungsfragen) <!-- TODO: Fallback translation -->
+### 37.8.1. Szóbeli kérdések (kiegészítő kérdések)
 
 ::: grammar-box
-Schema: <!-- TODO: Fallback translation -->
+Séma:
 
-Fragepronomen/Frageadverb - Satz <!-- TODO: Fallback translation -->
+Kérdőnévmás/kérdőhatározó – mondat
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Példák:
 ::: indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Wer geht ins Dorf?" <!-- TODO: Fallback translation -->
+⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Ki megy a faluba?"
 
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Was sollten Kinder lernen?" <!-- TODO: Fallback translation -->
+⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Mit kellene a gyerekeknek tanulniuk?"
 
-⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Wo wohnt Rāma? <!-- TODO: Fallback translation -->
+⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Hol lakik Rāma?
 :::
 ::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
-Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Bildquelle: [Details](/licenses#lekt3704)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
+(Képmegjelenítés: [Details](/hu/licenses#lekt3704))
 :::
-### 37.8.2. Satzfragen <!-- TODO: Fallback translation -->
+### 37.8.2. Kérdőmondatok
 
 ::: grammar-box
-Manchmal ist es nur aus dem Zusammenhang erkennbar, ob ein Satz ein Fragesatz ist. <!-- TODO: Fallback translation -->
+Néha csak a kontextusból deríthető ki, hogy egy mondat kérdőmondat-e.
 :::
 ::: grammar-box
-Schema I: <!-- TODO: Fallback translation -->
+I. séma:
 
-Verb - restlicher Satz <!-- TODO: Fallback translation -->
+ige – a mondat többi része
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 ::: indent
-⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Wird der Brahmanenjunge zu einem Meister gehen?" <!-- TODO: Fallback translation -->
+⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Meg fog-e menni a bráhmana fiú egy mesterhez?"
 :::
 ::: grammar-box
-Schema II: <!-- TODO: Fallback translation -->
+II. séma:
 
-Fragepartikel (meist am Satzanfang) - Satz <!-- TODO: Fallback translation -->
+Kérdő részecske (általában a mondat elején) – mondat
 
-Die wichtigsten Fragepartikel sind: <!-- TODO: Fallback translation -->
+A legfontosabb kérdőszavak:
 
-*   ⟪अपि⟫ <!-- TODO: Fallback translation -->
+*   ⟪अपि⟫
 
-*   ⟪किम्⟫ (lässt oft eine negative Antwort erwarten) <!-- TODO: Fallback translation -->
+*   ⟪किम्⟫ (gyakran negatív választ sejtet)
 
-*   ⟪कच्चिद्⟫ <!-- TODO: Fallback translation -->
+*   ⟪कच्चिद्⟫
 
-Diese Partikel entsprechen dem Fragezeichen. <!-- TODO: Fallback translation -->
+Ezek a részecskék megfelelnek a kérdőjelnek.
 :::
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 ::: indent
-⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Ist es auch wahr?" <!-- TODO: Fallback translation -->
+⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ „Valóban ez is?”
 
-⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Kann er denn?" <!-- TODO: Fallback translation -->
+⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ „Majd csak?”
 
-⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Hat etwa der Kṣatriya die Feinde besiegt?" <!-- TODO: Fallback translation -->
+⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ „Megbékítette-e ellenségeit a kṣatriya?”
 :::
-Anmerkung: ⟪किम्⟫ kann ausser "was?" und als Fragepartikel auch "warum?, wozu?" bedeuten. So bes. mit dem Instrumentalis (⟪तृतीया⟫): <!-- TODO: Fallback translation -->
+Megjegyzés: ⟪किम्⟫ nemcsak „mit?” jelentést, hanem kérdőszóként „miért?, mire?” értelmet is ölthet. Különösen az instrumentálissal (⟪तृतीया⟩):
 ::: indent
-⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "Wozu der Zorn? Was nützt der Zorn? Was soll der Zorn?" <!-- TODO: Fallback translation -->
+⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ „Mire a harag? Mire jó a harag? Mi célja a haragnak?”
 :::
-## 37.9. Wortliste <!-- TODO: Fallback translation -->
+## 37.9. Szószedet
 
-⟪मूर्ख⟫ 3: stumpfsinnig, blöd, dumm m. Dummkopf <!-- TODO: Fallback translation -->
+⟪मूर्ख⟫ 3: tompaelméjű, buta, ostoba m. bolond
 
-⟪मुनि⟫ m.: Weiser, (Schweige)asket <!-- TODO: Fallback translation -->
+⟪मुनि⟫ m.: bölcs, (hallgató) aszkéta
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: Asket aus dem Geschlecht der ⟪शाक्य⟫ (Kṣatriyas aus ⟪कपिलवस्तु⟫) = Buddha Gautama <!-- TODO: Fallback translation -->
+⟪शाक्यमुनि⟫ m.: aszkéta a ⟪शाक्य⟩ (Kṣatriyák ⟪कपिलवस्तु⟩) nemzetségéből = Buddha Gautama
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Abb.: ⟪शाक्यमुनिः⟫
-(Bildquelle: [Details](/licenses#lekt3705)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪शाक्यमुनिः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3705))
 :::
-⟪दिन⟫ n.: Tag <!-- TODO: Fallback translation -->
+⟪दिन⟫ n.: nap
 
-⟪वृक्ष⟫ m.: Baum <!-- TODO: Fallback translation -->
+⟪वृक्ष⟫ m.: fa
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Abb.: ⟪वृक्षः⟫
-(Bildquelle: [Details](/licenses#lekt3706)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪वृक्षः⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: Mund, Gesicht, Vorderteil, Anfang <!-- TODO: Fallback translation -->
+⟪मुख⟫ n.: száj, arc, elülső rész, kezdet
 
-## 37.10. Übung <!-- TODO: Fallback translation -->
+## 37.10. Gyakorlat
 
-A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter. Übersetzen Sie die Fragesätze. <!-- TODO: Fallback translation -->
+A) Válaszoljon a következő kérdésekre szanszkrit nyelven, a zárójelben megadott szavak segítségével. Fordítsa le a kérdéseket.
 
-Beispiel: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+Példa: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
 
-⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫) <!-- TODO: Fallback translation -->
+⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 
-⟪क⟫ ⟪आर्यसत्यान्यजानात्⟫ ⟪॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫) <!-- TODO: Fallback translation -->
+⟪क⟫ ⟪आर्यसत्यान्यजानात्⟫ ⟪॥२॥⟫ (⟪बुद्ध⟫, ⟪शाक्यमुनि⟫)
 
-⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫) <!-- TODO: Fallback translation -->
+⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<Absolutiv\>) <!-- TODO: Fallback translation -->
+⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟩ \&lt;Absolutiv\&gt;)
 
-⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫) <!-- TODO: Fallback translation -->
+⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
-⟪किमेव⟫ ⟪शस्त्रं⟫ ⟪छिनत्ति⟫ ⟪॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫) <!-- TODO: Fallback translation -->
+⟪किमेव⟫ ⟪शस्त्रं⟫ ⟪छिनत्ति⟫ ⟪॥६॥⟫ (⟪शरीर⟫, ⟪अजीव⟫)
 
-⟪किंकामः⟫ ⟪शत्रुरार्यैः⟫ ⟪सह⟫ ⟪युयुधे⟫ ⟪॥७॥⟫ (⟪धनं⟫ ⟪जि⟫) <!-- TODO: Fallback translation -->
+⟪किंकामः⟫ ⟪शत्रुरार्यैः⟫ ⟪सह⟫ ⟪युयुधे⟫ ⟪॥७॥⟫ (⟪धनं⟫ ⟪जि⟫)
 
-⟪कया⟫ ⟪भिक्षुरादितः⟫ ⟪॥८॥⟫ (⟪गुणवती⟫ ⟪शूद्रा⟫) <!-- TODO: Fallback translation -->
+⟪कया⟫ ⟪भिक्षुरादितः⟫ ⟪॥८॥⟫ (⟪गुणवती⟫ ⟪शूद्रा⟫)
 
-⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫) <!-- TODO: Fallback translation -->
+⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
 
-⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫) <!-- TODO: Fallback translation -->
+⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟩ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
 
-⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫) <!-- TODO: Fallback translation -->
+⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫)
 
-⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫) <!-- TODO: Fallback translation -->
+⟪कस्याः⟫ ⟪पुत्र्रः⟫ ⟪कृष्ण⟫ ⟪आसीत्⟫ ⟪॥१२॥⟫ (⟪देवकी⟫)
 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
-Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Bildquelle: [Details](/licenses#lekt3707)) <!-- TODO: Fallback translation -->
+Ábra: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3707))
 :::
-⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫) <!-- TODO: Fallback translation -->
+⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
-Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3708)) <!-- TODO: Fallback translation -->
+Ábra: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3708))
 :::
-⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫) <!-- TODO: Fallback translation -->
+⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
-⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫) <!-- TODO: Fallback translation -->
+⟪कैर्वेदः⟫ ⟪प्रोक्तः⟫ ⟪॥१५॥⟫ (⟪ऋषि⟫)
 
-⟪कस्मिञ्जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫ ⟪॥१६॥⟫ (⟪पुत्र⟫) <!-- TODO: Fallback translation -->
+⟪कस्मिञ्जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫ ⟪॥१६॥⟫ (⟪पुत्र⟫)
 
-⟪का⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫) <!-- TODO: Fallback translation -->
+⟪का⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१७॥⟫ (⟪सुरूपशरीरा⟫, ⟪देवीरूपा⟫)
 
-⟪के⟫ ⟪नराः⟫ ⟪सुरूपा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫) <!-- TODO: Fallback translation -->
+⟪के⟫ ⟪नराः⟫ ⟪सुरूपा⟫ ⟪लुभ्यन्ति⟫ ⟪॥१८॥⟫ (⟪समोह⟫, ⟪बुद्धिमन्त्⟫)
 
-⟪कस्या⟫ ⟪इन्द्रः⟫ ⟪पुत्र्रं⟫ ⟪दास्यति⟫ ⟪॥१९॥⟫ (⟪कृतव्रता⟫ ⟪पुण्यवती⟫ ⟪सुमतिब्राह्मणी⟫) <!-- TODO: Fallback translation -->
+⟪कस्या⟫ ⟪इन्द्रः⟫ ⟪पुत्र्रं⟫ ⟪दास्यति⟫ ⟪॥१९॥⟫ (⟪कृतव्रता⟫ ⟪पुण्यवती⟫ ⟪सुमतिब्राह्मणी⟫)
 
-B) Übersetzen Sie: <!-- TODO: Fallback translation -->
+B) Fordítsa le:
 
- ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫ <!-- TODO: Fallback translation -->
+⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
 
-⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫ <!-- TODO: Fallback translation -->
+⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫
 
-⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥३॥⟫ <!-- TODO: Fallback translation -->
+⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥३॥⟫
 
-⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫ <!-- TODO: Fallback translation -->
+⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫
 
-C) Übersetzen Sie folgende ⟪अव्ययीभाव⟫ : <!-- TODO: Fallback translation -->
+C) Fordítsa le a következő ⟪अव्ययीभाव⟫ :
 
-1\. ⟪अति⟫ Postposition mit Akk.: "über ... hinaus" <!-- TODO: Fallback translation -->
+1\. ⟪अति⟫ Case postpozícióval: " ... túl"
 
 ::: indent
-1.  ⟪अतिमात्रम्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪अतिवसन्तम्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪अतिमात्रम्⟫
+2.  ⟪अतिवसन्तम्⟫
 :::
-2\. ⟪अधि⟫ "in" <!-- TODO: Fallback translation -->
+2\. ⟪अधि⟫ "ben"
 
 ::: indent
-1.  ⟪अधिहरि⟫ <!-- TODO: Fallback translation -->
-2.  ⟪अधिकेरलम्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪अधिहरि⟫
+2.  ⟪अधिकेरलम्⟫
 :::
 ::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
-Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
-(Bildquelle: [Details](/licenses#lekt3709)) <!-- TODO: Fallback translation -->
+Kép: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3709))
 :::
-3\. ⟪अनु⟫ "entsprechend, entlang, nach" <!-- TODO: Fallback translation -->
+3\. ⟪अनु⟫ "megfelelően, mentén, szerint"
 
 ::: indent
-1.  ⟪अनुरूपम्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪अनुदिनम्⟫ <!-- TODO: Fallback translation -->
-3.  ⟪अनुगङ्गम्⟫ <!-- TODO: Fallback translation -->
-4.  ⟪अनुविष्णुम्⟫ <!-- TODO: Fallback translation -->
+1.  ⟪अनुरूपम्⟫
+2.  ⟪अनुदिनम्⟫
+3.  ⟪अनुगङ्गम्⟫
+4.  ⟪अनुविष्णुम्⟫
 :::
-4\. ⟪अप⟫ "ohne" <!-- TODO: Fallback translation -->
+4\. ⟪अप⟫ "nélkül"
 
 ::: indent
-1.  ⟪अपविष्णुम्⟫ <!-- TODO: Fallback translation -->
+1. ⟪अपविष्णुम्⟫
 :::
-5\. ⟪अभि⟫ "in Richtung auf" <!-- TODO: Fallback translation -->
+5. ⟪अभि⟫ „felé, irányba”
 
 ::: indent
-1.  ⟪अभिमुखम्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪अभ्यग्नि⟫ <!-- TODO: Fallback translation -->
+1. ⟪अभिमुखम्⟫
+2. ⟪अभ्यग्नि⟫
 :::
-6\. ⟪आ⟫ "seit, bis, einschliesslich" <!-- TODO: Fallback translation -->
+6. ⟪आ⟫ „óta, amíg, beleértve”
 
 ::: indent
-1.  ⟪आबालवृद्धम्⟫ <!-- TODO: Fallback translation -->
-2.  ⟪आमरणम्⟫ <!-- TODO: Fallback translation -->
+1. ⟪आबालवृद्धम्⟫
+2. ⟪आमरणम्⟫
 :::
 ::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
-Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
-(Bildquelle: [Details](/licenses#lekt3710)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3710))
 :::
-7\. ⟪उप⟫ "nahe" <!-- TODO: Fallback translation -->
+7. ⟪उप⟫ „közel”
 
 ::: indent
-1.  ⟪उपवृक्षम्⟫ <!-- TODO: Fallback translation -->
+1. ⟪उपवृक्षम्⟫
 :::
 ::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
-Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
-(Bildquelle: [Details](/licenses#lekt3711)) <!-- TODO: Fallback translation -->
+Ábr.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3711))
 :::
-8\. ⟪यथा⟫ <!-- TODO: Fallback translation -->
+8. ⟪यथा⟫
 
 ::: indent
-1.  ⟪यथास्थानम्⟫ <!-- TODO: Fallback translation -->
+1. ⟪यथास्थानम्⟫
 :::
-## 37.11. Wiederholungsübung <!-- TODO: Fallback translation -->
+## 37.11. Ismétlő gyakorlat
 
-Übersetzen Sie ins Sanskrit indem Sie ausschliesslich Verbformen des Perfekt verwenden: <!-- TODO: Fallback translation -->
+Fordítsa szanszkritra, kizárólag a perfekti igealakjait használva:
 
-Als einmal irgendein Greis in ein anderes Dorf ging, ermüdete er unterwegs. Da ging er, um sich auszuruhen, zum Fuss eines an der Seite stehenden Mangobaums. Auf diesem Baum gab es reife Früchte. Der Greis bekam Lust auf diese. Aber er konnte nicht auf den Baum steigen und nach den Früchten greifen. Zum Glück waren auf diesem Baum irgendwelche Affen, die Früchte frassen. Als er diese erblickte, freute sich der Greis. Was tat er? Er nahm einige Steine, zielte auf die Affen und warf. Die erbosten Affen pflückten irgendwelche Früchte und warfen sie auf den Greis. Der Greis nahm diese erfreut und ging in seine gewünschte Gegend. Siehe, das Geschick des Greises! <!-- TODO: Fallback translation -->
+Amikor egyszer egy idős ember egy másik faluba indult, elfáradt útközben. Ezért a pihenés végett odament egy oldalban álló mangófafa tövéhez. Ezen a fán érett gyümölcsök voltak. Az idős ember megkívánta ezeket. De nem tudott felmászni a fára, és elérni a gyümölcsöket. Szerencsére az említett fán voltak majmok, amelyek gyümölcsöt ettek. Amint meglátta őket, az idős ember megörült. Mit tett? Néhány követ vett, célzott a majmokra, és dobálta. A felháborodott majmok gyümölcsöket szedtek, és a főre dobták őket. Az idős ember ezeket örömmel vette, és elment a kívánt helyére. Íme, az idős ember sorsa!
 
 ::: deleteme-box
 
-- **Image lekt3701.jpg** (Ábra: ⟪क्व⟫): [Képforrás: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3702.jpg** (Ábra: ⟪यथाशक्ति⟫): [Képforrás: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3703.jpg** (Ábra: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Képforrás: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3704.jpg** (Ábra: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Képforrás: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Zugriff am 2008-12-30. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
-- **Image lekt3705.jpg** (Ábra: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Képforrás: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3706.jpg** (Ábra: ⟪वृक्षः⟫): Jaipur [Képforrás: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-- **Image lekt3707.jpg** (Ábra: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Gemälde von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Képforrás: Wikipedia. Public domain] <!-- TODO: Fallback translation -->
-- **Image lekt3708.jpg** (Ábra: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Képforrás: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung)] <!-- TODO: Fallback translation -->
-- **Image lekt3709.jpg** (Ábra: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Képforrás: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
-- **Image lekt3710.jpg** (Ábra: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Képforrás: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)] <!-- TODO: Fallback translation -->
-- **Image lekt3711.jpg** (Ábra: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Képforrás: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Zugriff am 2008-12-31. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)] <!-- TODO: Fallback translation -->
+- **Image lekt3701.jpg** (Ábra: ⟪क्व⟫): [Képmegjelölés: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Hozzáférés: 2008-12-30. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs származékos mű)]
+- **Image lekt3702.jpg** (Ábra: ⟪यथाशक्ति⟫): [Képmegjelölés: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Hozzáférés: 2008-12-30. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs származékos mű)]
+- **Image lekt3703.jpg** (Ábra: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Képmegjelölés: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Hozzáférés: 2008-12-30. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs származékos mű)]
+- **Image lekt3704.jpg** (Ábra: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Képmegjelölés: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Hozzáférés: 2008-12-30. -- Creative Commons licenc (Nevesítés)]
+- **Image lekt3705.jpg** (Ábra: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Képmegjelölés: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Hozzáférés: 2008-12-31. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs származékos mű)]
+- **Image lekt3706.jpg** (Ábra: ⟪वृक्षः⟫): Jaipur [Képmegjelölés: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Hozzáférés: 2008-12-31. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
+- **Image lekt3707.jpg** (Ábra: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Festmény ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Képmegjelölés: Wikipedia. Közterület]
+- **Image lekt3708.jpg** (Ábra: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Képmegjelölés: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Hozzáférés: 2008-12-31. -- Creative Commons licenc (Nevesítés)]
+- **Image lekt3709.jpg** (Ábra: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Képmegjelölés: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Hozzáférés: 2008-12-31. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs származékos mű)]
+- **Image lekt3710.jpg** (Ábra: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Képmegjelölés: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Hozzáférés: 2008-12-31. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike)]
+- **Image lekt3711.jpg** (Ábra: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Képmegjelölés: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Hozzáférés: 2008-12-31. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, nincs származékos mű)]
 :::

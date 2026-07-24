@@ -294,7 +294,7 @@ La furmaziun dal stemma + las desinenzas dal aorist d'iṣ èn donc:
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | **-iṣam** | **-iṣma** | **-iṣi** | **-iṣmahi** |
-| **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(wahlweise nach -h oder Halbvokal) |
+| **2. ⟪द्वितीयः⟫** | **-īs** | **-iṣṭa** | **-iṣṭhās** | **-**idhvam / :br-iḍhvam:br(wahlweise nach -h ni Halbvokal) |
 | **3. ⟪प्रथमः⟫** | **-īt** | **-iṣur** | **-iṣṭa** | **-iṣata** |
 
 :::

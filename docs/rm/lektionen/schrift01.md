@@ -8,7 +8,7 @@ Il sanscrit vegn ed è scrit en ina varietad da scripts. La suandanta vista gene
 Fig.: Exemplars da scritura sanscrita  
 \[Sursaint d’imagina: Wikipedia, licenza GNU FD\]
 
-Die wichtigste moderne nordindische Sanskritschrift ist die Devanāgarī:
+Die wichtigste mnine nordindische Sanskritschrift ist die Devanāgarī:
 
 ![](/images/schrift002.webp)
 

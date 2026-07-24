@@ -49,7 +49,7 @@ z.B.
 - **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma isst (kaut) eine Frucht."
 - **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Der Brahmane verehrt einen Gott mit einem Opfer (für jemand anderes)."
 :::
-Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**karman** n. = ⟪कर्मन्⟫) im Allgemeinen im **Akkusativ** (Wenfall, dvitīyā f. = ⟪द्वितीया⟫).
+Steht das Verb im Parasmaipada ni Ātmanepada, so steht das direkte Objekt (**karman** n. = ⟪कर्मन्⟫) im Allgemeinen im **Akkusativ** (Wenfall, dvitīyā f. = ⟪द्वितीया⟫).
 
 ## 7.2. L'accusativ (cas dal «tschertgà», dvitīyā f. = ⟪द्वितीया⟫ = «segunda desinenza da casus»)
 
@@ -90,7 +90,7 @@ Steht das Verb im Parasmaipada oder Ātmanepada, so steht das direkte Objekt (**
 ### 7.2.1. Akkusativ Singular und Plural der Frage- und Pronomens demonstrativs
 
 ::: grammar-box
-| || Maskulinum | Femininum | Neutrum |
+| || Masculin | Feminin | Neutrum |
 | :--- | :--- | :--- | :--- | :--- |
 | **kim** :brfer/che | sg. | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
 | | pl. | **kān** :br⟪कान्⟫ | **kās** :br⟪कास्⟫ | **kāni** :br⟪कानि⟫ |
@@ -121,7 +121,7 @@ Autras utilisaziuns da l’accusativ vegnan tractadas pli tard.
 ## 7.3. Sandhi von auslautendem -n
 
 ::: grammar-box
-**Auslautendes -n:**
+**Final -n:**
 
 1. Davant consonnas palatalas e retroflesas sonoras e davant **ś-** vegn sustituida dal nasal correspundent:
    - **-n** davant **j-, jh-, ñ-, ś-** » **-ñ**
@@ -186,11 +186,11 @@ La 5. classa da prezens furma ina tala numnada radis da prezens athematica, è.d
 - **Stem fort**: (per la mai part) radis (sco menziunà) + **-no-**
 - **Stem debel**: (per la mai part) radis (sco menziunà) + **-nu-**
 
-**Vor vokalischen Endungen wird bei vokalisch auslautenden Wurzeln -nu- durch -nv- ersetzt, bei konsonantisch auslautenden Wurzeln wird vor vokalischen Endungen -nu- durch -nuv- ersetzt.**
+**Vor vokalischen Endungen wird bei vokalisch auslautenden Radisn -nu- durch -nv- ersetzt, bei konsonantisch auslautenden Radisn wird vor vokalischen Endungen -nu- durch -nuv- ersetzt.**
 :::
 **Beispiele:**
 
-| Wurzel:br⟪धातु⟫ | Starker Stamm | Schwacher Stamm | Vor Vokal:br(schwach) |
+| Radis:br⟪धातु⟫ | Starker Stamm | Schwacher Stamm | Vor Vokal:br(schwach) |
 | :--- | :--- | :--- | :--- |
 | **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
 | **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |

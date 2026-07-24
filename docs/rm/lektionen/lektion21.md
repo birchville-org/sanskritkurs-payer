@@ -31,8 +31,8 @@ Quest participi è ina furmaziun nominala dal stem da presens, uschia in ver par
 | | **stirp ferm** | stem da present + **-nt-** |
 | | **stirp debel** | stem da present + **-t-** |
 | **Feminin** | | |
-| | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
-| | **6. classa da present** | stem da present + **-nt-** + **-ī** :broder::brstem da present + **-t-** + **-ī** |
+| | | Stampa da preschent + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | **6. classa da present** | stem da present + **-nt-** + **-ī** :brni::brstem da present + **-t-** + **-ī** |
 
 :::
 Egimpels:
@@ -44,7 +44,7 @@ Egimpels:
 :::
 ::: grammar-box
 
-| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
+| | | Masculin:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Feminin:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪यजन्⟫ :braus yaja-nt-s | ⟪यजत्⟫ :bryaja-t-Ø | ⟪यजन्ती⟫ :bryaja-ant-ī |
 | | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | wie **devī** :br⟪देवी⟫ |
@@ -63,18 +63,18 @@ Notar il son identic da **⟪यजन्ति⟫** (Nom. pl. Neutrum) cun la 3
 ::: indent
 **⟪नृत्यन्त्⟫** "dansond"
 
-*   Maskulinum Nominativ Singular **⟪नृत्यन्⟫**
+*   Masculin Nominativ Singular **⟪नृत्यन्⟫**
 *   Neutrum Nominativ Akkusativ Singular **⟪नृत्यत्⟫**
-*   Femininum Nominativ Singular **⟪नृत्यन्ती⟫**
+*   Feminin Nominativ Singular **⟪नृत्यन्ती⟫**
 :::
 6\. Classe da prezens
 
 ::: indent
 **⟪विशन्त्⟫** "entrandond"
 
-*   Maskulinum Nominativ Singular **⟪विशन्⟫**
+*   Masculin Nominativ Singular **⟪विशन्⟫**
 *   Neutrum Nominativ Akkusativ Singular **⟪विशत्⟫**
-*   Femininum Nominativ Singular **⟪विशन्ती⟫** ⟪।⟫ **⟪विशती⟫**
+*   Feminin Nominativ Singular **⟪विशन्ती⟫** ⟪।⟫ **⟪विशती⟫**
 :::
 ::: grammar-box
 
@@ -84,7 +84,7 @@ Notar il son identic da **⟪यजन्ति⟫** (Nom. pl. Neutrum) cun la 3
 | | **stirpa ferma** | radis da prezens + **-ant-** |
 | | **stirpa debila** | radis da prezens + **-at-** :br(La fin da la stirpa debila da prezens è identica avant la 3. plur. P.) |
 | **Feminin** | | |
-| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | | Stampa da preschent + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
 
 :::
 2\. Classe dal present:
@@ -94,7 +94,7 @@ Notar il son identic da **⟪यजन्ति⟫** (Nom. pl. Neutrum) cun la 3
 :::
 ::: grammar-box
 
-| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
+| | | Masculin:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Feminin:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪सन्⟫ :braus s-ant-s | ⟪सत्⟫ :brs-at-Ø | ⟪सती⟫ :brs-at-ī |
 | | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪सन्तम्⟫ :brs-ant-am | ⟪सत्⟫ | wie **devī** :br⟪देवी⟫ |
@@ -122,16 +122,16 @@ Abb.: ⟪सती⟫-platta da remembranza
 
 *   Masculinum Nom. sg. **⟪सुन्वन्⟫**
 *   Neutrum Nom. Akk. sg. **⟪सुन्वत्⟫**
-*   Femininum Nom. sg. **⟪सुन्वती⟫**
+*   Feminin Nom. sg. **⟪सुन्वती⟫**
 :::
 8\. Classe da prezens
 
 ::: indent
 **⟪कृ⟫** "far": **⟪कुर्वन्त्⟫**
 
-*   Maskulinum Nominativ Singular **⟪कुर्वन्⟫**
+*   Masculin Nominativ Singular **⟪कुर्वन्⟫**
 *   Neutrum Nominativ Akkusativ Singular **⟪कुर्वत्⟫**
-*   Femininum Nominativ Singular **⟪कुर्वती⟫**
+*   Feminin Nominativ Singular **⟪कुर्वती⟫**
 :::
 ### 21.1.2. ⟪महान्त्⟫ "gronds"
 
@@ -139,16 +139,16 @@ Abb.: ⟪सती⟫-platta da remembranza
 
 | | | |
 | :--- | :--- | :--- |
-| **Maskulinum, Neutrum** | | |
+| **Masculin, Neutrum** | | |
 | | **starker Stamm** | ⟪महान्त्⟫ |
 | | **schwacher Stamm** | ⟪महत्⟫ |
-| **Femininum** | | |
+| **Feminin** | | |
 | | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
 
 :::
 ::: grammar-box
 
-| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
+| | | Masculin:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Feminin:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪महान्⟫ :braus mahānt-s | ⟪महत्⟫ :brmahat-Ø | ⟪महती⟫ :brmahat-ī |
 | | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪महान्तम्⟫ :brmahānt-am | ⟪महत्⟫ | wie **devī** :br⟪देवी⟫ |
@@ -213,7 +213,7 @@ cortés:
 ::: indent
 **⟪किं⟫ ⟪भवन्तः⟫ ⟪कुर्वन्ति⟫** = **⟪किं⟫ ⟪भवद्भिः⟫ ⟪क्रियते⟫**
 :::
-Femininum:
+Feminin:
 
 ::: indent
 **⟪किं⟫ ⟪भवती⟫ ⟪करोति⟫** = **⟪किं⟫ ⟪भवत्या⟫ ⟪क्रियते⟫**  
@@ -222,7 +222,7 @@ Femininum:
 Autras paraulas, che pon esser adoperadas en moda simila a **⟪भवन्त्⟫**:
 
 *   **⟪आर्य⟫** (f.: **⟪आर्या⟫**) "Noble". Per exempli **⟪यदार्य⟫** **⟪इच्छति⟫** "Quod desideratis"
-*   **⟪महाभाग⟫** "qui cuius pars / fortuna magna est = Nobilis". Saepissime adhibitum a feminis in adhortatione vel de viris boni status loquentibus. In Sanscrito moderno colloquiali valde frequens.
+*   **⟪महाभाग⟫** "qui cuius pars / fortuna magna est = Nobilis". Saepissime adhibitum a feminis in adhortatione vel de viris boni status loquentibus. In Sanscrito mnino colloquiali valde frequens.
 
 Sch'gì vögl betüra, ma era veneraziun per in'atra persuna, duvra sün la persuna che è preschenta u en la proximadad **⟪भवन्त्⟫** **⟪अत्रभवन्त्⟫** , per ina persuna absenta u luntana **⟪तत्रभवन्त्⟫**. **⟪अत्रभवन्त्⟫** e **⟪तत्रभवन्त्⟫** pon vegnir tradusids cun "Vus", "Ervurdà", "Ervurdà" etc.:
 

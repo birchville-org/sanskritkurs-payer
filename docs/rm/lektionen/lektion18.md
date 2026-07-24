@@ -83,7 +83,7 @@ Mudament da la pronunzia da -s en cumponiments
 
 Contra il Sandhi da frasa vala en il final dal preambel da cumponiments:
 
--s nach -i- oder -u- vor tonlosem Guttural oder Labial » -ṣ
+-s nach -i- ni -u- vor tonlosem Guttural ni Labial » -ṣ
 
 Perquai: ⟪दुष्करण⟫
 
@@ -92,7 +92,7 @@ Perquai: ⟪दुष्करण⟫
 
 ::: grammar-box
 
-I composti di tipo ⟪सुकर⟫ / ⟪दुष्कर⟫ hanno principalmente il significato della possibilità passiva:
+I composti di tipo ⟪सुकर⟫ / ⟪दुष्कर⟫ hanno principalmente il significato da la possibilità passiva:
 
 Ezempels:
 

@@ -519,7 +519,7 @@ Abb.: ⟪ग्रामदेवता⟫
 :::
 ## 15.11. Exercizi 3
 
-A) Tradusci il proverbio all'inizio della lezione
+A) Tradusci il proverbio all'inizio da la lezione
 
 B) Resolvai las suandantas composiziuns Tatpuruṣa:
 

@@ -1,234 +1,234 @@
 ---
-title: Lektion 3
-subtitle: "Den Nominativ Singular des Femininums"
+title: 3. lecke
+subtitle: "A nőnem egyes számának alanyesete"
 lesson_id: 3
 last_reconstructed: 2026-05-07
-category: "Grammatik"
-status: stable
---- <!-- TODO: Fallback translation -->
+category: "Nyelvtan"
+status: stabil
+---
 
-# Lektion 3 <!-- TODO: Fallback translation -->
+# 3. lecke
 
 ::: deleteme-box
-**In dieser Lektion lernen Sie:** <!-- TODO: Fallback translation -->
-- den alanyeset (nominativus) egyes szám des nőnems <!-- TODO: Fallback translation -->
-- den alanyeset (nominativus) többes szám des hímnems und nőnems <!-- TODO: Fallback translation -->
-- die Képzés des nőnems zu Maskulina <!-- TODO: Fallback translation -->
-- Vokalsandhi <!-- TODO: Fallback translation -->
-- Satzsandhi von -ās <!-- TODO: Fallback translation -->
+**Ebben a leckében megtanulják:**
+- a nőnem egyes számának alanyesetét (nominativus)
+- a hímnem és nőnem többes számának alanyesetét (nominativus)
+- a nőnem képzését maskulinumokká
+- vokális szandhit (hangzásillesztést)
+- Satzsandhi von -ās
 :::
-## 3.1. Nominativ Singular des Femininums <!-- TODO: Fallback translation -->
+## 3.1. A nőnem egyes számának alanyesete
 
-### 3.1.1. Nominativ Singular auf -s <!-- TODO: Fallback translation -->
+### 3.1.1. -s végződésű alanyeset egyes számban
 
-Auch folgende Nominalstämme, die mit einem Vokal enden, bilden den Nominativ Singular auf **-s**: <!-- TODO: Fallback translation -->
+A következő, magánhangzóra végződő főnévi tőkék is -s-ra végződő nominativus egyest képeznek:
 
 ::: grammar-box
-- **Feminina auf -i**: z.B. **śruti** f. "das Hören" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -u**: z.B. **dhenu** f. "Milchkuh" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫ <!-- TODO: Fallback translation -->
+- **-i** végű nőnemek: pl. **śruti** n. "a hallás" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
+- **-u** végű nőnemek: pl. **dhenu** n. "tehenes" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominativ Singular ohne Endung <!-- TODO: Fallback translation -->
+### 3.1.2. Nominativus egyest végződés nélkül
 
-Den Nominativ Singular bilden ohne Endung: <!-- TODO: Fallback translation -->
+A nominativus egyet végződés nélkül képezik:
 
 ::: grammar-box
-- **Feminina auf -ā**: z.B. **devatā** f. "Gottheit" -- Nom. sg.: **devatā** = ⟪देवता⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -ī**: z.B. **devī** f. "Göttin" -- Nom. sg.: **devī** = ⟪देवी⟫ <!-- TODO: Fallback translation -->
+- **-ā** végű nőnemek: pl. **devatā** n. "istenség" -- Nom. sg.: **devatā** = ⟪देवता⟫
+- **-ī** végű nőnemek: pl. **devī** n. "istennő" -- Nom. sg.: **devī** = ⟪देवी⟫
 :::
 ::: important
-**Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf -ī, deren Nominativ Singular auf -s endet: z.B. dhī f. "Gedanke" -- Nom. sg.: dhīs = ⟪धीस्⟫. Auch lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "Boot" und tantrī (⟪तन्त्री⟫) f. "Saite" bilden unregelmässig den Nominativ Singular auf -s: lakṣmīs = ⟪लक्ष्मीस्⟫. <!-- TODO: Fallback translation -->
+**Figyelem!** Mellettük léteznek egy szótagú, nőnemű gyökárvizsgálati főnevek -ī végződéssel, amelyek nominativus egyese -s-ra végződik: pl. dhī n. "gondolat" -- Nom. sg.: dhīs = ⟪धीस्⟫. A lakṣmī (⟪लक्ष्मी⟫) n., a tarī (⟪तरी⟫) n. "csónak" és a tantrī (⟪तन्त्री⟫) n. "húr" is szabálytalanul képezik a nominativus egyest -s-ra: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
-## 3.2. Bildung der Feminina zu Maskulina <!-- TODO: Fallback translation -->
+## 3.2. A hímnemű szavak nőnemű képzése
 
 ::: grammar-box
-**Maskulina auf -a:** <!-- TODO: Fallback translation -->
-- **nőnem auf -ā**: z.B. **kṣatriya** m. » **kṣatriyā** f. "Kṣatriyafrau" = ⟪क्षत्रिया⟫ <!-- TODO: Fallback translation -->
-- **nőnem auf -ī**: z.B. **brāhmaṇa** m. » **brāhmaṇī** f. "Brahmanin" = ⟪ब्राह्मणी⟫ <!-- TODO: Fallback translation -->
+**-a végződésű hímnem:**
+- **-ā végződésű nőnem**: pl. **kṣatriya** m. » **kṣatriyā** f. „Kṣatriya-asszony” = ⟪क्षत्रिया⟫
+- **-ī végződésű nőnem**: pl. **brāhmaṇa** m. » **brāhmaṇī** f. „Brahmana-asszony” = ⟪ब्राह्मणी⟫
 
-**Maskulina auf -u:** <!-- TODO: Fallback translation -->
-- **nőnem auf -ī**: z.B. **sādhu** m. » **sādhvī** f. (gut, Heilige) = ⟪साध्वी⟫ <!-- TODO: Fallback translation -->
-  (**-u-** wird vor Vokal zu **-v-**, daher **-u- + -ī** » **-vī**) <!-- TODO: Fallback translation -->
+**-u végződésű hímnem:**
+- **-ī végződésű nőnem**: pl. **sādhu** m. » **sādhvī** f. (jó, szent) = ⟪साध्वी⟫
+(**-u-** magánhangzó előtt **-v**-vé válik, ezért **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominativ Plural Maskulinum und Femininum <!-- TODO: Fallback translation -->
+## 3.3. A hímnem és nőnem többes számának alanyesete
 
 ::: grammar-box
-Die Endung des Nominativ Plural im Maskulinum und Femininum ist **-as**. <!-- TODO: Fallback translation -->
-- **Maskulina auf -a**: **deva- + -as** » **devās** = ⟪देवास्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫ <!-- TODO: Fallback translation -->
-- **Maskulina auf -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -i**: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -ī**: **devī- + -as** » **devyas** = ⟪देव्यस्⟫ <!-- TODO: Fallback translation -->
-- **Maskulina auf -u**: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫ <!-- TODO: Fallback translation -->
-- **Feminina auf -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫ <!-- TODO: Fallback translation -->
+A nemek többes számának nominativus végződése a hímnemben és nőnemben **-as**.
+- **-a** végű hímnem: **deva- + -as** » **devās** = ⟪देवास्⟫
+- **-ā** végű nőnem: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
+- **-i** végű hímnem: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫
+- **-i** végű nőnem: **śruti-** » **śrute- + -as** » **śrutayas** = ⟪श्रुतयस्⟫
+- **-ī** végű nőnem: **devī- + -as** » **devyas** = ⟪देव्यस्⟫
+- **-u** végű hímnem: **guru-** » **guro- + -as** » **guravas** = ⟪गुरवस्⟫
+- **-u** végű nőnem: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 :::
-Anmerkung: **e** ist Hochstufe (**guṇa**) zu **i**, **o** ist Hochstufe zu **u**. <!-- TODO: Fallback translation -->
+Megjegyzés: az **e** a magasabb fok (guṇa) az **i**-hez, az **o** pedig a magasabb fok a **u**-hoz.
 
-## 3.4. Vokalsandhi <!-- TODO: Fallback translation -->
+## 3.4. Vokális szandhi
 
 ::: grammar-box
-**Einfache Vokale, die sich nicht oder nur in ihrer Länge unterscheiden, "verschmelzen" zum entsprechenden langen Vokal:** <!-- TODO: Fallback translation -->
-- -a / -ā + a- / ā- » **-ā-** <!-- TODO: Fallback translation -->
-- -i / -ī + i- / ī- » **-ī-** <!-- TODO: Fallback translation -->
-- -u / -ū + u- / ū- » **-ū-** <!-- TODO: Fallback translation -->
-- (-ṛ + ṛ- » **-ṝ-**) <!-- TODO: Fallback translation -->
+**Az egyszerű magánhangzók, amelyek nem vagy csak hosszúságukban különböznek, „egyesülve” a megfelelő hosszú magánhangzóvá válnak:**
+- -a / -ā + a- / ā- » **-ā-**
+- -i / -ī + i- / ī- » **-ī-**
+- -u / -ū + u- / ū- » **-ū-**
+- (-ṛ + ṛ- » **-ṝ-**)
 :::
-z.B. <!-- TODO: Fallback translation -->
+pl.
 
-devatā + annapūrṇā » devatānnapūrṇā "Annapūrṇā ist eine Gottheit" = ⟪देवतान्नपूर्णा⟫ <!-- TODO: Fallback translation -->
+devatā + annapūrṇā » devatānnapūrṇā „Annapūrṇa egy istenség” = ⟪देवतान्नपूर्णा⟫
 
-> (Annapūrṇā ist die Göttin der Speisen und des Kochens, sie gilt als eine Verkörperung Pārvatī's, der Gattin Śivas.) <!-- TODO: Fallback translation -->
+> (Annapūrṇā az ételek és a főzés istennője, őt Párvatí, Siṣa feleségének megtestesüléseként tisztelik.)
 
-devī + indrāṇī » devīndrāṇī "Indrāṇī ist eine Göttin" = ⟪देवीन्द्राणी⟫ <!-- TODO: Fallback translation -->
+devī + indrāṇī » devīndrāṇī „Indrāṇi istennő” = ⟪देवीन्द्राणी⟫
 
-> (Indrāṇī ist die Gattin des Gottes Indra.) <!-- TODO: Fallback translation -->
+> (Indrāṇi Indra isten felesége.)
 
 ::: media
 ![](/images/lekt0301.webp)
-Abb.: Indra und Indrāṇī auf dem Elefanten Airavata, Miniatur, Rājasthān, 1670/80
-(Bildquelle: [Details](/licenses#lekt0301)) <!-- TODO: Fallback translation -->
+Ábr.: Indra és Indrāṇi Airavata elefántján, miniatűr, Rājasthān, 1670/80
+(Képmeghatározás: [Részletek](/hu/licenses#lekt0301))
 :::
 
 ::: grammar-box
-**Einfache Vokale (ausser -a / -ā) werden vor unähnlichen Vokalen durch den entsprechenden Halbvokal ersetzt:** <!-- TODO: Fallback translation -->
-- -i / -ī » **-y-** <!-- TODO: Fallback translation -->
-- -u / -ū » **-v-** <!-- TODO: Fallback translation -->
-- -ṛ » **-r-** <!-- TODO: Fallback translation -->
-(!! Zu dieser Regel gibt es insbesondere für Dualformen Ausnahmen !!) <!-- TODO: Fallback translation -->
+**Az egyszerű magánhangzók (az -a / -ā kivételével) az idegen magánhangzók előtt a megfelelő fényhangzóval helyettesítendők:**
+- -i / -ī » **-y-**
+- -u / -ū » **-v-**
+- -ṛ » **-r-**
+(!! Ehhez a szabályhoz különösen a kettős számú alakok esetén vannak kivételek !!)
 :::
-z.B. <!-- TODO: Fallback translation -->
+pl.
 
-devī + umā » devy umā "Umā ist eine / die Göttin" = ⟪देव्युमा⟫ <!-- TODO: Fallback translation -->
+devī + umā » devy umā "Umā egy / a istennő" = ⟪देव्युमा⟫
 
-> (Umā ist ein Name für Pārvatī, die Gattin Śivas) <!-- TODO: Fallback translation -->
+> (Umā Párvatī neve, Siva felesége)
 
 ::: grammar-box
-**-a / -ā vor unähnlichem Vokal:** <!-- TODO: Fallback translation -->
-- -a / -ā + i- / ī- » **-e-** <!-- TODO: Fallback translation -->
-- -a / -ā + ṛ- » **-ar-** <!-- TODO: Fallback translation -->
-- -a / -ā + e- / ai- » **-ai-** <!-- TODO: Fallback translation -->
-- -a / -ā + o- / au- » **-au-** <!-- TODO: Fallback translation -->
+**-a / -ā idegen magánhangzó előtt:**
+- -a / -ā + i- / ī- » **-e-**
+- -a / -ā + ṛ- » **-ar-**
+- -a / -ā + e- / ai- » **-ai-**
+- -a / -ā + o- / au- » **-au-**
 :::
-Für diesen Sandhi gilt also folgendes Schema: <!-- TODO: Fallback translation -->
+Tehát erre a szandira az alábbi séma érvényes:
 
 ::: media
 ![](/images/lekt0302.jpg)
-(Bildquelle: [Details](/licenses#lekt0302)) <!-- TODO: Fallback translation -->
+(Képmegjelölés: [Részletek](/hu/licenses#lekt0302))
 :::
-Zu dieser sog. Stammabstufung siehe später! <!-- TODO: Fallback translation -->
+Ezzel az úgynevezett törzsi rangsorolással kapcsolatban lásd később!
 
-z.B. <!-- TODO: Fallback translation -->
+pl.
 
-śūdrā + itarā » śudretarā "Itarā ist eine Śūdrafrau" = ⟪शूद्रेतरा⟫ <!-- TODO: Fallback translation -->
+śūdrā + itarā » śudretarā „Itarā egy śúdra nő” = ⟪शूद्रेतरा⟫
 
-## 3.5. Satzsandhi von -ās <!-- TODO: Fallback translation -->
+## 3.5. Mondat-szandhi az -ās végződésnél
 
 ::: grammar-box
-**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.** <!-- TODO: Fallback translation -->
+**-ās wird vor allen stimmhaften Lauten durch -ā ersetzt.**
 :::
-z.B. <!-- TODO: Fallback translation -->
+pl.
 
-dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas sind Zweimalgeborene" = ⟪द्विजा⟫ ⟪वैश्याः⟫ <!-- TODO: Fallback translation -->
+dvijās + vaiśyāḥ » dvijā vaiśyāḥ „Vaiśyas kétszer születtek” = ⟪द्विजा⟫ ⟪वैश्याः⟫
 
-## 3.6. Wortliste <!-- TODO: Fallback translation -->
+## 3.6. Szószedet
 
-**Lernen Sie folgende Wörter:** <!-- TODO: Fallback translation -->
+**Tanulja meg a következő szavakat:**
 
-**śruti** f. = ⟪श्रुति⟫ : das Hören, die ewige Überlieferung (Bezeichnung für die Veden und Brāhmaṇa's). <!-- TODO: Fallback translation -->
+**śruti** n. = ⟪श्रुति⟫ : a hallás, az örökösített hagyomány (a Védák és Brāhmaṇa-szövegek megnevezése).
 
-**smṛti** f. = ⟪स्मृति⟫ : Vergegenwärtigung, Erinnerung, meditative Vergegenwärtigung = Achtsamkeit, Überlieferung (Gegenbegriff zu **śruti**). Umfasst: <!-- TODO: Fallback translation -->
-- die sechs **vedāṅga** n. (⟪वेदाङ्ग⟫) <!-- TODO: Fallback translation -->
-  1. **śikṣā** f. (⟪शिक्षा⟫): rechte Aussprache <!-- TODO: Fallback translation -->
-  2. **chandas** n. (⟪छन्दस्⟫): Metrum <!-- TODO: Fallback translation -->
-  3. **vyākaraṇa** n. (⟪व्याकरण⟫): Grammatik <!-- TODO: Fallback translation -->
-  4. **nirukta** n. (⟪निरुक्त⟫) : Worterklärung, Etymologie <!-- TODO: Fallback translation -->
-  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : Astronomie, Kalenderlehre <!-- TODO: Fallback translation -->
-  6. **kalpa** m. (⟪कल्प⟫) : Zeremoniell <!-- TODO: Fallback translation -->
-- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : Lehrwerke für den Vollzug der grossen Opfer <!-- TODO: Fallback translation -->
-- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : Lehrwerke für die Zeremonien und Opfer des täglichen Lebens <!-- TODO: Fallback translation -->
-- **dharmasūtra** n. (⟪धर्मसूत्र⟫) und **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : Lehrwerke zu Recht und Sitte (rechtes Verhalten) <!-- TODO: Fallback translation -->
-- die grossen Epen **mahābhārata** n. (⟪महाभारत⟫) und **rāmāyaṇa** n. (⟪रामायण⟫) <!-- TODO: Fallback translation -->
-- die **purāṇa** n. (⟪पुराण⟫) <!-- TODO: Fallback translation -->
-- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : Lehrwerke der Lebensklugheit <!-- TODO: Fallback translation -->
+**smṛti** n. = ⟪स्मृति⟫ : felidézés, emlékezet, meditációs felidézés = figyelem, hagyomány (a **śruti** szembenálló fogalma). Magában foglalja:
+- a hat **vedāṅga** n. (⟪वेदाङ्ग⟫)
+1. **śikṣā** n. (⟪शिक्षा⟫): a helyes kiejtés
+2. **chandas** n. (⟪छन्दस्⟫): mérték
+3. **vyākaraṇa** n. (⟪व्याकरण⟫): nyelvtan
+4. **nirukta** n. (⟪निरुक्त⟫) : szómagyarázat, etimológia
+5. **jyotiṣa** n. (⟪ज्योतिष⟫) : csillagászat, naptártan
+6. **kalpa** m. (⟪कल्प⟫) : szertartástan
+- **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : a nagy áldozatok végrehajtásának kézikönyvei
+- **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : a mindennapi élet szertartásainak és áldozatainak kézikönyvei
+- **dharmasūtra** n. (⟪धर्मसूत्र⟫) és **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : jogi és szokásjogi kézikönyvek (helyes magatartás)
+- a nagy eposzok **mahābhārata** n. (⟪महाभारत⟫) és **rāmāyaṇa** n. (⟪रामायण⟫)
+- a **purāṇa** n. (⟪पुराण⟫)
+- **nītiśāstra** n. (⟪नीतिशास्त्र⟫) : az életbölcsesség kézikönyvei
 
-**smṛti** ist besonders auch Bezeichnung für Dharmalehrwerke. <!-- TODO: Fallback translation -->
+A **smṛti** kifejezés különösen a dharma-kézikönyvekre utal.
 
-**dhenu** f. = ⟪धेनु⟫ : (Milch-)kuh. <!-- TODO: Fallback translation -->
+**dhenu** f. = ⟪धेनु⟫ : (tejszarvas) tehén.
 
-**paśu** m. = ⟪पशु⟫ : domestiziertes Nutztier, Vieh (Kollektivum). <!-- TODO: Fallback translation -->
+**paśu** m. = ⟪पशु⟫ : háziasított haszonállat, nyáj (kollektívum).
 
-**devatā** f. = ⟪देवता⟫ : Gottheit (abstrakt und konkret). <!-- TODO: Fallback translation -->
+**devatā** f. = ⟪देवता⟫ : isten (abstrakt és konkrét).
 
-**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : Brahmanin. <!-- TODO: Fallback translation -->
+**brāhmaṇī** f. = ⟪ब्राह्मणी⟫ : bráhmani nő.
 
-**kṣatriyā** f. = ⟪क्षत्रिया⟫ : weibliche Kṣatriya. <!-- TODO: Fallback translation -->
+**kṣatriyā** f. = ⟪क्षत्रिया⟫ : kṣatriya nő.
 
-**kṣatriyī** f. = ⟪क्षत्रियी⟫ : Frau eines Kṣatriya. <!-- TODO: Fallback translation -->
+**kṣatriyī** f. = ⟪क्षत्रियी⟫ : egy kṣatriya felesége.
 
-**vaiśyā** f. = ⟪वैश्या⟫ : weibliche Vaiśya. <!-- TODO: Fallback translation -->
+**vaiśyā** f. = ⟪वैश्या⟫ : női vaiśya.
 
-**śūdrā** f. = ⟪शूद्रा⟫ : weibliche Śūdra. <!-- TODO: Fallback translation -->
+**śūdrā** f. = ⟪शूद्रा⟫ : női śūdra.
 
-**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : Frau eines Śūdra. <!-- TODO: Fallback translation -->
+**śūdrī** f. / **śūdrāṇī** f. = ⟪शूद्री⟫ ⟪शूद्राणी⟫ : egy śūdra felesége.
 
-**devī** f. = ⟪देवी⟫ : Göttin, insbes. Durgā f. = ⟪दुर्गा⟫, die Gattin Śiva's = ⟪शिव⟫. <!-- TODO: Fallback translation -->
+**devī** f. = ⟪देवी⟫ : isteni nő, különösen Durgā f. = ⟪दुर्गा⟫, Siva felesége = ⟪शिव⟫.
 
 ::: media
 ![](/images/lekt0303.webp)
-Abb.: Durgā = ⟪दुर्गा⟫, Orissa
-(Bildquelle: [Details](/images/lekt0303)) <!-- TODO: Fallback translation -->
+Ábra: Durgā = ⟪दुर्गा⟫, Orissa
+(Képmeghatározás: [Details](/images/lekt0303))
 :::
-**sādhvī** f. = ⟪साध्वी⟫ : fem. zu sādhu. <!-- TODO: Fallback translation -->
+**sādhvī** f. = ⟪साध्वी⟫ : nőnemű a sādhu szóhoz.
 
-**gurvī** f. = ⟪गुर्वी⟫ : fem. zu guru. <!-- TODO: Fallback translation -->
+**gurvī** f. = ⟪गुर्वी⟫ : nőnemű a guru szóhoz.
 
-**asmitā** f. = ⟪अस्मिता⟫ : "Ich-bin-heit", d.h. der (falsche) Glaube: **Ich** bin es, der sieht usw. <!-- TODO: Fallback translation -->
+**asmitā** f. = ⟪अस्मिता⟫ : „én-lét”, azaz a (hamis) hit: **Én** vagyok az, aki lát stb.
 
-**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : Philosophie (die Wissenschaft, die durch logisch korrekte Begründungen zu ihren Schlussfolgerungen kommt). <!-- TODO: Fallback translation -->
+**ānvīkṣikī** f. = ⟪आन्वीक्षिकी⟫ : Filozófia (az a tudomány, amely logikailag helyes érvelések útján jut következtetéseihez).
 
-**upekṣā** f. = ⟪उपेक्षा⟫ : Nichtbeachtung, Gleichmut. <!-- TODO: Fallback translation -->
+**upekṣā** f. = ⟪उपेक्षा⟫: Figyelembe nem vétel, közöny.
 
-**karuṇā** f. = ⟪करुणा⟫ : Mitgefühl, Mitleid. <!-- TODO: Fallback translation -->
+**karuṇā** f. = ⟪करुणा⟫: Empátia, együttérzés.
 
-**muditā** f. = ⟪मुदिता⟫ : Freude, insbesondere Mitfreude (Gegensatz zu Neid). <!-- TODO: Fallback translation -->
+**muditā** f. = ⟪मुदिता⟫: Öröm, különösen örömködés mások boldogságán (a irigységgel szemben).
 
-## 3.7. Übung <!-- TODO: Fallback translation -->
+## 3.7. Gyakorlat
 
-**A) Setzen Sie folgende Sätze in den Plural:** <!-- TODO: Fallback translation -->
+**A) Alakítsa a következő mondatokat többes számra:**
 
-1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫ <!-- TODO: Fallback translation -->
-3. dvijo vaiśyaḥ = ⟪द्विजो⟫ ⟪वैश्यः⟫ <!-- TODO: Fallback translation -->
-4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-5. sādhur guruḥ = ⟪साधुर्गुरुः⟫ <!-- TODO: Fallback translation -->
-6. guruḥ kaviḥ = ⟪गुरुः⟫ ⟪कविः⟫ <!-- TODO: Fallback translation -->
-7. sādhvī brāhmaṇī = ⟪साध्वी⟫ ⟪ब्राह्मणी⟫ <!-- TODO: Fallback translation -->
-8. devatā guruḥ = ⟪देवता⟫ ⟪गुरुः⟫ <!-- TODO: Fallback translation -->
-9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫ <!-- TODO: Fallback translation -->
-10. gurvī sādhvī = ⟪गुर्वी⟫ ⟪साध्वी⟫ <!-- TODO: Fallback translation -->
+1. dvijo brāhmaṇaḥ = ⟪द्विजो⟫ ⟪ब्राह्मणः⟫
+2. dvijaḥ kṣatriyaḥ = ⟪द्विजः⟫ ⟪क्षत्रियः⟫
+3. dvijo vaiśyaḥ = ⟪द्विजो⟫ ⟪वैश्यः⟫
+4. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
+5. sādhur guruḥ = ⟪साधुर्गुरुः⟫
+6. guruḥ kaviḥ = ⟪गुरुः⟫ ⟪कविः⟫
+7. sādhvī brāhmaṇī = ⟪साध्वी⟫ ⟪ब्राह्मणी⟫
+8. devatā guruḥ = ⟪देवता⟫ ⟪गुरुः⟫
+9. paśur dhenuḥ = ⟪पशुर्धेनुः⟫
+10. gurvī sādhvī = ⟪गुर्वी⟫ ⟪साध्वी⟫
 
-**B) Bilden Sie durch Einsetzen Nominalsätze:** <!-- TODO: Fallback translation -->
+**B) Alakítsa névmondatokat a beillesztéssel:**
 
-1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫ <!-- TODO: Fallback translation -->
-2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫ <!-- TODO: Fallback translation -->
-3. devī ... (durgā, umā, indrāṇī) = ⟪देवी⟫ ... ⟪दुर्गा⟫, ⟪उमा⟫, ⟪इन्द्राणी⟫ <!-- TODO: Fallback translation -->
-4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫ <!-- TODO: Fallback translation -->
-5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫ <!-- TODO: Fallback translation -->
+1. śrutis ... (veda) = ⟪श्रुतिस्⟫ ... ⟪वेद⟫
+2. paśus ... (dhenu) = ⟪पशुस्⟫ ... ⟪धेनु⟫
+3. devī ... (durgā, umā, indrāṇī) = ⟪देवी⟫ ... ⟪दुर्गा⟫, ⟪उमा⟫, ⟪इन्द्राणी⟫
+4. devatā ... (mīnākṣī, annapūrṇā) = ⟪देवता⟫ ... ⟪मीनाक्षी⟫, ⟪अन्नपूर्णा⟫
+5. śūdrā ... (itarā) = ⟪शूद्रा⟫ ... ⟪इतरा⟫
 
-**C) Übertragen Sie ins Femininum:** <!-- TODO: Fallback translation -->
+**C) Alakítsa át nőnemre:**
 
-1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫ <!-- TODO: Fallback translation -->
-2. sādhur guruḥ = ⟪साधुर्गुरुः⟫ <!-- TODO: Fallback translation -->
-3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫ <!-- TODO: Fallback translation -->
+1. gurur brāhmaṇaḥ = ⟪गुरुर्ब्राह्मणः⟫
+2. sādhur guruḥ = ⟪साधुर्गुरुः⟫
+3. kṣatriyaḥ sādhuḥ = ⟪क्षत्रियः⟫ ⟪साधुः⟫
 
-**D) Übersetzen Sie ins Sanskrit:** <!-- TODO: Fallback translation -->
+**D) Fordítsa szanszktra:**
 
-1. Umā ist eine Göttin. <!-- TODO: Fallback translation -->
-2. Der Veda ist śruti. <!-- TODO: Fallback translation -->
-3. Die Lehrerinnen sind Göttinnen. <!-- TODO: Fallback translation -->
-4. Milchkühe sind domestizierte Tiere. <!-- TODO: Fallback translation -->
-5. Dichter sind Lehrer. <!-- TODO: Fallback translation -->
-6. Kṣatriyas sind Zweimalgeborene. <!-- TODO: Fallback translation -->
-7. Die heiligen Männer sind Śūdras. <!-- TODO: Fallback translation -->
+1. Umā ist egy istennő.
+2. A Veda śruti.
+3. A tanítónők istennők.
+4. Tehenek háziasított állatok.
+5. A költők tanítók.
+6. A kṣatriyák kétszer születettek.
+7. A szent férfiak śūdrák.
 

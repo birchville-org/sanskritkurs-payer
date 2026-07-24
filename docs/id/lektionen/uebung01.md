@@ -1,8 +1,10 @@
 ---
 title: "Latihan 1"
 uebung_id: 1
-category: "Latihan"
+category: "Übung"
 ---
+
+
 
 # Latihan 1
 

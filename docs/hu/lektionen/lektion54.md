@@ -1,274 +1,274 @@
 ---
-title: Lektion 54
-subtitle: "Vorbemerkung"
+title: 54. lecke
+subtitle: "Előzetes megjegyzés"
 lesson_id: 54
 last_reconstructed: 2026-05-21
-category: "Grammatik"
-status: stable
---- <!-- TODO: Fallback translation -->
+category: "Nyelvtan"
+status: stabil
+---
 
-# Lektion 54 <!-- TODO: Fallback translation -->
+# 54. lecke
 
-## 54.1. Vorbemerkung <!-- TODO: Fallback translation -->
+## 54.1. Előzetes megjegyzés
 
-Mit Lektion 54 beginnt im Universitätsunterricht das 2. Semester. Ab jetzt läuft der Kurs nur noch neben dem Hauptthema dieses Semesters: der Lektüre der ganzen Bhagavadgītā. Lernziel ist eine solche Geläufigkeit im Lesen eines mittelschweren Textes, dass im letzten Drittel des Semesters grosse Teile der Bhagavadgītā aus dem Stegreif übersetzt werden können. Zu Beginn wurden im Universitätsunterricht noch Wortlisten ausgeteilt, später mussten die Studierenden selbst entsprechende Wörterbücher (Monier-Williams, Apte, PW) benutzen. <!-- TODO: Fallback translation -->
+Az 54. leckével kezdődik az egyetemi oktatásban a 2. félév. Ettől fogva a kurzus csak párhuzamosan fut az aktuális félév fő témájával: a Bhagavadgītā teljes szövegének olvasásával. A tanulási cél egy olyan folyékonyaság elérése közepes nehézségű szöveg olvasásában, hogy a félév utolsó harmadában a Bhagavadgītā nagy része váratlanul, előadásból lefordítható legyen. Az elején az egyetemi oktatásban még szójegyzékeket osztottak ki, később a hallgatóknak maguknak kellett megfelelő szótárakat (Monier-Williams, Apte, PW) használniuk.
 
-Der Kurs zur Bhagavadgītā wird vorläufig noch nicht online zur Verfügung gestellt. <!-- TODO: Fallback translation -->
+A Bhagavadgītā kurz tanfolyam előzetesen még nem lesz elérhető online.
 
-Die Lektionen des Sanskritkurses behandeln Themen der Sanskritgrammatik, die bisher noch nicht behandelt wurden. <!-- TODO: Fallback translation -->
+A szanszkit kurzus leckeanyagai olyan szanszkit nyelvtani témákat tárgyalnak, amelyek eddig még nem kerültek feldolgozásra.
 
-## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desiderativstämme <!-- TODO: Fallback translation -->
+## 54.2. Szóképzés: ⟪कृत्⟫-suffixum -u a desideratív törzseken
 
 ::: grammar-box
-**An Desiderativstämme (⟪इच्छाप्रकृति⟫) ("etwas zu tun wünschen" ; "im Begriffe sein, etwas zu tun") tritt zur Bildung von Nomina agentis das Suffix -u.** <!-- TODO: Fallback translation -->
+**A desideratív törzsekhez (⟪इच्छाप्रकृति⟫) („valami megtevését kívánni”; „valamit éppen elhatározni”) a cselekvő neveket képezve az -u suffixum kapcsolódik.**
 
-(Bildung der Desiderativstämme folgt später) <!-- TODO: Fallback translation -->
+(A deszideratívstémák képzése később következik)
 
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
 :::
 ::: indent
-⟪युयुत्सु⟫ (yu-yudh + s + u) "kampfebegierig, im Begriffe, zu kämpfen" <!-- TODO: Fallback translation -->
+⟪युयुत्सु⟫ (yu-yudh + s + u) "harci vágyú, harcolni kész"
 :::
 ::: media
 ![](/images/lekt5402.webp)
-Abb.: ⟪अयुयुत्सुरर्जुनः⟫
+Ábr.: ⟪अयुयुत्सुरर्जुनः⟫
 ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
-(Bildquelle: [Details](/licenses#lekt5402)) <!-- TODO: Fallback translation -->
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5402))
 :::
-## 54.3. Metrik II: die epische ⟪त्रिष्टुभ्⟫ und die ⟪जगती⟫ <!-- TODO: Fallback translation -->
+## 54.3. Metrika II: az eposzi ⟪त्रिष्टुभ्⟫ és a ⟪जगती⟫
 
 ::: grammar-box
-Die ⟪त्रिष्टुभ्⟫ ("Drei-Jauchzer") erscheint in den Epen inmitten der üblichen ⟪श्लोक⟫-Partien gerade an Stellen, wo Stimmung oder Handlung einen besonderen Aufschwung oder Abschluss erfahren. <!-- TODO: Fallback translation -->
+A ⟪त्रिष्टुभ्⟫ ("három üvöltés") az eposzokban a szokásos ⟪श्लोक⟫ részek között éppen azokon a helyeken jelenik meg, ahol a hangulat vagy cselekmény különös emelkedést vagy lezárást tapasztal.
 
-Die ⟪त्रिष्टुभ्⟫-Strophe besteht aus vier elfsilbigen ⟪पाद⟫, die sich im Bau nicht voneinander unterscheiden. <!-- TODO: Fallback translation -->
+A ⟪त्रिष्टुभ्⟫-vers négy tizenegy szótagú ⟪पाद⟫-ból áll, amelyek szerkezetükben nem különböznek egymástól.
 
-Die ⟪त्रिष्टुभ्⟫ hat zwei Grundschemata, je nachdem, ob die Zäsur (Wortende, Kompositionsfuge oder vor bestimmten Suffixen wie -tara, -tama u.ä.) nach der 4. oder 5. Silbe des ⟪पाद⟫ steht. <!-- TODO: Fallback translation -->
+A ⟪त्रिष्टुभ्⟫-nak két alapvető sémája van, attól függően, hogy a caesura (szóvégi hely, összetételi határ vagy bizonyos képzők előtt, mint -tara, -tama stb.) a ⟪पाद⟫ negyedik vagy ötödik szótagja után következik-e.
 
-Schema I: <!-- TODO: Fallback translation -->
+I. séma:
 
 :::
 ::: metrik-schema
-× — × — / × ◡ — **— ◡ — —** <!-- TODO: Fallback translation -->
+× — × — / × ◡ — **— ◡ — —**
 :::
-Schema II: <!-- TODO: Fallback translation -->
+II. séma:
 
 ::: metrik-schema
-× — × — × / × ◡ **— ◡ — —** <!-- TODO: Fallback translation -->
+× — × — × / × ◡ **— ◡ — —**
 :::
-Die Quantität der vier letzten Silben ist also in beiden Schemata gleich. <!-- TODO: Fallback translation -->
+A négy utolsó szótag mennyisége tehát mindkét sémában azonos.
 
-⟪जगती⟫-Grundform: wie bei ⟪त्रिष्टुभ्⟫, aber 12-silbig. Die letzten 5 Silben jedes Pada heben folgende Quantitäten: <!-- TODO: Fallback translation -->
+⟪जगती⟫-alapforma: mint a ⟪त्रिष्टुभ्⟫ esetében, de 12 szótagú. Az egyes pada utolsó öt szótagja a következő mennyiségeket emeli ki:
 
 ::: metrik-schema
-**— ◡ — ◡ —** <!-- TODO: Fallback translation -->
+**— ◡ — ◡ —**
 :::
-Daneben gibt es die sog. typisch überzählige ⟪त्रिष्टुभ्⟫ mit fünfsilbigem Anfangsglied, die weitergeht wie eine ⟪त्रिष्टुभ्⟫ mit viersilbigem Anfangsglied: <!-- TODO: Fallback translation -->
+Mellette létezik az úgynevezett tipikusan fölösleges ⟪त्रिष्टुभ्⟫ ötszótagú kezdőrészével, amely továbbhalad egy ⟪त्रिष्टुभ्⟫ négy szótagú kezdőrészével:
 
 ::: metrik-schema
-— × — × / × ◡ — **— ◡ — —** <!-- TODO: Fallback translation -->
+— × — × / × ◡ — **— ◡ — —**
 :::
-In späterer Zeit werden die Formen der ⟪त्रिष्टुभ्⟫ festgelegt nach einem strengen Schema der Längen und Kürzen, die Zäsur spielt keine Rolle mehr. Die wichtigsten späteren Formen sind: <!-- TODO: Fallback translation -->
+Későbbi korban a ⟪त्रिष्टुभ्⟫ formáit szigorú hosszú-rövid sémák szerint rögzítik, a caesura már nem játszik szerepet. A legfontosabb későbbi formák a következők:
 
-a) ⟪इन्द्रवज्रा⟫ <!-- TODO: Fallback translation -->
-
-::: metrik-schema
-**—** — ◡ — , — ◡ ◡ — ◡ — — <!-- TODO: Fallback translation -->
-:::
-b) ⟪उपेन्द्रवज्रा⟫ <!-- TODO: Fallback translation -->
+a) ⟪इन्द्रवज्रा⟫
 
 ::: metrik-schema
-**◡** — ◡ — , — ◡ ◡ — ◡ — — <!-- TODO: Fallback translation -->
+**—** — ◡ — , — ◡ ◡ — ◡ — —
 :::
-c) ⟪उपजाति⟫ <!-- TODO: Fallback translation -->
+b) ⟪उपेन्द्रवज्रा⟫
+
+::: metrik-schema
+**◡** — ◡ — , — ◡ ◡ — ◡ — —
+:::
+c) ⟪उपजाति⟫
 
 ::: indent
-⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ und ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ sind in eine Strophe gemischt. <!-- TODO: Fallback translation -->
+⟪पाद⟫ in ⟪इन्द्रवज्रा⟫ és ⟪पाद⟫ in ⟪उपेन्द्रवज्रा⟫ keverednek egy strofába.
 :::
 ::: grammar-box
-**Merkverse:** <!-- TODO: Fallback translation -->
+**Emlékversek:**
 
-**⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫** <!-- TODO: Fallback translation -->
+**⟪स्यादिन्द्रवज्रा⟫ ⟪यदि⟫ ⟪तौ⟫ ⟪जगौ⟫ ⟪गः⟫ ⟪।⟫**
 
 :::
 ::: indent
-"Es ist eine Indravājrā, wenn die Silben in allen Pādas ta ta ja ga ga sind. <!-- TODO: Fallback translation -->
+"Az Indravajrā akkor áll fenn, ha az összes pādában a szótagok ta ta ja ga ga."
 :::
-⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪उपेन्द्रवज्रा⟫ ⟪प्रथमे⟫ ⟪लघौ⟫ ⟪सा⟫ ⟪।⟫
 
 ::: indent
-"Eine Upendravajrā ist wie eine Indravajrā, die am Anfang eine leichte Silben hat" <!-- TODO: Fallback translation -->
+"Az Upendravajrā olyan, mint az Indravajrā, amelynek elején egy könnyű szótag van."
 :::
 ⟪अनन्तरोदीरितलक्ष्मभाजौ⟫  
 ⟪पदौ⟫ ⟪यदीयावुपजातयस्ताः⟫ ⟪।⟫  
 ⟪इत्थं⟫ ⟪किलान्यास्वपिमिश्रितासु⟫  
-⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫ <!-- TODO: Fallback translation -->
+⟪वदन्ति⟫ ⟪जातिष्विदमिदमेवनाम⟫ ⟪॥⟫
 
 ::: indent
-"Wenn zwei Pādas, die die Merkmale von Indravajrā bzw. Upendravajrā haben, an einem Vers beteiligt sind, dann sind es Upajātis. Auch wenn andere Metren in einem Vers gemischt sind, nennt man es Upajāti." <!-- TODO: Fallback translation -->
+"Ha két pāda, amelyek az Indravajrā vagy Upendravajrā jellemzőit mutatják, egy versben részt vesznek, akkor azok Upajāti-k. Ha más metrumok keverednek egy versben, azt is Upajātinak nevezik."
 :::
-## 54.4. Übung zur Metrik <!-- TODO: Fallback translation -->
+## 54.4. Gyakorlat a metrikáról
 
-Bestimmen Sie in Bhagavadgītā II Triṣṭubhs und Jagatīs. <!-- TODO: Fallback translation -->
+Határozza meg a Bhagavadgītā II. fejezetében a Triṣṭubh és Jagatī metrumokat.
 
-Beispiel einer Rezitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Zugriff am 2009-01-28 <!-- TODO: Fallback translation -->
+Példa egy recitációra: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Hozzáférés: 2009-01-28
 
-## 54.5. Bildungstypen des Aorist (⟪लुङ्⟫) <!-- TODO: Fallback translation -->
+## 54.5. Az aoristus képzési típusai (⟪लुङ्⟫)
 
 ::: grammar-box
-**Gemeinsam ist allen Bildungstypen des Aorist (⟪लुङ्⟫) das Augment a-, das nach den gleichen Regeln wie im Imperfekt (⟪लङ्⟫) vorgesetzt wird.** <!-- TODO: Fallback translation -->
+**Minden aoristus képzési típus (⟪लुङ्⟫) közös vonása az a- augmentum, amely ugyanazok szerint a szabályok szerint kerül előrébe, mint az imperfectumban (⟪लङ्⟫).**
 
-Vom Aorist sind im Sanskrit nur Indikativ und Prekativ gebvräuchlich. <!-- TODO: Fallback translation -->
+Az aoristből szanszkritban csak az indikativus és prekativus használatos.
 :::
 ::: grammar-box
-**Es gibt folgende Bildungstypen des Aorist (⟪लुङ्⟫):** <!-- TODO: Fallback translation -->
+**Az alábbi aoristalkotási típusok léteznek (⟪लुङ्⟫):**
 
-1.  Nichtsibilantische (asigmatische) Aoriste:  <!-- TODO: Fallback translation -->
-    *   54.1. Tőaorist: Augment + Tő + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.2. Themavokalischer Aorist: Augment + Tő + **a** + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.3. Reduplizierter Aorist: Augment + **reduplizierte** Tő + **a** + Sekundärendung  <!-- TODO: Fallback translation -->
-2.  Sibilantische (sigmatische Aoriste: s oder eine Silbe, die s (ṣ) enthält tritt vor die Personalendung  <!-- TODO: Fallback translation -->
-    *   54.4. -s-Aorist: Augment + Tő + **s** \+ Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.5. -iṣ-Aorist: Augment + Tő + **i** + **ṣ** + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.6. -siṣ-Aorist: Augment + Tő + **siṣ** + Sekundärendung <!-- TODO: Fallback translation -->
-    *   54.7. -sa-Aorist: Augment + Tő + **s** + **a** + Sekundärendung <!-- TODO: Fallback translation -->
+1. Nem szibiláns (aszimata) aoristok:
+*   54.1. Tő-aorist: Augmentum + tő + szekunder végződés
+*   54.2. Témavokális aorist: Augmentum + tő + **a** + szekunder végződés
+*   54.3. Reduplikált aorist: Augmentum + **reduplikált** tő + **a** + szekunder végződés
+2. Szibiláns (szimata) aoristok: az s vagy egy s-t (ṣ) tartalmazó szótag előzi meg a személyvégződést
+*   54.4. -s-aorist: Augmentum + tő + **s** \+ szekunder végződés
+*   54.5. -iṣ-aorist: Augmentum + tő + **i** + **ṣ** + szekunder végződés
+*   54.6. -siṣ-aorist: Augmentum + tő + **siṣ** + szekunder végződés
+*   54.7. -sa-aorist: Augmentum + tő + **s** + **a** + szekunder végződés
 
-Verteilung der Wurzeln auf die einzelnen Bildungstypen siehe bei den einzelnen Typen <!-- TODO: Fallback translation -->
+A gyökök eloszlását az egyes alkotási típusok között lásd a megfelelő fejezetekben
 :::
-## 54.6. Wurzelaorist <!-- TODO: Fallback translation -->
+## 54.6. Tő-aorist
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Alkotás:**
 
-**Augment + Wurzel + Sekundärendung** <!-- TODO: Fallback translation -->
+**Augment + Tő + Másodlagos végződés**
 :::
-Endung der 3.pl.P ist -ur. Ātmanepada ist nicht gebräuchlich. <!-- TODO: Fallback translation -->
+A 3. sz. többes szám végződése: -ur. Az Ātmanepada nem használatos.
 
-Beispiel: <!-- TODO: Fallback translation -->
+Példa:
 
-⟪पा⟫ 1P "trinken" <!-- TODO: Fallback translation -->
+⟪पा⟫ 1P "inni"
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ | <!-- TODO: Fallback translation -->
-| 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ | <!-- TODO: Fallback translation -->
-| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) | <!-- TODO: Fallback translation -->
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| --- | --- | --- |
+| 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
+| 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
+| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Gyengített fok!) |
 :::
-Nur von 12 Wurzeln wird der Wurzelaorist gebildet: <!-- TODO: Fallback translation -->
+Csak 12 tőből képezik a gyogorist:
 
-1.  ⟪गा⟫ 3 "gehen" <!-- TODO: Fallback translation -->
-2.  ⟪घ्रा⟫ 1P "riechen" <!-- TODO: Fallback translation -->
-3.  ⟪छो⟫ 6 "schneiden" (⟪अच्छात्⟫) <!-- TODO: Fallback translation -->
-4.  ⟪दा⟫ 3U "geben" <!-- TODO: Fallback translation -->
-5.  ⟪दो⟫  1, 4 "schneiden" <!-- TODO: Fallback translation -->
-6.  ⟪धा⟫ 3U "setzen" <!-- TODO: Fallback translation -->
-7.  ⟪धे⟫ 1 "saugen" (⟪अधात्⟫) <!-- TODO: Fallback translation -->
-8.  ⟪पा⟫ 1P "trinken" <!-- TODO: Fallback translation -->
-9.  ⟪शो⟫ 4P "schärfen" <!-- TODO: Fallback translation -->
-10.  ⟪सो⟫ "beendigen" <!-- TODO: Fallback translation -->
-11.  ⟪स्था⟫ 1P "stehen" <!-- TODO: Fallback translation -->
-12.  ⟪भू⟫ 1P "sein <!-- TODO: Fallback translation -->
+1. ⟪गा⟫ 3 "menni"
+2. ⟪घ्रा⟫ 1P "szagolni"
+3. ⟪छो⟫ 6 "vágni" (⟪अच्छात्⟫)
+4. ⟪दा⟫ 3U "adni"
+5. ⟪दो⟫ 1, 4 "vágni"
+6. ⟪धा⟫ 3U "helyez"
+7. ⟪धे⟫ 1 "szív" (⟪अधात्⟫)
+8. ⟪पा⟫ 1P "inni"
+9. ⟪शो⟫ 4P "élesít"
+10. ⟪सो⟫ "befejez"
+11. ⟪स्था⟫ 1P "áll"
+12. ⟪भू⟫ 1P "lenni"
 
-Zu ⟪भू⟫ 1P wird der Wurzelaorist so gebildet: <!-- TODO: Fallback translation -->
+A ⟪भू⟫ 1P gyöki aorist így képződik:
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | <!-- TODO: Fallback translation -->
-| --- | --- | --- | <!-- TODO: Fallback translation -->
-| 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ | <!-- TODO: Fallback translation -->
-| 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ | <!-- TODO: Fallback translation -->
-| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | sig[⟪अभूवन्⟫] (!!!) | <!-- TODO: Fallback translation -->
+| | ⟪एकवचनम्⟩ | ⟪बहुवचनम्⟩ |
+| --- | --- | --- |
+| 1\. ⟪तृतीयः⟩ | ⟪अभूवम्⟩ | ⟪अभूम⟩ |
+| 2\. ⟪मध्यमः⟩ | ⟪अभू्स्⟩ | ⟪अभूत⟩ |
+| 3\. ⟪प्रथमः⟩ | ⟪अभूत्⟩ | sig[⟪अभूवन्⟩] (!!!) |
 :::
-### 54.6.1. Der Aorist der 3.sg.Passiv <!-- TODO: Fallback translation -->
+### 54.6.1. A 3.sg.passzív aorist
 
-Eine Spezialform des Wurzelaorist ist der Aorist der 3.sg.Passiv. Dieser kann von allen Wurzeln gebildet werden. <!-- TODO: Fallback translation -->
+Az igei gyök aoristjának egy speciális formája a 3.sg.passzív aorist. Ez minden gyökből képezhető.
 
 ::: grammar-box
-**Bildung:** <!-- TODO: Fallback translation -->
+**Képzés:**
 
-**Augment + Wurzel + i** <!-- TODO: Fallback translation -->
+**Augment + Tő + i**
 
-**Die Wurzel hat folgende Gestalt:** <!-- TODO: Fallback translation -->
+**A tő a következő alakot ölti:**
 
-Hochstufe: <!-- TODO: Fallback translation -->
+Magas fok:
 
-*   Tőn mit kurzem Vokal (ausser a) vor einfachem Konsonanten sowie ⟪जन्⟫ und die meisten Tőn auf -am   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪भिद्⟫ 7U: ⟪अभेदि⟫ "er wurde gespalten"  
-    ⟪तुद्⟫ 6U: ⟪अतोदि⟫ "er wurde gestossen" <!-- TODO: Fallback translation -->
+*   Tőn rövid magánhangzóval (kivéve az a-t) egyszerű mássalhangzó előtt, valamint ⟪जन्⟫ és a legtöbb -am végződésű tő
+Példák:  
+⟪भिद्⟫ 7U: ⟪अभेदि⟫ „megosztották”  
+⟪तुद्⟫ 6U: ⟪अतोदि⟫ „megdöftek”
 
-Dehnstufe: <!-- TODO: Fallback translation -->
+Hosszított fok:
 
-*   Tőn mit auslautendem Vokal   <!-- TODO: Fallback translation -->
-    Beispiele:  
-    ⟪नी⟫ 1U: ⟪अनायि⟫ "er wurde geführt"  
-    ⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "sie wurde gelobt"  
-    ⟪कृ⟫ 8U: ⟪अकारि⟫ "es wurde gemacht"   <!-- TODO: Fallback translation -->
+*   Tőn kiejtett magánhangzóval
+Példák:  
+⟪नी⟫ 1U: ⟪अनायि⟫ „vezették”  
+⟪स्तु⟫ 2U: ⟪अस्तावि⟫ „dicsérték”  
+⟪कृ⟫ 8U: ⟪अकारि⟫ „elkészítették”
 
-*   Tőn mit a vor einfachem Konsonanten (ausser ⟪जन्⟫ und Tőn auf -am)   <!-- TODO: Fallback translation -->
-    Beispiel:  
-    ⟪वद्⟫ 1P: ⟪अवादि⟫ "es wurde gesagt"  
-    aber:  
-    ⟪जन्⟫ 4Ā: ⟪अजनि⟫ "sie wurde geboren"   <!-- TODO: Fallback translation -->
+*   Tőn a-val egyszerű mássalhangzó előtt (kivéve ⟪जन्⟫ és a -am végződésű tőket)
+Példa:  
+⟪वद्⟫ 1P: ⟪अवादि⟫ „mondták”  
+de:  
+⟪जन्⟫ 4Ā: ⟪अजनि⟫ „született”
 
-*   einige Tőn auf -am   <!-- TODO: Fallback translation -->
-    Beispiel:  
-    ⟪गम्⟫ ⟪अगामि⟫ <!-- TODO: Fallback translation -->
+*   néhány gyökér -am végződésű
+Példa:  
+⟪गम्⟫ ⟪अगामि⟫
 
-Einschub von y vor Endung: <!-- TODO: Fallback translation -->
+y betű beillesztése a végződés elé:
 
-*   Tőn auf -ā, -e, -ai, -o schieben zwischen das -ā der Tő und die Végződés ein y ein:   <!-- TODO: Fallback translation -->
-    Beispiel:  
-    ⟪दा⟫ 3U: ⟪अदायि⟫ "es wurde gegeben" <!-- TODO: Fallback translation -->
+*   -ā, -e, -ai, -o végződésű gyököknél az -ā és a végződés közé y-t illesztünk be:
+Példa:  
+⟪दा⟫ 3U: ⟪अदायि⟫ "adott"
 
-Nasalinfix: <!-- TODO: Fallback translation -->
+Nazális infixum:
 
-*   einige Tőn haben ein Nasalinfix:   <!-- TODO: Fallback translation -->
-    Beispiel:  
-    ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ neben ⟪अलाभि⟫ : "es wurde empfangen" <!-- TODO: Fallback translation -->
+*   egyes hangok egy nazális infixumot tartalmaznak:
+Példa:  
+⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ mellett ⟪अलाभि⟫ : „felvették”
 
-(Die übrigen Formen des Passiv werden im Aorist durch Ātmanepada-formen wiedergegeben). <!-- TODO: Fallback translation -->
+(A passzív többi alakját az aoristban ātmanepada-alakokkal adják vissza).
 :::
-## 54.7. Übung <!-- TODO: Fallback translation -->
+## 54.7. Gyakorlat
 
-Übersetzen Sie schriftlich folgende Formen und bilden Sie die entsprechenden Aoristformen: <!-- TODO: Fallback translation -->
+Fordítsa le írásban a következő alakokat, és képezze hozzájuk a megfelelő aorist-alakokat:
 
-1.  ⟪यन्ति⟫ <!-- TODO: Fallback translation -->
-2.  ⟪पिबामि⟫ <!-- TODO: Fallback translation -->
-3.  ⟪ददौ⟫ <!-- TODO: Fallback translation -->
-4.  ⟪बभूव⟫ <!-- TODO: Fallback translation -->
-5.  ⟪दधति⟫ <!-- TODO: Fallback translation -->
-6.  ⟪ऐम⟫ <!-- TODO: Fallback translation -->
-7.  ⟪पपिथ⟫ <!-- TODO: Fallback translation -->
-8.  ⟪तिष्ठति⟫ <!-- TODO: Fallback translation -->
-9.  ⟪इयेथ⟫ <!-- TODO: Fallback translation -->
-10.  ⟪पप⟫ <!-- TODO: Fallback translation -->
-11.  ⟪एष्यथ⟫ <!-- TODO: Fallback translation -->
-12.  ⟪तस्थुः⟫ <!-- TODO: Fallback translation -->
-13.  ⟪अधत्त⟫ <!-- TODO: Fallback translation -->
-14.  ⟪अददाः⟫ <!-- TODO: Fallback translation -->
-15.  ⟪अभवन्⟫ <!-- TODO: Fallback translation -->
-16.  ⟪ददिम⟫ <!-- TODO: Fallback translation -->
-17.  ⟪भिद्यते⟫ <!-- TODO: Fallback translation -->
-18.  ⟪उद्यते⟫ <!-- TODO: Fallback translation -->
-19.  ⟪स्तूयते⟫ <!-- TODO: Fallback translation -->
-20.  ⟪कृष्यते⟫ <!-- TODO: Fallback translation -->
-21.  ⟪जायते⟫ (Pass.) <!-- TODO: Fallback translation -->
-22.  ⟪गीयते⟫ <!-- TODO: Fallback translation -->
-23.  ⟪गम्यते⟫ <!-- TODO: Fallback translation -->
+1.  ⟪यन्ति⟫
+2.  ⟪पिबामि⟫
+3.  ⟪ददौ⟫
+4.  ⟪बभूव⟫
+5.  ⟪दधति⟫
+6.  ⟪ऐम⟫
+7.  ⟪पपिथ⟫
+8.  ⟪तिष्ठति⟫
+9.  ⟪इयेथ⟫
+10.  ⟪पप⟫
+11.  ⟪एष्यथ⟫
+12.  ⟪तस्थुः⟫
+13.  ⟪अधत्त⟫
+14.  ⟪अददाः⟫
+15.  ⟪अभवन्⟫
+16.  ⟪ददिम⟫
+17.  ⟪भिद्यते⟫
+18.  ⟪उद्यते⟫
+19.  ⟪स्तूयते⟫
+20.  ⟪कृष्यते⟫
+21.  ⟪जायते⟫ (passzív)
+22.  ⟪गीयते⟫
+23.  ⟪गम्यते⟫
 
 ::: media
 ![](/images/lekt5401.webp)
-Abb.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
-Tamil Nadu
-(Bildquelle: [Details](/licenses#lekt5401)) <!-- TODO: Fallback translation -->
+Kép: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
+Tamilnádu
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5401))
 :::
 
 ::: deleteme-box
 
-**lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Bildquelle: Raji Srinivas / Wikipedia. GNU FDLicense] <!-- TODO: Fallback translation -->
+**lekt5402:** ⟪भगवद्गीतोपदेशः⟩ Tirupati = తిరుపతి [Képmegjelenítés forrása: Raji Srinivas / Wikipedia. GNU FDLicense]
 
-**lekt5401:** Tamil Nadu [Bildquelle: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Zugriff am 2009-01-28. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, shre alike)] <!-- TODO: Fallback translation -->
+**lekt5401:** Tamil Nadu [Képmegjelenítés forrása: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Hozzáférés: 2009-01-28. -- [Creative Commons Licenc](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Nevesítés, nem kereskedelmi felhasználás, shre alike)]
 
 :::
 

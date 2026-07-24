@@ -1,152 +1,107 @@
 ---
-title: Pelajaran 7
-subtitle: "Kalimat Verba dengan Objek Langsung"
+title: "# Pelajaran 7"
+subtitle: "Den Verbalsatz mit direktem Objekt"
 lesson_id: 7
 last_reconstructed: 2026-05-07
-category: "Tata Bahasa"
+category: "Grammatik"
 status: stable
 ---
 
+
+
 # Pelajaran 7
-
-
 
 ::: deleteme-box
 **Dalam pelajaran ini Anda akan mempelajari:**
-- Kalimat verba dengan objek langsung
+- Kalimat verbal dengan objek langsung
 - Akusatif untuk nomina dan pronomina
 - Sandhi dari akhiran -n
-- Neutrum dari stem-a
+- Neutrum untuk stem a-
 - Kelas-kelas present athematic (sebagai contoh kelas 5)
-
 :::
-## Kutipan Mingguan
 
+::: center
+**Ucapan Mingguan**
+:::
 
 
 ::: center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
-⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ |
+⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
-⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ||
+⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ⟪||⟫
 
 **dharmo jayati nādharmaḥ**
 **satyaṃ jayati nānṛtam |**
 **kṣamā jayati na krodho**
 **devo jayati nāsuraḥ ||**
 
+Keadilan menang, bukan ketidakadilan,
 Kebenaran menang, bukan ketidakbenaran,
-Kebenaran menang, bukan ketidakjujuran,
-Kesabaran menang, bukan kemarahan,
-Tuhan menang, bukan dewa palsu.
-
+Kesabaran menang, bukan amarah,
+Dewa menang, bukan anti-dewa.
 :::
----
+
 
 ## 7.1. Kalimat verbal dengan objek langsung
 
-
-
 ::: grammar-box
 **Skema:**
-**(Agens = kartṛ m. = ⟪कर्तृ⟫) – objek langsung (karman n. = ⟪कर्मन्⟫) – kata kerja**
+**(Agent = kartṛ m. = ⟪कर्तृ⟫) – objek langsung (karman n. = ⟪कर्मन्⟫) – kata kerja**
 
-Mis.:
-- **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma memakan (mengunyah) sebuah buah."
-- **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Sang Brāhmaṇa memuja seorang dewa dengan persembahan (untuk orang lain)."
-
+misalnya
+- **rāmaḥ phalaṃ khādati** = ⟪रामः⟫ ⟪फलं⟫ ⟪खादति⟫ : "Rāma memakan (makan) sebuah buah."
+- **brāhmaṇo devaṃ yajati** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ : "Seorang Brahmana menyembah seorang dewa dengan sebuah persembahan (untuk seseorang)."
 :::
-Apakah kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsung (**karman** n. = ⟪कर्मन्⟫) umumnya berada dalam **Akkusativ** (Kasus Kedua, dvitīyā f. = ⟪द्वितीया⟫).
-
----
-
-## 7.2. Akusatif (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "akhiran kasus kedua")
+Jika kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsung (**karman** n. = ⟪कर्मन्⟫) umumnya berada dalam **Akusatif** (Kasus kedua, dvitīyā f. = ⟪द्वितीया⟫).
 
 
+## 7.2. Akusatif (Kasus kedua, dvitīyā f. = ⟪द्वितीया⟫ = "akhiran kasus kedua")
 
 ::: grammar-box
-**Akhiran Akusatif Singular Maskulinum dan Femininum setelah Vokal: -m**
+**Akhiran Akusatif Singular Maskulinum dan Feminin setelah Vokal: -m**
 
-
-
-| Maskulina pada | Akusatif Singular |
-
+| Maskulin berakhir dengan | Akusatif Singular |
 | :--- | :--- |
-
-| **-a**: deva | **devam**:br⟪देवम्⟫ |
-
-| **-i**: kavi | **kavim**:br⟪कविम्⟫ |
-
-| **-u**: guru | **gurum**:br⟪गुरुम्⟫ |
-
-
-
-| Feminina pada | Akusatif Singular |
-
-| :--- | :--- |
-
-| **-ā**: devatā | **devatām**:br⟪देवताम्⟫ |
-
-| **-i**: śruti | **śrutim**:br⟪श्रुतिम्⟫ |
-
-| **-ī**: devī | **devīm**:br⟪देवीम्⟫ |
-
-| **-u**: dhenu | **dhenum**:br⟪धेनुम्⟫ |
-
+| **-a**: deva | **devam** :br⟪देवम्⟫ |
+| **-i**: kavi | **kavim** :br⟪कविम्⟫ |
+| **-u**: guru | **gurum** :br⟪गुरुम्⟫ |
+| Feminin berakhir dengan | Akusatif Singular |
+| **-ā**: devatā | **devatām** :br⟪देवताम्⟫ |
+| **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ |
+| **-ī**: devī | **devīm** :br⟪देवीम्⟫ |
+| **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ |
 :::
 ::: grammar-box
-**Akkusatif jamak maskulin dari stem vokal (kecuali: stem akar monosilabis dengan vokal panjang): Panjangkan vokal akhir + -n**
+**Akusatif Plural Maskulinum dari stem berakhir dengan Vokal (kecuali: stem akar satu suku kata dengan vokal panjang): Perpanjangan vokal akhir + -n**
 
-
-
-| Maskulin pada | Akusatif Jamak |
-
+| Maskulin berakhir dengan | Akusatif Plural |
 | :--- | :--- |
-
-| **-a**: deva | **devān**:br⟪देवान्⟫ |
-
-| **-i**: kavi | **kavīn**:br⟪कवीन्⟫ |
-
-| **-u**: guru | **gurūn**:br⟪गुरून्⟫ |
-
+| **-a**: deva | **devān** :br⟪देवान्⟫ |
+| **-i**: kavi | **kavīn** :br⟪कवीन्⟫ |
+| **-u**: guru | **gurūn** :br⟪गुरून्⟫ |
 :::
 ::: grammar-box
-**Akkusatif Plural Femininum dari Stamm yang berakhiran vokal (kecuali: akar monosilabis dengan vokal panjang): Panjangan vokal akhir + -s**
+**Akusatif Plural Feminin dari stem berakhir dengan Vokal (kecuali: stem akar satu suku kata dengan vokal panjang): Perpanjangan vokal akhir + -s**
 
-
-
-| Feminina pada | Akusatif Jamak |
-
+| Feminin berakhir dengan | Akusatif Plural |
 | :--- | :--- |
-
-| **-ā**: devatā | **devatās**:br⟪देवतास्⟫ |
-
-| **-i**: śruti | **śrutīs**:br⟪श्रुतीस्⟫ |
-
-| **-ī**: devī | **devīs**:br⟪देवीस्⟫ |
-
-| **-u**: dhenu | **dhenūs**:br⟪धेनूस्⟫ |
-
+| **-ā**: devatā | **devatās** :br⟪देवतास्⟫ |
+| **-i**: śruti | **śrutīs** :br⟪श्रुतीस्⟫ |
+| **-ī**: devī | **devīs** :br⟪देवीस्⟫ |
+| **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
----
 
-### 7.2.1. Akusatif Tunggal dan Jamak dari Kata Ganti Interogatif dan Demonstratif
-
-
+### 7.2.1. Akusatif Singular dan Plural dari kata ganti tanya dan demonstratif
 
 ::: grammar-box
-
-| | | Maskulinum | Femininum | Neutrum |
-
+| || Maskulinum | Femininum | Neutrum |
 | :--- | :--- | :--- | :--- | :--- |
+| **kim** :brsiapa/apa | sg. | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
+| | pl. | **kān** :br⟪कान्⟫ | **kās** :br⟪कास्⟫ | **kāni** :br⟪कानि⟫ |
+| **tad** :brdia/itu | sg. | **tam** :br⟪तम्⟫ | **tām** :br⟪ताम्⟫ | **tad** :br⟪तद्⟫ |
+| | pl. | **tān** :br⟪तान्⟫ | **tās** :br⟪तास्⟫ | **tāni** :br⟪तानि⟫ |
 
-| **kim**:brsiapa/apa | sg. | **kam**:br⟪कम्⟫ | **kām**:br⟪काम्⟫ | **kim**:br⟪किम्⟫ |
-
-| | jamak | **kān**:br⟪कान्⟫ | **kās**:br⟪कास्⟫ | **kāni**:br⟪कानि⟫ |
-
-| **tad**:brdia/ia/itu | sg. | **tam**:br⟪तम्⟫ | **tām**:br⟪ताम्⟫ | **tad**:br⟪तद्⟫ |
-
-| | jamak | **tān**:br⟪तान्⟫ | **tās**:br⟪तास्⟫ | **tāni**:br⟪तानि⟫ |
 
 | **etad**:brini ini | sg. | **etam / enam**:br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām**:br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad**:br⟪एतद्⟫ / ⟪एनद्⟫ |
 
@@ -205,194 +160,156 @@ mis. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Ia mempero
    contoh: **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : "dan para dewa (Akusatif)"
    **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : "tetapi para dewa (Akusatif)"
 
-4. Kecuali setelah vokal pendek (lihat nanti), akhiran **-n** dalam semua kasus lainnya tetap tidak berubah.
-
-:::
----
-
-## 7.4. Kata Benda Netral (napuṃsaka n. = ⟪नपुंसक⟫)
-
-
 
 ::: grammar-box
-**Dalam neutrum, bentuk untuk Nominatif (prathamā) dan Akkusatif (dvitīyā) adalah identik.**
-
+**Dalam neutrum, bentuk untuk Nominatif (prathamā) dan Akusativ (dvitīyā) adalah identik.**
 :::
-### 7.4.1. Netral dari Akar yang Berakhiran -a
-
-
+### 7.4.1. Neutrum dari Stamm yang berakhiran -a
 
 ::: grammar-box
-- **Akhiran Nominatif / Akusatif Singular: -m**
-  mis. **phala** n. = ⟪फल⟫ = "buah": Nom. / Ak. sg. **phalam** = ⟪फलम्⟫
-- **Akhiran Nominatif / Akusatif Plural: -āni**
-  mis. **phala** n. = ⟪फल⟫: Nom. / Ak. pl. **phalāni** = ⟪फलानि⟫
-
+- **Akhiran Nominatif / Akusativ Singular: -m**
+mis. **phala** n. = ⟪फल⟫ = "buah": Nom. / Akk. sg. **phalam** = ⟪फलम्⟫
+- **Akhiran Nominatif / Akusativ Plural: -āni**
+mis. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
 :::
----
 
-## 7.5. Kelas-kelas Presenti Atematik
+## 7.5. Kelas Präsens Athematis
 
-Kelas ke-5 Präsens membentuk apa yang disebut batang Präsens athematic, yaitu batang Präsens tidak berakhir dengan "vokal tema" **-a** seperti pada kelas Präsens thematic (kelas 1., 4., 6., 10.).
-
-
+Kelas Präsens ke-5 membentuk apa yang disebut Stamm Präsens athematis, yaitu Stamm Präsens tidak berakhir dengan "vokal tema" **-a** seperti pada kelas-kelas Präsens tematis (kelas 1., 4., 6., 10.).
 
 ::: grammar-box
-**Kelas-kelas present tanpa afiks memiliki ablasi akar, yaitu terdapat dua bentuk akar present:**
-1. **akar kuat**: tingkat tinggi (jarang tingkat panjang)
-2. **akar lemah**: tingkat rendah
+**Kelas-kelas Präsens athematis memiliki ablasi Stamm, yaitu terdapat dua bentuk Stamm Präsens:**
+1. **Stamm kuat**: tingkat tinggi (jarang tingkat panjang)
+2. **Stamm lemah**: tingkat rendah
 
-**Batang yang kuat terdapat:**
-- dalam Indikatif Singular Parasmaipada Präsens (laṭ) dan Imperfekt (laṅ)
+**Stamm kuat digunakan:**
+- dalam Indikativ Singular Parasmaipada Präsens (laṭ) dan Imperfekt (laṅ)
 - semua orang pertama dari Imperativ (loṭ) Parasmaipada dan Ātmanepada
 - dalam orang ketiga Singular Imperativ (loṭ) Parasmaipada
 
-**Semua bentuk lain memiliki batang present tense lemah.**
-
+**Semua bentuk lainnya memiliki Stamm Präsens lemah.**
 :::
-### 7.5.1. Akhiran primer untuk Orang Ketiga Jamak pada Stamm yang Athematic
-
-
+### 7.5.1. Akhiran Primer orang ketiga Plural pada Stamm athematis
 
 ::: grammar-box
-**Untuk akar present tanpa tema, akhiran primer untuk orang ketiga jamak adalah:**
+**Pada Stamm Präsens athematis, akhiran primer orang ketiga Plural berbunyi:**
 - **Parasmaipada: -anti**
 - **Ātmanepada: -ate**
 :::
-### 7.5.2. Kelas ke-5 dari Kalimat Sekarang (svādi = ⟪स्वादि⟫ = "su dll.")
-
-
+### 7.5.2. Kelas Präsens ke-5 (svādi = ⟪स्वादि⟫ = "su dll.")
 
 ::: grammar-box
-- **Stamm Kuat**: (biasanya) akar dengan tingkat nada rendah (seperti disebutkan) + **-no-**
-- **Stamm Lemah**: (biasanya) akar dengan tingkat nada rendah (seperti disebutkan) + **-nu-**
+- **Stamm kuat**: (paling sering) akar tingkat rendah (seperti disebutkan) + **-no-**
+- **Stamm lemah**: (paling sering) akar tingkat rendah (seperti disebutkan) + **-nu-**
 
-**Di akhiran vokal, untuk akar yang berakhir dengan vokal, -nu- diganti dengan -nv-, sedangkan untuk akar yang berakhir dengan konsonan, -nu- diganti dengan -nuv- di depan akhiran vokal.**
-
+**Sebelum akhiran vokal, pada akar yang berakhiran vokal -nu- diganti dengan -nv-, dan pada akar yang berakhiran konsonan sebelum akhiran vokal -nu- diganti dengan -nuv-.**
 :::
 **Contoh:**
 
-
-
-| Akar:br⟪धातु⟫ | Bentuk Kuat | Bentuk Lemah | Sebelum Vokal:br(lemah) |
-
+| Akar:br⟪धातु⟫ | Stamm kuat | Stamm lemah | Sebelum Vokal:br(lemah) |
 | :--- | :--- | :--- | :--- |
+| **āp** :br5 P:br⟪आप्⟫:br"mencapai" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
+| **aś** :br5 Ā:br⟪अश्⟫:br"mencapai" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
+| **su** :br5 U:br⟪सु⟫:br"memeras" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
+| **śru** :br5 P:br⟪श्रु⟫:br"mendengar" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
-| **āp**:br5 P:br⟪आप्⟫:br"mencapai" | **āp-no**:br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv**:br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
-
-| **aś**:br5 Ā:br⟪अश्⟫:br"mencapai" | — | **aś-nu**:br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv**:br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
-
-| **su**:br5 U:br⟪सु⟫:br"memeras" | **su-no**:br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu**:br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv**:br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
-
-| **śru**:br5 P:br⟪श्रु⟫:br"mendengar" | **śṛ-ṇo**:br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv**:br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
-
----
 
 ## 7.6. Daftar Kata
 
 **Pelajari kata-kata berikut:**
 
-- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : mencapai, tiba di, memperoleh
+- **aś** 5 Ā (aśnute) ⟪अश्⟫ ⟪अश्नुते⟫ : mencapai, mendapatkan, memperoleh
 - **āp** 5 P (āpnoti) ⟪आप्⟫ ⟪आप्नोति⟫ : mencapai, memperoleh
 - **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : marah
 - **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : marah
 - **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : mengunyah, makan
-- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : mendengar (sesuatu: Akusatif, seseorang: Genitif atau Akusatif; tentang: Akusatif; dari seseorang: Genitif, Ablatif, Instrumentalis)
+- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : mendengar (sesuatu: Akusatif, seseorang: Genetif atau Akusatif; tentang: Akusatif; dari seseorang: Genetif, Ablatif, Instrumentalis)
 - **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : memeras
 - **soma** m. ⟪सोम⟫ : minuman perasan, Soma; Bulan (Dari tanaman mana Soma diperas masih diperdebatkan hingga hari ini).
 
 ::: media
 ![](/images/lekt0701.webp)
-Gambar: Apakah ini tanaman soma Weda?: Jamur fly agaric: *Amanita muscaria* (L.) Lam.
-(Sumber gambar: [Detail](/id/licenses#lekt0701))
-
+Fig.: Apakah itu tanaman soma Weda?: Jamur fly agaric: *Amanita muscaria* (L.) Lam.
+(Sumber gambar: [Details](/id/licenses#lekt0701))
 :::
-- **phala** n. ⟪फल⟫ : Buah (juga dalam makna kiasan: (karmik) Buah dari sebuah tindakan)
-- **nṛtya** n. ⟪नृत्य⟫ : Tari
-- **svarga** m. ⟪स्वर्ग⟫ : Langit
-- **naraka** m. ⟪नरक⟫ : Neraka (menurut pandangan Hindu, alam semesta memiliki bentuk seperti telur (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Telur Brahmā"): di atas bumi terdapat enam langit dengan kebahagiaan yang meningkat, di bawah bumi terdapat tujuh yang disebut **pātāla** n. = ⟪पाताल⟫, tempat tinggal **nāga** m. = ⟪नाग⟫ (ular) dan makhluk mitologis lainnya, di sana terdapat 7 neraka dengan siksaan yang meningkat)
-- **aṅga** n. ⟪अङ्ग⟫ : Anggota tubuh, bagian; juga = **vedāṅga** = ⟪वेदाङ्ग⟫
-- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : pergi (Menurut klasifikasi verba lokal termasuk dalam kelas present 1, namun sebenarnya merupakan bentuk yang dibentuk dengan sufiks pembentukan stem present **-ccha-**: **gam** » tingkat rendah (**gm** ») **ga-ccha-ti**)
+- **phala** n. ⟪फल⟫ : buah (juga dalam makna kiasan: hasil (karmik) dari suatu tindakan)
+- **nṛtya** n. ⟪नृत्य⟫ : tarian
+- **svarga** m. ⟪स्वर्ग⟫ : surga
+- **naraka** m. ⟪नरक⟫ : neraka (menurut pandangan Hindu, alam semesta berbentuk seperti telur (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Telur Brahmā"): di atas bumi terdapat enam surga dengan kebahagiaan yang meningkat, di bawah bumi terdapat tujuh tempat yang disebut **pātāla** n. = ⟪पाताल⟫, tempat tinggal **nāga** m. = ⟪नाग⟫ (ular) dan makhluk mitologis lainnya, di sana terdapat 7 neraka dengan siksaan yang meningkat)
+- **aṅga** n. ⟪अङ्ग⟫ : anggota tubuh, bagian; juga = **vedāṅga** = ⟪वेदाङ्ग⟫
+- **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : pergi (Menurut klasifikasi verba lokal, ini termasuk kelas present 1, tetapi sebenarnya adalah bentuk yang dibentuk dengan sufiks pembentukan akar present **-ccha-**: **gam** » tingkat rendah (**gm** ») **ga-ccha-ti**)
 
 
 
-
-
----
 
 ## 7.7. Latihan
 
-**A) Lengkapi objek langsung atau akusatif arah dalam bentuk tunggal dan jamak:**
+**A) Masukkan objek langsung atau akusatif arah dalam bentuk tunggal dan jamak:**
 
 1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
-   ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
-
-
+⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
 
 ::: media
 ![](/images/lekt0704.webp)
-Gambar: Viṣṇu = ⟪विष्णु⟫, abad ke-8/9.
-(Sumber gambar: [Detail](/id/licenses#lekt0704))
-
+Fig.: Viṣṇu = ⟪विष्णु⟫, abad ke-8/9.
+(Sumber gambar: [Details](/id/licenses#lekt0704))
 :::
-2. guru ... memakan (buah)
-   ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
-3. orang bijak ... pergi (sorga)
-   ⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
-4. śūdra ... pergi (neraka)
-   ⟪शूद्रा⟫ ... ⟪गच्छति⟫ (⟪नरक⟫)
-5. ... menang (śūdra)
-   ... ⟪जयति⟫ (⟪शूद्र⟫)
-6. ... memperoleh (sapi betina, hewan, buah)
-   ... ⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫)
+2. gurus ... khādati (phala)
+⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
+3. sādhus ... gacchati (svarga)
+⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
+4. śūdrā ... gacchati (naraka)
+⟪शूद्रा⟫ ... ⟪गच्छति⟫ (⟪नरक⟫)
+5. ... jayati (śūdra)
+... ⟪जयति⟫ (⟪शूद्र⟫)
+6. ... labhate (dhenu, paśu, phala)
+... ⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫)
 
-**B) Isilah bentuk kata kerja yang sesuai:**
+**B) Masukkan bentuk kata kerja yang sesuai:**
 
 1. sādhuḥ svargaṃ ... (āp, gam, aś)
-   ⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
-2. brāhmaṇaḥ somam ... (su) (2 Formen)
-   ⟪ब्राह्मणः⟫ ⟪सोमम्⟫ ... (⟪सु⟫)
+⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
+2. brāhmaṇaḥ somam ... (su) (2 bentuk)
+⟪ब्राह्मणः⟫ ⟪सोमम्⟫ ... (⟪सु⟫)
 3. sādhur gurum ... (śru)
-   ⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫)
+⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫)
 4. devī ... (kup, krudh)
-   ⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
+⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
 
-**C) Terjemahkan kalimat latihan B) dengan mengubah Agens, Objek, dan Kata Kerja ke dalam bentuk jamak.**
+**C) Dalam kalimat latihan B), ubah agen, objek, dan kata kerja menjadi bentuk jamak.**
 
-**D) Terjemahkan ke dalam Ātmanepada:**
+**D) Masukkan ke dalam Ātmanepada:**
 
 1. sunvanti.
-   ⟪सुन्वन्ति⟫ |
+⟪सुन्वन्ति⟫ |
 2. nayanti.
-   ⟪नयन्ति⟫ |
+⟪नयन्ति⟫ |
 3. sunoti.
-   ⟪सुनोति⟫ |
+⟪सुनोति⟫ |
 4. yajati.
-   ⟪यजति⟫ |
-
-
+⟪यजति⟫ |
 
 ::: media
 ![](/images/lekt0702.webp)
-Gambar: **yajati** = ⟪यजति⟫ — Korban Veda = **yajña** m. = ⟪यज्ञ⟫
-(Sumber gambar: [Detail](/id/licenses#lekt0702))
-
+Fig.: **yajati** = ⟪यजति⟫ — Persembahan Weda = **yajña** m. = ⟪यज्ञ⟫
+(Sumber gambar: [Details](/id/licenses#lekt0702))
 :::
-**E) Bentuklah kasus akusatif (dvitīyā) tunggal dan jamak untuk semua nama yang telah dipelajari sejauh ini.**
+**E) Bentuklah akusatif (dvitīyā) tunggal dan jamak untuk semua nomina yang telah dipelajari sejauh ini.**
 
 **F) Terjemahkan:**
 
 1. narakāṃś ca svargāṃś ca gacchanti.
-   ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ |
+⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ |
 2. gurūṃs tu śṛṇvanti.
-   ⟪गुरूूंस्तु⟫ ⟪शृण्वन्ति⟫ |
-3. Śūdras meraih surga.
-4. Kṣatriyas memuliakan dewi-dewi sebagai tuan upacara dengan persembahan.
-5. Wanita Vaiśya memuliakan dewa-dewi dengan persembahan.
-6. TUHAN murka.
+⟪गुरूूंस्तु⟫ ⟪शृण्वन्ति⟫ |
+3. Śūdras mencapai sebuah surga.
+4. Para Kṣatriyas menyembah para dewi sebagai tuan persembahan dengan kurban.
+Para wanita Vaiśya menyembah dewa-dewi dengan kurban.
+TUHAN marah.
 7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni.
-   ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
-8. Kepada dewa mana brahmana ini mempersembahkan?
+⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
+8. Dewa apa yang disembah oleh brahmana ini?
+
 
 
 

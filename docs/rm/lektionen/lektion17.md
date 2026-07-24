@@ -30,8 +30,8 @@ Ezempels:
 
 ⟪द्विष्⟫ 2 U "odiar"
 
-*   starker Präsensstamm: dveṣ-
-*   schwacher Präsensstamm: dviṣ-
+*   starker Stampa da preschent: dveṣ-
+*   schwacher Stampa da preschent: dviṣ-
 
 ::: no-header
 
@@ -86,8 +86,8 @@ Exemples ulteriurs:
 :::
 ⟪हन्⟫ 2 P "schlagen, erschlagen, töten"
 
-*   starker Präsensstamm: han-
-*   schwacher Präsensstamm:
+*   starker Stampa da preschent: han-
+*   schwacher Stampa da preschent:
     *   vor Konsonant: ha- (« \*hn-)
     *   vor Vokal: ghn-/han-
 
@@ -103,8 +103,8 @@ Exemples ulteriurs:
 :::
 ⟪अस्⟫ 2 P "esser"
 
-*   fortstärker Präsensstamm: as-
-*   schwacher Präsensstamm: s-
+*   fortstärker Stampa da preschent: as-
+*   schwacher Stampa da preschent: s-
 
 ::: no-header
 
@@ -120,8 +120,8 @@ Esempel:
 
 ⟪स्तु⟫ 2 U "preisar"
 
-*   starker Präsensstamm: stau-
-*   schwacher Präsensstamm:
+*   starker Stampa da preschent: stau-
+*   schwacher Stampa da preschent:
     *   vor Konsonant: stu-
     *   vor Vokal: stuv-
 
@@ -129,7 +129,7 @@ Esempel:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
+| 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):brni: ⟪स्तवीति⟫ |
 | 3\. pl. Präs. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
 | 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
 | 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
@@ -138,7 +138,7 @@ Esempel:
 ## 17.4. Radixs da la segunda classa da presentis senza declinaziun dal stem
 
 ::: grammar-box
-Senza classificazione della radice, le radici della seconda classe del presente finiscono in -ā
+Senza classificazione da la radice, le radici da la seconda classe del presente finiscono in -ā
 :::
 Esempio:
 
@@ -194,8 +194,8 @@ Ezempels:
 
 ⟪रुद्⟫ 2 P "planger, ulular"
 
-*   starker Präsensstamm: rodi-
-*   schwacher Präsensstamm:
+*   starker Stampa da preschent: rodi-
+*   schwacher Stampa da preschent:
     *   vor Konsonant: rudi-
     *   vor Vokal: rud-
 
@@ -209,8 +209,8 @@ Ezempels:
 :::
 ⟪ब्रू⟫ 2 U "dir"
 
-*   starker Präsensstamm: bravī- (« bro- + -ī)
-*   schwacher Präsensstamm:
+*   starker Stampa da preschent: bravī- (« bro- + -ī)
+*   schwacher Stampa da preschent:
     *   vor Konsonant: brū-
     *   vor Vokal: bruv-
 
@@ -230,7 +230,7 @@ Aunch ⟪स्तु⟫ 2 U "preisan" ha cunzè las sut 3. inditgadas formas su
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
+| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):brni: ⟪स्तौति⟫ |
 
 :::
 ## 17.6. Glista da pleds

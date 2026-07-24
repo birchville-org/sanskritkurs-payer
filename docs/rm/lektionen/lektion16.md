@@ -33,7 +33,7 @@ Auslautender dentaler Verschlusslaut (nicht Nasal):
 |   |   |
 | :--- | :--- |
 | **vor Palatal** | **Ersetzung durch betreffenden unaspirierten Palatal:** :br **d.h.** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
-| **+ ś** | **» -cś- oder -cch-** |
+| **+ ś** | **» -cś- ni -cch-** |
 | **vor Retroflex** | **Ersetzung durch betreffenden unaspirierten Retroflex:** :br **d.h.** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
 | **vor l-** | **Ersetzung durch -l:** :br **d.h.** :br :indent -t/-th/-d/-dh + l- » -ll- |
 

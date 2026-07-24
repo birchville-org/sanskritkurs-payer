@@ -27,7 +27,7 @@ Pronoms interrogativs, relativs e demonstrativs:
 
 ::: grammar-box
 
-| | Ablativ Singular:brMaskulinum / Neutrum | Ablativ Singular:brFemininum |
+| | Ablativ Singular:brMasculin / Neutrum | Ablativ Singular:brFeminin |
 | :--- | :--- | :--- |
 | ⟪किम्⟫ | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) |
 | ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
@@ -425,7 +425,7 @@ Abb.: ⟪लोकादधिको⟫ ⟪हरिः⟫
 ⟪न⟫ ⟪वेत्ति⟫ ⟪दुःखमण्वपि⟫ ⟪॥१॥⟫
 
 ::: indent
-Erklärung: ⟪सर्वतस्⟫ = sarva "jeder, alle" + -tas ; ⟪अणु⟫ = Nom., Akk. sg. neutr.
+Explicaziun: ⟪सर्वतस्⟫ = sarva "jeder, alle" + -tas ; ⟪अणु⟫ = Nom., Akk. sg. neutr.
 :::
 ⟪मानाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪लोभात्⟫  
 ⟪क्रोधाद्वा⟫ ⟪यदि⟫ ⟪वा⟫ ⟪भयात्⟫ ⟪।⟫  

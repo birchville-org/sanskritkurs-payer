@@ -43,7 +43,7 @@ En il sanscrit classic n'existan dal tema dal perfect mo l'indicativ ed il parti
 *   **a-Konsonant**
 *   **ā-Konsonant**
 :::
-### 34.2.2. Die Perfektendungen
+### 34.2.2. Die Desinenza da perfecten
 
 ::: grammar-box
 
@@ -73,7 +73,7 @@ Exempels:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. |
+| Radis | 3. sg. Perf. P. |
 | :--- | :--- |
 | ⟪भिद्⟫ | *⟪बि⟫*⟪भेद⟫ |
 | ⟪मुच्⟫ | *⟪मु⟫*⟪मोच⟫ |
@@ -87,7 +87,7 @@ Exemples:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Radis | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪वच्⟫ | ⟪उवाच⟫:bru-vāc-a | ⟪ऊचुर्⟫:bru + uc-ur |
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
@@ -102,7 +102,7 @@ Exemples:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. |
+| Radis | 3. sg. Perf. P. |
 | :--- | :--- |
 | ⟪अस्⟫ 2 "sein" und ⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a |
 
@@ -114,7 +114,7 @@ Exempla:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Radis | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪इ⟫ | ⟪इयाय⟫:briy + ai + a | ⟪ईयुर्⟫:bri + iy-ur |
 | ⟪इष्⟫ | ⟪इयेष⟫:briy-eṣ-a | ⟪ईषुर्⟫:bri + iṣ-ur |
@@ -127,7 +127,7 @@ Exempels:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Radis | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪अञ्ज्⟫ | ⟪आनञ्ज⟫ | ⟪आनञ्जुर्⟫ |
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
@@ -153,7 +153,7 @@ Exempels:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. | 3. pl. Perf. |
+| Radis | 3. sg. Perf. | 3. pl. Perf. |
 | :--- | :--- | :--- |
 | ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ |
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
@@ -176,7 +176,7 @@ Exemples:
 
 ::: grammar-box
 
-| Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Radis | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪भिद्⟫ | ⟪बिभेद⟫ | ⟪बिभिदुर्⟫ | ⟪बिभिदे⟫ | ⟪बिभिदिरे⟫ |
 | ⟪इष्⟫ | ⟪इयेष⟫ | ⟪ईषुर्⟫ | | |

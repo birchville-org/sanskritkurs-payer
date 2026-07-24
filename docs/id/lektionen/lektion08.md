@@ -1,93 +1,76 @@
 ---
-title: Pelajaran 8
-subtitle: "Pembentukan Nomina & Kelas Present 8"
+title: "# Pelajaran 8"
+subtitle: "Bildung von Nomina & 8. Präsensklasse"
 lesson_id: 8
-category: "Tata Bahasa"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
+
+
 # Pelajaran 8
-
-
 
 ::: deleteme-box
 **Dalam pelajaran ini Anda akan mempelajari:**
-- Pembentukan nomina (akhiran kṛt- dan taddhita-)
+- Pembentukan nomina (akhiran kṛt dan taddhita)
 - Akhiran nomina penting (-a, -ana, -tra, -ti, -tva, -tā)
-- Kelas 8 kata kerja sekarang (tanādi)
+- Kelas ke-8 dari konjugasi praesens (tanādi)
 - Konjugasi **kṛ** (tun, membuat)
-
 :::
----
+
 
 ## 8.1. Tentang Pembentukan Nomina
 
-Dalam tata bahasa India tradisional, dibedakan pada akhiran, dengan mana akar nomina dibentuk:
+Dalam tata bahasa India tradisional, dibedakan pada akhiran-akhiran yang digunakan untuk membentuk akar nomina:
 
-- **kṛt-Suffixe (⟪कृत्⟫) (Primärsuffixe):** membentuk akar nominal, absolutif, dan infinitif dari akar verbal (**dhātu** m. = ⟪धातु⟫) dan bentuk verbal.
-- **taddhita-Suffixe (⟪तद्धित⟫) (Sekundärsuffixe):** melekat pada akar nominal dan indeklinabilia, membentuk akar nominal atau indeklinabilia baru.
-
-
+- **Akhiran kṛt (⟪कृत्⟫) (Akhiran primer):** membentuk akar nomina, absoluta dan infinitif dari akar verbal (**dhātu** m. = ⟪धातु⟫) dan bentuk verbal.
+- **Akhiran taddhita (⟪तद्धित⟫) (Akhiran sekunder):** melekat pada akar nomina dan indeklinabilia, membentuk akar nomina baru atau indeklinabilia.
 
 ::: grammar-box
 **Skema:**
-**Kata kerja dasar + akhiran kṛt » Pokok nomina, dll. + akhiran taddhita » Pokok nomina baru, dll.**
+**Akar + akhiran kṛt » akar nomina dll. + akhiran taddhita » akar nomina baru dll.**
 
-**Stem nominal + akhiran kasus » kata benda yang bersintaksis**
-
+**Akar nomina + akhiran kasus » nomina yang dapat berfungsi sintaksis**
 :::
----
 
-## 8.2. Pembagian Akhiran Nomina
+## 8.2. Pengelompokan Akhiran Nomina
 
 - **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
-  - **kārakakṛt** (⟪कारककृत्⟫) » nomina agentis (menyebut seseorang yang melakukan apa yang dinyatakan oleh akar kata)
-  - **kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (menyebut tindakan yang dinyatakan oleh akar kata) atau abstrak
+- **kārakakṛt** (⟪कारककृत्⟫) » nomina agentis (menyebutkan seseorang yang melakukan apa yang dinyatakan oleh akar)
+- **kṛtikṛt** (⟪कृतिकृत्⟫) » nomina actionis (menyebutkan tindakan yang dinyatakan oleh akar) atau abstrakta
 
 - **taddhita**
-  - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » Kata sifat
-  - **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » Abstrak
-  - **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » kepunyaan (mis. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
-  - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » Perbandingan (Komparatif, Superlatif), Perbandingan
-  - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » Bilangan ordinal (pertama, dll.)
-  - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » sebagai pengganti akhiran kasus (mis. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
-  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (pembentukan cvī -⟪च्वि⟫, **-sāt** -⟪सात्⟫)
+- **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » kata sifat
+- **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » abstrakta
+- **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » kepemilikan (mis. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
+- **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » peningkatan (komparatif, superlatif), perbandingan
+- **pūraṇataddhita** (⟪पूरणतद्धित⟫) » bilangan ordinal (pertama dll.)
+- **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » sebagai pengganti akhiran kasus (mis. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
+- **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (pembentukan cvī ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
 
-**Pembagian berdasarkan Ablaut:**
+**Pengelompokan berdasarkan ablaut:**
 - **guṇya** (⟪गुण्य⟫): pembentukan tingkat tinggi
 - **na guṇya** (⟪न⟫ ⟪गुण्य⟫): pembentukan tingkat rendah
 - **vṛddhyarha** (⟪वृद्ध्यर्ह⟫): pembentukan tingkat panjang
 
----
 
 ## 8.3. Beberapa Akhiran Nomina Penting
 
----
-
 ### 8.3.1. -a m. (kṛt)
 
-
-
 ::: grammar-box
-**Afiks kṛt -a membentuk kata benda maskulin (jarang netral) yang menunjukkan tindakan atau keadaan yang ditunjuk oleh akar; kadang-kadang juga kata sifat atau kata benda yang mengekspresikan agen (kartṛ) dari tindakan yang ditunjuk oleh akar verba. Untuk penultima pendek (= vokal sebelum konsonan, di mana akar berakhir) atau vokal akar akhir, biasanya diganti dengan tingkat tinggi (guṇa) atau tingkat panjang (vṛddhi).**
-
+**Akhiran kṛt -a membentuk kata benda maskulin (jarang netral) yang menyatakan tindakan atau keadaan yang dinyatakan oleh akar; kadang-kadang juga kata sifat atau kata benda yang mengekspresikan agen (kartṛ) dari tindakan yang dinyatakan oleh akar verbal. Untuk penultima pendek (= vokal sebelum konsonan, di mana akar berakhir) atau vokal akhir akar biasanya diganti dengan tingkat tinggi (guṇa) atau tingkat panjang (vṛddhi).**
 :::
 **Contoh:**
 
-
-
 | Akar:br⟪धातु⟫ | + -a (kṛt) | Arti |
-
 | :--- | :--- | :--- |
-
-| **ji** 1 P:br⟪आप्⟫:br"menang" | **jaya** m.:br⟪जय⟫ | "kemenangan, kemenangan" |
-
+| **ji** 1 P:br⟪आप्⟫:br"menang" | **jaya** m.:br⟪जय⟫ | "kemenangan, sang pemenang" |
 | **muh** 4 P:br⟪मुह्⟫:br"bingung" | **moha** m.:br⟪मोह⟫ | "kebingungan, kebodohan, kesalahan" |
-
 | **krudh** 4 P:br⟪क्रुध्⟫:br"marah" | **krodha** m.:br⟪क्रोध⟫ | "kemarahan" |
-
 | **kup** 4 P:br⟪कुप्⟫:br"marah" | **kopa** m.:br⟪कोप⟫ | "kemarahan" |
+
 
 | **lubh** 4 P:br⟪लुभ्⟫:br"berhasrat" | **lobha** m.:br⟪लोभ⟫ | "keinginan" |
 
@@ -154,6 +137,7 @@ Orang-orang Hindu yang saleh pergi ke kuil untuk mendapatkan pandangan terhadap 
 
 ::: grammar-box
 **Afiks kṛt -tra membentuk (biasanya) kata benda netral yang menunjukkan alat atau sarana, melalui mana tindakan yang dinyatakan oleh akar kata terjadi. Penultima pendek dan vokal akhir akar kata digantikan oleh tingkat tinggi (guṇa).** :::
+
 
 :::
 **Contoh:**
@@ -250,6 +234,7 @@ Orang-orang Hindu yang saleh pergi ke kuil untuk mendapatkan pandangan terhadap 
 | **guru**:br⟪गुरु⟫:br3 "berat, beredelt,:brm. Guru" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "Beratung, Beredeltsein,:brDas Gurussein (Wesen oder Natur eines Gurus)" |
 
 | **brāhmaṇa**:br⟪ब्राह्मण⟫:brm. "Brahmana" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "ke-Brahmana-an,:bryang menjadikan seorang Brahmana sebagai Brahmana,:bresensi / sifat seorang Brahmana" |
+
 
 | **deva**:br⟪देव⟫:brm. "Dewa, Tuhan" | — | **devatā** f.:br⟪देवता⟫ | "Dewa-dewi" |
 
@@ -361,6 +346,7 @@ Gambar: **likh** (⟪लिख्⟫) : batang tulis dari suku Batak (Sumatra), 
 26. jaya
 27. nayana
 28. śravaṇa
+
 
 **B) Bentuklah kata benda abstrak untuk semua nomina yang telah dipelajari sejauh ini dan renungkan maknanya (lisan).**
 

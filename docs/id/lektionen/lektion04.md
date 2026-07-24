@@ -1,11 +1,13 @@
 ---
-title: Pelajaran 4
-subtitle: "Kata Ganya Tanya dan Kata Ganya Penunjuk dalam Nominatif"
+title: "# Pelajaran 4"
+subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
 lesson_id: 4
 last_reconstructed: 2026-05-07
-category: "Tata Bahasa"
+category: "Grammatik"
 status: stable
 ---
+
+
 
 # Pelajaran 4
 
@@ -109,49 +111,31 @@ Penggantian sebelum konsonan lain akan dibahas kemudian. Hindari tabrakan bunyi 
 
 Dengan kata ganti ini, misalnya, dibentuk rumus pertanyaan berikut:
 
-
-
-::: no-header
-
-| | | | |
-
-| :--- | :--- | :--- | :--- |
-
 | **Singular** | **Neutrum** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "Apa itu?" |
-
-| | **Maskulinum** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Siapa itu?":br"Siapa dia (laki-laki)?" |
-
-| | **Femininum** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Siapa itu?":br"Siapa dia (perempuan)?" |
-
-| **Jamak** | **Netral** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
-
-| | **Maskulinum** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
-
-| | **Femininum** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
-
+| ^^| **Maskulinum** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Siapa itu?":br"Siapa dia (laki-laki)?" |
+| ^^| **Femininum** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Siapa itu?":br"Siapa dia (perempuan)?" |
+| **Plural** | **Neutrum** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
+|^^ | **Maskulinum** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
+| ^^| **Femininum** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
 :::
-Contoh pertanyaan lain:
+Contoh pertanyaan lainnya:
 
-> viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Jawaban: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (Dalam kalimat nominal, subjek dapat diletakkan di awal, misalnya, untuk menekankan kesinambungan dengan pertanyaan.)
+> viṣṇuḥ kaḥ? = ⟪विष्णुः⟩ ⟪कः⟩ Jawaban: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟩. (Dalam kalimat nominal, subjek dapat diletakkan di awal untuk menekankan kesinambungan dengan pertanyaan.)
 
-CATATAN: Jawaban-jawaban yang dapat Anda berikan dengan pengetahuan Sanskerta Anda sejauh ini, tentu saja, belum sepenuhnya sesuai dengan bahasa Sanskerta idiomatik yang baik.
+CATATAN: Jawaban yang dapat Anda berikan terhadap pertanyaan-pertanyaan tersebut dengan pengetahuan Sanskerta Anda sejauh ini, tentu saja belum sepenuhnya sesuai dengan standar bahasa Sanskerta yang idiomatis.
 
----
 
 ## 4.2. Latihan
 
-**A) Bentuklah secara lisan pertanyaan-pertanyaan mengenai kata-kata berikut dengan skema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) dan jawablah pertanyaan-pertanyaan tersebut dalam bahasa Sanskerta:**
+**A) Bentuklah pertanyaan secara lisan dengan kata-kata berikut mengikuti skema viṣṇuḥ kaḥ (⟪विष्णुः⟩ ⟪कः⟩) dan jawablah pertanyaan-pertanyaan tersebut dalam bahasa Sanskerta:**
 
 śruti, śiva, brāhmaṇa, dvija (jamak), indrāṇī, dhenu, tulādhara, kālidāsa
 
-= ⟪श्रुति⟫, ⟪शिव⟫, ⟪ब्राह्मण⟫, ⟪द्विज⟫ (⟪बहुवचनम्⟫), ⟪इन्द्राणी⟫, ⟪धेनु⟫, ⟪तुलाधर⟫, ⟪कालिदास⟫
+= ⟪श्रुति⟩, ⟪शिव⟩, ⟪ब्राह्मण⟩, ⟪द्विज⟩ (⟪बहुवचनम्⟩), ⟪इन्द्राणी⟩, ⟪धेनु⟩, ⟪तुलाधर⟩, ⟪कालिदास⟩
 
-**B) Bentuklah pertanyaan untuk latihan membaca berikut dengan pola etat kim (⟪एतत्किम्⟫) dan jawablah pertanyaan-pertanyaan tersebut dengan kata-kata yang ditentukan serta kata ganti demonstratif, misalnya eṣa bālaḥ (⟪एष⟫ ⟪बालः⟫):**
-
-
+**B) Bentuklah pertanyaan untuk latihan membaca berikut mengikuti pola etat kim (⟪एतत्किम्⟩) dan jawablah pertanyaan-pertanyaan tersebut dengan kata-kata yang ditentukan serta kata ganti demonstratif, misalnya eṣa bālaḥ (⟪एष⟩ ⟪बालः⟩):**
 
 ::: media
 ![](/images/lekt0401.webp)
-(Sumber gambar: [Detail](/id/licenses#lekt0401))
-
+(Sumber gambar: [Details](/id/licenses#lekt0401))
 :::
