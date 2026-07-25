@@ -1,10 +1,10 @@
 ---
-शीर्षक: पाठ ११
-उपशीर्षक: "द्वितीयक अभिधेय (व्यक्ति और वस्तु का द्वितीया)"
+title: Lektion 11
+subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
-category: "व्याकरण"
-status: स्थिर
+category: "Grammatik"
+status: stable
 ---
 
 # पाठ 11
@@ -76,7 +76,7 @@ status: स्थिर
 - **iṣ** 6 प. ⟪इष्⟫ : इच्छा करना
   - **iṣṭi** स्त्री. ⟪इष्टि⟫ : इच्छा (**iṣ** + **-ti**)
 
-[ L0 ] ## ११.३. अभ्यास
+## 11.3. अभ्यास
 
 **अ) नीचे दिए गए वाक्यों का अनुवाद करें:**
 

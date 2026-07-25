@@ -1,10 +1,10 @@
 ---
-title: पाठ 27
-subtitle: "लोकटिव का प्रयोग (⟪⟪सप्तमी⟫⟫ f. = \"सातवाँ विभक्ति प्रत्यय\")"
+title: Lektion 27
+subtitle: "Gebrauch des Lokativ (⟪सप्तमी⟫ f. = \"siebte Kasusendung\")"
 lesson_id: 27
 last_reconstructed: 2026-05-21
-category: "व्याकरण"
-status: स्थिर
+category: "Grammatik"
+status: stable
 ---
 
 # पाठ 27

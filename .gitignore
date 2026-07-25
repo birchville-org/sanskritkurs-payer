@@ -84,14 +84,12 @@ scripts/repair_*.py
 scripts/sync_*.py
 scripts/syntax_*.py
 
-# Planned/Inactive languages (not in v1.5)
+# Planned/Inactive languages
 docs/akk/
 docs/arc/
 docs/bg/
 docs/cop/
-docs/el/
 docs/fa/
-docs/grc/
 docs/zh/
 
 # Development helper guides/scripts

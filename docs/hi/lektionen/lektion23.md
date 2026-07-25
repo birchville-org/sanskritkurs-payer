@@ -84,7 +84,7 @@ status: stable
 ::: indent
 ⟪दृश्⟫ : ⟪द्रष्टुम्⟫
 
-⟪⟪सृज्⟫⟫ : ⟪⟪स्रष्टुम्⟫⟫
+⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
 Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 

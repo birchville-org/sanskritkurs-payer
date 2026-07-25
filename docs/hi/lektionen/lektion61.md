@@ -1,8 +1,8 @@
 ---
-title: पाठ 61
-subtitle: "-ā, -ī, -ū पर समाप्त होने वाले मूल नामों का विसर्ग"
+title: Lektion 61
+subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
-category: "व्याकरण"
+category: "Grammatik"
 status: stable
 ---
 

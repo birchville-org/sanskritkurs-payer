@@ -1,10 +1,10 @@
 ---
-title: पाठ 24
-subtitle: "द्वितीय विभक्ति (⟪⟪चतुर्थी⟫⟫ = \"चतुर्थ कारक प्रत्यय\")"
+title: Lektion 24
+subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
 lesson_id: 24
 last_reconstructed: 2026-05-21
-category: "व्याकरण"
-status: स्थिर
+category: "Grammatik"
+status: stable
 ---
 
 # पाठ 24

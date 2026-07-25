@@ -1,9 +1,9 @@
 ---
-title: पाठ 5
-subtitle: "नाम समासों की मूल बातें (samāsa)"
+title: Lektion 5
+subtitle: "Grundlagen der Nominalkomposita (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
-category: "व्याकरण"
+category: "Grammatik"
 status: stable
 ---
 

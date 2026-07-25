@@ -1,9 +1,9 @@
 ---
-title: पाठ 44
-subtitle: "द्वितीय पुरुष के क्रियापद रूपों का निर्माण (⟪⟪मध्यमः⟫⟫) अथेमैटिक शाखाओं में, जिनका उपसर्ग स्वर से समाप्त होता है"
+title: Lektion 44
+subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
 lesson_id: 44
 last_reconstructed: 2026-05-21
-category: "व्याकरण"
+category: "Grammatik"
 status: stable
 ---
 
@@ -129,7 +129,7 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \&lt;⟪⟪इषे⟫⟫\&gt; | \&lt;⟪⟪इध्वे⟫⟫\&gt; |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪इषे⟫\> | \<⟪इध्वे⟫\> |
 | **Imperfekt** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪इयास्⟫ | ⟪इयात⟫ | ⟪इयीथास्⟫:briy-ī-thās | ⟪इयीध्वम्⟫ |
 :::

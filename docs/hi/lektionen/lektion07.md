@@ -1,10 +1,10 @@
 ---
-title: पाठ 7
-subtitle: "प्रत्यक्ष कर्म के साथ क्रियावाचक वाक्य"
+title: Lektion 7
+subtitle: "Den Verbalsatz mit direktem Objekt"
 lesson_id: 7
 last_reconstructed: 2026-05-07
-category: "व्याकरण"
-status: स्थिर
+category: "Grammatik"
+status: stable
 ---
 
 # पाठ 7
@@ -190,14 +190,14 @@ status: स्थिर
 :::
 **कमजोर स्तम्भ**: निम्न स्तरीय
 
-| मूल:br⟪⟪धातु⟫⟫ | प्रबल स्तम्भ | दुर्बल स्तम्भ | व्यंजन के पूर्व:br(दुर्बल) |
+| Wurzel:br⟪धातु⟫ | प्रबल स्तम्भ | दुर्बल स्तम्भ | व्यंजन के पूर्व:br(दुर्बल) |
 | :--- | :--- | :--- | :--- |
-| **āp** :br5 P:br⟪⟪आप्⟫⟫:br"प्राप्त करना" | **āp-no** :br(3.ए. āpnoti = ⟪⟪आप्नोति⟫⟫) | **āp-nu** | **āp-nuv** :br(3.ब. āpnuvanti = ⟪⟪आप्नुवन्ति⟫⟫) |
-| **aś** :br5 Ā:br⟪⟪अश्⟫⟫:br"प्राप्त करना" | — | **aś-nu** :br(3.ए. aśnute = ⟪⟪अश्नुते⟫⟫) | **aś-nuv** :br(3.ब. aśnuvate = ⟪⟪अश्नुवते⟫⟫) |
-| **su** :br5 U:br⟪⟪सु⟫⟫:br"निकालना, रस निकालना" | **su-no** :br(3.ए. sunoti = ⟪⟪सुनोति⟫⟫) | **su-nu** :br(3.ए. sunute = ⟪⟪सुनुते⟫⟫) | **su-nv** :br(3.ब. sunvanti = ⟪⟪सुन्वन्ति⟫⟫,:br3.ब. sunvate = ⟪⟪सुन्वते⟫⟫) |
-| **śru** :br5 P:br⟪⟪श्रु⟫⟫:br"सुनना" | **śṛ-ṇo** :br(3.ए. śṛṇoti = ⟪⟪शृणोति⟫⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.ब. śṛṇvanti = ⟪⟪शृण्वन्ति⟫⟫) |
+| **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
+| **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
+| **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
-## ७.६. शब्दावली
+## 7.6. शब्दावली
 
 **निम्नलिखित शब्द सीखें:**
 

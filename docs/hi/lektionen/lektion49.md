@@ -1,10 +1,10 @@
 ---
-title: पाठ 49
-subtitle: "अथमैिक प्रत्ययकर्म के निर्माण (⟪⟪लोट्⟫⟫) अथमैिक वर्तमानकालीन मूलों का (अंत)"
+title: Lektion 49
+subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
-category: "व्याकरण"
-status: स्थिर
+category: "Grammatik"
+status: stable
 ---
 
 # पाठ 49

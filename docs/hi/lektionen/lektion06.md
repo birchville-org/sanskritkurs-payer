@@ -1,10 +1,10 @@
 ---
-title: पाठ 6
-subtitle: "क्रियावाक्य की संरचना (कर्ता और क्रियापद)"
+title: Lektion 6
+subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
-category: "व्याकरण"
-status: स्थिर
+category: "Grammatik"
+status: stable
 ---
 
 # पाठ 6

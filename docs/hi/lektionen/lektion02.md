@@ -1,8 +1,8 @@
 ---
-title: पाठ 2
-subtitle: "नामवाक्य और विभक्ति के आधार"
+title: Lektion 2
+subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
 lesson_id: 2
-category: "व्याकरण"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
