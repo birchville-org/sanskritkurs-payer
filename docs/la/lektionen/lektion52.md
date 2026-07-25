@@ -15,9 +15,9 @@ status: stable
 **Ante terminos vocalibus incipientes, -n- intercalatur; hoc est influentia stemmatum in -n (-in).**
 :::
 ::: grammar-box
-| | **⟪वारि⟫ n.:br"āqua"** | **⟪मधु⟫ n.:br"mel"** |
+| | **⟪वारि⟫ n.:br"Wasser"** | **⟪मधु⟫ n.:br"Honig"** |
 | :--- | :---: | :---: |
-| ⟪एकवचनम्⟩ |||
+| ⟪एकवचनम्⟫ |||
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫** | ⟪वारि⟫ | ⟪मधु⟫ |
 | ⟪तृतीया⟫ | ⟪वारिणा⟫ | ⟪मधुना⟫ |
 | ⟪चतुर्थी⟫ | ⟪वारिणे⟫ | ⟪मधुने⟫ |
@@ -430,9 +430,9 @@ Exemplum:
 :::
 ## 52.7. Lexicon
 
-a:
+⟪अखिल⟫ 3: integer, totus
 
-a:
+⟪निखिल⟫ 3: cunctus, omnis
 
 ::: indent
 a:
@@ -457,15 +457,15 @@ PPP ⟪विपरीत⟫ 3: pravus, falsus
 ⟪त्रि⟫ 3: tres
 
 ::: grammar-box
-| | **Masculinumum:br⟪पुंस्⟫** | **Neutrumum:br⟪नपुंसकम्⟫** | **Femininumum:br⟪स्त्री⟫** |
+| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
-| **1. Nominativum:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Accusativum:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
 | **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
-| **4. Dativum:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **5. Ablativum:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **6. Genetivum:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
-| **7. Lokativum:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
+| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
 ⟪निस्⟫ Postpositio et praefixum apud nomina et verba: foras, deorsum, efferre, proferre, ex, absque - a
 
@@ -752,8 +752,8 @@ Lecio 52 est finis primi semestris (13 septimanum ad 4 horarum scholasticarum) c
 
 Quibus in rebus vacandis haec officia perficienda erant:
 
-1.  Verba
-    1.  Verba
+1.  Repetitio omnium rerum adhuc intellectarum, praesertim:
+    1.  Memoriter ediscere paradigmata coniugationis et declinationis
     2.  Verba
     3.  Formae fundamentales
 2.  Memoriter discere quam plurimos versus et textus prosaicos e litteris classicis
@@ -768,7 +768,7 @@ Quibus in rebus vacandis haec officia perficienda erant:
     **Kunnappally, John:** Prakriyā bhāshyam : Grammatica Sanscritica / Primus in Malayalam scriptus. In Anglicam linguam translatus a K.V.R. Pai. -- Parathode : Typis propriis, 1983. -- 818 pag. ; 23 cm. -- Pag. 208 - 254 (Gubernatio syntactica)
 9.  Perfice peragere:
     **Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**Mirabile quod fuit IndiaPartim: Surveyus culturae subcontinentis Indicae ante adventum Muslimorum. -- Londinium : Sidgwick & Jackson, 1954.
-10. Incipere peragendo:
+10.  Incipere peragendo:
      **Winternitz, Moriz \&lt;1863 - 1937\&gt;:** Historia litteraturae Indicae. Stutgardia : Koehler. -- 3 vol. -- 1908 - 1922 (adhuc longe optimus historia litteraria Sanscriti, Pali et Prakrit)
 
 ::: media

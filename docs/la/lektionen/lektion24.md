@@ -380,7 +380,7 @@ Fig.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 
 7\. Haec fructus ad edendum sufficit.
 
-8. Pugil pugilo par est (⟪शक्त⟫).
+Pugil pugilo par est (⟪शक्त⟫).
 
 9\. etiam Viṣṇu (⟪प्र⟫-⟪भू⟫ + Dat.) Śivam non superat.
 

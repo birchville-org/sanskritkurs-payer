@@ -71,9 +71,9 @@ Imperativus a tema praesentis formatur.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **Desinentiae** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Persona prima** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
-| **Persona secunda** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
-| **Persona tertia** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
+| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
+| **2. Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
+| **3. Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
 Nota: ¹ Desinentiae personarum secundae et tertiae singularis per -tāt substitui possunt, cum benedictio exprimenda sit:
 
@@ -88,9 +88,9 @@ Nota: ¹ Desinentiae personarum secundae et tertiae singularis per -tāt substit
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪भू⟫ 1P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \&lt;⟪भवै⟫\&gt; | \&lt;⟪भवामहै⟫\&gt; |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \&lt;⟪भवस्व⟫\&gt; | \&lt;⟪भवध्वम्⟫\&gt; |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \&lt;⟪भ्वताम्⟫\&gt; | \&lt;⟪भवन्ताम्⟫\&gt; |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \<⟪भवै⟫\> | \<⟪भवामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \<⟪भवस्व⟫\> | \<⟪भवध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \<⟪भ्वताम्⟫\> | \<⟪भवन्ताम्⟫\> |
 :::
 ### 47.2.3. Classis sexta praesentis (⟪tudādi⟫)
 
@@ -98,9 +98,9 @@ Nota: ¹ Desinentiae personarum secundae et tertiae singularis per -tāt substit
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪विश्⟫ 6P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \&lt;⟪विशै⟫\&gt;:br(viś-a + ai) | \&lt;⟪विशामहै⟫\&gt; |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \&lt;⟪विशस्व⟫\&gt; | \&lt;⟪विशध्वम्⟫\&gt; |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \&lt;⟪विशताम्⟫\&gt; | \&lt;⟪विशन्ताम्⟫\&gt; |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \<⟪विशै⟫\>:br(viś-a + ai) | \<⟪विशामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \<⟪विशस्व⟫\> | \<⟪विशध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \<⟪विशताम्⟫\> | \<⟪विशन्ताम्⟫\> |
 :::
 ::: media
 ![](/images/lekt4702.webp)
@@ -114,9 +114,9 @@ Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, �
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪नृत्⟫ 4P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \&lt;⟪नृत्यै⟫\&gt; | \&lt;⟪नृत्यामहै⟫\&gt; |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \&lt;⟪नृत्यस्व⟫\&gt; | \&lt;⟪नृत्यध्वम्⟫\&gt; |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \&lt;⟪नृत्यताम्⟫\&gt; | \&lt;⟪नृत्यन्ताम्⟫\&gt; |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \<⟪नृत्यै⟫\> | \<⟪नृत्यामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \<⟪नृत्यस्व⟫\> | \<⟪नृत्यध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \<⟪नृत्यताम्⟫\> | \<⟪नृत्यन्ताम्⟫\> |
 :::
 ::: media
 ![](/images/lekt4701.webp)
@@ -191,13 +191,13 @@ B.) Versa in Sanscritum (imperativum adhibe):
 
 3.\ Nos vocare volumus.
 
-4. Me cupae me (⟪चतुर्थ्या⟫) inclinabo.
+Me cupae me (⟪चतुर्थ्या⟫) inclinabo.
 
-5. Haec res facienda est.
+Haec res facienda est.
 
-6. Dormiant (constructio passiva).
+Dormiant (constructio passiva).
 
-7. Fili mi, ad divitias contendat!
+Fili mi, ad divitias contendat!
 
 8\. Initium studii fac!
 
@@ -207,21 +207,19 @@ B.) Versa in Sanscritum (imperativum adhibe):
 
 11\. In mundum despectare volo.
 
-12. Vademus ad Benares (⟪पद्⟫).
+Vademus ad Benares (⟪पद्⟫).
 
-13. Ii, ut hostiarum domini, deos sacrificio colant.
+Ii, ut hostiarum domini, deos sacrificio colant.
 
-14. Cante laudem!
+Cante laudem
 
-14. Cante laudem
+Filii mihi nascantur!
 
-15. Filii mihi nascantur!
+Tibi domum meam ostendam.
 
-16. Tibi domum meam ostendam.
+A me discede!
 
-17. A me discede!
-
-18. Liberari debet!
+Liberari debet!
 
 19\. Ego uxorem tuam custodire volo.
 
@@ -229,29 +227,31 @@ B.) Versa in Sanscritum (imperativum adhibe):
 
 21.\ Pugnae!
 
-22. Ei (pl.) imperare possint.
+Ei (pl.) imperare possint.
 
-23. In domo tua habitare volumus.
+In domo tua habitare volumus.
 
-24. Ita fiat!
+Ita fiat!
 
-25. Equum verbera!
+Equum verbera!
 
-27. Ebrii estote
+26\. Errent.
 
-28. Equus onus trahere debet.
+Ebrii estote
 
-29. Mundos ordinare volumus.
+Equus onus trahere debet.
 
-30. Potionem bibe!
+Mundos ordinare volumus.
 
-31. Cogita!
+Potionem bibe!
 
-32. Vincendi sunt! (pl.)
+Cogita!
 
-33. A te ducti volumus.
+Vincendi sunt! (pl.)
 
-34. Ad felicitatem eveniat! (Benedictio)
+A te ducti volumus.
+
+Ad felicitatem eveniat! (Benedictio)
 
 ::: deleteme-box
 

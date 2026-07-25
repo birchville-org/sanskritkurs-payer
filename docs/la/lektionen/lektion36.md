@@ -26,23 +26,23 @@ Exempla:
 2\. Radix ⟪विद्⟫ 2P "scire" perfectum habet praesentis temporis significatione.
 :::
 ::: grammar-box
-| Radix:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| ⟪विद्⟫ 2P | ⟪वेद⟫ :brille/scit/ea scit | ⟪विदुर्⟫ :brilli sciunt |
+| ⟪विद्⟫ 2P | ⟪वेद⟫ :brer/sie/es weiss | ⟪विदुर्⟫ :brsie wissen |
 :::
 ::: grammar-box
 3\. Radix ⟪अह्⟫ "dicere" solum perfectas formas habet (Perfectum I). Haec praesentis temporis significationem habent.
 :::
 ::: grammar-box
-| Radix:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brille/scit/ea dicit | ⟪आहुर्⟫ :brilli dicunt |
+| ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brer/sie/es sagt | ⟪आहुर्⟫ :brsie sagen |
 :::
 ::: grammar-box
 4\. Radix ⟪भू⟫ 1P perfectum radicem habet ⟪बभू⟫, ante vocales ⟪बभूव्⟫.
 :::
 ::: grammar-box
-| Radix:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪भू⟫ 1P | ⟪बभूव⟫ | ⟪बभूवुर्⟫ |
 :::

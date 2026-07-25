@@ -302,7 +302,7 @@ Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪�
 
 12\. Pauperes multos filios habent, quamvis eos non desiderent. Divites nullum filium habent. Mirabilis est motus fati.
 
-13. Quem non occidit muliebris corpus (⟪वपुस्⟫ n.) cum gracili cintura, latis humeris, rubris labiis, nigris oculis, curvato umbilico, erectis mammis.
+Quem non occidit muliebris corpus (⟪वपुस्⟫ n.) cum gracili cintura, latis humeris, rubris labiis, nigris oculis, curvato umbilico, erectis mammis.
 
 B) Declina in omnibus tibi notis casibus ⟪क्षत्रिया⟫ f.
 

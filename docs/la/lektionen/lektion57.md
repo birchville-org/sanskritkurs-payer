@@ -136,7 +136,6 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 ::: grammar-box
 **Formae irregulares:**
 
-1.  Radices nasalem habentes (⟪गम्⟫, ⟪मन्⟫, ⟪रम्⟫) s-aoristum gradu alto formant:
 **⟪अगंसि⟫ ⟪।⟫ ⟪अमंसि⟫ ⟪।⟫ ⟪अरंस्त⟫**
 Praeterea sunt pro ⟨JAG⟩ formae regulares gradu basso:
 **⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (in P ⟨JAG⟩ habet aoristum thematicum)**

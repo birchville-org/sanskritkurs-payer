@@ -1,9 +1,9 @@
 ---
-title: ਪਾਠ 23
-subtitle: "ਅਨਿਰਦੇਸ਼ (⟪तुमुन्⟫)"
+title: Lektion 23
+subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
-category: "ਵਿਆਕਰਨ"
+category: "Grammatik"
 status: stable
 ---
 

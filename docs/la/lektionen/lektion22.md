@@ -144,10 +144,8 @@ Radix in **-a** + **-tya**
 ::: media
 ![](/images/lekt2202.webp)
 Fig.: ⟪कामदेवः⟫
-Saec. XIX
-Fig.: ⟪कामदेवः⟫
-Saec. XIX
-(Fons imaginis: [Detalia](/la/licenses#lekt2202))
+saec. XIX
+(Fons imaginis: [Details](/la/licenses#lekt2202))
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** posse, valere
 

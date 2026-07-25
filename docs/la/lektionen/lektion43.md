@@ -42,9 +42,9 @@ Tertia persona singularis aoris sive optativi forma est idem ac secunda persona 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \&lt;⟪भवसे⟫\&gt; | \&lt;⟪भवध्वे⟫\&gt; |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \&lt;⟪अभवथास्⟫\&gt; | \&lt;⟪अभवध्वम्⟫\&gt; |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \&lt;⟪भवेथास्⟫\&gt; | \&lt;⟪भवेध्वम्⟫\&gt; |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪भवसि⟫:brbho + a + si | ⟪भवथ⟫ | \<⟪भवसे⟫\> | \<⟪भवध्वे⟫\> |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \<⟪अभवथास्⟫\> | \<⟪अभवध्वम्⟫\> |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \<⟪भवेथास्⟫\> | \<⟪भवेध्वम्⟫\> |
 
 #### 43.2.1.2. Sexta classis praesentis (⟪तुदादि⟫)
 
@@ -53,9 +53,9 @@ Tertia persona singularis aoris sive optativi forma est idem ac secunda persona 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \&lt;⟪विशसे⟫\&gt; | \&lt;⟪विशध्वे⟫\&gt; |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \&lt;⟪अविशथास्⟫\&gt; | \&lt;⟪अविशध्वम्⟫\&gt; |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \&lt;⟪विशेथास्⟫\&gt; | \&lt;⟪विशेध्वम्⟫\&gt; |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪विशसि⟫ | ⟪विशथ⟫ | \<⟪विशसे⟫\> | \<⟪विशध्वे⟫\> |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \<⟪अविशथास्⟫\> | \<⟪अविशध्वम्⟫\> |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \<⟪विशेथास्⟫\> | \<⟪विशेध्वम्⟫\> |
 
 #### 43.2.1.3. Quarta classis praesentium (⟪दिवादि⟫)
 
@@ -64,9 +64,9 @@ Tertia persona singularis aoris sive optativi forma est idem ac secunda persona 
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \&lt;⟪नृत्यसे⟫\&gt; | \&lt;⟪नृत्यध्वे⟫\&gt; |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \&lt;⟪अनृत्यथास्⟫\&gt; | \&lt;⟪अनृत्यध्वम्⟫\&gt; |
-| **Optativ** :br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \&lt;⟪नृत्येथास्⟫\&gt; | \&lt;⟪नृत्येध्वम्⟫\&gt; |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪नृत्यसि⟫ | ⟪नृत्यथ⟫ | \<⟪नृत्यसे⟫\> | \<⟪नृत्यध्वे⟫\> |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \<⟪अनृत्यथास्⟫\> | \<⟪अनृत्यध्वम्⟫\> |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \<⟪नृत्येथास्⟫\> | \<⟪नृत्येध्वम्⟫\> |
 
 #### 43.2.1.4. Decima classis praesentis (⟪चुरादि⟫) et causativa
 
@@ -107,7 +107,7 @@ Tertia persona singularis aoris sive optativi forma est idem ac secunda persona 
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :--- | :--- | :--- |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | \&lt;⟪भविष्यसे⟫\&gt; | \&lt;⟪भविष्यध्वे⟫\&gt; |
+| ⟪भविष्यसि⟫ | ⟪भविष्यथ⟫ | \<⟪भविष्यसे⟫\> | \<⟪भविष्यध्वे⟫\> |
 
 ## 43.3. Personalis pronomen secundae personae
 
@@ -146,6 +146,7 @@ Fig.: ⟪आपणः⟫
 ⟪पण्य⟫ 3: venalis; n.: merx, negotium
 
 ::: media
+![](/images/lekt4303.webp)
 ![lekt4303.webp](/images/lekt4303.webp)
 Fig.: ⟪पण्यानि⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt4303))
@@ -308,11 +309,11 @@ A) Formam secundae personae in tempore, numero, modo et ceteris correspondentem 
 
 B) Versio in Sanscritum:
 
-1. Quare sedetis dum magister stat?
+Quare sedetis dum magister stat?
 
-2. Dubitasne an bona actio bonum fructum habeat?
+Dubitasne an bona actio bonum fructum habeat?
 
-3. Monstraturus es patri intimam cellam templi?
+Monstraturus es patri intimam cellam templi?
 
 4\. Cuius carmen laudis cantavisti?
 
@@ -322,11 +323,11 @@ B) Versio in Sanscritum:
 
 7\. Quando Benares moratus es (⟪वृत्⟫)?
 
-8. Num vos, ut sacrificii domini, deos sacrificio coluistis?
+Num vos, ut sacrificii domini, deos sacrificio coluistis?
 
-9. Quā urbe nātus es?
+Quā urbe nātus es?
 
-10. Quomodo te ab hoste liberabis (praetergredieris)?
+Quomodo te ab hoste liberabis (praetergredieris)?
 
 ::: media
 ![](/images/lekt4308.webp)

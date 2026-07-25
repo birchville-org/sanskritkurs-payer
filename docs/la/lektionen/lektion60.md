@@ -24,7 +24,7 @@ status: stable
 ⟪बन्ध्⟫ 9P "ligare"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
@@ -75,7 +75,7 @@ status: stable
 ⟪कृ⟫ 8U (⟪अनिट्⟫) "facere"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
@@ -103,7 +103,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪ददथुर्⟫ | ⟪ददाथे⟫ \* |
 | 3\. ⟪प्रथमः⟫ | ⟪ददतुर्⟫ | ⟪ददाते⟫ \* |
 
-* idem ac formas indicativi praesentis correspondentes!
+idem ac formas indicativi praesentis correspondentes!
 :::
 ### 60.2.5. Typus V: Consonans-a-Consonans
 
@@ -123,7 +123,7 @@ status: stable
 ⟪पच्⟫ 1U "garen"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
@@ -274,7 +274,7 @@ Huc pertinent:
 
 Paradigma ⟪प्राञ्च्⟫ supra vide!
 
-# Principales caeli
+Plagae caeli cardinales
 
 |   | ⟪उदञ्च्⟫ 3:br"nach oben gerichtet,:brnördlich" |   |
 | :---: | :---: | :---: |
@@ -323,16 +323,16 @@ Regulae de usu vocis coniunctionis -i- vide apud Kielhorn, Grammatica § 443 - 4
 
 1.  Radix fere est profunda: ⟪जीव्⟫ » ⟪जिजीविष⟫-
 
-1.  -i finalis et -u per -ī vel -ū substituuntur, si nulla vox coniunctionis sequitur:
+    1.  -i finalis et -u per -ī vel -ū substituuntur, si nulla vox coniunctionis sequitur:
         ⟪जि⟫ » ⟪जि⟫***⟪गी⟫***⟪ष⟫- "victoriae cupere"  
         ⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- "currere cupere"
 
-2.  -ṛ finalis et -ṝ per -īr, post labiales vero per -ūr substituuntur, si nulla vox coniunctionis sequitur:
+    2.  -ṛ finalis et -ṝ per -īr, post labiales vero per -ūr substituuntur, si nulla vox coniunctionis sequitur:
         ⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- "facere cupere"  
         ⟪मृ⟫ » ⟪मु⟫***⟪मूर्ष⟫***\- "moriturum esse"  
         ⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "implere cupere"
 
-3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ et aliae radices nonnullae in -ā, -e, -o gradum profundum Ø habent:
+    3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ et aliae radices nonnullae in -ā, -e, -o gradum profundum Ø habent:
         ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
         ⟪धा⟫ » ⟪धित्स⟫-  
         ⟪मा⟫ » ⟪मित्स⟫-
@@ -342,17 +342,17 @@ Regulae de usu vocis coniunctionis -i- vide apud Kielhorn, Grammatica § 443 - 4
         ⟪गै⟫ » ⟪जिगास⟫- "cantare cupere"  
         ⟪पा⟫ » ⟪पिपास⟫- "bibere cupere, sitire"
 
-2.  radices plerae formae (consonans -) a / ā - consonantis:
+    2.  radices plerae formae (consonans -) a / ā - consonantis:
         ⟪दह्⟫ » ⟪दिधक्ष⟫- "velle ardere"  
         ⟪खाद्⟫ » ⟪चिखादिष⟫- "velle masticare"
 
-3.  adveniente vocali coniunctionis -i-:
+    3.  adveniente vocali coniunctionis -i-:
         1.  necessario: radices formae i/u - consonantis necnon (consonans -) ṛ/ḷ - consonantis:
             ⟪इष्⟫ » ⟪एषिषिष⟫- "velle desiderare"  
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "velle convenire"  
             ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- "velle ridere"
 
-2.  arbitrio: radices formae consonantis - (consonans -) i/u - consonantis praeter -v\_
+        2.  arbitrio: radices formae consonantis - (consonans -) i/u - consonantis praeter -v\_
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "velle fulgurare"
 :::
 ::: grammar-box

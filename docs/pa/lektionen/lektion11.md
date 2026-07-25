@@ -1,9 +1,9 @@
 ---
-title: ਪਾਠ 11
-subtitle: "ਦੋਹਰਾ ਕਰਤਾ (ਵਿਅਕਤੀ ਅਤੇ ਵਸਤੂ ਦਾ ਕਰਤਾ)"
+title: Lektion 11
+subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
-category: "ਵਿਆਕਰਨ"
+category: "Grammatik"
 status: stable
 ---
 
@@ -75,7 +75,6 @@ status: stable
 
 - **iṣ** 6 P ⟪इष्⟫ : ਚਾਹੁਣਾ
   - **iṣṭi** f. ⟪इष्टि⟫ : ਇੱਛਾ (**iṣ** + **-ti**)
-
 
 ## 11.3. ਅਭਿਆਸ
 
