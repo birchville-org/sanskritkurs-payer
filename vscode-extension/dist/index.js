@@ -7,9 +7,9 @@ var __commonJS = (cb, mod) => function __require() {
   }
 };
 
-// ../../extensible-markdown-plugin/node_modules/markdown-it-container/index.js
+// node_modules/markdown-it-container/index.js
 var require_markdown_it_container = __commonJS({
-  "../../extensible-markdown-plugin/node_modules/markdown-it-container/index.js"(exports2, module2) {
+  "node_modules/markdown-it-container/index.js"(exports2, module2) {
     "use strict";
     module2.exports = function container_plugin(md, name, options) {
       function validateDefault(params) {
@@ -106,11 +106,32 @@ var require_markdown_it_container = __commonJS({
   }
 });
 
-// ../../extensible-markdown-plugin/index.js
-var require_extensible_markdown_plugin = __commonJS({
-  "../../extensible-markdown-plugin/index.js"(exports2, module2) {
+// node_modules/markdown-it-extensible/index.js
+var require_markdown_it_extensible = __commonJS({
+  "node_modules/markdown-it-extensible/index.js"(exports2, module2) {
+    var fs = require("fs");
+    var path = require("path");
     var container = require_markdown_it_container();
+    var cachedCss = "";
+    try {
+      cachedCss = fs.readFileSync(path.join(__dirname, "vscode-extension/media/payer-theme.css"), "utf8");
+    } catch (e) {
+    }
     module2.exports = function scholarlyPlugin(md, options = {}) {
+      const injectStyles = options.injectStyles !== false;
+      if (injectStyles && cachedCss) {
+        md.core.ruler.push("extensible_styles_inject", (state) => {
+          if (state.tokens.length > 0 && !state.env.__extensibleStylesInjected) {
+            state.env.__extensibleStylesInjected = true;
+            const styleToken = new state.Token("html_block", "", 0);
+            styleToken.content = `<style>
+${cachedCss}
+</style>
+`;
+            state.tokens.unshift(styleToken);
+          }
+        });
+      }
       const blockContainers = options.blockContainers && options.blockContainers.length > 0 ? options.blockContainers : [
         { name: "grammar-box", className: "grammar-box" },
         { name: "grammarbox", className: "grammar-box" },
@@ -157,38 +178,59 @@ ${titleHtml}`;
           }
         });
       });
-      md.core.ruler.before("curly_attributes", "table_meta_fix", (state) => {
-        for (let i = 0; i < state.tokens.length; i++) {
-          const token = state.tokens[i];
-          if (token.type === "tbody_close") {
-            token.type = "tbody_close_temp";
+      try {
+        md.core.ruler.before("curly_attributes", "table_meta_fix", (state) => {
+          for (let i = 0; i < state.tokens.length; i++) {
+            const token = state.tokens[i];
+            if (token.type === "tbody_close") {
+              token.type = "tbody_close_temp";
+            }
           }
-        }
-      });
-      md.core.ruler.after("curly_attributes", "table_meta_restore", (state) => {
-        for (let i = 0; i < state.tokens.length; i++) {
-          const token = state.tokens[i];
-          if (token.type === "tbody_close_temp") {
-            token.type = "tbody_close";
+        });
+        md.core.ruler.after("curly_attributes", "table_meta_restore", (state) => {
+          for (let i = 0; i < state.tokens.length; i++) {
+            const token = state.tokens[i];
+            if (token.type === "tbody_close_temp") {
+              token.type = "tbody_close";
+            }
           }
-        }
+        });
+      } catch (e) {
+      }
+      const inlineDirectives = options.inlineDirectives && options.inlineDirectives.length > 0 ? options.inlineDirectives : [
+        { name: "sig", className: "signalrot", tag: "strong" },
+        { name: "mark", className: "marker-yellow", tag: "mark" }
+      ];
+      const directiveMap = /* @__PURE__ */ new Map();
+      inlineDirectives.forEach((dir) => {
+        directiveMap.set(dir.name, {
+          className: dir.className || dir.name,
+          tag: dir.tag || "span"
+        });
       });
+      const getScholarlyRe = (inTable = false) => inTable ? /([⟪《][^⟫⟩》]+[⟫⟩》](?:\s*\|\|?)?|(?<!:):[a-zA-Z0-9_-]+\[.*?\]|(?<!:):br|(?<!:):indent)/g : /([⟪《][^⟫⟩》]+[⟫⟩》](?:\s*\|\|?)?|(?<!:):[a-zA-Z0-9_-]+\[.*?\])/g;
       md.core.ruler.after("linkify", "scholarly_fixes", (state) => {
-        state.tokens.forEach((token) => {
-          if (token.type !== "inline") return;
+        let insideTable = false;
+        for (let i = 0; i < state.tokens.length; i++) {
+          const token = state.tokens[i];
+          if (token.type === "table_open") {
+            insideTable = true;
+          } else if (token.type === "table_close") {
+            insideTable = false;
+          }
+          if (token.type !== "inline") continue;
           let newChildren = [];
           token.children?.forEach((child) => {
             if (child.type !== "text") {
               newChildren.push(child);
               return;
             }
-            const SCHOLARLY_RE = /([⟪《][^⟫⟩》]+[⟫⟩》](?:\s*\|\|?)?|sig\[.*?\]|(?<!:):br|(?<!:):indent)/g;
-            if (!SCHOLARLY_RE.test(child.content)) {
+            if (!getScholarlyRe(insideTable).test(child.content)) {
               newChildren.push(child);
               return;
             }
-            function processContent(content, isInsideSig = false) {
-              const parts = content.split(SCHOLARLY_RE);
+            function processContent(content) {
+              const parts = content.split(getScholarlyRe(insideTable));
               parts.forEach((part) => {
                 if (!part) return;
                 if (part.match(/^[⟪《].*[⟫⟩》](?:\s*\|\|?)?$/)) {
@@ -213,17 +255,24 @@ ${titleHtml}`;
                   const span = new state.Token("html_inline", "", 0);
                   span.content = `<span class="sanskrit-dev" translate="no" lang="sa">${innerText}${dandaHtml}</span>`;
                   newChildren.push(span);
-                } else if (part.match(/^sig\[.*\]$/) && !isInsideSig) {
-                  const spanOpen = new state.Token("html_inline", "", 0);
-                  spanOpen.content = `<strong class="signalrot">`;
-                  newChildren.push(spanOpen);
-                  processContent(part.slice(4, -1), true);
-                  const spanClose = new state.Token("html_inline", "", 0);
-                  spanClose.content = `</strong>`;
-                  newChildren.push(spanClose);
-                } else if (part === ":br") {
+                } else if (part.match(/^:[a-zA-Z0-9_-]+\[.*\]$/)) {
+                  const colonPos = part.indexOf(":");
+                  const bracketPos = part.indexOf("[");
+                  const dirName = part.slice(colonPos + 1, bracketPos);
+                  const innerText = part.slice(bracketPos + 1, -1);
+                  const config = directiveMap.get(dirName) || { className: dirName, tag: "span" };
+                  const tagName = config.tag || "span";
+                  const className = config.className || dirName;
+                  const openTag = new state.Token("html_inline", "", 0);
+                  openTag.content = `<${tagName} class="${className}">`;
+                  newChildren.push(openTag);
+                  processContent(innerText);
+                  const closeTag = new state.Token("html_inline", "", 0);
+                  closeTag.content = `</${tagName}>`;
+                  newChildren.push(closeTag);
+                } else if (part === ":br" && insideTable) {
                   newChildren.push(new state.Token("hardbreak", "br", 0));
-                } else if (part === ":indent") {
+                } else if (part === ":indent" && insideTable) {
                   const span = new state.Token("html_inline", "", 0);
                   span.content = '<span class="indent-inline"></span>';
                   newChildren.push(span);
@@ -237,14 +286,14 @@ ${titleHtml}`;
             processContent(child.content);
           });
           token.children = newChildren;
-        });
+        }
       });
     };
   }
 });
 
 // src/index.js
-var extensiblePlugin = require_extensible_markdown_plugin();
+var extensiblePlugin = require_markdown_it_extensible();
 var vscode = require("vscode");
 function activate(context) {
   return {

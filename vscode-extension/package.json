@@ -89,7 +89,7 @@
   },
   "devDependencies": {
     "esbuild": "^0.28.1",
-    "markdown-it-extensible": "file:../../extensible-markdown-plugin"
+    "markdown-it-extensible": "git+https://github.com/marcodem/markdown-it-extensible.git#main"
   },
   "scripts": {
     "build": "esbuild src/index.js --bundle --outfile=dist/index.js --external:vscode --format=cjs --platform=node",
