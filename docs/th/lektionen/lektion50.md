@@ -1,9 +1,9 @@
 ---
-title: บทที่ 50
-subtitle: "การสร้างคำนาม: การเปรียบเทียบระดับปกติ"
+title: Lektion 50
+subtitle: "Nominalbildung: regelmässige Steigerung"
 lesson_id: 50
 last_reconstructed: 2026-05-21
-category: "ไวยากรณ์"
+category: "Grammatik"
 status: stable
 ---
 
@@ -100,7 +100,6 @@ Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 ภาพประกอบ: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), รัฐมนตรีสหภาพในกระทรวงวิทยาศาสตร์และเทคโนโลยีและกระทรวงธรณีศาสตร์ (ตั้งแต่ปี 2006)
 (แหล่งที่มาของภาพ: [รายละเอียด](/th/licenses#lekt5001))
-
 :::
 ⟪रहस्⟫ น.: ความลับ, ความโดดเดี่ยว
 
@@ -197,7 +196,6 @@ Perf. ⟪चचक्षे⟫
 ไม่ใช้ในกาลอื่นๆ
 :::
 ⟪चक्ष्⟫ + ⟪प्र⟫ 2Ā ⟪प्रचष्टे⟫ : เล่า, ถือว่า, เรียกว่า
-
 
 ⟪देश⟫ m.: สถานที่, ที่ตั้ง, ประเทศ, บริเวณ
 
@@ -300,7 +298,6 @@ sig[⟪द्रष्टृदृश्ययोः⟫] ⟪संयोगो�
 **lekt5006:** ลису = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [แหล่งที่มาของภาพ: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- เข้าถึงเมื่อ 12 มกราคม 2009. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ให้เครดิต, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)]
 
 **lekt5001:** Kapil Sibal (1948 -), รัฐมนตรีสหภาพในกระทรวงวิทยาศาสตร์และเทคโนโลยีและกระทรวงธรณีศาสตร์ (ตั้งแต่ปี 2006) [แหล่งที่มาของภาพ: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- เข้าถึงเมื่อ 12 มกราคม 2009. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ให้เครดิต, แบ่งปันแบบเดียวกัน)]
-
 
 **lekt5002:** การมาถึงของมรสุม, บังกาลอร์ ಬೆಂಗಳೂರು [แหล่งที่มาของภาพ: vandan desai. -- [http://www.flickr.com/photos/vandan/526579892/](http://www.flickr.com/photos/vandan/526579892/). -- เข้าถึงเมื่อ 2009-01-12. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ให้เครดิต ไม่ใช้เพื่อการค้า ไม่ดัดแปลง)]
 

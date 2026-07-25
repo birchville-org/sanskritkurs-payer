@@ -1,14 +1,13 @@
 ---
-title: บทที่ 13
-subtitle: "PPP บน -na-"
+title: Lektion 13
+subtitle: "PPP auf -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
-category: "ไวยากรณ์"
+category: "Grammatik"
 status: stable
 ---
 
 # บทที่ 13
-
 
 ## 13.1. PPP บน -na-
 
@@ -93,11 +92,10 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 :::
 **กรณีหนักได้แก่:**
 
-| | เอกพจน์:br⟪एकवचन⟫ | ทวิพจน์:br⟪द्विवचन⟫ | พหูพจน์:br⟪बहुवचन⟫ |
-
+| | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **สำหรับคำเพศชายและเพศหญิง** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ | Nominative:br⟪प्रथमा⟫:br:brVocative:br⟪सम्बोधनप्रथमा⟫ |
-| **สำหรับคำเพศกลาง** :br⟪नपुंसक⟫ | — | — | Nominative:br⟪प्रथमा⟫:brAccusative:br⟪द्वितीया⟫:brVocative:br⟪सम्बोधनप्रथमा⟫ |
+| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
+| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
 
 **กรณีนอกเหนือจากนี้ทั้งหมดเป็นแบบอ่อน (weak).**
 
@@ -145,12 +143,12 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 | | | เพศชาย || คำเพศกลาง ||
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| เอกพจน์:br⟪एकवचन⟫ | Nominative:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Accusative:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Instrumental:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
-| พหูพจน์:br⟪बहुवचन⟫ | Nominative:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Accusative:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Instrumental:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
+| Singular:br⟪एकवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | Akkusativ:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | Instrumentalis:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
+| Plural:br⟪बहुवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | Akkusativ:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | Instrumentalis:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 
 เพศหญิง:
 
@@ -158,7 +156,6 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 ตัวอย่าง:
 * paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
-
 
 :::
 
@@ -195,7 +192,6 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 ::: indent
 **pā** 1 P (pibati), Pass. pīyate, PPP pīta ⟪पा⟫ ⟪पिबति⟫ ⟪पीयते⟫ ⟪पीत⟫ : ดื่ม (โดยประเพณีจัดอยู่ในคลาสที่ 1)
-
 :::
 - **dviṣ** 2 U (dveṣṭi), Pass. dviṣyate, PPP dviṣṭa ⟪द्विष्⟫ ⟪द्वेष्टि⟫ ⟪द्विष्यते⟫ ⟪द्विष्ट⟫ : เกลียดชัง, เป็นศัตรูกับ
 - **ad** 2 P (atti), Pass. adyate, PPP anna ⟪अद्⟫ ⟪अत्ति⟫ ⟪अद्यते⟫ ⟪अन्न⟫ : รับประทาน, บริโภค
@@ -268,7 +264,6 @@ B) จงแปลและเปลี่ยนเป็นประโยค�
 ⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
 ⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
 
-
 ## 13.11. แบบฝึกหัดทบทวน
 
 A) จงแปลประโยคต่อไปนี้:
@@ -298,7 +293,6 @@ C) จงสร้างโครงสร้าง PPP จากประโย
 (ที่มาของภาพ: [รายละเอียด](/th/licenses#lekt1302))
 :::
 D) รูปสันธิต่อไปนี้สามารถเกิดจากกลุ่มเสียงใดได้บ้าง? จงระบุความเป็นไปได้ทั้งหมด:
-
 
 1. -a นำหน้าสระ (ยกเว้น a-)
 2. -ā-

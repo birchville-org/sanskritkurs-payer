@@ -76,7 +76,7 @@ _HTML_BLOCK_TAGS = re.compile(
 
 # ── Hilfsfunktionen ────────────────────────────────────────────────────────────
 
-FINISHED_LANGS = {'de', 'en', 'it', 'es', 'fr', 'ru', 'uk', 'rm', 'ar', 'fi', 'am', 'ta', 'pa', 'la', 'id'}
+FINISHED_LANGS = {'de', 'en', 'it', 'es', 'fr', 'ru', 'uk', 'rm', 'ar', 'fi', 'am', 'ta', 'pa', 'la', 'id', 'th'}
 
 def get_diff_files():
     """Gibt Liste der seit origin/main geänderten .md-Dateien zurück."""

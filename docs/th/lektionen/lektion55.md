@@ -1,9 +1,9 @@
 ---
-title: บทที่ 55
-subtitle: "อ-อาเรสต์ (อาเรสต์ที่มีสระธีม)"
+title: Lektion 55
+subtitle: "Der a-Aorist (Aorist mit Themavokal)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
-category: "ไวยากรณ์"
+category: "Grammatik"
 status: stable
 ---
 
