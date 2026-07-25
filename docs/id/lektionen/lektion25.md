@@ -1,15 +1,15 @@
 ---
-title: Lesson 25
-subtitle: "Formation of the Ablative (⟪पञ्चमी⟫ = \"fifth case ending\")"
+title: Lektion 25
+subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
 lesson_id: 25
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 25
+# Pelajaran 25
 
-## 25.1. Formation of the Ablative (⟪पञ्चमी⟫ = "fifth case ending")
+## 25.1. Bildung  Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung")
 
 ::: grammar-box
 Kecuali untuk kata sifat maskulin/netra yang berakhiran -a dan kata ganti, dalam bentuk tunggal, pada semua kelas deklinasi, bentuk ablatif (⟪पञ्चमी⟫) identik dengan bentuk genitif (⟪षष्ठी⟫).
@@ -27,16 +27,16 @@ Interrogative, relative, and demonstrative pronouns:
 
 ::: grammar-box
 
-| | Ablative singular:brMasculine / Neuter | Ablative singular:brFeminine |
+| | Ablatif Tunggal:brMaskulin / Netral | Ablatif Tunggal:brFeminin |
 | :--- | :--- | :--- |
-| **⟪किम्⟫** | **kasmāt**:br(⟪कस्मात्⟫) | **kasyāḥ**:br(⟪कस्याः⟫) |
-| **⟪यद्⟫** | **yasmāt**:br(⟪यस्मात्⟫) | **yasyāḥ**⟪यस्याः⟫) |
-| **⟪तद्⟫** | **tasmāt**:br(⟪तस्मात्⟫) | **tasyāḥ**:br(⟪तस्याः⟫) |
-| **⟪एतद्⟫** | **etasmāt**:br(⟪एतस्मात्⟫) | **etasyāḥ**:br(⟪एतस्याः⟫) |
-| **⟪इदम्⟫** | **asmāt**:br(⟪अस्मात्⟫) | **asyāḥ**:br(⟪अस्याः⟫) |
+| ⟪किम्⟫ | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) |
+| ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
+| ⟪तद्⟫ | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) |
+| ⟪एतद्⟫ | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) |
+| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
-## 25.2. Use of the Ablative (⟪पञ्चमी⟫)
+## 25.2. Gebrauch  Ablativ (⟪पञ्चमी⟫)
 
 "The ablative denotes that which remains fixed when something departs from it."
 
@@ -45,7 +45,7 @@ Pāṇini 2,3,28 + 1,4,24
 Ablativ digunakan terutama untuk menjawab pertanyaan "Dari mana?", "Mengapa?".
 
 ::: grammar-box
-1. Ablatif dengan demikian menunjukkan titik awal, asal-usul, dan materi.
+Ablatif dengan demikian menunjukkan titik awal, asal-usul, dan materi.
 
 The ablative can therefore also denote the person from whom one buys, hears, wishes, etc.
 :::
@@ -87,7 +87,7 @@ Contoh-contoh:
 :::
 Kata benda yang bukan feminin dapat, untuk menunjukkan alasan suatu tindakan, berada dalam kasus instrumental (⟪तृतीया⟫) atau ablative (⟪पञ्चमी⟫). Kata benda feminin dalam hal ini biasanya berada dalam kasus instrumental, tetapi kadang-kadang juga dapat berada dalam kasus ablative.
 
-## 25.3. The Suffix -⟪तस्⟫
+## 25.3. Sufiks -⟪तस्⟫
 
 ::: grammar-box
 Jika seseorang ingin menyatakan secara tunggal (tanpa ambiguitas) bahwa kata tersebut digunakan dalam makna ablative, seseorang dapat menambahkan sufiks -⟪तस्⟫ ke pada stem kata, yang membentuk adverbia dengan sebagian besar makna ablative (menjawab pertanyaan "Dari mana?"):
@@ -109,7 +109,7 @@ Akhiran -⟪तस्⟫ juga terjadi pada batang pronominal:
 
 ⟪किम्⟫ :  ⟪कुतस्⟫ "from where?" "why?"
 :::
-## 25.4. Other Ways to Express Reasons
+## 25.4. Andere Möglichkeiten, Begründungen auszudrücken
 
 ::: grammar-box
 **1\. Relative Clauses**
@@ -135,8 +135,9 @@ Example:
 [Kalimat utama dapat saling dihubungkan menggunakan partikel ⟪हि⟫ "karena, sebab". Sebuah kalimat dengan ⟪हि⟫ (yang tidak boleh berada di tempat pertama, tetapi harus berada di tempat kedua dalam prosa) menunjukkan alasan baik untuk kalimat sebelumnya maupun untuk kalimat berikutnya:]
 [K0] :::
 [K1] Contoh:
-
 :::
+Contoh:
+
 ::: indent
 ⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "People do meritorious deeds. For they wish to enter heaven."
 :::
@@ -159,7 +160,7 @@ Furthermore, reasons can of course also be expressed through constructions with
 *   ⟪हेतु⟫ m.
 *   other nouns meaning "cause"
 
-+ Genitive (⟪षष्ठी⟫) or as the second member of compounds:
+Genitive (⟪षष्ठी⟫) or as the second member of compounds:
 :::
 Example:
 
@@ -293,11 +294,11 @@ Inf. ⟪लेप्तुम्⟫
 therefrom:
 
 ⟪लिप्ति⟫ f.: anointing, writing, script
-:::: media
+:::
+::: media
 ![](/images/lekt2503.webp)
 Fig.: ⟪लिप्तिः⟫
 (Image source: [Details](/en/licenses#lekt2503))
-::::
 :::
 ⟪वर्ष⟫ n.,m.: rain, rainy season, year
 
@@ -315,11 +316,11 @@ Absol 2: -⟪उह्य⟫
 therefrom:
 
 ⟪विवाह⟫ m.: leading away, marriage of a woman (Instr., saha) (for marriage see Basham, Wonder pp. 166-171)
-:::: media
+:::
+::: media
 ![](/images/lekt2504.webp)
 Fig.: ⟪विवाहः⟫
 (Image source: [Details](/en/licenses#lekt2504))
-::::
 :::
 ⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : lead away, instruct, educate
 
@@ -366,7 +367,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ⟪गोदान⟫ n.: giving of cows / of a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
-## 25.6. Exercise
+## 25.6. Latihan
 
 A) Lengkapi contoh konjugasi dari [Pelajaran 16](lektion16.md), Latihan Tinjauan A, dengan menambahkan 4. Datif (⟪चतुर्थी⟫) dan 5. Ablatif (⟪पञ्चमी⟫). Juga bentuk paradigma konjugasi dengan semua bentuk yang telah dipelajari sejauh ini untuk
 
@@ -445,7 +446,7 @@ Explanation: ⟪सर्वतस्⟫ = sarva "every, all" + -tas ; ⟪अण
 ::: indent
 Explanation: ⟪राजा⟫ = Nom. sg. from ⟪राजन्⟫ m. = ⟪नृप⟫
 :::
-## 25.8. Translation Exercise
+## 25.8. Latihan Penerjemahan
 
 1\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪१⟫ on the benefits of economics:
 
@@ -488,3 +489,4 @@ Penjelasan kata-kata yang disorot merah dalam teks di atas:
 1.5.16. ⟪धि⟫ Sandhi form, from ⟪हि⟫ ; ⟪आत्मवत्ता⟫ feminine: "self-possession"
 
 1.6.1. ⟪कार्य⟫ ⟪३⟫ "to be done, what must be done"
+

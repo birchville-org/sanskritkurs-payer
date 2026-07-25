@@ -1,12 +1,12 @@
 ---
-title: "Exercise 5"
+title: "Latihan 5"
 uebung_id: 5
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 5
+# Latihan 5
 
 [A] Terjemahkan kalimat-kalimat dan majemuk berikut ke dalam bahasa Sanskerta, serta selesaikan dvandva yang terdapat di dalamnya:
 
@@ -97,7 +97,7 @@ Fig.: ⟪अभ्निवेशो⟫ ⟪न⟫ ⟪वा⟫ ⟪।⟫
 :::
 ---
 
-## Review Exercise Lesson 5
+## Latihan Tinjauan Pelajaran 5
 
 A) Translate:
 

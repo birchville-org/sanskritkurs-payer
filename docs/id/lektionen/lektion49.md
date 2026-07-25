@@ -1,39 +1,39 @@
 ---
-title: Lesson 49
-subtitle: "Formation of the Imperative (⟪लोट्⟫) athematic present stems (continuation)"
+title: Lektion 49
+subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 49
+# Pelajaran 49
 
-## 49.1. Formation of the Imperative (⟪लोट्⟫) athematic present stems (continued)
+## 49.1. Bildung  Imperatifs (⟪लोट्⟫) athematischer Presentstämme (Fortsetzung)
 
-### 49.1.1. Seventh Present Class (⟪रुधादि⟫)
+### 49.1.1. Siebte Presentklasse  (⟪रुधादि⟫)
 
 ⟪युज्⟫ 7U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪युनजानि⟫:bryu-na-j-āni | ⟪युनजाम⟫ | ⟪युनजै⟫ | ⟪युनजामहै⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪युङ्ग्धि⟫:bryu-n-j + dhi:br⟪युङ्धि⟫ | ⟪युङ्क्त⟫:br⟪युङ्त⟫ | ⟪युङ्क्ष्व⟫ | ⟪युङ्ग्ध्वं⟫:br⟪युङ्ध्वम्⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪युनक्तु⟫:bryu-na-j + tu | ⟪युञ्जन्तु⟫ | ⟪युङ्क्ताम्⟫:br⟪यु्ङ्ताम्⟫ | ⟪युञ्जताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪युनजानि⟫:bryu-na-j-āni | ⟪युनजाम⟫ | ⟪युनजै⟫ | ⟪युनजामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪युङ्ग्धि⟫:bryu-n-j + dhi:br⟪युङ्धि⟫ | ⟪युङ्क्त⟫:br⟪युङ्त⟫ | ⟪युङ्क्ष्व⟫ | ⟪युङ्ग्ध्वं⟫:br⟪युङ्ध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪युनक्तु⟫:bryu-na-j + tu | ⟪युञ्जन्तु⟫ | ⟪युङ्क्ताम्⟫:br⟪यु्ङ्ताम्⟫ | ⟪युञ्जताम्⟫ |
 :::
 ⟪रुध्⟫ 7U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪रुणधानि⟫:brru-ṇa-dh-āni | ⟪रुणधाम⟫ | ⟪रुणधै⟫ | ⟪रुणधामहै⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪रुणधानि⟫:brru-ṇa-dh-āni | ⟪रुणधाम⟫ | ⟪रुणधै⟫ | ⟪रुणधामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
 :::
-### 49.1.2. Fifth Present Class (⟪स्वादि⟫)
+### 49.1.2. Fünfte Presentklasse (⟪स्वादि⟫)
 
 ::: grammar-box
 Imperatif 2.sg.P berakhiran nol untuk akar kelas ke-5 dan ke-8, di mana hanya konsonan mendahului -u akhir dari sufiks.
@@ -42,55 +42,55 @@ Imperatif 2.sg.P berakhiran nol untuk akar kelas ke-5 dan ke-8, di mana hanya ko
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ***⟪सुनु⟫*** | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
+| :---: | :---: | :---: | :---: | :---: |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ***⟪सुनु⟫*** | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
 :::
 ⟪आप्⟫ 5P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪आप्नवानि⟫ | ⟪आप्नवाम⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪आप्नवानि⟫ | ⟪आप्नवाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
 :::
-### 49.1.3. Eighth Present Class (⟪तनादि⟫)
+### 49.1.3. Achte Presentklasse (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪तनवानि⟫ | ⟪तनवाम⟫ | ⟪तनवै⟫ | ⟪तनवामहै⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ***⟪तनु⟫*** | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪तनोतु⟫ | ⟪तन्वन्तु⟫ | ⟪तनुताम्⟫ | ⟪तन्वताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪तनवानि⟫ | ⟪तनवाम⟫ | ⟪तनवै⟫ | ⟪तनवामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ***⟪तनु⟫*** | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪तनोतु⟫ | ⟪तन्वन्तु⟫ | ⟪तनुताम्⟫ | ⟪तन्वताम्⟫ |
 :::
 ⟪कृ⟫ 8U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪करवाणि⟫ | ⟪करवाम⟫ | ⟪करवै⟫ | ⟪करवामहै⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ***⟪कुरु⟫*** | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪करवाणि⟫ | ⟪करवाम⟫ | ⟪करवै⟫ | ⟪करवामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ***⟪कुरु⟫*** | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
 :::
-### 49.1.4. Ninth Present Class (⟪क्र्यादि⟫)
+### 49.1.4. Neunte Presentklasse (⟪क्र्यादि⟫)
 
 ⟪क्री⟫ 9U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Orang Pertama**:br⟪तृतीयः⟫ | ⟪क्रीणानि⟫:brkrī-ṇā + āni | ⟪क्रीणाम⟫ | ⟪क्रीणै⟫:brkrī-ṇā + ai | ⟪क्रीणामहै⟫ |
-| **Orang Kedua**:br⟪मध्यमः⟫ | ⟪क्रीणीहि⟫ | ⟪क्रीणीत⟫ | ⟪क्रीणीष्व⟫ | ⟪क्रीणीध्वम्⟫ |
-| **Orang Ketiga**:br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪क्रीणानि⟫:brkrī-ṇā + āni | ⟪क्रीणाम⟫ | ⟪क्रीणै⟫:brkrī-ṇā + ai | ⟪क्रीणामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪क्रीणीहि⟫ | ⟪क्रीणीत⟫ | ⟪क्रीणीष्व⟫ | ⟪क्रीणीध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
 :::
 ::: grammar-box
 Akar kelas 9 yang berakhir dengan konsonan mengganti akhir -nī-hi Imperatif ke-2.sg. dengan -āna
@@ -100,58 +100,58 @@ Akar kelas 9 yang berakhir dengan konsonan mengganti akhir -nī-hi Imperatif ke-
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ***⟪गृहाण⟫*** | ⟪गृह्णीत⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ***⟪गृहाण⟫*** | ⟪गृह्णीत⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
 :::
-## 49.2. Declension of nominal stems ending in -as, -is, -us
+## 49.2. Deklination  Nominalstämme auf -as, -is, -us
 
-#### Neuters (⟪नपुंसक⟫)
+#### Neutra (⟪नपुंसक⟫)
 
 ::: grammar-box
-| | **⟪मनस्⟫ n.**:br"thought" | **⟪हविस्⟫ n.**:br"sacrificial offering" | **⟪चक्षुस्⟫ n.**:br"eye" |
+| | **⟪मनस्⟫ n.** :br"Gedanke" | **⟪हविस्⟫ n.** :br"Opferspende" | **⟪चक्षुस्⟫ n.** :br"Auge" |
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | | | |
+| ⟪एकवचनम्⟫ | | | |
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪मनस्⟫ | ⟪हविस्⟫ | ⟪चक्षुस्⟫ |
-| **⟪तृतीया⟫** | ⟪मनसा⟫ | ⟪हविषा⟫ | ⟪चक्षुषा⟫ |
-| **⟪चतुर्थी⟫** | ⟪मनसे⟫ | ⟪हविषे⟫ | ⟪चक्षुषे⟫ |
-| **⟪पञ्चमी⟫** | ⟪मनसस्⟫ | ⟪हविषस्⟫ | ⟪कक्षुषस्⟫ |
-| **⟪षष्ठी⟫** | ⟪मनसस्⟫ | ⟪हविषस्⟫ | ⟪चक्षुषस्⟫ |
-| **⟪सप्तमी⟫** | ⟪मनसि⟫ | ⟪हविषि⟫ | ⟪चक्षुषि⟫ |
-| **⟪बहुवचनम्⟫** | | | |
+| ⟪तृतीया⟫ | ⟪मनसा⟫ | ⟪हविषा⟫ | ⟪चक्षुषा⟫ |
+| ⟪चतुर्थी⟫ | ⟪मनसे⟫ | ⟪हविषे⟫ | ⟪चक्षुषे⟫ |
+| ⟪पञ्चमी⟫ | ⟪मनसस्⟫ | ⟪हविषस्⟫ | ⟪कक्षुषस्⟫ |
+| ⟪षष्ठी⟫ | ⟪मनसस्⟫ | ⟪हविषस्⟫ | ⟪चक्षुषस्⟫ |
+| ⟪सप्तमी⟫ | ⟪मनसि⟫ | ⟪हविषि⟫ | ⟪चक्षुषि⟫ |
+| ⟪बहुवचनम्⟫ | | | |
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪मनांसि⟫ | ⟪हवींषि⟫ | ⟪चक्षूंषि⟫ |
-| **⟪तृतीया⟫** | ⟪मनोभिस्⟫ | ⟪हविर्भिस्⟫ | ⟪चक्षुर्भिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪मनोभ्यस्⟫ | ⟪हविर्भ्यस्⟫ | ⟪चक्षुर्भ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪मनोभ्यस्⟫ | ⟪हविर्भ्यस्⟫ | ⟪चक्षुर्भ्यस्⟫ |
-| **⟪षष्ठी⟫** | ⟪मनसाम्⟫ | ⟪हविषाम्⟫ | ⟪चक्षुषाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪मनस्सु⟫:br⟪मनःसु⟫ | ⟪हविष्षु⟫:br⟪हविःषु⟫ | ⟪चक्षुष्षु⟫:br⟪चक्षुःषु⟫ |
+| ⟪तृतीया⟫ | ⟪मनोभिस्⟫ | ⟪हविर्भिस्⟫ | ⟪चक्षुर्भिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪मनोभ्यस्⟫ | ⟪हविर्भ्यस्⟫ | ⟪चक्षुर्भ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪मनोभ्यस्⟫ | ⟪हविर्भ्यस्⟫ | ⟪चक्षुर्भ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪मनसाम्⟫ | ⟪हविषाम्⟫ | ⟪चक्षुषाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪मनस्सु⟫:br⟪मनःसु⟫ | ⟪हविष्षु⟫:br⟪हविःषु⟫ | ⟪चक्षुष्षु⟫:br⟪चक्षुःषु⟫ |
 :::
-#### Masculines (⟪पुंस्⟫) and Feminines (⟪स्त्री⟫)
+#### Maskulina (⟪पुंस्⟫) dan Feminina (⟪स्त्री⟫)
 
 Sebagian besar kasus adalah **⟪बहुव्रीहि⟫** dengan akhiran -s (asalnya netral) pada anggota kedua.
 
 ::: grammar-box
-| | **⟪सुमनस्⟫ 3**:br"berpikir baik, welas asih" | **⟪दीर्घायुस्⟫ 3**:br"umur panjang" |
-| :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | | |
-| **⟪प्रथम⟫** | ⟪सुमनास्⟫ | ⟪दीर्घायुस्⟫ |
-| **⟪द्विटिया⟫** | ⟪सुमनसम्⟫ | ⟪दीर्घायुषम्⟫ |
-| **⟪आमन्त्रितम्⟫** | ⟪सुमनस्⟫ | ⟪दीर्घायुस्⟫ |
-:::: indent
+| | **⟪सुमनस्⟫ 3** :br"von gutem Denken, wohlwollend | **⟪दीर्घायुस्⟫ 3** :br"langlebig" |
+| :---: | :---: | :---: |
+| ⟪एकवचनम्⟫ | | |
+| ⟪प्रथम⟫ | ⟪सुमनास्⟫ | ⟪दीर्घायुस्⟫ |
+| ⟪द्विटिया⟫ | ⟪सुमनसम्⟫ | ⟪दीर्घायुषम्⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪सुमनस्⟫ | ⟪दीर्घायुस्⟫ |
+:::
+::: indent
 Kasus tunggal yang tersisa sama dengan Netral
-::::
 :::
 ::: grammar-box
 | | **⟪सुमनस्⟫ 3** | **⟪दीर्घायुस्⟫ 3** |
-| :---: | :---: | :---: | :---: |
-| **⟪बहुवचनम्⟫** | | |
+| :---: | :---: | :---: |
+| ⟪बहुवचनम्⟫ | | |
 | **⟪प्रथमा⟫, ⟪द्वितिया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसस्⟫ | ⟪दीर्घायुषस्⟫ |
 :::
 ::: indent
 Kasus jamak yang tersisa sama dengan Netral
 :::
-## 49.3. Penurunan Nominal: Akhiran Netral ⟪कृत्⟩-as
+## 49.3. Pembentukan Nominal: Sufiks ⟪कृत्⟫ -as Netral
 
 Dengan akhiran Netral ⟪कृत्⟩-as, banyak kata benda dibentuk. Sebagian besar adalah abstrakta atau nomina actionis (kata-kata yang menyatakan tindakan).
 
@@ -173,7 +173,7 @@ Kata benda pada -is dan -us relatif jarang.
 Fig.: ⟪नमस्ते⟫
 (Image source: [Details](/en/licenses#lekt4907))
 :::
-## 49.4. Word List
+## 49.4. Daftar Kata
 
 ⟪दीर्घ⟫ 3: long
 
@@ -307,11 +307,11 @@ Amritsar = ਅੰਮ੍ਰਿਤਸਰ
 
 ::: media
 ![](/images/lekt4906.webp)
-Fig.: ⟪गजशिशुः⟫
+Gbr.: ⟪गजशिशुः⟫
 Sri Lanka
-(Image source: [Details](/en/licenses#lekt4906))
+(Sumber gambar: [Detail](/en/licenses#lekt4906))
 :::
-## 49.5. Form Review Exercise
+## 49.5. Latihan Tinjauan Morfologi
 
 Determine the following forms:
 
@@ -355,7 +355,7 @@ Determine the following forms:
 38.  ⟪गायी⟫
 39.  ⟪मय्हम्⟫
 
-## 49.6. Translation Exercise
+## 49.6. Latihan Penerjemahan
 
 ⟪बान⟫ (7th cent. CE): ⟪कादम्बरी⟫, ed. M. R. Kale, 1968, p. 35f.
 
@@ -371,6 +371,7 @@ Fig.: ⟪शुकः⟫
 Plum-headed parakeet = Psittacula cyanocephala
 (Image source: [Details](/en/licenses#lekt4908))
 :::
+
 ::: deleteme-box
 
 **lekt4907:** [Image source: Ragesh Vasudevan. -- [http://www.flickr.com/photos/rageshev/2786703508/](http://www.flickr.com/photos/rageshev/2786703508/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
@@ -392,3 +393,4 @@ Plum-headed parakeet = Psittacula cyanocephala
 **lekt4908:** Plum-headed parakeet _= Psittacula cyanocephala_[Image source: Candle Tree. -- [http://www.flickr.com/photos/candletree/2529809901/](http://www.flickr.com/photos/candletree/2529809901/). -- Accessed on 2009-01-12. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
 
 :::
+

@@ -1,12 +1,12 @@
 ---
-title: "Exercise 43"
+title: "Latihan 43"
 uebung_id: 43
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 43
+# Latihan 43
 
 [A) Bentuklah bentuk **orang kedua** yang sesuai dari bentuk-bentuk kata kerja berikut dalam tenses, jumlah, modus, dll.:
 
@@ -73,7 +73,7 @@ Fig.: ⟪दिशसि⟫
 :::
 ---
 
-## Translations into Sanskrit
+## Übersetzungen ins Sanskrit
 
 B) Translate into Sanskrit:
 
@@ -114,7 +114,7 @@ Fig.: ⟪कदा⟫ ⟪काश्यामवर्तथाः⟫
 :::
 ---
 
-## Conversation (⟪संवादः⟫)
+## Gespräch (⟪संवादः⟫)
 
 | ⟪पात्रम्⟫ / ⟪संवादः⟫ | Terjemahan |
 | :--- | :--- |

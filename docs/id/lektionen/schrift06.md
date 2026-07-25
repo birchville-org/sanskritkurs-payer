@@ -1,6 +1,6 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Writing Exercise 6
+## Latihan Aksara 6
 
 ![](/images/schrift009.webp)
 
@@ -12,7 +12,7 @@ In older books printed in Calcutta, the following forms for jha can also be foun
 
 ![](/images/schrift011.jpg)
 
-## Exercise
+## Latihan
 
 A) Write in Devanāgarī:
 

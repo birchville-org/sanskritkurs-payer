@@ -1,14 +1,14 @@
 ---
-title: "Exercise 58"
+title: "Latihan 58"
 uebung_id: 58
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 58
+# Latihan 58
 
-## A) Transformasi iṣ-Aoris
+## A) iṣ-Aorist-Transformationen
 
 [Tentukan dan terjemahkan bentuk-bentuk berikut serta bentukkan bentuk **iṣ-Aorist** yang sesuai:]
 
@@ -40,7 +40,7 @@ Fig.: ⟪तब्लाः⟫
 :::
 ---
 
-## B) Word Determinations
+## B) Wortbestimmungen
 
 Determine and translate the following forms:
 

@@ -1,13 +1,11 @@
 ---
-title: "# Pelajaran 11"
+title: Lektion 11
 subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
 ---
-
-
 
 # Pelajaran 11
 
@@ -18,7 +16,7 @@ status: stable
 - Konsep dasar seperti **dharma**, **adharma** dan **putra**
 - Pembentukan nomina dari akar kata **vad**, **prach** dan **iṣ**
 :::
-## 11.1. Akusatif Ganda
+## 11.1. Doppelter Akkusativ
 
 ::: grammar-box
 **Beberapa kata kerja dapat mengatur akusatif ganda (dvitīyā): Akusatif orang dan Akusatif hal.**
@@ -40,33 +38,32 @@ mis. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 » Pasif: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
 :::
 
-## 11.2. Daftar Kosakata
+## 11.2. Daftar Kata
 
 **Pelajari kata-kata berikut:**
 
 - **iti** ⟪इति⟫ : demikian
-- Berada *setelah* perumusan pikiran, keinginan, ucapan, kutipan seolah-olah sebagai tanda kutip (").
-- mis. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmana berkata: 'Orang suci pergi ke surga'" = "Brahmana berkata bahwa orang suci pergi ke surga".
-- Dalam bahasa Sanskerta tidak ada kalimat tak langsung; pembentukan dengan **iti** sering kali harus diterjemahkan ke dalam bahasa Jerman sebagai kalimat tak langsung.
-- **... (kutipan) ... iti śrutiḥ** = "demikianlah Veda".
-- Seringkali setelah **iti** perlu ditambahkan kata kerja berpikir: "berpikir: '...' dia melakukan hal itu". Diterjemahkan secara idiomatik ke dalam bahasa Jerman (mis. "Karena dia lapar, dia pergi...").
+  - Berada *setelah* perumusan pikiran, keinginan, ucapan, kutipan seolah-olah sebagai tanda kutip (").
+  - mis. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmana berkata: 'Orang suci pergi ke surga'" = "Brahmana berkata bahwa orang suci pergi ke surga".
+  - Dalam bahasa Sanskerta tidak ada kalimat tak langsung; pembentukan dengan **iti** sering kali harus diterjemahkan ke dalam bahasa Jerman sebagai kalimat tak langsung.
+  - **... (kutipan) ... iti śrutiḥ** = "demikianlah Veda".
+  - Seringkali setelah **iti** perlu ditambahkan kata kerja berpikir: "berpikir: '...' dia melakukan hal itu". Diterjemahkan secara idiomatik ke dalam bahasa Jerman (mis. "Karena dia lapar, dia pergi...").
 
 - **evam** ⟪एवम्⟫ : demikian (adverbia, mis. **evaṃ jayati** "demikian dia menang").
 - **na** ⟪न⟫ : tidak
-- Menyangkal kata tunggal (berada tepat di depannya: **na sādhuḥ** "seorang tidak baik") atau seluruh kalimat (berada di awal atau tepat sebelum kata kerja).
+  - Menyangkal kata tunggal (berada tepat di depannya: **na sādhuḥ** "seorang tidak baik") atau seluruh kalimat (berada di awal atau tepat sebelum kata kerja).
 
 - **putra** m. ⟪पुत्र⟫ : putra (Di India perlu memiliki seorang putra yang dapat mempersembahkan korban untuk leluhur.)
 - **dharma** m. ⟪धर्म⟫ : ("yang teguh", yaitu) keadilan, hukum, adat, karakter.
-- Paling sesuai dengan hukum alam/hukum moral. Setiap orang memiliki kewajiban sendiri (**svadharma**) menurut **varṇa** dan **āśrama** (tahap kehidupan).
+  - Paling sesuai dengan hukum alam/hukum moral. Setiap orang memiliki kewajiban sendiri (**svadharma**) menurut **varṇa** dan **āśrama** (tahap kehidupan).
 - **adharma** m. ⟪अधर्म⟫ : ketidakadilan (kebalikan dari **dharma**).
 - **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : menginginkan (**iṣ-ccha-ti**).
-
 
 **Beberapa Bentuk Nomina:**
 
 - **vad** 1 P ⟪वद्⟫ : berkata
-- **vāda** m. ⟪वाद⟫ : ucapan, pernyataan, kata
-- **vadana** n. ⟪वदन⟫ : berbicara; alat bicara: mulut, wajah
+  - **vāda** m. ⟪वाद⟫ : ucapan, pernyataan, kata
+  - **vadana** n. ⟪वदन⟫ : berbicara; alat bicara: mulut, wajah
 
 ::: media
 ![](/images/lekt1102.webp)
@@ -74,11 +71,10 @@ Gambar: **vadanāni** = ⟪वदनानि⟫
 (Sumber gambar: [Detail](/id/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : bertanya
-- **praśna** m. ⟪प्रश्न⟫ : pertanyaan (akhiran **-na** seperti dalam **yaj-ña**)
+  - **praśna** m. ⟪प्रश्न⟫ : pertanyaan (akhiran **-na** seperti dalam **yaj-ña**)
 
 - **iṣ** 6 P ⟪इष्⟫ : menginginkan
-- **iṣṭi** f. ⟪इष्टि⟫ : keinginan (**iṣ** + **-ti**)
-
+  - **iṣṭi** f. ⟪इष्टि⟫ : keinginan (**iṣ** + **-ti**)
 
 ## 11.3. Latihan
 
@@ -109,16 +105,16 @@ Gambar: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪मह�
 (Sumber gambar: [Detail](/id/licenses#lekt1101))
 :::
 
-## 11.4. Latihan Ulangan
+## 11.4. Latihan Tinjauan
 
 **A) Terjemahkan ke dalam bahasa Sanskerta dengan menggunakan konstruksi pasif:**
 1. Para wanita Vaiśya bertanya kepada para Brahmana tentang Dharma.
-3. Para wanita suci mencapai surga.
-4. Seorang resi Weda tidak melakukan kejahatan apa pun.
-5. Para Brahmana, sebagai pendeta korban, menyembah Dewi dengan persembahan.
-6. Seorang wanita Śūdra pergi ke desa.
+2. Para wanita suci mencapai surga.
+3. Seorang resi Weda tidak melakukan kejahatan apa pun.
+4. Para Brahmana, sebagai pendeta korban, menyembah Dewi dengan persembahan.
+5. Seorang wanita Śūdra pergi ke desa.
+6. Siapa yang melihat kebenaran?
 7. Siapa yang melihat kebenaran?
-7. Wer sieht die Wahrheit?
 
 **B)**
 1. Sebutkan tugas semua Dwijottama (orang yang lahir dua kali) dengan menggunakan Dvandva. Uraikan majemuk tersebut ke dalam bahasa Sanskerta.

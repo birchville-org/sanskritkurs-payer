@@ -1,6 +1,6 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Writing Exercise 1
+## Latihan Aksara 1
 
 Bahasa Sanskerta telah dan terus ditulis dalam berbagai aksara. Ikhtisar berikut menyediakan pilihan kecil dari aksara-aksara tersebut:
 
@@ -28,7 +28,7 @@ Urutan penulisan kombinasi konsonan + vokal ini adalah:
 
 Saat menulis, setiap huruf termasuk palang horizontal diselesaikan di garis atas sebelum huruf berikutnya ditulis.
 
-## Exercise
+## Latihan
 
 Write in Devanāgarī:
 

@@ -1,13 +1,13 @@
 ---
-title: Lesson 28
+title: Lektion 28
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
 ---
 
-# Lesson 28
+# Pelajaran 28
 
-## 28.1. The Causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.1. Kausatif (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
 **Jika seseorang ingin menyatakan bahwa seseorang atau sesuatu menyebabkan atau membawa kepada orang lain atau sesuatu yang lain melakukan atau mengalami sesuatu, yang dinyatakan oleh sebuah akar (dengan atau tanpa awalan), maka digunakan bentuk kausatif (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫).**
@@ -16,9 +16,8 @@ Contoh:
 ⟪गम्⟫ "pergi" » Kausatif: ⟪गमयति⟫ "ia menyebabkan seseorang pergi; ia mengirim"
 ⟪दृश्⟫ "melihat" » Kausatif: ⟪दर्शयति⟫ "ia membuat melihat = ia menunjukkan"
 :::
----
 
-## 28.2. Sentence Construction with the Causative (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.2. Konstruksi Kalimat dengan Kausatif (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
 **Schema 1:**
@@ -50,6 +49,7 @@ Fig.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानम�
 Kuil ISKCON Bangalore.
 (Sumber gambar: [Details](/en/licenses#lekt2801))
 :::
+
 ::: grammar-box
 **Dibangun sesuai dengan Skema 1 juga adalah akar ⟪दृश्⟫:**
 
@@ -59,15 +59,17 @@ Contoh:
 (L⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "ia menunjukkan putra kepada Rāma"
 ⟪:::⟫
 Ayat berikut meringkas contoh pembentukan kausatif sesuai Skema 1 (bentuk kata kerja masing-masing adalah orang ketiga Imperfect Parasmaipada):
-
+:::
+Bait berikut merangkum contoh-contoh pembentukan kausatif menurut Skema 1 (bentuk-bentuk verba masing-masing adalah orang ke-3 Imperfek Parasmaipada):
+::: indent
 ⟪शत्रूनगमयत्स्वर्गं⟫
 ⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
 ⟪आशयच्चामृतं⟫ ⟪देवान्⟫
 ⟪वेदमध्यापयद्विधिम्⟫ ⟪।⟫
 ⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
 ⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
-
 :::
+
 ::: indent
 Pelindung dan tujuan saya adalah Hari,
 Yang mengirim musuh-musuh ke surga,
@@ -75,13 +77,14 @@ Yang mengajarkan pengikut-pengikutnya makna Veda,
 Yang memberi para dewa makanan keabadian,
 Yang mengajarkan Veda kepada Sang Pencipta,
 Yang menempatkan bumi di dalam air.
-:::: media
+:::
+::: media
 ![](/images/lekt2801.webp)
 Fig.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
 Gedung manajemen Universitas Jadavpur.
 (Sumber gambar: [Details](/en/licenses#lekt2802))
-::::
 :::
+
 ::: grammar-box
 **Skema 2:**
 
@@ -158,9 +161,7 @@ Result: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "The se
 ⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma menyuruh pelayan membawa beban"
 Hasil: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Pelayan membawa beban"
 
----
-
-## 28.3. Pembentukan akar kata sekarang untuk kausatif (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.3. Pembentukan Batang Present untuk Kausatif (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
 **Akhiran tematik dari akar kata sekarang ditambahkan ke akar kata kausatif**
@@ -172,7 +173,7 @@ Terdapat berbagai jenis pembentukan:
 :::
 Examples:
 
-| Akar | Kausatif 3rd sg. Indikatif Sekarang | Arti |
+| Akar | Kausativ 3. sg. Indikativ Present | Arti |
 | :--- | :--- | :--- |
 | ⟪विश्⟫ | ⟪वेशयति⟫ | menyebabkan masuk, memimpin masuk |
 | ⟪लुभ्⟫ | ⟪लोभयति⟫ | membuat keinginan, membuat berkeinginan, menggoda |
@@ -186,11 +187,11 @@ Examples:
 :::
 Contoh:
 
-| Akar | Kausatif 3rd sg. Indikatif Sekarang | Makna |
+| Akar | Kausativ 3. sg. Indikativ Present | Makna |
 | :--- | :--- | :--- |
-| ⟪भू⟫ | ⟪भावयति⟫:br(dari: bhau-aya-ti) | menyebabkan seseorang atau sesuatu menjadi, menghasilkan |
-| ⟪इ⟫ | ⟪आययति⟫:br(dari: ai-aya-ti) | menyebabkan seseorang pergi |
-| ⟪नी⟫ | ⟪नाययति⟫:br(dari: nai-aya-ti) | membiarkan memimpin |
+| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | menyebabkan seseorang atau sesuatu menjadi, menghasilkan |
+| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | menyebabkan seseorang pergi |
+| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | membiarkan memimpin |
 | ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | membiarkan membuat |
 | ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | membiarkan berbicara, membuat berbicara, (membuat berbicara sebuah teks =) membaca keras-keras |
 
@@ -201,7 +202,7 @@ Contoh:
 :::
 Example:
 
-| Root | Causative 3rd sg. Indicative Present | Meaning |
+| Akar | Kausativ 3. sg. Indikativ Present | Meaning |
 | :--- | :--- | :--- |
 | ⟪दुष्⟫ | ⟪दूषयति⟫:br(dūṣ-aya-ti) | to corrupt (someone) |
 
@@ -212,10 +213,10 @@ Example:
 :::
 Examples:
 
-| Akar | Kausatif 3rd sg. Indikativ Prasenta | Arti |
+| Akar | Kausativ 3. sg. Indikativ Present | Arti |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | membuat berdiri, mendirikan |
-| ⟪इ⟫ + ⟪अधि⟫:br"belajar" | ⟪अध्यापयति⟫:br(dari: adhi+ā-paya-ti):br(untuk penjelasan lihat Thumb-Hauschildt Vol. I,2 hlm 341) | membiarkan belajar, menginstruksikan |
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Penjelasan siehe Thumb-Hauschildt Bd. I,2 S. 341) | membiarkan belajar, menginstruksikan |
 
 ::: grammar-box
 **Irregular formations:**
@@ -228,8 +229,6 @@ Examples:
 Catatan:
 1. **ghātayati** sebenarnya adalah kata kerja yang berasal dari kata benda **ghāta** m. "pukulan" (denominatif) dan digunakan sebagai pengganti kausatif dari **han**.
 2. **pālayati** adalah kausatif yang sah, tetapi berasal dari akar kata **pṛ** 3 "menyeberangkan, menyelamatkan, melindungi": **pārayati** (pār-aya-ti) » **pālayati** (di beberapa bagian India, r sesuai dengan l, di tempat lain sebaliknya l sesuai dengan r).
-
----
 
 ## 28.4. Pembentukan Pasif (⟪यक्⟫) dari Kausatif
 
@@ -244,9 +243,7 @@ Contoh:
 :::
 While the passive from the original root is usually formed from the guṇa-grade root, the passive of the causative can usually be recognized by the fact that it is formed from the strong or dīrgha-grade root.
 
----
-
-## 28.5. Pembentukan Bentuk Masa Depan (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) dari Kata Kerja Kausatif
+## 28.5. Pembentukan Futurum (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) untuk Kausatif
 
 ::: grammar-box
 **Bentuk Masa Depan dari Kata Kerja Kausatif dibentuk dari akar kausatif, di mana akhiran -a- dari sufiks kausatif dihilangkan:**
@@ -256,9 +253,8 @@ While the passive from the original root is usually formed from the guṇa-grade
 Example:
 **budh** Future-Causative: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "he/she/it will awaken"
 :::
----
 
-## 28.6. Pembentukan PPP (⟪क्त⟫) untuk Kausatif
+## 28.6. Pembentukan PPP (⟪क्त⟫) dari Kausatif
 
 ::: grammar-box
 **Causative stem in -ay- (without final a) + -i- + -ta**
@@ -267,9 +263,8 @@ Examples:
 **gam** — **gamayati** — **gamita** (gam-i-ta) "sent" (PPP of the simple root: **gata**)
 **sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "placed"
 :::
----
 
-## 28.7. Pembentukan Absolutiv (⟪क्त्वा⟫ . ⟪ल्यप्⟫) dari Kausatif
+## 28.7. Pembentukan Absolutif (⟪क्त्वा⟫ . ⟪ल्यप्⟫) dari Kausatif
 
 ::: grammar-box
 **Absolutiv dalam -tvā dibentuk dari akar kausatif dalam -ay- (tanpa a akhir):**
@@ -292,9 +287,8 @@ Contoh:
 Example:
 **āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "after he has caused to come"
 :::
----
 
-## 28.8. Pembentukan Infinitif (⟪तुमुन्⟫) untuk Kausatif
+## 28.8. Pembentukan Infinitif (⟪तुमुन्⟫) dari Kausatif
 
 ::: grammar-box
 **Infinitif kausatif dibentuk dari akar kausatif dalam -ay- (tanpa a akhir):**
@@ -304,9 +298,8 @@ Example:
 Example:
 **jan** — **janayati** — **janayitum** (janay-i-tum) "to produce"
 :::
----
 
-## 28.9. The 10th Present Class (⟪चुरादि⟫ = ⟪चुर्⟫ etc.)
+## 28.9. Kelas Present ke-10 (⟪चुरादि⟫ = ⟪चुर्⟫ dst.)
 
 ::: grammar-box
 **Sama seperti cara pembentukan kata kerja kausatif, beberapa akar dari Kelas 10 Waktu Kini membentuk waktu kini (dan waktu lainnya) tanpa menjadi kausatif.**
@@ -318,9 +311,8 @@ Contoh:
 ::: grammar-box
 **Bentuk-bentuk kausatif untuk kata kerja Kelas 10 Waktu Kini identik dengan bentuk-bentuk kata kerja sederhana. Penentuan apakah sebuah kausatif hadir hanya dapat dilakukan dari makna atau kadang-kadang dari konstruksi.**
 :::
----
 
-## 28.10. Word List
+## 28.10. Daftar Kata
 
 ::: indent
 **⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: mengetahui, mengenali
@@ -330,14 +322,14 @@ Kaus. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
 dari ini: **vidyā** f., **veda** m.
-:::: indent
+:::
+::: indent
 **⟪विद्⟫** 6U **⟪विन्दति⟫** (!): menemukan
 Fut. **vediṣyati** / **vetsyat**
 Pass. **vidyate**: ada, terdapat
 Kaus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
-::::
 :::
 ::: indent
 **i + adhi** 2Ā **adhīte**, **adhīyate**: mempelajari, menghafal
@@ -358,6 +350,7 @@ Fig.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
 Lukisan oleh ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
 (Sumber gambar: [Rincian](/en/licenses#lekt2804))
 :::
+
 ::: indent
 **⟪चुर्⟫** 10 **⟪चोरयति⟫**: mencuri
 Fut. **corayiṣyati**
@@ -389,9 +382,7 @@ Girl carrying load. Near Ahmedabad.
 :::
 **⟪भृत्य⟫** m.: subordinate, servant
 
----
-
-## 28.11. Exercise
+## 28.11. Latihan
 
 **A) Bentukkan kata kerja penyebab dari bentuk-bentuk kata kerja dan partisip berikut, serta berikan artinya:**
 
@@ -493,7 +484,6 @@ Example: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हार�
 ⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪।⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ ⟪पूजां⟫ ⟪कृत्वा⟫ ⟪क्षत्रियाया⟫ ⟪धनमेषिष्यति⟫ ⟪॥८॥⟫
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
-
 
 ::: deleteme-box
 

@@ -1,12 +1,12 @@
 ---
-title: "Exercise 35"
+title: "Latihan 35"
 uebung_id: 35
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Lesson 35
+# Latihan 35
 
 [A] Bentuklah bentuk sempurna yang sesuai untuk bentuk-bentuk kata kerja berikut:
 
@@ -71,7 +71,7 @@ Para Arhat telah memutuskan ikatan keluarga, mengakhiri keserakahan, kebencian, 
 
 ---
 
-## Syntactic Variation (Perfect to Imperfect)
+## Syntaktische Variation (Perfekt zu Imperfek)
 
 [C0] C) Ubahlah kalimat-kalimat dari latihan B) dengan mengganti bentuk lampau sempurna (perfects) menjadi bentuk lampau tidak lengkap (imperfeks):
 

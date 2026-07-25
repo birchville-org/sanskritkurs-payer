@@ -1,6 +1,6 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Latihan Menulis 2
+## Latihan Aksara 2
 
 ![](/images/schrift004.webp)
 

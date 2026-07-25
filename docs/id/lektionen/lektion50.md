@@ -1,15 +1,15 @@
 ---
-title: Lesson 50
-subtitle: "Noun Formation: Regular Comparison"
+title: Lektion 50
+subtitle: "Nominalbildung: regelmässige Steigerung"
 lesson_id: 50
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 50
+# Pelajaran 50
 
-## 50.1. Nominal formation: regular comparison
+## 50.1. Nominalbildung: regelmässige Steigerung
 
 ::: grammar-box
 **Perbandingan reguler dalam bahasa Sanskerta menggunakan akhiran ⟪तद्धित⟫**
@@ -17,13 +17,14 @@ status: stable
 * **⟪तम⟫ (fem.: ⟪तमा⟫) dalam "superlatif"**
 
 **Akhiran-akhiran ini melekat pada batang maskulin kata sifat. Untuk kata benda dengan gradasi batang, mereka melekat pada batang lemah, yang memiliki bentuk sama seperti sebelumnya sebelum akhiran -su dari lokatif (⟪पञ्चमी⟫) jamak.**
-:::: media
+:::
+::: media
 ![](/images/lekt5007.webp)
 Fig.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
 ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_  = Gunung Everest
 (Sumber gambar: [Details](/en/licenses#lekt5007))
-::::
 :::
+
 ::: grammar-box
 **Arti:**
 
@@ -75,14 +76,14 @@ Examples:
 
 ::: indent
 e.g. ⟪सुतराम्⟫ (to ⟪सु⟫) "in a better way" (adverbially)
-:::: media
+:::
+::: media
 ![](/images/lekt5006.webp)
 Fig.: ⟪का⟫ ⟪पचतितमाम्⟫
 Lisu = , ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (Image source: [Details](/en/licenses#lekt5006))
-::::
 :::
-## 50.2. Word List
+## 50.2. Daftar Kata
 
 ⟪ध्रुव⟫ 3: firm, unchangeable
 
@@ -135,12 +136,12 @@ PPP ⟪वृष्ट⟫
 Inf. ⟪वर्षितुम्⟫
 Absol. ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
 Absol.-⟪वृष्य⟫
-:::: media
+:::
+::: media
 ![](/images/lekt5002.jpg)
 Fig.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 Kedatangan Monsun, Bangalore  ಬೆಂಗಳೂರು
 (Sumber gambar: [Details](/en/licenses#lekt5002))
-::::
 :::
 ⟪संयक्⟫ Adv.: benar, tepat, dengan cara yang benar; secara menyeluruh, sepenuhnya
 
@@ -156,16 +157,16 @@ Fig.: ⟪आदित्यः⟫
 Declension like ⟪यद्⟫ (exception: Nom.Akk.sg.Neuter)
 
 ::: grammar-box
-| | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
-| | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** |
+| | Tunggal:br⟪एकवचनम्⟫ || || Jamak:br⟪बहुवचनम्⟫ || ||
+| | **Maskulin:br⟪पुंस्⟫** | **Netral:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** | **Maskulin:br⟪पुंस्⟫** | **Netral:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Nominative:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Accusative:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **1. Nominatif:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. Akusatif:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
 | **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
-| **4. Dative:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **5. Ablative:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
-| **6. Genitive:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
-| **7. Locative:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
+| **4. Datif:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **5. Ablatif:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
+| **6. Genitif:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
+| **7. Lokatif:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
 :::
 ⟪वै⟫ : particle that emphasizes the preceding word: indeed, truly, but
 
@@ -198,7 +199,7 @@ tidak digunakan dalam tense lain
 
 ⟪देश⟫ m.: place, location, country, region
 
-## 50.3. Translation Exercise
+## 50.3. Latihan Penerjemahan
 
 [A) Untuk meninjau deklinasi: berikut ini adalah sebuah bait yang memuat semua bentuk dekliasi tunggal untuk ⟪गुरु⟫ m.:
 
@@ -207,12 +208,12 @@ tidak digunakan dalam tense lain
 ⟪गुरुणैव⟫ ⟪सहास्मि⟫ ⟪नमो⟫ ⟪गुरवे⟫ ⟪।⟫
 ⟪न⟫ ⟪गुरोः⟫ ⟪परमं⟫ ⟪शिशुरस्मि⟫ ⟪गुरोर्⟫
 ⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫
-:::: media
+:::
+::: media
 ![](/images/lekt5008.webp)
 Fig.: ⟪गुरुमेव⟫ ⟪भजे⟫
 Ganeshpuri, 80 km from Mumbai (⟪मुंबई⟫)
 (Image source: [Details](/en/licenses#lekt5008))
-::::
 :::
 B) Translate:
 
@@ -309,3 +310,4 @@ Explanations:
 **lekt5008:** Ganeshpuri, 80 km from Mumbai (⟪मुंबई⟫) [Image source: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Accessed on 2009-01-13. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, no commercial use, share alike)]
 
 :::
+

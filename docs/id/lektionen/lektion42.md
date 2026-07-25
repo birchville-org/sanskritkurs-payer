@@ -1,17 +1,17 @@
 ---
-title: Lesson 42
-subtitle: "Stems ending in -ṛ"
+title: Lektion 42
+subtitle: "Stämme auf -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 42
+# Pelajaran 42
 
-## 42.1. Tribes ending in -ṛ
+## 42.1. Stämme auf -ṛ
 
-### 42.1.1. Tribes with lengthened grade in the strong stem
+### 42.1.1. Batang kata dengan tingkat perpanjangan pada batang kata kuat
 
 ::: grammar-box
 Semua kata benda maskulin yang berakhiran -ṛ, kecuali istilah kekerabatan yang tercantum di bawah 1.3. Termasuk juga dalam sini adalah istilah-istilah kekerabatan:
@@ -55,7 +55,7 @@ Feminine:
 ::: indent
 **⟪स्वसृ⟫** f. dideklinasikan seperti **⟪दातृ⟫** dengan pengecualian akusatif (**⟪द्वितीया⟫**) jamak: ***⟪स्वसॄस्⟫***.
 :::
-### 42.1.2. Turunan Nominal: ⟪कृत्⟫ Akhiran -⟪तृ⟫
+### 42.1.2. Nominalbildung: ⟪कृत्⟫-Suffix -⟪तृ⟫
 
 ::: grammar-box
 Akhiran ⟪कृत्⟫ -⟪तृ⟫ yang sangat umum digunakan untuk membentuk agen nominal (penunjukan untuk ⟪कर्तृ⟫) dari hampir semua akar atau batang kausatif.
@@ -80,20 +80,21 @@ Examples:
 **⟪रक्षितृ⟫** m. "protector"
 
 **⟪बोधयितृ⟫** m. "awakener"
-:::: media
+:::
+::: media
 ![lekt4201.jpg](/images/lekt4201.jpg)
 Fig.: ⟪अयं⟫ ⟪बोधयिता⟫
 (Image source: [Details](/en/licenses#lekt4201))
-::::
 :::
+
 ::: grammar-box
 Rarely occurring neuters in -⟪तृ⟫ have a partially independent declension (see Kielhorn, Grammar § 148).
 
 The feminine of stems in -⟪तृ⟫ ends in **-⟪त्री⟫** (cf. **⟪देवी⟫**).
 
-e.g. **⟪कर्त्री⟫** f. "female agent"
+mis. **⟪कर्त्री⟫** f. "agen perempuan"
 :::
-### 42.1.3. Tribes with strong stem grade
+### 42.1.3. Pokok kata dengan tingkat kuat pada pokok kata kuat
 
 ::: grammar-box
 Istilah-istilah kekerabatan berikut termasuk dalam kategori ini:
@@ -129,7 +130,7 @@ Examples:
 | Rest as ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
-### 42.1.4. Stems ending in -ṛ in compounds
+### 42.1.4. Stämme auf -ṛ in Komposita
 
 ::: grammar-box
 As the first member of a compound, nouns ending in -ṛ naturally stand in their weak stem, i.e.
@@ -137,7 +138,7 @@ As the first member of a compound, nouns ending in -ṛ naturally stand in their
 *   **before consonants: -ṛ**
 *   **before vowels: -r**
 :::
-## 42.2. Word List
+## 42.2. Daftar Kata
 
 ⟪प्रकृति⟫ f.: (from ⟪कृ⟫ + ⟪प्र⟫) basic form, natural state, nature; primordial matter, prime substance
 
@@ -206,7 +207,7 @@ Inf. ⟪शंसितुम्⟫
 :::
 ⟪हृदय⟫ n.: heart
 
-### 42.2.1. Some Kinship Terms
+### 42.2.1. Einige Verwandtschaftsbezeichnungen
 
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
@@ -264,7 +265,7 @@ Upacara dilakukan untuk keduanya, yaitu ⟪श्राद्ध⟫ f. yang dise
 
 ⟪मातामही⟫ f.: Maternal grandmother
 
-## 42.3. Exercise
+## 42.3. Latihan
 
 Translate:
 
@@ -296,7 +297,7 @@ Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 
 ⟪नप्तॄणां⟫ ⟪लाभं⟫ ⟪पितैच्छत्⟫ ⟪॥९॥⟫
 
-## 42.4. Translation Exercise
+## 42.4. Latihan Penerjemahan
 
 ***⟪सीता⟫***⟪विवाहः⟫
 
@@ -374,5 +375,4 @@ Fig.: ⟪रावणः⟫
 * **Fig. lekt4206**: Lokasi ⟪मिथिला⟫ dan ⟪विदेह⟫, ⟪अयोध्या⟫ dan ⟪कोसल⟫. (Sumber gambar: JIJITH NR / Wikipedia. GNU FDLicense)
 * **Fig. lekt4207**: ⟪रावणः⟫. Topeng tari Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Sumber gambar: Manohara Upadhya / Wikipedia. GNU FDLicense)
 * **Fig. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Gambar ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Sumber gambar: Wikipedia. Domain publik)
-
 :::

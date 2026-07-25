@@ -1,14 +1,14 @@
 ---
-title: "Exercise 57"
+title: "Latihan 57"
 uebung_id: 57
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 57
+# Latihan 57
 
-## A) Transformasi Aoris
+## A) Aorist-Transformationen
 
 Terjemahkan dan tentukan bentuk-bentuk berikut, lalu bentuk bentuk **aorist** yang sesuai. Kecuali untuk kausatif dan akar kata yang membentuk **s-aorist**, kelas dari aorist yang sesuai diberikan dalam tanda kurung:
 
@@ -48,7 +48,7 @@ Fig.: ⟪वारानास्यां⟫ ⟪गङ्गायामप्�
 :::
 ---
 
-## B) Word Determinations
+## B) Wortbestimmungen
 
 Determine and translate the following forms:
 

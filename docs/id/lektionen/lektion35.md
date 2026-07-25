@@ -1,12 +1,12 @@
 ---
-title: Lesson 35
+title: Lektion 35
 lesson_id: 35
 status: stable
 ---
 
-# Lesson 35
+# Pelajaran 35
 
-## 35.1. Perfek Tipe III: Batang Kuat, Tingkat Guṇa/Ḍīrgha
+## 35.1. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
 
 ::: grammar-box
 **Formation:**
@@ -18,7 +18,7 @@ status: stable
 
 **batang lemah:** lihat subtipe
 :::
-### 35.1.1. Perfek Tipe IIIa: Batang kuat dalam tingkat guṇa/panjang, batang lemah dalam tingkat nol
+### 35.1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
 
 ::: grammar-box
 **Formation:**
@@ -37,8 +37,6 @@ Before endings beginning with a vowel, the following replacements occur:
 *   -ṛ becomes r
 Contoh:
 
-::: grammar-box
-
 | Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इयाय⟫:briy-ai + a | ⟪ईयुर्⟫:bri + iy + ur | | |
@@ -47,8 +45,7 @@ Contoh:
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-:::
-### 35.1.2. Perfek Tipe IIIb: Batang kuat dalam tingkat guṇa/panjang, batang lemah dalam tingkat guṇa
+### 35.1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
 
 ::: grammar-box
 **Formation:**
@@ -62,16 +59,13 @@ Dibentuk dari akar-akar dengan tipe berikut:
 *   Konsonan-Konsonan-ṛ (yaitu, akar yang berakhir dengan -ṛ yang didahului oleh beberapa konsonan)
 Contoh:
 
-::: grammar-box
-
 | Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पॄ⟫ 3P | ⟪पपार⟫ | ⟪पपरुर्⟫ | | |
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-:::
-## 35.2. Perfek Tipe IV: Batang yang berakhir dengan -ā / -āi
+## 35.2. Perfekt Typ IV: Wurzeln auf -ā / -āi
 
 ::: grammar-box
 **Formation:**
@@ -88,14 +82,11 @@ Dibentuk dari batang yang berakhir dengan -ā / -āi
 :::
 Contoh:
 
-::: grammar-box
-
 | Akar | 3. tg. Perf. P.:br1. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-:::
-## 35.3. Perfek Tipe V: Akar Konsonan-a-Konsonan
+## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
 
 ::: grammar-box
 **Formation:**
@@ -109,7 +100,7 @@ Contoh:
 
 Dibentuk dari akar dengan tipe (Konsonan)-Konsonan-a-Konsonan
 :::
-### 35.3.1. Perfek Tipe Va: Batang Lemah, Tingkat Guṇa
+### 35.3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
 
 ::: grammar-box
 **Formation:**
@@ -127,19 +118,16 @@ Dibentuk oleh berbagai akar, termasuk:
 *   ⟪यज्⟫
 Contoh:
 
-::: grammar-box
-
 | Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
-| ⟪हन्⟫ 2P | ***⟪जघान⟫***:brja-**ghān**-a | ***⟪जघ्नुर्⟫*** | | |
+| ⟪हन्⟫ 2P | sig[⟪जघान⟫] :brja-**ghān**-a | ***⟪जघ्नुर्⟫*** | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \&lt;⟪ऊदे⟫\&gt; | \&lt;⟪ऊदिरे⟫\&gt; |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-:::
-### 35.3.2. Perfek Tipe Vb: Kontraksi Batang Lemah (Tipe-e)
+### 35.3.2. Perfekt Typ Vb: schwacher Stamm Kontraktion (e-Typ)
 
 ::: grammar-box
 **Formation:**
@@ -152,14 +140,11 @@ Contoh:
 Dibentuk dari akar yang mengandung -a- di antara dua konsonan sederhana, yang konsonan awalnya tetap tidak berubah dalam suku kata reduplikasi (yaitu, yang konsonan awalnya bukan guttural, aspirat, atau h).
 Contoh:
 
-::: grammar-box
-
 | Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पच्⟫ 1U | ⟪पपाच⟫ | ***⟪पे⟫***⟪चुर्⟫ | ***⟪पे⟫***⟪चे⟫ | ***⟪पे⟫***⟪चिरे⟫ |
 
-:::
-### 35.3.3. Perfek Tipe Vc: Akar Konsonan-a-Konsonan. Batang Lemah Tingkat Kuat
+### 35.3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
 
 ::: grammar-box
 **Formation:**
@@ -176,14 +161,11 @@ dengan ketentuan mereka tidak termasuk dalam Perfek Tipe Va.
 :::
 Contoh:
 
-::: grammar-box
-
 | Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪क्रम्⟫ 1U | ⟪चक्राम⟫ | ⟪चक्रमुर्⟫ | ⟪चक्रमे⟫ | ⟪चक्रमिरे⟫ |
 
-:::
-## 35.4. Word List
+## 35.4. Daftar Kata
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : binas, hancur, lenyap
 ::: indent
@@ -203,12 +185,12 @@ Contoh:
 **PPP ***⟪क्रा⟫***⟪न्त⟫**:br
 **Inf. ⟪क्रमितुम्⟫**:br
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
-:::: media
+:::
+::: media
 ![](/images/lekt3502.webp)
 Fig.: ⟪क्रामन्ति⟫
 Orang-orang berjalan, Senegal.
 (Sumber gambar: [Details](/en/licenses#lekt3502))
-::::
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): bernyanyi, melantunkan dengan nada nyanyian, menyatakan dalam bentuk puisi
 ::: indent
@@ -221,14 +203,14 @@ Orang-orang berjalan, Senegal.
 
 derived from:
 **⟪गीता⟫ f.:** song, chant
-:::: media
+:::
+::: media
 ![](/images/lekt3501.webp)
 Fig.: ⟪जगुः⟫
 Temple musicians, Kaadu Malleswara Temple, Bangalore.
 (Image source: [Details](/en/licenses#lekt3501))
-::::
 :::
-## 35.5. Exercise
+## 35.5. Latihan
 
 [A] Bentuklah bentuk sempurna yang sesuai untuk bentuk-bentuk kata kerja berikut:
 
@@ -262,11 +244,12 @@ Temple musicians, Kaadu Malleswara Temple, Bangalore.
 28. ⟪अशृण्वन्⟫
 29. ⟪मिमति⟫  
 ::: media
-    ![](/images/lekt3503.webp)
+![](/images/lekt3503.webp)
     Fig.: ⟪मिमति⟫
 Market in Vadaseri, Tamil Nadu.
     (Image source: [Details](/en/licenses#lekt3503))
-    :::30. ⟪अपद्यत⟫
+:::
+30. ⟪अपद्यत⟫
 31. ⟪सुनोति⟫
 32. ⟪अतिष्ठत्⟫
 33. ⟪पतिष्यन्ति⟫
@@ -287,7 +270,6 @@ B) Translate:
 
 ⟪ब्राह्मण्यो⟫ ⟪यज्ञाय⟫ ⟪घृतं⟫ ⟪पेचुः⟫ ⟪।⟫ ⟪ब्राह्मणीषु⟫ ⟪पचन्तीषु⟫ ⟪ब्राह्मणा⟫ ⟪यज्ञस्थानं⟫ ⟪सञ्चस्करुः⟫ ⟪।⟫ ⟪ततः⟫ ⟪क्षत्रियाः⟫ ⟪शिवादिदेवानीजिरे⟫ ⟪ब्राह्मणाश्चेजुः⟫ ⟪॥३॥⟫
 
-:::
 ::: media
 ![](/images/lekt3504.webp)
 Fig.: ... ⟪ब्राह्मणाश्चेजुः⟫
@@ -299,7 +281,6 @@ Yajña ceremony, Shiva Ashram, Ganeshpuri.
 C) Transform the sentences from Exercise B) by replacing perfect forms with imperfect forms.
 
 ::: deleteme-box
-
 
 **lekt3501:** Temple musicians, Kaadu Malleswara Temple, Bangalore. [Image source: Samuelraj / Flickr. CC BY-NC]
 

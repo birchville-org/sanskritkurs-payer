@@ -1,11 +1,11 @@
 ---
-title: Lesson 53
+title: Lektion 53
 lesson_id: 53
 ---
 
-# Lesson 53
+# Pelajaran 53
 
-## 53.1. Dwivachana (⟪द्विवचन⟫ n.) dari Nomina
+## 53.1. Bentuk Dual (⟪द्विवचन⟫ n.)  Nomina
 
 ::: grammar-box
 **Dual (⟪द्विवचनम्⟫) digunakan untuk menunjukkan "dua":**
@@ -29,64 +29,65 @@ lesson_id: 53
 
 ::: indent
 **⟪बाहुद्वयम्⟫** "a pair of arms"
-:::: media
+:::
+::: media
 ![](/images/lekt5301.webp)
 Fig.: ⟪मार्जारयुगम्⟫
 (Image source: [Details](/en/licenses#lekt5301))
-::::
 :::
+
 ::: media
 ![](/images/lekt5302.webp)
 Fig.: ⟪हस्तौ⟫
 (Image source: [Details](/en/licenses#lekt5302))
 :::
-## 53.2. Akhiran Dwivachana Nomina
+## 53.2. Dualendungen  Nomen
 
 ::: grammar-box
-|   | Masculine/Feminine :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neuter :br ⟪नपुंसक⟫
-| :---: | :---: | :---:
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī
+|   | Maskulininum/Feminin :br ⟪पुंस्⟫/⟪स्त्री⟫ | Netral :br ⟪नपुंसक⟫ 
+| :---: | :---: | :---: 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | -au | -ī 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | -bhyām ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
 :::
 ::: grammar-box
 **Untuk nomina dengan gradasi tema, Nom.Akk.Vok. Dwiwacana m.f. memiliki tema kuat**
 :::
-## 53.3. Dwiwacana dari Tema Berakhiran Konsonan
+## 53.3. Bentuk Dual dari tema-tema yang berakhiran konsonan
 
-### 53.3.1. Tema tanpa Gradasi Tema
+### 53.3.1. Tema-tema tanpa gradasi tema
 
-⟪सत्यवाच्⟫ 3 "die Wahrheit sprechend"
+⟪सत्यवाच्⟫ 3 "mengucapkan kebenaran"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
-| :---: | :---: | :---:
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫
+|   | Maskulininum/Feminin :br ⟪पुंस्⟫/⟪स्त्री⟫ | Netral :br ⟪नपुंसक⟫ 
+| :---: | :---: | :---: 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सत्यवाचौ⟫ | ⟪सत्यवाची⟫ 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सत्यवाग्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सत्यवाचोस्⟫ ||
 :::
 ⟪बलिन⟫ 3 "(besonders) stark"
 
 ::: grammar-box
-|   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫
-| :---: | :---: | :---:
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫
+|   | Maskulininum :br ⟪पुंस्⟫ | Netral :br ⟪नपुंसक⟫ 
+| :---: | :---: | :---: 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪बलिनौ⟫ | ⟪बलिनी⟫ 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪बलिभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪बलिनोस्⟫ ||
 :::
 ⟪सुमनस्⟫ 3 "wohlgesinnt"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
-| :---: | :---: | :---:
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫
+|   | Maskulininum/Feminin :br ⟪पुंस्⟫/⟪स्त्री⟫ | Netral :br ⟪नपुंसक⟫ 
+| :---: | :---: | :---: 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सुमनसौ⟫ | ⟪सुमनसी⟫ 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सुमनोभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪सुमनसोस्⟫ ||
 :::
 ⟪हविस्⟫ n. "Opfergabe"
 
 ::: grammar-box
-|   | Neutrum :br ⟪नपुंसक⟫ |
+|   | Netral :br ⟪नपुंसक⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪हविषी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪हविर्भ्याम्⟫ |
@@ -95,36 +96,36 @@ Fig.: ⟪हस्तौ⟫
 ⟪दीर्घायुस्⟫ 3 "langlebig"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫
-| :---: | :---: | :---:
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫
+|   | Maskulininum/Feminin :br ⟪पुंस्⟫/⟪स्त्री⟫ | Netral :br ⟪नपुंसक⟫ 
+| :---: | :---: | :---: 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫ 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
 :::
-### 53.3.2. Tema dengan Gradasi Tema
+### 53.3.2. Batang Kata dengan Gradasi Batang Kata
 
 **Present Participle Parasmaipada**
 
 ⟪भरन्त्⟫ 3 "bearing"
 
 ::: grammar-box
-|   | Masculine :br ⟪पुंस्⟫ | Neuter :br ⟪नपुंसक⟫
-| :---: | :---: | :---:
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***⟪भरन्ती⟫ (!)***
+|   | Maskulininum :br ⟪पुंस्⟫ | Netral :br ⟪नपुंसक⟫ 
+| :---: | :---: | :---: 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***⟪भरन्ती⟫ (!)*** 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ ||
-:::: media
+:::
+::: media
 ![](/images/lekt5305.webp)
 Fig.: ⟪भरन्तौ⟫
 (Image source: [Details](/en/licenses#lekt5305))
-::::
 :::
 ⟪ददत्⟫ 3 "giving"
 
 ::: grammar-box
-|   | Masculine :br ⟪पुंस्⟫ | Neuter :br ⟪नपुंसक⟫
-| :---: | :---: | :---:
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫
+|   | Maskulininum :br ⟪पुंस्⟫ | Netral :br ⟪नपुंसक⟫ 
+| :---: | :---: | :---: 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ददतौ⟫ | ⟪ददती⟫ 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ददद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪ददतोस्⟫ ||
 :::
@@ -133,25 +134,25 @@ Fig.: ⟪भरन्तौ⟫
 ⟪पशुमन्त्⟫ 3 "possessing cattle"
 
 ::: grammar-box
-|   | Masculine :br ⟪पुंस्⟫ | Neuter :br ⟪नपुंसक⟫
-| :---: | :---: | :---:
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫
+|   | Maskulininum :br ⟪पुंस्⟫ | Netral :br ⟪नपुंसक⟫ 
+| :---: | :---: | :---: 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पशुमन्तौ⟫ | ⟪पशुमती⟫ 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पशुमद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पशुमतोस्⟫ ||
 :::
 ⟪महान्त्⟫ 3 "great"
 
 ::: grammar-box
-|   | Masculine :br ⟪पुंस्⟫ | Neuter :br ⟪नपुंसक⟫
-| :---: | :---: | :---:
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫
+|   | Maskulininum :br ⟪पुंस्⟫ | Netral :br ⟪नपुंसक⟫ 
+| :---: | :---: | :---: 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪महान्तौ⟫ | ⟪महती⟫ 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪महद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪महतोस्⟫ ||
 :::
 ⟪आत्मन्⟫ m.
 
 ::: grammar-box
-|   | Masculine :br ⟪पुंस्⟫ |
+|   | Maskulininum :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪आत्मानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪आत्मभ्याम्⟫ |
@@ -160,7 +161,7 @@ Fig.: ⟪भरन्तौ⟫
 ⟪ब्रह्मन्⟫ n.
 
 ::: grammar-box
-|   | Neuter :br ⟪नपुंसक⟫ |
+|   | Netral :br ⟪नपुंसक⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪ब्रह्मणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ब्रह्मभ्याम्⟫ |
@@ -169,7 +170,7 @@ Fig.: ⟪भरन्तौ⟫
 ⟪राजन्⟫ m. "king"
 
 ::: grammar-box
-|   | Masculine :br ⟪पुंस्⟫ |
+|   | Maskulininum :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪राजानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪राजभ्याम्⟫ |
@@ -178,7 +179,7 @@ Fig.: ⟪भरन्तौ⟫
 ⟪सीमन्⟫ f. "boundary"
 
 ::: grammar-box
-|   | Feminine :br ⟪स्त्री⟫ |
+|   | Feminin :br ⟪स्त्री⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪सीमानौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪सीमभ्याम्⟫ |
@@ -187,13 +188,13 @@ Fig.: ⟪भरन्तौ⟫
 ⟪नामन्⟫ n. "name"
 
 ::: grammar-box
-|   | Neuter :br ⟪नपुंसक⟫ |
+|   | Netral :br ⟪नपुंसक⟫ |
 | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br ***⟪नामानी⟫*** |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br sig[⟪नामानी⟫] |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
-## 53.4. Dwiwacana dari Tema Berakhiran Vokal
+## 53.4. Bentuk Dual dari akar kata yang berakhiran vokal
 
 **Tema dalam -a**
 
@@ -201,16 +202,16 @@ Fig.: ⟪भरन्तौ⟫
 ⟪फल⟫ n. "fruit"
 
 ::: grammar-box
-|   | Masculine :br ⟪पुंस्⟫ | Neuter :br ⟪नपुंसक⟫ |
+|   | Maskulininum :br ⟪पुंस्⟫ | Netral :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ***⟪देवाभ्याम्⟫*** | ***⟪फलाभ्याम्⟫*** |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ***⟪देवयोस्⟫*** | ***⟪फलयोस्⟫*** |
-:::: media
+:::
+::: media
 ![](/images/lekt5306.webp)
 Fig.: ⟪फले⟫
 (Image source: [Details](/en/licenses#lekt5306))
-::::
 :::
 **Tema dalam -i**
 
@@ -219,7 +220,7 @@ Fig.: ⟪फले⟫
 ⟪मति⟫ f. "thought"
 
 ::: grammar-box
-|   | Masculine :br ⟪पुंस्⟫ | Feminine :br ⟪स्त्री⟫ | Neuter :br ⟪नपुंसक⟫ |
+|   | Maskulininum :br ⟪पुंस्⟫ | Feminin :br ⟪स्त्री⟫ | Netral :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪अग्नी⟫*** | ***⟪मती⟫*** | ⟪वारिणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
@@ -232,23 +233,23 @@ Fig.: ⟪फले⟫
 ⟪मधु⟫ n.
 
 ::: grammar-box
-|   | Masculine :br ⟪पुंस्⟫ | Feminine :br ⟪स्त्री⟫ | Neuter :br ⟪नपुंसक⟫ |
+|   | Maskulininum :br ⟪पुंस्⟫ | Feminin :br ⟪स्त्री⟫ | Netral :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪शत्रू⟫*** | ***⟪धेनू⟫*** | ⟪मधुनी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪शत्र्वोस्⟫ | ⟪धेन्वोस्⟫ | ⟪मधुनोस्⟫ |
-:::: media
+:::
+::: media
 ![](/images/lekt5307.webp)
 Fig.: ⟪धेनू⟫
 (Image source: [Details](/en/licenses#lekt5307))
-::::
 :::
 **Tema dalam -ā**
 
 ⟪कन्या⟫ f. "girl"
 
 ::: grammar-box
-|   | Feminine :br ⟪स्त्री⟫ |
+|   | Feminin :br ⟪स्त्री⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪कन्ये⟫*** |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
@@ -259,7 +260,7 @@ Fig.: ⟪धेनू⟫
 ⟪देवी⟫ f. "goddess"
 
 ::: grammar-box
-|   | Feminine :br ⟪स्त्री⟫ |
+|   | Feminin :br ⟪स्त्री⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देव्यौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪देवीभ्याम्⟫ |
@@ -270,16 +271,16 @@ Fig.: ⟪धेनू⟫
 ⟪दातृ⟫ 3 "giver"
 
 ::: grammar-box
-|   | Masculine/Feminine :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neuter :br ⟪नपुंसक⟫
-| :---: | :---: | :---:
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | ***⟪दातृणी⟫***
+|   | Maskulininum/Feminin :br ⟪पुंस्⟫/⟪स्त्री⟫ | Netral :br ⟪नपुंसक⟫ 
+| :---: | :---: | :---: 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | ***⟪दातृणी⟫*** 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
 ⟪पितृ⟫ m. "father"
 
 ::: grammar-box
-|   | Masculine :br ⟪पुंस्⟫ |
+|   | Maskulininum :br ⟪पुंस्⟫ |
 | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪पितरौ⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
@@ -319,29 +320,29 @@ Contoh:
 Fig.: ⟪पितापुत्रौ⟫
 (Sumber gambar: [Details](/en/licenses#lekt5308))
 :::
-## 53.6. Dwivachana dari Kata Ganti
+## 53.6. Bentuk Dual dari Pronomina
 
 ::: grammar-box
-|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫
-| :--- | :---: | :---: | :---: | :---: | :---:
-| **Maskulin** |   |   |   |   |   |
-| **⟪प्रथमा⟫** | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
-| **⟪द्वितीया⟫** | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫
-|   |   |   |   |   |   |
-| **Neutrum** |   |   |   |   |   |
-| **⟪प्रथमा⟫** | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
-| **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
-|   | Wie Maskulin ||||||||
-| **Femininum** |   |   |   |   |   |
-| **⟪प्रथमा⟫** | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫
-| **⟪द्वितीया⟫** | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫
-|   | Wie Maskulin ||||||||
+|   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫ 
+| :--- | :---: | :---: | :---: | :---: | :---: 
+| **Maskulin** |   |   |   |   |   |
+| ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ 
+| ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ 
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫ 
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪तयोस्⟫ | ⟪एतयोस्⟫ :br ⟪एनयोस्⟫ | ⟪अनयोस्⟫ :br ⟪एनयोस्⟫ | ⟪ययोस्⟫ | ⟪कयोस्⟫ 
+|   |   |   |   |   |  
+| **Neutrum** |   |   |   |   |  
+| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ 
+| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ 
+|   | Rest wie Maskulin ||||||||
+| **Femininum** |   |   |   |   |  
+| ⟪प्रथमा⟫ | ⟪ते⟫ | ⟪एते⟫ | ⟪इमे⟫ | ⟪ये⟫ | ⟪के⟫ 
+| ⟪द्वितीया⟫ | ⟪ते⟫ | ⟪एते⟫ :br ⟪एने⟫ | ⟪इमे⟫ :br ⟪एने⟫ | ⟪ये⟫ | ⟪के⟫ 
+|   | Rest wie Maskulin ||||||||
 :::
 ⟪कतर⟫ 3 "wer von beiden" und ⟪कतम⟫ 3 "wer von mehreren" werden in allen Fällen wie ⟪यद्⟫ dekliniert.
 
-## 53.7. Pronominal Adjectives
+## 53.7. Pronominaladjektive
 
 The following pronominal adjectives are declined in all cases like ⟪यद्⟫:
 
@@ -361,7 +362,7 @@ Kata sifat pronominal berikut dideklinasikan seperti ⟪सर्व⟫. Dalam A
 *   ⟪पूर्व⟫ 3 "sebelumnya, timur"
 *   ⟪स्व⟫ 3 "milik sendiri (saya, Anda, nya ...)"
 
-## 53.8. Irregular Comparison
+## 53.8. Unregelmässige Steigerung
 
 ::: grammar-box
 **Sejumlah kata sifat membentuk tingkat pembanding dan tertinggi dengan akhiran ⟪कृत्⟫ berikut (!):**
@@ -379,9 +380,9 @@ Contoh:
 
 ::: grammar-box
 | Akar | Adjektiva | Komparatif | Superlatif |
-| --- | --- | --- | --- |
-| ⟪क्षिप्⟫ 6P "to throw" | ⟪क्षिप्र⟫ 3 "fast" | ***⟪क्षेपीयस्⟫*** 3 "faster" :br ⟪क्षिप्रतर⟫ 3 | ***⟪क्षेपिष्ठ⟫*** 3 "fastest" :br ⟪क्षिप्रतम⟫ 3 |
-| ⟪स्था⟫ 1P "to stand" | ⟪स्थिर⟫ 3 "constant, firm" | ***⟪स्थेयस्⟫*** 3 "firmer" :br ⟪स्थिरतर⟫ 3 | ***⟪स्थेष्ठ⟫*** 3 "firmest" :br ⟪स्थिरतम⟫ 3 |
+| --- | --- | --- 
+| ⟪क्षिप्⟫ 6P "to throw" | ⟪क्षिप्र⟫ 3 "fast" | sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
+| ⟪स्था⟫ 1P "to stand" | ⟪स्थिर⟫ 3 "constant, firm" | sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
 :::
 **Aturan khusus untuk penambahan akhiran ini:**
 
@@ -392,7 +393,7 @@ Contoh:
 
 ::: grammar-box
 | Kata Sifat | Komparatif | Superlatif |
-| --- | --- | --- |
+| --- | --- 
 | ⟪पाप⟫ 3 "jahat" | ⟪पा⟫***⟪पी⟫***⟪यस्⟫ | ⟪पा⟫***⟪पि⟫***⟪ष्ठ⟫ |
 | ⟪महान्त्⟫ 3 "besar" | ⟪म⟫***⟪ही⟫***⟪यस्⟫ | ⟪म⟫***⟪हि⟫***⟪ष्ठ⟫ |
 :::
@@ -403,7 +404,7 @@ Contoh:
 
 ::: grammar-box
 | Kata Sifat | Komparatif | Superlatif |
-| --- | --- | --- |
+| --- | --- 
 | ⟪धनवन्त्⟫ 3 "kaya" | ⟪ध⟫***⟪नी⟫***⟪यस्⟫ | ⟪ध⟫***⟪नि⟫***⟪ष्ठ⟫ |
 | ⟪बलिन्⟫ 3 "(terutama) kuat" | ⟪ब⟫***⟪ली⟫***⟪यस्⟫ | ⟪ब⟫***⟪लि⟫***⟪ष्ठ⟫ |
 | ⟪वसुमन्त्⟫ "memiliki harta" | ⟪व⟫***⟪सी⟫***⟪यस्⟫ | ⟪व⟫***⟪सि⟫***⟪ष्ठ⟫ |
@@ -415,19 +416,19 @@ Contoh:
 
 ::: grammar-box
 | Kata Sifat | Komparatif | Superlatif |
-| --- | --- | --- |
+| --- | --- 
 | ⟪पृथु⟫ 3 "luas" | ⟪प्रथीयस्⟫ | ⟪प्रथिष्ठ⟫ |
 :::
 **Daftar bentuk perbandingan paling umum dari jenis ini untuk kata sifat yang telah dipelajari sejauh ini:**
 
 ::: grammar-box
 | Adjective | Comparative | Superlative |
-| --- | --- | --- |
+| --- | --- 
 | ⟪अल्प⟫ 3 "small, little" | ⟪अल्पीयस्⟫ | ⟪अल्पिष्ठ⟫ |
-| ⟪क्षिप्र⟫ 3 "fast" :br (from ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
-| ⟪गुरु⟫ 3 "heavy" :br (from *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
-| ⟪दीर्घ⟫ 3 "long" :br (from *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
-| ⟪दूर⟫ 3 "far" :br (from *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
+| ⟪क्षिप्र⟫ 3 "schnell" :br (zu ⟪क्षिप्⟫) | ⟪क्षेपीयस्⟫ | ⟪क्षेपिष्ठ⟫ |
+| ⟪गुरु⟫ 3 "schwer" :br (zu *⟪गृ⟫) | ⟪गरीयस्⟫ | ⟪गरिष्ठ⟫ |
+| ⟪दीर्घ⟫ 3 "lang" :br (zu *⟪दृघ्⟫) | ⟪द्राघीयस्⟫ | ⟪द्राघिष्ठ⟫ |
+| ⟪दूर⟫ 3 "fern" :br (zu *⟪दु⟫/*⟪दू⟫) | ⟪दवीयस्⟫ | ⟪दविष्ठ⟫ |
 | ⟪धनवन्त्⟫ 3 "rich" | ⟪धनीयस्⟫ | ⟪धनिष्ठ⟫ |
 | ⟪पाप⟫ 3 "evil" | ⟪पापीयस्⟫ | ⟪पापिष्ठ⟫ |
 | ⟪पृथु⟫ 3 "broad" | ⟪प्रथीयस्⟫ | ⟪प्रथीष्ठ⟫ |
@@ -435,47 +436,46 @@ Contoh:
 | ⟪बलिन्⟫ 3 "(especially) strong" | ⟪बलीयस्⟫ | ⟪बलिष्ठ⟫ |
 | ⟪महान्त्⟫ 3 "great" | ⟪महीयस्⟫ | ⟪महिष्ठ⟫ |
 | ⟪युवन्⟫ 3 "young" | ⟪यवीयस्⟫ | ⟪यविष्ठ⟫ |
-| ⟪स्थिर⟫ 3 "firm" :br (from ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
-
+| ⟪स्थिर⟫ 3 "fest" :br (zu ⟪स्था⟫) | ⟪स्थेयस्⟫ | ⟪स्थेष्ठ⟫ |
 | ⟪ह्रस्व⟫ 3 "short" | ⟪ह्रसीयस्⟫ | ⟪ह्रसिष्ठ⟫ |
-:::: media
+:::
+::: media
 ![](/images/lekt5309.webp)
 Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 (Image source: [Details](/en/licenses#lekt5309))
-::::
 :::
 **Beberapa bentuk infleksi dari tipe ini tidak memiliki bentuk dasar terkait akar sama sekali; mereka "cacat." Oleh karena itu, rangkaian berikut sangat penting untuk dihafal:**
 
 ::: grammar-box
-| (Adjective) | Comparative | Superlative |
-| --- | ---
-| (⟪अल्प⟫ 3 "small, little") | ⟪कनीयस्⟫ :br cf. ⟪कन्या⟫ f. "girl = the small one" | ⟪कनिष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "praiseworthy, good") | ⟪श्रेयस्⟫ :br from ⟪श्री⟫ f. "splendor" | ⟪श्रेष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "praiseworthy, good") | ⟪ज्यायस्⟫ :br also: "older" :br from ⟪ज्या⟫ f. "superiority" | ⟪ज्येष्ठ⟫ :br also: "oldest" |
-| (⟪बहु⟫ 3 "much") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "old") | ⟪वर्षीयस्⟫ :br from ⟪वर्ष⟫ n.m. "rainy season, year" | ⟪वर्षिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "old") | ⟪ज्यायस्⟫ :br also: "better" :br from ⟪ज्या⟫ f. "superiority" | ⟪ज्येष्ठ⟫ :br also: "best" |
+| (Kata Sifat) | Komparatif | Superlatif |
+| --- | --- 
+| (⟪अल्प⟫ 3 "kecil, sedikit") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "terpuji, baik") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "terpuji, baik") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" |
+| (⟪बहु⟫ 3 "banyak") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "tua") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "tua") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
-## 53.9. Declension of Comparatives in -īyas
+## 53.9. Deklinasi Komparatif berakhiran -īyas
 
 ::: grammar-box
 **Bentuk komparatif dalam -īyas membentuk feminin dalam -īyasī (penurunan seperti ⟪देवी⟫). Maskulin dan netra menurun sesuai dengan paradigma berikut.**
 :::
 ::: grammar-box
 
-|   | **⟪एकवचनम्⟫** || **⟪द्विवचनम्⟫** || **⟪बहुवचनम्⟫** ||
+|   | ⟪एकवचनम्⟫ || ⟪द्विवचनम्⟫ || ⟪बहुवचनम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
-|   | **⟪पुमान्⟫** | **⟪नपुंसकम्⟫** | **⟪पुमान्⟫** | **⟪नपुंसकम्⟫** | **⟪पुमान्⟫** | **⟪नपुंसकम्⟫** |
-| **⟪प्रथमा⟫** | ⟪गरीयान्⟫ | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
-| **⟪द्वितीया⟫** | ⟪गरीयांसम्⟫ | ⟪गरीयस्⟫ | ^^ | ^^ | ⟪गरीयसस्⟫ | ^^ |
-| **⟪तृतीया⟫** | ⟪गरीयसा⟫ || ⟪गरीयोभ्याम्⟫ || ⟪गरीयोभिस्⟫ ||
-| **⟪चतुर्थी⟫** | ⟪गरीयसे⟫ || ^^ || ⟪गरीयोभ्यस्⟫ ||
-| **⟪पञ्चमी⟫** | ⟪गरीयसस्⟫ || ^^ || ^^ ||
-| **⟪षष्ठी⟫** | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
-| **⟪सप्तमी⟫** | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
-| **⟪आमन्त्रितम्⟫** | ***⟪गरीयान्⟫*** | **⟪गरीयस्⟫** | **⟪गरीयांसौ⟫** | **⟪गरीयसी⟫** | **⟪गरीयांसस्⟫** | **⟪गरीयांसि⟫** |
+|   | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ | ⟪पुमान्⟫ | ⟪नपुंसकम्⟫ |
+| ⟪प्रथमा⟫ | ⟪गरीयान्⟫ | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+| ⟪द्वितीया⟫ | ⟪गरीयांसम्⟫ | ⟪गरीयस्⟫ | ^^ | ^^ | ⟪गरीयसस्⟫ | ^^ |
+| ⟪तृतीया⟫ | ⟪गरीयसा⟫ || ⟪गरीयोभ्याम्⟫ || ⟪गरीयोभिस्⟫ ||
+| ⟪चतुर्थी⟫ | ⟪गरीयसे⟫ || ^^ || ⟪गरीयोभ्यस्⟫ ||
+| ⟪पञ्चमी⟫ | ⟪गरीयसस्⟫ || ^^ || ^^ ||
+| ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
+| ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
+| ⟪आमन्त्रितम्⟫ | ***⟪गरीयान्⟫*** | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
 :::
-## 53.10. Metrics (Study of Verse Measures)
+## 53.10. Metrum (Ilmu tentang Matra)
 
 ::: media
 ![](/images/lekt5303.jpg)
@@ -486,20 +486,20 @@ See also:
 
 > **Payer, Alois \&lt;1944 - \&gt;:** Pengantar Eksegesis Teks Sanskerta : Naskah. -- Bab 8: Eksegesa Aktual, Bagian II: Tentang Pertanyaan Khusus Pemahaman Sinkron. -- Lampiran B: Tentang Metrik Teks Sanskerta. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
-### 53.10.1. Significance of Determining the Meter
+### 53.10.1. Bedeutung  Bestimmung  Metrums
 
 Penentuan metrum penting karena alasan berikut:
 
-1. **Secara estetis:** ukuran syair berkontribusi, antara lain, pada keindahan suatu ucapan. Selanjutnya, ukuran syair tertentu dapat berfungsi untuk mengekspresikan suasana hati tertentu, atau mereka ditugaskan untuk kelas sosial tertentu (⟪वर्ण⟫). Berbagai ukuran syair diresitasikan secara berbeda satu sama lain. :br Kesan yang baik tentang efek estetis dapat diberikan, misalnya, oleh resitasi ⟪शिवताण्डवस्तोत्र⟫ (pujian terhadap tarian Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
-2. **Secara tekstual:** kesalahan dalam ukuran syair dapat menjadi indikasi bahwa teks tidak ditransmisikan dengan benar pada titik tertentu. Ukuran syair membantu dalam melakukan emendasi tekstual.
-3. **Secara kronologis:** ukuran syair tertentu mengalami perubahan spesifik sepanjang sejarah. Hal ini dapat membantu dalam penanggalan perkiraan sebuah teks. Lihat **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Zur Geschichte der Triṣṭhubh ; ders.: Zur Geschichte des Śloka. -- Both printed in: :br **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+1.  **Secara estetis:** ukuran syair berkontribusi, antara lain, pada keindahan suatu ucapan. Selanjutnya, ukuran syair tertentu dapat berfungsi untuk mengekspresikan suasana hati tertentu, atau mereka ditugaskan untuk kelas sosial tertentu (⟪वर्ण⟫). Berbagai ukuran syair diresitasikan secara berbeda satu sama lain. :br Kesan yang baik tentang efek estetis dapat diberikan, misalnya, oleh resitasi ⟪शिवताण्डवस्तोत्र⟫ (pujian terhadap tarian Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
+2.  **Secara tekstual:** kesalahan dalam ukuran syair dapat menjadi indikasi bahwa teks tidak ditransmisikan dengan benar pada titik tertentu. Ukuran syair membantu dalam melakukan emendasi tekstual.
+3.  **Secara kronologis:** ukuran syair tertentu mengalami perubahan spesifik sepanjang sejarah. Hal ini dapat membantu dalam penanggalan perkiraan sebuah teks. Lihat **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Tentang Sejarah Triṣṭhubh ; oleh penulis yang sama: Tentang Sejarah Śloka. -- Keduanya dicetak dalam: :br **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Tulisan-tulisan Kecil / Hermann Oldenberg. Disunting oleh Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 jilid. -- (Glasenapp-Stiftung ; ...). -- Jilid 2. -- 1967. -- hlm. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
-Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
-(Image source: [Details](/en/licenses#lekt5304))
+Gbr.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
+(Sumber gambar: [Detail](/en/licenses#lekt5304))
 :::
-### 53.10.2. Types of Metra
+### 53.10.2. Jenis-jenis Metrum
 
 ::: grammar-box
 **The Indians distinguish:**
@@ -512,7 +512,7 @@ Fig.: ⟪हर्मन्⟫-⟪ओल्डन्बेर्ग्⟫
 *   Metra di mana jumlah suku kata tetap, tetapi kuantitas suku kata tersebut hanya sebagian
 *   Metra di mana jumlah suku kata dan kuantitasnya tetap
 :::
-### 53.10.3. Kuantitas metrik suku kata
+### 53.10.3. Kuantitas Metris Suku Kata
 
 ::: grammar-box
 **Mnemonic verse**
@@ -565,11 +565,11 @@ Distribution of ⟪लघु⟫ and ⟪गुरु⟫ :
 
 ::: metrik-schema
 — — — —   **◡ — — —**  ◡ ◡ — —   **◡ — ◡ —**
-:::: metrik-schema
-— ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
-::::
 :::
-### 53.10.4. The Epic Śloka (⟪श्लोक⟫ m.)
+::: metrik-schema
+— ◡ — —   **◡ — — —**  ◡ ◡ — ◡   **◡ — ◡ —**
+:::
+### 53.10.4. Śloka epik (⟪श्लोक⟫ m.)
 
 ::: grammar-box
 **Mnemonic Verse:**
@@ -627,12 +627,12 @@ Kedua dan ketiga suku kata dari a ⟪पाद⟫ tidak boleh secara bersamaan m
 
 ::: grammar-box
 **Identify the Ślokas among all verses learned so far. Write down the metrical scheme for these. Point out any irregularities or Vipulā forms.**
-:::: center
+:::
+::: center
 Finitum feliciter 1984-02-15
 Editio interretialis feliciter finita 2009-01-19
 Alois Maria Payer
 ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-::::
 :::
 ::: deleteme-box
 **Sumber**
@@ -648,3 +648,4 @@ Alois Maria Payer
 
 **Payer, Alois \&lt;1944 - \&gt;:** Kursus Sanskerta. -- 53. Pelajaran 53 (Libur semester). -- Versi dari 2009-01-19. -- Sumber gambar tabel asli 53.9: Tangkapan layar dari sumber asli (Payer).
 :::
+

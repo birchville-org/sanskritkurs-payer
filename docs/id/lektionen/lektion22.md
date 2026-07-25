@@ -1,15 +1,15 @@
 ---
-title: Lesson 22
-subtitle: "The Absolute (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: Lektion 22
+subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 22
+# Pelajaran 22
 
-## 22.1. The Absolutive (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
+## 22.1. Absolutif (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
 
 ::: grammar-box
 
@@ -36,15 +36,15 @@ In translating into German, one should avoid constantly saying "after." Instead,
 
 Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
 :::
-## 22.2. Formation of the Absolutive
+## 22.2. Bildung  Absolutifs
 
 ::: grammar-box
 **Formation of the Absolutive**
 
-*   Verbs without prefix: Absolutive in **-tvā**
-*   Verbs with prefix: Absolutive in **-ya** or **-tya**
+*   Verba tanpa awalan: Absolutif dalam **-tvā**
+*   Verba dengan awalan: Absolutif dalam **-ya** atau **-tya**
 :::
-### 22.2.1. Verbs without prefix: Absolutive in -⟪त्वा⟫
+### 22.2.1. Verba tanpa praverba: Absolutif pada -⟪त्वा⟫
 
 ::: grammar-box
 
@@ -68,11 +68,11 @@ Hanya negatif **a-** / **an-** yang kompatibel dengan akhiran **-⟪त्वा
 
 **⟪जित्वा⟫** "after he (...) has / had won"
 
-**⟪उक्त्वा⟫** "after he (...) has / had spoken"
+**⟪उक्त्वा⟫** "setelah ia (...) telah berbicara"
 :::
-### 22.2.2. Verbs with Preverbs
+### 22.2.2. Verba dengan Preverb
 
-#### 22.2.2.1. Roots ending in a long vowel (except -ā) or in a consonant
+#### 22.2.2.1. Wurzeln auf langen Vokal (ausser -ā) oder auf Konsonant
 
 ::: grammar-box
 
@@ -88,7 +88,7 @@ Hanya negatif **a-** / **an-** yang kompatibel dengan akhiran **-⟪त्वा
 
 **⟪प्राप्य⟫** "after he (...) has obtained / had obtained"
 :::
-#### 22.2.2.2. Roots ending in -ā
+#### 22.2.2.2. Wurzeln auf -ā
 
 ::: grammar-box
 
@@ -98,9 +98,9 @@ Hanya negatif **a-** / **an-** yang kompatibel dengan akhiran **-⟪त्वा
 **Example:**
 
 ::: indent
-**⟪उपस्थाय⟫** "after he (...) had stepped forward / has stepped forward" ; (but without preverb: **⟪स्थित्वा⟫**)
+**⟪उपस्थाय⟫** "setelah ia (...) telah melangkah maju / sudah melangkah maju" ; (tetapi tanpa preverbium: **⟪स्थित्वा⟫**)
 :::
-#### 22.2.2.3. Roots that end in short -i, -u, -ṛ in the low grade
+#### 22.2.2.3. Akar-akar yang dalam tingkat reduksi berakhiran -i, -u, -ṛ pendek
 
 ::: grammar-box
 
@@ -116,7 +116,7 @@ Hanya negatif **a-** / **an-** yang kompatibel dengan akhiran **-⟪त्वा
 
 **⟪संस्कृत्य⟫** "setelah ia (...) telah mempersiapkan korban / telah menyiapkan korban"
 :::
-#### 22.2.2.4. Akar kata yang berakhiran -am / -an, yang berakhir dengan -a pada bentuk rendah (low grade)
+#### 22.2.2.4. Akar-akar berakhiran -am / -an yang berakhiran -a pada tingkat lemah
 
 ::: grammar-box
 
@@ -134,18 +134,18 @@ Root ending in **-a** + **-tya**
 ::: indent
 **⟪विगम्य⟫** or **⟪विगत्य⟫** "after he (...) has passed / was passing"
 :::
-## 22.3. Word List
+## 22.3. Daftar Kata
 
 **⟪काम⟫ m.:** wish, desire; desired gift, sensual pleasure, love, god of love
 
 ::: indent
 **⟪कामम्⟫** Acc. secara adverbia: sesuai keinginan, sesuai dengan kehendak hati
-:::: media
+:::
+::: media
 ![](/images/lekt2202.webp)
-Fig.: ⟪कामदेवः⟫
-abad ke-19
-(Sumber gambar: [Details](/en/licenses#lekt2202))
-::::
+Gbr.: ⟪कामदेवः⟫
+Abad ke-19
+(Sumber gambar: [Rincian](/id/licenses#lekt2202))
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** dapat, mampu
 
@@ -155,12 +155,12 @@ from this:
 **⟪शक्ति⟫ f.:** ability, power, capability, strength; also: divine power, personified as a female companion especially of **⟪शिव⟫**
 
 **⟪शक्र⟫ m.:** yang kuat (epitet dari **⟪इन्द्र⟫**)
-:::: media
+:::
+::: media
 ![](/images/lekt2203.webp)
 Fig.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
 (Sumber gambar: [Details](/en/licenses#lekt2203))
-::::
 :::
 **⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** pantas (layak akan sesuatu), diperbolehkan, berkewajiban, harus (dalam orang kedua, **⟪अर्ह्⟫** + infinitif sering digunakan sebagai perintah ringan: "Kau harus")
 
@@ -181,12 +181,12 @@ from this:
 **⟪चरित⟫ n.:** way of life, life deeds
 
 **⟪ब्रह्मचर्य⟫ n.:** pelaksanaan Veda (**⟪ब्रह्मन्⟫**) = studi Veda pada tahap awal kehidupan (yaitu **⟪ब्रह्मचारिन्⟫**), yang memerlukan pantangan seksual ketat; oleh karena itu juga: pantangan seksual, cara hidup selibat
-:::: media
+:::
+::: media
 ![](/images/lekt2201.webp)
 Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (Sumber gambar: [Details](/en/licenses#lekt2201))
-::::
 :::
 ## 22.4. Latihan
 
@@ -258,6 +258,7 @@ Goa = ⟪गोंय⟫
 Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Image source: [Details](/en/licenses#lekt2204))
 :::
+
 ::: deleteme-box
 
 **lekt2201:** Goa = ⟪गोंय⟫ [Image source: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Accessed on 2008-12-12. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
@@ -268,3 +269,4 @@ Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 
 **lekt2204:** [Image source: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Accessed on 2008-12-12. -- Creative Commons License (Attribution, non-commercial use, no derivatives)]
 :::
+

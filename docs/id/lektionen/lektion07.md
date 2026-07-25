@@ -1,13 +1,11 @@
 ---
-title: "# Pelajaran 7"
+title: Lektion 7
 subtitle: "Den Verbalsatz mit direktem Objekt"
 lesson_id: 7
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
 ---
-
-
 
 # Pelajaran 7
 
@@ -23,7 +21,6 @@ status: stable
 ::: center
 **Ucapan Mingguan**
 :::
-
 
 ::: center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
@@ -42,8 +39,7 @@ Kesabaran menang, bukan amarah,
 Dewa menang, bukan anti-dewa.
 :::
 
-
-## 7.1. Kalimat verbal dengan objek langsung
+## 7.1. Kalimat Verbal dengan Objek Langsung
 
 ::: grammar-box
 **Skema:**
@@ -55,18 +51,17 @@ misalnya
 :::
 Jika kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsung (**karman** n. = ⟪कर्मन्⟫) umumnya berada dalam **Akusatif** (Kasus kedua, dvitīyā f. = ⟪द्वितीया⟫).
 
-
-## 7.2. Akusatif (Kasus kedua, dvitīyā f. = ⟪द्वितीया⟫ = "akhiran kasus kedua")
+## 7.2. Kasus Akusatif (kasus objek, dvitīyā f. = ⟪द्वितीया⟫ = "akhiran kasus kedua")
 
 ::: grammar-box
 **Akhiran Akusatif Singular Maskulinum dan Feminin setelah Vokal: -m**
 
-| Maskulin berakhir dengan | Akusatif Singular |
+| Maskulin berakhir dengan | Akusatif Tunggal |
 | :--- | :--- |
 | **-a**: deva | **devam** :br⟪देवम्⟫ |
 | **-i**: kavi | **kavim** :br⟪कविम्⟫ |
 | **-u**: guru | **gurum** :br⟪गुरुम्⟫ |
-| Feminin berakhir dengan | Akusatif Singular |
+| Feminin berakhir dengan | Akusatif Tunggal |
 | **-ā**: devatā | **devatām** :br⟪देवताम्⟫ |
 | **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ |
 | **-ī**: devī | **devīm** :br⟪देवीम्⟫ |
@@ -75,7 +70,7 @@ Jika kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsung 
 ::: grammar-box
 **Akusatif Plural Maskulinum dari stem berakhir dengan Vokal (kecuali: stem akar satu suku kata dengan vokal panjang): Perpanjangan vokal akhir + -n**
 
-| Maskulin berakhir dengan | Akusatif Plural |
+| Maskulin berakhir dengan | Akusatif Jamak |
 | :--- | :--- |
 | **-a**: deva | **devān** :br⟪देवान्⟫ |
 | **-i**: kavi | **kavīn** :br⟪कवीन्⟫ |
@@ -84,7 +79,7 @@ Jika kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsung 
 ::: grammar-box
 **Akusatif Plural Feminin dari stem berakhir dengan Vokal (kecuali: stem akar satu suku kata dengan vokal panjang): Perpanjangan vokal akhir + -s**
 
-| Feminin berakhir dengan | Akusatif Plural |
+| Feminin berakhir dengan | Akusatif Jamak |
 | :--- | :--- |
 | **-ā**: devatā | **devatās** :br⟪देवतास्⟫ |
 | **-i**: śruti | **śrutīs** :br⟪श्रुतीस्⟫ |
@@ -92,34 +87,24 @@ Jika kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsung 
 | **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
 
-### 7.2.1. Akusatif Singular dan Plural dari kata ganti tanya dan demonstratif
+### 7.2.1. Akusatif Singular dan Plural Pronomina Interogatif dan Pronomina Demonstratif
 
 ::: grammar-box
-| || Maskulinum | Femininum | Neutrum |
+| || Maskulin | Feminin | Netral |
 | :--- | :--- | :--- | :--- | :--- |
 | **kim** :brsiapa/apa | sg. | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
 | | pl. | **kān** :br⟪कान्⟫ | **kās** :br⟪कास्⟫ | **kāni** :br⟪कानि⟫ |
 | **tad** :brdia/itu | sg. | **tam** :br⟪तम्⟫ | **tām** :br⟪ताम्⟫ | **tad** :br⟪तद्⟫ |
 | | pl. | **tān** :br⟪तान्⟫ | **tās** :br⟪तास्⟫ | **tāni** :br⟪तानि⟫ |
-
-
-| **etad**:brini ini | sg. | **etam / enam**:br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām**:br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad**:br⟪एतद्⟫ / ⟪एनद्⟫ |
-
-| | jamak | **etān / enān**:br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās**:br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni**:br⟪एतानि⟫ / ⟪एनानि⟫ |
-
-| **idam**:brini | sg. | **imam / enam**:br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām**:br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad**:br⟪इदम्⟫ / ⟪एनद्⟫ |
-
-| | jamak | **imān / enān**:br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās**:br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni**:br⟪इमानि⟫ / ⟪एनानि⟫ |
-
+| **etad**:brini ini | sg. | **etam / enam** :br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām** :br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad** :br⟪एतद्⟫ / ⟪एनद्⟫ |
+| | jamak | **etān / enān** :br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās** :br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni** :br⟪एतानि⟫ / ⟪एनानि⟫ |
+| **idam**:brini | sg. | **imam / enam** :br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām** :br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad** :br⟪इदम्⟫ / ⟪एनद्⟫ |
+| | jamak | **imān / enān** :br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās** :br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni** :br⟪इमानि⟫ / ⟪एनानि⟫ |
 :::
 Bentuk-bentuk **enam** (⟪एनम्⟫) dan lain-lain termasuk ke dalam akar **enad** (⟪एनद्⟫), yang hanya membentuk beberapa kasus. Bentuk-bentuk ini digunakan sebagai pengganti bentuk-bentuk dari **etad** dan **idam** ketika yang dimaksud telah disebutkan sebelumnya.
 Misalnya, **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : "Dia adalah seorang dewa. Mereka mempersembahkan korban kepadanya."
 
----
-
-### 7.2.2. Penggunaan Akusatif (Dvitīyā f. = ⟪द्वितीया⟫ = "akhiran kasus kedua")
-
-
+### 7.2.2. Gebrauch  Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
 
 ::: grammar-box
 Kasus Akusatif (dvitīyā f. = ⟪द्वितीया⟫) menunjukkan:
@@ -130,15 +115,10 @@ Kasus Akusatif (dvitīyā f. = ⟪द्वितीया⟫) menunjukkan:
 2. Pada kata kerja yang menyatakan pergi, bergerak, memimpin, atau sejenisnya ke arah sesuatu, kasus akusatif menunjukkan tujuan pergerakan:
    misalnya
    - **narakaṃ gacchati** = ⟪नरकं⟫ ⟪गच्छति⟫ : "Ia pergi ke neraka."
-
 :::
 Penggunaan lain dari Akusatif akan dibahas kemudian.
 
----
-
-## 7.3. Sandhi dari akhiran -n
-
-
+## 7.3. Sandhi Akhiran -n
 
 ::: grammar-box
 **-n akhir:**
@@ -160,11 +140,15 @@ mis. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Ia mempero
    contoh: **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : "dan para dewa (Akusatif)"
    **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : "tetapi para dewa (Akusatif)"
 
+4. Kecuali setelah vokal pendek (lihat nanti), akhiran **-n** tetap tidak berubah dalam semua kasus lainnya.
+:::
+
+## 7.4. Jenis Netral (napuṃsaka n. = ⟪नपुंसक⟫)
 
 ::: grammar-box
 **Dalam neutrum, bentuk untuk Nominatif (prathamā) dan Akusativ (dvitīyā) adalah identik.**
 :::
-### 7.4.1. Neutrum dari Stamm yang berakhiran -a
+### 7.4.1. Neutrum  Stämme auf -a
 
 ::: grammar-box
 - **Akhiran Nominatif / Akusativ Singular: -m**
@@ -173,7 +157,7 @@ mis. **phala** n. = ⟪फल⟫ = "buah": Nom. / Akk. sg. **phalam** = ⟪फ�
 mis. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
 :::
 
-## 7.5. Kelas Präsens Athematis
+## 7.5. Kelas Präsens Atematis
 
 Kelas Präsens ke-5 membentuk apa yang disebut Stamm Präsens athematis, yaitu Stamm Präsens tidak berakhir dengan "vokal tema" **-a** seperti pada kelas-kelas Präsens tematis (kelas 1., 4., 6., 10.).
 
@@ -189,14 +173,14 @@ Kelas Präsens ke-5 membentuk apa yang disebut Stamm Präsens athematis, yaitu S
 
 **Semua bentuk lainnya memiliki Stamm Präsens lemah.**
 :::
-### 7.5.1. Akhiran Primer orang ketiga Plural pada Stamm athematis
+### 7.5.1. Primärendungen  3. Person Plural bei athematischen Stämmen
 
 ::: grammar-box
 **Pada Stamm Präsens athematis, akhiran primer orang ketiga Plural berbunyi:**
 - **Parasmaipada: -anti**
 - **Ātmanepada: -ate**
 :::
-### 7.5.2. Kelas Präsens ke-5 (svādi = ⟪स्वादि⟫ = "su dll.")
+### 7.5.2. Kelas Prezen ke-5 (svādi = ⟪स्वादि⟫ = "su dll.")
 
 ::: grammar-box
 - **Stamm kuat**: (paling sering) akar tingkat rendah (seperti disebutkan) + **-no-**
@@ -206,13 +190,12 @@ Kelas Präsens ke-5 membentuk apa yang disebut Stamm Präsens athematis, yaitu S
 :::
 **Contoh:**
 
-| Akar:br⟪धातु⟫ | Stamm kuat | Stamm lemah | Sebelum Vokal:br(lemah) |
+| Akar:br⟪धातु⟫ | Starker Batang | Schwacher Batang | Sebelum Vokal:br(lemah) |
 | :--- | :--- | :--- | :--- |
-| **āp** :br5 P:br⟪आप्⟫:br"mencapai" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
-| **aś** :br5 Ā:br⟪अश्⟫:br"mencapai" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
-| **su** :br5 U:br⟪सु⟫:br"memeras" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
-| **śru** :br5 P:br⟪श्रु⟫:br"mendengar" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
-
+| **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
+| **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
+| **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
 ## 7.6. Daftar Kata
 
@@ -226,7 +209,6 @@ Kelas Präsens ke-5 membentuk apa yang disebut Stamm Präsens athematis, yaitu S
 - **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : mendengar (sesuatu: Akusatif, seseorang: Genetif atau Akusatif; tentang: Akusatif; dari seseorang: Genetif, Ablatif, Instrumentalis)
 - **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : memeras
 - **soma** m. ⟪सोम⟫ : minuman perasan, Soma; Bulan (Dari tanaman mana Soma diperas masih diperdebatkan hingga hari ini).
-
 ::: media
 ![](/images/lekt0701.webp)
 Fig.: Apakah itu tanaman soma Weda?: Jamur fly agaric: *Amanita muscaria* (L.) Lam.
@@ -239,15 +221,12 @@ Fig.: Apakah itu tanaman soma Weda?: Jamur fly agaric: *Amanita muscaria* (L.) L
 - **aṅga** n. ⟪अङ्ग⟫ : anggota tubuh, bagian; juga = **vedāṅga** = ⟪वेदाङ्ग⟫
 - **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : pergi (Menurut klasifikasi verba lokal, ini termasuk kelas present 1, tetapi sebenarnya adalah bentuk yang dibentuk dengan sufiks pembentukan akar present **-ccha-**: **gam** » tingkat rendah (**gm** ») **ga-ccha-ti**)
 
-
-
-
 ## 7.7. Latihan
 
 **A) Masukkan objek langsung atau akusatif arah dalam bentuk tunggal dan jamak:**
 
 1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
-⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
+   ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
 
 ::: media
 ![](/images/lekt0704.webp)
@@ -255,39 +234,39 @@ Fig.: Viṣṇu = ⟪विष्णु⟫, abad ke-8/9.
 (Sumber gambar: [Details](/id/licenses#lekt0704))
 :::
 2. gurus ... khādati (phala)
-⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
+   ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
 3. sādhus ... gacchati (svarga)
-⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
+   ⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
 4. śūdrā ... gacchati (naraka)
-⟪शूद्रा⟫ ... ⟪गच्छति⟫ (⟪नरक⟫)
+   ⟪शूद्रा⟫ ... ⟪गच्छति⟫ (⟪नरक⟫)
 5. ... jayati (śūdra)
-... ⟪जयति⟫ (⟪शूद्र⟫)
+   ... ⟪जयति⟫ (⟪शूद्र⟫)
 6. ... labhate (dhenu, paśu, phala)
-... ⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫)
+   ... ⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫)
 
 **B) Masukkan bentuk kata kerja yang sesuai:**
 
 1. sādhuḥ svargaṃ ... (āp, gam, aś)
-⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
+   ⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
 2. brāhmaṇaḥ somam ... (su) (2 bentuk)
-⟪ब्राह्मणः⟫ ⟪सोमम्⟫ ... (⟪सु⟫)
+   ⟪ब्राह्मणः⟫ ⟪सोमम्⟫ ... (⟪सु⟫)
 3. sādhur gurum ... (śru)
-⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫)
+   ⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫)
 4. devī ... (kup, krudh)
-⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
+   ⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
 
 **C) Dalam kalimat latihan B), ubah agen, objek, dan kata kerja menjadi bentuk jamak.**
 
 **D) Masukkan ke dalam Ātmanepada:**
 
 1. sunvanti.
-⟪सुन्वन्ति⟫ |
+   ⟪सुन्वन्ति⟫ |
 2. nayanti.
-⟪नयन्ति⟫ |
+   ⟪नयन्ति⟫ |
 3. sunoti.
-⟪सुनोति⟫ |
+   ⟪सुनोति⟫ |
 4. yajati.
-⟪यजति⟫ |
+   ⟪यजति⟫ |
 
 ::: media
 ![](/images/lekt0702.webp)
@@ -299,25 +278,21 @@ Fig.: **yajati** = ⟪यजति⟫ — Persembahan Weda = **yajña** m. = ⟪
 **F) Terjemahkan:**
 
 1. narakāṃś ca svargāṃś ca gacchanti.
-⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ |
+   ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ |
 2. gurūṃs tu śṛṇvanti.
-⟪गुरूूंस्तु⟫ ⟪शृण्वन्ति⟫ |
+   ⟪गुरूूंस्तु⟫ ⟪शृण्वन्ति⟫ |
 3. Śūdras mencapai sebuah surga.
 4. Para Kṣatriyas menyembah para dewi sebagai tuan persembahan dengan kurban.
-Para wanita Vaiśya menyembah dewa-dewi dengan kurban.
-TUHAN marah.
+5. Para wanita Vaiśya menyembah dewa-dewi dengan kurban.
+6. TUHAN murka.
 7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni.
-⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
+   ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
 8. Dewa apa yang disembah oleh brahmana ini?
-
-
-
 
 ::: media
 ![](/images/lekt0703.webp)
 Gambar: Kepada dewa mana orang mengorbankan diri di sini? Jawaban: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
 (Sumber gambar: [Details](/id/licenses#lekt0703))
-
 :::
 9. Apa yang dikunyah oleh orang suci ini?
 10. Apa yang diperas oleh mereka (di sini)?

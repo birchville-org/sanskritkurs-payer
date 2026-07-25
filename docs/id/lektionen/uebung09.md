@@ -1,12 +1,12 @@
 ---
-title: "Exercise 9"
+title: "Latihan 9"
 uebung_id: 9
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 9
+# Latihan 9
 
 A) Cobalah untuk menentukan kemungkinan makna dari kata-kata berikut:
 

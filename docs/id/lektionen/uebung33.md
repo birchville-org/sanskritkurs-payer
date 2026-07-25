@@ -1,12 +1,12 @@
 ---
-title: "Exercise 33"
+title: "Latihan 33"
 uebung_id: 33
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 33
+# Latihan 33
 
 A) Sisipkan bentuk yang sesuai dari kata-kata dalam kurung ke dalam pola kalimat berikut:
 

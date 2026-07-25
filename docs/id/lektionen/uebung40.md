@@ -1,12 +1,12 @@
 ---
-title: "Exercise 40"
+title: "Latihan 40"
 uebung_id: 40
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 40
+# Latihan 40
 
 A) Terjemahkan **⟪सुभाषितानि⟫** di awal pelajaran:
 
@@ -24,7 +24,7 @@ Seorang murid menerima satu perempat (dari pengetahuan) dari gurunya, satu perem
 
 ---
 
-## Verbal Transformations (Perfect)
+## Verbale Transformationen (Perfekt)
 
 B) Transform the following verbal forms into the corresponding perfect forms (1st person):
 
@@ -108,7 +108,7 @@ Fig.: ⟪आशिमेति⟫
 :::
 ---
 
-## Word Form Determination
+## Wortformbestimmung
 
 Determine and translate the following word forms:
 

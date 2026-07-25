@@ -1,13 +1,11 @@
 ---
-title: "# Pelajaran 12"
+title: Lektion 12
 subtitle: "Das Partizip Perfekt Passiv (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
 ---
-
-
 
 # Pelajaran 12
 
@@ -20,7 +18,7 @@ status: stable
 - Kalimat pasif dan PPP dari akar-akar yang telah dipelajari sebelumnya
 :::
 
-## 12.1. Partisip Perfek Pasif (PPP)
+## 12.1. Partisip Perfekt Pasif (PPP)
 
 Salah satu cara untuk membentuk kalimat pasif masa lalu adalah konstruksi dengan yang disebut Partisip Perfek Pasif (PPP).
 
@@ -43,7 +41,7 @@ Contoh:
 > **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = "(Oleh brahmana telah disembah dewi dengan persembahan) = Brahmana telah menyembah dewi dengan persembahan."
 :::
 
-### 12.1.2. Skema I untuk kata kerja intransitif dan kata kerja pergerakan
+### 12.1.2. Skema I untuk verba intransitif dan verba pergerakan
 
 ::: grammar-box
 **Agen (kartṛ) dalam Nominatif (prathamā) -- Partisip Perfek Pasif**
@@ -54,7 +52,7 @@ Contoh:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = "Perempuan Kṣatriya telah pergi ke kota."
 :::
 
-### 12.1.3. Skema II untuk kata kerja intransitif dan kata kerja pergerakan
+### 12.1.3. Skema II untuk verba intransitif dan verba pergerakan
 
 ::: grammar-box
 **Agen (kartṛ) dalam Instrumentalis (tṛtīyā) -- PPP dalam Nominatif Singular Neutrum**
@@ -65,7 +63,7 @@ Contoh:
 Konstruksi menurut Skema II jauh lebih jarang daripada konstruksi menurut Skema I.
 :::
 
-## 12.2. Mengenai makna PPP
+## 12.2. Mengenai Makna PPP
 
 Jadi, yang disebut "Partisip Perfek Pasif" untuk kata kerja transitif terutama memiliki makna pasif (**āpta** = "tercapai (telah)"), dan untuk kata kerja intransitif serta kata kerja pergerakan memiliki makna aktif (**gata** = "pergi"), terdapat beberapa kata kerja di mana PPP dapat memiliki baik makna aktif maupun pasif:
 
@@ -73,8 +71,7 @@ misalnya
 - **gata** = ⟪गत⟫ = "pergi" (aktif); tetapi juga: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = "jalan yang telah dilalui" (pasif)
 - **āpta** = ⟪आप्त⟫ = "tercapai" (pasif), "mencapai" (aktif)
 
-
-## 12.3. Pembentukan PPP
+## 12.3. Bildung  PPP
 
 ::: grammar-box
 Terdapat bentuk-bentuk pembentukan berikut (untuk setiap akar, pelajari PPP-nya masing-masing!):
@@ -82,15 +79,14 @@ Terdapat bentuk-bentuk pembentukan berikut (untuk setiap akar, pelajari PPP-nya 
 **(paling sering) akar tingkat rendah**
 
 - **+ -ta**
-- dengan vokal penghubung **-i-** sebelumnya: **-ita**
-- tanpa vokal penghubung: **-ta**
+  - dengan vokal penghubung **-i-** sebelumnya: **-ita**
+  - tanpa vokal penghubung: **-ta**
 - **+ -na**
-
 
 Kata benda feminin berakhir dengan: **-tā**, **-itā**, **-nā**; kata benda neutra dideklinasikan seperti **phala** n.
 :::
 
-### 12.3.1. PPP akhiran -ta (kta)
+### 12.3.1. PPP auf -ta (kta)
 
 #### 12.3.1.1. Tanpa vokal penghubung -i- (aniṭ)
 
@@ -104,7 +100,7 @@ Daftar akar *aniṭ* terdapat pada Kielhorn, *Grammatik* § 298.
 **Contoh:**
 
 ::: grammar-box
-| Akar | PPP (kta) |
+| Akar | Partisip Pasif Sempurna (kta) |
 | :--- | :--- |
 | **bhū** 1 P:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
 | **smṛ** 1 P:br(⟪स्मृ⟫) | **smṛ-ta** :br(⟪स्मृत⟫) |
@@ -134,7 +130,7 @@ Daftar akar *aniṭ* terdapat pada Kielhorn, *Grammatik* § 298.
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
 :::
 
-## 12.4. Hukum gabungan bunyi dalam kata
+## 12.4. Aturan-aturan Penyambungan Bunyi di dalam Kata
 
 Pada pembentukan *aniṭ*, hukum-hukum berikut mengenai gabungan bunyi dalam kata harus diperhatikan. **Hukum-hukum ini sangat penting untuk memahami seluruh morfologi bahasa Sanskerta.**
 
@@ -147,8 +143,7 @@ Pada pembentukan *aniṭ*, hukum-hukum berikut mengenai gabungan bunyi dalam kat
 | **4. Hambat bersuara tanpa aspirasi – kecuali j – diganti sebelum bunyi tak bersuara dengan hambat tak bersuara tanpa aspirasi yang sesuai:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (penting untuk kelas ke-2 present) |
 | **5. jt diganti dengan kt atau ṣṭ (bukan fakultatif!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Hambat bersuara dengan aspirasi + hambat tak bersuara » hambat bersuara tanpa aspirasi + hambat bersuara dengan aspirasi (Hukum Aspirasi Bartholomaeus):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-
-| **7. h-t diganti oleh ḍh dengan peregangan i atau u sebelumnya; atau oleh gdh. Sebelum ḍh tersebut, a diganti dengan o, lebih jarang oleh ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟩ :br **guh + ta » gūḍha** = ⟪गूढ⟩ (guh 1 (gūhati) „menyembunyikan sesuatu”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟩ / ⟪मूढ⟩** :br **sah + ta » soḍha** = ⟪सोढ⟩ |
+| **7. h-t diganti oleh ḍh dengan peregangan i atau u sebelumnya; atau oleh gdh. Sebelum ḍh tersebut, a diganti dengan o, lebih jarang oleh ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
 ## 12.5. Daftar Kata
@@ -190,24 +185,22 @@ Gambar: ⟪महावीरो⟩ ⟪जिनः⟩
 :::
 - **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟩ : pengetahuan, organ pengetahuan.
 
+### 12.5.1. Pasif dan PPP  bisher gelernten Wurzeln
 
-### 12.5.1. Pasif dan PPP dari akar yang telah dipelajari sejauh ini
-
-| Akar:br⟪धातु⟩ | Pasif Praesens 3. sg. Indikatif:br⟪यक्⟩ ⟪लट्⟩ | PPP:br⟪क्त⟩ |
+| Akar:br⟪धातु⟫ | Passiv Present 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
-| **aś** 5 Ā:br⟪अश्⟩ | **aśyate** :br⟪अश्यते⟩ | **aṣṭa** :br⟪अष्ट⟩ |
-| **āp** 5 P:br⟪आप्⟩ | **āpyate** :br⟪आप्यते⟩ | **āpta** :br⟪आप्त⟩ |
-| **as** 2 P:br⟪अस्⟩ | — | **bhūta** :br⟪भूत⟩ |
-| **bhaj** 1 U:br⟪भज्⟩ | **bhajyate** :br⟪भज्यते⟩ | **bhakta** :br⟪भक्त⟩ |
-| **bhū** 1 P:br⟪भू⟩ | **bhūyate** :br⟪भूयते⟩ | **bhūta** :br⟪भूत⟩ |
-| **budh** 4 Ā / 1 U:br⟪बुध्⟩ | **budhyate** :br⟪बुध्यते⟩ | **buddha** :br⟪बुद्ध⟩ |
-| **dah** 1 P:br⟪दह्⟩ | **dahyate** :br⟪दह्यते⟩ | **dagdha** :br⟪दग्ध⟩ |
-| **div** 4 P:br⟪दिव्⟩ | **dīvyate** :br⟪दीव्यते⟩ | **dyūta** :br⟪द्यूत⟩ |
-| **dṛś** :br⟪दृश्⟩ | **dṛśyate** :br⟪दृश्यते⟩ | **dṛṣṭa** :br⟪दृष्ट⟩ |
-| **gam** 1 P:br⟪गम्⟩ | **gamyate** :br⟪गम्यते⟩ | **gata** :br⟪गत⟩ |
-| **grah** 9 U:br⟪ग्रह्⟩ | **gṛhyate** :br⟪गृह्यते⟩ | **gṛhīta** :br⟪गृहीत⟩ |
-| **hṛ** 1 U:br⟪हृ⟩ | **hriyate** :br⟪ह्रियते⟩ | **hṛta** :br⟪हृत⟩ |
-
+| **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
+| **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
+| **as** 2 P:br⟪अस्⟫ | — | **bhūta** :br⟪भूत⟫ |
+| **bhaj** 1 U:br⟪भज्⟫ | **bhajyate** :br⟪भज्यते⟫ | **bhakta** :br⟪भक्त⟫ |
+| **bhū** 1 P:br⟪भू⟫ | **bhūyate** :br⟪भूयते⟫ | **bhūta** :br⟪भूत⟫ |
+| **budh** 4 Ā / 1 U:br⟪बुध्⟫ | **budhyate** :br⟪बुध्यते⟫ | **buddha** :br⟪बुद्ध⟫ |
+| **dah** 1 P:br⟪दह्⟫ | **dahyate** :br⟪दह्यते⟫ | **dagdha** :br⟪दग्ध⟫ |
+| **div** 4 P:br⟪दिव्⟫ | **dīvyate** :br⟪दीव्यते⟫ | **dyūta** :br⟪द्यूत⟫ |
+| **dṛś** :br⟪दृश्⟫ | **dṛśyate** :br⟪दृश्यते⟫ | **dṛṣṭa** :br⟪दृष्ट⟫ |
+| **gam** 1 P:br⟪गम्⟫ | **gamyate** :br⟪गम्यते⟫ | **gata** :br⟪गत⟫ |
+| **grah** 9 U:br⟪ग्रह्⟫ | **gṛhyate** :br⟪गृह्यते⟫ | **gṛhīta** :br⟪गृहीत⟫ |
+| **hṛ** 1 U:br⟪हृ⟫ | **hriyate** :br⟪ह्रियते⟫ | **hṛta** :br⟪हृत⟫ |
 | **i** 2 P:br⟪इ⟫ | **īyate** :br⟪ईयते⟫ | **ita** :br⟪इत⟫ |
 | **iṣ** 6 P:br⟪इष्⟫ | **iṣyate** :br⟪इष्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **jan** 4 Ā:br⟪जन्⟫ | **janyate** :br⟪जन्यते⟫ | **jāta** :br⟪जात⟫ |
@@ -241,7 +234,6 @@ Gambar: ⟪महावीरो⟩ ⟪जिनः⟩
 | **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
 | **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
-
 ## 12.6. Latihan
 
 **A) Bentuklah kalimat pasif lampau dari kalimat aktif [Pelajaran 7](/lektionen/lektion07), Latihan A, dan untuk kata kerja intransitif serta kata kerja gerak, bentuklah kalimat aktif lampau.**
@@ -249,6 +241,4 @@ Gambar: ⟪महावीरो⟩ ⟪जिनः⟩
 **B) Bentukkan PPP yang sesuai untuk bentuk kata kerja dari [Pelajaran 10](/lektionen/lektion10), Latihan A. Perhatikan bahwa satu bentuk seperti sṛjati memiliki PPP yang sesuai dalam ketiga jenis kelamin.**
 
 **C) Ubahlah kalimat-kalimat dari [Pelajaran 10](/lektionen/lektion10), Latihan C menjadi kalimat pasif dalam bentuk lampau.**
-
-
 

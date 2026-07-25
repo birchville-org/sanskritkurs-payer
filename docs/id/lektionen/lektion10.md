@@ -1,5 +1,5 @@
 ---
-title: "# Pelajaran 10"
+title: Lektion 10
 subtitle: "Den Passivsatz (Instrumentalis des Agens)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
@@ -7,16 +7,14 @@ category: "Grammatik"
 status: stable
 ---
 
-
-
 # Pelajaran 10
 
 ::: deleteme-box
 **Dalam pelajaran ini Anda akan mempelajari:**
-- Kalimat pasif (Instrumentalis dari Agens)
+- Kalimat pasif (Instrumental dari agen)
 - Deklinasi Instrumentalis (tṛtīyā)
-- Hukum Cerebralisasi untuk -n- (Wortsandhi)
-- Pembentukan pasif (yak) dalam Indikatif Präsens
+- Hukum Serebralisasi untuk -n- (sandhi kata)
+- Pembentukan pasif (yak) dalam Indikatif kala kini
 - Kosakata tentang Pengorbanan, Kebenaran, dan Peran Sosial
 :::
 ## 10.1. Kalimat Pasif
@@ -65,51 +63,49 @@ Konstruksi pasif Sanskerta sangat sering digunakan: pasif memang lebih mudah dib
 
 **Pembentukan reguler:**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | Instrumental Tunggal | Instrumental Jamak |
 | :--- | :--- | :--- |
-| **Feminina pada -i**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
-| **Feminina pada -ī**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
-| **Feminina pada -u**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
+| **Feminina auf -i**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
+| **Feminina auf -ī**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
+| **Feminina auf -u**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
 
 **Pembentukan tidak reguler (Singular):**
 
-| | Instrumentalis Singular | Instrumentalis Plural |
+| | Instrumental Tunggal | Instrumental Jamak |
 | :--- | :--- | :--- |
-
-| **Maskulinum pada -i**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
-| **Maskulinum pada -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
-| **Femininum pada -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
+| **Maskulina auf -i**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
+| **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
+| **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
 
 **Maskulinum dan Neutrum pada -a (tidak beraturan dalam tunggal dan jamak):**
 
-| | Instrumentalis Tunggal | Instrumentalis Jamak |
+| | Instrumental Tunggal | Instrumental Jamak |
 | :--- | :--- | :--- |
-| **Maskulinum pada -a**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
-| **Neutrum pada -a**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
+| **Maskulina auf -a**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
+| **Neutra auf -a**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
 
 **Kata tanya kim:**
 
-| | Instrumentalis Tunggal | Instrumentalis Jamak |
+| | Instrumental Tunggal | Instrumental Jamak |
 | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **kena** :br⟪केन⟫ | **kais** :br⟪कैस्⟫ |
+| **Maskulin / Netral** | **kena** :br⟪केन⟫ | **kais** :br⟪कैस्⟫ |
 | **Femininum** | **kayā** :br⟪कया⟫ | **kābhis** :br⟪काभिस्⟫ |
 
 **Kata ganti penunjuk:**
 
-| Kata Ganti | Jenis Kelamin (Genus) | Instrumentalis Tunggal | Instrumentalis Jamak |
+| Kata Ganti | Jenis Kelamin (Genus) | Instrumental Tunggal | Instrumental Jamak |
 | :--- | :--- | :--- | :--- |
-| **tad** :br"ia (lk), ia (pr), itu; yang, yang, yang" (yang disebutkan):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
+| **tad** :br"er, sie, es; der, die, das" (Erwähnte):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
 | | F | **tayā** :br⟪तया⟫ | **tābhis** :br⟪ताभिस्⟫ |
-| **etad** :br"ini, ini, ini" (sangat dekat dengan penutur):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
+| **etad** :br"dieser, diese, dieses" (dem Sprechenden sehr Nahe):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
 | | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
-| **idam** :br"ini, ini, ini" (dekat):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
+| **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
 ::: deleteme-box
 Selain dalam Nominatif dan Akusativ, bentuk-bentuk Neutrum pada -a, kata tanya, dan kata ganti penunjuk identik dengan bentuk-bentuk Maskulinum yang sesuai.
 :::
-
 
 ### 10.2.1. Tentang Penggunaan Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
 
@@ -128,8 +124,7 @@ Selain dalam Nominatif dan Akusativ, bentuk-bentuk Neutrum pada -a, kata tanya, 
 :::
 Penggunaan lain dari Instrumentalis (tṛtīyā) akan mengikuti nanti.
 
-
-## 10.3. Apa yang disebut Hukum Cerebralisasi untuk -n- (sebuah sandhi kata)
+## 10.3. Hukum Serebralisasi untuk -n- (Sandhi Kata)
 
 ::: grammar-box
 Sebuah **-n-** yang diikuti oleh vokal atau **n, m, y, v** diganti dengan **-ṇ-** jika dalam kata tersebut **ṛ, ṝ, r, ṣ** mendahului **-n-** atau jika tidak ada bunyi lain selain vokal, gutural, labial, **y, v, h** atau Anusvāra yang terletak di antara bunyi-bunyi tersebut dan **-n-** berikutnya dalam kata.
@@ -137,11 +132,10 @@ Sebuah **-n-** yang diikuti oleh vokal atau **n, m, y, v** diganti dengan **-ṇ
 **Oleh karena itu:**
 
 ::: grammar-box
-| | Instrumentalis Tunggal |
+| | Instrumental Tunggal |
 | :--- | :--- |
 | **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
 | **śūdra** :br⟪शूद्र⟫ | **śūdreṇa** :br⟪शूद्रेण⟫ |
-
 | **īśvara** :br⟪ईश्वर⟫ | **īśvereṇa** :br⟪ईश्वरेण⟫ |
 | **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
 | **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
@@ -158,8 +152,7 @@ Sebuah **-n-** yang diikuti oleh vokal atau **n, m, y, v** diganti dengan **-ṇ
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
 
-
-## 10.4. Pasif, Indikatif Prasen (yak = ⟪यक्⟫)
+## 10.4. Bentuk Pasif, Indikatif Prezen (yak = ⟪यक्⟫)
 
 ::: grammar-box
 **Pembentukan:**
@@ -167,55 +160,50 @@ Sebuah **-n-** yang diikuti oleh vokal atau **n, m, y, v** diganti dengan **-ṇ
 :::
 mis.
 
-| Akar:br⟪धातु⟫ | 3. sg. Pas. Pras. Indik.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pas. Pras. Indik.:br⟪यक्⟫ ⟪लट्⟫ |
+| Akar:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
-| **nī** :br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"ia dipimpin" | **nīyante** :br(⟪नीयन्ते⟫) |
-| **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"ia dipikirkan" | **manyante** :br(⟪मन्यन्ते⟫) |
-| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"ia dimasuki" | **viśyante** :br(⟪विश्यन्ते⟫) |
+| **nī** :br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"er wird geführt" | **nīyante** :br(⟪नीयन्ते⟫) |
+| **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
+| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
 **Perhatikan bahwa untuk kata kerja kelas prasen ke-4, bentuk Ātmanepada dan pasif identik! Apakah yang dimaksud adalah Ātmanepada atau pasif, dalam kasus ini hanya dapat disimpulkan dari konstruksi kalimat.**
 
-
-
-### 10.4.1. Aturan khusus untuk pembentukan pasif
+### 10.4.1. Aturan-aturan khusus untuk pembentukan pasif
 
 1. **Akar yang berakhir dengan -i atau -u** memanjangkan vokal mereka sebelum akhiran pasif **-ya-**:
-* **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
-* **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-* **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
+   * **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+   * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **Akar dengan -a- di antara konsonan** (kecuali nasal, y, r, v) tetap pada tingkat tinggi:
-* **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **Beberapa akar membentuk pasif mereka pada tingkat tinggi** (atau dalam tahap ablaut dari batang prasen):
-* **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-* **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-* **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
+   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
 4. **Tingkat rendah dari kata kerja yang dimulai dengan ya, va, ra, atau di mana bunyi-bunyi ini berada setelah konsonan lain (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
-| Akar:br⟪धातु⟫ | Tingkat rendah:br⟪सम्प्रसारण⟫ | Pasif:br⟪यक्⟫ |
-| :--- | :--- | :--- |
-| **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
-| **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
-| **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
+   | Akar:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
+   | :--- | :--- | :--- |
+   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
+   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
+   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
 Nama tradisional lokal untuk pembentukan tingkat rendah ini pada kata kerja dengan **ya** atau **va** adalah **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **-ṛ akhir** setelah satu konsonan tunggal diganti dengan **-ri-** sebelum akhiran pasif **-ya-**:
-* **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* Tetapi: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
+   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
+   * Tetapi: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
 
 6. **Beberapa akar yang berakhir dengan -an** secara alternatif memiliki dua pembentukan batang pasif:
-* satu **-an-ya**
-* satu **-ā-ya-** (panjang **ā** adalah perwakilan untuk nasal hipotetis panjang)
-
+   * satu **-an-ya**
+   * satu **-ā-ya-** (panjang **ā** adalah perwakilan untuk nasal hipotetis panjang)
 
 mis. **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (dari \*tn-ya-nte)
-
-
+   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
+   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (dari \*tn-ya-nte)
 
 ## 10.5. Daftar Kata
 
@@ -280,7 +268,6 @@ Ilm.: ⟪विश्वामित्रः⟫
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : bertanya (seseorang: Akk.; tentang sesuatu: Akk.)
 - **saha** ⟪सह⟫ : bersama, secara bersamaan (juga dalam konteks "bertarung dengan" dll.) (Postposisi dengan Instrumentalis)
 
-
 ## 10.6. Latihan
 
 **A) Bentukkan pasif untuk bentuk kata kerja berikut (dengan terjemahan bentuk kata kerja):**
@@ -307,7 +294,6 @@ Ilm.: ⟪विश्वामित्रः⟫
 20. **vadanti** (⟪वदन्ति⟫)
 21. **pṛcchanti** (⟪पृच्छन्ति⟫)
 22. **tanvanti** (⟪तन्वन्ति⟫) (2 bentuk!)
-
 
 **B) Bentuklah Instrumentalis Singular dan Plural untuk semua Nomina yang telah dipelajari sejauh ini.**
 
@@ -347,8 +333,6 @@ Gbr.: ⟪तन्तुवायः⟫
 9. Sang Kṣatriya memuja TUHAN dengan sebuah persembahan. (Konstruksi Pasif, tanpa menggunakan kata **yajña**)
 10. Melalui kedermawanan, seorang pengikut Buddha mencapai sebuah surga.
 
-
-
 ## 10.7. Daftar Kata 2
 
 - **makṣikā** f. ⟪मक्षिका⟫ : Lalat, lebah
@@ -376,24 +360,11 @@ Gbr.: ⟪तन्तुवायः⟫
 - **iha** ⟪इह⟫ : di sini
 - **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : cantik, bersinar
 
-
-
-## 10.8. Latihan Membaca dan Menerjemahkan
+## 10.8. Lese- dan Latihan Penerjemahan
 
 **Bacalah dan terjemahkanlah, lalu ubahlah ke dalam bentuk Pasif:**
 
 ⟪क⟫
-
-⟪१⟫.
-
-
----
-
-## 10.8. Reading and Translation Exercise
-
-**Baca dan terjemahkan, lalu ubah ke dalam kalimat pasif:**
-
-**⟪क⟫**
 
 ⟪१⟫.
 ::: center
@@ -412,7 +383,7 @@ Gbr.: ⟪तन्तुवायः⟫
 ⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ | |
 ⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
 
-**⟪ख⟫**
+⟪ख⟫
 
 ⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ | |
 ⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ | |
@@ -425,6 +396,3 @@ Gbr.: ⟪तन्तुवायः⟫
 ⟪९⟫. ⟪गजो⟫ ⟪गच्छति⟫ | |
 ⟪१०⟫. ⟪हरिर्गृहं⟫ ⟪गच्छति⟫ | |
 ⟪११⟫. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ ||
-
-
-

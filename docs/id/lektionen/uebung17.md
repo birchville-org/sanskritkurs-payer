@@ -1,12 +1,12 @@
 ---
-title: "Exercise 17"
+title: "Latihan 17"
 uebung_id: 17
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 17
+# Latihan 17
 
 [A) Masukkan kata kerja dalam kalimat-kalimat berikut dan terjemahkan:
 
@@ -79,7 +79,7 @@ Fig.: ⟪बालब्राह्मणी⟫ ⟪रोदिति⟫
 :::
 ---
 
-## Verb Forms Exercise
+## Verbformen-Latihan
 
 Terjemahkan bentuk-bentuk kata kerja berikut dan berikan akar yang sesuai:
 
@@ -133,7 +133,7 @@ Terjemahkan bentuk-bentuk kata kerja berikut dan berikan akar yang sesuai:
 
 ⟪२५⟫. **⟪मुञ्चन्ति⟫** (⟪मुच्⟫ 6U): they liberate
 
-⟪२६⟫. **⟪म्रियन्ते⟫** (⟪मृ⟫ 4Ā): they die
+⟪२६⟫. **⟪म्रियन्ते⟫** (⟪मृ⟫ 4Ā): mereka mati
 
 ⟪२७⟫. **⟪यजते⟫** (⟪यज्⟫ 1U): he sacrifices as the sacrificer
 

@@ -1,12 +1,12 @@
 ---
-title: "Exercise 46"
+title: "Latihan 46"
 uebung_id: 46
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Lesson 46
+# Latihan 46
 
 A) Determine and translate the following forms:
 
@@ -69,7 +69,7 @@ A) Determine and translate the following forms:
 :::
 ---
 
-## Verses (⟪सुभाषितानि⟫)
+## Sprüche (⟪सुभाषितानि⟫)
 
 B) Translate:
 

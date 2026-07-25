@@ -1,15 +1,15 @@
 ---
-title: Lesson 55
-subtitle: "The a-Aorist (Aorist with thematic vowel)"
+title: Lektion 55
+subtitle: "Der a-Aorist (Aorist mit Themavokal)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 55
+# Pelajaran 55
 
-## 55.1. a-Aoris (Aoris dengan Vokal Tematik)
+## 55.1. Aorist a (Aorist dengan vokal tematik)
 
 ::: grammar-box
 **Aorist a-aorist dibentuk seperti imperfect (⟪लङ्⟫) dari kelas present ke-6 (⟪तुदादि⟫), yaitu:**
@@ -50,7 +50,7 @@ Note:
 ::: indent
 ⟪शास्⟫ 2P "to command": ⟪अशिषत्⟫ (regular zero-grade!)
 :::
-## 55.2. Exercise
+## 55.2. Latihan
 
 [Tentukan dan terjemahkan bentuk-bentuk berikut secara tertulis, serta bentukkan bentuk aorist yang sesuai:]
 
@@ -93,6 +93,7 @@ Fig.: ⟪अजीर्यमिति⟫
 'Inâyat Khân di tempat tidur kematiannya, sketsa untuk miniatur naskah untuk Jahângîr = جهانگير, kira-kira 1618
 (Sumber gambar: [Details](/en/licenses#lekt5501))
 :::
+
 ::: deleteme-box
 
 **lekt5501:** 'Inâyat Khân di tempat tidur kematiannya, sketsa untuk miniatur naskah untuk Jahângîr = جهانگير, kira-kira 1618 [Sumber gambar: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Diakses pada 2009-01-28. Domain publik]

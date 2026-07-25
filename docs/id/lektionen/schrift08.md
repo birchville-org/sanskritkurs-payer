@@ -1,4 +1,4 @@
-# Writing Exercise 8
+## Latihan Aksara 8
 
 Tanda vokal untuk awal kata, jika kata tersebut tidak terhubung secara tertulis dengan kata sebelumnya:
 
@@ -6,7 +6,7 @@ Tanda vokal untuk awal kata, jika kata tersebut tidak terhubung secara tertulis 
 
 ![](/images/schrift016.jpg)
 
-### Consonant Ligatures
+### Konsonanligaturen
 
 When two or more consonants follow each other immediately in a word or sentence, they are written with a ligature (combined character).
 
@@ -72,7 +72,7 @@ e.g.
 
 ⟪देवो⟫ ⟪ऽग्निः⟫ = devo 'gniḥ
 
-## Exercise
+## Latihan
 
 A) Write all ligatures appearing in the list above
 

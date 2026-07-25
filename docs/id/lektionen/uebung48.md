@@ -1,12 +1,12 @@
 ---
-title: "Exercise 48"
+title: "Latihan 48"
 uebung_id: 48
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 48
+# Latihan 48
 
 [A) Terjemahkan **⟪सुभाषितानि⟫** di awal pelajaran:
 
@@ -38,7 +38,7 @@ Fig.: ⟪विद्याविहीनः⟫ ⟪पशुः⟫
 :::
 ---
 
-## Translations into Sanskrit (Imperative)
+## Übersetzungen ins Sanskrit (Imperatif)
 
 B) Terjemahkan ke dalam bahasa Sanskerta menggunakan bentuk imperatif (lebih disukai akar kata dari kelas 2 dan 3):
 
@@ -114,7 +114,7 @@ Fig.: ⟪तानि⟫ ⟪फलान्यदाम⟫
 :::
 ---
 
-## The Dharma of Women (⟪स्त्रीधर्मः⟫)
+## Dharma  Frauen (⟪स्त्रीधर्मः⟫)
 
 From the **⟪मनुस्मृति⟫ ⟪९⟫**:
 

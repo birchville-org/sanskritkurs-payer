@@ -1,6 +1,6 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Latihan Penulisan 4
+## Latihan Aksara 4
 
 ![](/images/schrift006.webp)
 

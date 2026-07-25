@@ -1,6 +1,6 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Writing Exercise 7
+## Latihan Aksara 7
 
 ![](/images/schrift012.webp)
 
@@ -46,7 +46,7 @@ Regarding the writing:
 
 ![](/images/schrift014.webp)
 
-## Exercise
+## Latihan
 
 A) Write in Devanāgarī and provide the translation (requires Lesson 8):
 

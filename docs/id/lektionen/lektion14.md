@@ -1,5 +1,5 @@
 ---
-title: "# Pelajaran 14"
+title: Lektion 14
 subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
@@ -7,11 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-
-
 # Pelajaran 14
 
-## 14.1. Ungkapan Hubungan yang Dinyatakan oleh Kata Benda: Genitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = akhiran kasus keenam)
+## 14.1. Ungkapan hubungan antara entitas yang ditunjuk oleh kata benda: Genetif (ṣaṣṭhī f. = ⟪षष्टी⟫ = akhiran kasus keenam)
 
 ::: grammar-box
 Jika hubungan yang dinyatakan oleh dua kata benda ingin ditunjukkan, maka digunakan Genitif (ṣaṣṭhī f. "akhiran kasus keenam"). Genitif berbeda dari semua kasus lainnya karena ia — dengan beberapa pengecualian kecil — tidak berfungsi untuk menentukan lebih lanjut tindakan yang dinyatakan oleh kata kerja, melainkan untuk mengekspresikan hubungan antara orang atau benda yang dinyatakan oleh kata benda. Genitif sering kali menjawab pertanyaan: Milik siapa?
@@ -44,7 +42,7 @@ Menurut Pāṇini 2.3.67, pada PPP Genitif digunakan jika PPP memiliki makna pre
 
 Tentu saja, pada PPP Neutrum Singular yang digunakan sebagai abstrak verbal — yaitu sebagai kata benda — Genitif digunakan.
 :::
-## 14.2. Pembentukan Bentuk Genitif (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+## 14.2. Bildung  Genetivformen (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
 Genitif pada akar verba dengan ablasi akar dibentuk dari bentuk lemah.
 
@@ -59,7 +57,7 @@ Setelah konsonan, akhiran Genitif yang teratur adalah:
 :::
 ::: center
 
-| Akar Nomina | Bentuk Lemah | Genitif Singular | Genitif Plural |
+| Akar Nomina | Schwacher Batang | Genitif Tunggal | Genitif Jamak |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
 | **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
@@ -78,12 +76,11 @@ Genitif Plural akar yang berakhiran vokal dibentuk sebagai berikut:
 :::
 ::: center
 
-| Akar Nomina | Genitif Plural |
+| Akar Nomina | Genitif Jamak |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devā-nām** :br ⟪देवानाम्⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalā-nām** :br ⟪फलानाम्⟫ |
 | **devatā** f.:br ⟪देवता⟫ | **devatā-nām** :br ⟪देवतानाम्⟫ |
-
 | **kavi** m.:br ⟪कवि⟫ | **kavī-nām** :br ⟪कवीनाम्⟫ |
 | **śruti** f.:br ⟪श्रुति⟫ | **śrutī-nām** :br ⟪श्रुतीनाम्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devī-nām** :br ⟪देवीनाम्⟫ |
@@ -100,7 +97,7 @@ Genetif tunggal batang vokal berakhiran dibentuk secara tidak teratur dan baik u
 :::
 ::: center
 
-| Batang | Genetif Tunggal |
+| Batang | Genitif Tunggal |
 | :--- | :--- |
 | **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
 | **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
@@ -108,8 +105,8 @@ Genetif tunggal batang vokal berakhiran dibentuk secara tidak teratur dan baik u
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(yaitu baik seperti kavi atau seperti devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(yaitu baik seperti paśu atau seperti feminin bersuku kata banyak berakhiran -ū) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
 **Kata ganti tanya dan kata ganti penunjuk:**
@@ -118,10 +115,10 @@ Genetif tunggal batang vokal berakhiran dibentuk secara tidak teratur dan baik u
 
 | | | kim | tad | etad | idam |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| **Maskulinum / Neutrum** | **Genetif Tunggal** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
-| | **Genetif Jamak** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
-| **Femininum** | **Genetif Tunggal** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
-| | **Genetif Jamak** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
+| **Maskulin / Netral** | **Genitif Tunggal** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **Genitif Jamak** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **Femininum** | **Genitif Tunggal** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **Genitif Jamak** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
 **Kesamaan bentuk:**
@@ -133,7 +130,7 @@ Pada semua batang nominal kecuali maskulinum dan neutrum berakhiran -a serta kat
 Perhatikan bahwa pada batang berakhiran konsonan, Ablatif dan Genetif Tunggal terdengar sama dengan Akusatif Jamak Maskulinum dan Femininum!
 
 :::
-## 14.3. Lebih lanjut tentang penggunaan Genetif (⟪षष्ठी⟫)
+## 14.3. Penggunaan Genitif Lebih Lanjut (⟪षष्ठी⟫)
 
 ::: grammar-box
 Bertentangan dengan aturan dasar di atas, Genetif digunakan untuk menyatakan objek beberapa kata kerja, misalnya pada kata kerja mengingat:
@@ -146,7 +143,7 @@ Pada semua kata kerja ini, objek juga dapat berada dalam Akusatif:
 
 Lebih lanjut nanti.
 :::
-## 14.4. Daftar kata
+## 14.4. Daftar Kata
 
 * **śīla n.** (⟪शील⟫) : karakter (baik), kesopanan
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : perhiasan
@@ -165,14 +162,13 @@ Gambar: ⟪दीपाः⟫
 * **loka m.** (⟪लोक⟫) : dunia; Tung. dan Jam.: orang-orang, manusia, rakyat
 * **jala n.** (⟪जल⟫) : air
 * **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : lahir, muncul
-* **jan-a m.** (⟪जन⟫) : ciptaan, manusia
+  * **jan-a m.** (⟪जन⟫) : ciptaan, manusia
 * **vac 2 P** (vakti, tidak ada bentuk jamak ke-3!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : mengatakan, berbicara kepada (dvitīyā)
-* **uk-ti f.** (⟪उक्ति⟫) : ucapan, kata
-* **vac-ana n.** (⟪वचन⟫) : berbicara, kata
-* **vāk-ya n.** (⟪वाक्य⟫) : kata, pidato
+  * **uk-ti f.** (⟪उक्ति⟫) : ucapan, kata
+  * **vac-ana n.** (⟪वचन⟫) : berbicara, kata
+  * **vāk-ya n.** (⟪वाक्य⟫) : kata, pidato
 
-
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Peribahasa
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Sprichwörter
 
 Terjemahkan peribahasa berikut dan hafalkan:
 

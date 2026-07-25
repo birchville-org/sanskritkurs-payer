@@ -1,15 +1,15 @@
 ---
-title: Lesson 51
-subtitle: "⟪उपपद⟫-Compounds"
+title: Lektion 51
+subtitle: "⟪उपपद⟫-Komposita"
 lesson_id: 51
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 51
+# Pelajaran 51
 
-## 51.1. ⟪उपपद⟫-Compounds
+## 51.1. ⟪उपपद⟫-Komposita
 
 ::: grammar-box
 **Kompositum ⟪उपपद⟫ (⟪उपपद⟫ n. "kata pendamping") adalah ⟪तत्पुरुष⟫ dengan nomina verbal sebagai anggota kedua, yang hanya muncul sebagai anggota kedua dalam kompositum, bukan sebagai kata yang berdiri sendiri secara independen. ⟪उपपद⟫ dibentuk dengan sufiks ⟪कृत्⟫**
@@ -39,12 +39,12 @@ a) ⟪कृत्⟫ suffix \-Ø
 \-⟪भुज्⟫ 3 "enjoying, eating" e.g. ⟪भूमिभुज्⟫ m. "king" (⟪भूमि⟫ f. "earth")
 
 \-⟪विद्⟫ 3 "knowing" e.g. ⟪धर्मविद्⟫ 3 "one who knows the Dharma"
-:::: media
+:::
+::: media
 ![](/images/lekt5101.webp)
 Fig.: ⟪भूमिभुज्⟫
 ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008)
 (Image source: [Details](/en/licenses#lekt5101))
-::::
 :::
 b) ⟪कृत्⟫ suffix -t
 
@@ -92,22 +92,22 @@ c) ⟪कृत्⟫ suffix -a
 
 \-⟪कर⟫ 3 "bringing about, doing" e.g. ⟪सुखकर⟫ 3 "bringing about happiness"
 
-\-⟪स्मर⟫ 3 "remembering" e.g. ⟪जातिस्मर⟫ 3 "remembering previous births"
-:::: media
-![](/images/lekt5102.webp)
-Fig.: ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪हस्तेन⟫ ⟪च⟫ ⟪मुखेन⟫ ⟪च⟫
-⟪नेपाल⟫
-(Image source: [Details](/en/licenses#lekt5102))
-::::
+\-⟪स्मर⟫ 3 "mengingat" misalnya ⟪जातिस्मर⟫ 3 "mengingat kelahiran-kelahiran sebelumnya"
 :::
-## 51.2. Declension of stems ending in a simple consonant (except nasal, semivowel, -s)
+::: media
+![](/images/lekt5102.webp)
+Gbr.: ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪हस्तेन⟫ ⟪च⟫ ⟪मुखेन⟫ ⟪च⟫
+⟪नेपाल⟫
+(Sumber gambar: [Detail](/en/licenses#lekt5102))
+:::
+## 51.2. Deklinasi batang kata yang berakhiran konsonan tunggal (selain nasal, semivokal, -s)
 
 ::: grammar-box
 **Stems ending in a simple consonant (except nasal, semivowel, -s) have no stem gradation. The declension occurs completely regularly by appending the regular case endings.**
 
 **Sole irregularity: in Nom., Acc., Voc. pl. Neuter, a nasal is inserted before the stem ending.**
 :::
-### 51.2.1. Tribes on non-palatal plosive
+### 51.2.1. Stämme auf nichtpalatalen Verschlusslaut
 
 ::: grammar-box
 **Hukum perubahan bunyi yang biasa berlaku, yaitu**
@@ -152,7 +152,7 @@ etc.
 :::
 Complete paradigms in Kielhorn, Grammar p. 16ff.
 
-### 51.2.2. Tribes with palatal stop (c, ch, j), ś, ṣ
+### 51.2.2. Stämme auf palatalen Verschlusslaut (c, ch, j), ś, ṣ
 
 ::: grammar-box
 **Sebelum akhiran yang diawali vokal, bunyi terakhir dari stem tetap tidak berubah.**
@@ -246,14 +246,14 @@ Plural:
 ::: indent
 Instr. ⟪परिव्राड्भिस्⟫
 Loc. ⟪परिव्राट्सु⟫
-:::: media
+:::
+::: media
 ![](/images/lekt5104.webp)
 Fig.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
 (Image source: [Details](/en/licenses#lekt5104))
-::::
 :::
-### 51.2.3. Stems ending in -h
+### 51.2.3. Stämme auf -h
 
 ::: grammar-box
 **Before a vowel-initial ending, the -h remains unchanged.**
@@ -307,7 +307,7 @@ Plural:
 Instr. ⟪ध्रुड्भिस्⟫ ⟪।⟫ ⟪ध्रुग्भिस्⟫
 Loc. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 :::
-## 51.3. Sandhi of initial h-
+## 51.3. Sandhi Awalan h-
 
 ::: grammar-box
 **Sebelum h- awal, konsonan henti sebelumnya diganti dengan konsonan bersuara non-aspirasi yang sesuai, dan h- awal diganti dengan konsonan bersuara aspirasi yang sesuai:**
@@ -320,7 +320,7 @@ Loc. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 
 ⟪परिव्राट्⟫ + ⟪हि⟫ » ⟪परिव्राड्ढि⟫
 :::
-## 51.4. Sandhi of initial ch-
+## 51.4. Sandhi Awalan ch-
 
 ::: grammar-box
 **Awalan ch- awal diganti dengan cch- setelah vokal pendek, setelah ⟪मा⟫ "tidak" dan setelah ⟪आ⟫ "kepada":**
@@ -329,7 +329,7 @@ Loc. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 ::: indent
 ⟪न⟫ + ⟪छिन्दति⟫ » ⟪न⟫ ⟪च्छिन्दति⟫
 :::
-## 51.5. -ch- within the word
+## 51.5. -ch- di tengah kata
 
 ::: grammar-box
 **Within the word, -ch- is replaced by -cch- after all vowels:**
@@ -338,7 +338,7 @@ Loc. ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 ::: indent
 e.g. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 :::
-## 51.6. Word List
+## 51.6. Daftar Kata
 
 ⟪अजिन⟫ n.: kulit rusa, khususnya kulit rusa hitam (nilgai: _Antilope cervicapra_ L. ). Awalnya terdapat di seluruh anak benua India dari Punjab dan Sindh hingga Bengal dan dari Nepal ke Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Lihat:
 
@@ -357,15 +357,15 @@ Fig.:
 
 ⟪ऋतु⟫ m.: peristiwa berkala, musim, periode waktu, menstruasi, masa ketika wanita subur dan memiliki hak untuk berhubungan intim dengan suaminya.
 
-::: indent
+::: note-box
 Mengenai ⟪ऋतु⟫ lihat Manu III, 45-48: menurut ini, ⟪ऋतु⟫ berlangsung 16 hari (menurut terjemahan alternatif: 20 hari) sejak awal menstruasi, hubungan seksual dilarang pada empat hari pertama setelah perdarahan dimulai (menurut terjemahan alternatif: pada delapan hari pertama (4 + 4)), serta pada hari ke-11 (atau ke-15) dan hari ke-13 (atau ke-18). Pada hari genap wanita mengandung putra, pada hari ganjil putri. Untuk penjelasan selanjutnya, diasumsikan ⟪ऋतु⟫ total 16 hari (bukan terjemahan alternatif), sebagaimana dilakukan oleh sebagian besar komentar pribumi, dan yang karenanya merupakan pandangan yang berlaku umum.
 
 Karena ovulasi terjadi 14 hari sebelum awal menstruasi, dengan penentuan periode subur ini, kesuburan hampir "terjamin" untuk interval antara menstruasi 19 hingga 30 hari. Hari-hari yang dilarang (hari ke-11 dan ke-13) meningkatkan kemungkinan hubungan seksual pada hari ke-12 dan ke-14, yaitu kemungkinan konsepsi dengan siklus 28 hari (umur hidup sperma pada wanita sekitar 3 hari). Peraturan-peraturan ini seolah-olah merupakan aplikasi positif dari Knaus-Ogino.
-:::: media
+:::
+::: media
 ![](/images/lekt5106.jpg)
 Fig.: ⟪ऋतुः⟫
 (Sumber gambar: [Details](/en/licenses#lekt5106))
-::::
 :::
 ⟪एकत्र⟫ Adv.: di satu tempat
 
@@ -474,12 +474,12 @@ Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા
 strong stem ⟪श्वान्⟫
 weak stem before vowel ⟪सुन्⟫
 weak stem before consonant ⟪श्व⟫
-:::: media
+:::
+::: media
 ![](/images/lekt5113.jpg)
 Fig.: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
 Karnataka = ಕರ್ನಾಟಕ
 (Image source: [Details](/en/licenses#lekt5113))
-::::
 :::
 ⟪परिचित⟫ 3: familiar, known
 
@@ -574,7 +574,7 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 
 ⟪शबर⟫ .:  proper name of a non-Aryan tribe
 
-## 51.7. Translation Exercise
+## 51.7. Latihan Penerjemahan
 
 ⟪१⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪९⟫ - ⟪१२⟫ ⟪आश्रमधर्मः⟫
 

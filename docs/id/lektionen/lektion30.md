@@ -1,5 +1,5 @@
 ---
-title: "[Pelajaran 30]"
+title: Lektion 30
 subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
 lesson_id: 30
 last_reconstructed: 2026-05-21
@@ -7,11 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-
-
 # Pelajaran 30
 
-## 30.1. Kelas Present ke-9 (⟪क्र्यादि⟫ = "⟪क्री⟫ dan seterusnya")
+## 30.1. Kelas Present ke-9 (⟪क्र्यादि⟫ = "⟪क्री⟫ dst.")
 
 ::: grammar-box
 **Pembentukan:**
@@ -20,9 +18,9 @@ status: stable
 
 *   akar lemah:
 
-*   sebelum konsonan: akar tingkat rendah + -nī-
+    *   sebelum konsonan: akar tingkat rendah + -nī-
 
-*   sebelum vokal: akar tingkat rendah + -n-
+    *   sebelum vokal: akar tingkat rendah + -n-
 :::
 Contoh:
 
@@ -31,20 +29,20 @@ Contoh:
 :::
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Orang ke-3:brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
-|**Orang ke-3:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
+| **Orang ke-3:brParasmaipada** | ⟪क्रीणाति⟫:br(krī + nā + ti) | ⟪क्रीणन्ति⟫:br(krī + n + anti) |
+| **Orang ke-3:brĀtmanepada** | ⟪क्रीणीते⟫:br(krī + nī + te) | ⟪क्रीणते⟫:br(krī + n + ate) |
 
 :::
 Pada kelas present ini, yang perlu diperhatikan secara khusus adalah pembentukan akar present untuk akar ⟪ज्ञा⟫ 9U "mengenal, mengetahui":
 
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Orang ke-3:brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
-|**Orang ke-3:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
+| **Orang ke-3:brParasmaipada** | ⟪जानाति⟫:br(jā-nā-ti) | ⟪जानन्ति⟫:br(jā-n-anti) |
+| **Orang ke-3:brĀtmanepada** | ⟪जानीते⟫:br(jā-nī-te) | ⟪जानते⟫:br(jā-n-ate) |
 
 :::
 Bentuk ⟪जा⟫ yang mendasari akar present dari ⟪ज्ञा⟫, dapat dijelaskan baik melalui rangkaian ablaut -ā (tingkat rendah) -nā (tingkat tinggi), maupun melalui disimilasi dari *jñā-nā-ti.
@@ -58,10 +56,10 @@ Contoh:
 :::
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Orang ke-3:brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
-|**Orang ke-3:brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
+| **Orang ke-3:brParasmaipada** | ⟪पुनाति⟫:br(pu-nā-ti) | ⟪पुनन्ति⟫:br(pu-n-anti) |
+| **Orang ke-3:brĀtmanepada** | ⟪पुनीते⟫:br(pu-nī-te) | ⟪पुनते⟫:br(pu-n-ate) |
 
 :::
 Pembentukan Partisip Present Parasmaipada:
@@ -71,7 +69,7 @@ Contoh:
 ::: indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
 :::
-## 30.2. Penggunaan Optatif (⟪लिङ्⟫)
+## 30.2. Gebrauch  Optatif (⟪लिङ्⟫)
 
 Optatif digunakan:
 
@@ -111,20 +109,19 @@ Contoh:
 ::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Jika seseorang akan mengatakan ketidakbenaran, dia akan jatuh ke neraka = Jika seseorang mengatakan ketidakbenaran, dia jatuh ke neraka"
 :::
-## 30.3. Akhiran Sekunder untuk Orang Ketiga Singular dan Plural
+## 30.3. Sekundärendungen  3. Personen Singular dan Plural
 
 Optatif (⟪लिङ्⟫), Imperfek (⟪लङ्⟫), Aorist (⟪लुङ्⟫), Prekatif (⟪आशिर्लिङ्⟫) dan Kondisional memiliki yang disebut akhiran sekunder:
 
 ::: grammar-box
 
-| |Orang Ketiga Singular|Orang Ketiga Plural|
+| | 3. Person Tunggal | 3. Person Jamak |
 | :--- | :--- | :--- |
-|**Parasmaipada**|**-t**|kelas ateis: **-an** atau **-ur** :brOptatif: **-ur**|
-|**Ātmanepada**|**-ta**|kelas ateis: **-ata** (dari *nta):brOptatif: **-ran**|
-
+| **Parasmaipada** | **-t** | athematische Klassen: **-an** oder **-ur** :brOptatif: **-ur** |
+| **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptatif: **-ran** |
 
 :::
-## 30.4. Pembentukan Optatif Präsens (⟪लिङ्⟫)
+## 30.4. Bildung  Optatif Present (⟪लिङ्⟫)
 
 ### 30.4.1. Kelas Präsens Tematis
 
@@ -144,10 +141,10 @@ Contoh:
 ⟪भू⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Orang ke-3:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
-|**Orang ke-3:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
+| **Orang ke-3:brParasmaipada** | ⟪भवेत्⟫:br(bhava + i + t) | ⟪भवेयुर्⟫:br(bhava + i + y + ur) |
+| **Orang ke-3:brĀtmanepada** | ⟪भवेत⟫:br(bhava + i + ta) | ⟪भवेरन्⟫:br(bhava + i + ran) |
 
 :::
 4\. Kelas Präsens:
@@ -155,10 +152,10 @@ Contoh:
 ⟪नृत्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Orang ke-3:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
-|**Orang ke-3:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
+| **Orang ke-3:brParasmaipada** | ⟪नृत्येत्⟫:br(nṛtya + i + t) | ⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur) |
+| **Orang ke-3:brĀtmanepada** | ⟪नृत्येत⟫:br(nṛtya + i + ta) | ⟪नृत्येरन्⟫:br(nṛtya + i + ran) |
 
 :::
 6\. Kelas Präsens
@@ -166,10 +163,10 @@ Contoh:
 ⟪विश्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Orang ke-3:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
-|**Orang ke-3:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
+| **Orang ke-3:brParasmaipada** | ⟪विशेत्⟫:br(viśa + i + t) | ⟪विशेयुर्⟫:br(viśa + i + y + ur) |
+| **Orang ke-3:brĀtmanepada** | ⟪विशेत⟫:br(viśa + i + ta) | ⟪विशेरन्⟫:br(viśa + i + ran) |
 
 :::
 10\. Kelas Präsens dan Kausatif
@@ -177,10 +174,10 @@ Contoh:
 ⟪चुर्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Orang ke-3:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
-|**Orang ke-3:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
+| **Orang ke-3:brParasmaipada** | ⟪चोरयेत्⟫:br(coraya + i + t) | ⟪चोरयेयुर्⟫:br(coraya + i + y + ur) |
+| **Orang ke-3:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
 
 :::
 ### 30.4.2. Kelas Präsens Atematis
@@ -201,10 +198,10 @@ Contoh:
 ⟪द्विष्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Orang ke-3:brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
-|**Orang ke-3:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
+| **Orang ke-3:brParasmaipada** | ⟪द्विष्यात्⟫:br(dviṣ-yā-t) | ⟪द्विष्युर्⟫:br(dviṣ-y-ur) |
+| **Orang ke-3:brĀtmanepada** | ⟪द्विषीत⟫:br(dviṣ-ī-ta) | ⟪द्विषीरन्⟫:br(dviṣ-ī-ran) |
 
 :::
 5\. Kelas Präsens
@@ -212,10 +209,10 @@ Contoh:
 ⟪सु⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Orang ke-3:brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
-|**Orang ke-3:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
+| **Orang ke-3:brParasmaipada** | ⟪सुनुयात्⟫:br(sunu-yā-t) | ⟪सुनुयुर्⟫:br(sunu-y-ur) |
+| **Orang ke-3:brĀtmanepada** | ⟪सुन्वीत⟫:br(sunu + ī + ta) | ⟪सुन्वीरन्⟫:br(sunu + ī + ran) |
 
 :::
 8\. Kelas Präsens
@@ -223,32 +220,31 @@ Contoh:
 ⟪तन्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Orang ke-3:brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
-|**Orang ke-3:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
+| **Orang ke-3:brParasmaipada** | ⟪तनुयात्⟫:br(tanu-yā-t) | ⟪तनुयुर्⟫:br(tanu-y-ur) |
+| **Orang ke-3:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
 **kṛ** :br(⟪कृ⟫)
 
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Orang ke-3:brParasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
-|**Orang ke-3:brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
+| **Orang ke-3:brParasmaipada** | ⟪कुर्यात्⟫ | ⟪कुर्युर्⟫ |
+| **Orang ke-3:brĀtmanepada** | ⟪कुर्वीत⟫ | ⟪कुर्वीरन्⟫ |
 
 :::
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Tunggal:br⟪एकवचन⟫ | Jamak:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Orang ke-3 Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
-|**Orang ke-3 Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
-
+| **Orang ke-3 Parasmaipada** | ⟪क्रीणीयात्⟫:br(krīṇī-yā-t) | ⟪क्रीणीयुर्⟫:br(krīṇī-y-ur) |
+| **Orang ke-3 Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
 
 :::
-## 30.5. Sandhi dari akhiran -r
+## 30.5. Sandhi Akhiran -r
 
 ::: grammar-box
 **Selain untuk -ar, aturan Sandhi untuk akhiran -r sama dengan yang berlaku untuk akhiran -s.**
@@ -388,72 +384,71 @@ dari itu:
 
 A) Ubah bentuk-bentuk verbal berikut ke dalam bentuk Optatif yang sesuai dengan orang, jumlah, dan genus verbi:
 
-1. ⟪ह्रियते⟫
-2. ⟪ध्नन्ति⟫
-3. ⟪स्मरति⟫
-4. ⟪स्थापयन्ति⟫
-5. ⟪स्तौति⟫
-6. ⟪सर्ज्यते⟫
-7. ⟪सुन्वन्ति⟫
-8. ⟪सिञ्चति⟫
-9. ⟪शृणोति⟫
-10. ⟪शक्नुवन्ति⟫
-11. ⟪वर्तन्ते⟫
-12. ⟪वेशयन्ति⟫
-13. ⟪वस्ते⟫
-14. ⟪उष्यते⟫
-15. ⟪वाद्यते⟫
-16. ⟪उच्यते⟫
-17. ⟪लम्भ्यते⟫
-18. ⟪रक्षयन्ति⟫
-19. ⟪युध्यते⟫
-20. ⟪इज्यते⟫
-21. ⟪म्रियते⟫
-22. ⟪मुञ्चन्ति⟫
-23. ⟪मन्यन्ते⟫
-24. ⟪भवति⟫
-25. ⟪भजन्ति⟫
-26. ⟪ब्रवीति⟫
-27. ⟪बुध्यते⟫
-28. ⟪पृच्छन्ति⟫
-29. ⟪पुनाति⟫
-30. ⟪पाति⟫
-31. ⟪पीयते⟫
-32. ⟪पद्यते⟫
-33. ⟪पतति⟫
-34. ⟪पाचयन्ति⟫
-35. ⟪नृत्यन्ति⟫
-36. ⟪नीयते⟫
-37. ⟪द्विषते⟫
-38. ⟪पश्यन्ति⟫
-39. ⟪दोग्धि⟫
-40. ⟪दुष्यति⟫
-41. ⟪देशयन्ति⟫
-42. ⟪दहति⟫
-43. ⟪तनुते⟫
-44. ⟪जानाति⟫
-45. ⟪जानते⟫
-46. ⟪जयन्ति⟫
-47. ⟪जायन्ते⟫
-48. ⟪चोर्यते⟫
-49. ⟪चारयति⟫
-50. ⟪गच्छन्ति⟫
-51. ⟪खाद्यते⟫
-52. ⟪क्रीणीते⟫
-53. ⟪क्रियते⟫
-54. ⟪कोपयति⟫
-55. ⟪कामयते⟫
-56. ⟪इच्छति⟫
-57. ⟪आययन्ति⟫
-58. ⟪आस्यते⟫
-59. ⟪आप्नुवते⟫
-60. ⟪अस्यते⟫
-61. ⟪सन्ति⟫
-62. ⟪अश्नुते⟫
-63. ⟪अर्हति⟫
-64. ⟪अदन्ति⟫
-65. ⟪अध्यापयन्ति⟫
-
+1.  ⟪ह्रियते⟫
+2.  ⟪ध्नन्ति⟫
+3.  ⟪स्मरति⟫
+4.  ⟪स्थापयन्ति⟫
+5.  ⟪स्तौति⟫
+6.  ⟪सर्ज्यते⟫
+7.  ⟪सुन्वन्ति⟫
+8.  ⟪सिञ्चति⟫
+9.  ⟪शृणोति⟫
+10.  ⟪शक्नुवन्ति⟫
+11.  ⟪वर्तन्ते⟫
+12.  ⟪वेशयन्ति⟫
+13.  ⟪वस्ते⟫
+14.  ⟪उष्यते⟫
+15.  ⟪वाद्यते⟫
+16.  ⟪उच्यते⟫
+17.  ⟪लम्भ्यते⟫
+18.  ⟪रक्षयन्ति⟫
+19.  ⟪युध्यते⟫
+20.  ⟪इज्यते⟫
+21.  ⟪म्रियते⟫
+22.  ⟪मुञ्चन्ति⟫
+23.  ⟪मन्यन्ते⟫
+24.  ⟪भवति⟫
+25.  ⟪भजन्ति⟫
+26.  ⟪ब्रवीति⟫
+27.  ⟪बुध्यते⟫
+28.  ⟪पृच्छन्ति⟫
+29.  ⟪पुनाति⟫
+30.  ⟪पाति⟫
+31.  ⟪पीयते⟫
+32.  ⟪पद्यते⟫
+33.  ⟪पतति⟫
+34.  ⟪पाचयन्ति⟫
+35.  ⟪नृत्यन्ति⟫
+36.  ⟪नीयते⟫
+37.  ⟪द्विषते⟫
+38.  ⟪पश्यन्ति⟫
+39.  ⟪दोग्धि⟫
+40.  ⟪दुष्यति⟫
+41.  ⟪देशयन्ति⟫
+42.  ⟪दहति⟫
+43.  ⟪तनुते⟫
+44.  ⟪जानाति⟫
+45.  ⟪जानते⟫
+46.  ⟪जयन्ति⟫
+47.  ⟪जायन्ते⟫
+48.  ⟪चोर्यते⟫
+49.  ⟪चारयति⟫
+50.  ⟪गच्छन्ति⟫
+51.  ⟪खाद्यते⟫
+52.  ⟪क्रीणीते⟫
+53.  ⟪क्रियते⟫
+54.  ⟪कोपयति⟫
+55.  ⟪कामयते⟫
+56.  ⟪इच्छति⟫
+57.  ⟪आययन्ति⟫
+58.  ⟪आस्यते⟫
+59.  ⟪आप्नुवते⟫
+60.  ⟪अस्यते⟫
+61.  ⟪सन्ति⟫
+62.  ⟪अश्नुते⟫
+63.  ⟪अर्हति⟫
+64.  ⟪अदन्ति⟫
+65.  ⟪अध्यापयन्ति⟫
 
 B) Terjemahkan kalimat-kalimat berikut dan pecahkan komposita ke dalam bahasa Sanskerta:
 
@@ -476,7 +471,7 @@ B) Terjemahkan kalimat-kalimat berikut dan pecahkan komposita ke dalam bahasa Sa
 ⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
 ⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
 
-## 30.8. Latihan Ulangan untuk Morfologi
+## 30.8. Latihan Tinjauan tentang Morfologi
 
 Tentukan dan terjemahkan bentuk-bentuk kata berikut:
 
@@ -529,5 +524,4 @@ Tentukan dan terjemahkan bentuk-bentuk kata berikut:
 **lekt3005:** ⟪थाली⟫, India Selatan [Sumber gambar: Matthew Winterburn. -- http://www.flickr.com/photos/bezoire/2330831734/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, Non-Komersial, Berbagi Sama)]
 **lekt3004:** [Sumber gambar: Mary Wollstonecraft Shelley. -- http://www.flickr.com/photos/awflicks/3032833609/. -- Diakses pada 2008-12-21. -- Lisensi Creative Commons (Atribusi, Berbagi Sama)]
 **lekt2904:** [Sumber gambar: Wikipedia / Hak Cipta milik Himalayan Academy Publications, Kapaa, Kauai, Hawaii. -- Creative Commons Attribution ShareAlike 2.5]
-
 :::

@@ -1,15 +1,15 @@
 ---
-title: Lesson 56
-subtitle: "The reduplicated aorist"
+title: Lektion 56
+subtitle: "Der reduplizierte Aorist"
 lesson_id: 56
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 56
+# Pelajaran 56
 
-## 56.1. Aoris Reduplikasi
+## 56.1. Aoris yang direduplikasi
 
 ::: grammar-box
 **Formation:**
@@ -26,9 +26,9 @@ Paradigm:
 
 ⟪श्रि⟫ 1U "pergi ke, bersandar pada"
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अशिश्रियम्⟫:br(⟪अ⟫-⟪शि⟫-⟪श्रिय्⟫-⟪अम्⟫) | ⟪अशिश्रियाम⟫ | ⟪अशिश्रिये⟫ | ⟪अशिश्रियामहि⟫ |
 | **2. ⟪द्वितीयः⟫** | ⟪अशिश्रियस्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियथास्⟫ | ⟪अशिश्रियध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अशिश्रियत्⟫ | ⟪अशिश्रियन्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियन्त⟫ |
@@ -44,7 +44,7 @@ Bentuk aorist ini dibentuk oleh, antara lain:
 ::: grammar-box
 **Semua akar dari kelas 10 batang present serta semua kausatif selalu membentuk aorist yang diduplikasi.**
 :::
-### 56.1.1. Pembentukan Aoris Kausatif dan Akar Kelas Present ke-10
+### 56.1.1. Bildung  Aorist  Kausatife dan  Wurzeln  10. Presentklasse
 
 Stem syllable:
 
@@ -65,23 +65,22 @@ Stem syllable:
 *   **\-u-, -o-, -au- sebelum konsonan sederhana diganti dengan -u-:**  
 ⟪चुर्⟫ 10U: ***⟪चोर⟫***⟪यति⟫, Aor. ⟪अचू⟫***⟪चुर⟫***⟪त्⟫
 
-**Für bestimmte Wurzeln sind die bisherigen Änderungen optional oder müssen unterbleiben:**
+**Untuk akar kata tertentu, perubahan-perubahan yang telah disebutkan bersifat opsional atau harus ditiadakan:**
 
 *   **ar, ār, īr, al, yang mendahului konsonan akhir dari suku kata akar dan menggantikan ṛ, ṝ, ḷ, tetap opsional tidak berubah atau diganti oleh ṛ atau ḷ:**  
     ⟪कॢप्⟫ 1Ā: Kaus. ***⟪कल्प⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कल्प⟫***⟪त्⟫ / ⟪अची⟫***⟪कॢ⟫***⟪पत्⟫  
     ⟪कृष्⟫ 1P/6U: Kaus. ***⟪कर्ष⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कर्ष⟫***⟪त्⟫ / ⟪अची⟫***⟪कृ⟫***⟪षत्⟫
-    :::
+:::
     Vokal dari suku kata reduplicasi:
 
 Setelah aturan-aturan tersebut di atas diterapkan pada suku kata akar, aturan berikut untuk vokal dari suku kata reduplicasi harus diperhatikan:
 
-:::
 ::: grammar-box
     **Titik awalnya adalah vokal reduplicasi reguler, yaitu**
 
 *   a for a, ā, ṛ,  ṝ, ḷ
-    *   i for i, ī, e, ai
-    *   u for u, ū, o, au
+*   i for i, ī, e, ai
+*   u for u, ū, o, au
 
 **This reduplication vowel undergoes the following changes:**
 
@@ -119,7 +118,7 @@ Vowel - first consonant - second consonant (substitute) - i - second consonant
 ⟪अर्ह्⟫ 1P: Kaus. ⟪अर्हयति⟫, suku kata duplikasi ⟪अर्जिह्⟫, Aor. ⟪आर्जिहत्⟫
 :::
 Bentuk duplikasi ini pada akar derivatif yang dimulai dengan vokal (kausatif) disebut "duplikasi Attik".
-## 56.2. Injunktif
+## 56.2. Injunktiv
 
 ::: grammar-box
 **Injunktif adalah bentuk tanpa augment yang sesuai dengan bentuk beraugment, yaitu, bentuk-bentuknya identik dengan bentuk tanpa augment dari Indikatif Imperfek atau Aorist. Tata bahasa India asli tidak mengakui Injunktif sebagai kategori tata bahasa yang terpisah.**
@@ -131,9 +130,10 @@ Menurut karya dasar:
 Fig.:
 Profesor Linguistik Perbandingan, Universitas Erlangen-Nuremberg (1955 - 1983)
 (Sumber gambar: [Rincian](/en/licenses#lekt5601))
-:::: indent
+:::
+
+::: indent
 Hoffmann, Karl \&lt;1915 - 1996\&gt;: The Injunctive in the Veda : a synchronic functional study / by Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3. series, Investigations)
-::::
 :::
 Injunktif dalam Weda memiliki sifat-sifat berikut:
 
@@ -152,7 +152,7 @@ Injunktif dalam Weda memiliki sifat-sifat berikut:
 
 Namun, pembedaan ini biasanya tidak dibuat dalam Sanskrit Klasik.)
 :::
-## 56.3. Kalangan Larangan
+## 56.3. Kalimat Larangan
 
 ::: grammar-box
 **Main Form:**
@@ -167,12 +167,12 @@ Examples:
 ⟪मा⟫ ⟪कर्महेतुर्भूः⟫ "Janganlah menjadi orang yang termotivasi oleh buah dari suatu tindakan!" (Aorist Injunktif) (⟪भगवद्गीता⟫ 2,47c)
 
 ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ "Janganlah menjadi feminin!" (Aorist Injunktif) (⟪भगवद्गीता⟫ 2,3a)
-:::: media
+:::
+::: media
 ![](/images/lekt5602.webp)
 Fig.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
 Poster (Ernesto Che Guevara) dari sebuah partai politik di Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). "Terjemahan kasar dari apa yang tertulis di atasnya adalah: Martir adalah pengalaman yang menarik bagi seorang revolusioner. Dan pilihan terakhir yang menakutkan bagi pengecut. Che bukan teladan bagi orang-orang pengecut."
 (Sumber gambar: [Details](/en/licenses#lekt5602))
-::::
 :::
 Kedua contoh memiliki makna prohibisi. Oleh karena itu, Aorist Injunktif di sini digunakan dalam maknanya yang asli. (Dominasi Aorist Injunktif dalam kalimat-kalimat seperti itu mungkin dapat dijelaskan oleh dominasi kalimat larangan atas kalimat penghentian, namun pertanyaan ini masih perlu diselidiki lebih lanjut untuk Sanskrit Klasik.)
 
@@ -192,11 +192,11 @@ In addition, there are other, rarer forms of prohibitive sentences, see e.g.
 :::
 ::: indent
 Speyer, Jacob S. (Jacob Samuel) \&lt;1849-1913\&gt;: Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
-:::: media
+:::
+::: media
 ![](/images/lekt5603.webp)
 Fig.: ⟪अलं⟫  ⟪विषादेन⟫
 (Image source: [Details](/en/licenses#lekt5603))
-::::
 :::
 ## 56.4. ⟪स्म⟫
 
@@ -211,7 +211,7 @@ Fig.: ⟪अलं⟫  ⟪विषादेन⟫
 
 e.g. ⟪वसति⟫ ⟪स्म⟫ "there lived once" (⟪स्म⟫ may sometimes also be absent).
 :::
-## 56.5. Exercise
+## 56.5. Latihan
 
 A) Determine and translate the following forms without aids (!):
 

@@ -1,12 +1,12 @@
 ---
-title: "Exercise 39"
+title: "Latihan 39"
 uebung_id: 39
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Lesson 39
+# Latihan 39
 
 A) Bentuklah bentuk orang pertama yang sesuai dengan bentuk kata kerja berikut dalam jumlah, waktu, modus (indikatoratif, optatif), dan suara (P, Ā, Pasif):
 

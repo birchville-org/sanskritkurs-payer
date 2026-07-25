@@ -1,15 +1,15 @@
 ---
-title: Lesson 24
-subtitle: "The Dative (⟪चतुर्थी⟫ = \"fourth case ending\")"
+title: Lektion 24
+subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
 lesson_id: 24
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 24
+# Pelajaran 24
 
-## 24.1. The Dative (⟪चतुर्थी⟫ = "fourth case ending")
+## 24.1. Datif (⟪चतुर्थी⟫ = "akhiran kasus keempat")
 
 ::: grammar-box
 **1. Untuk menyatakan tujuan atau maksud ("guna") dari suatu tindakan, sebagai pengganti infinitif (⟪तुमुन्⟫), juga dapat digunakan kata benda dengan akhiran kṛt, yang menyatakan tindakan atau keadaan, dalam kasus datif (⟪चतुर्थी⟫ = "akhiran kasus keempat").**
@@ -37,6 +37,7 @@ or:
 Fig.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
 (Sumber gambar: [Details](/en/licenses#lekt2404))
 :::
+
 ::: grammar-box
 **2. Dativ (⟪चतुर्थी⟫) juga dapat menunjukkan objek dari infinitif tujuan yang harus disediakan:**
 
@@ -52,13 +53,14 @@ Example:
 
 ::: indent
 ⟪यज्ञायान्नम्⟫ = "Makanan untuk tujuan suatu pengorbanan = Makanan untuk suatu pengorbanan"
-:::: media
+:::
+::: media
 ![](/images/lekt2401.webp)
 Fig.: ⟪यज्ञायान्नम्⟫
 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] adalah acara tradisional Hindu yang berlangsung pada perayaan Tahun Baru Hindu di semua mandir BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Ratusan hidangan vegetarian dipersembahkan kepada Bhagwan Swaminarayan [સ્વામિનારાયણ] pada hari ini.
 (Sumber gambar: [Details](/en/licenses#lekt2401))
-::::
 :::
+
 ::: grammar-box
 **3. Kasus datif (⟪चतुर्थी⟫) juga menunjukkan orang atau benda untuk mana objek suatu tindakan ditujukan (objek tidak langsung; pertanyaan: kepada siapa?). (Namun perhatikan kata kerja dengan akusatif ganda (⟪द्वितीया⟫)!)**
 
@@ -67,13 +69,14 @@ Example:
 :::
 ::: indent
 ⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "Ia memberikan buah kepada Rāma." (Akar ⟪दा⟫ kelas 3. bentuk sekarang)
-:::: media
+:::
+::: media
 ![](/images/lekt2402.webp)
 Fig.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
 Raksha Bandhan dirayakan dengan semangat dan sukacita di seluruh India. Festival ini merupakan perwujudan cinta tanpa syarat antara saudara laki-laki dan perempuan.
 (Sumber gambar: [Detail](/en/licenses#lekt2402))
-::::
 :::
+
 ::: grammar-box
 **4. Kasus datif muncul dengan beberapa kata kerja (dan beberapa kata lain) yang mirip dengan bahasa Jerman, menjawab pertanyaan "kepada siapa?":**
 
@@ -84,16 +87,16 @@ Examples:
 ⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "The god is angry with the men."
 
 ⟪अलम्⟫ Kata keterangan: "cukup, memadai, setara dengan": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "seorang prajurit setara dengan prajurit lainnya"
-:::: media
+:::
+::: media
 ![](/images/lekt2403.webp)
 Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 "Rama (kanan) duduk di atas bahu Hanuman, bertempur melawan raja raksasa Ravana." sekitar tahun 1820
 (Sumber gambar: [Details](/en/licenses#lekt2403))
-::::
 :::
 Penggunaan lain dari kasus datif nanti.
 
-## 24.2. Formation of the Dative (⟪चतुर्थी⟫)
+## 24.2. Bildung  Dativ (⟪चतुर्थी⟫)
 
 ::: grammar-box
 **Akhiran regular untuk Dative adalah:**
@@ -101,41 +104,41 @@ Penggunaan lain dari kasus datif nanti.
 * **Singular: -e ; vowel-ending feminine stems: -ai**
 * **Plural: Dative and Ablative ⟪पञ्चमी⟫: -bhyas**
 :::
-### 24.2.1. Consonantal Stems
+### 24.2.1. Konsonantische Stämme
 
 ::: grammar-box
 
-| | Dative Singular | Dative Plural |
+| | Datif Tunggal | Datif Jamak |
 | :--- | :--- | :--- |
-| ⟪यजन्त्⟫ | **⟪यजते⟫**:bryaja-t-e | **⟪यजद्भ्यस्⟫**:braus yaja-t-bhyas |
-| ⟪महान्त्⟫ | **⟪महते⟫** | **⟪महद्भ्यस्⟫** |
-| ⟪पशुमन्त्⟫ | **⟪पशुमते⟫** | **⟪पशुमद्भ्यस्⟫** |
-| ⟪गुणवन्त्⟫ | **⟪गुणवते⟫** | **⟪गुणवद्भ्यस्⟫** |
+| ⟪यजन्त्⟫ | ⟪यजते⟫ :bryaja-t-e | ⟪यजद्भ्यस्⟫ :braus yaja-t-bhyas |
+| ⟪महान्त्⟫ | ⟪महते⟫ | ⟪महद्भ्यस्⟫ |
+| ⟪पशुमन्त्⟫ | ⟪पशुमते⟫ | ⟪पशुमद्भ्यस्⟫ |
+| ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ |
 
 :::
-### 24.2.2. Interrogative Pronouns
+### 24.2.2. Kata Ganti Tanya
 
 ::: grammar-box
 
-| | Masculine / Neuter | Feminine |
+| | Maskulin / Netral | Feminin |
 | :--- | :--- | :--- |
-| **Dative Singular** | **⟪कस्मै⟫** | **⟪कस्यै⟫** |
-| **Dative Plural** | **⟪केभ्यस्⟫** | **⟪काभ्यस्⟫** |
+| **Datif Tunggal** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
+| **Datif Jamak** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
-### 24.2.3. Demonstrative Pronouns
+### 24.2.3. Kata Ganti Penunjuk
 
 ::: grammar-box
 
 | | | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Masculine / Neuter** | **Dat. sg.** | **⟪तस्मै⟫** | **⟪एतस्मै⟫** | **⟪अस्मै⟫** |
-| | **Dat. pl.** | **⟪तेभ्यस्⟫** | **⟪एतेभ्यस्⟫** | **⟪एभ्यस्⟫** |
-| **Feminine** | **Dat. sg.** | **⟪तस्यै⟫** | **⟪एतस्यै⟫** | **⟪अस्यै⟫** |
-| | **Dat. pl.** | **⟪ताभ्यस्⟫** | **⟪एताभ्यस्⟫** | **⟪आभ्यस्⟫** |
+| **Maskulin / Netral** | **Dat. sg.** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
+| | **Dat. pl.** | ⟪तेभ्यस्⟫ | ⟪एतेभ्यस्⟫ | ⟪एभ्यस्⟫ |
+| **Feminine** | **Dat. sg.** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
+| | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
-### 24.2.4. Vowel Stems
+### 24.2.4. Vokalische Stämme
 
 ::: grammar-box
 **Vowel Stems**
@@ -162,7 +165,7 @@ Penggunaan lain dari kasus datif nanti.
   * Dat. sg. **⟪धेनवे⟫** or **⟪धेन्वै⟫**
   * Dat. pl. **⟪धेनुभ्यस्⟫**
 :::
-## 24.3. Sandhi of final -ai and -au
+## 24.3. Sandhi Akhiran -ai dan -au
 
 ::: grammar-box
 **Sandhi of final -ai and -au**
@@ -176,7 +179,7 @@ Example:
 ::: indent
 ⟪तस्मै⟫ + ⟪अग्नये⟫ » ⟪तस्मा⟫ ⟪अग्नये⟫ = "to this fire"
 :::
-## 24.4. Word List
+## 24.4. Daftar Kata
 
 ⟪अलम्⟫ Kata keterangan: cukup, memadai, setara dengan (seseorang, sesuatu); dengan Dativ: cukup untuk, memadai untuk, setara; dengan Instrumental: cukup dengan, berhenti , mis. ⟪अलं⟫ ⟪क्रोधेन⟫ = "cukup dengan kemarahan = hentikan kemarahan!"
 
@@ -188,11 +191,11 @@ Sama halnya dengan ⟪अलम्⟫ yang menggunakan Instrumental:
 
 ::: indent
 ⟪अलंकार⟫ m.: ornamen, alat hias (dalam puisi)
-:::: media
+:::
+::: media
 ![](/images/lekt2405.webp)
 Fig.: ⟪अलंकारः⟫
 (Sumber gambar: [Details](/en/licenses#lekt2405))
-::::
 :::
 ⟪हेतु⟫ m.: motif, alasan, sebab; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ dengan Genitif atau sebagai anggota kedua dari majemuk = "untuk kepentingan ..., karena"
 
@@ -233,12 +236,12 @@ from this
 ⟪अपोह⟫ m.: negation (⟪अप⟫ + ⟪ऊह⟫)
 
 ⟪ऊहापोह⟫ m.: pembahasan pro dan kontra
-:::: media
+:::
+::: media
 ![](/images/lekt2407.webp)
 Fig.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor Senior Urusan Luar Negeri Jaringan CNN-IBN 18, India, memoderasi diskusi panel pada KTT Ekonomi India Forum Ekonomi Dunia 2008 di New Delhi."
 (Sumber gambar: [Details](/en/licenses#lekt2407))
-::::
 :::
 ⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : berguna
 
@@ -252,13 +255,14 @@ Fig.: ⟪ऊहापोहः⟫
 from this:
 
 ⟪आख्यान⟫ n.: narasi
-:::: media
+:::
+::: media
 ![](/images/lekt2408.webp)
 Fig.: ⟪आख्यानम्⟫
 "Pencerita San Francisco, Jeff Byers, berbagi cerita dengan penduduk Chenneri, sebuah desa Irula. Pencerita Jeeva Raghunath menerjemahkan ke dalam bahasa Tamil untuk para penduduk desa."
 (Sumber gambar: [Details](/en/licenses#lekt2408))
-::::
 :::
+
 ::: indent
 ⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫ : menjumlahkan, menghitung
 
@@ -280,12 +284,12 @@ from this:
 
 ::: indent
 ⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫ : untuk membungkuk, untuk menghormati, untuk menyapa
-:::: media
+:::
+::: media
 ![](/images/lekt2411.webp)
 Fig.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 Naskah dari ⟪गीतगोविन्द⟫, tahun 1730 Masehi.
 (Sumber gambar: [Details](/en/licenses#lekt2411))
-::::
 :::
 ⟪स्वागत⟫ n.: selamat datang (dari su-ā-gata)
 
@@ -293,7 +297,7 @@ Naskah dari ⟪गीतगोविन्द⟫, tahun 1730 Masehi.
 
 ⟪पुनर्⟫ Adverb: again, back, but
 
-## 24.5. Exercise
+## 24.5. Latihan
 
 A) Bentuklah Dativ Singular dan Dativ/(Ablativ) Plural serta berikan makna dari stem nominal:
 
@@ -353,51 +357,51 @@ D) Ganti pada kalimat A) 7 konstruksi dengan -⟪अर्थ⟩ dengan Datif ya
 
 E) Replace in sentence A) 6 the Dative construction with an equivalent construction using -⟪अर्थ⟫
 
-## 24.6. Latihan Lanjutan tentang Penggunaan Kasus Datif
+## 24.6. Latihan Tambahan tentang Penggunaan Dativus
 
 Translate into Sanskrit:
 
-1. Dewi, yang tidak diberi persembahan, sedang marah kepada rakyat.
+Dewi, yang tidak diberi persembahan, sedang marah kepada rakyat.
 
-2. He lets the cow loose into the village.
+He lets the cow loose into the village.
 
-3. Sekarang cukup = Cukup dengan kesabaran.
+Sekarang cukup = Cukup dengan kesabaran.
 
-4. Itu baik (⟪हित⟫, ⟪सुख⟫) bagi seorang Brahmin.
+Itu baik (⟪हित⟫, ⟪सुख⟫) bagi seorang Brahmin.
 
-5. Reverence (⟪नमस्⟫) be to Śiva! Reverence be to Śrī Gaṇeśa!
+Reverence (⟪नमस्⟫) be to Śiva! Reverence be to Śrī Gaṇeśa!
 
 ::: media
 ![](/images/lekt2409.webp)
 Fig.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 (Image source: [Details](/en/licenses#lekt2409))
 :::
-6. Farewell! (= Well-being (⟪स्वस्ति⟫ f.) to you!)
+Farewell! (= Well-being (⟪स्वस्ति⟫ f.) to you!)
 
-7. Buah ini cukup untuk dimakan.
+Buah ini cukup untuk dimakan.
 
-8. Seorang prajurit dipasangkan (⟪शक्त⟩) dengan (prajurit lainnya).
+Seorang prajurit dipasangkan (⟪शक्त⟩) dengan (prajurit lainnya).
 
-9. Even Viṣṇu does not surpass (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva.
+Even Viṣṇu does not surpass (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva.
 
-10. After I have bowed before the three sages (Acc.) (⟪नमस्कृ⟫)... He bows before Narasiṃha (Dat.)
+After I have bowed before the three sages (Acc.) (⟪नमस्कृ⟫)... He bows before Narasiṃha (Dat.)
 
 ::: indent
 Penjelasan: ⟪मुनित्रयम्⟫ "triad para resi = tiga resi" = para gramatika ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
-:::: media
+:::
+::: media
 ![](/images/lekt2410.webp)
 Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
 ⟪नरसिंह⟫ tercabut ⟪हिरण्यकशिपु⟫, halaman dari sebuah naskah dari ⟪भागवतपुराण⟫
 (Sumber gambar: [Details](/en/licenses#lekt2410))
-::::
 :::
-11. Selamat datang (⟪स्वागतम्⟫) kepada Anda. Selamat datang bagi sang ratu.
+Selamat datang (⟪स्वागतम्⟫) kepada Anda. Selamat datang bagi sang ratu.
 
-12. I wish you well-being (⟪कुशल⟫) = Well-being to you!
+I wish you well-being (⟪कुशल⟫) = Well-being to you!
 
-13. He does not regard him as a blade of grass.
+He does not regard him as a blade of grass.
 
-14. Satu buah sudah cukup untuk dimakan dan air untuk diminum.
+Satu buah sudah cukup untuk dimakan dan air untuk diminum.
 
 15⟪१५⟫. See you again! (Neo-Sanskrit: ⟪पुनर्दर्शनाय⟫)
 

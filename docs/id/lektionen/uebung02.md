@@ -1,12 +1,12 @@
 ---
-title: "Exercise 2"
+title: "Latihan 2"
 uebung_id: 2
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 2
+# Latihan 2
 
 [A) Masukkan nama dan kata benda yang ditentukan ke dalam kalimat-kalimat berikut, dengan memperhatikan Sandhi, serta bentuklah kalimat nominal:]
 

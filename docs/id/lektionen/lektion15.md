@@ -1,13 +1,11 @@
 ---
-title: "# Pelajaran 15"
+title: Lektion 15
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
 ---
-
-
 
 # Pelajaran 15
 
@@ -30,8 +28,8 @@ Dalam komposita determinatif (Tatpuruṣa), sebuah nomina (kata benda atau kata 
 Hubungan antara komponen depan (komponen penentu) dan komponen belakang (komponen yang ditentukan) dapat berupa:
 
 *   atributif atau aposisional: saat komposita diuraikan, komponen depan membentuk penentuan lebih lanjut terhadap komponen belakang dalam kasus yang sama (yaitu di luar konteks kalimat dalam Nominatif (⟪प्रथमा⟫), dan dalam kalimat sesuai kasus sintaksis yang diminta)
-kasual: komponen depan berada dalam kasus lain daripada komponen belakang saat komposita diuraikan (yaitu bukan Nominatif - ⟪प्रथमा⟫)
-adverbial: komponen depan adalah kata yang tidak dideklinasi
+*   kasual: komponen depan berada dalam kasus lain daripada komponen belakang saat komposita diuraikan (yaitu bukan Nominatif - ⟪प्रथमा⟫)
+*   adverbial: anggota depan adalah kata yang tidak dapat dideklinasikan
 
 Hubungan kasus kedua komponen komposita independen dari kasus di mana komposita tersebut berada: komposita adalah satu kata yang dapat dideklinasi:
 
@@ -47,7 +45,7 @@ mis.
 Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
 
 :::
-## 15.3. Determinativkomposita dengan komponen depan atributif / aposisional = Karmadhāraya m. = ⟪कर्मधारय⟫
+## 15.3. Komposita determinatif dengan anggota depan atributif / aposisional = Karmadhāraya m. = ⟪कर्मधारय⟫
 ::: grammar-box
 
 Saat Karmadhāraya diuraikan, kedua komponen komposita berada dalam kasus yang sama.
@@ -80,7 +78,6 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "seorang pria seperti singa"  
 ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "seorang pria seperti harimau"
 
-
 *   jika Karmadhāraya menyatakan sebuah apposisi (penentuan lebih lanjut dari komponen kedua oleh kata benda), maka penentu yang lebih dekat berada di komponen pertama, sebagaimana juga aturan umum untuk urutan komponen dalam Tatpuruṣa mensyaratkan:
 
 ⟪नरसिंहः⟫ juga dapat diuraikan: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Seekor singa, yang (sebenarnya) adalah seorang pria."
@@ -93,7 +90,7 @@ Karmadhāraya apposisional semacam itu diuraikan dalam komentar-komentar lokal s
 Ilustr.: ⟪नरसिंहः⟫
 (Sumber gambar: [Details](/id/licenses#lekt1503))
 :::
-## 15.4. Determinativkomposita dengan komponen pertama yang berada dalam hubungan kasus non-atributif/apposisional terhadap komponen kedua = Tatpuruṣa dalam arti sempit
+## 15.4. Kata majemuk determinatif dengan anggota depan yang memiliki hubungan kasus non-atributif/aposisional dengan anggota belakang = Tatpuruṣa dalam arti sempit
 
 ::: grammar-box
 
@@ -136,8 +133,7 @@ Juga dapat diuraikan: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪
 
 ⟪बुद्धरक्षिता⟫  = ⟪बुद्धेन⟫ ⟪रक्षिता⟫ = "yang dilindungi oleh Buddha" (sebuah nama diri)
 
-## 15.5. Penguraian Komposita (kecuali Dvandvas)
-
+## 15.5. Penguraian Kata Majemuk (kecuali Dvandva)
 
 ::: grammar-box
 Meskipun dalam bahasa Sanskrit komposis dengan panjang sembarang dapat dibentuk dan juga sangat sering dibentuk (komposis dari 10 hingga 30 anggota bukanlah hal yang jarang!), namun—dengan pengecualian Dvandvas—semua komposis bersifat progresif dan hierarkis, sehingga dapat diuraikan menjadi dua bagian masing-masing:
@@ -194,9 +190,9 @@ mis.
 1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "yang dilakukan oleh putra berprestasiku"
 2. ⟪पुण्यवतः⟫ ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "tindakan putra berprestasiku"
 3. 1. ⟪पुण्यवत्⟫  ⟪पुत्रेण⟫ ⟪कृतम्⟫ = "berprestasi, yang dilakukan oleh putraku"
-2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "tindakan berprestasi putraku"
+   2. ⟪पुण्यवत्⟫  ⟪पुत्रस्य⟫ ⟪कृतम्⟫ = "tindakan berprestasi putraku"
 :::
-## 15.6. Bentuk anggota depan dalam komposis (⟪समास⟫ m.)
+## 15.6. Bentuk anggota depan dalam kata majemuk (⟪समास⟫ m.)
 ::: grammar-box
 
 Dalam semua jenis komposis, anggota depan pada umumnya adalah akar kata yang tidak berubah. Nomina dua akar berada dalam akar lemah. Kata sifat feminin yang menentukan anggota berikutnya dalam komposis umumnya berada dalam akar maskulin:
@@ -207,7 +203,7 @@ mis.
 ⟪गुणवत्पुत्रः⟫ = ⟪गुणवान्⟫ ⟪पुत्रः⟫ = "seorang putra dengan sifat-sifat baik"
 
 :::
-## 15.7. Pengelompokan ⟪तत्पुरुष⟫
+## 15.7. Einteilung  ⟪तत्पुरुष⟫
 
 1.  ⟪प्रथमातत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Nominatif (⟪प्रथमा⟫)
 2.  ⟪द्वितीयातत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Akusatif (⟪द्वितीया⟫)
@@ -217,37 +213,60 @@ mis.
 6.  ⟪षष्ठीतत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Genetif (⟪षष्ठी⟫)
 7.  ⟪सप्तमीतत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Lokatif (⟪सप्तमी⟫)
 
-
 *   **⟪कर्मधारयः⟫** : Tatpuruṣa apozisional, antara lain:
-*   **⟪उपमानपूर्वपदकर्मधारयः⟫** : ⟪विग्रहवाक्य⟫ (kalimat analitis) dengan ⟪इव⟫ setelah anggota pertama.
-*   **⟪उपमानोत्तरपदकर्मधारयः⟫** : ⟪विग्रहवाक्य⟫ (kalimat analitis) dengan ⟪इव⟫ setelah anggota kedua.
-*   **⟪रूपकसमासः⟫** : ⟪विग्रहवाक्य⟫ (kalimat analitis) dengan ⟪एव⟫.
-*   **⟪द्विगुसमासः⟫** : numeralia pada anggota pertama.
+    *   **⟪उपमानपूर्वपदकर्मधारयः⟫** : ⟪विग्रहवाक्य⟫ (kalimat analitis) dengan ⟪इव⟫ setelah anggota pertama.
+    *   **⟪उपमानोत्तरपदकर्मधारयः⟫** : ⟪विग्रहवाक्य⟫ (kalimat analitis) dengan ⟪इव⟫ setelah anggota kedua.
+    *   **⟪रूपकसमासः⟫** : ⟪विग्रहवाक्य⟫ (kalimat analitis) dengan ⟪एव⟫.
+    *   **⟪द्विगुसमासः⟫** : numeralia pada anggota pertama.
 *   **⟪नञ्तत्पुरुषः⟫** (⟪निषेधतत्पुरुषः⟫) : dengan negasi a-, an- pada anggota pertama.
 *   **⟪गतिसमासः⟫** : dengan preposisi pada anggota pertama.
 *   **⟪प्रथमातत्पुरुषः⟫** dll. (lihat di atas).
 
-### 15.7.1. Classification of ⟪कर्मधारय⟫ (Karmadhāraya)
+### 15.7.1. Einteilung  ⟪कर्मधारय⟫
 
-1. **⟪विशेषणपूर्वपदकर्मधारयः⟫ (Viśeṣaṇapūrvapadakarmadhārayaḥ)**: Anggota pertama (Vorderglied) adalah kata sifat (⟪विशेषण⟫).
-2. **⟪विशेषणोभयपदकर्मधारयः⟫ (Viśeṣaṇobhayapadakarmadhārayaḥ)**: Kedua anggota adalah kata sifat; kategori ini juga mencakup kata sifat yang menyatakan urutan waktu, mis. "dibilas terlebih dahulu, kemudian diubati."
-3. **⟪उपमानपूर्वपदकर्मधारयः⟫ (Upamānapūrvapadakarmadhārayaḥ)** (= ⟪उपमासमासः⟫ (Upamasamāsaḥ)): Anggota pertama mengandung perbandingan, dan anggota kedua menyatakan properti yang dibandingkan, mis. "indah seperti teratai."
-4. **⟪उपमानोत्तरपदकर्मधारयः⟫ (Upamānottarapadakarmadhārayaḥ)** (= ⟪उपमितसमासः⟫ (Upamitasamāsaḥ)): Perbandingan muncul di anggota kedua.
-5. **⟪रूपकसमासः⟫ (Rūpakasamāsaḥ)**: Sebuah ⟪विग्रहवाक्य⟫ (vibhāga-vākya, kalimat analitis) dengan ⟪एव⟫ (eva) mengikuti anggota pertama (metafora).
-6. **⟪संभावनपूर्वपदकर्मधारयः⟫ (Saṃbhāvanapūrvapadakarmadhārayaḥ)**: Kedua anggota merujuk pada orang atau hal yang sama, mis. ⟪कालिदासकविः⟫ (Kālidāsakaviḥ) = ⟪कालिदास⟫ ⟪इति⟫ ⟪कविः⟫ (Kālidāsa iti kaviḥ) = "penyair Kālidāsa."
-7. **⟪कर्मधारयः⟫ (Karmadhārayaḥ) dengan ⟪कु⟫ (ku) atau ⟪कद्⟫ (kad) sebagai anggota pertama**: Berarti "buruk..." atau "kurang baik..."
-8. **⟪कर्मधारयः⟫ (Karmadhārayaḥ) dengan ⟪किम्⟫ (kim) sebagai anggota pertama**: Menyatakan kecaman atau celaan.
-9. **PPP + PPP yang dinegasi**: Berarti "sebagian," mis. ⟪कृताकृतम्⟫ (kṛtākṛtam) = "sebagian dilakukan."
-10. **⟪द्विगुसमासः⟫ (Dvigu-samāsaḥ)**: Sebuah bilangan di anggota pertama.
+1.  **⟪विशेषणपूर्वपदकर्मधारयः⟫ (Viśeṣaṇapūrvapadakarmadhārayaḥ)**: Anggota pertama (Vorderglied) adalah kata sifat (⟪विशेषण⟫).
+2.  **⟪विशेषणोभयपदकर्मधारयः⟫ (Viśeṣaṇobhayapadakarmadhārayaḥ)**: Kedua anggota adalah kata sifat; kategori ini juga mencakup kata sifat yang menyatakan urutan waktu, mis. "dibilas terlebih dahulu, kemudian diubati."
+3.  **⟪उपमानपूर्वपदकर्मधारयः⟫ (Upamānapūrvapadakarmadhārayaḥ)** (= ⟪उपमासमासः⟫ (Upamasamāsaḥ)): Anggota pertama mengandung perbandingan, dan anggota kedua menyatakan properti yang dibandingkan, mis. "indah seperti teratai."
+4.  **⟪उपमानोत्तरपदकर्मधारयः⟫ (Upamānottarapadakarmadhārayaḥ)** (= ⟪उपमितसमासः⟫ (Upamitasamāsaḥ)): Perbandingan muncul di anggota kedua.
+5.  **⟪रूपकसमासः⟫ (Rūpakasamāsaḥ)**: Sebuah ⟪विग्रहवाक्य⟫ (vibhāga-vākya, kalimat analitis) dengan ⟪एव⟫ (eva) mengikuti anggota pertama (metafora).
+6.  **⟪संभावनपूर्वपदकर्मधारयः⟫ (Saṃbhāvanapūrvapadakarmadhārayaḥ)**: Kedua anggota merujuk pada orang atau hal yang sama, mis. ⟪कालिदासकविः⟫ (Kālidāsakaviḥ) = ⟪कालिदास⟫ ⟪इति⟫ ⟪कविः⟫ (Kālidāsa iti kaviḥ) = "penyair Kālidāsa."
+7.  **⟪कर्मधारयः⟫ (Karmadhārayaḥ) dengan ⟪कु⟫ (ku) atau ⟪कद्⟫ (kad) sebagai anggota pertama**: Berarti "buruk..." atau "kurang baik..."
+8.  **⟪कर्मधारयः⟫ (Karmadhārayaḥ) dengan ⟪किम्⟫ (kim) sebagai anggota pertama**: Menyatakan kecaman atau celaan.
+9.  **PPP + PPP yang dinegasi**: Berarti "sebagian," mis. ⟪कृताकृतम्⟫ (kṛtākṛtam) = "sebagian dilakukan."
+10.  **⟪द्विगुसमासः⟫ (Dvigu-samāsaḥ)**: Sebuah bilangan di anggota pertama.
 
-## 15.8. Word List
+## 15.8. Daftar Kata
+
+⟪पुष्कल⟫ 3: indah, megah, berlimpah
+
+⟪वा⟫ : atau (setelah kata)
 
 puṣkala 3: magnificent, splendid, abundant
 
 vā : or (postposed)
 
+⟪विद्⟫ "menemukan" 6 U ⟪विन्दति⟫ ; Pas. ⟪विद्यते⟫ ; PPP ⟪विन्न⟫ / ⟪वित्त⟫
+
+⟪विद्⟫ "mengetahui" 2 P ⟪वेत्ति⟫ ; Pas. ⟪विद्यते⟫ ; PPP ⟪विदित⟫
+
+⟪पत्⟫ "fliegen, fallen" 1 P ⟪पतति⟫ ; Pass. ⟪पत्यते⟫ ; PPP ⟪पतित⟫
+
 athavā : or (preposed)
 
+⟪पूजा⟫ f.: penghormatan, penyambutan penuh hormat, pemujaan keagamaan (Pūjā)
+::: media
+![](/images/lekt1504.webp)
+Abb.: ⟪पूजा⟫
+Sumber gambar: [Detail](/licenses#lekt1504)
+:::
+⟪कुल⟫ n.: kawanan, jumlah besar, keturunan, silsilah, keluarga
+
+⟪इन्द्र⟫ m.: pangeran, yang utama, terbaik di antara; raja para dewa Indra
+::: media
+![](/images/lekt1505.webp)
+Abb.: ⟪इन्द्रः⟫
+Sumber gambar: [Detail](/licenses#lekt1505)
+:::
 caturtha 3 (f.: caturthī): fourth
 
 vid “find” 6 U vindati ; Pass. vidyate ; PPP vinna / vitta
@@ -259,29 +278,33 @@ pat “fly, fall” 1 P patati ; Pass. patyate ; PPP patita
 ardha 3: half, m.n. half
 
 pūjā f.: honor, honorable reception, religious worship (Pūjā)
-::: media
-![](/images/lekt1504.webp)
+
 Fig.: pūjā
 (Image source: [Details](/en/licenses#lekt1504))
-:::
+
+dari situ:
+
+::: indent
 kula n.: herd, multitude, lineage, ancestry, family
 
 indra m.: prince, first, best among ; king of gods Indra
-::: media
-![](/images/lekt1505.webp)
+:::
 Fig.: indraḥ
 (Image source: [Details](/en/licenses#lekt1505))
-:::
+::: media
+![](/images/lekt1506.webp)
 dāsa m.: slave, serf, servant
-
+:::
 dāsī f.: slave woman, serf woman, female servant
-
+::: media
+![](/images/lekt1507.webp)
 kāla m.: time, (proper) moment ; fate, death ; god of death Kāla
-
+:::
+⟪इव⟫ (setelah kata): seolah-olah, seperti (dalam perbandingan: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "seorang pria seperti harimau", "pria seumpama harimau"
 
 ⟪एव⟫ (setelah): menekankan hal sebelumnya, dalam bahasa Jerman sering sesuai dengan penekanan, semacam emotikon `\&lt;!\&gt;`, mis. ⟪सत्यमेव⟫ ⟪जयति⟫ "hanya kebenaran yang menang", "tepatnya kebenaran yang menang", "kebenaran menang"
 
-⟪अरि⟫ m.: musuh (menurut Thieme, Der Fremdling im Ṛgveda: pada awalnya = orang asing)
+⟪अरि⟫ m.: musuh (menurut Thieme, Orang Asing dalam Ṛgveda: pada awalnya = orang asing)
 
 ::: indent
 ⟪आर्य⟫ 3: aris, mulia; m. Arya (sebutan diri orang India kuno yang berbicara bahasa Sanskerta, secara harfiah: Tamu yang ramah (Thieme)); Orang mulia, pria terhormat
@@ -493,7 +516,6 @@ Pecahkan seperti pada Latihan 1 berikut Tatpuruṣa:
 ![](/images/lekt1508.webp)
 Ilm.: ⟪ग्रामदेवता⟫
 (Sumber gambar: [Details](/id/licenses#lekt1508))
-
 :::
 ## 15.11. Latihan 3
 

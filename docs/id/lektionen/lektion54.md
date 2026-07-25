@@ -1,15 +1,15 @@
 ---
-title: Lesson 54
-subtitle: "Preliminary Note"
+title: Lektion 54
+subtitle: "Vorbemerkung"
 lesson_id: 54
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 54
+# Pelajaran 54
 
-## 54.1. Preliminary Note
+## 54.1. Vorbemerkung
 
 Dengan Pelajaran 54, semester kedua dimulai dalam pengajaran universitas. Mulai sekarang, kursus hanya berjalan berdampingan dengan topik utama semester ini: pembacaan seluruh Bhagavadgītā. Tujuan pembelajaran adalah kelancaran sedemikian rupa dalam membaca teks dengan tingkat kesulitan sedang sehingga pada sepertiga terakhir semester, sebagian besar Bhagavadgītā dapat diterjemahkan secara spontan. Pada awalnya, daftar kata masih dibagikan dalam pengajaran universitas; kemudian, mahasiswa harus menggunakan kamus yang sesuai sendiri (Monier-Williams, Apte, PW).
 
@@ -17,7 +17,7 @@ The course on the Bhagavadgītā will not yet be made available online.
 
 Pelajaran-pelajaran dalam kursus Sanskerta membahas topik-topik tata bahasa Sanskerta yang belum dibahas sebelumnya.
 
-## 54.2. Word Formation: ⟪कृत्⟫ Suffix -u on Desiderative Stems
+## 54.2. Wortbildung: ⟪कृत्⟫-Suffix -u an Desideratifstämme
 
 ::: grammar-box
 **Pada akar kata Keinginan (⟪इच्छाप्रकृति⟫) ("ingin melakukan sesuatu"; "akan segera melakukan sesuatu"), akhiran -u ditambahkan untuk membentuk kata benda pelaku.**
@@ -29,14 +29,14 @@ Example:
 :::
 ::: indent
 ⟪युयुत्सु⟫ (yu-yudh + s + u) "bersemangat untuk pertempuran, siap bertempur"
-:::: media
+:::
+::: media
 ![](/images/lekt5402.webp)
-Fig.: ⟪अयुयुत्सुरर्जुनः⟫
+Gbr.: ⟪अयुयुत्सुरर्जुनः⟫
 ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
 (Sumber gambar: [Details](/en/licenses#lekt5402))
-::::
 :::
-## 54.3. Metrum II: epik ⟪त्रिष्टुभ्⟫ dan ⟪जगती⟫
+## 54.3. Metrum II: ⟪त्रिष्टुभ्⟫ epos dan ⟪जगती⟫
 
 ::: grammar-box
 ⟪त्रिष्टुभ्⟫ ("Tiga-helaah") muncul dalam epik di antara bagian-bagian ⟪श्लोक⟫ yang biasa, tepatnya pada titik-titik di mana suasana atau aksi mengalami lonjakan khusus atau kesimpulan.
@@ -107,13 +107,13 @@ c) ⟪उपजाति⟫
 ::: indent
 "Jika dua Pāda, yang memiliki ciri Indravajrā dan Upendravajrā masing-masing, terlibat dalam sebuah bait, maka mereka adalah Upajāti. Juga, jika meter lain dicampurkan ke dalam sebuah bait, itu disebut Upajāti."
 :::
-## 54.4. Latihan tentang Metrik
+## 54.4. Latihan Metrum
 
 Identify Triṣṭubhs and Jagatīs in Bhagavadgītā II.
 
 Example of a recitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Accessed on 2009-01-28
 
-## 54.5. Jenis Pembentukan Aoris (⟪लुङ्⟫)
+## 54.5. Bildungstypen  Aorist (⟪लुङ्⟫)
 
 ::: grammar-box
 **Yang dimiliki bersama oleh semua jenis pembentukan Aorist (⟪लुङ्⟫) adalah augment a-, yang ditambahkan sebagai awalan sesuai dengan aturan yang sama seperti pada Imperfect (⟪लङ्⟫).**
@@ -135,7 +135,7 @@ Dalam bahasa Sanskerta, hanya Indicative dan Optatif dari Aorist yang umum digun
 
 Untuk distribusi akar di antara jenis-jenis individu, lihat masing-masing jenis.
 :::
-## 54.6. Akar Aoris
+## 54.6. Wurzelaorist
 
 ::: grammar-box
 **Formation:**
@@ -153,33 +153,33 @@ Example:
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Guṇa grade!) |
+| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
 :::
 The Root Aorist is formed from only 12 roots:
 
-1. ⟪गा⟫ kelas ke-3 "pergi"
-2. ⟪घ्रा⟫ kelas ke-1 "mencium"
-3. ⟪छो⟫ kelas ke-6 "memotong" (⟪अच्छात्⟫)
-4. ⟪दा⟫ kelas ke-3 "memberi"
-5. ⟪दो⟫ kelas ke-1, kelas ke-4 "memotong"
-6. ⟪धा⟫ kelas ke-3 "menempatkan"
-7. ⟪धे⟫ kelas ke-1 "menyedot" (⟪अधात्⟫)
-8. ⟪पा⟫ kelas ke-1 "minum"
-9. ⟪शो⟫ kelas ke-4 "menajamkan"
-10. ⟪सो⟫ "menyelesaikan"
-11. ⟪स्था⟫ kelas ke-1 "berdiri"
-12. ⟪भू⟫ kelas ke-1 "ada"
+1.  ⟪गा⟫ kelas ke-3 "pergi"
+2.  ⟪घ्रा⟫ kelas ke-1 "mencium"
+3.  ⟪छो⟫ kelas ke-6 "memotong" (⟪अच्छात्⟫)
+4.  ⟪दा⟫ kelas ke-3 "memberi"
+5.  ⟪दो⟫ kelas ke-1, kelas ke-4 "memotong"
+6.  ⟪धा⟫ kelas ke-3 "menempatkan"
+7.  ⟪धे⟫ kelas ke-1 "menyedot" (⟪अधात्⟫)
+8.  ⟪पा⟫ kelas ke-1 "minum"
+9.  ⟪शो⟫ kelas ke-4 "menajamkan"
+10.  ⟪सो⟫ "menyelesaikan"
+11.  ⟪स्था⟫ kelas ke-1 "berdiri"
+12.  ⟪भू⟫ kelas ke-1 "ada"
 
 Untuk ⟪भू⟫ kelas ke-1, Aorist Akar dibentuk sebagai berikut:
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
-| 1. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
-| 2. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
+| 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
 :::
-### 54.6.1. Aoris Pasif Orang Ketiga Tunggal
+### 54.6.1. Aorist Pasif 3.sg.
 
 [B0] Bentuk khusus dari aorist akar adalah aorist pasif untuk orang ketiga tunggal. Ini dapat dibentuk dari semua akar kata.
 
@@ -205,7 +205,6 @@ Contoh:
 ⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "ia dipuji"  
 ⟪कृ⟫ 8U: ⟪अकारि⟫ "ia dibuat"  
 
-
 *   Akar dengan sebelum konsonan sederhana (kecuali ⟪जन्⟫ dan akar yang berakhiran -am)  
 Contoh:  
 ⟪वद्⟫ 1P: ⟪अवादि⟫ "ia dikatakan"  
@@ -215,7 +214,6 @@ tetapi:
 *   some roots ending in -am  
     Example:  
     ⟪गम्⟫ ⟪अगामि⟫
-    
 
 Insertion of y before the ending:
 
@@ -228,7 +226,6 @@ Nasal infix:
 *   some roots have a nasal infix:  
     Example:  
     ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ alongside ⟪अलाभि⟫ : "it was received"
-    
 
 (Bentuk-bentuk pasif lainnya dinyatakan dalam aorist dengan bentuk Ātmanepada).
 :::
@@ -266,6 +263,7 @@ Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूय�
 Tamil Nadu
 (Image source: [Details](/en/licenses#lekt5401))
 :::
+
 ::: deleteme-box
 
 **lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Image source: Raji Srinivas / Wikipedia. GNU FDLicense]
@@ -273,3 +271,4 @@ Tamil Nadu
 **lekt5401:** Tamil Nadu [Image source: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Accessed on 2009-01-28. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, non-commercial use, share alike)]
 
 :::
+

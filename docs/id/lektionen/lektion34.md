@@ -1,12 +1,12 @@
 ---
-title: Lesson 34
+title: Lektion 34
 lesson_id: 34
 status: stable
 ---
 
-# Lesson 34
+# Pelajaran 34
 
-## 34.1. The Perfect (⟪लिट्⟫)
+## 34.1. Perfek (⟪लिट्⟫)
 
 Dalam bahasa Sanskerta Klasik, bentuk sempurna hanya memiliki bentuk indikatif dan partisipel.
 
@@ -21,9 +21,9 @@ Dalam bahasa Sanskerta Klasik, bentuk sempurna hanya memiliki bentuk indikatif d
 2. **dengan akar yang dimulai dengan vokal panjang (kecuali ā-) atau dengan vokal (kecuali a-) sebelum dua konsonan**
 3. **dengan beberapa akar lainnya**
 :::
-## 34.2. Perfecta reduplicata (⟪द्वित्वलिट्⟫)
+## 34.2. Perfek Reduplikasi (⟪द्वित्वलिट्⟫)
 
-### 34.2.1. Gradasi Batang
+### 34.2.1. Stammabstufung
 
 ::: grammar-box
 **Formation:**
@@ -40,25 +40,25 @@ Dalam bahasa Sanskerta Klasik, bentuk sempurna hanya memiliki bentuk indikatif d
 *   **(Consonant)-Consonant-Vowel-Consonant-Consonant**
 
 **Dalam bentuk sempurna, selain itu, batang dengan bentuk berikut tidak mengalami gradasi batang:**
-*   **a-Consonant**
-*   **ā-Consonant**
+*   **a-Konsonan**
+*   **ā-Konsonan**
 :::
-### 34.2.2. The Perfect Endings
+### 34.2.2. Akhiran-akhiran Perfek
 
 ::: grammar-box
 
-| | 3. Singular | 3. Plural |
+| | 3. Tunggal | 3. Jamak |
 | :--- | :--- | :--- |
 | **Parasmaipada** | **-a** | **-ur** |
 | **Ātmanepada** | **-e** | **-re** |
 
 :::
-### 34.2.3. Connecting Vowel -i-
+### 34.2.3. Bindevokal -i-
 
 ::: grammar-box
 **Vokal penghubung -i- selalu mendahului akhiran orang ketiga jamak -re, dan mendahului akhiran berawalan konsonan lainnya untuk sebagian besar akar.**
 :::
-### 34.2.4. Reduplikasi akar yang dimulai dengan konsonan
+### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
 
 ::: grammar-box
 **Untuk reduplikasi konsonan awal, aturan yang diberikan dalam [Pelajaran 33](lektion33.md) berlaku.**
@@ -93,7 +93,7 @@ Contoh:
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 :::
-### 34.2.5. Reduplikasi Akar Berawalan Vokal
+### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
 
 ::: grammar-box
 **1. Initial a-, ā- is reduplicated with a-, resulting in ā-.**
@@ -133,14 +133,14 @@ Contoh:
 | ⟪एध्⟫ | ⟪आनर्ध⟫ | ⟪आनृधुर्⟫ |
 
 :::
-## 34.3. Types of the reduplicated perfect
+## 34.3. Typen  reduplizierten Perfekts
 
 Prinsip klasifikasi: Kekhususan gradasi batang:
 *   Sempurna tanpa gradasi batang: Tipe I
 *   Sempurna dengan gradasi batang: Tipe II - V
 *   irregular perfect formations
 
-## 34.4. Sempurna Tipe I: Sempurna tanpa gradasi batang
+## 34.4. Perfek Tipe I: Perfek tanpa Gradasi Vokal pada Akar Kata
 
 ::: grammar-box
 **Sempurna Tipe I (tanpa gradasi batang) memiliki akar dengan tipe:**
@@ -158,11 +158,11 @@ Contoh:
 | ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ |
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
-| ⟪अस्⟫ 2P "to be":br⟪अस्⟫ 4 "to throw" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brirregular reduplication! | ⟪आनशिरे⟫ |
+| ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
-## 34.5. Sempurna Tipe II: Batang kuat dengan tingkat Vṛddhi, batang lemah dengan tingkat Guṇa
+## 34.5. Perfekt Typ II: Starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
 ::: grammar-box
 **Dibentuk dari akar dengan bentuk:**
@@ -185,7 +185,7 @@ Contoh:
 | ⟪कॢप्⟫ | | | ⟪चकॢपे⟫ | ⟪चकॢपिरे⟫ |
 
 :::
-## 34.6. Word List
+## 34.6. Daftar Kata
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
@@ -220,12 +220,13 @@ Lakshadweep Islands Map.
 Fig.: ⟪तिलाः⟫
 Sesame seeds.
 (Image source: [Details](/en/licenses#lekt3403))
-:::: media
+:::
+
+::: media
 ![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Sesame plant flowering.
 (Image source: [Details](/en/licenses#lekt3404))
-::::
 :::
 **⟪स्वर्ण⟫ n.:** (beautifully colored =) gold
 
@@ -259,7 +260,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 
 **⟪कन्या⟫ f.:** girl, maiden
 
-## 34.7. Exercise
+## 34.7. Latihan
 
 Bentuklah bentuk sempurna yang sesuai dalam orang, jumlah, dan jenis untuk bentuk kata kerja berikut:
 
@@ -295,7 +296,7 @@ Bentuklah bentuk sempurna yang sesuai dalam orang, jumlah, dan jenis untuk bentu
 30. ⟪कुप्यन्ति⟫
 31. ⟪इच्छन्ति⟫
 
-## 34.8. Translation Exercise
+## 34.8. Latihan Penerjemahan
 
 Terjemahkan teks berikut dari ⟪पद्मपुराण⟩ mengenai hadiah kepada Brahmin:
 
@@ -322,15 +323,15 @@ Explanations:
 **⟪जन्म⟫** Nom./Acc. sg. of **⟪जन्मन्⟫** n. birth
 
 **⟪सर्व⟫ 3** "all, entire" (declined according to pronominal declension)
-:::: media
+:::
+::: media
 ![](/images/lekt3407.webp)
 Fig.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Hindu wedding ritual.
 (Image source: [Details](/en/licenses#lekt3407))
-::::
 :::
-::: deleteme-box
 
+::: deleteme-box
 
 **lekt3401:** Nandi Bull statue, Chamundi Hills, Mysore. [Image source: Luna Park / Flickr. CC BY-NC-ND]
 
@@ -346,3 +347,4 @@ Hindu wedding ritual.
 
 **lekt3407:** Hindu wedding ritual. [Image source: BriceFR / Flickr. CC BY-NC-SA]
 :::
+

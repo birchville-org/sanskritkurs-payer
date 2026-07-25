@@ -1,12 +1,12 @@
 ---
-title: "Exercise 6"
+title: "Latihan 6"
 uebung_id: 6
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 6
+# Latihan 6
 
 A) Form verbal sentences with the roots specified in parentheses by inserting them:
 
@@ -147,7 +147,7 @@ Fig.: ⟪का⟫ ⟪नृत्यति⟫ ⟪।⟫
 :::
 ---
 
-## Review Exercise Lesson 6
+## Latihan Tinjauan Pelajaran 6
 
 A) Latihan isian: Bentuk pertanyaan yang merupakan jawaban dari kalimat-kalimat, yang Anda bentuk setelah latihan isian berikut, adalah:
 

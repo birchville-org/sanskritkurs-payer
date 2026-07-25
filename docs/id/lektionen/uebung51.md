@@ -1,12 +1,12 @@
 ---
-title: "Exercise 51"
+title: "Latihan 51"
 uebung_id: 51
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 51
+# Latihan 51
 
 ## ⟪१⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪९⟫ - ⟪१२⟫: ⟪आश्रमधर्मः⟫
 
@@ -52,7 +52,7 @@ last_reconstructed: 2026-05-15
 
 ---
 
-## ⟪२⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟫: Tentang Pentingnya Memperhatikan ⟪वर्णश्रमधर्म⟫
+## ⟪२⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟫: Tentang perlunya memperhatikan ⟪वर्णश्रमधर्म⟫
 
 **⟪तस्मात्स्वधर्मं⟫ ⟪भूतानां⟫ ⟪राजा⟫ ⟪न⟫ ⟪व्यभिचारयेत्⟫ ⟪।⟫**  
 **⟪स्वधर्मं⟫ ⟪संदधानो⟫ ⟪हि⟫ ⟪प्रेत्य⟫ ⟪चेह⟫ ⟪च⟫ ⟪नन्दति⟫ ⟪॥⟫ ⟪१६⟫ ⟪॥⟫**
@@ -64,7 +64,7 @@ last_reconstructed: 2026-05-15
 
 ---
 
-## ⟪३⟫. ⟪बाण⟫ (⟪७⟫. Cent. AD): ⟪कादम्बरी⟫
+## ⟪३⟫. ⟪बाण⟫ (⟪७⟫. Jhdt. n. Chr.): ⟪कादम्बरी⟫
 
 Pertimbangan Sang Nuri **⟪वैशम्पायन⟫** tentang kehidupan seorang pemburu:
 
@@ -79,7 +79,7 @@ Fig.: Hunter
 :::
 ---
 
-## ⟪४⟫. Commentary of the ⟪भानुचन्द्र⟫ (⟪१६⟫. Cent.)
+## ⟪४⟫. Kommentar  ⟪भानुचन्द्र⟫ (⟪१६⟫. Jhdt.)
 
 [Komentar pada bagian sebelumnya dari **⟪कादम्बरी⟫**]:
 

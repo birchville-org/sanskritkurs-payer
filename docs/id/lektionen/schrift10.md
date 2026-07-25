@@ -1,6 +1,6 @@
-# Writing Exercise 10
+## Latihan Aksara 10
 
-### Aturan Kedua untuk Pembentukan Ligatur Konsonan
+### Aturan kedua untuk pembentukan ligatur konsonan
 
 [First rule see in [Writing Exercise 8](schrift08.md)]
 
@@ -24,11 +24,11 @@ Examples (exceptions are underlined):
 
 ![](/images/schrift022.webp)
 
-### Exercise
+### Latihan
 
 Write out all the ligatures listed above
 
-### Daftar ligatur yang paling umum dalam jenis huruf Tata Bahasa Kielhorn
+### Daftar  ligatur paling umum dalam  Aksaratype dari Tata Bahasa Kielhorn
 
 ![](/images/schrift023.jpg)
 
@@ -36,7 +36,7 @@ Write out all the ligatures listed above
 
 ![](/images/schrift025.webp)
 
-### Exercise
+### Latihan
 
 Read and transliterate:
 

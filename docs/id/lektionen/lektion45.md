@@ -1,39 +1,39 @@
 ---
-title: Pelajaran 45
-subtitle: "Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) akar athematis tanpa akhiran vokal (lanjutan)"
+title: Lektion 45
+subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
-category: "Tata Bahasa"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
-# Lesson 45
+# Pelajaran 45
 
-## 45.1. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) akar atematis tanpa akhiran vokal (lanjutan)
+## 45.1. Pembentukan Bentuk Verba Orang ke-2 (⟪मध्यमः⟫) dari Batang Atematik tanpa Sufiks yang Berakhir Vokal (Lanjutan)
 
-### 45.1.1. Third Present Class (⟪जुहोत्यादि⟫)
+### 45.1.1. Dritte Presentklasse (⟪जुहोत्यादि⟫)
 
 ⟪हु⟫ 3P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \&lt;⟪जुहुषे⟫\&gt; | \&lt;⟪जुहुध्वे⟫\&gt; |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \&lt;⟪अजुहुथास्⟫\&gt; | \&lt;⟪अजुहुध्वम्⟫\&gt; |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \&lt;⟪जुह्वीथास्⟫\&gt; | \&lt;⟪जुह्वीध्वम्⟫\&gt; |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
 :::
 ⟪धा⟫ 2U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:brfrom: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:braus: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
 :::
-### 45.1.2. Seventh Present Class (⟪रुधादि⟫)
+### 45.1.2. Siebte Presentklasse (⟪रुधादि⟫)
 
 ::: grammar-box
 **Jika k/g akhir dari akar berada di antara nasal ṅ dan dental pada akhiran, maka k/g dapat secara opsional hilang**
@@ -45,20 +45,20 @@ e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or �
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अयुनक्⟫:brfrom: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अयुनक्⟫:braus: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
 :::
 ⟪रुध्⟫ 7U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अरुणत्⟫:brfrom a-ru-ṇa-dh + s:br ***⟪अरुण्स्⟫*** (irreg.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br sig[⟪अरुण्स्⟫] (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
 :::
 ## 45.2. Vokatif Tunggal (⟪आमन्त्रितमेकवचने⟫)
 
@@ -70,7 +70,7 @@ e.g. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन�
 **Exceptions are the feminine nouns ending in -ā and -ī, as well as the stems ending in -in, whose vocative sg. must be particularly memorized.**
 :::
 ::: no-header
-| | Vocative Singular |
+| | Vokatif Tunggal |
 | --- | --- |
 | Kata benda maskulin yang berakhir dengan -a | ⟪देव⟫ |
 | Kata benda netral yang berakhir dengan -a | ⟪फल⟫ |
@@ -88,21 +88,21 @@ e.g. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन�
 | Kata benda maskulin yang berakhir dengan -in | ⟪बलिन्⟫ |
 | Kata benda maskulin yang berakhir dengan -ant | ⟪बलिन्⟫:br⟪बलि⟫ |
 | mahānt m. | ⟪महन्⟫ |
-| mahānt n. | ⟪महत्⟫:br= Nominative |
+| mahānt n. | ⟪महत्⟫:br= Nominatif |
 | Kata benda maskulin yang berakhir dengan -mant/-vant | ⟪गुणवन्⟫ |
-| Kata benda netral yang berakhir dengan -mant/-vant | ⟪गुणवत्⟫:br= Nominative |
-| Kata ganti | tidak dibentuk vocatif |
-:::: media
-![](/images/lekt4501.webp)
-Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
-(Sumber gambar: [Details](/en/licenses#lekt4501))
-::::
+| Kata benda netral yang berakhir dengan -mant/-vant | ⟪गुणवत्⟫:br= Nominatif |
+| Kata ganti | ein Vokatif wird nicht gebildet |
 :::
-## 45.3. Word List
+::: media
+![](/images/lekt4501.webp)
+Gbr.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
+(Sumber gambar: [Details](/en/licenses#lekt4501))
+:::
+## 45.3. Daftar Kata
 
 ⟪वा⟫ ... ⟪वा⟫ : either ... or
 
-## 45.4. Exercise
+## 45.4. Latihan
 
 A) Translate into Sanskrit (for past tense forms, please use the imperfect \&lt;⟪लङ्⟫\&gt;):
 
@@ -146,9 +146,11 @@ B) Translate:
 Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Image source: [Details](/en/licenses#lekt4502))
 :::
+
 ::: deleteme-box
 
 **lekt4501.jpg**: Textile block print, Ahmedabad. -- Image source: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, non-commercial use, share alike)
 
 **lekt4502.jpg**: Image source: John Isaac / World Bank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Accessed on 2009-01-08. -- Creative Commons License (Attribution, non-commercial use, no derivatives)
 :::
+

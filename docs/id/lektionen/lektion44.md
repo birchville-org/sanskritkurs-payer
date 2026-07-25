@@ -1,15 +1,15 @@
 ---
-title: Pelajaran 44
-subtitle: "Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) akar athematis dengan akhiran berakhiran vokal"
+title: Lektion 44
+subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
 lesson_id: 44
 last_reconstructed: 2026-05-21
-category: "Tata Bahasa"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
-# Lesson 44
+# Pelajaran 44
 
-## 44.1. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) akar athematis dengan akhiran vokal
+## 44.1. Pembentukan bentuk-bentuk verba orang ke-2 (⟪मध्यमः⟫) dari pokok-pokok atematis dengan sufiks yang berakhiran vokal
 
 ::: media
 ![](/images/lekt4301.jpg)
@@ -17,51 +17,51 @@ status: stabil
 ::: grammar-box
 **3.sg.Ā.Imperfect secara formal identik dengan 2.pl.P.Imperfect!!!**
 :::
-### 44.1.1. Kelas Kelima Sekarang (⟪स्वादि⟫)
+### 44.1.1. Fünfte Presentklasse (⟪स्वादि⟫)
 
 ⟪सु⟫ 5U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralisation! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralisation! | ⟪सुनुध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralisation! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralisation! | ⟪सुनुध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
 :::
-### 44.1.2. Eighth Present Class (⟪तनादि⟫)
+### 44.1.2. Achte Presentklasse (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
 :::
 ⟪कृ⟫ 8U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
 :::
-### 44.1.3. Ninth Present Class (⟪क्र्यादि⟫)
+### 44.1.3. Neunte Presentklasse (⟪क्र्यादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
 :::
-## 44.2. On Word-Sandhi
+## 44.2. Mengenai Sandhi Kata
 
 Untuk akar kata yang berakhiran konsonan, aturan sandhi kata yang telah dibahas sebelumnya harus diperhatikan.
 
@@ -69,7 +69,7 @@ Furthermore, the following rules of word-sandhi apply.
 
 (A comprehensive compilation of all phonetic changes pertaining here can be found in Kielhorn, Grammar, pp. 76f.)
 
-### 44.2.1. On Word-Sandhi for dh-
+### 44.2.1. Mengenai Sandhi Kata untuk dh-
 
 ::: grammar-box
 1. **Sebuah aspirat sebelum aspirat lainnya digantikan oleh non-aspirat yang bersesuaian:**
@@ -81,85 +81,85 @@ mis. **⟪द्विष्⟫** 2U: ⟪द्विष्⟫ + ⟪ध्वे
 4. **-s + dh- » -dh-** (Hilangnya -s)
 mis. **⟪आस्⟫** 2Ā: ⟪आस्⟫ + ⟪ध्वे⟫ » **⟪आध्वे⟫** (ādhve)
 :::
-### 44.2.2. Tentang s-Sandhi
+### 44.2.2. Mengenai Sandhi Kata untuk s-
 
 ::: grammar-box
 1. **-s + s- » -ts- atau (bukan opsional!) -ss-** (seperti pada kelas Present ke-2)
 Contoh:
-* **⟪वस्⟫** 1P: Future: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
-* **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
+   * **⟪वस्⟫** 1P: Future: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
+   * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
 mis. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
 :::
-## 44.3. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) pada akar athematic tanpa akhiran sufiks vokal
+## 44.3. Pembentukan Bentuk Verba Orang ke-2 (⟪मध्यमः⟫) dari Batang Atematik tanpa Sufiks yang Berakhiran Vokal
 
-### 44.3.1. Second Present Class (⟪अदादि⟫)
+### 44.3.1. Zweite Presentklasse (⟪अदादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
 :::
 ⟪आस्⟫ 2Ā
 
 ::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
 :::
 ⟪दुह्⟫ 2U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अधोक्⟫:brfrom: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अधोक्⟫:braus: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
 :::
 ⟪इ⟫ 2P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \&lt;⟪इषे⟫\&gt; | \&lt;⟪इध्वे⟫\&gt; |
-| **Imperfect**:br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
-| **Optative**:br⟪विधिलिङ्⟫ |  ⟪इयास्⟫ |  ⟪इयात⟫ |  ⟪इयीथास्⟫:briy-ī-thās |  ⟪इयीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪इषे⟫\> | \<⟪इध्वे⟫\> |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪इयास्⟫ | ⟪इयात⟫ | ⟪इयीथास्⟫:briy-ī-thās | ⟪इयीध्वम्⟫ |
 :::
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:brfrom: *hn + ta |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अहन्⟫:brfrom: a-han + s | ⟪अहत⟫:brfrom: a-*hn + ta |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:braus: *hn + ta |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अहन्⟫:braus: a-han + s | ⟪अहत⟫:braus: a-*hn + ta |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
 :::
 ⟪स्तु⟫ 2U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
 :::
 ⟪अस्⟫ 2P (especially to be remembered!)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ***⟪असि⟫*** | ***⟪स्थ⟫*** |
-| **Imperfect**:br⟪लङ्⟫ | ***⟪आसीस्⟫*** | ***⟪आस्त⟫*** |
-| **Optative**:br⟪विधिलिङ्⟫ | ***⟪स्यास्⟫*** | ***⟪स्यात⟫*** |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ***⟪असि⟫*** | ***⟪स्थ⟫*** |
+| **Imperfekt** :br⟪लङ्⟫ | ***⟪आसीस्⟫*** | ***⟪आस्त⟫*** |
+| **Optatif** :br⟪विधिलिङ्⟫ | ***⟪स्यास्⟫*** | ***⟪स्यात⟫*** |
 :::
 ⟪तत्त्वमसि⟫
 
@@ -168,21 +168,20 @@ mis. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ »
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
 :::
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicative Present**:br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
-
-| **Imperfect**:br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
-| **Optative**:br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Present** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
+| **Optatif** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
 :::
-## 44.4. The Vocative (⟪आमन्त्रितम्⟫)
+## 44.4. Vokatif (⟪आमन्त्रितम्⟫)
 
 Para ahli tata bahasa asli tidak menganggap vocatif (⟪आमन्त्रितम्⟫) sebagai kasus independen, melainkan hanya sebagai modifikasi dari nominatif (⟪प्रथमा⟫).
 
@@ -194,15 +193,16 @@ Para ahli tata bahasa asli tidak menganggap vocatif (⟪आमन्त्रि
 :::
 ::: indent
 ⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = "Anak, apa yang kamu katakan?"
-:::: important
+:::
+::: important
 **Hindari menerjemahkan vocatif dengan "**O** ...". Kita secara konstan menggunakan vocatif dalam bahasa Jerman ketika kita berkata, misalnya: "Sayang, apa yang kita masak hari ini?". Tidak ada orang yang akan mengatakan dalam makna ini: "**O** Sayang, apa yang kita masak hari ini?"**
-::::
 :::
 ::: media
 ![](/images/lekt4402.webp)
 Fig.: Pada penggunaan "O" yang benar dalam bahasa Jerman: **"Wahai orang!"**
 (Sumber gambar: [Details](/en/licenses#lekt4402))
 :::
+
 ::: grammar-box
 **Bentuk vocatif jamak dan dwi sama dengan bentuk nominatif (⟪प्रथमा⟫) jamak dan dwi.**
 
@@ -234,11 +234,11 @@ Inf. ⟪यातुम्⟫
 therefrom:
 
 **⟪यान⟫** n.: pergi, jalan, kendaraan
-:::: media
+:::
+::: media
 ![](/images/lekt4403.webp)
 Fig.: ⟪रेल्यानम्⟫
 (Sumber gambar: [Details](/en/licenses#lekt4403))
-::::
 :::
 **⟪शी⟫** 2Ā ⟪शेते⟫ : berbaring. Akar ini memiliki dalam semua bentuk batang present **Strong Grade:** 1.sg.Ind.Pres.Ā ***⟪शेये⟫*** (śe + e). Bentuk-bentuk berikut sangat patut diperhatikan: 3.pl.Ind.Pres.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
 
@@ -252,11 +252,11 @@ Inf. ⟪शयितुम्⟫
 therefrom:
 
 **⟪शयन⟫** n.: couch, bed
-:::: media
+:::
+::: media
 ![](/images/lekt4404.webp)
 Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Image source: [Details](/en/licenses#lekt4404))
-::::
 :::
 ⟪नन्द्⟫ 1P ⟪नन्दति⟫ : to rejoice in (⟪तृतीयया⟫)
 
@@ -273,11 +273,11 @@ Gerundive ⟪नन्द्य⟫
 therefrom:
 
 **⟪नन्दिन्⟫** 3: ditandai oleh (khusus) sukacita, gembira; m. nama gunung (⟪वहन⟫) dari ⟪शिव⟫ (seekor lembu jantan)
-:::: media
+:::
+::: media
 ![](/images/lekt4405.webp)
 Fig.: ⟪नन्दी⟫
 (Sumber gambar: [Details](/en/licenses#lekt4405))
-::::
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : bersukacita dalam (⟪द्वितीयया⟫), menyapa seseorang dengan gembira, menyambut
 
@@ -296,11 +296,11 @@ Absol. -⟪यम्य⟫
 
 ::: indent
 PPP ⟪आयत⟫ 3: panjang terbentang
-:::: media
+:::
+::: media
 ![](/images/lekt4406.webp)
 Fig.: ⟪आयतो⟫ ⟪मरुः⟫
 (Sumber gambar: [Details](/en/licenses#lekt4406))
-::::
 :::
 ⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : menawarkan, mempersembahkan, menyerahkan
 
@@ -319,11 +319,11 @@ Inf. ⟪यतितुम्⟫
 therefrom:
 
 **⟪यत्न⟫** m.: effort, exertion
-:::: media
+:::
+::: media
 ![](/images/lekt4407.webp)
 Fig.: ⟪यत्नेन⟫
 (Image source: [Details](/en/licenses#lekt4407))
-::::
 :::
 **⟪रभ्⟫** 1Ā ⟪रभते⟫ (variant form to ⟪लभ्⟫): to grasp
 
@@ -344,14 +344,13 @@ Absol. -⟪रभ्य⟫
 See:
 
 **Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Konsep Dasar Peraturan dan Hukum Monastik Theravāda. -- Bagian I. -- (Bahan tentang Konsep Dasar Buddhisme). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-
-:::: media
+:::
+::: media
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Image source: [Details](/en/licenses#lekt4408))
-::::
 :::
-## 44.6. Exercise
+## 44.6. Latihan
 
 A) Identify and translate the following forms:
 
@@ -432,7 +431,7 @@ B) Translate:
 ⟪अशोच्यानशोचः⟫ ⟪प्रज्ञावादांश्च⟫ ⟪प्रवक्तुमैच्छः⟫ ⟪।⟫  
 ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन्तो⟫ ⟪न⟫ ⟪शोचन्ति⟫ ⟪॥८॥⟫
 
-## 44.7. Form Review Exercise
+## 44.7. Latihan Tinjauan Morfologi
 
 Determine the following forms:
 
@@ -476,7 +475,6 @@ Determine the following forms:
 38.  ⟪पिपूर्मः⟫
 39.  ⟪कैः⟫
 40.  ⟪कृत्येन⟫
-
 
 ::: deleteme-box
 

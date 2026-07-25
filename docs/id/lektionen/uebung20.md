@@ -1,12 +1,12 @@
 ---
-title: "Exercise 20"
+title: "Latihan 20"
 uebung_id: 20
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 20
+# Latihan 20
 
 A) Translate and resolve the compounds into Sanskrit:
 
@@ -71,7 +71,7 @@ Fig.: ⟪शस्त्राजीवः⟫ ⟪क्षत्रियः⟫
 :::
 ---
 
-## Compound Analysis
+## Komposita-Analyse
 
 Uraikan majemuk berikut sebagai Bahuvrīhi dan/atau Dvandva dan/atau Tatpuruṣa dengan semua cara yang Anda anggap mungkin dalam bahasa Sanskerta.
 

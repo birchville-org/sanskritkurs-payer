@@ -1,13 +1,11 @@
 ---
-title: "# Pelajaran 5"
+title: Lektion 5
 subtitle: "Grundlagen der Nominalkomposita (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
 category: "Grammatik"
 status: stable
 ---
-
-
 
 # Pelajaran 5
 
@@ -18,7 +16,7 @@ status: stable
 - Komposita kopulatif (Dvandva)
 - Urutan anggota dalam Ddvandvas
 :::
-## 5.1. Komposita Nominal (samāsa m. = ⟪समास⟫)
+## 5.1. Nominalkomposita (samāsa m. = ⟪समास⟫)
 
 Pembentukan kata majemuk dalam jumlah yang sangat besar adalah ciri khas bahasa Sanskerta.
 
@@ -29,7 +27,6 @@ Bentuk-bentuk pembentukan komposita yang paling penting adalah:
 
 (Untuk dua yang terakhir, lihat nanti!)
 
-
 ## 5.2. Tentang Terminologi Sanskerta untuk Komposita
 
 - **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Anggota sebuah komposita
@@ -39,8 +36,7 @@ Bentuk-bentuk pembentukan komposita yang paling penting adalah:
 - **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Komposita di mana anggota pertamanya tanpa akhiran kasus (keadaan normal)
 - **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Komposita di mana satu atau beberapa anggota tengah dihilangkan
 
-
-## 5.3. Komposita Kopulatif (Dvandva n. = ⟪द्वन्द्व⟫)
+## 5.3. Kopulative Komposita (Dvandva n. = ⟪द्वन्द्व⟫)
 
 Komposita kopulatif berfungsi untuk menghubungkan anggota-anggota yang setara secara gramatikal dan terkoordinasi (kata benda atau kata sifat).
 
@@ -64,7 +60,7 @@ Dilakukan dengan "dan" (**ca** = ⟪च⟫), kadang-kadang dengan "atau" (**vā*
 :::
 Lihat nanti untuk Ddvandva dualis!
 
-### 5.3.1. Anggota pertama komposita
+### 5.3.1. Anggota Depan dari Komposita
 
 Anggota pertama komposita (bukan hanya Ddvandvas) umumnya berbentuk **stam nomina** yang tidak berubah. Anggota-anggota tunggal komposita dihubungkan menurut aturan **Satzsandhi** (yaitu sandhi yang telah kita pelajari sejauh ini, berbeda dengan Wortsandhi yang diterapkan di dalam kata sebelum elemen formatif).
 
@@ -78,7 +74,6 @@ Contoh untuk Ddvandvas plural:
 > 
 > atau = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
 > ((seorang/tertentu) Brahmana, Kṣatriya, Vaiśya dan Śūdra)
-
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
 > = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
@@ -95,8 +90,6 @@ Contoh untuk Ddvandvas plural:
 
 Apabila dua dari tiga ketentuan yang disebutkan terakhir dapat berlaku secara bersamaan, maka aturan yang diberikan kemudian selalu harus diikuti. (Contoh Dvanda dwandva untuk aturan-aturan ini terdapat pada Kielhorn, Gramatika § 570).
 
----
-
 ## 5.4. Daftar Kata
 
 **Pelajari kata-kata berikut:**
@@ -105,13 +98,10 @@ Apabila dua dari tiga ketentuan yang disebutkan terakhir dapat berlaku secara be
 
 **kāma** m. = ⟪काम⟫ : Keinginan, kerinduan, anugerah yang diharapkan, kenikmatan indra, cinta; Dewa Cinta Kāma.
 
-
-
 ::: media
 ![](/images/lekt0501.webp)
 Gambar: Dewa Kāma = kāmadeva = ⟪कामदेव⟫, abad ke-18
 (Sumber gambar: Wikipedia, Domain Publik)
-
 :::
 **krodha** m. = ⟪क्रोध⟫ : kemarahan.
 
@@ -144,8 +134,6 @@ Gambar: Dewa Kāma = kāmadeva = ⟪कामदेव⟫, abad ke-18
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : baik ... maupun.
 
----
-
 ## 5.5. Latihan
 
 **A) Terjemahkan kalimat-kalimat dan komposita berikut serta uraikan Dvandva yang terdapat di dalamnya ke dalam bahasa Sanskerta:**
@@ -159,7 +147,6 @@ Gambar: Dewa Kāma = kāmadeva = ⟪कामदेव⟫, abad ke-18
    (Vāsiṣṭhadharmaśāstra II,1)
    ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयो⟫ ⟪ब्राह्मणक्षत्रियवैश्याः⟫ ||
    (Penjelasan: trayas = ⟪त्रयस्⟫ = "tiga")
-
 
 3. sāmavedargvedayajurvedās trayī.
    (Kauṭilīya-arthaśāstra 1.3.1. / dalam Sanskerta yang baik: sāmārgyajurvedās trayī)
@@ -183,9 +170,7 @@ Gambar: Dewa Kāma = kāmadeva = ⟪कामदेव⟫, abad ke-18
    (Setelah Kauṭilīya-arthaśāstra 1.2.1.)
    ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
 
----
-
-## 5.6. Latihan Ulang
+## 5.6. Latihan Tinjauan
 
 **A) Terjemahkanlah:**
 
@@ -217,4 +202,3 @@ sāmargyajurvedās trayī.
 **D) Terjemahkan ke dalam bahasa Sanskerta dengan dua cara (sekali dengan kompositum, sekali tanpa):**
 
 "Verweilungszustände Brahmas" sind: freundliches Wohlwollen, Mitgefühl, Mitfreude, Gleichmut.
-

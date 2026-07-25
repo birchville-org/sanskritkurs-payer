@@ -1,5 +1,5 @@
 ---
-title: "Pelajaran 2"
+title: Lektion 2
 subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
 lesson_id: 2
 category: "Grammatik"
@@ -7,10 +7,7 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-
-
 # Pelajaran 2
-
 
 ## 2.1. Kalimat Nominal
 
@@ -27,19 +24,18 @@ Meskipun dalam Sanskrit urutan kalimat cukup bebas (terutama dalam ayat), penerj
 
 Dalam kalimat nominal, subjek berada dalam Nominatif (kasus pertama = **prathamā** f. = ⟪प्रथमा⟫). Predikat nomina sejajar dengan subjek dalam jumlah dan kasus; jika predikat nomina adalah kata sifat, juga dalam jenis kelamin.
 
-
-## 2.2. Tentang Deklinasi (Pembentukan Nomina)
+## 2.2. Tentang Deklinasi (Infleksi Nomina)
 
 Dalam Sanskrit terdapat:
 
 - **tiga Numeri** (bentuk bilangan) = **vacana** n. -- ⟪वचन⟫
-- Singular (tunggal) = **ekavacana** n. -- ⟪एकवचन⟫
-- Dual (duaan) = **dvivacana** n. -- ⟪द्विवचन⟫
-- Plural (jamak) = **bahuvacana** n. -- ⟪बहुवचन⟫
+  - Singular (tunggal) = **ekavacana** n. -- ⟪एकवचन⟫
+  - Dual (duaan) = **dvivacana** n. -- ⟪द्विवचन⟫
+  - Plural (jamak) = **bahuvacana** n. -- ⟪बहुवचन⟫
 - **tiga Genera** (jenis kelamin tata bahasa) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
-- Maskulinum (laki-laki) = **puṃs** m. -- ⟪पुंस्⟫
-- Femininum (perempuan) = **strī** f. -- ⟪स्त्री⟫
-- Neutrum (netral) = **napuṃsaka** n. -- ⟪नपुंसक⟫
+  - Maskulinum (laki-laki) = **puṃs** m. -- ⟪पुंस्⟫
+  - Femininum (perempuan) = **strī** f. -- ⟪स्त्री⟫
+  - Neutrum (netral) = **napuṃsaka** n. -- ⟪नपुंसक⟫
 - **delapan Kasus** (kasus) = **sup** -- ⟪सुप्⟫ (= akhiran kasus)
 
 Untuk deklinasi, akhiran kasus (**sup** = ⟪सुप्⟫) ditambahkan pada apa yang disebut **stam nomina** (bentuk nomina tanpa akhiran kasus).
@@ -51,15 +47,14 @@ Dalam kamus Sanskrit, nomina dicantumkan dalam **stam nomina**:
 - **vacana** n. -- ⟪वचन⟫ n. (neutrum)
 - **vyakti** f. -- ⟪व्यक्ति⟫ f. (femininum)
 
-
-## 2.3. Nominatif Singular
+## 2.3. Nominativus Singular
 
 **Nominatif Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
 ::: grammar-box
 **Nominatif Singular berakhir dengan -s = -⟪स्⟫ atau bebas akhiran.**
 :::
-### 2.3.1. Nominatif Singular dengan akhiran -s
+### 2.3.1. Nominativ Singular auf -s
 
 Stam nomina berikut, yang berakhir dengan vokal, membentuk Nominatif Singular dengan **-s**:
 
@@ -73,19 +68,11 @@ Stam nomina berikut, yang berakhir dengan vokal, membentuk Nominatif Singular de
 
 Akhiran sebuah kata dalam Sanskrit juga diatur oleh awalan kata berikutnya. Fenomena ini disebut **Sandhi** (m.) = ⟪सन्धि⟫ ("penyatuan").
 
-### 2.4.1. Sandhi dari akhiran -s
+### 2.4.1. Sandhi Akhiran -s
 
 Lihat juga ringkasan:
 
 > **Payer, Alois \&lt;1944 - \&gt;:** Sandhi dari akhiran -s. -- (Materi tentang Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
-
-Akhiran **-s**:
-
-- **dalam akhir absolut** (akhir kalimat) berubah menjadi **Visarga (-ḥ)**:
-- **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
-- **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
-- **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
-
 
 Auslautendes **-s**:
 
@@ -94,13 +81,13 @@ Auslautendes **-s**:
   - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
   - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
-- **vor stimmlosen Lauten**:
-  - vor **k, kh, p, ph** und **ś, ṣ, s**: wird zu **Visarga (-ḥ)**
-    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva ist ein Gott")
-  - vor **c, ch**: wird zu **-ś**
-  - vor **ṭ, ṭh**: wird zu **-ṣ**
-  - vor **t, th**: bleibt **-s**
-    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya ist ein Heiliger")
+- **sebelum bunyi tak bersuara**:
+  - sebelum **k, kh, p, ph** dan **ś, ṣ, s**: menjadi **Visarga (-ḥ)**
+    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva adalah seorang dewa")
+  - sebelum **c, ch**: menjadi **-ś**
+  - sebelum **ṭ, ṭh**: menjadi **-ṣ**
+  - sebelum **t, th**: tetap **-s**
+    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya adalah seorang suci")
 
 - **sebelum bunyi bersuara**:
   - setelah vokal bukan-a: berubah menjadi **-r**
@@ -114,9 +101,7 @@ Auslautendes **-s**:
     - sebelum vokal lain: berubah menjadi **-a** (Hiatus)
       - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
 
----
-
-## 2.5. Daftar Kosakata
+## 2.5. Daftar Kata
 
 **deva** m. -- ⟪देव⟫ : Yang Surgawi, Dewa; Pangeran, Raja.
 
@@ -130,9 +115,7 @@ Auslautendes **-s**:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (kasta pelayan).
 
-
-
-::: tip Empat kasta (varna)
+::: note-box Die vier Stände (varna)
 Menurut teori klasik (mis. Manusmṛti I, 88-91), tugas-tugas dibagi:
 
 - **para Brahmana**
@@ -158,7 +141,6 @@ Menurut teori klasik (mis. Manusmṛti I, 88-91), tugas-tugas dibagi:
   - studi Veda
 - **para Śūdra**
   - melayani tiga kelas atas
-
 :::
 **dvija** m. -- ⟪द्विज⟫ : "Dua Kali Lahir" (Mereka yang diinisiasi dari tiga kasta atas: Brāhmaṇa, Kṣatriya, Vaiśya).
 
@@ -166,14 +148,10 @@ Menurut teori klasik (mis. Manusmṛti I, 88-91), tugas-tugas dibagi:
 
 Keempat varṇa (m.) sering disamakan dengan kasta. Namun, keempat varṇa — berbeda dengan kasta — bukanlah sesuatu yang secara khusus India; di Eropa pun (sebagian hingga Perang Dunia Pertama) terdapat sistem stratifikasi sosial, sebagaimana dibuktikan oleh gambar berikut dari abad ke-15:
 
-
-
 ::: media
 ![](/images/lekt0201.webp)
 Gambar: Penggambaran pembagian kasta masyarakat Eropa Abad Pertengahan (ukiran kayu dari akhir abad ke-15).
 (Sumber gambar: [Detail](/id/licenses#lekt0201))
-
-
 :::
 **Keterangan:**
 - **Kasta imam** (~Brāhmaṇa): Tu supplex ora = Berdoalah dengan memohon!
@@ -183,8 +161,6 @@ Gambar: Penggambaran pembagian kasta masyarakat Eropa Abad Pertengahan (ukiran k
 Ketiga kasta mengenakan pakaian khas masing-masing kasta. Di atas kasta-kasta — yang dengan demikian disebut sebagai kehendak ilahi — takhta Kristus.
 
 Max Weber \&lt;1864 – 1920\&gt; mendefinisikan Stand sebagai berikut:
-
-
 
 ::: note-box
 "**Stand**" haruslah bermakna suatu kumpulan orang yang, dalam suatu ikatan,
@@ -205,7 +181,6 @@ Sementara kelas-kelas ekonomi tumbuh di atas dasar ekonomi berorientasi pasar, k
 Setiap masyarakat kasta bersifat konvensional, diatur oleh aturan-aturan hidup, sehingga menciptakan kondisi konsumsi yang secara ekonomi irasional dan dengan demikian menghambat pembentukan pasar bebas melalui apropriasi monopoli dan dengan mengecualikan kebebasan untuk mengatur kemampuan penghasilan sendiri.
 
 [**Weber, Max \&lt;1864 – 1920\&gt;:** Ekonomi dan Masyarakat : Kerangka Sosiologi Memahami. – Edisi ke-5, direvisi. – Tübingen : Mohr, 1976. – Hlm. 625 f.]
-
 :::
 Varṇa adalah kasta kelahiran.
 
@@ -213,32 +188,23 @@ Varṇa adalah kasta kelahiran.
 
 **agni** m. -- ⟪अग्नि⟫ : api, dewa Agni.
 
-
-
 ::: media
 ![](/images/lekt0203.jpg)
 Gambar: Dewa Agni, miniatur, abad ke-18.
 (Sumber gambar: [Rincian](/id/licenses#lekt0203))
-
 :::
 **sādhu** 3 -- ⟪साधु⟫ : benar, baik.
 
 **sādhu** m. -- ⟪साधु⟫ : "suci" Pria, Sādhu.
 
-
-
 ::: media
 ![](/images/lekt0202.webp)
 Gambar: Sādhu (⟪साधु⟫), Kuil Pashupatinath, Kathmandu.
 (Sumber gambar: [Rincian](/id/licenses#lekt0202))
-
-
 :::
 **guru** 3 -- ⟪गुरु⟫ : berat, penting, layak disembah
 
 **guru** m. -- ⟪गुरु⟫ : pribadi yang patut disembahkan: ayah, ibu, kerabat yang lebih tua, khususnya guru, master
-
----
 
 ## 2.6. Latihan
 
@@ -268,4 +234,3 @@ Gambar: Sādhu (⟪साधु⟫), Kuil Pashupatinath, Kathmandu.
 7. Dikalungkan dua kali adalah seorang Brahmana.
 8. Pria suci adalah seorang guru.
 9. Guru adalah seorang pria suci.
-

@@ -1,12 +1,12 @@
 ---
-title: "Exercise 55"
+title: "Latihan 55"
 uebung_id: 55
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Lesson 55
+# Latihan 55
 
 Tentukan dan terjemahkan bentuk-bentuk berikut serta bentukkan aorist-a yang sesuai:
 

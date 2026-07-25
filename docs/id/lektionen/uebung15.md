@@ -1,12 +1,12 @@
 ---
-title: "Exercise 15"
+title: "Latihan 15"
 uebung_id: 15
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 15
+# Latihan 15
 
 A) Terjemahkan peribahasa di awal pelajaran
 
@@ -77,7 +77,7 @@ Fig.: ⟪जलेश्वरो⟫ ⟪वरुणः⟫
 :::
 ---
 
-## Additional Exercises
+## Zusätzliche Latihanen
 
 Resolve the following compounds as Tatpuruṣa in Sanskrit and provide a German translation. Provide all resolutions and translations that seem possible to you. Also indicate which case and number the entire compound represents.
 

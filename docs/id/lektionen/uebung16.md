@@ -1,12 +1,12 @@
 ---
-title: "Exercise 16"
+title: "Latihan 16"
 uebung_id: 16
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 16
+# Latihan 16
 
 A) Convert the following expressions into Tatpuruṣa compounds and translate them:
 
@@ -83,7 +83,7 @@ Fig.: ⟪न⟫ ⟪पशुयज्ञैर्नराः⟫ ⟪स्वर
 :::
 ---
 
-## Declension Patterns
+## Deklinationsmuster
 
 A) Bentukkan semua kasus yang telah dipelajari sebelumnya untuk kata-kata berikut sebagai contoh dari kelas-kelas deklinasi yang telah dipelajari sejauh ini.
 
@@ -221,7 +221,7 @@ A) Bentukkan semua kasus yang telah dipelajari sebelumnya untuk kata-kata beriku
 :::
 ---
 
-## Additional Exercises
+## Zusätzliche Latihanen
 
 B) Translate and resolve all compounds in Sanskrit:
 

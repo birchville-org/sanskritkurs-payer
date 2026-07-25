@@ -1,19 +1,19 @@
 ---
-title: Lesson 21
-subtitle: "Further Present Stems on -nt"
+title: Lektion 21
+subtitle: "Weitere Präsensstämme auf -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 21
+# Pelajaran 21
 
-## 21.1. Further Present Stems in -nt
+## 21.1. Weitere Presentstämme auf -nt
 
-### 21.1.1. Present Participle (⟪लडादेशः⟫) Parasmaipada
+### 21.1.1. Partisip Present (⟪लडादेशः⟫) Parasmaipada
 
-::: grammar-box  
+::: grammar-box
 Partisip ini adalah bentuk nomina yang berasal dari batang kata sekarang, yaitu partisip sejati. Ini adalah kata sifat yang menunjukkan bahwa seseorang atau sesuatu sedang melakukan apa yang dinyatakan oleh akar verbal (+ awalan) sementara hal lain terjadi. Keadaan permanen juga dapat dinyatakan dengannya.
 
 **Examples:**
@@ -25,14 +25,14 @@ Partisip ini adalah bentuk nomina yang berasal dari batang kata sekarang, yaitu 
 :::
 ::: grammar-box
 
-| **Pembentukan Partisip Sekarang Parasmaipada untuk akar present tematik:** |||
+| **Pembentukan des Partizip Present Parasmaipada zu thematischen Presentstämmen:** |||
 | :--- | :--- | :--- |
-| **Maskulin, Neuter** | | |
-| | **bentuk kuat** | akar present + **-nt-** |
-| | **bentuk lemah** | akar present + **-t-** |
+| **Maskulin, Netral** | | |
+| | **starker Batang** | Batang Present + **-nt-** |
+| | **schwacher Batang** | Batang Present + **-t-** |
 | **Feminin** | | |
-| | | akar present + **-nt-** + **-ī** (fleksi seperti **devī**:br⟪देवी⟫) |
-| | **kelas present ke-6** | akar present + **-nt-** + **-ī**:bror::brakar present + **-t-** + **-ī** |
+| | | Batang Present + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | **6. Presentklasse** | Batang Present + **-nt-** + **-ī** :broder::brBatang Present + **-t-** + **-ī** |
 
 :::
 Examples:
@@ -44,16 +44,16 @@ Examples:
 :::
 ::: grammar-box
 
-| | | Masculine:br⟪पुंस्⟫ | Neuter:br⟪नपुंसक⟫ | Feminine:br⟪स्त्री⟫ |
+| | | Maskulin:br⟪पुंस्⟫ | Netral:br⟪नपुंसक⟫ | Feminin:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**:br⟪एकवचन⟫ | **1. Nominative**:br⟪प्रथमा⟫ | **⟪यजन्⟫**:brfrom yaja-nt-s | **⟪यजत्⟫**:bryaja-t-Ø | **⟪यजन्ती⟫**:bryaja-ant-ī |
-| | **2. Accusative**:br⟪द्वितीया⟫ | **⟪यजन्तम्⟫**:bryaja-nt-am | **⟪यजत्⟫** | like **devī**:br⟪देवी⟫ |
-| | **3. Instrumental**:br⟪तृतीया⟫ | **⟪यजता⟫**:bryaja-t-ā | **⟪यजता⟫** | |
-| | **6. Genitive**:br⟪षष्ठी⟫ | **⟪यजतस्⟫**:bryaja-t-as | **⟪यजतस्⟫** | |
-| **Plural**:br⟪बहुवचन⟫ | **1. Nominative**:br⟪प्रथमा⟫ | **⟪यजन्तस्⟫**:bryaja-nt-as | **⟪यजन्ति⟫**:bryaja-nt-i | |
-| | **2. Accusative**:br⟪द्वितीया⟫ | **⟪यजतस्⟫**:bryaja-t-as | **⟪यजन्ति⟫** | |
-| | **3. Instrumental**:br⟪तृतीया⟫ | **⟪यजद्भिस्⟫**:brfrom yaja-t-bhis | **⟪यजद्भिस्⟫** | |
-| | **6. Genitive**:br⟪षष्ठी⟫ | **⟪यजताम्⟫**:bryaja-t-ām | **⟪यजताम्⟫** | |
+| **Tunggal** :br⟪एकवचन⟫ | **1. Nominatif** :br⟪प्रथमा⟫ | ⟪यजन्⟫ :braus yaja-nt-s | ⟪यजत्⟫ :bryaja-t-Ø | ⟪यजन्ती⟫ :bryaja-ant-ī |
+| | **2. Akusatif** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | wie **devī** :br⟪देवी⟫ |
+| | **3. Instrumental** :br⟪तृतीया⟫ | ⟪यजता⟫ :bryaja-t-ā | ⟪यजता⟫ | |
+| | **6. Genitif** :br⟪षष्ठी⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजतस्⟫ | |
+| **Jamak** :br⟪बहुवचन⟫ | **1. Nominatif** :br⟪प्रथमा⟫ | ⟪यजन्तस्⟫ :bryaja-nt-as | ⟪यजन्ति⟫ :bryaja-nt-i | |
+| | **2. Akusatif** :br⟪द्वितीया⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजन्ति⟫ | |
+| | **3. Instrumental** :br⟪तृतीया⟫ | ⟪यजद्भिस्⟫ :braus yaja-t-bhis | ⟪यजद्भिस्⟫ | |
+| | **6. Genitif** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | |
 
 :::
 Perhatikan kesamaan **⟪यजन्ति⟫** (Nom. jamak Neuter) dengan bentuk orang ketiga jamak!
@@ -78,13 +78,13 @@ Perhatikan kesamaan **⟪यजन्ति⟫** (Nom. jamak Neuter) dengan bent
 :::
 ::: grammar-box
 
-| **Pembentukan Partisip Sekarang Parasmaipada untuk akar present athematic (kecuali kelas 3 present):** |||
+| **Pembentukan des Partizip Present Parasmaipada zu athematischen Presentstämmen (ausser 3. Presentklasse):** |||
 | :--- | :--- | :--- |
-| **Maskulin, Neuter** | | |
-| | **bentuk kuat** | bentuk present + **-ant-** |
-| | **bentuk lemah** | bentuk present + **-at-**:br(Bunyi akhir dari bentuk present lemah sama seperti sebelum plural ke-3 P.) |
+| **Maskulin, Netral** | | |
+| | **starker Batang** | Batang Present + **-ant-** |
+| | **schwacher Batang** | Batang Present + **-at-** :br(Der Auslaut des schwachen Batang Presentes lautet gleich wie vor der 3. Plur. P.) |
 | **Feminin** | | |
-| | | bentuk present + **-at-** + **-ī** (deklinsi seperti **devī**:br⟪देवी⟫) |
+| | | Batang Present + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
 
 :::
 2\. Present class:
@@ -94,16 +94,16 @@ Perhatikan kesamaan **⟪यजन्ति⟫** (Nom. jamak Neuter) dengan bent
 :::
 ::: grammar-box
 
-| | | Masculine:br⟪पुंस्⟫ | Neuter:br⟪नपुंसक⟫ | Feminine:br⟪स्त्री⟫ |
+| | | Maskulin:br⟪पुंस्⟫ | Netral:br⟪नपुंसक⟫ | Feminin:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**:br⟪एकवचन⟫ | **1. Nominative**:br⟪प्रथमा⟫ | **⟪सन्⟫**:brfrom s-ant-s | **⟪सत्⟫**:brs-at-Ø | **⟪सती⟫**:brs-at-ī |
-| | **2. Accusative**:br⟪द्वितीया⟫ | **⟪सन्तम्⟫**:brs-ant-am | **⟪सत्⟫** | like **devī**:br⟪देवी⟫ |
-| | **3. Instrumental**:br⟪तृतीया⟫ | **⟪सता⟫**:brs-at-ā | **⟪सता⟫** | |
-| | **6. Genitive**:br⟪षष्ठी⟫ | **⟪सतस्⟫**:brs-at-as | **⟪सतस्⟫** | |
-| **Plural**:br⟪बहुवचन⟫ | **1. Nominative**:br⟪प्रथमा⟫ | **⟪सन्तस्⟫**:brs-ant-as | **⟪सन्ति⟫**:brs-ant-i | |
-| | **2. Accusative**:br⟪द्वितीया⟫ | **⟪सतस्⟫**:brs-at-as | **⟪सन्ति⟫** | |
-| | **3. Instrumental**:br⟪तृतीया⟫ | **⟪सद्भिस्⟫**:brfrom s-at-bhis | **⟪सद्भिस्⟫** | |
-| | **6. Genitive**:br⟪षष्ठी⟫ | **⟪सताम्⟫**:brs-at-ām | **⟪सताम्⟫** | |
+| **Tunggal** :br⟪एकवचन⟫ | **1. Nominatif** :br⟪प्रथमा⟫ | ⟪सन्⟫ :braus s-ant-s | ⟪सत्⟫ :brs-at-Ø | ⟪सती⟫ :brs-at-ī |
+| | **2. Akusatif** :br⟪द्वितीया⟫ | ⟪सन्तम्⟫ :brs-ant-am | ⟪सत्⟫ | wie **devī** :br⟪देवी⟫ |
+| | **3. Instrumental** :br⟪तृतीया⟫ | ⟪सता⟫ :brs-at-ā | ⟪सता⟫ | |
+| | **6. Genitif** :br⟪षष्ठी⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सतस्⟫ | |
+| **Jamak** :br⟪बहुवचन⟫ | **1. Nominatif** :br⟪प्रथमा⟫ | ⟪सन्तस्⟫ :brs-ant-as | ⟪सन्ति⟫ :brs-ant-i | |
+| | **2. Akusatif** :br⟪द्वितीया⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सन्ति⟫ | |
+| | **3. Instrumental** :br⟪तृतीया⟫ | ⟪सद्भिस्⟫ :braus s-at-bhis | ⟪सद्भिस्⟫ | |
+| | **6. Genitif** :br⟪षष्ठी⟫ | ⟪सताम्⟫ :brs-at-ām | ⟪सताम्⟫ | |
 
 :::
 ::: indent
@@ -133,31 +133,31 @@ Fig.: ⟪सती⟫-plakat peringatan
 *   Neuter Nom. Acc. sg. **⟪कुर्वत्⟫**
 *   Feminine Nom. sg. **⟪कुर्वती⟫**
 :::
-### 21.1.2. ⟪महान्त्⟫ "great"
+### 21.1.2. ⟪महान्त्⟫ "gross"
 
 ::: no-header
 
 | | | |
 | :--- | :--- | :--- |
-| **Masculine, Neuter** | | |
-| | **strong stem** | **⟪महान्त्⟫** |
-| | **weak stem** | **⟪महत्⟫** |
+| **Maskulin, Netral** | | |
+| | **starker Batang** | ⟪महान्त्⟫ |
+| | **schwacher Batang** | ⟪महत्⟫ |
 | **Feminine** | | |
-| | | **⟪महती⟫**:brlike **devī**:br⟪देवी⟫ |
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
 
 :::
 ::: grammar-box
 
-| | | Masculine:br⟪पुंस्⟫ | Neuter:br⟪नपुंसक⟫ | Feminine:br⟪स्त्री⟫ |
+| | | Maskulin:br⟪पुंस्⟫ | Netral:br⟪नपुंसक⟫ | Feminin:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**:br⟪एकवचन⟫ | **1. Nominative**:br⟪प्रथमा⟫ | **⟪महान्⟫**:brfrom mahānt-s | **⟪महत्⟫**:brmahat-Ø | **⟪महती⟫**:brmahat-ī |
-| | **2. Accusative**:br⟪द्वितीया⟫ | **⟪महान्तम्⟫**:brmahānt-am | **⟪महत्⟫** | like **devī**:br⟪देवी⟫ |
-| | **3. Instrumental**:br⟪तृतीया⟫ | **⟪महता⟫**:brmahat-ā | **⟪महता⟫** | |
-| | **6. Genitive**:br⟪षष्ठी⟫ | **⟪महतस्⟫**:brmahat-as | **⟪महतस्⟫** | |
-| **Plural**:br⟪बहुवचन⟫ | **1. Nominative**:br⟪प्रथमा⟫ | **⟪महान्तस्⟫**:brmahānt-as | **⟪महान्ति⟫**:brmahānt-i | |
-| | **2. Accusative**:br⟪द्वितीया⟫ | **⟪महतस्⟫**:brmahat-as | **⟪महान्ति⟫** | |
-| | **3. Instrumental**:br⟪तृतीया⟫ | **⟪महद्भिस्⟫**:brfrom mahat-bhis | **⟪महद्भिस्⟫** | |
-| | **6. Genitive**:br⟪षष्ठी⟫ | **⟪महताम्⟫**:brmahat-ām | **⟪महताम्⟫** | |
+| **Tunggal** :br⟪एकवचन⟫ | **1. Nominatif** :br⟪प्रथमा⟫ | ⟪महान्⟫ :braus mahānt-s | ⟪महत्⟫ :brmahat-Ø | ⟪महती⟫ :brmahat-ī |
+| | **2. Akusatif** :br⟪द्वितीया⟫ | ⟪महान्तम्⟫ :brmahānt-am | ⟪महत्⟫ | wie **devī** :br⟪देवी⟫ |
+| | **3. Instrumental** :br⟪तृतीया⟫ | ⟪महता⟫ :brmahat-ā | ⟪महता⟫ | |
+| | **6. Genitif** :br⟪षष्ठी⟫ | ⟪महतस्⟫ :brmahat-as | ⟪महतस्⟫ | |
+| **Jamak** :br⟪बहुवचन⟫ | **1. Nominatif** :br⟪प्रथमा⟫ | ⟪महान्तस्⟫ :brmahānt-as | ⟪महान्ति⟫ :brmahānt-i | |
+| | **2. Akusatif** :br⟪द्वितीया⟫ | ⟪महतस्⟫ :brmahat-as | ⟪महान्ति⟫ | |
+| | **3. Instrumental** :br⟪तृतीया⟫ | ⟪महद्भिस्⟫ :braus mahat-bhis | ⟪महद्भिस्⟫ | |
+| | **6. Genitif** :br⟪षष्ठी⟫ | ⟪महताम्⟫ :brmahat-ām | ⟪महताम्⟫ | |
 
 :::
 ::: grammar-box
@@ -169,17 +169,18 @@ Fig.: ⟪सती⟫-plakat peringatan
 ::: indent
 **⟪महादेव⟫** "dewa agung" (mis. ⟪शिव⟫)  
 **⟪महादेवी⟫** "dewi agung, istri utama seorang raja (⟪देव⟫)"
-:::: media
+:::
+::: media
 ![](/images/lekt2102.webp)
 Fig.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 "Segel Sardonyx abad ke-4–ke-6 Masehi yang menggambarkan Wisnu bersama seorang pemuja. Prasasti dalam bahasa Baktria tulisan sambung berbunyi: 'Mihira, Wisnu, dan Siwa'."
 (Sumber gambar: [Rincian](/en/licenses#lekt2102))
-::::
 :::
+
 ::: indent
 "Segel Sardonyx abad ke-4–ke-6 Masehi yang menggambarkan Wisnu bersama seorang pemuja. Prasasti dalam bahasa Baktria tulisan sambung berbunyi: 'Mihira, Wisnu, dan Siwa'."
 :::
-## 21.2. Sandhi untuk nasal akhir
+## 21.2. Sandhi untuk nasal akhiran
 
 ::: grammar-box
 **After a short vowel, final nasals – except -m – are doubled before an initial vowel.**
@@ -190,7 +191,7 @@ Fig.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 ::: indent
 **⟪जयन्⟫ + ⟪अरिः⟫** » **⟪जयन्नरिः⟫** "the conquering enemy"
 :::
-## 21.3. Polite Forms of Address
+## 21.3. Höfliche Formen  Anrede
 
 ::: grammar-box
 **Dalam bahasa Sanskerta, seseorang dapat menyapa orang lain dalam bentuk tunggal kedua tanpa dianggap tidak sopan. Namun, jika ingin bersikap sopan, seseorang dapat menggunakan kata benda yang berarti "Yang Terhormat" atau sejenisnya, dan menempatkan kata kerja dalam bentuk tunggal ketiga atau jamak ketiga, atau menggunakan konstruksi pasif. Peningkatan tingkat kesopanan dalam penggunaan orang saat menyapa kira-kira sebagai berikut:**
@@ -240,13 +241,14 @@ derived from:
 **⟪भाग⟫ m.:** berbagi, bagian
 **⟪भग⟫ m.:** (bagian) baik, nasib, kesejahteraan, martabat
 **⟪भगवन्त्⟫ 3:** memiliki nasib, memiliki martabat (epitet dari ⟪विष्णु⟫ – ⟪कृष्ण⟫)
-:::: media
+:::
+::: media
 ![](/images/lekt2103.webp)
 Fig.: ⟪भगवान्कृष्णः⟫
 ⟪भगवान्कृष्णः⟫ sebagai ⟪जगन्नाथ⟫ (kanan) dengan saudara perempuan seperdadanya ⟪सुभद्रा⟫ (tengah) dan kakaknya ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
 (Sumber gambar: [Details](/en/licenses#lekt2103))
-::::
 :::
+
 ::: indent
 **⟪भगवद्गीता⟫ f.:** "Lagu (⟪गीता⟫) dari yang Bermartabat (⟪कृष्ण⟫)"
 :::
@@ -256,6 +258,7 @@ Fig.: ⟪भगवद्गीता⟫
 ⟪भगवद्गीता⟫ - Naskah, abad ke-19.
 (Sumber gambar: [Details](/en/licenses#lekt2105))
 :::
+
 ::: indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (sebenarnya bentuk desideratif dari ⟪भज्⟫: ingin berpartisipasi): memohon
 :::
@@ -263,12 +266,12 @@ berasal dari:
 
 ::: indent
 **⟪भिक्षु⟫ m.:** pengemis, biksu
-:::: media
+:::
+::: media
 ![](/images/lekt2104.webp)
 Fig.: ⟪भिक्षवः⟫
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (Sumber gambar: [Details](/en/licenses#lekt2104))
-::::
 :::
 **⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** merusak (intransitif), menjadi buruk, dipermalukan
 
@@ -277,7 +280,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 :::
 **⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (no PPP, instead ⟪पक्व⟫ 3: cooked, fermented) Absol. ⟪पक्त्वा⟫ :** to cook (transitive) = to boil, roast, toast, etc.
 
-## 21.5. Exercise
+## 21.5. Latihan
 
 A) Translate the following compounds:
 

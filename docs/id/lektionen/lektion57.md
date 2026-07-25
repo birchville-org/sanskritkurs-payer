@@ -1,15 +1,15 @@
 ---
-title: Lesson 57
+title: Lektion 57
 subtitle: "Aorist 4: s-Aorist"
 lesson_id: 57
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 57
+# Pelajaran 57
 
-## 57.1. Aoris 4: s-Aoris
+## 57.1. Aorist 4: s-Aorist
 
 ::: grammar-box
 **S-aorist dibentuk untuk sebagian besar akar ⟪अनिट्⟫, asalkan mereka tidak secara eksklusif memiliki bentuk aorist lain. Akar ⟪अनिट्⟫ opsional umumnya dapat secara opsional membentuk ini atau iṣ-aorist. Juga akar ⟪अनिट्⟫ yang membentuk ⟪परस्मैपद⟫ setelah bentuk ke-1, ke-2 atau ke-6 dari aorist membentuk ⟪आत्मनेपद⟫ sesuai dengan s-aorist.**
@@ -20,9 +20,9 @@ Table of endings with stem-forming suffix
 
 ::: grammar-box
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | -sam | -sma | -si | -smahi |
 | **2. ⟪द्वितीयः⟫** | **-sīs** | -sta | -sthās | **-dhvam** |
 | **3. ⟪प्रथमः⟫** | **-sīt** | -sur | -sta | -sata |
@@ -47,6 +47,13 @@ Selain itu, aturan bunyi untuk penggabungan konsonan akhir dengan s- harus diper
 
 For -dhvam applies:
 
+::: grammar-box
+**Awalan -dh- dari -dhvam digantikan oleh -ḍh- setelah semua vokal bukan-a/ā serta setelah -r.**
+
+:::
+::: indent
+mis. sig[⟪चि⟫] 5U: pl.2.Ā sig[⟪अचेढ्वम्⟫]
+:::
 ::: grammar-box
 **Form of the root:**
 
@@ -74,7 +81,7 @@ Examples:
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
 |   | **sg.Ā** |
-| ⟪दा⟫ 3U | ⟪अदिषि⟫:br**⟪अदिथास्⟫**:br**⟪अदित⟫** |
+| ⟪दा⟫ 3U | ⟪अदिषि⟫:br ⟪अदिथास्⟫ :br ⟪अदित⟫ |
 |   | **1.sg.Ā** |
 | ⟪कृ⟫ 8U | ⟪अकृषि⟫ |
 | ⟪पच्⟫ 1U | ⟪अपक्षि⟫ |
@@ -95,10 +102,9 @@ Paradigms:
 
 ⟪नी⟫ 1U "lead"
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
-
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अनैषम्⟫ | ⟪अनैष्म⟫ | ⟪अनेषि⟫ | ⟪अनेष्महि⟫ |
 | **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫***⟪ढ्वम्⟫*** |
 | **3. ⟪प्रथमः⟫** | ⟪अनैषीत्⟫ | ⟪अनैषुर्⟫ | ⟪नेष्ट⟫ | ⟪अनेषत⟫ |
@@ -110,20 +116,20 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 :::
 ⟪कृ⟫ 8U "to do"
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अकार्षम्⟫ | ⟪अकार्ष्म⟫ | ⟪अकृषि⟫ | ⟪अकृष्महि⟫ |
 | **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | ***⟪अकृथास्⟫*** | ⟪अकृढ्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | ***⟪अकृत⟫*** | ⟪अकृषत⟫ |
 
 ⟪तुद्⟫ 6U "to strike"
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अतौत्सम्⟫ | ⟪अतौत्स्म⟫ | ⟪अतुत्सि⟫ | ⟪अतुत्स्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अतौत्सीस्⟫ | ⟪अतौत्त⟫:brfrom: a-taut + s + ta | ⟪अतुत्थास्⟫ | ⟪अतुद्ध्वम्⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अतौत्सीस्⟫ | ⟪अतौत्त⟫:braus: a-taut + s + ta | ⟪अतुत्थास्⟫ | ⟪अतुद्ध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अतौत्सीत्⟫ | ⟪अतौत्सुर्⟫ | ⟪अतुत्त⟫ | ⟪अतुत्सत⟫ |
 
 ::: grammar-box
@@ -134,10 +140,10 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 **Selain itu, untuk ⟪गम्⟫ terdapat bentuk-bentuk tingkat lemah yang reguler:**
 **⟪अगसि⟫ (« \*a-gm-si) ⟪।⟫ ⟪अगथास्⟫ ⟪।⟫ ⟪अगत⟫ (dalam P, ⟪गम्⟫ memiliki aorist tematik)**
 
-2. ⟪पद्⟫ 4Ā adalah reguler (mis. ⟪अपत्सि⟫), tetapi dalam 3.sg.Ā ia memiliki bentuk aorist akar pasif:
+2.  ⟪पद्⟫ 4Ā adalah reguler (mis. ⟪अपत्सि⟫), tetapi dalam 3.sg.Ā ia memiliki bentuk aorist akar pasif:
 ⟪अपादि⟫ "ia pergi"
 
-3. ⟪बुध्⟫ Ā secara opsional dapat mengambil bentuk aorist akar pasif dalam 3.sg.Ā:
+3.  ⟪बुध्⟫ Ā secara opsional dapat mengambil bentuk aorist akar pasif dalam 3.sg.Ā:
 ⟪अबोधि⟫ / ⟪अबुद्ध⟫ "ia mengenali"
 :::
 ## 57.2. Latihan

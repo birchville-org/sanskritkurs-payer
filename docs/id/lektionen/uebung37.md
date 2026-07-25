@@ -1,12 +1,12 @@
 ---
-title: "Exercise 37"
+title: "Latihan 37"
 uebung_id: 37
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Lesson 37
+# Latihan 37
 
 A) Answer the following questions in Sanskrit using the words specified in parentheses:
 
@@ -79,7 +79,7 @@ A) Answer the following questions in Sanskrit using the words specified in paren
 
 ---
 
-## Interrogative Sentences
+## Interrogativsätze
 
 B) Translate:
 
@@ -97,7 +97,7 @@ Has the Śūdra perhaps borne the burden?
 
 ---
 
-## Avyayībhāva (Indeclinable Compounds)
+## Avyayībhāva (Indeklinable Komposita)
 
 C) Determine and translate the following compounds:
 
@@ -127,7 +127,7 @@ Fig.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सु�
 :::
 ---
 
-## Perfect Naratif (Kisah Orang Tua)
+## Perfekt Naratif (Cerita tentang Orang Tua)
 
 Translate into Sanskrit, using exclusively perfect tense verb forms:
 

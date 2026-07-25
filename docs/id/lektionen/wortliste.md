@@ -732,7 +732,7 @@ iva (postposed): as if, like (in comparisons: vyāghra iva puruṣaḥ = “a ma
 
 eva (postposed): menekankan kata sebelumnya, sering kali sesuai dengan penekanan dalam bahasa Jerman, semacam emotikon `\&lt;!&gt;`, misalnya, satyameva jayati “kebenaran saja menang,” “kebenaran secara spesifik menang,” “kebenaran menang”
 
-ari m.: enemy (according to Thieme, Der Fremdling im Ṛgveda: originally = stranger)
+ari m.: musuh (menurut Thieme, Orang Asing dalam Ṛgveda: asalnya = orang asing)
 
 ::: indent
 ārya 3: Aryan, noble ; m. Aryan (self-designation of Sanskrit-speaking ancient Indians, literally: hospitable (Thieme)) ; noble person, gentleman
@@ -742,7 +742,7 @@ to jan
 ::: indent
 jāti f.: birth, kind, caste (on jāti as caste, see Basham, Wonder, pp. 148ff.)
 :::
-mṛ 4 Ā mriyate ; Pass. mriyate ; PPP mṛta : die (according to Indian grammarians: 6 Ā)
+mṛ 4 Ā mriyate ; Pass. mriyate ; PPP mṛta : mati (according to Indian grammarians: 6 Ā)
 
 from this:
 
@@ -4140,17 +4140,17 @@ PPP ⟪विपरीत⟫ 3: wrong, incorrect
 ⟪त्रि⟫ 3: three
 
 ::: grammar-box
-| | **Maskulin:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** |
+| | **Maskulin:br⟪पुंस्⟫** | **Netral:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
-| **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **1. Nominatif:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **2. Akusatif:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
 | **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
-| **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
-| **6. Genitiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
-| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
+| **4. Datif:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **5. Ablatif:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
+| **6. Genitif:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
+| **7. Lokatif:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
-⟪निस्⟫ Postposition und Präfix mit Substantiven und Verben: aus, fort, hinaus, heraus, weg, ohne - von
+⟪निस्⟫ Postposisi dan prefiks dengan nomina dan verba: dari, pergi, keluar, tanpa - dari
 
 ⟪पीड्⟫ 10P ⟪पीडयति⟫ : press, torment; harass, besiege, plague
 

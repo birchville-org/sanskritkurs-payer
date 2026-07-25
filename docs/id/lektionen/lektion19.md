@@ -1,23 +1,22 @@
 ---
-title: Lesson 19
+title: Lektion 19
 lesson_id: 19
 ---
 
-# Lesson 19
+# Pelajaran 19
 
-## 19.1. The Relative Clause
+## 19.1. Kalimat Relatif
 
 ::: grammar-box
 
 **Schema:**
 
-:::
-::: indent
 **Kata Ganti Relatif -- Klausa Relatif, yang berisi kata benda yang menjadi rujukan klausa relatif -- (Kata Ganti Penunjuk) -- Klausa Utama**
-:::
+
 **Klausa relatif juga dapat mengikuti klausa utama, tetapi tidak dapat disisipkan ke dalam klausa utama.**
 
 **Kata ganti relatif dan rujukannya, yang berbeda dengan bahasa Jerman, berada di dalam klausa relatif, berada pada kasus yang secara sintaksis diperlukan oleh klausa relatif. Kata ganti penunjuk berada pada kasus yang secara sintaksis diperlukan oleh klausa utama.**
+:::
 
 Contoh-contoh:
 
@@ -51,30 +50,30 @@ Catatan: Dalam klausa relatif yang berlaku umum, optatif sering digunakan sebaga
 **6. Kata ganti relatif dan rujukan berada dalam akusatif (⟪द्वितीया⟫):**
 
 ::: indent
-⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = "A man whom the goddess protects attains happiness."
+⟪यं⟫ ⟪नरं⟫ ⟪देवी⟫ ⟪रक्षति⟫ ⟪स⟫ ⟪सुखमाप्नोति⟫ = "Seorang pria yang dilindungi oleh sang dewi mencapai kebahagiaan."
 :::
-## 19.2. The Relative Pronoun = ⟪व्यपेक्षकसर्वनाम⟫ n.
+## 19.2. Pronomina Relatif = ⟪व्यपेक्षकसर्वनाम⟫ n.
 
 ::: grammar-box
 
 **⟪यद्⟫ "who, which, that" declined like ⟪तद्⟫, but with regular Sandhi.**
 
-| | | **Masculine**:br**⟪पुंस्⟫** | **Neuter**:br**⟪नपुंसक⟫** | **Feminine**:br**⟪स्त्री⟫** |
+| | | **Maskulin** :br ⟪पुंस्⟫ | **Netral** :br ⟪नपुंसक⟫ | **Feminin** :br ⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**:br**⟪एकवचन⟫** | **1. Nominative**:br**⟪प्रथमा⟫** | **yas**:br**⟪यस्⟫** | **yad**:br**⟪यद्⟫** | **yā**:br**⟪या⟫** |
-| | **2. Accusative**:br**⟪द्वितीया⟫** | **yam**:br**⟪यम्⟫** | **yad**:br**⟪यद्⟫** | **yām**:br**⟪याम्⟫** |
-| | **3. Instrumental**:br**⟪तृतीया⟫** | **yena**:br**⟪येन⟫** | **yena**:br**⟪येन⟫** | **yayā**:br**⟪यया⟫** |
-| | **6. Genitive**:br**⟪षष्ठी⟫** | **yasya**:br**⟪यस्य⟫** | **yasya**:br**⟪यस्य⟫** | **yasyās**:br**⟪यस्यास्⟫** |
-| | | | | |
-| **Plural**:br**⟪बहुवचन⟫** | **1. Nominative**:br**⟪प्रथमा⟫** | **ye**:br**⟪ये⟫** | **yāni**:br**⟪यानि⟫** | **yās**:br**⟪यास्⟫** |
-| | **2. Accusative**:br**⟪द्वितीया⟫** | **yān**:br**⟪यान्⟫** | **yāni**:br**⟪यानि⟫** | **yās**:br**⟪यास्⟫** |
-| | **3. Instrumental**:br**⟪तृतीया⟫** | **yais**:br**⟪यैस्⟫** | **yais**:br**⟪यैस्⟫** | **yābhis**:br**⟪याभिस्⟫** |
-| | **6. Genitive**:br**⟪षष्ठी⟫** | **yeṣām**:br**⟪येषाम्⟫** | **yeṣām**:br**⟪येषाम्⟫** | **yāsām**:br**⟪यासाम्⟫** |
+| **Tunggal** :br ⟪एकवचन⟫ | **1. Nominatif** :br ⟪प्रथमा⟫ | **yas** :br ⟪यस्⟫ | **yad** :br ⟪यद्⟫ | **yā** :br ⟪या⟫ |
+| | **2. Akusatif** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |
+| | **3. Instrumental** :br ⟪तृतीया⟫ | **yena** :br ⟪येन⟫ | **yena** :br ⟪येन⟫ | **yayā** :br ⟪यया⟫ |
+| | **6. Genitif** :br ⟪षष्ठी⟫ | **yasya** :br ⟪यस्य⟫ | **yasya** :br ⟪यस्य⟫ | **yasyās** :br ⟪यस्यास्⟫ |
+| **Jamak** :br ⟪बहुवचन⟫ | **1. Nominatif** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| | **2. Akusatif** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| | **3. Instrumental** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
+| | **6. Genitif** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
 
 **Sebagai anggota pertama dari kata majemuk, bentuk dasar ⟪यद्⟫ muncul (dengan memperhatikan Sandhi).**
 
 :::
-## 19.3. Word List
+
+## 19.3. Daftar Kata
 
 **⟪अर्थ⟫ m.:** tujuan, sasaran, makna (sebuah kata), kekayaan, harta, rejeki. **⟪अर्थम्⟫** (Akk.), **⟪अर्थेन⟫** (Instr.) dengan Gen. atau sebagai anggota kedua dari Tatpuruṣa: demi ..., agar.
 
@@ -86,12 +85,12 @@ Catatan: Dalam klausa relatif yang berlaku umum, optatif sering digunakan sebaga
 **⟪अर्थ⟫ m.:** purposeful behavior, attainment of prosperity
 
 **⟪काम⟫ m.:** sensual pleasure, esp. also in the sexual sphere
-:::: media
+:::
+::: media
 ![](/images/lekt1809.webp)
 Fig.: ⟪कामः⟫
 Illustration for ⟪कामसूत्र⟫
 (Image source: [Details](/en/licenses#lekt1809))
-::::
 :::
 **⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** berdiri, tinggal, bertahan, berada. (Secara tradisional dihitung di antara kelas konjugasi ke-1, meskipun ini adalah kelas present tematik reduplikatif, seperti ⟪पा⟫ 1 ⟪पिबति⟫)
 
@@ -112,12 +111,12 @@ from **⟪स्था⟫** :
 **⟪धनगर्भ⟫ 3:** "whose interior is money = in which money is located"
 
 **⟪गर्भगृह⟫ n.:** ruang terdalam kuil Hindu, yang berisi gambar dewa terpenting kuil tersebut (untuk konstruksi kuil Hindu lihat: Volwahsen, A.: India : Bangunan Hindu, Buddha dan Jain. -- München, 1968)
-:::: media
+:::
+::: media
 ![](/images/lekt1901.webp)
 Fig.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
 (Sumber gambar: [Details](/en/licenses#lekt1901))
-::::
 :::
 **⟪वारिद⟫ m.:** pemercik air = awan hujan
 
@@ -174,21 +173,19 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 
 **⟪हि⟫ :** untuk, karena memang (tidak boleh berada di awal kalimat)
 
-
-
-## 19.4. Exercise
+## 19.4. Latihan
 
 **Translate into Sanskrit:**
 
-1. The Vaiśya woman, whose son has died, weeps.
+The Vaiśya woman, whose son has died, weeps.
 
-2. Rāma sacrifices to the deity who protects him.
+Rāma sacrifices to the deity who protects him.
 
-3. The poet praises the Kṣatriya, whose wealth he desires.
+The poet praises the Kṣatriya, whose wealth he desires.
 
-4. Api membakar rumah orang yang tidak menghormati Agni dengan korban.
+Api membakar rumah orang yang tidak menghormati Agni dengan korban.
 
-5. The tiger-like man kills the Kṣatriya warriors who have defeated Rāma (Passive).
+The tiger-like man kills the Kṣatriya warriors who have defeated Rāma (Passive).
 
 ## 19.5. ⟪सुभाषितानि⟫
 
@@ -215,17 +212,15 @@ Penjelasan: ⟪यथाकालम्⟫ Majemuk Avyayībhāva: pada waktu yan
 ⟪स⟫ ⟪पुत्रो⟫ ⟪यस्तु⟫ ⟪जीवति⟫ ⟪।⟫  
 ⟪स⟫ ⟪जीवति⟫ ⟪गुणो⟫ ⟪यस्य⟫  
 ⟪धर्मो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪जीवति⟫ ⟪॥३॥⟫
-:::: indent
+
 ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫  
 ⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫
-::::
 :::
 Penjelasan: ⟪पुमान्⟫ Nom. sg. dari ⟪पुंस्⟫ "man" ; ⟪लोके⟫ Lokatif sg. dari ⟪लोक⟫ m.: di dalam ...
 
 ::: deleteme-box
-
 
 **lekt1809:** Illustration for ⟪कामसूत्र⟫ [Image source: Wikipedia, Public domain]
 

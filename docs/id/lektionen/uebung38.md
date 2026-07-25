@@ -1,12 +1,12 @@
 ---
-title: "Exercise 38"
+title: "Latihan 38"
 uebung_id: 38
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 38
+# Latihan 38
 
 A) Sisipkan bentuk yang sesuai dari kata-kata dalam kurung pada kalimat berikut dan terjemahkan:
 
@@ -63,7 +63,7 @@ Fig.: ⟪राज्ञे⟫ ⟪बलिनो⟫ ⟪हस्तिनो⟫
 :::
 ---
 
-## Narrative: Ten Fools (⟪दश⟫ ⟪मूढाः⟫)
+## Erzählung: Zehn Toren (⟪दश⟫ ⟪मूढाः⟫)
 
 ⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ — ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ ⟪बाहुभ्यां⟫ ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 

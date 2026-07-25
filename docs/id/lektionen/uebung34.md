@@ -1,12 +1,12 @@
 ---
-title: "Exercise 34"
+title: "Latihan 34"
 uebung_id: 34
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Lesson 34
+# Latihan 34
 
 [A) Bentuklah bentuk-bentuk kala sempurna yang sesuai dalam orang, jumlah, dan genus verbi untuk bentuk kata kerja berikut:]
 

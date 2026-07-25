@@ -1,12 +1,12 @@
 ---
-title: "Exercise 56"
+title: "Latihan 56"
 uebung_id: 56
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 56
+# Latihan 56
 
 Determine and translate the following forms:
 

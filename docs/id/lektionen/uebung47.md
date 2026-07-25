@@ -1,12 +1,12 @@
 ---
-title: "Exercise 47"
+title: "Latihan 47"
 uebung_id: 47
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 47
+# Latihan 47
 
 A) Translate:
 
@@ -45,7 +45,7 @@ Noble lady, your humiliation shall not be reported to Lord Rāma.
 
 ---
 
-## Translations into Sanskrit (Imperative)
+## Übersetzungen ins Sanskrit (Imperatif)
 
 B) Translate into Sanskrit using the Imperative:
 
@@ -107,7 +107,7 @@ He shall be liberated!
 I wish to protect your wife.
 
 ⟪२०⟫. **⟪शत्रो⟫ ⟪म्रियस्व⟫ ⟪॥⟫ ⟪२०⟫ ⟪॥⟫**
-Die, enemy!
+Matilah, musuh
 
 ⟪२१⟫. **⟪युध्यध्वम्⟫ ⟪॥⟫ ⟪२१⟫ ⟪॥⟫**
 Fight!

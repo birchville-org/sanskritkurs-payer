@@ -1,12 +1,12 @@
 ---
-title: "Exercise 54"
+title: "Latihan 54"
 uebung_id: 54
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 54
+# Latihan 54
 
 [B0] Bentukkan bentuk Aorist yang sesuai untuk bentuk Present atau Perfect berikut:
 

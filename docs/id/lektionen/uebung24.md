@@ -1,12 +1,12 @@
 ---
-title: "Exercise 24"
+title: "Latihan 24"
 uebung_id: 24
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 24
+# Latihan 24
 
 A) Bentuklah Dativus Singularis dan Dativus (atau Ablativus) Pluralis serta berikan makna dari stem nomina:
 
@@ -77,7 +77,7 @@ In order to be liberated, insightful ones wish to attain liberating insight.
 Para dewa marah kepada para Brahmin ini, yang tidak memberikan penghormatan kepada mereka.
 
 ⟪९⟫. **⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫ ⟪॥९॥⟫**
-To die, beings are born.
+Untuk mati, makhluk-makhluk dilahirkan.
 
 ::: media
 ![](/images/uebung037.webp)
@@ -86,7 +86,7 @@ Fig.: ⟪मरणाय⟫ ⟪जना⟫ ⟪जायन्ते⟫
 :::
 ---
 
-## Syntactic Variations
+## Syntaktische Variationen
 
 C) In sentences B) 1–4, replace the Datives with Infinitives (**⟪तुमुन्⟫**):
 
@@ -106,7 +106,7 @@ E) In sentence B) 6, replace the Dative with a construction using **-⟪अर�
 
 ---
 
-## Additional Translation Exercises
+## Zusätzliche Latihan Penerjemahanen
 
 1. Dewi, yang tidak diberi persembahan, menjadi marah kepada manusia.
 **⟪अनिष्टदेवी⟫ ⟪नरेभ्यः⟫ ⟪क्रुध्यति⟫ ⟪।⟫ (atau: ⟪कुप्यति⟫ ⟪॥⟫)**

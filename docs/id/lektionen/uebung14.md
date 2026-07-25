@@ -1,12 +1,12 @@
 ---
-title: "Exercise 14"
+title: "Latihan 14"
 uebung_id: 14
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 14
+# Latihan 14
 
 Translate the following proverbs and memorize them:
 

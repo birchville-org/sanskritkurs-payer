@@ -1,12 +1,12 @@
 ---
-title: "Exercise 27"
+title: "Latihan 27"
 uebung_id: 27
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 27
+# Latihan 27
 
 [A] Sisipkan ekspresi dalam kurung ke dalam kalimat-kalimat berikut dalam lokatif (⟪सप्तमी⟫) tunggal dan — jika sesuai — jamak.
 

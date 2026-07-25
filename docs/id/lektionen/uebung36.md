@@ -1,12 +1,12 @@
 ---
-title: "Exercise 36"
+title: "Latihan 36"
 uebung_id: 36
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 36
+# Latihan 36
 
 A) Bentuklah bentuk sempurna yang diduplikasi dan periphrastic untuk bentuk-bentuk berikut:
 
@@ -47,7 +47,7 @@ C) Bentuklah sempurna yang sesuai untuk bentuk-bentuk berikut:
 :::
 ---
 
-## Translations
+## Übersetzungen
 
 ⟪१⟫. **⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫ ⟪।⟫ ⟪बुद्ध्यार्यसत्यानि⟫ ⟪प्रज्ञाय⟫ ⟪प्रज्ञया⟫ ⟪च⟫ ⟪दुःखान्मुक्तो⟫ ⟪मोक्तुकामार्यजनान्बोधयामासेति⟫ ⟪भिक्षव⟫ ⟪आहुः⟫ ⟪॥१॥⟫**
 Ketika seorang putra lahir baginya, Yang Tercahaya meninggalkan keluarga dan harta benda serta keluar dari rumah menuju kehidupan tanpa rumah. Ia memahami Kebenaran Mulia dengan pikirannya, terbebas dari penderitaan melalui pemahaman itu, dan membimbing orang-orang mulia yang menginginkan pembebasan menuju wawasan — demikian melaporkan para bhikkhu.
@@ -81,12 +81,12 @@ Fig.: ⟪विद्ययैव⟫ ⟪जीवितुं⟫ ⟪न⟫ ⟪�
 **⟪अनादृतास्तु⟫ ⟪यस्यैते⟫ ⟪सर्वास्तस्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫**
 Dengan itu yang memuaskan ayahnya, Sang Pencipta puas; dengan itu yang memuaskan ibunya, Bumi dihormati; dengan itu yang memuaskan guru, Veda dihormati. Siapa pun yang menghormati ketiga hal ini menghormati semua peraturan; siapa pun yang tidak menghormati mereka, semua tindakan mereka sia-sia.
 
-### ⟪२⟫. **⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫** (Perilaku terhadap Orang Tua)
+### ⟪२⟫. **⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫** (Verhalten gegenüber Alten)
 **⟪अभिवादयेद्वृद्धांश्च⟫ ⟪दद्याच्चैवासनं⟫ ⟪स्वकम्⟫ ⟪।⟫**  
 **⟪कृताञ्जलिरुपासीत⟫ ⟪गच्छतः⟫ ⟪पृष्ठतो⟫ ⟪ऽन्वियात्⟫ ⟪॥⟫**  
 Seseorang harus menyapa orang tua dengan bentuk yang tepat, menyerahkan tempat duduknya kepada mereka, dan berdiri dengan tangan terlipat di hadapan mereka. Ketika seorang orang tua pergi, seseorang harus mengikuti mereka.
 
-### ⟪३⟫. **⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫** (Pengendalian Indra)
+### ⟪३⟫. **⟪मनुस्मृति⟫ ⟪२⟫.⟪९८⟫** (Beherrschung  Sinne)
 **⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫**  
 **⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ⟪विज्ञेयो⟫ ⟪जितेन्द्रियः⟫ ⟪॥⟫**  
 Jika seorang pria tidak bersukacita maupun bersedih, apakah dia mendengar, menyentuh, melihat, mengecap, atau mencium, maka dia dianggap sebagai orang yang telah menaklukkan indranya (**⟪जितेन्द्रियः⟫**).
@@ -98,7 +98,7 @@ Fig.: ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ �
 :::
 ---
 
-## Word Form Determination
+## Wortformbestimmung
 
 Determine and translate the following word forms:
 

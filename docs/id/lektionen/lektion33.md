@@ -1,12 +1,12 @@
 ---
-title: Lesson 33
+title: Lektion 33
 lesson_id: 33
 status: stable
 ---
 
-# Lesson 33
+# Pelajaran 33
 
-## 33.1. Reduplication (⟪अभ्यास⟫ m.)
+## 33.1. Reduplikasi (⟪अभ्यास⟫ m.)
 
 * Kelas ketiga kini
 * (serta beberapa kata kerja dari kelas sekarang lainnya),
@@ -19,7 +19,7 @@ dibentuk melalui reduplikasi. Bagian dari bentuk yang direduplikasi yang mendahu
 
 Silabel reduplicasi terdiri dari (konsonan dan) vokal.
 
-### 33.1.1. The Reduplicating Consonant
+### 33.1.1. Konsonan Reduplikasi
 
 ::: grammar-box
 **1. Generally:**  
@@ -73,10 +73,10 @@ Contoh:
 Contoh:
 
 ::: indent
-**⟪स्था⟫** 1 "to stand"
+**⟪स्था⟫** 1 "berdiri"
 * 3.sg.P.Ind.Pres. **⟪तिष्ठति⟫**
 :::
-## 33.2. Kelas Ketiga Kini (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ dkk.")
+## 33.2. Kelas Present Ketiga (⟪जुहोत्यादि⟫ = "⟪जुहोति⟫ dst.")
 
 ::: grammar-box
 **Formation:**
@@ -89,7 +89,7 @@ Contoh:
 
 **Aturan untuk konsonan reduplikasi yang diberikan di atas berlaku.**
 :::
-### 33.2.1. Reduplikasi Vokal dari Kelas Ketiga Sekarang
+### 33.2.1. Vokal Reduplikasi Kelas 3 Present
 
 ::: grammar-box
 * **The regular reduplicating vowel is -i-**
@@ -104,13 +104,13 @@ Contoh:
 * **batang kuat:** ⟪जुहो⟫
 * **batang lemah:** ⟪जुहु⟫
 
-| | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| | 3. tunggal P. | 3. jamak P. | 3. tunggal Ā. | 3. jamak Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indicative Present** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:br(juhu + ati) | \&lt;⟪जुहुते⟫\&gt; | \&lt;⟪जुह्वते⟫\&gt;:br(juhu + ate) |
-| **Imperfect** | ⟪अजुहोत्⟫:br(a-juho-t) | ⟪जुहवुर्⟫:br(a-juho + ur) | \&lt;⟪अजुहुत⟫\&gt; | \&lt;⟪अजुह्वत⟫\&gt;:br(a-juhu + ata) |
-| **Optative** | ⟪जुहुयात्⟫:br(juhu-yā-t) | ⟪जुहुयुर्⟫:br(juhu-y-ur) | \&lt;⟪जुह्वीत⟫\&gt;:br(juhu + ī-ta) | \&lt;⟪जुह्वीरन्⟫\&gt;:br(juhu + ī-ran) |
+| **Indikativ Present** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
+| **Imperfek** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
+| **Optatif** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
-## 33.3. On the Ablaut of ā
+## 33.3. Mengenai Ablaut dari ā
 
 ā can
 
@@ -133,7 +133,7 @@ The two most important ablaut series of the ā-group are:
 Juga termasuk di sini adalah, misalnya:
 
 ::: indent
-**⟪स्था⟫** 1
+⟪स्था⟫ 1
 * PPP **⟪स्थित⟫** (sthi-ta)
 * 3.sg.P.Fut. **⟪स्थास्यति⟫** (sthā-sya-ti)
 :::
@@ -145,7 +145,7 @@ Juga termasuk di sini adalah, misalnya:
 * **Strong grade: -ā-**  
   e.g. **⟪पा⟫** 1: Inf. **⟪पातुम्⟫**
 :::
-## 33.4. Akar yang berakhir dengan -ā dari kelas ketiga kini
+## 33.4. Wurzeln auf -ā  dritten Presentklasse
 
 ::: grammar-box
 **Akar yang berakhir dengan -ā (kecuali ⟪दा⟫ dan ⟪धा⟫) biasanya menunjukkan bentuk batang yang berakhir dengan -ī- dalam batang lemah** (lihat Thumb-Hauschild Vol. 1,1 hlm. 271. Kemungkinan bahwa seri ablaut B yang disebutkan di atas berfungsi sebagai model di sini, meskipun akar-akar ini sebaliknya mengikuti seri A), **sebelum akhiran vokalik vokal akar menghilang sepenuhnya (lihat seri ablaut A).**
@@ -157,20 +157,20 @@ Contoh:
 
 | | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- |
-| **Indicative Present** | ⟪मिमीते⟫:br(mimī-te) | ⟪मिमते⟫:br(mim-ate) |
+| **Indikativ Present** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
 | **Imperfect** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ |
-| **Optative** | ⟪मिमीत⟫:br(mim-ī-ta !) | ⟪मिमीरन्⟫:br(mim-ī-ran) |
+| **Optative** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
 :::
 ::: grammar-box
 **⟪हा⟫** 3P "to leave"
 
-| | 3. sg. P. | 3. pl. P. |
+| | 3. org. tunggal | 3. org. jamak |
 | :--- | :--- | :--- |
-| **Indicative Present** | ⟪जहाति⟫ | ⟪जहति⟫:br(jah-ati) |
-| **Imperfect** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
-| **Optatif** | ⟪जह्यात्⟫:br(jah-yā-t):br(Akar **⟪हा⟫** memiliki bentuk yang sama sebelum optatif -yā/-y seperti sebelum vokal!) | ⟪जह्युर्⟫:br(jah-y-ur) |
+| **Indikativ Present** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
+| **Imperfek** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
+| **Optatif** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Akar ⟪हा⟫ hat vor dem Optatif-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Akar **⟪दा⟫** dan **⟪धा⟫**
+### 33.4.1. Akar-akar ⟪दा⟫ dan ⟪धा⟫
 
 ::: grammar-box
 **Akar ⟪दा⟫ dan⟪धा⟫ direduplikasi dengan vokal -a- dan kehilangan vokal akar dalam batang lemah.**
@@ -182,9 +182,9 @@ Contoh:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indikatif Sekarang** | ⟪दधाति⟫ | ⟪दधति⟫:br(dadh-ati) | ⟪धत्ते⟫:br(dadh-te):br(Penjelasan: Thumb-Hauschild 1,1 hlm. 302f.) | ⟪दधते⟫:br(dadh-ate) |
-| **Imperfectum** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:br(a + dadh + ta) | ⟪अदधत⟫ |
-| **Optatif** | ⟪दध्यात्⟫:br(dadh-yā-t) | ⟪दध्युर्⟫ | ⟪दधीत⟫:br(dadh-ī-ta) | ⟪दधीरन्⟫ |
+| **Indikativ Present** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Penjelasan: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate |
+| **Imperfectum** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
+| **Optatif** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
 Bentuk-bentuk **⟪दा⟫** diperoleh dengan mengganti **dh** dengan **d** dalam paradigma **⟪धा⟫**. Dengan demikian:
 
@@ -193,11 +193,11 @@ Bentuk-bentuk **⟪दा⟫** diperoleh dengan mengganti **dh** dengan **d** da
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indicative Present** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
-| **Imperfect** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
-| **Optative** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
+| **Indikativ Present** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
+| **Imperfectum** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
+| **Optatif** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
 :::
-## 33.5. Partisipel Aktif Kini dari Akar-akar Kelas Ketiga Kini
+## 33.5. Partisip Kini Parasmaipada Akar-akar kata Kelas Kini ke-3
 
 ::: grammar-box
 **Verba dari kelas ketiga membentuk semua bentuk Partisipel Aktif Kini dari batang lemah.**
@@ -207,18 +207,18 @@ Bentuk-bentuk **⟪दा⟫** diperoleh dengan mengganti **dh** dengan **d** da
 **⟪दा⟫** Present Active Participle:
 
 ::: grammar-box
-| | Masculine:br⟪पुंल्लिङ्ग⟫ | Neuter:br⟪नपुंसकलिङ्ग⟫ | Feminine:br⟪स्त्रीलिङ्ग⟫ |
+| | Maskulin:br⟪पुंल्लिङ्ग⟫ | Netral:br⟪नपुंसकलिङ्ग⟫ | Feminin:br⟪स्त्रीलिङ्ग⟫ |
 | :--- | :--- | :--- | :--- |
 | **Singular** | | | |
-| **1. Nominative** | ⟪ददत्⟫:br(dad-at + s) | ⟪ददत्⟫:br(dad-at-Ø) | ⟪ददती⟫ |
-| **2. Accusative** | ⟪ददतम्⟫:br(dad-at-am) | ⟪ददत्⟫ | |
+| **1. Nominatif** | ⟪ददत्⟫:brdad-at + s | ⟪ददत्⟫:brdad-at-Ø | ⟪ददती⟫ |
+| **2. Akusatif** | ⟪ददतम्⟫:brdad-at-am | ⟪ददत्⟫ | |
 | **Plural** | | | |
-| **1. Nominative** | ⟪ददतस्⟫ | ⟪ददति⟫:br(dad-at-i):br⟪ददन्ति⟫:br(dad-ant-i) | |
-| **2. Accusative** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
+| **1. Nominatif** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
+| **2. Akusatif** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
 :::
 Similarly **⟪जुह्वत्⟫** (juhu-at + s)
 
-## 33.6. Word List
+## 33.6. Daftar Kata
 
 **⟪दा⟫** 3U **⟪ददाति⟫**: to give
 
@@ -232,21 +232,21 @@ Similarly **⟪जुह्वत्⟫** (juhu-at + s)
 derived from this:
 
 **⟪दान⟫** n.: memberikan, hadiah, kedermawanan
-:::: media
+:::
+::: media
 ![](/images/lekt3306.webp)
 Fig.: ⟪दानम्⟫
 (Sumber gambar: [Details](/en/licenses#lekt3306))
-::::
 :::
 **⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: mengambil (ke dalam penerimaan), menguasai, membawa serta
 
 ::: indent
 **Absol.** ⟪आदाय⟫: dengan Akk.: dalam perusahaan, bersama
-:::: media
+:::
+::: media
 ![](/images/lekt3307.webp)
 Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Sumber gambar: [Details](/en/licenses#lekt3307))
-::::
 :::
 ***⟪धा⟫*** 3U ***⟪दधाति⟫***: menempatkan, memperbaiki, mengalokasikan
 
@@ -263,11 +263,11 @@ Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 derived from this:
 
 **⟪समाधि⟫** m.: inner concentration, highest attention
-:::: media
+:::
+::: media
 ![](/images/lekt3305.webp)
 Fig.: ⟪समाधि⟫
 (Image source: [Details](/en/licenses#lekt3305))
-::::
 :::
 **⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: to fill, to fulfill
 
@@ -297,11 +297,11 @@ Note:
 derived from this:
 
 **⟪भय⟫** n.: ketakutan, kekhawatiran; bahaya (aspek subjektif dan objektif)
-:::: media
+:::
+::: media
 ![](/images/lekt3304.webp)
 Fig.: ⟪भयम्⟫
 (Sumber gambar: [Details](/en/licenses#lekt3304))
-::::
 :::
 **⟪भृ⟫** 3U **⟪बिभर्ति⟫**: membawa; menopang, memberi makan
 
@@ -345,11 +345,11 @@ derived from this:
 from PPP **⟪हीन⟫**:
 
 **⟪हीनयान⟫** n.: kendaraan yang kurang (dari Buddhisme): istilah derogatori yang digunakan oleh pendukung "Kendaraan Agung", yaitu **⟪महायान⟫**; jalan yang kurang (**⟪यान⟫** dari **⟪या⟫** 2: untuk pergi, untuk bepergian). Istilah ⟪हीनयान⟫ tidak boleh lagi digunakan. Bentuk yang tersisa dari Buddhisme kuno disebut **⟪थेरवाद⟫**.
-:::: media
+:::
+::: media
 ![](/images/lekt3303.webp)
 Fig.: ⟪हीनयानमेव⟫
 (Sumber gambar: [Details](/en/licenses#lekt3303))
-::::
 :::
 **⟪हु⟫** 3P **⟪जुहोति⟫**: menuangkan ke dalam api (sebagai persembahan, khususnya mentega cair)
 
@@ -359,12 +359,11 @@ Fig.: ⟪हीनयानमेव⟫
 **Kaus.** ⟪हावयति⟫  
 **PPP** ⟪हुत⟫  
 **Inf.** ⟪होतुम्⟫
-:::: media
+:::
+::: media
 ![](/images/lekt3302.webp)
 Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 (Image source: [Details](/en/licenses#lekt3302))
-
-::::
 :::
 **⟪घृत⟫** n.: Clarified butter, Ghee (⟪घी⟫ / گھی / ঘী)
 
@@ -373,7 +372,7 @@ Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 
 [Source: http://en.wikipedia.org/wiki/Ghee. -- Accessed on 2008-12-26]
 :::
-## 33.7. Exercise
+## 33.7. Latihan
 
 A) Sisipkan bentuk yang sesuai dari kata-kata dalam kurung ke dalam pola kalimat berikut:
 
@@ -418,7 +417,7 @@ Fig.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्र�
 
 ⟪मितमतयो⟫ ⟪नरकभयात्स्वर्गलोभाच्च⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪पापं⟫ ⟪च⟫ ⟪जहति⟫ ⟪।⟫ ⟪अमितप्रज्ञाबुद्धा⟫ ⟪हि⟫ ⟪नरकेभ्यो⟫ ⟪न⟫ ⟪बिभीयुः⟫ ⟪स्वर्गांश्च⟫ ⟪न⟫ ⟪लुभ्येयुः⟫ ⟪।⟫ ⟪ते⟫ ⟪भयं⟫ ⟪च⟫ ⟪लोभं⟫ ⟪चारुन्धन्⟫ ⟪॥७॥⟫
 
-### Sources
+::: deleteme-box
 
 **Ghee Definition & Details:**
 * Source: http://en.wikipedia.org/wiki/Ghee (Accessed: 2008-12-26)
@@ -431,3 +430,4 @@ Fig.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्र�
 * **Fig. lekt3303 (Hinayana Thailand):** Image source: grrrrl (http://www.flickr.com/photos/11619899@N00/867938692/, Accessed on 2008-12-26). Creative Commons License (Attribution, Non-commercial).
 * **Fig. lekt3302 (Yajna, Shiva Ashram, Ganeshpuri):** Image source: Dey (http://www.flickr.com/photos/dey/466758922/, Accessed on 2008-12-26). Creative Commons License (Attribution, Non-commercial, Share Alike).
 * **Fig. lekt3308 (woman carrier, Delhi):** Image source: Ondrej Jaura (http://www.flickr.com/photos/ondrejj/2073900069/, Accessed on 2008-12-27). Creative Commons License (Attribution, Non-commercial, No Derivative Works).
+:::

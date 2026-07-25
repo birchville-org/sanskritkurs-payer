@@ -1,12 +1,12 @@
 ---
-title: "Exercise 41"
+title: "Latihan 41"
 uebung_id: 41
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 41
+# Latihan 41
 
 A) Terjemahkan dua peribahasa di awal pelajaran:
 
@@ -20,14 +20,14 @@ Pengajaran bagi orang bodoh menimbulkan kebencian, bukan kedamaian. Minum susu o
 
 ---
 
-## Practice Texts
+## Latihanstexte
 
 B) Translate:
 
 ⟪१⟫. **⟪बुद्धं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪धर्मं⟫ ⟪शरणं⟫ ⟪गच्छामि⟫ ⟪सङ्घं⟫ ⟪शरणं⟫ ⟪गच्छामीति⟫ ⟪बुद्धगतैर्वक्तव्यम्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
 "Saya berlindung kepada Buddha, saya berlindung kepada Dharma, saya berlindung kepada Sangha" — hal ini harus diucapkan oleh mereka yang telah pergi kepada Buddha.
 
-### Sidebar: Tiga Perlindungan
+### Ekskursus: Tiga Perlindungan
 Pelarian tiga kali ini sangat penting untuk memiliki motivasi dan ketekunan yang diperlukan di jalan menuju pembebasan. Karena ada banyak guru kebijaksanaan, mustahil untuk mengikuti masing-masing dari mereka secara individual. Seseorang harus membuat pilihan. Kepribadian seorang guru harus tampak dapat dipercaya (**Perlindungan kepada Buddha**).
 
 Poin utamanya, bagaimanapun, bukan kepribadian pembebas, tetapi doktrin pembebasan, yang memungkinkan individu untuk berjalan di jalan mereka sendiri. Seseorang harus begitu yakin oleh ajaran sehingga mengeluarkan energi untuk mengujinya atas nilai kebenarannya (**Perlindungan kepada Dharma**).

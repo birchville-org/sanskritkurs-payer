@@ -1,12 +1,12 @@
 ---
-title: "Exercise 4"
+title: "Latihan 4"
 uebung_id: 4
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 4
+# Latihan 4
 
 A) Ajukan pertanyaan lisan menggunakan kata-kata berikut sesuai dengan pola viṣṇuḥ kaḥ (⟪विष्णुः⟩ ⟪कः⟩) dan jawab pertanyaan-pertanyaan tersebut dalam bahasa Sanskerta:
 

@@ -1,12 +1,12 @@
 ---
-title: "Exercise 7"
+title: "Latihan 7"
 uebung_id: 7
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 7
+# Latihan 7
 
 [A) Masukkan dalam setiap kasus bentuk tunggal dan jamak (jika bukan nama diri) objek langsung atau akusatif arah:]
 

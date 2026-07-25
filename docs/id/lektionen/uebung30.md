@@ -1,12 +1,12 @@
 ---
-title: "Exercise 30"
+title: "Latihan 30"
 uebung_id: 30
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 30
+# Latihan 30
 
 A) Ubah bentuk-bentuk verbal berikut ke dalam bentuk optatif yang sesuai mengenai orang, jumlah, dan genus verbi:
 
@@ -98,7 +98,7 @@ Setelah menyadari bahwa penderitaan timbul dari keserakahan akan makanan, ia tid
 
 ⟪५⟫. **⟪क्रयेण⟫ ⟪च⟫ ⟪विक्रयेण⟫ ⟪च⟫ ⟪वैश्या⟫ ⟪जीवेयुरिति⟫ ⟪वैश्यधर्मः⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪वैश्यपुत्राः⟫ ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫ ⟪॥५॥⟫**
 (⟪वैश्यानां⟫ ⟪पुत्राः⟫)
-Pflicht der Vaiśyas ist es, von Kauf und Verkauf zu leben. Deshalb kaufen und verkaufen Vaiśyas.
+Kewajiban para Vaiśya adalah hidup dari jual beli. Oleh karena itu, para Vaiśya melakukan jual beli.
 
 ⟪६⟫. **⟪कृतपापो⟫ ⟪नरश्चेन्नरके⟫ ⟪पापात्पूतः⟫ ⟪स्यात्पुनर्भवं⟫ ⟪गच्छेत्⟫ ⟪॥६॥⟫**
 (⟪कृतं⟫ ⟪पापं⟫ ⟪येन⟫ ⟪सः⟫ ⟪।⟫ ⟪पुनर्भव⟫ — ⟪पुनः⟫ ⟪भवति⟫ ⟪इति⟫)
@@ -123,7 +123,7 @@ Fig.: ⟪श्रीमोहनभोपेन⟫ ⟪रावणहस्त�
 :::
 ---
 
-## Word-form determination
+## Wortformbestimmung
 
 Determine and translate the following word forms:
 

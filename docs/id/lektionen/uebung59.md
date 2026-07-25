@@ -1,12 +1,12 @@
 ---
-title: "Exercise 59"
+title: "Latihan 59"
 uebung_id: 59
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 59
+# Latihan 59
 
 ::: media
 ![](/images/uebung098.webp)
@@ -15,7 +15,7 @@ Fig.: ⟪रावणः⟫
 :::
 ---
 
-## A) Text Analysis
+## A) Textanalyse
 
 Translate the following text and identify all verbal forms occurring within it.
 

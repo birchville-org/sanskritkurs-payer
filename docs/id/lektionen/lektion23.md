@@ -1,15 +1,15 @@
 ---
-title: Lesson 23
-subtitle: "The Infinitive (⟪तुमुन्⟫)"
+title: Lektion 23
+subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 23
+# Pelajaran 23
 
-## 23.1. The Infinitive (⟪तुमुन्⟫)
+## 23.1. Infinitif (⟪तुमुन्⟫)
 
 ::: grammar-box
 **Jika seseorang ingin menyatakan dalam bahasa Sanskerta bahwa suatu tindakan dilakukan demi tindakan lain ("agar"), maka dapat menggunakan infinitif (⟪तुमुन्⟫) untuk tindakan yang menjadi tujuan. Infinitif terutama menyatakan maksud atau niat:**
@@ -51,7 +51,7 @@ e.g.
 
 > ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "seseorang yang keinginannya adalah berbicara; seseorang yang ingin berbicara".
 :::
-## 23.2. Pembentukan Infinitif (⟪तुमुन्⟫)
+## 23.2. Bildung  Infinitif (⟪तुमुन्⟫)
 
 ::: grammar-box
 **guṇa-grade root + -tum**
@@ -88,7 +88,7 @@ Among the roots learned so far, the following infinitives deserve particular att
 :::
 Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
-## 23.3. Infinitif (⟪तुमुन्⟫) untuk akar kata yang telah dipelajari sejauh ini
+## 23.3. Infinitif (⟪तुमुन्⟫) untuk akar-akar kata yang telah dipelajari sejauh ini
 
 ⟪अद्⟫ 2P ⟪अत्तुम्⟫  
 ⟪अश्⟫ 5Ā ⟪अशितुम्⟫ ⟪।⟫ ⟪अष्टुम्⟫  
@@ -151,7 +151,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 ⟪स्मृ⟫ 1P ⟪स्मर्तुम्⟫  
 ⟪हन्⟫ 2P ⟪हन्तुम्⟫
 
-## 23.4. Word List
+## 23.4. Daftar Kata
 
 ⟪समान⟫ ⟪३⟫: equal
 
@@ -161,7 +161,7 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 
 ⟪विशेष⟫ m.: particularity, specification, differentia specifica
 
-## 23.5. Exercise
+## 23.5. Latihan
 
 [A] Akar-akar berikut membentuk infinitiva tanpa vokal penghubung -i-. Bentuklah infinitiva, dengan memperhitungkan perubahan bunyi:
 
@@ -266,7 +266,7 @@ Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
 (Image source: [Details](/en/licenses#lekt2302))
 :::
-## 23.6. Review Exercise
+## 23.6. Latihan Tinjauan
 
 Please do not use any aids!
 

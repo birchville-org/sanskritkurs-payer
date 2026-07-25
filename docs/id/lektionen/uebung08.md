@@ -1,12 +1,12 @@
 ---
-title: "Exercise 8"
+title: "Latihan 8"
 uebung_id: 8
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 8
+# Latihan 8
 
 A) Jelaskan kata benda berikut dengan menentukan akar dari mana mereka berasal, dan akhiran nominalnya. Tentukan jenis kelamin dan artinya:
 
@@ -151,7 +151,7 @@ Fig.: ⟪इमे⟫ ⟪योधाः⟫ ⟪किं⟫ ⟪कुर्व�
 :::
 ---
 
-## Reading Exercise
+## Latihan Membaca
 
 1\. ⟪शूद्रो⟫ ⟪बालं⟫ ⟪नयति⟫ |
 The Śūdra leads the boy.

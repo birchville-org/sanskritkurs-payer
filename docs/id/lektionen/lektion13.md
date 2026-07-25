@@ -1,5 +1,5 @@
 ---
-title: "# Pelajaran 13"
+title: Lektion 13
 subtitle: "PPP auf -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
@@ -7,12 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-
-
 # Pelajaran 13
 
-
-## 13.1. PPP pada -na-
+## 13.1. PPP auf -na-
 
 Tidak ada aturan tetap yang dapat ditetapkan untuk distribusi PPP pada -ta- atau -na-. Namun:
 
@@ -25,7 +22,7 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 :::
 
-## 13.2. Lebih lanjut mengenai penggunaan PPP
+## 13.2. Informasi lebih lanjut tentang penggunaan PPP
 
 ::: grammar-box
 
@@ -56,7 +53,7 @@ misalnya:
 ⟪नृत्त⟫ n.: "tarian, tari"
 :::
 
-## 13.3. Penentuan atributif kata benda (susunan kata)
+## 13.3. Keterangan atributif pada nomina (Posisi kata)
 
 ::: grammar-box
 
@@ -69,7 +66,7 @@ Contoh:
 ⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Seorang orang suci melihat buah yang diinginkan (hasil perbuatannya)."
 :::
 
-## 13.4. Pembentukan kata sifat pada -mant dan -vant (taddhita)
+## 13.4. Pembentukan Kata Sifat dengan Akhiran -mant dan -vant (taddhita)
 
 ::: grammar-box
 
@@ -86,7 +83,7 @@ Contoh:
 ⟪गुणवन्त्⟫ "memiliki sifat baik / kebajikan"
 :::
 
-## 13.5. Penurunan akar kata benda
+## 13.5. Gradasi Dasar Kata Benda
 
 Kata dasar pada -mant atau -vant termasuk ke dalam kata benda dengan penurunan akar.
 
@@ -95,11 +92,10 @@ Untuk kata benda dengan penurunan akar, kita membedakan antara kasus kuat (fall)
 :::
 **Kasus kuat adalah:**
 
-| | Tunggal:br⟪एकवचन⟫ | Ganda:br⟪द्विवचन⟫ | Jamak:br⟪बहुवचन⟫ |
+| | Tunggal:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Jamak:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **Untuk Maskulin dan Feminin** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominatif:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominatif:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominatif:br⟪प्रथमा⟫:br:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
-
-| **Bagi Kata Benda Netral** :br⟪नपुंसक⟫ | — | — | Nominatif:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokatif:br⟪सम्बोधनप्रथमा⟫ |
+| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominatif:br⟪प्रथमा⟫:brAkusatif:br⟪द्वितीया⟫:brVokatif:br⟪सम्बोधनप्रथमा⟫ | Nominatif:br⟪प्रथमा⟫:brAkusatif:br⟪द्वितीया⟫:brVokatif:br⟪सम्बोधनप्रथमा⟫ | Nominatif:br⟪प्रथमा⟫:br:brVokatif:br⟪सम्बोधनप्रथमा⟫ |
+| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominatif:br⟪प्रथमा⟫:brAkusatif:br⟪द्वितीया⟫:brVokatif:br⟪सम्बोधनप्रथमा⟫ |
 
 **Semua kasus lainnya adalah lemah.**
 
@@ -107,7 +103,7 @@ Untuk kata benda dengan penurunan akar, kita membedakan antara kasus kuat (fall)
 Sebagai komponen depan dari sebuah kata majemuk, sebuah kata benda dengan variasi akar berada dalam bentuk lemah (pada kata benda tiga-bentuk, disebut sebagai 'tengah').
 :::
 
-## 13.6. Tentang Wortsandhi (Kombinasi Kata)
+## 13.6. Mengenai Sandhi Kata
 
 Untuk memahami bentuk-bentuk individual dari deklinasi kata benda yang berakhiran -mant dan -vant, hukum-hukum Wortsandhi berikut diperlukan:
 
@@ -127,7 +123,7 @@ Contoh:
 -c + dh- » -g-dh- ⟪ग्ध्⟫
 :::
 
-## 13.7. Akhiran kasus untuk akar konsonan
+## 13.7. Kasusendungen konsonantischer Stämme
 
 ::: grammar-box
 
@@ -138,21 +134,21 @@ Untuk akar yang berakhiran konsonan:
 
 :::
 
-## 13.8. Deklinasi akar pada -mant dan -vant
+## 13.8. Deklination  Stämme auf -mant dan -vant
 
 ::: grammar-box
 
 * bentuk kuat: Kata Benda + -mant- / -vant-
 * bentuk lemah: Kata Benda + -mat- / -vat- (dari: *-mnt- / *-vnt-)
 
-| | | Maskulinum || Netral ||
+| | | Maskulin || Netral ||
 | :--- | :--- | :---: | :---: | :---: | :---: |
-| Singular:br⟪एकवचन⟫ | Nominatif:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Akkusativ:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Instrumentalis:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
-| Plural:br⟪बहुवचन⟫ | Nominatif:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Akkusativ:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Instrumentalis:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
+| Tunggal:br⟪एकवचन⟫ | Nominatif:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | Akusatif:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | Instrumental:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
+| Jamak:br⟪बहुवचन⟫ | Nominatif:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | Akusatif:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | Instrumental:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 
 Femininum:
 
@@ -181,7 +177,6 @@ Pelajari kata-kata berikut:
 > Dalam arti ini, derivasi berbeda telah ditemukan untuknya: sumbernya bukan lagi asu, 'napas,' tetapi awal *a* diambil sebagai awalan negatif, dan *asura* menandakan 'bukan dewa;' karenanya, menurut beberapa orang, muncul kata *sura,* yang umum digunakan untuk 'seorang dewa.'"
 >
 > [Sumber: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
-
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -269,8 +264,7 @@ B) Terjemahkan dan ubah menjadi kalimat pasif masa lalu:
 ⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
 ⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
 
-
-## 13.11. Latihan Ulangan
+## 13.11. Latihan Tinjauan
 
 A) Terjemahkan kalimat-kalimat berikut:
 
@@ -288,7 +282,6 @@ A) Terjemahkan kalimat-kalimat berikut:
 ⟪१२⟫. ⟪इमाः⟫ ⟪साध्व्यः⟫ ⟪पापं⟫ ⟪सहन्ते⟫ ⟪।⟫
 ⟪१३⟫. ⟪कां⟫ ⟪देवतामृषिः⟫ ⟪पश्यति⟫ ⟪।⟫
 ⟪१४⟫. ⟪कान्देवान्ब्राह्मणक्षत्रियवैश्या⟫ ⟪यजन्ते⟫ ⟪।⟫
-
 
 B) Terjemahkan kalimat-kalimat dari Latihan A) ke dalam bentuk pasif.
 

@@ -1,15 +1,15 @@
 ---
-title: Lesson 47
-subtitle: "The Imperative (⟪लोट्⟫)"
+title: Lektion 47
+subtitle: "Der Imperativ (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 47
+# Pelajaran 47
 
-## 47.1. The Imperative (⟪लोट्⟫)
+## 47.1. Imperatif (⟪लोट्⟫)
 
 ::: grammar-box
 The Imperative (⟪लोट्⟫) denotes
@@ -63,17 +63,17 @@ Dalam Imperatif Sanskerta Klasik, bentuk-bentuk orang pertama adalah bentuk Subj
 ::: grammar-box
 Imperatif dibentuk dari stem Present.
 :::
-## 47.2. Pembentukan Imperatif (⟪लोट्⟫) dari stem present tematik
+## 47.2. Bildung  Imperatifs (⟪लोट्⟫) thematischer Presentstämme
 
-### 47.2.1. Akhiran Imperatif untuk stem present tematik
+### 47.2.1. Endungen  Imperatif an thematischen Presentstämmen
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **Akhiran** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Orang Pertama**:br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
-| **Orang Kedua**:br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
-| **Orang Ketiga**:br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
+| **Akhiran** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
+| **2. Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
+| **3. Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
 Catatan: ¹ Akhiran orang kedua dan ketiga tunggal dapat diganti dengan -tāt jika sebuah doa restu ingin diungkapkan:
 
@@ -82,72 +82,72 @@ Catatan: ¹ Akhiran orang kedua dan ketiga tunggal dapat diganti dengan -tāt ji
 
 ⟪शुभं⟫ ⟪भवतु⟫ or ⟪शुभं⟫ ⟪भवतात्⟫ "May it be good!" "All good!"
 :::
-### 47.2.2. First Present Class (⟪भ्वादि⟫)
+### 47.2.2. Erste Presentklasse (⟪भ्वादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **⟪भू⟫ 1P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \&lt;⟪भवै⟫\&gt; | \&lt;⟪भवामहै⟫\&gt; |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \&lt;⟪भवस्व⟫\&gt; | \&lt;⟪भवध्वम्⟫\&gt; |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \&lt;⟪भ्वताम्⟫\&gt; | \&lt;⟪भवन्ताम्⟫\&gt; |
+| **⟪भू⟫ 1P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \<⟪भवै⟫\> | \<⟪भवामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \<⟪भवस्व⟫\> | \<⟪भवध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \<⟪भ्वताम्⟫\> | \<⟪भवन्ताम्⟫\> |
 :::
-### 47.2.3. Sixth Present Class (⟪तुदादि⟫)
+### 47.2.3. Sechste Presentklasse (⟪तुदादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **⟪विश्⟫ 6P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \&lt;⟪विशै⟫\&gt;:br(viś-a + ai) | \&lt;⟪विशामहै⟫\&gt; |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \&lt;⟪विशस्व⟫\&gt; | \&lt;⟪विशध्वम्⟫\&gt; |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \&lt;⟪विशताम्⟫\&gt; | \&lt;⟪विशन्ताम्⟫\&gt; |
-:::: media
+| **⟪विश्⟫ 6P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \<⟪विशै⟫\>:br(viś-a + ai) | \<⟪विशामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \<⟪विशस्व⟫\> | \<⟪विशध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \<⟪विशताम्⟫\> | \<⟪विशन्ताम्⟫\> |
+:::
+::: media
 ![](/images/lekt4702.webp)
 Fig.: ⟪प्रविशत⟫
 Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
 (Image source: [Details](/en/licenses#lekt4702))
-::::
 :::
-### 47.2.4. Fourth Present Class (⟪दिवादि⟫)
+### 47.2.4. Vierte Presentklasse (⟪दिवादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **⟪नृत्⟫ 4P** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \&lt;⟪नृत्यै⟫\&gt; | \&lt;⟪नृत्यामहै⟫\&gt; |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \&lt;⟪नृत्यस्व⟫\&gt; | \&lt;⟪नृत्यध्वम्⟫\&gt; |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \&lt;⟪नृत्यताम्⟫\&gt; | \&lt;⟪नृत्यन्ताम्⟫\&gt; |
-:::: media
+| **⟪नृत्⟫ 4P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \<⟪नृत्यै⟫\> | \<⟪नृत्यामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \<⟪नृत्यस्व⟫\> | \<⟪नृत्यध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \<⟪नृत्यताम्⟫\> | \<⟪नृत्यन्ताम्⟫\> |
+:::
+::: media
 ![](/images/lekt4701.webp)
 Fig.: ⟪नृत्यत⟫
 (Image source: [Details](/en/licenses#lekt4701))
-::::
 :::
-### 47.2.5. Tenth Present Class (⟪चुरादि⟫) and Causatives
+### 47.2.5. Zehnte Presentklasse (⟪चुरादि⟫) dan Kausatife
 
 ⟪चुर्⟫ 10U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪चोरयानि⟫ | ⟪चोरयाम⟫ | ⟪चोरयै⟫ | ⟪चोरयामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪चोरय⟫ | ⟪चोरयत⟫ | ⟪चोरयस्व⟫ | ⟪चोरयध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪चोरयतु⟫ | ⟪चोरयन्तु⟫ | ⟪चोरयताम्⟫ | ⟪चोरयन्ताम्⟫ |
 :::
-### 47.2.6. Passive
+### 47.2.6. Pasif
 
 ⟪ईक्ष्⟫ 1Ā
 
 ::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1st Person**:br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
-| **2nd Person**:br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
-| **3rd Person**:br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::
-## 47.3. Exercise
+## 47.3. Latihan
 
 A) Translate:
 
@@ -185,73 +185,73 @@ Fig.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
 
 B.) Translate into Sanskrit (use the imperative):
 
-1. I wish to be obtained.
+I wish to be obtained.
 
-2. He should be content.
+He should be content.
 
-3. We wish to call.
+We wish to call.
 
-4. I wish to bow to you (⟪चतुर्थ्या⟫).
+I wish to bow to you (⟪चतुर्थ्या⟫).
 
-5. This deed should be done.
+This deed should be done.
 
-6. They should sleep (passive construction).
+They should sleep (passive construction).
 
-7. My son, strive for wealth!
+My son, strive for wealth!
 
-8. Begin the study!
+Begin the study!
 
-9. Give (⟪प्र⟫-⟪यम्⟫) rice balls to the ancestors!
+Give (⟪प्र⟫-⟪यम्⟫) rice balls to the ancestors!
 
-10. They should rejoice!
+They should rejoice!
 
-11. I wish to look down upon the world.
+I wish to look down upon the world.
 
-12. We wish to go to Benares (⟪पद्⟫).
+We wish to go to Benares (⟪पद्⟫).
 
-13. They (pl.) should worship the gods with a sacrifice as sacrifice-lords.
+They (pl.) should worship the gods with a sacrifice as sacrifice-lords.
 
-14. Sing a hymn of praise!
+Sing a hymn of praise!
 
-15. Sons should be born to me!
+Sons should be born to me!
 
-16. I wish to show you my house.
+I wish to show you my house.
 
-17. Go away from me!
+Go away from me!
 
-18. He should be liberated!
+He should be liberated!
 
-19. I wish to protect your wife.
+I wish to protect your wife.
 
-20. Die, enemy!
+Matilah, musuh
 
-21. Fight!
+Fight!
 
-22. They (pl.) may command.
+They (pl.) may command.
 
-23. We wish to live in your house.
+We wish to live in your house.
 
-24. So let it happen!
+So let it happen!
 
-25. Strike the horse!
+Strike the horse!
 
-26. They (pl.) should wander about.
+They (pl.) should wander about.
 
-27. Intoxicate yourselves!
+Intoxicate yourselves!
 
-28. The horse should pull the load.
+The horse should pull the load.
 
-29. We wish to set the worlds in order.
+We wish to set the worlds in order.
 
-30. Drink the potion!
+Drink the potion!
 
-31. Think!
+Think!
 
-32. They (pl.) should be defeated!
+They (pl.) should be defeated!
 
-33. We wish to be led by you.
+We wish to be led by you.
 
-34. May it bring good fortune (happen)! (Blessing wish)
+May it bring good fortune (happen)! (Blessing wish)
 
 ::: deleteme-box
 

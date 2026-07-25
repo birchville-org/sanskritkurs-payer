@@ -1,12 +1,12 @@
 ---
-title: "Exercise 11"
+title: "Latihan 11"
 uebung_id: 11
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 11
+# Latihan 11
 
 A) Translate the following sentences
 
@@ -72,7 +72,7 @@ B) Put the sentences from A) into passive construction
 
 ⟪१२⟫. ⟪तेन⟫ ⟪श्रावकेण⟫ ⟪बुद्धो⟫ ⟪धर्मं⟫ ⟪पृच्छ्यते⟫ ⟪॥⟫
 
-[C) In den Sätzen aus A), wo es sinnvoll ist, setze Subjekt, Objekt und Prädikat ins Plural]
+[C) Pada kalimat-kalimat dari A), jika sesuai, ubahlah subjek, objek, dan predikat ke dalam bentuk jamak]
 
 ⟪१⟫. ⟪ऋषयः⟫ ⟪सत्यं⟫ ⟪वदन्ति⟫ ⟪।⟫
 
@@ -131,7 +131,7 @@ Fig.: ⟪केनाग्निरिज्यते⟫ ⟪।⟫
 :::
 ---
 
-## Additional Exercises
+## Zusätzliche Latihanen
 
 A) Translate into Sanskrit using passive constructions:
 

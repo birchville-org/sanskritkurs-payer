@@ -1,7 +1,7 @@
 ---
 title: "Latihan 1"
 uebung_id: 1
-category: "Übung"
+category: "Latihan"
 ---
 
 

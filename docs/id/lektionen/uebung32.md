@@ -1,12 +1,12 @@
 ---
-title: "Exercise 32"
+title: "Latihan 32"
 uebung_id: 32
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 32
+# Latihan 32
 
 [A] Tentukan bentuk-bentuk kata kerja berikut dan bentukkan bentuk imperfecta yang sesuai dalam orang, jumlah, dan genus verbi:
 
@@ -117,7 +117,7 @@ Fig.: ⟪सम्पन्नरूपा⟫
 :::
 ---
 
-## Word Form Determination
+## Wortformbestimmung
 
 Determine and translate the following words:
 
@@ -217,7 +217,7 @@ Gbr.: ⟪किमयं⟫ ⟪रथो⟫ ⟪बालान्⟫ ⟪सु�
 :::
 ---
 
-## Sandhi Exercise
+## Latihan Sandhi
 
 Masukkan kata-kata dalam kurung ke dalam kalimat berikut, dengan memperhatikan aturan Sandhi:
 
@@ -250,7 +250,7 @@ Masukkan kata-kata dalam kurung ke dalam kalimat berikut, dengan memperhatikan a
 
 ---
 
-## Additional Sanskrit Translations
+## Zusätzliche Sanskrit-Übersetzungen
 
 1. Setelah anak laki-laki lahir, wanita Brahmin mengutus pelayan kepada Brahmin.
 **⟪पुत्रे⟫ ⟪जाते⟫ ⟪ब्राह्मणी⟫ ⟪दासं⟫ ⟪ब्राह्मणं⟫ ⟪गमयति⟫ ⟪।⟫**
@@ -311,7 +311,7 @@ Fig.: ⟪श्रीगङ्गाधराय⟫ ⟪नमः⟫
 :::
 ---
 
-## Narasi: Si Tua dan Para Kera (Sanskrit Bālādarśa)
+## Cerita: Orang Tua dan Kera-Kera (Sanskrit-Bālādarśa)
 
 ⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमगच्छत्⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाती⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪नाशक्नोत्⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 

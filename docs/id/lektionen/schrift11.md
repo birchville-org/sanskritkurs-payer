@@ -1,6 +1,6 @@
-# Writing Exercise 11
+## Latihan Aksara 11
 
-### Digits
+### Ziffern
 
 The following two spellings are common:
 
@@ -10,7 +10,7 @@ Variant in the typeface of Kielhorn’s Grammar:
 
 ![](/images/schrift027.jpg)
 
-### Exercise
+### Latihan
 
 A) Write in Devanāgarī:
 
@@ -20,10 +20,10 @@ B) Read and transliterate:
 
 ⟪१२⟫ ⟪२३⟫ ⟪२४⟫ ⟪५३६⟫ ⟪६५⟫ ⟪८७⟫ ⟪१९४४⟫ ⟪२००८⟫ ⟪९९०⟫ ⟪८७⟫ ⟪७६⟫ ⟪६५⟫ ⟪५४⟫ ⟪४३⟫ ⟪३२⟫ ⟪२१⟫ ⟪१९⟫ ⟪२८⟫ ⟪८३⟫ ⟪७४⟫ ⟪५७⟫ ⟪६६⟫
 
-### Klasifikasi Bunyi Sanskerta (dari: Kielhorn: Tata Bahasa Bahasa Sanskerta)
+### Klassifikation  Laute  Sanskrit (aus: Kielhorn: Tata Bahasa  Sanskritsprache)
 
 ![](/images/schrift028.webp)
 
-### End of Writing Exercises
+### Ende  Aksaraübungen
 
 ## ⟪ॐ⟫ ⟪श्रीगणेशाय⟫ ⟪नमः⟫ ⟪ॐ⟫

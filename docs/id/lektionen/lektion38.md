@@ -1,15 +1,15 @@
 ---
-title: Lesson 38
-subtitle: "Weekly Teaching"
+title: Lektion 38
+subtitle: "Losung der Woche"
 lesson_id: 38
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 38
+# Pelajaran 38
 
-## 38.1. Solution of the Week
+## 38.1. Losung  Woche
 
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ regarding correct urination:
 
@@ -27,27 +27,27 @@ Explanations:
 
 ::: media
 ![](/images/lekt3801.webp)
-Fig.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
-(Image source: [Details](/en/licenses#lekt3801))
+Gbr.: ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫
+(Sumber gambar: [Detail](/en/licenses#lekt3801))
 :::
-## 38.2. Sound Change of Nasals in the Word
+## 38.2. Perubahan bunyi nasal dalam kata
 
 ::: grammar-box
 Bunyi nasal dalam kata diasimilasikan ke konsonan berikutnya, yaitu diganti dengan bunyi nasal yang sesuai dengan konsonan tersebut.
 
 After c- and j-, -n- is replaced by -ñ-.
 :::
-## 38.3. Deklinasi kata dasar yang berakhiran -n
+## 38.3. Deklination  Stämme auf -n
 
-### 38.3.1. Nouns ending in -an as well as nouns ending in -man or -van after a vowel
+### 38.3.1. Nomina yang berakhiran -an serta nomina yang berakhiran -man atau -van setelah vokal
 ::: grammar-box
-Nouns ending in **-an** as well as nouns ending in **-man** or **-van** after a vowel have three stems:
+Nomina yang berakhiran **-an** serta nomina yang berakhiran **-man** atau **-van** setelah vokal memiliki tiga batang:
 
-| Stem | -an | -man | -van | Usage |
+| Batang | -an | -man | -van | Usage |
 | :--- | :---: | :---: | :---: | :--- |
-| **Strong Stem** | **-ān** | **-mān** | **-vān** | Nom., Acc., Voc. sg. m. f.:brNom., Acc., Voc. dual m. f.:brNom., Voc. pl. m. f.:brNom., Acc. pl. n. |
-| **Medium Weak Stem** | **-a**:br(from -*n) | **-ma**:br(from -*mn) | **-va**:br(from -*vn) | Remaining cases before a consonant-initial ending:brOptionally also Loc. sg. m. n. f. |
-| **Weakest Stem** | **-n** | **-mn** | **-vn** | Remaining cases before a vowel-initial ending |
+| **Starker Batang** | **-ān** | **-mān** | **-vān** | Nom., Acc., Voc. sg. m. f.:brNom., Acc., Voc. dual m. f.:brNom., Voc. pl. m. f.:brNom., Acc. pl. n. |
+| **Mittlerer Schwacher Batang** | **-a**:br(from -*n) | **-ma**:br(from -*mn) | **-va**:br(from -*vn) | Übrige Kasus vor konsonantisch anlautender Akhiran:brWahlweise auch Lok. sg. m. n. f. |
+| **Schwächster Batang** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Akhiran |
 
 **Akhirannya teratur. Nominatif Singular m. f. dibentuk tanpa akhiran -n.**
 :::
@@ -72,32 +72,32 @@ Contoh:
 *   weakest stem: ⟪नाम्न्⟫
 ::: grammar-box
 
-| | **⟪राजन्⟫** | **⟪सीमन्⟫** | **⟪नामन्⟫** |
+| | ⟪राजन्⟫ | ⟪सीमन्⟫ | ⟪नामन्⟫ |
 | :--- | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | | | |
-| **⟪प्रथमा⟫** | **⟪राजा⟫** | **⟪सीमा⟫** | **⟪नाम⟫** |
-| **⟪द्वितीया⟫** | **⟪राजानम्⟫** | **⟪सीमानम्⟫** | **⟪नाम⟫** |
-| **⟪तृतीया⟫** | **⟪राज्ञा⟫** | **⟪सीम्ना⟫** | **⟪नाम्ना⟫** |
-| **⟪चतुर्थी⟫** | **⟪राज्ञे⟫** | **⟪सीम्ने⟫** | **⟪नाम्ने⟫** |
-| **⟪पञ्चमी⟫** | **⟪राज्ञस्⟫** | **⟪सीम्नस्⟫** | **⟪नाम्नस्⟫** |
-| **⟪षष्ठी⟫** | **⟪राज्ञस्⟫** | **⟪सीम्नस्⟫** | **⟪नाम्नस्⟫** |
-| **⟪सप्तमी⟫** | **⟪राज्ञि⟫** / **⟪राजानि⟫** | **⟪सीम्नि⟫** / **⟪सीमनि⟫** | **⟪नाम्नि⟫** / **⟪नामनि⟫** |
-| **⟪बहुवचनम्⟫** | | | |
-| **⟪प्रथमा⟫** | **⟪राजानस्⟫** | **⟪सीमानस्⟫** | **⟪नामानि⟫** |
-| **⟪द्वितीया⟫** | **⟪राज्ञस्⟫** | **⟪सीम्नस्⟫** | **⟪नामानि⟫** |
-| **⟪तृतीया⟫** | **⟪राजभिस्⟫** | **⟪सीम्नभिस्⟫** | **⟪नामभिस्⟫** |
-| **⟪चतुर्थी⟫** | **⟪राजभ्यस्⟫** | **⟪सीम्नभ्यस्⟫** | **⟪नामभ्यस्⟫** |
-| **⟪पञ्चमी⟫** | **⟪राजभ्यस्⟫** | **⟪सीम्नभ्यस्⟫** | **⟪नामभ्यस्⟫** |
-| **⟪षष्ठी⟫** | **⟪राज्ञाम्⟫** | **⟪सीम्नाम्⟫** | **⟪नाम्नाम्⟫** |
-| **⟪सप्तमी⟫** | **⟪राजसु⟫** | **⟪सीमसु⟫** | **⟪नामसु⟫** |
+| ⟪एकवचनम्⟫ | | | |
+| ⟪प्रथमा⟫ | ⟪राजा⟫ | ⟪सीमा⟫ | ⟪नाम⟫ |
+| ⟪द्वितीया⟫ | ⟪राजानम्⟫ | ⟪सीमानम्⟫ | ⟪नाम⟫ |
+| ⟪तृतीया⟫ | ⟪राज्ञा⟫ | ⟪सीम्ना⟫ | ⟪नाम्ना⟫ |
+| ⟪चतुर्थी⟫ | ⟪राज्ञे⟫ | ⟪सीम्ने⟫ | ⟪नाम्ने⟫ |
+| ⟪पञ्चमी⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नाम्नस्⟫ |
+| ⟪षष्ठी⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नाम्नस्⟫ |
+| ⟪सप्तमी⟫ | ⟪राज्ञि⟫ / ⟪राजानि⟫ | ⟪सीम्नि⟫ / ⟪सीमनि⟫ | ⟪नाम्नि⟫ / ⟪नामनि⟫ |
+| ⟪बहुवचनम्⟫ | | | |
+| ⟪प्रथमा⟫ | ⟪राजानस्⟫ | ⟪सीमानस्⟫ | ⟪नामानि⟫ |
+| ⟪द्वितीया⟫ | ⟪राज्ञस्⟫ | ⟪सीम्नस्⟫ | ⟪नामानि⟫ |
+| ⟪तृतीया⟫ | ⟪राजभिस्⟫ | ⟪सीम्नभिस्⟫ | ⟪नामभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪राजभ्यस्⟫ | ⟪सीम्नभ्यस्⟫ | ⟪नामभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪राजभ्यस्⟫ | ⟪सीम्नभ्यस्⟫ | ⟪नामभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪राज्ञाम्⟫ | ⟪सीम्नाम्⟫ | ⟪नाम्नाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪राजसु⟫ | ⟪सीमसु⟫ | ⟪नामसु⟫ |
 
-:::: media
-![](/images/lekt3803.webp)
-Fig.: ⟪सीमा⟫
-(Image source: [Details](/en/licenses#lekt3803))
-::::
 :::
-### 38.3.2. Nouns ending in -man or -van after a consonant
+::: media
+![](/images/lekt3803.webp)
+Gbr.: ⟪सीमा⟫
+(Sumber gambar: [Detail](/en/licenses#lekt3803))
+:::
+### 38.3.2. Nomina berakhiran -man atau -van setelah konsonan
 
 ::: grammar-box
 *   Batang kuat: -mān, -vān
@@ -124,27 +124,27 @@ Examples:
     *   before vowel: ⟪ब्रह्मन्⟫
 ::: grammar-box
 
-| | **⟪आत्मन्⟫** | **⟪ब्रह्मन्⟫** |
+| | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
 | :--- | :---: | :---: |
-| **⟪एकवचनम्⟫** | | |
-| **⟪प्रथमा⟫** | **⟪आत्मा⟫** | **⟪ब्रह्म⟫** |
-| **⟪द्वितीया⟫** | **⟪आत्मानम्⟫** | **⟪ब्रह्म⟫** |
-| **⟪तृतीया⟫** | **⟪आत्मना⟫** | **⟪ब्रह्मणा⟫** |
-| **⟪चतुर्थी⟫** | **⟪आत्मने⟫** | **⟪ब्रह्मणे⟫** |
-| **⟪पञ्चमी⟫** | **⟪आत्मनस्⟫** | **⟪ब्रह्मणस्⟫** |
-| **⟪षष्ठी⟫** | **⟪आत्मनस्⟫** | **⟪ब्रह्मणस्⟫** |
-| **⟪सप्तमी⟫** | **⟪आत्मनि⟫** | **⟪ब्रह्मणि⟫** |
-| **⟪बहुवचनम्⟫** | | |
-| **⟪प्रथमा⟫** | **⟪आत्मानस्⟫** | **⟪ब्रह्माणि⟫** |
-| **⟪द्वितीया⟫** | **⟪आत्मनस्⟫** | **⟪ब्रह्माणि⟫** |
-| **⟪तृतीया⟫** | **⟪आत्मभिस्⟫** | **⟪ब्रह्मभिस्⟫** |
-| **⟪चतुर्थी⟫** | **⟪आत्मभ्यस्⟫** | **⟪ब्रह्मभ्यस्⟫** |
-| **⟪पञ्चमी⟫** | **⟪आत्मभ्यस्⟫** | **⟪ब्रह्मभ्यस्⟫** |
-| **⟪षष्ठी⟫** | **⟪आत्मनाम्⟫** | **⟪ब्रह्मणाम्⟫** |
-| **⟪सप्तमी⟫** | **⟪आत्मसु⟫** | **⟪ब्रह्मसु⟫** |
+| ⟪एकवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪आत्मा⟫ | ⟪ब्रह्म⟫ |
+| ⟪द्वितीया⟫ | ⟪आत्मानम्⟫ | ⟪ब्रह्म⟫ |
+| ⟪तृतीया⟫ | ⟪आत्मना⟫ | ⟪ब्रह्मणा⟫ |
+| ⟪चतुर्थी⟫ | ⟪आत्मने⟫ | ⟪ब्रह्मणे⟫ |
+| ⟪पञ्चमी⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्मणस्⟫ |
+| ⟪षष्ठी⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्मणस्⟫ |
+| ⟪सप्तमी⟫ | ⟪आत्मनि⟫ | ⟪ब्रह्मणि⟫ |
+| ⟪बहुवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪आत्मानस्⟫ | ⟪ब्रह्माणि⟫ |
+| ⟪द्वितीया⟫ | ⟪आत्मनस्⟫ | ⟪ब्रह्माणि⟫ |
+| ⟪तृतीया⟫ | ⟪आत्मभिस्⟫ | ⟪ब्रह्मभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪आत्मभ्यस्⟫ | ⟪ब्रह्मभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪आत्मभ्यस्⟫ | ⟪ब्रह्मभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪आत्मनाम्⟫ | ⟪ब्रह्मणाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪आत्मसु⟫ | ⟪ब्रह्मसु⟫ |
 
 :::
-### 38.3.3. Masculine and Neuter nouns ending in -in, -min, -vin
+### 38.3.3. Maskulina dan Neutra auf -in, -min, -vin
 
 ::: grammar-box
 These nouns have **no** stem gradation.
@@ -159,27 +159,27 @@ Contoh:
 
 ::: grammar-box
 
-| | **⟪पुंस्⟫** | **⟪नपुंसकम्⟫** |
+| | ⟪पुंस्⟫ | ⟪नपुंसकम्⟫ |
 | :--- | :---: | :---: |
-| **⟪एकवचनम्⟫** | | |
-| **⟪प्रथमा⟫** | **⟪बली⟫** | **⟪बलि⟫** |
-| **⟪द्वितीया⟫** | **⟪बलिनम्⟫** | **⟪बलि⟫** |
-| **⟪तृतीया⟫** | **⟪बलिना⟫**||
-| **⟪चतुर्थी⟫** | **⟪बलिने⟫**||
-| **⟪पञ्चमी⟫** | **⟪बलिनस्⟫**||
-| **⟪षष्ठी⟫** | **⟪बलिनस्⟫**||
-| **⟪सप्तमी⟫** | **⟪बलिनि⟫**||
-| **⟪बहुवचनम्⟫** | | |
-| **⟪प्रथमा⟫** | **⟪बलिनस्⟫** | **⟪बलीनि⟫** |
-| **⟪द्वितीया⟫** | **⟪बलिनस्⟫** | **⟪बलीनि⟫** |
-| **⟪तृतीया⟫** | **⟪बलिभिस्⟫**||
-| **⟪चतुर्थी⟫** | **⟪बलिभ्यस्⟫**||
-| **⟪पञ्चमी⟫** | **⟪बलिभ्यस्⟫**||
-| **⟪षष्ठी⟫** | **⟪बलिनाम्⟫**||
-| **⟪सप्तमी⟫** | **⟪बलिषु⟫**||
+| ⟪एकवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪बली⟫ | ⟪बलि⟫ |
+| ⟪द्वितीया⟫ | ⟪बलिनम्⟫ | ⟪बलि⟫ |
+| ⟪तृतीया⟫ | ⟪बलिना⟫ ||
+| ⟪चतुर्थी⟫ | ⟪बलिने⟫ ||
+| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫ ||
+| ⟪षष्ठी⟫ | ⟪बलिनस्⟫ ||
+| ⟪सप्तमी⟫ | ⟪बलिनि⟫ ||
+| ⟪बहुवचनम्⟫ | | |
+| ⟪प्रथमा⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
+| ⟪द्वितीया⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
+| ⟪तृतीया⟫ | ⟪बलिभिस्⟫ ||
+| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫ ||
+| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫ ||
+| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫ ||
+| ⟪सप्तमी⟫ | ⟪बलिषु⟫ ||
 
 :::
-## 38.4. On nominal formation: ⟪तद्धित⟫ suffix -in
+## 38.4. Tentang pembentukan nomina: sufiks ⟪तद्धित⟫ -in
 
 ::: grammar-box
 Dengan akhiran (sangat penting!) ⟪तद्धित⟫ **-in**, kata sifat dibentuk dari kata benda dengan makna:
@@ -204,6 +204,7 @@ Fig.: ⟪हस्ती⟫
 Fig.: ⟪हस्तवान्⟫
 (Image source: [Details](/en/licenses#lekt3807))
 :::
+
 ::: grammar-box
 Adjectives ending in **-⟪इन्⟫** are often formed into compounds.
 :::
@@ -211,7 +212,7 @@ Example:
 
 ⟪सत्यवादिन्⟫ dari ⟪सत्यवाद⟫ m. "berbicara kebenaran": "seseorang yang dicirikan oleh berbicara kebenaran = seseorang yang selalu berbicara benar"
 
-## 38.5. Syntax regarding ⟪नामन्⟫
+## 38.5. Syntaktisches zu ⟪नामन्⟫
 
 ::: grammar-box
 To express "someone named N. N.", one constructs:
@@ -231,13 +232,13 @@ Secara alami, hal yang sama dapat dinyatakan dengan ⟪बहुव्रीह�
 ⟪देवदत्तनामा⟫ ⟪पुरुषः⟫ "a man whose name is Devadatta"
 
 ⟪मदयन्तिकानाम्नी⟫ ⟪बाला⟫ "a girl whose name is Madayantika"
-:::: media
+:::
+::: media
 ![](/images/lekt3808.jpg)
 Fig.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
 (Image source: [Details](/en/licenses#lekt3808))
-::::
 :::
-## 38.6. Syntax regarding ⟪आत्मन्⟫
+## 38.6. Syntaktisches zu ⟪आत्मन्⟫
 
 ::: grammar-box
 **⟪आत्मन्⟫** **maskulin** dapat digunakan dalam **tunggal** sebagai kata ganti refleksif untuk ketiga jenis kelamin, bilangan (termasuk dwitunggal dan jamak), serta orang.
@@ -255,9 +256,9 @@ The genitive (⟪षष्ठी⟫) **⟪आत्मनस्⟫** can therefo
 Example:
 
 ::: indent
-⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "He enters his own house."
+⟪आत्मनो⟫ ⟪गृहं⟫ ⟪प्रविशति⟫ ⟪।⟫ "Dia memasuki rumahnya sendiri."
 :::
-## 38.7. Consonant-ending stems as the first member of compounds
+## 38.7. Batang Kata Berakhiran Konsonan sebagai Anggota Pertama Kata Majemuk
 
 ::: grammar-box
 Kata benda yang berakhiran konsonan muncul sebagai anggota pertama dari majemuk dalam bentuk (lemah) kata dasar yang diambil sebelum akhiran -su untuk kasus lokatif jamak (⟪सप्तमी⟫).
@@ -265,9 +266,9 @@ Kata benda yang berakhiran konsonan muncul sebagai anggota pertama dari majemuk 
 Contoh:
 
 ::: indent
-***⟪राज⟫***⟪पुत्र⟫ "king's son"
+***⟪राज⟫***⟪पुत्र⟫ "putra raja"
 :::
-## 38.8. Stems in -an as the second member of a ⟪बहुव्रीहि⟫
+## 38.8. Batang kata berakhiran -an sebagai komponen akhir dari sebuah ⟪बहुव्रीहि⟫
 
 ::: grammar-box
 Sebagai anggota kedua dari ⟪बहुव्रीहि⟫, stem dalam -an dapat digunakan untuk ketiga jenis kelamin. Namun, bentuk feminin biasanya dibentuk dengan akhiran -ī dari stem maskulin terlemah.
@@ -277,7 +278,7 @@ Contoh:
 ::: indent
 ⟪दुर्णाम्नी⟫ "one whose name is evil; a demoness of disease"
 :::
-## 38.9. Word List
+## 38.9. Daftar Kata
 
 ⟪सूर्य⟫ m.: Sun, sun god Sūrya
 
@@ -315,11 +316,11 @@ therefrom:
 ⟪निर्वाण⟫ n.: Extinguishing, Nirvana
 
 ⟪परिनिर्वाण⟫ n.: Pemadaman sempurna, pembebasan sempurna (pada akhir kehidupan Buddha atau Arhat)
-:::: media
+:::
+::: media
 ![](/images/lekt3804.webp)
 Fig.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
 (Sumber gambar: [Details](/en/licenses#lekt3804))
-::::
 :::
 ⟪मिह्⟫ 1P ⟪मेहति⟫ : kencing, buang air kecil, ejakulasi
 
@@ -393,18 +394,19 @@ therefrom:
 ⟪शोक⟫ m.: Mourning, grief
 
 ⟪अशोक⟫ 3: free from grief; Ashoka tree = _Saraca asoca_ (Roxb.) Wilde; name of the emperor Aśoka (⟪देवानांप्रिय⟫ ⟪प्रियदर्शी⟫) (ca. 304  – 232 BCE)
-:::: media
+:::
+::: media
 ![](/images/lekt3810.webp)
 Fig.: ⟪अशोकवृक्षः⟫
 (Image source: [Details](/en/licenses#lekt3810))
-::::
 :::
+
 ::: media
 ![](/images/lekt3811.webp)
 Fig.: ⟪अशोकसाम्राज्यम्⟫
 (Image source: [Details](/en/licenses#lekt3811))
 :::
-## 38.10. Exercise
+## 38.10. Latihan
 
 [A] Sisipkan bentuk yang sesuai dari kata-kata dalam kurung pada kalimat berikut dan terjemahkan:
 
@@ -438,7 +440,7 @@ Fig.: ⟪अशोकसाम्राज्यम्⟫
 
 ... ⟪धर्मं⟫ ⟪न⟫ ⟪रक्षत्सु⟫ ⟪सभया⟫ ⟪जनाः⟫ ⟪॥१५॥⟫ (⟪राजन्⟫)
 
-## 38.11. Word List for Translation Exercise
+## 38.11. Daftar Kata untuk Latihan Penerjemahan
 
 ⟪प्राय⟫  m.: main matter, Instr. ⟪प्रायेण⟫ : mostly, usually (to ⟪प्र⟫-⟪इ⟫)
 
@@ -488,11 +490,11 @@ Pass. ⟪गण्यते⟫
 PPP ⟪गणित⟫
 Absol. -⟪गणय्य⟫
 Inf. ⟪गणयितुम्⟫
-:::: media
+:::
+::: media
 ![](/images/lekt3814.webp)
 Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫
 (Sumber gambar: [Details](/en/licenses#lekt3814))
-::::
 :::
 ⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : berteriak, meratap
 
@@ -549,7 +551,7 @@ Inf. ⟪सर्तुम्⟫
 
 ⟪अधस्⟫ Adv.: downwards
 
-## 38.12. Translation Exercise
+## 38.12. Latihan Penerjemahan
 
 ***⟪दश⟫*** ⟪मूढाः⟫
 
@@ -601,5 +603,4 @@ Explanations:
 - **lekt3812.jpg**: Ilm.: ⟪विनोदः⟫  Permainan Carrom \[Sumber gambar: nicolas - نِيقُولاَوُسَ . -- [http://www.flickr.com/photos/keep-on-moving/3007779918/](http://www.flickr.com/photos/keep-on-moving/3007779918/). -- Diakses pada 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial, berbagi serupa)\]
 - **lekt3813.jpg**: Ilm.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫ \[Sumber gambar: nassio. -- [http://www.flickr.com/photos/26116629@N04/2450959377/](http://www.flickr.com/photos/26116629@N04/2450959377/). -- Diakses pada 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial)\]
 - **lekt3814.jpg**: Ilm.: ⟪गणयां⟫ ⟪चक्रुः⟫  ⟪करणी⟫ ⟪माता⟫ ⟪मंदिर⟫, ⟪देशनोके⟫ \[Sumber gambar: neilhinchley. -- [http://www.flickr.com/photos/neilhinchley/50518886/](http://www.flickr.com/photos/neilhinchley/50518886/). -- Diakses pada 2009-01-01. -- [](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de)Lisensi Creative Commons (Atribusi, Penggunaan non-komersial, tanpa turunan)\]
-
 :::

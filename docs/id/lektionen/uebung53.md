@@ -1,7 +1,7 @@
 ---
 title: "Latihan 53"
 uebung_id: 53
-category: "Übung"
+category: "Latihan"
 ---
 
 

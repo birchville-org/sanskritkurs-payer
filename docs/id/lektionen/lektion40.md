@@ -1,13 +1,13 @@
 ---
-title: Lesson 40
+title: Lektion 40
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 40
+# Pelajaran 40
 
 ## 40.1. ⟪सुभाषितानि⟫
 
@@ -26,21 +26,21 @@ status: stable
 ⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫  
 ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫  
 ⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥३॥⟫
-:::: media
+:::
+::: media
 ![lekt4005.jpg](/images/lekt4005.webp)
 Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 (Image source: [Details](/en/licenses#lekt4005))
-::::
 :::
-## 40.2. Formation of the first person perfect verb forms (⟪लिट्⟫)
+## 40.2. Bildung  Verbformen  ersten Person Perfekt (⟪लिट्⟫)
 
 Akhiran orang pertama (⟪तृतीयः⟫) dalam bentuk sempurna (⟪लिट्⟫)
 
 ::: grammar-box
 
-| **⟪परस्मैपदम्⟫** | ← | **⟪आत्मनेपदम्⟫** | ← |
+| ⟪परस्मैपदम्⟫ | ← | ⟪आत्मनेपदम्⟫ | ← |
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **-a** | **-ma** | **-e** | **-mahe** |
 
 :::
@@ -58,18 +58,18 @@ Sebelum akhiran yang diawali konsonan, vokal penghubung -i- terjadi dengan sebag
 
 Except before the ending -re, before which -i- must always occur, the connecting vowel before consonant-initial endings never occurs with eight roots ending in -ṛ or -u, namely
 
-1. ⟪कृ⟫ 8U (kecuali ⟪संस्कृ⟫)
-2. ⟪भृ⟫ 1U
-3. ⟪वृ⟫ 9U "memilih"
-4. ⟪सृ⟫ 1P
-5. ⟪द्रु⟫ 1p "berlari"
-6. ⟪श्रु⟫ 5P
-7. ⟪स्तु⟫ 2U
-8. ⟪स्रु⟫ 1P "mengalir"
+1.  ⟪कृ⟫ 8U (kecuali ⟪संस्कृ⟫)
+2.  ⟪भृ⟫ 1U
+3.  ⟪वृ⟫ 9U "memilih"
+4.  ⟪सृ⟫ 1P
+5.  ⟪द्रु⟫ 1p "berlari"
+6.  ⟪श्रु⟫ 5P
+7.  ⟪स्तु⟫ 2U
+8.  ⟪स्रु⟫ 1P "mengalir"
 
 Dengan akar-akar ⟪अनिट्⟫ yang disebut opsional, vokal penghubung dapat disisipkan atau tidak secara opsional. (Daftar akar-akar ini dalam Kielhorn, Tata Bahasa hlm 92 § 298b,2,3)
 :::
-### 40.2.1. Jenis Sempurna I: tanpa gradasi tem
+### 40.2.1. Perfekt Typ I: keine Stammabstufung
 
 1.sg. = 3.sg.
 
@@ -104,7 +104,7 @@ Verbs that follow this type:
 *   1.sg.P ⟪आस⟫
 *   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
 :::
-### 40.2.2. Perfect Type II: strong stem in strong grade, weak stem in weak grade
+### 40.2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
 Verbs that follow this type:
 
@@ -114,25 +114,25 @@ Verbs that follow this type:
 
 ::: indent
 *   1.sg.P ⟪बिभेद⟫
-    
+
 *   1.pl.P ⟪बिभिदिम⟫
-    
+
 *   1.sg.Ā ⟪बिभिदे⟫
-    
+
 *   1.pl.Ā ⟪बिभिदिमहे⟫
 :::
 ⟪मुह्⟫ 4P optionally ⟪अनिट्⟫
 
 ::: indent
 *   1.sg.P ⟪मुमोह⟫
-    
+
 *   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
 :::
-### 40.2.3. Perfect Type III: Strong Stem High Grade/Lengthened Grade
+### 40.2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
 
 1.sg.P optionally high grade or lengthened grade
 
-#### 40.2.3.1. Perfect Type IIIa: Strong Stem High Grade/Lengthened Grade, Weak Stem Low Grade
+#### 40.2.3.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
 
 Verbs that follow this type:
 
@@ -143,43 +143,43 @@ Verbs that follow this type:
 
 ::: indent
 *   1.sg.P ⟪इयाय⟫ ⟪।⟫ ⟪इयय⟫ (i+e+a)
-    
+
 *   1.pl.P ⟪ईयिम⟫ (i+iy+i+ma)
 :::
 ⟪नी⟫ 1U
 
 ::: indent
 *   1.sg.P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫
-    
+
 *   1.pl.P ⟪निन्यिम⟫ (ni-nī + i + ma !!!)
-    
+
 *   1.sg.Ā ⟪निन्ये⟫
-    
+
 *   1.pl.Ā ⟪निन्यिमहे⟫
 :::
 ⟪स्तु⟫ 2U strictly ⟪अनिट्⟫
 
 ::: indent
 *   1.sg.P ⟪तुष्टाव⟫ ⟪।⟫ ⟪तुष्टव⟫ (tu-sto + a)
-    
+
 *   1.pl.P ⟪तुष्टुम⟫
-    
+
 *   1.sg.Ā ⟪तुष्टुवे⟫
-    
+
 *   1.pl.Ā ⟪तुष्टुमहे⟫
 :::
 ⟪कृ⟫ 8U strictly ⟪अनिट्⟫
 
 ::: indent
 *   1.sg.P ⟪चकार⟫ ⟪।⟫ ⟪चकर⟫
-    
+
 *   1.pl.P ⟪चकृम⟫
-    
+
 *   1.sg.Ā ⟪चक्रे⟫
-    
+
 *   1.pl.Ā ⟪चकृमहे⟫
 :::
-#### 40.2.3.2. Perfect Type IIIb: Strong Stem High Grade/Lengthened Grade, Weak Stem High Grade
+#### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
 
 Verbs that follow this type:
 
@@ -190,28 +190,28 @@ Verbs that follow this type:
 
 ::: indent
 *   1.sg.P ⟪पपार⟫ ⟪।⟫ ⟪पपर⟫
-    
+
 *   1.pl.P ⟪पपरिम⟫
 :::
 ⟪स्मृ⟫ 1P
 
 ::: indent
 *   1.sg.P ⟪सस्मार⟫ ⟪।⟫ ⟪सस्मर⟫
-    
+
 *   1.pl.P ⟪सस्मरिम⟫
 :::
 ⟪संस्कृ⟫ 8U
 
 ::: indent
 *   1.sg.P ⟪सञ्चस्कार⟫ ⟪।⟫ ⟪सञ्चस्कर⟫
-    
+
 *   1.pl.P ⟪सञ्चस्करिम⟫
-    
+
 *   1.sg.Ā ⟪सञ्चस्करे⟫
-    
+
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
 :::
-### 40.2.4. Perfect Type IV: Roots ending in -ā / -ai
+### 40.2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
 
 *   Strong stem:
     *   1.,3. sg. Parasemaip.: -au
@@ -223,94 +223,94 @@ Verbs that follow this type:
 
 ::: indent
 *   1.sg.P ⟪ददौ⟫
-    
+
 *   1.pl.P ⟪ददिम⟫ (da-d-i-ma)
-    
+
 *   1.sg.Ā ⟪ददे⟫
-    
+
 *   1.pl.Ā ⟪ददिमहे⟫
 :::
-### 40.2.5. Perfect Type V: Consonant-a-Consonant
+### 40.2.5. Perfekt Typ V: Konsonant-a-Konsonant
 
 1.sg.P. optionally high-grade or lengthened-grade
 
-#### 40.2.5.1. Perfect Type Va: Consonant-a-Consonant, weak stem low-grade
+#### 40.2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
 
 Verbs that follow this type:
 
 ::: indent
-1. gam "pergi"
-2. han (»ghan) "memukul"
-3. jan "terlahir"
-4. vac "berbicara"
-5. vad "berbicara"
-6. yaj "mengorbankan"
-7. dll.
+1.  gam "pergi"
+2.  han (»ghan) "memukul"
+3.  jan "terlahir"
+4.  vac "berbicara"
+5.  vad "berbicara"
+6.  yaj "mengorbankan"
+7.  dll.
 :::
 ⟪गम्⟫ 1P
 
 ::: indent
 *   1.sg.P ⟪जगाम⟫ ⟪।⟫ ⟪जगम⟫
-    
+
 *   1.pl.P ⟪जग्मिम⟫ (ja-gm-i-ma)
 :::
 ⟪हन्⟫ 2P
 
 ::: indent
 *   1.sg.P ⟪जघान⟫ ⟪।⟫ ⟪जघन⟫
-    
+
 *   1.pl.P ⟪जघ्निम⟫
 :::
 ⟪जन्⟫ 4Ā
 
 ::: indent
 *   1.sg.Ā ⟪जज्ञे⟫
-    
+
 *   1.pl.Ā ⟪जज्ञिमहे⟫
 :::
 ⟪वच्⟫ 2P
 
 ::: indent
 *   1.sg.P ⟪उवाच⟫ ⟪।⟫ ⟪उवच⟫
-    
+
 *   1.pl.P ⟪ऊचिम⟫ (u + uc-ima)
 :::
 ⟪वद्⟫ 1P (Ā)
 
 ::: indent
 *   1.sg.P ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫
-    
+
 *   1.pl.P ⟪ऊदिम⟫
-    
+
 *   1.sg.Ā ⟪ऊदे⟫
-    
+
 *   1.pl.Ā  ⟪ऊदिमहे⟫
 :::
 ⟪यज्⟫ 1U
 
 ::: indent
 *   1.sg.P ⟪इयाज⟫ ⟪।⟫ ⟪इयज⟫
-    
+
 *   1.pl.P ⟪ईजिम⟫
-    
+
 *   1.sg.Ā ⟪ईजे⟫
-    
+
 *   1.pl.Ā ⟪ईजिमहे⟫
 :::
-#### 40.2.5.2. Perfect Type Vb: Consonant-a-Consonant, initial consonant not guttural, aspirate, h, weak stem without reduplication, with -e-
+#### 40.2.5.2. Perfek Tipe Vb: Konsonan-a-Konsonan, konsonan awal bukan gutural, aspirat, h, Bentuk dasar lemah tanpa reduplikasi, dengan -e-
 
 ⟪पच्⟫ 1U
 
 ::: indent
 *   1.sg.P ⟪पपाच⟫ ⟪।⟫ ⟪पपच⟫
-    
+
 *   1.pl.P ⟪पेचिम⟫
-    
+
 *   1.sg.Ā ⟪पेचे⟫
-    
+
 *   1.pl.Ā ⟪पेचिमहे⟫
 :::
-#### 40.2.5.3. Perfect Type Vc: Consonant-a-Consonant, weak stem high-grade
+#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
 
 Verbs that follow this type:
 
@@ -320,20 +320,20 @@ Verbs that follow this type:
 
 ::: indent
 *   1.sg.P ⟪चक्राम⟫ ⟪।⟫ ⟪चक्रम⟫
-    
+
 *   1.pl.P ⟪चक्रमिम⟫
-    
+
 *   1.sg.Ā ⟪चक्रमे⟫
-    
+
 *   1.pl.Ā ⟪चक्रमिमहे⟫
 :::
-### 40.2.6. Special Perfect Constructions
+### 40.2.6. Besondere Perfekt-Bildungen
 
 ⟪विद्⟫ 2nd person present perfect:
 
 ::: indent
 *   1.sg.P ⟪वेद⟫ (= 3.sg.P)
-    
+
 *   1.pl.P ⟪विद्म⟫
 :::
 ⟪अह्⟫ 1st person not common!
@@ -342,7 +342,7 @@ Verbs that follow this type:
 
 ::: indent
 *   1.sg.P ⟪बभूव⟫ (= 3.sg.P)
-    
+
 *   1.pl.P ⟪बभूविम⟫
 :::
 ⟪जि⟫ 1st person
@@ -352,7 +352,7 @@ Verbs that follow this type:
 
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
 :::
-## 40.3. Pembentukan bentuk kata kerja orang pertama dari sempurna periphrastik (⟪अनुप्रयोगलिट्⟫)
+## 40.3. Bildung  Verbformen  ersten Person  periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
 
 The periphrastic perfect is formed from:
 
@@ -362,46 +362,46 @@ The periphrastic perfect is formed from:
 *   beberapa lainnya
 *   untuk beberapa akar, kedua bentuk sempurna dapat dibentuk secara opsional: uṣ "untuk membakar", vid "untuk mengetahui", jāgṛ "untuk bangun", daridrā "untuk menjadi miskin"
 *   untuk akar berikut, kedua bentuk sempurna dapat dibentuk secara opsional dan juga bentuk sempurna periphrastik direplikasi, yaitu dengan suku kata replikasi dari akar present:
-*   bhī "untuk takut"
-*   bhṛ "untuk membawa"
-*   hu "untuk mengorbankan"
-*   hrī "untuk malu"
+    *   bhī "untuk takut"
+    *   bhṛ "untuk membawa"
+    *   hu "untuk mengorbankan"
+    *   hrī "untuk malu"
 
 ⟪ईक्ष्⟫ 1Ā
 
 ::: indent
 *   1.sg.Ā ⟪ईक्षां⟫ ⟪चक्रे⟫ ⟪।⟫ ⟪ईक्षामास⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूव⟫
-    
+
 *   1.pl.Ā ⟪ईक्षां⟫ ⟪चकृमहे⟫ ⟪।⟫ ⟪ईक्षामासिम⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूविम⟫
 :::
 ⟪बन्ध्⟫ Causative P: ⟪बन्धयति⟫
 
 ::: indent
 *   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P)
-    
+
 *   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
 :::
-## 40.4. Syntax regarding the first person (⟪तृतीयः⟫)
+## 40.4. Sintaksis mengenai orang pertama (⟪तृतीयः⟫)
 
 ::: grammar-box
 Karena kata kerja terbatas (kata kerja yang dikonjugasikan) juga menyatakan agen (⟪कर्तृ⟫), kata "saya" atau "kami" dalam kalimat verbal non-pasif dengan kata kerja terbatas tidak perlu dinyatakan secara tambahan oleh kata ganti orang.
 :::
-## 40.5. Kata Ganti Orang (⟪पुरुषार्थकसर्वनाम⟫) Orang Pertama Tunggal dan Jamak
+## 40.5. Personalpronomen (⟪पुरुषार्थकसर्वनाम⟫)  1. Person Singular dan Plural
 
 ::: grammar-box
 Bentuk kata ganti orang (kata ganti orang) adalah sama untuk semua jenis kelamin.
 :::
 ::: grammar-box
 
-| | **⟪एकवचनम्⟫**:br"I" | **⟪बहुवचनम्⟫**:br"we" |
+| | ⟪एकवचनम्⟫ :br"ich" | ⟪बहुवचनम्⟫ :br"wir" |
 | :---: | :---: | :---: |
-| **⟪प्रथमा⟫** | **⟪अहम्⟫** | **⟪वयम्⟫** |
-| **⟪द्वितीया⟫** | **⟪माम्⟫** / **⟪मा⟫** | **⟪अस्मान्⟫** / **⟪नस्⟫** |
-| **⟪तृतीया⟫** | **⟪मया⟫** | **⟪अस्माभिस्⟫** |
-| **⟪चतुर्थी⟫** | **⟪मह्यम्⟫** / **⟪मे⟫** | **⟪अस्मभ्यम्⟫** / **⟪नस्⟫** |
-| **⟪पञ्चमी⟫** | **⟪मत्⟫** | **⟪अस्मत्⟫** |
-| **⟪षष्ठी⟫** | **⟪मम⟫** / **⟪मे⟫** | **⟪अस्माकम्⟫** / **⟪नस्⟫** |
-| **⟪सप्तमी⟫** | **⟪मयि⟫** | **⟪अस्मासु⟫** |
+| ⟪प्रथमा⟫ | ⟪अहम्⟫ | ⟪वयम्⟫ |
+| ⟪द्वितीया⟫ | ⟪माम्⟫ / ⟪मा⟫ | ⟪अस्मान्⟫ / ⟪नस्⟫ |
+| ⟪तृतीया⟫ | ⟪मया⟫ | ⟪अस्माभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪मह्यम्⟫ / ⟪मे⟫ | ⟪अस्मभ्यम्⟫ / ⟪नस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪मत्⟫ | ⟪अस्मत्⟫ |
+| ⟪षष्ठी⟫ | ⟪मम⟫ / ⟪मे⟫ | ⟪अस्माकम्⟫ / ⟪नस्⟫ |
+| ⟪सप्तमी⟫ | ⟪मयि⟫ | ⟪अस्मासु⟫ |
 
 :::
 ::: grammar-box
@@ -426,7 +426,7 @@ Sebagai anggota pertama dari majemuk, akhiran untuk kata ganti ini adalah:
 
 e.g. ⟪मत्पुस्तकम्⟫ "my book" ; ⟪अस्मद्पुस्तकानि⟫ "our books"
 :::
-## 40.6. Word List
+## 40.6. Daftar Kata
 
 ⟪पात्र⟫ n.: Venerable, Master, Worthy One
 
@@ -477,12 +477,13 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 therefrom:
 
 ⟪तीर्थ⟫ n.: tempat penyeberangan, tempat mandi suci, situs ziarah
-:::: media
+:::
+::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 (Sumber gambar: [Details](/en/licenses#lekt4003))
-::::
 :::
+
 ::: indent
 ⟪तीर्थङ्कर⟫ m. (dari: ⟪तीर्थम्⟫+ ⟪कृ⟫): pembuat penyeberangan (melintasi penderitaan) = 24 guru para Jain
 :::
@@ -499,11 +500,11 @@ Fig.: ⟪तीर्थङ्करः⟫
 therefrom:
 
 ⟪अवतार⟫ m.: (Descender, Descent) Inkarnasi seorang dewa, khususnya 10 inkarnasi Viṣṇu (lihat Basham, Wonder pp. 304 - 309)
-:::: media
+:::
+::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
 Fig.: ⟪विष्णोर्दशावताराः⟫
 (Sumber gambar: [Details](/en/licenses#lekt4001))
-::::
 :::
 ⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : tidur, tertidur
 
@@ -521,13 +522,13 @@ therefrom:
 ⟪स्वप्न⟫ m.: Sleep, dream
 
 ⟪सुप्ति⟫ f. (from \*svp-ti): Sleep, esp. deep sleep
-:::: media
+:::
+::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
 Fig.: ⟪स्वपन्ति⟫
 (Image source: [Details](/en/licenses#lekt4004))
-::::
 :::
-## 40.7. Exercise
+## 40.7. Latihan
 
 [A] Terjemahkan ⟪सुभाषितानि⟫ di awal pelajaran.
 
@@ -605,7 +606,7 @@ Fig.: ⟪स्वपन्ति⟫
 68.  ⟪पश्यामः⟫
 69.  ⟪ईक्षे⟫
 
-## 40.8. Form Exercise
+## 40.8. Latihan Tinjauan tentang Morfologi
 
 1.  ⟪ददे⟫
 2.  ⟪ददते⟫

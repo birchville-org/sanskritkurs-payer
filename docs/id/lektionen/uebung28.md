@@ -1,18 +1,18 @@
 ---
-title: "Exercise 28"
+title: "Latihan 28"
 uebung_id: 28
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Lesson 28
+# Latihan 28
 
 A) Bentukkan kata kerja kausatif untuk bentuk-bentuk kata kerja dan partisip berikut:
 
-### ⟪१⟫. With high-grade root (Guṇa)
+### ⟪१⟫. Dengan akar tingkat tinggi (Guṇa)
 
-| Form | Causative |
+| Bentuk | Kausatif |
 | :--- | :--- |
 | ⟪अर्हन्ति⟫ | ⟪अर्हयन्ति⟫ |
 | ⟪प्राप्य⟫ | ⟪प्रापय्य⟫ |
@@ -43,7 +43,7 @@ A) Bentukkan kata kerja kausatif untuk bentuk-bentuk kata kerja dan partisip ber
 | ⟪स्रक्ष्यति⟫ | ⟪सर्जयिष्यति⟫ |
 | ⟪लिम्पन्ति⟫ | ⟪लेपयन्ति⟫ |
 | ⟪वृद्धाः⟫ | ⟪वर्धिताः⟫ |
-### ⟪२⟫. With lengthened root (Vṛddhi)
+### ⟪२⟫. Dengan akar tingkat pemanjangan (Vṛddhi)
 
 | Form | Causative |
 | :--- | :--- |
@@ -86,7 +86,7 @@ A) Bentukkan kata kerja kausatif untuk bentuk-bentuk kata kerja dan partisip ber
 | ⟪सोढायाः⟫ | ⟪साहितायाः⟫ |
 | ⟪हरन्ती⟫ | ⟪हारयन्ती⟫ |
 | ⟪ऊढया⟫ | ⟪वाहितया⟫ |
-### ⟪३⟫. Causative in -⟪पय⟫ (and special forms)
+### ⟪३⟫. Kausatif auf -⟪पय⟫ (dan Sonderformen)
 
 | Akar | Kausatif | Makna |
 | :--- | :--- | :--- |
@@ -134,11 +134,11 @@ The noble Kṣatriyā has a Brāhmaṇa worship her personal deity.
 
 ⟪९⟫. **⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫**
 In order to conquer treasures, the great Kṣatriya will have the tiger-like warriors make vows.
-(Das ist: **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**)
+(Yaitu: **⟪योधव्याघ्रा⟫ ⟪व्रतानि⟫ ⟪चरिष्यन्ति⟫ ⟪।⟫**)
 
 ⟪१०⟫. **⟪पापाद्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫**
-Um sie vom Bösen zu befreien, veranlasst der Buddha edle Menschen, die edlen Wahrheiten zu erkennen.
-(Das ist: **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
+Untuk membebaskan mereka dari kejahatan, Sang Buddha mendorong orang-orang mulia untuk mengenali kebenaran-kebenaran mulia.
+(Yaitu: **⟪आर्यजना⟫ ⟪आर्यसत्यानि⟫ ⟪बुध्यन्ते⟫ ⟪।⟫**)
 
 ::: media
 ![](/images/uebung045.webp)

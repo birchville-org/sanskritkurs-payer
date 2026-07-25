@@ -1,16 +1,16 @@
 ---
-title: Lesson 61
-subtitle: "Declension of Root Nouns ending in -ā, -ī, -ū"
+title: Lektion 61
+subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 61
+# Pelajaran 61
 
-## 61.1. Declension of Root Nouns ending in -ā, -ī, -ū
+## 61.1. Deklination  Wurzelnomina auf -ā, -ī, -ū
 
-### 61.1.1. Root nouns ending in -ā in ⟪तत्पुरुष⟫
+### 61.1.1. Kata benda akar berakhiran -ā di akhir ⟪तत्पुरुष⟫
 
 ::: grammar-box
 **Sebelum akhiran vokal, vokaal akar dalam kasus lemah memiliki derajat-nol Ø.**
@@ -24,14 +24,14 @@ Paradigma:
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪विश्वपास्⟫ | ⟪विश्वपौ⟫ | ⟪विश्वपास्⟫ |
-| **⟪द्वितीया⟫** | ⟪विश्वपाम्⟫ | ^^ | ⟪विश्वपस्⟫ |
-| **⟪तृतीया⟫** | ⟪विश्वपा⟫ | ⟪विश्वपाभ्याम्⟫ | ⟪विश्वपाभस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪विश्वपे⟫ | ^^ | ⟪विश्वपाभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪विश्वपस्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
+| ⟪द्वितीया⟫ | ⟪विश्वपाम्⟫ | ^^ | ⟪विश्वपस्⟫ |
+| ⟪तृतीया⟫ | ⟪विश्वपा⟫ | ⟪विश्वपाभ्याम्⟫ | ⟪विश्वपाभस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪विश्वपे⟫ | ^^ | ⟪विश्वपाभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪विश्वपस्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine root nouns ending in -ī
+### 61.1.2. Feminine Wurzelnomina auf -ī
 
 ::: grammar-box
 **Vor vokalischer Endung wird -ī durch -iy ersetzt.**
@@ -45,33 +45,33 @@ Paradigma:
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪धीस्⟫ | ⟪धियौ⟫ | ⟪धियस्⟫ |
-| **⟪द्वितीया⟫** | ⟪धियम्⟫ | ^^ | ^^ |
-| **⟪तृतीया⟫** | ⟪धिया⟫ | ⟪धीभ्याम्⟫ | ⟪धीभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪धिये⟫ / ⟪धियै⟫ | ^^ | ⟪धीभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪धियस्⟫ / ⟪धिया्स्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ |
+| ⟪द्वितीया⟫ | ⟪धियम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪धिया⟫ | ⟪धीभ्याम्⟫ | ⟪धीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪धिये⟫ / ⟪धियै⟫ | ^^ | ⟪धीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪धियस्⟫ / ⟪धिया्स्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪धियोस्⟫ | ⟪धियाम्⟫ / ⟪धीनाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪धियि⟫ / ⟪धियाम्⟫ | ^^ | ⟪धीषु⟫ |
 
 Irregular: ⟪स्त्री⟫ f. "woman"
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
-| **⟪प्रथमा⟫** | ⟪स्त्री⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ |
-| **⟪द्वितीया⟫** | ⟪स्त्रियम्⟫ / ⟪स्त्रीम्⟫ | ^^ | ⟪स्त्रियस्⟫ / ⟪स्त्रीस्⟫ |
-| **⟪तृतीया⟫** | ⟪स्त्रिया⟫ | ⟪स्त्रीभ्याम्⟫ | ⟪स्त्रीभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪स्त्रियै⟫ | ^^ | ⟪स्त्रीभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪स्त्रियास्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪स्त्रियोस्⟫ | ⟪स्त्रीणाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪स्त्रियाम्⟫ | ^^ | ⟪स्त्रीषु⟫ |
-| **⟪आमन्त्रितम्⟫** | ⟪स्त्रि⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ |
-:::: media
-![](/images/lekt6102.webp)
-Fig.: ⟪स्त्रियः⟫
-(Image source: [Details](/en/licenses#lekt6102))
-::::
+| ⟪प्रथमा⟫ | ⟪स्त्री⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ |
+| ⟪द्वितीया⟫ | ⟪स्त्रियम्⟫ / ⟪स्त्रीम्⟫ | ^^ | ⟪स्त्रियस्⟫ / ⟪स्त्रीस्⟫ |
+| ⟪तृतीया⟫ | ⟪स्त्रिया⟫ | ⟪स्त्रीभ्याम्⟫ | ⟪स्त्रीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪स्त्रियै⟫ | ^^ | ⟪स्त्रीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪स्त्रियास्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪स्त्रियोस्⟫ | ⟪स्त्रीणाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪स्त्रियाम्⟫ | ^^ | ⟪स्त्रीषु⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪स्त्रि⟫ | ⟪स्त्रियौ⟫ | ⟪स्त्रियस्⟫ |
 :::
-### 61.1.3. Root nouns ending in -ī in ⟪तत्पुरुष⟫
+::: media
+![](/images/lekt6102.webp)
+Gbr.: ⟪स्त्रियः⟫
+(Sumber gambar: [Detail](/en/licenses#lekt6102))
+:::
+### 61.1.3. Nomina akar berakhiran -ī di akhir ⟪तत्पुरुष⟫
 
 ::: grammar-box
 **Before vocalic endings, -ī is replaced by -y if it is preceded only by a consonant belonging to the root. If several consonants belonging to the root precede, the -ī before a vocalic ending is replaced by -iy.**
@@ -88,47 +88,47 @@ Paradigms:
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪शुद्धधीस्⟫ | ⟪शुद्धध्यौ⟫ | ⟪शुद्धध्यस्⟫ |
-| **⟪द्वितीया⟫** | ⟪शुद्धध्यम्⟫ | ^^ | ^^ |
-| **⟪तृतीया⟫** | ⟪शुद्धध्या⟫ | ⟪शुद्धधीभ्याम्⟫ | ⟪शुद्धधीभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪शुद्धध्ये⟫ | ^^ | ⟪शुद्धधीभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪शुद्धध्यस्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
-| **⟪सप्तमी⟫** | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
+| ⟪द्वितीया⟫ | ⟪शुद्धध्यम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪शुद्धध्या⟫ | ⟪शुद्धधीभ्याम्⟫ | ⟪शुद्धधीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪शुद्धध्ये⟫ | ^^ | ⟪शुद्धधीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪शुद्धध्यस्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪शुद्धध्योस्⟫ | ⟪शुद्धध्याम्⟫ |
+| ⟪सप्तमी⟫ | ⟪शुद्धध्यि⟫ | ^^ | ⟪शुद्धधीषु⟫ |
 
 ⟪यवक्री⟫ m., f. "Buying barley"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪यवक्रीस्⟫ | ⟪यवक्रियौ⟫ | ⟪यवक्रियस्⟫ |
-| **⟪द्वितीया⟫** | ⟪यवक्रियम्⟫ | ^^ | ^^ |
-| **⟪तृतीया⟫** | ⟪यवक्रिया⟫ | ⟪यवक्रीभ्याम्⟫ | ⟪यवक्रीभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪यवक्रिये⟫ | ^^ | ⟪यवक्रीभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪यवक्रियस्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
+| ⟪द्वितीया⟫ | ⟪यवक्रियम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪यवक्रिया⟫ | ⟪यवक्रीभ्याम्⟫ | ⟪यवक्रीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪यवक्रिये⟫ | ^^ | ⟪यवक्रीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪यवक्रियस्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Monosyllabic feminine root nouns in -ū
+### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
 
 ::: grammar-box
 **Stem before vowel: -uv**
 
 **Deklination analog zu den femininen Wurzelnomina auf -ī**
 :::
-Paradigm:
+Paradigma:
 
 ⟪भू⟫ f. "Earth"
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪भूस्⟫ | ⟪भुवौ⟫ | ⟪भुवस्⟫ |
-| **⟪द्वितीया⟫** | ⟪भुवम्⟫ | ^^ | ^^ |
-| **⟪तृतीया⟫** | ⟪भुवा⟫ | ⟪भूभ्याम्⟫ | ⟪भूभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪भुवे⟫ / ⟪भुवै⟫ | ^^ | ⟪भूभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪भुवस्⟫ / ⟪भुवास्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
+| ⟪द्वितीया⟫ | ⟪भुवम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪भुवा⟫ | ⟪भूभ्याम्⟫ | ⟪भूभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪भुवे⟫ / ⟪भुवै⟫ | ^^ | ⟪भूभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪भुवस्⟫ / ⟪भुवास्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪भुवोस्⟫ | ⟪भुवाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪भुवि⟫ / ⟪भुवाम्⟫ | ^^ | ⟪भूषु⟫ |
 
-### 61.1.5. Root nouns ending in -ū in ⟪तत्पुरुष⟫
+### 61.1.5. Kata benda akar berakhiran -ū di akhir ⟪तत्पुरुष⟫
 
 ::: grammar-box
 **Before vocal endings, -ū is replaced by -v if it is preceded only by a consonant belonging to the root. If several consonants belonging to the root precede, the -ū before a vocal ending is replaced by -uv.**
@@ -142,12 +142,12 @@ Paradigma:
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
 | **⟪प्रथमा⟫ /:br⟪आमन्त्रितम्⟫** | ⟪खलपूस्⟫ | ⟪खलप्वौ⟫ | ⟪खलप्वस्⟫ |
-| **⟪द्वितीया⟫** | ⟪खलप्वम्⟫ | ^^ | ^^ |
-| **⟪तृतीया⟫** | ⟪खलप्वा⟫ | ⟪खलपूभ्याम्⟫ | ⟪खलपूभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪खलप्वे⟫ | ^^ | ⟪खलपूभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪खलप्वस्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪खलप्वोस्⟫ | ⟪खलप्वाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪खलप्वि⟫ | ^^ | ⟪खलपूषु⟫ |
+| ⟪द्वितीया⟫ | ⟪खलप्वम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪खलप्वा⟫ | ⟪खलपूभ्याम्⟫ | ⟪खलपूभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪खलप्वे⟫ | ^^ | ⟪खलपूभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪खलप्वस्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪खलप्वोस्⟫ | ⟪खलप्वाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪खलप्वि⟫ | ^^ | ⟪खलपूषु⟫ |
 
 ::: media
 ![](/images/lekt6106.webp)
@@ -155,7 +155,7 @@ Fig.: ⟪रथ्याप्वः⟫
 ⟪काशीपुर⟫
 (Image source: [Details](/en/licenses#lekt6106))
 :::
-### 61.1.6. Declension of multisyllabic feminine nouns ending in -ū
+### 61.1.6. Deklination mehrsilbiger Feminina auf -ū
 
 ::: grammar-box
 **Kata benda feminin multisilabik yang berakhiran -ū dideklinasikan secara analogis dengan kata benda multisilabik yang berakhiran -ī (⟪देवी⟫), namun mereka berakhir dengan -s pada Nom. sg.**
@@ -166,22 +166,22 @@ Paradigma:
 
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
-| **⟪प्रथमा⟫** | ⟪वधूस्⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ |
-| **⟪द्वितीया⟫** | ⟪वधूम्⟫ | ^^ | ⟪वधूस्⟫ |
-| **⟪तृतीया⟫** | ⟪वध्वा⟫ | ⟪वधूभ्याम्⟫ | ⟪वधूभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪वध्वै⟫ | ^^ | ⟪वधूभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪वध्वास्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪वध्वोस्⟫ | ⟪वधूनाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪वध्वाम्⟫ | ^^ | ⟪वधूषु⟫ |
-| **⟪आमन्त्रितम्⟫** | ⟪वधु⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ |
+| ⟪प्रथमा⟫ | ⟪वधूस्⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ |
+| ⟪द्वितीया⟫ | ⟪वधूम्⟫ | ^^ | ⟪वधूस्⟫ |
+| ⟪तृतीया⟫ | ⟪वध्वा⟫ | ⟪वधूभ्याम्⟫ | ⟪वधूभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪वध्वै⟫ | ^^ | ⟪वधूभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪वध्वास्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪वध्वोस्⟫ | ⟪वधूनाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪वध्वाम्⟫ | ^^ | ⟪वधूषु⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪वधु⟫ | ⟪वध्वौ⟫ | ⟪वध्वस्⟫ |
 
 ::: media
 ![](/images/lekt6107.webp)
-Fig.: ⟪वध्वौ⟫
+Gbr.: ⟪वध्वौ⟫
 ⟪जोधपुर⟫
-(Image source: [Details](/en/licenses#lekt6107))
+(Sumber gambar: [Detail](/en/licenses#lekt6107))
 :::
-## 61.2. The periphrastic future (⟪लुट्⟫)
+## 61.2. Futurum Perifrastis (⟪लुट्⟫)
 
 ::: grammar-box
 **Selain masa depan sederhana (⟪ऌत्⟫), terdapat masa depan periphrastik (⟪लुट्⟫). Menurut ajaran para gramatikus asli, masa depan periphrastik digunakan untuk menyatakan masa depan yang jauh ("setelah hari ini"), sedangkan masa depan sederhana menyatakan masa depan yang dekat ("pada hari ini"). Dalam Sanskrit Klasik, tampaknya tidak ada perbedaan dalam penggunaan kedua bentuk masa depan tersebut yang biasanya dibuat.**
@@ -226,7 +226,7 @@ Paradigm:
 ::: grammar-box
 **Kata kerja ⟪अस्⟫ sangat jarang dipisahkan dari batang nomina.**
 :::
-## 61.3. Intensivum (Frequentativum) (⟪चर्करीतम्⟫)
+## 61.3. Intensif (Frequentatif) (⟪चर्करीतम्⟫)
 
 ::: grammar-box
 **Sebuah Intensivum (⟪चर्करीतम्⟫) dapat dibentuk dari setiap akar monosilabik yang dimulai dengan konsonan dari sembilan kelas sekarang pertama; yaitu: dengan sedikit pengecualian, tidak ada Intensivum yang dapat dibentuk dari akar disilabik (misalnya ⟪जागृ⟫), akar yang dimulai dengan vokal, dan akar dari kelas sekarang ke-10 (⟪चुरादिगण⟫).**
@@ -246,13 +246,14 @@ Paradigm:
 *   **untuk beberapa akar (daftar: Kielhorn, Tata Bahasa § 458b) Intensivum berarti mencela:**  
 ⟪लुप्⟫ 6U: ⟪लोलुप्यते⟫ "ia memotong dengan buruk"  
 ⟪सद्⟫ 1P: ⟪सासद्यते⟫ "ia duduk dengan buruk"
-:::: media
+:::
+::: media
 ![](/images/lekt6104.webp)
 Fig.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
 Karnataka = ಕರ್ನಾಟಕ
 (Sumber gambar: [Details](/en/licenses#lekt6104))
-::::
 :::
+
 ::: grammar-box
 **Pembentukan Intensivum:**
 
@@ -263,7 +264,7 @@ Karnataka = ಕರ್ನಾಟಕ
 
 **Keduanya dibentuk dari akar yang diduplikasi dengan duplikasi kuat. Keduanya tidak berbeda dalam makna. Keduanya dapat dibentuk untuk akar yang sama.**
 :::
-### 61.3.1. Ātmanepada Intensif
+### 61.3.1. Ātmanepada-Intensifum
 
 ::: grammar-box
 **Formation:**
@@ -281,8 +282,7 @@ Examples:
 :::
 The rules in detail in Kielhorn, Grammar § 461.
 
-**Reduplikation: nach den allgemeinen Regeln. Reduplikationsvokal aber: statt a,i,u steht ā, e, o**
-Contoh:
+title: "Pelajaran 1: Pengantar"
 
 | ⟪दा⟫ 3U | ⟪देदीय⟫- |
 | --- | --- |
@@ -311,13 +311,13 @@ e.g.
 
 *   **Stem kini: menyerupai Ātmanepada dari kelas kini ke-4 (⟪दिवादिगण⟫).**
 *   **Stem untuk Pasif dan tenses lain: jika sebuah vokal mendahului -ya- dari stem intensif, maka -ya- diganti dengan -y-; jika sebuah konsonan mendahului -ya-, maka -ya- dihilangkan:**
-*   **Kini Pasif: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
-*   **Sempurna: periphrastic: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
-*   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-*   **Masa depan: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-*   **masa depan periphrastic: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+    *   **Kini Pasif: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
+    *   **Sempurna: periphrastic: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
+    *   **Aorist: iṣ-Aorist (Aorist 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
+    *   **Masa depan: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+    *   **masa depan periphrastic: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
-### 61.3.2. Parasmaipada-Intensivum
+### 61.3.2. Parasmaipada-Intensifum
 
 ::: grammar-box
 **Stem kini (bentuk lain sangat jarang): Pembentukan dan konjugasi seperti kata kerja dari kelas kini ke-3 (⟪जुहोत्यादिगण⟫) dengan perbedaan bahwa vokal dari suku kata reduplicasi adalah tingkat tinggi, dengan -a- sebagai tingkat ekstensi.**
@@ -335,42 +335,42 @@ Indicative Present (⟪लट्⟫):
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
-| 1. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
-| 2. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभोमि⟫ ⟪।⟫ ⟪बोभवीमि⟫ | ⟪बोभूवस्⟫ | ⟪बोभूमस्⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
 :::
 Imperfect (⟪लङ्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
-| 1. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ |
-| 2. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪अबोभवम्⟫ | ⟪अबोभूव⟫ | ⟪अबिभूम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
 Imperative (⟪लोट्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
-| 1. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ |
-| 2. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभवानि⟫ | ⟪बोभवाव⟫ | ⟪बोभवाम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
 :::
 Optative (⟪विधिलिङ्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |
-| 1. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ |
-| 2. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ |
+| 1\. ⟪तृतीयः⟫ | ⟪बोभूयाम्⟫ | ⟪बोभूयाव⟫ | ⟪बोभूयाम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪बोभूयास्⟫ | ⟪बोभूयातम्⟫ | ⟪बोभूयात⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪बोभूयात्⟫ | ⟪बोभूयाताम्⟫ | ⟪बोभूयुर्⟫ |
 :::
-## 61.4. Denominatives (⟪नामधातु⟫)
+## 61.4. Denominativa (⟪नामधातु⟫)
 
 Denominativa (⟪नामधातवः⟫) dibentuk, berbeda dengan kata kerja yang telah dibahas sejauh ini, bukan dari akar verbal, melainkan dari stam nomina. Terdapat berbagai jenis pembentukan.
 
-### 61.4.1. Formation without special suffix, Parasmaipada
+### 61.4.1. Pembentukan tanpa sufiks khusus, Parasmaipada
 
 ::: grammar-box
 **Meaning:**
@@ -394,7 +394,7 @@ Contoh:
 | ⟪माला⟫ f. "garland" | ⟪मालाति⟫ "it resembles a garland" |
 | ⟪राजन्⟫ m. "king" | ⟪राजानति⟫ "he behaves like a king" |
 
-### 61.4.2. Formation with the suffix -ya, Parasmaipada
+### 61.4.2. Pembentukan dengan sufiks -ya, Parasmaipada
 
 ::: grammar-box
 **Meaning:**
@@ -437,13 +437,14 @@ Note the meaning of:
 Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 ⟪हरिद्वार⟫
 (Image source: [Details](/en/licenses#lekt6105))
-:::: media
-![](/images/lekt6103.webp)
-Fig.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
-(Image source: [Details](/en/licenses#lekt6103))
-::::
 :::
-### 61.4.3. Formation with the Suffix -kāmya, Parasmaipada
+
+::: media
+![](/images/lekt6103.webp)
+Gbr.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
+(Image source: [Details](/en/licenses#lekt6103))
+:::
+### 61.4.3. Pembentukan dengan sufiks -kāmya, Parasmaipada
 
 ::: grammar-box
 **Meaning:**
@@ -458,11 +459,11 @@ Contoh:
 
 ::: media
 ![](/images/lekt6109.webp)
-Fig.: ⟪यशस्काम्यन्ति⟫
+Gbr.: ⟪यशस्काम्यन्ति⟫
 ⟪मुंबई⟫
-(Image source: [Details](/en/licenses#lekt6109))
+(Sumber gambar: [Detail](/en/licenses#lekt6109))
 :::
-### 61.4.4. Formation with the Suffix -sya or -asya, Parasmaipada
+### 61.4.4. Pembentukan dengan sufiks -sya atau -asya, Parasmaipada
 
 ::: grammar-box
 **Meaning:**
@@ -477,14 +478,14 @@ Contoh:
 | ⟪मधु⟫ n. "madu" | ⟪मधुस्यति⟫ ⟪।⟫ ⟪मध्वस्यति⟫ "ia menginginkan madu dengan intens" |
 | --- | --- |
 | ⟪अश्व⟫ m. "kuda jantan" | ⟪अश्वस्यति⟫ "(kuda betina) menginginkan kuda jantan dengan intens" |
-:::: media
+:::
+::: media
 ![](/images/lekt6110.webp)
-Fig.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
+Gbr.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
 Karli
 (Sumber gambar: [Details](/en/licenses#lekt6110))
-::::
 :::
-### 61.4.5. Pembentukan dengan akhiran -ya, Ātmanepada
+### 61.4.5. Pembentukan dengan sufiks -ya, Ātmanepada
 
 ::: grammar-box
 **Meaning:**
@@ -520,15 +521,15 @@ mis. ⟪उन्मनस्⟫ 3 "tergugah": ⟪उन्मनायते⟫
 Examples:
 
 ::: indent
-⟪दुःख⟫ n. "suffering" : ⟪दुःखायते⟫ "he experiences suffering"
-⟪शब्द⟫ m. "sound" : ⟪शब्दायते⟫ "he emits a sound"
-:::: media
-![](/images/lekt6111.webp)
-Fig.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
-(Image source: [Details](/en/licenses#lekt6111))
-::::
+⟪दुःख⟫ n. "penderitaan" : ⟪दुःखायते⟫ "ia mengalami penderitaan"
+⟪शब्द⟫ m. "suara" : ⟪शब्दायते⟫ "ia mengeluarkan suara"
 :::
-### 61.4.6. Formation with the suffix -aya, -āpaya
+::: media
+![](/images/lekt6111.webp)
+Gbr.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
+(Sumber gambar: [Detail](/en/licenses#lekt6111))
+:::
+### 61.4.6. Pembentukan dengan sufiks -aya, -āpaya
 
 ::: grammar-box
 **Various meanings.**
@@ -554,11 +555,12 @@ A list of denominatives e.g. in:
 Fig.:
 1845 - 1878 Profesor Filologi Indologis dan Oriental di Universitas Kopenhagen
 (Sumber gambar: [Details](/en/licenses#lekt6112))
-:::: indent
-**Westergaard**, Niels Ludvig \&lt;1815-1878\&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- S. 335 - 341.
-::::
 :::
-## 61.5. Benediktif (⟪आशीर्लिङ्⟫)
+
+::: indent
+**Westergaard**, Niels Ludvig \&lt;1815-1878\&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- hlm. 335 - 341.
+:::
+## 61.5. Benediktivus (⟪आशीर्लिङ्⟫)
 
 ::: grammar-box
 **Meaning:**
@@ -602,14 +604,14 @@ Paradigm:
 | **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ***⟪बुध्यात्⟫*** | ⟪बुध्यास्ताम्⟫ | ***⟪बुध्यासुर्⟫*** | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
-:::: media
-![](/images/lekt6114.webp)
-Fig.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
-Santa Cruz Basilica, Kochi = കൊച്ചി
-(Image source: [Details](/en/licenses#lekt6114))
-::::
 :::
-## 61.6. The Conditional (⟪ऌङ्⟫)
+::: media
+![](/images/lekt6114.webp)
+Gbr.: ⟪नववर्षं⟫ ⟪शुभं⟫ ⟪भूयात्⟫ ⟪॥⟫
+Santa Cruz Basilica, Kochi = കൊച്ചി
+(Sumber gambar: [Detail](/en/licenses#lekt6114))
+:::
+## 61.6. Kondisional (⟪ऌङ्⟫)
 
 ::: grammar-box
 **Kondisional (⟪ऌङ्⟫) digunakan ketika seseorang ingin menyatakan dalam kalimat kondisional bahwa apa yang dinyatakan sebagai kondisi tidak terjadi / belum terjadi / tidak akan terjadi. Kondisional harus digunakan dalam kalimat-kalimat tersebut, baik pada klausa kondisional maupun klausa utama.**
@@ -640,7 +642,7 @@ Paradigm:
 | **2\. ⟪मध्यमः⟫** | ⟪अभविष्यस्⟫ | ⟪अभविष्यतम्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्यथास्⟫ | ⟪अभविष्येथाम्⟫ | ⟪अभविष्यध्वम्⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪अभविष्यत्⟫ | ⟪अभविष्यताम्⟫ | ⟪अभविष्यन्⟫ | ⟪अभविष्यत⟫ | ⟪अभविष्येताम्⟫ | ⟪अभविष्यन्त⟫ |
 :::
-## 61.7. Declension of Nouns in -ai, -o, -au
+## 61.7. Deklination  Nomina auf -ai, -o, -au
 
 ::: grammar-box
 **Before consonants, these stems end in -ai, -o, -au; before consonants in -āy, -av, -āv**
@@ -652,50 +654,52 @@ Paradigms: Kielhorn, Grammar § 153:
 ::: media
 ![](/images/lekt6115.webp)
 (Image source: [Details](/en/licenses#lekt6115))
-:::: media
+:::
+
+::: media
 ![](/images/lekt6118.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
 (Image source: [Details](/en/licenses#lekt6118))
-::::
 :::
-## 61.8. Remaining Pronouns
+## 61.8. Restliche Pronomina
 
-### 61.8.1. Kata Ganti Orang Dwivachana
+### 61.8.1. Personalpronomen  Dual
 
 Kielhorn, Grammar § 177:
 
 ::: media
 ![](/images/lekt6116.jpg)
 (Image source: [Details](/en/licenses#lekt6116))
-:::: media
+:::
+
+::: media
 ![](/images/lekt6117.webp)
 Fig.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
 Apatani people, Arunachal Pradesh
 (Image source: [Details](/en/licenses#lekt6117))
-::::
 :::
-### 61.8.2. Demonstrative Pronouns ⟪अदस्⟫ "that (distant)"
+### 61.8.2. Demonstrativpronomen ⟪अदस्⟫ "jener (entfernte)"
 
 Masculine (⟪पुंस्⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: | :---: |
-| **⟪प्रथमा⟫** | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमी⟫ |
-| **⟪द्वितीया⟫** | ⟪अमुम्⟫ | ^^ | ⟪अमून्⟫ |
-| **⟪तृतीया⟫** | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमीभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪अमुष्मै⟫ | ^^ | ⟪अमीभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪अमुष्मात्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
+| ⟪प्रथमा⟫ | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमी⟫ |
+| ⟪द्वितीया⟫ | ⟪अमुम्⟫ | ^^ | ⟪अमून्⟫ |
+| ⟪तृतीया⟫ | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪अमुष्मै⟫ | ^^ | ⟪अमीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪अमुष्मात्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
 :::
 Neuter (⟪नपुंसक⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: | :---: |
-| **⟪प्रथमा⟫** | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
-| **⟪द्वितीया⟫** | ^^ | ^^ | ^^ |
+| ⟪प्रथमा⟫ | ⟪अदस्⟫ | ⟪अमू⟫ | ⟪अमूनि⟫ |
+| ⟪द्वितीया⟫ | ^^ | ^^ | ^^ |
 
 Rest as Masculine
 
@@ -705,15 +709,15 @@ Feminine (⟪स्त्री⟫)
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :---: | :---: | :---: |
-| **⟪प्रथमा⟫** | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमूस्⟫ |
-| **⟪द्वितीया⟫** | ⟪अमूम्⟫ | ^^ | ^^ |
-| **⟪तृतीया⟫** | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमूभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪अमुष्यै⟫ | ^^ | ⟪अमूभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪अमुष्यास्⟫ | ^^ | ^^ |
-| **⟪षष्ठी⟫** | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
+| ⟪प्रथमा⟫ | ⟪असौ⟫ | ⟪अमू⟫ | ⟪अमूस्⟫ |
+| ⟪द्वितीया⟫ | ⟪अमूम्⟫ | ^^ | ^^ |
+| ⟪तृतीया⟫ | ⟪अमुना⟫ | ⟪अमूभ्याम्⟫ | ⟪अमूभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪अमुष्यै⟫ | ^^ | ⟪अमूभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪अमुष्यास्⟫ | ^^ | ^^ |
+| ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Release into the Ocean of Sanskrit Literature: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+## 61.9. Pelepasan ke Samudra Sastra Sanskerta: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
 
 Setelah menyelesaikan kursus Sanskerta, "berenang" yang sebenarnya di lautan literatur Sanskerta baru dimulai. Karena lautan ini penuh dengan rintangan, adalah tepat untuk memulai fase kehidupan baru ini dengan seruan kepada Gaṇeśa:
 
@@ -723,6 +727,7 @@ Fig.: ⟪श्रीगणनाथः⟫
 Halebidu (ಹಳೆಬೀಡು), 12th/13th century CE
 (Image source: [Details](/en/licenses#lekt6101))
 :::
+
 ::: no-header
 |   |   |
 | --- | --- |
@@ -735,9 +740,8 @@ Composer and poet: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 Rāga: Malahari (corresponding to ⟪मायामाळवगौळ⟫ = Māyāmālavagauḷa = ಮಾಯಾಮಾಲವಗೌಳ = மாயாமாளவகௌளை):
 
 *   ārohaṇa: s r1 m1 p d1 S
-    
+
 *   avarohaṇa: S d1 p m1 g3 r1 s
-    
 
 Tāla: Rūpaka: o |4
 
@@ -759,7 +763,6 @@ Ofterdingen, 2009-03-09
 
 END OF THE SANSKRIT COURSE
 :::
----
 
 ::: deleteme-box
 

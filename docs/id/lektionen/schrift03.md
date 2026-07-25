@@ -1,10 +1,10 @@
 # Devanāgarī = ⟪देवनागरी⟫
 
-## Writing Exercise 3
+## Latihan Aksara 3
 
 ![](/images/schrift005.webp)
 
-## Exercise
+## Latihan
 
 A) Write in Devanāgarī:
 

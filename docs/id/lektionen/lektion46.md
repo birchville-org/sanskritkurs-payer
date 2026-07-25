@@ -1,35 +1,35 @@
 ---
-title: Pelajaran 46
-subtitle: "Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) Sempurna (⟪लिट्⟫)"
+title: Lektion 46
+subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
-category: "Tata Bahasa"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
-# Lesson 46
+# Pelajaran 46
 
-## 46.1. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) Sempurna (⟪लिट्⟫)
+## 46.1. Bildung  Verbalformen  2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
 
-### 46.1.1. Endings
+### 46.1.1. Endungen
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **Akhiran sempurna** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ^^ \-tha | \-a | \-se | \-dhve |
+| **Akhiran sempurna** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ^^ \-tha | \-a | \-se | \-dhve | \-dhve |
 :::
 Perhatikan bahwa akhiran -- sebagian besar, tetapi bukan bentuknya! -- dari 2.pl.P bertepatan dengan yang dari 1. dan 3.sg.P.
 
 ::: grammar-box
 Sebelum -tha, dengan sebagian besar akar yang berakhiran -ṛ, tidak ada vokal penghubung \-i- muncul. Dengan beberapa akar, \-i- sebelum \-tha- bersifat opsional.
 :::
-### 46.1.2. Perubahan Bunyi Akhiran -dhve
+### 46.1.2. Lautveränderung  Endung -dhve
 
 ::: grammar-box
 The ending -dhve must be replaced by -ḍhve in the perfect when a root-internal -u or -ṛ immediately precedes it. This replacement can optionally occur after the connecting vowel -i- when a semivowel or h immediately precedes that -i-.
 :::
-### 46.1.3. Jenis Sempurna I: tanpa gradasi tematis
+### 46.1.3. Perfekt Typ I: keine Stammabstufung
 
 Verbs that follow this type:
 
@@ -46,7 +46,7 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बबन्धिथ⟫:br⟪बबन्द्ध⟫ | ⟪बबन्ध⟫ |
 :::
 ⟪जीव्⟫ 1P
@@ -54,18 +54,18 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \&lt;⟪जिजीविषे⟫\&gt; | \&lt;⟪जिजीविध्वे⟫\&gt;:br\&lt;⟪जिजीविढ्वे⟫\&gt; |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \<⟪जिजीविषे⟫\> | \<⟪जिजीविध्वे⟫\>:br\<⟪जिजीविढ्वे⟫\> |
 :::
 ⟪अस्⟫ 2P, 4P
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪आसिथ⟫ | ⟪आस⟫ | \&lt;⟪आसिषे⟫\&gt; | \&lt;⟪आसिध्वे⟫\&gt; |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
 :::
-### 46.1.4. Perfect Type II: strong stem full grade, weak stem reduced grade
+### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
 
 Verbs that follow this type:
 
@@ -76,7 +76,7 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बिभेदिथ⟫ | ⟪बिभिद⟫ | ⟪बिभिदिषे⟫ | ⟪बिभिदिध्वे⟫ |
 :::
 ⟪मुह्⟫ 4P optionally ⟪अनिट्⟫
@@ -84,12 +84,12 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
-### 46.1.5. Perfect Type III: Strong Stem Full/Extended Grade
+### 46.1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
 
-#### 46.1.5.1. Perfect Type IIIa: Strong Stem Full/Extended Grade, Weak Stem Low Grade
+#### 46.1.5.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
 
 Verbs that follow this type:
 
@@ -101,7 +101,7 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪इयेथ⟫:br⟪इययिथ⟫:briy-e + i-tha | ⟪ईय⟫:bri + iy-a |
 :::
 ⟪नी⟫ 2U
@@ -109,7 +109,7 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪निनयिथ⟫:br⟪निनेथ⟫ | ⟪निन्य⟫:brninī + a | ⟪निन्यिषे⟫ | ⟪निन्यिध्वे⟫:br⟪निन्यिढ्वे⟫ |
 :::
 ⟪स्तु⟫ 2U (⟪अनिट्⟫)
@@ -117,7 +117,7 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪तुष्टोथ⟫ | ⟪तिष्टुव⟫ | ⟪तुष्टुषे⟫ | ⟪तुष्टुढ्वे⟫ |
 :::
 ⟪कृ⟫ 8U (⟪अनिट्⟫)
@@ -125,10 +125,10 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
-#### 46.1.5.2. Perfect Type IIIb: Strong Stem Full/Extended Grade, Weak Stem Full Grade
+#### 46.1.5.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
 
 Verbs that follow this type:
 
@@ -140,7 +140,7 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪पपरिथ⟫ | ⟪पपर⟫:br= 1.sg.P |
 :::
 ⟪संस्कृ⟫ 8U
@@ -148,10 +148,10 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
-### 46.1.6. Perfect Type IV: Roots ending in -ā / -ai
+### 46.1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
 
 *   Weak stem:
     *   before consonant: Low-grade-i
@@ -162,38 +162,38 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪ददाथ⟫:br⟪ददिथ⟫:brda-di-tha:bror::brda-d-i-tha | ⟪दद⟫ | ⟪ददिषे⟫ | ⟪ददिध्वे⟫ |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ⟪ददाथ⟫:br⟪ददिथ⟫:brda-di-tha:broder::brda-d-i-tha | ⟪दद⟫ | ⟪ददिषे⟫ | ⟪ददिध्वे⟫ |
 :::
 ⟪गै⟫ 1P
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
-### 46.1.7. Perfect Type V: Consonant-a-Consonant
+### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
 
-#### 46.1.7.1. Perfect Type Va: Consonant-a-Consonant, weak stem strong grade
+#### 46.1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
 
 Verbs that follow this type:
 
 ::: indent
-1. gam "pergi"
-2. han (»ghan) "memukul"
-3. jan "terlahir"
-4. vac "berbicara"
-5. vad "berbicara"
-6. yaj "mengorbankan"
-7. dll.
+1.  gam "pergi"
+2.  han (»ghan) "memukul"
+3.  jan "terlahir"
+4.  vac "berbicara"
+5.  vad "berbicara"
+6.  yaj "mengorbankan"
+7.  dll.
 :::
 ⟪गम्⟫ 1P
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगमिथ⟫:br⟪जगन्थ⟫ | ⟪जग्म⟫ |
 :::
 ⟪हन्⟫ 2P
@@ -201,7 +201,7 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जघनित⟫:br⟪जगन्थ⟫ | ⟪जघ्न⟫ |
 :::
 ⟪जन्⟫ 4Ā
@@ -209,7 +209,7 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जज्ञिषे⟫ | ⟪जज्ञिध्वे⟫ |
 :::
 ⟪यज्⟫ 1U
@@ -217,7 +217,7 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪इयजिथ⟫:br⟪इयष्ठ⟫ | ⟪ईज⟫ | ⟪ईजिषे⟫ | ⟪ईजिध्वे⟫ |
 :::
 ⟪वच्⟫ 1P
@@ -225,7 +225,7 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪उवचिथ⟫:br⟪उवक्थ⟫ | ⟪ऊच⟫ |
 :::
 ⟪वह्⟫ 1U
@@ -233,7 +233,7 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪उवहिथ⟫:br⟪उवोढ⟫ | ⟪ऊह⟫ | ⟪ऊहिषे⟫ | ⟪ऊहिध्वे⟫:br⟪ऊहिढ्वे⟫ |
 :::
 ⟪वद्⟫ 1P
@@ -241,7 +241,7 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪उवदिथ⟫ | ⟪ऊद⟫ |
 :::
 ⟪स्वप्⟫ 2P
@@ -249,10 +249,10 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:brfrom: su + *svp + a |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
 :::
-#### 46.1.7.2. Perfect Type Vb: Consonant-a-Consonant, initial consonant not guttural, aspirate, h, weak stem without reduplication, with -e-
+#### 46.1.7.2. Perfek Tipe Vb: Konsonan-a-Konsonan, Konsonan awal bukan gutural, aspirat, h, Dasar lemah tanpa reduplikasi, dengan -e-
 
 ::: grammar-box
 Bentuk 2.sg.P. dibentuk dari stem lemah ketika vokal penghubung -i- muncul.
@@ -262,10 +262,10 @@ Bentuk 2.sg.P. dibentuk dari stem lemah ketika vokal penghubung -i- muncul.
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪पपक्थ⟫:br***⟪पेचिथ⟫*** | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ⟪पपक्थ⟫:br sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
-#### 46.1.7.3. Perfect Type Vc: Consonant-a-Consonant, weak stem strong grade
+#### 46.1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
 
 Verbs that follow this type:
 
@@ -276,17 +276,17 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
 :::
-### 46.1.8. Special Perfect Conjugations
+### 46.1.8. Besondere Perfekt-Bildungen
 
 ⟪विद्⟫ 2P present perfect
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪वेत्थ⟫ | ⟪विद⟫ |
 :::
 ⟪अह्⟫
@@ -294,7 +294,7 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪आत्थ⟫ | \--- |
 :::
 ⟪भू⟫ 1P
@@ -302,7 +302,7 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बभूविथ⟫ | ⟪बभूव⟫:br= 1.3.sg.P |
 :::
 ⟪जि⟫ 1P
@@ -310,10 +310,10 @@ Verbs that follow this type:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जिगेथ⟫:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
 :::
-### 46.1.9. Periphrastic Perfect (⟪अनुप्रयोगलिट्⟫)
+### 46.1.9. Periphrastisches Perfekt (⟪अनुप्रयोगलिट्⟫)
 
 The periphrastic perfect is formed from:
 
@@ -323,20 +323,20 @@ The periphrastic perfect is formed from:
 *   beberapa lainnya
 *   untuk beberapa akar, kedua bentuk sempurna dapat dibentuk secara opsional: uṣ "membakar", vid "mengetahui", jāgṛ "bangun", daridrā "miskin"
 *   untuk akar berikut, kedua bentuk sempurna dapat dibentuk secara opsional dan bentuk sempurna periphrastik juga diduplikasi, yaitu dengan suku kata duplikasi dari akar kini:
-*   bhī "takut"
-*   bhṛ "membawa"
-*   hu "mengorbankan"
-*   hrī "malu"
+    *   bhī "takut"
+    *   bhṛ "membawa"
+    *   hu "mengorbankan"
+    *   hrī "malu"
 
 ⟪बन्ध्⟫ Causative
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| :---: | :---: | :---: | :---: |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
 :::
-## 46.2. Word List
+## 46.2. Daftar Kata
 
 ⟪सम⟫ 3: same, equal, similar
 
@@ -378,17 +378,20 @@ Regarding ⟪राहु⟫ and ⟪केतु⟫ see:
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/en/licenses#lekt4602)
 (Sumber gambar: [Details](/en/licenses#lekt4602))
-:::: media
+:::
+
+::: media
 ![](/images/lekt4603.webp)
 Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/en/licenses#lekt4603)
 (Sumber gambar: [Details](/en/licenses#lekt4603))
-::::
 :::
+
 ::: media
 ![](/images/lekt4604.webp)
 Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/en/licenses#lekt4604)
 (Sumber gambar: [Details](/en/licenses#lekt4604))
 :::
+
 ::: media
 ![](/images/lekt4605.webp)
 Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/en/licenses#lekt4605)
@@ -415,11 +418,11 @@ Caus. ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫
 PPP ⟪नत⟫  
 Inf. ⟪नन्तुम्⟫
 
-:::: media
+:::
+::: media
 ![](/images/lekt4607.webp)
 Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/en/licenses#lekt4607)
 (Image source: [Details](/en/licenses#lekt4607))
-::::
 :::
 ⟪रुह्⟫ 1P ⟪रोहति⟫ : climb, ascend
 
@@ -431,11 +434,11 @@ Caus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***⟪प⟫***⟪यति
 PPP. ***⟪रूढ⟫***  
 Inf. ⟪रोढुम्⟫
 
-:::: media
+:::
+::: media
 ![](/images/lekt4606.webp)
 Fig.: [⟪अश्वरोहकः⟫](/en/licenses#lekt4606)
 (Image source: [Details](/en/licenses#lekt4606))
-::::
 :::
 ⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : call, summon
 
@@ -448,12 +451,13 @@ PPP ⟪हूत⟫
 Inf. ⟪ह्वातुम्⟫  
 Absol. -⟪हूय⟫
 
-:::: media
+:::
+::: media
 ![](/images/lekt4608.webp)
 Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/en/licenses#lekt4608)
 (Image source: [Details](/en/licenses#lekt4608))
-::::
 :::
+
 ::: indent
 1 ⟪महामात्र⟫ m. "Mahout"; ⟪चरिष्णु⟫ 3 "mobile", ⟪दूरशब्द⟫ m. "long-distance call, telephone" » ⟪चरिष्णुदूरशब्द⟫ "mobile phone" (word formation: A. Payer)
 
@@ -475,11 +479,11 @@ Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्�
 from that:
 ⟪आश्रम⟫ m.n.
 
-:::: media
+:::
+::: media
 ![](/images/lekt4609.webp)
 Fig.: [⟪श्रान्तः⟫](/en/licenses#lekt4609)
 (Sumber gambar: [Details](/en/licenses#lekt4609))
-::::
 :::
 ⟪श्रि⟫ 1U ⟪श्रयति⟫ : bersandar, bertumpu pada, menemukan dukungan, pergi kepada seseorang (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
@@ -504,11 +508,11 @@ Inf. ⟪संक्तुम्⟫
 dari sana:
 ⟪सङ्ग⟫ m.: lampiran, kontak dengan (⟪तृतीयया⟫)
 
-:::: media
+:::
+::: media
 ![](/images/lekt4610.webp)
 Fig.: [⟪सङ्गः⟫](/en/licenses#lekt4610)
 (Image source: [Details](/en/licenses#lekt4610))
-::::
 :::
 ⟪द्रु⟫ 1P ⟪द्रवति⟫ : to run, to hasten
 
@@ -546,11 +550,11 @@ PPP ⟪लम्बित⟫
 Inf. ⟪लम्बितुम्⟫  
 Absol. -⟪लम्ब्य⟫
 
-:::: media
+:::
+::: media
 ![](/images/lekt4601.jpg)
 Fig.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/en/licenses#lekt4601)
 (Image source: [Details](/en/licenses#lekt4601))
-::::
 :::
 ⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : to hang on (⟪द्वितीयया⟫)
 
@@ -576,7 +580,7 @@ e.g.
 Fig.: [⟪भोः⟫](/en/licenses#lekt4611)
 (Image source: [Details](/en/licenses#lekt4611))
 :::
-## 46.3. Exercise
+## 46.3. Latihan
 
 A) Identify and translate the following forms:
 
@@ -651,6 +655,7 @@ B) Translate:
 Fig.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/en/licenses#lekt4612)
 (Image source: [Details](/en/licenses#lekt4612))
 :::
+
 ::: deleteme-box
 
 Navagraha images source: Redtigerxyz / Wikipedia. GNU FDLicense
@@ -671,3 +676,4 @@ L4611: ⟪भोः⟫, Kutch=⟪कच्छ⟫. Source: orange tuesday, Flickr
 
 L4612: Mumbai=⟪मुंबई⟫ after the attack, July 11, 2006. Source: Sun Pictures / Lakshman, Flickr, CC BY-NC-SA 2.0
 :::
+

@@ -1,5 +1,5 @@
 ---
-title: "# Pelajaran 1"
+title: Lektion 1
 subtitle: "Die Laute des Sanskrit"
 lesson_id: 1
 category: "Grammatik"
@@ -7,10 +7,7 @@ status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
-
-
 # Pelajaran 1
-
 
 ::: center
 ⟪गणेशपूजनम्⟫
@@ -75,12 +72,11 @@ Makna sebuah kalimat.
 
 Di awal, sebuah keanehan:
 
-
 >"Ketika William Jones [1746–1794] dan Henry Thomas Colebrooke (1765—1857) pertama kali mempelajari Sanskrit secara mendalam, menerjemahkannya sebagian, dan menemukan bahwa bahasa tersebut memiliki literatur yang kaya serta kekerabatan yang tidak kecil dengan bahasa-bahasa klasik, mereka menghadapi perlawanan yang cukup besar. Karena hubungan erat Sanskrit dengan bahasa-bahasa Eropa yang secara geografis sangat jauh tidak dapat diselaraskan dengan pandangan lama, yang entah menurunkan semua bahasa dari bahasa Ibrani atau menganggapnya sebagian besar terisolasi satu sama lain, maka ahli filologi terkenal Dugald Steward (1753—1828) mengambil jalan keluar paling sederhana, yaitu dengan menyatakan seluruh sejarah yang berkaitan dengan bahasa Sanskrit sebagai kebohongan. Ia menulis sebuah esai di mana ia berusaha membuktikan bahwa bahasa tersebut dipalsukan oleh Brahmana yang licik berdasarkan pola Yunani dan Latin, sehingga baik bahasanya maupun literaturnya adalah pemalsuan. Pandangan ini masih dikembangkan secara luas oleh profesor di Dublin, Charles William Wall, pada tahun 1840 (Göttingische gelehrte Anzeigen 1842 hlm. 1888)."
 >
 >[Sumber: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- hlm. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Diakses pada 2010-01-10]
 
-## 1.1. Literatur untuk pemula dalam Indologi
+## 1.1. Literatur untuk Pemula dalam Indologi
 
 ::: media
 ![](/images/lekt0103.webp)
@@ -90,7 +86,6 @@ Fig.: Sampul edisi saku
 
 >**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Bagian: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sejak itu banyak edisi, termasuk edisi saku. -- **Wajib dibaca.** Gambaran umum yang baik tentang kehidupan, sejarah, dan budaya di India pra-Islam. Tinjauan menyeluruh atas berbagai bidang Indologi klasik.
 
-
 ::: media
 ![](/images/lekt0104.webp)
 Gambar: Halaman judul
@@ -99,7 +94,7 @@ Gambar: Halaman judul
 
 Tata bahasa sistematis terbaik:
 
-> **Kielhorn**, Franz \&lt;1840-1908\&gt;: Grammatik der Sanskrit-Sprache / Diterjemahkan dari bahasa Inggris oleh W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Judul asli: A grammar of the Sanscrit language
+> **Kielhorn**, Franz &lt;1840-1908&gt;: Tata Bahasa Sanskerta / Diterjemahkan dari bahasa Inggris oleh W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Judul asli: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -119,7 +114,7 @@ Gambar: Sampul buku
 
 Sebuah paparan yang baik dan ringkas tentang terminologi ilmu bahasa Eropa dapat ditemukan dalam:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. Disunting oleh Elmar Seebold. -- Edisi ke-24, yang telah ditinjau dan diperluas. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- Hal. XIII - XLVII.
+> **Kamus Etimologis Bahasa Jerman** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. Disunting oleh Elmar Seebold. -- Edisi ke-24, yang telah ditinjau dan diperluas. -- Berlin [dll.] : de Gruyter, 2002. - LXXXIX, 1023 hlm. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- Hal. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)
@@ -129,10 +124,9 @@ Gambar: Sampul judul
 
 Untuk yang ingin tahu untuk referensi:
 
-> **Lexikon der Sprachwissenschaft** / Diedit oleh Hadumod Bussmann. -- Edisi ke-4, yang telah ditinjau dan dilengkapi secara bibliografis / dengan partisipasi Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7
+> **Leksikon Ilmu Bahasa** / Diedit oleh Hadumod Bussmann. -- Edisi ke-4, yang telah ditinjau dan dilengkapi secara bibliografis / dengan partisipasi Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 S. ; 22 cm. -- ISBN 978-3-520-45204-7
 
-
-## 1.2. Bunyi-bunyi Sanskerta
+## 1.2. Bunyi-bunyi Bahasa Sansekerta
 
 Bunyi-bunyi Sanskerta menurut klasifikasi tradisional India dan transliterasi ilmiahnya.
 
@@ -158,33 +152,22 @@ Klasifikasi
 ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
 ⟪ह⟫ ha
 :::
-### 1.2.1. Tentang pengucapan bunyi-bunyi tertentu
+### 1.2.1. Mengenai pelafalan bunyi-bunyi individual
 
 ::: laut-table
 | Bunyi | Deskripsi |
 | :--- | :--- |
 | **a - ⟪अ⟫** | "a pendek" diucapkan oleh orang India -- sejak zaman kuno -- sering seperti ə. Di Eropa, ini diucapkan sebagai a pendek, di Bengalen sebagai o gelap pendek. |
 | **ṛ - ⟪ऋ⟫** | seperti r vokal bahasa Bohemia. Gema ringan dari i. |
-| **ṝ - ⟪ॠ⟫** | seperti r vokal bahasa Bohemia. Gema ringan dari u. |
-
-
 | **ṝ - ⟪ॠ⟫** | seperti r yang divokalkan dalam bahasa Bohemia. Gema ringan dari u. |
-
 | **jñ - ⟪ज्ञ्⟫** | juga seperti dny (Marathi) atau gy (India Utara). |
-
 | **ś - ⟪श्⟫** | Bunyi sch dengan ujung lidah melengkung ke bawah. Mirip dengan 'sch' dalam "mischen". |
-
 | **ṣ - ⟪ष्⟫** | Bunyi ach dengan ujung lidah yang melengkung ke belakang. Seringkali diartikulasikan sangat jauh di belakang tenggorokan sehingga terdengar hampir seperti kh. |
-
 | **h - ⟪ह्⟫** | Bunyi hembusan, tidak pernah tanda panjang. |
-
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Bunyi hembusan bersuara rendah dengan gema vokal sebelumnya atau bagian kedua dari diftong sebelumnya: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
-
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Sebelum bunyi desis, h, l: nasalisasi vokal. Di akhir kata = m. Di tengah kata sebelum konsonan: nasal yang sesuai dengan konsonan berikutnya: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
-
+:::
 Pelafalan terbaik dicapai ketika kalimat, bait, atau kata-kata dibaca dengan cukup lambat dan monoton, dengan memperhatikan panjang vokal secara akurat.
-
----
 
 ## 1.3. Latihan
 
@@ -202,4 +185,3 @@ Pelafalan terbaik dicapai ketika kalimat, bait, atau kata-kata dibaca dengan cuk
 10. saṃskṛta — ⟪संस्कृत⟫
 
 **B) Bacalah ekspresi-ekspresi Sanskerta dalam klasifikasi fonetik di atas.**
-

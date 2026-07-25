@@ -1,26 +1,26 @@
 ---
-title: Lesson 37
-subtitle: "The Adverb (⟪क्रियाविशेषणम्⟫)"
+title: Lektion 37
+subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 37
+# Pelajaran 37
 
 ## 37.1. Adverbia (⟪क्रियाविशेषणम्⟫)
 
 Adverbs are formed in Sanskrit
 
-1. melalui bentuk kasus kata benda dan kata ganti
-2. dengan bantuan akhiran dan imbuhan khusus
+1.  melalui bentuk kasus kata benda dan kata ganti
+2.  dengan bantuan akhiran dan imbuhan khusus
 
 Dalam kasus pertama, batas antara kasus hidup dan kata keterangan bersifat cair. Ini mencakup sebagai kasus khusus kata-kata keterangan yang memfosil, bentuk-bentuk lama dari kasus, sementara dalam deklinasi digunakan bentuk lain atau kata benda yang sesuai tidak lagi digunakan sebagai kata benda.
 
-## 37.2. Adverbial Use of Case Forms
+## 37.2. Penggunaan Adverbial dari Bentuk-Bentuk Kasus
 
-### 37.2.1. Accusative (⟪द्वितीया⟫)
+### 37.2.1. Akkusativ (⟪द्वितीया⟫)
 
 ::: grammar-box
 Akusatif (⟪द्वितीया⟫) dapat digunakan secara adverbia sebagai respons terhadap pertanyaan:
@@ -49,7 +49,7 @@ Contoh:
 ⟪यद्⟫ "jika, bahwa"  
 ⟪एतद्⟫ "demikian, di sini, sekarang"
 :::
-### 37.2.2. Instrumental (⟪तृतीया⟫)
+### 37.2.2. Instrumentalis (⟪तृतीया⟫)
 
 ::: grammar-box
 Kasus Aletif (⟪तृतीया⟫) dapat digunakan secara adverbial sebagai respons terhadap pertanyaan:
@@ -83,7 +83,7 @@ Contoh:
 ::: indent
 ⟪अर्थाय⟫ "untuk tujuan, demi ..."
 :::
-### 37.2.4. Ablatif (⟪पञ्चमी⟫)
+### 37.2.4. Ablativ (⟪पञ्चमी⟫)
 
 ::: grammar-box
 Ablatif (⟪पञ्चमी⟫) dapat digunakan secara adverbia sebagai respons terhadap pertanyaan:
@@ -106,14 +106,14 @@ Contoh:
 ⟪कस्मात्⟫ "mengapa"  
 ⟪अकस्मात्⟫ "secara tak terduga"
 :::
-### 37.2.5. Genitif (⟪षष्ठी⟫)
+### 37.2.5. Genetiv (⟪षष्ठी⟫)
 
 ::: grammar-box
 Jaranglah kasus genitif (⟪षष्ठी⟫) digunakan secara adverbial untuk menanyakan "setelah berapa lama?"
 
 e.g. ⟪चिरस्य⟫ "after a long time" (to ⟪चिर⟫ 3 "long (time)")
 :::
-### 37.2.6. Locative (⟪सप्तमी⟫)
+### 37.2.6. Lokativ (⟪सप्तमी⟫)
 
 ::: grammar-box
 Lokatif (⟪सप्तमी⟫) dapat digunakan secara adverbia sebagai respons terhadap pertanyaan:
@@ -129,7 +129,7 @@ Contoh:
 \-⟪कृते⟫ "untuk kepentingan"  
 ⟪दूरे⟫ "jauh"
 :::
-## 37.3. Penggunaan Adverbiaal Bentuk Kasus yang Tidak Lagi Umum Digunakan
+## 37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusformen
 
 Examples:
 ::: indent
@@ -139,7 +139,7 @@ Examples:
 
 ⟪एवम्⟫ "demikian" (terhadap batang kata ganti yang hilang ⟪एव⟫ "satu, tunggal")
 :::
-## 37.4. Pembentukan Kata Keterangan Dengan Akhiran Kata Keterangan
+## 37.4. Pembentukan adverbia dengan sufiks adverbial
 
 ::: grammar-box
 Dari batang kata ganti ⟪तद्⟫, ⟪इदम्⟫ dan masing-masing ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ dan masing-masing ⟪कु⟫, dapat diturunkan kata keterangan ganti yang sesuai dengan akhiran kata keterangan
@@ -156,12 +156,12 @@ accordingly.
 
 | Akhiran | Batang Pronominal | | | |
 | :--- | :--- | :--- | :--- | :--- |
-| | **⟪तद्⟫** | **⟪इदम्⟫**:br**⟪अ⟫-** | **⟪यद्⟫** | **⟪किम्⟫**:br**⟪कु⟫-** |
-| **-⟪तस्⟫**:br(Ablatif) | **⟪ततस्⟫**:brdari sana, karena itu, oleh karena itu | **⟪इतस्⟫**:br**⟪अतस्⟫**:brdari sini, karena ini | **⟪यतस्⟫**:brdari mana, dari apa | **⟪कुतस्⟫**:brdari mana?, mengapa? |
-| **-⟪त्र⟫**:br(Lokatif) | **⟪तत्र⟫**:brdi sana, di situ | **⟪अत्र⟫**:brdi sini | **⟪यत्र⟫**:brdi mana | **⟪कुत्र⟫**:brdi mana? |
-| **-⟪था⟫**:br(Manner) | **⟪तथा⟫**:brbegitu | | **⟪यथा⟫**:brbagaimana | |
-| **-⟪थम्⟫**:br(Manner) | | | | **⟪कथम्⟫**:brbagaimana? |
-| **-⟪दा⟫**:br(Waktu) | **⟪तदा⟫**:brkemudian, pada waktu itu | | **⟪यदा⟫**:brketika | **⟪कदा⟫**:brkapan? |
+| | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
+| **-⟪तस्⟫** :br(Ablatif) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
+| **-⟪त्र⟫** :br(Lokatif) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
+| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
+| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -172,28 +172,29 @@ Another interrogative adverb is: ⟪क्व⟫ "where?"
 Fig.: ⟪क्व⟫
 (Image source: [Details](/en/licenses#lekt3701))
 :::
+
 ::: grammar-box
 
 **Further Adverbial Suffixes**
 
 | Akhiran | |
 | :--- | :--- |
-| **-⟪वत्⟫** | dapat dilekatkan pada kata benda apa pun untuk menyatakan "dengan cara, seperti":bre.g. **⟪पुत्रवत्⟫** "seperti seorang putra" |
-| **-⟪तस्⟫** | pada kata benda dan kata ganti. Sebagian besar makna ablative "dari mana?", tetapi juga "di mana?", "ke mana?":bre.g. **⟪आदितस्⟫** "dari awal" |
-| **-⟪धा⟫** | 1. Dengan kata bilangan adverbial dalam makna "-lipat", "-lipat":bre.g. **⟪द्विधा⟫** "dua kali lipat":br2. dalam makna "dengan cara tertentu":bre.g. **⟪समधा⟫** "dengan cara yang sama" (ke **⟪सम⟫** 3 "sama") |
+| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
+| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
-## 37.5. Adverbial Compounds
+## 37.5. Adverbiale Komposita
 
-### 37.5.1. Kata Majemuk dengan Adverbia atau Kasus yang Digunakan secara Adverbial sebagai Anggota Kedua
+### 37.5.1. Kata Majemuk dengan Adverbia atau Kasus yang Berfungsi Adverbial sebagai Anggota Akhir
 
 Example: ⟪सुचिरम्⟫ "very long (time)"
 
-### 37.5.2. Adverbial use of ⟪बहुव्रीहि⟫
+### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
 
 Contoh: ⟪रक्षार्थम्⟫ "dengan cara seseorang yang tujuannya adalah perlindungan, untuk tujuan perlindungan". Ini juga dapat dianggap sebagai bagian dari 5.1.: -⟪अर्थम्⟫ sebagai anggota kedua adverbial.
 
-### 37.5.3. ⟪अव्ययीभाव⟫-Composites
+### 37.5.3. ⟪अव्ययीभाव⟫-Komposita
 
 ⟪अव्ययीभाव⟫ = "become unchangeable/indeclinable"
 
@@ -219,7 +220,7 @@ mis. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्त�
 Fig.: ⟪यथाशक्ति⟫
 (Sumber gambar: [Details](/en/licenses#lekt3702))
 :::
-## 37.6. Sintaksis
+## 37.6. Syntaktisches
 
 ::: grammar-box
 With the verbs
@@ -231,13 +232,13 @@ With the verbs
 a predicative adverb may stand instead of a predicative adjective:
 
 e.g. ⟪तूष्णीं⟫ ⟪बभूव⟫ "he became silent, he fell silent"
-:::: media
+:::
+::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
 Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
 (Image source: [Details](/en/licenses#lekt3703))
-::::
 :::
-## 37.7. Indefinite Pronouns
+## 37.7. Indefinitpronomina
 
 ::: grammar-box
 Kata ganti tak tentu (unbestimmte Fürwörter) dibentuk dengan menambahkan
@@ -254,7 +255,7 @@ e.g.
 ⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "someone, anyone"  
 ⟪कस्यचिद्⟫ = someone's
 :::
-## 37.8. The Interrogative Sentence
+## 37.8. Kalimat Tanya
 
 ::: grammar-box
 "Who?, how?, what?, why?  
@@ -282,12 +283,12 @@ In word questions, one asks about an agent (⟪कर्तृ⟫), an object, a
 *   how does she speak Sanskrit?
 *   where is the mother?
 
-In Fragesätzen wird der gesamte Inhalt des Satzes abgefragt, z.B.
+Dalam kalimat tanya, seluruh isi kalimat ditanyakan, misalnya
 
-*   geht Rāma heute nach Ofterdingen?
-*   ist es wahr, dass ... ?
+*   apakah Rāma pergi ke Ofterdingen hari ini?
+*   apakah benar bahwa ... ?
 
-### 37.8.1. Word Questions (Supplementary Questions)
+### 37.8.1. Pertanyaan Kata (Pertanyaan Pelengkap)
 
 ::: grammar-box
 Schema:
@@ -301,13 +302,13 @@ Examples:
 ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "What should children learn?"
 
 ⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Where does Rāma live?
-:::: media
+:::
+::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
 Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
 (Image source: [Details](/en/licenses#lekt3704))
-::::
 :::
-### 37.8.2. Interrogative Sentences
+### 37.8.2. Pertanyaan Kalimat
 
 ::: grammar-box
 Terkadang hanya dari konteksnya saja terlihat apakah sebuah kalimat adalah kalimat interogatif.
@@ -329,11 +330,10 @@ Partikel interogatif (biasanya di awal kalimat) - kalimat
 The most important interrogative particles are:
 
 *   ⟪अपि⟫
-    
+
 *   ⟪किम्⟫ (often suggests a negative answer)
-    
+
 *   ⟪कच्चिद्⟫
-    
 
 Partikel-partikel ini sesuai dengan tanda tanya.
 :::
@@ -357,11 +357,11 @@ Catatan: ⟪किम्⟫ dapat berarti, selain "apa?" dan sebagai partikel in
 
 ::: indent
 ⟪शाक्यमुनि⟫ m.: pertapa dari garis keturunan ⟪शाक्य⟫ (Kṣatriyas dari ⟪कपिलवस्तु⟫) = Buddha Gautama
-:::: media
+:::
+::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Fig.: ⟪शाक्यमुनिः⟫
 (Sumber gambar: [Details](/en/licenses#lekt3705))
-::::
 :::
 ⟪दिन⟫ n.: hari
 
@@ -374,7 +374,7 @@ Fig.: ⟪वृक्षः⟫
 :::
 ⟪मुख⟫ n.: mouth, face, front part, beginning
 
-## 37.10. Exercise
+## 37.10. Latihan
 
 [A] Jawab pertanyaan-pertanyaan berikut dalam bahasa Sanskerta menggunakan kata-kata yang ditentukan dalam tanda kurung. Terjemahkan kalimat pertanyaan tersebut.
 
@@ -430,7 +430,7 @@ Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इ�
 
 B) Translate:
 
-  ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
+ ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
 
 ⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫
 
@@ -451,11 +451,11 @@ C) Translate the following ⟪अव्ययीभाव⟫ :
 ::: indent
 1.  ⟪अधिहरि⟫
 2.  ⟪अधिकेरलम्⟫
-:::: media
+:::
+::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
 Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 (Image source: [Details](/en/licenses#lekt3709))
-::::
 :::
 3\. ⟪अनु⟫ "according to, along, after"
 
@@ -481,28 +481,28 @@ Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 ::: indent
 1.  ⟪आबालवृद्धम्⟫
 2.  ⟪आमरणम्⟫
-:::: media
+:::
+::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
 Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
 (Image source: [Details](/en/licenses#lekt3710))
-::::
 :::
 7\. ⟪उप⟫ "near"
 
 ::: indent
 1.  ⟪उपवृक्षम्⟫
-:::: media
+:::
+::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
 Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (Image source: [Details](/en/licenses#lekt3711))
-::::
 :::
 8\. ⟪यथा⟫
 
 ::: indent
 1.  ⟪यथास्थानम्⟫
 :::
-## 37.11. Review Exercise
+## 37.11. Latihan Tinjauan
 
 Translate into Sanskrit using exclusively perfect tense verb forms:
 
@@ -521,5 +521,4 @@ Suatu kali, seorang lelaki tua pergi ke desa lain; ia merasa lelah di sepanjang 
 - **Image lekt3709.jpg** (Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Image source: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, Non-commercial, No derivatives)]
 - **Image lekt3710.jpg** (Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Image source: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, Non-commercial, Share Alike)]
 - **Image lekt3711.jpg** (Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Image source: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, Non-commercial, No derivatives)]
-
 :::

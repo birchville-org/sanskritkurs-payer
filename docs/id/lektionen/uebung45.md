@@ -1,12 +1,12 @@
 ---
-title: "Exercise 45"
+title: "Latihan 45"
 uebung_id: 45
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Lesson 45
+# Latihan 45
 
 A) Terjemahkan ke dalam bahasa Sanskerta (gunakan bentuk Imperfek untuk waktu lampau):
 
@@ -42,7 +42,7 @@ Have you, O poet, perhaps measured the worlds?
 
 ---
 
-## Practice Texts
+## Latihanstexte
 
 B) Translate:
 

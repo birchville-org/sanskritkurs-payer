@@ -1,52 +1,52 @@
 ---
-title: Lesson 32
+title: Lektion 32
 lesson_id: 32
 status: stable
 ---
 
-# Lesson 32
+# Pelajaran 32
 
-## 32.1. The Past Tenses
+## 32.1. Kala-kala Lampau
 
 ::: grammar-box
-**Dalam literatur Sanskerta kuno dan menurut para gramatikawan asli, ketiga bentuk lampau dibedakan dengan jelas dalam penggunaannya:**
+**Dalam literatur Sanskerta yang lebih tua dan oleh para ahli tata bahasa pribumi, ketiga kala lampau dibedakan secara jelas dalam penggunaannya:**
 
-*   **Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) menyatakan selesainya suatu tindakan secara sederhana atau merujuk pada peristiwa yang terjadi pada hari itu, yaitu masa lalu baru-baru ini.**
-*   **Imperfect (⟪लङ्⟫) menyatakan peristiwa yang terjadi sebelum hari itu, yaitu masa lalu jauh.**
-*   **Perfect (⟪लिट्⟫), seperti Imperfect, menyatakan masa lalu jauh; namun, berbeda dengan Imperfect, Perfect digunakan secara eksklusif untuk peristiwa yang tidak disaksikan oleh pembicara sendiri.**
+*   **Aorist (⟪लुङ्⟫ , ⟪अद्यतनी⟫) menandakan penyelesaian suatu tindakan secara sederhana, atau menandakan apa yang telah terjadi pada hari yang sedang berjalan, yaitu masa lampau yang dekat**
+*   **Imperfect (⟪लङ्⟫) menandakan apa yang telah terjadi sebelum hari yang sedang berjalan, yaitu masa lampau yang jauh**
+*   **Perfect (⟪लिट्⟫) seperti Imperfect, menandakan masa lampau yang jauh, tetapi, berbeda dengan Imperfect, hanya digunakan untuk peristiwa yang tidak dilihat sendiri oleh penutur**
 
-**Dalam literatur Sanskerta klasik, ketiga bentuk lampau digunakan tanpa perbedaan semantik (kecuali: karya puitis Bhāravi ⟪किरातार्जुनीय⟫).**
+**Dalam literatur Sanskerta klasik, ketiga kala lampau ini digunakan tanpa perbedaan makna (pengecualian: puisi buatan ⟪भारवि⟫ ⟪किरातार्जुनीय⟫).**
 :::
 ## 32.2. Imperfect (⟪लङ्⟫)
 
 ::: grammar-box
-**Formation:**
+**Pembentukan:**
 
-**Augmen a- + Batang Present + Akhiran Sekunder**
+**Augmen a- + dasar Present + akhiran Sekunder**
 
-**Ketiga persona tunggal Parasmaipada Imperfect dibentuk dari batang present kuat untuk batang athematik; semua bentuk lainnya diturunkan dari batang present lemah.**
+**Tiga persona tunggal Parasmaipada imperfek pada akar-akar atematis dibentuk dari akar kala kini kuat, semua bentuk lainnya dari akar kala kini lemah.**
 
-**The Imperfect has only the indicative mood.**
+**Imperfek hanya memiliki modus indikatif.**
 :::
 Contoh:
 
 ::: indent
-**⟪भू⟫** 3rd sg. Impf. P. **⟪अभवत्⟫** (a-bhava-t)
+⟪भू⟫ 3. sg. Impf. P. ⟪अभवत्⟫ (a-bhava-t)
 
-**⟪सु⟫**
-*   3rd sg. Impf. P. **⟪असुनोत्⟫** (a-suno-t)
-*   3rd pl. Impf. P. **⟪असुन्वन्⟫** (a + sunu + an)
+⟪सु⟫
+*   3. sg. Impf. P. ⟪असुनोत्⟫ (a-suno-t)
+*   3. pl. Impf. P. ⟪असुन्वन्⟫ (a + sunu + an)
 :::
-## 32.3. Rules for the Augment
+## 32.3. Aturan untuk Augmen
 
 ::: grammar-box
-**1. Jika augmen *a-* mendahului akar yang dimulai dengan vokal, augmen dan vokal awal akar melebur membentuk tingkat *vṛddhi* dari vokal akar.**
+**1. Jika augmen a- bertemu dengan akar kata yang berawalan vokal, maka augmen dan vokal awal akar kata tersebut melebur menjadi ⟪वृद्धि⟫ dari vokal akar kata itu.**
 :::
 Contoh:
 
 ::: grammar-box
 
-| | 3. sg. Imperfect | 3. pl. Imperfect |
+| | 3. tung. Imperfektum | 3. jam. Imperfektum |
 | :--- | :--- | :--- |
 | ⟪इष्⟫ | ⟪ऐच्छत्⟫:br(a- + iccha-t) | |
 | ⟪इ⟫ | ⟪ऐत्⟫:br(a- + e + t) | ⟪आयन्⟫:br(a + i + an) |
@@ -54,13 +54,13 @@ Contoh:
 
 :::
 ::: grammar-box
-**2. Jika preverba mendahului akar, augmen *a-* mengikuti preverba dan langsung mendahului akar.**
+**2. Apabila preverbia mendahului sebuah akar kata, maka augmentum a- diletakkan setelah preverbia dan persis sebelum akar kata.**
 :::
 Contoh:
 
 ::: grammar-box
 
-| | 3. sg. Imperfect |
+| | 3. tung. Impf. |
 | :--- | :--- |
 | ⟪आगम्⟫ | ⟪आगच्छत्⟫:br(ā + a + gaccha-t) |
 | ⟪संगम्⟫ | ⟪समगच्छत्⟫:br(sam-a-gaccha-t) |
@@ -68,52 +68,52 @@ Contoh:
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
-## 32.4. Contoh Pembentukan Imperfect
+## 32.4. Contoh-contoh pembentukan imperfek
 
 ::: important
-**Untuk mendemonstrasikan pembentukan bentuk-bentuk, bentuk Ātmanepada juga dihasilkan untuk akar Parasmaipada di sini! Bentuk-bentuk artifisial ini diapit dalam \< \>.**
+**Untuk mendemonstrasikan pembentukan bentuk-bentuk ini, bentuk-bentuk Ātmanepada juga dibentuk di sini dari akar-akar Parasmaipada! Bentuk-bentuk buatan ini berada di antara \< \>.**
 :::
-### 32.4.1. Thematic Present Classes
+### 32.4.1. Kelas-kelas present tematik
 
 ::: grammar-box
 
-| Kelas Present | Akar:br⟪धातु⟫ | 3. tg. P. | 3. jm. P. | 3. tg. Ā. | 3. jm. Ā. |
+| Presentklasse | Akar:br⟪धातु⟫ | 3. tung. P. | 3. jam. P. | 3. tung. Ā. | 3. jam. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \&lt;⟪अभवत⟫\&gt; | \&lt;⟪अभवन्त⟫\&gt; |
-| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \&lt;⟪अनृत्यत⟫\&gt; | \&lt;⟪अनृत्यन्त⟫\&gt; |
-| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \&lt;⟪अविशत⟫\&gt; | \&lt;⟪अविशन्त⟫\&gt; |
-| 10. / Caus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
-| Passive | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
+| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \<⟪अभवत⟫\> | \<⟪अभवन्त⟫\> |
+| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \<⟪अनृत्यत⟫\> | \<⟪अनृत्यन्त⟫\> |
+| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \<⟪अविशत⟫\> | \<⟪अविशन्त⟫\> |
+| 10. / Kaus. | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
+| Pasif | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
-### 32.4.2. Atherematic Present Classes
+### 32.4.2. Kelas-kelas Präsens Atematik
 
 ::: grammar-box
 
-| Kelas Present | Akar:br⟪धातु⟫ | 3. tg. P. | 3. jm. P. | 3. tg. Ā. | 3. jm. Ā. |
+| Presentklasse | Akar:br⟪धातु⟫ | 3. tunggal P. | 3. jamak P. | 3. tunggal Ā. | 3. jamak Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ > adveṣ > adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
-| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t > adogdh > adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
+| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ \> adveṣ \> adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
+| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t \> adogdh \> adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
 | 2. | ⟪इ⟫ | ⟪ऐत्⟫ | ⟪आयन्⟫ | | |
-| 2. | ⟪हन्⟫ | ⟪अहन्⟫:br(from *ahant) | ⟪अघ्नन्⟫ | | |
+| 2. | ⟪हन्⟫ | ⟪अहन्⟫:br(aus *ahant) | ⟪अघ्नन्⟫ | | |
 | 2. | ⟪स्तु⟫ | ⟪अस्तौत्⟫:br⟪अस्तवीत्⟫ | ⟪अस्तुवन्⟫ | ⟪अस्तुत⟫ | ⟪अस्तुवत⟫ |
 | 2. | ⟪अस्⟫ | ⟪आसीत्⟫ | ⟪आसन्⟫ | | |
 | 5. | ⟪सु⟫ | ⟪असुनोत्⟫ | ⟪असुन्वन्⟫ | ⟪असुनुत⟫ | ⟪असुन्वत⟫ |
-| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \&lt;⟪आप्नुत⟫\&gt; | \&lt;⟪आप्नुवत⟫\&gt; |
+| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \<⟪आप्नुत⟫\> | \<⟪आप्नुवत⟫\> |
 | 8. | ⟪तन्⟫ | ⟪अतनोत्⟫ | ⟪अतन्वन्⟫ | ⟪अतनुत⟫ | ⟪अतन्वत⟫ |
 | 8. | ⟪कृ⟫ | ⟪अकरोत्⟫ | ⟪अकुर्वन्⟫ | ⟪अकुरुत⟫ | ⟪अकुर्वत⟫ |
-| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t > ayunakt > ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
-| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t > aruṇaddh > aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
+| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t \> ayunakt \> ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
+| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t \> aruṇaddh \> aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
 :::
-## 32.5. Word List
+## 32.5. Daftar Kata
 
-**⟪अग्र⟫ n.:** tip, extreme end
+**⟪अग्र⟫ n.:** puncak, ujung terluar
 
-**⟪मही⟫ f.:** earth, ground (lit.: the Great One)
+**⟪मही⟫ f.:** bumi, tanah dan lahan (secara harfiah: Yang Agung)
 
-**⟪एकदा⟫**
+⟪एकदा⟫
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
 ::: indent
@@ -123,25 +123,25 @@ Contoh:
 ⟪श्रान्त⟫:br
 ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫:br
 -⟪श्रम्य⟫:br
-⟪श्रितुम्⟫
+⟪श्रमितुम्⟫
 :::
-**⟪पार्श्व⟫**
+⟪पार्श्व⟫
 
-**⟪चूत⟫**
+⟪चूत⟫
 
 ::: media
 ![](/images/lekt3202.webp)
-Fig.: ⟪चूतः⟫
-Mango tree, Kanpur.
-(Image source: [Details](/en/licenses#lekt3202))
+Gbr.: ⟪चूतः⟫
+Pohon mangga, Kanpur.
+(Sumber gambar: [Rincian](/licenses#lekt3202))
 :::
-**⟪तरु⟫** **⟪वृक्ष⟫**
+⟪तरु⟫ ⟪वृक्ष⟫
 
-**⟪पचेलिम⟫**
+⟪पचेलिम⟫
 
-**⟪स्पृहा⟫**
+⟪स्पृहा⟫
 
-**⟪परम्⟫**
+⟪परम्⟫
 
 **⟪रुह्⟫ ⟪रोहति⟫**
 ::: indent
@@ -165,9 +165,9 @@ Mango tree, Kanpur.
 
 ::: media
 ![](/images/lekt3203.webp)
-Fig.: ⟪वानराः⟫
-Monkeys (rhesus macaques) in Delhi.
-(Image source: [Details](/en/licenses#lekt3203))
+Gbr.: ⟪वानराः⟫
+Monyet (rhesus macaques) di Delhi.
+(Sumber gambar: [Detail](/licenses#lekt3203))
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
 ::: indent
@@ -177,25 +177,25 @@ Monkeys (rhesus macaques) in Delhi.
 -⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
 :::
-**⟪प्रहर्ष⟫**
+⟪प्रहर्ष⟫
 
-**⟪कति⟫**
+⟪कति⟫
 
-**⟪उपल⟫**
+⟪उपल⟫
 
 ::: media
 ![](/images/lekt3204.webp)
-Fig.: ⟪उपलाः⟫
+Gbr.: ⟪उपलाः⟫
 Stone quarry south of Pune, Maharashtra.
-(Image source: [Details](/en/licenses#lekt3204))
+(Sumber gambar: [Detail](/licenses#lekt3204))
 :::
-**⟪लक्ष्य⟫**
+⟪लक्ष्य⟫
 
 ::: media
 ![](/images/lekt3205.webp)
-Fig.: ⟪लक्ष्यम्⟫
-Target practice / arrow target, Karnataka.
-(Image source: [Details](/en/licenses#lekt3205))
+Gbr.: ⟪लक्ष्यम्⟫
+Latihan sasaran / sasaran panah, Karnataka.
+(Sumber gambar: [Detail](/licenses#lekt3205))
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
 ::: indent
@@ -214,32 +214,32 @@ Target practice / arrow target, Karnataka.
 ⟪चित⟫:br
 -⟪चित्य⟫:br
 ⟪चेतुम्⟫
-:::: media
+:::
+::: media
 ![](/images/lekt3207.webp)
-Fig.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
-Burning cow dung patties in Rajasthan.
-(Image source: [Details](/en/licenses#lekt3207))
-::::
+Gbr.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
+Pembakaran kue kotoran sapi di Rajasthan.
+(Sumber gambar: [Detail](/licenses#lekt3207))
 :::
 **⟪चि⟫ ⟪अव⟫**
 
-**⟪प्रति⟫**
+⟪प्रति⟫
 
-**⟪अहो⟫**
+⟪अहो⟫
 
 **⟪कौशल⟫ ⟪कुशल⟫**
 
 ::: media
 ![](/images/lekt3206.webp)
-Fig.: ⟪कौशलम्⟫
+Gbr.: ⟪कौशलम्⟫
 Mehndi painting on hands in Mumbai.
-(Image source: [Details](/en/licenses#lekt3206))
+(Sumber gambar: [Detail](/licenses#lekt3206))
 :::
-## 32.6. Exercise
+## 32.6. Latihan
 
-[A] Identifikasi bentuk-bentuk kata kerja berikut dan bentukkan bentuk imperfecta yang sesuai mengenai orang, jumlah, dan jenis verbal (genus verbi):
+A) Tentukan bentuk-bentuk kata kerja berikut dan bentuklah bentuk-bentuk imperfek yang sesuai dalam persona, numera, dan diatesis:
 
-1. ⟪हरिष्यन्ते⟫
+1. ⟪हरि्ष्यन्ते⟫
 2. ⟪घातयति⟫
 3. ⟪विहन्ति⟫
 4. ⟪घ्नन्ति⟫
@@ -315,7 +315,7 @@ Mehndi painting on hands in Mumbai.
 74. ⟪प्रजानीते⟫
 75. ⟪जीवन्ति⟫
 
-B) Translate and resolve the compounds in Sanskrit:
+B) Terjemahkanlah dan uraikanlah kata-kata majemuk dalam bahasa Sanskerta:
 
 ⟪आसीत्क्षत्रिय⟫ ⟪उपपन्नो⟫ ⟪गुणैरिष्टै⟫ ⟪रूपवान्⟫ ⟪।⟫ ⟪स⟫ ⟪जनेन्द्राग्रे⟫ ⟪ऽतिष्ठत्⟫ ⟪।⟫ ⟪स⟫ ⟪देवानयजतारीनजयज्जनानपानमहापुण्यमकरोत्⟫ ⟪।⟫ ⟪तस्मान्मृत्वा⟫ ⟪देवलोके⟫ ⟪पुनर्भवमलभत⟫ ⟪॥१॥⟫
 
@@ -329,15 +329,15 @@ B) Translate and resolve the compounds in Sanskrit:
 
 ::: media
 ![](/images/lekt3208.webp)
-Fig.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
-Buddhist monk in Sri Lanka.
-(Image source: [Details](/en/licenses#lekt3208))
+Gbr.: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
+Biksu Buddha di Sri Lanka.
+(Sumber gambar: [Detail](/licenses#lekt3208))
 :::
-## 32.7. Review Exercise for the Christmas Holidays
+## 32.7. Latihan ulangan selama liburan Natal
 
-Catatan: Awalnya, ini diajarkan di Universitas Tübingen pada setiap semester dingin. Liburan Natal dua minggu dimulai dengan Pelajaran 32.
+Catatan: awalnya, kursus ini diadakan di Universitas Tübingen setiap semester musim dingin. Pada Pelajaran 32, liburan Natal selama dua minggu dimulai.
 
-A) Identify and translate the following words:
+A) Tentukan dan terjemahkan kata-kata berikut:
 
 1. ⟪देवस्य⟫
 2. ⟪उषितायाः⟫
@@ -424,7 +424,7 @@ A) Identify and translate the following words:
 83. ⟪अध्यापयति⟫
 84. ⟪वाचयन्ति⟫
 
-B) Latihan Sandhi: Sisipkan kata-kata dalam kurung ke dalam kalimat berikut. Perhatikan dengan cermat Sandhi:
+B) Latihan Sandhi: Masukkan kata-kata dalam tanda kurung ke dalam kalimat-kalimat berikut. Perhatikan secara khusus pada sandhi:
 
 ⟪१⟫. ⟪रामो⟫ ⟪ग्रामात्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪नगर⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪महानगर⟫ ⟪।⟫ ⟪शत्रुग्राम⟫ ⟪।⟫ ⟪जयनगर⟫ ⟪।⟫ ⟪लोकेश्वरनगर⟫ ⟪।⟫ ⟪कविगृह⟫ )
 
@@ -444,121 +444,121 @@ B) Latihan Sandhi: Sisipkan kata-kata dalam kurung ke dalam kalimat berikut. Per
 
 ⟪९⟫. ⟪रामस्⟫ ... (⟪द्वितीया⟫ ⟪विभक्तिः⟫) ... ⟪गच्छति⟫ ⟪।⟫ (⟪कवि⟫ ⟪।⟫ ⟪गृह⟫ ⟪।⟫ ⟪आर्यग्राम⟫ ⟪।⟫ ⟪अरिनगर⟫ ⟪।⟫ ⟪सुखता⟫ ⟪।⟫ ⟪तन्नगर⟫ ⟪।⟫ ⟪शूद्रग्राम⟫ ⟪।⟫ ⟪चन्द्रकीर्ति⟫ ⟪।⟫ ⟪ट्युबिङ्गन्नगर⟫)
 
-C) Translate into Sanskrit:
+C) Terjemahkan ke dalam bahasa Sanskerta:
 
-1. Setelah anak laki-laki lahir, wanita Brahmin mengutus pelayan kepada Brahmin. Brahmin itu menyuruh pelayan masuk ke dalam rumah dan kemudian bertanya tentang anak laki-laki tersebut. Pelayan itu mengatakan bahwa anak laki-lakinya sehat. Mendengar hal ini, Brahmin menjadi bahagia.
+1. Setelah putranya lahir, sang Brahmani mengirim seorang pelayan kepada sang Brahmana. Sang Brahmana mempersilakan pelayan itu masuk ke dalam rumah dan kemudian bertanya tentang putranya. Pelayan itu mengatakan bahwa putranya baik-baik saja. Setelah mendengar itu, sang Brahmana menjadi bahagia.
 
-2. Orang suci telah menanggung kejahatan yang dilakukan (terhadapnya).
+2. Orang suci itu telah menanggung kejahatan yang dilakukan (terhadapnya).
 
-3. Kewajaran adalah perhiasan manusia.
+3. Kesusilaan adalah hiasan seorang pria.
 
-4. Para pejuang perkasa telah pergi ke desa Brahmin.
+4. Para prajurit yang perkasa telah pergi ke desa para Brahmana.
 
-5. The girl is weeping.
+5. Gadis itu menangis.
 
 6. Tidak ada penyakit yang setara dengan hawa nafsu, tidak ada musuh yang setara dengan kebingungan, tidak ada api yang setara dengan kemarahan, tidak ada kebahagiaan yang setara dengan pengetahuan.
 
-7. A man protected by the goddess is happy.
+7. Seorang pria yang dilindungi oleh sang dewi berbahagia.
 
-8. Dengan angin mana pun awan melepaskan air (⟪वारि⟫ n.), dengan angin itu seorang cendekiawan menggerakkan payungnya.
+8. Dengan angin mana pun sebuah awan menurunkan air (⟪वारि⟫ n.), dengan angin itu pula seorang terpelajar menggerakkan payungnya.
 
-9. There are no fruitful activities pertaining to castes, life stages, etc.
+9. Tidak ada kegiatan yang membuahkan hasil dari kasta, tahap-tahap kehidupan, dll.
 
-10. The cycle of rebirths has no beginning.
+10. Siklus kelahiran kembali tidak memiliki awal.
 
-11. Saatnya untuk memperhatikan makan.
+11. Sudah waktunya untuk makan.
 
-12. Welcome the Queen.
+12. Selamat datang bagi sang ratu.
 
-13. For heaven’s sake, people perform meritorious deeds.
+13. Demi surga, orang-orang melakukan perbuatan-perbuatan bajik.
 
-14. A man who falsely pronounces a judgment out of arrogance, greed, anger, or fear goes to hell.
+14. Seorang pria yang karena kesombongan, keserakahan, kemarahan, atau ketakutan secara keliru memberikan putusan pengadilan, akan masuk ke neraka.
 
-15. Rāma, atas instruksi guru, meninggalkan desa menuju kota, memasuki rumah pertapa, berdiri dengan hormat di hadapan resi tersebut, dan berkata: "Tinggalkanlah amarah!"
+15. Rāma, atas perintah guru, pergi dari desa ke kota, memasuki rumah orang suci itu, dengan hormat menghadap orang suci itu dan berkata: "Tinggalkanlah kemarahan!"
 
-16. Selalu (hendaknya) pergaulannya dengan mereka yang telah berkembang dalam ilmu-ilmu sedemikian rupa sehingga pendidikan/kelakuan baiknya dapat berkembang. (Ini) karena pendidikan/kelakuan baik memiliki (pergaulan ini) sebagai akarnya.
+16. Selalu (hendaknya ada) hubungannya dengan mereka yang telah berkembang dalam ilmu pengetahuan, agar pendidikan/perilaku baiknya bertumbuh. (Ini) karena pendidikan/perilaku baik memiliki ini (hubungan dengan mereka) sebagai akarnya.
 
-17. While the teacher stands, the boy must not sit.
+17. Selama guru berdiri, anak laki-laki itu tidak boleh duduk.
 
-18. There is no better refuge than Rāma.
+18. Tidak ada perlindungan yang lebih baik daripada Rāma.
 
-19. Viṣṇumitra has Rāma send Govinda to the village.
+19. Viṣṇumitra menyuruh Rāma mengirim Govinda ke desa.
 
-20. Govinda has Devadatta cook rice.
+20. Govinda menyuruh Devadatta memasak nasi.
 
-21. Dharma kaum Ārya adalah bahwa para Brāhmaṇa muda secara berulang kali mempelajari bagian-bagian Veda dan Smṛti.
+21. Dharma orang-orang Arya adalah bahwa para Brahmana muda terus-menerus mempelajari bagian-bagian dari Veda dan Smṛti.
 
-22. Guru tersebut mengajar para pemuda Veda, lalu pulang ke rumah.
+22. Guru itu mengajarkan Veda kepada anak-anak laki-laki dan kemudian pergi ke dalam rumah.
 
-23. Which amulet protected the girl?
+23. Jimat manakah yang telah melindungi gadis itu?
 
 24. Kebenaran adalah pelita dunia.
 
-25. To whom do these houses belong?
+25. Milik siapakah rumah-rumah ini?
 
-26. Dharma semua orang adalah: tidak menyakiti, kebenaran, kemurnian, tanpa iri hati, tanpa kebencian, dan kesabaran.
+26. Dharma bagi semua adalah: tidak menyakiti, kebenaran, kesucian, tidak iri hati, tidak dengki, dan kesabaran.
 
-27. Para Kṣatriya, yang telah mengalahkan musuh-musuh mereka, duduk di dalam rumah.
+27. Para Kṣatriya, yang telah mengalahkan musuh-musuh, duduk di dalam rumah.
 
-28. She is a (true) wife who speaks love; he is a (true) son who lives. He lives who possesses good qualities; he lives who possesses Dharma.
+28. Dialah istri (sejati) yang bertutur kata manis; namun dialah putra (sejati) yang hidup. Dialah yang hidup, yang memiliki sifat-sifat baik; dialah yang hidup, yang memiliki Dharma.
 
-29. Dewata penguasa mengalahkan non-Āryas, musuh Indra. (Pasif)
+29. Raja para dewa mengalahkan kaum non-Arya, yang adalah musuh-musuh Indra. (Pasif)
 
-30. Yoga tindakan terdiri dari asketisme (tapas n.), pembacaan (Veda), dan pelayanan kepada TUHAN. Ini melayani pengembangan penyerapan meditatif dan pelemahan kleśas.
+30. Yoga perbuatan adalah askese (tapas n.), resitasi (Weda), pelayanan kepada TUHAN. Ia berfungsi untuk pengembangan perenungan meditatif dan pelemahan para kleśa.
 
-31. Makan, tidur, takut, dan kawin: ini adalah kesamaan manusia dengan hewan. Dalam Dharma, memang terletak pembeda tambahan mereka. Ditinggalkan oleh Dharma, mereka sama dengan hewan (Instrumental).
+31. Asupan makanan, tidur, rasa takut, dan perkawinan: ini adalah kesamaan manusia dengan hewan. Sebab dalam Dharma (terletak) kekhususan tambahan mereka. Ditinggalkan oleh Dharma, mereka sama dengan hewan (Instr.).
 
-32. People are born to die.
+32. Orang-orang dilahirkan untuk mati.
 
-33. Hells exist because of evil. Evil has poverty as its origin. Poverty arises from not giving.
+33. Neraka ada karena kejahatan. Kejahatan berakar pada kemiskinan. Kemiskinan timbul dari tidak memberi.
 
-34. Ini adalah Dharma para Kṣatriya, yaitu bahwa para Kṣatriya melindungi rakyat dari musuh.
+34. Adalah dharma para Kṣatriya, bahwa para Kṣatriya melindungi rakyat dari musuh.
 
-35. Oleh karena itu, ketiga (tisras) ilmu memiliki pemerintahan sebagai akarnya. Pemerintahan, yang memiliki pendidikan/kelakuan baik sebagai akarnya, membawa manfaat dan kepemilikan yang aman bagi makhluk hidup (⟪प्राणभृत्⟫).
+35. Oleh karena itu, ketiga (tisras) ilmu pengetahuan memiliki pemerintahan sebagai akarnya. Pemerintahan, yang berakarkan pendidikan/perilaku yang baik, membawa keuntungan dan kepemilikan yang aman bagi makhluk hidup (⟪प्राणभृत्⟫).
 
-36. Evil people do not listen when the teacher speaks about Dharma.
+36. Orang-orang jahat tidak mendengarkan ketika guru berbicara tentang dharma.
 
-37. Homage to this Rāma!
+37. Hormat bagi Rāma ini!
 
-38. Sang Hari yang luhur adalah jalan/tujuan saya, yang mengirim musuh-musuhnya ke surga, biarkan pengikut-pengikutnya mengetahui makna Veda, memberikan makanan keabadian kepada para dewa untuk dimakan, mengajarkan Veda kepada sang pencipta (⟪विधि⟫), dan menegakkan bumi di atas air.
+38. Hari yang agung adalah jalan/tujuanku, yang mengirim musuh-musuh-Nya ke surga, yang membuat para pengikut-Nya mengetahui makna Veda, yang memberikan makanan keabadian kepada para dewa untuk dimakan, yang mengajarkan Veda kepada sang pencipta (⟪विधि⟫), yang menempatkan bumi (dengan kokoh) di dalam air.
 
-39. Viṣṇu shows himself to his devotees.
+39. Viṣṇu menampakkan diri-Nya kepada para pemuja-Nya.
 
-40. Tata kelola yang tidak dijalankan menimbulkan norma ikan.
+40. Pemerintahan yang tidak dijalankan menyebabkan hukum ikan.
 
-41. Siapa pun yang memiliki kekayaan memiliki teman; siapa pun yang memiliki kekayaan memiliki kerabat; siapa pun yang memiliki kekayaan adalah manusia (⟪पुमान्⟫, nominatif tunggal) di dunia; sesungguhnya, siapa pun yang memiliki kekayaan adalah seorang cendekiawan.
+41. Siapa yang memiliki kekayaan, dia memiliki teman; siapa yang memiliki kekayaan, dia memiliki kerabat; siapa yang memiliki kekayaan, dialah seorang laki-laki (⟪पुमान्⟫ Nom. sg.) di dunia; siapa yang memiliki kekayaan, dialah sesungguhnya seorang sarjana.
 
-42. Api yang membakar orang meninggal juga membujang janda baik.
+42. Api, yang membakar orang yang telah meninggal, juga membakar janda yang baik.
 
-43. Pelayan Brahmin telah memasak makanan dan sekarang memakannya.
+43. Pelayan perempuan brahmana itu telah memasak makanan dan (sekarang) memakannya.
 
-44. Enough now!
+44. Cukup sudah
 
-45. This fruit suffices for him as food.
+45. Buah ini cukup baginya untuk dimakan.
 
-46. Ruang terdalam kuil adalah rumah bagi gambar dewa.
+46. Ruang suci terdalam di kuil adalah sebuah rumah untuk arca dewa.
 
-47. Seorang pencuri dibebaskan dari tindak pencurian baik melalui hukuman maupun pembebasan. Namun, jika raja (⟪राजा⟫, nominatif tunggal) tidak menghukum (pencuri itu), ia menanggung dosa pencuri tersebut.
+47. Seorang pencuri dibebaskan dari (dosa) pencurian melalui hukuman atau melalui pembebasan. Akan tetapi, jika raja (⟪राजा⟫ Nom. sg.) tidak menghukum (pencuri) itu, ia menerima kesalahan pencuri itu.
 
-48. Karena ia melakukan kesalahan selama pengorbanan, Brahmin tidak layak menerima kekayaan.
+48. Karena ia telah membuat kesalahan dalam kurban, brahmana itu tidak layak menerima kekayaan.
 
-49. Setelah upacara inisiasi berlangsung, ia harus memperoleh Veda dan filsafat dari para sarjana serta ekonomi dari kepala departemen (⟪उपयुज्⟫).
+49. Setelah upacara inisiasi dilaksanakan, hendaknya ia mempelajari Veda dan filsafat dari para cendekiawan, [dan] ilmu ekonomi dari para kepala departemen (⟪उपयुज्⟫).
 
-50. Vaiśyadharma adalah bahwa kaum Vaishya hidup dari membeli dan menjual. Karena itu, anak-anak Vaishya terlibat dalam membeli dan menjual.
+50. Vaiśyadharma adalah bahwa para Vaiśya hidup dari jual beli. Oleh karena itu, putra-putra Vaiśya melakukan jual beli.
 
-51. Seseorang harus berbicara kebenaran; seseorang harus berbicara hal yang menyenangkan. Seseorang tidak boleh berbicara kebenaran yang tidak menyenangkan, dan juga tidak boleh berbicara kebohongan yang tidak menyenangkan. Ini adalah Dharma abadi.
+51. Hendaknya orang mengatakan kebenaran, hendaknya mengatakan yang menyenangkan; hendaknya tidak mengatakan kebenaran yang tidak menyenangkan dan juga tidak mengatakan ketidakbenaran yang tidak menyenangkan. Inilah Dharma yang abadi.
 
-52. Farewell!
+52. Sampai jumpa lagi
 
 ::: media
 ![](/images/lekt3209.webp)
-Fig.: ⟪पुनर्दर्शनाय⟫
-Indian greeting / farewell.
-(Image source: [Details](/en/licenses#lekt3209))
+Gbr.: ⟪पुनर्दर्शनाय⟫
+Salam / ucapan perpisahan India.
+(Sumber gambar: [Detail](/licenses#lekt3209))
 :::
-## 32.8. Review Exercise
+## 32.8. Latihan Ulangan
 
-Translate and analyze the following word forms:
+Terjemahkan dan tentukan bentuk kata berikut:
 
 1. ⟪अदुग्ध⟫
 2. ⟪स्युः⟫
@@ -601,10 +601,10 @@ Translate and analyze the following word forms:
 39. ⟪यत्सु⟫
 40. ⟪रोत्स्यन्ती⟫
 
-## 32.9. Translation Exercise
+## 32.9. Latihan Terjemahan
 
 ::: compact
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫**⟪न्पथि⟫** ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
+⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
 ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫:br
@@ -612,46 +612,47 @@ Translate and analyze the following word forms:
 ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫:br
 ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫:br
 ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫:br
-⟪स⟫ ⟪कतिचिदुपला⟫**⟪नादाय⟫** ⟪वानरां⟫**⟪ल्लक्ष्यीकृत्य⟫** ⟪प्राक्षिपत्⟫ ⟪।⟫:br
+⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫:br
 ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫:br
-⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫**⟪दाय⟫** ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
+⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 :::
-(from: ⟪संस्कृतबालादर्श⟫)
+(dari: ⟪संस्कृतबालादर्श⟫)
 
-Explanations:
+Penjelasan:
 
 ::: indent
-**⟪पथि⟫** Loc. sg. of **⟪पथ्⟫ m.** "path" (irregular declension)
+⟪पथि⟫ Lok. tunggal dari **⟪पथ्⟫ m.** "jalan" (deklensi tidak beraturan)
 
-**⟪लक्ष्यीकृ⟫** akhiran Chvi ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : menjadikan sesuatu sebagai ⟪लक्ष्य⟫ (target/objektif tujuan) yang sebelumnya bukan merupakan ⟪लक्ष्य⟫
+⟪लक्ष्यीकृ⟫ ⟪च्विऽ⟫-sufiks ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : menjadikan sesuatu ⟪लक्ष्य⟫, yang sebelumnya bukan ⟪लक्ष्य⟫
 
-**⟪आदाय⟫** Kata kerja infinitif dari **⟪आ⟫-⟪दा⟫** (Kelas Sekarang ke-3) "mengambil"
-:::: media
-![](/images/lekt3210.webp)
-Gambar: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
-Monyet di pohon mangga.
-(Sumber gambar: [Detail](/en/licenses#lekt3210))
-::::
+⟪आदाय⟫ Absolutif dari **⟪आ⟫-⟪दा⟫** (kelas ke-3 present) "mengambil"
 :::
+::: media
+![](/images/lekt3210.webp)
+Gbr.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
+Monyet-monyet di pohon mangga.
+(Sumber gambar: [Detail](/licenses#lekt3210))
+:::
+
 ::: deleteme-box
 
+**lekt3202:** Pohon mangga, Kanpur. [Sumber gambar: AmarChandra / Wikipedia. CC BY-SA]
 
-**lekt3202:** Mango tree, Kanpur. [Image source: AmarChandra / Wikipedia. CC BY-SA]
+**lekt3203:** Monyet (rhesus macaques) di Delhi. [Sumber gambar: dewalt / Flickr. CC BY-NC-SA]
 
-**lekt3203:** Monkeys (rhesus macaques) in Delhi. [Image source: dewalt / Flickr. CC BY-NC-SA]
+**lekt3204:** Stone quarry south of Pune, Maharashtra. [Sumber gambar: lecercle / Flickr. CC BY-NC-SA]
 
-**lekt3204:** Stone quarry south of Pune, Maharashtra. [Image source: lecercle / Flickr. CC BY-NC-SA]
+**lekt3205:** Target practice / arrow target, Karnataka. [Sumber gambar: mattlogelin / Flickr. CC BY-NC]
 
-**lekt3205:** Target practice / arrow target, Karnataka. [Image source: mattlogelin / Flickr. CC BY-NC]
+**lekt3207:** Burning cowdung patties in Rajasthan. [Sumber gambar: thebigdurian / Flickr. CC BY-NC-SA]
 
-**lekt3207:** Burning cow dung patties in Rajasthan. [Image source: thebigdurian / Flickr. CC BY-NC-SA]
+**lekt3206:** Mehndi painting on hands in Mumbai. [Sumber gambar: the_gman / Flickr. CC BY-NC-SA]
 
-**lekt3206:** Mehndi painting on hands in Mumbai. [Image source: the_gman / Flickr. CC BY-NC-SA]
+**lekt3208:** Buddhist monk in Sri Lanka. [Sumber gambar: Trollderella / Wikipedia. GNU FDL]
 
-**lekt3208:** Buddhist monk in Sri Lanka. [Image source: Trollderella / Wikipedia. GNU FDL]
+**lekt3209:** Indian greeting / farewell. [Sumber gambar: dhyanji / Flickr. CC BY-NC-ND]
 
-**lekt3209:** Indian greeting / farewell. [Image source: dhyanji / Flickr. CC BY-NC-ND]
-
-**lekt3210:** Monkeys in mango trees. [Image source: Wikipedia. GNU FDL]
+**lekt3210:** Monyet-monyet di pohon mangga. [Sumber gambar: Wikipedia. GNU FDL]
 :::
+

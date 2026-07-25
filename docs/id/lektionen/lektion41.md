@@ -1,15 +1,15 @@
 ---
-title: Lesson 41
-subtitle: "⟪सुभाषिते⟫ (two proverbs)"
+title: Lektion 41
+subtitle: "⟪सुभाषिते⟫  (zwei Sprichwörter)"
 lesson_id: 41
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 41
+# Pelajaran 41
 
-## 41.1. ⟪सुभाषिते⟫  (two proverbs)
+## 41.1. ⟪सुभाषिते⟫  (zwei Sprichwörter)
 
 ::: indent
 ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫  
@@ -23,20 +23,21 @@ Explanation: ⟪पर⟫ "other"
 ![lekt4102.jpg](/images/lekt4102.webp)
 Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
 (Image source: [Details](/en/licenses#lekt4102))
-:::: indent
+:::
+
+::: indent
 ⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫  
 ⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫  
 ⟪पयःपानं⟫ ⟪भुजङ्गानां⟫  
 ⟪केवलं⟫ ⟪विषवर्धनम्⟫ ⟪॥२॥⟫
-::::
 :::
 Explanation: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
-## 41.2. Further ⟪कृत्⟫ formations with -a
+## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a
 
-### 41.2.1. Present Participle (⟪लडादेशः⟫) Ā, Present Participle (⟪लडादेशः⟫) Passive, Future Participle (⟪ऌडादेशः⟫) Ā
+### 41.2.1. Partisip Present (⟪लडादेशः⟫) Ā, Partisip Present (⟪लडादेशः⟫) Pasif, Partisip Futur (⟪ऌडादेशः⟫) Ā
 
-#### 41.2.1.1. Thematic Present Stems, Passive and Future
+#### 41.2.1.1. Thematische Presentstämme, Pasif dan Futur
 
 ::: grammar-box
 **Formation:**
@@ -53,7 +54,7 @@ Examples:
 
 ⟪दा⟫ 3U, Fut.Part.Ā ⟪दास्यमान⟫ 3 "one who will give for one's own benefit"
 
-#### 41.2.1.2. Atematic Present Classes
+#### 41.2.1.2. Kelas Präsens Atematis
 
 ::: grammar-box
 **Formation:**
@@ -63,16 +64,16 @@ Stem presentum lemah (dalam bentuk yang dimiliki sebelum akhiran -ate dari 3.pl.
 Contoh:
 
 ::: grammar-box
-| Root / Class | Present Participle Ā |
+| Akar / Klasse | Partizip Present Ā |
 | :--- | :--- |
 | **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
+| **⟪हु⟫** 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
 | **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
 | **⟪क्री⟫** 9U | ⟪क्रीणान⟫:brkrī + n-āna |
 :::
-### 41.2.2. "Participle" of passive necessity (Gerundivum) (⟪कृत्य⟫)
+### 41.2.2. "Partisip"  passiven Notwendigkeit (Gerundivum) (⟪कृत्य⟫)
 
 ::: grammar-box
 **Untuk menyatakan keharusan pasif ("apa yang harus/boleh dilakukan"), kata sifat yang berasal dari akar dan turunan stem verbal dapat secara opsional dibentuk dengan akhiran berikut:**
@@ -80,9 +81,9 @@ Contoh:
 * **-⟪तव्य⟫** (fem. **-⟪तव्या⟫**)
 * **-⟪अनीय⟫** (fem. **-⟪अनीया⟫**)
 * **-⟪य⟫** (fem. **-⟪या⟫**)
-* **-⟪त्य⟫** (fem. **-⟪त्या⟫**) (instead of **-⟪य⟫**/**-⟪या⟫**)
+* **-⟪त्य⟫** (fem. **-⟪त्या⟫**) (alih-alih **-⟪य⟫**/**-⟪या⟫**)
 :::
-#### 41.2.2.1. The suffix -⟪तव्य⟫ / -⟪तव्या⟫
+#### 41.2.2.1. Sufiks -⟪तव्य⟫ / -⟪तव्या⟫
 
 ::: grammar-box
 **Akhiran -⟪तव्य⟫ / -⟪तव्या⟫ melekat pada akar dan batang verba turunan (misalnya, kausatif) dengan cara yang sama seperti akhiran infinitif -⟪तुम्⟫ (lihat [Pelajaran 23](lektion23.md)), yaitu**
@@ -108,7 +109,7 @@ Examples:
 | ⟪बुध्⟫ Kaus. | ⟪बोधयितव्य⟫ | "yang harus dibangunkan; yang akan dibangunkan" |
 
 :::
-#### 41.2.2.2. The suffix -⟪अनीय⟫ / -⟪अनीया⟫
+#### 41.2.2.2. Sufiks -⟪अनीय⟫ / -⟪अनीया⟫
 
 ::: grammar-box
 **Formation:**
@@ -129,11 +130,11 @@ Examples:
 | ⟪जि⟫ 1P | ⟪जयनीय⟫ 3 | "ditaklukkan" |
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "dilakukan" |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "apa yang harus dilihat; layak untuk dilihat" |
-| ⟪बुध्⟩ Kaus. | ⟪बोधनीय⟩ 3:brbodh-aya - aya + -anīya | "seseorang yang harus dibangunkan" |
-| ⟪दा⟩ Kaus. | ⟪दापनीय⟩ 3:brdā-paya - aya + -anīya | "apa yang harus menyebabkan pemberian" |
+| ⟪बुध्⟩ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "seseorang yang harus dibangunkan" |
+| ⟪दा⟩ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "apa yang harus menyebabkan pemberian" |
 
 :::
-#### 41.2.2.3. The suffix -⟪य⟫ / -⟪या⟫
+#### 41.2.2.3. Sufiks -⟪य⟫ / -⟪या⟫
 
 ::: grammar-box
 **Formation:**
@@ -166,7 +167,7 @@ Contoh:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्मृ⟫ 1P |  ⟪स्मर्य⟫ 3 | "that which must be remembered" |
+| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "that which must be remembered" |
 
 :::
 ::: grammar-box
@@ -181,15 +182,15 @@ Examples:
 | ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | "to be sold; saleable" |
 | ⟪नी⟫ 1U | ⟪नेय⟫ 3 | "to be led" |
 
-:::: media
+:::
+::: media
 ![lekt4103.jpg](/images/lekt4103.webp)
 Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 (Sumber gambar: [Rincian](/en/licenses#lekt4103))
-::::
 :::
+
 ::: grammar-box
 **2b. Akar kata yang berakhiran -u /-ū mengganti tingkat guṇa -o sebelum -ya dengan -av, dan tingkat vṛddhi -au dengan -āv. Pembentukan tingkat vṛddhi menyiratkan keharusan dalam kasus ini.**
-
 :::
 Example:
 
@@ -214,11 +215,11 @@ Examples:
 | ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "worth seeing" |
 | ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "one who ought to be taught = student" |
 
-:::: media
+:::
+::: media
 ![lekt4106.jpg](/images/lekt4106.webp)
 Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
 (Image source: [Details](/en/licenses#lekt4106))
-::::
 :::
 High-grade formation:
 
@@ -247,16 +248,16 @@ Example:
 | :--- | :--- | :--- |
 | ⟪मन्⟫ Causative¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "to be honored, highly revered" |
 
-:::: indent
+:::
+::: indent
 ¹ actually a denominative from **⟪मान⟫**
-::::
 :::
 ::: media
 ![lekt4107.jpg](/images/lekt4107.jpg)
-Fig.: ⟪मान्यः⟫
+Gbr.: ⟪मान्यः⟫
 (Image source: [Details](/en/licenses#lekt4107))
 :::
-#### 41.2.2.4. The Suffix -⟪त्य⟫ / ⟪त्या⟫ (instead of -⟪य⟫ / -⟪या⟫)
+#### 41.2.2.4. Sufiks -⟪त्य⟫ / ⟪त्या⟫ (sebagai ganti dari -⟪य⟫ / -⟪या⟫)
 
 ::: grammar-box
 Daftar akar kata yang berakhiran -i / -u /-ṛ yang membentuk gerundiva dengan akhiran -⟪त्य⟫ (fem. -⟪त्या⟫) alih-alih dengan -⟪य⟫ / -⟪या⟫, dalam Kielhorn, Tata Bahasa §537.
@@ -272,11 +273,11 @@ Examples:
 | | | |
 | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "untuk menjadi hilang" |
-|  ⟪श्रु⟫ 5P |  ⟪श्रुत्य⟫ 3 | "untuk didengar" |
+| ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "untuk didengar" |
 | ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "untuk dilakukan" |
 
 :::
-### 41.2.3. Aspek sintaksis "Partisip" keharusan pasif (Gerundivum) (⟪कृत्य⟫)
+### 41.2.3. Sintaksis tentang "Partisip" Pasif Keharusan (Gerundivum) (⟪कृत्य⟫)
 
 ::: grammar-box
 The Gerundive can be used attributively:
@@ -289,13 +290,13 @@ Gerundiva juga dapat digunakan sebagai kata benda predikatif dalam kalimat denga
 
 ::: indent
 **⟪काशी⟫ ⟪द्विजैर्द्रष्टव्या⟫** = "Dvija harus melihat Benares"
-:::: media
-![lekt4108.jpg](/images/lekt4108.webp)
-Fig.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
-(Sumber gambar: [Details](/en/licenses#lekt4108))
-::::
 :::
-### 41.2.4. Perbedaan dalam Penggunaan Akhiran Gerundiva
+::: media
+![lekt4108.jpg](/images/lekt4108.webp)
+Gbr.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
+(Sumber gambar: [Details](/en/licenses#lekt4108))
+:::
+### 41.2.4. Perbedaan dalam Penggunaan Sufiks Gerundivum
 
 ::: grammar-box
 The usage of these suffixes largely overlaps
@@ -303,7 +304,7 @@ The usage of these suffixes largely overlaps
 * **-⟪तव्य⟫ (fem. -⟪तव्या⟫):** selalu menyatakan keharusan dan lebih disukai digunakan secara predikatif (jarang atributif). Bentuk dengan akhiran ini tidak boleh digunakan dalam majemuk nominal.
 * **-⟪अनीय⟫ (fem. -⟪अनीया⟫) dan -⟪य⟫ (fem. -⟪या⟫) / -⟪त्य⟫ (fem. -⟪त्या⟫) (sebagai pengganti -⟪य⟫/-⟪या⟫):** dapat memiliki makna tambahan (khususnya -⟪य⟫) dalam arti "-layak" bahasa Jerman (mis. "layak dilihat") atau hanya kemungkinan "-dapat" (⟪दृश्य⟩ "terlihat"). Bentuk dengan akhiran-akhir ini dapat dinegasikan dengan ⟪अ⟩/-⟪अन्⟩- (tetapi bukan bentuk dengan -⟪तव्य⟩) dan terdapat ⟪तत्पुरुष⟩ sebagai elemen kedua mereka yang muncul.
 :::
-### 41.2.5. Tidak ada hubungan dengan ⟪सु⟩- dan ⟪दुस्⟩-
+### 41.2.5. Tidak ada kombinasi dengan ⟪सु⟫- dan ⟪दुस्⟫-
 
 ::: grammar-box
 ⟪सु⟩- dan ⟪दुस्⟩-, yang berarti "ringan" atau "berat" masing-masing, tidak boleh digabungkan dengan gerundiva. Sebagai gantinya, ⟪तत्पुरुष⟩ dari jenis ⟪सुकर⟩ 3 ("mudah dilakukan") digunakan (lihat [Pelajaran 18](lektion18.md)).
@@ -343,12 +344,13 @@ Absol. **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
 thereof:
 
 **⟪शासना⟫** f.: royal edict, teaching, religion
-:::: media
+:::
+::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
 Fig.: ⟪शासना⟫
 (Image source: [Details](/en/licenses#lekt4109))
-::::
 :::
+
 ::: indent
 **⟪शास्त्र⟫** n.: teaching, treatise
 
@@ -359,6 +361,7 @@ Fig.: ⟪शासना⟫
 Fig.: ⟪शास्त्री⟫
 (Image source: [Details](/en/licenses#lekt4110))
 :::
+
 ::: indent
 **⟪शिष्य⟫** 3: one to be instructed = student
 :::
@@ -380,7 +383,7 @@ see also:
 ::: indent
 PPP **⟪अतीत⟫** : n. past
 :::
-## 41.4. Exercise
+## 41.4. Latihan
 
 A) Terjemahkan dua peribahasa di awal pelajaran.
 
@@ -413,5 +416,4 @@ Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫
 - **Gambar lekt4109.jpg** (Fig.: ⟪शासना⟫): Prasasti Ashoka, Dhauli, Orissa [Sumber gambar: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Diakses pada 2009-01-03. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial)]
 - **Gambar lekt4110.jpg** (Fig.: ⟪शास्त्री⟫): Max Müller (1823 - 1900), sekitar 1898 [Sumber gambar: Wikipedia. Domain publik]
 - **Gambar lekt4111.jpg** (Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [Sumber gambar: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Diakses pada 2009-01-04. -- Lisensi Creative Commons (Atribusi, tanpa turunan)]
-
 :::

@@ -1,12 +1,12 @@
 ---
-title: "Exercise 49"
+title: "Latihan 49"
 uebung_id: 49
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 49
+# Latihan 49
 
 Determine the following forms:
 
@@ -60,7 +60,7 @@ Fig.: ⟪गायी⟫
 :::
 ---
 
-## ⟪बाण⟫ (⟪७⟫. Cent. AD): ⟪कादम्बरी⟫
+## ⟪बाण⟫ (⟪७⟫. Jhdt. n. Chr.): ⟪कादम्बरी⟫
 
 Pertanyaan Raja **⟪शूद्रक⟫** dari **⟪विदिशा⟫** kepada Burung Beo **⟪वैशम्पायन⟫**:
 

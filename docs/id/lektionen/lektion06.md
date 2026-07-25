@@ -1,5 +1,5 @@
 ---
-title: "# Pelajaran 6"
+title: Lektion 6
 subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
@@ -7,11 +7,7 @@ category: "Grammatik"
 status: stable
 ---
 
-
-
 # Pelajaran 6
-
-
 
 ::: deleteme-box
 **Dalam pelajaran ini Anda akan mempelajari:**
@@ -21,11 +17,8 @@ status: stable
 - Indikatif Präsens (laṭ) dan akhiran primer untuk orang ketiga
 - Pembentukan akar präsens (Kelas 1, 4, dan 6)
 - Perubahan bunyi (Ablaut: Guṇa dan Vṛddhi)
-
 :::
-## 6.1. Kalimat Verba
-
-
+## 6.1. Kalimat Verbal
 
 ::: grammar-box
 **Skema I: Bentuk Kata Kerja**
@@ -33,22 +26,19 @@ status: stable
 
 **Schema II: Agen (kartṛ m. = ⟪कर्तृ⟫) – Bentuk Verbal**
 - mis. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = "Rāma melakukan pemujaan dengan korban", "Rāma berkorban"
-
 :::
 Apakah agen (**kartṛ** m. = ⟪कर्तृ⟫) disebutkan dalam kalimat verbal yang tidak berbentuk pasif, maka agen berada dalam **Nominatif** (kasus pertama, prathamā = ⟪प्रथमा⟫). Dalam numerus (jumlah, vacana n. = ⟪वचन⟫), agen dan bentuk verbal harus sesuai.
 
----
-
-## 6.2. Tentang pembentukan bentuk-bentuk kata kerja
+## 6.2. Mengenai Pembentukan Bentuk Verba
 
 Bentuk verba terbatas, yaitu bentuk verba dengan akhiran personal, dalam bahasa Sanskerta mengungkapkan hal berikut:
 
 1. **Makna** (**artha** m. ⟪अर्थ⟫)
 2. **Orang** dan **Jumlah Kata** (jumlah, **vacana** n. = ⟪वचन⟫) (aku, kamu, dia \&lt;mereka, itu\&gt;, kami berdua, kalian berdua, mereka berdua, kami, kalian, mereka)
 3. Perilaku (genus verbi):
-1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("bentuk kata yang merujuk pada orang lain"): Aktif. mis. **yajati** = ⟪यजति⟫ = "Ia mempersembahkan dengan suatu korban" (yakni pendeta, yang melaksanakan korban untuk orang lain)
-2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("bentuk kata yang merujuk pada diri sendiri"): Medial. mis. **yajate** = ⟪यजते⟫ = "Ia mempersembahkan dengan suatu korban untuk kepentingan sendiri" (yakni tuan korban, yang berkorban untuk dirinya dan keluarganya)
-3. **Pasif** (**karman** n. = ⟪कर्मन्⟫). mis. **ijyate** = ⟪इज्यते⟫ = "Ia dipuja dengan suatu korban"
+   1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("bentuk kata yang merujuk pada orang lain"): Aktif. mis. **yajati** = ⟪यजति⟫ = "Ia mempersembahkan dengan suatu korban" (yakni pendeta, yang melaksanakan korban untuk orang lain)
+   2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("bentuk kata yang merujuk pada diri sendiri"): Medial. mis. **yajate** = ⟪यजते⟫ = "Ia mempersembahkan dengan suatu korban untuk kepentingan sendiri" (yakni tuan korban, yang berkorban untuk dirinya dan keluarganya)
+   3. **Pasif** (**karman** n. = ⟪कर्मन्⟫). mis. **ijyate** = ⟪इज्यते⟫ = "Ia dipuja dengan suatu korban"
 
 Dalam banyak kasus, nuansa makna Ātmanepada tidak lagi dapat dikenali; bahkan penyair terampil sering menggunakan Ātmanepada tanpa perbedaan makna dari Parasmaipada. Namun, dalam terjemahan selalu harus diperhatikan secara cermat apakah terdapat nuansa makna tersebut.
 
@@ -70,136 +60,94 @@ Beberapa kata kerja hanya digunakan dalam Parasmaipada atau hanya dalam Ātmanep
 
 Zaman-zaman dibentuk oleh batang waktu: batang kini, batang aorist, batang perfek, batang masa depan.
 
-
----
-
-## 6.3. Indikativ Präsens (laṭ = ⟪लट्⟫)
+## 6.3. Indikativ Present (laṭ = ⟪लट्⟫)
 
 Kata kerja masa kini adalah tenses untuk masa kini, khususnya juga untuk masa berkelanjutan.
 
-
-
 ::: grammar-box
 **Indikatif (kalimat pernyataan) pada waktu sekarang dibentuk dengan menambahkan akhiran primer yang disebut pada akar waktu sekarang.**
-
 :::
 Contoh:
 
-
-
-| Akar (dhātu) | Bentuk dasar kata kerja sekarang | Orang ketiga tunggal Indikatif sekarang Parasmaipada |
-
+| Akar (dhātu) | Batang Present | 3. Person Tunggal Indikativ Present Parasmaipada |
 | :--- | :--- | :--- |
-
 | **viś** = ⟪विश्⟫ | **viśa** = ⟪विश⟫ | **viśati** = ⟪विशति⟫ = "ia (dia, ia) memasuki" |
-
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "ia (dia, itu) muncul" |
-
 | **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "ia (dia, itu) menari" |
 
----
-
-## 6.4. Akhiran orang ketiga (prathama m. = ⟪प्रथम⟫ = "orang pertama (!)")
-
-
+## 6.4. Primärendungen  dritten Person (prathama m. = ⟪प्रथम⟫ = "erste (!) Person")
 
 ::: grammar-box
-
-| | Tunggal (Ejaan Tunggal):brekavacana n.:br⟪एकवचन⟫ | Jamak (Ejaan Jamak):brbahuvacana n.:br⟪बहुवचन⟫ |
-
+| | Tunggal (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Jamak (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-
-| **Parasmaipada n.**:br⟪परस्मैपद⟫ | **-ti**:br-⟪ति⟫ | **-nti**:br-⟪न्ति⟫ |
-
-| **Ātmanepada n.**:br⟪आत्मनेपद⟫ | **-te**:br-⟪ते⟫ | **-nte**:br-⟪न्ते⟫ |
-
+| **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
+| **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
 :::
 Contoh **yaj** = ⟪यज्⟫ = "memuliakan dengan sebuah persembahan", "berkorban":
 - Pokok kata sekarang: **yaja** = ⟪यज⟫
-- 3. sg. P. **yajati** = ⟪यजति⟫
-- 3. pl. P. **yajanti** = ⟪यजन्ति⟫
-- 3. sg. Ā. **yajate** = ⟪यजते⟫
-- 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
+  - 3. sg. P. **yajati** = ⟪यजति⟫
+  - 3. pl. P. **yajanti** = ⟪यजन्ति⟫
+  - 3. sg. Ā. **yajate** = ⟪यजते⟫
+  - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
----
+## 6.5. Bildung  Batang Presents
 
-## 6.5. Pembentukan Stamm Presente
-
-### 6.5.1. Kata kerja Kelas Präsens ke-6 (tudādi = ⟪तुदादि⟫ = "tud dll.")
-
-
+### 6.5.1. Verben  6. Presentklasse (tudādi = ⟪तुदादि⟫ = "tud usw.")
 
 ::: grammar-box
 **Basis waktu kini = akar dalam bentuk rendah (seperti yang tercantum) + a-**
 
-
-
-| Akar (dhātu m.):br⟪धातु⟫ | Bentuk Dasar Kata Kerja Sekarang |
-
+| Akar (dhātu m.):br⟪धातु⟫ | Batang Present |
 | :--- | :--- |
-
-| **viś**:br⟪विश्⟫ | **viśa-**:br⟪विश⟫- |
-
-| **sṛj**:br⟪सृज्⟫ | **sṛja-**:br⟪सृज⟫- |
-
+| **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
+| **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
 :::
-### 6.5.2. Kata kerja Kelas Präsens 1 (bhādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū dll.")
-
-
+### 6.5.2. Verben  1. Presentklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
 
 ::: grammar-box
-
-| Präsensstamm = Wurzel in Hochstufe (selten Dehnstufe) + a- ||||
-
-| Akar (dhātu m.):br⟪धातु⟫ | Tingkatan Tinggi | Tingkatan Tinggi sebelum a- | Stamm Kata Kerja Sekarang |
-
+| Batang Present = Akar in Hochstufe (selten Dehnstufe) + a- ||||
+| Akar (dhātu m.):br⟪धातु⟫ | Tingkat Guṇa | Tingkat Guṇa sebelum a- | Batang Present |
 | :--- | :--- | :--- | :--- |
-
-| **bhū**:br⟪भू⟫ | **bho**:br⟪भो⟫ | **bhav**:br⟪भव्⟫ | **bhava-**:br⟪भव⟫- |
-
-| **nī**:br⟪नी⟫ | **ne**:br⟪ने⟫ | **nay**:br⟪नय्⟫ | **naya-**:br⟪नय⟫- |
-
-| **smṛ**:br⟪स्मृ⟫ | **smar**:br⟪स्मर्⟫ | **smar**:br⟪स्मर्⟫ | **smara-**:br⟪स्मर⟫- |
-
-| **yaj**:br⟪यज्⟫ | **yaj**:br⟪यज्⟫ | **yaj**:br⟪यज्⟫ | **yaja-**:br⟪यज⟫- |
-
-| Jika vokal berada dalam suku kata tertutup panjang, yaitu vokal pendek diikuti dua konsonan atau lebih, pembentukan tingkat tinggi dibiarkan ||||
-
-| **nind**:br⟪निन्द्⟫ | **nind**:br⟪निन्द्⟫ | **nind**:br⟪निन्द्⟫ | **ninda-**:br⟪निन्द⟫- |
-
+| **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
+| **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
+| **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- |
+| **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
+| Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten, unterbleibt die Pembentukan der Hochstufe ||||
+| **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
-#### 6.5.2.1. Wortsandhi von e und o
+#### 6.5.2.1. Sandhi internal dari e dan o
 Sebelum vokal, di dalam kata **e** diganti dengan **ay**, **o** diganti dengan **av**.
 
-#### 6.5.2.2. Tingkatan Bunyi (Ablaut)
-
-
+#### 6.5.2.2. Lautabstufung (Ablaut)
 
 ::: grammar-box
-
-| Tahap Rendah:brTahap Hilang | Tahap Tinggi:brTahap Penuh:brGuṇa m.:br⟪गुण⟫ | Tahap Panjang:brVṛddhi f.:br⟪वृद्धि⟫ |
-
+| Tahap Rendah:brTahap Hilang | Hochstufe:brVollstufe:brGuṇa m.:br⟪गुण⟫ | Dehnstufe:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
-
 | **ø** | **a** | **ā** |
-
 | **i / ī** | **e** | **ai** |
+| **u / ū** | **o** | **au** |
+| **ṛ / ṝ** | **ar** | **ār** |
+| **ḷ** | **al** | **āl** |
+:::
+### 6.5.3. Verben  4. Presentklasse (divādi = ⟪दिवादि⟫ = "div usw.")
 
+::: grammar-box
+**Batang Present = Akar dalam tingkat dasar (tempat akar tersebut dicantumkan) + ya-**
 
-| Kata dasar (dhātu m.):br⟪धातु⟫ | Bentuk kata dasar waktu sekarang (Präsensstamm) |
+| Akar (dhātu m.):br⟪धातु⟫ | Batang Present |
 | :--- | :--- |
 | **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
-### 6.5.4. Vokal tema, kelas kata kerja waktu sekarang tematik
+### 6.5.4. Themavokal, thematische Presentklassen
 
 ::: grammar-box
 **a** pada sufiks pembentukan kata dasar dari kelas waktu sekarang disebut **Vokal Tema**. Kelas waktu sekarang dengan **a** pada sufiks pembentukan kata dasar oleh karena itu disebut "kelas kata kerja waktu sekarang tematik".
 :::
 
-## 6.6. Sanskerta Percakapan: Pertanyaan Lainnya (praśna m. = ⟪प्रश्न⟫)
+## 6.6. Gesprochenes Sanskrit: Weitere Fragen (praśna m. = ⟪प्रश्न⟫)
 
 ::: grammar-box
 - **N. N. kiṃ karoti?** = N.N. ⟪किं⟫ ⟪करोति⟫ = "Apa yang dilakukan N. N.?"
@@ -231,18 +179,17 @@ Dalam Sanskerta, kata kerja dicantumkan dalam **Bentuk Kata Dasar**. Angka setel
 - **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : masuk
 - **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : melepaskan, mengeluarkan, memancarkan
 
-
 ## 6.8. Latihan
 
 **A) Bentuklah kalimat verbal dengan kata dasar yang diberikan dalam kurung melalui penyisipan:**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
-⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫
+   ⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫
 2. devas ... (nṛt, yudh, smṛ, sṛj)
-⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫
+   ⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫
 3. kavis ... (man, smṛ, viś)
-⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
+   ⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
 4. dhenus ... (viś, bhū)
-⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
+   ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
 
 **B) Ubahlah kalimat yang dibentuk dalam Latihan A ke bentuk jamak.**
 
@@ -266,20 +213,9 @@ Dalam Sanskerta, kata kerja dicantumkan dalam **Bentuk Kata Dasar**. Angka setel
 **Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
 Śiva Naṭarāja (⟪नटराज⟫), Kuil Hindu Kadavul, Kauai, Hawaii
 (Sumber gambar: Wikipedia, CC-BY-SA 2.5)
-
-
-
-
-::: media
-![](/images/lekt0601.webp)
-**Śivo nṛtyati** = ⟪शिवो⟫ ⟪नृत्यति⟫
-Śiva Naṭarāja (⟪नटराज⟫), Kuil Hindu Kadavul, Kauai, Hawaii
-(Sumber gambar: Wikipedia, CC-BY-SA 2.5)
-
 :::
----
 
-## 6.9. Latihan Ulang
+## 6.9. Latihan Tinjauan
 
 **A) Latihan pengisian: Bentuklah pertanyaan, yang merupakan jawaban dari kalimat-kalimat yang Anda bentuk setelah latihan pengisian berikut:**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)
@@ -350,13 +286,10 @@ Dalam Sanskerta, kata kerja dicantumkan dalam **Bentuk Kata Dasar**. Angka setel
 2. Durgā adalah seorang dewi.
 3. Mīnākṣī adalah seorang dewi.
 
-
-
 ::: media
 ![](/images/lekt0602.webp)
 **Mīnākṣī** (⟪मीनाक्षी⟫), Kuil Mīnākṣī, Madurai, Tamil Nadu
 (Sumber gambar: Wikipedia, Domain publik)
-
 :::
 4. Mereka bingung.
 5. Rāma adalah seorang pria suci.
@@ -374,4 +307,3 @@ Dalam Sanskerta, kata kerja dicantumkan dalam **Bentuk Kata Dasar**. Angka setel
 17. Ilmu pengetahuan (untuk seorang pangeran) adalah: filsafat, pengetahuan tiga kali (Veda), ekonomi dan politik. (2 kemungkinan)
 18. Apakah Anda baik-baik saja?
 19. (Saya baik) dalam segala hal.
-

@@ -1,5 +1,5 @@
 ---
-title: "# Pelajaran 16"
+title: Lektion 16
 subtitle: "Zum Sandhi auslautender Konsonanten"
 lesson_id: 16
 last_reconstructed: 2026-05-21
@@ -7,11 +7,9 @@ category: "Grammatik"
 status: stable
 ---
 
-
-
 # Pelajaran 16
 
-## 16.1. Tentang Sandhi Konsonan Akhir Kata
+## 16.1. Mengenai Sandhi Konsonan Akhir
 
 Untuk membentuk komposita, yang mana komponen depannya adalah akar kata yang berakhir dengan konsonan, diperlukan aturan-aturan berikut:
 
@@ -19,7 +17,7 @@ Konsonan hambat (plosif) akhir yang berupa gutural, retrofleks, dental, dan labi
 
 ::: no-header
 
-|   |   |
+|   |   |
 | :--- | :--- |
 | **dalam jeda dan sebelum bunyi bersuara** | **Penggantian dengan bunyi plosif tak bersuara yang sesuai:** :br **misalnya** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
 | **sebelum bunyi bersuara non-nasal** | **Penggantian dengan bunyi plosif bersuara tak aspirasi yang sesuai:** :br **misalnya** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
@@ -32,10 +30,10 @@ Konsonan hambat dental akhir (bukan nasal):
 
 ::: no-header
 
-|   |   |
+|   |   |
 | :--- | :--- |
 | **sebelum Palatal** | **Penggantian dengan konsonan palatal tak aspirasi yang bersangkutan:** :br **artinya** :br :indent -t + c- » -cc- :br :indent -d + c- » -cc- :br :indent -th + c- » -cc- :br :indent -dh + c- » -cc- :br :indent -t/-th/-d/-dh + ch- » -cch- :br :indent -t/-th/-d/-dh + j- » -jj- :br :indent -t/-th/-d/-dh + jh- » -jjh- |
-**+ ś** | **» -cś- atau -cch-** |
+| **+ ś** | **» -cś- oder -cch-** |
 | **sebelum Retrofleks** | **Penggantian dengan konsonan retrofleks tak aspirasi yang bersangkutan:** :br **artinya** :br :indent -t/-th/-d/-dh + ṭ(h)- » -ṭṭ(h)- :br :indent -t/-th/-d/-dh + ḍ(h)- » -ḍḍ(h)- |
 | **sebelum l-** | **Penggantian dengan -l:** :br **artinya** :br :indent -t/-th/-d/-dh + l- » -ll- |
 
@@ -94,7 +92,6 @@ dari itu:
 
 * **bhūta n.** (⟪भूत⟩) (PPP dari bhū): Makhluk, hantu
 
-
 ⟪योग⟫ m.: Pemasangan tali kekang, Hubungan, Penyatuan, Perolehan; Yoga
 
 ::: media
@@ -139,7 +136,7 @@ Gambar: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 :::
 ⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
-⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
+⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
 ⟪७⟫. ⟪कवेरुक्त्याः⟫ ⟪सत्यम्⟫ ⟪।⟫
 
@@ -175,18 +172,18 @@ B) Uraikanlah semua kata majemuk (Komposita) dalam kalimat-kalimat berikut dalam
 
 ⟪१०⟫. ⟪पुण्यवद्वैश्येष्टदेवतापूजां⟫ ⟪करोति⟫ ⟪।⟫
 
-## 16.4. Latihan Pengulangan
+## 16.4. Latihan Tinjauan
 
 A) Bentuklah semua kasus yang telah dipelajari sejauh ini untuk kata-kata berikut sebagai contoh untuk kelas-kelas deklinasi yang telah dipelajari sejauh ini.
 
 Gunakanlah skema berikut, yang sesuai dengan urutan kasus pada tata bahasawan India dan yang karena kelebihan-kelebihannya - yang akan dibahas kemudian - juga telah diambil alih oleh para tata bahasawan Barat:
 
-| Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
+| Tunggal:br⟪एकवचनम्⟫ | Jamak:br⟪बहुवचनम्⟫ |
 | :--- | :--- |
 | **⟪१⟫. ⟪प्रथमा⟫** :brNominatif | **⟪१⟫. ⟪प्रथमा⟫** |
 | **⟪२⟫. ⟪द्वितीया⟫** :brAkusatif | **⟪२⟫. ⟪द्वितीया⟫** |
-| **⟪३⟫. ⟪तृतीया⟫** :brInstrumentalis | **⟪३⟫. ⟪तृतीया⟫** |
-| **⟪६⟫. ⟪षष्ठी⟫** :brGenetif | **⟪६⟫. ⟪षष्ठी⟫** |
+| **⟪३⟫. ⟪तृतीया⟫** :brInstrumental | **⟪३⟫. ⟪तृतीया⟫** |
+| **⟪६⟫. ⟪षष्ठी⟫** :brGenitif | **⟪६⟫. ⟪षष्ठी⟫** |
 
 Pelajarilah pola-pola deklinasi berdasarkan contoh-contoh ini dengan hafalan!!!
 
@@ -203,7 +200,6 @@ Pelajarilah pola-pola deklinasi berdasarkan contoh-contoh ini dengan hafalan!!!
 ⟪६⟫. ⟪गुरु⟫ m.
 
 ⟪७⟫. ⟪धेनु⟫ f.
-
 
 ⟪८⟫. ⟪देवी⟫ f.
 

@@ -1,15 +1,15 @@
 ---
-title: Lesson 20
-subtitle: "Possessive compounds = bahuvrīhi m."
+title: Lektion 20
+subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
 lesson_id: 20
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
-# Lesson 20
+# Pelajaran 20
 
-## 20.1. Possessive Compounds = ⟪बहुव्रीहि⟫ m.
+## 20.1. Possesivkomposita = ⟪बहुव्रीहि⟫ m.
 
 ::: media
 ![](/images/lekt2004.webp)
@@ -34,7 +34,6 @@ Jodhpur = ⟪जोधपुर⟫
 
 :::
 Examples:
-
 
 ::: indent
 ⟪गतपापः⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪सः⟫ = "one whose evil has gone" = "one who is free from misdeeds"
@@ -73,7 +72,7 @@ Traditionally, one distinguishes:
 
 *   ⟪व्यधिकरणबहुव्रीहिः⟫ : dalam ⟪विग्रहवाक्य⟫ anggota pertama dan kedua berada pada kasus yang berbeda
 
-## 20.2. Bahuvrīhi with attributive first member
+## 20.2. Bahuvrīhi dengan unsur depan atributif
 
 ::: grammar-box
 
@@ -98,9 +97,9 @@ Traditionally, one distinguishes:
 **Example:**
 
 ::: indent
-⟪कृतफल⟫ ⟪३⟫ = ⟪कृतं⟫ ⟪फलं⟫ ye⟪न⟫ ⟪सः⟫ ⟪।⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫ ye⟪न⟫ ⟪तत्⟫ = "one (m/f/n) who has produced a result, someone / something effective"
+⟪कृतफल⟫ ⟪३⟫ = ⟪कृतं⟫ ⟪फलं⟫ ye⟪न⟫ ⟪सः⟫ ⟪।⟫ ⟪यया⟫ ⟪सा⟫ ⟪।⟫ ye⟪न⟫ ⟪तत्⟫ = "seseorang (m/f/n) yang telah menghasilkan suatu akibat, seseorang / sesuatu yang efektif"
 :::
-## 20.3. Bahuvrīhi with Appositional First Member
+## 20.3. Bahuvrīhi dengan anggota depan apositif
 
 ::: grammar-box
 
@@ -140,34 +139,45 @@ Traditionally, one distinguishes:
 
 ::: indent
 ⟪जातमात्रं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = ⟪जातं⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = "mereka membunuh musuh yang ukurannya muncul" = "mereka membunuh musuh begitu ia telah muncul"
-:::: media
+:::
+::: media
 ![](/images/lekt2005.webp)
 Fig.: ⟪देवा⟫ ⟪यीश्वादयः⟫
 Yesus dan para dewa lainnya, Ahmedabad
 (Sumber gambar: [Details](/en/licenses#lekt2005))
-::::
 :::
-## 20.4. Bahuvrīhi dengan anggota pertama yang diberi tanda kasus
+
+## 20.4. Bahuvrīhi dengan anggota depan berkasus
+
 yaitu, majemuk Bahuvrīhi yang anggota pertamanya mewakili kasus selain nominatif (⟪प्रथमा⟫).
 Contoh:
+
+Contoh:
+
 ::: indent
 ⟪देवरूपा⟫ = ⟪देवस्यैव⟫ ⟪रूपं⟫ ⟪यस्याः⟫ ⟪सा⟫ = "seorang (wanita) yang bentuknya adalah dewa" "seorang wanita dengan penampilan ilahi"
 :::
 ::: grammar-box
+
+**Pengecualian terhadap aturan umum mengenai urutan anggota majemuk:**
+
 **Pengecualian terhadap aturan umum mengenai urutan anggota majemuk:**
 **Anggota yang diberi tanda kasus berada di posisi kedua ketika itu menunjukkan bagian tubuh (khususnya tangan):**
 **Contoh:**
+
+**Contoh:**
+
 :::
 ::: indent
-⟪दण्डहस्तः⟫ =  ⟪दण्डो⟫ ⟪हस्ते⟫ (Loc. sg.) ⟪यस्य⟫ ⟪सः⟫ = "seseorang yang di tangannya terdapat tongkat" = "seseorang yang membawa tongkat di tangannya."
-:::: media
+⟪दण्डहस्तः⟫ = ⟪दण्डो⟫ ⟪हस्ते⟫ (Loc. sg.) ⟪यस्य⟫ ⟪सः⟫ = "seseorang yang di tangannya terdapat tongkat" = "seseorang yang membawa tongkat di tangannya."
+:::
+::: media
 ![](/images/lekt2001.webp)
-Fig.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
+Gbr.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
 Siemreap (ក្រុងសៀមរាប), Kamboja, abad ke-9 M.
 (Sumber gambar: [Details](/en/licenses#lekt2001))
-::::
 :::
-## 20.5. Bahuvrīhi dengan anggota pertama adverbial
+## 20.5. Bahuvrīhi dengan anggota depan adverbial
 
 Anggota pertama terdiri dari kata keterangan, preposisi, prekata kerja, atau partikel tak berubah lainnya; majemuk seperti itu umumnya ⟪नित्यसमास⟫.
 
@@ -186,15 +196,15 @@ Examples:
 
 :::
 ::: indent
-⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = "dengan seorang putra", "disertai oleh seorang putra"
-:::: media
+⟪सपुत्रः⟫ = ⟪सहपुत्रः⟫ = ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = "dengan seorang putra", "disertai oleh seorang putra"
+:::
+::: media
 ![](/images/lekt2006.webp)
-Fig.: ⟪सपुत्रा⟫
+Gbr.: ⟪सपुत्रा⟫
 Madhya Pradesh
 (Sumber gambar: [Details](/en/licenses#lekt2006))
-::::
 :::
-## 20.6. Infleksi Anggota Akhir dari Bahuvrīhi
+## 20.6. Fleksi Anggota Akhir sebuah Bahuvrīhi
 
 ::: grammar-box
 
@@ -207,45 +217,45 @@ Madhya Pradesh
 *   **-ī-stem (f.) harus mengambil akhiran -ka, -kā, -ka (n.) di akhir Bahuvrīhi; akhiran ini dapat atau harus juga diambil oleh banyak Bahuvrīhi lainnya**
 
 :::
-## 20.7. Another Classification of Types of Bahuvrīhis
+## 20.7. Klasifikasi Lain Jenis-jenis Bahuvrīhi
 
 Contoh-contoh ini disediakan untuk studi selanjutnya; untuk beberapa di antaranya, tata bahasa dan kosakata yang diperlukan belum dibahas.
 
-1. kata sifat di anggota pertama -- kata benda yang disifati di anggota kedua: ⟪स्थिरचित्तः⟫ = ⟪स्थिरं⟫ ⟪चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫
-2. kata tak berubah di anggota pertama: ⟪उच्चैःश्रवस्⟫
-3. perbandingan di anggota pertama: ⟪कुशाग्रधीः⟫ =  ⟪कुशाग्र⟫ ⟪इव⟫ ⟪धीर्यस्य⟫ ⟪सः⟫
-4. perbandingan implisit: ⟪उष्ट्रमुखः⟫ = ⟪उष्ट्रस्य⟫ ⟪मुखमिव⟫ ⟪मुखं⟫ ⟪यस्य⟫ ⟪सः⟫ = "bermulut unta" = yang mulutnya seperti mulut unta
-5. bilangan sebagai anggota kedua untuk jumlah perkiraan: ⟪उपसशाः⟫ = ⟪दशानां⟫ ⟪समीपे⟫ ⟪ये⟫ ⟪सन्ति⟫ ⟪ते⟫ = "sekitar sepuluh"
-6. kedua anggota adalah bilangan: ⟪एकद्वाः⟫ = ⟪एको⟫ ⟪वा⟫ ⟪द्वौ⟫ ⟪वा⟫ = "satu atau dua"
-7. dengan sa-/saha- di anggota pertama: ⟪सपुत्रः⟫ ⟪।⟫ ⟪सहपुत्रः⟫
-8. dengan sa- (= ⟪समान⟫) di anggota pertama: ⟪सजनपदः⟫ = ⟪समानो⟫ ⟪जनपदो⟫ ⟪यस्य⟫ ⟪सः⟫
-9. ⟪नञ्बहुव्रीहिः⟫ = dengan a-/an- di anggota pertama: ⟪अपुत्रः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ; ⟪अनङ्गः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪अङ्गं⟫ ⟪यस्य⟫ ⟪सः⟫
-10. dengan kata depan dll. di anggota pertama: ⟪प्रवातः⟫ =⟪प्रकृष्टो⟫ ⟪वातो⟫ ⟪यस्मिन्⟫ ⟪सः⟫ ; ⟪निर्धनः⟫ = ⟪निर्गतं⟫ ⟪धनं⟫ ⟪यस्मात्सः⟫ ; ⟪सुबुद्धिः⟫ = ⟪सुष्ठु⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ ; ⟪दुर्बुद्धिः⟫ = ⟪दुष्टा⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫
-11. istilah arah yang digunakan untuk menunjukkan arah interkardinal: ⟪पुर्वोत्तरा⟫ "timur laut"
-12. PPP sebagai anggota pertama: ⟪कृतकटः⟫ = ⟪कृतः⟫ ⟪कटो⟫ ⟪येन⟫ ⟪सः⟫
-13. dan lainnya
+1.  kata sifat di anggota pertama -- kata benda yang disifati di anggota kedua: ⟪स्थिरचित्तः⟫ = ⟪स्थिरं⟫ ⟪चित्तं⟫ ⟪यस्य⟫ ⟪सः⟫
+2.  kata tak berubah di anggota pertama: ⟪उच्चैःश्रवस्⟫
+3.  perbandingan di anggota pertama: ⟪कुशाग्रधीः⟫ =  ⟪कुशाग्र⟫ ⟪इव⟫ ⟪धीर्यस्य⟫ ⟪सः⟫
+4.  perbandingan implisit: ⟪उष्ट्रमुखः⟫ = ⟪उष्ट्रस्य⟫ ⟪मुखमिव⟫ ⟪मुखं⟫ ⟪यस्य⟫ ⟪सः⟫ = "bermulut unta" = yang mulutnya seperti mulut unta
+5.  bilangan sebagai anggota kedua untuk jumlah perkiraan: ⟪उपसशाः⟫ = ⟪दशानां⟫ ⟪समीपे⟫ ⟪ये⟫ ⟪सन्ति⟫ ⟪ते⟫ = "sekitar sepuluh"
+6.  kedua anggota adalah bilangan: ⟪एकद्वाः⟫ = ⟪एको⟫ ⟪वा⟫ ⟪द्वौ⟫ ⟪वा⟫ = "satu atau dua"
+7.  dengan sa-/saha- di anggota pertama: ⟪सपुत्रः⟫ ⟪।⟫ ⟪सहपुत्रः⟫
+8.  dengan sa- (= ⟪समान⟫) di anggota pertama: ⟪सजनपदः⟫ = ⟪समानो⟫ ⟪जनपदो⟫ ⟪यस्य⟫ ⟪सः⟫
+9.  ⟪नञ्बहुव्रीहिः⟫ = dengan a-/an- di anggota pertama: ⟪अपुत्रः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪पुत्रो⟫ ⟪यस्य⟫ ⟪सः⟫ ; ⟪अनङ्गः⟫ = ⟪न⟫ ⟪विद्यते⟫ ⟪अङ्गं⟫ ⟪यस्य⟫ ⟪सः⟫
+10.  dengan kata depan dll. di anggota pertama: ⟪प्रवातः⟫ =⟪प्रकृष्टो⟫ ⟪वातो⟫ ⟪यस्मिन्⟫ ⟪सः⟫ ; ⟪निर्धनः⟫ = ⟪निर्गतं⟫ ⟪धनं⟫ ⟪यस्मात्सः⟫ ; ⟪सुबुद्धिः⟫ = ⟪सुष्ठु⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫ ; ⟪दुर्बुद्धिः⟫ = ⟪दुष्टा⟫ ⟪बुद्धिर्यस्य⟫ ⟪सः⟫
+11.  istilah arah yang digunakan untuk menunjukkan arah interkardinal: ⟪पुर्वोत्तरा⟫ "timur laut"
+12.  PPP sebagai anggota pertama: ⟪कृतकटः⟫ = ⟪कृतः⟫ ⟪कटो⟫ ⟪येन⟫ ⟪सः⟫
+13.  dan lainnya
 
 ::: media
 ![](/images/lekt2007.webp)
-Fig.: ⟪कृतकटा⟫
+Gbr.: ⟪कृतकटा⟫
 Chennai = சென்னை
 (Image source: [Details](/en/licenses#lekt2007))
 :::
-## 20.8. Relationship between Bahuvrīhi and Relative Clause
+## 20.8. Hubungan antara Bahuvrīhi dan Klausa Relatif
 
-Although every Bahuvrīhi can be resolved into a relative clause, not every relative clause can be replaced by a Bahuvrīhi. Hermann Georg Jacobi (1850 - 1937), who examined the relationship between the two in greater detail (Compositum und Nebensatz, 1897), writes:
+Although every Bahuvrīhi can be resolved into a relative clause, not every relative clause can be replaced by a Bahuvrīhi. Hermann Georg Jacobi (1850 - 1937), who examined the relationship between the two in greater detail (Kata Majemuk dan Anak Kalimat, 1897), writes:
 
 ::: indent
 "Ketika menerjemahkan dari bahasa Jerman atau bahasa modern lainnya ke dalam bahasa Sanskerta, tidak semua klausa bawahan dapat diubah menjadi majemuk (compound), melainkan hanya yang bersifat hiasan dan deskriptif; namun, klausa yang mengandung penentuan secara konseptual penting atau perlu juga muncul dalam bahasa Sanskerta sebagai klausa relatif."
-:::: media
+:::
+::: media
 ![](/images/lekt2002.jpg)
 Fig.: Hermann Jacobi
 (Sumber gambar: [Details](/en/licenses#lekt2002))
-::::
 :::
 Itu mungkin benar. Namun, orang India kemudian menganggap banyak hal sebagai hiasan dan deskriptif, yang menurut kita adalah "penentuan secara konseptual penting atau perlu."
 
-## 20.9. Word List
+## 20.9. Daftar Kata
 
 ⟪वा⟫ : or
 
@@ -347,7 +357,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ini sebenarnya bagian dari Ashram di Rish
 
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : to move oneself
 
-## 20.10. Exercise 1
+## 20.10. Latihan 1
 
 Uraikan majemuk berikut sebagai Bahuvrīhi dan/atau Dvandva dan/atau Tatpuruṣa dengan semua cara yang tampaknya mungkin dalam bahasa Sanskerta (kecuali: majemuk dengan anggota pertama adverbia). Terjemahkan berbagai majemuk yang telah diuraikan ini ke dalam bahasa Jerman, dan tentukan jenis kelamin, kasus, serta jumlah keseluruhan majemuk tersebut.
 
@@ -433,7 +443,7 @@ Uraikan majemuk berikut sebagai Bahuvrīhi dan/atau Dvandva dan/atau Tatpuruṣa
 80.  ⟪अकरुणस्य⟫
 81.  ⟪सोढदुःखाः⟫
 
-## 20.11. Exercise 2
+## 20.11. Latihan 2
 
 A) Translate and resolve the compounds in Sanskrit:
 
@@ -459,15 +469,15 @@ A) Translate and resolve the compounds in Sanskrit:
 
 B) Translate into Sanskrit using compounds:
 
-1. A Kṣatriya who does not hold the staff in his hand does not protect the people.
+A Kṣatriya who does not hold the staff in his hand does not protect the people.
 
-2. Kālidāsa dan penyair lainnya adalah guru dalam bahasa Sanskerta.
+Kālidāsa dan penyair lainnya adalah guru dalam bahasa Sanskerta.
 
-3. A Kṣatriya earns his livelihood through weapons.
+A Kṣatriya earns his livelihood through weapons.
 
-4. Śūdra women also have non-violence, truth, purity, non-complaining, non-maliciousness, and forbearance as their dharma.
+Śūdra women also have non-violence, truth, purity, non-complaining, non-maliciousness, and forbearance as their dharma.
 
-## 20.12. Translation Exercise
+## 20.12. Latihan Penerjemahan
 
 ⟪मैत्रीकरुणामुदितोपेक्षाणां⟫ ⟪सुखदुःखपुण्यापुण्यविषयाणां⟫ ⟪भावनतश्चित्तप्रसादनम्⟫ ⟪॥योगसूत्र⟫ ⟪१⟫.⟪३३॥⟫
 
@@ -479,12 +489,12 @@ Explanation: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + suffix 
 
 ::: indent
 Explanation: ⟪तपस्⟫ n. (declension later): glow, heat, torment; ascetic glow, austerity
-:::: media
+:::
+::: media
 ![](/images/lekt2010.webp)
 Fig.: ⟪तपस्⟫
 Buddha as an ascetic before his liberating insight, Gandhara, 2nd/3rd century CE.
 (Image source: [Details](/en/licenses#lekt2010))
-::::
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (On the Sāṃkhya system, see Basham, Wonder pp. 324f.)
 
@@ -515,12 +525,12 @@ A ⟪सुभाषितम्⟫ :
 ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫
 
 [PENJELASAN:] -da di akhir sebuah majemuk: "memberikan"
-:::: media
+:::
+::: media
 ![](/images/lekt2009.webp)
 Gambar: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
 Karnataka
 (Sumber gambar: [Rincian](/en/licenses#lekt2009))
-::::
 :::
 Mengenai masalah properti:
 
@@ -541,12 +551,12 @@ A ⟪सुभाषितम्⟫ on female beauty:
 ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫
 
 Penjelasan: semua bentuk kecuali ⟪कं⟫ dan ⟪स्त्रीणाम्⟫ adalah nom. sg. neut. dan merujuk kepada ⟪वपुस्⟫.
-:::: media
+:::
+::: media
 ![](/images/lekt2003.webp)
 Fig.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
 (Sumber gambar: [Details](/en/licenses#lekt2003))
-::::
 :::
 Namun, satu lagi ⟪सुभाषितम्⟫ :
 
@@ -559,7 +569,6 @@ Namun, satu lagi ⟪सुभाषितम्⟫ :
 Penjelasan: ⟪इच्छताम्⟫ = gen. pl. Part Pres. P dari ⟪इष्⟫ : yang menginginkan
 :::
 ::: deleteme-box
-
 
 **lekt2001:** Siemreap (ក្រុងសៀមរាប), Cambodia, 9th century CE. [Image source: Wikipedia, Public domain]
 
@@ -581,3 +590,4 @@ Penjelasan: ⟪इच्छताम्⟫ = gen. pl. Part Pres. P dari ⟪इ�
 
 **lekt2010:** Buddha as an ascetic before his liberating insight, Gandhara, 2nd/3rd century CE. [Image source: Wikipedia, GNU FDLicense]
 :::
+

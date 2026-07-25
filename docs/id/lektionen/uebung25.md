@@ -1,16 +1,16 @@
 ---
-title: "Exercise 25"
+title: "Latihan 25"
 uebung_id: 25
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Lesson 25
+# Latihan 25
 
 A) Complete the declension examples from Lesson 16 by adding 4. Dative (⟪चतुर्थी⟫) and 5. Ablative (⟪पञ्चमी⟫).
 
-### ⟪१⟫. **⟪सन्त्⟫** (being, good)
+### ⟪१⟫. ⟪सन्त्⟫ (seiend, gut)
 
 | Case | m. Singular | m. Plural | n. Singular | n. Plural |
 | :--- | :--- | :--- | :--- | :--- |
@@ -20,7 +20,7 @@ A) Complete the declension examples from Lesson 16 by adding 4. Dative (⟪च�
 | 4. Dat. | ⟪सते⟫ | ⟪सद्भ्यः⟫ | ⟪स⟫ate | ⟪सद्भ्यः⟫ |
 | 5. Abl. | ⟪सतः⟫ | ⟪सद्भ्यः⟫ | ⟪सतः⟫ | ⟪सद्भ्यः⟫ |
 
-### ⟪२⟫. **⟪महान्त्⟫** (large)
+### ⟪२⟫. ⟪महान्त्⟫ (gross)
 
 | Case | m. Singular | m. Plural | n. Singular | n. Plural |
 | :--- | :--- | :--- | :--- | :--- |
@@ -30,7 +30,7 @@ A) Complete the declension examples from Lesson 16 by adding 4. Dative (⟪च�
 | 4. Dat. | ⟪महते⟫ | ⟪महद्भ्यः⟫ | ⟪महते⟫ | ⟪महद्भ्यः⟫ |
 | 5. Abl. | ⟪महतः⟫ | ⟪महद्भ्यः⟫ | ⟪महतः⟫ | ⟪महद्भ्यः⟫ |
 
-### ⟪३⟫. **⟪यद्⟫** (which, who)
+### ⟪३⟫. ⟪यद्⟫ (welcher, wer)
 
 | Case | m. Sg. | m. Pl. | n. Sg. | n. Pl. | f. Sg. | f. Pl. |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
@@ -125,7 +125,7 @@ Seorang pencuri dibebaskan dari dosa pencurian melalui hukuman atau pembebasan. 
 
 ---
 
-## Political Science Fragments (Arthaśāstra)
+## Staatswissenschaftliche Fragmente (Arthaśāstra)
 
 ⟪१⟫. **⟪वार्त्ता⟫ ⟪धान्यपुशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫** (AS 1.4.1)  
 Ekonomi berguna karena menghasilkan biji-bijian, ternak, emas, logam, dan tenaga kerja.

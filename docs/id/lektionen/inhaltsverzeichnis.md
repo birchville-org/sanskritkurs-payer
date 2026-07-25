@@ -1,13 +1,13 @@
-# Table of Contents
+# Daftar Isi
 
-## [Lesson 1](lektion01)
+## [Pelajaran 1](lektion01)
 
 *   1.1. Literatur untuk Pemula dalam Studi India
 *   1.2. Bunyi-bunyi Sanskerta
 *   1.2.1. Tentang Pengucapan Bunyi-bunyi Individu
 *   1.3. Latihan
 
-## [Lesson 2](lektion02)
+## [Pelajaran 2](lektion02)
 
 *   2.1. Kalimat Nomina
 *   2.2. Tentang Deklinasi (Infleksi Kata Benda)
@@ -18,7 +18,7 @@
 *   2.5. Daftar Kata
 *   2.6. Latihan
 
-## [Lesson 3](lektion03)
+## [Pelajaran 3](lektion03)
 
 *   3.1. Kasus Nominatif Tunggal Feminin
 *   3.1.1. Akhiran Kasus Nominatif Tunggal berakhiran -s
@@ -30,7 +30,7 @@
 *   3.6. Daftar Kata
 *   3.7. Latihan
 
-## [Lesson 4](lektion04)
+## [Pelajaran 4](lektion04)
 
 *   4\.1. Pertanyaan Komplemen Sederhana (Pertanyaan Kata) dan Jawaban
 *   4\.1.1. Kata Ganti Interrogatif dan Demonstratif
@@ -40,7 +40,7 @@
 *   4\.1.5. Formula Pertanyaan
 *   4\.2. Latihan
 
-## [Lesson 5](lektion05)
+## [Pelajaran 5](lektion05)
 
 *   5\.1. Nominal Compounds (samāsa m. = ⟪समास⟫)
 *   5\.2. On Sanskrit Terminology for Compounds
@@ -51,7 +51,7 @@
 *   5\.5. Exercise
 *   5\.6. Review Exercise
 
-## [Lesson 6](lektion06)
+## [Pelajaran 6](lektion06)
 
 *   6\.1. Kalimat Verbal
 *   6\.2. Tentang Pembentukan Bentuk Kata Kerja
@@ -67,7 +67,7 @@
 *   6\.8. Latihan
 *   6\.9. Latihan Tinjauan Ulang
 
-## [Lesson 7](lektion07)
+## [Pelajaran 7](lektion07)
 
 *   Ayat Mingguan
 *   7\.1. Kalimat verbal dengan objek langsung
@@ -83,7 +83,7 @@
 *   7\.6. Daftar Kata
 *   7\.7. Latihan
 
-## [Lesson 8](lektion08)
+## [Pelajaran 8](lektion08)
 
 *   8.1. Pembentukan Kata Benda
 *   8.2. Klasifikasi Akhiran Nominal
@@ -98,7 +98,7 @@
 *   8.6. Latihan
 *   8.7. Latihan Membaca dan Terjemahan
 
-## [Lesson 9](lektion09)
+## [Pelajaran 9](lektion09)
 
 *   9\.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Summary dvandva")
 *   9\.2. On the Formation of Nominal Stems
@@ -107,7 +107,7 @@
 *   9\.3. Word List
 *   9\.4. Exercise
 
-## [Lesson 10](lektion10)
+## [Pelajaran 10](lektion10)
 
 *   10\.1. Kalimat Pasif
 *   10\.2. Instrumental (tṛtīyā f. = ⟪तृतीया⟫ = "akhiran kasus ketiga")
@@ -120,14 +120,14 @@
 *   10\.7. Daftar Kata 2
 *   10\.8. Latihan Membaca dan Terjemahan
 
-## [Lesson 11](lektion11)
+## [Pelajaran 11](lektion11)
 
 *   11\.1. Double Accusative
 *   11\.2. Word List
 *   11\.3. Exercise
 *   11\.4. Review Exercise
 
-## [Lesson 12](lektion12)
+## [Pelajaran 12](lektion12)
 
 *   12\.1. Partisip Lampau Pasif Sempurna (PPP)
 *   12\.1.1. Skema untuk kata kerja transitif
@@ -141,7 +141,7 @@
 *   12\.5.1. Bentuk Pasif dan PPP dari Akar Kata yang Telah Dipelajari Sejauh Ini
 *   12\.6. Latihan
 
-## [Lesson 13](lektion13)
+## [Pelajaran 13](lektion13)
 
 *   13\.1. PPP pada -na-
 *   13\.2. Lebih lanjut tentang Penggunaan PPP
@@ -155,7 +155,7 @@
 *   13\.10. Latihan
 *   13\.11. Tinjauan Latihan
 
-## [Lesson 14](lektion14)
+## [Pelajaran 14](lektion14)
 
 *   14\.1. Ungkapan Hubungan yang Ditunjuk oleh Kata Benda: Genitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = akhiran kasus keenam)
 *   14\.2. Pembentukan Bentuk Genitif (ṣaṣṭhī f. = ⟪षष्ठी⟫)
@@ -164,7 +164,7 @@
 *   14\.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Peribahasa
 *   14\.6. Latihan
 
-## [Lesson 15](lektion15)
+## [Pelajaran 15](lektion15)
 
 *   15\.1. ⟪सुभाषितम्⟫
 *   15\.2. Majemuk Penentu = Tatpuruṣa m. = ⟪तत्पुरुष⟫
@@ -179,14 +179,14 @@
 *   15\.10. Latihan 2
 *   15\.11. Latihan 3
 
-## [Lesson 16](lektion16)
+## [Pelajaran 16](lektion16)
 
 *   16\.1. On the Sandhi of Final Consonants
 *   16\.2. Word List
 *   16\.3. Exercise
 *   16\.4. Review Exercise
 
-## [Lesson 17](lektion17)
+## [Pelajaran 17](lektion17)
 
 *   17\.1. Kelas Present Kedua (⟪अदादि⟫ = ⟪अद्⟫ dll.)
 *   17\.2. Akar Kelas Present Kedua dengan Ablasi Stem: Derajat Kuat – Derajat Lemah
@@ -197,7 +197,7 @@
 *   17\.7. Latihan 1
 *   17\.8. Latihan 2
 
-## [Lesson 18](lektion18)
+## [Pelajaran 18](lektion18)
 
 *   18\.1. ⟪सुभाषितम्⟫
 *   18\.2. Majemuk Penentu (⟪तत्पुरुष⟫) dengan Anggota Pertama Adverbia
@@ -209,7 +209,7 @@
 *   18\.5. Latihan
 *   18\.6. Latihan Tinjauan
 
-## [Lesson 19](lektion19)
+## [Pelajaran 19](lektion19)
 
 *   19\.1. The Relative Clause
 *   19\.2. The Relative Pronoun = ⟪व्यपेक्षकसर्वनाम⟫ n.
@@ -217,7 +217,7 @@
 *   19\.4. Exercise
 *   19\.5. ⟪सुभाषितानि⟫
 
-## [Lesson 20](lektion20)
+## [Pelajaran 20](lektion20)
 
 *   20\.1. Kata sifat posesif = ⟪बहुव्रीहि⟫ m.
 *   20\.2. Bahuvrīhi dengan anggota pertama atributif
@@ -232,7 +232,7 @@
 *   20\.11. Latihan 2
 *   20\.12. Latihan terjemahan
 
-## [Lesson 21](lektion21)
+## [Pelajaran 21](lektion21)
 
 *   21\.1. Further Present Stems in -nt
     *   21\.1.1. Present Participle (⟪लडादेशः⟫) Parasmaipada
@@ -242,7 +242,7 @@
 *   21\.4. Word List
 *   21\.5. Exercise
 
-## [Lesson 22](lektion22)
+## [Pelajaran 22](lektion22)
 
 *   22\.1. Kata Kekerapan (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)
 *   22\.2. Pembentukan Kata Kekerapan
@@ -251,7 +251,7 @@
 *   22\.3. Daftar Kata
 *   22\.4. Latihan
 
-## [Lesson 23](lektion23)
+## [Pelajaran 23](lektion23)
 
 *   23\.1. Infinitif (⟪तुमुन्⟫)
 *   23\.2. Pembentukan Infinitif (⟪तुमुन्⟫)
@@ -260,7 +260,7 @@
 *   23\.5. Latihan
 *   23\.6. Tinjauan Latihan
 
-## [Lesson 24](lektion24)
+## [Pelajaran 24](lektion24)
 
 *   24\.1. Kasus Dativ (⟪चतुर्थी⟫ = "akhiran kasus keempat")
 *   24\.2. Pembentukan Kasus Dativ (⟪चतुर्थी⟫)
@@ -273,7 +273,7 @@
 *   24\.5. Latihan
 *   24\.6. Latihan Lebih Lanjut tentang Penggunaan Kasus Dativ
 
-## [Lesson 25](lektion25)
+## [Pelajaran 25](lektion25)
 
 *   25\.1. Pembentukan Ablatif (⟪पञ्चमी⟫ = "akhiran kasus kelima")
 *   25\.2. Penggunaan Ablatif (⟪पञ्चमी⟫)
@@ -284,7 +284,7 @@
 *   25\.7. ⟪सुभाषितानि⟫
 *   25\.8. Latihan Terjemahan
 
-## [Lesson 26](lektion26)
+## [Pelajaran 26](lektion26)
 
 *   26\.1. Aturan Kerebral-an untuk -s- di dalam Kata
 *   26\.2. Hukum Kerebral-an Sengau Denta di dalam Kata
@@ -295,7 +295,7 @@
 *   26\.7. Pembentukan masa depan sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
 *   26\.8. Latihan
 
-## [Lesson 27](lektion27)
+## [Pelajaran 27](lektion27)
 
 *   27\.1. Penggunaan Kasus Lokatif (⟪सप्तमी⟫ f. = "akhiran kasus ketujuh")
 *   27\.2. Pembentukan Kasus Lokatif (⟪सप्तमी⟫)
@@ -322,7 +322,7 @@
 *   27\.7.13. Kata Ganti Relatif: ⟪यद्⟫
 *   27\.7.14. Kata Ganti Interrogatif: ⟪किम्⟫
 
-## [Lesson 28](lektion28)
+## [Pelajaran 28](lektion28)
 
 *   28\.1. Kausatif (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 *   28\.2. Konstruksi Kalimat dengan Kausatif (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
@@ -336,14 +336,14 @@
 *   28\.10. Daftar Kata
 *   28\.11. Latihan
 
-## [Lesson 29](lektion29)
+## [Pelajaran 29](lektion29)
 
 *   29\.1. Penggunaan Parasmaipada (⟪परस्मैपद⟫) dan Ātmanepada (⟪आत्मनेपद⟫) dalam Kausatif
 *   29\.2. Daftar Kata
 *   29\.3. Latihan Terjemahan untuk Tinjauan Ulang
 *   29\.4. Bentuk Masa Depan dan Kausatif untuk Akar Kata yang Telah Dipelajari Sejauh Ini
 
-## [Lesson 30](lektion30)
+## [Pelajaran 30](lektion30)
 
 *   30\.1. Kelas Present Kesembilan (⟪क्र्यादि⟫ = "⟪क्री⟫ dll.")
 *   30\.2. Penggunaan Optatif (⟪लिङ्⟫)
@@ -356,13 +356,13 @@
 *   30\.7. Latihan
 *   30\.8. Latihan Bentuk
 
-## [Lesson 31](lektion31)
+## [Pelajaran 31](lektion31)
 
 *   31\.1. The 7th Present Class (⟪रुधादि⟫ = "⟪रुध्⟫ etc.")
 *   31\.2. Word List
 *   31\.3. Exercise
 
-## [Lesson 32](lektion32)
+## [Pelajaran 32](lektion32)
 
 *   32\.1. Bentuk-bentuk Kata Kerja Lampau
 *   32\.2. Bentuk Taksempurna (⟪लङ्⟫)
@@ -376,7 +376,7 @@
 *   32\.8. Latihan Tinjauan
 *   32\.9. Latihan Terjemahan
 
-## [Lesson 33](lektion33)
+## [Pelajaran 33](lektion33)
 
 *   33\.1. Reduplikasi (⟪अभ्यास⟫ m.)
 *   33\.1.1. Konsonan Reduplikasi
@@ -390,7 +390,7 @@
 *   33\.7. Latihan
 *   Sumber
 
-## [Lesson 34](lektion34)
+## [Pelajaran 34](lektion34)
 
 *   34\.1. Sempurna (⟪लिट्⟫)
 *   34\.2. Sempurna yang diduplikasi (⟪द्वित्वलिट्⟫)
@@ -406,7 +406,7 @@
 *   34\.7. Latihan
 *   34\.8. Latihan Terjemahan
 
-## [Lesson 35](lektion35)
+## [Pelajaran 35](lektion35)
 
 *   35\.1. Perfect Type III: Strong Stem, Guṇa/Ḍīrgha Grade
     *   35\.1.1. Perfect Type IIIa: Strong stem in guṇa/long grade, weak stem in zero grade
@@ -419,7 +419,7 @@
 *   35\.4. Word List
 *   35\.5. Exercise
 
-## [Lesson 36](lektion36)
+## [Pelajaran 36](lektion36)
 
 *   36\.1. Bentuk Khusus dari Sempurna
 *   36\.2. Sempurna periphrastic (⟪अनुप्रयोगलिट्⟫)
@@ -430,7 +430,7 @@
 *   36\.7. Latihan Terjemahan
 *   36\.8. Latihan Bentuk
 
-## [Lesson 37](lektion37)
+## [Pelajaran 37](lektion37)
 
 *   37\.1. Kata Keterangan (⟪क्रियाविशेषणम्⟫)
 *   37\.2. Penggunaan Kata Keterangan dari Bentuk Kasus
@@ -455,7 +455,7 @@
 *   37\.10. Latihan
 *   37\.11. Latihan Tinjauan
 
-## [Lesson 38](lektion38)
+## [Pelajaran 38](lektion38)
 
 *   38\.1. Solusi Minggu Ini
 *   38\.2. Perubahan Bunyi Nasal dalam Kata
@@ -473,7 +473,7 @@
 *   38\.11. Daftar Kata untuk Latihan Terjemahan
 *   38\.12. Latihan Terjemahan
 
-## [Lesson 39](lektion39)
+## [Pelajaran 39](lektion39)
 
 *   39\.1. Akhiran Pribadi untuk Orang Pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**orang** Ketiga")
 *   39\.2. Pembentukan bentuk kata kerja untuk akar present tematik orang pertama
@@ -494,7 +494,7 @@
 *   39\.4.6. Kelas Present Kesembilan (⟪क्र्यादि⟫)
 *   39\.5. Latihan
 
-## [Lesson 40](lektion40)
+## [Pelajaran 40](lektion40)
 
 *   40\.1. ⟪सुभाषितानि⟫
 *   40\.2. Pembentukan bentuk kata kerja sempurna orang pertama (⟪लिट्⟫)
@@ -511,7 +511,7 @@
 *   40\.7. Latihan
 *   40\.8. Latihan Bentuk
 
-## [Lesson 41](lektion41)
+## [Pelajaran 41](lektion41)
 
 *   41\.1. ⟪सुभाषिते⟫ (dua peribahasa)
 *   41\.2. Pembentukan ⟪कृत्⟫ lebih lanjut dengan -a
@@ -523,7 +523,7 @@
 *   41\.3. Daftar Kata
 *   41\.4. Latihan
 
-## [Lesson 42](lektion42)
+## [Pelajaran 42](lektion42)
 
 *   42\.1. Suku-suku yang berakhiran -ṛ
 *   42\.1.1. Suku-suku dengan tingkat panjang pada batang kuat
@@ -535,7 +535,7 @@
 *   42\.3. Latihan
 *   42\.4. Latihan Terjemahan
 
-## [Lesson 43](lektion43)
+## [Pelajaran 43](lektion43)
 
 *   43\.1. Akhiran pribadi orang kedua (⟪मध्यमः⟫ = "tengah \&lt;orang\&gt;")
 *   43\.2. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫)
@@ -545,7 +545,7 @@
 *   43\.5. Latihan
 *   43\.6. ⟪संवादः⟫ = Percakapan
 
-## [Lesson 44](lektion44)
+## [Pelajaran 44](lektion44)
 
 *   44.1. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) akar atematis dengan akhiran sufiks vokal
 *   44.1.1. Kelas Present Kelima (⟪स्वादि⟫)
@@ -561,7 +561,7 @@
 *   44.6. Latihan
 *   44.7. Tinjauan Bentuk Latihan
 
-## [Lesson 45](lektion45)
+## [Pelajaran 45](lektion45)
 
 *   45\.1. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) akar athematic tanpa akhiran vokal (lanjutan)
 *   45\.1.1. Kelas Present Ketiga (⟪जुहोत्यादि⟫)
@@ -570,7 +570,7 @@
 *   45\.3. Daftar Kata
 *   45\.4. Latihan
 
-## [Lesson 46](lektion46)
+## [Pelajaran 46](lektion46)
 
 *   46\.1. Pembentukan bentuk verbal orang kedua (⟪मध्यमः⟫) Sempurna (⟪लिट्⟫)
 *   46\.1.1. Akhiran
@@ -585,7 +585,7 @@
 *   46\.2. Daftar Kata
 *   46\.3. Latihan
 
-## [Lesson 47](lektion47)
+## [Pelajaran 47](lektion47)
 
 *   47\.1. Kalimat Perintah (⟪लोट्⟫)
 *   47\.2. Pembentukan Kalimat Perintah (⟪लोट्⟫) dari akar present tematik
@@ -597,7 +597,7 @@
 *   47\.2.6. Pasif
 *   47\.3. Latihan
 
-## [Lesson 48](lektion48)
+## [Pelajaran 48](lektion48)
 
 *   48.1. ⟪सुभाषितानि⟫
 *   48.2. Pembentukan Kata Perintah (⟪लोट्⟫) pada akar present yang ateis
@@ -610,7 +610,7 @@
 *   48.5. Latihan
 *   48.6. Terjemahan Latihan
 
-## [Lesson 49](lektion49)
+## [Pelajaran 49](lektion49)
 
 *   49\.1. Pembentukan Kata Perintah (⟪लोट्⟫) akar present tanpa tema (lanjutan)
 *   49\.1.1. Kelas Present Ketujuh (⟪रुधादि⟫)
@@ -623,13 +623,13 @@
 *   49\.5. Latihan Tinjauan Bentuk
 *   49\.6. Latihan Terjemahan
 
-## [Lesson 50](lektion50)
+## [Pelajaran 50](lektion50)
 
 *   50\.1. Nominal formation: regular comparison
 *   50\.2. Word List
 *   50\.3. Translation Exercise
 
-## [Lesson 51](lektion51)
+## [Pelajaran 51](lektion51)
 
 *   51\.1. Komponen ⟪उपपद⟫
 *   51\.2. Deklinasi kata dasar yang berakhiran konsonan sederhana (kecuali nasal, semi-vokal, -s)
@@ -642,7 +642,7 @@
 *   51\.6. Daftar Kata
 *   51\.7. Latihan Terjemahan
 
-## [Lesson 52](lektion52)
+## [Pelajaran 52](lektion52)
 
 *   52\.1. Neutrum dari kata benda yang berakhiran -i dan -u
 *   52\.2. Penurunan Nominal
@@ -664,27 +664,27 @@
 *   52\.8. Latihan Terjemahan
 *   52\.9. Tugas selama masa libur semester
 
-## [Lesson 53](lektion53)
+## [Pelajaran 53](lektion53)  (Semesterferien)
 
-*   53\.1. Dualis (⟪द्विवचन⟫ n.) von Substantiven
-*   53\.2. Dualendungen von Substantiven
-*   53\.3. Der Dual von Konsonantstämmen
-*   53\.3.1. Stämme ohne Stammgradation
-*   53\.3.2. Stämme mit Stammgradation
-*   53\.4. Der Dual von Vokalstämmen
-*   53\.5. Dualdvandva
-*   53\.6. Der Dual von Pronomina
-*   53\.7. Pronominale Adjektive
-*   53\.8. Irregulärer Komparativ
-*   53\.9. Deklination von Komparativen auf -īyas
-*   53\.10. Metrik (Studium der Versmaße)
-*   53\.10.1. Bedeutung der Bestimmung des Versmaßes
-*   53\.10.2. Arten von Metra
-*   53\.10.3. Die metrische Quantität der Silben
-*   53\.10.4. Das epische Śloka (⟪श्लोक⟫ m.)
-*   53\.11. Übung
+*   53.1. Dualis (⟪द्विवचन⟫ n.) dari nomina
+*   53.2. Akhiran dualis dari nomina
+*   53.3. Dualis dari akar konsonan
+*   53.3.1. Akar tanpa gradasi vokal
+*   53.3.2. Akar dengan gradasi vokal
+*   53.4. Dualis dari akar vokal
+*   53.5. Dualdvandva
+*   53.6. Dualis dari pronomina
+*   53.7. Adjektiva pronominal
+*   53.8. Komparatif tidak beraturan
+*   53.9. Deklinasi komparatif berakhiran -īyas
+*   53.10. Metrum (Studi tentang matra)
+*   53.10.1. Pentingnya menentukan matra
+*   53.10.2. Jenis-jenis metrum
+*   53.10.3. Kuantitas metris suku kata
+*   53.10.4. Śloka epik (⟪श्लोक⟫ m.)
+*   53.11. Latihan
 
-## [Lesson 54](lektion54)
+## [Pelajaran 54](lektion54)
 
 *   54\.1. Catatan Pendahuluan
 *   54\.2. Pembentukan Kata: ⟪कृत्⟫ Akhiran -u pada Stem Desideratif
@@ -695,12 +695,12 @@
 *   54\.6.1. Aorist Pasif untuk orang ketiga tunggal
 *   54\.7. Latihan
 
-## [Lesson 55](lektion55)
+## [Pelajaran 55](lektion55)
 
 *   55\.1. The a-aorist (Aorist with thematic vowel)
 *   55\.2. Exercise
 
-## [Lesson 56](lektion56)
+## [Pelajaran 56](lektion56)
 
 *   56\.1. Aorist berulang (reduplicated aorist)
 *   56\.1.1. Pembentukan Aorist Kausatif dan Akar Kelas Present Kesepuluh
@@ -709,12 +709,12 @@
 *   56\.4. ⟪स्म⟫
 *   56\.5. Latihan
 
-## [Lesson 57](lektion57)
+## [Pelajaran 57](lektion57)
 
 *   57\.1. Aorist 4: s-Aorist
 *   57\.2. Exercise
 
-## [Lesson 58](lektion58)
+## [Pelajaran 58](lektion58)
 
 *   58\.1. Akhiran Utama Dual (⟪द्विवचनम्⟫)
 *   58\.2. Dual Kelas Present Tematik: Indikatif Present (⟪लट्⟫)
@@ -736,7 +736,7 @@
 *   Aorist 5: iṣ-Aorist
 *   Latihan
 
-## [Lesson 59](lektion59)
+## [Pelajaran 59](lektion59)
 
 *   59\.1. Akhiran Sekunder dan Akhiran Imperatif Dual (⟪द्विवचनम्⟫)
 *   59\.2. Dual Kelas Present Tematik: Optatif (⟪विधिलिङ्⟫), Imperfek (⟪लङ्⟫), Imperatif (⟪लोट्⟫)
@@ -762,7 +762,7 @@
 *   59\.6. Aorist (⟪लुङ्⟫) 7: sa-Aorist (aorist s- tematik)
 *   59\.7. Latihan
 
-## [Lesson 60](lektion60)
+## [Pelajaran 60](lektion60)
 
 *   60\.1. Akhiran Ganda dari Perfek (⟪द्विवचनम्⟫)
 *   60\.2. Ganda dari Perfek Berreduplikasi (⟪द्वित्वलिट्⟫)
@@ -781,7 +781,7 @@
 *   60\.6.2. Konjugasi Desideratif (⟪सन्⟩)
 *   60\.7. Latihan
 
-## [Lesson 61](lektion61)
+## [Pelajaran 61](lektion61)
 
 *   61\.1. Penurunan Kata Dasar Berakhiran -ā, -ī, -ū
 *   61\.1.1. Kata dasar berakhiran -ā dalam ⟪तत्पुरुष⟫

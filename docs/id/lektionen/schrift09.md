@@ -1,6 +1,6 @@
-# Writing Exercise 9
+## Latihan Aksara 9
 
-### Word Division
+### Worttrennung
 
 Within a sentence (a verse half), word division in the script occurs only if a word ends with
 
@@ -10,15 +10,15 @@ Within a sentence (a verse half), word division in the script occurs only if a w
 
 dan kata berikutnya dimulai dengan konsonan. Hal yang sama berlaku dalam kasus-kasus di mana, sesuai aturan sandhi kalimat, terjadi hiatus antara vokal-vokal.
 
-### Punctuation
+### Interpunktion
 
 Akhir kalimat dalam prosa ditandai dengan | (ardhadhaṇḍa, m.). Dalam bait, | menandai akhir setengah bait, sedangkan || (daṇḍa, m.) menandai akhir bait penuh. Dalam prosa, || menunjukkan jeda yang lebih besar (misalnya, akhir paragraf). Penomoran bait ditempatkan di antara dua ||, misalnya: ||⟪१⟫||.
 
-### Abbreviation
+### Abkürzung
 
 Tanda singkatan (misalnya, dalam referensi terhadap karya) adalah °, misalnya, ⟪पा⟫° = pā(ṇinīye) = "Dalam risalah tata bahasa Pāṇini".
 
-### Further Vowels in Initial Position
+### Weitere Vokal in Anfangsstellung
 
 ![](/images/schrift018.webp)
 
@@ -26,7 +26,7 @@ Tanda singkatan (misalnya, dalam referensi terhadap karya) adalah °, misalnya, 
 
 Note that a, ā, o, and au are written according to the same basic scheme.
 
-## Exercise
+## Latihan
 
 A) Write in Devanāgarī:
 

@@ -1,12 +1,12 @@
 ---
-title: "Exercise 23"
+title: "Latihan 23"
 uebung_id: 23
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 23
+# Latihan 23
 
 [A] Akar-akar berikut membentuk infinitif tanpa vokal penghubung -i-. Bentuklah infinitif, dengan memperhitungkan perubahan bunyi, untuk:
 
@@ -91,7 +91,7 @@ Untuk membebaskan dunia-dunia, Sang Buddha mengajarkan kebenaran-kebenaran mulia
 Penuh dengan keserakahan, para pria pergi untuk melihat gadis cantik menari.
 
 [ L 0 ] ⟪७⟫. **⟪शूद्रया⟫ ⟪संगत्य⟫ ⟪ब्राह्मणो⟫ ⟪यष्टुं⟫ ⟪नार्हति⟫ ⟪॥७॥⟫**
-[ L 1 ] Wenn ein Brahmane mit einer Śūdra Geschlechtsverkehr hatte, darf er nicht opfert.
+[ L 1 ] Jika seorang Brahmana melakukan hubungan seksual dengan seorang Śūdra, ia tidak boleh mempersembahkan kurban.
 
 ⟪८⟫. **⟪धर्मं⟫ ⟪श्रोतुकामा⟫ ⟪ब्राह्मणी⟫ ⟪सपुत्रा⟫ ⟪गुरुं⟫ ⟪द्रष्टुं⟫ ⟪महानगरं⟫ ⟪गता⟫ ⟪॥८॥⟫**
 (⟪श्रोतुं⟫ ⟪कामो⟫ ⟪यस्याः⟫ ⟪सा⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह⟫ ⟪।⟫ ⟪महन्नगरम्⟫)
@@ -114,7 +114,7 @@ Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 :::
 ---
 
-## Additional Exercises
+## Zusätzliche Latihanen
 
 A) Translate into Sanskrit:
 

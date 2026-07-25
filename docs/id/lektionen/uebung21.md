@@ -1,12 +1,12 @@
 ---
-title: "Exercise 21"
+title: "Latihan 21"
 uebung_id: 21
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 21
+# Latihan 21
 
 A) Resolve the following Sanskrit compounds and translate them:
 

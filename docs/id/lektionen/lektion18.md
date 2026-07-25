@@ -1,9 +1,9 @@
 ---
-title: Lesson 18
+title: Lektion 18
 lesson_id: 18
 ---
 
-# Lesson 18
+# Pelajaran 18
 
 ## 18.1. ⟪सुभाषितम्⟫
 
@@ -13,9 +13,7 @@ lesson_id: 18
 ⟪नास्ति⟫ ⟪क्रोधसमो⟫ ⟪वह्निर्⟫  
 ⟪नास्ति⟫ ⟪ज्ञानसमं⟫ ⟪सुखम्⟫ ⟪॥⟫
 :::
-⟪चाणक्य⟫
-
-## 18.2. Determinative Compounds (⟪तत्पुरुष⟫) with Adverbial First Member
+## 18.2. Komposita determinatif (⟪तत्पुरुष⟫) dengan unsur pertama adverbial
 
 As an adverbial (indeclinable) first member,
 
@@ -90,7 +88,7 @@ Berbeda dengan Sandhi kalimat, pada posisi akhir dari anggota pertama majemuk:
 Therefore: ⟪दुष्करण⟫
 
 :::
-### 18.2.1. Compounds of Type ⟪सुकर⟫ / ⟪दुष्कर⟫
+### 18.2.1. Komposita vom Typ ⟪सुकर⟫ / ⟪दुष्कर⟫
 
 ::: grammar-box
 
@@ -106,9 +104,9 @@ Contoh-contoh:
 
 ⟪दुर्गम⟫ 3: difficult to go
 
-⟪सुदुर्गम⟫ 3: very difficult to go
+⟪सुदुर्गम⟫ 3: sangat sulit untuk dilalui
 :::
-### 18.2.2. Meanings of nañ-Tatpuruṣa (a- / an-)
+### 18.2.2. Makna-makna dari nañ-Tatpuruṣa (a- / an-)
 
 Tatpuruṣa with a- / an- can have the following meanings:
 
@@ -135,7 +133,7 @@ The following verse summarizes these meanings:
 
 Six meanings of nañ (= a-/an-) are named ....
 :::
-## 18.3. Verbal Compounds
+## 18.3. Verbalkomposita
 
 ::: indent
 ⟪उपसर्गेण⟫ ⟪धात्वर्थो⟫  
@@ -238,7 +236,7 @@ sam-kṛ 8 ⟪संस्करोति⟫ : mempersiapkan, menyiapkan untuk p
 
 *   PPP ⟪संस्कृत⟫ 3: disiapkan untuk pengorbanan; ⟪संस्कृत⟫ n.: Sanskerta: bahasa yang sesuai untuk pengorbanan; lawan kata ⟪प्राकृत⟫ 3: biasa, umum; ⟪प्राकृत⟫ n.: bahasa sehari-hari, Prakrit (penyebutan untuk bahasa rakyat dan perdagangan yang berkaitan dengan Sanskerta)
 :::
-### 18.3.1. Pembentukan nomina dari gabungan kata kerja
+### 18.3.1. Nominalbildungen zu Verbalkomposita
 
 ::: grammar-box
 
@@ -304,7 +302,7 @@ Fig.: ⟪उपनयनम्⟫
 
 ⟪प्रभृति⟫ f.: beginning
 
-## 18.5. Exercise
+## 18.5. Latihan
 
 [A] Terjemahkan ⟪सुभाषित⟫ di awal pelajaran.
 
@@ -372,7 +370,7 @@ B) Translate the following Tatpuruṣa compounds:
 
 ⟪३१⟫. ⟪अमृत⟫ n.
 
-## 18.6. Review Exercise
+## 18.6. Latihan Tinjauan
 
 Please do not use any aids!
 
@@ -404,17 +402,17 @@ Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 :::
 B) Terjemahkan menggunakan verba dari kelas presens ke-2:
 
-1. The Brahmin praises the goddesses.
+The Brahmin praises the goddesses.
 
-2. Para pahlawan menempuh jalan yang sulit dilalui menuju desa kaum Ārya.
+Para pahlawan menempuh jalan yang sulit dilalui menuju desa kaum Ārya.
 
-3. The housemaid milks the cows.
+The housemaid milks the cows.
 
-4. Para musuh para Ārya membunuh para Kṣatriya yang perkasa.
+Para musuh para Ārya membunuh para Kṣatriya yang perkasa.
 
-5. A ghost eats no fruits.
+A ghost eats no fruits.
 
-6. Demikianlah ia yang telah [melalui jalan reinkarnasi] dengan baik berbicara kepada muridnya.
+Demikianlah ia yang telah [melalui jalan reinkarnasi] dengan baik berbicara kepada muridnya.
 
 ::: media
 ![](/images/lekt1803.webp)

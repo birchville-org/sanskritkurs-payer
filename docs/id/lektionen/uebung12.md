@@ -1,12 +1,12 @@
 ---
-title: "Exercise 12"
+title: "Latihan 12"
 uebung_id: 12
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 12
+# Latihan 12
 
 A) Bentuklah kalimat pasif dalam waktu lampau dari kalimat aktif pada [Pelajaran 7](lektion07.md), Latihan A, dan untuk kata kerja intransitif serta kata kerja gerak, bentuklah kalimat aktif dalam waktu lampau.
 

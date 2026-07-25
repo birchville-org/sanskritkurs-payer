@@ -1,12 +1,12 @@
 ---
-title: "Exercise 10"
+title: "Latihan 10"
 uebung_id: 10
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 10
+# Latihan 10
 
 [A] Bentukkan bentuk pasif untuk bentuk kata kerja berikut (dengan terjemahan bentuk kata kerja), yaitu bentuk pasif yang sesuai dengan bentuk kata kerja dalam orang dan jumlah:
 
@@ -214,7 +214,7 @@ Fig.: ⟪ग्रामः⟫
 :::
 ---
 
-## Reading Exercise
+## Latihan Membaca
 
 [B0] Bacalah dan terjemahkan, lalu ubahlah ke dalam bentuk pasif:
 

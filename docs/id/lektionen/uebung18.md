@@ -1,12 +1,12 @@
 ---
-title: "Exercise 18"
+title: "Latihan 18"
 uebung_id: 18
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 18
+# Latihan 18
 
 [A) Terjemahkan ⟪सुभाषित⟫ di awal pelajaran.
 
@@ -90,7 +90,7 @@ Fig.: ⟪नास्ति⟫ ⟪कामसमो⟫ ⟪व्याधिः
 :::
 ---
 
-## Additional Exercises
+## Zusätzliche Latihanen
 
 A) Resolve the following Sanskrit compounds and provide translation suggestions:
 

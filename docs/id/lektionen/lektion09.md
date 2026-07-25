@@ -1,13 +1,11 @@
 ---
-title: "# Pelajaran 9"
+title: Lektion 9
 subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
 lesson_id: 9
 category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
 ---
-
-
 
 # Pelajaran 9
 
@@ -19,8 +17,7 @@ last_reconstructed: 2026-05-07
 - Kutipan dari teks hukum klasik (Dharmaśāstras)
 :::
 
-
-## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Dvandva ringkasan")
+## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Zusammenfassungsdvandva")
 
 ::: grammar-box
 **Jika sebuah Dvandva ingin menyatakan bahwa serangkaian hal, dll., membentuk satu kesatuan, maka umumnya berada dalam bentuk tunggal neutrum:**
@@ -29,8 +26,7 @@ mis. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्राम�
 :::
 Selain aturan dasar pembentukan Samāhāradvandvas ini, terdapat sejumlah aturan lain yang dapat ditemukan di Pāṇini 2,4,2-17 atau misalnya Mr. R. Kale, A higher Sanskrit grammar, cetak ulang 1969, § 189 - 192 a. Dalam berbagai tahap perkembangan bahasa tidak selalu aturan yang sama dipatuhi!
 
-
-## 9.2. Tentang Pembentukan Akar Nomina
+## 9.2. Tentang Pembentukan Dasar Kata Benda
 
 ### 9.2.1. -ka (taddhita)
 
@@ -51,7 +47,7 @@ Selain aturan dasar pembentukan Samāhāradvandvas ini, terdapat sejumlah aturan
 **rūpa n. "bentuk" » rūpaka 3 ⟪रूपक⟫ "memiliki bentuk sesuatu"**
 :::
 
-### 9.2.2. -aka (kṛt), fem. sering -ikā
+### 9.2.2. -aka (kṛt), fem. oft -ikā
 
 ::: grammar-box
 **Akhiran kṛt -aka, feminin sering -ikā, membentuk nomina agen (nomina yang menyatakan pelaku) dari setiap akar.**
@@ -62,39 +58,27 @@ Vokal akhir dari akar serta **-a-** di posisi kedua terakhir dari akar diganti d
 
 | Akar:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Makna |
 | :--- | :--- | :--- |
-| **kṛ** :br8 U:br⟪कृ⟫:br"membuat" | **kāraka** :br(⟪कारक⟫) | "pelaku, yang membuat" |
-| **śru** :br5 P:br⟪श्रु⟫:br"mendengar" | **śrāvaka** m.:br(⟪श्रावक⟫) | "pendengar, murid,:brbuddh.: pengikut Buddha" |
-| **nī** :br1 U:br⟪नी⟫:br"memimpin" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "pemimpin, tuan, suami,:brkekasih / kekasih, wanita" |
-| **yaj** :br1 U:br⟪यज्⟫:br"mengorbankan" | **yājaka** m.:br(⟪याजक⟫) | "korban, imam korban" |
-| **nṛt** :br4 P:br⟪नृत्⟫:br"menari" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "penari / penari wanita" |
-| **ji** :br1 P:br⟪जि⟫:br"menang" | **jayaka** 3:br(⟪जयक⟫) | "berhasil" |
-
-
-
+| **kṛ** :br8 U:br⟪कृ⟫:br"machen" | **kāraka** :br(⟪कारक⟫) | "pelaku, yang membuat" |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śrāvaka** m.:br(⟪श्रावक⟫) | "pendengar, murid,:brbuddh.: pengikut Buddha" |
+| **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "pemimpin, tuan, suami,:brkekasih / kekasih, wanita" |
+| **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "korban, imam korban" |
+| **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "penari / penari wanita" |
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "berhasil" |
 
 ::: grammar-box
 **Beberapa pembentukan ini memiliki makna lebih sempit: "melakukan secara habitual atau sebagai kewajiban atau dengan baik sesuai dengan yang diekspresikan oleh akar kata".**
-
 :::
 lihat di atas misalnya **śrāvaka**, **yājaka**, **jayaka**
 
 **Contoh:**
 
-
-
-| Akṣara:br⟪धातु⟫ | + -aka (kṛt) | Arti |
-
+| Akar:br⟪धातु⟫ | + -aka (kṛt) | Arti |
 | :--- | :--- | :--- |
-
-| **kṛṣ**:br6 U:br⟪कृष्⟫:br"mencangkul" | **kṛṣaka** m.:br(⟪कृषक⟫) | "petani":br(tingkat rendah!) |
-
-| **kliś**:br9 P:br⟪क्लिशु⟫:br"menyiksa" | **kleśaka** m.:br(⟪क्लेशक⟫) | "penyiksa" |
-
-| **khād**:br1 P:br⟪खाद्⟫:br"mengunyah, makan" | **khādaka** m.:br(⟪खादक⟫) | "pemakan, pemangsa" |
+| **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "petani":br(tingkat rendah!) |
+| **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "penyiksa" |
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "pemakan, pemangsa" |
 
 Selain itu, terdapat beberapa penggunaan kurang penting dari sufiks **-aka**. Lihat Wackernagel, Altindische Grammatik, II, §45ff.
-
----
 
 ## 9.3. Daftar Kata
 
@@ -102,23 +86,17 @@ Selain itu, terdapat beberapa penggunaan kurang penting dari sufiks **-aka**. Li
 
 - **adhyayana** n. (⟪अध्ययन⟫) : Belajar, khususnya studi Veda
 
-
-
 ::: media
 ![](/images/lekt0903.webp)
 Gambar: **adhyayana** = ⟪अध्ययन⟫, Sri Skandaguru Vidyalayam, Tiruparankundram dekat Madurai.
 (Sumber gambar: [Details](/id/licenses#lekt0903))
-
 :::
 - **kāru** m. / **kāruka** m. (⟪कारु⟫ / ⟪कारुक⟫) : Pengrajin
-
-
 
 ::: media
 ![](/images/lekt0902.webp)
 Gambar: **kāru** = ⟪कारु⟫, Gujarat.
 (Sumber gambar: [Detail](/id/licenses#lekt0902))
-
 :::
 - **kuśīlava** m. (⟪कुशीलव⟫) : (berkeliling) pesulap, aktor, penyanyi
 - **kusīda** n. (⟪कुसीद⟫) : rentenir
@@ -136,8 +114,6 @@ Gambar: **kāru** = ⟪कारु⟫, Gujarat.
 - **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : perdagangan
 - **śuśrūṣā** f. (⟪शुश्रूषा⟫) : ketaatan, pelayanan yang taat
 
----
-
 ## 9.4. Latihan
 
 **A) Versuchen Sie, die möglichen Bedeutungen folgender Wörter zu bestimmen:**
@@ -149,13 +125,10 @@ Gambar: **kāru** = ⟪कारु⟫, Gujarat.
 6\. **rakṣikā** ⟪रक्षिका⟫
 7\. **karṣaka** ⟪कर्षक⟫
 
-
-
 ::: media
 ![](/images/lekt0901.webp)
 Gambar: **karṣaka** = ⟪कर्षक⟫.
 (Sumber gambar: [Rincian](/id/licenses#lekt0901))
-
 :::
 8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)
@@ -178,6 +151,10 @@ Gambar: **karṣaka** = ⟪कर्षक⟫.
    ⟪इज्याध्ययनदानानि⟫
    (Yājñavalkyadharmaśāstra I, 118)
 
+2. Tugas-tugas khusus seorang Brahmana:
+   **pravacanayājanapratigrahāḥ**
+   ⟪प्रवचनयाजनप्रतिग्रहाः⟫
+(Gautamadharmasūtra X, 2)
 
 3. Tugas spesifik seorang Kṣatriya:
    **rakṣaṇaṃ sarvabhūtānām**

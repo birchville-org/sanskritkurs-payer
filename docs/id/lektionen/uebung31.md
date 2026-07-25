@@ -1,12 +1,12 @@
 ---
-title: "Exercise 31"
+title: "Latihan 31"
 uebung_id: 31
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 31
+# Latihan 31
 
 A) Terjemahkan kalimat-kalimat berikut dan pecahkan majemuk kata (kompound):
 
@@ -36,39 +36,39 @@ Fig.: ⟪कुलबन्धनम्⟫
 :::
 ---
 
-## Verb Paradigms (7th Grade)
+## Verbparadigmen (7. Klasse)
 
 B) Bentukkan orang ketiga tunggal dan jamak (P dan Ā) dari Indikatif dan Optatif Prasent untuk 7 akar kelas berikut:
 
-### ⟪१⟫. **⟪छिद्⟫** (columns)
+### ⟪१⟫. ⟪छिद्⟫ (spalten)
 
 | Modus | P Sg. | P Pl. | Ā Sg. | Ā Pl. |
 | :--- | :--- | :--- | :--- | :--- |
 | **⟪लट्⟫** (Ind.) | ⟪छिनत्ति⟫ | ⟪छिन्दन्ति⟫ | ⟪छिन्त्ते⟫ | ⟪छिन्दते⟫ |
 | **⟪विधिलिङ्⟫** (Opt.) | ⟪छिन्द्यात्⟫ | ⟪छिन्द्युः⟫ | ⟪छिन्दीत⟫ | ⟪छिन्दीरन्⟫ |
 
-### ⟪२⟫. **⟪भिद्⟫** (to break)
+### ⟪२⟫. ⟪भिद्⟫ (zerbrechen)
 
 | Modus | P Sg. | P Pl. | Ā Sg. | Ā Pl. |
 | :--- | :--- | :--- | :--- | :--- |
 | **⟪लट्⟫** (Ind.) | ⟪भिनत्ति⟫ | ⟪भिन्दन्ति⟫ | ⟪भिन्त्ते⟫ | ⟪भिन्दते⟫ |
 | **⟪विधिलिङ्⟫** (Opt.) | ⟪भिन्द्यात्⟫ | ⟪भिन्द्युः⟫ | ⟪भिन्दीत⟫ | ⟪भिन्दीरन्⟫ |
 
-### ⟪३⟫. **⟪भुज्⟫** (to enjoy)
+### ⟪३⟫. ⟪भुज्⟫ (geniessen)
 
 | Modus | P Sg. | P Pl. | Ā Sg. | Ā Pl. |
 | :--- | :--- | :--- | :--- | :--- |
 | **⟪लट्⟫** (Ind.) | ⟪भुनक्ति⟫ | ⟪भुञ्जन्ति⟫ | ⟪भुङ्क्ते⟫ | ⟪भुञ्जते⟫ |
 | **⟪विधिलिङ्⟫** (Opt.) | ⟪भुञ्ज्यात्⟫ | ⟪भुञ्ज्युः⟫ | ⟪भुञ्जीत⟫ | ⟪भुञ्जीरन्⟫ |
 
-### ⟪४⟫. **⟪अञ्ज्⟫** (to anoint — only P)
+### ⟪४⟫. ⟪अञ्ज्⟫ (salben — nur P)
 
 | Mode | P Sg. | P Pl. |
 | :--- | :--- | :--- |
 | **⟪लट्⟫** (Ind.) | ⟪अनक्ति⟫ | ⟪अञ्जन्ति⟫ |
 | **⟪विधिलिङ्⟫** (Opt.) | ⟪अञ्ज्यात्⟫ | ⟪अञ्ज्युः⟫ |
 
-### ⟪५⟫. **⟪भञ्ज्⟫** (to break — only P)
+### ⟪५⟫. ⟪भञ्ज्⟫ (zerbrechen — nur P)
 
 | Mode | P Sg. | P Pl. |
 | :--- | :--- | :--- |

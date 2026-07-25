@@ -1,7 +1,7 @@
 ---
 title: "Latihan 3"
 uebung_id: 3
-category: "Übung"
+category: "Latihan"
 last_reconstructed: 2026-05-15
 ---
 

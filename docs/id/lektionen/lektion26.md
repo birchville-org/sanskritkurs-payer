@@ -1,15 +1,15 @@
 ---
-judul: Pelajaran 26
-subtitle: "Hukum cerebralisasi untuk -s- di dalam kata"
+title: Lektion 26
+subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
 lesson_id: 26
 last_reconstructed: 2026-05-21
-kategori: "Tata Bahasa"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
-# Lesson 26
+# Pelajaran 26
 
-## 26.1. Aturan Kerebralisasi untuk -s- di dalam Kata
+## 26.1. Hukum Serebralisasi untuk -s- di dalam Kata
 
 ::: grammar-box
 **-s-** diganti dengan **-ṣ-** ketika **k, r, l** atau sebuah **vokal** — kecuali **a, ā** — segera mendahului atau hanya dipisahkan oleh **⟪अनुस्वार⟫** atau **⟪विसर्ग⟫** dan bunyi lain selain **ṛ, r** mengikuti.
@@ -20,9 +20,9 @@ Sandhi ini juga berlaku untuk **⟪दुस्⟫-** sebelum gutural dan labial
 ::: indent
 **⟪तेषाम्⟫** (dari: *te-sām*)
 
-but: **⟪तासाम्⟫** (*tā-sām*)
+tetapi: **⟪तासाम्⟫** (*tā-sām*)
 :::
-## 26.2. Law of Cerebralisations of Dental Stops within Words
+## 26.2. Hukum serebralisasi untuk konsonan dental di tengah kata
 
 ::: grammar-box
 Dental stops are replaced by the corresponding retroflexes after retroflexes (including **-ṣ-**):
@@ -31,14 +31,14 @@ Dental stops are replaced by the corresponding retroflexes after retroflexes (in
 - **ti** + **sth** + **a** + **ti** = **tiṣṭhati** (⟪तिष्ठति⟫)
 *(**ṣ** karena sebelumnya **i**, **ṭh** karena sebelumnya **ṣ**)*
 :::
-## 26.3. Sandhi Kata untuk Palatal, Velar, ṣ, h + -s
+## 26.3. Sandhi Kata untuk Palatal, Guttural, ṣ, h + -s
 
 ::: grammar-box
 **-k, -kh, -g, -gh; -c, -j; -ś, -ṣ; -h** + **s-** » **-kṣ**
 
 See examples below
 :::
-## 26.4. Grassmann's Law of Breath Dissimilation
+## 26.4. Grassmannsches Hauchdissimilationsgesetz
 
 ::: grammar-box
 **Konsekuensi langsung dari dua aspirat (aspirat - vokal - aspirat) adalah hilangnya aspirasi pada bunyi pertama:**
@@ -57,14 +57,14 @@ Contoh: lihat di bawah Masa Depan dari  ⟪दुह्⟫ dan  ⟪बुध�
 Fig.: Hermann Grassmann
 (Sumber gambar: [Details](/en/licenses#lekt2601))
 :::
-## 26.5. Sandhi Kata untuk -m, -n sebelum Sibilan
+## 26.5. Sandhi Kata untuk -m, -n vor Zischlaut
 
 ::: grammar-box
 **Before sibilants, -n and -m are replaced by -ṃ-:**
 
 Contoh: l. di bawah Ini Bentuk Masa Depan dari ⟪मन्⟫
 :::
-## 26.6. Penggunaan Bentuk Masa Depan Sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟩ f.)
+## 26.6. Penggunaan Futurum Sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ dst.)
 
 ::: grammar-box
 **The Simple Future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) expresses:**
@@ -82,13 +82,12 @@ Contoh: l. di bawah Ini Bentuk Masa Depan dari ⟪मन्⟫
 :::
 mis. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = "Seseorang yang ingin membuat janji pergi ke kuil."
 
-
 ::: media
 ![](/images/lekt2602.webp)
-Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
-(Image source: [Details](/en/licenses#lekt2602))
+Gbr.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
+(Sumber gambar: [Detail](/en/licenses#lekt2602))
 :::
-## 26.7. Formation of the simple future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+## 26.7. Pembentukan futurum sederhana (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
 **Simple Future:**
@@ -118,7 +117,7 @@ Examples:
 
 ::: grammar-box
 
-| Root | Future 3. sg. P (Ā) |
+| Akar | Futur 3. sg. P (Ā) |
 | :--- | :--- |
 | ⟪नी⟫ | ⟪नेष्यति⟫ |
 | ⟪भू⟫ | ⟪भविष्यति⟫ (⟪भो⟫ +  ⟪इ⟫ + ⟪स्य⟫ + ⟪ति⟫) |
@@ -135,7 +134,7 @@ Examples:
 | ⟪मन्⟫ | ⟪मंस्यते⟫ (⟪मन्⟫ + ⟪स्य⟫ + ⟪ते⟫) |
 
 :::
-## 26.8. Exercise
+## 26.8. Latihan
 
 Form the corresponding future tense forms in number, person, and gender (Parasmaipada, Ātmanepada):
 
@@ -208,3 +207,4 @@ C) Future optionally with and without -i-:
 1.  ⟪मुह्यन्ति⟫
 2.  ⟪वर्तते⟫
 3.  ⟪अश्नुवते⟫ (in the future Parasmaipada)
+

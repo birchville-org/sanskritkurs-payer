@@ -1,7 +1,7 @@
 ---
 title: "Latihan 26"
 uebung_id: 26
-category: "Übung"
+category: "Latihan"
 last_reconstructed: 2026-05-15
 ---
 

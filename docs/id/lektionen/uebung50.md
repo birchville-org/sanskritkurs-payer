@@ -1,12 +1,12 @@
 ---
-title: "Exercise 50"
+title: "Latihan 50"
 uebung_id: 50
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 50
+# Latihan 50
 
 A) Untuk meninjau deklinasi: Ayat berikut ini memuat semua bentuk deklusi dalam tunggal untuk **⟪गुरु⟫** m.:
 
@@ -26,7 +26,7 @@ A) Untuk meninjau deklinasi: Ayat berikut ini memuat semua bentuk deklusi dalam 
 
 ---
 
-## B) Translations
+## B) Übersetzungen
 
 ### ⟪मनुस्मृति⟫ ⟪४⟫, ⟪१७८⟫
 
@@ -62,7 +62,7 @@ Fig.: ⟪संतुष्टो⟫ ⟪भार्यया⟫ ⟪भर्त
 :::
 ---
 
-### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: On the Necessity of Sacrifice
+### ⟪मनुस्मृति⟫ ⟪३⟫, ⟪७५⟫ - ⟪७६⟫: Tentang pentingnya Kurban
 
 **⟪स्वाध्याये⟫ ⟪नित्ययुक्तः⟫ ⟪स्याद्⟫**  
 **⟪दैवे⟫ ⟪चैवेह⟫ ⟪कर्मणि⟫ ⟪।⟫**  
@@ -93,7 +93,7 @@ Fig.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪�
 
 ---
 
-### ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: On the King’s Advisors
+### ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Tentang Penasihat Raja
 
 **⟪न⟫ ⟪किंचिदवमन्येत⟫**  
 **⟪सर्वस्य⟫ ⟪शृणुयान्मतम्⟫ ⟪।⟫**  
@@ -104,7 +104,7 @@ Fig.: ⟪दैवे⟫ ⟪कर्मणि⟫ ⟪युक्तो⟫ ⟪�
 
 ---
 
-### ⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definition of ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
+### ⟪मनुस्मृति⟫ ⟪२⟫, ⟪१४०⟫ - ⟪१४२⟫: Definisi dari ⟪आचार्य⟫, ⟪उपाध्याय⟫, ⟪गुरु⟫
 
 **⟪उपनीय⟫ ⟪तु⟫ ⟪यः⟫ ⟪शिष्यं⟫**  
 **⟪वेदमध्यापयेद्द्द्विजः⟫ ⟪।⟫**  

@@ -1,12 +1,12 @@
 ---
-title: Lesson 31
+title: Lektion 31
 lesson_id: 31
 status: stable
 ---
 
-# Lesson 31
+# Pelajaran 31
 
-## 31.1. Kelas Kini ke-7 (⟪रुधादि⟫ = "⟪रुध्⟫ dll.")
+## 31.1. Kelas Present ke-7 (⟪रुधादि⟫ = "⟪रुध्⟫ dst.")
 
 ::: grammar-box
 **Formation:**
@@ -26,11 +26,11 @@ Contoh:
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
-| **Indicative** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(before gutturals within the word, nasals are replaced by -ṅ-) |
-| | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
-| **Optative** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
-| | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
-| **Present Participle** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
+| **Indikatif** | **3. tunggal** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) |
+| | **3. jamak** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
+| **Optatif** | **3. tunggal** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
+| | **3. jamak** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
+| **Partizip Present** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
 :::
 ⟪रुध्⟫ 7U "berhenti, membawa kepada keadaan berhenti"
@@ -43,7 +43,7 @@ Contoh:
 | | **3. pl.** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate |
 | **Optative** | **3. sg.** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta |
 | | **3. pl.** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran |
-| **Present Participle** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
+| **Partizip Present** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
 
 :::
 ::: grammar-box
@@ -61,7 +61,7 @@ Contoh:
 *   Pasif: **⟪भज्यते⟫** (baik dari akar asli **⟪भज्⟫** atau dari *bhñj-ya-te)
 *   PPP: **⟪भग्न⟫** (possibly from *bhñj + na)
 :::
-## 31.2. Word List
+## 31.2. Daftar Kata
 
 **⟪युज्⟫** 7U **⟪युनक्ति⟫** : mengikat, menyangkutkan, memasang, menempelkan; Ā juga: meregang (= berusaha keras), menghubungkan dengan, memusatkan pada (Lokatif, ⟪सप्तमी⟫)
 ::: indent
@@ -73,20 +73,20 @@ Contoh:
 
 darinya:
 **⟪युग⟫ n. -\> ⟪युग⟫ n.:** sangkutan, pasangan, zaman dunia (ada empat zaman dunia:
-1. **⟪कृत⟫**
-2. **⟪त्रेता⟫**
-3. **⟪द्वापर⟫**
-4. **⟪कलि⟫**
+1. ⟪कृत⟫
+2. ⟪त्रेता⟫
+3. ⟪द्वापर⟫
+4. ⟪कलि⟫
 
 **⟪कलियुग⟫** dimulai sekitar 3102 SM, tahun perang **⟪महाभारत⟫**. Untuk detail lebih lanjut, lihat Basham, Wonder hlm. 323)
 
 **⟪योग⟫ m.:** "pengikatan, perenggangan," usaha keras, koneksi, Yoga (lihat Basham, Wonder hlm. 327ff.)
-:::: media
+:::
+::: media
 ![](/images/lekt3101.webp)
 Fig.: ⟪योगः⟫
 Penggambaran Yoga.
 (Sumber gambar: [Details](/en/licenses#lekt3101))
-::::
 :::
 **⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : menghentikan, membawa ke keadaan diam, menahan = mengelilingi, menutup
 ::: indent
@@ -124,12 +124,12 @@ Penggambaran Yoga.
 
 daripadanya:
 **⟪व्यञ्जन⟫ n.:** alat pembeda = kosmetik, rempah, tanda, konsonan (yang membedakan makna)
-:::: media
+:::
+::: media
 ![](/images/lekt3102.webp)
 Fig.: ⟪व्यञ्जनम्⟫
 Persiapan untuk tarian Kathakali, Kochi.
 (Sumber gambar: [Details](/en/licenses#lekt3102))
-::::
 :::
 **⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : membelah
 ::: indent
@@ -165,18 +165,18 @@ dari sana:
 ::: indent
 dari sana:
 **⟪प्रज्ञा⟫ f.:** kebijaksanaan, pengetahuan
-:::: media
+:::
+::: media
 ![](/images/lekt3103.webp)
 Fig.: ⟪प्रज्ञापारमिता⟫
 From a Prajñāpāramitā manuscript.
 (Sumber gambar: [Details](/en/licenses#lekt3103))
-::::
 :::
 **⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : untuk muncul, untuk ada
 
 **⟪शरीर⟫ n.:** torso, body
 
-## 31.3. Exercise
+## 31.3. Latihan
 
 [A] Terjemahkan kalimat-kalimat berikut dan pecahkan majemuk kata:
 

@@ -1,12 +1,12 @@
 ---
-title: "Exercise 22"
+title: "Latihan 22"
 uebung_id: 22
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 22
+# Latihan 22
 
 [A] Bentuk dan terjemahkan bentuk absolut untuk kata kerja berikut:
 
@@ -94,7 +94,7 @@ Fig.: ⟪धनं⟫ ⟪प्राप्य⟫ ⟪बुद्धमार्
 :::
 ---
 
-## Passive Constructions
+## Pasif-Konstruktionen
 
 C) Form passive constructions from the above sentences (except sentences 8 and 10):
 

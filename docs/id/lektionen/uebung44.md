@@ -1,12 +1,12 @@
 ---
-title: "Exercise 44"
+title: "Latihan 44"
 uebung_id: 44
 category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Exercise 44
+# Latihan 44
 
 A) Determine and translate the following forms:
 
@@ -69,7 +69,7 @@ A) Determine and translate the following forms:
 :::
 ---
 
-## Translations
+## Übersetzungen
 
 B) Translate:
 
@@ -104,7 +104,7 @@ Fig.: ⟪मृताञ्जीवतश्च⟫ ⟪बुद्धिमन�
 :::
 ---
 
-## Further Form Determinations
+## Weitere Formbestimmungen
 
 Determine the following word forms:
 
