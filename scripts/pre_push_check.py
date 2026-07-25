@@ -76,6 +76,8 @@ _HTML_BLOCK_TAGS = re.compile(
 
 # ── Hilfsfunktionen ────────────────────────────────────────────────────────────
 
+FINISHED_LANGS = {'de', 'en', 'it', 'es', 'fr', 'ru', 'uk', 'rm', 'ar', 'fi', 'am', 'ta', 'pa', 'la'}
+
 def get_diff_files():
     """Gibt Liste der seit origin/main geänderten .md-Dateien zurück."""
     try:
@@ -83,7 +85,10 @@ def get_diff_files():
             ['git', 'diff', '--name-only', '--diff-filter=ACM', 'origin/main..HEAD'],
             capture_output=True, text=True, cwd=ROOT
         )
-        files = [ROOT / f for f in result.stdout.strip().split('\n') if f.endswith('.md') and not any(f.startswith(f"docs/{lang}/") for lang in ['th', 'el', 'cop'])]
+        files = [
+            ROOT / f for f in result.stdout.strip().split('\n')
+            if f.endswith('.md') and lang_from_path(ROOT / f) in FINISHED_LANGS
+        ]
         return [f for f in files if f.exists()]
     except Exception as e:
         print(f"  ⚠ git diff fehlgeschlagen: {e}")
