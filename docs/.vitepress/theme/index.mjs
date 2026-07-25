@@ -13,6 +13,7 @@ import PayerWideToggle from './components/PayerWideToggle.vue'
 import PayerLanguageSettings from './components/PayerLanguageSettings.vue'
 import PayerOfflineIndicator from './components/PayerOfflineIndicator.vue'
 import PayerNotFound from './components/PayerNotFound.vue'
+import 'markdown-it-extensible/css'
 import './custom.css'
 
 import { ACTIVE_LOCALES as LANGUAGES } from '../languages.mjs'

@@ -41,7 +41,7 @@ import { pt } from './locales/pt.mjs'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
 const multimd_table = require('markdown-it-multimd-table')
-const extensiblePlugin = require('markdown-it-extensible')
+import extensiblePlugin from 'markdown-it-extensible'
 import { getSidebarItems } from './utils.mjs'
 
 function populateSidebar(localeObj, lektionLabel, lektionPrefix, schriftLabel, uebungLabel) {
