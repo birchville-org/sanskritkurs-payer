@@ -1,9 +1,9 @@
 ---
-title: Урок 36
-subtitle: "Особые образования совершенного времени"
+title: Lektion 36
+subtitle: "Besondere Bildungen des Perfekts"
 lesson_id: 36
 last_reconstructed: 2026-05-21
-category: "Грамматика"
+category: "Grammatik"
 status: stable
 ---
 

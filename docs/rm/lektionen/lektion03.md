@@ -1,6 +1,6 @@
 ---
 title: Lektion 3
-subtitle: "Den Nominativ Singular des Feminins"
+subtitle: "Den Nominativ Singular des Femininums"
 lesson_id: 3
 last_reconstructed: 2026-05-07
 category: "Grammatik"

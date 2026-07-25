@@ -1,9 +1,9 @@
 ---
-title: Урок 49
-subtitle: "Образование повелительного наклонения (⟪लोट्⟫) тематических основ настоящего времени (продолжение)"
+title: Lektion 49
+subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
-category: "Грамматика"
+category: "Grammatik"
 status: stable
 ---
 

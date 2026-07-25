@@ -45,9 +45,9 @@ Nouns ending in **-an** as well as nouns ending in **-man** or **-van** after a 
 
 | Stem | -an | -man | -van | Usage |
 | :--- | :---: | :---: | :---: | :--- |
-| **Strong Stem** | **-ān** | **-mān** | **-vān** | Nom., Acc., Voc. sg. m. f.:brNom., Acc., Voc. dual m. f.:brNom., Voc. pl. m. f.:brNom., Acc. pl. n. |
-| **Medium Weak Stem** | **-a** :br(from -*n) | **-ma** :br(from -*mn) | **-va** :br(from -*vn) | Remaining cases before consonant-initial endings:brOptionally also Loc. sg. m. n. f. |
-| **Weakest Stem** | **-n** | **-mn** | **-vn** | Remaining cases before vowel-initial endings |
+| **Starker Stem** | **-ān** | **-mān** | **-vān** | Nom., Acc., Voc. sg. m. f.:brNom., Acc., Voc. dual m. f.:brNom., Voc. pl. m. f.:brNom., Acc. pl. n. |
+| **Mittlerer Schwacher Stem** | **-a** :br(from -*n) | **-ma** :br(from -*mn) | **-va** :br(from -*vn) | Übrige Kasus vor konsonantisch anlautender Ending:brWahlweise auch Lok. sg. m. n. f. |
+| **Schwächster Stem** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Ending |
 
 **The endings are regular. The nominative singular m. f. is formed without final -n.**
 :::

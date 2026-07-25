@@ -56,7 +56,7 @@ In vocal final da la radiz sco era **-a-** en la penultima posiziun da la radiz 
 :::
 **Exempels:**
 
-| Radis:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Significaziun |
+| Wurzel:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Significaziun |
 | :--- | :--- | :--- |
 | **kṛ** :br8 U:br⟪कृ⟫:br"machen" | **kāraka** :br(⟪कारक⟫) | "Bewirker, machend" |
 | **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Hörer, Schüler,:brbuddh.: Anhänger des Buddha" |
@@ -72,7 +72,7 @@ vair sur, per exempels **śrāvaka**, **yājaka**, **jayaka**
 
 **Esempis:**
 
-| Radis:br⟪धातु⟫ | + -aka (kṛt) | Significaziun |
+| Wurzel:br⟪धातु⟫ | + -aka (kṛt) | Significaziun |
 | :--- | :--- | :--- |
 | **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Ackerbauer":br(tiefstufig!) |
 | **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Quäler" |

@@ -449,12 +449,12 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 ::: grammar-box
 | (Adjective) | Comparative | Superlative |
 | --- | --- 
-| (⟪अल्प⟫ 3 "small, little") | ⟪कनीयस्⟫ :br cf. ⟪कन्या⟫ f. "girl = the small one" | ⟪कनिष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "praiseworthy, good") | ⟪श्रेयस्⟫ :br to ⟪श्री⟫ f. "splendor" | ⟪श्रेष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "praiseworthy, good") | ⟪ज्यायस्⟫ :br also: "older" :br to ⟪ज्या⟫ f. "superiority" | ⟪ज्येष्ठ⟫ :br also: "eldest" |
+| (⟪अल्प⟫ 3 "small, little") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "praiseworthy, good") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "praiseworthy, good") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" |
 | (⟪बहु⟫ 3 "much") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "old") | ⟪वर्षीयस्⟫ :br to ⟪वर्ष⟫ n.m. "rainy season, year" | ⟪वर्षिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "old") | ⟪ज्यायस्⟫ :br also: "better" :br to ⟪ज्या⟫ f. "superiority" | ⟪ज्येष्ठ⟫ :br also: "best" |
+| (⟪वृद्ध⟫ 3 "old") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "old") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
 ## 53.9. Declension of Comparative Adjectives in -īyas
 

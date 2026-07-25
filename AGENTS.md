@@ -93,3 +93,5 @@ These rules preserve OpenRouter prompt-cache hits. The agent MUST follow them; t
 - **LLM Server Timeouts**: Bei LLM-Timeouts (oder offensichtlichen Deadlocks) auf dem exklusiven Server `nyx.local` darf der Agent immer sofort und ohne Rückfrage eingreifen und den `mlx_lm server` über SSH neustarten.
 
 - **Ununterbrochene Übersetzung**: Die Übersetzungs-Pipeline darf niemals gestoppt werden oder vorzeitig aufhören, bis alle Sprachen im Kurs vollständig übersetzt sind.
+
+- **Strikte Kostenbremse für Cloud-APIs (OpenRouter / Externe APIs)**: Es ist dem Agenten und allen Skripten strengstens verboten, kostenpflichtige Cloud-APIs (wie OpenRouter, Gemini Pro, Claude) als primären Verarbeitungs- oder Übersetzungsmotor einzusetzen oder in Shell-Befehlen explizit zu erzwingen (`--api openrouter.ai`). Alle Massen- und Erstübersetzungen MÜSSEN ausnahmslos über den kostenlosen lokalen Server (`http://nyx.local:8000`) gestartet werden. Cloud-APIs dürfen ausschließlich als automatische Fallback-Ebene für vereinzelte Qualitätskorrekturen verwendet werden.

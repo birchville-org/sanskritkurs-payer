@@ -60,7 +60,7 @@ En la grammatica indiana tradicionala, distinguescha si cun ils suffiss, cun ils
 :::
 **Exempels:**
 
-| Radis:br⟪धातु⟫ | + -a (kṛt) | Significaziun |
+| Wurzel:br⟪धातु⟫ | + -a (kṛt) | Significaziun |
 | :--- | :--- | :--- |
 | **ji** 1 P:br⟪आप्⟫:br"siegen" | **jaya** m.:br⟪जय⟫ | "das Siegen, der Sieg" |
 | **muh** 4 P:br⟪मुह्⟫:br"verwirrt sein" | **moha** m.:br⟪मोह⟫ | "Verwirrung, Verblendung, Irrtum" |
@@ -80,7 +80,7 @@ En la grammatica indiana tradicionala, distinguescha si cun ils suffiss, cun ils
 :::
 **Exempels:**
 
-| Radis:br⟪धातु⟫ | + -ana (kṛt) | Significaziun |
+| Wurzel:br⟪धातु⟫ | + -ana (kṛt) | Significaziun |
 | :--- | :--- | :--- |
 | **gam** 1 P:br⟪गम्⟫:br"gehen" | **gamana** n.:br⟪गमन⟫ | "das Gehen" |
 | **nī** 1 U:br⟪नी⟫:br"führen" | **nayana** n.:br⟪नयन⟫ | "(das Werkzeug des Führens, d.h.) Auge" |
@@ -110,7 +110,7 @@ I Hindus devots van al temple per cuntanscher la visida da Dieu tras in simbol u
 
 **Exempels:**
 
-| Radis:br⟪धातु⟫ | + -tra (kṛt) | Significaziun |
+| Wurzel:br⟪धातु⟫ | + -tra (kṛt) | Significaziun |
 | :--- | :--- | :--- |
 | **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mittel des Führens =) Auge" |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hörwerkzeug=) Ohr" |
@@ -137,7 +137,7 @@ I Hindus devots van al temple per cuntanscher la visida da Dieu tras in simbol u
 :::
 **Exemples:**
 
-| Radis:br⟪धातु⟫ | + -ti (kṛt) | Significaziun |
+| Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Significaziun |
 | :--- | :--- | :--- |
 | **śru** 5 P:br⟪श्रु⟫:br"hören" | **śruti** f.:br⟪श्रुति⟫ | "das Hören, der Veda" |
 | **smṛ** 1 P:br⟪स्मृ⟫:br"vergegenwärtigen" | **smṛti** f.:br⟪स्मृति⟫ | "Das Vergegenwärtigen, Erinnerung, Überlieferung, Achtsamkeit" |

@@ -41,10 +41,10 @@ status: stable
 Note: ¹ The endings of the 2nd and 3rd sg.P can be replaced by -tāt if a blessing is to be expressed. -tāt occurs (also in the 3rd sg.P) on the weak stem.
 
 ::: grammar-box
-| **On the form of the ending of the 2.sg. Imperative:** ||
+| **Zur Form der Ending der 2.sg.Imperative.P:** ||
 | :---: | :--- |
-| **\-ø** | Roots of the 5th and 8th class, where only a single consonant precedes the final \-u. |
-| **\-āna** | Roots of the 9th class, ending in a consonant; substitute for \-nī+ending \-āna |
+| **\-ø** | Rootn der 5. und 8. Klasse, bei denen dem auslautenden \-u nur ein Konsonant vorausgeht. |
+| **\-āna** | Rootn der 9. Klasse, die auf Konsonant enden, substituieren für \-nī+Ending \-āna |
 | **\-hi** | all other present stems, ending in a vowel or semivowel (exception: **⟪जुहुधि⟫** to **⟪हु⟫ 3**) |
 | **\-dhi** | All other cases |
 :::
@@ -163,9 +163,9 @@ Note: ¹ Explanation of **⟪जहि⟫** see Thumb-Hauschild I,2 p. 253
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \&lt;⟪जुहवै⟫\&gt; | \&lt;⟪जुहवामहै⟫\&gt; |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \&lt;⟪जुहुष्व⟫\&gt; | \&lt;⟪जुहुध्वम्⟫\&gt; |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \&lt;⟪जुहुताम्⟫\&gt; | \&lt;⟪जुह्वताम्⟫\&gt; |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
 
 Note: ¹ Dissimilation, so that two syllables with **⟪ह्⟫** do not follow each other.
 :::
@@ -222,12 +222,12 @@ Examples:
 | **⟪ग्राम⟫** m. "village" | **⟪ग्राम्य⟫** 3 "village-like" |
 :::
 ::: grammar-box
-| **Treatment of the stem final before the suffix \-a:** ||
+| **Behandlung des Stemauslautes vor dem Suffix \-a:** ||
 | :---: | :--- |
-| **\-ṛ** | **\-a** generally attaches to the final **\-r**:br e.g. ⟪जेतृ⟫ "winner" » ⟪जैत्र⟫ 3 "victorious" |
-| **\-a** | Replacement of the base word's **\-a** by the new suffix **\-a**. :br Examples see above. |
-| **\-i** | Loss of the **\-i** :br e.g. ⟪प्रकृति⟫ f. "nature" » ⟪प्राकृत⟫ 3 "natural, normal, customary, vulgar" |
-| **\-u** | mostly: **\-av-a** :br e.g. ⟪गुरु⟫ 3 "heavy"; m. "master, teacher" » ⟪गौरव⟫ 3 "belonging to the master, originating from the teacher"; n. "weight, heaviness, dignity" |
+| **\-ṛ** | **\-a** tritt in der Regel an den Auslaut **\-r**::brz.B. ⟪जेतृ⟫ "Sieger" » ⟪जैत्र⟫ 3 "siegreich" |
+| **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brExamples siehe oben. |
+| **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
+| **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
 | **other declension stems:** | see Wackernagel, Altind. Grammatik II,2 § 38 |
 
 Before the suffix **-ya**, the stem final is treated similarly to before the suffix **-a**.

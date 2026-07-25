@@ -1,6 +1,6 @@
 ---
 title: Lektion 43
-subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere <Person>\")"
+subtitle: "Personalendungen der 2. Person (⟪मध्यमः⟫ = \"mittlere &lt;Person&gt;\")"
 lesson_id: 43
 last_reconstructed: 2026-05-21
 category: "Grammatik"

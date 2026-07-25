@@ -26,117 +26,68 @@ import { he } from './locales/he.mjs'
 import { el } from './locales/el.mjs'
 import { th } from './locales/th.mjs'
 import { grc } from './locales/grc.mjs'
-// import { fi } from './locales/fi.mjs'
-// import { hu } from './locales/hu.mjs'
+import { fi } from './locales/fi.mjs'
+import { hu } from './locales/hu.mjs'
+import { zh } from './locales/zh.mjs'
+import { cop } from './locales/cop.mjs'
+import { fa } from './locales/fa.mjs'
+import { nl } from './locales/nl.mjs'
+import { am } from './locales/am.mjs'
+import { af } from './locales/af.mjs'
+import { lt } from './locales/lt.mjs'
+import { sh } from './locales/sh.mjs'
+import { sq } from './locales/sq.mjs'
+import { pt } from './locales/pt.mjs'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
 const multimd_table = require('markdown-it-multimd-table')
 const extensiblePlugin = require('markdown-it-extensible')
 import { getSidebarItems } from './utils.mjs'
 
-// Populate sidebars dynamically
-de.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lektion', 'root', 10)
-de.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Schrift', 'root')
-de.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Übung', 'root', 10)
+function populateSidebar(localeObj, lektionLabel, lektionPrefix, schriftLabel, uebungLabel) {
+  if (!localeObj || !localeObj.themeConfig || !Array.isArray(localeObj.themeConfig.sidebar)) return;
+  const itemGroups = localeObj.themeConfig.sidebar.filter(g => Array.isArray(g.items));
+  if (itemGroups[0]) itemGroups[0].items = getSidebarItems('lektion', lektionLabel, lektionPrefix, 10);
+  if (itemGroups[1]) itemGroups[1].items = getSidebarItems('schrift', schriftLabel, lektionPrefix);
+  if (itemGroups[2]) itemGroups[2].items = getSidebarItems('uebung', uebungLabel, lektionPrefix, 10);
+}
 
-en.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lesson', 'en', 10)
-en.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Script', 'en')
-en.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercise', 'en', 10)
-
-it.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lezione', 'it', 10)
-it.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Scrittura', 'it')
-it.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Esercizio', 'it', 10)
-
-es.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lección', 'es', 10)
-es.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Escritura', 'es')
-es.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Ejercicio', 'es', 10)
-
-ta.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'பாடம்', 'ta', 10)
-ta.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'எழுத்து', 'ta')
-ta.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'பயிற்சி', 'ta', 10)
-
-pa.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'ਪਾਠ', 'pa', 10)
-pa.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'ਲਿਪੀ', 'pa')
-pa.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'ਅਭਿਆਸ', 'pa', 10)
-
-// bg.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Урок', 'bg', 10)
-// bg.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Писмо', 'bg')
-// bg.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Упражнение', 'bg', 10)
-
-ru.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Лекция', 'ru', 10)
-ru.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Письмо', 'ru')
-ru.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Упражнение', 'ru', 10)
-
-uk.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Лекція', 'uk', 10)
-uk.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Письмо', 'uk')
-uk.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Вправа', 'uk', 10)
-
-hi.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'पाठ', 'hi', 10)
-hi.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'लिपि', 'hi')
-hi.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'अभ्यास', 'hi', 10)
-
-fr.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Leçon', 'fr', 10)
-fr.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Écriture', 'fr')
-fr.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercice', 'fr', 10)
-
-rm.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lecziun', 'rm', 10)
-rm.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Scrittira', 'rm')
-rm.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercizi', 'rm', 10)
-
-ro.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lecție', 'ro', 10)
-ro.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Scriere', 'ro')
-ro.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Exercițiu', 'ro', 10)
-// ta.themeConfig.sidebar[6].items = getSidebarItems('lektion', 'பாடம்', 'ta', 10)
-// ta.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'எழுத்து', 'ta')
-// ta.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'பயிற்சி', 'ta', 10)
-ar.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'الدرس', 'ar', 10)
-ar.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'الكتابة', 'ar')
-ar.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'التمرين', 'ar', 10)
-// arc.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'ܡܠܦܢܘܬܐ', 'arc', 10)
-// arc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'ܟܬܒܬܐ', 'arc')
-// arc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'ܬܪܓܘܡܐ', 'arc', 10)
-he.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'שיעור', 'he', 10)
-he.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'כתב', 'he')
-he.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'תרגיל', 'he', 10)
-la.themeConfig.sidebar[4].items = getSidebarItems('lektion', 'Lectio', 'la', 10)
-la.themeConfig.sidebar[5].items = getSidebarItems('schrift', 'Scriptura', 'la')
-la.themeConfig.sidebar[6].items = getSidebarItems('uebung', 'Exercitatio', 'la', 10)
-
-id.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Pelajaran', 'id', 10)
-id.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Aksara', 'id')
-id.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Latihan', 'id', 10)
-
-zhCN.themeConfig.sidebar[5].items = getSidebarItems('lektion', '第', 'zh-CN', 10)
-zhCN.themeConfig.sidebar[6].items = getSidebarItems('schrift', '书写', 'zh-CN')
-zhCN.themeConfig.sidebar[7].items = getSidebarItems('uebung', '练习', 'zh-CN', 10)
-
-// fi.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Oppitunti', 'fi', 10)
-// fi.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Kirjoitusjärjestelmä', 'fi')
-// fi.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Harjoitus', 'fi', 10)
-
-// hu.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'Lecke', 'hu', 10)
-// hu.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'Írásrendszer', 'hu')
-// hu.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'Gyakorlat', 'hu', 10)
-
-el.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Μάθημα', 'el', 10)
-el.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Γραφή', 'el')
-el.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Άσκηση', 'el', 10)
-
-th.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'บทที่', 'th', 10)
-th.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'ตัวอักษร', 'th')
-th.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'แบบฝึกหัด', 'th', 10)
-
-he.themeConfig.sidebar[5].items = getSidebarItems('lektion', 'שיעור', 'he', 10)
-he.themeConfig.sidebar[6].items = getSidebarItems('schrift', 'כתב', 'he')
-he.themeConfig.sidebar[7].items = getSidebarItems('uebung', 'תרגיל', 'he', 10)
-
-grc.themeConfig.sidebar[3].items = getSidebarItems('lektion', 'Μάθημα', 'grc', 10)
-grc.themeConfig.sidebar[4].items = getSidebarItems('schrift', 'Γραφή', 'grc')
-grc.themeConfig.sidebar[5].items = getSidebarItems('uebung', 'Ἄσκησις', 'grc', 10)
+populateSidebar(de, 'Lektion', 'root', 'Schrift', 'Übung');
+populateSidebar(en, 'Lesson', 'en', 'Script', 'Exercise');
+populateSidebar(it, 'Lezione', 'it', 'Scrittura', 'Esercizio');
+populateSidebar(es, 'Lección', 'es', 'Escritura', 'Ejercicio');
+populateSidebar(ta, 'பாடம்', 'ta', 'எழுத்து', 'பயிற்சி');
+populateSidebar(pa, 'ਪਾਠ', 'pa', 'ਲਿਪੀ', 'ਅਭਿਆਸ');
+populateSidebar(ru, 'Лекция', 'ru', 'Письмо', 'Упражнение');
+populateSidebar(uk, 'Лекція', 'uk', 'Письмо', 'Вправа');
+populateSidebar(hi, 'पाठ', 'hi', 'लिपि', 'अभ्यास');
+populateSidebar(fr, 'Leçon', 'fr', 'Écriture', 'Exercice');
+populateSidebar(rm, 'Lecziun', 'rm', 'Scrittira', 'Exercizi');
+populateSidebar(ro, 'Lecție', 'ro', 'Scriere', 'Exercițiu');
+populateSidebar(ar, 'الدرس', 'ar', 'الكتابة', 'التمرين');
+populateSidebar(he, 'שיעור', 'he', 'כתב', 'תרגיל');
+populateSidebar(la, 'Lectio', 'la', 'Scriptura', 'Exercitatio');
+populateSidebar(id, 'Pelajaran', 'id', 'Aksara', 'Latihan');
+populateSidebar(zhCN, '第', 'zh-CN', '书写', '练习');
+populateSidebar(fi, 'Oppitunti', 'fi', 'Kirjoitusjärjestelmä', 'Harjoitus');
+populateSidebar(hu, 'Lecke', 'hu', 'Írásrendszer', 'Gyakorlat');
+populateSidebar(el, 'Μάθημα', 'el', 'Γραφή', 'Άσκηση');
+populateSidebar(th, 'บทที่', 'th', 'ตัวอักษร', 'แบบฝึกหัด');
+populateSidebar(grc, 'Μάθημα', 'grc', 'Γραφή', 'Ἄσκησις');
+populateSidebar(zh, '第', 'zh', '書寫', '練習');
+populateSidebar(cop, 'ⲙⲁⲑⲏⲙⲁ', 'cop', 'ⲥϧⲁⲓ', 'ⲅⲩⲙⲛⲁⲥⲓⲁ');
+populateSidebar(fa, 'درس', 'fa', 'خط', 'تمرین');
+populateSidebar(nl, 'Les', 'nl', 'Schrift', 'Oefening');
+populateSidebar(am, 'ትምህርት', 'am', 'ጽሕፈት', 'መልመጃ');
+populateSidebar(af, 'Lesing', 'af', 'Skrif', 'Oefening');
+populateSidebar(lt, 'Pamoka', 'lt', 'Raštas', 'Pratimas');
+populateSidebar(sh, 'Lekcija', 'sh', 'Pismo', 'Vežba');
+populateSidebar(sq, 'Mësimi', 'sq', 'Shkrimi', 'Ushtrimi');
+populateSidebar(pt, 'Lição', 'pt', 'Escrita', 'Exercício');
 
 const isAuthorBuild = process.env.VITEPRESS_ENV === 'author';
 const localeObjects = {
-  de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc
+  de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, cop, fa, nl, am, af, lt, sh, sq, pt
 };
 const allLocales = ACTIVE_LOCALES.map(code => localeObjects[code]).filter(Boolean);
 

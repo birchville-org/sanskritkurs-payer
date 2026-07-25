@@ -144,10 +144,8 @@ Racine sur **-a** + **-tya**
 ::: media
 ![](/images/lekt2202.webp)
 Fig. : ⟪कामदेवः⟫
-XIXe siècle
-(Source de l'image : [Détails](/fr/licenses#lekt2202))
-19. dérivés :
-dérivés :
+XIXe s.
+(Source de l'image: [Details](/fr/licenses#lekt2202))
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** être capable, pouvoir
 

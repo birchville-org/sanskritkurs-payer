@@ -158,7 +158,7 @@ Declinaziun sco ⟪यद्⟫ (eccepziun: Nom.Akk.sg.Neutrum)
 
 ::: grammar-box
 | | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
-| | **Masculin:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** | **Masculin:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** |
+| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | *⟪सर्वम्⟫* | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
 | **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | *⟪सर्वम्⟫* | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |

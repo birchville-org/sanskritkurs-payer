@@ -45,9 +45,9 @@ Los nombres en **-an** y los nombres **-man** o **-van** tras vocal tienen tres 
 
 | Tema | -an | -man | -van | Uso |
 | :--- | :---: | :---: | :---: | :--- |
-| **Tema Fuerte** | **-ān** | **-mān** | **-vān** | Nom., Ac., Voc. sg. m. f.:brNom., Ac., Voc. dual m. f.:brNom., Voc. pl. m. f.:brNom., Ac. pl. n. |
-| **Tema Medio Débil** | **-a**:br(de -*n) | **-ma**:br(de -*mn) | **-va**:br(de -*vn) | Resto de casos ante terminación consonántica:brOpcionalmente también Loc. sg. m. n. f. |
-| **Tema Más Débil** | **-n** | **-mn** | **-vn** | Resto de casos ante terminación vocálica |
+| **Starker Tema** | **-ān** | **-mān** | **-vān** | Nom., Ac., Voc. sg. m. f.:brNom., Ac., Voc. dual m. f.:brNom., Voc. pl. m. f.:brNom., Ac. pl. n. |
+| **Mittlerer Schwacher Tema** | **-a**:br(de -*n) | **-ma**:br(de -*mn) | **-va**:br(de -*vn) | Übrige Kasus vor konsonantisch anlautender Terminación:brWahlweise auch Lok. sg. m. n. f. |
+| **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Terminación |
 
 **Las terminaciones son regulares. El Nominativo Singular m. f. se forma sin -n final.**
 :::

@@ -1,9 +1,9 @@
 ---
-title: Lesson 49
-subtitle: "Formation of the Imperative (⟪लोट्⟫) athematic present stems (continuation)"
+title: Lektion 49
+subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 

@@ -1,9 +1,9 @@
 ---
-title: Leçon 25
-subtitle: "Formation de l'ablatif (⟪पञ्चमी⟫ = \"cinquième désinence casuelle\")"
+title: Lektion 25
+subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
 lesson_id: 25
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 

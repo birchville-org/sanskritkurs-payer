@@ -67,7 +67,7 @@ Exemples :
 | Racine / Classe | Participe présent Ā |
 | :--- | :--- |
 | **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
+| **⟪हु⟫** 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
 | **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
@@ -106,7 +106,7 @@ Exemples :
 | :--- | :--- | :--- |
 | ⟪जि⟫ 1P | ⟪जेतव्य⟫ 3 | « quelqu'un qui doit être vaincu ; un à vaincre » |
 | ⟪वृत्⟫ 1Ā | ⟪वर्तितव्य⟫ 3 | « ce, où l'on doit se trouver » |
-| ⟪बुध्⟩ Kaus. | ⟪बोधयितव्य⟩ | « quelqu'un qui doit être réveillé ; un à réveiller » |
+| ⟪बुध्⟩ Kaus. | ⟪बोधयितव्य⟫ | « quelqu'un qui doit être réveillé ; un à réveiller » |
 
 :::
 #### 41.2.2.2. Le suffixe -⟪अनीय⟫ / -⟪अनीया⟫
@@ -130,8 +130,8 @@ Exemples :
 | ⟪जि⟫ 1P | ⟪जयनीय⟫ 3 | "celui qui doit être vaincu" |
 | ⟪कृ⟫ 8U | ⟪करणीय⟫ 3 | "ce qui doit être fait" |
 | ⟪दृश्⟫ | ⟪दर्शनीय⟫ 3 | "ce qu'il faut voir ; ce qui est digne d'être vu" |
-| ⟪बुध्⟩ Kaus. | ⟪बोधनीय⟩ 3:brbodh-aya - aya + -anīya | "celui qui doit être éveillé" |
-| ⟪दा⟩ Kaus. | ⟪दापनीय⟩ 3:brdā-paya - aya + -anīya | "ce qui doit être donné" |
+| ⟪बुध्⟩ Kaus. | ⟪बोधनीय⟫ 3:brbodh-aya - aya + -anīya | "celui qui doit être éveillé" |
+| ⟪दा⟩ Kaus. | ⟪दापनीय⟫ 3:brdā-paya - aya + -anīya | "ce qui doit être donné" |
 
 :::
 #### 41.2.2.3. Le suffixe -⟪य⟫ / -⟪या⟫

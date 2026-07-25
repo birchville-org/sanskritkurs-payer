@@ -129,7 +129,7 @@ Esempel:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):brni: ⟪स्तवीति⟫ |
+| 3\. sg. Präs. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
 | 3\. pl. Präs. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
 | 3\. sg. Präs. Ā | ⟪स्तुते⟫ (stu-te) |
 | 3\. pl. Präs. Ā | ⟪स्तुवते⟫ (stuv-ate) |
@@ -230,7 +230,7 @@ Aunch ⟪स्तु⟫ 2 U "preisan" ha cunzè las sut 3. inditgadas formas su
 
 | | |
 | :--- | :--- |
-| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):brni: ⟪स्तौति⟫ |
+| 3\. sg. Präs. P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
 ## 17.6. Glista da pleds

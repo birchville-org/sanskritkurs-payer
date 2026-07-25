@@ -157,11 +157,11 @@ dériver les adverbes pronominaux correspondants.
 | :--- | :--- | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(Ablatif) | ⟪ततस्⟫ :brde là, par conséquent, c'est pourquoi | ⟪इतस्⟫ :br ⟨⟪अतस्⟫ :brde ici, à cause de cela | ⟪यतस्⟫ :brd'où, de quoi | ⟪कुतस्⟫ :brd'où ?, pourquoi ? |
-| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brici, là-bas | ⟪अत्र⟫ :brici | ⟪यत्र⟫ :broù | ⟪कुत्र⟫ :broù ? |
-| **-⟪था⟫** :br(Mode) | ⟪तथा⟫ :brainsi, de cette manière | | ⟪यथा⟫ :brcomment, comme | |
-| **-⟪थम्⟫** :br(Mode) | | | | ⟪कथम्⟫ :brcomment ? |
-| **-⟪दा⟫** :br(Temps) | ⟪तदा⟫ :brà ce moment-là, alors | | ⟪यदा⟫ :brlorsque, quand | ⟪कदा⟫ :brquand ? |
+| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
+| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
+| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
+| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -179,9 +179,9 @@ Fig. : ⟪क्व⟫
 
 | :--- | |
 | :--- | :--- |
-| **-⟪वत्⟫** | peut être ajouté à n'importe quel nom pour exprimer « de la nature de, semblable à » :brpar ex. ⟪पुत्रवत्⟫ « comme un fils » |
-| **-⟪तस्⟫** | aux noms et pronoms. Généralement avec une signification ablatif « d'où ? », mais aussi « où ? », « vers où ? » :brpar ex. ⟪आदितस्⟫ « depuis le commencement » |
-| **-⟪धा⟫** | 1. Avec les adverbes de nombre, dans le sens « -fois », « -pluriel » :brpar ex. ⟪द्विधा⟫ « double » :br2. dans le sens « de la manière dont » :brpar ex. ⟪समधा⟫ « de la même manière » (à सम 3 « semblable ») |
+| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
+| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Composés adverbiaux

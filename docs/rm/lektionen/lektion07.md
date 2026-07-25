@@ -190,7 +190,7 @@ La 5. classa da prezens furma ina tala numnada radis da prezens athematica, è.d
 :::
 **Beispiele:**
 
-| Radis:br⟪धातु⟫ | Starker Stamm | Schwacher Stamm | Vor Vokal:br(schwach) |
+| Wurzel:br⟪धातु⟫ | Starker Stamm | Schwacher Stamm | Vor Vokal:br(schwach) |
 | :--- | :--- | :--- | :--- |
 | **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
 | **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |

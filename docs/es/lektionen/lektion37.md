@@ -179,9 +179,9 @@ Fig.: ⟪क्व⟫
 
 | Sufijo | |
 | :--- | :--- |
-| **-⟪वत्⟫** | puede adjuntarse a cualquier sustantivo para expresar "según la naturaleza de, como":brpor ejemplo ⟪पुत्रवत्⟫ "como un hijo" |
-| **-⟪तस्⟫** | a sustantivos y pronombres. Mayormente con significado ablativo "¿de dónde?", pero también "¿dónde?", "¿hacia dónde?":brpor ejemplo ⟪आदितस्⟫ "desde el principio" |
-| **-⟪धा⟫** | 1. En adverbios numerales con el significado "-veces", "-pliegues":brpor ejemplo ⟪द्विधा⟫ "doble":br2. con el significado "de la manera tal y cual":brpor ejemplo ⟪समधा⟫ "de la misma manera" (a ⟪सम⟫ 3 "igual") |
+| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
+| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Compuestos adverbiales

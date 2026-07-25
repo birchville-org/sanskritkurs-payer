@@ -1,9 +1,9 @@
 ---
-title: Lesson 27
-subtitle: "Usage of the Locative (⟪सप्तमी⟫ f. = \"seventh case ending\")"
+title: Lektion 27
+subtitle: "Gebrauch des Lokativ (⟪सप्तमी⟫ f. = \"siebte Kasusendung\")"
 lesson_id: 27
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
@@ -133,7 +133,7 @@ Further information on the usage of the Locative later.
 | **⟪पशु⟫** m. | ⟪पशौ⟫ | ⟪पशुषु⟫ |
 | **⟪देवता⟫** f. | ⟪देवतायाम्⟫ | ⟪देवतासु⟫ |
 | **⟪देवी⟫** f. | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
-| **⟪श्रुति⟫** f. | ⟪श्रुतौ⟫ or ⟪श्रुत्याम्⟫ :br(i.e. either like **kavi** :br⟪कवि⟫ or like **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
+| **⟪श्रुति⟫** f. | ⟪श्रुतौ⟫ oder ⟪श्रुत्याम्⟫ :br(d.h. entweder wie **kavi** :br⟪कवि⟫ oder wie **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
 | **⟪धेनु⟫** f. | **⟪धेनौ⟫** or **⟪धेन्वाम्⟫** | ⟪धेनुषु⟫ |
 
 :::

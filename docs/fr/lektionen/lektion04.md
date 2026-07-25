@@ -35,7 +35,7 @@ status: stable
 ::: grammar-box
 | **Tribus** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟩:br"il, elle, cela ; le, la, celui, celle":br(Évoqué)** | **etad = ⟪एतद्⟩:br"celui-ci, celle-ci, ceci":br(très proche du locuteur)** | **idam = ⟪इदम्⟩:br"celui-ci, celle-ci, ceci":br(proche)** |
+| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
 | **Nominatif singulier** ||||
 | **Neutre** | **tad = ⟪तद्⟩** | **etad = ⟪एतद्⟩** | **idam = ⟪इदम्⟩** |
 | **Masculin** | **sa, so saḥ = ⟪स⟩ ⟪सो⟩ ⟪सः⟩** | **eṣa, eṣo, eṣaḥ = ⟪एष⟩ ⟪एषो⟩ ⟪एषः⟩** | **ayam = ⟪अयम्⟩** |

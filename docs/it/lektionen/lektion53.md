@@ -449,12 +449,12 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 ::: grammar-box
 | (Aggettivo) | Comparativo | Superlativo |
 | --- | --- 
-| (⟪अल्प⟫ 3 "piccolo, poco") | ⟪कनीयस्⟫ :br cfr. ⟪कन्या⟫ f. "ragazza = la piccola" | ⟪कनिष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "lodabile, buono") | ⟪श्रेयस्⟫ :br a ⟪श्री⟫ f. "splendore" | ⟪श्रेष्ठ⟫ |
-| (⟪प्रशस्य⟫ 3 "lodabile, buono") | ⟪ज्यायस्⟫ :br anche: "più vecchio" :br a ⟪ज्या⟫ f. "prevalenza" | ⟪ज्येष्ठ⟫ :br anche: "il più vecchio" |
+| (⟪अल्प⟫ 3 "piccolo, poco") | ⟪कनीयस्⟫ :br vgl. ⟪कन्या⟫ f. "Mädchen = die Kleine" | ⟪कनिष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "lodabile, buono") | ⟪श्रेयस्⟫ :br zu ⟪श्री⟫ f. "Glanz" | ⟪श्रेष्ठ⟫ |
+| (⟪प्रशस्य⟫ 3 "lodabile, buono") | ⟪ज्यायस्⟫ :br auch: "älter" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "am ältesten" |
 | (⟪बहु⟫ 3 "molto") | ⟪भूयस्⟫ | ⟪भूयिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "anziano") | ⟪वर्षीयस्⟫ :br a ⟪वर्ष⟫ n.m. "stagione delle piogge, anno" | ⟪वर्षिष्ठ⟫ |
-| (⟪वृद्ध⟫ 3 "anziano") | ⟪ज्यायस्⟫ :br anche: "migliore" :br a ⟪ज्या⟫ f. "prevalenza" | ⟪ज्येष्ठ⟫ :br anche: "il migliore" |
+| (⟪वृद्ध⟫ 3 "anziano") | ⟪वर्षीयस्⟫ :br zu ⟪वर्ष⟫ n.m. "Regenzeit, Jahr" | ⟪वर्षिष्ठ⟫ |
+| (⟪वृद्ध⟫ 3 "anziano") | ⟪ज्यायस्⟫ :br auch: "besser" :br zu ⟪ज्या⟫ f. "Übergewalt" | ⟪ज्येष्ठ⟫ :br auch: "bester" |
 :::
 ## 53.9. Declinazione dei comparativi in -īyas
 

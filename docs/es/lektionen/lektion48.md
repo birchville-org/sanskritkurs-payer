@@ -163,9 +163,9 @@ Nota: ¹ Explicación de **⟪जहि⟫** véase Thumb-Hauschild I,2 p. 253
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \&lt;⟪जुहवै⟫\&gt; | \&lt;⟪जुहवामहै⟫\&gt; |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \&lt;⟪जुहुष्व⟫\&gt; | \&lt;⟪जुहुध्वम्⟫\&gt; |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \&lt;⟪जुहुताम्⟫\&gt; | \&lt;⟪जुह्वताम्⟫\&gt; |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
 
 Nota: ¹ Disimilación, de modo que no se siguen dos sílabas con **⟪ह्⟫**.
 :::
@@ -222,12 +222,12 @@ Ejemplos:
 | **⟪ग्राम⟫** m. "aldea" | **⟪ग्राम्य⟫** 3 "aldeano" |
 :::
 ::: grammar-box
-| **Tratamiento del sonido final del tema antes del sufijo \-a:** ||
+| **Behandlung des Temaauslautes vor dem Suffix \-a:** ||
 | :---: | :--- |
-| **\-ṛ** | **\-a** aparece generalmente al final del tema como **\-r**: por ejemplo, ⟪जेतृ⟫ "vencedor" » ⟪जैत्र⟫ 3 "triunfante" |
-| **\-a** | Sustitución del **\-a** de la palabra base por el nuevo sufijo **\-a**. Ejemplos ver arriba. |
-| **\-i** | Caída del **\-i**: por ejemplo, ⟪प्रकृति⟫ f. "naturaleza" » ⟪प्राकृत⟫ 3 "natural, normal, habitual, vulgar" |
-| **\-u** | generalmente: **\-av-a**: por ejemplo, ⟪गुरु⟫ 3 "difícil"; m. "maestro, profesor" » ⟪गौरव⟫ 3 "perteneciente al maestro, originado del maestro"; n. "peso, gravedad, dignidad" |
+| **\-ṛ** | **\-a** tritt in der Regel an den Auslaut **\-r**::brz.B. ⟪जेतृ⟫ "Sieger" » ⟪जैत्र⟫ 3 "siegreich" |
+| **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brEjemplos siehe oben. |
+| **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
+| **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
 | **otras raíces declinables:** | ver Wackernagel, Gramática sánscrita antigua II,2 § 38 |
 
 Antes del sufijo **-ya**, la terminación de la raíz se trata de manera similar a como se hace antes del sufijo **-a**.

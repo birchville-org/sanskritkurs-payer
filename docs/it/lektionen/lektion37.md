@@ -157,11 +157,11 @@ i corrispondenti avverbi pronominali.
 | Suffisso | Radice pronominale | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(Ablativo) | ⟪ततस्⟫ :brda, lì, quindi | ⟪इतस्⟫ :br ⟪अतस्⟫ :brdi qui, per questo | ⟪यतस्⟫ :brda dove, di che cosa | ⟪कुतस्⟫ :brda dove?, perché? |
-| **-⟪त्र⟫** :br(Locativo) | ⟪तत्र⟫ :brqui, lì | ⟪अत्र⟫ :brqui | ⟪यत्र⟫ :brdove | ⟪कुत्र⟫ :brdove? |
-| **-⟪था⟫** :br(Modo) | ⟪तथा⟫ :brcosì | | ⟪यथा⟫ :brcome | |
-| **-⟪थम्⟫** :br(Modo) | | | | ⟪कथम्⟫ :brcome? |
-| **-⟪दा⟫** :br(Tempo) | ⟪तदा⟫ :brallora, allora | | ⟪यदा⟫ :brquando (in quel momento) | ⟪कदा⟫ :brquando? |
+| **-⟪तस्⟫** :br(Ablativo) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
+| **-⟪त्र⟫** :br(Locativo) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
+| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
+| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -179,9 +179,9 @@ Fig.: ⟪क्व⟫
 
 | Suffisso | |
 | :--- | :--- |
-| **-⟪वत्⟫** | può essere aggiunto a qualsiasi sostantivo per esprimere "alla stregua di, come":brad es. ⟪पुत्रवत्⟫ "come un figlio" |
-| **-⟪तस्⟫** | ai sostantivi e pronomi. Di solito ha significato ablativo "da dove?", ma anche "dove?", "verso dove?":brad es. ⟪आदितस्⟫ "fin dall'inizio" |
-| **-⟪धा⟫** | 1. Con numerali distributivi nel significato "-volte", "-foglio":brad es. ⟪द्विधा⟫ "doppio":br2. nel significato "in tale e tal modo":brad es. ⟪समधा⟫ "allo stesso modo" (a ⟪सम⟫ 3 "uguale") |
+| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
+| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Composti avverbiali

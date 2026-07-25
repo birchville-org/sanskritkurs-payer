@@ -1,9 +1,9 @@
 ---
-title: Урок 11
-subtitle: "Двойной винительный падеж (винительный падеж лица и предмета)"
+title: Lektion 11
+subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
-category: "Грамматика"
+category: "Grammatik"
 status: stable
 ---
 

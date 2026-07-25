@@ -78,10 +78,10 @@ Exemples:
 ## 6.4. Desinenzas primarias da la terza persuna (prathama m. = ⟪प्रथम⟫ = "emprima (!) persuna")
 
 ::: grammar-box
-| | Singular (singularitad):brekavacana n.:br⟪एकवचन⟫ | Plural (pluralitad):brbahuvacana n.:br⟪बहुवचन⟫ |
-| :--- | :--- |
-**Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
-**Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
+| | Singular (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
+| :--- | :--- | :--- |
+| **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
+| **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
 :::
 Esempel **yaj** = ⟪यज्⟫ = "venerar cun in sacrifici", "sacrifitgar":
 - stem dal presens: **yaja** = ⟪यज⟫
@@ -97,7 +97,7 @@ Esempel **yaj** = ⟪यज्⟫ = "venerar cun in sacrifici", "sacrifitgar":
 ::: grammar-box
 **Stam dal presens = radich en grad bass (en la quala ella vegn listada) + a-**
 
-| Radis (dhātu m.):br⟪धातु⟫ | Stampa da preschent |
+| Wurzel (dhātu m.):br⟪धातु⟫ | Stampa da preschent |
 | :--- | :--- |
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
@@ -106,7 +106,7 @@ Esempel **yaj** = ⟪यज्⟫ = "venerar cun in sacrifici", "sacrifitgar":
 
 ::: grammar-box
 | Stem dal present = radiz en stadi da guaud (rara stadi da lungida) + a- ||||
-| Radis (dhātu m.):br⟪धातु⟫ | Stadi da guaud | Stadi da guaud avant a- | Stem dal present |
+| Wurzel (dhātu m.):br⟪धातु⟫ | Stadi da guaud | Stadi da guaud avant a- | Stem dal present |
 | :--- | :--- | :--- | :--- |
 | **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
 | **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
@@ -134,7 +134,7 @@ Avant vocals vegn en l'intern da la parola **e** sustituid cun **ay**, **o** cun
 ::: grammar-box
 **stam dal presens = radich en grad bass (en la quala ella è enaquadrada) + ya-**
 
-| Radis (dhātu m.):br⟪धातु⟫ | Stampa da preschent |
+| Wurzel (dhātu m.):br⟪धातु⟫ | Stampa da preschent |
 | :--- | :--- |
 | **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |

@@ -1,6 +1,6 @@
 ---
 title: Lektion 61
-subtitle: "Deklination der Radisnomina auf -ā, -ī, -ū"
+subtitle: "Deklination der Wurzelnomina auf -ā, -ī, -ū"
 next: false
 category: "Grammatik"
 status: stable

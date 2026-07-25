@@ -106,9 +106,9 @@ Exemples:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indicativ preschent** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \&lt;⟪जुहुते⟫\&gt; | \&lt;⟪जुह्वते⟫\&gt;:brjuhu + ate |
-| **Imperfect** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \&lt;⟪अजुहुत⟫\&gt; | \&lt;⟪अजुह्वत⟫\&gt;:bra-juhu + ata |
-| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \&lt;⟪जुह्वीत⟫\&gt;:brjuhu + ī-ta | \&lt;⟪जुह्वीरन्⟫\&gt;:brjuhu + ī-ran |
+| **Indicativ preschent** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
+| **Imperfect** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
+| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
 ## 33.3. Zum Ablaut von ā
 
@@ -168,7 +168,7 @@ Exemplas:
 | :--- | :--- | :--- |
 | **Indicativ preschent** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
 | **Imperfect** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
-| **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Radis ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
+| **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
 ### 33.4.1. Las radis **⟪दा⟫** e **⟪धा⟫**
 
@@ -182,7 +182,7 @@ Exemplas:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indicativ preschent** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Explicaziun: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate |
+| **Indicativ preschent** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Erklärung: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate |
 | **Imperfect** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
@@ -207,7 +207,7 @@ Las furmas da **⟪दा⟫** s’obtien, sche en il paradigma da **⟪धा�
 **⟪दा⟫** Participi Present Parasmaipada:
 
 ::: grammar-box
-| | Masculin:br⟪पुंल्लिङ्ग⟫ | Neutrum:br⟪नपुंसकलिङ्ग⟫ | Feminin:br⟪स्त्रीलिङ्ग⟫ |
+| | Maskulinum:br⟪पुंल्लिङ्ग⟫ | Neutrum:br⟪नपुंसकलिङ्ग⟫ | Femininum:br⟪स्त्रीलिङ्ग⟫ |
 | :--- | :--- | :--- | :--- |
 | **Singular** | | | |
 | **1. Nominativ** | ⟪ददत्⟫:brdad-at + s | ⟪ददत्⟫:brdad-at-Ø | ⟪ददती⟫ |

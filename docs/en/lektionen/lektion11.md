@@ -1,9 +1,9 @@
 ---
-title: Lesson 11
-subtitle: "The Double Accusative (Accusative of Person and Thing)"
+title: Lektion 11
+subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 

@@ -58,7 +58,7 @@ Nota: En relaziuns cun in cuntegn generalmain valaivel vegn gustà d'utilisar il
 
 **⟪यद्⟫ "qual, quala, qual" declinà sco ⟪तद्⟫, ma cun sandhi regular.**
 
-| | | **Masculin** :br ⟪पुंस्⟫ | **Neutrum** :br ⟪नपुंसक⟫ | **Feminin** :br ⟪स्त्री⟫ |
+| | | **Maskulinum** :br ⟪पुंस्⟫ | **Neutrum** :br ⟪नपुंसक⟫ | **Femininum** :br ⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Singular** :br ⟪एकवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **yas** :br ⟪यस्⟫ | **yad** :br ⟪यद्⟫ | **yā** :br ⟪या⟫ |
 | | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |

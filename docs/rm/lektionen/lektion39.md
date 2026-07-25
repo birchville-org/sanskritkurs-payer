@@ -1,6 +1,6 @@
 ---
 title: Lektion 39
-subtitle: "Las desinenzas persunalas da la emprima persuna (sig[⟪उत्तमः⟫ ⟪पुरुषः⟫] = \"**emprima** persuna\")"
+subtitle: "Die Personalendungen der ersten Person (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -43,7 +43,7 @@ Las desinenzas da la prima persuna (sig[⟪उत्तमः⟫ ⟪पुरु
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indicativ preschent  - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brgueldig: bhav-e | **\<⟪भवामहे⟫\>** |
+| **Indicativ preschent  - ⟪लट्⟫** | ⟪भवामि⟫ | ⟪भवामस्⟫ | **\<⟪भवे⟫\>** :brbhava + i:brrichtig: bhav-e | **\<⟪भवामहे⟫\>** |
 | **Imperfect  - ⟪लङ्⟫** | ⟪अभवम्⟫ | ⟪अभवाम⟫ | **\<⟪अभवे⟫\>** | **\<⟪अभवामहि⟫\>** |
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
 

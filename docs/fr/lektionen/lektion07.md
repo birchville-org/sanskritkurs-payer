@@ -107,13 +107,13 @@ par ex. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫
 ### 7.2.2. Usage de l'accusatif (cas direct, dvitīyā f. = ⟪द्वितीया⟫ = "deuxième terminaison casuelle")
 
 ::: grammar-box
-**Terminaison du accusatif singulier masculin et féminin après une voyelle : -m**
-1. | Masculins en | Accusatif singulier |
-   par exemple.
+L'accusatif (dvitīyā f. = ⟪द्वितीया⟫) désigne :
+1. **Terminaison du accusatif singulier masculin et féminin après une voyelle : -m**
+par exemple.
    - **devaṃ yajati** = ⟪देवं⟫ ⟪यजति⟫ : « Il vénère un dieu avec un sacrifice. »
    - **phalam āpnoti** = ⟪फलमाप्नोति⟫ : « Il obtient le fruit (par exemple de son action). »
 2. | **-u** : guru | **gurum**:br⟪गुरुम्⟫ |
-   par exemple.
+par exemple.
    - | :--- | :--- |
 :::
 D'autres utilisations du accusatif seront traitées plus tard.

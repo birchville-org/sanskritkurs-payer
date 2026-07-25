@@ -1,10 +1,10 @@
 ---
-title: Lección 25
-subtitle: "Formación del Ablativo (⟪पञ्चमी⟫ = \"quinta terminación casual\")"
+title: Lektion 25
+subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
 lesson_id: 25
 last_reconstructed: 2026-05-21
-category: "Gramática"
-status: estable
+category: "Grammatik"
+status: stable
 ---
 
 # Lección 25

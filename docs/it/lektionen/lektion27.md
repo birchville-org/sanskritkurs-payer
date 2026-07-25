@@ -1,9 +1,9 @@
 ---
-title: Lezione 27
-subtitle: "Uso del locativo (⟪सप्तमी⟫ f. = \"settima desinenza casuale\")"
+title: Lektion 27
+subtitle: "Gebrauch des Lokativ (⟪सप्तमी⟫ f. = \"siebte Kasusendung\")"
 lesson_id: 27
 last_reconstructed: 2026-05-21
-category: "Grammatica"
+category: "Grammatik"
 status: stable
 ---
 
@@ -133,7 +133,7 @@ Ulteriori informazioni sull'uso del Locativo più avanti.
 | **⟪पशु⟫** m. | ⟪पशौ⟫ | ⟪पशुषु⟫ |
 | **⟪देवता⟫** f. | ⟪देवतायाम्⟫ | ⟪देवतासु⟫ |
 | **⟪देवी⟫** f. | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
-| **⟪श्रुति⟫** f. | ⟪श्रुतौ⟫ o ⟪श्रुत्याम्⟫ :br(cioè sia come **kavi** :br⟪कवि⟫ sia come **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
+| **⟪श्रुति⟫** f. | ⟪श्रुतौ⟫ oder ⟪श्रुत्याम्⟫ :br(d.h. entweder wie **kavi** :br⟪कवि⟫ oder wie **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
 | **⟪धेनु⟫** f. | **⟪धेनौ⟫** oppure **⟪धेन्वाम्⟫** | ⟪धेनुषु⟫ |
 
 :::

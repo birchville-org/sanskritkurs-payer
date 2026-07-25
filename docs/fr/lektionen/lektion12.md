@@ -143,7 +143,7 @@ Dans les formations *aniṭ*, les lois suivantes de la combinaison phonétique d
 | **4. Une occlusive sonore non aspirée – sauf j – est remplacée devant un son sourd par l’occlusive sourde non aspirée correspondante :** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (important pour la 2. classe de présent) |
 | **5. jt est remplacé par kt ou ṣṭ (non facultatif !) :** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Occlusive sonore aspirée + occlusive sourde » occlusive sonore non aspirée + occlusive sonore aspirée (loi de l’aspirée de Bartholomae) :** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t est remplacé par ḍh avec allongement d'un i ou u précédent ; ou par gdh. Devant un tel ḍh, a est remplacé par o, plus rarement par ā :** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) « cacher quelque chose »):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+| **7. h-t est remplacé par ḍh avec allongement d'un i ou u précédent ; ou par gdh. Devant un tel ḍh, a est remplacé par o, plus rarement par ā :** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
 ## 12.5. Liste de mots

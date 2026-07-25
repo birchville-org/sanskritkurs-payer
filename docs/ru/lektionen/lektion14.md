@@ -1,9 +1,9 @@
 ---
-title: Урок 14
-subtitle: "Выражение отношения обозначаемого существительными: родительный падеж (ṣaṣṭhī f. = ⟪षष्टी⟫ = шестое окончание падежа)"
+title: Lektion 14
+subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
-category: "Грамматика"
+category: "Grammatik"
 status: stable
 ---
 
@@ -57,9 +57,9 @@ status: stable
 :::
 ::: center
 
-| Основа имени | Слабая основа | Родительный падеж единственного числа | Родительный падеж множественного числа |
+| Основа имени | Schwacher Основа | Родительный падеж Единственное число | Родительный падеж Множественное число |
 | :--- | :--- | :--- | :--- |
-| **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vant-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
+| **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
 | **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
@@ -105,8 +105,8 @@ status: stable
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(т.е. либо как **kavi**:brकवि, либо как **devī**:brदेवी) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(т.е. либо как **paśu**:brपशु, либо как многосложные сущ. ж.р. на **-ū**) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
 **Вопросительные и указательные местоимения:**

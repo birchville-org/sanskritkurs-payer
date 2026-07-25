@@ -105,14 +105,14 @@ Example **yaj** = ⟪यज्⟫ = "to honor with a sacrifice", "to sacrifice":
 ### 6.5.2. Verbs of the 1st present class (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū etc.")
 
 ::: grammar-box
-| Present Stem = Root in High Grade (rarely Strengthened Grade) + a- ||||
+| Present Stem = Root in Hochstufe (selten Dehnstufe) + a- ||||
 | Root (dhātu m.):br⟪धातु⟫ | Strong grade | Strong grade before a- | Present Stem |
 | :--- | :--- | :--- | :--- |
 | **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
 | **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
 | **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- |
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
-| If the vowel is in a long closed syllable, i.e., short vowel before two or more consonants, the formation of the High Grade is omitted ||||
+| Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten, unterbleibt die Formation der Hochstufe ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
 #### 6.5.2.1. Word sandhi of e and o

@@ -1,10 +1,10 @@
 ---
-titolo: Lezione 49
-sottotitolo: "Formazione dell'imperativo (⟪लोट्⟫) delle radici di presente atematico (continuazione)"
+title: Lektion 49
+subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
-categoria: "Grammatica"
-status: stabile
+category: "Grammatik"
+status: stable
 ---
 
 # Lezione 49

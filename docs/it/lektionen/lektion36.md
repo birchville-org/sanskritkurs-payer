@@ -1,10 +1,10 @@
 ---
-titolo: Lezione 36
-sottotitolo: "Formazioni speciali del perfetto"
+title: Lektion 36
+subtitle: "Besondere Bildungen des Perfekts"
 lesson_id: 36
 last_reconstructed: 2026-05-21
-categoria: "Grammatica"
-status: stabile
+category: "Grammatik"
+status: stable
 ---
 
 # Lezione 36

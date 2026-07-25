@@ -1,9 +1,9 @@
 ---
-title: Lesson 36
-subtitle: "Special Forms of the Perfect"
+title: Lektion 36
+subtitle: "Besondere Bildungen des Perfekts"
 lesson_id: 36
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 
@@ -28,7 +28,7 @@ Examples:
 ::: grammar-box
 | Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| **⟪विद्⟫** 2P | ⟪वेद⟫ :brhe/she/it knows | ⟪विदुर्⟫ :brthey know |
+| **⟪विद्⟫** 2P | ⟪वेद⟫ :brer/sie/es weiss | ⟪विदुर्⟫ :brsie wissen |
 :::
 ::: grammar-box
 3\. The root ⟪अह्⟫ "to say" has only perfect forms (Perfect I). These have present-tense meaning.
@@ -36,7 +36,7 @@ Examples:
 ::: grammar-box
 | Root:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brhe/she/it says | ⟪आहुर्⟫ :brthey say |
+| ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brer/sie/es sagt | ⟪आहुर्⟫ :brsie sagen |
 :::
 ::: grammar-box
 4\. The root ⟪भू⟫ 1P has the perfect stem ⟪बभू⟫, before vowels ⟪बभूव्⟫.

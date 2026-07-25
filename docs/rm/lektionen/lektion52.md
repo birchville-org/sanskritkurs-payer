@@ -15,7 +15,7 @@ status: stable
 **Davant da desinenzas che cumenzan cun vocala vegn in -n- intercalà, quai è in’influenza dals stems n (-in).**
 :::
 ::: grammar-box
-| | **⟪वारि⟫ n.:br“aua”** | **⟪मधु⟫ n.:br“mel”** |
+| | **⟪वारि⟫ n.:br"Wasser"** | **⟪मधु⟫ n.:br"Honig"** |
 | :--- | :---: | :---: |
 | ⟪एकवचनम्⟫ |||
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫** | ⟪वारि⟫ | ⟪मधु⟫ |
@@ -306,11 +306,11 @@ Ils singuls nums sustantivs vesair per exempel en Kielhorn, Grammatica §201.
 *   nums cardinals adjectival pon esser colligids mo sco adjetivs cun il sustantiv per quai ch'è numerà
 p.ex. ⟪तिसृभिर्नारीभिः⟫ "travess trais femnas"
 *   nums cardinals sustantivals pon esser colligids en trais modas cun il sustantiv per quai ch'è numerà
-*   els regnan il genitiv (⟪षष्ठी⟫) dal numnà
+    *   els regnan il genitiv (⟪षष्ठी⟫) dal numnà
 p.ex. ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "travess 20 femnas"
-*   els statan sco appoziziun en il medem cas (ma en singular) sco quai ch'è numnà
+    *   els statan sco appoziziun en il medem cas (ma en singular) sco quai ch'è numnà
 p.ex. ⟪विंशत्या⟫ ⟪नारीभिः⟫ "travess 20 femnas"
-*   els statan sco element posterior d'in ⟪तत्पुरुष⟫ cun quai ch'è numnà sco element anterior
+    *   els statan sco element posterior d'in ⟪तत्पुरुष⟫ cun quai ch'è numnà sco element anterior
 p.ex. ⟪गोविंशत्या⟫ "travess 20 vacas"
 
 :::
@@ -385,17 +385,17 @@ La constellaziun da set stailas = ils set stailas pli clers da l'Ursa maior
 ::: grammar-box
 **Regla 2: Differente da la regla 1, ina paraula che designescha in directiun dal tschiel u in numeral cardinal po furmar cun autra substantiv in Tatpuruṣa, sche**
 
-1. al cumpositum ussa furmà vegn agiuntà in sufix Taddhita
+1.  al cumpositum ussa furmà vegn agiuntà in sufix Taddhita
 exempels:  
 pūrva + śālā ("sala) » \*pūrvaśālā (betg usà! + sufix Taddita -a » ⟪पौर्वशाल⟫ 3 "en la sala orientala"  
 ṣaṣ + mātṛ » \*ṣaṇmātṛ (betg permess! + sufix Taddhita -a » ⟪षण्मातुर⟫ m. "il uffant da sis mauns" (= ⟪कार्त्तिकेय⟫)
 
-2. il cumpositum ussa furmà vegn usà en in significat che autramain vegn designà cun in sufix Taddhita (a questa moda è il passadi al Bahuvrīhi fluì):
+2.  il cumpositum ussa furmà vegn usà en in significat che autramain vegn designà cun in sufix Taddhita (a questa moda è il passadi al Bahuvrīhi fluì):
 exempels:  
 dvi + go » ⟪द्विगु⟫ : betg: "duas vacchas", ma: "**cumprà per duas vacchas**"  
 ⟪द्विवर्ष⟫ betg: "duos onns", ma: "**duos onns vegl**"
 
-3. il cumpositum ussa furmà è la part avant d'in auter cumpositum
+3.  il cumpositum ussa furmà è la part avant d'in auter cumpositum
 exempel:  
 pañca + go » pañcagava (betg permess sco singula paraula!) + dhana » ⟪पञ्चगवधन⟫ m. "in che ha richetsa da sis vacchas"
 :::
@@ -430,9 +430,9 @@ Exempl:
 :::
 ## 52.7. Glossari
 
-da:
+⟪अखिल⟫ 3: lückenlos, ganz
 
-da:
+⟪निखिल⟫ 3: vollständig, ganz
 
 ::: indent
 da:
@@ -457,7 +457,7 @@ PPP ⟪विपरीत⟫ 3: sbagl, fals
 ⟪त्रि⟫ 3: trais
 
 ::: grammar-box
-| | **Masculin:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** |
+| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
 | **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
 | **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
@@ -752,23 +752,23 @@ Cun la leziun 52 è terminà il emprim semestr (13 emnas cun 4 uras da scola) da
 
 Durant las vacanzas semestralas duessan vegnir realisadas las suandantas activitads:
 
-1. Vocabulari
-1. Vocabulari
-2. Vocabulari
-3. Formas da basegna
-2. Memorisar il pli blers vers e texts en prosa da la litteratura classica
-3. Tractar [leziun 53](lektion53.md)
-4. Tractar las paginas Bhg 1 - 11 (anc betg en l'internet)
-5. Preparar ⟪भगवद्गीता⟫ chap. 1, memorisar las paraulas correspundentas sin las listas da vocabulari (anc betg en l'internet)
-6. Analisa metrica da tut ils vers da ⟪भगवद्गीता⟫ ⟪१⟫
+1.  Wiederholung des gesamten bisher Gelernten, besonders:
+    1.  Auswendiglernen der Konjugations- und Deklinationsparadigmen
+    2.  Vocabulari
+    3.  Formas da basegna
+2.  Memorisar il pli blers vers e texts en prosa da la litteratura classica
+3.  Tractar [leziun 53](lektion53.md)
+4.  Tractar las paginas Bhg 1 - 11 (anc betg en l'internet)
+5.  Preparar ⟪भगवद्गीता⟫ chap. 1, memorisar las paraulas correspundentas sin las listas da vocabulari (anc betg en l'internet)
+6.  Analisa metrica da tut ils vers da ⟪भगवद्गीता⟫ ⟪१⟫
 Ina buna impressiun dal text en furma da recitaziun dat: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Access il 2009-01-19
-7. Legir ina ⟪महाभारत⟫-reconstrucziun, per exempels
+7.  Legir ina ⟪महाभारत⟫-reconstrucziun, per exempels
 Mahābhārata : L'epos indian / trad. e resumà dal sanscrit da Biren Roy. -- 10avla ediziun. -- Munich : Diederichs, 1995. -- 335 paginas ; 19 cm. -- (Serie giassa Diederichs ; 16 : India)
-8. Tractar:
+8.  Tractar:
 **Kunnappally, John:** Prakriyā bhāshyam : Grammatica sanscrita / Originalmain scrit en malayalam. Tradusì en englais da K.V.R. Pai. -- Parathode : Ediziun propria, 1983. -- 818 paginas ; 23 cm. -- Pag. 208 - 254 (Regulaziun sintactica)
-9. Finir da tractar:
+9.  Finir da tractar:
 **Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**Il miracel che era l'IndiaPart: Ina survista da la cultura dal subcontinents indian avant l'aventgiment dals musulmans. -- London : Sidgwick & Jackson, 1954.
-10. Cumenzar cun tractar:
+10.  Cumenzar cun tractar:
 **Winternitz, Moriz \&lt;1863 - 1937\&gt;:** Istorgia da la litteratura indiana. Stuttgart : Koehler. -- 3 toms. -- 1908 - 1922 (anc adina la millura istorgia da litteratura dal sanscrit, pali e prakrit)
 
 ::: media

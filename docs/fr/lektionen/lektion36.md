@@ -1,10 +1,10 @@
 ---
-title : Leçon 36
-subtitle : « Formations particulières du parfait »
-lesson_id : 36
-last_reconstructed : 2026-05-21
-category : « Grammaire »
-status : stable
+title: Lektion 36
+subtitle: "Besondere Bildungen des Perfekts"
+lesson_id: 36
+last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Leçon 36

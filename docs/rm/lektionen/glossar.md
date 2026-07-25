@@ -39,6 +39,7 @@ outline: 2
 | ⟪अनु⟫ | [anu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anu&filter=roman&accent=no&transLit=roman) | — | nach, entlang, über - hin, längs, gemäß, hinzu, hinter - her | [36](/rm/lektionen/lektion36#_36-4-vocabulari) |
 | ⟪अनुकृ⟫ | [anukṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anukṛ&filter=roman&accent=no&transLit=roman) | — | imitar, far | [36](/rm/lektionen/lektion36#_36-4-vocabulari) |
 | ⟪अनुगम्⟫ | [anugam](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anugam&filter=roman&accent=no&transLit=roman) | — | seguir, passar al costat | [36](/rm/lektionen/lektion36#_36-4-vocabulari) |
+| ⟪अनृत⟫ | [anṛta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anṛta&filter=roman&accent=no&transLit=roman) | n | falsadad, fals (cuntrari a satya; furmaziun da pleds an- [„un-“] + ṛta n. ṛta è in concept central en il Veda) | [10](/rm/lektionen/lektion10#_10-5-glista-da-pleds) |
 | ⟪अनृशंस्य⟫ | [anṛśaṃsya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anṛśaṃsya&filter=roman&accent=no&transLit=roman) | n | Non-malizia | [16](/rm/lektionen/lektion16#_16-2-glista-da-pleds) |
 | ⟪अनेक⟫ | [aneka](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=aneka&filter=roman&accent=no&transLit=roman) | 3 | bler (betg in uer) | [42](/rm/lektionen/lektion42#_42-2-glista-da-pleds) |
 | ⟪अन्त⟫ | [anta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=anta&filter=roman&accent=no&transLit=roman) | m | fin, cunf | [18](/rm/lektionen/lektion18#_18-4-lista-da-vartas) |
@@ -613,6 +614,7 @@ outline: 2
 
 | Sanscrit | IAST | Gener | Rumantsch | Lecziun |
 |---|---|---|---|---|
+| ⟪यज्ञ⟫ | [yajña](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yajña&filter=roman&accent=no&transLit=roman) | m | sacrifiz (L'offranda è en l'Índia in onur fatg a la divinitad sco ospit. Furmaziun da pleds: yaj 1 U + suffix -na-.) | [10](/rm/lektionen/lektion10#_10-5-glista-da-pleds) |
 | ⟪यत्⟫ | [yat](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yat&filter=roman&accent=no&transLit=roman) | 1Ā | s'diriger cap vers (, , ) | [44](/rm/lektionen/lektion44#_44-5-lista-da-vuschs) |
 | ⟪यत्न⟫ | [yatna](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yatna&filter=roman&accent=no&transLit=roman) | m | emprova, sforsa | [44](/rm/lektionen/lektion44#_44-5-lista-da-vuschs) |
 | ⟪यथा⟫ | [yathā](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=yathā&filter=roman&accent=no&transLit=roman) | Adv | sco, quasi | [29](/rm/lektionen/lektion29#_29-2-glista-da-pleds) |
@@ -821,6 +823,7 @@ outline: 2
 | ⟪सङ्घ⟫ | [saṅgha](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=saṅgha&filter=roman&accent=no&transLit=roman) | n | (a - : cun-schlagar): gruppa, amassada, communitad (p.ex. buddhista) | [41](/rm/lektionen/lektion41#_41-3-lista-da-pleds) |
 | ⟪सज्ज्⟫ | [sajj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sajj&filter=roman&accent=no&transLit=roman) | 1P | hängen, anhaften | [48](/rm/lektionen/lektion48#_48-4-glista-da-pleds) |
 | ⟪सञ्ज्⟫ | [sañj](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sañj&filter=roman&accent=no&transLit=roman) | 1P | attachar, s'attaccar a () | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |
+| ⟪सत्य⟫ | [satya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satya&filter=roman&accent=no&transLit=roman) | n | veritad (En l'Índia s'attribuiva a la paraula veritabla in pussanza magica.) | [10](/rm/lektionen/lektion10#_10-5-glista-da-pleds) |
 | ⟪सत्वर⟫ | [satvara](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=satvara&filter=roman&accent=no&transLit=roman) | 3 | svelt, urgents | [43](/rm/lektionen/lektion43#_43-4-glossari) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | s'assire, stabilir | [20](/rm/lektionen/lektion20#_20-9-glista-da-pleds) |
 | ⟪सद्⟫ | [sad](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=sad&filter=roman&accent=no&transLit=roman) | — | sich niedersetzen | [46](/rm/lektionen/lektion46#_46-2-glista-da-pleds) |

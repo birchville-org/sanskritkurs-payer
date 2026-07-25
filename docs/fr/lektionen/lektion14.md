@@ -1,10 +1,10 @@
 ---
-titre : Leçon 14
-sous-titre : "« L'expression de la relation entre les entités désignées par des substantifs : le génitif (ṣaṣṭhī f. = ⟪षष्टी⟫ = sixième terminaison casuelle) »"
-lesson_id : 14
-last_reconstructed : 2026-05-21
-category : "« Grammaire »"
-status : stable
+title: Lektion 14
+subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
+lesson_id: 14
+last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Leçon 14
@@ -59,7 +59,7 @@ Après les consonnes, les terminaisons régulières du génitif sont :
 
 | Thème nominal | Thème faible | Génitif singulier | Génitif pluriel |
 | :--- | :--- | :--- | :--- |
-| **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vant-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
+| **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
 | **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
@@ -105,8 +105,8 @@ Le génitif singulier des thèmes vocaux se forme de manière irrégulière et d
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(c.-à-d. soit comme **kavi**:brकवि, soit comme **devī**:brदेवी) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(c.-à-d. soit comme **paśu**:brपशु, soit comme les féminins polysyllabiques en **-ū**) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
 **Pronoms interrogatifs et pronoms démonstratifs :**

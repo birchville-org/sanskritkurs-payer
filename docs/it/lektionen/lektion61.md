@@ -38,6 +38,7 @@ Paradigma:
 
 **Oltre alle formazioni con le desinenze casuali regolari, nel Dat.Ab.Gen.Loc.sg. e Gen.pl. si trovano anche formazioni secondo il modello di femminili polisillabici in -ī (⟪देवी⟫).**
 Paradigma:
+:::
 
 ⟪धी⟫ f. "Pensiero"
 
@@ -53,7 +54,6 @@ Paradigma:
 
 Irregolare: ⟪स्त्री⟫ f. "Donna"
 
-:::
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- | --- |

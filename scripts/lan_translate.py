@@ -16,7 +16,7 @@ LAST_RESTART_TIME = 0
 LANGUAGES = [
     "en", "it", "es", "ru", "uk", "hi", "fr", "ta", "pa",
     "la", "rm", "ro", "id", "zh-CN", "he", "ar",
-    "th", "el", "cop", "grc", "fa", "nl", "af", "lt", "sh", "sq", "am", "gez", "fi", "hu", "zh"
+    "th", "el", "cop", "grc", "fa", "nl", "af", "lt", "sh", "sq", "am", "gez", "fi", "hu", "zh", "pt"
 ]
 LANG_NAMES = {
     "en": "English", "it": "Italian", "es": "Spanish",
@@ -26,8 +26,8 @@ LANG_NAMES = {
     "id": "Indonesian", "zh-CN": "Simplified Chinese", "zh": "Traditional Chinese (Taiwan)",
     "th": "Thai", "he": "Hebrew",
     "ar": "Arabic",
-    "grc": "Ancient Greek", "el": "Modern Greek", "am": "Amharic", "gez": "Ge\'ez",
-    "fa": "Persian (Farsi)", "cop": "Coptic",
+    "grc": "Ancient Greek", "el": "Modern Greek", "am": "Amharic", "gez": "Ge'ez",
+    "fa": "Persian (Farsi)", "cop": "Coptic", "pt": "Portuguese",
     "fi": "Finnish", "hu": "Hungarian",
 }
 LESSONS = list(range(1, 62))
@@ -897,14 +897,14 @@ def translate_text(text, target_lang):
 
     max_ph_retries = 4
     for ph_attempt in range(max_ph_retries):
-        # 3-Tier Fallback Hierarchy: Qwen (local) -> Sonnet (cloud) -> Gemini 2.5 Pro (cloud)
+        # 3-Tier Fallback Hierarchy: Qwen (local) -> Gemini 2.5 Pro (fast & cheap cloud) -> Sonnet (cloud)
         current_api_url = API_URL
         current_model = MODEL
         is_fallback = False
         
         if ph_attempt == 2:
             current_api_url = "https://openrouter.ai/api/v1/chat/completions"
-            current_model = "anthropic/claude-sonnet-5"
+            current_model = "google/gemini-2.5-pro"
             is_fallback = True
         elif ph_attempt >= 3:
             current_api_url = "https://openrouter.ai/api/v1/chat/completions"
@@ -1356,6 +1356,10 @@ def translate_file(source_path, target_path, lang, post_process=None, force=Fals
                         
                         blocks[idx] = result.strip()
                         
+                # Save incremental progress to file immediately after each group
+                with open(target_path, 'w', encoding='utf-8') as f:
+                    f.write('\n\n'.join(blocks))
+
         translated = '\n\n'.join(blocks)
         
     else:
@@ -1691,7 +1695,7 @@ def scan_german_residues(content: str) -> list:
 
 
 SONNET_API_URL = "https://openrouter.ai/api/v1/chat/completions"
-SONNET_MODEL = "anthropic/claude-sonnet-5"
+SONNET_MODEL = "anthropic/claude-3.5-sonnet"
 
 
 def sonnet_patch_residues(content: str, flagged_lines: list, target_lang: str) -> str:
@@ -1819,8 +1823,8 @@ def log_failure(
 def generate_licenses(lang):
     """Copy DE licenses.md verbatim, substituting only fixed UI phrases. No LLM."""
     labels = LICENSES_LABELS.get(lang)
-    if not labels:
-        return
+    if not labels or "col1" not in labels:
+        labels = LICENSES_LABELS.get("en")
     src_path = os.path.join(BASE_DIR, "licenses.md")
     out_path = os.path.join(BASE_DIR, lang, "licenses.md")
     if not os.path.exists(src_path):

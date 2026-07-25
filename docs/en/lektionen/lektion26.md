@@ -1,9 +1,9 @@
 ---
-title: Lesson 26
-subtitle: "Law of cerebralisations for -s- within the word"
+title: Lektion 26
+subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
 lesson_id: 26
 last_reconstructed: 2026-05-21
-category: "Grammar"
+category: "Grammatik"
 status: stable
 ---
 

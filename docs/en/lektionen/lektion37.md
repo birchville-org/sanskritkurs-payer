@@ -157,11 +157,11 @@ corresponding pronominal adverbs can be derived.
 | Suffix | Pronominal Stem | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(Ablative) | ⟪ततस्⟫ :brfrom there, on that account, therefore | ⟪इतस्⟫ :br ⟪अतस्⟫ :brfrom here, on this account | ⟪यतस्⟫ :brfrom where, from what | ⟪कुतस्⟫ :brfrom where?, why? |
-| **-⟪त्र⟫** :br(Locative) | ⟪तत्र⟫ :brthere, in that place | ⟪अत्र⟫ :brhere | ⟪यत्र⟫ :brwhere | ⟪कुत्र⟫ :brwhere? |
-| **-⟪था⟫** :br(manner) | ⟪तथा⟫ :brso, thus | | ⟪यथा⟫ :brhow | |
-| **-⟪थम्⟫** :br(manner) | | | | ⟪कथम्⟫ :brhow? |
-| **-⟪दा⟫** :br(time) | ⟪तदा⟫ :brthen, at that time | | ⟪यदा⟫ :brwhen (past) | ⟪कदा⟫ :brwhen? |
+| **-⟪तस्⟫** :br(Ablative) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
+| **-⟪त्र⟫** :br(Locative) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
+| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
+| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -179,9 +179,9 @@ Fig.: ⟪क्व⟫
 
 | Suffix | |
 | :--- | :--- |
-| **-⟪वत्⟫** | can be attached to any nouns to express "like, as":br e.g. ⟪पुत्रवत्⟫ "like a son" |
-| **-⟪तस्⟫** | to nouns and pronouns. Mostly ablative meaning "from where?", but also "where?", "to where?":br e.g. ⟪आदितस्⟫ "from the beginning" |
-| **-⟪धा⟫** | 1. With numeral adverbs in the meaning "-fold", "-times":br e.g. ⟪द्विधा⟫ "twofold":br 2. in the meaning "in such and such a way":br e.g. ⟪समधा⟫ "in the same way" (to ⟪सम⟫ 3 "equal") |
+| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
+| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Adverbial Compounds

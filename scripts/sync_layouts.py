@@ -4,8 +4,9 @@ import sys
 
 # Supported languages
 LANGUAGES = [
-    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "rm", "ta",
-    "ar", "arc", "he", "zh", "la", "grc", "el", "fa", "akk", "cop", "fi", "hu"
+    "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "rm", "ta", "pa",
+    "ar", "arc", "he", "zh", "zh-CN", "la", "grc", "el", "fa", "akk", "cop", "fi", "hu", "id", "ro", "th",
+    "am", "af", "lt", "sh", "sq", "pt"
 ]
 
 # Base directories
@@ -54,6 +55,48 @@ GRAMMAR_DICT = {
         "Abb.:": "Fig.:",
         "Bildquelle:": "Image source:",
         "Details": "Details"
+    },
+    "id": {
+        "Maskulinum": "Maskulin",
+        "Femininum": "Feminin",
+        "Neutrum": "Netral",
+        "Mask.": "Mask.",
+        "Fem.": "Fem.",
+        "Singular": "Tunggal",
+        "Plural": "Jamak",
+        "Dual": "Dual",
+        "Nominativ": "Nominatif",
+        "Akkusativ": "Akusatif",
+        "Instrumentalis": "Instrumental",
+        "Dativ": "Datif",
+        "Ablativ": "Ablatif",
+        "Genetiv": "Genitif",
+        "Lokativ": "Lokatif",
+        "Vokativ": "Vokatif",
+        "Beispiel": "Contoh",
+        "Beispiele": "Contoh",
+        "Wortliste": "Daftar Kata",
+        "Übung": "Latihan",
+        "Übungsübung": "Latihan",
+        "Übersetzungsübung": "Latihan Penerjemahan",
+        "Wurzel": "Akar",
+        "Stamm": "Batang",
+        "Präsensstamm": "Batang Present",
+        "Futurstamm": "Batang Futur",
+        "Endung": "Akhiran",
+        "Präsens": "Present",
+        "Futur": "Futur",
+        "Imperfekt": "Imperfekt",
+        "Imperativ": "Imperatif",
+        "Optativ": "Optatif",
+        "Wochenspruch": "Ayat Pekan Ini",
+        "Erklärung": "Penjelasan",
+        "Bildung": "Pembentukan",
+        "Gebrauch": "Penggunaan",
+        "Quellen": "Sumber",
+        "Abb.:": "Gbr.:",
+        "Bildquelle:": "Sumber gambar:",
+        "Details": "Detail"
     },
     "fi": {
         "Maskulinum": "maskuliini",

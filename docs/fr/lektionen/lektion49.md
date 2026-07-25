@@ -1,9 +1,9 @@
 ---
-title: Leçon 49
-subtitle: "Formation de l'impératif (⟪लोट्⟫) des racines de présent athématique (suite)"
+title: Lektion 49
+subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
-category: "Grammaire"
+category: "Grammatik"
 status: stable
 ---
 

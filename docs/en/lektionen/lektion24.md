@@ -384,7 +384,7 @@ Fig.: ⟪श्रीगणेशाय⟩ ⟪नमः⟩
 
 9\. Even Viṣṇu does not surpass (⟪प्र⟫-⟪भू⟫ + Dat.) Śiva.
 
-10. After I have bowed before the three sages (Acc.) (⟪नमस्कृ⟫)... He bows before Narasiṃha (Dat.).
+After I have bowed before the three sages (Acc.) (⟪नमस्कृ⟫)... He bows before Narasiṃha (Dat.).
 
 ::: indent
 Explanation: ⟪मुनित्रयम्⟩ "the triad of sages = the three sages" = the grammarians ⟪पाणिनि⟩, ⟪कात्यायन⟩, ⟪पतञ्जलि⟩

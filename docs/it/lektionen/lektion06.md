@@ -105,14 +105,14 @@ Esempio **yaj** = ⟪यज्⟫ = "onorare con un sacrificio", "sacrificare":
 ### 6.5.2. Verbi della 1. classe del presente (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū ecc.")
 
 ::: grammar-box
-| Tema dell'attuale = Radice in grado elevato (raramente grado indebolito) + a- ||||
-| Radice (dhātu m.):br⟪धातु⟫ | Grado forte | Grado forte prima di a- | Tema dell'attuale |
+| Tema del presente = Radice in Hochstufe (selten Dehnstufe) + a- ||||
+| Radice (dhātu m.):br⟪धातु⟫ | Grado forte | Grado forte prima di a- | Tema del presente |
 | :--- | :--- | :--- | :--- |
 | **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
 | **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
 | **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- |
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
-| Se la vocale si trova in una sillaba lunga chiusa, cioè una vocale breve seguita da due o più consonanti, la formazione del grado elevato viene omessa ||||
+| Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten, unterbleibt die Formazione der Hochstufe ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
 #### 6.5.2.1. Wortsandhi di e e o

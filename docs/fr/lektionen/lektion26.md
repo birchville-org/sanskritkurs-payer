@@ -1,10 +1,10 @@
 ---
-titre : Leçon 26
-sous-titre : « Loi de cérébralisation du -s- en position intervocalique »
-lesson_id : 26
-last_reconstructed : 2026-05-21
-category : « Grammaire »
-status : stable
+title: Lektion 26
+subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
+lesson_id: 26
+last_reconstructed: 2026-05-21
+category: "Grammatik"
+status: stable
 ---
 
 # Leçon 26

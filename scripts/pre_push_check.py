@@ -232,6 +232,8 @@ def check_foreign_chars(files):
     CJK_RE = re.compile(r'[一-鿿㐀-䶿]')
     errors = []
     for path in files:
+        if not str(path).startswith(str(ROOT / "docs")):
+            continue
         lang = lang_from_path(path)
         expected = LANG_SCRIPTS.get(lang, 'latin')
         content = path.read_text(encoding='utf-8', errors='replace')
@@ -345,17 +347,17 @@ def check_release_version():
 def check_qa_viewer_dropdowns():
     """Prüft ob die Dropdowns im QA Viewer identisch sind und exakt allLocales aus config.mjs entsprechen."""
     qa_viewer = ROOT / 'docs/public/qa_viewer.html'
-    config_mjs = ROOT / 'docs/.vitepress/config.mjs'
+    config_mjs = ROOT / 'docs/.vitepress/languages.mjs'
     
     if not qa_viewer.exists() or not config_mjs.exists():
-        return "qa_viewer.html oder config.mjs nicht gefunden"
+        return "qa_viewer.html oder languages.mjs nicht gefunden"
         
     content_config = config_mjs.read_text(encoding='utf-8')
-    match = re.search(r'const allLocales = \[(.*?)\];', content_config)
+    match = re.search(r'export const ACTIVE_LOCALES = \[(.*?)\];', content_config, re.DOTALL)
     if not match:
-        return "allLocales Array in config.mjs nicht gefunden"
+        return "ACTIVE_LOCALES Array in languages.mjs nicht gefunden"
     
-    locales_str = match.group(1).replace(' ', '')
+    locales_str = match.group(1).replace('\n', '').replace(' ', '').replace("'", "").replace('"', '')
     active_locales = set(locales_str.split(','))
     
     expected_values = {"qa/lektion01.html"}

@@ -1,9 +1,9 @@
 ---
-title: Lección 49
-subtitle: "Formación del imperativo (⟪लोट्⟫) de las raíces verbales atemáticas (continuación)"
+title: Lektion 49
+subtitle: "Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme (Fortsetzung)"
 lesson_id: 49
 last_reconstructed: 2026-05-21
-category: "Gramática"
+category: "Grammatik"
 status: stable
 ---
 

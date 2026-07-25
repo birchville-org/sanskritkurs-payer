@@ -1,6 +1,6 @@
 ---
 title: Lektion 56
-subtitle: "L'Aorist reduplitgà"
+subtitle: "Der reduplizierte Aorist"
 lesson_id: 56
 last_reconstructed: 2026-05-21
 category: "Grammatik"

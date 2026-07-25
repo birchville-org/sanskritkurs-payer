@@ -31,7 +31,7 @@ Quest participi è ina furmaziun nominala dal stem da presens, uschia in ver par
 | | **stirp ferm** | stem da present + **-nt-** |
 | | **stirp debel** | stem da present + **-t-** |
 | **Feminin** | | |
-| | | Stampa da preschent + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
 | | **6. classa da present** | stem da present + **-nt-** + **-ī** :brni::brstem da present + **-t-** + **-ī** |
 
 :::
@@ -44,7 +44,7 @@ Egimpels:
 :::
 ::: grammar-box
 
-| | | Masculin:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Feminin:br⟪स्त्री⟫ |
+| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪यजन्⟫ :braus yaja-nt-s | ⟪यजत्⟫ :bryaja-t-Ø | ⟪यजन्ती⟫ :bryaja-ant-ī |
 | | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | wie **devī** :br⟪देवी⟫ |
@@ -84,7 +84,7 @@ Notar il son identic da **⟪यजन्ति⟫** (Nom. pl. Neutrum) cun la 3
 | | **stirpa ferma** | radis da prezens + **-ant-** |
 | | **stirpa debila** | radis da prezens + **-at-** :br(La fin da la stirpa debila da prezens è identica avant la 3. plur. P.) |
 | **Feminin** | | |
-| | | Stampa da preschent + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
 
 :::
 2\. Classe dal present:
@@ -94,7 +94,7 @@ Notar il son identic da **⟪यजन्ति⟫** (Nom. pl. Neutrum) cun la 3
 :::
 ::: grammar-box
 
-| | | Masculin:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Feminin:br⟪स्त्री⟫ |
+| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪सन्⟫ :braus s-ant-s | ⟪सत्⟫ :brs-at-Ø | ⟪सती⟫ :brs-at-ī |
 | | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪सन्तम्⟫ :brs-ant-am | ⟪सत्⟫ | wie **devī** :br⟪देवी⟫ |
@@ -148,7 +148,7 @@ Abb.: ⟪सती⟫-platta da remembranza
 :::
 ::: grammar-box
 
-| | | Masculin:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Feminin:br⟪स्त्री⟫ |
+| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪महान्⟫ :braus mahānt-s | ⟪महत्⟫ :brmahat-Ø | ⟪महती⟫ :brmahat-ī |
 | | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪महान्तम्⟫ :brmahānt-am | ⟪महत्⟫ | wie **devī** :br⟪देवी⟫ |

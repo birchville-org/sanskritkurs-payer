@@ -1,6 +1,6 @@
 ---
 title: Lektion 60
-subtitle: "Die Desinenza da perfecten des Dual (⟪द्विवचनम्⟫)"
+subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
 category: "Grammatik"

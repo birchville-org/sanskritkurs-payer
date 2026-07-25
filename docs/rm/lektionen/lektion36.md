@@ -16,7 +16,7 @@ status: stable
 :::
 Exempels:
 
-| Radis:br⟪धातु⟫ | 3. pers. sg. Perf. P. | 3. pers. pl. Perf. P. | 3. pers. sg. Perf. Ā. | 3. pers. pl. Perf. Ā. |
+| Wurzel:br⟪धातु⟫ | 3. pers. sg. Perf. P. | 3. pers. pl. Perf. P. | 3. pers. sg. Perf. Ā. | 3. pers. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫*⟪गा⟫*⟪य⟫ | ⟪जि⟫sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
@@ -26,7 +26,7 @@ Exempels:
 2\. La radis ⟪विद्⟫ 2P « savair » ha in perfect cun significà presential.
 :::
 ::: grammar-box
-| Radis:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | **⟪विद्⟫** 2P | ⟪वेद⟫ :brer/sie/es weiss | ⟪विदुर्⟫ :brsie wissen |
 :::
@@ -34,7 +34,7 @@ Exempels:
 3\. La radis ⟪अह्⟫ « dir » ha mo formas da perfect (perfect I). Quellas han significà presential.
 :::
 ::: grammar-box
-| Radis:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brer/sie/es sagt | ⟪आहुर्⟫ :brsie sagen |
 :::
@@ -42,7 +42,7 @@ Exempels:
 4\. La radis ⟪भू⟫ 1P ha il stem da perfect ⟪बभू⟫, avant vocals ⟪बभूव्⟫.
 :::
 ::: grammar-box
-| Radis:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
+| Wurzel:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
 | **⟪भू⟫** 1P | ⟪बभूव⟫ | ⟪बभूवुर्⟫ |
 :::
@@ -67,7 +67,7 @@ Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā
 
 Ezempels:
 
-| Radis:br⟪धातु⟫ | 3. pers. sing. Perf. P. | 3. pers. pl. Perf. P. | 3. pers. sing. Perf. Ā. | 3. pers. pl. Perf. Ā. |
+| Wurzel:br⟪धातु⟫ | 3. pers. sing. Perf. P. | 3. pers. pl. Perf. P. | 3. pers. sing. Perf. Ā. | 3. pers. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां⟫ ⟪चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां⟫ ⟪बभूव⟫** | **⟪ईक्षां⟫ ⟪चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां⟫ ⟪बभूवुर्⟫** |
 | ⟪बन्ध्⟫ :brKausativ: ⟪बन्धय⟫-:br"binden lassen" | **⟪बन्धयां⟫ ⟪चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
@@ -296,7 +296,7 @@ Fig.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪क�
 
 ## 36.6. Il perfectum (⟪लिट्⟫) als cumpè da las radis fin qua aprendidas
 
-| Radis:br⟪धातु⟫ | Classe da perfet | Perfet (⟪लिट्⟫) |
+| Wurzel:br⟪धातु⟫ | Classe da perfet | Perfet (⟪लिट्⟫) |
 | :--- | :--- | :--- |
 | **⟪अञ्ज्⟫** 7P | I | ⟪आनञ्ज⟫ |
 | **⟪अद्⟫** 2P | I | ⟪आद⟫ |
