@@ -2385,21 +2385,13 @@
     <script type="module">
         // html: true — intentional for author-only preview tool; mirrors VitePress internal default (see RESEARCH.md A1)
         import markdownit from 'https://esm.sh/markdown-it@14.2.0';
-        import container  from 'https://esm.sh/markdown-it-container@4.0.0';
+        import extensiblePlugin from 'https://esm.sh/markdown-it-extensible';
         const multimd = window.markdownitMultimdTable;
 
         function buildRenderer() {
             const md = markdownit({ html: true, breaks: true, linkify: false });
 
-            // 1. prevent_br_link — mirrors config.mjs line 223-225
-            //    Transforms [[br]]( or :br( to [[br]] ( or :br ( before block parsing, preventing it from
-            //    being interpreted as a Markdown link by the tokenizer.
-            md.core.ruler.before('normalize', 'prevent_br_link', (state) => {
-                state.src = state.src.replace(/(?:\[\[br\]\]|:br)\(/g, ':br (');
-            });
-
-            // 2. MultiMD table — must be registered BEFORE container plugins (Pitfall 2)
-            //    Options mirror config.mjs lines 226-232 exactly.
+            // 1. MultiMD table — registered before container/extensible plugins
             md.use(multimd, {
                 multiline: true,
                 rowspan: true,
@@ -2408,104 +2400,8 @@
                 colspans: true
             });
 
-            // 3. Container plugins — all 12 in the order from config.mjs
-            const CONTAINERS = {
-                'grammar-box': ['grammar-box', 'grammarbox'],
-                'grammar-box2': ['grammar-box2', 'grammarbox2'],
-                'media': ['media'],
-                'center': ['center'],
-                'metrik-schema': ['metrik-schema', 'metrikschema'],
-                'important': ['important'],
-                'deleteme-box': ['deleteme-box', 'deletemebox'],
-                'note-box': ['note-box', 'notebox'],
-                'laut-table': ['laut-table', 'lauttable'],
-                'indent': ['indent'],
-                'compact': ['compact'],
-                'no-header': ['no-header', 'noheader']
-            };
-            
-            for (const [canonicalName, aliases] of Object.entries(CONTAINERS)) {
-                for (const alias of aliases) {
-                    md.use(container, alias, {
-                        validate(params) {
-                            return params.trim().split(' ', 2)[0] === alias;
-                        },
-                        render(tokens, idx) {
-                            return tokens[idx].nesting === 1
-                                ? `<div class="${canonicalName} custom-block">\n`
-                                : '</div>\n';
-                        }
-                    });
-                }
-            }
-
-            // 4. scholarly_fixes — mirrors config.mjs lines 371-433 (Token API approach,
-            //    not post-render regex, to correctly handle [[br]] inside table cells,
-            //    see RESEARCH.md Pitfall 4 and must_haves key_links).
-            md.core.ruler.after('linkify', 'scholarly_fixes', (state) => {
-                state.tokens.forEach(token => {
-                    if (token.type !== 'inline') return;
-                    let newChildren = [];
-                    token.children.forEach(child => {
-                        if (child.type !== 'text') {
-                            newChildren.push(child);
-                            return;
-                        }
-
-                        // Split on [[br]] or :br — each split produces a segment; hardbreak between segments
-                        const segments = child.content.split(/(?:\[\[br\]\]|:br)/);
-
-                        const SCHOLARLY_RE = /([⟪《][^⟫⟩》]+[⟫⟩》]|sig\[.*?\]|[ऀ-ॿ]+|\[\[indent\]\]|:indent)/g;
-
-                        segments.forEach((segment, index) => {
-                            function processContent(content, isInsideSig = false) {
-                                const parts = content.split(SCHOLARLY_RE);
-                                parts.forEach(part => {
-                                    if (!part) return;
-
-                                    if (part.match(/^[⟪《].*[⟫⟩》]$/)) {
-                                        const span = new state.Token('html_inline', '', 0);
-                                        span.content = '<span class="sanskrit-dev">' + part.slice(1, -1) + '</span>';
-                                        newChildren.push(span);
-                                    } else if (part.match(/^sig\[.*\]$/) && !isInsideSig) {
-                                        const spanOpen = new state.Token('html_inline', '', 0);
-                                        spanOpen.content = '<strong class="signalrot">';
-                                        newChildren.push(spanOpen);
-                                        
-                                        processContent(part.slice(4, -1), true);
-                                        
-                                        const spanClose = new state.Token('html_inline', '', 0);
-                                        spanClose.content = '</strong>';
-                                        newChildren.push(spanClose);
-                                    } else if (/[ऀ-ॿ]/.test(part)) {
-                                        const leftVal = (document.getElementById('left-lang') || {}).value || '';
-                                        const isHindi = /^hi\//.test(leftVal);
-                                        const devClass = isHindi ? 'hi-dev' : 'sanskrit-dev';
-                                        const span = new state.Token('html_inline', '', 0);
-                                        span.content = '<span class="' + devClass + '">' + part + '</span>';
-                                        newChildren.push(span);
-                                    } else if (part === '[[indent]]' || part === ':indent') {
-                                        const span = new state.Token('html_inline', '', 0);
-                                        span.content = '<span class="indent-inline"></span>';
-                                        newChildren.push(span);
-                                    } else {
-                                        const text = new state.Token('text', '', 0);
-                                        text.content = part;
-                                        newChildren.push(text);
-                                    }
-                                });
-                            }
-                            processContent(segment);
-
-                            // Insert hardbreak between [[br]]-segments (not after the last)
-                            if (index < segments.length - 1) {
-                                newChildren.push(new state.Token('hardbreak', 'br', 0));
-                            }
-                        });
-                    });
-                    token.children = newChildren;
-                });
-            });
+            // 2. markdown-it-extensible plugin (handles all block containers & inline directives)
+            md.use(extensiblePlugin);
 
             return md;
         }
