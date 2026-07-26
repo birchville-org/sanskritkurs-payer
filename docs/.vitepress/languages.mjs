@@ -2,7 +2,8 @@
 
 export const ACTIVE_LOCALES = [
   'de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 
-  'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc'
+  'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc',
+  'fi', 'hu', 'zh', 'cop', 'fa', 'nl', 'am', 'af', 'lt', 'sh', 'sq', 'pt'
 ];
 
 export const DEFAULT_LOCALES = ['de', 'en', 'fr', 'it', 'rm', 'hi', 'he', 'zh-CN'];
@@ -27,5 +28,17 @@ export const LOCALE_NAMES = {
   ar: 'العربية',
   el: 'Ελληνικά',
   th: 'ไทย',
-  grc: 'Ἀρχαία'
+  grc: 'Ἀρχαία',
+  fi: 'Suomi',
+  hu: 'Magyar',
+  zh: '繁體中文',
+  cop: 'ⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ',
+  fa: 'فارسی',
+  nl: 'Nederlands',
+  am: 'አማርኛ',
+  af: 'Afrikaans',
+  lt: 'Lietuvių',
+  sh: 'Srpsko-hrvatski',
+  sq: 'Shqip',
+  pt: 'Português'
 };

@@ -1,3 +1,6 @@
 {
-    "window.autoDetectColorScheme": true
+    "window.autoDetectColorScheme": true,
+    "markdown.styles": [
+        "/Volumes/SanDisk1TB/proj/markdown-it-extensible/vscode-extension/media/payer-theme.css"
+    ]
 }
