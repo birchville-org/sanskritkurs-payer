@@ -150,7 +150,6 @@ export default defineConfig({
   
   themeConfig: {
     logo: '/birchville_logo.png',
-    logoLink: 'https://www.birchville.cc',
     socialLinks: [
       { icon: 'github', link: 'https://github.com/marcodem/sanskritkurs-payer' }
     ],

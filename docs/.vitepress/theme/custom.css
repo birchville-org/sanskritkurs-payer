@@ -1037,6 +1037,11 @@ select.control-btn,
 }
 
 /* ── Navbar Logo Boundary Fix ── */
+.VPNavBarTitle {
+  max-height: var(--vp-nav-height, 64px) !important;
+  overflow: hidden !important;
+}
+
 .VPNavBarTitle .logo,
 .VPNavBarTitle img,
 .VPNavBarTitle svg,
