@@ -1,5 +1,5 @@
 ---
-title: Lecția 32
+title: Lektion 32
 lesson_id: 32
 status: stable
 ---
@@ -17,8 +17,6 @@ status: stable
 
 **În literatura sanscrită clasică, cele trei timpuri ale trecutului sunt utilizate fără nicio diferență de sens (exceptie: poezia artistică a lui ⟪भारवि⟫, ⟪किरातार्जुनीय⟫).**
 :::
-**
-
 ## 32.2. Imperfectul (⟪लङ्⟫)
 
 ::: grammar-box
@@ -35,7 +33,7 @@ Exemple:
 ::: indent
 **⟪भू⟫** 3. sg. Imp. Act. **⟪अभवत्⟫** (a-bhava-t)
 
-**⟪सु⟫**
+⟪सु⟫
 *   3. sg. Imp. Act. **⟪असुनोत्⟫** (a-suno-t)
 *   3. pl. Imp. Act. **⟪असुन्वन्⟫** (a + sunu + an)
 :::
@@ -79,7 +77,7 @@ Exemple:
 
 ::: grammar-box
 
-| Clasa de prezent | Rădăcină:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Clasa de prezent | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \<⟪अभवत⟫\> | \<⟪अभवन्त⟫\> |
 | 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \<⟪अनृत्यत⟫\> | \<⟪अनृत्यन्त⟫\> |
@@ -92,20 +90,20 @@ Exemple:
 
 ::: grammar-box
 
-| Clasa de prezent | Rădăcină:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Clasa de prezent | Wurzel:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ > adveṣ > adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
-| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t > adogdh > adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
+| 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ \> adveṣ \> adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
+| 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t \> adogdh \> adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
 | 2. | ⟪इ⟫ | ⟪ऐत्⟫ | ⟪आयन्⟫ | | |
-| 2. | ⟪हन्⟫ | ⟪अहन्⟫:br(din *ahant) | ⟪अघ्नन्⟫ | | |
+| 2. | ⟪हन्⟫ | ⟪अहन्⟫:br(aus *ahant) | ⟪अघ्नन्⟫ | | |
 | 2. | ⟪स्तु⟫ | ⟪अस्तौत्⟫:br⟪अस्तवीत्⟫ | ⟪अस्तुवन्⟫ | ⟪अस्तुत⟫ | ⟪अस्तुवत⟫ |
 | 2. | ⟪अस्⟫ | ⟪आसीत्⟫ | ⟪आसन्⟫ | | |
 | 5. | ⟪सु⟫ | ⟪असुनोत्⟫ | ⟪असुन्वन्⟫ | ⟪असुनुत⟫ | ⟪असुन्वत⟫ |
 | 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \<⟪आप्नुत⟫\> | \<⟪आप्नुवत⟫\> |
 | 8. | ⟪तन्⟫ | ⟪अतनोत्⟫ | ⟪अतन्वन्⟫ | ⟪अतनुत⟫ | ⟪अतन्वत⟫ |
 | 8. | ⟪कृ⟫ | ⟪अकरोत्⟫ | ⟪अकुर्वन्⟫ | ⟪अकुरुत⟫ | ⟪अकुर्वत⟫ |
-| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t > ayunakt > ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
-| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t > aruṇaddh > aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
+| 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t \> ayunakt \> ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
+| 7. | ⟪रुध्⟫ | ⟪अरुणत्⟫:br(a-ruṇadh + t \> aruṇaddh \> aruṇat) | ⟪अरुन्धन्⟫ | ⟪अरुन्द्ध⟫ | ⟪अरुन्धत⟫ |
 | 9. | ⟪क्री⟫ | ⟪अक्रीणात्⟫:br(a-krīṇā-t) | ⟪अक्रीणन्⟫:br(a-krīṇ-an) | ⟪अक्रीणीत⟫:br(a-krīṇī-ta) | ⟪अक्रीणत⟫:br(a-krīṇ-ata) |
 
 :::
@@ -115,7 +113,7 @@ Exemple:
 
 **⟪मही⟫ f.:** pământ, sol și temelie (literal: Marea)
 
-**⟪एकदा⟫**
+⟪एकदा⟫
 
 **⟪श्रम्⟫ ⟪श्राम्यते⟫**
 ::: indent
@@ -127,9 +125,9 @@ Exemple:
 -⟪श्रम्य⟫:br
 ⟪श्रमितुम्⟫
 :::
-**⟪पार्श्व⟫**
+⟪पार्श्व⟫
 
-**⟪चूत⟫**
+⟪चूत⟫
 
 ::: media
 ![](/images/lekt3202.webp)
@@ -137,13 +135,13 @@ Fig.: ⟪चूतः⟫
 Copac de mango, Kanpur.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3202))
 :::
-**⟪तरु⟫** **⟪वृक्ष⟫**
+⟪तरु⟫ ⟪वृक्ष⟫
 
-**⟪पचेलिम⟫**
+⟪पचेलिम⟫
 
-**⟪स्पृहा⟫**
+⟪स्पृहा⟫
 
-**⟪परम्⟫**
+⟪परम्⟫
 
 **⟪रुह्⟫ ⟪रोहति⟫**
 ::: indent
@@ -179,11 +177,11 @@ Maimuțe (macaci rhesus) în Delhi.
 -⟪लोक्य⟫:br
 ⟪लोकितुम्⟫
 :::
-**⟪प्रहर्ष⟫**
+⟪प्रहर्ष⟫
 
-**⟪कति⟫**
+⟪कति⟫
 
-**⟪उपल⟫**
+⟪उपल⟫
 
 ::: media
 ![](/images/lekt3204.webp)
@@ -191,7 +189,7 @@ Fig.: ⟪उपलाः⟫
 Carieră de piatră la sud de Pune, Maharashtra.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3204))
 :::
-**⟪लक्ष्य⟫**
+⟪लक्ष्य⟫
 
 ::: media
 ![](/images/lekt3205.webp)
@@ -216,18 +214,18 @@ Exercițiu de tragere / țintă cu săgeți, Karnataka.
 ⟪चित⟫:br
 -⟪चित्य⟫:br
 ⟪चेतुम्⟫
-:::: media
+:::
+::: media
 ![](/images/lekt3207.webp)
 Fig.: ⟪चितं⟫ ⟪गोमयं⟫ ⟪दहति⟫
 Bucăți de gunoi de vacă ars în Rajasthan.
 (Sursă imagine: [Detalii](/ro/licenses#lekt3207))
-::::
 :::
 **⟪चि⟫ ⟪अव⟫**
 
-**⟪प्रति⟫**
+⟪प्रति⟫
 
-**⟪अहो⟫**
+⟪अहो⟫
 
 **⟪कौशल⟫ ⟪कुशल⟫**
 
@@ -550,7 +548,8 @@ C) Traduceți în sanscrită:
 
 51. Se spune adevărul, se spune ceea ce este plăcut; nu se spune un adevăr neplăcut și nici o minciună neplăcută. Acesta este dharma etern.
 
-52: La revedere!
+52. 52: La revedere!
+
 ::: media
 ![](/images/lekt3209.webp)
 Fig.: ⟪पुनर्दर्शनाय⟫
@@ -605,7 +604,7 @@ Traduceți și determinați următoarele forme de cuvinte:
 ## 32.9. Exercițiu de traducere
 
 ::: compact
-⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫**⟪न्पथि⟫** ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
+⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामन्तरं⟫ ⟪गच्छ⟫⟪न्पथि⟫ ⟪श्रान्तो⟫ ⟪ऽभवत्⟫ ⟪।⟫:br
 ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलमग्च्छत्⟫ ⟪॥⟫:br
 ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫ ⟪।⟫:br
 ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जाता⟫ ⟪।⟫:br
@@ -613,13 +612,12 @@ Traduceți și determinați următoarele forme de cuvinte:
 ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪स्थिताः⟫ ⟪।⟫:br
 ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪गतः⟫ ⟪।⟫:br
 ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫:br
-⟪स⟫ ⟪कतिचिदुपला⟫**⟪नादाय⟫** ⟪वानरां⟫**⟪ल्लक्ष्यीकृत्य⟫** ⟪प्राक्षिपत्⟫ ⟪।⟫:br
+⟪स⟫ ⟪कतिचिदुपला⟫⟪नादाय⟫ ⟪वानरां⟫⟪ल्लक्ष्यीकृत्य⟫ ⟪प्राक्षिपत्⟫ ⟪।⟫:br
 ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्राक्षिपन्⟫ ⟪।⟫:br
-⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫**⟪दाय⟫** ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
+⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्या⟫⟪दाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪गतः⟫ ⟪॥⟫:br
 ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫
 :::
 (din: ⟪संस्कृतबालादर्श⟫)
-
 
 Explicații:
 
@@ -629,13 +627,14 @@ Explicații:
 **⟪लक्ष्यीकृ⟫** ⟪च्विऽ⟫-sufix ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : a face ceva care anterior nu ⟪लक्ष्य⟫ era
 
 **⟪आदाय⟫** Absolutiv la **⟪आ⟫-⟪दा⟫** (clasa a III-a de prezent) "a lua"
-:::: media
+:::
+::: media
 ![](/images/lekt3210.webp)
 Fig.: ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलान्यवर्तन्त⟫
 Maimuțe în copaci de mango.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3210))
-::::
 :::
+
 ::: deleteme-box
 
 **lekt3202:** Copac de mango, Kanpur. [Sursa imaginii: AmarChandra / Wikipedia. CC BY-SA]
@@ -656,3 +655,4 @@ Maimuțe în copaci de mango.
 
 **lekt3210:** Maimuțe în copaci de mango. [Sursa imaginii: Wikipedia. GNU FDL]
 :::
+

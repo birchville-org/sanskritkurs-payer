@@ -1,9 +1,9 @@
 ---
 title: Lektion 23
-subtitle: "A végtelen mód (⟪तुमुन्⟫)"
+subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
+category: "Grammatik"
 status: stable
 ---
 
@@ -67,7 +67,7 @@ pl.
 Példák:
 
 ::: indent
-⟪दिश्⟫ : ⟪देष्टुम्⟫
+⟪दिश्⟫ : ⟪देष्टुम्⟫  
 ⟪रुद्⟫ : ⟪रोदितुम्⟫
 :::
 Az -i- kötőmagyaró használatáról nem lehet szilárd szabályokat felállítani. Alapvetően az infinitívus esetében a kötőmagyaró eloszlása megegyezik az időjelével.
@@ -165,61 +165,61 @@ Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -a
 
 A) Az alábbi gyökök képezik az infinitivumot -i- kötőmag hang nélkül. Képezd az infinitivumot a hangváltoztatások figyelembevételével:
 
-1. ⟪आप्⟫
-2. ⟪इ⟫
-3. ⟪गम्⟫
-4. ⟪कृ⟫
-5. ⟪क्रुध्⟫
-6. ⟪जि⟫
-7. duh (⟪दुह्⟫)
-8. ⟪दिश्⟫
-9. ⟪दह्⟫
-10. ⟪सृज्⟫
-11. ⟪द्विष्⟫
-12. ⟪नी⟫
-13. ⟪पद्⟫
-14. ⟪पा⟫ ⟪१⟫
-15. ⟪पा⟫ ⟪२⟫
-16. ⟪भज्⟫
-17. ⟪कृष्⟫
-18. ⟪सु⟫
-19. ⟪मन्⟫
-20. ⟪मुच्⟫
-21. ⟪मृ⟫
-22. ⟪यज्⟫
-23. ⟪युध्⟫
-24. ⟪वच्⟫
-25. ⟪विश्⟫
-26. ⟪श्रु⟫
-27. ⟪प्रच्छ्⟫
-28. ⟪सिच्⟫
-29. ⟪स्तु⟫
-30. ⟪स्था⟫
-31. ⟪स्मृ⟫
-32. ⟪हन्⟫
-33. ⟪लभ्⟫
-34. ⟪अद्⟫
-35. ⟪दृश्⟫
-36. ⟪पच्⟫
-37. ⟪सद्⟫
+1.  ⟪आप्⟫
+2.  ⟪इ⟫
+3.  ⟪गम्⟫
+4.  ⟪कृ⟫
+5.  ⟪क्रुध्⟫
+6.  ⟪जि⟫
+7.  duh (⟪दुह्⟫)
+8.  ⟪दिश्⟫
+9.  ⟪दह्⟫
+10.  ⟪सृज्⟫
+11.  ⟪द्विष्⟫
+12.  ⟪नी⟫
+13.  ⟪पद्⟫
+14.  ⟪पा⟫ ⟪१⟫
+15.  ⟪पा⟫ ⟪२⟫
+16.  ⟪भज्⟫
+17.  ⟪कृष्⟫
+18.  ⟪सु⟫
+19.  ⟪मन्⟫
+20.  ⟪मुच्⟫
+21.  ⟪मृ⟫
+22.  ⟪यज्⟫
+23.  ⟪युध्⟫
+24.  ⟪वच्⟫
+25.  ⟪विश्⟫
+26.  ⟪श्रु⟫
+27.  ⟪प्रच्छ्⟫
+28.  ⟪सिच्⟫
+29.  ⟪स्तु⟫
+30.  ⟪स्था⟫
+31.  ⟪स्मृ⟫
+32.  ⟪हन्⟫
+33.  ⟪लभ्⟫
+34.  ⟪अद्⟫
+35.  ⟪दृश्⟫
+36.  ⟪पच्⟫
+37.  ⟪सद्⟫
 
 B) Az alábbi gyökök képezik az infinitivumot -i- kötőmaggal. Képezd az infinitivumot:
 
-1. ⟪आस्⟫
-2. ⟪नृत्⟫
-3. ⟪रक्ष्⟫
-4. ⟪रुद्⟫
-5. ⟪वद्⟫
-6. ⟪वृत्⟫
-7. ⟪कुप्⟫
+1.  ⟪आस्⟫
+2.  ⟪नृत्⟫
+3.  ⟪रक्ष्⟫
+4.  ⟪रुद्⟫
+5.  ⟪वद्⟫
+6.  ⟪वृत्⟫
+7.  ⟪कुप्⟫
 
 C) A következő gyökök választás szerint kötőmaggal vagy anélkül:
 
-1. ⟪अश्⟫
-2. ⟪इष्⟫
-3. ⟪बुध्⟫
-4. ⟪मुह्⟫ (3 alak!)
-5. ⟪सह्⟫
+1.  ⟪अश्⟫
+2.  ⟪इष्⟫
+3.  ⟪बुध्⟫
+4.  ⟪मुह्⟫ (3 alak!)
+5.  ⟪सह्⟫
 
 D) Fordítsa le, és bontsa fel a szanszkrit összetételeket:
 
@@ -272,9 +272,9 @@ Kérjük, ne használjanak segédeszközöket!
 
 A) Fordítsa szanszkritra:
 
-1. Az öt (⟪पञ्च⟩) „szenvedés” a következő: tudatlanság, az én téves hite, vágyakozás, ellenkezés és a testhez való ragaszkodás.
+Az öt (⟪पञ्च⟩) „szenvedés” a következő: tudatlanság, az én téves hite, vágyakozás, ellenkezés és a testhez való ragaszkodás.
 
-2. A tudás megszerzése a tanár iránti engedelmességgel, nagy pénzösszeggel vagy tudáscserével lehetséges. Nincs negyedik fajta tudásszerzés.
+A tudás megszerzése a tanár iránti engedelmességgel, nagy pénzösszeggel vagy tudáscserével lehetséges. Nincs negyedik fajta tudásszerzés.
 
 3\. Egy alacsonyabb rendű beszél, de nem cselekszik; egy nemes nem beszél, hanem csak cselekszik.
 

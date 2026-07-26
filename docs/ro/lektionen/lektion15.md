@@ -1,9 +1,9 @@
 ---
-title: Lecția 15
+title: Lektion 15
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -68,19 +68,20 @@ Nom. pl. ⟪गुणवत्पुत्राः⟫
 Fig.: ⟪लक्ष्मी⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1501))
 :::
+
 ::: grammar-box
 
 Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beachten:
 
 *   dacă un Karmadhāraya exprimă un COMPARATIV, atunci ceea cu ce se face comparația se află în elementul posterior al compusului:
-    
+
     ⟪नरसिंहः⟫ = ⟪सिंह⟫ ⟪इव⟫ ⟪नरः⟫ = "un om ca un leu"  
     ⟪पुरुषव्याघ्रः⟫ = ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "un om ca un tigru"
-    
+
 *   dacă un Karmadhāraya exprimă o apositională (precizare mai detaliată a elementului posterior printr-un substantiv), atunci cel care precizează mai detaliat se află în elementul anterior, așa cum cere și regula generală privind ordinea componentelor într-un Tatpuruṣa:
-    
+
     ⟪नरसिंहः⟫ poate fi, de asemenea, descompus: ⟪नर⟫ ⟪एव⟫ ⟪सिंहः⟫ = "Un leu, care (în realitate) este un om."
-      
+
     Astfel de Karmadhāraya apositională sunt rezolvate în comentariile indigene, așa cum se arată în exemplul de mai sus, prin intermediul ⟪एव⟫.
 
 :::
@@ -578,6 +579,7 @@ B) Rezolvați următorii Tatpuruṣa:
 Fig.: ⟪नागदेवाः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1509))
 :::
+
 ::: deleteme-box
 
 - **Fig.: ⟪लक्ष्मी⟫** (Lakshmi): Pictură de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). Sursa imaginii: Wikipedia, Domeniu public.
@@ -590,3 +592,4 @@ Fig.: ⟪नागदेवाः⟫
 - **Fig.: ⟪ग्रामदेवता⟫** (Gramadevata): Domnul Virpanath @ satul Pasvadal, Vadgam, Gujarat, India. Sursa imaginii: ganuullu (Flickr), Licență Creative Commons.
 - **Fig.: ⟪नागदेवाः⟫** (Nagadevatas): Hampi (ಹಂಪೆ), Karnataka (ಕರ್ನಾಟಕ). Sursa imaginii: Dineshkannambadi / Wikipedia, Licență GNU FDL.
 :::
+

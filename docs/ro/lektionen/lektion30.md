@@ -1,9 +1,9 @@
 ---
-title: Lecția 30
-subtitle: "A 9-a clasă de prezent (⟪क्र्यादि⟫ = „⟪क्री⟫ etc.”)"
+title: Lektion 30
+subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
 lesson_id: 30
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -15,11 +15,11 @@ status: stable
 **Formare:**
 
 *   stemă puternică: rădăcină în gradul cel mai scăzut + -nā-
-    
+
 *   stemă slabă:
-    
+
     *   înaintea consoanelor: rădăcină în gradul cel mai scăzut + -nī-
-        
+
     *   înaintea vocalelor: rădăcină în gradul cel mai scăzut + -n-
 :::
 Exemplu:
@@ -29,20 +29,20 @@ Exemplu:
 :::
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Persoana a 3-a:brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
-|**Persoana a 3-a:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
+| **Persoana a 3-a:brParasmaipada** | ⟪क्रीणाति⟫:br(krī + nā + ti) | ⟪क्रीणन्ति⟫:br(krī + n + anti) |
+| **Persoana a 3-a:brĀtmanepada** | ⟪क्रीणीते⟫:br(krī + nī + te) | ⟪क्रीणते⟫:br(krī + n + ate) |
 
 :::
 La această clasă de prezintă, trebuie acordată o atenție deosebită formării stemei de prezent pentru rădăcina ⟪ज्ञा⟫ 9U "a recunoaște, a ști":
 
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Persoana a 3-a:brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
-|**Persoana a 3-a:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
+| **Persoana a 3-a:brParasmaipada** | ⟪जानाति⟫:br(jā-nā-ti) | ⟪जानन्ति⟫:br(jā-n-anti) |
+| **Persoana a 3-a:brĀtmanepada** | ⟪जानीते⟫:br(jā-nī-te) | ⟪जानते⟫:br(jā-n-ate) |
 
 :::
 Forma ⟪जा⟫, care stă la baza stemei de prezent a lui ⟪ज्ञा⟫, poate fi explicată fie printr-un sistem de ablaut -ā (gradul cel mai scăzut) -nā (gradul înalt), fie prin disimilare din *jñā-nā-ti.
@@ -56,10 +56,10 @@ Exemplu:
 :::
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Persoana a 3-a:brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
-|**Persoana a 3-a:brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
+| **Persoana a 3-a:brParasmaipada** | ⟪पुनाति⟫:br(pu-nā-ti) | ⟪पुनन्ति⟫:br(pu-n-anti) |
+| **Persoana a 3-a:brĀtmanepada** | ⟪पुनीते⟫:br(pu-nī-te) | ⟪पुनते⟫:br(pu-n-ate) |
 
 :::
 Formarea participiului de prezent Parasmaipada:
@@ -115,10 +115,10 @@ Optativul (⟪लिङ्⟫), imperfectul (⟪लङ्⟫), aoristul (⟪ल�
 
 ::: grammar-box
 
-| |Persoana a III-a singular|Persoana a III-a plural|
+| | Persoana a III-a singular | Persoana a III-a plural |
 | :--- | :--- | :--- |
-|**Parasmaipada**|**-t**|clasele atematic: **-an** sau **-ur**:brOptativ: **-ur**|
-|**Ātmanepada**|**-ta**|clasele atematic: **-ata** (din *nta):brOptativ: **-ran**|
+| **Parasmaipada** | **-t** | clasele atematic: **-an** sau **-ur**:brOptativ: **-ur** |
+| **Ātmanepada** | **-ta** | clasele atematic: **-ata** (din *nta):brOptativ: **-ran** |
 
 :::
 ## 30.4. Formarea Optativului la Prezent (⟪लिङ्⟫)
@@ -141,10 +141,10 @@ Exemple:
 ⟪भू⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Persoana a 3-a:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
-|**Persoana a 3-a:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
+| **Persoana a 3-a:brParasmaipada** | ⟪भवेत्⟫:br(bhava + i + t) | ⟪भवेयुर्⟫:br(bhava + i + y + ur) |
+| **Persoana a 3-a:brĀtmanepada** | ⟪भवेत⟫:br(bhava + i + ta) | ⟪भवेरन्⟫:br(bhava + i + ran) |
 
 :::
 4\. Clasa de prezent:
@@ -152,10 +152,10 @@ Exemple:
 ⟪नृत्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Persoana a 3-a:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
-|**Persoana a 3-a:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
+| **Persoana a 3-a:brParasmaipada** | ⟪नृत्येत्⟫:br(nṛtya + i + t) | ⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur) |
+| **Persoana a 3-a:brĀtmanepada** | ⟪नृत्येत⟫:br(nṛtya + i + ta) | ⟪नृत्येरन्⟫:br(nṛtya + i + ran) |
 
 :::
 6\. Clasa de prezent
@@ -163,10 +163,10 @@ Exemple:
 ⟪विश्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Persoana a 3-a:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
-|**Persoana a 3-a:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
+| **Persoana a 3-a:brParasmaipada** | ⟪विशेत्⟫:br(viśa + i + t) | ⟪विशेयुर्⟫:br(viśa + i + y + ur) |
+| **Persoana a 3-a:brĀtmanepada** | ⟪विशेत⟫:br(viśa + i + ta) | ⟪विशेरन्⟫:br(viśa + i + ran) |
 
 :::
 10\. Clasa de prezent și cauzativele
@@ -174,10 +174,10 @@ Exemple:
 ⟪चुर्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Persoana a 3-a:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
-|**Persoana a 3-a:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
+| **Persoana a 3-a:brParasmaipada** | ⟪चोरयेत्⟫:br(coraya + i + t) | ⟪चोरयेयुर्⟫:br(coraya + i + y + ur) |
+| **Persoana a 3-a:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
 
 :::
 ### 30.4.2. Clase de prezent atematic
@@ -198,10 +198,10 @@ Exemple:
 ⟪द्विष्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Persoana a 3-a:brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
-|**Persoana a 3-a:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
+| **Persoana a 3-a:brParasmaipada** | ⟪द्विष्यात्⟫:br(dviṣ-yā-t) | ⟪द्विष्युर्⟫:br(dviṣ-y-ur) |
+| **Persoana a 3-a:brĀtmanepada** | ⟪द्विषीत⟫:br(dviṣ-ī-ta) | ⟪द्विषीरन्⟫:br(dviṣ-ī-ran) |
 
 :::
 5\. Clasa de prezent
@@ -209,10 +209,10 @@ Exemple:
 ⟪सु⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Persoana a 3-a:brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
-|**Persoana a 3-a:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
+| **Persoana a 3-a:brParasmaipada** | ⟪सुनुयात्⟫:br(sunu-yā-t) | ⟪सुनुयुर्⟫:br(sunu-y-ur) |
+| **Persoana a 3-a:brĀtmanepada** | ⟪सुन्वीत⟫:br(sunu + ī + ta) | ⟪सुन्वीरन्⟫:br(sunu + ī + ran) |
 
 :::
 8\. Clasa de prezent
@@ -220,28 +220,28 @@ Exemple:
 ⟪तन्⟫
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Persoana a 3-a:brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
-|**Persoana a 3-a:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
+| **Persoana a 3-a:brParasmaipada** | ⟪तनुयात्⟫:br(tanu-yā-t) | ⟪तनुयुर्⟫:br(tanu-y-ur) |
+| **Persoana a 3-a:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
 **kṛ**:br(⟪कृ⟫)
 
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Persoana a 3-a:brParasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
-|**Persoana a 3-a:brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
+| **Persoana a 3-a:brParasmaipada** | ⟪कुर्यात्⟫ | ⟪कुर्युर्⟫ |
+| **Persoana a 3-a:brĀtmanepada** | ⟪कुर्वीत⟫ | ⟪कुर्वीरन्⟫ |
 
 :::
 ::: grammar-box
 
-| |Singular:br⟪एकवचन⟫|Plural:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**Persoana a 3-a Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
-|**Persoana a 3-a Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
+| **Persoana a 3-a Parasmaipada** | ⟪क्रीणीयात्⟫:br(krīṇī-yā-t) | ⟪क्रीणीयुर्⟫:br(krīṇī-y-ur) |
+| **Persoana a 3-a Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
 
 :::
 ## 30.5. Sandhi al sunetelor finale -r
@@ -274,12 +274,12 @@ Inf. ⟪क्रेतुम्⟫
 
 ::: indent
 Absol. ⟪विक्रीय⟫
-:::: media
+:::
+::: media
 ![](/images/lekt3001.webp)
 Fig.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3001))
-::::
 :::
 ⟪ज्ञा⟫ 9U ⟪जानाति⟫ : cunoaște, recunoaște, ști, înțelege
 
@@ -296,12 +296,12 @@ din care:
 ⟪ज्ञाति⟫ m.: (rude de) sânge (rudele sunt cei pe care îi cunoști!)
 
 ⟪ज्ञान⟫ n.: cunoaștere, știință, recunoaștere (în special a „adevărurilor superioare” în religie și filosofie)
-:::: media
+:::
+::: media
 ![](/images/lekt3002.webp)
 Fig.: ⟪ज्ञातयः⟫
 Darewadi, Districtul Ahmed Nagar = ⟪अहमदनगर⟫, Maharashtra = ⟪महाराष्ट्र⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3002))
-::::
 :::
 ⟪पू⟫ 9U ⟪पुनाति⟫ : curăța
 
@@ -311,11 +311,11 @@ Pass. ⟪पूयते⟫
 Kaus. ⟪पावयति⟫  
 PPP ⟪पूत⟫  
 Inf. ⟪पवितुम्⟫
-:::: media
+:::
+::: media
 ![](/images/lekt3003.webp)
 Fig.: ⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3003))
-::::
 :::
 ⟪अश्⟫ 9P ⟪अश्नाति⟫ : mânca, consuma
 
@@ -325,12 +325,12 @@ Pass. ⟪अश्यते⟫
 Kaus. ⟪आशयति⟫  
 PPP ⟪अशित⟫  
 Inf. ⟪अशितुम्⟫
-:::: media
+:::
+::: media
 ![](/images/lekt3005.webp)
 Fig.: ⟪अश्नीयात्⟫
 ⟪थाली⟫, India de Sud
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3005))
-::::
 :::
 ⟪प्रिय⟫ ⟪३⟫: iubit, iubitor, prietenos
 
@@ -359,11 +359,11 @@ Fig.: ⟪प्रिया⟫
 din care:
 
 ⟪पुनर्भव⟫ m.: renaștere
-:::: media
+:::
+::: media
 ![](/images/lekt2904.webp)
 Fig.: ⟪पुनर्भवः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2904))
-::::
 :::
 ⟪जीव्⟫ 1P ⟪जीवति⟫ : trăi
 

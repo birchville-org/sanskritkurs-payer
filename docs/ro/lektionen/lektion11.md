@@ -1,9 +1,9 @@
 ---
-title: Lecția 11
-subtitle: "Acuzativul dublu (Acuzativul persoanei și al lucrului)"
+title: Lektion 11
+subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -37,7 +37,6 @@ de ex. **rāmo brāhmaṇaṃ dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪ब
 de ex. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ ⟪पृच्छति⟫ = „Rāma întreabă despre dharma.”
 » Pasiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
 :::
----
 
 ## 11.2. Listă de cuvinte
 
@@ -77,8 +76,6 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 - **iṣ** 6 P ⟪इष्⟫ : dori
   - **iṣṭi** f. ⟪इष्टि⟫ : dorință (**iṣ** + **-ti**)
 
----
-
 ## 11.3. Exercițiu
 
 **A) Traduceți propozițiile de mai jos:**
@@ -107,7 +104,6 @@ Fig.: **vadanāni** = ⟪वदनानि⟫
 Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1101))
 :::
----
 
 ## 11.4. Exerciții de repetiție
 

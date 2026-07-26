@@ -1,9 +1,9 @@
 ---
-title: Lecția 5
-subtitle: "Bazele compuselor nominale (samāsa)"
+title: Lektion 5
+subtitle: "Grundlagen der Nominalkomposita (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -27,8 +27,6 @@ Formele principale de formare a compuselor sunt:
 
 (Referitor la ultimele două menționate, vezi mai târziu!)
 
----
-
 ## 5.2. Despre terminologia sanscrită pentru compuse
 
 - **ghaṭakapadāni** n. pl. = ⟪घटकपदानि⟫ : Membrele unui compus
@@ -37,8 +35,6 @@ Formele principale de formare a compuselor sunt:
 - **aluksamāsaḥ** m. = ⟪अलुक्समासः⟫ : Compus în care primul membru își păstrează terminația cazului
 - **luksamāsaḥ** m. = ⟪लुक्समासः⟫ : Compus al cărui prim membru este fără terminații de caz (cazul normal)
 - **madhyamapadalopī** m. = ⟪मध्यमपदलोपी⟫ : Compus în care unul sau mai multe membre intermediare sunt omise
-
----
 
 ## 5.3. Compuse copulative (Dvandva n. = ⟪द्वन्द्व⟫)
 
@@ -94,8 +90,6 @@ Exemple de Pluraldvandva:
 
 În cazul în care două dintre cele trei prevederi menționate mai sus pot fi aplicate simultan, trebuie întotdeauna urmată regula dată mai târziu. (Exemple de Dualdvandva pentru aceste reguli la Kielhorn, Gramatică § 570).
 
----
-
 ## 5.4. Listă de cuvinte
 
 **Învățați următoarele cuvinte:**
@@ -140,8 +134,6 @@ Fig.: zeul Kāma = kāmadeva = ⟪कामदेव⟫, sec. al XVIII-lea
 
 **ca ... ca** = ⟪च⟫ ... ⟪च⟫ : atât ... cât și.
 
----
-
 ## 5.5. Exercițiu
 
 **A) Traduceți următoarele propoziții și compuse și rezolvați Dvandvas-urile prezente în acestea în sanscrită:**
@@ -177,8 +169,6 @@ Fig.: zeul Kāma = kāmadeva = ⟪कामदेव⟫, sec. al XVIII-lea
 7. ānvīkṣikītrayīvārttādaṇḍanitayo vidyāḥ.
    (Conform Kauṭilīya-arthaśāstra 1.2.1.)
    ⟪आन्वीक्षिकीत्रयीवार्त्तादण्डनितयो⟫ ⟪विद्याः⟫ ||
-
----
 
 ## 5.6. Exercitiu de repetiție
 

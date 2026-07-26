@@ -1,9 +1,9 @@
 ---
-title: 8. lecke
-subtitle: "Főnevek képzése és a 8. jelen időosztály"
+title: Lektion 8
+subtitle: "Bildung von Nomina & 8. Präsensklasse"
 lesson_id: 8
-category: "Nyelvtan"
-status: "stabilis"
+category: "Grammatik"
+status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
@@ -34,17 +34,17 @@ A hagyományos indiai nyelvtanban a névmástörzsek képzésére szolgáló tol
 ## 8.2. A névszóképzők osztályozása
 
 - **kṛt (kṛdanta) = ⟪कृत्⟫ (⟪कृदन्त⟫)**
-- **kārakakṛt** (⟪कारककृत्⟫) » névszóképzők az elkövetőre (olyan személyt jelölnek, aki a gyökér által kifejezett cselekvést végzi)
-- **kṛtikṛt** (⟪कृतिकृत्⟫) » névszóképzők a cselekvésre (a gyökér által kifejezett cselekvést jelölik) illetve absztraktumok
+  - **kārakakṛt** (⟪कारककृत्⟫) » névszóképzők az elkövetőre (olyan személyt jelölnek, aki a gyökér által kifejezett cselekvést végzi)
+  - **kṛtikṛt** (⟪कृतिकृत्⟫) » névszóképzők a cselekvésre (a gyökér által kifejezett cselekvést jelölik) illetve absztraktumok
 
 - **taddhita**
-- **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » melléknevek
-- **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » absztraktumok
-- **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » birtokos jelzők (pl. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
-- **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » fokozás (komparatív, szuperlatív), összehasonlítás
-- **pūraṇataddhita** (⟪पूरणतद्धित⟫) » sorszámok (első stb.)
-- **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » esetragok helyett (pl. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
-- **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-képzésen ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
+  - **viśeṣyataddhita** (⟪विशेष्यतद्धित⟫) » melléknevek
+  - **bhāvārthakataddhita (tanmātrataddhita)** (⟪भावार्थकतद्धित⟫ / ⟪तन्मात्रतद्धित⟫) » absztraktumok
+  - **tadvattaddhita** (⟪तद्वत्तद्धित⟫) » birtokos jelzők (pl. **-mant** -⟪मन्त्⟫, **-vant** -⟪वन्त्⟫)
+  - **tolanataddhita (atiśāyanataddhita)** (⟪तोलनतद्धित⟫ / ⟪अतिशायनतद्धित⟫) » fokozás (komparatív, szuperlatív), összehasonlítás
+  - **pūraṇataddhita** (⟪पूरणतद्धित⟫) » sorszámok (első stb.)
+  - **vibhaktitaddhita** (⟪विभक्तितद्धित⟫) » esetragok helyett (pl. **-tas** -⟪तस्⟫, **-tra** -⟪त्र⟫)
+  - **abhūtatadbhāva (cvitaddhita)** (⟪अभूततद्भाव⟫ / ⟪च्वितद्धित⟫) » (cvi-képzésen ⟪च्वि⟫, **-sāt** -⟪सात्⟫)
 
 **Osztályozás az ablaut alapján:**
 - **guṇya** (⟪गुण्य⟫): magas fokú képzés
@@ -62,16 +62,16 @@ A hagyományos indiai nyelvtanban a névmástörzsek képzésére szolgáló tol
 
 | Tő:br⟪धातु⟫ | + -a (kṛt) | Jelentés |
 | :--- | :--- | :--- |
-| **ji** 1 P:br⟪आप्⟫:br"győzni" | **jaya** m.:br⟪जय⟫ | "a győzelem, a diadal" |
-| **muh** 4 P:br⟪मुह्⟫:br"zavarban lenni" | **moha** m.:br⟪मोह⟫ | "zavar, tévelygés, tévedés" |
-| **krudh** 4 P:br⟪क्रुध्⟫:br"haragudni" | **krodha** m.:br⟪क्रोध⟫ | "harag" |
-| **kup** 4 P:br⟪कुप्⟫:br"haragudni" | **kopa** m.:br⟪कोप⟫ | "harag" |
-| **lubh** 4 P:br⟪लुभ्⟫:br"vágyakozni" | **lobha** m.:br⟪लोभ⟫ | "vágyakozás" |
-| **labh** 1 Ā:br⟪लभ्⟫:br"kapni" | **lābha** m.:br⟪लाभ⟫ | "a kapás, nyereség" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"elengedni,:bocsátani ki" | **sarga** m.:br⟪सर्ग⟫ | "az elengedés, az emanáció, a teremtés" (a szóvégi sandhi j » g lásd később) |
-| **śru** 5 P:br⟪श्रु⟫:br"hallani" | **śrava** m.:br⟪श्रव⟫ | "a hallás" |
-| **bhū** 1 P:br⟪भू⟫:br"lesz, lenni" | **bhāva** m.:br⟪भाव⟫ | "a lesz, a (valami) lenni, természet, jellem" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"harcolni" | **yodha** m.:br⟪योध⟫ | "harcos, katona, katonaság" |
+| **ji** 1 P:br⟪आप्⟫:br"siegen" | **jaya** m.:br⟪जय⟫ | "a győzelem, a diadal" |
+| **muh** 4 P:br⟪मुह्⟫:br"verwirrt sein" | **moha** m.:br⟪मोह⟫ | "zavar, tévelygés, tévedés" |
+| **krudh** 4 P:br⟪क्रुध्⟫:br"zürnen" | **krodha** m.:br⟪क्रोध⟫ | "harag" |
+| **kup** 4 P:br⟪कुप्⟫:br"zürnen" | **kopa** m.:br⟪कोप⟫ | "harag" |
+| **lubh** 4 P:br⟪लुभ्⟫:br"begehren" | **lobha** m.:br⟪लोभ⟫ | "vágyakozás" |
+| **labh** 1 Ā:br⟪लभ्⟫:br"bekommen" | **lābha** m.:br⟪लाभ⟫ | "a kapás, nyereség" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "az elengedés, az emanáció, a teremtés" (a szóvégi sandhi j » g lásd később) |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "a hallás" |
+| **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "a lesz, a (valami) lenni, természet, jellem" |
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "harcos, katona, katonaság" |
 
 ### 8.3.2. -ana n. (kṛt)
 
@@ -82,12 +82,12 @@ A hagyományos indiai nyelvtanban a névmástörzsek képzésére szolgáló tol
 
 | Tő:br⟪धातु⟫ | + -ana (kṛt) | Jelentés |
 | :--- | :--- | :--- |
-| **gam** 1 P:br⟪गम्⟫:br"menni" | **gamana** n.:br⟪गमन⟫ | "a menni" |
-| **nī** 1 U:br⟪नी⟫:br"vezetni" | **nayana** n.:br⟪नयन⟫ | "(a vezetés eszköze, azaz) szem" |
-| **śru** 5 P:br⟪श्रु⟫:br"hallani" | **śravaṇa** n.:br⟪श्रवण⟫ | "(hallóeszköz =) fül" |
-| **kṛ** 8 U:br⟪कृ⟫:br"tenni" | **kāraṇa** n.:br⟪कारण⟫ | "(az, amivel valami megtörténik, azaz) ok, alap" |
-| **bhū** 1 P:br⟪भू⟫:br"lesz" | **bhavana** n.:br⟪भवन⟫ | "a lesz, keletkezés" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"látni" | **darśana** n.:br⟪दर्शन⟫ | "a látni, nézőpont, filozófiai rendszer, megjelenés, különösen: Darśan" |
+| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gamana** n.:br⟪गमन⟫ | "a menni" |
+| **nī** 1 U:br⟪नी⟫:br"führen" | **nayana** n.:br⟪नयन⟫ | "(a vezetés eszköze, azaz) szem" |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(hallóeszköz =) fül" |
+| **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(az, amivel valami megtörténik, azaz) ok, alap" |
+| **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | "a lesz, keletkezés" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "a látni, nézőpont, filozófiai rendszer, megjelenés, különösen: Darśan" |
 
 ::: media
 ![](/images/lekt0801.webp)
@@ -112,10 +112,10 @@ Az áhítatos hinduk azért mennek a templomba, hogy elnyerjék Isten látását
 
 | Tő:br⟪धातु⟫ | + -tra (kṛt) | Jelentés |
 | :--- | :--- | :--- |
-| **nī** 1 U:br⟪नी⟫:br"vezet" | **netra** n.:br⟪नेत्र⟫ | "(A vezetés eszköze =) szem" |
-| **śru** 5 P:br⟪श्रु⟫:br"hall" | **śrotra** :br⟪श्रोत्र⟫ | "(Hallóeszköz=) fül" |
-| **man** 4 Ā:br⟪मन्⟫:br"gondol" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Gondolkodás eszköze:) versmondat, 'mágikus' formula (mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"kifeszít" | **tantra** n.:br⟪तन्त्र⟫ | "szövőfonat" |
+| **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(A vezetés eszköze =) szem" |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Hallóeszköz=) fül" |
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Gondolkodás eszköze:) versmondat, 'mágikus' formula (mantra)" |
+| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "szövőfonat" |
 
 ::: media
 **Az eredeti mantra Oṃ (⟪ॐ⟫) különböző indiai szövegekben**
@@ -139,13 +139,13 @@ Az áhítatos hinduk azért mennek a templomba, hogy elnyerjék Isten látását
 
 | Tő:br⟪धातु⟫ | + -ti (kṛt) | Jelentés |
 | :--- | :--- | :--- |
-| **śru** 5 P:br⟪श्रु⟫:br"hallani" | **śruti** f.:br⟪श्रुति⟫ | "a hallás, a Véda" |
-| **smṛ** 1 P:br⟪स्मृ⟫:br"megidézni" | **smṛti** f.:br⟪स्मृति⟫ | "A megidézés, emlékezet, hagyomány, figyelem" |
-| **nī** 1 U:br⟪नी⟫:br"vezetni" | **nīti** f.:br⟪नीति⟫ | "a vezetés, irányítás, magatartás" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"kibocsátani" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanáció, teremtés" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"látni" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "tekintet, arc, látásmód" |
-| **gam** 1 P:br⟪गम्⟫:br"menni" | **gati** f.:br⟪गति⟫ | "járás, pálya, a járás célja" (a *gm » ga + -ti-ból) |
-| **man** 4 Ā:br⟪मन्⟫:br"gondolkodni" | **mati** f.:br⟪मति⟫ | "gondolkodás, gondolat, vélemény" (a *mn » ma + -ti-ból) |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śruti** f.:br⟪श्रुति⟫ | "a hallás, a Véda" |
+| **smṛ** 1 P:br⟪स्मृ⟫:br"vergegenwärtigen" | **smṛti** f.:br⟪स्मृति⟫ | "A megidézés, emlékezet, hagyomány, figyelem" |
+| **nī** 1 U:br⟪नी⟫:br"führen" | **nīti** f.:br⟪नीति⟫ | "a vezetés, irányítás, magatartás" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "Emanáció, teremtés" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "tekintet, arc, látásmód" |
+| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "járás, pálya, a járás célja" (a *gm » ga + -ti-ból) |
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "gondolkodás, gondolat, vélemény" (a *mn » ma + -ti-ból) |
 
 *Megjegyzés: A \* jel egy alak előtt azt jelenti, hogy ez az alak a szanszkritban nem fordul elő, hanem elméletileg levezetett, egy adott képzés feltételeként. A **gam** mély foka gṃ = \*gm, az m-t a úgynevezett nasalis sonans helyettesíti **a** » **ga**. Hasonló érvényes a **man** » **ma** esetében.
 
@@ -156,11 +156,11 @@ Az áhítatos hinduk azért mennek a templomba, hogy elnyerjék Isten látását
 :::
 **Példák:**
 
-| Névstam:br⟪नामप्रातिपदिक⟫:br | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Jelentés |
+| Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Jelentés |
 | :--- | :--- | :--- | :--- |
-| **guru** :br⟪गुरु⟫:br3 "nehéz, méltóságteljes,:brm. mester" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "nehézség, tiszteletreméltóság,:brA tanárisék (egy tanár lényege vagy természete)" |
-| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "brahmana" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "a brahmanaság,:brami teszi egy brahmanát brahmanává,:brLényeg / Természet egy brahmanának" |
-| **deva** :br⟪देव⟫:brm. "isteni, isten" | — | **devatā** f.:br⟪देवता⟫ | "istenség" |
+| **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "nehézség, tiszteletreméltóság,:brA tanárisék (egy tanár lényege vagy természete)" |
+| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "a brahmanaság,:brami teszi egy brahmanát brahmanává,:brLényeg / Természet egy brahmanának" |
+| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "istenség" |
 
 Ezek a képzések gyakorlatilag bármely főnévhez létrehozhatók, és tudományos szanszkrit művekben nagyon gyakoriak.
 

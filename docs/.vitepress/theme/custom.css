@@ -1035,3 +1035,15 @@ select.control-btn,
     border: 1px solid #999 !important;
   }
 }
+
+/* ── Navbar Logo Boundary Fix ── */
+.VPNavBarTitle .logo,
+.VPNavBarTitle img,
+.VPNavBarTitle svg,
+.VPImage.logo {
+  height: 28px !important;
+  max-height: 28px !important;
+  width: auto !important;
+  max-width: 160px !important;
+  object-fit: contain !important;
+}

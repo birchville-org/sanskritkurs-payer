@@ -1,10 +1,10 @@
 ---
-title: 11. lecke
-subtitle: "A kétszeres tárgyeset (a személy és a dolog tárgyesete)"
+title: Lektion 11
+subtitle: "Den doppelten Akkusativ (Akkusativ der Person und der Sache)"
 lesson_id: 11
 last_reconstructed: 2026-05-07
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 11. lecke
@@ -43,27 +43,27 @@ z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 **Lernen Sie folgende Wörter:**
 
 - **iti** ⟪इति⟫ : so
-- Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
-- z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
-- Im Sanskrit gibt es keine indirekte Rede; Képzésen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
-- **... (Zitat) ... iti śrutiḥ** = "so der Veda".
-- Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er...").
+  - Steht *nach* der Formulierung eines Gedankens, Wunsches, Ausspruchs, Zitats gleichsam als Anführungszeichen (").
+  - z.B. **sādhavaḥ svargaṃ gacchantīti brāhmaṇā vadanti** "Brahmanen sagen: 'Heilige kommen in den Himmel'" = "Brahmanen sagen, dass Heilige in den Himmel kommen".
+  - Im Sanskrit gibt es keine indirekte Rede; Képzésen mit **iti** müssen im Deutschen oft in indirekter Rede wiedergegeben werden.
+  - **... (Zitat) ... iti śrutiḥ** = "so der Veda".
+  - Oft ist nach **iti** ein Verb des Denkens hinzuzudenken: "denkend: '...' tut er das". Im Deutschen idiomatisch wiedergeben (z.B. "Weil er Hunger hat, geht er...").
 
 - **evam** ⟪एवम्⟫ : így (adverbial, pl. **evaṃ jayati** „így győz ő”).
 - **na** ⟪न⟫ : nem
-- Tagad egyes szavakat (azonnal megelőzi: **na sādhuḥ** „egy nem jó”) vagy egész mondatokat (a mondat elején áll, azonnal megelőzi a ragozott igét).
+  - Tagad egyes szavakat (azonnal megelőzi: **na sādhuḥ** „egy nem jó”) vagy egész mondatokat (a mondat elején áll, azonnal megelőzi a ragozott igét).
 
 - **putra** m. ⟪पुत्र⟫ : fiú (Gyermeknemzésre volt szükség Indiában, aki felajánlhatta az áldozatot a ősöknek.)
 - **dharma** m. ⟪धर्म⟫ : („ami szilárd”, azaz) jog, törvény, szokás, jellem.
-- Leginkább megfelel a természeti/erkölcsi törvénynek. Mindenki **varṇa** és **āśrama** (életszakasz) szerint saját kötelességeit (**svadharma**) teljesíti.
+  - Leginkább megfelel a természeti/erkölcsi törvénynek. Mindenki **varṇa** és **āśrama** (életszakasz) szerint saját kötelességeit (**svadharma**) teljesíti.
 - **adharma** m. ⟪अधर्म⟫ : igazságtalanság (**dharma** ellenkezője).
 - **iṣ** 6 P (icchati) ⟪इष्⟫ ⟪इच्छति⟫ : kívánni (**iṣ-ccha-ti**).
 
 **Egyes névmeghatározások:**
 
 - **vad** 1 P ⟪वद्⟫ : mondani
-- **vāda** m. ⟪वाद⟫ : kijelentés, állítás, szó
-- **vadana** n. ⟪वदन⟫ : beszéd; beszédszerv: száj, arc
+  - **vāda** m. ⟪वाद⟫ : kijelentés, állítás, szó
+  - **vadana** n. ⟪वदन⟫ : beszéd; beszédszerv: száj, arc
 
 ::: media
 ![](/images/lekt1102.webp)
@@ -71,10 +71,10 @@ z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : kérdezni
-- **praśna** m. ⟪प्रश्न⟫ : kérdés (Suffix **-na**, mint a **yaj-ña** esetében)
+  - **praśna** m. ⟪प्रश्न⟫ : kérdés (Suffix **-na**, mint a **yaj-ña** esetében)
 
 - **iṣ** 6 P ⟪इष्⟫ : kívánni
-- **iṣṭi** f. ⟪इष्टि⟫ : vágy (**iṣ** + **-ti**)
+  - **iṣṭi** f. ⟪इष्टि⟫ : vágy (**iṣ** + **-ti**)
 
 ## 11.3. Gyakorlat
 

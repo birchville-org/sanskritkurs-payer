@@ -1,9 +1,9 @@
 ---
-title: Lecția 55
-subtitle: "Aoristul cu tema vocalică (Aorist cu vocală tematică)"
+title: Lektion 55
+subtitle: "Der a-Aorist (Aorist mit Themavokal)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -93,6 +93,7 @@ Fig.: ⟪अजीर्यमिति⟫
 'Inâyat Khân pe patul de moarte, schiță pentru o miniatură a unui manuscris pentru Jahângîr = جهانگير, circa 1618
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5501))
 :::
+
 ::: deleteme-box
 
 **lekt5501:** 'Inâyat Khân pe patul de moarte, schiță pentru o miniatură a unui manuscris pentru Jahângîr = جهانگير, circa 1618 [Sursa imaginii: [http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan). -- Accesat la 2009-01-28. Domeniu public]

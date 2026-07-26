@@ -1,10 +1,10 @@
 ---
-title: 41. lecke
-subtitle: "⟪सुभाषिते⟫  (két közmondás)"
+title: Lektion 41
+subtitle: "⟪सुभाषिते⟫  (zwei Sprichwörter)"
 lesson_id: 41
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 41. lecke
@@ -64,10 +64,10 @@ Gyenge jelen idő alap (az a forma, amely előtt áll a -ate végződésű 3. pl
 Példák:
 
 ::: grammar-box
-| Tő / Osztály | Jelen idői melléknév Ā |
+| Tő / Klasse | Partizip Jelen idő Ā |
 | :--- | :--- |
 | ⟪द्विष्⟫ 2U | ⟪द्विषाण⟫ |
-| ⟪हु⟫ 3P | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
+| ⟪हु⟫ 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
 | ⟪सु⟫ 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | ⟪रुध्⟫ 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | ⟪तन्⟫ 8U | ⟪तन्वान⟫:brtan-u + āna |
@@ -167,7 +167,7 @@ Példa:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्मृ⟫ 1P |  ⟪स्मर्य⟫ 3 | "amire emlékezni kell" |
+| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | "amire emlékezni kell" |
 
 :::
 ::: grammar-box
@@ -212,8 +212,8 @@ Példák:
 
 | | | |
 | :--- | :--- | :--- |
-⟪दृश्⟫ | ⟪दृश्य⟫ 3 | „megtekintésre méltó”
-⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | „aki tanításban részesítendő = diák”
+| ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "megtekintésre méltó" |
+| ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "valaki, aki tanításban részesül = diák" |
 
 :::
 ::: media
@@ -246,7 +246,7 @@ Példa:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪मन्⟫ Kausatív¹ | ⟪मान्य⟫ 3: brmān-aya - aya + ya | „tisztelő, nagybecsű“ |
+| ⟪मन्⟫ Kausatív¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | „tisztelő, nagybecsű“ |
 
 :::
 ::: indent
@@ -273,7 +273,7 @@ Példák:
 | | | |
 | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "megközelítendő" |
-|  ⟪श्रु⟫ 5P |  ⟪श्रुत्य⟫ 3 | "meghallgatandó" |
+| ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "meghallgatandó" |
 | ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "megtenendő" |
 
 :::

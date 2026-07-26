@@ -1,9 +1,9 @@
 ---
-title: 5. lecke
-subtitle: "A névszóösszetételek (samāsa) alapjai"
+title: Lektion 5
+subtitle: "Grundlagen der Nominalkomposita (samāsa)"
 lesson_id: 5
 last_reconstructed: 2026-05-07
-category: "Nyelvtan"
+category: "Grammatik"
 status: stable
 ---
 
@@ -71,13 +71,13 @@ Példák a többes számú Dvandvára:
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
 > = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
 > (brahmanák, kṣatriyák, vaiśyák és śūdrák)
->
+> 
 > vagy = brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdraś ca = ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यः⟫ ⟪शूद्रश्च⟫
 > (egy/brahmána, kṣatriya, vaiśya és śúdra)
 
 **kavi-guravaḥ** = ⟪कविगुरवः⟫
 > = kavayo guravaś ca = ⟪कवयो⟫ ⟪गुरवश्च⟫
-(költők és tanárok [Többes szám])
+> (Költők és tanárok [többes szám])
 > (Megjegyzés: „Egy költő és egy tanár” kettős számban kellene állnia!)
 
 **A Dvandva tagjainak sorrendjét illetően az alábbi szabályok vonatkoznak:**
@@ -175,24 +175,24 @@ Ha a fenti három szabály közül kettő egyszerre merül fel, mindig a későb
 **A) Fordítsa le:**
 
 1. vidyā vārttā.
-⟪विद्या⟫ ⟪वार्त्ता⟫ |
+   ⟪विद्या⟫ ⟪वार्त्ता⟫ |
 
 2. brāhmaṇaḥ kṣatriyo vaiśyaś ca trayo varṇā dvijātayaḥ.
-⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫ |
+   ⟪ब्राह्मणः⟫ ⟪क्षत्रियो⟫ ⟪वैश्यश्च⟫ ⟪त्रयो⟫ ⟪वर्णा⟫ ⟪द्विजातयः⟫ |
 
 3. dvijā vaiśyāḥ. (2 lehetőség)
-⟪द्विजा⟫ ⟪वैश्याः⟫ |
+   ⟪द्विजा⟫ ⟪वैश्याः⟫ |
 
 **B) Írja be a megfelelő alakot:**
 
 1. (dvija, sādhu, kavi) ... rāmaḥ
-(⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
+   (⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫) ... ⟪रामः⟫ |
 
 2. (devī) ... indrāṇī
-(⟪देवी⟫) ... ⟪इन्द्राणी⟫ |
+   (⟪देवी⟫) ... ⟪इन्द्राणी⟫ |
 
 3. dvijātayas ... (vaiśyā, kṣatriya)
-⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
+   ⟪द्विजातयस्⟫ ... (⟪वैश्या⟫, ⟪क्षत्रिय⟫) |
 
 **C) Oldja fel a következő mondatban szereplő szanszkrit összetett szót, és alkosson e feloldott alakkal ugyanazt a mondatot:**
 

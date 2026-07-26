@@ -1,9 +1,9 @@
 ---
 title: Lektion 4
-subtitle: "Kérdő- és mutatószavak nominativusban"
+subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
 lesson_id: 4
 last_reconstructed: 2026-05-07
-category: "Nyelvtan"
+category: "Grammatik"
 status: stable
 ---
 
@@ -24,7 +24,7 @@ status: stable
 #### 4.1.1.1. Kérdőszó (praśnārthakasarvanāma n. = ⟪प्रश्नार्थकसर्वनामन्⟫)
 
 ::: grammar-box
-| | alanyeset (nominativus) singularis | alanyeset (nominativus) pluralis |
+| | alanyeset (nominativus) singular | alanyeset (nominativus) plural |
 | :--- | :--- | :--- |
 | **középnem** | **kim = ⟪किम्⟫** | **kāni = ⟪कानि⟫** |
 | **hímnem** | **kas = ⟪कस्⟫** | **ke = ⟪के⟫** |
@@ -35,12 +35,12 @@ status: stable
 ::: grammar-box
 | **Tőalakok** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫:br„ő, Ők; az, azok”:br(Említett)** | **etad = ⟪एतद्⟫:br„ez, ezek”:br(Nagyon közel a beszélőhöz)** | **idam = ⟪इदम्⟫:br„ez, ezek”:br(Közeli)** |
-| **alanyeset (nominativus) singularis** ||||
+| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
+| **alanyeset (nominativus) singular** ||||
 | **középnem** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
 | **hímnem** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
 | **nőnem** | **sā = ⟪सा⟫** | **eṣā = ⟪एषा⟫** | **iyam = ⟪इयम्⟫** |
-| **alanyeset (nominativus) pluralis** ||||
+| **alanyeset (nominativus) plural** ||||
 | **középnem** | **tāni = ⟪तानि⟫** | **etāni = ⟪एतानि⟫** | **imāni = ⟪इमानि⟫** |
 | **hímnem** | **te = ⟪ते⟫** | **ete = ⟪एते⟫** | **ime = ⟪इमे⟫** |
 | **nőnem** | **tās = ⟪तास्⟫** | **etās = ⟪एतास्⟫** | **imās ⟪इमास्⟫** |
@@ -81,11 +81,11 @@ Ezekkel a névmásokkal például a következő kérdő formulákat képezhetjü
 | | | | |
 | :--- | :--- | :--- | :--- |
 | **egyes szám** | **semlegesnem** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "Mi az?" |
-| ^^| **hímnem** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Ki az?":br"Mi az a?" |
-| ^^| **nőnem** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Ki az?":br"Ki az a?" |
+| ^^ | **hímnem** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Ki az?":br"Mi az a?" |
+| ^^ | **nőnem** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Ki az?":br"Ki az a?" |
 | **többes szám** | **semlegesnem** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
-|^^ | **hímnem** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
-| ^^| **nőnem** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
+| ^^ | **hímnem** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
+| ^^ | **nőnem** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
 :::
 Egy másik példa kérdésekre:
 

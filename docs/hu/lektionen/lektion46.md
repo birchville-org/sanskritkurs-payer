@@ -1,10 +1,10 @@
 ---
-title: 46. lecke
-subtitle: "A 2. személy ragozott igéinek képzése (⟪मध्यमः⟫) Perfektum (⟪लिट्⟫)"
+title: Lektion 46
+subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 46. lecke
@@ -16,8 +16,8 @@ status: stabil
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-**Perfekt végződések** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-^^ \-tha | \-a | \-se | \-dhve |
+| **Perfektumragok** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ^^ \-tha | \-a | \-se | \-dhve |
 :::
 Vegye figyelembe, hogy a -tha végződés – általában nem pedig az alak! – megegyezik az 1. és 3. sg.P-ével a 2.pl.P-ben.
 
@@ -39,7 +39,7 @@ Azok a igék, amelyek ezt a típust követik:
 *   ā-Konsonant
 
 ::: grammar-box
-1. sz. = 3. sz. = 2. t.
+sz. = 3. sz. = 2. t.
 :::
 ⟪बन्ध्⟫ 9P
 
@@ -55,7 +55,7 @@ Azok a igék, amelyek ezt a típust követik:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \&lt;⟪जिजीविषे⟫\&gt; | \&lt;⟪जिजीविध्वे⟫\&gt;:br\&lt;⟪जिजीविढ्वे⟫\&gt; |
+| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \<⟪जिजीविषे⟫\> | \<⟪जिजीविध्वे⟫\>:br\<⟪जिजीविढ्वे⟫\> |
 :::
 ⟪अस्⟫ 2P, 4P
 
@@ -63,7 +63,7 @@ Azok a igék, amelyek ezt a típust követik:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪आसिथ⟫ | ⟪आस⟫ | \&lt;⟪आसिषे⟫\&gt; | \&lt;⟪आसिध्वे⟫\&gt; |
+| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
 :::
 ### 46.1.4. Perfekt típus II: erős alapalak magas fok, gyenge alapalak mély fok
 
@@ -85,7 +85,7 @@ Az alábbi típusú igék:
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪मुमोहिथ⟩:br⟪मुमोढ⟩:br⟪मुमोग्ध⟩ | ⟪मुमुह⟩ |
+| ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
 ### 46.1.5. Perfektum III. típus: Erős alap, magas fok/hosszúsági fok
 
@@ -141,7 +141,7 @@ Ezen típusba tartozó igék:
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪पपरिथ⟫ | ⟪पपर⟩:br= 1.sg.P |
+| ⟪पपरिथ⟫ | ⟪पपर⟫:br= 1.sg.P |
 :::
 ⟪संस्कृ⟫ 8U
 
@@ -149,13 +149,13 @@ Ezen típusba tartozó igék:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟩:br⟪सञ्चसक्रिढ्वे⟫ |
+| ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
 ### 46.1.6. Perfektum IV. típus: -ā / -ai gyökök
 
 *   Gyenge tő:
-*   mássalhangzó előtt: mély fok -i
-*   magánhangzó előtt: mély fok -ø
+    *   mássalhangzó előtt: mély fok -i
+    *   magánhangzó előtt: mély fok -ø
 
 ⟪दा⟫ 3U
 
@@ -163,15 +163,15 @@ Ezen típusba tartozó igék:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪ददाथ⟩:br⟪ददिथ⟩:brda-di-tha:broder::brda-d-i-tha | ⟪दद⟩ | ⟪ददिषे⟩ | ⟪ददिध्वे⟩ |
+| ⟪ददाथ⟫:br⟪ददिथ⟫:brda-di-tha:broder::brda-d-i-tha | ⟪दद⟫ | ⟪ददिषे⟫ | ⟪ददिध्वे⟫ |
 :::
 ⟪गै⟩ 1P
 
 ::: grammar-box
-| ⟪परस्मैपदम्⟩ ||
+| ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| ⟪एकवचनम्⟩ | ⟪बहुवचनम्⟩ |
-| ⟪जगाथ⟩:br⟪जगिथ⟩ | ⟪जग⟩ |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
 ### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
 
@@ -180,13 +180,13 @@ Ezen típusba tartozó igék:
 Ige, amelyek ezt a típust követik:
 
 ::: indent
-1. gam „menni”
-2. han (»ghan) „megverni”
-3. jan „születni”
-4. vac „beszélni”
-5. vad „beszélni”
-6. yaj „áldozni”
-7. stb.
+1.  gam „menni”
+2.  han (»ghan) „megverni”
+3.  jan „születni”
+4.  vac „beszélni”
+5.  vad „beszélni”
+6.  yaj „áldozni”
+7.  stb.
 :::
 ⟪गम्⟫ 1P
 
@@ -218,7 +218,7 @@ Ige, amelyek ezt a típust követik:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪इयजिथ⟩:br⟪इयष्ठ⟫ | ⟪ईज⟫ | ⟪ईजिषे⟫ | ⟪ईजिध्वे⟫ |
+| ⟪इयजिथ⟫:br⟪इयष्ठ⟫ | ⟪ईज⟫ | ⟪ईजिषे⟫ | ⟪ईजिध्वे⟫ |
 :::
 ⟪वच्⟫ 1P
 
@@ -226,7 +226,7 @@ Ige, amelyek ezt a típust követik:
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪उवचिथ⟩:br⟪उवक्थ⟫ | ⟪ऊच⟫ |
+| ⟪उवचिथ⟫:br⟪उवक्थ⟫ | ⟪ऊच⟫ |
 :::
 ⟪वह्⟫ 1U
 
@@ -234,7 +234,7 @@ Ige, amelyek ezt a típust követik:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪उवहिथ⟩:br⟪उवोढ⟫ | ⟪ऊह⟫ | ⟪ऊहिषे⟫ | ⟪ऊहिध्वे⟩:br⟪ऊहिढ्वे⟫ |
+| ⟪उवहिथ⟫:br⟪उवोढ⟫ | ⟪ऊह⟫ | ⟪ऊहिषे⟫ | ⟪ऊहिध्वे⟫:br⟪ऊहिढ्वे⟫ |
 :::
 ⟪वद्⟫ 1P
 
@@ -250,7 +250,7 @@ Ige, amelyek ezt a típust követik:
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪सुष्वपिथ⟩:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
+| ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
 :::
 #### 46.1.7.2. Perfektum Vb: Konsonant-a-Konsonant, kezdő mássalhangzó nem gutturális, nem aspirált, nem h, gyenge tő reduplikáció nélkül, -e- képzővel
 
@@ -263,7 +263,7 @@ A 2.sg.P. a gyenge tőből képződik, ha az összekötő magánhangzó -i- lép
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪पपक्थ⟩: sig[⟪पेचिथ⟩] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
+| ⟪पपक्थ⟫:br sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
 #### 46.1.7.3. Perfektum Vc: Konsonant-a-Konsonant, gyenge tő erős fok
 
@@ -311,7 +311,7 @@ Ige, amelyek ezt a típust követik:
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪जिगेथ⟩:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
+| ⟪जिगेथ⟫:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
 :::
 ### 46.1.9. Periphrastikus perfekta (⟪अनुप्रयोगलिट्⟫)
 
@@ -323,10 +323,10 @@ A periphrastikus perfekta a következőkből képződik:
 *   néhány egyéb esetben
 *   egyes alapoknál mindkét perfekta opcionálisan képezhető: uṣ "égni", vid "tudni", jāgṛ "ébren lenni", daridrā "szegény lenni"
 *   az alábbi alapoknál mindkét perfekta opcionálisan képezhető, és a periphrastikus perfekta is reduplikált, nevezetesen az egyszerű jelen idejű alap reduplikációs szótagjával:
-*   bhī "megijedni"
-*   bhṛ "hordani"
-*   hu "áldozni"
-*   hrī "szégyellni magát"
+    *   bhī "megijedni"
+    *   bhṛ "hordani"
+    *   hu "áldozni"
+    *   hrī "szégyellni magát"
 
 ⟪बन्ध्⟫ Kauzativum
 
@@ -360,15 +360,15 @@ Absol. -⟪ग्राह्य⟫
 davon:
 ⟪ग्रह⟫ m.: Megragadás, ragaszkodó, krokodil, vándorló csillag
 ⟪नवग्रह⟫ m.: a kilenc vándorló csillag (nem bolygók!) (l. Basham, Wonder S. 493):
-1. ⟪सूर्यः⟫ = Nap
-2. ⟪चन्द्रः⟫ = Hold
-3. ⟪मङ्गलः⟫ = Mars
-4. ⟪बुधः⟫ = Merkúr
-5. ⟪बृहस्पतिः⟫ = Jupiter
-6. ⟪शुक्रः⟫ = Vénusz
-7. ⟪शनिः⟫ = Szaturnusz
-8. ⟪राहुः⟫
-9. ⟪केतुः⟫
+1.  ⟪सूर्यः⟫ = Nap
+2.  ⟪चन्द्रः⟫ = Hold
+3.  ⟪मङ्गलः⟫ = Mars
+4.  ⟪बुधः⟫ = Merkúr
+5.  ⟪बृहस्पतिः⟫ = Jupiter
+6.  ⟪शुक्रः⟫ = Vénusz
+7.  ⟪शनिः⟫ = Szaturnusz
+8.  ⟪राहुः⟫
+9.  ⟪केतुः⟫
 
 :::
 A ⟪राहु⟫ és a ⟪केतु⟫ tekintetében lásd:

@@ -1,8 +1,8 @@
 ---
-title: Lecția 8
-subtitle: "Formarea substantivelor & Clasa de prezent 8"
+title: Lektion 8
+subtitle: "Bildung von Nomina & 8. Präsensklasse"
 lesson_id: 8
-category: "Gramatică"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
 ---
@@ -16,7 +16,6 @@ last_reconstructed: 2026-05-07
 - Clasa a 8-a de prezent (tanādi)
 - Conjugarea verbului **kṛ** (tun, a face)
 :::
----
 
 ## 8.1. Despre formarea numelor substantive
 
@@ -31,7 +30,6 @@ last_reconstructed: 2026-05-07
 
 **Stemen nominal + terminație de caz » nume sintactic**
 :::
----
 
 ## 8.2. Clasificarea sufixelor nominale
 
@@ -55,8 +53,6 @@ last_reconstructed: 2026-05-07
 
 ## 8.3. Unele sufixe nominale importante
 
----
-
 ### 8.3.1. -a m. (kṛt)
 
 ::: grammar-box
@@ -64,20 +60,18 @@ last_reconstructed: 2026-05-07
 :::
 **Exemple:**
 
-| Rădăcină:br⟪धातु⟫ | + -a (kṛt) | Semnificație |
+| Wurzel:br⟪धातु⟫ | + -a (kṛt) | Semnificație |
 | :--- | :--- | :--- |
-| **ji** 1 P:br⟪आप्⟫:br"a învinge" | **jaya** m.:br⟪जय⟫ | "învingerea, victoria" |
-| **muh** 4 P:br⟪मुह्⟫:br"a fi confuz" | **moha** m.:br⟪मोह⟫ | "confuzie, iluzie, eroare" |
-| **krudh** 4 P:br⟪क्रुध्⟫:br"a se mânia" | **krodha** m.:br⟪क्रोध⟫ | "mânie" |
-| **kup** 4 P:br⟪कुप्⟫:br"a se mânia" | **kopa** m.:br⟪कोप⟫ | "mânie" |
-| **lubh** 4 P:br⟪लुभ्⟫:br"a dori" | **lobha** m.:br⟪लोभ⟫ | "poftă" |
-| **labh** 1 Ā:br⟪लभ्⟫:br"a obține" | **lābha** m.:br⟪लाभ⟫ | "obținerea, profitul" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"a elibera,⟨BR\>a lăsa să emană" | **sarga** m.:br⟪सर्ग⟫ | "eliberarea, emanarea, creația" (pentru sandhi cuvântului j » g vezi mai târziu) |
-| **śru** 5 P:br⟪श्रु⟫:br"a auzi" | **śrava** m.:br⟪श्रव⟫ | "ascultarea" |
-| **bhū** 1 P:br⟪भू⟫:br"a deveni, a fi" | **bhāva** m.:br⟪भाव⟫ | "devenirea, (a fi) ceva, natură, caracter" |
-| **yudh** 4 Ā:br⟪युध्⟫:br"a lupta" | **yodha** m.:br⟪योध⟫ | "luptător, soldat" |
-
----
+| **ji** 1 P:br⟪आप्⟫:br"siegen" | **jaya** m.:br⟪जय⟫ | "învingerea, victoria" |
+| **muh** 4 P:br⟪मुह्⟫:br"verwirrt sein" | **moha** m.:br⟪मोह⟫ | "confuzie, iluzie, eroare" |
+| **krudh** 4 P:br⟪क्रुध्⟫:br"zürnen" | **krodha** m.:br⟪क्रोध⟫ | "mânie" |
+| **kup** 4 P:br⟪कुप्⟫:br"zürnen" | **kopa** m.:br⟪कोप⟫ | "mânie" |
+| **lubh** 4 P:br⟪लुभ्⟫:br"begehren" | **lobha** m.:br⟪लोभ⟫ | "poftă" |
+| **labh** 1 Ā:br⟪लभ्⟫:br"bekommen" | **lābha** m.:br⟪लाभ⟫ | "obținerea, profitul" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"loslassen,:bremanieren lassen" | **sarga** m.:br⟪सर्ग⟫ | "eliberarea, emanarea, creația" (pentru sandhi cuvântului j » g vezi mai târziu) |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrava** m.:br⟪श्रव⟫ | "ascultarea" |
+| **bhū** 1 P:br⟪भू⟫:br"werden, sein" | **bhāva** m.:br⟪भाव⟫ | "devenirea, (a fi) ceva, natură, caracter" |
+| **yudh** 4 Ā:br⟪युध्⟫:br"kämpfen" | **yodha** m.:br⟪योध⟫ | "luptător, soldat" |
 
 ### 8.3.2. -ana n. (kṛt)
 
@@ -86,41 +80,42 @@ last_reconstructed: 2026-05-07
 :::
 **Exemple:**
 
-| Rădăcină:br⟪धातु⟫ | + -ana (kṛt) | Semnificație |
+| Wurzel:br⟪धातु⟫ | + -ana (kṛt) | Semnificație |
 | :--- | :--- | :--- |
-| **gam** 1 P:br⟪गम्⟫:br"a merge" | **gamana** n.:br⟪गमन⟫ | "mersul" |
-| **nī** 1 U:br⟪नी⟫:br"a conduce" | **nayana** n.:br⟪नयन⟫ | "(unealta de a conduce, adică) ochi" |
-| **śru** 5 P:br⟪श्रु⟫:br"a auzi" | **śravaṇa** n.:br⟪श्रवण⟫ | "(unealta de a auzi =) ureche" |
-| **kṛ** 8 U:br⟪कृ⟫:br"a face" | **kāraṇa** n.:br⟪कारण⟫ | "(ceea ce face ceva, adică) cauză, motiv" |
-| **bhū** 1 P:br⟪भू⟫:br"a deveni" | **bhavana** n.:br⟪भवन⟫ | " devenirea, nașterea" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"a vedea" | **darśana** n.:br⟪दर्शन⟫ | "vederea, perspectiva, sistemul filosofic, aparența, în special: Darśan" |
+| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gamana** n.:br⟪गमन⟫ | "mersul" |
+| **nī** 1 U:br⟪नी⟫:br"führen" | **nayana** n.:br⟪नयन⟫ | "(unealta de a conduce, adică) ochi" |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śravaṇa** n.:br⟪श्रवण⟫ | "(unealta de a auzi =) ureche" |
+| **kṛ** 8 U:br⟪कृ⟫:br"tun" | **kāraṇa** n.:br⟪कारण⟫ | "(ceea ce face ceva, adică) cauză, motiv" |
+| **bhū** 1 P:br⟪भू⟫:br"werden" | **bhavana** n.:br⟪भवन⟫ | " devenirea, nașterea" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **darśana** n.:br⟪दर्शन⟫ | "vederea, perspectiva, sistemul filosofic, aparența, în special: Darśan" |
 
 ::: media
 ![](/images/lekt0801.webp)
 Fig.: Maa Batakali Darshan, Puri, Orissa
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0801))
-:::: note-box
+:::
+
+::: note-box
 **"Darshan"** sau **"Darshana"** este un termen din hinduism pentru viziunea și vederea sfântului și divinului. Sub *Darshana* se înțelege, de exemplu, întâlnirea oficială dintre elev și maestru, la care elevul a fost invitat de maestru. Poate însemna, de asemenea, *cufundarea* în contemplarea unei icoane divine. Această din urmă semnificație este cea mai frecventă în limbajul hindi contemporan. În contextul lui Mata Amritanandamayi, Darshan înseamnă îmbrățișarea de către Guru.
 
 Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un simbol sau o statuie, în care se consideră prezența spirituală a zeului. În acest sens, este și o binecuvântare din partea zeului. Darshan poate fi, de asemenea, primit prin viziunea zeității în timpul rugăciunii sau meditației. De asemenea, o persoană vie, considerată ca o întrupare a zeității, cum ar fi un Avatara, poate oferi Darshan.
 (Sursă: Wikipedia)
-::::
 :::
----
 
 ### 8.3.3. -tra n. (kṛt)
 
 ::: grammar-box
 **Sufixul kṛt -tra formează (în majoritate) substantive neutre, care indică mijlocul sau instrumentul prin care se realizează acțiunea indicată de rădăcină. Vocala scurtă penultimă și vocala finală a rădăcinii sunt înlocuite prin etapa superioară (guṇa).**
 :::
+
 **Exemple:**
 
-| Rădăcină:br⟪धातु⟫ | + -tra (kṛt) | Semnificație |
+| Wurzel:br⟪धातु⟫ | + -tra (kṛt) | Semnificație |
 | :--- | :--- | :--- |
-| **nī** 1 U:br⟪नी⟫:br"a conduce" | **netra** n.:br⟪नेत्र⟫ | "(Mijlocul de a conduce =) ochi" |
-| **śru** 5 P:br⟪श्रु⟫:br"a auzi" | **śrotra**:br⟪श्रोत्र⟫ | "(Instrumentul de auzire =) ureche" |
-| **man** 4 Ā:br⟪मन्⟫:br"a gândi" | **mantra** **m. (!)**:br⟪मन्त्र⟫ | "(Instrumentul de gândire:) formulă, formulă 'magică' (mantra)" |
-| **tan** 8 U:br⟪तन्⟫:br"a întinde" | **tantra** n.:br⟪तन्त्र⟫ | "urzeală" |
+| **nī** 1 U:br⟪नी⟫:br"führen" | **netra** n.:br⟪नेत्र⟫ | "(Mijlocul de a conduce =) ochi" |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śrotra** :br⟪श्रोत्र⟫ | "(Instrumentul de auzire =) ureche" |
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mantra** **m. (!)** :br⟪मन्त्र⟫ | "(Instrumentul de gândire:) formulă, formulă 'magică' (mantra)" |
+| **tan** 8 U:br⟪तन्⟫:br"aufspannen" | **tantra** n.:br⟪तन्त्र⟫ | "urzeală" |
 
 ::: media
 **Mantra primordială Oṃ (⟪ॐ⟫) în diverse texte indiene**
@@ -134,7 +129,6 @@ Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un 
 | In Malayalam-Schrift | Jaina-Oṃ |
 (Sursele imaginilor: [Detalii](/ro/licenses#lekt0803))
 :::
----
 
 ### 8.3.4. -ti f. (kṛt)
 
@@ -143,19 +137,17 @@ Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un 
 :::
 **Exemple:**
 
-| Rădăcină:br⟪धातु⟫ | + -ti (kṛt) | Semnificație |
+| Wurzel:br⟪धातु⟫ | + -ti (kṛt) | Semnificație |
 | :--- | :--- | :--- |
-| **śru** 5 P:br⟪श्रु⟫:br"a auzi" | **śruti** f.:br⟪श्रुति⟫ | "ascultarea, Veda" |
-| **smṛ** 1 P:br⟪स्मृ⟫:br"a reaminti" | **smṛti** f.:br⟪स्मृति⟫ | "Reamintirea, amintire, tradiție, atenție" |
-| **nī** 1 U:br⟪नी⟫:br"a conduce" | **nīti** f.:br⟪नीति⟫ | "conducerea, ghidare, comportament" |
-| **sṛj** 6 P:br⟪सृज्⟫:br"a emana" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "emanare, creație" |
-| **dṛś** 4 P:br⟪दृश्⟫:br"a vedea" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "privire, față, perspectivă" |
-| **gam** 1 P:br⟪गम्⟫:br"a merge" | **gati** f.:br⟪गति⟫ | "mers, curs, scopul mersului" (din *gm » ga + -ti) |
-| **man** 4 Ā:br⟪मन्⟫:br"a gândi" | **mati** f.:br⟪मति⟫ | "gândire, gând, opinie" (din *mn » ma + -ti) |
+| **śru** 5 P:br⟪श्रु⟫:br"hören" | **śruti** f.:br⟪श्रुति⟫ | "ascultarea, Veda" |
+| **smṛ** 1 P:br⟪स्मृ⟫:br"vergegenwärtigen" | **smṛti** f.:br⟪स्मृति⟫ | "Reamintirea, amintire, tradiție, atenție" |
+| **nī** 1 U:br⟪नी⟫:br"führen" | **nīti** f.:br⟪नीति⟫ | "conducerea, ghidare, comportament" |
+| **sṛj** 6 P:br⟪सृज्⟫:br"emanieren lassen" | **sṛṣṭi** f.:br⟪सृष्टि⟫ | "emanare, creație" |
+| **dṛś** 4 P:br⟪दृश्⟫:br"sehen" | **dṛṣṭi** f.:br⟪दृष्टि⟫ | "privire, față, perspectivă" |
+| **gam** 1 P:br⟪गम्⟫:br"gehen" | **gati** f.:br⟪गति⟫ | "mers, curs, scopul mersului" (din *gm » ga + -ti) |
+| **man** 4 Ā:br⟪मन्⟫:br"denken" | **mati** f.:br⟪मति⟫ | "gândire, gând, opinie" (din *mn » ma + -ti) |
 
 *Notă: \* în fața unei forme indică faptul că această formă nu apare în sanscrită, ci este dedusă teoretic ca premisă pentru o anumită formare. Gradul redus al **gam** este gṃ = \*gm, iar m este înlocuit prin **a** ca nasalis sonans » **ga**. Analogie se aplică și pentru **man** » **ma**.
-
----
 
 ### 8.3.5. -tva n., -tā f. (taddhita)
 
@@ -164,15 +156,13 @@ Hindusii pioși merg la templu pentru a obține viziunea lui Dumnezeu printr-un 
 :::
 **Exemple:**
 
-| Radical nominal:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Semnificație |
+| Nominalstamm:br⟪नामप्रातिपदिक⟫ | + -tva n.:br(taddhita) | + -tā f.:br(taddhita) | Semnificație |
 | :--- | :--- | :--- | :--- |
-| **guru**:br⟪गुरु⟫:br3 "greu, demn,:brm. maestru" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "greutate, demnitate,:bra fi maestru (esența sau natura unui maestru)" |
-| **brāhmaṇa**:br⟪ब्राह्मण⟫:brm. "brahman" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "a fi brahman,:brceea ce face pe cineva brahman,:bresență/natură a unui brahman" |
-| **deva**:br⟪देव⟫:brm. "ceresc, zeu" | — | **devatā** f.:br⟪देवता⟫ | "zeitate" |
+| **guru** :br⟪गुरु⟫:br3 "schwer, würdig,:brm. Meister" | **gurutva** n.:br⟪गुरुत्व⟫ | **gurutā** f.:br⟪गुरुता⟫ | "greutate, demnitate,:bra fi maestru (esența sau natura unui maestru)" |
+| **brāhmaṇa** :br⟪ब्राह्मण⟫:brm. "Brahmane" | **brāhmaṇatva** n.:br⟪ब्राह्मणत्व⟫ | **brāhmaṇatā** f.:br⟪ब्राह्मणता⟫ | "a fi brahman,:brceea ce face pe cineva brahman,:bresență/natură a unui brahman" |
+| **deva** :br⟪देव⟫:brm. "Himmlischer, Gott" | — | **devatā** f.:br⟪देवता⟫ | "zeitate" |
 
 Aceste formațiuni pot fi formate practic la orice substantiv și sunt foarte frecvente în lucrările științifice de sanscrită.
-
----
 
 ## 8.4. Clasa a 8-a de prezens (tanādi = ⟪तनादि⟫ = „tan și altele”)
 
@@ -198,7 +188,6 @@ Cea mai importantă rădăcină a celei de-a 8-a clase este **kṛ** 8 U (⟪क
 - 3\. sg. Ā. **kurute**:br⟪कुरुते⟫
 - 3\. pl. Ā. **kurvate**:br⟪कुर्वते⟫
 :::
----
 
 ## 8.5. Listă de cuvinte
 
@@ -226,16 +215,15 @@ Cea mai importantă rădăcină a celei de-a 8-a clase este **kṛ** 8 U (⟪क
 ![](/images/lekt0809.jpg)
 Fig.: **likh** (⟪लिख्⟫) : instrument de scris indian din oțel pentru gravat pe frunze de palmier
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0809))
-:::: media
+:::
+
+::: media
 ![](/images/lekt0810.jpg)
 Fig.: **likh** (⟪लिख्⟫) : bețișor de scris al Batak (Sumatra), așa cum era probabil folosit și în India
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0809))
-::::
 :::
 - **sukha** n. ⟪सुख⟫ : fericire, bunăstare
 - **duḥkha** n. ⟪दुःख⟫ : nefericire, suferință
-
----
 
 ## 8.6. Exercitiu
 
@@ -286,8 +274,6 @@ Fig.: **likh** (⟪लिख्⟫) : bețișor de scris al Batak (Sumatra), aș
 9. Pe cine vede ochiul?
 10. Ce doresc zeii?
 11. Care este motivul?
-
----
 
 ## 8.7. Exercițiu de citire și traducere
 

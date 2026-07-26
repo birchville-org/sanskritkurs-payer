@@ -1,5 +1,5 @@
 ---
-title: 34. lecke
+title: Lektion 34
 lesson_id: 34
 status: stable
 ---

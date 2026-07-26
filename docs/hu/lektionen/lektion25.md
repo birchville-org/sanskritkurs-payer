@@ -1,9 +1,9 @@
 ---
 title: Lektion 25
-subtitle: "Az ablative (⟪पञ्चमी⟫ = \"ötös esetrag\") képzése"
+subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
 lesson_id: 25
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
+category: "Grammatik"
 status: stable
 ---
 
@@ -27,7 +27,7 @@ Kérdő, viszonyító és mutató névmások:
 
 ::: grammar-box
 
-| | egyes szám alaki eset: hímnem / középnem | egyes szám alaki eset: nőnem |
+| | ablativus egyes szám:brhímnem / semlegesnem | ablativus egyes szám:brnőnem |
 | :--- | :--- | :--- |
 | ⟪किम्⟫ | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) |
 | ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
@@ -66,7 +66,7 @@ Példák:
 ⟪ब्राह्मणः⟫ ⟪क्षत्रियाद्धेनुमिच्छति⟫ = "a bráhmana tehenet kér a kṣatriyától"
 :::
 ::: grammar-box
-2. Az ablativus a „valamitől tartóztat fel”, „valami elől véd”, „valaki ellen védekezik”, „valamitől fél” jelentésű igékkel áll:
+Az ablativus a „valamitől tartóztat fel”, „valami elől véd”, „valaki ellen védekezik”, „valamitől fél” jelentésű igékkel áll:
 :::
 Példa:
 
@@ -119,10 +119,10 @@ A relatív mondatok gyakran oki (indokoló), konzekutív (következményes) vagy
 A viszonyító névmás formái, amelyek ok kötőszóként szolgálnak:
 
 *   ablativeus:
-*   ⟪यतस्⟫ ... almondat ... ⟪ततस्⟫ ... főmondat ... = „mert ..., ezért ..."
-*   ⟪यस्मात्⟫ ... almondat ... ⟪तस्मात्⟫ ... főmondat ... = „mert ..., ezért ..."
+    *   ⟪यतस्⟫ ... almondat ... ⟪ततस्⟫ ... főmondat ... = „mert ..., ezért ..."
+    *   ⟪यस्मात्⟫ ... almondat ... ⟪तस्मात्⟫ ... főmondat ... = „mert ..., ezért ..."
 *   instrumentális:
-*   ⟪येन⟫ ... almondat ... ⟪तेन⟫ ... főmondat ... = „amivel/mert ..., azzal / ezért ..."
+    *   ⟪येन⟫ ... almondat ... ⟪तेन⟫ ... főmondat ... = „amivel/mert ..., azzal / ezért ..."
 :::
 Példa:
 
@@ -450,7 +450,7 @@ Magyarázat: ⟪राजा⟫ = Nominativ egyes szám a következőhöz: ⟪�
 
 ⟪वार्त्ता⟫ ⟪धान्यपशुहिरण्यकुप्यविष्टिप्रदानादौपकारिकी⟫ ⟪॥⟫
 
-2. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. egy herceg kiképzéséről:
+⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. egy herceg kiképzéséről:
 
 ⟪तस्माद्दण्डमूला⟫sig[⟪स्तिस्रो⟫] ⟪विद्याः⟫ ⟪॥१॥⟫  
 ⟪विनयमूलो⟫ ⟪दण्डः⟫ sig[⟪प्राणभृतां⟫] ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  

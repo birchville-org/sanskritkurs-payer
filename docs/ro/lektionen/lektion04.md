@@ -1,9 +1,9 @@
 ---
-title: Lecția 4
-subtitle: "Pronumele interogative și pronumele demonstrative la nominativ"
+title: Lektion 4
+subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
 lesson_id: 4
 last_reconstructed: 2026-05-07
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -35,7 +35,7 @@ status: stable
 ::: grammar-box
 | **Steme** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫:br"el, ea, el; acela, aceea, acela":br(Menționat)** | **etad = ⟪एतद्⟫:br"acest, această, acest":br(Foarte aproape de vorbitor)** | **idam = ⟪इदम्⟫:br"acest, această, acest":br(Aproape)** |
+| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
 | **Nominativ singular** ||||
 | **Neutrum** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
 | **Maskulinum** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
@@ -81,19 +81,17 @@ Prin intermediul acestor pronume se formează, de exemplu, următoarele formule 
 | | | | |
 | :--- | :--- | :--- | :--- |
 | **Singular** | **Neutru** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "Ce este acesta?" |
-| | **Masculin** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Cine este acesta?":br"Cine este acesta?" |
-| | **Feminin** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Cine este aceasta?":br"Cine este aceasta?" |
+| ^^ | **Masculin** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Cine este acesta?":br"Cine este acesta?" |
+| ^^ | **Feminin** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Cine este aceasta?":br"Cine este aceasta?" |
 | **Plural** | **Neutru** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
-| | **Masculin** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
-| | **Feminin** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
+| ^^ | **Masculin** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
+| ^^ | **Feminin** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
 :::
 Un exemplu de alte întrebări:
 
 > viṣṇuḥ kaḥ? = ⟪विष्णुः⟫ ⟪कः⟫ Răspuns: viṣṇur īśvaraḥ = ⟪विष्णुरीश्वरः⟫. (În această construcție nominală, se poate plasa subiectul, de exemplu, la început, pentru a sublinia legătura cu întrebarea.)
 
 NOTĂ: Răspunsurile pe care le puteți oferi la astfel de întrebări, folosind cunoștințele dvs. actuale de sanscrită, nu corespund, desigur, în niciun fel unei exprimări idiomatice perfecte a sanscritei.
-
----
 
 ## 4.2. Exercițiu
 

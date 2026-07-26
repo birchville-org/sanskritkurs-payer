@@ -1,9 +1,9 @@
 ---
-title: Lecția 44
-subtitle: "Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) a rădăcinilor neatomice cu sufix cu final vocalică"
+title: Lektion 44
+subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix"
 lesson_id: 44
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -24,10 +24,10 @@ status: stable
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralizare! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralizare! | ⟪सुनुध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪सुनोषि⟫:brCerebralisation! | ⟪सुनुथ⟫ | ⟪सुनुषे⟫:brCerebralisation! | ⟪सुनुध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
 :::
 ### 44.1.2. A opta clasă de prezent (⟪तनादि⟫)
 
@@ -36,30 +36,30 @@ status: stable
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪तनोषि⟫ | ⟪तनुथ⟫ | ⟪तनुषे⟫ | ⟪तनुध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अतनोस्⟫ | ⟪अतनुत⟫ | ⟪अतनुथास्⟫ | ⟪अतनुध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪तनुयास्⟫ | ⟪तनुयात⟫ | ⟪तन्वीथास्⟫ | ⟪तन्वीध्वम्⟫ |
 :::
 ⟪कृ⟫ 8U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪करोषि⟫ | ⟪कुरुथ⟫ | ⟪कुरुषे⟫ | ⟪कुरुध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
 :::
 ### 44.1.3. A noua clasă de prezent (⟪क्र्यादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralizare! | ⟪क्रीणीध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪क्रीणासि⟫ | ⟪क्रीणीथ⟫ | ⟪क्रीणीषे⟫:brCerebralisation! | ⟪क्रीणीध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अक्रीणास्⟫ | ⟪अक्रीणीत⟫ | ⟪अक्रीणीथास्⟫ | ⟪अक्रीणीध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪क्रीणीयास्⟫ | ⟪क्रीणीयात⟫ | ⟪क्रीणीथास्⟫:brkrī + n + ī-thās | ⟪क्रीणीध्वम्⟫:brkrī + n + ī-dhvam |
 :::
 ## 44.2. Despre Wortsandhi
 
@@ -98,68 +98,68 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪द्वेक्षि⟫ | ⟪द्विष्ठ⟫ | ⟪द्विक्षे⟫ | ⟪द्विड्ढ्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अद्वेट्⟫:bra-dveṣ + s | ⟪अद्विष्ट⟫ | ⟪अद्विष्ठास्⟫ | ⟪द्विड्ढ्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪द्विष्यास्⟫ | ⟪द्विष्यात⟫ | ⟪द्विषीथास्⟫ | ⟪द्विषीध्वम्⟫ |
 :::
 ⟪आस्⟫ 2Ā
 
 ::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
-| --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
+| --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪आस्से⟫ | ⟪आध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪आस्थास्⟫ | ⟪आध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪आसीथास्⟫ | ⟪आसीध्वम्⟫ |
 :::
 ⟪दुह्⟫ 2U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अधोक्⟫:brdin: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪धोक्षि⟫ | ⟪दुग्ध⟫ | ⟪धुक्षे⟫ | ⟪धुग्ध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अधोक्⟫:braus: adhokṣ | ⟪अदुग्ध⟫ | ⟪अदुग्धास्⟫ | ⟪अधुग्ध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪दुह्यास्⟫ | ⟪दुह्यात⟫ | ⟪दुहीथास्⟫ | ⟪दुहीध्वम्⟫ |
 :::
 ⟪इ⟫ 2P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \&lt;⟪इषे⟫\&gt; | \&lt;⟪इध्वे⟫\&gt; |
-| **Imperfect**:br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
-| **Optativ**:br⟪विधिलिङ्⟫ |  ⟪इयास्⟫ |  ⟪इयात⟫ |  ⟪इयीथास्⟫:briy-ī-thās |  ⟪इयीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪एषि⟫ | ⟪इथ⟫ | \<⟪इषे⟫\> | \<⟪इध्वे⟫\> |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪ऐस्⟫:bra + e + s | ⟪ऐत⟫:bra + i + ta | | |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪इयास्⟫ | ⟪इयात⟫ | ⟪इयीथास्⟫:briy-ī-thās | ⟪इयीध्वम्⟫ |
 :::
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
-| --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:brdin: *hn + ta |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अहन्⟫:brdin: a-han + s | ⟪अहत⟫:brdin: a-*hn + ta |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
+| --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪हंसि⟫:brhan + si | ⟪हथ⟫:braus: *hn + ta |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अहन्⟫:braus: a-han + s | ⟪अहत⟫:braus: a-*hn + ta |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪हन्यास्⟫ | ⟪हन्यात⟫ |
 :::
 ⟪स्तु⟫ 2U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪स्तौषि⟫:br⟪स्तवीषि⟫ | ⟪स्तुथ⟫:br⟪स्तुवीथ⟫ | ⟪स्तुषे⟫:br⟪स्तुवीषे⟫ | ⟪स्तुध्वे⟫:br⟪स्तुवीध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अस्तौस्⟫:br⟪अस्तवीस्⟫ | ⟪स्तुत⟫:br⟪अस्तुवीत⟫ | ⟪अस्तुथास्⟫:br⟪अस्तुवीथास्⟫ | ⟪स्तुध्वम्⟫:br⟪अस्तुवीध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪स्तुयास्⟫:br⟪स्तुवीयास्⟫ | ⟪स्तुयात⟫:br⟪स्तुवीयात⟫ | ⟪स्तुवीथास्⟫:brstu + ī-thās | ⟪स्तुवीध्वम्⟫ |
 :::
 ⟪अस्⟫ 2P (de reținut în mod special!)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
-| --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ***⟪असि⟫*** | ***⟪स्थ⟫*** |
-| **Imperfect**:br⟪लङ्⟫ | ***⟪आसीस्⟫*** | ***⟪आस्त⟫*** |
-| **Optativ**:br⟪विधिलिङ्⟫ | ***⟪स्यास्⟫*** | ***⟪स्यात⟫*** |
+| --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ***⟪असि⟫*** | ***⟪स्थ⟫*** |
+| **Imperfekt** :br⟪लङ्⟫ | ***⟪आसीस्⟫*** | ***⟪आस्त⟫*** |
+| **Optativ** :br⟪विधिलिङ्⟫ | ***⟪स्यास्⟫*** | ***⟪स्यात⟫*** |
 :::
 ⟪तत्त्वमसि⟫
 
@@ -167,20 +167,19 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
-| --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
+| --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪शास्सि⟫ | ⟪शिष्ठ⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अशास्⟫ | ⟪अशिष्ट⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪शिष्यास्⟫ | ⟪शिष्यात⟫ |
 :::
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
-| --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
-
-| **Imperfect**:br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
+| --- | --- | --- |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪अत्सि⟫ | ⟪अत्थ⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | 2.sg. ⟪आदस्⟫:br3.sg. ⟪आदत्⟫ | ⟪अत्त⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪अद्यास्⟫ | ⟪द्यात⟫ |
 :::
 ## 44.4. Vocativul (⟪आमन्त्रितम्⟫)
 
@@ -194,15 +193,16 @@ Gramaticienii indigeni nu consideră vocativul (⟪आमन्त्रित�
 :::
 ::: indent
 ⟪बाल⟫ ⟪किं⟫ ⟪वदसि⟫ = „Copile, ce spui?”
-:::: important
+:::
+::: important
 **Evitați traducerea vocativului cu „**O** ...”. În limba germană folosim constant vocativi, de exemplu când spunem: „Dragule, ce gătim astăzi?”. Nimeni nu va spune în acest sens: „**O** dragule, ce gătim astăzi?”**
-::::
 :::
 ::: media
 ![](/images/lekt4402.webp)
 Ilustr.: Utilizarea corectă a „O” în limba germană: **„O Doamne!”**
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4402))
 :::
+
 ::: grammar-box
 **Formele vocativului la plural și dual sunt identice cu cele ale nominativului (⟪प्रथमा⟫) la plural, respectiv dual.**
 
@@ -234,11 +234,11 @@ Inf. ⟪यातुम्⟫
 din care:
 
 **⟪यान⟫** n.: mers, drum, vehicul
-:::: media
+:::
+::: media
 ![](/images/lekt4403.webp)
 Fig.: ⟪रेल्यानम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4403))
-::::
 :::
 **⟪शी⟫** 2Ā ⟪शेते⟫ : a se întinde. Această rădăcină are în toate formele temei prezentului **gradul înalt:** 1.sg.Ind.Prez.Ā ***⟪शेये⟫*** (śe + e). Formele următoare sunt deosebit de importante: 3.pl.Ind.Prez.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
 
@@ -252,11 +252,11 @@ Inf. ⟪शयितुम्⟫
 din care:
 
 **⟪शयन⟫** n.: culcare, pat
-:::: media
+:::
+::: media
 ![](/images/lekt4404.webp)
 Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4404))
-::::
 :::
 ⟪नन्द्⟫ 1P ⟪नन्दति⟫ : a se bucura de (⟪तृतीयया⟫)
 
@@ -273,11 +273,11 @@ Gerundiv ⟪नन्द्य⟫
 din care:
 
 **⟪नन्दिन्⟫** 3: caracterizat prin (o) bucurie (specială), vesele; m. numele animalului de călărie (⟪वहन⟫) al lui ⟪शिव⟫ (un taur)
-:::: media
+:::
+::: media
 ![](/images/lekt4405.webp)
 Fig.: ⟪नन्दी⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4405))
-::::
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : a-și găsi bucuria în (⟪द्वितीयया⟫), a întâmpina pe cineva cu bucurie, a bineveni
 
@@ -296,11 +296,11 @@ Absol. -⟪यम्य⟫
 
 ::: indent
 PPP ⟪आयत⟫ 3: întins lung
-:::: media
+:::
+::: media
 ![](/images/lekt4406.webp)
 Fig.: ⟪आयतो⟫ ⟪मरुः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4406))
-::::
 :::
 ⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : a oferi, a prezenta, a predă
 
@@ -319,11 +319,11 @@ Inf. ⟪यतितुम्⟫
 din care:
 
 **⟪यत्न⟫** m.: efort, strădanie
-:::: media
+:::
+::: media
 ![](/images/lekt4407.webp)
 Fig.: ⟪यत्नेन⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4407))
-::::
 :::
 **⟪रभ्⟫** 1Ā ⟪रभते⟫ (formă alternativă la ⟪लभ्⟫): a prinde
 
@@ -344,12 +344,11 @@ Absol. -⟪रभ्य⟫
 Vezi:
 
 **Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concepte fundamentale ale regulilor monahale și ale dreptului monahal al Theravāda. -- Partea I. -- (Materiale pentru conceptele fundamentale ale buddhismului). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
-
-:::: media
+:::
+::: media
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt4408))
-::::
 :::
 ## 44.6. Exercițiu
 
@@ -476,7 +475,6 @@ Determinați următoarele forme:
 38.  ⟪पिपूर्मः⟫
 39.  ⟪कैः⟫
 40.  ⟪कृत्येन⟫
-
 
 ::: deleteme-box
 

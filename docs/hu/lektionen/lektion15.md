@@ -1,10 +1,10 @@
 ---
-title: 15. lecke
+title: Lektion 15
 subtitle: "⟪सुभाषितम्⟫"
 lesson_id: 15
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 15. lecke
@@ -151,11 +151,11 @@ pl.
 ⟪गुणवत्पुत्रकृतपुण्यम्⟫
 
 ::: indent
-1. szint (fő szünet): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+szint (fő szünet): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
-2. szint (1. mellékszünet): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+szint (1. mellékszünet): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
-3. szint (2. mellékszünet): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+szint (2. mellékszünet): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
 = „a dicséretes cselekedet (az érdem), amelyet az én erényes fiam elkövetett”
 :::
@@ -179,7 +179,7 @@ pl.
 ⟪पुण्यवत्पुत्रकृतम्⟫
 
 ::: indent
-1. szint: vagy – vagy
+szint: vagy – vagy
 
 1. ⟪पुण्यवत्पुत्रेण⟫ ⟪कृतम्⟫
 2. ⟪पुण्यवत्पुत्रस्य⟫ ⟪कृतम्⟫
@@ -190,7 +190,7 @@ pl.
 1. ⟪पुण्यवता⟫ ⟪पुत्रेण⟫ ⟪कृतम्⟩ = „a dicséretes fiam által elvégzett”
 2. ⟪पुण्यवतः⟩ ⟪पुत्रस्य⟩ ⟪कृतम्⟩ = „a dicséretes fiam cselekedete”
 3. 1. ⟪पुण्यवत्⟩  ⟪पुत्रेण⟩ ⟪कृतम्⟩ = „a dicséretes, a fiam által elvégzett”
-2. ⟪पुण्यवत्⟩  ⟪पुत्रस्य⟩ ⟪कृतम्⟩ = „a dicséretes cselekedet a fiam által”
+   2. ⟪पुण्यवत्⟩  ⟪पुत्रस्य⟩ ⟪कृतम्⟩ = „a dicséretes cselekedet a fiam által”
 :::
 ## 15.6. A összetételek előtagjának formája (⟪समास⟩ m.)
 ::: grammar-box
@@ -205,19 +205,19 @@ z.B.
 :::
 ## 15.7. A ⟪तत्पुरुष⟫ felosztása
 
-1. ⟪प्रथमातत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟫ állapota (nominativus) (⟪प्रथमा⟫)
-2. ⟪द्वितीयातत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟫ állapota (accusativus) (⟪द्वितीया⟫)
-3. ⟪तृतीयातत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (instrumentalis) (⟪तृतीया⟫)
-4. ⟪चतुर्थीतत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (dativus) (⟪चतुर्थी⟫)
-5. ⟪पञ्चमीतत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (ablativus) (⟪पज्चमी⟫)
-6. ⟪षष्ठीतत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (genitivus) (⟪षष्ठी⟫)
-7. ⟪सप्तमीतत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (lokativus) (⟪सप्तमी⟫)
+1.  ⟪प्रथमातत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟫ állapota (nominativus) (⟪प्रथमा⟫)
+2.  ⟪द्वितीयातत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟫ állapota (accusativus) (⟪द्वितीया⟫)
+3.  ⟪तृतीयातत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (instrumentalis) (⟪तृतीया⟫)
+4.  ⟪चतुर्थीतत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (dativus) (⟪चतुर्थी⟫)
+5.  ⟪पञ्चमीतत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (ablativus) (⟪पज्चमी⟫)
+6.  ⟪षष्ठीतत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (genitivus) (⟪षष्ठी⟫)
+7.  ⟪सप्तमीतत्पुरुषः⟫ : Az első tag ⟪विग्रहवाक्य⟥ állapota (lokativus) (⟪सप्तमी⟫)
 
 *   ⟪कर्मधारयः⟫ : appozíciós Tatpuruṣa, többek között:
-*   ⟪उपमानपूर्वपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ a ⟪इव⟫ taggal az első elem után
-*   ⟪उपमानोत्तरपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ a ⟪इव⟫ taggal a második elem után
-*   ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ a ⟪एव⟫ taggal
-*   ⟪द्विगुसमासः⟫ : számjel az első tagban
+    *   ⟪उपमानपूर्वपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ a ⟪इव⟫ taggal az első elem után
+    *   ⟪उपमानोत्तरपदकर्मधारयः⟫ : ⟪विग्रहवाक्य⟫ a ⟪इव⟫ taggal a második elem után
+    *   ⟪रूपकसमासः⟫ : ⟪विग्रहवाक्य⟫ a ⟪एव⟫ taggal
+    *   ⟪द्विगुसमासः⟫ : számjel az első tagban
 *   ⟪नञ्तत्पुरुषः⟫ (⟪निषेधतत्पुरुषः⟫) : tagadás az első tagban, a- vagy an- előtaggal
 *   ⟪गतिसमासः⟫ : előtagban prepozícióval
 *   ⟪प्रथमातत्पुरुषः⟫ stb. (lásd fent)
@@ -232,7 +232,7 @@ z.B.
 6.  ⟪संभावनपूर्वपदकर्मधारयः⟫ : mindkét tag ugyanarra a személyre vagy dologra utal, pl. ⟪कालिदासकविः⟫ = ⟪कालिदास⟫ ⟪इति⟫ ⟪कविः⟫ = „Kālidāsa költő”
 7.  ⟪कर्मधारयः⟫ a ⟪कु⟫ / ⟪कद्⟫ első taggal: „rossz...”
 8.  ⟪कर्मधारयः⟫ a ⟪किम्⟫ első taggal: kifogás
-9.   PPP + megtagadott PPP: „részben”, pl. ⟪कृताकृतम्⟫ = „részben megcsinálva”
+9.  PPP + megtagadott PPP: „részben”, pl. ⟪कृताकृतम्⟫ = „részben megcsinálva”
 10.  ⟪द्विगुसमासः⟫ : számjel az első tagban
 
 ## 15.8. Szószedet

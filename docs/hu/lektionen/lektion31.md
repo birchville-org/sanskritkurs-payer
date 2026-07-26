@@ -1,5 +1,5 @@
 ---
-title: 31. lecke
+title: Lektion 31
 lesson_id: 31
 status: stable
 ---
@@ -26,11 +26,11 @@ Példák:
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
-| **Kijelentő mód** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(vor gutturális mássalhangzó a szó belsejében az orrhangokat -ṅ- helyettesíti) |
+| **Kijelentő mód** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) |
 | | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
-**Kívánó mód (optativus)** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
+| **Kívánó mód (optativus)** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
-**Jelen idő résznév** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brnőnemű: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
+| **Partizip Jelen idő** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
 :::
 ⟪रुध्⟫ 7U "megállítani, leállítani"
@@ -43,7 +43,7 @@ Példák:
 | | **3. pl.** | ⟪रुन्धन्ति⟫:brru-n-dh-anti | ⟪रुन्धते⟫:brru-n-dh-ate |
 | **Kívánó mód (optativus)** | **3. sg.** | ⟪रुन्ध्यात्⟫:brru-n-dh-yā-t | ⟪रुन्धीत⟫:brru-n-dh-ī-ta |
 | | **3. pl.** | ⟪रुन्ध्युर्⟫:brru-n-dh-y-ur | ⟪रुन्धीरन्⟫:brru-n-dh-ī-ran |
-| **Particium praesentis** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
+| **Partizip Jelen idő** | | ⟪रुन्धन्त्⟫-:brru-n-dh-ant-:brfem.: ⟪रुन्धती⟫:brru-n-dh-at-ī | |
 
 :::
 ::: grammar-box
@@ -55,8 +55,8 @@ Példa:
 
 ::: indent
 *   Indikativus praesentis
-*   3.sg.P. ⟪भनक्ति⟫ (bha-na + j + ti)
-*   3.pl.P. ⟪भञ्जन्ति⟫ (bha + n + j-anti)
+    *   3.sg.P. ⟪भनक्ति⟫ (bha-na + j + ti)
+    *   3.pl.P. ⟪भञ्जन्ति⟫ (bha + n + j-anti)
 *   Futurum: ⟪भङ्क्ष्यति⟫ (bha + n + j + sya + ti)
 *   Passivum: ⟪भज्यते⟫ (vagy eredeti tőből ⟪भज्⟫ vagy *bhñj-ya-te-ből)
 *   PPP: ⟪भग्न⟫ (lehet, hogy *bhñj + na-ból)

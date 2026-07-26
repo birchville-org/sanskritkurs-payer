@@ -1,9 +1,9 @@
 ---
-title: Lecția 40
+title: Lektion 40
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -26,11 +26,11 @@ status: stable
 ⟪पादं⟫ ⟪शिष्यः⟫ ⟪स्वमेधया⟫ ⟪।⟫  
 ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫  
 ⟪पादं⟫ ⟪कालक्रमेण⟫ ⟪च⟫ ⟪॥३॥⟫
-:::: media
+:::
+::: media
 ![lekt4005.jpg](/images/lekt4005.webp)
 Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4005))
-::::
 :::
 ## 40.2. Formarea formelor verbale ale persoanei I Perfect (⟪लिट्⟫)
 
@@ -38,9 +38,9 @@ Sufixele persoanei I (⟪तृतीयः⟫) în Perfect (⟪लिट्⟫)
 
 ::: grammar-box
 
-| **⟪परस्मैपदम्⟫** | ← | **⟪आत्मनेपदम्⟫** | ← |
+| ⟪परस्मैपदम्⟫ | ← | ⟪आत्मनेपदम्⟫ | ← |
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **-a** | **-ma** | **-e** | **-mahe** |
 
 :::
@@ -114,18 +114,18 @@ Verbe care urmează acest tip:
 
 ::: indent
 *   1.sg.P ⟪बिभेद⟫
-    
+
 *   1.pl.P ⟪बिभिदिम⟫
-    
+
 *   1.sg.Ā ⟪बिभिदे⟫
-    
+
 *   1.pl.Ā ⟪बिभिदिमहे⟫
 :::
 ⟪मुह्⟫ 4P facultativ ⟪अनिट्⟫
 
 ::: indent
 *   1.sg.P ⟪मुमोह⟫
-    
+
 *   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
 :::
 ### 40.2.3. Tipul III al Perfectului: Rădăcină puternică, nivel înalt/îndelungat
@@ -143,40 +143,40 @@ Verbe care urmează acest tip:
 
 ::: indent
 *   1.sg.P ⟪इयाय⟫ ⟪।⟫ ⟪इयय⟫ (i+e+a)
-    
+
 *   1.pl.P ⟪ईयिम⟫ (i+iy+i+ma)
 :::
 ⟪नी⟫ 1U
 
 ::: indent
 *   1.sg.P ⟪निनाय⟫ ⟪।⟫ ⟪निनय⟫
-    
+
 *   1.pl.P ⟪निन्यिम⟫ (ni-nī + i + ma !!!)
-    
+
 *   1.sg.Ā ⟪निन्ये⟫
-    
+
 *   1.pl.Ā ⟪निन्यिमहे⟫
 :::
 ⟪स्तु⟫ 2U strict ⟪अनिट्⟫
 
 ::: indent
 *   1.sg.P ⟪तुष्टाव⟫ ⟪।⟫ ⟪तुष्टव⟫ (tu-sto + a)
-    
+
 *   1.pl.P ⟪तुष्टुम⟫
-    
+
 *   1.sg.Ā ⟪तुष्टुवे⟫
-    
+
 *   1.pl.Ā ⟪तुष्टुमहे⟫
 :::
 ⟪कृ⟫ 8U strict ⟪अनिट्⟫
 
 ::: indent
 *   1.sg.P ⟪चकार⟫ ⟪।⟫ ⟪चकर⟫
-    
+
 *   1.pl.P ⟪चकृम⟫
-    
+
 *   1.sg.Ā ⟪चक्रे⟫
-    
+
 *   1.pl.Ā ⟪चकृमहे⟫
 :::
 #### 40.2.3.2. Tipul IIIb al Perfectului: Rădăcină puternică, nivel înalt/îndelungat, rădăcină slabă, nivel înalt
@@ -190,25 +190,25 @@ Verbe care urmează acest tip:
 
 ::: indent
 *   1.sg.P ⟪पपार⟫ ⟪।⟫ ⟪पपर⟫
-    
+
 *   1.pl.P ⟪पपरिम⟫
 :::
 ⟪स्मृ⟫ 1P
 
 ::: indent
 *   1.sg.P ⟪सस्मार⟫ ⟪।⟫ ⟪सस्मर⟫
-    
+
 *   1.pl.P ⟪सस्मरिम⟫
 :::
 ⟪संस्कृ⟫ 8U
 
 ::: indent
 *   1.sg.P ⟪सञ्चस्कार⟫ ⟪।⟫ ⟪सञ्चस्कर⟫
-    
+
 *   1.pl.P ⟪सञ्चस्करिम⟫
-    
+
 *   1.sg.Ā ⟪सञ्चस्करे⟫
-    
+
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
 :::
 ### 40.2.4. Tipul IV de Perfect: Rădăcini cu -ā / -ai
@@ -223,11 +223,11 @@ Verbe care urmează acest tip:
 
 ::: indent
 *   Pers. sg. P ⟪ददौ⟫
-    
+
 *   Pers. pl. P ⟪ददिम⟫ (da-d-i-ma)
-    
+
 *   Pers. sg. Ā ⟪ददे⟫
-    
+
 *   Pers. pl. Ā ⟪ददिमहे⟫
 :::
 ### 40.2.5. Tipul Perfectului V: Consonant-a-Consonant
@@ -251,50 +251,50 @@ Verbe care urmează acest tip:
 
 ::: indent
 *   1.sg.P ⟪जगाम⟫ ⟪।⟫ ⟪जगम⟫
-    
+
 *   1.pl.P ⟪जग्मिम⟫ (ja-gm-i-ma)
 :::
 ⟪हन्⟫ 2P
 
 ::: indent
 *   1.sg.P ⟪जघान⟫ ⟪।⟫ ⟪जघन⟫
-    
+
 *   1.pl.P ⟪जघ्निम⟫
 :::
 ⟪जन्⟫ 4Ā
 
 ::: indent
 *   1.sg.Ā ⟪जज्ञे⟫
-    
+
 *   1.pl.Ā ⟪जज्ञिमहे⟫
 :::
 ⟪वच्⟫ 2P
 
 ::: indent
 *   1.sg.P ⟪उवाच⟫ ⟪।⟫ ⟪उवच⟫
-    
+
 *   1.pl.P ⟪ऊचिम⟫ (u + uc-ima)
 :::
 ⟪वद्⟫ 1P (Ā)
 
 ::: indent
 *   1.sg.P ⟪उवाद⟫ ⟪।⟫ ⟪उवद⟫
-    
+
 *   1.pl.P ⟪ऊदिम⟫
-    
+
 *   1.sg.Ā ⟪ऊदे⟫
-    
+
 *   1.pl.Ā  ⟪ऊदिमहे⟫
 :::
 ⟪यज्⟫ 1U
 
 ::: indent
 *   1.sg.P ⟪इयाज⟫ ⟪।⟫ ⟪इयज⟫
-    
+
 *   1.pl.P ⟪ईजिम⟫
-    
+
 *   1.sg.Ā ⟪ईजे⟫
-    
+
 *   1.pl.Ā ⟪ईजिमहे⟫
 :::
 #### 40.2.5.2. Tipul Perfectului Vb: Consonant-a-Consonant, consonanta inițială nu este guturală, aspirată, h, Rădăcină slabă fără reduplicare, cu -e-
@@ -303,11 +303,11 @@ Verbe care urmează acest tip:
 
 ::: indent
 *   1.sg.P ⟪पपाच⟫ ⟪।⟫ ⟪पपच⟫
-    
+
 *   1.pl.P ⟪पेचिम⟫
-    
+
 *   1.sg.Ā ⟪पेचे⟫
-    
+
 *   1.pl.Ā ⟪पेचिमहे⟫
 :::
 #### 40.2.5.3. Tipul Perfectului Vc: Consonant-a-Consonant, rădăcină slabă, gradul intens
@@ -320,11 +320,11 @@ Verbe care urmează acest tip:
 
 ::: indent
 *   1.sg.P ⟪चक्राम⟫ ⟪।⟫ ⟪चक्रम⟫
-    
+
 *   1.pl.P ⟪चक्रमिम⟫
-    
+
 *   1.sg.Ā ⟪चक्रमे⟫
-    
+
 *   1.pl.Ā ⟪चक्रमिमहे⟫
 :::
 ### 40.2.6. Formări speciale ale Perfectului
@@ -333,7 +333,7 @@ Verbe care urmează acest tip:
 
 ::: indent
 *   1.sg.P ⟪वेद⟫ (= 3.sg.P)
-    
+
 *   1.pl.P ⟪विद्म⟫
 :::
 ⟪अह्⟫ Persoana I nu este uzuală!
@@ -342,14 +342,14 @@ Verbe care urmează acest tip:
 
 ::: indent
 *   1.sg.P ⟪बभूव⟫ (= 3.sg.P)
-    
+
 *   1.pl.P ⟪बभूविम⟫
 :::
 ⟪जि⟫ Persoana I
 
 ::: indent
 *   1.sg.P ⟪जिगाय⟫ (= 3.sg.P) ⟪।⟫ ⟪जिगय⟫
-    
+
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
 :::
 ## 40.3. Formarea formelor verbale a primei persoane a perfectului perifrastic (⟪अनुप्रयोगलिट्⟫)
@@ -371,14 +371,14 @@ Perfectul perifrastic se formează de către:
 
 ::: indent
 *   1.sg.Ā ⟪ईक्षां⟫ ⟪चक्रे⟫ ⟪।⟫ ⟪ईक्षामास⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूव⟫
-    
+
 *   1.pl.Ā ⟪ईक्षां⟫ ⟪चकृमहे⟫ ⟪।⟫ ⟪ईक्षामासिम⟫ ⟪।⟫ ⟪ईक्षां⟫ ⟪बभूविम⟫
 :::
 ⟪बन्ध्⟫ Cauzativ P: ⟪बन्धयति⟫
 
 ::: indent
 *   1.sg.P ⟪बन्धयां⟫ ⟪चकर⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪चकार⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयामास⟫ (= 3.sg.P) ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूव⟫ (= 3.sg.P)
-    
+
 *   1.pl.P ⟪बन्धयां⟫ ⟪चकृम⟫ ⟪।⟫ ⟪बन्धयामासिम⟫ ⟪।⟫ ⟪बन्धयां⟫ ⟪बभूविम⟫
 :::
 ## 40.4. Aspecte sintactice privind prima persoană (⟪तृतीयः⟫)
@@ -393,15 +393,15 @@ Forma pronumelui personal (pronumelui personal) este aceeași pentru toate genur
 :::
 ::: grammar-box
 
-| | **⟪एकवचनम्⟫**:br"eu" | **⟪बहुवचनम्⟫**:br"noi" |
+| | ⟪एकवचनम्⟫ :br"ich" | ⟪बहुवचनम्⟫ :br"wir" |
 | :---: | :---: | :---: |
-| **⟪प्रथमा⟫** | **⟪अहम्⟫** | **⟪वयम्⟫** |
-| **⟪द्वितीया⟫** | **⟪माम्⟫** / **⟪मा⟫** | **⟪अस्मान्⟫** / **⟪नस्⟫** |
-| **⟪तृतीया⟫** | **⟪मया⟫** | **⟪अस्माभिस्⟫** |
-| **⟪चतुर्थी⟫** | **⟪मह्यम्⟫** / **⟪मे⟫** | **⟪अस्मभ्यम्⟫** / **⟪नस्⟫** |
-| **⟪पञ्चमी⟫** | **⟪मत्⟫** | **⟪अस्मत्⟫** |
-| **⟪षष्ठी⟫** | **⟪मम⟫** / **⟪मे⟫** | **⟪अस्माकम्⟫** / **⟪नस्⟫** |
-| **⟪सप्तमी⟫** | **⟪मयि⟫** | **⟪अस्मासु⟫** |
+| ⟪प्रथमा⟫ | ⟪अहम्⟫ | ⟪वयम्⟫ |
+| ⟪द्वितीया⟫ | ⟪माम्⟫ / ⟪मा⟫ | ⟪अस्मान्⟫ / ⟪नस्⟫ |
+| ⟪तृतीया⟫ | ⟪मया⟫ | ⟪अस्माभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪मह्यम्⟫ / ⟪मे⟫ | ⟪अस्मभ्यम्⟫ / ⟪नस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪मत्⟫ | ⟪अस्मत्⟫ |
+| ⟪षष्ठी⟫ | ⟪मम⟫ / ⟪मे⟫ | ⟪अस्माकम्⟫ / ⟪नस्⟫ |
+| ⟪सप्तमी⟫ | ⟪मयि⟫ | ⟪अस्मासु⟫ |
 
 :::
 ::: grammar-box
@@ -477,12 +477,13 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 din care:
 
 ⟪तीर्थ⟫ n.: Vad, loc de baie sacru, loc de pelerinaj
-:::: media
+:::
+::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4003))
-::::
 :::
+
 ::: indent
 ⟪तीर्थङ्कर⟫ m. (din: ⟪तीर्थम्⟫+ ⟪कृ⟫): Constructor de vad (peste suferință) = cei 24 învățători Jaina
 :::
@@ -499,11 +500,11 @@ Fig.: ⟪तीर्थङ्करः⟫
 din care:
 
 ⟪अवतार⟫ m.: (Coborâtor, Coborâre) Incarnare a unui zeu, în special a lui Viṣṇu, cele 10 incarnări (vezi Basham, Minuni, p. 304 - 309)
-:::: media
+:::
+::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
 Fig.: ⟪विष्णोर्दशावताराः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4001))
-::::
 :::
 ⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : a dormi, a se culca
 
@@ -521,11 +522,11 @@ din care:
 ⟪स्वप्न⟫ m.: Somn, Vis
 
 ⟪सुप्ति⟫ f. (din \*svp-ti): Somn, în special somn profund
-:::: media
+:::
+::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
 Fig.: ⟪स्वपन्ति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4004))
-::::
 :::
 ## 40.7. Exercițiu
 

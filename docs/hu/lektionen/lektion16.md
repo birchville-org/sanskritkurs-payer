@@ -1,9 +1,9 @@
 ---
-title: 16. lecke
-subtitle: "A szóvégi mássalhangzók sandhijáról"
+title: Lektion 16
+subtitle: "Zum Sandhi auslautender Konsonanten"
 lesson_id: 16
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
+category: "Grammatik"
 status: stable
 ---
 
@@ -19,9 +19,9 @@ A szó végén álló gutturális, retroflexus, dentális és labiális zárhang
 
 |   |   |
 | :--- | :--- |
-**szünetben és hangtalan mássalhangzók előtt** **a megfelelő hangtalan nem aspirált mássalhangzóval való helyettesítés:** :br **pl.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
-**hangzó mássalhangzók előtt** **a megfelelő hangzó nem aspirált mássalhangzóval való helyettesítés:** :br **pl.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
-**nazálisok előtt** **a megfelelő nazálissal való helyettesítés:** :br **pl.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
+| **pausában és zöngétlen hangok előtt** | **Helyettesítés a nekik megfelelő zöngétlen, nem aspirált hanggal:** :br **pl.** :br :indent -g + p- » -kp- :br :indent -d + ph- » -tph- :br :indent -dh + p- » -tp- |
+| **zöngés, nem nazális hangok előtt** | **Helyettesítés a nekik megfelelő zöngés, nem aspirált hanggal:** :br **pl.** :br :indent -t + g- » -dg- :br :indent -k + b- » -gb- :br :indent -dh + d- » -dd- :br :indent -k + a- » -ga- |
+| **nazálisok előtt** | **Helyettesítés a nekik megfelelő nazálissal:** :br **pl.** :br :indent -t + n- » -nn- :br :indent -p + n- » -mn- |
 
 :::
 A fenti szabály kivétele:
@@ -136,7 +136,7 @@ A) Alakítsa át a következő kifejezéseket Tatpuruṣává, és fordítsa le 
 :::
 ⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
-⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
+⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
 ⟪७⟫. ⟪कवेरुक्त्याः⟫ ⟪सत्यम्⟫ ⟪।⟫
 
@@ -232,11 +232,11 @@ B) Fordítsa le, és oldja fel az összes szanszkrit összetett szót:
 ::: indent
 Magyarázatok;
 
-7. mondat: ⟪कृषिपाशुपाल्ये⟫ Kétes szám, alany- és tárgyeset: Dvandva, amely két „dolog”ot jelöl
+mondat: ⟪कृषिपाशुपाल्ये⟫ Kétes szám, alany- és tárgyeset: Dvandva, amely két „dolog”ot jelöl
 
-8. mondat: ⟪कर्म⟫ alany- és tárgyeset, egyes szám, középnem a ⟪कर्मन्⟫ „cselekvés” szóból
+mondat: ⟪कर्म⟫ alany- és tárgyeset, egyes szám, középnem a ⟪कर्मन्⟫ „cselekvés” szóból
 
-13. mondat: ⟪सर्वेषाम्⟫ birtokos eset, többes szám, nemek szerinti ragozás a ⟪सर्व⟫ „mindenki, mind” (melléknév, nem úgy ragozható, mint a deva)
+mondat: ⟪सर्वेषाम्⟫ birtokos eset, többes szám, nemek szerinti ragozás a ⟪सर्व⟫ „mindenki, mind” (melléknév, nem úgy ragozható, mint a deva)
 :::
 ⟪३⟫. ⟪आन्वीक्षिकीत्रयीवार्त्तानां⟫ ⟪योगक्षेमसाधनो⟫ ⟪दण्डः⟫, ⟪तस्य⟫ ⟪नीतिर्दण्डनीतिः⟫ ⟪॥कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪४⟫.⟪३॥⟫
 

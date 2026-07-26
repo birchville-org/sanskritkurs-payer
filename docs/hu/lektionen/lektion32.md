@@ -1,5 +1,5 @@
 ---
-title: 32. lecke
+title: Lektion 32
 lesson_id: 32
 status: stable
 ---
@@ -77,11 +77,11 @@ Példák:
 
 ::: grammar-box
 
-| Jelen időosztály | Tő: br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Jelen időklasse | Tő:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
-| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \&lt;⟪अभवत⟫\&gt; | \&lt;⟪अभवन्त⟫\&gt; |
-| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \&lt;⟪अनृत्यत⟫\&gt; | \&lt;⟪अनृत्यन्त⟫\&gt; |
-| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \&lt;⟪अविशत⟫\&gt; | \&lt;⟪अविशन्त⟫\&gt; |
+| 1. | ⟪भू⟫ | ⟪अभवत्⟫ | ⟪अभवन्⟫ | \<⟪अभवत⟫\> | \<⟪अभवन्त⟫\> |
+| 4. | ⟪नृत्⟫ | ⟪अनृत्यत्⟫ | ⟪अनृत्यन्⟫ | \<⟪अनृत्यत⟫\> | \<⟪अनृत्यन्त⟫\> |
+| 6. | ⟪विश्⟫ | ⟪अविशत्⟫ | ⟪अविशन्⟫ | \<⟪अविशत⟫\> | \<⟪अविशन्त⟫\> |
 | 10. / Kausatív | ⟪चुर्⟫ | ⟪अचोरयत्⟫ | ⟪अचोरयन्⟫ | ⟪अचोरयत⟫ | ⟪अचोरयन्त⟫ |
 | Passzív | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
@@ -90,7 +90,7 @@ Példák:
 
 ::: grammar-box
 
-| Jelen időosztály | Tő:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
+| Jelen időklasse | Tő:br⟪धातु⟫ | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- | :--- |
 | 2. | ⟪द्विष्⟫ | ⟪अद्वेट्⟫:br(adveṣṭ \> adveṣ \> adveṭ) | ⟪अद्विषन्⟫:br⟪अद्विषुर्⟫ | ⟪अद्विष्ट⟫ | ⟪अद्विषत⟫ |
 | 2. | ⟪दुह्⟫ | ⟪अधोक्⟫:br(a + doh + t \> adogdh \> adhok) | ⟪अदुहन्⟫ | ⟪अदुग्ध⟫ | ⟪अदुहत⟫ |
@@ -99,7 +99,7 @@ Példák:
 | 2. | ⟪स्तु⟫ | ⟪अस्तौत्⟫:br⟪अस्तवीत्⟫ | ⟪अस्तुवन्⟫ | ⟪अस्तुत⟫ | ⟪अस्तुवत⟫ |
 | 2. | ⟪अस्⟫ | ⟪आसीत्⟫ | ⟪आसन्⟫ | | |
 | 5. | ⟪सु⟫ | ⟪असुनोत्⟫ | ⟪असुन्वन्⟫ | ⟪असुनुत⟫ | ⟪असुन्वत⟫ |
-| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \&lt;⟪आप्नुत⟫\&gt; | \&lt;⟪आप्नुवत⟫\&gt; |
+| 5. | ⟪आप्⟫ | ⟪आप्नोत्⟫ | ⟪आप्नुवन्⟫ | \<⟪आप्नुत⟫\> | \<⟪आप्नुवत⟫\> |
 | 8. | ⟪तन्⟫ | ⟪अतनोत्⟫ | ⟪अतन्वन्⟫ | ⟪अतनुत⟫ | ⟪अतन्वत⟫ |
 | 8. | ⟪कृ⟫ | ⟪अकरोत्⟫ | ⟪अकुर्वन्⟫ | ⟪अकुरुत⟫ | ⟪अकुर्वत⟫ |
 | 7. | ⟪युज्⟫ | ⟪अयुनक्⟫:br(a-yunaj + t \> ayunakt \> ayunak) | ⟪अयुञ्जन्⟫ | ⟪अयुङ्क्त⟫:br(a-yuñj + ta) | ⟪अयुञ्जत⟫ |
@@ -145,23 +145,23 @@ Mangófa, Kanpur.
 
 **⟪रुह्⟫ ⟪रोहति⟫**
 ::: indent
-⟪रोक्ष्यति⟩:br
-⟪रुह्यते⟩:br
-⟪रोहयति⟩ ⟪।⟩ ⟪रोपयति⟩:br
-⟪रूढ⟩:br
--⟪रुह्य⟩:br
-⟪रोढुम्⟩
+⟪रोक्ष्यति⟫:br
+⟪रुह्यते⟫:br
+⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
+⟪रूढ⟫:br
+-⟪रुह्य⟫:br
+⟪रोढुम्⟫
 :::
-**⟪ग्रह्⟩ ⟪गृह्णाति⟩**
+**⟪ग्रह्⟫ ⟪गृह्णाति⟫**
 ::: indent
-⟪ग्रहीष्यति⟩ (!):br
-⟪गृह्यते⟩:br
-⟪ग्राहयति⟩:br
-⟪गृहीत⟩:br
--⟪गृह्य⟩:br
-⟪ग्रहीतुम्⟩ (!)
+⟪ग्रहीष्यति⟫ (!):br
+⟪गृह्यते⟫:br
+⟪ग्राहयति⟫:br
+⟪गृहीत⟫:br
+-⟪गृह्य⟫:br
+⟪ग्रहीतुम्⟫ (!)
 :::
-**⟪वानर⟩ ⟪कपि⟩**
+**⟪वानर⟫ ⟪कपि⟫**
 
 ::: media
 ![](/images/lekt3203.webp)
@@ -171,17 +171,17 @@ Majom (rhesus makákó) Déliben.
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
 ::: indent
-⟪लोकयिष्यति⟩:br
-⟪लोक्यते⟩:br
-⟪लोकित⟩:br
--⟪लोक्य⟩:br
-⟪लोकितुम्⟩
+⟪लोकयिष्यति⟫:br
+⟪लोक्यते⟫:br
+⟪लोकित⟫:br
+-⟪लोक्य⟫:br
+⟪लोकितुम्⟫
 :::
-⟪प्रहर्ष⟩
+⟪प्रहर्ष⟫
 
-⟪कति⟩
+⟪कति⟫
 
-⟪उपल⟩
+⟪उपल⟫
 
 ::: media
 ![](/images/lekt3204.webp)
@@ -189,7 +189,7 @@ Kép: ⟪उपलाः⟩
 Kőbánya Pune déli részén, Mahárástra.
 (Képmegjelölés: [Részletek](/hu/licenses#lekt3204))
 :::
-⟪लक्ष्य⟩
+⟪लक्ष्य⟫
 
 ::: media
 ![](/images/lekt3205.webp)
@@ -199,21 +199,21 @@ Célgyakorlat / nyílcélpont, Karnataka.
 :::
 **⟪क्षिप्⟫ ⟪क्षिपति⟫**
 ::: indent
-⟪क्षेप्स्यति⟩:br
-⟪क्षिप्यते⟩:br
-⟪क्षेपयति⟩:br
-⟪क्षिप्त⟩:br
--⟪क्षिप्य⟩:br
-⟪क्षेप्तुम्⟩
+⟪क्षेप्स्यति⟫:br
+⟪क्षिप्यते⟫:br
+⟪क्षेपयति⟫:br
+⟪क्षिप्त⟫:br
+-⟪क्षिप्य⟫:br
+⟪क्षेप्तुम्⟫
 :::
-**⟪चि⟩ ⟪चिनोति⟩**
+**⟪चि⟫ ⟪चिनोति⟫**
 ::: indent
-⟪चेष्यति⟩:br
-⟪चीयते⟩:br
-⟪चाययति⟩:br
-⟪चित⟩:br
--⟪चित्य⟩:br
-⟪चेतुम्⟩
+⟪चेष्यति⟫:br
+⟪चीयते⟫:br
+⟪चाययति⟫:br
+⟪चित⟫:br
+-⟪चित्य⟫:br
+⟪चेतुम्⟫
 :::
 ::: media
 ![](/images/lekt3207.webp)
@@ -221,13 +221,13 @@ Kép: ⟪चितं⟩ ⟪गोमयं⟩ ⟪दहति⟩
 Égett tehéntrágya-tégla, Rádzsasztán.
 (Képforrás: [Részletek](/hu/licenses#lekt3207))
 :::
-**⟪चि⟩ ⟪अव⟩**
+**⟪चि⟫ ⟪अव⟫**
 
-⟪प्रति⟩
+⟪प्रति⟫
 
-⟪अहो⟩
+⟪अहो⟫
 
-**⟪कौशल⟩ ⟪कुशल⟩**
+**⟪कौशल⟫ ⟪कुशल⟫**
 
 ::: media
 ![](/images/lekt3206.webp)
@@ -542,13 +542,13 @@ C) Fordítsa szanszktra:
 
 48. Mivel hibát követett el az áldozat során, a bráhmana nem méltó arra, hogy javakat fogadjon el.
 
-[L0] 49. Ha megtörtént a beavatási szertartás, akkor sajátítsa el a védát és a filozófiát tudósoktól, valamint az ökonómiát osztályvezetőktől (⟪उपयुज्⟫).
+49. [L0] 49. Ha megtörtént a beavatási szertartás, akkor sajátítsa el a védát és a filozófiát tudósoktól, valamint az ökonómiát osztályvezetőktől (⟪उपयुज्⟫).
 
-[L2] 50. A vaiśyadharma az, hogy a vaiśyák kereskedésből és értékesítésből élnek. Mivel ez így van, a vaiśyafiak vesznek és adnak el.
+50. [L2] 50. A vaiśyadharma az, hogy a vaiśyák kereskedésből és értékesítésből élnek. Mivel ez így van, a vaiśyafiak vesznek és adnak el.
 
-[L4] 51. Mondja az igazságot, mondjon kellemes dolgokat; ne mondjon kellemetlen igazságot, és ne mondjon kellemetlen hamisítást sem. Ez az örök dharma.
+51. [L4] 51. Mondja az igazságot, mondjon kellemes dolgokat; ne mondjon kellemetlen igazságot, és ne mondjon kellemetlen hamisítást sem. Ez az örök dharma.
 
-[L6] 52. Viszlát!
+52. [L6] 52. Viszlát!
 
 ::: media
 ![](/images/lekt3209.webp)

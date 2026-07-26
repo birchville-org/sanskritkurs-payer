@@ -1,9 +1,9 @@
 ---
-title: Lecția 46
-subtitle: "Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) Perfectul (⟪लिट्⟫)"
+title: Lektion 46
+subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)"
 lesson_id: 46
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -16,7 +16,7 @@ status: stable
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| **Desinențe de perfect** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **Desinențe de perfect** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ^^ | \-tha | \-a | \-se | \-dhve |
 :::
 Rețineți că desinența -- de obicei, dar nu întotdeauna forma! -- a persoanei a II-a plural prezent se suprapune cu cea a persoanei I și a III-a singular prezent.
@@ -46,7 +46,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बबन्धिथ⟫:br⟪बबन्द्ध⟫ | ⟪बबन्ध⟫ |
 :::
 ⟪जीव्⟫ 1P
@@ -54,16 +54,16 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \&lt;⟪जिजीविषे⟫\&gt; | \&lt;⟪जिजीविध्वे⟫\&gt;:br\&lt;⟪जिजीविढ्वे⟫\&gt; |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ⟪जिजीविथ⟫ | ⟪जिजीव⟫ | \<⟪जिजीविषे⟫\> | \<⟪जिजीविध्वे⟫\>:br\<⟪जिजीविढ्वे⟫\> |
 :::
 ⟪अस्⟫ 2P, 4P
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪आसिथ⟫ | ⟪आस⟫ | \&lt;⟪आसिषे⟫\&gt; | \&lt;⟪आसिध्वे⟫\&gt; |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
 :::
 ### 46.1.4. Tipul Perfectului II: rădăcină puternică la nivel înalt, rădăcină slabă la nivel scăzut
 
@@ -75,8 +75,8 @@ Verbe care urmează acest tip:
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
-| :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| :---: | :---: | :---: | :---: |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बिभेदिथ⟫ | ⟪बिभिद⟫ | ⟪बिभिदिषे⟫ | ⟪बिभिदिध्वे⟫ |
 :::
 ⟪मुह्⟫ 4P facultativ ⟪अनिट्⟫
@@ -84,7 +84,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
 ### 46.1.5. Tipul III al Perfectului: Rădăcină puternică, nivel înalt/lungit
@@ -101,7 +101,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪इयेथ⟫:br⟪इययिथ⟫:briy-e + i-tha | ⟪ईय⟫:bri + iy-a |
 :::
 ⟪नी⟫ Pers. a III-a, Um.
@@ -109,7 +109,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪निनयिथ⟫:br⟪निनेथ⟫ | ⟪निन्य⟫:brninī + a | ⟪निन्यिषे⟫ | ⟪निन्यिध्वे⟫:br⟪निन्यिढ्वे⟫ |
 :::
 ⟪स्तु⟫ Pers. a III-a, Um. (⟪अनिट्⟫)
@@ -117,7 +117,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪तुष्टोथ⟫ | ⟪तिष्टुव⟫ | ⟪तुष्टुषे⟫ | ⟪तुष्टुढ्वे⟫ |
 :::
 ⟪कृ⟫ Pers. a VIII-a, Um. (⟪अनिट्⟫)
@@ -125,7 +125,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
 #### 46.1.5.2. Tipul IIIb al Perfectului: Rădăcină puternică, nivel înalt/lungit, rădăcină slabă, nivel înalt
@@ -140,15 +140,15 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪पपरिथ⟫ | ⟪पपर⟫:br= pers. sg. I |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ⟪पपरिथ⟫ | ⟪पपर⟫:br= 1.sg.P |
 :::
 ⟪संस्कृ⟫ Pers. a VIII-a, Um.
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
 ### 46.1.6. Tipul IV al Perfectului: Rădăcini cu -ā / -ai
@@ -162,15 +162,15 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪ददाथ⟫:br⟪ददिथ⟫:brda-di-tha:brsau::brda-d-i-tha | ⟪दद⟫ | ⟪ददिषे⟫ | ⟪ददिध्वे⟫ |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ⟪ददाथ⟫:br⟪ददिथ⟫:brda-di-tha:broder::brda-d-i-tha | ⟪दद⟫ | ⟪ददिषे⟫ | ⟪ददिध्वे⟫ |
 :::
 ⟪गै⟫ 1P
 
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगाथ⟫:br⟪जगिथ⟫ | ⟪जग⟫ |
 :::
 ### 46.1.7. Tipul Perfect V: Consonant-a-Consonant
@@ -193,7 +193,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जगमिथ⟫:br⟪जगन्थ⟫ | ⟪जग्म⟫ |
 :::
 ⟪हन्⟫ Persoana a II-a plural
@@ -201,15 +201,15 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जघनित⟫:br⟪जगन्थ⟫ | ⟪जघ्न⟫ |
 :::
-⟪जन्⟫ Forma IV ātmanepada
+⟪जन्⟫ 4Ā
 
 ::: grammar-box
 | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जज्ञिषे⟫ | ⟪जज्ञिध्वे⟫ |
 :::
 ⟪यज्⟫ Forma I unadi
@@ -217,7 +217,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪इयजिथ⟫:br⟪इयष्ठ⟫ | ⟪ईज⟫ | ⟪ईजिषे⟫ | ⟪ईजिध्वे⟫ |
 :::
 ⟪वच्⟫ Persoana I plural
@@ -225,7 +225,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪उवचिथ⟫:br⟪उवक्थ⟫ | ⟪ऊच⟫ |
 :::
 ⟪वह्⟫ Forma I unadi
@@ -233,7 +233,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪उवहिथ⟫:br⟪उवोढ⟫ | ⟪ऊह⟫ | ⟪ऊहिषे⟫ | ⟪ऊहिध्वे⟫:br⟪ऊहिढ्वे⟫ |
 :::
 ⟪वद्⟫ Persoana I plural
@@ -241,7 +241,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪उवदिथ⟫ | ⟪ऊद⟫ |
 :::
 ⟪स्वप्⟫ Persoana a II-a plural
@@ -249,8 +249,8 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:brdin: su + *svp + a |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ⟪सुष्वपिथ⟫:br⟪सुष्वप्थ⟫ | ⟪सुषुप⟫:braus: su + *svp + a |
 :::
 #### 46.1.7.2. Tipul Perfect Vb: Consonant-a-Consonant, consonanta inițială nu este guturală, aspirată, h, formă slabă fără reduplicație, cu -e-
 
@@ -262,8 +262,8 @@ A doua persoană singular a prezentului se formează din forma slabă atunci câ
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| ⟪पपक्थ⟫:br***⟪पेचिथ⟫*** | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| ⟪पपक्थ⟫:br sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
 #### 46.1.7.3. Tipul Perfect Vc: Consonant-a-Consonant, formă slabă cu gradul ridicat
 
@@ -276,7 +276,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
 :::
 ### 46.1.8. Formări speciale ale Perfectului
@@ -286,7 +286,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪वेत्थ⟫ | ⟪विद⟫ |
 :::
 ⟪अह्⟫
@@ -294,7 +294,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪आत्थ⟫ | \--- |
 :::
 ⟪भू⟫ 1 persoană singulară
@@ -302,7 +302,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बभूविथ⟫ | ⟪बभूव⟫:br= 1.3.sg.P |
 :::
 ⟪जि⟫ 1 persoană singulară
@@ -310,7 +310,7 @@ Verbe care urmează acest tip:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪जिगेथ⟫:br⟪जिगयिथ⟫ | ⟪जिग्य⟫ |
 :::
 ### 46.1.9. Perfecitul perifrastic (⟪अनुप्रयोगलिट्⟫)
@@ -333,7 +333,7 @@ Perfecitul perifrastic se formează din:
 ::: grammar-box
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
-| **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪बन्धयां⟫ ⟪चकर्थ⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चक्र⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ | ⟪बन्धयां⟫ ⟪चकृषे⟫:br⟪बन्धयामासिथ⟫:br⟪बन्धयां⟫ ⟪बभूविथ⟫ | ⟪बन्धयां⟫ ⟪चकृढ्वे⟫:br⟪बन्धयामास⟫:br⟪बन्धयां⟫ ⟪बभूव⟫ |
 :::
 ## 46.2. Listă de cuvinte
@@ -378,17 +378,20 @@ Pentru ⟪राहु⟫ și ⟪केतु⟫ vezi:
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/ro/licenses#lekt4602)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4602))
-:::: media
+:::
+
+::: media
 ![](/images/lekt4603.webp)
 Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/ro/licenses#lekt4603)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4603))
-::::
 :::
+
 ::: media
 ![](/images/lekt4604.webp)
 Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/ro/licenses#lekt4604)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4604))
 :::
+
 ::: media
 ![](/images/lekt4605.webp)
 Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/ro/licenses#lekt4605)
@@ -415,11 +418,11 @@ Kaus. ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫
 PPP ⟪नत⟫  
 Inf. ⟪नन्तुम्⟫
 
-:::: media
+:::
+::: media
 ![](/images/lekt4607.webp)
 Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/ro/licenses#lekt4607)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4607))
-::::
 :::
 ⟪रुह्⟫ 1P ⟪रोहति⟫ : a urca, a cățara
 
@@ -431,11 +434,11 @@ Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***⟪प⟫***⟪यति
 PPP. ***⟪रूढ⟫***  
 Inf. ⟪रोढुम्⟫
 
-:::: media
+:::
+::: media
 ![](/images/lekt4606.webp)
 Fig.: [⟪अश्वरोहकः⟫](/ro/licenses#lekt4606)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4606))
-::::
 :::
 ⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : a chema, a convoca
 
@@ -448,12 +451,13 @@ PPP ⟪हूत⟫
 Inf. ⟪ह्वातुम्⟫  
 Absol. -⟪हूय⟫
 
-:::: media
+:::
+::: media
 ![](/images/lekt4608.webp)
 Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/ro/licenses#lekt4608)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4608))
-::::
 :::
+
 ::: indent
 1 ⟪महामात्र⟫ m. "mahout"; ⟪चरिष्णु⟫ 3 "mobil", ⟪दूरशब्द⟫ m. "telefonie fixă" » ⟪चरिष्णुदूरशब्द⟫ "telefon mobil" (morfologie: A. Payer)
 
@@ -475,11 +479,11 @@ Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्�
 din care:
 ⟪आश्रम⟫ m.n.
 
-:::: media
+:::
+::: media
 ![](/images/lekt4609.webp)
 Fig.: [⟪श्रान्तः⟫](/ro/licenses#lekt4609)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4609))
-::::
 :::
 ⟪श्रि⟫ 1U ⟪श्रयति⟫ : a se sprijini, a se înclina, a găsi sprijin, a se îndrepta către cineva (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
@@ -504,11 +508,11 @@ Inf. ⟪संक्तुम्⟫
 din care:
 ⟪सङ्ग⟫ m.: atârnarea de, atingerea cu (⟪तृतीयया⟫)
 
-:::: media
+:::
+::: media
 ![](/images/lekt4610.webp)
 Fig.: [⟪सङ्गः⟫](/ro/licenses#lekt4610)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4610))
-::::
 :::
 ⟪द्रु⟫ 1P ⟪द्रवति⟫ : a alerga, a grăbi
 
@@ -546,11 +550,11 @@ PPP ⟪लम्बित⟫
 Inf. ⟪लम्बितुम्⟫  
 Absol. -⟪लम्ब्य⟫
 
-:::: media
+:::
+::: media
 ![](/images/lekt4601.jpg)
 Fig.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/ro/licenses#lekt4601)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4601))
-::::
 :::
 ⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : a se agăța de (⟪द्वितीयया⟫)
 
@@ -651,6 +655,7 @@ B) Traduceți:
 Fig.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/ro/licenses#lekt4612)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4612))
 :::
+
 ::: deleteme-box
 
 Sursa imaginilor Navagraha: Redtigerxyz / Wikipedia. Licență GNU FDL
@@ -671,3 +676,4 @@ L4611: ⟪भोः⟫, Kutch=⟪कच्छ⟫. Sursă: orange tuesday, Flickr
 
 L4612: Mumbai=⟪मुंबई⟫ după atentat, 11 iulie 2006. Sursă: Sun Pictures / Lakshman, Flickr, CC BY-NC-SA 2.0
 :::
+

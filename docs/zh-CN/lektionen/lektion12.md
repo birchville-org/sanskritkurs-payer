@@ -1,9 +1,9 @@
 ---
-title: 第12课
-subtitle: "完成时被动分词（PPP）"
+title: Lektion 12
+subtitle: "Das Partizip Perfekt Passiv (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
-category: "语法"
+category: "Grammatik"
 status: stable
 ---
 
@@ -17,7 +17,6 @@ status: stable
 - 词内语音组合的规律
 - 迄今所学词根的被动语态与 PPP
 :::
----
 
 ## 12.1. 被动完成分词 (PPP)
 
@@ -26,23 +25,21 @@ status: stable
 ::: grammar-box
 **实际上，PPP（过去被动分词）并非真正的分词，因为它并非由时干构成。它实际上是带有主要后缀 -ta 或 -na 的词根派生名词。因此，印度语法学中称之为后缀 kta。**
 :::
----
 
 ### 12.1.1. 及物动词的变位模式
 
 ::: grammar-box
 **施事者（kartṛ）以工具格（tṛtīyā）出现 -- 直接宾语（karman）以主格（prathamā）出现 -- 完成时被动分词**
 
+在此情况下，PPP在数、格和性上与宾语一致。
+
 在此情况下，PPP 在数、格和性上与宾语一致。
 
 不需要助动词（“sein”）。
-
-示例：
 > **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = “（由圣人获得了天堂）= 圣人获得了天堂。”
 > 
 > **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = “（由婆罗门以祭祀供奉女神）= 婆罗门以祭祀供奉了女神。”
 :::
----
 
 ### 12.1.2. 模式 I 对于不及物动词和运动动词
 
@@ -54,7 +51,6 @@ status: stable
 示例：
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = “刹帝利女子已前往城市。”
 :::
----
 
 ### 12.1.3. 不及物动词与移动动词的模式II
 
@@ -66,7 +62,6 @@ status: stable
 
 II型结构的构造比I型结构的构造罕见得多。
 :::
----
 
 ## 12.2. 关于PPP的意义
 
@@ -76,8 +71,6 @@ Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in e
 - **gata** = ⟪गत⟫ = “已去”（主动）；此外：**gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = “一条被走过的路”（被动）
 - **āpta** = ⟪आप्त⟫ = “已被到达”（被动），“正在到达”（主动）
 
----
-
 ## 12.3. 过去被动分词（PPP）的构成
 
 ::: grammar-box
@@ -86,13 +79,12 @@ Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in e
 （通常）最低等级的词根
 
 - **+ -ta**
-- 带连接元音 **-i-**：**-ita**
-- 无连接元音：**-ta**
+  - 带连接元音 **-i-**：**-ita**
+  - 无连接元音：**-ta**
 - **+ -na**
 
 阴性词干为：**-tā**，**-itā**，**-nā**；中性词按 **phala** n. 变格。
 :::
----
 
 ### 12.3.1. 以 -ta 结尾的PPP (kta)
 
@@ -110,18 +102,18 @@ Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in e
 ::: grammar-box
 | 词根 | 过去被动分词 (kta) |
 | :--- | :--- |
-| **bhū** 第一类主动态:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
-| **smṛ** 第一类主动态:br(⟪स्मृ⟫) | **smṛ-ta** :br(⟪स्मृत⟫) |
-| **nṛt** 第四类主动态(nṛt-ta):br(⟪नृत्त⟫) | **nṛt-ta** :br(⟪नृत्त⟫) |
-| **nī** 第一类中动态:br(⟪नी⟫) | **nī-ta** :br(⟪नीत⟫) |
-| **man** 第四类中动态:br(⟪मन्⟫) | **ma-ta** (\*mn-ta):br(⟪मत⟫) |
-| **su** 第五类中动态:br(⟪सु⟫) | **su-ta** :br(⟪सुत⟫) |
-| **gam** 第一类主动态:br(⟪गम्⟫) | **ga-ta** (\< \*gm-ta):br(⟪गत⟫) |
-| **ji** 第一类主动态:br(⟪जि⟫) | **ji-ta** :br(⟪जित⟫) |
-| **śru** 第五类主动态:br(⟪श्रु⟫) | **śru-ta** :br(⟪श्रुत⟫) |
-| **kṛ** 第八类中动态:br(⟪कृ⟫) | **kṛ-ta** :br(⟪कृत⟫) |
-| **tan** 第八类中动态:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
-| **iṣ** 第六类主动态:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
+| **bhū** 1 P:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
+| **smṛ** 1 P:br(⟪स्मृ⟫) | **smṛ-ta** :br(⟪स्मृत⟫) |
+| **nṛt** 4 P:br(nṛt-ta):br(⟪नृत्त⟫) | **nṛt-ta** :br(⟪नृत्त⟫) |
+| **nī** 1 U:br(⟪नी⟫) | **nī-ta** :br(⟪नीत⟫) |
+| **man** 4 Ā:br(⟪मन्⟫) | **ma-ta** (\*mn-ta):br(⟪मत⟫) |
+| **su** 5 U:br(⟪सु⟫) | **su-ta** :br(⟪सुत⟫) |
+| **gam** 1 P:br(⟪गम्⟫) | **ga-ta** (\< \*gm-ta):br(⟪गत⟫) |
+| **ji** 1 P:br(⟪जि⟫) | **ji-ta** :br(⟪जित⟫) |
+| **śru** 5 P:br(⟪श्रु⟫) | **śru-ta** :br(⟪श्रुत⟫) |
+| **kṛ** 8 U:br(⟪कृ⟫) | **kṛ-ta** :br(⟪कृत⟫) |
+| **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
+| **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
 #### 12.3.1.2. 带连接元音 -i- (seṭ)
 
@@ -137,7 +129,6 @@ Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in e
 | **rakṣ** 1 P:br(⟪रक्ष्⟫) | **rakṣ-i-ta** :br(⟪रक्षित⟫) |
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
 :::
----
 
 ## 12.4. 词内音连规律
 
@@ -148,13 +139,12 @@ Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in e
 | :--- | :--- |
 | **1. k, t, p 在清塞音（如 t, th）前保持不变：** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
 | **2. ct 被 kt = ⟪क्त्⟫ 取代：** | **muc + ta » muk-ta** = **⟪मुक्त⟫** |
-| **3. śt 被 ṣṭ = ⟪ष्ट्⟫ 取代：** | **dṛś + ti » dṛṣṭi** = **⟪दृष्टि⟫** :br **dṛś + ta » dṛṣṭa** = **⟪दृष्ट⟫** :br **viś + ta » viṣṭa** = **⟪विष्ट⟫** |
+| **3. śt 被 ṣṭ = ⟪ष्ट्⟫ 取代：** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
 | **4. 浊不送气塞音（除 j 外）在清音前被替换为对应的浊不送气音：** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫**（对第二现在时类很重要） |
-| **5. jt 被 kt 或 ṣṭ 取代（非可选！）：** | **yuj + ta » yuk-ta** = **⟪युक्त⟫** :br **yaj + ta » iṣ-ṭa** = **⟪इष्ट⟫** (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = **⟪सृष्ट⟫** :br **sṛj + ti » sṛṣ-ṭi** = **⟪सृष्टि⟫** |
-| **6. 浊送气塞音 + 清塞音 » 浊不送气塞音 + 浊送气塞音（巴托洛缪送气律）：** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = **⟪लब्ध⟫** :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = **⟪बुद्ध⟫** :br **yudh + ta » yud-dha** = **⟪युद्ध⟫** :br **krudh + ta » krud-dha** = **⟪क्रुद्ध⟫** |
-| **7. h-t 被 ḍh 取代，前接 i 或 u 时发生延长；或被 gdh 取代。在此类 ḍh 前，a 被 o 取代，较少情况被 ā 取代：** | **dah + ta » dag-dha** = **⟪दग्ध⟫** :br **guh + ta » gūḍha** = **⟪गूढ⟫** (guh 1 (gūhati) “隐藏某物”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = **⟪सोढ⟫** |
+| **5. jt 被 kt 或 ṣṭ 取代（非可选！）：** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **6. 浊送气塞音 + 清塞音 » 浊不送气塞音 + 浊送气塞音（巴托洛缪送气律）：** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
+| **7. h-t 被 ḍh 取代，前接 i 或 u 时发生延长；或被 gdh 取代。在此类 ḍh 前，a 被 o 取代，较少情况被 ā 取代：** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
----
 
 ## 12.5. 词汇表
 
@@ -195,58 +185,54 @@ Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in e
 :::
 - **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ ：认知，认知器官。
 
----
-
 ### 12.5.1. 被动语态及迄今所学词根的过去分词（PPP）
 
-| 词根: br⟪धातु⟫ | 被动语态 现在时 第三人称单数 直陈式: br⟪यक्⟫ ⟪लट्⟫ | 过去被动分词: br⟪क्त⟫ |
+| Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
-| **aś** 5 Ā: br⟪अश्⟫ | **aśyate** : br⟪अश्यते⟫ | **aṣṭa** : br⟪अष्ट⟫ |
-| **āp** 5 P: br⟪आप्⟫ | **āpyate** : br⟪आप्यते⟫ | **āpta** : br⟪आप्त⟫ |
-| **as** 2 P: br⟪अस्⟫ | — | **bhūta** : br⟪भूत⟫ |
-| **bhaj** 1 U: br⟪भज्⟫ | **bhajyate** : br⟪भज्यते⟫ | **bhakta** : br⟪भक्त⟫ |
-| **bhū** 1 P: br⟪भू⟫ | **bhūyate** : br⟪भूयते⟫ | **bhūta** : br⟪भूत⟫ |
-| **budh** 4 Ā / 1 U: br⟪बुध्⟫ | **budhyate** : br⟪बुध्यते⟫ | **buddha** : br⟪बुद्ध⟫ |
-| **dah** 1 P: br⟪दह्⟫ | **dahyate** : br⟪दह्यते⟫ | **dagdha** : br⟪दग्ध⟫ |
-| **div** 4 P: br⟪दिव्⟫ | **dīvyate** : br⟪दीव्यते⟫ | **dyūta** : br⟪द्यूत⟫ |
-| **dṛś** : br⟪दृश्⟫ | **dṛśyate** : br⟪दृश्यते⟫ | **dṛṣṭa** : br⟪दृष्ट⟫ |
-| **gam** 1 P: br⟪गम्⟫ | **gamyate** : br⟪गम्यते⟫ | **gata** : br⟪गत⟫ |
-| **grah** 9 U: br⟪ग्रह्⟫ | **gṛhyate** : br⟪गृह्यते⟫ | **gṛhīta** : br⟪गृहीत⟫ |
-| **hṛ** 1 U: br⟪हृ⟫ | **hriyate** : br⟪ह्रियते⟫ | **hṛta** : br⟪हृत⟫ |
-| **i** 2 P: br⟪इ⟫ | **īyate** : br⟪ईयते⟫ | **ita** : br⟪इत⟫ |
-| **iṣ** 6 P: br⟪इष्⟫ | **iṣyate** : br⟪इष्यते⟫ | **iṣṭa** : br⟪इष्ट⟫ |
-| **jan** 4 Ā: br⟪जन्⟫ | **janyate** : br⟪जन्यते⟫ | **jāta** : br⟪जात⟫ |
-| **ji** 1 P: br⟪जि⟫ | **jīyate** : br⟪जीयते⟫ | **jita** : br⟪जित⟫ |
-| **kath** 10 U: br⟪कथ्⟫ | **kathyate** : br⟪कथ्यते⟫ | **kathita** : br⟪कथित⟫ |
-| **khād** 1 P: br⟪खाद्⟫ | **khādyate** : br⟪खाद्यते⟫ | **khādita** : br⟪खादित⟫ |
-| **kṛ** 8 U: br⟪कृ⟫ | **kriyate** : br⟪क्रियते⟫ | **kṛta** : br⟪कृत⟫ |
-| **krudh** 4 P: br⟪क्रुध्⟫ | **krudhyate** : br⟪क्रुध्यते⟫ | **kruddha** : br⟪क्रुद्ध⟫ |
-| **kup** 4 P: br⟪कुप्⟫ | **kupyate** : br⟪कुप्यते⟫ | **kupita** : br⟪कुपित⟫ |
-| **labh** 1 Ā: br⟪लभ्⟫ | **labhyate** : br⟪लभ्यते⟫ | **labdha** : br⟪लब्ध⟫ |
-| **man** 4 Ā: br⟪मन्⟫ | **manyate** : br⟪मन्यते⟫ | **mata** : br⟪मत⟫ |
-| **mṛ** 6 Ā: br⟪मृ⟫ | **mriyate** : br⟪म्रियते⟫ | **mṛta** : br⟪मृत⟫ |
-| **muc** 6 U: br⟪मुच्⟫ | **mucyate** : br⟪मुच्यते⟫ | **mukta** : br⟪मुक्त⟫ |
-| **nī** 1 U: br⟪नी⟫ | **nīyate** : br⟪नीयते⟫ | **nīta** : br⟪नीत⟫ |
-| **paś** : br⟪पश्⟫ | **(dṛśyate)** : br⟪दृश्यते⟫ | **(dṛṣṭa)** : br⟪दृष्ट⟫ |
-| **pat** 1 P: br⟪पत्⟫ | **patyate** : br⟪पत्यते⟫ | **patita** : br⟪पतित⟫ |
-| **prach** 6 P: br⟪प्रच्छ्⟫ | **pṛcchyate** : br⟪पृच्छ्यते⟫ | **pṛṣṭa** : br⟪पृष्ट⟫ |
-| **pūj** 10 U: br⟪पूज्⟫ | **pūjyate** : br⟪पूज्यते⟫ | **pūjita** : br⟪पूजित⟫ |
-| **rakṣ** 1 P: br⟪रक्ष्⟫ | **rakṣyate** : br⟪रक्ष्यते⟫ | **rakṣita** : br⟪रक्षित⟫ |
-| **ram** 1 Ā: br⟪रम्⟫ | **ramyate** : br⟪रम्यते⟫ | **rata** : br⟪रत⟫ |
-| **sah** 1 Ā: br⟪सह्⟫ | **sahyate** : br⟪सह्यते⟫ | **soḍha** : br⟪सोढ⟫ |
-| **sic** 6 U: br⟪सिच्⟫ | **sicyate** : br⟪सिच्यते⟫ | **sikta** : br⟪सिक्त⟫ |
-| **śru** 5 P: br⟪श्रु⟫ | **śrūyate** : br⟪श्रूयते⟫ | **śruta** : br⟪श्रुत⟫ |
-| **su** 5 U: br⟪सु⟫ | **sūyate** : br⟪सूयते⟫ | **suta** : br⟪सुत⟫ |
-| **svap** 2 P: br⟪स्वप्⟫ | **supyate** : br⟪सुप्यते⟫ | **supta** : br⟪सुप्त⟫ |
-| **tyaj** 1 P: br⟪त्यज्⟫ | **tyajyate** : br⟪त्यज्यते⟫ | **tyakta** : br⟪त्यक्त⟫ |
-| **uch** : br⟪उछ्⟫ | — | **uṣita** : br⟪उषित⟫ |
-| **vad** 1 P: br⟪वद्⟫ | **udyate** : br⟪उद्यते⟫ | **udita** : br⟪उदित⟫ |
-| **vas** 1 P: br⟪वस्⟫ | **uṣyate** : br⟪उष्यते⟫ | **uṣita** : br⟪उषित⟫ |
-| **vadh** : br⟪वध्⟫ | **vadyate** : br⟪वद्यते⟫ | **hata** : br⟪हत⟫ |
-| **yaj** 1 U: br⟪यज्⟫ | **ijyate** : br⟪इज्यते⟫ | **iṣṭa** : br⟪इष्ट⟫ |
-| **yudh** 4 Ā: br⟪युध्⟫ | **yudhyate** : br⟪युध्यते⟫ | **yuddha** : br⟪युद्ध⟫ |
-
----
+| **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
+| **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
+| **as** 2 P:br⟪अस्⟫ | — | **bhūta** :br⟪भूत⟫ |
+| **bhaj** 1 U:br⟪भज्⟫ | **bhajyate** :br⟪भज्यते⟫ | **bhakta** :br⟪भक्त⟫ |
+| **bhū** 1 P:br⟪भू⟫ | **bhūyate** :br⟪भूयते⟫ | **bhūta** :br⟪भूत⟫ |
+| **budh** 4 Ā / 1 U:br⟪बुध्⟫ | **budhyate** :br⟪बुध्यते⟫ | **buddha** :br⟪बुद्ध⟫ |
+| **dah** 1 P:br⟪दह्⟫ | **dahyate** :br⟪दह्यते⟫ | **dagdha** :br⟪दग्ध⟫ |
+| **div** 4 P:br⟪दिव्⟫ | **dīvyate** :br⟪दीव्यते⟫ | **dyūta** :br⟪द्यूत⟫ |
+| **dṛś** :br⟪दृश्⟫ | **dṛśyate** :br⟪दृश्यते⟫ | **dṛṣṭa** :br⟪दृष्ट⟫ |
+| **gam** 1 P:br⟪गम्⟫ | **gamyate** :br⟪गम्यते⟫ | **gata** :br⟪गत⟫ |
+| **grah** 9 U:br⟪ग्रह्⟫ | **gṛhyate** :br⟪गृह्यते⟫ | **gṛhīta** :br⟪गृहीत⟫ |
+| **hṛ** 1 U:br⟪हृ⟫ | **hriyate** :br⟪ह्रियते⟫ | **hṛta** :br⟪हृत⟫ |
+| **i** 2 P:br⟪इ⟫ | **īyate** :br⟪ईयते⟫ | **ita** :br⟪इत⟫ |
+| **iṣ** 6 P:br⟪इष्⟫ | **iṣyate** :br⟪इष्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
+| **jan** 4 Ā:br⟪जन्⟫ | **janyate** :br⟪जन्यते⟫ | **jāta** :br⟪जात⟫ |
+| **ji** 1 P:br⟪जि⟫ | **jīyate** :br⟪जीयते⟫ | **jita** :br⟪जित⟫ |
+| **kath** 10 U:br⟪कथ्⟫ | **kathyate** :br⟪कथ्यते⟫ | **kathita** :br⟪कथित⟫ |
+| **khād** 1 P:br⟪खाद्⟫ | **khādyate** :br⟪खाद्यते⟫ | **khādita** :br⟪खादित⟫ |
+| **kṛ** 8 U:br⟪कृ⟫ | **kriyate** :br⟪क्रियते⟫ | **kṛta** :br⟪कृत⟫ |
+| **krudh** 4 P:br⟪क्रुध्⟫ | **krudhyate** :br⟪क्रुध्यते⟫ | **kruddha** :br⟪क्रुद्ध⟫ |
+| **kup** 4 P:br⟪कुप्⟫ | **kupyate** :br⟪कुप्यते⟫ | **kupita** :br⟪कुपित⟫ |
+| **labh** 1 Ā:br⟪लभ्⟫ | **labhyate** :br⟪लभ्यते⟫ | **labdha** :br⟪लब्ध⟫ |
+| **man** 4 Ā:br⟪मन्⟫ | **manyate** :br⟪मन्यते⟫ | **mata** :br⟪मत⟫ |
+| **mṛ** 6 Ā:br⟪मृ⟫ | **mriyate** :br⟪म्रियते⟫ | **mṛta** :br⟪मृत⟫ |
+| **muc** 6 U:br⟪मुच्⟫ | **mucyate** :br⟪मुच्यते⟫ | **mukta** :br⟪मुक्त⟫ |
+| **nī** 1 U:br⟪नी⟫ | **nīyate** :br⟪नीयते⟫ | **nīta** :br⟪नीत⟫ |
+| **paś** :br⟪पश्⟫ | **(dṛśyate)** :br⟪दृश्यते⟫ | **(dṛṣṭa)** :br⟪दृष्ट⟫ |
+| **pat** 1 P:br⟪पत्⟫ | **patyate** :br⟪पत्यते⟫ | **patita** :br⟪पतित⟫ |
+| **prach** 6 P:br⟪प्रच्छ्⟫ | **pṛcchyate** :br⟪पृच्छ्यते⟫ | **pṛṣṭa** :br⟪पृष्ट⟫ |
+| **pūj** 10 U:br⟪पूज्⟫ | **pūjyate** :br⟪पूज्यते⟫ | **pūjita** :br⟪पूजित⟫ |
+| **rakṣ** 1 P:br⟪रक्ष्⟫ | **rakṣyate** :br⟪रक्ष्यते⟫ | **rakṣita** :br⟪रक्षित⟫ |
+| **ram** 1 Ā:br⟪रम्⟫ | **ramyate** :br⟪रम्यते⟫ | **rata** :br⟪रत⟫ |
+| **sah** 1 Ā:br⟪सह्⟫ | **sahyate** :br⟪सह्यते⟫ | **soḍha** :br⟪सोढ⟫ |
+| **sic** 6 U:br⟪सिच्⟫ | **sicyate** :br⟪सिच्यते⟫ | **sikta** :br⟪सिक्त⟫ |
+| **śru** 5 P:br⟪श्रु⟫ | **śrūyate** :br⟪श्रूयते⟫ | **śruta** :br⟪श्रुत⟫ |
+| **su** 5 U:br⟪सु⟫ | **sūyate** :br⟪सूयते⟫ | **suta** :br⟪सुत⟫ |
+| **svap** 2 P:br⟪स्वप्⟫ | **supyate** :br⟪सुप्यते⟫ | **supta** :br⟪सुप्त⟫ |
+| **tyaj** 1 P:br⟪त्यज्⟫ | **tyajyate** :br⟪त्यज्यते⟫ | **tyakta** :br⟪त्यक्त⟫ |
+| **uch** :br⟪उछ्⟫ | — | **uṣita** :br⟪उषित⟫ |
+| **vad** 1 P:br⟪वद्⟫ | **udyate** :br⟪उद्यते⟫ | **udita** :br⟪उदित⟫ |
+| **vas** 1 P:br⟪वस्⟫ | **uṣyate** :br⟪उष्यते⟫ | **uṣita** :br⟪उषित⟫ |
+| **vadh** :br⟪वध्⟫ | **vadyate** :br⟪वद्यते⟫ | **hata** :br⟪हत⟫ |
+| **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
+| **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
 ## 12.6. 练习
 
@@ -255,3 +241,4 @@ Da also das sogenannte „Partizip Perfekt Passiv“ bei transitiven Verben in e
 **B) 根据[第10课](/lektionen/lektion10)练习A中的动词形式，构建相应的过去分词（PPPs）。请注意，像 sṛjati 这样的动词形式对应于所有三个性别的过去分词。**
 
 **C) 将[第10课](/lektionen/lektion10)练习C中的句子变为被动语态的过去时。**
+

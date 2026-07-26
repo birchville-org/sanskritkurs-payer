@@ -1,10 +1,10 @@
 ---
-title: 24. lecke
-subtitle: "A datív (⟪चतुर्थी⟫ = \"negyes esetrag\")"
+title: Lektion 24
+subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
 lesson_id: 24
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 24. lecke
@@ -144,26 +144,26 @@ A datívus további felhasználásait később.
 **Vokális tövek**
 
 * **Hímnem / Neutrum -a végződésű:** ⟪देव⟫
-* Dat. sg. ⟪देवाय⟫
-* Dat. pl. ⟪देवेभ्यस्⟫
+  * Dat. sg. ⟪देवाय⟫
+  * Dat. pl. ⟪देवेभ्यस्⟫
 * **Hímnem -i végződésű:** ⟪कवि⟫
-* Dat. sg. ⟪कवये⟫
-* Dat. pl. ⟪कविभ्यस्⟫
+  * Dat. sg. ⟪कवये⟫
+  * Dat. pl. ⟪कविभ्यस्⟫
 * **Hímnem -u végződésű:** ⟪पशु⟫
-* Dat. sg. ⟪पशवे⟫
-* Dat. pl. ⟪पशुभ्यस्⟫
+  * Dat. sg. ⟪पशवे⟫
+  * Dat. pl. ⟪पशुभ्यस्⟫
 * **Nőnem -ā végződésű:** ⟪देवता⟫
-* Dat. sg. ⟪देवतायै⟫
-* Dat. pl. ⟪देवताभ्यस्⟫
+  * Dat. sg. ⟪देवतायै⟫
+  * Dat. pl. ⟪देवताभ्यस्⟫
 * **Nőnem -ī végződésű:** ⟪देवी⟫
-* Dat. sg. ⟪देव्यै⟫
-* Dat. pl. ⟪देवीभ्यस्⟫
+  * Dat. sg. ⟪देव्यै⟫
+  * Dat. pl. ⟪देवीभ्यस्⟫
 * **Nőnem -i végződésű:** ⟪श्रुति⟫
-* Dat. sg. ⟪श्रुतये⟫ vagy ⟪श्रुत्यै⟫ (azaz mint ⟪कवि⟫ vagy mint ⟪देवी⟫)
-* Dat. pl. ⟪श्रुतिभ्यस्⟫
+  * Dat. sg. ⟪श्रुतये⟫ vagy ⟪श्रुत्यै⟫ (azaz mint ⟪कवि⟫ vagy mint ⟪देवी⟫)
+  * Dat. pl. ⟪श्रुतिभ्यस्⟫
 * **Nőnem -u végződésű:** ⟪धेनु⟫
-* Dat. sg. ⟪धेनवे⟫ vagy ⟪धेन्वै⟫
-* Dat. pl. ⟪धेनुभ्यस्⟫
+  * Dat. sg. ⟪धेनवे⟫ vagy ⟪धेन्वै⟫
+  * Dat. pl. ⟪धेनुभ्यस्⟫
 :::
 ## 24.3. Sandhi a végződő -ai és -au esetén
 
@@ -361,11 +361,11 @@ E) Cserélje ki az A) 6. mondatban a datívus szerkezetet egy ekvivalens -⟪अ
 
 Fordítsa szanszkritra:
 
-1. Az istennő, akinek áldozatot nem mutattak be, haragszik az emberekre.
+Az istennő, akinek áldozatot nem mutattak be, haragszik az emberekre.
 
-2. Kiengedi a tehenet a faluba.
+Kiengedi a tehenet a faluba.
 
-3. Most elég = Elég a türelemből.
+Most elég = Elég a türelemből.
 
 4\. Ez jó (⟪हित⟫, ⟪सुख⟫) egy bráhmanának.
 
@@ -397,11 +397,11 @@ Magyarázat: ⟪मुनित्रयम्⟩ „a bölcsek hármasa = a há
 :::
 11\. Üdvözlet (⟪स्वागतम्⟩) Önöknek. Üdvözlet a királynőnek.
 
-12. Önöknek jólétet kívánok (⟪कुशल⟫) = jólét Önöknek!
+Önöknek jólétet kívánok (⟪कुशल⟫) = jólét Önöknek!
 
-13. Nem tekinti őt gyomlának.
+Nem tekinti őt gyomlának.
 
-14. Elegendő egy gyümölcs az evéshez és víz a iváshoz.
+Elegendő egy gyümölcs az evéshez és víz a iváshoz.
 
 15⟪१५⟫. Viszlát! (Újszanszkrit: ⟪पुनर्दर्शनाय⟫)
 

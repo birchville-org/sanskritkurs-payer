@@ -1,5 +1,5 @@
 ---
-title: 19. lecke
+title: Lektion 19
 lesson_id: 19
 ---
 
@@ -177,15 +177,15 @@ belőle:
 
 **Fordítsa szanszkritra:**
 
-1. A Vaiśya-asszony, akinek fia meghalt, sír.
+A Vaiśya-asszony, akinek fia meghalt, sír.
 
-2. Rāma áldoz a nála őrködő istenségnek.
+Rāma áldoz a nála őrködő istenségnek.
 
-3. A költő dicséri a Kṣatriyát, akinek vagyonára vágyik.
+A költő dicséri a Kṣatriyát, akinek vagyonára vágyik.
 
-4. A tűz elégeti annak a férfinak a házát, aki nem tiszteli Agnit áldozattal.
+A tűz elégeti annak a férfinak a házát, aki nem tiszteli Agnit áldozattal.
 
-5. A tigrishez hasonló férfi megöli a Kṣatriya-harcosokat, akik legyőzték Rámát (passzív).
+A tigrishez hasonló férfi megöli a Kṣatriya-harcosokat, akik legyőzték Rámát (passzív).
 
 ## 19.5. ⟪सुभाषितानि⟫
 

@@ -1,10 +1,10 @@
 ---
-title: 45. lecke
-subtitle: "A második személy ragozott formáinak képzése (⟪मध्यमः⟫) hangzó végű toldalék nélküli athémás tövek (folytatás)"
+title: Lektion 45
+subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 45. lecke
@@ -19,9 +19,9 @@ status: stabil
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Jelen idő indikatívus** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \&lt;⟪जुहुषे⟫\&gt; | \&lt;⟪जुहुध्वे⟫\&gt; |
-| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \&lt;⟪अजुहुथास्⟫\&gt; | \&lt;⟪अजुहुध्वम्⟫\&gt; |
-| **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \&lt;⟪जुह्वीथास्⟫\&gt; | \&lt;⟪जुह्वीध्वम्⟫\&gt; |
+| **Indikativ Jelen idő** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
+| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
+| **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
 :::
 ⟪धा⟫ 2U
 
@@ -29,7 +29,7 @@ status: stabil
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Jelen idő indikatívus** :br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:braus: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
+| **Indikativ Jelen idő** :br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:braus: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
 | **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
 | **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
 :::
@@ -72,26 +72,26 @@ pl. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन�
 ::: no-header
 | | megszólító eset (vocativus) egyes szám |
 | --- | --- |
--a végződésű hímnem | ⟪देव⟫ |
--a végződésű középnem | ⟪फल⟫ |
--ā végződésű nőnem | ⟪देवते⟫ |
--i végződésű hímnem | ⟪कवे⟫ |
--i végződésű nőnem | ⟪मते⟫ |
--u végződésű hímnem | ⟪शत्रो⟫ |
--u végződésű nőnem | ⟪धेनो⟫ |
--ī végződésű nőnem | ⟪देवि⟫ |
--ṛ végződésű hímnem | ⟪पितर्⟫ |
--ṛ végződésű nőnem | ⟪मातर्⟫ |
--an végződésű hímnem | ⟪राजन्⟫ |
--an végződésű középnem | ⟪नामन्⟫:br⟪नाम⟫ |
--man/-van végződésű hímnem | ⟪आत्मन्⟫ |
--in végződésű hímnem | ⟪बलिन्⟫ |
--ant végződésű hímnem | ⟪बलिन्⟫:br⟪बलि⟫ |
-mahānt m. | ⟪महन्⟫ |
-mahānt n. | ⟪महत्⟫:br= alanyeset (nominativus) |
--mant/-vant végződésű hímnem | ⟪गुणवन्⟫ |
--mant/-vant végződésű középnem | ⟪गुणवत्⟫:br= alanyeset (nominativus) |
-Határozószók | nem képeznek megszólító esetet (vocativus) |
+| -a végű hímneműek | ⟪देव⟫ |
+| -a végű semlegesneműek | ⟪फल⟫ |
+| -ā végű nőneműek | ⟪देवते⟫ |
+| -i végű hímneműek | ⟪कवे⟫ |
+| -i végű nőneműek | ⟪मते⟫ |
+| -u végű hímneműek | ⟪शत्रो⟫ |
+| -u végű nőneműek | ⟪धेनो⟫ |
+| -ī végű nőneműek | ⟪देवि⟫ |
+| -ṛ végű hímneműek | ⟪पितर्⟫ |
+| -ṛ végű nőneműek | ⟪मातर्⟫ |
+| -an végű hímneműek | ⟪राजन्⟫ |
+| -an végű semlegesneműek | ⟪नामन्⟫:br⟪नाम⟫ |
+| -man/-van végű hímneműek | ⟪आत्मन्⟫ |
+| -in végű hímneműek | ⟪बलिन्⟫ |
+| -ant végű hímneműek | ⟪बलिन्⟫:br⟪बलि⟫ |
+| mahānt h. | ⟪महन्⟫ |
+| mahānt s. | ⟪महत्⟫:br= alanyeset (nominativus) |
+| -mant/-vant végű hímneműek | ⟪गुणवन्⟫ |
+| -mant/-vant végű semlegesneműek | ⟪गुणवत्⟫:br= alanyeset (nominativus) |
+| Névmások | nem képződik megszólító eset (vocativus) |
 :::
 ::: media
 ![](/images/lekt4501.webp)
@@ -106,30 +106,30 @@ Határozószók | nem képeznek megszólító esetet (vocativus) |
 
 A) Fordítsd szanszkritra (a múlt időben kérjük az imperfectumot \&lt;⟪लङ्⟫\&gt; használatával):
 
-1. Te szétosztod a (buddhista) közösséget.
+Te szétosztod a (buddhista) közösséget.
 
 ::: indent
 a közösség szétosztásáról (⟪सङ्घभेद⟫) lásd:
 
 **Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Az Ordensregeln és az Ordensrecht alapfogalmai a Theravāda számára. -- I. rész. -- (Anyagok a buddhizmus alapfogalmaihoz). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
-2. Élveztétek-e a földet?
+Élveztétek-e a földet?
 
-3. Kaptál ajándékot a királytól?
+Kaptál ajándékot a királytól?
 
-4. Szent ember, miért nem félsz a veszélyektől?
+Szent ember, miért nem félsz a veszélyektől?
 
-5. Atyám, hová hagyod el a családot?
+Atyám, hová hagyod el a családot?
 
-6. Śūdra asszony, felvitte a terhet a gazdag bráhmanák házába?
+Śūdra asszony, felvitte a terhet a gazdag bráhmanák házába?
 
-7. Istenasszony, teljesítsd a Vaiśya boldogságra irányuló vágyát, aki érdemeket gyűjtött.
+Istenasszony, teljesítsd a Vaiśya boldogságra irányuló vágyát, aki érdemeket gyűjtött.
 
-8. Elefántok, ne törjétek szét a bilincseket.
+Elefántok, ne törjétek szét a bilincseket.
 
-9. Te oroszlánhoz méltó férfiú, miért nem fordítod teljes figyelmedet az Abszolutra (Brahman-ra)?
+Te oroszlánhoz méltó férfiú, miért nem fordítod teljes figyelmedet az Abszolutra (Brahman-ra)?
 
-10. Te költő, megmérted-e a világokat?
+Te költő, megmérted-e a világokat?
 
 B) Fordítsa le:
 
@@ -149,7 +149,7 @@ B) Fordítsa le:
 
 ::: deleteme-box
 
-**lekt4501.jpg**: Textilblokknyomás, Ahmedabad. -- Képmegjelenítés forrása: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Hozzáférés: 2009-01-08. -- Creative Commons licenc (Nevezd meg! – Nem kereskedelmi célú felhasználás –相同方式 megosztás)
+**lekt4501.jpg**: Textilblokknyomás, Ahmedabad. -- Képmegjelenítés forrása: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Hozzáférés: 2009-01-08. -- Creative Commons licenc (Nevezd meg! – Nem kereskedelmi célú felhasználás – Hasonlóan oszd meg)
 
 **lekt4502.jpg**: Képmegjelenítés forrása: John Isaac / Világbank. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Hozzáférés: 2009-01-08. -- Creative Commons licenc (Nevezd meg! – Nem kereskedelmi célú felhasználás – Ne változtasd)
 :::

@@ -1,9 +1,9 @@
 ---
-title: Lecția 42
-subtitle: "Triburi cu -ṛ"
+title: Lektion 42
+subtitle: "Stämme auf -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -80,12 +80,13 @@ Exemple:
 **⟪रक्षितृ⟫** m. "protector"
 
 **⟪बोधयितृ⟫** m. "trezitor"
-:::: media
+:::
+::: media
 ![lekt4201.jpg](/images/lekt4201.jpg)
 Fig.: ⟪अयं⟫ ⟪बोधयिता⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4201))
-::::
 :::
+
 ::: grammar-box
 Neutre rare cu sufixul -⟪तृ⟫ au o declinare parțial distinctă (a se vedea Kielhorn, Gramatică § 148).
 
@@ -374,5 +375,4 @@ Fig.: ⟪रावणः⟫
 * **Fig. lekt4206**: Poziția lui ⟪मिथिला⟫ și a lui ⟪विदेह⟫, ⟪अयोध्या⟫ și a lui ⟪कोसल⟫. (Sursa imaginii: JIJITH NR / Wikipedia. Licență GNU FDL)
 * **Fig. lekt4207**: ⟪रावणः⟫. Masca de dans Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Sursa imaginii: Manohara Upadhya / Wikipedia. Licență GNU FDL)
 * **Fig. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Imagine a lui ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Sursa imaginii: Wikipedia. Domeniu public)
-
 :::

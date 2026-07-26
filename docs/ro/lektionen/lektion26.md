@@ -1,9 +1,9 @@
 ---
-title: Lecția 26
-subtitle: "Legea de cerebraizare pentru -s- în interiorul cuvântului"
+title: Lektion 26
+subtitle: "Cerebralisationsgesetz für -s- im Wortinnern"
 lesson_id: 26
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -82,7 +82,6 @@ Exemplu: v. mai jos viitorul verbului ⟪मन्⟫
 :::
 de ex. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫ = „Cine dorește să facă o jurământ, se duce la templu.”
 
-
 ::: media
 ![](/images/lekt2602.webp)
 Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
@@ -138,7 +137,7 @@ Exemple:
 ## 26.8. Exercițiu
 
 Formați viitoarele corespunzătoare în număr, persoană și gen verbal (Parasmaipada, Ātmanepada):  
-  
+
 A) fără vocală de legătură -i-:
 
 1.  ⟪अत्ति⟫
@@ -208,3 +207,4 @@ C) Viitor opțional cu și fără -i-:
 1.  ⟪मुह्यन्ति⟫
 2.  ⟪वर्तते⟫
 3.  ⟪अश्नुवते⟫ (în viitorul Parasmaipada)
+

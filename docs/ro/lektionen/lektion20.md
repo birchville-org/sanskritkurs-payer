@@ -1,9 +1,9 @@
 ---
-title: Lecția 20
-subtitle: "Compozitive posesive = ⟪बहुव्रीहि⟫ m."
+title: Lektion 20
+subtitle: "Possesivkomposita = ⟪बहुव्रीहि⟫ m."
 lesson_id: 20
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -34,7 +34,6 @@ Jodhpur = ⟪जोधपुर⟫
 
 :::
 Exemple:
-
 
 ::: indent
 ⟪गतपापः⟫ = ⟪गतं⟫ ⟪पापं⟫ ⟪यस्य⟫ ⟪सः⟫ = "cel al cărui rău a mers" = "cel care este liber de fapte rele"
@@ -70,7 +69,7 @@ etc.
 Tradițional, se face distincția între:
 
 *   ⟪समानाधिकरणबहुव्रीहिः⟫ : în ⟪विग्रहवाक्य⟫ prima componentă și a doua componentă se află în același caz
-    
+
 *   ⟪व्यधिकरणबहुव्रीहिः⟫ : în ⟪विग्रहवाक्य⟫ prima componentă și a doua componentă se află în cazuri diferite
 
 ## 20.2. Bahuvrīhi cu un component anterior atributiv
@@ -140,13 +139,14 @@ Tradițional, se face distincția între:
 
 ::: indent
 ⟪जातमात्रं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = ⟪जातं⟫ ⟪मात्रा⟫ ⟪यस्य⟫ ⟪तं⟫ ⟪शत्रुं⟫ ⟪घ्नन्ति⟫ = "ei ucid un dușman al cărui măsură este apariția" = "ei ucid dușmanul de îndată ce a apărut"
-:::: media
+:::
+::: media
 ![](/images/lekt2005.webp)
 Fig.: ⟪देवा⟫ ⟪यीश्वादयः⟫
 Isus și ceilalți zei, Ahmedabad
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2005))
-::::
 :::
+
 ## 20.4. Bahuvrīhi cu un prim element cauzal
 
 adică Bahuvrīhi, al cărui prim element reprezintă un caz altul decât nominativul (⟪प्रथमा⟫).
@@ -167,12 +167,12 @@ Exemplu:
 :::
 ::: indent
 ⟪दण्डहस्तः⟫ =  ⟪दण्डो⟫ ⟪हस्ते⟫ (Loc. sg.) ⟪यस्य⟫ ⟪सः⟫ = "cel în a cărui mână se află un baston" = "cel care poartă un baston în mână."
-:::: media
+:::
+::: media
 ![](/images/lekt2001.webp)
 Fig.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
 Siemreap (ក្រុងសៀមរាប), Cambodgia, sec. al IX-lea d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2001))
-::::
 :::
 ## 20.5. Bahuvrīhi cu element anterior adverbial
 
@@ -194,12 +194,12 @@ Exemple:
 :::
 ::: indent
 ⟪सपुत्रः⟫ =  ⟪सहपुत्रः⟫ =  ⟪पुत्रेण⟫ ⟪सहितः⟫ ⟪।⟫ ⟪पुत्रेण⟫ ⟪सह्⟫ = "cu un fiu", "însoțit de un fiu"
-:::: media
+:::
+::: media
 ![](/images/lekt2006.webp)
 Fig.: ⟪सपुत्रा⟫
 Madhya Pradesh
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2006))
-::::
 :::
 ## 20.6. Flexiunea componentei finale a unui Bahuvrīhi
 
@@ -244,11 +244,11 @@ Deși fiecare Bahuvrīhi poate fi descompus într-o propoziție relativă, nu fi
 
 ::: indent
 „Când traduci din germană sau dintr-o altă limbă modernă în sanscrită, nu toate propozițiile secundare pot fi redate prin compuse, ci doar cele ornamentale și descriptive; cele care conțin o determinare conceptual necesară sau importantă apar, de asemenea, în sanscrită ca propoziții relative.”
-:::: media
+:::
+::: media
 ![](/images/lekt2002.jpg)
 Fig.: Hermann Jacobi
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2002))
-::::
 :::
 Acest lucru poate fi adevărat. Cu toate acestea, indienii consideră atunci multe lucruri ca fiind ornamentale și descriptive, ceea ce noi am considera „conceptual necesar sau important”.
 
@@ -486,12 +486,12 @@ Explicație: ⟪भाव्नातस्⟫ = ⟪भावना⟫ + sufixul
 
 ::: indent
 Explicație: ⟪तपस्⟫ n. (declinare mai târziu): cărbune încins, căldură, chin; ascetism, asceză
-:::: media
+:::
+::: media
 ![](/images/lekt2010.webp)
 Ilustr.: ⟪तपस्⟫
 Buddha ca ascet înainte de iluminarea sa eliberatoare, Gandhara, sec. 2./3. d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2010))
-::::
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (Pentru sistemul Sāṃkhya, vezi Basham, Minuni p. 324f.)
 
@@ -522,12 +522,12 @@ Un ⟪सुभाषितम्⟫ :
 ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫ ⟪॥⟫
 
 Explicație: -da la finalul unui compus: "dând"
-:::: media
+:::
+::: media
 ![](/images/lekt2009.webp)
 Ilustr.: ⟪लोकानां⟫ ⟪करदा⟫ ⟪मही⟫
 Karnataka
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2009))
-::::
 :::
 Despre relațiile de proprietate:
 
@@ -548,12 +548,12 @@ Un ⟪सुभाषितम्⟫ despre frumusețea feminină:
 ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫
 
 Explicație: toate formele, cu excepția ⟪कं⟫ și ⟪स्त्रीणाम्⟫, sunt Nominativ singular neutru și se referă la ⟪वपुस्⟫.
-:::: media
+:::
+::: media
 ![](/images/lekt2003.webp)
 Ilustr.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2003))
-::::
 :::
 Încă un ⟪सुभाषितम्⟫ :
 
@@ -587,3 +587,4 @@ Explicație: ⟪इच्छताम्⟫ = genitiv plural Participiu Prezent 
 
 **lekt2010:** Buddha ca ascet înainte de iluminarea sa eliberatoare, Gandhara, sec. 2./3. [Sursa imaginii: Wikipedia, Licență GNU FD]
 :::
+

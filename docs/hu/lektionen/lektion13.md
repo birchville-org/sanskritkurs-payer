@@ -1,10 +1,10 @@
 ---
-title: 13. lecke
-subtitle: "PPP a -na- végződésen"
+title: Lektion 13
+subtitle: "PPP auf -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 13. lecke
@@ -94,8 +94,8 @@ A szófaji törzsszintézést alkalmazó főnévi törzseknél megkülönböztet
 
 | | egyes szám:br⟪एकवचन⟫ | kettes szám (dualis):br⟪द्विवचन⟫ | többes szám:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **Hím- és nőnem esetén** :br⟪पुंस्⟫, ⟪स्त्री⟫ | alanyeset (nominativus):br⟪प्रथमा⟫:brtárgyeset (accusativus):br⟪द्वितीया⟫:brmegszólító eset (vocativus):br⟪सम्बोधनप्रथमा⟫ | alanyeset (nominativus):br⟪प्रथमा⟫:brtárgyeset (accusativus):br⟪द्वितीया⟫:brmegszólító eset (vocativus):br⟪सम्बोधनप्रथमा⟫ | alanyeset (nominativus):br⟪प्रथमा⟫:br:brmegszólító eset (vocativus):br⟪सम्बोधनप्रथमा⟫ |
-| **Semleges nem esetén** :br⟪नपुंसक⟫ | — | — | alanyeset (nominativus):br⟪प्रथमा⟫:brtárgyeset (accusativus):br⟪द्वितीया⟫:brmegszólító eset (vocativus):br⟪सम्बोधनप्रथमा⟫ |
+| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | alanyeset (nominativus):br⟪प्रथमा⟫:brtárgyeset (accusativus):br⟪द्वितीया⟫:brmegszólító eset (vocativus):br⟪सम्बोधनप्रथमा⟫ | alanyeset (nominativus):br⟪प्रथमा⟫:brtárgyeset (accusativus):br⟪द्वितीया⟫:brmegszólító eset (vocativus):br⟪सम्बोधनप्रथमा⟫ | alanyeset (nominativus):br⟪प्रथमा⟫:br:brmegszólító eset (vocativus):br⟪सम्बोधनप्रथमा⟫ |
+| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | alanyeset (nominativus):br⟪प्रथमा⟫:brtárgyeset (accusativus):br⟪द्वितीया⟫:brmegszólító eset (vocativus):br⟪सम्बोधनप्रथमा⟫ |
 
 **Minden egyéb eset gyenge.**
 
@@ -141,7 +141,7 @@ Konsonánssal végződő tövek esetén:
 * erős tő: Nomen + -mant- / -vant-
 * gyenge tő: Nomen + -mat- / -vat- (eredetileg: *-mnt- / *-vnt-)
 
-| | | hímnem || középnem ||
+| | | hímnem || semlegesnem ||
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | egyes szám:br⟪एकवचन⟫ | alanyeset (nominativus):br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
 | | tárgyeset (accusativus):br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |

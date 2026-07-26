@@ -1,10 +1,10 @@
 ---
-title: 42. lecke
-subtitle: "A -ṛ végződésű tövek"
+title: Lektion 42
+subtitle: "Stämme auf -ṛ"
 lesson_id: 42
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 42. lecke
@@ -25,8 +25,8 @@ Ide tartozó főnevek nagy részét a ⟪कृत्⟫-suffixummal képzett -�
 
 *   **Erős töv: -ār**
 *   **Gyenge töv**
-*   **magánhangzó előtt: -r**
-*   **mássalhangzó előtt: -ṛ**
+    *   **magánhangzó előtt: -r**
+    *   **mássalhangzó előtt: -ṛ**
 
 Vegye figyelembe a szabálytalan képzéseket (**pirossal** jelölve)!
 :::
@@ -111,8 +111,8 @@ Ide tartoznak a következő rokonsági megnevezések:
 
 *   **erős tő: -ar**
 *   **gyenge tő**
-*   **magánhangzó előtt: -r**
-*   **mássalhangzó előtt: -ṛ**
+    *   **magánhangzó előtt: -r**
+    *   **mássalhangzó előtt: -ṛ**
 :::
 Példák:
 
@@ -222,8 +222,8 @@ Inf. ⟪शंसितुम्⟫
 
 ⟪पितृ⟫ m. Plural: a szellemek, azaz
 
-1. apa, nagyapa, dédapa
-2. az emberiség ősei
+1.  apa, nagyapa, dédapa
+2.  az emberiség ősei
 
 Mindkettőjüknek rituáléket végeznek, úgynevezett ⟪श्राद्ध⟫ n. Naponta három-három férfi ősnek (mind az apa, mind az anya oldalról) vizet és bizonyos alkalmakkor rizsgombócokat vagy lisztesgombócokat (⟪पिण्ड⟫ m. "gombóc") ajánlanak fel. Így az őseket táplálják meg. E szertartás végrehajtása egyike azoknak az okoknak, amiért férfiként fiút kell nemzeni. Azok, akiket ez a ⟪पिण्ड⟫-ajándék összeköt, ⟪सपिण्ड⟫ (akiknek közös a पिण्ड) nevet viselnek. A ⟪सपिण्ड⟫ hat nemzedéket foglal magában: három visszafelé (a dédapáig) és három előre (a nagyunokáig).
 

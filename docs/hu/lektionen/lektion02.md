@@ -1,9 +1,9 @@
 ---
 title: Lektion 2
-subtitle: "A névszavas mondat és a ragozás alapjai"
+subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
 lesson_id: 2
-category: "Nyelvtan"
-status: "stabil"
+category: "Grammatik"
+status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
@@ -29,13 +29,13 @@ A nominális mondatban az alany a nominatívuszban (első eset = **prathamā** f
 A szanszkritban léteznek:
 
 - **három szám** (számformák) = **vacana** n. -- ⟪वचन⟫
-- egyes szám (egyes) = **ekavacana** n. -- ⟪एकवचन⟫
-- kettes szám (kettős) = **dvivacana** n. -- ⟪द्विवचन⟫
-- többes szám (többes) = **bahuvacana** n. -- ⟪बहुवचन⟫
+  - egyes szám (egyes) = **ekavacana** n. -- ⟪एकवचन⟫
+  - kettes szám (kettős) = **dvivacana** n. -- ⟪द्विवचन⟫
+  - többes szám (többes) = **bahuvacana** n. -- ⟪बहुवचन⟫
 - **három nem** (nyelvtani nemek) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
-- hímnem (hím) = **puṃs** m. -- ⟪पुंस्⟫
-- nőnem (nő) = **strī** f. -- ⟪स्त्री⟫
-- középnem (középső) = **napuṃsaka** n. -- ⟪नपुंसक⟫
+  - hímnem (hím) = **puṃs** m. -- ⟪पुंस्⟫
+  - nőnem (nő) = **strī** f. -- ⟪स्त्री⟫
+  - középnem (középső) = **napuṃsaka** n. -- ⟪नपुंसक⟫
 - **nyolc eset** (esetragok) = **sup** -- ⟪सुप्⟫ (= esetragok)
 
 A deklinációhoz az esetragok (**sup** = ⟪सुप्⟫) kapcsolódnak a úgynevezett **főnémi tőhöz** (a főnév alakja esetragok nélkül).
@@ -77,29 +77,29 @@ Lásd még az áttekintést:
 Kiejtés végén álló **-s**:
 
 - **abszolút kiejtés végén** (mondat vége) **Visarga (-ḥ)**-vá válik:
-- **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
-- **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
-- **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
+  - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
+  - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
+  - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
 - **hangtalan hangok előtt**:
-- **k, kh, p, ph** és **ś, ṣ, s** előtt: **Visarga (-ḥ)**-vá válik
-- **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ („Śiva egy isten”)
-- **c, ch** előtt: **-ś**-vá válik
-- **ṭ, ṭh** előtt: **-ṣ**-vá válik
-- **t, th** előtt: **-s** marad
-- **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ („Caitanya egy szent”)
+  - **k, kh, p, ph** és **ś, ṣ, s** előtt: **Visarga (-ḥ)**-vá válik
+    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ („Śiva egy isten”)
+  - **c, ch** előtt: **-ś**-vá válik
+  - **ṭ, ṭh** előtt: **-ṣ**-vá válik
+  - **t, th** előtt: **-s** marad
+    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ („Caitanya egy szent”)
 
 - **hangzó hangok előtt**:
-- nem a-vowel után: **-r**-rá válik
-- **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ („Māgha egy költő”)
-- nem a-vowel után **r-** előtt: **-s** kiesik, a magánhangzó megnyúlik.
-- **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ („Rāma egy tanár”)
-- **a-** után: **-as**
-- hangzó mássalhangzók előtt/a: **-o**-vá válik (kezdő a kiesik » ⟪ऽ⟫)
-- **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
-- **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
-- más magánhangzók előtt: **-a** (hiátus)
-- **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
+  - nem a-vowel után: **-r**-rá válik
+    - **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ („Māgha egy költő”)
+  - nem a-vowel után **r-** előtt: **-s** kiesik, a magánhangzó megnyúlik.
+    - **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ („Rāma egy tanár”)
+  - **a-** után: **-as**
+    - hangzó mássalhangzók előtt/a: **-o**-vá válik (kezdő a kiesik » ⟪ऽ⟫)
+      - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
+      - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
+    - más magánhangzók előtt: **-a** (hiátus)
+      - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
 
 ## 2.5. Szószedet
 
@@ -119,28 +119,28 @@ Kiejtés végén álló **-s**:
 A klasszikus elmélet szerint (pl. Manusmṛti I, 88-91) a feladatok megoszlása:
 
 - **a bráhmanák**
-- Védatanulmányozás
-- Tanítás
-- Önmagukért végzett áldozat
-- Másokért végzett áldozat
-- Adományozás
-- Ajándékok fogadása
+  - Védatanulmányozás
+  - Tanítás
+  - Önmagukért végzett áldozat
+  - Másokért végzett áldozat
+  - Adományozás
+  - Ajándékok fogadása
 - **a kṣatriyák**
-- A nép védelme
-- Ajándékok (bráhmanáknak) adása
-- Önmagukért áldozni
-- Védatanulmányozás
+  - A nép védelme
+  - Ajándékok (bráhmanáknak) adása
+  - Önmagukért áldozni
+  - Védatanulmányozás
 - **a vaiśyák**
-- Állattartás
-- Mezőgazdaság
-- Kereskedelem
-- Pénzkiadás kamatozással
-- Önmagukért áldozni
-- Ajándékok (bráhmanáknak) adása
-- Önmagukért áldozni
-- Védatanulmányozás
+  - Állattartás
+  - Mezőgazdaság
+  - Kereskedelem
+  - Pénzkiadás kamatozással
+  - Önmagukért áldozni
+  - Ajándékok (bráhmanáknak) adása
+  - Önmagukért áldozni
+  - Védatanulmányozás
 - **a śūdrák**
-- A három felsőbb rend szolgálata
+  - A három felsőbb rend szolgálata
 :::
 **dvija** m. -- ⟪द्विज⟫ : "Kétszer született" (a felsőbb három rend beavatottjai: brāhmaṇa, kṣatriya, vaiśya).
 
@@ -211,17 +211,17 @@ A varṇák ennek megfelelően születési rendek.
 **A) Alkalmazzza a szandhit, és alkosson névszói mondatokat:**
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
-= ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
+   = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)**
-= ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
+   = ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
 3. **gurus ... (brāhmaṇa, Candrakīrti)**
-= ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
+   = ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
 4. **vaiśyas ... (Tulādhara)**
-= ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
+   = ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
 5. **sādhus ... (guru, Rāma)**
-= ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
+   = ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
 6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
-= ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
+   = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
 
 **B) Fordítsa szanszkritra:**
 

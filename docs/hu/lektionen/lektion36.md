@@ -1,9 +1,9 @@
 ---
-title: 36. lecke
-subtitle: "A perfekta különleges képzései"
+title: Lektion 36
+subtitle: "Besondere Bildungen des Perfekts"
 lesson_id: 36
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
+category: "Grammatik"
 status: stable
 ---
 
@@ -12,7 +12,7 @@ status: stable
 ## 36.1. A perfekta különleges képzései
 
 ::: grammar-box
-1. Néhány gyökér a reduplikációs szótag után megváltoztatja a gyöktőhangot.
+Néhány gyökér a reduplikációs szótag után megváltoztatja a gyöktőhangot.
 :::
 Példák:
 
@@ -23,23 +23,23 @@ Példák:
 | ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫sig[⟪घा⟫]⟪न⟫ | ⟪ज⟫sig[⟪घ्नु⟫]⟪र्⟫ | | |
 
 ::: grammar-box
-2. A ⟪विद्⟫ gyök "tud" perfekttal rendelkezik jelenértelmű jelentéssel.
+A ⟪विद्⟫ gyök "tud" perfekttal rendelkezik jelenértelmű jelentéssel.
 :::
 ::: grammar-box
 | Tő:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| ⟪विद्⟫ 2P | ⟪वेद⟫ :brő/ők/tudja | ⟪विदुर्⟫ :brő tudják
+| ⟪विद्⟫ 2P | ⟪वेद⟫ :brer/sie/es weiss | ⟪विदुर्⟫ :brsie wissen |
 :::
 ::: grammar-box
-3. A ⟪अह्⟩ "mond" gyöknek csak perfektképzetei vannak (Perfektum I). Ezek jelenértelműek.
+A ⟪अह्⟩ "mond" gyöknek csak perfektképzetei vannak (Perfektum I). Ezek jelenértelműek.
 :::
 ::: grammar-box
 | Tő:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
 | :--- | :--- | :--- |
-| ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brő/mondja | ⟪आहुर्⟫ :brmonddák
+| ⟪अह्⟫ :brPerf. I | ⟪आह⟫ :brer/sie/es sagt | ⟪आहुर्⟫ :brsie sagen |
 :::
 ::: grammar-box
-4. A ⟪भू⟫ 1P gyöknek perfekttöve ⟪बभू⟫, magánhangzók előtt pedig ⟪बभूव्⟫.
+A ⟪भू⟫ 1P gyöknek perfekttöve ⟪बभू⟫, magánhangzók előtt pedig ⟪बभूव्⟫.
 :::
 ::: grammar-box
 | Tő:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. |
@@ -70,7 +70,7 @@ Példák:
 | Tő:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪ईक्ष्⟫ 1Ā | | | **⟪ईक्षां⟫ ⟪चक्रे⟫** :br ⟪ईक्षामास⟫ :br **⟪ईक्षां⟫ ⟪बभूव⟫** | **⟪ईक्षां⟫ ⟪चक्रिरे⟫** :br ⟪ईक्षामासुर्⟫ :br **⟪ईक्षां⟫ ⟪बभूवुर्⟫** |
-| ⟪बन्ध्⟫ :brKauzatívum: ⟪बन्धय⟫-:br"kötetni" | **⟪बन्धयां⟫ ⟪चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
+| ⟪बन्ध्⟫ :brKausativ: ⟪बन्धय⟫-:br"binden lassen" | **⟪बन्धयां⟫ ⟪चकार⟫** :br ⟪बन्धयामास⟫ :br **⟪बन्धयां⟫ ⟪बभूव⟫** | **⟪बन्धयां⟫ ⟪चक्रुर्⟫** :br ⟪बन्धयामासुर्⟫ :br **⟪बन्धयां⟫ ⟪बभूवुर्⟫** | | |
 
 ## 36.3. Perfekt passivum
 
@@ -247,10 +247,10 @@ Kép: ⟪लोमहर्षः⟫
 
 A) Az alábbi gyököknek mind reduplikált, mind periphrasztikus perfektrumuk van. Képezze a következő alakokhoz a megfelelő periphrasztikus és reduplikált perfektrumformákat:
 
-1. ⟪बिभ्रते⟫
-2. ⟪बिभ्यति⟫
-3. ⟪जुहोति⟫
-4. ⟪वेत्ति⟫
+1.  ⟪बिभ्रते⟫
+2.  ⟪बिभ्यति⟫
+3.  ⟪जुहोति⟫
+4.  ⟪वेत्ति⟫
 
 B) A ⟪आस्⟫ "ül" gyök periphrasztikus perfekttel rendelkezik. Alakítsák ki ezt a következő formákra:
 
@@ -467,46 +467,46 @@ Ebben a versben ⟪ब्रू⟫ az birtokos esettel van konstruálva
 
 Határozza meg és fordítsa le az alábbi szóalakokat minden lehetséges módon:
 
-1. ⟪नयति⟫
-2. ⟪समस्कुर्वन्⟫
-3. ⟪स्यात्⟫
-4. ⟪यस्याम्⟫
-5. ⟪अधीयते⟫
-6. ⟪प्रोचुः⟫
-7. ⟪समादधाति⟫
-8. ⟪हरेः⟫
-9. ⟪हरे⟫
-10. ⟪हरेत्⟫
-11. ⟪जह्रे⟫
-12. ⟪आक्रीणीत⟫
-13. ⟪व्यक्रियत⟫
-14. ⟪प्राजहुः⟫
-15. ⟪प्रजहुः⟫
-16. ⟪ददे⟫
-17. ⟪दत्ते⟫
-18. ⟪हिते⟫
-19. ⟪हीयते⟫
-20. ⟪जज्ञे⟫
-21. ⟪यज्ञे⟫
-22. ⟪तेन⟫
-23. ⟪तेने⟫
-24. ⟪ततः⟫
-25. ⟪सतः⟫
-26. ⟪जगौ⟫
-27. ⟪पशौ⟫
-28. ⟪मेने⟫
-29. ⟪माने⟫
-30. ⟪एतस्मात्⟫
-31. ⟪तायेत⟫
-32. ⟪तया⟫
-33. ⟪लेभिरे⟫
-34. ⟪ऊषुः⟫
-35. ⟪व्यानक्⟫
-36. ⟪युङ्क्ते⟫
-37. ⟪युक्ते⟫
-38. ⟪युगे⟫
-39. ⟪अपिपः⟫
-40. ⟪अपिबत्⟫
+1.  ⟪नयति⟫
+2.  ⟪समस्कुर्वन्⟫
+3.  ⟪स्यात्⟫
+4.  ⟪यस्याम्⟫
+5.  ⟪अधीयते⟫
+6.  ⟪प्रोचुः⟫
+7.  ⟪समादधाति⟫
+8.  ⟪हरेः⟫
+9.  ⟪हरे⟫
+10.  ⟪हरेत्⟫
+11.  ⟪जह्रे⟫
+12.  ⟪आक्रीणीत⟫
+13.  ⟪व्यक्रियत⟫
+14.  ⟪प्राजहुः⟫
+15.  ⟪प्रजहुः⟫
+16.  ⟪ददे⟫
+17.  ⟪दत्ते⟫
+18.  ⟪हिते⟫
+19.  ⟪हीयते⟫
+20.  ⟪जज्ञे⟫
+21.  ⟪यज्ञे⟫
+22.  ⟪तेन⟫
+23.  ⟪तेने⟫
+24.  ⟪ततः⟫
+25.  ⟪सतः⟫
+26.  ⟪जगौ⟫
+27.  ⟪पशौ⟫
+28.  ⟪मेने⟫
+29.  ⟪माने⟫
+30.  ⟪एतस्मात्⟫
+31.  ⟪तायेत⟫
+32.  ⟪तया⟫
+33.  ⟪लेभिरे⟫
+34.  ⟪ऊषुः⟫
+35.  ⟪व्यानक्⟫
+36.  ⟪युङ्क्ते⟫
+37.  ⟪युक्ते⟫
+38.  ⟪युगे⟫
+39.  ⟪अपिपः⟫
+40.  ⟪अपिबत्⟫
 
 ::: deleteme-box
 

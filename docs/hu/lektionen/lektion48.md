@@ -1,10 +1,10 @@
 ---
-title: 48. lecke
+title: Lektion 48
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 48. lecke
@@ -34,19 +34,19 @@ status: stabil
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Első személy** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
-| **Második személy** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **Harmadik személy** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3. oszt.: -atu** :br(kiv. -\*ntu) | \-atām:br(kiv.: -\*ntām) |
+| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
+| **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
+| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **3. oszt.: -atu** :br(kiv. -\*ntu) | \-atām:br(kiv.: -\*ntām) |
 :::
 Megjegyzés: ¹ A második és harmadik személy egyes számának végződése -tát-tal helyettesíthető, ha áldás kívánság fejeződik ki. A -tát (a harmadik személy egyes számában is) a gyenge tőhöz kapcsolódik.
 
 ::: grammar-box
-| **A 2. sz. felszólító mód végződésének formája:** ||
+| **Zur Form der Végződés der 2.sg.Felszólító mód.P:** ||
 | :---: | :--- |
-| **\-ø** Az 5. és 8. osztály tője, ahol a végén álló \-u előtt csak egy mássalhangzó van.
-| **\-āna** A 9. osztály tője, mássalhangzóra végződik; helyettesíti a \-nī+végződés \-āna-t
-| **\-hi** minden többi jelen időtő, amely magánhangzóra vagy félmagánhangzóra végződik (kivétel: ⟪जुहुधि⟫ a **⟪हु⟫ 3** esetében)
-| **\-dhi** Minden többi esetben
+| **\-ø** Az 5. és 8. osztály tője, ahol a végén álló \-u előtt csak egy mássalhangzó van. | Tőn der 5. und 8. Klasse, bei denen dem auslautenden \-u nur ein Konsonant vorausgeht. |
+| **\-āna** A 9. osztály tője, mássalhangzóra végződik; helyettesíti a \-nī+végződés \-āna-t | Tőn der 9. Klasse, die auf Konsonant enden, substituieren für \-nī+Végződés \-āna |
+| **\-hi** minden többi jelen időtő, amely magánhangzóra vagy félmagánhangzóra végződik (kivétel: ⟪जुहुधि⟫ a **⟪हु⟫ 3** esetében) | alle übrigen Jelen időstämme, die auf Vokal oder Halbvokal enden (Ausnahme: ⟪जुहुधि⟫ zu **⟪हु⟫ 3**) |
+| **\-dhi** Minden többi esetben | Alle übrigen Fälle |
 :::
 ### 48.2.2. A jelen időtő formája
 
@@ -67,7 +67,7 @@ Megjegyzés: ¹ A második és harmadik személy egyes számának végződése -
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪द्विड्ढि⟩:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
 :::
 ⟪आस्⟫ 2Ā
@@ -96,9 +96,9 @@ Megjegyzés: ¹ A második és harmadik személy egyes számának végződése -
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. személy** :br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
-| **2. személy** :br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
-| **3. személy** :br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
 :::
 ⟪शी⟫ 2Ā (mindig magas fokú!)
 
@@ -106,9 +106,9 @@ Megjegyzés: ¹ A második és harmadik személy egyes számának végződése -
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. személy** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
-| **2. személy** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
-| **3. személy** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | sig[⟪शेरताम्⟫] |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | sig[⟪शेरताम्⟫] |
 :::
 ⟪हन्⟫ 2P
 
@@ -116,9 +116,9 @@ Megjegyzés: ¹ A második és harmadik személy egyes számának végződése -
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. személy** :br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
-| **2. személy** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(aus: \*hn-ta) |
-| **3. személy** :br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(aus: \*hn-ta) |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
 
 Megjegyzés: ¹ A ⟪जहि⟫ magyarázata lásd: Thumb-Hauschild I,2 S. 253
 :::
@@ -128,9 +128,9 @@ Megjegyzés: ¹ A ⟪जहि⟫ magyarázata lásd: Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. személy** :br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
-| **2. személy** :br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br sig[⟪स्तुवीहि⟫] | ⟪स्तुत⟫:br sig[⟪स्तुवीत⟫] | ⟪स्तुष्व⟫:br sig[⟪स्तुवीष्व⟫] | ⟪स्तुध्वम्⟫:br sig[⟪स्तुवीध्वम्⟫] |
-| **3. személy** :br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br sig[⟪स्तवीतु⟫] | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br sig[⟪स्तुवीताम्⟫] | ⟪स्तुवताम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br sig[⟪स्तुवीहि⟫] | ⟪स्तुत⟫:br sig[⟪स्तुवीत⟫] | ⟪स्तुष्व⟫:br sig[⟪स्तुवीष्व⟫] | ⟪स्तुध्वम्⟫:br sig[⟪स्तुवीध्वम्⟫] |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br sig[⟪स्तवीतु⟫] | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br sig[⟪स्तुवीताम्⟫] | ⟪स्तुवताम्⟫ |
 :::
 ⟪अस्⟫ 2P
 
@@ -138,9 +138,9 @@ Megjegyzés: ¹ A ⟪जहि⟫ magyarázata lásd: Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. személy** :br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
-| **2. személy** :br⟪मध्यमः⟫ | sig[⟪एधि⟫] :br(aus: \*s-dhi) | ⟪स्त⟫ |
-| **3. személy** :br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪एधि⟫] :br(aus: \*s-dhi) | ⟪स्त⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
 :::
 ⟪शास्⟫ 2P
 
@@ -148,9 +148,9 @@ Megjegyzés: ¹ A ⟪जहि⟫ magyarázata lásd: Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. személy** :br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
-| **2. személy** :br⟪मध्यमः⟫ | sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
-| **3. személy** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | sig[⟪शासतु⟫] :brunregelm. hochstufig |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
 ### 48.2.4. Harmadik jelen időosztály (⟪जुहोत्यादि⟫)
 
@@ -163,9 +163,9 @@ Megjegyzés: ¹ A ⟪जहि⟫ magyarázata lásd: Thumb-Hauschild I,2 S. 253
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. személy** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \&lt;⟪जुहवै⟫\&gt; | \&lt;⟪जुहवामहै⟫\&gt; |
-| **2. személy** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brszabályos¹ | ⟪जुहुत⟫ | \&lt;⟪जुहुष्व⟫\&gt; | \&lt;⟪जुहुध्वम्⟫\&gt; |
-| **3. személy** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \&lt;⟪जुहुताम्⟫\&gt; | \&lt;⟪जुह्वताम्⟫\&gt; |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
 
 Megjegyzés: ¹ Disszimiláció, így nem követik egymást két ⟪ह्⟫ szótag.
 :::
@@ -175,9 +175,9 @@ Megjegyzés: ¹ Disszimiláció, így nem követik egymást két ⟪ह्⟫ sz
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. személy** :br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
-| **2. személy** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
-| **3. személy** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
 
 Megjegyzés: ¹ ⟪धेहि⟫ a \*dhazdhi-ból: az indogermán z hangzó mássalhangzó kiesése helyett nyújtás; l. Thumb-Hauschild I,1 302. o.
 :::
@@ -187,9 +187,9 @@ Megjegyzés: ¹ ⟪धेहि⟫ a \*dhazdhi-ból: az indogermán z hangzó m�
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. személy** :br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
-| **2. személy** :br⟪मध्यमः⟫ | sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
-| **3. személy** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
 ## 48.3. A névképzésről: ⟪तद्धित⟫-képzők -a és -ya
 
@@ -368,7 +368,7 @@ B) Fordítsd szanszktra (használd az imperatívuszt, és ahol lehetséges a 2. 
 5. „Gyere, szerzetes!” szavakkal Buddha felvette a férfit a szerzetesi rendbe (⟪उपसम्पद्⟩ causativum).
 6. Legyetek valódi Manu utódai!
 7. Dicsérni akarom ⟪शिव⟩-t és a többi isteneket.
-8! Mesélj!
+8. 8! Mesélj!
 9. Mérd fel a poklokat!
 10. Ők (többes szám) feküdjenek ezeken a fekhelyeken.
 11. A tigrisszerű férfiak öljék meg azokat, akik Indra ellenségei.

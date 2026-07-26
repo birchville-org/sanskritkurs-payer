@@ -1,8 +1,8 @@
 ---
-title: Lecția 9
-subtitle: "Samāhāradvandva și sufixe nominale -ka/-aka"
+title: Lektion 9
+subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
 lesson_id: 9
-category: "Gramatică"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
 ---
@@ -16,7 +16,6 @@ last_reconstructed: 2026-05-07
 - Vocabular referitor la meserii și roluri sociale
 - Citate din texte clasice de lege (Dharmaśāstra)
 :::
----
 
 ## 9.1. Samāhāradvandva (⟪समाहारद्वन्द्व⟫ = "Sumarizare-dvandva")
 
@@ -27,11 +26,7 @@ de ex. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्राम
 :::
 Împreună cu această regulă de bază pentru formarea Samāhāradvandvas, există încă o serie de alte reguli, pe care le poți găsi la Pāṇini 2,4,2-17 sau, de exemplu, în lucrarea lui Mr. R. Kale, A higher Sanskrit grammar, reprint 1969, § 189 - 192 a. În diferitele etape ale dezvoltării limbii, nu au fost întotdeauna respectate aceleași reguli!
 
----
-
 ## 9.2. Despre formarea stemelor nominale
-
----
 
 ### 9.2.1. -ka (taddhita)
 
@@ -51,7 +46,6 @@ de ex. **āhāra-nidrā-maithuna-bhayam** = ⟪आहारनिद्राम
    **kāśi f. "Benares" » kāśika 3 ⟪काशिक⟫ "născut în Benares, originar din Benares"**
    **rūpa n. "formă" » rūpaka 3 ⟪रूपक⟫ "care posedă forma a ceva"**
 :::
----
 
 ### 9.2.2. -aka (kṛt), fem. adesea -ikā
 
@@ -62,14 +56,14 @@ Un vocal final al rădăcinii, precum și **-a-** la penultima poziție a rădă
 :::
 **Exemple:**
 
-| Rădăcină:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Semnificație |
+| Wurzel:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Semnificație |
 | :--- | :--- | :--- |
-| **kṛ**:br8 U:br⟪कृ⟫:br"a face" | **kāraka**:br(⟪कारक⟫) | "Cel care produce, făcătorul" |
-| **śru**:br5 P:br⟪श्रु⟫:br"a auzi" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Ascultător, elev,:brbuddh.: adep al Buddha" |
-| **nī**:br1 U:br⟪नी⟫:br"a conduce" | **nāyaka** m.:br(⟪नायक⟫) /:br**nāyikā** f.:br(⟪नायिका⟫) | "Conducător, stăpân, soț,:briubit / iubită, doamnă" |
-| **yaj**:br1 U:br⟪यज्⟫:br"a jertfi" | **yājaka** m.:br(⟪याजक⟫) | "Cel care jertfește, preot sacrificator" |
-| **nṛt**:br4 P:br⟪नृत्⟫:br"a dansa" | **nartaka** m.:br(⟪नर्तक⟫) /:br**nartakī** f.:br(⟪नर्तकी⟫) | "Dansator / Dansatoare" |
-| **ji**:br1 P:br⟪जि⟫:br"a învinge" | **jayaka** 3:br(⟪जयक⟫) | "învingător" |
+| **kṛ** :br8 U:br⟪कृ⟫:br"machen" | **kāraka** :br(⟪कारक⟫) | "Cel care produce, făcătorul" |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Ascultător, elev,:brbuddh.: adep al Buddha" |
+| **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Conducător, stăpân, soț,:briubit / iubită, doamnă" |
+| **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Cel care jertfește, preot sacrificator" |
+| **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Dansator / Dansatoare" |
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "învingător" |
 
 ::: grammar-box
 **Unele dintre aceste forme au semnificația mai restrânsă: "cel care realizează în mod obișnuit, ca datorie sau bine, ceea ce este exprimat de rădăcină".**
@@ -78,15 +72,13 @@ vezi mai sus, de ex. **śrāvaka**, **yājaka**, **jayaka**
 
 **Exemple:**
 
-| Rădăcină:br⟪धातु⟫ | + -aka (kṛt) | Semnificație |
+| Wurzel:br⟪धातु⟫ | + -aka (kṛt) | Semnificație |
 | :--- | :--- | :--- |
-| **kṛṣ**:br6 U:br⟪कृष्⟫:br"a ară" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Agricultor":br(grad redus!) |
-| **kliś**:br9 P:br⟪क्लिशु⟫:br"a chinui" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Chinitor" |
-| **khād**:br1 P:br⟪खाद्⟫:br"a mesteca, a mânca" | **khādaka** m.:br(⟪खादक⟫) | "Mâncător, hăpăitor" |
+| **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "Agricultor":br(grad redus!) |
+| **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "Chinitor" |
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "Mâncător, hăpăitor" |
 
 În plus, există și alte utilizări mai puțin importante ale sufixului **-aka**. Vezi Wackernagel, Gramatică sanscrită veche, II, §45ss.
-
----
 
 ## 9.3. Listă de cuvinte
 
@@ -121,8 +113,6 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 - **rūpa** n. (⟪रूप⟫) : aspect, formă, formă frumoasă, natură, esență
 - **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : comerț
 - **śuśrūṣā** f. (⟪शुश्रूषा⟫) : ascultare, serviciu ascultător
-
----
 
 ## 9.4. Exercitiu
 

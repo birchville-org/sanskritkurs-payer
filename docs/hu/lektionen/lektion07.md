@@ -1,9 +1,9 @@
 ---
-title: 7. lecke
-subtitle: "A mondat igéi szerkezete közvetlen tárggyal"
+title: Lektion 7
+subtitle: "Den Verbalsatz mit direktem Objekt"
 lesson_id: 7
 last_reconstructed: 2026-05-07
-category: "Nyelvtan"
+category: "Grammatik"
 status: stable
 ---
 
@@ -110,11 +110,11 @@ pl. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟩ ⟪देवः⟩ | �
 Az akkusativus (dvitīyā f. = ⟪द्वितीया⟩) a következőket jelöli:
 1. Nem passzív igemondatban: a **karman n.** (⟪कर्मन्⟩) kifejezett cselekvés **közvetlen tárgyát**:
 pl.
-- **devaṃ yajati** = ⟪देवं⟩ ⟪यजति⟩ : "Egy istennek mutat be áldozatot."
-- **phalam āpnoti** = ⟪फलमाप्नोति⟩ : "Eléri a gyümölcsöt (pl. cselekedetének eredményét)."
+   - **devaṃ yajati** = ⟪देवं⟩ ⟪यजति⟩ : "Egy istennek mutat be áldozatot."
+   - **phalam āpnoti** = ⟪फलमाप्नोति⟩ : "Eléri a gyümölcsöt (pl. cselekedetének eredményét)."
 2. Mozgást, haladást vagy hasonló cselekvést kifejező igéknél az akkusativus a mozgás célját jelöli:
 pl.
-- **narakaṃ gacchati** = ⟪नरकं⟩ ⟪गच्छति⟩ : "A pokolba megy."
+   - **narakaṃ gacchati** = ⟪नरकं⟩ ⟪गच्छति⟩ : "A pokolba megy."
 :::
 Az akkusativus további használatát később tárgyaljuk.
 
@@ -124,8 +124,8 @@ Az akkusativus további használatát később tárgyaljuk.
 **Kiejtés végén -n:**
 
 1. Hangzó palatális és retroflexus sparśa, valamint **ś-** előtt a hangnak megfelelő nazálissal helyettesítendő:
-- **-n** **j-, jh-, ñ-, ś-** előtt » **-ñ**
-- **-n** **ḍ-, ḍh-, ṇ-, ṣ-** előtt » **-ṇ**
+   - **-n** **j-, jh-, ñ-, ś-** előtt » **-ñ**
+   - **-n** **ḍ-, ḍh-, ṇ-, ṣ-** előtt » **-ṇ**
 pl. **kṣatriyān + jayati** » **kṣatriyāñ jayati** = ⟪क्षत्रियांञ्जयति⟫ : „Megveri a kṣatriyákat.”
 Az **ś-** kezdetű szó elején általában **ch**-vá alakul:
 **gurūn + śṛṇoti** » **gurūñ chṛṇoti** (mellékelve gurūñ śṛṇoti) = ⟪गुरूञ्छृणोति⟫ (⟪गुरूञ्शृणोति⟫) : „Hallgatja a tanárokat.” „Figyel a tanárokra.”
@@ -134,9 +134,9 @@ Az **ś-** kezdetű szó elején általában **ch**-vá alakul:
 pl. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : „Haszonállatokat szerez.”
 
 3. Hangzó palatális, retroflexus vagy dentális szó elején **Anusvāra** + a hangnak megfelelő sziszegővel helyettesítendő:
-- **-n** **c-, ch-** előtt » **-ṃś**
-- **-n** **ṭ-, ṭh-** előtt » **-ṃṣ**
-- **-n** **t-, th-** előtt » **-ṃs**
+   - **-n** **c-, ch-** előtt » **-ṃś**
+   - **-n** **ṭ-, ṭh-** előtt » **-ṃṣ**
+   - **-n** **t-, th-** előtt » **-ṃs**
 pl. **devān + ca** » **devāṃś ca** = ⟪देवांश्च⟫ : „és az istenek (tárgyeset)”
 **devān + tu** » **devāṃs tu** = ⟪देवांस्तु⟫ : „de az istenek (tárgyeset)”
 
@@ -190,12 +190,12 @@ Az ötödik jelenidőosztály egy úgynevezett athematikus jelenidőtövi alakot
 :::
 **Példák:**
 
-| Tő:br⟪धातु⟫ | Erős tő | Gyenge tő | Magánhangzó előtt:br(gyenge) |
+| Tő:br⟪धातु⟫ | Starker Tő | Schwacher Tő | Magánhangzó előtt:br(gyenge) |
 | :--- | :--- | :--- | :--- |
-| **āp** :br5 P:br⟪आप्⟫:br"elérni" | **āp-no** :br(3. sz. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3. szpl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
-| **aś** :br5 Ā:br⟪अश्⟫:br"elérni" | — | **aś-nu** :br(3. sz. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3. szpl. aśnuvate = ⟪अश्नुवते⟫) |
-| **su** :br5 U:br⟪सु⟫:br"kinyomni" | **su-no** :br(3. sz. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3. sz. sunute = ⟪सुनुते⟫) | **su-nv** :br(3. szpl. sunvanti = ⟪सुन्वन्ति⟫,:br3. szpl. sunvate = ⟪सुन्वते⟫) |
-| **śru** :br5 P:br⟪श्रु⟫:br"hallani" | **śṛ-ṇo** :br(3. sz. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3. szpl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
+| **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
+| **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
+| **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
 ## 7.6. Szószedet
 
@@ -226,7 +226,7 @@ Kép: Ez volt-e a védikus Szóma-növény?: Lúdbirka-gomba: *Amanita muscaria*
 **A) Írja be az egyes szám és a többes szám esetén a közvetlen tárgyat, illetve az irányt kifejező akkuzatívust:**
 
 1. brāhmaṇas ... yajati (deva, devī, viṣṇu, agni, devatā)
-⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
+   ⟪ब्राह्मणस्⟫ ... ⟪यजति⟫ (⟪देव⟫, ⟪देवी⟫, ⟪विष्णु⟫, ⟪अग्नि⟫, ⟪देवता⟫)
 
 ::: media
 ![](/images/lekt0704.webp)
@@ -234,39 +234,39 @@ Kép: Ez volt-e a védikus Szóma-növény?: Lúdbirka-gomba: *Amanita muscaria*
 (Képmegjelölés: [Details](/hu/licenses#lekt0704))
 :::
 2. gurus ... khādati (phala)
-⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
+   ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
 3. sādhus ... gacchati (svarga)
-⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
+   ⟪साधुस्⟫ ... ⟪गच्छति⟫ (⟪स्वर्ग⟫)
 4. śūdrā ... gacchati (naraka)
-⟪शूद्रा⟫ ... ⟪गच्छति⟫ (⟪नरक⟫)
+   ⟪शूद्रा⟫ ... ⟪गच्छति⟫ (⟪नरक⟫)
 5. ... jayati (śūdra)
-... ⟪जयति⟫ (⟪शूद्र⟫)
+   ... ⟪जयति⟫ (⟪शूद्र⟫)
 6. ... labhate (dhenu, paśu, phala)
-... ⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫)
+   ... ⟪लभते⟫ (⟪धेनु⟫, ⟪पशु⟫, ⟪फल⟫)
 
 **B) Illessék be a megfelelő igealakokat:**
 
 1. sādhuḥ svargaṃ ... (āp, gam, aś)
-⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
+   ⟪साधुः⟫ ⟪स्वर्गम्⟫ ... (⟪आप्⟫, ⟪गम्⟫, ⟪अश्⟫)
 2. brāhmaṇaḥ somam ... (su) (2 Formen)
-⟪ब्राह्मणः⟫ ⟪सोमम्⟫ ... (⟪सु⟫)
+   ⟪ब्राह्मणः⟫ ⟪सोमम्⟫ ... (⟪सु⟫)
 3. sādhur gurum ... (śru)
-⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫)
+   ⟪साधुर्गुरुम्⟫ ... (⟪श्रु⟫)
 4. devī ... (kup, krudh)
-⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
+   ⟪देवी⟫ ... (⟪कुप्⟫, ⟪क्रुध्⟫)
 
 **C) Írja át a B) gyakorlati mondatokat többes számra: alany, tárgy és ige.**
 
 **D) Írja át Ātmanepada alakba:**
 
 1. sunvanti.
-⟪सुन्वन्ति⟫ |
+   ⟪सुन्वन्ति⟫ |
 2. nayanti.
-⟪नयन्ति⟫ |
+   ⟪नयन्ति⟫ |
 3. sunoti.
-⟪सुनोति⟫ |
+   ⟪सुनोति⟫ |
 4. yajati.
-⟪यजति⟫ |
+   ⟪यजति⟫ |
 
 ::: media
 ![](/images/lekt0702.webp)
@@ -278,15 +278,15 @@ Kép: **yajati** = ⟪यजति⟫ — Védákn áldozat = **yajña** m. = �
 **F) Fordítsa le:**
 
 1. narakāṃś ca svargāṃś ca gacchanti.
-⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ |
+   ⟪नरकांश्च⟫ ⟪स्वर्गांश्च⟫ ⟪गच्छन्ति⟫ |
 2. gurūṃs tu śṛṇvanti.
-⟪गुरूूंस्तु⟫ ⟪शृण्वन्ति⟫ |
+   ⟪गुरूूंस्तु⟫ ⟪शृण्वन्ति⟫ |
 3. A śūdrák elnyernek egy eget.
 4. A kṣatriyák isteneket áldozati urakként imádnak áldozatokkal.
 5. A vaiśyák asszonyok istenségeket imádnak áldozatokkal.
 6. Az ÚR haragszik.
 7. śikṣā kalpo vyākaraṇaṃ niruktaṃ chando jyotiṣam aṅgāni.
-⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
+   ⟪शिक्षा⟫ ⟪कल्पो⟫ ⟪व्याकरणं⟫ ⟪निरुक्तं⟫ ⟪छन्दो⟫ ⟪ज्योतिषमङ्गानि⟫ |
 8. Melyik istennek áldoz ez a bráhmana?
 
 ::: media

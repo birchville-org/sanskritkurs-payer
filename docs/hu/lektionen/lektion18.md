@@ -1,5 +1,5 @@
 ---
-title: 18. lecke
+title: Lektion 18
 lesson_id: 18
 ---
 
@@ -110,17 +110,17 @@ Példák:
 
 Az a- / an- Tatpuruṣa következő jelentésekkel bírhat:
 
-1. Hasonlóság (⟪तत्सादृश्यम्⟫):
+1.  Hasonlóság (⟪तत्सादृश्यम्⟫):
 ⟪अब्राह्मणः⟫ = egy Kṣatriya vagy Vaiśya, aki viseli a szent fonalat (⟪यज्ञोपवीत⟫ n.), és így egy Brahmanához hasonlít, anélkül hogy az lenne
-2. Hiány, nemlétezés (⟪तदभावः⟫):
+2.  Hiány, nemlétezés (⟪तदभावः⟫):
 ⟪अज्ञानम्⟫ = tudatlanság (tudás hiánya)
-3. Különbség, más jelleg (⟪तदन्यत्वम्⟫):
+3.  Különbség, más jelleg (⟪तदन्यत्वम्⟫):
 ⟪अपटम्⟫ = valami, ami nem anyag / ruha (⟪पट⟫ m: szövet, ruha)
-4. Kisiség (⟪तदल्पता⟫):
+4.  Kisiség (⟪तदल्पता⟫):
 ⟪अनुदरम्⟫ = egy kis has (egy nem-has)
-5. Elutasítás, bírálat (⟪अप्राशास्त्यम्⟫):
+5.  Elutasítás, bírálat (⟪अप्राशास्त्यम्⟫):
 ⟪अकालः⟫ = alkalmatlan idő
-6. Ellenségeskedés (⟪निरोधः⟫):
+6.  Ellenségeskedés (⟪निरोधः⟫):
 ⟪असुरः⟫ = ellenisten (a téves etimológia a-sura alapján)
 
 A következő vers összefoglalja ezeket a jelentéseket:
@@ -402,9 +402,9 @@ A) Oldják fel a következő szanszkrit összetételeket, és adjanak fordítás
 :::
 B) Fordítsa le a következőket, használja a 2. jelen idői osztályba tartozó igéket:
 
-1. A bráhmana dicséri az istennőket.
+A bráhmana dicséri az istennőket.
 
-2. A hősök a nehezen járható úton haladnak az áriák faluja felé.
+A hősök a nehezen járható úton haladnak az áriák faluja felé.
 
 3\. A szolganő tejteli a teheneket.
 

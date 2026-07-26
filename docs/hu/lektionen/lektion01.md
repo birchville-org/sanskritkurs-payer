@@ -1,8 +1,8 @@
 ---
 title: Lektion 1
-subtitle: "A szanszkrit hangjai"
+subtitle: "Die Laute des Sanskrit"
 lesson_id: 1
-category: "Nyelvtan"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
@@ -157,15 +157,15 @@ Besorolás
 ::: laut-table
 | Hang | Leírás |
 | :--- | :--- |
-| **a - ⟪अ⟫** | A "rövid a" hangot Indiában – már régóta – gyakran ə-ként ejtik. Európában rövid a-ként, Bengálban pedig rövid sötét o-ként ejtik.
-| **ṛ - ⟪ऋ⟫** | mint a cseh vokalizált r. Enyhe i utóhanggal.
-| **ṝ - ⟪ॠ⟫** | mint a cseh vokalizált r. Enyhe u utóhanggal.
-| **jñ - ⟪ज्ञ्⟫** | szintén dny (maráthi) vagy gy (észak-indiai) hangként ejtendő.
-| **ś - ⟪श्⟫** | sch-hang lefelé hajlított nyelvcsúccsal. Hasonló a "mischen" szóban szereplő sch-hez.
-| **ṣ - ⟪ष्⟫** | ach-hang visszahajlított nyelvcsúccsal. Gyakran annyira hátra, a garatban artikulálják, hogy majdnem kh-hangnak hangzik.
-| **h - ⟪ह्⟫** | aspirált hang, soha nem nyújtójel.
-| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Hangtalan aspirált hang a megelőző magánhangzó vagy az előző diftungus második részének utóhangjával: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu
-| **ṃ** | **Anuszvára** -- ⟪अनुस्वर⟫. Zöngétlen mássalhangzók, h, l előtt: a magánhangzó nazalizálása. Szóvégen = m. Szóközben mássalhangzó előtt: a következő mássalhangzónak megfelelő nazális hang: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫
+| **a - ⟪अ⟫** | A "rövid a" hangot Indiában – már régóta – gyakran ə-ként ejtik. Európában rövid a-ként, Bengálban pedig rövid sötét o-ként ejtik. |
+| **ṛ - ⟪ऋ⟫** | mint a cseh vokalizált r. Enyhe i utóhanggal. |
+| **ṝ - ⟪ॠ⟫** | mint a cseh vokalizált r. Enyhe u utóhanggal. |
+| **jñ - ⟪ज्ञ्⟫** | szintén dny (maráthi) vagy gy (észak-indiai) hangként ejtendő. |
+| **ś - ⟪श्⟫** | sch-hang lefelé hajlított nyelvcsúccsal. Hasonló a "mischen" szóban szereplő sch-hez. |
+| **ṣ - ⟪ष्⟫** | ach-hang visszahajlított nyelvcsúccsal. Gyakran annyira hátra, a garatban artikulálják, hogy majdnem kh-hangnak hangzik. |
+| **h - ⟪ह्⟫** | aspirált hang, soha nem nyújtójel. |
+| **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Hangtalan aspirált hang a megelőző magánhangzó vagy az előző diftungus második részének utóhangjával: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
+| **ṃ** | **Anuszvára** -- ⟪अनुस्वर⟫. Zöngétlen mássalhangzók, h, l előtt: a magánhangzó nazalizálása. Szóvégen = m. Szóközben mássalhangzó előtt: a következő mássalhangzónak megfelelő nazális hang: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::
 A legjobb kiejtést akkor érjük el, ha a mondatokat, verseket vagy szavakat viszonylag lassan és monotón módon, a magánhangzók hosszának pontos figyelembevételével olvassuk.
 

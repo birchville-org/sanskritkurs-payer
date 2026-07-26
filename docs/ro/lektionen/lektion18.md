@@ -1,5 +1,5 @@
 ---
-title: Lecția 18
+title: Lektion 18
 lesson_id: 18
 ---
 

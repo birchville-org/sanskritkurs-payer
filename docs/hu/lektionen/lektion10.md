@@ -1,9 +1,9 @@
 ---
-title: 10. lecke
-subtitle: "Az igemódú passzívmondat (az agens eszközhatározói esete)"
+title: Lektion 10
+subtitle: "Den Passivsatz (Instrumentalis des Agens)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
-category: "Nyelvtan"
+category: "Grammatik"
 status: stable
 ---
 
@@ -65,24 +65,24 @@ A szanszkrit passzív konstrukciók kifejezetten gyakoriak: a passzív ugyanis k
 
 | | eszközhatározó eset (instrumentalis) egyes szám | eszközhatározó eset (instrumentalis) többes szám |
 | :--- | :--- | :--- |
-| **-i végű nőnemű szavak**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
-| **-ī végű nőnemű szavak**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
-| **-u végű nőnemű szavak**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
+| **Feminina auf -i**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
+| **Feminina auf -ī**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
+| **Feminina auf -u**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
 
 **Szabálytalan képzések (egyes szám):**
 
 | | eszközhatározó eset (instrumentalis) egyes szám | eszközhatározó eset (instrumentalis) többes szám |
 | :--- | :--- | :--- |
-| **-i tövű hímnemű szavak**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
-| **-u tövű hímnemű szavak**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
-| **-ā tövű nőnemű szavak**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
+| **Maskulina auf -i**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
+| **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
+| **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
 
 **-a tövű hímnemű és semlegesnemű szavak (szabálytalan egyes és többes számban):**
 
 | | eszközhatározó eset (instrumentalis) egyes szám | eszközhatározó eset (instrumentalis) többes szám |
 | :--- | :--- | :--- |
-| **-a tövű hímnemű szavak**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
-| **-a tövű semlegesnemű szavak**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
+| **Maskulina auf -a**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
+| **Neutra auf -a**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
 
 **A kim kérdő névmás:**
 
@@ -162,48 +162,48 @@ pl.
 
 | Tő:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
-| **nī** :br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"ő vezettetik" | **nīyante** :br(⟪नीयन्ते⟫) |
-| **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"ő gondolkozik róla" | **manyante** :br(⟪मन्यन्ते⟫) |
-| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"belépnek rá" | **viśyante** :br(⟪विश्यन्ते⟫) |
+| **nī** :br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"er wird geführt" | **nīyante** :br(⟪नीयन्ते⟫) |
+| **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
+| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
 **Vegye figyelembe, hogy a 4. jelen időosztályba tartozó igéknél az Ātmanepada és a passzív identikus alakokat képeznek! Az, hogy Ātmanepada vagy passív áll-e fenn, ebben az esetben csak a mondat szerkezetéből következtethető ki.**
 
 ### 10.4.1. Különleges szabályok a passzív képzéséhez
 
 1. **-i** vagy **-u** végződésű tő **nyújtja** magánhangzóját a passív képző **-ya-** előtt:
-* **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
-* **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-* **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
+   * **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+   * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **Tőn mit -a- zwischen Konsonanten** (ausser Nasalen, y, r, v) bleiben hochstufig:
-* **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **Einige Tőn bilden ihr Passiv hochstufig** (oder in der Ablautstufe des Jelen idejű tős):
-* **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-* **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-* **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
+   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
 4. **Tiefstufe von Verben, die mit ya, va, ra beginnen, bzw. bei denen diese Laute nach einem anderen Konsonanten stehen (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
-| Tő:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
-| :--- | :--- | :--- |
-| **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
-| **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
-| **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
+   | Tő:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
+   | :--- | :--- | :--- |
+   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
+   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
+   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
 A mély szintű képzés hagyományos belföldi megnevezése az **ya** vagy **va** végződésű igéknél a **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. A **kizárólagos -ṛ** egy mássalhangzó után a passzív képző **-ya-** előtt **-ri**-re cserélődik:
-* **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* De: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
+   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
+   * De: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
 
 6. **Egyes -an végű alapok alternatívan két passzív képzést mutatnak:**
-* egy **-an-ya**
-* egy **-ā-ya-** (a hosszú **ā** egy hipotetikus hosszú nazális helyettesítője)
+   * egy **-an-ya**
+   * egy **-ā-ya-** (a hosszú **ā** egy hipotetikus hosszú nazális helyettesítője)
 
 pl. **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (a \*tn-ya-nte-ből)
+   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
+   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (a \*tn-ya-nte-ből)
 
 ## 10.5. Szószedet
 
@@ -213,13 +213,13 @@ pl. **tan** 8 U.
 - **grāma** m. ⟪ग्राम⟫ : falu
 - **nagara** n. ⟪नगर⟫ : város
 
-::: note-box
+  ::: note-box
 A városi és falusi életről lásd Basham, *Wonder*, 6. fejezet.
   :::
 
 - **yajña** m. ⟪यज्ञ⟫ : áldozat
 
-::: note-box
+  ::: note-box
 Az áldozat Indiában elsősorban az istenség vendégként való tisztelése. Ezzel kötelezettséget vállalunk az istenség felé.
 
 Szóképzés: **yaj** 1 U + kṛt-suffix **-na-**.
@@ -227,7 +227,7 @@ Szóképzés: **yaj** 1 U + kṛt-suffix **-na-**.
 
 - **puṇya** n. ⟪पुण्य⟫ : jó cselekedet, érdem
 
-::: note-box
+  ::: note-box
 Amellyel boldogulást és jó újjászületéseket érdemel ki az ember.
   :::
 
@@ -247,7 +247,7 @@ Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. A hátralev�
 :::
 - **anṛta** n. ⟪अनृत⟫ : hazugság, álhaz (ellentéte a **satya**nak)
 
-::: note-box
+  ::: note-box
 Szóképzés **an-** („nem-“) + **ṛta** n.
 
 A **ṛta** a Véda központi fogalma, melynek fordítása vitatott: „igazság” (Lüders, Thieme), „rend” (Renou).
@@ -255,7 +255,7 @@ A **ṛta** a Véda központi fogalma, melynek fordítása vitatott: „igazság
 
 - **ṛṣi** m. ⟪ऋषि⟫ : védikus bölcs, védikus ének szerzője
 
-::: note-box
+  ::: note-box
 Ezeknek a **ṛṣi**knak a neveit a Brāhmaṇákban, valamint külön, a Védákhoz tartozó jegyzékekben is megemlítik. Minden bráhmana eredetét olyan **ṛṣi**kra vezeti vissza, akikről a **gotra** (⟪गोत्र⟫) elnevezése származik. A **gotra** fogalommal kapcsolatban lásd Basham, *Wonder*, 5. fejezet.
   :::
 

@@ -1,5 +1,5 @@
 ---
-title: Lecția 31
+title: Lektion 31
 lesson_id: 31
 status: stable
 ---
@@ -26,7 +26,7 @@ Exemple:
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
-| **Indicativ** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(în interiorul cuvântului, nazalele sunt înlocuite de -ṅ- în fața guturalelor) |
+| **Indicativ** | **3. sg.** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) |
 | | **3. pl.** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
 | **Optativ** | **3. sg.** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
 | | **3. pl.** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
@@ -73,20 +73,20 @@ Exemplu:
 
 din care:
 **⟪युग⟫ n. → ⟪युग⟫ n.:** jug, pereche, epocă a lumii (există patru epoci ale lumii:
-1. **⟪कृत⟫**
-2. **⟪त्रेता⟫**
-3. **⟪द्वापर⟫**
-4. **⟪कलि⟫**
+1. ⟪कृत⟫
+2. ⟪त्रेता⟫
+3. ⟪द्वापर⟫
+4. ⟪कलि⟫
 
 **⟪कलियुग⟫** a început în jurul anului 3102 î.Hr., anul războiului **⟪महाभारत⟫**. Mai multe detalii la Basham, Wonder p. 323)
 
 **⟪योग⟫ m.:** "încordare, legare", efort, unire, Yoga (vezi Basham, Wonder p. 327ss.)
-:::: media
+:::
+::: media
 ![](/images/lekt3101.webp)
 Fig.: ⟪योगः⟫
 Reprezentare Yoga.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3101))
-::::
 :::
 **⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : a opri, a aduce la oprire, a reține = a închide, a ascunde
 ::: indent
@@ -124,12 +124,12 @@ Reprezentare Yoga.
 
 din care:
 **⟪व्यञ्जन⟫ n.:** mijloc de distingere = machiaj, condiment, semn distinctiv, consoană (ceea prin care sunt distinse semnificațiile)
-:::: media
+:::
+::: media
 ![](/images/lekt3102.webp)
 Fig.: ⟪व्यञ्जनम्⟫
 Pregătire pentru dansul Kathakali, Kochi.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3102))
-::::
 :::
 **⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : a despica
 ::: indent
@@ -165,12 +165,12 @@ din care:
 ::: indent
 din care:
 **⟪प्रज्ञा⟫ f.:** înțelepciune, cunoaștere
-:::: media
+:::
+::: media
 ![](/images/lekt3103.webp)
 Fig.: ⟪प्रज्ञापारमिता⟫
 Aus einem Prajñāpāramitā-Manuskript.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3103))
-::::
 :::
 **⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : a apărea, a exista
 

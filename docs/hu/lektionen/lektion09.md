@@ -1,9 +1,9 @@
 ---
-title: 9. lecke
-subtitle: "Samāhāradvandva és -ka/-aka névmásutótagok"
+title: Lektion 9
+subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
 lesson_id: 9
-category: "Nyelvtan"
-status: "stabil"
+category: "Grammatik"
+status: "stable"
 last_reconstructed: 2026-05-07
 ---
 
@@ -58,12 +58,12 @@ A gyök végén álló magánhangzó, valamint a gyök előutolsó helyén áll�
 
 | Tő:br⟪धातु⟫ | + -aka / -ikā (kṛt) | Jelentés |
 | :--- | :--- | :--- |
-| **kṛ** :br8 U:br⟪कृ⟫:br"tenni" | **kāraka** :br(⟪कारक⟫) | "Cselekvő, végrehajtó" |
-| **śru** :br5 P:br⟪श्रु⟫:br"hallani" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Halló, tanítvány,:brbuddh.: Buddha-rajongó" |
-| **nī** :br1 U:br⟪नी⟫:br"vezetni" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Vezető, úr, férj,:brszerető / szeretett hölgy" |
-| **yaj** :br1 U:br⟪यज्⟫:br"áldozni" | **yājaka** m.:br(⟪याजक⟫) | "Áldozó, áldozópap" |
-| **nṛt** :br4 P:br⟪नृत्⟫:br"táncolni" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Táncos / táncoslány" |
-| **ji** :br1 P:br⟪जि⟫:br"győzni" | **jayaka** 3:br(⟪जयक⟫) | "győztes" |
+| **kṛ** :br8 U:br⟪कृ⟫:br"machen" | **kāraka** :br(⟪कारक⟫) | "Cselekvő, végrehajtó" |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śrāvaka** m.:br(⟪श्रावक⟫) | "Halló, tanítvány,:brbuddh.: Buddha-rajongó" |
+| **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | "Vezető, úr, férj,:brszerető / szeretett hölgy" |
+| **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | "Áldozó, áldozópap" |
+| **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | "Táncos / táncoslány" |
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | "győztes" |
 
 ::: grammar-box
 **Egyes képzések szűkebb jelentéssel bírnak: "a gyökér által kifejezett cselekvést szokásszerűen, kötelességként vagy kiválóan végző"**.
@@ -74,9 +74,9 @@ lásd fent pl. **śrāvaka**, **yājaka**, **jayaka**
 
 | Tő:br⟪धातु⟫ | + -aka (kṛt) | Jelentés |
 | :--- | :--- | :--- |
-| **kṛṣ** :br6 U:br⟪कृष्⟫:br"szántani" | **kṛṣaka** m.:br(⟪कृषक⟫) | "gazdálkodó":br(alapszintű!) |
-| **kliś** :br9 P:br⟪क्लिशु⟫:br"kínzni" | **kleśaka** m.:br(⟪क्लेशक⟫) | "kínzó" |
-| **khād** :br1 P:br⟪खाद्⟫:br"rágcsálni, enni" | **khādaka** m.:br(⟪खादक⟫) | "evő, falatozó" |
+| **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | "gazdálkodó":br(alapszintű!) |
+| **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | "kínzó" |
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | "evő, falatozó" |
 
 Emellett még néhány kevésbé fontos használata van az **-aka** képzőnek. Ld. Wackernagel, Altindische Grammatik, II, §45ff.
 
@@ -102,14 +102,14 @@ Kép: **kāru** = ⟪कारु⟫, Gujarat.
 - **kusīda** n. (⟪कुसीद⟫) : kamatoskodsás
 - **kṛṣ** 1 P (karṣati) ⟪कृष्⟫ ⟪कर्षति⟫ : húz
 - **kṛṣ** 6 U (kṛṣati) ⟪कृष्⟫ ⟪कृषति⟫ : szánt
-- ebből: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : mezőgazdálkodás
+  - ebből: **kṛṣi** f. / **kṛṣikā** f. (⟪कृषि⟫ / ⟪कृषिका⟫) : mezőgazdálkodás
 - **dāna** n. (⟪दान⟫) : adás, ajándék, nagylelkűség
 - **pratigraha** m. (⟪प्रतिग्रह⟫) : vétel, ajándék
 - **pravacana** n. (⟪प्रवचन⟫) : beszéd, (szóbeli) oktatás
 - **pāśupālya** n. (⟪पाशुपाल्य⟫) : állattartás, állattenyésztés
 - a **yaj** 1 U-hoz:
-- **ijyā** f. (⟪इज्या⟫) : áldozat (*yj » ij + **yā** képzőből)
-- **yajana** n. (⟪यजन⟫) : áldozás más megbízásából
+  - **ijyā** f. (⟪इज्या⟫) : áldozat (*yj » ij + **yā** képzőből)
+  - **yajana** n. (⟪यजन⟫) : áldozás más megbízásából
 - **rūpa** n. (⟪रूप⟫) : megjelenés, forma, szép forma, természet, lényeg
 - **vāṇijya** n. / **vāṇijyā** f. / **vaṇijyā** f. (⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫) : kereskedelem
 - **śuśrūṣā** f. (⟪शुश्रूषा⟫) : engedelmesség, engedelmes szolgálat

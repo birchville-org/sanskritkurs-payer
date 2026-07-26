@@ -1,10 +1,10 @@
 ---
-title: 57. lecke
-subtitle: "Aorista 4: s-aorista"
+title: Lektion 57
+subtitle: "Aorist 4: s-Aorist"
 lesson_id: 57
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 57. lecke
@@ -59,10 +59,10 @@ pl. sig[⟪चि⟫] 5U: 2.pl.Ā sig[⟪अचेढ्वम्⟫]
 
 *   **⟪परस्मैपद⟫ : Nyújtott fok**
 *   **⟪आत्मनेपद⟫ :**
-*   **i/ī/u/ū végződésű gyökök: Emelt fok**
-*   **a végén álló -ṝ helyett -īr vagy -ūr**
-*   **ā/e/o végződésű, ablautképes gyökök: Alacsony fok**
-*   **egyéb gyökmagánhangzók: változatlan (azaz általában alacsony fokú)**
+    *   **i/ī/u/ū végződésű gyökök: Emelt fok**
+    *   **a végén álló -ṝ helyett -īr vagy -ūr**
+    *   **ā/e/o végződésű, ablautképes gyökök: Alacsony fok**
+    *   **egyéb gyökmagánhangzók: változatlan (azaz általában alacsony fokú)**
 :::
 Példák:
 
@@ -81,10 +81,10 @@ Példák:
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
 |   | **sz.Ā** |
-| ⟪दा⟫ 3U | ⟪अदिषि⟩:br ⟪अदिथास्⟩ :br ⟪अदित⟩ |
+| ⟪दा⟫ 3U | ⟪अदिषि⟫:br ⟪अदिथास्⟫ :br ⟪अदित⟫ |
 |   | **1. sz.Ā** |
-| ⟪कृ⟩ 8U | ⟪अकृषि⟩ |
-| ⟪पच्⟩ 1U | ⟪अपक्षि⟩ |
+| ⟪कृ⟩ 8U | ⟪अकृषि⟫ |
+| ⟪पच्⟩ 1U | ⟪अपक्षि⟫ |
 
 ::: grammar-box
 **⟪दृश्⟩ és ⟪सृज्⟩ a ⟪परस्मैपद⟩ hosszabbított fokozatban emelkedő diphtongus -rā-val:**

@@ -1,9 +1,9 @@
 ---
-title: Lecția 24
-subtitle: "Dativul (⟪चतुर्थी⟫ = \"a patra terminație de caz\")"
+title: Lektion 24
+subtitle: "Der Dativ (⟪चतुर्थी⟫ = \"vierte Kasusendung\")"
 lesson_id: 24
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -37,6 +37,7 @@ sau:
 Fig.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2404))
 :::
+
 ::: grammar-box
 **2. Dativul (⟪चतुर्थी⟫) poate indica, de asemenea, obiectul unui infinitiv de scop care trebuie completat:**
 
@@ -52,13 +53,14 @@ Exemplu:
 
 ::: indent
 ⟪यज्ञायान्नम्⟫ = "Mâncare cu scopul unui sacrificiu = Mâncare pentru un sacrificiu"
-:::: media
+:::
+::: media
 ![](/images/lekt2401.webp)
 Fig.: ⟪यज्ञायान्नम्⟫
 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] este un eveniment hindus tradițional care are loc în timpul sărbătorilor Noului An hindus la toate templele BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Zeci de feluri de mâncare vegetariene sunt oferite lui Bhagwan Swaminarayan [સ્વામિનારાયણ] în această zi.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2401))
-::::
 :::
+
 ::: grammar-box
 **3. Dativul indică, de asemenea, persoana sau lucrul pentru care este destinat obiectul unei acțiuni (obiect indirect; întrebare: cui?). (Luați în considerare, totuși, verbele cu dublu acuzativ (⟪द्वितीया⟫)!)**
 
@@ -67,13 +69,14 @@ Exemplu:
 :::
 ::: indent
 ⟪रामाय⟫ ⟪फलं⟫ ⟪ददाति⟫ = "El îi dă lui Rāma un fruct." (Rădăcină ⟪दा⟫ clasa a 3-a de prezent)
-:::: media
+:::
+::: media
 ![](/images/lekt2402.webp)
 Fig.: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
 Raksha bandhan este sărbătorit cu entuziasm și bucurie în toată India. Acest festival întruchipează iubirea necondiționată dintre frați și surori.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2402))
-::::
 :::
+
 ::: grammar-box
 **4. Dativul apare la unele verbe (și la alte cuvinte) similar cu germana, la întrebarea "cui?":**
 
@@ -84,12 +87,12 @@ Exemple:
 ⟪क्रुध्⟫ : ⟪देवो⟫ ⟪नरेभ्यो⟫ ⟪क्रुध्यति⟫ = "Zeul se mânie pe oameni."
 
 ⟪अलम्⟫ Adverb: "suficient, suficient, capabil": ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫ = "un războinic este egal cu celălalt războinic"
-:::: media
+:::
+::: media
 ![](/images/lekt2403.webp)
 Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 "Rama (dreapta) șezând pe umerii lui Hanuman, se luptă cu regele demon Ravana." circa 1820
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2403))
-::::
 :::
 Ulterioare utilizări ale dativului mai târziu.
 
@@ -107,10 +110,10 @@ Ulterioare utilizări ale dativului mai târziu.
 
 | | Dativ Singular | Dativ Plural |
 | :--- | :--- | :--- |
-| ⟪यजन्त्⟫ | **⟪यजते⟫**:bryaja-t-e | **⟪यजद्भ्यस्⟫**:braus yaja-t-bhyas |
-| ⟪महान्त्⟫ | **⟪महते⟫** | **⟪महद्भ्यस्⟫** |
-| ⟪पशुमन्त्⟫ | **⟪पशुमते⟫** | **⟪पशुमद्भ्यस्⟫** |
-| ⟪गुणवन्त्⟫ | **⟪गुणवते⟫** | **⟪गुणवद्भ्यस्⟫** |
+| ⟪यजन्त्⟫ | ⟪यजते⟫ :bryaja-t-e | ⟪यजद्भ्यस्⟫ :braus yaja-t-bhyas |
+| ⟪महान्त्⟫ | ⟪महते⟫ | ⟪महद्भ्यस्⟫ |
+| ⟪पशुमन्त्⟫ | ⟪पशुमते⟫ | ⟪पशुमद्भ्यस्⟫ |
+| ⟪गुणवन्त्⟫ | ⟪गुणवते⟫ | ⟪गुणवद्भ्यस्⟫ |
 
 :::
 ### 24.2.2. Pronume interogative
@@ -119,8 +122,8 @@ Ulterioare utilizări ale dativului mai târziu.
 
 | | Masculin / Neutru | Feminin |
 | :--- | :--- | :--- |
-| **Dativ Singular** | **⟪कस्मै⟫** | **⟪कस्यै⟫** |
-| **Dativ Plural** | **⟪केभ्यस्⟫** | **⟪काभ्यस्⟫** |
+| **Dativ Singular** | ⟪कस्मै⟫ | ⟪कस्यै⟫ |
+| **Dativ Plural** | ⟪केभ्यस्⟫ | ⟪काभ्यस्⟫ |
 
 :::
 ### 24.2.3. Pronume demonstrative
@@ -129,10 +132,10 @@ Ulterioare utilizări ale dativului mai târziu.
 
 | | | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Masculin / Neutru** | **Dat. sg.** | **⟪तस्मै⟫** | **⟪एतस्मै⟫** | **⟪अस्मै⟫** |
-| | **Dat. pl.** | **⟪तेभ्यस्⟫** | **⟪एतेभ्यस्⟫** | **⟪एभ्यस्⟫** |
-| **Feminin** | **Dat. sg.** | **⟪तस्यै⟫** | **⟪एतस्यै⟫** | **⟪अस्यै⟫** |
-| | **Dat. pl.** | **⟪ताभ्यस्⟫** | **⟪एताभ्यस्⟫** | **⟪आभ्यस्⟫** |
+| **Masculin / Neutru** | **Dat. sg.** | ⟪तस्मै⟫ | ⟪एतस्मै⟫ | ⟪अस्मै⟫ |
+| | **Dat. pl.** | ⟪तेभ्यस्⟫ | ⟪एतेभ्यस्⟫ | ⟪एभ्यस्⟫ |
+| **Feminin** | **Dat. sg.** | ⟪तस्यै⟫ | ⟪एतस्यै⟫ | ⟪अस्यै⟫ |
+| | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
 ### 24.2.4. Teme vocale
@@ -188,11 +191,11 @@ Exemplu:
 
 ::: indent
 ⟪अलंकार⟫ m.: ornament, mijloc de ornament (în poezie)
-:::: media
+:::
+::: media
 ![](/images/lekt2405.webp)
 Fig.: ⟪अलंकारः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2405))
-::::
 :::
 ⟪हेतु⟫ m.: impuls, încurajare, cauză, motiv ; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ cu genitiv sau ca al doilea element al unui compus = „pentru ..., din cauza”
 
@@ -233,12 +236,12 @@ din acesta
 ⟪अपोह⟫ m.: negare (⟪अप⟫ + ⟪ऊह⟫)
 
 ⟪ऊहापोह⟫ m.: discuție despre pro și contra
-:::: media
+:::
+::: media
 ![](/images/lekt2407.webp)
 Fig.: ⟪ऊहापोहः⟫
 „NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor adjunct de externe, CNN-IBN Network 18, India, moderatorează o discuție pe panou la Summitul Economic al Indiei al Forumului Economic Mondial 2008 din New Delhi.”
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2407))
-::::
 :::
 ⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : util
 
@@ -252,13 +255,14 @@ Fig.: ⟪ऊहापोहः⟫
 din acesta:
 
 ⟪आख्यान⟫ n.: poveste
-:::: media
+:::
+::: media
 ![](/images/lekt2408.webp)
 Fig.: ⟪आख्यानम्⟫
 „Povestitorul din San Francisco, Jeff Byers, împărtășește o poveste cu locuitorii lui Chenneri, un sat Irula. Povestitorul Jeeva Raghunath traduce în tamilă pentru sateni.”
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2408))
-::::
 :::
+
 ::: indent
 ⟪ख्या⟫ + ⟪सम्⟫ 2P ⟪संख्याति⟫: a aduna, a calcula
 
@@ -280,13 +284,12 @@ din acesta:
 
 ::: indent
 ⟪कृ⟫ + ⟪नमस्⟫ 8 ⟪नमस्करोमि⟫: a se pleca, a venera, a saluta
-
-:::: media
+:::
+::: media
 ![](/images/lekt2411.webp)
 Fig.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 Manuscript al ⟪गीतगोविन्द⟫, 1730 d.Hr.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2411))
-::::
 :::
 ⟪स्वागत⟫ n.: Bine ați venit (din su-ā-gata)
 
@@ -385,12 +388,12 @@ Fig.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
 
 ::: indent
 Explicație: ⟪मुनित्रयम्⟫ "Triplul înțelepților = cei trei înțelepți" = gramaticienii ⟪पाणिनि⟫, ⟪कात्यायन⟫, ⟪पतञ्जलि⟫
-:::: media
+:::
+::: media
 ![](/images/lekt2410.webp)
 Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
 ⟪नरसिंह⟫ sfâșie pe ⟪हिरण्यकशिपु⟫, pagină dintr-un manuscris al lui ⟪भागवतपुराण⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2410))
-::::
 :::
 11\. Bine ați venit (⟪स्वागतम्⟫) vouă. Bine ați venit reginei.
 

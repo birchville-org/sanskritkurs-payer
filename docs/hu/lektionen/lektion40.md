@@ -1,10 +1,10 @@
 ---
-title: 40. lecke
+title: Lektion 40
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 40
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 40. lecke
@@ -14,7 +14,7 @@ status: stabil
 ::: indent
 ⟪विद्या⟫ ⟪ददाति⟫ ⟪विनयं⟫  
 ⟪विनयाद्याति⟫ ⟪पात्रताम्⟫ ⟪।⟫  
-⟪पात्रत्वाद्धनमाप्नोति⟫
+⟪पात्रत्वाद्धनमाप्नोति⟫  
 ⟪धनाद्धर्मं⟫ ⟪ततः⟫ ⟪सुखम्⟫ ⟪॥१॥⟫
 
 ⟪सुखार्थी⟫ ⟪चेत्त्यजेद्विद्यां⟫  
@@ -58,20 +58,20 @@ Konsonánssal kezdődő végződések előtt a gyökök többségénél kapcsol�
 
 A -re végződés előtt, ahol mindig -i- kell hangzania, amely kapcsolómag konsonánssal kezdődő végződések előtt nyolc gyöknél nem hangzik el, amelyek -ṛ vagy -u végződésűek, nevezetesen
 
-1. ⟪कृ⟫ 8U (kivéve ⟪संस्कृ⟫)
-2. ⟪भृ⟫ 1U
-3. ⟪वृ⟫ 9U "választ"
-4. ⟪सृ⟫ 1P
-5. ⟪द्रु⟫ 1p "fut"
-6. ⟪श्रु⟫ 5P
-7. ⟪स्तु⟫ 2U
-8. ⟪स्रु⟫ 1P "folyik"
+1.  ⟪कृ⟫ 8U (kivéve ⟪संस्कृ⟫)
+2.  ⟪भृ⟫ 1U
+3.  ⟪वृ⟫ 9U "választ"
+4.  ⟪सृ⟫ 1P
+5.  ⟪द्रु⟫ 1p "fut"
+6.  ⟪श्रु⟫ 5P
+7.  ⟪स्तु⟫ 2U
+8.  ⟪स्रु⟫ 1P "folyik"
 
 Az ún. fakultatív ⟪अनिट्⟫ gyököknél a kapcsolómag beszúrása választható vagy nem. (Ezeknek a gyököknek felsorolása Kielhorn, Grammatik S. 92 § 298b,2,3)
 :::
 ### 40.2.1. Perfekt I. típus: nincs tőfokváltás
 
-1. sz. = 3. sz.
+sz. = 3. sz.
 
 Ezen típust követő igék:
 
@@ -214,10 +214,10 @@ Ige, amelyek ezt a típust követik:
 ### 40.2.4. Perfektum IV. típus: -ā / -ai végződésű gyökök
 
 *   Erős alap:
-*   1.,3. sg. Parasamaip.: -au
+    *   1.,3. sg. Parasamaip.: -au
 *   Gyenge alap:
-*   mássalhangzó előtt: mérsékelt fokú -i
-*   magánhangzó előtt: mérsékelt fokú -ø
+    *   mássalhangzó előtt: mérsékelt fokú -i
+    *   magánhangzó előtt: mérsékelt fokú -ø
 
 ⟪दा⟫ 3U
 
@@ -232,20 +232,20 @@ Ige, amelyek ezt a típust követik:
 :::
 ### 40.2.5. Perfekt V: mássalhangzó-a-mássalhangzó
 
-1. sz. K. választólag magas fokú vagy nyújtott fokú
+sz. K. választólag magas fokú vagy nyújtott fokú
 
 #### 40.2.5.1. Perfekt V: mássalhangzó-a-mássalhangzó, gyenge alap alacsony fok
 
 Az ehhez a típushoz tartozó igék:
 
 ::: indent
-1. gam „megy”
-2. han (»ghan) „megöl”
-3. jan „születni”
-4. vac „beszélni”
-5. vad „beszélni”
-6. yaj „áldozni”
-7. stb.
+1.  gam „megy”
+2.  han (»ghan) „megöl”
+3.  jan „születni”
+4.  vac „beszélni”
+5.  vad „beszélni”
+6.  yaj „áldozni”
+7.  stb.
 :::
 ⟪गम्⟫ 1P
 
@@ -362,10 +362,10 @@ A periphrasztikus perfektképzés a következőkből áll:
 *   néhány egyéb esetben
 *   egyes töveknél mindkét perfektképzés opcionálisan képezhető: uṣ "ég", vid "tud", jāgṛ "ébredjen", daridrā "szegény legyen"
 *   az alábbi töveknél mindkét perfektképzés opcionálisan képezhető, és a periphrasztikus perfekt is reduplikált, nevezetesen az egyszerű jelen idői tővel:
-*   bhī "fél"
-*   bhṛ "hordoz"
-*   hu "áldoz"
-*   hrī "szégyenkezik"
+    *   bhī "fél"
+    *   bhṛ "hordoz"
+    *   hu "áldoz"
+    *   hrī "szégyenkezik"
 
 ⟪ईक्ष्⟫ 1Ā
 
@@ -393,7 +393,7 @@ A személyes névmav (személyes határozószó) alakja minden nemre ugyanaz.
 :::
 ::: grammar-box
 
-| | ⟪एकवचनम्⟫ :br„én” | ⟪बहुवचनम्⟫ :br„mi” |
+| | ⟪एकवचनम्⟫ :br"ich" | ⟪बहुवचनम्⟫ :br"wir" |
 | :---: | :---: | :---: |
 | ⟪प्रथमा⟫ | ⟪अहम्⟫ | ⟪वयम्⟫ |
 | ⟪द्वितीया⟫ | ⟪माम्⟫ / ⟪मा⟫ | ⟪अस्मान्⟫ / ⟪नस्⟫ |
@@ -608,44 +608,44 @@ B) Alakítsa át a következő igéket megfelelő perfektképzésekre. Több leh
 
 ## 40.8. Ismétlőgyakorlat a ragozástanhoz
 
-1. ⟪ददे⟫
-2. ⟪ददते⟫
-3. ⟪पापे⟫
-4. ⟪आसे⟫
-5. ⟪एते⟫
-6. ⟪इते⟫
-7. ⟪इतः⟫
-8. ⟪यतः⟫
-9. ⟪यते⟫
-10. ⟪ईयते⟫
-11. ⟪यत्⟫
-12. ⟪यदा⟫
-13. ⟪अस्तुवि⟫
-14. ⟪अस्तुवति⟫
-15. ⟪अस्तवीत्⟫
-16. ⟪ब्रह्मिणः⟫
-17. ⟪ब्रह्मणः⟫
-18. ⟪ब्राह्मणः⟫
-19. ⟪लभे⟫
-20. ⟪लाभे⟫
-21. ⟪लेभे⟫
-22. ⟪लोभे⟫
-23. ⟪काश्चन⟫
-24. ⟪तन्त्रे⟫
-25. ⟪तत्र⟫
-26. ⟪मनौ⟫
-27. ⟪मेने⟫
-28. ⟪सत्स्यामि⟫
-29. ⟪वेत्स्यामः⟫
-30. ⟪कच्चित्⟫
-31. ⟪तत्त्यागः⟫
-32. ⟪तत्याज⟫
-33. ⟪विद्ये⟫
-34. ⟪विद्याम्⟫
-35. ⟪एनेन⟫
-36. ⟪ऐक्षे⟫
-37. ⟪आह⟫
-38. ⟪आहन्⟫
+1.  ⟪ददे⟫
+2.  ⟪ददते⟫
+3.  ⟪पापे⟫
+4.  ⟪आसे⟫
+5.  ⟪एते⟫
+6.  ⟪इते⟫
+7.  ⟪इतः⟫
+8.  ⟪यतः⟫
+9.  ⟪यते⟫
+10.  ⟪ईयते⟫
+11.  ⟪यत्⟫
+12.  ⟪यदा⟫
+13.  ⟪अस्तुवि⟫
+14.  ⟪अस्तुवति⟫
+15.  ⟪अस्तवीत्⟫
+16.  ⟪ब्रह्मिणः⟫
+17.  ⟪ब्रह्मणः⟫
+18.  ⟪ब्राह्मणः⟫
+19.  ⟪लभे⟫
+20.  ⟪लाभे⟫
+21.  ⟪लेभे⟫
+22.  ⟪लोभे⟫
+23.  ⟪काश्चन⟫
+24.  ⟪तन्त्रे⟫
+25.  ⟪तत्र⟫
+26.  ⟪मनौ⟫
+27.  ⟪मेने⟫
+28.  ⟪सत्स्यामि⟫
+29.  ⟪वेत्स्यामः⟫
+30.  ⟪कच्चित्⟫
+31.  ⟪तत्त्यागः⟫
+32.  ⟪तत्याज⟫
+33.  ⟪विद्ये⟫
+34.  ⟪विद्याम्⟫
+35.  ⟪एनेन⟫
+36.  ⟪ऐक्षे⟫
+37.  ⟪आह⟫
+38.  ⟪आहन्⟫
 
 ::: deleteme-box
 

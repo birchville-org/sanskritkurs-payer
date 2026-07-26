@@ -1,10 +1,10 @@
 ---
-title: 17. lecke
-subtitle: "Második jelen idejű osztály (⟪अदादि⟫ = ⟪अद्⟫ stb.)"
+title: Lektion 17
+subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 17. lecke
@@ -17,11 +17,11 @@ A ragozott végződések közvetlenül a gyökérhez kapcsolódnak. Ebben az ese
 
 A második jelen idejű osztályba tartozó képzési módok a következők:
 
-1. Tőn tőfokozással
-*   legtöbbször: erős fok – gyenge fok
-*   néhány tőn: hosszúsági fok – gyenge fok
-2. Tőn tőfokozás nélkül
-3. Két szótagú, -i/-ī végű tőfokozással
+1.  Tőn tőfokozással
+    *   legtöbbször: erős fok – gyenge fok
+    *   néhány tőn: hosszúsági fok – gyenge fok
+2.  Tőn tőfokozás nélkül
+3.  Két szótagú, -i/-ī végű tőfokozással
 
 :::
 ## 17.2. A második jelen idejű osztály gyökei erős fok – gyenge fok tőfokozással
@@ -56,8 +56,8 @@ További példák:
 
 *   erős jelen időű tő: e-
 *   gyenge jelen időű tő:
-*   mássalhangzó előtt: i-
-*   magánhangzó előtt: y-/iy-
+    *   mássalhangzó előtt: i-
+    *   magánhangzó előtt: y-/iy-
 
 ::: no-header
 
@@ -88,8 +88,8 @@ További példák:
 
 *   erős jelen idői tő: han-
 *   gyenge jelen idői tő:
-*   mássalhangzó előtt: ha- (« \*hn-)
-*   magánhangzó előtt: ghn-/han-
+    *   mássalhangzó előtt: ha- (« \*hn-)
+    *   magánhangzó előtt: ghn-/han-
 
 ::: no-header
 
@@ -122,8 +122,8 @@ Példa:
 
 *   erős jelen idő igealak: stau-
 *   gyenge jelen idő igealak:
-*   mássalhangzó előtt: stu-
-*   magánhangzó előtt: stuv-
+    *   mássalhangzó előtt: stu-
+    *   magánhangzó előtt: stuv-
 
 ::: no-header
 
@@ -196,8 +196,8 @@ Példák:
 
 *   erős jelen idejű tő: rodi-
 *   gyenge jelen idejű tő:
-*   mássalhangzó előtt: rudi-
-*   magánhangzó előtt: rud-
+    *   mássalhangzó előtt: rudi-
+    *   magánhangzó előtt: rud-
 
 ::: no-header
 
@@ -212,7 +212,7 @@ Példák:
 *   erős jelen idői tő: bravī- (« bro- + -ī)
 *   gyenge jelen idői tő:
     *   vor Konsonant: brū-
-*   magánhangzó előtt: bruv-
+    *   magánhangzó előtt: bruv-
 
 ::: no-header
 

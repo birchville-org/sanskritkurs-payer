@@ -1,9 +1,9 @@
 ---
-title: Lecția 37
-subtitle: "Adverbul (⟪क्रियाविशेषणम्⟫)"
+title: Lektion 37
+subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -36,13 +36,13 @@ Acuzativul poate fi folosit adverbial:
     Exemple:  
     ⟪कामम्⟫ "după dorință, conform dorinței"  
     ⟪अर्थम्⟫ "din cauza"  
-     
+
 *   de adjective la neutru  
     Exemple:  
     ⟪सुखम्⟫ "ușor, fericit"  
     ⟪नित्यम्⟫ "mereu"  
     ⟪साधु⟫ "corect, bine"  
-     
+
 *   de pronume la neutru  
     Exemple:  
     ⟪तद्⟫ "atunci, de aceea"  
@@ -55,7 +55,7 @@ Acuzativul poate fi folosit adverbial:
 Instrumentalul (⟪तृतीया⟫) poate fi folosit adverbial, la întrebările:
 
 *   prin ce?
-* cu ce?
+*   cu ce?
 *   și altele.
 
 Instrumentalul poate fi folosit adverbial:
@@ -64,7 +64,7 @@ Instrumentalul poate fi folosit adverbial:
     Exemple:  
     ⟪अर्थेन⟫ "din cauza"  
     ⟪क्षणेन⟫ "în clipa aceea, imediat" (de la ⟪क्षण⟫ m. "clipă")  
-     
+
 *   de adjective, adesea și la plural  
     Exemple:  
     ⟪दूरेण⟫ "departe, din depărtare" (la ⟪दूर⟫ 3 "departe, îndepărtat de")  
@@ -97,10 +97,10 @@ Ablativul poate fi folosit adverbial:
 
 *   cu substantive  
     de ex. ⟪बलात्⟫ "violent, cu forța"  
-     
+
 *   cu adjectives  
     de ex. ⟪दूरात्⟫ "de la distanță"  
-     
+
 *   cu pronume  
     Exemple:  
     ⟪कस्मात्⟫ "de ce"  
@@ -156,12 +156,12 @@ adverbe pronominale corespunzătoare.
 
 | Suffix | Rădăcină pronominală | | | |
 | :--- | :--- | :--- | :--- | :--- |
-| | **⟪तद्⟫** | **⟪इदम्⟫**:br**⟪अ⟫-** | **⟪यद्⟫** | **⟪किम्⟫**:br**⟪कु⟫-** |
-| **-⟪तस्⟫**:br(Ablativ) | **⟪ततस्⟫**:brde acolo, pe aceea, de aceea | **⟪इतस्⟫**:br**⟪अतस्⟫**:brde aici, de această parte | **⟪यतस्⟫**:brde unde, de ce | **⟪कुतस्⟫**:brde unde?, de ce? |
-| **-⟪त्र⟫**:br(Locativ) | **⟪तत्र⟫**:braici, acolo | **⟪अत्र⟫**:braici | **⟪यत्र⟫**:brunde | **⟪कुत्र⟫**:brunde? |
-| **-⟪था⟫**:br(Mod) | **⟪तथा⟫**:brașa | | **⟪यथा⟫**:brcum | |
-| **-⟪थम्⟫**:br(Mod) | | | | **⟪कथम्⟫**:brcum? |
-| **-⟪दा⟫**:br(Timp) | **⟪तदा⟫**:bratunci, atunci | | **⟪यदा⟫**:brcând | **⟪कदा⟫**:brcând? |
+| | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
+| **-⟪तस्⟫** :br(Ablativ) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
+| **-⟪त्र⟫** :br(Lokativ) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
+| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
+| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -172,15 +172,16 @@ Un alt adverb interogativ este: ⟪क्व⟫ "unde?"
 Fig.: ⟪क्व⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3701))
 :::
+
 ::: grammar-box
 
 **Alte sufixe adverbiale**
 
 | Suffix | |
 | :--- | :--- |
-| **-⟪वत्⟫** | poate fi atașat la orice substantiv, pentru a exprima "după modelul, ca":brex. **⟪पुत्रवत्⟫** "ca un fiu" |
-| **-⟪तस्⟫** | la substantive și pronume. Majoritatea cu sens ablativ "de unde?", dar și "unde?", "încotro?":brex. **⟪आदितस्⟫** "de la început" |
-| **-⟪धा⟫** | 1. La adverbe numerale cu sensul "-pliu", "-fald":brex. **⟪द्विधा⟫** "dublu":br2. cu sensul "în felul și felul":brex. **⟪समधा⟫** "în același fel" (la **⟪सम⟫** 3 "egal") |
+| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
+| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Compozite adverbiale
@@ -231,11 +232,11 @@ La verbele
 poate sta în loc de un adjectiv predicativ un adverb predicativ:
 
 de ex. ⟪तूष्णीं⟫ ⟪बभूव⟫ "a tăcut, a mutrat"
-:::: media
+:::
+::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
 Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3703))
-::::
 :::
 ## 37.7. Pronume nehotărâte
 
@@ -301,11 +302,11 @@ Exemple:
 ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Ce ar trebui să învețe copiii?"
 
 ⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Unde locuiește Rāma?
-:::: media
+:::
+::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
 Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3704))
-::::
 :::
 ### 37.8.2. Întrebări de propoziție
 
@@ -329,11 +330,10 @@ Particulă de întrebare (de obicei la începutul propoziției) - propoziție
 Cele mai importante particule de întrebare sunt:
 
 *   ⟪अपि⟫
-    
+
 *   ⟪किम्⟫ (adesea lasă să se întrevadă un răspuns negativ)
-    
+
 *   ⟪कच्चिद्⟫
-    
 
 Aceste particule corespund semnului de întrebare.
 :::
@@ -357,11 +357,11 @@ Notă: ⟪किम्⟫ poate însemna, pe lângă "ce?", și ca particulă de
 
 ::: indent
 ⟪शाक्यमुनि⟫ m.: Aschet din neamul ⟪शाक्य⟫ (Kṣatriyas din ⟪कपिलवस्तु⟫) = Buddha Gautama
-:::: media
+:::
+::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Fig.: ⟪शाक्यमुनिः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3705))
-::::
 :::
 ⟪दिन⟫ n.: Zi
 
@@ -430,7 +430,7 @@ Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इ�
 
 B) Traduceți:
 
-  ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
+ ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
 
 ⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫
 
@@ -451,11 +451,11 @@ C) Traduceți următoarele ⟪अव्ययीभाव⟫ :
 ::: indent
 1.  ⟪अधिहरि⟫
 2.  ⟪अधिकेरलम्⟫
-:::: media
+:::
+::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
 Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3709))
-::::
 :::
 3\. ⟪अनु⟫ "potrivit, de-a lungul, conform"
 
@@ -481,21 +481,21 @@ Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 ::: indent
 1.  ⟪आबालवृद्धम्⟫
 2.  ⟪आमरणम्⟫
-:::: media
+:::
+::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
 Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3710))
-::::
 :::
 7\. ⟪उप⟫ "aproape"
 
 ::: indent
 1.  ⟪उपवृक्षम्⟫
-:::: media
+:::
+::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
 Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3711))
-::::
 :::
 8\. ⟪यथा⟫
 
@@ -521,5 +521,4 @@ Pe când un bătrân oarecare mergea într-un alt sat, se obosi pe drum. Atunci,
 - **Image lekt3709.jpg** (Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Sursa imaginii: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Accesat la 2008-12-31. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]
 - **Image lekt3710.jpg** (Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Sursa imaginii: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Accesat la 2008-12-31. -- Licență Creative Commons (Atribuire, Nefinanciar, share alike)]
 - **Image lekt3711.jpg** (Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Sursa imaginii: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Accesat la 2008-12-31. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]
-
 :::

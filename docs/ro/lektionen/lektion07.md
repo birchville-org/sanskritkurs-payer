@@ -1,9 +1,9 @@
 ---
-title: Lecția 7
-subtitle: "Propoziția verbală cu complement direct"
+title: Lektion 7
+subtitle: "Den Verbalsatz mit direktem Objekt"
 lesson_id: 7
 last_reconstructed: 2026-05-07
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -17,13 +17,16 @@ status: stable
 - Neutru al stemelor în a-
 - Clasele de prezent atematic (exemplificat prin clasa a 5-a)
 :::
-## Proverbul săptămânii
+
+::: center
+**Cuvântul săptămânii**
+:::
 
 ::: center
 ⟪धर्मो⟫ ⟪जयति⟫ ⟪नधर्मः⟫
-⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ |
+⟪सत्यं⟫ ⟪जयति⟫ ⟪नानृतम्⟫ ⟪|⟫
 ⟪क्षमा⟫ ⟪जयति⟫ ⟪न⟫ ⟪क्रोधो⟫
-⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ||
+⟪देवो⟫ ⟪जयति⟫ ⟪नासुरः⟫ ⟪||⟫
 
 **dharmo jayati nādharmaḥ**
 **satyaṃ jayati nānṛtam |**
@@ -35,7 +38,6 @@ Adevărul învinge, nu minciuna,
 Îndurarea învinge, nu mânia,
 Dumnezeu învinge, nu demonul.
 :::
----
 
 ## 7.1. Propoziția verbală cu complement direct
 
@@ -49,8 +51,6 @@ de exemplu:
 :::
 Dacă verbul este la Parasmaipada sau Ātmanepada, atunci complementul direct (**karman** n. = ⟪कर्मन्⟫) se află, în general, la **Acuzativ** (cazul al patrulea, dvitīyā f. = ⟪द्वितीया⟫).
 
----
-
 ## 7.2. Acuzativul (Cazul al patrulea, dvitīyā f. = ⟪द्वितीया⟫ = "a doua terminație de caz")
 
 ::: grammar-box
@@ -58,56 +58,51 @@ Dacă verbul este la Parasmaipada sau Ātmanepada, atunci complementul direct (*
 
 | Masculine pe | Acuzativ singular |
 | :--- | :--- |
-| **-a**: deva | **devam**:br⟪देवम्⟫ |
-| **-i**: kavi | **kavim**:br⟪कविम्⟫ |
-| **-u**: guru | **gurum**:br⟪गुरुम्⟫ |
-
+| **-a**: deva | **devam** :br⟪देवम्⟫ |
+| **-i**: kavi | **kavim** :br⟪कविम्⟫ |
+| **-u**: guru | **gurum** :br⟪गुरुम्⟫ |
 | Feminine pe | Acuzativ singular |
-| :--- | :--- |
-| **-ā**: devatā | **devatām**:br⟪देवताम्⟫ |
-| **-i**: śruti | **śrutim**:br⟪श्रुतिम्⟫ |
-| **-ī**: devī | **devīm**:br⟪देवीम्⟫ |
-| **-u**: dhenu | **dhenum**:br⟪धेनुम्⟫ |
+| **-ā**: devatā | **devatām** :br⟪देवताम्⟫ |
+| **-i**: śruti | **śrutim** :br⟪श्रुतिम्⟫ |
+| **-ī**: devī | **devīm** :br⟪देवीम्⟫ |
+| **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ |
 :::
 ::: grammar-box
 **Acuzativul plural masculin al stemelor pe vocală (excepție: stemelor de rădăcină monosilabice cu vocală lungă): Lungirea vocalei finale + -n**
 
 | Masculine pe | Acuzativ plural |
 | :--- | :--- |
-| **-a**: deva | **devān**:br⟪देवान्⟫ |
-| **-i**: kavi | **kavīn**:br⟪कवीन्⟫ |
-| **-u**: guru | **gurūn**:br⟪गुरून्⟫ |
+| **-a**: deva | **devān** :br⟪देवान्⟫ |
+| **-i**: kavi | **kavīn** :br⟪कवीन्⟫ |
+| **-u**: guru | **gurūn** :br⟪गुरून्⟫ |
 :::
 ::: grammar-box
 **Acuzativul plural feminin al stemelor pe vocală (excepție: stemelor de rădăcină monosilabice cu vocală lungă): Lungirea vocalei finale + -s**
 
 | Feminine pe | Acuzativ plural |
 | :--- | :--- |
-| **-ā**: devatā | **devatās**:br⟪देवतास्⟫ |
-| **-i**: śruti | **śrutīs**:br⟪श्रुतीस्⟫ |
-| **-ī**: devī | **devīs**:br⟪देवीस्⟫ |
-| **-u**: dhenu | **dhenūs**:br⟪धेनूस्⟫ |
+| **-ā**: devatā | **devatās** :br⟪देवतास्⟫ |
+| **-i**: śruti | **śrutīs** :br⟪श्रुतीस्⟫ |
+| **-ī**: devī | **devīs** :br⟪देवीस्⟫ |
+| **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
----
 
 ### 7.2.1. Acuzativul singular și plural al pronumelor interogative și demonstrative
 
 ::: grammar-box
-| | | Masculin | Feminin | Neutru |
+| || Masculin | Feminin | Neutru |
 | :--- | :--- | :--- | :--- | :--- |
-| **kim**:brcine/ce | sg. | **kam**:br⟪कम्⟫ | **kām**:br⟪काम्⟫ | **kim**:br⟪किम्⟫ |
-| | pl. | **kān**:br⟪कान्⟫ | **kās**:br⟪कास्⟫ | **kāni**:br⟪कानि⟫ |
-| **tad**:brel/ea/acea | sg. | **tam**:br⟪तम्⟫ | **tām**:br⟪ताम्⟫ | **tad**:br⟪तद्⟫ |
-| | pl. | **tān**:br⟪तान्⟫ | **tās**:br⟪तास्⟫ | **tāni**:br⟪तानि⟫ |
-| **etad**:bracesta aici | sg. | **etam / enam**:br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām**:br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad**:br⟪एतद्⟫ / ⟪एनद्⟫ |
-| | pl. | **etān / enān**:br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās**:br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni**:br⟪एतानि⟫ / ⟪एनानि⟫ |
-| **idam**:bracesta | sg. | **imam / enam**:br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām**:br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad**:br⟪इदम्⟫ / ⟪एनद्⟫ |
-| | pl. | **imān / enān**:br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās**:br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni**:br⟪इमानि⟫ / ⟪एनानि⟫ |
+| **kim**:brcine/ce | sg. | **kam** :br⟪कम्⟫ | **kām** :br⟪काम्⟫ | **kim** :br⟪किम्⟫ |
+| | pl. | **kān** :br⟪कान्⟫ | **kās** :br⟪कास्⟫ | **kāni** :br⟪कानि⟫ |
+| **tad**:brel/ea/acea | sg. | **tam** :br⟪तम्⟫ | **tām** :br⟪ताम्⟫ | **tad** :br⟪तद्⟫ |
+| | pl. | **tān** :br⟪तान्⟫ | **tās** :br⟪तास्⟫ | **tāni** :br⟪तानि⟫ |
+| **etad**:bracesta aici | sg. | **etam / enam** :br⟪एतम्⟫ / ⟪एनम्⟫ | **etām / enām** :br⟪एताम्⟫ / ⟪एनाम्⟫ | **etad / enad** :br⟪एतद्⟫ / ⟪एनद्⟫ |
+| | pl. | **etān / enān** :br⟪एतान्⟫ / ⟪एनान्⟫ | **etās / enās** :br⟪एतास्⟫ / ⟪एनास्⟫ | **etāni / enāni** :br⟪एतानि⟫ / ⟪एनानि⟫ |
+| **idam**:bracesta | sg. | **imam / enam** :br⟪इमम्⟫ / ⟪एनम्⟫ | **imām / enām** :br⟪इमाम्⟫ / ⟪एनाम्⟫ | **idam / enad** :br⟪इदम्⟫ / ⟪एनद्⟫ |
+| | pl. | **imān / enān** :br⟪इमान्⟫ / ⟪एनान्⟫ | **imās / enās** :br⟪इमास्⟫ / ⟪एनास्⟫ | **imāni / enāni** :br⟪इमानि⟫ / ⟪एनानि⟫ |
 :::
 Formele **enam** (⟪एनम्⟫) etc. apar la tema **enad** (⟪एनद्⟫), care formează cazuri doar în unele cazuri. Acestea sunt folosite în loc de formele lui **etad** și **idam** atunci când ceea ce este indicat prin acestea a fost deja menționat în textul anterior.
 de ex. **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : "El este un zeu. Se jertfește lui."
-
----
 
 ### 7.2.2. Utilizarea acuzativului (cazul al doilea, dvitīyā f. = ⟪द्वितीया⟫ = "a doua terminație de caz")
 
@@ -122,8 +117,6 @@ Acuzativul (dvitīyā f. = ⟪द्वितीया⟫) indică:
    - **narakaṃ gacchati** = ⟪नरकं⟫ ⟪गच्छति⟫ : "El merge la iad."
 :::
 Utilizări suplimentare ale acuzativului vor fi tratate mai târziu.
-
----
 
 ## 7.3. Sandhi de finalul -n
 
@@ -149,7 +142,6 @@ Utilizări suplimentare ale acuzativului vor fi tratate mai târziu.
 
 4. În afară de după vocala scurtă (a se vedea mai târziu), finalul **-n** rămâne neschimbat în toate celelalte cazuri.
 :::
----
 
 ## 7.4. Neutru (napuṃsaka n. = ⟪नपुंसक⟫)
 
@@ -164,7 +156,6 @@ Utilizări suplimentare ale acuzativului vor fi tratate mai târziu.
 - **Sfârșitul Nominativ / Acuzativ Plural: -āni**
   de ex. **phala** n. = ⟪फल⟫: Nom. / Ac. pl. **phalāni** = ⟪फलानि⟫
 :::
----
 
 ## 7.5. Clase de prezente atematice
 
@@ -199,14 +190,12 @@ Clasa a 5-a de prezente formează un numit rădăcină de prezent atematic, adic
 :::
 **Exemple:**
 
-| Rădăcină:br⟪धातु⟫ | Stem puternic | Stem slab | Înainte de vocală:br(slab) |
+| Wurzel:br⟪धातु⟫ | Stem puternic | Stem slab | Înainte de vocală:br(slab) |
 | :--- | :--- | :--- | :--- |
-| **āp**:br5 P:br⟪आप्⟫:br"a atinge" | **āp-no**:br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv**:br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
-| **aś**:br5 Ā:br⟪अश्⟫:br"a atinge" | — | **aś-nu**:br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv**:br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
-| **su**:br5 U:br⟪सु⟫:br"a stoarce" | **su-no**:br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu**:br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv**:br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
-| **śru**:br5 P:br⟪श्रु⟫:br"a auzi" | **śṛ-ṇo**:br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv**:br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
-
----
+| **āp** :br5 P:br⟪आप्⟫:br"erreichen" | **āp-no** :br(3.sg. āpnoti = ⟪आप्नोति⟫) | **āp-nu** | **āp-nuv** :br(3.pl. āpnuvanti = ⟪आप्नुवन्ति⟫) |
+| **aś** :br5 Ā:br⟪अश्⟫:br"erreichen" | — | **aś-nu** :br(3.sg. aśnute = ⟪अश्नुते⟫) | **aś-nuv** :br(3.pl. aśnuvate = ⟪अश्नुवते⟫) |
+| **su** :br5 U:br⟪सु⟫:br"auspressen" | **su-no** :br(3.sg. sunoti = ⟪सुनोति⟫) | **su-nu** :br(3.sg. sunute = ⟪सुनुते⟫) | **su-nv** :br(3.pl. sunvanti = ⟪सुन्वन्ति⟫,:br3.pl. sunvate = ⟪सुन्वते⟫) |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śṛ-ṇo** :br(3.sg. śṛṇoti = ⟪शृणोति⟫) | **śṛ-ṇu** | **śṛ-ṇv** :br(3.pl. śṛṇvanti = ⟪शृण्वन्ति⟫) |
 
 ## 7.6. Listă de cuvinte
 
@@ -231,10 +220,6 @@ Fig.: A fost aceasta planta Soma vedică?: Ciuperca muștar: *Amanita muscaria* 
 - **naraka** m. ⟪नरक⟫ : iad (conform unei concepții hinduse, universul are forma unui ou (**Brahmāṇḍa** m.n. = ⟪ब्रह्माण्ड⟫ = "Ou al lui Brahmā"): deasupra pământului sunt șase ceruri cu fericire crescătoare, sub pământ sunt șapte așa-numite **pātāla** n. = ⟪पाताल⟫, locuințe ale **nāga** m. = ⟪नाग⟫ (șerpi) și alte ființe mitice, printre care se află 7 iaduri cu chinuri crescătoare)
 - **aṅga** n. ⟪अङ्ग⟫ : membru al corpului, componentă; de asemenea = **vedāṅga** = ⟪वेदाङ्ग⟫
 - **gam** 1 P (gacchati) ⟪गम्⟫ ⟪गच्छति⟫ : merge (Potrivit clasificării native a verbelor, aparține clasei de prezent 1, dar în realitate este o formare cu un sufix de formare a temei de prezent **-ccha-**: **gam** » formă profundă (**gm** ») **ga-ccha-ti**)
-
-
-
----
 
 ## 7.7. Exercitiu
 
@@ -312,3 +297,4 @@ Fig.: Cărui zeu i se jertfe aici? Răspuns: Gaṇeśa (Gaṇapati) = ⟪गण�
 9. Ce mestecă acest om sfânt?
 10. Ce stoarc acești (aici)?
 11. El este învățătorul. La el ascultă (= ei ascultă).
+

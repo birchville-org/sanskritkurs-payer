@@ -1,7 +1,7 @@
 ---
-title: 35. lecke
+title: Lektion 35
 lesson_id: 35
-status: stabil
+status: stable
 ---
 
 # 35. lecke
@@ -59,7 +59,7 @@ Az alábbi típusú gyökökből képződik:
 *   mássalhangzó-mássalhangzó-ṛ (azaz -ṝ végződésű gyökök, ha előttük több mássalhangzó áll)
 Példák:
 
-| Gyök | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
+| Tő | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪पॄ⟫ 3P | ⟪पपार⟫ | ⟪पपरुर्⟫ | | |
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
@@ -124,7 +124,7 @@ Példák:
 | ⟪हन्⟫ 2P | sig[⟪जघान⟫] :brja-**ghān**-a | sig[⟪जघ्नुर्⟫] | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
-| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \&lt;⟪ऊदे⟫\&gt; | \&lt;⟪ऊदिरे⟫\&gt; |
+| ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
 ### 35.3.2. Perfektum Vb-típus: gyenge alap Kontrakció (e-típus)
@@ -242,7 +242,7 @@ A) Alakítsa ki a következő igai formákhoz a megfelelő perfekta formákat:
 26. ⟪मन्यन्ते⟫
 27. ⟪अक्रामन्⟫
 28. ⟪अशृण्वन्⟫
-29. ⟪मिमति⟫
+29. ⟪मिमति⟫  
 ::: media
 ![](/images/lekt3503.webp)
 Kép: ⟪मिमति⟫

@@ -1,10 +1,10 @@
 ---
-title: 22. lecke
-subtitle: "Az abszolútum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: Lektion 22
+subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 22. lecke

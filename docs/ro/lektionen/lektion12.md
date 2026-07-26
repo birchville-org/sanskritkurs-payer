@@ -1,9 +1,9 @@
 ---
-title: Lecția 12
-subtitle: "Participiul Perfect Pasiv (PPP)"
+title: Lektion 12
+subtitle: "Das Partizip Perfekt Passiv (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -17,7 +17,6 @@ status: stable
 - Legăturile fonetice în cuvinte
 - Pasivul și PPP-ul rădăcinilor învățate până acum
 :::
----
 
 ## 12.1. Participiul Perfect Pasiv (PPP)
 
@@ -26,7 +25,6 @@ O modalitate de a forma propozițiile la pasiv în trecut este construcția cu a
 ::: grammar-box
 **În realitate, PPP nu este un participiu adevărat, deoarece nu se formează dintr-o rădăcină de timp. El este, mai degrabă, o formare nominală a rădăcinii cu sufixul primar -ta, respectiv -na. De aceea, în gramatica indiană se vorbește despre sufixul kta.**
 :::
----
 
 ### 12.1.1. Schema pentru verbe tranzitive
 
@@ -42,7 +40,6 @@ Exemple:
 > 
 > **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(De către brahman a fost onorată zeița cu un sacrificiu) = Brahmanul a onorat zeița cu un sacrificiu.”
 :::
----
 
 ### 12.1.2. Schema I pentru verbe intranzitive și verbe de mișcare
 
@@ -54,7 +51,6 @@ Exemple:
 Exemplu:
 > **kṣatriyā nagaraṃ gatā** = ⟪क्षत्रिया⟫ ⟪नगरं⟫ ⟪गता⟫ = „Femeia kṣatriya a mers în oraș.”
 :::
----
 
 ### 12.1.3. Schema II pentru verbe intranzitive și verbe de mișcare
 
@@ -66,7 +62,6 @@ Exemplu:
 
 Construcția conform Schema II este mult mai rară decât construcția conform Schema I.
 :::
----
 
 ## 12.2. Despre semnificatul PPP
 
@@ -75,8 +70,6 @@ Construcția conform Schema II este mult mai rară decât construcția conform S
 de ex.
 - **gata** = ⟪गत⟫ = „mergând” (activ); dar, de asemenea: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „un drum parcurs” (pasiv)
 - **āpta** = ⟪आप्त⟫ = „fost atins” (pasiv), „atingând” (activ)
-
----
 
 ## 12.3. Formarea PPP-ului
 
@@ -92,7 +85,6 @@ Se întâlnesc următoarele modalități de formare (pentru fiecare rădăcină 
 
 Stemurile feminine se termină în: **-tā**, **-itā**, **-nā**; neutrul se declină ca **phala** n.
 :::
----
 
 ### 12.3.1. PPP pe -ta (kta)
 
@@ -110,18 +102,18 @@ O listă a rădăcinilor *aniṭ* se găsește la Kielhorn, *Gramatik* § 298.
 ::: grammar-box
 | Rădăcină | PPP (kta) |
 | :--- | :--- |
-| **bhū** 1 P:br(⟪भू⟫) | **bhū-ta**:br(⟪भूत⟫) |
-| **smṛ** 1 P:br(⟪स्मृ⟫) | **smṛ-ta**:br(⟪स्मृत⟫) |
-| **nṛt** 4 P:br(nṛt-ta):br(⟪नृत्त⟫) | **nṛt-ta**:br(⟪नृत्त⟫) |
-| **nī** 1 U:br(⟪नी⟫) | **nī-ta**:br(⟪नीत⟫) |
+| **bhū** 1 P:br(⟪भू⟫) | **bhū-ta** :br(⟪भूत⟫) |
+| **smṛ** 1 P:br(⟪स्मृ⟫) | **smṛ-ta** :br(⟪स्मृत⟫) |
+| **nṛt** 4 P:br(nṛt-ta):br(⟪नृत्त⟫) | **nṛt-ta** :br(⟪नृत्त⟫) |
+| **nī** 1 U:br(⟪नी⟫) | **nī-ta** :br(⟪नीत⟫) |
 | **man** 4 Ā:br(⟪मन्⟫) | **ma-ta** (\*mn-ta):br(⟪मत⟫) |
-| **su** 5 U:br(⟪सु⟫) | **su-ta**:br(⟪सुत⟫) |
+| **su** 5 U:br(⟪सु⟫) | **su-ta** :br(⟪सुत⟫) |
 | **gam** 1 P:br(⟪गम्⟫) | **ga-ta** (\< \*gm-ta):br(⟪गत⟫) |
-| **ji** 1 P:br(⟪जि⟫) | **ji-ta**:br(⟪जित⟫) |
-| **śru** 5 P:br(⟪श्रु⟫) | **śru-ta**:br(⟪श्रुत⟫) |
-| **kṛ** 8 U:br(⟪कृ⟫) | **kṛ-ta**:br(⟪कृत⟫) |
+| **ji** 1 P:br(⟪जि⟫) | **ji-ta** :br(⟪जित⟫) |
+| **śru** 5 P:br(⟪श्रु⟫) | **śru-ta** :br(⟪श्रुत⟫) |
+| **kṛ** 8 U:br(⟪कृ⟫) | **kṛ-ta** :br(⟪कृत⟫) |
 | **tan** 8 U:br(⟪तन्⟫) | **ta-ta** (\< \*tn-ta):br(⟪तत⟫) |
-| **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa**:br(⟪इष्ट⟫) |
+| **iṣ** 6 P:br(⟪इष्⟫) | **iṣ-ṭa** :br(⟪इष्ट⟫) |
 :::
 #### 12.3.1.2. Cu vocală de legătură -i- (seṭ)
 
@@ -132,12 +124,11 @@ O listă a rădăcinilor *aniṭ* se găsește la Kielhorn, *Gramatik* § 298.
 ::: grammar-box
 | Rădăcină | PPP (kta) |
 | :--- | :--- |
-| **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta**:br(⟪कुपित⟫) |
-| **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta**:br(⟪खादित⟫) |
-| **rakṣ** 1 P:br(⟪रक्ष्⟫) | **rakṣ-i-ta**:br(⟪रक्षित⟫) |
+| **kup** 4 P:br(⟪कुप्⟫) | **kup-i-ta** :br(⟪कुपित⟫) |
+| **khād** 1 P:br(⟪खाद्⟫) | **khād-i-ta** :br(⟪खादित⟫) |
+| **rakṣ** 1 P:br(⟪रक्ष्⟫) | **rakṣ-i-ta** :br(⟪रक्षित⟫) |
 | **vad** 1 P:br(⟪वद्⟫) | **ud-i-ta** (\< \*vd-i-ta):br(⟪उदित⟫) |
 :::
----
 
 ## 12.4. Legile combinațiilor fonetice în cuvânt
 
@@ -148,13 +139,12 @@ O listă a rădăcinilor *aniṭ* se găsește la Kielhorn, *Gramatik* § 298.
 | :--- | :--- |
 | **1. k, t, p înaintea unei consoane ocluse surde (de ex. t, th) rămân neschimbate:** | **pt, tt, kt** = **⟪प्त्⟫, ⟪त्त्⟫, ⟪क्त्⟫** |
 | **2. ct este înlocuit cu kt = ⟪क्त्⟫:** | **muc + ta » muk-ta** = **⟪मुक्त⟫** |
-| **3. śt este înlocuit cu ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = **⟪दृष्टि⟫**:br**dṛś + ta » dṛṣṭa** = **⟪दृष्ट⟫**:br**viś + ta » viṣṭa** = **⟪विष्ट⟫** |
+| **3. śt este înlocuit cu ṣṭ = ⟪ष्ट्⟫:** | **dṛś + ti » dṛṣṭi** = ⟪दृष्टि⟫ :br **dṛś + ta » dṛṣṭa** = ⟪दृष्ट⟫ :br **viś + ta » viṣṭa** = ⟪विष्ट⟫ |
 | **4. Consoana ocluză sonoră neaspirată – cu excepția lui j – este înlocuită înaintea unui sunet surd de corespunzătoarea sa consoană ocluză surdă neaspirată:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (important pentru a 2-a clasă de prezente) |
-| **5. jt este înlocuit cu kt sau ṣṭ (nu facultativ!):** | **yuj + ta » yuk-ta** = **⟪युक्त⟫**:br**yaj + ta » iṣ-ṭa** = **⟪इष्ट⟫** (\< \*yj-ta):br**sṛj + ta » sṛṣ-ṭa** = **⟪सृष्ट⟫**:br**sṛj + ti » sṛṣ-ṭi** = **⟪सृष्टि⟫** |
-| **6. Consoana ocluză sonoră aspirată + consoană ocluză surdă » consoană ocluză sonoră neaspirată + consoană ocluză sonoră aspirată (Legea aspirării Bartholomaei):** | **bh-t » b-dh:**:br**labh + ta » lab-dha** = **⟪लब्ध⟫**:br**dh-t » d-dh:**:br**budh + ta » bud-dha** = **⟪बुद्ध⟫**:br**yudh + ta » yud-dha** = **⟪युद्ध⟫**:br**krudh + ta » krud-dha** = **⟪क्रुद्ध⟫** |
-| **7. h-t este înlocuit cu ḍh cu lungirea unui i sau u anterior; sau cu gdh. Înaintea unui astfel de ḍh, a este înlocuit cu o, rar cu ā:** | **dah + ta » dag-dha** = **⟪दग्ध⟫**:br**guh + ta » gūḍha** = **⟪गूढ⟫** (guh 1 (gūhati) „a ascunde ceva”):br**muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫**:br**sah + ta » soḍha** = **⟪सोढ⟫** |
+| **5. jt este înlocuit cu kt sau ṣṭ (nu facultativ!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
+| **6. Consoana ocluză sonoră aspirată + consoană ocluză surdă » consoană ocluză sonoră neaspirată + consoană ocluză sonoră aspirată (Legea aspirării Bartholomaei):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
+| **7. h-t este înlocuit cu ḍh cu lungirea unui i sau u anterior; sau cu gdh. Înaintea unui astfel de ḍh, a este înlocuit cu o, rar cu ā:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
----
 
 ## 12.5. Listă de cuvinte
 
@@ -195,59 +185,54 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 :::
 - **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : cunoaștere, organ al cunoașterii.
 
----
-
 ### 12.5.1. Pasivul și PPP-urile rădăcinilor învățate până acum
 
-| Rădăcină:br⟪धातु⟫ | Pasiv Prezent 3. sg. Indicativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+| Wurzel:br⟪धातु⟫ | Passiv Präsens 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
-| **aś** 5 Ā:br⟪अश्⟫ | **aśyate**:br⟪अश्यते⟫ | **aṣṭa**:br⟪अष्ट⟫ |
-| **āp** 5 P:br⟪आप्⟫ | **āpyate**:br⟪आप्यते⟫ | **āpta**:br⟪आप्त⟫ |
-| **as** 2 P:br⟪अस्⟫ | — | **bhūta**:br⟪भूत⟫ |
-| **bhaj** 1 U:br⟪भज्⟫ | **bhajyate**:br⟪भज्यते⟫ | **bhakta**:br⟪भक्त⟫ |
-| **bhū** 1 P:br⟪भू⟫ | **bhūyate**:br⟪भूयते⟫ | **bhūta**:br⟪भूत⟫ |
-| **budh** 4 Ā / 1 U:br⟪बुध्⟫ | **budhyate**:br⟪बुध्यते⟫ | **buddha**:br⟪बुद्ध⟫ |
-| **dah** 1 P:br⟪दह्⟫ | **dahyate**:br⟪दह्यते⟫ | **dagdha**:br⟪दग्ध⟫ |
-| **div** 4 P:br⟪दिव्⟫ | **dīvyate**:br⟪दीव्यते⟫ | **dyūta**:br⟪द्यूत⟫ |
-| **dṛś**:br⟪दृश्⟫ | **dṛśyate**:br⟪दृश्यते⟫ | **dṛṣṭa**:br⟪दृष्ट⟫ |
-| **gam** 1 P:br⟪गम्⟫ | **gamyate**:br⟪गम्यते⟫ | **gata**:br⟪गत⟫ |
-| **grah** 9 U:br⟪ग्रह्⟫ | **gṛhyate**:br⟪गृह्यते⟫ | **gṛhīta**:br⟪गृहीत⟫ |
-| **hṛ** 1 U:br⟪हृ⟫ | **hriyate**:br⟪ह्रियते⟫ | **hṛta**:br⟪हृत⟫ |
-| **i** 2 P:br⟪इ⟫ | **īyate**:br⟪ईयते⟫ | **ita**:br⟪इत⟫ |
-| **iṣ** 6 P:br⟪इष्⟫ | **iṣyate**:br⟪इष्यते⟫ | **iṣṭa**:br⟪इष्ट⟫ |
-| **jan** 4 Ā:br⟪जन्⟫ | **janyate**:br⟪जन्यते⟫ | **jāta**:br⟪जात⟫ |
-| **ji** 1 P:br⟪जि⟫ | **jīyate**:br⟪जीयते⟫ | **jita**:br⟪जित⟫ |
-| **kath** 10 U:br⟪कथ्⟫ | **kathyate**:br⟪कथ्यते⟫ | **kathita**:br⟪कथित⟫ |
-| **khād** 1 P:br⟪खाद्⟫ | **khādyate**:br⟪खाद्यते⟫ | **khādita**:br⟪खादित⟫ |
-| **kṛ** 8 U:br⟪कृ⟫ | **kriyate**:br⟪क्रियते⟫ | **kṛta**:br⟪कृत⟫ |
-| **krudh** 4 P:br⟪क्रुध्⟫ | **krudhyate**:br⟪क्रुध्यते⟫ | **kruddha**:br⟪क्रुद्ध⟫ |
-| **kup** 4 P:br⟪कुप्⟫ | **kupyate**:br⟪कुप्यते⟫ | **kupita**:br⟪कुपित⟫ |
-| **labh** 1 Ā:br⟪लभ्⟫ | **labhyate**:br⟪लभ्यते⟫ | **labdha**:br⟪लब्ध⟫ |
-| **man** 4 Ā:br⟪मन्⟫ | **manyate**:br⟪मन्यते⟫ | **mata**:br⟪मत⟫ |
-| **mṛ** 6 Ā:br⟪मृ⟫ | **mriyate**:br⟪म्रियते⟫ | **mṛta**:br⟪मृत⟫ |
-| **muc** 6 U:br⟪मुच्⟫ | **mucyate**:br⟪मुच्यते⟫ | **mukta**:br⟪मुक्त⟫ |
-| **nī** 1 U:br⟪नी⟫ | **nīyate**:br⟪नीयते⟫ | **nīta**:br⟪नीत⟫ |
-| **paś**:br⟪पश्⟫ | **(dṛśyate)**:br⟪दृश्यते⟫ | **(dṛṣṭa)**:br⟪दृष्ट⟫ |
-| **pat** 1 P:br⟪पत्⟫ | **patyate**:br⟪पत्यते⟫ | **patita**:br⟪पतित⟫ |
-| **prach** 6 P:br⟪प्रच्छ्⟫ | **pṛcchyate**:br⟪पृच्छ्यते⟫ | **pṛṣṭa**:br⟪पृष्ट⟫ |
-| **pūj** 10 U:br⟪पूज्⟫ | **pūjyate**:br⟪पूज्यते⟫ | **pūjita**:br⟪पूजित⟫ |
-| **rakṣ** 1 P:br⟪रक्ष्⟫ | **rakṣyate**:br⟪रक्ष्यते⟫ | **rakṣita**:br⟪रक्षित⟫ |
-| **ram** 1 Ā:br⟪रम्⟫ | **ramyate**:br⟪रम्यते⟫ | **rata**:br⟪रत⟫ |
-| **sah** 1 Ā:br⟪सह्⟫ | **sahyate**:br⟪सह्यते⟫ | **soḍha**:br⟪सोढ⟫ |
-| **sic** 6 U:br⟪सिच्⟫ | **sicyate**:br⟪सिच्यते⟫ | **sikta**:br⟪सिक्त⟫ |
-| **śru** 5 P:br⟪श्रु⟫ | **śrūyate**:br⟪श्रूयते⟫ | **śruta**:br⟪श्रुत⟫ |
-| **su** 5 U:br⟪सु⟫ | **sūyate**:br⟪सूयते⟫ | **suta**:br⟪सुत⟫ |
-| **svap** 2 P:br⟪स्वप्⟫ | **supyate**:br⟪सुप्यते⟫ | **supta**:br⟪सुप्त⟫ |
-| **tyaj** 1 P:br⟪त्यज्⟫ | **tyajyate**:br⟪त्यज्यते⟫ | **tyakta**:br⟪त्यक्त⟫ |
-| **uch**:br⟪उछ्⟫ | — | **uṣita**:br⟪उषित⟫ |
-
-| **vad** 1 P:br⟪वद्⟫ | **udyate**:br⟪उद्यते⟫ | **udita**:br⟪उदित⟫ |
-| **vas** 1 P:br⟪वस्⟫ | **uṣyate**:br⟪उष्यते⟫ | **uṣita**:br⟪उषित⟫ |
-| **vadh**:br⟪वध्⟫ | **vadyate**:br⟪वद्यते⟫ | **hata**:br⟪हत⟫ |
-| **yaj** 1 U:br⟪यज्⟫ | **ijyate**:br⟪इज्यते⟫ | **iṣṭa**:br⟪इष्ट⟫ |
-| **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate**:br⟪युध्यते⟫ | **yuddha**:br⟪युद्ध⟫ |
-
----
+| **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
+| **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |
+| **as** 2 P:br⟪अस्⟫ | — | **bhūta** :br⟪भूत⟫ |
+| **bhaj** 1 U:br⟪भज्⟫ | **bhajyate** :br⟪भज्यते⟫ | **bhakta** :br⟪भक्त⟫ |
+| **bhū** 1 P:br⟪भू⟫ | **bhūyate** :br⟪भूयते⟫ | **bhūta** :br⟪भूत⟫ |
+| **budh** 4 Ā / 1 U:br⟪बुध्⟫ | **budhyate** :br⟪बुध्यते⟫ | **buddha** :br⟪बुद्ध⟫ |
+| **dah** 1 P:br⟪दह्⟫ | **dahyate** :br⟪दह्यते⟫ | **dagdha** :br⟪दग्ध⟫ |
+| **div** 4 P:br⟪दिव्⟫ | **dīvyate** :br⟪दीव्यते⟫ | **dyūta** :br⟪द्यूत⟫ |
+| **dṛś** :br⟪दृश्⟫ | **dṛśyate** :br⟪दृश्यते⟫ | **dṛṣṭa** :br⟪दृष्ट⟫ |
+| **gam** 1 P:br⟪गम्⟫ | **gamyate** :br⟪गम्यते⟫ | **gata** :br⟪गत⟫ |
+| **grah** 9 U:br⟪ग्रह्⟫ | **gṛhyate** :br⟪गृह्यते⟫ | **gṛhīta** :br⟪गृहीत⟫ |
+| **hṛ** 1 U:br⟪हृ⟫ | **hriyate** :br⟪ह्रियते⟫ | **hṛta** :br⟪हृत⟫ |
+| **i** 2 P:br⟪इ⟫ | **īyate** :br⟪ईयते⟫ | **ita** :br⟪इत⟫ |
+| **iṣ** 6 P:br⟪इष्⟫ | **iṣyate** :br⟪इष्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
+| **jan** 4 Ā:br⟪जन्⟫ | **janyate** :br⟪जन्यते⟫ | **jāta** :br⟪जात⟫ |
+| **ji** 1 P:br⟪जि⟫ | **jīyate** :br⟪जीयते⟫ | **jita** :br⟪जित⟫ |
+| **kath** 10 U:br⟪कथ्⟫ | **kathyate** :br⟪कथ्यते⟫ | **kathita** :br⟪कथित⟫ |
+| **khād** 1 P:br⟪खाद्⟫ | **khādyate** :br⟪खाद्यते⟫ | **khādita** :br⟪खादित⟫ |
+| **kṛ** 8 U:br⟪कृ⟫ | **kriyate** :br⟪क्रियते⟫ | **kṛta** :br⟪कृत⟫ |
+| **krudh** 4 P:br⟪क्रुध्⟫ | **krudhyate** :br⟪क्रुध्यते⟫ | **kruddha** :br⟪क्रुद्ध⟫ |
+| **kup** 4 P:br⟪कुप्⟫ | **kupyate** :br⟪कुप्यते⟫ | **kupita** :br⟪कुपित⟫ |
+| **labh** 1 Ā:br⟪लभ्⟫ | **labhyate** :br⟪लभ्यते⟫ | **labdha** :br⟪लब्ध⟫ |
+| **man** 4 Ā:br⟪मन्⟫ | **manyate** :br⟪मन्यते⟫ | **mata** :br⟪मत⟫ |
+| **mṛ** 6 Ā:br⟪मृ⟫ | **mriyate** :br⟪म्रियते⟫ | **mṛta** :br⟪मृत⟫ |
+| **muc** 6 U:br⟪मुच्⟫ | **mucyate** :br⟪मुच्यते⟫ | **mukta** :br⟪मुक्त⟫ |
+| **nī** 1 U:br⟪नी⟫ | **nīyate** :br⟪नीयते⟫ | **nīta** :br⟪नीत⟫ |
+| **paś** :br⟪पश्⟫ | **(dṛśyate)** :br⟪दृश्यते⟫ | **(dṛṣṭa)** :br⟪दृष्ट⟫ |
+| **pat** 1 P:br⟪पत्⟫ | **patyate** :br⟪पत्यते⟫ | **patita** :br⟪पतित⟫ |
+| **prach** 6 P:br⟪प्रच्छ्⟫ | **pṛcchyate** :br⟪पृच्छ्यते⟫ | **pṛṣṭa** :br⟪पृष्ट⟫ |
+| **pūj** 10 U:br⟪पूज्⟫ | **pūjyate** :br⟪पूज्यते⟫ | **pūjita** :br⟪पूजित⟫ |
+| **rakṣ** 1 P:br⟪रक्ष्⟫ | **rakṣyate** :br⟪रक्ष्यते⟫ | **rakṣita** :br⟪रक्षित⟫ |
+| **ram** 1 Ā:br⟪रम्⟫ | **ramyate** :br⟪रम्यते⟫ | **rata** :br⟪रत⟫ |
+| **sah** 1 Ā:br⟪सह्⟫ | **sahyate** :br⟪सह्यते⟫ | **soḍha** :br⟪सोढ⟫ |
+| **sic** 6 U:br⟪सिच्⟫ | **sicyate** :br⟪सिच्यते⟫ | **sikta** :br⟪सिक्त⟫ |
+| **śru** 5 P:br⟪श्रु⟫ | **śrūyate** :br⟪श्रूयते⟫ | **śruta** :br⟪श्रुत⟫ |
+| **su** 5 U:br⟪सु⟫ | **sūyate** :br⟪सूयते⟫ | **suta** :br⟪सुत⟫ |
+| **svap** 2 P:br⟪स्वप्⟫ | **supyate** :br⟪सुप्यते⟫ | **supta** :br⟪सुप्त⟫ |
+| **tyaj** 1 P:br⟪त्यज्⟫ | **tyajyate** :br⟪त्यज्यते⟫ | **tyakta** :br⟪त्यक्त⟫ |
+| **uch** :br⟪उछ्⟫ | — | **uṣita** :br⟪उषित⟫ |
+| **vad** 1 P:br⟪वद्⟫ | **udyate** :br⟪उद्यते⟫ | **udita** :br⟪उदित⟫ |
+| **vas** 1 P:br⟪वस्⟫ | **uṣyate** :br⟪उष्यते⟫ | **uṣita** :br⟪उषित⟫ |
+| **vadh** :br⟪वध्⟫ | **vadyate** :br⟪वद्यते⟫ | **hata** :br⟪हत⟫ |
+| **yaj** 1 U:br⟪यज्⟫ | **ijyate** :br⟪इज्यते⟫ | **iṣṭa** :br⟪इष्ट⟫ |
+| **yudh** 4 Ā:br⟪युध्⟫ | **yudhyate** :br⟪युध्यते⟫ | **yuddha** :br⟪युद्ध⟫ |
 
 ## 12.6. Exerciții
 
@@ -256,3 +241,4 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 **B) Formați PPP-urile corespunzătoare formelor verbale din [Lecția 10](/lektionen/lektion10), Exercițiul A. Luați în considerare faptul că unei forme precum sṛjati îi corespund PPP-uri în toate cele trei genuri.**
 
 **C) Transformați propozițiile din [Lecția 10](/lektionen/lektion10), Exercițiul C, la pasiv, la perfect.**
+

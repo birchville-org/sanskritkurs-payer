@@ -1,9 +1,9 @@
 ---
-title: Lecția 6
-subtitle: "Structura propoziției verbale (agent și formă verbală)"
+title: Lektion 6
+subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -28,8 +28,6 @@ status: stable
 - ex. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = "Rāma onorează cu un jertfă", "Rāma jertfește"
 :::
 Când agentul (**kartṛ** m. = ⟪कर्तृ⟫) este menționat într-o propoziție verbală care nu este la pasiv, atunci agentul este în **nominativ** (cazul întâi, prathamā = ⟪प्रथमा⟫). În număr (vacana n. = ⟪वचन⟫), agentul și forma verbală se potrivesc.
-
----
 
 ## 6.2. Despre formarea formelor verbale
 
@@ -62,8 +60,6 @@ O formă verbală finită, adică o formă verbală cu terminare personală, exp
 
    Timpurile sunt formate de rădăcini temporale: rădăcina de prezent, rădăcina de aorist, rădăcina de perfect, rădăcina de viitor.
 
----
-
 ## 6.3. Indicativ Prezent (laṭ = ⟪लट्⟫)
 
 Prezentul este timpul prezentului, în special al duratei.
@@ -79,24 +75,20 @@ Exemple:
 | **bhū** = ⟪भू⟫ | **bhava** = ⟪भव⟫ | **bhavati** = ⟪भवति⟫ = "el (ea, el) apare" |
 | **nṛt** = ⟪नृत्⟫ | **nṛtya** = ⟪नृत्य⟫ | **nṛtyati** = ⟪नृत्यति⟫ = "el (ea, el) dansează" |
 
----
-
 ## 6.4. Terminationsle de persoana a treia (prathama m. = ⟪प्रथम⟫ = "prima (!) persoană")
 
 ::: grammar-box
-| | Singular (număr singular):brekavacana n.:br⟪एकवचन⟫ | Plural (număr plural):brbahuvacana n.:br⟪बहुवचन⟫ |
+| | Singular (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-| **Parasmaipada n.**:br⟪परस्मैपद⟫ | **-ti**:br-⟪ति⟫ | **-nti**:br-⟪न्ति⟫ |
-| **Ātmanepada n.**:br⟪आत्मनेपद⟫ | **-te**:br-⟪ते⟫ | **-nte**:br-⟪न्ते⟫ |
+| **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
+| **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
 :::
 Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 - Timpul prezent: **yaja** = ⟪यज⟫
-- Pers. a III-a, sg. P. **yajati** = ⟪यजति⟫
-- Pers. a III-a, pl. P. **yajanti** = ⟪यजन्ति⟫
-- Pers. a III-a, sg. Ā. **yajate** = ⟪यजते⟫
-- Pers. a III-a, pl. Ā. **yajante** = ⟪यजन्ते⟫
-
----
+  - Pers. a III-a, sg. P. **yajati** = ⟪यजति⟫
+  - Pers. a III-a, pl. P. **yajanti** = ⟪यजन्ति⟫
+  - Pers. a III-a, sg. Ā. **yajate** = ⟪यजते⟫
+  - Pers. a III-a, pl. Ā. **yajante** = ⟪यजन्ते⟫
 
 ## 6.5. Formarea temei prezentului
 
@@ -105,23 +97,23 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 ::: grammar-box
 **Tema de prezent = rădăcina în gradul redus (așa cum este listată) + a-**
 
-| Rădăcină (dhātu m.):br⟪धातु⟫ | Tema de prezent |
+| Wurzel (dhātu m.):br⟪धातु⟫ | Tema de prezent |
 | :--- | :--- |
-| **viś**:br⟪विश्⟫ | **viśa-**:br⟪विश⟫- |
-| **sṛj**:br⟪सृज्⟫ | **sṛja-**:br⟪सृज⟫- |
+| **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
+| **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
 :::
 ### 6.5.2. Verbe ale clasei de prezent I (bhādi / bhuvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = „bhū etc.“)
 
 ::: grammar-box
 | Tija de prezent = rădăcină în formă intensă (rar în formă lungită) + a- ||||
-| Rădăcină (dhātu m.):br⟪धातु⟫ | Formă intensă | Formă intensă înaintea lui a- | Tija de prezent |
+| Wurzel (dhātu m.):br⟪धातु⟫ | Formă intensă | Formă intensă înaintea lui a- | Tija de prezent |
 | :--- | :--- | :--- | :--- |
-| **bhū**:br⟪भू⟫ | **bho**:br⟪भो⟫ | **bhav**:br⟪भव्⟫ | **bhava-**:br⟪भव⟫- |
-| **nī**:br⟪नी⟫ | **ne**:br⟪ने⟫ | **nay**:br⟪नय्⟫ | **naya-**:br⟪नय⟫- |
-| **smṛ**:br⟪स्मृ⟫ | **smar**:br⟪स्मर्⟫ | **smar**:br⟪स्मर्⟫ | **smara-**:br⟪स्मर⟫- |
-| **yaj**:br⟪यज्⟫ | **yaj**:br⟪यज्⟫ | **yaj**:br⟪यज्⟫ | **yaja-**:br⟪यज⟫- |
+| **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
+| **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
+| **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- |
+| **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
 | Dacă vocala se află într-o silabă închisă lungă, adică o vocală scurtă urmată de două sau mai multe consoane, formarea formei intensă este omisă ||||
-| **nind**:br⟪निन्द्⟫ | **nind**:br⟪निन्द्⟫ | **nind**:br⟪निन्द्⟫ | **ninda-**:br⟪निन्द⟫- |
+| **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
 #### 6.5.2.1. Sandhi lexical al lui e și o
 În interiorul cuvintelor, înaintea vocalelor, **e** se înlocuiește cu **ay**, iar **o** cu **av**.
@@ -129,7 +121,7 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 #### 6.5.2.2. Gradarea vocalică (Ablaut)
 
 ::: grammar-box
-| Formă redusă:brFormă de zero | Formă intensă:brFormă plină:brGuṇa m.:br⟪गुण⟫ | Formă lungită:brVṛddhi f.:br⟪वृद्धि⟫ |
+| Formă redusă:brFormă de zero | Hochstufe:brVollstufe:brGuṇa m.:br⟪गुण⟫ | Dehnstufe:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
 | **i / ī** | **e** | **ai** |
@@ -142,19 +134,18 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 ::: grammar-box
 **Tema de prezent = rădăcina în gradul redus (așa cum este listată) + ya-**
 
-| Rădăcină (dhātu m.):br⟪धातु⟫ | Tema de prezent |
+| Wurzel (dhātu m.):br⟪धातु⟫ | Tema de prezent |
 | :--- | :--- |
-| **nṛt**:br⟪नृत्⟫ | **nṛtya-**:br⟪नृत्य⟫- |
-| **muh**:br⟪मुह्⟫ | **muhya-**:br⟪मुह्य⟫- |
-| **yudh**:br⟪युध्⟫ | **yudhya-**:br⟪युध्य⟫- |
-| **man**:br⟪मन्⟫ | **manya-**:br⟪मन्य⟫- |
+| **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
+| **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
+| **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
+| **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
 ### 6.5.4. Vocalul tematic, clasele de prezent tematice
 
 ::: grammar-box
 **a** din sufixele de derivare a temei ale claselor de prezent se numește **vocal tematic**. Clasele de prezent cu **a** în sufixul de derivare a temei se numesc prin urmare „clase de prezent tematice”.
 :::
----
 
 ## 6.6. Sanscrit vorbal: Întrebări suplimentare (praśna m. = ⟪प्रश्न⟫)
 
@@ -165,7 +156,6 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 - **kiṃ kuśalam?** = ⟪किं⟫ ⟪कुशलम्⟫ = "Sunteți bine?, Cum vă merge?"
 - Răspuns: **sarvathā kuśalam** = ⟪सर्वथा⟫ ⟪कुशलम्⟫ = "(Mă simt) bine în fiecare privință."
 :::
----
 
 ## 6.7. Listă de cuvinte
 
@@ -188,8 +178,6 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 - **yudh** 4 Ā (yudhyate) ⟪युध्⟫ ⟪युध्यते⟫ : a lupta
 - **viś** 6 P (viśati) ⟪विश्⟫ ⟪विशति⟫ : a intra
 - **sṛj** 6 P (sṛjati) ⟪सृज्⟫ ⟪सृजति⟫ : a lăsa liber, a emana, a degaja
-
----
 
 ## 6.8. Exercitiu
 
@@ -226,7 +214,6 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 Śiva Naṭarāja (⟪नटराज⟫), Kadavul Hindu Temple, Kauai, Hawaii
 (Sursa imaginii: Wikipedia, CC-BY-SA 2.5)
 :::
----
 
 ## 6.9. Exercitiu de repetiție
 
@@ -320,4 +307,3 @@ Exemplu **yaj** = ⟪यज्⟫ = "a onora cu un sacrificiu", "a sacrifica":
 17. Științele (pentru un prinț) sunt: filosofia, cunoașterea triplă (vedică), economia și politica. (2 posibilități)
 18. Cum vă simțiți?
 19. (Mă simt) în toate privințele bine.
-

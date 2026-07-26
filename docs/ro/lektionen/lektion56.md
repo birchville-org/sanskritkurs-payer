@@ -1,9 +1,9 @@
 ---
-title: Lecția 56
-subtitle: "Aoristul reduplicat"
+title: Lektion 56
+subtitle: "Der reduplizierte Aorist"
 lesson_id: 56
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -26,9 +26,9 @@ Paradigmă:
 
 ⟪श्रि⟫ 1U "a se deplina spre, a se sprijini"
 
-|   | **⟪परस्मैपदम्⟫** || **⟪आत्मनेपदम्⟫** ||
+|   | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: | :---: |
-|   | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अशिश्रियम्⟫:br(⟪अ⟫-⟪शि⟫-⟪श्रिय्⟫-⟪अम्⟫) | ⟪अशिश्रियाम⟫ | ⟪अशिश्रिये⟫ | ⟪अशिश्रियामहि⟫ |
 | **2. ⟪द्वितीयः⟫** | ⟪अशिश्रियस्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियथास्⟫ | ⟪अशिश्रियध्वम्⟫ |
 | **3. ⟪प्रथमः⟫** | ⟪अशिश्रियत्⟫ | ⟪अशिश्रियन्⟫ | ⟪अशिश्रियत⟫ | ⟪अशिश्रियन्त⟫ |
@@ -58,10 +58,10 @@ Silba de stemă:
     ⟪द्रु⟫ 1P: Cauz. ***⟪द्राव⟫***⟪यति⟫, Aor. ⟪अदु⟫***⟪द्रव⟫***⟪त्⟫ / ⟪अदि⟫***⟪द्रव⟫***⟪त्⟫  
     ⟪नी⟫ 1U: Cauz. ***⟪नाय⟫***⟪यति⟫, Aor. ⟪अनी⟫***⟪नय⟫***⟪त्⟫  
     ⟪ज्ञा⟫ 9U: Cauz. ***⟪ज्ञाप⟫***⟪यति⟫, Aor. ⟪अजि⟫***⟪ज्ञप⟫***⟪त्⟫  
-     
+
 *   **\-ī-, -e-, -ai- în fața unei consoane simple este înlocuită cu -i-:**  
     ⟪चित्⟫ 1P: Cauz. ***⟪चेत⟫***⟪यति⟫, Aor. (Ā) ⟪अची⟫***⟪चित⟫***⟪त⟫  
-     
+
 *   **\-u-, -o-, -au- în fața unei consoane simple este înlocuită cu -u-:**  
     ⟪चुर्⟫ 10U: ***⟪चोर⟫***⟪यति⟫, Aor. ⟪अचू⟫***⟪चुर⟫***⟪त्⟫
 
@@ -87,7 +87,7 @@ După ce regulile menționate mai sus au fost aplicate silbei de stemă, trebuie
 *   **i, u este înlocuită cu ī, ū, dacă silba de stemă începe cu o singură consoană și este metric scurtă:**  
     ⟪भिद्⟫ 7U: Cauz. ⟪भेदयति⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भिदत्⟫  
     ⟪तुद्⟫ 6U: Cauz. ⟪तोदयति⟫, Aor. ⟪अ⟫***⟪तू⟫***⟪तुदत्⟫  
-     
+
 *   **a este înlocuită cu ī, dacă silba de stemă este metric scurtă și începe cu o singură consoană. Dacă silba de stemă este metric scurtă și începe cu mai mult de o consoană, vocala a a silbei de reduplicare este înlocuită cu i. Dacă silba de stemă este metric lungă, vocala a se păstrează:**  
     ⟪नी⟫ 1U: Cauz. ⟪नाययति⟫, Stema de stemă a aoristului ⟪नय्⟫, Aor. ⟪अ⟫***⟪नी⟫***⟪नयत्⟫  
     ⟪कृ⟫ 8U: Cauz. ⟪कारयति⟫, Stema de stemă a aoristului ⟪कर्⟫, Aor. ⟪अ⟫***⟪ची⟫***⟪करत्⟫  
@@ -130,9 +130,10 @@ Conform lucrării fundamentale:
 Fig.:
 Profesor de Lingvistică Comparată, Universitatea Erlangen-Nürnberg (1955 - 1983)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5601))
-:::: indent
+:::
+
+::: indent
 Hoffmann, Karl \<1915 - 1996\>: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / von Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 S. -- (Indogermanische Bibliothek : 3. Reihe, Untersuchungen)
-::::
 :::
 injunctivul în Veda are următoarele proprietăți:
 
@@ -166,12 +167,12 @@ Exemple:
 ⟪मा⟫ ⟪कर्महेतुर्भूः⟫ „Nu deveni unul dintre cei motivați de rodul unei acțiuni!” (Injunctiv Aorist) (⟪भगवद्गीता⟫ 2,47c)
 
 ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫ „Nu deveni effeminat!” (Injunctiv Aorist) (⟪भगवद्गीता⟫ 2,3a)
-:::: media
+:::
+::: media
 ![](/images/lekt5602.webp)
 Fig.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
 Poster (Ernesto Che Guevara) al unui partid politic din Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). „Traducerea aproximativă a ceea ce este scris pe el ar fi: Martiriul este o experiență fascinantă pentru un revoluționar. Și un recurs descurajant pentru un laș. Che nu este un model de urmat pentru lași.”
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5602))
-::::
 :::
 Ambele exemple au sens prohibitiv. Injunctivul Aorist este aici, așadar, folosit în sensul său original. (Preponderența Injunctivului Aorist în astfel de propoziții se explică poate prin preponderența propozițiilor de interdicție față de cele de inhibiție, dar această întrebare trebuie încă investigată pentru sanscrita clasică.)
 
@@ -191,11 +192,11 @@ Pe lângă acestea, există și alte forme, mai rare, ale propozițiilor de inte
 :::
 ::: indent
 Speyer, Jacob S. (Jacob Samuel) \<1849-1913\>: Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
-:::: media
+:::
+::: media
 ![](/images/lekt5603.webp)
 Fig.: ⟪अलं⟫  ⟪विषादेन⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5603))
-::::
 :::
 ## 56.4. ⟪स्म⟫
 

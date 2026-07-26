@@ -1,5 +1,5 @@
 ---
-title: 33. lecke
+title: Lektion 33
 lesson_id: 33
 status: stable
 ---
@@ -106,9 +106,9 @@ Példák:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Jelen idő (indikativusz)** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \&lt;⟪जुहुते⟫\&gt; | \&lt;⟪जुह्वते⟫\&gt;:brjuhu + ate |
-| **Múlt idő (imperfektum)** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \&lt;⟪अजुहुत⟫\&gt; | \&lt;⟪अजुह्वत⟫\&gt;:bra-juhu + ata |
-| **Kívánság mód (optativusz)** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \&lt;⟪जुह्वीत⟫\&gt;:brjuhu + ī-ta | \&lt;⟪जुह्वीरन्⟫\&gt;:brjuhu + ī-ran |
+| **Indikativ Jelen idő** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
+| **Múlt idő (imperfektum)** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
+| **Kívánság mód (optativusz)** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
 ## 33.3. Az ā ablautjáról
 
@@ -123,9 +123,9 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 **A.**
 
 * **Mély szint**
-* **mássalhangzó előtt: -i-**
+  * **mássalhangzó előtt: -i-**
 pl. ⟪धा⟫ PPP: ⟪हित⟫ (hi-ta)
-* **magánhangzó előtt: Ø**
+  * **magánhangzó előtt: Ø**
 pl. ⟪धा⟫ 3.pl.P.Ind.Präs. ⟪दधति⟫ (dadh-ati)
 * **Magas szint: -ā-**
 pl. ⟪धा⟫ 3.sg.P.Ind.Präs. ⟪दधाति⟫
@@ -157,7 +157,7 @@ Példák:
 
 | | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- |
-| **Jelen idő (indikatív)** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
+| **Indikativ Jelen idő** | ⟪मिमीते⟫:brmimī-te | ⟪मिमते⟫:brmim-ate |
 | **Múlt idő (imperfektum)** | ⟪अमिमीत⟫ | ⟪अमिमत⟫ |
 | **Kívánó mód (optativus)** | ⟪मिमीत⟫:brmim-ī-ta ! | ⟪मिमीरन्⟫:brmim-ī-ran |
 :::
@@ -166,9 +166,9 @@ Példák:
 
 | | 3. sg. P. | 3. pl. P. |
 | :--- | :--- | :--- |
-| **Jelen idő (indikatív)** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
+| **Indikativ Jelen idő** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
 | **Múlt idő (imperfektum)** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
-| **Kívánó mód (optativus)** | ⟪जह्यात्⟫:brjah-yā-t:br(A tő ⟪हा⟫ ugyanazt az alakot veszi fel, mint a magánhangzók előtt!) | ⟪जह्युर्⟫:brjah-y-ur |
+| **Kívánó mód (optativus)** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Tő ⟪हा⟫ hat vor dem Kívánó mód (optativus)-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
 ### 33.4.1. A ⟪दा⟫ és a ⟪धा⟫ gyökök
 
@@ -182,7 +182,7 @@ Példák:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Jelen idő indikativus** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Magyar megjegyzés: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate |
+| **Indikativ Jelen idő** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Magyarázat: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate |
 | **Múlt idő (imperfektum)** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Kívánó mód (optativus)** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
@@ -193,7 +193,7 @@ A ⟪दा⟫ alakokat úgy kapjuk, hogy a ⟪धा⟫ paradigmájában a **dh
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Jelen idő indikativus** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
+| **Indikativ Jelen idő** | ⟪ददाति⟫ | ⟪ददति⟫ | ⟪दत्ते⟫ | ⟪ददते⟫ |
 | **Múlt idő (imperfektum)** | ⟪अददात्⟫ | ⟪अददुर्⟫ | ⟪अदत्त⟫ | ⟪अददत⟫ |
 | **Kívánó mód (optativus)** | ⟪दद्यात्⟫ | ⟪दद्युर्⟫ | ⟪ददीत⟫ | ⟪ददीरन्⟫ |
 :::
@@ -207,14 +207,14 @@ A ⟪दा⟫ alakokat úgy kapjuk, hogy a ⟪धा⟫ paradigmájában a **dh
 ⟪दा⟫ jelen idői melléknév Parasmaipada:
 
 ::: grammar-box
-| | hímnem:br⟪पुंल्लिङ्ग⟫ | középnem:br⟪नपुंसकलिङ्ग⟫ | nőnem:br⟪स्त्रीलिङ्ग⟫ |
+| | hímnem:br⟪पुंल्लिङ्ग⟫ | semlegesnem:br⟪नपुंसकलिङ्ग⟫ | nőnem:br⟪स्त्रीलिङ्ग⟫ |
 | :--- | :--- | :--- | :--- |
-**egyes szám** | | | |
-**1. alanyeset (nominativus)** | ⟪ददत्⟫:brdad-at + s | ⟪ददत्⟫:brdad-at-Ø | ⟪ददती⟫ |
-**2. tárgyeset (accusativus)** | ⟪ददतम्⟫:brdad-at-am | ⟪ददत्⟫ | |
-**többes szám** | | | |
-**1. alanyeset (nominativus)** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
-**2. tárgyeset (accusativus)** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
+| **egyes szám** | | | |
+| **1. alanyeset (nominativus)** | ⟪ददत्⟫:brdad-at + s | ⟪ददत्⟫:brdad-at-Ø | ⟪ददती⟫ |
+| **2. tárgyeset (accusativus)** | ⟪ददतम्⟫:brdad-at-am | ⟪ददत्⟫ | |
+| **többes szám** | | | |
+| **1. alanyeset (nominativus)** | ⟪ददतस्⟫ | ⟪ददति⟫:brdad-at-i:br⟪ददन्ति⟫:brdad-ant-i | |
+| **2. tárgyeset (accusativus)** | ⟪ददतस्⟫ | ⟪ददति⟫:br⟪ददन्ति⟫ | |
 :::
 Hasonlóan ⟪जुह्वत्⟩ (juhu-at + s)
 

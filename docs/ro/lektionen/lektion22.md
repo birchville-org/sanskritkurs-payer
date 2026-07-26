@@ -1,10 +1,10 @@
 ---
-title: Lecția 22
-subtitle: "Absolutivul (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: Lektion 22
+subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
-category: "Gramatică"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # Lecția 22
@@ -139,13 +139,15 @@ Rădăcină cu **-a** + **-tya**
 **⟪काम⟫ m.:** dor, poftă; dar dorit, plăcere senzorială, iubire, zeul iubirii
 
 ::: indent
-**⟪कामम्⟫** Acuzativ adverbial: după dor, după plac
-:::: media
+**⟪कामम्⟫** Acuzativ adverbial: după dor, pe plac
+:::
+::: media
 ![](/images/lekt2202.webp)
 Fig.: ⟪कामदेवः⟫
 sec. al XIX-lea
+Fig.: ⟪कामदेवः⟫
+sec. al XIX-lea
 (sursă imagine: [Detalii](/ro/licenses#lekt2202))
-::::
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** a fi capabil, a putea
 
@@ -155,12 +157,12 @@ din aceasta:
 **⟪शक्ति⟫ f.:** puterea, capacitatea, abilitatea, forța; de asemenea: putere divină, personificată ca însoțitoare feminină, în special a lui **⟪शिव⟫**
 
 **⟪शक्र⟫ m.:** puternicul (epitet al lui **⟪इन्द्र⟫**)
-:::: media
+:::
+::: media
 ![](/images/lekt2203.webp)
 Fig.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
 (sursă imagine: [Detalii](/ro/licenses#lekt2203))
-::::
 :::
 **⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** a merita (a fi demn de ceva), a avea dreptul, a fi obligat să, trebuie (în persoana a II-a, **⟪अर्ह्⟫** + infinitiv este adesea folosit ca o poruncă blândă: "Ar trebui să")
 
@@ -181,12 +183,12 @@ din aceasta:
 **⟪चरित⟫ n.:** stil de viață, fapte de viață
 
 **⟪ब्रह्मचर्य⟫ n.:** îndeplinirea Vedei (**⟪ब्रह्मन्⟫**) = studierea Vedei în primul stadiu al vieții (cel al lui **⟪ब्रह्मचारिन्⟫**), care necesită o abținere sexuală strictă; de asemenea: abținere sexuală, stil de viață celibatar
-:::: media
+:::
+::: media
 ![](/images/lekt2201.webp)
 Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
 (sursă imagine: [Detalii](/ro/licenses#lekt2201))
-::::
 :::
 ## 22.4. Exercițiu
 
@@ -258,6 +260,7 @@ Goa = ⟪गोंय⟫
 Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2204))
 :::
+
 ::: deleteme-box
 
 **lekt2201:** Goa = ⟪गोंय⟫ [Sursa imaginii: Veebl. -- http://www.flickr.com/photos/veebl/2322214162/. -- Accesat la 2008-12-12. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]
@@ -268,3 +271,4 @@ Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
 
 **lekt2204:** [Sursa imaginii: Curt Carnemark / World Bank. -- http://www.flickr.com/photos/worldbank/2183558378/. -- Accesat la 2008-12-12. -- Licență Creative Commons (Atribuire, Nefinanciar, Fără opere derivate)]
 :::
+

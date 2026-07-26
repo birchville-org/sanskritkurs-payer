@@ -1,10 +1,10 @@
 ---
-title: 38. lecke
-subtitle: "A hét üzenete"
+title: Lektion 38
+subtitle: "Losung der Woche"
 lesson_id: 38
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 38. lecke
@@ -45,9 +45,9 @@ A **-an** végű főnevek, valamint a magánhangzó után álló **-man** és **
 
 | Tő | -an | -man | -van | Használat |
 | :--- | :---: | :---: | :---: | :--- |
-| **Erős tő** | **-ān** | **-mān** | **-vān** | Nominativus, Akkusativus, Vokativus egyes szám nemű:brNominativus, Akkusativus, Vokativus kettős szám nemű:brNominativus, Vokativus többes szám nemű:brNominativus, Akkusativus többes szám középnemű |
-| **Közepesen gyenge tő** | **-a** :br(*-n-ből) | **-ma** :br(*-mn-ből) | **-va** :br(*-vn-ből) | A többi esetrag, mássalhangzóra végződő rag előtt:brVálasztható még az egyes szám helyhatározó eset nemű |
-| **Leggyengébb tő** | **-n** | **-mn** | **-vn** | A többi esetrag, magánhangzóra végződő rag előtt
+| **Starker Tő** | **-ān** | **-mān** | **-vān** | Nominativus, Akkusativus, Vokativus egyes szám nemű:brNominativus, Akkusativus, Vokativus kettős szám nemű:brNominativus, Vokativus többes szám nemű:brNominativus, Akkusativus többes szám középnemű |
+| **Mittlerer Schwacher Tő** | **-a** :br(*-n-ből) | **-ma** :br(*-mn-ből) | **-va** :br(*-vn-ből) | Übrige Kasus vor konsonantisch anlautender Végződés:brWahlweise auch Lok. sg. m. n. f. |
+| **Schwächster Tő** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Végződés |
 
 **A végződések szabályosak. A nominativus singularis m. f. -n kimenetel nélkül képződik.**
 :::
@@ -102,8 +102,8 @@ Példák:
 ::: grammar-box
 *   Erős tő: -mān, -vān
 *   Gyenge tő:
-*   mássalhangzóra végződő toldalékok előtt: -ma, -va (-\*mn, -\*vn-ból)
-*   magánhangzóra végződő toldalékok előtt: **\-man, -van**
+    *   mássalhangzóra végződő toldalékok előtt: -ma, -va (-\*mn, -\*vn-ból)
+    *   magánhangzóra végződő toldalékok előtt: **\-man, -van**
 
 Egyéb képzés szerint 3.1. alatt.
 :::
@@ -113,15 +113,15 @@ Példák:
 
 *   erős Tő: ⟪आत्मान्⟫
 *   gyenge Tő:
-*   mássalhangzó előtt: ⟪आत्म⟫
-*   magánhangzó előtt: ⟪आत्मन्⟫
+    *   mássalhangzó előtt: ⟪आत्म⟫
+    *   magánhangzó előtt: ⟪आत्मन्⟫
 
 ⟪ब्रह्मन्⟫ n.: Abszolútum, Veda, Brahman
 
 *   erős Tő: ⟪ब्रह्मान्⟫
 *   gyenge Tő:
-*   mássalhangzó előtt: ⟪ब्रह्म⟫
-*   magánhangzó előtt: ⟪ब्रह्मन्⟫
+    *   mássalhangzó előtt: ⟪ब्रह्म⟫
+    *   magánhangzó előtt: ⟪ब्रह्मन्⟫
 ::: grammar-box
 
 | | ⟪आत्मन्⟫ | ⟪ब्रह्मन्⟫ |
@@ -164,19 +164,19 @@ Példa:
 | ⟪एकवचनम्⟫ | | |
 | ⟪प्रथमा⟫ | ⟪बली⟫ | ⟪बलि⟫ |
 | ⟪द्वितीया⟫ | ⟪बलिनम्⟫ | ⟪बलि⟫ |
-| ⟪तृतीया⟫ | ⟪बलिना⟫||
-| ⟪चतुर्थी⟫ | ⟪बलिने⟫||
-| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫||
-| ⟪षष्ठी⟫ | ⟪बलिनस्⟫||
-| ⟪सप्तमी⟫ | ⟪बलिनि⟫||
+| ⟪तृतीया⟫ | ⟪बलिना⟫ ||
+| ⟪चतुर्थी⟫ | ⟪बलिने⟫ ||
+| ⟪पञ्चमी⟫ | ⟪बलिनस्⟫ ||
+| ⟪षष्ठी⟫ | ⟪बलिनस्⟫ ||
+| ⟪सप्तमी⟫ | ⟪बलिनि⟫ ||
 | ⟪बहुवचनम्⟫ | | |
 | ⟪प्रथमा⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
 | ⟪द्वितीया⟫ | ⟪बलिनस्⟫ | ⟪बलीनि⟫ |
-| ⟪तृतीया⟫ | ⟪बलिभिस्⟫||
-| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫||
-| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫||
-| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫||
-| ⟪सप्तमी⟫ | ⟪बलिषु⟫||
+| ⟪तृतीया⟫ | ⟪बलिभिस्⟫ ||
+| ⟪चतुर्थी⟫ | ⟪बलिभ्यस्⟫ ||
+| ⟪पञ्चमी⟫ | ⟪बलिभ्यस्⟫ ||
+| ⟪षष्ठी⟫ | ⟪बलिनाम्⟫ ||
+| ⟪सप्तमी⟫ | ⟪बलिषु⟫ ||
 
 :::
 ## 38.4. A névképzésről: ⟪तद्धित⟫-suffixum -in

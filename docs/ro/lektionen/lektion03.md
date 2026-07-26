@@ -1,9 +1,9 @@
 ---
-title: Lecția 3
-subtitle: "Nominativul singular al femininului"
+title: Lektion 3
+subtitle: "Den Nominativ Singular des Femininums"
 lesson_id: 3
 last_reconstructed: 2026-05-07
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -34,11 +34,10 @@ Nominativul singular se formează fără sufix:
 ::: grammar-box
 - **Feminine în -ā**: ex. **devatā** f. "zeitate" -- Nom. sg.: **devatā** = ⟪देवता⟫
 - **Feminine în -ī**: ex. **devī** f. "zeiță" -- Nom. sg.: **devī** = ⟪देवी⟫
-:::: important
-**Atenție!** Există, de asemenea, substantive de rădăcină feminine monosilabice în -ī, ale căror nominativ singular se termină în -s: ex. dhī f. "gând" -- Nom. sg.: dhīs = ⟪धीस्⟫. De asemenea, lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "barcă" și tantrī (⟪तन्त्री⟫) f. "coardă" formează irregulat nominativul singular în -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
-::::
 :::
----
+::: important
+**Atenție!** Există, de asemenea, substantive de rădăcină feminine monosilabice în -ī, ale căror nominativ singular se termină în -s: ex. dhī f. "gând" -- Nom. sg.: dhīs = ⟪धीस्⟫. De asemenea, lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "barcă" și tantrī (⟪तन्त्री⟫) f. "coardă" formează irregulat nominativul singular în -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
+:::
 
 ## 3.2. Formarea femininelor la masculine
 
@@ -51,7 +50,6 @@ Nominativul singular se formează fără sufix:
 - **Feminin în -ī**: ex. **sādhu** m. » **sādhvī** f. (bun, sfânt) = ⟪साध्वी⟫
   (**-u-** devine **-v-** înainte de vocală, prin urmare **-u- + -ī** » **-vī**)
 :::
----
 
 ## 3.3. Nominativ plural masculin și feminin
 
@@ -66,8 +64,6 @@ Sufixul nominativului plural la masculin și feminin este **-as**.
 - **Feminine în -u**: **dhenu-** » **dheno- + -as** » **dhenavas** = ⟪धेनवस्⟫
 :::
 Notă: **e** este gradul ridicat (**guṇa**) al lui **i**, **o** este gradul ridicat al lui **u**.
-
----
 
 ## 3.4. Sandhi vocalic
 
@@ -93,6 +89,7 @@ devī + indrāṇī » devīndrāṇī „Indrāṇī este o zeiță” = ⟪द
 Fig.: Indra și Indrāṇī pe elefantul Airavata, miniatură, Rājasthān, 1670/80
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0301))
 :::
+
 ::: grammar-box
 **Vocale simple (în afară de -a / -ā) sunt înlocuite, în fața unor vocale neasemănătoare, cu corespunzătorul semivocal:**
 - -i / -ī » **-y-**
@@ -125,8 +122,6 @@ de ex.
 
 śūdrā + itarā » śudretarā „Itarā este o femeie śūdrā” = ⟪शूद्रेतरा⟫
 
----
-
 ## 3.5. Satzsandhi de -ās
 
 ::: grammar-box
@@ -135,8 +130,6 @@ de ex.
 de exemplu
 
 dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaișyș sunt de două ori născuți" = ⟪द्विजा⟫ ⟪वैश्याः⟫
-
----
 
 ## 3.6. Listă de cuvinte
 
@@ -200,8 +193,6 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 
 **muditā** f. = ⟪मुदिता⟫ : bucurie, în special bucurie empatică (opusul invidiei).
 
----
-
 ## 3.7. Exerciiu
 
 **A) Pluralizați următoarele propoziții:**
@@ -240,3 +231,4 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 5. Poeții sunt profesori.
 6. Kṣatriyas sunt de două ori născuți.
 7. Bărbații sacri sunt Śūdras.
+

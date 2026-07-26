@@ -1,5 +1,5 @@
 ---
-title: Lecția 33
+title: Lektion 33
 lesson_id: 33
 status: stable
 ---
@@ -106,9 +106,9 @@ Exemple:
 
 | | Pers. a 3-a sg. Ind. | Pers. a 3-a pl. Ind. | Pers. a 3-a sg. Med. | Pers. a 3-a pl. Med. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indicativ Prezent** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \&lt;⟪जुहुते⟫\&gt; | \&lt;⟪जुह्वते⟫\&gt;:brjuhu + ate |
-| **Imperfect** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \&lt;⟪अजुहुत⟫\&gt; | \&lt;⟪अजुह्वत⟫\&gt;:bra-juhu + ata |
-| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \&lt;⟪जुह्वीत⟫\&gt;:brjuhu + ī-ta | \&lt;⟪जुह्वीरन्⟫\&gt;:brjuhu + ī-ran |
+| **Indicativ Prezent** | ⟪जुहोति⟫ | ⟪जुह्वति⟫:brjuhu + ati | \<⟪जुहुते⟫\> | \<⟪जुह्वते⟫\>:brjuhu + ate |
+| **Imperfect** | ⟪अजुहोत्⟫:bra-juho-t | ⟪जुहवुर्⟫:bra-juho + ur | \<⟪अजुहुत⟫\> | \<⟪अजुह्वत⟫\>:bra-juhu + ata |
+| **Optativ** | ⟪जुहुयात्⟫:brjuhu-yā-t | ⟪जुहुयुर्⟫:brjuhu-y-ur | \<⟪जुह्वीत⟫\>:brjuhu + ī-ta | \<⟪जुह्वीरन्⟫\>:brjuhu + ī-ran |
 :::
 ## 33.3. Despre ablautele lui ā
 
@@ -133,7 +133,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 Aici se încadrează, de exemplu:
 
 ::: indent
-**⟪स्था⟫** 1
+⟪स्था⟫ 1
 * PPP **⟪स्थित⟫** (sthi-ta)
 * 3.sg.P.Fut. **⟪स्थास्यति⟫** (sthā-sya-ti)
 :::
@@ -168,7 +168,7 @@ Exemple:
 | :--- | :--- | :--- |
 | **Indicativ Prezent** | ⟪जहाति⟫ | ⟪जहति⟫:brjah-ati |
 | **Imperfect** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
-| **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Rădăcina **⟪हा⟫** are, înainte de Optativ-yā/y, aceeași formă ca înainte de vocale!) | ⟪जह्युर्⟫:brjah-y-ur |
+| **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
 ### 33.4.1. Rădăcinile **⟪दा⟫** și **⟪धा⟫**
 
@@ -182,7 +182,7 @@ Exemple:
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| **Indicativ Prezent** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Explicație: Thumb-Hauschild 1,1 p. 302s.) | ⟪दधते⟫:brdadh-ate |
+| **Indicativ Prezent** | ⟪दधाति⟫ | ⟪दधति⟫:brdadh-ati | ⟪धत्ते⟫:brdadh-te:br(Erklärung: Thumb-Hauschild 1,1 S. 302f.) | ⟪दधते⟫:brdadh-ate |
 | **Imperfect** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
@@ -207,7 +207,7 @@ Formele pentru **⟪दा⟫** se obțin înlocuind **dh** cu **d** în paradig
 **⟪दा⟫** Participiu prezent Parasmaipada:
 
 ::: grammar-box
-| | Masculin:br⟪पुंल्लिङ्ग⟫ | Neutru:br⟪नपुंसकलिङ्ग⟫ | Feminin:br⟪स्त्रीलिङ्ग⟫ |
+| | Maskulinum:br⟪पुंल्लिङ्ग⟫ | Neutrum:br⟪नपुंसकलिङ्ग⟫ | Femininum:br⟪स्त्रीलिङ्ग⟫ |
 | :--- | :--- | :--- | :--- |
 | **Singular** | | | |
 | **1. Nominativ** | ⟪ददत्⟫:brdad-at + s | ⟪ददत्⟫:brdad-at-Ø | ⟪ददती⟫ |
@@ -232,21 +232,21 @@ Similar **⟪जुह्वत्⟫** (juhu-at + s)
 din care:
 
 **⟪दान⟫** n.: dare, dar, generozitate
-:::: media
+:::
+::: media
 ![](/images/lekt3306.webp)
 Fig.: ⟪दानम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3306))
-::::
 :::
 **⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: (în primire) a lua, a poseda, a lua cu sine
 
 ::: indent
 **Absol.** ⟪आदाय⟫: cu Acuzativul: însoțit de, cu
-:::: media
+:::
+::: media
 ![](/images/lekt3307.webp)
 Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3307))
-::::
 :::
 ***⟪धा⟫*** 3U ***⟪दधाति⟫***: a așeza, a stabili, a distribui
 
@@ -263,11 +263,11 @@ Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 din care:
 
 **⟪समाधि⟫** m.: concentrare interioară, atenție supremă
-:::: media
+:::
+::: media
 ![](/images/lekt3305.webp)
 Fig.: ⟪समाधि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3305))
-::::
 :::
 **⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: a umple, a împlini
 
@@ -297,11 +297,11 @@ Fig.: ⟪समाधि⟫
 din care:
 
 **⟪भय⟫** n.: frică, teamă; pericol (latura subiectivă și cea obiectivă)
-:::: media
+:::
+::: media
 ![](/images/lekt3304.webp)
 Fig.: ⟪भयम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3304))
-::::
 :::
 **⟪भृ⟫** 3U **⟪बिभर्ति⟫**: a purta, a aduce; a întreține, a hrăni
 
@@ -345,11 +345,11 @@ din care:
 din PPP **⟪हीन⟫**:
 
 **⟪हीनयान⟫** n.: vehiculul defectuos (al budismului): termen disprețios folosit de reprezentanții „vehiculului mare”, al **⟪महायान⟫**; calea defectuoasă (**⟪यान⟫** către **⟪या⟫** 2: a merge, a călători). Expresia ⟪हीनयान⟫ nu ar mai trebui folosită. Forma actuală existentă a vechiului budism se numește **⟪थेरवाद⟫**.
-:::: media
+:::
+::: media
 ![](/images/lekt3303.webp)
 Fig.: ⟪हीनयानमेव⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3303))
-::::
 :::
 **⟪हु⟫** 3P **⟪जुहोति⟫**: a turna în foc (ca ofrandă, în special unt topit)
 
@@ -359,12 +359,11 @@ Fig.: ⟪हीनयानमेव⟫
 **Kaus.** ⟪हावयति⟫  
 **PPP** ⟪हुत⟫  
 **Inf.** ⟪होतुम्⟫
-:::: media
+:::
+::: media
 ![](/images/lekt3302.webp)
 Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3302))
-
-::::
 :::
 **⟪घृत⟫** n.: unt topit, ghee (⟪घी⟫ / گھی / ঘী)
 

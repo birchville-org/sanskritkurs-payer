@@ -1,9 +1,9 @@
 ---
-title: 第55课
-subtitle: "a-未完成过去时（带主题元音的未完成过去时）"
+title: Lektion 55
+subtitle: "Der a-Aorist (Aorist mit Themavokal)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
-category: "语法"
+category: "Grammatik"
 status: stable
 ---
 
@@ -93,6 +93,7 @@ status: stable
 ‘因亚特·汗临终’，为贾汉吉尔（Jahângîr = جهانگير）手稿绘制的微型画草稿，约1618年
 （图片来源：[详情](/zh-CN/licenses#lekt5501)）
 :::
+
 ::: deleteme-box
 
 **lekt5501：**“因亚特·汗临终”，为贾汉吉尔（Jahângîr = جهانگير）手稿绘制的微型画草稿，约1618年 [图片来源：[http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618%3A+Sterbender?hl=inayat+khan](http://zeno.org/Kunstwerke/B/Meister+der+Mogul-Schule+um+1618:+Sterbender?hl=inayat+khan)。——访问于2009-01-28。公有领域]

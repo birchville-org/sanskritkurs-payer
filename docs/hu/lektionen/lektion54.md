@@ -1,10 +1,10 @@
 ---
-title: 54. lecke
-subtitle: "Előzetes megjegyzés"
+title: Lektion 54
+subtitle: "Vorbemerkung"
 lesson_id: 54
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 54. lecke
@@ -123,15 +123,15 @@ Az aoristből szanszkritban csak az indikativus és prekativus használatos.
 ::: grammar-box
 **Az alábbi aoristalkotási típusok léteznek (⟪लुङ्⟫):**
 
-1. Nem szibiláns (aszimata) aoristok:
-*   54.1. Tő-aorist: Augmentum + tő + szekunder végződés
-*   54.2. Témavokális aorist: Augmentum + tő + **a** + szekunder végződés
-*   54.3. Reduplikált aorist: Augmentum + **reduplikált** tő + **a** + szekunder végződés
-2. Szibiláns (szimata) aoristok: az s vagy egy s-t (ṣ) tartalmazó szótag előzi meg a személyvégződést
-*   54.4. -s-aorist: Augmentum + tő + **s** \+ szekunder végződés
-*   54.5. -iṣ-aorist: Augmentum + tő + **i** + **ṣ** + szekunder végződés
-*   54.6. -siṣ-aorist: Augmentum + tő + **siṣ** + szekunder végződés
-*   54.7. -sa-aorist: Augmentum + tő + **s** + **a** + szekunder végződés
+1.  Nem szibiláns (aszimata) aoristok:
+    *   54.1. Tő-aorist: Augmentum + tő + szekunder végződés
+    *   54.2. Témavokális aorist: Augmentum + tő + **a** + szekunder végződés
+    *   54.3. Reduplikált aorist: Augmentum + **reduplikált** tő + **a** + szekunder végződés
+2.  Szibiláns (szimata) aoristok: az s vagy egy s-t (ṣ) tartalmazó szótag előzi meg a személyvégződést
+    *   54.4. -s-aorist: Augmentum + tő + **s** \+ szekunder végződés
+    *   54.5. -iṣ-aorist: Augmentum + tő + **i** + **ṣ** + szekunder végződés
+    *   54.6. -siṣ-aorist: Augmentum + tő + **siṣ** + szekunder végződés
+    *   54.7. -sa-aorist: Augmentum + tő + **s** + **a** + szekunder végződés
 
 A gyökök eloszlását az egyes alkotási típusok között lásd a megfelelő fejezetekben
 :::
@@ -149,35 +149,35 @@ Példa:
 ⟪पा⟫ 1P "inni"
 
 ::: grammar-box
-|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Gyengített fok!) |
+| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
 :::
 Csak 12 tőből képezik a gyogorist:
 
-1. ⟪गा⟫ 3 "menni"
-2. ⟪घ्रा⟫ 1P "szagolni"
-3. ⟪छो⟫ 6 "vágni" (⟪अच्छात्⟫)
-4. ⟪दा⟫ 3U "adni"
-5. ⟪दो⟫ 1, 4 "vágni"
-6. ⟪धा⟫ 3U "helyez"
-7. ⟪धे⟫ 1 "szív" (⟪अधात्⟫)
-8. ⟪पा⟫ 1P "inni"
-9. ⟪शो⟫ 4P "élesít"
-10. ⟪सो⟫ "befejez"
-11. ⟪स्था⟫ 1P "áll"
-12. ⟪भू⟫ 1P "lenni"
+1.  ⟪गा⟫ 3 "menni"
+2.  ⟪घ्रा⟫ 1P "szagolni"
+3.  ⟪छो⟫ 6 "vágni" (⟪अच्छात्⟫)
+4.  ⟪दा⟫ 3U "adni"
+5.  ⟪दो⟫ 1, 4 "vágni"
+6.  ⟪धा⟫ 3U "helyez"
+7.  ⟪धे⟫ 1 "szív" (⟪अधात्⟫)
+8.  ⟪पा⟫ 1P "inni"
+9.  ⟪शो⟫ 4P "élesít"
+10.  ⟪सो⟫ "befejez"
+11.  ⟪स्था⟫ 1P "áll"
+12.  ⟪भू⟫ 1P "lenni"
 
 A ⟪भू⟫ 1P gyöki aorist így képződik:
 
 ::: grammar-box
-| | ⟪एकवचनम्⟩ | ⟪बहुवचनम्⟩ |
+|   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
-| 1\. ⟪तृतीयः⟩ | ⟪अभूवम्⟩ | ⟪अभूम⟩ |
-| 2\. ⟪मध्यमः⟩ | ⟪अभू्स्⟩ | ⟪अभूत⟩ |
-| 3\. ⟪प्रथमः⟩ | ⟪अभूत्⟩ | sig[⟪अभूवन्⟩] (!!!) |
+| 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | sig[⟪अभूवन्⟩] (!!!) |
 :::
 ### 54.6.1. A 3.sg.passzív aorist
 

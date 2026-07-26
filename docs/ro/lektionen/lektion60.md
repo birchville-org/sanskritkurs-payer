@@ -1,9 +1,9 @@
 ---
-title: Lecția 60
-subtitle: "Terminările duale ale perfectului (⟪द्विवचनम्⟫)"
+title: Lektion 60
+subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -145,7 +145,7 @@ status: stable
 ⟪गण्⟫ 10P "număra"
 
 ::: grammar-box
-|   | **⟪परस्मैपदम्⟫** |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪गणयां⟫ ⟪चकृव⟫:br⟪गणयामासिव⟫:br⟪गणयां⟫ ⟪बभूविव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪गणयां⟫ ⟪चक्रथुर्⟫:br⟪गणयामासथुर्⟫:br⟪गणयां⟫ ⟪बभूवथुर्⟫ |
@@ -154,7 +154,7 @@ status: stable
 ⟪आस्⟫ 2Ā "ședea"
 
 ::: grammar-box
-|   | **⟪आत्मनेपदम्⟫** |
+|   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪आसां⟫ ⟪चकृवहे⟫:br⟪आसामासिव⟫:br⟪आसां⟫ ⟪बभूविवव्⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪आसांव्⟫ ⟪चक्राथे⟫:br⟪आसामासथुर्⟫:br⟪आसां⟫ ⟪बभूवथुर्⟫ |
@@ -199,10 +199,11 @@ Paradigme vezi Kielhorn, Gramatică § 124:
 ::: media
 ![](/images/lekt6001.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6001))
-:::: media
+:::
+
+::: media
 ![](/images/lekt6002.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6002))
-::::
 :::
 ## 60.5. Declinarea stemelor în -añc (-ac)
 
@@ -236,25 +237,26 @@ Exemplu: ⟪प्रतीची⟫
 ::: media
 ![](/images/lekt6003.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6003))
-:::: media
+:::
+
+::: media
 ![](/images/lekt6004.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6004))
-::::
 :::
 Aici apar:
 
 *   ⟪प्रत्यञ्च्⟫ 3 "înapoi, spre vest"
-    
+
 *   ⟪अन्वञ्च्⟫ 3 "următor"
-    
+
 *   ⟪उदञ्च्⟫ 3 "orientat în sus, spre nord"
-    
+
 *   ⟪तिर्यञ्च्⟫ 3 "mergând orizontal (despre animale)"
-    
+
 *   ⟪सम्यञ्च्⟫ 3 "corect"
-    
+
 *   ⟪न्यञ्च्⟫ 3 "scăzut"
-    
+
 *   ⟪विष्वञ्च्⟫ 3 "mergând în toate direcțiile"
 
 ### 60.5.2. Stame cu două rădăcini în -añc
@@ -274,10 +276,10 @@ Paradigma ⟪प्राञ्च्⟫ vezi mai sus!
 
 Direcțiile principale ale cerului
 
-|   | ⟪उदञ्च्⟫ 3:br"orientat în sus,:brnordic" |   |
+|   | ⟪उदञ्च्⟫ 3:br"nach oben gerichtet,:brnördlich" |   |
 | :---: | :---: | :---: |
-| ⟪प्रत्यञ्च्⟫ 3:br"înapoi,:brvestic" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"orientat înainte,:brestic" |
-|   | ⟪दक्षिण⟫ 3:brdreapta,:brsudic |   |
+| ⟪प्रत्यञ्च्⟫ 3:br"rückwärts,:brwestlich" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"vorwärts gerichtet,:bröstlich" |
+|   | ⟪दक्षिण⟫ 3:brrechts,:brsüdlich |   |
 
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6005))
 
@@ -320,36 +322,36 @@ Regulile privind utilizarea vocalei de legătură -i- se găsesc la Kielhorn, Gr
 **Forma rădăcinii:**
 
 1.  Rădăcina este de obicei în gradul inferior: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
-     
+
     1.  -i, -u final este înlocuit cu -ī, respectiv -ū, dacă nu urmează o vocală de legătură:  
         ⟪जि⟫ » ⟪जि⟫***⟪गी⟫***⟪ष⟫- "a dori să învingă"  
         ⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- "a dori să alerge"  
-         
+
     2.  -ṛ, -ṝ final este înlocuit cu -īr, după labiale cu -ūr, dacă nu urmează o vocală de legătură:  
         ⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- "a dori să facă"  
         ⟪मृ⟫ » ⟪मु⟫***⟪मूर्ष⟫***\- "a fi pe punctul de a muri"  
         ⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "a dori să umple"  
-         
+
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ și alte câteva rădăcini pe -ā, -e, -o au gradul inferior Ø:  
         ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
         ⟪धा⟫ » ⟪धित्स⟫-  
         ⟪मा⟫ » ⟪मित्स⟫-  
-         
+
 2.  Rădăcinile în gradul superior au în desiderativ: 
     1.  cele mai multe rădăcini pe -ā (-e, -ai etc.):  
         ⟪गै⟫ » ⟪जिगास⟫- "a dori să cânte"  
         ⟪पा⟫ » ⟪पिपास⟫- "a dori să bea, a fi setos"  
-         
+
     2.  cele mai multe rădăcini de forma (Consoană -) a / ā - Consoană:  
         ⟪दह्⟫ » ⟪दिधक्ष⟫- "a dori să ardă"  
         ⟪खाद्⟫ » ⟪चिखादिष⟫- "a dori să mestecă"  
-         
+
     3.  la adăugarea vocalei de legătură -i-: 
         1.  obligatoriu: rădăcini de forma i/u - Consoană precum și (Consoană -) ṛ/ḷ - Consoană:  
             ⟪इष्⟫ » ⟪एषिषिष⟫- "a dori să ceară"  
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "a dori să fie potrivit"  
             ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- "a dori să zâmbească"  
-             
+
         2.  opțional: rădăcini de forma Consoană - (Consoană -) i/u - Consoană exceptând -v\_  
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "a dori să scânteieze"
 :::
@@ -362,12 +364,12 @@ Regulile privind utilizarea vocalei de legătură -i- se găsesc la Kielhorn, Gr
     ⟪चुर्⟫ » ⟪चुचोरयिष⟫-  
     Cerebralizarea după i/u a -s final al rădăcinii nu are loc, dacă s al sufixului desiderativ este cerebralizat:  
     ⟪स्मि⟫ » ⟪सिस्मयिष⟫-  
-     
+
 2.  Rădăcinile care încep cu vocală sunt reduplicate conform regulilor corespunzătoare pentru aoristul reduplicat ([Lecția 56](lektion56.md)):  
     ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
     ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
     ⟪ऋ⟫ » ⟪अरिरिष⟫-  
-     
+
 3.  Formarea specială a desiderativelor pentru anumite rădăcini se găsește la Kielhorn, Gramatik § 451.
 :::
 ::: grammar-box
@@ -418,11 +420,13 @@ A) Studiați în Kielhorn, Gramatică § 451 formele neregulate de desiderativ p
 ::: media
 ![](/images/lekt6007.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6007))
-:::: media
+:::
+
+::: media
 ![](/images/lekt6008.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6008))
-::::
 :::
+
 ::: media
 ![](/images/lekt6009.webp)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6009))
@@ -430,105 +434,106 @@ A) Studiați în Kielhorn, Gramatică § 451 formele neregulate de desiderativ p
 B) Determinați și traduceți fără instrumente auxiliare următoarele forme:
 
 1.  ⟪ददुषोः⟫
-    
+
 2.  ⟪अहिंसीः⟫
-    
+
 3.  ⟪देमथुः⟫
-    
+
 4.  ⟪वक्त्वा⟫
-    
+
 5.  ⟪अक्षथाः⟫
-    
+
 6.  ⟪मुमुषिषिष्यतः⟫
-    
+
 7.  ⟪अचिक्षंसेथाम्⟫
-    
+
 8.  ⟪अस्नाः⟫
-    
+
 9.  ⟪जिहिंसुषि⟫
-    
+
 10.  ⟪जिहिंसिषुणा⟫
-     
+
 11.  ⟪द्युभिः⟫
-     
+
 12.  ⟪जग्लिव⟫
-     
+
 13.  ⟪अतिस्तीर्षम्⟫
-     
+
 14.  ⟪अस्मेष्ठाः⟫
-     
+
 15.  ⟪ईशिष्व⟫
-     
+
 16.  ⟪रुरुषतुः⟫
-     
+
 17.  ⟪रुरुषुः⟫
-     
+
 18.  ⟪रुरुषिषुः⟫
-     
+
 19.  ⟪अपिप्रीणताम्⟫
-     
+
 20.  ⟪अपिप्रीषतम्⟫
-     
+
 21.  ⟪पिप्रियतुः⟫
-     
+
 22.  ⟪तिस्रः⟫
-     
+
 23.  ⟪अदांक्ष्टाम्⟫
-     
+
 24.  ⟪असिसीर्ष्यत⟫
-     
+
 25.  ⟪बभासाते⟫
-     
+
 26.  ⟪बिभासिषेथे⟫
-     
+
 27.  ⟪अबीभणत⟫
-     
+
 28.  ⟪चकर्त⟫
-     
+
 29.  ⟪चकर्थ⟫
-     
+
 30.  ⟪दिद्युते⟫
-     
+
 31.  ⟪दिद्युतिषे⟫
-     
+
 32.  ⟪चुच्यूषवे⟫
-     
+
 33.  ⟪दित्सामि⟫
-     
+
 34.  ⟪अचीकृतम्⟫
-     
+
 35.  ⟪विजिगीषौ⟫
-     
+
 36.  ⟪पित्सेथे⟫
-     
+
 37.  ⟪उदीचि⟫
-     
+
 38.  ⟪संगणय्य⟫
-     
+
 39.  ⟪अतिस्तराव⟫
-     
+
 40.  ⟪त्रिलोक्याः⟫
-     
+
 41.  ⟪अहः⟫
-     
+
 42.  ⟪जग्मुषः⟫
-     
+
 43.  ⟪अताप्स्व⟫
-     
+
 44.  ⟪ईशिशिषाञ्चक्रे⟫
-     
+
 45.  ⟪ईशाञ्चक्रे⟫
-     
+
 46.  ⟪ईशयाञ्चक्रे⟫
-     
+
 47.  ⟪षण्णाम्⟫
-     
+
 48.  ⟪अघुक्षम्⟫
-     
+
 49.  ⟪अष्टौ⟫
-     
+
 50.  ⟪प्साथः⟫
-     
+
 51.  ⟪अवाचः⟫
-     
+
 52.  ⟪ईयुषे⟫
+

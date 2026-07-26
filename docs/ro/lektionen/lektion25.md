@@ -1,9 +1,9 @@
 ---
-title: Lecția 25
-subtitle: "Formarea ablativului (⟪पञ्चमी⟫ = \"al cincilea caz\")"
+title: Lektion 25
+subtitle: "Bildung des Ablativ (⟪पञ्चमी⟫ = \"fünfte Kasusendung\")"
 lesson_id: 25
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -29,11 +29,11 @@ Pronume interogative, relative și demonstrative:
 
 | | Ablativ singular:brMasculin/Neutru | Ablativ singular:brFeminin |
 | :--- | :--- | :--- |
-| **⟪किम्⟫** | **kasmāt**:br(⟪कस्मात्⟫) | **kasyāḥ**:br(⟪कस्याः⟫) |
-| **⟪यद्⟫** | **yasmāt**:br(⟪यस्मात्⟫) | **yasyāḥ**:br(⟪यस्याः⟫) |
-| **⟪तद्⟫** | **tasmāt**:br(⟪तस्मात्⟫) | **tasyāḥ**:br(⟪तस्याः⟫) |
-| **⟪एतद्⟫** | **etasmāt**:br(⟪एतस्मात्⟫) | **etasyāḥ**:br(⟪एतस्याः⟫) |
-| **⟪इदम्⟫** | **asmāt**:br(⟪अस्मात्⟫) | **asyāḥ**:br(⟪अस्याः⟫) |
+| ⟪किम्⟫ | **kasmāt** :br(⟪कस्मात्⟫) | **kasyāḥ** :br(⟪कस्याः⟫) |
+| ⟪यद्⟫ | **yasmāt** :br(⟪यस्मात्⟫) | **yasyāḥ** :br(⟪यस्याः⟫) |
+| ⟪तद्⟫ | **tasmāt** :br(⟪तस्मात्⟫) | **tasyāḥ** :br(⟪तस्याः⟫) |
+| ⟪एतद्⟫ | **etasmāt** :br(⟪एतस्मात्⟫) | **etasyāḥ** :br(⟪एतस्याः⟫) |
+| ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
 ## 25.2. Utilizarea ablativului (⟪पञ्चमी⟫)
@@ -158,7 +158,7 @@ Pe lângă acestea, desigur, se pot exprima motivele și prin construcții cu
 *   ⟪हेतु⟫ m.
 *   alte substantive cu sensul de "cauză"
 
-+ Genitiv (⟪षष्ठी⟫) sau ca element final al compuselor:
+Genitiv (⟪षष्ठी⟫) sau ca element final al compuselor:
 :::
 Exemplu:
 
@@ -292,11 +292,11 @@ Inf. ⟪लेप्तुम्⟫
 de la care:
 
 ⟪लिप्ति⟫ f.: uns, scris, scrisoare
-:::: media
+:::
+::: media
 ![](/images/lekt2503.webp)
 Fig.: ⟪लिप्तिः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2503))
-::::
 :::
 ⟪वर्ष⟫ n.,m.: ploaie, sezonul ploilor, an
 
@@ -314,11 +314,11 @@ Absol 2: -⟪उह्य⟫
 de la care:
 
 ⟪विवाह⟫ m.: ducere departe, căsătorie a unei femei (Instr., saha) (pentru căsătorie vezi Basham, Wonder p. 166 -171)
-:::: media
+:::
+::: media
 ![](/images/lekt2504.webp)
 Fig.: ⟪विवाहः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2504))
-::::
 :::
 ⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : a duce departe, a instrui, a educa
 
@@ -468,7 +468,6 @@ Explicație: ⟪राजा⟫ = Nom. sg. la ⟪राजन्⟫ m. = ⟪न�
 ... ⟪॥⟫  
 ⟪कामक्रोधलोभमानमदहर्षत्यागा⟫***⟪त्कार्यः⟫*** ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
-
 Explicarea cuvintelor evidențiate în roșu în textul de mai sus:
 
 1.5.1. ⟪तिस्रस्⟫ : substantiv, acuzativ, feminin, derivat din ⟪त्रि⟫ "trei"
@@ -488,3 +487,4 @@ Explicarea cuvintelor evidențiate în roșu în textul de mai sus:
 1.5.16. ⟪धि⟫ Formă de sandhi derivată din ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "posesiune de sine"
 
 1.6.1. ⟪कार्य⟫ ⟪३⟫ "ce trebuie făcut, ceea ce trebuie realizat"
+

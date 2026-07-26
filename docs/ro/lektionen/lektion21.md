@@ -1,9 +1,9 @@
 ---
-title: Lecția 21
-subtitle: "Alte teme de prezent pe -nt"
+title: Lektion 21
+subtitle: "Weitere Präsensstämme auf -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -31,7 +31,7 @@ Acest particip este o formare nominală din tema de prezent, adică un particip 
 | | **temă puternică** | tema de prezent + **-nt-** |
 | | **temă slabă** | tema de prezent + **-t-** |
 | **Feminin** | | |
-| | | tema de prezent + **-nt-** + **-ī** (declinare ca **devī**:br⟪देवी⟫) |
+| | | Präsensstamm + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
 | | **clasa a 6-a de prezent** | tema de prezent + **-nt-** + **-ī**:brsau::brtema de prezent + **-t-** + **-ī** |
 
 :::
@@ -44,16 +44,16 @@ Exemple:
 :::
 ::: grammar-box
 
-| | | Masculin:br⟪पुंस्⟫ | Neutru:br⟪नपुंसक⟫ | Feminin:br⟪स्त्री⟫ |
+| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**:br⟪एकवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪यजन्⟫**:brdin yaja-nt-s | **⟪यजत्⟫**:bryaja-t-Ø | **⟪यजन्ती⟫**:bryaja-ant-ī |
-| | **2. Acuzativ**:br⟪द्वितीया⟫ | **⟪यजन्तम्⟫**:bryaja-nt-am | **⟪यजत्⟫** | ca **devī**:br⟪देवी⟫ |
-| | **3. Instrumental**:br⟪तृतीया⟫ | **⟪यजता⟫**:bryaja-t-ā | **⟪यजता⟫** | |
-| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪यजतस्⟫**:bryaja-t-as | **⟪यजतस्⟫** | |
-| **Plural**:br⟪बहुवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪यजन्तस्⟫**:bryaja-nt-as | **⟪यजन्ति⟫**:bryaja-nt-i | |
-| | **2. Acuzativ**:br⟪द्वितीया⟫ | **⟪यजतस्⟫**:bryaja-t-as | **⟪यजन्ति⟫** | |
-| | **3. Instrumental**:br⟪तृतीया⟫ | **⟪यजद्भिस्⟫**:brdin yaja-t-bhis | **⟪यजद्भिस्⟫** | |
-| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪यजताम्⟫**:bryaja-t-ām | **⟪यजताम्⟫** | |
+| **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪यजन्⟫ :braus yaja-nt-s | ⟪यजत्⟫ :bryaja-t-Ø | ⟪यजन्ती⟫ :bryaja-ant-ī |
+| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | wie **devī** :br⟪देवी⟫ |
+| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪यजता⟫ :bryaja-t-ā | ⟪यजता⟫ | |
+| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजतस्⟫ | |
+| **Plural** :br⟪बहुवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪यजन्तस्⟫ :bryaja-nt-as | ⟪यजन्ति⟫ :bryaja-nt-i | |
+| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजन्ति⟫ | |
+| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪यजद्भिस्⟫ :braus yaja-t-bhis | ⟪यजद्भिस्⟫ | |
+| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | |
 
 :::
 Observați identitatea de formă a lui **⟪यजन्ति⟫** (Nom. pl. Neutru) cu persoana a 3-a plural!
@@ -84,7 +84,7 @@ Observați identitatea de formă a lui **⟪यजन्ति⟫** (Nom. pl. Ne
 | | **temă puternică** | tema de prezent + **-ant-** |
 | | **temă slabă** | tema de prezent + **-at-**:br(Cuvântul final al temei slabe de prezent este același ca înainte de persoana a 3-a plural.) |
 | **Feminin** | | |
-| | | tema de prezent + **-at-** + **-ī** (declinare ca **devī**:br⟪देवी⟫) |
+| | | Präsensstamm + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
 
 :::
 2\. clasa de prezent:
@@ -94,16 +94,16 @@ Observați identitatea de formă a lui **⟪यजन्ति⟫** (Nom. pl. Ne
 :::
 ::: grammar-box
 
-| | | Masculin:br⟪पुंस्⟫ | Neutru:br⟪नपुंसक⟫ | Feminin:br⟪स्त्री⟫ |
+| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**:br⟪एकवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪सन्⟫**:brdin s-ant-s | **⟪सत्⟫**:brs-at-Ø | **⟪सती⟫**:brs-at-ī |
-| | **2. Acuzativ**:br⟪द्वितीया⟫ | **⟪सन्तम्⟫**:brs-ant-am | **⟪सत्⟫** | ca **devī**:br⟪देवी⟫ |
-| | **3. Instrumental**:br⟪तृतीया⟫ | **⟪सता⟫**:brs-at-ā | **⟪सता⟫** | |
-| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪सतस्⟫**:brs-at-as | **⟪सतस्⟫** | |
-| **Plural**:br⟪बहुवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪सन्तस्⟫**:brs-ant-as | **⟪सन्ति⟫**:brs-ant-i | |
-| | **2. Acuzativ**:br⟪द्वितीया⟫ | **⟪सतस्⟫**:brs-at-as | **⟪सन्ति⟫** | |
-| | **3. Instrumental**:br⟪तृतीया⟫ | **⟪सद्भिस्⟫**:brdin s-at-bhis | **⟪सद्भिस्⟫** | |
-| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪सताम्⟫**:brs-at-ām | **⟪सताम्⟫** | |
+| **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪सन्⟫ :braus s-ant-s | ⟪सत्⟫ :brs-at-Ø | ⟪सती⟫ :brs-at-ī |
+| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪सन्तम्⟫ :brs-ant-am | ⟪सत्⟫ | wie **devī** :br⟪देवी⟫ |
+| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪सता⟫ :brs-at-ā | ⟪सता⟫ | |
+| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सतस्⟫ | |
+| **Plural** :br⟪बहुवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪सन्तस्⟫ :brs-ant-as | ⟪सन्ति⟫ :brs-ant-i | |
+| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सन्ति⟫ | |
+| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪सद्भिस्⟫ :braus s-at-bhis | ⟪सद्भिस्⟫ | |
+| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪सताम्⟫ :brs-at-ām | ⟪सताम्⟫ | |
 
 :::
 ::: indent
@@ -140,24 +140,24 @@ Placă memorială ⟪सती⟫ în Palatul din Jodhpur - ⟪जोधपु�
 | | | |
 | :--- | :--- | :--- |
 | **Masculin, Neutru** | | |
-| | **stam forte** | **⟪महान्त्⟫** |
-| | **stam slab** | **⟪महत्⟫** |
+| | **stam forte** | ⟪महान्त्⟫ |
+| | **stam slab** | ⟪महत्⟫ |
 | **Feminin** | | |
-| | | **⟪महती⟫**:brca **devī**:br⟪देवी⟫ |
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
 
 :::
 ::: grammar-box
 
-| | | Masculin:br⟪पुंस्⟫ | Neutru:br⟪नपुंसक⟫ | Feminin:br⟪स्त्री⟫ |
+| | | Maskulinum:br⟪पुंस्⟫ | Neutrum:br⟪नपुंसक⟫ | Femininum:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**:br⟪एकवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪महान्⟫**:brdin mahānt-s | **⟪महत्⟫**:brmahat-Ø | **⟪महती⟫**:brmahat-ī |
-| | **2. Acuzativ**:br⟪द्वितीया⟫ | **⟪महान्तम्⟫**:brmahānt-am | **⟪महत्⟫** | ca **devī**:br⟪देवी⟫ |
-| | **3. Instrumental**:br⟪तृतीया⟫ | **⟪महता⟫**:brmahat-ā | **⟪महता⟫** | |
-| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪महतस्⟫**:brmahat-as | **⟪महतस्⟫** | |
-| **Plural**:br⟪बहुवचन⟫ | **1. Nominativ**:br⟪प्रथमा⟫ | **⟪महान्तस्⟫**:brmahānt-as | **⟪महान्ति⟫**:brmahānt-i | |
-| | **2. Acuzativ**:br⟪द्वितीया⟫ | **⟪महतस्⟫**:brmahat-as | **⟪महान्ति⟫** | |
-| | **3. Instrumental**:br⟪तृतीया⟫ | **⟪महद्भिस्⟫**:brdin mahat-bhis | **⟪महद्भिस्⟫** | |
-| | **6. Genetiv**:br⟪षष्ठी⟫ | **⟪महताम्⟫**:brmahat-ām | **⟪महताम्⟫** | |
+| **Singular** :br⟪एकवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪महान्⟫ :braus mahānt-s | ⟪महत्⟫ :brmahat-Ø | ⟪महती⟫ :brmahat-ī |
+| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪महान्तम्⟫ :brmahānt-am | ⟪महत्⟫ | wie **devī** :br⟪देवी⟫ |
+| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪महता⟫ :brmahat-ā | ⟪महता⟫ | |
+| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪महतस्⟫ :brmahat-as | ⟪महतस्⟫ | |
+| **Plural** :br⟪बहुवचन⟫ | **1. Nominativ** :br⟪प्रथमा⟫ | ⟪महान्तस्⟫ :brmahānt-as | ⟪महान्ति⟫ :brmahānt-i | |
+| | **2. Akkusativ** :br⟪द्वितीया⟫ | ⟪महतस्⟫ :brmahat-as | ⟪महान्ति⟫ | |
+| | **3. Instrumentalis** :br⟪तृतीया⟫ | ⟪महद्भिस्⟫ :braus mahat-bhis | ⟪महद्भिस्⟫ | |
+| | **6. Genetiv** :br⟪षष्ठी⟫ | ⟪महताम्⟫ :brmahat-ām | ⟪महताम्⟫ | |
 
 :::
 ::: grammar-box
@@ -169,13 +169,14 @@ Placă memorială ⟪सती⟫ în Palatul din Jodhpur - ⟪जोधपु�
 ::: indent
 **⟪महादेव⟫** "zeul cel mare" (de ex. ⟪शिव⟫)  
 **⟪महादेवी⟫** "zeita cea mare, soția principală a unui rege (⟪देव⟫)"
-:::: media
+:::
+::: media
 ![](/images/lekt2102.webp)
 Fig.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 "Un sigiliu de sardonyx din secolele IV-VI e.n., reprezentându-l pe Vișnu cu un închinător. Inscripția în bactrian cursiv spune: 'Mihira, Vișnu și Śiva'."
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2102))
-::::
 :::
+
 ::: indent
 "Un sigiliu de sardonyx din secolele IV-VI e.n., reprezentându-l pe Vișnu cu un închinător. Inscripția în bactrian cursiv spune: 'Mihira, Vișnu și Śiva'."
 :::
@@ -240,13 +241,14 @@ din aceasta:
 **⟪भाग⟫ m.:** parte, cotă  
 **⟪भग⟫ m.:** (bună) parte, noroc, bunăstare, demnitate  
 **⟪भगवन्त्⟫ 3:** posesor de noroc, posesor de demnitate (epitet al lui ⟪विष्णु⟫ – ⟪कृष्ण⟫)
-:::: media
+:::
+::: media
 ![](/images/lekt2103.webp)
 Fig.: ⟪भगवान्कृष्णः⟫
 ⟪भगवान्कृष्णः⟫ ca ⟪जगन्नाथ⟫ (dreapta) cu sora sa vitregă ⟪सुभद्रा⟫ (mijloc) și fratele său mai mare ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2103))
-::::
 :::
+
 ::: indent
 **⟪भगवद्गीता⟫ f.:** "Cântec (⟪गीता⟫) al Demnului (⟪कृष्ण⟫)"
 :::
@@ -256,6 +258,7 @@ Fig.: ⟪भगवद्गीता⟫
 ⟪भगवद्गीता⟫ - manuscris, sec. al XIX-lea.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2105))
 :::
+
 ::: indent
 **⟪भिक्ष्⟫ 1 Ā ⟪भिक्षते⟫ Pass. ⟪भिक्ष्यते⟫ PPP ⟪भिक्षित⟫** (într-adevăr un desiderativ pentru ⟪भज्⟫: a dori să participe): a cere milostenie
 :::
@@ -263,12 +266,12 @@ din aceasta:
 
 ::: indent
 **⟪भिक्षु⟫ m.:** cerșetor, monah
-:::: media
+:::
+::: media
 ![](/images/lekt2104.webp)
 Fig.: ⟪भिक्षवः⟫
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2104))
-::::
 :::
 **⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** a distruge (intransitiv), a se înrăutăți, a fi rușinat
 

@@ -1,5 +1,5 @@
 ---
-title: Lecția 28
+title: Lektion 28
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
@@ -16,7 +16,6 @@ Exemplu:
 ⟪गम्⟫ "a merge" » Cauzal: ⟪गमयति⟫ "el determină pe cineva să meargă; el trimite"
 ⟪दृश्⟫ "a vedea" » Cauzal: ⟪दर्शयति⟫ "el face să vadă = el arată"
 :::
----
 
 ## 28.2. Construcția propoziției cu causativul (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
@@ -50,6 +49,7 @@ Fig.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानम�
 Templul ISKCON Bangalore.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2801))
 :::
+
 ::: grammar-box
 **Construită după Schema 1 este, printre altele, și rădăcina ⟪दृश्⟫:**
 
@@ -59,13 +59,14 @@ Exemplu:
 (⟪स⟫) ⟪रामं⟫ ⟪पुत्रं⟫ ⟪दर्शयति⟫ = "îi arată lui Rāma fiul"
 :::
 Următorul vers rezumă exemple pentru formarea causativului conform Schemei 1 (formele verbale sunt fiecare la persoana a III-a, Imperfect, Parasmaipada):
-
+::: indent
 ⟪शत्रूनगमयत्स्वर्गं⟫
 ⟪वेदार्थं⟫ ⟪स्वानवेदयत्⟫ ⟪।⟫
 ⟪आशयच्चामृतं⟫ ⟪देवान्⟫
 ⟪वेदमध्यापयद्विधिम्⟫ ⟪।⟫
 ⟪आसयत्सलिलै⟫ ⟪पृथ्वीं⟫
 ⟪यः⟫ ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫ ⟪॥⟫
+:::
 
 ::: indent
 Refugiul și scopul meu este Hari,
@@ -74,13 +75,14 @@ Cel care i-a învățat pe ai săi sensul Vedei,
 Cel care i-a hrănit pe zei cu hrana nemuririi,
 Cel care l-a învățat pe creator Veda,
 Cel care a așezat pământul în apă.
-:::: media
+:::
+::: media
 ![](/images/lekt2801.webp)
 Fig.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
 Clădirea de management a Universității Jadavpur.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2802))
-::::
 :::
+
 ::: grammar-box
 **Schema 2:**
 
@@ -157,8 +159,6 @@ Rezultat: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "Sluj
 ⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma îl lasă pe slujitor să aducă povara"
 Rezultat: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Slujitorul aduce povara"
 
----
-
 ## 28.3. Formarea rădăcinii prezente la cauzativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
 
 ::: grammar-box
@@ -187,9 +187,9 @@ Exemple:
 
 | Rădăcină | Cauzativ 3. sg. Indicativ Prezent | Semnificație |
 | :--- | :--- | :--- |
-| ⟪भू⟫ | ⟪भावयति⟫:br(din: bhau-aya-ti) | a determina pe cineva sau ceva să devină, a produce |
-| ⟪इ⟫ | ⟪आययति⟫:br(din: ai-aya-ti) | a determina pe cineva să meargă |
-| ⟪नी⟫ | ⟪नाययति⟫:br(din: nai-aya-ti) | a lăsa să conducă |
+| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | a determina pe cineva sau ceva să devină, a produce |
+| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | a determina pe cineva să meargă |
+| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | a lăsa să conducă |
 | ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | a lăsa să facă |
 | ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | a lăsa să vorbească, a face să vorbească, (a face să rostească un text =) a citi cu voce tare |
 
@@ -214,7 +214,7 @@ Exemple:
 | Rădăcină | Cauzativ 3. sg. Indicativ Prezent | Semnificație |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | a face să stea, a amplasa |
-| ⟪इ⟫ + ⟪अधि⟫:br"a studia" | ⟪अध्यापयति⟫:br(din: adhi+ā-paya-ti):br(pentru explicații vezi Thumb-Hauschildt Vol. I,2 p. 341) | a lăsa să studieze, a instrui |
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | a lăsa să studieze, a instrui |
 
 ::: grammar-box
 **Formări neregulate:**
@@ -227,8 +227,6 @@ Exemple:
 Note:
 1. **ghātayati** este de fapt un verb derivat din substantivul **ghāta** m. "lovitură" (denominativ) și este folosit în loc de cauzativul lui **han**.
 2. **pālayati** este un cauzativ adevărat, dar derivat din rădăcina **pṛ** 3 "a transporta dincolo, a salva, a proteja": **pārayati** (pār-aya-ti) » **pālayati** (în unele regiuni ale Indiei, corespunde lui r un l, în altele invers, lui l îi corespunde un r).
-
----
 
 ## 28.4. Formarea pasivului (⟪यक्⟫) la cauzativ
 
@@ -243,8 +241,6 @@ Exemple:
 :::
 În timp ce pasivul corespunzător rădăcinii originale este de obicei derivat din rădăcina cu grad redus, pasivul cauzativului poate fi de obicei recunoscut prin faptul că este derivat din rădăcina cu grad ridicat, respectiv lungit.
 
----
-
 ## 28.5. Formarea viitorului (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) la cauzativ
 
 ::: grammar-box
@@ -255,7 +251,6 @@ Exemple:
 Exemplu:
 **budh** viitor-cauzativ: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): „el/ea va trezi”
 :::
----
 
 ## 28.6. Formarea PPP (⟪क्त⟫) la Causativ
 
@@ -266,7 +261,6 @@ Exemple:
 **gam** — **gamayati** — **gamita** (gam-i-ta) "trimis" (PPP al rădăcinii simple: **gata**)
 **sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "așezat"
 :::
----
 
 ## 28.7. Formarea abstractivei (⟪क्त्वा⟫ . ⟪ल्यप्⟫) la cauzativ
 
@@ -291,7 +285,6 @@ Exemple:
 Exemplu:
 **āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) „după ce a făcut să vină”
 :::
----
 
 ## 28.8. Formarea infinitivului (⟪तुमुन्⟫) la cauzativ
 
@@ -303,7 +296,6 @@ Exemplu:
 Exemplu:
 **jan** — **janayati** — **janayitum** (janay-i-tum) "pentru a produce"
 :::
----
 
 ## 28.9. A zecea clasă de prezent (⟪चुरादि⟫ = ⟪चुर्⟫ etc.)
 
@@ -311,13 +303,12 @@ Exemplu:
 **La fel cum fac verbele cauzative, unele rădăcini ale celei de-a zecea clase de prezent formează prezentul (și celelalte timpuri), fără a fi cauzative.**
 
 Exemple:
-1. Rădăcină cu lungirea vocalei + -aya-: **⟪कम्⟫** 10A **⟪कामयते⟫** "a iubi"
-2. Rădăcină cu gradul maxim + -aya-: **cur** 10U **corayati** "a fura"; viitor: **corayiṣyate**; pasiv: **coryate**
+1.  Rădăcină cu lungirea vocalei + -aya-: **⟪कम्⟫** 10A **⟪कामयते⟫** "a iubi"
+2.  Rădăcină cu gradul maxim + -aya-: **cur** 10U **corayati** "a fura"; viitor: **corayiṣyate**; pasiv: **coryate**
 :::
 ::: grammar-box
 **Formele cauzativului pentru verbele din cea de-a zecea clasă de prezent sunt identice cu formele verbului simplu. Decizia dacă există un cauzativ se poate face doar din sens, sau uneori din construcție.**
 :::
----
 
 ## 28.10. Listă de cuvinte
 
@@ -329,14 +320,14 @@ Kaus. **vedayati**
 PPP **vidita**
 Inf. **vediṣyum**
 derivat: **vidyā** f., **veda** m.
-:::: indent
+:::
+::: indent
 **⟪विद्⟫** 6U **⟪विन्दति⟫** (!): a găsi
 Fut. **vediṣyati** / **vetsyat**
 Pass. **vidyate**: există, este prezent
 Kaus. **vedayati**
 PPP **vinna** / **vitta**
 Inf. **vediṣtum** / **vettum**
-::::
 :::
 ::: indent
 **i + adhi** 2Ā **adhīte**, **adhīyate**: a studia, a învăța pe de rost
@@ -357,6 +348,7 @@ Fig.: ⟪कृष्णो⟫ ⟪राधां⟫ ⟪कामयति⟫
 Pictură de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2804))
 :::
+
 ::: indent
 **⟪चुर्⟫** 10 **⟪चोरयति⟫**: a fura
 Fut. **corayiṣyati**
@@ -387,8 +379,6 @@ Fetiță poartă povara. Lângă Ahmedabad.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2805))
 :::
 **⟪भृत्य⟫** m: subordonat, servitor
-
----
 
 ## 28.11. Exercițiu
 
@@ -492,7 +482,6 @@ Exemplu: ⟪रामो⟫ ⟪दासं⟫ ⟪भारं⟫ ⟪हार�
 ⟪सत्क्षत्रिया⟫ ⟪ब्राह्मणेनेष्टदेवतापूजां⟫ ⟪कारयति⟫ ⟪।⟫ ⟪स⟫ ⟪ब्राह्मणः⟫ ⟪पूजां⟫ ⟪कृत्वा⟫ ⟪क्षत्रियाया⟫ ⟪धनमेषिष्यति⟫ ⟪॥८॥⟫
 ⟪धनं⟫ ⟪जेतुं⟫ ⟪महाक्षत्रियो⟫ ⟪योधव्याघ्रैर्व्रतानि⟫ ⟪चारयिष्यति⟫ ⟪॥९॥⟫
 ⟪पापान्मोक्षार्थेन⟫ ⟪सुगत⟫ ⟪आर्यजनानार्यसत्यानि⟫ ⟪बोधयति⟫ ⟪॥१०॥⟫
-
 
 ::: deleteme-box
 

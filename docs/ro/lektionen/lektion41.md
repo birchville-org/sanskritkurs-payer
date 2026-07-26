@@ -1,9 +1,9 @@
 ---
-title: Lecția 41
-subtitle: "⟪सुभाषिते⟫  (două proverbe)"
+title: Lektion 41
+subtitle: "⟪सुभाषिते⟫  (zwei Sprichwörter)"
 lesson_id: 41
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -23,12 +23,13 @@ Explicație: ⟪पर⟫ "altul"
 ![lekt4102.jpg](/images/lekt4102.webp)
 Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4102))
-:::: indent
+:::
+
+::: indent
 ⟪उपदेशो⟫ ⟪हि⟫ ⟪मूर्खाणां⟫  
 ⟪प्रकोपाय⟫ ⟪न⟫ ⟪शान्तये⟫ ⟪।⟫  
 ⟪पयःपानं⟫ ⟪भुजङ्गानां⟫  
 ⟪केवलं⟫ ⟪विषवर्धनम्⟫ ⟪॥२॥⟫
-::::
 :::
 Explicație: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
@@ -66,7 +67,7 @@ Exemple:
 | Rădăcină / Clasă | Participul prezent Ā |
 | :--- | :--- |
 | **⟪द्विष्⟫** 2U | ⟪द्विषाण⟫ |
-| **⟪हु⟫** 3P | \&lt;⟪जुह्वान⟫\&gt;:brju-hu + āna |
+| **⟪हु⟫** 3P | \<⟪जुह्वान⟫\>:brju-hu + āna |
 | **⟪सु⟫** 5U | ⟪सुन्वान⟫:brsu-nu + āna |
 | **⟪रुध्⟫** 7U | ⟪रुन्धान⟫:brru-n-dh-āna |
 | **⟪तन्⟫** 8U | ⟪तन्वान⟫:brtan-u + āna |
@@ -166,7 +167,7 @@ Exemplu:
 
 | | | |
 | :--- | :--- | :--- |
-| ⟪स्मृ⟫ 1P |  ⟪स्मर्य⟫ 3 | „la care trebuie să te amintești” |
+| ⟪स्मृ⟫ 1P | ⟪स्मर्य⟫ 3 | „la care trebuie să te amintești” |
 
 :::
 ::: grammar-box
@@ -181,15 +182,15 @@ Exemple:
 | ⟪विक्री⟫ 9Ā | ⟪विक्रेय⟫ 3 | „de vândut; vândabil” |
 | ⟪नी⟫ 1U | ⟪नेय⟫ 3 | „cel de condus” |
 
-:::: media
+:::
+::: media
 ![lekt4103.jpg](/images/lekt4103.webp)
 Fig.: ⟪विक्रेयाणि⟫ ⟪पुष्पानि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4103))
-::::
 :::
+
 ::: grammar-box
 **2b. Rădăcinile pe -u /-ū înlocuiesc -o din gradul maxim (guṇa) înainte de -ya cu -av, iar -au din gradul lung (vṛddhi) cu -āv. Formarea în gradul lung (vṛddhi) înseamnă în acest caz necesitate.**
-
 :::
 Exemplu:
 
@@ -214,11 +215,11 @@ Exemple:
 | ⟪दृश्⟫ | ⟪दृश्य⟫ 3 | "demn de văzut" |
 | ⟪शास्⟫ 2P | ⟪शिष्य⟫ 3 | "cineva care trebuie învățat = elev" |
 
-:::: media
+:::
+::: media
 ![lekt4106.jpg](/images/lekt4106.webp)
 Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt4106))
-::::
 :::
 Formare la nivel înalt:
 
@@ -247,9 +248,9 @@ Exemplu:
 | :--- | :--- | :--- |
 | ⟪मन्⟫ Cauzativ¹ | ⟪मान्य⟫ 3:brmān-aya - aya + ya | "demn de onorat, foarte respectat" |
 
-:::: indent
+:::
+::: indent
 ¹ în sens propriu, denominativ pentru **⟪मान⟫**
-::::
 :::
 ::: media
 ![lekt4107.jpg](/images/lekt4107.jpg)
@@ -272,7 +273,7 @@ Exemple:
 | | | |
 | :--- | :--- | :--- |
 | ⟪इ⟫ 2P | ⟪इत्य⟫ 3 | "de mers" |
-|  ⟪श्रु⟫ 5P |  ⟪श्रुत्य⟫ 3 | "de auzit" |
+| ⟪श्रु⟫ 5P | ⟪श्रुत्य⟫ 3 | "de auzit" |
 | ⟪कृ⟫ 8U | ⟪कृत्य⟫ 3 | "de făcut" |
 
 :::
@@ -289,11 +290,11 @@ Gerundivul poate fi, de asemenea, folosit ca nume predicativ în propoziții cu 
 
 ::: indent
 **⟪काशी⟫ ⟪द्विजैर्द्रष्टव्या⟫** = „Dvija-șii trebuie să vadă Benares”
-:::: media
+:::
+::: media
 ![lekt4108.jpg](/images/lekt4108.webp)
 Fig.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4108))
-::::
 :::
 ### 41.2.4. Diferențe în utilizarea sufixelor gerundivale
 
@@ -343,12 +344,13 @@ Absol. **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
 din care:
 
 **⟪शासना⟫** f.: edict regal, învățătură, religie
-:::: media
+:::
+::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
 Fig.: ⟪शासना⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4109))
-::::
 :::
+
 ::: indent
 **⟪शास्त्र⟫** n.: învățătură, lucrare didactică
 
@@ -359,6 +361,7 @@ Fig.: ⟪शासना⟫
 Fig.: ⟪शास्त्री⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4110))
 :::
+
 ::: indent
 **⟪शिष्य⟫** 3: cel care trebuie învățat = elev
 :::
@@ -413,5 +416,4 @@ Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫
 - **Imaginea lekt4109.jpg** (Fig.: ⟪शासना⟫): Edictul lui Ashoka, Dhauli, Orissa [Sursa imaginii: vegdevil. -- http://www.flickr.com/photos/vegdevil/915850174/. -- Accesat la 2009-01-03. -- Licență Creative Commons (Atribuire, utilizare non-comercială)]
 - **Imaginea lekt4110.jpg** (Fig.: ⟪शास्त्री⟫): Max Müller (1823 - 1900), circa 1898 [Sursa imaginii: Wikipedia. Domeniu public]
 - **Imaginea lekt4111.jpg** (Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्या⟫มิ ...): [Sursa imaginii: jpereira_net. -- http://www.flickr.com/photos/jpereira_net/2914877721/. -- Accesat la 2009-01-04. -- Licență Creative Commons (Atribuire, fără modificări)]
-
 :::

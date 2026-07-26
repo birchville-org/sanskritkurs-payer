@@ -1,15 +1,13 @@
 ---
-title: Lecția 13
-subtitle: "PPP pe -na-"
+title: Lektion 13
+subtitle: "PPP auf -na-"
 lesson_id: 13
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
 # Lecția 13
-
----
 
 ## 13.1. PPP pe sufixul -na-
 
@@ -23,45 +21,33 @@ Exemplu:
 pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 
 :::
----
 
 ## 13.2. Mai multe despre utilizarea PPP-ului
 
 ::: grammar-box
 
-1. PPP-ul verbelor cu sensul de „a gândi”, „a dori”, „a cunoaște”, „a ști”, „a venera”, precum și al altor verbe marcate în Dhātupāṭha, lista de rădăcini a lui Pāṇini, prin ñi, nu are doar sensul trecutului, ci poate fi utilizat și cu sens prezent:
-
-    de exemplu:
-
+PPP-ul verbelor cu sensul de „a gândi”, „a dori”, „a cunoaște”, „a ști”, „a venera”, precum și al altor verbe marcate în Dhātupāṭha, lista de rădăcini a lui Pāṇini, prin ñi, nu are doar sensul trecutului, ci poate fi utilizat și cu sens prezent:
 :::
 ::: indent
     ⟪इष्ट⟫ „dorit” (adică nu doar dorit în trecut, ci și în prezent)
+:::
 
     ⟪त्वरित⟫ „grăbit, urgent” (PPP la tvar 1 Ā „a grăbi”; Dhātupāṭha: ñitvárā)
-    :::2. PPP-ul poate fi utilizat atributiv ca adjectiv:
-
-    de exemplu:
-
-:::
 ::: indent
     ⟪इष्टं⟫ ⟪फलम्⟫ „roada dorită (de exemplu, a faptelor)”
-    :::Dacă în acest caz ⟪अपि⟫ urmează după PPP, ⟪अपि⟫ are sensul „deși”:
-
-    de exemplu:
-
 :::
+
+Dacă în acest caz ⟪अपि⟫ urmează după PPP, atunci ⟪अपि⟫ are sensul „deși”:
+de ex.
 ::: indent
-    ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = „Deși cel care dorește roada, nu o obține.”
-    :::3. Neutru singular al PPP-ului fiecărui verb poate fi, de asemenea, utilizat ca substantiv verbal:
-
-    de exemplu:
-
+⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = „Deși cel care dorește roada, nu o obține.”
 :::
-::: indent
+
     ⟪गत⟫ n.: „mersul, mersul”
-
+::: indent
     ⟪नृत्त⟫ n.: „dansul, dansul”
 :::
+
 ## 13.3. Determinative atributive ale substantivel (poziția cuvântului)
 
 ::: grammar-box
@@ -74,7 +60,6 @@ Exemplu:
 ::: indent
 ⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = „Un sfânt vede roada dorită (a faptelor sale).”
 :::
----
 
 ## 13.4. Formarea adjectivelor cu sufixele -mant și -vant (taddhita)
 
@@ -92,7 +77,6 @@ Exemple:
 
 ⟪गुणवन्त्⟫ "care posedă calități bune / virtute"
 :::
----
 
 ## 13.5. Declinarea tematică a substantivelor
 
@@ -105,29 +89,25 @@ La rădăcinile nominale cu declinare tematică, se face distincție între cazu
 
 | | Singular:br⟪एकवचन⟫ | Dual:br⟪द्विवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- | :--- |
-| **La masculine și feminine**:br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAcuzativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAcuzativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVocativ:br⟪सम्बोधनप्रथमा⟫ |
-| **La neutre**:br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAcuzativ:br⟪द्वितीया⟫:brVocativ:br⟪सम्बोधनप्रथमा⟫ |
+| **Bei Maskulina und Feminina** :br⟪पुंस्⟫, ⟪स्त्री⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ | Nominativ:br⟪प्रथमा⟫:br:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
+| **Bei Neutra** :br⟪नपुंसक⟫ | — | — | Nominativ:br⟪प्रथमा⟫:brAkkusativ:br⟪द्वितीया⟫:brVokativ:br⟪सम्बोधनप्रथमा⟫ |
 
 **Toate celelalte cazuri sunt slabe.**
 
 ::: grammar-box
 În compunere, un substantiv cu declinare tematică stă în prima parte, la forma de temă slabă (la substantivul cu trei rădăcini, la ceea ce se numește „temă medie”).
 :::
----
 
 ## 13.6. Despre sandha cuvântului
 
 Pentru înțelegerea formelor individuale ale declinării substantivelor pe -mant și -vant sunt necesare următoarele legi ale sandha cuvântului:
 
 ::: grammar-box
-
 1. Numărul de consoane finale ale unui cuvânt: Din două sau mai multe consoane, la care ar termina un cuvânt, rămâne doar prima consoană, celelalte dispar. Este permisă combinația -r- + consoană.
 
 2. Oclusiva surdă este înlocuită înainte de oclusiva sonoră (nu nazală) cu oclusiva sonoră corespunzătoare acesteia:
-
-    Exemple:
-
 :::
+    Exemple:
 ::: indent
     -t + bh- » -d-bh- ⟪द्भ्⟫
 
@@ -137,6 +117,7 @@ Pentru înțelegerea formelor individuale ale declinării substantivelor pe -man
 
     -c + dh- » -g-dh- ⟪ग्ध्⟫
 :::
+
 ## 13.7. Desinenzele de caz ale rădăcinilor consonantice
 
 ::: grammar-box
@@ -147,7 +128,6 @@ La rădăcinile care se termină cu consoană:
 * la rădăcinile formate în mod regulat, la neutru, desinenza nominativului și acuzativului la plural este -i.
 
 :::
----
 
 ## 13.8. Declinarea rădăcinilor în -mant și -vant
 
@@ -159,11 +139,11 @@ La rădăcinile care se termină cu consoană:
 | | | Masculin || Neutru ||
 | :--- | :--- | :---: | :---: | :---: | :---: |
 | Singular:br⟪एकवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mān:br⟪पशुमान्⟫ | guṇa-vān:br⟪गुणवान्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Acuzativ:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
-| | Instrumental:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
+| | Akkusativ:br⟪द्वितीया⟫ | paśu-mant-am:br⟪पशुमन्तम्⟫ | guṇa-vant-am:br⟪गुणवन्तम्⟫ | paśu-mat:br⟪पशुमत्⟫ | guṇa-vat:br⟪गुणवत्⟫ |
+| | Instrumentalis:br⟪तृतीया⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ | paśu-mat-ā:br⟪पशुमता⟫ | guṇa-vat-ā:br⟪गुणवता⟫ |
 | Plural:br⟪बहुवचन⟫ | Nominativ:br⟪प्रथमा⟫ | paśu-mant-as:br⟪पशुमन्तस्⟫ | guṇa-vant-as:br⟪गुणवन्तस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Acuzativ:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
-| | Instrumental:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
+| | Akkusativ:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
+| | Instrumentalis:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 
 Feminin:
 
@@ -173,7 +153,6 @@ Exemplu:
 * paśumatī, guṇavatī ⟪पशुमती⟫ ⟪गुणवती⟫
 
 :::
----
 
 ## 13.9. Listă de cuvinte
 
@@ -226,18 +205,18 @@ pad 4 Ā:
 **pada** n. ⟪पद⟫ : pas, loc, locație
 
 **pāda** m. ⟪पाद⟫ : picior, o sfert, vers
-:::: media
+:::
+
+::: media
 ![](/images/lekt1303.webp)
 Fig.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1303))
-::::
 :::
 dviṣ 2 U:
 
 ::: indent
 **dveṣa** ⟪द्वेष⟫ : ură
 :::
----
 
 ## 13.10. Exercițiu
 
@@ -279,8 +258,6 @@ B) Traduceți și transformați în propoziții la perfect pasiv:
 ⟪१४⟫. ⟪पार्थिवो⟫ ⟪धनमिच्छतीति⟫ ⟪नीचा⟫ ⟪मन्यन्ते⟫ ⟪।⟫
 ⟪१५⟫. ⟪नैवासुरो⟫ ⟪जयतीत्यृषयः⟫ ⟪पश्यन्ति⟫ ⟪।⟫
 ⟪१६⟫. ⟪ब्राह्मणाः⟫ ⟪किं⟫ ⟪पिबन्ति⟫ ⟪खादन्ति⟫ ⟪च⟫ ⟪॥⟫
-
----
 
 ## 13.11. Exercițiu de recapitulare
 
@@ -365,7 +342,3 @@ E) Traduceți în sanscrită:
 9. Buddha s-a trezit la adevăr = Buddha a recunoscut adevărul.
 10. Sfinții vedici au ascultat Śruti.
 11. Preoții sacrificatori au stors Soma.
-
-
-
-

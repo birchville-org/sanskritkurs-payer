@@ -1,5 +1,5 @@
 ---
-title: Lecția 19
+title: Lektion 19
 lesson_id: 19
 ---
 
@@ -11,13 +11,12 @@ lesson_id: 19
 
 **Schema:**
 
-:::
-::: indent
 **Pronumele relativ -- Propoziția relativă, care conține substantivul la care se referă propoziția relativă -- (Pronumele demonstrativ) -- Propoziția principală**
-:::
+
 **Propoziția relativă poate apărea, de asemenea, după propoziția principală, dar nu poate fi inserată în interiorul acesteia.**
 
 **Pronumele relativ și cuvântul de referință, care, spre deosebire de limba germană, se află în propoziția relativă, se află în cazul cerut sintactic de propoziția relativă. Pronumele demonstrativ se află în cazul cerut sintactic de propoziția principală.**
+:::
 
 Exemple:
 
@@ -59,20 +58,21 @@ Notă: În relațiile de conținut universal, se preferă adesea folosirea optat
 
 **⟪यद्⟫ "care, care, care" declinat ca și ⟪तद्⟫, dar cu sandhi regulat.**
 
-| | | **Masculin**:br**⟪पुंस्⟫** | **Neutru**:br**⟪नपुंसक⟫** | **Feminin**:br**⟪स्त्री⟫** |
+| | | **Maskulinum** :br ⟪पुंस्⟫ | **Neutrum** :br ⟪नपुंसक⟫ | **Femininum** :br ⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-| **Singular**:br**⟪एकवचन⟫** | **1. Nominativ**:br**⟪प्रथमा⟫** | **yas**:br**⟪यस्⟫** | **yad**:br**⟪यद्⟫** | **yā**:br**⟪या⟫** |
-| | **2. Acuzativ**:br**⟪द्वितीया⟫** | **yam**:br**⟪यम्⟫** | **yad**:br**⟪यद्⟫** | **yām**:br**⟪याम्⟫** |
-| | **3. Instrumental**:br**⟪तृतीया⟫** | **yena**:br**⟪येन⟫** | **yena**:br**⟪येन⟫** | **yayā**:br**⟪यया⟫** |
-| | **6. Genetiv**:br**⟪षष्ठी⟫** | **yasya**:br**⟪यस्य⟫** | **yasya**:br**⟪यस्य⟫** | **yasyās**:br**⟪यस्यास्⟫** |
-| **Plural**:br**⟪बहुवचन⟫** | **1. Nominativ**:br**⟪प्रथमा⟫** | **ye**:br**⟪ये⟫** | **yāni**:br**⟪यानि⟫** | **yās**:br**⟪यास्⟫** |
-| | **2. Acuzativ**:br**⟪द्वितीया⟫** | **yān**:br**⟪यान्⟫** | **yāni**:br**⟪यानि⟫** | **yās**:br**⟪यास्⟫** |
-| | **3. Instrumental**:br**⟪तृतीया⟫** | **yais**:br**⟪यैस्⟫** | **yais**:br**⟪यैस्⟫** | **yābhis**:br**⟪याभिस्⟫** |
-| | **6. Genetiv**:br**⟪षष्ठी⟫** | **yeṣām**:br**⟪येषाम्⟫** | **yeṣām**:br**⟪येषाम्⟫** | **yāsām**:br**⟪यासाम्⟫** |
+| **Singular** :br ⟪एकवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **yas** :br ⟪यस्⟫ | **yad** :br ⟪यद्⟫ | **yā** :br ⟪या⟫ |
+| | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yam** :br ⟪यम्⟫ | **yad** :br ⟪यद्⟫ | **yām** :br ⟪याम्⟫ |
+| | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yena** :br ⟪येन⟫ | **yena** :br ⟪येन⟫ | **yayā** :br ⟪यया⟫ |
+| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yasya** :br ⟪यस्य⟫ | **yasya** :br ⟪यस्य⟫ | **yasyās** :br ⟪यस्यास्⟫ |
+| **Plural** :br ⟪बहुवचन⟫ | **1. Nominativ** :br ⟪प्रथमा⟫ | **ye** :br ⟪ये⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| | **2. Akkusativ** :br ⟪द्वितीया⟫ | **yān** :br ⟪यान्⟫ | **yāni** :br ⟪यानि⟫ | **yās** :br ⟪यास्⟫ |
+| | **3. Instrumentalis** :br ⟪तृतीया⟫ | **yais** :br ⟪यैस्⟫ | **yais** :br ⟪यैस्⟫ | **yābhis** :br ⟪याभिस्⟫ |
+| | **6. Genetiv** :br ⟪षष्ठी⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yeṣām** :br ⟪येषाम्⟫ | **yāsām** :br ⟪यासाम्⟫ |
 
 **Ca prefix al compuselor, apare rădăcina ⟪यद्⟫ (respectând sandhi-ul).**
 
 :::
+
 ## 19.3. Listă de cuvinte
 
 **⟪अर्थ⟫ m.:** scop, țintă, semnificație (a unui cuvânt), bogăție, avere, posesiuni. **⟪अर्थम्⟫** (Ac.), **⟪अर्थेन⟫** (Instr.) cu Gen. sau ca element final al unui Tatpuruṣa: pentru ..., pentru a.
@@ -85,12 +85,12 @@ Notă: În relațiile de conținut universal, se preferă adesea folosirea optat
 **⟪अर्थ⟫ m.:** comportament rațional în raport cu scopul, obținerea prosperității
 
 **⟪काम⟫ m.:** plăcere senzorială, în special și în domeniul sexual
-:::: media
+:::
+::: media
 ![](/images/lekt1809.webp)
 Fig.: ⟪कामः⟫
 Ilustrație pentru ⟪कामसूत्र⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1809))
-::::
 :::
 **⟪स्था⟫ 1 Pers. ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** sta, rămâne, persista, se afla. (Este considerat în mod tradițional ca aparținând primei clase de prezente, deși este o clasă de prezente tematice reduplicative, cum este ⟪पा⟫ 1 ⟪पिबति⟫)
 
@@ -111,12 +111,12 @@ de la **⟪स्था⟫** :
 **⟪धनगर्भ⟫ 3:** "al cărui interior este bani = în care se află bani"
 
 **⟪गर्भगृह⟫ n.:** camera sacră interioară a unui templu hindus, care conține cea mai importantă imagine divină a templului (pentru construcția templelor hinduse, vezi: Volwahsen, A.: India: Construcțiile hinduse, budiste și jaina. -- Munchen, 1968)
-:::: media
+:::
+::: media
 ![](/images/lekt1901.webp)
 Fig.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1901))
-::::
 :::
 **⟪वारिद⟫ m.:** purtător de apă = nor de ploaie
 
@@ -212,12 +212,11 @@ Explicație: ⟪यथाकालम्⟫ Compus Avyayībhāva: la momentul po
 ⟪स⟫ ⟪पुत्रो⟫ ⟪यस्तु⟫ ⟪जीवति⟫ ⟪।⟫  
 ⟪स⟫ ⟪जीवति⟫ ⟪गुणो⟫ ⟪यस्य⟫  
 ⟪धर्मो⟫ ⟪यस्य⟫ ⟪स⟫ ⟪जीवति⟫ ⟪॥३॥⟫
-:::: indent
+
 ⟪यस्यार्थास्तस्य⟫ ⟪मित्राणि⟫  
 ⟪यस्यार्थास्तस्य⟫ ⟪बान्धवाः⟫ ⟪।⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫
-::::
 :::
 Explicație: ⟪पुमान्⟫ Nom. sg. la ⟪पुंस्⟫ "bărbat" ; ⟪लोके⟫ Loc. sg. la ⟪लोक⟫ m.: în ...
 

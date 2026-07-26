@@ -1,5 +1,5 @@
 ---
-title: Lecția 34
+title: Lektion 34
 lesson_id: 34
 status: stable
 ---
@@ -158,8 +158,8 @@ Exemple:
 | ⟪बन्ध्⟫ 9P | ⟪बबन्ध⟫:brba-bandh-a | ⟪बबन्धुर्⟫ |
 | ⟪जीव्⟫ 1P | ⟪जिजीव⟫ | ⟪जिजीवुर्⟫ |
 | ⟪आप्⟫ 5P | ⟪आप⟫:bra + āp-a | ⟪आपुर्⟫ |
-| ⟪अस्⟫ 2P "a fi":br⟪अस्⟫ 4 "a arunca" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
-| ⟪अश्⟫ | ⟪आनशे⟫:brreduplicare neregulată! | ⟪आनशिरे⟫ |
+| ⟪अस्⟫ 2P "sein":br⟪अस्⟫ 4 "werfen" | ⟪आस⟫:bra + as-a | ⟪आसुर्⟫ |
+| ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
 ## 34.5. Tipul II al Perfectului: Rădăcină puternică la treapta superioară, rădăcină slabă la treapta inferioară
@@ -220,12 +220,13 @@ Harta Insulelor Lakshadweep.
 Fig.: ⟪तिलाः⟫
 Semințe de susan.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3403))
-:::: media
+:::
+
+::: media
 ![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Înflorește planta de susan.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3404))
-::::
 :::
 **⟪स्वर्ण⟫ n.:** (frumos colorat =) aur
 
@@ -322,13 +323,14 @@ Explicații:
 **⟪जन्म⟫** Nom./Ac. sg. al lui **⟪जन्मन्⟫ n.** naștere
 
 **⟪सर्व⟫ 3** "toți, întregi" (declinat conform declinării pronominale)
-:::: media
+:::
+::: media
 ![](/images/lekt3407.webp)
 Fig.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Ritual de nuntă hindus.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3407))
-::::
 :::
+
 ::: deleteme-box
 
 **lekt3401:** Statuia taurului Nandi, Dealurile Chamundi, Mysore. [Sursa imaginii: Luna Park / Flickr. CC BY-NC-ND]
@@ -345,3 +347,4 @@ Ritual de nuntă hindus.
 
 **lekt3407:** Ritual de nuntă hindus. [Sursa imaginii: BriceFR / Flickr. CC BY-NC-SA]
 :::
+

@@ -1,9 +1,9 @@
 ---
-title: Lecția 52
-subtitle: "Neutru al rădăcinilor în -i și -u"
+title: Lektion 52
+subtitle: "Neutrum der Stämme auf -i und -u"
 lesson_id: 52
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -15,23 +15,23 @@ status: stable
 **Înainte de terminațiile care încep cu vocală, se inserează un -n-, acesta fiind un influențat al temelor în n (-in).**
 :::
 ::: grammar-box
-| | **⟪वारि⟫ n.:br"apă"** | **⟪मधु⟫ n.:br"miere"** |
+| | **⟪वारि⟫ n.:br"Wasser"** | **⟪मधु⟫ n.:br"Honig"** |
 | :--- | :---: | :---: |
-| **⟪एकवचनम्⟫** |||
+| ⟪एकवचनम्⟫ |||
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫** | ⟪वारि⟫ | ⟪मधु⟫ |
-| **⟪तृतीया⟫** | ⟪वारिणा⟫ | ⟪मधुना⟫ |
-| **⟪चतुर्थी⟫** | ⟪वारिणे⟫ | ⟪मधुने⟫ |
-| **⟪पञ्चमी⟫** | ⟪वारिणस्⟫ | ⟪मधुनस्⟫ |
-| **⟪षष्ठी⟫** | ⟪वारिणस्⟫ | ⟪मधुनस्⟫ |
-| **⟪सप्तमी⟫** | ⟪वारिणि⟫ | ⟪मधुनि⟫ |
-| **⟪आमन्त्रितम्⟫** | ⟪वारि⟫:br⟪वारे⟫ | ⟪मधु⟫:br⟪मधो⟫ |
-| **⟪बहुवचनम्⟫** |||
+| ⟪तृतीया⟫ | ⟪वारिणा⟫ | ⟪मधुना⟫ |
+| ⟪चतुर्थी⟫ | ⟪वारिणे⟫ | ⟪मधुने⟫ |
+| ⟪पञ्चमी⟫ | ⟪वारिणस्⟫ | ⟪मधुनस्⟫ |
+| ⟪षष्ठी⟫ | ⟪वारिणस्⟫ | ⟪मधुनस्⟫ |
+| ⟪सप्तमी⟫ | ⟪वारिणि⟫ | ⟪मधुनि⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪वारि⟫:br⟪वारे⟫ | ⟪मधु⟫:br⟪मधो⟫ |
+| ⟪बहुवचनम्⟫ |||
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪वारीणि⟫ | ⟪मधूनि⟫ |
-| **⟪तृतीया⟫** | ⟪वारिभिस्⟫ | ⟪मधुभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪वारिभ्यस्⟫ | ⟪मधुभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪वारिभ्यस्⟫ | ⟪मधुभ्यस्⟫ |
-| **⟪षष्ठी⟫** | ⟪वारीणाम्⟫ | ⟪मधूनाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪वारिषु⟫ | ⟪मधुषु⟫ |
+| ⟪तृतीया⟫ | ⟪वारिभिस्⟫ | ⟪मधुभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪वारिभ्यस्⟫ | ⟪मधुभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪वारिभ्यस्⟫ | ⟪मधुभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪वारीणाम्⟫ | ⟪मधूनाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪वारिषु⟫ | ⟪मधुषु⟫ |
 :::
 ## 52.2. Formarea substantivelor
 
@@ -99,12 +99,12 @@ Fig.: ⟪अन्नमयम्⟫
 **gradul lung (⟪वृद्धि⟫) al primului vocal.**
 
 de ex. ⟪कौन्तेय⟫ m. "Fiul lui ⟪कुन्ती⟫"
-:::: media
+:::
+::: media
 ![](/images/lekt5203.webp)
 Fig.: ⟪भीमः⟫ ⟪कौन्तेयः⟫
 Figură Wayang, Java, Indonezia
 (Sursă imagine: [Detalii](/ro/licenses#lekt5203))
-::::
 :::
 ## 52.3. Formarea adverbelor: sufixul adverbial -śas
 
@@ -122,12 +122,12 @@ Figură Wayang, Java, Indonezia
     ⟪भागशस्⟫ "pe părți, pe rând"  
     ⟪सर्वशस्⟫ "pretutindeni, pe toți"  
     ⟪नित्यशस्⟫ "în mod constant"
-:::: media
+:::
+::: media
 ![](/images/lekt5204.webp)
 Fig.: ⟪अनुक्रमेणैकशः⟫
 Coadă de așteptare în fața templului, Trivandrum = Thiruvananthapuram = തിരുവനന്തപുരം
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5204))
-::::
 :::
 ## 52.4. Compuse verbale care exprimă că ceva devine sau este făcut ceva ce nu era înainte (⟪अभुततद्भावः⟫)
 
@@ -143,7 +143,6 @@ Coadă de așteptare în fața templului, Trivandrum = Thiruvananthapuram = ത�
 **Substantivele și adjectivale pot fi plasate ca preverb pentru a exprima faptul că cineva face o persoană sau o lucrare aceea, sau că o persoană sau o lucrare devine ceea ce este indicat de acel substantiv.**
 
 **Finalul substantivului este tratat astfel:**
-
 
 Finalul substantivului este tratat astfel:
 
@@ -166,12 +165,12 @@ Finalul substantivului este tratat astfel:
 
 *   **alte substantive cu mai multe rădăcini stau în forma rădăcinii pe care o au în Locativ (⟪सप्तमी⟫) Plural. Rădăcina este apoi supusă regulilor obișnuite de Sandhi. Vezi Kielhorn, Gramatică § 489,3.**  
     De exemplu, ⟪तिर्यक्करोति⟫ "el aruncă lateral (⟪तिर्यच्⟫)"
-:::: media
+:::
+::: media
 ![](/images/lekt5209.webp)
 Fig.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
 Arare cu tăiere și ardere, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5209))
-::::
 :::
 ### 52.4.2. Suffixul -sāt
 
@@ -198,7 +197,6 @@ Exemple:
 :::
 ::: grammar-box
 **Manchmal bedeutet das Suffix -sāt, dass eine Person oder Sache**
-
 
 *   **că devine dependent de**
 *   **sau intră în posesia**
@@ -233,9 +231,9 @@ Exemplu:
 
 **Ocazional, din astfel de combinații se poate forma un compus**
 
+:::
 Exemple:
 
-:::
 ::: indent
 ⟪एकैक⟫ 3 "fiecare individual"
 ⟪अल्पाल्प⟫ 3 "foarte mic"
@@ -281,14 +279,18 @@ Celelalte adverbe numerale până la 19 vezi, de exemplu, la Kielhorn, Gramatic�
 ::: grammar-box
 **Cuvintele numerale pentru *19 (⟪एकोनविंशति⟫* "unul mai puțin decât 20") *până la 99* sunt substantive feminine și se declină ca ⟪मति⟫ f. sau substantive de rădăcină pe -t (de exemplu, ⟪त्रिंशत्⟫ f.).**
 
+:::
 Exemple:
 
-:::
 ::: indent
 20 ⟪विंशति⟫ f.:br
 30 ⟪त्रिंशत्⟫ f.
 :::
+
+::: grammar-box
+
 **Cuvintele numerale pentru numere **de la 100 în sus** sunt substantive neutre. Se declină ca ⟪फलम्⟫.**
+:::
 
 Exemple:
 
@@ -360,12 +362,13 @@ Exemplu:
 
 ::: indent
 ⟪चतुर्मुख⟫ m. "cel care are patru fețe" = ⟪चत्वारि⟫ ⟪मुखानि⟫ ⟪यस्य⟫ ⟪सः⟫ (un epitet al lui Brahmā)
-:::: media
+:::
+::: media
 ![](/images/lekt5205.webp)
 Fig.: ⟪चतुर्मुखः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5205))
-::::
 :::
+
 ::: grammar-box
 **⟪तत्पुरुष⟫ cu un număr cardinal în primul component nu pot fi formate arbitrar:**
 
@@ -378,6 +381,7 @@ Fig.: ⟪सप्तर्षयः⟫
 Cele șapte stele = cei șapte cei mai strălucitori steți ai Ursa Majoră (Ursa maior)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5206))
 :::
+
 ::: grammar-box
 **Regula 2: În contrast cu Regula 1, un cuvânt care indică o direcție cardinală sau un număr cardinal poate forma un Tatpuruṣa cu un alt substantiv dacă**
 
@@ -385,12 +389,12 @@ Cele șapte stele = cei șapte cei mai strălucitori steți ai Ursa Majoră (Urs
     Exemple:  
     pūrva + śālā ("sală) » \*pūrvaśālā (nu este permis să fie folosit așa!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "cel care se află în sala de est"  
     ṣaṣ + mātṛ » \*ṣaṇmātṛ (nu este permis!) + Taddhita -a » ⟪षण्मातुर⟫ m. "copilul a șase mame" (= ⟪कार्त्तिकेय⟫)  
-    
+
 2.  compusul astfel format este folosit într-un sens care este de obicei indicat de un sufix Taddhita (în acest caz, trecerea la Bahuvrīhi este fluidă):  
     Exemple:  
     dvi + go » ⟪द्विगु⟫ : nu: "doi boi", ci: "**cumpărat pentru doi boi**"  
     ⟪द्विवर्ष⟫ nu: "doi ani", ci: "**cu vârsta de doi ani**"  
-    
+
 3.  compusul astfel format constituie primul component al unui alt compus  
     Exemplu:  
     pañca + go » pañcagava (nu este permis ca cuvânt independent!) + dhana » ⟪पञ्चगवधन⟫ m. "cel al cărui bogăție constă în cinci boi"
@@ -401,13 +405,13 @@ Fig.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
 Jalakandapuram = ஜலகண்டபுரம்
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5207))
 :::
+
 ::: grammar-box
 **O denumire pentru un număr cardinal (dar nu pentru o direcție cardinală) poate forma un Tatpuruṣa cu un alt substantiv chiar și atunci când compusul astfel format indică un agregat al mai multor lucruri, adună două sau mai multe lucruri într-o singură unitate.**
 
 **Tatpuruṣa, care sunt formate conform acestei reguli, se numesc ***Dvigu (⟪द्विगु⟫)***.**
 
 **Compusele Dvigu, care indică o unitate, sunt de obicei neutre. Dacă al doilea component se termină în -a, atunci sufixul feminin -ī poate fi adăugat. Dacă al doilea component se termină în fem. -ā, atunci acesta este înlocuit fie cu neutru -a, fie cu feminin -ī. Dacă al doilea component se termină în -an, atunci acesta este înlocuit cu -a sau -ī.**
-
 :::
 Exemple:
 
@@ -434,12 +438,12 @@ Exemplu:
 de la:
 
 ⟪खिल⟫ m.: câmp arat, pământ nelucrat
-:::: media
+:::
+::: media
 ![](/images/lekt5210.webp)
 Fig.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5210))
-::::
 :::
 ⟪अन्तर्⟫ Adv.: în interior, în interior ; postpoziție cu Gen. Loc. (⟪षष्टी⟫, ⟪सप्तमी⟫): în interior, în mijloc ; postpoziție cu Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): din ... afară
 
@@ -453,15 +457,15 @@ PPP ⟪विपरीत⟫ 3: greșit, fals
 ⟪त्रि⟫ 3: trei
 
 ::: grammar-box
-| | **Masculin:br⟪पुंस्⟫** | **Neutru:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** |
+| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: |
 | **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪त्रयस्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **2. Acuzativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
-| **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
+| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪त्रीन्⟫ | ⟪त्रीणि⟫ | ⟪तिस्रस्⟫ |
+| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪त्रिभिस्⟫ || ⟪तिसृभिस्⟫ |
 | **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
 | **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪त्रिभ्यस्⟫ || ⟪तिसृभ्यस्⟫ |
 | **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪त्रयाणाम्⟫ || ⟪तिसृणाम्⟫ |
-| **7. Locativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
+| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪त्रिषु⟫ || ⟪तिसृषु⟫ |
 :::
 ⟪निस्⟫ Postpoziție și prefix la substantive și verbe: afară, departe, în afară, în afară, din, departe, fără - de
 
@@ -553,7 +557,6 @@ Absol. -⟪सेव्य⟫
 din acesta:
 
 ⟪सेवा⟫ f.: serviciu, vizită
-
 :::
 ⟪धीर⟫ 3: ferm, steadfast, continuu, persistent
 
@@ -690,7 +693,9 @@ Explicații:
 Fig.: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
 _Ficus religiosa_ L. ⟪बोधगया⟫, circa 1810
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5216))
-:::: indent
+:::
+
+::: indent
 ⟪ततो⟫ ⟪मारबलं⟫ ⟪जित्वा⟫
 ⟪धैर्येण⟫ ⟪च⟫ ⟪शमेन⟫ ⟪च⟫ ⟪।⟫
 ⟪परमार्थं⟫ ⟪विजिज्ञासुः⟫
@@ -740,7 +745,6 @@ _Ficus religiosa_ L. ⟪बोधगया⟫, circa 1810
 ⟪प्राणिनो⟫ ⟪यान्ति⟫ ⟪दुर्गतिम्⟫ ⟪।⟫
 ⟪इमे⟫ ⟪ऽन्ये⟫ ⟪शुभकर्माणः⟫
 ⟪प्रतिष्ठन्ते⟫ ⟪त्रिविष्टपे⟫ ⟪॥१०॥⟫
-::::
 :::
 ## 52.9. Sarcini în timpul vacanțelor semestriale
 
@@ -773,6 +777,7 @@ Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 (Imagine: Payer)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5201))
 :::
+
 ::: deleteme-box
 
 **lekt5202:** ⟪विवाहः⟫, Chennai = சென்னை [Sursa imaginii: swamysk. -- [http://www.flickr.com/photos/swamysk/2317923383/](http://www.flickr.com/photos/swamysk/2317923383/). -- Accesat la 2009-01-15. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribuire, fără utilizare comercială, fără lucrări derivate)]
@@ -808,3 +813,4 @@ Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्�
 **lekt5201:** (Imagine: Payer)
 
 :::
+

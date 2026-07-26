@@ -1,8 +1,8 @@
 ---
-title: 第9课
-subtitle: "Samāhāradvandva 与名词后缀 -ka/-aka"
+title: Lektion 9
+subtitle: "Samāhāradvandva & Nominalsuffixe -ka/-aka"
 lesson_id: 9
-category: "语法"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-05-07
 ---
@@ -16,7 +16,6 @@ last_reconstructed: 2026-05-07
 - 关于职业和社会角色的词汇
 - 古典法论（Dharmaśāstras）中的引文
 :::
----
 
 ## 9.1. Samāhāradvandva（⟪समाहारद्वन्द्व⟫ = “总结性双数”）
 
@@ -27,11 +26,7 @@ last_reconstructed: 2026-05-07
 :::
 除了这个构成 Samāhāradvandvas（复合词）的基本规则外，还有另外一系列规则，可以在帕尼尼 2,4,2-17 或例如 Mr. R. Kale 的《高级梵文语法》（1969 年重印版）§ 189 - 192 a 中找到。在语言发展的不同阶段，并非总是遵守相同的规则！
 
----
-
 ## 9.2. 名词词干的构成
-
----
 
 ### 9.2.1. -ka (taddhita)
 
@@ -51,7 +46,6 @@ last_reconstructed: 2026-05-07
 **kāśi f. "瓦拉纳西" » kāśika 3 ⟪काशिक⟫ "瓦拉纳西出生的，来自瓦拉纳西的"**
 **rūpa n. "形态" » rūpaka 3 ⟪रूपक⟫ "拥有某物形态的"**
 :::
----
 
 ### 9.2.2. -aka (kṛt)，阴性通常为 -ikā
 
@@ -62,14 +56,14 @@ last_reconstructed: 2026-05-07
 :::
 **示例：**
 
-| 词根: br⟪धातु⟫ | + -aka / -ikā (kṛt) | 含义 |
+| Wurzel:br⟪धातु⟫ | + -aka / -ikā (kṛt) | 含义 |
 | :--- | :--- | :--- |
-| **kṛ** :br8 U:br⟪कृ⟫:br“做” | **kāraka** :br(⟪कारक⟫) | “使因者，制造者” |
-| **śru** :br5 P:br⟪श्रु⟫:br“听” | **śrāvaka** m.:br(⟪श्रावक⟫) | “听者，弟子,:br佛教：佛陀的追随者” |
-| **nī** :br1 U:br⟪नी⟫:br“引导” | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | “领袖，主人，丈夫,:br情人 / 爱人，女士” |
-| **yaj** :br1 U:br⟪यज्⟫:br“祭祀” | **yājaka** m.:br(⟪याजक⟫) | “祭祀者，祭司” |
-| **nṛt** :br4 P:br⟪नृत्⟫:br“跳舞” | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | “舞者 / 舞女” |
-| **ji** :br1 P:br⟪जि⟫:br“胜利” | **jayaka** 3:br(⟪जयक⟫) | “胜利的” |
+| **kṛ** :br8 U:br⟪कृ⟫:br"machen" | **kāraka** :br(⟪कारक⟫) | “使因者，制造者” |
+| **śru** :br5 P:br⟪श्रु⟫:br"hören" | **śrāvaka** m.:br(⟪श्रावक⟫) | “听者，弟子,:br佛教：佛陀的追随者” |
+| **nī** :br1 U:br⟪नी⟫:br"führen" | **nāyaka** m.:br(⟪नायक⟫) /:br **nāyikā** f.:br(⟪नायिका⟫) | “领袖，主人，丈夫,:br情人 / 爱人，女士” |
+| **yaj** :br1 U:br⟪यज्⟫:br"opfern" | **yājaka** m.:br(⟪याजक⟫) | “祭祀者，祭司” |
+| **nṛt** :br4 P:br⟪नृत्⟫:br"tanzen" | **nartaka** m.:br(⟪नर्तक⟫) /:br **nartakī** f.:br(⟪नर्तकी⟫) | “舞者 / 舞女” |
+| **ji** :br1 P:br⟪जि⟫:br"siegen" | **jayaka** 3:br(⟪जयक⟫) | “胜利的” |
 
 ::: grammar-box
 **这些构词中的一些具有更狭窄的含义：“以词根所表达的习惯性或义务性或良好地执行者”。**
@@ -78,15 +72,13 @@ last_reconstructed: 2026-05-07
 
 **Beispiele:**
 
-| 词根: br⟪धातु⟩ | + -aka (kṛt) | 含义 |
+| Wurzel:br⟪धातु⟫ | + -aka (kṛt) | 含义 |
 | :--- | :--- | :--- |
-| **kṛṣ** :br6 U:br⟪कृष्⟩:br“耕种” | **kṛṣaka** m.:br(⟪कृषक⟩) | “农夫”:br(弱级!) |
-| **kliś** :br9 P:br⟪क्लिशु⟩:br“折磨” | **kleśaka** m.:br(⟪क्लेशक⟩) | “折磨者” |
-| **khād** :br1 P:br⟪खाद्⟩:br“咀嚼，吃” | **khādaka** m.:br(⟪खादक⟩) | “食者，吃者” |
+| **kṛṣ** :br6 U:br⟪कृष्⟫:br"pflügen" | **kṛṣaka** m.:br(⟪कृषक⟫) | “农夫”:br(弱级!) |
+| **kliś** :br9 P:br⟪क्लिशु⟫:br"quälen" | **kleśaka** m.:br(⟪क्लेशक⟫) | “折磨者” |
+| **khād** :br1 P:br⟪खाद्⟫:br"kauen, essen" | **khādaka** m.:br(⟪खादक⟫) | “食者，吃者” |
 
 此外，后缀 **-aka** 还有一些不太重要的用法。参见 Wackernagel，《古印度语法》，第二卷，§45ff。
-
----
 
 ## 9.3. 词汇表
 
@@ -121,8 +113,6 @@ last_reconstructed: 2026-05-07
 - **rūpa** 中性名词（⟪रूप⟫）：外貌，形状，美好的形态，自然，本质
 - **vāṇijya** 中性名词 / **vāṇijyā** 阴性名词 / **vaṇijyā** 阴性名词（⟪वाणिज्य⟫ / ⟪वाणिज्या⟫ / ⟪वणिज्या⟫）：商业
 - **śuśrūṣā** 阴性名词（⟪शुश्रूषा⟫）：服从，顺从的服务
-
----
 
 ## 9.4. 练习
 

@@ -1,10 +1,10 @@
 ---
-title: 14. lecke
-subtitle: "A névmások által jelölt dolgok közötti viszony kifejezése: a birtokos eset (ṣaṣṭhī f. = ⟪षष्टी⟫ = hatodik esetrag)"
+title: Lektion 14
+subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabilis
+category: "Grammatik"
+status: stable
 ---
 
 # 14. lecke
@@ -37,7 +37,7 @@ A PPP-k esetén a birtokos eset az eszközhatározó (tṛtīyā) helyett állha
 Pāṇini 2.3.67 szabálya szerint a PPP esetén a birtokos eset áll, ha az igeképző jelen időt jelent (lásd fent), az eszközhatározó pedig, ha múlt időt fejez ki:
 
 > ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "A Rāma által kívánt gyümölcs = Az a gyümölcs, amelyet Rāma jelenleg kíván"
->
+> 
 > ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Az a gyümölcs, amelyet Rāma kívánt"
 
 Természetesen egy PPP semleges nemű egyes számú alaknál, amelyet névmási igeképzőként – azaz főnévként – használnak, a birtokos eset áll.
@@ -57,7 +57,7 @@ Mássalhangzó után a rendszeres birtokos eset végződése:
 :::
 ::: center
 
-| Névstammbázis | Gyenge tő | birtokos eset (genitivus) egyes szám | birtokos eset (genitivus) többes szám |
+| Névstammbázis | Schwacher Tő | birtokos eset (genitivus) egyes szám | birtokos eset (genitivus) többes szám |
 | :--- | :--- | :--- | :--- |
 | **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
 | **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
@@ -105,8 +105,8 @@ A genitivus singularis magánhangzóval végződő tövek esetén szabálytalanu
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(vagyis, akár kavi, akár devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(vagyis, akár paśu, akár több szótagos nőnemű szavak -ū végződésével) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
 **Kérdő- és mutató névmások:**
@@ -162,11 +162,11 @@ Továbbiak később.
 * **loka m.** (⟪लोक⟫) : világ; Sing. és Plur.: az emberek, a népek, a közönség
 * **jala n.** (⟪जल⟫) : víz
 * **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : születni, keletkezni, fellépni
-* **jan-a m.** (⟪जन⟫) : teremtmény, ember, emberek
+  * **jan-a m.** (⟪जन⟫) : teremtmény, ember, emberek
 * **vac 2 P** (vakti, nincs 3. plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : mondani, beszélni (dvitīyā-ban)
-* **uk-ti f.** (⟪उक्ति⟫) : kijelentés, szó
-* **vac-ana n.** (⟪वचन⟫) : a beszéd, a szó
-* **vāk-ya n.** (⟪वाक्य⟫) : szó, beszéd
+  * **uk-ti f.** (⟪उक्ति⟫) : kijelentés, szó
+  * **vac-ana n.** (⟪वचन⟫) : a beszéd, a szó
+  * **vāk-ya n.** (⟪वाक्य⟫) : szó, beszéd
 
 ## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = közmondások
 

@@ -1,10 +1,10 @@
 ---
-title: 50. lecke
-subtitle: "Főnévképzés: szabályos fokozás"
+title: Lektion 50
+subtitle: "Nominalbildung: regelmässige Steigerung"
 lesson_id: 50
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 50. lecke

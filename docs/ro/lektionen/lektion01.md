@@ -1,25 +1,26 @@
 ---
-title: Lecția 1
-subtitle: "Sunele sanscritului"
+title: Lektion 1
+subtitle: "Die Laute des Sanskrit"
 lesson_id: 1
-category: "Gramatică"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
 # Lecția 1
 
-
 ::: center
 ⟪गणेशपूजनम्⟫
 gaṇeśapūjanam
 Cultul lui Gaṇeśa
-:::: media
+:::
+
+::: media
 ![](/images/lekt0102.webp)
 Ilustr.: Gaṇeśa, Adamspeak, Sri Lanka
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0102))
-::::
 :::
+
 ::: center
 ⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫
 ⟪सततं⟫ ⟪मोदकप्रिय⟫ |
@@ -36,18 +37,19 @@ Fie întotdeauna onorat!
 Dumnezeule, fă ca toate întreprinderile mele
 Să fie libere de obstacole!
 :::
----
 
 ::: center
 ⟪मङ्गलचरणम्⟫
 maṅgalacaraṇam
 "Început auspicios"
-:::: media
+:::
+
+::: media
 ![](/images/lekt0101.webp)
 Ilustr.: Ardhanarīśvara
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0101))
-::::
 :::
+
 ::: center
 ⟪वागर्थाविव⟫ ⟪संपृक्तौ⟫
 ⟪वागर्थप्रतिपत्तये⟫ |
@@ -68,14 +70,12 @@ Care sunt atât de strâns uniți
 Ca cuvântul și sensul pentru înțelegerea
 Semnificației cuvântului.
 :::
----
 
 La început, un curiosum:
 
-::: note-box
-„Când William Jones [1746–1794] și Henry Thomas Colebrooke (1765—1857) au studiat pentru prima dată în mod riguros sanscrita, au tradus parțial și au constatat că aceasta prezintă o literatură bogată și o rudenie considerabilă cu limbile clasice, ei s-au lovit de o rezistență semnificativă. Deoarece această relație intimă a sanscritei cu limbile europene, atât de îndepărtate geografic, nu putea fi compatibilă cu vechile concepții, care fie derivau toate limbile din ebraică, fie le considera în mare parte izolate unele de altele, celebrul filolog Dugald Steward (1753—1828) a ales cea mai simplă ieșire, declarând întreaga istorie și limba sanscrită o minciună. El a scris un esai, în care a încercat să demonstreze că aceasta a fost creată de brahmani vicleani, după modelul grecesc și latin, iar atât limba, cât și literatura sunt o falsificare. Această opinie a fost dezvoltată ulterior, în anul 1840, de către profesorul din Dublin, Charles William Wall, pe larg (Göttingische gelehrte Anzeigen 1842, p. 1888).”
-:::
-> [Sursă: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- München : Langen. -- Vol. 2. -- 1923. -- p. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Accesat la 2010-01-10]
+>„Când William Jones [1746–1794] și Henry Thomas Colebrooke (1765—1857) au studiat în mod temeinic pentru prima dată limba sanscrită, au tradus parțial din ea și au constatat că prezintă o literatură bogată și o afinitate considerabilă cu limbile clasice, ei s-au lovit de o rezistență semnificativă. Deoarece această legătură intimă a sanscritei cu limbile europene, situate la distanțe geografice atât de mari, nu putea fi compatibilă cu vechile concepții care fie deduceau toate limbile din ebraică, fie le considera în mare parte izolate una de cealaltă, filologul celebru Dugald Steward (1753—1828) a adoptat cea mai simplă soluție, declarând întreaga istorie legată de limba sanscrită drept o minciună. El a scris un esai în care a încercat să demonstreze că aceasta ar fi fost forjată de brahmani escroci după modelul grecesc și latin, iar atât limba, cât și literatura fiind o falsificare. Această opinie a fost dezvoltată în detaliu încă din anul 1840 de către profesorul din Dublin, Charles William Wall (Göttingische gelehrte Anzeigen 1842 p. 1888).“
+>
+>[Sursă: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- München : Langen. -- Vol. 2. -- 1923. -- p. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Accesat la 2010-01-10]
 
 ## 1.1. Literatur pentru începători în studii indiene
 
@@ -84,13 +84,15 @@ La început, un curiosum:
 Fig.: Coperta unei ediții de buzunar
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0103))
 :::
-> **Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Partea: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- De atunci, multe ediții, inclusiv ediții de buzunar. -- **Citate obligatorii.** O bună prezentare generală a vieții, istoriei și culturii din India preislamică. Prezentare generală a diverselor domenii ale indologiei clasice.
+
+>**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Partea: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- De atunci, multe ediții, inclusiv ediții de buzunar. -- **Citate obligatorii.** O bună prezentare generală a vieții, istoriei și culturii din India preislamică. Prezentare generală a diverselor domenii ale indologiei clasice.
 
 ::: media
 ![](/images/lekt0104.webp)
 Fig.: Pagina de titlu
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0104))
 :::
+
 **Cea mai bună gramatică sistematică**
 
 > **Kielhorn**, Franz \&lt;1840-1908\&gt;: Grammatica limbii sanscrite / Tradus din engleză de W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Titlu original: A grammar of the Sanscrit language
@@ -100,6 +102,7 @@ Fig.: Pagina de titlu
 Fig.: Coperta
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0105))
 :::
+
 **O bună gramatică sistematică, bazată pe gramaticienii indigeni și, în același timp, o introducere în Pāṇini:**
 
 > **Kunnappally, John:** Prakriyā bhāshyam : Gramatică sanscrită / Scris inițial în malayalam. Tradus în engleză de K.V.R. Pai. -- Parathode : Autoeditare, 1983. -- 818 p. ; 23 cm.
@@ -109,6 +112,7 @@ Fig.: Coperta
 Fig.: Coperta
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0107))
 :::
+
 O prezentare bună și concisă a terminologiei lingvistice europene se găsește în:
 
 > **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. Editat de Elmar Seebold. -- A 24-a, rev. și ext. ed. -- Berlin [etc.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Broșură. -- P. XIII - XLVII.
@@ -118,11 +122,10 @@ O prezentare bună și concisă a terminologiei lingvistice europene se găseșt
 Fig.: Coperta
 (Sursa imaginii: [Detalii](/ro/licenses#lekt0108))
 :::
+
 Pentru cei curioși, pentru consultare:
 
 > **Lexikon der Sprachwissenschaft** / Editat de Hadumod Bußmann. -- A 4-a, rev. și completată bibliografic. ed. / cu colaborarea lui Hartmut Lauffer. -- Stuttgart : Kröner, 2008. -- 816 p. ; 22 cm. -- ISBN 978-3-520-45204-7
-
----
 
 ## 1.2. Sunetele sanscrite
 
@@ -134,21 +137,21 @@ Sunetele sanscrite conform clasificării tradiționale indiene și transcrierea 
 :::
 Dicționarele moderne de sanscrită sunt aranjate în ordinea acestei clasificări. Această clasificare și ordinea sunetelor sunt esențiale pentru înțelegerea gramaticii sanscrite și, prin urmare, trebuie învățate pe de rost:
 
-::: tip Clasificare
-
+::: note-box
+Clasificare
 - **vocale simple** (samānākṣara -- ⟪समानाक्षर⟫):
-  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
-- **diftonguri** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
-  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
+⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
+- **diftongi** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
+⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
 - **consoane** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
-  ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
-  ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
-  ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
-  ⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
-  ⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
-  ⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
-  ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
-  ⟪ह⟫ ha
+⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
+⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
+⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
+⟪त⟫ ta, ⟪थ⟫ tha, ⟪द⟫ da, ⟪ध⟫ dha, ⟪न⟫ na
+⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
+⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
+⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
+⟪ह⟫ ha
 :::
 ### 1.2.1. Despre pronunția unor sunete individuale
 
@@ -166,8 +169,6 @@ Dicționarele moderne de sanscrită sunt aranjate în ordinea acestei clasifică
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. În fața sunetelor șuierătoare, h, l: nazalizarea vocalicului. La final de cuvânt = m. În interiorul cuvântului, în fața consoanelor: nazalul corespunzător consoanei următoare: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::
 Cea mai bună pronunție se obține atunci când se citesc propozițiile, versurile sau cuvintele destul de lent și monotone, cu o atenție precisă la lungimea vocalicelor.
-
----
 
 ## 1.3. Exercițiu
 

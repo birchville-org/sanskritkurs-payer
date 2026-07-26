@@ -1,9 +1,9 @@
 ---
-title: Lecția 50
-subtitle: "Formarea substantivelor: comparație regulată"
+title: Lektion 50
+subtitle: "Nominalbildung: regelmässige Steigerung"
 lesson_id: 50
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -17,13 +17,14 @@ status: stable
 * **⟪तम⟫ (fem.: ⟪तमा⟫) în „superlativ”**
 
 **Aceste sufixe se adaugă la tema masculină a adjectivelor. La substantivele cu alternanță de temă, se adaugă la tema slabă, care are forma ca înainte de terminația -su a locativului (⟪पञ्चमी⟫) plural.**
-:::: media
+:::
+::: media
 ![](/images/lekt5007.webp)
 Fig.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
 ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = Muntele Everest
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5007))
-::::
 :::
+
 ::: grammar-box
 **Semnificație:**
 
@@ -75,12 +76,12 @@ Exemple:
 
 ::: indent
 ex. ⟪सुतराम्⟫ (la ⟪सु⟫) „în mod mai bun” (adverbial)
-:::: media
+:::
+::: media
 ![](/images/lekt5006.webp)
 Fig.: ⟪का⟫ ⟪पचतितमाम्⟫
 Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5006))
-::::
 :::
 ## 50.2. Listă de cuvinte
 
@@ -135,12 +136,12 @@ PPP ⟪वृष्ट⟫
 Inf. ⟪वर्षितुम्⟫
 Absol. ⟪वर्षित्वा⟫ ⟪।⟫ ⟪वृष्ट्वा⟫
 Absol.-⟪वृष्य⟫
-:::: media
+:::
+::: media
 ![](/images/lekt5002.jpg)
 Fig.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 Sosirea monsunului, Bangalore  ಬೆಂಗಳೂರು
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5002))
-::::
 :::
 ⟪संयक्⟫ Adv.: corect, adevărat, în mod cuvenit ; desigur, complet
 
@@ -157,15 +158,15 @@ Declinație ca ⟪यद्⟫ (excepție: Nom.Akk.sg.Neutrum)
 
 ::: grammar-box
 | | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
-| | **Masculin:br⟪पुंस्⟫** | **Neutru:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** | **Masculin:br⟪पुंस्⟫** | **Neutru:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** |
+| | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | **Maskulinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1. Nominativ:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Acuzativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
+| **2. Akkusativ:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
 | **4. Dativ:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **5. Ablativ:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **6. Genetiv:br⟪६⟫. ⟪षष्ठी⟫** | ⟪सर्वस्य⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेषाम्⟫ || ⟪सर्वासाम्⟫ |
-| **7. Locativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
+| **7. Lokativ:br⟪७⟫. ⟪सप्तमी⟫** | ⟪सर्वस्मिन्⟫ || ⟪सर्वस्याम्⟫ | ⟪सर्वेषु⟫ || ⟪सर्वासु⟫ |
 :::
 ⟪वै⟫ : particulă, care subliniază cuvântul anterior: cu adevărat, cu siguranță, dar
 
@@ -207,12 +208,12 @@ A) În recapitularea declinării: următorul vers conține toate formele de decl
 ⟪गुरुणैव⟫ ⟪सहास्मि⟫ ⟪नमो⟫ ⟪गुरवे⟫ ⟪।⟫
 ⟪न⟫ ⟪गुरोः⟫ ⟪परमं⟫ ⟪शिशुरस्मि⟫ ⟪गुरोर्⟫
 ⟪मतिरस्ति⟫ ⟪गुरौ⟫ ⟪मम⟫ ⟪पाहि⟫ ⟪गुरो⟫ ⟪॥⟫
-:::: media
+:::
+::: media
 ![](/images/lekt5008.webp)
 Fig.: ⟪गुरुमेव⟫ ⟪भजे⟫
 Ganeshpuri, la 80 km distanță de Mumbai (⟪मुंबई⟫)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5008))
-::::
 :::
 B) Traduceți:
 
@@ -309,3 +310,4 @@ Explicații:
 **lekt5008:** Ganeshpuri, la 80 km de Mumbai (⟪मुंबई⟫) distanță [Sursă imagine: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- Accesat la 2009-01-13. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, non-comercial, share alike)]
 
 :::
+

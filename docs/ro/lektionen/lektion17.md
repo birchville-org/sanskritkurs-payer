@@ -1,9 +1,9 @@
 ---
-title: Lecția 17
-subtitle: "A doua clasă de prezintă (⟪अदादि⟫ = ⟪अद्⟫ etc.)"
+title: Lektion 17
+subtitle: "Zweite Präsensklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)"
 lesson_id: 17
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -129,7 +129,7 @@ Exemplu:
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prez. P | ⟪स्तौति⟫ (stau-ti):brsau: ⟪स्तवीति⟫ |
+| 3\. sg. Prez. P | ⟪स्तौति⟫ (stau-ti):broder: ⟪स्तवीति⟫ |
 | 3\. pl. Prez. P | ⟪स्तुवन्ति⟫ (stuv-anti) |
 | 3\. sg. Prez. Ā | ⟪स्तुते⟫ (stu-te) |
 | 3\. pl. Prez. Ā | ⟪स्तुवते⟫ (stuv-ate) |
@@ -230,7 +230,7 @@ De asemenea, ⟪स्तु⟫ 2 U "a lăuda" are, alături de formele indicate
 
 | | |
 | :--- | :--- |
-| 3\. sg. Prezent P | ⟪स्तवीति⟫ (« sto + ī + ti):brsau: ⟪स्तौति⟫ |
+| 3\. sg. Prezent P | ⟪स्तवीति⟫ (« sto + ī + ti):broder: ⟪स्तौति⟫ |
 
 :::
 ## 17.6. Listă de cuvinte
@@ -241,12 +241,13 @@ de acolo:
 
 ::: indent
 ⟪घात⟫ m.: ucidere
-:::: media
+:::
+
+::: media
 ![](/images/lekt1703.webp)
 Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1703))
-::::
 :::
 ⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : a ședea
 
@@ -254,11 +255,12 @@ de acolo:
 
 ::: indent
 ⟪आसन⟫ n.: șederea, locul de ședere ; de asemenea: pozițiile de ședere ale yoghinului
-:::: media
+:::
+
+::: media
 ![](/images/lekt1701.webp)
 Fig.: ⟪योगासनम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt1701))
-::::
 :::
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : a plânge, a urla
 
@@ -285,6 +287,7 @@ de acolo:
 
 ⟪दिष्ट्या⟫ Instr.: (literal: printr-o dispoziție fericită) O dispoziție fericită (exclamație de bucurie și binecuvântare)
 :::
+
 ## 17.7. Exercițiul 1
 
 A) Introduceți verbul în propozițiile de mai jos și traduceți:

@@ -1,9 +1,9 @@
 ---
-title: 47. lecke
-subtitle: "Az imperativus (⟪लोट्⟫)"
+title: Lektion 47
+subtitle: "Der Imperativ (⟪लोट्⟫)"
 lesson_id: 47
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
+category: "Grammatik"
 status: stable
 ---
 
@@ -71,9 +71,9 @@ Az imperatívust a jelen idő töve képezi.
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **Végződés** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Első személy** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
-| **Második személy** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
-| **Harmadik személy** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
+| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-āma | \-ai | \-āmahai |
+| **2. Person** :br⟪मध्यमः⟫ | \-ø / \-tāt¹ | \-ta | \-sva | \-dhvam |
+| **3. Person** :br⟪प्रथमः⟫ | \-tu / \-tāt¹ | \-ntu | \-tām | \-ntām |
 :::
 Megjegyzés: ¹ A második és harmadik személy egyes számának végződéseit -tát helyettesítheti, ha áldást kívánunk kifejezni:
 
@@ -88,9 +88,9 @@ Megjegyzés: ¹ A második és harmadik személy egyes számának végződéseit
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪भू⟫ 1P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Első személy** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \&lt;⟪भवै⟫\&gt; | \&lt;⟪भवामहै⟫\&gt; |
-| **Második személy** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \&lt;⟪भवस्व⟫\&gt; | \&lt;⟪भवध्वम्⟫\&gt; |
-| **Harmadik személy** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \&lt;⟪भ्वताम्⟫\&gt; | \&lt;⟪भवन्ताम्⟫\&gt; |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪भवानि⟫ | ⟪भवाम⟫ | \<⟪भवै⟫\> | \<⟪भवामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \<⟪भवस्व⟫\> | \<⟪भवध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \<⟪भ्वताम्⟫\> | \<⟪भवन्ताम्⟫\> |
 :::
 ### 47.2.3. Hatodik jelen idő osztály (⟪तुदादि⟫)
 
@@ -98,9 +98,9 @@ Megjegyzés: ¹ A második és harmadik személy egyes számának végződéseit
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪विश्⟫ 6P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Első személy** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \&lt;⟪विशै⟫\&gt;:br(viś-a + ai) | \&lt;⟪विशामहै⟫\&gt; |
-| **Második személy** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \&lt;⟪विशस्व⟫\&gt; | \&lt;⟪विशध्वम्⟫\&gt; |
-| **Harmadik személy** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \&lt;⟪विशताम्⟫\&gt; | \&lt;⟪विशन्ताम्⟫\&gt; |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪विशानि⟫ | ⟪विशाम⟫ | \<⟪विशै⟫\>:br(viś-a + ai) | \<⟪विशामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪विश⟫ | ⟪विशत⟫ | \<⟪विशस्व⟫\> | \<⟪विशध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪विशतु⟫ | ⟪विशन्तु⟫ | \<⟪विशताम्⟫\> | \<⟪विशन्ताम्⟫\> |
 :::
 ::: media
 ![](/images/lekt4702.webp)
@@ -114,9 +114,9 @@ Hanuman Templom, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, �
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **⟪नृत्⟫ 4P** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \&lt;⟪नृत्यै⟫\&gt; | \&lt;⟪नृत्यामहै⟫\&gt; |
-| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \&lt;⟪नृत्यस्व⟫\&gt; | \&lt;⟪नृत्यध्वम्⟫\&gt; |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \&lt;⟪नृत्यताम्⟫\&gt; | \&lt;⟪नृत्यन्ताम्⟫\&gt; |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪नृत्यानि⟫ | ⟪नृत्याम⟫ | \<⟪नृत्यै⟫\> | \<⟪नृत्यामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪नृत्य⟫ | ⟪नृत्यत⟫ | \<⟪नृत्यस्व⟫\> | \<⟪नृत्यध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪नृत्यतु⟫ | ⟪नृत्यन्तु⟫ | \<⟪नृत्यताम्⟫\> | \<⟪नृत्यन्ताम्⟫\> |
 :::
 ::: media
 ![](/images/lekt4701.webp)
@@ -143,9 +143,9 @@ Hanuman Templom, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, �
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1. személy** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
-| **2. személy** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
-| **3. személy** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪ईक्ष्यै⟫:br(īks-ya + ai) | ⟪ईक्ष्यामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪ईक्ष्यस्व⟫ | ⟪ईक्ष्यध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪ईक्ष्यताम्⟫ | ⟪ईक्ष्यन्ताम्⟫ |
 :::
 ## 47.3. Gyakorlat
 
@@ -189,29 +189,29 @@ B.) Fordítsa szanszktra (használja az igemódot):
 
 2\. Ő elégedett legyen.
 
-3. Kiáltani fogunk.
+Kiáltani fogunk.
 
-4. Meghajolni akarok előtted (⟪चतुर्थ्या⟫).
+Meghajolni akarok előtted (⟪चतुर्थ्या⟫).
 
-5. Ezt a cselekedetet el kell végezni.
+Ezt a cselekedetet el kell végezni.
 
-6. Aludjanak (passzív szerkezet).
+Aludjanak (passzív szerkezet).
 
-7. Fiam, törekedj a gazdagságra!
+Fiam, törekedj a gazdagságra!
 
-8. Kezdje el a tanulást!
+Kezdje el a tanulást!
 
-9. Adjon (⟪प्र⟫-⟪यम्⟫) az őseinek rizsgombócokat!
+Adjon (⟪प्र⟫-⟪यम्⟫) az őseinek rizsgombócokat!
 
-10. Örüljenek nekik!
+Örüljenek nekik!
 
-11. Le akarok lenézni a világra.
+Le akarok lenézni a világra.
 
-12. Elindulunk Benaresba (⟪पद्⟫).
+Elindulunk Benaresba (⟪पद्⟫).
 
-13. Ők (többes szám) áldozati urakként isteneket áldozattal tiszteljenek.
+Ők (többes szám) áldozati urakként isteneket áldozattal tiszteljenek.
 
-14. Énekelj dicséretet!
+Énekelj dicséretet!
 
 [L1] 15. Szüljetek nekem fiakat!
 
@@ -237,21 +237,21 @@ B.) Fordítsa szanszktra (használja az igemódot):
 
 26\. (Ők, többes szám) vándoroljanak.
 
-27. Itassátok magatokat!
+Itassátok magatokat!
 
-28. A lónak kell húznia a terhet.
+A lónak kell húznia a terhet.
 
-29. Rendszerezzük a világokat!
+Rendszerezzük a világokat!
 
-30. Iddad az italt!
+Iddad az italt!
 
-31. Gondolj!
+Gondolj!
 
-32. Őket (többes szám) legyőzendők!
+Őket (többes szám) legyőzendők!
 
-33. Minket vezessenél te.
+Minket vezessenél te.
 
-34. Legyen áldásos! (Áldáskívánat)
+Legyen áldásos! (Áldáskívánat)
 
 ::: deleteme-box
 

@@ -1,10 +1,10 @@
 ---
-title: 51. lecke
-subtitle: "⟪उपपद⟫-összetétek"
+title: Lektion 51
+subtitle: "⟪उपपद⟫-Komposita"
 lesson_id: 51
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabilisált
+category: "Grammatik"
+status: stable
 ---
 
 # 51. lecke
@@ -120,7 +120,7 @@ Példák:
 ⟪शत्रुजित्⟫ 3 "Ellenségeket legyőzve"
 
 ::: indent
-Nem:
+Nemek:
 
 :::
 ::: indent
@@ -177,7 +177,7 @@ Példák:
 ⟪सत्यवाच्⟫ 3 „az igazságot beszélve“ (⟪बहुव्रीहि⟫)
 
 ::: indent
-Nem:
+Nemek:
 
 :::
 ::: indent
@@ -272,7 +272,7 @@ Példák:
 ::: indent
 ⟪गुह्⟫ 3 "elfedező"
 
-Nem:
+[Nem]: [Női]:
 
 :::
 ::: indent
@@ -291,7 +291,7 @@ Lokativ ⟪घुट्सु⟫
 :::
 ⟪द्रुह्⟫ "károsító, gyűlölő" (választható -ḍh/-gh)
 
-Nem:
+[Nem]: [Női]:
 
 ::: indent
 Esetek:

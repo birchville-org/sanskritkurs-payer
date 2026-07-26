@@ -1,9 +1,9 @@
 ---
-title: 6. lecke
-subtitle: "A mondat szerkezete (alany és igealak)"
+title: Lektion 6
+subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
-category: "Nyelvtan"
+category: "Grammatik"
 status: stable
 ---
 
@@ -36,9 +36,9 @@ Egy véges (rögzült) igealak, azaz személyes végződésű igemondat a szansz
 1. **Jelentés** (**artha m. ⟪अर्थ⟫)
 2. **Személy** és **szám** (vacana n. = ⟪वचन⟫) (én, te, ő \&lt;ő, az\&gt;, mi ketten, ti ketten, ők ketten, mi, ti, ők)
 3. Viselkedésmód (genus verbi):
-1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) („másra utaló szóalak”): Aktívum. pl. **yajati** = ⟪यजति⟫ = „Ő áldozattal tisztel” (nevezetesen a pap, aki másokért végzi az áldozatot)
-2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) („önmagára utaló szóalak”): Medium. pl. **yajate** = ⟪यजते⟫ = „Ő áldozattal tisztel saját érdeke érdekében” (nevezetesen az áldozó úr, aki önmagáért és családjáért áldoz)
-3. **Passzív** (**karman n. = ⟪कर्मन्⟫). pl. **ijyate** = ⟪इज्यते⟫ = „Áldozattal tisztelik”
+   1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) („másra utaló szóalak”): Aktívum. pl. **yajati** = ⟪यजति⟫ = „Ő áldozattal tisztel” (nevezetesen a pap, aki másokért végzi az áldozatot)
+   2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) („önmagára utaló szóalak”): Medium. pl. **yajate** = ⟪यजते⟫ = „Ő áldozattal tisztel saját érdeke érdekében” (nevezetesen az áldozó úr, aki önmagáért és családjáért áldoz)
+   3. **Passzív** (**karman n. = ⟪कर्मन्⟫). pl. **ijyate** = ⟪इज्यते⟫ = „Áldozattal tisztelik”
 
 Sok esetben az Ātmanepada jelentésárnyalata már nem ismerhető fel; sőt, még a műköltők is gyakran használják az Ātmanepadát jelentéskülönbség nélkül a Parasmaipadához képest. Ugyanakkor fordításkor mindig pontosan figyelembe kell venni, hogy esetleg ilyen jelentésárnyalat áll-e fenn.
 
@@ -47,16 +47,16 @@ Azokat az igéket, amelyeket a Parasmaipadában és az Ātmanepadában (a specif
 Egyes igéket vagy csak a Parasmaipadában, vagy csak az Ātmanepadában használnak. Ezeknél az igéknél az Ātmanepada, illetve a Parasmaipada nem rendelkezik specifikus jelentéssel. Például: **manyate** = ⟪मन्यते⟫ = "ő (ő, ő) gondol" (specifikus Ātmanepada-jelentés nélkül).
 
 4. **Kifejezésmód** (Módus):
-1. **Indikatívus**: Állító mód
-2. **Kívánó mód (optativus)**: Kívánság és lehetőség kifejezése
-3. **Felszólító mód**: Parancsoló mód
+   1. **Indikatívus**: Állító mód
+   2. **Kívánó mód (optativus)**: Kívánság és lehetőség kifejezése
+   3. **Felszólító mód**: Parancsoló mód
 5. **Idő** (Tempus):
-1. **Jelen idő**: Jelenidő
-2. **Múlt idő (imperfektum)**
-3. **Perfektum**
-4. **Aorisztus**
-5. **Jövő idő**: Jövendőidő
-6. **Kondicionális**
+   1. **Jelen idő**: Jelenidő
+   2. **Múlt idő (imperfektum)**
+   3. **Perfektum**
+   4. **Aorisztus**
+   5. **Jövő idő**: Jövendőidő
+   6. **Kondicionális**
 
 Az időket igealakok (törzsek) alkotják: jelen idő törzs, aorist törzs, perfekta törzs, jövő idő törzs.
 
@@ -85,10 +85,10 @@ Példák:
 :::
 Példa **yaj** = ⟪यज्⟫ = "egy áldozattal tisztelni", "áldozni":
 - Jelen idejű tő: **yaja** = ⟪यज⟫
-- 3. sg. P. **yajati** = ⟪यजति⟫
-- 3. pl. P. **yajanti** = ⟪यजन्ति⟫
-- 3. sg. Ā. **yajate** = ⟪यजते⟫
-- 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
+  - 3. sg. P. **yajati** = ⟪यजति⟫
+  - 3. pl. P. **yajanti** = ⟪यजन्ति⟫
+  - 3. sg. Ā. **yajate** = ⟪यजते⟫
+  - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
 ## 6.5. A jelen időstémaképzés
 
@@ -97,7 +97,7 @@ Példa **yaj** = ⟪यज्⟫ = "egy áldozattal tisztelni", "áldozni":
 ::: grammar-box
 **Jelen időstéma = gyökér erős fokozatban (ahol felsorolják) + a-**
 
-| Tő (dhātu m.):br⟪धातु⟫ | Jelen időstéma |
+| Tő (dhātu m.):br⟪धातु⟫ | Jelen idejű tő |
 | :--- | :--- |
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
@@ -105,14 +105,14 @@ Példa **yaj** = ⟪यज्⟫ = "egy áldozattal tisztelni", "áldozni":
 ### 6.5.2. Az első jelen időosztályba tartozó igék (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = „bhū stb.”)
 
 ::: grammar-box
-| Jelen időstéma = Tő erős fokozatban (ritkán nyújtott fok) + a- ||||
-| Tő (dhātu m.):br⟪धातु⟫ | Erős fokozat | Nyújtott fok a- előtt | Jelen időstéma |
+| Jelen idejű tő = Tő in Hochstufe (selten Dehnstufe) + a- ||||
+| Tő (dhātu m.):br⟪धातु⟫ | Erős fokozat | Nyújtott fok a- előtt | Jelen idejű tő |
 | :--- | :--- | :--- | :--- |
 | **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
 | **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
 | **smṛ** :br⟪स्मृ⟫ | **smar** :br⟪स्मर्⟫ | **smar** :br⟪स्मर्⟫ | **smara-** :br⟪स्मर⟫- |
 | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaj** :br⟪यज्⟫ | **yaja-** :br⟪यज⟫- |
-| Ha a magánhangzó hosszú zárt szótagban áll, azaz rövid magánhangzó két vagy több mássalhangzó előtt, akkor a nyújtott fok képzése elmarad ||||
+| Steht der Vokal in langer geschlossener Silbe, d.h. Kurzvokal vor zwei oder mehr Konsonanten, unterbleibt die Képzés der Hochstufe ||||
 | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **nind** :br⟪निन्द्⟫ | **ninda-** :br⟪निन्द⟫- |
 :::
 #### 6.5.2.1. Szóvégi sandhi az e és o hangok között
@@ -121,25 +121,25 @@ Magánhangzó előtt a szó belsejében az **e** helyett **ay**, az **o** helyet
 #### 6.5.2.2. Hangfokozás (Ablaut)
 
 ::: grammar-box
-| Mély fokozat:brgyengült alak | Magas fokozat:brteljes alak:brGuṇa m.:br⟪गुण⟫ | Hosszabbított fokozat:brVṛddhi f.:br⟪वृद्धि⟫ |
+| Mély fokozat:brgyengült alak | Hochstufe:brVollstufe:brGuṇa m.:br⟪गुण⟫ | Dehnstufe:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
-**ø** | **a** | **ā** |
-**i / ī** | **e** | **ai** |
-**u / ū** | **o** | **au** |
-**ṛ / ṝ** | **ar** | **ār** |
-**ḷ** | **al** | **āl** |
+| **ø** | **a** | **ā** |
+| **i / ī** | **e** | **ai** |
+| **u / ū** | **o** | **au** |
+| **ṛ / ṝ** | **ar** | **ār** |
+| **ḷ** | **al** | **āl** |
 :::
 ### 6.5.3. A negyedik jelen időosztályba tartozó igék (divādi = ⟪दिवादि⟫ = „div stb.”)
 
 ::: grammar-box
 **Jelen időtő = gyökér mély fokozatban (ahol felsorolják) + ya-**
 
-| Tő (dhātu m.):br⟪धातु⟫ | Jelen időtő |
+| Tő (dhātu m.):br⟪धातु⟫ | Jelen idejű tő |
 | :--- | :--- |
-**nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
-**muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
-**yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
-**man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
+| **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
+| **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
+| **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
+| **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
 ### 6.5.4. Témavokál, tematikus jelen időosztályok
 
@@ -183,13 +183,13 @@ A szanszkertben az igéket a **tő-alakban** adják meg. A tő után álló szá
 
 **A) Alkossön mondatokat a zárójelben megadott tövekkel az igék behelyettesítésével:**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
-⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫
+   ⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫
 2. devas ... (nṛt, yudh, smṛ, sṛj)
-⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫
+   ⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫
 3. kavis ... (man, smṛ, viś)
-⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
+   ⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
 4. dhenus ... (viś, bhū)
-⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
+   ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
 
 **B) Alkossák meg az A gyakorlatban képzett mondatokat többes számban.**
 
@@ -219,27 +219,27 @@ A szanszkertben az igéket a **tő-alakban** adják meg. A tő után álló szá
 
 **A) Beillesztési gyakorlat: Képezzen kérdéseket, amelyekre a következő beillesztési gyakorlatok után képzett mondatok válaszai vannak:**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)
-⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫
+   ⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫
 2. (dvija, sādhu, kavi) ... brāhmaṇaḥ
-⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫
+   ⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫
 3. (śruti) ... vedaḥ
-⟪श्रुति⟫ ... ⟪वेदः⟫
+   ⟪श्रुति⟫ ... ⟪वेदः⟫
 4. (veda) ... śrutiḥ
-⟪वेद⟫ ... ⟪श्रुतिः⟫
+   ⟪वेद⟫ ... ⟪श्रुतिः⟫
 5. (brāhmaṇa, guru) ... yajanti
-⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫
+   ⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫
 6. (devī) ... indrāṇī
-⟪देवी⟫ ... ⟪इन्द्राणी⟫
+   ⟪देवी⟫ ... ⟪इन्द्राणी⟫
 7. (śūdra, śūdrā, devī) ... nṛtyanti
-⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫
+   ⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫
 8. (kṣatriya) ... yudhyante
-⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫
+   ⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
-⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
+   ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
 11. (sādhu) ... rāmaḥ
-⟪साधु⟫ ... ⟪रामः⟫
+    ⟪साधु⟫ ... ⟪रामः⟫
 
 **B) Alakítsa többes számra:**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫

@@ -1,9 +1,9 @@
 ---
-title: Lecția 48
+title: Lektion 48
 subtitle: "⟪सुभाषितानि⟫"
 lesson_id: 48
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -33,10 +33,10 @@ status: stable
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Persoana 1**:br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
-| **Persoana 2**:br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **Persoana 3**:br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br**3.Cl.: -atu**:br(din -\*ntu) | \-atām:br(din: -\*ntām) |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
+| **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
+| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br**3.Cl.: -atu**:br(din -\*ntu) | \-atām:br(din: -\*ntām) |
 :::
 Nota: ¹ Desinențele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -tāt, dacă se exprimă o dorină de binecuvântare. -tāt apare (chiar și la persoana a 3-a singular) la rădăcina slabă.
 
@@ -65,60 +65,60 @@ Nota: ¹ Desinențele persoanei a 2-a și a 3-a singular pot fi înlocuite cu -t
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persoana**:br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
-| **2. Persoana**:br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
-| **3. Persoana**:br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪द्वेषानि⟫ | ⟪द्वेषाम⟫ | ⟪द्वेषै⟫ | ⟪द्वेषामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪द्विड्ढि⟫:br(dviṣ + dhi):br⟪द्विष्टात्⟫ | ⟪द्विष्ट⟫ | ⟪द्विक्ष्व⟫:br(dviṣ + sva) | ⟪द्विड्ढ्वम्⟫:br(dviṣ + dhvam) |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪द्वेष्टु⟫:br⟪द्विष्टात्⟫ | ⟪द्विषन्तु⟫ | ⟪द्विष्टाम्⟫ | ⟪द्विषताम्⟫:br(dviṣ-atām) |
 :::
 ⟪आस्⟫ 2Ā
 
 ::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persoana**:br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ |
-| **2. Persoana**:br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) |
-| **3. Persoana**:br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪आसै⟫ | ⟪आसामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪आस्स्व⟫ | ⟪आध्वम्⟫:br(ās + dhvam) |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪आस्ताम्⟫ | ⟪आसताम्⟫ |
 :::
 ⟪दुह्⟫ 2U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persoana**:br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ |
-| **2. Persoana**:br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ |
-| **3. Persoana**:br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪दोहानि⟫ | ⟪दोहाम⟫ | ⟪दोहै⟫ | ⟪दोहामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪दुग्धि⟫:br(duh + dhi) | ⟪दुग्ध⟫:br(duh + ta) | ⟪धुक्ष्व⟫:br(duh + sva) | ⟪धुग्ध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪दोग्धु⟫:br(doh + tu) | ⟪दुहन्तु⟫ | ⟪दुग्धाम्⟫ | ⟪दुहताम्⟫ |
 :::
 ⟪इ⟫ 2P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persoana**:br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
-| **2. Persoana**:br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
-| **3. Persoana**:br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪अयानि⟫:br(e + āni) | ⟪अयाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
 :::
 ⟪शी⟫ 2Ā (întotdeauna cu grad intens!)
 
 ::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persoana**:br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
-| **2. Persoana**:br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
-| **3. Persoana**:br⟪प्रथमः⟫ | ⟪शेताम्⟫ | ***⟪शेरताम्⟫*** |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | ***⟪शेरताम्⟫*** |
 :::
 ⟪हन्⟫ 2P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persoana**:br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
-| **2. Persoana**:br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(din: \*hn-ta) |
-| **3. Persoana**:br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪हनानि⟫ | ⟪हनाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(aus: \*hn-ta) |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
 
 Notă: ¹ Explicația pentru **⟪जहि⟫** vezi Thumb-Hauschild I,2 p. 253
 :::
@@ -127,31 +127,30 @@ Notă: ¹ Explicația pentru **⟪जहि⟫** vezi Thumb-Hauschild I,2 p. 253
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persoana**:br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
-| **2. Persoana**:br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br***⟪स्तुवीहि⟫*** | ⟪स्तुत⟫:br***⟪स्तुवीत⟫*** | ⟪स्तुष्व⟫:br***⟪स्तुवीष्व⟫*** | ⟪स्तुध्वम्⟫:br***⟪स्तुवीध्वम्⟫*** |
-| **3. Persoana**:br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br***⟪स्तवीतु⟫*** | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br***⟪स्तुवीताम्⟫*** | ⟪स्तुवताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪स्तवानि⟫:br(sto + āni) | ⟪स्तवाम⟫ | ⟪स्तवै⟫ | ⟪स्तवामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪स्तुहि⟫:br sig[⟪स्तुवीहि⟫] | ⟪स्तुत⟫:br sig[⟪स्तुवीत⟫] | ⟪स्तुष्व⟫:br sig[⟪स्तुवीष्व⟫] | ⟪स्तुध्वम्⟫:br sig[⟪स्तुवीध्वम्⟫] |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪स्तौतु⟫:br sig[⟪स्तवीतु⟫] | ⟪स्तुवन्तु⟫ | ⟪स्तुताम्⟫:br sig[⟪स्तुवीताम्⟫] | ⟪स्तुवताम्⟫ |
 :::
 ⟪अस्⟫ 2P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **1. Persoana**:br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
-| **2. Persoana**:br⟪मध्यमः⟫ | ***⟪एधि⟫***:br(din: \*s-dhi) | ⟪स्त⟫ |
-| **3. Persoana**:br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪असानि⟫ | ⟪असाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪एधि⟫] :br(aus: \*s-dhi) | ⟪स्त⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪अस्तु⟫ | ⟪सन्तु⟫ |
 :::
 ⟪शास्⟫ 2P
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-
-| **1. Persoană**:br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
-| **2. Persoană**:br⟪मध्यमः⟫ | ***⟪शाधि⟫***:br(din: śās + dhi):brnereg. superlativ | ⟪शिष्ट⟫ |
-| **3. Persoană**:br⟪प्रथमः⟫ | ⟪शास्तु⟫ | ***⟪शासतु⟫***:brnereg. superlativ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪शासानि⟫ | ⟪शासाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
 ### 48.2.4. A treia clasă de prezintă (⟪जुहोत्यादि⟫)
 
@@ -163,10 +162,10 @@ Notă: ¹ Explicația pentru **⟪जहि⟫** vezi Thumb-Hauschild I,2 p. 253
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Persoana 1**:br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
-| **Persoana 2**:br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brneregulat¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
-| **Persoana 3**:br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जुहवानि⟫:br(ju-ho + āni) | ⟪जुहवाम⟫ | \<⟪जुहवै⟫\> | \<⟪जुहवामहै⟫\> |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
 
 Nota: ¹ Dissimilație, astfel încât două silabe cu **⟪ह्⟫** nu se succed.
 :::
@@ -175,10 +174,10 @@ Nota: ¹ Dissimilație, astfel încât două silabe cu **⟪ह्⟫** nu se su
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Persoana 1**:br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
-| **Persoana 2**:br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
-| **Persoana 3**:br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪दधानि⟫:br(da-dhā + āni) | ⟪दधाम⟫ | ⟪दधै⟫:br(da-dhā + ai) | ⟪दधामहै⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
 
 Nota: ¹ **⟪धेहि⟫** din \*dhazdhi: dispariția sunetului sibilant indo-european z, înlocuit prin extindere vocalică; v. Thumb-Hauschild I,1 p. 302
 :::
@@ -187,10 +186,10 @@ Nota: ¹ **⟪धेहि⟫** din \*dhazdhi: dispariția sunetului sibilant in
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ ||
 | :---: | :---: | :---: |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Persoana 1**:br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
-| **Persoana 2**:br⟪मध्यमः⟫ | ***⟪जहाहि⟫***:brnereg. puternic. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
-| **Persoana 3**:br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **1. Person** :br⟪तृतीयः⟫ | ⟪जहानि⟫ | ⟪जहाम⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
 ## 48.3. Despre formarea substantivelor: sufixele -a și -ya de tipul ⟪तद्धित⟫
 
@@ -225,10 +224,10 @@ Exemple:
 ::: grammar-box
 | **Tratarea finalului radicalului înainte de sufixul \-a:** ||
 | :---: | :--- |
-| **\-ṛ** | **\-a** se adaugă de obicei la finalul **\-r**::brde exemplu, **⟪जेतृ⟫** "câștigător" » **⟪जैत्र⟫** 3 "câștigător" |
+| **\-ṛ** | **\-a** tritt in der Regel an den Auslaut **\-r**::brz.B. ⟪जेतृ⟫ "Sieger" » ⟪जैत्र⟫ 3 "siegreich" |
 | **\-a** | Înlocuirea **\-a** a cuvântului de bază cu noul sufix **\-a**.:brVezi exemplele de mai sus. |
-| **\-i** | Dispariția **\-i**:brde exemplu, **⟪प्रकृति⟫** f. "natură" » **⟪प्राकृत⟫** 3 "natural, normal, uzual, vulgar" |
-| **\-u** | de obicei: **\-av-a**:brde exemplu, **⟪गुरु⟫** 3 "greu"; m. "maestru, învățător" » **⟪गौरव⟫** 3 "care aparține maestrului, derivat din maestru"; n. "greutate, greutate, demnitate" |
+| **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
+| **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
 | **alte tipuri de declinare:** | vezi Wackernagel, Gramatica sanscrită veche II,2 § 38 |
 
 Înainte de sufixul **-ya**, finalul radicalului este tratat similar ca înainte de sufixul **-a**.
@@ -243,11 +242,11 @@ de exemplu, **⟪स्वश्व⟫** m. "cel al cărui cai sunt buni" Nume p
 **La compusele în care, în urma sandhi-ului, finalul -i sau -u din prima parte este înlocuit cu -y, respectiv -v și precedă astfel prima vocală a cuvântului de bază (de exemplu, compuse cu ni-, vi-, su-), ⟪वृद्धि⟫ se formează ca și cum ar fi scris -iy, respectiv -uv.**
 
 de exemplu, **⟪व्याघ्र⟫** m. "tigru" » **⟪वैयाघ्र⟫** 3 "derivat dintr-un tigru, care aparține unui tigru"
-:::: media
+:::
+::: media
 ![](/images/lekt4801.webp)
 Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4801))
-::::
 :::
 ## 48.4. Listă de cuvinte
 
@@ -266,34 +265,35 @@ Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 Fig.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4802))
-:::: media
+:::
+
+::: media
 ![](/images/lekt4803.webp)
 Fig.: ⟪तन्त्री⟫
 Muzician la sitar = ⟪सितारवादकः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4803))
-::::
 :::
 ⟪स्त्री⟫ f.: femeie, soție ; feminin
 
 Declinare:
 
 ::: grammar-box
-| **⟪स्त्री⟫ f.** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
+| **⟪स्त्री⟫ f.** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :---: | :---: | :---: |
-| **⟪प्रथमा⟫** | ⟪स्त्री⟫ | ⟪स्त्रियस्⟫ |
-| **⟪द्वितीया⟫** | ⟪स्त्रियम्⟫:br⟪स्त्रीयम्⟫ | ⟪स्त्रियस्⟫:br⟪स्त्रीस्⟫ |
-| **⟪तृतीया⟫** | ⟪स्त्रिया⟫ | ⟪स्त्रीभिस्⟫ |
-| **⟪चतुर्थी⟫** | ⟪स्त्रियै⟫ | ⟪स्त्रीभ्यस्⟫ |
-| **⟪पञ्चमी⟫** | ⟪स्त्रियास्⟫ | ⟪स्त्रीभ्यस्⟫ |
-| **⟪षष्ठी⟫** | ⟪स्त्रियास्⟫ | ⟪स्त्रीणाम्⟫ |
-| **⟪सप्तमी⟫** | ⟪स्त्रियाम्⟫ | ⟪स्त्रीषु⟫ |
-| **⟪आमन्त्रितम्⟫** | ⟪स्त्रि⟫ | ⟪स्त्रियस्⟫ |
-:::: media
+| ⟪प्रथमा⟫ | ⟪स्त्री⟫ | ⟪स्त्रियस्⟫ |
+| ⟪द्वितीया⟫ | ⟪स्त्रियम्⟫:br⟪स्त्रीयम्⟫ | ⟪स्त्रियस्⟫:br⟪स्त्रीस्⟫ |
+| ⟪तृतीया⟫ | ⟪स्त्रिया⟫ | ⟪स्त्रीभिस्⟫ |
+| ⟪चतुर्थी⟫ | ⟪स्त्रियै⟫ | ⟪स्त्रीभ्यस्⟫ |
+| ⟪पञ्चमी⟫ | ⟪स्त्रियास्⟫ | ⟪स्त्रीभ्यस्⟫ |
+| ⟪षष्ठी⟫ | ⟪स्त्रियास्⟫ | ⟪स्त्रीणाम्⟫ |
+| ⟪सप्तमी⟫ | ⟪स्त्रियाम्⟫ | ⟪स्त्रीषु⟫ |
+| ⟪आमन्त्रितम्⟫ | ⟪स्त्रि⟫ | ⟪स्त्रियस्⟫ |
+:::
+::: media
 ![](/images/lekt4804.webp)
 Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 [Grup de auto-ajutorare (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4804))
-::::
 :::
 ⟪दिवानिशम्⟫ Adverb: ziua și noaptea
 

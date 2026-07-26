@@ -1,10 +1,10 @@
 ---
-title: Lecția 51
-subtitle: "⟪उपपद⟫-compozițe"
+title: Lektion 51
+subtitle: "⟪उपपद⟫-Komposita"
 lesson_id: 51
 last_reconstructed: 2026-05-21
-category: "Gramatică"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # Lecția 51
@@ -39,12 +39,12 @@ a) Sufixul ⟪कृत्⟫ \-Ø
 \-⟪भुज्⟫ 3 "gustând, mâncând" de ex. ⟪भूमिभुज्⟫ m. "rege" (⟪भूमि⟫ f. "pământ")
 
 \-⟪विद्⟫ 3 "știind" de ex. ⟪धर्मविद्⟫  3 "cunoscător al Dharma"
-:::: media
+:::
+::: media
 ![](/images/lekt5101.webp)
 Fig.: ⟪भूमिभुज्⟫
 ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008)
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5101))
-::::
 :::
 b) Sufixul ⟪कृत्⟫ -t
 
@@ -93,12 +93,12 @@ c) Sufixul ⟪कृत्⟫ -a
 \-⟪कर⟫ 3 "cauzând, făcând" de ex. ⟪सुखकर⟫ 3 "aducând fericire"
 
 \-⟪स्मर⟫ 3 "amintindu-și" de ex. ⟪जातिस्मर⟫ 3 "amintindu-și nașteri anterioare"
-:::: media
+:::
+::: media
 ![](/images/lekt5102.webp)
 Fig.: ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪हस्तेन⟫ ⟪च⟫ ⟪मुखेन⟫ ⟪च⟫
 ⟪नेपाल⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5102))
-::::
 :::
 ## 51.2. Declinarea stemelor care se termină într-o consoană simplă (în afară de nazală, semivocală, -s)
 
@@ -246,12 +246,12 @@ Plural:
 ::: indent
 Instr. ⟪परिव्राड्भिस्⟫
 Loc. ⟪परिव्राट्सु⟫
-:::: media
+:::
+::: media
 ![](/images/lekt5104.webp)
 Fig.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5104))
-::::
 :::
 ### 51.2.3. Teme pe -h
 
@@ -357,15 +357,15 @@ Fig.:
 
 ⟪ऋतु⟫ m.: proces periodic, anotimp, perioadă de timp, menstruație, timp în care femeia este fertilă și are dreptul la coabitare cu soțul ei.
 
-::: indent
+::: note-box
 Referitor la ⟪ऋतु⟫ vezi Manu III, 45-48: conform acestuia, ⟪ऋतु⟫ durează 16 zile (conform traducerii alternative: 20 zile) de la începutul menstruației, primii patru zile de la începutul sângerării sunt interzise relațiile sexuale (conform traducerii alternative: primii opt (4 + 4) zile), precum și a 11-a (respectiv a 15-a) și a 13-a (respectiv a 18-a) zi. Femeia concepe fii în zilele pare și fiice în zilele impare. Pentru următoarele se presupune un ⟪ऋतु⟫ de 16 zile în total (nu traducerea alternativă), așa cum fac și majoritatea comentariilor locale, și ceea ce a fost, așadar, opinia dominantă.
 
 Deoarece ovulația are loc cu 14 zile înainte de începutul menstruației, această determinare a perioadei fertile garantează aproape „sigur” fertilitatea pentru o distanță a menstruațiilor de la 19 la 30 de zile. Zilele interzise (11-a și 13-a) îmbunătățesc probabilitatea relațiilor sexuale în ziua a 12-a și a 14-a, adică probabilitatea concepției într-un ciclu de 28 de zile (durata de viață a spermatozoizilor în femeie este de aproximativ 3 zile). Aceste dispoziții sunt ca un fel de aplicare pozitivă a metodei Knaus-Ogino.
-:::: media
+:::
+::: media
 ![](/images/lekt5106.jpg)
 Fig.: ⟪ऋतुः⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5106))
-::::
 :::
 ⟪एकत्र⟫ Adv.: într-un loc
 
@@ -474,12 +474,12 @@ Bufnița lui Brahma (_Athene brama\"), Mahesana = મહેસાણા
 stam forte ⟪श्वान्⟫
 stam slab înainte de vocală ⟪सुन्⟫
 stam slab înainte de consoană ⟪श्व⟫
-:::: media
+:::
+::: media
 ![](/images/lekt5113.jpg)
 Fig.: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
 Karnataka = ಕರ್ನಾಟક
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5113))
-::::
 :::
 ⟪परिचित⟫ 3: familiar, cunoscut
 

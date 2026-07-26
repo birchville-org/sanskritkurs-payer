@@ -1,10 +1,10 @@
 ---
-title: 27. lecke
-subtitle: "A lokativ használata (⟪सप्तमी⟫ f. = \"hetedik esetrag\")"
+title: Lektion 27
+subtitle: "Gebrauch des Lokativ (⟪सप्तमी⟫ f. = \"siebte Kasusendung\")"
 lesson_id: 27
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 27. lecke
@@ -133,7 +133,7 @@ A lokativus további használatáról később.
 | ⟪पशु⟫ m. | ⟪पशौ⟫ | ⟪पशुषु⟫ |
 | ⟪देवता⟫ f. | ⟪देवतायाम्⟫ | ⟪देवतासु⟫ |
 | ⟪देवी⟫ f. | ⟪देव्याम्⟫ | ⟪देवीषु⟫ |
-| ⟪श्रुति⟫ f. | ⟪श्रुतौ⟫ vagy ⟪श्रुत्याम्⟫ :br(d.h. entweder wie **kavi** :br⟪कवि⟫ vagy wie **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
+| ⟪श्रुति⟫ f. | ⟪श्रुतौ⟫ oder ⟪श्रुत्याम्⟫ :br(d.h. entweder wie **kavi** :br⟪कवि⟫ oder wie **devī** :br⟪देवी⟫) | ⟪श्रुतिषु⟫ |
 | ⟪धेनु⟫ f. | ⟪धेनौ⟫ vagy ⟪धेन्वाम्⟫ | ⟪धेनुषु⟫ |
 
 :::
@@ -144,13 +144,13 @@ A lokativus további használatáról később.
 | | egyes szám:br⟪एकवचनम्⟫ || többes szám:br⟪बहुवचनम्⟫ ||
 | | hímnem / nőnem:br⟪पुंस्⟫ / ⟪स्त्री⟫ | semlegesnem:br⟪नपुंसकम्⟫ | hímnem / nőnem:br⟪पुंस्⟫ / ⟪स्त्री⟫ | semlegesnem:br⟪नपुंसकम्⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-**1. alanyeset (nominativus)**:br **⟪१⟫. ⟪प्रथमा⟫** | **-s** | -Ø | **-as** | **-i** |
-**2. tárgyeset (accusativus)**:br **⟪२⟫. ⟪द्वितीया⟫** | **-am** | -Ø | -as | **-i** |
-**3. eszközhatározó eset (instrumentalis)**:br **⟪३⟫. ⟪तृतीया⟫** | -ā || -bhis ||
-**4. részes eset (dativus)**:br **⟪४⟫. ⟪चतुर्थी⟫** | -e || -bhyas ||
-**5. ablativus**:br **⟪५⟫. ⟪पञ्चमी⟫** | -as || -bhyas ||
-**6. birtokos eset (genitivus)**:br **⟪६⟫. ⟪षष्ठी⟫** | -as || -ām ||
-**7. lokativus**:br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
+| **1. alanyeset (nominativus)** :br **⟪१⟫. ⟪प्रथमा⟫** | **-s** | -Ø | **-as** | **-i** |
+| **2. tárgyeset (accusativus)** :br **⟪२⟫. ⟪द्वितीया⟫** | **-am** | -Ø | -as | **-i** |
+| **3. eszközhatározó eset (instrumentalis)** :br **⟪३⟫. ⟪तृतीया⟫** | -ā || -bhis ||
+| **4. részes eset (dativus)** :br **⟪४⟫. ⟪चतुर्थी⟫** | -e || -bhyas ||
+| **5. ablativus** :br **⟪५⟫. ⟪पञ्चमी⟫** | -as || -bhyas ||
+| **6. birtokos eset (genitivus)** :br **⟪६⟫. ⟪षष्ठी⟫** | -as || -ām ||
+| **7. lokativus** :br **⟪७⟫. ⟪सप्तमी⟫** | -i || -su ||
 
 :::
 **Pirossal nyomtatva**: erős esetek (tőalak-változással).
@@ -451,7 +451,7 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 
 ::: grammar-box
 
-| **egyes szám:brhímnem:br⟪पुंस्⟫** | **egyes szám:brsemlegesnem:br⟪नपुंसकम्⟫** | **többes szám:brhímnem:br⟪पुंस्⟫** | **többes szám:brsemlegesnem:br⟪नपुंसकम्⟫** |
+| | **egyes szám:brhímnem:br⟪पुंस्⟫** | **egyes szám:brsemlegesnem:br⟪नपुंसकम्⟫** | **többes szám:brhímnem:br⟪पुंस्⟫** | **többes szám:brsemlegesnem:br⟪नपुंसकम्⟫** |
 | :--- | :---: | :---: | :---: | :---: |
 | **1. alanyeset (nominativus)** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪सन्⟫ | ⟪सत्⟫ | ⟪सन्तः⟫ | ⟪सन्ति⟫ |
 | **2. tárgyeset (accusativus)** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪सन्तम्⟫ | ⟪सत्⟫ | ⟪सतस्⟫ | ⟪सन्ति⟫ |
@@ -472,7 +472,7 @@ Sai Baba of Shirdi (1835 - 1918).
 
 ::: grammar-box
 
-| **egyes szám:brhímnem:br⟪पुंस्⟫** | **egyes szám:brsemlegesnem:br⟪नपुंसकम्⟫** | **többes szám:brhímnem:br⟪पुंस्⟫** | **többes szám:brsemlegesnem:br⟪नपुंसकम्⟫** |
+| | **egyes szám:brhímnem:br⟪पुंस्⟫** | **egyes szám:brsemlegesnem:br⟪नपुंसकम्⟫** | **többes szám:brhímnem:br⟪पुंस्⟫** | **többes szám:brsemlegesnem:br⟪नपुंसकम्⟫** |
 | :--- | :---: | :---: | :---: | :---: |
 | **1. alanyeset (nominativus)** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪महान्⟫ | ⟪महत्⟫ | ⟪महान्तस्⟫ | ⟪महान्ति⟫ |
 | **2. tárgyeset (accusativus)** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪महान्तम्⟫ | ⟪महत्⟫ | ⟪महतस्⟫ | ⟪महान्ति⟫ |
@@ -487,7 +487,7 @@ Sai Baba of Shirdi (1835 - 1918).
 
 ::: grammar-box
 
-| **egyes szám:brhímnem:br⟪पुंस्⟫** | **egyes szám:brsemlegesnem:br⟪नपुंसकम्⟫** | **többes szám:brhímnem:br⟪पुंस्⟫** | **többes szám:brsemlegesnem:br⟪नपुंसकम्⟫** |
+| | **egyes szám:brhímnem:br⟪पुंस्⟫** | **egyes szám:brsemlegesnem:br⟪नपुंसकम्⟫** | **többes szám:brhímnem:br⟪पुंस्⟫** | **többes szám:brsemlegesnem:br⟪नपुंसकम्⟫** |
 | :--- | :---: | :---: | :---: | :---: |
 | **1. alanyeset (nominativus)** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪गुणवान्⟫ | ⟪गुणवत्⟫ | ⟪गुणवन्तस्⟫ | ⟪गुणवन्ति⟫ |
 | **2. tárgyeset (accusativus)** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪गुणवन्तम्⟫ | ⟪गुणवत्⟫ | ⟪गुणवतस्⟫ | ⟪गुणवन्ति⟫ |
@@ -502,7 +502,7 @@ Sai Baba of Shirdi (1835 - 1918).
 
 ::: grammar-box
 
-| **egyes szám:brHímnem:br⟪पुंस्⟫** | **egyes szám:brSemleges nem:br⟪नपुंसकम्⟫** | **egyes szám:brNőnem:br⟪स्त्री⟫** | **többes szám:brHímnem:br⟪पुंस्⟫** | **többes szám:brSemleges nem:br⟪नपुंसकम्⟫** | **többes szám:brNőnem:br⟪स्त्री⟫** |
+| | **egyes szám:brMasculine:br⟪पुंस्⟫** | **egyes szám:brNeuter:br⟪नपुंसकम्⟫** | **egyes szám:brFeminine:br⟪स्त्री⟫** | **többes szám:brMasculine:br⟪पुंस्⟫** | **többes szám:brNeuter:br⟪नपुंसकम्⟫** | **többes szám:brFeminine:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1. alanyeset (nominativus)** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪सस्⟫ / ⟪स⟫ | ⟪तत्⟫ | ⟪सा⟫ | ⟪ते⟫ | ⟪तानि⟫ | ⟪तास्⟫ |
 | **2. tárgyeset (accusativus)** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪तम्⟫ | ⟪तत्⟫ | ⟪ताम्⟫ | ⟪तान्⟫ | ⟪तानि⟫ | ⟪तास्⟫ |
@@ -545,7 +545,7 @@ Sai Baba of Shirdi (1835 - 1918).
 
 ::: grammar-box
 
-| **egyes szám:brHímnem:br⟪पुंस्⟫** | **egyes szám:brSemleges nem:br⟪नपुंसकम्⟫** | **egyes szám:brNőnem:br⟪स्त्री⟫** | **többes szám:brHímnem:br⟪पुंस्⟫** | **többes szám:brSemleges nem:br⟪नपुंसकम्⟫** | **többes szám:brNőnem:br⟪स्त्री⟫** |
+| | **egyes szám:brMasculine:br⟪पुंस्⟫** | **egyes szám:brNeuter:br⟪नपुंसकम्⟫** | **egyes szám:brFeminine:br⟪स्त्री⟫** | **többes szám:brMasculine:br⟪पुंस्⟫** | **többes szám:brNeuter:br⟪नपुंसकम्⟫** | **többes szám:brFeminine:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1. alanyeset (nominativus)** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪यस्⟫ | ⟪यत्⟫ | ⟪या⟫ | ⟪ये⟫ | ⟪यानि⟫ | ⟪यास्⟫ |
 | **2. tárgyeset (accusativus)** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪यम्⟫ | ⟪यत्⟫ | ⟪याम्⟫ | ⟪यान्⟫ | ⟪यानि⟫ | ⟪यास्⟫ |
@@ -560,7 +560,7 @@ Sai Baba of Shirdi (1835 - 1918).
 
 ::: grammar-box
 
-| **egyes szám:brHímnem:br⟪पुंस्⟫** | **egyes szám:brTöbbes szám:br⟪नपुंसकम्⟫** | **egyes szám:brNőnem:br⟪स्त्री⟫** | **többes szám:brHímnem:br⟪पुंस्⟫** | **többes szám:brTöbbes szám:br⟪नपुंसकम्⟫** | **többes szám:brNőnem:br⟪स्त्री⟫** |
+| | **egyes szám:brMasculine:br⟪पुंस्⟫** | **egyes szám:brNeuter:br⟪नपुंसकम्⟫** | **egyes szám:brFeminine:br⟪स्त्री⟫** | **többes szám:brMasculine:br⟪पुंस्⟫** | **többes szám:brNeuter:br⟪नपुंसकम्⟫** | **többes szám:brFeminine:br⟪स्त्री⟫** |
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1. alanyeset (nominativus)** :br **⟪१⟫. ⟪प्रथमा⟫** | ⟪कस्⟫ | ⟪किम्⟫ | ⟪का⟫ | ⟪के⟫ | ⟪कानि⟫ | ⟪कास्⟫ |
 | **2. tárgyeset (accusativus)** :br **⟪२⟫. ⟪द्वितीया⟫** | ⟪कम्⟫ | ⟪किम्⟫ | ⟪काम्⟫ | ⟪कान्⟫ | ⟪कानि⟫ | ⟪कास्⟫ |

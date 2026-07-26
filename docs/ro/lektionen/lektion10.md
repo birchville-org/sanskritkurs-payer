@@ -1,9 +1,9 @@
 ---
-title: Lecția 10
-subtitle: "Propoziția pasivă (Instrumental al agentului)"
+title: Lektion 10
+subtitle: "Den Passivsatz (Instrumentalis des Agens)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -28,11 +28,13 @@ de ex. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪�
 Această propoziție este **complet (!) sinonimă** cu propoziția:
 **brāhmaṇo devaṃ yajati / yajate** = ⟪ब्राह्मणो⟫ ⟪देवं⟫ ⟪यजति⟫ / ⟪यजते⟫
 :::
+
 ::: grammar-box
 - În propoziția pasivă, agentul (**kartṛ**) se află în **Instrumental** (tṛtīyă f. "a treia terminație cazială"), iar obiectul direct (**karman** n.) se află în **Nominativ** (prathamā f.).
 - Propozițiile pasive, în care agentul nu este indicat, au de obicei un sens impersonal ("se"):
   de ex. **ijyate** = ⟪इज्यते⟫ "Se sacrifică" (literal: "se venerază cu un sacrificiu").
 :::
+
 ::: grammar-box
 **Chiar dacă propoziția activă corespunzătoare ar conține un acuzativ (dvitīyā) al scopului, acesta poate fi plasat în Nominativ (prathamā) în propoziția pasivă:**
 
@@ -40,6 +42,7 @@ La propoziția activă **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग�
 - **rāmeṇa grāmaṃ gamyate** = ⟪रामेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫
 - alternativ: **rāmeṇa grāmo gamyate** = ⟪रामेण⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫
 :::
+
 ::: grammar-box
 **Verbele intranzitive (verbe fără obiect direct) au adesea construcții pasive, în special în cereri politicoase:**
 - **praviśyatām** = ⟪प्रविश्यताम्⟫ = "Se rogă să intre = Te rog să intri = Intrați!"
@@ -50,7 +53,6 @@ Construcțiile pasive sanscrite sunt extrem de frecvente: pasivul este, de aseme
 ::: important
 **Propozițiile pasive sanscrite nu trebuie, în general, redate în germană printr-o propoziție pasivă, deoarece pasivul german are o funcție stilistică complet diferită.**
 :::
----
 
 ## 10.2. Instrumentalul (tṛtīyā f. = ⟪तृतीया⟫ = "a trecea terminație de caz")
 
@@ -63,47 +65,47 @@ Construcțiile pasive sanscrite sunt extrem de frecvente: pasivul este, de aseme
 
 | | Instrumental Singular | Instrumental Plural |
 | :--- | :--- | :--- |
-| **Feminine în -i**::brśruti:br⟪श्रुति⟫ | **śruty-ā**:br⟪श्रुत्या⟫ | **śruti-bhis**:br⟪श्रुतिभिस्⟫ |
-| **Feminine în -ī**::brdevī:br⟪देवी⟫ | **devy-ā**:br⟪देव्या⟫ | **devī-bhis**:br⟪देवीभिस्⟫ |
-| **Feminine în -u**::brdhenu:br⟪धेनु⟫ | **dhenv-ā**:br⟪धेन्वा⟫ | **dhenu-bhis**:br⟪धेनुभिस्⟫ |
+| **Feminina auf -i**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
+| **Feminina auf -ī**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
+| **Feminina auf -u**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
 
 **Formări neregulate (Singular):**
 
 | | Instrumental Singular | Instrumental Plural |
 | :--- | :--- | :--- |
-| **Masculine în -i**::brkavi:br⟪कवि⟫ | **kavi-n-ā**:br⟪कविना⟫ | **kavi-bhis**:br⟪कविभिस्⟫ |
-| **Masculine în -u**::brpaśu:br⟪पशु⟫ | **paśu-n-ā**:br⟪पशुना⟫ | **paśu-bhis**:br⟪पशुभिस्⟫ |
-| **Feminine în -ā**::brdevatā:br⟪देवता⟫ | **devat-ay-ā**:br⟪देवतया⟫ | **devatā-bhis**:br⟪देवताभिस्⟫ |
+| **Maskulina auf -i**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
+| **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
+| **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
 
 **Masculine și Neutre în -a (neregulate în singular și plural):**
 
 | | Instrumental Singular | Instrumental Plural |
 | :--- | :--- | :--- |
-| **Masculine în -a**::brdeva:br⟪देव⟫ | **devena**:br⟪देवेन⟫ | **devais**:br⟪देवैस्⟫ |
-| **Neutre în -a**::brphala:br⟪फल⟫ | **phalena**:br⟪फलेन⟫ | **phalais**:br⟪फलैस्⟫ |
+| **Maskulina auf -a**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
+| **Neutra auf -a**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
 
 **Pronumele interogativ kim:**
 
 | | Instrumental Singular | Instrumental Plural |
 | :--- | :--- | :--- |
-| **Masculin / Neutru** | **kena**:br⟪केन⟫ | **kais**:br⟪कैस्⟫ |
-| **Feminin** | **kayā**:br⟪कया⟫ | **kābhis**:br⟪काभिस्⟫ |
+| **Masculin / Neutru** | **kena** :br⟪केन⟫ | **kais** :br⟪कैस्⟫ |
+| **Feminin** | **kayā** :br⟪कया⟫ | **kābhis** :br⟪काभिस्⟫ |
 
 **Pronume demonstrative:**
 
 | Pronume | Gen | Instrumental Singular | Instrumental Plural |
 | :--- | :--- | :--- | :--- |
-| **tad**:br"el, ea, el; cel, cea, cele" (menționat):br⟪तद्⟫ | M/N | **tena**:br⟪तेन⟫ | **tais**:br⟪तैस्⟫ |
-| | F | **tayā**:br⟪तया⟫ | **tābhis**:br⟪ताभिस्⟫ |
-| **etad**:br"acesta, aceasta, acesta" (foarte aproape de vorbitor):br⟪एतद्⟫ | M/N | **etena / enena**:br⟪एतेन⟫ / ⟪एनेन⟫ | **etais**:br⟪एतैस्⟫ |
-| | F | **etayā / enayā**:br⟪एतया⟫ / ⟪एनया⟫ | **etābhis**:br⟪एताभिस्⟫ |
-| **idam**:br"acesta, aceasta, acesta" (aproape):br⟪इदम्⟫ | M/N | **anena / enena**:br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis**:br⟪एभिस्⟫ |
-| | F | **anayā / enayā**:br⟪अनया⟫ / ⟪एनया⟫ | **ābhis**:br⟪आभिस्⟫ |
+| **tad** :br"er, sie, es; der, die, das" (Erwähnte):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
+| | F | **tayā** :br⟪तया⟫ | **tābhis** :br⟪ताभिस्⟫ |
+| **etad** :br"dieser, diese, dieses" (dem Sprechenden sehr Nahe):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
+| | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
+| **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
+| | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
+
 ::: deleteme-box
 Î afară de Nominativ și Acuzativ, formele Neutrelor în -a, ale pronumelui interogativ și ale pronumelor demonstrative sunt identice cu formele corespunzătoare ale Masculinului.
 :::
----
 
 ### 10.2.1. Despre utilizarea instrumentalului (tṛtīyā = ⟪तृतीया⟫)
 
@@ -122,8 +124,6 @@ Construcțiile pasive sanscrite sunt extrem de frecvente: pasivul este, de aseme
 :::
 Alte utilizări ale instrumentalului (tṛtīyā) vor urma mai târziu.
 
----
-
 ## 10.3. Legeul așa-numit de cerebraizare pentru -n- (un Wortsandhi)
 
 ::: grammar-box
@@ -134,11 +134,11 @@ Un **-n-**, urmat de o vocală sau **n, m, y, v**, este înlocuit cu **-ṇ-**, 
 ::: grammar-box
 | | Instrumental Singular |
 | :--- | :--- |
-| **guru**:br⟪गुरु⟫ | **guruṇā**:br⟪गुरुणा⟫ |
-| **śūdra**:br⟪शूद्र⟫ | **śūdreṇa**:br⟪शूद्रेण⟫ |
-| **īśvara**:br⟪ईश्वर⟫ | **īśvereṇa**:br⟪ईश्वरेण⟫ |
-| **kṣatriya**:br⟪क्षत्रिय⟫ | **kṣatriyeṇa**:br⟪क्षत्रियेण⟫ |
-| **naraka**:br⟪नरक⟫ | **narakeṇa**:br⟪नरकेण⟫ |
+| **guru** :br⟪गुरु⟫ | **guruṇā** :br⟪गुरुणा⟫ |
+| **śūdra** :br⟪शूद्र⟫ | **śūdreṇa** :br⟪शूद्रेण⟫ |
+| **īśvara** :br⟪ईश्वर⟫ | **īśvereṇa** :br⟪ईश्वरेण⟫ |
+| **kṣatriya** :br⟪क्षत्रिय⟫ | **kṣatriyeṇa** :br⟪क्षत्रियेण⟫ |
+| **naraka** :br⟪नरक⟫ | **narakeṇa** :br⟪नरकेण⟫ |
 :::
 **La fel, și -ṇ- trebuie explicat în:**
 
@@ -151,7 +151,6 @@ Un **-n-**, urmat de o vocală sau **n, m, y, v**, este înlocuit cu **-ṇ-**, 
 
 **brāhmaṇa** ⟪ब्राह्मण⟫
 :::
----
 
 ## 10.4. Pasivul, Indicativ Prezent (yak = ⟪यक्⟫)
 
@@ -161,15 +160,13 @@ Un **-n-**, urmat de o vocală sau **n, m, y, v**, este înlocuit cu **-ṇ-**, 
 :::
 de ex.
 
-| Rădăcină:br⟪धातु⟫ | Pers. a 3-a sg. Pas. Prez. Ind.:br⟪यक्⟫ ⟪लट्⟫ | Pers. a 3-a pl. Pas. Prez. Ind.:br⟪यक्⟫ ⟪लट्⟫ |
+| Wurzel:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
-| **nī**:br1 U:br(nayati) | **nīyate**:br(⟪नीयते⟫):br"este condus" | **nīyante**:br(⟪नीयन्ते⟫) |
-| **man**:br4 Ā:br(manyate) | **manyate**:br(⟪मन्यते⟫):br"este gândit" | **manyante**:br(⟪मन्यन्ते⟫) |
-| **viś**:br6 P:br(viśati) | **viśyate**:br(⟪विश्यते⟫):br"este pătruns" | **viśyante**:br(⟪विश्यन्ते⟫) |
+| **nī**:br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"er wird geführt" | **nīyante** :br(⟪नीयन्ते⟫) |
+| **man**:br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
+| **viś**:br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
 **Observați că la verbele din a patra clasă de prezent, formele Ātmanepada și Pasiv sunt identice! În acest caz, distincția dintre Ātmanepada și Pasiv poate fi stabilită doar pe baza construcției propoziției.**
-
----
 
 ### 10.4.1. Reguli speciale pentru formarea pasivului
 
@@ -188,11 +185,11 @@ de ex.
 
 4. **Gradul redus al verbelor care încep cu ya, va, ra, sau în care aceste sunete se află după o altă consoană (Samprasāraṇa = ⟪सम्प्रसारण⟫):**
 
-   | Rădăcină:br⟪धातु⟫ | Gradul redus:br⟪सम्प्रसारण⟫ | Pasiv:br⟪यक्⟫ |
+   | Wurzel:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
    | :--- | :--- | :--- |
-   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate**:br⟪इज्यते⟫:br**ijyante**:br⟪इज्यन्ते⟫ |
-   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate**:br⟪उद्यते⟫:br**udyante**:br⟪उद्यन्ते⟫ |
-   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate**:br⟪पृच्छ्यते⟫:br**pṛcchyante**:br⟪पृच्छ्यन्ते⟫ |
+   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
+   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
+   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
    Denumirea tradițională autohtonă pentru această formare a gradului redus la verbele cu **ya** sau **va** este **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
@@ -208,8 +205,6 @@ de ex.
    * **tan-ya-te**, **tan-ya-nte**:br⟪तन्यते⟫, ⟪तन्यन्ते⟫
    * **tā-ya-te**, **tā-ya-nte**:br⟪तायते⟫, ⟪तायन्ते⟫ (din \*tn-ya-nte)
 
----
-
 ## 10.5. Listă de cuvinte
 
 **Învățați următoarele cuvinte:**
@@ -218,50 +213,60 @@ de ex.
 - **grāma** m. ⟪ग्राम⟫ : sat
 - **nagara** n. ⟪नगर⟫ : oraș
 
-::: note-box
+  ::: note-box
   Pentru viața urbană și rurală, consultați Basham, *Wonder*, cap. 6.
-:::
-::: note-box
+  :::
+
+- **yajña** m. ⟪यज्ञ⟫ : jertfă
+
+  ::: note-box
   În India, jertfa este, în primul rând, o închinare adusă zeului ca pe un oaspete. Prin aceasta, te obligi față de zeitate.
-  
+
   Derivare: **yaj** 1 U + sufixul kṛt **-na-**.
-:::
+  :::
+
+- **puṇya** n. ⟪पुण्य⟫ : faptă bună, merit
+
 ::: note-box
-  Prin care câștigi bunăstare și nașteri bune ulterioare.
-  :::- **pāpa** n. ⟪पाप⟫ : faptă rea, rău (opusul lui **puṇya**)
+Ceea ce câștigă bunăstare și nașteri bune în reîncarnări.
+  :::
+
+-   Prin care câștigi bunăstare și nașteri bune ulterioare.
 - **satya** n. ⟪सत्य⟫ : adevăr
 
-:::
 ::: note-box
 În India, se atribuia cuvântului adevărat o putere magică; ba chiar întreaga ordine cosmică este menținută și creată de cuvântul adevărat. Pentru această concepție importantă, consultați lucrarea fundamentală:
 
 Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. Editat din arhivă de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
-:::: media
+:::
+
+::: media
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt1003))
-::::
 :::
 - **anṛta** n. ⟪अनृत⟫ : minciună, falsitate (opusul lui **satya**)
 
-::: note-box
+  ::: note-box
   Derivare **an-** („ne-“) + **ṛta** n.
-  
+
   **ṛta** este un concept central în Veda, a cărui traducere este controversată: „adevăr” (Lüders, Thieme), „ordine” (Renou).
-:::
-::: note-box
+  :::
+
+- **ṛṣi** m. ⟪ऋषि⟫ : înțelept vedic, autor al imnurilor vedice
+
+  ::: note-box
   Numele acestor **ṛṣi** sunt menționate în Brāhmaṇe, precum și în liste dedicate Vedenelor. Toți brahmanii își derivă originea de la astfel de **ṛṣi**, după care își denumesc **gotra** (⟪गोत्र⟫). Pentru conceptul **gotra**, consultați Basham, *Wonder*, cap. 5.
-:::: media
+  :::
+
+::: media
 ![](/images/lekt1002.jpg)
 Fig.: ⟪विश्वामित्रः⟫
 (Sursă imagine: [Detalii](/ro/licenses#lekt1002))
-::::
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : a spune, a vorbi
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : a întreba (pe cineva: Acuzativ; despre ceva: Acuzativ)
 - **saha** ⟪सह⟫ : împreună cu, alături de (și în contextul „a lupta cu” etc.) (Postpoziție cu Instrumental)
-
----
 
 ## 10.6. Exercitare
 
@@ -328,8 +333,6 @@ Fig.: ⟪तन्तुवायः⟫
 9. Kṣatriya-l îl onorează pe DOMNUL cu un sacrificiu. (Construcție pasivă, fără a folosi cuvântul **yajña**)
 10. Prin generozitate, un adep al lui Buddha ajunge la cer.
 
----
-
 ## 10.7. Listă de cuvinte 2
 
 - **makṣikā** f. ⟪मक्षिका⟫ : mușcă, albină
@@ -357,13 +360,11 @@ Fig.: ⟪तन्तुवायः⟫
 - **iha** ⟪इह⟫ : aici
 - **śubh** 1 Ā (śobhate) ⟪शुभ्⟫ ⟪शोभते⟫ : a fi frumos, a străluci
 
----
-
 ## 10.8. Exercițiu de citire și traducere
 
 **Citiți și traduceți, apoi transformați la vocea pasivă:**
 
-**⟪क⟫**
+⟪क⟫
 
 ⟪१⟫.
 ::: center
@@ -382,7 +383,7 @@ Fig.: ⟪तन्तुवायः⟫
 ⟪९⟫. ⟪ग्रामं⟫ ⟪गच्छन्ति⟫ | |
 ⟪१०⟫. ⟪दानानि⟫ ⟪वर्षन्ति⟫ ⟪नृपाः⟫ ||
 
-**⟪ख⟫**
+⟪ख⟫
 
 ⟪१⟫. ⟪सदा⟫ ⟪देवान्स्मरन्ति⟫ | |
 ⟪२⟫. ⟪ऋषिभी⟫ ⟪रामो⟫ ⟪वसति⟫ | |
@@ -395,6 +396,3 @@ Fig.: ⟪तन्तुवायः⟫
 ⟪९⟫. ⟪गजो⟫ ⟪गच्छति⟫ | |
 ⟪१०⟫. ⟪हरिर्गृहं⟫ ⟪गच्छति⟫ | |
 ⟪११⟫. ⟪सारथी⟫ ⟪रथं⟫ ⟪नयति⟫ ||
-
-
-

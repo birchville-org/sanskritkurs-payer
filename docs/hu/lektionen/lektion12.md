@@ -1,10 +1,10 @@
 ---
-title: 12. lecke
-subtitle: "A múlt idejű ragozat passzív alakja (PPP)"
+title: Lektion 12
+subtitle: "Das Partizip Perfekt Passiv (PPP)"
 lesson_id: 12
 last_reconstructed: 2026-05-07
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 12. lecke
@@ -37,7 +37,7 @@ Segédige („lenni”) nincs szükség.
 
 Példák:
 > **sādhunā svarga āptaḥ** = ⟪साधुना⟫ ⟪स्वर्ग⟫ ⟪आप्तः⟫ = „(A szenttől elért egy mennyország) = A szent elérte a mennyországot.”
->
+> 
 > **brāhmaṇena devīṣṭā** = ⟪ब्राह्मणेन⟫ ⟪देवीष्टा⟫ = „(A brahmanától a istennőt egy áldozattal tisztelték) = A brahmana tisztelte az istennőt egy áldozattal.”
 :::
 
@@ -79,8 +79,8 @@ A következő képzési módok fordulnak elő (minden egyes gyökhöz meg kell t
 **(általában) mély hangzású gyökér**
 
 - **+ -ta**
-- kötőmag hanggal **-i-** előtte: **-ita**
-- kötőmag hang nélkül: **-ta**
+  - kötőmag hanggal **-i-** előtte: **-ita**
+  - kötőmag hang nélkül: **-ta**
 - **+ -na**
 
 A nőnemű tövek: **-tā**, **-itā**, **-nā**; az semleges nem a **phala** n. szerint ragozódik.
@@ -143,7 +143,7 @@ Az *aniṭ* képzések esetén az alábbi szóbelső hangkapcsolási törvények
 | **4. Hangzó hangtalan zárhang – kivéve a j-t – előtt hangtalan hanggal hangtalan, aspirálatlan zárhangra vált:** | **d + t(h) » tt(h)** = **⟪त्त्⟫, ⟪त्थ्⟫** (fontos a 2. jelen időosztály számára) |
 | **5. jt helyett kt vagy ṣṭ lép fel (nem fakultatív!):** | **yuj + ta » yuk-ta** = ⟪युक्त⟫ :br **yaj + ta » iṣ-ṭa** = ⟪इष्ट⟫ (\< \*yj-ta):br **sṛj + ta » sṛṣ-ṭa** = ⟪सृष्ट⟫ :br **sṛj + ti » sṛṣ-ṭi** = ⟪सृष्टि⟫ |
 | **6. Hangzó aspirált zárhang + hangtalan zárhang » hangzó, aspirálatlan zárhang + hangzó aspirált zárhang (Bartholomew-aspirációs törvény):** | **bh-t » b-dh:** :br **labh + ta » lab-dha** = ⟪लब्ध⟫ :br **dh-t » d-dh:** :br **budh + ta » bud-dha** = ⟪बुद्ध⟫ :br **yudh + ta » yud-dha** = ⟪युद्ध⟫ :br **krudh + ta » krud-dha** = ⟪क्रुद्ध⟫ |
-| **7. h-t helyett ḍh lép fel, ha előtte i vagy u van; vagy gdh. Egy ilyen ḍh előtt az a helyett o, ritkábban ā lép fel:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „valami elrejtése”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
+| **7. h-t helyett ḍh lép fel, ha előtte i vagy u van; vagy gdh. Egy ilyen ḍh előtt az a helyett o, ritkábban ā lép fel:** | **dah + ta » dag-dha** = ⟪दग्ध⟫ :br **guh + ta » gūḍha** = ⟪गूढ⟫ (guh 1 (gūhati) „etwas verbergen”):br **muh + ta » mug-dha / mūḍha** = **⟪मुग्ध⟫ / ⟪मूढ⟫** :br **sah + ta » soḍha** = ⟪सोढ⟫ |
 :::
 
 ## 12.5. Szószedet
@@ -187,7 +187,7 @@ Kép: ⟪महावीरो⟫ ⟪जिनः⟫
 
 ### 12.5.1. A passív és a PPP eddig tanult gyökökből
 
-| Tő:br⟪धातु⟫ | Passív Jelen idő 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
+| Tő:br⟪धातु⟫ | Passiv Jelen idő 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |
 | **aś** 5 Ā:br⟪अश्⟫ | **aśyate** :br⟪अश्यते⟫ | **aṣṭa** :br⟪अष्ट⟫ |
 | **āp** 5 P:br⟪आप्⟫ | **āpyate** :br⟪आप्यते⟫ | **āpta** :br⟪आप्त⟫ |

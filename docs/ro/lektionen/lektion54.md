@@ -1,9 +1,9 @@
 ---
-title: Lecția 54
-subtitle: "Notă preliminară"
+title: Lektion 54
+subtitle: "Vorbemerkung"
 lesson_id: 54
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -29,12 +29,12 @@ Exemplu:
 :::
 ::: indent
 ⟪युयुत्सु⟫ (yu-yudh + s + u) „dornic de luptă, pe punctul de a lupta“
-:::: media
+:::
+::: media
 ![](/images/lekt5402.webp)
 Fig.: ⟪अयुयुत्सुरर्जुनः⟫
 ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5402))
-::::
 :::
 ## 54.3. Metrika II: epica ⟪त्रिष्टुभ्⟫ și ⟪जगती⟫
 
@@ -153,7 +153,7 @@ Exemplu:
 | --- | --- | --- |
 | 1. ⟪तृतीयः⟫ | ⟪अपाम्⟫:bra-pā + am | ⟪अपाम⟫ |
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (gradul redus!) |
+| 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
 :::
 Aoristul radical se formează doar de la 12 rădăcini:
 
@@ -175,9 +175,9 @@ Pentru ⟪भू⟫ Persoana I singular, aoristul radical se formează astfel:
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | --- | --- | --- |
-| 1. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
-| 2. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
-| 3. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
+| 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
 :::
 ### 54.6.1. Aoristul la persoana a III-a singular, vocea pasivă
 
@@ -204,33 +204,28 @@ Nivel lung:
     ⟪नी⟫ 1U: ⟪अनायि⟫ "a fost condus"  
     ⟪स्तु⟫ 2U: ⟪अस्तावि⟫ "a fost lăudată"  
     ⟪कृ⟫ 8U: ⟪अकारि⟫ "a fost făcut"  
-     
-    
+
 *   Rădăcini cu a înainte de consoană simplă (în afară de ⟪जन्⟫ și rădăcini în -am)  
     Exemplu:  
     ⟪वद्⟫ 1P: ⟪अवादि⟫ "a fost spus"  
     dar:  
     ⟪जन्⟫ 4Ā: ⟪अजनि⟫ "a fost născută"  
-     
 
 *   unele rădăcini în -am  
     Exemplu:  
     ⟪गम्⟫ ⟪अगामि⟫
-    
 
 Adăugarea lui y înainte de terminație:
 
 *   Rădăcinile în -ā, -e, -ai, -o inserează y între -ā al rădăcinii și terminație:  
     Exemplu:  
     ⟪दा⟫ 3U: ⟪अदायि⟫ "a fost dat"
-    
 
 Nasal-infix:
 
 *   unele rădăcini au un nasal-infix:  
     Exemplu:  
     ⟪लभ्⟫ 1Ā: ⟪अलम्भि⟫ alături de ⟪अलाभि⟫ : "a fost primit"
-    
 
 (celelalte forme ale pasivului sunt exprimate în aorist prin forme de Ātmanepada).
 :::
@@ -268,6 +263,7 @@ Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूय�
 Tamil Nadu
 (Sursa imaginii: [Detalii](/ro/licenses#lekt5401))
 :::
+
 ::: deleteme-box
 
 **lekt5402:** ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి [Sursa imaginii: Raji Srinivas / Wikipedia. Licență GNU FDL]
@@ -275,3 +271,4 @@ Tamil Nadu
 **lekt5401:** Tamil Nadu [Sursa imaginii: driek. -- [http://www.flickr.com/photos/driek/2411004380/](http://www.flickr.com/photos/driek/2411004380/). -- Accesat la 2009-01-28. -- [Licență Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribuire, fără scop comercial, la fel de liber)]
 
 :::
+

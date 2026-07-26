@@ -1,10 +1,10 @@
 ---
-title: 21. lecke
-subtitle: "További -nt végű jelenlegi törzsek"
+title: Lektion 21
+subtitle: "Weitere Präsensstämme auf -nt"
 lesson_id: 21
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 21. lecke
@@ -25,14 +25,14 @@ Ez a melléknévige igenev az igerendszer jelen időjének tövéből képződik
 :::
 ::: grammar-box
 
-| **A jelen idő parasmaipada igenev képzése témás jelen időtövekre:** |||
+| **Képzés des Partizip Jelen idő Parasmaipada zu thematischen Jelen időstämmen:** |||
 | :--- | :--- | :--- |
-| **nemek, középnem** | | |
-| | **erős töv** | jelen időtő + **-nt-** |
-| | **gyenge töv** | jelen időtő + **-t-** |
+| **hímnem, semlegesnem** | | |
+| | **starker Tő** | Jelen idejű tő + **-nt-** |
+| | **schwacher Tő** | Jelen idejű tő + **-t-** |
 | **nemek** | | |
-| | | jelen időtő + **-nt-** + **-ī** (ragozás mint **devī** :br⟪देवी⟫) |
-| | **6. jelen időosztály** | jelen időtő + **-nt-** + **-ī** :broder::brjelen időtő + **-t-** + **-ī** |
+| | | Jelen idejű tő + **-nt-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
+| | **6. Jelen időklasse** | Jelen idejű tő + **-nt-** + **-ī** :broder::brJelen idejű tő + **-t-** + **-ī** |
 
 :::
 Példák:
@@ -44,16 +44,16 @@ Példák:
 :::
 ::: grammar-box
 
-| | | hímnem:br⟪पुंस्⟫ | középnem:br⟪नपुंसक⟫ | nőnem:br⟪स्त्री⟫ |
+| | | hímnem:br⟪पुंस्⟫ | semlegesnem:br⟪नपुंसक⟫ | nőnem:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
-**egyes szám** :br⟪एकवचन⟫ | **1. alanyeset (nominativus)** :br⟪प्रथमा⟫ | ⟪यजन्⟫ :braus yaja-nt-s | ⟪यजत्⟫ :bryaja-t-Ø | ⟪यजन्ती⟫ :bryaja-ant-ī |
-| **2. tárgyeset (accusativus)** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | mint **devī** :br⟪देवी⟫ |
-| **3. eszközhatározó eset (instrumentalis)** :br⟪तृतीया⟫ | ⟪यजता⟫ :bryaja-t-ā | ⟪यजता⟫ | |
-| **6. birtokos eset (genitivus)** :br⟪षष्ठी⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजतस्⟫ | |
-**többes szám** :br⟪बहुवचन⟫ | **1. alanyeset (nominativus)** :br⟪प्रथमा⟫ | ⟪यजन्तस्⟫ :bryaja-nt-as | ⟪यजन्ति⟫ :bryaja-nt-i | |
-| **2. tárgyeset (accusativus)** :br⟪द्वितीया⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजन्ति⟫ | |
-| **3. eszközhatározó eset (instrumentalis)** :br⟪तृतीया⟫ | ⟪यजद्भिस्⟫ :braus yaja-t-bhis | ⟪यजद्भिस्⟫ | |
-| **6. birtokos eset (genitivus)** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | |
+| **egyes szám** :br⟪एकवचन⟫ | **1. alanyeset (nominativus)** :br⟪प्रथमा⟫ | ⟪यजन्⟫ :braus yaja-nt-s | ⟪यजत्⟫ :bryaja-t-Ø | ⟪यजन्ती⟫ :bryaja-ant-ī |
+| | **2. tárgyeset (accusativus)** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | mint **devī** :br⟪देवी⟫ |
+| | **3. eszközhatározó eset (instrumentalis)** :br⟪तृतीया⟫ | ⟪यजता⟫ :bryaja-t-ā | ⟪यजता⟫ | |
+| | **6. birtokos eset (genitivus)** :br⟪षष्ठी⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजतस्⟫ | |
+| **többes szám** :br⟪बहुवचन⟫ | **1. alanyeset (nominativus)** :br⟪प्रथमा⟫ | ⟪यजन्तस्⟫ :bryaja-nt-as | ⟪यजन्ति⟫ :bryaja-nt-i | |
+| | **2. tárgyeset (accusativus)** :br⟪द्वितीया⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजन्ति⟫ | |
+| | **3. eszközhatározó eset (instrumentalis)** :br⟪तृतीया⟫ | ⟪यजद्भिस्⟫ :braus yaja-t-bhis | ⟪यजद्भिस्⟫ | |
+| | **6. birtokos eset (genitivus)** :br⟪षष्ठी⟫ | ⟪यजताम्⟫ :bryaja-t-ām | ⟪यजताम्⟫ | |
 
 :::
 Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 3. személy többes számú ragozás azonosságát!
@@ -78,13 +78,13 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 :::
 ::: grammar-box
 
-| **A jelen idői melléknév képzése Parasmaipada szerinti, hangzó nélküli jelen idői tövekből (kivéve 3. jelen idői osztály):** |||
+| **Képzés des Partizip Jelen idő Parasmaipada zu athematischen Jelen időstämmen (ausser 3. Jelen időklasse):** |||
 | :--- | :--- | :--- |
 | **hímnem, semlegesnem** | | |
-| | **erős töv** | jelen idői tő + **-ant-** |
-| | **gyenge töv** | jelen idői tő + **-at-** :br(A gyenge jelen idői töv végződése megegyezik a 3. plurális P. előttivel.) |
+| | **starker Tő** | Jelen idejű tő + **-ant-** |
+| | **schwacher Tő** | Jelen idejű tő + **-at-** :br(Der Auslaut des schwachen Jelen idejű tőes lautet gleich wie vor der 3. Plur. P.) |
 | **nőnem** | | |
-| | | jelen idői tő + **-at-** + **-ī** (ragozás mint **devī** :br⟪देवी⟫) |
+| | | Jelen idejű tő + **-at-** + **-ī** (Deklination wie **devī** :br⟪देवी⟫) |
 
 :::
 2\. jelen idői osztály:
@@ -94,10 +94,10 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 :::
 ::: grammar-box
 
-| | | hímnem:br⟪पुंस्⟫ | középnem:br⟪नपुंसक⟫ | nőnem:br⟪स्त्री⟫ |
+| | | hímnem:br⟪पुंस्⟫ | semlegesnem:br⟪नपुंसक⟫ | nőnem:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **egyes szám** :br⟪एकवचन⟫ | **1. alanyeset (nominativus)** :br⟪प्रथमा⟫ | ⟪सन्⟫ :braus s-ant-s | ⟪सत्⟫ :brs-at-Ø | ⟪सती⟫ :brs-at-ī |
-| | **2. tárgyeset (accusativus)** :br⟪द्वितीया⟫ | ⟪सन्तम्⟫ :brs-ant-am | ⟪सत्⟫ | mint **devī** :br⟪देवी⟫ |
+| | **2. tárgyeset (accusativus)** :br⟪द्वितीया⟫ | ⟪सन्तम्⟫ :brs-ant-am | ⟪सत्⟫ | wie **devī** :br⟪देवी⟫ |
 | | **3. eszközhatározó eset (instrumentalis)** :br⟪तृतीया⟫ | ⟪सता⟫ :brs-at-ā | ⟪सता⟫ | |
 | | **6. birtokos eset (genitivus)** :br⟪षष्ठी⟫ | ⟪सतस्⟫ :brs-at-as | ⟪सतस्⟫ | |
 | **többes szám** :br⟪बहुवचन⟫ | **1. alanyeset (nominativus)** :br⟪प्रथमा⟫ | ⟪सन्तस्⟫ :brs-ant-as | ⟪सन्ति⟫ :brs-ant-i | |
@@ -140,10 +140,10 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 | | | |
 | :--- | :--- | :--- |
 | **hímnem, semlegesnem** | | |
-| | **erős tő** | ⟪महान्त्⟫ |
-| | **gyenge tő** | ⟪महत्⟫ |
+| | **starker Tő** | ⟪महान्त्⟫ |
+| | **schwacher Tő** | ⟪महत्⟫ |
 | **nőnem** | | |
-| | | ⟪महती⟩ :brwie **devī** :br⟪देवी⟫ |
+| | | ⟪महती⟫ :brwie **devī** :br⟪देवी⟫ |
 
 :::
 ::: grammar-box

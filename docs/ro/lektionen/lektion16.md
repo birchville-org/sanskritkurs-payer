@@ -1,9 +1,9 @@
 ---
-title: Lecția 16
-subtitle: "Despre Sandhi consonanțelor finale"
+title: Lektion 16
+subtitle: "Zum Sandhi auslautender Konsonanten"
 lesson_id: 16
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -136,7 +136,7 @@ Fig.: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 :::
 ⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
-⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
+⟪६⟫.  ⟪सुखवत्या⟫ ⟪वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
 ⟪७⟫. ⟪कवेरुक्त्याः⟫ ⟪सत्यम्⟫ ⟪।⟫
 
@@ -180,10 +180,10 @@ Utilizați următorul model, care corespunde ordinii cazurilor la gramaticienii 
 
 | Singular:br⟪एकवचनम्⟫ | Plural:br⟪बहुवचनम्⟫ |
 | :--- | :--- |
-| **⟪१⟫. ⟪प्रथमा⟫**:brNominativ | **⟪१⟫. ⟪प्रथमा⟫** |
-| **⟪२⟫. ⟪द्वितीया⟫**:brAcuzativ | **⟪२⟫. ⟪द्वितीया⟫** |
-| **⟪३⟫. ⟪तृतीया⟫**:brInstrumental | **⟪३⟫. ⟪तृतीया⟫** |
-| **⟪६⟫. ⟪षष्ठी⟫**:brGenitiv | **⟪६⟫. ⟪षष्ठी⟫** |
+| **⟪१⟫. ⟪प्रथमा⟫** :brNominativ | **⟪१⟫. ⟪प्रथमा⟫** |
+| **⟪२⟫. ⟪द्वितीया⟫** :brAkkusativ | **⟪२⟫. ⟪द्वितीया⟫** |
+| **⟪३⟫. ⟪तृतीया⟫** :brInstrumentalis | **⟪३⟫. ⟪तृतीया⟫** |
+| **⟪६⟫. ⟪षष्ठी⟫** :brGenetiv | **⟪६⟫. ⟪षष्ठी⟫** |
 
 Învățați pe de rost modelele de declinare conform acestor exemple!!!
 

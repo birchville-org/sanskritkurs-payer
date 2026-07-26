@@ -1,10 +1,10 @@
 ---
-title: 30. lecke
-subtitle: "A 9. jelen időosztály (⟪क्र्यादि⟫ = \"⟪क्री⟫ stb.\")"
+title: Lektion 30
+subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
 lesson_id: 30
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 30. lecke
@@ -18,9 +18,9 @@ status: stabil
 
 *   gyenge tő:
 
-*   mássalhangzó előtt: mély hangzású tő + -nī-
+    *   mássalhangzó előtt: mély hangzású tő + -nī-
 
-*   magánhangzó előtt: mély hangzású tő + -n-
+    *   magánhangzó előtt: mély hangzású tő + -n-
 :::
 Példa:
 
@@ -29,20 +29,20 @@ Példa:
 :::
 ::: grammar-box
 
-| |egyes szám:br⟪एकवचन⟫|többes szám:br⟪बहुवचन⟫|
+| | egyes szám:br⟪एकवचन⟫ | többes szám:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
-|**3. Person:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
+| **3. Person:brParasmaipada** | ⟪क्रीणाति⟫:br(krī + nā + ti) | ⟪क्रीणन्ति⟫:br(krī + n + anti) |
+| **3. Person:brĀtmanepada** | ⟪क्रीणीते⟫:br(krī + nī + te) | ⟪क्रीणते⟫:br(krī + n + ate) |
 
 :::
 Ezen jelen időosztály esetén különösen figyelembe veendő a ज्ञा 9U "ismerni, tudni" gyökérhez tartozó jelen időstám képzése:
 
 ::: grammar-box
 
-|egyes szám:br⟪एकवचन⟫|többes szám:br⟪बहुवचन⟫|
+| | egyes szám:br⟪एकवचन⟫ | többes szám:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
-|**3. Person:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
+| **3. Person:brParasmaipada** | ⟪जानाति⟫:br(jā-nā-ti) | ⟪जानन्ति⟫:br(jā-n-anti) |
+| **3. Person:brĀtmanepada** | ⟪जानीते⟫:br(jā-nī-te) | ⟪जानते⟫:br(jā-n-ate) |
 
 :::
 A ⟪जा⟫ forma, amely a ⟪ज्ञा⟫ jelen idői tőjének alapja, magyarázható egy -ā (mély fok) -nā (magas fok) ablautsorozattal, vagy a *jñā-nā-ti-ből történő disszimilációval.
@@ -56,10 +56,10 @@ Példa:
 :::
 ::: grammar-box
 
-| |egyes szám:br⟪एकवचन⟫|többes szám:br⟪बहुवचन⟫|
+| | egyes szám:br⟪एकवचन⟫ | többes szám:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3. személy:brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
-|**3. személy:brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
+| **3. személy:brParasmaipada** | ⟪पुनाति⟫:br(pu-nā-ti) | ⟪पुनन्ति⟫:br(pu-n-anti) |
+| **3. személy:brĀtmanepada** | ⟪पुनीते⟫:br(pu-nī-te) | ⟪पुनते⟫:br(pu-n-ate) |
 
 :::
 A jelen idői melléknév (Partizip Präsens) Parasmaipada képzése:
@@ -115,10 +115,10 @@ Az optatív (⟪लिङ्⟫), az imperfectum (⟪लङ्⟫), az aorisztus
 
 ::: grammar-box
 
-| |3. személy egyes szám|3. személy többes szám|
+| | 3. Person egyes szám | 3. Person többes szám |
 | :--- | :--- | :--- |
-|**Parasmaipada**|**-t**|athematikus osztályok: **-an** vagy **-ur** :brKívánó mód (optativus): **-ur**|
-|**Ātmanepada**|**-ta**|athematikus osztályok: **-ata** (a *nta-ból):brKívánó mód (optativus): **-ran**|
+| **Parasmaipada** | **-t** | athematische Klassen: **-an** oder **-ur** :brKívánó mód (optativus): **-ur** |
+| **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brKívánó mód (optativus): **-ran** |
 
 :::
 ## 30.4. Az optativus jelen idő képzése (⟪लिङ्⟫)
@@ -141,10 +141,10 @@ Példák:
 ⟪भू⟫
 ::: grammar-box
 
-| |egyes szám:br⟪एकवचन⟫|többes szám:br⟪बहुवचन⟫|
+| | egyes szám:br⟪एकवचन⟫ | többes szám:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
-|**3. Person:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
+| **3. Person:brParasmaipada** | ⟪भवेत्⟫:br(bhava + i + t) | ⟪भवेयुर्⟫:br(bhava + i + y + ur) |
+| **3. Person:brĀtmanepada** | ⟪भवेत⟫:br(bhava + i + ta) | ⟪भवेरन्⟫:br(bhava + i + ran) |
 
 :::
 4\. Präsensklasse:
@@ -152,10 +152,10 @@ Példák:
 ⟪नृत्⟫
 ::: grammar-box
 
-| egyes szám:br⟪एकवचन⟫| többes szám:br⟪बहुवचन⟫|
+| | egyes szám:br⟪एकवचन⟫ | többes szám:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3. személy:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
-|**3. személy:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
+| **3. személy:brParasmaipada** | ⟪नृत्येत्⟫:br(nṛtya + i + t) | ⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur) |
+| **3. személy:brĀtmanepada** | ⟪नृत्येत⟫:br(nṛtya + i + ta) | ⟪नृत्येरन्⟫:br(nṛtya + i + ran) |
 
 :::
 6\. jelen időosztály
@@ -163,21 +163,21 @@ Példák:
 ⟪विश्⟫
 ::: grammar-box
 
-| egyes szám:br⟪एकवचन⟫| többes szám:br⟪बहुवचन⟫|
+| | egyes szám:br⟪एकवचन⟫ | többes szám:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3. személy:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
-|**3. személy:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
+| **3. személy:brParasmaipada** | ⟪विशेत्⟫:br(viśa + i + t) | ⟪विशेयुर्⟫:br(viśa + i + y + ur) |
+| **3. személy:brĀtmanepada** | ⟪विशेत⟫:br(viśa + i + ta) | ⟪विशेरन्⟫:br(viśa + i + ran) |
 
 :::
-10. jelen időosztály és kausatívumok
+jelen időosztály és kausatívumok
 
 ⟪चुर्⟫
 ::: grammar-box
 
-| |egyes szám:br⟪एकवचन⟫|többes szám:br⟪बहुवचन⟫|
+| | egyes szám:br⟪एकवचन⟫ | többes szám:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3. személy:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
-|**3. személy:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
+| **3. személy:brParasmaipada** | ⟪चोरयेत्⟫:br(coraya + i + t) | ⟪चोरयेयुर्⟫:br(coraya + i + y + ur) |
+| **3. személy:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
 
 :::
 ### 30.4.2. Athémás jelen időosztályok
@@ -193,26 +193,26 @@ Példák:
 :::
 Példák:
 
-2. jelen időosztály:
+jelen időosztály:
 
 ⟪द्विष्⟫
 ::: grammar-box
 
-| |egyes szám:br⟪एकवचन⟫|többes szám:br⟪बहुवचन⟫|
+| | egyes szám:br⟪एकवचन⟫ | többes szám:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3. személy:brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
-|**3. személy:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
+| **3. személy:brParasmaipada** | ⟪द्विष्यात्⟫:br(dviṣ-yā-t) | ⟪द्विष्युर्⟫:br(dviṣ-y-ur) |
+| **3. személy:brĀtmanepada** | ⟪द्विषीत⟫:br(dviṣ-ī-ta) | ⟪द्विषीरन्⟫:br(dviṣ-ī-ran) |
 
 :::
-5. jelen időosztály
+jelen időosztály
 
 ⟪सु⟫
 ::: grammar-box
 
-| |egyes szám:br⟪एकवचन⟫|többes szám:br⟪बहुवचन⟫|
+| | egyes szám:br⟪एकवचन⟫ | többes szám:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
-|**3. Person:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
+| **3. Person:brParasmaipada** | ⟪सुनुयात्⟫:br(sunu-yā-t) | ⟪सुनुयुर्⟫:br(sunu-y-ur) |
+| **3. Person:brĀtmanepada** | ⟪सुन्वीत⟫:br(sunu + ī + ta) | ⟪सुन्वीरन्⟫:br(sunu + ī + ran) |
 
 :::
 8\. Präsensklasse
@@ -220,28 +220,28 @@ Példák:
 ⟪तन्⟫
 ::: grammar-box
 
-| egyes szám:br⟪एकवचन⟫|többes szám:br⟪बहुवचन⟫|
+| | egyes szám:br⟪एकवचन⟫ | többes szám:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3. Person:brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
-|**3. Person:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
+| **3. Person:brParasmaipada** | ⟪तनुयात्⟫:br(tanu-yā-t) | ⟪तनुयुर्⟫:br(tanu-y-ur) |
+| **3. Person:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
 **kṛ** :br(⟪कृ⟫)
 
 ::: grammar-box
 
-| egyes szám:br⟪एकवचन⟫| többes szám:br⟪बहुवचन⟫|
+| | egyes szám:br⟪एकवचन⟫ | többes szám:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3. személy:brParasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
-|**3. személy:brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
+| **3. személy:brParasmaipada** | ⟪कुर्यात्⟫ | ⟪कुर्युर्⟫ |
+| **3. személy:brĀtmanepada** | ⟪कुर्वीत⟫ | ⟪कुर्वीरन्⟫ |
 
 :::
 ::: grammar-box
 
-|egyes szám:br⟪एकवचन⟫|többes szám:br⟪बहुवचन⟫|
+| | egyes szám:br⟪एकवचन⟫ | többes szám:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3. Person Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
-|**3. Person Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
+| **3. Person Parasmaipada** | ⟪क्रीणीयात्⟫:br(krīṇī-yā-t) | ⟪क्रीणीयुर्⟫:br(krīṇī-y-ur) |
+| **3. Person Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
 
 :::
 ## 30.5. A végződő -r Sandhija
@@ -384,71 +384,71 @@ abból:
 
 A) Alakítsa át a következő igemódokat az személy, szám és nem szerint megfelelő optativus alakokra:
 
-1. ⟪ह्रियते⟫
-2. ⟪ध्नन्ति⟫
-3. ⟪स्मरति⟫
-4. ⟪स्थापयन्ति⟫
-5. ⟪स्तौति⟫
-6. ⟪सर्ज्यते⟫
-7. ⟪सुन्वन्ति⟫
-8. ⟪सिञ्चति⟫
-9. ⟪शृणोति⟫
-10. ⟪शक्नुवन्ति⟫
-11. ⟪वर्तन्ते⟫
-12. ⟪वेशयन्ति⟫
-13. ⟪वस्ते⟫
-14. ⟪उष्यते⟫
-15. ⟪वाद्यते⟫
-16. ⟪उच्यते⟫
-17. ⟪लम्भ्यते⟫
-18. ⟪रक्षयन्ति⟫
-19. ⟪युध्यते⟫
-20. ⟪इज्यते⟫
-21. ⟪म्रियते⟫
-22. ⟪मुञ्चन्ति⟫
-23. ⟪मन्यन्ते⟫
-24. ⟪भवति⟫
-25. ⟪भजन्ति⟫
-26. ⟪ब्रवीति⟫
-27. ⟪बुध्यते⟫
-28. ⟪पृच्छन्ति⟫
-29. ⟪पुनाति⟫
-30. ⟪पाति⟫
-31. ⟪पीयते⟫
-32. ⟪पद्यते⟫
-33. ⟪पतति⟫
-34. ⟪पाचयन्ति⟫
-35. ⟪नृत्यन्ति⟫
-36. ⟪नीयते⟫
-37. ⟪द्विषते⟫
-38. ⟪पश्यन्ति⟫
-39. ⟪दोग्धि⟫
-40. ⟪दुष्यति⟫
-41. ⟪देशयन्ति⟫
-42. ⟪दहति⟫
-43. ⟪तनुते⟫
-44. ⟪जानाति⟫
-45. ⟪जानते⟫
-46. ⟪जयन्ति⟫
-47. ⟪जायन्ते⟫
-48. ⟪चोर्यते⟫
-49. ⟪चारयति⟫
-50. ⟪गच्छन्ति⟫
-51. ⟪खाद्यते⟫
-52. ⟪क्रीणीते⟫
-53. ⟪क्रियते⟫
-54. ⟪कोपयति⟫
-55. ⟪कामयते⟫
-56. ⟪इच्छति⟫
-57. ⟪आययन्ति⟫
-58. ⟪आस्यते⟫
-59. ⟪आप्नुवते⟫
-60. ⟪अस्यते⟫
-61. ⟪सन्ति⟫
-62. ⟪अश्नुते⟫
-63. ⟪अर्हति⟫
-64. ⟪अदन्ति⟫
-65. ⟪अध्यापयन्ति⟫
+1.  ⟪ह्रियते⟫
+2.  ⟪ध्नन्ति⟫
+3.  ⟪स्मरति⟫
+4.  ⟪स्थापयन्ति⟫
+5.  ⟪स्तौति⟫
+6.  ⟪सर्ज्यते⟫
+7.  ⟪सुन्वन्ति⟫
+8.  ⟪सिञ्चति⟫
+9.  ⟪शृणोति⟫
+10.  ⟪शक्नुवन्ति⟫
+11.  ⟪वर्तन्ते⟫
+12.  ⟪वेशयन्ति⟫
+13.  ⟪वस्ते⟫
+14.  ⟪उष्यते⟫
+15.  ⟪वाद्यते⟫
+16.  ⟪उच्यते⟫
+17.  ⟪लम्भ्यते⟫
+18.  ⟪रक्षयन्ति⟫
+19.  ⟪युध्यते⟫
+20.  ⟪इज्यते⟫
+21.  ⟪म्रियते⟫
+22.  ⟪मुञ्चन्ति⟫
+23.  ⟪मन्यन्ते⟫
+24.  ⟪भवति⟫
+25.  ⟪भजन्ति⟫
+26.  ⟪ब्रवीति⟫
+27.  ⟪बुध्यते⟫
+28.  ⟪पृच्छन्ति⟫
+29.  ⟪पुनाति⟫
+30.  ⟪पाति⟫
+31.  ⟪पीयते⟫
+32.  ⟪पद्यते⟫
+33.  ⟪पतति⟫
+34.  ⟪पाचयन्ति⟫
+35.  ⟪नृत्यन्ति⟫
+36.  ⟪नीयते⟫
+37.  ⟪द्विषते⟫
+38.  ⟪पश्यन्ति⟫
+39.  ⟪दोग्धि⟫
+40.  ⟪दुष्यति⟫
+41.  ⟪देशयन्ति⟫
+42.  ⟪दहति⟫
+43.  ⟪तनुते⟫
+44.  ⟪जानाति⟫
+45.  ⟪जानते⟫
+46.  ⟪जयन्ति⟫
+47.  ⟪जायन्ते⟫
+48.  ⟪चोर्यते⟫
+49.  ⟪चारयति⟫
+50.  ⟪गच्छन्ति⟫
+51.  ⟪खाद्यते⟫
+52.  ⟪क्रीणीते⟫
+53.  ⟪क्रियते⟫
+54.  ⟪कोपयति⟫
+55.  ⟪कामयते⟫
+56.  ⟪इच्छति⟫
+57.  ⟪आययन्ति⟫
+58.  ⟪आस्यते⟫
+59.  ⟪आप्नुवते⟫
+60.  ⟪अस्यते⟫
+61.  ⟪सन्ति⟫
+62.  ⟪अश्नुते⟫
+63.  ⟪अर्हति⟫
+64.  ⟪अदन्ति⟫
+65.  ⟪अध्यापयन्ति⟫
 
 B) Fordítsa le a következő mondatokat, és oldja fel a szanszkrit összetételeket:
 

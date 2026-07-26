@@ -1,9 +1,9 @@
 ---
-title: Lecția 45
-subtitle: "Formarea formelor verbale de persoana a II-a (⟪मध्यमः⟫) ale rădăcinilor atematice fără sufix cu final vocalică (continuare)"
+title: Lektion 45
+subtitle: "Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)"
 lesson_id: 45
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
@@ -18,20 +18,20 @@ status: stable
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪जुहोषि⟫ | ⟪जुहुथ⟫ | \<⟪जुहुषे⟫\> | \<⟪जुहुध्वे⟫\> |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अजुहोस्⟫ | ⟪अजुहुत⟫ | \<⟪अजुहुथास्⟫\> | \<⟪अजुहुध्वम्⟫\> |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪जुहुयास्⟫ | ⟪जुहुयात⟫ | \<⟪जुह्वीथास्⟫\> | \<⟪जुह्वीध्वम्⟫\> |
 :::
 ⟪धा⟫ 2U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:brdin: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪दधासि⟫ | ⟪धत्थ⟫:braus: dadh + tha | ⟪धत्से⟫ | ⟪धद्ध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
 :::
 ### 45.1.2. A șaptea clasă de prezintă (⟪रुधादि⟫)
 
@@ -45,20 +45,20 @@ de ex. **⟪युज्⟫** 3.sg.Ind.Prez.Ā ⟪युङ्क्ते⟫ sa
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अयुनक्⟫:brdin: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪युनक्षि⟫:bryu-na-j + si | ⟪युङ्क्थ⟫:br⟪युङ्थ⟫ | ⟪युङ्क्षे⟫ | ⟪युङ्ग्ध्वे⟫:br⟪युङ्ध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अयुनक्⟫:braus: a-yu-na-j + s | ⟪युङ्क्त⟫:br⟪अयुङ्त⟫ | ⟪अयुङ्क्थास्⟫:br⟪अयुङ्थास्⟫ | ⟪अयुङ्ग्ध्वम्⟫:br⟪अयुङ्ध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪युञ्ज्यास्⟫ | ⟪युञ्ज्यात⟫ | ⟪युञ्जीथास्⟫ | ⟪युञ्जीध्वम्⟫ |
 :::
 ⟪रुध्⟫ 7U
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | --- | --- | --- | --- | --- |
-| | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** | **⟪एकवचनम्⟫** | **⟪बहुवचनम्⟫** |
-| **Indicativ Prezent**:br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
-| **Imperfect**:br⟪लङ्⟫ | ⟪अरुणत्⟫:brdin a-ru-ṇa-dh + s:br ***⟪अरुण्स्⟫*** (nereg.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
-| **Optativ**:br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
+| | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
+| **Indikativ Präsens** :br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br sig[⟪अरुण्स्⟫] (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
+| **Optativ** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
 :::
 ## 45.2. Vocativul singular (⟪आमन्त्रितमेकवचने⟫)
 
@@ -92,11 +92,11 @@ De exemplu, **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪रा
 | Neutre în -mant/-vant | ⟪गुणवन्⟫ |
 | Neutre în -mant/-vant | ⟪गुणवत्⟫:br= Nominativ |
 | Pronume | nu se formează un vocativ |
-:::: media
+:::
+::: media
 ![](/images/lekt4501.webp)
 Fig.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4501))
-::::
 :::
 ## 45.3. Listă de cuvinte
 
@@ -146,9 +146,11 @@ B) Traduceți:
 Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4502))
 :::
+
 ::: deleteme-box
 
 **lekt4501.jpg**: Tipărire pe bloc textil, Ahmedabad. -- Sursa imaginii: Daveybot. -- http://www.flickr.com/photos/davemorris/316429534/. -- Accesat la 2009-01-08. -- Licență Creative Commons (Atribuire, utilizare non-comercială, share alike)
 
 **lekt4502.jpg**: Sursa imaginii: John Isaac / Banca Mondială. -- http://www.flickr.com/photos/worldbank/2348425672/. -- Accesat la 2009-01-08. -- Licență Creative Commons (Atribuire, utilizare non-comercială, fără modificări)
 :::
+

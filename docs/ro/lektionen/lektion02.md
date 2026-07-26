@@ -1,9 +1,9 @@
 ---
-title: Lecția 2
-subtitle: "Propoziția nominală și bazele declinării"
+title: Lektion 2
+subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
 lesson_id: 2
-category: "Gramatică"
-status: "stabil"
+category: "Grammatik"
+status: "stable"
 last_reconstructed: 2026-04-30
 ---
 
@@ -23,8 +23,6 @@ Nu există **articole**: **devaḥ** -- ⟪देवः⟫ poate însemna "zeul"
 Deși în sanscrită ordinea cuvintelor în propoziție este destul de liberă (în special în versuri), la traducerea unei propoziții nominale trebuie întotdeauna să se ia în considerare în primul rând o traducere conform schemei standard de mai sus.
 
 În propoziția nominală, subiectul este la nominativ (primul caz = **prathamā** f. = ⟪प्रथमा⟫). Numele predicativ se acordă cu subiectul în număr și caz; dacă numele predicativ este un adjectiv, se acordă și în gen.
-
----
 
 ## 2.2. Despre declinare (flexiunea substantivelor)
 
@@ -49,8 +47,6 @@ Exemplu: **devas** = ⟪देवस्⟫ (Nominativ Singular Masculin) "zeul/u
 - **vacana** n. -- ⟪वचन⟫ n. (neutru)
 - **vyakti** f. -- ⟪व्यक्ति⟫ f. (feminin)
 
----
-
 ## 2.3. Nominativul singular
 
 **Nominativul singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
@@ -67,7 +63,6 @@ Următoarele rădăcini nominale, care se termină cu o vocală, formează nomin
 **Masculine pe -i:** ex. kavi m. = ⟪कवि⟫ "poet" -- Nom. sg.: kavis = ⟪कविस्⟫
 **Masculine pe -u:** ex. guru m. = ⟪गुरु⟫ "profesor" -- Nom. sg.: gurus = ⟪गुरुस्⟫
 :::
----
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫
 
@@ -106,8 +101,6 @@ Sunetul final **-s**:
     - înaintea altor vocale: devine **-a** (hiat)
       - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
 
----
-
 ## 2.5. Listă de cuvinte
 
 **deva** m. -- ⟪देव⟫ : Cerească, zeu; prinț, rege.
@@ -122,7 +115,7 @@ Sunetul final **-s**:
 
 **śūdra** m. -- ⟪शूद्र⟫ : Śūdra (clasa serviciilor).
 
-::: tip Cele patru caste (varna)
+::: note-box Die vier Stände (varna)
 Conform teoriei clasice (de ex. Manusmṛti I, 88-91), sarcinile sunt distribuite:
 
 - **a brahmanilor**
@@ -212,8 +205,6 @@ Fig.: Sādhu (⟪साधु⟫), Templul Pashupatinath, Kathmandu.
 **guru** 3 -- ⟪गुरु⟫: greu, important, demn de venerare
 
 **guru** m. -- ⟪गुरु⟫: persoană demnă de venerare: tată, mamă, rudă mai în vârstă, în special învățător, maestru
-
----
 
 ## 2.6. Exercițiu
 

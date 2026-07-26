@@ -1,10 +1,10 @@
 ---
-title: 60. lecke
-subtitle: "A kettős szám perfekta végződése (⟪द्विवचनम्⟫)"
+title: Lektion 60
+subtitle: "Die Perfektendungen des Dual (⟪द्विवचनम्⟫)"
 lesson_id: 60
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 60. lecke
@@ -24,7 +24,7 @@ status: stabil
 ⟪बन्ध्⟫ 9P "kötni"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪बबन्धिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪बबन्धथुर्⟫ |
@@ -57,7 +57,7 @@ status: stabil
 ⟪नी⟫ 1U „vezet”
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪निन्यिव⟫ | ⟪निन्यिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪निन्यथुर्⟫ | ⟪निन्याथे⟫ |
@@ -66,7 +66,7 @@ status: stabil
 ⟪स्तु⟫ 2U (⟪अनिट्⟫) „dicsér”
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪तुष्टुव⟫ | ⟪तुष्तुवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪तुष्टुवथुर्⟫ | ⟪तुष्टुवाथे⟫ |
@@ -75,7 +75,7 @@ status: stabil
 ⟪कृ⟫ 8U (⟪अनिट्⟫) „cselekszik, készít”
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चकृव⟫ | ⟪चकृवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
@@ -86,7 +86,7 @@ status: stabil
 ⟪स्मृ⟫ 1P „megjelenít”
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪सस्मरिव⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
@@ -97,7 +97,7 @@ status: stabil
 ⟪दा⟫ 3U „ad”
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪ददिव⟫ | ⟪ददिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪ददथुर्⟫ | ⟪ददाथे⟫ \* |
@@ -112,7 +112,7 @@ status: stabil
 ⟪गम्⟫ 1U "menni"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪जग्मिव⟫ | ⟪जग्मिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪जग्मथुर्⟫ | ⟪जग्माथे⟫ |
@@ -123,7 +123,7 @@ status: stabil
 ⟪पच्⟫ 1U "lépni"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪पेचिव⟫ | ⟪पेचिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
@@ -134,7 +134,7 @@ status: stabil
 ⟪क्रम्⟫ 1U "lépni"
 
 ::: grammar-box
-|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
+|   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪चक्रमिव⟫ | ⟪चक्रमिवहे⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रमथुर्⟫ | ⟪चक्रमाथे⟫ |
@@ -183,8 +183,8 @@ Példák:
 
 *   **Erős tő: -vāṃs**
 *   **Gyenge tő:**
-*   **Mássalhangzó előtt: **-vat** **(!)**
-*   **Magánhangzó előtt: -uṣ**
+    *   **Mássalhangzó előtt: **-vat** **(!)**
+    *   **Magánhangzó előtt: -uṣ**
 
 **-i- kötőmagánhangzó kiesik uṣ előtt.**
 
@@ -217,14 +217,14 @@ A paradigmákért lásd Kielhorn, Grammatik § 124:
 
 *   **Erős tő: -añc**
 *   **Gyenge tő:**
-*   **Mássalhangzó előtt: -ac**
-*   **Magánhangzó előtt:**
-*   **A gyenge tő -ac tagjának -a- kiesik, és az előtte álló fémmagánhangzó helyére a hozzá tartozó hosszú magánhangzó kerül:**
-⟪प्रत्यच्⟫ » ⟪प्रतीच्⟫  
-⟪अन्वच्⟫ » ⟪अनूच्⟫
-*   **Ha az -ac előtt nincs fémmagánhangzó, akkor -ac helyett -īc kerül:**
-⟪उदच्⟫ » ⟪उदीच्⟫
-*   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
+    *   **Mássalhangzó előtt: -ac**
+    *   **Magánhangzó előtt:**
+        *   **A gyenge tő -ac tagjának -a- kiesik, és az előtte álló fémmagánhangzó helyére a hozzá tartozó hosszú magánhangzó kerül:**
+            ⟪प्रत्यच्⟫ » ⟪प्रतीच्⟫  
+            ⟪अन्वच्⟫ » ⟪अनूच्⟫
+        *   **Ha az -ac előtt nincs fémmagánhangzó, akkor -ac helyett -īc kerül:**
+            ⟪उदच्⟫ » ⟪उदीच्⟫
+        *   ⟪तिर्यञ्च्⟫ » ⟪तिरश्⟫
 
 **Nem:**
 
@@ -276,10 +276,10 @@ Paradigma ⟪प्राञ्च्⟫ lásd fent!
 
 A fő égtájak
 
-|   | ⟪उदञ्च्⟫ 3:br"felfelé irányuló,:brészaki" |   |
+|   | ⟪उदञ्च्⟫ 3:br"nach oben gerichtet,:brnördlich" |   |
 | :---: | :---: | :---: |
-| ⟪प्रत्यञ्च्⟫ 3:br"hátrafelé,:brnyugati" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"előrefelé irányuló,:brdéli" |
-|   | ⟪दक्षिण⟫ 3:br"jobbra,:brdéli" |   |
+| ⟪प्रत्यञ्च्⟫ 3:br"rückwärts,:brwestlich" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"vorwärts gerichtet,:bröstlich" |
+|   | ⟪दक्षिण⟫ 3:brrechts,:brsüdlich |   |
 
 (Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt6005))
 
@@ -321,38 +321,38 @@ A kötőmag -i- használatára vonatkozó szabályok: lásd Kielhorn, Grammatik 
 ::: grammar-box
 **A gyök alakja:**
 
-1. A gyök általában mély fokú: ⟪जीव्⟫ » ⟪जिजीविष⟫-
+1.  A gyök általában mély fokú: ⟪जीव्⟫ » ⟪जिजीविष⟫-
 
-1.  a szó végén álló -i, -u helyett -ī, illetve -ū kerül, ha nem következik kötőmag:
+    1.  a szó végén álló -i, -u helyett -ī, illetve -ū kerül, ha nem következik kötőmag:
 ⟪जि⟫ » ⟪जि⟫sig[⟪गी⟫]⟪ष⟫- "győzni kívánni"  
 ⟪द्रु⟫ » ⟪दु⟫sig[⟪द्रू⟫]⟪ष⟫- "futni kívánni"
 
-2.  a szó végén álló -ṛ, -ṝ helyett -īr kerül, hangzókonsonánsok után pedig -ūr, ha nem következik kötőmag:
+    2.  a szó végén álló -ṛ, -ṝ helyett -īr kerül, hangzókonsonánsok után pedig -ūr, ha nem következik kötőmag:
 ⟪कृ⟫ » ⟪चि⟫sig[⟪कीर्ष⟫]\- "tenni kívánni"  
 ⟪मृ⟫ » ⟪मु⟫sig[⟪मूर्ष⟫]\- "halni készülni"  
 ⟪पॄ⟫ » ⟪पु⟫sig[⟪पूर्ष⟫]\- "tölteni kívánni"
 
-3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ és néhány más -ā, -e, -o végű gyökér mély fokú Ø-t mutat:
+    3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ és néhány más -ā, -e, -o végű gyökér mély fokú Ø-t mutat:
 ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
 ⟪धा⟫ » ⟪धित्स⟫-  
 ⟪मा⟫ » ⟪मित्स⟫-
 
 2.  A magas fokú gyökök a desideratívumban:
-1.  a legtöbb -ā (-e, -ai stb.) végű gyökér:
+    1.  a legtöbb -ā (-e, -ai stb.) végű gyökér:
 ⟪गै⟫ » ⟪जिगास⟫- "énekelni kívánni"  
 ⟪पा⟫ » ⟪पिपास⟫- "inni kívánni, szomjazni"
 
-2.  a / ā - mássalhanggal rendelkező gyökök többsége:
+    2.  a / ā - mássalhanggal rendelkező gyökök többsége:
 ⟪दह्⟫ » ⟪दिधक्ष⟫- "égést kívánni"  
 ⟪खाद्⟫ » ⟪चिखादिष⟫- "rágást kívánni"
 
-3.  az -i- kötőmagánhangzó felvételekor:
-1.  kötelező: i/u - mássalhangzóval rendelkező gyökök, valamint (mássalhangzó -) ṛ/ḷ - mássalhangzóval rendelkező gyökök:
+    3.  az -i- kötőmagánhangzó felvételekor:
+        1.  kötelező: i/u - mássalhangzóval rendelkező gyökök, valamint (mássalhangzó -) ṛ/ḷ - mássalhangzóval rendelkező gyökök:
 ⟪इष्⟫ » ⟪एषिषिष⟫- "kívánságot kívánni"  
 ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "alkalmasságot kívánni"  
 ⟪स्मि⟫ » ⟪सि⟫sig[⟪स्म⟫]⟪यिष⟫- "mosolygást kívánni"
 
-2.  opcionális: (mássalhangzó -) i/u - mássalhangzós gyökök, kivéve -v\_
+        2.  opcionális: (mássalhangzó -) i/u - mássalhangzós gyökök, kivéve -v\_
 ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "villanást kívánni"
 :::
 ::: grammar-box
@@ -365,12 +365,12 @@ A kötőmag -i- használatára vonatkozó szabályok: lásd Kielhorn, Grammatik 
 A gyök végén álló -s cerebralizálása i/u után elmarad, ha a desideratív képző s-je cerebralizálódik:  
 ⟪स्मि⟫ » ⟪सिस्मयिष⟫-
 
-2. A magánhangzóval kezdődő gyököket a duplikált aorist megfelelő szabályai szerint ([Lektion 56](lektion56.md)) duplikálják:
+2.  A magánhangzóval kezdődő gyököket a duplikált aorist megfelelő szabályai szerint ([Lektion 56](lektion56.md)) duplikálják:
 ⟪इष्⟫ » ⟪एषिषिष⟫- (eṣ-i-ṣ-i-ṣa)  
 ⟪ईक्ष⟫ » ⟪ईचिक्षिष⟫- (ī-c-i-kṣ-i-ṣa)  
 ⟪ऋ⟫ » ⟪अरिरिष⟫-
 
-3. A bizonyos gyökök különleges desideratív képzéséről lásd Kielhorn, Grammatik § 451.
+3.  A bizonyos gyökök különleges desideratív képzéséről lásd Kielhorn, Grammatik § 451.
 :::
 ::: grammar-box
 **Egyes gyökökhöz desideratív jelentés nélküli desiderativumok képződnek. Ezekhez a desiderativumokhoz desideratív jelentéssel bíró desiderativumok képezhetők.**
@@ -435,105 +435,105 @@ B) Határozza meg és fordítsa le az alábbi alakokat segédeszközök nélkül
 
 1.  ⟪ददुषोः⟫
 
-2. ⟪अहिंसीः⟫
+2.  ⟪अहिंसीः⟫
 
-3. ⟪देमथुः⟫
+3.  ⟪देमथुः⟫
 
-4. ⟪वक्त्वा⟫
+4.  ⟪वक्त्वा⟫
 
-5. ⟪अक्षथाः⟫
+5.  ⟪अक्षथाः⟫
 
-6. ⟪मुमुषिषिष्यतः⟫
+6.  ⟪मुमुषिषिष्यतः⟫
 
-7. ⟪अचिक्षंसेथाम्⟫
+7.  ⟪अचिक्षंसेथाम्⟫
 
-8. ⟪अस्नाः⟫
+8.  ⟪अस्नाः⟫
 
-9. ⟪जिहिंसुषि⟫
+9.  ⟪जिहिंसुषि⟫
 
-10. ⟪जिहिंसिषुणा⟫
+10.  ⟪जिहिंसिषुणा⟫
 
-11. ⟪द्युभिः⟫
+11.  ⟪द्युभिः⟫
 
-12. ⟪जग्लिव⟫
+12.  ⟪जग्लिव⟫
 
-13. ⟪अतिस्तीर्षम्⟫
+13.  ⟪अतिस्तीर्षम्⟫
 
-14. ⟪अस्मेष्ठाः⟫
+14.  ⟪अस्मेष्ठाः⟫
 
-15. ⟪ईशिष्व⟫
+15.  ⟪ईशिष्व⟫
 
-16. ⟪रुरुषतुः⟫
+16.  ⟪रुरुषतुः⟫
 
-17. ⟪रुरुषुः⟫
+17.  ⟪रुरुषुः⟫
 
-18. ⟪रुरुषिषुः⟫
+18.  ⟪रुरुषिषुः⟫
 
-19. ⟪अपिप्रीणताम्⟫
+19.  ⟪अपिप्रीणताम्⟫
 
-20. ⟪अपिप्रीषतम्⟫
+20.  ⟪अपिप्रीषतम्⟫
 
-21. ⟪पिप्रियतुः⟫
+21.  ⟪पिप्रियतुः⟫
 
-22. ⟪तिस्रः⟫
+22.  ⟪तिस्रः⟫
 
-23. ⟪अदांक्ष्टाम्⟫
+23.  ⟪अदांक्ष्टाम्⟫
 
-24. ⟪असिसीर्ष्यत⟫
+24.  ⟪असिसीर्ष्यत⟫
 
-25. ⟪बभासाते⟫
+25.  ⟪बभासाते⟫
 
-26. ⟪बिभासिषेथे⟫
+26.  ⟪बिभासिषेथे⟫
 
-27. ⟪अबीभणत⟫
+27.  ⟪अबीभणत⟫
 
-28. ⟪चकर्त⟫
+28.  ⟪चकर्त⟫
 
-29. ⟪चकर्थ⟫
+29.  ⟪चकर्थ⟫
 
-30. ⟪दिद्युते⟫
+30.  ⟪दिद्युते⟫
 
-31. ⟪दिद्युतिषे⟫
+31.  ⟪दिद्युतिषे⟫
 
-32. ⟪चुच्यूषवे⟫
+32.  ⟪चुच्यूषवे⟫
 
-33. ⟪दित्सामि⟫
+33.  ⟪दित्सामि⟫
 
-34. ⟪अचीकृतम्⟫
+34.  ⟪अचीकृतम्⟫
 
-35. ⟪विजिगीषौ⟫
+35.  ⟪विजिगीषौ⟫
 
-36. ⟪पित्सेथे⟫
+36.  ⟪पित्सेथे⟫
 
-37. ⟪उदीचि⟫
+37.  ⟪उदीचि⟫
 
-38. ⟪संगणय्य⟫
+38.  ⟪संगणय्य⟫
 
-39. ⟪अतिस्तराव⟫
+39.  ⟪अतिस्तराव⟫
 
-40. ⟪त्रिलोक्याः⟫
+40.  ⟪त्रिलोक्याः⟫
 
-41. ⟪अहः⟫
+41.  ⟪अहः⟫
 
-42. ⟪जग्मुषः⟫
+42.  ⟪जग्मुषः⟫
 
-43. ⟪अताप्स्व⟫
+43.  ⟪अताप्स्व⟫
 
-44. ⟪ईशिशिषाञ्चक्रे⟫
+44.  ⟪ईशिशिषाञ्चक्रे⟫
 
-45. ⟪ईशाञ्चक्रे⟫
+45.  ⟪ईशाञ्चक्रे⟫
 
-46. ⟪ईशयाञ्चक्रे⟫
+46.  ⟪ईशयाञ्चक्रे⟫
 
-47. ⟪षण्णाम्⟫
+47.  ⟪षण्णाम्⟫
 
-48. ⟪अघुक्षम्⟫
+48.  ⟪अघुक्षम्⟫
 
-49. ⟪अष्टौ⟫
+49.  ⟪अष्टौ⟫
 
-50. ⟪प्साथः⟫
+50.  ⟪प्साथः⟫
 
-51. ⟪अवाचः⟫
+51.  ⟪अवाचः⟫
 
-52. ⟪ईयुषे⟫
+52.  ⟪ईयुषे⟫
 

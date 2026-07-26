@@ -1,10 +1,10 @@
 ---
-title: 3. lecke
-subtitle: "A nőnem egyes számának alanyesete"
+title: Lektion 3
+subtitle: "Den Nominativ Singular des Femininums"
 lesson_id: 3
 last_reconstructed: 2026-05-07
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 3. lecke
@@ -139,12 +139,12 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ „Vaiśyas kétszer születtek” =
 
 **smṛti** n. = ⟪स्मृति⟫ : felidézés, emlékezet, meditációs felidézés = figyelem, hagyomány (a **śruti** szembenálló fogalma). Magában foglalja:
 - a hat **vedāṅga** n. (⟪वेदाङ्ग⟫)
-1. **śikṣā** n. (⟪शिक्षा⟫): a helyes kiejtés
-2. **chandas** n. (⟪छन्दस्⟫): mérték
-3. **vyākaraṇa** n. (⟪व्याकरण⟫): nyelvtan
-4. **nirukta** n. (⟪निरुक्त⟫) : szómagyarázat, etimológia
-5. **jyotiṣa** n. (⟪ज्योतिष⟫) : csillagászat, naptártan
-6. **kalpa** m. (⟪कल्प⟫) : szertartástan
+  1. **śikṣā** n. (⟪शिक्षा⟫): a helyes kiejtés
+  2. **chandas** n. (⟪छन्दस्⟫): mérték
+  3. **vyākaraṇa** n. (⟪व्याकरण⟫): nyelvtan
+  4. **nirukta** n. (⟪निरुक्त⟫) : szómagyarázat, etimológia
+  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : csillagászat, naptártan
+  6. **kalpa** m. (⟪कल्प⟫) : szertartástan
 - **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : a nagy áldozatok végrehajtásának kézikönyvei
 - **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : a mindennapi élet szertartásainak és áldozatainak kézikönyvei
 - **dharmasūtra** n. (⟪धर्मसूत्र⟫) és **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : jogi és szokásjogi kézikönyvek (helyes magatartás)

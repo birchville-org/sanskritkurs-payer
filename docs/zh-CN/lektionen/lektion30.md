@@ -1,9 +1,9 @@
 ---
-title: 第30课
-subtitle: "第9类现在时（⟪क्र्यादि⟫ = \"⟪क्री⟫等\"）"
+title: Lektion 30
+subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
 lesson_id: 30
 last_reconstructed: 2026-05-21
-category: "语法"
+category: "Grammatik"
 status: stable
 ---
 
@@ -18,9 +18,9 @@ status: stable
 
 *   弱词干：
 
-*   辅音前：低降调词根 + -nī-
+    *   辅音前：低降调词根 + -nī-
 
-*   元音前：低降根 + -n-
+    *   元音前：低降根 + -n-
 :::
 例：
 
@@ -29,20 +29,20 @@ status: stable
 :::
 ::: grammar-box
 
-| |单数：br⟪एकवचन⟫|复数：br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**第三人称：brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
-|**第三人称：brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
+| **第三人称：brParasmaipada** | ⟪क्रीणाति⟫:br(krī + nā + ti) | ⟪क्रीणन्ति⟫:br(krī + n + anti) |
+| **第三人称：brĀtmanepada** | ⟪क्रीणीते⟫:br(krī + nī + te) | ⟪क्रीणते⟫:br(krī + n + ate) |
 
 :::
 对于此类现在时，需特别注意根据词根⟪ज्ञा⟫ 9U“知晓、认知”构成现在时词干：
 
 ::: grammar-box
 
-| |单数：br⟪एकवचन⟫|复数：br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**第三人称：brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
-|**第三人称：brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
+| **第三人称：brParasmaipada** | ⟪जानाति⟫:br(jā-nā-ti) | ⟪जानन्ति⟫:br(jā-n-anti) |
+| **第三人称：brĀtmanepada** | ⟪जानीते⟫:br(jā-nī-te) | ⟪जानते⟫:br(jā-n-ate) |
 
 :::
 ⟪जा⟫ 这种形式，作为 ⟨ज्ञा⟩ 现在词根的基础，要么可以通过元音交替序列 -ā（低等级）-nā（高等级）来解释，要么可以通过从 *jñā-nā-ti 的同化来解释。
@@ -56,10 +56,10 @@ status: stable
 :::
 ::: grammar-box
 
-| |单数：br⟪एकवचन⟫|复数：br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**第三人称：brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
-|**第三人称：brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
+| **第三人称：brParasmaipada** | ⟪पुनाति⟫:br(pu-nā-ti) | ⟪पुनन्ति⟫:br(pu-n-anti) |
+| **第三人称：brĀtmanepada** | ⟪पुनीते⟫:br(pu-nī-te) | ⟪पुनते⟫:br(pu-n-ate) |
 
 :::
 现在时主动语态分词的构成：
@@ -115,10 +115,10 @@ optative（⟪लिङ्⟫）、imperfekt（⟪लङ्⟫）、aorist（⟪
 
 ::: grammar-box
 
-| |第三人称单数|第三人称复数|
+| | 第三人称单数 | 第三人称复数 |
 | :--- | :--- | :--- |
-|**Parasmaipada**|**-t**|非词干类：**-an** 或 **-ur** :br optative：**-ur**|
-|**Ātmanepada**|**-ta**|非词干类：**-ata**（来自 *nta）:br optative：**-ran**|
+| **Parasmaipada** | **-t** | 非词干类：**-an** 或 **-ur** :br optative：**-ur** |
+| **Ātmanepada** | **-ta** | 非词干类：**-ata**（来自 *nta）:br optative：**-ran** |
 
 :::
 ## 30.4. 构成祈愿语气现在时（⟪लिङ्⟫）
@@ -141,10 +141,10 @@ Examples:
 ⟪भू⟫
 ::: grammar-box
 
-| |单数：br⟪एकवचन⟫|复数：br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**第三人称：brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
-|**第三人称：brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
+| **第三人称：brParasmaipada** | ⟪भवेत्⟫:br(bhava + i + t) | ⟪भवेयुर्⟫:br(bhava + i + y + ur) |
+| **第三人称：brĀtmanepada** | ⟪भवेत⟫:br(bhava + i + ta) | ⟪भवेरन्⟫:br(bhava + i + ran) |
 
 :::
 4\. 现在时类：
@@ -152,10 +152,10 @@ Examples:
 ⟪नृत्⟫
 ::: grammar-box
 
-| |单数：br⟪एकवचन⟫|复数：br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**第三人称：brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
-|**第三人称：brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
+| **第三人称：brParasmaipada** | ⟪नृत्येत्⟫:br(nṛtya + i + t) | ⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur) |
+| **第三人称：brĀtmanepada** | ⟪नृत्येत⟫:br(nṛtya + i + ta) | ⟪नृत्येरन्⟫:br(nṛtya + i + ran) |
 
 :::
 6\. 现在时类
@@ -163,10 +163,10 @@ Examples:
 ⟪विश्⟫
 ::: grammar-box
 
-| |单数:br⟪एकवचन⟫|复数:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**第三人称:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
-|**第三人称:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
+| **第三人称:brParasmaipada** | ⟪विशेत्⟫:br(viśa + i + t) | ⟪विशेयुर्⟫:br(viśa + i + y + ur) |
+| **第三人称:brĀtmanepada** | ⟪विशेत⟫:br(viśa + i + ta) | ⟪विशेरन्⟫:br(viśa + i + ran) |
 
 :::
 10\. 现在时词类与使动语态
@@ -174,10 +174,10 @@ Examples:
 ⟪चुर्⟫
 ::: grammar-box
 
-| |单数：br⟪एकवचन⟫|复数：br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**第三人称：brParasmaipada**|⟪चोरयेत्⟫：br(coraya + i + t)|⟪चोरयेयुर्⟫：br(coraya + i + y + ur)|
-|**第三人称：brĀtmanepada**|⟪चोरयेत⟫：br(coraya + i + ta)|⟪चोरयेरन्⟫：br(coraya + i + ran)|
+| **第三人称：brParasmaipada** | ⟪चोरयेत्⟫:br(coraya + i + t) | ⟪चोरयेयुर्⟫:br(coraya + i + y + ur) |
+| **第三人称：brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
 
 :::
 ### 30.4.2. 非主题化现在时类别
@@ -193,15 +193,15 @@ Examples:
 :::
 例子：
 
-2. 现在时类：
+现在时类：
 
 ⟪द्विष्⟫
 ::: grammar-box
 
-| |单数：br⟪एकवचन⟫|复数：br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**第三人称：brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
-|**第三人称：brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
+| **第三人称：brParasmaipada** | ⟪द्विष्यात्⟫:br(dviṣ-yā-t) | ⟪द्विष्युर्⟫:br(dviṣ-y-ur) |
+| **第三人称：brĀtmanepada** | ⟪द्विषीत⟫:br(dviṣ-ī-ta) | ⟪द्विषीरन्⟫:br(dviṣ-ī-ran) |
 
 :::
 5\. 现在时类
@@ -209,10 +209,10 @@ Examples:
 ⟪सु⟫
 ::: grammar-box
 
-| |单数：br⟪एकवचन⟫|复数：br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**第三人称：brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
-|**第三人称：brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
+| **第三人称：brParasmaipada** | ⟪सुनुयात्⟫:br(sunu-yā-t) | ⟪सुनुयुर्⟫:br(sunu-y-ur) |
+| **第三人称：brĀtmanepada** | ⟪सुन्वीत⟫:br(sunu + ī + ta) | ⟪सुन्वीरन्⟫:br(sunu + ī + ran) |
 
 :::
 8\. 现在时类
@@ -220,28 +220,28 @@ Examples:
 ⟪तन्⟫
 ::: grammar-box
 
-| |单数：br⟪एकवचन⟫|复数：br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**第三人称：brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
-|**第三人称：brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
+| **第三人称：brParasmaipada** | ⟪तनुयात्⟫:br(tanu-yā-t) | ⟪तनुयुर्⟫:br(tanu-y-ur) |
+| **第三人称：brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
 **kṛ** :br(⟪कृ⟫)
 
 ::: grammar-box
 
-| |单数：br⟪एकवचन⟫|复数：br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**第三人称：brParasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
-|**第三人称：brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
+| **第三人称：brParasmaipada** | ⟪कुर्यात्⟫ | ⟪कुर्युर्⟫ |
+| **第三人称：brĀtmanepada** | ⟪कुर्वीत⟫ | ⟪कुर्वीरन्⟫ |
 
 :::
 ::: grammar-box
 
-| |单数：br⟪एकवचन⟫|复数：br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**第三人称 Parasmaipada**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
-|**第三人称 Ātmanepada**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
+| **第三人称 Parasmaipada** | ⟪क्रीणीयात्⟫:br(krīṇī-yā-t) | ⟪क्रीणीयुर्⟫:br(krīṇī-y-ur) |
+| **第三人称 Ātmanepada** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
 
 :::
 ## 30.5. -r 词末连声规则
@@ -254,7 +254,7 @@ Examples:
 示例：
 
 ::: indent
-⟪⟪भवेयुर्⟫⟫ + ⟪⟪च⟫⟫ » ⟪⟪भवेयुश्च⟫⟫
+⟪भवेयुर्⟫ + ⟪च⟫ » ⟪भवेयुश्च⟫
 
 ⟪पुनर्⟫ + ⟪अग्निः⟫ » ⟪पुनरग्निः⟫
 
@@ -274,12 +274,12 @@ Examples:
 
 ::: indent
 绝对地 ⟪विक्रीय⟫
-:::: media
+:::
+::: media
 ![](/images/lekt3001.webp)
 图：⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 邦迪 = ⟪बुन्दी⟫，拉贾斯坦邦 = ⟪राजस्थान⟫
 （图片来源：[详情](/zh-CN/licenses#lekt3001)）
-::::
 :::
 ⟪ज्ञा⟫ 9U ⟪जानाति⟫：认识、识别、知晓、理解
 
@@ -296,12 +296,12 @@ davon:
 ⟪ज्ञाति⟫ m.:（血缘）亲属（所谓“亲属”，是指那些你所认识的人！）
 
 ⟪ज्ञान⟫ n.：认识，知识，认知（尤指宗教与哲学中“更高”的真理）
-:::: media
+:::
+::: media
 ![](/images/lekt3002.webp)
 图：⟪ज्ञातयः⟫
 达雷瓦迪（Darewadi），阿赫迈德纳格尔县 = ⟪अहमदनगर⟫，马哈拉施特拉邦 = ⟪महाराष्ट्र⟫
 （图片来源：[详情](/zh-CN/licenses#lekt3002)）
-::::
 :::
 ⟪पू⟫ 9U ⟪पुनाति⟫ ：净化
 
@@ -311,11 +311,11 @@ davon:
 使役语态 ⟪पावयति⟫
 过去分词（PPP） ⟪पूत⟫
 不定式 ⟪पवितुम्⟫
-:::: media
+:::
+::: media
 ![](/images/lekt3003.webp)
 图注：⟪श्रोत्राणि⟫ ⟪पुनाति⟫
 （图片来源：[详情](/zh-CN/licenses#lekt3003)）
-::::
 :::
 ⟪अश्⟫ 9P ⟪अश्नाति⟫ ：吃，消耗
 
@@ -325,12 +325,12 @@ davon:
 使役语 ⟪आशयति⟫
 过去被动分词 ⟪अशित⟫
 不定词 ⟪अशितुम्⟫
-:::: media
+:::
+::: media
 ![](/images/lekt3005.webp)
 图：⟪अश्नीयात्⟫
 ⟪थाली⟫，南印度
 （图片来源：[详情](/zh-CN/licenses#lekt3005)）
-::::
 :::
 ⟪प्रिय⟫ ⟪३⟫：慈爱，仁慈，友好
 
@@ -359,11 +359,11 @@ davon:
 davon:
 
 ⟪पुनर्भव⟫：m. 转世
-:::: media
+:::
+::: media
 ![](/images/lekt2904.webp)
 图：⟪पुनर्भवः⟫
 （图片来源：[详情](/zh-CN/licenses#lekt2904)）
-::::
 :::
 ⟪जीव्⟫ 1P ⟪जीवति⟫ ：生活
 
@@ -385,7 +385,7 @@ davon:
 A) 将以下动词形式转换为对应的人称、数和语类的虚拟式形式：
 
 1.  ⟪ह्रियते⟫
-2.  ⟪⟪ध्नन्ति⟫⟫
+2.  ⟪ध्नन्ति⟫
 3.  ⟪स्मरति⟫
 4.  ⟪स्थापयन्ति⟫
 5.  ⟪स्तौति⟫
@@ -469,7 +469,7 @@ B) 翻译以下句子，并用梵语解析复合词：
 ⟪यो⟫ ⟪ब्राह्मणः⟫ ⟪शूद्रां⟫ ⟪कामयेत⟫ ⟪स⟫ ⟪सद्ब्राह्मणो⟫ ⟪न⟫ ⟪स्यात्⟫ ⟪।⟫ ⟪सद्ब्राह्मणो⟫ ⟪हि⟫ ⟪ब्राह्मणीं⟫ ⟪कामयेत⟫ ⟪॥८॥⟫
 
 ⟪सत्यं⟫ ⟪ब्रूयात्प्रियं⟫ ⟪ब्रूयान्न⟫ ⟪ब्रूयात्सत्यमप्रियम्⟫ ⟪।⟫  
-⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫。⟪१३८॥⟫
+⟪प्रियं⟫ ⟪च⟫ ⟪नानृतं⟫ ⟪ब्रूयादेष⟫ ⟪धर्मः⟫ ⟪सनातनः⟫ ⟪॥९॥⟫ ⟪॥मनुस्मृति⟫ ⟪४⟫.⟪१३८॥⟫
 
 ## 30.8. 词形学复习练习
 

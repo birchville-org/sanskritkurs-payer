@@ -1,9 +1,9 @@
 ---
 title: Lektion 52
-subtitle: "A -i és -u végződésű tövek semleges nemű alakjai"
+subtitle: "Neutrum der Stämme auf -i und -u"
 lesson_id: 52
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
+category: "Grammatik"
 status: stable
 ---
 
@@ -15,7 +15,7 @@ status: stable
 **Vokális kezdővégződés előtt -n- betét hang keletkezik; ez az n-tövek (-in) hatása.**
 :::
 ::: grammar-box
-| | **⟪वारि⟫ n.:br"víz"** | **⟪मधु⟫ n.:br"méz"** |
+| | **⟪वारि⟫ n.:br"Wasser"** | **⟪मधु⟫ n.:br"Honig"** |
 | :--- | :---: | :---: |
 | ⟪एकवचनम्⟫ |||
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫** | ⟪वारि⟫ | ⟪मधु⟫ |
@@ -306,11 +306,11 @@ Az egyes számfőneveket lásd pl. Kielhorn, Grammatik §201.
 *   a melléknemű kitevő számszavak csak mint melléknevek kapcsolódhatnak a megszámlált tárgy főnevéhez
 pl. ⟪तिसृभिर्नारीभिः⟫ "három nő által"
 *   a főnévi kitevő számszavak háromféleképpen kapcsolódhatnak a megszámlált tárgy főnevéhez
-*   uralkodnak a megszámlált tárgy birtokos esetében (genitivus) (⟪षष्ठी⟫)
+    *   uralkodnak a megszámlált tárgy birtokos esetében (genitivus) (⟪षष्ठी⟫)
 pl. ⟪विंशत्या⟫ ⟪नारीणाम्⟫ "huszadik nő"
-*   appozícióként állnak ugyanabban a kasusban (de egyes számban), mint a megszámlált tárgy
+    *   appozícióként állnak ugyanabban a kasusban (de egyes számban), mint a megszámlált tárgy
 pl. ⟪विंशत्या⟫ ⟪नारीभिः⟫ "huszadik nő"
-*   ⟪तत्पुरुष⟫ hátsó tagjaként állnak, a megszámlált tárgy pedig az első tag
+    *   ⟪तत्पुरुष⟫ hátsó tagjaként állnak, a megszámlált tárgy pedig az első tag
 pl. ⟪गोविंशत्या⟫ "huszadik tehén"
 
 :::
@@ -385,17 +385,17 @@ A hétcsillagos csillagkép = a Nagy Medve (Ursa maior) legfényesebb hét csill
 ::: grammar-box
 **2. szabály: Az 1. szabálytól eltérően egy égtájat vagy alapértéket jelző szó más főnévvel Tatpuruṣát alkothat, ha**
 
-1. egy ilyen módon képzett összetételhez Taddhita-suffixumot csatolnak
+1.  egy ilyen módon képzett összetételhez Taddhita-suffixumot csatolnak
 Példák:  
 pūrva + śālā ("csarnok") » \*pūrvaśālā (nem használható így!) + Taddhita -a » ⟪पौर्वशाल⟫ 3 "keleti csarnokban lévő"
 ṣaṣ + mātṛ » \*ṣaṇmātṛ (nem megengedett!) + Taddhita -a » ⟪षण्मातुर⟫ m. "hat anya gyermeke" (= ⟪कार्त्तिकेय⟫)
 
-2. az így képzett összetételt olyan értelemben használják, amelyet máskor Taddhita-suffixum jelöl (ennek a típusnak az átmenet a Bahuvrīhi felé folyékony):
+2.  az így képzett összetételt olyan értelemben használják, amelyet máskor Taddhita-suffixum jelöl (ennek a típusnak az átmenet a Bahuvrīhi felé folyékony):
 Példák:  
 dvi + go » ⟪द्विगु⟫ : nem: "két tehén", hanem: "**két tehérért vásárolt**"
 ⟪द्विवर्ष⟫ nem: "két év", hanem: "**kétéves**"
 
-3. az így képzett összetétel egy másik összetétel első tagját alkotja
+3.  az így képzett összetétel egy másik összetétel első tagját alkotja
 Példa:  
 pañca + go » pañcagava (önálló szóként nem megengedett!) + dhana » ⟪पञ्चगवधन⟫ m. "egy olyan, akinek vagyonja öt tehén"
 :::
@@ -753,22 +753,22 @@ A 52. leckével lezárul a szanszkit tanfolyam első féléve (13 hét, heti 4 �
 A félévszünetben a következő feladatokat kell elvégezni:
 
 1.  Az eddig tanultak teljes áttekintése, különösen:
-1.  A ragozási és konjugációs táblázatok fejből tanulása
-2.  Szavak
-3.  Tőalakok
+    1.  A ragozási és konjugációs táblázatok fejből tanulása
+    2.  Szavak
+    3.  Tőalakok
 2.  Minél több vers és prózai szöveg fejből tanulása a klasszikus irodalomból
-3. A [53. leckében](lektion53.md) foglaltak áttekintése
-4. A Bhg 1 - 11 számú munkalapok áttekintése (még nem elérhető az interneten)
-5. ⟪भगवद्गीता⟩ fejezet 1 előkészítése, a kapcsolódó szavak tanulása a Szójegyzékeken (még nem elérhető az interneten)
-6. ⟪भगवद्गीता⟩ ⟪१⟩ összes versének metrikai elemzése
+3.  A [53. leckében](lektion53.md) foglaltak áttekintése
+4.  A Bhg 1 - 11 számú munkalapok áttekintése (még nem elérhető az interneten)
+5.  ⟪भगवद्गीता⟩ fejezet 1 előkészítése, a kapcsolódó szavak tanulása a Szójegyzékeken (még nem elérhető az interneten)
+6.  ⟪भगवद्गीता⟩ ⟪१⟩ összes versének metrikai elemzése
 A szöveg recitált formájáról jó benyomást kaphat: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita01.mp3). -- Hozzáférés: 2009-01-19
-7. Olvasson egy ⟪महाभारत⟩-könyv átdolgozását, például:
+7.  Olvasson egy ⟪महाभारत⟩-könyv átdolgozását, például:
 Mahābhārata : India nagy eposza / Sanskritból lefordítva és összefoglalva Biren Roy által. -- 10. kiad. -- München : Diederichs, 1995. -- 335 old. ; 19 cm. -- (Diederichs sárga sorozat; 16 : India)
-8. Áttekintés:
+8.  Áttekintés:
 **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Eredetileg malajálamban írva. Angolra fordította K.V.R. Pai. -- Parathode : Saját kiadó, 1983. -- 818 old. ; 23 cm. -- 208 - 254. o. (Szintaktikai kormányzás)
-9. Teljesen áttekintendő:
+9.  Teljesen áttekintendő:
 **Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**The wonder that was India. A rész: Az indiai szubkontinentális kultúrájának felmérése a muzulmánok érkezése előtt. -- London : Sidgwick & Jackson, 1954.
-10. Kezdje el az alábbiak áttekintését:
+10.  Kezdje el az alábbiak áttekintését:
 **Winternitz, Moriz \&lt;1863 - 1937\&gt;:** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 kötet. -- 1908 - 1922 (még mindig messze a legjobb szanszkit, páli és prakrit irodalomtörténet)
 
 ::: media

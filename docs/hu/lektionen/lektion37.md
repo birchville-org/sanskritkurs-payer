@@ -1,10 +1,10 @@
 ---
-title: 37. lecke
-subtitle: "A határozószó (⟪क्रियाविशेषणम्⟫)"
+title: Lektion 37
+subtitle: "Das Adverb (⟪क्रियाविशेषणम्⟫)"
 lesson_id: 37
 last_reconstructed: 2026-05-21
-category: "Nyelvtan"
-status: stabil
+category: "Grammatik"
+status: stable
 ---
 
 # 37. lecke
@@ -37,16 +37,18 @@ Példák:
 ⟪कामम्⟫ "kívánság szerint, a kívánságnak megfelelően"  
 ⟪अर्थम्⟫ "miatt"
 
-melléknevekből a középnemben
+*   melléknevek középnemű alakjai
+a középnemi melléknevekből
 Példák:  
-⟪सुखम्⟫ "könnyű, boldog"  
-⟪नित्यम्⟫ "mindig"  
+⟪सुखम्⟫ "könnyű, boldog"
+⟪नित्यम्⟫ "mindig"
 ⟪साधु⟫ "helyes, jó"
 
-névmásokból a középnemben
+*   névmások középnemű alakjai
+a középnemi névmásokból
 Példák:  
-⟪तद्⟫ "akkor, ezért"  
-⟪यद्⟫ "ha, hogy"  
+⟪तद्⟫ "akkor, ezért"
+⟪यद्⟫ "ha, hogy"
 ⟪एतद्⟫ "így, itt, most"
 :::
 ### 37.2.2. Eszközhatározó (⟪तृतीया⟫)
@@ -54,7 +56,9 @@ Példák:
 ::: grammar-box
 Az eszközhatározó (⟪तृतीया⟫) adverbialisan használható a következő kérdésekre:
 
-mi által?
+*   wodurch?
+*   womit?
+*   mi által?
 mivel?
 stb.
 
@@ -118,9 +122,9 @@ pl. ⟪चिरस्य⟫ „hosszú idő után” (lásd ⟪चिर⟫ 3 �
 ::: grammar-box
 A lokatívusz (⟪सप्तमी⟫) határozószói értelműen használható a következő kérdésekre:
 
-* hol?
-* milyen körülmények között?
-* stb.
+*   hol?
+*   milyen körülmények között?
+*   stb.
 
 Példák:
 :::
@@ -157,11 +161,11 @@ megfelelő névmás határozószavakat lehet levezetni.
 | Képző | Névmástömb | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
-| **-⟪तस्⟫** :br(ablativus) | ⟪ततस्⟫ :br onnan, arra, ezért | ⟪इतस्⟫ :br ⟪अतस्⟫ :br innen, ezért | ⟪यतस्⟫ :br honnan, miből | ⟪कुतस्⟫ :br honnan?, miért? |
-| **-⟪त्र⟫** :br(lokativus) | ⟪तत्र⟫ :br ott, arra | ⟪अत्र⟫ :br itt | ⟪यत्र⟫ :br hol | ⟪कुत्र⟫ :br hol? |
-| **-⟪था⟫** :br(mód) | ⟪तथा⟫ :br úgy | | ⟪यथा⟫ :br ahogy | |
-| **-⟪थम्⟫** :br(mód) | | | | ⟪कथम्⟫ :br hogyan? |
-| **-⟪दा⟫** :br(idő) | ⟪तदा⟫ :br akkor, ekkor | | ⟪यदा⟫ :br amikor | ⟪कदा⟫ :br mikor? |
+| **-⟪तस्⟫** :br(ablativus) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
+| **-⟪त्र⟫** :br(lokativus) | ⟪तत्र⟫ :brda, dort | ⟪अत्र⟫ :brhier | ⟪यत्र⟫ :brwo | ⟪कुत्र⟫ :brwo? |
+| **-⟪था⟫** :br(Art und Weise) | ⟪तथा⟫ :brso | | ⟪यथा⟫ :brwie | |
+| **-⟪थम्⟫** :br(Art und Weise) | | | | ⟪कथम्⟫ :brwie? |
+| **-⟪दा⟫** :br(Zeit) | ⟪तदा⟫ :brdamals, dann | | ⟪यदा⟫ :brals | ⟪कदा⟫ :brwann? |
 
 :::
 ::: grammar-box
@@ -179,9 +183,9 @@ Egy másik kérdőhatározó szó: ⟪क्व⟫ "hol?"
 
 | Képző | |
 | :--- | :--- |
-| **-⟪वत्⟫** | bármely főnévhez ragasztható, hogy kifejezze: „szerűen, olyasféleképpen”:brpl. ⟪पुत्रवत्⟫ „fiúszerűen” |
-| **-⟪तस्⟫** | főnevekhez és névmásokhoz. Általában ablative jelentésű: „honnan?”, de előfordulhat „hol?”, „hová?” jelentéssel is:brpl. ⟪आदितस्⟫ „elejétől fogva” |
-| **-⟪धा⟫** | 1. Számhatározószavaknál a „-szeres, -fajta” jelentésben:brpl. ⟪द्विधा⟫ „kétszeres”;br2. a „valamilyen módon” jelentésben:brpl. ⟪समधा⟫ „ugyanolyan módon” (a ⟪सम⟫ 3 „egyenlő” szóhoz) |
+| **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
+| **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
+| **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
 ## 37.5. Adverbialis összetételek
@@ -398,7 +402,7 @@ Példa: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪
 
 ⟪कुतः⟫ ⟪सुपुनर्भवं⟫ ⟪गम्यते⟫ ⟪॥९॥⟫ (⟪कृतपुण्यत्व⟫, ⟪सुनीति⟫)
 
-⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟩ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
+⟪केन⟫ ⟪शूद्रा⟫ ⟪न⟫ ⟪काम्येत⟫ ⟪॥१०॥⟫ (⟪द्विजाति⟫, ⟪ब्राह्मण⟫, ⟪साधु⟫)
 
 ⟪किमर्थं⟫ ⟪सुगतो⟫ ⟪ऽगारादनगार्यं⟫ ⟪प्रवव्राज⟫ ⟪॥११॥⟫ (⟪दुःखमोक्ष⟫, ⟪मोक्षनयन्ती⟫ ⟪प्रज्ञा⟫)
 
@@ -430,7 +434,7 @@ Példa: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪
 
 B) Fordítsa le:
 
-⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
+ ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
 
 ⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥२॥⟫
 
@@ -468,39 +472,39 @@ Kép: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 4\. ⟪अप⟫ "nélkül"
 
 ::: indent
-1. ⟪अपविष्णुम्⟫
+1.  ⟪अपविष्णुम्⟫
 :::
-5. ⟪अभि⟫ „felé, irányba”
+⟪अभि⟫ „felé, irányba”
 
 ::: indent
-1. ⟪अभिमुखम्⟫
-2. ⟪अभ्यग्नि⟫
+1.  ⟪अभिमुखम्⟫
+2.  ⟪अभ्यग्नि⟫
 :::
-6. ⟪आ⟫ „óta, amíg, beleértve”
+⟪आ⟫ „óta, amíg, beleértve”
 
 ::: indent
-1. ⟪आबालवृद्धम्⟫
-2. ⟪आमरणम्⟫
+1.  ⟪आबालवृद्धम्⟫
+2.  ⟪आमरणम्⟫
 :::
 ::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
 Ábr.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3710))
 :::
-7. ⟪उप⟫ „közel”
+⟪उप⟫ „közel”
 
 ::: indent
-1. ⟪उपवृक्षम्⟫
+1.  ⟪उपवृक्षम्⟫
 :::
 ::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
 Ábr.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3711))
 :::
-8. ⟪यथा⟫
+8\. ⟪यथा⟫
 
 ::: indent
-1. ⟪यथास्थानम्⟫
+1.  ⟪यथास्थानम्⟫
 :::
 ## 37.11. Ismétlő gyakorlat
 

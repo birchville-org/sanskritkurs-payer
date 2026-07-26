@@ -1,5 +1,5 @@
 ---
-title: 28. lecke
+title: Lektion 28
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
@@ -171,7 +171,7 @@ Különböző képzéstípusok léteznek:
 :::
 Példák:
 
-| Tő | Kausatív 3. sg. indikativ jelen idő | Jelentés |
+| Tő | Kausativ 3. sg. Indikativ Jelen idő | Jelentés |
 | :--- | :--- | :--- |
 | ⟪विश्⟫ | ⟪वेशयति⟫ | beenged, behoz |
 | ⟪लुभ्⟫ | ⟪लोभयति⟫ | vágyat kelt, kíváncsivá tesz, csábít |
@@ -211,10 +211,10 @@ Példa:
 :::
 Példák:
 
-| Tő | Kausatív 3. sg. indikativ jelen idő | Jelentés |
+| Tő | Kausatív 3. sg. indikativum jelen idő | Jelentés |
 | :--- | :--- | :--- |
-⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | állít, felállít |
-| ⟪इ⟫ + ⟪अधि⟫:br"tanulmányoz" | ⟪अध्यापयति⟫:br(ki: adhi+ā-paya-ti):br(a magyarázathoz lásd Thumb-Hauschildt I. kötet, 2. oldal, 341.) | tanulmányoztat, oktat |
+| ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | felállít, elhelyez |
+| ⟪इ⟫ + ⟪अधि⟫:br"tanulmányoz" | ⟪अध्यापयति⟫:br(kivétel: adhi+ā-paya-ti):br(a magyarázathoz lásd Thumb-Hauschildt I. kötet, 2. fejezet, 341. oldal) | tanulmányoztat, oktat |
 
 ::: grammar-box
 **Rendszertelen alakítások:**
@@ -303,8 +303,8 @@ Példa:
 **Ugyanúgy, mint a causativa igék, az 10. jelen időosztályba tartozó egyes gyökök képeznek jelen időt (és egyéb ragozásokat) causativa nélkül.**
 
 Példák:
-1. Hosszított fokú gyök + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "szeretni"
-2. Magas fokú gyök + -aya- : **cur** 10U **corayati** "lopni"; Jövő idő: **corayiṣyate**; Passzív: **coryate**
+1.  Hosszított fokú gyök + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "szeretni"
+2.  Magas fokú gyök + -aya- : **cur** 10U **corayati** "lopni"; Jövő idő: **corayiṣyate**; Passzív: **coryate**
 :::
 ::: grammar-box
 **Az 10. jelen időosztályba tartozó igék causativusának formái megegyeznek az egyszerű igeformákkal. Dönteni csak a jelentés, vagy néha a szerkezet alapján lehet arról, hogy causativusról van-e szó.**

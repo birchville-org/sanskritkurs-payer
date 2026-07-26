@@ -1,9 +1,9 @@
 ---
-title: Lecția 23
-subtitle: "Infinitivul (⟪तुमुन्⟫)"
+title: Lektion 23
+subtitle: "Der Infinitiv (⟪तुमुन्⟫)"
 lesson_id: 23
 last_reconstructed: 2026-05-21
-category: "Gramatică"
+category: "Grammatik"
 status: stable
 ---
 
