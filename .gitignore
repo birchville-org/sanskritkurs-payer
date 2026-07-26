@@ -88,15 +88,11 @@ scripts/syntax_*.py
 docs/akk/
 docs/arc/
 docs/bg/
-docs/cop/
-docs/fa/
-docs/zh/
 
 # Development helper guides/scripts
 /files_to_translate.txt
 /cleanup.sh
 docs/AUTHORS_GUIDE.md
-docs/public/qa_help.md
 
 
 docs/public/downloads/*.pdf
