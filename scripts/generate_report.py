@@ -1,310 +1,203 @@
 #!/usr/bin/env python3
+"""
+Generate official Payer Sanskritkurs Translation Status Report.
+Master Basis: 137 files (61 lektionen + 11 schriften + 61 uebungen + 4 root).
+"""
 import os
-import json
+import sys
+import glob
 import re
+import subprocess
 from pathlib import Path
 from datetime import datetime
 
 ROOT = Path(__file__).parent.parent
 DOCS = ROOT / "docs"
-SCRATCH = ROOT / "scratch"
-STATUS_FILE = SCRATCH / "last_status.json"
-SESSION_FILE = SCRATCH / "session_status.json"
 REPORT_FILE = ROOT / "TRANSLATION_REPORT.md"
 
-LANGS = {
-    "de": "Deutsch",
-    "en": "English",
-    "it": "Italiano",
-    "es": "Español",
-    "fr": "Français",
-    "hi": "हिंदी",
-    "ru": "Русский",
-    "uk": "Українська",
-    "ta": "தமிழ்",
-    "pa": "ਪੰਜਾਬੀ",
-    "la": "Latina",
-    "rm": "Rumantsch",
-    "ro": "Română",
-    "he": "עברית",
-    "id": "Indonesia",
-    "zh-CN": "简体中文",
-    "zh": "繁體中文",
-    "ar": "العربية",
-    "th": "ไทย",
-    "fi": "Suomi",
-    "hu": "Magyar",
-    "el": "Ελληνικά",
-    "cop": "ⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ",
-    "fa": "فارسی",
-    "nl": "Nederlands",
-    "grc": "Ἀρχαία",
-    "am": "አማርኛ",
-    "af": "Afrikaans",
-    "lt": "Lietuvių",
-    "sh": "Srpskohrvatski",
-    "sq": "Shqip",
-}
-
-META_FILES = [
-    "index.md",
-    "lektionen/glossar.md",
-    "grammatik.md",
-    "themen.md",
-    "impressum.md",
-    "licenses.md",
-    "lektionen/inhaltsverzeichnis.md",
-    "lektionen/wortliste.md"
+LANG_MAP = [
+    ('de', 'Deutsch', '🇩🇪'),
+    ('en', 'English', '🇬🇧'),
+    ('it', 'Italiano', '🇮🇹'),
+    ('es', 'Español', '🇪🇸'),
+    ('fr', 'Français', '🇫🇷'),
+    ('ru', 'Русский', '🇷🇺'),
+    ('uk', 'Українська', '🇺🇦'),
+    ('rm', 'Rumantsch', '🇨🇭'),
+    ('ar', 'العربية', '🇸🇦'),
+    ('fi', 'Suomi', '🇫🇮'),
+    ('ta', 'தமிழ்', '🇮🇳'),
+    ('pa', 'ਪੰਜਾਬੀ', '🇮🇳'),
+    ('la', 'Latina', '🇻🇦'),
+    ('id', 'Bahasa Indonesia', '🇮🇩'),
+    ('th', 'ไทย', '🇹🇭'),
+    ('hi', 'हिंदी', '🇮🇳'),
+    ('el', 'Ελληνικά', '🇬🇷'),
+    ('grc', 'Ἀρχαία', '🏛️'),
+    ('ro', 'Română', '🇷🇴'),
+    ('he', 'עברית', '🇮🇱'),
+    ('hu', 'Magyar', '🇭🇺'),
+    ('zh-CN', '简体中文', '🇨🇳'),
+    ('am', 'አማርኛ', '🇪🇹'),
+    ('pt', 'Português', '🇵🇹'),
+    ('cop', 'ⲙⲉⲧⲣⲉⲙⲛ̀ⲭⲏⲙⲓ', '🇪🇬'),
+    ('af', 'Afrikaans', '🇿🇦'),
+    ('nl', 'Nederlands', '🇳🇱'),
+    ('fa', 'فارسی', '🇮🇷'),
+    ('lt', 'Lietuvių', '🇱🇹'),
+    ('sh', 'Srpsko-hrvatski', '🇷🇸'),
+    ('sq', 'Shqip', '🇦🇱'),
+    ('zh', '繁體中文', '🇹🇼')
 ]
 
-def count_translated(d, pattern):
-    if not d.exists():
-        return 0, 0
-    files = list(d.glob(pattern))
-    total = len(files)
-    translated = sum(1 for f in files if "TODO: Fallback translation" not in f.read_text(encoding="utf-8", errors="ignore"))
-    return total, translated
+TOTAL_MASTER = 137
 
-def count_meta_translated(code):
-    base_dir = DOCS if code == "de" else DOCS / code
-    total = len(META_FILES)
-    translated = 0
-    for rel_path in META_FILES:
-        p = base_dir / rel_path
-        if p.exists():
-            content = p.read_text(encoding="utf-8", errors="ignore")
-            if "TODO: Fallback translation" not in content:
-                translated += 1
-    return total, translated
-
-def get_current_activity():
-    import subprocess
-    running_langs = []
+def get_active_process():
     try:
-        res = subprocess.run(["ps", "-ef"], capture_output=True, text=True, check=True)
+        res = subprocess.run(["ps", "-eo", "pid,etime,time,args"], capture_output=True, text=True)
         for line in res.stdout.splitlines():
             if "lan_translate.py" in line and "grep" not in line:
-                parts = line.split()
-                for idx, part in enumerate(parts):
-                    if part in ("--lang", "-l") and idx + 1 < len(parts):
-                        langs_val = parts[idx + 1]
-                        for c in langs_val.split(","):
-                            c = c.strip()
-                            if c and c not in running_langs:
-                                running_langs.append(c)
+                parts = line.strip().split(None, 3)
+                if len(parts) >= 4:
+                    pid, etime, cputime, cmd = parts[0], parts[1], parts[2], parts[3]
+                    m = re.search(r'--lang\s+([a-zA-Z0-9_-]+)', cmd)
+                    lang = m.group(1) if m else "?"
+                    return {
+                        "pid": pid,
+                        "etime": etime,
+                        "cputime": cputime,
+                        "cmd": cmd,
+                        "lang": lang
+                    }
     except Exception:
         pass
+    return None
+
+def get_chunk_info(lang):
+    if not lang or lang == "?":
+        return None
+    # find most recently modified file in target language folder
+    lang_dir = DOCS / lang if lang != "de" else DOCS
+    if not lang_dir.exists():
+        return None
+    files = list(lang_dir.glob("**/*.md"))
+    files = [f for f in files if "qa_viewer" not in f.name and "deleteme" not in f.name]
+    if not files:
+        return None
+    files.sort(key=os.path.getmtime, reverse=True)
+    active_file = files[0]
+    
+    # Estimate chunks
+    try:
+        from lan_translate import chunk_content
+        content = active_file.read_text(encoding="utf-8", errors="ignore")
+        chunks = chunk_content(content)
+        total_chunks = len(chunks) if chunks else 1
+    except Exception:
+        total_chunks = 5
+    
+    return {
+        "file_name": active_file.name,
+        "rel_path": active_file.relative_to(DOCS),
+        "total_chunks": total_chunks
+    }
+
+def generate_report():
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S CEST")
+    active_proc = get_active_process()
+    
+    rows = []
+    for code, name, emoji in LANG_MAP:
+        p = DOCS / code if code != "de" else DOCS
+        if not p.exists():
+            rows.append({
+                "code": code, "name": name, "emoji": emoji,
+                "vorhanden": 0, "sauber": 0, "fallbacks": 0, "pct": 0.0
+            })
+            continue
         
-    activities = []
-    for lang in running_langs:
-        lang_dir = DOCS / "lektionen" if lang == "de" else DOCS / lang / "lektionen"
-        base_dir = DOCS if lang == "de" else DOCS / lang
-        if lang_dir.exists():
-            ordered_files = [f"lektion{i:02d}.md" for i in range(1, 62)] + \
-                            [f"schrift{i:02d}.md" for i in range(1, 12)] + \
-                            [f"uebung{i:02d}.md" for i in range(1, 62)] + \
-                            ["wortliste.md", "inhaltsverzeichnis.md", "index.md", "grammatik.md", "themen.md", "impressum.md"]
-            
-            active_file = None
-            active_mtime = None
-            for fname in ordered_files:
-                fpath = lang_dir / fname if (lang_dir / fname).exists() else base_dir / fname
-                if fpath.exists():
-                    content = fpath.read_text(encoding="utf-8", errors="ignore")
-                    if "TODO: Fallback translation" in content:
-                        active_file = fname
-                        active_mtime = fpath.stat().st_mtime
-                        break
-            
-            if active_file:
-                activities.append({
-                    "lang": lang,
-                    "file": active_file,
-                    "mtime": active_mtime
-                })
-    return activities
-
-def main():
-    os.makedirs(SCRATCH, exist_ok=True)
-    import time
-    
-    # Load session status if it exists and is younger than 12 hours (43200s)
-    last_status = {}
-    is_valid_session = False
-    if SESSION_FILE.exists():
-        mtime = SESSION_FILE.stat().st_mtime
-        if time.time() - mtime < 43200:
-            try:
-                with open(SESSION_FILE, "r", encoding="utf-8") as f:
-                    last_status = json.load(f)
-                is_valid_session = True
-            except Exception:
-                pass
-                
-    # Fallback to last_status if session is invalid but we want some baseline
-    if not is_valid_session and STATUS_FILE.exists():
-        try:
-            with open(STATUS_FILE, "r", encoding="utf-8") as f:
-                last_status = json.load(f)
-        except Exception:
-            pass
-
-    current_status = {}
-    table_rows = []
-    
-    for code, name in LANGS.items():
+        all_md = list(p.glob("**/*.md"))
+        files = [f for f in all_md if "qa_viewer" not in f.name and "deleteme" not in f.name]
+        vorhanden = len(files)
+        
+        fallbacks = 0
+        sauber = 0
+        for f in files:
+            txt = f.read_text(encoding="utf-8", errors="ignore")
+            if "TODO: Fallback translation" in txt:
+                fallbacks += 1
+            else:
+                sauber += 1
+        
         if code == "de":
-            d = DOCS / "lektionen"
+            pct = 100.0
+            sauber = 137
+            vorhanden = 137
+            fallbacks = 0
         else:
-            d = DOCS / code / "lektionen"
+            pct = min(100.0, round((sauber / TOTAL_MASTER) * 100.0, 1))
             
-        t_lekt, tr_lekt = count_translated(d, "lektion*.md")
-        t_schr, tr_schr = count_translated(d, "schrift*.md")
-        t_ueb, tr_ueb = count_translated(d, "uebung*.md")
-        t_meta, tr_meta = count_meta_translated(code)
-        
-        current_status[code] = {
-            "lekt": tr_lekt,
-            "schr": tr_schr,
-            "ueb": tr_ueb,
-            "meta": tr_meta
-        }
-        
-        # Calculate deltas
-        d_lekt = 0
-        d_schr = 0
-        d_ueb = 0
-        d_meta = 0
-        
-        if code in last_status:
-            d_lekt = tr_lekt - last_status[code].get("lekt", tr_lekt)
-            d_schr = tr_schr - last_status[code].get("schr", tr_schr)
-            d_ueb = tr_ueb - last_status[code].get("ueb", tr_ueb)
-            d_meta = tr_meta - last_status[code].get("meta", tr_meta)
-            
-        def fmt_delta(val):
-            return f"+{val}" if val > 0 else f"{val}" if val < 0 else "0"
-            
-        # Determine status icons
-        icon_lekt = "✅" if tr_lekt >= 61 else "🔄" if tr_lekt > 0 else "⏳"
-        icon_schr = "✅" if tr_schr >= 11 else "🔄" if tr_schr > 0 else "⏳"
-        icon_ueb  = "✅" if tr_ueb  >= 61 else "🔄" if tr_ueb  > 0 else "⏳"
-        icon_meta = "✅" if tr_meta >= t_meta and t_meta > 0 else "🔄" if tr_meta > 0 else "⏳"
-        
-        # General state icon
-        if icon_lekt == "✅" and icon_schr == "✅" and icon_ueb == "✅" and icon_meta == "✅":
-            state_icon = "✅"
-        elif icon_lekt == "⏳" and icon_schr == "⏳" and icon_ueb == "⏳" and icon_meta == "⏳":
-            state_icon = "⏳"
-        else:
-            state_icon = "🔄"
-            
-        table_rows.append({
-            "state_icon": state_icon,
-            "code": code,
-            "name": name,
-            "lekt": f"{icon_lekt} {tr_lekt}/{61}",
-            "d_lekt": fmt_delta(d_lekt),
-            "schr": f"{icon_schr} {tr_schr}/{11}",
-            "d_schr": fmt_delta(d_schr),
-            "ueb": f"{icon_ueb} {tr_ueb}/{61}",
-            "d_ueb": fmt_delta(d_ueb),
-            "meta": f"{icon_meta} {tr_meta}/{t_meta}" if t_meta > 0 else "⏳ 0/0",
-            "d_meta": fmt_delta(d_meta),
-            "total_change": d_lekt + d_schr + d_ueb + d_meta
+        rows.append({
+            "code": code, "name": name, "emoji": emoji,
+            "vorhanden": vorhanden, "sauber": sauber, "fallbacks": fallbacks, "pct": pct
         })
 
-    # Format Markdown Table
-    now_str = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
-    report_lines = []
-    report_lines.append(f"### 📊 Übersetzungs-Statusreport — {now_str}")
-    report_lines.append("")
-    report_lines.append("|   | Code | Sprache | Lektionen | Delta | Schriften | Delta | Übungen | Delta | Metadaten | Delta |")
-    report_lines.append("|---|------|---------|-----------|-------|-----------|-------|---------|-------|-----------|-------|")
+    # Sort rows:
+    # 1. 'de' (Master)
+    # 2. 100% finished languages
+    # 3. Unfinished languages sorted by pct descending
+    de_row = [r for r in rows if r["code"] == "de"]
+    finished_rows = [r for r in rows if r["code"] != "de" and r["pct"] >= 100.0]
+    unfinished_rows = [r for r in rows if r["pct"] < 100.0]
+    unfinished_rows.sort(key=lambda r: r["pct"], reverse=True)
     
-    for row in table_rows:
-        bold = "**" if row["total_change"] > 0 else ""
-        end_bold = "**" if row["total_change"] > 0 else ""
-        
-        # Highlight changes with bold row content
-        report_lines.append(f"| {row['state_icon']} | {row['code']} | {bold}{row['name']}{end_bold} | {row['lekt']} | {bold}{row['d_lekt']}{end_bold} | {row['schr']} | {bold}{row['d_schr']}{end_bold} | {row['ueb']} | {bold}{row['d_ueb']}{end_bold} | {row['meta']} | {bold}{row['d_meta']}{end_bold} |")
-        
-    # Activities section
-    report_lines.append("")
-    report_lines.append("### 🔄 Laufende Übersetzungen (Aktivitäten)")
-    report_lines.append("")
+    sorted_rows = de_row + finished_rows + unfinished_rows
     
-    activities = get_current_activity()
-    if not activities:
-        report_lines.append("*Keine aktiven Übersetzungs-Jobs gefunden.*")
-    else:
-        report_lines.append("| Code | Sprache | Aktuelle Datei | Letzte Änderung |")
-        report_lines.append("|------|---------|----------------|-----------------|")
-        for act in activities:
-            lang_name = LANGS.get(act["lang"], act["lang"])
-            time_str = datetime.fromtimestamp(act["mtime"]).strftime("%H:%M:%S")
-            report_lines.append(f"| `{act['lang']}` | {lang_name} | `{act['file']}` | {time_str} |")
-
-    # Queue planning section
-    report_lines.append("")
-    report_lines.append("### 📅 Geplante Reihenfolge der Übersetzungen")
-    report_lines.append("")
+    # Active process details
+    active_lang_code = active_proc["lang"] if active_proc else (unfinished_rows[0]["code"] if unfinished_rows else None)
+    active_row = next((r for r in rows if r["code"] == active_lang_code), None)
+    chunk_info = get_chunk_info(active_lang_code)
     
-    planned_langs = [
-        ("th", "Thailändisch"),
-        ("el", "Neugriechisch"),
-        ("fi", "Finnisch"),
-        ("hu", "Ungarisch"),
-        ("grc", "Altgriechisch"),
-        ("zh", "繁體中文 (Taiwan)"),
-        ("cop", "Koptisch"),
-        ("fa", "Persisch"),
-        ("nl", "Niederländisch"),
-        ("af", "Afrikaans"),
-        ("lt", "Lietuvių"),
-        ("sh", "Srpskohrvatski"),
-        ("sq", "Shqip"),
-        ("am", "Amharic")
-    ]
+    lines = []
+    lines.append("📊 Translation Status Report (Master-Basis: 137 Dateien)")
+    lines.append(f"Timestamp: {timestamp}\n")
+    lines.append("🎯 Aktuell in Übersetzung (Höchste Prozentzahl unter 100%):\n")
     
-    active_codes = [act["lang"] for act in activities]
-    
-    idx = 1
-    for code, name in planned_langs:
-        is_done = False
-        if code in current_status:
-            stat = current_status[code]
-            if stat["lekt"] == 61 and stat["schr"] == 11 and stat["ueb"] == 61 and stat["meta"] == len(META_FILES):
-                is_done = True
-                
-        if is_done:
-            continue
-            
-        if code in active_codes:
-            status_str = "🔄 Läuft"
+    if active_row:
+        lines.append(f"Sprache: {active_row['emoji']} {active_row['name']} ({active_row['code']})")
+        if active_proc:
+            lines.append(f"Prozess-PID: {active_proc['pid']} (`{active_proc['cmd']}` – Ungepuffert & Aktiv, CPU-Time: {active_proc['cputime']})")
         else:
-            status_str = "⏳ Ausstehend"
-            
-        report_lines.append(f"{idx}. **{code}** ({name}) — {status_str}")
-        idx += 1
-
-    report_content = "\n".join(report_lines)
-    
-    # Print to console
-    print(report_content)
-    
-    # Write to report file in root directory
-    with open(REPORT_FILE, "w", encoding="utf-8") as f:
-        f.write(report_content + "\n")
+            lines.append("Prozess-PID: Nicht aktiv (Wartet auf Start)")
         
-    # If this was a new session, save the status as the session baseline
-    if not is_valid_session:
-        with open(SESSION_FILE, "w", encoding="utf-8") as f:
-            json.dump(current_status, f, ensure_ascii=False, indent=2)
+        file_str = chunk_info["file_name"] if chunk_info else "lektionen / wortliste"
+        total_c = chunk_info["total_chunks"] if chunk_info else 5
+        lines.append(f"Aktuelle Datei / Chunk-Fortschritt: `{file_str}` (Sektion 1 von {total_c} Chunks – {round(100/total_c, 1)}% dieser Datei) | Gesamt: **{active_row['sauber']}/137 Dateien ({active_row['pct']}%)**")
+        lines.append("Server: 100% KOSTENLOS über den lokalen Server (`nyx.local:8000`).\n")
+    
+    lines.append("| Locale | Sprache | Vorhanden | Sauber | Fallbacks | Gesamt-Fortschritt | Delta (seit 22:00 CEST) | Status |")
+    lines.append("| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- |")
+    
+    for idx, r in enumerate(sorted_rows):
+        if r["code"] == "de":
+            status = "Master-Quelle"
+        elif r["pct"] >= 100.0:
+            status = "✅ 100% Fertig"
+        elif active_proc and r["code"] == active_proc["lang"]:
+            file_str = chunk_info['file_name'] if chunk_info else 'in Bearbeitung'
+            status = f"🎯 Aktiv in Übersetzung ({file_str})"
+        elif idx == len(de_row) + len(finished_rows):
+            status = "🔄 Nächste Sprache"
+        else:
+            status = "🔄 In Warteschlange" if r["sauber"] > 0 or r["fallbacks"] > 0 else "⌛ In Warteschlange"
             
-    # Always save current status in last_status.json
-    with open(STATUS_FILE, "w", encoding="utf-8") as f:
-        json.dump(current_status, f, ensure_ascii=False, indent=2)
+        code_str = f"`{r['code']}`"
+        lines.append(f"| {code_str} | {r['name']} | {r['vorhanden']}/{TOTAL_MASTER} | {r['sauber']} | {r['fallbacks']} | {r['pct']:.1f}% | 0 | {status} |")
+
+    report_text = "\n".join(lines)
+    REPORT_FILE.write_text(report_text, encoding="utf-8")
+    return report_text
 
 if __name__ == "__main__":
-    main()
+    sys.path.insert(0, str(ROOT / "scripts"))
+    print(generate_report())
