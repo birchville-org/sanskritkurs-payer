@@ -19,7 +19,7 @@ Bilden Sie zu den folgenden Präsens- oder Perfektformen die entsprechenden Aori
 | ⟪४⟫. | ⟪बभूव⟫ | ich / er / ihr war / wart | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
 | ⟪५⟫. | ⟪दधति⟫ | sie setzen | ⟪अधुः⟫ |
 | ⟪६⟫. | ⟪ऐम⟫ | wir gingen | ⟪अगाम⟫ |
-| ⟪७⟫. | ⟪पपिथ⟫ | du hast getrunken / behütet | ⟪अपाः⟫ (zu sig[⟪पा⟫] "trinken") |
+| ⟪७⟫. | ⟪पपिथ⟫ | du hast getrunken / behütet | ⟪अपाः⟫ (zu :sig[⟪पा⟫] "trinken") |
 | ⟪८⟫. | ⟪तिष्ठति⟫ | er steht | ⟪अस्थात्⟫ |
 | ⟪९⟫. | ⟪इयेथ⟫ | du bist gegangen | ⟪अगाः⟫ |
 | ⟪१०⟫. | ⟪पप⟫ | ihr habt getrunken | ⟪अपात⟫ |

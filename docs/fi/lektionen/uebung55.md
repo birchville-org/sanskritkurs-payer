@@ -15,38 +15,38 @@ Määritä ja käännä seuraavat muodot sekä muodosta niille vastaavat **a-aor
 ::: grammar-box
 | Nro. | Muoto | Määritelmä / Merkitys | a-aoristi |
 |:---|:---|:---|:---|
-| ⟪१⟫. | ⟪दोक्ष्यन्ति⟫ | sig[⟪दुष्⟫] 4P: 3. Pl. Fut. P. (he tuhoavat) | ⟪अदुषन्⟫ |
-| ⟪२⟫. | ⟪बुबोध⟫ | sig[⟪बुध्⟫] 1U: 1. 3. Sg. Perf. P. (minä heräsin / hän heräsi) | **⟪अबुधम्⟫ / ⟪अबुधत्⟫** |
-| ⟪३⟫. | ⟪क्रुध्यसि⟫ | sig[⟪क्रुध्⟫] 4P: 2. Sg. Ind. Präs. P. (sinä vihastut) | ⟪अक्रुधः⟫ |
-| ⟪४⟫. | ⟪तोक्ष्यथ⟫ | sig[⟪तुष्⟫] 4P: 2. Pl. Fut. P. (te olette tyytyväisiä) | ⟪अतुषत⟫ |
-| ⟪५⟫. | ⟪कुप्यामः⟫ | sig[⟪कुप्⟫] 4P: 1. Pl. Ind. Präs. P. (me vihastumme) | ⟪अकुपाम⟫ |
-| ⟪६⟫. | ⟪आप⟫ | sig[⟪आप्⟫] 5P: 1. 3. Sg. 2. Pl. Perf. P. (minä / hän / he saavuttivat) | **⟪आपम्⟫ / ⟪आपत्⟫ / ⟪आपत⟫** |
-| ⟪७⟫. | ⟪जग्मुः⟫ | sig[⟪गम्⟫] 1P: 3. Pl. Perf. P. (he menivät) | ⟪अगमन्⟫ |
-| ⟪८⟫. | ⟪छेत्स्यसि⟫ | sig[⟪छिद्⟫] 7U: 2. Sg. Fut. P. (sinä leikkaat pois) | ⟪अच्छिदः⟫ |
-| ⟪९⟫. | ⟪पश्यथ⟫ | sig[⟪दृश्⟫] 4P: 2. Pl. Ind. Präs. P. (te näette) | ⟪अदर्शत⟫ |
-| ⟪१०⟫. | ⟪ध्रोक्ष्यामि⟫ | sig[⟪द्रुह्⟫] 4P: 1. Sg. Fut. P. (minä vahingoitan) | ⟪अद्रुहम्⟫ |
-| ⟪११⟫. | ⟪नेश⟫ | sig[⟪नश्⟫] 4P: 2. Pl. Perf. P. (te kadotitte) | ⟪अनशत⟫ |
-| ⟪१२⟫. | ⟪भिन्त्थ⟫ | sig[⟪भिद्⟫] 7U: 2. Pl. Ind. Präs. P. (te halkoisitte) | ⟪अभिदत⟫ |
-| ⟪१३⟫. | ⟪भ्राम्यामः⟫ | sig[⟪भ्रम्⟫] 4P: 1. Pl. Ind. Präs. P. (me eksymme) | ⟪अभ्रमाम⟫ |
-| ⟪१४⟫. | ⟪मुञ्चति⟫ | sig[⟪मुच्⟫] 6U: 3. Sg. Ind. Präs. P. (hän vapauttaa) | ⟪अमुचत्⟫ |
-| ⟪१५⟫. | ⟪मुह्यसि⟫ | sig[⟪मुह्⟫] 4P: 2. Sg. Ind. Präs. P. (sinä eksyt) | ⟪अमुहः⟫ |
-| ⟪१६⟫. | ⟪अरोदीत्⟫ | sig[⟪रुद्⟫] 2P: 3. Sg. Impf. P. (hän itki) | ⟪अरुदत्⟫ |
-| ⟪१७⟫. | ⟪रुरोधिथ⟫ | sig[⟪रुध्⟫] 7U: 2. Sg. Perf. P. (sinä pidit kiinni) | ⟪अरुधः⟫ |
-| ⟪१८⟫. | ⟪श्राम्यन्ति⟫ | sig[⟪श्रम्⟫] 4P: 3. Pl. Ind. Präs. P. (he vaivautuvat) | ⟪अश्रमन्⟫ |
-| ⟪१९⟫. | ⟪विन्दथ⟫ | sig[⟪विद्⟫] 6U: 2. Pl. Ind. Präs. P. (te löydätte) | ⟪अविदत⟫ |
-| ⟪२०⟫. | ⟪असीदन्⟫ | sig[⟪सद्⟫] 1P: 3. Pl. Impf. P. (he istuivat) | ⟪असदन्⟫ |
-| ⟪२१⟫. | ⟪वर्तामहे⟫ | sig[⟪वृत्⟫] 1Ā: 1. Pl. Ind. Präs. Ā. (me olemme) | ⟪अवृतमाम⟫ (a-aor.: P.) |
-| ⟪२२⟫. | ⟪अशात्⟫ | sig[⟪शास्⟫] 2P: 3. Sg. Impf. P. (hän käski) | ⟪अशिषत्⟫ |
-| ⟪२३⟫. | ⟪सेक्ष्यसे⟫ | sig[⟪शिच्⟫] 6U: 2. Sg. Fut. Ā. (sinä tipput) | ⟪असिचथाः⟫ |
-| ⟪२४⟫. | ⟪अयुनक्⟫ | sig[⟪युज्⟫] 7U: 2. 3. Sg. Impf. P. (sinä / hän on jännittänyt) | **⟪अयुजः⟫ / ⟪अयुजत्⟫** |
-| ⟪२५⟫. | ⟪आरिथ⟫ | sig[⟪ऋ⟫] 3P: 2. Sg. Perf. P. (sinä olet käynyt) | ⟪आरः⟫ |
-| ⟪२६⟫. | ⟪अक्लिद्यन्⟫ | sig[⟪क्लिद्⟫] 4P: 3. Pl. Impf. P. (he kostuivat) | ⟪अक्लिदन्⟫ |
-| ⟪२७⟫. | ⟪अजीर्यम्⟫ | sig[⟪जॄ⟫] 4P: 1. Sg. Impf. P. (minä vanhin) | ⟪अजरम्⟫ (korkeavokaalinen) |
-| ⟪२८⟫. | ⟪लुम्पति⟫ | sig[⟪लुप्⟫] 6U: 3. Sg. Ind. Präs. P. (hän rikkoo) | ⟪अलुपत्⟫ |
-| ⟪२९⟫. | ⟪अशाम्यत⟫ | sig[⟪शम्⟫] 4P: 2. Pl. Impf. P. (te rauhoituitte) | ⟪अशमत⟫ |
-| ⟪३०⟫. | ⟪अशोभथाः⟫ | sig[⟪शुभ्⟫] 1Ā: 2. Sg. Impf. Ā. (sinä olit kaunis) | ⟪अशुभः⟫ (a-aor.: P.) |
-| ⟪३१⟫. | ⟪अशुष्याम⟫ | sig[⟪शुष्⟫] 4P: 1. Pl. Impf. P. (me kuivuimme) | ⟪अशुषाम⟫ |
-| ⟪३२⟫. | ⟪सिष्णेह⟫ | sig[⟪स्निह्⟫] 4P: 1. 3. Sg. Perf. P. (minä rakastin / hän rakasti) | **⟪अस्निहम्⟫ / ⟪अस्निहत्⟫** |
+| ⟪१⟫. | ⟪दोक्ष्यन्ति⟫ | :sig[⟪दुष्⟫] 4P: 3. Pl. Fut. P. (he tuhoavat) | ⟪अदुषन्⟫ |
+| ⟪२⟫. | ⟪बुबोध⟫ | :sig[⟪बुध्⟫] 1U: 1. 3. Sg. Perf. P. (minä heräsin / hän heräsi) | **⟪अबुधम्⟫ / ⟪अबुधत्⟫** |
+| ⟪३⟫. | ⟪क्रुध्यसि⟫ | :sig[⟪क्रुध्⟫] 4P: 2. Sg. Ind. Präs. P. (sinä vihastut) | ⟪अक्रुधः⟫ |
+| ⟪४⟫. | ⟪तोक्ष्यथ⟫ | :sig[⟪तुष्⟫] 4P: 2. Pl. Fut. P. (te olette tyytyväisiä) | ⟪अतुषत⟫ |
+| ⟪५⟫. | ⟪कुप्यामः⟫ | :sig[⟪कुप्⟫] 4P: 1. Pl. Ind. Präs. P. (me vihastumme) | ⟪अकुपाम⟫ |
+| ⟪६⟫. | ⟪आप⟫ | :sig[⟪आप्⟫] 5P: 1. 3. Sg. 2. Pl. Perf. P. (minä / hän / he saavuttivat) | **⟪आपम्⟫ / ⟪आपत्⟫ / ⟪आपत⟫** |
+| ⟪७⟫. | ⟪जग्मुः⟫ | :sig[⟪गम्⟫] 1P: 3. Pl. Perf. P. (he menivät) | ⟪अगमन्⟫ |
+| ⟪८⟫. | ⟪छेत्स्यसि⟫ | :sig[⟪छिद्⟫] 7U: 2. Sg. Fut. P. (sinä leikkaat pois) | ⟪अच्छिदः⟫ |
+| ⟪९⟫. | ⟪पश्यथ⟫ | :sig[⟪दृश्⟫] 4P: 2. Pl. Ind. Präs. P. (te näette) | ⟪अदर्शत⟫ |
+| ⟪१०⟫. | ⟪ध्रोक्ष्यामि⟫ | :sig[⟪द्रुह्⟫] 4P: 1. Sg. Fut. P. (minä vahingoitan) | ⟪अद्रुहम्⟫ |
+| ⟪११⟫. | ⟪नेश⟫ | :sig[⟪नश्⟫] 4P: 2. Pl. Perf. P. (te kadotitte) | ⟪अनशत⟫ |
+| ⟪१२⟫. | ⟪भिन्त्थ⟫ | :sig[⟪भिद्⟫] 7U: 2. Pl. Ind. Präs. P. (te halkoisitte) | ⟪अभिदत⟫ |
+| ⟪१३⟫. | ⟪भ्राम्यामः⟫ | :sig[⟪भ्रम्⟫] 4P: 1. Pl. Ind. Präs. P. (me eksymme) | ⟪अभ्रमाम⟫ |
+| ⟪१४⟫. | ⟪मुञ्चति⟫ | :sig[⟪मुच्⟫] 6U: 3. Sg. Ind. Präs. P. (hän vapauttaa) | ⟪अमुचत्⟫ |
+| ⟪१५⟫. | ⟪मुह्यसि⟫ | :sig[⟪मुह्⟫] 4P: 2. Sg. Ind. Präs. P. (sinä eksyt) | ⟪अमुहः⟫ |
+| ⟪१६⟫. | ⟪अरोदीत्⟫ | :sig[⟪रुद्⟫] 2P: 3. Sg. Impf. P. (hän itki) | ⟪अरुदत्⟫ |
+| ⟪१७⟫. | ⟪रुरोधिथ⟫ | :sig[⟪रुध्⟫] 7U: 2. Sg. Perf. P. (sinä pidit kiinni) | ⟪अरुधः⟫ |
+| ⟪१८⟫. | ⟪श्राम्यन्ति⟫ | :sig[⟪श्रम्⟫] 4P: 3. Pl. Ind. Präs. P. (he vaivautuvat) | ⟪अश्रमन्⟫ |
+| ⟪१९⟫. | ⟪विन्दथ⟫ | :sig[⟪विद्⟫] 6U: 2. Pl. Ind. Präs. P. (te löydätte) | ⟪अविदत⟫ |
+| ⟪२०⟫. | ⟪असीदन्⟫ | :sig[⟪सद्⟫] 1P: 3. Pl. Impf. P. (he istuivat) | ⟪असदन्⟫ |
+| ⟪२१⟫. | ⟪वर्तामहे⟫ | :sig[⟪वृत्⟫] 1Ā: 1. Pl. Ind. Präs. Ā. (me olemme) | ⟪अवृतमाम⟫ (a-aor.: P.) |
+| ⟪२२⟫. | ⟪अशात्⟫ | :sig[⟪शास्⟫] 2P: 3. Sg. Impf. P. (hän käski) | ⟪अशिषत्⟫ |
+| ⟪२३⟫. | ⟪सेक्ष्यसे⟫ | :sig[⟪शिच्⟫] 6U: 2. Sg. Fut. Ā. (sinä tipput) | ⟪असिचथाः⟫ |
+| ⟪२४⟫. | ⟪अयुनक्⟫ | :sig[⟪युज्⟫] 7U: 2. 3. Sg. Impf. P. (sinä / hän on jännittänyt) | **⟪अयुजः⟫ / ⟪अयुजत्⟫** |
+| ⟪२५⟫. | ⟪आरिथ⟫ | :sig[⟪ऋ⟫] 3P: 2. Sg. Perf. P. (sinä olet käynyt) | ⟪आरः⟫ |
+| ⟪२६⟫. | ⟪अक्लिद्यन्⟫ | :sig[⟪क्लिद्⟫] 4P: 3. Pl. Impf. P. (he kostuivat) | ⟪अक्लिदन्⟫ |
+| ⟪२७⟫. | ⟪अजीर्यम्⟫ | :sig[⟪जॄ⟫] 4P: 1. Sg. Impf. P. (minä vanhin) | ⟪अजरम्⟫ (korkeavokaalinen) |
+| ⟪२८⟫. | ⟪लुम्पति⟫ | :sig[⟪लुप्⟫] 6U: 3. Sg. Ind. Präs. P. (hän rikkoo) | ⟪अलुपत्⟫ |
+| ⟪२९⟫. | ⟪अशाम्यत⟫ | :sig[⟪शम्⟫] 4P: 2. Pl. Impf. P. (te rauhoituitte) | ⟪अशमत⟫ |
+| ⟪३०⟫. | ⟪अशोभथाः⟫ | :sig[⟪शुभ्⟫] 1Ā: 2. Sg. Impf. Ā. (sinä olit kaunis) | ⟪अशुभः⟫ (a-aor.: P.) |
+| ⟪३१⟫. | ⟪अशुष्याम⟫ | :sig[⟪शुष्⟫] 4P: 1. Pl. Impf. P. (me kuivuimme) | ⟪अशुषाम⟫ |
+| ⟪३२⟫. | ⟪सिष्णेह⟫ | :sig[⟪स्निह्⟫] 4P: 1. 3. Sg. Perf. P. (minä rakastin / hän rakasti) | **⟪अस्निहम्⟫ / ⟪अस्निहत्⟫** |
 
 :::
 ::: media

@@ -39,11 +39,11 @@ Beispiel:
 Unregelmässige Bildungen:
 
 ::: indent
-⟪अस्⟫ 4P "werfen": sig[⟪आस्थम्⟫], sig[⟪आस्थत्⟫] (Erklärung siehe Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P "werfen": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (Erklärung siehe Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": sig[⟪अख्यम्⟫], sig[⟪अख्यत्⟫]
+⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
 
-⟪दृश्⟫ "sehen": sig[⟪अदर्शम्⟫], sig[⟪अदर्शत्⟫] (Hochstufe!)
+⟪दृश्⟫ "sehen": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (Hochstufe!)
 :::
 Beachte:
 

@@ -157,9 +157,9 @@ pl. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » ⟪�
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Jelen idő** :br⟪लट्⟫ | sig[⟪असि⟫] | sig[⟪स्थ⟫] |
-| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | sig[⟪आसीस्⟫] | sig[⟪आस्त⟫] |
-| **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | sig[⟪स्यास्⟫] | sig[⟪स्यात⟫] |
+| **Indikativ Jelen idő** :br⟪लट्⟫ | :sig[⟪असि⟫] | :sig[⟪स्थ⟫] |
+| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | :sig[⟪आसीस्⟫] | :sig[⟪आस्त⟫] |
+| **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | :sig[⟪स्यास्⟫] | :sig[⟪स्यात⟫] |
 :::
 ⟪तत्त्वमसि⟫
 
@@ -240,7 +240,7 @@ ebből:
 Ábr.: ⟪रेल्यानम्⟫
 (Képmegjelölés: [Részletek](/hu/licenses#lekt4403))
 :::
-⟪शी⟫ 2Ā ⟪शेते⟫ : feküdni. Ez a gyökér minden jelen időstámi forma esetén **magas fokot** mutat: 1.sg.Ind.Präs.Ā sig[⟪शेये⟫] (śe + e). Különösen figyelmet érdemelnek a következő alakok: 3.pl.Ind.Präs.Ā sig[⟪शेरते⟫], 3.pl.Imperf.Ā sig[⟪अशेरत⟫]
+⟪शी⟫ 2Ā ⟪शेते⟫ : feküdni. Ez a gyökér minden jelen időstámi forma esetén **magas fokot** mutat: 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e). Különösen figyelmet érdemelnek a következő alakok: 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -281,13 +281,13 @@ Kép: ⟪नन्दी⟩
 :::
 ⟪नन्द्⟩ + ⟪अभि⟩ 1P (1Ā)  ⟪अभिनन्दति⟩: örömét leli (⟪द्वितीयया⟩), valakit örömmel üdvözöl, szeretettel fogad
 
-⟪यम्⟩ 1P sig[⟪यच्छति⟩]: tart, visel; adományoz, biztosít; összetart, megfékez, megszelídít, leküzd
+⟪यम्⟩ 1P :sig[⟪यच्छति⟩]: tart, visel; adományoz, biztosít; összetart, megfékez, megszelídít, leküzd
 
 ::: indent
 Perf. Vb ⟪ययाम⟩, ⟪येमुर्⟩  
 Fut. ⟪यंस्यति⟩
 Pass. ⟪यम्यते⟩
-Kaus. ⟪यामयति⟩ de: ⟪नि⟩sig[⟪यम⟩]⟪यति⟩
+Kaus. ⟪यामयति⟩ de: ⟪नि⟩:sig[⟪यम⟩]⟪यति⟩
 PPP ⟪यत⟩
 Inf. ⟪यन्तुम्⟩
 Absol. -⟪यम्य⟩
@@ -331,7 +331,7 @@ ebből:
 Perf. ige ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. sig[⟪रम्भ⟫]⟪यति⟫  
+Kaus. :sig[⟪रम्भ⟫]⟪यति⟫  
 PPP ⟪रब्ध⟫
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫

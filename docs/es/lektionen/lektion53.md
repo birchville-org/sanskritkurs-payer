@@ -190,7 +190,7 @@ Fig.: ⟪भरन्तौ⟫
 ::: grammar-box
 |   | Neutro :br ⟪नपुंसक⟫ |
 | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br sig[⟪नामानी⟫] |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br :sig[⟪नामानी⟫] |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
@@ -381,8 +381,8 @@ Ejemplos:
 ::: grammar-box
 | Raíz | Adjetivo | Comparativo | Superlativo |
 | --- | --- | --- 
-| ⟪क्षिप्⟫ 6P "lanzar" | ⟪क्षिप्र⟫ 3 "rápido" | sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
-| ⟪स्था⟫ 1P "estar de pie" | ⟪स्थिर⟫ 3 "estable, firme" | sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
+| ⟪क्षिप्⟫ 6P "lanzar" | ⟪क्षिप्र⟫ 3 "rápido" | :sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
+| ⟪स्था⟫ 1P "estar de pie" | ⟪स्थिर⟫ 3 "estable, firme" | :sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
 :::
 **Reglas especiales para la adición de estos sufijos:**
 

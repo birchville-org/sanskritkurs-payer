@@ -32,10 +32,10 @@ Exemplos:
 * 3.sg.P.Ind.Präs. ⟪ददाति⟫
 
 ⟪पॄ⟫ 3 "encher"
-* 3.sg.P.Ind.Präs. sig[⟪पि⟫]⟪पर्ति⟫
+* 3.sg.P.Ind.Präs. :sig[⟪पि⟫]⟪पर्ति⟫
 
 ⟪मा⟫ 3Ā "medir"
-* 3.sg.Ā.Ind.Präs. sig[⟪मि⟫]⟪मीते⟫
+* 3.sg.Ā.Ind.Präs. :sig[⟪मि⟫]⟪मीते⟫
 :::
 ::: grammar-box
 **2. Uma consoante inicial aspirada de uma raiz é reduplicada pela consoante não aspirada correspondente.**
@@ -47,7 +47,7 @@ Exemplos:
 * 3.sg.P.Ind.Präs. ⟪दधाति⟫
 
 ⟪भी⟫ 3 "temer"
-* 3.sg.P.Ind.Pres. sig[⟪बि⟫]⟪भेति⟫
+* 3.sg.P.Ind.Pres. :sig[⟪बि⟫]⟪भेति⟫
 :::
 ::: grammar-box
 **3. Uma gutural é reduplicada pela palatal não aspirada correspondente:**
@@ -248,14 +248,14 @@ Fig.: ⟪दानम्⟫
 Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U sig[⟪दधाति⟫]: pôr, estabelecer, atribuir
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: pôr, estabelecer, atribuir
 
 ::: indent
-**Fut.** sig[⟪धास्यति⟫]
-**Pass.** sig[⟪धीयते⟫]
-**Caus.** sig[⟪धापयति⟫]
-**PPP** sig[⟪हित⟫] (!!)
-**Inf.** sig[⟪धातुम्⟫]
+**Fut.** :sig[⟪धास्यति⟫]
+**Pass.** :sig[⟪धीयते⟫]
+**Caus.** :sig[⟪धापयति⟫]
+**PPP** :sig[⟪हित⟫] (!!)
+**Inf.** :sig[⟪धातुम्⟫]
 :::
 ⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: dirigir toda a atenção para algo, concentrar-se
 
@@ -273,10 +273,10 @@ Fig.: ⟪समाधि⟫
 
 ::: indent
 Nota:
-3.pl.P sig[⟪पिपुरति⟫]
-3.sg.Impf.P sig[⟪अपिपर्⟫] (de: \*apipart)
-3.pl.Impf.P sig[⟪अपिपरुर्⟫]
-3.sg.Opt.P sig[⟪पिपूर्यात्⟫]
+3.pl.P :sig[⟪पिपुरति⟫]
+3.sg.Impf.P :sig[⟪अपिपर्⟫] (de: \*apipart)
+3.pl.Impf.P :sig[⟪अपिपरुर्⟫]
+3.sg.Opt.P :sig[⟪पिपूर्यात्⟫]
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫
 **Pass.** ⟪पूर्यते⟫

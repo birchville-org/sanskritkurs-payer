@@ -39,11 +39,11 @@ Exemple :
 Formations irrégulières :
 
 ::: indent
-⟪अस्⟫ 4P "jeter" : sig[⟪आस्थम्⟫, ⟪आस्थत्⟫] (explication voir Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P "jeter" : :sig[⟪आस्थम्⟫, ⟪आस्थत्⟫] (explication voir Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "raconter" : sig[⟪अख्यम्⟫, ⟪अख्यत्⟫]
+⟪ख्या⟫ + ⟪आ⟫ 2P "raconter" : :sig[⟪अख्यम्⟫, ⟪अख्यत्⟫]
 
-⟪दृश्⟫ "voir" : sig[⟪अदर्शम्⟫, ⟪अदर्शत्⟫] (degré fort !)
+⟪दृश्⟫ "voir" : :sig[⟪अदर्शम्⟫, ⟪अदर्शत्⟫] (degré fort !)
 :::
 Remarquer :
 

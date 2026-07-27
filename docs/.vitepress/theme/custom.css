@@ -216,8 +216,9 @@ html {
 }
 
 /* Devanagari Scholarly Styling */
+.vp-doc .sanskrit-dev,
 .sanskrit-dev {
-  color: #b22222; /* Scholastic Red */
+  color: #b22222 !important; /* Scholastic Red (Dunkelrot) */
   font-family: "Sanskrit2003", "ITR Vijay", serif;
   font-size: 1.15em;
   font-weight: 600;

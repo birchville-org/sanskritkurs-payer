@@ -214,7 +214,7 @@ Példa:
 
 :::
 ::: indent
-⟪भस्मसात्कृ⟫sig[⟪त्वा⟫]
+⟪भस्मसात्कृ⟫:sig[⟪त्वा⟫]
 :::
 ## 52.5. Szóismétlések (⟪द्विरुक्तम्⟫)
 
@@ -252,7 +252,7 @@ A nem kezelt témákért lásd pl. Kielhorn, Grammatik §201f.
 **Az *1-től 19-ig* terjedő számnevek melléknevek.**
 **Az **1-től 4-ig** terjedő számnevek a három nem szerint ragozási szempontból eltérők.**
 
-**Az 5-től 19-ig terjedő számnevekhez (sig[⟪नवदशन्⟫]) mindhárom nemre csak egy ragozási típus tartozik.**
+**Az 5-től 19-ig terjedő számnevekhez (:sig[⟪नवदशन्⟫]) mindhárom nemre csak egy ragozási típus tartozik.**
 
 **Ezek a számnevek, mint minden más melléknév, egybe kell álljanak az őket módosító főnév esetében, számában és nemében (azaz egyes számban 1-es, kettős számban 2-es, a többiek pedig többes számú).**
 :::
@@ -327,16 +327,16 @@ egyszer: ⟪सकृत्⟫
 kétszer: ⟪द्विस्⟫
 háromszor: ⟪त्रिस्⟫
 négyszer: ⟪चतुस्⟫
-ötször stb. a -sig[⟪कृत्वस्⟫] képzővel képezhető: ⟪पञ्चकृत्वस्⟫
+ötször stb. a -:sig[⟪कृत्वस्⟫] képzővel képezhető: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-szoros": a -sig[⟪धा⟫] képzővel fejeződik ki
+b) "-szoros": a -:sig[⟪धा⟫] képzővel fejeződik ki
 
 ::: indent
 egyszerű: ⟪एकधा⟫
 kétszeres: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
 stb.
 :::
-c) "mind ...", "...-ként": a -sig[⟪शस्⟫] képzővel fejeződik ki (lásd fent!)
+c) "mind ...", "...-ként": a -:sig[⟪शस्⟫] képzővel fejeződik ki (lásd fent!)
 
 ::: indent
 ⟪द्विशस्⟫ "kettesével, mind ketten"
@@ -349,7 +349,7 @@ c) "mind ...", "...-ként": a -sig[⟪शस्⟫] képzővel fejeződik ki (l�
 kettős, két részből álló
 hármas, három részből álló
 
-4-től kezdve a "-fältig" utótagot a -sig[⟪तय⟫] (f.: -sig[⟪तयी⟫]) képző fejezi ki: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "négyes"
+4-től kezdve a "-fältig" utótagot a -:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫]) képző fejezi ki: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "négyes"
 :::
 További képzéseket a szótárak vagy grammatikák tartalmazzák.
 
@@ -409,7 +409,7 @@ Jalakandapuram = ஜலகண்டபுரம்
 ::: grammar-box
 **Egy alapmértékszám (de nem égtáj) jelölése első tagként más névmással is képezhet Tatpuruṣa összetételt, még akkor is, ha az így képzett összetétel több dolog aggregátumát jelöli, azaz két vagy több dolgot egyetlen egységgé egyesít.**
 
-**A Tatpuruṣa, amelyeket e szabály szerint Dvigu-nak (sig[⟪द्विगु⟫]) neveznek.**
+**A Tatpuruṣa, amelyeket e szabály szerint Dvigu-nak (:sig[⟪द्विगु⟫]) neveznek.**
 
 **Az egységet jelölő Dvigu-kompozitumok általában középneműek. Ha a második tag -a-ra végződik, akkor a nőnemű képző -ī csatolható. Ha a második tag nőnemű -ā-ra végződik, akkor annak helyére középnemű -a vagy nőnemű -ī lép. Ha a második tag -an-ra végződik, akkor annak helyére -a vagy -ī kerül.**
 :::
@@ -501,7 +501,7 @@ Kép: ⟪प्रधानः⟫
 ::: indent
 ⟪त्रिवर्ग⟫ m.: hármas csoport (pl. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; vagy: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; vagy: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, sig[⟪उशन्ति⟫], Imperat. 2.sg.: sig[⟪उड्ढि⟫] : akarnak, rendelni, vágyik valamire
+⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : akarnak, rendelni, vágyik valamire
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
@@ -656,7 +656,7 @@ Inf. ⟪त्रातुम्⟫
 ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫
 ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫
 ⟪एतद्विद्यात्समासेन⟫
-⟪लक्षणं⟫ ⟪सुखदुःख⟫sig[⟪योः⟫] ⟪॥१६०॥⟫
+⟪लक्षणं⟫ ⟪सुखदुःख⟫:sig[⟪योः⟫] ⟪॥१६०॥⟫
 
 ⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्⟫
 ⟪परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫
@@ -669,7 +669,7 @@ Magyarázat: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvand
 
 ::: indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
-⟪स्मृतिशी⟫sig[⟪ले⟫] ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
+⟪स्मृतिशी⟫:sig[⟪ले⟫] ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
@@ -677,7 +677,7 @@ Magyarázat: ⟪स्मृतिशीले⟫ Nominativ/Akkuzatív Dual.n. (
 :::
 ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ A अर्थ⟫, ⟪काम⟫, धर्म⟫ felett a herceg életében
 
-⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫sig[⟪मितरौ⟫] ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫sig[⟪मूलौ⟫] ⟪हि⟫ ⟪धर्मका⟫sig[⟪मावि⟫]⟪ति⟫ ⟪।७।⟫
+⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫:sig[⟪मितरौ⟫] ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫:sig[⟪मूलौ⟫] ⟪हि⟫ ⟪धर्मका⟫:sig[⟪मावि⟫]⟪ति⟫ ⟪।७।⟫
 
 ::: indent
 Magyarázatok:

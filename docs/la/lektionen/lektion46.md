@@ -263,7 +263,7 @@ Forma 2.sg.P. a radice infirma formatur, cum vocalis coniunctiva -i- adhibetur.
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪पपक्थ⟫:br sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
+| ⟪पपक्थ⟫:br :sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
 #### 46.1.7.3. Perfectum Typus Vc: Consonans-a-Consonans, radix infima gradus altus
 

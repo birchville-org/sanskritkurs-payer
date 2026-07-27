@@ -2309,14 +2309,14 @@ Kuv.: ⟪दानम्⟩
 Kuv.: ⟪सा⟩ ⟪पुत्रमादाय⟩ ⟪भारं⟩ ⟪बिभ्रती⟩ ⟪गच्छति⟩
 (Kuv lähde: [Yksityiskohdat](/licenses#lekt3307))
 :::
-sig[⟪धा⟩] 3U sig[⟪दधाति⟩]: asettaa, määrätä, jakaa
+:sig[⟪धा⟩] 3U :sig[⟪दधाति⟩]: asettaa, määrätä, jakaa
 
 ::: indent
-**Fut.** sig[⟪धास्यति⟩]  
-**Pass.** sig[⟪धीयते⟩]  
-**Kaus.** sig[⟪धापयति⟩]  
-**PPP** sig[⟪हित⟩] (!!)  
-**Inf.** sig[⟪धातुम्⟩]
+**Fut.** :sig[⟪धास्यति⟩]  
+**Pass.** :sig[⟪धीयते⟩]  
+**Kaus.** :sig[⟪धापयति⟩]  
+**PPP** :sig[⟪हित⟩] (!!)  
+**Inf.** :sig[⟪धातुम्⟩]
 :::
 ⟪धा⟩ + ⟪सम्⟩ + ⟪आ⟩ 3U ⟪समादधाति⟩: suunnata koko huomio johonkin, keskittyä
 
@@ -2335,10 +2335,10 @@ Kuv: ⟪समाधि⟫
 
 ::: indent
 Huom:
-3.pl.P sig[⟪पिपुरति⟫]  
-3.sg.Impf.P sig[⟪अपिपर्⟫] (johd: \*apipart)  
-3.pl.Impf.P sig[⟪अपिपरुर्⟫]  
-3.sg.Opt.P sig[⟪पिपूर्यात्⟫]
+3.pl.P :sig[⟪पिपुरति⟫]  
+3.sg.Impf.P :sig[⟪अपिपर्⟫] (johd: \*apipart)  
+3.pl.Impf.P :sig[⟪अपिपरुर्⟫]  
+3.sg.Opt.P :sig[⟪पिपूर्यात्⟫]
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
@@ -2530,15 +2530,15 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 **Kaus. ⟪नाशयति⟫** :br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫sig[⟪ण⟫]⟪श्यति⟫** : hävitä, kadota, tuhoutua
+**⟪नश्⟫ + ⟪प्र⟫** 4P ⟪प्र⟫:sig[⟪ण⟫]⟪श्यति⟫** : hävitä, kadota, tuhoutua
 
-⟪क्रम्⟫ 1U sig[⟪क्रा⟫]⟪मति⟫, 4P sig[⟪क्रा⟫]⟪म्यति⟫ : astua, kävellä
+⟪क्रम्⟫ 1U :sig[⟪क्रा⟫]⟪मति⟫, 4P :sig[⟪क्रा⟫]⟪म्यति⟫ : astua, kävellä
 ::: indent
 **Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
 **Fut. ⟪क्रमिष्यति⟫** :br
 **Pass. ⟪क्रम्यते⟫** :br
 **Kaus. ⟪क्रमयति⟫** :br
-**PPP sig[⟪क्रा⟫]⟪न्त⟫** :br
+**PPP :sig[⟪क्रा⟫]⟪न्त⟫** :br
 **Inf. ⟪क्रमितुम्⟫** :br
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
@@ -2677,7 +2677,7 @@ PPP ⟪ग्लान⟫
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
 :::
-⟪घ्रा⟫ 1P sig[⟪जिघ्रति⟫] : haista jotak
+⟪घ्रा⟫ 1P :sig[⟪जिघ्रति⟫] : haista jotak
 
 ::: indent
 Perf. IV ⟪जघ्रौ⟫  
@@ -2696,7 +2696,7 @@ Absol. -⟪घ्राय⟫
 Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
 Fut. ⟪प्रेष्यति⟫  
 Pass. ⟪प्रीयते⟫  
-Kaus. sig[⟪प्रीणयति⟫]  
+Kaus. :sig[⟪प्रीणयति⟫]  
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
 :::
@@ -3138,7 +3138,7 @@ PPP ⟪अवस्थित⟫ 3: paikallaan oleva, sijaitseva
 
 ⟪दूत⟫ m.: sanansaattaja, lähettiläs
 
-⟪इष्⟫ (1,4,9) Kaus. sig[⟪इष⟫]⟪यति⟫ : lähettää
+⟪इष्⟫ (1,4,9) Kaus. :sig[⟪इष⟫]⟪यति⟫ : lähettää
 
 ⟪सकाश⟫ m.: läsnäolo, olemassaolo
 
@@ -3410,7 +3410,7 @@ tästä:
 Kuv.: ⟪रेल्यानम्⟫
 (Kuvan lähde: [Yksityiskohdat](/licenses#lekt4403))
 :::
-⟪शी⟫ 2Ā ⟪शेते⟫ : maata. Tällä verbijuurella on kaikissa preesensvartalon muodoissa **korkea aste:** 1.sg.Ind.Präs.Ā sig[⟪शेये⟫] (śe + e). Seuraavat muodot ovat erityisesti huomioitava: 3.pl.Ind.Präs.Ā sig[⟪शेरते⟫], 3.pl.Imperf.Ā sig[⟪अशेरत⟫]
+⟪शी⟫ 2Ā ⟪शेते⟫ : maata. Tällä verbijuurella on kaikissa preesensvartalon muodoissa **korkea aste:** 1.sg.Ind.Präs.Ā :sig[⟪शेये⟫] (śe + e). Seuraavat muodot ovat erityisesti huomioitava: 3.pl.Ind.Präs.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -3452,13 +3452,13 @@ Kuv.: ⟪नन्दी⟫
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : olla iloinen jstk (⟪द्वितीयया⟫), tervehdiä iloisesti jkta, tervetulla
 
-⟪यम्⟫ 1P sig[⟪यच्छति⟫] : pitää, kantaa; tarjota, myöntää; pitää koossa, kesyttää, ohjata, voittaa
+⟪यम्⟫ 1P :sig[⟪यच्छति⟫] : pitää, kantaa; tarjota, myöntää; pitää koossa, kesyttää, ohjata, voittaa
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫ 
 Pass. ⟪यम्यते⟫ 
-Kaus. ⟪यामयति⟫ mutta: ⟪नि⟫sig[⟪यम⟫]⟪यति⟫ 
+Kaus. ⟪यामयति⟫ mutta: ⟪नि⟫:sig[⟪यम⟫]⟪यति⟫ 
 PPP ⟪यत⟫ 
 Inf. ⟪यन्तुम्⟫ 
 Absol. -⟪यम्य⟫
@@ -3502,7 +3502,7 @@ Kuv.: ⟪यत्नेन⟫
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫ 
 Pass. ⟪रभ्यते⟫ 
-Kaus. sig[⟪रम्भ⟫]⟪यति⟫ 
+Kaus. :sig[⟪रम्भ⟫]⟪यति⟫ 
 PPP ⟪रब्ध⟫ 
 Inf. ⟪रब्धुम्⟫ 
 Absol. -⟪रभ्य⟫
@@ -3569,14 +3569,14 @@ tästä:
 ⟪विषम⟫ 3: epätasainen, tasoton, paha
 
 :::
-⟪ग्रह्⟫ 9U sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : tarttua, ottaa kiinni, käsittää
+⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : tarttua, ottaa kiinni, käsittää
 
 ::: indent
 Perf. Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Fut. ⟪ग्र⟫sig[⟪ही⟫]⟪ष्यति⟫  
+Fut. ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
 Kaus.⟪ग्राहयति⟫  
-PPP ⟪गृ⟫sig[⟪ही⟫]⟪त⟫  
+PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫  
 Inf. ⟪ग्रहितुम्⟫  
 Absol. -⟪ग्राह्य⟫
 tästä:
@@ -3649,8 +3649,8 @@ Kuv.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Fut. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
-Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫sig[⟪प⟫]⟪यति⟫  
-PPP. sig[⟪रूढ⟫]  
+Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫:sig[⟪प⟫]⟪यति⟫  
+PPP. :sig[⟪रूढ⟫]  
 Inf. ⟪रोढुम्⟫
 
 :::
@@ -3685,14 +3685,14 @@ Kuv.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 ⟪भ्रंश⟫ m.: katoaminen
 
-⟪श्रम्⟫ 4P sig[⟪श्रा⟫]⟪म्यति⟫ : vaivata itseään, väsyä
+⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : vaivata itseään, väsyä
 
 ::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Fut. ⟪श्रमिष्यति⟫  
 Pass. ⟪श्रम्यते⟫  
 Kaus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
-PPP sig[⟪श्रान्⟫]⟪त⟫  
+PPP :sig[⟪श्रान्⟫]⟪त⟫  
 Inf. ⟪श्रमितुम्⟫  
 Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
 siitä:
@@ -3715,7 +3715,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P sig[⟪सज⟫]⟪ति⟫ : kiinnittää, tarttua johonkin (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : kiinnittää, tarttua johonkin (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -3745,13 +3745,13 @@ Inf. ⟪द्रोतुम्⟫
 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P sig[⟪भ्रा⟫]⟪म्यति⟫ : vaeltää, kulkea ympäri
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : vaeltää, kulkea ympäri
 
 ::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Kaus. ⟪भ्रमयति⟫  
-PPP sig[⟪भ्रा⟫]⟪न्त⟫  
+PPP :sig[⟪भ्रा⟫]⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
 siitä:
@@ -3789,10 +3789,10 @@ PPP ⟪परिभूत⟫ 3: voitettu, nöyryytetty, alentunut
 
 ::: indent
 esim.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫sig[⟪षी⟫]⟪दति⟫ : laskeutua alas
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : laskeutua alas
 
 :::
-⟪भोस्⟫ vokatiivipartikkeli: huudahdus kutsussa, esim.: hei, heda, oh, ei, hallo, hi! usein käännettävissä. Tällä partikkelilla on erityinen sandhi: ennen kaikkea ääntynyttä konsonanttiäänteitä, se on sig[⟪भो⟫].
+⟪भोस्⟫ vokatiivipartikkeli: huudahdus kutsussa, esim.: hei, heda, oh, ei, hallo, hi! usein käännettävissä. Tällä partikkelilla on erityinen sandhi: ennen kaikkea ääntynyttä konsonanttiäänteitä, se on :sig[⟪भो⟫].
 
 ::: media
 ![](/images/lekt4611.webp)
@@ -3956,7 +3956,7 @@ Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ sig[⟪तू्र्⟫]⟪ण⟫
+PPP ⟪त्वरित⟫ ⟪।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
 
 :::
@@ -4092,7 +4092,7 @@ Pass. ⟪रिष्यते⟫
 Kaus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U sig[⟪लुम्प⟫]⟪ति⟫** : rikkoa, tuhoa
+**⟪लुप्⟫ 6U :sig[⟪लुम्प⟫]⟪ति⟫** : rikkoa, tuhoa
 
 ::: indent
 Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
@@ -4141,8 +4141,8 @@ Taivutus kuten ⟪यद्⟫ (poikkeus: nominatiivin ja akkusatiivin yksikön 
 | | Singularis:br⟪एकवचनम्⟫ || || Pluralis:br⟪बहुवचनम्⟫ || ||
 | | **Maskuliini:br⟪पुंस्⟫** | **Neutrumi:br⟪नपुंसकम्⟫** | **Feminini:br⟪स्त्री⟫** | **Maskuliini:br⟪पुंस्⟫** | **Neutrumi:br⟪नपुंसकम्⟫** | **Feminini:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Nominatiivi:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Akkusatiivi:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **1. Nominatiivi:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. Akkusatiivi:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
 | **3. Instrumentaali:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
 | **4. Datiivi:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **5. Ablatiivi:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
@@ -4258,9 +4258,9 @@ Pass. ⟪विशिष्यते⟫ : erota jostakin (⟪पञ्चम्�
 ⟪स्व⟫ 3: oma, hänen (minun, sinun jne.) Deklinoidaan kuten ⟪सर्व⟫. Abl.Lok.sg.m.n ja Nom.pl.m:ssä sitä voidaan deklinoida myös kuten ⟪देव⟫:
 
 ::: indent
-Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ sig[⟪स्वात्⟫]
-Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ sig[⟪स्⟫]⟪वे⟫
-Nom.pl.m ⟪स्वे⟫ ⟪।⟫ sig[⟪स्वास्⟫]
+Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ :sig[⟪स्वात्⟫]
+Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ :sig[⟪स्⟫]⟪वे⟫
+Nom.pl.m ⟪स्वे⟫ ⟪।⟫ :sig[⟪स्वास्⟫]
 :::
 ⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : moittia, nuhdella
 
@@ -4506,7 +4506,7 @@ Kuv.: ⟪प्रधानः⟫
 ::: indent
 ⟪त्रिवर्ग⟫ m.: kolmikko (esim. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫; tai: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫; tai: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, sig[⟪उशन्ति⟫], Imperatiivi 2.sg.: sig[⟪उड्ढि⟫] : tahtoa, käskyttää, vaatia
+⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperatiivi 2.sg.: :sig[⟪उड्ढि⟫] : tahtoa, käskyttää, vaatia
 
 ::: indent
 Perfekti Va ⟪उवाश⟫, ⟪ऊशुर्⟫

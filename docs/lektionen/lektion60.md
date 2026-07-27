@@ -325,13 +325,13 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
 1.  Die Wurzel ist meist tiefstufig: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
      
     1.  auslautendes -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:  
-        ⟪जि⟫ » ⟪जि⟫sig[⟪गी⟫]⟪ष⟫- "zu siegen wünschen"  
-        ⟪द्रु⟫ » ⟪दु⟫sig[⟪द्रू⟫]⟪ष⟫- "zu laufen wünschen"  
+        ⟪जि⟫ » ⟪जि⟫:sig[⟪गी⟫]⟪ष⟫- "zu siegen wünschen"  
+        ⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- "zu laufen wünschen"  
          
     2.  auslautendes -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:  
-        ⟪कृ⟫ » ⟪चि⟫sig[⟪कीर्ष⟫]\- "zu tun wünschen"  
-        ⟪मृ⟫ » ⟪मु⟫sig[⟪मूर्ष⟫]\- "im Begriff sein, zu sterben"  
-        ⟪पॄ⟫ » ⟪पु⟫sig[⟪पूर्ष⟫]\- "zu füllen wünschen"  
+        ⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- "zu tun wünschen"  
+        ⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- "im Begriff sein, zu sterben"  
+        ⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "zu füllen wünschen"  
          
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ und einige andere Wurzeln auf -ā, -e, -o haben Tiefstufe Ø:  
         ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
@@ -351,7 +351,7 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
         1.  obligatorisch: Wurzeln der Form i/u - Konsonant sowie (Konsonant -) ṛ/ḷ - Konsonant:  
             ⟪इष्⟫ » ⟪एषिषिष⟫- "zu wünschen verlangen"  
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "passend zu sein wünschen"  
-            ⟪स्मि⟫ » ⟪सि⟫sig[⟪स्म⟫]⟪यिष⟫- "zu lächeln wünschen"  
+            ⟪स्मि⟫ » ⟪सि⟫:sig[⟪स्म⟫]⟪यिष⟫- "zu lächeln wünschen"  
              
         2.  wahlweise: Wurzeln der Form Konsonant - (Konsonant -) i/u - Konsonant ausser -v\_  
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "aufzublitzen wünschen"

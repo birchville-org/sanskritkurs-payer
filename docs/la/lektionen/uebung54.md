@@ -19,7 +19,7 @@ Formae Aoristi correspondentium ex praesentibus vel perfectis sequentibus formis
 | ⟪४⟫. | ⟪बभूव⟫ | fui / fuistis | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
 | ⟪५⟫. | ⟪दधति⟫ | ponunt | ⟪अधुः⟫ |
 | ⟪६⟫. | ⟪ऐम⟫ | ibamus | ⟪अगाम⟫ |
-| ⟪७⟫. | ⟪पपिथ⟫ | bibisti / custodivisti | ⟪अपाः⟫ (ad sig[⟪पा⟫] "bibere") |
+| ⟪७⟫. | ⟪पपिथ⟫ | bibisti / custodivisti | ⟪अपाः⟫ (ad :sig[⟪पा⟫] "bibere") |
 | ⟪८⟫. | ⟪तिष्ठति⟫ | stat | ⟪अस्थात्⟫ |
 | ⟪९⟫. | ⟪इयेथ⟫ | ibisti | ⟪अगाः⟫ |
 | ⟪१०⟫. | ⟪पप⟫ | bibistis | ⟪अपात⟫ |

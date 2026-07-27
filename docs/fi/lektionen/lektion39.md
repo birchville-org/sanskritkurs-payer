@@ -1,6 +1,6 @@
 ---
 title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,9 +9,9 @@ status: stable
 
 # Luento 39
 
-## 39.1. Yksikön ensimmäisen persoonan pääte (sig[तृतीयः] ⟪पुरुषः⟫ = "**kolmas** persoona")
+## 39.1. Yksikön ensimmäisen persoonan pääte (:sig[तृतीयः] ⟪पुरुषः⟫ = "**kolmas** persoona")
 
-Ensimmäisen persoonan päätteen (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**kolmas** persoona") ovat:
+Ensimmäisen persoonan päätteen (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**kolmas** persoona") ovat:
 
 ::: grammar-box
 

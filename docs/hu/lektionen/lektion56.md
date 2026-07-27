@@ -54,22 +54,22 @@ Tőhangzó:
 **Ez ún. tőhangzó magánhangzóját az aorisztusban a következő szabályok határozzák meg:**
 
 *   **\-ā- egyszerű mássalhangzó előtt -a-ra cserélődik:**
-⟪पॄ⟫ 3P: Kaus. sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫sig[⟪पर⟫]⟪त्⟫  
-⟪द्रु⟫ 1P: Kaus. sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫sig[⟪द्रव⟫]⟪त्⟫  
-⟪नी⟫ 1U: Kaus. sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫sig[⟪नय⟫]⟪त्⟫  
-⟪ज्ञा⟫ 9U: Kaus. sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫sig[⟪ज्ञप⟫]⟪त्⟫
+⟪पॄ⟫ 3P: Kaus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫  
+⟪द्रु⟫ 1P: Kaus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫  
+⟪नी⟫ 1U: Kaus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
+⟪ज्ञा⟫ 9U: Kaus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫
 
 *   **\-ī-, -e-, -ai- egyszerű mássalhangzó előtt -i-re cserélődik:**
-⟪चित्⟫ 1P: Kaus. sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫sig[⟪चित⟫]⟪त⟫
+⟪चित्⟫ 1P: Kaus. :sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫
 
 *   **\-u-, -o-, -au- egyszerű mássalhangzó előtt -u-ra cserélődik:**
-⟪चुर्⟫ 10U: sig[⟪चोर⟫]⟪यति⟫, Aor. ⟪अचू⟫sig[⟪चुर⟫]⟪त्⟫
+⟪चुर्⟫ 10U: :sig[⟪चोर⟫]⟪यति⟫, Aor. ⟪अचू⟫:sig[⟪चुर⟫]⟪त्⟫
 
 **Egyes gyököknél a fenti változások opcionálisak, vagy elmaradnak:**
 
 *   **az utolsó mássalhangzót megelőző, az ar, ār, īr, al helyettesítésére szolgáló ṛ, ṝ, ḷ magánhangzó a szó végén: változatlanul marad vagy ṛ, illetve ḷ helyett áll:**
-⟪कॢप्⟫ 1Ā: Kaus. sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫sig[⟪कॢ⟫]⟪पत्⟫  
-⟪कृष्⟫ 1P/6U: Kaus. sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫sig[⟪कृ⟫]⟪षत्⟫
+⟪कॢप्⟫ 1Ā: Kaus. :sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत्⟫  
+⟪कृष्⟫ 1P/6U: Kaus. :sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
 :::
 A replikációs szótag magánhangzója:
 
@@ -85,14 +85,14 @@ Miután a fenti szabályokat alkalmaztuk a szótaggyökérre, a következő szab
 **Ez a reduplikációs magánhangzó a következő változásoknak van alávetve:**
 
 *   **i, u helyett ī, ū kerül, ha a gyökszótag csak egy mássalhangzóra végződik és metrikusan rövid:**
-⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫sig[⟪बी⟫]⟪भिदत्⟫  
-⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫sig[⟪तू⟫]⟪तुदत्⟫
+⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भिदत्⟫  
+⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫
 
 *   **a helyett ī kerül, ha a gyökszótag metrikusan rövid és csak egy mássalhangzóra végződik. Ha a gyökszótag metrikusan rövid és több mint egy mássalhangzóra végződik, a reduplikációs szótag a helyett i kerül. Ha a gyökszótag metrikusan hosszú, az a megmarad:**
-⟪नी⟫ 1U: Kaus. ⟪नाययति⟫, Aor. töve ⟪नय्⟫, Aor. ⟪अ⟫sig[⟪नी⟫]⟪नयत्⟫  
-⟪कृ⟫ 8U: Kaus. ⟪कारयति⟫, Aor. töve ⟪कर्⟫, Aor. ⟪अ⟫sig[⟪ची⟫]⟪करत्⟫  
-⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Aor. töve ⟪त्यज्⟫, Aor. ⟪अ⟫sig[⟪ति⟫]⟪त्यजत्⟫  
-⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Aor. töve ⟪भव्⟫, Aor. ⟪अ⟫sig[⟪बी⟫]⟪भवत्⟫
+⟪नी⟫ 1U: Kaus. ⟪नाययति⟫, Aor. töve ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
+⟪कृ⟫ 8U: Kaus. ⟪कारयति⟫, Aor. töve ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
+⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Aor. töve ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत्⟫  
+⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Aor. töve ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
 
 Különleges esetek egyes gyököknél Kielhorn, Grammatik § 435c ff.
 

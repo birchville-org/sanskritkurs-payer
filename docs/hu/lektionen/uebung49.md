@@ -15,45 +15,45 @@ Határozza meg a következő alakokat:
 ::: grammar-box
 | Szám. | Alak | Meghatározás |
 |:---|:---|:---|
-| ⟪१⟫. | ⟪गृहाणि⟫ | sig[⟪गृह⟫] n.: Nominativus, Akkusativus Pluralis, Neutrum |
-| ⟪२⟫. | ⟪नमानि⟫ | sig[⟪नम्⟫] 1P: Imperativus, Első személy, Egyszám, Aktív |
-| ⟪३⟫. | ⟪नामानि⟫ | sig[⟪नामन्⟫] n.: Nominativus, Akkusativus Pluralis, Neutrum |
-| ⟪४⟫. | ⟪नामनि⟫ | sig[⟪नामन्⟫] n: Lokativus, Egyszám, Neutrum (melléke ⟪नाम्नि⟫) |
-| ⟪५⟫. | ⟪मत्यै⟫ | sig[⟪मति⟫] f.: Dativus, Egyszám, Femininum |
-| ⟪६⟫. | ⟪मन्यै⟫ | sig[⟪मन्⟫] 4Ā: Imperativus, Első személy, Egyszám, Medium |
-| ⟪७⟫. | ⟪मान्यै⟫ | sig[⟪मन्⟫] 4Ā: Kausatívum, Passzívus, Imperativus, Első személy, Egyszám |
-| ⟪८⟫. | ⟪मान्यैः⟫ | sig[⟪मन्⟫] 4Ā: Kausatívum, Gerundívum, Instrumentalisus Pluralis, Masculinum, Neutrum |
+| ⟪१⟫. | ⟪गृहाणि⟫ | :sig[⟪गृह⟫] n.: Nominativus, Akkusativus Pluralis, Neutrum |
+| ⟪२⟫. | ⟪नमानि⟫ | :sig[⟪नम्⟫] 1P: Imperativus, Első személy, Egyszám, Aktív |
+| ⟪३⟫. | ⟪नामानि⟫ | :sig[⟪नामन्⟫] n.: Nominativus, Akkusativus Pluralis, Neutrum |
+| ⟪४⟫. | ⟪नामनि⟫ | :sig[⟪नामन्⟫] n: Lokativus, Egyszám, Neutrum (melléke ⟪नाम्नि⟫) |
+| ⟪५⟫. | ⟪मत्यै⟫ | :sig[⟪मति⟫] f.: Dativus, Egyszám, Femininum |
+| ⟪६⟫. | ⟪मन्यै⟫ | :sig[⟪मन्⟫] 4Ā: Imperativus, Első személy, Egyszám, Medium |
+| ⟪७⟫. | ⟪मान्यै⟫ | :sig[⟪मन्⟫] 4Ā: Kausatívum, Passzívus, Imperativus, Első személy, Egyszám |
+| ⟪८⟫. | ⟪मान्यैः⟫ | :sig[⟪मन्⟫] 4Ā: Kausatívum, Gerundívum, Instrumentalisus Pluralis, Masculinum, Neutrum |
 | ⟪९⟫. | ⟪अहम्⟫ | Én: Nominativus, Egyszám |
-| ⟪१०⟫. | ⟪अहन्⟫ | sig[⟪हन्⟫] 2P: Imperfektum, Második és Harmadik személy, Egyszám, Aktív |
-| ⟪११⟫. | ⟪आत्थ⟫ | sig[⟪अह्⟫]: Perfektum, Második személy, Egyszám, Aktív |
-| ⟪१२⟫. | ⟪आत्त⟫ | sig[⟪अद्⟫] 2P: Imperfektum, Második személy, Pluralis, Aktív |
-| ⟪१३⟫. | ⟪आध्वम्⟫ | sig[⟪आस्⟫] 2Ā: Imperfektum, Második személy, Pluralis, Medium; Imperativus, Második személy, Pluralis, Medium |
-| ⟪१४⟫. | ⟪अत्थ⟫ | sig[⟪अद्⟫] 2P: Indikatívus, Jelen idő, Második személy, Pluralis, Aktív |
-| ⟪१५⟫. | ⟪ते⟫ | sig[⟪त्वम्⟫]: enklitikus Dativus, Genetivus; sig[⟪तद्⟫]: Nominativus Pluralis, Masculinum |
-| ⟪१६⟫. | ⟪स्थ⟫ | sig[⟪अस्⟫] 2P: Indikatívus, Jelen idő, Második személy, Pluralis, Aktív |
-| ⟪१७⟫. | ⟪तस्थ⟫ | sig[⟪स्था⟫] 1P: Perfektum IV. Második személy, Pluralis, Aktív |
-| ⟪१८⟫. | ⟪तस्य⟫ | sig[⟪तद्⟫]: Genetivus, Egyszám, Masculinum, Neutrum |
-| ⟪१९⟫. | ⟪दाता⟫ | sig[⟪दातृ⟫]: Nominativus, Egyszám, Masculinum |
-| ⟪२०⟫. | ⟪तता⟫ | sig[⟪तन्⟫] 8U: PPP Nominativus, Egyszám, Femininum |
+| ⟪१०⟫. | ⟪अहन्⟫ | :sig[⟪हन्⟫] 2P: Imperfektum, Második és Harmadik személy, Egyszám, Aktív |
+| ⟪११⟫. | ⟪आत्थ⟫ | :sig[⟪अह्⟫]: Perfektum, Második személy, Egyszám, Aktív |
+| ⟪१२⟫. | ⟪आत्त⟫ | :sig[⟪अद्⟫] 2P: Imperfektum, Második személy, Pluralis, Aktív |
+| ⟪१३⟫. | ⟪आध्वम्⟫ | :sig[⟪आस्⟫] 2Ā: Imperfektum, Második személy, Pluralis, Medium; Imperativus, Második személy, Pluralis, Medium |
+| ⟪१४⟫. | ⟪अत्थ⟫ | :sig[⟪अद्⟫] 2P: Indikatívus, Jelen idő, Második személy, Pluralis, Aktív |
+| ⟪१५⟫. | ⟪ते⟫ | :sig[⟪त्वम्⟫]: enklitikus Dativus, Genetivus; :sig[⟪तद्⟫]: Nominativus Pluralis, Masculinum |
+| ⟪१६⟫. | ⟪स्थ⟫ | :sig[⟪अस्⟫] 2P: Indikatívus, Jelen idő, Második személy, Pluralis, Aktív |
+| ⟪१७⟫. | ⟪तस्थ⟫ | :sig[⟪स्था⟫] 1P: Perfektum IV. Második személy, Pluralis, Aktív |
+| ⟪१८⟫. | ⟪तस्य⟫ | :sig[⟪तद्⟫]: Genetivus, Egyszám, Masculinum, Neutrum |
+| ⟪१९⟫. | ⟪दाता⟫ | :sig[⟪दातृ⟫]: Nominativus, Egyszám, Masculinum |
+| ⟪२०⟫. | ⟪तता⟫ | :sig[⟪तन्⟫] 8U: PPP Nominativus, Egyszám, Femininum |
 | ⟪२१⟫. | ⟪तथा⟫] „így” |
 | ⟪२२⟫. | ⟪तदा⟫] „akkor, akkoriban” |
-| ⟪२३⟫. | ⟪तुद⟫] sig[⟪तुद्⟫] 6U: Imperativus, Második személy, Egyszám, Aktív |
-| ⟪२४⟫. | ⟪शेकिथ⟫] sig[⟪शक्⟫] 5P: Perfektum Vb. Második személy, Egyszám, Aktív (melléke ⟪शशक्थ⟫) |
-| ⟪२५⟫. | ⟪अनृतम्⟫] sig[⟪अनृत⟫] n.: Nominativus, Akkusativus, Egyszám, Neutrum |
-| ⟪२६⟫. | ⟪अदूष्यः⟫] sig[⟪दुष्⟫] 4P: Kausatívum, Gerundívum Nominativus, Egyszám, Masculinum + *⟪अ⟫-* |
-| ⟪२७⟫. | ⟪अदुष्यः⟫] sig[⟪दुष्⟫] 4P: Imperfektum, Második személy, Egyszám, Aktív |
-| ⟪२८⟫. | ⟪त्वत्⟫] sig[⟪त्वम्⟫]: Ablatívus, Egyszám |
+| ⟪२३⟫. | ⟪तुद⟫] :sig[⟪तुद्⟫] 6U: Imperativus, Második személy, Egyszám, Aktív |
+| ⟪२४⟫. | ⟪शेकिथ⟫] :sig[⟪शक्⟫] 5P: Perfektum Vb. Második személy, Egyszám, Aktív (melléke ⟪शशक्थ⟫) |
+| ⟪२५⟫. | ⟪अनृतम्⟫] :sig[⟪अनृत⟫] n.: Nominativus, Akkusativus, Egyszám, Neutrum |
+| ⟪२६⟫. | ⟪अदूष्यः⟫] :sig[⟪दुष्⟫] 4P: Kausatívum, Gerundívum Nominativus, Egyszám, Masculinum + *⟪अ⟫-* |
+| ⟪२७⟫. | ⟪अदुष्यः⟫] :sig[⟪दुष्⟫] 4P: Imperfektum, Második személy, Egyszám, Aktív |
+| ⟪२८⟫. | ⟪त्वत्⟫] :sig[⟪त्वम्⟫]: Ablatívus, Egyszám |
 | ⟪२९⟫. | ⟪यदि⟫] „ha” |
-| ⟪३०⟫. | ⟪यति⟫] sig[⟪इ⟫] 2P: Particípium jelen idő, Aktív, Lokativus, Egyszám, Masculinum, Neutrum; Vokativus, Egyszám, Femininum |
-| ⟪३१⟫. | ⟪याति⟫] sig[⟪या⟫] 2P: Indikatívus, Jelen idő, Harmadik személy, Egyszám, Aktív (*sic*, javítás: Harmadik személy, Egyszám); Particípium jelen idő, Aktív, Lokativus, Egyszám, Masculinum, Neutrum |
-| ⟪३२⟫. | ⟪यातुः⟫] sig[⟪यातृ⟫]: Ablatívus, Genetivus, Egyszám, Masculinum |
-| ⟪३३⟫. | ⟪यतः⟫] „honnan”; sig[⟪इ⟫]: Particípium jelen idő, Aktív, Genetivus, Ablatívus, Egyszám, Masculinum, Neutrum; sig[⟪यम्⟫] 1P: PPP Nominativus, Egyszám, Masculinum |
-| ⟪३४⟫. | ⟪यातः⟫] sig[⟪यातृ⟫]: Vokativus, Egyszám, Masculinum; sig[⟪या⟫]: Particípium jelen idő, Aktív, Genetivus, Ablatívus, Egyszám, Masculinum, Neutrum; PPP Nominativus, Egyszám, Masculinum |
-| ⟪३५⟫. | ⟪आसीथाः⟫] sig[⟪आस्⟫] 2Ā: Optativus, Második személy, Egyszám, Medium |
-| ⟪३६⟫. | ⟪वक्थ⟫] sig[⟪वच्⟫] 2P: Indikatívus, Jelen idő, Második személy, Pluralis, Aktív |
-| ⟪३७⟫. | ⟪बन्धनीय⟫] sig[⟪बन्ध्⟫] 9P: Gerundívum Vokativus, Egyszám, Masculinum, Neutrum |
-| ⟪३८⟫. | ⟪गायी⟫] sig[⟪गायिन्⟫]: Nominativus, Egyszám, Masculinum |
-| ⟪३९⟫. | ⟪मह्यम्⟫] sig[⟪अहम्⟫]: Dativus, Egyszám |
+| ⟪३०⟫. | ⟪यति⟫] :sig[⟪इ⟫] 2P: Particípium jelen idő, Aktív, Lokativus, Egyszám, Masculinum, Neutrum; Vokativus, Egyszám, Femininum |
+| ⟪३१⟫. | ⟪याति⟫] :sig[⟪या⟫] 2P: Indikatívus, Jelen idő, Harmadik személy, Egyszám, Aktív (*sic*, javítás: Harmadik személy, Egyszám); Particípium jelen idő, Aktív, Lokativus, Egyszám, Masculinum, Neutrum |
+| ⟪३२⟫. | ⟪यातुः⟫] :sig[⟪यातृ⟫]: Ablatívus, Genetivus, Egyszám, Masculinum |
+| ⟪३३⟫. | ⟪यतः⟫] „honnan”; :sig[⟪इ⟫]: Particípium jelen idő, Aktív, Genetivus, Ablatívus, Egyszám, Masculinum, Neutrum; :sig[⟪यम्⟫] 1P: PPP Nominativus, Egyszám, Masculinum |
+| ⟪३४⟫. | ⟪यातः⟫] :sig[⟪यातृ⟫]: Vokativus, Egyszám, Masculinum; :sig[⟪या⟫]: Particípium jelen idő, Aktív, Genetivus, Ablatívus, Egyszám, Masculinum, Neutrum; PPP Nominativus, Egyszám, Masculinum |
+| ⟪३५⟫. | ⟪आसीथाः⟫] :sig[⟪आस्⟫] 2Ā: Optativus, Második személy, Egyszám, Medium |
+| ⟪३६⟫. | ⟪वक्थ⟫] :sig[⟪वच्⟫] 2P: Indikatívus, Jelen idő, Második személy, Pluralis, Aktív |
+| ⟪३७⟫. | ⟪बन्धनीय⟫] :sig[⟪बन्ध्⟫] 9P: Gerundívum Vokativus, Egyszám, Masculinum, Neutrum |
+| ⟪३८⟫. | ⟪गायी⟫] :sig[⟪गायिन्⟫]: Nominativus, Egyszám, Masculinum |
+| ⟪३९⟫. | ⟪मह्यम्⟫] :sig[⟪अहम्⟫]: Dativus, Egyszám |
 :::
 ::: media
 ![](/images/uebung078.webp)

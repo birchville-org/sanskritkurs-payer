@@ -324,13 +324,13 @@ Katso Kielhornin grammatikan sääntöjä liitevokaalin -i- käytöstä kohdista
 1.  Juuri on yleensä alapäässä: ⟪जीव्⟫ » ⟪जिजीविष⟫-
 
     1.  loppupään -i, -u korvataan -ī:llä tai -ū:lla, jos konjunktiivista vokaalia ei seuraa:
-⟪जि⟫ » ⟪जि⟫sig[⟪गी⟫]⟪ष⟫- "voittaa haluta"  
-⟪द्रु⟫ » ⟪दु⟫sig[⟪द्रू⟫]⟪ष⟫- "juosta haluta"
+⟪जि⟫ » ⟪जि⟫:sig[⟪गी⟫]⟪ष⟫- "voittaa haluta"  
+⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- "juosta haluta"
 
     2.  loppupään -ṛ, -ṝ korvataan -īr:llä, labiaalisten jälkeen -ūr:lla, jos konjunktiivista vokaalia ei seuraa:
-⟪कृ⟫ » ⟪चि⟫sig[⟪कीर्ष⟫]\- "tehdä haluta"  
-⟪मृ⟫ » ⟪मु⟫sig[⟪मूर्ष⟫]\- "kuoleman partaalla olla"  
-⟪पॄ⟫ » ⟪पु⟫sig[⟪पूर्ष⟫]\- "täyttää haluta"
+⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- "tehdä haluta"  
+⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- "kuoleman partaalla olla"  
+⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "täyttää haluta"
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ ja muutamat muut juurin -ā, -e, -o päässä ovat syvän asteen Ø:
 ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
@@ -350,7 +350,7 @@ Katso Kielhornin grammatikan sääntöjä liitevokaalin -i- käytöstä kohdista
         1.  pakollinen: juurin-muodon i/u - konsonantti sekä (konsonantti -) ṛ/ḷ - konsonantti:
 ⟪इष्⟫ » ⟪एषिषिष⟫- "haluta vaatia"  
 ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "haluta olla sopiva"  
-⟪स्मि⟫ » ⟪सि⟫sig[⟪स्म⟫]⟪यिष⟫- "haluta hymyillä"
+⟪स्मि⟫ » ⟪सि⟫:sig[⟪स्म⟫]⟪यिष⟫- "haluta hymyillä"
 
         2.  valinnainen: juurin-muodon konsonantti - (konsonantti -) i/u - konsonantti paitsi -v\_
 ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "haluta välähtää"

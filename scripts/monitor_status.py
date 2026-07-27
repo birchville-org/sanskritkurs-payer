@@ -16,7 +16,8 @@ DOCS = ROOT / "docs"
 ACTIVE_LANGS = [
     'de', 'en', 'it', 'es', 'fr', 'hi', 'ru', 'uk', 'ta', 'pa', 
     'la', 'rm', 'ro', 'he', 'id', 'zh-CN', 'ar', 'th', 'el', 'cop',
-    'grc', 'fa', 'nl', 'af', 'lt', 'sh', 'sq', 'am', 'gez', 'fi', 'hu'
+    'grc', 'fa', 'nl', 'af', 'lt', 'sh', 'sq', 'am', 'gez', 'fi', 'hu',
+    'zh', 'pt'
 ]
 
 LANGS = {
@@ -51,6 +52,8 @@ LANGS = {
     "sq": ("Shqip", DOCS / "sq/lektionen"),
     "fi": ("Suomi", DOCS / "fi/lektionen"),
     "hu": ("Magyar", DOCS / "hu/lektionen"),
+    "zh": ("繁體中文", DOCS / "zh/lektionen"),
+    "pt": ("Português", DOCS / "pt/lektionen"),
 }
 
 def count_files(d, pattern):
@@ -158,38 +161,63 @@ print(f"  Übersetzungsjob: {job}\n")
 
 # ── Übersetzungsstatus ───────────────────────────────────────────────────────
 print("  ── Übersetzungsstand ──────────────────────────────────")
-print(f"  {'':4} {'Sprache':<17}  {'Lektionen':<10}  {'Schriften':<10}  {'Übungen':<10}  {'Root':<8}")
-print(f"  {'':4} {'-'*17}  {'-'*10}  {'-'*10}  {'-'*10}  {'-'*8}")
+print(f"  {'':4} {'Sprache':<17}  {'Lektionen':<10}  {'Schriften':<10}  {'Übungen':<10}  {'Root':<8}  {'% Fortschritt':<12}")
+print(f"  {'':4} {'-'*17}  {'-'*10}  {'-'*10}  {'-'*10}  {'-'*8}  {'-'*12}")
+
+lang_rows = []
 for code, (name, d) in LANGS.items():
     lekt_t, lekt_tr = count_files(d, "lektion*.md")
     schr_t, schr_tr = count_files(d, "schrift*.md")
     ueb_t, ueb_tr   = count_files(d, "uebung*.md")
     root_t, root_tr = root_files(d)
     
-    # Expected maximum number of files per category
     lekt_max = 61
     schr_max = 11
     ueb_max = 61
     root_max = 8
+    total_max = lekt_max + schr_max + ueb_max + root_max
+    total_tr = lekt_tr + schr_tr + ueb_tr + root_tr
+    pct = (total_tr / total_max) * 100.0 if total_max else 0.0
     
-    # Evaluate completeness icons
     lekt_ok = "✅" if lekt_tr >= lekt_max else "🔄" if lekt_tr > 0 else "⏳"
     schr_ok = "✅" if schr_tr >= schr_max else "🔄" if schr_tr > 0 else "⏳"
     ueb_ok  = "✅" if ueb_tr  >= ueb_max else "🔄" if ueb_tr  > 0 else "⏳"
     root_ok = "✅" if root_tr >= root_max else "🔄" if root_tr > 0 else "⏳"
     
-    # Evaluate overall language translation status
-    is_complete = (lekt_tr >= lekt_max and schr_tr >= schr_max and ueb_tr >= ueb_max and root_tr >= root_max)
+    is_complete = (total_tr >= total_max) or (lekt_tr >= lekt_max and schr_tr >= schr_max and ueb_tr >= ueb_max and root_tr >= root_max)
     is_started = (lekt_tr > 0 or schr_tr > 0 or ueb_tr > 0 or root_tr > 0)
     lang_ok = "✅" if is_complete else "🔄" if is_started else "⏳"
     
-    code_pad = f"{code:<5}"
-    name_pad = pad_str(name, 11)
-    print(f"  {lang_ok}  {code_pad} {name_pad}  "
-          f"{lekt_ok} {lekt_tr:>2}/{lekt_max:<2}  "
-          f"{schr_ok} {schr_tr:>2}/{schr_max:<2}  "
-          f"{ueb_ok} {ueb_tr:>2}/{ueb_max:<2}  "
-          f"{root_ok} {root_tr:>2}/{root_max:<2}")
+    lang_rows.append({
+        "code": code,
+        "name": name,
+        "lang_ok": lang_ok,
+        "lekt_ok": lekt_ok, "lekt_tr": lekt_tr, "lekt_max": lekt_max,
+        "schr_ok": schr_ok, "schr_tr": schr_tr, "schr_max": schr_max,
+        "ueb_ok": ueb_ok, "ueb_tr": ueb_tr, "ueb_max": ueb_max,
+        "root_ok": root_ok, "root_tr": root_tr, "root_max": root_max,
+        "total_tr": total_tr, "total_max": total_max,
+        "pct": pct,
+        "is_complete": is_complete
+    })
+
+# Sort: Complete languages first, then unfinished languages ordered by highest percentage descending
+completed_rows = [r for r in lang_rows if r["is_complete"]]
+unfinished_rows = [r for r in lang_rows if not r["is_complete"]]
+unfinished_rows.sort(key=lambda r: (r["pct"], r["lekt_tr"]), reverse=True)
+
+sorted_rows = completed_rows + unfinished_rows
+
+for r in sorted_rows:
+    code_pad = f"{r['code']:<5}"
+    name_pad = pad_str(r['name'], 11)
+    pct_str = f"{r['pct']:>5.1f}%"
+    print(f"  {r['lang_ok']}  {code_pad} {name_pad}  "
+          f"{r['lekt_ok']} {r['lekt_tr']:>2}/{r['lekt_max']:<2}  "
+          f"{r['schr_ok']} {r['schr_tr']:>2}/{r['schr_max']:<2}  "
+          f"{r['ueb_ok']} {r['ueb_tr']:>2}/{r['ueb_max']:<2}  "
+          f"{r['root_ok']} {r['root_tr']:>2}/{r['root_max']:<2}  "
+          f"[{pct_str}]")
 
 # ── Phasenstatus ─────────────────────────────────────────────────────────────
 print("\n  ── GSD Phasenstatus ───────────────────────────────────")

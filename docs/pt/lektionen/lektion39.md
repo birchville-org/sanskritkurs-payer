@@ -1,6 +1,6 @@
 ---
 title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,9 +9,9 @@ status: stable
 
 # Lição 39
 
-## 39.1. As desinências pessoais da primeira pessoa (sig[तृतीयः] ⟪पुरुषः⟫ = "**terceira** pessoa")
+## 39.1. As desinências pessoais da primeira pessoa (:sig[तृतीयः] ⟪पुरुषः⟫ = "**terceira** pessoa")
 
-As desinências da primeira pessoa (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**terceira** pessoa") são:
+As desinências da primeira pessoa (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**terceira** pessoa") são:
 
 ::: grammar-box
 

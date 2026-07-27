@@ -54,22 +54,22 @@ Stammsilbe:
 **Der Vokal dieser sog. Stammsilbe bestimmt sich im Aorist nach folgenden Regeln:**
 
 *   **\-ā- vor einfachem Konsonanten wird durch -a- ersetzt:**  
-    ⟪पॄ⟫ 3P: Kaus. sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫sig[⟪पर⟫]⟪त्⟫  
-    ⟪द्रु⟫ 1P: Kaus. sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫sig[⟪द्रव⟫]⟪त्⟫  
-    ⟪नी⟫ 1U: Kaus.  sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫sig[⟪नय⟫]⟪त्⟫  
-    ⟪ज्ञा⟫ 9U: Kaus. sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫sig[⟪ज्ञप⟫]⟪त्⟫  
+    ⟪पॄ⟫ 3P: Kaus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫  
+    ⟪द्रु⟫ 1P: Kaus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫  
+    ⟪नी⟫ 1U: Kaus.  :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
+    ⟪ज्ञा⟫ 9U: Kaus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫  
      
 *   **\-ī-, -e-, -ai- vor einfachem Konsonanten wird durch -i- ersetzt:**  
-    ⟪चित्⟫ 1P: Kaus. sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫sig[⟪चित⟫]⟪त⟫  
+    ⟪चित्⟫ 1P: Kaus. :sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫  
      
 *   **\-u-, -o-, -au- vor einfachem Konsonanten wird durch -u- ersetzt:**  
-    ⟪चुर्⟫ 10U: sig[⟪चोर⟫]⟪यति⟫, Aor. ⟪अचू⟫sig[⟪चुर⟫]⟪त्⟫
+    ⟪चुर्⟫ 10U: :sig[⟪चोर⟫]⟪यति⟫, Aor. ⟪अचू⟫:sig[⟪चुर⟫]⟪त्⟫
 
 **Bei einigen Wurzeln sind die bisher genannten Veränderungen wahlweise bzw. müssen unterbleiben:**
 
 *   **dem auslautenden Konsonanten der Stammsilbe unmittelbar vorangehendes, für ṛ, ṝ, ḷ substituiertes ar, ār, īr, al bleibt wahlweise unverändert oder wird durch ṛ bzw. ḷ ersetzt:**  
-    ⟪कॢप्⟫  1Ā: Kaus. sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫sig[⟪कॢ⟫]⟪पत्⟫  
-    ⟪कृष्⟫ 1P/6U: Kaus. sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫sig[⟪कृ⟫]⟪षत्⟫
+    ⟪कॢप्⟫  1Ā: Kaus. :sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत्⟫  
+    ⟪कृष्⟫ 1P/6U: Kaus. :sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
 :::
 Vokal der Reduplikationssilbe:
 
@@ -85,14 +85,14 @@ Nachdem die eben genannten Regeln auf die Stammsilbe angewandt sind, müssen fol
 **Dieser Reduplikationsvokal unterliegt folgenden Veränderungen:**
 
 *   **i, u wird durch ī, ū ersetzt, wenn die Stammsilbe mit nur einem Konsonanten anfängt und metrisch kurz ist:**  
-    ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫sig[⟪बी⟫]⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫sig[⟪तू⟫]⟪तुदत्⟫  
+    ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भिदत्⟫  
+    ⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫  
      
 *   **a wird durch ī ersetzt, wenn die Stammsilbe metrisch kurz ist und mit nur einem Konsonanten beginnt. Ist die Stammsilbe metrisch kurz und beginnt mit mehr als einem Konsonanten, wird das a der Reduplikationssilbe durch i ersetzt. Ist die Stammsilbe metrisch lang, bleibt das a erhalten:**  
-    ⟪नी⟫ 1U: Kaus. ⟪नाययति⟫, Stammsilbe des Aor. ⟪नय्⟫, Aor. ⟪अ⟫sig[⟪नी⟫]⟪नयत्⟫  
-    ⟪कृ⟫ 8U: Kaus. ⟪कारयति⟫, Stammsilbe des Aor. ⟪कर्⟫, Aor. ⟪अ⟫sig[⟪ची⟫]⟪करत्⟫  
-    ⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Stammsilbe des Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫sig[⟪ति⟫]⟪त्यजत्⟫  
-    ⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Stammsilbe des Aor. ⟪भव्⟫, Aor. ⟪अ⟫sig[⟪बी⟫]⟪भवत्⟫
+    ⟪नी⟫ 1U: Kaus. ⟪नाययति⟫, Stammsilbe des Aor. ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
+    ⟪कृ⟫ 8U: Kaus. ⟪कारयति⟫, Stammsilbe des Aor. ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
+    ⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Stammsilbe des Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत्⟫  
+    ⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Stammsilbe des Aor. ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
 
 Besonderheiten bestimmter Wurzeln bei Kielhorn, Grammatik § 435c ff.
 

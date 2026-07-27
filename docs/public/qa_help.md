@@ -76,11 +76,11 @@ Used for Devanāgarī and morphological highlights. It is automatically applied 
 Please **do not** manually color Latin letters red using standard Markdown formatting (like `***`) to fake Scholarly Red.
 
 **2. Signal Red (`#ff0000`)**
-Used for extreme emphasis or grammatical highlights (bright red). You can explicitly use this color by wrapping Devanāgarī text with the `sig[...]` syntax:
+Used for extreme emphasis or grammatical highlights (bright red). You can explicitly use this color by wrapping Devanāgarī text with the `:sig[...]` syntax:
 ```markdown
-sig[⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫]
+:sig[⟪लम्बोदर⟫ ⟪नमस्⟫ ⟪तुभ्यं⟫]
 ```
-Note that `sig[...]` cannot span multiple lines. Wrap each line individually.
+Note that `:sig[...]` cannot span multiple lines. Wrap each line individually.
 
 ## 6. Editor Shortcuts
 
@@ -102,7 +102,7 @@ All custom block containers and inline directives are powered by the official [`
   - `::: compact`, `::: center`, `::: metrik-schema`, `::: laut-table`, `::: important`
 * **Inline Directives**:
   - `⟪...⟫` or `《...》`: Sanskrit/Devanāgarī scholarly brackets.
-  - `sig[...]`: Signal Red (`#ff0000`) emphasis for Devanāgarī text.
+  - `:sig[...]`: Signal Red (`#ff0000`) emphasis for Devanāgarī text.
   - `:br` or `[[br]]`: Line breaks inside table cells or captions.
   - `:indent` or `[[indent]]`: Inline indentation block.
 

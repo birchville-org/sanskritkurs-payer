@@ -263,7 +263,7 @@ Verbit, jotka seuraavat tätä tyyppiä:
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪पपक्थ⟫:br sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
+| ⟪पपक्थ⟫:br :sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
 #### 46.1.7.3. Perfekti tyyppi Vc: Konsonant-a-Konsonant, heikko vartalo korkeatasoinen
 
@@ -347,14 +347,14 @@ siitä:
 ⟪विषम⟫ 3: epätasainen, tasapainoton, paha
 
 :::
-⟪ग्रह्⟫ 9U sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : tarttua, ottaa kiinni, käsittää
+⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : tarttua, ottaa kiinni, käsittää
 
 ::: indent
 Perf. Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Fut. ⟪ग्र⟫sig[⟪ही⟫]⟪ष्यति⟫  
+Fut. ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
 Kaus.⟪ग्राहयति⟫
-PPP ⟪गृ⟫sig[⟪ही⟫]⟪त⟫
+PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫
 Inf. ⟪ग्रहितुम्⟫
 Absol. -⟪ग्राह्य⟫
 siitä:
@@ -430,8 +430,8 @@ Kuva: [⟪नारायण⟩ ⟪तुभ्यं⟩ ⟪नमामि⟩](
 Perf. II ⟪रुरोह⟩, ⟪रुरुहे⟩  
 Fut. ⟪रोक्ष्यति⟩  
 Pass. ⟪रुह्यते⟩  
-Kaus. ⟪रोहयति⟩ ⟪।⟩ ⟪रो⟩sig[⟪प⟩]⟪यति⟩  
-PPP. sig[⟪रूढ⟩]  
+Kaus. ⟪रोहयति⟩ ⟪।⟩ ⟪रो⟩:sig[⟪प⟩]⟪यति⟩  
+PPP. :sig[⟪रूढ⟩]  
 Inf. ⟪रोढुम्⟩
 
 :::
@@ -466,14 +466,14 @@ Kuva: [⟪महामात्र⟩ ⟪कं⟩ ⟪चरिष्णुद�
 
 ⟪भ्रंश⟫ m.: putoaminen, katoaminen
 
-⟪श्रम्⟫ 4P sig[⟪श्रा⟫]⟪म्यति⟫: vaivata itseään, väsyä
+⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫: vaivata itseään, väsyä
 
 ::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Fut. ⟪श्रमिष्यति⟫  
 Pass. ⟪श्रम्यते⟫  
 Kaus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
-PPP sig[⟪श्रान्⟫]⟪त⟫  
+PPP :sig[⟪श्रान्⟫]⟪त⟫  
 Inf. ⟪श्रमितुम्⟫  
 Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
 siitä:
@@ -496,7 +496,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P sig[⟪सज⟫]⟪ति⟫ : liittää, kiinnittyä jhk (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : liittää, kiinnittyä jhk (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -526,13 +526,13 @@ Inf. ⟪द्रोतुम्⟫
 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P sig[⟪भ्रा⟫]⟪म्यति⟫ : vaeltaa, kulkea ympäri
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : vaeltaa, kulkea ympäri
 
 ::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Kaus. ⟪भ्रमयति⟫  
-PPP sig[⟪भ्रा⟫]⟪न्त⟫  
+PPP :sig[⟪भ्रा⟫]⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
 siitä:
@@ -570,10 +570,10 @@ PPP ⟪परिभूत⟫ 3: voitettu, nöyryytetty, alentunut
 
 ::: indent
 esim.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫sig[⟪षी⟫]⟪दति⟫ : laskeutua istumaan
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : laskeutua istumaan
 
 :::
-⟪भोस्⟫ vokatiivipartikkeli: huudahdus puhuttelussa, esim.: hei, heda, oh, ei, hallo, hi! usein käännettävissä. Tällä partikkelilla on erityinen sandhi: ennen kaikkea soinnillisia äänteitä se on sig[⟪भो⟫].
+⟪भोस्⟫ vokatiivipartikkeli: huudahdus puhuttelussa, esim.: hei, heda, oh, ei, hallo, hi! usein käännettävissä. Tällä partikkelilla on erityinen sandhi: ennen kaikkea soinnillisia äänteitä se on :sig[⟪भो⟫].
 
 ::: media
 ![](/images/lekt4611.webp)

@@ -19,7 +19,7 @@ Formai las correspondentas formas da Aorist als suandantas formas da Present o P
 | ⟪४⟫. | ⟪बभूव⟫ | jau / el / els era / essan | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
 | ⟪५⟫. | ⟪दधति⟫ | els stizzan | ⟪अधुः⟫ |
 | ⟪६⟫. | ⟪ऐम⟫ | nus essan ids | ⟪अगाम⟫ |
-| ⟪७⟫. | ⟪पपिथ⟫ | ti has bair / custodì | ⟪अपाः⟫ (a sig[⟪पा⟫] "bair") |
+| ⟪७⟫. | ⟪पपिथ⟫ | ti has bair / custodì | ⟪अपाः⟫ (a :sig[⟪पा⟫] "bair") |
 | ⟪८⟫. | ⟪तिष्ठति⟫ | el stà | ⟪अस्थात्⟫ |
 | ⟪९⟫. | ⟪इयेथ⟫ | ti es id | ⟪अगाः⟫ |
 | ⟪१०⟫. | ⟪पप⟫ | vus avais bair | ⟪अपात⟫ |

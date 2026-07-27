@@ -38,7 +38,7 @@ status: stable
 ::: grammar-box
 **Quando o k/g final da raiz se encontra entre a nasal ṅ e uma dental da terminação, o k/g pode opcionalmente ser omitido**
 
-p. ex. ⟪युज्⟫ 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ ou ⟪यु⟫sig[⟪ङ्ते⟫]
+p. ex. ⟪युज्⟫ 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ ou ⟪यु⟫:sig[⟪ङ्ते⟫]
 :::
 ⟪युज्⟫ 7U
 
@@ -57,7 +57,7 @@ p. ex. ⟪युज्⟫ 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ ou ⟪
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indikativ Präsens** :br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br sig[⟪अरुण्स्⟫] (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br :sig[⟪अरुण्स्⟫] (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
 :::
 ## 45.2. O Vocativo Singular (⟪आमन्त्रितमेकवचने⟫)

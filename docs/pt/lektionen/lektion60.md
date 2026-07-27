@@ -324,13 +324,13 @@ As regras para o uso da vogal de ligação -i-, consulte Kielhorn, Gramática §
 1.  A raiz está geralmente no grau zero: ⟪जीव्⟫ » ⟪जिजीविष⟫-
 
     1.  -i, -u finais são substituídos por -ī e -ū, respectivamente, quando nenhuma vogal de ligação se segue:
-⟪जि⟫ » ⟪जि⟫sig[⟪गी⟫]⟪ष⟫- "desejar vencer"
-⟪द्रु⟫ » ⟪दु⟫sig[⟪द्रू⟫]⟪ष⟫- "desejar correr"
+⟪जि⟫ » ⟪जि⟫:sig[⟪गी⟫]⟪ष⟫- "desejar vencer"
+⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- "desejar correr"
 
     2.  -ṛ, -ṝ finais são substituídos por -īr, e por -ūr após labiais, quando nenhuma vogal de ligação se segue:
-⟪कृ⟫ » ⟪चि⟫sig[⟪कीर्ष⟫]\- "desejar fazer"
-⟪मृ⟫ » ⟪मु⟫sig[⟪मूर्ष⟫]\- "estar prestes a morrer"
-⟪पॄ⟫ » ⟪पु⟫sig[⟪पूर्ष⟫]\- "desejar encher"
+⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- "desejar fazer"
+⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- "estar prestes a morrer"
+⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "desejar encher"
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ e algumas outras raízes em -ā, -e, -o têm o grau zero Ø:
 ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)
@@ -350,7 +350,7 @@ As regras para o uso da vogal de ligação -i-, consulte Kielhorn, Gramática §
         1.  obrigatório: raízes da forma i/u - Consoante, assim como (Consoante -) ṛ/ḷ - Consoante:
 ⟪इष्⟫ » ⟪एषिषिष⟫- "desejar querer"
 ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "desejar ser adequado"
-⟪स्मि⟫ » ⟪सि⟫sig[⟪स्म⟫]⟪यिष⟫- "desejar sorrir"
+⟪स्मि⟫ » ⟪सि⟫:sig[⟪स्म⟫]⟪यिष⟫- "desejar sorrir"
 
         2.  opcionalmente: raízes da forma Consoante - (Consoante -) i/u - Consoante, exceto -v\_
 ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "desejar brilhar"

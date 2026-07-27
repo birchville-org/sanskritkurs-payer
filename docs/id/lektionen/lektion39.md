@@ -1,6 +1,6 @@
 ---
 title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,7 +9,7 @@ status: stable
 
 # Pelajaran 39
 
-## 39.1. Akhiran Personal Orang Pertama (sig[तृतीयः] ⟪पुरुषः⟫ = Orang **ketiga**)
+## 39.1. Akhiran Personal Orang Pertama (:sig[तृतीयः] ⟪पुरुषः⟫ = Orang **ketiga**)
 
 Akhiran orang pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**orang** ketiga") adalah:
 

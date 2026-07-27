@@ -34,8 +34,8 @@ Példák:
 
 :::
 ::: indent
-3.sg.Ā a-kṣip + s + ta » ⟪अsig[⟪क्षिप्त]
-2.sg.Ā a-kṣip + s + thās » ⟪अsig[⟪क्षिप्था]⟪स्
+3.sg.Ā a-kṣip + s + ta » ⟪अ:sig[⟪क्षिप्त]
+2.sg.Ā a-kṣip + s + thās » ⟪अ:sig[⟪क्षिप्था]⟪स्
 :::
 Ilyen formák tartozhatnak a gyökaoristához is, és valószínűleg részben oda is tartoznak.
 Az indiai grammatikusok olyan formákat, mint ⟪अकृत (3.sg.Ā), a s-aoristához soroltak, amelyek egyértelműen a gyökaoristához tartoznak. E célból az indiai grammatikusok a következő ad-hoc hangszabályt találták ki az s-aoristára:
@@ -52,7 +52,7 @@ A -dhvam-ra vonatkozik:
 
 :::
 ::: indent
-pl. sig[⟪चि⟫] 5U: 2.pl.Ā sig[⟪अचेढ्वम्⟫]
+pl. :sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
 :::
 ::: grammar-box
 **A gyök formája:**
@@ -91,12 +91,12 @@ Példák:
 
 :::
 ::: indent
-⟪दृश्⟩ 3. sz.P ⟪अ⟩sig[⟪द्राक्षी⟩]⟪त्⟩
+⟪दृश्⟩ 3. sz.P ⟪अ⟩:sig[⟪द्राक्षी⟩]⟪त्⟩
 :::
 Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 ::: indent
-⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫sig[⟪क्राक्षी⟫]⟪त्⟫
+⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
 :::
 Paradigmák:
 
@@ -106,7 +106,7 @@ Paradigmák:
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अनैषम्⟫ | ⟪अनैष्म⟫ | ⟪अनेषि⟫ | ⟪अनेष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫sig[⟪ढ्वम्⟫] |
+| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫:sig[⟪ढ्वम्⟫] |
 | **3. ⟪प्रथमः⟫** | ⟪अनैषीत्⟫ | ⟪अनैषुर्⟫ | ⟪नेष्ट⟫ | ⟪अनेषत⟫ |
 
 ::: media
@@ -120,8 +120,8 @@ Paradigmák:
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अकार्षम्⟫ | ⟪अकार्ष्म⟫ | ⟪अकृषि⟫ | ⟪अकृष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | sig[⟪अकृथास्⟫] | ⟪अकृढ्वम्⟫ |
-| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | sig[⟪अकृत⟫] | ⟪अकृषत⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | :sig[⟪अकृथास्⟫] | ⟪अकृढ्वम्⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | :sig[⟪अकृत⟫] | ⟪अकृषत⟫ |
 
 ⟪तुद्⟫ 6U "verletni"
 

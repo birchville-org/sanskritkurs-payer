@@ -52,7 +52,7 @@ For -dhvam applies:
 
 :::
 ::: indent
-mis. sig[⟪चि⟫] 5U: pl.2.Ā sig[⟪अचेढ्वम्⟫]
+mis. :sig[⟪चि⟫] 5U: pl.2.Ā :sig[⟪अचेढ्वम्⟫]
 :::
 ::: grammar-box
 **Form of the root:**

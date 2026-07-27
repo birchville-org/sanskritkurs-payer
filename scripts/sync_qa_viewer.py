@@ -5,6 +5,7 @@ from pathlib import Path
 
 ROOT = Path(__file__).parent.parent
 CONFIG_MJS = ROOT / 'docs/.vitepress/config.mjs'
+CUSTOM_CSS = ROOT / 'docs/.vitepress/theme/custom.css'
 QA_VIEWER = ROOT / 'docs/public/qa_viewer.html'
 
 def get_locales_from_config():
@@ -61,6 +62,34 @@ def generate_options(locales, default_lang='de'):
         
     return '\n'.join(lines)
 
+def sync_snippets(content):
+    if not CUSTOM_CSS.exists():
+        return content
+    css_text = CUSTOM_CSS.read_text(encoding='utf-8')
+    
+    # Extract container block names defined in custom.css (.vp-doc .<name> or .custom-block.<name>)
+    found_classes = set(re.findall(r'\.vp-doc\s+\.([\w-]+)\b', css_text))
+    found_classes.update(re.findall(r'\.custom-block\.([\w-]+)\b', css_text))
+    
+    ignore_set = {'sanskrit-dev', 'hi-dev', 'signalrot', 'vp-doc', 'vp-code', 'vp-adaptive-theme'}
+    candidate_containers = [c for c in found_classes if c not in ignore_set and not c.startswith('vp-')]
+    
+    missing_containers = [c for c in candidate_containers if f'::: {c}' not in content]
+    if missing_containers:
+        print(f"[*] Snippet-Synchronisation: Neue Container in custom.css gefunden -> {missing_containers}")
+        new_snippet_rows = []
+        for c in sorted(missing_containers):
+            new_snippet_rows.append(
+                f'            <div class="syn-row" onclick="insertSnippet(\'\\n::: {c}\\n\', \'\\n:::\')" '
+                f'style="border-left: 4px solid #64748b; padding-left: 6px;"><code>::: {c}</code>'
+                f'<span class="syn-desc" data-syn-d="{c[:3]}">{c}</span></div>'
+            )
+        inject_block = '\n'.join(new_snippet_rows) + '\n'
+        content = content.replace('<!-- END_CONTAINER_SNIPPETS -->', inject_block + '            <!-- END_CONTAINER_SNIPPETS -->')
+        print(f"[*] {len(missing_containers)} neue Snippet-Buttons automatisch in QA Viewer eingefügt.")
+        
+    return content
+
 def sync_qa_viewer():
     locales = get_locales_from_config()
     if not locales:
@@ -87,8 +116,11 @@ def sync_qa_viewer():
         flags=re.DOTALL
     )
     
+    # Snippet Cheatsheet Auto-Sync
+    content = sync_snippets(content)
+    
     QA_VIEWER.write_text(content, encoding='utf-8')
-    print("QA Viewer Dropdowns synchronisiert.")
+    print("QA Viewer Dropdowns & Snippet-Cheatsheet synchronisiert.")
     return True
 
 if __name__ == '__main__':

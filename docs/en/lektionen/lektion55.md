@@ -39,11 +39,11 @@ Example:
 Irregular formations:
 
 ::: indent
-⟪अस्⟫ 4P "to throw": sig[⟪आस्थम्⟫, ⟪आस्थत्⟫] (Explanation see Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P "to throw": :sig[⟪आस्थम्⟫, ⟪आस्थत्⟫] (Explanation see Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "to tell": sig[⟪अख्यम्⟫, ⟪अख्यत्⟫]
+⟪ख्या⟫ + ⟪आ⟫ 2P "to tell": :sig[⟪अख्यम्⟫, ⟪अख्यत्⟫]
 
-⟪दृश्⟫ "to see": sig[⟪अदर्शम्⟫, ⟪अदर्शत्⟫] (Strong grade!)
+⟪दृश्⟫ "to see": :sig[⟪अदर्शम्⟫, ⟪अदर्शत्⟫] (Strong grade!)
 :::
 Note:
 

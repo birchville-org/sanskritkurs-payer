@@ -157,9 +157,9 @@ Esim. ⟪द्विष्⟫ 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » �
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Preesens** :br⟪लट्⟫ | sig[⟪असि⟫] | sig[⟪स्थ⟫] |
-| **Imperfekti** :br⟪लङ्⟫ | sig[⟪आसीस्⟫] | sig[⟪आस्त⟫] |
-| **Optatiivi** :br⟪विधिलिङ्⟫ | sig[⟪स्यास्⟫] | sig[⟪स्यात⟫] |
+| **Indikativ Preesens** :br⟪लट्⟫ | :sig[⟪असि⟫] | :sig[⟪स्थ⟫] |
+| **Imperfekti** :br⟪लङ्⟫ | :sig[⟪आसीस्⟫] | :sig[⟪आस्त⟫] |
+| **Optatiivi** :br⟪विधिलिङ्⟫ | :sig[⟪स्यास्⟫] | :sig[⟪स्यात⟫] |
 :::
 ⟪तत्त्वमसि⟫
 
@@ -240,7 +240,7 @@ niistä:
 Kuv.: ⟪रेल्यानम्⟫
 (Kuvan lähde: [Details](/fi/licenses#lekt4403))
 :::
-⟪शी⟫ 2Ā ⟪शेते⟫ : maata. Tämä verbijuurten muodostaa kaikissa preesensvartalon muodoissa **korkean asteen:** 1.sg.Ind.Prees.Ā sig[⟪शेये⟫] (śe + e). Seuraavat muodot ovat erityisesti huomioitava: 3.pl.Ind.Prees.Ā sig[⟪शेरते⟫], 3.pl.Imperf.Ā sig[⟪अशेरत⟫]
+⟪शी⟫ 2Ā ⟪शेते⟫ : maata. Tämä verbijuurten muodostaa kaikissa preesensvartalon muodoissa **korkean asteen:** 1.sg.Ind.Prees.Ā :sig[⟪शेये⟫] (śe + e). Seuraavat muodot ovat erityisesti huomioitava: 3.pl.Ind.Prees.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -281,13 +281,13 @@ Kuv: ⟪नन्दी⟩
 :::
 ⟪नन्द्⟩ + ⟪अभि⟩ 1P (1Ā)  ⟪अभिनन्दति⟩: hänellä on iloa (⟪द्वितीयया⟩), tervehditä joku iloisesti, tervetuloa
 
-⟪यम्⟩ 1P sig[⟪यच्छति⟩]: pitää, kantaa; tarjota, myöntää; pitää yhdessä, kesyttää, ohjata, voittaa
+⟪यम्⟩ 1P :sig[⟪यच्छति⟩]: pitää, kantaa; tarjota, myöntää; pitää yhdessä, kesyttää, ohjata, voittaa
 
 ::: indent
 Perf. Vb ⟪ययाम⟩, ⟪येमुर्⟩  
 Fut. ⟪यंस्यति⟩
 Pass. ⟪यम्यते⟩
-Kaus. ⟪यामयति⟩ mutta: ⟪नि⟩sig[⟪यम⟩]⟪यति⟩
+Kaus. ⟪यामयति⟩ mutta: ⟪नि⟩:sig[⟪यम⟩]⟪यति⟩
 PPP ⟪यत⟩
 Inf. ⟪यन्तुम्⟩
 Absol. -⟪यम्य⟩
@@ -331,7 +331,7 @@ Kuva: ⟪यत्नेन⟫
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. sig[⟪रम्भ⟫]⟪यति⟫  
+Kaus. :sig[⟪रम्भ⟫]⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫

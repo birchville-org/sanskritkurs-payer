@@ -5,6 +5,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Sanskrit Course - Side-by-Side QA Viewer</title>
+    <link rel="stylesheet" href="/.vitepress/theme/custom.css">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/codemirror.min.css">
     <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/codemirror.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/codemirror/5.65.13/mode/markdown/markdown.min.js"></script>
@@ -668,6 +669,8 @@
         /* DEVANAGARI — Hard Rule CLAUDE.md: Sanskrit always red; Hindi neutral */
         .editor-preview .sanskrit-dev { color: #b22222; font-size: 1.15em; font-weight: 600; }
         .editor-preview table .sanskrit-dev { font-size: 1.35em; }
+        .editor-preview .signalrot { color: #ff0000 !important; font-weight: bold; }
+        .editor-preview .signalrot .sanskrit-dev { color: #ff0000 !important; font-weight: 600 !important; }
         .editor-preview .hi-dev { font-size: 1.15em; }
         .editor-preview table .hi-dev { font-size: 1.35em; }
 
@@ -888,6 +891,7 @@
             <div class="syn-row" onclick="insertSnippet(':br', '')"><code>:br</code><span class="syn-desc" data-syn-d="br">Line break</span></div>
             <div class="syn-row" onclick="insertSnippet(':indent', '')"><code>:indent</code><span class="syn-desc" data-syn-d="ind">Inline indent</span></div>
             <div class="syn-row" onclick="insertSnippet('⟪', '⟫')"><code>⟪Sanskrit⟫</code><span class="syn-desc" data-syn-d="dev">Devanagari</span></div>
+            <div class="syn-row" onclick="insertSnippet(':sig[', ']')"><code>:sig[Red]</code><span class="syn-desc" data-syn-d="sig">Signal red</span></div>
             <div class="syn-row" style="margin-top: 10px; border-bottom: 1px solid var(--vp-c-divider);"></div>
             <h4 data-syn-h="cnt">Container Blocks</h4>
             <div class="syn-row" onclick="insertSnippet('\n::: grammar-box\n', '\n:::')" style="border-left: 4px solid #eab308; padding-left: 6px;"><code>::: grammar-box</code><span class="syn-desc" data-syn-d="yel">yellow</span></div>
@@ -902,6 +906,7 @@
             <div class="syn-row" onclick="insertSnippet('\n::: compact\n', '\n:::')" style="border-left: 4px solid #64748b; padding-left: 6px;"><code>::: compact</code><span class="syn-desc" data-syn-d="cmp">compact table</span></div>
             <div class="syn-row" onclick="insertSnippet('\n::: laut-table\n', '\n:::')" style="border-left: 4px solid #10b981; padding-left: 6px;"><code>::: laut-table</code><span class="syn-desc" data-syn-d="laut">Sound table</span></div>
             <div class="syn-row" onclick="insertSnippet('\n::: metrik-schema\n', '\n:::')" style="border-left: 4px solid #64748b; padding-left: 6px;"><code>::: metrik-schema</code><span class="syn-desc" data-syn-d="met">Metrics</span></div>
+            <!-- END_CONTAINER_SNIPPETS -->
         </div>
         <div class="pane" id="left-pane">
             <iframe id="left-frame" src="about:blank"></iframe>
@@ -916,7 +921,7 @@
         <div class="pane" id="right-pane">
             <iframe id="right-frame" src="about:blank"></iframe>
             <textarea id="right-raw" class="raw-viewer" readonly></textarea>
-            <div id="editor-preview" class="editor-preview" style="display:none"></div>
+            <div id="editor-preview" class="editor-preview vp-doc" style="display:none"></div>
         </div>
     </div>
 

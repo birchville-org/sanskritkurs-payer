@@ -32,10 +32,10 @@ Példák:
 * 3.sg.P.Ind.Präs. ⟪ददाति⟫
 
 ⟪पॄ⟫ 3 "megtelít"
-* 3.sg.P.Ind.Präs. sig[⟪पि⟫]⟪पर्ति⟫
+* 3.sg.P.Ind.Präs. :sig[⟪पि⟫]⟪पर्ति⟫
 
 ⟪मा⟫ 3Ā "megmér"
-* 3.sg.Ā.Ind.Präs. sig[⟪मि⟫]⟪मीते⟫
+* 3.sg.Ā.Ind.Präs. :sig[⟪मि⟫]⟪मीते⟫
 :::
 ::: grammar-box
 **2. Egy gyökör aspirált kezdő mássalhangzója a megfelelő nem-aspirált mássalhangzóval ismétlődik.**
@@ -47,7 +47,7 @@ Példák:
 * 3.sg.P.Ind.Präs. ⟪दधाति⟫
 
 ⟪भी⟫ 3 „félnek“
-* 3.sg.P.Ind.Präs. sig[⟪बि⟫]⟪भेति⟫
+* 3.sg.P.Ind.Präs. :sig[⟪बि⟫]⟪भेति⟫
 :::
 ::: grammar-box
 **3. Egy gutturális hangot a hozzá tartozó nem aspirált palatális hang másolja:**
@@ -248,14 +248,14 @@ Abb.: ⟪दानम्⟫
 Kép: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U sig[⟪दधाति⟫]: elhelyez, meghatároz, kioszt
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: elhelyez, meghatároz, kioszt
 
 ::: indent
-**Fut.** sig[⟪धास्यति⟫]  
-**Pass.** sig[⟪धीयते⟫]  
-**Kaus.** sig[⟪धापयति⟫]  
-**PPP** sig[⟪हित⟫] (!!)  
-**Inf.** sig[⟪धातुम्⟫]
+**Fut.** :sig[⟪धास्यति⟫]  
+**Pass.** :sig[⟪धीयते⟫]  
+**Kaus.** :sig[⟪धापयति⟫]  
+**PPP** :sig[⟪हित⟫] (!!)  
+**Inf.** :sig[⟪धातुम्⟫]
 :::
 ⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: minden figyelmét valamire összpontosítja, magához tér
 
@@ -273,10 +273,10 @@ Kép: ⟪समाधि⟫
 
 ::: indent
 Megjegyzés:
-3.pl.P sig[⟪पिपुरति⟫]  
-3.sg.Impf.P sig[⟪अपिपर्⟫] (készből: \*apipart)  
-3.pl.Impf.P sig[⟪अपिपरुर्⟫]  
-3.sg.Opt.P sig[⟪पिपूर्यात्⟫]
+3.pl.P :sig[⟪पिपुरति⟫]  
+3.sg.Impf.P :sig[⟪अपिपर्⟫] (készből: \*apipart)  
+3.pl.Impf.P :sig[⟪अपिपरुर्⟫]  
+3.sg.Opt.P :sig[⟪पिपूर्यात्⟫]
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  

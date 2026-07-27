@@ -34,8 +34,8 @@ Esimerkit:
 
 :::
 ::: indent
-3.sg.Ā a-kṣip + s + ta » ⟪अ⟩sig[⟪क्षिप्त⟩]
-2.sg.Ā a-kṣip + s + thās » ⟪अ⟩sig[⟪क्षिप्था⟩]⟪स्⟩
+3.sg.Ā a-kṣip + s + ta » ⟪अ⟩:sig[⟪क्षिप्त⟩]
+2.sg.Ā a-kṣip + s + thās » ⟪अ⟩:sig[⟪क्षिप्था⟩]⟪स्⟩
 :::
 Tällaiset muodot voivat kuulua myös juurtaoristiin, ja ne todennäköisesti osittain kuuluvatkin sinne.
 Intialaiset grammatikot ovat laskeneet myös muodot kuten ⟪अकृत⟩ (3.sg.Ā) s-aoristiin, jotka selvästi kuuluvat juurtaoristiin. Tätä varten intialaiset grammatikot keksivät seuraavan ad-hoc-äännesäännön s-aoristille:
@@ -52,7 +52,7 @@ Muuten on noudatettava äännesääntöjä, jotka koskevat loppupään konsonant
 
 :::
 ::: indent
-esim. sig[⟪चि⟫] 5U: 2.pl.Ā sig[⟪अचेढ्वम्⟫]
+esim. :sig[⟪चि⟫] 5U: 2.pl.Ā :sig[⟪अचेढ्वम्⟫]
 :::
 ::: grammar-box
 **Vartalon muoto:**
@@ -91,12 +91,12 @@ Esimerkit:
 
 :::
 ::: indent
-⟪दृश्⟩ 3.prs.P ⟪अ⟩sig[⟪द्राक्षी⟩]⟪त्⟩
+⟪दृश्⟩ 3.prs.P ⟪अ⟩:sig[⟪द्राक्षी⟩]⟪त्⟩
 :::
 Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 ::: indent
-⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫sig[⟪क्राक्षी⟫]⟪त्⟫
+⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫
 :::
 Paradigmat:
 
@@ -106,7 +106,7 @@ Paradigmat:
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अनैषम्⟫ | ⟪अनैष्म⟫ | ⟪अनेषि⟫ | ⟪अनेष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫sig[⟪ढ्वम्⟫] |
+| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫:sig[⟪ढ्वम्⟫] |
 | **3. ⟪प्रथमः⟫** | ⟪अनैषीत्⟫ | ⟪अनैषुर्⟫ | ⟪नेष्ट⟫ | ⟪अनेषत⟫ |
 
 ::: media
@@ -120,8 +120,8 @@ Kuv.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अकार्षम्⟫ | ⟪अकार्ष्म⟫ | ⟪अकृषि⟫ | ⟪अकृष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | sig[⟪अकृथास्⟫] | ⟪अकृढ्वम्⟫ |
-| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | sig[⟪अकृत⟫] | ⟪अकृषत⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | :sig[⟪अकृथास्⟫] | ⟪अकृढ्वम्⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | :sig[⟪अकृत⟫] | ⟪अकृषत⟫ |
 
 ⟪तुद्⟫ 6U "lyödä"
 

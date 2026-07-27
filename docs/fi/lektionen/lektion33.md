@@ -32,10 +32,10 @@ Esimerkit:
 * 3.sg.P.Ind.Präs. ⟪ददाति⟫
 
 ⟪पॄ⟫ 3 "täyttää"
-* 3.sg.P.Ind.Präs. sig[⟪पि⟫]⟪पर्ति⟫
+* 3.sg.P.Ind.Präs. :sig[⟪पि⟫]⟪पर्ति⟫
 
 ⟪मा⟫ 3Ā "mitata"
-* 3.sg.Ā.Ind.Präs. sig[⟪मि⟫]⟪मीते⟫
+* 3.sg.Ā.Ind.Präs. :sig[⟪मि⟫]⟪मीते⟫
 :::
 ::: grammar-box
 **2. Juuren aspiroitu alkuäännös reduplikoituaan vastaa vastaavaa ei-aspiroitua konsonanttia.**
@@ -47,7 +47,7 @@ Esimerkit:
 * 3.sg.P.Ind.Präs. ⟪दधाति⟫
 
 ⟪भी⟫ 3 "pelätä"
-* 3.sg.P.Ind.Präs. sig[⟪बि⟫]⟪भेति⟫
+* 3.sg.P.Ind.Präs. :sig[⟪बि⟫]⟪भेति⟫
 :::
 ::: grammar-box
 **3. Vartalo muunnetaan vastaavalla ei-aspiroidulla palataalilla:**
@@ -248,14 +248,14 @@ Kuv.: ⟪दानम्⟫
 Kuv.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Kuv lähde: [Details](/fi/licenses#lekt3307))
 :::
-sig[⟪धा⟫] 3U sig[⟪दधाति⟫]: asettaa, määrätä, jakaa
+:sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: asettaa, määrätä, jakaa
 
 ::: indent
-**Fut.** sig[⟪धास्यति⟫]  
-**Pass.** sig[⟪धीयते⟫]  
-**Kaus.** sig[⟪धापयति⟫]  
-**PPP** sig[⟪हित⟫] (!!)  
-**Inf.** sig[⟪धातुम्⟫]
+**Fut.** :sig[⟪धास्यति⟫]  
+**Pass.** :sig[⟪धीयते⟫]  
+**Kaus.** :sig[⟪धापयति⟫]  
+**PPP** :sig[⟪हित⟫] (!!)  
+**Inf.** :sig[⟪धातुम्⟫]
 :::
 ⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: kiinnittää koko huomionsa jhk, keskittyä
 
@@ -273,10 +273,10 @@ Kuv.: ⟪समाधि⟫
 
 ::: indent
 Huom:
-3.pl.P sig[⟪पिपुरति⟫]  
-3.sg.Impf.P sig[⟪अपिपर्⟫] (muoto: \*apipart)  
-3.pl.Impf.P sig[⟪अपिपरुर्⟫]  
-3.sg.Opt.P sig[⟪पिपूर्यात्⟫]
+3.pl.P :sig[⟪पिपुरति⟫]  
+3.sg.Impf.P :sig[⟪अपिपर्⟫] (muoto: \*apipart)  
+3.pl.Impf.P :sig[⟪अपिपरुर्⟫]  
+3.sg.Opt.P :sig[⟪पिपूर्यात्⟫]
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  

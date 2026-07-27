@@ -39,11 +39,11 @@ Példa:
 Szabálytalan képzések:
 
 ::: indent
-⟪अस्⟫ 4P "dob": sig[⟪आस्थम्⟫], sig[⟪आस्थत्⟫] (Magyarázat: Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P "dob": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (Magyarázat: Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "elmondani": sig[⟪अख्यम्⟫], sig[⟪अख्यत्⟫]
+⟪ख्या⟫ + ⟪आ⟫ 2P "elmondani": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
 
-⟪दृश्⟫ "látni": sig[⟪अदर्शम्⟫], sig[⟪अदर्शत्⟫] (Magas fok!)
+⟪दृश्⟫ "látni": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (Magas fok!)
 :::
 Megjegyzés:
 

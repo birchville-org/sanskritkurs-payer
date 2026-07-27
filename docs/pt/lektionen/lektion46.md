@@ -263,7 +263,7 @@ A 2ª p. sg. é formada a partir do tema fraco quando a vogal de ligação -i- o
 | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: |
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ⟪पपक्थ⟫:br sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
+| ⟪पपक्थ⟫:br :sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
 #### 46.1.7.3. Perfeito Tipo Vc: Consoante-a-Consoante, tema fraco grau forte
 
@@ -347,14 +347,14 @@ Derivados:
 ⟪विषम⟫ 3: desigual, irregular, mau
 
 :::
-⟪ग्रह्⟫ 9U sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : agarrar, pegar, segurar
+⟪ग्रह्⟫ 9U :sig[⟪गृ⟫]⟪ह्णाति⟫ (gṛh-ṇā-ti) : agarrar, pegar, segurar
 
 ::: indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫
-Fut. ⟪ग्र⟫sig[⟪ही⟫]⟪ष्यति⟫
+Fut. ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫
 Pass. ⟪गृह्यते⟫
 Caus.⟪ग्राहयति⟫
-PPP ⟪गृ⟫sig[⟪ही⟫]⟪त⟫
+PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫
 Inf. ⟪ग्रहितुम्⟫
 Absol. -⟪ग्राह्य⟫
 disso:
@@ -430,8 +430,8 @@ Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫
 Fut. ⟪रोक्ष्यति⟫
 Pass. ⟪रुह्यते⟫
-Caus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫sig[⟪प⟫]⟪यति⟫
-PPP. sig[⟪रूढ⟫]
+Caus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫:sig[⟪प⟫]⟪यति⟫
+PPP. :sig[⟪रूढ⟫]
 Inf. ⟪रोढुम्⟫
 
 :::
@@ -466,14 +466,14 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 ⟪भ्रंश⟫ m.: o desaparecimento
 
-⟪श्रम्⟫ 4P sig[⟪श्रा⟫]⟪म्यति⟫ : esforçar-se, cansar-se
+⟪श्रम्⟫ 4P :sig[⟪श्रा⟫]⟪म्यति⟫ : esforçar-se, cansar-se
 
 ::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫
 Fut. ⟪श्रमिष्यति⟫
 Pass. ⟪श्रम्यते⟫
 Caus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫
-PPP sig[⟪श्रान्⟫]⟪त⟫
+PPP :sig[⟪श्रान्⟫]⟪त⟫
 Inf. ⟪श्रमितुम्⟫
 Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
 daí:
@@ -496,7 +496,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P sig[⟪सज⟫]⟪ति⟫ : anexar, aderir a (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P :sig[⟪सज⟫]⟪ति⟫ : anexar, aderir a (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫
@@ -526,13 +526,13 @@ Inf. ⟪द्रोतुम्⟫
 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P sig[⟪भ्रा⟫]⟪म्यति⟫ : vagar, perambular
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P :sig[⟪भ्रा⟫]⟪म्यति⟫ : vagar, perambular
 
 ::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫
 Fut. ⟪भ्रमिष्यति⟫
 Caus. ⟪भ्रमयति⟫
-PPP sig[⟪भ्रा⟫]⟪न्त⟫
+PPP :sig[⟪भ्रा⟫]⟪न्त⟫
 Inf. ⟪भ्रमितुम्⟫
 Absol. -⟪भ्रम्य⟫
 derivado:
@@ -570,10 +570,10 @@ PPP ⟪परिभूत⟫ 3: derrotado, humilhado, rebaixado
 
 ::: indent
 p. ex.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫sig[⟪षी⟫]⟪दति⟫ : sentar-se
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : sentar-se
 
 :::
-⟪भोस्⟫ Partícula vocativa: exclamação de apelo, p. ex.: he, heda, oh, ei, olá, oi! Muitas vezes não se traduz. Esta partícula tem um sandhi especial: antes de todos os sons sonoros, torna-se sig[⟪भो⟫].
+⟪भोस्⟫ Partícula vocativa: exclamação de apelo, p. ex.: he, heda, oh, ei, olá, oi! Muitas vezes não se traduz. Esta partícula tem um sandhi especial: antes de todos os sons sonoros, torna-se :sig[⟪भो⟫].
 
 ::: media
 ![](/images/lekt4611.webp)

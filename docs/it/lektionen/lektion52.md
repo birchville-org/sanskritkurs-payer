@@ -214,7 +214,7 @@ Esempio:
 
 :::
 ::: indent
-⟪भस्मसात्कृ⟫sig[⟪त्वा⟫]
+⟪भस्मसात्कृ⟫:sig[⟪त्वा⟫]
 :::
 ## 52.5. Ripetizioni di parole (⟪द्विरुक्तम्⟫)
 
@@ -252,7 +252,7 @@ Non trattato qui vedere p.es. presso Kielhorn, Grammatik §201ss.
 **I numeri per *1 a 19* sono aggettivi.**
 **I numeri per **1 a 4** sono diversi nella declinazione per i tre generi.**
 
-**Per i numeri per **5 a 19** (sig[⟪नवदशन्⟫]) esiste un'unica declinazione per i tre generi.**
+**Per i numeri per **5 a 19** (:sig[⟪नवदशन्⟫]) esiste un'unica declinazione per i tre generi.**
 
 **Per questi aggettivi numerici vale, come per tutti gli aggettivi: deve stare nello stesso caso, numero e genere del sostantivo associato e viceversa (cioè per 1 singolare, per 2 duale, per gli altri plurale).**
 :::
@@ -327,16 +327,16 @@ una volta: ⟪सकृत्⟫
 due volte: ⟪द्विस्⟫
 tre volte: ⟪त्रिस्⟫
 quattro volte: ⟪चतुस्⟫
-cinque volte ecc. si forma con il suffisso -sig[⟪कृत्वस्⟫]: ⟪पञ्चकृत्वस्⟫
+cinque volte ecc. si forma con il suffisso -:sig[⟪कृत्वस्⟫]: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-volte": si esprime con il suffisso -sig[⟪धा⟫]
+b) "-volte": si esprime con il suffisso -:sig[⟪धा⟫]
 
 ::: indent
 semplice: ⟪एकधा⟫
 doppio: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
 ecc.
 :::
-c) "ciascuno...", "a...": si esprime con il suffisso -sig[⟪शस्⟫] (vedere sopra!)
+c) "ciascuno...", "a...": si esprime con il suffisso -:sig[⟪शस्⟫] (vedere sopra!)
 
 ::: indent
 ⟪द्विशस्⟫ "a due, ciascuno due"
@@ -349,7 +349,7 @@ c) "ciascuno...", "a...": si esprime con il suffisso -sig[⟪शस्⟫] (vede
 doppio, composto da due
 triplo, composto da tre parti
 
-a partire da 4, "-volte" è espresso dal suffisso -sig[⟪तय⟫] (f.: -sig[⟪तयी⟫]): ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "quadruplo"
+a partire da 4, "-volte" è espresso dal suffisso -:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫]): ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "quadruplo"
 :::
 Ulteriori formazioni si possono trovare nei dizionari o nelle grammatiche.
 
@@ -409,7 +409,7 @@ Jalakandapuram = ஜலகண்டபுரம்
 ::: grammar-box
 **Una designazione per un numero cardinale (ma non per una direzione cardinale) può fungere da primo membro di un altro sostantivo formando anche in questo caso un Tatpuruṣa, se il composto così formato indica l'aggregato di più cose, cioè riunisce due o più cose in un'unica unità.**
 
-**I Tatpuruṣa formati secondo questa regola sono detti Dvigu (sig[⟪द्विगु⟫]).**
+**I Tatpuruṣa formati secondo questa regola sono detti Dvigu (:sig[⟪द्विगु⟫]).**
 
 **I composti Dvigu che indicano un'unità sono generalmente neutri. Se il secondo membro termina in -a, può aggiungersi il suffisso femminile -ī. Se il secondo membro termina in fem. -ā, al suo posto appare o il neutro -a o il femminile -ī. Se il secondo membro termina in -an, questo viene sostituito da -a o -ī.**
 :::
@@ -501,7 +501,7 @@ Fig.: ⟪प्रधानः⟫
 ::: indent
 ⟪त्रिवर्ग⟫ m.: gruppo di tre (ad es. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫; oppure: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫; oppure: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, sig[⟪उशन्ति⟫], Imperat. 2.sg.: sig[⟪उड्ढि⟫] : volere, comandare, desiderare
+⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : volere, comandare, desiderare
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
@@ -656,7 +656,7 @@ Inf. ⟪त्रातुम्⟫
 ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫
 ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫
 ⟪एतद्विद्यात्समासेन⟫
-⟪लक्षणं⟫ ⟪सुखदुःख⟫sig[⟪योः⟫] ⟪॥१६०॥⟫
+⟪लक्षणं⟫ ⟪सुखदुःख⟫:sig[⟪योः⟫] ⟪॥१६०॥⟫
 
 ⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्⟫
 ⟪परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫
@@ -669,7 +669,7 @@ Spiegazione: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvand
 
 ::: indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
-⟪स्मृतिशी⟫sig[⟪ले⟫] ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
+⟪स्मृतिशी⟫:sig[⟪ले⟫] ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
@@ -677,7 +677,7 @@ Spiegazione: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
 :::
 ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Su ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ nella vita del principe
 
-⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫sig[⟪मितरौ⟫] ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫sig[⟪मूलौ⟫] ⟪हि⟫ ⟪धर्मका⟫sig[⟪मावि⟫]⟪ति⟫ ⟪।७।⟫
+⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫:sig[⟪मितरौ⟫] ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫:sig[⟪मूलौ⟫] ⟪हि⟫ ⟪धर्मका⟫:sig[⟪मावि⟫]⟪ति⟫ ⟪।७।⟫
 
 ::: indent
 Spiegazioni:

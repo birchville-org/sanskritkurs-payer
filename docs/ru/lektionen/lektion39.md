@@ -1,6 +1,6 @@
 ---
 title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,9 +9,9 @@ status: stable
 
 # Урок 39
 
-## 39.1. Личные окончания первого лица (sig[तृतीयः] ⟪पुरुषः⟫ = "**третье** лицо")
+## 39.1. Личные окончания первого лица (:sig[तृतीयः] ⟪पुरुषः⟫ = "**третье** лицо")
 
-Окончания первого лица (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**третье** лицо") следующие:
+Окончания первого лица (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**третье** лицо") следующие:
 
 ::: grammar-box
 

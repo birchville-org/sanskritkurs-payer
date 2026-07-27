@@ -54,13 +54,13 @@ Cette forme d'aoriste est formée notamment par :
 **La syllabe de la racine peut être de niveau grave ou aigu. Pour les racines en -i ou -u, le niveau grave est la règle.**
 
 *   **Le -i, -u final est remplacé par -iy ou -uv.**
-    ⟪पॄ⟫ 3P : Kaus. sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫sig[⟪पर⟫]⟪त्⟫  
-    ⟪द्रु⟫ 1P : Kaus. sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫sig[⟪द्रव⟫]⟪त्⟫  
-    ⟪नी⟫ 1U : Kaus. sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫sig[⟪नय⟫]⟪त्⟫  
-    ⟪ज्ञा⟫ 9U : Kaus. sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫sig[⟪ज्ञप⟫]⟪त्⟫
+    ⟪पॄ⟫ 3P : Kaus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫  
+    ⟪द्रु⟫ 1P : Kaus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫  
+    ⟪नी⟫ 1U : Kaus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
+    ⟪ज्ञा⟫ 9U : Kaus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫
 
 *   **La finale -ā (pour -e) est élidée.**
-    ⟪चित्⟫ 1P : Caus. sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫sig[⟪चित⟫]⟪त⟫
+    ⟪चित्⟫ 1P : Caus. :sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫
 
 *   ⟪श्रि⟫ 1U « se rendre à, s'appuyer sur »
     ⟪चुर्⟫ 10U : ***⟪चोर⟫***⟪यति⟫, Aor. ⟪अचू⟫***⟪चुर⟫***⟪त्⟫

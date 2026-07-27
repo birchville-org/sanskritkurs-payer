@@ -111,7 +111,7 @@ Fig.: ⟪हस्तौ⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
 | :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | sig[⟪भरन्ती⟫] (!) 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | :sig[⟪भरन्ती⟫] (!) 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ ||
 :::
@@ -190,7 +190,7 @@ Fig.: ⟪भरन्तौ⟫
 ::: grammar-box
 |   | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br sig[⟪नामानी⟫] |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪नाम्नी⟫ :br :sig[⟪नामानी⟫] |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪नामभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪नाम्नोस्⟫ |
 :::
@@ -205,8 +205,8 @@ Fig.: ⟪भरन्तौ⟫
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ |
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | sig[⟪देवाभ्याम्⟫] | sig[⟪फलाभ्याम्⟫] |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | sig[⟪देवयोस्⟫] | sig[⟪फलयोस्⟫] |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | :sig[⟪देवाभ्याम्⟫] | :sig[⟪फलाभ्याम्⟫] |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | :sig[⟪देवयोस्⟫] | :sig[⟪फलयोस्⟫] |
 :::
 ::: media
 ![](/images/lekt5306.webp)
@@ -222,7 +222,7 @@ Fig.: ⟪फले⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | sig[⟪अग्नी⟫] | sig[⟪मती⟫] | ⟪वारिणी⟫ |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪अग्नी⟫] | :sig[⟪मती⟫] | ⟪वारिणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
@@ -235,7 +235,7 @@ Fig.: ⟪फले⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | sig[⟪शत्रू⟫] | sig[⟪धेनू⟫] | ⟪मधुनी⟫ |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪शत्रू⟫] | :sig[⟪धेनू⟫] | ⟪मधुनी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪शत्र्वोस्⟫ | ⟪धेन्वोस्⟫ | ⟪मधुनोस्⟫ |
 :::
@@ -251,9 +251,9 @@ Fig.: ⟪धेनू⟫
 ::: grammar-box
 |   | Femininum :br ⟪स्त्री⟫ |
 | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | sig[⟪कन्ये⟫] |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | :sig[⟪कन्ये⟫] |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | sig[⟪कन्ययोस्⟫] |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | :sig[⟪कन्ययोस्⟫] |
 :::
 **Temas polissilábicos em -ī**
 
@@ -273,7 +273,7 @@ Fig.: ⟪धेनू⟫
 ::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
 | :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | sig[⟪दातृणी⟫] 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | :sig[⟪दातृणी⟫] 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
@@ -301,7 +301,7 @@ Exemplos:
 
 :::
 ::: indent
-⟪मा⟫sig[⟪ता⟫]⟪पितरौ⟫ "Mãe e pai"
+⟪मा⟫:sig[⟪ता⟫]⟪पितरौ⟫ "Mãe e pai"
 :::
 **O mesmo acontece com uma tal palavra de parentesco num Dvandva antes de -⟪पुत्र⟫ :**
 
@@ -311,7 +311,7 @@ Exemplos:
 **Quando os nomes de duas divindades, que são habitualmente invocadas em sacrifícios, formam um Dvandva, a vogal final do primeiro membro é geralmente alongada:**
 
 ::: indent
-⟪मि⟫sig[⟪त्रा⟫]⟪वरुणौ⟫ "Mitra e Varuṇa"
+⟪मि⟫:sig[⟪त्रा⟫]⟪वरुणौ⟫ "Mitra e Varuṇa"
 ⟪अग्नीसोमौ⟫ "Agni e Soma"
 :::
 **Também em outros Dvandvas ocorre este alongamento vocálico.**
@@ -381,8 +381,8 @@ Exemplos:
 ::: grammar-box
 | Raiz | Adjetivo | Comparativo | Superlativo |
 | --- | --- | --- 
-| ⟪क्षिप्⟫ 6P "lançar" | ⟪क्षिप्र⟫ 3 "rápido" | sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
-| ⟪स्था⟫ 1P "permanecer" | ⟪स्थिर⟫ 3 "constante, firme" | sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
+| ⟪क्षिप्⟫ 6P "lançar" | ⟪क्षिप्र⟫ 3 "rápido" | :sig[⟪क्षेपीयस्⟫] 3 "schneller" :br ⟪क्षिप्रतर⟫ 3 | :sig[⟪क्षेपिष्ठ⟫] 3 "am schnellsten" :br ⟪क्षिप्रतम⟫ 3 |
+| ⟪स्था⟫ 1P "permanecer" | ⟪स्थिर⟫ 3 "constante, firme" | :sig[⟪स्थेयस्⟫] 3 "fester" :br ⟪स्थिरतर⟫ 3 | :sig[⟪स्थेष्ठ⟫] 3 "am festesten" :br ⟪स्थिरतम⟫ 3 |
 :::
 **Regras especiais para a anexação destes sufixos:**
 
@@ -394,8 +394,8 @@ Exemplos:
 ::: grammar-box
 | Adjetivo | Comparativo | Superlativo |
 | --- | --- 
-| ⟪पाप⟫ 3 "mau" | ⟪पा⟫sig[⟪पी⟫]⟪यस्⟫ | ⟪पा⟫sig[⟪पि⟫]⟪ष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "grande" | ⟪म⟫sig[⟪ही⟫]⟪यस्⟫ | ⟪म⟫sig[⟪हि⟫]⟪ष्ठ⟫ |
+| ⟪पाप⟫ 3 "mau" | ⟪पा⟫:sig[⟪पी⟫]⟪यस्⟫ | ⟪पा⟫:sig[⟪पि⟫]⟪ष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "grande" | ⟪म⟫:sig[⟪ही⟫]⟪यस्⟫ | ⟪म⟫:sig[⟪हि⟫]⟪ष्ठ⟫ |
 :::
 ::: grammar-box
 **Regra 2:** **Os sufixos possessivos (-mant, vant, -vin, -in, etc.) são eliminados. Se a parte restante consistir em apenas uma sílaba, ela não é mais alterada; apenas as mudanças sonoras causadas pela conexão com o sufixo possessivo são revertidas. No entanto, se o restante consistir em mais de uma sílaba, a Regra 1 entra em vigor.**
@@ -405,9 +405,9 @@ Exemplos:
 ::: grammar-box
 | Adjetivo | Comparativo | Superlativo |
 | --- | --- 
-| ⟪धनवन्त्⟫ 3 "rico" | ⟪ध⟫sig[⟪नी⟫]⟪यस्⟫ | ⟪ध⟫sig[⟪नि⟫]⟪ष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(especialmente) forte" | ⟪ब⟫sig[⟪ली⟫]⟪यस्⟫ | ⟪ब⟫sig[⟪लि⟫]⟪ष्ठ⟫ |
-| ⟪वसुमन्त्⟫ "possuidor de bens" | ⟪व⟫sig[⟪सी⟫]⟪यस्⟫ | ⟪व⟫sig[⟪सि⟫]⟪ष्ठ⟫ |
+| ⟪धनवन्त्⟫ 3 "rico" | ⟪ध⟫:sig[⟪नी⟫]⟪यस्⟫ | ⟪ध⟫:sig[⟪नि⟫]⟪ष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(especialmente) forte" | ⟪ब⟫:sig[⟪ली⟫]⟪यस्⟫ | ⟪ब⟫:sig[⟪लि⟫]⟪ष्ठ⟫ |
+| ⟪वसुमन्त्⟫ "possuidor de bens" | ⟪व⟫:sig[⟪सी⟫]⟪यस्⟫ | ⟪व⟫:sig[⟪सि⟫]⟪ष्ठ⟫ |
 :::
 ::: grammar-box
 **Regra 3:** **Para -ṛ-, que é precedido por uma vogal inicial e seguido por apenas uma única consoante, substitui-se por -ra-.**
@@ -473,7 +473,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | ⟪पञ्चमी⟫ | ⟪गरीयसस्⟫ || ^^ || ^^ ||
 | ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
 | ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
-| ⟪आमन्त्रितम्⟫ | sig[⟪गरीयान्⟫] | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+| ⟪आमन्त्रितम्⟫ | :sig[⟪गरीयान्⟫] | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
 :::
 ## 53.10. Métrica (estudo dos metros poéticos)
 

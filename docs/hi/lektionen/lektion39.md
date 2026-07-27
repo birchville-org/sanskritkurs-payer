@@ -1,6 +1,6 @@
 ---
 title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,9 +9,9 @@ status: stable
 
 # पाठ 39
 
-## 39.1. उत्तम पुरुष के व्यक्तिप्रत्यय (sig[उत्तमः] ⟪पुरुषः⟫ = "**उत्तम** पुरुष")
+## 39.1. उत्तम पुरुष के व्यक्तिप्रत्यय (:sig[उत्तमः] ⟪पुरुषः⟫ = "**उत्तम** पुरुष")
 
-उत्तम पुरुष के प्रत्यय (sig[उत्तमः] ⟪पुरुषः⟫ = "**उत्तम** पुरुष") हैं:
+उत्तम पुरुष के प्रत्यय (:sig[उत्तमः] ⟪पुरुषः⟫ = "**उत्तम** पुरुष") हैं:
 
 ::: grammar-box
 

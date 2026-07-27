@@ -54,22 +54,22 @@ Sílaba do tema:
 **A vogal desta chamada sílaba do tema é determinada no aoristo de acordo com as seguintes regras:**
 
 *   **\-ā- antes de uma consoante simples é substituído por -a-:**
-⟪पॄ⟫ 3P: Caus. sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫sig[⟪पर⟫]⟪त्⟫  
-⟪द्रु⟫ 1P: Caus. sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫sig[⟪द्रव⟫]⟪त्⟫  
-⟪नी⟫ 1U: Caus.  sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫sig[⟪नय⟫]⟪त्⟫  
-⟪ज्ञा⟫ 9U: Caus. sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫sig[⟪ज्ञप⟫]⟪त्⟫
+⟪पॄ⟫ 3P: Caus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫  
+⟪द्रु⟫ 1P: Caus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫  
+⟪नी⟫ 1U: Caus.  :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
+⟪ज्ञा⟫ 9U: Caus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫
 
 *   **\-ī-, -e-, -ai- antes de uma consoante simples são substituídos por -i-:**
-⟪चित्⟫ 1P: Caus. sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫sig[⟪चित⟫]⟪त⟫
+⟪चित्⟫ 1P: Caus. :sig[⟪चेत⟫]⟪यति⟫, Aor. (Ā) ⟪अची⟫:sig[⟪चित⟫]⟪त⟫
 
 *   **\-u-, -o-, -au- antes de uma consoante simples são substituídos por -u-:**
-⟪चुर्⟫ 10U: sig[⟪चोर⟫]⟪यति⟫, Aor. ⟪अचू⟫sig[⟪चुर⟫]⟪त्⟫
+⟪चुर्⟫ 10U: :sig[⟪चोर⟫]⟪यति⟫, Aor. ⟪अचू⟫:sig[⟪चुर⟫]⟪त्⟫
 
 **Para algumas raízes, as alterações mencionadas até agora são opcionais ou devem ser omitidas:**
 
 *   **ar, ār, īr, al, que precedem imediatamente a consoante final da sílaba radical e substituem ṛ, ṝ, ḷ, permanecem opcionalmente inalterados ou são substituídos por ṛ ou ḷ, respectivamente:**
-⟪कॢप्⟫  1Ā: Caus. sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫sig[⟪कॢ⟫]⟪पत्⟫  
-⟪कृष्⟫ 1P/6U: Caus. sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫sig[⟪कृ⟫]⟪षत्⟫
+⟪कॢप्⟫  1Ā: Caus. :sig[⟪कल्प⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कल्प⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कॢ⟫]⟪पत्⟫  
+⟪कृष्⟫ 1P/6U: Caus. :sig[⟪कर्ष⟫]⟪यति⟫, Aor. ⟪अच⟫:sig[⟪कर्ष⟫]⟪त्⟫ / ⟪अची⟫:sig[⟪कृ⟫]⟪षत्⟫
 :::
 Vogal da sílaba de reduplicação:
 
@@ -85,14 +85,14 @@ Após a aplicação das regras recém-mencionadas à sílaba radical, as seguint
 **Esta vogal de reduplicação sofre as seguintes alterações:**
 
 *   **i, u são substituídos por ī, ū, quando a sílaba da raiz começa com apenas uma consoante e é metricamente breve:**
-⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫sig[⟪बी⟫]⟪भिदत्⟫  
-⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫sig[⟪तू⟫]⟪तुदत्⟫
+⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भिदत्⟫  
+⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫
 
 *   **a é substituído por ī, quando a sílaba da raiz é metricamente breve e começa com apenas uma consoante. Se a sílaba da raiz for metricamente breve e começar com mais de uma consoante, o a da sílaba de reduplicação é substituído por i. Se a sílaba da raiz for metricamente longa, o a é mantido:**
-⟪नी⟫ 1U: Caus. ⟪नाययति⟫, sílaba da raiz do Aor. ⟪नय्⟫, Aor. ⟪अ⟫sig[⟪नी⟫]⟪नयत्⟫  
-⟪कृ⟫ 8U: Caus. ⟪कारयति⟫, sílaba da raiz do Aor. ⟪कर्⟫, Aor. ⟪अ⟫sig[⟪ची⟫]⟪करत्⟫  
-⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, sílaba da raiz do Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫sig[⟪ति⟫]⟪त्यजत्⟫  
-⟪भू⟫ 1P: Caus. ⟪भावयति⟫, sílaba da raiz do Aor. ⟪भव्⟫, Aor. ⟪अ⟫sig[⟪बी⟫]⟪भवत्⟫
+⟪नी⟫ 1U: Caus. ⟪नाययति⟫, sílaba da raiz do Aor. ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
+⟪कृ⟫ 8U: Caus. ⟪कारयति⟫, sílaba da raiz do Aor. ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
+⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, sílaba da raiz do Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत्⟫  
+⟪भू⟫ 1P: Caus. ⟪भावयति⟫, sílaba da raiz do Aor. ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
 
 Peculiaridades de certas raízes em Kielhorn, Grammatik § 435c ss.
 

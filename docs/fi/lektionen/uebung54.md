@@ -21,7 +21,7 @@ Muodosta seuraavien preesens- tai perfektimuotojen mukaiset aoristimuodot:
 | ⟪४⟫. | ⟪बभूव⟫ | minä / hän / he olivat / olette | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
 | ⟪५⟫. | ⟪दधति⟫ | he asettavat | ⟪अधुः⟫ |
 | ⟪६⟫. | ⟪ऐम⟫ | me menimme | ⟪अगाम⟫ |
-| ⟪७⟫. | ⟪पपिथ⟫ | sinä olet juonut / suojannut | ⟪अपाः⟫ (sig[⟪पा⟫] "juoda") |
+| ⟪७⟫. | ⟪पपिथ⟫ | sinä olet juonut / suojannut | ⟪अपाः⟫ (:sig[⟪पा⟫] "juoda") |
 | ⟪८⟫. | ⟪तिष्ठति⟫ | hän seisoo | ⟪अस्थात्⟫ |
 | ⟪९⟫. | ⟪इयेथ⟫ | sinä olet mennyt | ⟪अगाः⟫ |
 | ⟪१०⟫. | ⟪पप⟫ | te olette juoneet | ⟪अपात⟫ |

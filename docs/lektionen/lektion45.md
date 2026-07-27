@@ -38,7 +38,7 @@ status: stable
 ::: grammar-box
 **Wenn auslautendes k/g der Wurzel zwischen den Nasal ṅ und einen Dental der Endung zu stehen kommt, so kann wahlweise das k/g wegfallen**
 
-z.B. ⟪युज्⟫ 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ oder ⟪यु⟫sig[⟪ङ्ते⟫]
+z.B. ⟪युज्⟫ 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ oder ⟪यु⟫:sig[⟪ङ्ते⟫]
 :::
 ⟪युज्⟫ 7U
 
@@ -57,7 +57,7 @@ z.B. ⟪युज्⟫ 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ oder �
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indikativ Präsens** :br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
-| **Imperfekt** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br sig[⟪अरुण्स्⟫] (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
+| **Imperfekt** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br :sig[⟪अरुण्स्⟫] (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
 :::
 ## 45.2. Der Vokativ Singular (⟪आमन्त्रितमेकवचने⟫)

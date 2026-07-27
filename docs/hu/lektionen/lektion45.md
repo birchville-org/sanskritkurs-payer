@@ -38,7 +38,7 @@ status: stable
 ::: grammar-box
 **Ha a gyök végén álló k/g a ṅ mássalhangzó és a ragozás egy dentális mássalhangzója között helyezkedik el, akkor a k/g elhagyható**
 
-pl. ⟪युज्⟫ 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ vagy ⟪यु⟫sig[⟪ङ्ते⟫]
+pl. ⟪युज्⟫ 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ vagy ⟪यु⟫:sig[⟪ङ्ते⟫]
 :::
 ⟪युज्⟫ 7U
 
@@ -57,7 +57,7 @@ pl. ⟪युज्⟫ 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ vagy ⟪
 | --- | --- | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Indikativ Jelen idő** :br⟪लट्⟫ | ⟪रुणत्सि⟫:brru + na + dh + si | ⟪रुन्द्ध⟫:brru-n-dh + tha | ⟪रुन्त्से⟫ | ⟪रुन्द्ध्वे⟫ |
-| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br sig[⟪अरुण्स्⟫] (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
+| **Múlt idő (imperfektum)** :br⟪लङ्⟫ | ⟪अरुणत्⟫:braus a-ru-ṇa-dh + s:br :sig[⟪अरुण्स्⟫] (unregelm.!) | ⟪अरुन्द्ध⟫:bra-ru-n-dh + ta | ⟪अरुन्द्धास्⟫ | ⟪अरुन्द्ध्वम्⟫ |
 | **Kívánó mód (optativus)** :br⟪विधिलिङ्⟫ | ⟪रुन्ध्यास्⟫ | ⟪रुन्ध्यात⟫ | ⟪रुन्धीथास्⟫ | ⟪रुन्धीध्वम्⟫ |
 :::
 ## 45.2. A vocativus singularis (⟪आमन्त्रितमेकवचने⟫)

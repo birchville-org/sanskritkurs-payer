@@ -1,6 +1,6 @@
 ---
 title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,9 +9,9 @@ status: stable
 
 # บทที่ 39
 
-## 39.1. บุพบทบุคคลที่หนึ่ง (sig[तृतीयः] ⟪पुरुषः⟫ = "**บุพบทที่สาม**")
+## 39.1. บุพบทบุคคลที่หนึ่ง (:sig[तृतीयः] ⟪पुरुषः⟫ = "**บุพบทที่สาม**")
 
-บุพจน์ของบุคคลที่หนึ่ง (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**บุพบทที่สาม**") มีดังนี้:
+บุพจน์ของบุคคลที่หนึ่ง (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**บุพบทที่สาม**") มีดังนี้:
 
 ::: grammar-box
 

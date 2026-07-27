@@ -39,11 +39,11 @@ Esimerkki:
 Epäsäännölliset muodot:
 
 ::: indent
-⟪अस्⟫ 4P "heittää": sig[⟪आस्थम्⟫], sig[⟪आस्थत्⟫] (selitys ks. Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P "heittää": :sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫] (selitys ks. Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "kertoa": sig[⟪अख्यम्⟫], sig[⟪अख्यत्⟫]
+⟪ख्या⟫ + ⟪आ⟫ 2P "kertoa": :sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]
 
-⟪दृश्⟫ "nähdä": sig[⟪अदर्शम्⟫], sig[⟪अदर्शत्⟫] (korkea aste!)
+⟪दृश्⟫ "nähdä": :sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫] (korkea aste!)
 :::
 Huomaa:
 

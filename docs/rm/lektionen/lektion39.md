@@ -1,6 +1,6 @@
 ---
 title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,9 +9,9 @@ status: stable
 
 # Lektion 39
 
-## 39.1. Las desinenzas persunalas da la emprima persuna (sig[⟪उत्तमः⟫ ⟪पुरुषः⟫] = "**emprima** persuna")
+## 39.1. Las desinenzas persunalas da la emprima persuna (:sig[⟪उत्तमः⟫ ⟪पुरुषः⟫] = "**emprima** persuna")
 
-Las desinenzas da la prima persuna (sig[⟪उत्तमः⟫ ⟪पुरुषः⟫] = "**emprima** persuna") èn:
+Las desinenzas da la prima persuna (:sig[⟪उत्तमः⟫ ⟪पुरुषः⟫] = "**emprima** persuna") èn:
 
 ::: grammar-box
 

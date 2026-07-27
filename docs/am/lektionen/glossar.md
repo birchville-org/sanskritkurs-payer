@@ -466,7 +466,7 @@ outline: 2
 | ⟪भू⟫ | [bhū](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhū&filter=roman&accent=no&transLit=roman) | 1P | መፈጠር፣ መኖር | [31](/am/lektionen/lektion31#_31-2-) |
 | ⟪भृ⟫ | [bhṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhṛ&filter=roman&accent=no&transLit=roman) | 3U | መሸከም፣ ማምጣት፤ መደገፍ፣ መመገብ | [33](/am/lektionen/lektion33#_33-6-) |
 | ⟪भृत्य⟫ | [bhṛtya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhṛtya&filter=roman&accent=no&transLit=roman) | m | በታች ያለ፣ አገልጋይ | [28](/am/lektionen/lektion28#_28-10-) |
-| ⟪भोस्⟫ | [bhos](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhos&filter=roman&accent=no&transLit=roman) | — | የጥሪ ቃለ አጋኖ, ለምሳሌ: ሄ, ሄዳ, ኦ, ኤይ, ሃሎ, ሃይ! ብዙ ጊዜ አይተረጎምም። ይህ ቅንጣት ልዩ የሆነ ሳንዲ አለው: ከሁሉም ድምፅ ካላቸው ድምፆች በፊት, sig[] ተብሎ ይነበባል። | [46](/am/lektionen/lektion46#_46-2-) |
+| ⟪भोस्⟫ | [bhos](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhos&filter=roman&accent=no&transLit=roman) | — | የጥሪ ቃለ አጋኖ, ለምሳሌ: ሄ, ሄዳ, ኦ, ኤይ, ሃሎ, ሃይ! ብዙ ጊዜ አይተረጎምም። ይህ ቅንጣት ልዩ የሆነ ሳንዲ አለው: ከሁሉም ድምፅ ካላቸው ድምፆች በፊት, :sig[] ተብሎ ይነበባል። | [46](/am/lektionen/lektion46#_46-2-) |
 | ⟪भ्रम्⟫ | [bhram](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhram&filter=roman&accent=no&transLit=roman) | 1P | መዞር፣ መንከራተት | [46](/am/lektionen/lektion46#_46-2-) |
 | ⟪भ्रातृ⟫ | [bhrātṛ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=bhrātṛ&filter=roman&accent=no&transLit=roman) | m | ወንድም | [42](/am/lektionen/lektion42#_42-2-) |
 
@@ -585,7 +585,7 @@ outline: 2
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | ቀለም፣ የትውልድ መደብ (ዝንባሌ)። | [2](/am/lektionen/lektion02#_2-5-) |
 | ⟪वर्ण⟫ | [varṇa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṇa&filter=roman&accent=no&transLit=roman) | m | ቀለም፣ ዓይነት፣ መደብ። | [5](/am/lektionen/lektion05#_5-4-) |
 | ⟪वर्ष⟫ | [varṣa](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=varṣa&filter=roman&accent=no&transLit=roman) | n | ዝናብ፣ የዝናብ ወቅት፣ ዓመት | [25](/am/lektionen/lektion25#_25-5-) |
-| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | sig[] : መፈለግ፣ ማዘዝ፣ መመኘት | [52](/am/lektionen/lektion52#_52-7-) |
+| ⟪वश्⟫ | [vaś](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vaś&filter=roman&accent=no&transLit=roman) | 2P | :sig[] : መፈለግ፣ ማዘዝ፣ መመኘት | [52](/am/lektionen/lektion52#_52-7-) |
 | ⟪वसन्त⟫ | [vasanta](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasanta&filter=roman&accent=no&transLit=roman) | m | ("የሚያበራ" =) ጸደይ (ከመጋቢት እስከ ግንቦት) | [27](/am/lektionen/lektion27#_27-5-) |
 | ⟪वसिष्यते⟫ | Fut.: | — | br PPP: :br Inf | [27](/am/lektionen/lektion27#_27-5-) |
 | ⟪वसु⟫ | [vasu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=vasu&filter=roman&accent=no&transLit=roman) | n | ሀብት፣ ውድ ነገር፣ ንብረት፣ ይዞታ | [27](/am/lektionen/lektion27#_27-5-) |
@@ -663,7 +663,7 @@ outline: 2
 | ⟪शिशु⟫ | [śiśu](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiśu&filter=roman&accent=no&transLit=roman) | m | ልጅ፣ ግልገል | [49](/am/lektionen/lektion49#_49-4-) |
 | ⟪शिष्⟫ | [śiṣ](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣ&filter=roman&accent=no&transLit=roman) | 7P | መተው፣ ማስቀረት | [51](/am/lektionen/lektion51#_51-6-) |
 | ⟪शिष्य⟫ | [śiṣya](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śiṣya&filter=roman&accent=no&transLit=roman) | 3 | ሊማር የሚገባው = ተማሪ | [41](/am/lektionen/lektion41#_41-3-) |
-| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | መተኛት። ይህ ሥር በሁሉም የአሁን ጊዜ ግንድ ቅርጾች ከፍተኛ ደረጃ አለው፡ 1.sg.Ind.Präs.Ā sig[] (śe + e)። የሚከተሉት ቅርጾች በተለይ ልብ ሊባሉ ይገባል፡ 3.pl.Ind.P | [44](/am/lektionen/lektion44#_44-5-) |
+| ⟪शी⟫ | [śī](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śī&filter=roman&accent=no&transLit=roman) | 2Ā | መተኛት። ይህ ሥር በሁሉም የአሁን ጊዜ ግንድ ቅርጾች ከፍተኛ ደረጃ አለው፡ 1.sg.Ind.Präs.Ā :sig[] (śe + e)። የሚከተሉት ቅርጾች በተለይ ልብ ሊባሉ ይገባል፡ 3.pl.Ind.P | [44](/am/lektionen/lektion44#_44-5-) |
 | ⟪शीघ्र⟫ | [śīghra](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīghra&filter=roman&accent=no&transLit=roman) | 3 | ፈጣን፣ በፍጥነት | [43](/am/lektionen/lektion43#_43-4-) |
 | ⟪शील⟫ | [śīla](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śīla&filter=roman&accent=no&transLit=roman) | n | ልማድ፣ ወግ፣ ተፈጥሮ፣ ባህርይ፣ ጥሩ ልማድ = ሥነ ምግባር | [52](/am/lektionen/lektion52#_52-7-) |
 | ⟪शुचि⟫ | [śuci](https://www.sanskrit-lexicon.uni-koeln.de/scans/MWScan/2020/web/webtc/getword.php?key=śuci&filter=roman&accent=no&transLit=roman) | 3 | የሚያበራ፣ የሚያንጸባርቅ፣ የጠራ፤ m.: ንጽሕና | [29](/am/lektionen/lektion29#_29-2-) |

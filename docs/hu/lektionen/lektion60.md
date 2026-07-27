@@ -324,13 +324,13 @@ A kötőmag -i- használatára vonatkozó szabályok: lásd Kielhorn, Grammatik 
 1.  A gyök általában mély fokú: ⟪जीव्⟫ » ⟪जिजीविष⟫-
 
     1.  a szó végén álló -i, -u helyett -ī, illetve -ū kerül, ha nem következik kötőmag:
-⟪जि⟫ » ⟪जि⟫sig[⟪गी⟫]⟪ष⟫- "győzni kívánni"  
-⟪द्रु⟫ » ⟪दु⟫sig[⟪द्रू⟫]⟪ष⟫- "futni kívánni"
+⟪जि⟫ » ⟪जि⟫:sig[⟪गी⟫]⟪ष⟫- "győzni kívánni"  
+⟪द्रु⟫ » ⟪दु⟫:sig[⟪द्रू⟫]⟪ष⟫- "futni kívánni"
 
     2.  a szó végén álló -ṛ, -ṝ helyett -īr kerül, hangzókonsonánsok után pedig -ūr, ha nem következik kötőmag:
-⟪कृ⟫ » ⟪चि⟫sig[⟪कीर्ष⟫]\- "tenni kívánni"  
-⟪मृ⟫ » ⟪मु⟫sig[⟪मूर्ष⟫]\- "halni készülni"  
-⟪पॄ⟫ » ⟪पु⟫sig[⟪पूर्ष⟫]\- "tölteni kívánni"
+⟪कृ⟫ » ⟪चि⟫:sig[⟪कीर्ष⟫]\- "tenni kívánni"  
+⟪मृ⟫ » ⟪मु⟫:sig[⟪मूर्ष⟫]\- "halni készülni"  
+⟪पॄ⟫ » ⟪पु⟫:sig[⟪पूर्ष⟫]\- "tölteni kívánni"
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ és néhány más -ā, -e, -o végű gyökér mély fokú Ø-t mutat:
 ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
@@ -350,7 +350,7 @@ A kötőmag -i- használatára vonatkozó szabályok: lásd Kielhorn, Grammatik 
         1.  kötelező: i/u - mássalhangzóval rendelkező gyökök, valamint (mássalhangzó -) ṛ/ḷ - mássalhangzóval rendelkező gyökök:
 ⟪इष्⟫ » ⟪एषिषिष⟫- "kívánságot kívánni"  
 ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "alkalmasságot kívánni"  
-⟪स्मि⟫ » ⟪सि⟫sig[⟪स्म⟫]⟪यिष⟫- "mosolygást kívánni"
+⟪स्मि⟫ » ⟪सि⟫:sig[⟪स्म⟫]⟪यिष⟫- "mosolygást kívánni"
 
         2.  opcionális: (mássalhangzó -) i/u - mássalhangzós gyökök, kivéve -v\_
 ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "villanást kívánni"

@@ -1,6 +1,6 @@
 ---
 title: Lektion 39
-subtitle: "Die Personalendungen der ersten Person (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
+subtitle: "Die Personalendungen der ersten Person (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = \"**dritte** Person\")"
 lesson_id: 39
 last_reconstructed: 2026-05-21
 category: "Grammatik"
@@ -9,9 +9,9 @@ status: stable
 
 # 39. lecke
 
-## 39.1. Az első személyű végződések (sig[तृतीयः] ⟪पुरुषः⟫ = "**harmadik** személy")
+## 39.1. Az első személyű végződések (:sig[तृतीयः] ⟪पुरुषः⟫ = "**harmadik** személy")
 
-Az első személyű végződések (sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**harmadik** személy") a következők:
+Az első személyű végződések (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**harmadik** személy") a következők:
 
 ::: grammar-box
 

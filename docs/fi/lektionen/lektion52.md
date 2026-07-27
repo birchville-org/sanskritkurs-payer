@@ -214,7 +214,7 @@ Esimerkki:
 
 :::
 ::: indent
-⟪भस्मसात्कृ⟫sig[⟪त्वा⟫]
+⟪भस्मसात्कृ⟫:sig[⟪त्वा⟫]
 :::
 ## 52.5. Sanatoistot (⟪द्विरुक्तम्⟫)
 
@@ -252,7 +252,7 @@ Katso esim. Kielhorn, Grammatik §201f., mitä ei käsitellä täällä.
 **Luvut *1–19* ovat adjektiiveja.**
 **Luvut **1–4** taivutetaan eri tavalla kolmessa sukuluokassa.**
 
-**Lukusanoille 5–19 (sig[⟪नवदशन्⟫]) on vain yksi taivutusmuoto kaikille kolmelle sukuluokalle.**
+**Lukusanoille 5–19 (:sig[⟪नवदशन्⟫]) on vain yksi taivutusmuoto kaikille kolmelle sukuluokalle.**
 
 **Nämä lukusanat, kuten kaikki adjektit, taivutetaan samassa sijassa, luvussa ja sukuluokassa kuin niihin liittyvä substantiivi (eli yksikössä 1, kaksikossa 2 ja muissa monikossa).**
 :::
@@ -327,16 +327,16 @@ kerran: ⟪सकृत्⟫
 kaksi kertaa: ⟪द्विस्⟫
 kolme kertaa: ⟪त्रिस्⟫
 neljästi: ⟪चतुस्⟫
-viidesti jne. muodostetaan suffiksilla -sig[⟪कृत्वस्⟫]: ⟪पञ्चकृत्वस्⟫
+viidesti jne. muodostetaan suffiksilla -:sig[⟪कृत्वस्⟫]: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-kertainen": ilmaistaan suffiksilla -sig[⟪धा⟫]
+b) "-kertainen": ilmaistaan suffiksilla -:sig[⟪धा⟫]
 
 ::: indent
 yksinkertainen: ⟪एकधा⟫
 kaksinkertainen: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
 jne.
 :::
-c) "kumpikin ...", "... kullekin": ilmaistaan suffiksilla -sig[⟪शस्⟫] (katso yllä!)
+c) "kumpikin ...", "... kullekin": ilmaistaan suffiksilla -:sig[⟪शस्⟫] (katso yllä!)
 
 ::: indent
 ⟪द्विशस्⟫ "kahdestaan, kaksi kumpaakin"
@@ -349,7 +349,7 @@ c) "kumpikin ...", "... kullekin": ilmaistaan suffiksilla -sig[⟪शस्⟫] 
 kaksinkertainen, kahdesta koostuva
 kolminkertainen, kolmesta osasta koostuva
 
-alkaen numerosta 4 "-fältig" ilmaistaan suffiksilla -sig[⟪तय⟫] (f.: -sig[⟪तयी⟫]): ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "nelinkertainen"
+alkaen numerosta 4 "-fältig" ilmaistaan suffiksilla -:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫]): ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "nelinkertainen"
 :::
 Lisäksi muodostelmia koskevia tietoja löytyy sanakirjoista tai kielioppioppikirjoista.
 
@@ -409,7 +409,7 @@ Jalakandapuram = ஜலகண்டபுரம்
 ::: grammar-box
 **Kardinaalilukua (mutta ei ilmansuuntaa) merkitsevä sana voi toimia yhdyssanan etuosana toisen substantiivin kanssa muodostaen tatpuruṣa-yhdyssanan, vaikka näin muodostettu yhdyssana tarkoittaa useamman asian aggregaattia eli yhdistää kaksi tai useampia asioita yhteen.**
 
-**Tatpuruṣa, jotka muodostuvat tämän säännön mukaisesti ja joita kutsutaan Dviguiksi (sig[⟪द्विगु⟫]).**
+**Tatpuruṣa, jotka muodostuvat tämän säännön mukaisesti ja joita kutsutaan Dviguiksi (:sig[⟪द्विगु⟫]).**
 
 **Dvigu-yhdyssanat, jotka merkitsevät yhtä kokonaisuutta, ovat yleensä keskisukua. Jos toinen jäsen päättyy vokaaliin -a, feminiinisukuun liittyvä suffiksi -ī voi liittyä siihen. Jos toinen jäsen päättyy feminiiniseen muotoon -ā, sen tilalle tulee joko keskisukuinen muoto -a tai feminiininen muoto -ī. Jos toinen jäsen päättyy vokaaliin -an, sen tilalle tulee joko muoto -a tai muoto -ī.**
 :::
@@ -501,7 +501,7 @@ Kuv.: ⟪प्रधानः⟫
 ::: indent
 ⟪त्रिवर्ग⟫ m.: kolmen ryhmä (esim. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; tai: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; tai: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, sig[⟪उशन्ति⟫], Imperat. 2.sg.: sig[⟪उड्ढि⟫] : tahtoa, käskyttää, vaatia
+⟪वश्⟫ 2P ⟪वस्टि⟫, :sig[⟪उशन्ति⟫], Imperat. 2.sg.: :sig[⟪उड्ढि⟫] : tahtoa, käskyttää, vaatia
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
@@ -656,7 +656,7 @@ Inf. ⟪त्रातुम्⟫
 ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫
 ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫
 ⟪एतद्विद्यात्समासेन⟫
-⟪लक्षणं⟫ ⟪सुखदुःख⟫sig[⟪योः⟫] ⟪॥१६०॥⟫
+⟪लक्षणं⟫ ⟪सुखदुःख⟫:sig[⟪योः⟫] ⟪॥१६०॥⟫
 
 ⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्⟫
 ⟪परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫
@@ -669,7 +669,7 @@ Selitys: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandva)
 
 ::: indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
-⟪स्मृतिशी⟫sig[⟪ले⟫] ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
+⟪स्मृतिशी⟫:sig[⟪ले⟫] ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
@@ -677,7 +677,7 @@ Selitys:  ⟪स्मृतिशीले⟩ Nom.Akk.Dual.n. (Dualdvandva)
 :::
 ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ hallitsijan elämässä
 
-⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫sig[⟪मितरौ⟫] ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫sig[⟪मूलौ⟫] ⟪हि⟫ ⟪धर्मका⟫sig[⟪मावि⟫]⟪ति⟫ ⟪।७।⟫
+⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫:sig[⟪मितरौ⟫] ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫:sig[⟪मूलौ⟫] ⟪हि⟫ ⟪धर्मका⟫:sig[⟪मावि⟫]⟪ति⟫ ⟪।७।⟫
 
 ::: indent
 Selitykset:
