@@ -46,31 +46,10 @@ import { getSidebarItems } from './utils.mjs'
 
 function populateSidebar(localeObj, lektionLabel, lektionPrefix, schriftLabel, uebungLabel) {
   if (!localeObj || !localeObj.themeConfig || !Array.isArray(localeObj.themeConfig.sidebar)) return;
-  
-  const oldSidebar = localeObj.themeConfig.sidebar;
-  const newSidebar = [];
-  
-  const itemGroups = oldSidebar.filter(g => Array.isArray(g.items));
-  const lektionGroup = itemGroups[0];
-  const schriftGroup = itemGroups[1];
-  const uebungGroup = itemGroups[2];
-
-  for (const item of oldSidebar) {
-    if (item === lektionGroup) {
-      const groups = getSidebarItems('lektion', lektionLabel, lektionPrefix, 10);
-      newSidebar.push(...groups);
-    } else if (item === schriftGroup) {
-      const items = getSidebarItems('schrift', schriftLabel, lektionPrefix);
-      newSidebar.push({ text: item.text, collapsed: true, items });
-    } else if (item === uebungGroup) {
-      const groups = getSidebarItems('uebung', uebungLabel, lektionPrefix, 10);
-      newSidebar.push(...groups);
-    } else {
-      newSidebar.push(item);
-    }
-  }
-  
-  localeObj.themeConfig.sidebar = newSidebar;
+  const itemGroups = localeObj.themeConfig.sidebar.filter(g => Array.isArray(g.items));
+  if (itemGroups[0]) itemGroups[0].items = getSidebarItems('lektion', lektionLabel, lektionPrefix, 10);
+  if (itemGroups[1]) itemGroups[1].items = getSidebarItems('schrift', schriftLabel, lektionPrefix);
+  if (itemGroups[2]) itemGroups[2].items = getSidebarItems('uebung', uebungLabel, lektionPrefix, 10);
 }
 
 populateSidebar(de, 'Lektion', 'root', 'Schrift', 'Übung');

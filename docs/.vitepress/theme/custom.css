@@ -105,6 +105,16 @@ html {
   font-family: "Inter", sans-serif !important;
 }
 
+/* Sidebar Header Reset (fixes leaking global h2 styles from markdown-it-extensible) */
+.VPSidebar h2,
+.VPSidebar .text {
+  margin-top: 0 !important;
+  border-top: none !important;
+  padding-top: 4px !important;
+  font-family: "Inter", sans-serif !important;
+}
+
+
 .vp-doc p, .vp-doc li, .vp-doc table {
   font-size: 1.1rem;
   line-height: 1.55;
