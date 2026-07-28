@@ -111,7 +111,7 @@ A) จงแปลเป็นภาษาสันสกฤต (สำหรั
 ::: indent
 ดูเรื่องการแบ่งแยกสังฆะ (⟪सङ्घभेद⟫) ได้ที่:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : แนวคิดพื้นฐานของกฎระเบียบคณะสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุสำหรับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎระเบียบคณะสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุสำหรับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2\. ท่านทั้งหลายได้เสวยสุขบนแผ่นดินหรือยัง?
 

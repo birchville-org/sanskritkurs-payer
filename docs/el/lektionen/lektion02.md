@@ -72,11 +72,11 @@ last_reconstructed: 2026-04-30
 
 Δείτε επίσης την επισκόπηση:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-Auslautendes **-s**:
+Τελικό **-s**:
 
-- **im absoluten Auslaut** (Satzende) wird es zu **Visarga (-ḥ)**:
+- **σε απόλυτο τέλος** (τέλος πρότασης) γίνεται **Visarga (-ḥ)**:
   - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
   - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
   - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
@@ -160,7 +160,7 @@ Auslautendes **-s**:
 
 Οι τρεις τάξεις φορούν την αντίστοχη ενδυμασία της τάξης τους. Πάνω από τις -- έτσι ονομαζόμενες ως θεοθελημένες -- τάξεις θronίζει ο Χριστός.
 
-Ο Μάξ Βέμπερ \&lt;1864 – 1920\&gt; ορίζει την τάξη ως εξής:
+Ο Μάξ Βέμπερ (1864–1920) ορίζει την τάξη ως εξής:
 
 ::: note-box
 »**Τάξη**« πρέπει να σημαίνει ένα σύνολο ανθρώπων που εντός ενός συνόλου ενεργεί
@@ -180,7 +180,7 @@ Auslautendes **-s**:
 
 Κάθε σταδιακή κοινωνία είναι συμβατική, διατεταγμένη από κανόνες της συμπεριφοράς στη ζωή, δημιουργεί επομένως οικονομικά μη ρασιονάλιες συνθήκες κατανάλωσης και εμποδίζει με αυτόν τον τρόπο, μέσω μονοπωλιακών προσ appropriatedων και μέσω της εξάλειψης της ελεύθερης διαθεσιμότητας της δικής της ικανότητας απόκτησης, την ελεύθερη δημιουργία αγοράς.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
 Τα Varṇas είναι, ως εκ τούτου, στάδια γέννησης.
 

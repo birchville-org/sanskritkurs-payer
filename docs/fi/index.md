@@ -24,17 +24,17 @@ features:
 
 
 
-::: note-box  Version 1.6 — Global Integrity & Stabilität
-**Uusi versiossa 1.6 (heinäkuu 2026):**
+::: note-box  Versio 1.6.4 — Globaalinen eheys, SSOT & Stabilität
+**Uutta versiossa 1.6.4 (heinäkuu 2026):**
 
-- **100 % valmius 19 kielellä:** Arabia, heprea, aramea, yksinkertaistettu kiina, indonesia, hindi, tamili, punjabi, latina, romania ja retoromaani ovat nyt täysin konekäännetyt (laatu ei taattu; pelkkä toimivuustutkimus ilman kieliasiantuntijoiden tarkistusta).
-- **RTL-tuki:** Alkuperäinen oikealta vasemmalle suuntautuvien kielten (arabia, heprea) asetustuki mukaan lukien täysin lokalisoitu käyttöliittymä.
-- **PWA & Offline-first:** Kaikkien aktiivisten kieliversioiden kurssisisältöjen täysin virheetön offline-käyttö.
-- **Tekijän versio & editor:** Täydellinen editori kieliasiantuntijoille (QA-katselu) epäsinkronoidulla tekoälytakajärjestelmällä erittäin vakaisiin massakäännöksiin.
+- **100 % valmius 21 kohdekielen varmistus:** 21 kieltä (mukaan lukien muinaiskreikka, suomi, unkari, arabia, heprea, latina, yksinkertaistettu kiina jne.) on nyt käännetty täysin ilman varajärjestelmiä ja lukittu kirjoitussuojaksi absoluuttisella kokonaislukolla.
+- **Täydellinen käyttöliittymän paikannus (SSOT):** Kaikki navigointi- ja ohjauselementit (Edellinen/seuraava oppitunti, harjoitukset, sisällysluettelo) toimitetaan dynaamisesti kaikkien 32 kielen kautta keskitetystä kielirekisteristä.
+- **Typografia & laadunvalvonta:** Pystysuora Devanagari-tyyppi ilman kursivointivääristymiä, purkatut punaiset signaalimerkit ja siistityt tekstikohdat kaikkien valmiiden kieliversioiden läpi.
+- **PWA & offline-ensimmäinen:** Kaikkien kurssisisältöjen täysi offline-käyttö kaikkien aktiivisten kieliversioiden läpi.
 
-**Huomautukset ja virheilmoitukset ovat tervetulleita osoitteeseen:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Osallistu kieliasiantuntijana tai kuraattorina:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Huomautukset ja virheraportit ovat tervetulleita osoitteeseen:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Osallistu toimituskuntana tai kuraattorina:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 
-- Tekijöille (ja niille, jotka haluavat käyttää kevyttä Markdown-standalone-editoria) on saatavilla avoimen lähdekoodin editori osoitteessa https://github.com/marcodem/zentauri
+- Kirjoittajille (ja niille, jotka haluavat käyttää kevyttä Markdown-standalone-editoria) on saatavilla avoimen lähdekoodin editori osoitteessa https://github.com/marcodem/zentauri
 
 :::

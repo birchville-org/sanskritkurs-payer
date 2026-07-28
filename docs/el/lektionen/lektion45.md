@@ -111,7 +111,7 @@ status: stable
 ::: indent
 για τη διχάωση της κοινότητας (⟪सङ्घभेद⟫) δείτε:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Βασικές έννοιες των κανόνων της τάξης και του δικαίου της τάξης του Theravāda. -- Μέρος I. -- (Υλικά για τις βασικές έννοιες του Βουδισμού). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Βασικές έννοιες των κανόνων της τάξης και του δικαίου της τάξης του Theravāda. -- Μέρος I. -- (Υλικά για τις βασικές έννοιες του Βουδισμού). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2\. Απολαύσατε τη γη;
 

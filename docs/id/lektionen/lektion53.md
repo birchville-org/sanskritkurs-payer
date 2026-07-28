@@ -484,7 +484,7 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 See also:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Pengantar Eksegesis Teks Sanskerta : Naskah. -- Bab 8: Eksegesa Aktual, Bagian II: Tentang Pertanyaan Khusus Pemahaman Sinkron. -- Lampiran B: Tentang Metrik Teks Sanskerta. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois (1944–):** Pengantar Eksegesis Teks Sanskerta : Naskah. -- Bab 8: Eksegesa Aktual, Bagian II: Tentang Pertanyaan Khusus Pemahaman Sinkron. -- Lampiran B: Tentang Metrik Teks Sanskerta. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Bedeutung  Bestimmung  Metrums
 
@@ -492,7 +492,7 @@ Penentuan metrum penting karena alasan berikut:
 
 1.  **Secara estetis:** ukuran syair berkontribusi, antara lain, pada keindahan suatu ucapan. Selanjutnya, ukuran syair tertentu dapat berfungsi untuk mengekspresikan suasana hati tertentu, atau mereka ditugaskan untuk kelas sosial tertentu (⟪वर्ण⟫). Berbagai ukuran syair diresitasikan secara berbeda satu sama lain. :br Kesan yang baik tentang efek estetis dapat diberikan, misalnya, oleh resitasi ⟪शिवताण्डवस्तोत्र⟫ (pujian terhadap tarian Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Secara tekstual:** kesalahan dalam ukuran syair dapat menjadi indikasi bahwa teks tidak ditransmisikan dengan benar pada titik tertentu. Ukuran syair membantu dalam melakukan emendasi tekstual.
-3.  **Secara kronologis:** ukuran syair tertentu mengalami perubahan spesifik sepanjang sejarah. Hal ini dapat membantu dalam penanggalan perkiraan sebuah teks. Lihat **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Tentang Sejarah Triṣṭhubh ; oleh penulis yang sama: Tentang Sejarah Śloka. -- Keduanya dicetak dalam: :br **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Tulisan-tulisan Kecil / Hermann Oldenberg. Disunting oleh Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 jilid. -- (Glasenapp-Stiftung ; ...). -- Jilid 2. -- 1967. -- hlm. 1188 - 1255.
+3.  **Secara kronologis:** ukuran syair tertentu mengalami perubahan spesifik sepanjang sejarah. Hal ini dapat membantu dalam penanggalan perkiraan sebuah teks. Lihat **Oldenberg, Hermann (1854–1920):** Tentang Sejarah Triṣṭhubh ; oleh penulis yang sama: Tentang Sejarah Śloka. -- Keduanya dicetak dalam: :br **Oldenberg, Hermann (1854–1920):** Tulisan-tulisan Kecil / Hermann Oldenberg. Disunting oleh Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 jilid. -- (Glasenapp-Stiftung ; ...). -- Jilid 2. -- 1967. -- hlm. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -637,7 +637,7 @@ Alois Maria Payer
 ::: deleteme-box
 **Sumber**
 
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskrit Course. -- 53rd Lesson 53 (Semester Break). -- Version from 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois (1944–):** Sanskrit Course. -- 53rd Lesson 53 (Semester Break). -- Version from 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
@@ -646,6 +646,6 @@ Alois Maria Payer
 :::
 ::: deleteme-box
 
-**Payer, Alois \&lt;1944 - \&gt;:** Kursus Sanskerta. -- 53. Pelajaran 53 (Libur semester). -- Versi dari 2009-01-19. -- Sumber gambar tabel asli 53.9: Tangkapan layar dari sumber asli (Payer).
+**Payer, Alois (1944–):** Kursus Sanskerta. -- 53. Pelajaran 53 (Libur semester). -- Versi dari 2009-01-19. -- Sumber gambar tabel asli 53.9: Tangkapan layar dari sumber asli (Payer).
 :::
 

@@ -133,7 +133,7 @@ Profesor de Lingüística Comparada, Universidad de Erlangen-Núremberg (1955 - 
 :::
 
 ::: indent
-Hoffmann, Karl &lt;1915 - 1996&gt;: El injuntivo en el Veda : un estudio sincrónico de funciones / por Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 pág. -- (Biblioteca Indogermánica : 3ª serie, Investigaciones)
+Hoffmann, Karl (1915–1996): El injuntivo en el Veda : un estudio sincrónico de funciones / por Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 pág. -- (Biblioteca Indogermánica : 3ª serie, Investigaciones)
 :::
 El injuntivo en el Veda posee las siguientes propiedades:
 
@@ -191,7 +191,7 @@ Además, existen otras formas menos frecuentes de oraciones prohibitivas; véase
 
 :::
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) \&lt;1849-1913\&gt;: Sintaxis sánscrita. -- Leyden : Brill, 1886. -- § 353.
+Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sintaxis sánscrita. -- Leyden : Brill, 1886. -- § 353.
 :::
 ::: media
 ![](/images/lekt5603.webp)

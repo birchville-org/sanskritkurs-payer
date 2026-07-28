@@ -373,7 +373,7 @@ davon:
 :::
 关于 ⟪राहु⟫ 和 ⟪केतु⟫，请参阅：
 
-> **佩尔，阿洛伊斯 \&lt;1944 - \&gt;：** 法论：导论与概览。 -- 10. 圣礼与过渡仪式（samskara）。 -- 附录C：罗睺与计都，隐形的游星。 -- 网址：[http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **佩尔，阿洛伊斯 (1944–)：** 法论：导论与概览。 -- 10. 圣礼与过渡仪式（samskara）。 -- 附录C：罗睺与计都，隐形的游星。 -- 网址：[http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 图：[⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/zh-CN/licenses#lekt4602)

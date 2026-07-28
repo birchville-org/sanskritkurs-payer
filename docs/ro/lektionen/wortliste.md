@@ -71,7 +71,7 @@ Fig.: Reprezentarea diviziunii pe caste a Europei medievale (gravură pe lemn di
 
 Cele trei caste poartă vestimentația specifică fiecărei caste. Deasupra – astfel numite ca fiind voia divină – castele, domnește Hristos.
 
-Max Weber \&lt;1864 – 1920\&gt; definește castea astfel:
+Max Weber (1864–1920) definește castea astfel:
 
 ::: note-box
 »**Casta**« ar trebui să însemne o mulțime de oameni care, în interiorul unei asociații, exercită
@@ -91,7 +91,7 @@ Dezvoltarea castei de naștere este, în mod regulat, o formă de apropiere (ere
 
 Orice societate castală este convențională, ordonată prin reguli de conduită, creează, prin urmare, condiții economice de consum irationale și, în acest fel, prin aproprierea monopolistă și prin excluderea dispoziției libere asupra capacității proprii de câștig, împiedică formarea liberă a pieței.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
 Varṇas sunt, în consecință, caste de naștere.
 
@@ -393,7 +393,7 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 ::: note-box
 În India, se atribuia cuvântului adevărat o putere magică; ba chiar întreaga ordine cosmică este menținută și creată de cuvântul adevărat. Pentru această concepție importantă, consultați lucrarea fundamentală:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Editat din arhivă de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Editat din arhivă de Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna și Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
 :::: media
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
@@ -577,7 +577,7 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 >
 > În acest sens, s-a găsit o derivare diferită pentru el: sursa nu mai este asu, „sufl”, ci inițiala *a* este luată ca prefix negativ, iar *asura* semnifică „nu un zeu;” de aceea, conform unora, a apărut cuvântul *sura*, folosit comun pentru „un zeu.””
 >
-> [Sursă: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Sursă: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -2882,7 +2882,7 @@ Fig.: ⟪शास्त्री⟫
 ::: deleteme-box
 vezi și:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concepte fundamentale ale regulilor monahale și ale dreptului monahal al Theravāda. -- Partea I. -- (Materiale pentru conceptele fundamentale ale budismului). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Concepte fundamentale ale regulilor monahale și ale dreptului monahal al Theravāda. -- Partea I. -- (Materiale pentru conceptele fundamentale ale budismului). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: fată tânără, fiică, fecioară
 
@@ -3279,7 +3279,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 Vezi:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concepte fundamentale ale regulilor monahale și ale dreptului monahal al Theravāda. -- Partea I. -- (Materiale pentru conceptele fundamentale ale buddhismului). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Concepte fundamentale ale regulilor monahale și ale dreptului monahal al Theravāda. -- Partea I. -- (Materiale pentru conceptele fundamentale ale buddhismului). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::: media
 ![](/images/lekt4408.webp)
@@ -3331,7 +3331,7 @@ din care:
 :::
 Pentru ⟪राहु⟫ și ⟪केतु⟫ vezi:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Introducere și prezentare generală. -- 10. Sacramente și rituri de trecere (samskara). -- Anexa C: Rahu și Ketu, planetele errante invizibile . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Introducere și prezentare generală. -- 10. Sacramente și rituri de trecere (samskara). -- Anexa C: Rahu și Ketu, planetele errante invizibile . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/ro/licenses#lekt4602)
@@ -3659,7 +3659,7 @@ vezi:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Texte selectate din Carakasaṃhitā / traduse și comentate de Alois Payer \&lt;1944 - \&gt;. -- 0. Introducere. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Texte selectate din Carakasaṃhitā / traduse și comentate de Alois Payer (1944–). -- 0. Introducere. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : a arunca, a proiecta
 

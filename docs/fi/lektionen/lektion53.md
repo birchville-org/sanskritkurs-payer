@@ -484,7 +484,7 @@ Kuv.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 Katso myös:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Johdatus sanskritintekstien eksegeesiin : käsikirjoitus. -- Luku 8: Oikea eksegeesi, osa II: Yksittäisiä kysymyksiä synkronisesta ymmärtämisestä. -- Liite B: Sanskritintekstien metriikasta. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois (1944–):** Johdatus sanskritintekstien eksegeesiin : käsikirjoitus. -- Luku 8: Oikea eksegeesi, osa II: Yksittäisiä kysymyksiä synkronisesta ymmärtämisestä. -- Liite B: Sanskritintekstien metriikasta. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Mitan määrittämisen merkitys
 
@@ -492,7 +492,7 @@ Mitan määrittäminen on tärkeää seuraavista syistä:
 
 1.  **Estetiikka:** runomitta tekee osaltaan esityksen kauneudesta. Tietyt runomitat voivat myös palvella tiettyjen mielialojen ilmaisemista, tai ne on liitetty tiettyihin yhteiskuntaluokkiin (⟪वर्ण⟩). Eri runomittoja recitoidaan eri tavoin. :br Hyvän kuvan estettisestä vaikutuksesta antaa esimerkiksi ⟪शिवताण्डवस्तोत्र⟩ (Śivan tanssin ylistys): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Tekstikritiikki:** virheet runomitassa voivat viitata siihen, että tekstiä ei ole välitetty oikein kohdasta. Runomitta auttaa tekemään tekstiparannuksia.
-3.  **Kronologia:** tietyt runomitat ovat kokeneet tiettyjä muutoksia historian kuluessa. Tämä voi auttaa tekstin suunnilleen ajoittamisessa. Katso **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Zur Geschichte der Triṣṭhubh ; sama kirjoittaja: Zur Geschichte des Śloka. -- Molemmat julkaistu teoksessa: :br **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Kleine Schriften / Hermann Oldenberg. Toim. Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 osaa. -- (Glasenapp-Stiftung ; ...). -- Os. 2. -- 1967. -- Ss. 1188 - 1255.
+3.  **Kronologia:** tietyt runomitat ovat kokeneet tiettyjä muutoksia historian kuluessa. Tämä voi auttaa tekstin suunnilleen ajoittamisessa. Katso **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; sama kirjoittaja: Zur Geschichte des Śloka. -- Molemmat julkaistu teoksessa: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Toim. Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 osaa. -- (Glasenapp-Stiftung ; ...). -- Os. 2. -- 1967. -- Ss. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -637,7 +637,7 @@ Alois Maria Payer
 ::: deleteme-box
 **Lähteet**
 
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurssi. -- 53. Luento 53 (Semesterialan loma). -- Versio päivätty 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois (1944–):** Sanskritkurssi. -- 53. Luento 53 (Semesterialan loma). -- Versio päivätty 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
@@ -646,6 +646,6 @@ Alois Maria Payer
 :::
 ::: deleteme-box
 
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurssi. -- 53. Luento 53 (Semesterialan loma). -- Kuvan lähde alkuperäiseen taulukkoon 53.9: Alkuperäisen lähteen (Payer) kuvakaappaus.
+**Payer, Alois (1944–):** Sanskritkurssi. -- 53. Luento 53 (Semesterialan loma). -- Kuvan lähde alkuperäiseen taulukkoon 53.9: Alkuperäisen lähteen (Payer) kuvakaappaus.
 :::
 

@@ -237,7 +237,7 @@ z.B.
 ::: note-box
 Ἰνδοῖς τὸ ἀληθὲς λόγιον μαγικὴν ἰσχὺν ἐπέκειτο, ἀλλὰ καὶ ὁλόκληρος ἡ κόσμου τάξις διὰ τοῦ ἀληθοῦς λόγου συντηρεῖται καὶ δημιουργεῖται. Περὶ ταύτης τῆς σπουδαίας ἔννοιας βλέπε τὸ θεμελιῶδες ἔργον:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Ex τῶν ἐκ διαταγῆς ἐκδιδόμενον ὑπὸ Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Τόμ. 2: Varuna καὶ τὸ Ṛta. -- 1959. -- XXIII σελ., σελ. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ex τῶν ἐκ διαταγῆς ἐκδιδόμενον ὑπὸ Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Τόμ. 2: Varuna καὶ τὸ Ṛta. -- 1959. -- XXIII σελ., σελ. 340 - 764
 :::
 
 ::: media

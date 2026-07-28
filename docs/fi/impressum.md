@@ -10,7 +10,7 @@ title: "Julkaisija ja viittaaminen"
 *Seuraava teksti on siirretty erilleen oppituntitiedostoista lukemisen sujuvuuden parantamiseksi.*
 
 ## Viittaustapa | cite as:
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskrittiopetus. -- Versio vuodelta 2010. -- URL: http://www.payer.de/sanskritkurs/
+**Payer, Alois (1944–):** Sanskrittiopetus. -- Versio vuodelta 2010. -- URL: http://www.payer.de/sanskritkurs/
 
 ## Aihe
 Luotu opetustilaisuuksia varten 1980 - 1984

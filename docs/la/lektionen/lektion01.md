@@ -74,7 +74,7 @@ Ad initium quoddam curiosum:
 
 >"Cum Gulielmus Jones [1746–1794] et Henricus Thomas Colebrooke (1765—1857) Sanscritum primum diligenter studuissent, partim transtulissent, et invenissent quod haberet litteraturam opulentam et non parvam affinitatem cum linguis classicis, non parvam oppositionem invenerunt. Quia haec intima relatio Sanscriti ad linguas Europaeas geographice tam remotas cum antiquis opinionibus, quae vel omnes linguas e Hebraico deducebant vel plerumque inter se isolatas erant, congruere non poterat, clarissimus philologus Dugaldus Steward (1753—1828) simplicissimam viam elegit, cum totam historiam cum lingua Sanscrita mendacium esse declaravit. Scripsit essayum, in quo conari volebat probare quod a Brahmanis callidis secundum exemplum Graecorum et Latinorum composita esset, et lingua tamquam litteratura falsificata esset. Hanc opinionem adhuc anno 1840 professor in Dublinia, Carolus Gulielmus Wall, latius explicavit (Göttingische gelehrte Anzeigen 1842 p. 1888)."
 >
->[Fons: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- Monaci : Langen. -- Vol. 2. -- 1923. -- p. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Accessus die 2010-01-10]
+>[Fons: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- Monaci : Langen. -- Vol. 2. -- 1923. -- p. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Accessus die 2010-01-10]
 
 ## 1.1. Litteratura pro principiantes in Indologia
 
@@ -84,7 +84,7 @@ Fig.: Titulus operis popularis
 (Fons imaginis: [Detalia](/la/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Pars: Conspectus culturae subcontinentis Indicae ante adventum Muslimorum. -- Londinii
+>**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Pars: Conspectus culturae subcontinentis Indicae ante adventum Muslimorum. -- Londinii
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -94,7 +94,7 @@ Tab.: Titulus
 
 **Optima grammatica systematica**
 
-> **Kielhorn**, Franz \&lt;1840-1908\&gt;: Grammatica linguae Sanscriticae / e lingua Anglica versa a W. Solf [1862 - 1936]. -- Berolinum : Dümmler, 1888. -- XIII, 238 pag. -- Titulus originalis: A grammar of the Sanscrit language
+> **Kielhorn**, Franz (1840–1908): Grammatica linguae Sanscriticae / e lingua Anglica versa a W. Solf [1862 - 1936]. -- Berolinum : Dümmler, 1888. -- XIII, 238 pag. -- Titulus originalis: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -114,7 +114,7 @@ Tab.: Titulus operis
 
 Bonam, succinctamque Europaeae linguae scientiae terminologiam invenies in:
 
-> **Etymologium verborum Germanicorum** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. Curavit Elmar Seebold. -- 24., emendata et aucta ed. -- Berolinum [et al.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Copertina mollus. -- P. XIII - XLVII.
+> **Etymologium verborum Germanicorum** / [Friedrich] Kluge (1856–1926). Curavit Elmar Seebold. -- 24., emendata et aucta ed. -- Berolinum [et al.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Copertina mollus. -- P. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)

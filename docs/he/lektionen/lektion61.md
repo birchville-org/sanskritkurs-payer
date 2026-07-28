@@ -559,7 +559,7 @@ Beispiele:
 :::
 
 ::: indent
-**וסטרגארד**, נילס לודוויג \&lt;1815-1878\&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- בונה על הריין : קוניג, 1841. -- עמ' 335 - 341.
+**וסטרגארד**, נילס לודוויג (1815–1878): Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- בונה על הריין : קוניג, 1841. -- עמ' 335 - 341.
 :::
 ## 61.5. הבניין הברכתי (⟪आशीर्लिङ्⟫)
 

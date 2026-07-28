@@ -767,9 +767,9 @@ Mahābhārata : Intian suuri epos / sanskritista käänt. ja tiivist. Biren Roy.
 8.  Läpikäynti:
 **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Alkuperäisesti malajalamiksi kirjoitettu. Käännös englanniksi K.V.R. Pai. -- Parathode : Omakustanne, 1983. -- 818 s.; 23 cm. -- S. 208 - 254 (Syntaktinen hallinta)
 9.  Valmis läpikäynti:
-**Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**The wonder that was IndiaOsa: Tutkimus Intian niemimaan kulttuurista ennen muslimien saapumista. -- Lontoo : Sidgwick & Jackson, 1954.
+**Basham, A. L. (Arthur Llewellyn) (1914–1986)**The wonder that was IndiaOsa: Tutkimus Intian niemimaan kulttuurista ennen muslimien saapumista. -- Lontoo : Sidgwick & Jackson, 1954.
 10.  Aloitus läpikäynnistä:
-**Winternitz, Moriz \&lt;1863 - 1937\&gt;:** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 osaa. -- 1908 - 1922 (edelleen kaukana paras sanskrit-, pali- ja prakrit-kirjallisuuden historia)
+**Winternitz, Moriz (1863–1937):** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 osaa. -- 1908 - 1922 (edelleen kaukana paras sanskrit-, pali- ja prakrit-kirjallisuuden historia)
 
 ::: media
 ![](/images/lekt5201.webp)

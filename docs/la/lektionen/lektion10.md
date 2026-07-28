@@ -193,7 +193,7 @@ e.g.
 
 Nomen traditionale indigenum pro hac formatione gradus profundi in verbis cum **ya** sive **va** est **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
-5. **Auslautendes -ṛ** nach einem einzigen Konsonanten wird vor dem Passivsuffix **-ya-** durch **-ri-** ersetzt:
+5. **-ṛ finale** post unicum consonanten ante suffixum passivum **-ya-** per **-ri-** mutatur:
    * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
    * Aber: **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
 
@@ -237,7 +237,7 @@ Morphologia: **yaj** 1 U + suffixum kṛt **-na-**.
 ::: note-box
 In India, verum verbum vim magicam habere putabatur, immo totum ordinem mundi per verum verbum conservari et creari. De hac opinione magna vide fundamentale opus:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Ex testamento ed. a Ludovico Alsdorf. - Gottingae : Vandenhoeck & Ruprecht. -- Tom. 2: Varuna et Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ex testamento ed. a Ludovico Alsdorf. - Gottingae : Vandenhoeck & Ruprecht. -- Tom. 2: Varuna et Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
 :::
 
 ::: media

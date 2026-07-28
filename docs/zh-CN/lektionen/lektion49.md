@@ -190,7 +190,7 @@ status: stable
 
 :::
 ::: indent
-**《车拉卡本集》：选自《车拉卡本集》文本 / 翻译与注释，作者：阿洛伊斯·派尔 &lt;1944 - &gt;。 -- 0. 引言。 -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)**
+**《车拉卡本集》：选自《车拉卡本集》文本 / 翻译与注释，作者：阿洛伊斯·派尔 (1944–)。 -- 0. 引言。 -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)**
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ ：投掷，抛射
 

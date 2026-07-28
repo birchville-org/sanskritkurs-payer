@@ -10,7 +10,7 @@ title: "Catatan Penerbitan & Sitasi"
 *Teks berikut telah dipisahkan dari file pelajaran selama konversi untuk meningkatkan kelancaran membaca.*
 
 ## Cara Mengutip | cite as:
-**Payer, Alois \&lt;1944 - \&gt;:** Kursus Sanskerta. -- Versi tahun 2010. -- URL: http://www.payer.de/sanskritkurs/
+**Payer, Alois (1944–):** Kursus Sanskerta. -- Versi tahun 2010. -- URL: http://www.payer.de/sanskritkurs/
 
 ## Latar Belakang
 Dibuat untuk perkuliahan tahun 1980 - 1984

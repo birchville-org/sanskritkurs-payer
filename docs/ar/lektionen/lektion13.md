@@ -171,7 +171,7 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 >
 > In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
 >
-> [المصدر: **Dowson, John \&lt;1820-1881\&gt;:** قاموس كلاسيكي للأساطير الهندية والدين والجغرافيا والتاريخ والأدب. -- لندن، Trübner، 1879. -- س.ف. ]
+> [المصدر: **Dowson, John (1820–1881):** قاموس كلاسيكي للأساطير الهندية والدين والجغرافيا والتاريخ والأدب. -- لندن، Trübner، 1879. -- س.ف. ]
 
 ::: media
 ![](/images/lekt1301.webp)

@@ -78,7 +78,7 @@ outline: 2
 
 Αἱ τρεῖς τάξεις φέρουσι τὴν καθ' ἕκαστην τάξιν στολὴν. ὑπὲρ τῶν -- οὕτω θεοθετήτων λεγομένων -- τάξεων θρόνει ὁ Χριστός.
 
-Max Weber \&lt;1864 – 1920\&gt; ὁρίζει τὴν τάξιν οὕτως:
+Max Weber (1864–1920) ὁρίζει τὴν τάξιν οὕτως:
 
 ::: note-box
 »**Τάξις**« ὀφείλει πολλὸν ἀνθρώπων ἐν ἑνώσει δρᾶν
@@ -99,7 +99,7 @@ Max Weber \&lt;1864 – 1920\&gt; ὁρίζει τὴν τάξιν οὕτως:
 
 Πᾶσα τάξις κοινωνία συμβατικὴ ἐστίν, ὑπὸ κανόνων βιωτικῆς ἀγωγῆς, τεταγμένη, διὸ οἰκονομικὰ ἄλογας καταναλωτικὰς συνθήκας δημιουργεῖ καὶ ἐμποδίζει δι’ αὐτὴν τὴν τρόπον ὑπὸ μονωλυκῶν προσαιρέσεων καὶ δι’ ἐξοστρακισμοῦ τῆς ἐλευθέρας διαθέσεως περὶ τῆς ἰδίας ἐπαγγελματικότητος τὴν ἐλευθέραν ἀγορὰν συγκείσιν.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Οἰκονομία καὶ Κοινωνία : Σχεδίασμα τῆς κατανοητικῆς κοινωνιολογίας. – 5., ἐπανεργασθεῖσα ἔκδοσις. – Τύβιγγα : Mohr, 1976. – Σ. 625 ἑξ.]
+[**Weber, Max (1864–1920):** Οἰκονομία καὶ Κοινωνία : Σχεδίασμα τῆς κατανοητικῆς κοινωνιολογίας. – 5., ἐπανεργασθεῖσα ἔκδοσις. – Τύβιγγα : Mohr, 1976. – Σ. 625 ἑξ.]
 :::
 Οἱ Varṇas κατὰ ταύτην τὴν ὁρμὴν εἰσὶ τάξεις γενετῆς.
 
@@ -436,7 +436,7 @@ Max Weber \&lt;1864 – 1920\&gt; ὁρίζει τὴν τάξιν οὕτως:
 ::: note-box
 Ἐν ταῖς Ἰνδίαις ἐπέγραφον τῷ ἀληθεῖ λόγῳ μαγειρικὴν δύναμιν, ναί, ἡ ὅλη κόσμος διὰ τοῦ ἀληθοῦς λόγου διατηρεῖται καὶ δημιουργεῖται. Περὶ ταύτης τῆς σημαντικῆς ἰδέας βλέπε τὸ θεμελιώδες ἔργον:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Ἐκ τοῦ ἀποθέτου ἐκδιδόμενον ὑπὸ Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Τόμ. 2: Varuna καὶ τὸ Ṛta. -- 1959. -- XXIII σελ., σελ. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ἐκ τοῦ ἀποθέτου ἐκδιδόμενον ὑπὸ Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Τόμ. 2: Varuna καὶ τὸ Ṛta. -- 1959. -- XXIII σελ., σελ. 340 - 764
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -636,7 +636,7 @@ Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Ἐκ το�
 >
 > ἐν τῇ σημασίαι ταύτη ἑτέραν παραγωγὴν εὑρεθῆναι αὐτῇ: ἡ πηγὴ οὐκέτι asu, 'πνεῦμα,' ἀλλὰ τὸ ἀρχικὸν *a* λαμβάνεται ὡς ἀρνητικὴ πρόθεσις, καὶ **asura** σημαίνει 'οὐ θεός;' διότι, κατὰ τινάς, ἐξῆλθεν ἡ λέξις **sura,** κοινῶς χρῶμενη περὶ 'θεοῦ.'"
 >
-> [Πηγή: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Πηγή: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 
 ::: media
@@ -3073,7 +3073,7 @@ Absol. **-⟪शिष्य⟫** ⟪।⟫ **-⟪शास्य⟫**
 ::: deleteme-box
 βλ. ἐνταῦθα:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Θεμελιώδεις ἔννοιαι τῶν κανόνων τῆς τάξεως καὶ τοῦ δικαίου τῆς τάξεως τοῦ Theravāda. -- Μέρος I. -- (Ὕλικα περὶ τῶν θεμελιωδῶν ἐνοτήτων τοῦ Βουδισμοῦ). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Θεμελιώδεις ἔννοιαι τῶν κανόνων τῆς τάξεως καὶ τοῦ δικαίου τῆς τάξεως τοῦ Theravāda. -- Μέρος I. -- (Ὕλικα περὶ τῶν θεμελιωδῶν ἐνοτήτων τοῦ Βουδισμοῦ). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: νεανίας κοράσιον, θυγάτηρ, παρθένος
 
@@ -3087,7 +3087,7 @@ PPP ⟪अतीत⟫ : n. παρελθόν
 ::: deleteme-box
 βλ. ἐνταῦθα:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Θεμελιώδεις ἔννοιαι τῶν κανόνων τῆς τάξεως καὶ τοῦ δικαίου τῆς τάξεως τοῦ Theravāda. -- Μέρος I. -- (Ὕλικα περὶ τῶν θεμελιωδῶν ἐνοτήτων τοῦ Βουδισμοῦ). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Θεμελιώδεις ἔννοιαι τῶν κανόνων τῆς τάξεως καὶ τοῦ δικαίου τῆς τάξεως τοῦ Theravāda. -- Μέρος I. -- (Ὕλικα περὶ τῶν θεμελιωδῶν ἐνοτήτων τοῦ Βουδισμοῦ). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: νεανίας κοράσιον, θυγάτηρ, παρθένος
 
@@ -3101,7 +3101,7 @@ PPP ⟪अतीत⟫ : n. παρελθόν
 ::: deleteme-box
 βλ. ἐνταῦθα:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Θεμελιώδεις ἔννοιαι τῶν κανόνων τῆς τάξεως καὶ τοῦ δικαίου τῆς τάξεως τοῦ Theravāda. -- Μέρος I. -- (Ὕλικα περὶ τῶν θεμελιωδῶν ἐνοτήτων τοῦ Βουδισμοῦ). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Θεμελιώδεις ἔννοιαι τῶν κανόνων τῆς τάξεως καὶ τοῦ δικαίου τῆς τάξεως τοῦ Theravāda. -- Μέρος I. -- (Ὕλικα περὶ τῶν θεμελιωδῶν ἐνοτήτων τοῦ Βουδισμοῦ). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: νεανίας κοράσιον, θυγάτηρ, παρθένος
 
@@ -3514,7 +3514,7 @@ PPP ⟪रब्ध⟫
 ::: deleteme-box
 Ἰδού:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Θεμελιώδεις ἔννοιαι τῶν κανόνων τῆς τάξεως καὶ τοῦ δικαίου τῆς τάξεως τοῦ Theravāda. -- Μέρος I. -- (Ὕλικα περὶ τῶν θεμελιωδῶν ἐνοτήτων τοῦ Βουδισμοῦ). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Θεμελιώδεις ἔννοιαι τῶν κανόνων τῆς τάξεως καὶ τοῦ δικαίου τῆς τάξεως τοῦ Theravāda. -- Μέρος I. -- (Ὕλικα περὶ τῶν θεμελιωδῶν ἐνοτήτων τοῦ Βουδισμοῦ). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3524,7 +3524,7 @@ PPP ⟪रब्ध⟫
 ::: deleteme-box
 Ἰδού:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Θεμελιώδεις ἔννοιαι τῶν κανόνων τῆς τάξεως καὶ τοῦ δικαίου τῆς τάξεως τοῦ Theravāda. -- Μέρος I. -- (Ὕλικα περὶ τῶν θεμελιωδῶν ἐνοτήτων τοῦ Βουδισμοῦ). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Θεμελιώδεις ἔννοιαι τῶν κανόνων τῆς τάξεως καὶ τοῦ δικαίου τῆς τάξεως τοῦ Theravāda. -- Μέρος I. -- (Ὕλικα περὶ τῶν θεμελιωδῶν ἐνοτήτων τοῦ Βουδισμοῦ). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3534,7 +3534,7 @@ PPP ⟪रब्ध⟫
 ::: deleteme-box
 Ἰδού:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Θεμελιώδεις ἔννοιαι τῶν κανόνων τῆς τάξεως καὶ τοῦ δικαίου τῆς τάξεως τοῦ Theravāda. -- Μέρος I. -- (Ὕλικα περὶ τῶν θεμελιωδῶν ἐνοτήτων τοῦ Βουδισμοῦ). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Θεμελιώδεις ἔννοιαι τῶν κανόνων τῆς τάξεως καὶ τοῦ δικαίου τῆς τάξεως τοῦ Theravāda. -- Μέρος I. -- (Ὕλικα περὶ τῶν θεμελιωδῶν ἐνοτήτων τοῦ Βουδισμοῦ). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::
 ::: media
@@ -3595,7 +3595,7 @@ PPP :sig[⟪गृ⟫]σιγ[:sig[⟪ही⟫]]⟪त⟫
 :::
 Πρὸς ⟪राहु⟫ καὶ ⟪केतु⟫ βλ.:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Εἰσαγωγὴ καὶ ὁρατόν. -- 10. Σάκραμεντα καὶ τελετὴ μετάβασης (samskara). -- Παράρτημα Γ: Rahu καὶ Ketu, οἱ ἀόρατοι πλανῆτες . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Εἰσαγωγὴ καὶ ὁρατόν. -- 10. Σάκραμεντα καὶ τελετὴ μετάβασης (samskara). -- Παράρτημα Γ: Rahu καὶ Ketu, οἱ ἀόρατοι πλανῆτες . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -3935,7 +3935,7 @@ vide:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Textus selecti e Carakasaṃhitā / traducti et illustrati ab Alois Payer \&lt;1944 - \&gt;. -- 0. Introductio. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Textus selecti e Carakasaṃhitā / traducti et illustrati ab Alois Payer (1944–). -- 0. Introductio. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : iacere, fundere
 
@@ -4674,7 +4674,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1003**: Θεός Varuṇa = ⟪वरुण⟫, 17ος αιώνας [Πηγή εικόνας. Wikipedia, Δημόσιο πεδίο]
 
-**lekt1002**: Ένας Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / από τον Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \&lt;1848 - 1906\&gt; [Πηγή εικόνας: Wikipedia, Δημόσιο πεδίο]
+**lekt1002**: Ένας Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / από τον Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [Πηγή εικόνας: Wikipedia, Δημόσιο πεδίο]
 
 **lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysor (ಮೈಸೂರು) [Πηγή εικόνας: Prakash Subbarao / Wikipedia. -- Δημόσιο πεδίο]
 

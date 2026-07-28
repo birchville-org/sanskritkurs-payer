@@ -237,7 +237,7 @@ status: stable
 ::: note-box
 ในอินเดียเชื่อกันว่าคำที่แท้จริงมีอำนาจเวทมนตร์ และระเบียบของทั้งโลกก็ถูกรักษาและสร้างขึ้นโดยคำที่แท้จริง สำหรับแนวคิดสำคัญนี้ ดูงานพื้นฐาน:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. จากมรดกทางปัญญา จัดพิมพ์โดย Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- เล่ม 2: Varuna และ Ṛta. -- 1959. -- XXIII หน้า, หน้า 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. จากมรดกทางปัญญา จัดพิมพ์โดย Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- เล่ม 2: Varuna และ Ṛta. -- 1959. -- XXIII หน้า, หน้า 340 - 764
 :::
 
 ::: media

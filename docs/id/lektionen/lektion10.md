@@ -237,7 +237,7 @@ Dengan apa seseorang memperoleh kesejahteraan dan kelahiran kembali yang baik.
 ::: note-box
 Di India, kata yang benar dianggap memiliki kekuatan magis; bahkan seluruh tatanan dunia dipertahankan dan diciptakan oleh kata yang benar. Untuk konsep penting ini, lihat karya dasar berikut:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Dari warisan karya, diedit oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Jilid 2: Varuna dan Ṛta. -- 1959. -- XXIII hlm., hlm. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Dari warisan karya, diedit oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Jilid 2: Varuna dan Ṛta. -- 1959. -- XXIII hlm., hlm. 340 - 764
 :::
 
 ::: media

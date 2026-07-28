@@ -133,7 +133,7 @@ Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssi
 :::
 
 ::: indent
-霍夫曼，卡尔 \&lt;1915 - 1996\&gt;：《吠陀中的祈愿语气：一项共时功能研究》/ 卡尔·霍夫曼著。 -- 海德堡 : 温特出版社, 1967. -- 298页. -- (印度日耳曼图书馆 : 第3系列, 研究)
+霍夫曼，卡尔 (1915–1996)：《吠陀中的祈愿语气：一项共时功能研究》/ 卡尔·霍夫曼著。 -- 海德堡 : 温特出版社, 1967. -- 298页. -- (印度日耳曼图书馆 : 第3系列, 研究)
 :::
 吠陀中的祈愿语气具有以下特征：
 
@@ -191,7 +191,7 @@ Vokal - erster darauf folgender Konsonant (bzw. dessen in einer Reduplikationssi
 
 :::
 ::: indent
-施派尔，雅各布·S.（雅各布·塞缪尔）\&lt;1849-1913\&gt;：梵文语法。——莱顿：博睿出版社，1886。——§ 353。
+施派尔，雅各布·S.（雅各布·塞缪尔）(1849–1913)：梵文语法。——莱顿：博睿出版社，1886。——§ 353。
 :::
 ::: media
 ![](/images/lekt5603.webp)

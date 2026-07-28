@@ -237,7 +237,7 @@ status: stable
 ::: note-box
 Στην Ινδία αποδόθηκε μαγική δύναμη στον αληθινό λόγο, και μάλιστα ολόκληρη η κοσμική τάση διατηρείται και δημιουργείται από τον αληθινό λόγο. Για αυτή την σημαντική έννοια, δείτε το θεμελιώδες έργο:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Από το αρχείο, επιμ. Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Τόμος 2: Varuna und das Ṛta. -- 1959. -- XXIII σελ., σσ. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Από το αρχείο, επιμ. Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Τόμος 2: Varuna und das Ṛta. -- 1959. -- XXIII σελ., σσ. 340 - 764
 :::
 
 ::: media

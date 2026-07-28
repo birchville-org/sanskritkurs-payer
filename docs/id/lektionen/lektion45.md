@@ -111,7 +111,7 @@ A) Translate into Sanskrit (for past tense forms, please use the imperfect \&lt;
 ::: indent
 mengenai perpecahan komunitas (⟪सङ्घभेद⟫) lihat:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Konsep dasar aturan monastik dan hukum monastik Theravāda. -- Bagian I. -- (Bahan tentang konsep dasar Buddhisme). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Konsep dasar aturan monastik dan hukum monastik Theravāda. -- Bagian I. -- (Bahan tentang konsep dasar Buddhisme). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2\. Apakah Anda menikmati bumi?
 

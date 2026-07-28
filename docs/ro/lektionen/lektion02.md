@@ -72,7 +72,7 @@ Următoarele rădăcini nominale, care se termină cu o vocală, formează nomin
 
 Vedeți, de asemenea, rezumatul:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi al sunetului final -s. -- (Materiale pentru sanscrită). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Sandhi al sunetului final -s. -- (Materiale pentru sanscrită). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Sunetul final **-s**:
 
@@ -160,7 +160,7 @@ Fig.: Reprezentarea diviziunii pe caste a Europei medievale (gravură pe lemn di
 
 Cele trei caste poartă vestimentația specifică fiecărei caste. Deasupra – astfel numite ca fiind voia divină – castele, domnește Hristos.
 
-Max Weber \&lt;1864 – 1920\&gt; definește castea astfel:
+Max Weber (1864–1920) definește castea astfel:
 
 ::: note-box
 »**Casta**« ar trebui să însemne o mulțime de oameni care, în interiorul unei asociații, exercită
@@ -180,7 +180,7 @@ Dezvoltarea castei de naștere este, în mod regulat, o formă de apropiere (ere
 
 Orice societate castală este convențională, ordonată prin reguli de conduită, creează, prin urmare, condiții economice de consum irationale și, în acest fel, prin aproprierea monopolistă și prin excluderea dispoziției libere asupra capacității proprii de câștig, împiedică formarea liberă a pieței.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
 Varṇas sunt, în consecință, caste de naștere.
 

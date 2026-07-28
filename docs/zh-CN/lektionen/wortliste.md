@@ -76,7 +76,7 @@ outline: 2
 
 这三个阶层穿着各自的等级服饰。基督高居其上——这被视为神意所定的等级之上。
 
-马克斯·韦伯 \&lt;1864 – 1920\&gt; 如此定义“阶层”：
+马克斯·韦伯 (1864–1920) 如此定义“阶层”：
 
 ::: note-box
 »**阶层**« 指的是一群人，他们在某个团体中有效
@@ -97,7 +97,7 @@ c) 通过阶层对政治或神权统治权力的**占有**作为垄断（政治�
 
 每一种姓社会都是约定俗成的，由生活准则所规范，因此创造了经济上非理性的消费条件，并通过垄断性占有和排除对个人谋生能力的自由支配，阻碍了自由市场的形成。
 
-[**韦伯, 马克斯 \&lt;1864 – 1920\&gt;:** 《经济与社��》：理解社会学纲要。——第5版，修订版。——蒂宾根 : 莫尔出版社, 1976. ——第625页及以下。]
+[**韦伯, 马克斯 (1864–1920):** 《经济与社��》：理解社会学纲要。——第5版，修订版。——蒂宾根 : 莫尔出版社, 1976. ——第625页及以下。]
 :::
 因此，瓦尔那（Varṇas）是出身种姓。
 
@@ -434,7 +434,7 @@ c) 通过阶层对政治或神权统治权力的**占有**作为垄断（政治�
 ::: note-box
 在印度，人们认为真实的言语具有魔力，甚至整个宇宙秩序都由真实言语维持和创造。关于这一重要概念，请参阅基础著作：
 
-Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -634,7 +634,7 @@ Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. 
 >
 > 在这种意义上，人们为它找到了不同的词源：来源不再是*asu*（‘呼吸’），而是初始*a*被视为否定前缀，因此*asura*表示‘不是神；’因此，根据某些人，产生了*sura*这个词，通常用于指‘一个神。’”
 >
-> [来源：**道森，约翰 \&lt;1820-1881\&gt;：**印度神话、宗教、地理、历史和文学古典词典。——伦敦，特布纳出版社，1879年。——词条]
+> [来源：**道森，约翰 (1820–1881)：**印度神话、宗教、地理、历史和文学古典词典。——伦敦，特布纳出版社，1879年。——词条]
 
 
 ::: media
@@ -3071,7 +3071,7 @@ PPP ⟪ईक्षित⟫
 ::: deleteme-box
 参见：
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念资料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念资料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ 阴性名词：年轻女子，女儿，处女
 
@@ -3085,7 +3085,7 @@ PPP ⟪ईक्षित⟫
 ::: deleteme-box
 参见：
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念资料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念资料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ 阴性名词：年轻女子，女儿，处女
 
@@ -3099,7 +3099,7 @@ PPP ⟪ईक्षित⟫
 ::: deleteme-box
 参见：
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念资料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念资料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ 阴性名词：年轻女子，女儿，处女
 
@@ -3511,7 +3511,7 @@ davon:
 ::: deleteme-box
 参见：
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念材料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念材料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3521,7 +3521,7 @@ davon:
 ::: deleteme-box
 参见：
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念材料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念材料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3531,7 +3531,7 @@ davon:
 ::: deleteme-box
 参见：
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念材料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : 上座部戒律与僧团法的基本概念。 -- 第一部分。 -- （佛教基本概念材料）。 -- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::
 ::: media
@@ -3592,7 +3592,7 @@ davon:
 :::
 关于 ⟪राहु⟫ 和 ⟪केतु⟫，参见：
 
-> **Payer, Alois \&lt;1944 - \&gt;:** 法论：导论与概述。 -- 10. 祭祀与过渡仪式（samskara）。 -- 附录 C：罗睺和计都，不可见的游星 。 -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** 法论：导论与概述。 -- 10. 祭祀与过渡仪式（samskara）。 -- 附录 C：罗睺和计都，不可见的游星 。 -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 图：[⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -3932,7 +3932,7 @@ siehe:
 
 :::
 ::: indent
-**《阇罗迦集》：**选自《阇罗迦集》/由阿洛伊斯·派尔（Alois Payer）翻译并注释 &lt;1944 - &gt;。 -- 0. 引言。 -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**《阇罗迦集》：**选自《阇罗迦集》/由阿洛伊斯·派尔（Alois Payer）翻译并注释 (1944–)。 -- 0. 引言。 -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ ：投掷，抛射
 
@@ -4671,7 +4671,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1003**: 神祇伐楼那 = ⟪वरुण⟫, 17世纪 [图片来源。维基百科，公有领域]
 
-**lekt1002**: 一位仙人：毗湿伐密多罗 (⟪विश्वामित्र⟫) / 由拉贾·拉维·瓦尔马绘制 (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \&lt;1848 - 1906\&gt; [图片来源：维基百科，公有领域]
+**lekt1002**: 一位仙人：毗湿伐密多罗 (⟪विश्वामित्र⟫) / 由拉贾·拉维·瓦尔马绘制 (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [图片来源：维基百科，公有领域]
 
 **lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ 昌迪山，迈索尔 (ಮೈಸೂರು) [图片来源：Prakash Subbarao / 维基百科。-- 公有领域]
 

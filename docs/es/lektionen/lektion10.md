@@ -237,7 +237,7 @@ por ejemplo
 ::: note-box
 En la India, se atribuía al palabra verdadera un poder mágico; de hecho, todo el orden mundial se mantiene y se crea mediante la palabra verdadera. Para esta idea importante, véase la obra fundamental:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Editado póstumamente por Ludwig Alsdorf. - Gotinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna y el Ṛta. -- 1959. -- XXIII p., p. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Editado póstumamente por Ludwig Alsdorf. - Gotinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna y el Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
 
 ::: media

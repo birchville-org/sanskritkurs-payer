@@ -23,17 +23,17 @@ features:
 ---
 
 
-::: note-box  Version 1.6 — Global Integrity & Stabilität
-**Nouveau dans v1.6 (juillet 2026) :**
+::: note-box  Version 1.6.4 — Intégrité globale, SSOT et Stabilität
+**Nouveautés dans v1.6.4 (juillet 2026) :**
 
-- **Finalisation à 100 % dans 19 langues :** L'arabe, l'hébreu, l'araméen, le chinois simplifié, l'indonésien, l'hindi, le tamoul, le pendjabi, le latin, le roumain et le romanche grison sont désormais traduits de manière ininterrompue par machine (qualité non garantie ; pure étude de faisabilité sans relecture).
-- **Support RTL :** Prise en charge native de la mise en page pour les langues à écriture de droite à gauche (arabe, hébreu), y compris une interface utilisateur entièrement localisée.
-- **PWA & Offline-First :** Utilisation hors ligne complète et sans erreur de tout le contenu du cours sur toutes les versions linguistiques actives.
-- **Version auteur et éditeur :** Éditeur complet pour les correcteurs (visualiseur QA) avec un système de secours IA asynchrone pour des traductions massives extrêmement stables.
+- **100 % de finalisation dans 21 langues cibles :** 21 langues (dont le grec ancien, le finnois, le hongrois, l’arabe, l’hébreu, le latin, le chinois simplifié, etc.) sont désormais entièrement traduites, sans recours à des solutions de repli, et placées sous une protection en écriture absolue.
+- **Localisation complète de l’interface utilisateur (SSOT) :** Tous les éléments de navigation et de contrôle (leçons précédente/suivante, exercices, sommaire) sont fournis dynamiquement dans les 32 langues via un registre linguistique centralisé.
+- **Typographie et assurance qualité :** Typographie Devanāgarī droite sans distorsion italique, balises de signalisation rouge dénouées et passages textuels nettoyés sur toutes les versions linguistiques finalisées.
+- **PWA et mode hors ligne prioritaire :** Utilisation complète hors ligne de l’ensemble des contenus de cours sur toutes les versions linguistiques actives.
 
-**Remarques et signalements d'erreurs bienvenus à :** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Contribuer en tant que correcteur ou conservateur :** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Les remarques et les rapports de bugs sont les bienvenus à :** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Contribuer en tant que réviseur ou conservateur :** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 
-- Pour les auteurs (et ceux qui souhaitent utiliser un éditeur Markdown autonome léger), un éditeur open source est disponible sur https://github.com/marcodem/zentauri
+- À l’intention des auteurs (et de ceux qui souhaitent utiliser un éditeur Markdown autonome léger), un éditeur open source est disponible à l’adresse https://github.com/marcodem/zentauri
 
 :::

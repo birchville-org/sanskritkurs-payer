@@ -767,9 +767,9 @@ Mahābhārata : India nagy eposza / Sanskritból lefordítva és összefoglalva 
 8.  Áttekintés:
 **Kunnappally, John:** Prakriyā bhāshyam : Sanskrit grammar / Eredetileg malajálamban írva. Angolra fordította K.V.R. Pai. -- Parathode : Saját kiadó, 1983. -- 818 old. ; 23 cm. -- 208 - 254. o. (Szintaktikai kormányzás)
 9.  Teljesen áttekintendő:
-**Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**The wonder that was India. A rész: Az indiai szubkontinentális kultúrájának felmérése a muzulmánok érkezése előtt. -- London : Sidgwick & Jackson, 1954.
+**Basham, A. L. (Arthur Llewellyn) (1914–1986)**The wonder that was India. A rész: Az indiai szubkontinentális kultúrájának felmérése a muzulmánok érkezése előtt. -- London : Sidgwick & Jackson, 1954.
 10.  Kezdje el az alábbiak áttekintését:
-**Winternitz, Moriz \&lt;1863 - 1937\&gt;:** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 kötet. -- 1908 - 1922 (még mindig messze a legjobb szanszkit, páli és prakrit irodalomtörténet)
+**Winternitz, Moriz (1863–1937):** Geschichte der indischen Literatur. Stuttgart : Koehler. -- 3 kötet. -- 1908 - 1922 (még mindig messze a legjobb szanszkit, páli és prakrit irodalomtörténet)
 
 ::: media
 ![](/images/lekt5201.webp)

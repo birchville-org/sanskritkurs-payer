@@ -78,7 +78,7 @@ Aan het begin een curiositeit:
 
 >"Toen William Jones [1746–1794] en Henry Thomas Colebrooke (1765—1857) het Sanskriet voor de eerste grondig bestudeerden, gedeeltelijk vertaalden en vaststelden dat het een rijke literatuur bezat en aanzienlijke verwantschap vertoonde met de klassieke talen, stuiten zij op niet geringe weerstand. Omdat zich deze innige relatie van het Sanskriet tot de geografisch zo ver verwijderde Europese talen niet liet verenigen met de oude opvattingen, die ofwel alle talen uit het Hebreeuws afleidden grotendeels van elkaar geïsoleerd waren, greep de beroemde filoloog Dugald Steward (1753—1828) naar de eenvoudigste uitweg, door de hele geschiedenis met de Sanskriettaal als een leugen te bestempelen. Hij schreef een essay, waarin hij trachtte aan te tonen dat ze door de ondeugende brahmanen naar het model van het Grieks en Latijn was gesmeed, en dat zowel de taal als ook de literatuur een vervalsing waren. Deze opvatting ontwikkelde nog in het jaar 1840 de professor te Dublin, Charles William Wall, uitvoerig (Göttingische geleerde aanwijzingen 1842 blz. 1888)."
 >
->[Bron: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- blz. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Toegang genomen op 2010-01-10]
+>[Bron: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- blz. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Toegang genomen op 2010-01-10]
 
 ## 1.1. Literatuur voor beginners in Indologie
 
@@ -88,7 +88,7 @@ Afb.: Omslagtitel van een pocketeditie
 (Bron foto: [Details](/nl/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India$ deel: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sindsdien vele edities, ook pocketedities. -- **Verplichte lectuur.** Een goed overzicht over leven, geschiedenis en cultuur in het voormuslimse India. Algemeen overzicht van de verschillende gebieden der klassieke Indologie.
+>**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India$ deel: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sindsdien vele edities, ook pocketedities. -- **Verplichte lectuur.** Een goed overzicht over leven, geschiedenis en cultuur in het voormuslimse India. Algemeen overzicht van de verschillende gebieden der klassieke Indologie.
 
 
 ::: media
@@ -99,7 +99,7 @@ Afb.: titelpagina
 
 Beste systematische grammatica:
 
-> **Kielhorn**, Franz \&lt;1840-1908\&gt;: Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language
+> **Kielhorn**, Franz (1840–1908): Grammatik der Sanskrit-Sprache / Aus dem Englischen übersetzt von W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Originaltitel: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -119,7 +119,7 @@ Afb.: bandtitel
 
 Een goede, beknopte weergave van de Europese taalkundige terminologie vindt men in:
 
-> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII.
+> **Etymologisches Wörterbuch der deutschen Sprache** / [Friedrich] Kluge (1856–1926). Bearb. von Elmar Seebold. -- 24., durchges. und erw. Aufl.. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)

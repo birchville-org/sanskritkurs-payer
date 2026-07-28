@@ -343,7 +343,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 Vide:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Elementa fundamentalia regulorum ordinis et iuris canonici Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Elementa fundamentalia regulorum ordinis et iuris canonici Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)

@@ -78,7 +78,7 @@ Kuv.: Eurooppalaisen keskiajan luokkajaottelun esitys (puukaiverrus 1400-luvun l
 
 Kolme luokkaa pukeutuvat kunkin oman luokkavaatteensa. Yllä – jota siten kuvataan jumalallisesti tahdotuksi – luokkien yllä istuu Kristus.
 
-Max Weber \&lt;1864 – 1920\&gt; määrittelee luokan näin:
+Max Weber (1864–1920) määrittelee luokan näin:
 
 ::: note-box
 »**Luokka**« tarkoittaa ihmisten joukkoa, joka toimii yhteisön sisällä
@@ -99,7 +99,7 @@ Kun ansaintaoluokat markkinatalouden pohjalla kasvavat, kastit syntyvät ja säi
 
 Jokainen kaste-yhteisö on konventionaalinen, elämäntapojen säännöillä järjestetty, luo siksi taloudellisesti irrationaalisen kulutusolosuhteet ja estää tällä tavalla monopolististen appropriointien ja oman ansaintakyvyn vapaan hallinnan estämisen kautta vapaan markkinamuodostuksen.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;::** Talous ja yhteiskunta : ymmärtävän sosiologian luonnos. – 5., tarkistettu painos. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920)::** Talous ja yhteiskunta : ymmärtävän sosiologian luonnos. – 5., tarkistettu painos. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
 Varṇat ovat siten syntymäkasteita.
 
@@ -436,7 +436,7 @@ Jolla ansaitsee hyvinvointia ja hyviä uudelleensyntymisiä.
 ::: note-box
 Intiassa totiseen sanaan uskottiin olevan taianomainen voima, jopa koko maailmankaikkeus ylläpitää ja luo totinen sana. Tärkeästä käsityksestä ks. perusteos:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Julkaistu Ludwig Alsdorfin toimesta. - Göttingen : Vandenhoeck & Ruprecht. -- Vsk 2: Varuna ja Ṛta. -- 1959. -- XXIII s., s. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Julkaistu Ludwig Alsdorfin toimesta. - Göttingen : Vandenhoeck & Ruprecht. -- Vsk 2: Varuna ja Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -636,7 +636,7 @@ Opiskele seuraavat sanat:
 >
 > Tässä merkityksessä sille on löydetty eri johtaminen: lähteena ei ole enää asu, 'hengitys', vaan alkuinen *a* otetaan negatiiviseksi prefiksiksi, ja *asura* tarkoittaa 'ei jumala;' joten joidenkin mukaan syntyi sana *sura,* jota yleisesti käytetään 'jumalasta.'"
 >
-> [Lähde: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Lähde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 
 ::: media
@@ -3073,7 +3073,7 @@ Kuv.: ⟪शास्त्री⟫
 ::: deleteme-box
 ks. myös:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Theravādan luostarisääntöjen ja luostarilain peruskäsitteet. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Theravādan luostarisääntöjen ja luostarilain peruskäsitteet. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: nuori tyttö, tytär, neitsyt
 
@@ -3087,7 +3087,7 @@ PPP ⟪अतीत⟫ : n. menneisyys
 ::: deleteme-box
 ks. myös:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Theravādan luostarisääntöjen ja luostarilain peruskäsitteet. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Theravādan luostarisääntöjen ja luostarilain peruskäsitteet. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: nuori tyttö, tytär, neitsyt
 
@@ -3101,7 +3101,7 @@ PPP ⟪अतीत⟫ : n. menneisyys
 ::: deleteme-box
 ks. myös:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Theravādan luostarisääntöjen ja luostarilain peruskäsitteet. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Theravādan luostarisääntöjen ja luostarilain peruskäsitteet. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: nuori tyttö, tytär, neitsyt
 
@@ -3514,7 +3514,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 Katso:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Sanghansääntöjen ja sanghalain peruskäsitteet Theravāda-koulukunnassa. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Sanghansääntöjen ja sanghalain peruskäsitteet Theravāda-koulukunnassa. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3524,7 +3524,7 @@ Kuv.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ::: deleteme-box
 Katso:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Sanghansääntöjen ja sanghalain peruskäsitteet Theravāda-koulukunnassa. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Sanghansääntöjen ja sanghalain peruskäsitteet Theravāda-koulukunnassa. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3534,7 +3534,7 @@ Kuv.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ::: deleteme-box
 Katso:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Sanghansääntöjen ja sanghalain peruskäsitteet Theravāda-koulukunnassa. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Sanghansääntöjen ja sanghalain peruskäsitteet Theravāda-koulukunnassa. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::
 ::: media
@@ -3595,7 +3595,7 @@ tästä:
 :::
 Katso ⟪राहु⟫ ja ⟪केतु⟫:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Johdanto ja katsaus. -- 10. Sakramentit ja siirtymärituaalit (samskara). -- Liite C: Rahu ja Ketu, näkymättömät vaeltavat tähdet . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Johdanto ja katsaus. -- 10. Sakramentit ja siirtymärituaalit (samskara). -- Liite C: Rahu ja Ketu, näkymättömät vaeltavat tähdet . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Kuv.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -3935,7 +3935,7 @@ katso:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Valittuja tekstejä Carakasaṃhitāsta / kääntänyt ja selittänyt Alois Payer \&lt;1944 - \&gt;. -- 0. Johdanto. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Valittuja tekstejä Carakasaṃhitāsta / kääntänyt ja selittänyt Alois Payer (1944–). -- 0. Johdanto. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : heittää, heilauttaa
 
@@ -4674,7 +4674,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1003**: Gud Varuṇa = ⟪वरुण⟫, 1600-talet [Bildkälla. Wikipedia, allmänt ägo]
 
-**lekt1002**: En Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / av Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \&lt;1848 - 1906\&gt; [Bildkälla: Wikipedia, allmänt ägo]
+**lekt1002**: En Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / av Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [Bildkälla: Wikipedia, allmänt ägo]
 
 **lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysore (ಮೈಸೂರು) [Bildkälla: Prakash Subbarao / Wikipedia. -- Allmänt ägo]
 

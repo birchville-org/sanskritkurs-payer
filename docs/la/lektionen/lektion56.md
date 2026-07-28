@@ -133,7 +133,7 @@ Professor de Linguistica Comparativa, Universitas Erlangen-Nürnberg (1955 - 198
 :::
 
 ::: indent
-Hoffmann, Karl \&lt;1915 - 1996\&gt;: Der Injunktiv im Veda : una investigatio functionalis synchronica / a Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 pag. -- (Bibliotheca Indogermanica : series tertia, investigationes)
+Hoffmann, Karl (1915–1996): Der Injunktiv im Veda : una investigatio functionalis synchronica / a Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 pag. -- (Bibliotheca Indogermanica : series tertia, investigationes)
 :::
 Injunctivus in Veda has proprietates habet:
 
@@ -191,7 +191,7 @@ Praeterea aliae quoque, rariores formae sententiarum prohibitorum exstant, vide 
 
 :::
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) \&lt;1849-1913\&gt;: Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
+Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
 :::
 ::: media
 ![](/images/lekt5603.webp)

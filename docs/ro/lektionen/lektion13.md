@@ -171,7 +171,7 @@ Exemplu:
 >
 > În acest sens, s-a găsit o derivare diferită pentru el: sursa nu mai este asu, „sufl”, ci inițiala *a* este luată ca prefix negativ, iar *asura* semnifică „nu un zeu;” de aceea, conform unora, a apărut cuvântul *sura*, folosit comun pentru „un zeu.””
 >
-> [Sursă: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Sursă: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)

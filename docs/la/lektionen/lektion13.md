@@ -172,7 +172,7 @@ Lectio sequentia verba:
 >
 > In hoc sensu alia derivatio inventa est: fons non iam asu, 'spiramen', sed initiale *a* ut prefixum negativum accipitur, et *asura* significat 'non deus'; ideo, secundum quosdam, verbum *sura* ortum est, communiter pro 'deo' adhibitum."
 >
-> [Fons: **Dowson, Ioannes \&lt;1820-1881\&gt;:** Lexicon classicum mythologiae Hinduicae et religionis, geographiae, historiae et litterarum. -- Londinii, Trübner, 1879. -- s.v. ]
+> [Fons: **Dowson, Ioannes (1820–1881):** Lexicon classicum mythologiae Hinduicae et religionis, geographiae, historiae et litterarum. -- Londinii, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)

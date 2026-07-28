@@ -133,7 +133,7 @@ status: stable
 :::
 
 ::: indent
-Hoffmann, Karl \&lt;1915 - 1996\&gt;: Ο αόριστος στο Βέδα : μια συγχρονική μελέτη λειτουργίας / από Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 σελ. -- (Ινδοευρωπαϊκή Βιβλιοθήκη : 3η σειρά, Μελέτες)
+Hoffmann, Karl (1915–1996): Ο αόριστος στο Βέδα : μια συγχρονική μελέτη λειτουργίας / από Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 σελ. -- (Ινδοευρωπαϊκή Βιβλιοθήκη : 3η σειρά, Μελέτες)
 :::
 ο αόριστος στο Βέδα έχει τα εξής χαρακτηριστικά:
 
@@ -191,7 +191,7 @@ Hoffmann, Karl \&lt;1915 - 1996\&gt;: Ο αόριστος στο Βέδα : μι
 
 :::
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) \&lt;1849-1913\&gt;: Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
+Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
 :::
 ::: media
 ![](/images/lekt5603.webp)

@@ -238,7 +238,7 @@ Weitere Verwendungen des Instrumentalis (tṛtīyā) folgen später.
 ::: note-box
 בהודו ייחסו למילה האמיתית כוח קסם, ואכן כל סדר העולם נשמר ונוצר על ידי המילה האמיתית. לעניין חשוב זה ראה את היסודי:
 
-Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Aus d. Nachl. hrsg. von Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna und das Ṛta. -- 1959. -- XXIII S., S. 340 - 764
 :::
 
 ::: media

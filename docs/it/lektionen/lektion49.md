@@ -190,7 +190,7 @@ vedi:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Testi scelti dal Carakasaṃhitā / tradotti e commentati da Alois Payer \&lt;1944 - \&gt;. -- 0. Introduzione. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Testi scelti dal Carakasaṃhitā / tradotti e commentati da Alois Payer (1944–). -- 0. Introduzione. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : gettare, scagliare
 

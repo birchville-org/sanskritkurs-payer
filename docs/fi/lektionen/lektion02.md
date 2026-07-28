@@ -72,7 +72,7 @@ Sanskritissa sanan loppuääneen määräytyy myös seuraavan sanan alkuäänne.
 
 Katso myös yhteenveto:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Lopun -s:n sandhi. -- (Materiaaleja sanskritiin). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Lopun -s:n sandhi. -- (Materiaaleja sanskritiin). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Lopullinen **-s**:
 
@@ -160,7 +160,7 @@ Kuva: Eurooppalaisen keskiajan yhteiskuntaluokkien jako (puukaiverrus 1400-luvun
 
 Kolme säätyä kantavat kunkin säädyllisen asun. Niiden yläpuolella – joita siten kutsutaan jumalallisesti määrätyiksi – istuu Kristus.
 
-Max Weber \&lt;1864 – 1920\&gt; määrittelee säädyn näin:
+Max Weber (1864–1920) määrittelee säädyn näin:
 
 ::: note-box
 »**Sääty**« tarkoittaa suurta ihmisjoukkoa, joka toimii yhteisön sisällä
@@ -180,7 +180,7 @@ Kun ansioluokat kasvavat markkinatalouden pohjalla, säädyt syntyvät ja säily
 
 Jokaista säätyistä yhteisöä on konventionaalinen, elämäntapojen säännöillä järjestetty, luo siksi taloudellisesti irracionaalisen kulutusolosuhteet ja estää tällä tavalla monopolististen appropriointien kautta ja oman ansaintakyvyn vapaan käytön estämisen kautta vapaan markkinoiden muodostumisen.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
 Varṇat ovat siten syntyperäisiä yhteiskuntaluokkia.
 

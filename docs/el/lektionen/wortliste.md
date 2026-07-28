@@ -70,7 +70,7 @@ outline: 2
 
 Οι τρεις τάξεις φορούν την αντίστοχη ενδυμασία της τάξης τους. Πάνω από τις -- έτσι ονομαζόμενες ως θεοθελημένες -- τάξεις θronίζει ο Χριστός.
 
-Ο Μάξ Βέμπερ \&lt;1864 – 1920\&gt; ορίζει την τάξη ως εξής:
+Ο Μάξ Βέμπερ (1864–1920) ορίζει την τάξη ως εξής:
 
 ::: note-box
 »**Τάξη**« πρέπει να σημαίνει ένα σύνολο ανθρώπων που εντός ενός συνόλου ενεργεί
@@ -90,7 +90,7 @@ outline: 2
 
 Κάθε σταδιακή κοινωνία είναι συμβατική, διατεταγμένη από κανόνες της συμπεριφοράς στη ζωή, δημιουργεί επομένως οικονομικά μη ρασιονάλιες συνθήκες κατανάλωσης και εμποδίζει με αυτόν τον τρόπο, μέσω μονοπωλιακών προσ appropriatedων και μέσω της εξάλειψης της ελεύθερης διαθεσιμότητας της δικής της ικανότητας απόκτησης, την ελεύθερη δημιουργία αγοράς.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
 Τα Varṇas είναι, ως εκ τούτου, στάδια γέννησης.
 
@@ -380,7 +380,7 @@ outline: 2
 ::: note-box
 Στην Ινδία αποδόθηκε μαγική δύναμη στον αληθινό λόγο, και μάλιστα ολόκληρη η κοσμική τάση διατηρείται και δημιουργείται από τον αληθινό λόγο. Για αυτή την σημαντική έννοια, δείτε το θεμελιώδες έργο:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Από το αρχείο, επιμ. Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Τόμος 2: Varuna und das Ṛta. -- 1959. -- XXIII σελ., σσ. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Από το αρχείο, επιμ. Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Τόμος 2: Varuna und das Ṛta. -- 1959. -- XXIII σελ., σσ. 340 - 764
 :::
 
 ::: media
@@ -559,7 +559,7 @@ Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Από το 
 >
 > Σε αυτή την έννοια, βρέθηκε μια διαφορετική ετυμολογία: η πηγή δεν είναι πλέον asu, 'αναπνοή', αλλά το αρχικό *a* λαμβάνεται ως αρνητικό πρόθεμα, και το *asura* δηλώνει 'όχι θεός'· εξ ου, σύμφωνα με ορισμένους, προέκυψε η λέξη *sura*, που χρησιμοποιείται συνήθως για 'θεός'."
 >
-> [Πηγή: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Πηγή: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -2871,7 +2871,7 @@ PPP **⟪शिष्ट⟫** : διδαγμένος, σοφός
 ::: deleteme-box
 βλ. επίσης:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Βασικές έννοιες των κανόνων της τάξης και του δικαίου της τάξης του Theravāda. -- Μέρος I. -- (Υλικό για τις βασικές έννοιες του Βουδισμού). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Βασικές έννοιες των κανόνων της τάξης και του δικαίου της τάξης του Theravāda. -- Μέρος I. -- (Υλικό για τις βασικές έννοιες του Βουδισμού). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: νεαρό κορίτσι, κόρη, παρθένος
 
@@ -3267,7 +3267,7 @@ PPP ⟪रब्ध⟫
 ::: deleteme-box
 Δείτε:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Βασικές έννοιες των κανόνων της τάξης και του δικαίου της τάξης του Theravāda. -- Μέρος I. -- (Υλικά για τις βασικές έννοιες του Βουδισμού). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Βασικές έννοιες των κανόνων της τάξης και του δικαίου της τάξης του Theravāda. -- Μέρος I. -- (Υλικά για τις βασικές έννοιες του Βουδισμού). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3318,7 +3318,7 @@ PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫
 :::
 Για ⟪राहु⟫ και ⟪केतु⟫ δείτε:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Εισαγωγή και επισκόπηση. -- 10. Σάκραμεντα και τελετές μετάβασης (samskara). -- Παράρτημα C: Rahu και Ketu, οι αόρατοι πλανήτες μεταβολής . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Εισαγωγή και επισκόπηση. -- 10. Σάκραμεντα και τελετές μετάβασης (samskara). -- Παράρτημα C: Rahu και Ketu, οι αόρατοι πλανήτες μεταβολής . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Εικ.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/el/licenses#lekt4602)
@@ -3653,7 +3653,7 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 
 :::
 ::: indent
-**Carakasaṃhitā:** Επιλεγμένα κείμενα από το Carakasaṃhitā / μετάφραση και σχόλια του Alois Payer \&lt;1944 - \&gt;. -- 0. Εισαγωγή. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Επιλεγμένα κείμενα από το Carakasaṃhitā / μετάφραση και σχόλια του Alois Payer (1944–). -- 0. Εισαγωγή. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : πετάω, ρίχνω
 

@@ -190,7 +190,7 @@ status: stable
 
 :::
 ::: indent
-**चरकसंहिता:** चरकसंहिता से चयनित पाठ / अलोइस पायर द्वारा अनुवादित और टिप्पणी सहित \&lt;1944 - \&gt;। -- 0. परिचय। -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**चरकसंहिता:** चरकसंहिता से चयनित पाठ / अलोइस पायर द्वारा अनुवादित और टिप्पणी सहित (1944–)। -- 0. परिचय। -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪⟪क्षिप्⟫⟫ 6P ⟪⟪क्षिपति⟫⟫ : फेंकना, छूटना
 

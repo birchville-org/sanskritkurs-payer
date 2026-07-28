@@ -372,7 +372,7 @@ Kuv.: ⟪शास्त्री⟫
 ::: deleteme-box
 ks. tästä:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Theravādan luostarisääntöjen ja kirkkolain peruskäsitteet. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteisiin). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Theravādan luostarisääntöjen ja kirkkolain peruskäsitteet. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteisiin). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: nuori tyttö, tytär, neitsyt
 

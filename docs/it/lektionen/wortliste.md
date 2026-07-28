@@ -66,7 +66,7 @@ Fig.: Rappresentazione della suddivisione degli ordini nell'Europa medievale (xi
 
 I tre ordini indossano l'abito tipico del rispettivo ordine. Sopra di essi, indicati come voluti da Dio, troneggia Cristo.
 
-Max Weber \&lt;1864 – 1920\&gt; definisce "ordine" (Stand) così:
+Max Weber (1864–1920) definisce "ordine" (Stand) così:
 
 ::: note-box
 "»Ordine« (Stand) dovrebbe significare una moltitudine di persone che, all'interno di un'associazione,
@@ -86,7 +86,7 @@ Mentre le classi professionali crescono sul terreno dell’economia orientata al
 
 Ogni società ordinale è convenzionale, ordinata da regole di condotta di vita, crea quindi condizioni di consumo economicamente irrazionali e osticola in tal modo, attraverso appropriazioni monopolistiche e attraverso l’esclusione della libera disposizione della propria capacità di guadagno, la libera formazione del mercato.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Economia e società : abbozzo di una sociologia comprensiva. – 5., riveduta ed. – Tubinga : Mohr, 1976. – P. 625 s.]
+[**Weber, Max (1864–1920):** Economia e società : abbozzo di una sociologia comprensiva. – 5., riveduta ed. – Tubinga : Mohr, 1976. – P. 625 s.]
 :::
 I Varṇa sono pertanto ordini di nascita.
 
@@ -381,7 +381,7 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 ::: note-box
 In India si attribuiva alla parola vera un potere magico; anzi, l'intero ordine cosmico viene mantenuto e creato dalla parola vera. Per questa importante concezione, si veda l'opera fondamentale:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. A cura di Ludwig Alsdorf dal lascito. - Gottinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e il Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A cura di Ludwig Alsdorf dal lascito. - Gottinga : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e il Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
 :::: media
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
@@ -590,7 +590,7 @@ Imparate le seguenti parole:
 >
 > In questo senso una diversa derivazione è stata trovata per esso: la fonte non è più asu, 'respiro,' ma la iniziale *a* è presa come prefisso negativo, e *asura* significa 'non un dio;' da qui, secondo alcuni, nacque la parola *sura*, comunemente usata per 'un dio.'"
 >
-> [Fonte: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Fonte: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -2549,7 +2549,7 @@ Fig.: ⟪शास्त्री⟫
 ::: deleteme-box
 cfr. inoltre:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: giovane ragazza, figlia, vergine
 
@@ -2943,7 +2943,7 @@ Assol. -⟪रभ्य⟫
 ::: deleteme-box
 Vedere:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Concetti fondamentali delle regole monastiche e del diritto monastico del Theravāda. -- Parte I. -- (Materiali sui concetti fondamentali del Buddhismo). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::: media
 ![](/images/lekt4408.webp)
@@ -2993,7 +2993,7 @@ Derivati:
 :::
 Per ⟪राहु⟫ e ⟪केतु⟫ vedere:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Introduzione e panoramica. -- 10. Sacramenti e riti di passaggio (samskara). -- Appendice C: Rahu e Ketu, i pianeti erranti invisibili. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Introduzione e panoramica. -- 10. Sacramenti e riti di passaggio (samskara). -- Appendice C: Rahu e Ketu, i pianeti erranti invisibili. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/it/licenses#lekt4602)
@@ -3319,7 +3319,7 @@ vedi:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Testi scelti dal Carakasaṃhitā / tradotti e commentati da Alois Payer \&lt;1944 - \&gt;. -- 0. Introduzione. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Testi scelti dal Carakasaṃhitā / tradotti e commentati da Alois Payer (1944–). -- 0. Introduzione. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : gettare, scagliare
 

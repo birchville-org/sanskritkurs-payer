@@ -372,7 +372,7 @@ PPP **⟪शिष्ट⟫** : מלומד, חכם
 ::: deleteme-box
 ראה גם:
 
-**פייאר, אלוס \&lt;1944 - \&gt;:** וינאיהמוכה: מושגי יסוד של חוקי הסדר ודיני הסדר של תרוואדה. -- חלק I. -- (חומרים למושגי היסוד של הבודהיזם). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**פייאר, אלוס (1944–):** וינאיהמוכה: מושגי יסוד של חוקי הסדר ודיני הסדר של תרוואדה. -- חלק I. -- (חומרים למושגי היסוד של הבודהיזם). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: נערה צעירה, בת, בתולה
 

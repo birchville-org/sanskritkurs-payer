@@ -373,7 +373,7 @@ PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫
 :::
 לעניין ⟪राहु⟫ ו⟪केतु⟫ ראה:
 
-> **פייאר, אלוס \&lt;1944 - \&gt;: דהרמשאסטרה: מבוא וסקירה. -- 10. סקרמנטות וטקסי מעבר (סמסקרה). -- תוסף ג': ראhu וקטו, כוכבי המשנה הבלתי נראים . -- כתובת: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)**
+> **פייאר, אלוס (1944–): דהרמשאסטרה: מבוא וסקירה. -- 10. סקרמנטות וטקסי מעבר (סמסקרה). -- תוסף ג': ראhu וקטו, כוכבי המשנה הבלתי נראים . -- כתובת: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)**
 ::: media
 ![](/images/lekt4602.webp)
 איור: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/he/licenses#lekt4602)

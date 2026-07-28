@@ -276,14 +276,18 @@ def check_image_captions(files):
     return errors
 
 def check_html_arrow_entities(files, fix=False):
-    """Findet -&gt; (HTML-Entity als Pfeil) das → sein sollte, und &gt; als Blockquote-Marker."""
+    """Findet -&gt; (HTML-Entity als Pfeil) das → sein sollte, &gt; als Blockquote-Marker, und rohe bibliographische &lt;/&gt;-Entities."""
     errors = []
     arrow_re  = re.compile(r'-&gt;')
     bq_re     = re.compile(r'^&gt;', re.MULTILINE)
-    # Auch &lt;- (Linkspfeil)
     larrow_re = re.compile(r'&lt;-')
+    bib_re    = re.compile(r'\\?&lt;\s*\d{4}')
+    de_phrases_re = re.compile(r'\b(Auslautendes|Satzende|wird es zu|Materialien zum Sanskrit)\b', re.IGNORECASE)
+    
     for path in files:
         content = path.read_text(encoding='utf-8', errors='replace')
+        lang = lang_from_path(path)
+        
         # Code-Spans und Code-Blöcke ausschliessen
         stripped = re.sub(r'```.*?```', '', content, flags=re.DOTALL)
         stripped = re.sub(r'`[^`\n]+`', '', stripped)
@@ -294,16 +298,26 @@ def check_html_arrow_entities(files, fix=False):
             hits.append('&gt; am Zeilenbeginn (sollte > sein)')
         if larrow_re.search(stripped):
             hits.append('&lt;- (sollte ← sein)')
+        if bib_re.search(stripped):
+            hits.append('Bibliographisches &lt;...&gt; (sollte Klammer sein)')
+            
+        if lang != 'de':
+            de_hits = de_phrases_re.findall(stripped)
+            if de_hits:
+                hits.append(f'Deutsche Grammatik-Phrasen in {lang}: {set(de_hits)}')
+                
         if hits:
             if fix:
                 fixed = content
                 fixed = arrow_re.sub('→', fixed)
                 fixed = bq_re.sub('>', fixed)
                 fixed = larrow_re.sub('←', fixed)
+                fixed = re.sub(r'\\?&lt;\s*(\d{4})\s*[\u2013-]\s*(\d{4})?\s*\\?&gt;', lambda m: f'({m.group(1)}\u2013{m.group(2)})' if m.group(2) else f'({m.group(1)}\u2013)', fixed)
+                fixed = re.sub(r'\\?&lt;\s*(\d{4})\s*\\?&gt;', r'(\1)', fixed)
                 path.write_text(fixed, encoding='utf-8')
-                errors.append((path, f'Automatisch repariert: {hits}'))
+                errors.append((path, f'Automatisch repariert / erkannt: {hits}'))
             else:
-                errors.append((path, f'HTML-Entity als Pfeil: {hits}'))
+                errors.append((path, f'HTML-Entity / DE-Rest: {hits}'))
     return errors
 
 def check_licenses(files):

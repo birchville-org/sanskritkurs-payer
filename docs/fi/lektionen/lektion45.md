@@ -111,7 +111,7 @@ A) Käännä sanskritiksi (käytä menneen ajan muodoissa imperfektia \&lt;⟪�
 ::: indent
 yhteisön jakamisesta (⟪सङ्घभेद⟫) katso:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Theravādan luostarisääntöjen ja kirkkolain peruskäsitteet. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Theravādan luostarisääntöjen ja kirkkolain peruskäsitteet. -- Osa I. -- (Materiaaleja buddhalaisuuden peruskäsitteistä). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2\. Oletteko nauttineet maasta?
 

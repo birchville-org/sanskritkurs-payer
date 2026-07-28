@@ -373,7 +373,7 @@ Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelha
 :::
 انظر إلى ⟪राहु⟫ و ⟪केतु⟫:
 
-> **باير، ألويس \&lt;1944 - \&gt;:** دارماساترا: مقدمة ونظرة عامة. -- 10. الأسرار والطقوس الانتقالية (سامسكارا). -- الملحق ج: راو وكيتو، الكواكب المتحركة غير المرئية . -- الرابط: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **باير، ألويس (1944–):** دارماساترا: مقدمة ونظرة عامة. -- 10. الأسرار والطقوس الانتقالية (سامسكارا). -- الملحق ج: راو وكيتو، الكواكب المتحركة غير المرئية . -- الرابط: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 الشكل: [⟪सूर्यः⟫، ⟪चन्द्रः⟫، ⟪मङ्गलः⟫](/ar/licenses#lekt4602)

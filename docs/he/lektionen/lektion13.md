@@ -172,7 +172,7 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫
 >
 > In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
 >
-> [מקור: **דאוסון, ג'ון \&lt;1820-1881\&gt;:** מילון קלאסי של מיתולוגיה הודו, דת, גיאוגרפיה, היסטוריה וספרות. -- לונדון, טריבנר, 1879. -- ערך.]
+> [מקור: **דאוסון, ג'ון (1820–1881):** מילון קלאסי של מיתולוגיה הודו, דת, גיאוגרפיה, היסטוריה וספרות. -- לונדון, טריבנר, 1879. -- ערך.]
 
 ::: media
 ![](/images/lekt1301.webp)

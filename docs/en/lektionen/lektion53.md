@@ -484,7 +484,7 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 See also:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Introduction to the Exegesis of Sanskrit Texts : Script. -- Ch. 8: The Actual Exegesis, Part II: On Specific Questions of Synchronous Understanding. -- Appendix B: On the Metrics of Sanskrit Texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois (1944–):** Introduction to the Exegesis of Sanskrit Texts : Script. -- Ch. 8: The Actual Exegesis, Part II: On Specific Questions of Synchronous Understanding. -- Appendix B: On the Metrics of Sanskrit Texts. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Significance of Determining the Meter
 
@@ -492,7 +492,7 @@ The determination of the meter is important for the following reasons:
 
 1.  **Aesthetic:** The verse measure contributes, among other things, to the beauty of a statement. Furthermore, certain verse measures may serve to express specific moods, or they are associated with specific social classes (⟪वर्ण⟫). The various verse measures are recited differently. :br A good impression of the aesthetic effect can be gained, for example, from the recitation of the ⟪शिवताण्डवस्तोत्र⟫ (Ode to Śiva's Dance): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Text-critical:** Errors in the verse measure can be an indication that the text has not been transmitted correctly at a certain point. The verse measure helps to make textual emendations.
-3.  **Chronological:** certain verse measures underwent specific changes over the course of history. This can assist in the approximate dating of a text. See **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** On the History of the Triṣṭhubh ; idem: On the History of the Śloka. -- Both reprinted in: :br **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Small Writings / Hermann Oldenberg. Ed. by Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vols. -- (Glasenapp Foundation ; ...). -- Vol. 2. -- 1967. -- pp. 1188 - 1255.
+3.  **Chronological:** certain verse measures underwent specific changes over the course of history. This can assist in the approximate dating of a text. See **Oldenberg, Hermann (1854–1920):** On the History of the Triṣṭhubh ; idem: On the History of the Śloka. -- Both reprinted in: :br **Oldenberg, Hermann (1854–1920):** Small Writings / Hermann Oldenberg. Ed. by Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vols. -- (Glasenapp Foundation ; ...). -- Vol. 2. -- 1967. -- pp. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -637,7 +637,7 @@ Alois Maria Payer
 ::: deleteme-box
 **Sources**
 
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskrit Course. -- 53. Lesson 53 (Semester Break). -- Version from 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois (1944–):** Sanskrit Course. -- 53. Lesson 53 (Semester Break). -- Version from 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
@@ -646,6 +646,6 @@ Alois Maria Payer
 :::
 ::: deleteme-box
 
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskrit Course. -- 53. Lesson 53 (Semester Break). -- Version from 2009-01-19. -- Image source of the original table 53.9: Screenshot of the original source (Payer).
+**Payer, Alois (1944–):** Sanskrit Course. -- 53. Lesson 53 (Semester Break). -- Version from 2009-01-19. -- Image source of the original table 53.9: Screenshot of the original source (Payer).
 :::
 

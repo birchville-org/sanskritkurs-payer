@@ -111,7 +111,7 @@ A) 翻译成梵文（对于过去时态，请使用未完成体 \&lt;⟪लङ�
 ::: indent
 关于教团分裂（⟪सङ्घभेद⟫）参见：
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha：上座部佛教戒律与僧团法的基本概念。-- 第一部分。--（佛教基本概念资料）。-- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha：上座部佛教戒律与僧团法的基本概念。-- 第一部分。--（佛教基本概念资料）。-- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 3\. Hast du vom König eine Gabe empfangen?
 

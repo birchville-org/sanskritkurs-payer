@@ -176,7 +176,7 @@ Tanulják meg a következő szavakat:
 >
 > Ebben az értelemben más eredetet találtak rá: a forrás már nem asu, 'lélegzet', hanem az első *a* tagadó előtagként van értelmezve, és az asura jelentése 'nem isten'; ezért egyesek szerint keletkezett a *sura* szó, amelyet általában 'istennek' használnak.”
 >
-> [Forrás: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Forrás: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)

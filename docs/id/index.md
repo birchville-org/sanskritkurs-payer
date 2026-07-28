@@ -24,17 +24,17 @@ features:
 
 
 
-::: note-box  Version 1.6 — Global Integrity & Stabilität
-**Baru dalam v1.6 (Juli 2026):**
+::: note-box  Versi 1.6.4 — Integritas Global, SSOT & Stabilität
+**Baru di v1.6.4 (Juli 2026):**
 
-- **Penyelesaian 100% dalam 19 bahasa:** Arab, Ibrani, Aram, Mandarin Sederhana, Indonesia, Hindi, Tamil, Punjabi, Latin, Rumania, dan Rumantsch Grischun kini diterjemahkan secara mesin tanpa celah (kualitas tidak terjamin; murni studi kelayakan tanpa penyunting).
-- **Dukungan RTL:** Dukungan tata letak asli untuk bahasa yang mengalir dari kanan ke kiri (Arab, Ibrani) termasuk antarmuka pengguna yang sepenuhnya dilokalisasi.
-- **PWA & Offline-First:** Penggunaan offline lengkap dan bebas kesalahan dari semua konten kursus di seluruh versi bahasa aktif.
-- **Versi Penulis & Editor:** Editor lengkap untuk penyunting (QA-Viewer) dengan sistem fallback AI asinkron untuk terjemahan massal yang sangat stabil.
+- **Penyelesaian 100% dalam 21 Bahasa Sasaran:** 21 bahasa (termasuk Yunani Kuno, Suomi, Magyar, Arab, Ibrani, Latin, Mandarin Sederhana, dan lainnya) kini telah diterjemahkan secara lengkap tanpa fallback dan dilindungi sebagai *read-only* di bawah kunci total absolut.
+- **Lokalisasi UI Lengkap (SSOT):** Semua elemen navigasi dan kontrol (Pelajaran Sebelumnya/Selanjutnya, Latihan, Daftar Isi) disediakan secara dinamis dalam semua 32 bahasa melalui register bahasa terpusat.
+- **Tipografi & Penjaminan Kualitas:** Tipografi Devanāgari tegak tanpa distorsi miring, tag merah sinyal yang telah diperbaiki, dan teks yang telah dibersihkan di seluruh versi bahasa yang selesai.
+- **PWA & Offline-First:** Penggunaan offline penuh untuk semua konten kursus di seluruh versi bahasa aktif.
 
-**Komentar dan pesan kesalahan diterima di:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Berpartisipasi sebagai penyunting atau kurator:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Komentar dan laporan bug diterima di:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Berpartisipasi sebagai editor atau kurator:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 
-- Untuk penulis (dan siapa pun yang ingin menggunakan editor Markdown mandiri ringan), tersedia editor sumber terbuka di https://github.com/marcodem/zentauri
+- Untuk penulis (dan siapa pun yang ingin menggunakan editor Markdown mandiri yang ringan), tersedia editor sumber terbuka di https://github.com/marcodem/zentauri
 
 :::

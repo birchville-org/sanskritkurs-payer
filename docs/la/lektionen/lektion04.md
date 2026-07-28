@@ -69,7 +69,7 @@ Ut cum his pronomine (sarvanāman n.) sententias formare possimus, notitia seque
 ### 4.1.4. Sandhi vocis finalis -d
 
 ::: grammar-box
-**Auslautendes -d wird in Pausa sowie vor stimmlosen Gutturalen (k, kh) und Labialen (p, ph) durch -t ersetzt.**
+**-d finale in pausa et ante gutturales surdas (k, kh) et labiales (p, ph) per -t mutatur.**
 
 Prae aliis consonantibus substitutio postea tractabitur. Evita interim tales sonorum concursus!
 :::

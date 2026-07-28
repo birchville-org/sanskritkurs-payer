@@ -373,7 +373,7 @@ davon:
 :::
 A ⟪राहु⟫ és a ⟪केतु⟫ tekintetében lásd:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Bevezetés és áttekintés. -- 10. Szakramentumok és átmeneti rítusok (samskara). -- C. függelék: Rahu és Ketu, a láthatatlan vándorló csillagok . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Bevezetés és áttekintés. -- 10. Szakramentumok és átmeneti rítusok (samskara). -- C. függelék: Rahu és Ketu, a láthatatlan vándorló csillagok . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Kép: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/hu/licenses#lekt4602)

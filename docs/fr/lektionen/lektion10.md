@@ -238,7 +238,7 @@ Formation du mot : **yaj** 1 U + suffixe kṛt **-na-**.
 ::: note-box
 En Inde, on attribuait au mot véritable un pouvoir magique, et en fait, tout l'ordre cosmique est maintenu et créé par le mot véritable. Pour cette conception importante, voir l'œuvre fondamentale :
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt; : Varuna / Heinrich Lüders. Éd. posthume par Ludwig Alsdorf. - Göttingue : Vandenhoeck & Ruprecht. -- Vol. 2 : Varuna et le Ṛta. -- 1959. -- XXIII p., p. 340 - 764
+Lüders, Heinrich (1869–1943) : Varuna / Heinrich Lüders. Éd. posthume par Ludwig Alsdorf. - Göttingue : Vandenhoeck & Ruprecht. -- Vol. 2 : Varuna et le Ṛta. -- 1959. -- XXIII p., p. 340 - 764
 :::
 
 ::: media

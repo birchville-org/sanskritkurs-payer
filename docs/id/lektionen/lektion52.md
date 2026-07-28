@@ -767,9 +767,9 @@ Mahābhārata : Epik besar India / diterjemahkan dan dipadatkan dari Sanskerta o
 8.  Mengerjakan:  
 **Kunnappally, John:** Prakriyā bhāshyam : Tata bahasa Sanskerta / Awalnya ditulis dalam Malayalam. Diterjemahkan ke dalam bahasa Inggris oleh K.V.R. Pai. -- Parathode : Terbit sendiri, 1983. -- 818 hlm. ; 23 cm. -- hal. 208 - 254 (Pemerintahan Sintaksis)
 9.  Mengerjakan sepenuhnya:  
-**Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**Keajaiban IndiaBagian: Survei budaya anak benua India sebelum kedatangan Muslim. -- London : Sidgwick & Jackson, 1954.
+**Basham, A. L. (Arthur Llewellyn) (1914–1986)**Keajaiban IndiaBagian: Survei budaya anak benua India sebelum kedatangan Muslim. -- London : Sidgwick & Jackson, 1954.
 10.  Memulai dengan mengerjakan:  
-**Winternitz, Moriz \&lt;1863 - 1937\&gt;:** Sejarah sastra India. Stuttgart : Koehler. -- 3 jilid. -- 1908 - 1922 (masih jauh yang terbaik sejarah sastra Sanskerta, Pali, dan Prakrit)
+**Winternitz, Moriz (1863–1937):** Sejarah sastra India. Stuttgart : Koehler. -- 3 jilid. -- 1908 - 1922 (masih jauh yang terbaik sejarah sastra Sanskerta, Pali, dan Prakrit)
 
 ::: media
 ![](/images/lekt5201.webp)

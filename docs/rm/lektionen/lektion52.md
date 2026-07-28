@@ -767,9 +767,9 @@ Mahābhārata : L'epos indian / trad. e resumà dal sanscrit da Biren Roy. -- 10
 8.  Tractar:
 **Kunnappally, John:** Prakriyā bhāshyam : Grammatica sanscrita / Originalmain scrit en malayalam. Tradusì en englais da K.V.R. Pai. -- Parathode : Ediziun propria, 1983. -- 818 paginas ; 23 cm. -- Pag. 208 - 254 (Regulaziun sintactica)
 9.  Finir da tractar:
-**Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**Il miracel che era l'IndiaPart: Ina survista da la cultura dal subcontinents indian avant l'aventgiment dals musulmans. -- London : Sidgwick & Jackson, 1954.
+**Basham, A. L. (Arthur Llewellyn) (1914–1986)**Il miracel che era l'IndiaPart: Ina survista da la cultura dal subcontinents indian avant l'aventgiment dals musulmans. -- London : Sidgwick & Jackson, 1954.
 10.  Cumenzar cun tractar:
-**Winternitz, Moriz \&lt;1863 - 1937\&gt;:** Istorgia da la litteratura indiana. Stuttgart : Koehler. -- 3 toms. -- 1908 - 1922 (anc adina la millura istorgia da litteratura dal sanscrit, pali e prakrit)
+**Winternitz, Moriz (1863–1937):** Istorgia da la litteratura indiana. Stuttgart : Koehler. -- 3 toms. -- 1908 - 1922 (anc adina la millura istorgia da litteratura dal sanscrit, pali e prakrit)
 
 ::: media
 ![](/images/lekt5201.webp)

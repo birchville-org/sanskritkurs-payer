@@ -767,9 +767,9 @@ _Ficus religiosa_ L. ⟪बोधगया⟫，约 1810 年
 8.  完成：
 **Kunnappally, John:** 《Prakriyā bhāshyam：梵文语法》 / 最初用马拉雅拉姆语撰写。由K.V.R. Pai翻译成英语。 -- Parathode : 自出版, 1983. -- 818页 ; 23厘米。 -- 第208 - 254页（句法支配）
 9.  彻底完成：
-**Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**《印度奇迹》部分A：穆斯林到来之前印度次大陆的文化概览。 -- 伦敦 : Sidgwick & Jackson, 1954.
+**Basham, A. L. (Arthur Llewellyn) (1914–1986)**《印度奇迹》部分A：穆斯林到来之前印度次大陆的文化概览。 -- 伦敦 : Sidgwick & Jackson, 1954.
 10.  开始学习：
-**Winternitz, Moriz \&lt;1863 - 1937\&gt;:** 《印度文学史》。斯图加特 : Koehler. -- 3卷本。 -- 1908 - 1922（至今仍是关于梵文、巴利语和普拉克里特文学最好的文学史）
+**Winternitz, Moriz (1863–1937):** 《印度文学史》。斯图加特 : Koehler. -- 3卷本。 -- 1908 - 1922（至今仍是关于梵文、巴利语和普拉克里特文学最好的文学史）
 
 ::: media
 ![](/images/lekt5201.webp)

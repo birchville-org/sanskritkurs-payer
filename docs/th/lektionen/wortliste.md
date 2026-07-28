@@ -78,7 +78,7 @@ outline: 2
 
 วรรณะทั้งสามสวมเครื่องแต่งกายตามสถานะของตน เหนือจากนั้นซึ่งถูกเรียกว่าเป็นไปตามประสงค์ของพระเจ้า พระคริสต์ทรงประทับอยู่บนบัลลังก์
 
-แม็กซ์ เวเบอร์ \&lt;1864 – 1920\&gt; นิยามวรรณะดังนี้:
+แม็กซ์ เวเบอร์ (1864–1920) นิยามวรรณะดังนี้:
 
 ::: note-box
 »**วรรณะ**« หมายถึงกลุ่มบุคคลจำนวนมากที่มีประสิทธิภาพภายในองค์กร
@@ -99,7 +99,7 @@ outline: 2
 
 สังคมเชิงวรรณะทุกชนิดเป็นแบบสมมติ โดยถูกจัดระเบียบตามกฎเกณฑ์ของการดำเนินชีวิต จึงสร้างเงื่อนไขการบริโภคที่ไร้เหตุผลทางเศรษฐกิจ และขัดขวางการพัฒนาตลาดอย่างเสรีผ่านสิทธิผูกขาดและการกีดกันการควบคุมความสามารถในการหาเลี้ยงชีพของตนเอง
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
 วรณะจึงเป็นชนชั้นที่เกิดจากการกำเนิด
 
@@ -436,7 +436,7 @@ outline: 2
 ::: note-box
 ในอินเดียเชื่อกันว่าคำพูดที่แท้จริงมีพลังเวทมนตร์ และระเบียบของโลกทั้งปวงถูกรักษาและสร้างขึ้นโดยคำพูดที่แท้จริง สำหรับแนวคิดสำคัญนี้ ดูงานพื้นฐาน:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. ตีพิมพ์จากมรดกโดย Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- เล่ม 2: Varuna และ Ṛta. -- 1959. -- XXIII หน้า, หน้า 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. ตีพิมพ์จากมรดกโดย Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- เล่ม 2: Varuna และ Ṛta. -- 1959. -- XXIII หน้า, หน้า 340 - 764
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -636,7 +636,7 @@ Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. ตีพิ
 >
 > ในความหมายนี้ มีการค้นพบที่มาอื่นสำหรับคำนี้: แหล่งที่มาจากคือ asu, 'ลมหายใจ,' แต่ตัวอักษรต้น *a* ถือว่าเป็นคำนำหน้าเชิงลบ และ **asura** หมายถึง 'ไม่ใช่พระเจ้า;' ดังนั้น ตามบางความเห็น จึงเกิดคำ *sura,* ซึ่งใช้ทั่วไปสำหรับ 'พระเจ้า.'"
 >
-> [แหล่ง: **Dowson, John \&lt;1820-1881\&gt;:** พจนานุกรมคลาสสิกของตำนานฮินดูและศาสนา ภูมิศาสตร์ ประวัติศาสตร์ และวรรณกรรม. -- ลอนดอน, Trübner, 1879. -- s.v. ]
+> [แหล่ง: **Dowson, John (1820–1881):** พจนานุกรมคลาสสิกของตำนานฮินดูและศาสนา ภูมิศาสตร์ ประวัติศาสตร์ และวรรณกรรม. -- ลอนดอน, Trübner, 1879. -- s.v. ]
 
 
 ::: media
@@ -3073,7 +3073,7 @@ Abb.: ⟪शास्त्री⟫
 ::: deleteme-box
 ดูเพิ่มเติม:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: เด็กผู้หญิง, ลูกสาว, หญิงพรหมจรรย์
 
@@ -3087,7 +3087,7 @@ PPP ⟪अतीत⟫ : n. อดีต
 ::: deleteme-box
 ดูเพิ่มเติม:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: เด็กผู้หญิง, ลูกสาว, หญิงพรหมจรรย์
 
@@ -3101,7 +3101,7 @@ PPP ⟪अतीत⟫ : n. อดีต
 ::: deleteme-box
 ดูเพิ่มเติม:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: เด็กผู้หญิง, ลูกสาว, หญิงพรหมจรรย์
 
@@ -3514,7 +3514,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 ดู:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3524,7 +3524,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 ดู:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3534,7 +3534,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 ดู:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุเกี่ยวกับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::
 ::: media
@@ -3595,7 +3595,7 @@ Absol. -⟪ग्राह्य⟫
 :::
 ดู ⟪राहु⟫ และ ⟪केतु⟫:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : บทนำและภาพรวม. -- 10. พิธีกรรมและการเปลี่ยนผ่าน (samskara). -- ภาคผนวก C: ราหูและเกตุ, ดาวเคราะห์ที่มองไม่เห็น . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : บทนำและภาพรวม. -- 10. พิธีกรรมและการเปลี่ยนผ่าน (samskara). -- ภาคผนวก C: ราหูและเกตุ, ดาวเคราะห์ที่มองไม่เห็น . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 ภาพประกอบ: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -3935,7 +3935,7 @@ Sualkuchi = সুৱালকুচি, Assam = অসম
 
 :::
 ::: indent
-**Carakasaṃhitā:** ข้อความที่เลือกจาก Carakasaṃhitā / แปลและอธิบายโดย Alois Payer \&lt;1944 - \&gt;. -- 0. บทนำ. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** ข้อความที่เลือกจาก Carakasaṃhitā / แปลและอธิบายโดย Alois Payer (1944–). -- 0. บทนำ. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : โยน, พุ่ง
 
@@ -4674,7 +4674,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1003**: เทวเจ้าวารุณะ = ⟪वरुण⟫, ศตวรรษที่ 17 [แหล่งที่มาของภาพ. วิกิพีเดีย สากลสาธารณชน]
 
-**lekt1002**: ฤๅษีรูปหนึ่ง: วิศวะมิตระ (⟪विश्वामित्र⟫) / โดย ราชาราวี วาร์มา (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \&lt;1848 - 1906\&gt; [แหล่งที่มาของภาพ: วิกิพีเดีย สากลสาธารณชน]
+**lekt1002**: ฤๅษีรูปหนึ่ง: วิศวะมิตระ (⟪विश्वामित्र⟫) / โดย ราชาราวี วาร์มา (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [แหล่งที่มาของภาพ: วิกิพีเดีย สากลสาธารณชน]
 
 **lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ ภูเขาจามุนดี, มัยซอร์ (ಮೈಸೂರು) [แหล่งที่มาของภาพ: ประকাশ ซับบาราว / วิกิพีเดีย. -- สากลสาธารณชน]
 

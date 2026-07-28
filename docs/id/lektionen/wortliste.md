@@ -66,7 +66,7 @@ Fig.: Representasi pembagian kasta di Eropa Abad Pertengahan (ukiran kayu dari a
 
 The three estates wear the respective estate attire. Above them -- thus designated as willed by God -- Christ reigns.
 
-Max Weber \&lt;1864 – 1920\&gt; defines estate as follows:
+Max Weber (1864–1920) defines estate as follows:
 
 ::: note-box
 "**Kasta**" dimaksudkan untuk menunjukkan sekelompok orang yang, dalam suatu asosiasi, secara efektif
@@ -86,7 +86,7 @@ Seiring kelas pekerjaan tumbuh berdasarkan ekonomi berorientasi pasar, kasta mun
 
 Setiap masyarakat yang terorganisir secara kolektif adalah konvensional, diatur oleh aturan perilaku, dengan demikian menciptakan kondisi konsumsi yang tidak rasional secara ekonomi dan menghambat pembentukan pasar bebas dengan cara ini melalui apropriasi monopoli dan dengan mengecualikan pembuangan bebas dari kapasitas penghasilan seseorang.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;: Ekonomi dan Masyarakat : Garis Besar Sosiologi Pemahaman. – Edisi ke-5, direvisi. – Tübingen : Mohr, 1976. – Hlm. 625 f.]
+[**Weber, Max (1864–1920): Ekonomi dan Masyarakat : Garis Besar Sosiologi Pemahaman. – Edisi ke-5, direvisi. – Tübingen : Mohr, 1976. – Hlm. 625 f.]
 :::
 Varṇas are accordingly birth estates.
 
@@ -381,7 +381,7 @@ Melalui mana seseorang memperoleh kesejahteraan dan kelahiran kembali yang baik.
 ::: note-box
 Di India, kata-kata yang benar dikaitkan dengan kekuatan magis; sebenarnya, seluruh tatanan kosmis dipertahankan dan diciptakan oleh kata-kata yang benar. Untuk konsep penting ini, lihat karya fundamental:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuṇa / Heinrich Lüders. Disunting dari warisan oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuṇa dan Ṛta. -- 1959. -- XXIII hlm., hlm. 340 - 764
+Lüders, Heinrich (1869–1943): Varuṇa / Heinrich Lüders. Disunting dari warisan oleh Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuṇa dan Ṛta. -- 1959. -- XXIII hlm., hlm. 340 - 764
 :::: media
 ![](/images/lekt1003.webp)
 Fig.: ⟪वरुणः⟫
@@ -589,7 +589,7 @@ Learn the following words:
 >
 > In this sense a different derivation has been found for it: the source is no longer asu, 'breath,' but the initial *a* is taken as the negative prefix, and *asura* signifies 'not a god;' hence, according to some, arose the word *sura,* commonly used for 'a god.'"
 >
-> [Source: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Source: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)
@@ -2866,7 +2866,7 @@ Fig.: ⟪शास्त्री⟫
 ::: deleteme-box
 see also:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Konsep Dasar Peraturan dan Hukum Monastik Theravāda. -- Bagian I. -- (Bahan tentang Konsep Dasar Buddhisme). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Konsep Dasar Peraturan dan Hukum Monastik Theravāda. -- Bagian I. -- (Bahan tentang Konsep Dasar Buddhisme). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: gadis muda, putri, perawan
 
@@ -3260,7 +3260,7 @@ Absolut. -⟪रभ्य⟫
 ::: deleteme-box
 See:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Konsep Dasar Peraturan dan Hukum Monastik Theravāda. -- Bagian I. -- (Bahan tentang Konsep Dasar Buddhisme). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Konsep Dasar Peraturan dan Hukum Monastik Theravāda. -- Bagian I. -- (Bahan tentang Konsep Dasar Buddhisme). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::: media
 ![](/images/lekt4408.webp)
@@ -3310,7 +3310,7 @@ from that:
 :::
 Regarding ⟪राहु⟫ and ⟪केतु⟫ see:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Pengantar dan Gambaran Umum. -- 10. Sakramen dan Ritual Transisi (samskara). -- Lampiran C: Rahu dan Ketu, bintang-bintang pengembara tak terlihat. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Pengantar dan Gambaran Umum. -- 10. Sakramen dan Ritual Transisi (samskara). -- Lampiran C: Rahu dan Ketu, bintang-bintang pengembara tak terlihat. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/en/licenses#lekt4602)
@@ -3636,7 +3636,7 @@ see:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer \&lt;1944 - \&gt;. -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Selected Texts from the Carakasaṃhitā / translated and explained by Alois Payer (1944–). -- 0. Introduction. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : throw, hurl
 

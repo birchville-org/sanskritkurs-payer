@@ -237,7 +237,7 @@ Miten ansioitetaan hyvinvointia ja hyviä uudelleensyntymisiä.
 ::: note-box
 Intiassa aidolle sanalle oli annettu taikavoimaa; koko maailmankaikkeus ylläpidetään ja luodaan aidon sanan kautta. Katso perusteos tärkeään käsitykseen:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Toim. Ludwig Alsdorf jälkikäsittelystä. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna ja Ṛta. -- 1959. -- XXIII s., s. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Toim. Ludwig Alsdorf jälkikäsittelystä. - Göttingen : Vandenhoeck & Ruprecht. -- Bd. 2: Varuna ja Ṛta. -- 1959. -- XXIII s., s. 340 - 764
 :::
 
 ::: media

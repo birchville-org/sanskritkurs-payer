@@ -111,7 +111,7 @@ Te szétosztod a (buddhista) közösséget.
 ::: indent
 a közösség szétosztásáról (⟪सङ्घभेद⟫) lásd:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Az Ordensregeln és az Ordensrecht alapfogalmai a Theravāda számára. -- I. rész. -- (Anyagok a buddhizmus alapfogalmaihoz). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Az Ordensregeln és az Ordensrecht alapfogalmai a Theravāda számára. -- I. rész. -- (Anyagok a buddhizmus alapfogalmaihoz). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 Élveztétek-e a földet?
 

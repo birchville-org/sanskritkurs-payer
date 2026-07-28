@@ -171,7 +171,7 @@ Wenn in diesem Fall ⟪अपि⟫ nach dem PPP steht, hat ⟪अपि⟫ die 
 >
 > ਇਸ ਅਰਥ ਵਿੱਚ, ਇਸਦੇ ਲਈ ਇੱਕ ਵੱਖਰਾ ਨਿਰੁਕਤ ਲੱਭੀ ਗਈ ਹੈ: ਸਰੋਤ ਹੁਣ ਅਸੁ, 'ਸਾਹ,' ਨਹੀਂ ਹੈ, ਸਗੋਂ ਸ਼ੁਰੂਆਤੀ *a* ਨੂੰ ਨਕਾਰਾਤਮਕ ਉਪਸਰਗ ਵਜੋਂ ਲਿਆ ਜਾਂਦਾ ਹੈ, ਅਤੇ **asura** ਦਾ ਅਰਥ 'ਦੇਵਤਾ ਨਹੀਂ;' ਹੈ; ਇਸ ਲਈ, ਕੁਝ ਦੇ ਅਨੁਸਾਰ, **sura** ਪਦ ਪੈਦਾ ਹੋਇਆ, ਜੋ ਆਮ ਤੌਰ 'ਤੇ 'ਦੇਵਤਾ' ਲਈ ਵਰਤਿਆ ਜਾਂਦਾ ਹੈ⟪।⟫"
 >
-> [ਸਰੋਤ: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [ਸਰੋਤ: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)

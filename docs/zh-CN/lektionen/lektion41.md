@@ -372,7 +372,7 @@ davon:
 ::: deleteme-box
 参见：
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha：上座部佛教戒律与僧团法的基本概念。-- 第一部分。-- (佛教基本概念资料)。-- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha：上座部佛教戒律与僧团法的基本概念。-- 第一部分。-- (佛教基本概念资料)。-- _网址_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.：年轻女子，女儿，处女
 

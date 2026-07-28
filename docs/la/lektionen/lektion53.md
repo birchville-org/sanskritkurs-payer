@@ -484,7 +484,7 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 Vide etiam:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Introductio in exegese textuum Sanscriticorum : Scriptum. -- Cap. 8: Exegesis propria, pars II: De quaestionibus singulis de intelligentia synchrona. -- Appendicula B: De metrica textuum Sanscriticorum. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois (1944–):** Introductio in exegese textuum Sanscriticorum : Scriptum. -- Cap. 8: Exegesis propria, pars II: De quaestionibus singulis de intelligentia synchrona. -- Appendicula B: De metrica textuum Sanscriticorum. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Pondus determinationis metri
 
@@ -492,7 +492,7 @@ Determinatio metri ex sequentibus causis importat:
 
 1.  **Aestheticum:** mensura versuum, inter alia, pulchritudinem enuntiationis efficit. Praeterea, quaedam mensurae versuum, fortasse, ad exprimendas certas animi dispositiones prosunt, aut ordinibus quibusdam (⟪वर्ण⟫) assignantur. Varii versuum modi secundum diversas consuetudines recitantur. :br Bonam imaginem effectus aesthetici praebet, exempli gratia, recitatio ⟪शिवताण्डवस्तोत्र⟫ (laudes saltus Śivae): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Textualiter criticum:** errores in mensura versuum indicium esse possunt, textum loco quodam non recte traditum esse. Mensura versuum auxilium praestat ad textus emendationes faciendas.
-3.  **Chronologicum:** quaedam mensurae versuum per historiam mutationes quasdam subierunt. Quod ad textus approssimam datationem adiuvare potest. Vide **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** De Triṣṭhubh historia ; idem: De Śloka historia. -- Utrumque impressum in: :br **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Opera minora / Hermann Oldenberg. Edidit Klaus L. Janert. -- Vindobona : Steiner. -- 3 vol. -- (Fondatio Glasenapp ; ...). -- Vol. 2. -- 1967. -- Pp. 1188 - 1255.
+3.  **Chronologicum:** quaedam mensurae versuum per historiam mutationes quasdam subierunt. Quod ad textus approssimam datationem adiuvare potest. Vide **Oldenberg, Hermann (1854–1920):** De Triṣṭhubh historia ; idem: De Śloka historia. -- Utrumque impressum in: :br **Oldenberg, Hermann (1854–1920):** Opera minora / Hermann Oldenberg. Edidit Klaus L. Janert. -- Vindobona : Steiner. -- 3 vol. -- (Fondatio Glasenapp ; ...). -- Vol. 2. -- 1967. -- Pp. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -637,7 +637,7 @@ Alois Maria Payer
 ::: deleteme-box
 **Fontes**
 
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
@@ -646,6 +646,6 @@ Alois Maria Payer
 :::
 ::: deleteme-box
 
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskritcursus. -- 53. Lectiones 53 (Vacationes semestriales). -- Versio diei 2009-01-19. -- Fons imaginis tabulae originalis 53.9: Screenshot fontis originalis (Payer).
+**Payer, Alois (1944–):** Sanskritcursus. -- 53. Lectiones 53 (Vacationes semestriales). -- Versio diei 2009-01-19. -- Fons imaginis tabulae originalis 53.9: Screenshot fontis originalis (Payer).
 :::
 

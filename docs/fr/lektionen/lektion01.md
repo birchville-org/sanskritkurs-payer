@@ -74,7 +74,7 @@ Au début, une curiosité :
 
 >"Lorsque William Jones [1746–1794] et Henry Thomas Colebrooke (1765—1857) étudièrent pour la première fois le sanskrit de manière approfondie, le traduisirent en partie et découvrirent qu'il possédait une riche littérature et une parenté non négligeable avec les langues classiques, ils se heurtèrent à une résistance considérable. Comme cette relation intime du sanskrit avec les langues européennes géographiquement si éloignées ne pouvait s'accommoder des conceptions anciennes, qui déduisaient soit toutes les langues de l'hébreu, soit les isolaient en grande partie les unes des autres, le célèbre philologue Dugald Steward (1753—1828) prit la solution la plus simple, en déclarant toute l'histoire avec la langue sanskrite comme un mensonge. Il rédigea un essai dans lequel il cherchait à prouver qu'elle avait été forgée par les brahmanes rusés sur le modèle du grec et du latin, et que la langue ainsi que la littérature étaient une falsification. Cette opinion fut encore développée de manière détaillée en 1840 par le professeur de Dublin, Charles William Wall (Annonces savantes de Göttingen 1842 p. 1888)."
 >
->[Source : **Kemmerich**, Max \&lt;1876-1932\&gt; : Kultur-Kuriosa. -- Munich : Langen. -- Vol. 2. -- 1923. -- p. 74. -- En ligne : [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Consulté le 2010-01-10]
+>[Source : **Kemmerich**, Max (1876–1932) : Kultur-Kuriosa. -- Munich : Langen. -- Vol. 2. -- 1923. -- p. 74. -- En ligne : [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Consulté le 2010-01-10]
 
 ## 1.1. Littérature pour débutants en indologie
 
@@ -84,7 +84,7 @@ Fig. : Couverture d'une édition de poche
 (Source de l'image : [Détails](/fr/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Partie : A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- Londres : Sidgwick & Jackson, 1954. -- Depuis de nombreuses éditions, y compris des éditions de poche. -- **Lecture obligatoire.** Une bonne vue d'ensemble de la vie, de l'histoire et de la culture dans l'Inde pré-islamique. Vue d'ensemble des différents domaines de l'indologie classique.
+>**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Partie : A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- Londres : Sidgwick & Jackson, 1954. -- Depuis de nombreuses éditions, y compris des éditions de poche. -- **Lecture obligatoire.** Une bonne vue d'ensemble de la vie, de l'histoire et de la culture dans l'Inde pré-islamique. Vue d'ensemble des différents domaines de l'indologie classique.
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -94,7 +94,7 @@ Fig. : Page de titre
 
 Meilleure grammaire systématique :
 
-> **Kielhorn**, Franz \&lt;1840-1908\&gt;: Grammaire de la langue sanskrite / Traduit de l'anglais par W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Titre original : A grammar of the Sanscrit language
+> **Kielhorn**, Franz (1840–1908): Grammaire de la langue sanskrite / Traduit de l'anglais par W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 p. -- Titre original : A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -114,7 +114,7 @@ Fig. : Titre de couverture
 
 Une bonne présentation concise de la terminologie linguistique européenne se trouve dans :
 
-> **Dictionnaire étymologique de la langue allemande** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. Éd. par Elmar Seebold. -- 24e éd., revue et augm.. -- Berlin [et al.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Broché. -- P. XIII - XLVII.
+> **Dictionnaire étymologique de la langue allemande** / [Friedrich] Kluge (1856–1926). Éd. par Elmar Seebold. -- 24e éd., revue et augm.. -- Berlin [et al.] : de Gruyter, 2002. - LXXXIX, 1023 p. : 24 cm. -- ISBN 3-11-017473-1 Broché. -- P. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)

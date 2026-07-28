@@ -373,7 +373,7 @@ Absol. -⟪ग्राह्य⟫
 :::
 ดู ⟪राहु⟫ และ ⟪केतु⟫:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : บทนำและภาพรวม. -- 10. พิธีกรรมและการเปลี่ยนผ่าน (samskara). -- ภาคผนวก C: ราหูและเกตุ ดาวเคราะห์ล่องหน. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : บทนำและภาพรวม. -- 10. พิธีกรรมและการเปลี่ยนผ่าน (samskara). -- ภาคผนวก C: ราหูและเกตุ ดาวเคราะห์ล่องหน. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 ภาพประกอบ: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/th/licenses#lekt4602)

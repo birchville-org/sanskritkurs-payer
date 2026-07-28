@@ -121,7 +121,7 @@ Uti alia accusativi adhibentur postea tractabuntur.
 ## 7.3. Sandhi von auslautendem -n
 
 ::: grammar-box
-**Auslautendes -n:**
+**-n finale:**
 
 1. Si ante sonoros palatales et retroflexos sparśa et ante **ś-** per nasalem his sonis correspondentem substituitur:
    - **-n** ante **j-, jh-, ñ-, ś-** » **-ñ**

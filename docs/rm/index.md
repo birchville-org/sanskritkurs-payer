@@ -23,17 +23,17 @@ features:
 ---
 
 
-::: note-box  Version 1.6 — Global Integrity & Stabilität
-**Nov en v1.6 (lugl 2026):**
+::: note-box  Versiun 1.6.4 — Integritad globala, SSOT e stabilitad
+**Nov en v1.6.4 (lugl 2026):**
 
-- **100% cumplet en 19 linguas:** Arab, ebraic, aramaic, chinese simplificà, indonesian, hindi, tamil, punjabi, latin, rumèn e rumantsch grischun èn ussa traduids cumplettamain en maquina (qualitad betg garantida; mo in studi da fattibilitat senza revisiuns).
-- **Support RTL:** Sostegn nativ dal layout per linguas che vegnan scritte da dretga a sanestra (arabic, ebraic) cun ina interfatscha da utilizaziun cumplettamain localisada.
-- **PWA & Offline-First:** Utilisar tut ils cuntegns dal curs cumplettamain e senza errsurs en modalitad offline tras tut las versiuns linguisticas activas.
-- **Versiun d'autur & editur:** Editur cumplet per revisurs (visualisader da QA) cun in sistem da fallback AI asincron per traduccions massivas extremamain stablas.
+- **100% cumplet en 21 linguas d’objectiv:** 21 linguas (tranter autras grech antic, finnic, ungar, arab, ebraic, latin, chinese semplifitgà ed autras) èn ussa cumpletamain traduidas senza fallbacks e protegidas cun ina bloccada totala absoluta.
+- **Localisaziun completa da l’interfacia (SSOT):** Tut ils elements da navigaziun e da controlla (lecziun precedenta/suandanta, exercizis, tableda dal cuntegn) vegnan furnids dinamicamain tras in registral linguistic central en tut las 32 linguas.
+- **Tipografia e controlla da qualitad:** Tipografia Devanāgarī dritga senza distorsions en cursiv, tags da colur cotschna descretgs e text purgids tras tut las versiuns linguisticas finidas.
+- **PWA e «Offline-first»:** Utilisaziun offline cumpleta da tut ils cuntegns dal curs tras tut las versiuns linguisticas activas.
 
-**Observaziuns ed infurmaziuns d'errur benvegnidas a:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Partecipar sco revisur u curatur:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Remartgas ed infurmaziuns davart errurs benvegnidas a:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Participar sco correctur u curatur:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 
-- Per auturs (e per tut quels che vulan duvrar in editur Markdown standalone simpl), è a disposiziun in editur open-source sin https://github.com/marcodem/zentauri
+- Per auturs (ed uschessi che vulen utilisar in editor Markdown standalone simpl), è in editor open-source disponibel a https://github.com/marcodem/zentauri
 
 :::

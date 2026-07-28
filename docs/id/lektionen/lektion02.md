@@ -72,9 +72,9 @@ Akhiran sebuah kata dalam Sanskrit juga diatur oleh awalan kata berikutnya. Feno
 
 Lihat juga ringkasan:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi dari akhiran -s. -- (Materi tentang Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Sandhi dari akhiran -s. -- (Materi tentang Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-Auslautendes **-s**:
+**-s** akhir:
 
 - **di akhir absolut** (akhir kalimat) berubah menjadi **Visarga (-ḥ)**:
   - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
@@ -160,7 +160,7 @@ Gambar: Penggambaran pembagian kasta masyarakat Eropa Abad Pertengahan (ukiran k
 
 Ketiga kasta mengenakan pakaian khas masing-masing kasta. Di atas kasta-kasta — yang dengan demikian disebut sebagai kehendak ilahi — takhta Kristus.
 
-Max Weber \&lt;1864 – 1920\&gt; mendefinisikan Stand sebagai berikut:
+Max Weber (1864–1920) mendefinisikan Stand sebagai berikut:
 
 ::: note-box
 "**Stand**" haruslah bermakna suatu kumpulan orang yang, dalam suatu ikatan,
@@ -180,7 +180,7 @@ Sementara kelas-kelas ekonomi tumbuh di atas dasar ekonomi berorientasi pasar, k
 
 Setiap masyarakat kasta bersifat konvensional, diatur oleh aturan-aturan hidup, sehingga menciptakan kondisi konsumsi yang secara ekonomi irasional dan dengan demikian menghambat pembentukan pasar bebas melalui apropriasi monopoli dan dengan mengecualikan kebebasan untuk mengatur kemampuan penghasilan sendiri.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Ekonomi dan Masyarakat : Kerangka Sosiologi Memahami. – Edisi ke-5, direvisi. – Tübingen : Mohr, 1976. – Hlm. 625 f.]
+[**Weber, Max (1864–1920):** Ekonomi dan Masyarakat : Kerangka Sosiologi Memahami. – Edisi ke-5, direvisi. – Tübingen : Mohr, 1976. – Hlm. 625 f.]
 :::
 Varṇa adalah kasta kelahiran.
 

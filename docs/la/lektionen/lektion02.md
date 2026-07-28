@@ -72,9 +72,9 @@ Finis verbi in Sanscrito etiam secundum initium sequentis verbi regitur. Haec ph
 
 Vide etiam summam:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi vocis finalis -s. -- (Materialia Sanscritica). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Sandhi vocis finalis -s. -- (Materialia Sanscritica). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
-Auslautendes **-s**:
+**-s** finale:
 
 - **in absolutem finali** (fine sententiae) mutatur in **Visarga (-ḥ)**:
   - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
@@ -160,7 +160,7 @@ Fig.: Representatio ordinum Europae Medii Aevi (xylographia finis saec. XV).
 
 Tres ordines vestem suam gerunt. Super eos, qui ideo divinitus iussi dicuntur, Christus sedet.
 
-Max Weber \&lt;1864 – 1920\&gt; statum definit sic:
+Max Weber (1864–1920) statum definit sic:
 
 ::: note-box
 »**Status**« nomen esse debet multitudinis hominum, quae intra consortium
@@ -180,7 +180,7 @@ Cum ordines mercatorii in solo economiae mercatus orientatae crescunt, ordines p
 
 Quaeque societas ordinis est conventionalis, regulis vitae ordinata, ideoque condiciones consumptionis economicum irrationalis creat, et per hanc rationem per appropriationes monopolisticas et per exclusionem liberam dispositionem de propria facultate acquisitionis liberam formationem mercatus impedit.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Res publicae et societas : schola sociologiae intellegendae. – 5a, emendata editio. – Tubingae : Mohr, 1976. – P. 625 seq.]
+[**Weber, Max (1864–1920):** Res publicae et societas : schola sociologiae intellegendae. – 5a, emendata editio. – Tubingae : Mohr, 1976. – P. 625 seq.]
 :::
 Varṇas sunt igitur ordines nati.
 

@@ -484,7 +484,7 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 Vedeți, de asemenea:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Introducere în exegesa textelor sanscrite: manual. -- Cap. 8: Exegesa propriu-zisă, Partea a II-a: Cu privire la anumite aspecte ale înțelegerii sincrone. -- Anexa B: Cu privire la metrica textelor sanscrite. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois (1944–):** Introducere în exegesa textelor sanscrite: manual. -- Cap. 8: Exegesa propriu-zisă, Partea a II-a: Cu privire la anumite aspecte ale înțelegerii sincrone. -- Anexa B: Cu privire la metrica textelor sanscrite. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Semnificația stabilirii metricii
 
@@ -492,7 +492,7 @@ Stabilirea metricii este importantă din următoarele motive:
 
 1.  **Estetic:** metrica face parte, printre altele, din frumusețea unei afirmații. De asemenea, anumite metrici pot servi, în unele cazuri, pentru a exprima anumite stări de spirit, sau sunt asociate anumitor clase sociale (⟪वर्ण⟫). Diferitele metrici sunt recitate în moduri diferite. :br O bună impresie a efectului estetic oferă, de exemplu, recitarea lui ⟪शिवताण्डवस्तोत्र⟫ (lăudă adusă dansului lui Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Textual-critic:** greșelile în metrică pot fi un indiciu că textul nu a fost transmis corect într-un anumit punct. Metrica ajută la efectuarea de îmbunătățiri textuale.
-3.  **Cronologic:** anumite metrici au suferit, în decursul istoriei, anumite modificări. Acest lucru poate ajuta la datarea aproximativă a unui text. Vezi, în acest sens, **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Zur Geschichte der Triṣṭhubh ; același autor: Zur Geschichte des Śloka. -- Ambele tipărite în: :br **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Kleine Schriften / Hermann Oldenberg. Editat de Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vol. -- (Fundația Glasenapp ; ...). -- Vol. 2. -- 1967. -- pp. 1188 - 1255.
+3.  **Cronologic:** anumite metrici au suferit, în decursul istoriei, anumite modificări. Acest lucru poate ajuta la datarea aproximativă a unui text. Vezi, în acest sens, **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; același autor: Zur Geschichte des Śloka. -- Ambele tipărite în: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Editat de Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vol. -- (Fundația Glasenapp ; ...). -- Vol. 2. -- 1967. -- pp. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -637,7 +637,7 @@ Alois Maria Payer
 ::: deleteme-box
 **Surse**
 
-**Payer, Alois \&lt;1944 - \&gt;:** Curs de sanscrit. -- Lectiona 53 (Vacanțe semestriale). -- Versiune din data de 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois (1944–):** Curs de sanscrit. -- Lectiona 53 (Vacanțe semestriale). -- Versiune din data de 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
@@ -646,6 +646,6 @@ Alois Maria Payer
 :::
 ::: deleteme-box
 
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
+**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
 :::
 

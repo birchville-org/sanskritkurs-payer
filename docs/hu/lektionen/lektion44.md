@@ -343,7 +343,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 Lásd:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : A Theravāda rendszabályainak és a szerzetesi jog alapfogalmai. -- I. rész. -- (A buddhizmus alapfogalmairól szóló anyagok). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : A Theravāda rendszabályainak és a szerzetesi jog alapfogalmai. -- I. rész. -- (A buddhizmus alapfogalmairól szóló anyagok). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)

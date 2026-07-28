@@ -190,7 +190,7 @@ lásd:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Kiválasztott szövegek a Carakasaṃhitából / lefordította és magyarázta Alois Payer \&lt;1944 - \&gt;. -- 0. Bevezetés. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Kiválasztott szövegek a Carakasaṃhitából / lefordította és magyarázta Alois Payer (1944–). -- 0. Bevezetés. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : dobni, hajítani
 

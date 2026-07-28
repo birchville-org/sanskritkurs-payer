@@ -372,7 +372,7 @@ PPP **⟪शिष्ट⟫** : διδαγμένος, σοφός
 ::: deleteme-box
 βλ. επίσης:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Βασικές έννοιες των κανόνων της τάξης και του δικαίου της τάξης του Theravāda. -- Μέρος I. -- (Υλικό για τις βασικές έννοιες του Βουδισμού). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Βασικές έννοιες των κανόνων της τάξης και του δικαίου της τάξης του Theravāda. -- Μέρος I. -- (Υλικό για τις βασικές έννοιες του Βουδισμού). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: νεαρό κορίτσι, κόρη, παρθένος
 

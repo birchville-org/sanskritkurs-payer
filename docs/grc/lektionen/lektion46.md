@@ -373,7 +373,7 @@ Absol. -⟪ग्राह्य⟫
 :::
 περὶ ⟪राहु⟫ καὶ ⟪केतु⟫ βλέπε:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : εἰσαγωγή καὶ ὁρατόν. -- 10. Σάκραμεντα καὶ τελετὰς μετάβασης (samskara). -- Παράρτημα C: Rahu καὶ Ketu, οἄορατοι πλανήται . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : εἰσαγωγή καὶ ὁρατόν. -- 10. Σάκραμεντα καὶ τελετὰς μετάβασης (samskara). -- Παράρτημα C: Rahu καὶ Ketu, οἄορατοι πλανήται . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Ἀπ.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/grc/licenses#lekt4602)

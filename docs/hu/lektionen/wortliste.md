@@ -78,7 +78,7 @@ A négy rendet (**varṇa** m.) gyakran összekeverik a kasztokkal. A négy rend
 
 A három rend viseli a saját rendi ruházatot. Felettük – így isteni akaratként jelölt – trónol Krisztus.
 
-Max Weber \&lt;1864 – 1920\&gt; így definiálja a rendet:
+Max Weber (1864–1920) így definiálja a rendet:
 
 ::: note-box
 »**Rend**« egy olyan sokaságot jelöl, amely egy szerveződésen belül
@@ -99,7 +99,7 @@ A »rendi« társadalom azt jelenti, hogy a társadalmi tagozódás elsősorban 
 
 Minden rendi társadalom konvencionális, az életvitel szabályai szerint rendezett, ezért gazdaságilag irracionális fogyasztási viszonyokat teremt, és ezen keresztül a monopóliumos appropriációk és a saját munkaképesség feletti szabad rendelkezés kizárása révén gátolja a szabad piaci képződést.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;::** Gazdaság és társadalom : Az értő szociológia vázlatos alapjai. – 5., átdolgozott kiadás. – Tübingen : Mohr, 1976. – 625–626. o.]
+[**Weber, Max (1864–1920)::** Gazdaság és társadalom : Az értő szociológia vázlatos alapjai. – 5., átdolgozott kiadás. – Tübingen : Mohr, 1976. – 625–626. o.]
 :::
 A varṇák ennek megfelelően születési rendek.
 
@@ -436,7 +436,7 @@ Amellyel boldogulást és jó újjászületéseket érdemelünk ki.
 ::: note-box
 Indiában az igaz szó varázserőt tulajdonítottak, sőt a világrendet maga az igaz szó tartja fenn és teremti. Erről a fontos elképzelésről lásd az alapvető művet:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. A hátrahagyott anyagból szerk. Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- 2. kötet: Varuna és a Ṛta. -- 1959. -- XXIII old., 340 - 764. oldal
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A hátrahagyott anyagból szerk. Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- 2. kötet: Varuna és a Ṛta. -- 1959. -- XXIII old., 340 - 764. oldal
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -636,7 +636,7 @@ Tanulják meg a következő szavakat:
 >
 > Ebben az értelemben más eredetet találtak rá: a forrás már nem asu, 'lélegzet', hanem az első *a* tagadó előtagként van értelmezve, és az asura jelentése 'nem isten'; ezért egyesek szerint keletkezett a *sura* szó, amelyet általában 'istennek' használnak."
 >
-> [Forrás: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Forrás: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 
 ::: media
@@ -3073,7 +3073,7 @@ Kép: ⟪शास्त्री⟫
 ::: deleteme-box
 lásd még:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : A Theravāda rendszabályainak és a szerzetesi jog alapfogalmai. -- I. rész. -- (Anyagok a buddhizmus alapfogalmairól). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : A Theravāda rendszabályainak és a szerzetesi jog alapfogalmai. -- I. rész. -- (Anyagok a buddhizmus alapfogalmairól). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ n.: fiatal lány, leány, szűz
 
@@ -3087,7 +3087,7 @@ PPP ⟪अतीत⟫ : n. múltidő
 ::: deleteme-box
 lásd még:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : A Theravāda rendszabályainak és a szerzetesi jog alapfogalmai. -- I. rész. -- (Anyagok a buddhizmus alapfogalmairól). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : A Theravāda rendszabályainak és a szerzetesi jog alapfogalmai. -- I. rész. -- (Anyagok a buddhizmus alapfogalmairól). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ n.: fiatal lány, leány, szűz
 
@@ -3101,7 +3101,7 @@ PPP ⟪अतीत⟫ : n. múltidő
 ::: deleteme-box
 lásd még:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : A Theravāda rendszabályainak és a szerzetesi jog alapfogalmai. -- I. rész. -- (Anyagok a buddhizmus alapfogalmairól). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : A Theravāda rendszabályainak és a szerzetesi jog alapfogalmai. -- I. rész. -- (Anyagok a buddhizmus alapfogalmairól). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ n.: fiatal lány, leány, szűz
 
@@ -3514,7 +3514,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 Lásd:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Az Ordensregeln és az Ordensrecht alapfogalmai a Theravāda irányzatában. -- I. rész. -- (Anyagok a buddhizmus alapfogalmaihoz). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Az Ordensregeln és az Ordensrecht alapfogalmai a Theravāda irányzatában. -- I. rész. -- (Anyagok a buddhizmus alapfogalmaihoz). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3524,7 +3524,7 @@ Kép: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ::: deleteme-box
 Lásd:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Az Ordensregeln és az Ordensrecht alapfogalmai a Theravāda irányzatában. -- I. rész. -- (Anyagok a buddhizmus alapfogalmaihoz). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Az Ordensregeln és az Ordensrecht alapfogalmai a Theravāda irányzatában. -- I. rész. -- (Anyagok a buddhizmus alapfogalmaihoz). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3534,7 +3534,7 @@ Kép: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ::: deleteme-box
 Lásd:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Az Ordensregeln és az Ordensrecht alapfogalmai a Theravāda irányzatában. -- I. rész. -- (Anyagok a buddhizmus alapfogalmaihoz). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Az Ordensregeln és az Ordensrecht alapfogalmai a Theravāda irányzatában. -- I. rész. -- (Anyagok a buddhizmus alapfogalmaihoz). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::
 ::: media
@@ -3595,7 +3595,7 @@ ebből:
 :::
 A ⟪राहु⟫ és a ⟪केतु⟫ vonatkozásában lásd:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmasastra : Bevezetés és áttekintés. -- 10. Szakramentumok és átmeneti rítusok (szamszkára). -- C. függelék: Rahu és Ketu, a láthatatlan vándorló csillagok . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmasastra : Bevezetés és áttekintés. -- 10. Szakramentumok és átmeneti rítusok (szamszkára). -- C. függelék: Rahu és Ketu, a láthatatlan vándorló csillagok . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Kép: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -3935,7 +3935,7 @@ lásd:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Kiválasztott szövegek a Carakasaṃhitából / lefordította és magyarázta Alois Payer \&lt;1944 - \&gt;. -- 0. Bevezetés. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Kiválasztott szövegek a Carakasaṃhitából / lefordította és magyarázta Alois Payer (1944–). -- 0. Bevezetés. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : dobni, hajítani
 
@@ -4674,7 +4674,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1003**: Varuṇa isten = ⟪वरुण⟫, 17. század [Képmegjelenítés forrása: Wikipedia, közterület]
 
-**lekt1002**: Egy Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / Rāja Ravi Varmától (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \&lt;1848 - 1906\&gt; [Képmegjelenítés forrása: Wikipedia, közterület]
+**lekt1002**: Egy Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / Rāja Ravi Varmától (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [Képmegjelenítés forrása: Wikipedia, közterület]
 
 **lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi-hegyek, Mysor (ಮೈಸೂರು) [Képmegjelenítés forrása: Prakash Subbarao / Wikipedia. -- Közterület]
 

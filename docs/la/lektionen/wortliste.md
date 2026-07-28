@@ -76,7 +76,7 @@ Fons imaginis: [Detalia](/licenses#lekt0201)
 
 Tres ordines vestes proprias portant. Super eos -- ut a deo voluti dicti -- Christus sedet.
 
-Max Weber \&lt;1864 – 1920\&gt; statum definit sic:
+Max Weber (1864–1920) statum definit sic:
 
 ::: note-box
 »**Status**« multitudo hominum appellari debet, quae intra consortium efficax
@@ -97,7 +97,7 @@ Cum ordines mercatorii in solo oeconomiae mercatus orientatae crescant, status p
 
 Quaelibet status societas conventionalis est, regulis vitae ordinata, ideo condiciones consumptionis oeconomice irrationalis creat et per appropriationes monopolisticas ac exclusionem liberae dispositionis de propria facultate acquirendi liberam formationem mercatus impedit.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Oeconomia et Societas : Fundamentum sociologiae intellegendae. – 5., emendata editio. – Tubingae : Mohr, 1976. – P. 625 seq.]
+[**Weber, Max (1864–1920):** Oeconomia et Societas : Fundamentum sociologiae intellegendae. – 5., emendata editio. – Tubingae : Mohr, 1976. – P. 625 seq.]
 :::
 Varṇa igitur sunt status nati.
 
@@ -434,7 +434,7 @@ Quo felicitatem et bonas redivisiones meretur.
 ::: note-box
 In India verbum verum vim magicam habere credebatur, immo tota ordo mundi per verbum verum conservatur et creatur. De hac opinione magna vide opus fundamentale:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Ex testamento edidit Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna et Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Ex testamento edidit Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna et Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -634,7 +634,7 @@ Haec verba discite:
 >
 > In hoc sensu alia derivatio inventa est: fons non iam asu, 'spiritus,' sed initiale *a* ut prefixum negativum sumitur, et *asura* significat 'non deus;' ideo, secundum quosdam, verbum *sura* ortum est, communiter pro 'deo' adhibitum."
 >
-> [Fons: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Fons: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 
 ::: media
@@ -3071,7 +3071,7 @@ Abb.: ⟪शास्त्री⟫
 ::: deleteme-box
 v. ad id:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Elementa fundamentalia regulorum monasticorum et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Elementa fundamentalia regulorum monasticorum et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: puella iuvenis, filia, virgo
 
@@ -3085,7 +3085,7 @@ PPP ⟪अतीत⟫ : n. praeteritum
 ::: deleteme-box
 v. ad id:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Elementa fundamentalia regulorum monasticorum et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Elementa fundamentalia regulorum monasticorum et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: puella iuvenis, filia, virgo
 
@@ -3099,7 +3099,7 @@ PPP ⟪अतीत⟫ : n. praeteritum
 ::: deleteme-box
 v. ad id:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Elementa fundamentalia regulorum monasticorum et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Elementa fundamentalia regulorum monasticorum et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: puella iuvenis, filia, virgo
 
@@ -3512,7 +3512,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 Vide:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Elementa fundamentalia regularum ordinis et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Elementa fundamentalia regularum ordinis et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3522,7 +3522,7 @@ Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ::: deleteme-box
 Vide:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Elementa fundamentalia regularum ordinis et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Elementa fundamentalia regularum ordinis et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3532,7 +3532,7 @@ Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ::: deleteme-box
 Vide:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Elementa fundamentalia regularum ordinis et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Elementa fundamentalia regularum ordinis et iuris ordinis Theravāda. -- Pars I. -- (Materialia ad elementa fundamentalia Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::
 ::: media
@@ -3593,7 +3593,7 @@ inde:
 :::
 Ad ⟪राहु⟫ et ⟪केतु⟫ vide:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Introductio et conspectus. -- 10. Sacramenta et ritus transitionis (samskara). -- Appendiculus C: Rahu et Ketu, planetae invisibiles . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Introductio et conspectus. -- 10. Sacramenta et ritus transitionis (samskara). -- Appendiculus C: Rahu et Ketu, planetae invisibiles . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -3933,7 +3933,7 @@ vide:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Textus selecti e Carakasaṃhitā / translatus et illustratus ab Aloisio Payer \&lt;1944 - \&gt;. -- 0. Introductio. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Textus selecti e Carakasaṃhitā / translatus et illustratus ab Aloisio Payer (1944–). -- 0. Introductio. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : iacere, fundere
 
@@ -4672,7 +4672,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1003**: Deus Varuṇa = ⟪वरुण⟫, saeculum XVII. [Fontis imaginis: Wikipedia, Dominium publicum]
 
-**lekt1002**: Ṛṣi unus: Viśvāmitra (⟪विश्वामित्र⟫) / a Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \&lt;1848 - 1906\&gt; [Fontis imaginis: Wikipedia, Dominium publicum]
+**lekt1002**: Ṛṣi unus: Viśvāmitra (⟪विश्वामित्र⟫) / a Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [Fontis imaginis: Wikipedia, Dominium publicum]
 
 **lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Collis, Mysore (ಮೈಸೂರು) [Fontis imaginis: Prakash Subbarao / Wikipedia. -- Dominium publicum]
 

@@ -190,7 +190,7 @@ status: stable
 
 :::
 ::: indent
-**Carakasaṃhitā:** Επιλεγμένα κείμενα από το Carakasaṃhitā / μετάφραση και σχόλια του Alois Payer \&lt;1944 - \&gt;. -- 0. Εισαγωγή. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Επιλεγμένα κείμενα από το Carakasaṃhitā / μετάφραση και σχόλια του Alois Payer (1944–). -- 0. Εισαγωγή. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : πετάω, ρίχνω
 

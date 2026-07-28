@@ -484,7 +484,7 @@ Példa:
 :::
 Lásd még:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Bevezetés a szanszkrit szövegek exegézisébe : jegyzet. -- 8. fejezet: A valódi exegézis, II. rész: Külön kérdések a szinkronikus megértéshez. -- B függelék: A szanszkrit szövegek metrikájáról. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois (1944–):** Bevezetés a szanszkrit szövegek exegézisébe : jegyzet. -- 8. fejezet: A valódi exegézis, II. rész: Külön kérdések a szinkronikus megértéshez. -- B függelék: A szanszkrit szövegek metrikájáról. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. A mérték meghatározásának jelentése
 
@@ -492,7 +492,7 @@ A mértékek meghatározása az alábbi okok miatt fontos:
 
 1.  **Esztétikai szempontból:** a versmérték többek között egy állítás szépségét adja. Bizonyos versmértékek bizonyos hangulatok kifejezésére is szolgálhatnak, vagy bizonyos társadalmi rendekhez (⟪वर्ण⟩) vannak kapcsolva. A különböző versmértékeket eltérően recitálják. :br Egy jó benyomást adó esztétikai hatás például a ⟪शिवताण्डवस्तोत्र⟩ (Śiva táncának dicsérete) recitálása: [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Szövegkritikai szempontból:** a versmértékbeli hibák arra utalhatnak, hogy egy adott helyen a szöveg nem került hűen átadásra. A versmérték segít a szöveghelyesbítések elvégzésében.
-3.  **Kronológiai szempontból:** bizonyos versmértékek történeti folyamat során bizonyos változásokon mentek keresztül. Ez segíthet egy szöveg hozzávetőleges keltezésében. Lásd: **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Zur Geschichte der Triṣṭhubh ; uő.: Zur Geschichte des Śloka. -- Mindkettő megtalálható: :br **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
+3.  **Kronológiai szempontból:** bizonyos versmértékek történeti folyamat során bizonyos változásokon mentek keresztül. Ez segíthet egy szöveg hozzávetőleges keltezésében. Lásd: **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; uő.: Zur Geschichte des Śloka. -- Mindkettő megtalálható: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Hrsg. von Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 Bde. -- (Glasenapp-Stiftung ; ...). -- Bd. 2. -- 1967. -- S. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -637,7 +637,7 @@ Alois Maria Payer
 ::: deleteme-box
 **Források**
 
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
@@ -646,6 +646,6 @@ Alois Maria Payer
 :::
 ::: deleteme-box
 
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
+**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lektion 53 (Semesterferien). -- Fassung vom 2009-01-19. -- Bildquelle der Originaltabelle 53.9: Screenshot der Originalquelle (Payer).
 :::
 

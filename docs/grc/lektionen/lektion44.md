@@ -343,7 +343,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 Βλεπε:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Θεμελιωδεις εννοιες των κανονων της ταξεως και του δικαίου της ταξεως του Theravāda. -- Μερος I. -- (Υλικα προς τας θεμελιωδεις εννοιας του βουδισμου). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Θεμελιωδεις εννοιες των κανονων της ταξεως και του δικαίου της ταξεως του Theravāda. -- Μερος I. -- (Υλικα προς τας θεμελιωδεις εννοιας του βουδισμου). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)

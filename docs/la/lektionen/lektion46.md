@@ -373,7 +373,7 @@ unde:
 :::
 Ad ⟪राहु⟫ et ⟪केतु⟫ vide:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Introductio et conspectus. -- 10. Sacramenta et ritus transitionis (samskara). -- Appendiculus C: Rahu et Ketu, stellae errantes invisibiles. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Introductio et conspectus. -- 10. Sacramenta et ritus transitionis (samskara). -- Appendiculus C: Rahu et Ketu, stellae errantes invisibiles. -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Tab.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/la/licenses#lekt4602)

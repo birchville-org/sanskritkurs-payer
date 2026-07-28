@@ -767,9 +767,9 @@ Quibus in rebus vacandis haec officia perficienda erant:
 8.  Peragere:
     **Kunnappally, John:** Prakriyā bhāshyam : Grammatica Sanscritica / Primus in Malayalam scriptus. In Anglicam linguam translatus a K.V.R. Pai. -- Parathode : Typis propriis, 1983. -- 818 pag. ; 23 cm. -- Pag. 208 - 254 (Gubernatio syntactica)
 9.  Perfice peragere:
-    **Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**Mirabile quod fuit IndiaPartim: Surveyus culturae subcontinentis Indicae ante adventum Muslimorum. -- Londinium : Sidgwick & Jackson, 1954.
+    **Basham, A. L. (Arthur Llewellyn) (1914–1986)**Mirabile quod fuit IndiaPartim: Surveyus culturae subcontinentis Indicae ante adventum Muslimorum. -- Londinium : Sidgwick & Jackson, 1954.
 10.  Incipere peragendo:
-     **Winternitz, Moriz \&lt;1863 - 1937\&gt;:** Historia litteraturae Indicae. Stutgardia : Koehler. -- 3 vol. -- 1908 - 1922 (adhuc longe optimus historia litteraria Sanscriti, Pali et Prakrit)
+     **Winternitz, Moriz (1863–1937):** Historia litteraturae Indicae. Stutgardia : Koehler. -- 3 vol. -- 1908 - 1922 (adhuc longe optimus historia litteraria Sanscriti, Pali et Prakrit)
 
 ::: media
 ![](/images/lekt5201.webp)

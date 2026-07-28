@@ -74,7 +74,7 @@ Di awal, sebuah keanehan:
 
 >"Ketika William Jones [1746–1794] dan Henry Thomas Colebrooke (1765—1857) pertama kali mempelajari Sanskrit secara mendalam, menerjemahkannya sebagian, dan menemukan bahwa bahasa tersebut memiliki literatur yang kaya serta kekerabatan yang tidak kecil dengan bahasa-bahasa klasik, mereka menghadapi perlawanan yang cukup besar. Karena hubungan erat Sanskrit dengan bahasa-bahasa Eropa yang secara geografis sangat jauh tidak dapat diselaraskan dengan pandangan lama, yang entah menurunkan semua bahasa dari bahasa Ibrani atau menganggapnya sebagian besar terisolasi satu sama lain, maka ahli filologi terkenal Dugald Steward (1753—1828) mengambil jalan keluar paling sederhana, yaitu dengan menyatakan seluruh sejarah yang berkaitan dengan bahasa Sanskrit sebagai kebohongan. Ia menulis sebuah esai di mana ia berusaha membuktikan bahwa bahasa tersebut dipalsukan oleh Brahmana yang licik berdasarkan pola Yunani dan Latin, sehingga baik bahasanya maupun literaturnya adalah pemalsuan. Pandangan ini masih dikembangkan secara luas oleh profesor di Dublin, Charles William Wall, pada tahun 1840 (Göttingische gelehrte Anzeigen 1842 hlm. 1888)."
 >
->[Sumber: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- hlm. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Diakses pada 2010-01-10]
+>[Sumber: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- hlm. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Diakses pada 2010-01-10]
 
 ## 1.1. Literatur untuk Pemula dalam Indologi
 
@@ -84,7 +84,7 @@ Fig.: Sampul edisi saku
 (Sumber gambar: [Detail](/id/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Bagian: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sejak itu banyak edisi, termasuk edisi saku. -- **Wajib dibaca.** Gambaran umum yang baik tentang kehidupan, sejarah, dan budaya di India pra-Islam. Tinjauan menyeluruh atas berbagai bidang Indologi klasik.
+>**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Bagian: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sejak itu banyak edisi, termasuk edisi saku. -- **Wajib dibaca.** Gambaran umum yang baik tentang kehidupan, sejarah, dan budaya di India pra-Islam. Tinjauan menyeluruh atas berbagai bidang Indologi klasik.
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -94,7 +94,7 @@ Gambar: Halaman judul
 
 Tata bahasa sistematis terbaik:
 
-> **Kielhorn**, Franz &lt;1840-1908&gt;: Tata Bahasa Sanskerta / Diterjemahkan dari bahasa Inggris oleh W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Judul asli: A grammar of the Sanscrit language
+> **Kielhorn**, Franz (1840–1908): Tata Bahasa Sanskerta / Diterjemahkan dari bahasa Inggris oleh W. Solf [1862 - 1936]. -- Berlin : Dümmler, 1888. -- XIII, 238 S. -- Judul asli: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -114,7 +114,7 @@ Gambar: Sampul buku
 
 Sebuah paparan yang baik dan ringkas tentang terminologi ilmu bahasa Eropa dapat ditemukan dalam:
 
-> **Kamus Etimologis Bahasa Jerman** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. Disunting oleh Elmar Seebold. -- Edisi ke-24, yang telah ditinjau dan diperluas. -- Berlin [dll.] : de Gruyter, 2002. - LXXXIX, 1023 hlm. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- Hal. XIII - XLVII.
+> **Kamus Etimologis Bahasa Jerman** / [Friedrich] Kluge (1856–1926). Disunting oleh Elmar Seebold. -- Edisi ke-24, yang telah ditinjau dan diperluas. -- Berlin [dll.] : de Gruyter, 2002. - LXXXIX, 1023 hlm. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- Hal. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)

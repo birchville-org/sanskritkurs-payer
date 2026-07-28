@@ -190,7 +190,7 @@ vide:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Textus selecti e Carakasaṃhitā / traducti et illustrati ab Aloisio Payer \&lt;1944 - \&gt;. -- 0. Introductio. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Textus selecti e Carakasaṃhitā / traducti et illustrati ab Aloisio Payer (1944–). -- 0. Introductio. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : iacere, fundere
 

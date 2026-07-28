@@ -372,7 +372,7 @@ Gerundiv का उपयोग Passivkonstruktion वाले वाक्य�
 ::: deleteme-box
 इसके लिए देखें:
 
-**पेयर, अलोइस \&lt;1944 - \&gt;:** विनयमुख : थेरवाद के भिक्षुओं के नियमों और विनय कानून की मूल अवधारणाएँ। -- भाग I. -- (बौद्ध धर्म की मूल अवधारणाओं पर सामग्री)। -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**पेयर, अलोइस (1944–):** विनयमुख : थेरवाद के भिक्षुओं के नियमों और विनय कानून की मूल अवधारणाएँ। -- भाग I. -- (बौद्ध धर्म की मूल अवधारणाओं पर सामग्री)। -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ स्त्री.: युवा लड़की, पुत्री, कन्या
 

@@ -76,7 +76,7 @@ Illustraziun: Representaziun da la structura da classas dal temp medieval europe
 
 Las trais classas portan la vestgadira da lur respectiv-classa. Sur las – uschia designadas sco volidas dal deus – classas trona Christ.
 
-Max Weber \&lt;1864 – 1920\&gt; defenischa classa uschia:
+Max Weber (1864–1920) defenischa classa uschia:
 
 ::: note-box
 »**Classa**« duess esser ina multitudine da persunas, che èn activas en in'organisaziun
@@ -97,7 +97,7 @@ Cun classes d'ovra che creschan sin la basa da l'economia orientada al martgà, 
 
 Mintga societad stadiala è convenziunala, ordnada tras regulas da la vita, crea perquai cundiziuns d'consum irrazionalas economicamain e impedescha en quest modus tras appropriaziuns monopolisticas ed exclusiun da la disposiziun libera davart sia capacitad d'ovra la furmaziun libera dal martgà.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;::** Economia e societad : cunteg da la sociologia comprensiva. – 5., revisida ed. – Tübingen : Mohr, 1976. – P. 625 ss.]
+[**Weber, Max (1864–1920)::** Economia e societad : cunteg da la sociologia comprensiva. – 5., revisida ed. – Tübingen : Mohr, 1976. – P. 625 ss.]
 :::
 Varṇas èn perquai stans da naschientscha.
 
@@ -434,7 +434,7 @@ Cun quai s'acquista benessur e bunas renascientschas.
 ::: note-box
 En l'India attribuiva la parola vera pussanza magica, uschè ch'l'entir ordin dal mund vegn mantegnì e cread tras la parola vera. Per questa idea impurtanta vesair il lavur fundamental:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Publitgà dal testament da Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e l'Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Publitgà dal testament da Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna e l'Ṛta. -- 1959. -- XXIII pag., pag. 340 - 764
 :::
 ::: media
 ![](/images/lekt1003.webp)
@@ -634,7 +634,7 @@ Memorisai las suandantas paraulas:
 >
 > En quest senn è vegnì chattà ina derivaziun differenta per ella: la fontauna n'è betg pli asu, 'spirt,' ma l'inizial *a* è prendì sco prefix negativ, e *asura* significia 'betg in div;' perquai ch'è naschì, cunform a quai che alcuns, la paraula *sura,* usitada comunamain per 'in div.'"
 >
-> [Fonte: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Fonte: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 
 ::: media
@@ -3071,7 +3071,7 @@ Abb.: ⟪शास्त्री⟫
 ::: deleteme-box
 v. era:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concepts base da las regulas dal monasteri e dal dretg dal monasteri dal Theravāda. -- Part I. -- (Materials als concepts base dal buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Concepts base da las regulas dal monasteri e dal dretg dal monasteri dal Theravāda. -- Part I. -- (Materials als concepts base dal buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: giuvna, figlia, virginitad
 
@@ -3085,7 +3085,7 @@ PPP ⟪अतीत⟫ : n. passà
 ::: deleteme-box
 v. era:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concepts base da las regulas dal monasteri e dal dretg dal monasteri dal Theravāda. -- Part I. -- (Materials als concepts base dal buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Concepts base da las regulas dal monasteri e dal dretg dal monasteri dal Theravāda. -- Part I. -- (Materials als concepts base dal buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: giuvna, figlia, virginitad
 
@@ -3099,7 +3099,7 @@ PPP ⟪अतीत⟫ : n. passà
 ::: deleteme-box
 v. era:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Concepts base da las regulas dal monasteri e dal dretg dal monasteri dal Theravāda. -- Part I. -- (Materials als concepts base dal buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Concepts base da las regulas dal monasteri e dal dretg dal monasteri dal Theravāda. -- Part I. -- (Materials als concepts base dal buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: giuvna, figlia, virginitad
 
@@ -3512,7 +3512,7 @@ Absol. -⟪रभ्य⟫
 ::: deleteme-box
 Vair:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : concepts base dals regulaments da l’ordinaziun e dal dretg da l’ordinaziun dal Theravāda. -- Part I. -- (Materialas als concepts base dal Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : concepts base dals regulaments da l’ordinaziun e dal dretg da l’ordinaziun dal Theravāda. -- Part I. -- (Materialas als concepts base dal Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3522,7 +3522,7 @@ Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ::: deleteme-box
 Vair:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : concepts base dals regulaments da l’ordinaziun e dal dretg da l’ordinaziun dal Theravāda. -- Part I. -- (Materialas als concepts base dal Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : concepts base dals regulaments da l’ordinaziun e dal dretg da l’ordinaziun dal Theravāda. -- Part I. -- (Materialas als concepts base dal Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)
@@ -3532,7 +3532,7 @@ Abb.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 ::: deleteme-box
 Vair:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : concepts base dals regulaments da l’ordinaziun e dal dretg da l’ordinaziun dal Theravāda. -- Part I. -- (Materialas als concepts base dal Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : concepts base dals regulaments da l’ordinaziun e dal dretg da l’ordinaziun dal Theravāda. -- Part I. -- (Materialas als concepts base dal Buddhismus). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 
 :::
 ::: media
@@ -3593,7 +3593,7 @@ da quai:
 :::
 A ⟪राहु⟫ ed ⟪केतु⟫ vesair:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Introducziun e survista. -- 10. Sacraments ed rites da transiziun (samskara). -- Appendix C: Rahu e Ketu, ils planets viagiads invisibels . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Introducziun e survista. -- 10. Sacraments ed rites da transiziun (samskara). -- Appendix C: Rahu e Ketu, ils planets viagiads invisibels . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Abb.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/licenses#lekt4602)
@@ -3933,7 +3933,7 @@ vesair:
 
 :::
 ::: indent
-**Carakasaṃhitā:** Texts selecziunads da la Carakasaṃhitā / tradusì e commentà d'Alois Payer \&lt;1944 - \&gt;. -- 0. Introducziun. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** Texts selecziunads da la Carakasaṃhitā / tradusì e commentà d'Alois Payer (1944–). -- 0. Introducziun. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : lantschar, serrar
 
@@ -4672,7 +4672,7 @@ Inf. ⟪त्रातुम्⟫
 
 **lekt1003**: Dieu Varuṇa = ⟪वरुण⟫, 17. tschientaner [Quella da l'imagines: Wikipedia, Public domain]
 
-**lekt1002**: In Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / da Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) \&lt;1848 - 1906\&gt; [Quella da l'imagines: Wikipedia, Public domain]
+**lekt1002**: In Ṛṣi: Viśvāmitra (⟪विश्वामित्र⟫) / da Rāja Ravi Varmā (⟪राज⟫ ⟪रवि⟫ ⟪वर्मा⟫) (1848–1906) [Quella da l'imagines: Wikipedia, Public domain]
 
 **lekt1301**: ⟪महिषासुरः⟫ = ಮಹಿಷಾಸುರಃ Chamundi Hills, Mysor (ಮೈಸೂರು) [Quella da l'imagines: Prakash Subbarao / Wikipedia. -- Public domain]
 

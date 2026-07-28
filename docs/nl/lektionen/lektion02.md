@@ -77,7 +77,7 @@ La salida de una palabra se rige en sánscrito también por la entrada de la sig
 
 Véase también el resumen:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi de -s final. -- (Materiales para el sánscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Sandhi de -s final. -- (Materiales para el sánscrito). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Salida **-s**:
 
@@ -167,7 +167,7 @@ Afb.: Voorstelling van de standenindeling in de Europese middeleeuwen (houtsnede
 
 De drie standen dragen de respectievelijke klederdracht van hun stand. Boven de standen – die daarmee als door God gewild worden aangeduid – troont Christus.
 
-Max Weber \&lt;1864 – 1920\&gt; definieert 'stand' als volgt:
+Max Weber (1864–1920) definieert 'stand' als volgt:
 
 
 ::: note-box
@@ -188,7 +188,7 @@ Terwijl verwervingsklassen op de bodem van de marktgeoriënteerde economie groei
 
 Elke standsmaatschappij is conventioneel, door regels voor de levenswijze, ge
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
 Varṇas sind demgemäss Geburtsstände.
 

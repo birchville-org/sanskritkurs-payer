@@ -237,7 +237,7 @@ Der traditionelle indigene Name für diese untergeordnete Formation in Verben mi
 ::: note-box
 In India, true speech was attributed with magical power; indeed, the entire cosmic order is maintained and created by true speech. For this important concept, see the fundamental work:
 
-Lüders, Heinrich &lt;1869 - 1943&gt;: Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII pages, pages 340 - 764
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. Edited from the estate by Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- Vol. 2: Varuna and Ṛta. -- 1959. -- XXIII pages, pages 340 - 764
 :::
 
 ::: media

@@ -372,7 +372,7 @@ PPP ⟪शिष्ट⟫ : ผู้รู้, ผู้มีปัญญา
 ::: deleteme-box
 ดูเพิ่มเติม:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุสำหรับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : แนวคิดพื้นฐานของกฎสงฆ์และกฎหมายคณะสงฆ์ของเถรวาท. -- ส่วนที่ 1. -- (วัสดุสำหรับแนวคิดพื้นฐานของพุทธศาสนา). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ น.: เด็กผู้หญิง, ลูกสาว, หญิงพรหมจรรย์
 

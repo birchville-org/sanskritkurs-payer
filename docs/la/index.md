@@ -23,17 +23,17 @@ features:
 ---
 
 
-::: note-box  Version 1.6 — Global Integrity & Stabilität
-**Novum in v1.6 (Iulius 2026):**
+::: note-box  Version 1.6.4 — Integritas Globalis, SSOT & Stabilitas
+**Novum in v1.6.4 (Iulius 2026):**
 
-- **100% Perfectio in 19 linguis:** Arabice, Hebraice, Aramaice, Sinice simplicata, Indonesiane, Hindi, Tamilice, Punjabi, Latina, Romenice et Rumantsch Grischun nunc perfecte machine translata sunt (qualitas non certa; sola studium possibilitatis sine correctoribus).
-- **Supportus RTL:** Layoutum nativum pro linguis dextrorsum fluentibus (Arabice, Hebraice) inclusam interface localizatam complete.
-- **PWA & Offline-Primum:** Usus offline completus et sine errore omnium contentuum cursus per omnes versiones linguas activas.
-- **Versio Auctoris & Editor:** Editor completus pro correctoribus (spectator QA) cum systema fallback AI asynchrono pro translationibus massis extrem stabilibus.
+- **100% Perfectionem in 21 Linguis Targetis:** 21 linguae (inter quas Graeca Antiqua, Suomi, Hungarice, Arabice, Hebraice, Latina, Sinice Simplificata et aliae) nunc perfecte sine fallbacks translatae sunt et sub absoluta restrictione totali ad scribendum protectae.
+- **Perfecta Localizatio UI (SSOT):** Omnes navigationis et controlis elementa (Praecedens/Sequens Lectiones, Exercitia, Index) in omnibus 32 linguis dynamice per centrale registrum linguale praebentur.
+- **Typographia et Qualitas:** Typographia Devanāgarī erecta sine distortione italicorum, tags rubri signalis soluti et textus purgati per omnes finitas versiones linguales.
+- **PWA et Offline-Primum:** Usus offlineus completus omnium contentuum cursus per omnes activas versiones linguales.
 
-**Notae et nuntii errorum grati acceptantur ad:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**Participare ut corrector vel curator:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**Commentaria et nuntii errorum bene accepti ad:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Contribuere ut editor vel curator:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 
-- Pro auctoribus (et qui editor Markdown standalone levis uti vult), editor open-source disponitur in https://github.com/marcodem/zentauri
+- Auctoribus (et qui editor Markdown Standalone levis uti vult), editor open-source disponitur apud https://github.com/marcodem/zentauri
 
 :::

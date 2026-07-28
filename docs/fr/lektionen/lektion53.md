@@ -484,7 +484,7 @@ Fig. : ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर
 :::
 Voir aussi :
 
-> **Payer, Alois \&lt;1944 - \&gt; :** Introduction à l'exégèse des textes sanskrits : Script. -- Chap. 8 : L'exégèse proprement dite, Partie II : Sur certaines questions de compréhension synchronique. -- Annexe B : Sur la métrique des textes sanskrits. -- URL : [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois (1944–) :** Introduction à l'exégèse des textes sanskrits : Script. -- Chap. 8 : L'exégèse proprement dite, Partie II : Sur certaines questions de compréhension synchronique. -- Annexe B : Sur la métrique des textes sanskrits. -- URL : [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Importance de la détermination du mètre
 
@@ -492,8 +492,8 @@ Fig. : ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर
 (Source de l'image : [Détails](/fr/licenses#lekt5303))
 
 1.  **Esthétique :** le mètre contribue notamment à la beauté d'une affirmation. Certains mètres peuvent également servir à exprimer des états d'âme spécifiques, ou ils sont attribués à certaines castes (⟪वर्ण⟫). Les différents mètres sont récités de manière variable. :br Une bonne impression de l'effet esthétique est par exemple donnée par la récitation du ⟪शिवताण्डवस्तोत्र⟫ (louange de la danse de Śiva) : [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
-2.  **Payer, Alois \&lt;1944 - \&gt; :** Introduction à l'exégèse des textes sanskrits : Script. -- Chap. 8 : L'exégèse proprement dite, Partie II : Sur certaines questions de compréhension synchronique. -- Annexe B : Sur la métrique des textes sanskrits. -- URL : [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
-3.  **Chronologique :** certains mètres ont connu au cours de l'histoire des évolutions spécifiques. Cela peut aider à dater approximativement un texte. Voir à ce sujet **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Sur l'histoire du Triṣṭhubh ; id. : Sur l'histoire du Śloka. -- Les deux sont reproduits dans : :br **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Petits écrits / Hermann Oldenberg. Éd. par Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vol. -- (Fondation Glasenapp ; ...). -- Vol. 2. -- 1967. -- P. 1188 - 1255.
+2.  **Payer, Alois (1944–) :** Introduction à l'exégèse des textes sanskrits : Script. -- Chap. 8 : L'exégèse proprement dite, Partie II : Sur certaines questions de compréhension synchronique. -- Annexe B : Sur la métrique des textes sanskrits. -- URL : [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+3.  **Chronologique :** certains mètres ont connu au cours de l'histoire des évolutions spécifiques. Cela peut aider à dater approximativement un texte. Voir à ce sujet **Oldenberg, Hermann (1854–1920):** Sur l'histoire du Triṣṭhubh ; id. : Sur l'histoire du Śloka. -- Les deux sont reproduits dans : :br **Oldenberg, Hermann (1854–1920):** Petits écrits / Hermann Oldenberg. Éd. par Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vol. -- (Fondation Glasenapp ; ...). -- Vol. 2. -- 1967. -- P. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -507,7 +507,7 @@ Fig. : ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर
 (Source de l'image : [Détails](/fr/licenses#lekt5303))
 
 *   **⟪वृत्त⟫ n.:** Mètres, dans lesquels le nombre de syllabes (⟪अक्षर⟫) est fixé
-*   **Payer, Alois \&lt;1944 - \&gt; :** Introduction à l'exégèse des textes sanskrits : Script. -- Chap. 8 : L'exégèse proprement dite, Partie II : Sur certaines questions de compréhension synchronique. -- Annexe B : Sur la métrique des textes sanskrits. -- URL : [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+*   **Payer, Alois (1944–) :** Introduction à l'exégèse des textes sanskrits : Script. -- Chap. 8 : L'exégèse proprement dite, Partie II : Sur certaines questions de compréhension synchronique. -- Annexe B : Sur la métrique des textes sanskrits. -- URL : [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 **Concernant les mètres dont le nombre de syllabes est fixé (⟪वृत्त⟫), on peut d'abord établir une distinction plus précise :**
 
@@ -583,7 +583,7 @@ Répartition de ⟪लघु⟫ et ⟪गुरु⟫ :
 ⟪द्विचतुष्पादयोर्ह्रस्वं⟫
 ⟪सप्तमं⟫ ⟪दीर्घमन्ययोः⟫ ⟪॥⟫
 :::
-**Payer, Alois \&lt;1944 - \&gt; :** Introduction à l'exégèse des textes sanskrits : Script. -- Chap. 8 : L'exégèse proprement dite, Partie II : Sur certaines questions de compréhension synchronique. -- Annexe B : Sur la métrique des textes sanskrits. -- URL : [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+**Payer, Alois (1944–) :** Introduction à l'exégèse des textes sanskrits : Script. -- Chap. 8 : L'exégèse proprement dite, Partie II : Sur certaines questions de compréhension synchronique. -- Annexe B : Sur la métrique des textes sanskrits. -- URL : [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 La forme métrique la plus importante dans les épopées (⟪महाभारत⟫, ⟪रामायण⟫) ainsi que dans d'innombrables autres œuvres est le śloka (« appel », « bruit », « strophe » lié à ⟪श्रु⟫ « écouter »).
 
 ::: grammar-box
@@ -638,7 +638,7 @@ Alois Maria Payer
 ::: deleteme-box
 **Sources**
 
-**Payer, Alois \&lt;1944 - \&gt; :** Cours de sanskrit. -- 53. Leçon 53 (vacances semestrielles). -- Version du 2009-01-19. -- URL : [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois (1944–) :** Cours de sanskrit. -- 53. Leçon 53 (vacances semestrielles). -- Version du 2009-01-19. -- URL : [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
 Achevé avec succès 1984-02-15  
 Édition en ligne achevée avec succès 2009-01-19  
@@ -647,6 +647,6 @@ Alois Maria Payer
 :::
 ::: deleteme-box
 
-**Payer, Alois \&lt;1944 - \&gt;:** Cours de sanskrit. -- Leçon 53 (Vacances universitaires). -- Version du 2009-01-19. -- Source de l'image du tableau original 53.9 : Capture d'écran de la source originale (Payer).
+**Payer, Alois (1944–):** Cours de sanskrit. -- Leçon 53 (Vacances universitaires). -- Version du 2009-01-19. -- Source de l'image du tableau original 53.9 : Capture d'écran de la source originale (Payer).
 :::
 

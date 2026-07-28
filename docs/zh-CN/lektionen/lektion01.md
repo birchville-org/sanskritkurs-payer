@@ -74,7 +74,7 @@ pārvatīparameśvarau |**
 
 >“当威廉·琼斯（1746–1794）和亨利·托马斯·科尔布鲁克（1765—1857）首次对梵语进行系统研究、部分翻译，并发现其拥有丰富的文学以及与古典语言存在显著亲缘关系时，他们遭遇了相当大的阻力。由于梵语与地理上如此遥远的欧洲语言之间这种紧密关系，无法调和那些要么将所有语言追溯至希伯来语、要么在很大程度上相互隔离的旧有观念，因此著名学者杜加尔德·斯图尔特（1753—1828）采取了最简单的解决办法，他将整个关于梵语的历史斥为谎言。他撰写了一篇论文，试图证明这是由狡诈的婆罗门模仿希腊语和拉丁语伪造而成的，该语言及其文学均为赝品。都柏林教授查尔斯·威廉·沃尔（Charles William Wall）在1840年进一步详尽阐述了这一观点（《哥廷根学术通报》1842年第1888页）。”
 >
->[来源：**凯默里希**，马克斯 \&lt;1876-1932\&gt;：《文化奇谭》（Kultur-Kuriosa）。-- 慕尼黑 : 朗根出版社。-- 第2卷。-- 1923年。-- 第74页。-- 在线：[http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft)。-- 访问日期：2010-01-10]
+>[来源：**凯默里希**，马克斯 (1876–1932)：《文化奇谭》（Kultur-Kuriosa）。-- 慕尼黑 : 朗根出版社。-- 第2卷。-- 1923年。-- 第74页。-- 在线：[http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft)。-- 访问日期：2010-01-10]
 
 ## 1.1. 印度学初学者文献
 
@@ -84,7 +84,7 @@ pārvatīparameśvarau |**
 （图片来源：[详情](/zh-CN/licenses#lekt0103)）
 :::
 
->**巴沙姆**，A. L.（Arthur Llewellyn）\&lt;1914-1986\&gt; _The wonder that was India_ 部分：A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- 伦敦 : Sidgwick & Jackson，1954年。-- 此后多次再版，包括平装本。-- **必读文献**。对穆斯林到来之前印度次大陆的生活、历史与文化提供了良好的概览。全面概述了古典印度学的各个领域。
+>**巴沙姆**，A. L.（Arthur Llewellyn）(1914–1986) _The wonder that was India_ 部分：A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- 伦敦 : Sidgwick & Jackson，1954年。-- 此后多次再版，包括平装本。-- **必读文献**。对穆斯林到来之前印度次大陆的生活、历史与文化提供了良好的概览。全面概述了古典印度学的各个领域。
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -94,7 +94,7 @@ pārvatīparameśvarau |**
 
 **最佳系统语法**
 
-> **Kielhorn**, Franz \&lt;1840-1908\&gt;: 梵语语法 / W. Solf [1862 - 1936] 英译。--柏林：Dümmler，1888。-- XIII, 238页。--原名：A grammar of the Sanscrit language
+> **Kielhorn**, Franz (1840–1908): 梵语语法 / W. Solf [1862 - 1936] 英译。--柏林：Dümmler，1888。-- XIII, 238页。--原名：A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -114,7 +114,7 @@ pārvatīparameśvarau |**
 
 在欧洲语言学术语方面，一本优秀且简明的著作可在以下文献中找到：
 
-> **德语词源词典** / [弗里德里希] 克卢格 \&lt;1856 - 1926\&gt;. 由埃尔马·塞博尔德编纂。 -- 第24版，修订并扩充版。 -- 柏林 [等.] : de Gruyter, 2002. - LXXXIX, 1023页 : 24厘米。 -- ISBN 3-11-017473-1 平装本。 -- 第XIII - XLVII页。
+> **德语词源词典** / [弗里德里希] 克卢格 (1856–1926). 由埃尔马·塞博尔德编纂。 -- 第24版，修订并扩充版。 -- 柏林 [等.] : de Gruyter, 2002. - LXXXIX, 1023页 : 24厘米。 -- ISBN 3-11-017473-1 平装本。 -- 第XIII - XLVII页。
 
 ::: media
 ![](/images/lekt0108.jpg)

@@ -23,17 +23,17 @@ features:
 ---
 
 
-::: note-box  Version 1.6 — Global Integrity & Stabilität
-**Noutăți în v1.6 (iulie 2026):**
+::: note-box  Versiunea 1.6.4 — Integritate globală, SSOT și Stabilitate
+**Noutăți în v1.6.4 (iulie 2026):**
 
-- **Finalizare la 100% în 19 limbi:** Arabă, ebraică, aramaică, chineză simplificată, indoneziană, hindi, tamilă, punjabi, latină, română și rumantsch grischun sunt acum traduse integral mecanic (calitate nesigurată; studiu de fezabilitate pur, fără corecturi).
-- **Suport RTL:** Suport nativ de layout pentru limbi cu scriere de la dreapta la stânga (arabă, ebraică), inclusiv interfață complet localizată.
-- **PWA & Offline-First:** Utilizare offline completă și fără erori a tuturor conținuturilor cursului, pe toate versiunile lingvistice active.
-- **Versiune pentru autori & Editor:** Editor complet pentru corectori (vizualizator QA) cu sistem de rezervă asincron AI pentru traduceri în masă extrem de stabile.
+- **Finalizare 100% în 21 de limbi țintă:** 21 de limbi (printre care greaca veche, finlandeza, maghiara, arabă, ebraica, latina, chineza simplificată și altele) sunt acum traduse complet, fără soluții de rezervă (fallbacks) și sunt protejate împotriva modificărilor prin blocare totală absolută.
+- **Localizare completă a interfeței cu utilizatorul (SSOT):** Toate elementele de navigare și control (lecția anterioară/următoare, exerciții, cuprins) sunt furnizate dinamic în toate cele 32 de limbi printr-un registru lingvistic central.
+- **Tipografie și asigurarea calității:** Tipografie Devanāgarī verticală, fără distorsiuni de cursiv, etichete roșii de semnalizare deblocate și pasaje textuale curățate pe toate versiunile lingvistice finalizate.
+- **PWA și funcționare offline:** Utilizare offline completă a tuturor conținuturilor cursurilor pe toate versiunile lingvistice active.
 
-**Observații și rapoarte de erori binevenite la:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Notificări și rapoarte de erori sunt binevenite la:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 **Contribuie ca editor sau curator:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 
-- Pentru autori (și pentru cei care doresc să folosească un editor Markdown standalone ușor), este disponibil un editor open-source la https://github.com/marcodem/zentauri
+- Pentru autori (și pentru cei care doresc să utilizeze un editor Markdown standalone ușor), este disponibil un editor open-source la https://github.com/marcodem/zentauri
 
 :::

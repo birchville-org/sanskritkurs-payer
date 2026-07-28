@@ -133,7 +133,7 @@ status: stable
 :::
 
 ::: indent
-Hoffmann, Karl \&lt;1915 - 1996\&gt;: Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / โดย Karl Hoffmann. -- ไฮเดลแบร์ก : Winter, 1967. -- 298 หน้า. -- (Indogermanische Bibliothek : ลำดับที่ 3, การศึกษา)
+Hoffmann, Karl (1915–1996): Der Injunktiv im Veda : eine synchronische Funktionsuntersuchung / โดย Karl Hoffmann. -- ไฮเดลแบร์ก : Winter, 1967. -- 298 หน้า. -- (Indogermanische Bibliothek : ลำดับที่ 3, การศึกษา)
 :::
 ในพระเวท คำกริยาเชิงคำสั่ง (Injunktive) มีลักษณะดังนี้:
 
@@ -191,7 +191,7 @@ Hoffmann, Karl \&lt;1915 - 1996\&gt;: Der Injunktiv im Veda : eine synchronische
 
 :::
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) \&lt;1849-1913\&gt;: Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
+Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit sytax. -- Leyden : Brill, 1886. -- § 353.
 :::
 ::: media
 ![](/images/lekt5603.webp)

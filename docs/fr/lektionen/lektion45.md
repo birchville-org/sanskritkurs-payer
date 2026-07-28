@@ -111,7 +111,7 @@ A) Traduisez en sanskrit (pour les formes passées, veuillez utiliser l'imparfai
 ::: indent
 sulla scissione della comunità (⟪सङ्घभेद⟫) vedere:
 
-**Payer, Alois \&lt;1944 - \&gt; :** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit monastique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–) :** Vinayamukha : Concepts fondamentaux des règles monastiques et du droit monastique du Theravāda. -- Partie I. -- (Matériaux sur les concepts fondamentaux du bouddhisme). -- _URL_ : [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2\. Avez-vous joui de la terre ?
 

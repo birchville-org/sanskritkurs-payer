@@ -74,7 +74,7 @@ pārvatīparameśvarau |**
 
 >"Als William Jones [1746–1794] und Henry Thomas Colebrooke (1765—1857) das Sanskrit erstmalig gründlich studiert, teilweise übersetzt und gefunden hatten, dass es eine reiche Literatur und nicht geringe Verwandtschaft mit den klassischen Sprachen aufwies, stiessen sie auf nicht geringen Widerstand. Da sich mit dieser innigen Beziehung des Sanskrits zu den geographisch so weit entlegenen europäischen Sprachen die alten Anschauungen, welche entweder alle Sprachen aus dem Hebräischen ableiteten oder grösstenteils von einander isolierten, nicht in Einklang bringen lassen, so ergriff der berühmte Philologe Dugald Steward (1753—1828) den einfachsten Ausweg, indem er die ganze Geschichte mit der Sanskritsprache für eine Lüge erklärte. Er schrieb einen Essay, in dem er zu beweisen suchte, dass sie von den spitzbübischen Brahmanen nach dem Muster des Griechischen und Lateinischen zusammengeschmiedet sei und die Sprache sowohl als auch die Literatur eine Fälschung seien. Diese Ansicht entwickelte noch im Jahre 1840 der Professor in Dublin, Charles William Wall, weitläufig (Göttingische gelehrte Anzeigen 1842 S. 1888)." <!-- TODO: Fallback translation -->
 >
->[Quelle: **Kemmerich**, Max \&lt;1876-1932\&gt;: Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10]
+>[Quelle: **Kemmerich**, Max (1876–1932): Kultur-Kuriosa. -- München : Langen. -- Bd. 2. -- 1923. -- S. 74. -- Online: [http://www.archive.org/details/kulturkuriosa02kemmuoft](http://www.archive.org/details/kulturkuriosa02kemmuoft). -- Zugriff am 2010-01-10]
 
 ## 1.1. ⲛⲓϫⲱⲙ ⲛ̀ⲛⲓⲁⲣⲭⲏ ϧⲉⲛ ϯⲓⲛⲇⲟⲗⲟⲅⲓⲁ
 
@@ -84,7 +84,7 @@ Abb.: ⲡⲓϣⲟⲛⲧⲉ ϩⲙ ⲡⲓϣⲟⲛⲧⲉ ϫⲱⲙ
 (Ϩⲓⲥⲧⲱρ: [ⲇⲉⲓϣⲁⲗⲝ](/cop/licenses#lekt0103))
 :::
 
->**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Ϧⲓϫ: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Ⲥⲉϩⲓⲧⲣⲟ ϫⲱⲙ ⲛⲁϥⲓ, ⲉⲧⲃⲟⲗ ϫⲱⲙ ⲛⲁϥⲓ. -- **ⲡⲓⲕⲉⲙⲛⲧⲣⲟ**. Ⲡⲓϫⲱⲙ ϩⲛⲁⲕ ⲉϫⲟⲥ ϩⲙ ⲡⲓⲛⲁϫⲟⲩⲧ, ⲡⲓⲛⲁϫⲟⲩⲧ ⲉⲙⲡⲓϣⲟⲛⲧⲉ ⲛⲁⲕ. Ⲡⲓϫⲱⲙ ϩⲛⲁⲕ ⲉϫⲟⲥ ϩⲙ ⲡⲓⲛⲁϫⲟⲩⲧ ⲉⲙⲡⲓϣⲟⲛⲧⲉ ⲛⲁⲕ.
+>**Basham**, A. L. (Arthur Llewellyn) (1914–1986) _The wonder that was India_ Ϧⲓϫ: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Ⲥⲉϩⲓⲧⲣⲟ ϫⲱⲙ ⲛⲁϥⲓ, ⲉⲧⲃⲟⲗ ϫⲱⲙ ⲛⲁϥⲓ. -- **ⲡⲓⲕⲉⲙⲛⲧⲣⲟ**. Ⲡⲓϫⲱⲙ ϩⲛⲁⲕ ⲉϫⲟⲥ ϩⲙ ⲡⲓⲛⲁϫⲟⲩⲧ, ⲡⲓⲛⲁϫⲟⲩⲧ ⲉⲙⲡⲓϣⲟⲛⲧⲉ ⲛⲁⲕ. Ⲡⲓϫⲱⲙ ϩⲛⲁⲕ ⲉϫⲟⲥ ϩⲙ ⲡⲓⲛⲁϫⲟⲩⲧ ⲉⲙⲡⲓϣⲟⲛⲧⲉ ⲛⲁⲕ.
 
 ::: media
 ![](/images/lekt0104.webp)
@@ -94,7 +94,7 @@ Abb.: ⲡⲓϣⲟⲛⲧⲉ ϫⲱⲙ
 
 **ⲡⲓϣⲟⲛⲧⲉ ϩⲙ ⲡⲓϣⲟⲛⲧⲉ ϫⲱⲙ**
 
-> **Килхорн**, Франц \&lt;1840-1908\&gt;: Грамматика санскритского языка / Перевод с английского В. Зольф [1862 - 1936]. -- Берлин : Дюмлер, 1888. -- XIII, 238 стр. -- Оригинальное название: A grammar of the Sanscrit language
+> **Килхорн**, Франц (1840–1908): Грамматика санскритского языка / Перевод с английского В. Зольф [1862 - 1936]. -- Берлин : Дюмлер, 1888. -- XIII, 238 стр. -- Оригинальное название: A grammar of the Sanscrit language
 
 ::: media
 ![](/images/lekt0105.webp)
@@ -114,7 +114,7 @@ Abb.: ⲧⲉ ϯⲛϣⲟⲡ ⲛⲧⲉ ϯⲙⲁϫⲣⲏ
 
 Ⲛⲁϥⲛⲟⲩⲱϫ ⲉⲧⲃⲏ ϥⲛⲙⲁϫⲣⲏ ⲉⲧⲛⲓⲥϫⲓⲟⲗⲅⲓⲁ ϥⲛϣⲟⲡ ⲉⲧⲃⲏ ϥⲛϣⲟⲡ ⲉⲧⲙⲁϫⲣⲏ.
 
-> **ⲧⲉ ϯⲛϣⲟⲡ ⲛⲧⲉ ϯⲙⲁϫⲣⲏ ⲛⲧⲉ ϯⲙⲁϫⲣⲏ** / [Friedrich] Kluge \&lt;1856 - 1926\&gt;. Ⲛⲁϥⲛⲟⲩⲱϫ ⲉⲧⲃⲏ ϥⲛⲙⲁϫⲣⲏ Elmar Seebold. -- 24., ⲛⲁϥⲛⲟⲩⲱϫ ⲉⲧⲃⲏ ϥⲛⲙⲁϫⲣⲏ. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII.
+> **ⲧⲉ ϯⲛϣⲟⲡ ⲛⲧⲉ ϯⲙⲁϫⲣⲏ ⲛⲧⲉ ϯⲙⲁϫⲣⲏ** / [Friedrich] Kluge (1856–1926). Ⲛⲁϥⲛⲟⲩⲱϫ ⲉⲧⲃⲏ ϥⲛⲙⲁϫⲣⲏ Elmar Seebold. -- 24., ⲛⲁϥⲛⲟⲩⲱϫ ⲉⲧⲃⲏ ϥⲛⲙⲁϫⲣⲏ. -- Berlin [u.a.] : de Gruyter, 2002. - LXXXIX, 1023 S. : 24 cm. -- ISBN 3-11-017473-1 Paperback. -- S. XIII - XLVII.
 
 ::: media
 ![](/images/lekt0108.jpg)

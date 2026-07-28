@@ -72,7 +72,7 @@ A szanszkritban egy szó végződése a következő szó kezdőhangjától is f�
 
 Lásd még az áttekintést:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** A végződő -s szandhija. -- (Sanskrit anyagok). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** A végződő -s szandhija. -- (Sanskrit anyagok). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Kiejtés végén álló **-s**:
 
@@ -160,7 +160,7 @@ A négy rendet (**varṇa** m.) gyakran összekeverik a kasztokkal. A négy rend
 
 A három rend viseli a saját rendi ruházatot. Felettük – így isten akarata szerint megjelöltként – Krisztus trónol.
 
-Max Weber \&lt;1864 – 1920\&gt; a rendet így definiálja:
+Max Weber (1864–1920) a rendet így definiálja:
 
 ::: note-box
 »**rend**« sokaságot kell jelölnie, amely egy közösségen belül
@@ -180,7 +180,7 @@ Míg a megélhetési osztályok a piaci orientáltságú gazdaság talaján nőn
 
 Minden státusbeli társadalom konvencionális, az életvitel szabályai szerint rendezett, ezért gazdaságilag irracionális fogyasztási feltételeket teremt, és ezen módon a monopolisztikus apropriációk révén, valamint a saját megélhetési képesség feletti szabad rendelkezés kizárásával gátolja a szabad piaci képződést.
 
-[**Weber, Max \&lt;1864 – 1920\&gt;:** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
+[**Weber, Max (1864–1920):** Wirtschaft und Gesellschaft : Grundriss der verstehenden Soziologie. – 5., revidierte Aufl. – Tübingen : Mohr, 1976. – S. 625 f.]
 :::
 A varṇák ennek megfelelően születési rendek.
 

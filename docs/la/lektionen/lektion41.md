@@ -372,7 +372,7 @@ Fig.: ⟪शास्त्री⟫
 ::: deleteme-box
 vide infra:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : Fundamenta regulorum monasticorum et iuris canonici Theravāda. -- Pars I. -- (Materialia ad fundamenta Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : Fundamenta regulorum monasticorum et iuris canonici Theravāda. -- Pars I. -- (Materialia ad fundamenta Buddhismi). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: puella iuvenis, filia, virgo
 

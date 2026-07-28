@@ -23,15 +23,15 @@ features:
 ---
 
 
-::: note-box  Version 1.6 — Global Integrity & Stabilität
-**Novità in v1.6 (luglio 2026):**
+::: note-box  Versione 1.6.4 — Integrità globale, SSOT e Stabilität
+**Novità in v1.6.4 (luglio 2026):**
 
-- **Completamento al 100% in 19 lingue:** Arabo, ebraico, aramaico, cinese semplificato, indonesiano, hindi, tamil, punjabi, latino, rumeno e romancio grigionese sono ora tradotti in modo completo da macchine (qualità non garantita; puro studio di fattibilità senza revisori).
-- **Supporto RTL:** Supporto nativo del layout per le lingue da destra a sinistra (arabo, ebraico) inclusa un'interfaccia utente completamente localizzata.
-- **PWA e Offline-First:** Utilizzo offline completo e privo di errori di tutti i contenuti del corso attraverso tutte le versioni linguistiche attive.
-- **Versione autore e editor:** Editor completo per i revisori (QA-Viewer) con sistema di fallback asincrono basato sull'IA per traduzioni in massa estremamente stabili.
+- **Completamento al 100% in 21 lingue target:** 21 lingue (tra cui greco antico, finlandese, ungherese, arabo, ebraico, latino, cinese semplificato e altre) sono ora completamente tradotte senza fallback e protette in sola lettura sotto un blocco totale assoluto.
+- **Localizzazione completa dell'interfaccia utente (SSOT):** Tutti gli elementi di navigazione e di controllo (Lezione precedente/successiva, esercizi, indice dei contenuti) vengono forniti dinamicamente in tutte le 32 lingue tramite un registro linguistico centrale.
+- **Tipografia e controllo qualità:** Tipografia Devanāgarī dritta senza distorsioni corsive, tag rosso segnale disintrecciati e brani testuali puliti su tutte le versioni linguistiche completate.
+- **PWA e approccio offline-first:** Utilizzo offline completo di tutti i contenuti dei corsi su tutte le versioni linguistiche attive.
 
-**Commenti e segnalazioni di errori sono i benvenuti a:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**Note e segnalazioni di bug sono benvenute a:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 **Partecipa come revisore o curatore:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 
 - Per gli autori (e per chi desidera utilizzare un editor Markdown standalone leggero), è disponibile un editor open-source su https://github.com/marcodem/zentauri

@@ -10,7 +10,7 @@ title: "Impresszum és idézés"
 *A következő szöveget a leckefájlokból történő konvertálás során különítették el, hogy javítsák az olvasási élményt.*
 
 ## Idézési mód | cite as:
-**Payer, Alois \&lt;1944 - \&gt;:** Szanszkrit kurzus. -- 2010-es változat. -- URL: http://www.payer.de/sanskritkurs/
+**Payer, Alois (1944–):** Szanszkrit kurzus. -- 2010-es változat. -- URL: http://www.payer.de/sanskritkurs/
 
 ## Indok
 A 1980 - 1984 közötti tanfolyamok számára készült

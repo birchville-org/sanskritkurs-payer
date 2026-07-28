@@ -176,7 +176,7 @@ Opiskele seuraavat sanat:
 >
 > Tässä merkityksessä sille on löydetty eri johtoperä: lähteenä ei ole enää asu, 'hengitys', vaan alkuinen *a* tulkitaan negatiiviseksi prefiksiksi, ja *asura* tarkoittaa 'ei jumala;' joten joidenkin mukaan syntyi sana *sura*, jota yleisesti käytetään 'jumalasta'."
 >
-> [Lähde: **Dowson, John \&lt;1820-1881\&gt;:** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
+> [Lähde: **Dowson, John (1820–1881):** A classical dictionary of Hindu mythology and religion, geography, history, and literature. -- London, Trübner, 1879. -- s.v. ]
 
 ::: media
 ![](/images/lekt1301.webp)

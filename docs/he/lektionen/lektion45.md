@@ -111,7 +111,7 @@ status: stable
 ::: indent
 לעניין פילוג הקהילה (⟪सङ्घभेद⟫) ראה:
 
-**פייאר, אלווה \&lt;1944 - \&gt;:** וינאיהמוכחה : מושגי יסוד של חוקי הסדרה ומשפט הסנג'ה של התירוואדה. -- חלק א'. -- (חומרים למושגי היסוד של הבודהיזם). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**פייאר, אלווה (1944–):** וינאיהמוכחה : מושגי יסוד של חוקי הסדרה ומשפט הסנג'ה של התירוואדה. -- חלק א'. -- (חומרים למושגי היסוד של הבודהיזם). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 2\. האם נהנית מהארץ?
 

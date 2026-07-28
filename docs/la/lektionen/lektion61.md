@@ -559,7 +559,7 @@ Anno 1845 - 1878 Professor philologiae indico-orientalis in Universitate Hafnien
 :::
 
 ::: indent
-**Westergaard**, Niels Ludvig \&lt;1815-1878\&gt;: Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- Pp. 335 - 341.
+**Westergaard**, Niels Ludvig (1815–1878): Radices linguae Sanscritae ad decreta grammaticorum definivit atque copia exemplorum exquisitiorum illustravit / N. L. Westergaard. -- Bonnae ad Rhenum : König, 1841. -- Pp. 335 - 341.
 :::
 ## LXXXI.5. Benedictivus (⟪आशीर्लिङ्⟫)
 

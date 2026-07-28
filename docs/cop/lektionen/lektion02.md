@@ -72,7 +72,7 @@ z.B. devo viṣṇuḥ = ⟪देवो⟫ ⟪विष्णुः⟫ = "Viṣ
 
 ⲡⲓϣⲱⲡⲧⲛ ⲉ̄ⲓϫⲱⲥ:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Auslautendes **-s**:
 

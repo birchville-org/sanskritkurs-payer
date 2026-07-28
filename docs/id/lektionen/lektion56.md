@@ -133,7 +133,7 @@ Profesor Linguistik Perbandingan, Universitas Erlangen-Nuremberg (1955 - 1983)
 :::
 
 ::: indent
-Hoffmann, Karl \&lt;1915 - 1996\&gt;: The Injunctive in the Veda : a synchronic functional study / by Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3. series, Investigations)
+Hoffmann, Karl (1915–1996): The Injunctive in the Veda : a synchronic functional study / by Karl Hoffmann. -- Heidelberg : Winter, 1967. -- 298 p. -- (Indogermanische Bibliothek : 3. series, Investigations)
 :::
 Injunktif dalam Weda memiliki sifat-sifat berikut:
 
@@ -191,7 +191,7 @@ In addition, there are other, rarer forms of prohibitive sentences, see e.g.
 
 :::
 ::: indent
-Speyer, Jacob S. (Jacob Samuel) \&lt;1849-1913\&gt;: Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
+Speyer, Jacob S. (Jacob Samuel) (1849–1913): Sanskrit syntax. -- Leyden : Brill, 1886. -- § 353.
 :::
 ::: media
 ![](/images/lekt5603.webp)

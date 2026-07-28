@@ -373,7 +373,7 @@ PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫
 :::
 Για ⟪राहु⟫ και ⟪केतु⟫ δείτε:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Εισαγωγή και επισκόπηση. -- 10. Σάκραμεντα και τελετές μετάβασης (samskara). -- Παράρτημα C: Rahu και Ketu, οι αόρατοι πλανήτες μεταβολής . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Εισαγωγή και επισκόπηση. -- 10. Σάκραμεντα και τελετές μετάβασης (samskara). -- Παράρτημα C: Rahu και Ketu, οι αόρατοι πλανήτες μεταβολής . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Εικ.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/el/licenses#lekt4602)

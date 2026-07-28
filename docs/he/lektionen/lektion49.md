@@ -190,7 +190,7 @@ status: stable
 
 :::
 ::: indent
-**Carakasaṃhitā:** טקסטים נבחרים מהקרקה סמהיטה / תורגמו והוסברו על ידי אלוויס פאייר \&lt;1944 - \&gt;. -- 0. מבוא. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
+**Carakasaṃhitā:** טקסטים נבחרים מהקרקה סמהיטה / תורגמו והוסברו על ידי אלוויס פאייר (1944–). -- 0. מבוא. -- URL: [http://www.payer.de/ayurveda/caraka0001.htm](http://www.payer.de/ayurveda/caraka0001.htm)
 :::
 ⟪क्षिप्⟫ 6P ⟪क्षिपति⟫ : לזרוק, להשליך
 

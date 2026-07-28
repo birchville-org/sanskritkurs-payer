@@ -344,7 +344,7 @@ PPP ⟪रब्ध⟫
 ::: deleteme-box
 देखें:
 
-**पेयर, अलोइस \&lt;1944 - \&gt;:** विनयमुख : थेरवाद के सांख्यिकीय नियमों और सांख्यिकीय कानून की मूल अवधारणाएँ। -- भाग I. -- (बौद्ध धर्म की मूल अवधारणाओं के लिए सामग्री)। -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**पेयर, अलोइस (1944–):** विनयमुख : थेरवाद के सांख्यिकीय नियमों और सांख्यिकीय कानून की मूल अवधारणाएँ। -- भाग I. -- (बौद्ध धर्म की मूल अवधारणाओं के लिए सामग्री)। -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ::: media
 ![](/images/lekt4408.webp)

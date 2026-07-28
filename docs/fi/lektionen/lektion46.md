@@ -373,7 +373,7 @@ siitä:
 :::
 Katso ⟪राहु⟫ ja ⟪केतु⟫:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Dharmashastra : Johdanto ja katsaus. -- 10. Sakramentit ja siirtorituutit (samskara). -- Liite C: Rahu ja Ketu, näkymättömät vaeltavat tähdet . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
+> **Payer, Alois (1944–):** Dharmashastra : Johdanto ja katsaus. -- 10. Sakramentit ja siirtorituutit (samskara). -- Liite C: Rahu ja Ketu, näkymättömät vaeltavat tähdet . -- URL: [http://www.payer.de/dharmashastra/dharmash10c.htm](http://www.payer.de/dharmashastra/dharmash10c.htm)
 ::: media
 ![](/images/lekt4602.webp)
 Kuv.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/fi/licenses#lekt4602)

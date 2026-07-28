@@ -237,7 +237,7 @@ Amellyel boldogulást és jó újjászületéseket érdemel ki az ember.
 ::: note-box
 Indiában az igazi szó varázserőt tulajdonítottak, sőt a világrendet is az igaz szó tartja fenn és teremti. Erről a fontos elképzelésről lásd az alábbi alapművet:
 
-Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. A hátralevő kéziratokból kiadta Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- 2. kötet: Varuna és a Ṛta. -- 1959. -- XXIII old., 340 - 764. oldal
+Lüders, Heinrich (1869–1943): Varuna / Heinrich Lüders. A hátralevő kéziratokból kiadta Ludwig Alsdorf. - Göttingen : Vandenhoeck & Ruprecht. -- 2. kötet: Varuna és a Ṛta. -- 1959. -- XXIII old., 340 - 764. oldal
 :::
 
 ::: media

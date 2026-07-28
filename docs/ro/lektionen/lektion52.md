@@ -767,9 +767,9 @@ Cu Lecția 52 se încheie primul semestru (13 săptămâți x 4 ore de curs) al 
 8.  Parcurgerea:  
     **Kunnappally, John:** Prakriyā bhāshyam : Gramatică sanscrită / Scris inițial în malayalam. Tradus în engleză de K.V.R. Pai. -- Parathode : Autoeditat, 1983. -- 818 p. ; 23 cm. -- p. 208 - 254 (Guvernare sintactică)
 9.  Finalizarea parcurgerii:  
-    **Basham, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt;**Minunea care a fost IndiaPartea A: o prezentare generală a culturii subcontinentului indian înainte de venirea musulmanilor. -- London : Sidgwick & Jackson, 1954.
+    **Basham, A. L. (Arthur Llewellyn) (1914–1986)**Minunea care a fost IndiaPartea A: o prezentare generală a culturii subcontinentului indian înainte de venirea musulmanilor. -- London : Sidgwick & Jackson, 1954.
 10.  Începerea parcurgerii:  
-     **Winternitz, Moriz \&lt;1863 - 1937\&gt;: Istoria literaturii indiene. Stuttgart : Koehler. -- 3 vol. -- 1908 - 1922 (încă cea mai bună istorie a literaturii sanscrite, pali și prakrit)
+     **Winternitz, Moriz (1863–1937): Istoria literaturii indiene. Stuttgart : Koehler. -- 3 vol. -- 1908 - 1922 (încă cea mai bună istorie a literaturii sanscrite, pali și prakrit)
 
 ::: media
 ![](/images/lekt5201.webp)

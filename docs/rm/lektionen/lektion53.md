@@ -484,7 +484,7 @@ Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर�
 :::
 Vesair era:
 
-> **Payer, Alois \&lt;1944 - \&gt;:** Introducziun en l'exegesi da texts sanscrits : script. -- Cap. 8: L'exegesi actuala, part II: A singulas dumondas da la comprension sincrona. -- Appendix B: A la metrica da texts sanscrits. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
+> **Payer, Alois (1944–):** Introducziun en l'exegesi da texts sanscrits : script. -- Cap. 8: L'exegesi actuala, part II: A singulas dumondas da la comprension sincrona. -- Appendix B: A la metrica da texts sanscrits. -- URL: [http://www.payer.de/exegese/exeg08b.htm](http://www.payer.de/exegese/exeg08b.htm)
 
 ### 53.10.1. Impurtanza da la determinaziun dal metr
 
@@ -492,7 +492,7 @@ La determinaziun dal metr è impurtanta per las suandantas rauns:
 
 1.  **Estetic:** la mesira dal vers fa part da la bellezza d'in enuncià. Ultra da quai pon certas mesiras dal vers, en certs cas, exprimir certas emuns, u ellas èn assignadas a certs stans (⟪वर्ण⟫). Las differentas mesiras dal vers vegnan recitadas en differentas modas. :br Ina buna impressiun da l'effect estetic dat per exempel la recitaziun dal ⟪शिवताण्डवस्तोत्र⟫ (glutg dal dumber da Śiva): [http://de.youtube.com/watch?v=5KjfiJlkO58](http://de.youtube.com/watch?v=5KjfiJlkO58)
 2.  **Critica dal text:** errurs en la mesira dal vers pon esser in indizi che il text n'è betg trasmettì correctamain ad in punct. La mesira dal vers agiuta a far emendaziuns dal text.
-3.  **Cronologic:** certas mesiras dal vers han passà tras midaments differents en il decurs da la istorgia. Quai po agiutar cun la dataziun approximativa d'in text. Vesei qua **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Zur Geschichte der Triṣṭhubh ; id.: Zur Geschichte des Śloka. -- Tut duos en: :br **Oldenberg, Hermann \&lt;1854 - 1920\&gt;:** Kleine Schriften / Hermann Oldenberg. Edì da Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vol. -- (Fondaziun Glasenapp ; ...). -- Vol. 2. -- 1967. -- P. 1188 - 1255.
+3.  **Cronologic:** certas mesiras dal vers han passà tras midaments differents en il decurs da la istorgia. Quai po agiutar cun la dataziun approximativa d'in text. Vesei qua **Oldenberg, Hermann (1854–1920):** Zur Geschichte der Triṣṭhubh ; id.: Zur Geschichte des Śloka. -- Tut duos en: :br **Oldenberg, Hermann (1854–1920):** Kleine Schriften / Hermann Oldenberg. Edì da Klaus L. Janert. -- Wiesbaden : Steiner. -- 3 vol. -- (Fondaziun Glasenapp ; ...). -- Vol. 2. -- 1967. -- P. 1188 - 1255.
 
 ::: media
 ![](/images/lekt5304.jpg)
@@ -637,7 +637,7 @@ Alois Maria Payer
 ::: deleteme-box
 **Furmas**
 
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurs. -- 53. Lecziun 53 (Vacanzas dal semester). -- Versiun dal 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
+**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lecziun 53 (Vacanzas dal semester). -- Versiun dal 2009-01-19. -- URL: [http://www.payer.de/sanskritkurs/lektion53.htm](http://www.payer.de/sanskritkurs/lektion53.htm)
 
 Finitum feliciter 1984-02-15  
 Editio interretialis feliciter finita 2009-01-19  
@@ -646,6 +646,6 @@ Alois Maria Payer
 :::
 ::: deleteme-box
 
-**Payer, Alois \&lt;1944 - \&gt;:** Sanskritkurs. -- 53. Lecziun 53 (Vacanzas dal semester). -- Versiun dal 2009-01-19. -- Sursaint d'imagines da la tabella originala 53.9: Captura da l'originala sursaint (Payer).
+**Payer, Alois (1944–):** Sanskritkurs. -- 53. Lecziun 53 (Vacanzas dal semester). -- Versiun dal 2009-01-19. -- Sursaint d'imagines da la tabella originala 53.9: Captura da l'originala sursaint (Payer).
 :::
 

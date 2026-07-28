@@ -23,17 +23,17 @@ features:
 ---
 
 
-::: note-box  Version 1.6 — Global Integrity & Stabilität
-**v1.6 版新增功能（2026年7月）：**
+::: note-box 版本 1.6.4 — 全球完整性、单一事实来源（SSOT）与稳定性
+**v1.6.4（2026年7月）新增功能：**
 
-- **19种语言的100%完成度：** 阿拉伯语、希伯来语、亚拉姆语、简体中文、印尼语、印地语、泰米尔语、旁遮普语、拉丁语、罗马尼亚语和罗曼什语（格里松方言）现已实现无缝机器翻译（质量未获保证；仅为可行性研究，未经编辑校对）。
-- **RTL支持：** 对右至左语言（阿拉伯语、希伯来语）的原生布局支持，包括完全本地化的用户界面。
-- **PWA 与离线优先：** 在所有活跃语言版本中，完整且无错误地离线使用所有课程内容。
-- **作者版本与编辑器：** 为编辑（QA查看器）提供完整的编辑器，配备异步AI后备系统，确保大规模翻译的极高稳定性。
+- **21种目标语言实现100%完成度：** 21种语言（包括古希腊语、芬兰语、匈牙利语、阿拉伯语、希伯来语、拉丁语、简体中文等）现已完全翻译，无需回退机制，并在绝对总锁定状态下设为只读。
+- **完整的UI本地化（SSOT）：** 所有导航和控制元素（上一课/下一课、练习、目录）均通过中央语言注册表在全部32种语言中动态提供。
+- **排版与质量保证：** 采用直立的Devanāgarī（天城文）排版，无斜体变形；解耦信号红色标签；清理已完成语言版本中的所有文本片段。
+- **PWA与离线优先：** 支持在所有活跃语言版本中完全离线使用所有课程内容。
 
-**欢迎提出意见和错误报告至：** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
-**作为编辑或策展人参与：** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
+**欢迎提交备注和错误报告至：** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
+**作为校对者或策展人参与：** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 
-- 对于作者（以及希望使用轻量级Markdown独立编辑器的人），开源编辑器可在 https://github.com/marcodem/zentauri 获取
+- 对于作者（以及希望使用轻量级Markdown独立编辑器的用户），提供了一个开源编辑器，地址为 https://github.com/marcodem/zentauri
 
 :::

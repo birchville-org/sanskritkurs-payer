@@ -372,7 +372,7 @@ Kép: ⟪शास्त्री⟫
 ::: deleteme-box
 lásd még:
 
-**Payer, Alois \&lt;1944 - \&gt;:** Vinayamukha : A Theravāda rendszabályainak és egyházi jogának alapfogalmai. -- I. rész. -- (A buddhizmus alapfogalmairól szóló anyagok). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
+**Payer, Alois (1944–):** Vinayamukha : A Theravāda rendszabályainak és egyházi jogának alapfogalmai. -- I. rész. -- (A buddhizmus alapfogalmairól szóló anyagok). -- _URL_: [http://www.payer.de/buddhgrund/vinaya01.htm](http://www.payer.de/buddhgrund/vinaya01.htm)
 :::
 ⟪कन्या⟫ f.: fiatal lány, leány, szűz
 
