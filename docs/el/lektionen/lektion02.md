@@ -72,7 +72,7 @@ last_reconstructed: 2026-04-30
 
 Δείτε επίσης την επισκόπηση:
 
-> **Payer, Alois (1944–):** Sandhi von auslautendem -s. -- (Materialien zum Sanskrit). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
+> **Payer, Alois (1944–):** Sandhi von auslautendem -s. -- (Υλικό για τα Σανσκριτικά). -- URL: http://www.payer.de/sanskritmaterialien/ssandhi.htm
 
 Τελικό **-s**:
 

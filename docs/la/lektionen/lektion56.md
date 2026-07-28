@@ -20,7 +20,7 @@ status: stable
 
 **Finale -i vel -u per -iy aut -uv substituitur.**
 
-**Auslautendes -ā (für -e) fällt ab.**
+**-ā finale -ā (für -e) fällt ab.**
 :::
 Paradigma:
 
