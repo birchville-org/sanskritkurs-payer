@@ -10,7 +10,7 @@ on:
 env:
   REGISTRY: ghcr.io
   IMAGE_NAME: ${{ github.repository }}
-  NODE_OPTIONS: "--max-old-space-size=6144"
+  NODE_OPTIONS: "--max-old-space-size=12288"
 
 concurrency:
   group: docker-${{ github.sha }}
@@ -26,6 +26,14 @@ jobs:
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+
+      - name: Set up Swap Space (10 GB)
+        run: |
+          sudo fallocate -l 10G /swapfile
+          sudo chmod 600 /swapfile
+          sudo mkswap /swapfile
+          sudo swapon /swapfile
+          free -h
 
       - name: Configure Git for HTTPS
         run: |
