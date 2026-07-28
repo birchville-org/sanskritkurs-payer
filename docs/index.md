@@ -22,13 +22,13 @@ features:
     details: Erbaut auf dem Fundament von VitePress für maximale Geschwindigkeit.
 ---
 
-::: note-box  Version 1.6 — Global Integrity & Stabilität
-**Neu in v1.6 (Juli 2026):**
+::: note-box  Version 1.6.4 — Global Integrity, SSOT & Stabilität
+**Neu in v1.6.4 (Juli 2026):**
 
-- **100% Completion in 19 Sprachen:** Arabisch, Hebräisch, Aramäisch, Vereinfachtes Chinesisch, Indonesisch, Hindi, Tamil, Punjabi, Latein, Rumänisch und Rumantsch Grischun sind nun lückenlos maschinell übersetzt (Qualität ungesichert; reine Machbarkeitsstudie ohne Lektoren).
-- **RTL-Support:** Native Layout-Unterstützung für rechtsläufige Sprachen (Arabisch, Hebräisch) inklusive komplett lokalisierter Bedienoberfläche.
-- **PWA & Offline-First:** Vollständige und fehlerfreie Offline-Nutzung sämtlicher Kursinhalte über alle aktiven Sprachversionen hinweg.
-- **Autoren Version & Editor:** Kompletter Editor für Lektoren (QA-Viewer) mit asynchronem KI-Fallback-System für extrem stabile Massenübersetzungen.
+- **100% Completion in 21 Zielsprachen:** 21 Sprachen (darunter Altgriechisch, Suomi, Magyar, Arabisch, Hebräisch, Latein, Vereinfachtes Chinesisch u.v.m.) sind nun vollständig ohne Fallbacks übersetzt und unter einer absoluten Total-Sperre schreibgeschützt.
+- **Vollständige UI-Lokalisierung (SSOT):** Sämtliche Navigations- und Steuerelemente (Vorherige/Nächste Lektion, Übungen, Inhaltsverzeichnis) werden in allen 32 Sprachen dynamisch über ein zentrales Sprachregister bereitgestellt.
+- **Typografie & Qualitätssicherung:** Aufrechte Devanāgarī-Typografie ohne Kursivverzerrung, entwirrte Signalrot-Tags und bereinigte Textstellen über alle fertigen Sprachversionen hinweg.
+- **PWA & Offline-First:** Vollständige Offline-Nutzung sämtlicher Kursinhalte über alle aktiven Sprachversionen hinweg.
 
 **Bemerkungen und Fehlermeldungen willkommen an:** [webmaster@birchville.cc](mailto:webmaster@birchville.cc)
 **Als Lektor oder Kurator mitwirken:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
