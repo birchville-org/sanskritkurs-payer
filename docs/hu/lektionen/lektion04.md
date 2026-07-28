@@ -97,7 +97,7 @@ MEGJEGYZÉS: A válaszok, amelyeket eddigi szanszkrit tudásukkal ilyen kérdés
 
 **A) Képezzék szóban a következő szavakkal kérdéseket a viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) séma szerint, és válaszoljanak a kérdésekre szanszkritul:**
 
-śruti, śiva, brāhmaṇa, dvija (Plural), indrāṇī, dhenu, tulādhara, kālidāsa
+śruti, śiva, brāhmaṇa, dvija (többes szám), indrāṇī, dhenu, tulādhara, kālidāsa
 
 = ⟪श्रुति⟫, ⟪शिव⟫, ⟪ब्राह्मण⟫, ⟪द्विज⟫ (⟪बहुवचनम्⟫), ⟪इन्द्राणी⟫, ⟪धेनु⟫, ⟪तुलाधर⟫, ⟪कालिदास⟫
 
@@ -105,5 +105,5 @@ MEGJEGYZÉS: A válaszok, amelyeket eddigi szanszkrit tudásukkal ilyen kérdés
 
 ::: media
 ![](/images/lekt0401.webp)
-(Képmegjelenítés: [Details](/hu/licenses#lekt0401))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt0401))
 :::

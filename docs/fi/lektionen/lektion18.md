@@ -251,7 +251,7 @@ sam-kṛ + -a = ⟪संस्कार⟫ m.: vihkiminen, valmistelu ; siirtym
 ![](/images/lekt1804.webp)
 Kuv.: ⟪विवाहः⟫
 Häät = ⟪विवाह⟫ m., tärkeä ⟪संस्कारः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1804))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1804))
 :::
 upa-nī + -ana = ⟪उपनयन⟫ n.: tuominen (uhritulen luo) = seremonia, jossa ylemmän kolmen kastekunnan miesjäsenille asetetaan pyhä lanka (⟪यज्ञोपवीत⟫ n.) sekä kuiskataan heidän korvaansa pyhä säe ⟪सावित्री⟫, jota heidän tulee recitoida päivittäin auringonnousun ja -laskun aikaan. Brahmaneille tämä on Ṛgveda III.62.10:
 
@@ -264,7 +264,7 @@ Upanayanasta tulee toinen syntyminen, siksi: ⟪द्विज⟫ ⟪।⟫ ⟪
 ![](/images/lekt1801.webp)
 Kuva: ⟪उपनयनम्⟫
 "Nuori poika nähdään upanayana-rituaalin aikana. Keltainen, ohut lanka vasemmalta olkalta vyötärölle on Yagnopaivta. Huomaa myös munja-ruohon vyötärön ympärillä oleva vyö. Oikeassa kädessä oleva oksa (yleensä peepa-puusta) merkitsee hänen tuloaan Brahmacharyaan."
-(Kuv lähde: [Details](/fi/licenses#lekt1801))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1801))
 :::
 ## 18.4. Sanalista
 

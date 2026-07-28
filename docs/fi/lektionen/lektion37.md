@@ -170,7 +170,7 @@ Toinen kysymysadverbi on: ⟪क्व⟫ "missä?"
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
 Kuva: ⟪क्व⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3701))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3701))
 :::
 
 ::: grammar-box
@@ -236,7 +236,7 @@ esim. ⟪तूष्णीं⟫ ⟪बभूव⟫ "hän tuli hiljaiseksi, hä
 ::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
 Kuv.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3703))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3703))
 :::
 ## 37.7. Epämääräiset pronominit
 
@@ -306,7 +306,7 @@ Esimerkit:
 ::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
 Kuva: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3704))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3704))
 :::
 ### 37.8.2. Kysymyslauseet
 
@@ -361,7 +361,7 @@ Huomautus: ⟪किम्⟫ voi merkityksen "mitä?" ja kysymyspartikkelin ohe
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
 Kuv.: ⟪शाक्यमुनिः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt3705))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt3705))
 :::
 ⟪दिन⟫ n.: päivä
 
@@ -370,7 +370,7 @@ Kuv.: ⟪शाक्यमुनिः⟫
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
 Kuv.: ⟪वृक्षः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt3706))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt3706))
 :::
 ⟪मुख⟫ n.: suu, kasvot, etuosa, alku
 
@@ -407,14 +407,14 @@ Esimerkki: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟩ » 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
 Kuva: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3707))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3707))
 :::
 ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
 Kuva: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Kuvalähde: [Details](/fi/licenses#lekt3708))
+(Kuvalähde: [Tiedot](/fi/licenses#lekt3708))
 :::
 ⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
@@ -485,7 +485,7 @@ Kuv.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 ::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
 Kuva: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3710))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3710))
 :::
 7\. ⟪उप⟫ "lähellä"
 
@@ -495,7 +495,7 @@ Kuva: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪व
 ::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
 Kuva: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3711))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3711))
 :::
 8\. ⟪यथा⟫
 

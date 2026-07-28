@@ -43,8 +43,8 @@ Esimerkit:
 Esimerkit:
 
 ::: indent
-⟪धा⟫ 3 "asettaa"
-* 3.sg.P.Ind.Präs. ⟪दधाति⟫
+:sig[⟪धा⟫] 3 "asettaa"
+* 3.sg.P.Ind.Präs. :sig[⟪दधाति⟫]
 
 ⟪भी⟫ 3 "pelätä"
 * 3.sg.P.Ind.Präs. :sig[⟪बि⟫]⟪भेति⟫
@@ -94,7 +94,7 @@ Esimerkki:
 ::: grammar-box
 * **Säännöllinen reduplikointivokaali on -i-**
 * **u-päätteiset juuret reduplikoituvat -u:-lla**
-* **juuret ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ reduplikoituvat -a:-lla**
+* **juuret ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ reduplikoituvat -a:-lla**
 :::
 Esimerkkejä:
 
@@ -124,11 +124,11 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 * **Matalleikka**
   * **Konsonantin edellä: -i-**
-esim. ⟪धा⟫ PPP: ⟪हित⟫ (hi-ta)
+esim. :sig[⟪धा⟫] PPP: :sig[⟪हित⟫] (hi-ta)
   * **Vokaalin edellä: Ø**
-esim. ⟪धा⟫ 3.pl.P.Ind.Präs. ⟪दधति⟫ (dadh-ati)
+esim. :sig[⟪धा⟫] 3.pl.P.Ind.Präs. ⟪दधति⟫ (dadh-ati)
 * **Korkea aste: -ā-**
-esim. ⟪धा⟫ 3.sg.P.Ind.Präs. ⟪दधाति⟫
+esim. :sig[⟪धा⟫] 3.sg.P.Ind.Präs. :sig[⟪दधाति⟫]
 :::
 Tähän ryhmään kuuluu esim.:
 
@@ -170,15 +170,15 @@ Esimerkkejä:
 | **Imperfekti** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optatiivi** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Juuri ⟪हा⟫ hat vor dem Optatiivi-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Juuret ⟪दा⟫ ja ⟪धा⟫
+### 33.4.1. Juuret ⟪दा⟫ ja :sig[⟪धा⟫]
 
 ::: grammar-box
-**Juuret ⟪दा⟫ ja ⟪धा⟫ reduplikoituvat vokaalilla -a- ja menettävät heikon varmuuden juurivokaalin.**
+**Juuret ⟪दा⟫ ja :sig[⟪धा⟫] reduplikoituvat vokaalilla -a- ja menettävät heikon varmuuden juurivokaalin.**
 
-**Huomaa ⟪धा⟫: hahdottomuussääntö!**
+**Huomaa :sig[⟪धा⟫]: hahdottomuussääntö!**
 :::
 ::: grammar-box
-⟪धा⟫ 3U "asettaa, määrätä, jakaa"
+:sig[⟪धा⟫] 3U "asettaa, määrätä, jakaa"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -186,7 +186,7 @@ Esimerkkejä:
 | **Imperfekti** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optatiivi** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Muodot ⟪दा⟫ saadaan korvaamalla ⟪धा⟫ paradigmassa **dh** kirjaimella **d**. Eli:
+Muodot ⟪दा⟫ saadaan korvaamalla :sig[⟪धा⟫] paradigmassa **dh** kirjaimella **d**. Eli:
 
 ::: grammar-box
 ⟪दा⟫ 3U "antaa"
@@ -246,7 +246,7 @@ Kuv.: ⟪दानम्⟫
 ::: media
 ![](/images/lekt3307.webp)
 Kuv.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3307))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3307))
 :::
 :sig[⟪धा⟫] 3U :sig[⟪दधाति⟫]: asettaa, määrätä, jakaa
 
@@ -257,7 +257,7 @@ Kuv.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **PPP** :sig[⟪हित⟫] (!!)  
 **Inf.** :sig[⟪धातुम्⟫]
 :::
-⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: kiinnittää koko huomionsa jhk, keskittyä
+:sig[⟪धा⟫] + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: kiinnittää koko huomionsa jhk, keskittyä
 
 ::: indent
 tästä:
@@ -267,7 +267,7 @@ tästä:
 ::: media
 ![](/images/lekt3305.webp)
 Kuv.: ⟪समाधि⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3305))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3305))
 :::
 ⟪पॄ⟫ 3P ⟪पिपर्ति⟫: täyttää, vallata
 
@@ -301,7 +301,7 @@ siitä:
 ::: media
 ![](/images/lekt3304.webp)
 Kuv.: ⟪भयम्⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt3304))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt3304))
 :::
 ⟪भृ⟫ 3U ⟪बिभर्ति⟫: kantaa, tuoda; ylläpitää, ruokkia
 
@@ -407,7 +407,7 @@ C) Käännä ja muuta yksikkölauseet monikkomuotoon ja päinvastoin:
 ::: media
 ![](/images/lekt3308.webp)
 Kuva: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪स्त्री⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3308))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3308))
 :::
 ⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
 

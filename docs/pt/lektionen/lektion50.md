@@ -260,7 +260,7 @@ B) Traduza:
 :sig[⟪द्रष्टृदृश्ययोः⟫] ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
 
 Explicação:
-⟪द्रष्टृदृश्ययोः⟫ : Gen.Loc.m.n.f.Dual (Dualdvandva)
+:sig[⟪द्रष्टृदृश्ययोः⟫] : Gen.Loc.m.n.f.Dual (Dualdvandva)
 :::
 ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Sobre os conselheiros do rei
 

@@ -33,7 +33,7 @@ status: stable
 | **2. Person** :br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
 :::
-### 49.1.2. Fünfte Präsensklasse (⟪स्वादि⟫)
+### 49.1.2. Fünfte Präsensklasse (⟪स्वादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen dem auslautenden -u des Suffixes nur ein Konsonant vorausgeht. <!-- TODO: Fallback translation -->
@@ -45,7 +45,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | *⟪सुनु⟫* | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *:sig[⟪सुनु⟫]* | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
 :::
 ⟪आप्⟫ 5P <!-- TODO: Fallback translation -->
@@ -58,7 +58,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | **2. Person** :br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
 :::
-### 49.1.3. Achte Präsensklasse (⟪तनादि⟫)
+### 49.1.3. Achte Präsensklasse (⟪तनादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪तन्⟫ 8U <!-- TODO: Fallback translation -->
 
@@ -67,7 +67,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪तनवानि⟫ | ⟪तनवाम⟫ | ⟪तनवै⟫ | ⟪तनवामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | *⟪तनु⟫* | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *:sig[⟪तनु⟫]* | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪तनोतु⟫ | ⟪तन्वन्तु⟫ | ⟪तनुताम्⟫ | ⟪तन्वताम्⟫ |
 :::
 ⟪कृ⟫ 8U <!-- TODO: Fallback translation -->
@@ -77,7 +77,7 @@ Die 2.sg.P Imperativ ist endungslos bei Wurzeln der 5. und 8. Klasse, bei denen 
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪करवाणि⟫ | ⟪करवाम⟫ | ⟪करवै⟫ | ⟪करवामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | *⟪कुरु⟫* | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *:sig[⟪कुरु⟫]* | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
 :::
 ### 49.1.4. ⲧⲉⲛⲁⲩⲧⲉ ⲛⲡⲣⲁⲉⲥⲉⲛⲥⲕⲗⲁⲥⲥⲉ (⟪क्र्यादि⟫)
@@ -102,7 +102,7 @@ Wurzeln der 9. Klasse, die auf Konsonant enden, ersetzen das auslautende -nī-hi
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | *⟪गृहाण⟫* | ⟪गृह्णीत⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *:sig[⟪गृहाण⟫]* | ⟪गृह्णीत⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
 :::
 ## 49.2. ⲇⲉⲕⲗⲓⲛⲁⲧⲓⲟⲛ ⲛ̀ⲛⲓⲛⲟⲙⲓⲛⲁⲗ ⲥⲧⲉⲙ ⲉⲧϫⲱⲕ ⲉ̀ⲃⲟⲗ ϧⲉⲛ -as, -is, -us
@@ -211,7 +211,7 @@ Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ ***⟪तू्र्⟫***⟪ण⟫
+PPP ⟪त्वरित⟫ ⟪।⟫ ***:sig[⟪तू्र्⟫]***⟪ण⟫
 Inf. ⟪त्वरितुम्⟫ <!-- TODO: Fallback translation -->
 :::
 ⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : schädigen <!-- TODO: Fallback translation -->

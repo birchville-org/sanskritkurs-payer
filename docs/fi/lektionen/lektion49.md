@@ -171,7 +171,7 @@ Esimerkkejä:
 ::: media
 ![](/images/lekt4907.webp)
 Kuva: ⟪नमस्ते⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4907))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4907))
 :::
 ## 49.4. Sanalista
 
@@ -228,8 +228,8 @@ Inf. ⟪द्रोग्धुम्⟫
 
 ::: media
 ![](/images/lekt4901.webp)
-Abb.: ⟪कुलूहलम्⟫
-(Bildquelle: [Details](/fi/licenses#lekt4901))
+Kuva: ⟪कुलूहलम्⟫
+(Kuvalähde: [Tiedot](/fi/licenses#lekt4901))
 :::
 ⟪कृत्स्न⟫ 3: ganz, vollständig
 
@@ -241,7 +241,7 @@ Abb.: ⟪कुलूहलम्⟫
 ![](/images/lekt4902.webp)
 Kuva: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, 1100-luku
-(Kuv lähde: [Details](/fi/licenses#lekt4902))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4902))
 :::
 ⟪वर⟫ m.n.: toive
 
@@ -252,7 +252,7 @@ Kuva: ⟪उत्तमा⟫ ⟪काला⟫
 ::: media
 ![](/images/lekt4903.jpg)
 Kuv.: ⟪विहंगः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt4903))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt4903))
 :::
 ⟪वेष⟫ m.: vaate, ulkonäkö, ulkoasu
 
@@ -260,7 +260,7 @@ Kuv.: ⟪विहंगः⟫
 ![](/images/lekt4904.webp)
 Kuv.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt4904))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt4904))
 :::
 ⟪छन्न⟫ n.: peitto, piilopaikka
 
@@ -270,7 +270,7 @@ Kuv.: ⟪वेषः⟫
 ![](/images/lekt4909.webp)
 Kuvaus.: ⟪पञ्जरम्⟫
 Ennustaja papukaijan kanssa häkissä: papukaija vetää lappuja, joilla on kohtalo kirjoitettuna Mysore
-(Kuv lähde: [Details](/fi/licenses#lekt4909))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4909))
 :::
 ⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: alin taso [Dalit](http://de.wikipedia.org/wiki/Dalit)
 
@@ -297,7 +297,7 @@ Gerundiv ⟪ध्येय⟫
 ![](/images/lekt4905.webp)
 Kuv.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
-(Kuvälähde: [Details](/fi/licenses#lekt4905))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt4905))
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
@@ -369,7 +369,7 @@ Kuninkaan ⟪शूद्रक⟩ kysymykset ⟪विदिशा⟫ paratiisi
 ![](/images/lekt4908.webp)
 Kuva: ⟪शुकः⟫
 Lokkipapukaija = Psittacula cyanocephala
-(Kuv lähde: [Details](/fi/licenses#lekt4908))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4908))
 :::
 
 ::: deleteme-box

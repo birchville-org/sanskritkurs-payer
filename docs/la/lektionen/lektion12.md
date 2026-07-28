@@ -71,7 +71,7 @@ e.g.
 - **gata** = ⟪गत⟫ = „gone“ (active); but also: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „a gone path“ (passive)
 - **āpta** = ⟪आप्त⟫ = „reached“ (passive), „having reached“ (active)
 
-## 12.3. Bildung des PPP
+## 12.3. Formatio PPP
 
 ::: grammar-box
 Sequuntur haec formandi rationes (ad quamlibet radicem suum PPP discendum est!):

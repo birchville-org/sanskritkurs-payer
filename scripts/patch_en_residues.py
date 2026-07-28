@@ -69,21 +69,18 @@ def scan_en_residues(content: str) -> list:
     return flagged
 
 def sonnet_patch_en_residues(content: str, flagged_lines: list, target_lang: str) -> str:
-    api_key = os.environ.get('OPENROUTER_API_KEY', '')
-    if not api_key:
-        sys.stdout.write("  [!] SONNET FALLBACK: OPENROUTER_API_KEY not set — skipping patch.\n")
-        sys.stdout.flush()
-        return content
-
+    api_key = 'local'
     lang_name = LANG_NAMES.get(target_lang, target_lang)
     lines = content.split('\n')
     flagged_indices = {i for i, _ in flagged_lines}
 
+    # Build a context window: flagged lines ± 2 lines of context
     context_indices = set()
     for i in flagged_indices:
         for j in range(max(0, i - 2), min(len(lines), i + 3)):
             context_indices.add(j)
 
+    # Format the snippet with line markers
     snippet_lines = []
     for i in sorted(context_indices):
         marker = ">>" if i in flagged_indices else "  "
@@ -92,9 +89,9 @@ def sonnet_patch_en_residues(content: str, flagged_lines: list, target_lang: str
 
     system = (
         f"You are a scholarly translator fixing English residues in a {lang_name} Sanskrit-education text. "
-        "Lines marked with >> contain English words (like 'stem', 'root', 'example', 'case', 'class') that were mistakenly left in English instead of being translated to the target language. "
+        "Lines marked with >> contain English words that were not translated. "
         "Rules: "
-        "(1) Translate ONLY the English words on lines marked >> to their correct grammatical equivalent in the target language. "
+        "(1) Translate ONLY the English words on lines marked >>. "
         "(2) Preserve all Markdown syntax, IAST, Devanāgarī (⟪...⟫), and container syntax exactly. "
         "(3) Return ONLY the corrected lines in the format [LN] corrected_text — one per line. "
         "(4) Do NOT return context lines (without >>). "
@@ -115,7 +112,6 @@ def sonnet_patch_en_residues(content: str, flagged_lines: list, target_lang: str
         'curl', '-s', '-X', 'POST', SONNET_API_URL,
         '-H', 'Content-Type: application/json',
         '-H', f'Authorization: Bearer {api_key}',
-        '-H', 'HTTP-Referer: https://sanskritkurs-payer.ch',
         '-d', json.dumps(data), '--max-time', '120'
     ]
 

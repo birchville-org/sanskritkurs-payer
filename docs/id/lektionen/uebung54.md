@@ -19,7 +19,7 @@ last_reconstructed: 2026-05-15
 | ⟪४⟫. | **⟪बभूव⟫** | saya / dia / mereka adalah / pernah ada | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
 | ⟪५⟫. | **⟪दधति⟫** | mereka menempatkan | **⟪अधुः⟫** |
 | ⟪६⟫. | **⟪ऐम⟫** | kami pergi | **⟪अगाम⟫** |
-| ⟪७⟫. | **⟪पपिथ⟫** | kamu telah minum / melindungi | **⟪अपाः⟫** (ke *⟪पा⟫* "untuk minum") |
+| ⟪७⟫. | **⟪पपिथ⟫** | kamu telah minum / melindungi | **⟪अपाः⟫** (ke *:sig[⟪पा⟫]* "untuk minum") |
 | ⟪८⟫. | **⟪तिष्ठति⟫** | dia berdiri | **⟪अस्थात्⟫** |
 | ⟪९⟫. | **⟪इयेथ⟫** | kamu telah pergi | **⟪अगाः⟫** |
 | ⟪१०⟫. | **⟪पप⟫** | kamu telah minum | **⟪अपात⟫** |

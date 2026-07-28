@@ -29,39 +29,39 @@ Dalam kalimat nominal, subjek berada dalam Nominatif (kasus pertama = **pratham�
 Dalam Sanskrit terdapat:
 
 - **tiga Numeri** (bentuk bilangan) = **vacana** n. -- ⟪वचन⟫
-  - Singular (tunggal) = **ekavacana** n. -- ⟪एकवचन⟫
+  - Tunggal (tunggal) = **ekavacana** n. -- ⟪एकवचन⟫
   - Dual (duaan) = **dvivacana** n. -- ⟪द्विवचन⟫
-  - Plural (jamak) = **bahuvacana** n. -- ⟪बहुवचन⟫
+  - Jamak (jamak) = **bahuvacana** n. -- ⟪बहुवचन⟫
 - **tiga Genera** (jenis kelamin tata bahasa) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
-  - Maskulinum (laki-laki) = **puṃs** m. -- ⟪पुंस्⟫
-  - Femininum (perempuan) = **strī** f. -- ⟪स्त्री⟫
-  - Neutrum (netral) = **napuṃsaka** n. -- ⟪नपुंसक⟫
+  - Maskulin (laki-laki) = **puṃs** m. -- ⟪पुंस्⟫
+  - Feminin (perempuan) = **strī** f. -- ⟪स्त्री⟫
+  - Netral (netral) = **napuṃsaka** n. -- ⟪नपुंसक⟫
 - **delapan Kasus** (kasus) = **sup** -- ⟪सुप्⟫ (= akhiran kasus)
 
 Untuk deklinasi, akhiran kasus (**sup** = ⟪सुप्⟫) ditambahkan pada apa yang disebut **stam nomina** (bentuk nomina tanpa akhiran kasus).
 
-Contoh: **devas** = ⟪देवस्⟫ (Nominatif Singular Maskulinum) "dewa itu/seorang dewa" = **deva-** -- ⟪देव⟫- (stam nomina) + **-s** -- -⟪स्⟫ (akhiran kasus).
+Contoh: **devas** = ⟪देवस्⟫ (Nominatif Tunggal Maskulin) "dewa itu/seorang dewa" = **deva-** -- ⟪देव⟫- (stam nomina) + **-s** -- -⟪स्⟫ (akhiran kasus).
 
 Dalam kamus Sanskrit, nomina dicantumkan dalam **stam nomina**:
 - **deva** m. -- ⟪देव⟫ m. (maskulinum)
 - **vacana** n. -- ⟪वचन⟫ n. (neutrum)
 - **vyakti** f. -- ⟪व्यक्ति⟫ f. (femininum)
 
-## 2.3. Nominativus Singular
+## 2.3. Nominatifus Tunggal
 
-**Nominatif Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
+**Nominatif Tunggal = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
 ::: grammar-box
-**Nominatif Singular berakhir dengan -s = -⟪स्⟫ atau bebas akhiran.**
+**Nominatif Tunggal berakhir dengan -s = -⟪स्⟫ atau bebas akhiran.**
 :::
-### 2.3.1. Nominativ Singular auf -s
+### 2.3.1. Nominatif Tunggal auf -s
 
-Stam nomina berikut, yang berakhir dengan vokal, membentuk Nominatif Singular dengan **-s**:
+Stam nomina berikut, yang berakhir dengan vokal, membentuk Nominatif Tunggal dengan **-s**:
 
 ::: grammar-box
-**Maskulinum dengan akhiran -a:** mis. deva m. = ⟪देव⟫ "dewa" -- Nom. sg.: devas = ⟪देवस्⟫
-**Maskulinum dengan akhiran -i:** mis. kavi m. = ⟪कवि⟫ "penyair" -- Nom. sg.: kavis = ⟪कविस्⟫
-**Maskulinum dengan akhiran -u:** mis. guru m. = ⟪गुरु⟫ "guru" -- Nom. sg.: gurus = ⟪गुरुस्⟫
+**Maskulin dengan akhiran -a:** mis. deva m. = ⟪देव⟫ "dewa" -- Nom. sg.: devas = ⟪देवस्⟫
+**Maskulin dengan akhiran -i:** mis. kavi m. = ⟪कवि⟫ "penyair" -- Nom. sg.: kavis = ⟪कविस्⟫
+**Maskulin dengan akhiran -u:** mis. guru m. = ⟪गुरु⟫ "guru" -- Nom. sg.: gurus = ⟪गुरुस्⟫
 :::
 
 ## 2.4. Sandhi -- ⟪सन्धि⟫

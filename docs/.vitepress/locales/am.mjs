@@ -1,5 +1,5 @@
 export const am = {
-  label: 'AM - አማርኛ',
+  label: '🇪🇹 AM - አማርኛ',
   lang: 'am-ET',
   link: '/am/',
   title: 'የሳንስክሪት ትምህርት',

@@ -117,21 +117,21 @@ PPP ⟪पूजित⟫ <!-- TODO: Fallback translation -->
 
 1\. Definition von ⟪अविद्या⟫ : <!-- TODO: Fallback translation -->
 
-⟪अनित्याशुचिदुःखा⟫*⟪नात्मसु⟫* ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
+⟪अनित्याशुचिदुःखा⟫*:sig[⟪नात्मसु⟫]* ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
 
 Erklärung: ⟪आत्मसु⟫ = Lok. sg. zu ⟪आत्मन्⟫ m. "Seele ; das Absolute, insofern es im Individuum verwirklicht wird" <!-- TODO: Fallback translation -->
 
 2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. über den rechten Gebrauch des ⟪दण्ड⟫ : <!-- TODO: Fallback translation -->
 
-⟪तीक्ष्णदण्डो⟫ ⟪भूताना⟫*⟪मुद्वेजनीयो⟫* ⟪भवति⟫ ⟪।८।⟫
+⟪तीक्ष्णदण्डो⟫ ⟪भूताना⟫*:sig[⟪मुद्वेजनीयो⟫]* ⟪भवति⟫ ⟪।८।⟫
 
 ⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।९।⟫
 
 ⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।१०।⟫
 
-⟪सु⟫*⟪विज्ञात⟫*⟪प्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामै⟫*⟪र्योजयति⟫* ⟪।११।⟫
+⟪सु⟫*:sig[⟪विज्ञात⟫]*⟪प्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामै⟫*:sig[⟪र्योजयति⟫]* ⟪।११।⟫
 
-⟪दुष्प्रणीतः⟫ *⟪कामक्रोधाभ्याम⟫*⟪वज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, *⟪किमङ्ग⟫* ⟪पुनर्गृहस्थान्⟫ ⟪।१२।⟫
+⟪दुष्प्रणीतः⟫ *:sig[⟪कामक्रोधाभ्याम⟫]*⟪वज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, *:sig[⟪किमङ्ग⟫]* ⟪पुनर्गृहस्थान्⟫ ⟪।१२।⟫
 
 ⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।१३।⟫
 
@@ -154,13 +154,13 @@ Erklärungen: <!-- TODO: Fallback translation -->
 
 ⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "etwas (jemand), vor dem man schaudern muss" <!-- TODO: Fallback translation -->
 
-⟪।११।⟫ ⟪विज्ञात⟫ ⟪३⟫ "erkannt" ; n.: Erkennen <!-- TODO: Fallback translation -->
+⟪।११।⟫ :sig[⟪विज्ञात⟫] ⟪३⟫ "erkannt" ; n.: Erkennen <!-- TODO: Fallback translation -->
 
 ⟪।११।⟫ ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫) "anschirren, verbinden mit, vereinigen mit" <!-- TODO: Fallback translation -->
 
 ⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva) <!-- TODO: Fallback translation -->
 
-⟪।१२।⟫ ⟪किमङ्ग⟫ "um wieviel mehr" <!-- TODO: Fallback translation -->
+⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "um wieviel mehr" <!-- TODO: Fallback translation -->
 
 ⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. mask. zu ⟪बलीयस्⟫ ⟪३⟫ "stärker" <!-- TODO: Fallback translation -->
 

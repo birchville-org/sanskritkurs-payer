@@ -34,11 +34,12 @@ Paradigma:
 ### 61.1.2. Nomi radicali femminili in -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Vor vokalischer Desinenza wird -ī durch -iy ersetzt.**
 
-**Oltre alle formazioni con le desinenze casuali regolari, nel Dat.Ab.Gen.Loc.sg. e Gen.pl. si trovano anche formazioni secondo il modello di femminili polisillabici in -ī (⟪देवी⟫).**
+**Oltre alle forme con le desinenze regolari casuali, nel Dat.Ab.Gen.Loc.sg. e Gen.pl. si trovano anche forme secondo il modello dei femminili polisillabici in -ī (⟪देवी⟫).**
 Paradigma:
 :::
+Paradigma:
 
 ⟪धी⟫ f. "Pensiero"
 
@@ -78,7 +79,7 @@ Fig.: ⟪स्त्रियः⟫
 
 **La declinazione è identica nel maschile e nel femminile.**
 
-**Irregolarità: i composti in -⟪नी⟫ "che guida" hanno nel locativo singolare la desinenza -ām (come ⟪देवी⟫):**
+**Irregolarità: i composti in -:sig[⟪नी⟫] "che guida" hanno nel locativo singolare la desinenza -ām (come ⟪देवी⟫):**
 ad esempio, ⟪ग्रामणी⟫ "che guida una schiera/un villaggio": loc.sg.m.f. ⟪ग्रामण्याम्⟫
 :::
 Paradigmi:
@@ -112,7 +113,7 @@ Paradigmi:
 ::: grammar-box
 **Stema davanti a vocale: -uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī**
+**Deklination analog zu den femininen Radicenomina auf -ī**
 :::
 Paradigma:
 
@@ -158,7 +159,7 @@ Fig.: ⟪रथ्याप्वः⟫
 ### 61.1.6. Declinazione dei femminili polisillabici in -ū
 
 ::: grammar-box
-**I femminili polisillabici in -ū vengono declinati analogamente ai temi polisillabici in -ī (⟪देवी⟫), ma terminano al Nominativo singolare in -s.**
+**I femminili polisillabici in -ū vengono declinati analogamente ai temi polisillabici in -ī (⟪देवी⟫), ma terminano al Nominativooo singolare in -s.**
 :::
 Paradigma:
 
@@ -219,7 +220,7 @@ Paradigma:
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | *⟪दाताहे⟫* | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | *:sig[⟪दाताहे⟫]* | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
@@ -304,8 +305,8 @@ ad es. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 
 ::: indent
 ad es.
-⟪पत्⟫ 1P: ⟪प⟫***⟪नी⟫***⟪पत्य⟫-
-⟪वृत्⟫ 1Ā: ⟪व⟫***⟪री⟫***⟪वृत्य⟫-
+⟪पत्⟫ 1P: ⟪प⟫**:sig[⟪नी⟫]**⟪पत्य⟫-
+⟪वृत्⟫ 1Ā: ⟪व⟫**:sig[⟪री⟫]**⟪वृत्य⟫-
 :::
 ::: grammar-box
 **Coniugazione:**
@@ -315,8 +316,8 @@ ad es.
     *   **Passivo presente: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
     *   **Perfetto: perifrastico: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
     *   **Aoristo: aoristo iṣ (aoristo 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-    *   **Futuro: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-    *   **Futuro perifrastico: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+    *   **Futurooo: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+    *   **Futurooo perifrastico: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
 ### 61.3.2. Parasmaipada-Intensivum
 
@@ -349,7 +350,7 @@ Imperfetto (⟪लङ्⟫):
 | 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
-Imperativo (⟪लोट्⟫):
+Imperativooo (⟪लोट्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -358,7 +359,7 @@ Imperativo (⟪लोट्⟫):
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
 :::
-Optativo (⟪विधिलिङ्⟫):
+Ottativoo (⟪विधिलिङ्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -604,7 +605,7 @@ Paradigma:
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ |
-| **3\. ⟪प्रथमः⟫** | *⟪बुध्यात्⟫* | ⟪बुध्यास्ताम्⟫ | *⟪बुध्यासुर्⟫* | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
+| **3\. ⟪प्रथमः⟫** | *:sig[⟪बुध्यात्⟫]* | ⟪बुध्यास्ताम्⟫ | *:sig[⟪बुध्यासुर्⟫]* | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
 :::
 ::: media
 ![](/images/lekt6114.webp)
@@ -718,7 +719,7 @@ Femminile (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Licenza nell'oceano della letteratura sanscrita: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+## 61.9. Licenza nell'oceano della letteratura sanscrita: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
 
 Dopo il completamento del corso di sanscrito, inizia davvero la vera "nuotata" nell'oceano della letteratura sanscrita. Poiché questo oceano è pieno di ostacoli, è appropriato iniziare questa nuova fase della vita con un'invocazione a Gaṇeśa:
 
@@ -734,7 +735,7 @@ Halebidu (ಹಳೆಬೀಡು), XII/XIII sec. d.C.
 | --- | --- |
 | ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
-***ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫*** di Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
+***ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]*** di Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
 Compositore e poeta: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
@@ -751,7 +752,7 @@ Tāla: Rūpaka: o |4
 Fig.: La melodia, riferita a c, può essere trasposta a seconda del registro vocale.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ si trova all'inizio dell'insegnamento della musica kannarese. Vedi il video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Accesso il 2009-03-05 
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] si trova all'inizio dell'insegnamento della musica kannarese. Vedi il video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Accesso il 2009-03-05 
 
 Dopo aver appreso le basi del sanscrito, si spera che siate come i bambini piccoli nel video: a volte goffi, ma desiderosi di imparare e di conoscenza, e con gioia nel fare le cose. Mantenete fino alla fine della vostra vita "una mente da principiante".
 
@@ -760,7 +761,7 @@ Questo vi augura il vostro Alois Payer
 
 Ofterdingen, 2009-03-09
 
-*⟪ॐ⟫*
+*:sig[⟪ॐ⟫]*
 
 FINE DEL CORSO DI SANSKRITO
 :::

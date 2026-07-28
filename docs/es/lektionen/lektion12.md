@@ -29,7 +29,7 @@ Una forma de formar oraciones pasivas en pasado es la construcción con el llama
 ### 12.1.1. Esquema para verbos transitivos
 
 ::: grammar-box
-**Agente (kartṛ) en Instrumental (tṛtīyā) -- Objeto directo (karman) en Nominativo (prathamā) -- Participio de Perfecto Pasivo**
+**Agente (kartṛ) en Instrumental (tṛtīyā) -- Objeto directo (karman) en Nominativooo (prathamā) -- Participio de Perfecto Pasivo**
 
 En este caso, el PPP concuerda con el objeto en número, caso y género.
 
@@ -55,7 +55,7 @@ Ejemplo:
 ### 12.1.3. Esquema II para verbos intransitivos y verbos de movimiento
 
 ::: grammar-box
-**Agente (kartṛ) en Instrumental (tṛtīyā) -- PPP en Nominativo Singular Neutro**
+**Agente (kartṛ) en Instrumental (tṛtīyā) -- PPP en Nominativooo Singular Neutro**
 
 Ejemplo:
 > **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(Por el kṣatriya se fue (a la ciudad)) = El kṣatriya se fue (a la ciudad).“

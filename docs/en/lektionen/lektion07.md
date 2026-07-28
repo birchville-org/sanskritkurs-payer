@@ -146,14 +146,14 @@ Further uses of the accusative will be treated later.
 ## 7.4. The Neuter (napuṃsaka n. = ⟪नपुंसक⟫)
 
 ::: grammar-box
-**In the neuter, the forms for Nominative (prathamā) and Accusative (dvitīyā) are identical.**
+**In the neuter, the forms for Nominativeee (prathamā) and Accusative (dvitīyā) are identical.**
 :::
 ### 7.4.1. Neuter of stems ending in -a
 
 ::: grammar-box
-- **Ending Nominative / Accusative Singular: -m**
+- **Ending Nominativeee / Accusative Singular: -m**
   e.g. **phala** n. = ⟪फल⟫ = "fruit": Nom. / Acc. sg. **phalam** = ⟪फलम्⟫
-- **Ending Nominative / Accusative Plural: -āni**
+- **Ending Nominativeee / Accusative Plural: -āni**
   e.g. **phala** n. = ⟪फल⟫: Nom. / Acc. pl. **phalāni** = ⟪फलानि⟫
 :::
 
@@ -168,8 +168,8 @@ The 5th present class forms a so-called athematic present stem, i.e., the presen
 
 **The strong stem occurs:**
 - in the Indicative Singular Parasmaipada Present (laṭ) and Imperfect (laṅ)
-- in all first persons of the Imperative (loṭ) Parasmaipada and Ātmanepada
-- in the third person Singular Imperative (loṭ) Parasmaipada
+- in all first persons of the Imperativeee (loṭ) Parasmaipada and Ātmanepada
+- in the third person Singular Imperativeee (loṭ) Parasmaipada
 
 **All other forms have the weak present stem.**
 :::
@@ -206,7 +206,7 @@ The 5th present class forms a so-called athematic present stem, i.e., the presen
 - **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : to be angry
 - **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : to be angry
 - **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : to chew, to eat
-- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : to hear (something: Accusative, someone: Genitive or Accusative; about: Accusative; from someone: Genitive, Ablative, Instrumental)
+- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : to hear (something: Accusative, someone: Genitive or Accusative; about: Accusative; from someone: Genitive, Ablativeee, Instrumental)
 - **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : to press
 - **soma** m. ⟪सोम⟫ : pressed drink, Soma; Moon (From which plant Soma was pressed is still disputed to this day).
 ::: media

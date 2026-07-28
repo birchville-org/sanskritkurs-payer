@@ -241,15 +241,15 @@ Ejemplos:
 :::
 Mientras que el Pasivo de la raíz original se forma generalmente de la raíz en grado cero, el Pasivo del Causativo se reconoce generalmente por el hecho de que se forma de la raíz en grado pleno o largo.
 
-## 28.5. Formación del Futuro (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) del Causativo
+## 28.5. Formación del Futurooo (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) del Causativo
 
 ::: grammar-box
-**El Futuro del Causativo se forma a partir de la raíz causativa, cayendo la -a final del sufijo causativo:**
+**El Futurooo del Causativo se forma a partir de la raíz causativa, cayendo la -a final del sufijo causativo:**
 
 **-ay-iṣya-**
 
 Ejemplo:
-**budh** Futuro-Causativo: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "él/ella/ello despertará"
+**budh** Futurooo-Causativo: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "él/ella/ello despertará"
 :::
 
 ## 28.6. Formación del PPP (⟪क्त⟫) del Causativo
@@ -304,7 +304,7 @@ Ejemplo:
 
 Ejemplos:
 1.  Raíz en grado largo + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "amar"
-2.  Raíz en grado pleno + -aya- : **cur** 10U **corayati** "robar"; Futuro: **corayiṣyate**; Pasivo: **coryate**
+2.  Raíz en grado pleno + -aya- : **cur** 10U **corayati** "robar"; Futurooo: **corayiṣyate**; Pasivo: **coryate**
 :::
 ::: grammar-box
 **Las formas del Causativo de los verbos de la 10. clase de presente son idénticas a las formas del verbo simple. La decisión sobre si se trata de un causativo solo es posible a partir del significado o, a veces, de la construcción.**

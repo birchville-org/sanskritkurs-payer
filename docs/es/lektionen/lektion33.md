@@ -32,10 +32,10 @@ Ejemplos:
 * 3.sg.P.Ind.Pres. **⟪ददाति⟫**
 
 **⟪पॄ⟫** 3 "llenar"
-* 3.sg.P.Ind.Pres. ***⟪पि⟫***⟪पर्ति⟫
+* 3.sg.P.Ind.Pres. **:sig[⟪पि⟫]**⟪पर्ति⟫
 
 **⟪मा⟫** 3Ā "medir"
-* 3.sg.Ā.Ind.Pres. ***⟪मि⟫***⟪मीते⟫
+* 3.sg.Ā.Ind.Pres. **:sig[⟪मि⟫]**⟪मीते⟫
 :::
 ::: grammar-box
 **2. Un consonante inicial aspirada de una raíz se reduplica mediante la correspondiente consonante no aspirada.**
@@ -43,11 +43,11 @@ Ejemplos:
 Ejemplos:
 
 ::: indent
-**⟪धा⟫** 3 "colocar"
-* 3.sg.P.Ind.Pres. **⟪दधाति⟫**
+**:sig[⟪धा⟫]** 3 "colocar"
+* 3.sg.P.Ind.Pres. **:sig[⟪दधाति⟫]**
 
 **⟪भी⟫** 3 "temer"
-* 3.sg.P.Ind.Pres. ***⟪बि⟫***⟪भेति⟫
+* 3.sg.P.Ind.Pres. **:sig[⟪बि⟫]**⟪भेति⟫
 :::
 ::: grammar-box
 **3. Una gutural se reduplica mediante la correspondiente palatal no aspirada:**
@@ -94,7 +94,7 @@ Ejemplo:
 ::: grammar-box
 * **La vocal de reduplicación regular es -i-**
 * **Las raíces que contienen -u se reduplican con -u-**
-* **las raíces ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ con -a-**
+* **las raíces ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ con -a-**
 :::
 Ejemplos:
 
@@ -124,11 +124,11 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 * **Grado reducido**
   * **antes de consonante: -i-**  
-    p. ej. **⟪धा⟫⟩ PPP: **⟪हित⟫** (hi-ta)
+    p. ej. **:sig[⟪धा⟫]⟩ PPP: **:sig[⟪हित⟫]** (hi-ta)
   * **antes de vocal: Ø**  
-    p. ej. **⟪धा⟫** 3.pl.P.Ind.Prés. **⟪दधति⟫** (dadh-ati)
+    p. ej. **:sig[⟪धा⟫]** 3.pl.P.Ind.Prés. **⟪दधति⟫** (dadh-ati)
 * **Grado reforzado: -ā-**  
-  p. ej. **⟪धा⟫** 3.sg.P.Ind.Prés. **⟪दधाति⟫**
+  p. ej. **:sig[⟪धा⟫]** 3.sg.P.Ind.Prés. **:sig[⟪दधाति⟫]**
 :::
 Aquí pertenecen, p. ej., también:
 
@@ -148,7 +148,7 @@ Aquí pertenecen, p. ej., también:
 ## 33.4. Raíces en -ā de la tercera clase de presente
 
 ::: grammar-box
-**Las raíces en -ā (excepto ⟪दा⟫ y ⟪धा⟫) tienen en la forma débil habitualmente la terminación -ī-** (ver al respecto Thumb-Hauschild Vol. 1,1 p. 271. Probablemente la serie de ablaut B mencionada anteriormente actuó como modelo, aunque estas raíces de otro modo siguen la serie A para el ablaut), **ante terminaciones vocálicas, la vocal de la raíz desaparece completamente (ver serie de ablaut A).**
+**Las raíces en -ā (excepto ⟪दा⟫ y :sig[⟪धा⟫]) tienen en la forma débil habitualmente la terminación -ī-** (ver al respecto Thumb-Hauschild Vol. 1,1 p. 271. Probablemente la serie de ablaut B mencionada anteriormente actuó como modelo, aunque estas raíces de otro modo siguen la serie A para el ablaut), **ante terminaciones vocálicas, la vocal de la raíz desaparece completamente (ver serie de ablaut A).**
 :::
 Ejemplos:
 
@@ -170,15 +170,15 @@ Ejemplos:
 | **Imperfecto** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativo** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Raíz ⟪हा⟫ hat vor dem Optativo-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Las raíces **⟪दा⟫** y **⟪धा⟫**
+### 33.4.1. Las raíces **⟪दा⟫** y **:sig[⟪धा⟫]**
 
 ::: grammar-box
-**Las raíces ⟪दा⟫ y ⟪धा⟫ se reduplican con la vocal -a- y pierden la vocal de la raíz en la forma débil.**
+**Las raíces ⟪दा⟫ y :sig[⟪धा⟫] se reduplican con la vocal -a- y pierden la vocal de la raíz en la forma débil.**
 
-**¡Tenga en cuenta la ley de la disimilación de la aspiración en ⟪धा⟫!**
+**¡Tenga en cuenta la ley de la disimilación de la aspiración en :sig[⟪धा⟫]!**
 :::
 ::: grammar-box
-**⟪धा⟫** 3U "colocar, establecer, asignar"
+**:sig[⟪धा⟫]** 3U "colocar, establecer, asignar"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -186,7 +186,7 @@ Ejemplos:
 | **Imperfecto** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativo** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Las formas de **⟪दा⟫** se obtienen reemplazando **dh** por **d** en el paradigma de **⟪धा⟫**. Es decir:
+Las formas de **⟪दा⟫** se obtienen reemplazando **dh** por **d** en el paradigma de **:sig[⟪धा⟫]**. Es decir:
 
 ::: grammar-box
 **⟪दा⟫** 3U "dar"
@@ -248,16 +248,16 @@ Fig.: ⟪दानम्⟫
 Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt3307))
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: poner, establecer, asignar
+**:sig[⟪धा⟫]** 3U **:sig[⟪दधाति⟫]**: poner, establecer, asignar
 
 ::: indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Kaus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫***
+**Fut.** **:sig[⟪धास्यति⟫]**  
+**Pass.** **:sig[⟪धीयते⟫]**  
+**Kaus.** **:sig[⟪धापयति⟫]**  
+**PPP** **:sig[⟪हित⟫]** (!!)  
+**Inf.** **:sig[⟪धातुम्⟫]**
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: dirigir toda la atención en algo, reunirse
+**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: dirigir toda la atención en algo, reunirse
 
 ::: indent
 de ello:
@@ -273,10 +273,10 @@ Fig.: ⟪समाधि⟫
 
 ::: indent
 Recordar:
-3.pl.P ***⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪अपिपर्⟫*** (de: \*apipart)  
-3.pl.Impf.P ***⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪पिपूर्यात्⟫***
+3.pl.P **:sig[⟪पिपुरति⟫]**  
+3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (de: \*apipart)  
+3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  

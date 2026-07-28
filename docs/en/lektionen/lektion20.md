@@ -30,7 +30,7 @@ Jodhpur = ⟪जोधपुर⟫
 
 **Schema for resolving a Bahuvrīhi:**
 
-**1. First member usually in the Nominative (⟪प्रथमा⟫) Singular, Dual, or Plural -- 2. Second member in the Nominative Singular, Dual, or Plural -- Relative pronoun in a case other than the Nominative (usually Genitive - ⟪षष्ठी⟫) and in gender and number of the total Bahuvrīhi -- Demonstrative pronoun in number, case, and gender of the total Bahuvrīhi.**
+**1. First member usually in the Nominativeee (⟪प्रथमा⟫) Singular, Dual, or Plural -- 2. Second member in the Nominativeee Singular, Dual, or Plural -- Relative pronoun in a case other than the Nominativeee (usually Genitive - ⟪षष्ठी⟫) and in gender and number of the total Bahuvrīhi -- Demonstrative pronoun in number, case, and gender of the total Bahuvrīhi.**
 
 :::
 Examples:

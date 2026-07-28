@@ -57,7 +57,7 @@ Ejemplo:
 *   Indicativo Presente
     *   3.sg.P. **⟪भनक्ति⟫** (bha-na + j + ti)
     *   3.pl.P. **⟪भञ्जन्ति⟫** (bha + n + j-anti)
-*   Futuro: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
+*   Futurooo: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
 *   Pasivo: **⟪भज्यते⟫** (ya sea de la raíz original **⟪भज्⟫** o de *bhñj-ya-te)
 *   PPP: **⟪भग्न⟫** (posiblemente de *bhñj + na)
 :::
@@ -202,7 +202,7 @@ Rāhula, hijo de Buda, Laos.
 :::
 ⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
-B) Forme para las siguientes raíces de la 7. clase todas las formas de tercera persona singular y plural, P y Ā, del Indicativo y Optativo Presente:
+B) Forme para las siguientes raíces de la 7. clase todas las formas de tercera persona singular y plural, P y Ā, del Indicativo y Optativooo Presente:
 
 ⟪१⟫. ⟪छिद्⟫
 

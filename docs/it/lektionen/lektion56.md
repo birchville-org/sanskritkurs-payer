@@ -54,22 +54,22 @@ Sillaba tematica:
 **Il vocale di questa cosiddetta sillaba tematica si determina nell’Aoristo secondo le seguenti regole:**
 
 *   **\-ā- davanti a consonante semplice viene sostituito da -a-:**  
-    ⟪पॄ⟫ 3P: Caus. ***⟪पार⟫***⟪यति⟫, Aor. ⟪अपि⟫***⟪पर⟫***⟪त्⟫  
-    ⟪द्रु⟫ 1P: Caus. ***⟪द्राव⟫***⟪यति⟫, Aor. ⟪अदु⟫***⟪द्रव⟫***⟪त्⟫ / ⟪अदि⟫***⟪द्रव⟫***⟪त्⟫  
-    ⟪नी⟫ 1U: Caus.  ***⟪नाय⟫***⟪यति⟫, Aor. ⟪अनी⟫***⟪नय⟫***⟪त्⟫  
-    ⟪ज्ञा⟫ 9U: Caus. ***⟪ज्ञाप⟫***⟪यति⟫, Aor. ⟪अजि⟫***⟪ज्ञप⟫***⟪त्⟫  
+    ⟪पॄ⟫ 3P: Caus. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫  
+    ⟪द्रु⟫ 1P: Caus. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫  
+    :sig[⟪नी⟫] 1U: Caus.  **:sig[⟪नाय⟫]**⟪यति⟫, Aor. ⟪अनी⟫**:sig[⟪नय⟫]**⟪त्⟫  
+    ⟪ज्ञा⟫ 9U: Caus. **:sig[⟪ज्ञाप⟫]**⟪यति⟫, Aor. ⟪अजि⟫**:sig[⟪ज्ञप⟫]**⟪त्⟫  
 
 *   **\-ī-, -e-, -ai- davanti a consonante semplice viene sostituito da -i-:**  
-    ⟪चित्⟫ 1P: Caus. ***⟪चेत⟫***⟪यति⟫, Aor. (Ā) ⟪अची⟫***⟪चित⟫***⟪त⟫  
+    ⟪चित्⟫ 1P: Caus. **:sig[⟪चेत⟫]**⟪यति⟫, Aor. (Ā) ⟪अची⟫**:sig[⟪चित⟫]**⟪त⟫  
 
 *   **\-u-, -o-, -au- davanti a consonante semplice viene sostituito da -u-:**  
-    ⟪चुर्⟫ 10U: ***⟪चोर⟫***⟪यति⟫, Aor. ⟪अचू⟫***⟪चुर⟫***⟪त्⟫
+    ⟪चुर्⟫ 10U: **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
 
 **Per alcune radici le modifiche sopra indicate sono facoltative oppure devono essere evitate:**
 
 *   **ar, ār, īr, al, che precedono immediatamente la consonante finale della sillaba tematica e sostituiscono ṛ, ṝ, ḷ, rimane facoltativamente invariato oppure viene sostituito da ṛ o ḷ:**  
-    ⟪कॢप्⟫  1Ā: Caus. ***⟪कल्प⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कल्प⟫***⟪त्⟫ / ⟪अची⟫***⟪कॢ⟫***⟪पत्⟫  
-    ⟪कृष्⟫ 1P/6U: Caus. ***⟪कर्ष⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कर्ष⟫***⟪त्⟫ / ⟪अची⟫***⟪कृ⟫***⟪षत्⟫
+    ⟪कॢप्⟫  1Ā: Caus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫  
+    ⟪कृष्⟫ 1P/6U: Caus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
 :::
 Vocale della sillaba di reduplicazione:
 
@@ -85,14 +85,14 @@ Dopo aver applicato le regole appena menzionate alla sillaba tematica, devono es
 **Questa vocale di reduplicazione è soggetta alle seguenti modifiche:**
 
 *   **i, u viene sostituita da ī, ū, se la sillaba tematica inizia con una sola consonante ed è metricamente breve:**  
-    ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫***⟪तू⟫***⟪तुदत्⟫  
+    ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫  
+    ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫  
 
 *   **a viene sostituita da ī, se la sillaba tematica è metricamente breve e inizia con una sola consonante. Se la sillaba tematica è metricamente breve e inizia con più di una consonante, la a della sillaba di reduplicazione viene sostituita da i. Se la sillaba tematica è metricamente lunga, la a viene mantenuta:**  
-    ⟪नी⟫ 1U: Caus. ⟪नाययति⟫, Sillaba tematica dell’Aor. ⟪नय्⟫, Aor. ⟪अ⟫***⟪नी⟫***⟪नयत्⟫  
-    ⟪कृ⟫ 8U: Caus. ⟪कारयति⟫, Sillaba tematica dell’Aor. ⟪कर्⟫, Aor. ⟪अ⟫***⟪ची⟫***⟪करत्⟫  
-    ⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, Sillaba tematica dell’Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫***⟪ति⟫***⟪त्यजत्⟫  
-    ⟪भू⟫ 1P: Caus. ⟪भावयति⟫, Sillaba tematica dell’Aor. ⟪भव्⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भवत्⟫
+    :sig[⟪नी⟫] 1U: Caus. ⟪नाययति⟫, Sillaba tematica dell’Aor. ⟪नय्⟫, Aor. ⟪अ⟫**:sig[⟪नी⟫]**⟪नयत्⟫  
+    :sig[⟪कृ⟫] 8U: Caus. ⟪कारयति⟫, Sillaba tematica dell’Aor. ⟪कर्⟫, Aor. ⟪अ⟫**:sig[⟪ची⟫]**⟪करत्⟫  
+    ⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, Sillaba tematica dell’Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫**:sig[⟪ति⟫]**⟪त्यजत्⟫  
+    ⟪भू⟫ 1P: Caus. ⟪भावयति⟫, Sillaba tematica dell’Aor. ⟪भव्⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भवत्⟫
 
 Particolarità di certe radici in Kielhorn, Grammatik § 435c ss.
 
@@ -179,7 +179,7 @@ Entrambi gli esempi hanno un significato proibitivo. L'Ingiuntivo Aoristo è qui
 ::: grammar-box
 **Altre forme di proposizioni proibitive:**
 
-*   **⟪मा⟫ + (⟪स्म⟫) + Imperativo (raro)**  
+*   **⟪मा⟫ + (⟪स्म⟫) + Imperativooo (raro)**  
     **Esempio: ⟪मा⟫ ⟪ते⟫ ⟪सङ्गो⟫ ⟪ऽस्त्वकर्मणि⟫**
 
 *   ⟪अलम्⟫ oppure ⟪कृतम्⟫ = Instrumentale nella proposizione inibitiva  

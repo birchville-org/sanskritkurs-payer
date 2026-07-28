@@ -1,6 +1,6 @@
 
 export const uk = {
-  label: 'UK - Українська',
+  label: '🇺🇦 UK - Українська',
   lang: 'uk-UA',
   link: '/uk/',
   title: 'Курс санскриту',

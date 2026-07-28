@@ -55,7 +55,7 @@ Contoh: lihat di bawah Masa Depan dari  ⟪दुह्⟫ dan  ⟪बुध�
 ::: media
 ![](/images/lekt2601.webp)
 Fig.: Hermann Grassmann
-(Sumber gambar: [Details](/en/licenses#lekt2601))
+(Sumber gambar: [Detail](/en/licenses#lekt2601))
 :::
 ## 26.5. Sandhi Kata untuk -m, -n vor Zischlaut
 

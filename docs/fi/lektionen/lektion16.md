@@ -132,7 +132,7 @@ A) Muunna seuraavat ilmaukset Tatpuruṣaksi ja käännä ne:
 ![](/images/lekt1604.webp)
 Kuva: ⟪पशुमन्तो⟫ ⟪जनाः⟫
 ⟪हरियाणा⟫ / ਹਰਿਆਣਾ
-(Kuv lähde: [Details](/fi/licenses#lekt1604))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1604))
 :::
 ⟪५⟫. ⟪सुखवान्वैश्यायाः⟫ ⟪पुत्रः⟫ ⟪।⟫
 

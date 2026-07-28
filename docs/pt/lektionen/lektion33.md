@@ -43,8 +43,8 @@ Exemplos:
 Exemplos:
 
 ::: indent
-⟪धा⟫ 3 "colocar"
-* 3.sg.P.Ind.Präs. ⟪दधाति⟫
+:sig[⟪धा⟫] 3 "colocar"
+* 3.sg.P.Ind.Präs. :sig[⟪दधाति⟫]
 
 ⟪भी⟫ 3 "temer"
 * 3.sg.P.Ind.Pres. :sig[⟪बि⟫]⟪भेति⟫
@@ -94,7 +94,7 @@ Exemplo:
 ::: grammar-box
 * **A vogal de reduplicação regular é -i-**
 * **Raízes que contêm u reduplicam com -u-**
-* **as raízes ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ com -a-**
+* **as raízes ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ com -a-**
 :::
 Exemplos:
 
@@ -124,11 +124,11 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 * **Grau fraco**
   * **antes de consoante: -i-**
-p.ex. ⟪धा⟫ PPP: ⟪हित⟫ (hi-ta)
+p.ex. :sig[⟪धा⟫] PPP: :sig[⟪हित⟫] (hi-ta)
   * **antes de vogal: Ø**
-p.ex. ⟪धा⟫ 3.pl.P.Ind.Pres. ⟪दधति⟫ (dadh-ati)
+p.ex. :sig[⟪धा⟫] 3.pl.P.Ind.Pres. ⟪दधति⟫ (dadh-ati)
 * **Grau forte: -ā-**
-p.ex. ⟪धा⟫ 3.sg.P.Ind.Pres. ⟪दधाति⟫
+p.ex. :sig[⟪धा⟫] 3.sg.P.Ind.Pres. :sig[⟪दधाति⟫]
 :::
 A este grupo pertence também, p.ex.:
 
@@ -148,7 +148,7 @@ p.ex. ⟪पा⟫ 1: Inf. ⟪पातुम्⟫
 ## 33.4. Raízes em -ā da terceira classe do presente
 
 ::: grammar-box
-**As raízes em -ā (exceto ⟪दा⟫ e ⟪धा⟫) geralmente alternam para -ī- no tema fraco** (veja sobre isso Thumb-Hauschild Vol. 1,1 p. 271. Presumivelmente, a série de apofonia B mencionada acima serviu de modelo, embora estas raízes, de resto, sigam a apofonia da série A), **antes de terminações vocálicas, a vogal da raiz desaparece completamente (veja a série de apofonia A).**
+**As raízes em -ā (exceto ⟪दा⟫ e :sig[⟪धा⟫]) geralmente alternam para -ī- no tema fraco** (veja sobre isso Thumb-Hauschild Vol. 1,1 p. 271. Presumivelmente, a série de apofonia B mencionada acima serviu de modelo, embora estas raízes, de resto, sigam a apofonia da série A), **antes de terminações vocálicas, a vogal da raiz desaparece completamente (veja a série de apofonia A).**
 :::
 Exemplos:
 
@@ -170,15 +170,15 @@ Exemplos:
 | **Imperfeito** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativo** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. As raízes ⟪दा⟫ e ⟪धा⟫
+### 33.4.1. As raízes ⟪दा⟫ e :sig[⟪धा⟫]
 
 ::: grammar-box
-**As raízes ⟪दा⟫ e ⟪धा⟫ reduplicam com a vogal -a- e perdem a vogal da raiz no tema fraco.**
+**As raízes ⟪दा⟫ e :sig[⟪धा⟫] reduplicam com a vogal -a- e perdem a vogal da raiz no tema fraco.**
 
-**Observe em ⟪धा⟫ a lei da dissimilação de aspiração!**
+**Observe em :sig[⟪धा⟫] a lei da dissimilação de aspiração!**
 :::
 ::: grammar-box
-⟪धा⟫ 3U "colocar, estabelecer, atribuir"
+:sig[⟪धा⟫] 3U "colocar, estabelecer, atribuir"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -186,7 +186,7 @@ Exemplos:
 | **Imperfeito** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativo** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-As formas de ⟪दा⟫ são obtidas substituindo-se **dh** por **d** no paradigma de ⟪धा⟫. Assim:
+As formas de ⟪दा⟫ são obtidas substituindo-se **dh** por **d** no paradigma de :sig[⟪धा⟫]. Assim:
 
 ::: grammar-box
 ⟪दा⟫ 3U "dar"
@@ -257,7 +257,7 @@ Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **PPP** :sig[⟪हित⟫] (!!)
 **Inf.** :sig[⟪धातुम्⟫]
 :::
-⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: dirigir toda a atenção para algo, concentrar-se
+:sig[⟪धा⟫] + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: dirigir toda a atenção para algo, concentrar-se
 
 ::: indent
 daí:

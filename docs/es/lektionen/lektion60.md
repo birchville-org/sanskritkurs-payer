@@ -324,13 +324,13 @@ Véanse las reglas para el uso de la vocal de unión -i- en Kielhorn, Gramática
 1.  La raíz está generalmente en grado reducido: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
 
     1.  la -i, -u final se reemplaza por -ī o -ū, si no sigue vocal de unión:  
-        ⟪जि⟫ » ⟪जि⟫***⟪गी⟫***⟪ष⟫- "desear vencer"  
-        ⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- "desear correr"  
+        ⟪जि⟫ » ⟪जि⟫**:sig[⟪गी⟫]**⟪ष⟫- "desear vencer"  
+        ⟪द्रु⟫ » ⟪दु⟫**:sig[⟪द्रू⟫]**⟪ष⟫- "desear correr"  
 
     2.  la -ṛ, -ṝ final se reemplaza por -īr, o por -ūr tras labiales, si no sigue vocal de unión:  
-        ⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- "desear hacer"  
-        ⟪मृ⟫ » ⟪मु⟫***⟪मूर्ष⟫***\- "estar a punto de morir"  
-        ⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "desear llenar"  
+        ⟪कृ⟫ » ⟪चि⟫**:sig[⟪कीर्ष⟫]**\- "desear hacer"  
+        ⟪मृ⟫ » ⟪मु⟫**:sig[⟪मूर्ष⟫]**\- "estar a punto de morir"  
+        ⟪पॄ⟫ » ⟪पु⟫**:sig[⟪पूर्ष⟫]**\- "desear llenar"  
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ y algunas otras raíces en -ā, -e, -o tienen grado reducido Ø:  
         ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
@@ -350,7 +350,7 @@ Véanse las reglas para el uso de la vocal de unión -i- en Kielhorn, Gramática
         1.  obligatorio: raíces de la forma i/u - consonante y (consonante -) ṛ/ḷ - consonante:  
             ⟪इष्⟫ » ⟪एषिषिष⟫- "desear desear"  
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "desear ser apropiado"  
-            ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- "desear sonreír"  
+            ⟪स्मि⟫ » ⟪सि⟫**:sig[⟪स्म⟫]**⟪यिष⟫- "desear sonreír"  
 
         2.  opcional: raíces de la forma consonante - (consonante -) i/u - consonante excepto -v\_  
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "desear centellear"
@@ -406,7 +406,7 @@ Pasivo: ⟪यियक्ष्यते⟫ "se desea sacrificar"
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
-**Futuro: ⟪सेट्⟫**
+**Futurooo: ⟪सेट्⟫**
 
 ::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫

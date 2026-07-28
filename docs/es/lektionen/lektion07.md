@@ -151,9 +151,9 @@ Otros usos del acusativo se tratarán más adelante.
 ### 7.4.1. Neutro de las raíces en -a
 
 ::: grammar-box
-- **Terminación Nominativo / Acusativo Singular: -m**
+- **Terminación Nominativooo / Acusativo Singular: -m**
   p. ej. **phala** n. = ⟪फल⟫ = "fruto": Nom. / Ac. sg. **phalam** = ⟪फलम्⟫
-- **Terminación Nominativo / Acusativo Plural: -āni**
+- **Terminación Nominativooo / Acusativo Plural: -āni**
   p. ej. **phala** n. = ⟪फल⟫: Nom. / Ac. pl. **phalāni** = ⟪फलानि⟫
 :::
 

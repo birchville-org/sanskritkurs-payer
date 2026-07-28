@@ -1,6 +1,6 @@
 ---
 title: Lektion 10
-subtitle: "Den Passivsatz (Instrumentalis des Agens)"
+subtitle: "The Passive Sentence (Instrumental of the Agent)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
 category: "Grammatik"
@@ -21,7 +21,7 @@ status: stable
 
 ::: grammar-box
 **Schema:**
-**(Agent - kartṛ - in the Instrumental (tṛtīyā)) - (direct object - karman - in the Nominative) - passive verbal form**
+**(Agent - kartṛ - in the Instrumental (tṛtīyā)) - (direct object - karman - in the Nominativeee) - passive verbal form**
 
 e.g. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इज्यते⟫ = "A Brahman worships a god with a sacrifice" (literally: "A god is worshipped by a Brahman with a sacrifice.")
 
@@ -30,13 +30,13 @@ This sentence is **completely (!) semantically identical** to the sentence:
 :::
 
 ::: grammar-box
-- In the passive sentence, the agent (**kartṛ**) stands in the **Instrumental** (tṛtīyā f. "third case ending"), and the direct object (**karman** n.) stands in the **Nominative** (prathamā f.).
+- In the passive sentence, the agent (**kartṛ**) stands in the **Instrumental** (tṛtīyā f. "third case ending"), and the direct object (**karman** n.) stands in the **Nominativeee** (prathamā f.).
 - Passive sentences in which the agent is not specified usually have an impersonal meaning ("one"):
   e.g. **ijyate** = ⟪इज्यते⟫ "One sacrifices" (literally: "it is worshipped with a sacrifice").
 :::
 
 ::: grammar-box
-**Even if the corresponding active sentence contained an accusative (dvitīyā) of the goal, this can be put into the Nominative (prathamā) in the passive sentence:**
+**Even if the corresponding active sentence contained an accusative (dvitīyā) of the goal, this can be put into the Nominativeee (prathamā) in the passive sentence:**
 
 The active sentence **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma goes to the village." corresponds to the passive sentences:
 - **rāmeṇa grāmaṃ gamyate** = ⟪रामेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫
@@ -104,7 +104,7 @@ Sanskrit passive constructions are extremely frequent: the passive is, after all
 :::
 
 ::: deleteme-box
-Except in the Nominative and Accusative, the forms of the Neuters in -a, of the interrogative pronoun, and of the demonstrative pronouns are identical to the forms of the corresponding Masculine.
+Except in the Nominativeee and Accusative, the forms of the Neuters in -a, of the interrogative pronoun, and of the demonstrative pronouns are identical to the forms of the corresponding Masculine.
 :::
 
 ### 10.2.1. On the Usage of the Instrumental (tṛtīyā = ⟪तृतीया⟫)
@@ -191,7 +191,7 @@ e.g.
    | **vad** 1 P:br⟪वद्⟫ | \*vd » ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
    | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch » pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
-Der traditionelle indigene Name für diese untergeordnete Bildung in Verben mit **ya** oder **va** ist **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
+Der traditionelle indigene Name für diese untergeordnete Formation in Verben mit **ya** oder **va** ist **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫).
 
 5. **Final -ṛ** after a single consonant is replaced by **-ri-** before the passive suffix **-ya-**:
    * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫

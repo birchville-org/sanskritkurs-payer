@@ -32,10 +32,10 @@ Beispiele: <!-- TODO: Fallback translation -->
 * 3.sg.P.Ind.Präs. **⟪ददाति⟫** <!-- TODO: Fallback translation -->
 
 **⟪पॄ⟫** 3 "füllen" <!-- TODO: Fallback translation -->
-* 3.sg.P.Ind.Präs. ***⟪पि⟫***⟪पर्ति⟫ <!-- TODO: Fallback translation -->
+* 3.sg.P.Ind.Präs. ***:sig[⟪पि⟫]***⟪पर्ति⟫ <!-- TODO: Fallback translation -->
 
 **⟪मा⟫** 3Ā "messen" <!-- TODO: Fallback translation -->
-* 3.sg.Ā.Ind.Präs. ***⟪मि⟫***⟪मीते⟫ <!-- TODO: Fallback translation -->
+* 3.sg.Ā.Ind.Präs. ***:sig[⟪मि⟫]***⟪मीते⟫ <!-- TODO: Fallback translation -->
 :::
 ::: grammar-box
 **2. Ein aspirierter Anfangskonsonant einer Wurzel wird durch den entsprechenden nicht-aspirierten Konsonanten redupliziert.** <!-- TODO: Fallback translation -->
@@ -43,11 +43,11 @@ Beispiele: <!-- TODO: Fallback translation -->
 Beispiele: <!-- TODO: Fallback translation -->
 
 ::: indent
-**⟪धा⟫** 3 "setzen" <!-- TODO: Fallback translation -->
-* 3.sg.P.Ind.Präs. **⟪दधाति⟫** <!-- TODO: Fallback translation -->
+**:sig[⟪धा⟫]** 3 "setzen" <!-- TODO: Fallback translation -->
+* 3.sg.P.Ind.Präs. **:sig[⟪दधाति⟫]** <!-- TODO: Fallback translation -->
 
 **⟪भी⟫** 3 "fürchten" <!-- TODO: Fallback translation -->
-* 3.sg.P.Ind.Präs. ***⟪बि⟫***⟪भेति⟫ <!-- TODO: Fallback translation -->
+* 3.sg.P.Ind.Präs. ***:sig[⟪बि⟫]***⟪भेति⟫ <!-- TODO: Fallback translation -->
 :::
 ::: grammar-box
 **3. Ein Guttural wird durch den ihm entsprechenden nicht-aspirierten Palatal redupliziert:** <!-- TODO: Fallback translation -->
@@ -94,7 +94,7 @@ Beispiel: <!-- TODO: Fallback translation -->
 ::: grammar-box
 * **Der regelmäßige Reduplikationsvokal ist -i-** <!-- TODO: Fallback translation -->
 * **u-haltige Wurzeln reduplizieren mit -u-** <!-- TODO: Fallback translation -->
-* **die Wurzeln ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ mit -a-** <!-- TODO: Fallback translation -->
+* **die Wurzeln ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ mit -a-** <!-- TODO: Fallback translation -->
 :::
 Beispiele: <!-- TODO: Fallback translation -->
 
@@ -124,11 +124,11 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind: <!-- TODO: Fallback tran
 
 * **Tiefstufe** <!-- TODO: Fallback translation -->
   * **vor Konsonant: -i-**   <!-- TODO: Fallback translation -->
-    z.B. **⟪धा⟫** PPP: **⟪हित⟫** (hi-ta) <!-- TODO: Fallback translation -->
+    z.B. **:sig[⟪धा⟫]** PPP: **:sig[⟪हित⟫]** (hi-ta) <!-- TODO: Fallback translation -->
   * **vor Vokal: Ø**   <!-- TODO: Fallback translation -->
-    z.B. **⟪धा⟫** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati) <!-- TODO: Fallback translation -->
+    z.B. **:sig[⟪धा⟫]** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati) <!-- TODO: Fallback translation -->
 * **Hochstufe: -ā-**   <!-- TODO: Fallback translation -->
-  z.B. **⟪धा⟫** 3.sg.P.Ind.Präs. **⟪दधाति⟫** <!-- TODO: Fallback translation -->
+  z.B. **:sig[⟪धा⟫]** 3.sg.P.Ind.Präs. **:sig[⟪दधाति⟫]** <!-- TODO: Fallback translation -->
 :::
 Hierher gehört z.B. auch: <!-- TODO: Fallback translation -->
 
@@ -148,7 +148,7 @@ Hierher gehört z.B. auch: <!-- TODO: Fallback translation -->
 ## 33.4. 第三现在时类中以 -ā 结尾的词根
 
 ::: grammar-box
-**Wurzeln auf -ā (außer ⟪दा⟫ und ⟪धा⟫) lauten im schwachen Stamm gewöhnlich auf -ī- ab** (siehe dazu Thumb-Hauschild Bd. 1,1 S. 271. Vermutlich wirkte dabei die oben  genannte Ablautreihe B als Vorbild, obwohl diese Wurzeln sonst nach Reihe A ablauten), **vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A).** <!-- TODO: Fallback translation -->
+**Wurzeln auf -ā (außer ⟪दा⟫ und :sig[⟪धा⟫]) lauten im schwachen Stamm gewöhnlich auf -ī- ab** (siehe dazu Thumb-Hauschild Bd. 1,1 S. 271. Vermutlich wirkte dabei die oben  genannte Ablautreihe B als Vorbild, obwohl diese Wurzeln sonst nach Reihe A ablauten), **vor vokalischen Endungen verschwindet der Wurzelvokal vollständig (siehe Ablautreihe A).** <!-- TODO: Fallback translation -->
 :::
 Beispiele: <!-- TODO: Fallback translation -->
 
@@ -170,15 +170,15 @@ Beispiele: <!-- TODO: Fallback translation -->
 | **Imperfekt** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Die Wurzeln **⟪दा⟫** und **⟪धा⟫**
+### 33.4.1. Die Wurzeln **⟪दा⟫** und **:sig[⟪धा⟫]**
 
 ::: grammar-box
-**Die Wurzeln ⟪दा⟫ und ⟪धा⟫ reduplizieren mit dem Vokal -a- und verlieren im schwachen Stamm den Wurzelvokal.** <!-- TODO: Fallback translation -->
+**Die Wurzeln ⟪दा⟫ und :sig[⟪धा⟫] reduplizieren mit dem Vokal -a- und verlieren im schwachen Stamm den Wurzelvokal.** <!-- TODO: Fallback translation -->
 
-**Beachten Sie bei ⟪धा⟫ das Hauchdissimilationsgesetz!** <!-- TODO: Fallback translation -->
+**Beachten Sie bei :sig[⟪धा⟫] das Hauchdissimilationsgesetz!** <!-- TODO: Fallback translation -->
 :::
 ::: grammar-box
-**⟪धा⟫** 3U "setzen, festsetzen, zuteilen" <!-- TODO: Fallback translation -->
+**:sig[⟪धा⟫]** 3U "setzen, festsetzen, zuteilen" <!-- TODO: Fallback translation -->
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -186,7 +186,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 | **Imperfekt** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Die Formen von **⟪दा⟫** erhält man, indem man im Paradigma von **⟪धा⟫** **dh** durch **d** ersetzt. Also: <!-- TODO: Fallback translation -->
+Die Formen von **⟪दा⟫** erhält man, indem man im Paradigma von **:sig[⟪धा⟫]** **dh** durch **d** ersetzt. Also: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **⟪दा⟫** 3U "geben" <!-- TODO: Fallback translation -->
@@ -248,16 +248,16 @@ Abb.: ⟪दानम्⟫
 Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Bildquelle: [Details](/licenses#lekt3307)) <!-- TODO: Fallback translation -->
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: setzen, festsetzen, zuteilen <!-- TODO: Fallback translation -->
+***:sig[⟪धा⟫]*** 3U ***:sig[⟪दधाति⟫]***: setzen, festsetzen, zuteilen <!-- TODO: Fallback translation -->
 
 ::: indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Kaus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫*** <!-- TODO: Fallback translation -->
+**Fut.** ***:sig[⟪धास्यति⟫]***  
+**Pass.** ***:sig[⟪धीयते⟫]***  
+**Kaus.** ***:sig[⟪धापयति⟫]***  
+**PPP** ***:sig[⟪हित⟫]*** (!!)  
+**Inf.** ***:sig[⟪धातुम्⟫]*** <!-- TODO: Fallback translation -->
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: die ganze Aufmerksamkeit auf etwas richten, sich sammeln <!-- TODO: Fallback translation -->
+**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: die ganze Aufmerksamkeit auf etwas richten, sich sammeln <!-- TODO: Fallback translation -->
 
 ::: indent
 davon: <!-- TODO: Fallback translation -->
@@ -273,10 +273,10 @@ Abb.: ⟪समाधि⟫
 
 ::: indent
 Merke:
-3.pl.P ***⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪अपिपर्⟫*** (aus: \*apipart)  
-3.pl.Impf.P ***⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪पिपूर्यात्⟫*** <!-- TODO: Fallback translation -->
+3.pl.P ***:sig[⟪पिपुरति⟫]***  
+3.sg.Impf.P ***:sig[⟪अपिपर्⟫]*** (aus: \*apipart)  
+3.pl.Impf.P ***:sig[⟪अपिपरुर्⟫]***  
+3.sg.Opt.P ***:sig[⟪पिपूर्यात्⟫]*** <!-- TODO: Fallback translation -->
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  

@@ -32,7 +32,7 @@ status: stable
 Abb.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
 (Bildquelle: [Details](/licenses#lekt4005)) <!-- TODO: Fallback translation -->
 :::
-## 40.2. Bildung der Verbformen der ersten Person Perfekt (⟪लिट्⟫)
+## 40.2. Bildung der Verbformen der ersten Person Perfekt (⟪लिट्⟫) <!-- TODO: Fallback translation -->
 
 Endungen der ersten Person (⟪तृतीयः⟫) im Perfekt (⟪लिट्⟫) <!-- TODO: Fallback translation -->
 
@@ -352,7 +352,7 @@ Verben, die diesem Typ folgen: <!-- TODO: Fallback translation -->
 
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !) <!-- TODO: Fallback translation -->
 :::
-## 40.3. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 40.3. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫) <!-- TODO: Fallback translation -->
 
 Das periphrastische Perfekt wird gebildet von: <!-- TODO: Fallback translation -->
 

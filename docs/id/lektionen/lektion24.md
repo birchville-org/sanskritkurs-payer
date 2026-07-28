@@ -35,11 +35,11 @@ or:
 ::: media
 ![](/images/lekt2404.webp)
 Fig.: ⟪बाला⟫ ⟪गुरुश्रवणाय⟫ ⟪गताः⟫
-(Sumber gambar: [Details](/en/licenses#lekt2404))
+(Sumber gambar: [Detail](/en/licenses#lekt2404))
 :::
 
 ::: grammar-box
-**2. Dativ (⟪चतुर्थी⟫) juga dapat menunjukkan objek dari infinitif tujuan yang harus disediakan:**
+**2. Datif (⟪चतुर्थी⟫) juga dapat menunjukkan objek dari infinitif tujuan yang harus disediakan:**
 
 Example:
 
@@ -58,7 +58,7 @@ Example:
 ![](/images/lekt2401.webp)
 Fig.: ⟪यज्ञायान्नम्⟫
 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] adalah acara tradisional Hindu yang berlangsung pada perayaan Tahun Baru Hindu di semua mandir BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha]. Ratusan hidangan vegetarian dipersembahkan kepada Bhagwan Swaminarayan [સ્વામિનારાયણ] pada hari ini.
-(Sumber gambar: [Details](/en/licenses#lekt2401))
+(Sumber gambar: [Detail](/en/licenses#lekt2401))
 :::
 
 ::: grammar-box
@@ -92,17 +92,17 @@ Examples:
 ![](/images/lekt2403.webp)
 Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 "Rama (kanan) duduk di atas bahu Hanuman, bertempur melawan raja raksasa Ravana." sekitar tahun 1820
-(Sumber gambar: [Details](/en/licenses#lekt2403))
+(Sumber gambar: [Detail](/en/licenses#lekt2403))
 :::
 Penggunaan lain dari kasus datif nanti.
 
-## 24.2. Bildung  Dativ (⟪चतुर्थी⟫)
+## 24.2. Pembentukan  Datif (⟪चतुर्थी⟫)
 
 ::: grammar-box
-**Akhiran regular untuk Dative adalah:**
+**Akhiran regular untuk Datife adalah:**
 
-* **Singular: -e ; vowel-ending feminine stems: -ai**
-* **Plural: Dative and Ablative ⟪पञ्चमी⟫: -bhyas**
+* **Tunggal: -e ; kata benda feminin berakhiran vokal: -ai**
+* **Jamak: Datife and Ablatife ⟪पञ्चमी⟫: -bhyas**
 :::
 ### 24.2.1. Konsonantische Stämme
 
@@ -138,7 +138,7 @@ Penggunaan lain dari kasus datif nanti.
 | | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
-### 24.2.4. Vokalische Stämme
+### 24.2.4. Stamm Vokal
 
 ::: grammar-box
 **Vowel Stems**
@@ -181,7 +181,7 @@ Example:
 :::
 ## 24.4. Daftar Kata
 
-⟪अलम्⟫ Kata keterangan: cukup, memadai, setara dengan (seseorang, sesuatu); dengan Dativ: cukup untuk, memadai untuk, setara; dengan Instrumental: cukup dengan, berhenti , mis. ⟪अलं⟫ ⟪क्रोधेन⟫ = "cukup dengan kemarahan = hentikan kemarahan!"
+⟪अलम्⟫ Kata keterangan: cukup, memadai, setara dengan (seseorang, sesuatu); dengan Datif: cukup untuk, memadai untuk, setara; dengan Instrumental: cukup dengan, berhenti , mis. ⟪अलं⟫ ⟪क्रोधेन⟫ = "cukup dengan kemarahan = hentikan kemarahan!"
 
 Sama halnya dengan ⟪अलम्⟫ yang menggunakan Instrumental:
 
@@ -195,7 +195,7 @@ Sama halnya dengan ⟪अलम्⟫ yang menggunakan Instrumental:
 ::: media
 ![](/images/lekt2405.webp)
 Fig.: ⟪अलंकारः⟫
-(Sumber gambar: [Details](/en/licenses#lekt2405))
+(Sumber gambar: [Detail](/en/licenses#lekt2405))
 :::
 ⟪हेतु⟫ m.: motif, alasan, sebab; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ dengan Genitif atau sebagai anggota kedua dari majemuk = "untuk kepentingan ..., karena"
 
@@ -205,7 +205,7 @@ Fig.: ⟪अलंकारः⟫
 ![](/images/lekt2406.webp)
 Fig.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Sumber gambar: [Details](/en/licenses#lekt2406))
+(Sumber gambar: [Detail](/en/licenses#lekt2406))
 :::
 ⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : terjadi, terjadi, muncul
 
@@ -222,7 +222,7 @@ From ⟪वृत्⟫:
 
 ⟪आ⟫ Preposisi / Postposisi: sebelum Ablatif atau setelah Akusatif: hingga, sampai; dengan Ablatif: dari sini, dari sana, sejak
 
-⟪अतस्⟫ Indeclinable: from there, then, therefore, hence (Pronominal stem a- "this" + Ablative suffix -tas)
+⟪अतस्⟫ Indeclinable: from there, then, therefore, hence (Pronominal stem a- "this" + Ablatife suffix -tas)
 
 ⟪अध्यक्ष⟫ m.: supervisor, department head; eyewitness
 
@@ -241,7 +241,7 @@ from this
 ![](/images/lekt2407.webp)
 Fig.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, Editor Senior Urusan Luar Negeri Jaringan CNN-IBN 18, India, memoderasi diskusi panel pada KTT Ekonomi India Forum Ekonomi Dunia 2008 di New Delhi."
-(Sumber gambar: [Details](/en/licenses#lekt2407))
+(Sumber gambar: [Detail](/en/licenses#lekt2407))
 :::
 ⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : berguna
 
@@ -260,7 +260,7 @@ from this:
 ![](/images/lekt2408.webp)
 Fig.: ⟪आख्यानम्⟫
 "Pencerita San Francisco, Jeff Byers, berbagi cerita dengan penduduk Chenneri, sebuah desa Irula. Pencerita Jeeva Raghunath menerjemahkan ke dalam bahasa Tamil untuk para penduduk desa."
-(Sumber gambar: [Details](/en/licenses#lekt2408))
+(Sumber gambar: [Detail](/en/licenses#lekt2408))
 :::
 
 ::: indent
@@ -289,7 +289,7 @@ from this:
 ![](/images/lekt2411.webp)
 Fig.: ⟪जयदेवकविर्विष्णुं⟫ ⟪नमस्करोति⟫
 Naskah dari ⟪गीतगोविन्द⟫, tahun 1730 Masehi.
-(Sumber gambar: [Details](/en/licenses#lekt2411))
+(Sumber gambar: [Detail](/en/licenses#lekt2411))
 :::
 ⟪स्वागत⟫ n.: selamat datang (dari su-ā-gata)
 
@@ -299,7 +299,7 @@ Naskah dari ⟪गीतगोविन्द⟫, tahun 1730 Masehi.
 
 ## 24.5. Latihan
 
-A) Bentuklah Dativ Singular dan Dativ/(Ablativ) Plural serta berikan makna dari stem nominal:
+A) Bentuklah Datif Tunggal dan Datif/(Ablatif) Jamak serta berikan makna dari stem nominal:
 
 1.  ⟪श्रव⟫
 2.  ⟪भवन⟫
@@ -355,9 +355,9 @@ B) Translate and resolve the compounds in Sanskrit:
 
 D) Ganti pada kalimat A) 7 konstruksi dengan -⟪अर्थ⟩ dengan Datif yang setara.
 
-E) Replace in sentence A) 6 the Dative construction with an equivalent construction using -⟪अर्थ⟫
+E) Replace in sentence A) 6 the Datife construction with an equivalent construction using -⟪अर्थ⟫
 
-## 24.6. Latihan Tambahan tentang Penggunaan Dativus
+## 24.6. Latihan Tambahan tentang Penggunaan Datifus
 
 Translate into Sanskrit:
 
@@ -374,7 +374,7 @@ Reverence (⟪नमस्⟫) be to Śiva! Reverence be to Śrī Gaṇeśa!
 ::: media
 ![](/images/lekt2409.webp)
 Fig.: ⟪श्रीगणेशाय⟫ ⟪नमः⟫
-(Image source: [Details](/en/licenses#lekt2409))
+(Image source: [Detail](/en/licenses#lekt2409))
 :::
 Farewell! (= Well-being (⟪स्वस्ति⟫ f.) to you!)
 
@@ -393,7 +393,7 @@ Penjelasan: ⟪मुनित्रयम्⟫ "triad para resi = tiga resi" =
 ![](/images/lekt2410.webp)
 Fig.: ⟪नरो⟫ ⟪नरसिंहाय⟫ ⟪नमस्करोति⟫
 ⟪नरसिंह⟫ tercabut ⟪हिरण्यकशिपु⟫, halaman dari sebuah naskah dari ⟪भागवतपुराण⟫
-(Sumber gambar: [Details](/en/licenses#lekt2410))
+(Sumber gambar: [Detail](/en/licenses#lekt2410))
 :::
 Selamat datang (⟪स्वागतम्⟫) kepada Anda. Selamat datang bagi sang ratu.
 

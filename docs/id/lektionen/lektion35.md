@@ -6,7 +6,7 @@ status: stable
 
 # Pelajaran 35
 
-## 35.1. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+## 35.1. Perfekt Typ III: Starker Batang Hochstufe/Dehnstufe
 
 ::: grammar-box
 **Formation:**
@@ -18,7 +18,7 @@ status: stable
 
 **batang lemah:** lihat subtipe
 :::
-### 35.1.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+### 35.1.1. Perfekt Typ IIIa: Starker Batang Hochstufe/Dehnstufe, schwacher Batang Tiefstufe
 
 ::: grammar-box
 **Formation:**
@@ -45,7 +45,7 @@ Contoh:
 | ⟪पू⟫ | ⟪पुपाव⟫:brpu-pau + a | ⟪पुपुवुर्⟫:brpu-puv-ur | ⟪पुपुवे⟫ | ⟪पुपुविरे⟫ |
 | ⟪कृ⟫ | ⟪चकार⟫ | ⟪चक्रुर्⟫:brca-kr-ur | ⟪चक्रे⟫ | ⟪चक्रिरे⟫ |
 
-### 35.1.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+### 35.1.2. Perfekt Typ IIIb: Starker Batang Hochstufe/Dehnstufe, schwacher Batang Hochstufe
 
 ::: grammar-box
 **Formation:**
@@ -65,7 +65,7 @@ Contoh:
 | ⟪स्मृ⟫ 1P | ⟪सस्मार⟫ | ⟪सस्मरुर्⟫ | | |
 | ⟪संस्कृ⟫ 8U | ⟪सञ्चस्कार⟫:brsam + ca-skār-a | ⟪सञ्चस्करुर्⟫ | ⟪सञ्चस्करे⟫ | ⟪सञ्चस्करिरे⟫ |
 
-## 35.2. Perfekt Typ IV: Wurzeln auf -ā / -āi
+## 35.2. Perfekt Typ IV: Akarn auf -ā / -āi
 
 ::: grammar-box
 **Formation:**
@@ -86,7 +86,7 @@ Contoh:
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪दा⟫ 3U | ⟪ददौ⟫ | ⟪ददुर्⟫:brda-d-ur | ⟪ददे⟫ | ⟪ददिरे⟫:brda-d-i-re |
 
-## 35.3. Perfekt Typ V: Wurzeln Konsonant-a-Konsonant
+## 35.3. Perfekt Typ V: Akarn Konsonant-a-Konsonant
 
 ::: grammar-box
 **Formation:**
@@ -100,7 +100,7 @@ Contoh:
 
 Dibentuk dari akar dengan tipe (Konsonan)-Konsonan-a-Konsonan
 :::
-### 35.3.1. Perfekt Typ Va: schwacher Stamm Tiefstufe
+### 35.3.1. Perfekt Typ Va: schwacher Batang Tiefstufe
 
 ::: grammar-box
 **Formation:**
@@ -121,13 +121,13 @@ Contoh:
 | Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
-| ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | ***⟪जघ्नुर्⟫*** | | |
+| ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | **:sig[⟪जघ्नुर्⟫]** | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
 | ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
 | ⟪यज्⟫ 1U | ⟪इयाज⟫ | ⟪ईजुर्⟫:bri + ij-ur | ⟪ईजे⟫ | ⟪ईजिरे⟫ |
 
-### 35.3.2. Perfekt Typ Vb: schwacher Stamm Kontraktion (e-Typ)
+### 35.3.2. Perfekt Typ Vb: schwacher Batang Kontraktion (e-Typ)
 
 ::: grammar-box
 **Formation:**
@@ -142,9 +142,9 @@ Contoh:
 
 | Akar | 3. tg. Perf. P. | 3. jm. Perf. P. | 3. tg. Perf. Ā. | 3. jm. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | ***⟪पे⟫***⟪चुर्⟫ | ***⟪पे⟫***⟪चे⟫ | ***⟪पे⟫***⟪चिरे⟫ |
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | **:sig[⟪पे⟫]**⟪चुर्⟫ | **:sig[⟪पे⟫]**⟪चे⟫ | **:sig[⟪पे⟫]**⟪चिरे⟫ |
 
-### 35.3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
+### 35.3.3. Perfekt Typ Vc: Akarn Konsonant-a-Konsonant. Schwacher Batang Hochstufe
 
 ::: grammar-box
 **Formation:**
@@ -174,15 +174,15 @@ Contoh:
 **Kaus. ⟪नाशयति⟫**:br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : lenyap, binas, hancur
+**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : lenyap, binas, hancur
 
-**⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : melangkah, pergi
+**⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : melangkah, pergi
 ::: indent
 **Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
 **Fut. ⟪क्रमिष्यति⟫**:br
 **Pass. ⟪क्रम्यते⟫**:br
 **Kaus. ⟪क्रमयति⟫**:br
-**PPP ***⟪क्रा⟫***⟪न्त⟫**:br
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**:br
 **Inf. ⟪क्रमितुम्⟫**:br
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
@@ -190,7 +190,7 @@ Contoh:
 ![](/images/lekt3502.webp)
 Fig.: ⟪क्रामन्ति⟫
 Orang-orang berjalan, Senegal.
-(Sumber gambar: [Details](/en/licenses#lekt3502))
+(Sumber gambar: [Detail](/en/licenses#lekt3502))
 :::
 **⟪गै⟫** 1P **⟪गायति⟫** (gai + a-ti): bernyanyi, melantunkan dengan nada nyanyian, menyatakan dalam bentuk puisi
 ::: indent
@@ -208,7 +208,7 @@ derived from:
 ![](/images/lekt3501.webp)
 Fig.: ⟪जगुः⟫
 Temple musicians, Kaadu Malleswara Temple, Bangalore.
-(Image source: [Details](/en/licenses#lekt3501))
+(Image source: [Detail](/en/licenses#lekt3501))
 :::
 ## 35.5. Latihan
 
@@ -247,7 +247,7 @@ Temple musicians, Kaadu Malleswara Temple, Bangalore.
 ![](/images/lekt3503.webp)
     Fig.: ⟪मिमति⟫
 Market in Vadaseri, Tamil Nadu.
-    (Image source: [Details](/en/licenses#lekt3503))
+    (Image source: [Detail](/en/licenses#lekt3503))
 :::
 30. ⟪अपद्यत⟫
 31. ⟪सुनोति⟫
@@ -274,7 +274,7 @@ B) Translate:
 ![](/images/lekt3504.webp)
 Fig.: ... ⟪ब्राह्मणाश्चेजुः⟫
 Yajña ceremony, Shiva Ashram, Ganeshpuri.
-(Image source: [Details](/en/licenses#lekt3504))
+(Image source: [Detail](/en/licenses#lekt3504))
 :::
 ⟪अर्हन्तः⟫ ⟪कुलबन्धनं⟫ ⟪बिभिदुर्लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪मोहं⟫ ⟪च⟫ ⟪रुरुधुः⟫ ⟪सत्यं⟫ ⟪प्रजज्ञुर्दुःखान्मुक्ता⟫ ⟪मोक्षसुखमापुः⟫ ⟪॥४॥⟫
 

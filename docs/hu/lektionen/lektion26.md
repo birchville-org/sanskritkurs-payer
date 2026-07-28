@@ -51,20 +51,20 @@ Példa:
 :::
 **Haar, amely a hangtörvények következtében elveszíti a második szótag zöngésségét, az első szótagban újra megjelenik.**
 
-Példák: lásd lent a Futurum alakját  ⟪दुह्⟫ és  ⟪बुध्⟫
+Példák: lásd lent a Jövő időum alakját  ⟪दुह्⟫ és  ⟪बुध्⟫
 ::: media
 ![](/images/lekt2601.webp)
 Ábr.: Hermann Grassmann
-(Képmegjelenítés: [Details](/hu/licenses#lekt2601))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2601))
 :::
 ## 26.5. Wortsandhi -m, -n előtt zöngés hangzó
 
 ::: grammar-box
 **Zöngés hangzók előtt -n és -m helyett -ṃ- lép fel:**
 
-Példa: lásd lent a Futurum alakját ⟪मन्⟫
+Példa: lásd lent a Jövő időum alakját ⟪मन्⟫
 :::
-## 26.6. Egyszerű Futurum használata (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.6. Egyszerű Jövő időum használata (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
 **A egyszerű jövő idő (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) a következőket fejezi ki:**

@@ -86,7 +86,7 @@ Furthermore, the following laws of word sandhi apply.
 ::: grammar-box
 1. **-s + s- » -ts- or (not optionally!) -ss-** (as in the 2nd Present class)
    Examples:
-   * **⟪वस्⟫** 1P: Future: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
+   * **⟪वस्⟫** 1P: Futureee: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
    * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
    e.g. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
@@ -157,9 +157,9 @@ Furthermore, the following laws of word sandhi apply.
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Present** :br⟪लट्⟫ | *⟪असि⟫* | *⟪स्थ⟫* |
-| **Imperfect** :br⟪लङ्⟫ | *⟪आसीस्⟫* | *⟪आस्त⟫* |
-| **Optative** :br⟪विधिलिङ्⟫ | *⟪स्यास्⟫* | *⟪स्यात⟫* |
+| **Indikativ Present** :br⟪लट्⟫ | *:sig[⟪असि⟫]* | *:sig[⟪स्थ⟫]* |
+| **Imperfect** :br⟪लङ्⟫ | *:sig[⟪आसीस्⟫]* | *:sig[⟪आस्त⟫]* |
+| **Optative** :br⟪विधिलिङ्⟫ | *:sig[⟪स्यास्⟫]* | *:sig[⟪स्यात⟫]* |
 :::
 ⟪तत्त्वमसि⟫
 
@@ -240,7 +240,7 @@ from which:
 Fig.: ⟪रेल्यानम्⟫
 (Image source: [Details](/en/licenses#lekt4403))
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : to lie. This root has in all forms of the present stem **strong grade:** 1.sg.Ind.Pres.Ā ***⟪शेये⟫*** (śe + e). The following forms are particularly noteworthy: 3.pl.Ind.Pres.Ā ***⟪शेरते⟫***, 3.pl.Imperf.Ā ***⟪अशेरत⟫***
+**⟪शी⟫** 2Ā ⟪शेते⟫ : to lie. This root has in all forms of the present stem **strong grade:** 1.sg.Ind.Pres.Ā **:sig[⟪शेये⟫]** (śe + e). The following forms are particularly noteworthy: 3.pl.Ind.Pres.Ā **:sig[⟪शेरते⟫]**, 3.pl.Imperf.Ā **:sig[⟪अशेरत⟫]**
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -281,13 +281,13 @@ Fig.: ⟪नन्दी⟫
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : to have one's joy in (⟪द्वितीयया⟫), to greet someone joyfully, to welcome
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : to hold, to carry; to offer, to grant; to hold together, to bind, to rein, to conquer
+**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : to hold, to carry; to offer, to grant; to hold together, to bind, to rein, to conquer
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Caus. ⟪यामयति⟫ but: ⟪नि⟫***⟪यम⟫***⟪यति⟫  
+Caus. ⟪यामयति⟫ but: ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
@@ -331,7 +331,7 @@ Fig.: ⟪यत्नेन⟫
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Caus. ***⟪रम्भ⟫***⟪यति⟫  
+Caus. **:sig[⟪रम्भ⟫]**⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫

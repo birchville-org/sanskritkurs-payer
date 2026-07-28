@@ -231,7 +231,7 @@ Kuv.: Oliko tämä vedinen somakasvi?: Lennokkisiipi: *Amanita muscaria* (L.) La
 ::: media
 ![](/images/lekt0704.webp)
 Kuva: Viṣṇu = ⟪विष्णु⟫, 8./9. vuosisata.
-(Kuv lähde: [Details](/fi/licenses#lekt0704))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt0704))
 :::
 2. gurus ... khādati (phala)
    ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
@@ -271,7 +271,7 @@ Kuva: Viṣṇu = ⟪विष्णु⟫, 8./9. vuosisata.
 ::: media
 ![](/images/lekt0702.webp)
 Kuv: **yajati** = ⟪यजति⟫ — Veda-uhrinen uhri = **yajña** m. = ⟪यज्ञ⟫
-(Kuvälähde: [Details](/fi/licenses#lekt0702))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt0702))
 :::
 **E) Muodosta kaikki tähän mennessä opetellut substantiivit akkusatiivin (dvitīyā) yksikössä ja monikossa.**
 
@@ -292,7 +292,7 @@ Kuv: **yajati** = ⟪यजति⟫ — Veda-uhrinen uhri = **yajña** m. = ⟪
 ::: media
 ![](/images/lekt0703.webp)
 Kuva: Millelle jumalalle tässä uhrataan? Vastaus: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
-(Kuv lähde: [Details](/fi/licenses#lekt0703))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt0703))
 :::
 9. Mitä tämä pyhä mies pureskelee?
 10. Mitä nämä (täällä) puristavat?

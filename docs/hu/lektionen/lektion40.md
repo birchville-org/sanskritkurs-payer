@@ -434,7 +434,7 @@ pl. ⟪मत्पुस्तकम्⟫ "a könyvem" ; ⟪अस्मद्
 
 ⟪पुस्तक⟫ m.n.: Kézirat, könyv
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : helyes sorrendben lenni, illeni (Lok.); kialakul, formálódik; elszán magára valamire, hajlandó lenni (Dativ)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : helyes sorrendben lenni, illeni (Lok.); kialakul, formálódik; elszán magára valamire, hajlandó lenni (részes eset (dativus))
 
 ::: indent
 Perf. II ⟪चकॢपे⟫ fakultatív ⟪अनिट्⟫  
@@ -504,7 +504,7 @@ abból:
 ::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
 Kép: ⟪विष्णोर्दशावताराः⟫
-(Képmegjelölés: [Details](/hu/licenses#lekt4001))
+(Képmegjelölés: [Részletek](/hu/licenses#lekt4001))
 :::
 ⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : aludni, lefeküdni
 

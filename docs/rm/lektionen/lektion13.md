@@ -119,7 +119,7 @@ Per capir las singulas formas da la declinaziun da nomina sin -mant e -vant èn 
 -c + dh- » -g-dh- ⟪ग्ध्⟫
 :::
 
-## 13.7. Kasusendungen konsonantischer Stämme
+## 13.7. Desinenzas casalas da stams consonantics
 
 ::: grammar-box
 
@@ -130,7 +130,7 @@ En cun stins che finescon cun consonant:
 
 :::
 
-## 13.8. Deklination der Stämme auf -mant und -vant
+## 13.8. Declinaziun dals stizs sin -mant e -vant
 
 ::: grammar-box
 

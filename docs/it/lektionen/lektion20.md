@@ -30,7 +30,7 @@ Jodhpur = ⟪जोधपुर⟫ [Fonte immagine: Jared Zimmerman. -- http://w
 
 **Schema per la risoluzione di un Bahuvrīhi:**
 
-**1. Membro anteriore solitamente al Nominativo (⟪प्रथमा⟫) Sing., Duale o Plurale -- 2. Membro posteriore al Nominativo Sing., Duale o Plurale -- Pronome relativo in un caso diverso dal Nominativo (solitamente Genitivo - ⟪षष्ठी⟫) e in genere e numero del Bahuvrīhi complessivo -- Pronome dimostrativo in numero, caso e genere del Bahuvrīhi complessivo.**
+**1. Membro anteriore solitamente al Nominativooo (⟪प्रथमा⟫) Sing., Dualeee o Pluraleee -- 2. Membro posteriore al Nominativooo Sing., Dualeee o Pluraleee -- Pronome relativo in un caso diverso dal Nominativooo (solitamente Genitivo - ⟪षष्ठी⟫) e in genere e numero del Bahuvrīhi complessivo -- Pronome dimostrativo in numero, caso e genere del Bahuvrīhi complessivo.**
 
 :::
 Esempi:
@@ -512,7 +512,7 @@ Affermazione dei materialisti secondo il ⟪सर्वदर्शनसंग
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
 ⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
 
-Spiegazione: ⟪अत्मा⟫ = Nominativo singolare maschile a ⟪आत्मन्⟫ m. "sé, anima ; l'Assoluto, nella misura in cui viene realizzato in un individuo"
+Spiegazione: ⟪अत्मा⟫ = Nominativooo singolare maschile a ⟪आत्मन्⟫ m. "sé, anima ; l'Assoluto, nella misura in cui viene realizzato in un individuo"
 :::
 Un ⟪सुभाषितम्⟫ :
 
@@ -538,7 +538,7 @@ Sulle questioni di proprietà:
 ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫
 ⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪४१६॥⟫
 
-Spiegazione: ⟪त्रयस्⟫ = Nominativo maschile plurale a ⟪त्रि⟫ "tre"
+Spiegazione: ⟪त्रयस्⟫ = Nominativooo maschile plurale a ⟪त्रि⟫ "tre"
 :::
 Un ⟪सुभाषितम्⟫ sulla bellezza femminile:
 
@@ -548,7 +548,7 @@ Un ⟪सुभाषितम्⟫ sulla bellezza femminile:
 ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫
 ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫
 
-Spiegazione: tutte le forme tranne ⟪कं⟫ e ⟪स्त्रीणाम्⟫ sono Nominativo singolare neutro e si riferiscono a ⟪वपुस्⟫.
+Spiegazione: tutte le forme tranne ⟪कं⟫ e ⟪स्त्रीणाम्⟫ sono Nominativooo singolare neutro e si riferiscono a ⟪वपुस्⟫.
 :::
 ::: media
 ![](/images/lekt2003.webp)

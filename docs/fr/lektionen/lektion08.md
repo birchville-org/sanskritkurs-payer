@@ -165,7 +165,7 @@ Les hindous pieux vont au temple pour obtenir la vision de Dieu à travers un sy
 
 Ces formations peuvent être pratiquement formées à partir de n'importe quel nom et sont très fréquentes dans les œuvres savantes en sanskrit.
 
-## 8.4. Die 8. Präsensklasse (tanādi = ⟪तनादि⟫ = "tan usw.")
+## 8.4. La 8e classe de présent (tanādi = ⟪तनादि⟫ = "tan, etc.")
 
 ::: grammar-box
 **Formation de la racine :**

@@ -189,9 +189,9 @@ Abb.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 
 :::
 ::: indent
-**⟪जयन्⟫ + ⟪अरिः⟫** » **⟪जयन्नरिः⟫** "der siegende Feind"
+**⟪जयन्⟫ + ⟪अरिः⟫** » **⟪जयन्नरिः⟫** "il inimic victur"
 :::
-## 21.3. Höfliche Formen der Anrede
+## 21.3. Formas politeicas da l'interpellaziun
 
 ::: grammar-box
 **En sanscrit, senza esser maleducats, si pò adirar a qualchidun en la segunda persuna singular. Ma se vul esser cortés, si pò usar in num che ha il significà «reverenzius» u similia, e posiziunir il verb en la terza persuna singular u plurala u adina ina construcziun passiva. L'augmentaziun da la cortesia en l'usiadi da la persuna en l'adraziun è approximativamain la suandanta:**

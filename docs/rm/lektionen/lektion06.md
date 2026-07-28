@@ -90,7 +90,7 @@ Esempel **yaj** = ⟪यज्⟫ = "venerar cun in sacrifici", "sacrifitgar":
   - 3. sg. Ā. **yajate** = ⟪यजते⟫
   - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
-## 6.5. Bildung des Stampa da preschents
+## 6.5. Furmaziun dal preschents
 
 ### 6.5.1. Verb da la 6avla classa da prescha (tudādi = ⟪तुदादि⟫ = "tud e.u.v.")
 
@@ -134,14 +134,14 @@ Avant vocals vegn en l'intern da la parola **e** sustituid cun **ay**, **o** cun
 ::: grammar-box
 **stam dal presens = radich en grad bass (en la quala ella è enaquadrada) + ya-**
 
-| Wurzel (dhātu m.):br⟪धातु⟫ | Stampa da preschent |
+| Rad (dhātu m.):br⟪धातु⟫ | Imprima da preschentar |
 | :--- | :--- |
 | **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
-### 6.5.4. Themavokal, thematische Präsensklassen
+### 6.5.4. Vocal da tema, classes da prezens tematic
 
 ::: grammar-box
 Il **a** en las suffissas da furmaziun dal stem da las classes da present vegnes numnà **vocal temaic**. Classes da present cun **a** en il suffiss da furmaziun dal stem vegnes perquai numnadas "classes da present temaicas".

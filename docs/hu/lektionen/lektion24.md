@@ -143,7 +143,7 @@ A datívus további felhasználásait később.
 ::: grammar-box
 **Vokális tövek**
 
-* **Hímnem / Neutrum -a végződésű:** ⟪देव⟫
+* **Hímnem / semlegesnem -a végződésű:** ⟪देव⟫
   * Dat. sg. ⟪देवाय⟫
   * Dat. pl. ⟪देवेभ्यस्⟫
 * **Hímnem -i végződésű:** ⟪कवि⟫
@@ -222,7 +222,7 @@ A következőből: ⟪वृत्⟫
 
 ⟪आ⟫ prepozíció / poszpozíció: az ablutív előtt vagy az akkuzatív után: mindaddig, amíg; az ablutíval: onnan, attól fogva
 
-⟪अतस्⟫ Ragozhatlan: onnan, akkor, ezért, azért (Pronominalstamm a- "ez" + Ablativsuffix -tas)
+⟪अतस्⟫ Ragozhatlan: onnan, akkor, ezért, azért (Pronominalstamm a- "ez" + ablativussuffix -tas)
 
 ⟪अध्यक्ष⟫ m.: felügyelő, osztályvezető; szemtanú
 
@@ -241,7 +241,7 @@ davon
 ![](/images/lekt2407.webp)
 Ábr.: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, a CNN-IBN Network 18 India helyettes külpolitikai szerkesztője, moderál egy panelbeszélgetést a 2008-as Újdelhi Világ Gazdasági Fórum Indiai Gazdasági Csúcstalálkozóján."
-(Képmegjelenés: [Details](/hu/licenses#lekt2407))
+(Képmegjelenés: [Részletek](/hu/licenses#lekt2407))
 :::
 ⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : hasznos
 

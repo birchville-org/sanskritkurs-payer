@@ -9,9 +9,9 @@ status: stable
 
 # Lektion 39
 
-## 39.1. The Personal Endings of the First Person (***⟪तृतीयः⟫⟫ ⟪पुरुषः⟫ = "**third** Person")
+## 39.1. The Personal Endings of the First Person (***:sig[⟪तृतीयः⟫]⟫ ⟪पुरुषः⟫ = "**third** Person")
 
-The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**third** Person") are:
+The endings of the first person (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**third** Person") are:
 
 ::: grammar-box
 
@@ -144,7 +144,7 @@ The endings of the first person (***⟪तृतीयः⟫*** ⟪पुरु�
 
 **begin, consonants generally remain unchanged.**
 
-**e.g. ⟪वच्⟫ 1.sg.Ind.Pres. **⟪व⟫***⟪च्मि⟫***
+**e.g. ⟪वच्⟫ 1.sg.Ind.Pres. **⟪व⟫**⟪च्मि⟫**
 :::
 ### 39.4.1. Zweite Presentklasse (⟪अदादि⟫)
 

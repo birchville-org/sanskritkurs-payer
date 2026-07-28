@@ -59,8 +59,6 @@ Az eszközhatározó (⟪तृतीया⟫) adverbialisan használható a k�
 *   wodurch?
 *   womit?
 *   mi által?
-mivel?
-stb.
 
 Az instrumentalis használható határozószói értelműen:
 
@@ -74,7 +72,7 @@ Példák:
 ⟪दूरेण⟫ "távol, messziről" (a ⟪दूर⟫ 3 "távol, messze" melléknévhez)
 ⟪उच्चैस्⟫ "magas, hangos" (a ⟪उच्च⟫ 3 "magas, emelt, hangos, csengő (hangról)" melléknévhez)
 :::
-### 37.2.3. Dativus (⟪चतुर्थी⟫)
+### 37.2.3. részes eset (dativus)us (⟪चतुर्थी⟫)
 
 ::: grammar-box
 Ritkán használják határozószói értelműen a dativust (⟪चतुर्थी⟫) a következő kérdésekre:
@@ -87,7 +85,7 @@ Példa:
 ::: indent
 ⟪अर्थाय⟫ "céljából, ... végett"
 :::
-### 37.2.4. Ablativus (⟪पञ्चमी⟫)
+### 37.2.4. ablativusus (⟪पञ्चमी⟫)
 
 ::: grammar-box
 Az ablativus (⟪पञ्चमी⟫) határozószói értelmű lehet a következő kérdésekre:
@@ -110,7 +108,7 @@ Példák:
 ⟪कस्मात्⟫ "miért"  
 ⟪अकस्मात्⟫ "váratlanul"
 :::
-### 37.2.5. Genetivus (⟪षष्ठी⟫)
+### 37.2.5. birtokos eset (genitivus)us (⟪षष्ठी⟫)
 
 ::: grammar-box
 Ritkán használják az birtokos esetet (⟪षष्ठी⟫) határozószói értelműen a „hány idő után?” kérdésre.
@@ -174,7 +172,7 @@ Egy másik kérdőhatározó szó: ⟪क्व⟫ "hol?"
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
 Ábr.: ⟪क्व⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt3701))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3701))
 :::
 
 ::: grammar-box
@@ -310,7 +308,7 @@ Példák:
 ::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
 Ábr.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt3704))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3704))
 :::
 ### 37.8.2. Kérdőmondatok
 

@@ -68,12 +68,12 @@ Beispiele: <!-- TODO: Fallback translation -->
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
-## 32.4. Beispiele für die Imperfektbildung
+## 32.4. Beispiele für die Imperfektbildung <!-- TODO: Fallback translation -->
 
 ::: important
 **Um die Bildung der Formen zu demonstrieren, werden hier auch zu Parasmaipada-Wurzeln Ātmanepada-Formen gebildet! Diese künstlichen Formen stehen zwischen \< \>.** <!-- TODO: Fallback translation -->
 :::
-### 32.4.1. Thematische Präsensklassen
+### 32.4.1. Thematische Präsensklassen <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -86,7 +86,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 | Passiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
-### 32.4.2. Athematische Präsensklassen
+### 32.4.2. Athematische Präsensklassen <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 

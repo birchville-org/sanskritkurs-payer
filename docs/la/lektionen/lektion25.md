@@ -476,13 +476,13 @@ Explicatio verborum in texto superiore rubro colore distinctorum:
 
 1.5.5.  ⟪इतरम्⟫ Acc. sg. m. ad ⟪इतर⟫ ⟪३⟩ "alter"
 
-1.5.7. ⟪कर्मा⟫ : Nom. sg. m. ad ⟪कर्मन्⟫ neut. "factum, opus" ; ⟪उपयुञ्जीत⟫ : Optativus 3. sg. A ad upa-yuj 7 "sibi adpropinquare": "ille sibi adpropinquet"
+1.5.7. :sig[⟪कर्मा⟫] : Nom. sg. m. ad ⟪कर्मन्⟫ neut. "factum, opus" ; ⟪उपयुञ्जीत⟫ : Optativus 3. sg. A ad upa-yuj 7 "sibi adpropinquare": "ille sibi adpropinquet"
 
 1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Abl., Dat. pl. ad ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "Theoretici et practici"
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : "sedecimus"
 
-1.5.10. ⟪कर्म⟫ Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "Factum"
+1.5.10. :sig[⟪कर्म⟫] Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "Factum"
 
 1.5.16. ⟪धि⟫ Sandhiform ad ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "possessio sui ipsius"
 

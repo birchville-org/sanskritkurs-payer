@@ -29,9 +29,9 @@ title: "אודות וציטוט"
 
 **תרגומים שנוצרו על ידי בינה מלאכותית** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) ו**צינור טכני** (סקריפטים, תצוגת בדיקת איכות, הגדרות VitePress):
 
-- תרגומים: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — ייחוס, שיתוף זהה
-- קוד/צינור: [רישיון MIT](https://opensource.org/licenses/MIT)
+- תרגומים: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — ייחוס, שיתוף זהה
+- קוד/צינור: [רישיון MIT [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)](https://opensource.org/licenses/MIT)
 
 **דרכי ציטוט לתרגומים:**
-> Payer, Alois: קורס סנסקריט. תורגם בעזרת בינה מלאכותית. Marco Demarmels (עורך), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: קורס סנסקריט. תורגם בעזרת בינה מלאכותית. Marco Demarmels (עורך [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 

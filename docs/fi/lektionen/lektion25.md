@@ -199,7 +199,7 @@ siitä:
 ::: media
 ![](/images/lekt2501.webp)
 Kuv.: ⟪धान्यम्⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt2501))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt2501))
 :::
 ⟪धृ⟫ 1U ⟪धरति⟫ : pitää, pitelemällä
 
@@ -318,7 +318,7 @@ siitä:
 ::: media
 ![](/images/lekt2504.webp)
 Kuv.: ⟪विवाहः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt2504))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt2504))
 :::
 ⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : viedä pois, opettaa, kasvattaa
 
@@ -476,13 +476,13 @@ Yllä olevassa tekstissä punaisella korostettujen sanojen selitykset:
 
 1.5.5. ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "toinen"
 
-1.5.7. ⟪कर्मा⟫ : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "teko, teos" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā zu upa-yuj 7 "omaksua": "hän saakoon omaksua"
+1.5.7. :sig[⟪कर्मा⟫] : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "teko, teos" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā zu upa-yuj 7 "omaksua": "hän saakoon omaksua"
 
 1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Abl., Dat. pl. zu ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "teoreetikot ja käytännön harjoittajat"
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : "kuudeskymmenes"
 
-1.5.10. ⟪कर्म⟫ Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "teko"
+1.5.10. :sig[⟪कर्म⟫] Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "teko"
 
 1.5.16. ⟪धि⟫ Sandhimuoto sanasta ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "itseomaisuus"
 

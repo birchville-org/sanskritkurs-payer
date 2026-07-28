@@ -9,7 +9,7 @@ status: stable
 
 # Pelajaran 36
 
-## 36.1. Besondere Bildungen  Perfekts
+## 36.1. Besondere Pembentukanen  Perfekts
 
 ::: grammar-box
 Beberapa akar menunjukkan perubahan pada awal akar setelah suku kata reduplikasi.
@@ -18,9 +18,9 @@ Contoh:
 
 | Akar:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫***⟪गा⟫***⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
+| ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫**:sig[⟪गा⟫]**⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
-| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫***⟪घा⟫***⟪न⟫ | ⟪ज⟫***⟪घ्नु⟫***⟪र्⟫ | | |
+| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫**:sig[⟪घा⟫]**⟪न⟫ | ⟪ज⟫**:sig[⟪घ्नु⟫]**⟪र्⟫ | | |
 
 ::: grammar-box
 Akar ⟪विद्⟫ kelas 2 "mengetahui" memiliki bentuk sempurna yang bermakna waktu sekarang.
@@ -130,7 +130,7 @@ Inf. ⟪व्रजितुम्⟫
 ::: media
 ![](/images/lekt3602.webp)
 Fig.: ⟪अगारम्⟫
-(Image source: [Details](/en/licenses#lekt3602))
+(Image source: [Detail](/en/licenses#lekt3602))
 :::
 
 ::: indent
@@ -141,7 +141,7 @@ therefrom:
 ::: media
 ![](/images/lekt3603.webp)
 Fig.: ⟪अनगार्यम्⟫
-(Image source: [Details](/en/licenses#lekt3603))
+(Image source: [Detail](/en/licenses#lekt3603))
 :::
 ⟪अञ्जलि⟫ m.: The two hands placed high together in reverence
 
@@ -187,7 +187,7 @@ PPP ⟪ग्लान⟫
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
 :::
-⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : to smell something
+⟪घ्रा⟫ 1P **:sig[⟪जिघ्रति⟫]** : to smell something
 
 ::: indent
 Perf. IV ⟪जघ्रौ⟫  
@@ -206,7 +206,7 @@ Absol. -⟪घ्राय⟫
 Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
 Fut. ⟪प्रेष्यति⟫  
 Pass. ⟪प्रीयते⟫  
-Kaus. ***⟪प्रीणयति⟫***  
+Kaus. **:sig[⟪प्रीणयति⟫]**  
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
 :::
@@ -224,7 +224,7 @@ Absol. -⟪स्पृश्य⟫
 ::: media
 ![](/images/lekt3606.webp)
 Fig.: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
-(Sumber gambar: [Details](/en/licenses#lekt3606))
+(Sumber gambar: [Detail](/en/licenses#lekt3606))
 :::
 ⟪हृष्⟫ 4P ⟪हृष्यति⟫ : menjadi kaku: menggerombong (rambut), bersukacita atas (Instr., Acc., Loc.)
 
@@ -238,7 +238,7 @@ PPP ⟪हृषित⟫
 ::: media
 ![](/images/lekt3604.webp)
 Fig.: ⟪लोमहर्षः⟫
-(Image source: [Details](/en/licenses#lekt3604))
+(Image source: [Detail](/en/licenses#lekt3604))
 :::
 
 ⟪स्वक⟫ 3: own (my, your ...) ; m.: member
@@ -280,7 +280,7 @@ D) Translate:
 ::: media
 ![](/images/lekt3605.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫
-(Image source: [Details](/en/licenses#lekt3605))
+(Image source: [Detail](/en/licenses#lekt3605))
 :::
 ⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञेन⟫ ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫
 
@@ -405,16 +405,16 @@ Translate:
 1\. ⟪महाभारत⟫ ⟪१३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫
 
 ::: indent
-⟪येन⟫ ⟪प्रीणति⟫ ***⟪पितरं⟫***
+⟪येन⟫ ⟪प्रीणति⟫ **:sig[⟪पितरं⟫]**
 ⟪तेन⟫ ⟪प्रीतः⟫ ⟪प्रजापतिः⟫ ⟪।⟫
-⟪प्रीणति⟫ ***⟪मातरं⟫*** ⟪येन⟫
+⟪प्रीणति⟫ **:sig[⟪मातरं⟫]** ⟪येन⟫
 ⟪पृथिवी⟫ ⟪तेन⟫ ⟪पूजिता⟫ ⟪।⟫
 ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫
-⟪तेन⟫ ⟪स्या⟫***⟪द्ब्रह्म⟫*** ⟪पूजितम्⟫ ⟪।⟫
-***⟪सर्वे⟫*** ⟪तस्यादृता⟫ ⟪धर्मा⟫
-⟪यस्यैते⟫ ***⟪त्रय⟫*** ⟪आदृताः⟫ ⟪।⟫
+⟪तेन⟫ ⟪स्या⟫**:sig[⟪द्ब्रह्म⟫]** ⟪पूजितम्⟫ ⟪।⟫
+**:sig[⟪सर्वे⟫]** ⟪तस्यादृता⟫ ⟪धर्मा⟫
+⟪यस्यैते⟫ **:sig[⟪त्रय⟫]** ⟪आदृताः⟫ ⟪।⟫
 ⟪अनादृतास्तु⟫ ⟪यस्यैते⟫
-***⟪सर्वास्त⟫***⟪स्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫
+**:sig[⟪सर्वास्त⟫]**⟪स्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫
 
 Explanations:
 
@@ -424,7 +424,7 @@ Explanations:
 
 ⟪ब्रह्म⟫ : Nom./Acc. sg. of ⟪ब्रह्मन्⟫ n. "Absolute, Veda"
 
-⟪सर्वे⟫ : Nom. pl. masc. of ⟪सर्व⟫ "all, every"
+:sig[⟪सर्वे⟫] : Nom. pl. masc. of ⟪सर्व⟫ "all, every"
 
 ⟪त्रयस्⟫ : Nom. pl. masc. of ⟪त्रि⟫ "three"
 
@@ -433,7 +433,7 @@ Explanations:
 ::: media
 ![](/images/lekt3607.webp)
 Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
-(Sumber gambar: [Details](/en/licenses#lekt3607))
+(Sumber gambar: [Detail](/en/licenses#lekt3607))
 :::
 2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟫ tentang tata krama yang tepat terhadap orang tua:
 
@@ -445,7 +445,7 @@ Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं�
 
 ::: indent
 ⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫
-⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ ***⟪विज्ञेयो⟫*** ⟪जितेन्द्रियः⟫ ⟪॥⟫
+⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ **:sig[⟪विज्ञेयो⟫]** ⟪जितेन्द्रियः⟫ ⟪॥⟫
 
 Penjelasan: ⟪विज्ञेय⟫ ⟪३⟫: seseorang yang harus dikenali; seseorang yang harus diketahui (sebagai)
 :::

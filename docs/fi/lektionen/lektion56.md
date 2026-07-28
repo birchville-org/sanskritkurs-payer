@@ -56,7 +56,7 @@ Varsinainen vartalo:
 *   **\-ā- yksinkertaisen konsonantin edellä korvautuu muodolla -a-:**
 ⟪पॄ⟫ 3P: Kaus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫  
 ⟪द्रु⟫ 1P: Kaus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫  
-⟪नी⟫ 1U: Kaus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
+:sig[⟪नी⟫] 1U: Kaus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
 ⟪ज्ञा⟫ 9U: Kaus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫
 
 *   **\-ī-, -e-, -ai- yksinkertaisen konsonantin edellä korvautuu muodolla -i-:**
@@ -89,8 +89,8 @@ Kun yllä mainitut säännöt on sovellettu vartalon sillaan, seuraavien säänt
 ⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫
 
 *   **a korvataan ī:llä, jos Vartalo-sylvi on metrisesti lyhyt ja alkaa vain yhdellä konsonantilla. Jos Vartalo-sylvi on metrisesti lyhyt ja alkaa useammalla kuin yhdellä konsonantilla, reduplikaation silvun a korvataan i:llä. Jos Vartalo-sylvi on metrisesti pitkä, a säilyy:**
-⟪नी⟫ 1U: Kaus. ⟪नाययति⟫, Aor.-vartalon sylvi ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
-⟪कृ⟫ 8U: Kaus. ⟪कारयति⟫, Aor.-vartalon sylvi ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
+:sig[⟪नी⟫] 1U: Kaus. ⟪नाययति⟫, Aor.-vartalon sylvi ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
+:sig[⟪कृ⟫] 8U: Kaus. ⟪कारयति⟫, Aor.-vartalon sylvi ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
 ⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Aor.-vartalon sylvi ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत्⟫  
 ⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Aor.-vartalon sylvi ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
 
@@ -196,7 +196,7 @@ Speyer, Jacob S. (Jacob Samuel) \&lt;1849-1913\&gt;: Sanskrit sytax. -- Leyden :
 ::: media
 ![](/images/lekt5603.webp)
 Kuv: ⟪अलं⟫  ⟪विषादेन⟫
-(Kuvälähde: [Details](/fi/licenses#lekt5603))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt5603))
 :::
 ## 56.4. ⟪स्म⟫
 
@@ -298,10 +298,10 @@ A) Määritä ja käännä ilman apuvälineitä (!) seuraavat muodot:
 
 ::: deleteme-box
 
-**lekt5601:** Professor für vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983) [Bildquelle: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Zugriff am 2009-02-27]
+**lekt5601:** Professor für vergleichende Sprachwissenschaft, Universität Erlangen-Nürnberg (1955 - 1983) [Kuvalähde: [http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm](http://titus.uni-frankfurt.de/personal/galeria/hoffma-k.htm). -- Zugriff am 2009-02-27]
 
-**lekt5602:** Plakat (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards." [Bildquelle: Hari\_Menon. -- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Zugriff am 2009-02-27. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)]
+**lekt5602:** Plakat (Ernesto Che Guevara) einer politischen Partei in Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്‍). "Rough translation of what is written on it would be: Martyrdom is a fascinating experience for a revolutionary. And a daunting resort to a dastard. Che is not a role model for cowards." [Kuvalähde: Hari\_Menon. -- [http://www.flickr.com/photos/me_haridas/2282563515/](http://www.flickr.com/photos/me_haridas/2282563515/). -- Zugriff am 2009-02-27. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, share alike)]
 
-**lekt5603:** [Bildquelle: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Zugriff am 2009-02-27. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
+**lekt5603:** [Kuvalähde: World Bank / Curt Carnemark. -- [http://www.flickr.com/photos/worldbank/2244549274/](http://www.flickr.com/photos/worldbank/2244549274/). -- Zugriff am 2009-02-27. -- [Creative Commons Lizenz](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Namensnennung, keine kommerzielle Nutzung, keine Bearbeitung)]
 
 :::

@@ -69,7 +69,7 @@ Inf. ⟪ग्रसितुम्⟫
 ![](/images/lekt2903.webp)
 Kuv.: ⟪परिव्राजकाः⟫
 Pushkar = ⟪पुष्कर⟫
-(Kuv lähde: [Details](/fi/licenses#lekt2903))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2903))
 :::
 ⟪पालयति⟫ : myös merkitykseltään sama kuin  ⟪पाति⟫
 
@@ -87,7 +87,7 @@ siitä:
 ![](/images/lekt2901.webp)
 Kuv.: ⟪मत्स्यः⟫
 ⟪रोहू⟫ ⟪मछली⟫ = Labeo rohita Hamilton
-(Kuv lähde: [Details](/fi/licenses#lekt2901))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2901))
 :::
 ⟪मृदु⟫  (f.: ⟪मृद्वी⟫): lempeä, pehmeä; hidas, heikko
 
@@ -160,7 +160,7 @@ Selitykset:
 
 ⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : instr., dat. abl., du. mask. sanasta ⟪कामक्रोध⟫ (du. dvandva)
 
-⟪।१२।⟫ ⟪किमङ्ग⟫ "kuinka paljon enemmän"
+⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "kuinka paljon enemmän"
 
 ⟪।१४।⟫ ⟪बलीयान्⟫ : nom. sg. mask. sanalle ⟪बलीयस्⟫ ⟪३⟫ "vahvempi"
 
@@ -172,7 +172,7 @@ Selitykset:
 
 ⟪वर्त्मसु⟫ : lok. pl. neutr. sanalle ⟪वर्त्मन्⟫ n. "reitti, rata, polku"
 
-## 29.4. Futur ja kausatiivi aiemmin opetuille juurille
+## 29.4. Futuuri ja kausatiivi aiemmin opetuille juurille
 
 ::: grammar-box
 

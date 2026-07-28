@@ -62,7 +62,7 @@ Formas sequentes determinate et vertite:
 | ⟪४⟫. | ⟪ज्येष्ठायाः⟫ | :sig[⟪ज्येष्ठ⟫]: Gen. Abl. Sg. f. (optimarum / seniorum) |
 | ⟪५⟫. | ⟪संयक्⟫ | recte (Adv.) |
 | ⟪६⟫. | ⟪असे⟫ | :sig[⟪असि⟫] m.: Voc. Sg. (Gladius!) |
-| ⟪७⟫. | ⟪असि⟫ | :sig[⟪अस्⟫] 2P: 2. Sg. Ind. Præs. P. (es) |
+| ⟪७⟫. | :sig[⟪असि⟫] | :sig[⟪अस्⟫] 2P: 2. Sg. Ind. Præs. P. (es) |
 | ⟪८⟫. | ⟪अचैष्ट⟫ | :sig[⟪चि⟫] 5U: 3. Sg. s-Aor. Ā. (struxit) |
 | ⟪९⟫. | ⟪अचेष्ट⟫ | :sig[⟪चि⟫]: s-Aor. Ā. (correctio: s-Aor. Ā. ut supra) |
 | ⟪१०⟫. | ⟪अभग्नम्⟫ | *⟪अ⟫-* + PPP a :sig[⟪भञ्ज्⟫] 7P: Nom. Acc. Sg. n.; Acc. Sg. m. (intactus) |
@@ -79,7 +79,7 @@ Formas sequentes determinate et vertite:
 | ⟪२१⟫. | ⟪रिपू⟫ | :sig[⟪रिपु⟫] m.: Nom. Acc. Voc. Du. (duo hostes) |
 | ⟪२२⟫. | ⟪अदात्⟫ | :sig[⟪दा⟫] 3U: 3. Sg. Radicis Aor. P. (dedit) |
 | ⟪२३⟫. | ⟪आदत्⟫ | :sig[⟪अद्⟫] 2P: 3. Sg. Impf. P. (edit) |
-| ⟪२४⟫. | ⟪अवोढ⟫ | :sig[⟪वह्⟫] 1U: 3. Sg. s-Aor. Ā. (vehit); *⟪अ⟫-⟪वह्⟫*: Voc. Sg. m. n. |
+| ⟪२४⟫. | ⟪अवोढ⟫ | :sig[⟪वह्⟫] 1U: 3. Sg. s-Aor. Ā. (vehit); *⟪अ⟫-:sig[⟪वह्⟫]*: Voc. Sg. m. n. |
 | ⟪२५⟫. | ⟪अवोचम्⟫ | :sig[⟪वच्⟫] 2P: 1. Sg. a-Aor. P. (locutus sum) |
 | ⟪२६⟫. | ⟪दिक्⟫ | :sig[⟪दिश्⟫] f.: Nom. Sg. (directio) |
 | ⟪२७⟫. | ⟪शुनोः⟫ | :sig[⟪श्वन्⟫] m.: Gen. Loc. Du. (canes) |
@@ -110,7 +110,7 @@ Formas sequentes determinate et vertite:
 | ⟪⟪५१⟫⟫. | ⟪⟪अमुत्र⟫⟫] ibi (Adv.) |
 | ⟪⟪५२⟫⟫. | ⟪⟪पत्युः⟫⟫] :sig[⟪⟪पति⟫⟫] m.: Abl. Gen. Sg. (mariti) |
 | ⟪⟪५३⟫⟫. | ⟪⟪क्षेपीयन्⟫⟫] Comparativ a :sig[⟪⟪क्षिप्र⟫⟫]: Vok. Sg. m. (o celerrime!) |
-| ⟪⟪५४⟫⟫. | ⟪⟪आदिषि⟫⟫] *⟪⟪आ⟫⟫-⟪⟪दा⟫⟫* 3Ā: 1. Sg. s-Aor. Ā. (tuli) |
+| ⟪⟪५४⟫⟫. | ⟪⟪आदिषि⟫⟫] *⟪⟪आ⟫⟫-⟪:sig[⟪दा⟫]⟫* 3Ā: 1. Sg. s-Aor. Ā. (tuli) |
 | ⟪⟪५५⟫⟫. | ⟪⟪पाणी⟫⟫] :sig[⟪⟪पाणि⟫⟫] m.: Nom. Akk. Vok. Du. (duae manus) |
 | ⟪⟪५६⟫⟫. | ⟪⟪अस्प्राक्षम्⟫⟫] :sig[⟪⟪स्पृश्⟫⟫] 6P: 1. Sg. s-Aor. P. (tetigi) |
 :::

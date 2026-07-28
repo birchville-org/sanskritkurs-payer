@@ -152,7 +152,7 @@ Lisää myöhemmin.
 ::: media
 ![](/images/lekt1405.webp)
 Kuv.: ⟪दीपाः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt1405))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt1405))
 :::
 * **bala n.** (⟪बल⟫) : väkivalta, voima, vahvuus; armeijanvoima, armeijajoukot
 * **bāla 3** (⟪बाल⟫) : nuori, lapsellinen, tyhmä; m. poika
@@ -239,7 +239,7 @@ Käännä seuraavat sananlaskut ja opettele ne ulkoa:
 ::: media
 ![](/images/lekt1404.webp)
 Kuvaus: ⟪पुत्रवती⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1404))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1404))
 :::
 ⟪२६⟫. ⟪जल⟫
 
@@ -300,7 +300,7 @@ Kuvaus: ⟪पुत्रवती⟫
 ::: media
 ![](/images/lekt1403.webp)
 Kuva: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
-(Kuvalähde: [Details](/fi/licenses#lekt1403))
+(Kuvalähde: [Tiedot](/fi/licenses#lekt1403))
 :::
 **B) Käännä:**
 
@@ -333,5 +333,5 @@ Kuva: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत�
 ::: media
 ![](/images/lekt1402.webp)
 Kuv.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1402))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1402))
 :::

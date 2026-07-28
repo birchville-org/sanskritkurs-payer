@@ -7,7 +7,23 @@ import sys
 import re
 import datetime
 import hashlib
-import subprocess
+import fcntl
+
+# Single-Process Lock Enforcement for nyx.local:8000
+LOCK_FILE_PATH = "/tmp/payer_translation_nyx.lock"
+_nyx_lock_file = None
+
+def acquire_nyx_lock():
+    global _nyx_lock_file
+    try:
+        _nyx_lock_file = open(LOCK_FILE_PATH, "w")
+        fcntl.flock(_nyx_lock_file, fcntl.LOCK_EX | fcntl.LOCK_NB)
+        _nyx_lock_file.write(f"PID: {os.getpid()}\nTime: {datetime.datetime.now()}\n")
+        _nyx_lock_file.flush()
+    except IOError:
+        sys.stderr.write(f"\n[!] FATAL LOCK ERROR: Another translation process is ALREADY RUNNING and holding {LOCK_FILE_PATH}.\n")
+        sys.stderr.write(f"[!] Single-process rule enforced: Exiting process PID {os.getpid()} immediately.\n\n")
+        sys.exit(1)
 
 # Configuration
 API_URL = "http://nyx.local:8000/v1/chat/completions"
@@ -31,7 +47,7 @@ LANG_NAMES = {
     "fi": "Finnish", "hu": "Hungarian",
 }
 LESSONS = list(range(1, 62))
-MAIN_PAGES = ["index.md", "grammatik.md", "themen.md", "impressum.md"]
+MAIN_PAGES = ["index.md", "grammatik.md", "themen.md", "impressum.md", "settings.md", "licenses.md"]
 
 # licenses.md is handled by generate_licenses() — not via LLM — because it
 # contains critical HTML anchors and image markdown that LLMs corrupt.
@@ -897,23 +913,16 @@ def translate_text(text, target_lang):
 
     max_ph_retries = 4
     for ph_attempt in range(max_ph_retries):
-        # 3-Tier Fallback Hierarchy: Qwen (local) -> Gemini 2.5 Pro (fast & cheap cloud) -> Sonnet (cloud)
+        # 100% Local execution on nyx.local:8000 with progressive temperature scaling
         current_api_url = API_URL
         current_model = MODEL
         is_fallback = False
         
-        if ph_attempt == 2:
-            current_api_url = "https://openrouter.ai/api/v1/chat/completions"
-            current_model = "google/gemini-2.5-pro"
-            is_fallback = True
-        elif ph_attempt >= 3:
-            current_api_url = "https://openrouter.ai/api/v1/chat/completions"
-            current_model = "google/gemini-2.5-pro"
-            is_fallback = True
-
-        # Bump temperature and repetition_penalty on retries so the model makes different choices.
-        temperature = 0.1 if ph_attempt == 0 else 0.3
-        repetition_penalty = 1.15 if ph_attempt == 0 else 1.25
+        # Progressive temperature and repetition_penalty scaling on retries
+        temps = [0.1, 0.3, 0.5, 0.7]
+        penalties = [1.15, 1.20, 1.25, 1.30]
+        temperature = temps[min(ph_attempt, len(temps)-1)]
+        repetition_penalty = penalties[min(ph_attempt, len(penalties)-1)]
         
         # Prepare indexed prompt
         source_lines = protected.split('\n')
@@ -950,7 +959,7 @@ def translate_text(text, target_lang):
                 import subprocess as _sp
                 start_time = time.time()
                 curl_cmd = ['curl', '-s', '-X', 'POST', current_api_url, '-H', 'Content-Type: application/json']
-                api_key = os.environ.get('OPENROUTER_API_KEY', 'local') if 'openrouter.ai' in current_api_url else 'local'
+                api_key = 'local'
                 curl_cmd.extend(['-H', f"Authorization: Bearer {api_key}"])
                 curl_cmd.extend(['-d', json.dumps(data), '--max-time', '1800', '--keepalive-time', '15'])
                 
@@ -1557,7 +1566,7 @@ def sanitize_translation_output(text, lang):
 
 def translate_yaml_frontmatter(yaml_content, target_lang):
     """Safely translates only string values in a YAML frontmatter block."""
-    translatable_keys = {'name', 'text', 'tagline', 'title', 'details'}
+    translatable_keys = {'name', 'text', 'tagline', 'title', 'subtitle', 'description', 'details'}
     lines = yaml_content.split('\n')
     
     indices = []
@@ -1694,21 +1703,17 @@ def scan_german_residues(content: str) -> list:
     return flagged
 
 
-SONNET_API_URL = "https://openrouter.ai/api/v1/chat/completions"
-SONNET_MODEL = "anthropic/claude-3.5-sonnet"
+SONNET_API_URL = "http://nyx.local:8000/v1/chat/completions"
+SONNET_MODEL = "mlx-community/Qwen3.6-35B-A3B-4bit"
 
 
 def sonnet_patch_residues(content: str, flagged_lines: list, target_lang: str) -> str:
-    """Send ONLY the flagged lines (with context) to Sonnet for targeted patching.
+    """Send ONLY the flagged lines (with context) to local Qwen model for targeted patching.
 
     Returns the full content with residues replaced.
-    Uses OpenRouter with OPENROUTER_API_KEY env variable.
+    Runs 100% locally on nyx.local:8000 (0 cost).
     """
-    api_key = os.environ.get('OPENROUTER_API_KEY', '')
-    if not api_key:
-        sys.stdout.write("  [!] SONNET FALLBACK: OPENROUTER_API_KEY not set — skipping patch.\n")
-        sys.stdout.flush()
-        return content
+    api_key = "local"
 
     lang_name = LANG_NAMES.get(target_lang, target_lang)
     lines = content.split('\n')
@@ -2065,7 +2070,15 @@ def main():
 
         elapsed = time.time() - lang_start
         print(f"[{lang}] End:   {time.strftime('%H:%M:%S')} — {_fmt_elapsed(elapsed)}")
+        
+        # Check if language reached 100% or has incomplete files
+        lang_p = os.path.join(DOCS, lang)
+        if os.path.exists(lang_p):
+            written_files = len([f for f in glob.glob(os.path.join(lang_p, "**/*.md"), recursive=True) if "qa_viewer" not in f and "deleteme" not in f])
+            if written_files < 137:
+                print(f"[{lang}] ⚠️ NOTIZ: Lokale Ressourcen für '{lang}' auf nyx.local erschöpft ({written_files}/137 Dateien fertig). Warte auf explizite OpenRouter-Freigabe.")
 
 
 if __name__ == "__main__":
+    acquire_nyx_lock()
     main()

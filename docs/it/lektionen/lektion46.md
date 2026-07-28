@@ -347,14 +347,14 @@ Derivati:
 ⟪विषम⟫ 3: disuguale, irregolare, maligno
 
 :::
-⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : afferrare, agguantare, prendere
+⟪ग्रह्⟫ 9U **:sig[⟪गृ⟫]**⟪ह्णाति⟫ (gṛh-ṇā-ti) : afferrare, agguantare, prendere
 
 ::: indent
 Perfetto Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Futuro ⟪ग्र⟫***⟪ही⟫***⟪ष्यति⟫  
+Futurooo ⟪ग्र⟫**:sig[⟪ही⟫]**⟪ष्यति⟫  
 Passivo ⟪गृह्यते⟫  
 Causativo ⟪ग्राहयति⟫  
-PPP ⟪गृ⟫***⟪ही⟫***⟪त⟫  
+PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫  
 Infinito ⟪ग्रहितुम्⟫  
 Assoluto -⟪ग्राह्य⟫
 Derivati:
@@ -401,7 +401,7 @@ Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/it/licenses#lekt4605)
 
 ::: indent
 Perfetto II ⟪तुतोष⟫, ⟪तुतुषुर्⟫  
-Futuro ⟪तोक्ष्यति⟫  
+Futurooo ⟪तोक्ष्यति⟫  
 Passivo ⟪तुष्यते⟫  
 Causativo ⟪तोषयति⟫  
 PPP ⟪तुष्ट⟫  
@@ -412,7 +412,7 @@ Infinito ⟪तोष्टुम्⟫
 
 ::: indent
 Perfetto Vb ⟪ननाम⟫, ⟪नेमुर्⟫  
-Futuro ⟪नंस्यति⟫  
+Futurooo ⟪नंस्यति⟫  
 Passivo ⟪नम्यते⟫  
 Causativo ⟪नमयति⟫ ⟪।⟫ ⟪नामयति⟫  
 PPP ⟪नत⟫  
@@ -428,10 +428,10 @@ Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](
 
 ::: indent
 Perfetto II ⟪रुरोह⟫, ⟪रुरुहे⟫  
-Futuro ⟪रोक्ष्यति⟫  
+Futurooo ⟪रोक्ष्यति⟫  
 Passivo ⟪रुह्यते⟫  
-Causativo ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***⟪प⟫***⟪यति⟫  
-PPP. ***⟪रूढ⟫***  
+Causativo ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫**:sig[⟪प⟫]**⟪यति⟫  
+PPP. **:sig[⟪रूढ⟫]**  
 Infinito ⟪रोढुम्⟫
 
 :::
@@ -444,7 +444,7 @@ Fig.: [⟪अश्वरोहकः⟫](/it/licenses#lekt4606)
 
 ::: indent
 Perfetto IIIa ⟪जुहाव⟫, ⟪जुहुवे⟫  
-Futuro ⟪ह्वास्यति⟫  
+Futurooo ⟪ह्वास्यति⟫  
 Passivo ⟪हूयते⟫  
 Causativo ⟪ह्वाययति⟫  
 PPP ⟪हूत⟫  
@@ -466,14 +466,14 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 ⟪भ्रंश⟫ m.: il cadere, il distacco
 
-⟪श्रम्⟫ 4P ***⟪श्रा⟫***⟪म्यति⟫ : affaticarsi, stancarsi
+⟪श्रम्⟫ 4P **:sig[⟪श्रा⟫]**⟪म्यति⟫ : affaticarsi, stancarsi
 
 ::: indent
 Perfetto Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
-Futuro ⟪श्रमिष्यति⟫  
+Futurooo ⟪श्रमिष्यति⟫  
 Passivo ⟪श्रम्यते⟫  
 Causativo ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
-PPP ***⟪श्रान्⟫***⟪त⟫  
+PPP **:sig[⟪श्रान्⟫]**⟪त⟫  
 Infinito ⟪श्रमितुम्⟫  
 Assoluto ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
 Derivati:
@@ -496,7 +496,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : attaccare, aderire a (con l'ablativo)
+⟪सञ्ज्⟫ 1P **:sig[⟪सज⟫]**⟪ति⟫ : attaccare, aderire a (con l'ablativo)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -526,13 +526,13 @@ Inf. ⟪द्रोतुम्⟫
 Assol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : errare, vagare
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P **:sig[⟪भ्रा⟫]**⟪म्यति⟫ : errare, vagare
 
 ::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Caus. ⟪भ्रमयति⟫  
-PPP ***⟪भ्रा⟫***⟪न्त⟫  
+PPP **:sig[⟪भ्रा⟫]**⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Assol. -⟪भ्रम्य⟫
 da ciò:
@@ -570,10 +570,10 @@ PPP ⟪परिभूत⟫ 3: sconfitto, umiliato, abbattuto
 
 ::: indent
 ad es.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : sedersi
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫**:sig[⟪षी⟫]**⟪दति⟫ : sedersi
 
 :::
-⟪भोस्⟫ particella vocativa: esclamazione di indirizzo, ad es.: ehi, ehi là, oh, eh, ciao, hi! Spesso non traducibile. Questa particella presenta un Sandhi speciale: davanti a tutti i suoni sonori, la forma è ***⟪भो⟫***.
+⟪भोस्⟫ particella vocativa: esclamazione di indirizzo, ad es.: ehi, ehi là, oh, eh, ciao, hi! Spesso non traducibile. Questa particella presenta un Sandhi speciale: davanti a tutti i suoni sonori, la forma è **:sig[⟪भो⟫]**.
 
 ::: media
 ![](/images/lekt4611.webp)

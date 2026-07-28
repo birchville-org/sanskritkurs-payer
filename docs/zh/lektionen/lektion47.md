@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 47
 
-## 47.1. Der Imperativ (⟪लोट्⟫)
+## 47.1. Der Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Der Imperativ (⟪लोट्⟫) bezeichnet <!-- TODO: Fallback translation -->
@@ -63,7 +63,7 @@ Im Imperativ des klassischen Sanskrit sind die Formen der 1. Personen alte Konju
 ::: grammar-box
 Der Imperativ wird vom Präsensstamm gebildet. <!-- TODO: Fallback translation -->
 :::
-## 47.2. Bildung des Imperativs (⟪लोट्⟫) thematischer Präsensstämme
+## 47.2. Bildung des Imperativs (⟪लोट्⟫) thematischer Präsensstämme <!-- TODO: Fallback translation -->
 
 ### 47.2.1. 主题现在时词干的祈使语气词尾
 

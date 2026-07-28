@@ -64,7 +64,7 @@ Lihat nanti untuk Ddvandva dualis!
 
 Anggota pertama komposita (bukan hanya Ddvandvas) umumnya berbentuk **stam nomina** yang tidak berubah. Anggota-anggota tunggal komposita dihubungkan menurut aturan **Satzsandhi** (yaitu sandhi yang telah kita pelajari sejauh ini, berbeda dengan Wortsandhi yang diterapkan di dalam kata sebelum elemen formatif).
 
-### 5.3.2. Plural-Itaretaradvandva
+### 5.3.2. Jamak-Itaretaradvandva
 
 Contoh untuk Ddvandvas plural:
 

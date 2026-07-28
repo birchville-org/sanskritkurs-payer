@@ -1,5 +1,5 @@
 export const zhTW = {
-  label: 'ZH-TW - 繁體中文',
+  label: '🇹🇼 ZH-TW - 繁體中文',
   lang: 'zh-TW',
   link: '/zh-TW/',
   title: '梵文課程',

@@ -171,7 +171,7 @@ A -is és -us végződésű főnevek viszonylag ritkák.
 ::: media
 ![](/images/lekt4907.webp)
 Ábra: ⟪नमस्ते⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt4907))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt4907))
 :::
 ## 49.4. Szószedet
 
@@ -252,7 +252,7 @@ Kép: ⟪कुलूहलम्⟫
 ::: media
 ![](/images/lekt4903.jpg)
 Ábr.: ⟪विहंगः⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt4903))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt4903))
 :::
 ⟪वेष⟫ m.: ruha, megjelenés, külső
 
@@ -260,7 +260,7 @@ Kép: ⟪कुलूहलम्⟫
 ![](/images/lekt4904.webp)
 Ábr.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt4904))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt4904))
 :::
 ⟪छन्न⟫ n.: takaró, rejtőhely
 

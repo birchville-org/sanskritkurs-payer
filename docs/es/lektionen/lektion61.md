@@ -34,7 +34,7 @@ Paradigma:
 ### 61.1.2. Sustantivos radicales femeninos en -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Vor vokalischer Terminación wird -ī durch -iy ersetzt.**
 
 **Además de las formaciones con las terminaciones casuales regulares, en el Dat.Ab.Gen.Lok.sg. y Gen.pl. también se encuentran formaciones según el modelo de femeninos polisílabos en -ī (⟪देवी⟫).**
 :::
@@ -78,7 +78,7 @@ Fig.: ⟪स्त्रियः⟫
 
 **La declinación es idéntica en masculino y femenino.**
 
-**Irregularidad: Los compuestos en -⟪नी⟫ "que conduce" tienen en el locativo singular la terminación -ām (como ⟪देवी⟫):**
+**Irregularidad: Los compuestos en -:sig[⟪नी⟫] "que conduce" tienen en el locativo singular la terminación -ām (como ⟪देवी⟫):**
 por ejemplo, ⟪ग्रामणी⟩ "que conduce una banda/aldea": loc.sg.m.f. ⟪ग्रामण्याम्⟫
 :::
 Paradigmas:
@@ -112,7 +112,7 @@ Paradigmas:
 ::: grammar-box
 **Raíz ante vocal: -uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī**
+**Deklination analog zu den femininen Raíznomina auf -ī**
 :::
 Paradigma:
 
@@ -158,7 +158,7 @@ Fig.: ⟪रथ्याप्वः⟫
 ### 61.1.6. Declinación de femeninos polisílabos en -ū
 
 ::: grammar-box
-**Los sustantivos femeninos polisílabos en -ū se declinan de manera análoga a los temas masculinos polisílabos en -ī (⟪देवी⟫), pero terminan en -s en el Nominativo singular.**
+**Los sustantivos femeninos polisílabos en -ū se declinan de manera análoga a los temas masculinos polisílabos en -ī (⟪देवी⟫), pero terminan en -s en el Nominativooo singular.**
 :::
 Paradigma:
 
@@ -315,8 +315,8 @@ por ejemplo
     *   **Presentes pasivos: ⟪बुध्⟫ : ⟪बोबुध्यते⟫ ; ⟪भू⟫ : ⟪बोभूय्यते⟫**
     *   **Perfecto: perifrástico: ⟪बोबुधाञ्चक्रे⟫ ; ⟪बोभूयाञ्चक्रे⟫**
     *   **Aoristo: aoristo iṣ (Aoristo 5): ⟪अबोबुधिष्ट⟫ ; ⟪अबोभूयिष्ट⟫**
-    *   **Futuro: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
-    *   **Futuro perifrástico: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
+    *   **Futurooo: seṭ: ⟪बोबुधिष्यते⟫ ; ⟪बोभूयिष्यते⟫**
+    *   **Futurooo perifrástico: ⟪बोबुधिता⟫ ; ⟪बोभूयिता⟫**
 :::
 ### 61.3.2. Intensivo de Parasmaipada
 
@@ -349,7 +349,7 @@ Imperfecto (⟪लङ्⟫):
 | 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
-Imperativo (⟪लोट्⟫):
+Imperativooo (⟪लोट्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -358,7 +358,7 @@ Imperativo (⟪लोट्⟫):
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
 :::
-Optativo (⟪विधिलिङ्⟫):
+Optativooo (⟪विधिलिङ्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -718,7 +718,7 @@ Femenino (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Liberación al océano de la literatura sánscrita: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+## 61.9. Liberación al océano de la literatura sánscrita: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
 
 Tras completar el curso de sánscrito, comienza realmente la "navegación" en el océano de la literatura sánscrita. Dado que este océano está lleno de obstáculos, es apropiado comenzar esta nueva etapa de la vida con una invocación a Gaṇeśa:
 
@@ -751,7 +751,7 @@ Tāla: Rūpaka: o |4
 Fig.: La melodía, referida a do, puede transponerse según el registro vocal.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt6119))
 :::
-śrīgaṇanātha / ⟪श्रीगणनाथ⟫ se encuentra al inicio de la enseñanza en la música canaresa. Véase el vídeo: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Acceso el 2009-03-05
+śrīgaṇanātha / :sig[⟪श्रीगणनाथ⟫] se encuentra al inicio de la enseñanza en la música canaresa. Véase el vídeo: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Acceso el 2009-03-05
 
 Una vez que ha aprendido los fundamentos del sánscrito, espero que se sienta como los niños pequeños en el video: a veces torpe, pero con ganas de aprender y conocer, y disfrutando del proceso. Mantenga "una mente de principiante" hasta el final de su vida.
 

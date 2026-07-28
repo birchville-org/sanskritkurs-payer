@@ -87,7 +87,7 @@ devī + indrāṇī » devīndrāṇī "Indrāṇī on jumalatar" = ⟪देव
 ::: media
 ![](/images/lekt0301.webp)
 Kuv.: Indra ja Indrāṇī norsu Airavatan päällä, miniatyyri, Rājasthān, 1670/80
-(Kuv lähde: [Details](/fi/licenses#lekt0301))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt0301))
 :::
 
 ::: grammar-box
@@ -114,7 +114,7 @@ Tälle sandhille pätee siis seuraava kaava:
 
 ::: media
 ![](/images/lekt0302.jpg)
-(Kuv lähde: [Details](/fi/licenses#lekt0302))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt0302))
 :::
 Katso myöhemmin tätä ns. klaaniluokitusta!
 
@@ -177,7 +177,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaišyat ovat kaksinkertaisesti syn
 ::: media
 ![](/images/lekt0303.webp)
 Kuv.: Durgā = ⟪दुर्गा⟫, Orissa
-(Kuv lähde: [Details](/images/lekt0303))
+(Kuv lähde: [Tiedot](/images/lekt0303))
 :::
 **sādhvī** f. = ⟪साध्वी⟫ : fem. sanasta sādhu.
 

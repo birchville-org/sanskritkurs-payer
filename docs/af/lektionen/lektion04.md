@@ -1,9 +1,9 @@
 ---
-title: Les 4
-subtitle: "Vraag- en aanwysende voornaamwoorde in die nominatief"
+title: Lektion 4
+subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
 lesson_id: 4
 last_reconstructed: 2026-05-07
-category: "Grammatika"
+category: "Grammatik"
 status: stable
 ---
 
@@ -35,7 +35,7 @@ status: stable
 ::: grammar-box
 | **Stamme** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫:br"hy, sy, dit; die":br(Reeds genoem)** | **etad = ⟪एतद्⟫:br"hierdie":br(Baie naby aan die spreker)** | **idam = ⟪इदम्⟫:br"hierdie":br(Naby)** |
+| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
 | **Nominatief enkelvoud** ||||
 | **Onsydig** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
 | **Manlik** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
@@ -81,11 +81,11 @@ Met behulp van hierdie pronomina vorm 'n mens bv. die volgende vraagformules:
 | | | | |
 | :--- | :--- | :--- | :--- |
 | **Enkelvoud** | **Onsydig** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "Wat is dit?" |
-| ^^| **Manlik** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Wie is dit?":br"Wat is die?" |
-| ^^| **Vroulik** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Wie is dit?":br"Wie is die?" |
+| ^^ | **Manlik** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "Wie is dit?":br"Wat is die?" |
+| ^^ | **Vroulik** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "Wie is dit?":br"Wie is die?" |
 | **Meervoud** | **Onsydig** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
-|^^ | **Manlik** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
-| ^^| **Vroulik** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
+| ^^ | **Manlik** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
+| ^^ | **Vroulik** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
 :::
 'n Voorbeeld van ander vrae:
 

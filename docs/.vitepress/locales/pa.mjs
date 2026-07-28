@@ -1,6 +1,6 @@
 
 export const pa = {
-  label: 'PA - ਪੰਜਾਬੀ',
+  label: '🇮🇳 PA - ਪੰਜਾਬੀ',
   lang: 'pa-IN',
   link: '/pa/',
   title: 'ਸੰਸਕ੍ਰਿਤ ਕੋਰਸ',

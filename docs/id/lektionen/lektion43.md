@@ -21,21 +21,21 @@ status: stable
 :::
 Perhatikan bahwa akhiran sekunder untuk orang kedua jamak identik dengan akhiran sekunder untuk orang ketiga tunggal aktif.
 
-## 43.2. Bildung  Verbalformen  2. Person (⟪मध्यमः⟫)
+## 43.2. Pembentukan  Verbalformen  2. Person (⟪मध्यमः⟫)
 
 2nd person:
 
-*   Singular: "you" (singular)
-*   Plural: "you" (plural, more than two!)
+*   Tunggal: "you" (singular)
+*   Jamak: "you" (plural, more than two!)
 
-### 43.2.1. Thematische Stämme
+### 43.2.1. Tema-tema Kata Benda
 
 ::: media
 ![](/images/lekt4301.jpg)
 :::
 Bentuk 3.sg. Ă. Imperfek atau Optatif secara formal identik dengan bentuk 2.pl. P. Imperfek atau Optatif!
 
-#### 43.2.1.1. Erste Presentklasse (⟪भ्वादि⟫)
+#### 43.2.1.1. Erste Kelas Present (⟪भ्वादि⟫)
 
 ⟪भू⟫ 1P
 
@@ -46,7 +46,7 @@ Bentuk 3.sg. Ă. Imperfek atau Optatif secara formal identik dengan bentuk 2.pl.
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अभवस्⟫ | ⟪अभवत⟫ | \<⟪अभवथास्⟫\> | \<⟪अभवध्वम्⟫\> |
 | **Optatif** :br⟪विधिलिङ्⟫ | ⟪भवेस्⟫ | ⟪भवेत⟫ | \<⟪भवेथास्⟫\> | \<⟪भवेध्वम्⟫\> |
 
-#### 43.2.1.2. Sechste Presentklasse (⟪तुदादि⟫)
+#### 43.2.1.2. Kelas Present Keenam (⟪तुदादि⟫)
 
 ⟪विश्⟫ 6P
 
@@ -57,7 +57,7 @@ Bentuk 3.sg. Ă. Imperfek atau Optatif secara formal identik dengan bentuk 2.pl.
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अविशस्⟫ | ⟪अविशत⟫ | \<⟪अविशथास्⟫\> | \<⟪अविशध्वम्⟫\> |
 | **Optatif** :br⟪विधिलिङ्⟫ | ⟪विशेस्⟫ | ⟪विशेत⟫ | \<⟪विशेथास्⟫\> | \<⟪विशेध्वम्⟫\> |
 
-#### 43.2.1.3. Vierte Presentklasse (⟪दिवादि⟫)
+#### 43.2.1.3. Vierte Kelas Present (⟪दिवादि⟫)
 
 ⟪नृत्⟫ 4P
 
@@ -68,7 +68,7 @@ Bentuk 3.sg. Ă. Imperfek atau Optatif secara formal identik dengan bentuk 2.pl.
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अनृत्यस्⟫ | ⟪अनृत्यत⟫ | \<⟪अनृत्यथास्⟫\> | \<⟪अनृत्यध्वम्⟫\> |
 | **Optatif** :br⟪विधिलिङ्⟫ | ⟪नृत्येस्⟫ | ⟪नृत्येत⟫ | \<⟪नृत्येथास्⟫\> | \<⟪नृत्येध्वम्⟫\> |
 
-#### 43.2.1.4. Zehnte Presentklasse (⟪चुरादि⟫) dan Kausatife
+#### 43.2.1.4. Zehnte Kelas Present (⟪चुरादि⟫) dan Kausatife
 
 ⟪चुर्⟫ 10U
 
@@ -91,7 +91,7 @@ Bentuk 3.sg. Ă. Imperfek atau Optatif secara formal identik dengan bentuk 2.pl.
 
 #### 43.2.1.6. Futur (⟪ऌट्⟫)
 
-#### 43.2.1.6.1. ⟪अनिट्⟫-Bildungen
+#### 43.2.1.6.1. ⟪अनिट्⟫-Pembentukanen
 
 ⟪दा⟫ 3U
 
@@ -100,7 +100,7 @@ Bentuk 3.sg. Ă. Imperfek atau Optatif secara formal identik dengan bentuk 2.pl.
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪दास्यसि⟫ | ⟪दास्यथ⟫ | ⟪दास्यसे⟫ | ⟪दास्यध्वे⟫ |
 
-#### 43.2.1.6.2. ⟪सेट्⟫-Bildungen
+#### 43.2.1.6.2. ⟪सेट्⟫-Pembentukanen
 
 ⟪भू⟫ 1P
 
@@ -111,8 +111,8 @@ Bentuk 3.sg. Ă. Imperfek atau Optatif secara formal identik dengan bentuk 2.pl.
 
 ## 43.3. Pronomina Persona Kedua
 
-*   Singular: ⟪त्वद्⟫ "you"
-*   Plural: ⟪युष्मद्⟫ "you"
+*   Tunggal: ⟪त्वद्⟫ "you"
+*   Jamak: ⟪युष्मद्⟫ "you"
 
 ::: grammar-box
 | | ⟪एकवचनम्⟫ (⟪त्वद्⟫) | ⟪बहुवचनम्⟫ (⟪युष्मद्⟫) |
@@ -139,7 +139,7 @@ Bentuk-bentuk ⟪त्वा⟫, ⟪ते⟫, dan ⟪वस्⟫ tidak boleh 
 ::: media
 ![](/images/lekt4302.webp)
 Fig.: ⟪आपणः⟫
-(Image source: [Details](/en/licenses#lekt4302))
+(Image source: [Detail](/en/licenses#lekt4302))
 :::
 ⟪सत्वर⟫ 3: fast, hurried
 
@@ -148,7 +148,7 @@ Fig.: ⟪आपणः⟫
 ::: media
 ![](/images/lekt4303.webp)
 Fig.: ⟪पण्यानि⟫
-(Image source: [Details](/en/licenses#lekt4303))
+(Image source: [Detail](/en/licenses#lekt4303))
 :::
 ⟪आम्⟫ : yes
 
@@ -171,14 +171,14 @@ Fig.: ⟪पण्यानि⟫
 ::: media
 ![](/images/lekt4304.webp)
 Fig.: ⟪विपणिः⟫
-(Image source: [Details](/en/licenses#lekt4304))
+(Image source: [Detail](/en/licenses#lekt4304))
 :::
 ⟪वणिज्⟫ m.: merchant
 
 ::: media
 ![](/images/lekt4305.webp)
 Fig.: ⟪वणिक्⟫
-(Image source: [Details](/en/licenses#lekt4305))
+(Image source: [Detail](/en/licenses#lekt4305))
 :::
 ⟪वर⟫ 3: best
 
@@ -189,7 +189,7 @@ Fig.: ⟪वणिक्⟫
 ::: media
 ![](/images/lekt4306.webp)
 Fig.: ⟪वत्सः⟫
-(Image source: [Details](/en/licenses#lekt4306))
+(Image source: [Detail](/en/licenses#lekt4306))
 :::
 ⟪उत्तम⟫ 3: highest, best
 
@@ -210,7 +210,7 @@ Fig.: ⟪वत्सः⟫
 ::: media
 ![](/images/lekt4307.webp)
 Fig.: ⟪तोलन्ति⟫
-(Image source: [Details](/en/licenses#lekt4307))
+(Image source: [Detail](/en/licenses#lekt4307))
 :::
 ⟪कर्गल⟫ n.: paper
 
@@ -331,7 +331,7 @@ B) Translate into Sanskrit:
 ::: media
 ![](/images/lekt4308.webp)
 Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
-(Image source: [Details](/en/licenses#lekt4308))
+(Image source: [Detail](/en/licenses#lekt4308))
 :::
 ## 43.6. ⟪संवादः⟫ = Gespräch
 
@@ -366,7 +366,7 @@ Fig.: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 ::: media
 ![](/images/lekt4309.webp)
 Fig.: ⟪शर्करा⟫
-(Image source: [Details](/en/licenses#lekt4309))
+(Image source: [Detail](/en/licenses#lekt4309))
 :::
 
 ::: deleteme-box

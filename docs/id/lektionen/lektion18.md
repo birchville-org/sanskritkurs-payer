@@ -251,7 +251,7 @@ sam-kṛ + -a = ⟪संस्कार⟫ m.: konsekrasi, persiapan; ritual tr
 ![](/images/lekt1804.webp)
 Fig.: ⟪विवाहः⟫
 Pernikahan = ⟪विवाह⟫ m., sebuah ⟪संस्कारः⟫ yang penting
-(Sumber gambar: [Details](/en/licenses#lekt1804))
+(Sumber gambar: [Detail](/en/licenses#lekt1804))
 :::
 upa-nī + -ana = ⟪उपनयन⟫ n.: pengantar dekat (ke api korban) = upacara di mana benang suci (⟪यज्ञोपवीत⟫ n.) diletakkan pada anggota laki-laki dari tiga kasta teratas dan mantra suci ⟪सावित्री⟫ dibisikkan ke telinga mereka, yang harus diucapkan setiap hari saat matahari terbit dan tenggelam mulai saat itu. Bagi para Brahmin, ini adalah Ṛgveda III.62.10:
 
@@ -264,7 +264,7 @@ Through the Upanayana, the second birth occurs, therefore: ⟪द्विज⟫
 ![](/images/lekt1801.webp)
 Fig.: ⟪उपनयनम्⟫
 "Seorang anak laki-laki muda terlihat selama upacara upanayana. Benang kuning tipis yang berjalan dari bahu kiri ke pinggang adalah Yagnopaivta. Perhatikan juga ikat pinggang dari rumput munja di sekitar pinggang. Cabang kecil di tangan kanan (biasanya dari pohon peepa) menandakan masuknya ke dalam Brahmacharya."
-(Sumber gambar: [Details](/en/licenses#lekt1801))
+(Sumber gambar: [Detail](/en/licenses#lekt1801))
 :::
 ## 18.4. Daftar Kata
 
@@ -398,7 +398,7 @@ A) Resolve the following Sanskrit compounds and provide translation suggestions:
 ![](/images/lekt1802.webp)
 Fig.: ⟪मृतिसाधनी⟫ ⟪काली⟫
 1770 Print
-(Image source: [Details](/en/licenses#lekt1802))
+(Image source: [Detail](/en/licenses#lekt1802))
 :::
 B) Terjemahkan menggunakan verba dari kelas presens ke-2:
 
@@ -418,7 +418,7 @@ Demikianlah ia yang telah [melalui jalan reinkarnasi] dengan baik berbicara kepa
 ![](/images/lekt1803.webp)
 Fig.: ⟪सुगतः⟫
 ⟪गन्धार⟫ 1st/2nd cent. CE
-(Sumber gambar: [Details](/en/licenses#lekt1803))
+(Sumber gambar: [Detail](/en/licenses#lekt1803))
 :::
 C) Berikan definisi Yoga dalam bahasa Sanskerta dengan dua cara: sekali menggunakan majemuk (compound), dan sekali lagi dengan menguraikan majemuk tersebut.
 

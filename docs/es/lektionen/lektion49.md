@@ -36,7 +36,7 @@ status: stable
 ### 49.1.2. Quinta clase de presente (⟪स्वादि⟫)
 
 ::: grammar-box
-La 2.sg.P Imperativo es sin desinencia en raíces de la 5. y 8. clase, donde al -u final del sufijo solo le precede una consonante.
+La 2.sg.P Imperativooo es sin desinencia en raíces de la 5. y 8. clase, donde al -u final del sufijo solo le precede una consonante.
 :::
 ⟪सु⟫ 5U
 
@@ -45,7 +45,7 @@ La 2.sg.P Imperativo es sin desinencia en raíces de la 5. y 8. clase, donde al 
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | *⟪सुनु⟫* | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *:sig[⟪सुनु⟫]* | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
 :::
 ⟪आप्⟫ 5P
@@ -67,7 +67,7 @@ La 2.sg.P Imperativo es sin desinencia en raíces de la 5. y 8. clase, donde al 
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪तनवानि⟫ | ⟪तनवाम⟫ | ⟪तनवै⟫ | ⟪तनवामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | *⟪तनु⟫* | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *:sig[⟪तनु⟫]* | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪तनोतु⟫ | ⟪तन्वन्तु⟫ | ⟪तनुताम्⟫ | ⟪तन्वताम्⟫ |
 :::
 ⟪कृ⟫ 8U
@@ -77,7 +77,7 @@ La 2.sg.P Imperativo es sin desinencia en raíces de la 5. y 8. clase, donde al 
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪करवाणि⟫ | ⟪करवाम⟫ | ⟪करवै⟫ | ⟪करवामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | *⟪कुरु⟫* | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *:sig[⟪कुरु⟫]* | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
 :::
 ### 49.1.4. Novena clase de presente (⟪क्र्यादि⟫)
@@ -102,7 +102,7 @@ Las raíces de la 9.ª clase que terminan en consonante reemplazan el -nī-hi fi
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | *⟪गृहाण⟫* | ⟪गृह्णीत⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *:sig[⟪गृहाण⟫]* | ⟪गृह्णीत⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
 :::
 ## 49.2. Declinación de las raíces nominales en -as, -is, -us
@@ -211,7 +211,7 @@ Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ ***⟪तू्र्⟫***⟪ण⟫
+PPP ⟪त्वरित⟫ ⟪।⟫ **:sig[⟪तू्र्⟫]**⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
 :::
 ⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : dañar

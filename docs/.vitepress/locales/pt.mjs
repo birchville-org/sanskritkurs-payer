@@ -1,5 +1,5 @@
 export const pt = {
-  label: 'PT - Português',
+  label: '🇵🇹 PT - Português',
   lang: 'pt-PT',
   link: '/pt/',
   title: 'Curso de Sânscrito',

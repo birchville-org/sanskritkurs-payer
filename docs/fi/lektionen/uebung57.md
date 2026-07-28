@@ -64,7 +64,7 @@ Määritä ja käännä seuraavat muodot:
 | ⟪४⟫. | ⟪ज्येष्ठायाः⟫ | :sig[⟪ज्येष्ठ⟫]: Gen. Abl. Sg. f. (parhaiden / vanhimpien) |
 | ⟪५⟫. | ⟪संयक्⟫ | oikein (adv.) |
 | ⟪६⟫. | ⟪असे⟫ | :sig[⟪असि⟫] m.: Vok. Sg. (miekka!) |
-| ⟪७⟫. | ⟪असि⟫ | :sig[⟪अस्⟫] 2P: 2. Sg. Ind. Präs. P. (sinä olet) |
+| ⟪७⟫. | :sig[⟪असि⟫] | :sig[⟪अस्⟫] 2P: 2. Sg. Ind. Präs. P. (sinä olet) |
 | ⟪८⟫. | ⟪अचैष्ट⟫ | :sig[⟪चि⟫] 5U: 3. Sg. s-Aor. Ā. (hän on pystyttänyt) |
 | ⟪९⟫. | ⟪अचेष्ट⟫ | :sig[⟪चि⟫]: s-Aor. Ā. (korjaus: s-Aor. Ā. kuten yllä) |
 | ⟪१०⟫. | ⟪अभग्नम्⟫ | *⟪अ⟫-* + PPP :sig[⟪भञ्ज्⟫] 7P: Nom. Akk. Sg. n.; Akk. Sg. m. (murtumaton) |
@@ -81,7 +81,7 @@ Määritä ja käännä seuraavat muodot:
 | ⟪२१⟫. | ⟪रिपू⟫ | :sig[⟪रिपु⟫] m.: Nom. Akk. Vok. Du. (kaksi vihollista) |
 | ⟪२२⟫. | ⟪अदात्⟫ | :sig[⟪दा⟫] 3U: 3. Sg. Wurzelaor. P. (hän antoi) |
 | ⟪२३⟫. | ⟪आदत्⟫ | :sig[⟪अद्⟫] 2P: 3. Sg. Impf. P. (hän söi) |
-| ⟪२४⟫. | ⟪अवोढ⟫ | :sig[⟪वह्⟫] 1U: 3. Sg. s-Aor. Ā. (hän ajoi); *⟪अ⟫-⟪वह्⟫*: Vok. Sg. m. n. |
+| ⟪२४⟫. | ⟪अवोढ⟫ | :sig[⟪वह्⟫] 1U: 3. Sg. s-Aor. Ā. (hän ajoi); *⟪अ⟫-:sig[⟪वह्⟫]*: Vok. Sg. m. n. |
 | ⟪२५⟫. | ⟪अवोचम्⟫ | :sig[⟪वच्⟫] 2P: 1. Sg. a-Aor. P. (minä puhuin) |
 | ⟪२६⟫. | ⟪दिक्⟫ | :sig[⟪दिश्⟫] f.: Nom. Sg. (suunta) |
 | ⟪२७⟫. | ⟪शुनोः⟫ | :sig[⟪श्वन्⟫] m.: Gen. Lok. Du. (koirat) |
@@ -112,7 +112,7 @@ Määritä ja käännä seuraavat muodot:
 | ⟪५१⟫. | ⟪अमुत्र⟫ | siellä (adv.) |
 | ⟪५२⟫. | ⟪पत्युः⟫ | :sig[⟪पति⟫] m.: Abl. Gen. Sg. (puolison) |
 | ⟪५३⟫. | ⟪क्षेपीयन्⟫ | Komparativ zu :sig[⟪क्षिप्र⟫]: Vok. Sg. m. (hyvin nopea!) |
-| ⟪५४⟫. | ⟪आदिषि⟫ | *⟪आ⟫-⟪दा⟫* 3Ā: 1. Sg. s-Aor. Ā. (otin) |
+| ⟪५४⟫. | ⟪आदिषि⟫ | *⟪आ⟫-:sig[⟪दा⟫]* 3Ā: 1. Sg. s-Aor. Ā. (otin) |
 | ⟪५५⟫. | ⟪पाणी⟫ | :sig[⟪पाणि⟫] m.: Nom. Akk. Vok. Du. (molemmat kädet) |
 | ⟪५६⟫. | ⟪अस्प्राक्षम्⟫ | :sig[⟪स्पृश्⟫] 6P: 1. Sg. s-Aor. P. (kosketin) |
 :::

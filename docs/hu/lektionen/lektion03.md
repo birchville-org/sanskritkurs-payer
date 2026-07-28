@@ -27,7 +27,7 @@ A következő, magánhangzóra végződő főnévi tőkék is -s-ra végződő n
 - **-i** végű nőnemek: pl. **śruti** n. "a hallás" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **-u** végű nőnemek: pl. **dhenu** n. "tehenes" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominativus egyest végződés nélkül
+### 3.1.2. alanyeset (nominativus)us egyest végződés nélkül
 
 A nominativus egyet végződés nélkül képezik:
 
@@ -177,7 +177,7 @@ A **smṛti** kifejezés különösen a dharma-kézikönyvekre utal.
 ::: media
 ![](/images/lekt0303.webp)
 Ábra: Durgā = ⟪दुर्गा⟫, Orissa
-(Képmeghatározás: [Details](/images/lekt0303))
+(Képmeghatározás: [Részletek](/images/lekt0303))
 :::
 **sādhvī** f. = ⟪साध्वी⟫ : nőnemű a sādhu szóhoz.
 

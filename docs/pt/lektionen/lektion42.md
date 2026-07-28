@@ -301,7 +301,7 @@ Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 
 :sig[⟪सीता⟫]⟪विवाहः⟫
 
-⟪पुरा⟫ :sig[⟪मिथिलायां⟫] :sig[⟪जनको⟫] ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
+⟪पुरा⟫ :sig[⟪मिथिलायां⟫] :sig[⟪जनको⟫] ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ :sig[⟪सीता⟫] ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
 
 ⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ :sig[⟪गुरुतरं⟫] ⟪किमपि⟫ :sig[⟪धनुरा⟫]⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
 
@@ -322,11 +322,11 @@ Fig.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभू
 
 Explicação das expressões destacadas em **vermelho**:
 
-⟪सीता⟫ f. Nome próprio: filha do rei ⟪जनक⟫ de ⟪विदेह⟫. Ela saiu da terra quando o rei uma vez arava o campo, daí o seu nome: ⟪सीता⟫ f. "sulco de arado"
+:sig[⟪सीता⟫] f. Nome próprio: filha do rei ⟪जनक⟫ de ⟪विदेह⟫. Ela saiu da terra quando o rei uma vez arava o campo, daí o seu nome: :sig[⟪सीता⟫] f. "sulco de arado"
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
-Fig.: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
+Fig.: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Fonte da imagem: [Detalhes](/licenses#lekt4205))
 :::
 ⟪मिथिला⟫ f. Nome próprio: capital de ⟪विदेह⟫
@@ -344,9 +344,9 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 ⟪शतशस्⟫ Adv.: às centenas
 
-⟪लङ्का⟫ f. Nome próprio: é identificada com o atual Sri Lanka (ශ්‍රී ලංකාව / இலங்கை)
+:sig[⟪लङ्का⟫] f. Nome próprio: é identificada com o atual Sri Lanka (ශ්‍රී ලංකාව / இலங்கை)
 
-⟪रावण⟫ m. Nome próprio; soberano de ⟪लङ्का⟫, soberano dos ⟪राक्षस⟫.
+⟪रावण⟫ m. Nome próprio; soberano de :sig[⟪लङ्का⟫], soberano dos ⟪राक्षस⟫.
 
 ::: media
 ![lekt4207.jpg](/images/lekt4207.webp)
@@ -361,7 +361,7 @@ Fig.: ⟪रावणः⟫
 
 ⟪लक्ष्मन⟫ m. Nome próprio: Filho de ⟪दशरथ⟫
 
-⟪विश्वामित्र⟫ m. Nome próprio: ⟪ऋषि⟫, partiu com ⟪राम⟫ e ⟪लक्ष्मन⟫ para matar demônios; por isso, ambos recebem dele armas mágicas.
+:sig[⟪विश्वामित्र⟫] m. Nome próprio: ⟪ऋषि⟫, partiu com ⟪राम⟫ e ⟪लक्ष्मन⟫ para matar demônios; por isso, ambos recebem dele armas mágicas.
 
 ⟪सीतारामयोस्⟫ Gen.Loc.Dual de ⟪सीताराम⟫
 
@@ -371,7 +371,7 @@ Fig.: ⟪रावणः⟫
 * **Fig. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. (Fonte da imagem: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Acessado em 2009-01-04. -- Licença Creative Commons (atribuição, uso não comercial, compartilha igual))
 * **Fig. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Fonte da imagem: Wikipedia. Domínio público)
 * **Fig. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ com carro). (Fonte da imagem: Wikipedia. Domínio público)
-* **Fig. lekt4205**: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. Séc. XVII. (Fonte da imagem. Wikipedia. Domínio público)
+* **Fig. lekt4205**: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. Séc. XVII. (Fonte da imagem. Wikipedia. Domínio público)
 * **Fig. lekt4206**: Localização de ⟪मिथिला⟫ e ⟪विदेह⟫, ⟪अयोध्या⟫ e ⟪कोसल⟫. (Fonte da imagem: JIJITH NR / Wikipedia. GNU FDLicense)
 * **Fig. lekt4207**: ⟪रावणः⟫. Máscara de dança Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Fonte da imagem: Manohara Upadhya / Wikipedia. GNU FDLicense)
 * **Fig. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Pintura de ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Fonte da imagem: Wikipedia. Domínio público)

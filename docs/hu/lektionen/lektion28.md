@@ -211,10 +211,10 @@ Példa:
 :::
 Példák:
 
-| Tő | Kausatív 3. sg. indikativum jelen idő | Jelentés |
+| Tő | Kausativ 3. sg. Indikativ Jelen idő | Jelentés |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | felállít, elhelyez |
-| ⟪इ⟫ + ⟪अधि⟫:br"tanulmányoz" | ⟪अध्यापयति⟫:br(kivétel: adhi+ā-paya-ti):br(a magyarázathoz lásd Thumb-Hauschildt I. kötet, 2. fejezet, 341. oldal) | tanulmányoztat, oktat |
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Magyarázat siehe Thumb-Hauschildt Bd. I,2 S. 341) | tanulmányoztat, oktat |
 
 ::: grammar-box
 **Rendszertelen alakítások:**
@@ -249,7 +249,7 @@ Míg a passzív általában a mély fokú gyökből képződik az eredeti gyök 
 **-ay-iṣya-**
 
 Példa:
-**budh** Futurum kausatívum: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): „felébreszt”
+**budh** Jövő időum kausatívum: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): „felébreszt”
 :::
 
 ## 28.6. A PPP (⟪क्त⟫) képzése a kausatívból

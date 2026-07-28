@@ -27,7 +27,7 @@ Päättteen -tha edellä useimmissa juurissa, jotka päättyvät -ṛ, ei ole li
 ### 46.1.2. Päättteen -dhve äänteenmuutos
 
 ::: grammar-box
-Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
+Die Pääte -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
 ### 46.1.3. Perfekti tyyppi I: ei vartalon astevaihtelua
 
@@ -354,7 +354,7 @@ Perf. Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫
 Fut. ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
 Kaus.⟪ग्राहयति⟫
-PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫
+PPP :sig[⟪गृ⟫]:sig[⟪ही⟫]⟪त⟫
 Inf. ⟪ग्रहितुम्⟫
 Absol. -⟪ग्राह्य⟫
 siitä:

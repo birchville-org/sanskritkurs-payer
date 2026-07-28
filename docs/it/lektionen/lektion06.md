@@ -48,14 +48,14 @@ Una forma verbale finita, cioè una forma verbale con desinenza personale, espri
 
 4. **Modalità** (Modus):
    1. **Indicativo**: Forma affermativa
-   2. **Optativo**: Forma desiderativa e forma di possibilità
-   3. **Imperativo**: Forma imperativa
+   2. **Ottativoo**: Forma desiderativa e forma di possibilità
+   3. **Imperativooo**: Forma imperativa
 5. **Tempo** (Tempus):
    1. **Presente**: Presente
    2. **Imperfetto**
    3. **Perfetto**
    4. **Aoristo**
-   5. **Futuro**: Futuro
+   5. **Futurooo**: Futurooo
    6. **Condizionale**
 
 Le tempori sono formate da stemmi temporali: stemma del presente, stemma dell’aoristo, stemma del perfetto, stemma del futuro.

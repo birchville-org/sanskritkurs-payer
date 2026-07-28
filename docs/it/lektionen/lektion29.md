@@ -116,21 +116,21 @@ Tradurre letteralmente in un buon tedesco e imparare a memoria i testi sanscriti
 
 1\. Definizione di ⟪अविद्या⟫ :
 
-⟪अनित्याशुचिदुःखा⟫*⟪नात्मसु⟫* ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
+⟪अनित्याशुचिदुःखा⟫*:sig[⟪नात्मसु⟫]* ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
 
 Spiegazione: ⟪आत्मसु⟫ = Loc. sg. di ⟪आत्मन्⟫ m. "anima; l'Assoluto, nella misura in cui si realizza nell'individuo"
 
 2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. sull'uso corretto dello ⟪दण्ड⟫ :
 
-⟪तीक्ष्णदण्डो⟫ ⟪भूताना⟫*⟪मुद्वेजनीयो⟫* ⟪भवति⟫ ⟪।८।⟫
+⟪तीक्ष्णदण्डो⟫ ⟪भूताना⟫*:sig[⟪मुद्वेजनीयो⟫]* ⟪भवति⟫ ⟪।८।⟫
 
 ⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।९।⟫
 
 ⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।१०।⟫
 
-⟪सु⟫*⟪विज्ञात⟫*⟪प्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामै⟫*⟪र्योजयति⟫* ⟪।११।⟫
+⟪सु⟫*:sig[⟪विज्ञात⟫]*⟪प्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामै⟫*:sig[⟪र्योजयति⟫]* ⟪।११।⟫
 
-⟪दुष्प्रणीतः⟫ *⟪कामक्रोधाभ्याम⟫*⟪वज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, *⟪किमङ्ग⟫* ⟪पुनर्गृहस्थान्⟫ ⟪।१२।⟫
+⟪दुष्प्रणीतः⟫ *:sig[⟪कामक्रोधाभ्याम⟫]*⟪वज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, *:sig[⟪किमङ्ग⟫]* ⟪पुनर्गृहस्थान्⟫ ⟪।१२।⟫
 
 ⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।१३।⟫
 
@@ -152,13 +152,13 @@ Spiegazioni:
 
 ⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "qualcosa (qualcuno), davanti al quale si deve rabbrividire"
 
-⟪।११।⟫ ⟪विज्ञात⟫ ⟪३⟫ "riconosciuto"; n.: riconoscimento
+⟪।११।⟫ :sig[⟪विज्ञात⟫] ⟪३⟫ "riconosciuto"; n.: riconoscimento
 
 ⟪।११।⟫ ⟪योजयति⟫ (Caus. di ⟪युज्⟫) "attaccare al giogo, collegare con, unire con"
 
 ⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Du. masc. di ⟪कामक्रोध⟫ (Dvandva duale)
 
-⟪।१२।⟫ ⟪किमङ्ग⟫ "quanto più"
+⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "quanto più"
 
 ⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. masc. di ⟪बलीयस्⟫ ⟪३⟫ "più forte"
 
@@ -170,7 +170,7 @@ Spiegazioni:
 
 ⟪वर्त्मसु⟫ : Loc. pl. neut. di ⟪वर्त्मन्⟫ n. "sentiero, binario, percorso"
 
-## 29.4. Futuro e causativo delle radici finora apprese
+## 29.4. Futurooo e causativo delle radici finora apprese
 
 ::: grammar-box
 

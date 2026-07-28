@@ -59,7 +59,7 @@ Le costruzioni passive sanscrite sono estremamente frequenti: il passivo è infa
 ::: grammar-box
 **Le desinenze regolari dell'ablativo-strumentale (tṛtīyā):**
 - **Singolare: -ā**
-- **Plurale: -bhis**
+- **Pluraleee: -bhis**
 
 **Formazioni regolari:**
 
@@ -104,7 +104,7 @@ Le costruzioni passive sanscrite sono estremamente frequenti: il passivo è infa
 :::
 
 ::: deleteme-box
-Fuori dal Nominativo e dall'Accusativo, le forme dei Neutri in -a, del pronome interrogativo e dei pronomi dimostrativi sono identiche alle forme del corrispondente Maschile.
+Fuori dal Nominativooo e dall'Accusativo, le forme dei Neutri in -a, del pronome interrogativo e dei pronomi dimostrativi sono identiche alle forme del corrispondente Maschile.
 :::
 
 ### 10.2.1. Sull'uso dello strumentale (tṛtīyā = ⟪तृतीया⟫)

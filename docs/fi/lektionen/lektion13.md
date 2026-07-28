@@ -181,7 +181,7 @@ Opiskele seuraavat sanat:
 ::: media
 ![](/images/lekt1301.webp)
 Kuva: ⟪महिषासुरः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1301))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1301))
 :::
 - **guṇa** m. ⟪गुण⟫ : lanka, köysi; ominaisuus, hyvä ominaisuus
 - **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : mennä, joutua
@@ -200,7 +200,7 @@ Kuva: ⟪महिषासुरः⟫
 ::: media
 ![](/images/lekt1304.webp)
 Kuva: ⟪अन्नम्⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1304))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1304))
 :::
 Sananmuodostus:
 
@@ -215,7 +215,7 @@ pad 4 Ā:
 ::: media
 ![](/images/lekt1303.webp)
 Kuva: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1303))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1303))
 :::
 dviṣ 2 U:
 
@@ -290,7 +290,7 @@ C) Muodosta lauseille harjoituksesta A) PPP-rakenne.
 ::: media
 ![](/images/lekt1302.webp)
 Kuv.: ⟪सत्यमेव⟫ ⟪जयते⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1302))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1302))
 :::
 D) Mistä äänneyhtymistä seuraavat sandhi-muodot voivat syntyneet? Anna kaikki mahdollisuudet:
 

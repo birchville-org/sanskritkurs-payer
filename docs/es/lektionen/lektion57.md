@@ -34,11 +34,11 @@ Ejemplos:
 
 :::
 ::: indent
-3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***⟪क्षिप्त⟫***
-2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***⟪क्षिप्था⟫***⟪स्⟫
+3.sg.Ā a-kṣip + s + ta » ⟪अ⟫**:sig[⟪क्षिप्त⟫]**
+2.sg.Ā a-kṣip + s + thās » ⟪अ⟫**:sig[⟪क्षिप्था⟫]**⟪स्⟫
 :::
 Tales formas también podrían pertenecer al aoristo de la raíz y probablemente en parte también pertenecen a él.
-Los gramáticos indios también contaron formas como ⟪अकृत⟫ (3.sg.Ā) como s-Aorist, que claramente pertenecen al aoristo de la raíz. Con este propósito, los gramáticos indios inventaron la siguiente regla fonética ad-hoc para el s-Aorist:
+Los gramáticos indios también contaron formas como :sig[⟪अकृत⟫] (3.sg.Ā) como s-Aorist, que claramente pertenecen al aoristo de la raíz. Con este propósito, los gramáticos indios inventaron la siguiente regla fonética ad-hoc para el s-Aorist:
 
 ::: indent
 "Después de una vocal corta, las 'terminaciones' que comienzan con -st- o -sth- pierden la -s-."
@@ -52,7 +52,7 @@ Para -dhvam se aplica:
 
 :::
 ::: indent
-p.ej. ***⟪चि⟫*** 5U: 2.pl.Ā ***⟪अचेढ्वम्⟫***
+p.ej. **:sig[⟪चि⟫]** 5U: 2.pl.Ā **:sig[⟪अचेढ्वम्⟫]**
 :::
 ::: grammar-box
 **Forma de la raíz:**
@@ -68,7 +68,7 @@ Ejemplos:
 
 |   | **3.sg.P** |
 | --- | --- |
-| ⟪चि⟫ 5U | ⟪अचैषीत्⟫ |
+| :sig[⟪चि⟫] 5U | ⟪अचैषीत्⟫ |
 | ⟪श्रु⟫ 5P | ⟪अश्रौषीत्⟫ |
 | ⟪कृ⟫ 8U | ⟪अकार्षीत्⟫ |
 | ⟪भज्⟫ 1U | ⟪अभाक्षीत्⟫ |
@@ -77,7 +77,7 @@ Ejemplos:
 
 |   | **3.sg.Ā** |
 | --- | --- |
-| ⟪चि⟫ 5U | ⟪अचेष्ट⟫ |
+| :sig[⟪चि⟫] 5U | ⟪अचेष्ट⟫ |
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
 |   | **sg.Ā** |
@@ -91,12 +91,12 @@ Ejemplos:
 
 :::
 ::: indent
-⟪दृश्⟫ 3.sg.P ⟪अ⟫***⟪द्राक्षी⟫***⟪त्⟫
+⟪दृश्⟫ 3.sg.P ⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Raízn mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 ::: indent
-⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***⟪क्राक्षी⟫***⟪त्⟫
+⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
 :::
 Paradigmas:
 
@@ -106,7 +106,7 @@ Paradigmas:
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अनैषम्⟫ | ⟪अनैष्म⟫ | ⟪अनेषि⟫ | ⟪अनेष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫*⟪ढ्वम्⟫* |
+| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫*:sig[⟪ढ्वम्⟫]* |
 | **3. ⟪प्रथमः⟫** | ⟪अनैषीत्⟫ | ⟪अनैषुर्⟫ | ⟪नेष्ट⟫ | ⟪अनेषत⟫ |
 
 ::: media
@@ -120,8 +120,8 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अकार्षम्⟫ | ⟪अकार्ष्म⟫ | ⟪अकृषि⟫ | ⟪अकृष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | *⟪अकृथास्⟫* | ⟪अकृढ्वम्⟫ |
-| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | *⟪अकृत⟫* | ⟪अकृषत⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | *:sig[⟪अकृथास्⟫]* | ⟪अकृढ्वम्⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | *:sig[⟪अकृत⟫]* | ⟪अकृषत⟫ |
 
 ⟪तुद्⟫ 6U "golpear"
 

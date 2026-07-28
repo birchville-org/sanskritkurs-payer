@@ -30,8 +30,8 @@ In sanscrito esistono:
 
 - **tre numeri** (forme di conteggio) = **vacana** n. -- ⟪वचन⟫
   - Singolare (singolarità) = **ekavacana** n. -- ⟪एकवचन⟫
-  - Duale (dualità) = **dvivacana** n. -- ⟪द्विवचन⟫
-  - Plurale (pluralità) = **bahuvacana** n. -- ⟪बहुवचन⟫
+  - Dualeee (dualità) = **dvivacana** n. -- ⟪द्विवचन⟫
+  - Pluraleee (pluralità) = **bahuvacana** n. -- ⟪बहुवचन⟫
 - **tre generi** (generi grammaticali) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
   - Maschile (maschile) = **puṃs** m. -- ⟪पुंस्⟫
   - Femminile (femminile) = **strī** f. -- ⟪स्त्री⟫
@@ -40,23 +40,23 @@ In sanscrito esistono:
 
 Alla declinazione si aggiungono le desinenze casuali (**sup** = ⟪सुप्⟫) al cosiddetto **tema nominale** (forma del nome senza desinenze casuali).
 
-Esempio: **devas** = ⟪देवस्⟫ (Nominativo Singolare Maschile) "il/un dio" = **deva-** -- ⟪देव⟫- (tema nominale) + **-s** -- -⟪स्⟫ (desinenza casuale).
+Esempio: **devas** = ⟪देवस्⟫ (Nominativooo Singolare Maschile) "il/un dio" = **deva-** -- ⟪देव⟫- (tema nominale) + **-s** -- -⟪स्⟫ (desinenza casuale).
 
 Ne dizionari sanscriti i nomi sono indicati nel **tema nominale**:
 - **deva** m. -- ⟪देव⟫ m. (maschile)
 - **vacana** n. -- ⟪वचन⟫ n. (neutro)
 - **vyakti** f. -- ⟪व्यक्ति⟫ f. (femminile)
 
-## 2.3. Il Nominativo Singolare
+## 2.3. Il Nominativooo Singolare
 
-**Nominativo Singolare = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
+**Nominativooo Singolare = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
 ::: grammar-box
-**Il Nominativo Singolare termina in -s = -⟪स्⟫ oppure è privo di desinenza.**
+**Il Nominativooo Singolare termina in -s = -⟪स्⟫ oppure è privo di desinenza.**
 :::
-### 2.3.1. Nominativo Singolare in -s
+### 2.3.1. Nominativooo Singolare in -s
 
-I seguenti temi nominali, che terminano con una vocale, formano il Nominativo Singolare in **-s**:
+I seguenti temi nominali, che terminano con una vocale, formano il Nominativooo Singolare in **-s**:
 
 ::: grammar-box
 **Maschili in -a:** es. deva m. = ⟪देव⟫ "dio" -- Nom. sg.: devas = ⟪देवस्⟫

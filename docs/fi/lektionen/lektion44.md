@@ -238,7 +238,7 @@ niistä:
 ::: media
 ![](/images/lekt4403.webp)
 Kuv.: ⟪रेल्यानम्⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt4403))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt4403))
 :::
 ⟪शी⟫ 2Ā ⟪शेते⟫ : maata. Tämä verbijuurten muodostaa kaikissa preesensvartalon muodoissa **korkean asteen:** 1.sg.Ind.Prees.Ā :sig[⟪शेये⟫] (śe + e). Seuraavat muodot ovat erityisesti huomioitava: 3.pl.Ind.Prees.Ā :sig[⟪शेरते⟫], 3.pl.Imperf.Ā :sig[⟪अशेरत⟫]
 
@@ -323,7 +323,7 @@ siitä:
 ::: media
 ![](/images/lekt4407.webp)
 Kuva: ⟪यत्नेन⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4407))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4407))
 :::
 ⟪रभ्⟫ 1Ā ⟪रभते⟫ (muoto sanalle ⟪लभ्⟫): tarttua, ottaa kiinni
 
@@ -348,7 +348,7 @@ Katso:
 ::: media
 ![](/images/lekt4408.webp)
 Kuva: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4408))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4408))
 :::
 ## 44.6. Harjoitus
 
@@ -410,7 +410,7 @@ A) Määritä ja käännä seuraavat muodot:
 ::: media
 ![](/images/lekt4409.webp)
 Kuva: ⟪कस्माद्रोदिषि⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4409))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4409))
 :::
 B) Käännä:
 

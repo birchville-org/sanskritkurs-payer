@@ -1,5 +1,5 @@
 export const ro = {
-  label: 'RO - Română',
+  label: '🇷🇴 RO - Română',
   lang: 'ro-RO',
   link: '/ro/',
   title: 'Curs de Sanscrită',

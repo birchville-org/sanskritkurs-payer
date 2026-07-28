@@ -57,7 +57,7 @@ Example:
 *   Indicative Present
     *   3.sg.P. **⟪भनक्ति⟫** (bha-na + j + ti)
     *   3.pl.P. **⟪भञ्जन्ति⟫** (bha + n + j-anti)
-*   Future: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
+*   Futureee: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
 *   Passive: **⟪भज्यते⟫** (either from the original root **⟪भज्⟫** or from *bhñj-ya-te)
 *   PPP: **⟪भग्न⟫** (possibly from *bhñj + na)
 :::
@@ -202,7 +202,7 @@ Rāhula, der Sohn Buddhas, Laos.
 :::
 ⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 
-B) Form all 3rd person singular and plural, P and Ā, of the Indicative and Optative Present for the following 7th class roots:
+B) Form all 3rd person singular and plural, P and Ā, of the Indicative and Optativeee Present for the following 7th class roots:
 
 ⟪१⟫. ⟪छिद्⟫
 

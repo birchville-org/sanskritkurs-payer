@@ -155,15 +155,15 @@ Plus sur l'utilisation du locatif plus tard.
 :::
 **Signalrot imprimé** : cas forts (en cas d’alternance du thème).
 
-## 27.4. Un vers avec toutes les formes de déclinaison (singulier) concernant ⟪राम⟫
+## 27.4. Un vers avec toutes les formes de déclinaison (singulier) concernant :sig[⟪राम⟫]
 
 ::: media
 ![](/images/lekt2708.webp)
-Fig. : ⟪रामे⟫ ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ⟪राम⟫ ⟪मामुद्धर⟫ ⟪॥⟫
+Fig. : :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
 (Source de l'image : [Détails](/fr/licenses#lekt2708))
 :::
-*⟪रामो⟫* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *⟪रामं⟫* ⟪रमेशं⟫ ⟪भजे⟫:br *⟪रामेणा⟫*⟪भिहता⟫ ⟪निशाचरचमू⟫ *⟪रामाय⟫* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *⟪रामान्ना⟫*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *⟪रामस्य⟫* ⟪दासोऽस्म्यहम्⟫:br *⟪रामे⟫* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *⟪राम⟫* ⟪मामुद्धर⟫ ⟪॥⟫
+*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟫:br *:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟫:br *:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *:sig[⟪राम⟫]* ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Traduction :**
 1. **Nominatif :** Rāma, le joyau (⟪मणि⟫ m.) parmi les rois (⟪राजन्⟫ m.) triomphe toujours (⟪सदा⟫).

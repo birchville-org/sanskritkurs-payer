@@ -9,7 +9,7 @@ status: stable
 
 # Pelajaran 52
 
-## 52.1. Neutrum  Stämme auf -i dan -u
+## 52.1. Netral Stämme pada -i dan -u
 
 ::: grammar-box
 **Sebelum akhiran yang dimulai dengan vokal, -n- disisipkan; ini adalah pengaruh dari stem-n (-in).**
@@ -86,7 +86,7 @@ mis. ⟪अन्नमय⟫ n. "kelimpahan makanan"
 ![](/images/lekt5202.webp)
 Fig.: ⟪अन्नमयम्⟫
 ⟪विवाहः⟫, Chennai = சென்னை
-(Sumber gambar: [Details](/en/licenses#lekt5202))
+(Sumber gambar: [Detail](/en/licenses#lekt5202))
 :::
 ### 52.2.3. ⟪तद्धित⟫-Suffix -eya
 
@@ -104,7 +104,7 @@ e.g. ⟪कौन्तेय⟫ m. "Son of ⟪कुन्ती⟫"
 ![](/images/lekt5203.webp)
 Fig.: ⟪भीमः⟫ ⟪कौन्तेयः⟫
 Wayang figure, Java, Indonesia
-(Image source: [Details](/en/licenses#lekt5203))
+(Image source: [Detail](/en/licenses#lekt5203))
 :::
 ## 52.3. Adverbialbildung: Adverbialsuffix -śas
 
@@ -131,7 +131,7 @@ Antrean di depan kuil, Trivandrum = Thiruvananthapuram = തിരുവനന�
 :::
 ## 52.4. Komposita verbal yang menyatakan bahwa sesuatu menjadi atau dibuat menjadi sesuatu yang sebelumnya bukan (⟪अभुततद्भावः⟫)
 
-### 52.4.1. cvi-Bildungen
+### 52.4.1. cvi-Pembentukanen
 
 ::: grammar-box
 **Before the roots**
@@ -170,7 +170,7 @@ e.g. ⟪तिर्यक्करोति⟫ "he lies aside (⟪तिर्�
 ![](/images/lekt5209.webp)
 Fig.: ⟪भस्मीकृतं⟫ ⟪वनम्⟫
 Slash-and-burn agriculture, Arunachal Pradesh = ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Image source: [Details](/en/licenses#lekt5209))
+(Image source: [Detail](/en/licenses#lekt5209))
 :::
 ### 52.4.2. Suffix -sāt
 
@@ -214,7 +214,7 @@ Example:
 
 :::
 ::: indent
-⟪भस्मसात्कृ⟫***⟪त्वा⟫***
+⟪भस्मसात्कृ⟫**:sig[⟪त्वा⟫]**
 :::
 ## 52.5. Pengulangan Kata (⟪द्विरुक्तम्⟫)
 
@@ -252,7 +252,7 @@ Lihat, misalnya, Kielhorn, Tata Bahasa §201f. untuk apa yang tidak dibahas di s
 **Kata bilangan untuk *1 hingga 19* adalah kata sifat.**
 **Kata bilangan untuk **1 hingga 4** berbeda dalam deklinasi untuk ketiga jenis kelamin.**
 
-**Untuk kata bilangan untuk **5 hingga 19** ***(⟪नवदशन्⟫)*** hanya ada satu deklinasi tunggal untuk ketiga jenis kelamin.**
+**Untuk kata bilangan untuk **5 hingga 19** ***(:sig[⟪नवदशन्⟫])*** hanya ada satu deklinasi tunggal untuk ketiga jenis kelamin.**
 
 **Untuk kata sifat bilangan ini, seperti semua kata sifat: harus berada dalam kasus, jumlah, dan jenis kelamin yang sama dengan kata benda terkait dan sebaliknya (yaitu, untuk 1 tunggal, untuk 2 dwiwalana, untuk sisanya jamak).**
 :::
@@ -327,16 +327,16 @@ sekali: ⟪सकृत्⟫
 dua kali: ⟪द्विस्⟫
 tiga kali: ⟪त्रिस्⟫
 empat kali: ⟪चतुस्⟫
-lima kali dan seterusnya dibentuk dengan akhiran ***\-⟪कृत्वस्⟫***: ⟪पञ्चकृत्वस्⟫
+lima kali dan seterusnya dibentuk dengan akhiran ***\-:sig[⟪कृत्वस्⟫]***: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-lipat": dinyatakan dengan akhiran ***\-⟪धा⟫***
+b) "-lipat": dinyatakan dengan akhiran ***\-:sig[⟪धा⟫]***
 
 ::: indent
 sederhana: ⟪एकधा⟫
 ganda: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
 dan seterusnya
 :::
-c) "masing-masing ...", "kepada ...": dinyatakan dengan akhiran ***\-⟪शस्⟫*** (lihat di atas!)
+c) "masing-masing ...", "kepada ...": dinyatakan dengan akhiran ***\-:sig[⟪शस्⟫]*** (lihat di atas!)
 
 ::: indent
 ⟪द्विशस्⟫ "in twos, each two"
@@ -349,7 +349,7 @@ c) "masing-masing ...", "kepada ...": dinyatakan dengan akhiran ***\-⟪शस�
 twofold, consisting of two
 threefold, consisting of three parts
 
-from 4 onwards, "-fold" is expressed by the suffix ***\-⟪तय⟫ (f.: -⟪तयी⟫)***: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "fourfold"
+from 4 onwards, "-fold" is expressed by the suffix ***\-:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫])***: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "fourfold"
 :::
 Further formations can be found in dictionaries or grammars.
 
@@ -366,7 +366,7 @@ Example:
 ::: media
 ![](/images/lekt5205.webp)
 Fig.: ⟪चतुर्मुखः⟫
-(Sumber gambar: [Details](/en/licenses#lekt5205))
+(Sumber gambar: [Detail](/en/licenses#lekt5205))
 :::
 
 ::: grammar-box
@@ -379,7 +379,7 @@ Oleh karena itu, misalnya, dari ⟪उत्तरा⟫ ⟪वृक्षा�
 ![](/images/lekt5206.jpg)
 Fig.: ⟪सप्तर्षयः⟫
 Big Dipper = tujuh bintang paling terang dari Big Bear (Ursa maior)
-(Sumber gambar: [Details](/en/licenses#lekt5206))
+(Sumber gambar: [Detail](/en/licenses#lekt5206))
 :::
 
 ::: grammar-box
@@ -392,7 +392,7 @@ pūrva + śālā ("aula") » \*pūrvaśālā (tidak boleh digunakan dengan cara 
 
 2.  majemuk yang dibentuk dengan cara ini digunakan dalam makna yang secara lain ditandai oleh akhiran Taddhita (dalam jenis ini, transisi ke Bahuvrīhi bersifat cair):  
 Contoh:  
-dvi + go » ⟪द्विगु⟫ : bukan: "dua sapi", tetapi: "**dibeli dengan harga dua ekor sapi**"  
+dvi + go » :sig[⟪द्विगु⟫] : bukan: "dua sapi", tetapi: "**dibeli dengan harga dua ekor sapi**"  
 ⟪द्विवर्ष⟫ bukan: "dua tahun", tetapi: "**berusia dua tahun**"  
 
 3.  majemuk yang dibentuk dengan cara ini membentuk anggota pertama dari majemuk lain  
@@ -403,13 +403,13 @@ pañca + go » pañcagava (tidak diperbolehkan sebagai satu kata!) + dhana » �
 ![](/images/lekt5207.webp)
 Fig.: ⟪षण्मातुरः⟫ ⟪कार्त्तिकेय⟫:
 Jalakandapuram = ஜலகண்டபுரம்
-(Sumber gambar: [Details](/en/licenses#lekt5207))
+(Sumber gambar: [Detail](/en/licenses#lekt5207))
 :::
 
 ::: grammar-box
 **Sebuah penunjukan untuk bilangan kardinal (tetapi bukan untuk arah kardinal) dapat, sebagai anggota pertama, membentuk Tatpuruṣa dengan kata benda lain meskipun majemuk yang dibentuk dengan cara ini menunjukkan kumpulan beberapa hal, yaitu, menggabungkan dua atau lebih hal menjadi satu kesatuan.**
 
-**Tatpuruṣa yang dibentuk menurut aturan ini disebut ***Dvigu (⟪द्विगु⟫)***.**
+**Tatpuruṣa yang dibentuk menurut aturan ini disebut ***Dvigu (:sig[⟪द्विगु⟫])***.**
 
 **Dvigu compounds that denote a unit are usually neuter. If the second member ends in -a, the feminine suffix -ī may attach. If the second member ends in fem. -ā, either neuter -a or feminine -ī attaches in its place. If the second member ends in -an, -a or -ī is substituted for it.**
 :::
@@ -443,7 +443,7 @@ from:
 ![](/images/lekt5210.webp)
 Fig.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Sumber gambar: [Details](/en/licenses#lekt5210))
+(Sumber gambar: [Detail](/en/licenses#lekt5210))
 :::
 ⟪अन्तर्⟫ Adv.: di dalam; postposisi dengan Gen. Lok. (⟪षष्टी⟫, ⟪सप्तमी⟫): di dalam, di tengah; postposisi dengan Gen. Abl. (⟪षष्ठी⟫, ⟪पञ्चमी⟫): dari dalam ...
 
@@ -475,7 +475,7 @@ PPP ⟪विपरीत⟫ 3: wrong, incorrect
 ![](/images/lekt5212.webp)
 Fig.: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
-(Image source: [Details](/en/licenses#lekt5212))
+(Image source: [Detail](/en/licenses#lekt5212))
 :::
 ⟪पर⟫ 3: (declension like ⟪सर्व⟫) distant, foreign, higher than (⟪पञ्चम्या⟫), utmost, highest; other, foreign, hostile; m.: foreigner
 
@@ -492,7 +492,7 @@ from that:
 ![](/images/lekt5213.webp)
 Fig.: ⟪प्रधानः⟫
 ⟪मुंबई⟫
-(Image source: [Details](/en/licenses#lekt5213))
+(Image source: [Detail](/en/licenses#lekt5213))
 :::
 ⟪लौल्य⟫ n.: greed, lustfulness
 
@@ -501,7 +501,7 @@ Fig.: ⟪प्रधानः⟫
 ::: indent
 ⟪त्रिवर्ग⟫ m.: group of three (e.g. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫; or: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫; or: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : to want, command, desire
+⟪वश्⟫ 2P ⟪वस्टि⟫, ***:sig[⟪उशन्ति⟫],*** Imperat. 2.sg.: **:sig[⟪उड्ढि⟫]** : to want, command, desire
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
@@ -595,7 +595,7 @@ PPP ⟪च्युत⟫
 ![](/images/lekt5214.webp)
 Fig.: ⟪चक्रम्⟫
 Konark = ⟪कोनार्क⟫
-(Image source: [Details](/en/licenses#lekt5214))
+(Image source: [Detail](/en/licenses#lekt5214))
 :::
 ⟪कदली⟫ f.: banana tree (_Musa_ sp.)
 
@@ -603,7 +603,7 @@ Konark = ⟪कोनार्क⟫
 ![](/images/lekt5208.webp)
 Fig.: ⟪कदली⟫
 Hampi = ಹಂಪೆ
-(Image source: [Details](/en/licenses#lekt5208))
+(Image source: [Detail](/en/licenses#lekt5208))
 :::
 ⟪सार⟫ m.n.: core, marrow, essence, substance
 
@@ -619,7 +619,7 @@ Hampi = ಹಂಪೆ
 ![](/images/lekt5215.webp)
 Fig.: ⟪मलम्⟫
 ⟪मुंबई⟫
-(Image source: [Details](/en/licenses#lekt5215))
+(Image source: [Detail](/en/licenses#lekt5215))
 :::
 ⟪त्रिपिष्टप⟫ n.: Indra's heaven
 
@@ -629,7 +629,7 @@ Fig.: ⟪मलम्⟫
 ![](/images/lekt5217.webp)
 Fig.:
 Amaravati = అమరావతి, 2nd century CE
-(Image source: [Details](/en/licenses#lekt5217))
+(Image source: [Detail](/en/licenses#lekt5217))
 :::
 ⟪विजिज्ञासु⟫ 3: one who wishes to know completely
 
@@ -656,7 +656,7 @@ Inf. ⟪त्रातुम्⟫
 ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫
 ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫
 ⟪एतद्विद्यात्समासेन⟫
-⟪लक्षणं⟫ ⟪सुखदुःख⟫***⟪योः⟫*** ⟪॥१६०॥⟫
+⟪लक्षणं⟫ ⟪सुखदुःख⟫**:sig[⟪योः⟫]** ⟪॥१६०॥⟫
 
 ⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्⟫
 ⟪परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫
@@ -669,7 +669,7 @@ Penjelasan: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvandv
 
 ::: indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
-⟪स्मृतिशी⟫***⟪ले⟫*** ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
+⟪स्मृतिशी⟫**:sig[⟪ले⟫]** ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
@@ -677,7 +677,7 @@ Penjelasan: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
 :::
 ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Pada ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ dalam Kehidupan Pangeran
 
-⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫***⟪मितरौ⟫*** ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫***⟪मूलौ⟫*** ⟪हि⟫ ⟪धर्मका⟫***⟪मावि⟫***⟪ति⟫ ⟪।७।⟫
+⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫**:sig[⟪मितरौ⟫]** ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫**:sig[⟪मूलौ⟫]** ⟪हि⟫ ⟪धर्मका⟫**:sig[⟪मावि⟫]**⟪ति⟫ ⟪।७।⟫
 
 ::: indent
 Explanations:
@@ -692,7 +692,7 @@ Explanations:
 ![](/images/lekt5216.webp)
 Fig.: ⟪अश्वत्थो⟫ ⟪महाबोधिवृक्षः⟫
 _Ficus religiosa_ L. ⟪बोधगया⟫, ca. 1810
-(Image source: [Details](/en/licenses#lekt5216))
+(Image source: [Detail](/en/licenses#lekt5216))
 :::
 
 ::: indent
@@ -775,7 +775,7 @@ Mahābhārata : Epik besar India / diterjemahkan dan dipadatkan dari Sanskerta o
 ![](/images/lekt5201.webp)
 Fig.: ⟪श्रीगुम्पिः⟫ , ⟪मम⟫ ⟪मन्त्री⟫
 (Image: Payer)
-(Image source: [Details](/en/licenses#lekt5201))
+(Image source: [Detail](/en/licenses#lekt5201))
 :::
 
 ::: deleteme-box

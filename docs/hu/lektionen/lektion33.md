@@ -43,8 +43,8 @@ Példák:
 Példák:
 
 ::: indent
-⟪धा⟫ 3 "leül"
-* 3.sg.P.Ind.Präs. ⟪दधाति⟫
+:sig[⟪धा⟫] 3 "leül"
+* 3.sg.P.Ind.Präs. :sig[⟪दधाति⟫]
 
 ⟪भी⟫ 3 „félnek“
 * 3.sg.P.Ind.Präs. :sig[⟪बि⟫]⟪भेति⟫
@@ -94,7 +94,7 @@ Példa:
 ::: grammar-box
 * **A rendszeres reduplikációs magánhangzó: -i-**
 * **Az -u-t tartalmazó gyökök reduplikálnak -u-val**
-* **A ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ gyökök reduplikálnak -a-val**
+* **A ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ gyökök reduplikálnak -a-val**
 :::
 Példák:
 
@@ -124,11 +124,11 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 * **Mély szint**
   * **mássalhangzó előtt: -i-**
-pl. ⟪धा⟫ PPP: ⟪हित⟫ (hi-ta)
+pl. :sig[⟪धा⟫] PPP: :sig[⟪हित⟫] (hi-ta)
   * **magánhangzó előtt: Ø**
-pl. ⟪धा⟫ 3.pl.P.Ind.Präs. ⟪दधति⟫ (dadh-ati)
+pl. :sig[⟪धा⟫] 3.pl.P.Ind.Präs. ⟪दधति⟫ (dadh-ati)
 * **Magas szint: -ā-**
-pl. ⟪धा⟫ 3.sg.P.Ind.Präs. ⟪दधाति⟫
+pl. :sig[⟪धा⟫] 3.sg.P.Ind.Präs. :sig[⟪दधाति⟫]
 :::
 Ide tartozik például:
 
@@ -170,15 +170,15 @@ Példák:
 | **Múlt idő (imperfektum)** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Kívánó mód (optativus)** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Tő ⟪हा⟫ hat vor dem Kívánó mód (optativus)-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. A ⟪दा⟫ és a ⟪धा⟫ gyökök
+### 33.4.1. A ⟪दा⟫ és a :sig[⟪धा⟫] gyökök
 
 ::: grammar-box
-**A ⟪दा⟫ és a ⟪धा⟫ gyökök -a- magánhangzóval redupplikálnak, és a gyenge tőben elveszítik a gyökmagánhangzót.**
+**A ⟪दा⟫ és a :sig[⟪धा⟫] gyökök -a- magánhangzóval redupplikálnak, és a gyenge tőben elveszítik a gyökmagánhangzót.**
 
-**Vegye figyelembe a ⟪धा⟫ esetén a légzés disszimilációs törvényét!**
+**Vegye figyelembe a :sig[⟪धा⟫] esetén a légzés disszimilációs törvényét!**
 :::
 ::: grammar-box
-⟪धा⟫ 3U "helyez, megállapít, kioszt"
+:sig[⟪धा⟫] 3U "helyez, megállapít, kioszt"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -186,7 +186,7 @@ Példák:
 | **Múlt idő (imperfektum)** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Kívánó mód (optativus)** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-A ⟪दा⟫ alakokat úgy kapjuk, hogy a ⟪धा⟫ paradigmájában a **dh**-t **d**-re cseréljük. Tehát:
+A ⟪दा⟫ alakokat úgy kapjuk, hogy a :sig[⟪धा⟫] paradigmájában a **dh**-t **d**-re cseréljük. Tehát:
 
 ::: grammar-box
 ⟪दा⟫ 3U "ad"
@@ -235,8 +235,8 @@ davon:
 :::
 ::: media
 ![](/images/lekt3306.webp)
-Abb.: ⟪दानम्⟫
-(Bildquelle: [Details](/hu/licenses#lekt3306))
+Ábra: ⟪दानम्⟫
+(Képforrás: [Részletek](/hu/licenses#lekt3306))
 :::
 ⟪दा⟫ + ⟪आ⟫ 3Ā ⟪अदत्ते⟫: (in Empfang) nehmen, in Besitz nehmen, mitnehmen
 
@@ -257,7 +257,7 @@ Kép: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **PPP** :sig[⟪हित⟫] (!!)  
 **Inf.** :sig[⟪धातुम्⟫]
 :::
-⟪धा⟫ + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: minden figyelmét valamire összpontosítja, magához tér
+:sig[⟪धा⟫] + ⟪सम्⟫ + ⟪आ⟫ 3U ⟪समादधाति⟫: minden figyelmét valamire összpontosítja, magához tér
 
 ::: indent
 ebből:

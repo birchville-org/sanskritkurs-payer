@@ -38,7 +38,7 @@ status: stable
 ::: grammar-box
 **Quand la consonanta finala k/g da la radis sa chatta tranter il nasal ṅ ed in dental da la desinenza, po la k/g vegnir eliminada.**
 
-z.B. **⟪युज्⟫** 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ ni ⟪यु⟫***⟪ङ्ते⟫***
+z.B. **⟪युज्⟫** 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ ni ⟪यु⟫**:sig[⟪ङ्ते⟫]**
 :::
 ⟪युज्⟫ 7U
 

@@ -205,11 +205,11 @@ por ejemplo
 :::
 ## 15.7. Clasificación de ⟪तत्पुरुष⟫
 
-1.  ⟪प्रथमातत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Nominativo (⟪प्रथमा⟫)
+1.  ⟪प्रथमातत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Nominativooo (⟪प्रथमा⟫)
 2.  ⟪द्वितीयातत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Acusativo (⟪द्वितीया⟫)
 3.  ⟪तृतीयातत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Instrumental (⟪तृतीया⟫)
-4.  ⟪चतुर्थीतत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Dativo (⟪चतुर्थी⟫)
-5.  ⟪पञ्चमीतत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Ablativo (⟪पज्चमी⟫)
+4.  ⟪चतुर्थीतत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Dativooo (⟪चतुर्थी⟫)
+5.  ⟪पञ्चमीतत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Ablativooo (⟪पज्चमी⟫)
 6.  ⟪षष्ठीतत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Genitivo (⟪षष्ठी⟫)
 7.  ⟪सप्तमीतत्पुरुषः⟫ : El primer componente está en ⟪विग्रहवाक्य⟫ en Locativo (⟪सप्तमी⟫)
 

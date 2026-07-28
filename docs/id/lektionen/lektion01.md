@@ -18,7 +18,7 @@ Pujian kepada Gaṇeśa
 ::: media
 ![](/images/lekt0102.webp)
 Fig. 1.2: Gaṇeśa, Adamspeak, Sri Lanka
-(Sumber gambar: [Details](/id/licenses#lekt0102))
+(Sumber gambar: [Detail](/id/licenses#lekt0102))
 :::
 
 ::: center
@@ -47,7 +47,7 @@ maṅgalacaraṇam
 ::: media
 ![](/images/lekt0101.webp)
 Fig. 1.1: Ardhanarīśvara
-(Sumber gambar: [Details](/id/licenses#lekt0101))
+(Sumber gambar: [Detail](/id/licenses#lekt0101))
 :::
 
 ::: center
@@ -81,7 +81,7 @@ Di awal, sebuah keanehan:
 ::: media
 ![](/images/lekt0103.webp)
 Fig.: Sampul edisi saku
-(Sumber gambar: [Details](/id/licenses#lekt0103))
+(Sumber gambar: [Detail](/id/licenses#lekt0103))
 :::
 
 >**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ Bagian: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Sejak itu banyak edisi, termasuk edisi saku. -- **Wajib dibaca.** Gambaran umum yang baik tentang kehidupan, sejarah, dan budaya di India pra-Islam. Tinjauan menyeluruh atas berbagai bidang Indologi klasik.
@@ -89,7 +89,7 @@ Fig.: Sampul edisi saku
 ::: media
 ![](/images/lekt0104.webp)
 Gambar: Halaman judul
-(Sumber gambar: [Details](/id/licenses#lekt0104))
+(Sumber gambar: [Detail](/id/licenses#lekt0104))
 :::
 
 Tata bahasa sistematis terbaik:
@@ -99,7 +99,7 @@ Tata bahasa sistematis terbaik:
 ::: media
 ![](/images/lekt0105.webp)
 Gambar: Sampul judul
-(Sumber gambar: [Details](/id/licenses#lekt0105))
+(Sumber gambar: [Detail](/id/licenses#lekt0105))
 :::
 
 Tata bahasa sistematis yang baik berdasarkan pada para ahli tata bahasa lokal dan sekaligus pengantar ke Pāṇini:
@@ -109,7 +109,7 @@ Tata bahasa sistematis yang baik berdasarkan pada para ahli tata bahasa lokal da
 ::: media
 ![](/images/lekt0107.jpg)
 Gambar: Sampul buku
-(Sumber gambar: [Details](/id/licenses#lekt0107))
+(Sumber gambar: [Detail](/id/licenses#lekt0107))
 :::
 
 Sebuah paparan yang baik dan ringkas tentang terminologi ilmu bahasa Eropa dapat ditemukan dalam:
@@ -119,7 +119,7 @@ Sebuah paparan yang baik dan ringkas tentang terminologi ilmu bahasa Eropa dapat
 ::: media
 ![](/images/lekt0108.jpg)
 Gambar: Sampul judul
-(Sumber gambar: [Details](/id/licenses#lekt0108))
+(Sumber gambar: [Detail](/id/licenses#lekt0108))
 :::
 
 Untuk yang ingin tahu untuk referensi:
@@ -132,7 +132,7 @@ Bunyi-bunyi Sanskerta menurut klasifikasi tradisional India dan transliterasi il
 
 ::: media
 ![](/images/lekt0106.webp)
-(Sumber gambar: [Details](/id/licenses#lekt0106))
+(Sumber gambar: [Detail](/id/licenses#lekt0106))
 :::
 Kamus Sanskerta modern disusun sesuai urutan klasifikasi ini. Klasifikasi ini penting untuk memahami tata bahasa Sanskerta dan karenanya harus dihafal:
 

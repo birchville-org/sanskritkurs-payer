@@ -347,14 +347,14 @@ din care:
 ⟪विषम⟫ 3: inegal, denivelat, rău
 
 :::
-⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : prinde, apucă, cuprinde
+⟪ग्रह्⟫ 9U **:sig[⟪गृ⟫]**⟪ह्णाति⟫ (gṛh-ṇā-ti) : prinde, apucă, cuprinde
 
 ::: indent
 Perf. Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Fut. ⟪ग्र⟫***⟪ही⟫***⟪ष्यति⟫  
+Fut. ⟪ग्र⟫**:sig[⟪ही⟫]**⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
 Kaus.⟪ग्राहयति⟫  
-PPP ⟪गृ⟫***⟪ही⟫***⟪त⟫  
+PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫  
 Inf. ⟪ग्रहितुम्⟫  
 Absol. -⟪ग्राह्य⟫
 din care:
@@ -430,8 +430,8 @@ Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Fut. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
-Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***⟪प⟫***⟪यति⟫  
-PPP. ***⟪रूढ⟫***  
+Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫**:sig[⟪प⟫]**⟪यति⟫  
+PPP. **:sig[⟪रूढ⟫]**  
 Inf. ⟪रोढुम्⟫
 
 :::
@@ -466,14 +466,14 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 ⟪भ्रंश⟫ m.: dispariția
 
-⟪श्रम्⟫ 4P ***⟪श्रा⟫***⟪म्यति⟫ : a se ostene, a obosi
+⟪श्रम्⟫ 4P **:sig[⟪श्रा⟫]**⟪म्यति⟫ : a se ostene, a obosi
 
 ::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Fut. ⟪श्रमिष्यति⟫  
 Pass. ⟪श्रम्यते⟫  
 Kaus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
-PPP ***⟪श्रान्⟫***⟪त⟫  
+PPP **:sig[⟪श्रान्⟫]**⟪त⟫  
 Inf. ⟪श्रमितुम्⟫  
 Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
 din care:
@@ -496,7 +496,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : a atârna, a se fixa pe (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P **:sig[⟪सज⟫]**⟪ति⟫ : a atârna, a se fixa pe (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -526,13 +526,13 @@ Inf. ⟪द्रोतुम्⟫
 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : a umbla în cerc, a vagabonda
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P **:sig[⟪भ्रा⟫]**⟪म्यति⟫ : a umbla în cerc, a vagabonda
 
 ::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Kaus. ⟪भ्रमयति⟫  
-PPP ***⟪भ्रा⟫***⟪न्त⟫  
+PPP **:sig[⟪भ्रा⟫]**⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
 din care:
@@ -570,10 +570,10 @@ PPP ⟪परिभूत⟫ 3: învins, umilit, degradat
 
 ::: indent
 de exemplu
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : a se așeza jos
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫**:sig[⟪षी⟫]**⟪दति⟫ : a se așeza jos
 
 :::
-⟪भोस्⟫ Particulă vocativă: exclamație de adresare, de exemplu: he, heida, oh, ei, salut, he! adesea nu se traduce. Această particulă are un Sandhi special: în fața tuturor sunetelor sonore, acesta este ***⟪भो⟫***.
+⟪भोस्⟫ Particulă vocativă: exclamație de adresare, de exemplu: he, heida, oh, ei, salut, he! adesea nu se traduce. Această particulă are un Sandhi special: în fața tuturor sunetelor sonore, acesta este **:sig[⟪भो⟫]**.
 
 ::: media
 ![](/images/lekt4611.webp)

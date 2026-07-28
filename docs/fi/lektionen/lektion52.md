@@ -366,7 +366,7 @@ Esimerkki:
 ::: media
 ![](/images/lekt5205.webp)
 Kuv.: ⟪चतुर्मुखः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt5205))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt5205))
 :::
 
 ::: grammar-box
@@ -379,7 +379,7 @@ Siksi esim. ⟪उत्तरा⟫ ⟪वृक्षाः⟫ "pohjoiset puut
 ![](/images/lekt5206.jpg)
 Kuv.: ⟪सप्तर्षयः⟫
 Seitsemän tähden ryhmä = Isomman karhun (Ursa maior) kirkkaimmat seitsemän tähteä
-(Kuvan lähde: [Details](/fi/licenses#lekt5206))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt5206))
 :::
 
 ::: grammar-box
@@ -392,7 +392,7 @@ pūrva + śālā ("halli") » \*pūrvaśālā (ei saa käyttää!) + taddhita -a
 
 2.  Sille muodostettua yhdyssanaa käytetään merkityksessä, jota muuten merkitsee taddhitapääte (tässä tapauksessa siirtymä bahuvrīhi-yhdyssanaan on sujuvaa):
 Esimerkit:  
-dvi + go » ⟪द्विगु⟫ : ei "kaksi lehmää", vaan: "**kahdelle lehmälle ostettu**"  
+dvi + go » :sig[⟪द्विगु⟫] : ei "kaksi lehmää", vaan: "**kahdelle lehmälle ostettu**"  
 ⟪द्विवर्ष⟫ ei "kaksi vuotta", vaan: "**kaksivuotias**"
 
 3.  Sille muodostettu yhdyssana toimii muiden yhdyssanojen etuosana
@@ -443,7 +443,7 @@ sanasta:
 ![](/images/lekt5210.webp)
 Kuv.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Kuv lähde: [Details](/fi/licenses#lekt5210))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5210))
 :::
 ⟪अन्तर्⟫ Adv.: sisällä, sisäpuolella ; Postpositio genetiivin tai lokatiivin kanssa (⟪षष्टी⟫, ⟪सप्तमी⟫): sisällä, keskellä ; Postpositio genetiivin tai ablatiivin kanssa (⟪षष्ठी⟫, ⟪पञ्चमी⟫): ... ulkopuolelta
 
@@ -629,7 +629,7 @@ Kuv.: ⟪मलम्⟫
 ![](/images/lekt5217.webp)
 Kuv.:
 Amaravati = అమరావతి, 2. jaa. eKr.
-(Kuv lähde: [Details](/fi/licenses#lekt5217))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5217))
 :::
 ⟪विजिज्ञासु⟫ 3: henkilö, joka haluaa tunnistaa täysin
 
@@ -663,7 +663,7 @@ Inf. ⟪त्रातुम्⟫
 ⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫
 ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥१६१॥⟫
 
-Selitys: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandva)
+Selitys: ⟪सुखदुःखयोः⟫ Gen.Lok.duaali.m.f.n. (duaalidvandva)
 :::
 ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Lähteistä ⟪धर्म⟫
 
@@ -673,7 +673,7 @@ Selitys: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandva)
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
-Selitys:  ⟪स्मृतिशीले⟩ Nom.Akk.Dual.n. (Dualdvandva)
+Selitys:  ⟪स्मृतिशीले⟩ Nom.Akk.duaali.n. (duaalidvandva)
 :::
 ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Über ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ hallitsijan elämässä
 
@@ -682,9 +682,9 @@ Selitys:  ⟪स्मृतिशीले⟩ Nom.Akk.Dual.n. (Dualdvandva)
 ::: indent
 Selitykset:
 
-⟪इतरौ⟫ Nom.Akk.Dual.m zu ⟪इतर⟫ 3 "toinen"
+⟪इतरौ⟫ Nom.Akk.duaali.m zu ⟪इतर⟫ 3 "toinen"
 
-⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ on Dualdvandva)
+⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.duaali.m (⟪धर्मकामौ⟫ on duaalidvandva)
 :::
 ⟪४⟫. ⟪अश्वघोष⟫ (2. jaa.): ⟪बुद्धचरित⟫ ⟪४⟫ Buddhan vapauttava tieto
 

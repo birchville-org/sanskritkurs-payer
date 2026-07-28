@@ -1,9 +1,9 @@
 ---
-title: ትምህርት 51
-subtitle: "⟪उपपद⟫-ውህድ ቃላት"
+title: Lektion 51
+subtitle: "⟪उपपद⟫-Komposita"
 lesson_id: 51
 last_reconstructed: 2026-05-21
-category: "ሰዋስው"
+category: "Grammatik"
 status: stable
 ---
 

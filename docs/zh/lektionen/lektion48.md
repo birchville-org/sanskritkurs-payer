@@ -26,9 +26,9 @@ status: stable
 
 ⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫
 :::
-## 48.2. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme
+## 48.2. Bildung des Imperativs (⟪लोट्⟫) athematischer Präsensstämme <!-- TODO: Fallback translation -->
 
-### 48.2.1. 结尾 des Imperativ an athematischen Präsensstämmen
+### 48.2.1. 结尾 des Imperativ an athematischen Präsensstämmen <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -108,7 +108,7 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
 | **2. Person** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | *⟪शेरताम्⟫* |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | *:sig[⟪शेरताम्⟫]* |
 :::
 ⟪हन्⟫ 2P <!-- TODO: Fallback translation -->
 
@@ -394,7 +394,7 @@ B) Übersetzen Sie ins Sanskrit (verwenden Sie dabei den Imperativ und möglichs
 ⟪काले⟫ ⟪ऽदाता⟫ ⟪पिता⟫ ⟪वाच्यो⟫ ⟪वाच्यश्चानुपनयन्पतिः⟫ ⟪।⟫  
 ⟪मृते⟫ ⟪भर्तर⟫i ⟪पुत्रस्तु⟫ ⟪वाच्यो⟫ ⟪मातुररक्षिता⟫ ⟪॥४॥⟫  
 ⟪सूक्ष्मेभ्यो⟫ ⟪ऽपि⟫ ⟪प्रसङ्गेभ्यः⟫ ⟪स्त्रियो⟫ ⟪रक्ष्या⟫ ⟪विशेषतः⟫ ⟪।⟫  
-***⟪द्वयोर्हि⟫ ⟪कुलयोः⟫*** ⟪शोकमावहेयुररक्षिताः⟫ ⟪॥५॥⟫  
+***:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫]*** ⟪शोकमावहेयुररक्षिताः⟫ ⟪॥५॥⟫  
 ⟪इमं⟫ ⟪हि⟫ ⟪सर्ववर्णानां⟫ ⟪पश्यन्तो⟫ ⟪धर्ममुत्तमम्⟫ ⟪।⟫  
 ⟪यतन्ते⟫ ⟪रक्षितुं⟫ ⟪भार्यां⟫ ⟪भर्तारो⟫ ⟪दुर्बला⟫ ⟪अपि⟫ ⟪॥६॥⟫  
 ⟪स्वां⟫ ⟪प्रसूतिं⟫ ⟪चरित्रं⟫ ⟪च⟫ ⟪कुलमात्मानमेव⟫ ⟪च⟫ ⟪।⟫  
@@ -403,7 +403,7 @@ B) Übersetzen Sie ins Sanskrit (verwenden Sie dabei den Imperativ und möglichs
 ⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫ <!-- TODO: Fallback translation -->
 :::
 Erklärung:  
-⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Dual zu ⟪द्वे⟫ ⟪कुले⟫ "zwei Familien" <!-- TODO: Fallback translation -->
+:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Dual zu ⟪द्वे⟫ ⟪कुले⟫ "zwei Familien" <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

@@ -108,7 +108,7 @@ important
 À l’exception du Nominatif et de l’Accusatif, les formes des Neutres en -a, du pronom interrogatif et des pronoms démonstratifs sont identiques à celles des masculins correspondants.
 :::
 
-### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
+### 10.2.1. Sur l'utilisation de l'instrumental (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
 **Les désinences régulières de l’Instrumental (tṛtīyā) :**

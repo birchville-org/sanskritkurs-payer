@@ -9,9 +9,9 @@ status: stable
 
 # Lektion 39
 
-## 39.1. Les désinences personnelles de la première personne (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**troisième** personne")
+## 39.1. Les désinences personnelles de la première personne (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**troisième** personne")
 
-Les désinences de la première personne (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**troisième** personne") sont :
+Les désinences de la première personne (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**troisième** personne") sont :
 
 ::: grammar-box
 
@@ -62,7 +62,7 @@ Les désinences de la première personne (***⟪तृतीयः⟫*** ⟪प�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪विशेयम्⟫ | ⟪विशेम⟫ | **\<⟪विशेय⟫\>** | **\<⟪विशेमहि⟫\>** |
 
 :::
-### 39.2.3. Vierte Präsensklasse (⟪दिवादि⟫)
+### 39.2.3. Quatrième classe de présent (⟪दिवादि⟫)
 
 ⟪नृत्⟫ 1P
 
@@ -122,7 +122,7 @@ Les désinences de la première personne (***⟪तृतीयः⟫*** ⟪प�
 | **Futur  - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
-### 39.3.2. ⟪सेट्⟫-Bildung
+### 39.3.2. Formation de ⟪सेट्⟫
 
 ⟪भू⟫ 1P
 
@@ -144,9 +144,9 @@ Les désinences de la première personne (***⟪तृतीयः⟫*** ⟪प�
 
 **commencer, les consonnes restent généralement inchangées.**
 
-**par exemple. ⟪वच्⟫ 1.sg.Ind.Présent **⟪व⟫***⟪च्मि⟫***
+**par exemple. ⟪वच्⟫ 1.sg.Ind.Présent **⟪व⟫**⟪च्मि⟫**
 :::
-### 39.4.1. Zweite Präsensklasse (⟪अदादि⟫)
+### 39.4.1. Deuxième classe de présent (⟪अदादि⟫)
 
 ⟪द्विष्⟫ 2U
 
@@ -246,7 +246,7 @@ Fig. : ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪कुर्याम्⟫ | ⟪कुर्याम⟫ | ⟪कुर्वीय⟫ | ⟪कुर्वीमहि⟫ |
 
 :::
-### 39.4.5. Siebte Präsensklasse (⟪रुधादि⟫)
+### 39.4.5. Septième classe de présent (⟪रुधादि⟫)
 
 ⟪युज्⟫ 7U
 

@@ -27,7 +27,7 @@ status: stable
 **II. sém séma: Alany (kartṛ m. = ⟪कर्तृ⟫) – Igealak**
 - pl. **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = „Rāma áldozattal tisztel, „Rāma áldoz”
 :::
-Ha az alany (**kartṛ m. = ⟪कर्तृ⟫) egy nem passzív igemondatban szerepel, akkor az alany **Nominativus** (első eset, prathamā = ⟪प्रथमा⟫) esetben áll. A szám (vacana n. = ⟪वचन⟫) egyezik az alany és az igealak között.
+Ha az alany (**kartṛ m. = ⟪कर्तृ⟫) egy nem passzív igemondatban szerepel, akkor az alany **alanyeset (nominativus)us** (első eset, prathamā = ⟪प्रथमा⟫) esetben áll. A szám (vacana n. = ⟪वचन⟫) egyezik az alany és az igealak között.
 
 ## 6.2. Az igék képzése
 

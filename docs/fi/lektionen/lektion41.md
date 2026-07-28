@@ -22,7 +22,7 @@ Selitys: ⟪पर⟩ "toinen"
 ::: media
 ![lekt4102.jpg](/images/lekt4102.webp)
 Kuva: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
-(Kuv lähde: [Details](/fi/licenses#lekt4102))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4102))
 :::
 
 ::: indent
@@ -219,7 +219,7 @@ Esimerkkejä:
 ::: media
 ![lekt4106.jpg](/images/lekt4106.webp)
 Kuva: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4106))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4106))
 :::
 Korkeatasoinen koulutus:
 
@@ -294,7 +294,7 @@ Gerundiivia voidaan käyttää myös predikatiivisena substantiivina lauseissa, 
 ::: media
 ![lekt4108.jpg](/images/lekt4108.webp)
 Kuva: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4108))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4108))
 :::
 ### 41.2.4. Eroja gerundiivijänteiden käytössä
 
@@ -318,7 +318,7 @@ Gerundiiveja ei saa yhdistää sanoihin ⟪सु⟫- ja ⟪दुस्⟫ merk
 ::: media
 ![lekt4105.jpg](/images/lekt4105.webp)
 Kuv.: ⟪भुजङ्गः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt4105))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt4105))
 :::
 ⟪केवलम्⟫ Adv.: vain, ainoastaan, täydellisesti
 
@@ -327,7 +327,7 @@ Kuv.: ⟪भुजङ्गः⟫
 ::: media
 ![lekt4104.jpg](/images/lekt4104.webp)
 Kuva: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4104))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4104))
 :::
 ⟪शास्⟫ 2P ⟪शास्ति⟫ : ohjeistaa, hallita, käskyttää, opettaa
 
@@ -348,7 +348,7 @@ siitä:
 ::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
 Kuv.: ⟪शासना⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt4109))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt4109))
 :::
 
 ::: indent
@@ -359,7 +359,7 @@ Kuv.: ⟪शासना⟫
 ::: media
 ![lekt4110.jpg](/images/lekt4110.webp)
 Kuv.: ⟪शास्त्री⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt4110))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt4110))
 :::
 
 ::: indent
@@ -396,7 +396,7 @@ B) Käännä:
 ::: media
 ![lekt4111.jpg](/images/lekt4111.webp)
 Kuva: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ...
-(Kuv lähde: [Details](/fi/licenses#lekt4111))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4111))
 :::
 ⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥३॥⟫
 

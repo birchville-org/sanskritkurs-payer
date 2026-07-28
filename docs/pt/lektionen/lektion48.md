@@ -403,7 +403,7 @@ B) Traduza para o sânscrito (usando o imperativo e, se possível, raízes da 2�
 ⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫
 :::
 Explicação:
-⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Dual de ⟪द्वे⟫ ⟪कुले⟫ "duas famílias"
+:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Dual de ⟪द्वे⟫ ⟪कुले⟫ "duas famílias"
 
 ::: deleteme-box
 

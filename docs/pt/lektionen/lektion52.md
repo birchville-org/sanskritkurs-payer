@@ -392,7 +392,7 @@ pūrva + śālā ("salão") » \*pūrvaśālā (não pode ser usado desta forma!
 
 2.  o composto assim formado é usado com um significado que, de outra forma, seria indicado por um sufixo Taddhita (neste tipo, a transição para Bahuvrīhi é fluida):
 Exemplos:
-dvi + go » ⟪द्विगु⟫ : não: "duas vacas", mas: "**adquirido por duas vacas**"
+dvi + go » :sig[⟪द्विगु⟫] : não: "duas vacas", mas: "**adquirido por duas vacas**"
 ⟪द्विवर्ष⟫ não: "dois anos", mas: "**de dois anos de idade**"
 
 3.  o composto assim formado constitui o primeiro membro de outro composto

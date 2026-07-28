@@ -44,7 +44,7 @@ Esempi:
 ### 12.1.2. Schema I per i verbi intransitivi e i verbi di movimento
 
 ::: grammar-box
-**Agente (kartṛ) in Nominativo (prathamā) -- Participio Perfetto Passivo**
+**Agente (kartṛ) in Nominativooo (prathamā) -- Participio Perfetto Passivo**
 
 In questo caso, il PPP concorda con l'Agente in numero, caso e genere. Il Participio Perfetto "Passivo" ha, con i verbi intransitivi (verbi senza oggetto diretto) e i verbi di movimento, un significato attivo.
 

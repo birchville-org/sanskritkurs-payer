@@ -21,7 +21,7 @@ Formas sequentes determinate:
 | ⟪६⟫. | ⟪मन्यै⟫ | :sig[⟪मन्⟫] 4Ā: Imp. 1. Sg. Ā. |
 | ⟪७⟫. | ⟪मान्यै⟫ | :sig[⟪मन्⟫] 4Ā: Caus. Pass. Imp. 1. Sg. |
 | ⟪८⟫. | ⟪मान्यैः⟫ | :sig[⟪मन्⟫] 4Ā: Caus. Gerundiv Instr. Pl. m. n. |
-| ⟪९⟫. | ⟪अहम्⟫ | Ego: Nom. Sg. |
+| ⟪९⟫. | :sig[⟪अहम्⟫] | Ego: Nom. Sg. |
 | ⟪१०⟫. | ⟪अहन्⟫ | :sig[⟪हन्⟫] 2P: Impf. 2. 3. Sg. P. |
 | ⟪११⟫. | ⟪आत्थ⟫ | :sig[⟪अह्⟫]: Perf. 2. Sg. P. |
 | ⟪१२⟫. | ⟪आत्त⟫ | :sig[⟪अद्⟫] 2P: Impf. 2. Pl. P. |

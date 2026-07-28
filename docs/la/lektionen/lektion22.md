@@ -143,6 +143,8 @@ Radix in **-a** + **-tya**
 :::
 ::: media
 ![](/images/lekt2202.webp)
+Abb.: ⟪कामदेवः⟫
+saec. XIX
 Fig.: ⟪कामदेवः⟫
 saec. XIX
 (Fons imaginis: [Details](/la/licenses#lekt2202))

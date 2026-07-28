@@ -86,7 +86,7 @@ Contoh:
 | Pasif | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
-### 32.4.2. Kelas-kelas Präsens Atematik
+### 32.4.2. Kelas-kelas Present Atematik
 
 ::: grammar-box
 

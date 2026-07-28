@@ -121,7 +121,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
 | ⟪गम्⟫ 1P | ⟪जगाम⟫ | ⟪जग्मुर्⟫:brja-gm-ur | | |
-| ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | *⟪जघ्नुर्⟫* | | |
+| ⟪हन्⟫ 2P | :sig[⟪जघान⟫] :brja-**ghān**-a | *:sig[⟪जघ्नुर्⟫]* | | |
 | ⟪जन्⟫ 4Ā | | | ⟪जज्ञे⟫:brja-jñ-e | ⟪जज्ञिरे⟫ |
 | ⟪वच्⟫ 2P | ⟪उवाच⟫ | ⟪ऊचुर्⟫:bru + uc-ur | | |
 | ⟪वद्⟫ 1P | ⟪उवाद⟫ | ⟪ऊदुर्⟫ | \<⟪ऊदे⟫\> | \<⟪ऊदिरे⟫\> |
@@ -142,7 +142,7 @@ Beispiel: <!-- TODO: Fallback translation -->
 
 | Wurzel | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *⟪पे⟫*⟪चुर्⟫ | *⟪पे⟫*⟪चे⟫ | *⟪पे⟫*⟪चिरे⟫ |
+| ⟪पच्⟫ 1U | ⟪पपाच⟫ | *:sig[⟪पे⟫]*⟪चुर्⟫ | *:sig[⟪पे⟫]*⟪चे⟫ | *:sig[⟪पे⟫]*⟪चिरे⟫ |
 
 ### 35.3.3. Perfekt Typ Vc: Wurzeln Konsonant-a-Konsonant. Schwacher Stamm Hochstufe
 
@@ -174,15 +174,15 @@ Beispiel: <!-- TODO: Fallback translation -->
 **Kaus. ⟪नाशयति⟫** :br
 **PPP ⟪नष्ट⟫** <!-- TODO: Fallback translation -->
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen <!-- TODO: Fallback translation -->
+**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : verschwinden, verloren gehen, zugrundegehen <!-- TODO: Fallback translation -->
 
-**⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : schreiten, gehen <!-- TODO: Fallback translation -->
+**⟪क्रम्⟫** 1U *****:sig[⟪क्रा⟫]*****⟪मति⟫**, 4P *****:sig[⟪क्रा⟫]*****⟪म्यति⟫** : schreiten, gehen <!-- TODO: Fallback translation -->
 ::: indent
 **Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
 **Fut. ⟪क्रमिष्यति⟫** :br
 **Pass. ⟪क्रम्यते⟫** :br
 **Kaus. ⟪क्रमयति⟫** :br
-**PPP ***⟪क्रा⟫***⟪न्त⟫** :br
+**PPP ***:sig[⟪क्रा⟫]***⟪न्त⟫** :br
 **Inf. ⟪क्रमितुम्⟫** :br
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫** <!-- TODO: Fallback translation -->
 :::

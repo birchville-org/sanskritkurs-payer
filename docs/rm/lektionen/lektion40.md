@@ -405,11 +405,11 @@ La furma dal pronom persunal (pronomen persunal) è la medema per tut ils gender
 
 :::
 ::: grammar-box
-Las furmas pli curtas, che statan en il segund lieu qua sut (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), na d’esser mai adina en il cumenzament d’ina frasa u vers.
+Las furmas pli curtas, che stattan a la secunda posiziun survart (⟪मा⟫, ⟪मे⟫, ⟪नस्⟫), na dastgan mai vegnir duvradas al cumenzament d'ina frasa u d'in vers.
 
-Davart las particlas ⟪च⟫, ⟪वा⟫, ⟪एव⟫ naanquai n'è possible d'adoperar las cunseguentamain cunseguentamain cunseguentamain cunseguentamain cunseguentamain cunseguentamain cunseguentamain cunseguentamain cunse
+Avant las particlas ⟪च⟫, ⟪वा⟫, ⟪एव⟫ na dastgan questas furmas encliticas blera giada era betg vegnir duvradas:
 
-nur: ... ⟪मां⟫ ⟪च⟫ ... "e mi"
+numnadamain: ... ⟪मां⟫ ⟪च⟫ ... "e mai"
 :::
 ::: grammar-box
 Il cas genitiv (⟪षष्ठी⟫) dals pronom persunals vegn duvrà sco pronom possessiv:

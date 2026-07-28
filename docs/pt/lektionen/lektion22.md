@@ -143,11 +143,9 @@ Raiz em **-a** + **-tya**
 :::
 ::: media
 ![](/images/lekt2202.webp)
-Ilustração: ⟪कामदेवः⟫
-séc. XIX
-Fig.: ⟪कामदेवः⟫
-séc. XIX
-(Fonte da imagem: [Detalhes](/licenses#lekt2202))
+Abb.: ⟪कामदेवः⟫
+19. Jhdt
+(Bildquelle: [Details](/licenses#lekt2202))
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** ser capaz, poder
 

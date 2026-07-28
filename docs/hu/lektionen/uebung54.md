@@ -21,7 +21,7 @@ Alakítsa ki a következő jelen idő vagy befejezett múlt alakokhoz a megfelel
 | ⟪४⟫. | ⟪बभूव⟫ én / ő / ők volt / vagytok | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
 | ⟪५⟫. | ⟪दधति⟫ ők helyeznek | ⟪अधुः⟫ |
 | ⟪६⟫. | ⟪ऐम⟫ mi mentünk | ⟪अगाम⟫ |
-| ⟪७⟫. | ⟪पपिथ⟫ te ivott / őrzött | ⟪अपाः⟫ (a szig[⟪पा⟫] "inni" tőhöz) |
+| ⟪७⟫. | ⟪पपिथ⟫ te ivott / őrzött | ⟪अपाः⟫ (a szig[:sig[⟪पा⟫]] "inni" tőhöz) |
 | ⟪८⟫. | ⟪तिष्ठति⟫ ő áll | ⟪अस्थात्⟫ |
 | ⟪९⟫. | ⟪इयेथ⟫ te mentél | ⟪अगाः⟫ |
 | ⟪१०⟫. | ⟪पप⟫ ti ivatok | ⟪अपात⟫ |

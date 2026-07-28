@@ -75,7 +75,7 @@ Rajasthan.
 ![](/images/lekt2703.webp)
 Kuv.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
 Holi.
-(Kuv lähde: [Details](/fi/licenses#lekt2703))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2703))
 :::
 
 ::: grammar-box
@@ -155,11 +155,11 @@ Lokatiivin käytöstä myöhemmin.
 :::
 **Signalrot painotettu**: vahvat sijamuodot (vartalon vaihtelun yhteydessä).
 
-## 27.4. Runo, jossa on kaikki taivutusmuodot (yksikkö) sanalle ⟪राम⟫
+## 27.4. Runo, jossa on kaikki taivutusmuodot (yksikkö) sanalle :sig[⟪राम⟫]
 
 ::: media
 ![](/images/lekt2708.webp)
-Kuv.: ⟪रामे⟫ ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ⟪राम⟫ ⟪मामुद्धर⟫ ⟪॥⟫
+Kuv.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
 (Kuv lähde: [Tiedot](/fi/licenses#lekt2708))
 :::
@@ -218,7 +218,7 @@ Vastrāṇi. Majuli, Assam.
 ![](/images/lekt2707.webp)
 Kuv.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
-(Kuvälähde: [Details](/fi/licenses#lekt2707))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt2707))
 :::
 ⟪हृ⟫ 1U (⟪हरति⟫): pitää, kantaa; hakea, viedä pois, ryöstää
 
@@ -240,14 +240,14 @@ Vastine sanalle ⟪हर⟫:
 ![](/images/lekt2704.webp)
 Kuv.: ⟪हरिहरः⟫
 Harihara (vasen: Viṣṇu, oikea: Śiva).
-(Kuv lähde: [Details](/fi/licenses#lekt2704))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2704))
 :::
 
 ::: media
 ![](/images/lekt2705.webp)
 Kuv.: ⟪हरिहरः⟫
 Harihara (vasen: Viṣṇu, oikea: Śiva). Godrumdwip, Länsi-Bengali.
-(Kuv lähde: [Details](/fi/licenses#lekt2705))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2705))
 :::
 ## 27.6. Harjoitus
 
@@ -267,7 +267,7 @@ Harihara (vasen: Viṣṇu, oikea: Śiva). Godrumdwip, Länsi-Bengali.
 ![](/images/lekt2709.webp)
 Kuvaus: ⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥⟫
 Maalaus Rāja Ravi Varmalta (1848 - 1906).
-(Kuv lähde: [Details](/fi/licenses#lekt2709))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2709))
 :::
 ⟪पुत्रे⟫ ⟪मृतेऽपुत्रा⟫ ⟪ब्राह्मणी⟫ ⟪पुत्रं⟫ ⟪लब्धुं⟫ ⟪व्रतं⟫ ⟪करोति⟫ ⟪॥४॥⟫
 
@@ -304,7 +304,7 @@ Maalaus Rāja Ravi Varmalta (1848 - 1906).
 ![](/images/lekt2711.webp)
 Kuva: ⟪नराः⟫
 Naran. Udaipur.
-(Kuv lähde: [Details](/fi/licenses#lekt2711))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2711))
 :::
 ### 27.7.2. Neutraali -a-päätteiset sanat: ⟪फल⟫
 
@@ -325,7 +325,7 @@ Naran. Udaipur.
 ![](/images/lekt2710.webp)
 Kuva: ⟪फलानि⟫
 Hedelmät. Bangalore.
-(Kuv lähde: [Details](/fi/licenses#lekt2710))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2710))
 :::
 ### 27.7.3. Naispuoliset substantiivit, jotka päättyvät -ā: ⟪क्षत्रिया⟫
 
@@ -346,7 +346,7 @@ Hedelmät. Bangalore.
 ![](/images/lekt2718.webp)
 Kuva: ⟪क्षत्रिया⟫
 Maharani Vani Vilasa Sannidhana (1866 - 1934) pojanpoikansa prinssi Jaya Chamaraja Wadiyarin kanssa, Mysore.
-(Kuv lähde: [Details](/fi/licenses#lekt2718))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2718))
 :::
 ### 27.7.4. Maskuliinit -i-päätteiset: ⟪अरि⟫
 
@@ -367,7 +367,7 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) pojanpoikansa prinssi Jaya Chamara
 ![](/images/lekt2712.webp)
 Kuva: ⟪अरयः⟫
 Kahden vuoden 1857 kapinallisen hirttäminen. Felice Beaton (1833/1834 – n. 1907) valokuva.
-(Kuv lähde: [Details](/fi/licenses#lekt2712))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2712))
 :::
 ### 27.7.5. Naispuoliset substantiivit, jotka päättyvät -iin: ⟪मति⟫
 
@@ -403,7 +403,7 @@ Kahden vuoden 1857 kapinallisen hirttäminen. Felice Beaton (1833/1834 – n. 19
 ![](/images/lekt2713.webp)
 Kuva: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
-(Kuv lähde: [Details](/fi/licenses#lekt2713))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2713))
 :::
 ### 27.7.7. Feminina auf -u: ⟪धेनु⟫
 
@@ -424,7 +424,7 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 ![](/images/lekt2714.webp)
 Kuva: ⟪धेनुः⟫
 Lehmä Udaipurissa.
-(Kuv lähde: [Details](/fi/licenses#lekt2714))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2714))
 :::
 ### 27.7.8. Monitavuiset vartalon -ī pääteiset feminiinit: ⟪देवी⟫
 
@@ -445,7 +445,7 @@ Lehmä Udaipurissa.
 ![](/images/lekt2715.webp)
 Kuva: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
-(Kuv lähde: [Details](/fi/licenses#lekt2715))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2715))
 :::
 ### 27.7.9. Partisiipin preesens Parasmaipada -ant: ⟪सन्त्⟫
 
@@ -466,7 +466,7 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 ![](/images/lekt2716.webp)
 Kuva: ⟪सद्गुरुः⟫
 Sai Baba Shirdista (1835 - 1918).
-(Kuv lähde: [Details](/fi/licenses#lekt2716))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2716))
 :::
 ### 27.7.10. ⟪महान्त्⟫
 
@@ -575,7 +575,7 @@ Sai Baba Shirdista (1835 - 1918).
 ![](/images/lekt2717.webp)
 Kuv.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
-(Kuv lähde: [Details](/fi/licenses#lekt2717))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2717))
 :::
 
 ::: deleteme-box

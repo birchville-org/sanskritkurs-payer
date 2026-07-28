@@ -1,9 +1,9 @@
 ---
-title: ትምህርት 30
-subtitle: "9ኛው የአሁን ጊዜ ክፍል (⟪क्र्यादि⟫ = \"⟪क्री⟫ ወዘተ\")"
+title: Lektion 30
+subtitle: "Die 9. Präsensklasse (⟪क्र्यादि⟫ = \"⟪क्री⟫ u.s.w.\")"
 lesson_id: 30
 last_reconstructed: 2026-05-21
-category: "ሰዋስው"
+category: "Grammatik"
 status: stable
 ---
 
@@ -18,9 +18,9 @@ status: stable
 
 *   ደካማ ግንድ፦
 
-*   ከተነባቢ በፊት፦ ዝቅተኛ ደረጃ ሥር + -nī-
+    *   ከተነባቢ በፊት፦ ዝቅተኛ ደረጃ ሥር + -nī-
 
-*   ከአናባቢ በፊት፦ ዝቅተኛ ደረጃ ሥር + -n-
+    *   ከአናባቢ በፊት፦ ዝቅተኛ ደረጃ ሥር + -n-
 :::
 ምሳሌ፦
 
@@ -29,20 +29,20 @@ status: stable
 :::
 ::: grammar-box
 
-| |ነጠላ:br⟪एकवचन⟫|ብዙ:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ኛ መደብ:brParasmaipada**|⟪क्रीणाति⟫:br(krī + nā + ti)|⟪क्रीणन्ति⟫:br(krī + n + anti)|
-|**3ኛ መደብ:brĀtmanepada**|⟪क्रीणीते⟫:br(krī + nī + te)|⟪क्रीणते⟫:br(krī + n + ate)|
+| **3ኛ መደብ:brParasmaipada** | ⟪क्रीणाति⟫:br(krī + nā + ti) | ⟪क्रीणन्ति⟫:br(krī + n + anti) |
+| **3ኛ መደብ:brĀtmanepada** | ⟪क्रीणीते⟫:br(krī + nī + te) | ⟪क्रीणते⟫:br(krī + n + ate) |
 
 :::
 በዚህ የአሁን ጊዜ ክፍል ውስጥ፣ ከሥሩ ⟪ज्ञा⟫ 9U 'ማወቅ፣ መገንዘብ'፡ የተገኘው የአሁን ጊዜ ግንድ አፈጣጠር በተለይ ልብ ሊባል ይገባል፡
 
 ::: grammar-box
 
-| |ነጠላ:br⟪एकवचन⟫|ብዙ:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ኛ መደብ:brParasmaipada**|⟪जानाति⟫:br(jā-nā-ti)|⟪जानन्ति⟫:br(jā-n-anti)|
-|**3ኛ መደብ:brĀtmanepada**|⟪जानीते⟫:br(jā-nī-te)|⟪जानते⟫:br(jā-n-ate)|
+| **3ኛ መደብ:brParasmaipada** | ⟪जानाति⟫:br(jā-nā-ti) | ⟪जानन्ति⟫:br(jā-n-anti) |
+| **3ኛ መደብ:brĀtmanepada** | ⟪जानीते⟫:br(jā-nī-te) | ⟪जानते⟫:br(jā-n-ate) |
 
 :::
 የ⟪ज्ञा⟫ የአሁን ጊዜ ግንድ መሠረት የሆነው ⟪जा⟫ ቅርጽ፣ ወይ በ-ā (ዝቅተኛ ደረጃ) -nā (ከፍተኛ ደረጃ) የአብላውት ቅደም ተከተል፣ ወይም ከ*jñā-nā-ti በሚመጣ የድምፅ መለያየት (dissimilation) ይገለጻል።
@@ -56,10 +56,10 @@ status: stable
 :::
 ::: grammar-box
 
-| |ነጠላ፡br⟪एकवचन⟫|ብዙ፡br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ኛ መደብ፡brParasmaipada**|⟪पुनाति⟫:br(pu-nā-ti)|⟪पुनन्ति⟫:br(pu-n-anti)|
-|**3ኛ መደብ፡brĀtmanepada**|⟪पुनीते⟫:br(pu-nī-te)|⟪पुनते⟫:br(pu-n-ate)|
+| **3ኛ መደብ፡brParasmaipada** | ⟪पुनाति⟫:br(pu-nā-ti) | ⟪पुनन्ति⟫:br(pu-n-anti) |
+| **3ኛ መደብ፡brĀtmanepada** | ⟪पुनीते⟫:br(pu-nī-te) | ⟪पुनते⟫:br(pu-n-ate) |
 
 :::
 የፓራስማይፓዳ የአሁን ጊዜ ተካፋይ አፈጣጠር፡
@@ -115,10 +115,10 @@ status: stable
 
 ::: grammar-box
 
-| |3ኛ መደብ ነጠላ|3ኛ መደብ ብዙ|
+| | 3ኛ መደብ ነጠላ | 3ኛ መደብ ብዙ |
 | :--- | :--- | :--- |
-|**Parasmaipada**|**-t**|ቲማቲክ ያልሆኑ ክፍሎች፡ **-an** ወይም **-ur** :brምኞታዊ፡ **-ur**|
-|**Ātmanepada**|**-ta**|ቲማቲክ ያልሆኑ ክፍሎች፡ **-ata** (ከ *nta):brምኞታዊ፡ **-ran**|
+| **Parasmaipada** | **-t** | ቲማቲክ ያልሆኑ ክፍሎች፡ **-an** ወይም **-ur** :brምኞታዊ፡ **-ur** |
+| **Ātmanepada** | **-ta** | ቲማቲክ ያልሆኑ ክፍሎች፡ **-ata** (ከ *nta):brምኞታዊ፡ **-ran** |
 
 :::
 ## 30.4. የአሁን ጊዜ ምኞታዊ ግስ አፈጣጠር (⟪लिङ्⟫)
@@ -141,43 +141,43 @@ status: stable
 ⟪भू⟫
 ::: grammar-box
 
-| |ነጠላ:br⟪एकवचन⟫|ብዙ:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ኛ መደብ:brParasmaipada**|⟪भवेत्⟫:br(bhava + i + t)|⟪भवेयुर्⟫:br(bhava + i + y + ur)|
-|**3ኛ መደብ:brĀtmanepada**|⟪भवेत⟫:br(bhava + i + ta)|⟪भवेरन्⟫:br(bhava + i + ran)|
+| **3ኛ መደብ:brParasmaipada** | ⟪भवेत्⟫:br(bhava + i + t) | ⟪भवेयुर्⟫:br(bhava + i + y + ur) |
+| **3ኛ መደብ:brĀtmanepada** | ⟪भवेत⟫:br(bhava + i + ta) | ⟪भवेरन्⟫:br(bhava + i + ran) |
 
 :::
-4. የአሁን ጊዜ ክፍል፦
+የአሁን ጊዜ ክፍል፦
 
 ⟪नृत्⟫
 ::: grammar-box
 
-| |ነጠላ:br⟪एकवचन⟫|ብዙ:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ኛ መደብ:brParasmaipada**|⟪नृत्येत्⟫:br(nṛtya + i + t)|⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur)|
-|**3ኛ መደብ:brĀtmanepada**|⟪नृत्येत⟫:br(nṛtya + i + ta)|⟪नृत्येरन्⟫:br(nṛtya + i + ran)|
+| **3ኛ መደብ:brParasmaipada** | ⟪नृत्येत्⟫:br(nṛtya + i + t) | ⟪नृत्येयुर्⟫:br(nṛtya + i + y + ur) |
+| **3ኛ መደብ:brĀtmanepada** | ⟪नृत्येत⟫:br(nṛtya + i + ta) | ⟪नृत्येरन्⟫:br(nṛtya + i + ran) |
 
 :::
-6. የአሁን ጊዜ ክፍል
+የአሁን ጊዜ ክፍል
 
 ⟪विश्⟫
 ::: grammar-box
 
-| |ነጠላ:br⟪एकवचन⟫|ብዙ:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ኛ መደብ:brParasmaipada**|⟪विशेत्⟫:br(viśa + i + t)|⟪विशेयुर्⟫:br(viśa + i + y + ur)|
-|**3ኛ መደብ:brĀtmanepada**|⟪विशेत⟫:br(viśa + i + ta)|⟪विशेरन्⟫:br(viśa + i + ran)|
+| **3ኛ መደብ:brParasmaipada** | ⟪विशेत्⟫:br(viśa + i + t) | ⟪विशेयुर्⟫:br(viśa + i + y + ur) |
+| **3ኛ መደብ:brĀtmanepada** | ⟪विशेत⟫:br(viśa + i + ta) | ⟪विशेरन्⟫:br(viśa + i + ran) |
 
 :::
-10. የአሁን ጊዜ መደብ እና አስገዳጅ ግሶች
+የአሁን ጊዜ መደብ እና አስገዳጅ ግሶች
 
 ⟪चुर्⟫
 ::: grammar-box
 
-| |ነጠላ:br⟪एकवचन⟫|ብዙ:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ኛ መደብ:brParasmaipada**|⟪चोरयेत्⟫:br(coraya + i + t)|⟪चोरयेयुर्⟫:br(coraya + i + y + ur)|
-|**3ኛ መደብ:brĀtmanepada**|⟪चोरयेत⟫:br(coraya + i + ta)|⟪चोरयेरन्⟫:br(coraya + i + ran)|
+| **3ኛ መደብ:brParasmaipada** | ⟪चोरयेत्⟫:br(coraya + i + t) | ⟪चोरयेयुर्⟫:br(coraya + i + y + ur) |
+| **3ኛ መደብ:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
 
 :::
 ### 30.4.2. ቴማቲክ ያልሆኑ የአሁን ጊዜ መደቦች
@@ -193,55 +193,55 @@ status: stable
 :::
 ምሳሌዎች:
 
-2. የአሁን ጊዜ መደብ:
+የአሁን ጊዜ መደብ:
 
 ⟪द्विष्⟫
 ::: grammar-box
 
-| |ነጠላ ቁጥር:br⟪एकवचन⟫|ብዙ ቁጥር:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ኛ መደብ:brParasmaipada**|⟪द्विष्यात्⟫:br(dviṣ-yā-t)|⟪द्विष्युर्⟫:br(dviṣ-y-ur)|
-|**3ኛ መደብ:brĀtmanepada**|⟪द्विषीत⟫:br(dviṣ-ī-ta)|⟪द्विषीरन्⟫:br(dviṣ-ī-ran)|
+| **3ኛ መደብ:brParasmaipada** | ⟪द्विष्यात्⟫:br(dviṣ-yā-t) | ⟪द्विष्युर्⟫:br(dviṣ-y-ur) |
+| **3ኛ መደብ:brĀtmanepada** | ⟪द्विषीत⟫:br(dviṣ-ī-ta) | ⟪द्विषीरन्⟫:br(dviṣ-ī-ran) |
 
 :::
-5. የአሁን ጊዜ መደብ
+የአሁን ጊዜ መደብ
 
 ⟪सु⟫
 ::: grammar-box
 
-| |ነጠላ:br⟪एकवचन⟫|ብዙ:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**፫ኛ መደብ:brParasmaipada**|⟪सुनुयात्⟫:br(sunu-yā-t)|⟪सुनुयुर्⟫:br(sunu-y-ur)|
-|**፫ኛ መደብ:brĀtmanepada**|⟪सुन्वीत⟫:br(sunu + ī + ta)|⟪सुन्वीरन्⟫:br(sunu + ī + ran)|
+| **፫ኛ መደብ:brParasmaipada** | ⟪सुनुयात्⟫:br(sunu-yā-t) | ⟪सुनुयुर्⟫:br(sunu-y-ur) |
+| **፫ኛ መደብ:brĀtmanepada** | ⟪सुन्वीत⟫:br(sunu + ī + ta) | ⟪सुन्वीरन्⟫:br(sunu + ī + ran) |
 
 :::
-8. የአሁን ጊዜ መደብ
+የአሁን ጊዜ መደብ
 
 ⟪तन्⟫
 ::: grammar-box
 
-| |ነጠላ:br⟪एकवचन⟫|ብዛት:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ኛ መደብ:brParasmaipada**|⟪तनुयात्⟫:br(tanu-yā-t)|⟪तनुयुर्⟫:br(tanu-y-ur)|
-|**3ኛ መደብ:brĀtmanepada**|⟪तन्वीत⟫:br(tanu + ī + ta)|⟪तन्वीरन्⟫:br(tanu + ī + ran)|
+| **3ኛ መደብ:brParasmaipada** | ⟪तनुयात्⟫:br(tanu-yā-t) | ⟪तनुयुर्⟫:br(tanu-y-ur) |
+| **3ኛ መደብ:brĀtmanepada** | ⟪तन्वीत⟫:br(tanu + ī + ta) | ⟪तन्वीरन्⟫:br(tanu + ī + ran) |
 
 :::
 **kṛ** :br(⟪कृ⟫)
 
 ::: grammar-box
 
-| |ነጠላ:br⟪एकवचन⟫|ብዙ:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ኛ መደብ:brParasmaipada**|⟪कुर्यात्⟫|⟪कुर्युर्⟫|
-|**3ኛ መደብ:brĀtmanepada**|⟪कुर्वीत⟫|⟪कुर्वीरन्⟫|
+| **3ኛ መደብ:brParasmaipada** | ⟪कुर्यात्⟫ | ⟪कुर्युर्⟫ |
+| **3ኛ መደብ:brĀtmanepada** | ⟪कुर्वीत⟫ | ⟪कुर्वीरन्⟫ |
 
 :::
 ::: grammar-box
 
-| |ነጠላ:br⟪एकवचन⟫|ብዙ:br⟪बहुवचन⟫|
+| | Singular:br⟪एकवचन⟫ | Plural:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
-|**3ኛ መደብ ፓራስማይፓዳ**|⟪क्रीणीयात्⟫:br(krīṇī-yā-t)|⟪क्रीणीयुर्⟫:br(krīṇī-y-ur)|
-|**3ኛ መደብ አትማኔፓዳ**|⟪क्रीणीत⟫:br(krīṇ-ī-ta)|⟪क्रीणीरन्⟫:br(krīṇ-ī-ran)|
+| **3ኛ መደብ ፓራስማይፓዳ** | ⟪क्रीणीयात्⟫:br(krīṇī-yā-t) | ⟪क्रीणीयुर्⟫:br(krīṇī-y-ur) |
+| **3ኛ መደብ አትማኔፓዳ** | ⟪क्रीणीत⟫:br(krīṇ-ī-ta) | ⟪क्रीणीरन्⟫:br(krīṇ-ī-ran) |
 
 :::
 ## 30.5. የመጨረሻ -r ሳንዲ

@@ -9,9 +9,9 @@ status: stable
 
 # Lektion 39
 
-## 39.1. Desinences personae primae (***⟪तृतीयः⟫⟫ ⟪पुरुषः⟫ = "**tertia** persona")
+## 39.1. Desinences personae primae (***:sig[⟪तृतीयः⟫]⟫ ⟪पुरुषः⟫ = "**tertia** persona")
 
-Formae primae personae (***⟪तृतीयः⟫⟫ ⟪पुरुषः⟫ = "**tertia** persona") sunt:
+Formae primae personae (***:sig[⟪तृतीयः⟫]⟫ ⟪पुरुषः⟫ = "**tertia** persona") sunt:
 
 ::: grammar-box
 
@@ -122,7 +122,7 @@ Formae primae personae (***⟪तृतीयः⟫⟫ ⟪पुरुषः⟫ 
 | **Futur  - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
-### 39.3.2. ⟪सेट्⟫-Bildung
+### 39.3.2. ⟪सेट्⟫-formatio
 
 ⟪भू⟫ 1P
 
@@ -144,7 +144,7 @@ Formae primae personae (***⟪तृतीयः⟫⟫ ⟪पुरुषः⟫ 
 
 **incipere, consonantes ut regulam immutatae manent.**
 
-e.g. ⟪वच्⟫ 1.sg.Ind.Pres.P **⟪व⟫***⟪च्मि⟫***
+e.g. ⟪वच्⟫ 1.sg.Ind.Pres.P **⟪व⟫**⟪च्मि⟫**
 :::
 ### 39.4.1. Second Present Class (⟪अदादि⟫)
 

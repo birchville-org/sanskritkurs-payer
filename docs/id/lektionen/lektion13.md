@@ -46,7 +46,7 @@ misalnya:
 ⟪इष्टमपि⟫ ⟪फलं⟫ ⟪न⟫ ⟪लभते⟫ = "Meskipun dia menginginkan buah, ia tidak mendapatkannya."
 :::
 
-**3. Neutrum tunggal dari PPP setiap kata kerja juga dapat digunakan sebagai abstrak verbal:**
+**3. Netral tunggal dari PPP setiap kata kerja juga dapat digunakan sebagai abstrak verbal:**
 misalnya:
 ::: indent
 ⟪गत⟫ n.: "perjalanan, cara berjalan"
@@ -123,18 +123,18 @@ Contoh:
 -c + dh- » -g-dh- ⟪ग्ध्⟫
 :::
 
-## 13.7. Kasusendungen konsonantischer Stämme
+## 13.7. Akhiran kasus untuk akar konsonan
 
 ::: grammar-box
 
 Untuk akar yang berakhiran konsonan:
-* akhiran Akkusativ (dvitīyā) Plural Maskulinum dan Femininum adalah -as.
-* pada akar yang dibentuk secara teratur, Kata Benda Netral dalam Nominatif (prathamā) dan Akkusativ (dvitīyā) Singular tidak memiliki akhiran.
-* pada akar yang dibentuk secara teratur dalam Kata Benda Netral, akhiran Nominatif dan Akkusativ Plural adalah -i.
+* akhiran Akusatif (dvitīyā) Jamak Maskulin dan Feminin adalah -as.
+* pada akar yang dibentuk secara teratur, Kata Benda Netral dalam Nominatif (prathamā) dan Akusatif (dvitīyā) Tunggal tidak memiliki akhiran.
+* pada akar yang dibentuk secara teratur dalam Kata Benda Netral, akhiran Nominatif dan Akusatif Jamak adalah -i.
 
 :::
 
-## 13.8. Deklination  Stämme auf -mant dan -vant
+## 13.8. Deklinasi Batang -mant dan -vant
 
 ::: grammar-box
 
@@ -150,7 +150,7 @@ Untuk akar yang berakhiran konsonan:
 | | Akusatif:br⟪द्वितीया⟫ | paśu-mat-as:br⟪पशुमतस्⟫ | guṇa-vat-as:br⟪गुणवतस्⟫ | paśu-mant-i:br⟪पशुमन्ति⟫ | guṇa-vant-i:br⟪गुणवन्ति⟫ |
 | | Instrumental:br⟪तृतीया⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ | paśu-mad-bhis:br⟪पशुमद्भिस्⟫ | guṇa-vad-bhis:br⟪गुणवद्भिस्⟫ |
 
-Femininum:
+Feminin:
 
 Bentuk feminin dari akar pada -mant- dan -vant- berakhiran pada -mat-ī atau -vat-ī. Deklinasinya berjalan seperti pada devī, artinya tidak ada variasi akar.
 
@@ -181,7 +181,7 @@ Pelajari kata-kata berikut:
 ::: media
 ![](/images/lekt1301.webp)
 Gambar: ⟪महिषासुरः⟫
-(Sumber gambar: [Details](/id/licenses#lekt1301))
+(Sumber gambar: [Detail](/id/licenses#lekt1301))
 :::
 - **guṇa** m. ⟪गुण⟫ : Benang, tali; Sifat, sifat baik
 - **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : Berjalan, masuk ke dalam
@@ -200,7 +200,7 @@ Gambar: ⟪महिषासुरः⟫
 ::: media
 ![](/images/lekt1304.webp)
 Gambar: ⟪अन्नम्⟫
-(Sumber gambar: [Details](/id/licenses#lekt1304))
+(Sumber gambar: [Detail](/id/licenses#lekt1304))
 :::
 Pembentukan kata:
 
@@ -215,7 +215,7 @@ pad 4 Ā:
 ::: media
 ![](/images/lekt1303.webp)
 Gambar: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
-(Sumber gambar: [Details](/id/licenses#lekt1303))
+(Sumber gambar: [Detail](/id/licenses#lekt1303))
 :::
 dviṣ 2 U:
 
@@ -234,7 +234,7 @@ A) Terjemahkan dan ubah menjadi kalimat aktif sekarang:
 ::: media
 ![](/images/lekt1305.webp)
 Gambar: ⟪अत्र⟫ ⟪गौतमो⟫ ⟪बुद्धो⟫ ⟪बोध्या⟫ ⟪मुक्तः⟫
-(Sumber gambar: [Details](/id/licenses#lekt1305))
+(Sumber gambar: [Detail](/id/licenses#lekt1305))
 :::
 ⟪४⟫. ⟪शूद्रा⟫ ⟪मूढाः⟫ ⟪।⟫ (2 kemungkinan)
 ⟪५⟫. ⟪ब्राह्मणेन⟫ ⟪मोक्ष⟫ ⟪इष्टः⟫ ⟪।⟫
@@ -290,7 +290,7 @@ C) Bentukkan konstruksi PPP (Participium Praeteriti Perfecti Passivi) untuk kali
 ::: media
 ![](/images/lekt1302.webp)
 Fig.: ⟪सत्यमेव⟫ ⟪जयते⟫
-(Sumber gambar: [Details](/id/licenses#lekt1302))
+(Sumber gambar: [Detail](/id/licenses#lekt1302))
 :::
 D) Dari gabungan bunyi mana bentuk-sandhi berikut ini dapat berasal? Berikan semua kemungkinan:
 

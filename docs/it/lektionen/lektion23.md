@@ -86,7 +86,7 @@ Tra le radici finora studiate, si prestano particolare attenzione i seguenti inf
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Radicen mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. L'infinito (⟪तुमुन्⟫ rispetto alle radici finora apprese)
 

@@ -86,7 +86,7 @@ Además, se aplican las siguientes leyes del sandhi de palabras.
 ::: grammar-box
 1. **-s + s- » -ts- o (¡no opcional!) -ss-** (así en la 2. clase de presente)
    Ejemplos:
-   * **⟪वस्⟫** 1P: Futuro: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
+   * **⟪वस्⟫** 1P: Futurooo: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
    * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
    p. ej. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
@@ -157,9 +157,9 @@ Además, se aplican las siguientes leyes del sandhi de palabras.
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | *⟪असि⟫* | *⟪स्थ⟫* |
-| **Imperfecto** :br⟪लङ्⟫ | *⟪आसीस्⟫* | *⟪आस्त⟫* |
-| **Optativo** :br⟪विधिलिङ्⟫ | *⟪स्यास्⟫* | *⟪स्यात⟫* |
+| **Indikativ Presente** :br⟪लट्⟫ | *:sig[⟪असि⟫]* | *:sig[⟪स्थ⟫]* |
+| **Imperfecto** :br⟪लङ्⟫ | *:sig[⟪आसीस्⟫]* | *:sig[⟪आस्त⟫]* |
+| **Optativo** :br⟪विधिलिङ्⟫ | *:sig[⟪स्यास्⟫]* | *:sig[⟪स्यात⟫]* |
 :::
 ⟪तत्त्वमसि⟫
 
@@ -240,7 +240,7 @@ de ello:
 Fig.: ⟪रेल्यानम्⟫
 (Fuente de la imagen: [Detalles](/es/licenses#lekt4403))
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : yacer. Esta raíz tiene en todas las formas del tema del presente **grado alto:** 1.sg.Ind.Pres.Ā ***⟪शेये⟫*** (śe + e). Las siguientes formas son particularmente importantes: 3.pl.Ind.Pres.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
+**⟪शी⟫** 2Ā ⟪शेते⟫ : yacer. Esta raíz tiene en todas las formas del tema del presente **grado alto:** 1.sg.Ind.Pres.Ā **:sig[⟪शेये⟫]** (śe + e). Las siguientes formas son particularmente importantes: 3.pl.Ind.Pres.Ā **:sig[⟪शेरते⟫]**, 3.pl.Impf.Ā **:sig[⟪अशेरत⟫]**
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -281,13 +281,13 @@ Fig.: ⟪नन्दी⟫
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : tener su alegría de (⟪द्वितीयया⟫), saludar alegremente a alguien, dar la bienvenida
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : sostener, llevar; ofrecer, conceder; mantener unido, domar, frenar, conquistar
+**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : sostener, llevar; ofrecer, conceder; mantener unido, domar, frenar, conquistar
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ pero: ⟪नि⟫***⟪यम⟫***⟪यति⟫  
+Kaus. ⟪यामयति⟫ pero: ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
@@ -331,7 +331,7 @@ Fig.: ⟪यत्नेन⟫
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. ***⟪रम्भ⟫***⟪यति⟫  
+Kaus. **:sig[⟪रम्भ⟫]**⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫

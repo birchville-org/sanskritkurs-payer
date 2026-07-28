@@ -19,7 +19,7 @@ Formați corespunzătoarele forme de aorist pentru următoarele forme de prezent
 | ⟪४⟫. | **⟪बभूव⟫** | eu / el / ei a fost / ați fost | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
 | ⟪५⟫. | **⟪दधति⟫** | ei așază | **⟪अधुः⟫** |
 | ⟪६⟫. | **⟪ऐम⟫** | noi am mers | **⟪अगाम⟫** |
-| ⟪७⟫. | **⟪पपिथ⟫** | tu ai băut / ai păzit | **⟪अपाः⟫** (la *⟪पा⟫* "a bea") |
+| ⟪७⟫. | **⟪पपिथ⟫** | tu ai băut / ai păzit | **⟪अपाः⟫** (la *:sig[⟪पा⟫]* "a bea") |
 | ⟪८⟫. | **⟪तिष्ठति⟫** | el stă | **⟪अस्थात्⟫** |
 | ⟪९⟫. | **⟪इयेथ⟫** | tu ai mers | **⟪अगाः⟫** |
 | ⟪१०⟫. | **⟪पप⟫** | voi ați băut | **⟪अपात⟫** |

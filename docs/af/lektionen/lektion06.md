@@ -1,9 +1,9 @@
 ---
-title: Les 6
-subtitle: "Die struktuur van die verbale sin (Agens en werkwoordvorm)"
+title: Lektion 6
+subtitle: "Den Aufbau des Verbalsatzes (Agens und Verbalform)"
 lesson_id: 6
 last_reconstructed: 2026-05-07
-category: "Grammatika"
+category: "Grammatik"
 status: stable
 ---
 
@@ -36,9 +36,9 @@ As die agens (**kartṛ** m. = ⟪कर्तृ⟫) in 'n werkwoordelike sin g
 1. **Betekenis** (**artha** m. ⟪अर्थ⟫)
 2. **Persoon** en **Numerus** (Getal, **vacana** n. = ⟪वचन⟫) (ek, jy, hy &lt;sy, dit&gt;, ons twee, julle twee, hulle twee, ons, julle, hulle)
 3. Handelingswyse (genus verbi):
-1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("Woordvorm met betrekking tot 'n ander"): Aktief. bv. **yajati** = ⟪यजति⟫ = "Hy aanbid met 'n offer" (naamlik die priester wat die offer vir iemand anders voltrek)
-2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("Woordvorm met betrekking tot homself"): Medium. bv. **yajate** = ⟪यजते⟫ = "Hy aanbid met 'n offer in sy eie belang" (naamlik die heer van die offer, wat vir homself en sy familie offer)
-3. **Passief** (**karman** n. = ⟪कर्मन्⟫). bv. **ijyate** = ⟪इज्यते⟫ = "Daar word met 'n offer aanbid"
+   1. **Parasmaipada** (n. = ⟪परस्मैपद⟫) ("Woordvorm met betrekking tot 'n ander"): Aktief. bv. **yajati** = ⟪यजति⟫ = "Hy aanbid met 'n offer" (naamlik die priester wat die offer vir iemand anders voltrek)
+   2. **Ātmanepada** (n. = ⟪आत्मनेपद⟫) ("Woordvorm met betrekking tot homself"): Medium. bv. **yajate** = ⟪यजते⟫ = "Hy aanbid met 'n offer in sy eie belang" (naamlik die heer van die offer, wat vir homself en sy familie offer)
+   3. **Passief** (**karman** n. = ⟪कर्मन्⟫). bv. **ijyate** = ⟪इज्यते⟫ = "Daar word met 'n offer aanbid"
 
 In baie gevalle is die betekenisnuanse van die Ātmanepada nie meer herkenbaar nie; selfs kunshoofdigters gebruik die Ātmanepada dikwels sonder 'n betekenisverskil met die Parasmaipada. Nogtans moet daar by die vertaling altyd noukeurig op gelet word of so 'n betekenisnuanse nie aanwesig is nie.
 
@@ -47,16 +47,16 @@ Werkwoorde wat in die Parasmaipada en Ātmanepada (in die spesifieke Ātmanepada
 Sommige werkwoorde word óf slegs in die Parasmaipada óf slegs in die Ātmanepada gebruik. By hierdie werkwoorde het die Ātmanepada of Parasmaipada geen spesifieke betekenis nie. bv. **manyate** = ⟪मन्यते⟫ = "hy (sy, dit) dink" (sonder spesifieke Ātmanepada-betekenis).
 
 4. **Wyse** (Modus):
-1. **Indikatief**: Aantonende vorm
-2. **Optatief**: Wensvorm en moontlikheidsvorm
-3. **Imperatief**: Bevelsvorm
+   1. **Indikatief**: Aantonende vorm
+   2. **Optatief**: Wensvorm en moontlikheidsvorm
+   3. **Imperatief**: Bevelsvorm
 5. **Tyd** (Tempus):
-1. **Presens**: Teenwoordige tyd
-2. **Imperfek**
-3. **Perfek**
-4. **Aoristus**
-5. **Futurum**: Toekomende tyd
-6. **Kondisionalis**
+   1. **Presens**: Teenwoordige tyd
+   2. **Imperfek**
+   3. **Perfek**
+   4. **Aoristus**
+   5. **Futurum**: Toekomende tyd
+   6. **Kondisionalis**
 
 Die tye word deur tydstamme gevorm: presensstam, aoristusstam, perfektumstam, futurumstam.
 
@@ -78,17 +78,17 @@ Voorbeelde:
 ## 6.4. Primêre uitgange van die derde persoon (prathama m. = ⟪प्रथम⟫ = "eerste (!) persoon")
 
 ::: grammar-box
-| | Enkelvoud (Enkelvoud):brekavacana n.:br⟪एकवचन⟫ | Meervoud (Meervoud):brbahuvacana n.:br⟪बहुवचन⟫ |
+| | Singular (Einzahl):brekavacana n.:br⟪एकवचन⟫ | Plural (Mehrzahl):brbahuvacana n.:br⟪बहुवचन⟫ |
 | :--- | :--- | :--- |
 | **Parasmaipada n.** :br⟪परस्मैपद⟫ | **-ti** :br-⟪ति⟫ | **-nti** :br-⟪न्ति⟫ |
 | **Ātmanepada n.** :br⟪आत्मनेपद⟫ | **-te** :br-⟪ते⟫ | **-nte** :br-⟪न्ते⟫ |
 :::
 Voorbeeld **yaj** = ⟪यज्⟫ = "met 'n offer vereer", "offer":
 - Presensstam: **yaja** = ⟪यज⟫
-- 3. sg. P. **yajati** = ⟪यजति⟫
-- 3. pl. P. **yajanti** = ⟪यजन्ति⟫
-- 3. sg. Ā. **yajate** = ⟪यजते⟫
-- 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
+  - 3. sg. P. **yajati** = ⟪यजति⟫
+  - 3. pl. P. **yajanti** = ⟪यजन्ति⟫
+  - 3. sg. Ā. **yajate** = ⟪यजते⟫
+  - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
 ## 6.5. Vorming van die presensstam
 
@@ -97,7 +97,7 @@ Voorbeeld **yaj** = ⟪यज्⟫ = "met 'n offer vereer", "offer":
 ::: grammar-box
 **Presensstam = Wortel in nulgraad (waarin dit gelys word) + a-**
 
-| Wortel (dhātu m.):br⟪धातु⟫ | Presensstam |
+| Wurzel (dhātu m.):br⟪धातु⟫ | Presensstam |
 | :--- | :--- |
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
@@ -106,7 +106,7 @@ Voorbeeld **yaj** = ⟪यज्⟫ = "met 'n offer vereer", "offer":
 
 ::: grammar-box
 | Presensstam = Wortel in guṇa-graad (selde vṛddhi-graad) + a- ||||
-| Wortel (dhātu m.):br⟪धातु⟫ | Guṇa-graad | Guṇa-graad voor a- | Presensstam |
+| Wurzel (dhātu m.):br⟪धातु⟫ | Guṇa-graad | Guṇa-graad voor a- | Presensstam |
 | :--- | :--- | :--- | :--- |
 | **bhū** :br⟪भू⟫ | **bho** :br⟪भो⟫ | **bhav** :br⟪भव्⟫ | **bhava-** :br⟪भव⟫- |
 | **nī** :br⟪नी⟫ | **ne** :br⟪ने⟫ | **nay** :br⟪नय्⟫ | **naya-** :br⟪नय⟫- |
@@ -121,7 +121,7 @@ Voor vokale word **e** binne-in 'n woord deur **ay** vervang, en **o** deur **av
 #### 6.5.2.2. Vokaalgradering (Ablaut)
 
 ::: grammar-box
-| Nulgraad:brSwak graad | Volgraad:brGuṇa m.:br⟪गुण⟫ | Verlengde graad:brVṛddhi f.:br⟪वृद्धि⟫ |
+| Nulgraad:brSwak graad | Hochstufe:brVollstufe:brGuṇa m.:br⟪गुण⟫ | Dehnstufe:brVṛddhi f.:br⟪वृद्धि⟫ |
 | :--- | :--- | :--- |
 | **ø** | **a** | **ā** |
 | **i / ī** | **e** | **ai** |
@@ -134,7 +134,7 @@ Voor vokale word **e** binne-in 'n woord deur **ay** vervang, en **o** deur **av
 ::: grammar-box
 **Presensstam = Wortel in nulgraad (waarin dit gelys word) + ya-**
 
-| Wortel (dhātu m.):br⟪धातु⟫ | Presensstam |
+| Wurzel (dhātu m.):br⟪धातु⟫ | Presensstam |
 | :--- | :--- |
 | **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
@@ -183,13 +183,13 @@ In Sanskrit word die werkwoorde in die **wortelvorm** aangegee. Die getal na die
 
 **A) Vorm werkwoordelike sinne deur die wortels wat tussen hakies aangedui word, in te voeg:**
 1. brāhmaṇas ... (yaj, nṛt, viś, man, yudh, nī, muh)
-⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫
+   ⟪ब्राह्मणस्⟫ ... ⟪यज्⟫, ⟪नृत्⟫, ⟪विश्⟫, ⟪मन्⟫, ⟪युध्⟫, ⟪नी⟫, ⟪मुह्⟫
 2. devas ... (nṛt, yudh, smṛ, sṛj)
-⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫
+   ⟪देवस्⟫ ... ⟪नृत्⟫, ⟪युध्⟫, ⟪स्मृ⟫, ⟪सृज्⟫
 3. kavis ... (man, smṛ, viś)
-⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
+   ⟪कविस्⟫ ... ⟪मन्⟫, ⟪स्मृ⟫, ⟪विश्⟫
 4. dhenus ... (viś, bhū)
-⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
+   ⟪धेनुस्⟫ ... ⟪विश्⟫, ⟪भू⟫
 
 **B) Sit die sinne wat in Oefening A gevorm is, in die meervoud.**
 
@@ -219,27 +219,27 @@ In Sanskrit word die werkwoorde in die **wortelvorm** aangegee. Die getal na die
 
 **A) Invuloefening: Vorm vrae waarop die sinne, wat u na die volgende invuloefeninge vorm, antwoorde is:**
 1. devas ... (īśvara, nṛt, sṛj, agni, indra)
-⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫
+   ⟪देवस्⟫ ... ⟪ईश्वर⟫, ⟪नृत्⟫, ⟪सृज्⟫, ⟪अग्नि⟫, ⟪इन्द्र⟫
 2. (dvija, sādhu, kavi) ... brāhmaṇaḥ
-⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫
+   ⟪द्विज⟫, ⟪साधु⟫, ⟪कवि⟫ ... ⟪ब्राह्मणः⟫
 3. (śruti) ... vedaḥ
-⟪श्रुति⟫ ... ⟪वेदः⟫
+   ⟪श्रुति⟫ ... ⟪वेदः⟫
 4. (veda) ... śrutiḥ
-⟪वेद⟫ ... ⟪श्रुतिः⟫
+   ⟪वेद⟫ ... ⟪श्रुतिः⟫
 5. (brāhmaṇa, guru) ... yajanti
-⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫
+   ⟪ब्राह्मण⟫, ⟪गुरु⟫ ... ⟪यजन्ति⟫
 6. (devī) ... indrāṇī
-⟪देवी⟫ ... ⟪इन्द्राणी⟫
+   ⟪देवी⟫ ... ⟪इन्द्राणी⟫
 7. (śūdra, śūdrā, devī) ... nṛtyanti
-⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫
+   ⟪शूद्र⟫, ⟪शूद्रा⟫, ⟪देवी⟫ ... ⟪नृत्यन्ति⟫
 8. (kṣatriya) ... yudhyante
-⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫
+   ⟪क्षत्रिय⟫ ... ⟪युध्यन्ते⟫
 9. (brāhmaṇa, brāhmaṇī) ... viśanti
-⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
+   ⟪ब्राह्मण⟫, ⟪ब्राह्मणी⟫ ... ⟪विशन्ति⟫
 10. (guru) ... candrakīrtiḥ
-⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
+    ⟪गुरु⟫ ... ⟪चन्द्रकीर्तिः⟫
 11. (sādhu) ... rāmaḥ
-⟪साधु⟫ ... ⟪रामः⟫
+    ⟪साधु⟫ ... ⟪रामः⟫
 
 **B) Verander na die meervoud:**
 1. brāhmaṇo yajati. = ⟪ब्राह्मणो⟫ ⟪यजति⟫

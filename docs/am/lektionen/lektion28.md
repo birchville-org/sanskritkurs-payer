@@ -1,5 +1,5 @@
 ---
-title: ትምህርት 28
+title: Lektion 28
 lesson_id: 28
 status: stable
 last_reconstructed: 2026-05-16
@@ -187,9 +187,9 @@ Jadavpur University Management building.
 
 | ሥር | ምክንያታዊ 3ኛ ነጠላ ግሥ (የአሁን ጊዜ) | ትርጉም |
 | :--- | :--- | :--- |
-| ⟪भू⟫ | ⟪भावयति⟫:br(ከ፡ bhau-aya-ti) | አንድ ሰው ወይም ነገር እንዲሆን ማድረግ፣ መፍጠር |
-| ⟪इ⟫ | ⟪आययति⟫:br(ከ፡ ai-aya-ti) | አንድ ሰው እንዲሄድ ማድረግ |
-| ⟪नी⟫ | ⟪नाययति⟫:br(ከ፡ nai-aya-ti) | እንዲመራ ማድረግ |
+| ⟪भू⟫ | ⟪भावयति⟫:br(aus: bhau-aya-ti) | አንድ ሰው ወይም ነገር እንዲሆን ማድረግ፣ መፍጠር |
+| ⟪इ⟫ | ⟪आययति⟫:br(aus: ai-aya-ti) | አንድ ሰው እንዲሄድ ማድረግ |
+| ⟪नी⟫ | ⟪नाययति⟫:br(aus: nai-aya-ti) | እንዲመራ ማድረግ |
 | ⟪कृ⟫ | ⟪कारयति⟫:br(kār-aya-ti) | እንዲሰራ ማድረግ |
 | ⟪वच्⟫ | ⟪वाचयति⟫:br(vāc-aya-ti) | እንዲናገር ማድረግ፣ (ጽሑፍ እንዲነገር ማድረግ =) ጮክ ብሎ ማንበብ |
 
@@ -214,7 +214,7 @@ Jadavpur University Management building.
 | ሥር | አስደራጊ 3ኛ ነጠላ አሁን አመልካች | ትርጉም |
 | :--- | :--- | :--- |
 | ⟪स्था⟫ | ⟪स्थापयति⟫:br(sthā-paya-ti) | እንዲቆም ማድረግ፣ ማቆም |
-| ⟪इ⟫ + ⟪अधि⟫:br"ማጥናት" | ⟪अध्यापयति⟫:br(ከ፡ adhi+ā-paya-ti):br(ለማብራሪያ Thumb-Hauschildt ቅጽ I,2 ገጽ 341 ይመልከቱ) | እንዲያጠና ማድረግ፣ ማስተማር |
+| ⟪इ⟫ + ⟪अधि⟫:br"studieren" | ⟪अध्यापयति⟫:br(aus: adhi+ā-paya-ti):br(zur Erklärung siehe Thumb-Hauschildt Bd. I,2 S. 341) | እንዲያጠና ማድረግ፣ ማስተማር |
 
 ::: grammar-box
 **ያልተስተካከሉ አፈጣጠሮች፡**

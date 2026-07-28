@@ -247,7 +247,7 @@ siitä:
 ![](/images/lekt1703.webp)
 Kuva: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Kuv lähde: [Details](/fi/licenses#lekt1703))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1703))
 :::
 ⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : istua
 
@@ -260,7 +260,7 @@ siitä:
 ::: media
 ![](/images/lekt1701.webp)
 Kuva: ⟪योगासनम्⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1701))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1701))
 :::
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : itkeä, ulvoa
 

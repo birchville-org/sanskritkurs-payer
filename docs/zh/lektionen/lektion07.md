@@ -157,7 +157,7 @@ Weitere Verwendungen des Akkusativ werden später behandelt. <!-- TODO: Fallback
   z.B. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫ <!-- TODO: Fallback translation -->
 :::
 
-## 7.5. Athematische Präsensklassen
+## 7.5. Athematische Präsensklassen <!-- TODO: Fallback translation -->
 
 Die 5. Präsensklasse bildet einen sogenannten athematischen Präsensstamm, d.h. der Präsensstamm lautet nicht wie bei den thematischen Präsensklassen (1., 4., 6., 10. Klasse) auf den "Themavokal" **-a** aus. <!-- TODO: Fallback translation -->
 

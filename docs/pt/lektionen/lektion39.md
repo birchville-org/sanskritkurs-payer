@@ -11,7 +11,7 @@ status: stable
 
 ## 39.1. As desinências pessoais da primeira pessoa (:sig[तृतीयः] ⟪पुरुषः⟫ = "**terceira** pessoa")
 
-As desinências da primeira pessoa (:sig[⟪तृतीयः⟫] ⟪पुरुषः⟫ = "**terceira** pessoa") são:
+As desinências da primeira pessoa (:sig[⟪:sig[तृतीयः]⟫] ⟪पुरुषः⟫ = "**terceira** pessoa") são:
 
 ::: grammar-box
 

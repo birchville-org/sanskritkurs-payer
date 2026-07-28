@@ -129,8 +129,8 @@ Examples:
 
 With consonant-final stems:
 * the ending of the Accusative (dvitīyā) Plural Masculine and Feminine is -as.
-* with regularly formed stems, the Neuter in Nominative (prathamā) and Accusative (dvitīyā) Singular is without ending.
-* with regularly formed stems, in the Neuter, the ending of the Nominative and Accusative Plural is -i.
+* with regularly formed stems, the Neuter in Nominativeee (prathamā) and Accusative (dvitīyā) Singular is without ending.
+* with regularly formed stems, in the Neuter, the ending of the Nominativeee and Accusative Plural is -i.
 
 :::
 

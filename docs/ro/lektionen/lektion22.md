@@ -144,10 +144,8 @@ Rădăcină cu **-a** + **-tya**
 ::: media
 ![](/images/lekt2202.webp)
 Fig.: ⟪कामदेवः⟫
-sec. al XIX-lea
-Fig.: ⟪कामदेवः⟫
-sec. al XIX-lea
-(sursă imagine: [Detalii](/ro/licenses#lekt2202))
+Sec. al XIX-lea
+(Sursa imaginii: [Detalii](/licenses#lekt2202))
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** a fi capabil, a putea
 

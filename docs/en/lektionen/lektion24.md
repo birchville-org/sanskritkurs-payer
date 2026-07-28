@@ -9,7 +9,7 @@ status: stable
 
 # Lesson 24
 
-## 24.1. The Dative (⟪चतुर्थी⟫ = "fourth case ending")
+## 24.1. The Dativeee (⟪चतुर्थी⟫ = "fourth case ending")
 
 ::: grammar-box
 **1. To express the purpose or intention ("in order to") of an action, instead of the infinitive (⟪तुमुन्⟫), one can also use a noun with a kṛt suffix, which denotes an action or state, in the dative (⟪चतुर्थी⟫ = "fourth case ending").**
@@ -96,13 +96,13 @@ Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 :::
 Further uses of the dative later.
 
-## 24.2. Formation of the Dative (⟪चतुर्थी⟫)
+## 24.2. Formation of the Dativeee (⟪चतुर्थी⟫)
 
 ::: grammar-box
-**The regular endings of the Dative are:**
+**The regular endings of the Dativeee are:**
 
 * **Singular: -e ; vowel-ending feminine stems: -ai**
-* **Plural: Dative and Ablative ⟪पञ्चमी⟫: -bhyas**
+* **Plural: Dativeee and Ablativeee ⟪पञ्चमी⟫: -bhyas**
 :::
 ### 24.2.1. Consonant Stems
 
@@ -181,7 +181,7 @@ Example:
 :::
 ## 24.4. Vocabulary List
 
-⟪अलम्⟫ Adverb: enough, sufficient, equal to (someone, something); with Dative: enough for, sufficient for, equal to; with Instrumental: enough with, desist from, e.g. ⟪अलं⟫ ⟪क्रोधेन⟫ = "enough with the anger = desist from anger!"
+⟪अलम्⟫ Adverb: enough, sufficient, equal to (someone, something); with Dativeee: enough for, sufficient for, equal to; with Instrumental: enough with, desist from, e.g. ⟪अलं⟫ ⟪क्रोधेन⟫ = "enough with the anger = desist from anger!"
 
 In the same way as ⟪अलम्⟫ with the Instrumental is used:
 
@@ -220,9 +220,9 @@ From ⟪वृत्⟫:
 
 ⟪नि⟫ Pref.: downwards, down, into, backwards
 
-⟪आ⟫ Preposition / Postposition: before Ablative or after Accusative: as far as, up to ; with Ablative: from, from, since
+⟪आ⟫ Preposition / Postposition: before Ablativeee or after Accusative: as far as, up to ; with Ablativeee: from, from, since
 
-⟪अतस्⟫ Indeclinable: from there, then, therefore, hence (Pronominal stem a- "this" + Ablative suffix -tas)
+⟪अतस्⟫ Indeclinable: from there, then, therefore, hence (Pronominal stem a- "this" + Ablativeee suffix -tas)
 
 ⟪अध्यक्ष⟫ m.: supervisor, department head ; eyewitness
 
@@ -299,7 +299,7 @@ Manuscript of the ⟪गीतगोविन्द⟫, 1730 AD
 
 ## 24.5. Exercise
 
-A) Form the Dative Singular and the Dative/(Ablative) Plural and give the meaning of the nominal stem:
+A) Form the Dativeee Singular and the Dativeee/(Ablativeee) Plural and give the meaning of the nominal stem:
 
 1.  ⟪श्रव⟫
 2.  ⟪भवन⟫

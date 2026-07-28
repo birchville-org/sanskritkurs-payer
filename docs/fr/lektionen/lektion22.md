@@ -36,7 +36,7 @@ Lors de la traduction en allemand, évitez de dire constamment « après que ».
 
 Pluriel : **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
 :::
-## 22.2. Bildung des Absolutivums
+## 22.2. Formation du nominatif
 
 ::: grammar-box
 **Formation de l’absolutif**
@@ -145,9 +145,11 @@ Racine sur **-a** + **-tya**
 ![](/images/lekt2202.webp)
 Fig. : ⟪कामदेवः⟫
 XIXe s.
-(Source de l'image: [Details](/fr/licenses#lekt2202))
+Fig. : ⟪कामदेवः⟫
+XIXe s.
+(Source de l'image : [Détails](/fr/licenses#lekt2202))
 :::
-**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** être capable, pouvoir
+**⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Passé.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** être capable, pouvoir
 
 de cela :
 

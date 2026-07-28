@@ -6,6 +6,7 @@ docs/.vitepress/cache
 *.log
 CLAUDE_REVIEW.md
 deleteme/
+docs/.zennotes/
 
 # Local tooling / dev artifacts
 scratch/

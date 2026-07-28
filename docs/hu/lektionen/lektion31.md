@@ -57,7 +57,7 @@ Példa:
 *   Indikativus praesentis
     *   3.sg.P. ⟪भनक्ति⟫ (bha-na + j + ti)
     *   3.pl.P. ⟪भञ्जन्ति⟫ (bha + n + j-anti)
-*   Futurum: ⟪भङ्क्ष्यति⟫ (bha + n + j + sya + ti)
+*   Jövő időum: ⟪भङ्क्ष्यति⟫ (bha + n + j + sya + ti)
 *   Passivum: ⟪भज्यते⟫ (vagy eredeti tőből ⟪भज्⟫ vagy *bhñj-ya-te-ből)
 *   PPP: ⟪भग्न⟫ (lehet, hogy *bhñj + na-ból)
 :::

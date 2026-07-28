@@ -1,9 +1,9 @@
 ---
-title: ትምህርት 55
-subtitle: "a-አኦሪስት (ጭብጥ አናባቢ ያለው አኦሪስት)"
+title: Lektion 55
+subtitle: "Der a-Aorist (Aorist mit Themavokal)"
 lesson_id: 55
 last_reconstructed: 2026-05-21
-category: "ሰዋስው"
+category: "Grammatik"
 status: stable
 ---
 

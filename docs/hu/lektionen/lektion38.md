@@ -21,9 +21,9 @@ status: stable
 :::
 Magyarázatok:
 
-\-⟪अग्नि⟫ Neutrum nominativus/akkuzatívus egyes szám a következőhöz: ⟪अग्नि⟫ m.
+\-⟪अग्नि⟫ semlegesnem nominativus/akkuzatívus egyes szám a következőhöz: ⟪अग्नि⟫ m.
 
-\-⟪गु⟫ Neutrum nominativus/akkuzatívus egyes szám a következőhöz: ⟪गो⟫ m.f. "tehén, szarvasmarha"
+\-:sig[⟪गु⟫] semlegesnem nominativus/akkuzatívus egyes szám a következőhöz: ⟪गो⟫ m.f. "tehén, szarvasmarha"
 
 ::: media
 ![](/images/lekt3801.webp)
@@ -56,7 +56,7 @@ Példák:
 ⟪राजन्⟫ m. "király"
 
 *   erős tő: ⟪राजान्⟫
-*   közepes tő: ⟪राज⟫
+*   közepes tő: :sig[⟪राज⟫]
 *   leggyengébb tő: ⟪राज्ञ्⟫
 
 ⟪सीमन्⟫ f. "határ"
@@ -320,7 +320,7 @@ ebből:
 ::: media
 ![](/images/lekt3804.webp)
 Ábr.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt3804))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3804))
 :::
 ⟪मिह्⟫ 1P ⟪मेहति⟫ : vizel, pisil, ejakulál
 
@@ -337,14 +337,14 @@ ebből:
 :::
 ⟪सुत⟫ m.: fiú
 
-⟪राजन्⟫ m.: király (az indiai királyságról lásd Basham, Wonder old. 82–94). Összetétel végén (különösen ⟪तत्पुरुष⟫) általában: -⟪राज⟫ m. (mint ⟪देव⟫)
+⟪राजन्⟫ m.: király (az indiai királyságról lásd Basham, Wonder old. 82–94). Összetétel végén (különösen ⟪तत्पुरुष⟫) általában: -:sig[⟪राज⟫] m. (mint ⟪देव⟫)
 
 ::: indent
 Nem:
 
 ⟪राज्ञी⟫ f.: királyné, király felesége
 
-a(z) ⟪राज⟫ :
+a(z) :sig[⟪राज⟫] :
 
 ⟪राज्य⟫ 3: királyi; n. királyság, királynak lenni, uralkodás
 :::
@@ -555,37 +555,37 @@ Inf. ⟪सर्तुम्⟫
 
 :sig[⟪दश⟫] ⟪मूढाः⟫
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ :sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ :sig[⟪दश⟫] ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ :sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ :sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ :sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ :sig[⟪नवै⟫]⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ :sig[⟪वयम्⟫] ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ :sig[⟪स्मः⟫] ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ :sig[⟪गवेषयत⟫] ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫:sig[⟪मेकैको⟫] ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ :sig[⟪समजनि⟫] ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫:sig[⟪स्तरसा⟫] ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ :sig[⟪यूयम्⟫] ⟪।⟫ :sig[⟪युष्माकमे⟫]⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ :sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ :sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ :sig[⟪नवै⟫]⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ :sig[⟪वयम्⟫] :sig[⟪दश⟫] ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ :sig[⟪स्मः⟫] ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ :sig[⟪गवेषयत⟫] ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫:sig[⟪मेकैको⟫] ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ :sig[⟪समजनि⟫] ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫:sig[⟪स्तरसा⟫] ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ :sig[⟪यूयम्⟫] ⟪।⟫ :sig[⟪युष्माकमे⟫]⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
 Magyarázatok:
 
-⟪दश⟫ Nominativ/Akkuzatív többes szám, nemek: férfi/nő/semleges a ⟪दशन्⟫ "tíz" szóból
+:sig[⟪दश⟫] alanyeset (nominativus)/Akkuzatív többes szám, nemek: férfi/nő/semleges a ⟪दशन्⟫ "tíz" szóból
 
 ⟪बाहुभ्याम्⟫ Instrumentális/Datív/Ablatív kettős szám a ⟪बाहु⟫ m. "kar" szóból
 
-⟪सर्वे⟫ Nominatív többes szám, férfi nem a ⟪सर्व⟫ 3 "minden egyes, mind" szóból
+:sig[⟪सर्वे⟫] Nominatív többes szám, férfi nem a ⟪सर्व⟫ 3 "minden egyes, mind" szóból
 
-⟪जिज्ञासमान⟫ Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "tudni akar, tudni szeret"
+:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "tudni akar, tudni szeret"
 
 ⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "kilenc"
 
-⟪वयम्⟫ Nom.pl. "mi"
+:sig[⟪वयम्⟫] Nom.pl. "mi"
 
 ⟪स्मस्⟫ 1.pl.Ind.Prész.P zu ⟪अस्⟫ 2P
 
-⟪गवेषयत⟫ 2. személy, egyes szám, időtlen mód, felszólító mód
+:sig[⟪गवेषयत⟫] 2. személy, egyes szám, időtlen mód, felszólító mód
 
 ⟪एकैक⟫ "minden egyes"
 
-⟪समजनि⟫ 3. személy, egyes szám, közönséges mód, múlt idő, szenvedő szerkezet a következőhöz: ⟪जन्⟫
+:sig[⟪समजनि⟫] 3. személy, egyes szám, közönséges mód, múlt idő, szenvedő szerkezet a következőhöz: ⟪जन्⟫
 
 ⟪तरसा⟫ Eszközes eset, egyes szám a következőhöz: ⟪तरस्⟫ n. "energia", határozószói jelentésben: "gyorsan, erővel"
 
-⟪यूयम्⟫ Névrag. "ő"
+:sig[⟪यूयम्⟫] Névrag. "ő"
 
-⟪युष्माकम्⟫ Gen.pl. a következőhöz: ⟪यूयम्⟫
+⟪युष्माकम्⟫ Gen.pl. a következőhöz: :sig[⟪यूयम्⟫]
 
 ::: deleteme-box
 

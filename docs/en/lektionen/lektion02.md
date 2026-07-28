@@ -49,7 +49,7 @@ In Sanskrit dictionaries, nouns are listed in the **nominal stem**:
 
 ## 2.3. प्रथमैकवचनम्
 
-**Nominative Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
+**Nominativeee Singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
 ::: grammar-box
 **The nominative singular ends in -s = -⟪स्⟫ or is endingless.**

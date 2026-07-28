@@ -39,7 +39,7 @@ Den Nominativ Singular bilden ohne Endung: <!-- TODO: Fallback translation -->
 **Achtung!** Daneben gibt es einsilbige feminine Wurzelnomina auf -ī, deren Nominativ Singular auf -s endet: z.B. dhī f. "Gedanke" -- Nom. sg.: dhīs = ⟪धीस्⟫. Auch lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "Boot" und tantrī (⟪तन्त्री⟫) f. "Saite" bilden unregelmäßig den Nominativ Singular auf -s: lakṣmīs = ⟪लक्ष्मीस्⟫. <!-- TODO: Fallback translation -->
 :::
 
-## 3.2. Bildung der Feminina zu Maskulina
+## 3.2. Bildung der Feminina zu Maskulina <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Maskulina auf -a:** <!-- TODO: Fallback translation -->

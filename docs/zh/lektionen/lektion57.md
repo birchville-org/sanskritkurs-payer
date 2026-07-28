@@ -34,12 +34,12 @@ Beispiele: <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
-3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***⟪क्षिप्त⟫***
-2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***⟪क्षिप्था⟫***⟪स्⟫ <!-- TODO: Fallback translation -->
+3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***:sig[⟪क्षिप्त⟫]***
+2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***:sig[⟪क्षिप्था⟫]***⟪स्⟫ <!-- TODO: Fallback translation -->
 :::
 Solche Formen könnten auch zum Wurzelaorist gehören und gehören vermutlich z.T. auch dorthin. <!-- TODO: Fallback translation -->
 Solche Formen könnten auch zum Wurzelaorist gehören und gehören vermutlich z.T. auch dorthin.
-Die indischen Grammatiker haben auch Formen wie ⟪अकृत⟫ (3.sg.Ā) zum s-Aorist gerechnet, die eindeutig zum Wurzelaorist gehören. Zu diesem Zweck haben die indischen Grammatiker folgende ad-hoc Lautregel für den s-Aorist erfunden: <!-- TODO: Fallback translation -->
+Die indischen Grammatiker haben auch Formen wie :sig[⟪अकृत⟫] (3.sg.Ā) zum s-Aorist gerechnet, die eindeutig zum Wurzelaorist gehören. Zu diesem Zweck haben die indischen Grammatiker folgende ad-hoc Lautregel für den s-Aorist erfunden: <!-- TODO: Fallback translation -->
 
 ::: indent
 "Nach kurzem Vokal verlieren die "Endungen", die mit -st- oder -sth- beginnen, das -s-." <!-- TODO: Fallback translation -->
@@ -53,7 +53,7 @@ Für -dhvam gilt: <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
-z.B. ***⟪चि⟫*** 5U: 2.pl.Ā ***⟪अचेढ्वम्⟫*** <!-- TODO: Fallback translation -->
+z.B. ***:sig[⟪चि⟫]*** 5U: 2.pl.Ā ***:sig[⟪अचेढ्वम्⟫]*** <!-- TODO: Fallback translation -->
 :::
 ::: grammar-box
 **Form der Wurzel:** <!-- TODO: Fallback translation -->
@@ -69,7 +69,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 
 |   | **3.sg.P** |
 | --- | --- |
-| ⟪चि⟫ 5U | ⟪अचैषीत्⟫ |
+| :sig[⟪चि⟫] 5U | ⟪अचैषीत्⟫ |
 | ⟪श्रु⟫ 5P | ⟪अश्रौषीत्⟫ |
 | ⟪कृ⟫ 8U | ⟪अकार्षीत्⟫ |
 | ⟪भज्⟫ 1U | ⟪अभाक्षीत्⟫ |
@@ -78,7 +78,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 
 |   | **3.sg.Ā** |
 | --- | --- |
-| ⟪चि⟫ 5U | ⟪अचेष्ट⟫ |
+| :sig[⟪चि⟫] 5U | ⟪अचेष्ट⟫ |
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
 |   | **sg.Ā** |
@@ -92,12 +92,12 @@ Beispiele: <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
-⟪दृश्⟫ 3.sg.P ⟪अ⟫***⟪द्राक्षी⟫***⟪त्⟫ <!-- TODO: Fallback translation -->
+⟪दृश्⟫ 3.sg.P ⟪अ⟫***:sig[⟪द्राक्षी⟫]***⟪त्⟫ <!-- TODO: Fallback translation -->
 :::
 Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden: <!-- TODO: Fallback translation -->
 
 ::: indent
-⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***⟪क्राक्षी⟫***⟪त्⟫ <!-- TODO: Fallback translation -->
+⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***:sig[⟪क्राक्षी⟫]***⟪त्⟫ <!-- TODO: Fallback translation -->
 :::
 Paradigmen: <!-- TODO: Fallback translation -->
 
@@ -107,7 +107,7 @@ Paradigmen: <!-- TODO: Fallback translation -->
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अनैषम्⟫ | ⟪अनैष्म⟫ | ⟪अनेषि⟫ | ⟪अनेष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫*⟪ढ्वम्⟫* |
+| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫*:sig[⟪ढ्वम्⟫]* |
 | **3. ⟪प्रथमः⟫** | ⟪अनैषीत्⟫ | ⟪अनैषुर्⟫ | ⟪नेष्ट⟫ | ⟪अनेषत⟫ |
 
 ::: media
@@ -121,8 +121,8 @@ Abb.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अकार्षम्⟫ | ⟪अकार्ष्म⟫ | ⟪अकृषि⟫ | ⟪अकृष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | *⟪अकृथास्⟫* | ⟪अकृढ्वम्⟫ |
-| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | *⟪अकृत⟫* | ⟪अकृषत⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | *:sig[⟪अकृथास्⟫]* | ⟪अकृढ्वम्⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | *:sig[⟪अकृत⟫]* | ⟪अकृषत⟫ |
 
 ⟪तुद्⟫ 6U "schlagen" <!-- TODO: Fallback translation -->
 

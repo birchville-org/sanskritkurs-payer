@@ -9,9 +9,9 @@ status: stable
 
 # Lecția 39
 
-## 39.1. Desinențele persoanei primei persoane (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**a treia** persoană")
+## 39.1. Desinențele persoanei primei persoane (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**a treia** persoană")
 
-Desinențele persoanei primei persoane (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**a treia** persoană") sunt:
+Desinențele persoanei primei persoane (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**a treia** persoană") sunt:
 
 ::: grammar-box
 
@@ -144,7 +144,7 @@ Desinențele persoanei primei persoane (***⟪तृतीयः⟫*** ⟪पु
 
 **consoanele rămân, de regulă, neschimbate.**
 
-de ex. ⟪वच्⟫ 1.sg.Ind.Prez.P **⟪व⟫***⟪च्मि⟫***
+de ex. ⟪वच्⟫ 1.sg.Ind.Prez.P **⟪व⟫**⟪च्मि⟫**
 :::
 ### 39.4.1. A doua clasă de prezent (⟪अदादि⟫)
 

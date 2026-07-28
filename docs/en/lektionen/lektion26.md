@@ -67,7 +67,7 @@ Example: s. below future tense of ⟪मन्⟫
 ## 26.6. Usage of the simple future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**The Simple Future (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) expresses:**
+**The Simple Futureee (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) expresses:**
 
 - **hope**
 - **an intended or desired action ("I will go", "I want to go")**
@@ -94,10 +94,10 @@ Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ 
 
 :::
 ::: indent
-**Future stem + primary endings**
+**Futureee stem + primary endings**
 :::
 ::: grammar-box
-**Future stem:**
+**Futureee stem:**
 
 :::
 ::: indent
@@ -202,7 +202,7 @@ B) With connecting vowel -i-:
 22.  ⟪अर्हन्ति⟫
 23.  ⟪कुप्यन्ति⟫
 
-C) Future optionally with and without -i-:
+C) Futureee optionally with and without -i-:
 
 1.  ⟪मुह्यन्ति⟫
 2.  ⟪वर्तते⟫

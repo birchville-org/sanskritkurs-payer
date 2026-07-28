@@ -157,9 +157,9 @@ Praeterea sequentes leges sandhi verbi adhibentur.
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | *⟪असि⟫* | *⟪स्थ⟫* |
-| **Imperfekt** :br⟪लङ्⟫ | *⟪आसीस्⟫* | *⟪आस्त⟫* |
-| **Optativ** :br⟪विधिलिङ्⟫ | *⟪स्यास्⟫* | *⟪स्यात⟫* |
+| **Indikativ Präsens** :br⟪लट्⟫ | *:sig[⟪असि⟫]* | *:sig[⟪स्थ⟫]* |
+| **Imperfekt** :br⟪लङ्⟫ | *:sig[⟪आसीस्⟫]* | *:sig[⟪आस्त⟫]* |
+| **Optativ** :br⟪विधिलिङ्⟫ | *:sig[⟪स्यास्⟫]* | *:sig[⟪स्यात⟫]* |
 :::
 ⟪तत्त्वमसि⟫
 
@@ -281,13 +281,13 @@ Abb.: ⟪नन्दी⟫
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : gaudium suum habere in (⟪द्वितीयया⟫), aliquem laetanter salutare, suscipere
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : tenere, portare ; praebere, concedere ; continere, frenare, domare
+**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : tenere, portare ; praebere, concedere ; continere, frenare, domare
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ sed: ⟪नि⟫***⟪यम⟫***⟪यति⟫  
+Kaus. ⟪यामयति⟫ sed: ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
@@ -331,7 +331,7 @@ Abb.: ⟪यत्नेन⟫
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. ***⟪रम्भ⟫***⟪यति⟫  
+Kaus. **:sig[⟪रम्भ⟫]**⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫

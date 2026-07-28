@@ -24,7 +24,7 @@ Esempio:
 
 **Se la radice sottostante al causativo (con o senza prefisso) è INTRANSITIVA (cioè non può avere un oggetto accusativo) o esprime movimento, conoscenza, informazione o cibo:**
 
-**Agente (⟪कर्ता⟫) del causativo al Nominativo (⟪प्रथमा⟫) — Agente dell'azione indotta all'Accusativo (⟪द्वितीया⟫) — (Destinazione del movimento, oggetto della conoscenza, ecc. all'Accusativo = ⟪द्वितीया⟫) — Verbo al Causativo**
+**Agente (⟪कर्ता⟫) del causativo al Nominativooo (⟪प्रथमा⟫) — Agente dell'azione indotta all'Accusativo (⟪द्वितीया⟫) — (Destinazione del movimento, oggetto della conoscenza, ecc. all'Accusativo = ⟪द्वितीया⟫) — Verbo al Causativo**
 :::
 Esempi:
 
@@ -88,7 +88,7 @@ Edificio della facoltà di gestione dell'Università di Jadavpur.
 
 **Nei verbi transitivi (eccetto quelli menzionati nello Schema 1). Inoltre, per tutti i verbi, quando ciò che è designato dal causativo è causato (quando il causativo è quindi un causativo del causativo):**
 
-**Agente (⟪कर्ता⟫) del causativo al Nominativo (⟪प्रथमा⟫) — Agente dell'azione causata all'Instrumentale (⟪तृतीया⟫) — Oggetto dell'azione causativa nel caso che avrebbe secondo il verbo semplice (cioè solitamente all'Accusativo) — Verbo al Causativo**
+**Agente (⟪कर्ता⟫) del causativo al Nominativooo (⟪प्रथमा⟫) — Agente dell'azione causata all'Instrumentale (⟪तृतीया⟫) — Oggetto dell'azione causativa nel caso che avrebbe secondo il verbo semplice (cioè solitamente all'Accusativo) — Verbo al Causativo**
 :::
 ::: indent
 Esempi:
@@ -146,7 +146,7 @@ Quando il causativo è usato in una costruzione passiva, si applica quasi sempre
 ::: grammar-box
 **Schema A (costruzione passiva):**
 
-**Agente del causativo all'Instrumentale (⟪तृतीया⟫) — Agente dell'azione causata al Nominativo (⟪प्रथमा⟫) — Oggetto dell'azione causativa nel caso che avrebbe secondo il verbo semplice (cioè solitamente all'Accusativo) — Verbo al Causativo**
+**Agente del causativo all'Instrumentale (⟪तृतीया⟫) — Agente dell'azione causata al Nominativooo (⟪प्रथमा⟫) — Oggetto dell'azione causativa nel caso che avrebbe secondo il verbo semplice (cioè solitamente all'Accusativo) — Verbo al Causativo**
 :::
 Esempi:
 
@@ -304,7 +304,7 @@ Esempio:
 
 Esempi:
 1.  Radice in grado allungato + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "amare"
-2.  Radice in grado forte + -aya- : **cur** 10U **corayati** "rubare"; Futuro: **corayiṣyate**; Passivo: **coryate**
+2.  Radice in grado forte + -aya- : **cur** 10U **corayati** "rubare"; Futurooo: **corayiṣyate**; Passivo: **coryate**
 :::
 ::: grammar-box
 **Le forme del causativo dei verbi della decima classe di presente sono identiche alle forme del verbo semplice. La decisione se si tratti di un causativo è possibile solo dal significato o talvolta dalla costruzione.**

@@ -1,5 +1,5 @@
 export const fi = {
-  label: 'FI - Suomi',
+  label: '🇫🇮 FI - Suomi',
   lang: 'fi-FI',
   link: '/fi/',
   title: 'Sanskrit-kurssi',

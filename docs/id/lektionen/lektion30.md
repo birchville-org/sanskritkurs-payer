@@ -69,7 +69,7 @@ Contoh:
 ::: indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
 :::
-## 30.2. Gebrauch  Optatif (⟪लिङ्⟫)
+## 30.2. Penggunaan  Optatif (⟪लिङ्⟫)
 
 Optatif digunakan:
 
@@ -109,7 +109,7 @@ Contoh:
 ::: indent
 ⟪यो⟫ ⟪नृतं⟫ ⟪वदेत्स⟫ ⟪नरकं⟫ ⟪पतेत्⟫ = "Jika seseorang akan mengatakan ketidakbenaran, dia akan jatuh ke neraka = Jika seseorang mengatakan ketidakbenaran, dia jatuh ke neraka"
 :::
-## 30.3. Sekundärendungen  3. Personen Singular dan Plural
+## 30.3. Sekundärendungen  3. Personen Tunggal dan Jamak
 
 Optatif (⟪लिङ्⟫), Imperfek (⟪लङ्⟫), Aorist (⟪लुङ्⟫), Prekatif (⟪आशिर्लिङ्⟫) dan Kondisional memiliki yang disebut akhiran sekunder:
 
@@ -117,26 +117,26 @@ Optatif (⟪लिङ्⟫), Imperfek (⟪लङ्⟫), Aorist (⟪लुङ�
 
 | | 3. Person Tunggal | 3. Person Jamak |
 | :--- | :--- | :--- |
-| **Parasmaipada** | **-t** | athematische Klassen: **-an** oder **-ur** :brOptatif: **-ur** |
-| **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptatif: **-ran** |
+| **Parasmaipada** | **-t** | atematik Klassen: **-an** oder **-ur** :brOptatif: **-ur** |
+| **Ātmanepada** | **-ta** | atematik Klassen: **-ata** (aus *nta):brOptatif: **-ran** |
 
 :::
-## 30.4. Bildung  Optatif Present (⟪लिङ्⟫)
+## 30.4. Pembentukan  Optatif Present (⟪लिङ्⟫)
 
-### 30.4.1. Kelas Präsens Tematis
+### 30.4.1. Kelas Present Tematis
 
 ::: grammar-box
 **sebelum akhiran yang diawali konsonan:**
 
-**Stem Präsens + -i- (yang melebur dengan -a menjadi -e) + Akhiran Sekunder**
+**Stem Present + -i- (yang melebur dengan -a menjadi -e) + Akhiran Sekunder**
 
 **sebelum akhiran yang diawali vokal:**
 
-**Stem Präsens + -i- (» -e-) + -y- + Akhiran Sekunder**
+**Stem Present + -i- (» -e-) + -y- + Akhiran Sekunder**
 :::
 Contoh:
 
-1\. Kelas Präsens:
+1\. Kelas Present:
 
 ⟪भू⟫
 ::: grammar-box
@@ -147,7 +147,7 @@ Contoh:
 | **Orang ke-3:brĀtmanepada** | ⟪भवेत⟫:br(bhava + i + ta) | ⟪भवेरन्⟫:br(bhava + i + ran) |
 
 :::
-4\. Kelas Präsens:
+4\. Kelas Present:
 
 ⟪नृत्⟫
 ::: grammar-box
@@ -158,7 +158,7 @@ Contoh:
 | **Orang ke-3:brĀtmanepada** | ⟪नृत्येत⟫:br(nṛtya + i + ta) | ⟪नृत्येरन्⟫:br(nṛtya + i + ran) |
 
 :::
-6\. Kelas Präsens
+6\. Kelas Present
 
 ⟪विश्⟫
 ::: grammar-box
@@ -169,7 +169,7 @@ Contoh:
 | **Orang ke-3:brĀtmanepada** | ⟪विशेत⟫:br(viśa + i + ta) | ⟪विशेरन्⟫:br(viśa + i + ran) |
 
 :::
-10\. Kelas Präsens dan Kausatif
+10\. Kelas Present dan Kausatif
 
 ⟪चुर्⟫
 ::: grammar-box
@@ -180,20 +180,20 @@ Contoh:
 | **Orang ke-3:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
 
 :::
-### 30.4.2. Kelas Präsens Atematis
+### 30.4.2. Kelas Present Atematis
 
 ::: grammar-box
 **Parasmaipada:**
 
-**Stem Präsens lemah + -yā- (sebelum -ur: -y-) + Akhiran Sekunder**
+**Stem Present lemah + -yā- (sebelum -ur: -y-) + Akhiran Sekunder**
 
 **Ātmanepada:**
 
-**Stem Präsens lemah + -ī- + Akhiran Sekunder**
+**Stem Present lemah + -ī- + Akhiran Sekunder**
 :::
 Contoh:
 
-2\. Kelas Präsens:
+2\. Kelas Present:
 
 ⟪द्विष्⟫
 ::: grammar-box
@@ -204,7 +204,7 @@ Contoh:
 | **Orang ke-3:brĀtmanepada** | ⟪द्विषीत⟫:br(dviṣ-ī-ta) | ⟪द्विषीरन्⟫:br(dviṣ-ī-ran) |
 
 :::
-5\. Kelas Präsens
+5\. Kelas Present
 
 ⟪सु⟫
 ::: grammar-box
@@ -215,7 +215,7 @@ Contoh:
 | **Orang ke-3:brĀtmanepada** | ⟪सुन्वीत⟫:br(sunu + ī + ta) | ⟪सुन्वीरन्⟫:br(sunu + ī + ran) |
 
 :::
-8\. Kelas Präsens
+8\. Kelas Present
 
 ⟪तन्⟫
 ::: grammar-box

@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 47
 
-## 47.1. Der Imperativ (⟪लोट्⟫)
+## 47.1. Der Imperativ (⟪लोट्⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Der Imperativ (⟪लोट्⟫) bezeichnet <!-- TODO: Fallback translation -->
@@ -82,7 +82,7 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 
 ⟪शुभं⟫ ⟪भवतु⟫ oder ⟪शुभं⟫ ⟪भवतात्⟫ "Möge es gut sein!" "Alles Gute!" <!-- TODO: Fallback translation -->
 :::
-### 47.2.2. Erste Präsensklasse (⟪भ्वादि⟫)
+### 47.2.2. Erste Präsensklasse (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -92,7 +92,7 @@ Anm.: ¹ Die Endungen der 2. und 3.sg.P können durch -tāt ersetzt werden, wenn
 | **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \<⟪भवस्व⟫\> | \<⟪भवध्वम्⟫\> |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \<⟪भ्वताम्⟫\> | \<⟪भवन्ताम्⟫\> |
 :::
-### 47.2.3. Sechste Präsensklasse (⟪तुदादि⟫)
+### 47.2.3. Sechste Präsensklasse (⟪तुदादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -108,7 +108,7 @@ Abb.: ⟪प्रविशत⟫
 Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
 (Bildquelle: [Details](/licenses#lekt4702)) <!-- TODO: Fallback translation -->
 :::
-### 47.2.4. Vierte Präsensklasse (⟪दिवादि⟫)
+### 47.2.4. Vierte Präsensklasse (⟪दिवादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||

@@ -33,12 +33,12 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
 | **Optativ** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
 :::
-### 45.1.2. Siebte Präsensklasse (⟪रुधादि⟫)
+### 45.1.2. Siebte Präsensklasse (⟪रुधादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Wenn auslautendes k/g der Wurzel zwischen den Nasal ṅ und einen Dental der Endung zu stehen kommt, so kann wahlweise das k/g wegfallen** <!-- TODO: Fallback translation -->
 
-z.B. **⟪युज्⟫** 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ oder ⟪यु⟫***⟪ङ्ते⟫*** <!-- TODO: Fallback translation -->
+z.B. **⟪युज्⟫** 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ oder ⟪यु⟫***:sig[⟪ङ्ते⟫]*** <!-- TODO: Fallback translation -->
 :::
 ⟪युज्⟫ 7U <!-- TODO: Fallback translation -->
 

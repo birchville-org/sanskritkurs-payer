@@ -214,7 +214,7 @@ Exemplu:
 
 :::
 ::: indent
-⟪भस्मसात्कृ⟫***⟪त्वा⟫***
+⟪भस्मसात्कृ⟫**:sig[⟪त्वा⟫]**
 :::
 ## 52.5. Repetiții de cuvinte (⟪द्विरुक्तम्⟫)
 
@@ -252,7 +252,7 @@ Ceea ce nu este tratat aici, vezi, de exemplu, la Kielhorn, Gramatică §201f.
 **Cuvintele numerale pentru *1 până la 19* sunt adjective.**
 **Cuvintele numerale pentru **1 până la 4** sunt diferite în declinare pentru cele trei genuri.**
 
-**Pentru cuvintele numerale pentru **5 până la 19** ***(⟪नवदशन्⟫)*** există o singură declinare pentru cele trei genuri.**
+**Pentru cuvintele numerale pentru **5 până la 19** ***(:sig[⟪नवदशन्⟫])*** există o singură declinare pentru cele trei genuri.**
 
 **Pentru aceste adjective numerale, valabil ca pentru toate adjectivele: trebuie să fie în același caz, număr și gen cu substantivul corespunzător și invers (adică pentru 1 singular, pentru 2 dual, pentru restul plural).**
 :::
@@ -327,16 +327,16 @@ o dată: ⟪सकृत्⟫
 de două ori: ⟪द्विस्⟫
 de trei ori: ⟪त्रिस्⟫
 de patru ori: ⟪चतुस्⟫
-de cinci ori etc. se formează cu sufixul ***\-⟪कृत्वस्⟫***: ⟪पञ्चकृत्वस्⟫
+de cinci ori etc. se formează cu sufixul ***\-:sig[⟪कृत्वस्⟫]***: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-fach": se exprimă cu sufixul ***\-⟪धा⟫***
+b) "-fach": se exprimă cu sufixul ***\-:sig[⟪धा⟫]***
 
 ::: indent
 simplu: ⟪एकधा⟫
 dublu: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
 etc.
 :::
-c) "je ...", "zu ...": se exprimă cu sufixul ***\-⟪शस्⟫*** (vezi mai sus!)
+c) "je ...", "zu ...": se exprimă cu sufixul ***\-:sig[⟪शस्⟫]*** (vezi mai sus!)
 
 ::: indent
 ⟪द्विशस्⟫ "doi câte doi, câte doi"
@@ -349,7 +349,7 @@ c) "je ...", "zu ...": se exprimă cu sufixul ***\-⟪शस्⟫*** (vezi mai 
 dublu, compus din două
 triplu, compus din trei părți
 
-de la 4, "-fältig" este exprimat prin sufixul ***\-⟪तय⟫ (f.: -⟪तयी⟫)***: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "cvadruplu"
+de la 4, "-fältig" este exprimat prin sufixul ***\-:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫])***: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "cvadruplu"
 :::
 Alte formațiuni se pot găsi în dicționare sau gramatici.
 
@@ -392,7 +392,7 @@ Cele șapte stele = cei șapte cei mai strălucitori steți ai Ursa Majoră (Urs
 
 2.  compusul astfel format este folosit într-un sens care este de obicei indicat de un sufix Taddhita (în acest caz, trecerea la Bahuvrīhi este fluidă):  
     Exemple:  
-    dvi + go » ⟪द्विगु⟫ : nu: "doi boi", ci: "**cumpărat pentru doi boi**"  
+    dvi + go » :sig[⟪द्विगु⟫] : nu: "doi boi", ci: "**cumpărat pentru doi boi**"  
     ⟪द्विवर्ष⟫ nu: "doi ani", ci: "**cu vârsta de doi ani**"  
 
 3.  compusul astfel format constituie primul component al unui alt compus  
@@ -409,7 +409,7 @@ Jalakandapuram = ஜலகண்டபுரம்
 ::: grammar-box
 **O denumire pentru un număr cardinal (dar nu pentru o direcție cardinală) poate forma un Tatpuruṣa cu un alt substantiv chiar și atunci când compusul astfel format indică un agregat al mai multor lucruri, adună două sau mai multe lucruri într-o singură unitate.**
 
-**Tatpuruṣa, care sunt formate conform acestei reguli, se numesc ***Dvigu (⟪द्विगु⟫)***.**
+**Tatpuruṣa, care sunt formate conform acestei reguli, se numesc ***Dvigu (:sig[⟪द्विगु⟫])***.**
 
 **Compusele Dvigu, care indică o unitate, sunt de obicei neutre. Dacă al doilea component se termină în -a, atunci sufixul feminin -ī poate fi adăugat. Dacă al doilea component se termină în fem. -ā, atunci acesta este înlocuit fie cu neutru -a, fie cu feminin -ī. Dacă al doilea component se termină în -an, atunci acesta este înlocuit cu -a sau -ī.**
 :::
@@ -501,7 +501,7 @@ Fig.: ⟪प्रधानः⟫
 ::: indent
 ⟪त्रिवर्ग⟫ m.: grupă de trei (de ex. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; sau: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; sau: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : a vrea, a porunci, a cere
+⟪वश्⟫ 2P ⟪वस्टि⟫, ***:sig[⟪उशन्ति⟫],*** Imperat. 2.sg.: **:sig[⟪उड्ढि⟫]** : a vrea, a porunci, a cere
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
@@ -656,7 +656,7 @@ Inf. ⟪त्रातुम्⟫
 ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫
 ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫
 ⟪एतद्विद्यात्समासेन⟫
-⟪लक्षणं⟫ ⟪सुखदुःख⟫***⟪योः⟫*** ⟪॥१६०॥⟫
+⟪लक्षणं⟫ ⟪सुखदुःख⟫**:sig[⟪योः⟫]** ⟪॥१६०॥⟫
 
 ⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्⟫
 ⟪परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫
@@ -669,7 +669,7 @@ Explicație: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvand
 
 ::: indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
-⟪स्मृतिशी⟫***⟪ले⟫*** ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
+⟪स्मृतिशी⟫**:sig[⟪ले⟫]** ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
@@ -677,7 +677,7 @@ Explicație: ⟪स्मृतिशीले⟫ Nom.Acc.Dual.n. (Dualdvandva)
 :::
 ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Despre ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ în viața prințului
 
-⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫***⟪मितरौ⟫*** ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫***⟪मूलौ⟫*** ⟪हि⟫ ⟪धर्मका⟫***⟪मावि⟫***⟪ति⟫ ⟪।७।⟫
+⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫**:sig[⟪मितरौ⟫]** ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫**:sig[⟪मूलौ⟫]** ⟪हि⟫ ⟪धर्मका⟫**:sig[⟪मावि⟫]**⟪ति⟫ ⟪।७।⟫
 
 ::: indent
 Explicații:

@@ -14,16 +14,16 @@ status: stable
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ riguardo alla corretta minzione:
 
 ::: indent
-⟪प्रत्य⟫*⟪ग्नि⟫* ⟪प्रतिसूर्यं⟫ ⟪च⟫  
+⟪प्रत्य⟫*:sig[⟪ग्नि⟫]* ⟪प्रतिसूर्यं⟫ ⟪च⟫  
 ⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
-⟪प्रति⟫*⟪गु⟫* ⟪प्रतिवातं⟫ ⟪च⟫  
+⟪प्रति⟫*:sig[⟪गु⟫]* ⟪प्रतिवातं⟫ ⟪च⟫  
 ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
 :::
 Spiegazioni:
 
-\-⟪अग्नि⟫ Neutro Nominativo/Accusativo singolare di ⟪अग्नि⟫ m.
+\-⟪अग्नि⟫ Neutro Nominativooo/Accusativo singolare di ⟪अग्नि⟫ m.
 
-\-⟪गु⟫ Neutro Nominativo/Accusativo singolare di ⟪गो⟫ m.f. "bue, vacca"
+\-:sig[⟪गु⟫] Neutro Nominativooo/Accusativo singolare di ⟪गो⟫ m.f. "bue, vacca"
 
 ::: media
 ![](/images/lekt3801.webp)
@@ -49,14 +49,14 @@ I nomi in **-an** nonché i nomi **-man** o **-van** dopo vocale hanno tre stemm
 | **Mittlerer Schwacher Tema** | **-a**:br(da -*n) | **-ma**:br(da -*mn) | **-va**:br(da -*vn) | Übrige Kasus vor konsonantisch anlautender Desinenza:brWahlweise auch Lok. sg. m. n. f. |
 | **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Desinenza |
 
-**Le desinenze sono regolari. Il Nominativo Singolare m. f. si forma senza -n finale.**
+**Le desinenze sono regolari. Il Nominativooo Singolare m. f. si forma senza -n finale.**
 :::
 Esempi:
 
 ⟪राजन्⟫ m. "Re"
 
 *   stemma forte: ⟪राजान्⟫
-*   stemma intermedio: ⟪राज⟫
+*   stemma intermedio: :sig[⟪राज⟫]
 *   stemma più debole: ⟪राज्ञ्⟫
 
 ⟪सीमन्⟫ f. "Confine"
@@ -100,7 +100,7 @@ Fig.: ⟪सीमा⟫
 ### 38.3.2. Nomi in -man o -van dopo consonante
 
 ::: grammar-box
-*   Starker Stamm: -mān, -vān
+*   Starker Tema: -mān, -vān
 *   Radice debole:
     *   davanti a desinenze con iniziale consonantica: -ma, -va (da -\*mn, -\*vn)
     *   davanti a desinenze con iniziale vocalica: **\-man, -van**
@@ -266,7 +266,7 @@ I temi che terminano con una consonante compaiono come primo membro di un compos
 Esempio:
 
 ::: indent
-***⟪राज⟫***⟪पुत्र⟫ "figlio del re"
+**:sig[⟪राज⟫]**⟪पुत्र⟫ "figlio del re"
 :::
 ## 38.8. Temi in -an come componente finale di un ⟪बहुव्रीहि⟫
 
@@ -337,14 +337,14 @@ da ciò:
 :::
 ⟪सुत⟫ m.: Figlio
 
-⟪राजन्⟫ m.: Re (per il regno in India vedi Basham, Meraviglie pagg. 82 -94). Come componente finale di un composto (soprattutto ⟪तत्पुरुष⟫) di solito: -⟪राज⟫ m. (come ⟪देव⟫)
+⟪राजन्⟫ m.: Re (per il regno in India vedi Basham, Meraviglie pagg. 82 -94). Come componente finale di un composto (soprattutto ⟪तत्पुरुष⟫) di solito: -:sig[⟪राज⟫] m. (come ⟪देव⟫)
 
 ::: indent
 Femminile:
 
 ⟪राज्ञी⟫ f.: Regina, moglie di un re
 
-da ⟪राज⟫ :
+da :sig[⟪राज⟫] :
 
 ⟪राज्य⟫ 3: regio; n. Regno, reame, dominio
 :::
@@ -553,39 +553,39 @@ Inf. ⟪सर्तुम्⟫
 
 ## 38.12. Esercizio di traduzione
 
-*⟪दश⟫* ⟪मूढाः⟫
+*:sig[⟪दश⟫]* ⟪मूढाः⟫
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ *⟪बाहुभ्यां⟫* ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ :sig[⟪दश⟫] ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ *:sig[⟪बाहुभ्यां⟫]* ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ *⟪सर्वे⟫* ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ *⟪जिज्ञासमान⟫*⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ *⟪नवै⟫*⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ *⟪वयम्⟫* ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ *⟪स्मः⟫* ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ *⟪गवेषयत⟫* ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫*⟪मेकैको⟫* ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ *⟪समजनि⟫* ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫*⟪स्तरसा⟫* ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ *⟪यूयम्⟫* ⟪।⟫ *⟪युष्माकमे⟫*⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ *:sig[⟪सर्वे⟫]* ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ *:sig[⟪जिज्ञासमान⟫]*⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ *:sig[⟪नवै⟫]*⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ *:sig[⟪वयम्⟫]* :sig[⟪दश⟫] ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ *:sig[⟪स्मः⟫]* ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ *:sig[⟪गवेषयत⟫]* ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫*:sig[⟪मेकैको⟫]* ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ *:sig[⟪समजनि⟫]* ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫*:sig[⟪स्तरसा⟫]* ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ *:sig[⟪यूयम्⟫]* ⟪।⟫ *:sig[⟪युष्माकमे⟫]*⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
 Spiegazioni:
 
-⟪दश⟫ Nom.Akk.pl.m.f.n. per ⟪दशन्⟫ "dieci"
+:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. per ⟪दशन्⟫ "dieci"
 
-⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Duale per ⟪बाहु⟫ m. "Braccio"
+⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dualeee per ⟪बाहु⟫ m. "Braccio"
 
-⟪सर्वे⟫ Nom.pl.m. per ⟪सर्व⟫ 3 "ogni, tutti"
+:sig[⟪सर्वे⟫] Nom.pl.m. per ⟪सर्व⟫ 3 "ogni, tutti"
 
-⟪जिज्ञासमान⟫ Part.Präs.Ā.Destesiderativo per ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "voler conoscere, voler sapere"
+:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Destesiderativo per ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "voler conoscere, voler sapere"
 
 ⟪नव⟫ Nom.Akk.pl.m.f.n. per ⟪नवन्⟫ "nove"
 
-⟪वयम्⟫ Nom.pl. "noi"
+:sig[⟪वयम्⟫] Nom.pl. "noi"
 
 ⟪स्मस्⟫ 1.pl.Ind.Prés.P per ⟪अस्⟫ 2P
 
-⟪गवेषयत⟫ 2.pl.Imperativo P
+:sig[⟪गवेषयत⟫] 2.pl.Imperativooo P
 
 ⟪एकैक⟫ "ogni uno"
 
-⟪समजनि⟫ 3.sg.Passivo Aoristo per ⟪जन्⟫
+:sig[⟪समजनि⟫] 3.sg.Passivo Aoristo per ⟪जन्⟫
 
 ⟪तरसा⟫ Instr. sg. per ⟪तरस्⟫ n. "Energia", usato avverbialmente: "rapidamente, con forza"
 
-⟪यूयम्⟫ Nom.pl. "voi"
+:sig[⟪यूयम्⟫] Nom.pl. "voi"
 
-⟪युष्माकम्⟫ Gen.pl. per ⟪यूयम्⟫
+⟪युष्माकम्⟫ Gen.pl. per :sig[⟪यूयम्⟫]
 
 ::: deleteme-box
 

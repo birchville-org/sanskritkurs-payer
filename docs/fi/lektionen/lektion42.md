@@ -276,14 +276,14 @@ Käännä:
 ::: media
 ![lekt4203.jpg](/images/lekt4203.webp)
 Kuva: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4203))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4203))
 :::
 ⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
 
 ::: media
 ![lekt4204.jpg](/images/lekt4204.webp)
 Kuva: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4204))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4204))
 :::
 ⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
 
@@ -301,7 +301,7 @@ Kuva: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 
 :sig[⟪सीता⟫]⟪विवाहः⟫
 
-⟪पुरा⟫ :sig[⟪मिथिलायां⟫] :sig[⟪जनको⟫] ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
+⟪पुरा⟫ :sig[⟪मिथिलायां⟫] :sig[⟪जनको⟫] ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ :sig[⟪सीता⟫] ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
 
 ⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ :sig[⟪गुरुतरं⟫] ⟪किमपि⟫ :sig[⟪धनुरा⟫]⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
 
@@ -312,7 +312,7 @@ Kuva: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 ::: media
 ![lekt4208.jpg](/images/lekt4208.webp)
 Kuva: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4208))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4208))
 :::
 ⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
 
@@ -322,19 +322,19 @@ Kuva: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभू
 
 Punaisesti korostettujen ilmausten selitys:
 
-⟪सीता⟫ f. Oikonymi: kuningas ⟪जनक⟫ tytar, kuninkaan ⟪विदेह⟫. Hän tuli maasta ulos, kun kuningas kerran arki lapioi, joten hänen nimensä: ⟪सीता⟫ f. "Arkiurhe"
+:sig[⟪सीता⟫] f. Oikonymi: kuningas ⟪जनक⟫ tytar, kuninkaan ⟪विदेह⟫. Hän tuli maasta ulos, kun kuningas kerran arki lapioi, joten hänen nimensä: :sig[⟪सीता⟫] f. "Arkiurhe"
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
-Kuva: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4205))
+Kuva: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4205))
 :::
 ⟪मिथिला⟫ f. Oikonymi: pääkaupunki ⟪विदेह⟫
 
 ::: media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Kuva: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4206))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4206))
 :::
 ⟪जनक⟫ m. Oikonymi: kuninkaan ⟪विदेह⟫
 
@@ -344,14 +344,14 @@ Kuva: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 ⟪शतशस्⟫ Adv.: sadoittain
 
-⟪लङ्का⟫ f. Omana nimenä: yhdistetään nykyiseen Sri Lankaan (ශ්‍රී ලංකාව / இலங்கை)
+:sig[⟪लङ्का⟫] f. Omana nimenä: yhdistetään nykyiseen Sri Lankaan (ශ්‍රී ලංකාව / இலங்கை)
 
-⟪रावण⟫ m. Omana nimenä; ⟪लङ्का⟫ hallitsija, ⟪राक्षस⟫ hallitsijat.
+⟪रावण⟫ m. Omana nimenä; :sig[⟪लङ्का⟫] hallitsija, ⟪राक्षस⟫ hallitsijat.
 
 ::: media
 ![lekt4207.jpg](/images/lekt4207.webp)
 Kuva: ⟪रावणः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4207))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4207))
 :::
 ⟪अयोध्या⟫ f. Oik.: ⟪कोसल⟫ pääkaupunki (katso yllä oleva kartta!)
 
@@ -361,9 +361,9 @@ Kuva: ⟪रावणः⟫
 
 ⟪लक्ष्मन⟫ m. Oik.: ⟪दशरथ⟫ poika
 
-⟪विश्वामित्र⟫ m. Omana: ⟪ऋषि⟫, vetäytyi ⟪राम⟫ ja ⟪लक्ष्मन⟫ kanssa tappamaan demoneja; tämän vuoksi hän saa nuo kaksi taikaseitsemästä.
+:sig[⟪विश्वामित्र⟫] m. Omana: ⟪ऋषि⟫, vetäytyi ⟪राम⟫ ja ⟪लक्ष्मन⟫ kanssa tappamaan demoneja; tämän vuoksi hän saa nuo kaksi taikaseitsemästä.
 
-⟪सीतारामयोस्⟫ Gen.Lok.Dual sanasta ⟪सीताराम⟫
+⟪सीतारामयोस्⟫ Gen.Lok.duaali sanasta ⟪सीताराम⟫
 
 ::: deleteme-box
 
@@ -371,7 +371,7 @@ Kuva: ⟪रावणः⟫
 * **Kuv. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. Diwan-i-Khas eli yksityisten kuuntelujen sali Lal Qila (Punainen linna) Delhissä. (Kuv lähde: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Viitattu 2009-01-04. -- Creative Commons -lisenssi (Nimeäminen, ei kaupallista käyttöä, sama lisenssi))
 * **Kuv. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளി, n. 1825. (Kuv lähde: Wikipedia. Julkisen omistuksen kuva)
 * **Kuv. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. vaunu). (Kuv lähde: Wikipedia. Julkisen omistuksen kuva)
-* **Kuv. lekt4205**: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 1700-luku. (Kuv lähde: Wikipedia. Julkisen omistuksen kuva)
+* **Kuv. lekt4205**: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 1700-luku. (Kuv lähde: Wikipedia. Julkisen omistuksen kuva)
 * **Kuv. lekt4206**: Sijainti ⟪मिथिला⟫ ja ⟪विदेह⟫, ⟪अयोध्या⟫ ja ⟪कोसल⟫. (Kuv lähde: JIJITH NR / Wikipedia. GNU FDLicense)
 * **Kuv. lekt4207**: ⟪रावणः⟫. Yakṣagaṇa-tanssimaski (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟക). (Kuv lähde: Manohara Upadhya / Wikipedia. GNU FDLicense)
 * **Kuv. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Kuva ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫:sta (1848 - 1906). (Kuv lähde: Wikipedia. Julkisen omistuksen kuva)

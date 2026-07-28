@@ -101,7 +101,7 @@ Bandipurin kansallispuisto -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪भविष्यथस्⟫ | ⟪भविष्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪भविष्यतस्⟫ | ⟪भविष्येते⟫ |
 :::
-## 58.4. Dual passii (liiteaine -⟪यक्⟫)
+## 58.4. duaali passii (liiteaine -⟪यक्⟫)
 
 ⟪तुद्⟫ 6U "lyödä, iskeä"
 
@@ -111,7 +111,7 @@ Bandipurin kansallispuisto -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
 :::
-## 58.5. Dualin athemaattiset preesensluokat: indikatiivin preesens (⟪लट्⟫)
+## 58.5. duaaliin athemaattiset preesensluokat: indikatiivin preesens (⟪लट्⟫)
 
 ### 58.5.1. Toinen preesensluokka (⟪अदादिगणः⟫)
 
@@ -273,7 +273,7 @@ Kuv: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ::: media
 ![](/images/lekt5801.webp)
 Kuva: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
-(Kuv lähde: [Details](/fi/licenses#lekt5801))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5801))
 :::
 ## 58.6. Aorist 5: iṣ-aoristi
 

@@ -18,9 +18,9 @@ Ejemplos:
 
 | Raíz:br⟪धातु⟫ | 3. sg. Perf. P. | 3. pl. Perf. P. | 3. sg. Perf. Ā. | 3. pl. Perf. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫*⟪गा⟫*⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
+| ⟪जि⟫ 1P:brPerf. IIIa | ⟪जि⟫*:sig[⟪गा⟫]*⟪य⟫ | ⟪जि⟫:sig[⟪ग्यु⟫]⟪र्⟫:brji-gi + ur | | |
 | ⟪चि⟫ 5U:brPerf. IIIa | ⟪चि⟫:sig[⟪का⟫]⟪य⟫:br ⟪चिचाय⟫ | ⟪चि⟫:sig[⟪क्यु⟫]⟪र्⟫:br ⟪चिच्युर्⟫ | ⟪चि⟫:sig[⟪क्ये⟫] :br ⟪चिच्ये⟫ | ⟪चि⟫:sig[⟪क्यि⟫]⟪रे⟫:br ⟪चिच्यिरे⟫ |
-| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫*⟪घा⟫*⟪न⟫ | ⟪ज⟫*⟪घ्नु⟫*⟪र्⟫ | | |
+| ⟪हन्⟫ 2P:brPerf. Va | ⟪ज⟫*:sig[⟪घा⟫]*⟪न⟫ | ⟪ज⟫*:sig[⟪घ्नु⟫]*⟪र्⟫ | | |
 
 ::: grammar-box
 2\. La raíz ⟪विद्⟫ 2P "saber" tiene un perfecto con significado presente.
@@ -63,7 +63,7 @@ raíz del presente (débil) + -ām + forma correspondiente del perfecto de ⟪�
 - La vocal final del tema sufre guṇa antes de -ām.
 - ⟪अस्⟫ y ⟪भू⟫ se conjugan también en parasmaipada para verbos de ātmanepada.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem Acusativo eine Verbalnomens auf -ā entstanden. Dieser Acusativo wird -- wie auch sonst oft -- adverbial verwendet.
 
 Ejemplos:
 
@@ -187,7 +187,7 @@ PPP ⟪ग्लान⟫
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
 :::
-⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : oler algo
+⟪घ्रा⟫ 1P **:sig[⟪जिघ्रति⟫]** : oler algo
 
 ::: indent
 Perf. IV ⟪जघ्रौ⟫  
@@ -206,7 +206,7 @@ Absol. -⟪घ्राय⟫
 Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
 Fut. ⟪प्रेष्यति⟫  
 Pass. ⟪प्रीयते⟫  
-Kaus. ***⟪प्रीणयति⟫***  
+Kaus. **:sig[⟪प्रीणयति⟫]**  
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
 :::
@@ -405,16 +405,16 @@ Traduzca:
 1\. ⟪महाभारत⟫ ⟪१३⟫.⟪७⟫.⟪२५⟫-⟪२६⟫
 
 ::: indent
-⟪येन⟫ ⟪प्रीणति⟫ *⟪पितरं⟫*
+⟪येन⟫ ⟪प्रीणति⟫ *:sig[⟪पितरं⟫]*
 ⟪तेन⟫ ⟪प्रीतः⟫ ⟪प्रजापतिः⟫ ⟪।⟫
-⟪प्रीणति⟫ *⟪मातरं⟫* ⟪येन⟫
+⟪प्रीणति⟫ *:sig[⟪मातरं⟫]* ⟪येन⟫
 ⟪पृथिवी⟫ ⟪तेन⟫ ⟪पूजिता⟫ ⟪।⟫
 ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫
-⟪तेन⟫ ⟪स्या⟫*⟪द्ब्रह्म⟫* ⟪पूजितम्⟫ ⟪।⟫
-*⟪सर्वे⟫* ⟪तस्यादृता⟫ ⟪धर्मा⟫
-⟪यस्यैते⟫ *⟪त्रय⟫* ⟪आदृताः⟫ ⟪।⟫
+⟪तेन⟫ ⟪स्या⟫*:sig[⟪द्ब्रह्म⟫]* ⟪पूजितम्⟫ ⟪।⟫
+*:sig[⟪सर्वे⟫]* ⟪तस्यादृता⟫ ⟪धर्मा⟫
+⟪यस्यैते⟫ *:sig[⟪त्रय⟫]* ⟪आदृताः⟫ ⟪।⟫
 ⟪अनादृतास्तु⟫ ⟪यस्यैते⟫
-*⟪सर्वास्त⟫*⟪स्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫
+*:sig[⟪सर्वास्त⟫]*⟪स्याफलाः⟫ ⟪क्रियाः⟫ ⟪॥⟫
 
 Explicaciones:
 
@@ -424,7 +424,7 @@ Explicaciones:
 
 ⟪ब्रह्म⟫ : Nom./Ac. sg. de ⟪ब्रह्मन्⟫ n. "Absoluto, Veda"
 
-⟪सर्वे⟫ : Nom. pl. masc. de ⟪सर्व⟫ "todo, cada"
+:sig[⟪सर्वे⟫] : Nom. pl. masc. de ⟪सर्व⟫ "todo, cada"
 
 ⟪त्रयस्⟫ : Nom. pl. masc. de ⟪त्रि⟫ "tres"
 
@@ -445,7 +445,7 @@ Fig.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं�
 
 ::: indent
 ⟪श्रुत्वा⟫ ⟪स्पृष्ट्वा⟫ ⟪च⟫ ⟪दृष्ट्वा⟫ ⟪च⟫ ⟪भुक्त्वा⟫ ⟪घ्रात्वा⟫ ⟪च⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫
-⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ *⟪विज्ञेयो⟫* ⟪जितेन्द्रियः⟫ ⟪॥⟫
+⟪न⟫ ⟪हृष्यति⟫ ⟪ग्लायति⟫ ⟪वा⟫ ⟪स⟫ *:sig[⟪विज्ञेयो⟫]* ⟪जितेन्द्रियः⟫ ⟪॥⟫
 
 Explicación: ⟪विज्ञेय⟫ ⟪३⟫: uno que es reconocible; uno que es cognoscible (como)
 :::

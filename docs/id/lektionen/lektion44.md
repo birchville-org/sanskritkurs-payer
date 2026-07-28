@@ -17,7 +17,7 @@ status: stable
 ::: grammar-box
 **3.sg.Ā.Imperfect secara formal identik dengan 2.pl.P.Imperfect!!!**
 :::
-### 44.1.1. Fünfte Presentklasse (⟪स्वादि⟫)
+### 44.1.1. Kelas Present Kelima (⟪स्वादि⟫)
 
 ⟪सु⟫ 5U
 
@@ -29,7 +29,7 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪असुनोस्⟫ | ⟪असुनुत⟫ | ⟪असुनुथास्⟫ | ⟪सुनुध्वम्⟫ |
 | **Optatif** :br⟪विधिलिङ्⟫ | ⟪सुनुयास्⟫ | ⟪सुनुयात⟫ | ⟪सुन्वीथास्⟫ | ⟪सुन्वीध्वम्⟫ |
 :::
-### 44.1.2. Achte Presentklasse (⟪तनादि⟫)
+### 44.1.2. Achte Kelas Present (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -51,7 +51,7 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अकरोस्⟫ | ⟪अकुरुत⟫ | ⟪अकुरुथास्⟫ | ⟪अकुरुध्वम्⟫ |
 | **Optatif** :br⟪विधिलिङ्⟫ | ⟪कुर्यास्⟫ | ⟪कुर्यात⟫ | ⟪कुर्वीथास्⟫ | ⟪कुर्वीध्वम्⟫ |
 :::
-### 44.1.3. Neunte Presentklasse (⟪क्र्यादि⟫)
+### 44.1.3. Neunte Kelas Present (⟪क्र्यादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -93,7 +93,7 @@ mis. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ »
 :::
 ## 44.3. Pembentukan Bentuk Verba Orang ke-2 (⟪मध्यमः⟫) dari Batang Atematik tanpa Sufiks yang Berakhiran Vokal
 
-### 44.3.1. Zweite Presentklasse (⟪अदादि⟫)
+### 44.3.1. Kedua Kelas Present (⟪अदादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -157,9 +157,9 @@ mis. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ »
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Present** :br⟪लट्⟫ | ***⟪असि⟫*** | ***⟪स्थ⟫*** |
-| **Imperfekt** :br⟪लङ्⟫ | ***⟪आसीस्⟫*** | ***⟪आस्त⟫*** |
-| **Optatif** :br⟪विधिलिङ्⟫ | ***⟪स्यास्⟫*** | ***⟪स्यात⟫*** |
+| **Indikativ Present** :br⟪लट्⟫ | **:sig[⟪असि⟫]** | **:sig[⟪स्थ⟫]** |
+| **Imperfekt** :br⟪लङ्⟫ | **:sig[⟪आसीस्⟫]** | **:sig[⟪आस्त⟫]** |
+| **Optatif** :br⟪विधिलिङ्⟫ | **:sig[⟪स्यास्⟫]** | **:sig[⟪स्यात⟫]** |
 :::
 ⟪तत्त्वमसि⟫
 
@@ -200,7 +200,7 @@ Para ahli tata bahasa asli tidak menganggap vocatif (⟪आमन्त्रि
 ::: media
 ![](/images/lekt4402.webp)
 Fig.: Pada penggunaan "O" yang benar dalam bahasa Jerman: **"Wahai orang!"**
-(Sumber gambar: [Details](/en/licenses#lekt4402))
+(Sumber gambar: [Detail](/en/licenses#lekt4402))
 :::
 
 ::: grammar-box
@@ -238,9 +238,9 @@ therefrom:
 ::: media
 ![](/images/lekt4403.webp)
 Fig.: ⟪रेल्यानम्⟫
-(Sumber gambar: [Details](/en/licenses#lekt4403))
+(Sumber gambar: [Detail](/en/licenses#lekt4403))
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : berbaring. Akar ini memiliki dalam semua bentuk batang present **Strong Grade:** 1.sg.Ind.Pres.Ā ***⟪शेये⟫*** (śe + e). Bentuk-bentuk berikut sangat patut diperhatikan: 3.pl.Ind.Pres.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
+**⟪शी⟫** 2Ā ⟪शेते⟫ : berbaring. Akar ini memiliki dalam semua bentuk batang present **Strong Grade:** 1.sg.Ind.Pres.Ā **:sig[⟪शेये⟫]** (śe + e). Bentuk-bentuk berikut sangat patut diperhatikan: 3.pl.Ind.Pres.Ā **:sig[⟪शेरते⟫]**, 3.pl.Impf.Ā **:sig[⟪अशेरत⟫]**
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -256,7 +256,7 @@ therefrom:
 ::: media
 ![](/images/lekt4404.webp)
 Fig.: ⟪योगी⟫ ⟪शयने⟫ ⟪शेते⟫
-(Image source: [Details](/en/licenses#lekt4404))
+(Image source: [Detail](/en/licenses#lekt4404))
 :::
 ⟪नन्द्⟫ 1P ⟪नन्दति⟫ : to rejoice in (⟪तृतीयया⟫)
 
@@ -277,17 +277,17 @@ therefrom:
 ::: media
 ![](/images/lekt4405.webp)
 Fig.: ⟪नन्दी⟫
-(Sumber gambar: [Details](/en/licenses#lekt4405))
+(Sumber gambar: [Detail](/en/licenses#lekt4405))
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : bersukacita dalam (⟪द्वितीयया⟫), menyapa seseorang dengan gembira, menyambut
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : memegang, membawa; menawarkan, memberikan; mengikat bersama, menahan, kekang, menaklukkan
+**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : memegang, membawa; menawarkan, memberikan; mengikat bersama, menahan, kekang, menaklukkan
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Caus. ⟪यामयति⟫ but: ⟪नि⟫***⟪यम⟫***⟪यति⟫  
+Caus. ⟪यामयति⟫ but: ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
@@ -300,7 +300,7 @@ PPP ⟪आयत⟫ 3: panjang terbentang
 ::: media
 ![](/images/lekt4406.webp)
 Fig.: ⟪आयतो⟫ ⟪मरुः⟫
-(Sumber gambar: [Details](/en/licenses#lekt4406))
+(Sumber gambar: [Detail](/en/licenses#lekt4406))
 :::
 ⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ : menawarkan, mempersembahkan, menyerahkan
 
@@ -323,7 +323,7 @@ therefrom:
 ::: media
 ![](/images/lekt4407.webp)
 Fig.: ⟪यत्नेन⟫
-(Image source: [Details](/en/licenses#lekt4407))
+(Image source: [Detail](/en/licenses#lekt4407))
 :::
 **⟪रभ्⟫** 1Ā ⟪रभते⟫ (variant form to ⟪लभ्⟫): to grasp
 
@@ -331,7 +331,7 @@ Fig.: ⟪यत्नेन⟫
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. ***⟪रम्भ⟫***⟪यति⟫  
+Kaus. **:sig[⟪रम्भ⟫]**⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫
@@ -348,7 +348,7 @@ See:
 ::: media
 ![](/images/lekt4408.webp)
 Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
-(Image source: [Details](/en/licenses#lekt4408))
+(Image source: [Detail](/en/licenses#lekt4408))
 :::
 ## 44.6. Latihan
 
@@ -410,7 +410,7 @@ A) Identify and translate the following forms:
 ::: media
 ![](/images/lekt4409.webp)
 Fig.: ⟪कस्माद्रोदिषि⟫
-(Image source: [Details](/en/licenses#lekt4409))
+(Image source: [Detail](/en/licenses#lekt4409))
 :::
 B) Translate:
 
@@ -478,7 +478,7 @@ Determine the following forms:
 
 ::: deleteme-box
 
-**lekt4301.jpg**: Details in licenses.md
+**lekt4301.jpg**: Detail in licenses.md
 
 **lekt4401.jpg**: No specific license/image source found in the text
 

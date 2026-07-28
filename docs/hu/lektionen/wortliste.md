@@ -2507,7 +2507,7 @@ Kép: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
 (Képmegjelölés: [Details](/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** visszatart, tart, bemutat, biztosít
+**⟪यम्⟫ 1P :sig[⟪यच्छति⟫] :** visszatart, tart, bemutat, biztosít
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** nyújt, kínál, átad
 
@@ -3576,7 +3576,7 @@ Tökéletes idő Igaz (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫
 Jövő idő ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
 Képző ⟪गृह्यते⟫  
 Okozó.⟪ग्राहयति⟫  
-PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫  
+PPP :sig[⟪गृ⟫]:sig[⟪ही⟫]⟪त⟫  
 Főnévi igenév ⟪ग्रहितुम्⟫  
 Abszolútum -⟪ग्राह्य⟫
 ebből:
@@ -3792,7 +3792,7 @@ pl.
 ⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫:sig[⟪षी⟫]⟪दति⟫ : leülni
 
 :::
-⟪भोस्⟫ vocativus partikula: megszólítás kiáltása, pl.: hé, heda, ó, ej, szia, hi! gyakran nem fordítható. Ennek a partikulának van egy speciális szandija: minden hangzó mássalhangzó előtt, az ⟪भो⟫.
+⟪भोस्⟫ vocativus partikula: megszólítás kiáltása, pl.: hé, heda, ó, ej, szia, hi! gyakran nem fordítható. Ennek a partikulának van egy speciális szandija: minden hangzó mássalhangzó előtt, az :sig[⟪भो⟫].
 
 ::: media
 ![](/images/lekt4611.webp)
@@ -3956,7 +3956,7 @@ Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
+PPP ⟪त्वरित⟫ ⟪।⟫ :sig[⟪तू्र्⟫]:sig[⟪ण⟫]
 Inf. ⟪त्वरितुम्⟫
 
 :::
@@ -4142,7 +4142,7 @@ Ragozás mint ⟪यद्⟫ (kivétel: Nominatívus/Akkuzativus egyes szám, k
 | | **Nemű:br⟪पुंस्⟫** | **Középnem:br⟪नपुंसकम्⟫** | **Női nemű:br⟪स्त्री⟫** | **Nemű:br⟪पुंस्⟫** | **Középnem:br⟪नपुंसकम्⟫** | **Női nemű:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1. Nominativus:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Akkuzativus:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. Akkuzativus:br⟪२⟫. ⟪द्वितीया⟫** | :sig[⟪सर्वम्⟫] | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
 | **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
 | **4. Datívus:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **5. Ablativus:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |

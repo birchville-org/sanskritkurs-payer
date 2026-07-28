@@ -19,7 +19,7 @@ Formen los correspondientes aoristos de las siguientes formas de presente o perf
 | ⟪४⟫. | **⟪बभूव⟫** | yo / él / ellos fue / fuisteis | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
 | ⟪५⟫. | **⟪दधति⟫** | ellos sientan | **⟪अधुः⟫** |
 | ⟪६⟫. | **⟪ऐम⟫** | nosotros fuimos | **⟪अगाम⟫** |
-| ⟪७⟫. | **⟪पपिथ⟫** | tú has bebido / protegido | **⟪अपाः⟫** (a *⟪पा⟫* "beber") |
+| ⟪७⟫. | **⟪पपिथ⟫** | tú has bebido / protegido | **⟪अपाः⟫** (a *:sig[⟪पा⟫]* "beber") |
 | ⟪८⟫. | **⟪तिष्ठति⟫** | él está de pie | **⟪अस्थात्⟫** |
 | ⟪९⟫. | **⟪इयेथ⟫** | tú has ido | **⟪अगाः⟫** |
 | ⟪१०⟫. | **⟪पप⟫** | vosotros habéis bebido | **⟪अपात⟫** |

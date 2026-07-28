@@ -86,7 +86,7 @@ A eddig tanult gyökökhöz a következő infinitívusok különösen figyelembe
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Tőn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. Az infinitívus (⟪तुमुन्⟫) a eddig tanult gyökökhez
 
@@ -241,7 +241,7 @@ A jót cselekedni = ⟪पुण्यकरणम्⟫, Thaiföld = ประ�
 ![](/images/lekt2301.webp)
 Ábra: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thaiföld = เชียงใหม่, ประเทศไทย
-(Képmegjelenítés: [Details](/hu/licenses#lekt2301))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2301))
 :::
 ⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
 

@@ -38,7 +38,7 @@ Exemplos:
 2.sg.Ā a-kṣip + s + thās » ⟪अ⟫:sig[⟪क्षिप्था⟫]⟪स्⟫
 :::
 Tais formas poderiam também pertencer ao aoristo radical e, provavelmente, em parte, também pertencem a ele.
-Os gramáticos indianos também classificaram formas como ⟪अकृत⟫ (3.sg.Ā) como aoristo em -s-, que claramente pertencem ao aoristo radical. Para este fim, os gramáticos indianos inventaram a seguinte regra fonética ad-hoc para o aoristo em -s-:
+Os gramáticos indianos também classificaram formas como :sig[⟪अकृत⟫] (3.sg.Ā) como aoristo em -s-, que claramente pertencem ao aoristo radical. Para este fim, os gramáticos indianos inventaram a seguinte regra fonética ad-hoc para o aoristo em -s-:
 
 ::: indent
 "Depois de uma vogal curta, as "desinências" que começam com -st- ou -sth- perdem o -s-."
@@ -68,7 +68,7 @@ Exemplos:
 
 |   | **3.sg.P** |
 | --- | --- |
-| ⟪चि⟫ 5U | ⟪अचैषीत्⟫ |
+| :sig[⟪चि⟫] 5U | ⟪अचैषीत्⟫ |
 | ⟪श्रु⟫ 5P | ⟪अश्रौषीत्⟫ |
 | ⟪कृ⟫ 8U | ⟪अकार्षीत्⟫ |
 | ⟪भज्⟫ 1U | ⟪अभाक्षीत्⟫ |
@@ -77,7 +77,7 @@ Exemplos:
 
 |   | **3.sg.Ā** |
 | --- | --- |
-| ⟪चि⟫ 5U | ⟪अचेष्ट⟫ |
+| :sig[⟪चि⟫] 5U | ⟪अचेष्ट⟫ |
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
 |   | **sg.Ā** |

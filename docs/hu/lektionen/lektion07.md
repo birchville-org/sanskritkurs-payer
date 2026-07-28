@@ -231,7 +231,7 @@ Kép: Ez volt-e a védikus Szóma-növény?: Lúdbirka-gomba: *Amanita muscaria*
 ::: media
 ![](/images/lekt0704.webp)
 Ábr.: Viṣṇu = ⟪विष्णु⟫, 8./9. század.
-(Képmegjelölés: [Details](/hu/licenses#lekt0704))
+(Képmegjelölés: [Részletek](/hu/licenses#lekt0704))
 :::
 2. gurus ... khādati (phala)
    ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
@@ -292,7 +292,7 @@ Kép: **yajati** = ⟪यजति⟫ — Védákn áldozat = **yajña** m. = �
 ::: media
 ![](/images/lekt0703.webp)
 Ábra: Melyik istennek áldoznak itt? Válasz: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
-(Képmeghatározás: [Details](/hu/licenses#lekt0703))
+(Képmeghatározás: [Részletek](/hu/licenses#lekt0703))
 :::
 9. Mit rág ez a szent ember?
 10. Mit préselnek ezek (ide)?

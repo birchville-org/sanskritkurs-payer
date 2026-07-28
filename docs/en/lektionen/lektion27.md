@@ -159,21 +159,21 @@ Further information on the usage of the Locative later.
 
 ::: media
 ![](/images/lekt2708.webp)
-Fig.: ⟪रामे⟫ ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ⟪राम⟫ ⟪मामुद्धर⟫ ⟪॥⟫
+Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
 (Image source: [Details](/en/licenses#lekt2708))
 :::
-*⟪रामो⟫* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *⟪रामं⟫* ⟪रमेशं⟫ ⟪भजे⟫:br *⟪रामेणा⟫*⟪भिहता⟫ ⟪निशाचरचमू⟫ *⟪रामाय⟫* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *⟪रामान्ना⟫*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *⟪रामस्य⟫* ⟪दासोऽस्म्यहम्⟫:br *⟪रामे⟫* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *⟪राम⟫* ⟪मामुद्धर⟫ ⟪॥⟫
+*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟫:br *:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟫:br *:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *:sig[⟪राम⟫]* ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Translation:**
-1. **Nominative:** Rāma, the jewel (⟪मणि⟫ m.) among kings (⟪राजन्⟫ m.) always conquers (⟪सदा⟫).
+1. **Nominativeee:** Rāma, the jewel (⟪मणि⟫ m.) among kings (⟪राजन्⟫ m.) always conquers (⟪सदा⟫).
 2. **Accusative:** I love (⟪भज्⟫ 1S) Rāma, the lord and husband (⟪ईश⟫ m.) of Ramā (= Lakṣmī).
 3. **Instrumental:** Rāma has killed the army (⟪चमू⟫ f.) of night-roamers (= demons) (⟪निशा⟫ f. = night).
-4. **Dative:** To this Rāma be homage!
-5. **Ablative:** There is no better (⟪परतर⟫ 3) refuge (⟪परायण⟫ n.) than Rāma.
+4. **Dativeee:** To this Rāma be homage!
+5. **Ablativeee:** There is no better (⟪परतर⟫ 3) refuge (⟪परायण⟫ n.) than Rāma.
 6. **Genitive:** I (⟪अहम्⟫) am (⟪अस्मि⟫) a servant of Rāma.
 7. **Locative:** In Rāma may (⟪भवतु⟫) always be the peace (⟪लय⟫ m.) of my (⟪मे⟫) heart.
-8. **Vocative:** Rāma, save (⟪उद्धर⟫ = Imperative for ⟪उद्⟫ + ⟪हृ⟫ or ⟪उद्⟫ + ⟪धृ⟫) me (⟪माम्⟫)!
+8. **Vocative:** Rāma, save (⟪उद्धर⟫ = Imperativeee for ⟪उद्⟫ + ⟪हृ⟫ or ⟪उद्⟫ + ⟪धृ⟫) me (⟪माम्⟫)!
 
 ## 27.5. Word List
 

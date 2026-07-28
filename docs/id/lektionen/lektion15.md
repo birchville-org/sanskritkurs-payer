@@ -66,7 +66,7 @@ Nom pl. ⟪गुणवत्पुत्राः⟫
 ::: media
 ![](/images/lekt1501.webp)
 Gambar: ⟪लक्ष्मी⟫
-(Sumber gambar: [Details](/id/licenses#lekt1501))
+(Sumber gambar: [Detail](/id/licenses#lekt1501))
 :::
 
 ::: grammar-box
@@ -88,7 +88,7 @@ Karmadhāraya apposisional semacam itu diuraikan dalam komentar-komentar lokal s
 ::: media
 ![](/images/lekt1503.webp)
 Ilustr.: ⟪नरसिंहः⟫
-(Sumber gambar: [Details](/id/licenses#lekt1503))
+(Sumber gambar: [Detail](/id/licenses#lekt1503))
 :::
 ## 15.4. Kata majemuk determinatif dengan anggota depan yang memiliki hubungan kasus non-atributif/aposisional dengan anggota belakang = Tatpuruṣa dalam arti sempit
 
@@ -121,12 +121,12 @@ Komponen pertama dapat berada dalam bentuk tunggal, dwitunggal (dual), atau jama
 :::
 Contoh:
 
-Komponen pertama mewakili Akkusativ (⟪द्वितीया⟩): mis. pada beberapa PPP untuk kata kerja gerak (Pāṇini 2,1,24):
+Komponen pertama mewakili Akusatif (⟪द्वितीया⟩): mis. pada beberapa PPP untuk kata kerja gerak (Pāṇini 2,1,24):
 
 ⟪ग्रामगतः⟫ = ⟪ग्रामं⟫ ⟪गतः⟫ = "seseorang yang telah pergi ke desa"  
 ⟪नरकपतिता⟫ = ⟪नरकं⟫ ⟪पतिता⟫ = "seseorang yang telah jatuh ke neraka"
 
-Komponen pertama mewakili Instrumentalis (⟪तृतीया⟩): mis. sering kali Agen (⟪कर्तृ⟩) dari pembentukan kata benda dengan sufiks kṛt (mis. PPP):
+Komponen pertama mewakili Instrumental (⟪तृतीया⟩): mis. sering kali Agen (⟪कर्तृ⟩) dari pembentukan kata benda dengan sufiks kṛt (mis. PPP):
 
 ⟪देवकृतम्⟫ = ⟪देवेन⟫ / ⟪देवैः⟫ ⟪कृतम्⟫ = "dibuat oleh dewa / oleh para dewa"  
 Juga dapat diuraikan: ⟪देवस्य⟫ / ⟪देवानां⟫ ⟪कृतम्⟫ = "tindakan / perbuatan seorang dewa / oleh para dewa ; tindakan dewa, tindakan para dewa"  
@@ -142,7 +142,7 @@ Meskipun dalam bahasa Sanskrit komposis dengan panjang sembarang dapat dibentuk 
 ::: media
 ![](/images/lekt1502.jpg)
 Ilm.: ⟪समासविच्छेदः⟫
-(Sumber gambar: [Details](/id/licenses#lekt1502))
+(Sumber gambar: [Detail](/id/licenses#lekt1502))
 :::
 dan seterusnya hingga mencapai akar kata individual.
 
@@ -207,7 +207,7 @@ mis.
 
 1.  ⟪प्रथमातत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Nominatif (⟪प्रथमा⟫)
 2.  ⟪द्वितीयातत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Akusatif (⟪द्वितीया⟫)
-3.  ⟪तृतीयातत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Instrumentalis (⟪तृतीया⟫)
+3.  ⟪तृतीयातत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Instrumental (⟪तृतीया⟫)
 4.  ⟪चतुर्थीतत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Datif (⟪चतुर्थी⟫)
 5.  ⟪पञ्चमीतत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Ablatif (⟪पज्चमी⟫)
 6.  ⟪षष्ठीतत्पुरुषः⟫ : anggota depan berada dalam ⟪विग्रहवाक्य⟫ dalam Genetif (⟪षष्ठी⟫)
@@ -256,7 +256,7 @@ athavā : or (preposed)
 ⟪पूजा⟫ f.: penghormatan, penyambutan penuh hormat, pemujaan keagamaan (Pūjā)
 ::: media
 ![](/images/lekt1504.webp)
-Abb.: ⟪पूजा⟫
+Gbr.: ⟪पूजा⟫
 Sumber gambar: [Detail](/licenses#lekt1504)
 :::
 ⟪कुल⟫ n.: kawanan, jumlah besar, keturunan, silsilah, keluarga
@@ -264,7 +264,7 @@ Sumber gambar: [Detail](/licenses#lekt1504)
 ⟪इन्द्र⟫ m.: pangeran, yang utama, terbaik di antara; raja para dewa Indra
 ::: media
 ![](/images/lekt1505.webp)
-Abb.: ⟪इन्द्रः⟫
+Gbr.: ⟪इन्द्रः⟫
 Sumber gambar: [Detail](/licenses#lekt1505)
 :::
 caturtha 3 (f.: caturthī): fourth
@@ -280,7 +280,7 @@ ardha 3: half, m.n. half
 pūjā f.: honor, honorable reception, religious worship (Pūjā)
 
 Fig.: pūjā
-(Image source: [Details](/en/licenses#lekt1504))
+(Image source: [Detail](/en/licenses#lekt1504))
 
 dari situ:
 
@@ -290,7 +290,7 @@ kula n.: herd, multitude, lineage, ancestry, family
 indra m.: prince, first, best among ; king of gods Indra
 :::
 Fig.: indraḥ
-(Image source: [Details](/en/licenses#lekt1505))
+(Image source: [Detail](/en/licenses#lekt1505))
 ::: media
 ![](/images/lekt1506.webp)
 dāsa m.: slave, serf, servant
@@ -515,7 +515,7 @@ Pecahkan seperti pada Latihan 1 berikut Tatpuruṣa:
 ::: media
 ![](/images/lekt1508.webp)
 Ilm.: ⟪ग्रामदेवता⟫
-(Sumber gambar: [Details](/id/licenses#lekt1508))
+(Sumber gambar: [Detail](/id/licenses#lekt1508))
 :::
 ## 15.11. Latihan 3
 
@@ -577,7 +577,7 @@ B) Uraikan Tatpuruṣa berikut:
 ::: media
 ![](/images/lekt1509.webp)
 Gambar: ⟪नागदेवाः⟫
-(Sumber gambar: [Details](/id/licenses#lekt1509))
+(Sumber gambar: [Detail](/id/licenses#lekt1509))
 :::
 
 ::: deleteme-box

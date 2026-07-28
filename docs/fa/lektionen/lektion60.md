@@ -324,13 +324,13 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
 1.  Die Wurzel ist meist tiefstufig: ⟪जीव्⟫ » ⟪जिजीविष⟫-   <!-- TODO: Fallback translation -->
 
     1.  auslautendes -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:   <!-- TODO: Fallback translation -->
-        ⟪जि⟫ » ⟪जि⟫***⟪गी⟫***⟪ष⟫- "zu siegen wünschen"  
-        ⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- "zu laufen wünschen"   <!-- TODO: Fallback translation -->
+        ⟪जि⟫ » ⟪जि⟫***:sig[⟪गी⟫]***⟪ष⟫- "zu siegen wünschen"  
+        ⟪द्रु⟫ » ⟪दु⟫***:sig[⟪द्रू⟫]***⟪ष⟫- "zu laufen wünschen"   <!-- TODO: Fallback translation -->
 
     2.  auslautendes -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:   <!-- TODO: Fallback translation -->
-        ⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- "zu tun wünschen"  
-        ⟪मृ⟫ » ⟪मु⟫***⟪मूर्ष⟫***\- "im Begriff sein, zu sterben"  
-        ⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "zu füllen wünschen"   <!-- TODO: Fallback translation -->
+        ⟪कृ⟫ » ⟪चि⟫***:sig[⟪कीर्ष⟫]***\- "zu tun wünschen"  
+        ⟪मृ⟫ » ⟪मु⟫***:sig[⟪मूर्ष⟫]***\- "im Begriff sein, zu sterben"  
+        ⟪पॄ⟫ » ⟪पु⟫***:sig[⟪पूर्ष⟫]***\- "zu füllen wünschen"   <!-- TODO: Fallback translation -->
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ und einige andere Wurzeln auf -ā, -e, -o haben Tiefstufe Ø:   <!-- TODO: Fallback translation -->
         ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
@@ -350,7 +350,7 @@ Die Regeln zur Verwendung des Bindevokals -i- siehe bei Kielhorn, Grammatik § 4
         1.  obligatorisch: Wurzeln der Form i/u - Konsonant sowie (Konsonant -) ṛ/ḷ - Konsonant:   <!-- TODO: Fallback translation -->
             ⟪इष्⟫ » ⟪एषिषिष⟫- "zu wünschen verlangen"  
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "passend zu sein wünschen"  
-            ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- "zu lächeln wünschen"   <!-- TODO: Fallback translation -->
+            ⟪स्मि⟫ » ⟪सि⟫***:sig[⟪स्म⟫]***⟪यिष⟫- "zu lächeln wünschen"   <!-- TODO: Fallback translation -->
 
         2.  wahlweise: Wurzeln der Form Konsonant - (Konsonant -) i/u - Konsonant außer -v\_   <!-- TODO: Fallback translation -->
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "aufzublitzen wünschen" <!-- TODO: Fallback translation -->

@@ -44,7 +44,7 @@ Bentuk aorist ini dibentuk oleh, antara lain:
 ::: grammar-box
 **Semua akar dari kelas 10 batang present serta semua kausatif selalu membentuk aorist yang diduplikasi.**
 :::
-### 56.1.1. Bildung  Aorist  Kausatife dan  Wurzeln  10. Presentklasse
+### 56.1.1. Pembentukan  Aorist  Kausatife dan  Akarn  10. Kelas Present
 
 Stem syllable:
 
@@ -54,22 +54,22 @@ Stem syllable:
 **Vokal dari suku kata batang yang disebut ini ditentukan dalam Aorist sesuai dengan aturan berikut:**
 
 *   **\-ā- sebelum konsonan sederhana diganti dengan -a-:**  
-⟪पॄ⟫ 3P: Kaus. ***⟪पार⟫***⟪यति⟫, Aor. ⟪अपि⟫***⟪पर⟫***⟪त्⟫  
-⟪द्रु⟫ 1P: Kaus. ***⟪द्राव⟫***⟪यति⟫, Aor. ⟪अदु⟫***⟪द्रव⟫***⟪त्⟫ / ⟪अदि⟫***⟪द्रव⟫***⟪त्⟫  
-⟪नी⟫ 1U: Kaus.  ***⟪नाय⟫***⟪यति⟫, Aor. ⟪अनी⟫***⟪नय⟫***⟪त्⟫  
-⟪ज्ञा⟫ 9U: Kaus. ***⟪ज्ञाप⟫***⟪यति⟫, Aor. ⟪अजि⟫***⟪ज्ञप⟫***⟪त्⟫  
+⟪पॄ⟫ 3P: Kaus. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫  
+⟪द्रु⟫ 1P: Kaus. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫  
+:sig[⟪नी⟫] 1U: Kaus.  **:sig[⟪नाय⟫]**⟪यति⟫, Aor. ⟪अनी⟫**:sig[⟪नय⟫]**⟪त्⟫  
+⟪ज्ञा⟫ 9U: Kaus. **:sig[⟪ज्ञाप⟫]**⟪यति⟫, Aor. ⟪अजि⟫**:sig[⟪ज्ञप⟫]**⟪त्⟫  
 
 *   **\-ī-, -e-, -ai- sebelum konsonan sederhana diganti dengan -i-:**  
-⟪चित्⟫ 1P: Kaus. ***⟪चेत⟫***⟪यति⟫, Aor. (Ā) ⟪अची⟫***⟪चित⟫***⟪त⟫  
+⟪चित्⟫ 1P: Kaus. **:sig[⟪चेत⟫]**⟪यति⟫, Aor. (Ā) ⟪अची⟫**:sig[⟪चित⟫]**⟪त⟫  
 
 *   **\-u-, -o-, -au- sebelum konsonan sederhana diganti dengan -u-:**  
-⟪चुर्⟫ 10U: ***⟪चोर⟫***⟪यति⟫, Aor. ⟪अचू⟫***⟪चुर⟫***⟪त्⟫
+⟪चुर्⟫ 10U: **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
 
 **Untuk akar kata tertentu, perubahan-perubahan yang telah disebutkan bersifat opsional atau harus ditiadakan:**
 
 *   **ar, ār, īr, al, yang mendahului konsonan akhir dari suku kata akar dan menggantikan ṛ, ṝ, ḷ, tetap opsional tidak berubah atau diganti oleh ṛ atau ḷ:**  
-    ⟪कॢप्⟫ 1Ā: Kaus. ***⟪कल्प⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कल्प⟫***⟪त्⟫ / ⟪अची⟫***⟪कॢ⟫***⟪पत्⟫  
-    ⟪कृष्⟫ 1P/6U: Kaus. ***⟪कर्ष⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कर्ष⟫***⟪त्⟫ / ⟪अची⟫***⟪कृ⟫***⟪षत्⟫
+    ⟪कॢप्⟫ 1Ā: Kaus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫  
+    ⟪कृष्⟫ 1P/6U: Kaus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
 :::
     Vokal dari suku kata reduplicasi:
 
@@ -85,14 +85,14 @@ Setelah aturan-aturan tersebut di atas diterapkan pada suku kata akar, aturan be
 **This reduplication vowel undergoes the following changes:**
 
 *   **i, u diganti menjadi ī, ū jika suku kata akar hanya diawali oleh satu konsonan dan secara metris pendek:**  
-    ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫***⟪तू⟫***⟪तुदत्⟫  
+    ⟪भिद्⟫ 7U: Kaus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫  
+    ⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫  
 
 *   **a diganti menjadi ī jika suku kata akar secara metris pendek dan hanya diawali oleh satu konsonan. Jika suku kata akar secara metris pendek dan diawali oleh lebih dari satu konsonan, maka a pada suku kata reduplikasi diganti menjadi i. Jika suku kata akar secara metris panjang, maka a tetap:**  
-    ⟪नी⟫ 1U: Kaus. ⟪नाययति⟫, suku kata akar dari Aor. ⟪नय्⟫, Aor. ⟪अ⟫***⟪नी⟫***⟪नयत्⟫  
-    ⟪कृ⟫ 8U: Kaus. ⟪कारयति⟫, suku kata akar dari Aor. ⟪कर्⟫, Aor. ⟪अ⟫***⟪ची⟫***⟪करत्⟫  
-    ⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, suku kata akar dari Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫***⟪ति⟫***⟪त्यजत्⟫  
-    ⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, suku kata akar dari Aor. ⟪भव्⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भवत्⟫
+    :sig[⟪नी⟫] 1U: Kaus. ⟪नाययति⟫, suku kata akar dari Aor. ⟪नय्⟫, Aor. ⟪अ⟫**:sig[⟪नी⟫]**⟪नयत्⟫  
+    :sig[⟪कृ⟫] 8U: Kaus. ⟪कारयति⟫, suku kata akar dari Aor. ⟪कर्⟫, Aor. ⟪अ⟫**:sig[⟪ची⟫]**⟪करत्⟫  
+    ⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, suku kata akar dari Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫**:sig[⟪ति⟫]**⟪त्यजत्⟫  
+    ⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, suku kata akar dari Aor. ⟪भव्⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भवत्⟫
 
 Particularities of certain roots in Kielhorn, Grammar § 435c ff.
 
@@ -172,14 +172,14 @@ Examples:
 ![](/images/lekt5602.webp)
 Fig.: ⟪क्लैब्यं⟫ ⟪मा⟫ ⟪स्म⟫ ⟪गमः⟫
 Poster (Ernesto Che Guevara) dari sebuah partai politik di Vallachira (വാല്ലചിര), Thrissur (തൃശ്ശൂര്⟪‍⟫). "Terjemahan kasar dari apa yang tertulis di atasnya adalah: Martir adalah pengalaman yang menarik bagi seorang revolusioner. Dan pilihan terakhir yang menakutkan bagi pengecut. Che bukan teladan bagi orang-orang pengecut."
-(Sumber gambar: [Details](/en/licenses#lekt5602))
+(Sumber gambar: [Detail](/en/licenses#lekt5602))
 :::
 Kedua contoh memiliki makna prohibisi. Oleh karena itu, Aorist Injunktif di sini digunakan dalam maknanya yang asli. (Dominasi Aorist Injunktif dalam kalimat-kalimat seperti itu mungkin dapat dijelaskan oleh dominasi kalimat larangan atas kalimat penghentian, namun pertanyaan ini masih perlu diselidiki lebih lanjut untuk Sanskrit Klasik.)
 
 ::: grammar-box
 **Other Forms of Prohibitive Sentences:**
 
-*   **⟪मा⟫ + (⟪स्म⟫) + Imperative (rare)  **
+*   **⟪मा⟫ + (⟪स्म⟫) + Imperatife (rare)  **
 **e.g.  ⟪मा⟫ ⟪ते⟫ ⟪सङ्गो⟫ ⟪ऽस्त्वकर्मणि⟫**
 
 *   ⟪अलम्⟫ or ⟪कृतम्⟫  = Instrumental in the inhibitive sentence  
@@ -196,7 +196,7 @@ Speyer, Jacob S. (Jacob Samuel) \&lt;1849-1913\&gt;: Sanskrit syntax. -- Leyden 
 ::: media
 ![](/images/lekt5603.webp)
 Fig.: ⟪अलं⟫  ⟪विषादेन⟫
-(Image source: [Details](/en/licenses#lekt5603))
+(Image source: [Detail](/en/licenses#lekt5603))
 :::
 ## 56.4. ⟪स्म⟫
 
@@ -207,7 +207,7 @@ Fig.: ⟪अलं⟫  ⟪विषादेन⟫
 
 :::
 ::: indent
-⟪स्म⟫ + Indikativ Präsens digunakan untuk menceritakan masa lalu, terutama untuk menunjukkan durasi di masa lalu:
+⟪स्म⟫ + Indikativ Present digunakan untuk menceritakan masa lalu, terutama untuk menunjukkan durasi di masa lalu:
 
 e.g. ⟪वसति⟫ ⟪स्म⟫ "there lived once" (⟪स्म⟫ may sometimes also be absent).
 :::

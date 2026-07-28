@@ -52,7 +52,7 @@ Jotkut verbit käytetään joko vain Parasmaipadassa tai vain Ātmanepadassa. N�
    3. **Imperatiivi**: Käskyimuoto
 5. **Aika** (Tempus):
    1. **Preesens**: Nykyhetki
-   2. **Imperfekti**
+   2. **Imperfektiii**
    3. **Perfekti**
    4. **Aoristi**
    5. **Futuuri**: Tulevaisuus

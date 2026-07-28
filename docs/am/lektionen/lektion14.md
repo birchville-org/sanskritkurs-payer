@@ -1,9 +1,9 @@
 ---
-title: ትምህርት 14
-subtitle: "በስሞች የተገለጹ ነገሮች ግንኙነት መግለጫ፡ የባለቤትነት መራሕ (ṣaṣṭhī f. = ⟪षष्टी⟫ = ስድስተኛው መራሕ)"
+title: Lektion 14
+subtitle: "Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)"
 lesson_id: 14
 last_reconstructed: 2026-05-21
-category: "ሰዋስው"
+category: "Grammatik"
 status: stable
 ---
 
@@ -37,7 +37,7 @@ status: stable
 በPāṇini 2.3.67 መሠረት፣ ከPPP ጋር ጌኔቲቭ ጥቅም ላይ የሚውለው PPP የአሁን ጊዜ ትርጉም ሲኖረው ነው (ከላይ ይመልከቱ)፣ ኢንስትሩሜንታል ደግሞ PPP ያለፈ ጊዜ ትርጉም ሲኖረው ነው፦
 
 > ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "በራማ የተፈለገው ፍሬ = ራማ በአሁኑ ጊዜ የሚፈልገው ፍሬ"
->
+> 
 > ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "ራማ የፈለገው ፍሬ"
 
 በእርግጥ፣ እንደ ግሳዊ ረቂቅ ስም - ማለትም እንደ ስም - ጥቅም ላይ በሚውል ነጠላ ገለልተኛ ጾታ PPP ላይ፣ የባለቤትነት መደብ ጥቅም ላይ ይውላል።
@@ -105,8 +105,8 @@ status: stable
 | **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
 | **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
 | **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(ማለትም፣ እንደ kavi ወይም እንደ devī) |
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(ማለትም፣ እንደ paśu ወይም በ -ū እንደሚጨርሱ ባለብዙ-ክፍለ-ቃል አንስታይ ቃላት) |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
 **የጥያቄ ተውላጠ ስሞች እና አመልካች ተውላጠ ስሞች፡**
@@ -162,11 +162,11 @@ status: stable
 * **loka m.** (⟪लोक⟫) : ዓለም፤ በነጠላና በብዙ ቁጥር፡ ሕዝቡ፣ ሰዎች፣ ሕዝብ
 * **jala n.** (⟪जल⟫) : ውሃ
 * **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : መወለድ፣ መፈጠር፣ መከሰት
-* **jan-a m.** (⟪जन⟫) : ፍጡር፣ ሰው፣ ሰዎች
+  * **jan-a m.** (⟪जन⟫) : ፍጡር፣ ሰው፣ ሰዎች
 * **vac 2 P** (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : ማለት፣ መናገር ለ (dvitīyā) (3ኛ ብዙ ቁጥር የለውም!)
-* **uk-ti f.** (⟪उक्ति⟫) : አባባል፣ ቃል
-* **vac-ana n.** (⟪वचन⟫) : መናገር፣ ቃል
-* **vāk-ya n.** (⟪वाक्य⟫) : ቃል፣ ንግግር
+  * **uk-ti f.** (⟪उक्ति⟫) : አባባል፣ ቃል
+  * **vac-ana n.** (⟪वचन⟫) : መናገር፣ ቃል
+  * **vāk-ya n.** (⟪वाक्य⟫) : ቃል፣ ንግግር
 
 ## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = ምሳሌያዊ አነጋገሮች
 

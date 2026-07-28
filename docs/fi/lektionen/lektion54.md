@@ -34,7 +34,7 @@ Esimerkki:
 ![](/images/lekt5402.webp)
 Kuv.: ⟪अयुयुत्सुरर्जुनः⟫
 ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
-(Kuv lähde: [Details](/fi/licenses#lekt5402))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5402))
 :::
 ## 54.3. Metriikka II: eepillinen ⟪त्रिष्टुभ्⟫ ja ⟪जगती⟫
 
@@ -142,11 +142,11 @@ Varsien jakautuminen eri muodostustyypeihin ks. kunkin tyypin kohdalta
 
 **Augment + Root + Sekundärendung**
 :::
-Die Endung der 3. Plural ist -ur. Ātmanepada ist nicht gebräuchlich.
+Die Pääte der 3. monikko ist -ur. Ātmanepada ist nicht gebräuchlich.
 
-Beispiel:
+Esimerkki:
 
-⟪पा⟫ 1. Person Singular "trinken"
+⟪पा⟫ 1. Person yksikkö "trinken"
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -155,7 +155,7 @@ Beispiel:
 | 2. ⟪मध्यमः⟫ | ⟪अपास्⟫ | ⟪अपात⟫ |
 | 3. ⟪प्रथमः⟫ | ⟪अपात्⟫ | ⟪अपुर्⟫:bra-p-ur (Tiefstufe!) |
 :::
-Nur von 12 Wurzeln wird der Wurzel-Aorist gebildet:
+Nur von 12 Juurin wird der Juuri-Aorist gebildet:
 
 1.  ⟪गा⟫ 3 "mennä"
 2.  ⟪घ्रा⟫ 1P "haistaa"

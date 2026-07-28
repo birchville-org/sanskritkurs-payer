@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 47
 
-## 47.1. Der Imperativ (⟪लोट्⟫)
+## 47.1. L'imperativ (⟪लोट्⟫)
 
 ::: grammar-box
 L'imperativ (⟪⟪लोट्⟫⟫) designescha
@@ -61,7 +61,7 @@ Exemples:
 En l'imperativ dal sanscrit classic èn las furmas da las persunas 1. formas da subjuntiv antigas. Il subjuntiv vedic è surtut il modus, ch'exprima in desideri: "Vulein ir!" "Nus vulain ir!"
 
 ::: grammar-box
-L’imperativ vegn format dal stem dal present.
+L'imperativ vegn format dal stem dal present.
 :::
 ## 47.2. Furma dal Imperativ (⟪लोट्⟫) stem da present tematics
 

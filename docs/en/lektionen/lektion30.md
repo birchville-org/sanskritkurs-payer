@@ -69,7 +69,7 @@ Example:
 ::: indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī)
 :::
-## 30.2. Usage of the Optative (⟪लिङ्⟫)
+## 30.2. Usage of the Optativeee (⟪लिङ्⟫)
 
 The optative is used:
 
@@ -121,7 +121,7 @@ The optative (⟪लिङ्⟫), the imperfect (⟪लङ्⟫), the aorist (
 | **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptative: **-ran** |
 
 :::
-## 30.4. Formation of the Optative Present (⟪लिङ्⟫)
+## 30.4. Formation of the Optativeee Present (⟪लिङ्⟫)
 
 ### 30.4.1. Thematic Present Classes
 

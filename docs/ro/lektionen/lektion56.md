@@ -54,22 +54,22 @@ Silba de stemă:
 **Vocala acestei așa-numite silbe de stemă se determină în aorist conform următoarelor reguli:**
 
 *   **\-ā- în fața unui consoană simplă este înlocuită cu -a-:**  
-    ⟪पॄ⟫ 3P: Cauz. ***⟪पार⟫***⟪यति⟫, Aor. ⟪अपि⟫***⟪पर⟫***⟪त्⟫  
-    ⟪द्रु⟫ 1P: Cauz. ***⟪द्राव⟫***⟪यति⟫, Aor. ⟪अदु⟫***⟪द्रव⟫***⟪त्⟫ / ⟪अदि⟫***⟪द्रव⟫***⟪त्⟫  
-    ⟪नी⟫ 1U: Cauz. ***⟪नाय⟫***⟪यति⟫, Aor. ⟪अनी⟫***⟪नय⟫***⟪त्⟫  
-    ⟪ज्ञा⟫ 9U: Cauz. ***⟪ज्ञाप⟫***⟪यति⟫, Aor. ⟪अजि⟫***⟪ज्ञप⟫***⟪त्⟫  
+    ⟪पॄ⟫ 3P: Cauz. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫  
+    ⟪द्रु⟫ 1P: Cauz. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫  
+    :sig[⟪नी⟫] 1U: Cauz. **:sig[⟪नाय⟫]**⟪यति⟫, Aor. ⟪अनी⟫**:sig[⟪नय⟫]**⟪त्⟫  
+    ⟪ज्ञा⟫ 9U: Cauz. **:sig[⟪ज्ञाप⟫]**⟪यति⟫, Aor. ⟪अजि⟫**:sig[⟪ज्ञप⟫]**⟪त्⟫  
 
 *   **\-ī-, -e-, -ai- în fața unei consoane simple este înlocuită cu -i-:**  
-    ⟪चित्⟫ 1P: Cauz. ***⟪चेत⟫***⟪यति⟫, Aor. (Ā) ⟪अची⟫***⟪चित⟫***⟪त⟫  
+    ⟪चित्⟫ 1P: Cauz. **:sig[⟪चेत⟫]**⟪यति⟫, Aor. (Ā) ⟪अची⟫**:sig[⟪चित⟫]**⟪त⟫  
 
 *   **\-u-, -o-, -au- în fața unei consoane simple este înlocuită cu -u-:**  
-    ⟪चुर्⟫ 10U: ***⟪चोर⟫***⟪यति⟫, Aor. ⟪अचू⟫***⟪चुर⟫***⟪त्⟫
+    ⟪चुर्⟫ 10U: **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
 
 **La unele rădăcini, modificările menționate mai sus sunt opționale, respectiv trebuie omise:**
 
 *   **ar, ār, īr, al, care precedă imediat consoana finală a silbei de stemă, substituind pe ṛ, ṝ, ḷ, rămâne opțional neschimbat sau este înlocuit cu ṛ, respectiv ḷ:**  
-    ⟪कॢप्⟫ 1Ā: Cauz. ***⟪कल्प⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कल्प⟫***⟪त्⟫ / ⟪अची⟫***⟪कॢ⟫***⟪पत्⟫  
-    ⟪कृष्⟫ 1P/6U: Cauz. ***⟪कर्ष⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कर्ष⟫***⟪त्⟫ / ⟪अची⟫***⟪कृ⟫***⟪षत्⟫
+    ⟪कॢप्⟫ 1Ā: Cauz. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫  
+    ⟪कृष्⟫ 1P/6U: Cauz. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
 :::
 Vocala silbei de reduplicare:
 
@@ -85,14 +85,14 @@ După ce regulile menționate mai sus au fost aplicate silbei de stemă, trebuie
 **Această vocală de reduplicare este supusă următoarelor modificări:**
 
 *   **i, u este înlocuită cu ī, ū, dacă silba de stemă începe cu o singură consoană și este metric scurtă:**  
-    ⟪भिद्⟫ 7U: Cauz. ⟪भेदयति⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U: Cauz. ⟪तोदयति⟫, Aor. ⟪अ⟫***⟪तू⟫***⟪तुदत्⟫  
+    ⟪भिद्⟫ 7U: Cauz. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫  
+    ⟪तुद्⟫ 6U: Cauz. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫  
 
 *   **a este înlocuită cu ī, dacă silba de stemă este metric scurtă și începe cu o singură consoană. Dacă silba de stemă este metric scurtă și începe cu mai mult de o consoană, vocala a a silbei de reduplicare este înlocuită cu i. Dacă silba de stemă este metric lungă, vocala a se păstrează:**  
-    ⟪नी⟫ 1U: Cauz. ⟪नाययति⟫, Stema de stemă a aoristului ⟪नय्⟫, Aor. ⟪अ⟫***⟪नी⟫***⟪नयत्⟫  
-    ⟪कृ⟫ 8U: Cauz. ⟪कारयति⟫, Stema de stemă a aoristului ⟪कर्⟫, Aor. ⟪अ⟫***⟪ची⟫***⟪करत्⟫  
-    ⟪त्यज्⟫ 1P: Cauz. ⟪त्याजयति⟫, Stema de stemă a aoristului ⟪त्यज्⟫, Aor. ⟪अ⟫***⟪ति⟫***⟪त्यजत्⟫  
-    ⟪भू⟫ 1P: Cauz. ⟪भावयति⟫, Stema de stemă a aoristului ⟪भव्⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भवत्⟫
+    :sig[⟪नी⟫] 1U: Cauz. ⟪नाययति⟫, Stema de stemă a aoristului ⟪नय्⟫, Aor. ⟪अ⟫**:sig[⟪नी⟫]**⟪नयत्⟫  
+    :sig[⟪कृ⟫] 8U: Cauz. ⟪कारयति⟫, Stema de stemă a aoristului ⟪कर्⟫, Aor. ⟪अ⟫**:sig[⟪ची⟫]**⟪करत्⟫  
+    ⟪त्यज्⟫ 1P: Cauz. ⟪त्याजयति⟫, Stema de stemă a aoristului ⟪त्यज्⟫, Aor. ⟪अ⟫**:sig[⟪ति⟫]**⟪त्यजत्⟫  
+    ⟪भू⟫ 1P: Cauz. ⟪भावयति⟫, Stema de stemă a aoristului ⟪भव्⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भवत्⟫
 
 Particularități ale anumitor rădăcini la Kielhorn, Gramatikă § 435c ss.
 

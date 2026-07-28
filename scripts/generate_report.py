@@ -76,30 +76,62 @@ def get_active_process():
 def get_chunk_info(lang):
     if not lang or lang == "?":
         return None
-    # find most recently modified file in target language folder
-    lang_dir = DOCS / lang if lang != "de" else DOCS
-    if not lang_dir.exists():
-        return None
-    files = list(lang_dir.glob("**/*.md"))
-    files = [f for f in files if "qa_viewer" not in f.name and "deleteme" not in f.name]
-    if not files:
-        return None
-    files.sort(key=os.path.getmtime, reverse=True)
-    active_file = files[0]
-    
-    # Estimate chunks
-    try:
-        from lan_translate import chunk_content
-        content = active_file.read_text(encoding="utf-8", errors="ignore")
-        chunks = chunk_content(content)
-        total_chunks = len(chunks) if chunks else 1
-    except Exception:
-        total_chunks = 5
-    
+
+    active_file = None
+    curr_chunk = 1
+    total_chunks = 1
+
+    # Check translation.log for real-time progress of active_file and chunk
+    log_path = ROOT / "translation.log"
+    if log_path.exists():
+        try:
+            lines = log_path.read_text(encoding="utf-8", errors="ignore").splitlines()
+            lang_prefix = f"[{lang}]"
+            
+            # Find the active_file for this specific language
+            for line in reversed(lines[-300:]):
+                if line.startswith(lang_prefix):
+                    m_file = re.search(r'(?:Translating|Outdated|Fallback tags detected in)\s+([a-zA-Z0-9_-]+\.md)', line)
+                    if m_file:
+                        active_file = m_file.group(1)
+                        break
+            
+            # Find chunk section progress
+            for line in reversed(lines[-100:]):
+                m_sec = re.search(r'->\s*(?:section|surgical fallback|Chunk|chunk)\s*(\d+)(?:/(\d+))?', line, re.IGNORECASE)
+                if m_sec:
+                    curr_chunk = int(m_sec.group(1))
+                    if m_sec.group(2):
+                        total_chunks = int(m_sec.group(2))
+                    break
+        except Exception:
+            pass
+
+    # Fallback to filesystem mtime if active_file not parsed from log
+    if not active_file:
+        lang_dir = DOCS / lang if lang != "de" else DOCS
+        if lang_dir.exists():
+            files = list(lang_dir.glob("**/*.md"))
+            files = [f for f in files if "qa_viewer" not in f.name and "deleteme" not in f.name]
+            if files:
+                files.sort(key=os.path.getmtime, reverse=True)
+                active_file = files[0].name
+
+    if active_file and total_chunks == 1:
+        try:
+            matches = list(DOCS.glob(f"**/{active_file}"))
+            if matches:
+                from lan_translate import chunk_content
+                content = matches[0].read_text(encoding="utf-8", errors="ignore")
+                chunks = chunk_content(content)
+                total_chunks = len(chunks) if chunks else 1
+        except Exception:
+            total_chunks = 1
+
     return {
-        "file_name": active_file.name,
-        "rel_path": active_file.relative_to(DOCS),
-        "total_chunks": total_chunks
+        "file_name": active_file or "lektionen / wortliste",
+        "curr_chunk": curr_chunk,
+        "total_chunks": max(total_chunks, curr_chunk)
     }
 
 def generate_report():
@@ -117,8 +149,9 @@ def generate_report():
             continue
         
         all_md = list(p.glob("**/*.md"))
-        files = [f for f in all_md if "qa_viewer" not in f.name and "deleteme" not in f.name]
-        vorhanden = len(files)
+        EXCLUDE_META = {"licenses.md", "AUTHORS_GUIDE.md", "settings.md", "impressum.md", "grammatik.md", "themen.md", "qa_help.md"}
+        files = [f for f in all_md if f.name not in EXCLUDE_META and "qa_viewer" not in f.name and "deleteme" not in f.name]
+        vorhanden = min(TOTAL_MASTER, len(files))
         
         fallbacks = 0
         sauber = 0
@@ -128,14 +161,20 @@ def generate_report():
                 fallbacks += 1
             else:
                 sauber += 1
+        sauber = min(TOTAL_MASTER, sauber)
         
         if code == "de":
             pct = 100.0
-            sauber = 137
-            vorhanden = 137
+            sauber = TOTAL_MASTER
+            vorhanden = TOTAL_MASTER
             fallbacks = 0
         else:
-            pct = min(100.0, round((sauber / TOTAL_MASTER) * 100.0, 1))
+            if fallbacks > 0:
+                pct = round((sauber / TOTAL_MASTER) * 100.0, 1)
+                if pct >= 100.0:
+                    pct = 99.3 # Cap below 100% if fallbacks remain
+            else:
+                pct = min(100.0, round((sauber / TOTAL_MASTER) * 100.0, 1))
             
         rows.append({
             "code": code, "name": name, "emoji": emoji,
@@ -144,12 +183,12 @@ def generate_report():
 
     # Sort rows:
     # 1. 'de' (Master)
-    # 2. 100% finished languages
+    # 2. Strictly 100% finished languages (pct >= 100 and fallbacks == 0)
     # 3. Unfinished languages sorted by pct descending
     de_row = [r for r in rows if r["code"] == "de"]
-    finished_rows = [r for r in rows if r["code"] != "de" and r["pct"] >= 100.0]
-    unfinished_rows = [r for r in rows if r["pct"] < 100.0]
-    unfinished_rows.sort(key=lambda r: r["pct"], reverse=True)
+    finished_rows = [r for r in rows if r["code"] != "de" and r["pct"] >= 100.0 and r["fallbacks"] == 0]
+    unfinished_rows = [r for r in rows if r["code"] != "de" and (r["pct"] < 100.0 or r["fallbacks"] > 0)]
+    unfinished_rows.sort(key=lambda r: (r["pct"], -r["fallbacks"]), reverse=True)
     
     sorted_rows = de_row + finished_rows + unfinished_rows
     
@@ -171,8 +210,10 @@ def generate_report():
             lines.append("Prozess-PID: Nicht aktiv (Wartet auf Start)")
         
         file_str = chunk_info["file_name"] if chunk_info else "lektionen / wortliste"
-        total_c = chunk_info["total_chunks"] if chunk_info else 5
-        lines.append(f"Aktuelle Datei / Chunk-Fortschritt: `{file_str}` (Sektion 1 von {total_c} Chunks – {round(100/total_c, 1)}% dieser Datei) | Gesamt: **{active_row['sauber']}/137 Dateien ({active_row['pct']}%)**")
+        curr_c = chunk_info["curr_chunk"] if chunk_info else 1
+        total_c = chunk_info["total_chunks"] if chunk_info else 1
+        file_pct = round((curr_c / total_c) * 100.0, 1)
+        lines.append(f"Aktuelle Datei / Chunk-Fortschritt: `{file_str}` (Sektion {curr_c}/{total_c} Chunks – {file_pct}% dieser Datei) | Gesamt: **{active_row['sauber']}/137 Dateien ({active_row['pct']}%)**")
         lines.append("Server: 100% KOSTENLOS über den lokalen Server (`nyx.local:8000`).\n")
     
     lines.append("| Locale | Sprache | Vorhanden | Sauber | Fallbacks | Gesamt-Fortschritt | Delta (seit 22:00 CEST) | Status |")
@@ -181,15 +222,21 @@ def generate_report():
     for idx, r in enumerate(sorted_rows):
         if r["code"] == "de":
             status = "Master-Quelle"
-        elif r["pct"] >= 100.0:
+        elif r["pct"] >= 100.0 and r["fallbacks"] == 0:
             status = "✅ 100% Fertig"
+        elif r["fallbacks"] > 0:
+            status = f"🔄 {r['fallbacks']} Fallbacks zu bereinigen"
         elif active_proc and r["code"] == active_proc["lang"]:
             file_str = chunk_info['file_name'] if chunk_info else 'in Bearbeitung'
-            status = f"🎯 Aktiv in Übersetzung ({file_str})"
+            curr_c = chunk_info["curr_chunk"] if chunk_info else 1
+            total_c = chunk_info["total_chunks"] if chunk_info else 1
+            status = f"🎯 Aktiv in Übersetzung ({file_str} – Chunk {curr_c}/{total_c})"
+        elif not active_proc and idx == len(de_row) + len(finished_rows):
+            status = f"⚠️ Lokale Ressourcen erschöpft ({TOTAL_MASTER - r['sauber']} Dateien offen – Wartet auf OpenRouter-Freigabe)"
         elif idx == len(de_row) + len(finished_rows):
             status = "🔄 Nächste Sprache"
         else:
-            status = "🔄 In Warteschlange" if r["sauber"] > 0 or r["fallbacks"] > 0 else "⌛ In Warteschlange"
+            status = "🔄 In Warteschlange" if r["sauber"] > 0 else "⌛ In Warteschlange"
             
         code_str = f"`{r['code']}`"
         lines.append(f"| {code_str} | {r['name']} | {r['vorhanden']}/{TOTAL_MASTER} | {r['sauber']} | {r['fallbacks']} | {r['pct']:.1f}% | 0 | {status} |")

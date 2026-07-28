@@ -1,6 +1,6 @@
 
 export const it = {
-  label: 'IT - Italiano',
+  label: '🇮🇹 IT - Italiano',
   lang: 'it-IT',
   link: '/it/',
   title: 'Corso di Sanscrito',

@@ -11,7 +11,7 @@ status: stable
 
 ## 46.1. ϯⲥⲩⲛⲧⲁⲝⲓⲥ ⲛ̀ⲧⲉ ⲛⲓⲙⲟⲣⲫⲏ ⲛ̀ⲧⲉ ⲛⲓⲣⲏⲙⲉ ⲛ̀ⲧⲉ ⲧⲉⲩⲥⲏⲧ ⲛ̀ⲧⲉ ⲧⲙⲁϩ ⲥⲛⲁⲩ ⲛ̀ⲧⲉ ⲧⲡⲉⲣⲫⲉⲕⲧ
 
-### 46.1.1. Endungen
+### 46.1.1. Endungen <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -347,14 +347,14 @@ davon:
 ⟪विषम⟫ 3: ungleich, uneben, böse <!-- TODO: Fallback translation -->
 
 :::
-⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : ergreifen, packen, fassen <!-- TODO: Fallback translation -->
+⟪ग्रह्⟫ 9U ***:sig[⟪गृ⟫]***⟪ह्णाति⟫ (gṛh-ṇā-ti) : ergreifen, packen, fassen <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Fut. ⟪ग्र⟫***⟪ही⟫***⟪ष्यति⟫  
+Fut. ⟪ग्र⟫***:sig[⟪ही⟫]***⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
 Kaus.⟪ग्राहयति⟫  
-PPP ⟪गृ⟫***⟪ही⟫***⟪त⟫  
+PPP :sig[⟪गृ⟫]***:sig[⟪ही⟫]***⟪त⟫  
 Inf. ⟪ग्रहितुम्⟫  
 Absol. -⟪ग्राह्य⟫
 davon:
@@ -430,8 +430,8 @@ Abb.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Fut. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
-Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***⟪प⟫***⟪यति⟫  
-PPP. ***⟪रूढ⟫***  
+Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***:sig[⟪प⟫]***⟪यति⟫  
+PPP. ***:sig[⟪रूढ⟫]***  
 Inf. ⟪रोढुम्⟫ <!-- TODO: Fallback translation -->
 
 :::
@@ -466,14 +466,14 @@ Abb.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 ⟪भ्रंश⟫ m.: das Entfallen <!-- TODO: Fallback translation -->
 
-⟪श्रम्⟫ 4P ***⟪श्रा⟫***⟪म्यति⟫ : sich abmühen, müde werden <!-- TODO: Fallback translation -->
+⟪श्रम्⟫ 4P ***:sig[⟪श्रा⟫]***⟪म्यति⟫ : sich abmühen, müde werden <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Fut. ⟪श्रमिष्यति⟫  
 Pass. ⟪श्रम्यते⟫  
 Kaus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
-PPP ***⟪श्रान्⟫***⟪त⟫  
+PPP ***:sig[⟪श्रान्⟫]***⟪त⟫  
 Inf. ⟪श्रमितुम्⟫  
 Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
 davon:
@@ -496,7 +496,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫ <!-- TODO: Fallback translation -->
 
 :::
-⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : anhängen, sich heften an (⟪सप्तम्या⟫) <!-- TODO: Fallback translation -->
+⟪सञ्ज्⟫ 1P ***:sig[⟪सज⟫]***⟪ति⟫ : anhängen, sich heften an (⟪सप्तम्या⟫) <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -526,13 +526,13 @@ Inf. ⟪द्रोतुम्⟫
 Absol. -⟪द्रुत्य⟫ <!-- TODO: Fallback translation -->
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : umherirren, umherstreifen <!-- TODO: Fallback translation -->
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***:sig[⟪भ्रा⟫]***⟪म्यति⟫ : umherirren, umherstreifen <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Kaus. ⟪भ्रमयति⟫  
-PPP ***⟪भ्रा⟫***⟪न्त⟫  
+PPP ***:sig[⟪भ्रा⟫]***⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
 davon:
@@ -570,10 +570,10 @@ PPP ⟪परिभूत⟫ 3: besiegt, gedemütigt, erniedrigt <!-- TODO: Fall
 
 ::: indent
 z.B.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : sich niedersetzen <!-- TODO: Fallback translation -->
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***:sig[⟪षी⟫]***⟪दति⟫ : sich niedersetzen <!-- TODO: Fallback translation -->
 
 :::
-⟪भोस्⟫ Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er ***⟪भो⟫***. <!-- TODO: Fallback translation -->
+⟪भोस्⟫ Vokativpartikel: Ausruf der Anrede, z.B.: he, heda, oh, ei, hallo, hi! oft nicht zu übersetzen. Dieser Partikel hat einen Spezialsandhi: vor allen stimmhaften Lauten, lautet er ***:sig[⟪भो⟫]***. <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4611.webp)

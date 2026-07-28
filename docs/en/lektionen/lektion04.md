@@ -1,6 +1,6 @@
 ---
 title: Lektion 4
-subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
+subtitle: "Interrogative and Demonstrative Pronouns in the Nominative"
 lesson_id: 4
 last_reconstructed: 2026-05-07
 category: "Grammatik"

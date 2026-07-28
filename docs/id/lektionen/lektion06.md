@@ -14,7 +14,7 @@ status: stable
 - Struktur kalimat verbal (agen dan bentuk kata kerja)
 - Pembentukan bentuk kata kerja (Parasmaipada, Ātmanepada, Pasif)
 - Modus dan waktu kata kerja
-- Indikatif Präsens (laṭ) dan akhiran primer untuk orang ketiga
+- Indikatif Present (laṭ) dan akhiran primer untuk orang ketiga
 - Pembentukan akar präsens (Kelas 1, 4, dan 6)
 - Perubahan bunyi (Ablaut: Guṇa dan Vṛddhi)
 :::
@@ -51,7 +51,7 @@ Beberapa kata kerja hanya digunakan dalam Parasmaipada atau hanya dalam Ātmanep
    2. **Optatif**: Bentuk keinginan dan kemungkinan
    3. **Imperatif**: Bentuk perintah
 5. **Waktu** (Tempus):
-   1. **Präsens**: Masa kini
+   1. **Present**: Masa kini
    2. **Imperfekt**
    3. **Perfekt**
    4. **Aorist**
@@ -90,9 +90,9 @@ Contoh **yaj** = ⟪यज्⟫ = "memuliakan dengan sebuah persembahan", "berk
   - 3. sg. Ā. **yajate** = ⟪यजते⟫
   - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
-## 6.5. Bildung  Batang Presents
+## 6.5. Pembentukan  Batang Presents
 
-### 6.5.1. Verben  6. Presentklasse (tudādi = ⟪तुदादि⟫ = "tud usw.")
+### 6.5.1. Verben  6. Kelas Present (tudādi = ⟪तुदादि⟫ = "tud usw.")
 
 ::: grammar-box
 **Basis waktu kini = akar dalam bentuk rendah (seperti yang tercantum) + a-**
@@ -102,7 +102,7 @@ Contoh **yaj** = ⟪यज्⟫ = "memuliakan dengan sebuah persembahan", "berk
 | **viś** :br⟪विश्⟫ | **viśa-** :br⟪विश⟫- |
 | **sṛj** :br⟪सृज्⟫ | **sṛja-** :br⟪सृज⟫- |
 :::
-### 6.5.2. Verben  1. Presentklasse (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
+### 6.5.2. Verben  1. Kelas Present (bhvādi / bhūvādi = ⟪भ्वादि⟫ / ⟪भूवादि⟫ = "bhū usw.")
 
 ::: grammar-box
 | Batang Present = Akar in Hochstufe (selten Dehnstufe) + a- ||||
@@ -129,7 +129,7 @@ Sebelum vokal, di dalam kata **e** diganti dengan **ay**, **o** diganti dengan *
 | **ṛ / ṝ** | **ar** | **ār** |
 | **ḷ** | **al** | **āl** |
 :::
-### 6.5.3. Verben  4. Presentklasse (divādi = ⟪दिवादि⟫ = "div usw.")
+### 6.5.3. Verben  4. Kelas Present (divādi = ⟪दिवादि⟫ = "div usw.")
 
 ::: grammar-box
 **Batang Present = Akar dalam tingkat dasar (tempat akar tersebut dicantumkan) + ya-**
@@ -141,7 +141,7 @@ Sebelum vokal, di dalam kata **e** diganti dengan **ay**, **o** diganti dengan *
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
-### 6.5.4. Themavokal, thematische Presentklassen
+### 6.5.4. Themavokal, thematische Kelas Presentn
 
 ::: grammar-box
 **a** pada sufiks pembentukan kata dasar dari kelas waktu sekarang disebut **Vokal Tema**. Kelas waktu sekarang dengan **a** pada sufiks pembentukan kata dasar oleh karena itu disebut "kelas kata kerja waktu sekarang tematik".

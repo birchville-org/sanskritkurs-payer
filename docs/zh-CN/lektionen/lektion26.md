@@ -70,8 +70,8 @@ status: stable
 **简单将来时（⟪ऌत्⟫，⟪भविष्यन्ती⟫阴性）表示：**
 
 - **预期的或有意为之的行为（“我将去”，“我想去”）**
+- **eine beabsichtigte oder gewollte Handlung ("ich werde gehen", "ich will gehen")**
 - **有意图或有意识的行为（“我将要去”，“我想去”）**
-- **预期（“事情将会如此发生”）**
 - **希望**
 - **担忧**
 - **可能性**

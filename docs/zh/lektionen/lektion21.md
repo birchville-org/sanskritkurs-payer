@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 21
 
-## 21.1. Weitere Präsensstämme auf -nt
+## 21.1. Weitere Präsensstämme auf -nt <!-- TODO: Fallback translation -->
 
 ### 21.1.1. 现在分词 (⟪लडादेशः⟫) Parasmaipada
 
@@ -191,7 +191,7 @@ Abb.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 ::: indent
 **⟪जयन्⟫ + ⟪अरिः⟫** » **⟪जयन्नरिः⟫** "der siegende Feind" <!-- TODO: Fallback translation -->
 :::
-## 21.3. Höfliche Formen der Anrede
+## 21.3. Höfliche Formen der Anrede <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Man kann im Sanskrit, ohne unhöflich zu sein, jemanden in der 2. Person Singular ansprechen. Will man aber höflich sein, kann man ein Nomen verwenden, dessen Bedeutung "Ehrwürdiger" und dergleichen ist, und das Verb in die 3. Person sg. oder pl. setzen bzw. eine Passivkonstruktion verwenden. Die Steigerung der Höflichkeit im Gebrauch der Person bei der Anrede ist etwa folgende:** <!-- TODO: Fallback translation -->

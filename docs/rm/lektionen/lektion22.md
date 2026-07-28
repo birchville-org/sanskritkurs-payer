@@ -13,15 +13,15 @@ status: stable
 
 ::: grammar-box
 
-Sch'iglins a exprimer en sanscrit qu'ina acziun dal agent (⟪कर्तृ⟫) precedescha ina autra acziun dal agent u ch'ella è in cundiziun accompagnanta, duvra si l'absolutiv (⟪क्त्वा⟩ ⟪।⟩ ⟪ल्यप्⟩). Uschia
+Sch'ins vul exprimir en sanscrit ch'ina acziun da l'agens (⟪कर्तृ⟫) precedescha ina autra acziun da l'agens u ch'ella l'accompagna sco circumstanza, dovra ins l'absolutiv (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫). Vale da dir:
 
-«nachdem er das getan hat, tut er jenes» ; «er tut das, dann tut er jenes» ; «als Folge von diesem tut er jenes» ; «ich kam, sah und siegte» u. ä.
+«suenter ch'el ha fatg quai, fa el tglat» ; «el fa quai, lura fa el tglat» ; «sco consequenza da quai fa el tglat» ; «jau sun vegniu, jau hai vesì, jau hai meffidì» e.a.
 
-L absolutiv è in avverb verbal, idest el è ni conjugabel ni declinabel, ma el ha adina – cun paucs excepziuns – il medem agent (⟪कर्तृ⟫) sco l'acziun, a la quala l'acziun designada tras l'absolutiv precedescha u l'accompagnescha. L'agent da l'absolutiv stat uschia en nominativ (⟪प्रथमा⟫) u instrumental (⟪तृतीया⟫).
+L'absolutiv è in adverb verbal, quai vul dir ch'el n'è ni conjugabel ni declinabel, ma el ha adina – cun paucas excepziuns – il medem agens (⟪कर्तृ⟫) sco l'acziun a la quala l'acziun designada tras l'absolutiv precedescha u l'accompagna. L'agens da l'absolutiv stat uschia en nominativ (⟪प्रथमा⟫) u instrumental (⟪तृतीया⟫).
 
-Naven ils cumposts è l'absolutiv in dals pleds d'expressiun pli frequents en il sanscrit.
+Naven dals cumposits è l'absolutiv in dals medieds d'expressiun ils pli frequents en sanscrit.
 
-In la tradiziun en tudestg evitesai da dir constantamain «suenter». Adina pusaivai cun las formulaziuns usitadas en la lingua tudestga per la successiun temporala.
+Tar la translaziun en rumantsch evites'ins da dir adina «suenter». Ins dovria empè da quai las furmas d'expressiun usitadas en rumantsch per la successiun temporala.
 
 **Schema:**
 
@@ -36,110 +36,110 @@ In la tradiziun en tudestg evitesai da dir constantamain «suenter». Adina pusa
 
 Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
 :::
-## 22.2. Furma dal nominativ
+## 22.2. Furmaziun dal absolutiv
 
 ::: grammar-box
-**Furmaziun dal nominativ**
+**Furmaziun dal absolutiv**
 
-*   Verbs senza prefix: Absolutiv en **-tvā**
-*   Verbs cun prefix: Absolutiv en **-ya** u **-tya**
+*   Verbs senza preverb: Absolutiv sin **-tvā**
+*   Verbs cun preverb: Absolutiv sin **-ya** bzw. **-tya**
 :::
-### 22.2.1. Verbs senza prefix: Absolutiv en -⟪त्वा⟫
+### 22.2.1. Verbs senza preverb: Absolutiv sin -⟪त्वा⟫
 
 ::: grammar-box
 
-**Educaziun:**
+**Furmaziun:**
 
-(meist) tiefstufige Radis in der Gestalt, die sie vor dem PPP hat + **-tvā** (**-⟪त्वा⟫**)
+(la plipart) tschancun da radis a bass stadi en la furma ch'ella ha avant il PPP + **-tvā** (**-⟪त्वा⟫**)
 
-Sulei la negaziun **a-** / **an-** tolerescha cun il suffix **-⟪त्वा⟫** : **⟪अकृत्वा⟫** "senza avair fatg"
+Verschieid cul **a-** / **an-** se gargia cun il suffiss **-⟪त्वा⟫** : ⟪अकृत्वा⟫ "senza avair fatg"
 
 :::
 **Esempis:**
 
 ::: indent
-**⟪आप्त्वा⟫** "su ch'el / chella / el / ella / jau / ti / nus / vus / els / ellas / nus dus / vus dus / els / ellas ha / haiv / han / avevan"
+⟪आप्त्वा⟫ "suenter ch'el / ella / el / jau / ti / nus / vus / els ha / avaian attingì"
 
-**⟪आसित्वा⟫** "dapi ch'el (...) sedeva / è stà"
+⟪आसित्वा⟫ "suenter ch'el (...) era sesedat / è sesedat"
 
-**⟪इत्वा⟫** "su ch'el (...) è ì / è stà"
+⟪इत्वा⟫ "suenter ch'el (...) era ì / è ì"
 
-**⟪स्थित्वा⟫** "dapi che (...) el ha confessà / è"
+⟪स्थित्वा⟫ "suenter ch'el (...) era stat / è stat"
 
-**⟪जित्वा⟫** "su ch'ei (...) gudagnà / aveva gudagnà"
+⟪जित्वा⟫ "suenter ch'el (...) ha / aveva victorisà"
 
-**⟪उक्त्वा⟫** "su ch'ei (...) ditgì / aveva ditgì"
+⟪उक्त्वा⟫ "suenter ch'el (...) ha / aveva tschatschà"
 :::
-### 22.2.2. Verbs cun preposiziun
+### 22.2.2. Verbs cun preverb
 
-#### 22.2.2.1. Radices cun vocal lung (except -ā) u cun consonant
+#### 22.2.2.1. Radischs sin vocal lung (ora marvegl -ā) u sin consonant
 
 ::: grammar-box
 
-**(per la mai part) radis da basiss + -ya**
+**(la plipart) radis a bass stadi + -ya**
 
 :::
 **Esempis:**
 
 ::: indent
-**⟪उपनीय⟫** "su chel che (...) ha purtàt / aveva purtàt"
+⟪उपनीय⟫ "suenter ch'el (...) ha manà tiers"
 
-**⟪प्रभूय⟫** «post che (...) è sorto / era» «post che (...) aveva potere»
+⟪प्रभूय⟫ "suenter ch'el (...) è stà sutsert" "suenter ch mein ha giu la pussanza"
 
-**⟪प्राप्य⟫** "nachdem er (...) erlangt hat / hatte"
+⟪प्राप्य⟫ "suenter ch'el (...) ha retschet / aveva retschet"
 :::
-#### 22.2.2.2. Radisn auf -ā
+#### 22.2.2.2. Radischs sin -ā
 
 ::: grammar-box
 
-**radix Sanscrita summa immutata + -ya**
+**radis a halt stadi nuncambiada + -ya**
 
 :::
-**Esempel:**
+**Esempi:**
 
 ::: indent
-**⟪उपस्थाय⟫** "suenter ch'ei (...) èn stgàllà / èn" ; (ma senza prefix: **⟪स्थित्वा⟫**)
+⟪उपस्थाय⟫ "suenter ch'el (...) era tiers passeggià" ; (ma senza preverb: ⟪स्थित्वा⟫)
 :::
-#### 22.2.2.3. Radichas, che en il stadi profund finischan cun -i, -u, -ṛ curt
+#### 22.2.2.3. Radischs che fineschan en il stadi bass sin -i, -u, -ṛ curz
 
 ::: grammar-box
 
-**radhèla radis + -tya**
+**radis a bass stadi + -tya**
 
 :::
 **Esempis:**
 
 ::: indent
-**⟪प्रस्तुत्य⟫** "su chel ha laudà u ha laudà"
+⟪प्रस्तुत्य⟫ "suenter ch'el (...) ha laudà aut"
 
-**⟪विस्मृत्य⟫** "su ch'el (...) ha dimentgì / aveva dimentgì"
+⟪विस्मृत्य⟫ "suenter ch'el (...) ha ublià"
 
-**⟪संस्कृत्य⟫** "nachdem er (...) fürs Opfer zubereitet hat / hatte"
+⟪संस्कृत्य⟫ "suenter ch'el (...) ha preparà per la sacrificial"
 :::
-#### 22.2.2.4. Radisn auf -am / -an, die in der Tiefstufe auf -a auslauten
+#### 22.2.2.4. Radischs sin -am / -an, che fineschan en il stadi bass sin -a
 
 ::: grammar-box
 
-**Opziunalmain:**
+**Opziunal:**
 
-Radix en **-am** / **-an** + **-ya**
+Radis sin **-am** / **-an** + **-ya**
 
-oppur:
+u:
 
-oppur:
+Radis sin **-a** + **-tya**
 
 :::
-**Esempel:**
+**Esempi:**
 
 ::: indent
-**⟪विगम्य⟫** u **⟪विगत्य⟫** "su che (...) è passat / è stà"
+⟪विगम्य⟫ u ⟪विगत्य⟫ "suenter ch'el (...) è passà / era passà"
 :::
-## 22.3. Lista da parolas
+## 22.3. Glieud da pleds
 
-**⟪काम⟫ m.:** desideri, brama; don desiderà, piacer sensual, amor, diu d'amur
+**⟪काम⟫ m.:** giavisch, desideri; don giavischà, voluntad, dieu d'amur
 
 ::: indent
-**⟪कामम्⟫** Akk. adverbial: suenter il gudogn, suenter il cor
+⟪कामम्⟫ Acc. adverbial: tenor giavisch, tenor voluntad
 :::
 ::: media
 ![](/images/lekt2202.webp)
@@ -162,7 +162,7 @@ Fig.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
 (fontana da l'imagia: [detagls](/rm/licenses#lekt2203))
 :::
-**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** gudagnar (esser degner da quai), avair il dretg, esser obligà a, duvrar (en la 2. persuna vegn **⟪अर्ह्⟫** + infinitiv adina puspè adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina
+**⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** meritar (esser degn da), dar il dretg, esser obligà a, stuair (en la 2. persuna vegn **⟪अर्ह्⟫** + infinitiv savens dovrad sco cumand moderat: "ti duessas")
 
 ::: indent
 **⟪अर्हन्त्⟫ 3** Part. Präs. P: in degno. En Buddhismus e Jainismus: in chavaglia che ha cuntanschì la liberaziun definitiva

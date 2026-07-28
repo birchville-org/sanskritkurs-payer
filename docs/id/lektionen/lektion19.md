@@ -90,7 +90,7 @@ Catatan: Dalam klausa relatif yang berlaku umum, optatif sering digunakan sebaga
 ![](/images/lekt1809.webp)
 Fig.: ⟪कामः⟫
 Illustration for ⟪कामसूत्र⟫
-(Image source: [Details](/en/licenses#lekt1809))
+(Image source: [Detail](/en/licenses#lekt1809))
 :::
 **⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** berdiri, tinggal, bertahan, berada. (Secara tradisional dihitung di antara kelas konjugasi ke-1, meskipun ini adalah kelas present tematik reduplikatif, seperti ⟪पा⟫ 1 ⟪पिबति⟫)
 
@@ -116,7 +116,7 @@ from **⟪स्था⟫** :
 ![](/images/lekt1901.webp)
 Fig.: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
-(Sumber gambar: [Details](/en/licenses#lekt1901))
+(Sumber gambar: [Detail](/en/licenses#lekt1901))
 :::
 **⟪वारिद⟫ m.:** pemercik air = awan hujan
 
@@ -124,7 +124,7 @@ Badami (ಬದಾಮಿ)
 ![](/images/lekt1902.jpg)
 Fig.: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
-(Image source: [Details](/en/licenses#lekt1902))
+(Image source: [Detail](/en/licenses#lekt1902))
 :::
 **⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** blow
 
@@ -141,7 +141,7 @@ from this:
 ![](/images/lekt1904.webp)
 Fig.: ⟪छत्त्रम्⟫
 "_Onappottan_ (ഓണപ്പൊട്ടന്⟪‍⟫), dalam pakaian tradisional, adalah kebiasaan di bagian selatan Kerala. _Onappottan_ mengunjungi rumah-rumah selama festival _onam_ dan memberikan berkah. Baru-baru ini, _onappottan_ telah menjadi pemandangan langka, terbatas di desa-desa."
-(Sumber gambar: [Details](/en/licenses#lekt1904))
+(Sumber gambar: [Detail](/en/licenses#lekt1904))
 :::
 **⟪पण्डित⟫ m.:** sarjana, resi ; 3: cerdik, terampil (dalam)
 
@@ -149,7 +149,7 @@ Fig.: ⟪छत्त्रम्⟫
 ![](/images/lekt1903.jpg)
 Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
 ⟪१९५९⟫
-(Image source: [Details](/en/licenses#lekt1903))
+(Image source: [Detail](/en/licenses#lekt1903))
 :::
 **⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** reside with, inhabit (Acc., Loc.) ; visit, go to (Acc.) ; serve, tend, worship ; practice, use ; attend, have sexual intercourse
 

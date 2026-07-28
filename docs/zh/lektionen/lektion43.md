@@ -21,14 +21,14 @@ status: stable
 :::
 Beachten Sie, dass die Sekundärendung der 2.pl.P. identisch ist mit der Sekundärendung der 3.sg.Ā. <!-- TODO: Fallback translation -->
 
-## 43.2. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫)
+## 43.2. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) <!-- TODO: Fallback translation -->
 
 2.Person: <!-- TODO: Fallback translation -->
 
 *   Singular: "du" <!-- TODO: Fallback translation -->
 *   Plural: "ihr" (mehr als zwei!) <!-- TODO: Fallback translation -->
 
-### 43.2.1. Thematische Stämme
+### 43.2.1. Thematische Stämme <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4301.jpg)

@@ -26,9 +26,9 @@ status: stable
 
 ⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫
 :::
-## 48.2. Formation of the Imperative (⟪लोट्⟫) athematic present stems
+## 48.2. Formation of the Imperativeeee (⟪लोट्⟫) athematic present stems
 
-### 48.2.1. Endings of the Imperative on athematic present stems
+### 48.2.1. Endings of the Imperativeeee on athematic present stems
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -53,8 +53,8 @@ Note: ¹ The endings of the 2nd and 3rd sg.P can be replaced by -tāt if a bless
 ::: grammar-box
 **Strong stem:**
 
-*   **all 1st persons of the Imperative**
-*   **3.sg.P Imperative**
+*   **all 1st persons of the Imperativeeee**
+*   **3.sg.P Imperativeeee**
 
 **Weak stem: all other forms**
 :::
@@ -108,7 +108,7 @@ Note: ¹ The endings of the 2nd and 3rd sg.P can be replaced by -tāt if a bless
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
 | **2. Person** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | *⟪शेरताम्⟫* |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | *:sig[⟪शेरताम्⟫]* |
 :::
 ⟪हन्⟫ 2P
 
@@ -394,7 +394,7 @@ B) Translate into Sanskrit (use the imperative and preferably roots of the 2nd a
 ⟪काले⟫ ⟪ऽदाता⟫ ⟪पिता⟫ ⟪वाच्यो⟫ ⟪वाच्यश्चानुपनयन्पतिः⟫ ⟪।⟫  
 ⟪मृते⟫ ⟪भर्तर⟫i ⟪पुत्रस्तु⟫ ⟪वाच्यो⟫ ⟪मातुररक्षिता⟫ ⟪॥४॥⟫  
 ⟪सूक्ष्मेभ्यो⟫ ⟪ऽपि⟫ ⟪प्रसङ्गेभ्यः⟫ ⟪स्त्रियो⟫ ⟪रक्ष्या⟫ ⟪विशेषतः⟫ ⟪।⟫  
-***⟪द्वयोर्हि⟫ ⟪कुलयोः⟫*** ⟪शोकमावहेयुररक्षिताः⟫ ⟪॥५॥⟫  
+***:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫]*** ⟪शोकमावहेयुररक्षिताः⟫ ⟪॥५॥⟫  
 ⟪इमं⟫ ⟪हि⟫ ⟪सर्ववर्णानां⟫ ⟪पश्यन्तो⟫ ⟪धर्ममुत्तमम्⟫ ⟪।⟫  
 ⟪यतन्ते⟫ ⟪रक्षितुं⟫ ⟪भार्यां⟫ ⟪भर्तारो⟫ ⟪दुर्बला⟫ ⟪अपि⟫ ⟪॥६॥⟫  
 ⟪स्वां⟫ ⟪प्रसूतिं⟫ ⟪चरित्रं⟫ ⟪च⟫ ⟪कुलमात्मानमेव⟫ ⟪च⟫ ⟪।⟫  
@@ -403,7 +403,7 @@ B) Translate into Sanskrit (use the imperative and preferably roots of the 2nd a
 ⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫
 :::
 Explanation:  
-⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Dual to ⟪द्वे⟫ ⟪कुले⟫ "two families"
+:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Dual to ⟪द्वे⟫ ⟪कुले⟫ "two families"
 
 ::: deleteme-box
 

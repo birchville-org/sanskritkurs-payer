@@ -86,7 +86,7 @@ darinya:
 ![](/images/lekt3101.webp)
 Fig.: ⟪योगः⟫
 Penggambaran Yoga.
-(Sumber gambar: [Details](/en/licenses#lekt3101))
+(Sumber gambar: [Detail](/en/licenses#lekt3101))
 :::
 **⟪रुध्⟫** 7U **⟪रुणद्धि⟫** : menghentikan, membawa ke keadaan diam, menahan = mengelilingi, menutup
 ::: indent
@@ -129,7 +129,7 @@ daripadanya:
 ![](/images/lekt3102.webp)
 Fig.: ⟪व्यञ्जनम्⟫
 Persiapan untuk tarian Kathakali, Kochi.
-(Sumber gambar: [Details](/en/licenses#lekt3102))
+(Sumber gambar: [Detail](/en/licenses#lekt3102))
 :::
 **⟪भिद्⟫** 7U **⟪भिनत्ति⟫** : membelah
 ::: indent
@@ -170,7 +170,7 @@ dari sana:
 ![](/images/lekt3103.webp)
 Fig.: ⟪प्रज्ञापारमिता⟫
 From a Prajñāpāramitā manuscript.
-(Sumber gambar: [Details](/en/licenses#lekt3103))
+(Sumber gambar: [Detail](/en/licenses#lekt3103))
 :::
 **⟪भू⟫ + ⟪सम्⟫** 1P **⟪सम्भवति⟫** : untuk muncul, untuk ada
 
@@ -188,7 +188,7 @@ From a Prajñāpāramitā manuscript.
 ![](/images/lekt3105.jpg)
 Fig.: ⟪शस्त्राणि⟫ ⟪शरीरमेव⟫ ⟪छिन्दन्ति⟫ ⟪जीवस्तु⟫ ⟪न⟫ ⟪म्रियत⟫ ⟪इति⟫ ⟪भगवद्गीतायां⟫ ⟪भगवतोच्यते⟫
 Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War.
-(Image source: [Details](/en/licenses#lekt3105))
+(Image source: [Detail](/en/licenses#lekt3105))
 :::
 ⟪बुद्ध्या⟫ ⟪युक्तो⟫ ⟪दुःखान्मुच्यते⟫ ⟪तस्मान्मोक्षमिच्छन्नरो⟫ ⟪योगेन⟫ ⟪युञ्जीत⟫ ⟪॥३॥⟫
 
@@ -198,7 +198,7 @@ Tanks of 18th Cavalry (Indian Army) on the move during the 1965 Indo-Pak War.
 ![](/images/lekt3104.webp)
 Fig.: ⟪राहुलो⟫ ⟪जातो⟫ ⟪बन्धनं⟫ ⟪जातम्⟫
 Rāhula, the son of the Buddha, Laos.
-(Sumber gambar: [Details](/en/licenses#lekt3104))
+(Sumber gambar: [Detail](/en/licenses#lekt3104))
 :::
 ⟪समोहः⟫ ⟪स्वन्नानि⟫ ⟪च⟫ ⟪सुरूपाश्च⟫ ⟪भुङ्क्ते⟫ ⟪वीतमोहस्त्वन्नं⟫ ⟪च⟫ ⟪सम्पन्नरूपशरीरां⟫ ⟪च⟫ ⟪न⟫ ⟪लुभ्यति⟫ ⟪।⟫ ⟪स⟫ ⟪हि⟫ ⟪लोभं⟫ ⟪च⟫ ⟪क्रोधं⟫ ⟪च⟫ ⟪रुणद्धि⟫ ⟪प्रज्ञायां⟫ ⟪च⟫ ⟪युङ्क्ते⟫ ⟪॥५॥⟫
 

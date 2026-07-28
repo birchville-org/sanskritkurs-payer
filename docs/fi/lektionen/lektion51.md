@@ -44,7 +44,7 @@ a) ⟪कृत्⟫-liite \-Ø
 ![](/images/lekt5101.webp)
 Kuv.: ⟪भूमिभुज्⟫
 ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008)
-(Kuv lähde: [Details](/fi/licenses#lekt5101))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5101))
 :::
 b) ⟪कृत्⟫-liite -t
 
@@ -69,7 +69,7 @@ b) ⟪कृत्⟫-liite -t
 ![](/images/lekt5103.webp)
 Kuv.: ⟪पापकृत्⟫
 ⟪भरतपुर⟫, ⟪राजस्थान⟫
-(Kuv lähde: [Details](/fi/licenses#lekt5103))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5103))
 :::
 c) ⟪कृत्⟫-liite -a
 
@@ -142,13 +142,13 @@ Lokatiivi ⟪शत्रुजित्सु⟫
 Neutri
 
 ::: indent
-Yksikkö Nominatiivi.Akkusatiivi.Vokativi. ⟪शत्रुजित्⟫
-Monikko Nominatiivi.Akkusatiivi.Vokativi. :sig[⟪शत्रुजिन्ति⟫]
+Yksikkö Nominatiivi.Akkusatiivi.vokatiivii. ⟪शत्रुजित्⟫
+Monikko Nominatiivi.Akkusatiivi.vokatiivii. :sig[⟪शत्रुजिन्ति⟫]
 :::
 ⟪सुयुध्⟫ 3 "hyvä taisteleva"
 
 ::: indent
-Yksikkö.Nominatiivi.Vokativi.m.f.n. ⟪सुयुत्⟫
+Yksikkö.Nominatiivi.vokatiivii.m.f.n. ⟪सुयुत्⟫
 jne.
 :::
 Täydelliset paradigmat Kielhorn, Grammatik s. 16ff.
@@ -199,8 +199,8 @@ Lok. ⟪सत्यवाक्षु⟫
 Neutri
 
 ::: indent
-Yksikkö Nominatiivi/Akkusatiivi/Vokativi ⟪सत्यवाक्⟫
-Monikko Nominatiivi/Akkusatiivi/Vokativi ⟪सत्यवाञ्चि⟫
+Yksikkö Nominatiivi/Akkusatiivi/vokatiivii ⟪सत्यवाक्⟫
+Monikko Nominatiivi/Akkusatiivi/vokatiivii ⟪सत्यवाञ्चि⟫
 :::
 ⟪शेषभुज्⟫ 3 "Syödessään ruokajätteitä"
 
@@ -225,7 +225,7 @@ Lokatiivi ⟪शेषभुक्षु⟫
 Neutri
 
 ::: indent
-Singulari nominatiivi, akkusatiivi, vokatiivi ⟪शेषभुक्⟫
+yksikköi nominatiivi, akkusatiivi, vokatiivi ⟪शेषभुक्⟫
 Pluraali nominatiivi, akkusatiivi, vokatiivi ⟪शेषभुञ्जि⟫
 :::
 ⟪परिव्राज्⟫ mask. "vaellusmunkki"
@@ -252,7 +252,7 @@ Lokatiivi ⟪परिव्राट्सु⟫
 ![](/images/lekt5104.webp)
 Kuv.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
-(Kuv lähde: [Details](/fi/licenses#lekt5104))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5104))
 :::
 ### 51.2.3. Vartalon -h päättävät sanatyypit
 
@@ -277,7 +277,7 @@ Esimerkit:
 
 :::
 ::: indent
-Singulari:
+yksikköi:
 
 :::
 ::: indent
@@ -348,7 +348,7 @@ esim. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 ::: media
 ![](/images/lekt5105.webp)
 Kuv.:
-(Kuvan lähde: [Details](/fi/licenses#lekt5105))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt5105))
 :::
 ⟪अतिथि⟫ m.: vieras
 
@@ -366,7 +366,7 @@ Koska ovulaatio tapahtuu 14 päivää ennen kuukautisten alkua, hedelmällisyys 
 ::: media
 ![](/images/lekt5106.jpg)
 Kuv.: ⟪ऋतुः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt5106))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt5106))
 :::
 ⟪एकत्र⟫ Adv.: yhdessä paikassa
 
@@ -376,7 +376,7 @@ Kuv.: ⟪ऋतुः⟫
 ![](/images/lekt5107.webp)
 Kuva: ⟪जटा⟫
 ⟪ऋषिकेश⟫
-(Kuv lähde: [Details](/fi/licenses#lekt5107))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5107))
 :::
 ⟪तुल्य⟫ 3: yhtäläinen, verrattavissa (⟪तृतीयया⟫)
 
@@ -447,7 +447,7 @@ City Palace, ⟪उदयपुर⟫
 ![](/images/lekt5110.webp)
 Kuva: ⟪मृगया⟫
 Metsästys eläimellä ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
-(Kuv lähde: [Details](/fi/licenses#lekt5110))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5110))
 :::
 ⟪शिवा⟫ f.: (naispuolinen) šaakka (kultashaakka = _Canis aureus_)
 
@@ -455,7 +455,7 @@ Metsästys eläimellä ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat
 ![](/images/lekt5111.webp)
 Kuva: ⟪शिवा⟫
 _Canis aureus_, Kalatop Khajjiar Sanctuary
-(Kuv lähde: [Details](/fi/licenses#lekt5111))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5111))
 :::
 ⟪रुत⟫ n.: huuto, ääni
 
@@ -465,7 +465,7 @@ _Canis aureus_, Kalatop Khajjiar Sanctuary
 ![](/images/lekt5112.webp)
 Kuva: ⟪कौशिकः⟫
 Braamakauz (_Athene brama_), Mahesana = મહેસાણા
-(Kuv lähde: [Details](/fi/licenses#lekt5112))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5112))
 :::
 ⟪शकुनि⟫ m.: lintu
 
@@ -480,7 +480,7 @@ heikko vartalo konsonantin edellä ⟪श्व⟫
 ![](/images/lekt5113.jpg)
 Kuva: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Kuv lähde: [Details](/fi/licenses#lekt5113))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5113))
 :::
 ⟪परिचित⟫ 3: tuttu, tunnettu
 
@@ -513,7 +513,7 @@ PPP ⟪दिग्ध⟫
 ![](/images/lekt5115.webp)
 Kuv.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Kuv lähde: [Details](/fi/licenses#lekt5115))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5115))
 :::
 ⟪भुजंग⟫ m.: käärme
 
@@ -521,7 +521,7 @@ Bangalore = ಬೆಂಗಳೂರು
 ![](/images/lekt5116.webp)
 Kuv.: ⟪भुजंगः⟫
 Ketomyrkkykäärme (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
-(Kuv lähde: [Details](/fi/licenses#lekt5116))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5116))
 :::
 ⟪सायक⟫ m.: nuoli
 
@@ -547,7 +547,7 @@ Ketomyrkkykäärme (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 ![](/images/lekt5118.webp)
 Kuva: ⟪मणिः⟫
 Hope Diamond Gunturista = గుంటూరు, nykyään Smithsonian Museum of Natural History, Washington DC
-(Kuv lähde: [Details](/fi/licenses#lekt5118))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5118))
 :::
 ⟪वन⟫ n.: metsä
 
@@ -556,7 +556,7 @@ Hope Diamond Gunturista = గుంటూరు, nykyään Smithsonian Museum of
 ::: media
 ![](/images/lekt5117.webp)
 Kuva: ⟪मदः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt5117))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5117))
 :::
 ⟪राग⟫ m.: myös: väri, punainen väri
 
@@ -584,7 +584,7 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 ⟪वानप्रस्थस्य⟫ ⟪ब्रह्मचर्यं⟫ ⟪भूमौ⟫ ⟪शय्या⟫ ⟪जाटाजिनधारणमग्निहोत्राभिषे⟫:sig[⟪कौ⟫] ⟪देवतापित्रतिथिपूजा⟫ ⟪वन्यश्चाहारः⟫ ⟪।११।⟫  
 ⟪प्रव्राजकस्य⟫ ⟪जितेन्द्रियत्वमनारम्भो⟫ ⟪निष्किंचनत्वं⟫ ⟪सङ्गत्यागो⟫ ⟪भैक्षाव्रतमनेकत्रारण्ये⟫ ⟪च⟫ ⟪वासो⟫ ⟪बाह्याभ्यन्तरं⟫ ⟪च⟫ ⟪शौचम्⟫ ⟪॥१२॥⟫
 
-Selitys: -⟪अभिषेकौ⟩ Nom.Akk.Vok.Dual.mask. (Dualdvandva)
+Selitys: -⟪अभिषेकौ⟩ Nom.Akk.Vok.duaali.mask. (duaalidvandva)
 
 ⟪२⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪१६⟫ - ⟪१७⟫ Välttämättömyydestä kunnioittaa ⟪वर्नाश्रमधर्म⟫
 

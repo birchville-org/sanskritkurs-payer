@@ -78,7 +78,7 @@ Fig.: ⟪स्त्रियः⟫
 
 **Declinarea este identică în masculin și feminin.**
 
-**Neregularitate: Compusele cu sufixul -⟪नी⟫ "care conduce" au în locativul singular terminația -ām (ca și ⟪देवी⟫):**
+**Neregularitate: Compusele cu sufixul -:sig[⟪नी⟫] "care conduce" au în locativul singular terminația -ām (ca și ⟪देवी⟫):**
 de ex. ⟪ग्रामणी⟫ "care conduce un grup/vilag": loc.sg.m.f. ⟪ग्रामण्याम्⟫
 :::
 Paradigme:
@@ -219,7 +219,7 @@ Paradigmă:
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | ***⟪दाताहे⟫*** | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | **:sig[⟪दाताहे⟫]** | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
@@ -304,8 +304,8 @@ de ex. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 
 ::: indent
 de ex.
-⟪पत्⟫ 1P: ⟪प⟫***⟪नी⟫***⟪पत्य⟫-
-⟪वृत्⟫ 1Ā: ⟪व⟫***⟪री⟫***⟪वृत्य⟫-
+⟪पत्⟫ 1P: ⟪प⟫**:sig[⟪नी⟫]**⟪पत्य⟫-
+⟪वृत्⟫ 1Ā: ⟪व⟫**:sig[⟪री⟫]**⟪वृत्य⟫-
 :::
 ::: grammar-box
 **Conjugare:**
@@ -604,7 +604,7 @@ Paradigmă:
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ |
-| **3\. ⟪प्रथमः⟫** | ***⟪बुध्यात्⟫*** | ⟪बुध्यास्ताम्⟫ | ***⟪बुध्यासुर्⟫*** | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
+| **3\. ⟪प्रथमः⟫** | **:sig[⟪बुध्यात्⟫]** | ⟪बुध्यास्ताम्⟫ | **:sig[⟪बुध्यासुर्⟫]** | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
 :::
 ::: media
 ![](/images/lekt6114.webp)
@@ -718,7 +718,7 @@ Feminin (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Eliberarea în oceanul literaturii sanscrite: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+## 61.9. Eliberarea în oceanul literaturii sanscrite: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
 
 După finalizarea cursului de sanscrită, începe cu adevărat „înotul” propriu-zis în oceanul literaturii sanscrite. Deoarece acest ocean este plin de obstacole, este adecvat să începem această nouă etapă a vieții cu o invocație către Gaṇeśa:
 
@@ -734,7 +734,7 @@ Halebidu (ಹಳೆಬೀಡು), sec. al XII-lea/al XIII-lea d. Hr.
 | --- | --- |
 | ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
-***ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫*** de Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
+***ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]*** de Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
 Compozitor și poet: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
@@ -751,7 +751,7 @@ Tāla: Rūpaka: o |4
 Fig.: Melodia, raportată la do, poate fi transpusă în funcție de registrul vocal.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ se află la începutul predării muzicii kannareze. Vedeți videoclipul: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Accesat la data de 05.03.2009 
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] se află la începutul predării muzicii kannareze. Vedeți videoclipul: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Accesat la data de 05.03.2009 
 
 După ce ați învățat acum bazele sanscrite, sunteți, sper, ca bebelușii din videoclip: uneori stângaci, dar dornici de învățare și cunoaștere, și bucuroși în ceea ce faceți. Păstrați până la sfârșitul vieții „o minte de începător”.
 
@@ -760,7 +760,7 @@ Acesta este dorința dumneavoastră, Alois Payer
 
 Ofterdingen, 09.03.2009
 
-***⟪ॐ⟫***
+**:sig[⟪ॐ⟫]**
 
 Sfârșitul cursului de sanscrită
 :::

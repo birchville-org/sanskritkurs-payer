@@ -107,7 +107,7 @@ Sanskrit-Passivkonstruktionen sind ausgesprochen häufig: das Passiv ist ja auch
 Außer im Nominativ und Akkusativ sind die Formen der Neutra auf -a, des Fragepronomens und der Demonstrativpronomina mit den Formen des entsprechenden Maskulinums identisch. <!-- TODO: Fallback translation -->
 :::
 
-### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
+### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Der Instrumentalis (tṛtīyā) steht hauptsächlich auf die Fragen:** <!-- TODO: Fallback translation -->

@@ -17,9 +17,9 @@ status: stable
 - sandhi vocálico
 - Sandhi de oración de -ās
 :::
-## 3.1. Nominativo singular del femenino
+## 3.1. Nominativooo singular del femenino
 
-### 3.1.1. Nominativo singular en -s
+### 3.1.1. Nominativooo singular en -s
 
 Los siguientes stems nominales, que terminan en una vocal, también forman el nominativo singular en **-s**:
 
@@ -27,7 +27,7 @@ Los siguientes stems nominales, que terminan en una vocal, también forman el no
 - **Femeninos en -i**: p. ej. **śruti** f. "la escucha" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **Femeninos en -u**: p. ej. **dhenu** f. "vaca lechera" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominativo singular sin terminación
+### 3.1.2. Nominativooo singular sin terminación
 
 El nominativo singular se forma sin terminación:
 
@@ -51,7 +51,7 @@ El nominativo singular se forma sin terminación:
   (**-u-** se convierte en **-v-** antes de vocal, por lo tanto **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominativo plural masculino y femenino
+## 3.3. Nominativooo plural masculino y femenino
 
 ::: grammar-box
 La terminación del nominativo plural en masculino y femenino es **-as**.

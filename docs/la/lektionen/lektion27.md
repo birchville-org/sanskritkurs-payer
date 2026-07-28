@@ -155,11 +155,11 @@ De usu casus locativi postea.
 :::
 **Signalrot impressum**: fortes casus (in declinatione radicali).
 
-## 27.4. Versus omnes casus singulares complectens (Singularis) ad ⟪राम⟫
+## 27.4. Versus omnes casus singulares complectens (Singularis) ad :sig[⟪राम⟫]
 
 ::: media
 ![](/images/lekt2708.webp)
-Fig.: ⟪रामे⟫ ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ⟪राम⟫ ⟪मामुद्धर⟫ ⟪॥⟫
+Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
 (Fons imaginis: [Detalia](/la/licenses#lekt2708))
 :::

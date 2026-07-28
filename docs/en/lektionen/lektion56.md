@@ -56,7 +56,7 @@ Stem syllable:
 *   **\-ā- before a simple consonant is replaced by -a-:**  
     ⟪पॄ⟫ 3P: Caus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫  
     ⟪द्रु⟫ 1P: Caus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫  
-    ⟪नी⟫ 1U: Caus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
+    :sig[⟪नी⟫] 1U: Caus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
     ⟪ज्ञा⟫ 9U: Caus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫  
 
 *   **\-ī-, -e-, -ai- before a simple consonant is replaced by -i-:**  
@@ -89,8 +89,8 @@ After the aforementioned rules have been applied to the stem syllable, the follo
     ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫  
 
 *   **a is replaced by ī when the stem syllable is metrically short and begins with only one consonant. If the stem syllable is metrically short and begins with more than one consonant, the a of the reduplicating syllable is replaced by i. If the stem syllable is metrically long, the a is retained:**  
-    ⟪नी⟫ 1U: Caus. ⟪नाययति⟫, stem syllable of the Aor. ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
-    ⟪कृ⟫ 8U: Caus. ⟪कारयति⟫, stem syllable of the Aor. ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
+    :sig[⟪नी⟫] 1U: Caus. ⟪नाययति⟫, stem syllable of the Aor. ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
+    :sig[⟪कृ⟫] 8U: Caus. ⟪कारयति⟫, stem syllable of the Aor. ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
     ⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, stem syllable of the Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत्⟫  
     ⟪भू⟫ 1P: Caus. ⟪भावयति⟫, stem syllable of the Aor. ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
 

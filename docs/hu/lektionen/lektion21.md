@@ -47,7 +47,7 @@ Példák:
 | | | hímnem:br⟪पुंस्⟫ | semlegesnem:br⟪नपुंसक⟫ | nőnem:br⟪स्त्री⟫ |
 | :--- | :--- | :--- | :--- | :--- |
 | **egyes szám** :br⟪एकवचन⟫ | **1. alanyeset (nominativus)** :br⟪प्रथमा⟫ | ⟪यजन्⟫ :braus yaja-nt-s | ⟪यजत्⟫ :bryaja-t-Ø | ⟪यजन्ती⟫ :bryaja-ant-ī |
-| | **2. tárgyeset (accusativus)** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | mint **devī** :br⟪देवी⟫ |
+| | **2. tárgyeset (accusativus)** :br⟪द्वितीया⟫ | ⟪यजन्तम्⟫ :bryaja-nt-am | ⟪यजत्⟫ | wie **devī** :br⟪देवी⟫ |
 | | **3. eszközhatározó eset (instrumentalis)** :br⟪तृतीया⟫ | ⟪यजता⟫ :bryaja-t-ā | ⟪यजता⟫ | |
 | | **6. birtokos eset (genitivus)** :br⟪षष्ठी⟫ | ⟪यजतस्⟫ :bryaja-t-as | ⟪यजतस्⟫ | |
 | **többes szám** :br⟪बहुवचन⟫ | **1. alanyeset (nominativus)** :br⟪प्रथमा⟫ | ⟪यजन्तस्⟫ :bryaja-nt-as | ⟪यजन्ति⟫ :bryaja-nt-i | |
@@ -124,7 +124,7 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 *   semlegesnem Nom. Akk. sg. ⟪सुन्वत्⟫
 *   nőnem Nom. sg. ⟪सुन्वती⟫
 :::
-8\. Präsensklasse
+8\. Jelen időklasse
 
 ::: indent
 ⟪कृ⟫ "tun": ⟪कुर्वन्त्⟫
@@ -163,7 +163,7 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 ::: grammar-box
 **Als Vorderglied eines Kompositums steht statt ⟪महत्⟫ ⟪महा⟫:**
 
-**Beispiele:**
+**Példák:**
 
 :::
 ::: indent
@@ -172,9 +172,9 @@ Vegye észre a ⟪यजन्ति⟫ (nemek többes számú alanyeset) és a 
 :::
 ::: media
 ![](/images/lekt2102.webp)
-Abb.: ⟪महादेवो⟫ ⟪विष्णुः⟫
+Ábra: ⟪महादेवो⟫ ⟪विष्णुः⟫
 "A 4th-6th century CE Sardonyx seal representing Vishnu with a worshipper. The inscription in cursive Bactrian reads: "Mihira, Vishnu and Shiva".
-(Bildquelle: [Details](/hu/licenses#lekt2102))
+(Képforrás: [Részletek](/hu/licenses#lekt2102))
 :::
 
 ::: indent

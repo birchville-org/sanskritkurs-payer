@@ -1,6 +1,6 @@
 
 export const cop = {
-  label: 'COP - Coptic',
+  label: '🇪🇬 COP - Coptic',
   lang: 'cop',
   link: '/cop/',
   title: 'ⲡⲓⲙⲁⲑⲏⲙⲁ ⲛ̀ⲥⲁⲛⲥⲕⲣⲓⲧ',

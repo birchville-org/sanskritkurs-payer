@@ -128,7 +128,7 @@ Kuva: **kāru** = ⟪कारु⟫, Gujarat.
 ::: media
 ![](/images/lekt0901.webp)
 Kuva: **karṣaka** = ⟪कर्षक⟫.
-(Kuv lähde: [Details](/fi/licenses#lekt0901))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt0901))
 :::
 8\. kleśa (⟪क्लेश⟫)
 9\. nāyikātva (⟪नायिकात्व⟫)

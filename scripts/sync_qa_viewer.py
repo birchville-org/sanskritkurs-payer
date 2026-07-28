@@ -9,12 +9,14 @@ CUSTOM_CSS = ROOT / 'docs/.vitepress/theme/custom.css'
 QA_VIEWER = ROOT / 'docs/public/qa_viewer.html'
 
 def get_locales_from_config():
-    content = CONFIG_MJS.read_text(encoding='utf-8')
-    match = re.search(r'const allLocales = \[(.*?)\];', content)
-    if not match:
-        return []
-    locales_str = match.group(1).replace(' ', '')
-    return [l for l in locales_str.split(',') if l]
+    lang_mjs = ROOT / 'docs/.vitepress/languages.mjs'
+    if lang_mjs.exists():
+        txt = lang_mjs.read_text(encoding='utf-8')
+        m = re.search(r'export const ACTIVE_LOCALES = \[(.*?)\];', txt, re.DOTALL)
+        if m:
+            raw = m.group(1)
+            return re.findall(r"'([a-zA-Z0-9_-]+)'", raw)
+    return []
 
 LANG_NAMES = {
     'de': 'Deutsch (DE)',

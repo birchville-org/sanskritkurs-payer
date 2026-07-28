@@ -1,6 +1,6 @@
 
 export const el = {
-  label: 'EL - Ελληνικά',
+  label: '🇬🇷 EL - Ελληνικά',
   lang: 'el-GR',
   link: '/el/',
   title: 'Μάθημα Σανσκριτικής',

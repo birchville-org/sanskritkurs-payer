@@ -139,7 +139,7 @@ Muotoja ⟪त्वा⟫, ⟪ते⟫ ja ⟪वस्⟫ ei saa käyttää la
 ::: media
 ![](/images/lekt4302.webp)
 Kuva: ⟪आपणः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4302))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4302))
 :::
 ⟪सत्वर⟫ 3: nopea, kiireinen
 
@@ -148,7 +148,7 @@ Kuva: ⟪आपणः⟫
 ::: media
 ![](/images/lekt4303.webp)
 Kuva: ⟪पण्यानि⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4303))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4303))
 :::
 ⟪आम्⟫ : kyllä
 
@@ -171,14 +171,14 @@ Kuva: ⟪पण्यानि⟫
 ::: media
 ![](/images/lekt4304.webp)
 Kuva: ⟪विपणिः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4304))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4304))
 :::
 ⟪वणिज्⟫ m.: kauppias
 
 ::: media
 ![](/images/lekt4305.webp)
 Kuva: ⟪वणिक्⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4305))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4305))
 :::
 ⟪वर⟫ 3: paras
 
@@ -189,7 +189,7 @@ Kuva: ⟪वणिक्⟫
 ::: media
 ![](/images/lekt4306.webp)
 Kuva: ⟪वत्सः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4306))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4306))
 :::
 ⟪उत्तम⟫ 3: korkein, paras
 
@@ -210,7 +210,7 @@ Kuva: ⟪वत्सः⟫
 ::: media
 ![](/images/lekt4307.webp)
 Kuva: ⟪तोलन्ति⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4307))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4307))
 :::
 ⟪कर्गल⟫ n.: paperi
 
@@ -331,7 +331,7 @@ Miten pelastat itsesi (ylität) vihollisen edestä?
 ::: media
 ![](/images/lekt4308.webp)
 Kuva: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4308))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4308))
 :::
 ## 43.6. ⟪संवादः⟫ = Keskustelu
 
@@ -366,7 +366,7 @@ Kuva: ⟪कदा⟫ ⟪पूराववर्तथाः⟫ ⟪।⟫
 ::: media
 ![](/images/lekt4309.webp)
 Kuva: ⟪शर्करा⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4309))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4309))
 :::
 
 ::: deleteme-box

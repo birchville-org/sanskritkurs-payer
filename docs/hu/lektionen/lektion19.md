@@ -218,7 +218,7 @@ Magyarázat: ⟪यथाकालम्⟫ avyayībhāva-kompozitum: a megfelel
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫
 :::
-Magyarázat: ⟪पुमान्⟫ Nominativ egyes szám a következőhöz: ⟪पुंस्⟫ "ember" ; ⟪लोके⟫ Lokatívusz egyes szám a következőhöz: ⟪लोक⟫ m.: ...ban
+Magyarázat: ⟪पुमान्⟫ alanyeset (nominativus) egyes szám a következőhöz: ⟪पुंस्⟫ "ember" ; ⟪लोके⟫ Lokatívusz egyes szám a következőhöz: ⟪लोक⟫ m.: ...ban
 
 ::: deleteme-box
 

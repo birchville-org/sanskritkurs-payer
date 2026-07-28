@@ -9,9 +9,9 @@ status: stable
 
 # Pelajaran 49
 
-## 49.1. Bildung  Imperatifs (⟪लोट्⟫) athematischer Presentstämme (Fortsetzung)
+## 49.1. Pembentukan  Imperatif (⟪लोट्⟫) atematik Batang Present (Fortsetzung)
 
-### 49.1.1. Siebte Presentklasse  (⟪रुधादि⟫)
+### 49.1.1. Kelas Present Ketujuh  (⟪रुधादि⟫)
 
 ⟪युज्⟫ 7U
 
@@ -33,7 +33,7 @@ status: stable
 | **2. Person** :br⟪मध्यमः⟫ | ⟪रुन्द्धि⟫ | ⟪रुन्द्ध⟫ | ⟪रुन्त्स्व⟫ | ⟪रुन्द्ध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪रुणद्धु⟫ | ⟪रुन्धन्तु⟫ | ⟪रुन्द्धाम्⟫ | ⟪रुन्धताम्⟫ |
 :::
-### 49.1.2. Fünfte Presentklasse (⟪स्वादि⟫)
+### 49.1.2. Kelas Present Kelima (⟪स्वादि⟫)
 
 ::: grammar-box
 Imperatif 2.sg.P berakhiran nol untuk akar kelas ke-5 dan ke-8, di mana hanya konsonan mendahului -u akhir dari sufiks.
@@ -45,7 +45,7 @@ Imperatif 2.sg.P berakhiran nol untuk akar kelas ke-5 dan ke-8, di mana hanya ko
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ***⟪सुनु⟫*** | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | **:sig[⟪सुनु⟫]** | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
 :::
 ⟪आप्⟫ 5P
@@ -58,7 +58,7 @@ Imperatif 2.sg.P berakhiran nol untuk akar kelas ke-5 dan ke-8, di mana hanya ko
 | **2. Person** :br⟪मध्यमः⟫ | ⟪आप्नुहि⟫ | ⟪आप्नुत⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪आप्नोतु⟫ | ⟪आप्नुवन्तु⟫ |
 :::
-### 49.1.3. Achte Presentklasse (⟪तनादि⟫)
+### 49.1.3. Achte Kelas Present (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -67,7 +67,7 @@ Imperatif 2.sg.P berakhiran nol untuk akar kelas ke-5 dan ke-8, di mana hanya ko
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪तनवानि⟫ | ⟪तनवाम⟫ | ⟪तनवै⟫ | ⟪तनवामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ***⟪तनु⟫*** | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | **:sig[⟪तनु⟫]** | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪तनोतु⟫ | ⟪तन्वन्तु⟫ | ⟪तनुताम्⟫ | ⟪तन्वताम्⟫ |
 :::
 ⟪कृ⟫ 8U
@@ -77,10 +77,10 @@ Imperatif 2.sg.P berakhiran nol untuk akar kelas ke-5 dan ke-8, di mana hanya ko
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪करवाणि⟫ | ⟪करवाम⟫ | ⟪करवै⟫ | ⟪करवामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ***⟪कुरु⟫*** | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | **:sig[⟪कुरु⟫]** | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
 :::
-### 49.1.4. Neunte Presentklasse (⟪क्र्यादि⟫)
+### 49.1.4. Neunte Kelas Present (⟪क्र्यादि⟫)
 
 ⟪क्री⟫ 9U
 
@@ -102,7 +102,7 @@ Akar kelas 9 yang berakhir dengan konsonan mengganti akhir -nī-hi Imperatif ke-
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | ***⟪गृहाण⟫*** | ⟪गृह्णीत⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | **:sig[⟪गृहाण⟫]** | ⟪गृह्णीत⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
 :::
 ## 49.2. Deklination  Nominalstämme auf -as, -is, -us
@@ -171,7 +171,7 @@ Kata benda pada -is dan -us relatif jarang.
 ::: media
 ![](/images/lekt4907.webp)
 Fig.: ⟪नमस्ते⟫
-(Image source: [Details](/en/licenses#lekt4907))
+(Image source: [Detail](/en/licenses#lekt4907))
 :::
 ## 49.4. Daftar Kata
 
@@ -211,7 +211,7 @@ Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Caus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ ***⟪तू्र्⟫***⟪ण⟫
+PPP ⟪त्वरित⟫ ⟪।⟫ **:sig[⟪तू्र्⟫]**⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
 :::
 ⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : harm
@@ -229,7 +229,7 @@ Inf. ⟪द्रोग्धुम्⟫
 ::: media
 ![](/images/lekt4901.webp)
 Fig.: ⟪कुलूहलम्⟫
-(Image source: [Details](/en/licenses#lekt4901))
+(Image source: [Detail](/en/licenses#lekt4901))
 :::
 ⟪कृत्स्न⟫ 3: whole, complete
 
@@ -241,7 +241,7 @@ Fig.: ⟪कुलूहलम्⟫
 ![](/images/lekt4902.webp)
 Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ⟪शिवो⟫ ⟪नटराजा⟫, 11th cent.
-(Image source: [Details](/en/licenses#lekt4902))
+(Image source: [Detail](/en/licenses#lekt4902))
 :::
 ⟪वर⟫ m.n.: wish
 
@@ -252,7 +252,7 @@ Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 ::: media
 ![](/images/lekt4903.jpg)
 Fig.: ⟪विहंगः⟫
-(Image source: [Details](/en/licenses#lekt4903))
+(Image source: [Detail](/en/licenses#lekt4903))
 :::
 ⟪वेष⟫ m.: garment, appearance, exterior
 
@@ -260,7 +260,7 @@ Fig.: ⟪विहंगः⟫
 ![](/images/lekt4904.webp)
 Fig.: ⟪वेषः⟫
 ⟪वाराणस्याम्⟫
-(Image source: [Details](/en/licenses#lekt4904))
+(Image source: [Detail](/en/licenses#lekt4904))
 :::
 ⟪छन्न⟫ n.: blanket, hiding place
 
@@ -270,7 +270,7 @@ Fig.: ⟪वेषः⟫
 ![](/images/lekt4909.webp)
 Fig.: ⟪पञ्जरम्⟫
 Peramal dengan burung beo dalam sangkar: burung beo menarik potongan kertas di mana takdir ditulis Mysore
-(Sumber gambar: [Details](/en/licenses#lekt4909))
+(Sumber gambar: [Detail](/en/licenses#lekt4909))
 :::
 ⟪चाण्डाल⟫ ⟪।⟫ ⟪चण्डाल⟫ m.: tingkat terendah dari [Dalit](http://de.wikipedia.org/wiki/Dalit)
 
@@ -297,7 +297,7 @@ Gerundive ⟪ध्येय⟫
 ![](/images/lekt4905.webp)
 Fig.: ⟪सादरः⟫
 Amritsar = ਅੰਮ੍ਰਿਤਸਰ
-(Image source: [Details](/en/licenses#lekt4905))
+(Image source: [Detail](/en/licenses#lekt4905))
 :::
 ⟪कुतुक⟫ n. = ⟪कुलूहल⟫ n.
 
@@ -369,7 +369,7 @@ Pertanyaan Raja ⟪शूद्रक⟫ dari ⟪विदिशा⟫ kepada Bu
 ![](/images/lekt4908.webp)
 Fig.: ⟪शुकः⟫
 Plum-headed parakeet = Psittacula cyanocephala
-(Image source: [Details](/en/licenses#lekt4908))
+(Image source: [Detail](/en/licenses#lekt4908))
 :::
 
 ::: deleteme-box

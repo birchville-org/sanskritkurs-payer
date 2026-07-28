@@ -318,7 +318,7 @@ Golden Temple (Harmandir Sahib), Amritsar.
 
 ⟪चतुर्दश⟫ สิบสี่
 
-⟪सप्त⟫ เจ็ด
+:sig[⟪सप्त⟫] เจ็ด
 
 ⟪जन्म⟫ Nom./Akk. singular ของ **⟪जन्मन्⟫ n.** การเกิด
 

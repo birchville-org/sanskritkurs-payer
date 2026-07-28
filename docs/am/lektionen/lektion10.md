@@ -1,9 +1,9 @@
 ---
-title: ትምህርት 10
-subtitle: "ተገብሮ ዓረፍተ ነገር (የአድራጊው መሣሪያዊ)"
+title: Lektion 10
+subtitle: "Den Passivsatz (Instrumentalis des Agens)"
 lesson_id: 10
 last_reconstructed: 2026-05-07
-category: "ሰዋስው"
+category: "Grammatik"
 status: stable
 ---
 
@@ -65,24 +65,24 @@ status: stable
 
 | | የመሳሪያዊ ነጠላ | የመሳሪያዊ ብዙ |
 | :--- | :--- | :--- |
-| **በ -i የሚያልቁ አንስታይ ቃላት**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
-| **በ -ī የሚያልቁ አንስታይ ቃላት**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
-| **በ -u የሚያልቁ አንስታይ ቃላት**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
+| **Feminina auf -i**:brśruti:br⟪श्रुति⟫ | **śruty-ā** :br⟪श्रुत्या⟫ | **śruti-bhis** :br⟪श्रुतिभिस्⟫ |
+| **Feminina auf -ī**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
+| **Feminina auf -u**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
 
 **መደበኛ ያልሆኑ አወቃቀሮች (ነጠላ)፦**
 
 | | መሣሪያዊ ነጠላ | መሣሪያዊ ብዙ |
 | :--- | :--- | :--- |
-| **በ -i የሚያልቁ ተባዕታይ ስሞች**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
-| **በ -u የሚያልቁ ተባዕታይ ስሞች**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
-| **በ -ā የሚያልቁ አንስታይ ስሞች**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
+| **Maskulina auf -i**:brkavi:br⟪कवि⟫ | **kavi-n-ā** :br⟪कविना⟫ | **kavi-bhis** :br⟪कविभिस्⟫ |
+| **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
+| **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
 
 **በ -a የሚያልቁ ተባዕታይ እና ገለልተኛ ስሞች (በነጠላ እና በብዙ ቁጥር መደበኛ ያልሆኑ)፦**
 
 | | መሣሪያዊ ነጠላ | መሣሪያዊ ብዙ |
 | :--- | :--- | :--- |
-| **በ -a የሚያልቁ ተባዕታይ ስሞች**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
-| **በ -a የሚያልቁ ገለልተኛ ስሞች**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
+| **Maskulina auf -a**:brdeva:br⟪देव⟫ | **devena** :br⟪देवेन⟫ | **devais** :br⟪देवैस्⟫ |
+| **Neutra auf -a**:brphala:br⟪फल⟫ | **phalena** :br⟪फलेन⟫ | **phalais** :br⟪फलैस्⟫ |
 
 **የጥያቄ ተውላጠ ስም kim፦**
 
@@ -95,11 +95,11 @@ status: stable
 
 | ተውላጠ ስም | ጾታ | መሳርያዊ ነጠላ | መሳርያዊ ብዙ |
 | :--- | :--- | :--- | :--- |
-| **tad** :br"እሱ፣ እሷ፣ እሱ፤ ያ፣ ያቺ፣ ያ" (የተጠቀሰው)፦br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
+| **tad** :br"er, sie, es; der, die, das" (Erwähnte):br⟪तद्⟫ | M/N | **tena** :br⟪तेन⟫ | **tais** :br⟪तैस्⟫ |
 | | F | **tayā** :br⟪तया⟫ | **tābhis** :br⟪ताभिस्⟫ |
-| **etad** :br"ይህ፣ ይህች፣ ይህ" (ለተናጋሪው በጣም የቀረበ)፦br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
+| **etad** :br"dieser, diese, dieses" (dem Sprechenden sehr Nahe):br⟪एतद्⟫ | M/N | **etena / enena** :br⟪एतेन⟫ / ⟪एनेन⟫ | **etais** :br⟪एतैस्⟫ |
 | | F | **etayā / enayā** :br⟪एतया⟫ / ⟪एनया⟫ | **etābhis** :br⟪एताभिस्⟫ |
-| **idam** :br"ይህ፣ ይህች፣ ይህ" (የቀረበ)፦br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
+| **idam** :br"dieser, diese, dieses" (Nahe):br⟪इदम्⟫ | M/N | **anena / enena** :br⟪अनेन⟫ / ⟪एनेन⟫ | **ebhis** :br⟪एभिस्⟫ |
 | | F | **anayā / enayā** :br⟪अनया⟫ / ⟪एनया⟫ | **ābhis** :br⟪आभिस्⟫ |
 :::
 
@@ -160,50 +160,50 @@ status: stable
 :::
 ለምሳሌ
 
-| ሥር:br⟪धातु⟫ | 3ኛ ነጠላ ግሥ ተገብሮ የአሁን ጊዜ አመልካች:br⟪यक्⟫ ⟪लट्⟫ | 3ኛ ብዙ ግሥ ተገብሮ የአሁን ጊዜ አመልካች:br⟪यक्⟫ ⟪लट्⟫ |
+| Wurzel:br⟪धातु⟫ | 3. sg. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ | 3. pl. Pass. Präs. Indik.:br⟪यक्⟫ ⟪लट्⟫ |
 | :--- | :--- | :--- |
-| **nī** :br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"እሱ ይመራል" | **nīyante** :br(⟪नीयन्ते⟫) |
-| **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"እሱ ይታሰባል" | **manyante** :br(⟪मन्यन्ते⟫) |
-| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"ይገባበታል" | **viśyante** :br(⟪विश्यन्ते⟫) |
+| **nī** :br1 U:br(nayati) | **nīyate** :br(⟪नीयते⟫):br"er wird geführt" | **nīyante** :br(⟪नीयन्ते⟫) |
+| **man** :br4 Ā:br(manyate) | **manyate** :br(⟪मन्यते⟫):br"er wird gedacht" | **manyante** :br(⟪मन्यन्ते⟫) |
+| **viś** :br6 P:br(viśati) | **viśyate** :br(⟪विश्यते⟫):br"es wird betreten" | **viśyante** :br(⟪विश्यन्ते⟫) |
 
 **በአራተኛው የአሁን ጊዜ ክፍል ግሶች ላይ፣ Ātmanepada እና ተገብሮ ግሥ ተመሳሳይ ቅርጾች እንዳሏቸው ልብ ይበሉ! በዚህ ሁኔታ Ātmanepada ወይም ተገብሮ ግሥ መሆኑን ማወቅ የሚቻለው ከአረፍተ ነገሩ አወቃቀር ብቻ ነው።**
 
 ### 10.4.1. ተገብሮ ግሥን ለመመስረት ልዩ ሕጎች
 
 1. **በ -i ወይም -u የሚያልቁ ሥሮች** ከተገብሮ ግሥ ቅጥያ **-ya-** በፊት አናባቢያቸውን ያረዝማሉ።
-* **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
-* **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
-* **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
+   * **ji** 1 P: **jīyate**, **jīyante** :br⟪जीयते⟫, ⟪जीयन्ते⟫
+   * **śru** 5 P: **śrūyate**, **śrūyante** :br⟪श्रूयते⟫, ⟪श्रूयन्ते⟫
+   * **su** 5 U: **sūyate**, **sūyante** :br⟪सूयते⟫, ⟪सूयन्ते⟫
 
 2. **በተነባቢዎች መካከል -a- ያላቸው ሥሮች** (ከአፍንጫዊ፣ y, r, v በስተቀር) በከፍተኛ ደረጃ ላይ ይቆያሉ፡
-* **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
+   * **labh** 1 Ā: **labhyate**, **labhyante** :br⟪लभ्यते⟫, ⟪लभ्यन्ते⟫
 
 3. **አንዳንድ ሥሮች ተገብሮአቸውን በከፍተኛ ደረጃ** (ወይም በአሁን ጊዜ ግንድ የአብላውት ደረጃ) ይመሰርታሉ፡
-* **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
-* **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
-* **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
+   * **āp** 5 P: **āpyate**, **āpyante** :br⟪आप्यते⟫, ⟪आप्यन्ते⟫
+   * **khād** 1 P: **khādyate**, **khādyante** :br⟪खाद्यते⟫, ⟪खाद्यन्ते⟫
+   * **smṛ** 1 P: **smaryate**, **smaryante** :br⟪स्मर्यते⟫, ⟪स्मर्यन्ते⟫
 
 4. **በ ya, va, ra የሚጀምሩ ግሶች ወይም እነዚህ ድምፆች ከሌላ ተነባቢ በኋላ የሚመጡባቸው ግሶች ዝቅተኛ ደረጃ (Samprasāraṇa = ⟪सम्प्रसारण⟫)፡**
 
-| ሥር:br⟪धातु⟫ | ዝቅተኛ ደረጃ:br⟪सम्प्रसारण⟫ | ተገብሮ:br⟪यक्⟫ |
-| :--- | :--- | :--- |
-| **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
-| **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
-| **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
+   | Wurzel:br⟪धातु⟫ | Tiefstufe:br⟪सम्प्रसारण⟫ | Passiv:br⟪यक्⟫ |
+   | :--- | :--- | :--- |
+   | **yaj** 1 U:br⟪यज्⟫ | \*yj &raquo; ij | **ijyate** :br⟪इज्यते⟫:br **ijyante** :br⟪इज्यन्ते⟫ |
+   | **vad** 1 P:br⟪वद्⟫ | \*vd &raquo; ud | **udyate** :br⟪उद्यते⟫:br **udyante** :br⟪उद्यन्ते⟫ |
+   | **prach** 6 P:br⟪प्रच्छ्⟫ | \*prcch &raquo; pṛcch | **pṛcchyate** :br⟪पृच्छ्यते⟫:br **pṛcchyante** :br⟪पृच्छ्यन्ते⟫ |
 
 **ya** ወይም **va** ባላቸው ግሶች ላይ ለዚህ ዝቅተኛ ደረጃ አፈጣጠር ባህላዊው የአገር ውስጥ ስያሜ **Samprasāraṇa** (⟪नपुंसकम्⟫ = ⟪सम्प्रसारण⟫) ነው።
 
 5. ከአንድ ተነባቢ በኋላ በመጨረሻ ላይ ያለ **-ṛ** ከተግባሪ ያልሆነው ቅጥያ **-ya-** በፊት በ**-ri-** ይተካል፦
-* **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
-* ነገር ግን፦ **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
+   * **kṛ** 8 U: **kriyate**, **kriyante** :br⟪क्रियते⟫, ⟪क्रियन्ते⟫
+   * ነገር ግን፦ **smṛ** 1 P: **smaryate** :br⟪स्मर्यते⟫
 
 6. በ**-an** የሚያልቁ አንዳንድ ሥሮች በአማራጭነት ሁለት የተግባሪ ያልሆነ ግንድ አፈጣጠሮች አሏቸው፦
-* አንደኛው **-an-ya**
-* ሌላኛው **-ā-ya-** (ረጅሙ **ā** መላምታዊ ለሆነ ረጅም አፍንጫዊ ድምፅ ተወካይ ነው)
+   * አንደኛው **-an-ya**
+   * ሌላኛው **-ā-ya-** (ረጅሙ **ā** መላምታዊ ለሆነ ረጅም አፍንጫዊ ድምፅ ተወካይ ነው)
 
 ለምሳሌ **tan** 8 U.
-* **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
-* **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (ከ \*tn-ya-nte)
+   * **tan-ya-te**, **tan-ya-nte** :br⟪तन्यते⟫, ⟪तन्यन्ते⟫
+   * **tā-ya-te**, **tā-ya-nte** :br⟪तायते⟫, ⟪तायन्ते⟫ (ከ \*tn-ya-nte)
 
 ## 10.5. የቃላት ዝርዝር
 
@@ -213,14 +213,13 @@ status: stable
 - **grāma** m. ⟪ग्राम⟫ : መንደር
 - **nagara** n. ⟪नगर⟫ : ከተማ
 
-::: note-box
+  ::: note-box
 ስለ ከተማና መንደር ሕይወት ባሻም፣ *Wonder*፣ ምዕ. 6 ይመልከቱ።
   :::
 
 - **yajña** ወ. ⟪यज्ञ⟫ : መስዋዕት
 
-:::
-::: note-box
+  ::: note-box
 በህንድ ውስጥ መስዋዕት በዋነኝነት አምላክን እንደ እንግዳ ማምለክ ነው። በዚህም አማልክትን ግዴታ ውስጥ ያስገባሉ።
 
 የቃል አፈጣጠር: **yaj** 1 U + kṛt-Suffix **-na-**።
@@ -228,15 +227,13 @@ status: stable
 
 - **puṇya** ገለ. ⟪पुण्य⟫ : መልካም ሥራ፣ ምንዳ
 
-:::
-::: note-box
+  ::: note-box
 ደህንነትንና መልካም ዳግም ልደቶችን የሚያገኙበት መንገድ።
   :::
 
 - **pāpa** n. ⟪पाप⟫ : ክፉ ሥራ፣ ክፋት (የ**puṇya** ተቃራኒ)
 - **satya** n. ⟪सत्य⟫ : እውነት
 
-:::
 ::: note-box
 በህንድ ውስጥ ለእውነተኛው ቃል አስማታዊ ኃይል እንዳለው ይታመን ነበር፤ እንዲያውም መላው የዓለም ሥርዓት በእውነተኛው ቃል ይጠበቃል እንዲሁም ይፈጠራል።
 
@@ -250,7 +247,7 @@ Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. ከቅርስ የ�
 :::
 - **anṛta** n. ⟪अनृत⟫ : ሐሰት፣ ውሸት (**satya** ተቃራኒ)
 
-::: note-box
+  ::: note-box
 የቃል ምስረታ **an-** («አን-») + **ṛta** n.
 
 **ṛta** በቬዳ ውስጥ ማዕከላዊ ጽንሰ-ሐሳብ ሲሆን ትርጉሙ አከራካሪ ነው፡ «እውነት» (ሉደርስ፣ ቲሜ)፣ «ሥርዓት» (ሬኑ)።
@@ -258,12 +255,10 @@ Lüders, Heinrich \<1869 - 1943\>: Varuna / Heinrich Lüders. ከቅርስ የ�
 
 - **ṛṣi** m. ⟪ऋषि⟫ : የቬዳ ጠቢብ፣ የቬዳ መዝሙሮች ደራሲ
 
-:::
-::: note-box
+  ::: note-box
 የእነዚህ **ṛṣi**ዎች ስሞች በብራህማናዎች ውስጥ እንዲሁም በቬዳዎች ልዩ ዝርዝሮች ውስጥ ተጠቅሰዋል። ሁሉም ብራህማኖች የዘር ሐረጋቸውን ከእንደነዚህ **ṛṣi**ዎች ይመዛሉ፣ የእነርሱ **gotra** (⟪गोत्र⟫) የተሰየመው በእነርሱ ስም ነው። ስለ **gotra** ጽንሰ-ሐሳብ ባሻም፣ *Wonder*፣ ምዕ. 5 ይመልከቱ።
   :::
 
-:::
 ::: media
 ![](/images/lekt1002.jpg)
 ምስል፦ ⟪विश्वामित्रः⟫

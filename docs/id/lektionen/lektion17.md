@@ -9,7 +9,7 @@ status: stable
 
 # Pelajaran 17
 
-## 17.1. Zweite Presentklasse (⟪अदादि⟫ = ⟪अद्⟫ usw.)
+## 17.1. Kedua Kelas Present (⟪अदादि⟫ = ⟪अद्⟫ usw.)
 
 Akhiran verbal melekat langsung pada akar. Dalam hal ini, perubahan fonetik yang dihasilkan dari sandhi kata harus diperhitungkan.
 
@@ -247,7 +247,7 @@ from this:
 ![](/images/lekt1703.webp)
 Fig.: ⟪घाताः⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Image source: [Details](/en/licenses#lekt1703))
+(Image source: [Detail](/en/licenses#lekt1703))
 :::
 ⟪आस्⟫ 2Ā ⟪आस्ते⟫ Pass. ⟪आस्यते⟫ PPP ⟪आसित⟫ : to sit
 
@@ -260,7 +260,7 @@ from this:
 ::: media
 ![](/images/lekt1701.webp)
 Fig.: ⟪योगासनम्⟫
-(Sumber gambar: [Details](/en/licenses#lekt1701))
+(Sumber gambar: [Detail](/en/licenses#lekt1701))
 :::
 ⟪रुद्⟫ 2 P ⟪रोदिति⟫ Pass. ⟪रुद्यते⟫ PPP ⟪रुदित⟫ : menangis, merengek
 
@@ -276,7 +276,7 @@ from this:
 ::: media
 ![](/images/lekt1702.webp)
 Fig.: ⟪दोग्धि⟫
-(Sumber gambar: [Details](/en/licenses#lekt1702))
+(Sumber gambar: [Detail](/en/licenses#lekt1702))
 :::
 ⟪दिश्⟫ 6 U ⟪दिशति⟫ Pass. ⟪दिश्यते⟫ PPP ⟪दिष्ट⟫ : menunjukkan, menginstruksikan, memerintahkan
 

@@ -91,7 +91,7 @@ Határozza meg és fordítsa le írásban a következő alakokat, valamint alkos
 ![](/images/lekt5501.webp)
 Kép: ⟪अजीर्यमिति⟫
 „Inâyat Khân halálosan beteg, vázlat egy miniatűr képhez Jahângîr számára = جهانگير, kb. 1618
-(Képmegjelenítés: [Details](/hu/licenses#lekt5501))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5501))
 :::
 
 ::: deleteme-box

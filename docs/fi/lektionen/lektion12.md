@@ -119,7 +119,7 @@ Luettelo *aniṭ*-juurista löytyy Kielhornin teoksesta *Grammatik* § 298.
 
 *seṭ* = *sa-iṭ* = „mit (*sa-*) dem Suffix vorangestelltem (*-i-*) *t*“ (d.h. mit dem Bindevokal *i*).
 
-**Beispiele:**
+**Esimerkkejä:**
 
 ::: grammar-box
 | Juuri | PPP (kta) |
@@ -153,7 +153,7 @@ Luettelo *aniṭ*-juurista löytyy Kielhornin teoksesta *Grammatik* § 298.
 ::: media
 ![](/images/lekt1201.webp)
 Kuva: ⟪गौतमो⟫ ⟪बुद्धः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1201))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1201))
 :::
 - **dah** 1 P (dahati), PPP **dagdha** ⟪दह्⟫ ⟪दहति⟫ ⟪दग्ध⟫ : (jotain) polttaa
 - **sah** 1 Ā (sahate), PPP **soḍha** ⟪सह्⟩ sahate soḍha : selviytyä, kestää, kärsiä kärsivällisesti = anteeksi antaa
@@ -163,7 +163,7 @@ Kuva: ⟪गौतमो⟫ ⟪बुद्धः⟫
 ::: media
 ![](/images/lekt1202.webp)
 Kuva: ⟪मार्गः⟩
-(Kuv lähde: [Details](/fi/licenses#lekt1202))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1202))
 :::
 - **api** ⟪अपि⟩ : myös (jälkiliitteessä)
 
@@ -181,7 +181,7 @@ Sananmuodostus:
 ::: media
 ![](/images/lekt1203.webp)
 Kuv.: ⟪महावीरो⟫ ⟪जिनः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt1203))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt1203))
 :::
 - **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟫ : tieto, tiedoneläin.
 

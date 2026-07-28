@@ -36,13 +36,13 @@ Ejemplos:
 ::: indent
 ⟪एहि⟫ ⟪।⟫ «¡Ven!»
 
-⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ o bien Optativo: ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ «¡Vaya usted a la aldea!»
+⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ o bien Optativooo: ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ «¡Vaya usted a la aldea!»
 
-⟪वेदमध्ययै⟫ ⟪।⟫ o bien Optativo: ⟪वेदमधीयीय⟫ ⟪।⟫ «Quisiera estudiar el Veda.»
+⟪वेदमध्ययै⟫ ⟪।⟫ o bien Optativooo: ⟪वेदमधीयीय⟫ ⟪।⟫ «Quisiera estudiar el Veda.»
 
-⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ o bien Optativo: ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ «Deseo que ellos coman.»
+⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ o bien Optativooo: ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ «Deseo que ellos coman.»
 
-⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ o bien Optativo: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ «¿Debería estudiar el Veda?»
+⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ o bien Optativooo: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ «¿Debería estudiar el Veda?»
 
 ⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ o bien Gerundivo: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ «¡Haga usted un cuchillo!»; «Usted puede hacer un cuchillo»; «Es el momento de que usted haga un cuchillo».
 
@@ -65,7 +65,7 @@ El imperativo se forma a partir de la raíz del presente.
 :::
 ## 47.2. Formación del imperativo (⟪लोट्⟫) de las raíces temáticas del presente
 
-### 47.2.1. Desinencias del Imperativo en raíces temáticas de presente
+### 47.2.1. Desinencias del Imperativooo en raíces temáticas de presente
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||

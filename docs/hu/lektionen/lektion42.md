@@ -220,7 +220,7 @@ Inf. ⟪शंसितुम्⟫
 
 ⟪पितृ⟫ m.: apa
 
-⟪पितृ⟫ m. Plural: a szellemek, azaz
+⟪पितृ⟫ m. többes szám: a szellemek, azaz
 
 1.  apa, nagyapa, dédapa
 2.  az emberiség ősei
@@ -301,7 +301,7 @@ Fordítsa le:
 
 :sig[⟪सीता⟫]⟪विवाहः⟫
 
-⟪पुरा⟫ :sig[⟪मिथिलायां⟫] :sig[⟪जनको⟫] ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
+⟪पुरा⟫ :sig[⟪मिथिलायां⟫] :sig[⟪जनको⟫] ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ :sig[⟪सीता⟫] ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
 
 ⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ :sig[⟪गुरुतरं⟫] ⟪किमपि⟫ :sig[⟪धनुरा⟫]⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
 
@@ -322,11 +322,11 @@ Fordítsa le:
 
 A **pirossal** kiemelt kifejezések magyarázata:
 
-⟪सीता⟫ f. Saját név: a király leánya, ⟪जनक⟫, ⟪विदेह⟫. A földből jött elő, amikor a király egyszer aratott, ezért neve: ⟪सीता⟫ f. "Aratás"
+:sig[⟪सीता⟫] f. Saját név: a király leánya, ⟪जनक⟫, ⟪विदेह⟫. A földből jött elő, amikor a király egyszer aratott, ezért neve: :sig[⟪सीता⟫] f. "Aratás"
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
-Kép: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
+Kép: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt4205))
 :::
 ⟪मिथिला⟫ f. Saját név: fővárosa ⟪विदेह⟫
@@ -340,13 +340,13 @@ Kép: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 ⟪गुरुतर⟫ 3: Komparatív a szinonimákhoz ⟪गुरु⟫ 3: nehéz, nagyon nehéz
 
-⟪धनुस्⟫ Nominativ/Akkusativ, egyes szám, középnem a következőhöz: ⟪धनुस्⟫ n. "Íj"
+⟪धनुस्⟫ alanyeset (nominativus)/tárgyeset (accusativus), egyes szám, középnem a következőhöz: ⟪धनुस्⟫ n. "Íj"
 
 ⟪शतशस्⟫ Hatószó: százasával
 
-⟪लङ्का⟫ Nőnemű sajátnév: a mai Srí Lanka-val (ශ්‍රී ලංකාව / இலங்கை) azonosítják
+:sig[⟪लङ्का⟫] Nőnemű sajátnév: a mai Srí Lanka-val (ශ්‍රී ලංකාව / இலங்கை) azonosítják
 
-⟪रावण⟫ Férfi nemű sajátnév; ⟪लङ्का⟫ uralkodója, a ⟪राक्षस⟫ uralkodója.
+⟪रावण⟫ Férfi nemű sajátnév; :sig[⟪लङ्का⟫] uralkodója, a ⟪राक्षस⟫ uralkodója.
 
 ::: media
 ![lekt4207.jpg](/images/lekt4207.webp)
@@ -361,9 +361,9 @@ Kép: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 ⟪लक्ष्मन⟫ m. Saját név: ⟪दशरथ⟫ fia
 
-⟪विश्वामित्र⟫ m. Saját név: ⟪ऋषि⟫, kirendelte ⟪राम⟫ és ⟪लक्ष्मन⟫, hogy öljék meg a démonokat; ezért varázsfegyvereket kapnak tőle.
+:sig[⟪विश्वामित्र⟫] m. Saját név: ⟪ऋषि⟫, kirendelte ⟪राम⟫ és ⟪लक्ष्मन⟫, hogy öljék meg a démonokat; ezért varázsfegyvereket kapnak tőle.
 
-⟪सीतारामयोस्⟫ Gen.Lok.Dual to ⟪सीताराम⟫
+⟪सीतारामयोस्⟫ Gen.Lok.kettes szám (dualis) to ⟪सीताराम⟫
 
 ::: deleteme-box
 
@@ -371,7 +371,7 @@ Kép: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 * **42.2. ábra**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. A Diwan-i Khas, azaz a Privát Hallgatások Csarnoka a Lal Qila (Vörös Erőd) területén, Delhi-ban. (Képmagyarázat: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Hozzáférés: 2009-01-04. -- Creative Commons licenc (Nevesítés, nem kereskedelmi felhasználás, share alike))
 * **42.3. ábra**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, kb. 1825. (Képmagyarázat: Wikipedia. Közterület)
 * **42.4. ábra**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. szekér). (Képmagyarázat: Wikipedia. Közterület)
-* **42.5. ábra**: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 17. század (Képmagyarázat: Wikipedia. Közterület)
+* **42.5. ábra**: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 17. század (Képmagyarázat: Wikipedia. Közterület)
 * **42.6. ábra**: ⟪मिथिला⟫ és ⟪विदेह⟫, valamint ⟪अयोध्या⟫ és ⟪कोसल⟫ elhelyezkedése. (Képmagyarázat: JIJITH NR / Wikipedia. GNU FDLicense)
 * **42.7. ábra**: ⟪रावणः⟫. Yakṣagaṇa-táncmaszk (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Képmagyarázat: Manohara Upadhya / Wikipedia. GNU FDLicense)
 * **42.8. ábra**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Kép ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫-ról (1848 - 1906). (Képmagyarázat: Wikipedia. Közterület)

@@ -89,7 +89,7 @@ La 3.ª persona del singular del imperfecto o del optativo es formalmente idént
 | **Imperfecto** ⟪लङ्⟫ | ⟪ऐक्ष्यथास्⟫ | ⟪ऐक्ष्यध्वम्⟫ |
 | **Optativo** ⟪विधिलिङ्⟫ | ⟪ईक्ष्येथास्⟫ | ⟪ईक्ष्येध्वम्⟫ |
 
-#### 43.2.1.6. Futuro (⟪ऌट्⟫)
+#### 43.2.1.6. Futurooo (⟪ऌट्⟫)
 
 #### 43.2.1.6.1. Formaciones con ⟪अनिट्⟫
 

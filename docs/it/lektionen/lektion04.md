@@ -97,7 +97,7 @@ NOTA: Le risposte che si possono dare a tali domande con le conoscenze sanscrite
 
 **A) Formulate oralmente domande con le seguenti parole secondo lo schema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) e rispondete alle domande in sanscrito:**
 
-śruti, śiva, brāhmaṇa, dvija (Plural), indrāṇī, dhenu, tulādhara, kālidāsa
+śruti, śiva, brāhmaṇa, dvija (Pluralee), indrāṇī, dhenu, tulādhara, kālidāsa
 
 = ⟪श्रुति⟫, ⟪शिव⟫, ⟪ब्राह्मण⟫, ⟪द्विज⟫ (⟪बहुवचनम्⟫), ⟪इन्द्राणी⟫, ⟪धेनु⟫, ⟪तुलाधर⟫, ⟪कालिदास⟫
 

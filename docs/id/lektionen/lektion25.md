@@ -9,7 +9,7 @@ status: stable
 
 # Pelajaran 25
 
-## 25.1. Bildung  Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung")
+## 25.1. Pembentukan  Ablatif (⟪पञ्चमी⟫ = "akhiran kasus kelima")
 
 ::: grammar-box
 Kecuali untuk kata sifat maskulin/netra yang berakhiran -a dan kata ganti, dalam bentuk tunggal, pada semua kelas deklinasi, bentuk ablatif (⟪पञ्चमी⟫) identik dengan bentuk genitif (⟪षष्ठी⟫).
@@ -19,7 +19,7 @@ Kecuali untuk kata ganti orang, dalam semua deklinasi, dalam bentuk jamak, bentu
 Sekarang Anda mengenali alasan urutan kasus (⟪विभक्ति⟫) dalam bahasa Sanskerta: mereka disusun sedemikian rupa sehingga bentuk-bentuk yang identik berada sebisa mungkin berdekatan - atau di bawah satu sama lain.
 
 ::: grammar-box
-**Ablative singular of masculines/neutrons ending in -a**
+**Ablatife singular of masculines/neutrons ending in -a**
 
 - **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
@@ -36,13 +36,13 @@ Interrogative, relative, and demonstrative pronouns:
 | ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
-## 25.2. Gebrauch  Ablativ (⟪पञ्चमी⟫)
+## 25.2. Penggunaan  Ablatif (⟪पञ्चमी⟫)
 
 "The ablative denotes that which remains fixed when something departs from it."
 
 Pāṇini 2,3,28 + 1,4,24
 
-Ablativ digunakan terutama untuk menjawab pertanyaan "Dari mana?", "Mengapa?".
+Ablatif digunakan terutama untuk menjawab pertanyaan "Dari mana?", "Mengapa?".
 
 ::: grammar-box
 Ablatif dengan demikian menunjukkan titik awal, asal-usul, dan materi.
@@ -201,7 +201,7 @@ therefrom:
 ::: media
 ![](/images/lekt2501.webp)
 Fig.: ⟪धान्यम्⟫
-(Image source: [Details](/en/licenses#lekt2501))
+(Image source: [Detail](/en/licenses#lekt2501))
 :::
 ⟪धृ⟫ 1U ⟪धरति⟫ : hold, keep firm
 
@@ -281,7 +281,7 @@ therefrom:
 ::: media
 ![](/images/lekt2502.webp)
 Fig.: ⟪मूलानि⟫
-(Image source: [Details](/en/licenses#lekt2502))
+(Image source: [Detail](/en/licenses#lekt2502))
 :::
 ⟪लिप्⟫ 6U ⟪लिम्पति⟫ (!): anoint, smear
 
@@ -298,7 +298,7 @@ therefrom:
 ::: media
 ![](/images/lekt2503.webp)
 Fig.: ⟪लिप्तिः⟫
-(Image source: [Details](/en/licenses#lekt2503))
+(Image source: [Detail](/en/licenses#lekt2503))
 :::
 ⟪वर्ष⟫ n.,m.: rain, rainy season, year
 
@@ -320,7 +320,7 @@ therefrom:
 ::: media
 ![](/images/lekt2504.webp)
 Fig.: ⟪विवाहः⟫
-(Image source: [Details](/en/licenses#lekt2504))
+(Image source: [Detail](/en/licenses#lekt2504))
 :::
 ⟪नी⟫ + ⟪वि⟫ 1U ⟪विनयति⟫ : lead away, instruct, educate
 
@@ -336,7 +336,7 @@ therefrom:
 ::: media
 ![](/images/lekt2505.webp)
 Fig.: ⟪विष्टिः⟫
-(Image source: [Details](/en/licenses#lekt2505))
+(Image source: [Detail](/en/licenses#lekt2505))
 :::
 ⟪वृध्⟫ 1Ā ⟪वर्धते⟫ : grow, become larger
 
@@ -361,7 +361,7 @@ of:
 ::: media
 ![](/images/lekt2506.webp)
 Fig.: ⟪हिरण्यम्⟫
-(Image source: [Details](/en/licenses#lekt2506))
+(Image source: [Detail](/en/licenses#lekt2506))
 :::
 ⟪अणु⟫ ⟪३⟫ : thin, fine, very small ; m.: atom
 
@@ -454,21 +454,21 @@ Explanation: ⟪राजा⟫ = Nom. sg. from ⟪राजन्⟫ m. = ⟪�
 
 2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. on the education of a prince:
 
-⟪तस्माद्दण्डमूला⟫***⟪स्तिस्रो⟫*** ⟪विद्याः⟫ ⟪॥१॥⟫  
-⟪विनयमूलो⟫ ⟪दण्डः⟫ ***⟪प्राणभृतां⟫*** ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
+⟪तस्माद्दण्डमूला⟫**:sig[⟪स्तिस्रो⟫]** ⟪विद्याः⟫ ⟪॥१॥⟫  
+⟪विनयमूलो⟫ ⟪दण्डः⟫ **:sig[⟪प्राणभृतां⟫]** ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
 ⟪कृतकः⟫ ⟪स्वाभाविकश्च⟫ ⟪विनयः⟫ ⟪॥३॥⟫  
 ⟪क्रिया⟫ ⟪हि⟫ ⟪द्रव्यं⟫ ⟪विनयति⟫ ⟪नाद्रव्यम्⟫ ⟪॥४॥⟫  
-⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ ***⟪नेतरम्⟫*** ⟪॥५॥⟫  
+⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ **:sig[⟪नेतरम्⟫]** ⟪॥५॥⟫  
 ... ⟪॥⟫  
-⟪वृत्तचौल⟫***⟪कर्मा⟫*** ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫***⟪पयुन्ञ्जीत⟫*** ⟪॥७॥⟫  
-⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ ***⟪वक्तृप्रयोक्तृभ्यः⟫*** ⟪॥८॥⟫  
-⟪ब्रह्मचर्यं⟫ ⟪चा⟫ ***⟪षोडशाद्व⟫***⟪र्षाद्⟫ ⟪॥९॥⟫  
-⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫***⟪कर्म⟫*** ⟪चास्य⟫ ⟪॥१०॥⟫  
+⟪वृत्तचौल⟫**:sig[⟪कर्मा⟫]** ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫**:sig[⟪पयुन्ञ्जीत⟫]** ⟪॥७॥⟫  
+⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ **:sig[⟪वक्तृप्रयोक्तृभ्यः⟫]** ⟪॥८॥⟫  
+⟪ब्रह्मचर्यं⟫ ⟪चा⟫ **:sig[⟪षोडशाद्व⟫]**⟪र्षाद्⟫ ⟪॥९॥⟫  
+⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫**:sig[⟪कर्म⟫]** ⟪चास्य⟫ ⟪॥१०॥⟫  
 ⟪नित्यश्च⟫ ⟪विद्यावृद्धसंयोगो⟫ ⟪विनयवृद्ध्यर्थम्⟫, ⟪तन्मूलत्वाद्विनयस्य⟫ ⟪॥११॥⟫  
 ... ⟪॥⟫  
-⟪श्रुता⟫***⟪द्धि⟫*** ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫***⟪दात्मवत्ते⟫***⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
+⟪श्रुता⟫**:sig[⟪द्धि⟫]** ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫**:sig[⟪दात्मवत्ते⟫]**⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
 ... ⟪॥⟫  
-⟪कामक्रोधलोभमानमदहर्षत्यागा⟫***⟪त्कार्यः⟫*** ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
+⟪कामक्रोधलोभमानमदहर्षत्यागा⟫**:sig[⟪त्कार्यः⟫]** ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
 Penjelasan kata-kata yang disorot merah dalam teks di atas:
 
@@ -478,13 +478,13 @@ Penjelasan kata-kata yang disorot merah dalam teks di atas:
 
 1.5.5.  ⟪इतरम्⟫ accusative singular masculine, from ⟪इतर⟫ ⟪३⟫ "other"
 
-1.5.7. ⟪कर्मा⟫ : nominative singular masculine, from ⟪कर्मन्⟫ neuter "deed, work" ; ⟪उपयुञ्जीत⟫ : Optative 3rd singular Middle Voice, from upa-yuj 7 "to appropriate": "he should appropriate"
+1.5.7. :sig[⟪कर्मा⟫] : nominative singular masculine, from ⟪कर्मन्⟫ neuter "deed, work" ; ⟪उपयुञ्जीत⟫ : Optatife 3rd singular Middle Voice, from upa-yuj 7 "to appropriate": "he should appropriate"
 
-1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Ablative, Dative plural, from ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "theorists and practitioners"
+1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Ablatife, Datife plural, from ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "theorists and practitioners"
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : "sixteenth"
 
-1.5.10. ⟪कर्म⟫ Nominative, Accusative singular, from ⟪कर्मन्⟫ neuter "deed"
+1.5.10. :sig[⟪कर्म⟫] Nominatife, Accusative singular, from ⟪कर्मन्⟫ neuter "deed"
 
 1.5.16. ⟪धि⟫ Sandhi form, from ⟪हि⟫ ; ⟪आत्मवत्ता⟫ feminine: "self-possession"
 

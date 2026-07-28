@@ -55,7 +55,7 @@ Fig. : ⟪हस्तौ⟫
 :::
 ## 53.3. Le duel des thèmes se terminant par une consonne
 
-### 53.3.1. Stämme ohne Stammabstufung
+### 53.3.1. Tribus sans stratification tribale
 
 ⟪सत्यवाच्⟫ 3 "disant la vérité"
 
@@ -96,13 +96,13 @@ Fig. : ⟪हस्तौ⟫
 ⟪दीर्घायुस्⟫ 3 "durable"
 
 ::: grammar-box
-|   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
+|   | Masculin/Féminin :br ⟪पुंस्⟫/⟪⟪स्त्री⟫ | Neutre :br ⟪नपुंसक⟫ 
 | :---: | :---: | :---: 
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दीर्घायुषौ⟫ | ⟪दीर्घायुषी⟫ 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
 :::
-### 53.3.2. Stämme mit Stammabstufung
+### 53.3.2. Souches avec alternance de la racine
 
 **Participe présent Parasmaipada**
 
@@ -111,7 +111,7 @@ Fig. : ⟪हस्तौ⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
 | :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***⟪भरन्ती⟫ (!)*** 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***:sig[⟪भरन्ती⟫] (!)*** 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ ||
 :::
@@ -205,8 +205,8 @@ Fig. : ⟪भरन्तौ⟫
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ |
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | *⟪देवाभ्याम्⟫* | *⟪फलाभ्याम्⟫* |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *⟪देवयोस्⟫* | *⟪फलयोस्⟫* |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | *:sig[⟪देवाभ्याम्⟫]* | *:sig[⟪फलाभ्याम्⟫]* |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *:sig[⟪देवयोस्⟫]* | *:sig[⟪फलयोस्⟫]* |
 :::
 ::: media
 ![](/images/lekt5306.webp)
@@ -222,7 +222,7 @@ Fig. : ⟪फले⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *⟪अग्नी⟫* | *⟪मती⟫* | ⟪वारिणी⟫ |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *:sig[⟪अग्नी⟫]* | *:sig[⟪मती⟫]* | ⟪वारिणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
@@ -235,13 +235,13 @@ Fig. : ⟪फले⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *⟪शत्रू⟫* | *⟪धेनू⟫* | ⟪मधुनी⟫ |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *:sig[⟪शत्रू⟫]* | *:sig[⟪धेनू⟫]* | ⟪मधुनी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪शत्र्वोस्⟫ | ⟪धेन्वोस्⟫ | ⟪मधुनोस्⟫ |
 :::
 ::: media
 ![](/images/lekt5307.webp)
-Fig. : ⟪धेनू⟫
+Fig. : :sig[⟪धेनू⟫]
 (Source de l'image : [Détails](/fr/licenses#lekt5307))
 :::
 **Racines en -ā**
@@ -251,9 +251,9 @@ Fig. : ⟪धेनू⟫
 ::: grammar-box
 |   | Femininum :br ⟪स्त्री⟫ |
 | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *⟪कन्ये⟫* |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *:sig[⟪कन्ये⟫]* |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *⟪कन्ययोस्⟫* |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *:sig[⟪कन्ययोस्⟫]* |
 :::
 **Racines polysyllabiques en -ī**
 
@@ -273,7 +273,7 @@ Fig. : ⟪धेनू⟫
 ::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
 | :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | *⟪दातृणी⟫* 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | *:sig[⟪दातृणी⟫]* 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
@@ -301,7 +301,7 @@ Exemples :
 
 :::
 ::: indent
-⟪मा⟫***⟪ता⟫***⟪पितरौ⟫ « Mère et père »
+⟪मा⟫**:sig[⟪ता⟫]**⟪पितरौ⟫ « Mère et père »
 :::
 **Il en va de même pour un tel mot de parenté dans un Dvandva avant -⟪पुत्र⟫ :**
 
@@ -311,7 +311,7 @@ Exemples :
 **Lorsque les noms de deux divinités, habituellement mentionnées lors des sacrifices, forment un Dvandva, la voyelle finale du premier membre est généralement allongée :**
 
 ::: indent
-⟪मि⟫***⟪त्रा⟫***⟪वरुणौ⟫ « Mitra et Varuṇa »
+⟪मि⟫**:sig[⟪त्रा⟫]**⟪वरुणौ⟫ « Mitra et Varuṇa »
 **⟪अग्नीसोमौ⟫** « Agni et Soma »
 :::
 **Cette allongement vocalique se produit également dans d'autres Dvandva.**
@@ -394,8 +394,8 @@ Exemples :
 ::: grammar-box
 | Adjectif | Comparatif | Superlatif |
 | --- | --- 
-| ⟪पाप⟫ 3 "mauvais" | ⟪पा⟫*⟪पी⟫*⟪यस्⟫ | ⟪पा⟫*⟪पि⟫*⟪ष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "grand" | ⟪म⟫*⟪ही⟫*⟪यस्⟫ | ⟪म⟫*⟪हि⟫*⟪ष्ठ⟫ |
+| ⟪पाप⟫ 3 "mauvais" | ⟪पा⟫*:sig[⟪पी⟫]*⟪यस्⟫ | ⟪पा⟫*:sig[⟪पि⟫]*⟪ष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "grand" | ⟪म⟫*:sig[⟪ही⟫]*⟪यस्⟫ | ⟪म⟫*:sig[⟪हि⟫]*⟪ष्ठ⟫ |
 :::
 ::: grammar-box
 **Règle 2 :** **Les suffixes possessifs (-mant, vant, -vin, -in, etc.) tombent. Si la partie restante ne consiste qu'en une seule syllabe, elle n'est pas modifiée davantage, seules les modifications phonétiques dues à la connexion avec le suffixe possessif sont annulées. Si le reste consiste cependant en plus d'une syllabe, la règle 1 s'applique.**
@@ -405,9 +405,9 @@ Exemples :
 ::: grammar-box
 | Adjectif | Comparatif | Superlatif |
 | --- | --- 
-| ⟪धनवन्त्⟫ 3 "riche" | ⟪ध⟫*⟪नी⟫*⟪यस्⟫ | ⟪ध⟫*⟪नि⟫*⟪ष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(particulièrement) fort" | ⟪ब⟫*⟪ली⟫*⟪यस्⟫ | ⟪ब⟫*⟪लि⟫*⟪ष्ठ⟫ |
-| ⟪वसुमन्त्⟫ "possédant des biens" | ⟪व⟫*⟪सी⟫*⟪यस्⟫ | ⟪व⟫*⟪सि⟫*⟪ष्ठ⟫ |
+| ⟪धनवन्त्⟫ 3 "riche" | ⟪ध⟫*:sig[⟪नी⟫]*⟪यस्⟫ | ⟪ध⟫*:sig[⟪नि⟫]*⟪ष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(particulièrement) fort" | ⟪ब⟫*:sig[⟪ली⟫]*⟪यस्⟫ | ⟪ब⟫*:sig[⟪लि⟫]*⟪ष्ठ⟫ |
+| ⟪वसुमन्त्⟫ "possédant des biens" | ⟪व⟫*:sig[⟪सी⟫]*⟪यस्⟫ | ⟪व⟫*:sig[⟪सि⟫]*⟪ष्ठ⟫ |
 :::
 ::: grammar-box
 **Règle 3 :** **Pour -ṛ-, précédé d'une voyelle initiale et suivi d'un seul consonne, -ra- est substitué.**
@@ -473,7 +473,7 @@ Fig. : ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | ⟪पञ्चमी⟫ | ⟪गरीयसस्⟫ || ^^ || ^^ ||
 | ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
 | ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
-| ⟪आमन्त्रितम्⟫ | *⟪गरीयान्⟫* | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+| ⟪आमन्त्रितम्⟫ | *:sig[⟪गरीयान्⟫]* | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
 :::
 ## 53.10. Metrik (Lehre von den Versmaßen)
 

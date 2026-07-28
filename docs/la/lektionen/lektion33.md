@@ -32,10 +32,10 @@ Exempla:
 * 3.sg.P.Ind.Präs. **⟪ददाति⟫**
 
 **⟪पॄ⟫** 3 "implere"
-* 3.sg.P.Ind.Präs. ***⟪पि⟫***⟪पर्ति⟫
+* 3.sg.P.Ind.Präs. **:sig[⟪पि⟫]**⟪पर्ति⟫
 
 **⟪मा⟫** 3Ā "mensurare"
-* 3.sg.Ā.Ind.Präs. ***⟪मि⟫***⟪मीते⟫
+* 3.sg.Ā.Ind.Präs. **:sig[⟪मि⟫]**⟪मीते⟫
 :::
 ::: grammar-box
 **2. Consonans initialis aspirata radicis per consonantem non-aspiratam correspondentem reduplicatur.**
@@ -43,11 +43,11 @@ Exempla:
 Exempla:
 
 ::: indent
-**⟪धा⟫** 3 "ponere"
-* 3.sg.P.Ind.Präs. **⟪दधाति⟫**
+**:sig[⟪धा⟫]** 3 "ponere"
+* 3.sg.P.Ind.Präs. **:sig[⟪दधाति⟫]**
 
 **⟪भी⟫** 3 "timere"
-* 3.sg.P.Ind.Præs. ***⟪बि⟫***⟪भेति⟫
+* 3.sg.P.Ind.Præs. **:sig[⟪बि⟫]**⟪भेति⟫
 :::
 ::: grammar-box
 **3. Gutturalis per non-aspiratum palatalem sibi correspondentem reduplicatur:**
@@ -94,7 +94,7 @@ Exemplum:
 ::: grammar-box
 * **Vocalis reduplicationis regularis est -i-**
 * **Radices u-tenentes reduplicant cum -u-**
-* **radices ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ cum -a-**
+* **radices ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ cum -a-**
 :::
 Exempla:
 
@@ -124,11 +124,11 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 * **Gradus profundus**
   * **ante consonantem: -i-**
-    exempli gratia **⟪धा⟫** participium perfecti passivi: **⟪हित⟫** (hi-ta)
+    exempli gratia **:sig[⟪धा⟫]** participium perfecti passivi: **:sig[⟪हित⟫]** (hi-ta)
   * **ante vocalem: Ø**
-    exempli gratia **⟪धा⟫** 3.pl.P.Ind.Præs. **⟪दधति⟫** (dadh-ati)
+    exempli gratia **:sig[⟪धा⟫]** 3.pl.P.Ind.Præs. **⟪दधति⟫** (dadh-ati)
 * **Gradus altus: -ā-**
-  exempli gratia **⟪धा⟫** 3.sg.P.Ind.Præs. **⟪दधाति⟫**
+  exempli gratia **:sig[⟪धा⟫]** 3.sg.P.Ind.Præs. **:sig[⟪दधाति⟫]**
 :::
 Huc pertinent, exempli gratia, quoque:
 
@@ -148,7 +148,7 @@ Huc pertinent, exempli gratia, quoque:
 ## 33.4. Radices in -ā classis praesentis tertiae
 
 ::: grammar-box
-**Radices in -ā (praeter ⟪दा⟫ et ⟪धा⟫) in gradu debili solent terminari in -ī-** (vide Thumb-Hauschild Vol. 1,1 p. 271. Verisimile est seriem ablautus supra nominatam B exemplum praebuisse, quamvis haec radices post seriem A ablautent), **ante terminationes vocales radix vocalis penitus evanescit (vide seriem ablautus A).**
+**Radices in -ā (praeter ⟪दा⟫ et :sig[⟪धा⟫]) in gradu debili solent terminari in -ī-** (vide Thumb-Hauschild Vol. 1,1 p. 271. Verisimile est seriem ablautus supra nominatam B exemplum praebuisse, quamvis haec radices post seriem A ablautent), **ante terminationes vocales radix vocalis penitus evanescit (vide seriem ablautus A).**
 :::
 Exempla:
 
@@ -170,15 +170,15 @@ Exempla:
 | **Imperfectum** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativus** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Radices **⟪दा⟫** et **⟪धा⟫**
+### 33.4.1. Radices **⟪दा⟫** et **:sig[⟪धा⟫]**
 
 ::: grammar-box
-**Radices ⟪दा⟫ et ⟪धा⟫ reduplicantur vocali -a- et in stemmate infirmiori vocalem radicalis amittunt.**
+**Radices ⟪दा⟫ et :sig[⟪धा⟫] reduplicantur vocali -a- et in stemmate infirmiori vocalem radicalis amittunt.**
 
-**Notate bei ⟪धा⟫ das Hauchdissimilationsgesetz!**
+**Notate bei :sig[⟪धा⟫] das Hauchdissimilationsgesetz!**
 :::
 ::: grammar-box
-**⟪धा⟫** 3U "setzen, festsetzen, zuteilen"
+**:sig[⟪धा⟫]** 3U "setzen, festsetzen, zuteilen"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -186,7 +186,7 @@ Exempla:
 | **Imperfectum** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativus** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Formae **⟪दा⟫** obtinentur, cum in paradigma **⟪धा⟫** **dh** per **d** mutatur. Ita:
+Formae **⟪दा⟫** obtinentur, cum in paradigma **:sig[⟪धा⟫]** **dh** per **d** mutatur. Ita:
 
 ::: grammar-box
 **⟪दा⟫** 3U "dare"
@@ -248,16 +248,16 @@ Fig.: ⟪दानम्⟫
 Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Fons imaginis: [Detalia](/la/licenses#lekt3307))
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: ponere, constituere, dividere
+**:sig[⟪धा⟫]** 3U **:sig[⟪दधाति⟫]**: ponere, constituere, dividere
 
 ::: indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Kaus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫***
+**Fut.** **:sig[⟪धास्यति⟫]**  
+**Pass.** **:sig[⟪धीयते⟫]**  
+**Kaus.** **:sig[⟪धापयति⟫]**  
+**PPP** **:sig[⟪हित⟫]** (!!)  
+**Inf.** **:sig[⟪धातुम्⟫]**
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: omnem attentionem in aliquid conferre, se colligere
+**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: omnem attentionem in aliquid conferre, se colligere
 
 ::: indent
 ex quo:
@@ -273,10 +273,10 @@ Abb.: ⟪समाधि⟫
 
 ::: indent
 Memento:
-3.pl.P ***⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪अपिपर्⟫*** (ex: \*apipart)  
-3.pl.Impf.P ***⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪पिपूर्यात्⟫***
+3.pl.P **:sig[⟪पिपुरति⟫]**  
+3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (ex: \*apipart)  
+3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  

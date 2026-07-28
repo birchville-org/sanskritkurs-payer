@@ -38,7 +38,7 @@ status: stable
 ::: grammar-box
 **Dacă un k/g final al rădăcinii se află între nasalul ṅ și un dental al terminației, atunci k/g poate cădea în mod opțional**
 
-de ex. **⟪युज्⟫** 3.sg.Ind.Prez.Ā ⟪युङ्क्ते⟫ sau ⟪यु⟫***⟪ङ्ते⟫***
+de ex. **⟪युज्⟫** 3.sg.Ind.Prez.Ā ⟪युङ्क्ते⟫ sau ⟪यु⟫**:sig[⟪ङ्ते⟫]**
 :::
 ⟪युज्⟫ 7U
 

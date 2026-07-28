@@ -392,7 +392,7 @@ Les Sept Étoiles = les sept étoiles les plus brillantes de la Grande Ourse (Ur
 
 2.  le composé ainsi formé est utilisé dans un sens qui est autrement désigné par un suffixe Taddhita (dans ce type, la transition vers le Bahuvrīhi est fluide) :  
     Exemples :  
-    dvi + go » ⟪द्विगु⟫ : non : "deux vaches", mais : "**acquis pour deux vaches**"  
+    dvi + go » :sig[⟪द्विगु⟫] : non : "deux vaches", mais : "**acquis pour deux vaches**"  
     ⟪द्विवर्ष⟫ non : "deux ans", mais : "**âgé de deux ans**"  
 
 3.  le composé ainsi formé constitue le premier membre d'un autre composé  

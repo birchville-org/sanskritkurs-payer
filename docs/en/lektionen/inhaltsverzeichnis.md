@@ -475,7 +475,7 @@
 
 ## [Lesson 39](lektion39)
 
-*   39\.1. The Personal Endings of the First Person (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**third** Person")
+*   39\.1. The Personal Endings of the First Person (**⟪तृतीयः⟫** ⟪पुरुषः⟫ = "**third** Person")
 *   39\.2. Formation of the verb forms of the first person thematic present stems
     *   39\.2.1. First Present Class (⟪भ्वादि⟫)
     *   39\.2.2. Sixth Present Class (⟪तुदादि⟫)

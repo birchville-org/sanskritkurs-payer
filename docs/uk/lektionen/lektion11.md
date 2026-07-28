@@ -68,7 +68,7 @@ status: stable
 ::: media
 ![](/images/lekt1102.webp)
 Рис.: **vadanāni** = ⟪वदनानि⟫, район Джалмпур, Бангладеш.
-(Джерело зображення: [Details](/uk/licenses#lekt1102))
+(Джерело зображення: [Деталі](/uk/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : запитувати
   - **praśna** m. ⟪प्रश्न⟫ : питання (суфікс **-na** як у **yaj-ña**)
@@ -102,7 +102,7 @@ status: stable
 ::: media
 ![](/images/lekt1101.webp)
 Рис.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
-(Джерело зображення: [Details](/uk/licenses#lekt1101))
+(Джерело зображення: [Деталі](/uk/licenses#lekt1101))
 :::
 
 ## 11.4. Вправа на повторення
@@ -143,5 +143,5 @@ status: stable
 ::: media
 ![](/images/lekt1103.webp)
 Рис.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
-(Джерело зображення: [Details](/uk/licenses#lekt1103))
+(Джерело зображення: [Деталі](/uk/licenses#lekt1103))
 :::

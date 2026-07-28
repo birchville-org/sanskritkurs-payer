@@ -159,7 +159,7 @@ Ergebnis: ⟪भृत्यः⟫ ⟪कटं⟫ ⟪करोति⟫ = "Der 
 ⟪रामेण⟫ ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हार्यते⟫ = "Rāma lässt den Diener die Last holen"
 Ergebnis: ⟪भृत्यो⟫ ⟪भारं⟫ ⟪हरति⟫ = "Der Diener holt die Last" <!-- TODO: Fallback translation -->
 
-## 28.3. Bildung des Präsensstamms zum Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫)
+## 28.3. Bildung des Präsensstamms zum Kausativ (⟪णि⟫, ⟪णिच्⟫, ⟪कारित⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **An den Kausativstamm treten die thematischen Endungen des Präsensstamms** <!-- TODO: Fallback translation -->
@@ -228,7 +228,7 @@ Anmerkungen: <!-- TODO: Fallback translation -->
 1. **ghātayati** ist in Wirklichkeit ein Verb, das vom Substantiv **ghāta** m. "Schlag" abgeleitet ist (denominativum) und anstelle des Kausativums von **han** verwendet wird. <!-- TODO: Fallback translation -->
 2. **pālayati** ist ein echtes Kausativum, allerdings zur Wurzel **pṛ** 3 "hinüberbringen, retten, schützen": **pārayati** (pār-aya-ti) » **pālayati** (in einigen Gegenden Indiens entspricht dem r ein l, in anderen umgekehrt dem l ein r). <!-- TODO: Fallback translation -->
 
-## 28.4. Bildung des 被动语态s (⟪यक्⟫) zum Kausativ
+## 28.4. Bildung des 被动语态s (⟪यक्⟫) zum Kausativ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Das Passiv zum Kausativ wird so gebildet:** <!-- TODO: Fallback translation -->
@@ -241,7 +241,7 @@ Beispiele:
 :::
 Während das Passiv zur ursprünglichen Wurzel meist von der tiefstufigen Wurzel gebildet wird, kann man das Passiv des Kausativums meist daran erkennen, dass es von der hoch- bzw. dehnstufigen Wurzel gebildet wird. <!-- TODO: Fallback translation -->
 
-## 28.5. Bildung des Futurs (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) zum Kausativ
+## 28.5. Bildung des Futurs (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) zum Kausativ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Das Futur des Kausativs wird vom Kausativstamm gebildet, dabei fällt das auslautende -a- des Kausativsuffixes aus:** <!-- TODO: Fallback translation -->
@@ -252,7 +252,7 @@ Beispiel:
 **budh** Futur-Kausativ: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "er/sie/es wird aufwecken" <!-- TODO: Fallback translation -->
 :::
 
-## 28.6. Bildung des PPP (⟪क्त⟫) zum Kausativ
+## 28.6. Bildung des PPP (⟪क्त⟫) zum Kausativ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Kausativstamm auf -ay- (ohne auslautendes a) + -i- + -ta** <!-- TODO: Fallback translation -->
@@ -262,7 +262,7 @@ Beispiele:
 **sthā** — **sthāpayati** — **sthāpita** (sthāp-i-ta) "aufgestellt" <!-- TODO: Fallback translation -->
 :::
 
-## 28.7. Bildung des Absolutivs (⟪क्त्वा⟫ . ⟪ल्यप्⟫) zum Kausativ
+## 28.7. Bildung des Absolutivs (⟪क्त्वा⟫ . ⟪ल्यप्⟫) zum Kausativ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Das Absolutivum auf -tvā wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:** <!-- TODO: Fallback translation -->
@@ -286,7 +286,7 @@ Beispiel:
 **āgam** — **āgamayati** — **āgamayya** (ā-gamay-ya) "nachdem er kommen gelassen hat" <!-- TODO: Fallback translation -->
 :::
 
-## 28.8. Bildung des Infinitivs (⟪तुमुन्⟫) zum Kausativ
+## 28.8. Bildung des Infinitivs (⟪तुमुन्⟫) zum Kausativ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Der Infinitiv zum Kausativ wird vom Kausativstamm auf -ay- (ohne auslautendes a) gebildet:** <!-- TODO: Fallback translation -->

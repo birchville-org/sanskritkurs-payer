@@ -1,9 +1,9 @@
 ---
-title: ምዕራፍ 22
-subtitle: "አብሶሉቲቩም (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
+title: Lektion 22
+subtitle: "Das Absolutivum (⟪क्त्वा⟫ ⟪।⟫ ⟪ल्यप्⟫)"
 lesson_id: 22
 last_reconstructed: 2026-05-21
-category: "ሰዋስው"
+category: "Grammatik"
 status: stable
 ---
 
@@ -143,6 +143,8 @@ status: stable
 :::
 ::: media
 ![](/images/lekt2202.webp)
+Abb.: ⟪कामदेवः⟫ → ምስል፦ ⟪कामदेवः⟫
+19. Jhdt → 19ኛው ክፍለ ዘመን
 ምስል፦ ⟪कामदेवः⟫
 19ኛው ክፍለ ዘመን
 (የምስሉ ምንጭ፦ [ዝርዝሮች](/licenses#lekt2202))

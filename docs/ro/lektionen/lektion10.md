@@ -227,11 +227,11 @@ de ex.
 
 - **puṇya** n. ⟪पुण्य⟫ : faptă bună, merit
 
-::: note-box
+  ::: note-box
 Ceea ce câștigă bunăstare și nașteri bune în reîncarnări.
   :::
 
--   Prin care câștigi bunăstare și nașteri bune ulterioare.
+- Prin care câștigi bunăstare și nașteri bune ulterioare.
 - **satya** n. ⟪सत्य⟫ : adevăr
 
 ::: note-box

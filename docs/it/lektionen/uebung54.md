@@ -19,7 +19,7 @@ Formate le corrispondenti forme di aoristo dalle seguenti forme di presente o pe
 | ⟪४⟫. | **⟪बभूव⟫** | io / egli / voi foste / foste | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
 | ⟪५⟫. | **⟪दधति⟫** | essi pongono | **⟪अधुः⟫** |
 | ⟪६⟫. | **⟪ऐम⟫** | noi andammo | **⟪अगाम⟫** |
-| ⟪७⟫. | **⟪पपिथ⟫** | tu hai bevuto / custodito | **⟪अपाः⟫** (a *⟪पा⟫* "bere") |
+| ⟪७⟫. | **⟪पपिथ⟫** | tu hai bevuto / custodito | **⟪अपाः⟫** (a *:sig[⟪पा⟫]* "bere") |
 | ⟪८⟫. | **⟪तिष्ठति⟫** | egli sta | **⟪अस्थात्⟫** |
 | ⟪९⟫. | **⟪इयेथ⟫** | tu sei andato | **⟪अगाः⟫** |
 | ⟪१०⟫. | **⟪पप⟫** | voi avete bevuto | **⟪अपात⟫** |

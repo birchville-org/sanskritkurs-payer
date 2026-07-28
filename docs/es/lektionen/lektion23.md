@@ -86,7 +86,7 @@ Entre las raíces aprendidas hasta ahora, se deben tener en cuenta especialmente
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Raízn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. El infinitivo (⟪तुमुन्⟫) de las raíces aprendidas hasta ahora
 

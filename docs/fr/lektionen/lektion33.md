@@ -42,11 +42,11 @@ le fréquentatif et
 Exemples :
 
 ::: indent
-**⟪धा⟫** 3 « mettre »
-* 3.sg.P.Ind.Prés. **⟪दधाति⟫**
+**:sig[⟪धा⟫]** 3 « mettre »
+* 3.sg.P.Ind.Prés. **:sig[⟪दधाति⟫]**
 
 **⟪भी⟫** 3 « craindre »
-* 3.sg.P.Ind.Prés. ***⟪बि⟫***⟪भेति⟫
+* 3.sg.P.Ind.Prés. **:sig[⟪बि⟫]**⟪भेति⟫
 :::
 ::: grammar-box
 **3. Un guttural est redoublé par son palatal non-aspiré correspondant :**
@@ -123,11 +123,11 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 * **Degré faible**
   * **devant consonne : -i-**  
-    ex. **⟪धा⟫** PPP : **⟪हित⟫** (hi-ta)
+    ex. **:sig[⟪धा⟫]** PPP : **:sig[⟪हित⟫]** (hi-ta)
   * **devant voyelle : Ø**  
-    ex. **⟪धा⟫** 3.pl.P.Ind.Présent. **⟪दधति⟫** (dadh-ati)
+    ex. **:sig[⟪धा⟫]** 3.pl.P.Ind.Présent. **⟪दधति⟫** (dadh-ati)
 * **Degré fort : -ā-**  
-  ex. **⟪धा⟫** 3.sg.P.Ind.Présent. **⟪दधाति⟫**
+  ex. **:sig[⟪धा⟫]** 3.sg.P.Ind.Présent. **:sig[⟪दधाति⟫]**
 :::
 Ici appartiennent par ex. aussi :
 
@@ -147,7 +147,7 @@ Ici appartiennent par ex. aussi :
 ## 33.4. Racines en -ā de la troisième classe de présent
 
 ::: grammar-box
-**Les racines en -ā (sauf ⟪दा⟫ et ⟪धा⟫) ont généralement un thème faible se terminant par -ī-** (voir Thumb-Hauschild Vol. 1,1 p. 271. Il est probable que la série d’ablaut B mentionnée ci-dessus ait servi de modèle, bien que ces racines suivent autrement la série A), **devant les terminaisons vocaliques, la voyelle de la racine disparaît complètement (voir série d’ablaut A).**
+**Les racines en -ā (sauf ⟪दा⟫ et :sig[⟪धा⟫]) ont généralement un thème faible se terminant par -ī-** (voir Thumb-Hauschild Vol. 1,1 p. 271. Il est probable que la série d’ablaut B mentionnée ci-dessus ait servi de modèle, bien que ces racines suivent autrement la série A), **devant les terminaisons vocaliques, la voyelle de la racine disparaît complètement (voir série d’ablaut A).**
 :::
 Exemples :
 
@@ -169,15 +169,15 @@ Exemples :
 | **Imparfait** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optatif** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Les racines **⟪दा⟫** et **⟪धा⟫**
+### 33.4.1. Les racines **⟪दा⟫** et **:sig[⟪धा⟫]**
 
 ::: grammar-box
-**Les racines en -ā (sauf ⟪दा⟫ et ⟪धा⟫) ont généralement un thème faible se terminant par -ī-** (voir Thumb-Hauschild Vol. 1,1 p. 271. Il est probable que la série d’ablaut B mentionnée ci-dessus ait servi de modèle, bien que ces racines suivent autrement la série A), **devant les terminaisons vocaliques, la voyelle de la racine disparaît complètement (voir série d’ablaut A).**
+**Les racines en -ā (sauf ⟪दा⟫ et :sig[⟪धा⟫]) ont généralement un thème faible se terminant par -ī-** (voir Thumb-Hauschild Vol. 1,1 p. 271. Il est probable que la série d’ablaut B mentionnée ci-dessus ait servi de modèle, bien que ces racines suivent autrement la série A), **devant les terminaisons vocaliques, la voyelle de la racine disparaît complètement (voir série d’ablaut A).**
 
-**Notez la règle de dissimilation de l’aspiration pour ⟪धा⟫ !**
+**Notez la règle de dissimilation de l’aspiration pour :sig[⟪धा⟫] !**
 :::
 ::: grammar-box
-**⟪धा⟫** 3U "établir, fixer, attribuer"
+**:sig[⟪धा⟫]** 3U "établir, fixer, attribuer"
 
 | | 3. sg. Ā. | 3. pl. Ā. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -185,7 +185,7 @@ Exemples :
 | **Imparfait** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optatif** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Les formes de **⟪दा⟫** s'obtiennent en remplaçant **dh** par **d** dans le paradigme de **⟪धा⟫**. Ainsi :
+Les formes de **⟪दा⟫** s'obtiennent en remplaçant **dh** par **d** dans le paradigme de **:sig[⟪धा⟫]**. Ainsi :
 
 ::: grammar-box
 **⟪दा⟫** 3U «donner»
@@ -247,16 +247,16 @@ Fig. : ⟪दानम्⟫
 Fig. : ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Source de l'image : [Détails](/fr/licenses#lekt3307))
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫*** : placer, fixer, attribuer
+**:sig[⟪धा⟫]** 3U **:sig[⟪दधाति⟫]** : placer, fixer, attribuer
 
 ::: indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Kaus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫***
+**Fut.** **:sig[⟪धास्यति⟫]**  
+**Pass.** **:sig[⟪धीयते⟫]**  
+**Kaus.** **:sig[⟪धापयति⟫]**  
+**PPP** **:sig[⟪हित⟫]** (!!)  
+**Inf.** **:sig[⟪धातुम्⟫]**
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫** : diriger toute l'attention sur quelque chose, se recueillir
+**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫** : diriger toute l'attention sur quelque chose, se recueillir
 
 ::: indent
 dont :
@@ -272,10 +272,10 @@ Fig. : ⟪समाधि⟫
 
 ::: indent
 Retenir :
-3.pl.P ***⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪अपिपर्⟫*** (de : \*apipart)  
-3.pl.Impf.P ***⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪पिपूर्यात्⟫***
+3.pl.P **:sig[⟪पिपुरति⟫]**  
+3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (de : \*apipart)  
+3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  

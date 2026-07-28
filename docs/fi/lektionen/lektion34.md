@@ -209,7 +209,7 @@ Riisipellot Intiassa.
 ![](/images/lekt3405.webp)
 Kuva: ⟪लक्षद्वीपाः⟫
 Lakshadweep-saarten kartta.
-(Kuv lähde: [Details](/fi/licenses#lekt3405))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3405))
 :::
 **⟪मर्त्य⟫ 3:** kuolevainen (sanasta ⟪मृ⟫)
 
@@ -219,14 +219,14 @@ Lakshadweep-saarten kartta.
 ![](/images/lekt3403.webp)
 Kuva: ⟪तिलाः⟫
 Sesamin siemeniä.
-(Kuv lähde: [Details](/fi/licenses#lekt3403))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3403))
 :::
 
 ::: media
 ![](/images/lekt3404.webp)
 Kuva: Sesamum indicum L.
 Sesamikasvin kukinta.
-(Kuv lähde: [Details](/fi/licenses#lekt3404))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3404))
 :::
 **⟪स्वर्ण⟫ n.:** (kaunisvärisen =) kulta
 
@@ -250,7 +250,7 @@ Kulttemppeli (Harmandir Sahib), Amritsar.
 ![](/images/lekt3401.webp)
 Kuv.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
-(Kuv lähde: [Details](/fi/licenses#lekt3401))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3401))
 :::
 **⟪यम्⟫ 1P ⟪यच्छति⟫ :** pidättää, pitää, tarjota, myöntää
 
@@ -318,7 +318,7 @@ Selitykset:
 
 ⟪चतुर्दश⟫ neljätoista
 
-⟪सप्त⟫ seitsemän
+:sig[⟪सप्त⟫] seitsemän
 
 ⟪जन्म⟫ nominatiivi/akkusatiivi sg. sanalle **⟪जन्मन्⟫ n.** syntyminen
 

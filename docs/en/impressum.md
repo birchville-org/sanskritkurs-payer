@@ -27,8 +27,8 @@ This text is part of the Sanskrit department of **Tüpfli's Global Village Libra
 
 **AI-generated translations** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) and **technical pipeline** (scripts, QA viewer, VitePress configuration):
 
-- Translations: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Attribution, ShareAlike
-- Code/Pipeline: [MIT License](https://opensource.org/licenses/MIT)
+- Translations: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Attribution, ShareAlike
+- Code/Pipeline: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
 
 **Citation for the translations:**
-> Payer, Alois: Sanskritkurs. Translated with AI assistance. Marco Demarmels (ed.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: Sanskritkurs. Translated with AI assistance. Marco Demarmels (ed. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0

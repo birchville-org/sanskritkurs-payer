@@ -27,7 +27,7 @@ Before -tha, no connecting vowel \-i- occurs with most roots ending in -ṛ. Wit
 ### 46.1.2. Sound change of the ending -dhve
 
 ::: grammar-box
-Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
+Die Ending -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
 ### 46.1.3. Perfect Type I: No Stem Grade Changes
 
@@ -347,14 +347,14 @@ therefrom:
 ⟪विषम⟩ 3: unequal, uneven, evil
 
 :::
-⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : seize, grasp, take hold of
+⟪ग्रह्⟫ 9U **:sig[⟪गृ⟫]**⟪ह्णाति⟫ (gṛh-ṇā-ti) : seize, grasp, take hold of
 
 ::: indent
 Perfect Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Fut. ⟪ग्र⟫***⟪ही⟫***⟪ष्यति⟫  
+Fut. ⟪ग्र⟫**:sig[⟪ही⟫]**⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
 Caus.⟪ग्राहयति⟫  
-PPP ⟪गृ⟫***⟪ही⟫***⟪त⟫  
+PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫  
 Inf. ⟪ग्रहितुम्⟫  
 Absol. -⟪ग्राह्य⟫
 therefrom:
@@ -430,8 +430,8 @@ Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](
 Perfect II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Fut. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
-Caus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***⟪प⟫***⟪यति⟫  
-PPP. ***⟪रूढ⟫***  
+Caus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫**:sig[⟪प⟫]**⟪यति⟫  
+PPP. **:sig[⟪रूढ⟫]**  
 Inf. ⟪रोढुम्⟫
 
 :::
@@ -466,14 +466,14 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 ⟪भ्रंश⟫ m.: falling away
 
-⟪श्रम्⟫ 4P ***⟪श्रा⟫***⟪म्यति⟫ : toil, become tired
+⟪श्रम्⟫ 4P **:sig[⟪श्रा⟫]**⟪म्यति⟫ : toil, become tired
 
 ::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫
 Fut. ⟪श्रमिष्यति⟫
 Pass. ⟪श्रम्यते⟫
 Kaus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫
-PPP ***⟪श्रान्⟫***⟪त⟫
+PPP **:sig[⟪श्रान्⟫]**⟪त⟫
 Inf. ⟪श्रमितुम्⟫
 Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
 thereof:
@@ -496,7 +496,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : to attach, to adhere to (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P **:sig[⟪सज⟫]**⟪ति⟫ : to attach, to adhere to (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫
@@ -526,13 +526,13 @@ Inf. ⟪द्रोतुम्⟫
 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : to wander, to roam
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P **:sig[⟪भ्रा⟫]**⟪म्यति⟫ : to wander, to roam
 
 ::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫
 Fut. ⟪भ्रमिष्यति⟫
 Kaus. ⟪भ्रमयति⟫
-PPP ***⟪भ्रा⟫***⟪न्त⟫
+PPP **:sig[⟪भ्रा⟫]**⟪न्त⟫
 Inf. ⟪भ्रमितुम्⟫
 Absol. -⟪भ्रम्य⟫
 thereof:
@@ -570,10 +570,10 @@ PPP ⟪परिभूत⟫ 3: defeated, humiliated, abased
 
 ::: indent
 e.g.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : to sit down
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫**:sig[⟪षी⟫]**⟪दति⟫ : to sit down
 
 :::
-⟪भोस्⟫ vocative particle: exclamation of address, e.g.: hey, heda, oh, ei, hello, hi! often not translatable. This particle has a special sandhi: before all voiced sounds, it is ***⟪भो⟫***.
+⟪भोस्⟫ vocative particle: exclamation of address, e.g.: hey, heda, oh, ei, hello, hi! often not translatable. This particle has a special sandhi: before all voiced sounds, it is **:sig[⟪भो⟫]**.
 
 ::: media
 ![](/images/lekt4611.webp)

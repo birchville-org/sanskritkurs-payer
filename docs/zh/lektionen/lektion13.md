@@ -22,7 +22,7 @@ pad 4 Ā PPP: panna 3 = ⟪पन्न⟫ <!-- TODO: Fallback translation -->
 
 :::
 
-## 13.2. Weiteres zum Gebrauch des PPP
+## 13.2. Weiteres zum Gebrauch des PPP <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -62,7 +62,7 @@ Beispiel: <!-- TODO: Fallback translation -->
 ⟪साधुरिष्टं⟫ ⟪फलं⟫ ⟪पश्यति⟫ = "Ein Heiliger sieht die erwünschte Frucht (seiner Werke)." <!-- TODO: Fallback translation -->
 :::
 
-## 13.4. Bildung von Adjektiven auf -mant und -vant (taddhita)
+## 13.4. Bildung von Adjektiven auf -mant und -vant (taddhita) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -119,7 +119,7 @@ Zum Verständnis der einzelnen Formen der Deklination von Nomina auf -mant und -
     -c + dh- » -g-dh- ⟪ग्ध्⟫ <!-- TODO: Fallback translation -->
 :::
 
-## 13.7. Kasusendungen konsonantischer Stämme
+## 13.7. Kasusendungen konsonantischer Stämme <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -130,7 +130,7 @@ Bei konsonantisch auslautenden Stämmen: <!-- TODO: Fallback translation -->
 
 :::
 
-## 13.8. Deklination der Stämme auf -mant und -vant
+## 13.8. Deklination der Stämme auf -mant und -vant <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 

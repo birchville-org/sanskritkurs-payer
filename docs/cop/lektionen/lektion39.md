@@ -9,9 +9,9 @@ status: stable
 
 # ⲙⲁⲑⲏⲙⲁ 39
 
-## 39.1. ⲧⲉⲗⲉⲓⲱⲥⲓⲥ ⲛ̄ⲧⲉ ⲡⲓⲣⲱⲙⲓ ⲛ̄ϣⲟⲣⲡ (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**ϣⲟⲙⲧ** ⲛ̄ⲣⲱⲙⲓ")
+## 39.1. ⲧⲉⲗⲉⲓⲱⲥⲓⲥ ⲛ̄ⲧⲉ ⲡⲓⲣⲱⲙⲓ ⲛ̄ϣⲟⲣⲡ (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪पुरुषः⟫ = "**ϣⲟⲙⲧ** ⲛ̄ⲣⲱⲙⲓ")
 
-Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**dritte** Person") sind: <!-- TODO: Fallback translation -->
+Die Endungen der ersten Person (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪पुरुषः⟫ = "**dritte** Person") sind: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -34,7 +34,7 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 **Regel:**
 **Vor -mi, -mas, -ma, -mahe, -mahi wird der Themavokal -a- durch -ā- ersetzt !!!** <!-- TODO: Fallback translation -->
 :::
-### 39.2.1. Erste Präsensklasse (⟪भ्वादि⟫)
+### 39.2.1. Erste Präsensklasse (⟪भ्वादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ 1P <!-- TODO: Fallback translation -->
 
@@ -48,7 +48,7 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
 
 :::
-### 39.2.2. Sechste Präsensklasse (⟪तुदादि⟫)
+### 39.2.2. Sechste Präsensklasse (⟪तुदादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪विश्⟫ 6P <!-- TODO: Fallback translation -->
 
@@ -62,7 +62,7 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪विशेयम्⟫ | ⟪विशेम⟫ | **\<⟪विशेय⟫\>** | **\<⟪विशेमहि⟫\>** |
 
 :::
-### 39.2.3. Vierte Präsensklasse (⟪दिवादि⟫)
+### 39.2.3. Vierte Präsensklasse (⟪दिवादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪नृत्⟫ 1P <!-- TODO: Fallback translation -->
 
@@ -103,14 +103,14 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
 
 :::
-## 39.3. Bildung der Verbformen der ersten Person des einfachen Futur  - ⟪ऌत्⟫
+## 39.3. Bildung der Verbformen der ersten Person des einfachen Futur  - ⟪ऌत्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Das Futur hat thematische Bildung. Deshalb gilt auch die Regel für thematische Stämme:** <!-- TODO: Fallback translation -->
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!** <!-- TODO: Fallback translation -->
 :::
-### 39.3.1. ⟪अनिट्⟫-Bildung
+### 39.3.1. ⟪अनिट्⟫-Bildung <!-- TODO: Fallback translation -->
 
 ⟪दा⟫ 3U <!-- TODO: Fallback translation -->
 
@@ -122,7 +122,7 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Futur  - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
-### 39.3.2. ⟪सेट्⟫-Bildung
+### 39.3.2. ⟪सेट्⟫-Bildung <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ 1P <!-- TODO: Fallback translation -->
 
@@ -134,7 +134,7 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Futur  - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
 
 :::
-## 39.4. Bildung der Verbformen der ersten Person athematischer Präsensstämme
+## 39.4. Bildung der Verbformen der ersten Person athematischer Präsensstämme <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Beachten Sie, dass im Wortinnern - im Gegensatz zum Satzsandhi - vor Endungen, die mit** <!-- TODO: Fallback translation -->
@@ -146,7 +146,7 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 
 z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P **⟪व⟫***⟪च्मि⟫*** <!-- TODO: Fallback translation -->
 :::
-### 39.4.1. Zweite Präsensklasse (⟪अदादि⟫)
+### 39.4.1. Zweite Präsensklasse (⟪अदादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪द्विष्⟫ 2U <!-- TODO: Fallback translation -->
 
@@ -203,7 +203,7 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪दध्याम्⟫ | ⟪दध्याम⟫ | ⟪दधीय⟫ | ⟪दधीमहि⟫ |
 
 :::
-### 39.4.3. Fünfte Präsensklasse (⟪स्वादि⟫)
+### 39.4.3. Fünfte Präsensklasse (⟪स्वादि⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Bei vokalisch auslautenden Wurzeln kann wahlweise vor mit m- beginnenden Endungen das -u des Stammbildungssuffixes (-nu) wegfallen.** <!-- TODO: Fallback translation -->
@@ -220,7 +220,7 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪सुनुयाम्⟫ | ⟪सुनुयाम⟫ | ⟪सुन्वीय⟫ | ⟪सुन्वीमहि⟫ |
 
 :::
-### 39.4.4. Achte Präsensklasse (⟪तनादि⟫)
+### 39.4.4. Achte Präsensklasse (⟪तनादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪तन्⟫ 8U <!-- TODO: Fallback translation -->
 
@@ -246,7 +246,7 @@ Abb.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪कुर्याम्⟫ | ⟪कुर्याम⟫ | ⟪कुर्वीय⟫ | ⟪कुर्वीमहि⟫ |
 
 :::
-### 39.4.5. Siebte Präsensklasse (⟪रुधादि⟫)
+### 39.4.5. Siebte Präsensklasse (⟪रुधादि⟫) <!-- TODO: Fallback translation -->
 
 ⟪युज्⟫ 7U <!-- TODO: Fallback translation -->
 

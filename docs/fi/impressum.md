@@ -29,9 +29,9 @@ Tämä teksti on osa **Tüpfli's Global Village Libraryn** sanskritti-osastoa.
 
 **KI-generoidut käännökset** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) ja **tekninen putkisto** (skriptit, QA-katselin, VitePress-määritys):
 
-- Käännökset: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Nimeäminen, jakaminen samalla lisenssillä
-- Koodi/putkisto: [MIT License](https://opensource.org/licenses/MIT)
+- Käännökset: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) - Nimeäminen, jakaminen samalla lisenssillä
+- Koodi/putkisto: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
 
 **Viittaustapa käännöksille:**
-> Payer, Alois: Sanskrittiopetus. Käännetyt tekoälyn tuella. Marco Demarmels (toim.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: Sanskrittiopetus. Käännetyt tekoälyn tuella. Marco Demarmels (toim. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 

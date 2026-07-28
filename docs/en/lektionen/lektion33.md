@@ -32,10 +32,10 @@ Examples:
 * 3.sg.P.Ind.Pres. **⟪ददाति⟫**
 
 **⟪पॄ⟫** 3 "to fill"
-* 3.sg.P.Ind.Pres. ***⟪पि⟫***⟪पर्ति⟫
+* 3.sg.P.Ind.Pres. **:sig[⟪पि⟫]**⟪पर्ति⟫
 
 **⟪मा⟫** 3Ā "to measure"
-* 3.sg.Ā.Ind.Pres. ***⟪मि⟫***⟪मीते⟫
+* 3.sg.Ā.Ind.Pres. **:sig[⟪मि⟫]**⟪मीते⟫
 :::
 ::: grammar-box
 **2. An aspirated initial consonant of a root is reduplicated by the corresponding unaspirated consonant.**
@@ -43,11 +43,11 @@ Examples:
 Examples:
 
 ::: indent
-**⟪धा⟫** 3 "to place"
-* 3.sg.P.Ind.Pres. **⟪दधाति⟫**
+**:sig[⟪धा⟫]** 3 "to place"
+* 3.sg.P.Ind.Pres. **:sig[⟪दधाति⟫]**
 
 **⟪भी⟫** 3 "to fear"
-* 3.sg.P.Ind.Pres. ***⟪बि⟫***⟪भेति⟫
+* 3.sg.P.Ind.Pres. **:sig[⟪बि⟫]**⟪भेति⟫
 :::
 ::: grammar-box
 **3. A guttural is reduplicated by the corresponding unaspirated palatal:**
@@ -94,7 +94,7 @@ Example:
 ::: grammar-box
 * **The regular reduplication vowel is -i-**
 * **Roots containing u reduplicate with -u-**
-* **The roots ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ with -a-**
+* **The roots ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ with -a-**
 :::
 Examples:
 
@@ -124,11 +124,11 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 * **Weak grade**
   * **before consonant: -i-**  
-    e.g. **⟪धा⟫** PPP: **⟪हित⟫** (hi-ta)
+    e.g. **:sig[⟪धा⟫]** PPP: **:sig[⟪हित⟫]** (hi-ta)
   * **before vowel: Ø**  
-    e.g. **⟪धा⟫** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
+    e.g. **:sig[⟪धा⟫]** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
 * **Strong grade: -ā-**  
-  e.g. **⟪धा⟫** 3.sg.P.Ind.Präs. **⟪दधाति⟫**
+  e.g. **:sig[⟪धा⟫]** 3.sg.P.Ind.Präs. **:sig[⟪दधाति⟫]**
 :::
 Also belonging here, for example:
 
@@ -148,7 +148,7 @@ Also belonging here, for example:
 ## 33.4. Roots ending in -ā of the third conjugation class
 
 ::: grammar-box
-**Roots ending in -ā (except ⟪दा⟫ and ⟪धा⟫) usually have an ablaut of -ī- in the weak stem** (see Thumb-Hauschild Vol. 1,1 p. 271. Presumably, the ablaut series B mentioned above acted as a model here, although these roots otherwise ablaut according to series A), **before vocalic endings the root vowel disappears completely (see ablaut series A).**
+**Roots ending in -ā (except ⟪दा⟫ and :sig[⟪धा⟫]) usually have an ablaut of -ī- in the weak stem** (see Thumb-Hauschild Vol. 1,1 p. 271. Presumably, the ablaut series B mentioned above acted as a model here, although these roots otherwise ablaut according to series A), **before vocalic endings the root vowel disappears completely (see ablaut series A).**
 :::
 Examples:
 
@@ -202,7 +202,7 @@ The forms of **⟪दा⟩** are obtained by replacing **dh** with **d** in the
 ::: grammar-box
 **The verbs of the 3rd class form all forms of the Present Participle Parasmaipada from the weak stem.**
 
-**Exception: Nominative/Accusative Plural Neuter can optionally be formed from the strong or weak stem.**
+**Exception: Nominativeee/Accusative Plural Neuter can optionally be formed from the strong or weak stem.**
 :::
 **⟪दा⟫** Present Participle Parasmaipada:
 
@@ -248,16 +248,16 @@ Fig.: ⟪दानम्⟫
 Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Image source: [Details](/en/licenses#lekt3307))
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: to place, to set, to allot
+**:sig[⟪धा⟫]** 3U **:sig[⟪दधाति⟫]**: to place, to set, to allot
 
 ::: indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Caus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫***
+**Fut.** **:sig[⟪धास्यति⟫]**  
+**Pass.** **:sig[⟪धीयते⟫]**  
+**Caus.** **:sig[⟪धापयति⟫]**  
+**PPP** **:sig[⟪हित⟫]** (!!)  
+**Inf.** **:sig[⟪धातुम्⟫]**
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: to direct all attention to something, to collect oneself
+**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: to direct all attention to something, to collect oneself
 
 ::: indent
 thereof:
@@ -273,10 +273,10 @@ Fig.: ⟪समाधि⟫
 
 ::: indent
 Note:
-3.pl.P ***⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪अपिपर्⟫*** (from: \*apipart)  
-3.pl.Impf.P ***⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪पिपूर्यात्⟫***
+3.pl.P **:sig[⟪पिपुरति⟫]**  
+3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (from: \*apipart)  
+3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
@@ -378,7 +378,7 @@ A) Insert the corresponding forms of the words in parentheses into the following
 
 ⟪रामस्⟫ ... (⟪चतुर्थ्येकवचने⟫ ⟪बहुवचने⟫ ⟪च⟫) ... ⟪अन्नं⟫ ⟪ददाति⟫ ⟪।⟫ (⟪भिक्षु⟫ ⟪।⟫ ⟪अग्नि⟫ ⟪।⟫ ⟪शूद्रा⟫ ⟪।⟫ ⟪गुनवान्पुत्र⟫ ⟪।⟫ ⟪देवान्स्तुवन्कवि⟫ ⟪।⟫ ⟪ब्राह्मणी⟫ ⟪।⟫ ⟪महान्साधु⟫ ⟪।⟫ ⟪धेनु⟫)
 
-B) Insert the corresponding forms of the verbs specified in parentheses in the Indicative Present, Imperfect, and Optative:
+B) Insert the corresponding forms of the verbs specified in parentheses in the Indicative Present, Imperfect, and Optativeee:
 
 ⟪ब्राह्मणो⟫ ⟪घृतमग्नौ⟫ ... (⟪हु⟫) ⟪॥१॥⟫
 

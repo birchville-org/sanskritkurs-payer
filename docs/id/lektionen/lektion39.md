@@ -11,7 +11,7 @@ status: stable
 
 ## 39.1. Akhiran Personal Orang Pertama (:sig[तृतीयः] ⟪पुरुषः⟫ = Orang **ketiga**)
 
-Akhiran orang pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**orang** ketiga") adalah:
+Akhiran orang pertama (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**orang** ketiga") adalah:
 
 ::: grammar-box
 
@@ -19,16 +19,16 @@ Akhiran orang pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ =
 | :--- | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **Primary endings thematic stems** | **-mi** | **-mas** | **-i**¹ | **-mahe** |
-| **Primary endings athematic stems** | ^^ | ^^ | **-e** | ^^ |
+| **Primärendung atematik Stämme** | ^^ | ^^ | **-e** | ^^ |
 | **Secondary endings thematic stems** | **-m** | **-ma** | **-i** | **-mahi** |
-| **Secondary endings athematic stems** | **-am** | ^^ | ^^ | ^^ |
+| **Sekundärendung atematik Stämme** | **-am** | ^^ | ^^ | ^^ |
 | **Optative ending** | ^^ | ^^ | **-a** | ^^ |
 | **Perfect ending** | **-a** | ^^ | **-e** | **-mahe** |
 
 :::
 1 Catatan: sebenarnya, akhiran utama Ā dari stem tematik juga harus diasumsikan sebagai -e, sebelum mana vokal tematik -a- hilang karena alasan analogi. Namun, efeknya seolah-olah akhiran -i melekat pada vokal tematik -a-: a + i » e.
 
-## 39.2. Bildung  Verbformen  ersten Person thematischer Presentstämme
+## 39.2. Pembentukan  Verbformen  ersten Person thematischer Batang Present
 
 ::: grammar-box
 **Aturan:**
@@ -48,7 +48,7 @@ Akhiran orang pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ =
 | **Optative  - ⟪विधिलिङ्⟫** | ⟪भवेयम्⟫ :brbhava + iy-am | ⟪भवेम⟫ :brbhava + i-ma | **\<⟪भवेय⟫\>** :brbhava + iy-a | **\<⟪भवेमहि⟫\>** :brbhava + i-mahi |
 
 :::
-### 39.2.2. Sechste Presentklasse (⟪तुदादि⟫)
+### 39.2.2. Kelas Present Keenam (⟪तुदादि⟫)
 
 ⟪विश्⟫ 6P
 
@@ -62,7 +62,7 @@ Akhiran orang pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ =
 | **Optative - ⟪विधिलिङ्⟫** | ⟪विशेयम्⟫ | ⟪विशेम⟫ | **\<⟪विशेय⟫\>** | **\<⟪विशेमहि⟫\>** |
 
 :::
-### 39.2.3. Vierte Presentklasse (⟪दिवादि⟫)
+### 39.2.3. Vierte Kelas Present (⟪दिवादि⟫)
 
 ⟪नृत्⟫ 1P
 
@@ -76,7 +76,7 @@ Akhiran orang pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ =
 | **Optative  - ⟪विधिलिङ्⟫** | ⟪नृत्येयम्⟫ | ⟪नृत्येम⟫ | **\<⟪नृत्येय⟫\>** | **\<⟪नृत्येमहि⟫\>** |
 
 :::
-### 39.2.4. Zehnte Presentklasse (⟪चुरादि⟫) dan Kausatife (⟪णिजन्त⟫)
+### 39.2.4. Zehnte Kelas Present (⟪चुरादि⟫) dan Kausatife (⟪णिजन्त⟫)
 
 ⟪चुर्⟫ 10U
 
@@ -122,7 +122,7 @@ Akhiran orang pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ =
 | **Future - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
-### 39.3.2. ⟪सेट्⟫-Bildung
+### 39.3.2. ⟪सेट्⟫-Pembentukan
 
 ⟪भू⟫ 1st person singular
 
@@ -134,7 +134,7 @@ Akhiran orang pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ =
 | **Future - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
 
 :::
-## 39.4. Bildung  Verbformen  ersten Person athematischer Presentstämme
+## 39.4. Pembentukan  Verbformen  ersten Person atematik Batang Present
 
 ::: grammar-box
 **Perhatikan bahwa dalam kata — berbeda dengan sandhi kalimat — konsonan umumnya tetap tidak berubah sebelum akhiran yang dimulai dengan**
@@ -144,9 +144,9 @@ Akhiran orang pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ =
 
 **mulai, konsonan umumnya tetap tidak berubah.**
 
-**e.g. ⟪वच्⟫ 1.sg.Ind.Pres. **⟪व⟫***⟪च्मि⟫***
+**e.g. ⟪वच्⟫ 1.sg.Ind.Pres. **⟪व⟫**⟪च्मि⟫**
 :::
-### 39.4.1. Zweite Presentklasse (⟪अदादि⟫)
+### 39.4.1. Kedua Kelas Present (⟪अदादि⟫)
 
 ⟪द्विष्⟫ 2U
 
@@ -175,9 +175,9 @@ Akhiran orang pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ =
 ::: media
 ![lekt3901.jpg](/images/lekt3901.jpg)
 Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
-(Image source: [Details](/en/licenses#lekt3901))
+(Image source: [Detail](/en/licenses#lekt3901))
 :::
-### 39.4.2. Dritte Presentklasse (⟪जुहोत्यादि⟫)
+### 39.4.2. Kelas Present Ketiga (⟪जुहोत्यादि⟫)
 
 ⟪हु⟫ 3P
 
@@ -203,7 +203,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optative  - ⟪विधिलिङ्⟫** | ⟪दध्याम्⟫ | ⟪दध्याम⟫ | ⟪दधीय⟫ | ⟪दधीमहि⟫ |
 
 :::
-### 39.4.3. Fünfte Presentklasse (⟪स्वादि⟫)
+### 39.4.3. Kelas Present Kelima (⟪स्वादि⟫)
 
 ::: grammar-box
 **Dalam kasus akar yang berakhir dengan vokal, -u dari sufiks pembentuk kata dasar (-nu) dapat dihilangkan secara opsional sebelum akhiran yang dimulai dengan m-.**
@@ -220,7 +220,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optative - ⟪विधिलिङ्⟫** | ⟪सुनुयाम्⟫ | ⟪सुनुयाम⟫ | ⟪सुन्वीय⟫ | ⟪सुन्वीमहि⟫ |
 
 :::
-### 39.4.4. Achte Presentklasse (⟪तनादि⟫)
+### 39.4.4. Achte Kelas Present (⟪तनादि⟫)
 
 ⟪तन्⟫ 8U
 
@@ -246,7 +246,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optative  - ⟪विधिलिङ्⟫** | ⟪कुर्याम्⟫ | ⟪कुर्याम⟫ | ⟪कुर्वीय⟫ | ⟪कुर्वीमहि⟫ |
 
 :::
-### 39.4.5. Siebte Presentklasse (⟪रुधादि⟫)
+### 39.4.5. Kelas Present Ketujuh (⟪रुधादि⟫)
 
 ⟪युज्⟫ 7U
 
@@ -260,7 +260,7 @@ Fig.: ⟪सो⟫ ⟪ऽस्मि⟫
 | **Optative  - ⟪विधिलिङ्⟫** | ⟪युञ्ज्याम्⟫ | ⟪युञ्ज्याम⟫ | ⟪युञ्जीय⟫ | ⟪युञ्जीमहि⟫ |
 
 :::
-### 39.4.6. Neunte Presentklasse (⟪क्र्यादि⟫)
+### 39.4.6. Neunte Kelas Present (⟪क्र्यादि⟫)
 
 ⟪क्री⟫ 9U
 

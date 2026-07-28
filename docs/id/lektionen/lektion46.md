@@ -9,9 +9,9 @@ status: stable
 
 # Pelajaran 46
 
-## 46.1. Bildung  Verbalformen  2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
+## 46.1. Pembentukan  Verbalformen  2. Person (⟪मध्यमः⟫) Perfekt (⟪लिट्⟫)
 
-### 46.1.1. Endungen
+### 46.1.1. Akhiran
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -24,12 +24,12 @@ Perhatikan bahwa akhiran -- sebagian besar, tetapi bukan bentuknya! -- dari 2.pl
 ::: grammar-box
 Sebelum -tha, dengan sebagian besar akar yang berakhiran -ṛ, tidak ada vokal penghubung \-i- muncul. Dengan beberapa akar, \-i- sebelum \-tha- bersifat opsional.
 :::
-### 46.1.2. Lautveränderung  Endung -dhve
+### 46.1.2. Lautveränderung  Akhiran -dhve
 
 ::: grammar-box
 The ending -dhve must be replaced by -ḍhve in the perfect when a root-internal -u or -ṛ immediately precedes it. This replacement can optionally occur after the connecting vowel -i- when a semivowel or h immediately precedes that -i-.
 :::
-### 46.1.3. Perfekt Typ I: keine Stammabstufung
+### 46.1.3. Perfekt Typ I: keine Batangabstufung
 
 Verbs that follow this type:
 
@@ -65,7 +65,7 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪आसिथ⟫ | ⟪आस⟫ | \<⟪आसिषे⟫\> | \<⟪आसिध्वे⟫\> |
 :::
-### 46.1.4. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 46.1.4. Perfekt Typ II: starker Batang Hochstufe, schwacher Batang Tiefstufe
 
 Verbs that follow this type:
 
@@ -87,9 +87,9 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪मुमोहिथ⟫:br⟪मुमोढ⟫:br⟪मुमोग्ध⟫ | ⟪मुमुह⟫ |
 :::
-### 46.1.5. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 46.1.5. Perfekt Typ III: Starker Batang Hochstufe/Dehnstufe
 
-#### 46.1.5.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 46.1.5.1. Perfekt Typ IIIa: Starker Batang Hochstufe/Dehnstufe, schwacher Batang Tiefstufe
 
 Verbs that follow this type:
 
@@ -128,7 +128,7 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चकर्थ⟫ | ⟪चक्र⟫ | ⟪चकृषे⟫ | ⟪चकृढ्वे⟫ |
 :::
-#### 46.1.5.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 46.1.5.2. Perfekt Typ IIIb: Starker Batang Hochstufe/Dehnstufe, schwacher Batang Hochstufe
 
 Verbs that follow this type:
 
@@ -151,7 +151,7 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪सञ्चस्करिथ⟫ | ⟪सञ्चस्कर⟫ | ⟪सञ्चस्करिषे⟫ | ⟪सञ्चस्करिध्वे⟫:br⟪सञ्चसक्रिढ्वे⟫ |
 :::
-### 46.1.6. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 46.1.6. Perfekt Typ IV: Akarn auf -ā / -ai
 
 *   Weak stem:
     *   before consonant: Low-grade-i
@@ -175,7 +175,7 @@ Verbs that follow this type:
 :::
 ### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
 
-#### 46.1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 46.1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Batang Tiefstufe
 
 Verbs that follow this type:
 
@@ -265,7 +265,7 @@ Bentuk 2.sg.P. dibentuk dari stem lemah ketika vokal penghubung -i- muncul.
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪पपक्थ⟫:br :sig[⟪पेचिथ⟫] | ⟪पेच⟫ | ⟪पेचिषे⟫ | ⟪पेचिध्वे⟫ |
 :::
-#### 46.1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+#### 46.1.7.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Batang Hochstufe
 
 Verbs that follow this type:
 
@@ -279,7 +279,7 @@ Verbs that follow this type:
 | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | ⟪चक्रमिथ⟫ | ⟪चक्रम⟫ | ⟪चक्रमिषे⟫ | ⟪चक्रमिध्वे⟫ |
 :::
-### 46.1.8. Besondere Perfekt-Bildungen
+### 46.1.8. Besondere Perfekt-Pembentukanen
 
 ⟪विद्⟫ 2P present perfect
 
@@ -347,14 +347,14 @@ dari itu:
 ⟪विषम⟫ 3: tidak sama, tidak rata, jahat
 
 :::
-⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : seize, grasp, catch
+⟪ग्रह्⟫ 9U **:sig[⟪गृ⟫]**⟪ह्णाति⟫ (gṛh-ṇā-ti) : seize, grasp, catch
 
 ::: indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Fut. ⟪ग्र⟫***⟪ही⟫***⟪ष्यति⟫  
+Fut. ⟪ग्र⟫**:sig[⟪ही⟫]**⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
 Caus. ⟪ग्राहयति⟫  
-PPP ⟪गृ⟫***⟪ही⟫***⟪त⟫  
+PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫  
 Inf. ⟪ग्रहितुम्⟫  
 Absol. -⟪ग्राह्य⟫
 from that:
@@ -377,25 +377,25 @@ Regarding ⟪राहु⟫ and ⟪केतु⟫ see:
 ::: media
 ![](/images/lekt4602.webp)
 Fig.: [⟪सूर्यः⟫, ⟪चन्द्रः⟫, ⟪मङ्गलः⟫](/en/licenses#lekt4602)
-(Sumber gambar: [Details](/en/licenses#lekt4602))
+(Sumber gambar: [Detail](/en/licenses#lekt4602))
 :::
 
 ::: media
 ![](/images/lekt4603.webp)
 Fig.: [⟪बुधः⟫, ⟪बृहस्पतिः⟫](/en/licenses#lekt4603)
-(Sumber gambar: [Details](/en/licenses#lekt4603))
+(Sumber gambar: [Detail](/en/licenses#lekt4603))
 :::
 
 ::: media
 ![](/images/lekt4604.webp)
 Fig.: [⟪शुक्रः⟫, ⟪शनिः⟫](/en/licenses#lekt4604)
-(Sumber gambar: [Details](/en/licenses#lekt4604))
+(Sumber gambar: [Detail](/en/licenses#lekt4604))
 :::
 
 ::: media
 ![](/images/lekt4605.webp)
 Fig.: [⟪राहुः⟫, ⟪केतुः⟫](/en/licenses#lekt4605)
-(Sumber gambar: [Details](/en/licenses#lekt4605))
+(Sumber gambar: [Detail](/en/licenses#lekt4605))
 :::
 ⟪तुष्⟫ 4P ⟪तुष्यति⟫ : merasa puas, ridha dengan (⟪षष्ठ्या⟫, ⟪चतुर्थ्या⟫, ⟪तृतियया⟫, ⟪सप्तम्या⟫)
 
@@ -422,7 +422,7 @@ Inf. ⟪नन्तुम्⟫
 ::: media
 ![](/images/lekt4607.webp)
 Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](/en/licenses#lekt4607)
-(Image source: [Details](/en/licenses#lekt4607))
+(Image source: [Detail](/en/licenses#lekt4607))
 :::
 ⟪रुह्⟫ 1P ⟪रोहति⟫ : climb, ascend
 
@@ -430,15 +430,15 @@ Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Fut. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
-Caus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***⟪प⟫***⟪यति⟫  
-PPP. ***⟪रूढ⟫***  
+Caus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫**:sig[⟪प⟫]**⟪यति⟫  
+PPP. **:sig[⟪रूढ⟫]**  
 Inf. ⟪रोढुम्⟫
 
 :::
 ::: media
 ![](/images/lekt4606.webp)
 Fig.: [⟪अश्वरोहकः⟫](/en/licenses#lekt4606)
-(Image source: [Details](/en/licenses#lekt4606))
+(Image source: [Detail](/en/licenses#lekt4606))
 :::
 ⟪ह्वे⟫ ⟪।⟫ ⟪हू⟫ 1U ⟪ह्वयति⟫ : call, summon
 
@@ -455,7 +455,7 @@ Absol. -⟪हूय⟫
 ::: media
 ![](/images/lekt4608.webp)
 Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुदूरशब्देनाह्वयसि⟫](/en/licenses#lekt4608)
-(Image source: [Details](/en/licenses#lekt4608))
+(Image source: [Detail](/en/licenses#lekt4608))
 :::
 
 ::: indent
@@ -466,14 +466,14 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 ⟪भ्रंश⟫ m.: dropping off
 
-⟪श्रम्⟫ 4P ***⟪श्रा⟫***⟪म्यति⟫ : toil, become tired
+⟪श्रम्⟫ 4P **:sig[⟪श्रा⟫]**⟪म्यति⟫ : toil, become tired
 
 ::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Fut. ⟪श्रमिष्यति⟫  
 Pass. ⟪श्रम्यते⟫  
 Caus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
-PPP ***⟪श्रान्⟫***⟪त⟫  
+PPP **:sig[⟪श्रान्⟫]**⟪त⟫  
 Inf. ⟪श्रमितुम्⟫  
 Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
 from that:
@@ -483,7 +483,7 @@ from that:
 ::: media
 ![](/images/lekt4609.webp)
 Fig.: [⟪श्रान्तः⟫](/en/licenses#lekt4609)
-(Sumber gambar: [Details](/en/licenses#lekt4609))
+(Sumber gambar: [Detail](/en/licenses#lekt4609))
 :::
 ⟪श्रि⟫ 1U ⟪श्रयति⟫ : bersandar, bertumpu pada, menemukan dukungan, pergi kepada seseorang (⟪द्वितीयया⟫, ⟪सप्तम्या⟫)
 
@@ -496,7 +496,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : melampirkan, melekat pada (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P **:sig[⟪सज⟫]**⟪ति⟫ : melampirkan, melekat pada (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -512,7 +512,7 @@ dari sana:
 ::: media
 ![](/images/lekt4610.webp)
 Fig.: [⟪सङ्गः⟫](/en/licenses#lekt4610)
-(Image source: [Details](/en/licenses#lekt4610))
+(Image source: [Detail](/en/licenses#lekt4610))
 :::
 ⟪द्रु⟫ 1P ⟪द्रवति⟫ : to run, to hasten
 
@@ -526,13 +526,13 @@ Inf. ⟪द्रोतुम्⟫
 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : to wander about, to roam
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P **:sig[⟪भ्रा⟫]**⟪म्यति⟫ : to wander about, to roam
 
 ::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Caus. ⟪भ्रमयति⟫  
-PPP ***⟪भ्रा⟫***⟪न्त⟫  
+PPP **:sig[⟪भ्रा⟫]**⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
 therefrom:
@@ -554,7 +554,7 @@ Absol. -⟪लम्ब्य⟫
 ::: media
 ![](/images/lekt4601.jpg)
 Fig.: [⟪लम्बोदर⟫ ⟪नमस्तुभ्यम्⟫](/en/licenses#lekt4601)
-(Image source: [Details](/en/licenses#lekt4601))
+(Image source: [Detail](/en/licenses#lekt4601))
 :::
 ⟪लम्ब्⟫ + ⟪आ⟫ 1Ā ⟪आलम्बते⟫ : to hang on (⟪द्वितीयया⟫)
 
@@ -570,15 +570,15 @@ PPP ⟪परिभूत⟫ 3: conquered, humiliated, degraded
 
 ::: indent
 e.g.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : to sit down
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫**:sig[⟪षी⟫]**⟪दति⟫ : to sit down
 
 :::
-⟪भोस्⟫ Partikel vokatif: seruan untuk menyapa, misalnya: hei, heya, oh, ei, halo, hai! sering tidak dapat diterjemahkan. Partikel ini memiliki sandhi khusus: sebelum semua bunyi bersuara, partikel tersebut menjadi ***⟪भो⟫***.
+⟪भोस्⟫ Partikel vokatif: seruan untuk menyapa, misalnya: hei, heya, oh, ei, halo, hai! sering tidak dapat diterjemahkan. Partikel ini memiliki sandhi khusus: sebelum semua bunyi bersuara, partikel tersebut menjadi **:sig[⟪भो⟫]**.
 
 ::: media
 ![](/images/lekt4611.webp)
 Fig.: [⟪भोः⟫](/en/licenses#lekt4611)
-(Image source: [Details](/en/licenses#lekt4611))
+(Image source: [Detail](/en/licenses#lekt4611))
 :::
 ## 46.3. Latihan
 
@@ -653,7 +653,7 @@ B) Translate:
 ::: media
 ![](/images/lekt4612.webp)
 Fig.: [⟪क्रोधाद्भवति⟫ ⟪संमोहः⟫ ⟪संमोहात्स्मृतिविभ्रमः⟫ ⟪।⟫ ⟪स्मृतिभ्रंशाद्बुद्धिनाशो⟫ ⟪बुद्धिनाशात्प्रनश्यति⟫ ⟪॥⟫](/en/licenses#lekt4612)
-(Image source: [Details](/en/licenses#lekt4612))
+(Image source: [Detail](/en/licenses#lekt4612))
 :::
 
 ::: deleteme-box

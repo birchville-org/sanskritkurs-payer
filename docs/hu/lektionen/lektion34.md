@@ -58,7 +58,7 @@ A klasszikus szanszkritban a perfektum tőből csak az indikatív és a particip
 ::: grammar-box
 **A 3. plur. Ā (-re) végződés elé mindig a -i- kötőhangzó kerül, a többi mássalhangzóval kezdődő végződés elé a gyökök többségénél.**
 :::
-### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
+### 34.2.4. Reduplikation konsonantisch anlautender Tőn
 
 ::: grammar-box
 **Für die Reduplikation anlautender Konsonanten gelten die in [Lektion 33](lektion33.md) gegebenen Regeln.**
@@ -165,7 +165,7 @@ Példák:
 ## 34.5. Perfektum II. típus: erős tő magas foka, gyenge tő alacsony foka
 
 ::: grammar-box
-**Wird gebildet von Wurzeln der Form:**
+**Wird gebildet von Tőn der Form:**
 *   **(Konsonant)-(Konsonant)-i/u/ṛ/ḷ-Konsonant**
 
 **Képzés:**
@@ -234,7 +234,7 @@ Szezámnövény virágzása.
 ![](/images/lekt3402.webp)
 Kép: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
-(Képmegjelenítés: [Details](/hu/licenses#lekt3402))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3402))
 :::
 **⟪निकेतन⟫ n.:** lakhely, templom
 
@@ -318,7 +318,7 @@ Magyarázatok:
 
 ⟪चतुर्दश⟫ tizennégy
 
-⟪सप्त⟫ hét
+:sig[⟪सप्त⟫] hét
 
 ⟪जन्म⟫ Nominatívusz/Akkuzatívsus egyes szám a **⟪जन्मन्⟫** n. nemű "születés" szóból
 

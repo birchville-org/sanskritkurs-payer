@@ -350,7 +350,7 @@ The rules for the use of the connecting vowel -i- see in Kielhorn, Grammar § 44
         1.  obligatory: roots of the form i/u - consonant and (consonant -) ṛ/ḷ - consonant:
             ⟪इष्⟫ » ⟪एषिषिष⟫- "to wish to desire"
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "to wish to be fitting"
-            ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- "to wish to smile"
+            ⟪स्मि⟫ » ⟪सि⟫**:sig[⟪स्म⟫]**⟪यिष⟫- "to wish to smile"
 
         2.  optional: roots of the form consonant - (consonant -) i/u - consonant except -v\_
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "to wish to flash"
@@ -406,7 +406,7 @@ Passive: ⟪यियक्ष्यते⟫ "it is wished to sacrifice"
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
-**Future: ⟪सेट्⟫**
+**Futureee: ⟪सेट्⟫**
 
 ::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫

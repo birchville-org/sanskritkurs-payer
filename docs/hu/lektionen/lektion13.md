@@ -181,7 +181,7 @@ Tanulják meg a következő szavakat:
 ::: media
 ![](/images/lekt1301.webp)
 Kép: ⟪महिषासुरः⟫
-(Képmegjelzés: [Details](/hu/licenses#lekt1301))
+(Képmegjelzés: [Részletek](/hu/licenses#lekt1301))
 :::
 - **guṇa** m. ⟪गुण⟫ : fonal, zsinór; tulajdonság, jó tulajdonság
 - **pad** 4 Ā (padyate), Pass.: padyate, PPP panna ⟪पद्⟫ ⟪पद्यते⟫ ⟪पद्यते⟫ ⟪पन्न⟫ : menni, eljut valamibe
@@ -200,7 +200,7 @@ Kép: ⟪महिषासुरः⟫
 ::: media
 ![](/images/lekt1304.webp)
 Kép: ⟪अन्नम्⟫
-(Képmegjelzés: [Details](/hu/licenses#lekt1304))
+(Képmegjelzés: [Részletek](/hu/licenses#lekt1304))
 :::
 Szóképzés:
 
@@ -215,7 +215,7 @@ pad 4 Ā:
 ::: media
 ![](/images/lekt1303.webp)
 Ábr.: ⟪चत्वारः⟫ ⟪पादाः⟫ : ⟪गजः⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt1303))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt1303))
 :::
 dviṣ 2 U:
 
@@ -290,7 +290,7 @@ C) Képezzen PPP-konstrukciót az A) gyakorlat mondataihoz.
 ::: media
 ![](/images/lekt1302.webp)
 Ábr.: ⟪सत्यमेव⟫ ⟪जयते⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt1302))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt1302))
 :::
 D) Mely hangkapcsolatokból eredhettek a következő szandhi-formák? Adja meg az összes lehetőséget:
 

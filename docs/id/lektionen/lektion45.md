@@ -11,7 +11,7 @@ status: stable
 
 ## 45.1. Pembentukan Bentuk Verba Orang ke-2 (⟪मध्यमः⟫) dari Batang Atematik tanpa Sufiks yang Berakhir Vokal (Lanjutan)
 
-### 45.1.1. Dritte Presentklasse (⟪जुहोत्यादि⟫)
+### 45.1.1. Kelas Present Ketiga (⟪जुहोत्यादि⟫)
 
 ⟪हु⟫ 3P
 
@@ -33,12 +33,12 @@ status: stable
 | **Imperfekt** :br⟪लङ्⟫ | ⟪अदधास्⟫ | ⟪अधत्त⟫ | ⟪अधत्थास्⟫ | ⟪अधद्ध्वम्⟫ |
 | **Optatif** :br⟪विधिलिङ्⟫ | ⟪दध्यास्⟫ | ⟪दध्यात⟫ | ⟪दधीथास्⟫ | ⟪दधीध्वम्⟫ |
 :::
-### 45.1.2. Siebte Presentklasse (⟪रुधादि⟫)
+### 45.1.2. Kelas Present Ketujuh (⟪रुधादि⟫)
 
 ::: grammar-box
 **Jika k/g akhir dari akar berada di antara nasal ṅ dan dental pada akhiran, maka k/g dapat secara opsional hilang**
 
-e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or ⟪यु⟫***⟪ङ्ते⟫***
+e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or ⟪यु⟫**:sig[⟪ङ्ते⟫]**
 :::
 ⟪युज्⟫ 7U
 
@@ -96,7 +96,7 @@ e.g. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन�
 ::: media
 ![](/images/lekt4501.webp)
 Gbr.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
-(Sumber gambar: [Details](/en/licenses#lekt4501))
+(Sumber gambar: [Detail](/en/licenses#lekt4501))
 :::
 ## 45.3. Daftar Kata
 
@@ -144,7 +144,7 @@ B) Translate:
 ::: media
 ![](/images/lekt4502.jpg)
 Fig.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
-(Image source: [Details](/en/licenses#lekt4502))
+(Image source: [Detail](/en/licenses#lekt4502))
 :::
 
 ::: deleteme-box

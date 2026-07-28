@@ -78,7 +78,7 @@ Fig.: ⟪स्त्रियः⟫
 
 **A declinação é idêntica no masculino e no feminino.**
 
-**Irregularidade: Compostos em -⟪नी⟫ "liderando" têm no loc.sg. a terminação -ām (como ⟪देवी⟫):**
+**Irregularidade: Compostos em -:sig[⟪नी⟫] "liderando" têm no loc.sg. a terminação -ām (como ⟪देवी⟫):**
 p.ex. ⟪ग्रामणी⟫ "liderando uma multidão/uma aldeia": loc.sg.m.f. ⟪ग्रामण्याम्⟫
 :::
 Paradigmas:
@@ -718,7 +718,7 @@ Feminino (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Imersão no oceano da literatura sânscrita: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+## 61.9. Imersão no oceano da literatura sânscrita: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
 
 Após a conclusão do curso de sânscrito, começa o verdadeiro "nadar" no oceano da literatura sânscrita. Como este oceano está cheio de obstáculos, é apropriado começar esta nova fase da vida com uma invocação a Gaṇeśa:
 
@@ -751,7 +751,7 @@ Tāla: Rūpaka: o |4
 Fig.: Melodia, relativa a Dó, pode ser transposta conforme o registro vocal.
 (Fonte da imagem: [Detalhes](/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ está no início do ensino da música canaresa. Veja o vídeo: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Acessado em 2009-03-05
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] está no início do ensino da música canaresa. Veja o vídeo: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Acessado em 2009-03-05
 
 Agora que aprendeu os fundamentos do sânscrito, espera-se que seja como as crianças pequenas no vídeo: às vezes desajeitado, mas ansioso por aprender e ávido por conhecimento, e com alegria naquilo que faz. Mantenha uma "mente de principiante" até ao fim da sua vida.
 

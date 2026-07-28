@@ -51,7 +51,7 @@ e.g.
 
 > ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "seseorang yang keinginannya adalah berbicara; seseorang yang ingin berbicara".
 :::
-## 23.2. Bildung  Infinitif (⟪तुमुन्⟫)
+## 23.2. Pembentukan  Infinitif (⟪तुमुन्⟫)
 
 ::: grammar-box
 **guṇa-grade root + -tum**
@@ -86,7 +86,7 @@ Among the roots learned so far, the following infinitives deserve particular att
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Akarn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. Infinitif (⟪तुमुन्⟫) untuk akar-akar kata yang telah dipelajari sejauh ini
 
@@ -233,7 +233,7 @@ D) Translate and resolve the compounds:
 ![](/images/lekt2303.webp)
 Fig.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 ทำบุญ = ⟪पुण्यकरणम्⟫, Thailand = ประเทศไทย
-(Image source: [Details](/en/licenses#lekt2303))
+(Image source: [Detail](/en/licenses#lekt2303))
 :::
 ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
@@ -241,7 +241,7 @@ Fig.: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 ![](/images/lekt2301.webp)
 Fig.: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thailand = เชียงใหม่, ประเทศไทย
-(Image source: [Details](/en/licenses#lekt2301))
+(Image source: [Detail](/en/licenses#lekt2301))
 :::
 ⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
 
@@ -264,7 +264,7 @@ Penjelasan: ⟪हीन⟫ ⟪३⟫: PPP ke ⟪हा⟫ 3: untuk meninggalkan
 ![](/images/lekt2302.webp)
 Fig.: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
-(Image source: [Details](/en/licenses#lekt2302))
+(Image source: [Detail](/en/licenses#lekt2302))
 :::
 ## 23.6. Latihan Tinjauan
 
@@ -290,7 +290,7 @@ A) Translate into Sanskrit:
 ![](/images/lekt2304.jpg)
 Fig.: ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Perdana Menteri India = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, sejak 2004
-(Sumber gambar: [Details](/en/licenses#lekt2304))
+(Sumber gambar: [Detail](/en/licenses#lekt2304))
 :::
 8\. Istri, anak, dan budak, ketiga orang ini (⟪त्रयस्⟫) adalah, menurut tradisi, tanpa harta. Apa pun yang datang kepada mereka milik orang yang memiliki (ketiga) orang ini.
 

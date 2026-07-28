@@ -70,7 +70,7 @@ The instrumental can be used adverbially:
     ⟪दूरेण⟫ "far, from afar" (to ⟪दूर⟫ 3 "far, distant from")  
     ⟪उच्चैस्⟫ "high, loud" (to ⟪उच्च⟫ 3 "high, elevated, loud, shrill (of voice)")
 :::
-### 37.2.3. Dative (⟪चतुर्थी⟫)
+### 37.2.3. Dativeee (⟪चतुर्थी⟫)
 
 ::: grammar-box
 Rarely is the dative (⟪चतुर्थी⟫) used adverbially in response to the questions:
@@ -83,7 +83,7 @@ Example:
 ::: indent
 ⟪अर्थाय⟫ "for the purpose of, for the sake of ..."
 :::
-### 37.2.4. Ablative (⟪पञ्चमी⟫)
+### 37.2.4. Ablativeee (⟪पञ्चमी⟫)
 
 ::: grammar-box
 The ablative (⟪पञ्चमी⟫) can be used adverbially in response to the questions:
@@ -144,7 +144,7 @@ Examples:
 ::: grammar-box
 From the pronominal stems ⟪तद्⟫, ⟪इदम्⟫ or ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ or ⟪कु⟫ one can derive corresponding pronominal adverbs with the adverbial suffixes
 
-*   \-⟪तस्⟫ (Ablative)
+*   \-⟪तस्⟫ (Ablativeee)
 *   \-⟪त्र⟫ (Locative)
 *   \-⟪था⟫ (Manner)
 *   \-⟪थम्⟫ (Manner)

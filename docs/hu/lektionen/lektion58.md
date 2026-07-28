@@ -47,7 +47,7 @@ A -vas és -vahe végződés előtt a téma magánhangzót -a- helyett -ā- írj
 ![](/images/lekt5802.webp)
 Ábr.: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt5802))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5802))
 :::
 ### 58.2.3. Hatodik jelen időosztály (⟪तुदादिगणः⟫)
 
@@ -282,11 +282,11 @@ Bandipur Nemzeti Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 
 **Képzés:**
 
-**Augment + Wurzel + i + s + athematische Sekundärendung**
+**Augment + Tő + i + s + athematische Sekundärendung**
 
-**!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Imperfekts von Wurzeln des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Wurzelaorist-Formen).
+**!!!** Die 2.sg.P bzw. 3.sg.P gehen auf **-**īs bzw. -īt aus **!!!** (Dies ist entstanden aus einer Übertragung des Múlt idő (imperfektum)s von Tőn des Typs ⟪अब्रवीत्⟫; es sind also eigentlich Tőaorist-Formen).
 :::
-Stammbildungssuffix + Endungen des iṣ-Aorist lauten also:
+Tőbildungssuffix + Végződésen des iṣ-Aorist lauten also:
 
 ::: grammar-box
 

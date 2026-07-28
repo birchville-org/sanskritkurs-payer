@@ -18,7 +18,7 @@ status: stable
 :::
 ## 5.1. ⲛϫⲟⲥ ⲡⲓⲱⲕⲧ (samāsa m. = ⟪समास⟫)
 
-ⲛϫⲟⲥ ⲡⲓⲱⲕⲧ ⲛϫⲟⲥ ⲡⲓⲱⲕⲧ ⲛϫⲟⲥ ⲡⲓⲱⲕⲧ ⲛϫⲟⲥ ⲡⲓⲱⲕⲧ.
+Die Bildung von Wortzusammensetzungen in sehr grossem Umfang ist ein Charakteristikum des Sanskrit. <!-- TODO: Fallback translation -->
 
 ⲛϫⲟⲥ ⲡⲓⲱⲕⲧ ⲛϫⲟⲥ ⲡⲓⲱⲕⲧ:
 - **ⲛϫⲟⲥ ⲡⲓⲱⲕⲧ** (dvandva n. = ⟪द्वन्द्व⟫)
@@ -62,7 +62,7 @@ status: stable
 
 ### 5.3.1. ⲛⲓⲃⲟⲣⲇⲉⲣⲅⲗⲓⲉⲇⲉⲣ ⲛ̀ⲧⲉ ⲛⲓⲕⲟⲙⲡⲟⲥⲓⲧⲁ
 
-ⲡⲓϣⲟⲛⲧⲉ ϫⲱⲡ ⲛⲁϣⲟⲧ ϩⲓⲥⲱⲡ ⲛϣⲟⲧⲉ (ⲙⲡⲓϣⲟⲛⲧ ⲉⲃⲟⲗ ϣⲱⲡϫⲓ) ⲛⲁϥⲧⲉⲙⲡⲓ ⲛⲁϣⲟⲧ ⲉⲃⲟⲗ ϫⲱⲡ. Ⲑⲉ ⲛⲁϣⲟⲧ ϫⲱⲡ ⲛⲁϣⲟⲧ ϩⲓⲥⲱⲡ ⲛϣⲟⲧⲉ ϩⲓⲥⲱⲡ ⲛϣⲟⲧⲉ ϩⲓⲥⲱⲡ ⲛϣⲟⲧⲉ.
+ⲡⲓϣⲟⲛⲧⲉ ϫⲱⲡ ⲛⲁϣⲟⲧ ϩⲓⲥⲱⲡ ⲛϣⲟⲧⲉ (ⲙⲡⲓϣⲟⲛⲧ ⲉⲃⲟⲗ ϣⲱⲡϫⲓ) ⲛⲁϥⲧⲉⲙⲡⲓ ⲛⲁϣⲟⲧ ⲉⲃⲟⲗ ϫⲱⲡ. Ⲑⲉ ⲛⲁϣⲟⲧ ϫⲱⲡ ⲛⲁϣⲟⲧ ϩⲓⲥⲱⲡ ⲛϣⲟⲧⲉ. <!-- TODO: Fallback translation -->
 
 ### 5.3.2. ⲡⲗⲟⲩⲣⲁⲗ-ⲓⲧⲁⲣⲉⲧⲁⲣⲁⲇⲩⲁⲛⲇⲩⲁ
 
@@ -80,7 +80,7 @@ status: stable
 > (ⲡⲓϣⲁⲕⲉⲓ ⲛⲁⲃⲟⲕ, ⲡⲓϣⲁⲕⲉⲓ ⲛⲁⲃⲟⲕ)
 > (ϣⲱⲡ: "ⲛⲉϥⲙⲓ ⲛⲁⲃⲟⲕ, ⲡⲓϣⲁⲕⲉⲓ" ⲛⲁϥⲧⲙⲉⲛ ⲡⲓϣⲁⲕⲉⲓ!)
 
-**Ϧⲛ ⲡⲓϣⲁⲕⲉⲓ ϧⲛ ⲡⲓϣⲁⲕⲉⲓ ϧⲛ ⲡⲓϣⲁⲕⲉⲓ:**
+**Für die Reihenfolge der Glieder in einem Dvandva gelten u.a. folgende Regeln:** <!-- TODO: Fallback translation -->
 - ⲡⲓϣⲁⲕⲉⲓ ϧⲛ ⲡⲓϣⲁⲕⲉⲓ (**varṇa**) ⲛⲁϥⲧⲙⲉⲛ.
 - ⲡⲓϣⲁⲕⲉⲓ ϧⲛ ⲡⲓϣⲁⲕⲉⲓ.
 - Im Allgemeinen soll das wichtigere Wort an den Anfang gestellt werden.
@@ -136,7 +136,7 @@ Wo zwei der drei letztgenannten Vorschriften gleichzeitig in Frage kommen könne
 
 ## 5.5. Übung
 
-**A) ⲧⲉϫⲓ ϯⲛⲁⲕ ⲡⲟϥⲙⲏⲧ ϫⲉ ⲡⲓϣⲟⲛⲧ ϫⲉ ⲡⲓϣⲁⲃⲟⲕ ϫⲉ ⲡⲓϣⲁⲃⲟⲕ ϫⲉ ⲡⲓϣⲁⲃⲟⲕ ϫⲉ ⲡⲓϣⲁⲃⲟⲕ:**
+**A) ⲧⲉϫⲓ ϯⲛⲁⲕ ⲡⲟϥⲙⲏⲧ ϫⲉ ⲡⲓϣⲟⲛⲧ ϫⲉ ⲡⲓϣⲁⲃⲟⲕ:** <!-- TODO: Fallback translation -->
 
 1. catvāro varṇā brāhmaṇakṣatriyavaiśyaśūdrāḥ.
 (Āpastambīyadharmasūtra I,1,1,4 = Vāsiṣṭhadharmaśāstra II,1)

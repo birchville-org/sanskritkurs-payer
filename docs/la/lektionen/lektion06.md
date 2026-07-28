@@ -90,7 +90,7 @@ Exemplum **yaj** = ⟪यज्⟫ = "sacrificio colere", "sacrificare":
   - 3. sg. Ā. **yajate** = ⟪यजते⟫
   - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫
 
-## 6.5. Bildung des Präsensstamms
+## 6.5. Formationis radix praesentis
 
 ### 6.5.1. Verba classis sextae praesentis (tudādi = ⟪tudādi⟫ = "tud etc.")
 
@@ -134,14 +134,14 @@ Ante vocales, in medio verbi, **e** per **ay**, **o** per **av** mutatur.
 ::: grammar-box
 **Radix praesentis = radix in gradu profundo (in qua enuntiatur) + ya-**
 
-| Wurzel (dhātu m.):br⟪धातु⟫ | Präsensstamm |
+| Radix (dhātu m.):br⟪धातु⟫ | Praesensstamm |
 | :--- | :--- |
 | **nṛt** :br⟪नृत्⟫ | **nṛtya-** :br⟪नृत्य⟫- |
 | **muh** :br⟪मुह्⟫ | **muhya-** :br⟪मुह्य⟫- |
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
-| **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
+| **man** :br⟪मन्⟫ | **manyā-** :br⟪मन्य⟫- |
 :::
-### 6.5.4. Themavokal, thematische Präsensklassen
+### 6.5.4. Vowel thematic, classes thematic praesens
 
 ::: grammar-box
 Vocale tematisum in suffixis formationis radicis classium praesentium appellatur. Praesentes classes, quae **a** in suffixo formationis radicis habent, ideo "praesentes classes tematicae" vocantur.

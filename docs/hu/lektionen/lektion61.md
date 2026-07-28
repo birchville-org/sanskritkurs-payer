@@ -34,7 +34,7 @@ Ragozási táblázat:
 ### 61.1.2. Női alapszóképzők -ī végződéssel
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Vor vokalischer Végződés wird -ī durch -iy ersetzt.**
 
 **A szabályos esetvégződéseken kívül a Dat.Ab.Gen.Lok.sg. és Gen.pl. alakokban előfordulnak több szótagú, -ī végű nőnemek mintájára képzett alakok is (⟪देवी⟫).**
 :::
@@ -78,7 +78,7 @@ Szabálytalan: ⟪स्त्री⟩ f. „nő“
 
 **A nemek szerinti ragozás a hímnem és nőnem esetén azonos.**
 
-**Szabálytalanság: A -⟪नी⟫ "vezető" képzős összetételek lokatív egyes számban -ām végződést kapnak (mint ⟪देवी⟫):**
+**Szabálytalanság: A -:sig[⟪नी⟫] "vezető" képzős összetételek lokatív egyes számban -ām végződést kapnak (mint ⟪देवी⟫):**
 pl. ⟪ग्रामणी⟫ "egy csapat/falu vezetője": lokatív egyes szám hímnem/nőnem ⟪ग्रामण्याम्⟫
 :::
 Paradigmák:
@@ -112,7 +112,7 @@ Paradigmák:
 ::: grammar-box
 **Tőmag magánhangzó előtt: -uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī**
+**Deklination analog zu den femininen Tőnomina auf -ī**
 :::
 Paradigma:
 
@@ -694,7 +694,7 @@ Nemek szerinti ragozás (⟪पुंस्⟫)
 | ⟪षष्ठी⟫ | ⟪अमुष्य⟫ | ⟪अमुयोस्⟫ | ⟪अमीषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्मिन्⟫ | ^^ | ⟪अमीषु⟫ |
 :::
-Neutrum (⟪नपुंसक⟫)
+semlegesnem (⟪नपुंसक⟫)
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -718,7 +718,7 @@ Nőnem (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Bocsátás a szanszkrit irodalom óceánjába: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+## 61.9. Bocsátás a szanszkrit irodalom óceánjába: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
 
 A szanszkit kurzus befejezése után kezdődik meg igazán a „úszás” a szanszkrit irodalom óceánjában. Mivel ez az óceán tele van akadályokkal, megfelelő ezt az új életszakaszt Gaṇeśa megkeresésével kezdeni:
 
@@ -726,7 +726,7 @@ A szanszkit kurzus befejezése után kezdődik meg igazán a „úszás” a sza
 ![](/images/lekt6101.webp)
 Kép: ⟪श्रीगणनाथः⟫
 Halebidu (ಹಳೆಬೀಡು), 12./13. század e. Kr. után
-(Képmegjelenítés: [Details](/hu/licenses#lekt6101))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt6101))
 :::
 
 ::: no-header
@@ -751,7 +751,7 @@ Tāla: Rūpaka: o |4
 Ábra: A dallam, c-re vonatkoztatva, a hangterjedelettől függően transzponálható.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ a kannarai zenei oktatás kezdetén áll. Lásd a videót: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Hozzáférés: 2009-03-05
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] a kannarai zenei oktatás kezdetén áll. Lásd a videót: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Hozzáférés: 2009-03-05
 
 Mivel most megismerte a szanszkrit alapjait, remélhetőleg olyanok, mint a videóban szereplő kisgyermekek: néha ügyetlenek, de tanulni és tudni vágyók, valamint örömmel végzik a feladatot. Megőrizve „kezdők gondolkodását” egész életük során.
 

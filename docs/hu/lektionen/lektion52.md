@@ -392,7 +392,7 @@ pūrva + śālā ("csarnok") » \*pūrvaśālā (nem használható így!) + Tadd
 
 2.  az így képzett összetételt olyan értelemben használják, amelyet máskor Taddhita-suffixum jelöl (ennek a típusnak az átmenet a Bahuvrīhi felé folyékony):
 Példák:  
-dvi + go » ⟪द्विगु⟫ : nem: "két tehén", hanem: "**két tehérért vásárolt**"
+dvi + go » :sig[⟪द्विगु⟫] : nem: "két tehén", hanem: "**két tehérért vásárolt**"
 ⟪द्विवर्ष⟫ nem: "két év", hanem: "**kétéves**"
 
 3.  az így képzett összetétel egy másik összetétel első tagját alkotja
@@ -443,7 +443,7 @@ forrás:
 ![](/images/lekt5210.webp)
 Ábr.: ⟪खिलः⟫
 Tambhol, Akole, Ahmednagar = ⟪अहमदनगर⟫
-(Képmegjelenítés forrása: [Details](/hu/licenses#lekt5210))
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt5210))
 :::
 ⟪अन्तर्⟫ Hatószó: belül, bentről; Tőnév a Gen. Lok. esetben (⟪षष्टी⟫, ⟪सप्तमी⟫): belül, közepén; Tőnév a Gen. Abl. esetben (⟪षष्ठी⟫, ⟪पञ्चमी⟫): ...-ből kifelé
 
@@ -473,9 +473,9 @@ PPP ⟪विपरीत⟫ 3: helytelen, hamis
 
 ::: media
 ![](/images/lekt5212.webp)
-Abb.: ⟪पीडिताः⟫
+Ábra: ⟪पीडिताः⟫
 Hyderabad = హైదరాబాద్
-(Bildquelle: [Details](/hu/licenses#lekt5212))
+(Képforrás: [Részletek](/hu/licenses#lekt5212))
 :::
 ⟪पर⟫ 3: (Deklination wie ⟪सर्व⟫) fernstehend, fremd, höher als (⟪पञ्चम्या⟫), äusserster, höchster ; anderer, fremder, feindlich ; m.: Fremder
 
@@ -629,7 +629,7 @@ Hampi = ಹಂಪೆ
 ![](/images/lekt5217.webp)
 Ábra:
 Amaravati = అమరావతి, 2. század e. Kr.
-(Képmegjelenítés: [Details](/hu/licenses#lekt5217))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5217))
 :::
 ⟪विजिज्ञासु⟫ 3: az, aki teljesen fel akarja ismerni
 
@@ -663,7 +663,7 @@ Inf. ⟪त्रातुम्⟫
 ⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫
 ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥१६१॥⟫
 
-Magyarázat: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvandva)
+Magyarázat: ⟪सुखदुःखयोः⟫ Gen.Lok.kettes szám (dualis).m.f.n. (kettes szám (dualis)dvandva)
 :::
 ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ A forrásokról a ⟪धर्म⟫
 
@@ -673,7 +673,7 @@ Magyarázat: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvand
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
-Magyarázat: ⟪स्मृतिशीले⟫ Nominativ/Akkuzatív Dual.n. (Dualdvandva)
+Magyarázat: ⟪स्मृतिशीले⟫ alanyeset (nominativus)/Akkuzatív kettes szám (dualis).n. (kettes szám (dualis)dvandva)
 :::
 ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ A अर्थ⟫, ⟪काम⟫, धर्म⟫ felett a herceg életében
 
@@ -682,9 +682,9 @@ Magyarázat: ⟪स्मृतिशीले⟫ Nominativ/Akkuzatív Dual.n. (
 ::: indent
 Magyarázatok:
 
-⟪इतरौ⟫ Nominativ/Akkusativ Dual m zu ⟪इतर⟫ 3 "másik"
+⟪इतरौ⟫ alanyeset (nominativus)/tárgyeset (accusativus) kettes szám (dualis) m zu ⟪इतर⟫ 3 "másik"
 
-⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nominativ/Akkusativ Dual m (⟪धर्मकामौ⟫ duális dvandva)
+⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ alanyeset (nominativus)/tárgyeset (accusativus) kettes szám (dualis) m (⟪धर्मकामौ⟫ duális dvandva)
 :::
 ⟪४⟫. ⟪अश्वघोष⟫ (2. század e. K.): ⟪बुद्धचरित⟫ ⟪४⟫ Buddha megszabadító megértése
 

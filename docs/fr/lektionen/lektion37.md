@@ -139,7 +139,7 @@ Exemples :
 
 ⟪एवम्⟫ « ainsi » (dérivé d’une racine pronominale ⟪एव⟫ « un, unique » par ailleurs perdue)
 :::
-## 37.4. Bildung von Adverbien mit Adverbialsuffixen
+## 37.4. Formation d'adverbes avec des suffixes adverbiaux
 
 ::: grammar-box
 À partir des radicaux pronominaux ⟪तद्⟫, ⟪इदम्⟫ ou ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ ou ⟪कु⟫, on peut dériver des adverbes pronominaux correspondants à l'aide des suffixes adverbiaux

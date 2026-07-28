@@ -88,7 +88,7 @@ A magánhangzó végződésű tövek többes számának birtokos esete így kép
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genetiv Singular vokalisch auslautender Stämme:**
+**birtokos eset (genitivus) egyes szám vokalisch auslautender Stämme:**
 
 ::: grammar-box
 
@@ -152,7 +152,7 @@ Továbbiak később.
 ::: media
 ![](/images/lekt1405.webp)
 Ábra: ⟪दीपाः⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt1405))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt1405))
 :::
 * **bala n.** (⟪बल⟫) : erőszak, erő, hatalom; hadsereg, sereg
 * **bāla 3** (⟪बाल⟫) : fiatal, gyermeki, bolond; m. fiú
@@ -333,5 +333,5 @@ Kép: ⟪पुत्रवती⟫
 ::: media
 ![](/images/lekt1402.webp)
 Ábra: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt1402))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt1402))
 :::

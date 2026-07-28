@@ -17,7 +17,7 @@ status: stable
 
 **Klassisessa sanskritinkielessä näitä kolmea menneisyyden aikamuotoja käytetään merkityserojen puuttuessa (poikkeus: ⟪भारवि⟫'n runollinen teos ⟪किरातार्जुनीय⟫).**
 :::
-## 32.2. Imperfekti (⟪लङ्⟫)
+## 32.2. Imperfektiii (⟪लङ्⟫)
 
 ::: grammar-box
 **Muodostus:**
@@ -26,7 +26,7 @@ status: stable
 
 **Kolmas persoona singularissa Parasmaipada-imperfektissä muodostetaan vahvasta preesensvarresta athemaattisissa vartaloissa, kaikki muut muodot heikosta preesensvarresta.**
 
-**Imperfektissa on vain indikatiivi.**
+**Imperfektiiissa on vain indikatiivi.**
 :::
 Esimerkit:
 
@@ -68,7 +68,7 @@ Esimerkit:
 | ⟪उपागम्⟫ | ⟪उपागच्छत्⟫:br(upa + ā + a + gaccha-t) |
 
 :::
-## 32.4. Imperfekti muodostuksen esimerkit
+## 32.4. Imperfektiii muodostuksen esimerkit
 
 ::: important
 **Muotojen muodostuksen demonstroimiseksi tässä muodostetaan myös ātmanepada-muotoja parasmaipada-juurille! Nämä keinotekoiset muodot ovat välissä \< \>.**
@@ -133,7 +133,7 @@ Esimerkit:
 ![](/images/lekt3202.webp)
 Kuva: ⟪चूतः⟩
 Mangopuu, Kanpur.
-(Kuv lähde: [Details](/fi/licenses#lekt3202))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3202))
 :::
 ⟪तरु⟫ ⟪वृक्ष⟫
 
@@ -167,7 +167,7 @@ Mangopuu, Kanpur.
 ![](/images/lekt3203.webp)
 Kuva: ⟪वानराः⟫
 Apinat (rhesusmakakit) Delhissä.
-(Kuv lähde: [Details](/fi/licenses#lekt3203))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3203))
 :::
 **⟪लोक्⟫ ⟪लोकयति⟫**
 ::: indent
@@ -187,7 +187,7 @@ Apinat (rhesusmakakit) Delhissä.
 ![](/images/lekt3204.webp)
 Kuva: ⟪उपलाः⟩
 Kivimurskauspaikka Punen eteläpuolella, Maharashtra.
-(Kuv lähde: [Details](/fi/licenses#lekt3204))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3204))
 :::
 ⟪लक्ष्य⟫
 
@@ -331,7 +331,7 @@ B) Käännä ja ratkaise sanskritinkieliset yhdyssanat:
 ![](/images/lekt3208.webp)
 Kuva: ⟪बुद्धपुत्र⟫ ⟪इति⟫ ⟪बुद्धमार्गभिक्षुरुच्यते⟫
 Buddhalainen munkki Sri Lankassa.
-(Kuv lähde: [Details](/fi/licenses#lekt3208))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3208))
 :::
 ## 32.7. Joululomien aikainen toistoharjoitus
 

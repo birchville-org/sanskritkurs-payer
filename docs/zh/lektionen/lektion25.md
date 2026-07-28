@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 25
 
-## 25.1. Bildung des Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung")
+## 25.1. Bildung des Ablativ (⟪पञ्चमी⟫ = "fünfte Kasusendung") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Außer bei Maskulina / Neutra auf -a sowie den Pronomina sind im Singular in allen Deklinationsklassen die Formen des Ablativ (⟪पञ्चमी⟫) mit denen des Genetiv (⟪षष्ठी⟫) identisch. <!-- TODO: Fallback translation -->
@@ -36,7 +36,7 @@ Frage-, Relativ- und Demonstrativpronomina: <!-- TODO: Fallback translation -->
 | ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
-## 25.2. Gebrauch des Ablativ (⟪पञ्चमी⟫)
+## 25.2. Gebrauch des Ablativ (⟪पञ्चमी⟫) <!-- TODO: Fallback translation -->
 
 "Der Ablativ bezeichnet dasjenige, das fest bleibt, wenn etwas davon weggeht." <!-- TODO: Fallback translation -->
 
@@ -452,21 +452,21 @@ Erklärung: ⟪राजा⟫ = Nom. sg. zu ⟪राजन्⟫ m. = ⟪न�
 
 2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. über die Ausbildung eines Fürsten: <!-- TODO: Fallback translation -->
 
-⟪तस्माद्दण्डमूला⟫*⟪स्तिस्रो⟫* ⟪विद्याः⟫ ⟪॥१॥⟫  
-⟪विनयमूलो⟫ ⟪दण्डः⟫ *⟪प्राणभृतां⟫* ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
+⟪तस्माद्दण्डमूला⟫*:sig[⟪स्तिस्रो⟫]* ⟪विद्याः⟫ ⟪॥१॥⟫  
+⟪विनयमूलो⟫ ⟪दण्डः⟫ *:sig[⟪प्राणभृतां⟫]* ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
 ⟪कृतकः⟫ ⟪स्वाभाविकश्च⟫ ⟪विनयः⟫ ⟪॥३॥⟫  
 ⟪क्रिया⟫ ⟪हि⟫ ⟪द्रव्यं⟫ ⟪विनयति⟫ ⟪नाद्रव्यम्⟫ ⟪॥४॥⟫  
-⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ *⟪नेतरम्⟫* ⟪॥५॥⟫  
+⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ *:sig[⟪नेतरम्⟫]* ⟪॥५॥⟫  
 ... ⟪॥⟫  
-⟪वृत्तचौल⟫*⟪कर्मा⟫* ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫*⟪पयुन्ञ्जीत⟫* ⟪॥७॥⟫  
-⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ *⟪वक्तृप्रयोक्तृभ्यः⟫* ⟪॥८॥⟫  
-⟪ब्रह्मचर्यं⟫ ⟪चा⟫ *⟪षोडशाद्व⟫*⟪र्षाद्⟫ ⟪॥९॥⟫  
-⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫*⟪कर्म⟫* ⟪चास्य⟫ ⟪॥१०॥⟫  
+⟪वृत्तचौल⟫*:sig[⟪कर्मा⟫]* ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫*:sig[⟪पयुन्ञ्जीत⟫]* ⟪॥७॥⟫  
+⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ *:sig[⟪वक्तृप्रयोक्तृभ्यः⟫]* ⟪॥८॥⟫  
+⟪ब्रह्मचर्यं⟫ ⟪चा⟫ *:sig[⟪षोडशाद्व⟫]*⟪र्षाद्⟫ ⟪॥९॥⟫  
+⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫*:sig[⟪कर्म⟫]* ⟪चास्य⟫ ⟪॥१०॥⟫  
 ⟪नित्यश्च⟫ ⟪विद्यावृद्धसंयोगो⟫ ⟪विनयवृद्ध्यर्थम्⟫, ⟪तन्मूलत्वाद्विनयस्य⟫ ⟪॥११॥⟫  
 ... ⟪॥⟫  
-⟪श्रुता⟫*⟪द्धि⟫* ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫*⟪दात्मवत्ते⟫*⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
+⟪श्रुता⟫*:sig[⟪द्धि⟫]* ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫*:sig[⟪दात्मवत्ते⟫]*⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
 ... ⟪॥⟫  
-⟪कामक्रोधलोभमानमदहर्षत्यागा⟫*⟪त्कार्यः⟫* ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
+⟪कामक्रोधलोभमानमदहर्षत्यागा⟫*:sig[⟪त्कार्यः⟫]* ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
 Erklärung der im obigen Text rot hervorgehobenen Wörter: <!-- TODO: Fallback translation -->
 
@@ -476,13 +476,13 @@ Erklärung der im obigen Text rot hervorgehobenen Wörter: <!-- TODO: Fallback t
 
 1.5.5.  ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "anderer" <!-- TODO: Fallback translation -->
 
-1.5.7. ⟪कर्मा⟫ : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "Tat, Werk" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā zu upa-yuj 7 "sich aneignen": "er möge sich aneignen" <!-- TODO: Fallback translation -->
+1.5.7. :sig[⟪कर्मा⟫] : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "Tat, Werk" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā zu upa-yuj 7 "sich aneignen": "er möge sich aneignen" <!-- TODO: Fallback translation -->
 
 1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Abl., Dat. pl. zu ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "Theoretiker und Praktiker" <!-- TODO: Fallback translation -->
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : "sechzehnter" <!-- TODO: Fallback translation -->
 
-1.5.10. ⟪कर्म⟫ Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "Tat" <!-- TODO: Fallback translation -->
+1.5.10. :sig[⟪कर्म⟫] Nom., Akk. sg. zu ⟪कर्मन्⟫ n. "Tat" <!-- TODO: Fallback translation -->
 
 1.5.16. ⟪धि⟫ Sandhiform zu ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "Selbstbesitz" <!-- TODO: Fallback translation -->
 

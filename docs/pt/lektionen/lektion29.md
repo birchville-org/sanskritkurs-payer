@@ -117,7 +117,7 @@ Traduza literalmente para um bom português e memorize os textos em sânscrito:
 
 Definição de ⟪अविद्या⟫ :
 
-⟪अनित्याशुचिदुःखा⟫sig.[⟪नात्मसु⟫] ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
+⟪अनित्याशुचिदुःखा⟫sig.[:sig[⟪नात्मसु⟫]] ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
 
 Explicação: ⟪आत्मसु⟫ = Loc. sg. de ⟪आत्मन्⟫ m. "Alma ; o Absoluto, na medida em que é realizado no indivíduo"
 
@@ -154,13 +154,13 @@ Explicações:
 
 ⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "algo (alguém) de que se deve tremer"
 
-⟪।११।⟫ ⟪विज्ञात⟫ ⟪३⟫ "reconhecido" ; n.: Reconhecimento
+⟪।११।⟫ :sig[⟪विज्ञात⟫] ⟪३⟫ "reconhecido" ; n.: Reconhecimento
 
 ⟪।११।⟫ ⟪योजयति⟫ (Caus. de ⟪युज्⟫) "arrear, conectar com, unir com"
 
 ⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. de ⟪कामक्रोध⟫ (Dualdvandva)
 
-⟪।१२।⟫ ⟪किमङ्ग⟫ "quanto mais"
+⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "quanto mais"
 
 ⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. masc. de ⟪बलीयस्⟫ ⟪३⟫ "mais forte"
 

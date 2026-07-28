@@ -27,8 +27,8 @@ title: प्रभाव और उद्धरण
 
 **KI-जनित अनुवाद** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) और **तकनीकी पाइपलाइन** (स्क्रिप्ट, QA-व्यूअर, VitePress विन्यास):
 
-- अनुवाद: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — नाम देना, समान अनुज्ञा के तहत वितरण
-- कोड/पाइपलाइन: [MIT License](https://opensource.org/licenses/MIT)
+- अनुवाद: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — नाम देना, समान अनुज्ञा के तहत वितरण
+- कोड/पाइपलाइन: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
 
 **अनुवाद के लिए उद्धरण शैली:**
 > Payer, अलोइस: संस्कृत पाठ। कृत्रिम बुद्धिमत्ता की सहायता से अनुवादित। मार्को देमारमेल (संपादक), 2026। URL: https://payer.birchville.cc — CC BY-SA 4.0

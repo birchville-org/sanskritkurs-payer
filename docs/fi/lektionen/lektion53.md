@@ -39,7 +39,7 @@ Kuv.: ⟪मार्जारयुगम्⟫
 ::: media
 ![](/images/lekt5302.webp)
 Kuv.: ⟪हस्तौ⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt5302))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt5302))
 :::
 ## 53.2. Nomien kaksikon päätteen muodot
 
@@ -118,7 +118,7 @@ Kuv.: ⟪हस्तौ⟫
 ::: media
 ![](/images/lekt5305.webp)
 Kuv.: ⟪भरन्तौ⟫
-(Kuv lähde: [Details](/fi/licenses#lekt5305))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5305))
 :::
 ⟪ददत्⟫ 3 "antava"
 
@@ -241,7 +241,7 @@ Kuv.: ⟪फले⟩
 :::
 ::: media
 ![](/images/lekt5307.webp)
-Kuv.: ⟪धेनू⟫
+Kuv.: :sig[⟪धेनू⟫]
 (Kuv lähde: [Yksityiskohdat](/fi/licenses#lekt5307))
 :::
 **Vartalon -ā päättävät sanat**
@@ -286,7 +286,7 @@ Kuv.: ⟪धेनू⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ |
 :::
-## 53.5. Dualdvandva
+## 53.5. duaalidvandva
 
 Esimerkit:
 
@@ -497,7 +497,7 @@ Mitan määrittäminen on tärkeää seuraavista syistä:
 ::: media
 ![](/images/lekt5304.jpg)
 Kuv.: ⟪हर्मन्⟩-⟪ओल्डन्बेर्ग्⟩
-(Kuv lähde: [Details](/fi/licenses#lekt5304))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5304))
 :::
 ### 53.10.2. Mitojen tyypit
 

@@ -119,7 +119,7 @@ Ad intellegendum formas singulares declinationis nominum in -mant et -vant seque
 -c + dh- » -g-dh- ⟪ग्ध्⟫
 :::
 
-## 13.7. Kasusendungen konsonantischer Stämme
+## 13.7. Casus finales stemmatum consonantium
 
 ::: grammar-box
 
@@ -130,7 +130,7 @@ In radicibus consonantibus terminantibus:
 
 :::
 
-## 13.8. Deklination der Stämme auf -mant und -vant
+## 13.8. Declinatio stemmatium in -mant et -vant
 
 ::: grammar-box
 

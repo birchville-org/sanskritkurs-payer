@@ -241,7 +241,7 @@ Fig.: ⟪फले⟫
 :::
 ::: media
 ![](/images/lekt5307.webp)
-Fig.: ⟪धेनू⟫
+Fig.: :sig[⟪धेनू⟫]
 (Fonte da imagem: [Detalhes](/licenses#lekt5307))
 :::
 **Temas em -ā**

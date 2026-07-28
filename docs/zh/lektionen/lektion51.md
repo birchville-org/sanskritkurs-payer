@@ -100,14 +100,14 @@ Abb.: ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪ह�
 ⟪नेपाल⟫
 (Bildquelle: [Details](/licenses#lekt5102)) <!-- TODO: Fallback translation -->
 :::
-## 51.2. Deklination der Stämme, die auf einen einfachen Konsonanten (außer Nasal, Halbvokal, -s) auslauten
+## 51.2. Deklination der Stämme, die auf einen einfachen Konsonanten (außer Nasal, Halbvokal, -s) auslauten <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Stämme, die auf einen einfachen Konsonanten (außer Nasal, Halbvokal, -s) auslauten, haben keine Stammabstufung. Die Deklination geschieht völlig regelmäßig durch Anfügung der regulären Kasusendungen.** <!-- TODO: Fallback translation -->
 
 **Einzige Unregelmäßigkeit: im Nom.,Akk.,Vok.pl.Neutrum wird vor den Stammauslaut ein Nasal eingeschoben.** <!-- TODO: Fallback translation -->
 :::
-### 51.2.1. Stämme auf nichtpalatalen Verschlusslaut
+### 51.2.1. Stämme auf nichtpalatalen Verschlusslaut <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Es gelten die üblichen Lautveränderungsgesetze, d.h.** <!-- TODO: Fallback translation -->
@@ -142,7 +142,7 @@ Neutrum <!-- TODO: Fallback translation -->
 
 ::: indent
 Singular Nom.Akk.Vok.  ⟪शत्रुजित्⟫
-Plural Nom.Akk.Vok. ***⟪शत्रुजिन्ति⟫*** <!-- TODO: Fallback translation -->
+Plural Nom.Akk.Vok. ***:sig[⟪शत्रुजिन्ति⟫]*** <!-- TODO: Fallback translation -->
 :::
 ⟪सुयुध्⟫ 3 "gut kämpfend" <!-- TODO: Fallback translation -->
 
@@ -152,7 +152,7 @@ u.s.w. <!-- TODO: Fallback translation -->
 :::
 Vollständige Paradigmen bei Kielhorn, Grammatik S. 16ff. <!-- TODO: Fallback translation -->
 
-### 51.2.2. Stämme auf palatalen Verschlusslaut (c, ch, j), ś, ṣ
+### 51.2.2. Stämme auf palatalen Verschlusslaut (c, ch, j), ś, ṣ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Vor vokalisch anlautender Endung bleibt der Auslaut des Stammes unverändert.** <!-- TODO: Fallback translation -->
@@ -252,7 +252,7 @@ Abb.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
 (Bildquelle: [Details](/licenses#lekt5104)) <!-- TODO: Fallback translation -->
 :::
-### 51.2.3. Stämme auf -h
+### 51.2.3. Stämme auf -h <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Vor vokalisch anlautender Endung bleibt das -h unverändert.** <!-- TODO: Fallback translation -->
@@ -408,9 +408,9 @@ Pass. ⟪विशिष्यते⟫ : sich unterscheiden von (⟪पञ्�
 ⟪स्व⟫ 3: eigen, sein (mein, dein etc.) Wird wie ⟪सर्व⟫ dekliniert. Im Abl.Lok.sg.m.n und im Nom.pl.m kann es auch wie ⟪देव⟫ dekliniert werden: <!-- TODO: Fallback translation -->
 
 ::: indent
-Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ ***⟪स्वात्⟫***
-Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ ***⟪स्⟫***⟪वे⟫
-Nom.pl.m ⟪स्वे⟫ ⟪।⟫ ***⟪स्वास्⟫*** <!-- TODO: Fallback translation -->
+Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ ***:sig[⟪स्वात्⟫]***
+Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ ***:sig[⟪स्⟫]***⟪वे⟫
+Nom.pl.m ⟪स्वे⟫ ⟪।⟫ ***:sig[⟪स्वास्⟫]*** <!-- TODO: Fallback translation -->
 :::
 ⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : schelten, tadeln <!-- TODO: Fallback translation -->
 
@@ -578,8 +578,8 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫ <!-- TODO: 
 ⟪१⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪९⟫ - ⟪१२⟫ ⟪आश्रमधर्मः⟫
 
 ⟪गृहस्तस्य⟫ ⟪स्वधर्माजीवस्तुल्यैरसमानार्षिभिर्वैवाह्यमृतुगामित्वं⟫ ⟪देवपित्रातिथिपूजा⟫ ⟪भृत्येषु⟫ ⟪त्यागः⟫ ⟪शेषभोजनं⟫ ⟪च⟫ ⟪।९।⟫  
-⟪ब्रह्मचारिणः⟫ ⟪स्वाध्यायो⟫ ⟪ऽग्निकार्याभिषे⟫*⟪कौ⟫* ⟪भैक्षाव्रतित्वमाचार्ये⟫ ⟪प्राणान्तिकी⟫ ⟪वृत्तिस्तदभावे⟫ ⟪गुरुपुत्रे⟫ ⟪सब्रह्मचारिणि⟫ ⟪वा⟫ ⟪।१०।⟫  
-⟪वानप्रस्थस्य⟫ ⟪ब्रह्मचर्यं⟫ ⟪भूमौ⟫ ⟪शय्या⟫ ⟪जाटाजिनधारणमग्निहोत्राभिषे⟫*⟪कौ⟫* ⟪देवतापित्रतिथिपूजा⟫ ⟪वन्यश्चाहारः⟫ ⟪।११।⟫  
+⟪ब्रह्मचारिणः⟫ ⟪स्वाध्यायो⟫ ⟪ऽग्निकार्याभिषे⟫*:sig[⟪कौ⟫]* ⟪भैक्षाव्रतित्वमाचार्ये⟫ ⟪प्राणान्तिकी⟫ ⟪वृत्तिस्तदभावे⟫ ⟪गुरुपुत्रे⟫ ⟪सब्रह्मचारिणि⟫ ⟪वा⟫ ⟪।१०।⟫  
+⟪वानप्रस्थस्य⟫ ⟪ब्रह्मचर्यं⟫ ⟪भूमौ⟫ ⟪शय्या⟫ ⟪जाटाजिनधारणमग्निहोत्राभिषे⟫*:sig[⟪कौ⟫]* ⟪देवतापित्रतिथिपूजा⟫ ⟪वन्यश्चाहारः⟫ ⟪।११।⟫  
 ⟪प्रव्राजकस्य⟫ ⟪जितेन्द्रियत्वमनारम्भो⟫ ⟪निष्किंचनत्वं⟫ ⟪सङ्गत्यागो⟫ ⟪भैक्षाव्रतमनेकत्रारण्ये⟫ ⟪च⟫ ⟪वासो⟫ ⟪बाह्याभ्यन्तरं⟫ ⟪च⟫ ⟪शौचम्⟫ ⟪॥१२॥⟫
 
 Erklärung: -⟪अभिषेकौ⟫ Nom.Akk.Vok.Dual.mask. (Dualdvandva) <!-- TODO: Fallback translation -->

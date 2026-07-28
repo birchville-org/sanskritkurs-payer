@@ -33,7 +33,7 @@ Note that the secondary ending of the 2.pl.P. is identical to the secondary endi
 ::: media
 ![](/images/lekt4301.jpg)
 :::
-The 3.sg.Ā.Imperfect or Optative is formally identical to the 2.pl.P.Imperfect or Optative!
+The 3.sg.Ā.Imperfect or Optativeee is formally identical to the 2.pl.P.Imperfect or Optativeee!
 
 #### 43.2.1.1. First present class (⟪भ्वादि⟫)
 
@@ -89,7 +89,7 @@ The 3.sg.Ā.Imperfect or Optative is formally identical to the 2.pl.P.Imperfect 
 | **Imperfect** ⟪लङ्⟫ | ⟪ऐक्ष्यथास्⟫ | ⟪ऐक्ष्यध्वम्⟫ |
 | **Optative** ⟪विधिलिङ्⟫ | ⟪ईक्ष्येथास्⟫ | ⟪ईक्ष्येध्वम्⟫ |
 
-#### 43.2.1.6. Future (⟪ऌट्⟫)
+#### 43.2.1.6. Futureee (⟪ऌट्⟫)
 
 #### 43.2.1.6.1. ⟪अनिट्⟫-forms
 

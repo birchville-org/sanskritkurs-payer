@@ -54,16 +54,16 @@ Syllaba radicalis:
 **Vocalis huius dictae syllabae radicalem in aoristo determinatur secundum sequentes regulas:**
 
 *   **\-ā- ante consonantem simplicem per -a- substituitur:**
-    ⟪पॄ⟫ 3P: Caus. ***⟪पार⟫***⟪यति⟫, Aor. ⟪अपि⟫***⟪पर⟫***⟪त्⟫  
-    ⟪द्रु⟫ 1P: Caus. ***⟪द्राव⟫***⟪यति⟫, Aor. ⟪अदु⟫***⟪द्रव⟫***⟪त्⟫ / ⟪अदि⟫***⟪द्रव⟫***⟪त्⟫  
-    ⟪नी⟫ 1U: Caus. ***⟪नाय⟫***⟪यति⟫, Aor. ⟪अनी⟫***⟪नय⟫***⟪त्⟫  
-    ⟪ज्ञा⟫ 9U: Caus. ***⟪ज्ञाप⟫***⟪यति⟫, Aor. ⟪अजि⟫***⟪ज्ञप⟫***⟪त्⟫
+    ⟪पॄ⟫ 3P: Caus. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫  
+    ⟪द्रु⟫ 1P: Caus. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫  
+    :sig[⟪नी⟫] 1U: Caus. **:sig[⟪नाय⟫]**⟪यति⟫, Aor. ⟪अनी⟫**:sig[⟪नय⟫]**⟪त्⟫  
+    ⟪ज्ञा⟫ 9U: Caus. **:sig[⟪ज्ञाप⟫]**⟪यति⟫, Aor. ⟪अजि⟫**:sig[⟪ज्ञप⟫]**⟪त्⟫
 
 *   **\-ī-, -e-, -ai- ante consonantem simplicem per -i- substituitur:**
-    ⟪चित्⟫ 1P: Caus. ***⟪चेत⟫***⟪यति⟫, Aor. (Ā) ⟪अची⟫***⟪चित⟫***⟪त⟫
+    ⟪चित्⟫ 1P: Caus. **:sig[⟪चेत⟫]**⟪यति⟫, Aor. (Ā) ⟪अची⟫**:sig[⟪चित⟫]**⟪त⟫
 
 *   **-u-, -o-, -au- ante consonantem simplicem per -u- substituitur:**
-    ⟪चुर्⟫ 10U: ***⟪चोर⟫***⟪यति⟫, Aor. ⟪अचू⟫***⟪चुर⟫***⟪त्⟫
+    ⟪चुर्⟫ 10U: **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
 
 **Quibusdam radicibus mutationes praedictae vel optativae sunt vel omittendae:**
 
@@ -85,8 +85,8 @@ Postquam regulae modo dictae ad syllabam radicalem applicatae sunt, sequentes re
 **Haec vocalis reduplicativa subicitur his mutationibus:**
 
 *   **i, u per ī, ū substituitur, si syllaba radicalis uno tantum consonante incipit et metrico brevi est:**
-    ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫***⟪तू⟫***⟪तुदत्⟫
+    ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫  
+    ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
 
 *   **a mutatur in ī, si syllaba radicalis metricum brevem habet et uno tantum consonante incipit. Si syllaba radicalis metricum brevem habet et pluribus quam uno consonantibus incipit, a syllabae reduplicationis in i mutatur. Si syllaba radicalis metricum longum habet, a manet:**
     ⟪नी⟩ 1U: Caus. ⟪नाययति⟩, syllaba radicalis Aoristi ⟪नय्⟩, Aor. ⟪अ⟩***⟪नी⟩***⟪नयत्⟩  

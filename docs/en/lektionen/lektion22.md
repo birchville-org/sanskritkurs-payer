@@ -17,7 +17,7 @@ If one wishes to express in Sanskrit that an action of the agent (⟪कर्�
 
 "after he has done that, he does the other"; "he does that, then he does the other"; "as a result of this, he does the other"; "I came, saw, and conquered" etc.
 
-The Absolutiv is a verbal adverb, i.e., it is neither conjugable nor declinable, but it always has — with few exceptions — the same agent (⟪कर्तृ⟩) as the action whose action precedes or accompanies it, as designated by the Absolutiv. The agent of the Absolutiv is therefore in the Nominativ (⟪प्रथमा⟩) or Instrumentalis (⟪तृतीया⟩).
+The Absolutiv is a verbal adverb, i.e., it is neither conjugable nor declinable, but it always has — with few exceptions — the same agent (⟪कर्तृ⟩) as the action whose action precedes or accompanies it, as designated by the Absolutiv. The agent of the Absolutiv is therefore in the Nominativee (⟪प्रथमा⟩) or Instrumental (⟪तृतीया⟩).
 
 Besides the compounds, the Absolutiv is one of the most frequent means of expression in Sanskrit.
 
@@ -143,9 +143,9 @@ Root ending in **-a** + **-tya**
 :::
 ::: media
 ![](/images/lekt2202.webp)
-Fig.: ⟪कामदेवः⟫
-19th c.
-(Image source: [Details](/en/licenses#lekt2202))
+Abb.: ⟪कामदेवः⟫
+19. Jhdt
+(Bildquelle: [Details](/licenses#lekt2202))
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** to be able, to be capable
 

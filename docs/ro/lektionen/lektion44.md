@@ -157,9 +157,9 @@ La rădăcinile de prezent care se termină în consoană, se aplică legile dej
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | ***⟪असि⟫*** | ***⟪स्थ⟫*** |
-| **Imperfekt** :br⟪लङ्⟫ | ***⟪आसीस्⟫*** | ***⟪आस्त⟫*** |
-| **Optativ** :br⟪विधिलिङ्⟫ | ***⟪स्यास्⟫*** | ***⟪स्यात⟫*** |
+| **Indikativ Präsens** :br⟪लट्⟫ | **:sig[⟪असि⟫]** | **:sig[⟪स्थ⟫]** |
+| **Imperfekt** :br⟪लङ्⟫ | **:sig[⟪आसीस्⟫]** | **:sig[⟪आस्त⟫]** |
+| **Optativ** :br⟪विधिलिङ्⟫ | **:sig[⟪स्यास्⟫]** | **:sig[⟪स्यात⟫]** |
 :::
 ⟪तत्त्वमसि⟫
 
@@ -240,7 +240,7 @@ din care:
 Fig.: ⟪रेल्यानम्⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt4403))
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : a se întinde. Această rădăcină are în toate formele temei prezentului **gradul înalt:** 1.sg.Ind.Prez.Ā ***⟪शेये⟫*** (śe + e). Formele următoare sunt deosebit de importante: 3.pl.Ind.Prez.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
+**⟪शी⟫** 2Ā ⟪शेते⟫ : a se întinde. Această rădăcină are în toate formele temei prezentului **gradul înalt:** 1.sg.Ind.Prez.Ā **:sig[⟪शेये⟫]** (śe + e). Formele următoare sunt deosebit de importante: 3.pl.Ind.Prez.Ā **:sig[⟪शेरते⟫]**, 3.pl.Impf.Ā **:sig[⟪अशेरत⟫]**
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -281,13 +281,13 @@ Fig.: ⟪नन्दी⟫
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : a-și găsi bucuria în (⟪द्वितीयया⟫), a întâmpina pe cineva cu bucurie, a bineveni
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : a ține, a purta; a oferi, a acorda; a țunit împreună, a stăpâni, a frâna, a învinge
+**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : a ține, a purta; a oferi, a acorda; a țunit împreună, a stăpâni, a frâna, a învinge
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ dar: ⟪नि⟫***⟪यम⟫***⟪यति⟫  
+Kaus. ⟪यामयति⟫ dar: ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
@@ -331,7 +331,7 @@ Fig.: ⟪यत्नेन⟫
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. ***⟪रम्भ⟫***⟪यति⟫  
+Kaus. **:sig[⟪रम्भ⟫]**⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫

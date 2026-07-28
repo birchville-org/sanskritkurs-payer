@@ -177,7 +177,7 @@ Pentru ⟪भू⟫ Persoana I singular, aoristul radical se formează astfel:
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
+| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | **:sig[⟪अभूवन्⟫]** (!!!) |
 :::
 ### 54.6.1. Aoristul la persoana a III-a singular, vocea pasivă
 

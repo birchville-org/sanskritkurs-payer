@@ -296,7 +296,7 @@ Das Gerundiv kann auch als Prädikatsnomen in Sätzen mit Passivkonstruktion ver
 Abb.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
 (Bildquelle: [Details](/licenses#lekt4108)) <!-- TODO: Fallback translation -->
 :::
-### 41.2.4. Unterschiede im Gebrauch der Gerundiv-Suffixe
+### 41.2.4. Unterschiede im Gebrauch der Gerundiv-Suffixe <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Weitgehend überschneidet sich der Gebrauch dieser Suffixe <!-- TODO: Fallback translation -->

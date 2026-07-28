@@ -22,7 +22,7 @@ status: stable
 ![](/images/lekt5007.webp)
 Fig.: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
 ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_  = Gunung Everest
-(Sumber gambar: [Details](/en/licenses#lekt5007))
+(Sumber gambar: [Detail](/en/licenses#lekt5007))
 :::
 
 ::: grammar-box
@@ -81,7 +81,7 @@ e.g. ⟪सुतराम्⟫ (to ⟪सु⟫) "in a better way" (adverbiall
 ![](/images/lekt5006.webp)
 Fig.: ⟪का⟫ ⟪पचतितमाम्⟫
 Lisu = , ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Image source: [Details](/en/licenses#lekt5006))
+(Image source: [Detail](/en/licenses#lekt5006))
 :::
 ## 50.2. Daftar Kata
 
@@ -99,7 +99,7 @@ Lisu = , ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 ![](/images/lekt5001.jpg)
 Fig.: ⟪मन्त्री⟫
 Kapil Sibal (1948 -), menteri persatuan di Kementerian Ilmu Pengetahuan dan Teknologi serta Kementerian Sains Bumi (sejak 2006)
-(Sumber gambar: [Details](/en/licenses#lekt5001))
+(Sumber gambar: [Detail](/en/licenses#lekt5001))
 :::
 ⟪रहस्⟫ n.: rahasia, kesunyian
 
@@ -112,7 +112,7 @@ Pass. ⟪रिष्यते⟫
 Caus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U *⟪लुम्प⟫*⟪ति⟫** : break, destroy
+**⟪लुप्⟫ 6U *:sig[⟪लुम्प⟫]*⟪ति⟫** : break, destroy
 
 ::: indent
 Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
@@ -141,7 +141,7 @@ Absol.-⟪वृष्य⟫
 ![](/images/lekt5002.jpg)
 Fig.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 Kedatangan Monsun, Bangalore  ಬೆಂಗಳೂರು
-(Sumber gambar: [Details](/en/licenses#lekt5002))
+(Sumber gambar: [Detail](/en/licenses#lekt5002))
 :::
 ⟪संयक्⟫ Adv.: benar, tepat, dengan cara yang benar; secara menyeluruh, sepenuhnya
 
@@ -150,7 +150,7 @@ Kedatangan Monsun, Bangalore  ಬೆಂಗಳೂರು
 ::: media
 ![](/images/lekt5005.jpg)
 Fig.: ⟪आदित्यः⟫
-(Image source: [Details](/en/licenses#lekt5005))
+(Image source: [Detail](/en/licenses#lekt5005))
 :::
 ⟪सर्व⟫ 3: each, all
 
@@ -160,8 +160,8 @@ Declension like ⟪यद्⟫ (exception: Nom.Akk.sg.Neuter)
 | | Tunggal:br⟪एकवचनम्⟫ || || Jamak:br⟪बहुवचनम्⟫ || ||
 | | **Maskulin:br⟪पुंस्⟫** | **Netral:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** | **Maskulin:br⟪पुंस्⟫** | **Netral:br⟪नपुंसकम्⟫** | **Feminin:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Nominatif:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Akusatif:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **1. Nominatif:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | **:sig[⟪सर्वम्⟫]** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. Akusatif:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | **:sig[⟪सर्वम्⟫]** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
 | **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
 | **4. Datif:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **5. Ablatif:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
@@ -179,7 +179,7 @@ Declension like ⟪यद्⟫ (exception: Nom.Akk.sg.Neuter)
 ::: media
 ![](/images/lekt5003.webp)
 Fig.: ⟪कल्याणी⟫
-(Image source: [Details](/en/licenses#lekt5003))
+(Image source: [Detail](/en/licenses#lekt5003))
 :::
 ⟪कु⟫- : as the first member of compounds: bad
 
@@ -187,7 +187,7 @@ Fig.: ⟪कल्याणी⟫
 ![](/images/lekt5004.webp)
 Fig.: ⟪कुनगरम्⟫
 ⟪धारावी⟫, ⟪मुंबई⟫
-(Image source: [Details](/en/licenses#lekt5004))
+(Image source: [Detail](/en/licenses#lekt5004))
 :::
 ⟪चक्ष्⟫ 2Ā ⟪चष्टे⟫ 2.pl. Ā ⟪चड्ढ्वे⟫ : see
 
@@ -213,7 +213,7 @@ tidak digunakan dalam tense lain
 ![](/images/lekt5008.webp)
 Fig.: ⟪गुरुमेव⟫ ⟪भजे⟫
 Ganeshpuri, 80 km from Mumbai (⟪मुंबई⟫)
-(Image source: [Details](/en/licenses#lekt5008))
+(Image source: [Detail](/en/licenses#lekt5008))
 :::
 B) Translate:
 
@@ -257,10 +257,10 @@ B) Translate:
 
 ::: indent
 ⟪हेयं⟫ ⟪दुःखमनागतम्⟫ ⟪॥६॥⟫
-***⟪द्रष्टृदृश्ययोः⟫*** ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
+**:sig[⟪द्रष्टृदृश्ययोः⟫]** ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
 
 Explanation:
-⟪द्रष्टृदृश्ययोः⟫ : Gen.Loc.m.n.f.Dual (Dualdvandva)
+:sig[⟪द्रष्टृदृश्ययोः⟫] : Gen.Loc.m.n.f.Dual (Dualdvandva)
 :::
 ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: On the King's Advisors
 
@@ -283,7 +283,7 @@ Explanation:
 ⟪यो⟫ ⟪ऽध्यापयति⟫ ⟪वृत्त्यर्थम्⟫
 ⟪उपाध्यायः⟫ ⟪स⟫ ⟪उच्यते⟫ ⟪॥१०॥⟫
 
-⟪निषेका⟫***⟪दीनि⟫*** ⟪कर्माणि⟫
+⟪निषेका⟫**:sig[⟪दीनि⟫]** ⟪कर्माणि⟫
 ⟪यः⟫ ⟪करोति⟫ ⟪यथाविधि⟫ ⟪।⟫
 ⟪संभावयति⟫ ⟪चान्नेन⟫
 ⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥११॥⟫

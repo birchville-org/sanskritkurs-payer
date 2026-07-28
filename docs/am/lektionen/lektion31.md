@@ -1,5 +1,5 @@
 ---
-title: ትምህርት 31
+title: Lektion 31
 lesson_id: 31
 status: stable
 ---
@@ -26,11 +26,11 @@ status: stable
 
 | | | Parasmaipada | Ātmanepada |
 | :--- | :--- | :--- | :--- |
-| **አመላካች** | **3ኛ ነጠላ** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(በቃል ውስጥ ከጉሮሮ ፊደላት በፊት አፍንጫዊ ፊደላት በ -ṅ- ይተካሉ) |
+| **አመላካች** | **3ኛ ነጠላ** | ⟪युनक्ति⟫:bryu-na-j + -ti | ⟪युङ्क्ते⟫:bryu + n + j + te:br(vor Guttural im Wortinnern werden Nasale durch -ṅ- ersetzt) |
 | | **3ኛ ብዙ** | ⟪युञ्जन्ति⟫:bryu + n + j-anti | ⟪युञ्जते⟫:bryu + n + j-ate |
 | **ምኞታዊ** | **3ኛ ነጠላ** | ⟪युञ्ज्यात्⟫:bryu + n + j-yā-t | ⟪युञ्जीत⟫:bryu + n + j-ī-ta |
 | | **3ኛ ብዙ** | ⟪युञ्ज्युर्⟫:bryu + n + j-y-ur | ⟪युञ्जीरन्⟫:bryu + n + j-ī-ran |
-| **የአሁን ጊዜ ተካፋይ** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brሴ.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
+| **የአሁን ጊዜ ተካፋይ** | | ⟪युञ्जन्त्⟫-:bryu + n + j-ant-:brfem.: ⟪युञ्जती⟫:bryu + n + j-at-ī | |
 
 :::
 ⟪रुध्⟫ 7U "ማቆም፣ እንዲቆም ማድረግ"
@@ -55,8 +55,8 @@ status: stable
 
 ::: indent
 *   የአሁን ጊዜ አመልካች
-*   3.sg.P. ⟪भनक्ति⟫ (bha-na + j + ti)
-*   3.pl.P. ⟪भञ्जन्ति⟫ (bha + n + j-anti)
+    *   3.sg.P. ⟪भनक्ति⟫ (bha-na + j + ti)
+    *   3.pl.P. ⟪भञ्जन्ति⟫ (bha + n + j-anti)
 *   የወደፊት ጊዜ፡ ⟪भङ्क्ष्यति⟫ (bha + n + j + sya + ti)
 *   ተገብሮ፡ ⟪भज्यते⟫ (ከመጀመሪያው ሥር ⟪भज्⟫ ወይም ከ *bhñj-ya-te*)
 *   PPP: ⟪भग्न⟫ (ምናልባት ከ *bhñj + na*)

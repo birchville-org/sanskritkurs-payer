@@ -9,7 +9,7 @@ status: stable
 
 # Pelajaran 27
 
-## 27.1. Gebrauch  Lokativ (⟪सप्तमी⟫ f. = "siebte Kasusendung")
+## 27.1. Penggunaan  Lokatif (⟪सप्तमी⟫ f. = "akhiran kasus ketujuh")
 
 ::: grammar-box
 
@@ -22,7 +22,7 @@ status: stable
 :::
 ::: grammar-box
 
-**1. Lokativ (⟪सप्तमी⟫) menunjukkan, sebagai respons terhadap pertanyaan "Di mana?", ruang (di, pada, oleh) di mana agen (⟪कर्ता⟫) atau objek tindakan berada, atau di mana tindakan itu sendiri terjadi.**
+**1. Lokatif (⟪सप्तमी⟫) menunjukkan, sebagai respons terhadap pertanyaan "Di mana?", ruang (di, pada, oleh) di mana agen (⟪कर्ता⟫) atau objek tindakan berada, atau di mana tindakan itu sendiri terjadi.**
 
 > ⟪नगरे⟫ ⟪वसति⟫ = "He lives in the city"
 
@@ -31,12 +31,12 @@ status: stable
 ![](/images/lekt2701.webp)
 Fig.: ⟪जयपुरनगरे⟫
 Jaipur, 1875.
-(Image source: [Details](/en/licenses#lekt2701))
+(Image source: [Detail](/en/licenses#lekt2701))
 :::
 
 ::: grammar-box
 
-**2. Lokativ menunjukkan, sebagai respons terhadap pertanyaan "Kapan?", titik waktu atau keadaan eksternal:**
+**2. Lokatif menunjukkan, sebagai respons terhadap pertanyaan "Kapan?", titik waktu atau keadaan eksternal:**
 
 > ⟪तस्मिन्काले⟫ = "at that time, at that time"
 
@@ -61,12 +61,12 @@ Jaipur, 1875.
 ![](/images/lekt2702.webp)
 Fig.: ⟪एवं⟫ ⟪गच्छति⟫ ⟪कालयुष्ट्रः⟫ ⟪स्वपित⟫i
 Rajasthan.
-(Image source: [Details](/en/licenses#lekt2702))
+(Image source: [Detail](/en/licenses#lekt2702))
 :::
 
 ::: grammar-box
 
-**3. Lokativ juga muncul sebagai respons terhadap pertanyaan "Sehubungan dengan apa?" dll.:**
+**3. Lokatif juga muncul sebagai respons terhadap pertanyaan "Sehubungan dengan apa?" dll.:**
 
 > ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫ = "Ia memiliki cinta kepada putranya" (lit. "Sehubungan dengan putra, cinta ada padanya")
 
@@ -75,30 +75,30 @@ Rajasthan.
 ![](/images/lekt2703.webp)
 Fig.: ⟪अस्ति⟫ ⟪तस्य⟫ ⟪पुत्रे⟫ ⟪स्नेहः⟫
 Holi.
-(Image source: [Details](/en/licenses#lekt2703))
+(Image source: [Detail](/en/licenses#lekt2703))
 :::
 
 ::: grammar-box
 
-**4. Lokativ digunakan dalam kamus lokal dan oleh para komentator untuk menunjukkan makna sebuah kata:**
+**4. Lokatif digunakan dalam kamus lokal dan oleh para komentator untuk menunjukkan makna sebuah kata:**
 
 > ⟪भू⟫ ⟪सत्तायाम्⟫ = "the root ⟪भू⟫ in the meaning 'beingness' (sat-tā)"
 
 :::
 Informasi lebih lanjut mengenai penggunaan Lokatif akan menyusul kemudian.
 
-## 27.2. Bildung  Lokativ (⟪सप्तमी⟫)
+## 27.2. Pembentukan  Lokatif (⟪सप्तमी⟫)
 
 ::: grammar-box
 
-**Akhiran regular untuk Lokativ (⟪सप्तमी⟫) adalah:**
-*   **Singular: -i**
-*   **Plural: -su**
+**Akhiran regular untuk Lokatif (⟪सप्तमी⟫) adalah:**
+*   **Tunggal: -i**
+*   **Jamak: -su**
 
 **Note the sound changes before -su as well as the possible cerebralization of -su to -ṣu!**
 
 :::
-### 27.2.1. Konsonantische Stämme
+### 27.2.1. Stamm Konsonan
 
 ::: grammar-box
 
@@ -122,7 +122,7 @@ Informasi lebih lanjut mengenai penggunaan Lokatif akan menyusul kemudian.
 | Feminin:brLokatif Jamak | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
 :::
-### 27.2.3. Vokalische Stämme
+### 27.2.3. Stamm Vokal
 
 ::: grammar-box
 
@@ -155,21 +155,21 @@ Informasi lebih lanjut mengenai penggunaan Lokatif akan menyusul kemudian.
 :::
 **Printed in red**: strong cases (with stem gradation).
 
-## 27.4. Sebuah bait dengan semua bentuk deklinasi (tunggal) dari ⟪राम⟫
+## 27.4. Sebuah bait dengan semua bentuk deklinasi (tunggal) dari :sig[⟪राम⟫]
 
 ::: media
 ![](/images/lekt2708.webp)
-Fig.: ⟪रामे⟫ ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ⟪राम⟫ ⟪मामुद्धर⟫ ⟪॥⟫
+Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
-(Image source: [Details](/en/licenses#lekt2708))
+(Image source: [Detail](/en/licenses#lekt2708))
 :::
-***⟪रामो⟫*** ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ ***⟪रामं⟫*** ⟪रमेशं⟫ ⟪भजे⟫:br***⟪रामेणा⟫***⟪भिहता⟫ ⟪निशाचरचमू⟫ ***⟪रामाय⟫*** ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br***⟪रामान्ना⟫***⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ ***⟪रामस्य⟫*** ⟪दासोऽस्म्यहम्⟫:br***⟪रामे⟫*** ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ***⟪राम⟫*** ⟪मामुद्धर⟫ ⟪॥⟫
+**:sig[⟪रामो⟫]** ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ **:sig[⟪रामं⟫]** ⟪रमेशं⟫ ⟪भजे⟫:br**:sig[⟪रामेणा⟫]**⟪भिहता⟫ ⟪निशाचरचमू⟫ **:sig[⟪रामाय⟫]** ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br**:sig[⟪रामान्ना⟫]**⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ **:sig[⟪रामस्य⟫]** ⟪दासोऽस्म्यहम्⟫:br**:sig[⟪रामे⟫]** ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ **:sig[⟪राम⟫]** ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Terjemahan:**
 1. **Nominatif:** Rāma, permata (⟪मणि⟩ m.) di antara raja-raja (⟪राजन्⟩ m.) selalu menaklukkan (⟪सदा⟩).
 2. **Akkusatif:** Aku mencintai (⟪भज्⟩ 1S) Rāma, tuan dan suami (⟪ईश⟩ m.) dari Ramā (= Lakṣmī).
 3. **Instrumental:** Rāma telah membunuh pasukan (⟪चमू⟩ f.) dari penghuni malam (= raksasa) (⟪निशा⟩ f. = malam).
-4. **Dativ:** Kepada Rāma ini, hormatlah!
+4. **Datif:** Kepada Rāma ini, hormatlah!
 5. **Ablatif:** Tidak ada tempat berlindung (⟪परायण⟩ n.) yang lebih baik (⟪परतर⟩ 3) selain Rāma.
 6. **Genitif:** Aku (⟪अहम्⟩) adalah (⟪अस्मि⟩) pelayan Rāma.
 7. **Lokatif:** Dalam Rāma semoga (⟪भवतु⟩) selalu ada kedamaian (⟪लय⟩ m.) dari hatiku (⟪मे⟩).
@@ -205,7 +205,7 @@ from this:
 ![](/images/lekt2706.webp)
 Fig.: ⟪वस्त्राणि⟫
 Vastrāṇi. Majuli, Assam.
-(Sumber gambar: [Details](/en/licenses#lekt2706))
+(Sumber gambar: [Detail](/en/licenses#lekt2706))
 :::
 **⟪वस्⟫** 6P (⟪उच्छति⟫): bersinar terang (akar ini penting karena pembentukan nominalnya:)
 
@@ -218,7 +218,7 @@ Vastrāṇi. Majuli, Assam.
 ![](/images/lekt2707.webp)
 Fig.: ⟪वसन्तः⟫
 Vasanta (Schleichera oleosa), Khopoli, Maharashtra, 2007-04-07.
-(Sumber gambar: [Details](/en/licenses#lekt2707))
+(Sumber gambar: [Detail](/en/licenses#lekt2707))
 :::
 **⟪हृ⟫** 1U (⟪हरति⟫): menahan, membawa; mengambil, membawa pergi, mencuri
 
@@ -240,14 +240,14 @@ Lawan dari **⟪हर⟫**:
 ![](/images/lekt2704.webp)
 Fig.: ⟪हरिहरः⟫
 Harihara (left: Viṣṇu, right: Śiva).
-(Image source: [Details](/en/licenses#lekt2704))
+(Image source: [Detail](/en/licenses#lekt2704))
 :::
 
 ::: media
 ![](/images/lekt2705.webp)
 Fig.: ⟪हरिहरः⟫
 Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
-(Image source: [Details](/en/licenses#lekt2705))
+(Image source: [Detail](/en/licenses#lekt2705))
 :::
 ## 27.6. Latihan
 
@@ -267,7 +267,7 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 ![](/images/lekt2709.webp)
 Fig.: ⟪वसितसुवस्त्रां⟫ ⟪नरा⟫ ⟪लुभ्यन्ति⟫ ⟪।⟫ ⟪एवं⟫ ⟪सति⟫ ⟪सत्यो⟫ ⟪नरेभ्यः⟫ ⟪सुवस्त्राणीच्छन्ति⟫ ⟪॥⟫
 Painting by Rāja Ravi Varmā (1848 - 1906).
-(Image source: [Details](/en/licenses#lekt2709))
+(Image source: [Detail](/en/licenses#lekt2709))
 :::
 ⟪पुत्रे⟫ ⟪मृतेऽपुत्रा⟫ ⟪ब्राह्मणी⟫ ⟪पुत्रं⟫ ⟪लब्धुं⟫ ⟪व्रतं⟫ ⟪करोति⟫ ⟪॥४॥⟫
 
@@ -304,7 +304,7 @@ Painting by Rāja Ravi Varmā (1848 - 1906).
 ![](/images/lekt2711.webp)
 Fig.: ⟪नराः⟫
 Naran. Udaipur.
-(Image source: [Details](/en/licenses#lekt2711))
+(Image source: [Detail](/en/licenses#lekt2711))
 :::
 ### 27.7.2. Neutra auf -a: ⟪फल⟫
 
@@ -325,7 +325,7 @@ Naran. Udaipur.
 ![](/images/lekt2710.webp)
 Fig.: ⟪फलानि⟫
 Fruits. Bangalore.
-(Image source: [Details](/en/licenses#lekt2710))
+(Image source: [Detail](/en/licenses#lekt2710))
 :::
 ### 27.7.3. Feminina auf -ā: ⟪क्षत्रिया⟫
 
@@ -346,7 +346,7 @@ Fruits. Bangalore.
 ![](/images/lekt2718.webp)
 Fig.: ⟪क्षत्रिया⟫
 Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore.
-(Image source: [Details](/en/licenses#lekt2718))
+(Image source: [Detail](/en/licenses#lekt2718))
 :::
 ### 27.7.4. Maskulina auf -i: ⟪अरि⟫
 
@@ -367,7 +367,7 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Cham
 ![](/images/lekt2712.webp)
 Fig.: ⟪अरयः⟫
 Digantungnya dua peserta Pemberontakan 1857. Foto oleh Felice Beato (1833/1834 - kira-kira 1907).
-(Sumber gambar: [Details](/en/licenses#lekt2712))
+(Sumber gambar: [Detail](/en/licenses#lekt2712))
 :::
 ### 27.7.5. Feminina auf -i: ⟪मति⟫
 
@@ -403,7 +403,7 @@ Digantungnya dua peserta Pemberontakan 1857. Foto oleh Felice Beato (1833/1834 -
 ![](/images/lekt2713.webp)
 Fig.: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
-(Image source: [Details](/en/licenses#lekt2713))
+(Image source: [Detail](/en/licenses#lekt2713))
 :::
 ### 27.7.7. Feminina auf -u: ⟪धेनु⟫
 
@@ -424,7 +424,7 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 ![](/images/lekt2714.webp)
 Fig.: ⟪धेनुः⟫
 Cow in Udaipur.
-(Image source: [Details](/en/licenses#lekt2714))
+(Image source: [Detail](/en/licenses#lekt2714))
 :::
 ### 27.7.8. Mehrsilbige Feminina auf -ī: ⟪देवी⟫
 
@@ -445,7 +445,7 @@ Cow in Udaipur.
 ![](/images/lekt2715.webp)
 Fig.: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
-(Image source: [Details](/en/licenses#lekt2715))
+(Image source: [Detail](/en/licenses#lekt2715))
 :::
 ### 27.7.9. Partisip Present Parasmaipada auf -ant: ⟪सन्त्⟫
 
@@ -466,7 +466,7 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 ![](/images/lekt2716.webp)
 Fig.: ⟪सद्गुरुः⟫
 Sai Baba dari Shirdi (1835 - 1918).
-(Sumber gambar: [Details](/en/licenses#lekt2716))
+(Sumber gambar: [Detail](/en/licenses#lekt2716))
 :::
 ### 27.7.10. ⟪महान्त्⟫
 
@@ -575,7 +575,7 @@ Sai Baba dari Shirdi (1835 - 1918).
 ![](/images/lekt2717.webp)
 Fig.: ⟪कस्मात्⟫ ?
 Tsunami 2005, Sri Lanka.
-(Image source: [Details](/en/licenses#lekt2717))
+(Image source: [Detail](/en/licenses#lekt2717))
 :::
 
 ::: deleteme-box

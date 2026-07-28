@@ -27,7 +27,7 @@ status: stable
 **Schema II: Agent (kartṛ m. = ⟪कर्तृ⟫) – Verb Form**
 - e.g., **rāmo yajati** = ⟪रामो⟫ ⟪यजति⟫ = "Rāma worships with a sacrifice," "Rāma sacrifices"
 :::
-When the agent (**kartṛ** m. = ⟪कर्तृ⟫) is mentioned in a verbal sentence that is not in the passive voice, the agent appears in the **Nominative** (first case, prathamā = ⟪प्रथमा⟫). In number (vacana n. = ⟪वचन⟫), the agent and verb form then agree.
+When the agent (**kartṛ** m. = ⟪कर्तृ⟫) is mentioned in a verbal sentence that is not in the passive voice, the agent appears in the **Nominativeee** (first case, prathamā = ⟪प्रथमा⟫). In number (vacana n. = ⟪वचन⟫), the agent and verb form then agree.
 
 ## 6.2. On the Formation of Verb Forms
 
@@ -48,14 +48,14 @@ A finite verb form, i.e., a verb form with personal endings, expresses in Sanskr
 
 4. **Mode of statement** (Mood):
    1. **Indicative**: Statement form
-   2. **Optative**: Wish form and possibility form
-   3. **Imperative**: Command form
+   2. **Optativeee**: Wish form and possibility form
+   3. **Imperativeee**: Command form
 5. **Time** (Tense):
    1. **Present**: Present time
    2. **Imperfect**
    3. **Perfect**
    4. **Aorist**
-   5. **Future**: Future time
+   5. **Futureee**: Futureee time
    6. **Conditional**
 
 The tenses are formed by tense stems: present stem, aorist stem, perfect stem, future stem.

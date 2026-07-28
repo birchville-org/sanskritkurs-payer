@@ -144,7 +144,7 @@ B) Käännä:
 ::: media
 ![](/images/lekt4502.jpg)
 Kuva: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4502))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4502))
 :::
 
 ::: deleteme-box

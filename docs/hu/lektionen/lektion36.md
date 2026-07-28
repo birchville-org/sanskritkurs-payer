@@ -63,7 +63,7 @@ A perifrástikus perfektképzés (⟪अनुप्रयोगलिट्⟫)
 - A szó végi tőmag hangzó guṇa fokúvá válik az -ām előtt.
 - ⟪अस्⟫ és ⟪भू⟫ az Ātmanepada igék esetén is a Parasmaipada szerint ragozódnak.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem tárgyeset (accusativus) eine Verbalnomens auf -ā entstanden. Dieser tárgyeset (accusativus) wird -- wie auch sonst oft -- adverbial verwendet.
 
 Példák:
 
@@ -141,7 +141,7 @@ ebből:
 ::: media
 ![](/images/lekt3603.webp)
 Ábr.: ⟪अनगार्यम्⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt3603))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt3603))
 :::
 ⟪अञ्जलि⟫ m.: a tisztelet jeléül magasra emelt, összehajtott két kéz
 
@@ -226,7 +226,7 @@ Absol. -⟪स्पृश्य⟫
 Kép: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt3606))
 :::
-⟪हृष्⟫ 4P ⟪हृष्यति⟫ : merevvé válik: feláll (haj), örül (Instrumentalis, Akkusativus, Lokativus)
+⟪हृष्⟫ 4P ⟪हृष्यति⟫ : merevvé válik: feláll (haj), örül (eszközhatározó eset (instrumentalis), tárgyeset (accusativus)us, lokativusus)
 
 ::: indent
 Perf II ⟪जहर्ष⟫  
@@ -424,11 +424,11 @@ Magyarázatok:
 
 ⟪ब्रह्म⟫ : Nom./Akk. sg. zu ⟪ब्रह्मन्⟫ n. "anyat" n."anyá"
 
-⟪सर्वे⟫ : Nom. pl. mask. zu ⟪सर्व⟫ "anyá" m."anyé"
+:sig[⟪सर्वे⟫] : Nom. pl. mask. zu ⟪सर्व⟫ "anyá" m."anyé"
 
 ⟪त्रयस्⟫ : Nom. pl. mask. zu ⟪त्रि⟫ "tri" m."tráyaḥ"
 
-⟪सर्वास्⟫ : Nominativ/Akkusativ plurál nőnemű a ⟪सर्व⟫ "minden, mindenki" szóhoz
+⟪सर्वास्⟫ : alanyeset (nominativus)/tárgyeset (accusativus) plurál nőnemű a ⟪सर्व⟫ "minden, mindenki" szóhoz
 :::
 ::: media
 ![](/images/lekt3607.webp)

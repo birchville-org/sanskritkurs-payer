@@ -87,7 +87,7 @@ important
 | Passiv | ⟪गम्⟫ | ⟪अगम्यत⟫ | ⟪अगम्यन्त⟫ | | |
 
 :::
-### 32.4.2. Athematische Präsensklassen
+### 32.4.2. Classes de présent athématiques
 
 ::: grammar-box
 

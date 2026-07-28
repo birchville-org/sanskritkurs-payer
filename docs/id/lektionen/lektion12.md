@@ -29,7 +29,7 @@ Salah satu cara untuk membentuk kalimat pasif masa lalu adalah konstruksi dengan
 ### 12.1.1. Skema untuk kata kerja transitif
 
 ::: grammar-box
-**Agen (kartṛ) dalam Instrumentalis (tṛtīyā) -- objek langsung (karman) dalam Nominatif (prathamā) -- Partisip Perfek Pasif**
+**Agen (kartṛ) dalam Instrumental (tṛtīyā) -- objek langsung (karman) dalam Nominatif (prathamā) -- Partisip Perfek Pasif**
 
 Dalam kasus ini, PPP sesuai dengan objek dalam jumlah, kasus, dan jenis kelamin.
 
@@ -55,7 +55,7 @@ Contoh:
 ### 12.1.3. Skema II untuk verba intransitif dan verba pergerakan
 
 ::: grammar-box
-**Agen (kartṛ) dalam Instrumentalis (tṛtīyā) -- PPP dalam Nominatif Singular Neutrum**
+**Agen (kartṛ) dalam Instrumental (tṛtīyā) -- PPP dalam Nominatif Tunggal Netral**
 
 Contoh:
 > **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = "(Oleh Kṣatriya telah (ke kota) pergi) = Kṣatriya telah (pergi ke kota)."
@@ -71,7 +71,7 @@ misalnya
 - **gata** = ⟪गत⟫ = "pergi" (aktif); tetapi juga: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = "jalan yang telah dilalui" (pasif)
 - **āpta** = ⟪आप्त⟫ = "tercapai" (pasif), "mencapai" (aktif)
 
-## 12.3. Bildung  PPP
+## 12.3. Pembentukan  PPP
 
 ::: grammar-box
 Terdapat bentuk-bentuk pembentukan berikut (untuk setiap akar, pelajari PPP-nya masing-masing!):
@@ -185,7 +185,7 @@ Gambar: ⟪महावीरो⟩ ⟪जिनः⟩
 :::
 - **buddhi** f. (**budh** + **-ti**) ⟪बुद्धि⟩ : pengetahuan, organ pengetahuan.
 
-### 12.5.1. Pasif dan PPP  bisher gelernten Wurzeln
+### 12.5.1. Pasif dan PPP  bisher gelernten Akarn
 
 | Akar:br⟪धातु⟫ | Passiv Present 3. sg. Indikativ:br⟪यक्⟫ ⟪लट्⟫ | PPP:br⟪क्त⟫ |
 | :--- | :--- | :--- |

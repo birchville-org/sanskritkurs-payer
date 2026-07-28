@@ -32,10 +32,10 @@ Exemple:
 * 3.sg.P.Ind.Prés. **⟪ददाति⟫**
 
 **⟪पॄ⟫** 3 "a umple"
-* 3.sg.P.Ind.Prés. ***⟪पि⟫***⟪पर्ति⟫
+* 3.sg.P.Ind.Prés. **:sig[⟪पि⟫]**⟪पर्ति⟫
 
 **⟪मा⟫** 3Ā "a măsura"
-* 3.sg.Ā.Ind.Prés. ***⟪मि⟫***⟪मीते⟫
+* 3.sg.Ā.Ind.Prés. **:sig[⟪मि⟫]**⟪मीते⟫
 :::
 ::: grammar-box
 **2. Un consonant inițial aspirat al unei rădăcini este reduplicat prin consonantul corespunzător neaspirat.**
@@ -43,11 +43,11 @@ Exemple:
 Exemple:
 
 ::: indent
-**⟪धा⟫** 3 "a așeza"
-* 3.sg.P.Ind.Prés. **⟪दधाति⟫**
+**:sig[⟪धा⟫]** 3 "a așeza"
+* 3.sg.P.Ind.Prés. **:sig[⟪दधाति⟫]**
 
 **⟪भी⟫** 3 "a se teme"
-* 3.sg.P.Ind.Prés. ***⟪बि⟫***⟪भेति⟫
+* 3.sg.P.Ind.Prés. **:sig[⟪बि⟫]**⟪भेति⟫
 :::
 ::: grammar-box
 **3. Un gutural este reduplicat prin palatalul corespunzător neaspirat:**
@@ -94,7 +94,7 @@ Exemplu:
 ::: grammar-box
 * **Vocalul de reduplicare regulat este -i-**
 * **Rădăcinile care conțin -u se reduplică cu -u-**
-* **Rădăcinile ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ cu -a-**
+* **Rădăcinile ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ cu -a-**
 :::
 Exemple:
 
@@ -124,11 +124,11 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 * **Gradul scăzut**
   * **înaintea consoanelor: -i-**  
-    ex. **⟪धा⟫** PPP: **⟪हित⟫** (hi-ta)
+    ex. **:sig[⟪धा⟫]** PPP: **:sig[⟪हित⟫]** (hi-ta)
   * **înaintea vocalelor: Ø**  
-    ex. **⟪धा⟫** 3.pl.P.Ind.Prăs. **⟪दधति⟫** (dadh-ati)
+    ex. **:sig[⟪धा⟫]** 3.pl.P.Ind.Prăs. **⟪दधति⟫** (dadh-ati)
 * **Gradul înalt: -ā-**  
-  ex. **⟪धा⟫** 3.sg.P.Ind.Prăs. **⟪दधाति⟫**
+  ex. **:sig[⟪धा⟫]** 3.sg.P.Ind.Prăs. **:sig[⟪दधाति⟫]**
 :::
 Aici se încadrează, de exemplu:
 
@@ -148,7 +148,7 @@ Aici se încadrează, de exemplu:
 ## 33.4. Rădăcini cu sufixul -ā din a treia clasă de prezente
 
 ::: grammar-box
-**Rădăcinile cu sufixul -ā (în afară de ⟪दा⟫ și ⟪धा⟫) au, de obicei, în tema slabă terminația -ī-** (vezi Thumb-Hauschild vol. 1,1 p. 271. Se presupune că seria de ablaut menționată mai sus a servit ca model, deși aceste rădăcini urmează, în general, seria A de ablaut), **în fața terminațiilor vocale, vocala rădăcinii dispare complet (vezi seria de ablaut A).**
+**Rădăcinile cu sufixul -ā (în afară de ⟪दा⟫ și :sig[⟪धा⟫]) au, de obicei, în tema slabă terminația -ī-** (vezi Thumb-Hauschild vol. 1,1 p. 271. Se presupune că seria de ablaut menționată mai sus a servit ca model, deși aceste rădăcini urmează, în general, seria A de ablaut), **în fața terminațiilor vocale, vocala rădăcinii dispare complet (vezi seria de ablaut A).**
 :::
 Exemple:
 
@@ -170,15 +170,15 @@ Exemple:
 | **Imperfect** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Rădăcinile **⟪दा⟫** și **⟪धा⟫**
+### 33.4.1. Rădăcinile **⟪दा⟫** și **:sig[⟪धा⟫]**
 
 ::: grammar-box
-**Rădăcinile ⟪दा⟫ și ⟪धा⟫ se reduplică cu vocala -a- și pierd vocala rădăcinii în tema slabă.**
+**Rădăcinile ⟪दा⟫ și :sig[⟪धा⟫] se reduplică cu vocala -a- și pierd vocala rădăcinii în tema slabă.**
 
-**Atenție la legea disimilării aspirate pentru ⟪धा⟫!**
+**Atenție la legea disimilării aspirate pentru :sig[⟪धा⟫]!**
 :::
 ::: grammar-box
-**⟪धा⟫** 3U "a pune, a stabili, a distribui"
+**:sig[⟪धा⟫]** 3U "a pune, a stabili, a distribui"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -186,7 +186,7 @@ Exemple:
 | **Imperfect** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Formele pentru **⟪दा⟫** se obțin înlocuind **dh** cu **d** în paradigma pentru **⟪धा⟫**. Așadar:
+Formele pentru **⟪दा⟫** se obțin înlocuind **dh** cu **d** în paradigma pentru **:sig[⟪धा⟫]**. Așadar:
 
 ::: grammar-box
 **⟪दा⟫** 3U "a da"
@@ -248,16 +248,16 @@ Fig.: ⟪दानम्⟫
 Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Sursa imaginii: [Detalii](/ro/licenses#lekt3307))
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: a așeza, a stabili, a distribui
+**:sig[⟪धा⟫]** 3U **:sig[⟪दधाति⟫]**: a așeza, a stabili, a distribui
 
 ::: indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Kaus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫***
+**Fut.** **:sig[⟪धास्यति⟫]**  
+**Pass.** **:sig[⟪धीयते⟫]**  
+**Kaus.** **:sig[⟪धापयति⟫]**  
+**PPP** **:sig[⟪हित⟫]** (!!)  
+**Inf.** **:sig[⟪धातुम्⟫]**
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: a îndrepta întreaga atenție asupra cuiva/ceva, a se concentra
+**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: a îndrepta întreaga atenție asupra cuiva/ceva, a se concentra
 
 ::: indent
 din care:
@@ -273,10 +273,10 @@ Fig.: ⟪समाधि⟫
 
 ::: indent
 Ține minte:
-3.pl.P ***⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪अपिपर्⟫*** (din: \*apipart)  
-3.pl.Impf.P ***⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪पिपूर्यात्⟫***
+3.pl.P **:sig[⟪पिपुरति⟫]**  
+3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (din: \*apipart)  
+3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  

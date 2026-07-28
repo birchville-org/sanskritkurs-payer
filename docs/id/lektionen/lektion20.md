@@ -15,7 +15,7 @@ status: stable
 ![](/images/lekt2004.webp)
 Fig.: ⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
 Jodhpur = ⟪जोधपुर⟫
-(Image source: [Details](/en/licenses#lekt2004))
+(Image source: [Detail](/en/licenses#lekt2004))
 :::
 ⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "one who possesses much rice"
 
@@ -144,7 +144,7 @@ Traditionally, one distinguishes:
 ![](/images/lekt2005.webp)
 Fig.: ⟪देवा⟫ ⟪यीश्वादयः⟫
 Yesus dan para dewa lainnya, Ahmedabad
-(Sumber gambar: [Details](/en/licenses#lekt2005))
+(Sumber gambar: [Detail](/en/licenses#lekt2005))
 :::
 
 ## 20.4. Bahuvrīhi dengan anggota depan berkasus
@@ -175,7 +175,7 @@ Contoh:
 ![](/images/lekt2001.webp)
 Gbr.: ⟪इन्द्रो⟫ ⟪वज्रपाणिः⟫
 Siemreap (ក្រុងសៀមរាប), Kamboja, abad ke-9 M.
-(Sumber gambar: [Details](/en/licenses#lekt2001))
+(Sumber gambar: [Detail](/en/licenses#lekt2001))
 :::
 ## 20.5. Bahuvrīhi dengan anggota depan adverbial
 
@@ -202,7 +202,7 @@ Examples:
 ![](/images/lekt2006.webp)
 Gbr.: ⟪सपुत्रा⟫
 Madhya Pradesh
-(Sumber gambar: [Details](/en/licenses#lekt2006))
+(Sumber gambar: [Detail](/en/licenses#lekt2006))
 :::
 ## 20.6. Fleksi Anggota Akhir sebuah Bahuvrīhi
 
@@ -239,7 +239,7 @@ Contoh-contoh ini disediakan untuk studi selanjutnya; untuk beberapa di antarany
 ![](/images/lekt2007.webp)
 Gbr.: ⟪कृतकटा⟫
 Chennai = சென்னை
-(Image source: [Details](/en/licenses#lekt2007))
+(Image source: [Detail](/en/licenses#lekt2007))
 :::
 ## 20.8. Hubungan antara Bahuvrīhi dan Klausa Relatif
 
@@ -251,7 +251,7 @@ Although every Bahuvrīhi can be resolved into a relative clause, not every rela
 ::: media
 ![](/images/lekt2002.jpg)
 Fig.: Hermann Jacobi
-(Sumber gambar: [Details](/en/licenses#lekt2002))
+(Sumber gambar: [Detail](/en/licenses#lekt2002))
 :::
 Itu mungkin benar. Namun, orang India kemudian menganggap banyak hal sebagai hiasan dan deskriptif, yang menurut kita adalah "penentuan secara konseptual penting atau perlu."
 
@@ -265,7 +265,7 @@ Itu mungkin benar. Namun, orang India kemudian menganggap banyak hal sebagai hia
 ![](/images/lekt2008.webp)
 Fig.: ⟪आश्रमः⟫
 Rishikesh = ⟪ऋषिकेश⟫. "Ini sebenarnya bagian dari Ashram di Rishikesh tempat The Beatles tinggal. Bagian spesifik ini tidak ada saat mereka berada di sana, tetapi terlihat keren."
-(Sumber gambar: [Details](/en/licenses#lekt2008))
+(Sumber gambar: [Detail](/en/licenses#lekt2008))
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : melakukan, membuat, menyebabkan
 
@@ -494,7 +494,7 @@ Explanation: ⟪तपस्⟫ n. (declension later): glow, heat, torment; asce
 ![](/images/lekt2010.webp)
 Fig.: ⟪तपस्⟫
 Buddha as an ascetic before his liberating insight, Gandhara, 2nd/3rd century CE.
-(Image source: [Details](/en/licenses#lekt2010))
+(Image source: [Detail](/en/licenses#lekt2010))
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (On the Sāṃkhya system, see Basham, Wonder pp. 324f.)
 
@@ -556,7 +556,7 @@ Penjelasan: semua bentuk kecuali ⟪कं⟫ dan ⟪स्त्रीणाम
 ![](/images/lekt2003.webp)
 Fig.: ⟪तनुमध्यं⟫ ⟪पृथुश्रोणि⟫
 Sanchi = ⟪सांची⟫
-(Sumber gambar: [Details](/en/licenses#lekt2003))
+(Sumber gambar: [Detail](/en/licenses#lekt2003))
 :::
 Namun, satu lagi ⟪सुभाषितम्⟫ :
 

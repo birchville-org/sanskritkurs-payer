@@ -78,7 +78,7 @@ Abb.: ⟪स्त्रियः⟫
 
 **Die Deklination ist im Maskulinum und Femininum identisch.** <!-- TODO: Fallback translation -->
 
-**Unregelmäßigkeit: Komposita auf -⟪नी⟫ "führend" haben im Lok.sg die Endung -ām (wie ⟪देवी⟫):**
+**Unregelmäßigkeit: Komposita auf -:sig[⟪नी⟫] "führend" haben im Lok.sg die Endung -ām (wie ⟪देवी⟫):**
 z.B. ⟪ग्रामणी⟫ "eine Schar/ein Dorf führend": Lok.sg.m.f. ⟪ग्रामण्याम्⟫ <!-- TODO: Fallback translation -->
 :::
 Paradigmen: <!-- TODO: Fallback translation -->
@@ -219,7 +219,7 @@ Paradigma: <!-- TODO: Fallback translation -->
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | *⟪दाताहे⟫* | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | *:sig[⟪दाताहे⟫]* | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
@@ -304,8 +304,8 @@ z.B. ⟪यम्⟫ 1P: ⟪यंयम्य⟫- <!-- TODO: Fallback translati
 
 ::: indent
 z.B.
-⟪पत्⟫ 1P: ⟪प⟫***⟪नी⟫***⟪पत्य⟫-
-⟪वृत्⟫ 1Ā: ⟪व⟫***⟪री⟫***⟪वृत्य⟫- <!-- TODO: Fallback translation -->
+⟪पत्⟫ 1P: ⟪प⟫***:sig[⟪नी⟫]***⟪पत्य⟫-
+⟪वृत्⟫ 1Ā: ⟪व⟫***:sig[⟪री⟫]***⟪वृत्य⟫- <!-- TODO: Fallback translation -->
 :::
 ::: grammar-box
 **Konjugation:** <!-- TODO: Fallback translation -->
@@ -464,7 +464,7 @@ Abb.: ⟪यशस्काम्यन्ति⟫
 ⟪मुंबई⟫
 (Bildquelle: [Details](/licenses#lekt6109)) <!-- TODO: Fallback translation -->
 :::
-### 61.4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada
+### 61.4.4. Bildung mit dem Suffix -sya oder -asya, Parasmaipada <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Bedeutung:** <!-- TODO: Fallback translation -->
@@ -605,7 +605,7 @@ Paradigma: <!-- TODO: Fallback translation -->
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ |
-| **3\. ⟪प्रथमः⟫** | *⟪बुध्यात्⟫* | ⟪बुध्यास्ताम्⟫ | *⟪बुध्यासुर्⟫* | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
+| **3\. ⟪प्रथमः⟫** | *:sig[⟪बुध्यात्⟫]* | ⟪बुध्यास्ताम्⟫ | *:sig[⟪बुध्यासुर्⟫]* | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
 :::
 ::: media
 ![](/images/lekt6114.webp)
@@ -719,7 +719,7 @@ Femininum (⟪स्त्री⟫) <!-- TODO: Fallback translation -->
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
 
 Nach dem Abschluss des Sanskritkurses beginnt erst das eigentliche "Schwimmen" im Ozean der Sanskritliteratur. Da dieser Ozean voller Hindernisse ist, ist es angemessen, diesen neuen Lebensabschnitt mit einer Anrufung Gaṇeśas zu beginnen: <!-- TODO: Fallback translation -->
 
@@ -735,7 +735,7 @@ Halebidu (ಹಳೆಬೀಡು), 12./13. Jhdt. n. Chr.
 | --- | --- |
 | ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
-***ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫*** von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564) <!-- TODO: Fallback translation -->
+***ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]*** von Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564) <!-- TODO: Fallback translation -->
 
 Komponist und Dichter: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564) <!-- TODO: Fallback translation -->
 
@@ -752,7 +752,7 @@ Tāla: Rūpaka: o |4 <!-- TODO: Fallback translation -->
 Abb.: Melodie, auf c bezogen, kann je nach Stimmlage transponiert werden.
 (Bildquelle: [Details](/licenses#lekt6119)) <!-- TODO: Fallback translation -->
 :::
-ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ steht am Beginn des Unterrichts in kannaresischer Musik. Siehe das Video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Zugriff am 2009-03-05  <!-- TODO: Fallback translation -->
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] steht am Beginn des Unterrichts in kannaresischer Musik. Siehe das Video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Zugriff am 2009-03-05  <!-- TODO: Fallback translation -->
 
 Nachdem Sie jetzt die Grundlagen des Sanskrit gelernt haben, sind Sie hoffentlich wie die Kleinkinder im Video: manchmal ungeschickt, aber lern- und wissensbegierig und mit Freude bei der Sache. Behalten Sie bis an Ihr Lebensende "a beginner's mind". <!-- TODO: Fallback translation -->
 
@@ -761,7 +761,7 @@ Das wünscht Ihnen Ihr Alois Payer <!-- TODO: Fallback translation -->
 
 Ofterdingen, 2009-03-09 <!-- TODO: Fallback translation -->
 
-*⟪ॐ⟫*
+*:sig[⟪ॐ⟫]*
 
 ENDE DES SANSKRITKURSES <!-- TODO: Fallback translation -->
 :::

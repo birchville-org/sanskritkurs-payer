@@ -32,10 +32,10 @@ Esempi:
 * 3.sg.P.Ind.Pres. **⟪ददाति⟫**
 
 **⟪पॄ⟫** 3 "riempire"
-* 3.sg.P.Ind.Pres. ***⟪पि⟫***⟪पर्ति⟫
+* 3.sg.P.Ind.Pres. **:sig[⟪पि⟫]**⟪पर्ति⟫
 
 **⟪मा⟫** 3Ā "misurare"
-* 3.sg.Ā.Ind.Pres. ***⟪मि⟫***⟪मीते⟫
+* 3.sg.Ā.Ind.Pres. **:sig[⟪मि⟫]**⟪मीते⟫
 :::
 ::: grammar-box
 **2. Un consonante iniziale aspirata di una radice viene reduplicata dalla corrispondente consonante non aspirata.**
@@ -43,11 +43,11 @@ Esempi:
 Esempi:
 
 ::: indent
-**⟪धा⟫** 3 "porre"
-* 3.sg.P.Ind.Pres. **⟪दधाति⟫**
+**:sig[⟪धा⟫]** 3 "porre"
+* 3.sg.P.Ind.Pres. **:sig[⟪दधाति⟫]**
 
 **⟪भी⟫** 3 "temere"
-* 3.sg.P.Ind.Pres. ***⟪बि⟫***⟪भेति⟫
+* 3.sg.P.Ind.Pres. **:sig[⟪बि⟫]**⟪भेति⟫
 :::
 ::: grammar-box
 **3. Una gutturale viene reduplicata dalla corrispondente palatale non aspirata:**
@@ -94,7 +94,7 @@ Esempio:
 ::: grammar-box
 * **La vocale di reduplicazione regolare è -i-**
 * **Le radici contenenti -u reduplicano con -u-**
-* **le radici ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ con -a-**
+* **le radici ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ con -a-**
 :::
 Esempi:
 
@@ -124,11 +124,11 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 
 * **Grado ridotto**
   * **davanti a consonante: -i-**  
-    es. **⟪धा⟫** PPP: **⟪हित⟫** (hi-ta)
+    es. **:sig[⟪धा⟫]** PPP: **:sig[⟪हित⟫]** (hi-ta)
   * **davanti a vocale: Ø**  
-    es. **⟪धा⟫** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
+    es. **:sig[⟪धा⟫]** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
 * **Grado pieno: -ā-**  
-  es. **⟪धा⟫** 3.sg.P.Ind.Präs. **⟪दधाति⟫**
+  es. **:sig[⟪धा⟫]** 3.sg.P.Ind.Präs. **:sig[⟪दधाति⟫]**
 :::
 Qui appartiene, ad esempio, anche:
 
@@ -148,7 +148,7 @@ Qui appartiene, ad esempio, anche:
 ## 33.4. Radici in -ā della terza classe di presente
 
 ::: grammar-box
-**Le radici in -ā (tranne ⟪दा⟫ e ⟪धा⟫) nel debole hanno solitamente la desinenza -ī-** (vedi Thumb-Hauschild Vol. 1,1 p. 271. Probabilmente la serie di ablaut B sopra menzionata agì da modello, sebbene queste radici altrimenti seguano la serie A), **davanti a desinenze vocaliche la vocale radicale scompare completamente (vedi serie di ablaut A).**
+**Le radici in -ā (tranne ⟪दा⟫ e :sig[⟪धा⟫]) nel debole hanno solitamente la desinenza -ī-** (vedi Thumb-Hauschild Vol. 1,1 p. 271. Probabilmente la serie di ablaut B sopra menzionata agì da modello, sebbene queste radici altrimenti seguano la serie A), **davanti a desinenze vocaliche la vocale radicale scompare completamente (vedi serie di ablaut A).**
 :::
 Esempi:
 
@@ -170,15 +170,15 @@ Esempi:
 | **Imperfetto** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativo** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Radice ⟪हा⟫ hat vor dem Ottativo-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Le radici **⟪दा⟫** e **⟪धा⟫**
+### 33.4.1. Le radici **⟪दा⟫** e **:sig[⟪धा⟫]**
 
 ::: grammar-box
-**Le radici ⟪दा⟫ e ⟪धा⟫ reduplicano con la vocale -a- e perdono la vocale radicale nella forma debole.**
+**Le radici ⟪दा⟫ e :sig[⟪धा⟫] reduplicano con la vocale -a- e perdono la vocale radicale nella forma debole.**
 
-**Si osservi per ⟪धा⟫ la legge della dissimilazione dell'aspirazione!**
+**Si osservi per :sig[⟪धा⟫] la legge della dissimilazione dell'aspirazione!**
 :::
 ::: grammar-box
-**⟪धा⟫** 3U "porre, stabilire, assegnare"
+**:sig[⟪धा⟫]** 3U "porre, stabilire, assegnare"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -186,7 +186,7 @@ Esempi:
 | **Imperfetto** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativo** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Le forme di **⟪दा⟫** si ottengono sostituendo **dh** con **d** nel paradigma di **⟪धा⟫**. Quindi:
+Le forme di **⟪दा⟫** si ottengono sostituendo **dh** con **d** nel paradigma di **:sig[⟪धा⟫]**. Quindi:
 
 ::: grammar-box
 **⟪दा⟫** 3U "dare"
@@ -202,7 +202,7 @@ Le forme di **⟪दा⟫** si ottengono sostituendo **dh** con **d** nel parad
 ::: grammar-box
 **I verbi della 3. classe formano tutte le forme del participio presente Parasmaipada dalla forma debole.**
 
-**Eccezione: il Nominativo/Accusativo Plurale Neutro può essere formato opzionalmente dalla forma forte o debole.**
+**Eccezione: il Nominativooo/Accusativo Pluraleee Neutro può essere formato opzionalmente dalla forma forte o debole.**
 :::
 **⟪दा⟫** Participio presente Parasmaipada:
 
@@ -248,16 +248,16 @@ Fig.: ⟪दानम्⟫
 Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3307))
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: porre, stabilire, assegnare
+**:sig[⟪धा⟫]** 3U **:sig[⟪दधाति⟫]**: porre, stabilire, assegnare
 
 ::: indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Kaus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫***
+**Fut.** **:sig[⟪धास्यति⟫]**  
+**Pass.** **:sig[⟪धीयते⟫]**  
+**Kaus.** **:sig[⟪धापयति⟫]**  
+**PPP** **:sig[⟪हित⟫]** (!!)  
+**Inf.** **:sig[⟪धातुम्⟫]**
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: concentrare tutta l'attenzione su qualcosa, raccogliersi
+**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: concentrare tutta l'attenzione su qualcosa, raccogliersi
 
 ::: indent
 di cui:
@@ -273,10 +273,10 @@ Fig.: ⟪समाधि⟫
 
 ::: indent
 Nota:
-3.pl.P ***⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪अपिपर्⟫*** (da: \*apipart)  
-3.pl.Impf.P ***⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪पिपूर्यात्⟫***
+3.pl.P **:sig[⟪पिपुरति⟫]**  
+3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (da: \*apipart)  
+3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  

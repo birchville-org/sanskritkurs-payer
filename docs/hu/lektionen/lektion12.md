@@ -55,7 +55,7 @@ Példa:
 ### 12.1.3. Schema II intranszív igék és mozgást kifejező igék számára
 
 ::: grammar-box
-**Agens (kartṛ) az Instrumentalisban (tṛtīyā) -- PPP a Nominativus Singularis Neutrumban**
+**Agens (kartṛ) az eszközhatározó eset (instrumentalis)ban (tṛtīyā) -- PPP a alanyeset (nominativus)us egyes számis semlegesnemban**
 
 Példa:
 > **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = „(A kṣatriya által (a városba) ment el) = A kṣatriya (a városba) ment.“

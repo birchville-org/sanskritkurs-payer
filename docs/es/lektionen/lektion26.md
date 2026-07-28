@@ -62,12 +62,12 @@ Fig.: Hermann Grassmann
 ::: grammar-box
 **Antes de sonidos sibilantes, -n y -m se reemplazan por -ṃ-:**
 
-Ejemplo: s. Futuro de ⟪मन्⟫ abajo
+Ejemplo: s. Futurooo de ⟪मन्⟫ abajo
 :::
 ## 26.6. Uso del futuro simple (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
 
 ::: grammar-box
-**El Futuro Simple (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) expresa:**
+**El Futurooo Simple (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) expresa:**
 
 - **el futuro**
 - **una acción intencionada o deseada ("iré", "quiero ir")**
@@ -90,7 +90,7 @@ Fig.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ 
 ## 26.7. Formación del futuro simple (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
 
 ::: grammar-box
-**Futuro simple:**
+**Futurooo simple:**
 
 :::
 ::: indent
@@ -202,7 +202,7 @@ B) Con vocal de unión -i-:
 22.  ⟪अर्हन्ति⟫
 23.  ⟪कुप्यन्ति⟫
 
-C) Futuro opcionalmente con y sin -i-:
+C) Futurooo opcionalmente con y sin -i-:
 
 1.  ⟪मुह्यन्ति⟫
 2.  ⟪वर्तते⟫

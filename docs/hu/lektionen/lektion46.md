@@ -17,7 +17,7 @@ status: stable
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
 | :---: | :---: | :---: | :---: | :---: |
 | **Perfektumragok** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| ^^ \-tha | \-a | \-se | \-dhve |
+| ^^ \-tha | \-a | \-se | \-dhve | \-dhve |
 :::
 Vegye figyelembe, hogy a -tha végződés – általában nem pedig az alak! – megegyezik az 1. és 3. sg.P-ével a 2.pl.P-ben.
 
@@ -27,7 +27,7 @@ A legtöbb gyökérnél, amelyek -ṛ-re végződnek, nincs kapcsolómag hangzó
 ### 46.1.2. A -dhve végződés hangváltozása
 
 ::: grammar-box
-Die Endung -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
+Die Végződés -dhve muss im Perfekt durch -ḍhve ersetzt werden, wenn ein wurzelhaftes -u oder -ṛ unmittelbar vorangeht. Diese Ersetzung kann wahlweise nach dem Bindevokal -i- erfolgen, wenn diesem ein Halbvokal oder h unmittelbar vorangeht.
 :::
 ### 46.1.3. Perfektum I. típus: nincs tőszabályozás
 
@@ -175,7 +175,7 @@ Ezen típusba tartozó igék:
 :::
 ### 46.1.7. Perfekt Typ V: Konsonant-a-Konsonant
 
-#### 46.1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 46.1.7.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Tő Tiefstufe
 
 Ige, amelyek ezt a típust követik:
 
@@ -354,7 +354,7 @@ Perf. Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫
 Fut. ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
 Kaus.⟪ग्राहयति⟫
-PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫
+PPP :sig[⟪गृ⟫]:sig[⟪ही⟫]⟪त⟫
 Inf. ⟪ग्रहितुम्⟫
 Absol. -⟪ग्राह्य⟫
 davon:
@@ -430,8 +430,8 @@ Kép: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Jöv. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
-Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫szg[⟪प⟫]⟪यति⟫  
-PPP. szg[⟪रूढ⟫]  
+Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫szg[:sig[⟪प⟫]]⟪यति⟫  
+PPP. szg[:sig[⟪रूढ⟫]]  
 Inf. ⟪रोढुम्⟫
 
 :::

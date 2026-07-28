@@ -141,13 +141,13 @@ Helyes. ⟪शत्रुजित्सु⟫
 Középnem
 
 ::: indent
-Esetes Nominatív-Akkuzatív-Vokativ ⟪शत्रुजित्⟫
-Többes szám Nominatív-Akkuzatív-Vokativ jel[⟪शत्रुजिन्ति⟫]
+Esetes Nominatív-Akkuzatív-megszólító eset (vocativus) ⟪शत्रुजित्⟫
+Többes szám Nominatív-Akkuzatív-megszólító eset (vocativus) jel[:sig[⟪शत्रुजिन्ति⟫]]
 :::
 ⟪सुयुध्⟫ 3 „jó harcos“
 
 ::: indent
-Esetes Nominatív-Vokativ m.f.n. ⟪सुयुत्⟫
+Esetes Nominatív-megszólító eset (vocativus) m.f.n. ⟪सुयुत्⟫
 stb.
 :::
 Teljes paradigmák Kielhorn, Grammatik 16. oldaltól
@@ -195,7 +195,7 @@ Többes szám:
 Utas. ⟪सत्यवाग्भिस्⟫
 Helyes. ⟪सत्यवाक्षु⟫
 :::
-Neutrum
+semlegesnem
 
 ::: indent
 Esetegyes szám Név-Objektív Kiáltó ⟪सत्यवाक्⟫
@@ -204,7 +204,7 @@ Többes szám Név-Objektív Kiáltó ⟪सत्यवाञ्चि⟫
 ⟪शेषभुज्⟫ 3 „Főzőmárkát evő”
 
 ::: indent
-Maskulinum, Femininum:
+hímnem, nőnem:
 
 :::
 ::: indent
@@ -212,25 +212,25 @@ Egyes szám:
 
 :::
 ::: indent
-Nominativ, Vokativ ⟪शेषभुक्⟫
-Akkusativ ⟪शेषभुजम्⟫
+alanyeset (nominativus), megszólító eset (vocativus) ⟪शेषभुक्⟫
+tárgyeset (accusativus) ⟪शेषभुजम्⟫
 :::
-Plural:
+többes szám:
 
 ::: indent
-Instrumentalis ⟪शेषभुग्भिस्⟫
-Lokativ ⟪शेषभुक्षु⟫
+eszközhatározó eset (instrumentalis) ⟪शेषभुग्भिस्⟫
+lokativus ⟪शेषभुक्षु⟫
 :::
-Neutrum
+semlegesnem
 
 ::: indent
-Singular Nominativ, Akkusativ, Vokativ ⟪शेषभुक्⟫
-Plural Nominativ, Akkusativ, Vokativ ⟪शेषभुञ्जि⟫
+egyes szám alanyeset (nominativus), tárgyeset (accusativus), megszólító eset (vocativus) ⟪शेषभुक्⟫
+többes szám alanyeset (nominativus), tárgyeset (accusativus), megszólító eset (vocativus) ⟪शेषभुञ्जि⟫
 :::
 ⟪परिव्राज्⟫ m. "vándorló szerzetes"
 
 ::: indent
-Maskulinum, Femininum:
+hímnem, nőnem:
 
 :::
 ::: indent
@@ -238,14 +238,14 @@ Eset:
 
 :::
 ::: indent
-Nominativ/Vokativ ⟪परिव्राट्⟫
+alanyeset (nominativus)/megszólító eset (vocativus) ⟪परिव्राट्⟫
 Akkusatív ⟪परिव्राजम्⟫
 :::
 Többes szám:
 
 ::: indent
-Instrumentalis ⟪परिव्राड्भिस्⟫
-Lokativ ⟪परिव्राट्सु⟫
+eszközhatározó eset (instrumentalis) ⟪परिव्राड्भिस्⟫
+lokativus ⟪परिव्राट्सु⟫
 :::
 ::: media
 ![](/images/lekt5104.webp)
@@ -280,14 +280,14 @@ Egyszám:
 
 :::
 ::: indent
-Nominativ/Vokativ ⟪घुट्⟫ (Grassmann-féle légzésdisszimilációs törvény: ⟪गुढ्⟫ + s)
+alanyeset (nominativus)/megszólító eset (vocativus) ⟪घुट्⟫ (Grassmann-féle légzésdisszimilációs törvény: ⟪गुढ्⟫ + s)
 Akkuzatív ⟪गुहम्⟫
 :::
 Többes szám:
 
 ::: indent
-Instrumentalis ⟪घुड्भिस्⟫
-Lokativ ⟪घुट्सु⟫
+eszközhatározó eset (instrumentalis) ⟪घुड्भिस्⟫
+lokativus ⟪घुट्सु⟫
 :::
 ⟪द्रुह्⟫ "károsító, gyűlölő" (választható -ḍh/-gh)
 
@@ -298,13 +298,13 @@ Esetek:
 
 :::
 ::: indent
-Nominativ/Vokativ ⟪ध्रुट्⟫ ⟪।⟫ ⟪ध्रुक्⟫
+alanyeset (nominativus)/megszólító eset (vocativus) ⟪ध्रुट्⟫ ⟪।⟫ ⟪ध्रुक्⟫
 Akkusatív ⟪द्रुहम्⟫
 :::
 Többes szám:
 
 ::: indent
-Instrumentalis ⟪ध्रुड्भिस्⟫ ⟪।⟫ ⟪ध्रुग्भिस्⟫
+eszközhatározó eset (instrumentalis) ⟪ध्रुड्भिस्⟫ ⟪।⟫ ⟪ध्रुग्भिस्⟫
 Lokalis ⟪ध्रुट्सु⟫ ⟪।⟫ ⟪ध्रुक्षु⟫
 :::
 ## 51.3. Az h- hangzóval kezdődő szavak sandhija
@@ -417,7 +417,7 @@ Nom.pl.m ⟪स्वे⟫ ⟪।⟫ :sig[⟪स्वास्⟫]
 
 ::: indent
 Perfektum ⟪जगर्हे⟫
-Futurum ⟪गर्हिष्यते⟫
+Jövő időum ⟪गर्हिष्यते⟫
 PPP ⟪गर्हित⟫
 :::
 ⟪पिशित⟫ n.: (felkészített) hús
@@ -446,7 +446,7 @@ City Palace, ⟪उदयपुर⟫
 ![](/images/lekt5110.webp)
 Ábr.: ⟪मृगया⟫
 Vadászat ⟪चीता⟫-al (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
-(Képmegjelenítés forrása: [Details](/hu/licenses#lekt5110))
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt5110))
 :::
 ⟪शिवा⟫ f.: (női) Sakál (aranyos sakál = _Canis aureus_)
 
@@ -454,7 +454,7 @@ Vadászat ⟪चीता⟫-al (_Acinonyx jubatus venaticus_) Gujarat = ગુ�
 ![](/images/lekt5111.webp)
 Ábr.: ⟪शिवा⟫
 _Canis aureus_, Kalatop Khajjiar Sanctuary
-(Képmegjelenítés forrása: [Details](/hu/licenses#lekt5111))
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt5111))
 :::
 ⟪रुत⟫ n.: Kiáltás
 
@@ -464,7 +464,7 @@ _Canis aureus_, Kalatop Khajjiar Sanctuary
 ![](/images/lekt5112.webp)
 Ábra: ⟪कौशिकः⟫
 Brahma- bagoly (_Athene brama_), Mahesana = મહેસાણા
-(Képmegjelenítés forrása: [Details](/hu/licenses#lekt5112))
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt5112))
 :::
 ⟪शकुनि⟫ m.: madár
 
@@ -479,7 +479,7 @@ gyenge tő mássalhangzó előtt ⟪श्व⟫
 ![](/images/lekt5113.jpg)
 Ábra: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Képmegjelenítés forrása: [Details](/hu/licenses#lekt5113))
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt5113))
 :::
 ⟪परिचित⟫ 3: ismerős, ismert
 
@@ -512,7 +512,7 @@ PPP ⟪दिग्ध⟫
 ![](/images/lekt5115.webp)
 Kép: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Képmegjelölés: [Details](/hu/licenses#lekt5115))
+(Képmegjelölés: [Részletek](/hu/licenses#lekt5115))
 :::
 ⟪भुजंग⟫ m.: Kígyó
 
@@ -520,13 +520,13 @@ Bangalore = ಬೆಂಗಳೂರು
 ![](/images/lekt5116.webp)
 Kép: ⟪भुजंगः⟫
 Láncharcosvipera (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
-(Képmegjelölés: [Details](/hu/licenses#lekt5116))
+(Képmegjelölés: [Részletek](/hu/licenses#lekt5116))
 :::
 ⟪सायक⟫ m.: Nyíl
 
 ⟪उत्साद⟫ m.: Elpusztulás
 
-⟪कलत्र⟫ **Neutrum**: feleség, nőstény
+⟪कलत्र⟫ **semlegesnem**: feleség, nőstény
 
 ⟪बन्दी⟫ f.: fogoly, zsákmány
 
@@ -601,7 +601,7 @@ Magyarázat: -⟪अभिषेकौ⟫ Név./Tárgy/Ék. Kétes szám, hímne
 
 ⟪आसीच्च⟫ ⟪मे⟫ ⟪मनसि⟫ -- ⟪अहो⟫ ⟪मोहप्रायमेतेषां⟫ ⟪जीवितं⟫ ⟪साधुजनगर्हितं⟫ ⟪च⟫ ⟪चरितम्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ ⟪।⟫ ⟪पुरुषपिशितोपहारे⟫ ⟪धर्मबुद्धिः⟫ , ⟪अहारः⟫ ⟪साधुजनगर्हितो⟫ ⟪मधुमांसादिः⟫ , ⟪श्रमो⟫ ⟪मृगया⟫ , ⟪शास्त्रं⟫ ⟪शिवारुतम्⟫ , ⟪समुपदेष्टारः⟫ ⟪सद्सतां⟫ ⟪कौशिकाः⟫ , ⟪प्रज्ञा⟫ ⟪शकुनिज्ञानम्⟫ , ⟪परिचिताः⟫ ⟪श्वानः⟫ , ⟪राज्यं⟫ ⟪शून्यास्वटवीषु⟫ , ⟪आपानकमुत्सवः⟫ , ⟪मित्राणि⟫ ⟪क्रुरकर्मसाधनानि⟫ ⟪धनूंषि⟫ , ⟪सहाया⟫ ⟪विषदिग्धमुखा⟫ ⟪भुजंगा⟫ ⟪इव⟫ ⟪सायकाः⟫ , ⟪गीतमुत्सादकारि⟫ ⟪मुग्धमृगाणाम्⟫ , ⟪कलत्राणि⟫ ⟪बन्दीगृहीताः⟫ ⟪परयोषितः⟫ , ⟪क्रूरात्मभिः⟫ ⟪शार्दूलैः⟫ ⟪सह⟫ ⟪संवासः⟫ , ⟪पशुरुधिरेण⟫ ⟪देवतार्चनम्⟫ , ⟪मांसेन⟫ ⟪बलिकर्म⟫ , ⟪चौर्येण⟫ ⟪जीवनम्⟫ , ⟪भूषणानि⟫ ⟪भुजंगमणयः⟫ , ⟪वनकरिमदैरङ्गरागः⟫ , ⟪यस्मिन्नेव⟫ ⟪कानने⟫ ⟪निवसन्ति⟫ ⟪तदेवोत्ख्यातमूलमशेषतः⟫ ⟪कुर्वत⟫ ⟪इति⟫ ⟪चिन्तयत्येव⟫ ⟪मयि⟫ ⟪शबरसेनापतिः⟫ ⟪समुपाविशत्⟫ ⟪॥⟫
 
-⟪४⟫. Kommentar des ⟪भानुचन्द्र⟫ (16. Jhdt.) zu vorhergehendem Abschnit der ⟪कादम्बरी⟫ (diese Übung sollte unter Anleitung eines Lehrers übersetzt werden. Ist ein solcher nicht verfügbar, kann man sie übergehen)
+⟪४⟫. Kommentar des ⟪भानुचन्द्र⟫ (16. Jhdt.) zu vorhergehendem Abschnit der ⟪कादम्बरी⟫ (diese Gyakorlat sollte unter Anleitung eines Lehrers übersetzt werden. Ist ein solcher nicht verfügbar, kann man sie übergehen)
 
 ⟪आसीच्चेति⟫ ⟪।⟫ ⟪मे⟫ ⟪मम⟫ ⟪मनसि⟫ ⟪चित्त⟫ ⟪आसीद्बभूव⟫ ⟪।⟫ ⟪खेद⟫ ⟪इति⟫ ⟪शेषः⟫ ⟪।⟫ ⟪तदेव⟫ ⟪दर्शयति⟫ -- ⟪अहो⟫ ⟪इत्यादिना⟫ ⟪।⟫ ⟪अहो⟫ ⟪इत्याश्चर्ये⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪भिल्लानां⟫ ⟪जीवितं⟫ ⟪प्राणितं⟫ ⟪मोहो⟫ ⟪ऽज्ञानं⟫ ⟪प्रायं⟫ ⟪प्रचुरं⟫ ⟪यत्र⟫ ⟪तादृशम्⟫ ⟪।⟫ ⟪चः⟫ ⟪पुनरर्थे⟫ ⟪।⟫ ⟪चरितमाचरणं⟫ ⟪साधुजनैः⟫ ⟪सज्जनजनैर्गर्हितं⟫ ⟪निन्दितम्⟫ ⟪।⟫ ⟪तदेव⟫ ⟪विशेषतो⟫ ⟪दर्शयति⟫ -- ⟪तथा⟫ ⟪हीति⟫ ⟪।⟫ ⟪पुरुषेति⟫ ⟪।⟫ ⟪पुरुषस्य⟫ ⟪पुंसो⟫ ⟪यत्पिशितं⟫ ⟪मांसं⟫ ⟪तस्य⟫ ⟪य⟫ ⟪उपहारो⟫ ⟪भगवत्यै⟫ ⟪नैवेद्यदर्शनं⟫ ⟪तस्मिन्धर्मबुद्धिः⟫ ⟪श्रेयोधीः⟫ ⟪।⟫ ⟪आहार⟫ ⟪इति⟫ ⟪।⟫ ⟪आहारः⟫ ⟪प्रत्यवसानं⟫ ⟪साधुजनैर्गर्हितो⟫ ⟪निन्दितो⟫ ⟪मधुमांसादिर्मधुः⟫ ⟪मद्यं⟫ ⟪माक्षिकं⟫ ⟪वा⟫ ⟪।⟫ ⟪मांसं⟫ ⟪प्रतीतम्⟫ ⟪।⟫ ⟪ते⟫ ⟪आदौ⟫ ⟪यस्येति⟫ ⟪बहुव्रीहिः⟫ ⟪।⟫ ⟪आदिशब्दात्कन्दादिपरिग्रहः⟫ ⟪।⟫ ⟪श्रम⟫ ⟪इति⟫ ⟪।⟫ ⟪श्रमः⟫ ⟪शक्तिसाधनायासो⟫ ⟪मृगयाखेटकः⟫ ⟪।⟫ ⟪शास्त्रमिति⟫ ⟪।⟫ ⟪शिवा⟫ ⟪सृगाली⟫ ⟪तस्य⟫ ⟪रुतं⟫ ⟪शब्दितं⟫ ⟪शास्त्रमुच्चस्वरवेदपाठः⟫ ⟪।⟫ ⟪प्रबोधजनकत्वसाम्यात्तदुपमानम्⟫ ⟪।⟫ ⟪सदिति⟫ ⟪।⟫ ⟪सदसतां⟫ ⟪शुभाशुभानां⟫ ⟪समुपदेष्टारो⟫ ⟪बोधकाः⟫ ⟪कौशिका⟫ ⟪उलूकाः⟫ ⟪।⟫ ⟪प्रज्ञेति⟫ ⟪।⟫ ⟪शकुनयः⟫ ⟪पत्त्रिणस्तेषां⟫ ⟪स्थूलमहत्त्वादिना⟫ ⟪ज्ञानं⟫ ⟪तदेव⟫ ⟪प्रज्ञा⟫ ⟪विवेकबुद्धिः⟫ ⟪।⟫ ⟪परीति⟫ ⟪।⟫ ⟪श्वानः⟫ ⟪सारमेयाः⟫ ⟪परिचिता⟫ ⟪विश्वासपालत्राणि⟫ ⟪।⟫ ⟪राज्यमिति⟫ ⟪।⟫ ⟪शून्यासु⟫ ⟪जनरहितासु⟫ ⟪विन्ध्याटवीषु⟫ ⟪राज्यं⟫ ⟪स्वामित्वम्⟫ ⟪।⟫ ⟪आपानकेति⟫ ⟪।⟫ ⟪उत्सवः⟫ ⟪संतुष्टिकार्यं⟫ ⟪तदेवापानमेवापानकम्⟫ ⟪।⟫ ⟪स्वार्थे⟫ ⟪कः⟫ ⟪।⟫ ⟪पानगोष्ठिका⟫ ⟪।⟫ ⟪मित्राणीति⟫ ⟪।⟫ ⟪क्रूरं⟫ ⟪यत्कर्म⟫ ⟪तत्साधनानि⟫ ⟪तद्धेतुभूतानि⟫ ⟪धनूंष्येव⟫ ⟪चापान्येव⟫ ⟪मित्राणि⟫ ⟪सहृदः⟫ ⟪।⟫ ⟪हितचिन्तकानीति⟫ ⟪यावत्⟫ ⟪।⟫ ⟪सहाया⟫ ⟪इति⟫ ⟪।⟫ ⟪विषेण⟫ ⟪दिग्धं⟫ ⟪मुखमाननं⟫ ⟪येषामेवंविधाः⟫ ⟪सायका⟫ ⟪बाणास्त⟫ ⟪एव⟫ ⟪सहाया⟫ ⟪इष्टकार्यकर्तृत्वात्साहाय्यकारिणः⟫ ⟪।⟫ ⟪क⟫ ⟪इव⟫ ⟪।⟫ ⟪भुजंगाः⟫ ⟪सर्पा⟫ ⟪इव⟫ ⟪।⟫ ⟪एतेषां⟫ ⟪विषदिग्धमुखत्वं⟫ ⟪स्वाभाविकम्⟫ ⟪।⟫ ⟪तेषामौपाधिकमिति⟫ ⟪भावः⟫ ⟪।⟫ ⟪गीतमिति⟫ ⟪।⟫ ⟪मुग्धा⟫ ⟪अनभिज्ञा⟫ ⟪ये⟫ ⟪मृगा⟫ ⟪हरिणास्तेषामुत्साहकारि⟫ ⟪स्तब्धताविधायि⟫ ⟪गीतं⟫ ⟪गानम्⟫ ⟪।⟫ ⟪कलत्रेति⟫ ⟪।⟫ ⟪परयोषितो⟫ ⟪ऽन्यस्त्रिय⟫ ⟪एव⟫ ⟪बन्दी⟫ ⟪ग्रहकस्तद्रूपत्वेन⟫ ⟪गृहीताः⟫ ⟪स्त्रीकृताः⟫ ⟪कलत्राणि⟫ ⟪स्वपत्न्यः⟫ ⟪।⟫ ⟪क्रूरेति⟫ ⟪।⟫ ⟪क्रूरात्मभिर्दुष्टात्मभिः⟫ ⟪शार्दुलैश्चित्रकैः⟫ ⟪समं⟫ ⟪संवासः⟫ ⟪सहावस्थानम्⟫ ⟪।⟫ ⟪पश्वेति⟫ ⟪।⟫ ⟪पशवो⟫ ⟪महिषास्तेषां⟫ ⟪रुधिरेण⟫ ⟪रक्तेन⟫ ⟪देवतार्चनं⟫ ⟪देवपूजनम्⟫ ⟪।⟫ ⟪मांसेनेति⟫ ⟪।⟫ ⟪मांसेन⟫ ⟪पिशितेन⟫ ⟪बलिर्हन्तकरस्तत्कर्म⟫ ⟪तत्कृत्यम्⟫ ⟪।⟫ ⟪चौर्येणेति⟫ ⟪।⟫ ⟪चौर्येण⟫ ⟪परद्रव्यापहारेण⟫ ⟪जीवनं⟫ ⟪प्राणधारणम्⟫ ⟪।⟫ ⟪भूषणनीति⟫ ⟪।⟫ ⟪भूषणान्याभरणानि⟫ ⟪भुजंगमणयः⟫ ⟪सर्परत्नानि⟫ ⟪।⟫ ⟪पर्वतवासित्वात्तेषां⟫ ⟪ते⟫ ⟪सुलभा⟫ ⟪इति⟫ ⟪भावः⟫ ⟪।⟫ ⟪वनेति⟫ ⟪।⟫ ⟪वनकरिणामरण्यहस्तिनां⟫ ⟪मदैर्दानवारिभिरङ्गरागो⟫ ⟪विलेपनम्⟫ ⟪।⟫ ⟪यस्मिन्निति⟫ ⟪।⟫ ⟪अनिर्दिष्टनामनि⟫ ⟪कानने⟫ ⟪वने⟫ ⟪निवसन्ति⟫ ⟪निवासं⟫ ⟪कुर्वन्ति⟫ ⟪तदेव⟫ ⟪काननमशेषतः⟫ ⟪समग्रत⟫ ⟪उत्खातमुत्पाटितं⟫ ⟪मूलं⟫ ⟪मध्यभागो⟫ ⟪यस्यैवंभूतं⟫ ⟪कुर्वते⟫ ⟪विदधत⟫ ⟪इति⟫ ⟪पूर्वोक्तप्रकारेण⟫ ⟪मयि⟫ ⟪चन्तयति⟫ ⟪ध्यायति⟫ ⟪सत्येव⟫ ... ⟪॥⟫
 

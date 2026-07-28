@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 47
 
-## 47.1. Der Imperativ (⟪लोट्⟫)
+## 47.1. L'impératif (⟪लोट्⟫)
 
 ::: grammar-box
 L’impératif (⟪लोट्⟫) exprime

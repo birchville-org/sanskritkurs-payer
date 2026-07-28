@@ -35,11 +35,11 @@ Az összetett tagok mindkét elemének esetviszonya független attól, hogy mily
 
 pl.
 
-> Nominativus singularis ⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫
-> Akkusativus singularis ⟪तत्पुरुषम्⟫ = ⟪तस्य⟫ ⟪पुरुषम्⟫
-> Instrumentalis singularis ⟪तत्पुरुषेण⟫ = ⟪तस्य⟫ ⟪पुरुषेण⟫
-> Genetivus singularis ⟪तत्पुरुषस्य⟫ = ⟪तस्य⟫ ⟪पुरुषस्य⟫
-> Nominativus pluralis ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
+> alanyeset (nominativus)us singularis ⟪तत्पुरुषः⟫ = ⟪तस्य⟫ ⟪पुरुषः⟫
+> tárgyeset (accusativus)us singularis ⟪तत्पुरुषम्⟫ = ⟪तस्य⟫ ⟪पुरुषम्⟫
+> eszközhatározó eset (instrumentalis) singularis ⟪तत्पुरुषेण⟫ = ⟪तस्य⟫ ⟪पुरुषेण⟫
+> birtokos eset (genitivus)us singularis ⟪तत्पुरुषस्य⟫ = ⟪तस्य⟫ ⟪पुरुषस्य⟫
+> alanyeset (nominativus)us pluralis ⟪तत्पुरुषाः⟫ = ⟪तस्य⟫ ⟪पुरुषाः⟫
 > stb.
 
 Das Geschlecht eines Tatpuruṣa ist - mit wenigen Ausnahmen - das seines Hintergliedes.
@@ -66,7 +66,7 @@ Nom pl. ⟪गुणवत्पुत्राः⟫
 ::: media
 ![](/images/lekt1501.webp)
 Ábr.: ⟪लक्ष्मी⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt1501))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt1501))
 :::
 
 ::: grammar-box

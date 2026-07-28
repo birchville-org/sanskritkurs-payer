@@ -207,7 +207,7 @@ z.B.
 
 Die so gebildeten Wörter sind Adjektive, können aber substantiviert werden, z.B. als Patronymica (Namensbildung nach dem Vater: "Sohn des N.N.") oder Abstrakta (meist Neutra).
 :::
-Beispiele:
+Példák:
 
 ::: indent
 | Grundwort | Ableitung |
@@ -245,10 +245,10 @@ z.B. ⟪व्याघ्र⟫ m. "Tiger" » ⟪वैयाघ्र⟫ 3 "vo
 :::
 ::: media
 ![](/images/lekt4801.webp)
-Abb.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
-(Bildquelle: [Details](/hu/licenses#lekt4801))
+Ábra: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
+(Képforrás: [Részletek](/hu/licenses#lekt4801))
 :::
-## 48.4. Wortliste
+## 48.4. Szójegyzék
 
 ⟪श्वस्⟫ : morgen
 
@@ -403,7 +403,7 @@ B) Fordítsd szanszktra (használd az imperatívuszt, és ahol lehetséges a 2. 
 ⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫
 :::
 Magyarázat:  
-⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Kétes szám a ⟪द्वे⟫ ⟪कुले⟫ "két család"
+:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) Kétes szám a ⟪द्वे⟫ ⟪कुले⟫ "két család"
 
 ::: deleteme-box
 

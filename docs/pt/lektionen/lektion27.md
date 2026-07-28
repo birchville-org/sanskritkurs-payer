@@ -155,11 +155,11 @@ Mais sobre o uso do locativo posteriormente.
 :::
 **Impresso em vermelho vivo**: casos fortes (na gradação do radical).
 
-## 27.4. Um verso com todas as formas de declinação (singular) de ⟪राम⟫
+## 27.4. Um verso com todas as formas de declinação (singular) de :sig[⟪राम⟫]
 
 ::: media
 ![](/images/lekt2708.webp)
-Fig.: ⟪रामे⟫ ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ⟪राम⟫ ⟪मामुद्धर⟫ ⟪॥⟫
+Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
 (Fonte da imagem: [Detalhes](/licenses#lekt2708))
 :::

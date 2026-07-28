@@ -32,17 +32,17 @@ Urutan kata normal adalah:
 **Genitif dan PPP:**
 
 ::: grammar-box
-Pada PPP, Genitif dapat menggantikan Instrumentalis (tṛtīyā) untuk Agens (kartṛ); Dalam konstruksi dengan Instrumentalis, PPP dianggap sebagai bentuk verba pasif (yang ada dalam Instrumentalis menyatakan Agens), sedangkan dalam konstruksi dengan Genitif, PPP dianggap sebagai kata benda atau adjektiva (yang ada dalam Genitif oleh karena itu bukan sebenarnya sebagai Agens).
+Pada PPP, Genitif dapat menggantikan Instrumental (tṛtīyā) untuk Agens (kartṛ); Dalam konstruksi dengan Instrumental, PPP dianggap sebagai bentuk verba pasif (yang ada dalam Instrumental menyatakan Agens), sedangkan dalam konstruksi dengan Genitif, PPP dianggap sebagai kata benda atau adjektiva (yang ada dalam Genitif oleh karena itu bukan sebenarnya sebagai Agens).
 
-Menurut Pāṇini 2.3.67, pada PPP Genitif digunakan jika PPP memiliki makna present (lihat di atas), dan Instrumentalis digunakan jika PPP memiliki makna lampau:
+Menurut Pāṇini 2.3.67, pada PPP Genitif digunakan jika PPP memiliki makna present (lihat di atas), dan Instrumental digunakan jika PPP memiliki makna lampau:
 
 > ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Buah yang diinginkan Rāma = Buah yang saat ini diinginkan oleh Rāma"
 > 
 > ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Buah yang telah diinginkan oleh Rāma"
 
-Tentu saja, pada PPP Neutrum Singular yang digunakan sebagai abstrak verbal — yaitu sebagai kata benda — Genitif digunakan.
+Tentu saja, pada PPP Netral Tunggal yang digunakan sebagai abstrak verbal — yaitu sebagai kata benda — Genitif digunakan.
 :::
-## 14.2. Bildung  Genetivformen (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+## 14.2. Pembentukan  Genitifformen (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
 Genitif pada akar verba dengan ablasi akar dibentuk dari bentuk lemah.
 
@@ -51,8 +51,8 @@ Genitif pada akar verba dengan ablasi akar dibentuk dari bentuk lemah.
 ::: grammar-box
 
 Setelah konsonan, akhiran Genitif yang teratur adalah:
-* Singular: **-as**
-* Plural: **-ām**
+* Tunggal: **-as**
+* Jamak: **-ām**
 
 :::
 ::: center
@@ -65,11 +65,11 @@ Setelah konsonan, akhiran Genitif yang teratur adalah:
 :::
 **Genitif pada akar yang berakhiran vokal, kecuali nomina akar satu suku kata dan akar yang berakhiran diftong:**
 
-**Plural:**
+**Jamak:**
 
 ::: grammar-box
 
-Genitif Plural akar yang berakhiran vokal dibentuk sebagai berikut:
+Genitif Jamak akar yang berakhiran vokal dibentuk sebagai berikut:
 
 > **-vokal akhir akar yang panjang + -nām**
 
@@ -127,7 +127,7 @@ Genetif tunggal batang vokal berakhiran dibentuk secara tidak teratur dan baik u
 
 Pada semua batang nominal kecuali maskulinum dan neutrum berakhiran -a serta kata ganti, bentuk Genetif Tunggal identik dengan bentuk Ablatif (pañcamī "akhiran kasus kelima") Tunggal!
 
-Perhatikan bahwa pada batang berakhiran konsonan, Ablatif dan Genetif Tunggal terdengar sama dengan Akusatif Jamak Maskulinum dan Femininum!
+Perhatikan bahwa pada batang berakhiran konsonan, Ablatif dan Genetif Tunggal terdengar sama dengan Akusatif Jamak Maskulin dan Feminin!
 
 :::
 ## 14.3. Penggunaan Genitif Lebih Lanjut (⟪षष्ठी⟫)
@@ -152,7 +152,7 @@ Lebih lanjut nanti.
 ::: media
 ![](/images/lekt1405.webp)
 Gambar: ⟪दीपाः⟫
-(Sumber gambar: [Details](/id/licenses#lekt1405))
+(Sumber gambar: [Detail](/id/licenses#lekt1405))
 :::
 * **bala n.** (⟪बल⟫) : kekerasan, kekuatan; pasukan militer
 * **bāla 3** (⟪बाल⟫) : muda, kekanak-kanakan; m. anak laki-laki
@@ -184,7 +184,7 @@ Terjemahkan peribahasa berikut dan hafalkan:
 
 ## 14.6. Latihan
 
-**A) Bentuklah Genitiv Singular dan Plural untuk kata-kata berikut. Berikan makna dan jenis kelamin (gender) kata-kata tersebut:**
+**A) Bentuklah Genitiv Tunggal dan Jamak untuk kata-kata berikut. Berikan makna dan jenis kelamin (gender) kata-kata tersebut:**
 
 ⟪१⟫. ⟪अनृत⟫
 

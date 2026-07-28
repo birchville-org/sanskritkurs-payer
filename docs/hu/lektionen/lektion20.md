@@ -13,9 +13,9 @@ status: stable
 
 ::: media
 ![](/images/lekt2004.webp)
-Abb.: ⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
+Ábra: ⟪बहुव्रीहिः⟫ ⟪पुरुषः⟫
 Jodhpur = ⟪जोधपुर⟫
-(Bildquelle: [Details](/hu/licenses#lekt2004))
+(Képforrás: [Részletek](/hu/licenses#lekt2004))
 :::
 ⟪बहुव्रीहिः⟫ = ⟪बहवो⟫ ⟪व्रीहयो⟫ ⟪यस्य⟫ ⟪सः⟫ = "egy, akinek sok rizse van"
 
@@ -306,7 +306,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ez valójában a Rishikesh-i ashram egy r
 
 ⟪सद्⟫ 1 P ⟪सीदति⟫ (!) Pass. ⟪सद्यते⟫ PPP ⟪सन्न⟫ : ülni, letelepedni
 
-⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : leülni, leültetni (átvitt értelemben) = elcsendesedni, nyugodttá, vidorrá válni; valakinek (Genetiv ⟪षष्ठी⟫) kegyesnek lenni
+⟪सद्⟫ + ⟪प्र⟫ 1 P ⟪प्रसीदति⟫ : leülni, leültetni (átvitt értelemben) = elcsendesedni, nyugodttá, vidorrá válni; valakinek (birtokos eset (genitivus) ⟪षष्ठी⟫) kegyesnek lenni
 
 ⟪समाधि⟫ m.: belső gyűjtettség, legmagasabb figyelem, meditációs „merülés”
 
@@ -511,7 +511,7 @@ Az anyaságosok kinyilatkoztatása a ⟪सर्वदर्शनसंग्�
 ⟪न⟫ ⟪स्वर्गो⟫ ⟪नापवर्गो⟫ ⟪वा⟫ ⟪नैवात्मा⟫ ⟪पारलौकिकः⟫ ⟪।⟫
 ⟪नैव⟫ ⟪वर्णाश्रमादी⟫na⟪ं⟫ ⟪क्रियाश्च⟫ ⟪फलदायिकाः⟫ ⟪॥⟫
 
-Magyarázat: ⟪अत्मा⟫ = Nominativus singularis maskulinum a következőhöz: ⟪आत्मन्⟩ m. "ön, lélek; az abszolútum, amennyiben egy egyénben realizálódik"
+Magyarázat: ⟪अत्मा⟫ = alanyeset (nominativus)us singularis maskulinum a következőhöz: ⟪आत्मन्⟩ m. "ön, lélek; az abszolútum, amennyiben egy egyénben realizálódik"
 :::
 Egy ⟪सुभाषितम्⟫ :
 
@@ -537,7 +537,7 @@ A tulajdonviszonyokról:
 ⟪यत्ते⟫ ⟪समधिगच्छन्ति⟫
 ⟪यस्य⟫ ⟪ते⟫ ⟪तस्य⟫ ⟪तद्धनम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪४१६॥⟫
 
-Magyarázat: ⟪त्रयस्⟫ = Nominativ, neműes szám, többes szám a következőhöz: ⟪त्रि⟩ "három"
+Magyarázat: ⟪त्रयस्⟫ = alanyeset (nominativus), neműes szám, többes szám a következőhöz: ⟪त्रि⟩ "három"
 :::
 Egy ⟪सुभाषितम्⟩ a női szépségről:
 
@@ -547,7 +547,7 @@ Egy ⟪सुभाषितम्⟩ a női szépségről:
 ⟪नतनाभि⟫ ⟪वपुः⟫ ⟪स्त्रीणां⟫
 ⟪कं⟫ ⟪न⟫ ⟪हन्त्युन्नतस्तनम्⟫ ⟪॥⟫
 
-Magyarázat: minden alak kivéve ⟪कं⟩ és ⟪स्त्रीणाम्⟩ Nominativ, egyes szám, középnem és ⟪वपुस्⟩-re hivatkoznak.
+Magyarázat: minden alak kivéve ⟪कं⟩ és ⟪स्त्रीणाम्⟩ alanyeset (nominativus), egyes szám, középnem és ⟪वपुस्⟩-re hivatkoznak.
 :::
 ::: media
 ![](/images/lekt2003.webp)

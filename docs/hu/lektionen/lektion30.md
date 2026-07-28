@@ -62,7 +62,7 @@ Példa:
 | **3. személy:brĀtmanepada** | ⟪पुनीते⟫:br(pu-nī-te) | ⟪पुनते⟫:br(pu-n-ate) |
 
 :::
-A jelen idői melléknév (Partizip Präsens) Parasmaipada képzése:
+A jelen idői melléknév (Partizip Jelen idő) Parasmaipada képzése:
 
 Példa:
 
@@ -147,7 +147,7 @@ Példák:
 | **3. Person:brĀtmanepada** | ⟪भवेत⟫:br(bhava + i + ta) | ⟪भवेरन्⟫:br(bhava + i + ran) |
 
 :::
-4\. Präsensklasse:
+4\. Jelen időklasse:
 
 ⟪नृत्⟫
 ::: grammar-box
@@ -215,7 +215,7 @@ jelen időosztály
 | **3. Person:brĀtmanepada** | ⟪सुन्वीत⟫:br(sunu + ī + ta) | ⟪सुन्वीरन्⟫:br(sunu + ī + ran) |
 
 :::
-8\. Präsensklasse
+8\. Jelen időklasse
 
 ⟪तन्⟫
 ::: grammar-box
@@ -279,7 +279,7 @@ Absol. ⟪विक्रीय⟫
 ![](/images/lekt3001.webp)
 Kép: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
-(Képmegjelölés: [Details](/hu/licenses#lekt3001))
+(Képmegjelölés: [Részletek](/hu/licenses#lekt3001))
 :::
 ⟪ज्ञा⟫ 9U ⟪जानाति⟫ : ismerni, felismerni, tudni, megérteni
 

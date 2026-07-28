@@ -15,7 +15,7 @@ status: stable
 ::: grammar-box
 **Vokaalipäätteiden edellä vartalon päävokaali heikoissa sijamuodoissa on kadonnut Ø.**
 
-**Maskulinumin ja femininin taivutus ovat identtiset.**
+**maskuliiniin ja femininin taivutus ovat identtiset.**
 :::
 Paradigma:
 
@@ -34,7 +34,7 @@ Paradigma:
 ### 61.1.2. Naisukkaiset juurimuodot pääte -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Vor vokalischer Pääte wird -ī durch -iy ersetzt.**
 
 **Säännöllisten taivutuspäätteiden muodostusten lisäksi Dat.Ab.Gen.Lok.sg. ja Gen.pl. esiintyy myös monisylabisten naispuolisten substantiivien -ī (⟪देवी⟫) mallin mukaisia muodostelmia.**
 :::
@@ -112,7 +112,7 @@ Paradigmat:
 ::: grammar-box
 **Vokaalin edellä oleva vartalo: -uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī**
+**Deklination analog zu den femininen Juurinomina auf -ī**
 :::
 Malleus:
 
@@ -153,7 +153,7 @@ Paradigma:
 ![](/images/lekt6106.webp)
 Kuv: ⟪रथ्याप्वः⟫
 ⟪काशीपुर⟫
-(Kuv lähde: [Details](/fi/licenses#lekt6106))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt6106))
 :::
 ### 61.1.6. Monitavisten vartalon -ū pääteisten naissukujen taivutus
 
@@ -251,7 +251,7 @@ Paradigma:
 ![](/images/lekt6104.webp)
 Kuv.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Kuv lähde: [Details](/fi/licenses#lekt6104))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt6104))
 :::
 
 ::: grammar-box
@@ -340,7 +340,7 @@ Indikatiivin preesens (⟪लट्⟫):
 | 2\. ⟪मध्यमः⟫ | ⟪बोभोषि⟫ ⟪।⟫ ⟪बोभवीषि⟫ | ⟪बोभूथस्⟫ | ⟪बोभूथ⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभोति⟫ ⟪।⟫ ⟪बोभवीति⟫ | ⟪बोभूतस्⟫ | ⟪बोभुवति⟫ |
 :::
-Imperfekti (⟪लङ्⟫):
+Imperfektiii (⟪लङ्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -437,13 +437,13 @@ Huomioi seuraavien merkitykset:
 ![](/images/lekt6105.webp)
 Kuv.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 ⟪हरिद्वार⟫
-(Kuvälähde: [Details](/fi/licenses#lekt6105))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt6105))
 :::
 
 ::: media
 ![](/images/lekt6103.webp)
 Kuv.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
-(Kuvälähde: [Details](/fi/licenses#lekt6103))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt6103))
 :::
 ### 61.4.3. Johtimella -kāmya muodostettu taivutus, Parasmaipada
 
@@ -528,7 +528,7 @@ Esimerkkejä:
 ::: media
 ![](/images/lekt6111.webp)
 Kuv.: ⟪श्वानौ⟫ ⟪शब्दायेते⟫
-(Kuv lähde: [Details](/fi/licenses#lekt6111))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt6111))
 :::
 ### 61.4.6. Muodostus suffiksilla -aya, -āpaya
 
@@ -654,13 +654,13 @@ Paradigmat: Kielhorn, Grammatik § 153:
 
 ::: media
 ![](/images/lekt6115.webp)
-(Kuv lähde: [Details](/fi/licenses#lekt6115))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt6115))
 :::
 
 ::: media
 ![](/images/lekt6118.webp)
 Kuv.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt6118))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt6118))
 :::
 ## 61.8. Loput pronominit
 
@@ -670,7 +670,7 @@ Kielhorn, Grammatik § 177:
 
 ::: media
 ![](/images/lekt6116.jpg)
-(Kuvan lähde: [Details](/fi/licenses#lekt6116))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt6116))
 :::
 
 ::: media
@@ -718,7 +718,7 @@ Nainen (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Pääsy sanskritinkirjallisuuden valtamerelle: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+## 61.9. Pääsy sanskritinkirjallisuuden valtamerelle: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
 
 Sanskritkurssin jälkeen alkaa varsinainen "uinti" sanskritinkirjallisuuden valtameressä. Koska tämä valtameri on täynnä esteitä, on asianmukaista aloittaa uusi elämänvaihe Gaṇeśan kutsulla:
 
@@ -726,7 +726,7 @@ Sanskritkurssin jälkeen alkaa varsinainen "uinti" sanskritinkirjallisuuden valt
 ![](/images/lekt6101.webp)
 Kuv: ⟪श्रीगणनाथः⟫
 Halebidu (ಹಳೆಬೀಡು), 12./13. jaa. kr.
-(Kuvälähde: [Details](/fi/licenses#lekt6101))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt6101))
 :::
 
 ::: no-header
@@ -749,9 +749,9 @@ Tāla: Rūpaka: o |4
 ::: media
 ![](/images/lekt6119.webp)
 Kuv.: Melodia, suhteessa c:aan, voidaan transponoida äänialasta riippuen.
-(Kuv lähde: [Details](/fi/licenses#lekt6119))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ on kannaresisen musiikin opetuksen alussa. Katso video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Viitattu 2009-03-05
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] on kannaresisen musiikin opetuksen alussa. Katso video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Viitattu 2009-03-05
 
 Kun olet nyt oppinut sanskritin perusteet, toivottavasti olet kuin videon pienet lapset: joskus kömpelö, mutta oppimishaluinen ja tiedonjano sekä iloinen asiasta. Säilytä elämäsi loppuun asti "aloittelijan mieli".
 

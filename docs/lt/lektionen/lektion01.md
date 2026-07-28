@@ -132,17 +132,17 @@ Sanskrito garsai pagal tradicinę indų klasifikaciją ir jų mokslinė transkri
 
 ::: media
 ![](/images/lekt0106.webp)
-(Bildquelle: [Details](/licenses#lekt0106)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt0106))
 :::
-Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikation angeordnet. Diese Klassifikation ist zum Verständnis der Sanskrit-Grammatik unerlässlich und muss deshalb auswendig gewusst werden: <!-- TODO: Fallback translation -->
+Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikation angeordnet. Diese Klassifikation ist zum Verständnis der Sanskrit-Grammatik unerlässlich und muss deshalb auswendig gewusst werden:
 
 ::: note-box
-Klassifikation <!-- TODO: Fallback translation -->
-- **einfache Vokale** (samānākṣara -- ⟪समानाक्षर⟫): <!-- TODO: Fallback translation -->
-  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ <!-- TODO: Fallback translation -->
-- **Diphtonge** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫): <!-- TODO: Fallback translation -->
-  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au <!-- TODO: Fallback translation -->
-- **Konsonanten** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫): <!-- TODO: Fallback translation -->
+Klassifikation
+- **einfache Vokale** (samānākṣara -- ⟪समानाक्षर⟫):
+  ⟪अ⟫ a, ⟪आ⟫ ā, ⟪इ⟫ i, ⟪ई⟫ ī, ⟪उ⟫ u, ⟪ऊ⟫ ū, ⟪ऋ⟫ ṛ, ⟪ॠ⟫ ṝ, ⟪ऌ⟫ ḷ
+- **Diphtonge** (sandhyakṣara -- ⟪सन्ध्यक्षर⟫):
+  ⟪ए⟫ e, ⟪ऐ⟫ ai, ⟪ओ⟫ o, ⟪औ⟫ au
+- **Konsonanten** (vyañjana / hal -- ⟪व्यञ्जन⟫ / ⟪हल्⟫):
   ⟪क⟫ ka, ⟪ख⟫ kha, ⟪ग⟫ ga, ⟪घ⟫ gha, ⟪ङ⟫ ṅa
   ⟪च⟫ ca, ⟪छ⟫ cha, ⟪ज⟫ ja, ⟪झ⟫ jha, ⟪ञ⟫ ña
   ⟪ट⟫ ṭa, ⟪ठ⟫ ṭha, ⟪ड⟫ ḍa, ⟪ढ⟫ ḍha, ⟪ण⟫ ṇa
@@ -150,9 +150,9 @@ Klassifikation <!-- TODO: Fallback translation -->
   ⟪प⟫ pa, ⟪फ⟫ pha, ⟪ब⟫ ba, ⟪भ⟫ bha, ⟪म⟫ ma
   ⟪य⟫ ya, ⟪र⟫ ra, ⟪ल⟫ la, ⟪व⟫ va
   ⟪श⟫ śa, ⟪ष⟫ ṣa, ⟪स⟫ sa
-  ⟪ह⟫ ha <!-- TODO: Fallback translation -->
+  ⟪ह⟫ ha
 :::
-### 1.2.1. Zur Aussprache einzelner Laute <!-- TODO: Fallback translation -->
+### 1.2.1. Zur Aussprache einzelner Laute
 
 ::: laut-table
 | Laut | Beschreibung |
@@ -167,21 +167,21 @@ Klassifikation <!-- TODO: Fallback translation -->
 | **ḥ - :** | **Visarga (Visarjanīya)** -- ⟪विसर्ग⟫ / ⟪विसर्जनीय⟫. Stimmloser Hauchlaut mit Nachklang des vorhergehenden Vokals oder des zweiten Teils des vorausgehenden Diphtones: agniḥ -- ⟪अग्निः⟫ = agnihi, devaiḥ -- ⟪देवैः⟫ = devaihi, gauḥ -- ⟪गौः⟫ = gauhu |
 | **ṃ** | **Anusvara** -- ⟪अनुस्वर⟫. Vor Zischlauten, h, l: Nasalierung des Vokals. Im Auslaut = m. Im Inlaut vor Konsonanten: der dem folgenden Konsonanten entsprechende Nasal: saṃdhi -- ⟪संधि⟫ = sandhi -- ⟪सन्धि⟫ |
 :::
-Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter ziemlich langsam und monoton mit genauer Berücksichtigung der Länge der Vokale liest. <!-- TODO: Fallback translation -->
+Die beste Aussprache erreicht man, wenn man die Sätze, Verse oder Wörter ziemlich langsam und monoton mit genauer Berücksichtigung der Länge der Vokale liest.
 
-## 1.3. Übung <!-- TODO: Fallback translation -->
+## 1.3. Übung
 
-**A) Lesen Sie folgende Worte:** <!-- TODO: Fallback translation -->
+**A) Lesen Sie folgende Worte:**
 
-1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रिय⟫ ⟪वैश्य⟫ ⟪शूद्र⟫ <!-- TODO: Fallback translation -->
-2. brahmā viṣṇu śiva — ⟪ब्रह्मा⟫ ⟪विष्णु⟫ ⟪शिव⟫ <!-- TODO: Fallback translation -->
-3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम⟫ ⟪ब्राह्मचारिन्⟫ ⟪गृहस्थ⟫ ⟪वानप्रस्थ⟫ ⟪संन्यासिन्⟫ <!-- TODO: Fallback translation -->
-4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद⟫ ⟪सामवेद⟫ ⟪यजुर्वेद⟫ ⟪अथर्ववेद⟫ <!-- TODO: Fallback translation -->
-5. upaniṣad — ⟪उपनिषद्⟫ <!-- TODO: Fallback translation -->
-6. jaina bauddha — ⟪जैन⟫ ⟪बौद्ध⟫ <!-- TODO: Fallback translation -->
-7. prajñāpāramitā — ⟪प्रज्ञापारमिता⟫ <!-- TODO: Fallback translation -->
-8. cakra vajra — ⟪चक्र⟫ ⟪वज्र⟫ <!-- TODO: Fallback translation -->
-9. pitṝn — ⟪पितॄन्⟫ <!-- TODO: Fallback translation -->
-10. saṃskṛta — ⟪संस्कृत⟫ <!-- TODO: Fallback translation -->
+1. varṇa brāhmaṇaḥ kṣatriya vaiśya śūdra — ⟪वर्ण⟫ ⟪ब्राह्मणः⟫ ⟪क्षत्रिय⟫ ⟪वैश्य⟫ ⟪शूद्र⟫
+2. brahmā viṣṇu śiva — ⟪ब्रह्मा⟫ ⟪विष्णु⟫ ⟪शिव⟫
+3. āśrama brāhmacārin gṛhastha vānaprastha saṃnyāsin — ⟪आश्रम⟫ ⟪ब्राह्मचारिन्⟫ ⟪गृहस्थ⟫ ⟪वानप्रस्थ⟫ ⟪संन्यासिन्⟫
+4. ṛgveda sāmaveda yajurveda atharvaveda — ⟪ऋग्वेद⟫ ⟪सामवेद⟫ ⟪यजुर्वेद⟫ ⟪अथर्ववेद⟫
+5. upaniṣad — ⟪उपनिषद्⟫
+6. jaina bauddha — ⟪जैन⟫ ⟪बौद्ध⟫
+7. prajñāpāramitā — ⟪प्रज्ञापारमिता⟫
+8. cakra vajra — ⟪चक्र⟫ ⟪वज्र⟫
+9. pitṝn — ⟪पितॄन्⟫
+10. saṃskṛta — ⟪संस्कृत⟫
 
-**B) Lesen Sie die Sanskrit-Ausdrücke in der Lautklassifikation oben.** <!-- TODO: Fallback translation -->
+**B) Lesen Sie die Sanskrit-Ausdrücke in der Lautklassifikation oben.**

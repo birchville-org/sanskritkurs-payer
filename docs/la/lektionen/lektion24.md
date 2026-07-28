@@ -96,7 +96,7 @@ Tab.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 :::
 Uti casus dativi postea.
 
-## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
+## 24.2. Formationes casus dativi (⟪चतुर्थी⟫)
 
 ::: grammar-box
 **Finitiones regulares dativi sunt:**
@@ -138,7 +138,7 @@ Uti casus dativi postea.
 | | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
-### 24.2.4. Vokalische Stämme
+### 24.2.4. Stemma vocalia
 
 ::: grammar-box
 **Stemmata vocalica**

@@ -191,7 +191,7 @@ Varṇat ovat siten syntyperäisiä yhteiskuntaluokkia.
 ::: media
 ![](/images/lekt0203.jpg)
 Kuv.: Jumala Agni, miniatyyri, 1700-luku.
-(Kuv lähde: [Details](/fi/licenses#lekt0203))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt0203))
 :::
 **sādhu** 3 -- ⟪साधु⟫ : oikein, hyvä.
 

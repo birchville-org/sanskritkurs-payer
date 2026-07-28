@@ -19,7 +19,7 @@ Kivéve a személyes névmásokat, az összes ragozásban többes számban az ab
 Most megérti a szanszkrit esetek sorrendjének okát (⟪विभक्ति⟫): úgy vannak elrendezve, hogy azonos hangzású alakok lehetőleg egymás mellett – vagy alatta – álljanak.
 
 ::: grammar-box
-**Ablativus egyes szám, maskulinum / neutrum -a végződésű**
+**ablativusus egyes szám, maskulinum / neutrum -a végződésű**
 
 - **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
@@ -140,7 +140,7 @@ Példa:
 ⟪जनाः⟫ ⟪पुण्यं⟫ ⟪कुर्वन्ति⟫ ⟪।⟫ ⟪स्वर्गं⟫ ⟪हि⟫ ⟪गन्तुमिच्छन्ति⟫ = "Az emberek érdemcselekedeteket hajtanak végre. Ugyanis a mennybe akarnak jutni."
 :::
 ::: grammar-box
-**3\. Instrumentalis (⟪तृतीया⟫)**
+**3\. eszközhatározó eset (instrumentalis) (⟪तृतीया⟫)**
 
 Az ablativuszon (⟪पञ्चमी⟫) kívül az instrumentalist (⟪तृतीया⟫)) ok vagy okosság megjelölésére szolgál. Női nemű főneveknél az instrumentalis általában kötelező.
 :::
@@ -442,7 +442,7 @@ Magyarázat: ⟪सर्वतस्⟫ = sarva "minden, mindenki" + -tas ; ⟪
 ⟪स्तेनस्याप्नोति⟫ ⟪किल्बिषम्⟫ ⟪॥मनुस्मृति⟫ ⟪८⟫.⟪३१६॥⟫ ⟪॥४॥⟫
 
 ::: indent
-Magyarázat: ⟪राजा⟫ = Nominativ egyes szám a következőhöz: ⟪राजन्⟩ m. = ⟪नृप⟫
+Magyarázat: ⟪राजा⟫ = alanyeset (nominativus) egyes szám a következőhöz: ⟪राजन्⟩ m. = ⟪नृप⟫
 :::
 ## 25.8. Fordítási gyakorlat
 
@@ -476,13 +476,13 @@ A fenti szövegben pirossal kiemelt szavak magyarázata:
 
 1.5.5.  ⟪इतरम्⟫ Akk. sg. mask. zu ⟪इतर⟫ ⟪३⟫ "másik"
 
-1.5.7. ⟪कर्मा⟫ : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "cselekvés, mű" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā a upa-yuj 7 "megszerezni": "ő megszerezze"
+1.5.7. :sig[⟪कर्मा⟫] : Nom. sg. mask. zu ⟪कर्मन्⟫ neutr. "cselekvés, mű" ; ⟪उपयुञ्जीत⟫ : OPtativ 3. sg. Ā a upa-yuj 7 "megszerezni": "ő megszerezze"
 
 1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Abl., Dat. pl. zu ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "elméleti és gyakorlati szakemberek"
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : „hatodik”
 
-1.5.10. ⟪कर्म⟫ N., Akk. sg. a következőhöz: ⟪कर्मन्⟫ n. „cselekmény”
+1.5.10. :sig[⟪कर्म⟫] N., Akk. sg. a következőhöz: ⟪कर्मन्⟫ n. „cselekmény”
 
 1.5.16. ⟪धि⟫ Sandha-forma a következőhöz: ⟪हि⟫ ; ⟪आत्मवत्ता⟫ n.: „önbirtoklás”
 

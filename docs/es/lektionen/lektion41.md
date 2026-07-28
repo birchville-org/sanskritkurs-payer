@@ -35,9 +35,9 @@ Explicación: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
 ## 41.2. Otras formaciones de ⟪कृत्⟫ con el sufijo -a
 
-### 41.2.1. Participio de Presente (⟪लडादेशः⟫) Ā, Participio de Presente (⟪लडादेशः⟫) Pasivo, Participio de Futuro (⟪ऌडादेशः⟫) Ā
+### 41.2.1. Participio de Presente (⟪लडादेशः⟫) Ā, Participio de Presente (⟪लडादेशः⟫) Pasivo, Participio de Futurooo (⟪ऌडादेशः⟫) Ā
 
-#### 41.2.1.1. Temáticas de la raíz del presente, Pasivo y Futuro
+#### 41.2.1.1. Temáticas de la raíz del presente, Pasivo y Futurooo
 
 ::: grammar-box
 **Formación:**

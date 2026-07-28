@@ -151,15 +151,15 @@ Zur Abfolge der Glieder in einem Karmadhāraya ist folgende Sonderregel zu beach
 ⟪गुणवत्पुत्रकृतपुण्यम्⟫
 
 ::: indent
-1\. Stage (main caesura): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+1\. βαθμίς (κυρία τομή): ⟪गुणवत्पुत्रकृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
-2\. Stage (1st secondary caesura): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+2\. βαθμίς (πρώτη δευτερεύουσα τομή): ⟪गुणवत्पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
-3\. Stage (2nd secondary caesura): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
+3\. βαθμίς (δευτέρα δευτερεύουσα τομή): ⟪गुणवता॥३॥⟫ ⟪पुत्रेण⟫ ⟪॥२॥⟫ ⟪कृतं⟫ ⟪॥१॥⟫ ⟪पुण्यम्⟫
 
-= "the meritorious deed (merit) which my virtuous son has performed"
+= "τὸ ἔργον τὸ ἐνάρετον (τὸ ἀγαθόν), ὅπερ ὁ ἐνάρετος υἱός μου ἐποίησεν"
 :::
-Various types of compounds may be mixed here, e.g. prior member: Bahuvrīhi (⟪बहुव्रीहि⟫) - posterior member: Tatpuruṣa, etc.
+Ἐνταῦθα διάφορα εἴδη συνθέτων μίγνυσθαι δύνανται, π.χ. πρότερον μέλος: Bahuvrīhi (⟪बहुव्रीहि⟫) - ὕστερον μέλος: Tatpuruṣa κτλ.
 
 π.χ.
 

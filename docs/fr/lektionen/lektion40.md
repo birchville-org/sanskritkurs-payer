@@ -352,7 +352,7 @@ Verben, die diesem Typ folgen:
 
 *   Devant les terminaisons commençant par une consonne, la plupart des racines font apparaître la voyelle de liaison -i-.
 :::
-## 40.3. Bildung der Verbformen der ersten Person des periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 40.3. Formation des formes verbales de la première personne du parfait périphrastique (⟪अनुप्रयोगलिट्⟫)
 
 Le parfait périphrastique est formé par :
 

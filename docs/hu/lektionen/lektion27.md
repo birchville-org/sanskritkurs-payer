@@ -155,11 +155,11 @@ A lokativus további használatáról később.
 :::
 **Pirossal nyomtatva**: erős esetek (tőalak-változással).
 
-## 27.4. Egy vers az összes ragozott alakról (egyes szám) ⟪राम⟫-hoz
+## 27.4. Egy vers az összes ragozott alakról (egyes szám) :sig[⟪राम⟫]-hoz
 
 ::: media
 ![](/images/lekt2708.webp)
-Ábra: ⟪रामे⟫ ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ⟪राम⟫ ⟪मामुद्धर⟫ ⟪॥⟫
+Ábra: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2708))
 :::
@@ -306,7 +306,7 @@ Kép: ⟪नराः⟫
 Naran. Udaipur.
 (Képmegjelenítés: [Részletek](/hu/licenses#lekt2711))
 :::
-### 27.7.2. Neutrumok -a végződéssel: ⟪फल⟫
+### 27.7.2. semlegesnemok -a végződéssel: ⟪फल⟫
 
 ::: grammar-box
 
@@ -344,9 +344,9 @@ Gyümölcsök. Bangalore.
 :::
 ::: media
 ![](/images/lekt2718.webp)
-Abb.: ⟪क्षत्रिया⟫
+Ábra: ⟪क्षत्रिया⟫
 Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Chamaraja Wadiyar, Mysore.
-(Bildquelle: [Details](/hu/licenses#lekt2718))
+(Képforrás: [Részletek](/hu/licenses#lekt2718))
 :::
 ### 27.7.4. Maskulina auf -i: ⟪अरि⟫
 
@@ -365,9 +365,9 @@ Maharani Vani Vilasa Sannidhana (1866 - 1934) with her grandson Prince Jaya Cham
 :::
 ::: media
 ![](/images/lekt2712.webp)
-Abb.: ⟪अरयः⟫
+Ábra: ⟪अरयः⟫
 Erhängen von zwei Teilnehmern der Rebellion von 1857. Fotografie von Felice Beato (1833/1834 - ca. 1907).
-(Bildquelle: [Details](/hu/licenses#lekt2712))
+(Képforrás: [Részletek](/hu/licenses#lekt2712))
 :::
 ### 27.7.5. Feminina auf -i: ⟪मति⟫
 
@@ -401,9 +401,9 @@ Erhängen von zwei Teilnehmern der Rebellion von 1857. Fotografie von Felice Bea
 :::
 ::: media
 ![](/images/lekt2713.webp)
-Abb.: ⟪गुरुः⟫
+Ábra: ⟪गुरुः⟫
 Maharishi Mahesh Yogi (1917 - 2008) Guru.
-(Bildquelle: [Details](/hu/licenses#lekt2713))
+(Képforrás: [Részletek](/hu/licenses#lekt2713))
 :::
 ### 27.7.7. Feminina auf -u: ⟪धेनु⟫
 
@@ -422,9 +422,9 @@ Maharishi Mahesh Yogi (1917 - 2008) Guru.
 :::
 ::: media
 ![](/images/lekt2714.webp)
-Abb.: ⟪धेनुः⟫
+Ábra: ⟪धेनुः⟫
 Kuh in Udaipur.
-(Bildquelle: [Details](/hu/licenses#lekt2714))
+(Képforrás: [Részletek](/hu/licenses#lekt2714))
 :::
 ### 27.7.8. Mehrsilbige Feminina auf -ī: ⟪देवी⟫
 
@@ -443,11 +443,11 @@ Kuh in Udaipur.
 :::
 ::: media
 ![](/images/lekt2715.webp)
-Abb.: ⟪त्रिदेवी⟫
+Ábra: ⟪त्रिदेवी⟫
 Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
-(Bildquelle: [Details](/hu/licenses#lekt2715))
+(Képforrás: [Részletek](/hu/licenses#lekt2715))
 :::
-### 27.7.9. Partizip Präsens Parasmaipada auf -ant: ⟪सन्त्⟫
+### 27.7.9. Partizip Jelen idő Parasmaipada auf -ant: ⟪सन्त्⟫
 
 ::: grammar-box
 
@@ -464,9 +464,9 @@ Tridevī (Lakṣmī, Pārvatī, Sarasvatī).
 :::
 ::: media
 ![](/images/lekt2716.webp)
-Abb.: ⟪सद्गुरुः⟫
+Ábra: ⟪सद्गुरुः⟫
 Sai Baba of Shirdi (1835 - 1918).
-(Bildquelle: [Details](/hu/licenses#lekt2716))
+(Képforrás: [Részletek](/hu/licenses#lekt2716))
 :::
 ### 27.7.10. ⟪महान्त्⟫
 

@@ -19,7 +19,7 @@ Tranne nei pronomi personali, in tutte le declinazioni nel plurale le forme dell
 Ora riconoscete il motivo dell'ordine dei casi (⟪विभक्ति⟫) nel sanscrito: sono disposti in modo che le forme identiche siano il più possibile vicine tra loro, o comunque raggruppate.
 
 ::: grammar-box
-**Ablativo singolare dei maschili/neutri in -a**
+**Ablativooo singolare dei maschili/neutri in -a**
 
 - **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
@@ -367,7 +367,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ## 25.6. Esercizio
 
-A) Completare gli esempi di declinazione della [Lezione 16](lektion16.md), Esercizio di ripetizione A, aggiungendo il 4. Dativo (⟪चतुर्थी⟫) e il 5. Ablativo (⟪पञ्चमी⟫). Formare inoltre serie di declinazione con tutte le forme apprese finora per
+A) Completare gli esempi di declinazione della [Lezione 16](lektion16.md), Esercizio di ripetizione A, aggiungendo il 4. Dativooo (⟪चतुर्थी⟫) e il 5. Ablativooo (⟪पञ्चमी⟫). Formare inoltre serie di declinazione con tutte le forme apprese finora per
 
 ⟪१⟫. ⟪सन्त्⟫ (m., n.)
 
@@ -452,21 +452,21 @@ Spiegazione: ⟪राजा⟫ = Nom. sg. da ⟪राजन्⟫ m. = ⟪न�
 
 2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. sulla formazione di un principe:
 
-⟪तस्माद्दण्डमूला⟫*⟪स्तिस्रो⟫* ⟪विद्याः⟫ ⟪॥१॥⟫  
-⟪विनयमूलो⟫ ⟪दण्डः⟫ *⟪प्राणभृतां⟫* ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
+⟪तस्माद्दण्डमूला⟫*:sig[⟪स्तिस्रो⟫]* ⟪विद्याः⟫ ⟪॥१॥⟫  
+⟪विनयमूलो⟫ ⟪दण्डः⟫ *:sig[⟪प्राणभृतां⟫]* ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
 ⟪कृतकः⟫ ⟪स्वाभाविकश्च⟫ ⟪विनयः⟫ ⟪॥३॥⟫  
 ⟪क्रिया⟫ ⟪हि⟫ ⟪द्रव्यं⟫ ⟪विनयति⟫ ⟪नाद्रव्यम्⟫ ⟪॥४॥⟫  
-⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ *⟪नेतरम्⟫* ⟪॥५॥⟫  
+⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ *:sig[⟪नेतरम्⟫]* ⟪॥५॥⟫  
 ... ⟪॥⟫  
-⟪वृत्तचौल⟫*⟪कर्मा⟫* ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫*⟪पयुन्ञ्जीत⟫* ⟪॥७॥⟫  
-⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ *⟪वक्तृप्रयोक्तृभ्यः⟫* ⟪॥८॥⟫  
-⟪ब्रह्मचर्यं⟫ ⟪चा⟫ *⟪षोडशाद्व⟫*⟪र्षाद्⟫ ⟪॥९॥⟫  
-⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫*⟪कर्म⟫* ⟪चास्य⟫ ⟪॥१०॥⟫  
+⟪वृत्तचौल⟫*:sig[⟪कर्मा⟫]* ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫*:sig[⟪पयुन्ञ्जीत⟫]* ⟪॥७॥⟫  
+⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ *:sig[⟪वक्तृप्रयोक्तृभ्यः⟫]* ⟪॥८॥⟫  
+⟪ब्रह्मचर्यं⟫ ⟪चा⟫ *:sig[⟪षोडशाद्व⟫]*⟪र्षाद्⟫ ⟪॥९॥⟫  
+⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫*:sig[⟪कर्म⟫]* ⟪चास्य⟫ ⟪॥१०॥⟫  
 ⟪नित्यश्च⟫ ⟪विद्यावृद्धसंयोगो⟫ ⟪विनयवृद्ध्यर्थम्⟫, ⟪तन्मूलत्वाद्विनयस्य⟫ ⟪॥११॥⟫  
 ... ⟪॥⟫  
-⟪श्रुता⟫*⟪द्धि⟫* ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫*⟪दात्मवत्ते⟫*⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
+⟪श्रुता⟫*:sig[⟪द्धि⟫]* ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫*:sig[⟪दात्मवत्ते⟫]*⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
 ... ⟪॥⟫  
-⟪कामक्रोधलोभमानमदहर्षत्यागा⟫*⟪त्कार्यः⟫* ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
+⟪कामक्रोधलोभमानमदहर्षत्यागा⟫*:sig[⟪त्कार्यः⟫]* ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
 Spiegazione delle parole evidenziate in rosso nel testo sopra:
 
@@ -476,13 +476,13 @@ Spiegazione delle parole evidenziate in rosso nel testo sopra:
 
 1.5.5.  ⟪इतरम्⟫ Acc. sg. masc. da ⟪इतर⟫ ⟪३⟫ "altro"
 
-1.5.7. ⟪कर्मा⟫ : Nom. sg. masc. da ⟪कर्मन्⟫ neut. "azione, opera" ; ⟪उपयुञ्जीत⟫ : Ottativo 3. sg. Ā da upa-yuj 7 "appropriarsi": "egli si appropri"
+1.5.7. :sig[⟪कर्मा⟫] : Nom. sg. masc. da ⟪कर्मन्⟫ neut. "azione, opera" ; ⟪उपयुञ्जीत⟫ : Ottativo 3. sg. Ā da upa-yuj 7 "appropriarsi": "egli si appropri"
 
 1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Abl., Dat. pl. da ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "teorici e pratici"
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : "sedicesimo"
 
-1.5.10. ⟪कर्म⟫ Nom., Acc. sg. da ⟪कर्मन्⟫ n. "azione"
+1.5.10. :sig[⟪कर्म⟫] Nom., Acc. sg. da ⟪कर्मन्⟫ n. "azione"
 
 1.5.16. ⟪धि⟫ Forma di sandhi da ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "auto-proprietà"
 

@@ -9,9 +9,9 @@ status: stable
 
 # Lektion 39
 
-## 39.1. Die Personalendungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**dritte** Person")
+## 39.1. Die Personalendungen der ersten Person (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪पुरुषः⟫ = "**dritte** Person")
 
-Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**dritte** Person") sind: <!-- TODO: Fallback translation -->
+Die Endungen der ersten Person (***:sig[⟪:sig[तृतीयः]⟫]*** ⟪पुरुषः⟫ = "**dritte** Person") sind: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -28,7 +28,7 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 :::
 1 Anmerkung: eigentlich ist die Primärendung Ā thematischer Stämme auch als -e anzusetzen, vor dem der Themavokal -a- aus Analogiegründen wegfällt. Der Effekt ist aber so, als ob die Endung -i an den Themavokal -a- treten würde: a + i » e. <!-- TODO: Fallback translation -->
 
-## 39.2. Bildung der Verbformen der ersten Person thematischer Präsensstämme
+## 39.2. Bildung der Verbformen der ersten Person thematischer Präsensstämme <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Regel:**
@@ -103,14 +103,14 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Optativ  - ⟪विधिलिङ्⟫** | ⟪ईक्ष्येय⟫ :brīkṣ-ya + iy-a | ⟪ईक्ष्येमहि⟫ :brīkṣ-ya + i-mahi |
 
 :::
-## 39.3. Bildung der Verbformen der ersten Person des einfachen Futur  - ⟪ऌत्⟫
+## 39.3. Bildung der Verbformen der ersten Person des einfachen Futur  - ⟪ऌत्⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Das Futur hat thematische Bildung. Deshalb gilt auch die Regel für thematische Stämme:** <!-- TODO: Fallback translation -->
 
 **Vor -mi, -mas, -mahe wird der Themavokal -a- durch -ā- ersetzt !!!** <!-- TODO: Fallback translation -->
 :::
-### 39.3.1. ⟪अनिट्⟫-Bildung
+### 39.3.1. ⟪अनिट्⟫-Bildung <!-- TODO: Fallback translation -->
 
 ⟪दा⟫ 3U <!-- TODO: Fallback translation -->
 
@@ -122,7 +122,7 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Futur  - ⟪ऌत्⟫** | ⟪दास्यामि⟫ :brdā-syā-mi | ⟪दास्यामस्⟫ | ⟪दास्ये⟫ | ⟪दास्यामहे⟫ |
 
 :::
-### 39.3.2. ⟪सेट्⟫-Bildung
+### 39.3.2. ⟪सेट्⟫-Bildung <!-- TODO: Fallback translation -->
 
 ⟪भू⟫ 1P <!-- TODO: Fallback translation -->
 
@@ -134,7 +134,7 @@ Die Endungen der ersten Person (***⟪तृतीयः⟫*** ⟪पुरु�
 | **Futur  - ⟪ऌत्⟫** | ⟪भविष्यामि⟫ :brbho + i + syā + mi | ⟪भविष्यामस्⟫ | **\<⟪भविष्ये⟫\>** | **\<⟪भविष्यामहे⟫\>** |
 
 :::
-## 39.4. Bildung der Verbformen der ersten Person athematischer Präsensstämme
+## 39.4. Bildung der Verbformen der ersten Person athematischer Präsensstämme <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Beachten Sie, dass im Wortinnern - im Gegensatz zum Satzsandhi - vor Endungen, die mit** <!-- TODO: Fallback translation -->

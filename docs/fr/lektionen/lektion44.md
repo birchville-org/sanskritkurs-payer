@@ -85,11 +85,11 @@ De plus, les lois suivantes du sandhi des mots s'appliquent.
 
 ::: grammar-box
 1. Pour les thèmes de présent à consonne finale, les lois du sandhi des mots déjà traitées doivent être respectées.
-   Beispiele:
-   * (Résumé détaillé de toutes les modifications phonétiques relevant de ce domaine chez Kielhorn, Grammatik p. 76s.)
-   * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
+Beispiele:
+* (Résumé détaillé de toutes les modifications phonétiques relevant de ce domaine chez Kielhorn, Grammatik p. 76s.)
+* **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
-   z.B. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
+z.B. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
 :::
 ## 44.3. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix
 
@@ -157,9 +157,9 @@ De plus, les lois suivantes du sandhi des mots s'appliquent.
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | *⟪असि⟫* | *⟪स्थ⟫* |
-| **Imperfekt** :br⟪लङ्⟫ | *⟪आसीस्⟫* | *⟪आस्त⟫* |
-| **Optativ** :br⟪विधिलिङ्⟫ | *⟪स्यास्⟫* | *⟪स्यात⟫* |
+| **Indikativ Präsens** :br⟪लट्⟫ | *:sig[⟪असि⟫]* | *:sig[⟪स्थ⟫]* |
+| **Imperfekt** :br⟪लङ्⟫ | *:sig[⟪आसीस्⟫]* | *:sig[⟪आस्त⟫]* |
+| **Optativ** :br⟪विधिलिङ्⟫ | *:sig[⟪स्यास्⟫]* | *:sig[⟪स्यात⟫]* |
 :::
 ⟪तत्त्वमसि⟫
 
@@ -242,7 +242,7 @@ dont :
 Fig. : ⟪रेल्यानम्⟫
 (Source de l’image : [Détails](/fr/licenses#lekt4403))
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : être couché. Cette racine a, dans toutes les formes du thème présent, **haute intensité :** 1.sg.Ind.Prés.Ā ***⟪शेये⟫*** (śe + e). Les formes suivantes sont particulièrement à noter : 3.pl.Ind.Prés.Ā ***⟪शेरते⟫***, 3.pl.Imparf.Ā ***⟪अशेरत⟫***
+**⟪शी⟫** 2Ā ⟪शेते⟫ : être couché. Cette racine a, dans toutes les formes du thème présent, **haute intensité :** 1.sg.Ind.Prés.Ā **:sig[⟪शेये⟫]** (śe + e). Les formes suivantes sont particulièrement à noter : 3.pl.Ind.Prés.Ā **:sig[⟪शेरते⟫]**, 3.pl.Imparf.Ā **:sig[⟪अशेरत⟫]**
 
 ::: indent
 Parfait IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -283,13 +283,13 @@ Fig. : ⟪नन्दी⟫
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : prendre plaisir à (⟪द्वितीयया⟫), accueillir joyeusement quelqu’un, souhaiter la bienvenue
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : tenir, porter ; offrir, accorder ; maintenir ensemble, dompter, brider, conquérir
+**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : tenir, porter ; offrir, accorder ; maintenir ensemble, dompter, brider, conquérir
 
 ::: indent
 Parfait Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Futur ⟪यंस्यति⟫  
 Passif ⟪यम्यते⟫  
-Causatif ⟪यामयति⟫ mais : ⟪नि⟫***⟪यम⟫***⟪यति⟫  
+Causatif ⟪यामयति⟫ mais : ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
@@ -333,7 +333,7 @@ Fig. : ⟪यत्नेन⟫
 Parfait Vb ⟪रेभे⟫  
 Futur ⟪रप्स्यते⟫  
 Passif ⟪रभ्यते⟫  
-Causatif ***⟪रम्भ⟫***⟪यति⟫  
+Causatif **:sig[⟪रम्भ⟫]**⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫

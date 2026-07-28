@@ -25,7 +25,7 @@ lesson_id: 53
 ::: indent
 **⟪पितरौ⟫** "ayah dan ibu = orang tua"
 :::
-**Kata-kata yang berarti "sepasang" - misalnya ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - selalu digunakan dalam Singular, kecuali jika berkaitan dengan dua pasang atau lebih:**
+**Kata-kata yang berarti "sepasang" - misalnya ⟪युग⟫ n., ⟪द्वन्द्व⟫ n., ⟪द्वय⟫ n. - selalu digunakan dalam Tunggal, kecuali jika berkaitan dengan dua pasang atau lebih:**
 
 ::: indent
 **⟪बाहुद्वयम्⟫** "a pair of arms"
@@ -33,13 +33,13 @@ lesson_id: 53
 ::: media
 ![](/images/lekt5301.webp)
 Fig.: ⟪मार्जारयुगम्⟫
-(Image source: [Details](/en/licenses#lekt5301))
+(Image source: [Detail](/en/licenses#lekt5301))
 :::
 
 ::: media
 ![](/images/lekt5302.webp)
 Fig.: ⟪हस्तौ⟫
-(Image source: [Details](/en/licenses#lekt5302))
+(Image source: [Detail](/en/licenses#lekt5302))
 :::
 ## 53.2. Dualendungen  Nomen
 
@@ -111,14 +111,14 @@ Fig.: ⟪हस्तौ⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Netral :br ⟪नपुंसक⟫ 
 | :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***⟪भरन्ती⟫ (!)*** 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***:sig[⟪भरन्ती⟫] (!)*** 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ ||
 :::
 ::: media
 ![](/images/lekt5305.webp)
 Fig.: ⟪भरन्तौ⟫
-(Image source: [Details](/en/licenses#lekt5305))
+(Image source: [Detail](/en/licenses#lekt5305))
 :::
 ⟪ददत्⟫ 3 "giving"
 
@@ -205,13 +205,13 @@ Fig.: ⟪भरन्तौ⟫
 |   | Maskulininum :br ⟪पुंस्⟫ | Netral :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ |
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ***⟪देवाभ्याम्⟫*** | ***⟪फलाभ्याम्⟫*** |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ***⟪देवयोस्⟫*** | ***⟪फलयोस्⟫*** |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | **:sig[⟪देवाभ्याम्⟫]** | **:sig[⟪फलाभ्याम्⟫]** |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | **:sig[⟪देवयोस्⟫]** | **:sig[⟪फलयोस्⟫]** |
 :::
 ::: media
 ![](/images/lekt5306.webp)
 Fig.: ⟪फले⟫
-(Image source: [Details](/en/licenses#lekt5306))
+(Image source: [Detail](/en/licenses#lekt5306))
 :::
 **Tema dalam -i**
 
@@ -222,7 +222,7 @@ Fig.: ⟪फले⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Feminin :br ⟪स्त्री⟫ | Netral :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪अग्नी⟫*** | ***⟪मती⟫*** | ⟪वारिणी⟫ |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | **:sig[⟪अग्नी⟫]** | **:sig[⟪मती⟫]** | ⟪वारिणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
@@ -235,14 +235,14 @@ Fig.: ⟪फले⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Feminin :br ⟪स्त्री⟫ | Netral :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪शत्रू⟫*** | ***⟪धेनू⟫*** | ⟪मधुनी⟫ |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | **:sig[⟪शत्रू⟫]** | **:sig[⟪धेनू⟫]** | ⟪मधुनी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪शत्र्वोस्⟫ | ⟪धेन्वोस्⟫ | ⟪मधुनोस्⟫ |
 :::
 ::: media
 ![](/images/lekt5307.webp)
-Fig.: ⟪धेनू⟫
-(Image source: [Details](/en/licenses#lekt5307))
+Fig.: :sig[⟪धेनू⟫]
+(Image source: [Detail](/en/licenses#lekt5307))
 :::
 **Tema dalam -ā**
 
@@ -251,9 +251,9 @@ Fig.: ⟪धेनू⟫
 ::: grammar-box
 |   | Feminin :br ⟪स्त्री⟫ |
 | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ***⟪कन्ये⟫*** |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | **:sig[⟪कन्ये⟫]** |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ***⟪कन्ययोस्⟫*** |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | **:sig[⟪कन्ययोस्⟫]** |
 :::
 **Tema Polisukuan dalam -ī**
 
@@ -273,7 +273,7 @@ Fig.: ⟪धेनू⟫
 ::: grammar-box
 |   | Maskulininum/Feminin :br ⟪पुंस्⟫/⟪स्त्री⟫ | Netral :br ⟪नपुंसक⟫ 
 | :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | ***⟪दातृणी⟫*** 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | **:sig[⟪दातृणी⟫]** 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
@@ -301,7 +301,7 @@ Contoh:
 
 :::
 ::: indent
-⟪मा⟫***⟪ता⟫***⟪पितरौ⟫ "Ibu dan Ayah"
+⟪मा⟫**:sig[⟪ता⟫]**⟪पितरौ⟫ "Ibu dan Ayah"
 :::
 **Hal yang sama terjadi dengan istilah kekerabatan tersebut dalam Dvandva sebelum -⟪पुत्र⟫:**
 
@@ -318,14 +318,14 @@ Contoh:
 ::: media
 ![](/images/lekt5308.webp)
 Fig.: ⟪पितापुत्रौ⟫
-(Sumber gambar: [Details](/en/licenses#lekt5308))
+(Sumber gambar: [Detail](/en/licenses#lekt5308))
 :::
 ## 53.6. Bentuk Dual dari Pronomina
 
 ::: grammar-box
 |   | ⟪तद्⟫ | ⟪एतद्⟫ | ⟪इदम्⟫ | ⟪यद्⟫ | ⟪किम्⟫ 
 | :--- | :---: | :---: | :---: | :---: | :---: 
-| **Maskulin** |   |   |   |   |   |
+| **Maskulin** |   |   |   |   |  
 | ⟪प्रथमा⟫ | ⟪तौ⟫ | ⟪एतौ⟫ | ⟪इमौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ 
 | ⟪द्वितीया⟫ | ⟪तौ⟫ | ⟪एतौ⟫ :br ⟪एनौ⟫ | ⟪इमौ⟫ :br ⟪एनौ⟫ | ⟪यौ⟫ | ⟪कौ⟫ 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪ताभ्याम्⟫ | ⟪एताभ्याम्⟫ | ⟪आभ्याम्⟫ | ⟪याभ्याम्⟫ | ⟪काभ्याम्⟫ 
@@ -394,8 +394,8 @@ Contoh:
 ::: grammar-box
 | Kata Sifat | Komparatif | Superlatif |
 | --- | --- 
-| ⟪पाप⟫ 3 "jahat" | ⟪पा⟫***⟪पी⟫***⟪यस्⟫ | ⟪पा⟫***⟪पि⟫***⟪ष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "besar" | ⟪म⟫***⟪ही⟫***⟪यस्⟫ | ⟪म⟫***⟪हि⟫***⟪ष्ठ⟫ |
+| ⟪पाप⟫ 3 "jahat" | ⟪पा⟫**:sig[⟪पी⟫]**⟪यस्⟫ | ⟪पा⟫**:sig[⟪पि⟫]**⟪ष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "besar" | ⟪म⟫**:sig[⟪ही⟫]**⟪यस्⟫ | ⟪म⟫**:sig[⟪हि⟫]**⟪ष्ठ⟫ |
 :::
 ::: grammar-box
 **Aturan 2:** **Akta posesif (-mant, vant, -vin, -in, dll.) dilepaskan. Jika bagian yang tersisa terdiri dari hanya satu suku kata, bagian tersebut tetap tidak berubah, kecuali untuk perubahan fonetik yang disebabkan oleh koneksi dengan akta posesif, yang dibalik. Namun, jika sisaannya terdiri dari lebih dari satu suku kata, Aturan 1 berlaku.**
@@ -405,9 +405,9 @@ Contoh:
 ::: grammar-box
 | Kata Sifat | Komparatif | Superlatif |
 | --- | --- 
-| ⟪धनवन्त्⟫ 3 "kaya" | ⟪ध⟫***⟪नी⟫***⟪यस्⟫ | ⟪ध⟫***⟪नि⟫***⟪ष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(terutama) kuat" | ⟪ब⟫***⟪ली⟫***⟪यस्⟫ | ⟪ब⟫***⟪लि⟫***⟪ष्ठ⟫ |
-| ⟪वसुमन्त्⟫ "memiliki harta" | ⟪व⟫***⟪सी⟫***⟪यस्⟫ | ⟪व⟫***⟪सि⟫***⟪ष्ठ⟫ |
+| ⟪धनवन्त्⟫ 3 "kaya" | ⟪ध⟫**:sig[⟪नी⟫]**⟪यस्⟫ | ⟪ध⟫**:sig[⟪नि⟫]**⟪ष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(terutama) kuat" | ⟪ब⟫**:sig[⟪ली⟫]**⟪यस्⟫ | ⟪ब⟫**:sig[⟪लि⟫]**⟪ष्ठ⟫ |
+| ⟪वसुमन्त्⟫ "memiliki harta" | ⟪व⟫**:sig[⟪सी⟫]**⟪यस्⟫ | ⟪व⟫**:sig[⟪सि⟫]**⟪ष्ठ⟫ |
 :::
 ::: grammar-box
 **Aturan 3:** **Untuk -ṛ-, yang didahului oleh vokal awal dan diikuti hanya oleh satu konsonan tunggal, -ra- diganti.**
@@ -442,7 +442,7 @@ Contoh:
 ::: media
 ![](/images/lekt5309.webp)
 Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
-(Image source: [Details](/en/licenses#lekt5309))
+(Image source: [Detail](/en/licenses#lekt5309))
 :::
 **Beberapa bentuk infleksi dari tipe ini tidak memiliki bentuk dasar terkait akar sama sekali; mereka "cacat." Oleh karena itu, rangkaian berikut sangat penting untuk dihafal:**
 
@@ -473,14 +473,14 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | ⟪पञ्चमी⟫ | ⟪गरीयसस्⟫ || ^^ || ^^ ||
 | ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
 | ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
-| ⟪आमन्त्रितम्⟫ | ***⟪गरीयान्⟫*** | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+| ⟪आमन्त्रितम्⟫ | **:sig[⟪गरीयान्⟫]** | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
 :::
 ## 53.10. Metrum (Ilmu tentang Matra)
 
 ::: media
 ![](/images/lekt5303.jpg)
 Fig.: ⟪क्रिश्चियन⟫-⟪मोर्गन्स्टर्न्⟫
-(Image source: [Details](/en/licenses#lekt5303))
+(Image source: [Detail](/en/licenses#lekt5303))
 :::
 See also:
 

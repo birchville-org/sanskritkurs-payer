@@ -24,7 +24,7 @@ Example:
 
 **If the root underlying the causative (with or without a prefix) is INTRANSITIVE (i.e., cannot take an accusative object) or expresses movement, knowledge, information, or eating:**
 
-**Agent (⟪कर्ता⟩) of the causative in the Nominative (⟪प्रथमा⟩) — Agent of the caused action in the Accusative (⟪द्वितीया⟩) — (Target of movement, object of knowledge, etc. in the Accusative = ⟪द्वितीया⟩) — Verb in the Causative**
+**Agent (⟪कर्ता⟩) of the causative in the Nominativeee (⟪प्रथमा⟩) — Agent of the caused action in the Accusative (⟪द्वितीया⟩) — (Target of movement, object of knowledge, etc. in the Accusative = ⟪द्वितीया⟩) — Verb in the Causative**
 :::
 Examples:
 
@@ -88,7 +88,7 @@ Jadavpur University Management building.
 
 **With transitive verbs (except those mentioned under Schema 1). Also with all verbs, when the action designated by the causative is caused (i.e., when the causative is a causative of a causative):**
 
-**Agent (⟪कर्ता⟫) of the causative in the Nominative (⟪प्रथमा⟫) — Agent of the caused action in the Instrumental (⟪तृतीया⟫) — Object of the caused action in the case it would have according to the simple verb (i.e., usually in the Accusative) — Verb in the causative**
+**Agent (⟪कर्ता⟫) of the causative in the Nominativeee (⟪प्रथमा⟫) — Agent of the caused action in the Instrumental (⟪तृतीया⟫) — Object of the caused action in the case it would have according to the simple verb (i.e., usually in the Accusative) — Verb in the causative**
 :::
 ::: indent
 Examples:
@@ -146,7 +146,7 @@ When the causative is used in a passive construction, the following schema is al
 ::: grammar-box
 **Schema A (Passive construction):**
 
-**Agent of the causative in the Instrumental (⟪तृतीया⟫) — Agent of the caused action in the Nominative (⟪प्रथमा⟫) — Object of the caused action in the case it would have according to the simple verb (i.e., usually in the Accusative) — Verb in the causative**
+**Agent of the causative in the Instrumental (⟪तृतीया⟫) — Agent of the caused action in the Nominativeee (⟪प्रथमा⟫) — Object of the caused action in the case it would have according to the simple verb (i.e., usually in the Accusative) — Verb in the causative**
 :::
 Examples:
 
@@ -241,7 +241,7 @@ Examples:
 :::
 While the passive of the original root is usually formed from the guṇa-grade root, the passive of the causative can usually be recognized by the fact that it is formed from the strong or lengthened-grade root.
 
-## 28.5. Formation of the Future (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) from the Causative
+## 28.5. Formation of the Futureee (⟪ऌट्⟫, ⟪भविष्यन्ती⟫ f.) from the Causative
 
 ::: grammar-box
 **The future of the causative is formed from the causative stem, whereby the final -a- of the causative suffix is dropped:**
@@ -249,7 +249,7 @@ While the passive of the original root is usually formed from the guṇa-grade r
 **-ay-iṣya-**
 
 Example:
-**budh** Future-Causative: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "he/she/it will awaken"
+**budh** Futureee-Causative: **bodhayiṣyati** (bodh-ay-i-ṣya-ti): "he/she/it will awaken"
 :::
 
 ## 28.6. Formation of the PPP (⟪क्त⟫) from the Causative
@@ -304,7 +304,7 @@ Example:
 
 Examples:
 1.  Lengthened-grade root + -aya- : ⟪कम्⟫ 10Ā ⟪कामयते⟫ "to love"
-2.  Strong-grade root + -aya- : **cur** 10U **corayati** "to steal"; Future: **corayiṣyate**; Passive: **coryate**
+2.  Strong-grade root + -aya- : **cur** 10U **corayati** "to steal"; Futureee: **corayiṣyate**; Passive: **coryate**
 :::
 ::: grammar-box
 **The forms of the causative of verbs of the 10th present class are identical with the forms of the simple verb. The decision as to whether a causative is present is possible only from the meaning or sometimes from the construction.**

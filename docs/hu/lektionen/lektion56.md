@@ -56,7 +56,7 @@ Tőhangzó:
 *   **\-ā- egyszerű mássalhangzó előtt -a-ra cserélődik:**
 ⟪पॄ⟫ 3P: Kaus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫  
 ⟪द्रु⟫ 1P: Kaus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫  
-⟪नी⟫ 1U: Kaus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
+:sig[⟪नी⟫] 1U: Kaus. :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
 ⟪ज्ञा⟫ 9U: Kaus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫
 
 *   **\-ī-, -e-, -ai- egyszerű mássalhangzó előtt -i-re cserélődik:**
@@ -89,8 +89,8 @@ Miután a fenti szabályokat alkalmaztuk a szótaggyökérre, a következő szab
 ⟪तुद्⟫ 6U: Kaus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫
 
 *   **a helyett ī kerül, ha a gyökszótag metrikusan rövid és csak egy mássalhangzóra végződik. Ha a gyökszótag metrikusan rövid és több mint egy mássalhangzóra végződik, a reduplikációs szótag a helyett i kerül. Ha a gyökszótag metrikusan hosszú, az a megmarad:**
-⟪नी⟫ 1U: Kaus. ⟪नाययति⟫, Aor. töve ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
-⟪कृ⟫ 8U: Kaus. ⟪कारयति⟫, Aor. töve ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
+:sig[⟪नी⟫] 1U: Kaus. ⟪नाययति⟫, Aor. töve ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
+:sig[⟪कृ⟫] 8U: Kaus. ⟪कारयति⟫, Aor. töve ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
 ⟪त्यज्⟫ 1P: Kaus. ⟪त्याजयति⟫, Aor. töve ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत्⟫  
 ⟪भू⟫ 1P: Kaus. ⟪भावयति⟫, Aor. töve ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
 
@@ -139,8 +139,7 @@ az injunktív a Védában a következő tulajdonságokkal rendelkezik:
 
 *   nem beszámolót fejez ki, hanem megemlítést
 *   időszintek nélküli (időtlenné)
-*   az injunktív jelen idő (= augment nélküli múlt idő (imperfektum)) a befejezetlen aspektust jelöli
-az injunktív aoristos a befejezett aspektust jelöli.
+*   az injunktív aoristos a befejezett aspektust jelöli.
 *   der Injunktiv Aorist bezeichnet den vollendeten Aspekt.
 
 ::: grammar-box

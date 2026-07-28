@@ -14,16 +14,16 @@ status: stable
 ::: grammar-box
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ ||
 | :--- | :---: | :---: | :---: |
-|   |   | thematic | athematic |
+|   |   | thematic | atematik |
 | **1. ⟪तृतीयः⟫** | -vas | -vahe ||
 | **2. ⟪मध्यमः⟫** | -thas | -**ī**the | -**ā**the |
 | **3. ⟪प्रथमः⟫** | -tas | -**ī**te | -**ā**te |
 :::
-## 58.2. Bentuk Dual thematischer Presentklassen: Indikativ Present (⟪लट्⟫)
+## 58.2. Bentuk Dual thematischer Kelas Presentn: Indikativ Present (⟪लट्⟫)
 
 Before -vas and -vahe, the thematic vowel -a- is replaced by -ā-.
 
-### 58.2.1. Erste Presentklasse (⟪भ्वादिगणः⟫)
+### 58.2.1. Erste Kelas Present (⟪भ्वादिगणः⟫)
 
 ⟪भू⟫ 1P "to become, to be"
 
@@ -33,7 +33,7 @@ Before -vas and -vahe, the thematic vowel -a- is replaced by -ā-.
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
 | **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
-### 58.2.2. Vierte Presentklasse (⟪दिवादिगणः⟫)
+### 58.2.2. Vierte Kelas Present (⟪दिवादिगणः⟫)
 
 ⟪नृत्⟫ 4P "to dance"
 
@@ -47,9 +47,9 @@ Before -vas and -vahe, the thematic vowel -a- is replaced by -ā-.
 ![](/images/lekt5802.webp)
 Fig.: ⟪नृत्यतः⟫
 ⟪ओडिसी⟫
-(Image source: [Details](/en/licenses#lekt5802))
+(Image source: [Detail](/en/licenses#lekt5802))
 :::
-### 58.2.3. Sechste Presentklasse (⟪तुदादिगणः⟫)
+### 58.2.3. Kelas Present Keenam (⟪तुदादिगणः⟫)
 
 ⟪तुद्⟫ 6U "push, strike"
 
@@ -60,7 +60,7 @@ Fig.: ⟪नृत्यतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदतस्⟫ | ⟪तुदेते⟫ |
 :::
-### 58.2.4. Zehnte Presentklasse (⟪चुरादिगणः⟫) dan Kausatife (⟪णिजन्त⟫)
+### 58.2.4. Zehnte Kelas Present (⟪चुरादिगणः⟫) dan Kausatife (⟪णिजन्त⟫)
 
 ⟪चुर्⟫ 10U "steal"
 
@@ -75,7 +75,7 @@ Fig.: ⟪नृत्यतः⟫
 ![](/images/lekt5803.webp)
 Gbr.: ⟪वानरौ⟫ ⟪रथाद्भाण्डानि⟫ ⟪चोरयतः⟫
 Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
-(Image source: [Details](/en/licenses#lekt5803))
+(Image source: [Detail](/en/licenses#lekt5803))
 :::
 ## 58.3. Bentuk Dual dari futur sederhana (⟪ऌत्⟫)
 
@@ -111,9 +111,9 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
 :::
-## 58.5. Bentuk Dual athematischer Presentklassen: Indikativ Present (⟪लट्⟫)
+## 58.5. Bentuk Dual atematik Kelas Presentn: Indikativ Present (⟪लट्⟫)
 
-### 58.5.1. Zweite Presentklasse (⟪अदादिगणः⟫)
+### 58.5.1. Kedua Kelas Present (⟪अदादिगणः⟫)
 
 ⟪द्विष्⟫ 2U "to hate"
 
@@ -130,8 +130,8 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪दुह्वस्⟫ | ⟪दुह्वहे⟫ |
-| 2\. ⟪मध्यमः⟫ | ***⟪दुग्धस्⟫*** | ⟪दुहाथे⟫ |
-| 3\. ⟪प्रथमः⟫ | ***⟪दुग्धस्⟫*** | ⟪दुहाते⟫ |
+| 2\. ⟪मध्यमः⟫ | **:sig[⟪दुग्धस्⟫]** | ⟪दुहाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | **:sig[⟪दुग्धस्⟫]** | ⟪दुहाते⟫ |
 :::
 ⟪इ⟫ 2P "to go"
 
@@ -145,7 +145,7 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 ::: media
 ![](/images/lekt5806.webp)
 Fig.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
-(Image source: [Details](/en/licenses#lekt5806))
+(Image source: [Detail](/en/licenses#lekt5806))
 :::
 ⟪इ⟫ + ⟪अधि⟫ 2Ā "to study"
 
@@ -153,13 +153,13 @@ Fig.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अधीवहे⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अधी⟫***⟪या⟫***⟪थे⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अधी⟫***⟪य⟫***⟪ते⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अधी⟫**:sig[⟪या⟫]**⟪थे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अधी⟫**:sig[⟪य⟫]**⟪ते⟫ |
 :::
 ::: media
 ![](/images/lekt5804.webp)
 Fig.: ⟪कन्ये⟫ ⟪अधीयते⟫
-(Image source: [Details](/en/licenses#lekt5804))
+(Image source: [Detail](/en/licenses#lekt5804))
 :::
 ⟪हन्⟫ 2P "to strike down"
 
@@ -168,7 +168,7 @@ Fig.: ⟪कन्ये⟫ ⟪अधीयते⟫
 | :--- | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪हन्वस्⟫ |
 | **2. ⟪मध्यमः⟫** | :sig[⟪हथस्⟫] :br*hn-thas |
-| **3. ⟪प्रथमः⟫** | ***⟪हतस्⟫*** |
+| **3. ⟪प्रथमः⟫** | **:sig[⟪हतस्⟫]** |
 :::
 ⟪अस्⟫ 2P "to be"
 
@@ -176,15 +176,15 @@ Fig.: ⟪कन्ये⟫ ⟪अधीयते⟫
 |   | ⟪परस्मैपदम्⟫ |
 | :--- | :---: |
 | **1. ⟪तृतीयः⟫** | :sig[⟪स्वस्⟫] :brs-vas |
-| **2. ⟪मध्यमः⟫** | ***⟪स्थस्⟫*** |
-| **3. ⟪प्रथमः⟫** | ***⟪स्तस्⟫*** |
+| **2. ⟪मध्यमः⟫** | **:sig[⟪स्थस्⟫]** |
+| **3. ⟪प्रथमः⟫** | **:sig[⟪स्तस्⟫]** |
 :::
 ::: media
 ![](/images/lekt5805.webp)
 Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
-(Image source: [Details](/en/licenses#lekt5805))
+(Image source: [Detail](/en/licenses#lekt5805))
 :::
-### 58.5.2. Dritte Presentklasse (⟪जुहोत्यादिगणः⟫)
+### 58.5.2. Kelas Present Ketiga (⟪जुहोत्यादिगणः⟫)
 
 ⟪हु⟫ 3P "to pour into the sacrificial fire"
 
@@ -204,7 +204,7 @@ Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪धत्थस्⟫ | ⟪दधाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪धत्तस्⟫ | ⟪दधाते⟫ |
 :::
-### 58.5.3. Fünfte Presentklasse (⟪स्वादिगणः⟫)
+### 58.5.3. Kelas Present Kelima (⟪स्वादिगणः⟫)
 
 ⟪सु⟫ 5U "to press out"
 
@@ -218,9 +218,9 @@ Fig.: ⟪भगिन्यौ⟫ ⟪स्वः⟫
 ![](/images/lekt5807.webp)
 Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ⟪पुणेनगरे⟫
-(Image source: [Details](/en/licenses#lekt5807))
+(Image source: [Detail](/en/licenses#lekt5807))
 :::
-### 58.5.4. Achte Presentklasse (⟪तनादिगणः⟫)
+### 58.5.4. Achte Kelas Present (⟪तनादिगणः⟫)
 
 ⟪तन्⟫ 8U "to stretch, to span"
 
@@ -240,7 +240,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪कुरुथस्⟫ | ⟪कुर्वाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪कुरुतस्⟫ | ⟪कुर्वाते⟫ |
 :::
-### 58.5.5. Siebte Presentklasse (⟪रुधादिगणः⟫)
+### 58.5.5. Kelas Present Ketujuh (⟪रुधादिगणः⟫)
 
 ⟪रुध्⟫ 7U "to stop"
 
@@ -248,7 +248,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪रुन्ध्वस्⟫ | ⟪रुन्ध्वहे⟫ |
-| 2\. ⟪मध्यमः⟫ | ***⟪रुन्द्धस्⟫*** | ⟪रुन्धाथे⟫ |
+| 2\. ⟪मध्यमः⟫ | **:sig[⟪रुन्द्धस्⟫]** | ⟪रुन्धाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धस्⟫ | ⟪रुन्धाते⟫ |
 :::
 ⟪युज्⟫ 7U "to harness"
@@ -260,7 +260,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪युङ्क्थस्⟫ | ⟪युञ्जाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪युङ्क्तस्⟫ | ⟪युञ्जाते⟫ |
 :::
-### 58.5.6. Neunte Presentklasse (⟪क्र्यादिगणः⟫)
+### 58.5.6. Neunte Kelas Present (⟪क्र्यादिगणः⟫)
 
 ⟪क्री⟫ 9U "buy"
 
@@ -273,7 +273,7 @@ Fig.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 ::: media
 ![](/images/lekt5801.webp)
 Fig.: ⟪स्त्रियौ⟫ ⟪शाकं⟫ ⟪क्रीणाते⟫
-(Image source: [Details](/en/licenses#lekt5801))
+(Image source: [Detail](/en/licenses#lekt5801))
 :::
 ## 58.6. Aorist 5: iṣ-Aorist
 
@@ -360,7 +360,7 @@ Paradigma:
 **Particularities:**
 
 1.  Pada beberapa akar, vokal penghubung -i- dalam ⟪आत्मनेपद⟫ dapat diganti dengan -ī-. Setelah ⟪ग्रह्⟫ 9U "untuk merebut", penggantian ini harus terjadi pada P dan Ā:  
-⟪अग्र⟫***⟪ही⟫***⟪षम्⟫ , ⟪अग्र⟫***⟪ही⟫***⟪षि⟫
+⟪अग्र⟫**:sig[⟪ही⟫]**⟪षम्⟫ , ⟪अग्र⟫**:sig[⟪ही⟫]**⟪षि⟫
 
 2.  Akar-akar dari kelas sekarang ke-8 yang berakhiran -n (atau -ṇ) dapat berada pada 2.3.sg.Ā dalam derajat lemah:  
 ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (aorist akar) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫
@@ -374,7 +374,7 @@ Paradigma:
 ::: media
 ![](/images/lekt5808.webp)
 Fig.: ⟪दीपः⟫ ⟪श्रीकृष्णाय⟫ ⟪श्रीगनेशाय⟫ ⟪चादीपिष्ट⟫ ⟪चादीपि⟫ ⟪॥⟫
-(Image source: [Details](/en/licenses#lekt5808))
+(Image source: [Detail](/en/licenses#lekt5808))
 :::
 ## 58.7. Latihan
 

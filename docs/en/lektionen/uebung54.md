@@ -19,7 +19,7 @@ Form the corresponding Aorist forms for the following Present or Perfect forms:
 | ⟪४⟫. | **⟪बभूव⟫** | I / he / they were / were | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
 | ⟪५⟫. | **⟪दधति⟫** | they place | **⟪अधुः⟫** |
 | ⟪६⟫. | **⟪ऐम⟫** | we went | **⟪अगाम⟫** |
-| ⟪७⟫. | **⟪पपिथ⟫** | you have drunk / protected | **⟪अपाः⟫** (to *⟪पा⟫* "to drink") |
+| ⟪७⟫. | **⟪पपिथ⟫** | you have drunk / protected | **⟪अपाः⟫** (to *:sig[⟪पा⟫]* "to drink") |
 | ⟪८⟫. | **⟪तिष्ठति⟫** | he stands | **⟪अस्थात्⟫** |
 | ⟪९⟫. | **⟪इयेथ⟫** | you have gone | **⟪अगाः⟫** |
 | ⟪१०⟫. | **⟪पप⟫** | you have drunk | **⟪अपात⟫** |

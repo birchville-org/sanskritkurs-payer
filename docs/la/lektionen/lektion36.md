@@ -424,7 +424,7 @@ Explanationes:
 
 ⟪ब्रह्म⟫ : Nom./Akk. sg. zu ⟪ब्रह्मन्⟫ n. "Absolutum, Veda"
 
-⟪सर्वे⟫ : Nom. pl. masc. ad ⟪सर्व⟫ "omnes, quisque"
+:sig[⟪सर्वे⟫] : Nom. pl. masc. ad ⟪सर्व⟫ "omnes, quisque"
 
 ⟪त्रयस्⟫ : Nom. pl. masc. ad ⟪त्रि⟫ "tres"
 

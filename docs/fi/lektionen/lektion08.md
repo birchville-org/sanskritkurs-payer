@@ -92,7 +92,7 @@ Perinteisessä intialaisessa grammatikassa eritellään substantiivijänteitä m
 ::: media
 ![](/images/lekt0801.webp)
 Kuva: Maa Batakali Darshan, Puri, Orissa
-(Kuv lähde: [Details](/fi/licenses#lekt0801))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt0801))
 :::
 
 ::: note-box
@@ -214,13 +214,13 @@ Tärkein 8. luokan verbijuuri on **kṛ** 8 U (⟪कृ⟫) "tehdä". Sen taivu
 ::: media
 ![](/images/lekt0809.jpg)
 Kuva: **likh** (⟪लिख्⟫) : Intialainen teräskynä palmunlehtien raapimiseen
-(Kuv lähde: [Details](/fi/licenses#lekt0809))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt0809))
 :::
 
 ::: media
 ![](/images/lekt0810.jpg)
 Kuva: **likh** (⟪लिख्⟫) : Batak-kansan kirjoitustikku (Sumatra), joka todennäköisesti oli käytössä myös Intiassa
-(Kuv lähde: [Details](/fi/licenses#lekt0809))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt0809))
 :::
 - **sukha** n. ⟪सुख⟫ : onni, hyvinvointi
 - **duḥkha** n. ⟪दुःख⟫ : onnettomus, kärsimys

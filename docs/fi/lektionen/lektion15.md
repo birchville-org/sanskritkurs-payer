@@ -88,7 +88,7 @@ Tällaiset apposiittiset karmadhārayat puretaan kotimaisten kommentaarien mukaa
 ::: media
 ![](/images/lekt1503.webp)
 Kuva: ⟪नरसिंहः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1503))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1503))
 :::
 ## 15.4. Determinatiiviyhdyssanat, joissa etuliike on jälkiliikkeen kanssa ei-attribuuttisessa/apposiittisessa kasaalissuhteessa = Tatpuruṣa tarkemmin määriteltynä
 
@@ -142,7 +142,7 @@ Vaikka sanskritissa voidaan muodostaa mielivaltaisen pituisia samasjoja ja niit�
 ::: media
 ![](/images/lekt1502.jpg)
 Kuva: ⟪समासविच्छेदः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1502))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1502))
 :::
 jne., kunnes päädytään yksittäisiin sanajänteisiin.
 
@@ -257,7 +257,7 @@ esim.
 ::: media
 ![](/images/lekt1504.webp)
 Kuv.: ⟪पूजा⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt1504))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt1504))
 :::
 ⟪कुल⟫ n.: lauma, joukko, suku, syntyperä, perhe
 
@@ -265,7 +265,7 @@ Kuv.: ⟪पूजा⟫
 ::: media
 ![](/images/lekt1505.webp)
 Kuv.: ⟪इन्द्रः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt1505))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt1505))
 :::
 ⟪दास⟫ m.: orja, talonpoika, palvelija
 
@@ -292,13 +292,13 @@ siitä:
 ::: media
 ![](/images/lekt1506.webp)
 Kuv.: ⟪सिंहः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt1506))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt1506))
 :::
 ⟪व्याघ्र⟫ m.: tiikeri (_Panthera tigris tigris_) (sanm. = haukottelija)
 ::: media
 ![](/images/lekt1507.webp)
 Kuv.: ⟪व्याघ्रः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt1507))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt1507))
 :::
 ⟪इव⟫ (jälkiliite): ikään kuin, kuten (vertauksissa: ⟪व्याघ्र⟫ ⟪इव⟫ ⟪पुरुषः⟫ = "mies kuin tiikeri", "tiikerimainen mies"
 
@@ -515,7 +515,7 @@ Ratkaise seuraava Tatpuruṣa samoin kuin harjoituksessa 1:
 ::: media
 ![](/images/lekt1508.webp)
 Kuva: ⟪ग्रामदेवता⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1508))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1508))
 :::
 ## 15.11. Harjoitus 3
 
@@ -577,7 +577,7 @@ B) Ratkaise seuraavat tatpuruṣa-yhdyssanat:
 ::: media
 ![](/images/lekt1509.webp)
 Kuva: ⟪नागदेवाः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1509))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1509))
 :::
 
 ::: deleteme-box

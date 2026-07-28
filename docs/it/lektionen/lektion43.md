@@ -26,7 +26,7 @@ Si noti che la desinenza secondaria della 2. persona plurale è identica alla de
 2.Persona:
 
 *   Singolare: "tu"
-*   Plurale: "voi" (più di due!)
+*   Pluraleee: "voi" (più di due!)
 
 ### 43.2.1. Temi tematici
 
@@ -89,7 +89,7 @@ La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica 
 | **Imperfetto** ⟪लङ्⟫ | ⟪ऐक्ष्यथास्⟫ | ⟪ऐक्ष्यध्वम्⟫ |
 | **Ottativo** ⟪विधिलिङ्⟫ | ⟪ईक्ष्येथास्⟫ | ⟪ईक्ष्येध्वम्⟫ |
 
-#### 43.2.1.6. Futuro (⟪ऌट्⟫)
+#### 43.2.1.6. Futurooo (⟪ऌट्⟫)
 
 #### 43.2.1.6.1. Formazioni in ⟪अनिट्⟫
 
@@ -112,7 +112,7 @@ La 3.sg. dell’Imperfetto e Ottativo Āatmanepada è morfologicamente identica 
 ## 43.3. Il pronome personale di seconda persona
 
 *   Singolare: ⟪त्वद्⟫ "tu"
-*   Plurale: ⟪युष्मद्⟫ "voi"
+*   Pluraleee: ⟪युष्मद्⟫ "voi"
 
 ::: grammar-box
 | | ⟪एकवचनम्⟫ (⟪त्वद्⟫) | ⟪बहुवचनम्⟫ (⟪युष्मद्⟫) |

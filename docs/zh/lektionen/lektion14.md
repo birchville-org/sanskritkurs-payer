@@ -42,7 +42,7 @@ Nach Pāṇini 2.3.67 steht beim PPP der Genetiv, wenn das PPP präsentische Bed
 
 Selbstverständlich steht bei einem PPP Neutrum Singular, das als Verbalabstraktum - also als Substantiv - gebraucht wird, der Genetiv. <!-- TODO: Fallback translation -->
 :::
-## 14.2. Bildung der Genetivformen (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+## 14.2. Bildung der Genetivformen (ṣaṣṭhī f. = ⟪षष्ठी⟫) <!-- TODO: Fallback translation -->
 
 Der Genetiv wird bei Verbalstämmen mit Stammabstufung vom schwachen Stamm gebildet. <!-- TODO: Fallback translation -->
 
@@ -130,7 +130,7 @@ Bei allen Nominalstämmen mit Ausnahme der Maskulina und Neutra auf -a und den P
 Beachten Sie, dass bei konsonantisch auslautenden Stämmen Ablativ und Genetiv Singular gleich lauten wie der Akkusativ Plural Maskulinum und Femininum! <!-- TODO: Fallback translation -->
 
 :::
-## 14.3. Weiteres zum Gebrauch des Genetiv (⟪षष्ठी⟫)
+## 14.3. Weiteres zum Gebrauch des Genetiv (⟪षष्ठी⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Entgegen obiger Grundregel wird der Genetiv verwendet, um das Objekt einiger Verben auszudrücken, z.B. bei Verben des Gedenkens: <!-- TODO: Fallback translation -->

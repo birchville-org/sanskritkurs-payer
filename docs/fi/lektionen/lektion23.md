@@ -86,7 +86,7 @@ Niille tähän mennessä opetuissa juurissa seuraavat infinitiivit ovat erityise
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Juurin mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. Infinitiivi (⟪तुमुन्⟫) aiemmin opetuista juurista
 
@@ -233,7 +233,7 @@ D) Käännä ja ratkaise sandhikombinaatiot:
 ![](/images/lekt2303.webp)
 Kuvaus: ⟪फलवन्ति⟫ ⟪पुण्यानीति⟫
 Tehdä hyve = ⟪पुण्यकरणम्⟫, Thaimaa = ประเทศไทย
-(Kuv lähde: [Details](/fi/licenses#lekt2303))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2303))
 :::
 ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫ ⟪॥४॥⟫
 
@@ -241,7 +241,7 @@ Tehdä hyve = ⟪पुण्यकरणम्⟫, Thaimaa = ประเทศ
 ![](/images/lekt2301.webp)
 Kuva: ⟪सुगतो⟫ ⟪लोकान्मोक्तुमार्यसत्यान्युपदिशति⟫
 Chiang Mai, Thaimaa = เชียงใหม่, ประเทศไทย
-(Kuv lähde: [Details](/fi/licenses#lekt2301))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2301))
 :::
 ⟪शूद्रजनो⟫ ⟪ब्राह्मणेन⟫ ⟪सह⟫ ⟪अत्⟫tu⟪म⟫ (⟪अत्तुम्⟫) ⟪नार्हति⟫ ⟪॥५॥⟫
 
@@ -264,7 +264,7 @@ Selitys: ⟪हीन⟫ ⟪३⟫: PPP verbistä ⟪हा⟫ 3: jättää ; �
 ![](/images/lekt2302.webp)
 Kuvateksti: ⟪आहारनिद्राभयमैथुनं⟫ ⟪च⟫
 Chittorgarh = ⟪चित्तौडगढ⟫
-(Kuvälähde: [Details](/fi/licenses#lekt2302))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt2302))
 :::
 ## 23.6. Toistoharjoitus
 
@@ -290,7 +290,7 @@ A) Käännä sanskritiksi:
 ![](/images/lekt2304.jpg)
 Kuva: ⟪दण्डनीतिः⟫
 Manmohan Singh = ਮਨਮੋਹਨ ਸਿੰਘ = ⟪मनमोहन⟫ ⟪सिंह⟫, Intian pääministeri = ⟪भारत⟫ ⟪के⟫ ⟪प्रधानमन्त्री⟫, vuodesta 2004
-(Kuv lähde: [Details](/fi/licenses#lekt2304))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2304))
 :::
 8\. Vaimo, poika ja orja ovat perinteiden mukaan omistamattomia (⟪त्रयस्⟫). Mille näille tulee, se kuuluu sille, jolle nämä (kolme) kuuluvat.
 

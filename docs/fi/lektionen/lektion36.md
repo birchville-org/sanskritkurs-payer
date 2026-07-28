@@ -63,7 +63,7 @@ Perifraattinen perfekti (⟪अनुप्रयोगलिट्⟫) käytet�
 - Auslautender Vartalovokal wird vor -ām guṇiert.
 - ⟪अस्⟫ ja ⟪भू⟫ taivutetaan myös ātmanepada-verbeissä parasmaipadassa.
 :::
-Das periphrastische Perfekt ist wohl aus dem Akkusativ eine Verbalnomens auf -ā entstanden. Dieser Akkusativ wird -- wie auch sonst oft -- adverbial verwendet.
+Das periphrastische Perfekt ist wohl aus dem akkusatiivi eine Verbalnomens auf -ā entstanden. Dieser akkusatiivi wird -- wie auch sonst oft -- adverbial verwendet.
 
 Esimerkit:
 
@@ -110,7 +110,7 @@ Inf. ⟪चेतुम्⟫
 ::: media
 ![](/images/lekt3601.webp)
 Kuva: ⟪गोमयं⟫ ⟪चिकाय⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3601))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3601))
 :::
 
 ⟪व्रज्⟫ 1P ⟪व्रजति⟫ : astua, kävellä, poistua
@@ -130,7 +130,7 @@ Inf. ⟪व्रजितुम्⟫
 ::: media
 ![](/images/lekt3602.webp)
 Kuv.: ⟪अगारम्⟫
-(Kuvälähde: [Details](/fi/licenses#lekt3602))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt3602))
 :::
 
 ::: indent
@@ -141,7 +141,7 @@ siitä:
 ::: media
 ![](/images/lekt3603.webp)
 Kuv.: ⟪अनगार्यम्⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt3603))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt3603))
 :::
 ⟪अञ्जलि⟫ m.: kunnioituksesta korkealle yhdistetyt kädet
 
@@ -224,7 +224,7 @@ Absol. -⟪स्पृश्य⟫
 ::: media
 ![](/images/lekt3606.webp)
 Kuva: ⟪सुगतो⟫ ⟪भूमीं⟫ ⟪पस्पर्श⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3606))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3606))
 :::
 ⟪हृष्⟫ 4P ⟪हृष्यति⟫ : jäykistyä: nousta pystyyn (karvat), iloitua jstk (instr., akk., lok.)
 
@@ -238,7 +238,7 @@ PPP ⟪हृषित⟫
 ::: media
 ![](/images/lekt3604.webp)
 Kuva: ⟪लोमहर्षः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3604))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3604))
 :::
 
 ⟪स्वक⟫ 3: adj. (minun, sinun ...) ; m.: jäsen
@@ -280,7 +280,7 @@ D) Käännä:
 ::: media
 ![](/images/lekt3605.webp)
 Kuva: ⟪पुत्रे⟫ ⟪जाते⟫ ⟪सुगतः⟫ ⟪कुलं⟫ ⟪धनं⟫ ⟪च⟫ ⟪तत्याजागाराच्चानगर्यं⟫ ⟪प्रवव्राज⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3605))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3605))
 :::
 ⟪ब्राह्मणा⟫ ⟪महादेवयज्ञायाग्निं⟫ ⟪चिक्यिरे⟫ ⟪।⟫ ⟪ब्राह्मणेष्विन्द्रादिदेवान्स्तुवत्स्वग्निर्यज्ञान्नमाश⟫ ⟪।⟫ ⟪एवं⟫ ⟪यज्ञेन⟫ ⟪ब्राह्मणा⟫ ⟪महादेवैरादयां⟫ ⟪चक्रुस्तांश्च⟫ ⟪स्तोत्रानि⟫ ⟪श्रावयां⟫ ⟪बभूवुः⟫ ⟪॥२॥⟫
 
@@ -424,7 +424,7 @@ Selitykset:
 
 ⟪ब्रह्म⟫ : nom./akk. sg. sanasta ⟪ब्रह्मन्⟫ n. "absoluuttinen, Veda"
 
-⟪सर्वे⟫ : nom. pl. mask. sanasta ⟪सर्व⟫ "kaikki, jokainen"
+:sig[⟪सर्वे⟫] : nom. pl. mask. sanasta ⟪सर्व⟫ "kaikki, jokainen"
 
 ⟪त्रयस्⟫ : nom. pl. mask. sanasta ⟪त्रि⟫ "kolme"
 
@@ -433,7 +433,7 @@ Selitykset:
 ::: media
 ![](/images/lekt3607.webp)
 Kuv.: ⟪येन⟫ ⟪प्रीणात्युपाध्यायं⟫ ⟪तेन⟫ ⟪स्याद्ब्रह्म⟫ ⟪पूजितम्⟫ ⟪।⟫
-(Kuvälähde: [Details](/fi/licenses#lekt3607))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt3607))
 :::
 2\. ⟪मनुस्मृति⟫ ⟪४⟫.⟪१५४⟩ oikea käytös vanhuksia kohtaan:
 

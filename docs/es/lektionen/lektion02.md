@@ -49,12 +49,12 @@ En los diccionarios de sánscrito, los sustantivos se listan en su **tema nomina
 
 ## 2.3. El nominativo singular
 
-**Nominativo singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
+**Nominativooo singular = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
 ::: grammar-box
 **El nominativo singular termina en -s = -⟪स्⟫ o bien es sin terminación.**
 :::
-### 2.3.1. Nominativo singular en -s
+### 2.3.1. Nominativooo singular en -s
 
 Los siguientes stems nominales, que terminan en una vocal, forman el nominativo singular en **-s**:
 

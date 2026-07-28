@@ -1,6 +1,6 @@
 
 export const arc = {
-  label: 'ARC - Aramaic',
+  label: '🏛️ ARC - Aramaic',
   lang: 'arc',
   dir: 'rtl',
   link: '/arc/',

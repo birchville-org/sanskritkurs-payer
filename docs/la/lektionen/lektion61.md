@@ -219,7 +219,7 @@ Paradigma:
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | *⟪दाताहे⟫* | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | *:sig[⟪दाताहे⟫]* | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
@@ -304,8 +304,8 @@ exempli gratia ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 
 ::: indent
 exempli gratia:
-⟪पत्⟫ 1P: ⟪प⟫***⟪नी⟫***⟪पत्य⟫-
-⟪वृत्⟫ 1Ā: ⟪व⟫***⟪री⟫***⟪वृत्य⟫-
+⟪पत्⟫ 1P: ⟪प⟫**:sig[⟪नी⟫]**⟪पत्य⟫-
+⟪वृत्⟫ 1Ā: ⟪व⟫**:sig[⟪री⟫]**⟪वृत्य⟫-
 :::
 ::: grammar-box
 **Coniugatio:**
@@ -605,7 +605,7 @@ Paradigma:
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ |
-| **3\. ⟪प्रथमः⟫** | *⟪बुध्यात्⟫* | ⟪बुध्यास्ताम्⟫ | *⟪बुध्यासुर्⟫* | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
+| **3\. ⟪प्रथमः⟫** | *:sig[⟪बुध्यात्⟫]* | ⟪बुध्यास्ताम्⟫ | *:sig[⟪बुध्यासुर्⟫]* | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
 :::
 ::: media
 ![](/images/lekt6114.webp)
@@ -719,7 +719,7 @@ Femininum (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
 
 Postquam cursus Sanskritici confectus est, vereum illud “natandi” in oceano litterarum Sanscriticarum incipit. Quoniam hic oceanus plenus est impedimentis, congruum est hunc novum vitae stadium cum invocatione Gaṇeśae incipere:
 
@@ -735,7 +735,7 @@ Halebidu (ಹಳೆಬೀಡು), saec. 12./13. p.Chr.
 | --- | --- |
 | ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
-***śrīgaṇanātha / ⟪श्रीगणनाथ⟫*** a Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
+***śrīgaṇanātha / :sig[⟪श्रीगणनाथ⟫]*** a Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
 Compositor et poeta: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
@@ -752,7 +752,7 @@ Tāla: Rūpaka: o |4
 Fig.: Melodia, ad c referens, secundum regionem vocis transponi potest.
 (Fons imaginis: [Detalia](/la/licenses#lekt6119))
 :::
-śrīgaṇanātha / ⟪श्रीगणनाथ⟫ initium lectionis in musica kannaresica ponit. Vide video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Accessus die 2009-03-05
+śrīgaṇanātha / :sig[⟪श्रीगणनाथ⟫] initium lectionis in musica kannaresica ponit. Vide video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Accessus die 2009-03-05
 
 Postquam nunc fundamenta Sanskriti didicisti, spero te sicut infantes in video esse: interdum ineptus, sed discendi et scientiae cupidus et cum gaudio in re. Memento usque ad finem vitae tuae "mens principis".
 
@@ -761,7 +761,7 @@ Quod tibi optat tuus Alois Payer
 
 Ofterdingen, 2009-03-09
 
-*⟪ॐ⟫*
+*:sig[⟪ॐ⟫]*
 
 FINIS SANSKRITICORUM CURSUS
 :::

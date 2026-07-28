@@ -49,12 +49,12 @@ A szanszkat szótárakban a nevek **tőalakja** szerepel:
 
 ## 2.3. A nominativus singularis
 
-**Nominativus singularis = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
+**alanyeset (nominativus)us singularis = prathamā ekavacanam = ⟪प्रथमा⟫ ⟪एकवचनम्⟫**
 
 ::: grammar-box
 **A nominativus singular végződése -s = -⟪स्⟫ vagy pedig végződés nélküli.**
 :::
-### 2.3.1. Nominativus singular -s végződéssel
+### 2.3.1. alanyeset (nominativus)us singular -s végződéssel
 
 Az alábbi, magánhangzóra végződő névmástörzsek képezik a nominativus singulart **-s** végződéssel:
 

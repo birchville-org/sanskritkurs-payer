@@ -39,11 +39,11 @@ status: stable
 Ἀνώμαλοι σχηματισμοί:
 
 ::: indent
-⟪अस्⟫ 4P "cast": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (see Thumb-Hauschild §541,4 for explanation)
+⟪अस्⟫ 4P "cast": ***:sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫]*** (see Thumb-Hauschild §541,4 for explanation)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "tell": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
+⟪ख्या⟫ + ⟪आ⟫ 2P "tell": ***:sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]***
 
-⟪दृश्⟫ "see": ***⟪अदर्शम्⟫, ⟪अदर्शत्⟫*** (strong grade!)
+⟪दृश्⟫ "see": ***:sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫]*** (strong grade!)
 :::
 Note:
 

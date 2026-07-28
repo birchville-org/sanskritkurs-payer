@@ -1,9 +1,9 @@
 ---
-title: Les 3
-subtitle: "Die nominatief enkelvoud van die femininum"
+title: Lektion 3
+subtitle: "Den Nominativ Singular des Femininums"
 lesson_id: 3
 last_reconstructed: 2026-05-07
-category: "Grammatika"
+category: "Grammatik"
 status: stable
 ---
 
@@ -139,12 +139,12 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Vaiśyas is tweemaal-geborenes" = �
 
 **smṛti** f. = ⟪स्मृति⟫ : verteenwoordiging, herinnering, meditatiewe verteenwoordiging = aandagtigheid, oorlewering (teenbegrip van **śruti**). Omvat:
 - die ses **vedāṅga** n. (⟪वेदाङ्ग⟫)
-1. **śikṣā** f. (⟪शिक्षा⟫): korrekte uitspraak
-2. **chandas** n. (⟪छन्दस्⟫): metrum
-3. **vyākaraṇa** n. (⟪व्याकरण⟫): grammatika
-4. **nirukta** n. (⟪निरुक्त⟫) : woordverklaring, etimologie
-5. **jyotiṣa** n. (⟪ज्योतिष⟫) : astronomie, kalenderkunde
-6. **kalpa** m. (⟪कल्प⟫) : seremonieel
+  1. **śikṣā** f. (⟪शिक्षा⟫): korrekte uitspraak
+  2. **chandas** n. (⟪छन्दस्⟫): metrum
+  3. **vyākaraṇa** n. (⟪व्याकरण⟫): grammatika
+  4. **nirukta** n. (⟪निरुक्त⟫) : woordverklaring, etimologie
+  5. **jyotiṣa** n. (⟪ज्योतिष⟫) : astronomie, kalenderkunde
+  6. **kalpa** m. (⟪कल्प⟫) : seremonieel
 - **śrautasūtra** n. (⟪श्रौतसूत्र⟫) : handleidings vir die uitvoering van die groot offers
 - **gṛhyasūtra** n. (⟪गृह्यसूत्र⟫) : handleidings vir die seremonies en offers van die daaglikse lewe
 - **dharmasūtra** n. (⟪धर्मसूत्र⟫) en **dharmaśāstra** n. (⟪धर्मशास्त्र⟫) : handleidings oor reg en sedes (korrekte gedrag)

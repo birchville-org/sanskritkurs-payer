@@ -56,7 +56,7 @@ Sílaba do tema:
 *   **\-ā- antes de uma consoante simples é substituído por -a-:**
 ⟪पॄ⟫ 3P: Caus. :sig[⟪पार⟫]⟪यति⟫, Aor. ⟪अपि⟫:sig[⟪पर⟫]⟪त्⟫  
 ⟪द्रु⟫ 1P: Caus. :sig[⟪द्राव⟫]⟪यति⟫, Aor. ⟪अदु⟫:sig[⟪द्रव⟫]⟪त्⟫ / ⟪अदि⟫:sig[⟪द्रव⟫]⟪त्⟫  
-⟪नी⟫ 1U: Caus.  :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
+:sig[⟪नी⟫] 1U: Caus.  :sig[⟪नाय⟫]⟪यति⟫, Aor. ⟪अनी⟫:sig[⟪नय⟫]⟪त्⟫  
 ⟪ज्ञा⟫ 9U: Caus. :sig[⟪ज्ञाप⟫]⟪यति⟫, Aor. ⟪अजि⟫:sig[⟪ज्ञप⟫]⟪त्⟫
 
 *   **\-ī-, -e-, -ai- antes de uma consoante simples são substituídos por -i-:**
@@ -89,8 +89,8 @@ Após a aplicação das regras recém-mencionadas à sílaba radical, as seguint
 ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫:sig[⟪तू⟫]⟪तुदत्⟫
 
 *   **a é substituído por ī, quando a sílaba da raiz é metricamente breve e começa com apenas uma consoante. Se a sílaba da raiz for metricamente breve e começar com mais de uma consoante, o a da sílaba de reduplicação é substituído por i. Se a sílaba da raiz for metricamente longa, o a é mantido:**
-⟪नी⟫ 1U: Caus. ⟪नाययति⟫, sílaba da raiz do Aor. ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
-⟪कृ⟫ 8U: Caus. ⟪कारयति⟫, sílaba da raiz do Aor. ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
+:sig[⟪नी⟫] 1U: Caus. ⟪नाययति⟫, sílaba da raiz do Aor. ⟪नय्⟫, Aor. ⟪अ⟫:sig[⟪नी⟫]⟪नयत्⟫  
+:sig[⟪कृ⟫] 8U: Caus. ⟪कारयति⟫, sílaba da raiz do Aor. ⟪कर्⟫, Aor. ⟪अ⟫:sig[⟪ची⟫]⟪करत्⟫  
 ⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, sílaba da raiz do Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫:sig[⟪ति⟫]⟪त्यजत्⟫  
 ⟪भू⟫ 1P: Caus. ⟪भावयति⟫, sílaba da raiz do Aor. ⟪भव्⟫, Aor. ⟪अ⟫:sig[⟪बी⟫]⟪भवत्⟫
 

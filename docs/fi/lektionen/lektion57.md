@@ -68,7 +68,7 @@ Esimerkit:
 
 |   | **3.prs.** |
 | --- | --- |
-| ⟪चि⟫ 5U | ⟪अचैषीत्⟫ |
+| :sig[⟪चि⟫] 5U | ⟪अचैषीत्⟫ |
 | ⟪श्रु⟫ 5P | ⟪अश्रौषीत्⟫ |
 | ⟪कृ⟫ 8U | ⟪अकार्षीत्⟫ |
 | ⟪भज्⟫ 1U | ⟪अभाक्षीत्⟫ |
@@ -77,7 +77,7 @@ Esimerkit:
 
 |   | **3.prs.Ā** |
 | --- | --- |
-| ⟪चि⟫ 5U | ⟪अचेष्ट⟫ |
+| :sig[⟪चि⟫] 5U | ⟪अचेष्ट⟫ |
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
 |   | **prs.Ā** |
@@ -93,7 +93,7 @@ Esimerkit:
 ::: indent
 ⟪दृश्⟩ 3.prs.P ⟪अ⟩:sig[⟪द्राक्षी⟩]⟪त्⟩
 :::
-Auch der Aorist andere Wurzeln mit -ṛ- an vorletzter Stelle kann so gebildet werden:
+Auch der Aorist andere Juurin mit -ṛ- an vorletzter Stelle kann so gebildet werden:
 
 ::: indent
 ⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫:sig[⟪क्राक्षी⟫]⟪त्⟫

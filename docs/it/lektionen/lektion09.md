@@ -170,7 +170,7 @@ Fig.: **karṣaka** = ⟪कर्षक⟫.
    **dvijātīnāṃ śuśrūṣā vārttā kārukuśīlavakarma ca.**
    ⟪द्विजातीनां⟫ ⟪शुश्रूषा⟫ ⟪वार्त्ता⟫ ⟪कारुकुशीलवकर्म⟫ ⟪च⟫
    (secondo Kauṭilīya-Arthaśāstra 1.3.8.)
-   Spiegazione: dvijātīnām = Genitivo (caso possessivo) Plurale di dvijāti (tradurre qui: "nei confronti dei due volte nati"); kārukuśīlavakarma è un Tatpuruṣa con un Dvandva (kārukuśīlava) nel primo membro. karma = Nom. sg. di karman n. "azione, attività, karma" dalla radice kṛ 8 U). Tradurre "azione / attività dei ... (Genitivo)" (indicati dal Dvandva).
+   Spiegazione: dvijātīnām = Genitivo (caso possessivo) Pluraleeee di dvijāti (tradurre qui: "nei confronti dei due volte nati"); kārukuśīlavakarma è un Tatpuruṣa con un Dvandva (kārukuśīlava) nel primo membro. karma = Nom. sg. di karman n. "azione, attività, karma" dalla radice kṛ 8 U). Tradurre "azione / attività dei ... (Genitivo)" (indicati dal Dvandva).
 
 6. **kṛṣiḥ pāśupālyaṃ vāṇijyā ca vārttā.**
    ⟪कृषिः⟫ ⟪पाशुपाल्यं⟫ ⟪वाणिज्या⟫ ⟪च⟫ ⟪वार्त्ता⟫ |

@@ -1,6 +1,6 @@
 
 export const ar = {
-  label: 'AR - العربية',
+  label: '🇸🇦 AR - العربية',
   lang: 'ar',
   dir: 'rtl',
   link: '/ar/',

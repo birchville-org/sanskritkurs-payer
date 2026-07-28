@@ -383,7 +383,7 @@ status: stable
 ::: indent
 PPP **⟪अतीत⟫** : n. گذشته
 :::
-## ۴۱.۴. تمرین
+## 41.4. Übung <!-- TODO: Fallback translation -->
 
 الف) دو ضرب‌المثل ابتدای درس را ترجمه کنید.
 

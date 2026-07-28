@@ -264,7 +264,7 @@ Az Upanajana révén történik a második születés, ezért: ⟪द्वि�
 ![](/images/lekt1801.webp)
 Ábr.: ⟪उपनयनम्⟫
 "A young boy is seen during upanayana ritual. The yellowed, thin, thread running from left shoulder to the waist is Yagnopaivta. Also note the girdle of munja grass around the waist. The twig in the right hand (usually from peepa treel) siginifies his entry in to Brahmacharya."
-(Képmegjelölés: [Details](/hu/licenses#lekt1801))
+(Képmegjelölés: [Részletek](/hu/licenses#lekt1801))
 :::
 ## 18.4. Szószedet
 

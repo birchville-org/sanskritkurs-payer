@@ -214,7 +214,7 @@ Exempl:
 
 :::
 ::: indent
-⟪भस्मसात्कृ⟫*⟪त्वा⟫*
+⟪भस्मसात्कृ⟫*:sig[⟪त्वा⟫]*
 :::
 ## 52.5. Wortwiederholungen (⟪द्विरुक्तम्⟫)
 
@@ -252,7 +252,7 @@ Quai betg tractà qua vesair per ex. en Kielhorn, Grammatik §201ss.
 **Las paraulas numericcas per *1 fin a 19* èn adiectivs.**
 **Las paraulas numericcas per **1 fin a 4** èn differentas en la declinaziun per ils trais generes.**
 
-**Per las paraulas numericcas per **5 fin a 19** ***(⟪नवदशन्⟫)*** dat ina suletta declinaziun per ils trais generes.**
+**Per las paraulas numericcas per **5 fin a 19** ***(:sig[⟪नवदशन्⟫])*** dat ina suletta declinaziun per ils trais generes.**
 
 **Per questas paraulas numericcas adiectivas vala, sco per tut ils adiectivs: ella sto esser en il medem cas, numer e gender sco il nom associà ed inversamain (quai vul dir: per 1 singular, per 2 dual, per ils ulteriurs plural).**
 :::
@@ -327,16 +327,16 @@ ina giada: ⟪सकृत्⟫
 duas giadas: ⟪द्विस्⟫
 trais giadas: ⟪त्रिस्⟫
 quatter giadas: ⟪चतुस्⟫
-quintgiadas e cun sufix ***\-⟪कृत्वस्⟫***: ⟪पञ्चकृत्वस्⟫
+quintgiadas e cun sufix ***\-:sig[⟪कृत्वस्⟫]***: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-fach": vegn exprimà cun il sufix ***\-⟪धा⟫***
+b) "-fach": vegn exprimà cun il sufix ***\-:sig[⟪धा⟫]***
 
 ::: indent
 simpl: ⟪एकधा⟫
 dupl: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
 e cun sufix -fach: ⟪द्वेधा⟫
 :::
-c) "je ...", "a ...": vegn exprimà cun il sufix ***\-⟪शस्⟫*** (veggia sur!)
+c) "je ...", "a ...": vegn exprimà cun il sufix ***\-:sig[⟪शस्⟫]*** (veggia sur!)
 
 ::: indent
 ⟪द्विशस्⟫ "a dus, già dus"
@@ -349,7 +349,7 @@ c) "je ...", "a ...": vegn exprimà cun il sufix ***\-⟪शस्⟫*** (veggia
 zweifältig, aus duas existent
 dreifältig, da trais parts existent
 
-a partir da 4 vegn "-fältig" exprimaì dal suffix ***\-⟪तय⟫ (f.: -⟪तयी⟫)***: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "quatterfältig"
+a partir da 4 vegn "-fältig" exprimaì dal suffix ***\-:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫])***: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "quatterfältig"
 :::
 Ulteriuras furmas sa pigliar dals dicziunaris u grammaticas.
 
@@ -392,7 +392,7 @@ pūrva + śālā ("sala) » \*pūrvaśālā (betg usà! + sufix Taddita -a » �
 
 2.  il cumpositum ussa furmà vegn usà en in significat che autramain vegn designà cun in sufix Taddhita (a questa moda è il passadi al Bahuvrīhi fluì):
 exempels:  
-dvi + go » ⟪द्विगु⟫ : betg: "duas vacchas", ma: "**cumprà per duas vacchas**"  
+dvi + go » :sig[⟪द्विगु⟫] : betg: "duas vacchas", ma: "**cumprà per duas vacchas**"  
 ⟪द्विवर्ष⟫ betg: "duos onns", ma: "**duos onns vegl**"
 
 3.  il cumpositum ussa furmà è la part avant d'in auter cumpositum
@@ -409,7 +409,7 @@ Jalakandapuram = ஜலகண்டபுரம்
 ::: grammar-box
 **Inna beziunaziun per in num cardinal (ma betg per ina direcziun dal sid) po furmar cun auters sustantivs in Tatpuruṣa, er lura sche il cumpost resultant designescha in aggregat da plirs objects, cto. duos u dapli objects en ina unitad.**
 
-**Tatpuruṣa, che vegnan furmads tenor questa regla, numneschan ***Dvigu (⟪द्विगु⟫)***.**
+**Tatpuruṣa, che vegnan furmads tenor questa regla, numneschan ***Dvigu (:sig[⟪द्विगु⟫])***.**
 
 **Cumposts Dvigu, che designeschan ina unitad, èn usitadamain neutras. Finischa il secund element cun -a, alura po sufix feminin -ī apparir. Finischa il secund element cun fem. -a, alura vegn en ses lieu u neutral -a u feminin -ī. Finischa il secund element cun -an, alura vegn substituí cun -a u -ī.**
 :::
@@ -501,7 +501,7 @@ Abb.: ⟪प्रधानः⟫
 ::: indent
 ⟪त्रिवर्ग⟫ m.: gruppa da trais (p.ex. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; u: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; u: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : vulair, ordonar, desiderar
+⟪वश्⟫ 2P ⟪वस्टि⟫, ***:sig[⟪उशन्ति⟫],*** Imperat. 2.sg.: **:sig[⟪उड्ढि⟫]** : vulair, ordonar, desiderar
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
@@ -656,7 +656,7 @@ Inf. ⟪त्रातुम्⟫
 ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫
 ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫
 ⟪एतद्विद्यात्समासेन⟫
-⟪लक्षणं⟫ ⟪सुखदुःख⟫*⟪योः⟫* ⟪॥१६०॥⟫
+⟪लक्षणं⟫ ⟪सुखदुःख⟫*:sig[⟪योः⟫]* ⟪॥१६०॥⟫
 
 ⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्⟫
 ⟪परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫
@@ -669,7 +669,7 @@ Explicaziun: ⟪सुखदुःखयोः⟫ Gen.Lok.Dual.m.f.n. (Dualdvand
 
 ::: indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
-⟪स्मृतिशी⟫*⟪ले⟫* ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
+⟪स्मृतिशी⟫*:sig[⟪ले⟫]* ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
@@ -677,7 +677,7 @@ Explicaziun: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
 :::
 ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ davart ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ en la vita dal prinzi
 
-⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫*⟪मितरौ⟫* ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫*⟪मूलौ⟫* ⟪हि⟫ ⟪धर्मका⟫*⟪मावि⟫*⟪ति⟫ ⟪।७।⟫
+⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫*:sig[⟪मितरौ⟫]* ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫*:sig[⟪मूलौ⟫]* ⟪हि⟫ ⟪धर्मका⟫*:sig[⟪मावि⟫]*⟪ति⟫ ⟪।७।⟫
 
 ::: indent
 Explicaziuns:

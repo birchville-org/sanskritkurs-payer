@@ -38,7 +38,7 @@ z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 » Passiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
 :::
 
-## 11.2. Wortliste
+## 11.2. Szójegyzék
 
 **Lernen Sie folgende Wörter:**
 
@@ -102,7 +102,7 @@ z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 ::: media
 ![](/images/lekt1101.webp)
 Kép: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
-(Képmegjelenítés forrása: [Details](/hu/licenses#lekt1101))
+(Képmegjelenítés forrása: [Részletek](/hu/licenses#lekt1101))
 :::
 
 ## 11.4. Ismétlőgyakorlat
@@ -143,5 +143,5 @@ Kép: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 ::: media
 ![](/images/lekt1103.webp)
 Ábr.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt1103))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt1103))
 :::

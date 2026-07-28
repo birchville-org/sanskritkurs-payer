@@ -324,13 +324,13 @@ Per le regole sull'uso della vocale di giunzione -i- si veda Kielhorn, Grammatik
 1.  La radice è per lo più in grado medio: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
 
     1.  la -i, -u finale viene sostituita da -ī o -ū, se non segue vocale di giunzione:  
-        ⟪जि⟫ » ⟪जि⟫***⟪गी⟫***⟪ष⟫- "volere vincere"  
-        ⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- "volere correre"  
+        ⟪जि⟫ » ⟪जि⟫**:sig[⟪गी⟫]**⟪ष⟫- "volere vincere"  
+        ⟪द्रु⟫ » ⟪दु⟫**:sig[⟪द्रू⟫]**⟪ष⟫- "volere correre"  
 
     2.  la -ṛ, -ṝ finale viene sostituita da -īr, dopo le labiali da -ūr, se non segue vocale di giunzione:  
-        ⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- "volere fare"  
-        ⟪मृ⟫ » ⟪मु⟫***⟪मूर्ष⟫***\- "essere sul punto di morire"  
-        ⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "volere riempire"  
+        ⟪कृ⟫ » ⟪चि⟫**:sig[⟪कीर्ष⟫]**\- "volere fare"  
+        ⟪मृ⟫ » ⟪मु⟫**:sig[⟪मूर्ष⟫]**\- "essere sul punto di morire"  
+        ⟪पॄ⟫ » ⟪पु⟫**:sig[⟪पूर्ष⟫]**\- "volere riempire"  
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ e alcune altre radici in -ā, -e, -o hanno grado medio Ø:  
         ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
@@ -350,7 +350,7 @@ Per le regole sull'uso della vocale di giunzione -i- si veda Kielhorn, Grammatik
         1.  obbligatorio: radici della forma i/u - consonante e (consonante -) ṛ/ḷ - consonante:  
             ⟪इष्⟫ » ⟪एषिषिष⟫- "volere desiderare"  
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "volere essere adatto"  
-            ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- "volere sorridere"  
+            ⟪स्मि⟫ » ⟪सि⟫**:sig[⟪स्म⟫]**⟪यिष⟫- "volere sorridere"  
 
         2.  facoltativo: radici della forma consonante - (consonante -) i/u - consonante eccetto -v\_  
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "volere scintillare"
@@ -406,7 +406,7 @@ Passivo: ⟪यियक्ष्यते⟫ "si desidera sacrificare"
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
-**Futuro: ⟪सेट्⟫**
+**Futurooo: ⟪सेट्⟫**
 
 ::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫

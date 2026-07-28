@@ -68,7 +68,7 @@ ad es. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫
 ::: media
 ![](/images/lekt1102.webp)
 Fig.: **vadanāni** = ⟪वदनानि⟫, distretto di Jamalpur, Bangladesh.
-(Fonte dell'immagine: [Details](/it/licenses#lekt1102))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : chiedere
   - **praśna** m. ⟪प्रश्न⟫ : domanda (suffisso **-na** come in **yaj-ña**)
@@ -102,7 +102,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫, distretto di Jamalpur, Banglades
 ::: media
 ![](/images/lekt1101.webp)
 Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
-(Fonte dell'immagine: [Details](/it/licenses#lekt1101))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1101))
 :::
 
 ## 11.4. Esercizio di ripasso
@@ -143,5 +143,5 @@ Fig.: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 ::: media
 ![](/images/lekt1103.webp)
 Fig.: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
-(Fonte dell'immagine: [Details](/it/licenses#lekt1103))
+(Fonte dell'immagine: [Dettagli](/it/licenses#lekt1103))
 :::

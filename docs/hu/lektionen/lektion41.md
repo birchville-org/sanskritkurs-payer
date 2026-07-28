@@ -318,7 +318,7 @@ A ⟪सु⟫- és ⟪दुस्⟫- "könnyen" vagy "nehezen" jelentéssel n
 ::: media
 ![lekt4105.jpg](/images/lekt4105.webp)
 Ábr.: ⟪भुजङ्गः⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt4105))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt4105))
 :::
 ⟪केवलम्⟫ Adv.: csak, egyedül, teljesen
 
@@ -348,7 +348,7 @@ ebből:
 ::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
 Kép: ⟪शासना⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt4109))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt4109))
 :::
 
 ::: indent
@@ -359,7 +359,7 @@ Kép: ⟪शासना⟫
 ::: media
 ![lekt4110.jpg](/images/lekt4110.webp)
 Kép: ⟪शास्त्री⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt4110))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt4110))
 :::
 
 ::: indent
@@ -396,7 +396,7 @@ B) Fordítsa le:
 ::: media
 ![lekt4111.jpg](/images/lekt4111.webp)
 Ábra: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ...
-(Képmegjelölés: [Details](/hu/licenses#lekt4111))
+(Képmegjelölés: [Részletek](/hu/licenses#lekt4111))
 :::
 ⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥३॥⟫
 

@@ -22,7 +22,7 @@ Explanation: ⟪पर⟫ "other"
 ::: media
 ![lekt4102.jpg](/images/lekt4102.webp)
 Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद्या⟫ ...
-(Image source: [Details](/en/licenses#lekt4102))
+(Image source: [Detail](/en/licenses#lekt4102))
 :::
 
 ::: indent
@@ -33,11 +33,11 @@ Fig.: ⟪पुस्तकस्था⟫ ⟪च⟫ ⟪या⟫ ⟪विद�
 :::
 Explanation: ⟪पयस्⟫ n. = ⟪दुग्धम्⟫
 
-## 41.2. Weitere ⟪कृत्⟫-Bildungen auf -a
+## 41.2. Weitere ⟪कृत्⟫-Pembentukanen auf -a
 
 ### 41.2.1. Partisip Present (⟪लडादेशः⟫) Ā, Partisip Present (⟪लडादेशः⟫) Pasif, Partisip Futur (⟪ऌडादेशः⟫) Ā
 
-#### 41.2.1.1. Thematische Presentstämme, Pasif dan Futur
+#### 41.2.1.1. Thematische Batang Present, Pasif dan Futur
 
 ::: grammar-box
 **Formation:**
@@ -54,7 +54,7 @@ Examples:
 
 ⟪दा⟫ 3U, Fut.Part.Ā ⟪दास्यमान⟫ 3 "one who will give for one's own benefit"
 
-#### 41.2.1.2. Kelas Präsens Atematis
+#### 41.2.1.2. Kelas Present Atematis
 
 ::: grammar-box
 **Formation:**
@@ -219,7 +219,7 @@ Examples:
 ::: media
 ![lekt4106.jpg](/images/lekt4106.webp)
 Fig.: ⟪दृश्यो⟫ ⟪मन्दिरः⟫
-(Image source: [Details](/en/licenses#lekt4106))
+(Image source: [Detail](/en/licenses#lekt4106))
 :::
 High-grade formation:
 
@@ -255,7 +255,7 @@ Example:
 ::: media
 ![lekt4107.jpg](/images/lekt4107.jpg)
 Gbr.: ⟪मान्यः⟫
-(Image source: [Details](/en/licenses#lekt4107))
+(Image source: [Detail](/en/licenses#lekt4107))
 :::
 #### 41.2.2.4. Sufiks -⟪त्य⟫ / ⟪त्या⟫ (sebagai ganti dari -⟪य⟫ / -⟪या⟫)
 
@@ -294,7 +294,7 @@ Gerundiva juga dapat digunakan sebagai kata benda predikatif dalam kalimat denga
 ::: media
 ![lekt4108.jpg](/images/lekt4108.webp)
 Gbr.: ⟪दर्शनीयं⟫ ⟪नगरं⟫ ⟪काशी⟫
-(Sumber gambar: [Details](/en/licenses#lekt4108))
+(Sumber gambar: [Detail](/en/licenses#lekt4108))
 :::
 ### 41.2.4. Perbedaan dalam Penggunaan Sufiks Gerundivum
 
@@ -318,7 +318,7 @@ The usage of these suffixes largely overlaps
 ::: media
 ![lekt4105.jpg](/images/lekt4105.webp)
 Fig.: ⟪भुजङ्गः⟫
-(Image source: [Details](/en/licenses#lekt4105))
+(Image source: [Detail](/en/licenses#lekt4105))
 :::
 ⟪केवलम्⟫ Adv.: only, alone, completely
 
@@ -327,7 +327,7 @@ Fig.: ⟪भुजङ्गः⟫
 ::: media
 ![lekt4104.jpg](/images/lekt4104.webp)
 Fig.: ⟪भुजङ्गस्य⟫ ⟪विषम्⟫
-(Image source: [Details](/en/licenses#lekt4104))
+(Image source: [Detail](/en/licenses#lekt4104))
 :::
 ⟪शास्⟫ 2P ⟪शास्ति⟫ : reprimand, control, command, teach
 
@@ -348,7 +348,7 @@ thereof:
 ::: media
 ![lekt4109.jpg](/images/lekt4109.webp)
 Fig.: ⟪शासना⟫
-(Image source: [Details](/en/licenses#lekt4109))
+(Image source: [Detail](/en/licenses#lekt4109))
 :::
 
 ::: indent
@@ -359,7 +359,7 @@ Fig.: ⟪शासना⟫
 ::: media
 ![lekt4110.jpg](/images/lekt4110.webp)
 Fig.: ⟪शास्त्री⟫
-(Image source: [Details](/en/licenses#lekt4110))
+(Image source: [Detail](/en/licenses#lekt4110))
 :::
 
 ::: indent
@@ -396,7 +396,7 @@ B) Translate:
 ::: media
 ![lekt4111.jpg](/images/lekt4111.webp)
 Fig.: ⟪काशीं⟫ ⟪पत्स्ये⟫ ⟪गङ्गां⟫ ⟪द्रक्ष्यामि⟫ ...
-(Image source: [Details](/en/licenses#lekt4111))
+(Image source: [Detail](/en/licenses#lekt4111))
 :::
 ⟪कन्यां⟫ ⟪व्युवह⟫ ⟪तस्यां⟫ ⟪च⟫ ⟪पुत्रमजनयं⟫ ⟪महाधनं⟫ ⟪च⟫ ⟪लेभ⟫ ⟪एवं⟫ ⟪सुखमापेत्यतीते⟫ ⟪मुमोह⟫ ⟪।⟫ ⟪ततः⟫ ⟪प्रजज्ञौ⟫ ⟪सुखाद्दुःखं⟫ ⟪जायते⟫ ⟪तस्माल्लोकसुखमपि⟫ ⟪त्यजनीयं⟫ ⟪न⟫ ⟪च⟫ ⟪किंचिदिन्द्रियैः⟫ ⟪स्प्रष्टव्यमिति⟫ ⟪॥३॥⟫
 

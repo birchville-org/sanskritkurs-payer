@@ -9,9 +9,9 @@ status: stable
 
 # Lezione 39
 
-## 39.1. Le desinenze della prima persona (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**terza** persona")
+## 39.1. Le desinenze della prima persona (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**terza** persona")
 
-Le desinenze della prima persona (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**terza** persona") sono:
+Le desinenze della prima persona (**:sig[⟪तृतीयः⟫]** ⟪पुरुषः⟫ = "**terza** persona") sono:
 
 ::: grammar-box
 
@@ -144,7 +144,7 @@ Le desinenze della prima persona (***⟪तृतीयः⟫*** ⟪पुरु
 
 **iniziare, le consonanti di solito rimangono invariate.**
 
-**ad esempio. ⟪वच्⟫ 1.sg.Ind.Pres.P **⟪व⟫***⟪च्मि⟫***
+**ad esempio. ⟪वच्⟫ 1.sg.Ind.Pres.P **⟪व⟫**⟪च्मि⟫**
 :::
 ### 39.4.1. Seconda classe del presente (⟪अदादि⟫)
 

@@ -1,5 +1,5 @@
 ---
-title: ትምህርት 35
+title: Lektion 35
 lesson_id: 35
 status: stable
 ---
@@ -242,7 +242,7 @@ Temple musicians Kaadu Malleswara Temple Bangalore.
 26. ⟪मन्यन्ते⟫
 27. ⟪अक्रामन्⟫
 28. ⟪अशृण्वन्⟫
-29. ⟪मिमति⟫
+29. ⟪मिमति⟫  
 ::: media
 ![](/images/lekt3503.webp)
 ምስል፦ ⟪मिमति⟫

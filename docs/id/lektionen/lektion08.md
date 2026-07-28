@@ -92,7 +92,7 @@ Dalam tata bahasa India tradisional, dibedakan pada akhiran-akhiran yang digunak
 ::: media
 ![](/images/lekt0801.webp)
 Gambar: Maa Batakali Darshan, Puri, Orissa
-(Sumber gambar: [Details](/id/licenses#lekt0801))
+(Sumber gambar: [Detail](/id/licenses#lekt0801))
 :::
 
 ::: note-box

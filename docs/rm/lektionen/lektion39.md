@@ -144,7 +144,7 @@ Las desinenzas da la prima persuna (:sig[⟪उत्तमः⟫ ⟪पुर�
 
 **cumenzar, consonants en regla general restan invariads.**
 
-z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P **⟪व⟫***⟪च्मि⟫***
+z. B. ⟪वच्⟫ 1.sg.Ind.Präs.P **⟪व⟫**⟪च्मि⟫**
 :::
 ### 39.4.1. Secunda classe da prezens (⟪अदादि⟫)
 

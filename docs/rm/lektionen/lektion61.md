@@ -78,7 +78,7 @@ Fig.: ⟪स्त्रियः⟫
 
 **La declinaziun è identica en il masculin ed en il feminin.**
 
-**Irregolaritad: Cumposts cun -⟪⟪नी⟫ "ducent" han en loc. sg la finiziun -ām ( sco ⟪देवी⟫):**
+**Irregolaritad: Cumposts cun -⟪:sig[⟪नी⟫] "ducent" han en loc. sg la finiziun -ām ( sco ⟪देवी⟫):**
 ex. ⟪ग्रामणी⟩ "ina schiera/ina vischnanca ducenta": loc. sg.m.f. ⟪ग्रामण्याम्⟫
 :::
 Paradigmas:
@@ -219,7 +219,7 @@ Paradigma:
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | *⟪दाताहे⟫* | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | *:sig[⟪दाताहे⟫]* | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
@@ -304,8 +304,8 @@ p.ex. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 
 ::: indent
 z.B.
-⟪पत्⟫ 1P: ⟪प⟫***⟪नी⟫***⟪पत्य⟫-
-⟪वृत्⟫ 1Ā: ⟪व⟫***⟪री⟫***⟪वृत्य⟫-
+⟪पत्⟫ 1P: ⟪प⟫**:sig[⟪नी⟫]**⟪पत्य⟫-
+⟪वृत्⟫ 1Ā: ⟪व⟫**:sig[⟪री⟫]**⟪वृत्य⟫-
 :::
 ::: grammar-box
 **Konjugation:**
@@ -605,7 +605,7 @@ Paradigma:
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ |
-| **3\. ⟪प्रथमः⟫** | *⟪बुध्यात्⟫* | ⟪बुध्यास्ताम्⟫ | *⟪बुध्यासुर्⟫* | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
+| **3\. ⟪प्रथमः⟫** | *:sig[⟪बुध्यात्⟫]* | ⟪बुध्यास्ताम्⟫ | *:sig[⟪बुध्यासुर्⟫]* | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
 :::
 ::: media
 ![](/images/lekt6114.webp)
@@ -719,7 +719,7 @@ Feminin (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+## 61.9. Entlassung in den Ozean der Sanskritliteratur: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
 
 Su il conclus dal curs da sânscrit cumenza mo il ver "nadar" en l'ocèan da la litteratura sânscrita. Visto che quest ocèan è plen d'ostaculs, è adäbit da cumenzar questa nova fasa da vita cun in'invocaziun a Gaṇeśas:
 
@@ -735,7 +735,7 @@ Halebidu (ಹಳೆಬೀಡು), 12./13. tschdt. n. Chr.
 | --- | --- |
 | ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
-***śrīgana-nātha / ⟪श्रीगणनाथ⟫*** da Purandaradāsa (**puramkara dāsa**) (1484 - 1564)
+***śrīgana-nātha / :sig[⟪श्रीगणनाथ⟫]*** da Purandaradāsa (**puramkara dāsa**) (1484 - 1564)
 
 Cumpostist e poet: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
@@ -752,7 +752,7 @@ Tāla: Rūpaka: o |4
 Imag.: La melodia, referida a c, pozz vegnir transponida tenor l'extensiun vocala.
 (Sursa d'imagines: [Detagls](/rm/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ sa chatta al cumenzament da l'instrucziun en la musica kannaresa. Vesei il video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Access il 2009-03-05
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] sa chatta al cumenzament da l'instrucziun en la musica kannaresa. Vesei il video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Access il 2009-03-05
 
 Post che Vus avais ussa imparà ils fundament dal sanscrit, vus essis sper che sco ils uffants pitschens en il video: a maun maladtschins, ma adina pronts da midar e da midar e cun plaivla en la sonda. Mantegnì fin a la fin da la vita "a beginner's mind".
 
@@ -761,7 +761,7 @@ Quai vus disira Voss Alois Payer
 
 Ofterdingen, 2009-03-09
 
-*⟪ॐ⟫*
+*:sig[⟪ॐ⟫]*
 
 FIN DAL CURS DA SANSKRIT
 :::

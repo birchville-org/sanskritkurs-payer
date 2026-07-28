@@ -160,7 +160,7 @@ A) Käännä:
 ::: media
 ![](/images/lekt4703.webp)
 Kuva: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4703))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4703))
 :::
 ⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫
 
@@ -171,7 +171,7 @@ Kuva: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्�
 ::: media
 ![](/images/lekt4704.webp)
 Kuva: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4704))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4704))
 :::
 ⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫
 

@@ -8,7 +8,7 @@ status: stable
 
 # Pelajaran 61
 
-## 61.1. Deklination  Wurzelnomina auf -ā, -ī, -ū
+## 61.1. Deklination  Akarnomina auf -ā, -ī, -ū
 
 ### 61.1.1. Kata benda akar berakhiran -ā di akhir ⟪तत्पुरुष⟫
 
@@ -31,10 +31,10 @@ Paradigma:
 | ⟪षष्ठी⟫ | ^^ | ⟪विश्वपोस्⟫ | ⟪विश्वपाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪विश्वपि⟫ | ^^ | ⟪विश्वपासु⟫ |
 
-### 61.1.2. Feminine Wurzelnomina auf -ī
+### 61.1.2. Feminine Akarnomina auf -ī
 
 ::: grammar-box
-**Vor vokalischer Endung wird -ī durch -iy ersetzt.**
+**Vor vokalischer Akhiran wird -ī durch -iy ersetzt.**
 
 **Selain pembentukan dengan akhiran kasus reguler, pembentukan yang mengikuti pola kata benda feminin multisuku kata dalam -ī (⟪देवी⟫) juga terjadi pada Dat.Ab.Gen.Loc.sg. dan Gen.pl.**
 :::
@@ -78,7 +78,7 @@ Gbr.: ⟪स्त्रियः⟫
 
 **Pembentukan kata sifat (declension) identik untuk jenis kelamin maskulin dan feminin.**
 
-**Irregularity: Compounds ending in -⟪नी⟫ "leading" have the ending -ām in the loc.sg (like ⟪देवी⟫):**
+**Irregularity: Compounds ending in -:sig[⟪नी⟫] "leading" have the ending -ām in the loc.sg (like ⟪देवी⟫):**
 e.g. ⟪ग्रामणी⟫ "leading a troop/a village": loc.sg.m.f. ⟪ग्रामण्याम्⟫
 :::
 Paradigms:
@@ -107,12 +107,12 @@ Paradigms:
 | ⟪षष्ठी⟫ | ^^ | ⟪यवक्रियोस्⟫ | ⟪यवक्रियाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪यवक्रियि⟫ | ^^ | ⟪यवक्रीषु⟫ |
 
-### 61.1.4. Einsilbige, feminine Wurzelnomina auf -ū
+### 61.1.4. Einsilbige, feminine Akarnomina auf -ū
 
 ::: grammar-box
 **Stem before vowel: -uv**
 
-**Deklination analog zu den femininen Wurzelnomina auf -ī**
+**Deklination analog zu den femininen Akarnomina auf -ī**
 :::
 Paradigma:
 
@@ -153,7 +153,7 @@ Paradigma:
 ![](/images/lekt6106.webp)
 Fig.: ⟪रथ्याप्वः⟫
 ⟪काशीपुर⟫
-(Image source: [Details](/en/licenses#lekt6106))
+(Image source: [Detail](/en/licenses#lekt6106))
 :::
 ### 61.1.6. Deklination mehrsilbiger Feminina auf -ū
 
@@ -219,7 +219,7 @@ Paradigm:
 |   | ⟪परस्मैपदम्⟫ ||| ⟪आत्मनेपदम्⟫ |||
 | :--- | :---: | :---: | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | ***⟪दाताहे⟫*** | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
+| **1\. ⟪तृतीयः⟫** | ⟪दातास्मि⟫ | ⟪दातास्वस्⟫ | ⟪दातास्मस्⟫ | **:sig[⟪दाताहे⟫]** | ⟪दातास्वहे⟫ | ⟪दातास्महे⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪दातासि⟫ | ⟪दातास्थस्⟫ | ⟪दातास्थ⟫ | ⟪दातासे⟫ | ⟪दातासथे⟫ | ⟪दाताध्वे⟫ |
 | **3\. ⟪प्रथमः⟫** | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ | ⟪दाता⟫ | ⟪दातारौ⟫ | ⟪दातारस्⟫ |
 :::
@@ -251,7 +251,7 @@ Paradigm:
 ![](/images/lekt6104.webp)
 Fig.: ⟪सर्पो⟫ ⟪वव्रज्यते⟫ ⟪॥⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Sumber gambar: [Details](/en/licenses#lekt6104))
+(Sumber gambar: [Detail](/en/licenses#lekt6104))
 :::
 
 ::: grammar-box
@@ -303,8 +303,8 @@ mis. ⟪यम्⟫ 1P: ⟪यंयम्य⟫-
 
 ::: indent
 e.g.
-⟪पत्⟫ 1P: ⟪प⟫***⟪नी⟫***⟪पत्य⟫-
-⟪वृत्⟫ 1Ā: ⟪व⟫***⟪री⟫***⟪वृत्य⟫-
+⟪पत्⟫ 1P: ⟪प⟫**:sig[⟪नी⟫]**⟪पत्य⟫-
+⟪वृत्⟫ 1Ā: ⟪व⟫**:sig[⟪री⟫]**⟪वृत्य⟫-
 :::
 ::: grammar-box
 **Conjugation:**
@@ -348,7 +348,7 @@ Imperfect (⟪लङ्⟫):
 | 2\. ⟪मध्यमः⟫ | ⟪अबोभोस्⟫ ⟪।⟫ ⟪अबोभवीस्⟫ | ⟪अबोभूतम्⟫ | ⟪अबोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪अबोभोत्⟫ ⟪।⟫ ⟪अबोभवीत्⟫ | ⟪अबोभूताम्⟫ | ⟪अबोभुवुर्⟫ |
 :::
-Imperative (⟪लोट्⟫):
+Imperatife (⟪लोट्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -357,7 +357,7 @@ Imperative (⟪लोट्⟫):
 | 2\. ⟪मध्यमः⟫ | ⟪बोभूहि⟫ | ⟪बोभूतम्⟫ | ⟪बोभूत⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बोभोतु⟫ ⟪।⟫ ⟪बोभवितु⟫ | ⟪बोभूताम्⟫ | ⟪बोभुवतु⟫ |
 :::
-Optative (⟪विधिलिङ्⟫):
+Optatife (⟪विधिलिङ्⟫):
 
 ::: grammar-box
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -436,13 +436,13 @@ Note the meaning of:
 ![](/images/lekt6105.webp)
 Fig.: ⟪किं⟫ ⟪तपस्यति⟫ ⟪न⟫ ⟪वा⟫ ?
 ⟪हरिद्वार⟫
-(Image source: [Details](/en/licenses#lekt6105))
+(Image source: [Detail](/en/licenses#lekt6105))
 :::
 
 ::: media
 ![](/images/lekt6103.webp)
 Gbr.: ⟪बालौ⟫ ⟪शिवं⟫ ⟪नमस्यतः⟫ ⟪॥⟫
-(Image source: [Details](/en/licenses#lekt6103))
+(Image source: [Detail](/en/licenses#lekt6103))
 :::
 ### 61.4.3. Pembentukan dengan sufiks -kāmya, Parasmaipada
 
@@ -483,7 +483,7 @@ Contoh:
 ![](/images/lekt6110.webp)
 Gbr.: ⟪कस्तत्र⟫ ⟪न⟫ ⟪मधुस्यति⟫ ?
 Karli
-(Sumber gambar: [Details](/en/licenses#lekt6110))
+(Sumber gambar: [Detail](/en/licenses#lekt6110))
 :::
 ### 61.4.5. Pembentukan dengan sufiks -ya, Ātmanepada
 
@@ -546,7 +546,7 @@ Examples:
 ![](/images/lekt6113.webp)
 Fig.: ⟪भिक्षुर्मुण्डयते⟫ ⟪।⟫
 Thailand - เมืองไทย
-(Image source: [Details](/en/licenses#lekt6113))
+(Image source: [Detail](/en/licenses#lekt6113))
 :::
 A list of denominatives e.g. in:
 
@@ -554,7 +554,7 @@ A list of denominatives e.g. in:
 ![](/images/lekt6112.jpg)
 Fig.:
 1845 - 1878 Profesor Filologi Indologis dan Oriental di Universitas Kopenhagen
-(Sumber gambar: [Details](/en/licenses#lekt6112))
+(Sumber gambar: [Detail](/en/licenses#lekt6112))
 :::
 
 ::: indent
@@ -603,7 +603,7 @@ Paradigm:
 |   | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪द्विवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1\. ⟪तृतीयः⟫** | ⟪बुध्यासम्⟫ | ⟪बुध्यास्व⟫ | ⟪बुध्यास्म⟫ | ⟪बोधिषीय⟫ | ⟪बोधिषीवहि⟫ | ⟪बोधिषीमहि⟫ |
 | **2\. ⟪मध्यमः⟫** | ⟪बुध्यास्⟫ | ⟪बुध्यास्तम्⟫ | ⟪बुध्यास्त⟫ | ⟪बोधिषीष्ठास्⟫ | ⟪बोधिषीयास्थाम्⟫ | ⟪बोधिषीध्वम्⟫ |
-| **3\. ⟪प्रथमः⟫** | ***⟪बुध्यात्⟫*** | ⟪बुध्यास्ताम्⟫ | ***⟪बुध्यासुर्⟫*** | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
+| **3\. ⟪प्रथमः⟫** | **:sig[⟪बुध्यात्⟫]** | ⟪बुध्यास्ताम्⟫ | **:sig[⟪बुध्यासुर्⟫]** | ⟪बोधिषीष्ट⟫ | ⟪बोधिषीयास्ताम्⟫ | ⟪बोधिषीरन्⟫ |
 :::
 ::: media
 ![](/images/lekt6114.webp)
@@ -653,13 +653,13 @@ Paradigms: Kielhorn, Grammar § 153:
 
 ::: media
 ![](/images/lekt6115.webp)
-(Image source: [Details](/en/licenses#lekt6115))
+(Image source: [Detail](/en/licenses#lekt6115))
 :::
 
 ::: media
 ![](/images/lekt6118.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪गावः⟫ ⟪॥⟫
-(Image source: [Details](/en/licenses#lekt6118))
+(Image source: [Detail](/en/licenses#lekt6118))
 :::
 ## 61.8. Restliche Pronomina
 
@@ -669,14 +669,14 @@ Kielhorn, Grammar § 177:
 
 ::: media
 ![](/images/lekt6116.jpg)
-(Image source: [Details](/en/licenses#lekt6116))
+(Image source: [Detail](/en/licenses#lekt6116))
 :::
 
 ::: media
 ![](/images/lekt6117.webp)
 Fig.: ⟪आवां⟫ ⟪स्वसारौ⟫ ⟪॥⟫
 Apatani people, Arunachal Pradesh
-(Image source: [Details](/en/licenses#lekt6117))
+(Image source: [Detail](/en/licenses#lekt6117))
 :::
 ### 61.8.2. Demonstrativpronomen ⟪अदस्⟫ "jener (entfernte)"
 
@@ -717,7 +717,7 @@ Feminine (⟪स्त्री⟫)
 | ⟪षष्ठी⟫ | ^^ | ⟪अमुयोस्⟫ | ⟪अमूषाम्⟫ |
 | ⟪सप्तमी⟫ | ⟪अमुष्याम्⟫ | ^^ | ⟪अमूषु⟫ |
 :::
-## 61.9. Pelepasan ke Samudra Sastra Sanskerta: ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫
+## 61.9. Pelepasan ke Samudra Sastra Sanskerta: ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]
 
 Setelah menyelesaikan kursus Sanskerta, "berenang" yang sebenarnya di lautan literatur Sanskerta baru dimulai. Karena lautan ini penuh dengan rintangan, adalah tepat untuk memulai fase kehidupan baru ini dengan seruan kepada Gaṇeśa:
 
@@ -725,7 +725,7 @@ Setelah menyelesaikan kursus Sanskerta, "berenang" yang sebenarnya di lautan lit
 ![](/images/lekt6101.webp)
 Fig.: ⟪श्रीगणनाथः⟫
 Halebidu (ಹಳೆಬೀಡು), 12th/13th century CE
-(Image source: [Details](/en/licenses#lekt6101))
+(Image source: [Detail](/en/licenses#lekt6101))
 :::
 
 ::: no-header
@@ -733,7 +733,7 @@ Halebidu (ಹಳೆಬೀಡು), 12th/13th century CE
 | --- | --- |
 | ಶ್ರೀಗಣನಾಥ ಸಿನ್ಧುರವರ್ಣ ಕರುಣಾಸಾಗರ ಕರಿವದನ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಿದ್ಧಚಾರಣ ಗಣಸೇವಿತ ಸಿದ್ಧಿವಿನಾಯಕ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:br:brಸಕಲವಿದ್ಯಾದಿಪೂಜಿತ ಸರ್ವೋತ್ತಮ ತೇ ನಮೋ ನಮೋ:br:brಲಮ್ಬೋದರ ಲಕುಮೀಕರ:brಅಮ್ಬಾಸುತ ಅಮರವಿನುತ:brಲಮ್ಬೋದರ ಲಕುಮೀಕ⟪र⟫ | ⟪श्रीगणनाथ⟫ ⟪सिन्धुरवर्ण⟫ ⟪करुणासागर⟫ ⟪करिवदन⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫ ⟪१⟫:br:br⟪सिद्धचारण⟫ ⟪गणसेवित⟫ ⟪सिद्धिविनायक⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪सकलविद्यादिपूजित⟫ ⟪सर्वोत्तम⟫ ⟪ते⟫ ⟪नमो⟫ ⟪नमो⟫:br:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br⟪अम्बासुत⟫ ⟪अमरविनुत⟫:br⟪लम्बोदर⟫ ⟪लकुमीकर⟫:br:br⟪१⟫ ⟪लकुमीकर⟫ ≈ ⟪लक्ष्मीकर⟫ |
 :::
-***ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫*** by Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
+***ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫]*** by Purandaradāsa (**ಪುರಂದರ ದಾಸ**) (1484 - 1564)
 
 Composer and poet: Purandaradāsa (ಪುರಂದರ ದಾಸ) (1484 - 1564)
 
@@ -748,9 +748,9 @@ Tāla: Rūpaka: o |4
 ::: media
 ![](/images/lekt6119.webp)
 Fig.: Melodi, yang dirujuk ke c, dapat ditransposisikan tergantung pada jangkauan vokal.
-(Sumber gambar: [Details](/en/licenses#lekt6119))
+(Sumber gambar: [Detail](/en/licenses#lekt6119))
 :::
-ಶ್ರೀಗಣನಾಥ / ⟪श्रीगणनाथ⟫ berada di awal instruksi dalam musik Kannarese. Lihat video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Diakses pada 2009-03-05
+ಶ್ರೀಗಣನಾಥ / :sig[⟪श्रीगणनाथ⟫] berada di awal instruksi dalam musik Kannarese. Lihat video: [http://www.youtube.com/watch?v=tG91JF-qKIY](http://www.youtube.com/watch?v=tG91JF-qKIY). -- Diakses pada 2009-03-05
 
 Setelah Anda sekarang telah mempelajari dasar-dasar Sanskerta, semoga Anda seperti balita-balita dalam video: kadang-kadang canggung, tetapi bersemangat untuk belajar dan penuh rasa ingin tahu, serta menikmati prosesnya. Pertahankan "pikiran pemula" hingga akhir hidup Anda.
 
@@ -759,7 +759,7 @@ This is your wish from your Alois Payer
 
 Ofterdingen, 2009-03-09
 
-***⟪ॐ⟫***
+**:sig[⟪ॐ⟫]**
 
 END OF THE SANSKRIT COURSE
 :::

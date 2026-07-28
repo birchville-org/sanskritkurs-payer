@@ -506,7 +506,7 @@ C) Fordítsa szanszktra:
 
 30. A cselekvés jógája az aszkézis (tapas n.), a (Véda) recitáció, és az ÚR iránti szolgálat. Ez a meditációs elmélyülés kibontakozását és a kleśák gyengítését szolgálja.
 
-31. Az étkezés, az alvás, a félelem és a párzás: ez emberi és állati lények közös vonása. A dharmában (fektetődik) valójában az ő különleges jellemzőjük. A dharmától elhagyva ők egyenlőek az állatokkal (Instrumentalis).
+31. Az étkezés, az alvás, a félelem és a párzás: ez emberi és állati lények közös vonása. A dharmában (fektetődik) valójában az ő különleges jellemzőjük. A dharmától elhagyva ők egyenlőek az állatokkal (eszközhatározó eset (instrumentalis)).
 
 32. Az emberek azért születnek, hogy meghaljanak.
 
@@ -626,7 +626,7 @@ Magyarázatok:
 
 ⟪लक्ष्यीकृ⟫ ⟪च्विऽ⟫-szuffixum ⟪अन्⟫ **⟪लक्ष्य⟫ + ⟪कृ⟫** : valamit ⟪लक्ष्य⟫-vá tenni, ami korábban nem volt ⟪लक्ष्य⟫
 
-⟪आदाय⟫ Akkusativ a **⟪आ⟫-⟪दा⟫** (3. ragozat) "venni"
+⟪आदाय⟫ tárgyeset (accusativus) a **⟪आ⟫-⟪दा⟫** (3. ragozat) "venni"
 :::
 ::: media
 ![](/images/lekt3210.webp)

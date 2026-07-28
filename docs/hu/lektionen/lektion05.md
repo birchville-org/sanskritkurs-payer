@@ -88,7 +88,7 @@ Példák a többes számú Dvandvára:
 - **-a** végződésű, magánhangzóval kezdődő szavak előbbre kerüljenek.
 - Kevesebb szótagot tartalmazó szavak előbbre kerüljenek.
 
-Ha a fenti három szabály közül kettő egyszerre merül fel, mindig a később megadott szabályt kell követni. (Példák ezekre a Dualdvandvára Kielhorn, Grammatik § 570).
+Ha a fenti három szabály közül kettő egyszerre merül fel, mindig a később megadott szabályt kell követni. (Példák ezekre a kettes szám (dualis)dvandvára Kielhorn, Grammatik § 570).
 
 ## 5.4. Szószedet
 

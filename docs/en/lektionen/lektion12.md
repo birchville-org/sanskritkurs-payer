@@ -29,7 +29,7 @@ One way to form passive sentences of the past is the construction with the so-ca
 ### 12.1.1. सकर्मकधातूनां योजना
 
 ::: grammar-box
-**Agent (kartṛ) in the Instrumental (tṛtīyā) -- direct object (karman) in the Nominative (prathamā) -- Perfect Passive Participle**
+**Agent (kartṛ) in the Instrumental (tṛtīyā) -- direct object (karman) in the Nominativeee (prathamā) -- Perfect Passive Participle**
 
 In this case, the PPP agrees with the object in number, case, and gender.
 
@@ -44,7 +44,7 @@ Examples:
 ### 12.1.2. अकर्मकधातूनां गतिधातूनां च योजना १
 
 ::: grammar-box
-**Agent (kartṛ) in the Nominative (prathamā) -- Perfect Passive Participle**
+**Agent (kartṛ) in the Nominativeee (prathamā) -- Perfect Passive Participle**
 
 In this case, the PPP agrees with the agent in number, case, and gender. The Perfect Participle "Passive" has active meaning with intransitive verbs (verbs without a direct object) and verbs of motion.
 
@@ -55,7 +55,7 @@ Example:
 ### 12.1.3. अकर्मकधातूनां गतिधातूनां च योजना २
 
 ::: grammar-box
-**Agent (kartṛ) in the Instrumental (tṛtīyā) -- PPP in the Nominative Singular Neuter**
+**Agent (kartṛ) in the Instrumental (tṛtīyā) -- PPP in the Nominativeee Singular Neuter**
 
 Example:
 > **kṣatriyeṇa (nagaraṃ) gatam** = ⟪क्षत्रियेण⟫ (⟪नगरं⟫) ⟪गतम्⟫ = "(By the Kṣatriya, (into the city) was gone) = The Kṣatriya has (gone into the city)."

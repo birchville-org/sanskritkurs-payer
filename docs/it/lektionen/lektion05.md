@@ -64,9 +64,9 @@ Per i Dvandva duale, vedere più avanti!
 
 Gli elementi iniziali dei composti (non solo Dvandvas) hanno di norma la forma del **stame nominale** invariato. Le singole parti dei composti vengono unite secondo le regole del **Sandhi di frase** (cioè del Sandhi finora appreso, in contrapposizione al Sandhi di parola, che si applica all'interno della parola prima degli elementi formativi).
 
-### 5.3.2. Plurale Itaretaradvandva
+### 5.3.2. Pluraleee Itaretaradvandva
 
-Esempi di Pluraldvandva:
+Esempi di Pluraleedvandva:
 
 **brāhmaṇa-kṣatriya-vaiśya-śūdrāḥ** = ⟪ब्राह्मणक्षत्रियवैश्यशूद्राः⟫
 > = brāhmaṇāḥ kṣatriyā vaiśyāḥ śūdrāś ca = ⟪ब्राह्मणाः⟫ ⟪क्षत्रिया⟫ ⟪वैश्याः⟫ ⟪शूद्राश्च⟫
@@ -88,7 +88,7 @@ Esempi di Pluraldvandva:
 - Le parole che terminano in **-a** e iniziano con una vocale devono precedere.
 - Le parole che contengono meno sillabe devono precedere.
 
-Quando due delle tre ultime disposizioni possono applicarsi contemporaneamente, deve sempre essere seguita la regola fornita successivamente. (Esempi di Dualdvandva per queste regole in Kielhorn, Grammatik § 570).
+Quando due delle tre ultime disposizioni possono applicarsi contemporaneamente, deve sempre essere seguita la regola fornita successivamente. (Esempi di Dualeedvandva per queste regole in Kielhorn, Grammatik § 570).
 
 ## 5.4. Elenco di parole
 

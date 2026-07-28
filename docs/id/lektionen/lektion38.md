@@ -14,16 +14,16 @@ status: stable
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ regarding correct urination:
 
 ::: indent
-⟪प्रत्य⟫***⟪ग्नि⟫*** ⟪प्रतिसूर्यं⟫ ⟪च⟫  
+⟪प्रत्य⟫**:sig[⟪ग्नि⟫]** ⟪प्रतिसूर्यं⟫ ⟪च⟫  
 ⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
-⟪प्रति⟫***⟪गु⟫*** ⟪प्रतिवातं⟫ ⟪च⟫  
+⟪प्रति⟫**:sig[⟪गु⟫]** ⟪प्रतिवातं⟫ ⟪च⟫  
 ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
 :::
 Explanations:
 
 \-⟪अग्नि⟫ Neuter Nom./Acc. sg. to ⟪अग्नि⟫ m.
 
-\-⟪गु⟫ Neuter Nom./Acc. sg. to ⟪गो⟫ m.f. "cow"
+\-:sig[⟪गु⟫] Neuter Nom./Acc. sg. to ⟪गो⟫ m.f. "cow"
 
 ::: media
 ![](/images/lekt3801.webp)
@@ -37,7 +37,7 @@ Bunyi nasal dalam kata diasimilasikan ke konsonan berikutnya, yaitu diganti deng
 
 After c- and j-, -n- is replaced by -ñ-.
 :::
-## 38.3. Deklination  Stämme auf -n
+## 38.3. Deklinasi Kata Benda Berakhiran -n
 
 ### 38.3.1. Nomina yang berakhiran -an serta nomina yang berakhiran -man atau -van setelah vokal
 ::: grammar-box
@@ -49,14 +49,14 @@ Nomina yang berakhiran **-an** serta nomina yang berakhiran **-man** atau **-van
 | **Mittlerer Schwacher Batang** | **-a**:br(from -*n) | **-ma**:br(from -*mn) | **-va**:br(from -*vn) | Übrige Kasus vor konsonantisch anlautender Akhiran:brWahlweise auch Lok. sg. m. n. f. |
 | **Schwächster Batang** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Akhiran |
 
-**Akhirannya teratur. Nominatif Singular m. f. dibentuk tanpa akhiran -n.**
+**Akhirannya teratur. Nominatif Tunggal m. f. dibentuk tanpa akhiran -n.**
 :::
 Contoh:
 
 ⟪राजन्⟫ m. "King"
 
 *   strong stem: ⟪राजान्⟫
-*   medium stem: ⟪राज⟫
+*   medium stem: :sig[⟪राज⟫]
 *   weakest stem: ⟪राज्ञ्⟫
 
 ⟪सीमन्⟫ f. "Boundary"
@@ -195,14 +195,14 @@ Contoh:
 ::: media
 ![](/images/lekt3806.webp)
 Fig.: ⟪हस्ती⟫
-(Image source: [Details](/en/licenses#lekt3806))
+(Image source: [Detail](/en/licenses#lekt3806))
 :::
 ⟪हस्तवन्त्⟫ : one who has (human) hands
 
 ::: media
 ![](/images/lekt3807.webp)
 Fig.: ⟪हस्तवान्⟫
-(Image source: [Details](/en/licenses#lekt3807))
+(Image source: [Detail](/en/licenses#lekt3807))
 :::
 
 ::: grammar-box
@@ -236,7 +236,7 @@ Secara alami, hal yang sama dapat dinyatakan dengan ⟪बहुव्रीह�
 ::: media
 ![](/images/lekt3808.jpg)
 Fig.: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
-(Image source: [Details](/en/licenses#lekt3808))
+(Image source: [Detail](/en/licenses#lekt3808))
 :::
 ## 38.6. Syntaktisches zu ⟪आत्मन्⟫
 
@@ -266,7 +266,7 @@ Kata benda yang berakhiran konsonan muncul sebagai anggota pertama dari majemuk 
 Contoh:
 
 ::: indent
-***⟪राज⟫***⟪पुत्र⟫ "putra raja"
+**:sig[⟪राज⟫]**⟪पुत्र⟫ "putra raja"
 :::
 ## 38.8. Batang kata berakhiran -an sebagai komponen akhir dari sebuah ⟪बहुव्रीहि⟫
 
@@ -285,14 +285,14 @@ Contoh:
 ::: media
 ![](/images/lekt3802.webp)
 Fig.: ⟪सूर्यः⟫
-(Image source: [Details](/en/licenses#lekt3802))
+(Image source: [Detail](/en/licenses#lekt3802))
 :::
 ⟪उदक⟫ n.: Water
 
 ::: media
 ![](/images/lekt3805.webp)
 Fig.: ⟪उदकम्⟫
-(Image source: [Details](/en/licenses#lekt3805))
+(Image source: [Detail](/en/licenses#lekt3805))
 :::
 ⟪वा⟫ 2P ⟪वाति⟫ : to blow, to breathe
 
@@ -320,7 +320,7 @@ therefrom:
 ::: media
 ![](/images/lekt3804.webp)
 Fig.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Sumber gambar: [Details](/en/licenses#lekt3804))
+(Sumber gambar: [Detail](/en/licenses#lekt3804))
 :::
 ⟪मिह्⟫ 1P ⟪मेहति⟫ : kencing, buang air kecil, ejakulasi
 
@@ -337,14 +337,14 @@ therefrom:
 :::
 ⟪सुत⟫ m.: Son
 
-⟪राजन्⟫ m.: King (on kingship in India see Basham, Wonder pp. 82-94). As a final member of a compound (esp. ⟪तत्पुरुष⟫) usually: -⟪राज⟫ m. (like ⟪देव⟫)
+⟪राजन्⟫ m.: King (on kingship in India see Basham, Wonder pp. 82-94). As a final member of a compound (esp. ⟪तत्पुरुष⟫) usually: -:sig[⟪राज⟫] m. (like ⟪देव⟫)
 
 ::: indent
 Feminine:
 
 ⟪राज्ञी⟫ f.: Queen, wife of a king
 
-from ⟪राज⟫ :
+from :sig[⟪राज⟫] :
 
 ⟪राज्य⟫ 3: royal; n. kingdom, kingship, rule
 :::
@@ -361,7 +361,7 @@ from ⟪राज⟫ :
 ::: media
 ![](/images/lekt3809.webp)
 Fig.: ⟪ब्रह्मा⟫
-(Sumber gambar: [Details](/en/licenses#lekt3809))
+(Sumber gambar: [Detail](/en/licenses#lekt3809))
 :::
 ⟪कर्मन्⟫ n. ke ⟪कृ⟫ 8U: tindakan, perbuatan, karya; pekerjaan suci, upacara pengorbanan; Karma: tindakan masa lalu yang kemudian membawa buahnya (mis. dalam reinkarnasi)
 
@@ -398,13 +398,13 @@ therefrom:
 ::: media
 ![](/images/lekt3810.webp)
 Fig.: ⟪अशोकवृक्षः⟫
-(Image source: [Details](/en/licenses#lekt3810))
+(Image source: [Detail](/en/licenses#lekt3810))
 :::
 
 ::: media
 ![](/images/lekt3811.webp)
 Fig.: ⟪अशोकसाम्राज्यम्⟫
-(Image source: [Details](/en/licenses#lekt3811))
+(Image source: [Detail](/en/licenses#lekt3811))
 :::
 ## 38.10. Latihan
 
@@ -449,7 +449,7 @@ Fig.: ⟪अशोकसाम्राज्यम्⟫
 ::: media
 ![](/images/lekt3812.webp)
 Fig.: ⟪विनोदः⟫
-(Image source: [Details](/en/licenses#lekt3812))
+(Image source: [Detail](/en/licenses#lekt3812))
 :::
 ⟪अट्⟫ 1P ⟪अटति⟫ : to wander about
 
@@ -477,7 +477,7 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 ::: media
 ![](/images/lekt3813.webp)
 Fig.: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
-(Image source: [Details](/en/licenses#lekt3813))
+(Image source: [Detail](/en/licenses#lekt3813))
 :::
 ⟪एकैकशस्⟫ Adv.: each separately
 
@@ -494,7 +494,7 @@ Inf. ⟪गणयितुम्⟫
 ::: media
 ![](/images/lekt3814.webp)
 Fig.: ⟪गणयां⟫ ⟪चक्रुः⟫
-(Sumber gambar: [Details](/en/licenses#lekt3814))
+(Sumber gambar: [Detail](/en/licenses#lekt3814))
 :::
 ⟪क्रुश्⟫ 1P ⟪क्रोशति⟫ : berteriak, meratap
 
@@ -553,39 +553,39 @@ Inf. ⟪सर्तुम्⟫
 
 ## 38.12. Latihan Penerjemahan
 
-***⟪दश⟫*** ⟪मूढाः⟫
+**:sig[⟪दश⟫]** ⟪मूढाः⟫
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ ***⟪बाहुभ्यां⟫*** ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ :sig[⟪दश⟫] ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ **:sig[⟪बाहुभ्यां⟫]** ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ ***⟪सर्वे⟫*** ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ ***⟪जिज्ञासमान⟫***⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ ***⟪नवै⟫***⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ ***⟪वयम्⟫*** ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ ***⟪स्मः⟫*** ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ ***⟪गवेषयत⟫*** ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫***⟪मेकैको⟫*** ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ ***⟪समजनि⟫*** ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫***⟪स्तरसा⟫*** ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ ***⟪यूयम्⟫*** ⟪।⟫ ***⟪युष्माकमे⟫***⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ **:sig[⟪सर्वे⟫]** ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ **:sig[⟪जिज्ञासमान⟫]**⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ **:sig[⟪नवै⟫]**⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ **:sig[⟪वयम्⟫]** :sig[⟪दश⟫] ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ **:sig[⟪स्मः⟫]** ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ **:sig[⟪गवेषयत⟫]** ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫**:sig[⟪मेकैको⟫]** ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ **:sig[⟪समजनि⟫]** ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫**:sig[⟪स्तरसा⟫]** ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ **:sig[⟪यूयम्⟫]** ⟪।⟫ **:sig[⟪युष्माकमे⟫]**⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
 Explanations:
 
-⟪दश⟫ Nom.Akk.pl.m.f.n. to ⟪दशन्⟫ "ten"
+:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. to ⟪दशन्⟫ "ten"
 
 ⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual to ⟪बाहु⟫ m. "arm"
 
-⟪सर्वे⟫ Nom.pl.m. to ⟪सर्व⟫ 3 "each, all"
+:sig[⟪सर्वे⟫] Nom.pl.m. to ⟪सर्व⟫ 3 "each, all"
 
-⟪जिज्ञासमान⟫ Part.Pres.Ā.Desiderative to ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "ingin mengetahui, ingin memahami"
+:sig[⟪जिज्ञासमान⟫] Part.Pres.Ā.Desiderative to ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "ingin mengetahui, ingin memahami"
 
 ⟪नव⟫ Nom.Akk.pl.m.f.n. to ⟪नवन्⟫ "nine"
 
-⟪वयम्⟫ Nom.pl. "we"
+:sig[⟪वयम्⟫] Nom.pl. "we"
 
 ⟪स्मस्⟫ 1.pl.Ind.Pres.P to ⟪अस्⟫ 2P
 
-⟪गवेषयत⟫ 2.pl.Imperative P
+:sig[⟪गवेषयत⟫] 2.pl.Imperatife P
 
 ⟪एकैक⟫ "each individually"
 
-⟪समजनि⟫ 3.sg.Passive Aorist to ⟪जन्⟫
+:sig[⟪समजनि⟫] 3.sg.Passive Aorist to ⟪जन्⟫
 
 ⟪तरसा⟫ Instr. sg. to ⟪तरस्⟫ n. "energy", used adverbially: "quickly, with force"
 
-⟪यूयम्⟫ Nom.pl. "you"
+:sig[⟪यूयम्⟫] Nom.pl. "you"
 
-⟪युष्माकम्⟫ Gen.pl. to ⟪यूयम्⟫
+⟪युष्माकम्⟫ Gen.pl. to :sig[⟪यूयम्⟫]
 
 ::: deleteme-box
 

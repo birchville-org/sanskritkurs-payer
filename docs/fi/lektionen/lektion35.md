@@ -190,7 +190,7 @@ Esimerkki:
 ![](/images/lekt3502.webp)
 Kuva: ⟪क्रामन्ति⟫
 People walking, Senegal.
-(Kuv lähde: [Details](/fi/licenses#lekt3502))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3502))
 :::
 ⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): laulaa, recitoida sävelmällä, julistaa runollisessa muodossa
 ::: indent
@@ -208,7 +208,7 @@ siitä:
 ![](/images/lekt3501.webp)
 Kuva: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
-(Kuv lähde: [Details](/fi/licenses#lekt3501))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3501))
 :::
 ## 35.5. Harjoitus
 
@@ -247,7 +247,7 @@ A) Muodosta seuraavista verbimuodoista vastaavat perfektit:
 ![](/images/lekt3503.webp)
 Kuva: ⟪मिमति⟫
 Market in Vadaseri, Tamil Nadu.
-(Kuv lähde: [Details](/fi/licenses#lekt3503))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3503))
 :::
 30. ⟪अपद्यत⟫
 31. ⟪सुनोति⟫

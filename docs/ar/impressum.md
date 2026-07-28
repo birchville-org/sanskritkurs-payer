@@ -27,8 +27,8 @@ title: Impressum & Zitieren
 
 **الترجمات المولَّدة بالذكاء الاصطناعي** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) و**الخط التقني** (البرامج النصية، مدقق الجودة، تكوين VitePress):
 
-- الترجمات: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — النسب، النشر تحت نفس الرخصة
-- الكود/الخط: [رخصة MIT](https://opensource.org/licenses/MIT)
+- الترجمات: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — النسب، النشر تحت نفس الرخصة
+- الكود/الخط: [رخصة MIT [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)](https://opensource.org/licenses/MIT)
 
 **كيفية الاقتباس للترجمات:**
 > باير، ألويس: دورة السنسكريت. مترجمة بمساعدة الذكاء الاصطناعي. ماركو ديمارميلز (محرر)، 2026. الرابط: https://payer.birchville.cc — CC BY-SA 4.0

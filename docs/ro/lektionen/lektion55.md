@@ -39,11 +39,11 @@ Exemplu:
 Formări neregulate:
 
 ::: indent
-⟪अस्⟫ 4P "a arunca": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (Explicație vezi Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P "a arunca": ***:sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫]*** (Explicație vezi Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "a povesti": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
+⟪ख्या⟫ + ⟪आ⟫ 2P "a povesti": ***:sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]***
 
-⟪दृश्⟫ "a vedea": ***⟪अदर्शम्⟫, ⟪अदर्शत्⟫*** (Gradul ridicat!)
+⟪दृश्⟫ "a vedea": ***:sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫]*** (Gradul ridicat!)
 :::
 Observați:
 

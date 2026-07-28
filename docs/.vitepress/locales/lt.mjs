@@ -1,5 +1,5 @@
 export const lt = {
-  label: 'LT - Lietuvių',
+  label: '🇱🇹 LT - Lietuvių',
   lang: 'lt-LT',
   link: '/lt/',
   title: 'Sanskrito kursas',

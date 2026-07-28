@@ -38,7 +38,7 @@ status: stable
 ::: grammar-box
 **Quando la k/g finale della radice si trova tra la nasale ṅ e un dentale della desinenza, la k/g può cadere a scelta**
 
-ad es. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ oppure ⟪यु⟫***⟪ङ्ते⟫***
+ad es. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ oppure ⟪यु⟫**:sig[⟪ङ्ते⟫]**
 :::
 ⟪युज्⟫ 7U
 

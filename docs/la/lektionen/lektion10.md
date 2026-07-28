@@ -107,7 +107,7 @@ Constructiones passivae Sanscriticae valde frequentes sunt: passivum enim facili
 Praeter Nominativum et Accusativum, formae Neutrorum in -a, interrogativi pronominis et demonstrativorum, cum formis masculini correspondentis identicae sunt.
 :::
 
-### 10.2.1. Zum Gebrauch des Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
+### 10.2.1. De usu Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
 **Cāturthī (instrumentalis) praecipue ad quaestiones ponitur:**

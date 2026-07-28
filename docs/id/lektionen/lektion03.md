@@ -19,7 +19,7 @@ status: stable
 :::
 ## 3.1. Nominatif Tunggal Feminin
 
-### 3.1.1. Nominativ Singular auf -s
+### 3.1.1. Nominatif Tunggal auf -s
 
 Berikutnya, akar kata benda yang berakhir dengan vokal membentuk nominatif singular berakhiran **-s**:
 
@@ -39,7 +39,7 @@ Membentuk nominatif singular tanpa akhiran:
 **Perhatian!** Selain itu, terdapat nomina akar feminin bersuku kata tunggal berakhiran -ī yang nominatif singularnya berakhir dengan -s: mis. dhī f. "pikiran" -- Nom. sg.: dhīs = ⟪धीस्⟫. Lakṣmī (⟪लक्ष्मी⟫) f., tarī (⟪तरी⟫) f. "perahu" dan tantrī (⟪तन्त्री⟫) f. "senar" juga membentuk nominatif singular secara tidak beraturan dengan akhiran -s: lakṣmīs = ⟪लक्ष्मीस्⟫.
 :::
 
-## 3.2. Bildung  Feminina zu Maskulina
+## 3.2. Pembentukan  Feminina zu Maskulina
 
 ::: grammar-box
 **Kata benda maskulin berakhiran -a:**
@@ -51,7 +51,7 @@ Membentuk nominatif singular tanpa akhiran:
 (**-u-** berubah menjadi **-v-** sebelum vokal, oleh karena itu **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominativ Plural Maskulinum dan Femininum
+## 3.3. Nominatif Jamak Maskulin dan Feminin
 
 ::: grammar-box
 Akhiran nominatif plural pada maskulin dan feminin adalah **-as**.
@@ -87,7 +87,7 @@ devī + indrāṇī » devīndrāṇī "Indrāṇi adalah seorang dewi" = ⟪द
 ::: media
 ![](/images/lekt0301.webp)
 Fig.: Indra dan Indrāṇī di atas gajah Airavata, miniatur dari Rājasthān, 1670/80
-(Sumber gambar: [Details](/id/licenses#lekt0301))
+(Sumber gambar: [Detail](/id/licenses#lekt0301))
 :::
 
 ::: grammar-box
@@ -114,9 +114,9 @@ Untuk Sandhi ini, skema berikut berlaku:
 
 ::: media
 ![](/images/lekt0302.jpg)
-(Sumber gambar: [Details](/id/licenses#lekt0302))
+(Sumber gambar: [Detail](/id/licenses#lekt0302))
 :::
-Lihat pengurangan akar kata (Stammabstufung) ini nanti!
+Lihat pengurangan akar kata (Batangabstufung) ini nanti!
 
 mis.
 
@@ -177,7 +177,7 @@ dvijās + vaiśyāḥ » dvijā vaiśyāḥ "Kaum Vaiśya adalah mereka yang lah
 ::: media
 ![](/images/lekt0303.webp)
 Fig.: Durgā = ⟪दुर्गा⟫, Orissa
-(Sumber gambar: [Details](/images/lekt0303))
+(Sumber gambar: [Detail](/images/lekt0303))
 :::
 **sādhvī** f. = ⟪साध्वी⟫ : fem. dari sādhu.
 

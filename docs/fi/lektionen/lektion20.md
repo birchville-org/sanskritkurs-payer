@@ -144,7 +144,7 @@ Perinteisesti erotetaan:
 ![](/images/lekt2005.webp)
 Kuva: ⟪देवा⟫ ⟪यीश्वादयः⟫
 Jeesus ja muut jumalat, Ahmedabad
-(Kuvan lähde: [Details](/fi/licenses#lekt2005))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt2005))
 :::
 
 ## 20.4. Bahuvrīhi, jonka etuosassa on kasuusi
@@ -172,7 +172,7 @@ Esimerkki:
 ![](/images/lekt2001.webp)
 Kuva: ⟪इन्द्रो⟩ ⟪वज्रपाणिः⟫
 Siemreap (ក្រុងសៀមរាប), Kambodža, 900-luku jaa.
-(Kuvälähde: [Details](/fi/licenses#lekt2001))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt2001))
 :::
 ## 20.5. Bahuvrīhi adverbiaalisella etuosalla
 
@@ -248,7 +248,7 @@ Vaikka jokainen Bahuvrīhi voidaan ratkaista suhteellisella lauseella, ei jokais
 ::: media
 ![](/images/lekt2002.jpg)
 Kuv.: Hermann Jacobi
-(Kuvan lähde: [Details](/fi/licenses#lekt2002))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt2002))
 :::
 Tämä voi pitää paikkansa. Intialaiset kuitenkin pitävät monia asioita koristeellisina ja kuvailevina, mitä me pitäisimme "käsitteellisesti välttämättöminä tai tärkeinä."
 
@@ -262,7 +262,7 @@ Tämä voi pitää paikkansa. Intialaiset kuitenkin pitävät monia asioita kori
 ![](/images/lekt2008.webp)
 Kuvaus.: ⟪आश्रमः⟫
 Rishikesh = ⟪ऋषिकेश⟫. "Tämä on itse asiassa osa Ashramia Rishikeshissä, jossa Beatles asui. Tätä tiettyä osaa ei ollut olemassa heidän ollessaan siellä, mutta se näyttää kivalta."
-(Kuv lähde: [Details](/fi/licenses#lekt2008))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2008))
 :::
 ⟪कर⟫ ⟪३⟫ f. ⟪करी⟫ ⟪।⟫ ⟪करा⟫ : tekevä, tuottava, aiheuttava
 
@@ -491,7 +491,7 @@ Selitys: ⟪तपस्⟫ n. (deklinaatio myöhemmin): hehku, kuumuus, kärsim
 ![](/images/lekt2010.webp)
 Kuva: ⟪तपस्⟫
 Buddha ascetina ennen vapauttavaa ymmärrystä, Gandhara, 2./3. vuosisata
-(Kuv lähde: [Details](/fi/licenses#lekt2010))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2010))
 :::
 ⟪त्रिविधदुःखात्यन्तनिवृत्तिरत्यनपुरुषार्थः⟫ ⟪॥सांख्यसूत्र⟫ ⟪१⟫.⟪१॥⟫ (Katso Sāṃkhyajärjestelmästä Basham, Wonder s. 324f.)
 

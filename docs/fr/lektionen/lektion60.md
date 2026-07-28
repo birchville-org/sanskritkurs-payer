@@ -208,9 +208,9 @@ Voir les paradigmes dans Kielhorn, Grammatik § 124 :
 ## 60.5. Déclinaison des stems en -añc (-ac)
 
 ::: grammar-box
-**Les stems en -añc/-ac sont des composés de préfixes verbaux, etc., avec le nom radical de la racine ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "se mouvoir".**
+**Les thèmes en -añc/-ac sont des composés de préfixes verbaux, etc., avec le nom radical de la racine ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "se mouvoir".**
 :::
-### 60.5.1. Dreistämmige Stämme auf -añc
+### 60.5.1. Thèmes à trois syllabes en -añc
 
 ::: grammar-box
 **Éducation :**
@@ -259,7 +259,7 @@ Ici appartiennent :
 
 *   ⟪विष्वञ्च्⟫ 3 «allant dans toutes les directions»
 
-### 60.5.2. Zweistämmige Stämme auf -añc
+### 60.5.2. Les tribus à double racine en -añc
 
 ::: grammar-box
 **Éducation :**
@@ -301,7 +301,7 @@ Les directions cardinales
 | ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ « il souhaite voler » |
 | ⟪बुध्⟫ Caus. | ⟪बुबोधयिषति⟫ « il souhaite enseigner (éveiller à la connaissance) » |
 
-### 60.6.1. Bildung des Desiderativstammes
+### 60.6.1. Formation du radical du desideratif
 
 ::: grammar-box
 **Signification :**
@@ -324,13 +324,13 @@ Les règles concernant l'utilisation de la voyelle de liaison -i- sont indiquée
 1.  La racine est le plus souvent au niveau inférieur : ⟪जीव्⟫ » ⟪जिजीविष⟫-
 
     1.  la finale -i, -u est remplacée par -ī ou -ū, lorsqu'aucune voyelle de liaison ne suit :  
-        ⟪जि⟫ » ⟪जि⟫***⟪गी⟫***⟪ष⟫- « vouloir vaincre »  
-        ⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- « vouloir courir »
+        ⟪जि⟫ » ⟪जि⟫**:sig[⟪गी⟫]**⟪ष⟫- « vouloir vaincre »  
+        ⟪द्रु⟫ » ⟪दु⟫**:sig[⟪द्रू⟫]**⟪ष⟫- « vouloir courir »
 
     2.  la finale -ṛ, -ṝ est remplacée par -īr, après les labiales par -ūr, si aucune voyelle de liaison ne suit :  
-        ⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- « vouloir faire »  
-        ⟪मृ⟫ » ⟪मु⟫***⟪मूर्ष⟫***\- « être sur le point de mourir »  
-        ⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- « vouloir remplir »
+        ⟪कृ⟫ » ⟪चि⟫**:sig[⟪कीर्ष⟫]**\- « vouloir faire »  
+        ⟪मृ⟫ » ⟪मु⟫**:sig[⟪मूर्ष⟫]**\- « être sur le point de mourir »  
+        ⟪पॄ⟫ » ⟪पु⟫**:sig[⟪पूर्ष⟫]**\- « vouloir remplir »
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ et quelques autres racines en -ā, -e, -o ont un degré profond Ø :  
         ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
@@ -350,7 +350,7 @@ Les règles concernant l'utilisation de la voyelle de liaison -i- sont indiquée
         1.  obligatoire : racines de la forme i/u - consonne ainsi que (consonne -) ṛ/ḷ - consonne :
             ⟪इष्⟫ » ⟪एषिषिष⟫- « souhaiter, désirer »
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- « convenir, être approprié »
-            ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- « sourire, faire un sourire »
+            ⟪स्मि⟫ » ⟪सि⟫**:sig[⟪स्म⟫]**⟪यिष⟫- « sourire, faire un sourire »
 
         2.  optionnel : Racines de la forme Consonne - (Consonne -) i/u - Consonne sauf -v\_  
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- « vouloir étinceler »

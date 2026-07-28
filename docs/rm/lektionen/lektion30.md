@@ -123,7 +123,7 @@ L'optativ (⟪लिङ्⟫), l'imperfet (⟪लङ्⟫), l'aorist (⟪ल�
 :::
 ## 30.4. Furmaziun dal Optativ Present (⟪लिङ्⟫)
 
-### 30.4.1. Thematische Präsensklassen
+### 30.4.1. Classes da present tematic
 
 ::: grammar-box
 **avant las finas che cumenzan cun consonantas:**
@@ -180,7 +180,7 @@ Ezempels:
 | **3. Person:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
 
 :::
-### 30.4.2. Athematische Präsensklassen
+### 30.4.2. Classes da prezens atematicas
 
 ::: grammar-box
 **Parasmaipada:**

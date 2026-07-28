@@ -30,9 +30,9 @@ status: stable
 ::: media
 ![lekt4005.jpg](/images/lekt4005.webp)
 Fig.: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
-(Image source: [Details](/en/licenses#lekt4005))
+(Image source: [Detail](/en/licenses#lekt4005))
 :::
-## 40.2. Bildung  Verbformen  ersten Person Perfekt (⟪लिट्⟫)
+## 40.2. Pembentukan  Verbformen  ersten Person Perfekt (⟪लिट्⟫)
 
 Akhiran orang pertama (⟪तृतीयः⟫) dalam bentuk sempurna (⟪लिट्⟫)
 
@@ -69,7 +69,7 @@ Except before the ending -re, before which -i- must always occur, the connecting
 
 Dengan akar-akar ⟪अनिट्⟫ yang disebut opsional, vokal penghubung dapat disisipkan atau tidak secara opsional. (Daftar akar-akar ini dalam Kielhorn, Tata Bahasa hlm 92 § 298b,2,3)
 :::
-### 40.2.1. Perfekt Typ I: keine Stammabstufung
+### 40.2.1. Perfekt Typ I: keine Batangabstufung
 
 1.sg. = 3.sg.
 
@@ -104,7 +104,7 @@ Verbs that follow this type:
 *   1.sg.P ⟪आस⟫
 *   1.pl.P ⟪आसिम⟫ (a + as-i-ma)
 :::
-### 40.2.2. Perfekt Typ II: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 40.2.2. Perfekt Typ II: starker Batang Hochstufe, schwacher Batang Tiefstufe
 
 Verbs that follow this type:
 
@@ -128,11 +128,11 @@ Verbs that follow this type:
 
 *   1.pl.P ⟪मुमुहिम⟫ ⟪।⟫ ⟪मुमुह्म⟫
 :::
-### 40.2.3. Perfekt Typ III: Starker Stamm Hochstufe/Dehnstufe
+### 40.2.3. Perfekt Typ III: Starker Batang Hochstufe/Dehnstufe
 
 1.sg.P optionally high grade or lengthened grade
 
-#### 40.2.3.1. Perfekt Typ IIIa: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 40.2.3.1. Perfekt Typ IIIa: Starker Batang Hochstufe/Dehnstufe, schwacher Batang Tiefstufe
 
 Verbs that follow this type:
 
@@ -179,7 +179,7 @@ Verbs that follow this type:
 
 *   1.pl.Ā ⟪चकृमहे⟫
 :::
-#### 40.2.3.2. Perfekt Typ IIIb: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 40.2.3.2. Perfekt Typ IIIb: Starker Batang Hochstufe/Dehnstufe, schwacher Batang Hochstufe
 
 Verbs that follow this type:
 
@@ -211,7 +211,7 @@ Verbs that follow this type:
 
 *   1.pl.Ā ⟪सञ्चस्करिमहे⟫
 :::
-### 40.2.4. Perfekt Typ IV: Wurzeln auf -ā / -ai
+### 40.2.4. Perfekt Typ IV: Akarn auf -ā / -ai
 
 *   Strong stem:
     *   1.,3. sg. Parasemaip.: -au
@@ -234,7 +234,7 @@ Verbs that follow this type:
 
 1.sg.P. optionally high-grade or lengthened-grade
 
-#### 40.2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 40.2.5.1. Perfekt Typ Va: Konsonant-a-Konsonant, schwacher Batang Tiefstufe
 
 Verbs that follow this type:
 
@@ -310,7 +310,7 @@ Verbs that follow this type:
 
 *   1.pl.Ā ⟪पेचिमहे⟫
 :::
-#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+#### 40.2.5.3. Perfekt Typ Vc: Konsonant-a-Konsonant, schwacher Batang Hochstufe
 
 Verbs that follow this type:
 
@@ -327,7 +327,7 @@ Verbs that follow this type:
 
 *   1.pl.Ā ⟪चक्रमिमहे⟫
 :::
-### 40.2.6. Besondere Perfekt-Bildungen
+### 40.2.6. Besondere Perfekt-Pembentukanen
 
 ⟪विद्⟫ 2nd person present perfect:
 
@@ -352,7 +352,7 @@ Verbs that follow this type:
 
 *   1.pl.P ⟪जिग्यिम⟫ (ji-gi + i + ma !)
 :::
-## 40.3. Bildung  Verbformen  ersten Person  periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
+## 40.3. Pembentukan  Verbformen  ersten Person  periphrastischen Perfekt (⟪अनुप्रयोगलिट्⟫)
 
 The periphrastic perfect is formed from:
 
@@ -386,7 +386,7 @@ The periphrastic perfect is formed from:
 ::: grammar-box
 Karena kata kerja terbatas (kata kerja yang dikonjugasikan) juga menyatakan agen (⟪कर्तृ⟫), kata "saya" atau "kami" dalam kalimat verbal non-pasif dengan kata kerja terbatas tidak perlu dinyatakan secara tambahan oleh kata ganti orang.
 :::
-## 40.5. Personalpronomen (⟪पुरुषार्थकसर्वनाम⟫)  1. Person Singular dan Plural
+## 40.5. Personalpronomen (⟪पुरुषार्थकसर्वनाम⟫)  1. Person Tunggal dan Jamak
 
 ::: grammar-box
 Bentuk kata ganti orang (kata ganti orang) adalah sama untuk semua jenis kelamin.
@@ -434,7 +434,7 @@ e.g. ⟪मत्पुस्तकम्⟫ "my book" ; ⟪अस्मद्�
 
 ⟪पुस्तक⟫ m.n. Manuscript, Book
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : berada dalam urutan yang benar, sesuai (Lokatif) ; membentuk bentuk, menyusun; bertekad untuk, merendahkan diri untuk (Dativ)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : berada dalam urutan yang benar, sesuai (Lokatif) ; membentuk bentuk, menyusun; bertekad untuk, merendahkan diri untuk (Datif)
 
 ::: indent
 Perf. II ⟪चकॢपे⟫ opsional ⟪अनिट्⟫  
@@ -481,7 +481,7 @@ therefrom:
 ::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
 Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
-(Sumber gambar: [Details](/en/licenses#lekt4003))
+(Sumber gambar: [Detail](/en/licenses#lekt4003))
 :::
 
 ::: indent
@@ -490,7 +490,7 @@ Fig.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 ::: media
 ![lekt4002.jpg](/images/lekt4002.webp)
 Fig.: ⟪तीर्थङ्करः⟫
-(Sumber gambar: [Details](/en/licenses#lekt4002))
+(Sumber gambar: [Detail](/en/licenses#lekt4002))
 :::
 ⟪अव⟫ Pref.: ke bawah, menurun, menjauh, dari-
 
@@ -504,7 +504,7 @@ therefrom:
 ::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
 Fig.: ⟪विष्णोर्दशावताराः⟫
-(Sumber gambar: [Details](/en/licenses#lekt4001))
+(Sumber gambar: [Detail](/en/licenses#lekt4001))
 :::
 ⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : tidur, tertidur
 
@@ -526,7 +526,7 @@ therefrom:
 ::: media
 ![lekt4004.jpg](/images/lekt4004.webp)
 Fig.: ⟪स्वपन्ति⟫
-(Image source: [Details](/en/licenses#lekt4004))
+(Image source: [Detail](/en/licenses#lekt4004))
 :::
 ## 40.7. Latihan
 

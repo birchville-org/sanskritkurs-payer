@@ -19,7 +19,7 @@ status: stable
 
 ## 60.2. Bentuk Dual  reduplizierten Perfekt (⟪द्वित्वलिट्⟫)
 
-### 60.2.1. Typ 1: keine Stammabstufung
+### 60.2.1. Typ 1: keine Batangabstufung
 
 ⟪बन्ध्⟫ 9P "binden"
 
@@ -39,7 +39,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बभाषाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बभाषाते⟫ |
 :::
-### 60.2.2. Typ 2: starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+### 60.2.2. Typ 2: starker Batang Hochstufe, schwacher Batang Tiefstufe
 
 ⟪भिद्⟫ 7U "to split"
 
@@ -50,9 +50,9 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪बिभिदथुर्⟫ | ⟪बिभिदाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪बिभिदतुर्⟫ | ⟪बिभिदाते⟫ |
 :::
-### 60.2.3. Typ 3: Starker Stamm Hochstufe/Dehnstufe
+### 60.2.3. Typ 3: Starker Batang Hochstufe/Dehnstufe
 
-#### 60.2.3.1. Typ 3a: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Tiefstufe
+#### 60.2.3.1. Typ 3a: Starker Batang Hochstufe/Dehnstufe, schwacher Batang Tiefstufe
 
 ⟪नी⟫ 1U "to lead"
 
@@ -81,7 +81,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪चक्रथुर्⟫ | ⟪चक्राथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪चक्रतुर्⟫ | ⟪चक्राते⟫ |
 :::
-#### 60.2.3.2. Typ 3b: Starker Stamm Hochstufe/Dehnstufe, schwacher Stamm Hochstufe
+#### 60.2.3.2. Typ 3b: Starker Batang Hochstufe/Dehnstufe, schwacher Batang Hochstufe
 
 ⟪स्मृ⟫ 1P "to make present"
 
@@ -92,7 +92,7 @@ status: stable
 | 2\. ⟪मध्यमः⟫ | ⟪सस्मरथुर्⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪सस्मरतुर्⟫ |
 :::
-### 60.2.4. Typ 4: Wurzeln auf -ā / -ai
+### 60.2.4. Typ 4: Akarn auf -ā / -ai
 
 ⟪दा⟫ 3U "to give"
 
@@ -107,7 +107,7 @@ identik dengan bentuk-bentuk yang sesuai dari Indikatif Sekarang!
 :::
 ### 60.2.5. Typ 5: Konsonant-a-Konsonant
 
-#### 60.2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Stamm Tiefstufe
+#### 60.2.5.1. Typ 5a: Konsonant-a-Konsonant, schwacher Batang Tiefstufe
 
 ⟪गम्⟫ 1U "to go"
 
@@ -129,7 +129,7 @@ identik dengan bentuk-bentuk yang sesuai dari Indikatif Sekarang!
 | 2\. ⟪मध्यमः⟫ | ⟪पेचथुर्⟫ | ⟪पेचाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪पेचतुर्⟫ | ⟪पेचाते⟫ |
 :::
-#### 60.2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Stamm Hochstufe
+#### 60.2.5.3. Typ 5c: Konsonant-a-Konsonant, schwacher Batang Hochstufe
 
 ⟪क्रम्⟫ 1U "to stride"
 
@@ -198,19 +198,19 @@ Paradigms see Kielhorn, Grammar § 124:
 
 ::: media
 ![](/images/lekt6001.webp)
-(Image source: [Details](/en/licenses#lekt6001))
+(Image source: [Detail](/en/licenses#lekt6001))
 :::
 
 ::: media
 ![](/images/lekt6002.webp)
-(Image source: [Details](/en/licenses#lekt6002))
+(Sumber gambar: [Detail](/en/licenses#lekt6002))
 :::
-## 60.5. Deklination  Stämme auf -añc (-ac)
+## 60.5. Deklinasi: Stamm yang berakhiran -añc (-ac)
 
 ::: grammar-box
 **Kata benda yang berakhiran -añc/-ac adalah gabungan dari prefiks, dll., dengan kata dasar akar dari akar ⟪अञ्च्⟫ / ⟪अच्⟫ 1U "bergerak".**
 :::
-### 60.5.1. Dreistämmige Stämme auf -añc
+### 60.5.1. Stamm tiga bentuk yang berakhiran -añc
 
 ::: grammar-box
 **Formation:**
@@ -236,12 +236,12 @@ Example: ⟪प्रतीची⟫
 
 ::: media
 ![](/images/lekt6003.webp)
-(Image source: [Details](/en/licenses#lekt6003))
+(Image source: [Detail](/en/licenses#lekt6003))
 :::
 
 ::: media
 ![](/images/lekt6004.webp)
-(Image source: [Details](/en/licenses#lekt6004))
+(Image source: [Detail](/en/licenses#lekt6004))
 :::
 Here belong:
 
@@ -259,7 +259,7 @@ Here belong:
 
 *   ⟪विष्वञ्च्⟫ 3 "going in all directions"
 
-### 60.5.2. Zweistämmige Stämme auf -añc
+### 60.5.2. Suku-suku Dua Batang pada -añc
 
 ::: grammar-box
 **Formation:**
@@ -281,7 +281,7 @@ Paradigm ⟪प्राञ्च्⟫ see above!
 | ⟪प्रत्यञ्च्⟫ 3:br"rückwärts,:brwestlich" | ![](/images/lekt6005.jpg) | ⟪प्राञ्च्⟫ 3:br"vorwärts gerichtet,:bröstlich" |
 |   | ⟪दक्षिण⟫ 3:brrechts,:brsüdlich |   |
 
-(Image source: [Details](/en/licenses#lekt6005))
+(Image source: [Detail](/en/licenses#lekt6005))
 
 ## 60.6. Desiderativum (⟪सन्⟫)
 
@@ -301,7 +301,7 @@ Paradigm ⟪प्राञ्च्⟫ see above!
 | ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "ia ingin mencuri" |
 | ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "ia ingin menginstruksikan (untuk membangkitkan pengetahuan)" |
 
-### 60.6.1. Bildung  Desideratifstammes
+### 60.6.1. Pembentukan  Desideratifstammes
 
 ::: grammar-box
 **Roots of Present Classes 1 - 9:**
@@ -324,13 +324,13 @@ Lihat Kielhorn, Tata Bahasa §§ 443 - 445 untuk aturan penggunaan vokal penghub
 1.  Akar kata sebagian besar berada dalam tingkat guṇa: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
 
     1.  akhiran -i, -u diganti dengan -ī atau -ū masing-masing, jika tidak ada vokal penghubung yang mengikuti:  
-⟪जि⟫ » ⟪जि⟫***⟪गी⟫***⟪ष⟫- "ingin menaklukkan"  
-⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- "ingin berlari"  
+⟪जि⟫ » ⟪जि⟫**:sig[⟪गी⟫]**⟪ष⟫- "ingin menaklukkan"  
+⟪द्रु⟫ » ⟪दु⟫**:sig[⟪द्रू⟫]**⟪ष⟫- "ingin berlari"  
 
     2.  akhiran -ṛ, -ṝ diganti dengan -īr, setelah konsonan labial menjadi -ūr, jika tidak ada vokal penghubung yang mengikuti:  
-⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- "ingin melakukan"  
-⟪मृ⟫ » ⟪मु⟫***⟪मूर्ष⟫***\- "akan mati"  
-⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "ingin mengisi"  
+⟪कृ⟫ » ⟪चि⟫**:sig[⟪कीर्ष⟫]**\- "ingin melakukan"  
+⟪मृ⟫ » ⟪मु⟫**:sig[⟪मूर्ष⟫]**\- "akan mati"  
+⟪पॄ⟫ » ⟪पु⟫**:sig[⟪पूर्ष⟫]**\- "ingin mengisi"  
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ dan beberapa akar kata lain yang berakhiran -ā, -e, -o memiliki tingkat nol:  
 ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
@@ -350,7 +350,7 @@ Lihat Kielhorn, Tata Bahasa §§ 443 - 445 untuk aturan penggunaan vokal penghub
         1.  wajib: akar kata dengan bentuk i/u - Konsonan dan (Konsonan -) ṛ/ḷ - Konsonan:  
 ⟪इष्⟫ » ⟪एषिषिष⟫- "ingin menginginkan"  
 ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "ingin sesuai"  
-⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- "ingin tersenyum"  
+⟪स्मि⟫ » ⟪सि⟫**:sig[⟪स्म⟫]**⟪यिष⟫- "ingin tersenyum"  
 
         2.  opsional: akar kata dengan bentuk Konsonan - (Konsonan -) i/u - Konsonan kecuali -v\_  
 ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "ingin berkilau"
@@ -379,7 +379,7 @@ Daftar dalam Kielhorn, Tata Bahasa § 452:
 
 ::: media
 ![](/images/lekt6006.webp)
-(Image source: [Details](/en/licenses#lekt6006))
+(Image source: [Detail](/en/licenses#lekt6006))
 :::
 ### 60.6.2. Konjugation  Desideratifs (⟪सन्⟫)
 
@@ -419,17 +419,17 @@ A) Study in Kielhorn, Grammar § 451 the irregular desiderative formations for v
 
 ::: media
 ![](/images/lekt6007.webp)
-(Image source: [Details](/en/licenses#lekt6007))
+(Image source: [Detail](/en/licenses#lekt6007))
 :::
 
 ::: media
 ![](/images/lekt6008.webp)
-(Image source: [Details](/en/licenses#lekt6008))
+(Image source: [Detail](/en/licenses#lekt6008))
 :::
 
 ::: media
 ![](/images/lekt6009.webp)
-(Image source: [Details](/en/licenses#lekt6009))
+(Image source: [Detail](/en/licenses#lekt6009))
 :::
 B) Determine and translate the following forms without aids:
 

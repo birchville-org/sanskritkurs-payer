@@ -86,7 +86,7 @@ Inoltre, si applicano le seguenti leggi del Wortsandhi.
 ::: grammar-box
 1. **-s + s- » -ts- oppure (non facoltativo!) -ss-** (così nella 2ª classe del presente)
    Esempi:
-   * **⟪वस्⟫** 1P: Futuro: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
+   * **⟪वस्⟫** 1P: Futurooo: ⟪वस्⟫ + ⟪स्य⟫ + ⟪ति⟫ » **⟪वत्स्यति⟫** (va**ts**yati)
    * **⟪वस्⟫** 2Ā: ⟪वस्⟫ + ⟪से⟫ » **⟪वस्से⟫** (va**ss**e)
 2. **-ṣ + s- » -kṣ-**
    ad esempio **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i)
@@ -157,9 +157,9 @@ Inoltre, si applicano le seguenti leggi del Wortsandhi.
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Presente** :br⟪लट्⟫ | *⟪असि⟫* | *⟪स्थ⟫* |
-| **Imperfetto** :br⟪लङ्⟫ | *⟪आसीस्⟫* | *⟪आस्त⟫* |
-| **Ottativo** :br⟪विधिलिङ्⟫ | *⟪स्यास्⟫* | *⟪स्यात⟫* |
+| **Indikativ Presente** :br⟪लट्⟫ | *:sig[⟪असि⟫]* | *:sig[⟪स्थ⟫]* |
+| **Imperfetto** :br⟪लङ्⟫ | *:sig[⟪आसीस्⟫]* | *:sig[⟪आस्त⟫]* |
+| **Ottativo** :br⟪विधिलिङ्⟫ | *:sig[⟪स्यास्⟫]* | *:sig[⟪स्यात⟫]* |
 :::
 ⟪तत्त्वमसि⟫
 
@@ -240,7 +240,7 @@ di cui:
 Fig.: ⟪रेल्यानम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4403))
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : giacere. Questa radice ha in tutte le forme del tema presente **grado alto:** 1.sg.Ind.Pres.Ā ***⟪शेये⟫*** (śe + e). Le seguenti forme sono particolarmente da notare: 3.pl.Ind.Pres.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
+**⟪शी⟫** 2Ā ⟪शेते⟫ : giacere. Questa radice ha in tutte le forme del tema presente **grado alto:** 1.sg.Ind.Pres.Ā **:sig[⟪शेये⟫]** (śe + e). Le seguenti forme sono particolarmente da notare: 3.pl.Ind.Pres.Ā **:sig[⟪शेरते⟫]**, 3.pl.Impf.Ā **:sig[⟪अशेरत⟫]**
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -281,13 +281,13 @@ Fig.: ⟪नन्दी⟫
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : avere la propria gioia in (⟪द्वितीयया⟫), salutare con gioia qualcuno, dare il benvenuto
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : tenere, portare; offrire, concedere; tenere insieme, domare, frenare, sottomettere
+**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : tenere, portare; offrire, concedere; tenere insieme, domare, frenare, sottomettere
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ ma: ⟪नि⟫***⟪यम⟫***⟪यति⟫  
+Kaus. ⟪यामयति⟫ ma: ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Assol. -⟪यम्य⟫
@@ -331,7 +331,7 @@ Fig.: ⟪यत्नेन⟫
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. ***⟪रम्भ⟫***⟪यति⟫  
+Kaus. **:sig[⟪रम्भ⟫]**⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Assol. -⟪रभ्य⟫

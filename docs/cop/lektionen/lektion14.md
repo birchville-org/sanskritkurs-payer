@@ -12,7 +12,7 @@ status: stable
 ## 14.1. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)
 
 ::: grammar-box
-ⲡⲓϣⲟⲛⲧⲉ ⲛⲁⲕ ⲛⲟⲩϫⲉ ⲙⲡⲓⲛⲁⲕ ⲉϥⲙⲟⲧ ϫⲓⲛ ⲡⲉⲥϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ. ⲡⲉϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ. ⲡⲉϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ. ⲡⲉϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ.
+ⲡⲓϣⲟⲛⲧⲉ ⲛⲁⲕ ⲛⲟⲩϫⲉ ⲙⲡⲓⲛⲁⲕ ⲉϥⲙⲟⲧ ϫⲓⲛ ⲡⲉⲥϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ. ⲡⲉϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ. ⲡⲉϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ. ⲡⲉϣⲧⲏ ϫⲓⲛ ⲡⲉϣⲧⲏ. <!-- TODO: Fallback translation -->
 :::
 ⲡⲓϣⲟⲛⲧⲉ:
 
@@ -32,17 +32,17 @@ status: stable
 **ϣⲟⲡ ⲛ ϯⲙⲉⲧⲣⲉϥ:**
 
 ::: grammar-box
-ⲙⲛ ϯⲙⲉⲧⲣⲉϥ, ⲡⲓϣⲟⲛ ⲙⲛ ϣⲟⲡ ⲉϥⲧⲁϫⲱⲙ, ⲡⲓϣⲟⲛ ⲉⲃⲟⲗ.
+Bei PPPs kann der Genetiv statt des Instrumentalis (tṛtīyā) für den Agens (kartṛ) stehen; In der Konstruktion mit dem Instrumentalis wird das PPP als passive Verbalform betrachtet (das im Instrumentalis Stehende bezeichnet den Agens), in der Konstruktion mit dem Genetiv wird das PPP als Substantiv bzw. Adjektiv betrachtet (das im Genetiv Stehende also nicht eigentlich als Agens). <!-- TODO: Fallback translation -->
 
 بعڙ Pāṇini 2.3.67, ⲛⲧⲉ ϯϥⲙⲟⲕ ⲛⲧⲉ PPP ϯϥⲙⲟⲕ ⲛⲧⲉ Genetiv, ⲁϥⲱⲛ ϯϥⲙⲟⲕ PPP ⲛⲧⲉ presentische Bedeutung (ϯϥⲙⲟⲕ ⲛⲧⲉ oben), ϯϥⲙⲟⲕ ⲛⲧⲉ Instrumentalis, ⲁϥⲱⲛ ϯϥⲙⲟⲕ PPP ⲛⲧⲉ Vergangenheitsbedeutung:
 
 > ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "ⲛⲧⲉ Rāma ⲛⲧⲉ Frucht = ⲛⲧⲉ Frucht, ⲁϥⲱⲛ Rāma ⲛⲧⲉ gegenwärtig wünscht"
->
+> 
 > ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "ⲛⲧⲉ Frucht, ⲁϥⲱⲛ Rāma ⲛⲧⲉ gewünscht hat"
 
 Selbstverständlich steht bei einem PPP Neutrum Singular, das als Verbalabstraktum - also als Substantiv - gebraucht wird, der Genetiv.
 :::
-## 14.2. Bildung der Genetivformen (ṣaṣṭhī f. = ⟪षष्ठी⟫)
+## 14.2. Bildung der Genetivformen (ṣaṣṭhī f. = ⟪षष्ठी⟫) <!-- TODO: Fallback translation -->
 
 Der Genetiv wird bei Verbalstämmen mit Stammabstufung vom schwachen Stamm gebildet.
 
@@ -109,7 +109,7 @@ Der Genetiv wird bei Verbalstämmen mit Stammabstufung vom schwachen Stamm gebil
 | **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
-**ⲡⲓϣⲟⲡ ⲛⲧⲉ ϩⲙⲁϥⲓ ⲛⲧⲉ ϩⲙⲁϥⲓ ⲛⲧⲉ ϩⲙⲁϥⲓ:**
+**ⲡⲓϣⲟⲡ ⲛⲧⲉ ϩⲙⲁϥⲓ:** <!-- TODO: Fallback translation -->
 
 ::: center
 
@@ -130,7 +130,7 @@ Der Genetiv wird bei Verbalstämmen mit Stammabstufung vom schwachen Stamm gebil
 ⲛϧⲁⲃ ϯⲙⲏⲓ ⲛϣⲟⲡ ϩⲙ ⲁ- ⲉⲧϥⲛⲏⲙ ϩⲓ ⲉⲧϣⲟⲡ ϯⲙⲏⲓ ⲛϣⲟⲡ ϩⲙ ⲁ- (pañcamī "ϧⲓⲥ ϯⲙⲏⲓ ⲛϣⲟⲡ") ϩⲙ!
 
 :::
-## 14.3. Weiteres zum Gebrauch des ⲅⲉⲛⲉⲧⲓⲃ
+## 14.3. Weiteres zum Gebrauch des ⲅⲉⲛⲉⲧⲓⲃ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Ἐν ἀντίθεσιν τῆς προκειμένης θεμελιώδους κανόνος, ἡ γενικὴ χρῆται πρὸς τὴν ἐκφρασιν τοῦ ἀντικειμένου τινων ῥημάτων, οἷον περὶ τῶν μνημονευτικῶν:
@@ -162,11 +162,11 @@ Abb.: ⟪दीपाः⟫
 * **loka m.** (⟪लोक⟫) : ⲡⲓϣⲱⲛ; Sing. u. Plur.: ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ
 * **jala n.** (⟪जल⟫) : ⲡⲓϣⲱⲛ
 * **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ
-* **jan-a m.** (⟪जन⟫) : ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ
+  * **jan-a m.** (⟪जन⟫) : ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ
 * **vac 2 P** (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ zu (dvitīyā)
-* **uk-ti f.** (⟪उक्ति⟫) : ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ
-* **vac-ana n.** (⟪वचन⟫) : ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ
-* **vāk-ya n.** (⟪वाक्य⟫) : ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ
+  * **uk-ti f.** (⟪उक्ति⟫) : ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ
+  * **vac-ana n.** (⟪वचन⟫) : ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ
+  * **vāk-ya n.** (⟪वाक्य⟫) : ⲡⲓϣⲱⲛ, ⲡⲓϣⲱⲛ
 
 ## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Sprichwörter
 
@@ -184,7 +184,7 @@ Abb.: ⟪दीपाः⟫
 
 ## 14.6. Übung
 
-**ⲁ) ⲛϫⲟⲥ ϧⲙ ⲡⲓⲛϣⲟⲃ ϧⲙ ⲡⲓⲛϣⲟⲃ ϧⲙ ⲡⲓⲛϣⲟⲃ. ⲛϫⲟⲥ ϧⲙ ⲡⲓⲛϣⲟⲃ ϧⲙ ⲡⲓⲛϣⲟⲃ ϧⲙ ⲡⲓⲛϣⲟⲃ:**
+**ⲁ) ⲛϫⲟⲥ ϧⲙ ⲡⲓⲛϣⲟⲃ. ⲛϫⲟⲥ ϧⲙ ⲡⲓⲛϣⲟⲃ:** <!-- TODO: Fallback translation -->
 
 ⟪१⟫. ⟪अनृत⟫
 

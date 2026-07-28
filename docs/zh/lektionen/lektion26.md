@@ -64,7 +64,7 @@ Abb.: Hermann Graßmann
 
 Beispiel: s. unten Futur von ⟪मन्⟫ <!-- TODO: Fallback translation -->
 :::
-## 26.6. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.)
+## 26.6. Gebrauch des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Das Einfache Futur (⟪ऌत्⟫, ⟪भविष्यन्ती⟫ f.) drückt aus:** <!-- TODO: Fallback translation -->
@@ -87,7 +87,7 @@ z. B. ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ 
 Abb.: ⟪व्रतं⟫ ⟪करिष्यन्देवगृहं⟫ ⟪गच्छति⟫
 (Bildquelle: [Details](/licenses#lekt2602)) <!-- TODO: Fallback translation -->
 :::
-## 26.7. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.)
+## 26.7. Bildung des einfachen Futurs (⟪ऌत्⟫, ⟪भविष्यन्ती⟫  f.) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Einfaches Futur:** <!-- TODO: Fallback translation -->

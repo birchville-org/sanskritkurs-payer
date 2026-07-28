@@ -36,7 +36,7 @@ Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man
 
 Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫** <!-- TODO: Fallback translation -->
 :::
-## 22.2. Bildung des Absolutivums
+## 22.2. Bildung des Absolutivums <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Bildung des Absolutivums** <!-- TODO: Fallback translation -->

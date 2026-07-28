@@ -23,7 +23,7 @@ Selitykset:
 
 \-⟪अग्नि⟫ Nominatiivi/akkusatiivin yksikkö neutrinä sanalle ⟪अग्नि⟫ mask.
 
-\-⟪गु⟫ Nominatiivi/akkusatiivin yksikkö neutrinä sanoille ⟪गो⟫ mask./fem. "lehmä"
+\-:sig[⟪गु⟫] Nominatiivi/akkusatiivin yksikkö neutrinä sanoille ⟪गो⟫ mask./fem. "lehmä"
 
 ::: media
 ![](/images/lekt3801.webp)
@@ -56,7 +56,7 @@ Esimerkit:
 ⟪राजन्⟫ m. "kuningas"
 
 *   vahva vartalo: ⟪राजान्⟫
-*   keskitaso vartalo: ⟪राज⟫
+*   keskitaso vartalo: :sig[⟪राज⟫]
 *   heikoin vartalo: ⟪राज्ञ्⟫
 
 ⟪सीमन्⟫ f. "raja"
@@ -95,7 +95,7 @@ Esimerkit:
 ::: media
 ![](/images/lekt3803.webp)
 Kuva: ⟪सीमा⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3803))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3803))
 :::
 ### 38.3.2. Konsonantin jälkeen päättyvät substantiivit -man tai -van
 
@@ -195,14 +195,14 @@ Esimerkki:
 ::: media
 ![](/images/lekt3806.webp)
 Kuv.: ⟪हस्ती⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt3806))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt3806))
 :::
 ⟪हस्तवन्त्⟫ : jolla on (ihmisen) kädet
 
 ::: media
 ![](/images/lekt3807.webp)
 Kuv.: ⟪हस्तवान्⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt3807))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt3807))
 :::
 
 ::: grammar-box
@@ -236,7 +236,7 @@ Luonnollisesti saman voi ilmaista myös ⟪बहुव्रीहि⟩ avulla
 ::: media
 ![](/images/lekt3808.jpg)
 Kuva: ⟪आसीन्महात्मा⟫ ⟪गन्धी⟫ ⟪नाम⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3808))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3808))
 :::
 ## 38.6. Syntaktista huomiota ⟪आत्मन्⟫:n suhteen
 
@@ -320,7 +320,7 @@ siitä:
 ::: media
 ![](/images/lekt3804.webp)
 Kuv.: ⟪गौतमबुद्धस्य⟫ ⟪महापरिनिर्वाणम्⟫
-(Kuvälähde: [Details](/fi/licenses#lekt3804))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt3804))
 :::
 ⟪मिह्⟫ 1P ⟪मेहति⟫ : virtsata, pissata, siittää
 
@@ -337,14 +337,14 @@ siitä:
 :::
 ⟪सुत⟫ m.: Poika
 
-⟪राजन्⟫ m.: Kuninkaan valta (Intian kuninkaudesta ks. Basham, Ihme s. 82–94). Kompositumin päätteenä (erityisesti ⟪तत्पुरुष⟫) yleensä: -⟪राज⟫ m. (kuten ⟪देव⟫)
+⟪राजन्⟫ m.: Kuninkaan valta (Intian kuninkaudesta ks. Basham, Ihme s. 82–94). Kompositumin päätteenä (erityisesti ⟪तत्पुरुष⟫) yleensä: -:sig[⟪राज⟫] m. (kuten ⟪देव⟫)
 
 ::: indent
 Nainenpääte:
 
 ⟪राज्ञी⟫ f.: Drottning, kuninkaan vaimo
 
-von ⟪राज⟫ :
+von :sig[⟪राज⟫] :
 
 ⟪राज्य⟫ 3: kuninkaallinen; n. kuningaskunta, kunta, valtakunta
 :::
@@ -398,13 +398,13 @@ siitä:
 ::: media
 ![](/images/lekt3810.webp)
 Kuv.: ⟪अशोकवृक्षः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt3810))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt3810))
 :::
 
 ::: media
 ![](/images/lekt3811.webp)
 Kuva: ⟪अशोकसाम्राज्यम्⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3811))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3811))
 :::
 ## 38.10. Harjoitus
 
@@ -449,7 +449,7 @@ A) Täytä seuraavissa lauseissa sulkulausekkeessa olevien sanojen vastaavat muo
 ::: media
 ![](/images/lekt3812.webp)
 Kuva: ⟪विनोदः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3812))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3812))
 :::
 ⟪अट्⟫ 1P ⟪अटति⟫ : kulkea ympäri
 
@@ -477,7 +477,7 @@ Inf. ⟪तरितुम्⟫ ⟪।⟫ ⟪तरीतुम्⟫
 ::: media
 ![](/images/lekt3813.webp)
 Kuva: ⟪वाराणस्यां⟫ ⟪गङ्गातीरे⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3813))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3813))
 :::
 ⟪एकैकशस्⟫ Adv.: kerrallaan
 
@@ -494,7 +494,7 @@ Inf. ⟪गणयितुम्⟫
 ::: media
 ![](/images/lekt3814.webp)
 Kuva: ⟪गणयां⟫ ⟪चक्रुः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3814))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3814))
 :::
 ⟪क्रुश्⟫ 1P ⟪क्रोशति⟫: huutaa, valittaa
 
@@ -555,37 +555,37 @@ Inf. ⟪सर्तुम्⟫
 
 :sig[⟪दश⟫] ⟪मूढाः⟫
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ :sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ :sig[⟪दश⟫] ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ :sig[⟪बाहुभ्यां⟫] ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ :sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ :sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ :sig[⟪नवै⟫]⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ :sig[⟪वयम्⟫] ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ :sig[⟪स्मः⟫] ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ :sig[⟪गवेषयत⟫] ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫:sig[⟪मेकैको⟫] ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ :sig[⟪समजनि⟫] ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫:sig[⟪स्तरसा⟫] ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ :sig[⟪यूयम्⟫] ⟪।⟫ :sig[⟪युष्माकमे⟫]⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ :sig[⟪सर्वे⟫] ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ :sig[⟪जिज्ञासमान⟫]⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ :sig[⟪नवै⟫]⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ :sig[⟪वयम्⟫] :sig[⟪दश⟫] ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ :sig[⟪स्मः⟫] ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ :sig[⟪गवेषयत⟫] ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫:sig[⟪मेकैको⟫] ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ :sig[⟪समजनि⟫] ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫:sig[⟪स्तरसा⟫] ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ :sig[⟪यूयम्⟫] ⟪।⟫ :sig[⟪युष्माकमे⟫]⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
 Selitykset:
 
-⟪दश⟫ Nominatiivi-akkusatiivin monikko maskuliini-nainen-neutraali. Sanaan ⟪दशन्⟫ "kymmenen"
+:sig[⟪दश⟫] Nominatiivi-akkusatiivin monikko maskuliini-nainen-neutraali. Sanaan ⟪दशन्⟫ "kymmenen"
 
 ⟪बाहुभ्याम्⟫ Instrumentaali-datiivi-ablatiivin duali. Sanaan ⟪बाहु⟫ maskuliini. "Käsi"
 
-⟪सर्वे⟫ Nominatiivin monikko maskuliini. Sanaan ⟪सर्व⟫ 3 "jokainen, kaikki"
+:sig[⟪सर्वे⟫] Nominatiivin monikko maskuliini. Sanaan ⟪सर्व⟫ 3 "jokainen, kaikki"
 
-⟪जिज्ञासमान⟫ Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "tunnustaa haluavaksi, tietää haluavaksi"
+:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "tunnustaa haluavaksi, tietää haluavaksi"
 
 ⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "yhdeksän"
 
-⟪वयम्⟫ Nom.pl. "me"
+:sig[⟪वयम्⟫] Nom.pl. "me"
 
 ⟪स्मस्⟫ 1.pl.Ind.Präs.P zu ⟪अस्⟫ 2P
 
-⟪गवेषयत⟫ 2.pl.imperatiivi preesens
+:sig[⟪गवेषयत⟫] 2.pl.imperatiivi preesens
 
 ⟪एकैक⟫ "yksittäin"
 
-⟪समजनि⟫ 3.sg.passiivi aoristus verbistä ⟪जन्⟫
+:sig[⟪समजनि⟫] 3.sg.passiivi aoristus verbistä ⟪जन्⟫
 
 ⟪तरसा⟫ instr. sg. verbistä ⟪तरस्⟫ n. "energia", adverbialinen käyttö: "nopeasti, voimakkaalla tavalla"
 
-⟪यूयम्⟫ Nom.pl. "he"
+:sig[⟪यूयम्⟫] Nom.pl. "he"
 
-⟪युष्माकम्⟫ Gen.pl. sanan ⟪यूयम्⟫
+⟪युष्माकम्⟫ Gen.pl. sanan :sig[⟪यूयम्⟫]
 
 ::: deleteme-box
 

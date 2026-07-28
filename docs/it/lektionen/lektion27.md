@@ -93,7 +93,7 @@ Ulteriori informazioni sull'uso del Locativo più avanti.
 
 **Le desinenze regolari del Locativo (⟪सप्तमी⟫) sono:**
 *   **Singolare: -i**
-*   **Plurale: -su**
+*   **Pluraleee: -su**
 
 **Si notino le variazioni fonetiche prima di -su, nonché la possibile cerebralizzazione di -su in -ṣu!**
 
@@ -155,25 +155,25 @@ Ulteriori informazioni sull'uso del Locativo più avanti.
 :::
 **Stampato in rosso**: casi forti (con ablaut del tema).
 
-## 27.4. Un verso con tutte le forme declinative (Singolare) per ⟪राम⟫
+## 27.4. Un verso con tutte le forme declinative (Singolare) per :sig[⟪राम⟫]
 
 ::: media
 ![](/images/lekt2708.webp)
-Fig.: ⟪रामे⟫ ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ⟪राम⟫ ⟪मामुद्धर⟫ ⟪॥⟫
+Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt2708))
 :::
-*⟪रामो⟫* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *⟪रामं⟫* ⟪रमेशं⟫ ⟪भजे⟫:br *⟪रामेणा⟫*⟪भिहता⟫ ⟪निशाचरचमू⟫ *⟪रामाय⟫* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *⟪रामान्ना⟫*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *⟪रामस्य⟫* ⟪दासोऽस्म्यहम्⟫:br *⟪रामे⟫* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *⟪राम⟫* ⟪मामुद्धर⟫ ⟪॥⟫
+*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟫:br *:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟫:br *:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *:sig[⟪राम⟫]* ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Traduzione:**
-1. **Nominativo:** Rāma, il gioiello (⟪मणि⟫ m.) tra i re (⟪राजन्⟫ m.) trionfa sempre (⟪सदा⟫).
+1. **Nominativooo:** Rāma, il gioiello (⟪मणि⟫ m.) tra i re (⟪राजन्⟫ m.) trionfa sempre (⟪सदा⟫).
 2. **Accusativo:** Io amo (⟪भज्⟫ 1U) Rāma, il signore e marito (⟪ईश⟫ m.) di Ramā (= Lakṣmī).
 3. **Strumentale:** Rāma ha ucciso l'esercito (⟪चमू⟫ f.) dei vagabondi notturni (= demoni) (⟪निशा⟫ f. = notte).
-4. **Dativo:** A questo Rāma sia omaggio!
-5. **Ablativo:** Non c'è rifugio migliore (⟪परतर⟫ 3) che Rāma.
+4. **Dativooo:** A questo Rāma sia omaggio!
+5. **Ablativooo:** Non c'è rifugio migliore (⟪परतर⟫ 3) che Rāma.
 6. **Genitivo:** Io (⟪अहम्⟫) sono (⟪अस्मि⟫) un servo di Rāma.
 7. **Locativo:** In Rāma ci sia (⟪भवतु⟫) sempre la pace (⟪लय⟫ m.) del mio (⟪मे⟫) cuore.
-8. **Vocativo:** Rāma, salva (⟪उद्धर⟫ = Imperativo di ⟪उद्⟫ + ⟪हृ⟫ oppure ⟪उद्⟫ + ⟪धृ⟫) me (⟪माम्⟫)!
+8. **Vocativo:** Rāma, salva (⟪उद्धर⟫ = Imperativooo di ⟪उद्⟫ + ⟪हृ⟫ oppure ⟪उद्⟫ + ⟪धृ⟫) me (⟪माम्⟫)!
 
 ## 27.5. Elenco di parole
 

@@ -96,7 +96,7 @@ Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 :::
 Ulteriuras utilisaziuns dal dativ pli tard.
 
-## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
+## 24.2. Furmaziun dal dativ (⟪चतुर्थी⟫)
 
 ::: grammar-box
 **Las terminaziuns regularas dal dativ èn:**
@@ -138,7 +138,7 @@ Ulteriuras utilisaziuns dal dativ pli tard.
 | | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
-### 24.2.4. Vokalische Stämme
+### 24.2.4. Stems vocalics
 
 ::: grammar-box
 **Stems vocalics**

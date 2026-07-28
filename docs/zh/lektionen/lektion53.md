@@ -55,7 +55,7 @@ Abb.: ⟪हस्तौ⟫
 :::
 ## 53.3. 以辅音结尾的词干的双数
 
-### 53.3.1. Stämme ohne Stammabstufung
+### 53.3.1. Stämme ohne Stammabstufung <!-- TODO: Fallback translation -->
 
 ⟪सत्यवाच्⟫ 3 "die Wahrheit sprechend" <!-- TODO: Fallback translation -->
 
@@ -102,7 +102,7 @@ Abb.: ⟪हस्तौ⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दीर्घायुर्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दीर्घायुषोस्⟫ ||
 :::
-### 53.3.2. Stämme mit Stammabstufung
+### 53.3.2. Stämme mit Stammabstufung <!-- TODO: Fallback translation -->
 
 **Partizip Präsens Parasmaipada** <!-- TODO: Fallback translation -->
 
@@ -111,7 +111,7 @@ Abb.: ⟪हस्तौ⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ 
 | :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***⟪भरन्ती⟫ (!)*** 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***:sig[⟪भरन्ती⟫] (!)*** 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ ||
 :::
@@ -205,8 +205,8 @@ Abb.: ⟪भरन्तौ⟫
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ |
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | *⟪देवाभ्याम्⟫* | *⟪फलाभ्याम्⟫* |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *⟪देवयोस्⟫* | *⟪फलयोस्⟫* |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | *:sig[⟪देवाभ्याम्⟫]* | *:sig[⟪फलाभ्याम्⟫]* |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *:sig[⟪देवयोस्⟫]* | *:sig[⟪फलयोस्⟫]* |
 :::
 ::: media
 ![](/images/lekt5306.webp)
@@ -222,7 +222,7 @@ Abb.: ⟪फले⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *⟪अग्नी⟫* | *⟪मती⟫* | ⟪वारिणी⟫ |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *:sig[⟪अग्नी⟫]* | *:sig[⟪मती⟫]* | ⟪वारिणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
@@ -235,13 +235,13 @@ Abb.: ⟪फले⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femininum :br ⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *⟪शत्रू⟫* | *⟪धेनू⟫* | ⟪मधुनी⟫ |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *:sig[⟪शत्रू⟫]* | *:sig[⟪धेनू⟫]* | ⟪मधुनी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪शत्र्वोस्⟫ | ⟪धेन्वोस्⟫ | ⟪मधुनोस्⟫ |
 :::
 ::: media
 ![](/images/lekt5307.webp)
-Abb.: ⟪धेनू⟫
+Abb.: :sig[⟪धेनू⟫]
 (Bildquelle: [Details](/licenses#lekt5307)) <!-- TODO: Fallback translation -->
 :::
 **Stämme auf -ā** <!-- TODO: Fallback translation -->
@@ -251,9 +251,9 @@ Abb.: ⟪धेनू⟫
 ::: grammar-box
 |   | Femininum :br ⟪स्त्री⟫ |
 | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *⟪कन्ये⟫* |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *:sig[⟪कन्ये⟫]* |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *⟪कन्ययोस्⟫* |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *:sig[⟪कन्ययोस्⟫]* |
 :::
 **Mehrsilbige Stämme auf -ī** <!-- TODO: Fallback translation -->
 
@@ -273,7 +273,7 @@ Abb.: ⟪धेनू⟫
 ::: grammar-box
 |   | Maskulininum/Femininum :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutrum :br ⟪नपुंसक⟫ 
 | :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | *⟪दातृणी⟫* 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | *:sig[⟪दातृणी⟫]* 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
@@ -301,7 +301,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 
 :::
 ::: indent
-⟪मा⟫***⟪ता⟫***⟪पितरौ⟫ "Mutter und Vater" <!-- TODO: Fallback translation -->
+⟪मा⟫***:sig[⟪ता⟫]***⟪पितरौ⟫ "Mutter und Vater" <!-- TODO: Fallback translation -->
 :::
 **Dasselbe geschieht mit einem solchen Verwandtschaftswort in einem Dvandva vor -⟪पुत्र⟫ :** <!-- TODO: Fallback translation -->
 
@@ -311,7 +311,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 **Bilden die Namen zweier Gottheiten, die gewöhnlich bei Opfern genannt werden, ein Dvandva, so wird der auslautende Vokal des ersten Gliedes gewöhnlich verlängert:** <!-- TODO: Fallback translation -->
 
 ::: indent
-⟪मि⟫***⟪त्रा⟫***⟪वरुणौ⟫ "Mitra und Varuṇa"
+⟪मि⟫***:sig[⟪त्रा⟫]***⟪वरुणौ⟫ "Mitra und Varuṇa"
 **⟪अग्नीसोमौ⟫** "Agni und Soma" <!-- TODO: Fallback translation -->
 :::
 **Auch bei anderen Dvandva kommt diese Vokalverlängerung vor.** <!-- TODO: Fallback translation -->
@@ -394,8 +394,8 @@ Beispiele: <!-- TODO: Fallback translation -->
 ::: grammar-box
 | Adjektiv | Komparativ | Superlativ |
 | --- | --- 
-| ⟪पाप⟫ 3 "böse" | ⟪पा⟫*⟪पी⟫*⟪यस्⟫ | ⟪पा⟫*⟪पि⟫*⟪ष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "groß" | ⟪म⟫*⟪ही⟫*⟪यस्⟫ | ⟪म⟫*⟪हि⟫*⟪ष्ठ⟫ |
+| ⟪पाप⟫ 3 "böse" | ⟪पा⟫*:sig[⟪पी⟫]*⟪यस्⟫ | ⟪पा⟫*:sig[⟪पि⟫]*⟪ष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "groß" | ⟪म⟫*:sig[⟪ही⟫]*⟪यस्⟫ | ⟪म⟫*:sig[⟪हि⟫]*⟪ष्ठ⟫ |
 :::
 ::: grammar-box
 **Regel 2:** **Possessivsuffixe (-mant, vant, -vin, -in u.ä.) fallen ab. Besteht der übrig bleibende Teil nur aus einer Silbe, wird er nicht weiter verändert, nur durch die Verbindung mit dem Possesivsuffix bedingte Lautveränderungen werden rückgängig gemacht. Besteht der Rest aber aus mehr als einer Silbe, tritt Regel 1 in Kraft.** <!-- TODO: Fallback translation -->
@@ -405,9 +405,9 @@ Beispiele: <!-- TODO: Fallback translation -->
 ::: grammar-box
 | Adjektiv | Komparativ | Superlativ |
 | --- | --- 
-| ⟪धनवन्त्⟫ 3 "reich" | ⟪ध⟫*⟪नी⟫*⟪यस्⟫ | ⟪ध⟫*⟪नि⟫*⟪ष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪ब⟫*⟪ली⟫*⟪यस्⟫ | ⟪ब⟫*⟪लि⟫*⟪ष्ठ⟫ |
-| ⟪वसुमन्त्⟫ "Güter besitzend" | ⟪व⟫*⟪सी⟫*⟪यस्⟫ | ⟪व⟫*⟪सि⟫*⟪ष्ठ⟫ |
+| ⟪धनवन्त्⟫ 3 "reich" | ⟪ध⟫*:sig[⟪नी⟫]*⟪यस्⟫ | ⟪ध⟫*:sig[⟪नि⟫]*⟪ष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(besonders) stark" | ⟪ब⟫*:sig[⟪ली⟫]*⟪यस्⟫ | ⟪ब⟫*:sig[⟪लि⟫]*⟪ष्ठ⟫ |
+| ⟪वसुमन्त्⟫ "Güter besitzend" | ⟪व⟫*:sig[⟪सी⟫]*⟪यस्⟫ | ⟪व⟫*:sig[⟪सि⟫]*⟪ष्ठ⟫ |
 :::
 ::: grammar-box
 **Regel 3:** **Für -ṛ-, dem ein Anfangsvokal vorausgeht und auf das nur ein einziger Konsonant folgt, wird -ra- substituiert.** <!-- TODO: Fallback translation -->
@@ -473,7 +473,7 @@ Abb.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | ⟪पञ्चमी⟫ | ⟪गरीयसस्⟫ || ^^ || ^^ ||
 | ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
 | ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
-| ⟪आमन्त्रितम्⟫ | *⟪गरीयान्⟫* | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+| ⟪आमन्त्रितम्⟫ | *:sig[⟪गरीयान्⟫]* | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
 :::
 ## 53.10. Metrik (Lehre von den Versmaßen)
 

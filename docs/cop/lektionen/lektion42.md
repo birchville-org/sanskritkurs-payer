@@ -9,7 +9,7 @@ status: stable
 
 # Ⲙⲉⲗⲉⲧⲏ 42
 
-## 42.1. Stämme auf -ṛ
+## 42.1. Stämme auf -ṛ <!-- TODO: Fallback translation -->
 
 ### 42.1.1. Ⲛⲓⲣⲏⲧ ⲉⲧⲉ ⲟⲩⲛ̄ⲧⲟⲩ ⲛ̄ⲧⲉϩⲛⲥⲧⲩϥⲓⲛⲅ ϩⲛ̄ ⲡⲓⲣⲏⲧ ⲛ̄ϭⲟⲗ
 
@@ -39,13 +39,13 @@ Maskulinum: <!-- TODO: Fallback translation -->
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :--- | :--- |
-| ⟪प्रथमा⟫ | *⟪दाता⟫* | ⟪दातारस्⟫ |
-| ⟪द्वितीया⟫ | ⟪दातारम्⟫ | *⟪दातॄन्⟫* |
+| ⟪प्रथमा⟫ | *:sig[⟪दाता⟫]* | ⟪दातारस्⟫ |
+| ⟪द्वितीया⟫ | ⟪दातारम्⟫ | *:sig[⟪दातॄन्⟫]* |
 | ⟪तृतीया⟫ | ⟪दात्रा⟫ | ⟪दातृभिस्⟫ |
 | ⟪चतुर्थी⟫ | ⟪दात्रे⟫ | ⟪दातृभ्यस्⟫ |
-| ⟪पञ्चमी⟫ | *⟪दातुस्⟫* | ⟪दातृभ्यस्⟫ |
-| ⟪षष्ठी⟫ | *⟪दातुस्⟫* | *⟪दातॄणाम्⟫* |
-| ⟪सप्तमी⟫ | *⟪दातरि⟫* | ⟪दातृषु⟫ |
+| ⟪पञ्चमी⟫ | *:sig[⟪दातुस्⟫]* | ⟪दातृभ्यस्⟫ |
+| ⟪षष्ठी⟫ | *:sig[⟪दातुस्⟫]* | *:sig[⟪दातॄणाम्⟫]* |
+| ⟪सप्तमी⟫ | *:sig[⟪दातरि⟫]* | ⟪दातृषु⟫ |
 
 :::
 Zur Erklärung der unregelmäßigen Bildungen siehe Thumb-Hauschild I,2 S. 76 -81 <!-- TODO: Fallback translation -->
@@ -53,7 +53,7 @@ Zur Erklärung der unregelmäßigen Bildungen siehe Thumb-Hauschild I,2 S. 76 -8
 Femininum: <!-- TODO: Fallback translation -->
 
 ::: indent
-**⟪स्वसृ⟫** f. wird wie **⟪दातृ⟫** dekliniert mit Ausnahme des Akkusativ (**⟪द्वितीया⟫**) Plural: ***⟪स्वसॄस्⟫***. <!-- TODO: Fallback translation -->
+**⟪स्वसृ⟫** f. wird wie **⟪दातृ⟫** dekliniert mit Ausnahme des Akkusativ (**⟪द्वितीया⟫**) Plural: ***:sig[⟪स्वसॄस्⟫]***. <!-- TODO: Fallback translation -->
 :::
 ### 42.1.2. Ⲧⲁⲡⲗⲁⲥⲓⲥ ⲛ̄ⲛⲓⲣⲏⲧ: ⟪कृत्⟫-ⲥⲩϥϥⲓⲝ -⟪तृ⟫
 
@@ -125,12 +125,12 @@ Beispiele: <!-- TODO: Fallback translation -->
 
 | | ⟪पुंस्⟫ (⟪एकवचनम्⟫) | ⟪पुंस्⟫ (⟪बहुवचनम्⟫) | ⟪स्त्री⟫ (⟪एकवचनम्⟫) | ⟪स्त्री⟫ (⟪बहुवचनम्⟫) |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪प्रथमा⟫ | ⟪पिता⟫ | *⟪पितरस्⟫* | ⟪माता⟫ | *⟪मातरस्⟫* |
-| ⟪द्वितीया⟫ | *⟪पितरम्⟫* | ⟪पितॄन्⟫ | *⟪मातरम्⟫* | ⟪मातॄस्⟫ |
+| ⟪प्रथमा⟫ | ⟪पिता⟫ | *:sig[⟪पितरस्⟫]* | ⟪माता⟫ | *:sig[⟪मातरस्⟫]* |
+| ⟪द्वितीया⟫ | *:sig[⟪पितरम्⟫]* | ⟪पितॄन्⟫ | *:sig[⟪मातरम्⟫]* | ⟪मातॄस्⟫ |
 | Rest wie ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
-### 42.1.4. Stämme auf -ṛ in Komposita
+### 42.1.4. Stämme auf -ṛ in Komposita <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Als Vorderglied eines Kompositums stehen Nomina auf -ṛ selbstverständlich in ihrem schwachen Stamm, d.h. <!-- TODO: Fallback translation -->
@@ -157,7 +157,7 @@ PPP ⟪अवस्थित⟫ 3: dastehend, befindlich <!-- TODO: Fallback tra
 
 ⟪दूत⟫ m.: Bote, Gesandter <!-- TODO: Fallback translation -->
 
-⟪इष्⟫ (1,4,9) Kaus. ***⟪इष⟫***⟪यति⟫ : senden <!-- TODO: Fallback translation -->
+⟪इष्⟫ (1,4,9) Kaus. ***:sig[⟪इष⟫]***⟪यति⟫ : senden <!-- TODO: Fallback translation -->
 
 ⟪सकाश⟫ m.: Anwesenheit, Gegenwart <!-- TODO: Fallback translation -->
 
@@ -299,15 +299,15 @@ Abb.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 
 ## 42.4. ⲥⲡⲟⲩⲇⲏ ⲛ̀ⲧⲉ ⲧⲙⲉⲧⲉⲣⲙⲏⲛⲉⲩⲧⲓⲕⲏ
 
-*⟪सीता⟫*⟪विवाहः⟫
+*:sig[⟪सीता⟫]*⟪विवाहः⟫
 
-⟪पुरा⟫ *⟪मिथिलायां⟫* *⟪जनको⟫* ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
+⟪पुरा⟫ *:sig[⟪मिथिलायां⟫]* *:sig[⟪जनको⟫]* ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ :sig[⟪सीता⟫] ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
 
-⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ *⟪गुरुतरं⟫* ⟪किमपि⟫ *⟪धनुरा⟫*⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
+⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ *:sig[⟪गुरुतरं⟫]* ⟪किमपि⟫ *:sig[⟪धनुरा⟫]*⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
 
-⟪तां⟫ ⟪तस्य⟫ ⟪प्रतिज्ञां⟫ ⟪श्रुत्वा⟫ *⟪शतशो⟫* ⟪राजकुमाराः⟫ ⟪समाजग्मुः⟫ ⟪।⟫ ⟪परं⟫ ⟪नैको⟫ ⟪ऽपि⟫ ⟪तेषां⟫ ⟪तद्धनुश्चलयितुमपि⟫ ⟪शशाक⟫ ⟪।⟫ *⟪लङ्का⟫*⟪धिपती⟫ *⟪रावणो⟫* ⟪ऽपि⟫ ⟪साटोपं⟫ ⟪समेत्य⟫ ⟪सलज्जं⟫ ⟪प्रतिनिवृत्त⟫ ⟪इति⟫ ⟪ज्ञायते⟫ ⟪॥⟫
+⟪तां⟫ ⟪तस्य⟫ ⟪प्रतिज्ञां⟫ ⟪श्रुत्वा⟫ *:sig[⟪शतशो⟫]* ⟪राजकुमाराः⟫ ⟪समाजग्मुः⟫ ⟪।⟫ ⟪परं⟫ ⟪नैको⟫ ⟪ऽपि⟫ ⟪तेषां⟫ ⟪तद्धनुश्चलयितुमपि⟫ ⟪शशाक⟫ ⟪।⟫ *:sig[⟪लङ्का⟫]*⟪धिपती⟫ *:sig[⟪रावणो⟫]* ⟪ऽपि⟫ ⟪साटोपं⟫ ⟪समेत्य⟫ ⟪सलज्जं⟫ ⟪प्रतिनिवृत्त⟫ ⟪इति⟫ ⟪ज्ञायते⟫ ⟪॥⟫
 
-⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ *⟪ऽयोध्या⟫*⟪धिपते⟫*⟪र्दशरथस्य⟫* ⟪पुत्रः⟫ ⟪श्री⟫*⟪रामः⟫* *⟪सलक्ष्मणो⟫* *⟪विश्वामित्रेण⟫* ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫*⟪रामो⟫* ⟪महर्षेर्⟫*⟪विश्वामित्र⟫*⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
+⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ *:sig[⟪ऽयोध्या⟫]*⟪धिपते⟫*:sig[⟪र्दशरथस्य⟫]* ⟪पुत्रः⟫ ⟪श्री⟫*:sig[⟪रामः⟫]* *:sig[⟪सलक्ष्मणो⟫]* *:sig[⟪विश्वामित्रेण⟫]* ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫*:sig[⟪रामो⟫]* ⟪महर्षेर्⟫*:sig[⟪विश्वामित्र⟫]*⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
 
 ::: media
 ![lekt4208.jpg](/images/lekt4208.webp)
@@ -316,17 +316,17 @@ Abb.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभू
 :::
 ⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
 
-⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ *⟪सीतारामयोर्वि⟫*⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
+⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ *:sig[⟪सीतारामयोर्वि⟫]*⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
 
 (⟪संस्कृतप्रथमादर्शे⟫)
 
 Erklärung der **rot** hervorgehobenen Ausdrücke: <!-- TODO: Fallback translation -->
 
-⟪सीता⟫ f. Eigenname: Tochter des Königs ⟪जनक⟫ von ⟪विदेह⟫. Sie war aus der Erde herausgekommen, als der König einst den Acker pflügte, deshalb ihr Name: ⟪सीता⟫ f. "Ackerfurche" <!-- TODO: Fallback translation -->
+:sig[⟪सीता⟫] f. Eigenname: Tochter des Königs ⟪जनक⟫ von ⟪विदेह⟫. Sie war aus der Erde herausgekommen, als der König einst den Acker pflügte, deshalb ihr Name: :sig[⟪सीता⟫] f. "Ackerfurche" <!-- TODO: Fallback translation -->
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
-Abb.: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
+Abb.: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
 (Bildquelle: [Details](/licenses#lekt4205)) <!-- TODO: Fallback translation -->
 :::
 ⟪मिथिला⟫ f. Eigenname: Hauptstadt von ⟪विदेह⟫ <!-- TODO: Fallback translation -->
@@ -344,9 +344,9 @@ Abb.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 ⟪शतशस्⟫ Adv.: zu hunderten <!-- TODO: Fallback translation -->
 
-⟪लङ्का⟫ f. Eigennamen: wird mit dem heutigen Sri Lanka (ශ්‍රී ලංකාව / இலங்கை) identifiziert <!-- TODO: Fallback translation -->
+:sig[⟪लङ्का⟫] f. Eigennamen: wird mit dem heutigen Sri Lanka (ශ්‍රී ලංකාව / இலங்கை) identifiziert <!-- TODO: Fallback translation -->
 
-⟪रावण⟫ m. Eigennamen; Herrscher von ⟪लङ्का⟫, Herrscher der ⟪राक्षस⟫. <!-- TODO: Fallback translation -->
+⟪रावण⟫ m. Eigennamen; Herrscher von :sig[⟪लङ्का⟫], Herrscher der ⟪राक्षस⟫. <!-- TODO: Fallback translation -->
 
 ::: media
 ![lekt4207.jpg](/images/lekt4207.webp)
@@ -361,7 +361,7 @@ Abb.: ⟪रावणः⟫
 
 ⟪लक्ष्मन⟫ m. Eigenname: Sohn des ⟪दशरथ⟫ <!-- TODO: Fallback translation -->
 
-⟪विश्वामित्र⟫ m. Eigenname: ⟪ऋषि⟫, zog mir ⟪राम⟫ und ⟪लक्ष्मन⟫ aus, um Dämonen zu töten; dafür bekommen die beiden von ihm Zauberwaffen. <!-- TODO: Fallback translation -->
+:sig[⟪विश्वामित्र⟫] m. Eigenname: ⟪ऋषि⟫, zog mir ⟪राम⟫ und ⟪लक्ष्मन⟫ aus, um Dämonen zu töten; dafür bekommen die beiden von ihm Zauberwaffen. <!-- TODO: Fallback translation -->
 
 ⟪सीतारामयोस्⟫ Gen.Lok.Dual zu ⟪सीताराम⟫ <!-- TODO: Fallback translation -->
 
@@ -371,7 +371,7 @@ Abb.: ⟪रावणः⟫
 * **Abb. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. The Diwan I Khas, or Hall of Private Audiences at the Lal Qila (Red Fort) in Delhi. (Bildquelle: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Zugriff am 2009-01-04. -- Creative Commons Lizenz (Namensnennung, keine kommerzielle Nutzung, share alike)) <!-- TODO: Fallback translation -->
 * **Abb. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, ca. 1825. (Bildquelle: Wikipedia. Public domain) <!-- TODO: Fallback translation -->
 * **Abb. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. Wagen). (Bildquelle: Wikipedia. Public domain) <!-- TODO: Fallback translation -->
-* **Abb. lekt4205**: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 17. Jhdt. (Bildquelle. Wikipedia. Public domain) <!-- TODO: Fallback translation -->
+* **Abb. lekt4205**: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. 17. Jhdt. (Bildquelle. Wikipedia. Public domain) <!-- TODO: Fallback translation -->
 * **Abb. lekt4206**: Lage von ⟪मिथिला⟫ und ⟪विदेह⟫, ⟪अयोध्या⟫ und ⟪कोसल⟫. (Bildquelle: JIJITH NR / Wikipedia. GNU FDLicense) <!-- TODO: Fallback translation -->
 * **Abb. lekt4207**: ⟪रावणः⟫. Yakṣagaṇa-Tanzmaske (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Bildquelle: Manohara Upadhya / Wikipedia. GNU FDLicense) <!-- TODO: Fallback translation -->
 * **Abb. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Bild von ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Bildquelle: Wikipedia. Public domain) <!-- TODO: Fallback translation -->

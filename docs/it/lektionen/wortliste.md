@@ -1712,7 +1712,7 @@ Albero del mango, Kanpur. [Fonte immagine: AmarChandra / Wikipedia. CC BY-SA]
 ⟪रोक्ष्यति⟫:br
 ⟪रुह्यते⟫:br
 ⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
-⟪रूढ⟫:br
+:sig[⟪रूढ⟫]:br
 -⟪रुह्य⟫:br
 ⟪रोढुम्⟫
 :::
@@ -1829,16 +1829,16 @@ Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3307))
 ::::
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: porre, stabilire, assegnare
+**:sig[⟪धा⟫]** 3U **:sig[⟪दधाति⟫]**: porre, stabilire, assegnare
 
 ::: indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Kaus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫***
+**Fut.** **:sig[⟪धास्यति⟫]**  
+**Pass.** **:sig[⟪धीयते⟫]**  
+**Kaus.** **:sig[⟪धापयति⟫]**  
+**PPP** **:sig[⟪हित⟫]** (!!)  
+**Inf.** **:sig[⟪धातुम्⟫]**
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: concentrare tutta l'attenzione su qualcosa, raccogliersi
+**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: concentrare tutta l'attenzione su qualcosa, raccogliersi
 
 ::: indent
 di cui:
@@ -1854,10 +1854,10 @@ Fig.: ⟪समाधि⟫
 
 ::: indent
 Nota:
-3.pl.P ***⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪अपिपर्⟫*** (da: \*apipart)  
-3.pl.Impf.P ***⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪पिपूर्यात्⟫***
+3.pl.P **:sig[⟪पिपुरति⟫]**  
+3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (da: \*apipart)  
+3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
@@ -2020,7 +2020,7 @@ Fig.: ⟪ऋषभः⟫
 Statua del toro Nandi, Colline di Chamundi, Mysore.
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** trattenere, tenere, offrire, concedere
+**⟪यम्⟫ 1P :sig[⟪यच्छति⟫] :** trattenere, tenere, offrire, concedere
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** porgerla, offrire, consegnare
 
@@ -2038,15 +2038,15 @@ Statua del toro Nandi, Colline di Chamundi, Mysore.
 **Caus. ⟪नाशयति⟫**:br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : scomparire, perdersi, andare perduto
+**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : scomparire, perdersi, andare perduto
 
-**⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : procedere, andare
+**⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : procedere, andare
 ::: indent
 **Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
 **Fut. ⟪क्रमिष्यति⟫**:br
 **Pass. ⟪क्रम्यते⟫**:br
 **Caus. ⟪क्रमयति⟫**:br
-**PPP ***⟪क्रा⟫***⟪न्त⟫**:br
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**:br
 **Inf. ⟪क्रमितुम्⟫**:br
 **Assol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::: media
@@ -2178,7 +2178,7 @@ PPP ⟪ग्लान⟫
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
 :::
-⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : sentire odore di qualcosa
+⟪घ्रा⟫ 1P **:sig[⟪जिघ्रति⟫]** : sentire odore di qualcosa
 
 ::: indent
 Perf. IV ⟪जघ्रौ⟫  
@@ -2197,7 +2197,7 @@ Absol. -⟪घ्राय⟫
 Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
 Fut. ⟪प्रेष्यति⟫  
 Pass. ⟪प्रीयते⟫  
-Kaus. ***⟪प्रीणयति⟫***  
+Kaus. **:sig[⟪प्रीणयति⟫]**  
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
 :::
@@ -2579,7 +2579,7 @@ PPP ⟪अवस्थित⟫ 3: in piedi, esistente
 
 ⟪दूत⟫ m.: messaggero, inviato
 
-⟪इष्⟫ (1,4,9) Caus. ***⟪इष⟫***⟪यति⟫ : inviare
+⟪इष्⟫ (1,4,9) Caus. **:sig[⟪इष⟫]**⟪यति⟫ : inviare
 
 ⟪सकाश⟫ m.: presenza, presenza attuale
 
@@ -2840,7 +2840,7 @@ Fig.: ⟪रेल्यानम्⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt4403))
 ::::
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : giacere. Questa radice ha in tutte le forme del tema presente **grado alto:** 1.sg.Ind.Pres.Ā ***⟪शेये⟫*** (śe + e). Le seguenti forme sono particolarmente da notare: 3.pl.Ind.Pres.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
+**⟪शी⟫** 2Ā ⟪शेते⟫ : giacere. Questa radice ha in tutte le forme del tema presente **grado alto:** 1.sg.Ind.Pres.Ā **:sig[⟪शेये⟫]** (śe + e). Le seguenti forme sono particolarmente da notare: 3.pl.Ind.Pres.Ā **:sig[⟪शेरते⟫]**, 3.pl.Impf.Ā **:sig[⟪अशेरत⟫]**
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -2881,13 +2881,13 @@ Fig.: ⟪नन्दी⟫
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : avere la propria gioia in (⟪द्वितीयया⟫), salutare con gioia qualcuno, dare il benvenuto
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : tenere, portare; offrire, concedere; tenere insieme, domare, frenare, sottomettere
+**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : tenere, portare; offrire, concedere; tenere insieme, domare, frenare, sottomettere
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ ma: ⟪नि⟫***⟪यम⟫***⟪यति⟫  
+Kaus. ⟪यामयति⟫ ma: ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Assol. -⟪यम्य⟫
@@ -2931,7 +2931,7 @@ Fig.: ⟪यत्नेन⟫
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. ***⟪रम्भ⟫***⟪यति⟫  
+Kaus. **:sig[⟪रम्भ⟫]**⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Assol. -⟪रभ्य⟫
@@ -2967,14 +2967,14 @@ Derivati:
 ⟪विषम⟫ 3: disuguale, irregolare, maligno
 
 :::
-⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : afferrare, agguantare, prendere
+⟪ग्रह्⟫ 9U **:sig[⟪गृ⟫]**⟪ह्णाति⟫ (gṛh-ṇā-ti) : afferrare, agguantare, prendere
 
 ::: indent
 Perfetto Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Futuro ⟪ग्र⟫***⟪ही⟫***⟪ष्यति⟫  
+Futuro ⟪ग्र⟫**:sig[⟪ही⟫]**⟪ष्यति⟫  
 Passivo ⟪गृह्यते⟫  
 Causativo ⟪ग्राहयति⟫  
-PPP ⟪गृ⟫***⟪ही⟫***⟪त⟫  
+PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫  
 Infinito ⟪ग्रहितुम्⟫  
 Assoluto -⟪ग्राह्य⟫
 Derivati:
@@ -3047,8 +3047,8 @@ Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](
 Perfetto II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Futuro ⟪रोक्ष्यति⟫  
 Passivo ⟪रुह्यते⟫  
-Causativo ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***⟪प⟫***⟪यति⟫  
-PPP. ***⟪रूढ⟫***  
+Causativo ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫**:sig[⟪प⟫]**⟪यति⟫  
+PPP. **:sig[⟪रूढ⟫]**  
 Infinito ⟪रोढुम्⟫
 
 :::: media
@@ -3082,14 +3082,14 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 ⟪भ्रंश⟫ m.: il cadere, il distacco
 
-⟪श्रम्⟫ 4P ***⟪श्रा⟫***⟪म्यति⟫ : affaticarsi, stancarsi
+⟪श्रम्⟫ 4P **:sig[⟪श्रा⟫]**⟪म्यति⟫ : affaticarsi, stancarsi
 
 ::: indent
 Perfetto Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Futuro ⟪श्रमिष्यति⟫  
 Passivo ⟪श्रम्यते⟫  
 Causativo ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
-PPP ***⟪श्रान्⟫***⟪त⟫  
+PPP **:sig[⟪श्रान्⟫]**⟪त⟫  
 Infinito ⟪श्रमितुम्⟫  
 Assoluto ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
 Derivati:
@@ -3112,7 +3112,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : attaccare, aderire a (con l'ablativo)
+⟪सञ्ज्⟫ 1P **:sig[⟪सज⟫]**⟪ति⟫ : attaccare, aderire a (con l'ablativo)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -3142,13 +3142,13 @@ Inf. ⟪द्रोतुम्⟫
 Assol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : errare, vagare
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P **:sig[⟪भ्रा⟫]**⟪म्यति⟫ : errare, vagare
 
 ::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Caus. ⟪भ्रमयति⟫  
-PPP ***⟪भ्रा⟫***⟪न्त⟫  
+PPP **:sig[⟪भ्रा⟫]**⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Assol. -⟪भ्रम्य⟫
 da ciò:
@@ -3186,10 +3186,10 @@ PPP ⟪परिभूत⟫ 3: sconfitto, umiliato, abbattuto
 
 ::: indent
 ad es.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : sedersi
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫**:sig[⟪षी⟫]**⟪दति⟫ : sedersi
 
 :::
-⟪भोस्⟫ particella vocativa: esclamazione di indirizzo, ad es.: ehi, ehi là, oh, eh, ciao, hi! Spesso non traducibile. Questa particella presenta un Sandhi speciale: davanti a tutti i suoni sonori, la forma è ***⟪भो⟫***.
+⟪भोस्⟫ particella vocativa: esclamazione di indirizzo, ad es.: ehi, ehi là, oh, eh, ciao, hi! Spesso non traducibile. Questa particella presenta un Sandhi speciale: davanti a tutti i suoni sonori, la forma è **:sig[⟪भो⟫]**.
 
 ::: media
 ![](/images/lekt4611.webp)
@@ -3340,7 +3340,7 @@ Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ ***⟪तू्र्⟫***⟪ण⟫
+PPP ⟪त्वरित⟫ ⟪।⟫ **:sig[⟪तू्र्⟫]**:sig[⟪ण⟫]
 Inf. ⟪त्वरितुम्⟫
 :::
 ⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : danneggiare
@@ -3376,7 +3376,7 @@ Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 
 ⟪उत⟫ Indecl.: e, anche, o
 
-⟪विहंग⟫ m.: uccello ("che vola ⟪स्⟫ - ⟪विह⟫ - nell'aria")
+⟪विहंग⟫ m.: uccello ("che vola :sig[⟪स्⟫] - ⟪विह⟫ - nell'aria")
 
 ::: media
 ![](/images/lekt4903.jpg)
@@ -3469,7 +3469,7 @@ Pass. ⟪रिष्यते⟫
 Kaus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U *⟪लुम्प⟫*⟪ति⟫** : rompere, distruggere
+**⟪लुप्⟫ 6U *:sig[⟪लुम्प⟫]*⟪ति⟫** : rompere, distruggere
 
 ::: indent
 Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
@@ -3517,8 +3517,8 @@ Declinazione come ⟪यद्⟫ (eccezione: Nom.Akk.sg.Neutro)
 | | Singolare:br⟪एकवचनम्⟫ || || Plurale:br⟪बहुवचनम्⟫ || ||
 | | **Maschile:br⟪पुंस्⟫** | **Neutro:br⟪नपुंसकम्⟫** | **Femminile:br⟪स्त्री⟫** | **Maschile:br⟪पुंस्⟫** | **Neutro:br⟪नपुंसकम्⟫** | **Femminile:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Nominativo:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Accusativo:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **1. Nominativo:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | **:sig[⟪सर्वम्⟫]** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. Accusativo:br⟪२⟫. ⟪द्वितीया⟫** | :sig[⟪सर्वम्⟫] | **:sig[⟪सर्वम्⟫]** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
 | **3. Strumentale:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
 | **4. Dativo:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **5. Ablativo:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
@@ -3628,9 +3628,9 @@ Pass. ⟪विशिष्यते⟫ : differire da (⟪पञ्चम्य
 ⟪स्व⟫ 3: proprio, suo (mio, tuo, ecc.) Si declina come ⟪सर्व⟫. Nell'ablativo-locativo singolare maschile-neutro e nel nominativo plurale maschile può essere declinato anche come ⟪देव⟫:
 
 ::: indent
-Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ ***⟪स्वात्⟫***
-Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ ***⟪स्⟫***⟪वे⟫
-Nom.pl.m ⟪स्वे⟫ ⟪।⟫ ***⟪स्वास्⟫***
+Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ **:sig[⟪स्वात्⟫]**
+Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ **:sig[⟪स्⟫]**⟪वे⟫
+Nom.pl.m ⟪स्वे⟫ ⟪।⟫ **:sig[⟪स्वास्⟫]**
 :::
 ⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : sgridare, biasimare
 
@@ -3867,7 +3867,7 @@ Fig.: ⟪प्रधानः⟫
 ::: indent
 ⟪त्रिवर्ग⟫ m.: gruppo di tre (ad es. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; oppure: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; oppure: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : volere, comandare, desiderare
+⟪वश्⟫ 2P ⟪वस्टि⟫, ***:sig[⟪उशन्ति⟫],*** Imperat. 2.sg.: **:sig[⟪उड्ढि⟫]** : volere, comandare, desiderare
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫

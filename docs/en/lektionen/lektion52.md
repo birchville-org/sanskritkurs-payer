@@ -214,7 +214,7 @@ Example:
 
 :::
 ::: indent
-⟪भस्मसात्कृ⟫*⟪त्वा⟫*
+⟪भस्मसात्कृ⟫*:sig[⟪त्वा⟫]*
 :::
 ## 52.5. Word repetitions (⟪द्विरुक्तम्⟫)
 
@@ -252,7 +252,7 @@ Not treated here, see e.g. at Kielhorn, Grammar §201f.
 **The numerals for *1 to 19* are adjectives.**
 **The numerals for **1 to 4** are different in declension for the three genders.**
 
-**For the numerals for **5 to 19** ***(⟪नवदशन्⟫)*** there is only one single declension for the three genders.**
+**For the numerals for **5 to 19** ***(:sig[⟪नवदशन्⟫])*** there is only one single declension for the three genders.**
 
 **For these numeral adjectives, as for all adjectives: it must stand in the same case, number, and gender as the associated noun and vice versa (i.e., for 1 singular, for 2 dual, for the rest plural).**
 :::
@@ -327,16 +327,16 @@ once: ⟪सकृत्⟫
 twice: ⟪द्विस्⟫
 thrice: ⟪त्रिस्⟫
 four times: ⟪चतुस्⟫
-five times etc. is formed with the suffix ***\-⟪कृत्वस्⟫***: ⟪पञ्चकृत्वस्⟫
+five times etc. is formed with the suffix ***\-:sig[⟪कृत्वस्⟫]***: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-fold": is expressed with the suffix ***\-⟪धा⟫***
+b) "-fold": is expressed with the suffix ***\-:sig[⟪धा⟫]***
 
 ::: indent
 simple: ⟪एकधा⟫
 twofold: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
 etc.
 :::
-c) "each ...", "to ...": is expressed with the suffix ***\-⟪शस्⟫*** (see above!)
+c) "each ...", "to ...": is expressed with the suffix ***\-:sig[⟪शस्⟫]*** (see above!)
 
 ::: indent
 ⟪द्विशस्⟫ "to two, each two"
@@ -349,7 +349,7 @@ c) "each ...", "to ...": is expressed with the suffix ***\-⟪शस्⟫*** (s
 twofold, consisting of two
 threefold, consisting of three parts
 
-from 4 onwards "-fold" is expressed by the suffix ***\-⟪तय⟫ (f.: -⟪तयी⟫)***: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "fourfold"
+from 4 onwards "-fold" is expressed by the suffix ***\-:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫])***: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "fourfold"
 :::
 Further formations can be found in dictionaries or grammars.
 
@@ -392,7 +392,7 @@ The seven-starred constellation = the seven brightest stars of the Great Bear (U
 
 2.  the compound thus formed is used in a meaning that is otherwise designated by a Taddhita suffix (in this type the transition to Bahuvrīhi is fluid):  
     Examples:  
-    dvi + go » ⟪द्विगु⟫ : not: "two cows", but: "**purchased for two cows**"  
+    dvi + go » :sig[⟪द्विगु⟫] : not: "two cows", but: "**purchased for two cows**"  
     ⟪द्विवर्ष⟫ not: "two years", but: "**two years old**"  
 
 3.  the compound thus formed forms the first member of another compound  
@@ -409,7 +409,7 @@ Jalakandapuram = ஜலகண்டபுரம்
 ::: grammar-box
 **A designation for a cardinal number (but not for a cardinal direction) can form a Tatpuruṣa compound with another noun as the first member even when the resulting compound denotes the aggregate of several things, i.e., combines two or more things into a single unit.**
 
-**Tatpuruṣa compounds formed according to this rule are called ***Dvigu (⟪द्विगु⟫)***.**
+**Tatpuruṣa compounds formed according to this rule are called ***Dvigu (:sig[⟪द्विगु⟫])***.**
 
 **Dvigu compounds denoting a unit are usually neuter. If the second member ends in -a, the feminine suffix -ī may be added. If the second member ends in fem. -ā, either neuter -a or feminine -ī replaces it. If the second member ends in -an, it is replaced by -a or -ī.**
 :::
@@ -501,7 +501,7 @@ Fig.: ⟪प्रधानः⟫
 ::: indent
 ⟪त्रिवर्ग⟫ m.: group of three (e.g. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫; or: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫; or: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : to want, to command, to desire
+⟪वश्⟫ 2P ⟪वस्टि⟫, ***:sig[⟪उशन्ति⟫],*** Imperat. 2.sg.: **:sig[⟪उड्ढि⟫]** : to want, to command, to desire
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫
@@ -656,7 +656,7 @@ Inf. ⟪त्रातुम्⟫
 ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫
 ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫
 ⟪एतद्विद्यात्समासेन⟫
-⟪लक्षणं⟫ ⟪सुखदुःख⟫*⟪योः⟫* ⟪॥१६०॥⟫
+⟪लक्षणं⟫ ⟪सुखदुःख⟫*:sig[⟪योः⟫]* ⟪॥१६०॥⟫
 
 ⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्⟫
 ⟪परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫
@@ -669,7 +669,7 @@ Explanation: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvand
 
 ::: indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
-⟪स्मृतिशी⟫*⟪ले⟫* ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
+⟪स्मृतिशी⟫*:sig[⟪ले⟫]* ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
@@ -677,7 +677,7 @@ Explanation:  ⟪स्मृतिशीले⟫ Nom.Acc.Dual.n. (Dualdvandva)
 :::
 ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ On ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ in the life of the prince
 
-⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫*⟪मितरौ⟫* ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫*⟪मूलौ⟫* ⟪हि⟫ ⟪धर्मका⟫*⟪मावि⟫*⟪ति⟫ ⟪।७।⟫
+⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫*:sig[⟪मितरौ⟫]* ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫*:sig[⟪मूलौ⟫]* ⟪हि⟫ ⟪धर्मका⟫*:sig[⟪मावि⟫]*⟪ति⟫ ⟪।७।⟫
 
 ::: indent
 Explanations:

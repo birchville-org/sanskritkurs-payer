@@ -27,8 +27,8 @@ title: Витримання авторських прав та цитуванн�
 
 **KI-переклади** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) та **технічний конвеєр** (скрипти, QA-перевірка, конфігурація VitePress):
 
-- Переклади: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Зазначення авторства, поширення на тих самих умовах
-- Код/конвеєр: [Ліцензія MIT](https://opensource.org/licenses/MIT)
+- Переклади: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Зазначення авторства, поширення на тих самих умовах
+- Код/конвеєр: [Ліцензія MIT [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)](https://opensource.org/licenses/MIT)
 
 **Рекомендації щодо цитування перекладів:**
 > Payer, Alois: Sanskritkurs. Перекладено за допомогою ШІ. Редактор: Marco Demarmels, 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0

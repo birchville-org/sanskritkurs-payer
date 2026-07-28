@@ -17,9 +17,9 @@ status: stable
 - il sandha vocalico
 - Sandhi di frase di -ās
 :::
-## 3.1. Nominativo singolare del femminile
+## 3.1. Nominativooo singolare del femminile
 
-### 3.1.1. Nominativo singolare in -s
+### 3.1.1. Nominativooo singolare in -s
 
 Anche le seguenti radici nominali, che terminano con una vocale, formano il nominativo singolare in **-s**:
 
@@ -27,7 +27,7 @@ Anche le seguenti radici nominali, che terminano con una vocale, formano il nomi
 - **Femminili in -i**: es. **śruti** f. "l'ascolto" -- Nom. sg.: **śrutis** = ⟪श्रुतिस्⟫
 - **Femminili in -u**: es. **dhenu** f. "mucca da latte" -- Nom. sg.: **dhenus** = ⟪धेनुस्⟫
 :::
-### 3.1.2. Nominativo singolare senza desinenza
+### 3.1.2. Nominativooo singolare senza desinenza
 
 Il nominativo singolare si forma senza desinenza:
 
@@ -51,10 +51,10 @@ Il nominativo singolare si forma senza desinenza:
   (**-u-** diventa **-v-** davanti a vocale, quindi **-u- + -ī** » **-vī**)
 :::
 
-## 3.3. Nominativo plurale maschile e femminile
+## 3.3. Nominativooo plurale maschile e femminile
 
 ::: grammar-box
-La desinenza del Nominativo plurale nel maschile e femminile è **-as**.
+La desinenza del Nominativooo plurale nel maschile e femminile è **-as**.
 - **Maschili in -a**: **deva- + -as** » **devās** = ⟪देवास्⟫
 - **Femminili in -ā**: **devatā- + -as** » **devatās** = ⟪देवतास्⟫
 - **Maschili in -i**: **kavi-** » **kave- + -as** » **kavayas** = ⟪कवयस्⟫

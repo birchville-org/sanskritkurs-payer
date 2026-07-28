@@ -1,6 +1,6 @@
 
 export const fr = {
-  label: 'FR - Français',
+  label: '🇫🇷 FR - Français',
   lang: 'fr-FR',
   link: '/fr/',
   title: 'Cours de sanskrit',

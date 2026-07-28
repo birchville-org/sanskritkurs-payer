@@ -324,13 +324,13 @@ Regulile privind utilizarea vocalei de legătură -i- se găsesc la Kielhorn, Gr
 1.  Rădăcina este de obicei în gradul inferior: ⟪जीव्⟫ » ⟪जिजीविष⟫-  
 
     1.  -i, -u final este înlocuit cu -ī, respectiv -ū, dacă nu urmează o vocală de legătură:  
-        ⟪जि⟫ » ⟪जि⟫***⟪गी⟫***⟪ष⟫- "a dori să învingă"  
-        ⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- "a dori să alerge"  
+        ⟪जि⟫ » ⟪जि⟫**:sig[⟪गी⟫]**⟪ष⟫- "a dori să învingă"  
+        ⟪द्रु⟫ » ⟪दु⟫**:sig[⟪द्रू⟫]**⟪ष⟫- "a dori să alerge"  
 
     2.  -ṛ, -ṝ final este înlocuit cu -īr, după labiale cu -ūr, dacă nu urmează o vocală de legătură:  
-        ⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- "a dori să facă"  
-        ⟪मृ⟫ » ⟪मु⟫***⟪मूर्ष⟫***\- "a fi pe punctul de a muri"  
-        ⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "a dori să umple"  
+        ⟪कृ⟫ » ⟪चि⟫**:sig[⟪कीर्ष⟫]**\- "a dori să facă"  
+        ⟪मृ⟫ » ⟪मु⟫**:sig[⟪मूर्ष⟫]**\- "a fi pe punctul de a muri"  
+        ⟪पॄ⟫ » ⟪पु⟫**:sig[⟪पूर्ष⟫]**\- "a dori să umple"  
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ și alte câteva rădăcini pe -ā, -e, -o au gradul inferior Ø:  
         ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
@@ -350,7 +350,7 @@ Regulile privind utilizarea vocalei de legătură -i- se găsesc la Kielhorn, Gr
         1.  obligatoriu: rădăcini de forma i/u - Consoană precum și (Consoană -) ṛ/ḷ - Consoană:  
             ⟪इष्⟫ » ⟪एषिषिष⟫- "a dori să ceară"  
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "a dori să fie potrivit"  
-            ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- "a dori să zâmbească"  
+            ⟪स्मि⟫ » ⟪सि⟫**:sig[⟪स्म⟫]**⟪यिष⟫- "a dori să zâmbească"  
 
         2.  opțional: rădăcini de forma Consoană - (Consoană -) i/u - Consoană exceptând -v\_  
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "a dori să scânteieze"

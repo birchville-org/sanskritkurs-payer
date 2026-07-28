@@ -23,7 +23,7 @@ Határozza meg a következő alakokat:
 | ⟪६⟫. | ⟪मन्यै⟫ | :sig[⟪मन्⟫] 4Ā: Imperativus, Első személy, Egyszám, Medium |
 | ⟪७⟫. | ⟪मान्यै⟫ | :sig[⟪मन्⟫] 4Ā: Kausatívum, Passzívus, Imperativus, Első személy, Egyszám |
 | ⟪८⟫. | ⟪मान्यैः⟫ | :sig[⟪मन्⟫] 4Ā: Kausatívum, Gerundívum, Instrumentalisus Pluralis, Masculinum, Neutrum |
-| ⟪९⟫. | ⟪अहम्⟫ | Én: Nominativus, Egyszám |
+| ⟪९⟫. | :sig[⟪अहम्⟫] | Én: Nominativus, Egyszám |
 | ⟪१०⟫. | ⟪अहन्⟫ | :sig[⟪हन्⟫] 2P: Imperfektum, Második és Harmadik személy, Egyszám, Aktív |
 | ⟪११⟫. | ⟪आत्थ⟫ | :sig[⟪अह्⟫]: Perfektum, Második személy, Egyszám, Aktív |
 | ⟪१२⟫. | ⟪आत्त⟫ | :sig[⟪अद्⟫] 2P: Imperfektum, Második személy, Pluralis, Aktív |

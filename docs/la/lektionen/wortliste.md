@@ -2505,7 +2505,7 @@ Abb.: ⟪ऋषभः⟫
 Statua Nandi tauri, Montes Chamundi, Mysore.
 (Fons imaginis: [Detalia](/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** retinere, tenere, offerre, concedere
+**⟪यम्⟫ 1P :sig[⟪यच्छति⟫] :** retinere, tenere, offerre, concedere
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** porrigere, offerre, tradere
 
@@ -3574,7 +3574,7 @@ Perf. Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫
 Fut. ⟪ग्र⟫:sig[⟪ही⟫]⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
 Caus.⟪ग्राहयति⟫  
-PPP ⟪गृ⟫:sig[⟪ही⟫]⟪त⟫  
+PPP :sig[⟪गृ⟫]:sig[⟪ही⟫]⟪त⟫  
 Inf. ⟪ग्रहितुम्⟫  
 Absol. -⟪ग्राह्य⟫
 inde:
@@ -3954,7 +3954,7 @@ Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ :sig[⟪तू्र्⟫]⟪ण⟫
+PPP ⟪त्वरित⟫ ⟪।⟫ :sig[⟪तू्र्⟫]:sig[⟪ण⟫]
 Inf. ⟪त्वरितुम्⟫
 
 :::
@@ -3991,7 +3991,7 @@ Abb.: ⟪उत्तमा⟫ ⟪काला⟫
 
 ⟪उत⟫ Indekl.: et, quoque, an
 
-⟪विहंग⟫ m.: avis ("in aerem ⟨⟪स्⟫⟩tutum - ⟪विह⟫ - eunti")
+⟪विहंग⟫ m.: avis ("in aerem ⟨:sig[⟪स्⟫]⟩tutum - ⟪विह⟫ - eunti")
 
 ::: media
 ![](/images/lekt4903.jpg)
@@ -4140,7 +4140,7 @@ Declinatio ut ⟪यद्⟫ (exceptio: Nom.Akk.sg.Neutrum)
 | | **Masculinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** | **Masculinum:br⟪पुंस्⟫** | **Neutrum:br⟪नपुंसकम्⟫** | **Femininum:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
 | **1. Nominativus:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Accusativus:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. Accusativus:br⟪२⟫. ⟪द्वितीया⟫** | :sig[⟪सर्वम्⟫] | :sig[⟪सर्वम्⟫] | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
 | **3. Instrumentalis:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
 | **4. Dativus:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **5. Ablativus:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |

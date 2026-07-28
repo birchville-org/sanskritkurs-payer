@@ -33,7 +33,7 @@ Vor -vas und -vahe wird der Themavokal -a- durch -ā- ersetzt. <!-- TODO: Fallba
 | **2. ⟪मध्यमः⟫** | ⟪भवथस्⟫:br"ihr beide werdet" | \<⟪भवेथे⟫\>:brbhav-a + īthe |
 | **3. ⟪प्रथमः⟫** | ⟪भवतस्⟫:br"sie beide werden" | \<⟪भवेते⟫\> |
 
-### 58.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫)
+### 58.2.2. Vierte Präsensklasse (⟪दिवादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪नृत्⟫ 4P "tanzen" <!-- TODO: Fallback translation -->
 
@@ -60,7 +60,7 @@ Abb.: ⟪नृत्यतः⟫
 | 2\. ⟪मध्यमः⟫ | ⟪तुदथस्⟫ | ⟪तुदेथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुदतस्⟫ | ⟪तुदेते⟫ |
 :::
-### 58.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫)
+### 58.2.4. Zehnte Präsensklasse (⟪चुरादिगणः⟫) und Kausative (⟪णिजन्त⟫) <!-- TODO: Fallback translation -->
 
 ⟪चुर्⟫ 10U "stehlen" <!-- TODO: Fallback translation -->
 
@@ -111,9 +111,9 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 | 2\. ⟪मध्यमः⟫ | ⟪तुद्येथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪तुद्येते⟫ |
 :::
-## 58.5. Der Dual athematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫)
+## 58.5. Der Dual athematischer Präsensklassen: Indikativ Präsens (⟪लट्⟫) <!-- TODO: Fallback translation -->
 
-### 58.5.1. Zweite Präsensklasse (⟪अदादिगणः⟫)
+### 58.5.1. Zweite Präsensklasse (⟪अदादिगणः⟫) <!-- TODO: Fallback translation -->
 
 ⟪द्विष्⟫ 2U "hassen" <!-- TODO: Fallback translation -->
 
@@ -130,8 +130,8 @@ Bandipur National Park -- ಬಂಡಿಪುರ ಅಭಯಾರಣ್ಯ
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪दुह्वस्⟫ | ⟪दुह्वहे⟫ |
-| 2\. ⟪मध्यमः⟫ | *⟪दुग्धस्⟫* | ⟪दुहाथे⟫ |
-| 3\. ⟪प्रथमः⟫ | *⟪दुग्धस्⟫* | ⟪दुहाते⟫ |
+| 2\. ⟪मध्यमः⟫ | *:sig[⟪दुग्धस्⟫]* | ⟪दुहाथे⟫ |
+| 3\. ⟪प्रथमः⟫ | *:sig[⟪दुग्धस्⟫]* | ⟪दुहाते⟫ |
 :::
 ⟪इ⟫ 2P "gehen" <!-- TODO: Fallback translation -->
 
@@ -153,8 +153,8 @@ Abb.: ⟪उष्ट्रौ⟫ ⟪मरावितः⟫
 |   | ⟪आत्मनेपदम्⟫ |
 | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अधीवहे⟫ |
-| 2\. ⟪मध्यमः⟫ | ⟪अधी⟫*⟪या⟫*⟪थे⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अधी⟫*⟪य⟫*⟪ते⟫ |
+| 2\. ⟪मध्यमः⟫ | ⟪अधी⟫*:sig[⟪या⟫]*⟪थे⟫ |
+| 3\. ⟪प्रथमः⟫ | ⟪अधी⟫*:sig[⟪य⟫]*⟪ते⟫ |
 :::
 ::: media
 ![](/images/lekt5804.webp)
@@ -168,7 +168,7 @@ Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
 | :--- | :---: |
 | **1. ⟪तृतीयः⟫** | ⟪हन्वस्⟫ |
 | **2. ⟪मध्यमः⟫** | :sig[⟪हथस्⟫] :br*hn-thas |
-| **3. ⟪प्रथमः⟫** | *⟪हतस्⟫* |
+| **3. ⟪प्रथमः⟫** | *:sig[⟪हतस्⟫]* |
 :::
 ⟪अस्⟫ 2P "sein" <!-- TODO: Fallback translation -->
 
@@ -176,8 +176,8 @@ Abb.: ⟪कन्ये⟫ ⟪अधीयते⟫
 |   | ⟪परस्मैपदम्⟫ |
 | :--- | :---: |
 | **1. ⟪तृतीयः⟫** | :sig[⟪स्वस्⟫] :brs-vas |
-| **2. ⟪मध्यमः⟫** | *⟪स्थस्⟫* |
-| **3. ⟪प्रथमः⟫** | *⟪स्तस्⟫* |
+| **2. ⟪मध्यमः⟫** | *:sig[⟪स्थस्⟫]* |
+| **3. ⟪प्रथमः⟫** | *:sig[⟪स्तस्⟫]* |
 :::
 ::: media
 ![](/images/lekt5805.webp)
@@ -248,7 +248,7 @@ Abb.: ⟪शर्कराम्बु⟫ ⟪सुनुतः⟫
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪रुन्ध्वस्⟫ | ⟪रुन्ध्वहे⟫ |
-| 2\. ⟪मध्यमः⟫ | *⟪रुन्द्धस्⟫* | ⟪रुन्धाथे⟫ |
+| 2\. ⟪मध्यमः⟫ | *:sig[⟪रुन्द्धस्⟫]* | ⟪रुन्धाथे⟫ |
 | 3\. ⟪प्रथमः⟫ | ⟪रुन्द्धस्⟫ | ⟪रुन्धाते⟫ |
 :::
 ⟪युज्⟫ 7U "anschirren" <!-- TODO: Fallback translation -->
@@ -360,7 +360,7 @@ Paradigmen: <!-- TODO: Fallback translation -->
 **Besonderheiten:** <!-- TODO: Fallback translation -->
 
 1.  Bei einigen Wurzeln kann der Bindevokal -i- im ⟪आत्मनेपद⟫ durch -ī- ersetzt werden. Nach ⟪ग्रह्⟫ 9U "ergreifen" muss diese Ersetzung im P und Ā erfolgen:   <!-- TODO: Fallback translation -->
-    ⟪अग्र⟫*⟪ही⟫*⟪षम्⟫ , ⟪अग्र⟫*⟪ही⟫*⟪षि⟫
+    ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षम्⟫ , ⟪अग्र⟫*:sig[⟪ही⟫]*⟪षि⟫
 
 2.  Wurzeln der 8. Präsensklasse auf -n (oder -ṇ) können in der 2.3.sg.Ā tiefstufig sein:   <!-- TODO: Fallback translation -->
     ⟪तन्⟫ 8U: 2.sg.Ā ⟪अतनिष्ठास्⟫ / ⟪अतथस्⟫ (Wurzelaorist) ; 3. sg. Ā ⟪अतनिष्ट⟫ / ⟪अतत⟫ <!-- TODO: Fallback translation -->

@@ -434,7 +434,7 @@ e.g. ⟪मत्पुस्तकम्⟫ "my book" ; ⟪अस्मद्�
 
 ⟪पुस्तक⟫ m.n.: Manuscript, Book
 
-⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : to be in proper order, to fit (Loc.) ; to take shape, to form ; to resolve to, to condescend to (Dative)
+⟪कॢप्⟫ 1Ā ⟪कल्पते⟫ : to be in proper order, to fit (Loc.) ; to take shape, to form ; to resolve to, to condescend to (Dativeee)
 
 ::: indent
 Perf. II ⟪चकॢपे⟫ optionally ⟪अनिट्⟫  

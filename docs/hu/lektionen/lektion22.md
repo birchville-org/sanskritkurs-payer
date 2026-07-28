@@ -28,7 +28,7 @@ Bei der Übersetzung ins Deutsche vermeide man, ständig "nachdem" zu sagen. man
 (nähere Bestimmung zum Absolutiv: Umstandsbestimmung, Objekt u.sw.) - Absolutiv - Absolutiv - ... - Absolutiv - ... Agens + Verbalsatz (im Aktiv oder Passiv)
 
 :::
-**Beispiele:**
+**Példák:**
 
 ::: indent
 **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति⟫** = passzív szerkezet: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते⟫**  
@@ -256,7 +256,7 @@ Goa = ⟪गोंय⟫
 ::: media
 ![](/images/lekt2204.webp)
 Ábra: ⟪अन्नं⟫ ⟪पक्त्वा⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt2204))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt2204))
 :::
 
 ::: deleteme-box

@@ -9,7 +9,7 @@ status: stable
 
 # Lección 25
 
-## 25.1. Formación del Ablativo (⟪पञ्चमी⟫ = "quinta terminación casual")
+## 25.1. Formación del Ablativooo (⟪पञ्चमी⟫ = "quinta terminación casual")
 
 ::: grammar-box
 Excepto en los masculinos / neutros en -a y en los pronombres, en el singular las formas del ablativo (⟪पञ्चमी⟫) en todas las clases de declinación son idénticas a las del genitivo (⟪षष्ठी⟫).
@@ -19,7 +19,7 @@ Excepto en los pronombres personales, en todas las declinaciones en el plural la
 Ahora reconocen la razón del orden de los casos (⟪विभक्ति⟫) en sánscrito: están dispuestos de manera que las formas homófonas estén lo más juntas posible — o entre sí.
 
 ::: grammar-box
-**Ablativo singular de los masculinos / neutros en -a**
+**Ablativooo singular de los masculinos / neutros en -a**
 
 - **deva** (⟪देव⟫) → **devāt** (⟪देवात्⟫)
 :::
@@ -36,7 +36,7 @@ Pronombres interrogativos, relativos y demostrativos:
 | ⟪इदम्⟫ | **asmāt** :br(⟪अस्मात्⟫) | **asyāḥ** :br(⟪अस्याः⟫) |
 
 :::
-## 25.2. Uso del Ablativo (⟪पञ्चमी⟫)
+## 25.2. Uso del Ablativooo (⟪पञ्चमी⟫)
 
 "El ablativo designa aquello que permanece fijo cuando algo se aleja de él."
 
@@ -367,7 +367,7 @@ Fig.: ⟪हिरण्यम्⟫
 
 ## 25.6. Ejercicio
 
-A) Complete los ejemplos de declinación de [Lección 16](lektion16.md), ejercicio de repaso A, añadiendo 4. Dativo (⟪चतुर्थी⟫) y 5. Ablativo (⟪पञ्चमी⟫). Forme también series de declinación con todas las formas aprendidas hasta ahora para
+A) Complete los ejemplos de declinación de [Lección 16](lektion16.md), ejercicio de repaso A, añadiendo 4. Dativooo (⟪चतुर्थी⟫) y 5. Ablativooo (⟪पञ्चमी⟫). Forme también series de declinación con todas las formas aprendidas hasta ahora para
 
 ⟪१⟫. ⟪सन्त्⟫ (m., n.)
 
@@ -452,21 +452,21 @@ Explicación: ⟪राजा⟫ = Nom. sg. de ⟪राजन्⟫ m. = ⟪न
 
 2\. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫.⟪५⟫. sobre la formación de un príncipe:
 
-⟪तस्माद्दण्डमूला⟫*⟪स्तिस्रो⟫* ⟪विद्याः⟫ ⟪॥१॥⟫  
-⟪विनयमूलो⟫ ⟪दण्डः⟫ *⟪प्राणभृतां⟫* ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
+⟪तस्माद्दण्डमूला⟫*:sig[⟪स्तिस्रो⟫]* ⟪विद्याः⟫ ⟪॥१॥⟫  
+⟪विनयमूलो⟫ ⟪दण्डः⟫ *:sig[⟪प्राणभृतां⟫]* ⟪योगक्षेमावहः⟫ ⟪॥२॥⟫  
 ⟪कृतकः⟫ ⟪स्वाभाविकश्च⟫ ⟪विनयः⟫ ⟪॥३॥⟫  
 ⟪क्रिया⟫ ⟪हि⟫ ⟪द्रव्यं⟫ ⟪विनयति⟫ ⟪नाद्रव्यम्⟫ ⟪॥४॥⟫  
-⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ *⟪नेतरम्⟫* ⟪॥५॥⟫  
+⟪शुश्रूषाश्रवणग्रहणविज्ञानोहापोहतत्त्वाभिनिविष्टबुद्धिं⟫ ⟪विद्या⟫ ⟪विनयति⟫ *:sig[⟪नेतरम्⟫]* ⟪॥५॥⟫  
 ... ⟪॥⟫  
-⟪वृत्तचौल⟫*⟪कर्मा⟫* ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫*⟪पयुन्ञ्जीत⟫* ⟪॥७॥⟫  
-⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ *⟪वक्तृप्रयोक्तृभ्यः⟫* ⟪॥८॥⟫  
-⟪ब्रह्मचर्यं⟫ ⟪चा⟫ *⟪षोडशाद्व⟫*⟪र्षाद्⟫ ⟪॥९॥⟫  
-⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫*⟪कर्म⟫* ⟪चास्य⟫ ⟪॥१०॥⟫  
+⟪वृत्तचौल⟫*:sig[⟪कर्मा⟫]* ⟪लिपिं⟫ ⟪संख्यानं⟫ ⟪चो⟫*:sig[⟪पयुन्ञ्जीत⟫]* ⟪॥७॥⟫  
+⟪वृत्तोपनयस्त्रयीमान्वीक्षिकीं⟫ ⟪च⟫ ⟪शिष्टेभ्यो⟫ ⟪वार्त्तामध्यक्षेभ्यो⟫ ⟪दण्डनीतिं⟫ *:sig[⟪वक्तृप्रयोक्तृभ्यः⟫]* ⟪॥८॥⟫  
+⟪ब्रह्मचर्यं⟫ ⟪चा⟫ *:sig[⟪षोडशाद्व⟫]*⟪र्षाद्⟫ ⟪॥९॥⟫  
+⟪अतो⟫ ⟪गोदानं⟫ ⟪दार⟫*:sig[⟪कर्म⟫]* ⟪चास्य⟫ ⟪॥१०॥⟫  
 ⟪नित्यश्च⟫ ⟪विद्यावृद्धसंयोगो⟫ ⟪विनयवृद्ध्यर्थम्⟫, ⟪तन्मूलत्वाद्विनयस्य⟫ ⟪॥११॥⟫  
 ... ⟪॥⟫  
-⟪श्रुता⟫*⟪द्धि⟫* ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫*⟪दात्मवत्ते⟫*⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
+⟪श्रुता⟫*:sig[⟪द्धि⟫]* ⟪प्रज्ञोपजायते⟫ ⟪प्रज्ञाया⟫ ⟪योगो⟫ ⟪योगा⟫*:sig[⟪दात्मवत्ते⟫]*⟪ति⟫ ⟪विद्यानां⟫ ⟪सामर्थ्यम्⟫ ⟪॥१६॥⟫  
 ... ⟪॥⟫  
-⟪कामक्रोधलोभमानमदहर्षत्यागा⟫*⟪त्कार्यः⟫* ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
+⟪कामक्रोधलोभमानमदहर्षत्यागा⟫*:sig[⟪त्कार्यः⟫]* ⟪॥१⟫.⟪६⟫.⟪१⟫.⟪॥⟫
 
 Explicación de las palabras resaltadas en rojo en el texto anterior:
 
@@ -476,13 +476,13 @@ Explicación de las palabras resaltadas en rojo en el texto anterior:
 
 1.5.5.  ⟪इतरम्⟫ Acusativo singular masculino, derivado de ⟪इतर⟫ ⟪३⟫ "otro"
 
-1.5.7. ⟪कर्मा⟫ : Nominativo singular masculino, derivado de ⟪कर्मन्⟫ neutro "acción, obra" ; ⟪उपयुञ्जीत⟫ : Optativo 3. sg. Ā derivado de upa-yuj 7 "apropiarse": "que él se apropie"
+1.5.7. :sig[⟪कर्मा⟫] : Nominativooo singular masculino, derivado de ⟪कर्मन्⟫ neutro "acción, obra" ; ⟪उपयुञ्जीत⟫ : Optativooo 3. sg. Ā derivado de upa-yuj 7 "apropiarse": "que él se apropie"
 
-1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Ablativo, Dativo plural, derivado de ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "teóricos y prácticos"
+1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Ablativooo, Dativooo plural, derivado de ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "teóricos y prácticos"
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : "decimosexto"
 
-1.5.10. ⟪कर्म⟫ Nominativo, Acusativo singular, derivado de ⟪कर्मन्⟫ n. "acción"
+1.5.10. :sig[⟪कर्म⟫] Nominativooo, Acusativo singular, derivado de ⟪कर्मन्⟫ n. "acción"
 
 1.5.16. ⟪धि⟫ Forma de sandhi derivada de ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "autocontrol"
 

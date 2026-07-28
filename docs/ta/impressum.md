@@ -27,9 +27,9 @@ title: தகவல் & மேற்கோள்
 
 **கே.ஈ. உருவாக்கிய மொழிபெயர்ப்புகள்** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) மற்றும் **தொழில்நுட்ப குழாய்** (திரைப்புகள், QA-காட்சிப்படுத்தி, VitePress அமைப்பு):
 
-- மொழிபெயர்ப்புகள்: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — பெயர் குறிப்பு, அதே அனுமதியுடன் பகிரல்
-- குறியீடு/குழாய்: [MIT License](https://opensource.org/licenses/MIT)
+- மொழிபெயர்ப்புகள்: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — பெயர் குறிப்பு, அதே அனுமதியுடன் பகிரல்
+- குறியீடு/குழாய்: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
 
 **மொழிபெயர்ப்புகளுக்கான மேற்கோள் வடிவம்:**
-> Payer, Alois: Sanskritkurs. மொழிபெயர்க்கப்பட்டது கே.ஈ. உதவியுடன். Marco Demarmels (தொகுப்பாளர்), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: Sanskritkurs. மொழிபெயர்க்கப்பட்டது கே.ஈ. உதவியுடன். Marco Demarmels (தொகுப்பாளர் [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 

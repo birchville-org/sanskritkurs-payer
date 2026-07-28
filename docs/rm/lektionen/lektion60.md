@@ -259,7 +259,7 @@ Qua appartegnan:
 
 *   ⟪विष्वञ्च्⟫ 3 "in alle Richtungen gehend"
 
-### 60.5.2. Zweistämmige Stämme auf -añc
+### 60.5.2. Tribus bistamigidas sin sufix -añc
 
 ::: grammar-box
 **Educaziun:**
@@ -301,7 +301,7 @@ Las direcziuns principalas dal sid
 | ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "er wünscht zu stehlen" |
 | ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" |
 
-### 60.6.1. Bildung des Desiderativstammes
+### 60.6.1. Furma dal stem da desiderativ
 
 ::: grammar-box
 **Raditgias dals classes da present 1 - 9:**
@@ -324,13 +324,13 @@ Las regulaziuns davart l'usi dal vocal da ligaziun -i — vesair en Kielhorn, Gr
 1.  La radis è per ordinari profundida: ⟪जीव्⟫ » ⟪जिजीविष⟫-
 
     1.  Final -i, -u wird durch -ī bzw. -ū ersetzt, wenn kein Bindevokal folgt:  
-        ⟪जि⟫ » ⟪जि⟫***⟪गी⟫***⟪ष⟫- "zu siegen wünschen"  
-        ⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- "zu laufen wünschen"
+        ⟪जि⟫ » ⟪जि⟫**:sig[⟪गी⟫]**⟪ष⟫- "zu siegen wünschen"  
+        ⟪द्रु⟫ » ⟪दु⟫**:sig[⟪द्रू⟫]**⟪ष⟫- "zu laufen wünschen"
 
     2.  Final -ṛ, -ṝ wird durch -īr, nach Labialen durch -ūr ersetzt, wenn kein Bindevokal folgt:  
-        ⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- "vuler far"  
-        ⟪मृ⟫ » ⟪मु⟫***⟪मूर्ष⟫***\- "s'apprèttar a morir"  
-        ⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "vuler emplenar"
+        ⟪कृ⟫ » ⟪चि⟫**:sig[⟪कीर्ष⟫]**\- "vuler far"  
+        ⟪मृ⟫ » ⟪मु⟫**:sig[⟪मूर्ष⟫]**\- "s'apprèttar a morir"  
+        ⟪पॄ⟫ » ⟪पु⟫**:sig[⟪पूर्ष⟫]**\- "vuler emplenar"
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ ed autras radichs cun -ā, -e, -o han il stadi profund Ø:  
         ⟪दा⟩ » ⟪दित्स⟩- (di-**d** + sa)  
@@ -350,7 +350,7 @@ Las regulaziuns davart l'usi dal vocal da ligaziun -i — vesair en Kielhorn, Gr
         1.  obligatòricamain: radis da la furma i/u - consonant uschè (consonant -) ṛ/ḷ - consonant:  
             ⟪इष्⟫ » ⟪एषिषिष⟫- "da desiderar, da pretender"  
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "da esser adätsch, da desiderar"  
-            ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- "da sorridar, da desiderar"
+            ⟪स्मि⟫ » ⟪सि⟫**:sig[⟪स्म⟫]**⟪यिष⟫- "da sorridar, da desiderar"
 
         2.  alternativamente: Radices da la furma Consonant - (Consonant -) i/u - Consonant except -v\_  
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- «vulair da brillar sco in fulgur»

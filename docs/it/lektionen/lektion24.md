@@ -96,13 +96,13 @@ Fig.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 :::
 Ulteriori usi del dativo più avanti.
 
-## 24.2. Formazione del Dativo (⟪चतुर्थी⟫)
+## 24.2. Formazione del Dativooo (⟪चतुर्थी⟫)
 
 ::: grammar-box
-**Le desinenze regolari del Dativo sono:**
+**Le desinenze regolari del Dativooo sono:**
 
 * **Singolare: -e ; temi femminili vocalici: -ai**
-* **Plurale: Dativo e Ablativo ⟪पञ्चमी⟫: -bhyas**
+* **Pluraleee: Dativooo e Ablativooo ⟪पञ्चमी⟫: -bhyas**
 :::
 ### 24.2.1. Temi consonantici
 
@@ -299,7 +299,7 @@ Manoscritto del ⟪गीतगोविन्द⟫, 1730 d.C.
 
 ## 24.5. Esercizio
 
-A) Formare il Dativo singolare e il Dativo/(Ablativo) plurale e indicare il significato della radice nominale:
+A) Formare il Dativooo singolare e il Dativooo/(Ablativooo) plurale e indicare il significato della radice nominale:
 
 1.  ⟪श्रव⟫
 2.  ⟪भवन⟫

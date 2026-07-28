@@ -5,333 +5,333 @@ lesson_id: 14
 last_reconstructed: 2026-05-21
 category: "Grammatik"
 status: stable
---- <!-- TODO: Fallback translation -->
+---
 
-# Lektion 14 <!-- TODO: Fallback translation -->
+# Lektion 14
 
-## 14.1. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung) <!-- TODO: Fallback translation -->
+## 14.1. Der Ausdruck des Verhältnisses von durch Substantive Bezeichnetem: der Genetiv (ṣaṣṭhī f. = ⟪षष्टी⟫ = sechste Kasusendung)
 
 ::: grammar-box
-Soll das Verhältnis des durch zwei Substantive ausgedrückten bezeichnet werden, verwendet man den Genetiv (ṣaṣṭhī f. "sechste Kasusendung"). Der Genetiv unterscheidet sich von allen übrigen Kasus dadurch, dass er -- mit wenigen Ausnahmen -- nicht zur näheren Bestimmung der durch das Verb ausgedrückten Handlung dient, sondern zum Ausdruck des Verhältnisses zwischen Personen oder Sachen, die durch Substantive bezeichnet werden. Häufig steht der Genetiv auf die Frage: Wessen? <!-- TODO: Fallback translation -->
+Soll das Verhältnis des durch zwei Substantive ausgedrückten bezeichnet werden, verwendet man den Genetiv (ṣaṣṭhī f. "sechste Kasusendung"). Der Genetiv unterscheidet sich von allen übrigen Kasus dadurch, dass er -- mit wenigen Ausnahmen -- nicht zur näheren Bestimmung der durch das Verb ausgedrückten Handlung dient, sondern zum Ausdruck des Verhältnisses zwischen Personen oder Sachen, die durch Substantive bezeichnet werden. Häufig steht der Genetiv auf die Frage: Wessen?
 :::
-Beispiele: <!-- TODO: Fallback translation -->
+Beispiele:
 
-⟪कवेः⟫ ⟪पुत्रः⟫ "Des Dichters Sohn" <!-- TODO: Fallback translation -->
+⟪कवेः⟫ ⟪पुत्रः⟫ "Des Dichters Sohn"
 
-⟪धनस्य⟫ ⟪लोभः⟫ "Gier nach Reichtum" <!-- TODO: Fallback translation -->
+⟪धनस्य⟫ ⟪लोभः⟫ "Gier nach Reichtum"
 
-⟪नगरस्यार्धम्⟫ "Die Hälfte der Stadt" <!-- TODO: Fallback translation -->
+⟪नगरस्यार्धम्⟫ "Die Hälfte der Stadt"
 
-⟪रामस्य⟫ ⟪कृतम्⟫ "Die / Eine Tat Rāmas" <!-- TODO: Fallback translation -->
+⟪रामस्य⟫ ⟪कृतम्⟫ "Die / Eine Tat Rāmas"
 
 ::: grammar-box
-Die normale Wortstellung ist: <!-- TODO: Fallback translation -->
+Die normale Wortstellung ist:
 
-> **Bestimmendes Wort im Genetiv — Näher bestimmtes Substantiv in einem anderen Kasus** <!-- TODO: Fallback translation -->
+> **Bestimmendes Wort im Genetiv — Näher bestimmtes Substantiv in einem anderen Kasus**
 :::
-**Genetiv und PPP:** <!-- TODO: Fallback translation -->
+**Genetiv und PPP:**
 
 ::: grammar-box
-Bei PPPs kann der Genetiv statt des Instrumentalis (tṛtīyā) für den Agens (kartṛ) stehen; In der Konstruktion mit dem Instrumentalis wird das PPP als passive Verbalform betrachtet (das im Instrumentalis Stehende bezeichnet den Agens), in der Konstruktion mit dem Genetiv wird das PPP als Substantiv bzw. Adjektiv betrachtet (das im Genetiv Stehende also nicht eigentlich als Agens). <!-- TODO: Fallback translation -->
+Bei PPPs kann der Genetiv statt des Instrumentalis (tṛtīyā) für den Agens (kartṛ) stehen; In der Konstruktion mit dem Instrumentalis wird das PPP als passive Verbalform betrachtet (das im Instrumentalis Stehende bezeichnet den Agens), in der Konstruktion mit dem Genetiv wird das PPP als Substantiv bzw. Adjektiv betrachtet (das im Genetiv Stehende also nicht eigentlich als Agens).
 
-Nach Pāṇini 2.3.67 steht beim PPP der Genetiv, wenn das PPP präsentische Bedeutung hat (siehe oben), der Instrumentalis, wenn das PPP Vergangenheitsbedeutung hat: <!-- TODO: Fallback translation -->
+Nach Pāṇini 2.3.67 steht beim PPP der Genetiv, wenn das PPP präsentische Bedeutung hat (siehe oben), der Instrumentalis, wenn das PPP Vergangenheitsbedeutung hat:
 
-> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Die von Rāma gewünschte Frucht = Die Frucht, die Rāma gegenwärtig wünscht" <!-- TODO: Fallback translation -->
->  <!-- TODO: Fallback translation -->
-> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Die Frucht, die Rāma gewünscht hat" <!-- TODO: Fallback translation -->
+> ⟪रामस्येष्टं⟫ ⟪फलम्⟫ "Die von Rāma gewünschte Frucht = Die Frucht, die Rāma gegenwärtig wünscht"
+> 
+> ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Die Frucht, die Rāma gewünscht hat"
 
-Selbstverständlich steht bei einem PPP Neutrum Singular, das als Verbalabstraktum - also als Substantiv - gebraucht wird, der Genetiv. <!-- TODO: Fallback translation -->
+Selbstverständlich steht bei einem PPP Neutrum Singular, das als Verbalabstraktum - also als Substantiv - gebraucht wird, der Genetiv.
 :::
-## 14.2. Bildung der Genetivformen (ṣaṣṭhī f. = ⟪षष्ठी⟫) <!-- TODO: Fallback translation -->
+## 14.2. Bildung der Genetivformen (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
-Der Genetiv wird bei Verbalstämmen mit Stammabstufung vom schwachen Stamm gebildet. <!-- TODO: Fallback translation -->
+Der Genetiv wird bei Verbalstämmen mit Stammabstufung vom schwachen Stamm gebildet.
 
-**Genetiv von konsonantisch auslautenden Stämmen:** <!-- TODO: Fallback translation -->
+**Genetiv von konsonantisch auslautenden Stämmen:**
 
 ::: grammar-box
 
-Nach Konsonant sind die regelmässigen Genetivendungen: <!-- TODO: Fallback translation -->
-* Singular: **-as** <!-- TODO: Fallback translation -->
-* Plural: **-ām** <!-- TODO: Fallback translation -->
+Nach Konsonant sind die regelmässigen Genetivendungen:
+* Singular: **-as**
+* Plural: **-ām**
 
 :::
 ::: center
 
-| Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ | <!-- TODO: Fallback translation -->
-| **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ | <!-- TODO: Fallback translation -->
+| Nominalstamm | Schwacher Stamm | Genetiv Singular | Genetiv Plural |
+| :--- | :--- | :--- | :--- |
+| **guṇa-vant-** :br ⟪गुणवन्त्⟫ | **guṇa-vat-** :br ⟪गुणवत्⟫ | **guṇa-vat-as** :br ⟪गुणवतस्⟫ | **guṇa-vat-ām** :br ⟪गुणवताम्⟫ |
+| **paśu-mant-** :br ⟪पशुमन्त्⟫ | **paśu-mat-** :br ⟪पशुमत्⟫ | **paśu-mat-as** :br ⟪पशुमतस्⟫ | **paśu-mat-ām** :br ⟪पशुमताम्⟫ |
 
 :::
-**Genetiv von vokalisch auslautenden Stämmen, ausser einsilbigen Wurzelnomina und diphtongisch auslautenden Stämmen:** <!-- TODO: Fallback translation -->
+**Genetiv von vokalisch auslautenden Stämmen, ausser einsilbigen Wurzelnomina und diphtongisch auslautenden Stämmen:**
 
-**Plural:** <!-- TODO: Fallback translation -->
+**Plural:**
 
 ::: grammar-box
 
-Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet: <!-- TODO: Fallback translation -->
+Der Genetiv Plural vokalisch auslautender Stämme wird so gebildet:
 
-> **-langer auslautender Vokal des Stammes + -nām** <!-- TODO: Fallback translation -->
+> **-langer auslautender Vokal des Stammes + -nām**
 
 :::
 ::: center
 
-| Nominalstamm | Genetiv Plural | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **deva** m.:br ⟪देव⟫ | **devā-nām** :br ⟪देवानाम्⟫ | <!-- TODO: Fallback translation -->
-| **phala** n.:br ⟪फल⟫ | **phalā-nām** :br ⟪फलानाम्⟫ | <!-- TODO: Fallback translation -->
-| **devatā** f.:br ⟪देवता⟫ | **devatā-nām** :br ⟪देवतानाम्⟫ | <!-- TODO: Fallback translation -->
-| **kavi** m.:br ⟪कवि⟫ | **kavī-nām** :br ⟪कवीनाम्⟫ | <!-- TODO: Fallback translation -->
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutī-nām** :br ⟪श्रुतीनाम्⟫ | <!-- TODO: Fallback translation -->
-| **devī** f.:br ⟪देवी⟫ | **devī-nām** :br ⟪देवीनाम्⟫ | <!-- TODO: Fallback translation -->
-| **paśu** m.:br ⟪पशु⟫ | **paśū-nām** :br ⟪पशूनाम्⟫ | <!-- TODO: Fallback translation -->
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ | <!-- TODO: Fallback translation -->
+| Nominalstamm | Genetiv Plural |
+| :--- | :--- |
+| **deva** m.:br ⟪देव⟫ | **devā-nām** :br ⟪देवानाम्⟫ |
+| **phala** n.:br ⟪फल⟫ | **phalā-nām** :br ⟪फलानाम्⟫ |
+| **devatā** f.:br ⟪देवता⟫ | **devatā-nām** :br ⟪देवतानाम्⟫ |
+| **kavi** m.:br ⟪कवि⟫ | **kavī-nām** :br ⟪कवीनाम्⟫ |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutī-nām** :br ⟪श्रुतीनाम्⟫ |
+| **devī** f.:br ⟪देवी⟫ | **devī-nām** :br ⟪देवीनाम्⟫ |
+| **paśu** m.:br ⟪पशु⟫ | **paśū-nām** :br ⟪पशूनाम्⟫ |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenū-nām** :br ⟪धेनूनाम्⟫ |
 
 :::
-**Genetiv Singular vokalisch auslautender Stämme:** <!-- TODO: Fallback translation -->
+**Genetiv Singular vokalisch auslautender Stämme:**
 
 ::: grammar-box
 
-Der Genetiv Singular vokalisch auslautender Stämme wird unregelmässig gebildet und ist gut auswendig zu lernen. <!-- TODO: Fallback translation -->
+Der Genetiv Singular vokalisch auslautender Stämme wird unregelmässig gebildet und ist gut auswendig zu lernen.
 
 :::
 ::: center
 
-| Stamm | Genetiv Singular | <!-- TODO: Fallback translation -->
-| :--- | :--- | <!-- TODO: Fallback translation -->
-| **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ | <!-- TODO: Fallback translation -->
-| **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ | <!-- TODO: Fallback translation -->
-| **devatā** f.:br ⟪देवता⟫ | **devatāyās** :br ⟪देवतायास्⟫ | <!-- TODO: Fallback translation -->
-| **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ | <!-- TODO: Fallback translation -->
-| **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ | <!-- TODO: Fallback translation -->
-| **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ | <!-- TODO: Fallback translation -->
-| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) | <!-- TODO: Fallback translation -->
-| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) | <!-- TODO: Fallback translation -->
+| Stamm | Genetiv Singular |
+| :--- | :--- |
+| **deva** m.:br ⟪देव⟫ | **devasya** :br ⟪देवस्य⟫ |
+| **phala** n.:br ⟪फल⟫ | **phalasya** :br ⟪फलस्य⟫ |
+| **devatā** f.:br ⟪देवता⟫ | **devatāyās** :br ⟪देवतायास्⟫ |
+| **kavi** m.:br ⟪कवि⟫ | **kaves** :br ⟪कवेस्⟫ |
+| **paśu** m.:br ⟪पशु⟫ | **paśos** :br ⟪पशोस्⟫ |
+| **devī** f.:br ⟪देवी⟫ | **devyās** :br ⟪देव्यास्⟫ |
+| **śruti** f.:br ⟪श्रुति⟫ | **śrutes / śrutyās** :br **⟪श्रुतेस्⟫ / ⟪श्रुत्यास्⟫** :br(d.h. entweder wir kavi oder wie devī) |
+| **dhenu** f.:br ⟪धेनु⟫ | **dhenos / dhenvās** :br **⟪धेनोस्⟫ / ⟪धेन्वास्⟫** :br(d.h. entweder wir paśu oder wie mehrsilbige Feminina auf -ū) |
 
 :::
-**Fragepronomen und Demonstrativpronomen:** <!-- TODO: Fallback translation -->
+**Fragepronomen und Demonstrativpronomen:**
 
 ::: center
 
-| | | kim | tad | etad | idam | <!-- TODO: Fallback translation -->
-| :--- | :--- | :--- | :--- | :--- | :--- | <!-- TODO: Fallback translation -->
-| **Maskulinum / Neutrum** | **Genetiv Singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ | <!-- TODO: Fallback translation -->
-| | **Genetiv Plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ | <!-- TODO: Fallback translation -->
-| **Femininum** | **Genetiv Singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ | <!-- TODO: Fallback translation -->
-| | **Genetiv Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ | <!-- TODO: Fallback translation -->
+| | | kim | tad | etad | idam |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Maskulinum / Neutrum** | **Genetiv Singular** | kasya:br ⟪कस्य⟫ | tasya:br ⟪तस्य⟫ | etasya:br ⟪एतस्य⟫ | asya:br ⟪अस्य⟫ |
+| | **Genetiv Plural** | keṣām:br ⟪केषाम्⟫ | teṣām:br ⟪तेषाम्⟫ | eteṣām:br ⟪एतेषाम्⟫ | eṣām:br ⟪एषाम्⟫ |
+| **Femininum** | **Genetiv Singular** | kasyās:br ⟪कस्यास्⟫ | tasyās:br ⟪तस्यास्⟫ | etasyās:br ⟪एतस्यास्⟫ | asyās:br ⟪अस्यास्⟫ |
+| | **Genetiv Plural** | kāsām:br ⟪कासाम्⟫ | tāsām:br ⟪तासाम्⟫ | etāsām:br ⟪एतासाम्⟫ | āsām:br ⟪आसाम्⟫ |
 
 :::
-**Formengleichheit:** <!-- TODO: Fallback translation -->
+**Formengleichheit:**
 
 ::: important
 
-Bei allen Nominalstämmen mit Ausnahme der Maskulina und Neutra auf -a und den Pronomina ist die Form des Genetiv Singular identisch mit der Form des Ablativ (pañcamī "fünfte Kasusendung") Singular! <!-- TODO: Fallback translation -->
+Bei allen Nominalstämmen mit Ausnahme der Maskulina und Neutra auf -a und den Pronomina ist die Form des Genetiv Singular identisch mit der Form des Ablativ (pañcamī "fünfte Kasusendung") Singular!
 
-Beachten Sie, dass bei konsonantisch auslautenden Stämmen Ablativ und Genetiv Singular gleich lauten wie der Akkusativ Plural Maskulinum und Femininum! <!-- TODO: Fallback translation -->
+Beachten Sie, dass bei konsonantisch auslautenden Stämmen Ablativ und Genetiv Singular gleich lauten wie der Akkusativ Plural Maskulinum und Femininum!
 
 :::
-## 14.3. Weiteres zum Gebrauch des Genetiv (⟪षष्ठी⟫) <!-- TODO: Fallback translation -->
+## 14.3. Weiteres zum Gebrauch des Genetiv (⟪षष्ठी⟫)
 
 ::: grammar-box
-Entgegen obiger Grundregel wird der Genetiv verwendet, um das Objekt einiger Verben auszudrücken, z.B. bei Verben des Gedenkens: <!-- TODO: Fallback translation -->
+Entgegen obiger Grundregel wird der Genetiv verwendet, um das Objekt einiger Verben auszudrücken, z.B. bei Verben des Gedenkens:
 
-> ⟪देवानां⟫ ⟪स्मरति⟫ "Er gedenkt der Götter" <!-- TODO: Fallback translation -->
+> ⟪देवानां⟫ ⟪स्मरति⟫ "Er gedenkt der Götter"
 
-Bei all diesen Verben kann das Objekt aber auch im Akkusativ stehen: <!-- TODO: Fallback translation -->
+Bei all diesen Verben kann das Objekt aber auch im Akkusativ stehen:
 
-> ⟪देवान्स्मरति⟫ "Er gedenkt der Götter" <!-- TODO: Fallback translation -->
+> ⟪देवान्स्मरति⟫ "Er gedenkt der Götter"
 
-Weiteres später. <!-- TODO: Fallback translation -->
+Weiteres später.
 :::
-## 14.4. Wortliste <!-- TODO: Fallback translation -->
+## 14.4. Wortliste
 
-* **śīla n.** (⟪शील⟫) : (guter) Charakter, Sittlichkeit <!-- TODO: Fallback translation -->
-* **bhūṣ-aṇa n** (⟪भूषण⟫) : Schmuck <!-- TODO: Fallback translation -->
-* **dīpa m.** (⟪दीप⟫) : Lampe <!-- TODO: Fallback translation -->
+* **śīla n.** (⟪शील⟫) : (guter) Charakter, Sittlichkeit
+* **bhūṣ-aṇa n** (⟪भूषण⟫) : Schmuck
+* **dīpa m.** (⟪दीप⟫) : Lampe
 
 ::: media
 ![](/images/lekt1405.webp)
 Abb.: ⟪दीपाः⟫
-(Bildquelle: [Details](/licenses#lekt1405)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1405))
 :::
-* **bala n.** (⟪बल⟫) : Gewalt, Kraft, Stärke; Heereskraft, Heerschar <!-- TODO: Fallback translation -->
-* **bāla 3** (⟪बाल⟫) : jung, kindlich, töricht; m. Knabe <!-- TODO: Fallback translation -->
-* **bālā f.** (⟪बाला⟫) : junges Mädchen <!-- TODO: Fallback translation -->
-* **nara m.** (⟪नर⟫) : Mann, Mensch <!-- TODO: Fallback translation -->
-* **śatru m.** (⟪शत्रु⟫) : Feind <!-- TODO: Fallback translation -->
-* **loka m.** (⟪लोक⟫) : Welt; Sing. u. Plur.: die Leute, die Menschen, das Volk <!-- TODO: Fallback translation -->
-* **jala n.** (⟪जल⟫) : Wasser <!-- TODO: Fallback translation -->
-* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : geboren werden, entstehen, auftreten <!-- TODO: Fallback translation -->
-  * **jan-a m.** (⟪जन⟫) : Geschöpf, Mensch, Leute <!-- TODO: Fallback translation -->
-* **vac 2 P** (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : sagen, sprechen zu (dvitīyā) <!-- TODO: Fallback translation -->
-  * **uk-ti f.** (⟪उक्ति⟫) : Ausspruch, Wort <!-- TODO: Fallback translation -->
-  * **vac-ana n.** (⟪वचन⟫) : das Sprechen, das Wort <!-- TODO: Fallback translation -->
-  * **vāk-ya n.** (⟪वाक्य⟫) : Wort, Rede <!-- TODO: Fallback translation -->
+* **bala n.** (⟪बल⟫) : Gewalt, Kraft, Stärke; Heereskraft, Heerschar
+* **bāla 3** (⟪बाल⟫) : jung, kindlich, töricht; m. Knabe
+* **bālā f.** (⟪बाला⟫) : junges Mädchen
+* **nara m.** (⟪नर⟫) : Mann, Mensch
+* **śatru m.** (⟪शत्रु⟫) : Feind
+* **loka m.** (⟪लोक⟫) : Welt; Sing. u. Plur.: die Leute, die Menschen, das Volk
+* **jala n.** (⟪जल⟫) : Wasser
+* **jan 4 Ā** (jāyate), Pass. janyate / jāyate, PPP jāta (⟪जन्⟫ ⟪जायते⟫ ⟪जन्यते⟫ ⟪जायते⟫ ⟪जात⟫) : geboren werden, entstehen, auftreten
+  * **jan-a m.** (⟪जन⟫) : Geschöpf, Mensch, Leute
+* **vac 2 P** (vakti, keine 3. plur.!), Pass. ucyate, PPP ukta (⟪वच्⟫ ⟪वक्ति⟫ ⟪उच्यते⟫ ⟪उक्त⟫) : sagen, sprechen zu (dvitīyā)
+  * **uk-ti f.** (⟪उक्ति⟫) : Ausspruch, Wort
+  * **vac-ana n.** (⟪वचन⟫) : das Sprechen, das Wort
+  * **vāk-ya n.** (⟪वाक्य⟫) : Wort, Rede
 
-## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Sprichwörter <!-- TODO: Fallback translation -->
+## 14.5. Subhāṣitāni = ⟪सुभाषितानि⟫ = Sprichwörter
 
-Übersetzen Sie folgende Sprichwörter und lernen Sie sie auswendig: <!-- TODO: Fallback translation -->
+Übersetzen Sie folgende Sprichwörter und lernen Sie sie auswendig:
 
-**⟪नीचो⟫ ⟪वद⟫ati ⟪न⟫ ⟪कुरुते⟫** **⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥१॥⟫** <!-- TODO: Fallback translation -->
+**⟪नीचो⟫ ⟪वद⟫ati ⟪न⟫ ⟪कुरुते⟫** **⟪वदति⟫ ⟪न⟫ ⟪साधुः⟫ ⟪करोत्येव⟫ ⟪॥१॥⟫**
 
-**⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥२॥⟫** <!-- TODO: Fallback translation -->
+**⟪शीलं⟫ ⟪नरस्य⟫ ⟪भूषणम्⟫ ⟪॥२॥⟫**
 
-**⟪सत्येन⟫ ⟪जनानां⟫ ⟪सुखं⟫ ⟪भवति⟫ ⟪॥३॥⟫** <!-- TODO: Fallback translation -->
+**⟪सत्येन⟫ ⟪जनानां⟫ ⟪सुखं⟫ ⟪भवति⟫ ⟪॥३॥⟫**
 
-**⟪पापा⟫ ⟪नराः⟫ ⟪स्वर्गं⟫ ⟪न⟫ ⟪लभन्ते⟫ ⟪॥४॥⟫** <!-- TODO: Fallback translation -->
+**⟪पापा⟫ ⟪नराः⟫ ⟪स्वर्गं⟫ ⟪न⟫ ⟪लभन्ते⟫ ⟪॥४॥⟫**
 
-**⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫** <!-- TODO: Fallback translation -->
+**⟪सत्यं⟫ ⟪लोकस्य⟫ ⟪दीपः⟫ ⟪॥५॥⟫**
 
-## 14.6. Übung <!-- TODO: Fallback translation -->
+## 14.6. Übung
 
-**A) Bilden Sie den Genetiv Singular und Plural zu folgenden Wörtern. Geben Sie Bedeutung und Geschlecht der Wörter an:** <!-- TODO: Fallback translation -->
+**A) Bilden Sie den Genetiv Singular und Plural zu folgenden Wörtern. Geben Sie Bedeutung und Geschlecht der Wörter an:**
 
-⟪१⟫. ⟪अनृत⟫ <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪अनृत⟫
 
-⟪२⟫. ⟪ऋषि⟫ <!-- TODO: Fallback translation -->
+⟪२⟫. ⟪ऋषि⟫
 
-⟪३⟫. ⟪पाद⟫ <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪पाद⟫
 
-⟪४⟫. ⟪बुद्धि⟫ <!-- TODO: Fallback translation -->
+⟪४⟫. ⟪बुद्धि⟫
 
-⟪५⟫. ⟪गुरु⟫ <!-- TODO: Fallback translation -->
+⟪५⟫. ⟪गुरु⟫
 
-⟪६⟫. ⟪स्वर्ग⟫ <!-- TODO: Fallback translation -->
+⟪६⟫. ⟪स्वर्ग⟫
 
-⟪७⟫. ⟪नगर⟫ <!-- TODO: Fallback translation -->
+⟪७⟫. ⟪नगर⟫
 
-⟪८⟫. ⟪धेनु⟫ <!-- TODO: Fallback translation -->
+⟪८⟫. ⟪धेनु⟫
 
-⟪९⟫. ⟪द्विज⟫ <!-- TODO: Fallback translation -->
+⟪९⟫. ⟪द्विज⟫
 
-⟪१०⟫. ⟪मुक्ता⟫ <!-- TODO: Fallback translation -->
+⟪१०⟫. ⟪मुक्ता⟫
 
-⟪११⟫. ⟪विद्या⟫ <!-- TODO: Fallback translation -->
+⟪११⟫. ⟪विद्या⟫
 
-⟪१२⟫. ⟪वर्ण⟫ <!-- TODO: Fallback translation -->
+⟪१२⟫. ⟪वर्ण⟫
 
-⟪१३⟫. ⟪द्विजाति⟫ <!-- TODO: Fallback translation -->
+⟪१३⟫. ⟪द्विजाति⟫
 
-⟪१४⟫. ⟪रूप⟫ <!-- TODO: Fallback translation -->
+⟪१४⟫. ⟪रूप⟫
 
-⟪१५⟫. ⟪प्रतिग्रह⟫ <!-- TODO: Fallback translation -->
+⟪१५⟫. ⟪प्रतिग्रह⟫
 
-⟪१६⟫. ⟪सोढ⟫ <!-- TODO: Fallback translation -->
+⟪१६⟫. ⟪सोढ⟫
 
-⟪१७⟫. ⟪नायिका⟫ <!-- TODO: Fallback translation -->
+⟪१७⟫. ⟪नायिका⟫
 
-⟪१८⟫. ⟪साध्वी⟫ <!-- TODO: Fallback translation -->
+⟪१८⟫. ⟪साध्वी⟫
 
-⟪१९⟫. ⟪अग्नि⟫ <!-- TODO: Fallback translation -->
+⟪१९⟫. ⟪अग्नि⟫
 
-⟪२०⟫. ⟪वैश्या⟫ <!-- TODO: Fallback translation -->
+⟪२०⟫. ⟪वैश्या⟫
 
-⟪२१⟫. ⟪लोक⟫ <!-- TODO: Fallback translation -->
+⟪२१⟫. ⟪लोक⟫
 
-⟪२२⟫. ⟪उक्ति⟫ <!-- TODO: Fallback translation -->
+⟪२२⟫. ⟪उक्ति⟫
 
-⟪२३⟫. ⟪शत्रु⟫ <!-- TODO: Fallback translation -->
+⟪२३⟫. ⟪शत्रु⟫
 
-⟪२४⟫. ⟪सुखवन्त्⟫ <!-- TODO: Fallback translation -->
+⟪२४⟫. ⟪सुखवन्त्⟫
 
-⟪२५⟫. ⟪पुत्रवती⟫ <!-- TODO: Fallback translation -->
+⟪२५⟫. ⟪पुत्रवती⟫
 
 ::: media
 ![](/images/lekt1404.webp)
 Abb.: ⟪पुत्रवती⟫
-(Bildquelle: [Details](/licenses#lekt1404)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1404))
 :::
-⟪२६⟫. ⟪जल⟫ <!-- TODO: Fallback translation -->
+⟪२६⟫. ⟪जल⟫
 
-⟪२७⟫. ⟪मार्ग⟫ <!-- TODO: Fallback translation -->
+⟪२७⟫. ⟪मार्ग⟫
 
-⟪२८⟫. ⟪मोक्ष⟫ <!-- TODO: Fallback translation -->
+⟪२८⟫. ⟪मोक्ष⟫
 
-⟪२९⟫. ⟪शूद्रा⟫ <!-- TODO: Fallback translation -->
+⟪२९⟫. ⟪शूद्रा⟫
 
-⟪३०⟫. ⟪अन्न⟫ <!-- TODO: Fallback translation -->
+⟪३०⟫. ⟪अन्न⟫
 
-⟪३१⟫. ⟪साधु⟫ <!-- TODO: Fallback translation -->
+⟪३१⟫. ⟪साधु⟫
 
-⟪३२⟫. ⟪नीति⟫ <!-- TODO: Fallback translation -->
+⟪३२⟫. ⟪नीति⟫
 
-⟪३३⟫. ⟪योध⟫ <!-- TODO: Fallback translation -->
+⟪३३⟫. ⟪योध⟫
 
-⟪३४⟫. ⟪सत्यवन्त्⟫ <!-- TODO: Fallback translation -->
+⟪३४⟫. ⟪सत्यवन्त्⟫
 
-⟪३५⟫. ⟪लाभ⟫ <!-- TODO: Fallback translation -->
+⟪३५⟫. ⟪लाभ⟫
 
-⟪३६⟫. ⟪मोह⟫ <!-- TODO: Fallback translation -->
+⟪३६⟫. ⟪मोह⟫
 
-⟪३७⟫. ⟪गति⟫ <!-- TODO: Fallback translation -->
+⟪३७⟫. ⟪गति⟫
 
-⟪३८⟫. ⟪प्रश्न⟫ <!-- TODO: Fallback translation -->
+⟪३८⟫. ⟪प्रश्न⟫
 
-⟪३९⟫. ⟪सृष्टि⟫ <!-- TODO: Fallback translation -->
+⟪३९⟫. ⟪सृष्टि⟫
 
-⟪४०⟫. ⟪नेत्र⟫ <!-- TODO: Fallback translation -->
+⟪४०⟫. ⟪नेत्र⟫
 
-⟪४१⟫. ⟪गुरुता⟫ <!-- TODO: Fallback translation -->
+⟪४१⟫. ⟪गुरुता⟫
 
-⟪४२⟫. ⟪ईश्वर⟫ <!-- TODO: Fallback translation -->
+⟪४२⟫. ⟪ईश्वर⟫
 
-⟪४३⟫. ⟪कारण⟫ <!-- TODO: Fallback translation -->
+⟪४३⟫. ⟪कारण⟫
 
-⟪४४⟫. ⟪कृत⟫ <!-- TODO: Fallback translation -->
+⟪४४⟫. ⟪कृत⟫
 
-⟪४५⟫. ⟪धर्मवन्त्⟫ <!-- TODO: Fallback translation -->
+⟪४५⟫. ⟪धर्मवन्त्⟫
 
-⟪४६⟫. ⟪युद्ध⟫ <!-- TODO: Fallback translation -->
+⟪४६⟫. ⟪युद्ध⟫
 
-⟪४७⟫. ⟪दर्शन⟫ <!-- TODO: Fallback translation -->
+⟪४७⟫. ⟪दर्शन⟫
 
-⟪४८⟫. ⟪धातु⟫ <!-- TODO: Fallback translation -->
+⟪४८⟫. ⟪धातु⟫
 
-⟪४९⟫. ⟪गूढा⟫ <!-- TODO: Fallback translation -->
+⟪४९⟫. ⟪गूढा⟫
 
-⟪५०⟫. ⟪ईष्टा⟫ (2 Bedeutungen) <!-- TODO: Fallback translation -->
+⟪५०⟫. ⟪ईष्टा⟫ (2 Bedeutungen)
 
-⟪५१⟫. ⟪उदित⟫ <!-- TODO: Fallback translation -->
+⟪५१⟫. ⟪उदित⟫
 
-⟪५२⟫. ⟪इदम्⟫ <!-- TODO: Fallback translation -->
+⟪५२⟫. ⟪इदम्⟫
 
-⟪५३⟫. ⟪किम्⟫ <!-- TODO: Fallback translation -->
+⟪५३⟫. ⟪किम्⟫
 
 ::: media
 ![](/images/lekt1403.webp)
 Abb.: ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt1403)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1403))
 :::
-**B) Übersetzen Sie:** <!-- TODO: Fallback translation -->
+**B) Übersetzen Sie:**
 
-⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 Möglichkeiten) <!-- TODO: Fallback translation -->
+⟪१⟫. ⟪ब्राह्मणस्य⟫ ⟪पुत्रो⟫ ⟪ब्राह्मण्या⟫ ⟪ग्रामं⟫ ⟪गतः⟫ ⟪।⟫ (2 Möglichkeiten)
 
-⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪२⟫. ⟪यज्ञस्याग्निनान्नं⟫ ⟪दग्धम्⟫ ⟪।⟫
 
-⟪३⟫. ⟪बुद्धः⟫ ⟪सत्यस्य⟫ ⟪बुद्ध्या⟫ ⟪मुक्तः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪३⟫. ⟪बुद्धः⟫ ⟪सत्यस्य⟫ ⟪बुद्ध्या⟫ ⟪मुक्तः⟫ ⟪।⟫
 
-⟪४⟫. ⟪अधर्मो⟫ ⟪ऽनृतस्य⟫ ⟪वदनमित्यृषयो⟫ ⟪वदन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪४⟫. ⟪अधर्मो⟫ ⟪ऽनृतस्य⟫ ⟪वदनमित्यृषयो⟫ ⟪वदन्ति⟫ ⟪।⟫
 
-⟪५⟫. ⟪नरा⟫ ⟪देवानां⟫ ⟪यज्ञैर्न⟫ ⟪मुच्यन्ते⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪५⟫. ⟪नरा⟫ ⟪देवानां⟫ ⟪यज्ञैर्न⟫ ⟪मुच्यन्ते⟫ ⟪।⟫
 
-⟪६⟫. ⟪बलवन्तः⟫ ⟪क्षत्रियाः⟫ ⟪शत्रूणां⟫ ⟪धनवन्ति⟫ ⟪नगराणि⟫ ⟪जयन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪६⟫. ⟪बलवन्तः⟫ ⟪क्षत्रियाः⟫ ⟪शत्रूणां⟫ ⟪धनवन्ति⟫ ⟪नगराणि⟫ ⟪जयन्ति⟫ ⟪।⟫
 
-⟪७⟫. ⟪कवेरुक्तिं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪७⟫. ⟪कवेरुक्तिं⟫ ⟪शृण्वन्ति⟫ ⟪।⟫
 
-⟪८⟫. ⟪कविर्देव्याः⟫ ⟪कृतं⟫ ⟪वदति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪८⟫. ⟪कविर्देव्याः⟫ ⟪कृतं⟫ ⟪वदति⟫ ⟪।⟫
 
-⟪९⟫. ⟪द्विजाः⟫ ⟪पशोर्लाभमिच्छन्ति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪९⟫. ⟪द्विजाः⟫ ⟪पशोर्लाभमिच्छन्ति⟫ ⟪।⟫
 
-⟪१०⟫. ⟪रामः⟫ ⟪पुण्यवतो⟫ ⟪गुरोर्मन्त्रस्य⟫ ⟪स्मरति⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१०⟫. ⟪रामः⟫ ⟪पुण्यवतो⟫ ⟪गुरोर्मन्त्रस्य⟫ ⟪स्मरति⟫ ⟪।⟫
 
-⟪११⟫. ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪११⟫. ⟪अयं⟫ ⟪बालः⟫ ⟪कस्याः⟫ ⟪पुत्रः⟫ ⟪।⟫
 
-⟪१२⟫. ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१२⟫. ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
 
-⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫ <!-- TODO: Fallback translation -->
+⟪१३⟫. ⟪कस्यान्नमनेनर्षिणेष्टम्⟫ ⟪।⟫
 
 ::: media
 ![](/images/lekt1402.webp)
 Abb.: ⟪केषामिमानि⟫ ⟪गृहाणि⟫ ⟪।⟫
-(Bildquelle: [Details](/licenses#lekt1402)) <!-- TODO: Fallback translation -->
+(Bildquelle: [Details](/licenses#lekt1402))
 :::

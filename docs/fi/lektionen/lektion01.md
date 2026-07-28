@@ -18,7 +18,7 @@ Gaṇeśan kunnioitus
 ::: media
 ![](/images/lekt0102.webp)
 Kuva 1.2: Gaṇeśa, Adamspeak, Sri Lanka
-(Kuv lähde: [Details](/fi/licenses#lekt0102))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt0102))
 :::
 
 ::: center
@@ -47,7 +47,7 @@ maṅgalacaraṇam
 ::: media
 ![](/images/lekt0101.webp)
 Kuva 1.1: Ardhanarīśvara
-(Kuv lähde: [Details](/fi/licenses#lekt0101))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt0101))
 :::
 
 ::: center
@@ -81,7 +81,7 @@ Aluksi pieni kuriositeetti:
 ::: media
 ![](/images/lekt0103.webp)
 Kuv.: Taskukirjan kansinimike
-(Kuvan lähde: [Details](/fi/licenses#lekt0103))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt0103))
 :::
 
 >**Basham**, A. L. (Arthur Llewellyn) \&lt;1914-1986\&gt; _The wonder that was India_ osa: A survey of the culture of the Indian sub-continent before the coming of the Muslims. -- London : Sidgwick & Jackson, 1954. -- Seither viele Ausgaben, auch Taschenbuchausgaben. -- **Pflichtlektüre.** Eine gute Übersicht über Leben, Geschichte und Kultur im vormuslimischen Indien. Gesamtübersicht über die verschiedenen Gebiete der klassischen Indologie.
@@ -89,7 +89,7 @@ Kuv.: Taskukirjan kansinimike
 ::: media
 ![](/images/lekt0104.webp)
 Kuv.: Nimilehti
-(Kuvan lähde: [Details](/fi/licenses#lekt0104))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt0104))
 :::
 
 Paras systemaattinen grammatikka:
@@ -109,7 +109,7 @@ Hyvä systemaattinen kielioppi kotimaisten kielitieteilijöiden perusteella ja s
 ::: media
 ![](/images/lekt0107.jpg)
 Kuv.: Kannetunniste
-(Kuvan lähde: [Details](/fi/licenses#lekt0107))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt0107))
 :::
 
 Hyvä, tiivis esitys eurooppalaisesta kielitieteen terminologiasta löytyy seuraavasta teoksesta:
@@ -119,7 +119,7 @@ Hyvä, tiivis esitys eurooppalaisesta kielitieteen terminologiasta löytyy seura
 ::: media
 ![](/images/lekt0108.jpg)
 Kuv.: Kannen otsikko
-(Kuvan lähde: [Details](/fi/licenses#lekt0108))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt0108))
 :::
 
 Tutkijoille tarkistettavaksi:
@@ -132,7 +132,7 @@ Sanskritin äänteet perinteisen intialaisen luokittelun ja tieteellisen transli
 
 ::: media
 ![](/images/lekt0106.webp)
-(Kuv lähde: [Details](/fi/licenses#lekt0106))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt0106))
 :::
 Nykyaikaiset sanskritinkieliset sanakirjat on järjestetty tämän luokittelun mukaisessa järjestyksessä. Tämä luokittelu on välttämätön sanskritinkielisen kieliopin ymmärtämiselle, ja siksi se on opeteltava ulkoa:
 

@@ -1,6 +1,6 @@
 
 export const rm = {
-  label: 'RM - Rumantsch',
+  label: '🇨🇭 RM - Rumantsch',
   lang: 'rm',
   link: '/rm/',
   title: 'Cors da sanskrit',

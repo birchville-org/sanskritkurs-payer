@@ -197,7 +197,7 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 ⟪तेन⟫ ⟪तेन⟫ ⟪च⟫ ⟪वातेन⟫  
 ⟪छत्रं⟫ ⟪वहति⟫ ⟪पण्डितः⟫ ⟪॥१॥⟫
 :::
-Spiegazione: ⟪वारि⟫ Nominativo, Accusativo singolare di ⟪वारि⟫ n.: acqua
+Spiegazione: ⟪वारि⟫ Nominativooo, Accusativo singolare di ⟪वारि⟫ n.: acqua
 
 ::: indent
 ⟪यो⟫ ⟪धर्ममर्थं⟫ ⟪कामं⟫ ⟪च⟫  
@@ -218,7 +218,7 @@ Spiegazione: ⟪यथाकालम्⟫ Composto avyayībhāva: al momento g
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪पुमांल्लोके⟫  
 ⟪यस्यार्थाः⟫ ⟪स⟫ ⟪हि⟫ ⟪पण्डितः⟫ ⟪॥४॥⟫
 :::
-Spiegazione: ⟪पुमान्⟫ Nominativo singolare di ⟪पुंस्⟫ "uomo" ; ⟪लोके⟫ Locativo singolare di ⟪लोक⟫ m.: nella ...
+Spiegazione: ⟪पुमान्⟫ Nominativooo singolare di ⟪पुंस्⟫ "uomo" ; ⟪लोके⟫ Locativo singolare di ⟪लोक⟫ m.: nella ...
 
 ::: deleteme-box
 

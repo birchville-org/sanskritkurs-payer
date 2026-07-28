@@ -143,7 +143,7 @@ status: stable
 :::
 ::: media
 ![](/images/lekt2202.webp)
-Abb.: ⟪कामदेवः⟫
+Рис.: ⟪कामदेवः⟫
 19. Jhdt
 Рис.: ⟪कामदेवः⟫
 19 ст.

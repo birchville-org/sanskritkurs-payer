@@ -157,9 +157,9 @@ Ultraclav è ancun applicadas las suandantas reglas dal Wortsandhi.
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | *⟪असि⟫* | *⟪स्थ⟫* |
-| **Imperfekt** :br⟪लङ्⟫ | *⟪आसीस्⟫* | *⟪आस्त⟫* |
-| **Optativ** :br⟪विधिलिङ्⟫ | *⟪स्यास्⟫* | *⟪स्यात⟫* |
+| **Indikativ Präsens** :br⟪लट्⟫ | *:sig[⟪असि⟫]* | *:sig[⟪स्थ⟫]* |
+| **Imperfekt** :br⟪लङ्⟫ | *:sig[⟪आसीस्⟫]* | *:sig[⟪आस्त⟫]* |
+| **Optativ** :br⟪विधिलिङ्⟫ | *:sig[⟪स्यास्⟫]* | *:sig[⟪स्यात⟫]* |
 :::
 ⟪तत्त्वमसि⟫
 
@@ -240,7 +240,7 @@ daquest:
 Abb.: ⟪रेल्यानम्⟫
 (Fontana da l'imagia: [Detagls](/rm/licenses#lekt4403))
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : giacer. Questa radis ha en tut las furmas dal stem dal present **nivèl aut:** 1.sg.Ind.Present.Ā ***⟪शेये⟫*** (śe + e). Las suandantas furmas èn spezialmain da observà: 3.pl.Ind.Present.Ā ***⟪शेरते⟫***, 3.pl.Imperf.Ā ***⟪अशेरत⟫***
+**⟪शी⟫** 2Ā ⟪शेते⟫ : giacer. Questa radis ha en tut las furmas dal stem dal present **nivèl aut:** 1.sg.Ind.Present.Ā **:sig[⟪शेये⟫]** (śe + e). Las suandantas furmas èn spezialmain da observà: 3.pl.Ind.Present.Ā **:sig[⟪शेरते⟫]**, 3.pl.Imperf.Ā **:sig[⟪अशेरत⟫]**
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -281,13 +281,13 @@ Abb.: ⟪नन्दी⟫
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : avair sias gajas en (⟪द्वितीयया⟫), accumpagnar in umna cun gajaivdad, benvegni
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : mantegnair, purtar ; dar, conceder ; mantegnir ensemen, frenar, domar
+**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : mantegnair, purtar ; dar, conceder ; mantegnir ensemen, frenar, domar
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ maun: ⟪नि⟫***⟪यम⟫***⟪यति⟫  
+Kaus. ⟪यामयति⟫ maun: ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
@@ -331,7 +331,7 @@ Abb.: ⟪यत्नेन⟫
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. ***⟪रम्भ⟫***⟪यति⟫  
+Kaus. **:sig[⟪रम्भ⟫]**⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫

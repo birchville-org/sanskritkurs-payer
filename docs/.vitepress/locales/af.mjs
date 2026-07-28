@@ -1,5 +1,5 @@
 export const af = {
-  label: 'AF - Afrikaans',
+  label: '🇿🇦 AF - Afrikaans',
   lang: 'af-ZA',
   link: '/af/',
   title: 'Sanskrit-kurs',

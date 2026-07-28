@@ -1825,7 +1825,7 @@ Manguiers, Kanpur.
 ⟪रोक्ष्यति⟫:br
 ⟪रुह्यते⟫:br
 ⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
-⟪रूढ⟫:br
+:sig[⟪रूढ⟫]:br
 -⟪रुह्य⟫:br
 ⟪रोढुम्⟫
 :::
@@ -1942,16 +1942,16 @@ Fig. : ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 (Source de l'image : [Détails](/fr/licenses#lekt3307))
 ::::
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫*** : placer, fixer, attribuer
+**:sig[⟪धा⟫]** 3U **:sig[⟪दधाति⟫]** : placer, fixer, attribuer
 
 ::: indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Kaus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫***
+**Fut.** **:sig[⟪धास्यति⟫]**  
+**Pass.** **:sig[⟪धीयते⟫]**  
+**Kaus.** **:sig[⟪धापयति⟫]**  
+**PPP** **:sig[⟪हित⟫]** (!!)  
+**Inf.** **:sig[⟪धातुम्⟫]**
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫** : diriger toute l'attention sur quelque chose, se recueillir
+**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫** : diriger toute l'attention sur quelque chose, se recueillir
 
 ::: indent
 dont :
@@ -1967,10 +1967,10 @@ Fig. : ⟪समाधि⟫
 
 ::: indent
 Retenir :
-3.pl.P ***⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪अपिपर्⟫*** (de : \*apipart)  
-3.pl.Impf.P ***⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪पिपूर्यात्⟫***
+3.pl.P **:sig[⟪पिपुरति⟫]**  
+3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (de : \*apipart)  
+3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
@@ -2133,7 +2133,7 @@ Fig. : ⟪ऋषभः⟫
 Statue du taureau Nandi, collines de Chamundi, Mysore.
 (Source de l'image : [Détails](/fr/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** retenir, garder, offrir, accorder
+**⟪यम्⟫ 1P :sig[⟪यच्छति⟫] :** retenir, garder, offrir, accorder
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** tendre, présenter, livrer
 
@@ -2151,15 +2151,15 @@ Statue du taureau Nandi, collines de Chamundi, Mysore.
 **Kaus. ⟪नाशयति⟫**:br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : disparaître, se perdre, périr
+**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : disparaître, se perdre, périr
 
-**⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : avancer, aller
+**⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : avancer, aller
 ::: indent
 **Vc Perf. ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
 **Fut. ⟪क्रमिष्यति⟫**:br
 **Pass. ⟪क्रम्यते⟫**:br
 **Kaus. ⟪क्रमयति⟫**:br
-**PPP ***⟪क्रा⟫***⟪न्त⟫**:br
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**:br
 **Inf. ⟪क्रमितुम्⟫**:br
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::: media
@@ -2530,7 +2530,7 @@ PPP ⟪अवस्थित⟫ 3 : debout, présent
 
 ⟪दूत⟫ m. : messager, envoyé
 
-⟪इष्⟫ (1,4,9) Caus. ***⟪इष⟫***⟪यति⟫ : envoyer
+⟪इष्⟫ (1,4,9) Caus. **:sig[⟪इष⟫]**⟪यति⟫ : envoyer
 
 ⟪सकाश⟫ m. : présence, présence actuelle
 
@@ -2791,7 +2791,7 @@ Fig. : ⟪रेल्यानम्⟫
 (Source de l’image : [Détails](/fr/licenses#lekt4403))
 ::::
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : être couché. Cette racine a, dans toutes les formes du thème présent, **haute intensité :** 1.sg.Ind.Prés.Ā ***⟪शेये⟫*** (śe + e). Les formes suivantes sont particulièrement à noter : 3.pl.Ind.Prés.Ā ***⟪शेरते⟫***, 3.pl.Imparf.Ā ***⟪अशेरत⟫***
+**⟪शी⟫** 2Ā ⟪शेते⟫ : être couché. Cette racine a, dans toutes les formes du thème présent, **haute intensité :** 1.sg.Ind.Prés.Ā **:sig[⟪शेये⟫]** (śe + e). Les formes suivantes sont particulièrement à noter : 3.pl.Ind.Prés.Ā **:sig[⟪शेरते⟫]**, 3.pl.Imparf.Ā **:sig[⟪अशेरत⟫]**
 
 ::: indent
 Parfait IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -2832,13 +2832,13 @@ Fig. : ⟪नन्दी⟫
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : prendre plaisir à (⟪द्वितीयया⟫), accueillir joyeusement quelqu’un, souhaiter la bienvenue
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : tenir, porter ; offrir, accorder ; maintenir ensemble, dompter, brider, conquérir
+**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : tenir, porter ; offrir, accorder ; maintenir ensemble, dompter, brider, conquérir
 
 ::: indent
 Parfait Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Futur ⟪यंस्यति⟫  
 Passif ⟪यम्यते⟫  
-Causatif ⟪यामयति⟫ mais : ⟪नि⟫***⟪यम⟫***⟪यति⟫  
+Causatif ⟪यामयति⟫ mais : ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
@@ -2882,7 +2882,7 @@ Fig. : ⟪यत्नेन⟫
 Parfait Vb ⟪रेभे⟫  
 Futur ⟪रप्स्यते⟫  
 Passif ⟪रभ्यते⟫  
-Causatif ***⟪रम्भ⟫***⟪यति⟫  
+Causatif **:sig[⟪रम्भ⟫]**⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫
@@ -2918,14 +2918,14 @@ dérivé :
 ⟪विषम⟫ 3 : inégal, débonnaire, méchant
 
 :::
-⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : saisir, attraper, prendre
+⟪ग्रह्⟫ 9U **:sig[⟪गृ⟫]**⟪ह्णाति⟫ (gṛh-ṇā-ti) : saisir, attraper, prendre
 
 ::: indent
 Parfait Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Futur ⟪ग्र⟫***⟪ही⟫***⟪ष्यति⟫  
+Futur ⟪ग्र⟫**:sig[⟪ही⟫]**⟪ष्यति⟫  
 Passif ⟪गृह्यते⟫  
 Causatif ⟪ग्राहयति⟫  
-PPP ⟪गृ⟫***⟪ही⟫***⟪त⟫  
+PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫  
 Infinitif ⟪ग्रहितुम्⟫  
 Absolutif -⟪ग्राह्य⟫
 dérivé :
@@ -2998,8 +2998,8 @@ Fig. : [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫]
 Parfait. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Futur ⟪रोक्ष्यति⟫  
 Passif ⟪रुह्यते⟫  
-Causatif ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***⟪प⟫***⟪यति⟫  
-PPP. ***⟪रूढ⟫***  
+Causatif ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫**:sig[⟪प⟫]**⟪यति⟫  
+PPP. **:sig[⟪रूढ⟫]**  
 Infinitif ⟪रोढुम्⟫
 
 :::: media
@@ -3033,14 +3033,14 @@ Fig. : [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 ⟪भ्रंश⟫ m. : la chute
 
-⟪श्रम्⟫ 4P ***⟪श्रा⟫***⟪म्यति⟫ : se fatiguer, devenir fatigué
+⟪श्रम्⟫ 4P **:sig[⟪श्रा⟫]**⟪म्यति⟫ : se fatiguer, devenir fatigué
 
 ::: indent
 Parfait. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Futur ⟪श्रमिष्यति⟫  
 Passif ⟪श्रम्यते⟫  
 Causatif ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
-PPP ***⟪श्रान्⟫***⟪त⟫  
+PPP **:sig[⟪श्रान्⟫]**⟪त⟫  
 Infinitif ⟪श्रमितुम्⟫  
 Absolutif ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
 dérivé :
@@ -3063,7 +3063,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : attacher, se fixer à (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P **:sig[⟪सज⟫]**⟪ति⟫ : attacher, se fixer à (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -3093,13 +3093,13 @@ Inf. ⟪द्रोतुम्⟫
 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : errer, vagabonder
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P **:sig[⟪भ्रा⟫]**⟪म्यति⟫ : errer, vagabonder
 
 ::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Caus. ⟪भ्रमयति⟫  
-PPP ***⟪भ्रा⟫***⟪न्त⟫  
+PPP **:sig[⟪भ्रा⟫]**⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
 dont :
@@ -3137,10 +3137,10 @@ PPP ⟪परिभूत⟫ 3 : vaincu, humilié, abaissé
 
 ::: indent
 par ex.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : s'asseoir
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫**:sig[⟪षी⟫]**⟪दति⟫ : s'asseoir
 
 :::
-⟪भोस्⟫ Particule vocative : exclamation d'appel, par ex. : hé, hola, oh, hé, bonjour, salut ! souvent non traduisible. Cette particule a un sandhi spécial : devant tous les sons sonores, il est ***⟪भो⟫***.
+⟪भोस्⟫ Particule vocative : exclamation d'appel, par ex. : hé, hola, oh, hé, bonjour, salut ! souvent non traduisible. Cette particule a un sandhi spécial : devant tous les sons sonores, il est **:sig[⟪भो⟫]**.
 
 ::: media
 ![](/images/lekt4611.webp)
@@ -3291,7 +3291,7 @@ Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Kaus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ ***⟪तू्र्⟫***⟪ण⟫
+PPP ⟪त्वरित⟫ ⟪।⟫ **:sig[⟪तू्र्⟫]**:sig[⟪ण⟫]
 Inf. ⟪त्वरितुम्⟫
 :::
 ⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : nuire
@@ -3327,7 +3327,7 @@ Fig. : ⟪उत्तमा⟫ ⟪काला⟫
 
 ⟪उत⟫ Indécl. : et, aussi, ou
 
-⟪विहंग⟫ m. : oiseau ("dans le rêve de l'air ⟪स्⟫ - ⟪विह⟫ - allant")
+⟪विहंग⟫ m. : oiseau ("dans le rêve de l'air :sig[⟪स्⟫] - ⟪विह⟫ - allant")
 
 ::: media
 ![](/images/lekt4903.jpg)
@@ -3419,7 +3419,7 @@ Pass. ⟪रिष्यते⟫
 Caus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U *⟪लुम्प⟫*⟪ति⟫** : briser, détruire
+**⟪लुप्⟫ 6U *:sig[⟪लुम्प⟫]*⟪ति⟫** : briser, détruire
 
 ::: indent
 Perf. II ⟪लुलोप⟫, ⟪लुलुपे⟫
@@ -3466,8 +3466,8 @@ Déclinaison comme ⟪यद्⟫ (exception : Nom.Acc.sg.Neutre)
 | | Singulier:br⟪एकवचनम्⟫ || || Pluriel:br⟪बहुवचनम्⟫ || ||
 | | **Masculin:br⟪पुंस्⟫** | **Neutre:br⟪नपुंसकम्⟫** | **Féminin:br⟪स्त्री⟫** | **Masculin:br⟪पुंस्⟫** | **Neutre:br⟪नपुंसकम्⟫** | **Féminin:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Nominatif:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Accusatif:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **1. Nominatif:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | **:sig[⟪सर्वम्⟫]** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. Accusatif:br⟪२⟫. ⟪द्वितीया⟫** | :sig[⟪सर्वम्⟫] | **:sig[⟪सर्वम्⟫]** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
 | **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
 | **4. Datif:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **5. Ablatif:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
@@ -3577,9 +3577,9 @@ Pass. ⟪विशिष्यते⟫ : se distinguer de (⟪पञ्चम�
 ⟪स्व⟫ 3 : propre, sien (le mien, le tien, etc.) Se décline comme ⟪सर्व⟫. Au Abl.Loc.sg.m.n et au Nom.pl.m, il peut aussi se décliner comme ⟪देव⟫ :
 
 ::: indent
-Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ ***⟪स्वात्⟫***
-Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ ***⟪स्⟫***⟪वे⟫
-Nom.pl.m ⟪स्वे⟫ ⟪।⟫ ***⟪स्वास्⟫***
+Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ **:sig[⟪स्वात्⟫]**
+Lok.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ **:sig[⟪स्⟫]**⟪वे⟫
+Nom.pl.m ⟪स्वे⟫ ⟪।⟫ **:sig[⟪स्वास्⟫]**
 :::
 ⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : blâmer, réprimander
 
@@ -3816,7 +3816,7 @@ Fig. : ⟪प्रधानः⟫
 ::: indent
 ⟪त्रिवर्ग⟫ m. : groupe de trois (par ex. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; ou : ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; ou : ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Impér. 2.sg. : ***⟪उड्ढि⟫*** : vouloir, ordonner, désirer
+⟪वश्⟫ 2P ⟪वस्टि⟫, ***:sig[⟪उशन्ति⟫],*** Impér. 2.sg. : **:sig[⟪उड्ढि⟫]** : vouloir, ordonner, désirer
 
 ::: indent
 Parfait Va ⟪उवाश⟫, ⟪ऊशुर्⟫

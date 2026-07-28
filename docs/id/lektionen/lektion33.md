@@ -43,8 +43,8 @@ Contoh:
 Contoh:
 
 ::: indent
-**⟪धा⟫** 3 "to place"
-* 3.sg.P.Ind.Pres. **⟪दधाति⟫**
+**:sig[⟪धा⟫]** 3 "to place"
+* 3.sg.P.Ind.Pres. **:sig[⟪दधाति⟫]**
 
 **⟪भी⟫** 3 "takut"
 * 3.sg.P.Ind.Pres. **⟪बिभेति⟫**
@@ -94,7 +94,7 @@ Contoh:
 ::: grammar-box
 * **The regular reduplicating vowel is -i-**
 * **Akar yang mengandung -u- direduplikasi dengan -u-**
-* **Akar ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ direduplikasi dengan -a-**
+* **Akar ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ direduplikasi dengan -a-**
 :::
 Contoh:
 
@@ -124,11 +124,11 @@ The two most important ablaut series of the ā-group are:
 
 * **Weak grade**
   * **before consonant: -i-**  
-    e.g. **⟪धा⟫** PPP: **⟪हित⟫** (hi-ta)
+    e.g. **:sig[⟪धा⟫]** PPP: **:sig[⟪हित⟫]** (hi-ta)
   * **before vowel: Ø**  
-    e.g. **⟪धा⟫** 3.pl.P.Ind.Pres. **⟪दधति⟫** (dadh-ati)
+    e.g. **:sig[⟪धा⟫]** 3.pl.P.Ind.Pres. **⟪दधति⟫** (dadh-ati)
 * **Strong grade: -ā-**  
-  e.g. **⟪धा⟫** 3.sg.P.Ind.Pres. **⟪दधाति⟫**
+  e.g. **:sig[⟪धा⟫]** 3.sg.P.Ind.Pres. **:sig[⟪दधाति⟫]**
 :::
 Juga termasuk di sini adalah, misalnya:
 
@@ -145,10 +145,10 @@ Juga termasuk di sini adalah, misalnya:
 * **Strong grade: -ā-**  
   e.g. **⟪पा⟫** 1: Inf. **⟪पातुम्⟫**
 :::
-## 33.4. Wurzeln auf -ā  dritten Presentklasse
+## 33.4. Akarn auf -ā  dritten Kelas Present
 
 ::: grammar-box
-**Akar yang berakhir dengan -ā (kecuali ⟪दा⟫ dan ⟪धा⟫) biasanya menunjukkan bentuk batang yang berakhir dengan -ī- dalam batang lemah** (lihat Thumb-Hauschild Vol. 1,1 hlm. 271. Kemungkinan bahwa seri ablaut B yang disebutkan di atas berfungsi sebagai model di sini, meskipun akar-akar ini sebaliknya mengikuti seri A), **sebelum akhiran vokalik vokal akar menghilang sepenuhnya (lihat seri ablaut A).**
+**Akar yang berakhir dengan -ā (kecuali ⟪दा⟫ dan :sig[⟪धा⟫]) biasanya menunjukkan bentuk batang yang berakhir dengan -ī- dalam batang lemah** (lihat Thumb-Hauschild Vol. 1,1 hlm. 271. Kemungkinan bahwa seri ablaut B yang disebutkan di atas berfungsi sebagai model di sini, meskipun akar-akar ini sebaliknya mengikuti seri A), **sebelum akhiran vokalik vokal akar menghilang sepenuhnya (lihat seri ablaut A).**
 :::
 Contoh:
 
@@ -170,15 +170,15 @@ Contoh:
 | **Imperfek** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optatif** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Akar ⟪हा⟫ hat vor dem Optatif-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Akar-akar ⟪दा⟫ dan ⟪धा⟫
+### 33.4.1. Akar-akar ⟪दा⟫ dan :sig[⟪धा⟫]
 
 ::: grammar-box
-**Akar ⟪दा⟫ dan⟪धा⟫ direduplikasi dengan vokal -a- dan kehilangan vokal akar dalam batang lemah.**
+**Akar ⟪दा⟫ dan:sig[⟪धा⟫] direduplikasi dengan vokal -a- dan kehilangan vokal akar dalam batang lemah.**
 
-**Perhatikan aturan disimilasi aspirasi untuk ⟪धा⟫!**
+**Perhatikan aturan disimilasi aspirasi untuk :sig[⟪धा⟫]!**
 :::
 ::: grammar-box
-**⟪धा⟫** 3U "menempatkan, memperbaiki, mendistribusikan"
+**:sig[⟪धा⟫]** 3U "menempatkan, memperbaiki, mendistribusikan"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -186,7 +186,7 @@ Contoh:
 | **Imperfectum** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optatif** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Bentuk-bentuk **⟪दा⟫** diperoleh dengan mengganti **dh** dengan **d** dalam paradigma **⟪धा⟫**. Dengan demikian:
+Bentuk-bentuk **⟪दा⟫** diperoleh dengan mengganti **dh** dengan **d** dalam paradigma **:sig[⟪धा⟫]**. Dengan demikian:
 
 ::: grammar-box
 **⟪दा⟫** 3U "to give"
@@ -236,7 +236,7 @@ derived from this:
 ::: media
 ![](/images/lekt3306.webp)
 Fig.: ⟪दानम्⟫
-(Sumber gambar: [Details](/en/licenses#lekt3306))
+(Sumber gambar: [Detail](/en/licenses#lekt3306))
 :::
 **⟪दा⟫** + **⟪आ⟫** 3Ā **⟪अदत्ते⟫**: mengambil (ke dalam penerimaan), menguasai, membawa serta
 
@@ -246,9 +246,9 @@ Fig.: ⟪दानम्⟫
 ::: media
 ![](/images/lekt3307.webp)
 Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
-(Sumber gambar: [Details](/en/licenses#lekt3307))
+(Sumber gambar: [Detail](/en/licenses#lekt3307))
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: menempatkan, memperbaiki, mengalokasikan
+**:sig[⟪धा⟫]** 3U **:sig[⟪दधाति⟫]**: menempatkan, memperbaiki, mengalokasikan
 
 ::: indent
 **Fut.** ***⟪धास्यति***  
@@ -257,7 +257,7 @@ Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **PPP** ***⟪हित*** (!!)  
 **Inf.** ***⟪धातुम्***
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: mengarahkan perhatian penuh pada sesuatu, mengumpulkan diri
+**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: mengarahkan perhatian penuh pada sesuatu, mengumpulkan diri
 
 ::: indent
 derived from this:
@@ -267,16 +267,16 @@ derived from this:
 ::: media
 ![](/images/lekt3305.webp)
 Fig.: ⟪समाधि⟫
-(Image source: [Details](/en/licenses#lekt3305))
+(Image source: [Detail](/en/licenses#lekt3305))
 :::
 **⟪पॄ⟫** 3P **⟪पिपर्ति⟫**: to fill, to fulfill
 
 ::: indent
 Note:
-3.pl.P ***⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪अपिपर्⟫*** (from: \*apipart)  
-3.pl.Impf.P ***⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪पिपूर्यात्⟫***
+3.pl.P **:sig[⟪पिपुरति⟫]**  
+3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (from: \*apipart)  
+3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
@@ -301,7 +301,7 @@ derived from this:
 ::: media
 ![](/images/lekt3304.webp)
 Fig.: ⟪भयम्⟫
-(Sumber gambar: [Details](/en/licenses#lekt3304))
+(Sumber gambar: [Detail](/en/licenses#lekt3304))
 :::
 **⟪भृ⟫** 3U **⟪बिभर्ति⟫**: membawa; menopang, memberi makan
 
@@ -349,7 +349,7 @@ from PPP **⟪हीन⟫**:
 ::: media
 ![](/images/lekt3303.webp)
 Fig.: ⟪हीनयानमेव⟫
-(Sumber gambar: [Details](/en/licenses#lekt3303))
+(Sumber gambar: [Detail](/en/licenses#lekt3303))
 :::
 **⟪हु⟫** 3P **⟪जुहोति⟫**: menuangkan ke dalam api (sebagai persembahan, khususnya mentega cair)
 
@@ -363,7 +363,7 @@ Fig.: ⟪हीनयानमेव⟫
 ::: media
 ![](/images/lekt3302.webp)
 Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
-(Image source: [Details](/en/licenses#lekt3302))
+(Image source: [Detail](/en/licenses#lekt3302))
 :::
 **⟪घृत⟫** n.: Clarified butter, Ghee (⟪घी⟫ / گھی / ঘী)
 
@@ -407,7 +407,7 @@ C) Translate and convert singular sentences into plural sentences and vice versa
 ::: media
 ![](/images/lekt3308.webp)
 Fig.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्रतीति⟫ ⟪स्त्री⟫ ⟪भारं⟫ ⟪गृहमबिभः⟫
-(Image source: [Details](/en/licenses#lekt3308))
+(Image source: [Detail](/en/licenses#lekt3308))
 :::
 ⟪क्षत्रियशूरः⟫ ⟪पुत्रमादाय⟫ ⟪योद्धुं⟫ ⟪कुलमजहात्⟫ ⟪।⟫ ⟪स⟫ ⟪युद्धे⟫ ⟪शत्रुहतत्वाच्छरीरं⟫ ⟪हित्वा⟫ ⟪पुनर्भवमैत्⟫ ⟪॥४॥⟫
 
@@ -419,7 +419,7 @@ Fig.: ⟪पुरुषा⟫ ⟪भारं⟫ ⟪न⟫ ⟪बिभ्र�
 
 ::: deleteme-box
 
-**Ghee Definition & Details:**
+**Ghee Definition & Detail:**
 * Source: http://en.wikipedia.org/wiki/Ghee (Accessed: 2008-12-26)
 
 **List of Figures & Licenses:**

@@ -69,7 +69,7 @@ Beispiel: <!-- TODO: Fallback translation -->
 ::: indent
 ⟪क्रीणन्त्⟫ (krī + n + ant) ; fem.: ⟪क्रीणती⟫ (krī + n + at + ī) <!-- TODO: Fallback translation -->
 :::
-## 30.2. Gebrauch des Optativ (⟪लिङ्⟫)
+## 30.2. Gebrauch des Optativ (⟪लिङ्⟫) <!-- TODO: Fallback translation -->
 
 Der Optativ wird gebraucht: <!-- TODO: Fallback translation -->
 
@@ -121,9 +121,9 @@ Der Optativ (⟪लिङ्⟫), das Imperfekt (⟪लङ्⟫), der Aorist (�
 | **Ātmanepada** | **-ta** | athematische Klassen: **-ata** (aus *nta):brOptativ: **-ran** |
 
 :::
-## 30.4. Bildung des Optativ Präsens (⟪लिङ्⟫)
+## 30.4. Bildung des Optativ Präsens (⟪लिङ्⟫) <!-- TODO: Fallback translation -->
 
-### 30.4.1. Thematische Präsensklassen
+### 30.4.1. Thematische Präsensklassen <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **vor konsonantisch anlautenden Endungen:** <!-- TODO: Fallback translation -->
@@ -180,7 +180,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 | **3. Person:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
 
 :::
-### 30.4.2. Athematische Präsensklassen
+### 30.4.2. Athematische Präsensklassen <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Parasmaipada:** <!-- TODO: Fallback translation -->

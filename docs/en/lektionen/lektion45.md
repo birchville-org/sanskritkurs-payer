@@ -38,7 +38,7 @@ status: stable
 ::: grammar-box
 **If a final k/g of the root comes to stand between the nasal ṅ and a dental of the ending, then the k/g may optionally drop**
 
-e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or ⟪यु⟫***⟪ङ्ते⟫***
+e.g. **⟪युज्⟫** 3.sg.Ind.Pres.Ā ⟪युङ्क्ते⟫ or ⟪यु⟫**:sig[⟪ङ्ते⟫]**
 :::
 ⟪युज्⟫ 7U
 

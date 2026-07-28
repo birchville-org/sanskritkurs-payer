@@ -81,7 +81,7 @@ esim. ⟪सुतराम्⟫ (sanasta ⟪सु⟫) "paremmalla tavalla" (a
 ![](/images/lekt5006.webp)
 Kuv.: ⟪का⟫ ⟪पचतितमाम्⟫
 Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
-(Kuvälähde: [Details](/fi/licenses#lekt5006))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt5006))
 :::
 ## 50.2. Sanalista
 
@@ -99,7 +99,7 @@ Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 ![](/images/lekt5001.jpg)
 Kuva: ⟪मन्त्री⟫
 Kapil Sibal (s. 1948), tiede- ja teknologiaviraston sekä maapintatieteiden ministeriön liittovaltion ministeri (vuodesta 2006)
-(Kuv lähde: [Details](/fi/licenses#lekt5001))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5001))
 :::
 ⟪रहस्⟫ n.: Geheimnis, Einsamkeit
 
@@ -141,7 +141,7 @@ Absol.-⟪वृष्य⟫
 ![](/images/lekt5002.jpg)
 Kuv.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 Monsunin saapuminen, Bangalore  ಬೆಂಗಳೂರು
-(Kuvan lähde: [Details](/fi/licenses#lekt5002))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt5002))
 :::
 ⟪संयक्⟫ Adv.: oikein, totta, asianmukaisella tavalla ; täysin, kokonaan
 
@@ -150,7 +150,7 @@ Monsunin saapuminen, Bangalore  ಬೆಂಗಳೂರು
 ::: media
 ![](/images/lekt5005.jpg)
 Kuva: ⟪आदित्यः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt5005))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt5005))
 :::
 ⟪सर्व⟫ 3: jokainen, kaikki
 
@@ -260,7 +260,7 @@ B) Käännä:
 :sig[⟪द्रष्टृदृश्ययोः⟫] ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
 
 Selitys:
-⟪द्रष्टृदृश्ययोः⟫ : Gen.Lok.m.n.f.Dual (Dualdvandva)
+:sig[⟪द्रष्टृदृश्ययोः⟫] : Gen.Lok.m.n.f.duaali (duaalidvandva)
 :::
 ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: Kuninkaan neuvonantajista
 
@@ -289,7 +289,7 @@ Selitys:
 ⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥११॥⟫
 
 Selitykset:
-⟪निषेकादीनि⟫ : Nom.Akk.pl.Neutrum
+⟪निषेकादीनि⟫ : Nom.Akk.pl.neutri
 :::
 ::: deleteme-box
 

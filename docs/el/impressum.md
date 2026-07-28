@@ -29,9 +29,9 @@ title: "Στοιχεία έκδοσης & Παραπομπή"
 
 **Μεταφράσεις με τεχνητή νοημοσύνη** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) και **τεχνική υποδομή** (σκριπτ, εργαλείο ελέγχου ποιότητας, ρύθμιση VitePress):
 
-- Μεταφράσεις: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Αναφορά προέλευσης, διανομή υπό τους ίδιους όρους
-- Κώδικας/Υποδομή: [MIT License](https://opensource.org/licenses/MIT)
+- Μεταφράσεις: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Αναφορά προέλευσης, διανομή υπό τους ίδιους όρους
+- Κώδικας/Υποδομή: [MIT License](https://opensource.org/licenses/MIT) [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)
 
 **Τρόπος παραπομπής για τις μεταφράσεις:**
-> Payer, Alois: Sanskritkurs. Μεταφράστηκε με υποστήριξη τεχνητής νοημοσύνης. Marco Demarmels (επιμ.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: Sanskritkurs. Μεταφράστηκε με υποστήριξη τεχνητής νοημοσύνης. Marco Demarmels (επιμ. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 

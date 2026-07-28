@@ -52,7 +52,7 @@ Il genitivo viene formato per le radici verbali con ablaut dalla forma debole.
 
 Dopo una consonante le desinenze regolari del genitivo sono:
 * Singolare: **-as**
-* Plurale: **-ām**
+* Pluraleee: **-ām**
 
 :::
 ::: center
@@ -65,7 +65,7 @@ Dopo una consonante le desinenze regolari del genitivo sono:
 :::
 **Genitivo di radici con desinenza vocalica, eccetto nomi radicali monosillabici e radici con desinenza dittongica:**
 
-**Plurale:**
+**Pluraleee:**
 
 ::: grammar-box
 

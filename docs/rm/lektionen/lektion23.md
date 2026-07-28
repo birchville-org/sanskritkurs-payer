@@ -45,11 +45,11 @@ p.ex.
 
 > ⟪साधुरधर्मं⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्नोति⟫ = ⟪साधुनाधर्मः⟫ ⟪कर्तुं⟫ ⟪न⟫ ⟪शक्यते⟫ = "In sanctus male facere non potest."
 
-**In la 2. persuna vegn ⟪अर्ह्⟫ + infinitiv adina puspè adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina adina ad
+**En la 2. persuna vegn ⟪अर्ह्⟫ + infinitiv savens dovrad sco cumand moderat: "ti duessas".**
 
-**Quand l'infinitif dépend d'un nom, il ne doit pas être lié à celui-ci sous forme de composé. Sont exceptés les Bahuvrīhi, dont le second membre est ⟪काम⟫ ou ⟪मनस्⟫ :**
+**Penda l'infinitiv d'in nomen, na dastga el betg vegnir collià cun chel sco cumpositum. Scartads èn ils Bahuvrīhi, dals quals il membrum posteriur è ⟪काम⟫ u ⟪मनस्⟫:**
 
-> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "in chel che vul dir; in chel che vul dir".
+> ⟪वक्तुकामः⟫ = ⟪वक्तुं⟫ ⟪कामो⟫ ⟪यस्य⟫ ⟪सः⟫ = "in che vul dir; un che descria da dir".
 :::
 ## 23.2. Furmaziun dal infinitiv (⟪tumun⟫)
 

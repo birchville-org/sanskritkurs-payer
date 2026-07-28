@@ -2206,7 +2206,7 @@ Mango tree, Kanpur.
 ⟪रोक्ष्यति⟫:br
 ⟪रुह्यते⟫:br
 ⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
-⟪रूढ⟫:br
+:sig[⟪रूढ⟫]:br
 -⟪रुह्य⟫:br
 ⟪रोढुम्⟫
 :::
@@ -2333,16 +2333,16 @@ Fig.: ⟪दानम्⟫
 Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Image source: [Details](/licenses#lekt3307))
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: to set, to fix, to allot
+**:sig[⟪धा⟫]** 3U **:sig[⟪दधाति⟫]**: to set, to fix, to allot
 
 ::: indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Caus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫***
+**Fut.** **:sig[⟪धास्यति⟫]**  
+**Pass.** **:sig[⟪धीयते⟫]**  
+**Caus.** **:sig[⟪धापयति⟫]**  
+**PPP** **:sig[⟪हित⟫]** (!!)  
+**Inf.** **:sig[⟪धातुम्⟫]**
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: to direct one's full attention to something, to collect oneself
+**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: to direct one's full attention to something, to collect oneself
 
 ::: indent
 from this:
@@ -2359,10 +2359,10 @@ Fig.: ⟪समाधि⟫
 
 ::: indent
 Note:
-3.pl.P ***⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪अपिपर्⟫*** (from: \*apipart)  
-3.pl.Impf.P ***⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪पिपूर्यात्⟫***
+3.pl.P **:sig[⟪पिपुरति⟫]**  
+3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (from: \*apipart)  
+3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
@@ -2534,7 +2534,7 @@ Fig.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
 (Image source: [Details](/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** restrain, hold, offer, grant
+**⟪यम्⟫ 1P :sig[⟪यच्छति⟫] :** restrain, hold, offer, grant
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** hold out, offer, deliver
 
@@ -2557,15 +2557,15 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 **Caus. ⟪नाशयति⟫** :br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : disappear, be lost, perish
+**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : disappear, be lost, perish
 
-**⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : stride, go
+**⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : stride, go
 ::: indent
 **Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫** :br
 **Fut. ⟪क्रमिष्यति⟫** :br
 **Pass. ⟪क्रम्यते⟫** :br
 **Caus. ⟪क्रमयति⟫** :br
-**PPP ***⟪क्रा⟫***⟪न्त⟫** :br
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫** :br
 **Inf. ⟪क्रमितुम्⟫** :br
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::
@@ -2708,7 +2708,7 @@ PPP ⟪ग्लान⟫
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
 :::
-⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : smell something
+⟪घ्रा⟫ 1P **:sig[⟪जिघ्रति⟫]** : smell something
 
 ::: indent
 Perf. IV ⟪जघ्रौ⟫  
@@ -2727,7 +2727,7 @@ Absol. -⟪घ्राय⟫
 Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
 Fut. ⟪प्रेष्यति⟫  
 Pass. ⟪प्रीयते⟫  
-Kaus. ***⟪प्रीणयति⟫***  
+Kaus. **:sig[⟪प्रीणयति⟫]**  
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
 :::
@@ -3186,7 +3186,7 @@ PPP ⟪अवस्थित⟫ 3: standing, located
 
 ⟪दूत⟫ m.: messenger, envoy
 
-⟪इष्⟫ (1,4,9) Caus. ***⟪इष⟫***⟪यति⟫ : to send
+⟪इष्⟫ (1,4,9) Caus. **:sig[⟪इष⟫]**⟪यति⟫ : to send
 
 ⟪सकाश⟫ m.: presence, presence
 
@@ -3458,7 +3458,7 @@ from which:
 Fig.: ⟪रेल्यानम्⟫
 (Image source: [Details](/licenses#lekt4403))
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : to lie. This root has in all forms of the present stem **strong grade:** 1.sg.Ind.Pres.Ā ***⟪शेये⟫*** (śe + e). The following forms are particularly noteworthy: 3.pl.Ind.Pres.Ā ***⟪शेरते⟫***, 3.pl.Impf.Ā ***⟪अशेरत⟫***
+**⟪शी⟫** 2Ā ⟪शेते⟫ : to lie. This root has in all forms of the present stem **strong grade:** 1.sg.Ind.Pres.Ā **:sig[⟪शेये⟫]** (śe + e). The following forms are particularly noteworthy: 3.pl.Ind.Pres.Ā **:sig[⟪शेरते⟫]**, 3.pl.Impf.Ā **:sig[⟪अशेरत⟫]**
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -3501,13 +3501,13 @@ Fig.: ⟪नन्दी⟫
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : to have one's joy in (⟪द्वितीयया⟫), to greet someone joyfully, to welcome
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : to hold, to carry; to offer, to grant; to hold together, to restrain, to bridle, to subdue
+**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : to hold, to carry; to offer, to grant; to hold together, to restrain, to bridle, to subdue
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Caus. ⟪यामयति⟫ but: ⟪नि⟫***⟪यम⟫***⟪यति⟫  
+Caus. ⟪यामयति⟫ but: ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
@@ -3553,7 +3553,7 @@ Fig.: ⟪यत्नेन⟫
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Caus. ***⟪रम्भ⟫***⟪यति⟫  
+Caus. **:sig[⟪रम्भ⟫]**⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫
@@ -3625,14 +3625,14 @@ from this:
 ⟪विषम⟫ 3: unequal, uneven, evil
 
 :::
-⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : to seize, to grasp, to catch
+⟪ग्रह्⟫ 9U **:sig[⟪गृ⟫]**⟪ह्णाति⟫ (gṛh-ṇā-ti) : to seize, to grasp, to catch
 
 ::: indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Fut. ⟪ग्र⟫***⟪ही⟫***⟪ष्यति⟫  
+Fut. ⟪ग्र⟫**:sig[⟪ही⟫]**⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
 Caus.⟪ग्राहयति⟫  
-PPP ⟪गृ⟫***⟪ही⟫***⟪त⟫  
+PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫  
 Inf. ⟪ग्रहितुम्⟫  
 Absol. -⟪ग्राह्य⟫
 from this:
@@ -3709,8 +3709,8 @@ Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫
 Fut. ⟪रोक्ष्यति⟫
 Pass. ⟪रुह्यते⟫
-Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***⟪प⟫***⟪यति⟫
-PPP. ***⟪रूढ⟫***
+Kaus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫**:sig[⟪प⟫]**⟪यति⟫
+PPP. **:sig[⟪रूढ⟫]**
 Inf. ⟪रोढुम्⟫
 
 :::
@@ -3747,14 +3747,14 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 ⟪भ्रंश⟫ m.: the falling away
 
-⟪श्रम्⟫ 4P ***⟪श्रा⟫***⟪म्यति⟫ : to toil, to become tired
+⟪श्रम्⟫ 4P **:sig[⟪श्रा⟫]**⟪म्यति⟫ : to toil, to become tired
 
 ::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫
 Fut. ⟪श्रमिष्यति⟫
 Pass. ⟪श्रम्यते⟫
 Kaus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫
-PPP ***⟪श्रान्⟫***⟪त⟫
+PPP **:sig[⟪श्रान्⟫]**⟪त⟫
 Inf. ⟪श्रमितुम्⟫
 Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
 thereof:
@@ -3778,7 +3778,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : to attach, to cling to (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P **:sig[⟪सज⟫]**⟪ति⟫ : to attach, to cling to (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫
@@ -3809,13 +3809,13 @@ Inf. ⟪द्रोतुम्⟫
 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : to wander, to roam
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P **:sig[⟪भ्रा⟫]**⟪म्यति⟫ : to wander, to roam
 
 ::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫
 Fut. ⟪भ्रमिष्यति⟫
 Kaus. ⟪भ्रमयति⟫
-PPP ***⟪भ्रा⟫***⟪न्त⟫
+PPP **:sig[⟪भ्रा⟫]**⟪न्त⟫
 Inf. ⟪भ्रमितुम्⟫
 Absol. -⟪भ्रम्य⟫
 thereof:
@@ -3855,10 +3855,10 @@ PPP ⟪परिभूत⟫ 3: conquered, humiliated, degraded
 
 ::: indent
 e.g.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : to sit down
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫**:sig[⟪षी⟫]**⟪दति⟫ : to sit down
 
 :::
-⟪भोस्⟫ Vocative particle: exclamation of address, e.g.: hey, heda, oh, ei, hello, hi! often not to be translated. This particle has a special Sandhi: before all voiced sounds, it is ***⟪भो⟫***.
+⟪भोस्⟫ Vocative particle: exclamation of address, e.g.: hey, heda, oh, ei, hello, hi! often not to be translated. This particle has a special Sandhi: before all voiced sounds, it is **:sig[⟪भो⟫]**.
 
 ::: media
 ![](/images/lekt4611.webp)
@@ -4022,7 +4022,7 @@ Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Caus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ ***⟪तू्र्⟫***⟪ण⟫
+PPP ⟪त्वरित⟫ ⟪।⟫ **:sig[⟪तू्र्⟫]**:sig[⟪ण⟫]
 Inf. ⟪त्वरितुम्⟫
 :::
 ⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : to harm
@@ -4058,7 +4058,7 @@ Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 
 ⟪उत⟫ Indecl.: and, also, or
 
-⟪विहंग⟫ m.: bird ("in the air⟪स्⟫dream - ⟪विह⟫ - going")
+⟪विहंग⟫ m.: bird ("in the air:sig[⟪स्⟫]dream - ⟪विह⟫ - going")
 
 ::: media
 ![](/images/lekt4903.jpg)
@@ -4159,7 +4159,7 @@ Pass. ⟪रिष्यते⟫
 Caus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U *⟪लुम्प⟫*⟪ति⟫** : break, destroy
+**⟪लुप्⟫ 6U *:sig[⟪लुम्प⟫]*⟪ति⟫** : break, destroy
 
 ::: indent
 Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
@@ -4208,8 +4208,8 @@ Declension like ⟪यद्⟫ (exception: Nom.Akk.sg.Neuter)
 | | Singular:br⟪एकवचनम्⟫ | | | Plural:br⟪बहुवचनम्⟫ | | |
 | | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Nominative:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Accusative:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **1. Nominative:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | **:sig[⟪सर्वम्⟫]** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. Accusative:br⟪२⟫. ⟪द्वितीया⟫** | :sig[⟪सर्वम्⟫] | **:sig[⟪सर्वम्⟫]** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
 | **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
 | **4. Dative:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **5. Ablative:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
@@ -4325,9 +4325,9 @@ Pass. ⟪विशिष्यते⟫ : to differ from (⟪पञ्चम्�
 ⟪स्व⟫ 3: one's own, his/her/its (my, your, etc.). Declined like ⟪सर्व⟫. In the Abl./Loc. sg. m.n. and in the Nom. pl. m., it can also be declined like ⟪देव⟫:
 
 ::: indent
-Abl. sg. m.n. ⟪स्वस्मात्⟫ ⟪।⟫ ***⟪स्वात्⟫***
-Loc. sg. m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ ***⟪स्⟫***⟪वे⟫
-Nom. pl. m. ⟪स्वे⟫ ⟪।⟫ ***⟪स्वास्⟫***
+Abl. sg. m.n. ⟪स्वस्मात्⟫ ⟪।⟫ **:sig[⟪स्वात्⟫]**
+Loc. sg. m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ **:sig[⟪स्⟫]**⟪वे⟫
+Nom. pl. m. ⟪स्वे⟫ ⟪।⟫ **:sig[⟪स्वास्⟫]**
 :::
 ⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : to scold, to blame
 
@@ -4535,7 +4535,7 @@ Fig.: ⟪प्रधानः⟫
 ⟪त्रिवर्ग⟫ m.: group of three (e.g. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫; or: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫; or: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : to want, to command, to desire
+⟪वश्⟫ 2P ⟪वस्टि⟫, ***:sig[⟪उशन्ति⟫],*** Imperat. 2.sg.: **:sig[⟪उड्ढि⟫]** : to want, to command, to desire
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫

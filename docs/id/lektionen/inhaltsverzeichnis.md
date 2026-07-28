@@ -475,7 +475,7 @@
 
 ## [Pelajaran 39](lektion39)
 
-*   39\.1. Akhiran Pribadi untuk Orang Pertama (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**orang** Ketiga")
+*   39\.1. Akhiran Pribadi untuk Orang Pertama (**⟪तृतीयः⟫** ⟪पुरुषः⟫ = "**orang** Ketiga")
 *   39\.2. Pembentukan bentuk kata kerja untuk akar present tematik orang pertama
 *   39\.2.1. Kelas Present Pertama (⟪भ्वादि⟫)
 *   39\.2.2. Kelas Present Keenam (⟪तुदादि⟫)

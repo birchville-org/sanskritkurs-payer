@@ -12,7 +12,7 @@ status: stable
 ## 47.1. Imperatif (⟪लोट्⟫)
 
 ::: grammar-box
-The Imperative (⟪लोट्⟫) denotes
+The Imperatife (⟪लोट्⟫) denotes
 
 *   **Command** (also expressed by the Gerundive (⟪कृत्य⟫))
 *   **Rule**
@@ -25,7 +25,7 @@ The Imperative (⟪लोट्⟫) denotes
 
 Makna-makna yang tercantum di atas dibagi bersama dengan Optatif (⟪विधिलिङ्⟫).
 
-The Imperative also expresses:
+The Imperatife also expresses:
 
 *   **Izin**
 *   **bahwa suatu tindakan itu tepat waktu** (juga dinyatakan oleh Gerundiva (⟪कृत्य⟫))
@@ -36,20 +36,20 @@ Contoh:
 ::: indent
 ⟪एहि⟫ ⟪।⟫ "Come!"
 
-⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ or Optative: ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ "Come to the village!"
+⟪ग्रामं⟫ ⟪भवानागच्छतु⟫ ⟪।⟫ or Optatife: ⟪ग्रामं⟫ ⟪भवानगच्छेत्⟫ ⟪।⟫ "Come to the village!"
 
-⟪वेदमध्ययै⟫ ⟪।⟫ or Optative: ⟪वेदमधीयीय⟫ ⟪।⟫ "I want to study the Veda."
+⟪वेदमध्ययै⟫ ⟪।⟫ or Optatife: ⟪वेदमधीयीय⟫ ⟪।⟫ "I want to study the Veda."
 
-⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ or Optative:  ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ "I wish that they may eat."
+⟪इच्छामि⟫ ⟪भुङ्क्तां⟫ ⟪भवान्⟫ ⟪।⟫ or Optatife:  ⟪इच्छामि⟫ ⟪भुञ्जीत⟫ ⟪भवान्⟫ ⟪।⟫ "I wish that they may eat."
 
-⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ or Optative: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ "Should I study the Veda?"
+⟪किं⟫ ⟪वेदमध्ययै⟫ ⟪।⟫ or Optatife: ⟪किं⟫ ⟪वेदमधीयीय⟫ ⟪।⟫ "Should I study the Veda?"
 
 ⟪करोतु⟫ ⟪शस्त्रं⟫ ⟪भवान्⟫ ⟪।⟫ or Gerundive: ⟪भवता⟫ ⟪शस्त्रं⟫ ⟪कर्तव्यम्⟫ ⟪।⟫ "Make a knife!" ; "You may make a knife." ; "It is time that you make a knife."
 
 ⟪चिरं⟫ ⟪जीवतु⟫ ⟪भवान्⟫ ⟪।⟫ "May you live long!"
 :::
 ::: grammar-box
-Polite commands are often expressed through Passive Imperatives.
+Polite commands are often expressed through Passive Imperatifes.
 :::
 Examples:
 
@@ -63,9 +63,9 @@ Dalam Imperatif Sanskerta Klasik, bentuk-bentuk orang pertama adalah bentuk Subj
 ::: grammar-box
 Imperatif dibentuk dari stem Present.
 :::
-## 47.2. Bildung  Imperatifs (⟪लोट्⟫) thematischer Presentstämme
+## 47.2. Pembentukan  Imperatif (⟪लोट्⟫) thematischer Batang Present
 
-### 47.2.1. Endungen  Imperatif an thematischen Presentstämmen
+### 47.2.1. Akhiran  Imperatif an thematischen Batang Presentn
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -82,7 +82,7 @@ Catatan: ¹ Akhiran orang kedua dan ketiga tunggal dapat diganti dengan -tāt ji
 
 ⟪शुभं⟫ ⟪भवतु⟫ or ⟪शुभं⟫ ⟪भवतात्⟫ "May it be good!" "All good!"
 :::
-### 47.2.2. Erste Presentklasse (⟪भ्वादि⟫)
+### 47.2.2. Erste Kelas Present (⟪भ्वादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -92,7 +92,7 @@ Catatan: ¹ Akhiran orang kedua dan ketiga tunggal dapat diganti dengan -tāt ji
 | **2. Person** :br⟪मध्यमः⟫ | ⟪भव⟫:br(bho + a + ø) | ⟪भवत⟫ | \<⟪भवस्व⟫\> | \<⟪भवध्वम्⟫\> |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪भवतु⟫ | ⟪भवन्तु⟫ | \<⟪भ्वताम्⟫\> | \<⟪भवन्ताम्⟫\> |
 :::
-### 47.2.3. Sechste Presentklasse (⟪तुदादि⟫)
+### 47.2.3. Kelas Present Keenam (⟪तुदादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -106,9 +106,9 @@ Catatan: ¹ Akhiran orang kedua dan ketiga tunggal dapat diganti dengan -tāt ji
 ![](/images/lekt4702.webp)
 Fig.: ⟪प्रविशत⟫
 Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, ⟪दिल्ली⟫ / دہلی
-(Image source: [Details](/en/licenses#lekt4702))
+(Image source: [Detail](/en/licenses#lekt4702))
 :::
-### 47.2.4. Vierte Presentklasse (⟪दिवादि⟫)
+### 47.2.4. Vierte Kelas Present (⟪दिवादि⟫)
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -121,9 +121,9 @@ Hanuman Temple, Delhi = ⟪हनुमान्⟫ ⟪मन्दिर⟫, �
 ::: media
 ![](/images/lekt4701.webp)
 Fig.: ⟪नृत्यत⟫
-(Image source: [Details](/en/licenses#lekt4701))
+(Image source: [Detail](/en/licenses#lekt4701))
 :::
-### 47.2.5. Zehnte Presentklasse (⟪चुरादि⟫) dan Kausatife
+### 47.2.5. Zehnte Kelas Present (⟪चुरादि⟫) dan Kausatife
 
 ⟪चुर्⟫ 10U
 
@@ -160,7 +160,7 @@ A) Translate:
 ::: media
 ![](/images/lekt4703.webp)
 Fig.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्तवं⟫ ⟪तदैषा⟫ ⟪कन्यापि⟫ ⟪मम⟫ ⟪सहायिनी⟫ ⟪भवतु⟫
-(Image source: [Details](/en/licenses#lekt4703))
+(Image source: [Detail](/en/licenses#lekt4703))
 :::
 ⟪आर्ये⟫ ⟪तिष्ठ⟫ ⟪तिष्ठ⟫ ⟪।⟫ ⟪न⟫ ⟪त्वया⟫ ⟪भेतव्यम्⟫ ⟪॥४॥⟫
 
@@ -171,7 +171,7 @@ Fig.: ⟪भो⟫ ⟪राम⟫ ⟪यदि⟫ ⟪मया⟫ ⟪गन्�
 ::: media
 ![](/images/lekt4704.webp)
 Fig.: ⟪आर्ये⟫ ⟪स्वागतं⟫ ⟪ते⟫
-(Image source: [Details](/en/licenses#lekt4704))
+(Image source: [Detail](/en/licenses#lekt4704))
 :::
 ⟪आज्ञापयत्वार्यः⟫ ⟪किं⟫ ⟪मया⟫ ⟪क्रियतामिति⟫ ⟪॥७॥⟫
 

@@ -163,7 +163,7 @@ La desinenza del sostantivo viene trattata come segue:
 *   **-n finale cade e la vocale precedente viene trattata secondo le regole appena menzionate**  
     Es. ⟪राजीबभूव⟫ "uno (che non era re) divenne re (⟪राजन्⟫)"  
 
-*   **altri sostantivi pluristemmatici stanno nella forma dello stemma che hanno nel Locativo (⟪सप्तमी⟫) Plurale. Lo stemma è poi soggetto alle normali regole di Sandhi. Vedi Kielhorn, Grammatik § 489,3.**  
+*   **altri sostantivi pluristemmatici stanno nella forma dello stemma che hanno nel Locativo (⟪सप्तमी⟫) Pluraleee. Lo stemma è poi soggetto alle normali regole di Sandhi. Vedi Kielhorn, Grammatik § 489,3.**  
     Es. ⟪तिर्यक्करोति⟫ "posa di lato (⟪तिर्यच्⟫)"
 :::
 ::: media
@@ -392,7 +392,7 @@ Le sette stelle = le sette stelle più luminose dell'Orsa Maggiore (Ursa maior)
 
 2.  il composto così formato è usato in un significato che altrimenti è indicato da un suffisso Taddhita (in questo tipo di casi il passaggio al Bahuvrīhi è fluido):  
     Esempi:  
-    dvi + go » ⟪द्विगु⟫ : non: "due mucche", ma: "**comperato per due mucche**"  
+    dvi + go » :sig[⟪द्विगु⟫] : non: "due mucche", ma: "**comperato per due mucche**"  
     ⟪द्विवर्ष⟫ non: "due anni", ma: "**di due anni**"  
 
 3.  il composto così formato forma il primo membro di un altro composto  
@@ -663,7 +663,7 @@ Inf. ⟪त्रातुम्⟫
 ⟪तत्प्रयत्नेन⟫ ⟪कुर्वीत⟫
 ⟪विपरीतं⟫ ⟪तु⟫ ⟪वर्जयेत्⟫ ⟪॥१६१॥⟫
 
-Spiegazione: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvandva)
+Spiegazione: ⟪सुखदुःखयोः⟫ Gen.Loc.Dualee.m.f.n. (Dualeedvandva)
 :::
 ⟪२⟫. ⟪मनुस्मृति⟫ ⟪२⟫, ⟪६⟫ Sulle fonti del ⟪धर्म⟫
 
@@ -673,7 +673,7 @@ Spiegazione: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvand
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
-Spiegazione: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
+Spiegazione: ⟪स्मृतिशीले⟫ Nom.Akk.Dualee.n. (Dualeedvandva)
 :::
 ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Su ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ nella vita del principe
 
@@ -682,9 +682,9 @@ Spiegazione: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
 ::: indent
 Spiegazioni:
 
-⟪इतरौ⟫ Nom.Akk.Dual.m a ⟪इतर⟫ 3 "altro"
+⟪इतरौ⟫ Nom.Akk.Dualee.m a ⟪इतर⟫ 3 "altro"
 
-⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dual.m (⟪धर्मकामौ⟫ è Dualdvandva)
+⟪अर्थमूलौ⟫, ⟪धर्मकामौ⟫ Nom.Akk.Dualee.m (⟪धर्मकामौ⟫ è Dualeedvandva)
 :::
 ⟪४⟫. ⟪अश्वघोष⟫ (II sec. d.C.): ⟪बुद्धचरित⟫ ⟪४⟫ la conoscenza salvifica di Buddha
 

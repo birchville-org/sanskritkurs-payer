@@ -476,13 +476,13 @@ Explicação das palavras destacadas em vermelho no texto acima:
 
 1.5.5.  ⟪इतरम्⟫ Ac. sg. masc. de ⟪इतर⟫ ⟪३⟫ "outro"
 
-1.5.7. ⟪कर्मा⟫ : Nom. sg. masc. de ⟪कर्मन्⟫ neutr. "ato, obra" ; ⟪उपयुञ्जीत⟫ : Optativo 3ª sg. Ā de upa-yuj 7 "apropriar-se": "que ele se aproprie"
+1.5.7. :sig[⟪कर्मा⟫] : Nom. sg. masc. de ⟪कर्मन्⟫ neutr. "ato, obra" ; ⟪उपयुञ्जीत⟫ : Optativo 3ª sg. Ā de upa-yuj 7 "apropriar-se": "que ele se aproprie"
 
 1.5.8. ⟪वक्तृप्रयोक्तृभ्यस्⟫ Abl., Dat. pl. de ⟪वक्त्र्प्रयोक्तृ⟫ (⟪इतरेतरद्वन्द्व⟫) "teóricos e práticos"
 
 1.5.9. ⟪षोडश⟫ ⟪३⟫ : "décimo sexto"
 
-1.5.10. ⟪कर्म⟫ Nom., Ac. sg. de ⟪कर्मन्⟫ n. "ato"
+1.5.10. :sig[⟪कर्म⟫] Nom., Ac. sg. de ⟪कर्मन्⟫ n. "ato"
 
 1.5.16. ⟪धि⟫ forma de sandhi de ⟪हि⟫ ; ⟪आत्मवत्ता⟫ f.: "autodomínio"
 

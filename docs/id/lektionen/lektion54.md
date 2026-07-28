@@ -34,7 +34,7 @@ Example:
 ![](/images/lekt5402.webp)
 Gbr.: ⟪अयुयुत्सुरर्जुनः⟫
 ⟪भगवद्गीतोपदेशः⟫ Tirupati = తిరుపతి
-(Sumber gambar: [Details](/en/licenses#lekt5402))
+(Sumber gambar: [Detail](/en/licenses#lekt5402))
 :::
 ## 54.3. Metrum II: ⟪त्रिष्टुभ्⟫ epos dan ⟪जगती⟫
 
@@ -113,7 +113,7 @@ Identify Triṣṭubhs and Jagatīs in Bhagavadgītā II.
 
 Example of a recitation: [http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3](http://www.vaisnava.cz/gita/mp3/Bhagavad-gita02.mp3). -- Accessed on 2009-01-28
 
-## 54.5. Bildungstypen  Aorist (⟪लुङ्⟫)
+## 54.5. Pembentukanstypen  Aorist (⟪लुङ्⟫)
 
 ::: grammar-box
 **Yang dimiliki bersama oleh semua jenis pembentukan Aorist (⟪लुङ्⟫) adalah augment a-, yang ditambahkan sebagai awalan sesuai dengan aturan yang sama seperti pada Imperfect (⟪लङ्⟫).**
@@ -135,7 +135,7 @@ Dalam bahasa Sanskerta, hanya Indicative dan Optatif dari Aorist yang umum digun
 
 Untuk distribusi akar di antara jenis-jenis individu, lihat masing-masing jenis.
 :::
-## 54.6. Wurzelaorist
+## 54.6. Akaraorist
 
 ::: grammar-box
 **Formation:**
@@ -177,7 +177,7 @@ Untuk ⟪भू⟫ kelas ke-1, Aorist Akar dibentuk sebagai berikut:
 | --- | --- | --- |
 | 1\. ⟪तृतीयः⟫ | ⟪अभूवम्⟫ | ⟪अभूम⟫ |
 | 2\. ⟪मध्यमः⟫ | ⟪अभू्स्⟫ | ⟪अभूत⟫ |
-| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | ***⟪अभूवन्⟫*** (!!!) |
+| 3\. ⟪प्रथमः⟫ | ⟪अभूत्⟫ | **:sig[⟪अभूवन्⟫]** (!!!) |
 :::
 ### 54.6.1. Aorist Pasif 3.sg.
 
@@ -261,7 +261,7 @@ Tulis bentuk-bentuk berikut dan buat bentuk aorist yang sesuai:
 ![](/images/lekt5401.webp)
 Fig.: ⟪त्रिचक्रेणेश्वरः⟫ ⟪स्तूयते⟫
 Tamil Nadu
-(Image source: [Details](/en/licenses#lekt5401))
+(Image source: [Detail](/en/licenses#lekt5401))
 :::
 
 ::: deleteme-box

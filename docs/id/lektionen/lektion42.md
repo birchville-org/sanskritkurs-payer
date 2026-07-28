@@ -9,7 +9,7 @@ status: stable
 
 # Pelajaran 42
 
-## 42.1. Stämme auf -ṛ
+## 42.1. Stamm pada -ṛ
 
 ### 42.1.1. Batang kata dengan tingkat perpanjangan pada batang kata kuat
 
@@ -39,13 +39,13 @@ Masculine:
 
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | :--- | :--- | :--- |
-| ⟪प्रथमा⟫ | ***⟪दाता⟫*** | ⟪दातारस्⟫ |
-| ⟪द्वितीया⟫ | ⟪दातारम्⟫ | ***⟪दातॄन्⟫*** |
+| ⟪प्रथमा⟫ | **:sig[⟪दाता⟫]** | ⟪दातारस्⟫ |
+| ⟪द्वितीया⟫ | ⟪दातारम्⟫ | **:sig[⟪दातॄन्⟫]** |
 | ⟪तृतीया⟫ | ⟪दात्रा⟫ | ⟪दातृभिस्⟫ |
 | ⟪चतुर्थी⟫ | ⟪दात्रे⟫ | ⟪दातृभ्यस्⟫ |
-| ⟪पञ्चमी⟫ | ***⟪दातुस्⟫*** | ⟪दातृभ्यस्⟫ |
-| ⟪षष्ठी⟫ | ***⟪दातुस्⟫*** | ***⟪दातॄणाम्⟫*** |
-| ⟪सप्तमी⟫ | ***⟪दातरि⟫*** | ⟪दातृषु⟫ |
+| ⟪पञ्चमी⟫ | **:sig[⟪दातुस्⟫]** | ⟪दातृभ्यस्⟫ |
+| ⟪षष्ठी⟫ | **:sig[⟪दातुस्⟫]** | **:sig[⟪दातॄणाम्⟫]** |
+| ⟪सप्तमी⟫ | **:sig[⟪दातरि⟫]** | ⟪दातृषु⟫ |
 
 :::
 Untuk penjelasan mengenai bentuk-bentuk tidak beraturan, lihat Thumb-Hauschild I,2 hlm. 76-81
@@ -53,7 +53,7 @@ Untuk penjelasan mengenai bentuk-bentuk tidak beraturan, lihat Thumb-Hauschild I
 Feminine:
 
 ::: indent
-**⟪स्वसृ⟫** f. dideklinasikan seperti **⟪दातृ⟫** dengan pengecualian akusatif (**⟪द्वितीया⟫**) jamak: ***⟪स्वसॄस्⟫***.
+**⟪स्वसृ⟫** f. dideklinasikan seperti **⟪दातृ⟫** dengan pengecualian akusatif (**⟪द्वितीया⟫**) jamak: **:sig[⟪स्वसॄस्⟫]**.
 :::
 ### 42.1.2. Nominalbildung: ⟪कृत्⟫-Suffix -⟪तृ⟫
 
@@ -84,7 +84,7 @@ Examples:
 ::: media
 ![lekt4201.jpg](/images/lekt4201.jpg)
 Fig.: ⟪अयं⟫ ⟪बोधयिता⟫
-(Image source: [Details](/en/licenses#lekt4201))
+(Image source: [Detail](/en/licenses#lekt4201))
 :::
 
 ::: grammar-box
@@ -125,12 +125,12 @@ Examples:
 
 | | ⟪पुंस्⟫ (⟪एकवचनम्⟫) | ⟪पुंस्⟫ (⟪बहुवचनम्⟫) | ⟪स्त्री⟫ (⟪एकवचनम्⟫) | ⟪स्त्री⟫ (⟪बहुवचनम्⟫) |
 | :--- | :--- | :--- | :--- | :--- |
-| ⟪प्रथमा⟫ | ⟪पिता⟫ | ***⟪पितरस्⟫*** | ⟪माता⟫ | ***⟪मातरस्⟫*** |
-| ⟪द्वितीया⟫ | ***⟪पितरम्⟫*** | ⟪पितॄन्⟫ | ***⟪मातरम्⟫*** | ⟪मातॄस्⟫ |
+| ⟪प्रथमा⟫ | ⟪पिता⟫ | **:sig[⟪पितरस्⟫]** | ⟪माता⟫ | **:sig[⟪मातरस्⟫]** |
+| ⟪द्वितीया⟫ | **:sig[⟪पितरम्⟫]** | ⟪पितॄन्⟫ | **:sig[⟪मातरम्⟫]** | ⟪मातॄस्⟫ |
 | Rest as ⟪दातृ⟫ | ← | ← | ← | ← |
 
 :::
-### 42.1.4. Stämme auf -ṛ in Komposita
+### 42.1.4. Stamm pada -ṛ dalam majemuk
 
 ::: grammar-box
 As the first member of a compound, nouns ending in -ṛ naturally stand in their weak stem, i.e.
@@ -157,7 +157,7 @@ PPP ⟪अवस्थित⟫ 3: standing, located
 
 ⟪दूत⟫ m.: messenger, envoy
 
-⟪इष्⟫ (1,4,9) Caus. ***⟪इष⟫***⟪यति⟫ : to send
+⟪इष्⟫ (1,4,9) Caus. **:sig[⟪इष⟫]**⟪यति⟫ : to send
 
 ⟪सकाश⟫ m.: presence, presence
 
@@ -212,7 +212,7 @@ Inf. ⟪शंसितुम्⟫
 ::: media
 ![lekt4202.jpg](/images/lekt4202.webp)
 Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
-(Image source: [Details](/en/licenses#lekt4202))
+(Image source: [Detail](/en/licenses#lekt4202))
 :::
 ⟪भर्तृ⟫ m. (from ⟪भृ⟫ "to carry, to sustain"): Sustainer, Nourisher, Husband
 
@@ -220,7 +220,7 @@ Fig.: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫
 
 ⟪पितृ⟫ m.: Father
 
-⟪पितृ⟫ m. Plural: the deceased male ancestors, i.e.,
+⟪पितृ⟫ m. Jamak: the deceased male ancestors, i.e.,
 
 1.  Father, Grandfather, Great-grandfather
 2.  the progenitors of humanity
@@ -276,14 +276,14 @@ Translate:
 ::: media
 ![lekt4203.jpg](/images/lekt4203.webp)
 Fig.: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫
-(Image source: [Details](/en/licenses#lekt4203))
+(Image source: [Detail](/en/licenses#lekt4203))
 :::
 ⟪आचार्याः⟫ ⟪पितरः⟫ ⟪पुत्राश्च⟫ ⟪पितामहाः⟫ ⟪श्वशुरा⟫ ⟪नप्तरो⟫ ⟪युद्धायावस्थिताः⟫ ⟪।⟫ ⟪एतान्न⟫ ⟪हन्तुमिच्छामीत्यर्जुनो⟫ ⟪भगवद्गीतायामुवाच⟫ ⟪॥३॥⟫
 
 ::: media
 ![lekt4204.jpg](/images/lekt4204.webp)
 Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫
-(Image source: [Details](/en/licenses#lekt4204))
+(Image source: [Detail](/en/licenses#lekt4204))
 :::
 ⟪कवयो⟫ ⟪लब्धपुत्रतायाः⟫ ⟪पितॄन्मातॄश्च⟫ ⟪तुष्टुवुः⟫ ⟪॥४॥⟫
 
@@ -299,42 +299,42 @@ Fig.: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीदति⟫ ⟪।�
 
 ## 42.4. Latihan Penerjemahan
 
-***⟪सीता⟫***⟪विवाहः⟫
+**:sig[⟪सीता⟫]**⟪विवाहः⟫
 
-⟪पुरा⟫ ***⟪मिथिलायां⟫*** ***⟪जनको⟫*** ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ ⟪सीता⟫ ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
+⟪पुरा⟫ **:sig[⟪मिथिलायां⟫]** **:sig[⟪जनको⟫]** ⟪नाम⟫ ⟪राजा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तस्य⟫ ⟪सुता⟫ :sig[⟪सीता⟫] ⟪नाम⟫ ⟪।⟫ ⟪सा⟫ ⟪रूपे⟫ ⟪शीले⟫ ⟪चानुपमा⟫ ⟪बभूव⟫ ⟪।⟫ ⟪तां⟫ ⟪परिणेतुमिछ्हन्तो⟫ ⟪ऽनेके⟫ ⟪राजकुमाराः⟫ ⟪जनकाय⟫ ⟪दूतान्प्रेषयामासुः⟫ ⟪॥⟫
 
-⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ ***⟪गुरुतरं⟫*** ⟪किमपि⟫ ***⟪धनुरा⟫***⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
+⟪जनकस्तु⟫ ⟪तां⟫ ⟪वीर्यसम्पन्नाय⟫ ⟪क्षत्रियकुमाराय⟫ ⟪दातुमैच्छत्⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪तां⟫ ⟪वीर्येण⟫ ⟪क्रेतव्यामकल्पयत्⟫ ⟪।⟫ ⟪तथा⟫ ⟪हि⟫ -- ⟪तस्य⟫ ⟪सकाशे⟫ **:sig[⟪गुरुतरं⟫]** ⟪किमपि⟫ **:sig[⟪धनुरा⟫]**⟪सीत्⟫ ⟪।⟫ ⟪य⟫ ⟪इदं⟫ ⟪धनुरुद्धृत्यास्मिन्शरं⟫ ⟪सन्धत्ते⟫ ⟪स⟫ ⟪मम⟫ ⟪सुतां⟫ ⟪परिणेष्यतीति⟫ ⟪जनकः⟫ ⟪प्रतिजज्ञे⟫ ⟪॥⟫
 
-⟪तां⟫ ⟪तस्य⟫ ⟪प्रतिज्ञां⟫ ⟪श्रुत्वा⟫ ***⟪शतशो⟫*** ⟪राजकुमाराः⟫ ⟪समाजग्मुः⟫ ⟪।⟫ ⟪परं⟫ ⟪नैको⟫ ⟪ऽपि⟫ ⟪तेषां⟫ ⟪तद्धनुश्चलयितुमपि⟫ ⟪शशाक⟫ ⟪।⟫ ***⟪लङ्का⟫***⟪धिपती⟫ ***⟪रावणो⟫*** ⟪ऽपि⟫ ⟪साटोपं⟫ ⟪समेत्य⟫ ⟪सलज्जं⟫ ⟪प्रतिनिवृत्त⟫ ⟪इति⟫ ⟪ज्ञायते⟫ ⟪॥⟫
+⟪तां⟫ ⟪तस्य⟫ ⟪प्रतिज्ञां⟫ ⟪श्रुत्वा⟫ **:sig[⟪शतशो⟫]** ⟪राजकुमाराः⟫ ⟪समाजग्मुः⟫ ⟪।⟫ ⟪परं⟫ ⟪नैको⟫ ⟪ऽपि⟫ ⟪तेषां⟫ ⟪तद्धनुश्चलयितुमपि⟫ ⟪शशाक⟫ ⟪।⟫ **:sig[⟪लङ्का⟫]**⟪धिपती⟫ **:sig[⟪रावणो⟫]** ⟪ऽपि⟫ ⟪साटोपं⟫ ⟪समेत्य⟫ ⟪सलज्जं⟫ ⟪प्रतिनिवृत्त⟫ ⟪इति⟫ ⟪ज्ञायते⟫ ⟪॥⟫
 
-⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ ***⟪ऽयोध्या⟫***⟪धिपते⟫***⟪र्दशरथस्य⟫*** ⟪पुत्रः⟫ ⟪श्री⟫***⟪रामः⟫*** ***⟪सलक्ष्मणो⟫*** ***⟪विश्वामित्रेण⟫*** ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫***⟪रामो⟫*** ⟪महर्षेर्⟫***⟪विश्वामित्र⟫***⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
+⟪सर्वान्राजकुमारान्प्रतिवृत्तान्विलोक्य⟫ ⟪को⟫ ⟪मे⟫ ⟪दुहितुर्भर्ता⟫ ⟪भविष्यतीति⟫ ⟪चिन्तापरो⟫ ⟪बभूव⟫ ⟪जनकः⟫ ⟪।⟫ ⟪अत्रान्तरे⟫ **:sig[⟪ऽयोध्या⟫]**⟪धिपते⟫**:sig[⟪र्दशरथस्य⟫]** ⟪पुत्रः⟫ ⟪श्री⟫**:sig[⟪रामः⟫]** **:sig[⟪सलक्ष्मणो⟫]** **:sig[⟪विश्वामित्रेण⟫]** ⟪तत्रानीयत⟫ ⟪।⟫ ⟪श्री⟫**:sig[⟪रामो⟫]** ⟪महर्षेर्⟫**:sig[⟪विश्वामित्र⟫]**⟪स्य⟫ ⟪वचनेन⟫ ⟪लीलयैव⟫ ⟪तद्धनुरुद्धृत्य⟫ ⟪यावत्तस्मिन्बाणमारोपयति⟫ ⟪तावत्तद्धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫ ⟪॥⟫
 
 ::: media
 ![lekt4208.jpg](/images/lekt4208.webp)
 Fig.: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫
-(Image source: [Details](/en/licenses#lekt4208))
+(Image source: [Detail](/en/licenses#lekt4208))
 :::
 ⟪साधु⟫ ⟪साध्विति⟫ ⟪श्रीरामस्य⟫ ⟪वीर्यं⟫ ⟪प्रशशंसुर्जनाः⟫ ⟪॥⟫
 
-⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ ***⟪सीतारामयोर्वि⟫***⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
+⟪जनकस्य⟫ ⟪राज्ञो⟫ ⟪हृदयं⟫ ⟪प्रहृष्टं⟫ ⟪बभूव⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪दशरथादीनानाय्य⟫ ⟪महता⟫ ⟪विभवेन⟫ **:sig[⟪सीतारामयोर्वि⟫]**⟪वाहोत्सवं⟫ ⟪निरवर्तयन्⟫ ⟪॥⟫
 
 (⟪संस्कृतप्रथमादर्शे⟫)
 
 Explanation of the **red** highlighted expressions:
 
-⟪सीता⟫ f. nama diri: putri dari Raja ⟪जनक⟫ dari ⟪विदेह⟫. Ia muncul dari bumi ketika raja suatu kali membajak ladang, oleh karena itu namanya: ⟪सीता⟫ f. "barisan tanah yang dibajak"
+:sig[⟪सीता⟫] f. nama diri: putri dari Raja ⟪जनक⟫ dari ⟪विदेह⟫. Ia muncul dari bumi ketika raja suatu kali membajak ladang, oleh karena itu namanya: :sig[⟪सीता⟫] f. "barisan tanah yang dibajak"
 
 ::: media
 ![lekt4205.jpg](/images/lekt4205.webp)
-Fig.: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
-(Image source: [Details](/en/licenses#lekt4205))
+Fig.: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫
+(Image source: [Detail](/en/licenses#lekt4205))
 :::
 ⟪मिथिला⟫ f. proper name: capital of ⟪विदेह⟫
 
 ::: media
 ![lekt4206.jpg](/images/lekt4206.webp)
 Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्या⟫, ⟪कोसलः⟫
-(Image source: [Details](/en/licenses#lekt4206))
+(Image source: [Detail](/en/licenses#lekt4206))
 :::
 ⟪जनक⟫ m. proper name: king of ⟪विदेह⟫
 
@@ -344,14 +344,14 @@ Fig.: ⟪मिथिला⟫, ⟪विदेहः⟫, ⟪अयोध्य�
 
 ⟪शतशस्⟫ Adv.: by the hundreds
 
-⟪लङ्का⟫ f. proper name: identified with modern Sri Lanka (ශ්⟪‍⟫රී ලංකාව / இலங்கை)
+:sig[⟪लङ्का⟫] f. proper name: identified with modern Sri Lanka (ශ්⟪‍⟫රී ලංකාව / இலங்கை)
 
-⟪रावण⟫. m. nama diri; penguasa ⟪लङ्का⟫, penguasa dari ⟪राक्षस⟫.
+⟪रावण⟫. m. nama diri; penguasa :sig[⟪लङ्का⟫], penguasa dari ⟪राक्षस⟫.
 
 ::: media
 ![lekt4207.jpg](/images/lekt4207.webp)
 Fig.: ⟪रावणः⟫
-(Image source: [Details](/en/licenses#lekt4207))
+(Image source: [Detail](/en/licenses#lekt4207))
 :::
 ⟪अयोध्या⟫ f. proper name: capital of ⟪कोसल⟫ (see map above!)
 
@@ -361,7 +361,7 @@ Fig.: ⟪रावणः⟫
 
 ⟪लक्ष्मन⟫ m. proper name: son of ⟪दशरथ⟫
 
-⟪विश्वामित्र⟫. m. nama diri: ⟪ऋषि⟫, menarik keluar ⟪राम⟫ dan ⟪लक्ष्मन⟫ untuk membunuh iblis; sebagai imbalan, keduanya menerima senjata ajaib darinya.
+:sig[⟪विश्वामित्र⟫]. m. nama diri: ⟪ऋषि⟫, menarik keluar ⟪राम⟫ dan ⟪लक्ष्मन⟫ untuk membunuh iblis; sebagai imbalan, keduanya menerima senjata ajaib darinya.
 
 ⟪सीतारामयोस्⟫ Gen.Lok.Dual from ⟪सीताराम⟫
 
@@ -371,7 +371,7 @@ Fig.: ⟪रावणः⟫
 * **Fig. lekt4202**: ⟪माता⟫, ⟪पिता⟫, ⟪पुत्रकः⟫. Diwan I Khas, atau Aula Audiensi Pribadi di Lal Qila (Benteng Merah) di Delhi. (Sumber gambar: Wen-Yan King. -- http://www.flickr.com/photos/medapt/430287982/. -- Diakses pada 2009-01-04. -- Lisensi Creative Commons (Atribusi, penggunaan non-komersial, berbagi sama))
 * **Fig. lekt4203**: ⟪कृष्णस्तस्य⟫ ⟪लोकस्य⟫ ⟪पिता⟫ ⟪माता⟫ ⟪पितामहो⟫ ⟪धातास्ति⟫. Tiruchchirappalli =  தி௫ச்சிராப்பள்ளி, kira-kira tahun 1825. (Sumber gambar: Wikipedia. Domain publik)
 * **Fig. lekt4204**: ⟪अर्जुनो⟫ ⟪रथे⟫ ⟪सीद⟫ti ⟪।⟫ ⟪कृष्णो⟫ ⟪ऽस्य⟫ ⟪रथवाहो⟫ ⟪ऽस्ति⟫ ⟪।⟫ (⟪रथ⟫ m. kereta perang). (Sumber gambar: Wikipedia. Domain publik)
-* **Fig. lekt4205**: ⟪रामः⟫, ⟪सीता⟫, ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. Abad ke-17. (Sumber gambar: Wikipedia. Domain publik)
+* **Fig. lekt4205**: :sig[⟪रामः⟫], :sig[⟪सीता⟫], ⟪हनुमान्⟫, ⟪लक्ष्मनः⟫. Abad ke-17. (Sumber gambar: Wikipedia. Domain publik)
 * **Fig. lekt4206**: Lokasi ⟪मिथिला⟫ dan ⟪विदेह⟫, ⟪अयोध्या⟫ dan ⟪कोसल⟫. (Sumber gambar: JIJITH NR / Wikipedia. GNU FDLicense)
 * **Fig. lekt4207**: ⟪रावणः⟫. Topeng tari Yakṣagaṇa (ಯಕ್ಷಗಾನ), Karnataka (ಕರ್ನಾಟಕ). (Sumber gambar: Manohara Upadhya / Wikipedia. GNU FDLicense)
 * **Fig. lekt4208**: ⟪धनुर्द्वेधा⟫ ⟪भग्नं⟫ ⟪बभूव⟫. Gambar ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906). (Sumber gambar: Wikipedia. Domain publik)

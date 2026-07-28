@@ -29,9 +29,9 @@ title: "Ἐκδότης καὶ Παραπομπή"
 
 **Μεταφράσεις ὑπὸ τεχνητοῦ νοημοσύνης** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) καὶ **τεχνικὴ γραμμή** (σκριπτά, QA-Viewer, διαμόρφωσις VitePress):
 
-- Μεταφράσεις: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Ἀναφορὰ, διανομή ὑπὸ τῇ αὐτῇ ἀδείᾳ
-- Κώδικας/Γραμμή: [Ἄδεια MIT](https://opensource.org/licenses/MIT)
+- Μεταφράσεις: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Ἀναφορὰ, διανομή ὑπὸ τῇ αὐτῇ ἀδείᾳ
+- Κώδικας/Γραμμή: [Ἄδεια MIT [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)](https://opensource.org/licenses/MIT)
 
 **Τρόπος Ἀναφορᾶς διὰ τὰς μεταφράσεις:**
-> Payer, Alois: Σανσκριτικὴ διδασκαλία. Μεταφρασθὲν ὑπὸ τεχνητοῦ νοημοσύνης. Marco Demarmels (ἐπιμ.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: Σανσκριτικὴ διδασκαλία. Μεταφρασθὲν ὑπὸ τεχνητοῦ νοημοσύνης. Marco Demarmels (ἐπιμ. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 

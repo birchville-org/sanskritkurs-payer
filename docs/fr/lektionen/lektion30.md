@@ -123,7 +123,7 @@ L'optatif (⟪लिङ्⟫), l'imparfait (⟪लङ्⟫), l'aoriste (⟪ल
 :::
 ## 30.4. Formation de l'optatif présent (⟪लिङ्⟫)
 
-### 30.4.1. Thematische Präsensklassen
+### 30.4.1. Classes thématiques de présent]
 
 ::: grammar-box
 **devant les terminaisons commençant par une consonne :**
@@ -180,7 +180,7 @@ Exemples :
 | **3. Person:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
 
 :::
-### 30.4.2. Athematische Präsensklassen
+### 30.4.2. Classes de présents athématiques
 
 ::: grammar-box
 **Parasmaipada :**

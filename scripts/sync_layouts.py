@@ -93,6 +93,21 @@ GRAMMAR_DICT = {
         "Erklärung": "Penjelasan",
         "Bildung": "Pembentukan",
         "Gebrauch": "Penggunaan",
+        "Präsensstamm": "Batang Present",
+        "Präsensstämme": "Batang Present",
+        "Futurstamm": "Batang Futur",
+        "Endung": "Akhiran",
+        "Endungen": "Akhiran",
+        "Imperativ": "Imperatif",
+        "Imperatifs": "Imperatif",
+        "athematisch": "atematik",
+        "athematische": "atematik",
+        "athematischer": "atematik",
+        "Presentstamm": "Batang Present",
+        "Presentstämme": "Batang Present",
+        "Zweite": "Kedua",
+        "Presentklasse": "Kelas Present",
+        "Zur Form der": "Mengenai Bentuk",
         "Quellen": "Sumber",
         "Abb.:": "Gbr.:",
         "Bildquelle:": "Sumber gambar:",
@@ -662,6 +677,8 @@ def align_and_merge_blocks(german_blocks, target_blocks, lang):
             has_deva = any(c for c in g_cell_clean if '\u0900' <= c <= '\u097f')
             has_latin = any(c for c in g_cell_clean if 'a' <= c.lower() <= 'z')
             content = g_cell if (has_deva and not has_latin) else t_block['content']
+            if lang in GRAMMAR_DICT:
+                content = translate_phrase(content, lang)
             merged_blocks.append({
                 'type': g_block['type'],
                 'prefix': g_block.get('prefix', ''),
@@ -716,6 +733,11 @@ def sync_lesson(lesson_num, lang):
         orig_atime = orig_mtime
 
     os.makedirs(target_dir, exist_ok=True)
+    settings_file = os.path.join(BASE_DIR, lang, "settings.md")
+    if not os.path.exists(settings_file):
+        with open(settings_file, 'w', encoding='utf-8') as f_set:
+            f_set.write("---\nlayout: doc\ntitle: Settings\n---\n\n<ClientOnly>\n  <PayerLanguageSettings />\n</ClientOnly>\n")
+            
     with open(target_path, 'w', encoding='utf-8') as f:
         f.write(synced_content)
         

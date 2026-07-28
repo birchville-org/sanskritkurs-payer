@@ -96,7 +96,7 @@ Abb.: ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 :::
 Weitere Verwendungen des Dativ später. <!-- TODO: Fallback translation -->
 
-## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
+## 24.2. Bildung des Dativ (⟪चतुर्थी⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Die regelmäßigen Endungen des Dativ sind:** <!-- TODO: Fallback translation -->
@@ -104,7 +104,7 @@ Weitere Verwendungen des Dativ später. <!-- TODO: Fallback translation -->
 * **Singular: -e ; vokalisch endende Femininstämme: -ai** <!-- TODO: Fallback translation -->
 * **Plural: Dativ und Ablativ ⟪पञ्चमी⟫: -bhyas** <!-- TODO: Fallback translation -->
 :::
-### 24.2.1. Konsonantische Stämme
+### 24.2.1. Konsonantische Stämme <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -138,7 +138,7 @@ Weitere Verwendungen des Dativ später. <!-- TODO: Fallback translation -->
 | | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
-### 24.2.4. Vokalische Stämme
+### 24.2.4. Vokalische Stämme <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 **Vokalische Stämme** <!-- TODO: Fallback translation -->
@@ -357,7 +357,7 @@ D) Ersetzen Sie in Satz A) 7 die Konstruktion mit -⟪अर्थ⟫ durch eine
 
 E) Ersetzen Sie in Satz A) 6 die Dativkonstruktion durch eine gleichwertige Konstruktion mit -⟪अर्थ⟫ <!-- TODO: Fallback translation -->
 
-## 24.6. Weitere 练习en zum Gebrauch des Dativ
+## 24.6. Weitere 练习en zum Gebrauch des Dativ <!-- TODO: Fallback translation -->
 
 Übersetzen Sie ins Sanskrit: <!-- TODO: Fallback translation -->
 

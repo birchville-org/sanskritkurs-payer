@@ -26,9 +26,9 @@ status: stable
 
 ⟪लाघवं⟫ ⟪वैयाकरणस्य⟫ ⟪भूषणम्⟫ ⟪॥७॥⟫
 :::
-## 48.2. Bildung  Imperatifs (⟪लोट्⟫) athematischer Presentstämme
+## 48.2. Pembentukan Imperatif (⟪लोट्⟫) pada Batang Presenti Tanpa Tema
 
-### 48.2.1. Endungen  Imperatif an athematischen Presentstämmen
+### 48.2.1. Akhiran Imperatif pada Batang Presenti Tanpa Tema
 
 ::: grammar-box
 | | ⟪परस्मैपदम्⟫ || ⟪आत्मनेपदम्⟫ ||
@@ -36,29 +36,29 @@ status: stable
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | \-āni | \-ai | \-āma | \-āmahai |
 | **2. Person** :br⟪मध्यमः⟫ | \-dhi:br\-hi:br\-ø:br\-āna:br\-tāt¹ | \-sva | \-ta | \-dhvam |
-| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br**Klausa 3rd.: -atu**:br(alt. -\*ntu) | \-atām:br(alternatif: -\*ntām) |
+| **3. Person** :br⟪प्रथमः⟫ | \-tu:br\-tāt¹ | \-tām | \-antu:br **Kl. 3.: -atu** :br(kelu. -\*ntu) | \-atām:br(kelu: -\*ntām) |
 :::
-Catatan: ¹ Akhiran untuk orang kedua dan ketiga tunggal dapat diganti dengan -tāt jika sebuah doa ingin diungkapkan. -tāt muncul (juga dalam orang ketiga tunggal) dengan batang lemah.
+Catatan: ¹ Akhiran orang kedua dan ketiga singular dapat diganti dengan -tāt jika yang dimaksud adalah doa restu. -tāt muncul (juga pada orang ketiga singular) pada Batang Lemah.
 
 ::: grammar-box
-| **Zur Form der Akhiran der 2.sg.Imperatif.P:** ||
+| **Mengenai Bentuk Akhiran der 2.sg.Imperatif.P:** ||
 | :---: | :--- |
 | **\-ø** | Akarn der 5. und 8. Klasse, bei denen dem auslautenden \-u nur ein Konsonant vorausgeht. |
 | **\-āna** | Akarn der 9. Klasse, die auf Konsonant enden, substituieren für \-nī+Akhiran \-āna |
-| **\-hi** | semua batang hadir lainnya yang berakhiran vokal atau semivokal (kecualian: **⟪जुहुधि⟫** ke **⟪हु⟫ 3**) |
+| **\-hi** | semua batang Present lainnya yang berakhir dengan vokal atau semivokal (pengecualian: ⟪जुहुधि⟫ dari **⟪हु⟫ 3**) |
 | **\-dhi** | Semua kasus lainnya |
 :::
-### 48.2.2. Bentuk Batang Presens
+### 48.2.2. Bentuk batang Present
 
 ::: grammar-box
-**Strong Stem:**
+**Batang kuat:**
 
-*   **all 1st person Imperatives**
-*   **3.sg. Imperative**
+*   **semua orang pertama Imperatif**
+*   **Imperatif P. 3.sg.**
 
-**Weak Stem: all other forms**
+**Batang lemah: semua bentuk lainnya**
 :::
-### 48.2.3. Zweite Presentklasse (⟪अदादि⟫)
+### 48.2.3. Kelas Present kedua (⟪अदादि⟫)
 
 ⟪द्विष्⟫ 2U
 
@@ -100,7 +100,7 @@ Catatan: ¹ Akhiran untuk orang kedua dan ketiga tunggal dapat diganti dengan -t
 | **2. Person** :br⟪मध्यमः⟫ | ⟪इहि⟫ | ⟪इत⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪एतु⟫ | ⟪यन्तु⟫:br(y-antu) |
 :::
-⟪शी⟫ 2Ā (always with full grade!)
+⟪शी⟫ 2Ā (selalu tingkat tinggi!)
 
 ::: grammar-box
 | | ⟪आत्मनेपदम्⟫ ||
@@ -108,7 +108,7 @@ Catatan: ¹ Akhiran untuk orang kedua dan ketiga tunggal dapat diganti dengan -t
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪शयै⟫:br(śe + ai) | ⟪शयामहै⟫ |
 | **2. Person** :br⟪मध्यमः⟫ | ⟪शेष्व⟫ | ⟪शेध्वम्⟫ |
-| **3. Person** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | ***⟪शेरताम्⟫*** |
+| **3. Person** :br⟪प्रथमः⟫ | ⟪शेताम्⟫ | :sig[⟪शेरताम्⟫] |
 :::
 ⟪हन्⟫ 2P
 
@@ -120,7 +120,7 @@ Catatan: ¹ Akhiran untuk orang kedua dan ketiga tunggal dapat diganti dengan -t
 | **2. Person** :br⟪मध्यमः⟫ | ⟪जहि⟫¹ | ⟪हत⟫:br(aus: \*hn-ta) |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪हन्तु⟫ | ⟪घ्नन्तु⟫ |
 
-Note: ¹ Explanation of **⟪जहि⟫*** see Thumb-Hauschild I,2 p. 253
+Catatan: ¹ Penjelasan dari ⟪जहि⟫ lihat Thumb-Hauschild I,2 S. 253
 :::
 ⟪स्तु⟫ 2U
 
@@ -152,10 +152,10 @@ Note: ¹ Explanation of **⟪जहि⟫*** see Thumb-Hauschild I,2 p. 253
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪शाधि⟫] :br(aus: śās + dhi):brunregelm. hochstufig | ⟪शिष्ट⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪शास्तु⟫ | :sig[⟪शासतु⟫] :brunregelm. hochstufig |
 :::
-### 48.2.4. Dritte Presentklasse (⟪जुहोत्यादि⟫)
+### 48.2.4. Kelas Kata Kerja Present Ketiga (⟪जुहोत्यादि⟫)
 
 ::: grammar-box
-**The 3.pl.P ends in \-atu !**
+**Kata kerja orang ketiga jamak diakhiri dengan \-atu !**
 :::
 ⟪हु⟫ 3P
 
@@ -167,7 +167,7 @@ Note: ¹ Explanation of **⟪जहि⟫*** see Thumb-Hauschild I,2 p. 253
 | **2. Person** :br⟪मध्यमः⟫ | ⟪जुहुधि⟫:brunregelmässig¹ | ⟪जुहुत⟫ | \<⟪जुहुष्व⟫\> | \<⟪जुहुध्वम्⟫\> |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪जुहोतु⟫ | ⟪जुह्वतु⟫:br(ju-hu + atu) | \<⟪जुहुताम्⟫\> | \<⟪जुह्वताम्⟫\> |
 
-Note: ¹ Dissimilation, so that two syllables with **⟪ह्⟫** do not follow each other.
+Catatan: ¹ Dissimilasi, sehingga tidak ada dua suku kata dengan ⟪ह्⟫ yang mengikuti satu sama lain.
 :::
 ⟪धा⟫ 3U
 
@@ -179,7 +179,7 @@ Note: ¹ Dissimilation, so that two syllables with **⟪ह्⟫** do not follo
 | **2. Person** :br⟪मध्यमः⟫ | ⟪धेहि⟫¹ | ⟪धत्त⟫:br(da-dh + ta) | ⟪धत्स्व⟫ | ⟪धद्ध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪दधातु⟫ | ⟪दधतु⟫:br(da-dh-atu) | ⟪धत्ताम्⟫ | ⟪दधताम्⟫ |
 
-Note: ¹ **⟪धेहि⟫** from \*dhazdhi: loss of the Indo-European sibilant z under compensatory lengthening; see Thumb-Hauschild I,1 p. 302
+Catatan: ¹ ⟪धेहि⟫ dari \*dhazdhi: Hilangnya konsonan gesek Indo-Jermanik z dengan penggantian peregangan; lihat Thumb-Hauschild I,1 hlm. 302
 :::
 ⟪हा⟫ 3P
 
@@ -191,37 +191,35 @@ Note: ¹ **⟪धेहि⟫** from \*dhazdhi: loss of the Indo-European sibila
 | **2. Person** :br⟪मध्यमः⟫ | :sig[⟪जहाहि⟫] :brunregelm. stark. St.:br⟪जहीहि⟫:br⟪जहिहि⟫ | ⟪जहीत⟫:br⟪जहित⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪जहातु⟫ | ⟪जहतु⟫:br(ja-h-atu) |
 :::
-## 48.3. Tentang pembentukan nominal: ⟪तद्धित⟫-Sufiks -a dan -ya
+## 48.3. Pembentukan Nomina: Suffix ⟪तद्धित⟩ -a dan -ya
 
 ::: grammar-box
-Dengan akhiran **-a** dan (jarang) **-ya**, sebuah kata benda dapat diturunkan dari kata benda lain. Dalam prosesnya, suku kata pertama dari kata benda asli menerima tingkat guṇa (**⟪वृद्धि⟫**). Jika batang asli sudah berakhiran **-a**, maka **⟪वृद्धि⟫** adalah satu-satunya penanda penurunan, karena bunyi akhir batang tetap tidak berubah.
+Dengan suffix **-a** dan (jarang) **-ya**, sebuah nomina dapat diturunkan dari nomina lain. Di sini, suku kata pertama dari nomina asli memperoleh tingkat ekstensi (⟪वृद्धि⟩). Jika akar kata asli sudah berakhir pada **-a**, maka ⟪वृद्धि⟩ adalah satu-satunya tanda penurunan, karena tidak ada perubahan pada akhiran akar.
 
-The derived words have the meaning:
+Kata-kata yang diturunkan memiliki makna:
 
-> "memiliki hubungan tertentu dengan yang ditunjuk oleh kata dasar"
+> "memiliki hubungan tertentu dengan apa yang dimaksud oleh kata dasar"
 
-e.g.
+mis.
 
-*   "originating from"
-*   "belonging to"
+*   "berasal dari"
+*   "milik dari"
 
-[Kata-kata yang dibentuk dengan cara ini adalah kata sifat, tetapi dapat disubstantivkan, misalnya sebagai patronimik (pembentukan nama setelah ayah: "putra dari N.N.") atau abstrakta (kebanyakan netral).]
-[:::]
-[Contoh:]
+Kata-kata yang dibentuk dengan cara ini adalah kata sifat, tetapi dapat dibendakan, mis. sebagai Patronymika (pembentukan nama berdasarkan ayah: "Anak dari N.N.") atau Abstrakta (biasanya Netral).
 :::
-[::: indent]
+Contoh:
 
 ::: indent
-| Kata dasar | Turunan |
+| Kata Dasar | Turunan |
 | :--- | :--- |
-| **⟪शुचि⟫** 3 "bersinar, murni" | **⟪शौच⟫** n. "kemurnian" |
-| **⟪पुत्र⟫** m. "putra" | **⟪पौत्र⟫** m. "berasal dari putra = cucu" |
-| **⟪गोतम⟫** m. "pemilik banyak sapi" nama diri | **⟪गौतम⟫** m. "putra Gotama" |
-| **⟪ब्रह्मन्⟫** n. "kebenaran yang dirumuskan, Weda, Absolut" | **⟪ब्राह्मण⟫** m. "perumus kebenaran, Brāhmaṇa" |
-| **⟪शूर⟫** 3 "heroik" | **⟪शौर्य⟫** n. "keheroikan, keberanian" |
-| **⟪राजन्⟫** m. "raja" | **⟪राज्य⟫** n. "kekerajaan" |
-| **⟪देव⟫** m. "Yang Surgawi, dewa" | **⟪दैव्य⟫** 3 "surgawi" |
-| **⟪ग्राम⟫** m. "desa" | **⟪ग्राम्य⟫** 3 "berkaitan dengan desa" |
+| ⟪शुचि⟫ 3 "bersinar, murni" | ⟪शौच⟫ n. "Kemurnian" |
+| ⟪पुत्र⟫ m. "Anak" | ⟪पौत्र⟫ m. "berasal dari anak = cucu laki-laki, cicit" |
+| ⟪गोतम⟫ m. "Pemilik sangat banyak sapi" Nama diri | ⟪गौतम⟫ m. "Anak dari Gotama" |
+| ⟪ब्रह्मन्⟫ n. "kebenaran yang dirumuskan, Weda, Yang Mutlak" | ⟪ब्राह्मण⟫ m. "Perumus kebenaran, Brahmana" |
+| ⟪शूर⟫ 3 "pahlawan" | ⟪शौर्य⟫ n. "Kepahlawanan, Keberanian" |
+| ⟪राजन्⟫ m. "Raja" | ⟪राज्य⟫ n. "Kerajaan" |
+| ⟪देव⟫ m. "Sorgawi, Dewa" | ⟪दैव्य⟫ 3 "sorgawi" |
+| ⟪ग्राम⟫ m. "Desa" | ⟪ग्राम्य⟫ 3 "pedesaan" |
 :::
 ::: grammar-box
 | **Behandlung des Batangauslautes vor dem Suffix \-a:** ||
@@ -230,56 +228,54 @@ e.g.
 | **\-a** | Ersatz des **\-a** des Grundwortes durch das neue Suffix **\-a**.:brContoh siehe oben. |
 | **\-i** | Wegfall des **\-i** :brz.B. ⟪प्रकृति⟫ f. "Natur" » ⟪प्राकृत⟫ 3 "natürlich, normal, üblich, vulgär" |
 | **\-u** | meistens: **\-av-a** :brz.B. ⟪गुरु⟫ 3 "schwer"; m. "Meister, Lehrer" » ⟪गौरव⟫ 3 "zum Meister gehörig, vom Meister stammend"; n. "Gewicht, Schwere, Würde" |
-| **stem deklinasi lainnya:** | lihat Wackernagel, Altind. Grammatik II,2 § 38 |
+| **Stem deklinasi lainnya:** | lihat Wackernagel, Altind. Grammatik II,2 § 38 |
 
-Sebelum sufiks **-ya**, akhiran stem diperlakukan serupa seperti sebelum sufiks **-a**.
-[:::]
-Lihat contoh di atas!
+Sebelum akhiran **-ya**, akhiran kata dasar diperlakukan mirip seperti sebelum akhiran **-a**.
 :::
-Contoh-contoh lihat di atas!
+Lihat contoh di atas!
 
 ::: grammar-box
-**Derivations can also be formed from compounds using these suffixes.**
+**Dengan akhiran-akhiran ini, derivasi juga dapat dibentuk dari kata majemuk.**
 
-e.g. **⟪स्वश्व⟫** m. "he, whose horses are good" proper name » **⟪सौवश्व⟫** m. "descendant of Svaśva"
+mis. ⟪स्वश्व⟫ m. "yang, kuda-kudanya baik" nama diri » ⟪सौवश्व⟫ m. "keturunan Svaśva"
 
-**Dalam majemuk, di mana karena sandhi pada anggota sebelumnya akhir -i atau -u diganti dengan -y atau -v dan sehingga mendahului vokal pertama dari kata dasar (misalnya majemuk dengan ni-, vi-, su-), ⟪वृद्धि⟫ dibentuk seolah-olah -iy atau -uv hadir.**
+**Pada kata majemuk, di mana akibat sandhi pada komponen pertama akhir -i atau -u diganti dengan -y atau -v dan sehingga mendahului vokal pertama dari kata dasar (mis. kata majemuk dengan ni-, vi-, su-), ⟪वृद्धि⟫ dibentuk seolah-olah -iy atau -uv akan ada.**
 
-e.g. **⟪व्याघ्र⟫** m. "tiger" » **⟪वैयाघ्र⟫** 3 "originating from a tiger, belonging to a tiger"
+mis. ⟪व्याघ्र⟫ m. "Harimau" » ⟪वैयाघ्र⟫ 3 "berasal dari harimau, milik harimau"
 :::
 ::: media
 ![](/images/lekt4801.webp)
-Fig.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
-(Image source: [Details](/en/licenses#lekt4801))
+Ilm.: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
+(Sumber gambar: [Detail](/licenses#lekt4801))
 :::
 ## 48.4. Daftar Kata
 
-⟪श्वस्⟫ : tomorrow
+⟪श्वस्⟫ : besok
 
-⟪अद्य⟫ : today
+⟪अद्य⟫ : hari ini
 
-⟪लघु⟫ 3: easy (not hard, not difficult), fast, short (in expression)
+⟪लघु⟫ 3: ringan (bukan berat, bukan sulit), cepat, singkat (dalam ungkapan)
 
-⟪व्याकरण⟫ n.: grammar (to ⟪व्याकृ⟫)
+⟪व्याकरण⟫ n.: Tata bahasa (ke ⟪व्याकृ⟫)
 
-⟪तन्त्र⟫ n.: string; loom, warp, fabric; foundation, norm, rule; doctrine, textbook; Tantra; magical formula; means, trick, medicine; government, authority
+⟪तन्त्र⟫ n.: Senar ; alat tenun, benang lungsin, kain ; dasar, norma, aturan ; ajaran, karya ajar; Tantra; mantra sihir; alat, trik, obat-obatan; pemerintahan, otoritas
 
 ::: media
 ![](/images/lekt4802.webp)
-Fig.: ⟪तन्त्रम्⟫
+Gambar: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
-(Image source: [Details](/en/licenses#lekt4802))
+(Sumber gambar: [Detail](/licenses#lekt4802))
 :::
 
 ::: media
 ![](/images/lekt4803.webp)
-Fig.: ⟪तन्त्री⟫
-Sitar player = ⟪सितारवादकः⟫
-(Image source: [Details](/en/licenses#lekt4803))
+Gambar: ⟪तन्त्री⟫
+Pemain sitar = ⟪सितारवादकः⟫
+(Sumber gambar: [Detail](/licenses#lekt4803))
 :::
-⟪स्त्री⟫ f.: woman, wife; feminine
+⟪स्त्री⟫ f.: Wanita, istri; Feminin
 
-Declension:
+Deklinasi:
 
 ::: grammar-box
 | **⟪स्त्री⟫ f.** | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
@@ -296,136 +292,136 @@ Declension:
 ::: media
 ![](/images/lekt4804.webp)
 Fig.: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
-[Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
-(Image source: [Details](/en/licenses#lekt4804))
+[Kelompok swa-bantu (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு
+(Sumber gambar: [Detail](/licenses#lekt4804))
 :::
-⟪दिवानिशम्⟫ Adverb: by day and night
+⟪दिवानिशम्⟫ Kata keterangan: pada siang dan malam hari
 
-⟪सज्ज्⟫ 1P ⟪सज्जति⟫ : to hang, to adhere
+⟪सज्ज्⟫ Orang pertama tunggal ⟪सज्जति⟫ : menggantung, melekat
 
-⟪कुमार⟫ m.: child, youth, prince; epithet of ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്⟪‍⟫ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
+⟪कुमार⟫ m.: anak, pemuda, pangeran; nama lain dari ⟪कार्तिकेय⟫ / Murugan = முருகன் = മുരുകന്‍ / Subrahmanya = ಸುಬ್ರಹ್ಮಣ್ಯ
 
 ::: media
 ![](/images/lekt4805.webp)
-Fig.: ⟪कुमारः⟫
-Thaipusam festival = தைப்பூசம், Batu Caves, Malaysia
-(Image source: [Details](/en/licenses#lekt4805))
+Gambar: ⟪कुमारः⟫
+Festival Thaipusam = தைப்பூசம், Batu Caves, Malaysia
+(Sumber gambar: [Detail](/licenses#lekt4805))
 :::
-⟪कुमारी⟫ f.: girl, daughter
+⟪कुमारी⟫ f.: gadis, putri
 
 ::: media
 ![](/images/lekt4806.webp)
-Fig.: ⟪कुमारी⟫
+Gambar: ⟪कुमारी⟫
 ⟪नेपाल⟫
-(Image source: [Details](/en/licenses#lekt4806))
+(Sumber gambar: [Detail](/licenses#lekt4806))
 :::
-⟪कौमर⟫ n.: childhood
+⟪कौमर⟫ n.: masa kecil
 
-⟪यौवन⟫ n.: youth
+⟪यौवन⟫ n.: remaja
 
-⟪स्थविर⟫ 3: old, aged
+⟪स्थविर⟫ 3: tua, lanjut usia
 
 ::: media
 ![](/images/lekt4807.webp)
-Fig.: ⟪स्थविराः⟫
+Gambar: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
-(Image source: [Details](/en/licenses#lekt4807))
+(Sumber gambar: [Detail](/licenses#lekt4807))
 :::
-⟪स्थाविर⟫ n.: (high) age
+⟪स्थाविर⟫ n.: (usia) tua
 
-⟪वाच्य⟫ 3: also: blameworthy
+⟪वाच्य⟫ 3: juga: tercela
 
-⟪सूक्ष्म⟫ 3: fine, tiny, subtle
+⟪सूक्ष्म⟫ 3: halus, kecil, subtil
 
 ::: media
 ![](/images/lekt4808.webp)
-Fig.: ⟪सूक्ष्मम्⟫
-Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
-(Image source: [Details](/en/licenses#lekt4808))
+Gambar: ⟪सूक्ष्मम्⟫
+Danau Karanji = ಕಾರಂಜಿ ಕೆರೆ
+(Sumber gambar: [Detail](/licenses#lekt4808))
 :::
-⟪प्रसङ्ग⟫ m.: attachment, inclination; opportunity
+⟪प्रसङ्ग⟫ m.: keterikatan, kecenderungan ; kesempatan
 
-⟪विशेष⟫ m.: difference, peculiarity
+⟪विशेष⟫ m.: perbedaan, kekhususan
 
-⟪प्रसूति⟫ f.: birth, offspring
+⟪प्रसूति⟫ f.: kelahiran, keturunan
 
-⟪चरित्र⟫ n.: custom, habit, customary law; conduct
+⟪चरित्र⟫ n.: kebiasaan, adat, hukum kebiasaan; perilaku
 
-⟪जाया⟫ f.: wife
+⟪जाया⟫ f.: istri
 
 ::: media
 ![](/images/lekt4809.webp)
 Fig.: ⟪मम⟫ ⟪जाया⟫
-(Image: Payer)
-(Image source: [Details](/en/licenses#lekt4809))
+(Gambar: Payer)
+(Sumber gambar: [Detail](/licenses#lekt4809))
 :::
 ## 48.5. Latihan
 
-[A] Terjemahkan ⟪सुभाषितानि⟫ di awal pelajaran.
+A) Terjemahkan ⟪सुभाषितानि⟫ di awal pelajaran.
 
-[B] Terjemahkan ke dalam bahasa Sanskerta (menggunakan imperatif dan lebih disukai akar kata dari kelas 2 dan 3 sekarang):
+B) Terjemahkan ke dalam bahasa Sanskerta (gunakan imperatif dan sebisa mungkin akar kata dari kelas 2 dan 3 present):
 
 1. Setelah kamu mendapatkan seorang putra, tinggalkanlah keluarga!
 2. Keturunan Puru, takutlah kepada mereka yang telah melakukan kejahatan!
-3. Para gadis harus memberikan makanan kepada pengemis.
-4. Kami ingin berbicara.
-5. Dengan kata-kata "Datanglah, bhikkhu!" Buddha menerima pria itu ke dalam orde monastik (⟪उपसम्पद्⟩ kausatif).
-6. Jadilah keturunan Manu yang sejati!
-7. Saya ingin memuji ⟪शिव⟫ dan dewa-dewa lainnya.
-8. Katakan!
-9. Ukurlah neraka!
+3. Para gadis harus memberikan makanan kepada para pengemis.
+4. Kita hendak berbicara.
+5. Dengan kata-kata "Datanglah, wahai bhikkhu!" Sang Buddha menerima pria tersebut ke dalam ordo bhikkhu (⟪उपसम्पद्⟩ Kausatif).
+6. Jadilah keturunan sejati Manus!
+7. Aku hendak memuji ⟪शिव⟩ dan para dewa lainnya.
+8. Ceritakan!
+9. Ukurlah neraka itu!
 10. Mereka (jamak) harus berbaring di tempat tidur ini.
-11. Para pria yang seperti harimau harus membunuh mereka yang bermusuhan dengan Indra.
+11. Para pria yang sebanding dengan harimau harus membunuh mereka yang bermusuhan dengan Indra.
 12. Konsentrasilah!
 13. Duduklah di sini!
-14. Kami ingin makan buah-buahan ini.
-15. Pelayan harus memerah sapi betina.
-16. Raja, jagalah dharma dan rakyat.
-17. Ajarlah para siswa Veda!
-18. Ia harus memakai pakaian baru.
-19. Mereka (jamak) harus duduk di rumah saya.
-20. Suami harus memelihara istri mereka (dalam arti memberikan nafkah).
+14. Kita hendak memakan buah-buahan ini.
+15. Pelayan harus memerah sapi itu.
+16. Raja, jagalah dharma dan rakyatnya.
+17. Ajarlah para murid tentang Weda!
+18. Ia harus mengenakan pakaian baru.
+19. Mereka (jamak) harus duduk di rumahku.
+20. Suami-suami harus memelihara istri-istri mereka (dalam arti pemenuhan kebutuhan).
 
-## 48.6. Latihan Penerjemahan
+## 48.6. Latihan Terjemahan
 
 ⟪मनुस्मृति⟫ ⟪९⟫ (⟪स्त्रीधर्मः⟫):
 
 ::: indent
-⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟫  
-⟪विषयेषु⟫ ⟪च⟫ ⟪सज्जन्त्यः⟫ ⟪संस्थाप्या⟫ ⟪आत्मनो⟫ ⟪वशे⟫ ⟪॥२॥⟫  
-⟪पिता⟫ ⟪रक्षति⟫ ⟪कौमरे⟫ ⟪भर्ता⟫ ⟪रक्षति⟫ ⟪यौवने⟫ ⟪।⟫  
-⟪रक्षन्ति⟫ ⟪स्थाविरे⟫ ⟪पुत्रा⟫ ⟪न⟫ ⟪स्त्री⟫ ⟪स्वातन्त्र्यमर्हति⟫ ⟪॥३॥⟫  
-⟪काले⟫ ⟪ऽदाता⟫ ⟪पिता⟫ ⟪वाच्यो⟫ ⟪वाच्यश्चानुपनयन्पतिः⟫ ⟪।⟫  
-⟪मृते⟫ ⟪भर्तर⟫i ⟪पुत्रस्तु⟫ ⟪वाच्यो⟫ ⟪मातुररक्षिता⟫ ⟪॥४॥⟫  
-⟪सूक्ष्मेभ्यो⟫ ⟪ऽपि⟫ ⟪प्रसङ्गेभ्यः⟫ ⟪स्त्रियो⟫ ⟪रक्ष्या⟫ ⟪विशेषतः⟫ ⟪।⟫  
-***⟪द्वयोर्हि⟫ ⟪कुलयोः⟫*** ⟪शोकमावहेयुररक्षिताः⟫ ⟪॥५॥⟫  
-⟪इमं⟫ ⟪हि⟫ ⟪सर्ववर्णानां⟫ ⟪पश्यन्तो⟫ ⟪धर्ममुत्तमम्⟫ ⟪।⟫  
-⟪यतन्ते⟫ ⟪रक्षितुं⟫ ⟪भार्यां⟫ ⟪भर्तारो⟫ ⟪दुर्बला⟫ ⟪अपि⟫ ⟪॥६॥⟫  
-⟪स्वां⟫ ⟪प्रसूतिं⟫ ⟪चरित्रं⟫ ⟪च⟫ ⟪कुलमात्मानमेव⟫ ⟪च⟫ ⟪।⟫  
-⟪स्वं⟫ ⟪च⟫ ⟪धर्मं⟫ ⟪प्रयत्नेन⟫ ⟪जायां⟫ ⟪रक्षन्हि⟫ ⟪रक्षति⟫ ⟪॥७॥⟫  
-⟪पतिर्भार्यां⟫ ⟪संप्रविश्य⟫ ⟪गर्भो⟫ ⟪भूत्वेह⟫ ⟪जायते⟫ ⟪।⟫  
-⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫
+⟪अस्वतन्त्राः⟫ ⟪स्त्रियः⟫ ⟪कार्याः⟫ ⟪पुरुषैः⟫ ⟪स्वैर्दिवानिशम्⟫ ⟪।⟩  
+⟪विषयेषु⟫ ⟪च⟩ ⟪सज्जन्त्यः⟩ ⟪संस्थाप्या⟩ ⟪आत्मनो⟩ ⟪वशे⟩ ⟪॥२॥⟩  
+⟪पिता⟩ ⟪रक्षति⟩ ⟪कौमरे⟩ ⟪भर्ता⟩ ⟪रक्षति⟩ ⟪यौवने⟩ ⟪।⟩  
+⟪रक्षन्ति⟩ ⟪स्थाविरे⟩ ⟪पुत्रा⟩ ⟪न⟩ ⟪स्त्री⟩ ⟪स्वातन्त्र्यमर्हति⟩ ⟪॥३॥⟩  
+⟪काले⟩ ⟪ऽदाता⟩ ⟪पिता⟩ ⟪वाच्यो⟩ ⟪वाच्यश्चानुपनयन्पतिः⟩ ⟪।⟩  
+⟪मृते⟩ ⟪भर्तर⟩i ⟪पुत्रस्तु⟩ ⟪वाच्यो⟩ ⟪मातुररक्षिता⟩ ⟪॥४॥⟩  
+⟪सूक्ष्मेभ्यो⟩ ⟪ऽपि⟩ ⟪प्रसङ्गेभ्यः⟩ ⟪स्त्रियो⟩ ⟪रक्ष्या⟩ ⟪विशेषतः⟩ ⟪।⟩  
+:sig[⟪द्वयोर्हि⟩] :sig[⟪कुलयोः⟩] ⟪शोकमावहेयुररक्षिताः⟩ ⟪॥५॥⟩  
+⟪इमं⟩ ⟪हि⟩ ⟪सर्ववर्णानां⟩ ⟪पश्यन्तो⟩ ⟪धर्ममुत्तमम्⟩ ⟪।⟩  
+⟪यतन्ते⟩ ⟪रक्षितुं⟩ ⟪भार्यां⟩ ⟪भर्तारो⟩ ⟪दुर्बला⟩ ⟪अपि⟩ ⟪॥६॥⟩  
+⟪स्वां⟩ ⟪प्रसूतिं⟩ ⟪चरित्रं⟩ ⟪च⟩ ⟪कुलमात्मानमेव⟩ ⟪च⟩ ⟪।⟩  
+⟪स्वं⟩ ⟪च⟩ ⟪धर्मं⟩ ⟪प्रयत्नेन⟩ ⟪जायां⟩ ⟪रक्षन्हि⟩ ⟪रक्षति⟩ ⟪॥७॥⟩  
+⟪पतिर्भार्यां⟩ ⟪संप्रविश्य⟩ ⟪गर्भो⟩ ⟪भूत्वेह⟩ ⟪जायते⟩ ⟪।⟩  
+⟪जायायास्तद्धि⟩ ⟪जायात्वं⟩ ⟪यद्⟩ ⟪अस्यां⟩ ⟪जायते⟩ ⟪पुनः⟩ ⟪॥८॥⟩
 :::
-Explanation:  
-⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Dual to ⟪द्वे⟫ ⟪कुले⟫ "two families"
+Penjelasan:  
+⟪द्वयोर्हि⟩ ⟪कुलयोः⟩ : Gen. (⟪षष्ठी⟩) Dual ke ⟪द्वे⟩ ⟪कुले⟩ "dua keluarga"
 
 ::: deleteme-box
 
-**lekt4801:** [Image source: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, Non-commercial, Share alike)]
+**lekt4801:** [Sumber gambar: Gunnlaugur Þ. Briem. -- [http://www.flickr.com/photos/gthb/247964428/](http://www.flickr.com/photos/gthb/247964428/). -- Diakses pada 2009-01-10. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribusi, penggunaan non-komersial, berbagi serupa)]
 
-**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Image source: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Attribution, Non-commercial, Share alike)]
+**lekt4802:** Sualkuchi = সুৱালকুচি, Assam = অসম [Sumber gambar: Ken McChesney. -- [http://www.flickr.com/photos/kenmak/2083565996/](http://www.flickr.com/photos/kenmak/2083565996/). -- Diakses pada 2009-01-10. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (Atribusi, penggunaan non-komersial, berbagi serupa)]
 
-**lekt4803:** Sitar player = ⟪सितारवादकः⟫ [Image source: Wikipedia. Public domain]
+**lekt4803:** Pemain sitar = ⟪सितारवादकः⟫ [Sumber gambar: Wikipedia. Domain publik]
 
-**lekt4804:** [Self-help group (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Image source: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Attribution, Non-commercial)]
+**lekt4804:** [Kelompok swa-bantu (SHG)](http://en.wikipedia.org/wiki/Self-help_group_\(finance\)), Tamil Nadu = தமிழ்நாடு [Sumber gambar: mckaysavage. -- [http://www.flickr.com/photos/mckaysavage/2229752965/](http://www.flickr.com/photos/mckaysavage/2229752965/). -- Diakses pada 2009-01-10. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-nc/2.0/deed.de) (Atribusi, penggunaan non-komersial)]
 
-**lekt4805:** Thaipusam festival = தைப்பூசம், Batu Caves, Malaysia [Image source: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by/2.0/deed.de) (Attribution)]
+**lekt4805:** Festival Thaipusam = தைப்பூசம், Batu Caves, Malaysia [Sumber gambar: tajai. -- [http://www.flickr.com/photos/cayce/108707865/](http://www.flickr.com/photos/cayce/108707865/). -- Diakses pada 2009-01-10. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by/2.0/deed.de) (Atribusi)]
 
-**lekt4806:** ⟪नेपाल⟫ [Image source: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, Non-commercial, No derivatives)]
+**lekt4806:** ⟪नेपाल⟫ [Sumber gambar: changhg. -- [http://www.flickr.com/photos/changhg/100412648/](http://www.flickr.com/photos/changhg/100412648/). -- Diakses pada 2009-01-10. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribusi, non-komersial, tidak ada karya turunan)]
 
-**lekt4807:** ⟪जोधपुर⟫ [Image source: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Attribution, Non-commercial, No derivatives)]
+**lekt4807:** ⟪जोधपुर⟫ [Sumber gambar: zz77. -- [http://www.flickr.com/photos/zz77/2256414024/](http://www.flickr.com/photos/zz77/2256414024/). -- Diakses pada 2009-01-10. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (Atribusi, non-komersial, tidak ada karya turunan)]
 
-**lekt4808:** Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ [Image source: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Accessed on 2009-01-10. -- [Creative Commons License](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Attribution, Share alike)]
+**lekt4808:** Danau Karanji = ಕಾರಂಜಿ ಕೆರೆ [Sumber gambar: Nagesh Kamath. -- [http://www.flickr.com/photos/nagesh\_kamath/2791791571/](http://www.flickr.com/photos/nagesh\_kamath/2791791571/). -- Diakses pada 2009-01-10. -- [Lisensi Creative Commons](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (Atribusi, bagi sama)]
 
-**lekt4809:** (Image: Payer)
+**lekt4809:** (Gambar: Payer)
 :::

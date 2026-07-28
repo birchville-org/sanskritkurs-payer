@@ -39,11 +39,11 @@ Exempl:
 Furmaziuns irregularas:
 
 ::: indent
-⟪अस्⟫ 4P "lansar": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (veglia l'explicaziun en Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P "lansar": ***:sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫]*** (veglia l'explicaziun en Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "racuntont": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
+⟪ख्या⟫ + ⟪आ⟫ 2P "racuntont": ***:sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]***
 
-⟪दृश्⟫ "veger": ***⟪अदर्शम्⟫, ⟪अदर्शत्⟫*** (stadi da hön!)
+⟪दृश्⟫ "veger": ***:sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫]*** (stadi da hön!)
 :::
 Notar:
 

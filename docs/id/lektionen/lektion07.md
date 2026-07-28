@@ -14,7 +14,7 @@ status: stable
 - Kalimat verbal dengan objek langsung
 - Akusatif untuk nomina dan pronomina
 - Sandhi dari akhiran -n
-- Neutrum untuk stem a-
+- Netral untuk stem a-
 - Kelas-kelas present athematic (sebagai contoh kelas 5)
 :::
 
@@ -54,7 +54,7 @@ Jika kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsung 
 ## 7.2. Kasus Akusatif (kasus objek, dvitīyā f. = ⟪द्वितीया⟫ = "akhiran kasus kedua")
 
 ::: grammar-box
-**Akhiran Akusatif Singular Maskulinum dan Feminin setelah Vokal: -m**
+**Akhiran Akusatif Tunggal Maskulin dan Feminin setelah Vokal: -m**
 
 | Maskulin berakhir dengan | Akusatif Tunggal |
 | :--- | :--- |
@@ -68,7 +68,7 @@ Jika kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsung 
 | **-u**: dhenu | **dhenum** :br⟪धेनुम्⟫ |
 :::
 ::: grammar-box
-**Akusatif Plural Maskulinum dari stem berakhir dengan Vokal (kecuali: stem akar satu suku kata dengan vokal panjang): Perpanjangan vokal akhir + -n**
+**Akusatif Jamak Maskulin dari stem berakhir dengan Vokal (kecuali: stem akar satu suku kata dengan vokal panjang): Perpanjangan vokal akhir + -n**
 
 | Maskulin berakhir dengan | Akusatif Jamak |
 | :--- | :--- |
@@ -77,7 +77,7 @@ Jika kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsung 
 | **-u**: guru | **gurūn** :br⟪गुरून्⟫ |
 :::
 ::: grammar-box
-**Akusatif Plural Feminin dari stem berakhir dengan Vokal (kecuali: stem akar satu suku kata dengan vokal panjang): Perpanjangan vokal akhir + -s**
+**Akusatif Jamak Feminin dari stem berakhir dengan Vokal (kecuali: stem akar satu suku kata dengan vokal panjang): Perpanjangan vokal akhir + -s**
 
 | Feminin berakhir dengan | Akusatif Jamak |
 | :--- | :--- |
@@ -87,7 +87,7 @@ Jika kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsung 
 | **-u**: dhenu | **dhenūs** :br⟪धेनूस्⟫ |
 :::
 
-### 7.2.1. Akusatif Singular dan Plural Pronomina Interogatif dan Pronomina Demonstratif
+### 7.2.1. Akusatif Tunggal dan Jamak Pronomina Interogatif dan Pronomina Demonstratif
 
 ::: grammar-box
 | || Maskulin | Feminin | Netral |
@@ -104,7 +104,7 @@ Jika kata kerja berada dalam Parasmaipada atau Ātmanepada, maka objek langsung 
 Bentuk-bentuk **enam** (⟪एनम्⟫) dan lain-lain termasuk ke dalam akar **enad** (⟪एनद्⟫), yang hanya membentuk beberapa kasus. Bentuk-bentuk ini digunakan sebagai pengganti bentuk-bentuk dari **etad** dan **idam** ketika yang dimaksud telah disebutkan sebelumnya.
 Misalnya, **ayaṃ devaḥ, enaṃ yajante.** = ⟪अयं⟫ ⟪देवः⟫ | ⟪एनं⟫ ⟪यजन्ते⟫ || : "Dia adalah seorang dewa. Mereka mempersembahkan korban kepadanya."
 
-### 7.2.2. Gebrauch  Akkusativ (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
+### 7.2.2. Penggunaan  Akusatif (Wenfall, dvitīyā f. = ⟪द्वितीया⟫ = "zweite Kasusendung")
 
 ::: grammar-box
 Kasus Akusatif (dvitīyā f. = ⟪द्वितीया⟫) menunjukkan:
@@ -146,45 +146,45 @@ mis. **paśūn + labhate** » ⟪पशूंल्लभते⟫ : "Ia mempero
 ## 7.4. Jenis Netral (napuṃsaka n. = ⟪नपुंसक⟫)
 
 ::: grammar-box
-**Dalam neutrum, bentuk untuk Nominatif (prathamā) dan Akusativ (dvitīyā) adalah identik.**
+**Dalam kata sifat neutrum, bentuk untuk Nominatif (prathamā) dan Akusativ (dvitīyā) adalah identik.**
 :::
-### 7.4.1. Neutrum  Stämme auf -a
+### 7.4.1. Kata Sifat Neutrum Berakhiran -a
 
 ::: grammar-box
-- **Akhiran Nominatif / Akusativ Singular: -m**
+- **Akhiran Nominatif / Akusativ Tunggal: -m**
 mis. **phala** n. = ⟪फल⟫ = "buah": Nom. / Akk. sg. **phalam** = ⟪फलम्⟫
-- **Akhiran Nominatif / Akusativ Plural: -āni**
+- **Akhiran Nominatif / Akusativ Jamak: -āni**
 mis. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
 :::
 
-## 7.5. Kelas Präsens Atematis
+## 7.5. Kelas Present Atematis
 
-Kelas Präsens ke-5 membentuk apa yang disebut Stamm Präsens athematis, yaitu Stamm Präsens tidak berakhir dengan "vokal tema" **-a** seperti pada kelas-kelas Präsens tematis (kelas 1., 4., 6., 10.).
+Kelas Present ke-5 membentuk apa yang disebut Batang Present athematis, yaitu Batang Present tidak berakhir dengan "vokal tema" **-a** seperti pada kelas-kelas Present tematis (kelas 1., 4., 6., 10.).
 
 ::: grammar-box
-**Kelas-kelas Präsens athematis memiliki ablasi Stamm, yaitu terdapat dua bentuk Stamm Präsens:**
-1. **Stamm kuat**: tingkat tinggi (jarang tingkat panjang)
-2. **Stamm lemah**: tingkat rendah
+**Kelas-kelas Present athematis memiliki ablasi Batang, yaitu terdapat dua bentuk Batang Present:**
+1. **Batang kuat**: tingkat tinggi (jarang tingkat panjang)
+2. **Batang lemah**: tingkat rendah
 
-**Stamm kuat digunakan:**
-- dalam Indikativ Singular Parasmaipada Präsens (laṭ) dan Imperfekt (laṅ)
-- semua orang pertama dari Imperativ (loṭ) Parasmaipada dan Ātmanepada
-- dalam orang ketiga Singular Imperativ (loṭ) Parasmaipada
+**Batang kuat digunakan:**
+- dalam Indikativ Tunggal Parasmaipada Present (laṭ) dan Imperfekt (laṅ)
+- semua orang pertama dari Imperatif (loṭ) Parasmaipada dan Ātmanepada
+- dalam orang ketiga Tunggal Imperatif (loṭ) Parasmaipada
 
-**Semua bentuk lainnya memiliki Stamm Präsens lemah.**
+**Semua bentuk lainnya memiliki Batang Present lemah.**
 :::
-### 7.5.1. Primärendungen  3. Person Plural bei athematischen Stämmen
+### 7.5.1. Primärendungen  3. Person Jamak bei atematikn Stämmen
 
 ::: grammar-box
-**Pada Stamm Präsens athematis, akhiran primer orang ketiga Plural berbunyi:**
+**Pada Batang Present athematis, akhiran primer orang ketiga Jamak berbunyi:**
 - **Parasmaipada: -anti**
 - **Ātmanepada: -ate**
 :::
 ### 7.5.2. Kelas Prezen ke-5 (svādi = ⟪स्वादि⟫ = "su dll.")
 
 ::: grammar-box
-- **Stamm kuat**: (paling sering) akar tingkat rendah (seperti disebutkan) + **-no-**
-- **Stamm lemah**: (paling sering) akar tingkat rendah (seperti disebutkan) + **-nu-**
+- **Batang kuat**: (paling sering) akar tingkat rendah (seperti disebutkan) + **-no-**
+- **Batang lemah**: (paling sering) akar tingkat rendah (seperti disebutkan) + **-nu-**
 
 **Sebelum akhiran vokal, pada akar yang berakhiran vokal -nu- diganti dengan -nv-, dan pada akar yang berakhiran konsonan sebelum akhiran vokal -nu- diganti dengan -nuv-.**
 :::
@@ -206,13 +206,13 @@ Kelas Präsens ke-5 membentuk apa yang disebut Stamm Präsens athematis, yaitu S
 - **kup** 4 P (kupyati) ⟪कुप्⟫ ⟪कुप्यति⟫ : marah
 - **krudh** 4 P (krudhyati) ⟪क्रुध्⟫ ⟪क्रुध्यति⟫ : marah
 - **khād** 1 P (khādati) ⟪खाद्⟫ ⟪खादति⟫ : mengunyah, makan
-- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : mendengar (sesuatu: Akusatif, seseorang: Genetif atau Akusatif; tentang: Akusatif; dari seseorang: Genetif, Ablatif, Instrumentalis)
+- **śru** 5 P (śṛṇoti !) ⟪श्रु⟫ ⟪शृणोति⟫ : mendengar (sesuatu: Akusatif, seseorang: Genetif atau Akusatif; tentang: Akusatif; dari seseorang: Genetif, Ablatif, Instrumental)
 - **su** 5 U (sunoti) ⟪सु⟫ ⟪सुनोति⟫ : memeras
 - **soma** m. ⟪सोम⟫ : minuman perasan, Soma; Bulan (Dari tanaman mana Soma diperas masih diperdebatkan hingga hari ini).
 ::: media
 ![](/images/lekt0701.webp)
 Fig.: Apakah itu tanaman soma Weda?: Jamur fly agaric: *Amanita muscaria* (L.) Lam.
-(Sumber gambar: [Details](/id/licenses#lekt0701))
+(Sumber gambar: [Detail](/id/licenses#lekt0701))
 :::
 - **phala** n. ⟪फल⟫ : buah (juga dalam makna kiasan: hasil (karmik) dari suatu tindakan)
 - **nṛtya** n. ⟪नृत्य⟫ : tarian
@@ -231,7 +231,7 @@ Fig.: Apakah itu tanaman soma Weda?: Jamur fly agaric: *Amanita muscaria* (L.) L
 ::: media
 ![](/images/lekt0704.webp)
 Fig.: Viṣṇu = ⟪विष्णु⟫, abad ke-8/9.
-(Sumber gambar: [Details](/id/licenses#lekt0704))
+(Sumber gambar: [Detail](/id/licenses#lekt0704))
 :::
 2. gurus ... khādati (phala)
    ⟪गुरुस्⟫ ... ⟪खादति⟫ (⟪फल⟫)
@@ -271,7 +271,7 @@ Fig.: Viṣṇu = ⟪विष्णु⟫, abad ke-8/9.
 ::: media
 ![](/images/lekt0702.webp)
 Fig.: **yajati** = ⟪यजति⟫ — Persembahan Weda = **yajña** m. = ⟪यज्ञ⟫
-(Sumber gambar: [Details](/id/licenses#lekt0702))
+(Sumber gambar: [Detail](/id/licenses#lekt0702))
 :::
 **E) Bentuklah akusatif (dvitīyā) tunggal dan jamak untuk semua nomina yang telah dipelajari sejauh ini.**
 
@@ -292,7 +292,7 @@ Fig.: **yajati** = ⟪यजति⟫ — Persembahan Weda = **yajña** m. = ⟪
 ::: media
 ![](/images/lekt0703.webp)
 Gambar: Kepada dewa mana orang mengorbankan diri di sini? Jawaban: Gaṇeśa (Gaṇapati) = ⟪गणेश⟫ (⟪गणपति⟫). Gaṇapatihoma (yajña).
-(Sumber gambar: [Details](/id/licenses#lekt0703))
+(Sumber gambar: [Detail](/id/licenses#lekt0703))
 :::
 9. Apa yang dikunyah oleh orang suci ini?
 10. Apa yang diperas oleh mereka (di sini)?

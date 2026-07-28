@@ -160,7 +160,7 @@ siitä:
 ![](/images/lekt2203.webp)
 Kuv.: ⟪दुर्गाशक्तिः⟫
 Kolkata = কলকাতা
-(Kuv lähde: [Details](/fi/licenses#lekt2203))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2203))
 :::
 **⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** ansaita jotain (tulla kelvolliseksi jhk), saada luvan, olla velvoitettu tekemään jotain, pitää (2. persoonassa ⟪अर्ह्⟫ + infinitiivi toimii usein lieventettynä käskynä: "Sinun pitäisi")
 
@@ -256,7 +256,7 @@ Goa = ⟪गोंय⟫
 ::: media
 ![](/images/lekt2204.webp)
 Kuva: ⟪अन्नं⟫ ⟪पक्त्वा⟫
-(Kuv lähde: [Details](/fi/licenses#lekt2204))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2204))
 :::
 
 ::: deleteme-box

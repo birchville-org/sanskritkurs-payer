@@ -34,11 +34,11 @@ Examples:
 
 :::
 ::: indent
-3.sg.Ā a-kṣip + s + ta » ⟪अ⟫***⟪क्षिप्त⟫***
-2.sg.Ā a-kṣip + s + thās » ⟪अ⟫***⟪क्षिप्था⟫***⟪स्⟫
+3.sg.Ā a-kṣip + s + ta » ⟪अ⟫**:sig[⟪क्षिप्त⟫]**
+2.sg.Ā a-kṣip + s + thās » ⟪अ⟫**:sig[⟪क्षिप्था⟫]**⟪स्⟫
 :::
 Bentuk-bentuk seperti itu juga dapat termasuk ke dalam aorist akar dan mungkin juga sebagian besar di sana.
-Para gramatika India juga menghitung bentuk-bentuk seperti ⟪अकृत⟫ (3.sg.Ā) ke dalam aorist-s, yang jelas-jelas termasuk ke dalam aorist akar. Untuk tujuan ini, para gramatika India menciptakan aturan bunyi ad-hoc berikut untuk aorist-s:
+Para gramatika India juga menghitung bentuk-bentuk seperti :sig[⟪अकृत⟫] (3.sg.Ā) ke dalam aorist-s, yang jelas-jelas termasuk ke dalam aorist akar. Untuk tujuan ini, para gramatika India menciptakan aturan bunyi ad-hoc berikut untuk aorist-s:
 
 ::: indent
 "Setelah vokal pendek, 'akhiran' yang dimulai dengan -st- atau -sth- kehilangan -s-."
@@ -68,7 +68,7 @@ Examples:
 
 |   | **3.sg.P** |
 | --- | --- |
-| ⟪चि⟫ 5U | ⟪अचैषीत्⟫ |
+| :sig[⟪चि⟫] 5U | ⟪अचैषीत्⟫ |
 | ⟪श्रु⟫ 5P | ⟪अश्रौषीत्⟫ |
 | ⟪कृ⟫ 8U | ⟪अकार्षीत्⟫ |
 | ⟪भज्⟫ 1U | ⟪अभाक्षीत्⟫ |
@@ -77,7 +77,7 @@ Examples:
 
 |   | **3.sg.Ā** |
 | --- | --- |
-| ⟪चि⟫ 5U | ⟪अचेष्ट⟫ |
+| :sig[⟪चि⟫] 5U | ⟪अचेष्ट⟫ |
 | ⟪नी⟫ 1U | ⟪अनेष्ट⟫ |
 | ⟪सू⟫ 2/4 | ⟪असोष्ट⟫ |
 |   | **sg.Ā** |
@@ -91,12 +91,12 @@ Examples:
 
 :::
 ::: indent
-⟪दृश्⟫ 3.sg.P ⟪अ⟫***⟪द्राक्षी⟫***⟪त्⟫
+⟪दृश्⟫ 3.sg.P ⟪अ⟫**:sig[⟪द्राक्षी⟫]**⟪त्⟫
 :::
 The aorist of other roots with -ṛ- in penultimate position can also be formed this way:
 
 ::: indent
-⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫***⟪क्राक्षी⟫***⟪त्⟫
+⟪कृष्⟫ 1P/6U 3.sg.P ⟪अकार्क्षीत्⟫ / ⟪अ⟫**:sig[⟪क्राक्षी⟫]**⟪त्⟫
 :::
 Paradigms:
 
@@ -106,13 +106,13 @@ Paradigms:
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अनैषम्⟫ | ⟪अनैष्म⟫ | ⟪अनेषि⟫ | ⟪अनेष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫***⟪ढ्वम्⟫*** |
+| **2. ⟪द्वितीयः⟫** | ⟪अनैषीस्⟫ | ⟪अनैष्ट⟫ | ⟪अनेष्ठास्⟫ | ⟪अने⟫**:sig[⟪ढ्वम्⟫]** |
 | **3. ⟪प्रथमः⟫** | ⟪अनैषीत्⟫ | ⟪अनैषुर्⟫ | ⟪नेष्ट⟫ | ⟪अनेषत⟫ |
 
 ::: media
 ![](/images/lekt5701.webp)
 Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫ (⟪१८९१⟫ ⟪१९५६⟫) ⟪।⟫ ⟪सो⟫ ⟪ऽनैषीद्दलितान्⟫ ⟪॥⟫
-(Image source: [Details](/en/licenses#lekt5701))
+(Image source: [Detail](/en/licenses#lekt5701))
 :::
 ⟪कृ⟫ 8U "to do"
 
@@ -120,8 +120,8 @@ Fig.: ⟪भीमराव⟫ ⟪रामजी⟫ ⟪आंबेडकर⟫
 | :--- | :---: | :---: | :---: | :---: |
 |   | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. ⟪तृतीयः⟫** | ⟪अकार्षम्⟫ | ⟪अकार्ष्म⟫ | ⟪अकृषि⟫ | ⟪अकृष्महि⟫ |
-| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | ***⟪अकृथास्⟫*** | ⟪अकृढ्वम्⟫ |
-| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | ***⟪अकृत⟫*** | ⟪अकृषत⟫ |
+| **2. ⟪द्वितीयः⟫** | ⟪अकार्षीस्⟫ | ⟪अकार्ष्ट⟫ | **:sig[⟪अकृथास्⟫]** | ⟪अकृढ्वम्⟫ |
+| **3. ⟪प्रथमः⟫** | ⟪अकार्षीत्⟫ | ⟪अकार्षुर्⟫ | **:sig[⟪अकृत⟫]** | ⟪अकृषत⟫ |
 
 ⟪तुद्⟫ 6U "to strike"
 

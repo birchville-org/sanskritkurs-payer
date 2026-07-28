@@ -157,7 +157,7 @@ D'autres utilisations du accusatif seront traitées plus tard.
   Par exemple, **phala** n. = ⟪फल⟫ : Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
 :::
 
-## 7.5. Athematische Präsensklassen
+## 7.5. Classes de présent athématiques
 
 La 5e classe de présent forme ce qu'on appelle un radical de présent athématique, c'est-à-dire que le radical de présent ne se termine pas, contrairement aux classes de présent thématiques (classes 1, 4, 6, 10), par la « voyelle thématique » **-a**.
 

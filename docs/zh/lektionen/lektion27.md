@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 27
 
-## 27.1. Gebrauch des Lokativ (⟪सप्तमी⟫ f. = "siebte Kasusendung")
+## 27.1. Gebrauch des Lokativ (⟪सप्तमी⟫ f. = "siebte Kasusendung") <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -87,7 +87,7 @@ Holi.
 :::
 Weiteres zum Gebrauch des Lokativ später. <!-- TODO: Fallback translation -->
 
-## 27.2. Bildung des Lokativ (⟪सप्तमी⟫)
+## 27.2. Bildung des Lokativ (⟪सप्तमी⟫) <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -98,7 +98,7 @@ Weiteres zum Gebrauch des Lokativ später. <!-- TODO: Fallback translation -->
 **Beachten Sie die Lautveränderungen vor -su sowie die eventuelle Cerebralisation von -su zu -ṣu!** <!-- TODO: Fallback translation -->
 
 :::
-### 27.2.1. Konsonantische Stämme
+### 27.2.1. Konsonantische Stämme <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -122,7 +122,7 @@ Weiteres zum Gebrauch des Lokativ später. <!-- TODO: Fallback translation -->
 | Femininum:brLokativ Plural | ⟪कासु⟫ | ⟪यासु⟫ | ⟪तासु⟫ | ⟪एतासु⟫ | ⟪आसु⟫ |
 
 :::
-### 27.2.3. Vokalische Stämme
+### 27.2.3. Vokalische Stämme <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 
@@ -155,15 +155,15 @@ Weiteres zum Gebrauch des Lokativ später. <!-- TODO: Fallback translation -->
 :::
 **Signalrot gedruckt**: starke Kasus (bei Stammabstufung). <!-- TODO: Fallback translation -->
 
-## 27.4. 包含 ⟪राम⟫ 所有变格形式 (单数) 的诗句
+## 27.4. 包含 :sig[⟪राम⟫] 所有变格形式 (单数) 的诗句
 
 ::: media
 ![](/images/lekt2708.webp)
-Abb.: ⟪रामे⟫ ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ⟪राम⟫ ⟪मामुद्धर⟫ ⟪॥⟫
+Abb.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
 (Bildquelle: [Details](/licenses#lekt2708)) <!-- TODO: Fallback translation -->
 :::
-*⟪रामो⟫* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *⟪रामं⟫* ⟪रमेशं⟫ ⟪भजे⟫:br *⟪रामेणा⟫*⟪भिहता⟫ ⟪निशाचरचमू⟫ *⟪रामाय⟫* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *⟪रामान्ना⟫*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *⟪रामस्य⟫* ⟪दासोऽस्म्यहम्⟫:br *⟪रामे⟫* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *⟪राम⟫* ⟪मामुद्धर⟫ ⟪॥⟫
+*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟫:br *:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟫:br *:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *:sig[⟪राम⟫]* ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Übersetzung:** <!-- TODO: Fallback translation -->
 1. **Nominativ:** Rāma, das Juwel (⟪मणि⟫ m.) unter den Königen (⟪राजन्⟫ m.) siegt immer (⟪सदा⟫). <!-- TODO: Fallback translation -->

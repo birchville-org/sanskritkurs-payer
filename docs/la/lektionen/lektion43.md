@@ -28,7 +28,7 @@ Secunda persona:
 *   Singularis: "tu"
 *   Pluralis: "vos" (plus quam duo!)
 
-### 43.2.1. Thematische Stämme
+### 43.2.1. Thematische Radices
 
 ::: media
 ![](/images/lekt4301.jpg)

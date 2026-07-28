@@ -117,21 +117,21 @@ Translate faithfully into good German and memorize the Sanskrit texts:
 
 1\. Definition of ⟪अविद्या⟫ :
 
-⟪अनित्याशुचिदुःखा⟫*⟪नात्मसु⟫* ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
+⟪अनित्याशुचिदुःखा⟫*:sig[⟪नात्मसु⟫]* ⟪नित्यशुचिसुखात्मख्यातिरविद्या⟫ ⟪॥योगसूत्र⟫ ⟪२⟫.⟪५॥⟫
 
 Explanation: ⟪आत्मसु⟫ = Loc. sg. of ⟪आत्मन्⟫ m. "soul; the Absolute, insofar as it is realized in the individual"
 
 2\. ⟪कौटिलीयार्थशास्त्र⟫ 1.4. on the proper use of the ⟪दण्ड⟫ :
 
-⟪तीक्ष्णदण्डो⟫ ⟪भूताना⟫*⟪मुद्वेजनीयो⟫* ⟪भवति⟫ ⟪।८।⟫
+⟪तीक्ष्णदण्डो⟫ ⟪भूताना⟫*:sig[⟪मुद्वेजनीयो⟫]* ⟪भवति⟫ ⟪।८।⟫
 
 ⟪मृदुदण्डः⟫ ⟪परिभूयते⟫ ⟪।९।⟫
 
 ⟪यथार्हदण्डः⟫ ⟪पूज्यते⟫ ⟪।१०।⟫
 
-⟪सु⟫*⟪विज्ञात⟫*⟪प्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामै⟫*⟪र्योजयति⟫* ⟪।११।⟫
+⟪सु⟫*:sig[⟪विज्ञात⟫]*⟪प्रणीतो⟫ ⟪हि⟫ ⟪दण्डः⟫ ⟪प्रजा⟫ ⟪धर्मार्थकामै⟫*:sig[⟪र्योजयति⟫]* ⟪।११।⟫
 
-⟪दुष्प्रणीतः⟫ *⟪कामक्रोधाभ्याम⟫*⟪वज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, *⟪किमङ्ग⟫* ⟪पुनर्गृहस्थान्⟫ ⟪।१२।⟫
+⟪दुष्प्रणीतः⟫ *:sig[⟪कामक्रोधाभ्याम⟫]*⟪वज्ञानाद्वा⟫ ⟪वानप्रस्थपरिव्राजकानपि⟫ ⟪कोपयति⟫, *:sig[⟪किमङ्ग⟫]* ⟪पुनर्गृहस्थान्⟫ ⟪।१२।⟫
 
 ⟪अप्रणीतस्तु⟫ ⟪मात्स्यन्यायमुद्भावयति⟫ ⟪।१३।⟫
 
@@ -154,13 +154,13 @@ Explanations:
 
 ⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ "something (someone) before whom one must shudder"
 
-⟪।११।⟫ ⟪विज्ञात⟫ ⟪३⟫ "recognized" ; n.: recognition
+⟪।११।⟫ :sig[⟪विज्ञात⟫] ⟪३⟫ "recognized" ; n.: recognition
 
 ⟪।११।⟫ ⟪योजयति⟫ (Caus. of ⟪युज्⟫) "to harness, to connect with, to unite with"
 
 ⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual masc. of ⟪कामक्रोध⟫ (Dualdvandva)
 
-⟪।१२।⟫ ⟪किमङ्ग⟫ "how much more"
+⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "how much more"
 
 ⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. masc. of ⟪बलीयस्⟫ ⟪३⟫ "stronger"
 
@@ -172,7 +172,7 @@ Explanations:
 
 ⟪वर्त्मसु⟫ : Loc. plur. neut. of ⟪वर्त्मन्⟫ n. "path, track, way"
 
-## 29.4. Future and Causative of the roots learned so far
+## 29.4. Futureee and Causative of the roots learned so far
 
 ::: grammar-box
 

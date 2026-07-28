@@ -34,9 +34,9 @@ In translating into German, one should avoid constantly saying "after." Instead,
 **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरो⟫ ⟪वदति** = konstruksi pasif: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरेणोद्यते**
 "Pria itu memasuki rumah, melihat gadis kecil itu, dan menyapanya."
 
-Plural: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
+Jamak: **⟪गृहं⟫ ⟪प्रविश्य⟫ ⟪बालां⟫ ⟪दृष्ट्वा⟫ ⟪नरा⟫ ⟪वदन्ति⟫ ⟪।⟫**
 :::
-## 22.2. Bildung  Absolutifs
+## 22.2. Pembentukan  Absolutifs
 
 ::: grammar-box
 **Formation of the Absolutive**
@@ -72,7 +72,7 @@ Hanya negatif **a-** / **an-** yang kompatibel dengan akhiran **-⟪त्वा
 :::
 ### 22.2.2. Verba dengan Preverb
 
-#### 22.2.2.1. Wurzeln auf langen Vokal (ausser -ā) oder auf Konsonant
+#### 22.2.2.1. Akarn auf langen Vokal (ausser -ā) oder auf Konsonant
 
 ::: grammar-box
 
@@ -88,7 +88,7 @@ Hanya negatif **a-** / **an-** yang kompatibel dengan akhiran **-⟪त्वा
 
 **⟪प्राप्य⟫** "after he (...) has obtained / had obtained"
 :::
-#### 22.2.2.2. Wurzeln auf -ā
+#### 22.2.2.2. Akarn auf -ā
 
 ::: grammar-box
 
@@ -145,6 +145,8 @@ Root ending in **-a** + **-tya**
 ![](/images/lekt2202.webp)
 Gbr.: ⟪कामदेवः⟫
 Abad ke-19
+Gbr.: ⟪कामदेवः⟫
+Abad ke-19
 (Sumber gambar: [Rincian](/id/licenses#lekt2202))
 :::
 **⟪शक्⟫ 5 P  ⟪शक्नोति⟫ Pass.  ⟪शक्यते⟫ PPP  ⟪शक्त⟫ Inf.  ⟪शक्तुम्⟫ :** dapat, mampu
@@ -160,7 +162,7 @@ from this:
 ![](/images/lekt2203.webp)
 Fig.: ⟪दुर्गाशक्तिः⟫
 Kolkatta = কলকাতা
-(Sumber gambar: [Details](/en/licenses#lekt2203))
+(Sumber gambar: [Detail](/en/licenses#lekt2203))
 :::
 **⟪अर्ह⟫ 1 P  ⟪अर्हति⟫ Pass.  ⟪अर्ह्यते⟫ PPP  ⟪अर्हित⟫ Inf.  ⟪अर्हितुम्⟫ :** pantas (layak akan sesuatu), diperbolehkan, berkewajiban, harus (dalam orang kedua, **⟪अर्ह्⟫** + infinitif sering digunakan sebagai perintah ringan: "Kau harus")
 
@@ -186,7 +188,7 @@ from this:
 ![](/images/lekt2201.webp)
 Fig.: ⟪धेनवश्चरन्ति⟫
 Goa = ⟪गोंय⟫
-(Sumber gambar: [Details](/en/licenses#lekt2201))
+(Sumber gambar: [Detail](/en/licenses#lekt2201))
 :::
 ## 22.4. Latihan
 
@@ -256,7 +258,7 @@ Goa = ⟪गोंय⟫
 ::: media
 ![](/images/lekt2204.webp)
 Fig.: ⟪अन्नं⟫ ⟪पक्त्वा⟫
-(Image source: [Details](/en/licenses#lekt2204))
+(Image source: [Detail](/en/licenses#lekt2204))
 :::
 
 ::: deleteme-box

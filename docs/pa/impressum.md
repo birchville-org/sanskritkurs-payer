@@ -27,11 +27,11 @@ title: ਪਰਿਚਯ ਅਤੇ ਹਵਾਲਾ ਦੇਣਾ
 
 **KI-ਜਨਰਿਤ ਅਨੁਵਾਦ** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) ਅਤੇ **ਤਕਨੀਕੀ ਪਾਈਪਲਾਈਨ** (ਸਕ੍ਰਿਪਟਾਂ, QA-ਵੀਅਰ, VitePress ਕਨਫਿਗਰੇਸ਼ਨ):
 
-- ਅਨੁਵਾਦ: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — ਨਾਮ ਦਿੱਤਾ ਜਾਵੇ, ਉਸੇ ਲਾਇਸੈਂਸ ਹੇਠ ਵੰਡੀ ਜਾਵੇ
-- ਕੋਡ/ਪਾਈਪਲਾਈਨ: [MIT ਲਾਇਸੈਂਸ](https://opensource.org/licenses/MIT)
+- ਅਨੁਵਾਦ: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — ਨਾਮ ਦਿੱਤਾ ਜਾਵੇ, ਉਸੇ ਲਾਇਸੈਂਸ ਹੇਠ ਵੰਡੀ ਜਾਵੇ
+- ਕੋਡ/ਪਾਈਪਲਾਈਨ: [MIT [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer) ਲਾਇਸੈਂਸ](https://opensource.org/licenses/MIT)
 
 **ਅਨੁਕਰਣ ਲਈ ਤਰੀਕਾ:**
-> Payer, Alois: Sanskritkurs. KI-ਸਹਾਇਤਾ ਨਾਲ ਅਨੁਵਾਦਿਤ⟪।⟫ Marco Demarmels (ਸੰਪਾਦਕ), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: Sanskritkurs. KI-ਸਹਾਇਤਾ ਨਾਲ ਅਨੁਵਾਦਿਤ⟪।⟫ Marco Demarmels (ਸੰਪਾਦਕ [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 
 
 

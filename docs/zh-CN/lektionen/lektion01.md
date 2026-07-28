@@ -134,7 +134,7 @@ pārvatīparameśvarau |**
 ![](/images/lekt0106.webp)
 现代梵语词典按照此分类的顺序排列。该分类对于理解梵语语法至关重要，因此必须熟记：
 :::
-Moderne Wörterbücher des Sanskrit sind in der Reihenfolge dieser Klassifikation angeordnet. Diese Klassifikation ist zum Verständnis der Sanskrit-Grammatik unerlässlich und muss deshalb auswendig gewusst werden: <!-- TODO: Fallback translation -->
+现代梵语词典按照此分类的顺序排列。该分类对于理解梵语语法至关重要，因此必须熟记：
 
 ::: note-box
 现代梵语词典按照这一分类法的顺序编排。理解梵语语法必须掌握这种分类法以及语音的顺序，因此需要背诵：

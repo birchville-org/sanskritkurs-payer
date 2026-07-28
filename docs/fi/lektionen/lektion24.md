@@ -58,7 +58,7 @@ Esimerkki:
 ![](/images/lekt2401.webp)
 Kuv.: ⟪यज्ञायान्नम्⟫
 'Annakut' [⟪अन्नकूट⟫ = ⟪गोवर्धन⟫ ⟪पूजा⟫] on perinteinen hindutapahtuma, joka järjestetään hindujen uudenvuoden juhlien yhteydessä kaikissa BAPS [બોચાસનવાસી અક્ષ૨ પુરુષોત્તમ સ્વામિનારાયણ સંસ્થા = Bochasanwasi Akshar Purushottam Swaminarayan Sanstha] -tempeleissä. Satoja kasvissyöjäruokia tarjotaan Bhagwan Swaminarayanille [સ્વામિનારાયણ] tällä päivänä.
-(Kuv lähde: [Details](/fi/licenses#lekt2401))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2401))
 :::
 
 ::: grammar-box
@@ -74,7 +74,7 @@ Esimerkki:
 ![](/images/lekt2402.webp)
 Kuva: ⟪बाला⟫ ⟪बालाय⟫ ⟪रक्षबन्धनं⟫ ⟪ददाति⟫
 Raksha bandhania juhlitaan innolla ja ilolla kaikkialla Intiassa. Tämä juhla kiteyttää veljien ja sisarusten välisen ehdottoman rakkauden.
-(Kuv lähde: [Details](/fi/licenses#lekt2402))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2402))
 :::
 
 ::: grammar-box
@@ -195,7 +195,7 @@ Samalla tavalla kuin ⟪अलम्⟫ instrumentaalin kanssa käytetään:
 ::: media
 ![](/images/lekt2405.webp)
 Kuv.: ⟪अलंकारः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt2405))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt2405))
 :::
 ⟪हेतु⟫ m.: kannustin, aihe, syy, perusta; ⟪हेतुना⟫, ⟪हेतोस्⟫, ⟪हेतवे⟫ genetiivin tai yhdyssanan jälkiosan kanssa = "... vuoksi, takia"
 
@@ -205,7 +205,7 @@ Kuv.: ⟪अलंकारः⟫
 ![](/images/lekt2406.webp)
 Kuv.: ⟪देवीप्रतिमा⟫
 Hampi = ಹಂಪೆ, Karnataka = ಕರ್ನಾಟಕ
-(Kuvan lähde: [Details](/fi/licenses#lekt2406))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt2406))
 :::
 ⟪वृत्⟫ + ⟪प्र⟫ 1Ā ⟪प्रवर्तते⟫ : tapahtua, käydä, syntyä
 
@@ -241,7 +241,7 @@ siitä
 ![](/images/lekt2407.webp)
 Kuv: ⟪ऊहापोहः⟫
 "NEW DELHI/INDIA, 16NOV08 - Suhasini Haidar, CNN-IBN Network 18:n varapäätoimittaja Intiassa, moderoi paneelikeskustelua World Economic Forumin India Economic Summit 2008 -tapahtumassa New Delhissä."
-(Kuvälähde: [Details](/fi/licenses#lekt2407))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt2407))
 :::
 ⟪औपकारिक⟫ 3 f.: -⟪ई⟫ : hyödyllinen
 
@@ -260,7 +260,7 @@ siitä:
 ![](/images/lekt2408.webp)
 Kuva: ⟪आख्यानम्⟫
 "San Franciscon tarinankertoja Jeff Byers jakaa tarinan Chennerin asukkaiden kanssa, Irula-kylä. Tarinankertoja Jeeva Raghunath kääntää tarinan tamiliksi kyläläisille."
-(Kuv lähde: [Details](/fi/licenses#lekt2408))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt2408))
 :::
 
 ::: indent

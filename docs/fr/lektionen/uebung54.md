@@ -19,7 +19,7 @@ Formez les formes aoristes correspondantes des formes de présent ou de parfait 
 | ⟪४⟫. | **⟪बभूव⟫** | je / il / ils étaient / étiez | **⟪अभूवम्⟫ / ⟪अभूत्⟫ / ⟪अभूत⟫** |
 | ⟪५⟫. | **⟪दधति⟫** | ils placent | **⟪अधुः⟫** |
 | ⟪६⟫. | **⟪ऐम⟫** | nous sommes allés | **⟪अगाम⟫** |
-| ⟪७⟫. | **⟪पपिथ⟫** | tu as bu / protégé | **⟪अपाः⟫** (à *⟪पा⟫* "boire") |
+| ⟪७⟫. | **⟪पपिथ⟫** | tu as bu / protégé | **⟪अपाः⟫** (à *:sig[⟪पा⟫]* "boire") |
 | ⟪८⟫. | **⟪तिष्ठति⟫** | il se tient | **⟪अस्थात्⟫** |
 | ⟪९⟫. | **⟪इयेथ⟫** | tu es allé | **⟪अगाः⟫** |
 | ⟪१०⟫. | **⟪पप⟫** | vous avez bu | **⟪अपात⟫** |

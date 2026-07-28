@@ -70,7 +70,7 @@ Lo Strumentale può essere usato in senso avverbiale:
     ⟪दूरेण⟫ "lontano, da lontano" (a ⟪दूर⟫ 3 "lontano, distante da")  
     ⟪उच्चैस्⟫ "alto, forte" (a ⟪उच्च⟫ 3 "alto, elevato, forte, acuto (di voce)")
 :::
-### 37.2.3. Dativo (⟪चतुर्थी⟫)
+### 37.2.3. Dativooo (⟪चतुर्थी⟫)
 
 ::: grammar-box
 Raramente il dativo (⟪चतुर्थी⟫) è usato in senso avverbiale alle domande:
@@ -83,7 +83,7 @@ Esempio:
 ::: indent
 ⟪अर्थाय⟫ "a scopo di, per il bene di ..."
 :::
-### 37.2.4. Ablativo (⟪पञ्चमी⟫)
+### 37.2.4. Ablativooo (⟪पञ्चमी⟫)
 
 ::: grammar-box
 L'ablativo (⟪पञ्चमी⟫) può essere usato in senso avverbiale alle domande:
@@ -144,7 +144,7 @@ Esempi:
 ::: grammar-box
 Dalle radici pronominali ⟪तद्⟫, ⟪इदम्⟫ rispettivamente ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ rispettivamente ⟪कु⟫ si possono derivare, mediante i suffissi avverbiali
 
-*   \-⟪तस्⟫ (Ablativo)
+*   \-⟪तस्⟫ (Ablativooo)
 *   \-⟪त्र⟫ (Locativo)
 *   \-⟪था⟫ (MODO)
 *   \-⟪थम्⟫ (MODO)
@@ -510,15 +510,15 @@ Quando un giorno un vecchio andò in un altro villaggio, si stancò durante il v
 
 ::: deleteme-box
 
-- **Image lekt3701.jpg** (Abb.: ⟪क्व⟫): [Fonte immagine: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
-- **Image lekt3702.jpg** (Abb.: ⟪यथाशक्ति⟫): [Fonte immagine: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
-- **Image lekt3703.jpg** (Abb.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Fonte immagine: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
-- **Image lekt3704.jpg** (Abb.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Fonte immagine: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione)]
-- **Image lekt3705.jpg** (Abb.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Fonte immagine: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
-- **Image lekt3706.jpg** (Abb.: ⟪वृक्षः⟫): Jaipur [Fonte immagine: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)]
-- **Image lekt3707.jpg** (Abb.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Dipinto di ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Fonte immagine: Wikipedia. Dominio pubblico]
-- **Image lekt3708.jpg** (Abb.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Fonte immagine: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione)]
-- **Image lekt3709.jpg** (Abb.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Fonte immagine: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
-- **Image lekt3710.jpg** (Abb.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Fonte immagine: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)]
-- **Image lekt3711.jpg** (Abb.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Fonte immagine: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
+- **Image lekt3701.jpg** (Fig.: ⟪क्व⟫): [Fonte immagine: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
+- **Image lekt3702.jpg** (Fig.: ⟪यथाशक्ति⟫): [Fonte immagine: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
+- **Image lekt3703.jpg** (Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Fonte immagine: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
+- **Image lekt3704.jpg** (Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Fonte immagine: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Accesso il 2008-12-30. -- Licenza Creative Commons (Attribuzione)]
+- **Image lekt3705.jpg** (Fig.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Fonte immagine: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
+- **Image lekt3706.jpg** (Fig.: ⟪वृक्षः⟫): Jaipur [Fonte immagine: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)]
+- **Image lekt3707.jpg** (Fig.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Dipinto di ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Fonte immagine: Wikipedia. Dominio pubblico]
+- **Image lekt3708.jpg** (Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Fonte immagine: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione)]
+- **Image lekt3709.jpg** (Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Fonte immagine: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
+- **Image lekt3710.jpg** (Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Fonte immagine: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, share alike)]
+- **Image lekt3711.jpg** (Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Fonte immagine: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Accesso il 2008-12-31. -- Licenza Creative Commons (Attribuzione, uso non commerciale, nessuna opera derivata)]
 :::

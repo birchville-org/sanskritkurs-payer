@@ -14,16 +14,16 @@ status: stable
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ sobre la orina correcta:
 
 ::: indent
-⟪प्रत्य⟫*⟪ग्नि⟫* ⟪प्रतिसूर्यं⟫ ⟪च⟫  
+⟪प्रत्य⟫*:sig[⟪ग्नि⟫]* ⟪प्रतिसूर्यं⟫ ⟪च⟫  
 ⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
-⟪प्रति⟫*⟪गु⟫* ⟪प्रतिवातं⟫ ⟪च⟫  
+⟪प्रति⟫*:sig[⟪गु⟫]* ⟪प्रतिवातं⟫ ⟪च⟫  
 ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
 :::
 Explicaciones:
 
 \-⟪अग्नि⟫ Neutro Nom.Akk.sg. a ⟪अग्नि⟫ m.
 
-\-⟪गु⟫ Neutro Nom.Akk.sg. a ⟪गो⟫ m.f. "Buey, Vaca"
+\-:sig[⟪गु⟫] Neutro Nom.Akk.sg. a ⟪गो⟫ m.f. "Buey, Vaca"
 
 ::: media
 ![](/images/lekt3801.webp)
@@ -49,14 +49,14 @@ Los nombres en **-an** y los nombres **-man** o **-van** tras vocal tienen tres 
 | **Mittlerer Schwacher Tema** | **-a**:br(de -*n) | **-ma**:br(de -*mn) | **-va**:br(de -*vn) | Übrige Kasus vor konsonantisch anlautender Terminación:brWahlweise auch Lok. sg. m. n. f. |
 | **Schwächster Tema** | **-n** | **-mn** | **-vn** | Übrige Kasus vor vokalisch anlautender Terminación |
 
-**Las terminaciones son regulares. El Nominativo Singular m. f. se forma sin -n final.**
+**Las terminaciones son regulares. El Nominativooo Singular m. f. se forma sin -n final.**
 :::
 Ejemplos:
 
 ⟪राजन्⟫ m. "Rey"
 
 *   raíz fuerte: ⟪राजान्⟫
-*   raíz media: ⟪राज⟫
+*   raíz media: :sig[⟪राज⟫]
 *   raíz más débil: ⟪राज्ञ्⟫
 
 ⟪सीमन्⟫ f. "Límite"
@@ -100,7 +100,7 @@ Fig.: ⟪सीमा⟫
 ### 38.3.2. Sustantivos en -man o -van después de consonante
 
 ::: grammar-box
-*   Starker Stamm: -mān, -vān
+*   Starker Tema: -mān, -vān
 *   Raíz débil:
     *   antes de terminaciones que comienzan con consonante: -ma, -va (de -\*mn, -\*vn)
     *   antes de terminaciones que comienzan con vocal: **\-man, -van**
@@ -266,7 +266,7 @@ Las raíces que terminan en una consonante aparecen como primer miembro de un co
 Ejemplo:
 
 ::: indent
-***⟪राज⟫***⟪पुत्र⟫ "hijo del rey"
+**:sig[⟪राज⟫]**⟪पुत्र⟫ "hijo del rey"
 :::
 ## 38.8. Raíces en -an como segundo elemento de un ⟪बहुव्रीहि⟫
 
@@ -337,14 +337,14 @@ de ello:
 :::
 ⟪सुत⟫ m.: Hijo
 
-⟪राजन्⟫ m.: Rey (sobre la realeza en la India, véase Basham, Maravilla, págs. 82-94). Como segundo elemento de un compuesto (especialmente ⟪तत्पुरुष⟫) generalmente: -⟪राज⟫ m. (como ⟪देव⟫)
+⟪राजन्⟫ m.: Rey (sobre la realeza en la India, véase Basham, Maravilla, págs. 82-94). Como segundo elemento de un compuesto (especialmente ⟪तत्पुरुष⟫) generalmente: -:sig[⟪राज⟫] m. (como ⟪देव⟫)
 
 ::: indent
 Femenino:
 
 ⟪राज्ञी⟫ f.: Reina, esposa de un rey
 
-de ⟪राज⟫ :
+de :sig[⟪राज⟫] :
 
 ⟪राज्य⟫ 3: real; n. Reino, realeza, gobierno
 :::
@@ -553,43 +553,43 @@ Inf. ⟪सर्तुम्⟫
 
 ## 38.12. Ejercicio de traducción
 
-*⟪दश⟫* ⟪मूढाः⟫
+*:sig[⟪दश⟫]* ⟪मूढाः⟫
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ *⟪बाहुभ्यां⟫* ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ :sig[⟪दश⟫] ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ *:sig[⟪बाहुभ्यां⟫]* ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ *⟪सर्वे⟫* ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ *⟪जिज्ञासमान⟫*⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ *⟪नवै⟫*⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ *⟪वयम्⟫* ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ *⟪स्मः⟫* ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ *⟪गवेषयत⟫* ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫*⟪मेकैको⟫* ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ *⟪समजनि⟫* ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫*⟪स्तरसा⟫* ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ *⟪यूयम्⟫* ⟪।⟫ *⟪युष्माकमे⟫*⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ *:sig[⟪सर्वे⟫]* ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ *:sig[⟪जिज्ञासमान⟫]*⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ *:sig[⟪नवै⟫]*⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ *:sig[⟪वयम्⟫]* :sig[⟪दश⟫] ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ *:sig[⟪स्मः⟫]* ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ *:sig[⟪गवेषयत⟫]* ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫*:sig[⟪मेकैको⟫]* ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ *:sig[⟪समजनि⟫]* ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫*:sig[⟪स्तरसा⟫]* ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ *:sig[⟪यूयम्⟫]* ⟪।⟫ *:sig[⟪युष्माकमे⟫]*⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
 Explicaciones:
 
-⟪दश⟫ Nom.Acc.pl.m.f.n. a ⟪दशन्⟫ "diez"
+:sig[⟪दश⟫] Nom.Acc.pl.m.f.n. a ⟪दशन्⟫ "diez"
 
 ⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual a ⟪बाहु⟫ m. "Brazo"
 
-⟪सर्वे⟫ Nom.pl.m. a ⟪सर्व⟫ 3 "cada uno, todos"
+:sig[⟪सर्वे⟫] Nom.pl.m. a ⟪सर्व⟫ 3 "cada uno, todos"
 
-⟪जिज्ञासमान⟫ Part.Pres.Ā.Desiderativo a ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "querer conocer, querer saber"
+:sig[⟪जिज्ञासमान⟫] Part.Pres.Ā.Desiderativo a ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "querer conocer, querer saber"
 
 ⟪नव⟫ Nom.Acc.pl.m.f.n. a ⟪नवन्⟫ "nueve"
 
-⟪वयम्⟫ Nom.pl. "nosotros"
+:sig[⟪वयम्⟫] Nom.pl. "nosotros"
 
 ⟪स्मस्⟫ 1.pl.Ind.Pres.P a ⟪अस्⟫ 2P
 
-⟪अस्⟫ 2.pl.Imperativo P
+⟪अस्⟫ 2.pl.Imperativooo P
 
-⟪गवेषयत⟫ "cada uno individualmente"
+:sig[⟪गवेषयत⟫] "cada uno individualmente"
 
-⟪एकैक⟫ 3.sg.Pasivo Aoristo a ⟪समजनि⟫
+⟪एकैक⟫ 3.sg.Pasivo Aoristo a :sig[⟪समजनि⟫]
 
 ⟪जन्⟫ Instr. sg. a ⟪तरसा⟫ n. "Energía", usado adverbialmente: "rápidamente, con fuerza"
 
 ⟪तरस्⟫ Nom.pl. "vosotros"
 
-⟪यूयम्⟫ Gen.pl. a ⟪युष्माकम्⟫
+:sig[⟪यूयम्⟫] Gen.pl. a ⟪युष्माकम्⟫
 
 ::: deleteme-box
 
-- **lekt3801.jpg**: Ilustr.: ... ⟪यूयम्⟫ ⟪प्रज्ञा⟫ ⟪नश्यति⟫ Bangalore = ಬೆಂಗಳೂರು \[Fuente de la imagen: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Acceso el 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial)\]
+- **lekt3801.jpg**: Ilustr.: ... :sig[⟪यूयम्⟫] ⟪प्रज्ञा⟫ ⟪नश्यति⟫ Bangalore = ಬೆಂಗಳೂರು \[Fuente de la imagen: mattlogelin. -- [http://www.flickr.com/photos/mattlogelin/105785814/](http://www.flickr.com/photos/mattlogelin/105785814/). -- Acceso el 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial)\]
 - **lekt3802.jpg**: Ilustr.: ⟪मेहतः⟫  ⟪सूर्यः⟫ ⟪सूर्य⟫, Konark = ⟪मंदिर⟫ \[Fuente de la imagen: PriyadarshiC. -- [http://www.flickr.com/photos/2kool/421985480/](http://www.flickr.com/photos/2kool/421985480/). -- Acceso el 2008-12-31.  -- [](http://creativecommons.org/licenses/by-nc/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial)\]
 - **lekt3803.jpg**: Ilustr.: ⟪कोनार्क⟫  Cruce fronterizo entre India y Pakistán en Wagah (⟪सीमा⟫ / واہگہ / ਵਾਘਾ) \[Fuente de la imagen: Vandelizer. -- [http://www.flickr.com/photos/jeremy\_vandel/99163975/](http://www.flickr.com/photos/jeremy_vandel/99163975/). -- Acceso el 2008-12-31. -- [](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de)Licencia Creative Commons (Atribución, uso no comercial, compartir igual)\]
 - **lekt3804.jpg**: Ilustr.: ⟪वाघा⟫ ⟪गौतमबुद्धस्य⟫  Gandhara, siglos II/III d.C. \[Fuente de la imagen: Wikipedia. Dominio público\]

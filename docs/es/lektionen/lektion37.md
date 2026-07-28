@@ -70,7 +70,7 @@ El instrumental puede emplearse adverbialmente:
     ⟪दूरेन⟫ "lejos, desde la lejanía" (de ⟪दूर⟫ 3 "lejos, distante")  
     ⟪उच्चैस्⟫ "alto, en voz alta" (de ⟪उच्च⟫ 3 "alto, elevado, fuerte, agudo (respecto a la voz)")
 :::
-### 37.2.3. Dativo (⟪चतुर्थी⟫)
+### 37.2.3. Dativooo (⟪चतुर्थी⟫)
 
 ::: grammar-box
 Rara vez se utiliza el dativo (⟪चतुर्थी⟫) de manera adverbial para responder a las preguntas:
@@ -83,7 +83,7 @@ Ejemplo:
 ::: indent
 ⟪अर्थाय⟫ "con el propósito de, por la causa de..."
 :::
-### 37.2.4. Ablativo (⟪पञ्चमी⟫)
+### 37.2.4. Ablativooo (⟪पञ्चमी⟫)
 
 ::: grammar-box
 El ablativo (⟪पञ्चमी⟫) puede emplearse adverbialmente en respuesta a las preguntas:
@@ -144,7 +144,7 @@ Ejemplos:
 ::: grammar-box
 De las raíces pronominales ⟪तद्⟫, ⟪इदम्⟫ o ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ o ⟪कु⟫ se pueden derivar los correspondientes adverbios pronominales mediante los sufijos adverbiales:
 
-*   \-⟪तस्⟫ (Ablativo)
+*   \-⟪तस्⟫ (Ablativooo)
 *   \-⟪त्र⟫ (Locativo)
 *   \-⟪था⟫ (Modo)
 *   \-⟪थम्⟫ (Modo)

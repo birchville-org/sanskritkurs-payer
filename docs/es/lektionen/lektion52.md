@@ -392,7 +392,7 @@ Las Siete Estrellas = las siete estrellas más brillantes de la Osa Mayor (Ursa 
 
 2.  el compuesto así formado se usa en un significado que de otro modo sería designado por un sufijo Taddhita (en este tipo, la transición a Bahuvrīhi es fluida):  
     Ejemplos:  
-    dvi + go » ⟪द्विगु⟫ : no: "dos vacas", sino: "**adquirido para dos vacas**"  
+    dvi + go » :sig[⟪द्विगु⟫] : no: "dos vacas", sino: "**adquirido para dos vacas**"  
     ⟪द्विवर्ष⟫ no: "dos años", sino: "**de dos años de edad**"  
 
 3.  el compuesto así formado forma el primer miembro de otro compuesto  

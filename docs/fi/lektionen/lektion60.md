@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 60
 
-## 60.1. Dualin imperfektin pääte (⟪द्विवचनम्⟫)
+## 60.1. duaaliin imperfektin pääte (⟪द्विवचनम्⟫)
 
 |   | ⟪परस्मैपदम्⟫ | ⟪आत्मनेपदम्⟫ |
 | --- | --- | --- |
@@ -190,7 +190,7 @@ Esimerkit:
 
 **Feminin:**
 
-**schwacher Stamm vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)**
+**schwacher Vartalo vor Vokal + -ī (wie ⟪देवी⟫ dekliniert)**
 
 Esimerkki: ⟪विदुषी⟫ "tietävä"
 :::
@@ -198,12 +198,12 @@ Paradigmat ks. Kielhorn, Grammatik § 124:
 
 ::: media
 ![](/images/lekt6001.webp)
-(Kuv lähde: [Details](/fi/licenses#lekt6001))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt6001))
 :::
 
 ::: media
 ![](/images/lekt6002.webp)
-(Kuv lähde: [Details](/fi/licenses#lekt6002))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt6002))
 :::
 ## 60.5. Vartalojen taivutus vartalopäätteellä -añc (-ac)
 
@@ -236,12 +236,12 @@ Esimerkki: ⟪प्रतीची⟫
 
 ::: media
 ![](/images/lekt6003.webp)
-(Kuv lähde: [Details](/fi/licenses#lekt6003))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt6003))
 :::
 
 ::: media
 ![](/images/lekt6004.webp)
-(Kuv lähde: [Details](/fi/licenses#lekt6004))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt6004))
 :::
 Tähän kuuluvat:
 
@@ -379,7 +379,7 @@ Luettelo Kielhorn, Grammatik § 452:
 
 ::: media
 ![](/images/lekt6006.webp)
-(Kuv lähde: [Details](/fi/licenses#lekt6006))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt6006))
 :::
 ### 60.6.2. Desideratiivin konjugaatio (⟪सन्⟫)
 
@@ -406,7 +406,7 @@ Passiivi: ⟪यियक्ष्यते⟫ "toivotaan uhrattavan"
 ::: indent
 ⟪आप्⟫ » ⟪ऐप्सिषम्⟫ (a + īps-i-ṣ-am)
 :::
-**Futur: ⟪सेट्⟫**
+**Futuuri: ⟪सेट्⟫**
 
 ::: indent
 ⟪आप्⟫ » ⟪ईप्सिष्यामि⟫

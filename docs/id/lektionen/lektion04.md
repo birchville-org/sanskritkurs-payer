@@ -105,5 +105,5 @@ CATATAN: Jawaban yang dapat Anda berikan terhadap pertanyaan-pertanyaan tersebut
 
 ::: media
 ![](/images/lekt0401.webp)
-(Sumber gambar: [Details](/id/licenses#lekt0401))
+(Sumber gambar: [Detail](/id/licenses#lekt0401))
 :::

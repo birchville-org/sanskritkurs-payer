@@ -154,13 +154,13 @@ Magyarázatok:
 
 ⟪।८।⟫ ⟪उद्वेजनीय⟫ ⟪३⟫ „valami (vagy valaki), ami előtt remegni kell”
 
-⟪।११।⟫ ⟪विज्ञात⟫ ⟪३⟫ „felismert”; n.: Felismerés
+⟪।११।⟫ :sig[⟪विज्ञात⟫] ⟪३⟫ „felismert”; n.: Felismerés
 
 ⟪।११।⟫ ⟪योजयति⟫ (Kaus. zu ⟪युज्⟫) "összefogni, összeköt valakivel/valamivel, egyesít"
 
-⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., Dual mask. von ⟪कामक्रोध⟫ (Dualdvandva)
+⟪।१२।⟫ ⟪कामक्रोधाभ्याम्⟫ : Instr., Dat. Abl., kettes szám (dualis) mask. von ⟪कामक्रोध⟫ (kettes szám (dualis)dvandva)
 
-⟪।१२।⟫ ⟪किमङ्ग⟫ "hogy mennyivel több"
+⟪।१२।⟫ :sig[⟪किमङ्ग⟫] "hogy mennyivel több"
 
 ⟪।१४।⟫ ⟪बलीयान्⟫ : Nom. sg. mask. zu ⟪बलीयस्⟫ ⟪३⟫ "erősebb"
 

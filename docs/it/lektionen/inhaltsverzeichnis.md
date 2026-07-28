@@ -474,7 +474,7 @@
 
 ## [Lezione 39](lektion39)
 
-*   39\.1. Le desinenze della prima persona (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**terza** persona")
+*   39\.1. Le desinenze della prima persona (**⟪तृतीयः⟫** ⟪पुरुषः⟫ = "**terza** persona")
 *   39\.2. Formazione delle forme verbali della prima persona dei temi di presente tematico
     *   39\.2.1. Prima classe del presente (⟪भ्वादि⟫)
     *   39\.2.2. Sesta classe del presente (⟪तुदादि⟫)

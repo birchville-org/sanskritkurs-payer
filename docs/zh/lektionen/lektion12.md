@@ -71,7 +71,7 @@ z.B. <!-- TODO: Fallback translation -->
 - **gata** = ⟪गत⟫ = „gegangen“ (aktiv); aber auch: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „ein gegangener Weg“ (passiv) <!-- TODO: Fallback translation -->
 - **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv) <!-- TODO: Fallback translation -->
 
-## 12.3. Bildung des PPP
+## 12.3. Bildung des PPP <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Es kommen folgende Bildungsweisen vor (zu jeder Wurzel ist jeweils ihr PPP zu lernen!): <!-- TODO: Fallback translation -->

@@ -62,7 +62,7 @@ Determinar e tradurs las suandantas formas:
 | ⟪४⟫. | ⟪ज्येष्ठायाः⟫ | :sig[⟪ज्येष्ठ⟫]: Gen. Abl. Sg. f. (dals megliers / pli vegls) |
 | ⟪५⟫. | ⟪संयक्⟫ | correct (Adv.) |
 | ⟪६⟫. | ⟪असे⟫ | :sig[⟪असि⟫] m.: Voc. Sg. (Spada!) |
-| ⟪७⟫. | ⟪असि⟫ | :sig[⟪अस्⟫] 2. Sg. Ind. Präs. P. (ti es) |
+| ⟪७⟫. | :sig[⟪असि⟫] | :sig[⟪अस्⟫] 2. Sg. Ind. Präs. P. (ti es) |
 | ⟪८⟫. | ⟪अचैष्ट⟫ | :sig[⟪चि⟫] 3. Sg. s-Aor. Ā. (el ha empèst) |
 | ⟪९⟫. | ⟪अचेष्ट⟫ | :sig[⟪चि⟫]: s-Aor. Ā. (correctura: s-Aor. Ā. sco sur) |
 | ⟪१०⟫. | ⟪अभग्नम्⟫ | *⟪अ⟫-* + PPP da :sig[⟪भञ्ज्⟫] 3. Sg. Nom. Akk. Sg. n.; Akk. Sg. m. (intact) |
@@ -79,7 +79,7 @@ Determinar e tradurs las suandantas formas:
 | ⟪२१⟫. | ⟪रिपू⟫ | :sig[⟪रिपु⟫] m.: Nom. Akk. Voc. Du. (ils dus inimis) |
 | ⟪२२⟫. | ⟪अदात्⟫ | :sig[⟪दा⟫] 3. Sg. Radisaor. P. (el dà) |
 | ⟪२३⟫. | ⟪आदत्⟫ | :sig[⟪अद्⟫] 3. Sg. Impf. P. (el mangià) |
-| ⟪२४⟫. | ⟪अवोढ⟫ | :sig[⟪वह्⟫] 3. Sg. s-Aor. Ā. (el viagià); *⟪अ⟫-⟪वह्⟫*: Voc. Sg. m. n. |
+| ⟪२४⟫. | ⟪अवोढ⟫ | :sig[⟪वह्⟫] 3. Sg. s-Aor. Ā. (el viagià); *⟪अ⟫-:sig[⟪वह्⟫]*: Voc. Sg. m. n. |
 | ⟪२५⟫. | ⟪अवोचम्⟫ | :sig[⟪वच्⟫] 1. Sg. a-Aor. P. (jau ai ditg) |
 | ⟪२६⟫. | ⟪दिक्⟫ | :sig[⟪दिश्⟫] f.: Nom. Sg. (la direcziun) |
 | ⟪२७⟫. | ⟪शुनोः⟫ | :sig[⟪श्वन्⟫] m.: Gen. Lok. Du. (ils chans) |
@@ -110,7 +110,7 @@ Determinar e tradurs las suandantas formas:
 | ⟪५१⟫. | ⟪अमुत्र⟫ | là (Adv.) |
 | ⟪५२⟫. | ⟪पत्युः⟫ | :sig[⟪पति⟩] m.: Abl. Gen. Sg. (dal consòrt) |
 | ⟪५३⟫. | ⟪क्षेपीयन्⟫ | Komparativ a :sig[⟪क्षिप्र⟩]: Vok. Sg. m. (tut svelt!) |
-| ⟪५४⟫. | ⟪आदिषि⟫ | *⟪आ⟫-⟪दा⟫* 3Ā: 1. Sg. s-Aor. Ā. (jau hai prendì) |
+| ⟪५४⟫. | ⟪आदिषि⟫ | *⟪आ⟫-:sig[⟪दा⟫]* 3Ā: 1. Sg. s-Aor. Ā. (jau hai prendì) |
 | ⟪५५⟫. | ⟪पाणी⟫ | :sig[⟪पाणि⟩] m.: Nom. Akk. Vok. Du. (didas mauns) |
 | ⟪५६⟫. | ⟪अस्प्राक्षम्⟫ | :sig[⟪स्पृश्⟩] 6P: 1. Sg. s-Aor. P. (jau hai cuntà) |
 :::

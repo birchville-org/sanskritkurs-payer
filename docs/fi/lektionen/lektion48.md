@@ -246,7 +246,7 @@ z.B. ⟪व्याघ्र⟫ m. "Tiger" » ⟪वैयाघ्र⟫ 3 "vo
 ::: media
 ![](/images/lekt4801.webp)
 Kuva: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4801))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4801))
 :::
 ## 48.4. Sanalista
 
@@ -264,14 +264,14 @@ Kuva: ⟪वैयाघ्रं⟫ ⟪विजृम्भणम्⟫
 ![](/images/lekt4802.webp)
 Kuv.: ⟪तन्त्रम्⟫
 Sualkuchi = সুৱালকুচি, Assam = অসম
-(Kuvan lähde: [Details](/fi/licenses#lekt4802))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt4802))
 :::
 
 ::: media
 ![](/images/lekt4803.webp)
 Kuv.: ⟪तन्त्री⟫
 Sitarinsoittaja = ⟪सितारवादकः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt4803))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt4803))
 :::
 ⟪स्त्री⟫ f.: nainen, vaimo ; feminiinimuoto
 
@@ -305,7 +305,7 @@ Kuva: ⟪स्वतन्त्राः⟫ ⟪स्त्रियः⟫
 ![](/images/lekt4805.webp)
 Kuva: ⟪कुमारः⟫
 Thaipusam-festivaali = தைப்பூசம், Batu Caves, Malesia
-(Kuv lähde: [Details](/fi/licenses#lekt4805))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4805))
 :::
 ⟪कुमारी⟫ f.: tyttö, tytär
 
@@ -313,7 +313,7 @@ Thaipusam-festivaali = தைப்பூசம், Batu Caves, Malesia
 ![](/images/lekt4806.webp)
 Kuva: ⟪कुमारी⟫
 ⟪नेपाल⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4806))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4806))
 :::
 ⟪कौमर⟫ n.: lapsuus
 
@@ -325,7 +325,7 @@ Kuva: ⟪कुमारी⟫
 ![](/images/lekt4807.webp)
 Kuva: ⟪स्थविराः⟫
 ⟪जोधपुर⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4807))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4807))
 :::
 ⟪स्थाविर⟫ n.: (korkea) ikä
 
@@ -337,7 +337,7 @@ Kuva: ⟪स्थविराः⟫
 ![](/images/lekt4808.webp)
 Kuva: ⟪सूक्ष्मम्⟫
 Karanji Lake = ಕಾರಂಜಿ ಕೆರೆ
-(Kuv lähde: [Details](/fi/licenses#lekt4808))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4808))
 :::
 ⟪प्रसङ्ग⟫ m.: kiinnittyminen, taipumus ; tilaisuus
 
@@ -403,7 +403,7 @@ B) Käännä sanskritiksi (käytä imperatiivia ja mahdollisimman paljon 2. ja 3
 ⟪जायायास्तद्धि⟫ ⟪जायात्वं⟫ ⟪यद्⟫ ⟪अस्यां⟫ ⟪जायते⟫ ⟪पुनः⟫ ⟪॥८॥⟫
 :::
 Selitys:  
-⟪द्वयोर्हि⟫ ⟪कुलयोः⟫ : Gen. (⟪षष्ठी⟫) Dual muoto sanasta ⟪द्वे⟫ ⟪कुले⟫ "kaksi perhettä"
+:sig[⟪द्वयोर्हि⟫] :sig[⟪कुलयोः⟫] : Gen. (⟪षष्ठी⟫) duaali muoto sanasta ⟪द्वे⟫ ⟪कुले⟫ "kaksi perhettä"
 
 ::: deleteme-box
 

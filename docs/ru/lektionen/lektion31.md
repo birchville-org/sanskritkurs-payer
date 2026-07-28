@@ -54,10 +54,10 @@ status: stable
 **⟪भञ्ज्⟫** 7P "ломать"
 
 ::: indent
-*   Indikativ Präsens
+*   Indikativ Настоящее время
     *   3.sg.P. **⟪भनक्ति⟫** (bha-na + j + ti)
     *   3.pl.P. **⟪भञ्जन्ति⟫** (bha + n + j-anti)
-*   Futur: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
+*   Будущее время: **⟪भङ्क्ष्यति⟫** (bha + n + j + sya + ti)
 *   Passiv: **⟪भज्यते⟫** (либо из первоначального корня **⟪भज्⟫**, либо из *bhñj-ya-te)
 *   PPP: **⟪भग्न⟫** (возможно, из *bhñj + na)
 :::

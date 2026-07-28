@@ -1,8 +1,8 @@
 ---
-title: Les 2
-subtitle: "Die nominale sin en die grondbeginsels van deklinasie"
+title: Lektion 2
+subtitle: "Der Nominalsatz und die Grundlagen der Deklination"
 lesson_id: 2
-category: "Grammatika"
+category: "Grammatik"
 status: "stable"
 last_reconstructed: 2026-04-30
 ---
@@ -29,13 +29,13 @@ In die nominale sin staan die subjek in die nominatief (eerste kasus = **pratham
 In Sanskrit is daar:
 
 - **drie Numeri** (getalvorme) = **vacana** n. -- ⟪वचन⟫
-- Enkelvoud (een-tal) = **ekavacana** n. -- ⟪एकवचन⟫
-- Dualis (tweevoud) = **dvivacana** n. -- ⟪द्विवचन⟫
-- Meervoud (meer-tal) = **bahuvacana** n. -- ⟪बहुवचन⟫
+  - Enkelvoud (een-tal) = **ekavacana** n. -- ⟪एकवचन⟫
+  - Dualis (tweevoud) = **dvivacana** n. -- ⟪द्विवचन⟫
+  - Meervoud (meer-tal) = **bahuvacana** n. -- ⟪बहुवचन⟫
 - **drie Genera** (grammatikale geslagte) = **liṅga** n. / **vyakti** f. -- ⟪लिङ्ग⟫ / ⟪व्यक्ति⟫
-- Maskulinum (manlik) = **puṃs** m. -- ⟪पुंस्⟫
-- Femininum (vroulik) = **strī** f. -- ⟪स्त्री⟫
-- Neutrum (onsydig) = **napuṃsaka** n. -- ⟪नपुंसक⟫
+  - Maskulinum (manlik) = **puṃs** m. -- ⟪पुंस्⟫
+  - Femininum (vroulik) = **strī** f. -- ⟪स्त्री⟫
+  - Neutrum (onsydig) = **napuṃsaka** n. -- ⟪नपुंसक⟫
 - **agt Kasusse** (gevalle) = **sup** -- ⟪सुप्⟫ (= kasusuitgange)
 
 Vir deklinasie word die kasusuitgange (**sup** = ⟪सुप्⟫) by die sogenaamde **nominaalstam** (vorm van die nomen sonder kasusuitgange) gevoeg.
@@ -77,29 +77,29 @@ Sien ook die oorsig:
 Uitgaande **-s**:
 
 - **in absolute finale posisie** (einde van die sin) word dit **Visarga (-ḥ)**:
-- **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
-- **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
-- **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
+  - **devas** = ⟪देवस्⟫ » **devaḥ** = ⟪देवः⟫
+  - **kavis** = ⟪कविस्⟫ » **kaviḥ** = ⟪कविः⟫
+  - **gurus** = ⟪गुरुस्⟫ » **guruḥ** = ⟪गुरुः⟫
 
 - **voor stemlose klanke**:
-- voor **k, kh, p, ph** en **ś, ṣ, s**: word dit **Visarga (-ḥ)**
-- **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva is 'n god")
-- voor **c, ch**: word dit **-ś**
-- voor **ṭ, ṭh**: word dit **-ṣ**
-- voor **t, th**: bly dit **-s**
-- **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya is 'n heilige")
+  - voor **k, kh, p, ph** en **ś, ṣ, s**: word dit **Visarga (-ḥ)**
+    - **devas + śivaḥ** » **devaḥ śivaḥ** = ⟪देवः⟫ ⟪शिवः⟫ ("Śiva is 'n god")
+  - voor **c, ch**: word dit **-ś**
+  - voor **ṭ, ṭh**: word dit **-ṣ**
+  - voor **t, th**: bly dit **-s**
+    - **sādhus + caitanyas** » **sādhuś caitanyaḥ** = ⟪साधुश्चैतन्यः⟫ ("Caitanya is 'n heilige")
 
 - **voor stemhebbende klanke**:
-- na nie-a-vokale: word dit **-r**
-- **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha is 'n digter")
-- na nie-a-vokale voor **r-**: **-s** val weg, die vokaal word verleng.
-- **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ ("Rāma is 'n leraar")
-- na **a-**: **-as**
-- voor stemhebbende konsonante/a: word dit **-o** (aanvanklike a val weg » ⟪ऽ⟫)
-- **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
-- **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
-- voor ander vokale: word dit **-a** (Hiatus)
-- **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
+  - na nie-a-vokale: word dit **-r**
+    - **kavis + Māghas** » **kavir māghaḥ** = ⟪कविर्माघः⟫ ("Māgha is 'n digter")
+  - na nie-a-vokale voor **r-**: **-s** val weg, die vokaal word verleng.
+    - **gurus + rāmas** » **gurū rāmaḥ** = ⟪गुरू⟫ ⟪रामः⟫ ("Rāma is 'n leraar")
+  - na **a-**: **-as**
+    - voor stemhebbende konsonante/a: word dit **-o** (aanvanklike a val weg » ⟪ऽ⟫)
+      - **devas viṣṇus** » **devo viṣṇuḥ** = ⟪देवो⟫ ⟪विष्णुः⟫
+      - **devas agnis** » **devo 'gniḥ** = ⟪देवो⟫ ⟪ऽग्निः⟫
+    - voor ander vokale: word dit **-a** (Hiatus)
+      - **devas + indras** » **deva indraḥ** = ⟪देव⟫ ⟪इन्द्रः⟫
 
 ## 2.5. Woordelys
 
@@ -119,28 +119,28 @@ Uitgaande **-s**:
 Volgens die klassieke teorie (bv. Manusmṛti I, 88-91) is die take verdeel:
 
 - **van die Brahmane**
-- Vedastudie
-- Onderrig
-- Offer vir hulself
-- Offer vir ander
-- Gee
-- Ontvang van gawes
+  - Vedastudie
+  - Onderrig
+  - Offer vir hulself
+  - Offer vir ander
+  - Gee
+  - Ontvang van gawes
 - **van die Kṣatriyas**
-- die volk beskerm
-- Gawes (aan Brahmane) gee
-- vir hulself offer
-- Vedastudie
+  - die volk beskerm
+  - Gawes (aan Brahmane) gee
+  - vir hulself offer
+  - Vedastudie
 - **van die Vaiśyas**
-- Veeteelt
-- Landbou
-- Handel
-- Geld uitleen
-- vir hulself offer
-- Gawes (aan Brahmane) gee
-- vir hulself offer
-- Vedastudie
+  - Veeteelt
+  - Landbou
+  - Handel
+  - Geld uitleen
+  - vir hulself offer
+  - Gawes (aan Brahmane) gee
+  - vir hulself offer
+  - Vedastudie
 - **van die Śūdras**
-- die drie boonste klasse dien
+  - die drie boonste klasse dien
 :::
 **dvija** m. -- ⟪द्विज⟫ : "Twee maal geborene" (Geïnisieerdes van die boonste drie stande: Brāhmaṇa, Kṣatriya, Vaiśya).
 
@@ -211,17 +211,17 @@ Afb.: Sādhu (⟪साधु⟫), Pashupatinath-tempel, Kathmandu.
 **A) Voeg in met inagneming van Sandhi en vorm nominale sinne:**
 
 1. **devas ... (Śiva, Agni, Viṣṇu, Gaṇeśa, Kṛṣṇa, Indra)**
-= ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
+   = ⟪देवस्⟫ ... (⟪शिव⟫, ⟪अग्नि⟫, ⟪विष्णु⟫, ⟪गणेश⟫, ⟪कृष्ण⟫, ⟪इन्द्र⟫)
 2. **dvijas ... (brāhmaṇa, kṣatriya, vaiśya)**
-= ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
+   = ⟪द्विजस्⟫ ... (⟪ब्राह्मण⟫, ⟪क्षत्रिय⟫, ⟪वैश्य⟫)
 3. **gurus ... (brāhmaṇa, Candrakīrti)**
-= ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
+   = ⟪गुरुस्⟫ ... (⟪ब्राह्मण⟫, ⟪चन्द्रकीर्ति⟫)
 4. **vaiśyas ... (Tulādhara)**
-= ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
+   = ⟪वैश्यस्⟫ ... (⟪तुलाधर⟫)
 5. **sādhus ... (guru, Rāma)**
-= ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
+   = ⟪साधुस्⟫ ... (⟪गुरु⟫, ⟪राम⟫)
 6. **kavis ... (Kālidāsa, Māgha, Bhāravi, Harṣadeva)**
-= ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
+   = ⟪कविस्⟫ ... (⟪कालिदास⟫, ⟪माघ⟫, ⟪भारवि⟫, ⟪हर्षदेव⟫)
 
 **B) Vertaal in Sanskrit:**
 

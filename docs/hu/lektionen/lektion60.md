@@ -379,7 +379,7 @@ Lista Kielhorn, Grammatik § 452:
 
 ::: media
 ![](/images/lekt6006.webp)
-(Képmegjelölés: [Details](/hu/licenses#lekt6006))
+(Képmegjelölés: [Részletek](/hu/licenses#lekt6006))
 :::
 ### 60.6.2. A desiderativum ragozása (⟪सन्⟫)
 

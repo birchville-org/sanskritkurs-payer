@@ -14,16 +14,16 @@ status: stable
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ on proper urination:
 
 ::: indent
-⟪प्रत्य⟫*⟪ग्नि⟫* ⟪प्रतिसूर्यं⟫ ⟪च⟫  
+⟪प्रत्य⟫*:sig[⟪ग्नि⟫]* ⟪प्रतिसूर्यं⟫ ⟪च⟫  
 ⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
-⟪प्रति⟫*⟪गु⟫* ⟪प्रतिवातं⟫ ⟪च⟫  
+⟪प्रति⟫*:sig[⟪गु⟫]* ⟪प्रतिवातं⟫ ⟪च⟫  
 ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
 :::
 Explanations:
 
 \-⟪अग्नि⟫ Neuter Nom./Akk.sg. to ⟪अग्नि⟫ m.
 
-\-⟪गु⟫ Neuter Nom./Akk.sg. to ⟪गो⟫ m.f. "bull, cow"
+\-:sig[⟪गु⟫] Neuter Nom./Akk.sg. to ⟪गो⟫ m.f. "bull, cow"
 
 ::: media
 ![](/images/lekt3801.webp)
@@ -56,7 +56,7 @@ Examples:
 ⟪राजन्⟫ m. "king"
 
 *   strong stem: ⟪राजान्⟫
-*   middle stem: ⟪राज⟫
+*   middle stem: :sig[⟪राज⟫]
 *   weakest stem: ⟪राज्ञ्⟫
 
 ⟪सीमन्⟫ f. "boundary"
@@ -100,7 +100,7 @@ Fig.: ⟪सीमा⟫
 ### 38.3.2. Nouns in -man or -van after a consonant
 
 ::: grammar-box
-*   Starker Stamm: -mān, -vān
+*   Starker Stem: -mān, -vān
 *   Weak stem:
     *   before endings beginning with a consonant: -ma, -va (from -\*mn, -\*vn)
     *   before endings beginning with a vowel: **\-man, -van**
@@ -266,7 +266,7 @@ Stems ending in a consonant appear as the first member of a compound in the (wea
 Example:
 
 ::: indent
-***⟪राज⟫***⟪पुत्र⟫ "son of a king"
+**:sig[⟪राज⟫]**⟪पुत्र⟫ "son of a king"
 :::
 ## 38.8. Stems ending in -an as the second member of a ⟪बहुव्रीहि⟫
 
@@ -337,14 +337,14 @@ thereof:
 :::
 ⟪सुत⟫ m.: son
 
-⟪राजन्⟫ m.: king (on kingship in India see Basham, Wonder pp. 82–94). As the final member of a compound (esp. ⟪तत्पुरुष⟫) usually: -⟪राज⟫ m. (like ⟪देव⟫)
+⟪राजन्⟫ m.: king (on kingship in India see Basham, Wonder pp. 82–94). As the final member of a compound (esp. ⟪तत्पुरुष⟫) usually: -:sig[⟪राज⟫] m. (like ⟪देव⟫)
 
 ::: indent
 Feminine:
 
 ⟪राज्ञी⟫ f.: queen, wife of a king
 
-from ⟪राज⟫ :
+from :sig[⟪राज⟫] :
 
 ⟪राज्य⟫ 3: royal; n. kingdom, kingship, rule
 :::
@@ -553,39 +553,39 @@ Inf. ⟪सर्तुम्⟫
 
 ## 38.12. Translation Exercise
 
-*⟪दश⟫* ⟪मूढाः⟫
+*:sig[⟪दश⟫]* ⟪मूढाः⟫
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ *⟪बाहुभ्यां⟫* ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ :sig[⟪दश⟫] ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ *:sig[⟪बाहुभ्यां⟫]* ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ *⟪सर्वे⟫* ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ *⟪जिज्ञासमान⟫*⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ *⟪नवै⟫*⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ *⟪वयम्⟫* ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ *⟪स्मः⟫* ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ *⟪गवेषयत⟫* ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫*⟪मेकैको⟫* ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ *⟪समजनि⟫* ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫*⟪स्तरसा⟫* ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ *⟪यूयम्⟫* ⟪।⟫ *⟪युष्माकमे⟫*⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ *:sig[⟪सर्वे⟫]* ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ *:sig[⟪जिज्ञासमान⟫]*⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ *:sig[⟪नवै⟫]*⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ *:sig[⟪वयम्⟫]* :sig[⟪दश⟫] ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ *:sig[⟪स्मः⟫]* ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ *:sig[⟪गवेषयत⟫]* ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫*:sig[⟪मेकैको⟫]* ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ *:sig[⟪समजनि⟫]* ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫*:sig[⟪स्तरसा⟫]* ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ *:sig[⟪यूयम्⟫]* ⟪।⟫ *:sig[⟪युष्माकमे⟫]*⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
 Explanations:
 
-⟪दश⟫ Nom.Akk.pl.m.f.n. corresponding to ⟪दशन्⟫ "ten"
+:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. corresponding to ⟪दशन्⟫ "ten"
 
 ⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual corresponding to ⟪बाहु⟫ m. "arm"
 
-⟪सर्वे⟫ Nom.pl.m. corresponding to ⟪सर्व⟫ 3 "each, all"
+:sig[⟪सर्वे⟫] Nom.pl.m. corresponding to ⟪सर्व⟫ 3 "each, all"
 
-⟪जिज्ञासमान⟫ Part.Pres.Ā.Desiderative corresponding to ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "to wish to know, to want to know"
+:sig[⟪जिज्ञासमान⟫] Part.Pres.Ā.Desiderative corresponding to ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "to wish to know, to want to know"
 
 ⟪नव⟫ Nom.Akk.pl.m.f.n. corresponding to ⟪नवन्⟫ "nine"
 
-⟪वयम्⟫ Nom.pl. "we"
+:sig[⟪वयम्⟫] Nom.pl. "we"
 
 ⟪स्मस्⟫ 1.pl.Ind.Pres.P corresponding to ⟪अस्⟫ 2P
 
-⟪गवेषयत⟫ 2.pl.Imperative P
+:sig[⟪गवेषयत⟫] 2.pl.Imperativeee P
 
 ⟪एकैक⟫ "each individually"
 
-⟪समजनि⟫ 3.sg.Passive Aorist corresponding to ⟪जन्⟫
+:sig[⟪समजनि⟫] 3.sg.Passive Aorist corresponding to ⟪जन्⟫
 
 ⟪तरसा⟫ Instr. sg. corresponding to ⟪तरस्⟫ n. "energy", used adverbially: "quickly, with force"
 
-⟪यूयम्⟫ Nom.pl. "they"
+:sig[⟪यूयम्⟫] Nom.pl. "they"
 
-⟪युष्माकम्⟫ Gen.pl. corresponding to ⟪यूयम्⟫
+⟪युष्माकम्⟫ Gen.pl. corresponding to :sig[⟪यूयम्⟫]
 
 ::: deleteme-box
 

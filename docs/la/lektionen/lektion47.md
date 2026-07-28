@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 47
 
-## 47.1. Der Imperativ (⟪लोट्⟫)
+## 47.1. Imperativus (⟪लोट्⟫)
 
 ::: grammar-box
 Imperativus (⟪लोट्⟫) significat

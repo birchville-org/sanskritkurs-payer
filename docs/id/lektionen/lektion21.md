@@ -9,7 +9,7 @@ status: stable
 
 # Pelajaran 21
 
-## 21.1. Weitere Presentstämme auf -nt
+## 21.1. Weitere Batang Present auf -nt
 
 ### 21.1.1. Partisip Present (⟪लडादेशः⟫) Parasmaipada
 
@@ -25,7 +25,7 @@ Partisip ini adalah bentuk nomina yang berasal dari batang kata sekarang, yaitu 
 :::
 ::: grammar-box
 
-| **Pembentukan des Partizip Present Parasmaipada zu thematischen Presentstämmen:** |||
+| **Pembentukan des Partizip Present Parasmaipada zu thematischen Batang Presentn:** |||
 | :--- | :--- | :--- |
 | **Maskulin, Netral** | | |
 | | **starker Batang** | Batang Present + **-nt-** |
@@ -78,7 +78,7 @@ Perhatikan kesamaan **⟪यजन्ति⟫** (Nom. jamak Neuter) dengan bent
 :::
 ::: grammar-box
 
-| **Pembentukan des Partizip Present Parasmaipada zu athematischen Presentstämmen (ausser 3. Presentklasse):** |||
+| **Pembentukan des Partizip Present Parasmaipada zu atematikn Batang Presentn (ausser 3. Presentklasse):** |||
 | :--- | :--- | :--- |
 | **Maskulin, Netral** | | |
 | | **starker Batang** | Batang Present + **-ant-** |
@@ -113,7 +113,7 @@ Perhatikan kesamaan **⟪यजन्ति⟫** (Nom. jamak Neuter) dengan bent
 ![](/images/lekt2101.webp)
 Fig.: ⟪सती⟫-plakat peringatan
 ⟪सती⟫ plakat peringatan di istana Jodhpur - ⟪जोधपुर⟫ / Rajasthan - ⟪राजस्थान⟫
-(Sumber gambar: [Details](/en/licenses#lekt2101))
+(Sumber gambar: [Detail](/en/licenses#lekt2101))
 :::
 5\. Kelas saat ini:
 
@@ -189,9 +189,9 @@ Fig.: ⟪महादेवो⟫ ⟪विष्णुः⟫
 
 :::
 ::: indent
-**⟪जयन्⟫ + ⟪अरिः⟫** » **⟪जयन्नरिः⟫** "the conquering enemy"
+**⟪जयन्⟫ + ⟪अरिः⟫** » **⟪जयन्नरिः⟫** "musuh yang ditaklukkan"
 :::
-## 21.3. Höfliche Formen  Anrede
+## 21.3. Bentuk Sopan  Sapaan
 
 ::: grammar-box
 **Dalam bahasa Sanskerta, seseorang dapat menyapa orang lain dalam bentuk tunggal kedua tanpa dianggap tidak sopan. Namun, jika ingin bersikap sopan, seseorang dapat menggunakan kata benda yang berarti "Yang Terhormat" atau sejenisnya, dan menempatkan kata kerja dalam bentuk tunggal ketiga atau jamak ketiga, atau menggunakan konstruksi pasif. Peningkatan tingkat kesopanan dalam penggunaan orang saat menyapa kira-kira sebagai berikut:**
@@ -246,7 +246,7 @@ derived from:
 ![](/images/lekt2103.webp)
 Fig.: ⟪भगवान्कृष्णः⟫
 ⟪भगवान्कृष्णः⟫ sebagai ⟪जगन्नाथ⟫ (kanan) dengan saudara perempuan seperdadanya ⟪सुभद्रा⟫ (tengah) dan kakaknya ⟪बलराम⟫, Orissa = ଓଡ଼ିଶ⟪ा⟫
-(Sumber gambar: [Details](/en/licenses#lekt2103))
+(Sumber gambar: [Detail](/en/licenses#lekt2103))
 :::
 
 ::: indent
@@ -256,7 +256,7 @@ Fig.: ⟪भगवान्कृष्णः⟫
 ![](/images/lekt2105.webp)
 Fig.: ⟪भगवद्गीता⟫
 ⟪भगवद्गीता⟫ - Naskah, abad ke-19.
-(Sumber gambar: [Details](/en/licenses#lekt2105))
+(Sumber gambar: [Detail](/en/licenses#lekt2105))
 :::
 
 ::: indent
@@ -271,7 +271,7 @@ berasal dari:
 ![](/images/lekt2104.webp)
 Fig.: ⟪भिक्षवः⟫
 Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
-(Sumber gambar: [Details](/en/licenses#lekt2104))
+(Sumber gambar: [Detail](/en/licenses#lekt2104))
 :::
 **⟪दुष्⟫ 4 P ⟪दुष्यति⟫ Pass. ⟪दुष्यते⟫ PPP ⟪दुष्ट⟫ :** merusak (intransitif), menjadi buruk, dipermalukan
 

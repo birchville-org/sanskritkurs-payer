@@ -474,7 +474,7 @@
 
 ## [Lecție 39](lektion39)
 
-*   39\.1. Desinențele persoanei primei persoane (***⟪तृतीयः⟫*** ⟪पुरुषः⟫ = "**a treia** persoană")
+*   39\.1. Desinențele persoanei primei persoane (**⟪तृतीयः⟫** ⟪पुरुषः⟫ = "**a treia** persoană")
 *   39\.2. Formarea formelor verbale ale primei persoane, teme de prezent tematic
     *   39\.2.1. Prima clasă de prezent (⟪भ्वादि⟫)
     *   39\.2.2. A șasea clasă de prezente (⟪तुदादि⟫)

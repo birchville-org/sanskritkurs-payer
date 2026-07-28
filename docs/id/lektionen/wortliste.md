@@ -7,7 +7,7 @@ outline: 2
 *Semua kata baru dari kursus ini sesuai urutan perkenalan, disertai penjelasan tematik.*
 
 
-## Lesson 2
+## Pelajaran 2
 
 **deva** m. -- ⟪देव⟫ : Celestial being, god; prince, king.
 
@@ -115,7 +115,7 @@ Fig.: Sādhu (⟪साधु⟫), Pashupatinath Temple, Kathmandu.
 ---
 
 
-## Lesson 3
+## Pelajaran 3
 
 **Learn the following words:**
 
@@ -180,7 +180,7 @@ Fig.: Durgā = ⟪दुर्गा⟫, Orissa
 ---
 
 
-## Lesson 5
+## Pelajaran 5
 
 **Learn the following words:**
 
@@ -227,7 +227,7 @@ Fig.: God Kāma = kāmadeva = ⟪कामदेव⟫, 18th century.
 ---
 
 
-## Lesson 6
+## Pelajaran 6
 
 ::: grammar-box
 Dalam bahasa Sanskerta, kata kerja dicantumkan dalam **bentuk akar**. Angka yang mengikuti akar menunjukkan **kelas konjugasi**.
@@ -252,7 +252,7 @@ Dalam bahasa Sanskerta, kata kerja dicantumkan dalam **bentuk akar**. Angka yang
 ---
 
 
-## Lesson 7
+## Pelajaran 7
 
 **Learn the following words:**
 
@@ -281,7 +281,7 @@ Fig.: Apakah ini tanaman Soma Veda?: Fly agaric: *Amanita muscaria* (L.) Lam.
 ---
 
 
-## Lesson 8
+## Pelajaran 8
 
 **Learn the following words:**
 
@@ -319,7 +319,7 @@ Fig.: **likh** (⟪लिख्⟫) : Tongkat tulis suku Batak (Sumatra), sebaga
 ---
 
 
-## Lesson 9
+## Pelajaran 9
 
 **Learn the following words:**
 
@@ -356,7 +356,7 @@ Fig.: **kāru** = ⟪कारु⟫, Gujarat.
 ---
 
 
-## Lesson 10
+## Pelajaran 10
 
 **Learn the following words:**
 
@@ -437,7 +437,7 @@ Fig.: ⟪विश्वामित्रः⟫
 ---
 
 
-## Lesson 11
+## Pelajaran 11
 
 **Learn the following words:**
 
@@ -478,7 +478,7 @@ Fig.: **vadanāni** = ⟪वदनानि⟫, Jamalpur district, Bangladesh.
 ---
 
 
-## Lesson 12
+## Pelajaran 12
 
 - **budh** 4 Ā (budhyate) / 1 U (bodhati), PPP **buddha** ⟪बुध्⟫ ⟪बुध्यते⟫ ⟪बोधति⟫ ⟪बुद्ध⟫ : terbangun, terbangun menuju pengetahuan, mengenali; PPP **buddha** 3 yang terbangun, oleh karena itu **Buddha** = "Yang Terbangun" (bukan: Yang Tersiar)
 
@@ -572,7 +572,7 @@ Fig.: ⟪महावीरो⟫ ⟪जिनः⟫
 ---
 
 
-## Lesson 13
+## Pelajaran 13
 
 Learn the following words:
 
@@ -637,7 +637,7 @@ dviṣ 2 U:
 ---
 
 
-## Lesson 14
+## Pelajaran 14
 
 * **śīla n.** (⟪शील⟫) : (good) character, morality
 * **bhūṣ-aṇa n** (⟪भूषण⟫) : jewelry
@@ -663,7 +663,7 @@ Fig.: ⟪दीपाः⟫
 * **vāk-ya n.** (⟪वाक्य⟫) : kata, pidato
 
 
-## Lesson 15
+## Pelajaran 15
 
 puṣkala 3: magnificent, splendid, abundant
 
@@ -753,7 +753,7 @@ mṛti f.: dying, death
 
 mṛtyu m.: death ; personified: god of death
 :::
-## Lesson 16
+## Pelajaran 16
 
 ⟪अध्यापन⟫ n.: Teaching, instruction
 
@@ -865,7 +865,7 @@ from this:
 
 ⟪दिष्ट्या⟫ Instr.: (literally: by a fortunate occurrence) O fortunate occurrence (exclamation of joy and felicity)
 :::
-## Lesson 18
+## Pelajaran 18
 
 ⟪सुष्टु⟫ 3: highly praised, distinguished, good
 
@@ -902,7 +902,7 @@ from this:
 ⟪प्रभृति⟫ f.: beginning
 
 
-## Lesson 19
+## Pelajaran 19
 
 **⟪अर्थ⟫ m.:** tujuan, sasaran, makna (sebuah kata), kekayaan, harta, rejeki. **⟪अर्थम्⟫** (Akk.), **⟪अर्थेन⟫** (Instr.) dengan Gen. atau sebagai anggota kedua dari Tatpuruṣa: demi ..., agar.
 
@@ -1003,7 +1003,7 @@ Fig.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहर
 **⟪हि⟫ :** karena, memang (tidak boleh berdiri di awal kalimat)
 
 
-## Lesson 20
+## Pelajaran 20
 
 ⟪वा⟫ : or
 
@@ -1106,7 +1106,7 @@ Rishikesh = ⟪ऋषिकेश⟫. "Ini sebenarnya bagian dari Ashram di Rish
 ⟪चेष्ट्⟫ 1 Ā ⟪चेष्टते⟫ Pass. ⟪चेष्ट्यते⟫ PPP ⟪चेष्टित⟫ : to move oneself
 
 
-## Lesson 21
+## Pelajaran 21
 
 **⟪भज्⟫ 1 U ⟪भजति⟫ Pass. ⟪भज्यते⟫ PPP ⟪भक्त⟫ :** mengalokasikan sesuatu kepada seseorang (Akk.), menimpa, mencintai, menghormati, menyembah seseorang
 
@@ -1155,7 +1155,7 @@ Luang Prabang = ຫລວງພະບາງ, Laos = ປະເທດລາວ
 **⟪पच्⟫ 1 U ⟪पचति⟫ Pass. ⟪पच्यते⟫ (no PPP, instead ⟪पक्व⟫ 3: cooked, fermented) Absol. ⟪पक्त्वा⟫ :** to cook (transitive) = to boil, roast, toast, etc.
 
 
-## Lesson 22
+## Pelajaran 22
 
 **⟪काम⟫ m.:** wish, desire; desired gift, sensual pleasure, love, god of love
 
@@ -1220,7 +1220,7 @@ Goa = ⟪गोंय⟫
 ⟪विशेष⟫ m.: particularity, specification, differentia specifica
 
 
-## Lesson 24
+## Pelajaran 24
 
 ⟪अलम्⟫ Kata keterangan: cukup, memadai, setara dengan (seseorang, sesuatu); dengan Dativ: cukup untuk, memadai bagi, setara; dengan Instrumental: cukup bersama, berhenti , mis. ⟪अलं⟫ ⟪क्रोधेन⟫ = "cukup dengan kemarahan = hentikan kemarahan!"
 
@@ -1338,7 +1338,7 @@ Naskah dari ⟪गीतगोविन्द⟫, tahun 1730 Masehi.
 ⟪पुनर्⟫ Adverb: again, back, but
 
 
-## Lesson 25
+## Pelajaran 25
 
 ⟪त्यज्⟫ 1P ⟪त्यजति⟫  leave, abandon, forsake
 
@@ -1529,7 +1529,7 @@ Fig.: ⟪हिरण्यम्⟫
 ⟪गोदान⟫ n.: giving of cows / of a cow; second hair-cutting ceremony (a ⟪संस्कार⟫)
 
 
-## Lesson 27
+## Pelajaran 27
 
 **⟪वस्⟫** 1P (⟪वसति⟫): tinggal, berdiam (dengan lokatif orang yang diajak berdiam)
 
@@ -1602,7 +1602,7 @@ Harihara (left: Viṣṇu, right: Śiva). Godrumdwip, West Bengal.
 (Image source: [Details](/en/licenses#lekt2705))
 ::::
 :::
-## Lesson 28
+## Pelajaran 28
 
 ::: indent
 **⟪विद्⟫** 2P **⟪वेत्ति⟫**, **⟪विदन्ति⟫**: mengetahui, mengenali
@@ -1674,7 +1674,7 @@ Girl carrying load. Near Ahmedabad.
 ---
 
 
-## Lesson 29
+## Pelajaran 29
 
 Prefixes:
 
@@ -1751,7 +1751,7 @@ Inf. ⟪रन्तुम्⟫
 ::: indent
 PPP ⟪पूजित⟫
 :::
-## Lesson 30
+## Pelajaran 30
 
 ⟪क्री⟫ 9U ⟪क्रीणाति⟫ : to buy
 
@@ -1872,7 +1872,7 @@ from which:
 ⟪सनातन⟫ ⟪३⟫ fem.: ⟪सनातनी⟫ : eternal, imperishable, constant
 
 
-## Lesson 31
+## Pelajaran 31
 
 **⟪युज्⟫** 7U **⟪युनक्ति⟫** : mengikat, menyangkutkan, memasang, menempelkan; Ā juga: berusaha (= mengerahkan diri), terhubung dengan, berkonsentrasi pada (Lokatif, ⟪सप्तमी⟫)
 ::: indent
@@ -1988,7 +1988,7 @@ From a Prajñāpāramitā manuscript.
 **⟪शरीर⟫ n.:** torso, body
 
 
-## Lesson 32
+## Pelajaran 32
 
 **⟪अग्र⟫ n.:** tip, extreme end
 
@@ -2029,7 +2029,7 @@ Mango tree, Kanpur.
 ⟪रोक्ष्यति⟫:br
 ⟪रुह्यते⟫:br
 ⟪रोहयति⟫ ⟪।⟫ ⟪रोपयति⟫:br
-⟪रूढ⟫:br
+:sig[⟪रूढ⟫]:br
 -⟪रुह्य⟫:br
 ⟪रोढुम्⟫
 :::
@@ -2116,7 +2116,7 @@ Fig.: ⟪कौशलम्⟫
 Mehndi painting on hands in Mumbai.
 (Image source: [Details](/en/licenses#lekt3206))
 :::
-## Lesson 33
+## Pelajaran 33
 
 **⟪दा⟫** 3U **⟪ददाति⟫**: to give
 
@@ -2146,7 +2146,7 @@ Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 (Sumber gambar: [Details](/en/licenses#lekt3307))
 ::::
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: menempatkan, memperbaiki, mengalokasikan
+**:sig[⟪धा⟫]** 3U **:sig[⟪दधाति⟫]**: menempatkan, memperbaiki, mengalokasikan
 
 ::: indent
 **Fut.** ***⟪धास्यति***  
@@ -2155,7 +2155,7 @@ Fig.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪�
 **PPP** ***⟪हित*** (!!)  
 **Inf.** ***⟪धातुम्***
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: mengarahkan perhatian penuh pada sesuatu, mengumpulkan diri
+**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: mengarahkan perhatian penuh pada sesuatu, mengumpulkan diri
 
 ::: indent
 derived from this:
@@ -2171,10 +2171,10 @@ Fig.: ⟪समाधि⟫
 
 ::: indent
 Note:
-3.pl.P ***⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪अपिपर्⟫*** (from: \*apipart)  
-3.pl.Impf.P ***⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪पिपूर्यात्⟫***
+3.pl.P **:sig[⟪पिपुरति⟫]**  
+3.sg.Impf.P **:sig[⟪अपिपर्⟫]** (from: \*apipart)  
+3.pl.Impf.P **:sig[⟪अपिपरुर्⟫]**  
+3.sg.Opt.P **:sig[⟪पिपूर्यात्⟫]**
 
 **Fut.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Pass.** ⟪पूर्यते⟫  
@@ -2271,7 +2271,7 @@ Fig.: ⟪घृतमग्नौ⟫ ⟪जुहोति⟫
 
 [Source: http://en.wikipedia.org/wiki/Ghee. -- Accessed on 2008-12-26]
 :::
-## Lesson 34
+## Pelajaran 34
 
 **⟪क्षिति⟫ f. = ⟪पृथ्वी⟫ = ⟪मही⟫ = ⟪भूमी⟫**
 
@@ -2337,7 +2337,7 @@ Fig.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
 (Image source: [Details](/en/licenses#lekt3401))
 :::
-**⟪यम्⟫ 1P ⟪यच्छति⟫ :** restrain, hold, offer, grant
+**⟪यम्⟫ 1P :sig[⟪यच्छति⟫] :** restrain, hold, offer, grant
 
 **⟪यम्⟫ + ⟪प्र⟫ 1P ⟪प्रयच्छति⟫ :** extend, offer, deliver
 
@@ -2346,7 +2346,7 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 **⟪कन्या⟫ f.:** girl, maiden
 
 
-## Lesson 35
+## Pelajaran 35
 
 **⟪नश्⟫** 4P **⟪नश्यति⟫** : binah, musnah, lenyap
 ::: indent
@@ -2355,15 +2355,15 @@ Nandi Bull statue, Chamundi Hills, Mysore.
 **Kaus. ⟪नाशयति⟫**:br
 **PPP ⟪नष्ट⟫**
 :::
-**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***⟪ण⟫*⟪श्यति⟫** : lenyap, binah, musnah
+**⟪नश्⟫ + ⟪प्र⟫** 4P **⟪प्र⟫***:sig[⟪ण⟫]*⟪श्यति⟫** : lenyap, binah, musnah
 
-**⟪क्रम्⟫** 1U *****⟪क्रा⟫*****⟪मति⟫**, 4P *****⟪क्रा⟫*****⟪म्यति⟫** : melangkah, pergi
+**⟪क्रम्⟫** 1U ***:sig[⟪क्रा⟫]***⟪मति⟫**, 4P ***:sig[⟪क्रा⟫]***⟪म्यति⟫** : melangkah, pergi
 ::: indent
 **Perf. Vc ⟪चक्राम⟫, ⟪चक्रमुर्⟫**:br
 **Fut. ⟪क्रमिष्यति⟫**:br
 **Pass. ⟪क्रम्यते⟫**:br
 **Kaus. ⟪क्रमयति⟫**:br
-**PPP ***⟪क्रा⟫***⟪न्त⟫**:br
+**PPP **:sig[⟪क्रा⟫]**⟪न्त⟫**:br
 **Inf. ⟪क्रमितुम्⟫**:br
 **Absol. ⟪क्रमित्वा⟫ ⟪।⟫ ⟪क्रन्त्वा⟫ ⟪।⟫ ⟪क्रान्त्वा⟫**
 :::: media
@@ -2391,7 +2391,7 @@ Temple musicians, Kaadu Malleswara Temple, Bangalore.
 (Image source: [Details](/en/licenses#lekt3501))
 ::::
 :::
-## Lesson 36
+## Pelajaran 36
 
 ⟪अह्⟫ P hanya Sempurna dengan makna sekarang ⟪आह⟫, ⟪आहुर्⟫ : untuk mengatakan, untuk berbicara
 
@@ -2495,7 +2495,7 @@ PPP ⟪ग्लान⟫
 Inf. ⟪ग्लातुम्⟫  
 Absol. -⟪ग्लाय⟫
 :::
-⟪घ्रा⟫ 1P ***⟪जिघ्रति⟫*** : to smell something
+⟪घ्रा⟫ 1P **:sig[⟪जिघ्रति⟫]** : to smell something
 
 ::: indent
 Perf. IV ⟪जघ्रौ⟫  
@@ -2514,7 +2514,7 @@ Absol. -⟪घ्राय⟫
 Perf. IIIa ⟪पिप्राय⟫, ⟪पिप्रिये⟫  
 Fut. ⟪प्रेष्यति⟫  
 Pass. ⟪प्रीयते⟫  
-Kaus. ***⟪प्रीणयति⟫***  
+Kaus. **:sig[⟪प्रीणयति⟫]**  
 PPP ⟪प्रीत⟫  
 Inf. ⟪प्रेतुम्⟫
 :::
@@ -2551,7 +2551,7 @@ Fig.: ⟪लोमहर्षः⟫
 ⟪स्वक⟫ 3: own (my, your ...) ; m.: member
 
 
-## Lesson 37
+## Pelajaran 37
 
 ⟪मूर्ख⟫ 3: stupid, foolish, dumb m. fool
 
@@ -2577,7 +2577,7 @@ Fig.: ⟪वृक्षः⟫
 ⟪मुख⟫ n.: mouth, face, front part, beginning
 
 
-## Lesson 38
+## Pelajaran 38
 
 ⟪सूर्य⟫ m.: Sun, sun god Sūrya
 
@@ -2704,7 +2704,7 @@ Fig.: ⟪अशोकवृक्षः⟫
 Fig.: ⟪अशोकसाम्राज्यम्⟫
 (Image source: [Details](/en/licenses#lekt3811))
 :::
-## Lesson 40
+## Pelajaran 40
 
 ⟪पात्र⟫ n.: Venerable, Master, Worthy One
 
@@ -2805,7 +2805,7 @@ Fig.: ⟪स्वपन्ति⟫
 (Image source: [Details](/en/licenses#lekt4004))
 ::::
 :::
-## Lesson 41
+## Pelajaran 41
 
 ⟪मूर्ख⟫ m = ⟪मूढ⟫
 
@@ -2877,7 +2877,7 @@ see also:
 ::: indent
 PPP **⟪अतीत⟫** : n. past
 :::
-## Lesson 42
+## Pelajaran 42
 
 ⟪प्रकृति⟫ f.: (from ⟪कृ⟫ + ⟪प्र⟫) basic form, natural state, nature; primordial matter, prime substance
 
@@ -2896,7 +2896,7 @@ PPP ⟪अवस्थित⟫ 3: standing, located
 
 ⟪दूत⟫ m.: messenger, envoy
 
-⟪इष्⟫ (1,4,9) Caus. ***⟪इष⟫***⟪यति⟫ : to send
+⟪इष्⟫ (1,4,9) Caus. **:sig[⟪इष⟫]**⟪यति⟫ : to send
 
 ⟪सकाश⟫ m.: presence, presence
 
@@ -3005,7 +3005,7 @@ Upacara dilakukan untuk keduanya, yaitu ⟪श्राद्ध⟫ n. yang dise
 ⟪मातामही⟫ f.: Maternal grandmother
 
 
-## Lesson 43
+## Pelajaran 43
 
 ⟪ज्ञा⟫ + ⟪आ⟫ Causative ⟪आज्ञापयति⟫ : to command, to order
 
@@ -3125,7 +3125,7 @@ Inf. ⟪द्रोतुम्⟫
 ⟪आनन्द⟫ m.: bliss, joy
 
 
-## Lesson 44
+## Pelajaran 44
 
 ⟪प्रति⟫ Preverb: back, against, toward - away
 
@@ -3198,13 +3198,13 @@ Fig.: ⟪नन्दी⟫
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : bersenang-senang dengan (⟪द्वितीयया⟫), menyapa seseorang dengan sukacita, menyambut
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : memegang, membawa; menawarkan, memberikan; menahan bersama, membatasi, kekang, menaklukkan
+**⟪यम्⟫** 1P **:sig[⟪यच्छति⟫]** : memegang, membawa; menawarkan, memberikan; menahan bersama, membatasi, kekang, menaklukkan
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Caus. ⟪यामयति⟫ but: ⟪नि⟫***⟪यम⟫***⟪यति⟫  
+Caus. ⟪यामयति⟫ but: ⟪नि⟫**:sig[⟪यम⟫]**⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫
@@ -3248,7 +3248,7 @@ Fig.: ⟪यत्नेन⟫
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. ***⟪रम्भ⟫***⟪यति⟫  
+Kaus. **:sig[⟪रम्भ⟫]**⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absolut. -⟪रभ्य⟫
@@ -3268,12 +3268,12 @@ Fig.: ⟪प्रव्रअज्या⟫ / ⟪पब्बजा⟫
 (Image source: [Details](/en/licenses#lekt4408))
 ::::
 :::
-## Lesson 45
+## Pelajaran 45
 
 ⟪वा⟫ ... ⟪वा⟫ : either ... or
 
 
-## Lesson 46
+## Pelajaran 46
 
 ⟪सम⟫ 3: same, equal, similar
 
@@ -3284,14 +3284,14 @@ dari itu:
 ⟪विषम⟫ 3: tidak sama, tidak rata, jahat
 
 :::
-⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : seize, grasp, catch
+⟪ग्रह्⟫ 9U **:sig[⟪गृ⟫]**⟪ह्णाति⟫ (gṛh-ṇā-ti) : seize, grasp, catch
 
 ::: indent
 Perf Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Fut. ⟪ग्र⟫***⟪ही⟫***⟪ष्यति⟫  
+Fut. ⟪ग्र⟫**:sig[⟪ही⟫]**⟪ष्यति⟫  
 Pass. ⟪गृह्यते⟫  
 Caus. ⟪ग्राहयति⟫  
-PPP ⟪गृ⟫***⟪ही⟫***⟪त⟫  
+PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫  
 Inf. ⟪ग्रहितुम्⟫  
 Absol. -⟪ग्राह्य⟫
 from that:
@@ -3364,8 +3364,8 @@ Fig.: [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫](
 Perf. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Fut. ⟪रोक्ष्यति⟫  
 Pass. ⟪रुह्यते⟫  
-Caus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***⟪प⟫***⟪यति⟫  
-PPP. ***⟪रूढ⟫***  
+Caus. ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫**:sig[⟪प⟫]**⟪यति⟫  
+PPP. **:sig[⟪रूढ⟫]**  
 Inf. ⟪रोढुम्⟫
 
 :::: media
@@ -3399,14 +3399,14 @@ Fig.: [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 ⟪भ्रंश⟫ m.: dropping off
 
-⟪श्रम्⟫ 4P ***⟪श्रा⟫***⟪म्यति⟫ : toil, become tired
+⟪श्रम्⟫ 4P **:sig[⟪श्रा⟫]**⟪म्यति⟫ : toil, become tired
 
 ::: indent
 Perf. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Fut. ⟪श्रमिष्यति⟫  
 Pass. ⟪श्रम्यते⟫  
 Caus. ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
-PPP ***⟪श्रान्⟫***⟪त⟫  
+PPP **:sig[⟪श्रान्⟫]**⟪त⟫  
 Inf. ⟪श्रमितुम्⟫  
 Absol. ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
 from that:
@@ -3429,7 +3429,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : melekat, menempel pada (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P **:sig[⟪सज⟫]**⟪ति⟫ : melekat, menempel pada (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -3459,13 +3459,13 @@ Inf. ⟪द्रोतुम्⟫
 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : to wander about, to roam
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P **:sig[⟪भ्रा⟫]**⟪म्यति⟫ : to wander about, to roam
 
 ::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Caus. ⟪भ्रमयति⟫  
-PPP ***⟪भ्रा⟫***⟪न्त⟫  
+PPP **:sig[⟪भ्रा⟫]**⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
 therefrom:
@@ -3503,17 +3503,17 @@ PPP ⟪परिभूत⟫ 3: conquered, humiliated, degraded
 
 ::: indent
 e.g.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : to sit down
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫**:sig[⟪षी⟫]**⟪दति⟫ : to sit down
 
 :::
-⟪भोस्⟫ Partikel vokatif: seruan untuk menyapa, misalnya: hei, heya, oh, ei, halo, hai! sering tidak dapat diterjemahkan. Partikel ini memiliki sandhi khusus: sebelum semua bunyi bersuara, partikel tersebut menjadi ***⟪भो⟫***.
+⟪भोस्⟫ Partikel vokatif: seruan untuk menyapa, misalnya: hei, heya, oh, ei, halo, hai! sering tidak dapat diterjemahkan. Partikel ini memiliki sandhi khusus: sebelum semua bunyi bersuara, partikel tersebut menjadi **:sig[⟪भो⟫]**.
 
 ::: media
 ![](/images/lekt4611.webp)
 Fig.: [⟪भोः⟫](/en/licenses#lekt4611)
 (Image source: [Details](/en/licenses#lekt4611))
 :::
-## Lesson 48
+## Pelajaran 48
 
 ⟪श्वस्⟫ : tomorrow
 
@@ -3619,7 +3619,7 @@ Fig.: ⟪मम⟫ ⟪जाया⟫
 (Image: Payer)
 (Image source: [Details](/en/licenses#lekt4809))
 :::
-## Lesson 49
+## Pelajaran 49
 
 ⟪दीर्घ⟫ 3: long
 
@@ -3657,7 +3657,7 @@ Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Caus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ ***⟪तू्र्⟫***⟪ण⟫
+PPP ⟪त्वरित⟫ ⟪।⟫ **:sig[⟪तू्र्⟫]**:sig[⟪ण⟫]
 Inf. ⟪त्वरितुम्⟫
 :::
 ⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : harm
@@ -3693,7 +3693,7 @@ Fig.: ⟪उत्तमा⟫ ⟪काला⟫
 
 ⟪उत⟫ Indecl.: and, also, or
 
-⟪विहंग⟫ m.: bird ("going into the air⟪स्⟫dream - ⟪विह⟫ -")
+⟪विहंग⟫ m.: bird ("going into the air:sig[⟪स्⟫]dream - ⟪विह⟫ -")
 
 ::: media
 ![](/images/lekt4903.jpg)
@@ -3757,7 +3757,7 @@ Fig.: ⟪गजशिशुः⟫
 Sri Lanka
 (Image source: [Details](/en/licenses#lekt4906))
 :::
-## Lesson 50
+## Pelajaran 50
 
 ⟪ध्रुव⟫ 3: firm, unchangeable
 
@@ -3786,7 +3786,7 @@ Pass. ⟪रिष्यते⟫
 Caus. ⟪रेषयति⟫
 PPP ⟪रिष्ट⟫
 :::
-**⟪लुप्⟫ 6U *⟪लुम्प⟫*⟪ति⟫** : break, destroy
+**⟪लुप्⟫ 6U *:sig[⟪लुम्प⟫]*⟪ति⟫** : break, destroy
 
 ::: indent
 Perf.  II ⟪लुलोप⟫, ⟪लुलुपे⟫
@@ -3834,8 +3834,8 @@ Declension like ⟪यद्⟫ (exception: Nom.Akk.sg.Neuter)
 | | Singular:br⟪एकवचनम्⟫ || || Plural:br⟪बहुवचनम्⟫ || ||
 | | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** | **Masculine:br⟪पुंस्⟫** | **Neuter:br⟪नपुंसकम्⟫** | **Feminine:br⟪स्त्री⟫** |
 | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| **1. Nominative:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
-| **2. Accusative:br⟪२⟫. ⟪द्वितीया⟫** | ⟪सर्वम्⟫ | ***⟪सर्वम्⟫*** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **1. Nominative:br⟪१⟫. ⟪प्रथमा⟫** | ⟪सर्वस्⟫ | **:sig[⟪सर्वम्⟫]** | ⟪सर्वा⟫ | ⟪सर्वे⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
+| **2. Accusative:br⟪२⟫. ⟪द्वितीया⟫** | :sig[⟪सर्वम्⟫] | **:sig[⟪सर्वम्⟫]** | ⟪सर्वाम्⟫ | ⟪सर्वान्⟫ | ⟪सर्वाणि⟫ | ⟪सर्वास्⟫ |
 | **3. Instrumental:br⟪३⟫. ⟪तृतीया⟫** | ⟪सर्वेण⟫ || ⟪सर्वया⟫ | ⟪सर्वैस्⟫ || ⟪सर्वाभिस्⟫ |
 | **4. Dative:br⟪४⟫. ⟪चतुर्थी⟫** | ⟪सर्वस्मै⟫ || ⟪सर्वस्यै⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
 | **5. Ablative:br⟪५⟫. ⟪पञ्चमी⟫** | ⟪सर्वस्मात्⟫ || ⟪सर्वस्यास्⟫ | ⟪सर्वेभ्यस्⟫ || ⟪सर्वाभ्यस्⟫ |
@@ -3874,7 +3874,7 @@ tidak digunakan dalam tense lainnya
 ⟪देश⟫ m.: place, location, country, region
 
 
-## Lesson 51
+## Pelajaran 51
 
 ⟪अजिन⟫ n.: kulit rusa, khususnya kulit rusa hitam (nilgai: _Antilope cervicapra_ L. ). Awalnya terdapat di seluruh anak benua India dari Punjab dan Sindh hingga Bengal dan dari Nepal ke Kanyakumari (Cape Comorin) (Tamil: கன்னியாகுமரி) Lihat:
 
@@ -3945,9 +3945,9 @@ Pass. ⟪विशिष्यते⟫ : berbeda dari (⟪पञ्चम्य
 ⟪स्व⟫ 3: own, his (my, your etc.) Declined like ⟪सर्व⟫. In Abl.Loc.sg.m.n and in Nom.pl.m it can also be declined like ⟪देव⟫:
 
 ::: indent
-Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ ***⟪स्वात्⟫***
-Loc.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ ***⟪स्⟫***⟪वे⟫
-Nom.pl.m ⟪स्वे⟫ ⟪।⟫ ***⟪स्वास्⟫***
+Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ **:sig[⟪स्वात्⟫]**
+Loc.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ **:sig[⟪स्⟫]**⟪वे⟫
+Nom.pl.m ⟪स्वे⟫ ⟪।⟫ **:sig[⟪स्वास्⟫]**
 :::
 ⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : scold, blame
 
@@ -4111,7 +4111,7 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 ⟪शबर⟫ .:  proper name of a non-Aryan tribe
 
 
-## Lesson 52
+## Pelajaran 52
 
 ⟪अखिल⟫ 3: seamless, whole
 
@@ -4184,7 +4184,7 @@ Fig.: ⟪प्रधानः⟫
 ::: indent
 ⟪त्रिवर्ग⟫ m.: group of three (e.g. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫; or: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫; or: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imperat. 2.sg.: ***⟪उड्ढि⟫*** : to want, command, desire
+⟪वश्⟫ 2P ⟪वस्टि⟫, ***:sig[⟪उशन्ति⟫],*** Imperat. 2.sg.: **:sig[⟪उड्ढि⟫]** : to want, command, desire
 
 ::: indent
 Perf Va ⟪उवाश⟫, ⟪ऊशुर्⟫

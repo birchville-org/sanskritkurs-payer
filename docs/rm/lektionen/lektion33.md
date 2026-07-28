@@ -32,10 +32,10 @@ Exempels:
 * 3.sg.P.Ind.Präs. **⟪ददाति⟫**
 
 **⟪पॄ⟫** 3 "emplenar"
-* 3.sg.P.Ind.Präs. ***⟪पि⟫⟪पर्ति⟫**
+* 3.sg.P.Ind.Präs. ***:sig[⟪पि⟫]⟪पर्ति⟫**
 
 **⟪मा⟫** 3Ā "misurar"
-* 3.sg.Ā.Ind.Präs. ***⟪मि⟫***⟪मीते⟫
+* 3.sg.Ā.Ind.Präs. **:sig[⟪मि⟫]**⟪मीते⟫
 :::
 ::: grammar-box
 **2. Inizial consonant aspirà d'ina radich vegn reduplicà cun il consonant correspundent na-aspirà.**
@@ -43,11 +43,11 @@ Exempels:
 Exemplas:
 
 ::: indent
-**⟪धा⟫** 3 "setzar"
-* 3.sg.P.Ind.Präs. **⟪दधाति⟫**
+**:sig[⟪धा⟫]** 3 "setzar"
+* 3.sg.P.Ind.Präs. **:sig[⟪दधाति⟫]**
 
 **⟪भी⟫** 3 "timair"
-* 3.sg.P.Ind.Präs. ***⟪बि⟫***⟪भेति⟫
+* 3.sg.P.Ind.Präs. **:sig[⟪बि⟫]**⟪भेति⟫
 :::
 ::: grammar-box
 **3. Ina consonanta gutturalescha vegn reduplicada cun la consonanta palatala correspundenta na aspirada:**
@@ -94,7 +94,7 @@ Exempl:
 ::: grammar-box
 * **Il vocal da reduplicaziun regular è -i-**
 * **radichas cun -u- redupliceschan cun -u-**
-* **las radichas ⟪दा⟫, ⟪धा⟫, ⟪हा⟫ cun -a-**
+* **las radichas ⟪दा⟫, :sig[⟪धा⟫], ⟪हा⟫ cun -a-**
 :::
 Exemples:
 
@@ -124,11 +124,11 @@ Las duas pli impurtantas series da mutaziuns dal grup ā èn:
 
 * **Stgief bass**
   * **avant consonant: -i-**  
-    p.ex. **⟪धा⟫** PPP: **⟪हित⟫** (hi-ta)
+    p.ex. **:sig[⟪धा⟫]** PPP: **:sig[⟪हित⟫]** (hi-ta)
   * **avant vocal: Ø**  
-    p.ex. **⟪धा⟫** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
+    p.ex. **:sig[⟪धा⟫]** 3.pl.P.Ind.Präs. **⟪दधति⟫** (dadh-ati)
 * **Stgief aut: -ā-**  
-  p.ex. **⟪धा⟫** 3.sg.P.Ind.Präs. **⟪दधाति⟫**
+  p.ex. **:sig[⟪धा⟫]** 3.sg.P.Ind.Präs. **:sig[⟪दधाति⟫]**
 :::
 Qua qua appartegna era p.ex.:
 
@@ -148,7 +148,7 @@ Qua qua appartegna era p.ex.:
 ## 33.4. Radichs cun -ā da la terza classa da prezens
 
 ::: grammar-box
-**Radichas cun finala -ā (exceptà ⟪दा⟫ e ⟪धा⟫) han en il Tema deblit usitàramain finala -ī-** (vesa quai Thumb-Hauschild Vol. 1,1
+**Radichas cun finala -ā (exceptà ⟪दा⟫ e :sig[⟪धा⟫]) han en il Tema deblit usitàramain finala -ī-** (vesa quai Thumb-Hauschild Vol. 1,1
 :::
 Exemplas:
 
@@ -170,15 +170,15 @@ Exemplas:
 | **Imperfect** | ⟪अजहात्⟫ | ⟪अजहुर्⟫ |
 | **Optativ** | ⟪जह्यात्⟫:brjah-yā-t:br(Die Wurzel ⟪हा⟫ hat vor dem Optativ-yā/y die gleiche Form wie vor Vokalen!) | ⟪जह्युर्⟫:brjah-y-ur |
 :::
-### 33.4.1. Las radis **⟪दा⟫** e **⟪धा⟫**
+### 33.4.1. Las radis **⟪दा⟫** e **:sig[⟪धा⟫]**
 
 ::: grammar-box
-**Las radichas ⟪दा⟫ e ⟪धा⟫ redupliceschan cun il vocal -a- e pierd en il Stamm fiac il vocal da la radicha.**
+**Las radichas ⟪दा⟫ e :sig[⟪धा⟫] redupliceschan cun il vocal -a- e pierd en il Stamm fiac il vocal da la radicha.**
 
-**Beachten Sie bei ⟪धा⟫ das Hauchdissimilationsgesetz!**
+**Beachten Sie bei :sig[⟪धा⟫] das Hauchdissimilationsgesetz!**
 :::
 ::: grammar-box
-**⟪धा⟫** 3U "setzar, fixar, distribuir"
+**:sig[⟪धा⟫]** 3U "setzar, fixar, distribuir"
 
 | | 3. sg. P. | 3. pl. P. | 3. sg. Ā. | 3. pl. Ā. |
 | :--- | :--- | :--- | :--- | :--- |
@@ -186,7 +186,7 @@ Exemplas:
 | **Imperfect** | ⟪अदधात्⟫ | ⟪अदधुर्⟫ | ⟪अधत्त⟫:bra + dadh + ta | ⟪अदधत⟫ |
 | **Optativ** | ⟪दध्यात्⟫:brdadh-yā-t | ⟪दध्युर्⟫ | ⟪दधीत⟫:brdadh-ī-ta | ⟪दधीरन्⟫ |
 :::
-Las furmas da **⟪दा⟫** s’obtien, sche en il paradigma da **⟪धा⟫** **dh** vegn sustituid cun **d**. Uschia:
+Las furmas da **⟪दा⟫** s’obtien, sche en il paradigma da **:sig[⟪धा⟫]** **dh** vegn sustituid cun **d**. Uschia:
 
 ::: grammar-box
 **⟪दा⟫** 3U "dar"
@@ -248,16 +248,16 @@ Abb.: ⟪दानम्⟫
 Abb.: ⟪सा⟫ ⟪पुत्रमादाय⟫ ⟪भारं⟫ ⟪बिभ्रती⟫ ⟪गच्छति⟫
 (Sursa da l’imagina: [Detagls](/rm/licenses#lekt3307))
 :::
-***⟪धा⟫*** 3U ***⟪दधाति⟫***: stabilir, fixar, distribuir
+**:sig[⟪धा⟫]** 3U **:sig[⟪दधाति⟫]**: stabilir, fixar, distribuir
 
 ::: indent
-**Fut.** ***⟪धास्यति⟫***  
-**Pass.** ***⟪धीयते⟫***  
-**Kaus.** ***⟪धापयति⟫***  
-**PPP** ***⟪हित⟫*** (!!)  
-**Inf.** ***⟪धातुम्⟫***
+**Fut.** **:sig[⟪धास्यति⟫]**  
+**Pass.** **:sig[⟪धीयते⟫]**  
+**Kaus.** **:sig[⟪धापयति⟫]**  
+**PPP** **:sig[⟪हित⟫]** (!!)  
+**Inf.** **:sig[⟪धातुम्⟫]**
 :::
-**⟪धा⟫** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: concentrar tutta l'attenzione su qualcosa, raccogliersi
+**:sig[⟪धा⟫]** + **⟪सम्⟫** + **⟪आ⟫** 3U **⟪समादधाति⟫**: concentrar tutta l'attenzione su qualcosa, raccogliersi
 
 ::: indent
 davon:
@@ -273,10 +273,10 @@ Abb.: ⟪समाधि⟫
 
 ::: indent
 Notar:
-3.pl.P ***⟪⟪पिपुरति⟫***  
-3.sg.Impf.P ***⟪⟪अपिपर्⟫*** (da: \*apipart)  
-3.pl.Impf.P ***⟪⟪अपिपरुर्⟫***  
-3.sg.Opt.P ***⟪⟪पिपूर्यात्⟫***
+3.pl.P ***⟪:sig[⟪पिपुरति⟫]***  
+3.sg.Impf.P ***⟪:sig[⟪अपिपर्⟫]*** (da: \*apipart)  
+3.pl.Impf.P ***⟪:sig[⟪अपिपरुर्⟫]***  
+3.sg.Opt.P ***⟪:sig[⟪पिपूर्यात्⟫]***
 
 **Futur.** ⟪परिष्यति⟫ / ⟪परीष्यति⟫  
 **Passiv.** ⟪पूर्यते⟫  

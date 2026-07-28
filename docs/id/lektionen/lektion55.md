@@ -39,11 +39,11 @@ Contoh:
 Irregular formations:
 
 ::: indent
-⟪अस्⟫ 4P "to throw": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (Explanation see Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P "to throw": ***:sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫]*** (Explanation see Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "to tell": ***⟪अख्यम्⟫, ⟪अख्यत्⟫***
+⟪ख्या⟫ + ⟪आ⟫ 2P "to tell": ***:sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]***
 
-⟪दृश्⟫ "to see": ***⟪अदर्शम्⟫, ⟪अदर्शत्⟫*** (Strong grade!)
+⟪दृश्⟫ "to see": ***:sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫]*** (Strong grade!)
 :::
 Note:
 
@@ -91,7 +91,7 @@ Note:
 ![](/images/lekt5501.webp)
 Fig.: ⟪अजीर्यमिति⟫
 'Inâyat Khân di tempat tidur kematiannya, sketsa untuk miniatur naskah untuk Jahângîr = جهانگير, kira-kira 1618
-(Sumber gambar: [Details](/en/licenses#lekt5501))
+(Sumber gambar: [Detail](/en/licenses#lekt5501))
 :::
 
 ::: deleteme-box

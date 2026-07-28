@@ -295,9 +295,7 @@ status: stable
 图：此处向哪位神祇献祭？答案：Gaṇeśa（Gaṇapati）= ⟪गणेश⟫ (⟪गणपति⟫)。Gaṇapatihoma（yajña）。
 （图片来源：[详情](/zh-CN/licenses#lekt0703)）
 :::
-9.这位圣人咀嚼的是什么？
-10.这些人（此处）压榨的是什么？
-11.他是老师。人们听从他（=他们听从他）。
-10.这些人（此处）压榨的是什么？
-11.他是老师。人们听从他（=他们听从他）。
+9. Was kaut dieser heilige Mann?
+10. Was pressen diese (hier) aus?
+11. Er ist der Lehrer. Auf ihn hört man (= hören sie).
 

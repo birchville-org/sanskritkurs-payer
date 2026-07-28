@@ -23,7 +23,7 @@ Dalam bahasa Sanskerta Klasik, bentuk sempurna hanya memiliki bentuk indikatif d
 :::
 ## 34.2. Perfek Reduplikasi (⟪द्वित्वलिट्⟫)
 
-### 34.2.1. Stammabstufung
+### 34.2.1. Batangabstufung
 
 ::: grammar-box
 **Formation:**
@@ -58,7 +58,7 @@ Dalam bahasa Sanskerta Klasik, bentuk sempurna hanya memiliki bentuk indikatif d
 ::: grammar-box
 **Vokal penghubung -i- selalu mendahului akhiran orang ketiga jamak -re, dan mendahului akhiran berawalan konsonan lainnya untuk sebagian besar akar.**
 :::
-### 34.2.4. Reduplikation konsonantisch anlautender Wurzeln
+### 34.2.4. Reduplikation konsonantisch anlautender Akarn
 
 ::: grammar-box
 **Untuk reduplikasi konsonan awal, aturan yang diberikan dalam [Pelajaran 33](lektion33.md) berlaku.**
@@ -75,9 +75,9 @@ Contoh:
 
 | Akar | 3. tg. Perf. P. |
 | :--- | :--- |
-| ⟪भिद्⟫ | ***⟪बि⟫***⟪भेद⟫ |
-| ⟪मुच्⟫ | ***⟪मु⟫***⟪मोच⟫ |
-| ⟪भृ⟫ | ***⟪ब⟫***⟪भार⟫ |
+| ⟪भिद्⟫ | **:sig[⟪बि⟫]**⟪भेद⟫ |
+| ⟪मुच्⟫ | **:sig[⟪मु⟫]**⟪मोच⟫ |
+| ⟪भृ⟫ | **:sig[⟪ब⟫]**⟪भार⟫ |
 
 :::
 ::: grammar-box
@@ -93,7 +93,7 @@ Contoh:
 | ⟪यज्⟫ | ⟪इयाज⟫:bri-yāj-a | ⟪ईजुर्⟫:bri + ij-ur |
 
 :::
-### 34.2.5. Reduplikation vokalisch anlautender Wurzeln
+### 34.2.5. Reduplikation vokalisch anlautender Akarn
 
 ::: grammar-box
 **1. Initial a-, ā- is reduplicated with a-, resulting in ā-.**
@@ -162,7 +162,7 @@ Contoh:
 | ⟪अश्⟫ | ⟪आनशे⟫:brunregelmässige Reduplikation! | ⟪आनशिरे⟫ |
 
 :::
-## 34.5. Perfekt Typ II: Starker Stamm Hochstufe, schwacher Stamm Tiefstufe
+## 34.5. Perfekt Typ II: Starker Batang Hochstufe, schwacher Batang Tiefstufe
 
 ::: grammar-box
 **Dibentuk dari akar dengan bentuk:**
@@ -195,7 +195,7 @@ Contoh:
 ![](/images/lekt3406.webp)
 Fig.: ⟪सस्यम्⟫
 Rice field in India.
-(Image source: [Details](/en/licenses#lekt3406))
+(Image source: [Detail](/en/licenses#lekt3406))
 :::
 **⟪यावत्⟫ :** how long, how great
 
@@ -209,7 +209,7 @@ Rice field in India.
 ![](/images/lekt3405.webp)
 Fig.: ⟪लक्षद्वीपाः⟫
 Lakshadweep Islands Map.
-(Image source: [Details](/en/licenses#lekt3405))
+(Image source: [Detail](/en/licenses#lekt3405))
 :::
 **⟪मर्त्य⟫ 3:** mortal (from **⟪मृ⟫**)
 
@@ -219,14 +219,14 @@ Lakshadweep Islands Map.
 ![](/images/lekt3403.webp)
 Fig.: ⟪तिलाः⟫
 Sesame seeds.
-(Image source: [Details](/en/licenses#lekt3403))
+(Image source: [Detail](/en/licenses#lekt3403))
 :::
 
 ::: media
 ![](/images/lekt3404.webp)
 Fig.: *Sesamum indicum* L.
 Sesame plant flowering.
-(Image source: [Details](/en/licenses#lekt3404))
+(Image source: [Detail](/en/licenses#lekt3404))
 :::
 **⟪स्वर्ण⟫ n.:** (beautifully colored =) gold
 
@@ -234,7 +234,7 @@ Sesame plant flowering.
 ![](/images/lekt3402.webp)
 Fig.: ⟪स्वर्णम्⟫
 Golden Temple (Harmandir Sahib), Amritsar.
-(Image source: [Details](/en/licenses#lekt3402))
+(Image source: [Detail](/en/licenses#lekt3402))
 :::
 **⟪निकेतन⟫ n.:** dwelling, temple
 
@@ -250,7 +250,7 @@ Golden Temple (Harmandir Sahib), Amritsar.
 ![](/images/lekt3401.webp)
 Fig.: ⟪ऋषभः⟫
 Nandi Bull statue, Chamundi Hills, Mysore.
-(Image source: [Details](/en/licenses#lekt3401))
+(Image source: [Detail](/en/licenses#lekt3401))
 :::
 **⟪यम्⟫ 1P ⟪यच्छति⟫ :** restrain, hold, offer, grant
 
@@ -300,14 +300,14 @@ Bentuklah bentuk sempurna yang sesuai dalam orang, jumlah, dan jenis untuk bentu
 
 Terjemahkan teks berikut dari ⟪पद्मपुराण⟩ mengenai hadiah kepada Brahmin:
 
-⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫***⟪त्तम⟫*** ⟪।⟫  
-⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫***⟪श्चतुर्दश⟫*** ⟪॥१॥⟫  
-***⟪सप्त⟫***⟪द्वीपां⟫ ⟪महीं⟫ ⟪दत्त्वा⟫ ⟪यत्पुण्यं⟫ ⟪प्राप्यते⟫ ⟪द्विज⟫ ⟪।⟫  
+⟪क्षितिं⟫ ⟪सशस्यां⟫ ⟪यो⟫ ⟪दद्याद्ब्राह्मणाय⟫ ⟪द्विजो⟫**:sig[⟪त्तम⟫]** ⟪।⟫  
+⟪विष्णुलोके⟫ ⟪सुखं⟫ ⟪भुङ्क्ते⟫ ⟪यावदिन्द्रा⟫**:sig[⟪श्चतुर्दश⟫]** ⟪॥१॥⟫  
+**:sig[⟪सप्त⟫]**⟪द्वीपां⟫ ⟪महीं⟫ ⟪दत्त्वा⟫ ⟪यत्पुण्यं⟫ ⟪प्राप्यते⟫ ⟪द्विज⟫ ⟪।⟫  
 ⟪तत्पुण्यं⟫ ⟪प्राप्नुयान्मर्त्यो⟫ ⟪धेनुं⟫ ⟪यच्छन्द्विजातये⟫ ⟪॥२॥⟫  
 ⟪तिलप्रमाणं⟫ ⟪स्वर्णं⟫ ⟪यो⟫ ⟪ब्राह्मणाय⟫ ⟪प्रयच्छति⟫ ⟪।⟫  
 ⟪हरिनिकेतनं⟫ ⟪याति⟫ ⟪युक्तं⟫ ⟪कोटिकुलैरपि⟫ ⟪॥३॥⟫  
 ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫  
-⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫  
+⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫**:sig[⟪र्जन्म⟫]** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫  
 ⟪अन्नं⟫ ⟪वारि⟫ ⟪द्विजश्रेष्ठ⟫ ⟪येन⟫ ⟪दत्तं⟫ ⟪महीतले⟫ ⟪।⟫  
 ⟪तेन⟫ ⟪दत्तानि⟫ ⟪दानानि⟫ ⟪सर्वाणि⟫ ⟪च⟫ ⟪द्विजर्षभ⟫ ⟪॥५॥⟫
 
@@ -318,7 +318,7 @@ Explanations:
 
 **⟪चतुर्दश⟫** fourteen
 
-**⟪सप्त⟫** seven
+**:sig[⟪सप्त⟫]** seven
 
 **⟪जन्म⟫** Nom./Acc. sg. of **⟪जन्मन्⟫** n. birth
 
@@ -326,9 +326,9 @@ Explanations:
 :::
 ::: media
 ![](/images/lekt3407.webp)
-Fig.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫***⟪र्जन्म⟫*** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
+Fig.: ⟪सालङ्कारां⟫ ⟪द्विजश्रेष्ठ⟫ ⟪कन्यां⟫ ⟪यच्छति⟫ ⟪यो⟫ ⟪नरः⟫ ⟪।⟫ ⟪स⟫ ⟪गच्छेद्ब्रह्मसदनं⟫ ⟪पुन⟫**:sig[⟪र्जन्म⟫]** ⟪न⟫ ⟪विद्यते⟫ ⟪॥४॥⟫
 Hindu wedding ritual.
-(Image source: [Details](/en/licenses#lekt3407))
+(Image source: [Detail](/en/licenses#lekt3407))
 :::
 
 ::: deleteme-box

@@ -243,7 +243,7 @@ Lüders, Heinrich \&lt;1869 - 1943\&gt;: Varuna / Heinrich Lüders. Toim. Ludwig
 ::: media
 ![](/images/lekt1003.webp)
 Kuva: ⟪वरुणः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1003))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1003))
 :::
 - **anṛta** n. ⟪अनृत⟫ : epätosi, valhe (vastakohta **satya**)
 
@@ -262,7 +262,7 @@ Näiden **ṛṣi**-nimet mainitaan Brāhmaṇa-kirjoissa sekä omassa luettelos
 ::: media
 ![](/images/lekt1002.jpg)
 Kuva: ⟪विश्वामित्रः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1002))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1002))
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : sanoa, puhua
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : kysyä (joku: Akk.; jostakin: Akk.)
@@ -324,7 +324,7 @@ Kuva: ⟪विश्वामित्रः⟫
 ::: media
 ![](/images/lekt1004.jpg)
 Kuva: ⟪तन्तुवायः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1004))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1004))
 :::
 5. Opettajat kysyvät. (Passiivilause)
 6. Silmä johtaa. (Passiivilause)

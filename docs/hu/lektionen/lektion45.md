@@ -91,12 +91,12 @@ pl. **⟪देव⟫, ⟪कवे⟫, ⟪शत्रो⟫, ⟪राजन�
 | mahānt s. | ⟪महत्⟫:br= alanyeset (nominativus) |
 | -mant/-vant végű hímneműek | ⟪गुणवन्⟫ |
 | -mant/-vant végű semlegesneműek | ⟪गुणवत्⟫:br= alanyeset (nominativus) |
-| Névmások | nem képződik megszólító eset (vocativus) |
+| Névmások | ein megszólító eset (vocativus) wird nicht gebildet |
 :::
 ::: media
 ![](/images/lekt4501.webp)
 Ábr.: ⟪भवति⟫ ⟪किं⟫ ⟪करोषि⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt4501))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt4501))
 :::
 ## 45.3. Szószedet
 
@@ -144,7 +144,7 @@ B) Fordítsa le:
 ::: media
 ![](/images/lekt4502.jpg)
 Ábr.: ⟪कन्ये⟫ ⟪किं⟫ ⟪लिखसि⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt4502))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt4502))
 :::
 
 ::: deleteme-box

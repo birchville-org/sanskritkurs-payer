@@ -51,11 +51,11 @@ Fig.: ⟪हस्तौ⟫
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | -os ||
 :::
 ::: grammar-box
-**Nei nomi con alternanza vocale della radice (stemma), il duale maschile/femminile del Nominativo, Accusativo e Vocativo presenta la forma forte della radice.**
+**Nei nomi con alternanza vocale della radice (stemma), il duale maschile/femminile del Nominativooo, Accusativo e Vocativo presenta la forma forte della radice.**
 :::
 ## 53.3. Il duale dei temi consonantici
 
-### 53.3.1. Stämme senza flessione di genere
+### 53.3.1. Parole senza flessione di genere
 
 ⟪सत्यवाच्⟫ 3 "che parla la verità"
 
@@ -111,7 +111,7 @@ Fig.: ⟪हस्तौ⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutro :br ⟪नपुंसक⟫ 
 | :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***⟪भरन्ती⟫ (!)*** 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪भरन्तौ⟫ | ***:sig[⟪भरन्ती⟫] (!)*** 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪भरद्भ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪भरतोस्⟫ ||
 :::
@@ -205,8 +205,8 @@ Fig.: ⟪भरन्तौ⟫
 |   | Maskulininum :br ⟪पुंस्⟫ | Neutro :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: |
 | **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪देवौ⟫ | ⟪फले⟫ |
-| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | *⟪देवाभ्याम्⟫* | *⟪फलाभ्याम्⟫* |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *⟪देवयोस्⟫* | *⟪फलयोस्⟫* |
+| **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | *:sig[⟪देवाभ्याम्⟫]* | *:sig[⟪फलाभ्याम्⟫]* |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *:sig[⟪देवयोस्⟫]* | *:sig[⟪फलयोस्⟫]* |
 :::
 ::: media
 ![](/images/lekt5306.webp)
@@ -222,7 +222,7 @@ Fig.: ⟪फले⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femminile :br ⟪स्त्री⟫ | Neutro :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *⟪अग्नी⟫* | *⟪मती⟫* | ⟪वारिणी⟫ |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *:sig[⟪अग्नी⟫]* | *:sig[⟪मती⟫]* | ⟪वारिणी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪अग्निभ्याम्⟫ | ⟪मतिभ्याम्⟫ | ⟪वारिभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪अग्न्योस्⟫ | ⟪मत्योस्⟫ | ⟪वारिणोस्⟫ |
 :::
@@ -235,13 +235,13 @@ Fig.: ⟪फले⟫
 ::: grammar-box
 |   | Maskulininum :br ⟪पुंस्⟫ | Femminile :br ⟪स्त्री⟫ | Neutro :br ⟪नपुंसक⟫ |
 | :---: | :---: | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *⟪शत्रू⟫* | *⟪धेनू⟫* | ⟪मधुनी⟫ |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *:sig[⟪शत्रू⟫]* | *:sig[⟪धेनू⟫]* | ⟪मधुनी⟫ |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪शत्रुभ्याम्⟫ | ⟪धेनुभ्याम्⟫ | ⟪मधुभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪शत्र्वोस्⟫ | ⟪धेन्वोस्⟫ | ⟪मधुनोस्⟫ |
 :::
 ::: media
 ![](/images/lekt5307.webp)
-Fig.: ⟪धेनू⟫
+Fig.: :sig[⟪धेनू⟫]
 (Fonte dell'immagine: [Dettagli](/it/licenses#lekt5307))
 :::
 **Temi in -ā**
@@ -251,9 +251,9 @@ Fig.: ⟪धेनू⟫
 ::: grammar-box
 |   | Femminile :br ⟪स्त्री⟫ |
 | :---: | :---: |
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *⟪कन्ये⟫* |
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | *:sig[⟪कन्ये⟫]* |
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪कन्याभ्याम्⟫ |
-| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *⟪कन्ययोस्⟫* |
+| **⟪षष्ठी⟫, ⟪सप्तमी⟫** | *:sig[⟪कन्ययोस्⟫]* |
 :::
 **Temi polisillabici in -ī**
 
@@ -273,7 +273,7 @@ Fig.: ⟪धेनू⟫
 ::: grammar-box
 |   | Maskulininum/Femminile :br ⟪पुंस्⟫/⟪स्त्री⟫ | Neutro :br ⟪नपुंसक⟫ 
 | :---: | :---: | :---: 
-| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | *⟪दातृणी⟫* 
+| **⟪प्रथमा⟫, ⟪द्वितीया⟫, ⟪आमन्त्रितम्⟫** | ⟪दातारौ⟫ | *:sig[⟪दातृणी⟫]* 
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪दातृभ्याम्⟫ ||
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪दात्रोस्⟫ ||
 :::
@@ -286,7 +286,7 @@ Fig.: ⟪धेनू⟫
 | **⟪तृतीया⟫, ⟪चतुर्थी⟫, ⟪पञ्चमी⟫** | ⟪पितृभ्याम्⟫ |
 | **⟪षष्ठी⟫, ⟪सप्तमी⟫** | ⟪पित्रोस्⟫ |
 :::
-## 53.5. Dualdvandva
+## 53.5. Dualeedvandva
 
 Esempi:
 
@@ -297,11 +297,11 @@ Esempi:
 **⟪शीतोष्णे⟫** "Freddo e caldo"
 :::
 ::: grammar-box
-**Quando due parole di parentela terminanti in -ṛ (o due sostantivi in -ṛ che indicano sacerdoti sacrificatori) vengono composti in un Dvandva, il primo membro appare nella forma del Nominativo Singolare:**
+**Quando due parole di parentela terminanti in -ṛ (o due sostantivi in -ṛ che indicano sacerdoti sacrificatori) vengono composti in un Dvandva, il primo membro appare nella forma del Nominativooo Singolare:**
 
 :::
 ::: indent
-⟪मा⟫***⟪ता⟫***⟪पितरौ⟫ "Madre e Padre"
+⟪मा⟫**:sig[⟪ता⟫]**⟪पितरौ⟫ "Madre e Padre"
 :::
 **Lo stesso avviene con una tale parola di parentela in un Dvandva prima di -⟪पुत्र⟫:**
 
@@ -311,7 +311,7 @@ Esempi:
 **Quando i nomi di due divinità, comunemente invocate nei sacrifici, formano un Dvandva, la vocale finale del primo membro viene solitamente allungata:**
 
 ::: indent
-⟪मि⟫***⟪त्रा⟫***⟪वरुणौ⟫ "Mitra e Varuṇa"
+⟪मि⟫**:sig[⟪त्रा⟫]**⟪वरुणौ⟫ "Mitra e Varuṇa"
 **⟪अग्नीसोमौ⟫** "Agni e Soma"
 :::
 **Questo allungamento vocale si verifica anche in altri Dvandva.**
@@ -350,11 +350,11 @@ I seguenti aggettivi pronominali vengono declinati in tutti i casi come **⟪य
 *   **⟪अन्यतर⟫** 3 "uno dei due"
 *   **⟪इतर⟫** 3 "l'altro"
 
-*   **⟪सर्व⟫** 3 "ogni, tutto" viene declinato in tutti i casi tranne il Nominativo/Accusativo singolare neutro (**⟪सर्वम्⟫**) come **⟪यद्⟫**.
+*   **⟪सर्व⟫** 3 "ogni, tutto" viene declinato in tutti i casi tranne il Nominativooo/Accusativo singolare neutro (**⟪सर्वम्⟫**) come **⟪यद्⟫**.
 *   **⟪उभय⟫** 3 "entrambi" non ha il duale. Al singolare e al plurale, maschile e neutro, viene declinato come **⟪सर्व⟫**. Femminile: **⟪उभयी⟫** (come **⟪देवी⟫**).
 *   **⟪उभ⟫** 3 "entrambi" viene usato solo nel duale e viene declinato come **⟪देव⟫** m., **⟪फल⟫** n. oppure **⟪देवता⟫** f.
 
-I seguenti aggettivi pronominali vengono declinati come **⟪सर्व⟫**. Nell'Ablativo/Locativo singolare maschile/neutro, nonché nel Nominativo plurale, possono essere declinati secondo la declinazione in **-a-** o **-ā-**:
+I seguenti aggettivi pronominali vengono declinati come **⟪सर्व⟫**. Nell'Ablativooo/Locativo singolare maschile/neutro, nonché nel Nominativooo plurale, possono essere declinati secondo la declinazione in **-a-** o **-ā-**:
 
 *   **⟪अपर⟫** 3 "un altro"
 *   **⟪उत्तर⟫** 3 "il superiore, il settentrionale, il successivo"
@@ -394,8 +394,8 @@ Esempi:
 ::: grammar-box
 | Aggettivo | Comparativo | Superlativo |
 | --- | --- 
-| ⟪पाप⟫ 3 "cattivo" | ⟪पा⟫*⟪पी⟫*⟪यस्⟫ | ⟪पा⟫*⟪पि⟫*⟪ष्ठ⟫ |
-| ⟪महान्त्⟫ 3 "grande" | ⟪म⟫*⟪ही⟫*⟪यस्⟫ | ⟪म⟫*⟪हि⟫*⟪ष्ठ⟫ |
+| ⟪पाप⟫ 3 "cattivo" | ⟪पा⟫*:sig[⟪पी⟫]*⟪यस्⟫ | ⟪पा⟫*:sig[⟪पि⟫]*⟪ष्ठ⟫ |
+| ⟪महान्त्⟫ 3 "grande" | ⟪म⟫*:sig[⟪ही⟫]*⟪यस्⟫ | ⟪म⟫*:sig[⟪हि⟫]*⟪ष्ठ⟫ |
 :::
 ::: grammar-box
 **Regola 2:** **I suffissi possessivi (-mant, vant, -vin, -in e simili) vengono eliminati. Se la parte restante consiste di una sola sillaba, essa non viene ulteriormente modificata; vengono annullate solo le alterazioni fonetiche dovute alla combinazione con il suffisso possessivo. Se la parte restante consiste di più di una sillaba, si applica la Regola 1.**
@@ -405,9 +405,9 @@ Esempi:
 ::: grammar-box
 | Aggettivo | Comparativo | Superlativo |
 | --- | --- 
-| ⟪धनवन्त्⟫ 3 "ricco" | ⟪ध⟫*⟪नी⟫*⟪यस्⟫ | ⟪ध⟫*⟪नि⟫*⟪ष्ठ⟫ |
-| ⟪बलिन्⟫ 3 "(specialmente) forte" | ⟪ब⟫*⟪ली⟫*⟪यस्⟫ | ⟪ब⟫*⟪लि⟫*⟪ष्ठ⟫ |
-| ⟪वसुमन्त्⟫ "possessore di beni" | ⟪व⟫*⟪सी⟫*⟪यस्⟫ | ⟪व⟫*⟪सि⟫*⟪ष्ठ⟫ |
+| ⟪धनवन्त्⟫ 3 "ricco" | ⟪ध⟫*:sig[⟪नी⟫]*⟪यस्⟫ | ⟪ध⟫*:sig[⟪नि⟫]*⟪ष्ठ⟫ |
+| ⟪बलिन्⟫ 3 "(specialmente) forte" | ⟪ब⟫*:sig[⟪ली⟫]*⟪यस्⟫ | ⟪ब⟫*:sig[⟪लि⟫]*⟪ष्ठ⟫ |
+| ⟪वसुमन्त्⟫ "possessore di beni" | ⟪व⟫*:sig[⟪सी⟫]*⟪यस्⟫ | ⟪व⟫*:sig[⟪सि⟫]*⟪ष्ठ⟫ |
 :::
 ::: grammar-box
 **Regola 3:** **Per -ṛ-, preceduto da una vocale iniziale e seguito da un solo consonante, si sostituisce -ra-.**
@@ -473,7 +473,7 @@ Fig.: ⟪द्राघीयो⟫ ⟪लिङ्गम्⟫
 | ⟪पञ्चमी⟫ | ⟪गरीयसस्⟫ || ^^ || ^^ ||
 | ⟪षष्ठी⟫ | ⟪गरीयसस्⟫ || ⟪गरीयसोस्⟫ || ⟪गरीयसाम्⟫ ||
 | ⟪सप्तमी⟫ | ⟪गरीयसि⟫ || ^^ || ⟪गरीयस्सु⟫ ||
-| ⟪आमन्त्रितम्⟫ | *⟪गरीयान्⟫* | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
+| ⟪आमन्त्रितम्⟫ | *:sig[⟪गरीयान्⟫]* | ⟪गरीयस्⟫ | ⟪गरीयांसौ⟫ | ⟪गरीयसी⟫ | ⟪गरीयांसस्⟫ | ⟪गरीयांसि⟫ |
 :::
 ## 53.10. Metrica (Dottrina delle misure versali)
 

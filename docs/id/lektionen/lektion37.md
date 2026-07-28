@@ -9,152 +9,152 @@ status: stable
 
 # Pelajaran 37
 
-## 37.1. Adverbia (⟪क्रियाविशेषणम्⟫)
+## 37.1. Kata Keterangan (⟪क्रियाविशेषणम्⟫)
 
-Adverbs are formed in Sanskrit
+Kata keterangan dalam bahasa Sanskerta dibentuk
 
-1.  melalui bentuk kasus kata benda dan kata ganti
-2.  dengan bantuan akhiran dan imbuhan khusus
+1.  melalui bentuk kasus dari nomina dan pronomina
+2.  dengan bantuan sufiks dan akhiran khusus
 
-Dalam kasus pertama, batas antara kasus hidup dan kata keterangan bersifat cair. Ini mencakup sebagai kasus khusus kata-kata keterangan yang memfosil, bentuk-bentuk lama dari kasus, sementara dalam deklinasi digunakan bentuk lain atau kata benda yang sesuai tidak lagi digunakan sebagai kata benda.
+Dalam kasus pertama, batas antara kasus hidup (living case) dan adverba bersifat cair. Termasuk di dalamnya sebagai kasus khusus adalah adverbia, yang merupakan bentuk kasus kuno yang telah membeku (fossilized), sementara dalam deklinasi digunakan bentuk-bentuk lain atau nomina yang bersangkutan tidak lagi digunakan sebagai nomina.
 
-## 37.2. Penggunaan Adverbial dari Bentuk-Bentuk Kasus
+## 37.2. Penggunaan Kasus sebagai Adverbia
 
-### 37.2.1. Akkusativ (⟪द्वितीया⟫)
+### 37.2.1. Akusatif (⟪द्वितीया⟫)
 
 ::: grammar-box
-Akusatif (⟪द्वितीया⟫) dapat digunakan secara adverbia sebagai respons terhadap pertanyaan:
+Kasus akusatif (⟪द्वितीया⟫) dapat digunakan secara adverbiaal untuk pertanyaan-pertanyaan berikut:
 
-*   in what manner?
-*   how long?
-*   to where?
-*   etc.
+*   dengan cara bagaimana?
+*   berapa lama?
+*   ke mana?
+*   dan lain-lain.
 
-The accusative can be used adverbially:
+Kasus akusatif dapat digunakan sebagai adverbia:
 
-*   dengan kata benda  
-Contoh:  
-⟪कामम्⟫ "sesuai keinginan, menurut kehendak"  
-⟪अर्थम्⟫ "karena"  
+*   dari kata benda
+Contoh:
+⟪कामम्⟫ "sesuai keinginan, sesuai kehendak"
+⟪अर्थम्⟫ "karena"
 
-*   dengan kata sifat netral  
-Contoh:  
-⟪सुखम्⟫ "dengan mudah, dengan bahagia"  
-⟪नित्यम्⟫ "selalu"  
-⟪साधु⟫ "dengan benar, dengan baik"  
+*   dari kata sifat dalam bentuk neutrum
+Contoh:
+⟪सुखम्⟫ "mudah, bahagia"
+⟪नित्यम्⟫ "selalu"
+⟪साधु⟫ "benar, baik"
 
-*   dengan kata ganti netral  
-Contoh:  
-⟪तद्⟫ "kemudian, oleh karena itu"  
-⟪यद्⟫ "jika, bahwa"  
-⟪एतद्⟫ "demikian, di sini, sekarang"
+*   dari kata ganti dalam bentuk neutrum
+Contoh:
+⟪तद्⟫ "kemudian, oleh karena itu"
+⟪यद्⟫ "jika, bahwa"
+⟪एतद्⟫ "begitu, di sini, sekarang"
 :::
-### 37.2.2. Instrumentalis (⟪तृतीया⟫)
+### 37.2.2. Instrumental (⟪तृतीया⟫)
 
 ::: grammar-box
-Kasus Aletif (⟪तृतीया⟫) dapat digunakan secara adverbial sebagai respons terhadap pertanyaan:
+Instrumental (⟪तृतीया⟫) dapat digunakan secara adverbiaal untuk menjawab pertanyaan:
 
-*   by what means?
-*   with what?
-*   etc.
+*   dengan apa?
+*   oleh apa?
+*   dan lain-lain.
 
-The Instrumental can be used adverbially:
+Kasus alat (Instrumental) dapat digunakan sebagai adverbia:
 
-*   dengan kata benda  
-Contoh:  
-⟪अर्थेन⟫ "karena"  
-⟪क्षणेन⟫ "pada saat ini, segera" (dari ⟪क्षण⟫ m. "saat")  
+*   dari kata benda
+Contoh:
+⟪अर्थेन⟫ "karena"
+⟪क्षणेन⟫ "pada saat itu, segera" (dari ⟪क्षण⟫ m. "saat")
 
-*   dengan kata sifat, sering juga dalam bentuk jamak  
-Contoh:  
-⟪दूरेण⟫ "jauh, dari jauh" (terkait dengan ⟪दूर⟫ 3 "jauh, jauh dari")  
-⟪उच्चैस्⟫ "tinggi, keras" (terkait dengan ⟪उच्च⟫ 3 "tinggi, tinggi, keras, nyaring (suara)")
+*   dari kata sifat, sering juga dalam bentuk jamak
+Contoh:
+⟪दूरेण⟫ "jauh, dari jauh" (terkait ⟪दूर⟫ 3 "jauh, jauh dari")
+⟪उच्चैस्⟫ "tinggi, keras" (terkait ⟪उच्च⟫ 3 "tinggi, meningkat, keras, nyaring (dari suara)")
 :::
-### 37.2.3. Dativ (⟪चतुर्थी⟫)
+### 37.2.3. Datif (⟪चतुर्थी⟫)
 
 ::: grammar-box
-Jaranglah kasus datif (⟪चतुर्थी⟫) digunakan secara adverbia sebagai respons terhadap pertanyaan:
+Jarang kasus datif (⟪चतुर्थी⟫) digunakan secara adverbiaal untuk pertanyaan:
 
-*   for what purpose?
-*   etc.
+*   untuk tujuan apa?
+*   dan lain-lain.
 
 Contoh:
 :::
 ::: indent
 ⟪अर्थाय⟫ "untuk tujuan, demi ..."
 :::
-### 37.2.4. Ablativ (⟪पञ्चमी⟫)
+### 37.2.4. Ablatif (⟪पञ्चमी⟫)
 
 ::: grammar-box
-Ablatif (⟪पञ्चमी⟫) dapat digunakan secara adverbia sebagai respons terhadap pertanyaan:
+Ablatif (⟪पञ्चमी⟫) dapat digunakan secara adverbiaal untuk pertanyaan:
 
-*   why?
-*   on account of what?
-*   from where?
-*   etc.
+*   mengapa?
+*   berdasarkan apa?
+*   dari mana?
+*   dan lain-lain.
 
-The Ablative can be used adverbially:
+Kasus ablatis dapat digunakan sebagai adverbia:
 
-*   dengan kata benda  
-misalnya ⟪बलात्⟫ "secara paksa, dengan kekuatan"  
+*   dari kata benda
+mis. ⟪बलात्⟫ "dengan kekerasan, secara paksa"
 
-*   dengan kata sifat  
-misalnya ⟪दूरात्⟫ "dari jauh"  
+*   dari kata sifat
+mis. ⟪दूरात्⟫ "dari jauh"
 
-*   dengan kata ganti  
-Contoh:  
-⟪कस्मात्⟫ "mengapa"  
+*   dari kata ganti
+Contoh:
+⟪कस्मात्⟫ "mengapa"
 ⟪अकस्मात्⟫ "secara tak terduga"
 :::
-### 37.2.5. Genetiv (⟪षष्ठी⟫)
+### 37.2.5. Genetif (⟪षष्ठी⟫)
 
 ::: grammar-box
-Jaranglah kasus genitif (⟪षष्ठी⟫) digunakan secara adverbial untuk menanyakan "setelah berapa lama?"
+Jarang digunakan genitif (⟪षष्ठी⟫) secara adverbiaal untuk pertanyaan "setelah berapa lama?"
 
-e.g. ⟪चिरस्य⟫ "after a long time" (to ⟪चिर⟫ 3 "long (time)")
+mis. ⟪चिरस्य⟫ "setelah waktu yang lama" (ke ⟪चिर⟫ 3 "lama (waktu)")
 :::
-### 37.2.6. Lokativ (⟪सप्तमी⟫)
+### 37.2.6. Lokatif (⟪सप्तमी⟫)
 
 ::: grammar-box
-Lokatif (⟪सप्तमी⟫) dapat digunakan secara adverbia sebagai respons terhadap pertanyaan:
+Lokatif (⟪सप्तमी⟫) dapat digunakan secara adverbiaal pada pertanyaan-pertanyaan:
 
-*   where?
-*   under what circumstances?
-*   etc.
+*   di mana?
+*   dalam keadaan apa?
+*   dan lain-lain.
 
-Contoh:
+Contoh-contoh:
 :::
 ::: indent
-\-⟪अर्थे⟫ "karena"  
-\-⟪कृते⟫ "untuk kepentingan"  
+\-⟪अर्थे⟫ "karena"
+\-⟪कृते⟫ "demi"
 ⟪दूरे⟫ "jauh"
 :::
-## 37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusformen
+## 37.3. Penggunaan adverbiaal dari bentuk kasus yang tidak lagi lazim
 
-Examples:
+Contoh:
 ::: indent
-⟪जातु⟫ "at all" (originally "by birth, by nature", acc.sg.n. to ⟪जातु⟫ \&lt;no longer used as a noun\&gt;)
+⟪जातु⟫ "sama sekali" (asalnya "dari lahir, secara alami", Ak.sg.n. dari ⟪जातु⟫ \<tidak lagi digunakan sebagai kata benda\>)
 
-⟪तूष्णीम्⟫ "silently" (acc.sg. to a no longer common ⟪तूष्णी⟫ f. "silence")
+⟪तूष्णीम्⟫ "diam-diam" (Akk.sg. dari sebuah ⟪तूष्णी⟫ f. "kebisuan" yang tidak lagi digunakan)
 
-⟪एवम्⟫ "demikian" (terhadap batang kata ganti yang hilang ⟪एव⟫ "satu, tunggal")
+⟪एवम्⟫ "begitu" (dari sebuah akar pronominal yang umumnya telah hilang ⟪एव⟫ "satu, satu-satunya")
 :::
-## 37.4. Pembentukan adverbia dengan sufiks adverbial
+## 37.4. Pembentukan Kata Keterangan dengan Akhiran Adverbial
 
 ::: grammar-box
-Dari batang kata ganti ⟪तद्⟫, ⟪इदम्⟫ dan masing-masing ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ dan masing-masing ⟪कु⟫, dapat diturunkan kata keterangan ganti yang sesuai dengan akhiran kata keterangan
+Dari akar pronominal ⟪तद्⟫, ⟪इदम्⟫ atau ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ atau ⟪कु⟫, Anda dapat dengan akhiran adverbial
 
-*   \-⟪तस्⟫ (Ablative)
-*   \-⟪त्र⟫ (Locative)
-*   \-⟪था⟫ (Manner)
-*   \-⟪थम्⟫ (Manner)
-*   \-⟪दा⟫ (Time)
+*   \-⟪तस्⟫ (Ablatif)
+*   \-⟪त्र⟫ (Lokatif)
+*   \-⟪था⟫ (Cara)
+*   \-⟪थम्⟫ (Cara)
+*   \-⟪दा⟫ (Waktu)
 
-accordingly.
+menurunkan kata ganti adverbia yang sesuai.
 :::
 ::: grammar-box
 
-| Akhiran | Batang Pronominal | | | |
+| Suffix | Pokok Kata Ganti | | | |
 | :--- | :--- | :--- | :--- | :--- |
 | | ⟪तद्⟫ | ⟪इदम्⟫ :br **⟪अ⟫-** | ⟪यद्⟫ | ⟪किम्⟫ :br **⟪कु⟫-** |
 | **-⟪तस्⟫** :br(Ablatif) | ⟪ततस्⟫ :brvon da, darauf, deshalb | ⟪इतस्⟫ :br ⟪अतस्⟫ :brvon hier, dieserhalb | ⟪यतस्⟫ :brwoher, wovon | ⟪कुतस्⟫ :brwoher?, weshalb? |
@@ -165,153 +165,153 @@ accordingly.
 
 :::
 ::: grammar-box
-Another interrogative adverb is: ⟪क्व⟫ "where?"
+Sebuah kata tanya adverbia lainnya adalah: ⟪क्व⟫ "di mana?"
 :::
 ::: media
 ![lekt3701.jpg](/images/lekt3701.webp)
-Fig.: ⟪क्व⟫
-(Image source: [Details](/en/licenses#lekt3701))
+Ilm.: ⟪क्व⟫
+(Sumber gambar: [Rincian](/licenses#lekt3701))
 :::
 
 ::: grammar-box
 
-**Further Adverbial Suffixes**
+**Adverbiale Suffix Lainnya**
 
-| Akhiran | |
+| Sufiks | |
 | :--- | :--- |
 | **-⟪वत्⟫** | kann an beliebige Nomina angehängt werden, um auszudrücken "nach Art von, gleich wie":brz.B. ⟪पुत्रवत्⟫ "wie ein(en) Sohn" |
 | **-⟪तस्⟫** | an Nomina und Pronomina. Meist ablativische Bedeutung "woher?", aber auch "wo?", "wohin?":brz.B. ⟪आदितस्⟫ "von Anfang an" |
 | **-⟪धा⟫** | 1. Bei Zahladverbien in der Bedeutung "-fach", "-fältig":brz.B. ⟪द्विधा⟫ "zweifach":br2. in der Bedeutung "in der und der Weise":brz.B. ⟪समधा⟫ "in gleicher Weise" (zu ⟪सम⟫ 3 "gleich") |
 
 :::
-## 37.5. Adverbiale Komposita
+## 37.5. Komposita Adverbia
 
-### 37.5.1. Kata Majemuk dengan Adverbia atau Kasus yang Berfungsi Adverbial sebagai Anggota Akhir
+### 37.5.1. Komposita dengan Adverb atau Kasus yang Dipakai sebagai Adverb sebagai Komponen Belakang
 
-Example: ⟪सुचिरम्⟫ "very long (time)"
+Contoh: ⟪सुचिरम्⟫ "sangat lama (waktu)"
 
-### 37.5.2. Adverbial gebrauchte ⟪बहुव्रीहि⟫
+### 37.5.2. ⟪बहुव्रीहि⟫ yang digunakan sebagai adverbia
 
-Contoh: ⟪रक्षार्थम्⟫ "dengan cara seseorang yang tujuannya adalah perlindungan, untuk tujuan perlindungan". Ini juga dapat dianggap sebagai bagian dari 5.1.: -⟪अर्थम्⟫ sebagai anggota kedua adverbial.
+Contoh: ⟪रक्षार्थम्⟫ "dalam jenis seseorang, yang tujuannya adalah perlindungan, untuk tujuan perlindungan". Juga dapat dianggap sebagai bagian dari 5.1.: -⟪अर्थम्⟫ sebagai komponen adverbia belakang.
 
-### 37.5.3. ⟪अव्ययीभाव⟫-Komposita
+### 37.5.3. Komposita ⟪अव्ययीभाव⟫
 
-⟪अव्ययीभाव⟫ = "become unchangeable/indeclinable"
+⟪अव्ययीभाव⟫ = "tidak berubah/tidak dapat dideklinasikan"
 
 ::: grammar-box
-An ⟪अव्ययीभाव⟫ adalah majemuk adverbia yang anggota pertamanya adalah kata takterbuai (postposisi, partikel, dll.) dan anggota keduanya adalah kata benda yang mengambil akhiran akusatif tunggal neuter.
+Sebuah ⟪अव्ययीभाव⟫ adalah kompositum adverbia di mana bagian depannya adalah indeklinable (postposisi, partikel, dll.) dan bagian belakangnya adalah kata benda yang mengambil akhiran Akusatif Tunggal Netral.
 
-Saat menyelesaikan majemuk tersebut, anggota pertama akan menguasai anggota kedua:
+Dalam resolusi kompositum, bagian depan akan mengatur bagian belakang:
 
-Examples:
+Contoh-contoh:
 :::
 ::: indent
-⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "against the fire"
+⟪प्रत्यग्नि⟫ = ⟪अग्निं⟫ ⟪प्रति⟫ = "terhadap api"
 
-⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "seoptimal mungkin"
+⟪यथाशक्ति⟫ = ⟪शक्तिमनतिक्रम्य⟫ = "menurut kekuatan"
 
-⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "maju, ke arah"
+⟪अभिमुखम्⟫ = ⟪मुखम्⟫ ⟪अभि⟫ = "ke depan, menuju"
 :::
-Sangat penting adalah ⟪अव्ययीभाव⟫ dengan ⟪यथा⟫ "sebagai" sebagai anggota pertama:
+Yang sangat penting adalah ⟪अव्ययीभाव⟫ dengan ⟪यथा⟫ "seperti" sebagai komponen depan:
 
-mis. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "sesuai keinginan, menurut keinginan, sewenang-wenang"
+mis. ⟪यथाकामम्⟫ = ⟪कामो⟫ ⟪यथास्ति⟫ = "sesuai keinginan, sesuai kehendak, sewenang-wenang"
 ::: media
 ![lekt3702.jpg](/images/lekt3702.webp)
-Fig.: ⟪यथाशक्ति⟫
-(Sumber gambar: [Details](/en/licenses#lekt3702))
+Ilustr.: ⟪यथाशक्ति⟫
+(Sumber gambar: [Detail](/licenses#lekt3702))
 :::
-## 37.6. Syntaktisches
+## 37.6. Sintaksis
 
 ::: grammar-box
-With the verbs
+Pada kata kerja
 
-*   ⟪अस्⟫ 2P "to be"
+*   ⟪अस्⟫ 2P "ada"
 *   ⟪भू⟫ 1P
 *   ⟪कृ⟫ 8U
 
-a predicative adverb may stand instead of a predicative adjective:
+alih-alih kata sifat predikatif, dapat berdiri adverbia predikatif:
 
-e.g. ⟪तूष्णीं⟫ ⟪बभूव⟫ "he became silent, he fell silent"
+mis. ⟪तूष्णीं⟫ ⟪बभूव⟫ "ia menjadi diam, ia terdiam"
 :::
 ::: media
 ![lekt3703.jpg](/images/lekt3703.webp)
-Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
-(Image source: [Details](/en/licenses#lekt3703))
+Ilustrasi: ⟪तूष्णीं⟫ ⟪बभूवुः⟫
+(Sumber gambar: [Rincian](/licenses#lekt3703))
 :::
-## 37.7. Indefinitpronomina
+## 37.7. Kata Ganti Tak Tentu
 
 ::: grammar-box
-Kata ganti tak tentu (unbestimmte Fürwörter) dibentuk dengan menambahkan
+Kata ganti tak tentu (kata ganti tidak tertentu) dibentuk dengan menambahkan
 
 *   \-⟪चिद्⟫
 *   \-⟪चन⟫
 *   ⟪अपि⟫
 
-pada kasus-kasus kata tanya ⟪किम्⟫.
+dibentuk dari kasus kata ganti tanya ⟪किम्⟫.
 
-e.g.
+mis.,
 :::
 ::: indent
-⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "someone, anyone"  
-⟪कस्यचिद्⟫ = someone's
+⟪कश्चिद्⟫ = ⟪कश्चन⟫ = ⟪को⟫ ⟪ऽपि⟫ = "seseorang, siapa pun"
+⟪कस्यचिद्⟫ = milik seseorang
 :::
 ## 37.8. Kalimat Tanya
 
 ::: grammar-box
-"Who?, how?, what?, why?  
-He who does not ask remains stupid."
+"Siapa?, bagaimana?, apa?, mengapa? kenapa? untuk apa?
+Siapa yang tidak bertanya tetap bodoh."
 
 ⟪कः⟫ ⟪कथं⟫ ⟪किं⟫  
 ⟪केन⟫ ⟪कस्मात्कस्मै⟫ ⟪।⟫  
 ⟪यो⟫ ⟪न⟫ ⟪पृच्छेन्⟫  
 ⟪मूर्खस्तिष्ठेत्⟫ ⟪॥⟫
 
-Motto Jalan Sesame, yang merupakan pedoman baik untuk kehidupan dan untuk studi Sanskerta
+Motto Sesame Street, yang merupakan pedoman baik untuk kehidupan dan studi Sanskerta
 :::
 Lihat juga [Pelajaran 4](lektion04.md).
 
-One must distinguish
+Harus dibedakan
 
-*   Word questions (Wh-questions)
-*   Sentence questions
+*   Pertanyaan kata (pertanyaan pelengkap)
+*   Pertanyaan kalimat
 
-In word questions, one asks about an agent (⟪कर्तृ⟫), an object, an activity, a circumstance, etc., e.g.
+Dalam pertanyaan kata, ditanyakan mengenai agen (⟪कर्तृ⟩), objek, aktivitas, keadaan, dll., misalnya
 
-*   who comes?
-*   what does Rāma do?
-*   whom does he hear?
-*   how does she speak Sanskrit?
-*   where is the mother?
+*   siapa yang datang?
+*   apa yang dilakukan Rāma?
+*   siapa yang didengarnya?
+*   bagaimana dia berbicara bahasa Sanskerta?
+*   di mana ibunya?
 
-Dalam kalimat tanya, seluruh isi kalimat ditanyakan, misalnya
+Dalam pertanyaan kalimat, seluruh isi kalimat ditanyakan, misalnya
 
 *   apakah Rāma pergi ke Ofterdingen hari ini?
-*   apakah benar bahwa ... ?
+*   benarkah bahwa ... ?
 
 ### 37.8.1. Pertanyaan Kata (Pertanyaan Pelengkap)
 
 ::: grammar-box
-Schema:
+Skema:
 
-Interrogative pronoun/interrogative adverb - sentence
+Kata tanya/Kata keterangan pertanyaan - Kalimat
 :::
-Examples:
+Contoh:
 ::: indent
-⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Who goes to the village?"
+⟪को⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ =  ⟪केन⟫ ⟪ग्रामो⟫ ⟪गम्यते⟫ = "Siapa yang pergi ke desa?"
 
-⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "What should children learn?"
+⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫ = "Apa yang harus dipelajari anak-anak?"
 
-⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Where does Rāma live?
+⟪क्व⟫ ⟪रामो⟫ ⟪वसति⟫ = Di mana Rāma tinggal?
 :::
 ::: media
 ![lekt3704.jpg](/images/lekt3704.webp)
-Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
-(Image source: [Details](/en/licenses#lekt3704))
+Ilm.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫
+(Sumber gambar: [Detail](/licenses#lekt3704))
 :::
-### 37.8.2. Pertanyaan Kalimat
+### 37.8.2. Kalimat tanya
 
 ::: grammar-box
-Terkadang hanya dari konteksnya saja terlihat apakah sebuah kalimat adalah kalimat interogatif.
+Terkadang hanya dari konteksnya dapat diketahui apakah sebuah kalimat adalah kalimat tanya.
 :::
 ::: grammar-box
 Skema I:
@@ -320,65 +320,65 @@ Kata kerja - sisa kalimat
 :::
 Contoh:
 ::: indent
-⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Apakah anak Brāhmaṇa akan pergi untuk menjadi guru?"
+⟪गमिष्यति⟫ ⟪ब्राह्मणबालो⟫ ⟪गुरुम्⟫ ⟪।⟫ "Apakah anak brahmana itu akan pergi menjadi seorang guru?"
 :::
 ::: grammar-box
 Skema II:
 
-Partikel interogatif (biasanya di awal kalimat) - kalimat
+Partikel tanya (biasanya di awal kalimat) - kalimat
 
-The most important interrogative particles are:
+Partikel pertanyaan yang paling penting adalah:
 
 *   ⟪अपि⟫
 
-*   ⟪किम्⟫ (often suggests a negative answer)
+*   ⟪किम्⟫ (sering kali menimbulkan harapan akan jawaban negatif)
 
 *   ⟪कच्चिद्⟫
 
-Partikel-partikel ini sesuai dengan tanda tanya.
+Partikel ini sesuai dengan tanda tanya.
 :::
 Contoh:
 ::: indent
 ⟪अपि⟫ ⟪सत्यम्⟫ ⟪।⟫ "Apakah itu juga benar?"
 
-⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Can he, then?"
+⟪किं⟫ ⟪शक्नोति⟫ ⟪।⟫ "Bisakah dia?"
 
-⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Mungkinkah ksatria telah mengalahkan musuh-musuh?"
+⟪कच्चित्क्षत्रियेण⟫ ⟪शत्रवो⟫ ⟪जिताः⟫ ⟪।⟫ "Apakah ksatria telah mengalahkan musuh-musuhnya?"
 :::
-Catatan: ⟪किम्⟫ dapat berarti, selain "apa?" dan sebagai partikel interogatif, juga "mengapa?, untuk tujuan apa?". Jadi terutama dengan kasus instrumental (⟪तृतीया⟩):
+Catatan: ⟪किम्⟫ dapat, selain "apa?" dan sebagai partikel tanya, juga berarti "mengapa?, untuk apa?". Terutama dengan instrumental (⟪तृतीया⟫):
 ::: indent
-⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "Untuk tujuan apa kemarahan? Apa gunanya kemarahan? Apa tujuan dari kemarahan?"
+⟪किं⟫ ⟪क्रोधेन⟫ ⟪।⟫ "Untuk apa amarah? Apa gunanya amarah? Apa tujuan amarah?"
 :::
 ## 37.9. Daftar Kata
 
-⟪मूर्ख⟫ 3: stupid, foolish, dumb m. fool
+⟪मूर्ख⟫ 3: bodoh, dungu, tolol m. orang bodoh
 
-⟪मुनि⟫ m.: sage, (silent) ascetic
+⟪मुनि⟫ m.: orang bijaksana, (pertapa) pendiam
 
 ::: indent
-⟪शाक्यमुनि⟫ m.: pertapa dari garis keturunan ⟪शाक्य⟫ (Kṣatriyas dari ⟪कपिलवस्तु⟫) = Buddha Gautama
+⟪शाक्यमुनि⟫ m.: pertapa dari klan ⟪शाक्य⟫ (ksatria dari ⟪कपिलवस्तु⟫) = Buddha Gautama
 :::
 ::: media
 ![lekt3705.jpg](/images/lekt3705.jpg)
-Fig.: ⟪शाक्यमुनिः⟫
-(Sumber gambar: [Details](/en/licenses#lekt3705))
+Ilustr.: ⟪शाक्यमुनिः⟫
+(Sumber gambar: [Detail](/licenses#lekt3705))
 :::
 ⟪दिन⟫ n.: hari
 
-⟪वृक्ष⟫ m.: tree
+⟪वृक्ष⟫ m.: pohon
 
 ::: media
 ![lekt3706.jpg](/images/lekt3706.webp)
-Fig.: ⟪वृक्षः⟫
-(Image source: [Details](/en/licenses#lekt3706))
+Ilustr.: ⟪वृक्षः⟫
+(Sumber gambar: [Detail](/licenses#lekt3706))
 :::
-⟪मुख⟫ n.: mouth, face, front part, beginning
+⟪मुख⟫ n.: mulut, wajah, bagian depan, awal
 
 ## 37.10. Latihan
 
-[A] Jawab pertanyaan-pertanyaan berikut dalam bahasa Sanskerta menggunakan kata-kata yang ditentukan dalam tanda kurung. Terjemahkan kalimat pertanyaan tersebut.
+A) Jawablah pertanyaan berikut dalam bahasa Sanskerta dengan menggunakan kata-kata yang ditunjukkan dalam kurung. Terjemahkan kalimat pertanyaannya.
 
-Example: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
+Contoh: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » ⟪राम⟫ ⟪आगच्छति⟫ ⟪।⟫
 
 ⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥१॥⟫ (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 
@@ -386,7 +386,7 @@ Example: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » �
 
 ⟪कुत्राग्निश्चीयते⟫ ⟪॥३॥⟫ (⟪यज्ञस्थान⟫, ⟪मही⟫)
 
-⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟫ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \&lt;Absolutive\&gt;)
+⟪कदा⟫ ⟪ब्राह्माणा⟫ ⟪घृतमग्नौ⟫ ⟪जुह्वति⟫ ⟪॥४॥⟩ (⟪यज्ञकाल⟫, ⟪देवान्⟫ ⟪स्तु⟫ \<Absolutif\>)
 
 ⟪कस्मान्मतिमतयः⟫ ⟪पुण्यं⟫ ⟪चक्रुः⟫ ⟪॥५॥⟫ (⟪स्वर्गलोभ⟫, ⟪नरकभय⟫, ⟪भीतनरकता⟫)
 
@@ -406,15 +406,15 @@ Example: ⟪क⟫ ⟪आगच्छति⟫ (⟪राम⟫) ⟪।⟫ » �
 
 ::: media
 ![lekt3707.jpg](/images/lekt3707.webp)
-Fig.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
-(Image source: [Details](/en/licenses#lekt3707))
+Gbr.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫
+(Sumber gambar: [Detail](/licenses#lekt3707))
 :::
 ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫ ⟪॥१३॥⟫ (⟪काशी⟫ = ⟪वाराणसी⟫)
 
 ::: media
 ![lekt3708.jpg](/images/lekt3708.webp)
-Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
-(Image source: [Details](/en/licenses#lekt3708))
+Gbr.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫
+(Sumber gambar: [Detail](/licenses#lekt3708))
 :::
 ⟪केषां⟫ ⟪धर्मो⟫ ⟪वेदाध्ययनम्⟫ ⟪॥१४॥⟫ (⟪द्विज⟫, ⟪द्विजाति⟫, ⟪आर्य⟫)
 
@@ -428,7 +428,7 @@ Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इ�
 
 ⟪कस्या⟫ ⟪इन्द्रः⟫ ⟪पुत्र्रं⟫ ⟪दास्यति⟫ ⟪॥१९॥⟫ (⟪कृतव्रता⟫ ⟪पुण्यवती⟫ ⟪सुमतिब्राह्मणी⟫)
 
-B) Translate:
+[B0] B) Terjemahkanlah:
 
  ⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्र्रेषु⟫ ⟪वसेत्⟫ ⟪॥१॥⟫
 
@@ -438,15 +438,15 @@ B) Translate:
 
 ⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥४॥⟫
 
-C) Translate the following ⟪अव्ययीभाव⟫ :
+C) Terjemahkanlah ⟪अव्ययीभाव⟫ berikut :
 
-1\. ⟪अति⟫ Postposition with Acc.: "beyond ..."
+1\. ⟪अति⟫ Posposisi dengan Akk.: "melampaui ..."
 
 ::: indent
 1.  ⟪अतिमात्रम्⟫
 2.  ⟪अतिवसन्तम्⟫
 :::
-2\. ⟪अधि⟫ "in"
+2\. ⟪अधि⟫ "di dalam"
 
 ::: indent
 1.  ⟪अधिहरि⟫
@@ -454,10 +454,10 @@ C) Translate the following ⟪अव्ययीभाव⟫ :
 :::
 ::: media
 ![lekt3709.jpg](/images/lekt3709.webp)
-Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
-(Image source: [Details](/en/licenses#lekt3709))
+Gbr.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
+(Sumber gambar: [Detail](/licenses#lekt3709))
 :::
-3\. ⟪अनु⟫ "according to, along, after"
+3\. ⟪अनु⟫ "sesuai, sepanjang, menurut"
 
 ::: indent
 1.  ⟪अनुरूपम्⟫
@@ -465,18 +465,18 @@ Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 3.  ⟪अनुगङ्गम्⟫
 4.  ⟪अनुविष्णुम्⟫
 :::
-4\. ⟪अप⟫ "without"
+4\. ⟪अप⟫ "tanpa"
 
 ::: indent
 1.  ⟪अपविष्णुम्⟫
 :::
-5\. ⟪अभि⟫ "in the direction of"
+5\. ⟪अभि⟫ "menuju ke arah"
 
 ::: indent
 1.  ⟪अभिमुखम्⟫
 2.  ⟪अभ्यग्नि⟫
 :::
-6\. ⟪आ⟫ "since, until, including"
+6\. ⟪आ⟫ "sejak, hingga, termasuk"
 
 ::: indent
 1.  ⟪आबालवृद्धम्⟫
@@ -484,41 +484,41 @@ Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫
 :::
 ::: media
 ![lekt3710.jpg](/images/lekt3710.webp)
-Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
-(Image source: [Details](/en/licenses#lekt3710))
+Gbr.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫
+(Sumber gambar: [Detail](/licenses#lekt3710))
 :::
-7\. ⟪उप⟫ "near"
+7\. ⟪उप⟫ "dekat"
 
 ::: indent
-1.  ⟪उपवृक्षम्⟫
+1. ⟪उपवृक्षम्⟫
 :::
 ::: media
 ![lekt3711.jpg](/images/lekt3711.webp)
-Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
-(Image source: [Details](/en/licenses#lekt3711))
+Gbr.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫
+(Sumber gambar: [Detail](/licenses#lekt3711))
 :::
 8\. ⟪यथा⟫
 
 ::: indent
-1.  ⟪यथास्थानम्⟫
+1. ⟪यथास्थानम्⟫
 :::
-## 37.11. Latihan Tinjauan
+## 37.11. Latihan Ulangan
 
-Translate into Sanskrit using exclusively perfect tense verb forms:
+Terjemahkan ke dalam bahasa Sanskerta dengan menggunakan hanya bentuk kata kerja dari Perfek:
 
-Suatu kali, seorang lelaki tua pergi ke desa lain; ia merasa lelah di sepanjang jalan. Maka, ia pergi ke bawah pohon mangga yang berdiri di tepi untuk beristirahat. Di pohon ini terdapat buah-buahan yang matang. Lelaki tua itu menginginkan buah tersebut. Namun, ia tidak dapat memanjat pohon dan mengambil buah-buahan itu. Untungnya, ada beberapa monyet di pohon ini yang sedang memakan buah-buahan. Ketika ia melihatnya, lelaki tua itu merasa senang. Apa yang dilakukannya? Ia mengambil beberapa batu, mengarahkannya pada monyet-monyet itu, dan melemparkannya. Monyet-monyet yang marah memetik beberapa buah dan melemparkannya kepada lelaki tua itu. Lelaki tua itu dengan gembira menerima buah-buahan tersebut dan melanjutkan perjalanannya ke tujuan yang diinginkannya. Lihatlah nasib lelaki tua itu!
+Ketika suatu kali seorang orang tua pergi ke desa lain, ia kelelahan di perjalanan. Maka ia pergi untuk beristirahat ke bawah pohon mangga yang berdiri di samping jalan. Di atas pohon itu terdapat buah-buahan yang matang. Orang tua tersebut merasa ingin memakan buah-buah tersebut. Namun ia tidak dapat memanjat pohon itu dan mengambil buah-buahan itu. Untungnya, di atas pohon tersebut terdapat beberapa monyet yang memakan buah-buahan. Ketika ia melihatnya, orang tua itu merasa senang. Apa yang dilakukannya? Ia mengambil beberapa batu, mengarahkan pada monyet-monyet itu dan melemparkannya. Monyet-monyet yang marah memetik buah-buahan tertentu dan melemparkannya ke arah orang tua itu. Orang tua itu menerima dengan senang hati buah-buahan tersebut dan pergi ke daerah yang diinginkannya. Lihatlah nasib orang tua itu!
 
 ::: deleteme-box
 
-- **Image lekt3701.jpg** (Fig.: ⟪क्व⟫): [Image source: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Accessed on 2008-12-30. -- Creative Commons License (Attribution, Non-commercial, No derivatives)]
-- **Image lekt3702.jpg** (Fig.: ⟪यथाशक्ति⟫): [Image source: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Accessed on 2008-12-30. -- Creative Commons License (Attribution, Non-commercial, No derivatives)]
-- **Image lekt3703.jpg** (Fig.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Image source: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Accessed on 2008-12-30. -- Creative Commons License (Attribution, Non-commercial, No derivatives)]
-- **Image lekt3704.jpg** (Fig.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Image source: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Accessed on 2008-12-30. -- Creative Commons License (Attribution)]
-- **Image lekt3705.jpg** (Fig.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Image source: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, Non-commercial, No derivatives)]
-- **Image lekt3706.jpg** (Fig.: ⟪वृक्षः⟫): Jaipur [Image source: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, Non-commercial, Share Alike)]
-- **Image lekt3707.jpg** (Fig.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Painting by ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Image source: Wikipedia. Public domain]
-- **Image lekt3708.jpg** (Fig.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Image source: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution)]
-- **Image lekt3709.jpg** (Fig.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Image source: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, Non-commercial, No derivatives)]
-- **Image lekt3710.jpg** (Fig.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Image source: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, Non-commercial, Share Alike)]
-- **Image lekt3711.jpg** (Fig.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Image source: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Accessed on 2008-12-31. -- Creative Commons License (Attribution, Non-commercial, No derivatives)]
+- **Gambar lekt3701.jpg** (Gbr.: ⟪क्व⟫): [Sumber gambar: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/164113021/. -- Diakses pada 2008-12-30. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
+- **Gambar lekt3702.jpg** (Gbr.: ⟪यथाशक्ति⟫): [Sumber gambar: Meanest Indian. -- http://www.flickr.com/photos/meanestindian/156516309/. -- Diakses pada 2008-12-30. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
+- **Gambar lekt3703.jpg** (Gbr.: ⟪तूष्णीं⟫ ⟪बभूवुः⟫): Chishti (Chishti) Dargah (Dargah), Fatehpur Sikri = Fatehpur Sikri / Fatehpur Sikri [Sumber gambar: Protocollide. -- http://www.flickr.com/photos/urbanvillage/1980227522/. -- Diakses pada 2008-12-30. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
+- **Gambar lekt3704.jpg** (Gbr.: ⟪किं⟫ ⟪बाला⟫ ⟪अधीयीरन्⟫): Kanchipuram = Kanchipuram [Sumber gambar: mckaysavage. -- http://www.flickr.com/photos/mckaysavage/3103429189/. -- Diakses pada 2008-12-30. -- Lisensi Creative Commons (Atribusi)]
+- **Gambar lekt3705.jpg** (Gbr.: ⟪शाक्यमुनिः⟫): Hussain Sagar = Hussain Sagar, Hyderabad = Hyderabad [Sumber gambar: .krish.Tipirneni. -- http://www.flickr.com/photos/krish4u/426497125/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
+- **Gambar lekt3706.jpg** (Gbr.: ⟪वृक्षः⟫): Jaipur [Sumber gambar: counterclockwise. -- http://www.flickr.com/photos/xclockwise/520742595/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi, Non-komersial, share alike)]
+- **Gambar lekt3707.jpg** (Gbr.: ⟪कृष्णः⟫ ⟪बलरामश्च⟫): Lukisan oleh ⟪राजा⟫ ⟪रवि⟫ ⟪वर्मा⟫ (1848 - 1906) [Sumber gambar: Wikipedia. Domain publik]
+- **Gambar lekt3708.jpg** (Gbr.: ⟪क्व⟫ ⟪मर्तुं⟫ ⟪सज्जना⟫ ⟪इच्छन्ति⟫): ⟪काशी⟫ = ⟪वाराणसी⟫ [Sumber gambar: amanderson2. -- http://www.flickr.com/photos/amanderson/2414520995/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi)]
+- **Gambar lekt3709.jpg** (Gbr.: ⟪अधिकेरलं⟫ ⟪वर्तन्ते⟫): [Sumber gambar: Michael Foley Photography. -- http://www.flickr.com/photos/michaelfoleyphotography/2388340875/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
+- **Gambar lekt3710.jpg** (Gbr.: ⟪आबालवृद्धं⟫ ⟪लंदननगरे⟫ ⟪ववृतिरे⟫): [Sumber gambar: saketvora. -- http://www.flickr.com/photos/saket_vora/2676024863/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi, Non-komersial, share alike)]
+- **Gambar lekt3711.jpg** (Gbr.: ⟪उपवृक्षं⟫ ⟪सीदन्ति⟫): Delhi = ⟪दहली⟫ / دہلی [Sumber gambar: Tianyake. -- http://www.flickr.com/photos/tianyake/1430877150/. -- Diakses pada 2008-12-31. -- Lisensi Creative Commons (Atribusi, Non-komersial, Tidak ada karya turunan)]
 :::

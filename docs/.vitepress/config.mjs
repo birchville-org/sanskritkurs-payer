@@ -120,39 +120,41 @@ export default defineConfig({
   ],
 
   locales: {
-    // ── v1.2 languages ──────────────────────────────────────────────────────────
     root: { ...de },
     en: { ...en },
     it: { ...it },
-    // bg: { ...bg },
     ru: { ...ru },
     uk: { ...uk },
     hi: { ...hi },
     fr: { ...fr },
-    // ── v1.3 languages ───────────────────────────────────────────────────────────
     es: { ...es },
     ta: { ...ta },
     pa: { ...pa },
     la: { ...la },
     rm: { ...rm },
+    ro: { ...ro },
     id: { ...id },
     'zh-CN': { ...zhCN },
     he: { ...he },
     ar: { ...ar },
-    // 'arc': { ...arc },
     el: { ...el },
     th: { ...th },
-    ro: { ...ro },
     grc: { ...grc },
-    // fi: { ...fi },
-    // hu: { ...hu },
+    fi: { ...fi },
+    hu: { ...hu },
+    zh: { ...zh },
+    cop: { ...cop },
+    fa: { ...fa },
+    nl: { ...nl },
+    am: { ...am },
+    af: { ...af },
+    lt: { ...lt },
+    sh: { ...sh },
+    sq: { ...sq },
+    pt: { ...pt }
   },
   
   themeConfig: {
-    logo: '/birchville_logo.png',
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/marcodem/sanskritkurs-payer' }
-    ],
     search: { 
       provider: 'local', 
       options: {

@@ -39,11 +39,11 @@ Beispiel: <!-- TODO: Fallback translation -->
 Unregelmäßige Bildungen: <!-- TODO: Fallback translation -->
 
 ::: indent
-⟪अस्⟫ 4P "werfen": ***⟪आस्थम्⟫, ⟪आस्थत्⟫*** (Erklärung siehe Thumb-Hauschild §541,4) <!-- TODO: Fallback translation -->
+⟪अस्⟫ 4P "werfen": ***:sig[⟪आस्थम्⟫], :sig[⟪आस्थत्⟫]*** (Erklärung siehe Thumb-Hauschild §541,4) <!-- TODO: Fallback translation -->
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": ***⟪अख्यम्⟫, ⟪अख्यत्⟫*** <!-- TODO: Fallback translation -->
+⟪ख्या⟫ + ⟪आ⟫ 2P "erzählen": ***:sig[⟪अख्यम्⟫], :sig[⟪अख्यत्⟫]*** <!-- TODO: Fallback translation -->
 
-⟪दृश्⟫ "sehen": ***⟪अदर्शम्⟫, ⟪अदर्शत्⟫*** (Hochstufe!) <!-- TODO: Fallback translation -->
+⟪दृश्⟫ "sehen": ***:sig[⟪अदर्शम्⟫], :sig[⟪अदर्शत्⟫]*** (Hochstufe!) <!-- TODO: Fallback translation -->
 :::
 Beachte: <!-- TODO: Fallback translation -->
 

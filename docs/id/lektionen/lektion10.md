@@ -12,7 +12,7 @@ status: stable
 ::: deleteme-box
 **Dalam pelajaran ini Anda akan mempelajari:**
 - Kalimat pasif (Instrumental dari agen)
-- Deklinasi Instrumentalis (tṛtīyā)
+- Deklinasi Instrumental (tṛtīyā)
 - Hukum Serebralisasi untuk -n- (sandhi kata)
 - Pembentukan pasif (yak) dalam Indikatif kala kini
 - Kosakata tentang Pengorbanan, Kebenaran, dan Peran Sosial
@@ -21,7 +21,7 @@ status: stable
 
 ::: grammar-box
 **Skema:**
-**(Agens - kartṛ - dalam Instrumentalis (tṛtīyā)) - (objek langsung - karman - dalam Nominatif) - bentuk kata kerja pasif**
+**(Agens - kartṛ - dalam Instrumental (tṛtīyā)) - (objek langsung - karman - dalam Nominatif) - bentuk kata kerja pasif**
 
 mis. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इज्यते⟫ = "Seorang Brahmana memuja seorang dewa dengan pengorbanan" (secara harfiah: "Seorang dewa dipuja oleh seorang Brahmana dengan pengorbanan.")
 
@@ -30,13 +30,13 @@ Kalimat ini **sepenuhnya (!) sama maknanya** dengan kalimat:
 :::
 
 ::: grammar-box
-- Dalam kalimat pasif, Agens (**kartṛ**) berada dalam **Instrumentalis** (tṛtīyā f. "akhiran kasus ketiga"), objek langsung (**karman** n.) berada dalam **Nominatif** (prathamā f.).
+- Dalam kalimat pasif, Agens (**kartṛ**) berada dalam **Instrumental** (tṛtīyā f. "akhiran kasus ketiga"), objek langsung (**karman** n.) berada dalam **Nominatif** (prathamā f.).
 - Kalimat pasif yang tidak menyebutkan Agens biasanya memiliki makna impersonal ("seseorang"):
 mis. **ijyate** = ⟪इज्यते⟫ "Seseorang mengorbankan" (secara harfiah: "dipuja dengan pengorbanan").
 :::
 
 ::: grammar-box
-**Meskipun kalimat aktif yang sesuai mengandung Akkusativ (dvitīyā) dari tujuan, hal ini dapat diubah menjadi Nominatif (prathamā) dalam kalimat pasif:**
+**Meskipun kalimat aktif yang sesuai mengandung Akusatif (dvitīyā) dari tujuan, hal ini dapat diubah menjadi Nominatif (prathamā) dalam kalimat pasif:**
 
 Kalimat aktif **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma pergi ke desa." sesuai dengan kalimat pasif:
 - **rāmeṇa grāmaṃ gamyate** = ⟪रामेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫
@@ -54,12 +54,12 @@ Konstruksi pasif Sanskerta sangat sering digunakan: pasif memang lebih mudah dib
 **Kalimat pasif Sanskerta umumnya tidak boleh diterjemahkan ke dalam kalimat pasif bahasa Jerman, karena pasif bahasa Jerman memiliki fungsi stilistik yang sangat berbeda.**
 :::
 
-## 10.2. Instrumentalis (tṛtīyā f. = ⟪तृतीया⟫ = "akhiran kasus ketiga")
+## 10.2. Instrumental (tṛtīyā f. = ⟪तृतीया⟫ = "akhiran kasus ketiga")
 
 ::: grammar-box
-**Akhiran reguler Instrumentalis (tṛtīyā):**
-- **Singular: -ā**
-- **Plural: -bhis**
+**Akhiran reguler Instrumental (tṛtīyā):**
+- **Tunggal: -ā**
+- **Jamak: -bhis**
 
 **Pembentukan reguler:**
 
@@ -69,7 +69,7 @@ Konstruksi pasif Sanskerta sangat sering digunakan: pasif memang lebih mudah dib
 | **Feminina auf -ī**:brdevī:br⟪देवी⟫ | **devy-ā** :br⟪देव्या⟫ | **devī-bhis** :br⟪देवीभिस्⟫ |
 | **Feminina auf -u**:brdhenu:br⟪धेनु⟫ | **dhenv-ā** :br⟪धेन्वा⟫ | **dhenu-bhis** :br⟪धेनुभिस्⟫ |
 
-**Pembentukan tidak reguler (Singular):**
+**Pembentukan tidak reguler (Tunggal):**
 
 | | Instrumental Tunggal | Instrumental Jamak |
 | :--- | :--- | :--- |
@@ -77,7 +77,7 @@ Konstruksi pasif Sanskerta sangat sering digunakan: pasif memang lebih mudah dib
 | **Maskulina auf -u**:brpaśu:br⟪पशु⟫ | **paśu-n-ā** :br⟪पशुना⟫ | **paśu-bhis** :br⟪पशुभिस्⟫ |
 | **Feminina auf -ā**:brdevatā:br⟪देवता⟫ | **devat-ay-ā** :br⟪देवतया⟫ | **devatā-bhis** :br⟪देवताभिस्⟫ |
 
-**Maskulinum dan Neutrum pada -a (tidak beraturan dalam tunggal dan jamak):**
+**Maskulin dan Netral pada -a (tidak beraturan dalam tunggal dan jamak):**
 
 | | Instrumental Tunggal | Instrumental Jamak |
 | :--- | :--- | :--- |
@@ -104,25 +104,25 @@ Konstruksi pasif Sanskerta sangat sering digunakan: pasif memang lebih mudah dib
 :::
 
 ::: deleteme-box
-Selain dalam Nominatif dan Akusativ, bentuk-bentuk Neutrum pada -a, kata tanya, dan kata ganti penunjuk identik dengan bentuk-bentuk Maskulinum yang sesuai.
+Selain dalam Nominatif dan Akusativ, bentuk-bentuk Netral pada -a, kata tanya, dan kata ganti penunjuk identik dengan bentuk-bentuk Maskulin yang sesuai.
 :::
 
-### 10.2.1. Tentang Penggunaan Instrumentalis (tṛtīyā = ⟪तृतीया⟫)
+### 10.2.1. Tentang Penggunaan Instrumental (tṛtīyā = ⟪तृतीया⟫)
 
 ::: grammar-box
-**Instrumentalis (tṛtīyā) terutama digunakan untuk menjawab pertanyaan:**
+**Instrumental (tṛtīyā) terutama digunakan untuk menjawab pertanyaan:**
 - **Oleh apa?** (Dengan alat apa?)
 - **Dengan apa?**
 - **Dengan siapa?**
 
 **Ia digunakan**
-1. **dalam kalimat pasif: Agen (kartṛ) dalam Instrumentalis**
+1. **dalam kalimat pasif: Agen (kartṛ) dalam Instrumental**
 2. **untuk menyatakan sarana atau alat, dengan mana sesuatu dilakukan**
 3. **untuk menyatakan jalan, melalui mana seseorang mencapai suatu tempat**
 4. **untuk mengekspresikan hubungan, penyatuan, atau pendampingan dengan**
 5. **bersama postposisi dalam arti "beserta, dengan"; mis. saha = ⟪सह⟫ = "dengan"** :brmis.:br **brāhmaṇena saha** = ⟪ब्राह्मणेन⟫ ⟪सह⟫ = "bersama dengan Brahmana"
 :::
-Penggunaan lain dari Instrumentalis (tṛtīyā) akan mengikuti nanti.
+Penggunaan lain dari Instrumental (tṛtīyā) akan mengikuti nanti.
 
 ## 10.3. Hukum Serebralisasi untuk -n- (Sandhi Kata)
 
@@ -266,7 +266,7 @@ Ilm.: ⟪विश्वामित्रः⟫
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : berkata, berbicara
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : bertanya (seseorang: Akk.; tentang sesuatu: Akk.)
-- **saha** ⟪सह⟫ : bersama, secara bersamaan (juga dalam konteks "bertarung dengan" dll.) (Postposisi dengan Instrumentalis)
+- **saha** ⟪सह⟫ : bersama, secara bersamaan (juga dalam konteks "bertarung dengan" dll.) (Postposisi dengan Instrumental)
 
 ## 10.6. Latihan
 
@@ -295,7 +295,7 @@ Ilm.: ⟪विश्वामित्रः⟫
 21. **pṛcchanti** (⟪पृच्छन्ति⟫)
 22. **tanvanti** (⟪तन्वन्ति⟫) (2 bentuk!)
 
-**B) Bentuklah Instrumentalis Singular dan Plural untuk semua Nomina yang telah dipelajari sejauh ini.**
+**B) Bentuklah Instrumental Tunggal dan Jamak untuk semua Nomina yang telah dipelajari sejauh ini.**
 
 **C) Ubahlah kalimat-kalimat berikut ke dalam bentuk Pasif dan terjemahkanlah:**
 1. **brāhmaṇo devīm yajati.** (⟪ब्राह्मणो⟫ ⟪देवीं⟫ ⟪यजति⟫)

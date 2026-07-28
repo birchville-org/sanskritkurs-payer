@@ -9,7 +9,7 @@ status: stable
 
 # Lesson 49
 
-## 49.1. Formation of the Imperative (⟪लोट्⟫) athematic present stems (Continuation)
+## 49.1. Formation of the Imperativeee (⟪लोट्⟫) athematic present stems (Continuation)
 
 ### 49.1.1. Seventh present class (⟪रुधादि⟫)
 
@@ -45,7 +45,7 @@ The 2.sg. imperative is endingless for roots of the 5th and 8th classes, where o
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪सुनवानि⟫ | ⟪सुनवाम⟫ | ⟪सुनवै⟫ | ⟪सुनवाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | *⟪सुनु⟫* | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *:sig[⟪सुनु⟫]* | ⟪सुनुत⟫ | ⟪सुनुष्व⟫ | ⟪सुनुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪सुनोतु⟫ | ⟪सुन्वन्तु⟫ | ⟪सुनुताम्⟫ | ⟪सुन्वताम्⟫:brsu-nu + atām |
 :::
 ⟪आप्⟫ 5P
@@ -67,7 +67,7 @@ The 2.sg. imperative is endingless for roots of the 5th and 8th classes, where o
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪तनवानि⟫ | ⟪तनवाम⟫ | ⟪तनवै⟫ | ⟪तनवामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | *⟪तनु⟫* | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *:sig[⟪तनु⟫]* | ⟪तनुत⟫ | ⟪तनुष्व⟫ | ⟪तनुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪तनोतु⟫ | ⟪तन्वन्तु⟫ | ⟪तनुताम्⟫ | ⟪तन्वताम्⟫ |
 :::
 ⟪कृ⟫ 8U
@@ -77,7 +77,7 @@ The 2.sg. imperative is endingless for roots of the 5th and 8th classes, where o
 | :---: | :---: | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪करवाणि⟫ | ⟪करवाम⟫ | ⟪करवै⟫ | ⟪करवामहै⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | *⟪कुरु⟫* | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *:sig[⟪कुरु⟫]* | ⟪कुरुत⟫ | ⟪कुरुष्व⟫ | ⟪कुरुध्वम्⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪करोतु⟫ | ⟪कुर्वन्तु⟫ | ⟪कुरुताम्⟫ | ⟪कुर्वताम्⟫ |
 :::
 ### 49.1.4. Ninth Present Class (⟪क्र्यादि⟫)
@@ -93,7 +93,7 @@ The 2.sg. imperative is endingless for roots of the 5th and 8th classes, where o
 | **3. Person** :br⟪प्रथमः⟫ | ⟪क्रीणातु⟫ | ⟪क्रीणन्तु⟫:brkrī-ṇ-antu | ⟪क्रीणीताम्⟫ | ⟪क्रीणताम्⟫ |
 :::
 ::: grammar-box
-Roots of the 9th class, which end in a consonant, replace the final -nī-hi of the 2.sg. Imperative with -āna
+Roots of the 9th class, which end in a consonant, replace the final -nī-hi of the 2.sg. Imperativeee with -āna
 :::
 ⟪ग्रह्⟫ 9U
 
@@ -102,7 +102,7 @@ Roots of the 9th class, which end in a consonant, replace the final -nī-hi of t
 | :---: | :---: | :---: |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
 | **1. Person** :br⟪तृतीयः⟫ | ⟪गृह्णानि⟫ | ⟪गृह्णाम⟫ |
-| **2. Person** :br⟪मध्यमः⟫ | *⟪गृहाण⟫* | ⟪गृह्णीत⟫ |
+| **2. Person** :br⟪मध्यमः⟫ | *:sig[⟪गृहाण⟫]* | ⟪गृह्णीत⟫ |
 | **3. Person** :br⟪प्रथमः⟫ | ⟪गृह्णातु⟫ | ⟪गृहणन्तु⟫ |
 :::
 ## 49.2. Declension of Nominal Stems ending in -as, -is, -us
@@ -211,7 +211,7 @@ Perf. Vc ⟪तत्वरे⟫
 Fut. ⟪त्वरिष्यते⟫
 Pass. ⟪त्वर्यते⟫
 Caus. ⟪त्वरयति⟫
-PPP ⟪त्वरित⟫ ⟪।⟫ ***⟪तू्र्⟫***⟪ण⟫
+PPP ⟪त्वरित⟫ ⟪।⟫ **:sig[⟪तू्र्⟫]**⟪ण⟫
 Inf. ⟪त्वरितुम्⟫
 :::
 ⟪द्रुह्⟫ 4P ⟪द्रुह्यति⟫ : to harm

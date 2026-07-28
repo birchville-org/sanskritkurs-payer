@@ -259,7 +259,7 @@ Ad hunc locum pertinent:
 
 *   ⟪विष्वञ्च्⟫ 3 "ad omnes partes eundo"
 
-### 60.5.2. Zweistämmige Stämme auf -añc
+### 60.5.2. Stemma bibranchia in -añc
 
 ::: grammar-box
 **Formatio:**
@@ -301,7 +301,7 @@ Plagae caeli cardinales
 | ⟪चुर्⟫ 10U | ⟪चुचोरयिषति⟫ "er wünscht zu stehlen" |
 | ⟪बुध्⟫ Kaus. | ⟪बुबोधयिषति⟫ "er wünscht zu belehren (zur Erkenntnis zu wecken)" |
 
-### 60.6.1. Bildung des Desiderativstammes
+### 60.6.1. Desiderativi radicis formatio
 
 ::: grammar-box
 **Radices classium praesentis 1 - 9:**
@@ -324,13 +324,13 @@ Regulae de usu vocis coniunctionis -i- vide apud Kielhorn, Grammatica § 443 - 4
 1.  Radix fere est profunda: ⟪जीव्⟫ » ⟪जिजीविष⟫-
 
     1.  -i finalis et -u per -ī vel -ū substituuntur, si nulla vox coniunctionis sequitur:
-        ⟪जि⟫ » ⟪जि⟫***⟪गी⟫***⟪ष⟫- "victoriae cupere"  
-        ⟪द्रु⟫ » ⟪दु⟫***⟪द्रू⟫***⟪ष⟫- "currere cupere"
+        ⟪जि⟫ » ⟪जि⟫**:sig[⟪गी⟫]**⟪ष⟫- "victoriae cupere"  
+        ⟪द्रु⟫ » ⟪दु⟫**:sig[⟪द्रू⟫]**⟪ष⟫- "currere cupere"
 
     2.  -ṛ finalis et -ṝ per -īr, post labiales vero per -ūr substituuntur, si nulla vox coniunctionis sequitur:
-        ⟪कृ⟫ » ⟪चि⟫***⟪कीर्ष⟫***\- "facere cupere"  
-        ⟪मृ⟫ » ⟪मु⟫***⟪मूर्ष⟫***\- "moriturum esse"  
-        ⟪पॄ⟫ » ⟪पु⟫***⟪पूर्ष⟫***\- "implere cupere"
+        ⟪कृ⟫ » ⟪चि⟫**:sig[⟪कीर्ष⟫]**\- "facere cupere"  
+        ⟪मृ⟫ » ⟪मु⟫**:sig[⟪मूर्ष⟫]**\- "moriturum esse"  
+        ⟪पॄ⟫ » ⟪पु⟫**:sig[⟪पूर्ष⟫]**\- "implere cupere"
 
     3.  ⟪दा⟫, ⟪धा⟫, ⟪मा⟫ et aliae radices nonnullae in -ā, -e, -o gradum profundum Ø habent:
         ⟪दा⟫ » ⟪दित्स⟫- (di-**d** + sa)  
@@ -350,7 +350,7 @@ Regulae de usu vocis coniunctionis -i- vide apud Kielhorn, Grammatica § 443 - 4
         1.  necessario: radices formae i/u - consonantis necnon (consonans -) ṛ/ḷ - consonantis:
             ⟪इष्⟫ » ⟪एषिषिष⟫- "velle desiderare"  
             ⟪कॢप्⟫ » ⟪चिकल्पिष⟫- "velle convenire"  
-            ⟪स्मि⟫ » ⟪सि⟫***⟪स्म⟫***⟪यिष⟫- "velle ridere"
+            ⟪स्मि⟫ » ⟪सि⟫**:sig[⟪स्म⟫]**⟪यिष⟫- "velle ridere"
 
         2.  arbitrio: radices formae consonantis - (consonans -) i/u - consonantis praeter -v\_
             ⟪द्युत्⟫ » ⟪दिद्योतिष⟫- / ⟪दिद्युतिष⟫- "velle fulgurare"

@@ -44,7 +44,7 @@ a) ⟪कृत्⟫ suffix \-Ø
 ![](/images/lekt5101.webp)
 Fig.: ⟪भूमिभुज्⟫
 ⟪ज्ञानेन्द्र⟫ ⟪वीर⟫ ⟪बिक्रम⟫ ⟪शाह⟫, ⟪नेपालस्यान्तिमो⟫ ⟪राजा⟫ (2001 - 2008)
-(Image source: [Details](/en/licenses#lekt5101))
+(Image source: [Detail](/en/licenses#lekt5101))
 :::
 b) ⟪कृत्⟫ suffix -t
 
@@ -69,7 +69,7 @@ b) ⟪कृत्⟫ suffix -t
 ![](/images/lekt5103.webp)
 Fig.: ⟪पापकृत्⟫
 ⟪भरतपुर⟫, ⟪राजस्थान⟫
-(Image source: [Details](/en/licenses#lekt5103))
+(Image source: [Detail](/en/licenses#lekt5103))
 :::
 c) ⟪कृत्⟫ suffix -a
 
@@ -105,9 +105,9 @@ Gbr.: ⟪द्विपो⟫ ⟪द्विर्पिबति⟫ : ⟪ह�
 ::: grammar-box
 **Stems ending in a simple consonant (except nasal, semivowel, -s) have no stem gradation. The declension occurs completely regularly by appending the regular case endings.**
 
-**Sole irregularity: in Nom., Acc., Voc. pl. Neuter, a nasal is inserted before the stem ending.**
+**Satu-satunya ketidakreguleran: pada Nom., Acc., Voc. pl. Neuter, sebuah nasal disisipkan sebelum akhiran kata dasar.**
 :::
-### 51.2.1. Stämme auf nichtpalatalen Verschlusslaut
+### 51.2.1. Kata dasar dengan konsonan letak non-palatal
 
 ::: grammar-box
 **Hukum perubahan bunyi yang biasa berlaku, yaitu**
@@ -124,14 +124,14 @@ Masculine, Feminine:
 
 :::
 ::: indent
-Singular:
+Tunggal:
 
 :::
 ::: indent
 Nom.Voc. ⟪शत्रुजित्⟫ (śatrujit + s)
 Acc. ⟪शत्रुजितम्⟫
 :::
-Plural:
+Jamak:
 
 ::: indent
 Nom.Acc.Voc. ⟪शत्रुजितस्⟫
@@ -141,18 +141,18 @@ Loc. ⟪शत्रुजित्सु⟫
 Neuter
 
 ::: indent
-Singular Nom.Acc.Voc. ⟪शत्रुजित्⟫
-Plural Nom.Acc.Voc. ***⟪शत्रुजिन्ति⟫***
+Tunggal Nom.Acc.Voc. ⟪शत्रुजित्⟫
+Jamak Nom.Acc.Voc. **:sig[⟪शत्रुजिन्ति⟫]**
 :::
 ⟪सुयुध्⟫ 3 "fighting well"
 
 ::: indent
-Singular.Nom.Voc.m.f.n. ⟪सुयुत्⟫
+Tunggal.Nom.Voc.m.f.n. ⟪सुयुत्⟫
 etc.
 :::
 Complete paradigms in Kielhorn, Grammar p. 16ff.
 
-### 51.2.2. Stämme auf palatalen Verschlusslaut (c, ch, j), ś, ṣ
+### 51.2.2. Suku-suku pada konsonan letup palatal (c, ch, j), ś, ṣ]
 
 ::: grammar-box
 **Sebelum akhiran yang diawali vokal, bunyi terakhir dari stem tetap tidak berubah.**
@@ -181,7 +181,7 @@ Masculine, Feminine:
 
 :::
 ::: indent
-Singular:
+Tunggal:
 
 :::
 ::: indent
@@ -189,7 +189,7 @@ Nom.Voc. ⟪सत्यवाक्⟫
 Acc. ⟪सत्यवाचम्⟫
 Instr. ⟪सत्यवाचा⟫
 :::
-Plural:
+Jamak:
 
 ::: indent
 Instr. ⟪सत्यवाग्भिस्⟫
@@ -198,8 +198,8 @@ Loc. ⟪सत्यवाक्षु⟫
 Neuter
 
 ::: indent
-Singular Nom.Acc.Voc. ⟪सत्यवाक्⟫
-Plural Nom.Acc.Voc. ⟪सत्यवाञ्चि⟫
+Tunggal Nom.Acc.Voc. ⟪सत्यवाक्⟫
+Jamak Nom.Acc.Voc. ⟪सत्यवाञ्चि⟫
 :::
 ⟪शेषभुज्⟫ 3 "eating food remnants"
 
@@ -208,14 +208,14 @@ Masculine, Feminine:
 
 :::
 ::: indent
-Singular:
+Tunggal:
 
 :::
 ::: indent
 Nom.Voc. ⟪शेषभुक्⟫
 Acc. ⟪शेषभुजम्⟫
 :::
-Plural:
+Jamak:
 
 ::: indent
 Instr. ⟪शेषभुग्भिस्⟫
@@ -224,8 +224,8 @@ Loc. ⟪शेषभुक्षु⟫
 Neuter
 
 ::: indent
-Singular Nom.Acc.Voc. ⟪शेषभुक्⟫
-Plural Nom.Acc.Voc. ⟪शेषभुञ्जि⟫
+Tunggal Nom.Acc.Voc. ⟪शेषभुक्⟫
+Jamak Nom.Acc.Voc. ⟪शेषभुञ्जि⟫
 :::
 ⟪परिव्राज्⟫ m. "wandering monk"
 
@@ -234,14 +234,14 @@ Masculine, Feminine:
 
 :::
 ::: indent
-Singular:
+Tunggal:
 
 :::
 ::: indent
 Nom.Voc. ⟪परिव्राट्⟫
 Acc. ⟪परिव्राजम्⟫
 :::
-Plural:
+Jamak:
 
 ::: indent
 Instr. ⟪परिव्राड्भिस्⟫
@@ -251,9 +251,9 @@ Loc. ⟪परिव्राट्सु⟫
 ![](/images/lekt5104.webp)
 Fig.: ⟪परिव्राट्⟫
 ⟪पुष्कर⟫
-(Image source: [Details](/en/licenses#lekt5104))
+(Sumber gambar: [Detail](/en/licenses#lekt5104))
 :::
-### 51.2.3. Stämme auf -h
+### 51.2.3. Stamm pada -h
 
 ::: grammar-box
 **Before a vowel-initial ending, the -h remains unchanged.**
@@ -276,14 +276,14 @@ Masculine, Feminine:
 
 :::
 ::: indent
-Singular:
+Tunggal:
 
 :::
 ::: indent
 Nom.Voc. ⟪घुट्⟫ (Grassmann's Law of Breath Dissimilation: ⟪गुढ्⟫ + s)
 Acc. ⟪गुहम्⟫
 :::
-Plural:
+Jamak:
 
 ::: indent
 Instr. ⟪घुड्भिस्⟫
@@ -294,14 +294,14 @@ Loc. ⟪घुट्सु⟫
 Masculine, Feminine:
 
 ::: indent
-Singular:
+Tunggal:
 
 :::
 ::: indent
 Nom.Voc. ⟪ध्रुट्⟫ ⟪।⟫ ⟪ध्रुक्⟫
 Acc. ⟪द्रुहम्⟫
 :::
-Plural:
+Jamak:
 
 ::: indent
 Instr. ⟪ध्रुड्भिस्⟫ ⟪।⟫ ⟪ध्रुग्भिस्⟫
@@ -347,7 +347,7 @@ e.g. ⟪छिद्⟫ » ⟪चिच्छेद⟫
 ::: media
 ![](/images/lekt5105.webp)
 Fig.:
-(Image source: [Details](/en/licenses#lekt5105))
+(Image source: [Detail](/en/licenses#lekt5105))
 :::
 ⟪अतिथि⟫ m.: guest
 
@@ -365,7 +365,7 @@ Karena ovulasi terjadi 14 hari sebelum awal menstruasi, dengan penentuan periode
 ::: media
 ![](/images/lekt5106.jpg)
 Fig.: ⟪ऋतुः⟫
-(Sumber gambar: [Details](/en/licenses#lekt5106))
+(Sumber gambar: [Detail](/en/licenses#lekt5106))
 :::
 ⟪एकत्र⟫ Adv.: di satu tempat
 
@@ -375,7 +375,7 @@ Fig.: ⟪ऋतुः⟫
 ![](/images/lekt5107.webp)
 Fig.: ⟪जटा⟫
 ⟪ऋषिकेश⟫
-(Image source: [Details](/en/licenses#lekt5107))
+(Image source: [Detail](/en/licenses#lekt5107))
 :::
 ⟪तुल्य⟫ 3: equal, comparable (⟪तृतीयया⟫)
 
@@ -409,9 +409,9 @@ Pass. ⟪विशिष्यते⟫ : berbeda dari (⟪पञ्चम्य
 ⟪स्व⟫ 3: own, his (my, your etc.) Declined like ⟪सर्व⟫. In Abl.Loc.sg.m.n and in Nom.pl.m it can also be declined like ⟪देव⟫:
 
 ::: indent
-Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ ***⟪स्वात्⟫***
-Loc.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ ***⟪स्⟫***⟪वे⟫
-Nom.pl.m ⟪स्वे⟫ ⟪।⟫ ***⟪स्वास्⟫***
+Abl.sg.m.n ⟪स्वस्मात्⟫ ⟪।⟫ **:sig[⟪स्वात्⟫]**
+Loc.sg.m.n. ⟪स्वस्मिन्⟫ ⟪।⟫ **:sig[⟪स्⟫]**⟪वे⟫
+Nom.pl.m ⟪स्वे⟫ ⟪।⟫ **:sig[⟪स्वास्⟫]**
 :::
 ⟪गर्ह्⟫ 1Ā ⟪गर्हते⟫ 10P ⟪गर्हयति⟫ : scold, blame
 
@@ -426,7 +426,7 @@ PPP ⟪गर्हित⟫
 ![](/images/lekt5108.webp)
 Fig.: ⟪पिशितम्⟫
 Kolkata = কলকাতা
-(Image source: [Details](/en/licenses#lekt5108))
+(Image source: [Detail](/en/licenses#lekt5108))
 :::
 ⟪उपहार⟫ m.: offering, sacrifice, gift
 
@@ -436,7 +436,7 @@ Kolkata = কলকাতা
 ![](/images/lekt5109.webp)
 Fig.: ⟪मधु⟫
 City Palace, ⟪उदयपुर⟫
-(Image source: [Details](/en/licenses#lekt5109))
+(Image source: [Detail](/en/licenses#lekt5109))
 :::
 ⟪मांस⟫ n.: meat
 
@@ -446,7 +446,7 @@ City Palace, ⟪उदयपुर⟫
 ![](/images/lekt5110.webp)
 Fig.: ⟪मृगया⟫
 Hunting with ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુજરાત, 1812
-(Image source: [Details](/en/licenses#lekt5110))
+(Image source: [Detail](/en/licenses#lekt5110))
 :::
 ⟪शिवा⟫ f.: (female) jackal (golden jackal = _Canis aureus_)
 
@@ -454,7 +454,7 @@ Hunting with ⟪चीता⟫ (_Acinonyx jubatus venaticus_) Gujarat = ગુ�
 ![](/images/lekt5111.webp)
 Fig.: ⟪शिवा⟫
 _Canis aureus_, Kalatop Khajjiar Sanctuary
-(Image source: [Details](/en/licenses#lekt5111))
+(Image source: [Detail](/en/licenses#lekt5111))
 :::
 ⟪रुत⟫ n.: screaming
 
@@ -464,7 +464,7 @@ _Canis aureus_, Kalatop Khajjiar Sanctuary
 ![](/images/lekt5112.webp)
 Fig.: ⟪कौशिकः⟫
 Brahma-Kauz (_Athene brama_), Mahesana = મહેસાણા
-(Image source: [Details](/en/licenses#lekt5112))
+(Image source: [Detail](/en/licenses#lekt5112))
 :::
 ⟪शकुनि⟫ m.: bird
 
@@ -479,7 +479,7 @@ weak stem before consonant ⟪श्व⟫
 ![](/images/lekt5113.jpg)
 Fig.: ⟪श्वा⟫ ⟪लिङ्गं⟫ ⟪च⟫
 Karnataka = ಕರ್ನಾಟಕ
-(Image source: [Details](/en/licenses#lekt5113))
+(Image source: [Detail](/en/licenses#lekt5113))
 :::
 ⟪परिचित⟫ 3: familiar, known
 
@@ -493,7 +493,7 @@ Karnataka = ಕರ್ನಾಟಕ
 ![](/images/lekt5114.webp)
 Fig.: ⟪आपानकम्⟫
 ⟪जोधपुर⟫
-(Image source: [Details](/en/licenses#lekt5114))
+(Image source: [Detail](/en/licenses#lekt5114))
 :::
 ⟪क्रूर⟫ 3: raw, cruel
 
@@ -512,7 +512,7 @@ PPP ⟪दिग्ध⟫
 ![](/images/lekt5115.webp)
 Fig.: ⟪मूषिकाविषाणि⟫
 Bangalore = ಬೆಂಗಳೂರು
-(Image source: [Details](/en/licenses#lekt5115))
+(Image source: [Detail](/en/licenses#lekt5115))
 :::
 ⟪भुजंग⟫ m.: snake
 
@@ -520,7 +520,7 @@ Bangalore = ಬೆಂಗಳೂರು
 ![](/images/lekt5116.webp)
 Fig.: ⟪भुजंगः⟫
 Russell's viper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
-(Image source: [Details](/en/licenses#lekt5116))
+(Image source: [Detail](/en/licenses#lekt5116))
 :::
 ⟪सायक⟫ m.: arrow
 
@@ -546,7 +546,7 @@ Russell's viper (_Daboia russelii_), Bangalore = ಬೆಂಗಳೂರು
 ![](/images/lekt5118.webp)
 Fig.: ⟪मणिः⟫
 Hope Diamond from Guntur = ಗುಂಡೂರು, today Smithsonian Museum of Natural History, Washington DC
-(Image source: [Details](/en/licenses#lekt5118))
+(Image source: [Detail](/en/licenses#lekt5118))
 :::
 ⟪वन⟫ n.: forest
 
@@ -555,7 +555,7 @@ Hope Diamond from Guntur = ಗುಂಡೂರು, today Smithsonian Museum of Na
 ::: media
 ![](/images/lekt5117.webp)
 Fig.: ⟪मदः⟫
-(Image source: [Details](/en/licenses#lekt5117))
+(Image source: [Detail](/en/licenses#lekt5117))
 :::
 ⟪राग⟫ m.: also: color, red color
 
@@ -579,8 +579,8 @@ Absol ⟪खनित्वा⟫ ⟪।⟫ ⟪खात्वा⟫
 ⟪१⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪३⟫, ⟪९⟫ - ⟪१२⟫ ⟪आश्रमधर्मः⟫
 
 ⟪गृहस्तस्य⟫ ⟪स्वधर्माजीवस्तुल्यैरसमानार्षिभिर्वैवाह्यमृतुगामित्वं⟫ ⟪देवपित्रातिथिपूजा⟫ ⟪भृत्येषु⟫ ⟪त्यागः⟫ ⟪शेषभोजनं⟫ ⟪च⟫ ⟪।९।⟫  
-⟪ब्रह्मचारिणः⟫ ⟪स्वाध्यायो⟫ ⟪ऽग्निकार्याभिषे⟫***⟪कौ⟫*** ⟪भैक्षाव्रतित्वमाचार्ये⟫ ⟪प्राणान्तिकी⟫ ⟪वृत्तिस्तदभावे⟫ ⟪गुरुपुत्रे⟫ ⟪सब्रह्मचारिणि⟫ ⟪वा⟫ ⟪।१०।⟫  
-⟪वानप्रस्थस्य⟫ ⟪ब्रह्मचर्यं⟫ ⟪भूमौ⟫ ⟪शय्या⟫ ⟪जाटाजिनधारणमग्निहोत्राभिषे⟫***⟪कौ⟫*** ⟪देवतापित्रतिथिपूजा⟫ ⟪वन्यश्चाहारः⟫ ⟪।११।⟫  
+⟪ब्रह्मचारिणः⟫ ⟪स्वाध्यायो⟫ ⟪ऽग्निकार्याभिषे⟫**:sig[⟪कौ⟫]** ⟪भैक्षाव्रतित्वमाचार्ये⟫ ⟪प्राणान्तिकी⟫ ⟪वृत्तिस्तदभावे⟫ ⟪गुरुपुत्रे⟫ ⟪सब्रह्मचारिणि⟫ ⟪वा⟫ ⟪।१०।⟫  
+⟪वानप्रस्थस्य⟫ ⟪ब्रह्मचर्यं⟫ ⟪भूमौ⟫ ⟪शय्या⟫ ⟪जाटाजिनधारणमग्निहोत्राभिषे⟫**:sig[⟪कौ⟫]** ⟪देवतापित्रतिथिपूजा⟫ ⟪वन्यश्चाहारः⟫ ⟪।११।⟫  
 ⟪प्रव्राजकस्य⟫ ⟪जितेन्द्रियत्वमनारम्भो⟫ ⟪निष्किंचनत्वं⟫ ⟪सङ्गत्यागो⟫ ⟪भैक्षाव्रतमनेकत्रारण्ये⟫ ⟪च⟫ ⟪वासो⟫ ⟪बाह्याभ्यन्तरं⟫ ⟪च⟫ ⟪शौचम्⟫ ⟪॥१२॥⟫
 
 Explanation: -⟪अभिषेकौ⟫ Nom.Acc.Voc.Dual.masc. (Dualdvandva)

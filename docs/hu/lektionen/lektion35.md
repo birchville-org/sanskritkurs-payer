@@ -190,7 +190,7 @@ Példa:
 ![](/images/lekt3502.webp)
 Kép: ⟪क्रामन्ति⟫
 People walking, Senegal.
-(Képmegjelölés: [Details](/hu/licenses#lekt3502))
+(Képmegjelölés: [Részletek](/hu/licenses#lekt3502))
 :::
 ⟪गै⟫ 1P ⟪गायति⟫ (gai + a-ti): énekelni, éneklő hangon előadni, rímes beszédben hirdetni
 ::: indent
@@ -208,7 +208,7 @@ ebből:
 ![](/images/lekt3501.webp)
 Kép: ⟪जगुः⟫
 Temple musicians Kaadu Malleswara Temple Bangalore.
-(Képmegjelölés: [Details](/hu/licenses#lekt3501))
+(Képmegjelölés: [Részletek](/hu/licenses#lekt3501))
 :::
 ## 35.5. Gyakorlat
 
@@ -247,7 +247,7 @@ A) Alakítsa ki a következő igai formákhoz a megfelelő perfekta formákat:
 ![](/images/lekt3503.webp)
 Kép: ⟪मिमति⟫
 Market in Vadaseri, Tamil Nadu.
-(Képmegjelölés: [Details](/hu/licenses#lekt3503))
+(Képmegjelölés: [Részletek](/hu/licenses#lekt3503))
 :::
 30. ⟪अपद्यत⟫
 31. ⟪सुनोति⟫

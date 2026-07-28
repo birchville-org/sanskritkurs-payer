@@ -262,7 +262,7 @@ Ezeknek a **ṛṣi**knak a neveit a Brāhmaṇákban, valamint külön, a Véd�
 ::: media
 ![](/images/lekt1002.jpg)
 Ábra: ⟪विश्वामित्रः⟫
-(Képmegjelölés: [Details](/hu/licenses#lekt1002))
+(Képmegjelölés: [Részletek](/hu/licenses#lekt1002))
 :::
 - **vad** 1 P (vadati) ⟪वद्⟫ ⟪वदति⟫ : mond, beszél
 - **prach** 6 P (pṛcchati !) ⟪प्रच्छ्⟫ ⟪पृच्छति⟫ : kérdez (valakit: Akk.; valamiről: Akk.)

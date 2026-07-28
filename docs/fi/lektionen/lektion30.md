@@ -147,7 +147,7 @@ Esimerkit:
 | **3. Person:brĀtmanepada** | ⟪भवेत⟫:br(bhava + i + ta) | ⟪भवेरन्⟫:br(bhava + i + ran) |
 
 :::
-4\. Präsensluokka:
+4\. Preesensluokka:
 
 ⟪नृत्⟫
 ::: grammar-box
@@ -158,7 +158,7 @@ Esimerkit:
 | **3. Person:brĀtmanepada** | ⟪नृत्येत⟫:br(nṛtya + i + ta) | ⟪नृत्येरन्⟫:br(nṛtya + i + ran) |
 
 :::
-6\. Präsensklasse
+6\. Preesensklasse
 
 ⟪विश्⟫
 ::: grammar-box
@@ -279,7 +279,7 @@ Absol. ⟪विक्रीय⟫
 ![](/images/lekt3001.webp)
 Kuv.: ⟪क्रीणन्ति⟫ ⟪विक्रीणते⟫ ⟪च⟫
 Bundi = ⟪बुन्दी⟫, Rajasthan = ⟪राजस्थान⟫
-(Kuv. lähde: [Details](/fi/licenses#lekt3001))
+(Kuv. lähde: [Tiedot](/fi/licenses#lekt3001))
 :::
 ⟪ज्ञा⟫ 9U ⟪जानाति⟫ : tuntea, tunnistaa, tietää, ymmärtää
 
@@ -337,7 +337,7 @@ Kuv.: ⟪अश्नीयात्⟫
 ::: media
 ![](/images/lekt3004.webp)
 Kuvaus.: ⟪प्रिया⟫
-(Kuv lähde: [Details](/fi/licenses#lekt3004))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3004))
 :::
 ⟪चेत्⟫ Konjunktion: jos; edellyttäen, että (ei koskaan lauseen alussa)
 
@@ -363,7 +363,7 @@ siitä:
 ::: media
 ![](/images/lekt2904.webp)
 Kuv.: ⟪पुनर्भवः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt2904))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt2904))
 :::
 ⟪जीव्⟫ 1P ⟪जीवति⟫ : elää
 

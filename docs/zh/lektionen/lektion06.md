@@ -29,7 +29,7 @@ status: stable
 :::
 Wird der Agens (**kartṛ** m. = ⟪कर्तृ⟫) in einem Verbalsatz genannt, der nicht im Passiv steht, dann steht der Agens im **Nominativ** (erster Fall, prathamā = ⟪प्रथमा⟫). Im Numerus (Zahl, vacana n. = ⟪वचन⟫) stimmen dann Agens und Verbalform überein. <!-- TODO: Fallback translation -->
 
-## 6.2. Zur Bildung der Verbalformen
+## 6.2. Zur Bildung der Verbalformen <!-- TODO: Fallback translation -->
 
 Eine finite Verbalform, d.h. eine Verbalform mit Personalendung, drückt im Sanskrit Folgendes aus: <!-- TODO: Fallback translation -->
 
@@ -90,7 +90,7 @@ Beispiel **yaj** = ⟪यज्⟫ = "mit einem Opfer verehren", "opfern": <!-- 
   - 3. sg. Ā. **yajate** = ⟪यजते⟫ <!-- TODO: Fallback translation -->
   - 3. pl. Ā. **yajante** = ⟪यजन्ते⟫ <!-- TODO: Fallback translation -->
 
-## 6.5. Bildung des Präsensstamms
+## 6.5. Bildung des Präsensstamms <!-- TODO: Fallback translation -->
 
 ### 6.5.1. 第六现在时类动词（tudādi = ⟪तुदादि⟫ = “tud 等”）
 
@@ -141,7 +141,7 @@ Vor Vokalen wird im Wortinnern **e** durch **ay**, **o** durch **av** ersetzt. <
 | **yudh** :br⟪युध्⟫ | **yudhya-** :br⟪युध्य⟫- |
 | **man** :br⟪मन्⟫ | **manya-** :br⟪मन्य⟫- |
 :::
-### 6.5.4. Themavokal, thematische Präsensklassen
+### 6.5.4. Themavokal, thematische Präsensklassen <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Das **a** in den Stammbildungssuffixen von Präsensklassen nennt man **Themavokal**. Präsensklassen mit **a** im Stammbildungssuffix heißen deswegen "thematische Präsensklassen". <!-- TODO: Fallback translation -->

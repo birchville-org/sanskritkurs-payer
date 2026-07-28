@@ -14,16 +14,16 @@ status: stable
 ⟪मनुस्मृति⟫ ⟪४⟫.⟪३२⟫ über rechtes Urinieren: <!-- TODO: Fallback translation -->
 
 ::: indent
-⟪प्रत्य⟫*⟪ग्नि⟫* ⟪प्रतिसूर्यं⟫ ⟪च⟫  
+⟪प्रत्य⟫*:sig[⟪ग्नि⟫]* ⟪प्रतिसूर्यं⟫ ⟪च⟫  
 ⟪प्रतिसोमोदकद्विजम्⟫ ⟪।⟫  
-⟪प्रति⟫*⟪गु⟫* ⟪प्रतिवातं⟫ ⟪च⟫  
+⟪प्रति⟫*:sig[⟪गु⟫]* ⟪प्रतिवातं⟫ ⟪च⟫  
 ⟪प्रज्ञा⟫ ⟪नश्यति⟫ ⟪मेहतः⟫ ⟪॥⟫
 :::
 Erklärungen: <!-- TODO: Fallback translation -->
 
 \-⟪अग्नि⟫ Neutrum Nom.Akk.sg. zu ⟪अग्नि⟫ m. <!-- TODO: Fallback translation -->
 
-\-⟪गु⟫ Neutrum Nom.Akk.sg. zu ⟪गो⟫ m.f. "Rind, Kuh" <!-- TODO: Fallback translation -->
+\-:sig[⟪गु⟫] Neutrum Nom.Akk.sg. zu ⟪गो⟫ m.f. "Rind, Kuh" <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt3801.webp)
@@ -37,7 +37,7 @@ Nasale im Wort werden darauffolgenden Konsonanten assimiliert, d. h. sie werden 
 
 Nach c- und j- wird -n- durch -ñ- ersetzt. <!-- TODO: Fallback translation -->
 :::
-## 38.3. Deklination der Stämme auf -n
+## 38.3. Deklination der Stämme auf -n <!-- TODO: Fallback translation -->
 
 ### 38.3.1. 以 -an 结尾的名词以及元音后的 -man 或 -van 结尾的名词
 ::: grammar-box
@@ -56,7 +56,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 ⟪राजन्⟫ m. "König" <!-- TODO: Fallback translation -->
 
 *   starker Stamm: ⟪राजान्⟫ <!-- TODO: Fallback translation -->
-*   mittlerer Stamm: ⟪राज⟫ <!-- TODO: Fallback translation -->
+*   mittlerer Stamm: :sig[⟪राज⟫] <!-- TODO: Fallback translation -->
 *   schwächster Stamm: ⟪राज्ञ्⟫ <!-- TODO: Fallback translation -->
 
 ⟪सीमन्⟫ f. "Grenze" <!-- TODO: Fallback translation -->
@@ -266,9 +266,9 @@ Stämme, die auf einen Konsonanten enden, erscheinen als Vorderglied eines Kompo
 Beispiel: <!-- TODO: Fallback translation -->
 
 ::: indent
-***⟪राज⟫***⟪पुत्र⟫ "Königssohn" <!-- TODO: Fallback translation -->
+***:sig[⟪राज⟫]***⟪पुत्र⟫ "Königssohn" <!-- TODO: Fallback translation -->
 :::
-## 38.8. Stämme auf -an als Hinterglied eines ⟪बहुव्रीहि⟫
+## 38.8. Stämme auf -an als Hinterglied eines ⟪बहुव्रीहि⟫ <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Als Hinterglied eines ⟪बहुव्रीहि⟫ kann ein -an-Stamm für alle drei Geschlechter verwendet werden. In der Regel wird aber das Femininum mit dem Suffix -ī vom schwächsten Maskulinstamm gebildet. <!-- TODO: Fallback translation -->
@@ -337,14 +337,14 @@ davon: <!-- TODO: Fallback translation -->
 :::
 ⟪सुत⟫ m.: Sohn <!-- TODO: Fallback translation -->
 
-⟪राजन्⟫ m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. ⟪तत्पुरुष⟫) meist: -⟪राज⟫ m. (wie ⟪देव⟫) <!-- TODO: Fallback translation -->
+⟪राजन्⟫ m.: König (über das Königtum in Indien siehe Basham, Wonder S. 82 -94). Als Schlussglied eines Kompositums (bes. ⟪तत्पुरुष⟫) meist: -:sig[⟪राज⟫] m. (wie ⟪देव⟫) <!-- TODO: Fallback translation -->
 
 ::: indent
 Femininum: <!-- TODO: Fallback translation -->
 
 ⟪राज्ञी⟫ f.: Königin, Frau eines Königs <!-- TODO: Fallback translation -->
 
-von ⟪राज⟫ : <!-- TODO: Fallback translation -->
+von :sig[⟪राज⟫] : <!-- TODO: Fallback translation -->
 
 ⟪राज्य⟫ 3: königlich; n. Königreich, Königtum, Herrschaft <!-- TODO: Fallback translation -->
 :::
@@ -553,39 +553,39 @@ Inf. ⟪सर्तुम्⟫ <!-- TODO: Fallback translation -->
 
 ## 38.12. 翻译练习
 
-*⟪दश⟫* ⟪मूढाः⟫
+*:sig[⟪दश⟫]* ⟪मूढाः⟫
 
-⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ ⟪दश⟫ ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ *⟪बाहुभ्यां⟫* ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
+⟪मूढानां⟫ ⟪चेष्टितानि⟫ ⟪प्रायेण⟫ ⟪विनोदावहानि⟫ ⟪।⟫ ⟪यथा⟫ ⟪हि⟫ -- ⟪एकदा⟫ :sig[⟪दश⟫] ⟪मूढा⟫ ⟪देशाटनाय⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪किञ्चिद्दूरं⟫ ⟪गतानां⟫ ⟪तेषामुपस्थिता⟫ ⟪काचिदगाधा⟫ ⟪नदी⟫ ⟪।⟫ *:sig[⟪बाहुभ्यां⟫]* ⟪तरन्तस्ते⟫ ⟪कथमपि⟫ ⟪नदीं⟫ ⟪तीर्त्वा⟫ ⟪पारं⟫ ⟪गताः⟫ ⟪॥⟫
 
-⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ *⟪सर्वे⟫* ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ *⟪जिज्ञासमान⟫*⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ *⟪नवै⟫*⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ *⟪वयम्⟫* ⟪दश⟫ ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ *⟪स्मः⟫* ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ *⟪गवेषयत⟫* ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫*⟪मेकैको⟫* ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ *⟪समजनि⟫* ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫*⟪स्तरसा⟫* ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ *⟪यूयम्⟫* ⟪।⟫ *⟪युष्माकमे⟫*⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
+⟪आसीत्तेषां⟫ ⟪मध्ये⟫ ⟪कश्चन⟫ ⟪वृद्धः⟫ ⟪।⟫ ⟪स⟫ ⟪किं⟫ *:sig[⟪सर्वे⟫]* ⟪तीरमनुप्राप्ता⟫ ⟪ईति⟫ *:sig[⟪जिज्ञासमान⟫]*⟪स्तानेकैकशो⟫ ⟪गणयामास⟫ ⟪।⟫ ⟪परं⟫ *:sig[⟪नवै⟫]*⟪व⟫ ⟪परिगणितास्तेन⟫ ⟪।⟫ ⟪ततः⟫ ⟪स⟫ ⟪आक्रोशत्⟫ ⟪।⟫ ⟪अहो⟫ *:sig[⟪वयम्⟫]* :sig[⟪दश⟫] ⟪प्रस्थिताः⟫ ⟪।⟫ ⟪इदानीं⟫ ⟪नवैव⟫ *:sig[⟪स्मः⟫]* ⟪।⟫ ⟪नूनमस्माकमेको⟫ ⟪नद्यां⟫ ⟪निमग्नः⟫ ⟪।⟫ *:sig[⟪गवेषयत⟫]* ⟪तमिति⟫ ⟪।⟫ ⟪ततस्तेषा⟫*:sig[⟪मेकैको⟫]* ⟪ऽपि⟫ ⟪गणनां⟫ ⟪चकार⟫ ⟪।⟫ ⟪परं⟫ ⟪नवैव⟫ ⟪दृश्यन्ते⟫ ⟪।⟫ ⟪ततस्तेषां⟫ ⟪व्याकुलीभूतानां⟫ ⟪महान्कोलाहलः⟫ *:sig[⟪समजनि⟫]* ⟪।⟫ ⟪तत्रैव⟫ ⟪नातिदूरे⟫ ⟪कस्यचिदृषेराश्रमो⟫ ⟪ऽवर्तत⟫ ⟪।⟫ ⟪तत्र⟫ ⟪वसन्नृषिस्तेषां⟫ ⟪विवेष्टितमवलोक्योच्चैर्जहास⟫ ⟪।⟫ ⟪तस्य⟫ ⟪हासशब्दं⟫ ⟪श्रुत्वा⟫ ⟪मूढा⟫*:sig[⟪स्तरसा⟫]* ⟪समुपसृत्य⟫ ⟪हासकारणमपृच्छन्⟫ ⟪।⟫ ⟪ऋषिराह⟫ ⟪।⟫ ⟪अहो⟫ ⟪।⟫ ⟪अनात्मज्ञा⟫ *:sig[⟪यूयम्⟫]* ⟪।⟫ *:sig[⟪युष्माकमे⟫]*⟪कैको⟫ ⟪ऽपि⟫ ⟪नात्मानमगणयत्⟫ ⟪।⟫ ⟪तेनायं⟫ ⟪व्यामोहः⟫ ⟪संजात⟫ ⟪इति⟫ ⟪।⟫ ⟪तदाकर्ण्य⟫ ⟪ते⟫ ⟪मूढाः⟫ ⟪सलज्जमधोमुखाः⟫ ⟪प्रययुः⟫ ⟪॥⟫ (⟪संस्कृतप्रथमादर्शः⟫)
 
 Erklärungen: <!-- TODO: Fallback translation -->
 
-⟪दश⟫ Nom.Akk.pl.m.f.n. zu ⟪दशन्⟫ "zehn" <!-- TODO: Fallback translation -->
+:sig[⟪दश⟫] Nom.Akk.pl.m.f.n. zu ⟪दशन्⟫ "zehn" <!-- TODO: Fallback translation -->
 
 ⟪बाहुभ्याम्⟫ Instr.Dat.Abl. Dual zu ⟪बाहु⟫ m. "Arm" <!-- TODO: Fallback translation -->
 
-⟪सर्वे⟫ Nom.pl.m. zu ⟪सर्व⟫ 3 "jeder, alle" <!-- TODO: Fallback translation -->
+:sig[⟪सर्वे⟫] Nom.pl.m. zu ⟪सर्व⟫ 3 "jeder, alle" <!-- TODO: Fallback translation -->
 
-⟪जिज्ञासमान⟫ Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "erkennen wollen, wissen wollen" <!-- TODO: Fallback translation -->
+:sig[⟪जिज्ञासमान⟫] Part.Präs.Ā.Desiderativ zu ⟪ज्ञा⟫ 9U ⟪जिज्ञासते⟫ "erkennen wollen, wissen wollen" <!-- TODO: Fallback translation -->
 
 ⟪नव⟫ Nom.Akk.pl.m.f.n. zu ⟪नवन्⟫ "neun" <!-- TODO: Fallback translation -->
 
-⟪वयम्⟫ Nom.pl. "wir" <!-- TODO: Fallback translation -->
+:sig[⟪वयम्⟫] Nom.pl. "wir" <!-- TODO: Fallback translation -->
 
 ⟪स्मस्⟫ 1.pl.Ind.Präs.P zu ⟪अस्⟫ 2P <!-- TODO: Fallback translation -->
 
-⟪गवेषयत⟫ 2.pl.Imperativ P <!-- TODO: Fallback translation -->
+:sig[⟪गवेषयत⟫] 2.pl.Imperativ P <!-- TODO: Fallback translation -->
 
 ⟪एकैक⟫ "jeder einzeln" <!-- TODO: Fallback translation -->
 
-⟪समजनि⟫ 3.sg.Passiv Aorist zu ⟪जन्⟫ <!-- TODO: Fallback translation -->
+:sig[⟪समजनि⟫] 3.sg.Passiv Aorist zu ⟪जन्⟫ <!-- TODO: Fallback translation -->
 
 ⟪तरसा⟫ Instr. sg. zu ⟪तरस्⟫ n. "Energie", adverbial gebraucht: "rasch, mit Gewalt" <!-- TODO: Fallback translation -->
 
-⟪यूयम्⟫ Nom.pl. "ihr" <!-- TODO: Fallback translation -->
+:sig[⟪यूयम्⟫] Nom.pl. "ihr" <!-- TODO: Fallback translation -->
 
-⟪युष्माकम्⟫ Gen.pl. zu ⟪यूयम्⟫ <!-- TODO: Fallback translation -->
+⟪युष्माकम्⟫ Gen.pl. zu :sig[⟪यूयम्⟫] <!-- TODO: Fallback translation -->
 
 ::: deleteme-box
 

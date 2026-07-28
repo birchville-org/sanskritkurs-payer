@@ -30,7 +30,7 @@ status: stable
 ::: media
 ![lekt4005.jpg](/images/lekt4005.webp)
 Kuva: ⟪पादं⟫ ⟪सब्रह्मचारिभ्यः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4005))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4005))
 :::
 ## 40.2. Ensimmäisen persoonan imperfektin verbimuotojen muodostus (⟪लिट्⟫)
 
@@ -481,7 +481,7 @@ niistä:
 ::: media
 ![lekt4003.jpg](/images/lekt4003.webp)
 Kuv.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4003))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4003))
 :::
 
 ::: indent
@@ -490,7 +490,7 @@ Kuv.: ⟪हरिद्वारे⟫ ⟪तीर्थम्⟫
 ::: media
 ![lekt4002.jpg](/images/lekt4002.webp)
 Kuv.: ⟪तीर्थङ्करः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt4002))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt4002))
 :::
 ⟪अव⟫ prepositio: alas, laskuun, pois, ab-
 
@@ -504,7 +504,7 @@ siitä:
 ::: media
 ![lekt4001.jpg](/images/lekt4001.webp)
 Kuv.: ⟪विष्णोर्दशावताराः⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt4001))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt4001))
 :::
 ⟪स्वप्⟫ 2P ⟪स्वपिति⟫,  ⟪स्वपन्ति⟫ : nukkua, asettua nukkumaan
 

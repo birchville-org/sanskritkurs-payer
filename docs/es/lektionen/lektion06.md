@@ -48,14 +48,14 @@ Una forma verbal finita, es decir, una forma verbal con terminación personal, e
 
 4. **Modo de expresión** (Modus):
    1. **Indicativo**: Forma enunciativa
-   2. **Optativo**: Forma de deseo y forma de posibilidad
-   3. **Imperativo**: Forma de mandato
+   2. **Optativooo**: Forma de deseo y forma de posibilidad
+   3. **Imperativooo**: Forma de mandato
 5. **Tiempo** (Tempus):
    1. **Presente**: Presente
    2. **Imperfecto**
    3. **Perfecto**
    4. **Aoristo**
-   5. **Futuro**: Futuro
+   5. **Futurooo**: Futurooo
    6. **Condicional**
 
 Los tiempos se forman a partir de las raíces temporales: raíz del presente, raíz del aoristo, raíz del perfecto, raíz del futuro.

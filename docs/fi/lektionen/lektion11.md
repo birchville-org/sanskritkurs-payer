@@ -38,7 +38,7 @@ z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 » Passiv: **rāmeṇa dharmaḥ pṛcchyate** = ⟪रामेण⟫ ⟪धर्मः⟫ ⟪पृच्छयते⟫
 :::
 
-## 11.2. Wortliste
+## 11.2. Sanasto
 
 **Lernen Sie folgende Wörter:**
 
@@ -68,7 +68,7 @@ z.B. **rāmo dharmaṃ pṛcchati** = ⟪रामो⟫ ⟪धर्मं⟫ �
 ::: media
 ![](/images/lekt1102.webp)
 Kuva: **vadanāni** = ⟪वदनानि⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1102))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1102))
 :::
 - **prach** 6 P ⟪प्रच्छ्⟫ : kysyä
   - **praśna** m. ⟪प्रश्न⟫ : kysymys (liite **-na** kuten sanassa **yaj-ña**)
@@ -102,7 +102,7 @@ Kuva: **vadanāni** = ⟪वदनानि⟫
 ::: media
 ![](/images/lekt1101.webp)
 Kuva: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महाकाश्यपः⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1101))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1101))
 :::
 
 ## 11.4. Toistoharjoitus
@@ -143,5 +143,5 @@ Kuva: **śrāvako mahākāśyapaḥ** = ⟪श्रावको⟫ ⟪महा
 ::: media
 ![](/images/lekt1103.webp)
 Kuva: **karṣakeṇa kṛṣyate** = ⟪कर्षकेण⟫ ⟪कृष्यते⟫
-(Kuvan lähde: [Details](/fi/licenses#lekt1103))
+(Kuvan lähde: [Tiedot](/fi/licenses#lekt1103))
 :::

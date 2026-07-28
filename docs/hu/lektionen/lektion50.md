@@ -139,9 +139,9 @@ Absol.-⟪वृष्य⟫
 :::
 ::: media
 ![](/images/lekt5002.jpg)
-Abb.: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
+Ábra: ⟪महामेघो⟫ ⟪वर्षिष्यति⟫
 A Monsun érkezése, Bangalore  ಬೆಂಗಳೂರು
-(Képmegjelenítés: [Details](/hu/licenses#lekt5002))
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5002))
 :::
 ⟪संयक्⟫ Adv.: helyes, igazán, a megfelelő módon; teljes mértékben
 
@@ -154,7 +154,7 @@ A Monsun érkezése, Bangalore  ಬೆಂಗಳೂರು
 :::
 ⟪सर्व⟫ 3: mindenki, mind
 
-Ragozás mint ⟪यद्⟫ (kivétel: Nominativus/Accusativus singularis neutrum)
+Ragozás mint ⟪यद्⟫ (kivétel: alanyeset (nominativus)us/Accusativus singularis neutrum)
 
 ::: grammar-box
 | | egyes szám:br⟪एकवचनम्⟫ || || többes szám:br⟪बहुवचनम्⟫ || ||
@@ -170,7 +170,7 @@ Ragozás mint ⟪यद्⟫ (kivétel: Nominativus/Accusativus singularis neut
 :::
 ⟪वै⟫ : Partikel, der das vorangehende Wort betont: fürwahr, wahrlich, aber
 
-⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im Lokativ (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫
+⟪इह⟫ Adv.: hier, hier auf Erden, hierher ; jetzt. Vor Substantiven im lokativus (⟪षष्ठी⟫) gleichbedeutend mit ⟪अस्मिन्⟫, ⟪अस्याम्⟫
 
 ⟪कल्प⟫ m: rend, szokás, rituálé ; [Világkor](http://en.wikipedia.org/wiki/Kalpa_\(time_unit\)) (hozzá ⟪कॢप्⟫)
 
@@ -260,7 +260,7 @@ B) Fordítsa le:
 :sig[⟪द्रष्टृदृश्ययोः⟫] ⟪संयोगो⟫ ⟪हेयहेतुः⟫ ⟪॥७॥⟫
 
 Magyarázat:
-⟪द्रष्टृदृश्ययोः⟫ : Gen.Lok.m.n.f.Dual (Dualdvandva)
+:sig[⟪द्रष्टृदृश्ययोः⟫] : Gen.Lok.m.n.f.kettes szám (dualis) (kettes szám (dualis)dvandva)
 :::
 ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪१५⟫: A király tanácsadói felett
 
@@ -289,7 +289,7 @@ Magyarázat:
 ⟪स⟫ ⟪विप्रो⟫ ⟪गुरुरुच्यते⟫ ⟪॥११॥⟫
 
 Magyarázatok:
-⟪निषेकादीनि⟫ : Nominativ/Akkuzatív, többes szám, középnem
+⟪निषेकादीनि⟫ : alanyeset (nominativus)/Akkuzatív, többes szám, középnem
 :::
 ::: deleteme-box
 

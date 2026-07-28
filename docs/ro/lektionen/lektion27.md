@@ -155,15 +155,15 @@ Mai multe detalii despre utilizarea cazului locitiv vor urma.
 :::
 **Cuvinte roșii tipărite**: cazuri puternice (în cazul alternanței stemului).
 
-## 27.4. Un vers cu toate formele de declinare (singular) la ⟪राम⟫
+## 27.4. Un vers cu toate formele de declinare (singular) la :sig[⟪राम⟫]
 
 ::: media
 ![](/images/lekt2708.webp)
-Fig.: ⟪रामे⟫ ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ⟪राम⟫ ⟪मामुद्धर⟫ ⟪॥⟫
+Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
 (Sursa imaginii: [Detalii](/ro/licenses#lekt2708))
 :::
-***⟪रामो⟫*** ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ ***⟪रामं⟫*** ⟪रमेशं⟫ ⟪भजे⟫:br***⟪रामेणा⟫***⟪भिहता⟫ ⟪निशाचरचमू⟫ ***⟪रामाय⟫*** ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br***⟪रामान्ना⟫***⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ ***⟪रामस्य⟫*** ⟪दासोऽस्म्यहम्⟫:br***⟪रामे⟫*** ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ***⟪राम⟫*** ⟪मामुद्धर⟫ ⟪॥⟫
+**:sig[⟪रामो⟫]** ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ **:sig[⟪रामं⟫]** ⟪रमेशं⟫ ⟪भजे⟫:br**:sig[⟪रामेणा⟫]**⟪भिहता⟫ ⟪निशाचरचमू⟫ **:sig[⟪रामाय⟫]** ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br**:sig[⟪रामान्ना⟫]**⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ **:sig[⟪रामस्य⟫]** ⟪दासोऽस्म्यहम्⟫:br**:sig[⟪रामे⟫]** ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ **:sig[⟪राम⟫]** ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Traducere:**
 1. **Nominativ:** Rāma, bijuteria (⟪मणि⟫ m.) dintre regi (⟪राजन्⟫ m.) învinge întotdeauna (⟪सदा⟫).

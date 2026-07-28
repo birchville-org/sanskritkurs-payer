@@ -1,6 +1,6 @@
 
 export const la = {
-  label: 'LA - Latina',
+  label: '🏛️ LA - Latina',
   lang: 'la',
   link: '/la/',
   title: 'Cursus Sanscriticus',

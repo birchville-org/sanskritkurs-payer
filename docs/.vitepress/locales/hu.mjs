@@ -1,5 +1,5 @@
 export const hu = {
-  label: 'HU - Magyar',
+  label: '🇭🇺 HU - Magyar',
   lang: 'hu-HU',
   link: '/hu/',
   title: 'Szanszkrit tanfolyam',

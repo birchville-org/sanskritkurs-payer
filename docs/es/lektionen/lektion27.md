@@ -155,25 +155,25 @@ Más sobre el uso del locativo más adelante.
 :::
 **Impreso en rojo señalizador**: casos fuertes (con ablaut de la raíz).
 
-## 27.4. Un verso con todas las formas declinativas (singular) de ⟪राम⟫
+## 27.4. Un verso con todas las formas declinativas (singular) de :sig[⟪राम⟫]
 
 ::: media
 ![](/images/lekt2708.webp)
-Fig.: ⟪रामे⟫ ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ ⟪राम⟫ ⟪मामुद्धर⟫ ⟪॥⟫
+Fig.: :sig[⟪रामे⟫] ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ :sig[⟪राम⟫] ⟪मामुद्धर⟫ ⟪॥⟫
 Rāma-Satz.
 (Fuente de la imagen: [Detalles](/es/licenses#lekt2708))
 :::
-*⟪रामो⟫* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *⟪रामं⟫* ⟪रमेशं⟫ ⟪भजे⟫:br *⟪रामेणा⟫*⟪भिहता⟫ ⟪निशाचरचमू⟫ *⟪रामाय⟫* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *⟪रामान्ना⟫*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *⟪रामस्य⟫* ⟪दासोऽस्म्यहम्⟫:br *⟪रामे⟫* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *⟪राम⟫* ⟪मामुद्धर⟫ ⟪॥⟫
+*:sig[⟪रामो⟫]* ⟪राजमणिः⟫ ⟪सदा⟫ ⟪विजयते⟫ *:sig[⟪रामं⟫]* ⟪रमेशं⟫ ⟪भजे⟫:br *:sig[⟪रामेणा⟫]*⟪भिहता⟫ ⟪निशाचरचमू⟫ *:sig[⟪रामाय⟫]* ⟪तस्मै⟫ ⟪नमः⟫ ⟪।⟫:br *:sig[⟪रामान्ना⟫]*⟪स्ति⟫ ⟪परायणम्⟫ ⟪परतरं⟫ *:sig[⟪रामस्य⟫]* ⟪दासोऽस्म्यहम्⟫:br *:sig[⟪रामे⟫]* ⟪चित्तलयः⟫ ⟪सदा⟫ ⟪भवतु⟫ ⟪मे⟫ ⟪भो⟫ *:sig[⟪राम⟫]* ⟪मामुद्धर⟫ ⟪॥⟫
 
 **Traducción:**
-1. **Nominativo:** Rāma, la joya (⟪मणि⟫ m.) entre los reyes (⟪राजन्⟫ m.) siempre triunfa (⟪सदा⟫).
+1. **Nominativooo:** Rāma, la joya (⟪मणि⟫ m.) entre los reyes (⟪राजन्⟫ m.) siempre triunfa (⟪सदा⟫).
 2. **Acusativo:** Amo (⟪भज्⟫ 1U) a Rāma, el señor y esposo (⟪ईश⟫ m.) de Ramā (= Lakṣmī).
 3. **Instrumental:** Rāma ha matado (⟪चमू⟫ f.) al ejército de los vagabundos nocturnos (= demonios) (⟪निशा⟫ f. = noche).
-4. **Dativo:** ¡A este Rāma sea reverencia!
-5. **Ablativo:** No hay mejor (⟪परतर⟫ 3) refugio (⟪परायण⟫ n.) que Rāma.
+4. **Dativooo:** ¡A este Rāma sea reverencia!
+5. **Ablativooo:** No hay mejor (⟪परतर⟫ 3) refugio (⟪परायण⟫ n.) que Rāma.
 6. **Genitivo:** Yo (⟪अहम्⟫) soy (⟪अस्मि⟫) un siervo de Rāma.
 7. **Locativo:** En Rāma esté (⟪भवतु⟫) siempre la paz (⟪लय⟫ m.) de mi (⟪मे⟫) corazón.
-8. **Vocativo:** ¡Rāma, salva (⟪उद्धर⟫ = Imperativo de ⟪उद्⟫ + ⟪हृ⟫ o ⟪उद्⟫ + ⟪धृ⟫) a mí (⟪माम्⟫)!
+8. **Vocativo:** ¡Rāma, salva (⟪उद्धर⟫ = Imperativooo de ⟪उद्⟫ + ⟪हृ⟫ o ⟪उद्⟫ + ⟪धृ⟫) a mí (⟪माम्⟫)!
 
 ## 27.5. Lista de palabras
 

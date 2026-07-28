@@ -54,22 +54,22 @@ Sillaba fundamentala:
 **Il vocal da questa ciamada sillaba da tema determinescha en l’aorist suenter las suandantas reglas:**
 
 *   **\-ā- davant consonants simples vegn sutitgà cun -a-:**  
-    ⟪पॄ⟫ 3P: Caus. ***⟪पार⟫***⟪यति⟫, Aor. ⟪अपि⟫***⟪पर⟫***⟪त्⟫  
-    ⟪द्रु⟫ 1P: Caus. ***⟪द्राव⟫***⟪यति⟫, Aor. ⟪अदु⟫***⟪द्रव⟫***⟪त्⟫ / ⟪अदि⟫***⟪द्रव⟫***⟪त्⟫  
-    ⟪नी⟫ 1U: Caus. ***⟪नाय⟫***⟪यति⟫, Aor. ⟪अनी⟫***⟪नय⟫***⟪त्⟫  
-    ⟪ज्ञा⟫ 9U: Caus. ***⟪ज्ञाप⟫***⟪यति⟫, Aor. ⟪अजि⟫***⟪ज्ञप⟫***⟪त्⟫
+    ⟪पॄ⟫ 3P: Caus. **:sig[⟪पार⟫]**⟪यति⟫, Aor. ⟪अपि⟫**:sig[⟪पर⟫]**⟪त्⟫  
+    ⟪द्रु⟫ 1P: Caus. **:sig[⟪द्राव⟫]**⟪यति⟫, Aor. ⟪अदु⟫**:sig[⟪द्रव⟫]**⟪त्⟫ / ⟪अदि⟫**:sig[⟪द्रव⟫]**⟪त्⟫  
+    :sig[⟪नी⟫] 1U: Caus. **:sig[⟪नाय⟫]**⟪यति⟫, Aor. ⟪अनी⟫**:sig[⟪नय⟫]**⟪त्⟫  
+    ⟪ज्ञा⟫ 9U: Caus. **:sig[⟪ज्ञाप⟫]**⟪यति⟫, Aor. ⟪अजि⟫**:sig[⟪ज्ञप⟫]**⟪त्⟫
 
 *   **\-ī-, -e-, -ai- davant consonant simplifit vegn sustituid cun -i-:**  
-    ⟪चित्⟫ 1P: Caus. ***⟪चेत⟫***⟪यति⟫, Aor. (Ā) ⟪अची⟫***⟪चित⟫***⟪त⟫
+    ⟪चित्⟫ 1P: Caus. **:sig[⟪चेत⟫]**⟪यति⟫, Aor. (Ā) ⟪अची⟫**:sig[⟪चित⟫]**⟪त⟫
 
 *   **-u-, -o-, -au- davant consonant simpl è replaceà da -u-:**  
-    ⟪चुर्⟫ 10U: ***⟪चोर⟫***⟪यति⟫, Aor. ⟪अचू⟫***⟪चुर⟫***⟪त्⟫
+    ⟪चुर्⟫ 10U: **:sig[⟪चोर⟫]**⟪यति⟫, Aor. ⟪अचू⟫**:sig[⟪चुर⟫]**⟪त्⟫
 
 **Per quai radis èn las midadas fin qua nominadas opziunalas u ston restar:**
 
 *   **La vocala che preceda directamain la consonanta finala da la silba da la radis, substituìda per ṛ, ṝ, ḷ da ar, ār, īr, al, resta opcziunalmain senza midada u vegn sustituida cun ṛ resp. ḷ:**  
-    ⟪कॢप्⟫ 1Ā: Caus. ***⟪कल्प⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कल्प⟫***⟪त्⟫ / ⟪अची⟫***⟪कॢ⟫***⟪पत्⟫  
-    ⟪कृष्⟫ 1P/6U: Caus. ***⟪कर्ष⟫***⟪यति⟫, Aor. ⟪अच⟫***⟪कर्ष⟫***⟪त्⟫ / ⟪अची⟫***⟪कृ⟫***⟪षत्⟫
+    ⟪कॢप्⟫ 1Ā: Caus. **:sig[⟪कल्प⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कल्प⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कॢ⟫]**⟪पत्⟫  
+    ⟪कृष्⟫ 1P/6U: Caus. **:sig[⟪कर्ष⟫]**⟪यति⟫, Aor. ⟪अच⟫**:sig[⟪कर्ष⟫]**⟪त्⟫ / ⟪अची⟫**:sig[⟪कृ⟫]**⟪षत्⟫
 :::
 Vocala da la silba da la reduplicaziun:
 
@@ -85,14 +85,14 @@ Post che las reglas mentinadas èn vegnidas applicadas sin la sillaba da la radi
 **Quest vocal da reduplicaziun è suttamess a las suandantas midadas:**
 
 *   **i, u vegnan sustituids da ī, ū, sche la sillaba da la radis cumenza cun mo in consonant ed è metricamain curta:**  
-    ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भिदत्⟫  
-    ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫***⟪तू⟫***⟪तुदत्⟫
+    ⟪भिद्⟫ 7U: Caus. ⟪भेदयति⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भिदत्⟫  
+    ⟪तुद्⟫ 6U: Caus. ⟪तोदयति⟫, Aor. ⟪अ⟫**:sig[⟪तू⟫]**⟪तुदत्⟫
 
 *   **a vegn suttat da ī, sche la sillaba da la radis è metricamain curta e cumenza cun mo in consonant. Sche la sillaba da la radis è metricamain curta e cumenza cun dapli che in consonant, vegn il a da la sillaba da la reduplicaziun suttat da i. Sche la sillaba da la radis è metricamain lunga, resta il a:**  
-    ⟪नी⟫ 1U: Caus. ⟪नाययति⟫, sillaba da la radis da l’Aor. ⟪नय्⟫, Aor. ⟪अ⟫***⟪नी⟫***⟪नयत्⟫  
-    ⟪कृ⟫ 8U: Caus. ⟪कारयति⟫, sillaba da la radis da l’Aor. ⟪कर्⟫, Aor. ⟪अ⟫***⟪ची⟫***⟪करत्⟫  
-    ⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, sillaba da la radis da l’Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫***⟪ति⟫***⟪त्यजत्⟫  
-    ⟪भू⟫ 1P: Caus. ⟪भावयति⟫, sillaba da la radis da l’Aor. ⟪भव्⟫, Aor. ⟪अ⟫***⟪बी⟫***⟪भवत्⟫
+    :sig[⟪नी⟫] 1U: Caus. ⟪नाययति⟫, sillaba da la radis da l’Aor. ⟪नय्⟫, Aor. ⟪अ⟫**:sig[⟪नी⟫]**⟪नयत्⟫  
+    :sig[⟪कृ⟫] 8U: Caus. ⟪कारयति⟫, sillaba da la radis da l’Aor. ⟪कर्⟫, Aor. ⟪अ⟫**:sig[⟪ची⟫]**⟪करत्⟫  
+    ⟪त्यज्⟫ 1P: Caus. ⟪त्याजयति⟫, sillaba da la radis da l’Aor. ⟪त्यज्⟫, Aor. ⟪अ⟫**:sig[⟪ति⟫]**⟪त्यजत्⟫  
+    ⟪भू⟫ 1P: Caus. ⟪भावयति⟫, sillaba da la radis da l’Aor. ⟪भव्⟫, Aor. ⟪अ⟫**:sig[⟪बी⟫]**⟪भवत्⟫
 
 Partikularitads da certas radichas tar Kielhorn, Grammatica § 435c ss.
 

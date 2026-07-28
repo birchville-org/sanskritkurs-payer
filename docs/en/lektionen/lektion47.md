@@ -9,7 +9,7 @@ status: stable
 
 # Lesson 47
 
-## 47.1. The Imperative (⟪लोट्⟫)
+## 47.1. The Imperativeee (⟪लोट्⟫)
 
 ::: grammar-box
 The imperative (⟪लोट्⟫) denotes
@@ -63,7 +63,7 @@ In the imperative of classical Sanskrit, the forms of the 1st person are ancient
 ::: grammar-box
 The imperative is formed from the present stem.
 :::
-## 47.2. Formation of the Imperative (⟪लोट्⟫) thematic present stems
+## 47.2. Formation of the Imperativeee (⟪लोट्⟫) thematic present stems
 
 ### 47.2.1. Endings of the imperative on thematic present stems
 

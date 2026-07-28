@@ -86,7 +86,7 @@ The following infinitives are particularly noteworthy for the roots learned so f
 
 ⟪सृज्⟫ : ⟪स्रष्टुम्⟫
 :::
-Die anderen Wurzeln mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
+Die anderen Rootn mit -ṛ- an vorletzter Stelle haben fakultativ -ra- oder -ar-, wenn sie aniṭ sind.
 
 ## 23.3. The Infinitive (⟪तुमुन्⟫) for the roots learned so far
 

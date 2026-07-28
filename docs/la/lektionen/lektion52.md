@@ -214,7 +214,7 @@ Exemplum:
 
 :::
 ::: indent
-⟪भस्मसात्कृ⟫*⟪त्वा⟫*
+⟪भस्मसात्कृ⟫*:sig[⟪त्वा⟫]*
 :::
 ## 52.5. Wortwiederholungen (⟪द्विरुक्तम्⟫)
 
@@ -252,7 +252,7 @@ Quae hic non tractantur, vide apud Kielhorn, Grammatik §201seq.
 **Adiectiva numerica pro *uno usque ad decem novem* sunt adiectiva.**
 **Adiectiva numerica pro **uno usque ad quattuor** in declinatione pro tribus generibus diversa sunt.**
 
-**Pro adiectivis numericis pro **quinque usque ad decem novem** ***(⟪नवदशन्⟫)*** una tantum declinatio est pro tribus generibus.**
+**Pro adiectivis numericis pro **quinque usque ad decem novem** ***(:sig[⟪नवदशन्⟫])*** una tantum declinatio est pro tribus generibus.**
 
 **Pro hisce adiectivis numericis, sicut pro omnibus adiectivis: in eodem casu, numero et genere esse debet ac nomen adiunctum et vicissim (id est pro uno singularis, pro duo dualis, pro ceteris pluralis).**
 :::
@@ -327,16 +327,16 @@ semel: ⟪सकृत्⟫
 bis: ⟪द्विस्⟫
 ter: ⟪त्रिस्⟫
 quater: ⟪चतुस्⟫
-quinies et cetera cum suffixo ***\-⟪कृत्वस्⟫*** formatum est: ⟪पञ्चकृत्वस्⟫
+quinies et cetera cum suffixo ***\-:sig[⟪कृत्वस्⟫]*** formatum est: ⟪पञ्चकृत्वस्⟫
 :::
-b) "-fach": cum suffixo ***\-⟪धा⟫*** exprimitur
+b) "-fach": cum suffixo ***\-:sig[⟪धा⟫]*** exprimitur
 
 ::: indent
 simplex: ⟪एकधा⟫
 bifidus: ⟪द्विधा⟫ ⟪।⟫ ⟪द्वेधा⟫
 et cetera.
 :::
-c) "je ...", "ad ...": cum suffixo ***\-⟪शस्⟫*** exprimitur (vide supra!)
+c) "je ...", "ad ...": cum suffixo ***\-:sig[⟪शस्⟫]*** exprimitur (vide supra!)
 
 ::: indent
 ⟪द्विशस्⟫ "ad duo, bini"
@@ -349,7 +349,7 @@ c) "je ...", "ad ...": cum suffixo ***\-⟪शस्⟫*** exprimitur (vide supr
 bifarius, ex duobus constans
 trifarius, ex tribus partibus constans
 
-ab 4 "-fältig" per suffixum ***\-⟪तय⟫ (f.: -⟪तयी⟫)*** exprimitur: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "quadrifarius"
+ab 4 "-fältig" per suffixum ***\-:sig[⟪तय⟫] (f.: -:sig[⟪तयी⟫])*** exprimitur: ⟪चतुष्टय⟫ m.n. ⟪चतुष्टयी⟫ f. "quadrifarius"
 :::
 Ceteras compositiones in lexiconibus vel grammaticis petito.
 
@@ -392,7 +392,7 @@ Septem stellae = septem clarissimae stellae Ursae maioris (Ursa maior)
 
 2.  compositum sic formatum in significato utitur, quod alio suffixo Taddhita significatur (in hac specie transitus ad Bahuvrīhi fluens est):
     Exemplis:  
-    dvi + go » ⟪द्विगु⟫ : non: "duae vaccae", sed: "**pro duabus vaccis empta**"  
+    dvi + go » :sig[⟪द्विगु⟫] : non: "duae vaccae", sed: "**pro duabus vaccis empta**"  
     ⟪द्विवर्ष⟫ non: "anni duo", sed: "**duos annos natus**"
 
 3.  compositum sic formatum membrum prius alterius compositi constituit
@@ -409,7 +409,7 @@ Jalakandapuram = ஜலகண்டபுரம்
 ::: grammar-box
 **Appellativum pro numero cardinali (sed non pro parte caeli) potest, cum alio nomine coniunctum, Tatpuruṣam formare etiam si compositum ita formatum aggregatum plurium rerum significat, id est duas vel plures res in unam unitatem colligit.**
 
-**Tatpuruṣa, quae secundum hanc regulam formantur, vocantur ***Dvigu (⟪द्विगु⟫)***.**
+**Tatpuruṣa, quae secundum hanc regulam formantur, vocantur ***Dvigu (:sig[⟪द्विगु⟫])***.**
 
 **Composita Dvigu, quae unitatem significant, saepe sunt Neutra. Si secundum membrum in -a desinit, suffixum femininum -ī adesse potest. Si secundum membrum in fem. -ā desinit, loco eius Neutrum -a vel Femininum -ī apparet. Si secundum membrum in -an desinit, pro eo -a vel -ī substituitur.**
 :::
@@ -501,7 +501,7 @@ Fig.: ⟪प्रधानः⟫
 ::: indent
 ⟪त्रिवर्ग⟫ m.: tris (e.g. ⟪धर्मः⟫, ⟪अर्थः⟫, ⟪कामः⟫ ; aut: ⟪सत्त्वम्⟫, ⟪रजस्⟫, ⟪तमस्⟫ ; aut: ⟪ब्राह्मणाः⟫, ⟪क्षत्रियाः⟫, ⟪वैश्याः⟫)
 :::
-⟪वश्⟫ 2P ⟪वस्टि⟫, ***⟪उशन्ति⟫,*** Imper. 2.sg.: ***⟪उड्ढि⟫*** : velle, iubere, desiderare
+⟪वश्⟫ 2P ⟪वस्टि⟫, ***:sig[⟪उशन्ति⟫],*** Imper. 2.sg.: **:sig[⟪उड्ढि⟫]** : velle, iubere, desiderare
 
 ::: indent
 Perf. Va ⟪उवाश⟫, ⟪ऊशुर्⟫
@@ -656,7 +656,7 @@ Inf. ⟪त्रातुम्⟫
 ⟪सर्वं⟫ ⟪परवशं⟫ ⟪दुःखं⟫
 ⟪सर्वमात्मवशं⟫ ⟪सुखम्⟫ ⟪।⟫
 ⟪एतद्विद्यात्समासेन⟫
-⟪लक्षणं⟫ ⟪सुखदुःख⟫*⟪योः⟫* ⟪॥१६०॥⟫
+⟪लक्षणं⟫ ⟪सुखदुःख⟫*:sig[⟪योः⟫]* ⟪॥१६०॥⟫
 
 ⟪यत्कर्म⟫ ⟪कुर्वतो⟫ ⟪ऽस्य⟫ ⟪स्यात्⟫
 ⟪परितोषो⟫ ⟪ऽन्तरात्मनः⟫ ⟪।⟫
@@ -669,7 +669,7 @@ Explicatio: ⟪सुखदुःखयोः⟫ Gen.Loc.Dual.m.f.n. (Dualdvandv
 
 ::: indent
 ⟪वेदो⟫ ⟪ऽखिलो⟫ ⟪धर्ममूलम्⟫
-⟪स्मृतिशी⟫*⟪ले⟫* ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
+⟪स्मृतिशी⟫*:sig[⟪ले⟫]* ⟪च⟫ ⟪तद्विदाम्⟫ ⟪।⟫
 ⟪आचआरश्चैव⟫ ⟪साधूनाम्⟫
 ⟪आत्मनस्तुष्टिरेव⟫ ⟪च⟫ ⟪॥६॥⟫
 
@@ -677,7 +677,7 @@ Explicatio: ⟪स्मृतिशीले⟫ Nom.Akk.Dual.n. (Dualdvandva)
 :::
 ⟪३⟫. ⟪कौटिलीयार्थशास्त्र⟫ ⟪१⟫, ⟪७⟫, ⟪२⟫ - ⟪७⟫ Super ⟪अर्थ⟫, ⟪काम⟫, ⟪धर्म⟫ in vita principis
 
-⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫*⟪मितरौ⟫* ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫*⟪मूलौ⟫* ⟪हि⟫ ⟪धर्मका⟫*⟪मावि⟫*⟪ति⟫ ⟪।७।⟫
+⟪एवं⟫ ⟪वश्येन्द्रियः⟫ ⟪परस्त्रीद्रव्यहिंसाश्च⟫ ⟪वर्जयेत्⟫, ⟪स्वप्नं⟫ ⟪लौल्यमनृतम्दुद्धतवेषत्वमनर्थ्यसंयोगमधर्मसंयुक्तमनर्थसंयुक्तं⟫ ⟪च⟫ ⟪व्यवहारम्⟫ ⟪।२।⟫ ⟪धर्मार्थाविरोधेन⟫ ⟪कामं⟫ ⟪सेवेत⟫, ⟪न⟫ ⟪निःसुखः⟫ ⟪स्यात्⟫ ⟪।३।⟫ ⟪समं⟫ ⟪वा⟫ ⟪त्रिवर्गमन्योन्यानुबद्धम्⟫ ⟪।४।⟫ ⟪एको⟫ ⟪ह्यत्यासेवितो⟫ ⟪धर्मार्थकामानामात्मान⟫*:sig[⟪मितरौ⟫]* ⟪च⟫ ⟪पीदयति⟫ ⟪।५।⟫ ⟪अर्थ⟫ ⟪एव⟫ ⟪प्रधान⟫ ⟪इति⟫ ⟪कौटिल्यः⟫ ⟪।६।⟫ ⟪अर्थ⟫*:sig[⟪मूलौ⟫]* ⟪हि⟫ ⟪धर्मका⟫*:sig[⟪मावि⟫]*⟪ति⟫ ⟪।७।⟫
 
 ::: indent
 Explanationes:

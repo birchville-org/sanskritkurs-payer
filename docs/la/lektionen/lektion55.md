@@ -39,11 +39,11 @@ Exemplum:
 Formae irregulares:
 
 ::: indent
-⟪अस्⟫ 4P "iacere": ***⟪आस्थम्⟫, ⟪आस्थत्*** (explicatio vide Thumb-Hauschild §541,4)
+⟪अस्⟫ 4P "iacere": ***:sig[⟪आस्थम्⟫], ⟪आस्थत्*** (explicatio vide Thumb-Hauschild §541,4)
 
-⟪ख्या⟫ + ⟪आ⟫ 2P "narrare": ***⟪अख्यम्⟫, ⟪अख्यत्***
+⟪ख्या⟫ + ⟪आ⟫ 2P "narrare": ***:sig[⟪अख्यम्⟫], ⟪अख्यत्***
 
-⟪दृश्⟫ "videre": ***⟪अदर्शम्⟫, ⟪अदर्शत्*** (gradus altus!)
+⟪दृश्⟫ "videre": ***:sig[⟪अदर्शम्⟫], ⟪अदर्शत्*** (gradus altus!)
 :::
 Nota:
 

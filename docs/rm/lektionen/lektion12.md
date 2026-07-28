@@ -71,7 +71,7 @@ z.B.
 - **gata** = ⟪गत⟫ = „gegangen“ (aktiv); aber auch: **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = „ein gegangener Weg“ (passiv)
 - **āpta** = ⟪आप्त⟫ = „erreicht worden“ (passiv), „erreicht habend“ (aktiv)
 
-## 12.3. Bildung des PPP
+## 12.3. Furmaziun dal PPP
 
 ::: grammar-box
 S’presentes las suentas sudivisiuns (per mintga radis è il participi dal passà passì da imparar!):

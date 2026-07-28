@@ -18,7 +18,7 @@ Adverbien werden im Sanskrit gebildet <!-- TODO: Fallback translation -->
 
 Im ersten Fall ist die Grenze zwischen lebendigem Kasus und Adverb fließend. Hierzu gehören als Sonderfall die Adverbien, die erstarrte, alte Kasusformen sind, während in der Deklination andere Formen gebraucht werden bzw. die entsprechenden Nomina nicht mehr als Nomina gebraucht werden. <!-- TODO: Fallback translation -->
 
-## 37.2. Adverbialer Gebrauch von Kasusformen
+## 37.2. Adverbialer Gebrauch von Kasusformen <!-- TODO: Fallback translation -->
 
 ### 37.2.1. 宾格 (⟪द्वितीया⟫)
 
@@ -129,7 +129,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 \-⟪कृते⟫ "um willen"  
 ⟪दूरे⟫ "fern" <!-- TODO: Fallback translation -->
 :::
-## 37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusformen
+## 37.3. Adverbialer Gebrauch nicht mehr gebräuchlicher Kasusformen <!-- TODO: Fallback translation -->
 
 Beispiele: <!-- TODO: Fallback translation -->
 ::: indent
@@ -139,7 +139,7 @@ Beispiele: <!-- TODO: Fallback translation -->
 
 ⟪एवम्⟫ "so" (zu einem sonst verloren gegangenen Pronominalstamm ⟪एव⟫ "ein, einzig") <!-- TODO: Fallback translation -->
 :::
-## 37.4. Bildung von Adverbien mit Adverbialsuffixen
+## 37.4. Bildung von Adverbien mit Adverbialsuffixen <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 Von den Pronominalstämmen ⟪तद्⟫, ⟪इदम्⟫ bzw. ⟪अ⟫-, ⟪यद्⟫, ⟪किम्⟫ bzw. ⟪कु⟫ kann man mit den Adverbialsuffixen <!-- TODO: Fallback translation -->

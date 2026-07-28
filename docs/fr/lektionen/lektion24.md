@@ -96,15 +96,15 @@ Fig. : ⟪अलं⟫ ⟪योधो⟫ ⟪योधाय⟫
 :::
 Autres utilisations du datif plus loin.
 
-## 24.2. Bildung des Dativ (⟪चतुर्थी⟫)
+## 24.2. Formation du datif (⟪चतुर्थी⟫)
 
 ::: grammar-box
 **Les terminaisons régulières du datif sont :**
 
-* **Singulier : -e ; les stems de féminin se terminant par une voyelle : -ai**
+* **Singulier : -e ; les radicaux de féminin se terminant par une voyelle : -ai**
 * **Pluriel : Datif et ablatif ⟪पञ्चमी⟫ : -bhyas**
 :::
-### 24.2.1. Konsonantische Stämme
+### 24.2.1. Radicaux consonantiques
 
 ::: grammar-box
 
@@ -138,7 +138,7 @@ Autres utilisations du datif plus loin.
 | | **Dat. pl.** | ⟪ताभ्यस्⟫ | ⟪एताभ्यस्⟫ | ⟪आभ्यस्⟫ |
 
 :::
-### 24.2.4. Vokalische Stämme
+### 24.2.4. Thèmes vocaliques
 
 ::: grammar-box
 **Les terminaisons régulières du datif sont :**

@@ -21,7 +21,7 @@ status: stable
 
 ::: grammar-box
 **Esquema:**
-**(Agente - kartṛ - en Instrumental (tṛtīyā)) - (objeto directo - karman - en Nominativo) - forma verbal pasiva**
+**(Agente - kartṛ - en Instrumental (tṛtīyā)) - (objeto directo - karman - en Nominativooo) - forma verbal pasiva**
 
 p.ej. **brāhmaṇena deva ijyate** = ⟪ब्राह्मणेन⟫ ⟪देव⟫ ⟪इज्यते⟫ = "Un brahmán venera a un dios con un sacrificio" (literalmente: "Un dios es venerado por un brahmán con un sacrificio.")
 
@@ -30,13 +30,13 @@ Esta oración es **totalmente (!) equivalente en significado** con la oración:
 :::
 
 ::: grammar-box
-- En la oración pasiva, el Agente (**kartṛ**) está en **Instrumental** (tṛtīyā f. "tercer caso"), y el objeto directo (**karman** n.) está en **Nominativo** (prathamā f.).
+- En la oración pasiva, el Agente (**kartṛ**) está en **Instrumental** (tṛtīyā f. "tercer caso"), y el objeto directo (**karman** n.) está en **Nominativooo** (prathamā f.).
 - Las oraciones pasivas en las que no se designa al Agente suelen tener un significado impersonal ("uno"):
   p.ej. **ijyate** = ⟪इज्यते⟫ "Uno sacrifica" (literalmente: "se venera con un sacrificio").
 :::
 
 ::: grammar-box
-**Incluso si la oración activa correspondiente contuviera un acusativo (dvitīyā) del destino, este puede ponerse en el Nominativo (prathamā) en la oración pasiva:**
+**Incluso si la oración activa correspondiente contuviera un acusativo (dvitīyā) del destino, este puede ponerse en el Nominativooo (prathamā) en la oración pasiva:**
 
 A la oración activa **rāmo grāmaṃ gacchati** = ⟪रामो⟫ ⟪ग्रामं⟫ ⟪गच्छति⟫ = "Rāma va a la aldea." corresponden las oraciones pasivas:
 - **rāmeṇa grāmaṃ gamyate** = ⟪रामेण⟫ ⟪ग्रामं⟫ ⟪गम्यते⟫

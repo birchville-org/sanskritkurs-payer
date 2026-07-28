@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 44
 
-## 44.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix
+## 44.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme mit vokalisch endendem Suffix <!-- TODO: Fallback translation -->
 
 ::: media
 ![](/images/lekt4301.jpg)
@@ -91,7 +91,7 @@ Außerdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung. <!-- TODO: 
 2. **-ṣ + s- » -kṣ-** <!-- TODO: Fallback translation -->
    z.B. **⟪द्विष्⟫** 2U: ⟪द्वेष्⟫ + ⟪सि⟫ » **⟪द्वेक्षि⟫** (dve**kṣ**i) <!-- TODO: Fallback translation -->
 :::
-## 44.3. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix
+## 44.3. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix <!-- TODO: Fallback translation -->
 
 ### 44.3.1. 第二类现在时词干 (⟪अदादि⟫)
 
@@ -157,9 +157,9 @@ Außerdem kommen noch folgende Gesetze des Wortsandhi zur Anwendung. <!-- TODO: 
 | | ⟪परस्मैपदम्⟫ ||
 | --- | --- | --- |
 | | ⟪एकवचनम्⟫ | ⟪बहुवचनम्⟫ |
-| **Indikativ Präsens** :br⟪लट्⟫ | *⟪असि⟫* | *⟪स्थ⟫* |
-| **Imperfekt** :br⟪लङ्⟫ | *⟪आसीस्⟫* | *⟪आस्त⟫* |
-| **Optativ** :br⟪विधिलिङ्⟫ | *⟪स्यास्⟫* | *⟪स्यात⟫* |
+| **Indikativ Präsens** :br⟪लट्⟫ | *:sig[⟪असि⟫]* | *:sig[⟪स्थ⟫]* |
+| **Imperfekt** :br⟪लङ्⟫ | *:sig[⟪आसीस्⟫]* | *:sig[⟪आस्त⟫]* |
+| **Optativ** :br⟪विधिलिङ्⟫ | *:sig[⟪स्यास्⟫]* | *:sig[⟪स्यात⟫]* |
 :::
 ⟪तत्त्वमसि⟫
 
@@ -240,7 +240,7 @@ davon: <!-- TODO: Fallback translation -->
 Abb.: ⟪रेल्यानम्⟫
 (Bildquelle: [Details](/licenses#lekt4403)) <!-- TODO: Fallback translation -->
 :::
-**⟪शी⟫** 2Ā ⟪शेते⟫ : liegen. Diese Wurzel hat in allen Formen des Präsensstamms **Hochstufe:** 1.sg.Ind.Präs.Ā ***⟪शेये⟫*** (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā ***⟪शेरते⟫***, 3.pl.Imperf.Ā ***⟪अशेरत⟫*** <!-- TODO: Fallback translation -->
+**⟪शी⟫** 2Ā ⟪शेते⟫ : liegen. Diese Wurzel hat in allen Formen des Präsensstamms **Hochstufe:** 1.sg.Ind.Präs.Ā ***:sig[⟪शेये⟫]*** (śe + e). Folgende Formen sind besonders zu beachten: 3.pl.Ind.Präs.Ā ***:sig[⟪शेरते⟫]***, 3.pl.Imperf.Ā ***:sig[⟪अशेरत⟫]*** <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. IIIa ⟪शिश्ये⟫ (śi-śī + e)  
@@ -281,13 +281,13 @@ Abb.: ⟪नन्दी⟫
 :::
 ⟪नन्द्⟫ + ⟪अभि⟫ 1P (1Ā)  ⟪अभिनन्दति⟫ : seine Freude haben an (⟪द्वितीयया⟫), jemanden freudig begrüßen, willkommen heißen <!-- TODO: Fallback translation -->
 
-**⟪यम्⟫** 1P ***⟪यच्छति⟫*** : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen <!-- TODO: Fallback translation -->
+**⟪यम्⟫** 1P ***:sig[⟪यच्छति⟫]*** : halten, tragen ; darreichen, gewähren ; zusammenhalten, bändigen, zügeln, bezwingen <!-- TODO: Fallback translation -->
 
 ::: indent
 Perf. Vb ⟪ययाम⟫, ⟪येमुर्⟫  
 Fut. ⟪यंस्यति⟫  
 Pass. ⟪यम्यते⟫  
-Kaus. ⟪यामयति⟫ aber: ⟪नि⟫***⟪यम⟫***⟪यति⟫  
+Kaus. ⟪यामयति⟫ aber: ⟪नि⟫***:sig[⟪यम⟫]***⟪यति⟫  
 PPP ⟪यत⟫  
 Inf. ⟪यन्तुम्⟫  
 Absol. -⟪यम्य⟫ <!-- TODO: Fallback translation -->
@@ -331,7 +331,7 @@ Abb.: ⟪यत्नेन⟫
 Perf. Vb ⟪रेभे⟫  
 Fut. ⟪रप्स्यते⟫  
 Pass. ⟪रभ्यते⟫  
-Kaus. ***⟪रम्भ⟫***⟪यति⟫  
+Kaus. ***:sig[⟪रम्भ⟫]***⟪यति⟫  
 PPP ⟪रब्ध⟫  
 Inf. ⟪रब्धुम्⟫  
 Absol. -⟪रभ्य⟫ <!-- TODO: Fallback translation -->

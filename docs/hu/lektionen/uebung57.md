@@ -64,7 +64,7 @@ Határozza meg és fordítsa le a következő alakokat:
 | ⟪४⟫. | ⟪ज्येष्ठायाः⟫ | :sig[⟪ज्येष्ठ⟫]: Genitívusz / Ablatívus Singular nőnemű (a legjobbak / idősebbek) |
 | ⟪५⟫. | ⟪संयक्⟫ | helyesen (határozószó) |
 | ⟪६⟫. | ⟪असे⟫ | :sig[⟪असि⟫] m.: Vokativus Singular (kard!) |
-| ⟪७⟫. | ⟪असि⟫ | :sig[⟪अस्⟫] 2P: 2. Singular Indikativum Jelen idő Aktiv (te vagy) |
+| ⟪७⟫. | :sig[⟪असि⟫] | :sig[⟪अस्⟫] 2P: 2. Singular Indikativum Jelen idő Aktiv (te vagy) |
 | ⟪८⟫. | ⟪अचैष्ट⟫ | :sig[⟪चि⟫] 5U: 3. Singular s-Aorisztum Átménő mód (felhalmozta) |
 | ⟪९⟫. | ⟪अचेष्ट⟫ | :sig[⟪चि⟫]: s-Aorisztum Átménő mód (javítás: s-Aorisztum Átménő mód, mint fent) |
 | ⟪१०⟫. | ⟪अभग्नम्⟫ | *⟪अ⟫-* + PPP a :sig[⟪भञ्ज्⟫] 7P: Nominativusz / Akkusztívus Singular középnemű; Akkusztívus Singular nemű (törhetetlen) |
@@ -81,7 +81,7 @@ Határozza meg és fordítsa le a következő alakokat:
 | ⟪२१⟫. | ⟪रिपू⟫ | :sig[⟪रिपु⟫] nemű: Nominativusz / Akkusztívus / Vokativus Dualis (a két ellenség) |
 | ⟪२२⟫. | ⟪अदात्⟫ | :sig[⟪दा⟫] 3U: 3. Singular gyökaorisztum Aktiv (adta) |
 | ⟪२३⟫. | ⟪आदत्⟫ | :sig[⟪अद्⟫] 2P: 3. Singular Imperfektum Aktiv (evett) |
-| ⟪२४⟫. | ⟪अवोढ⟫ | :sig[⟪वह्⟫] 1U: 3. Singular s-Aorisztum Átménő mód (utazott); *⟪अ⟫-⟪वह्⟫*: Vokativus Singular nemű/középnemű |
+| ⟪२४⟫. | ⟪अवोढ⟫ | :sig[⟪वह्⟫] 1U: 3. Singular s-Aorisztum Átménő mód (utazott); *⟪अ⟫-:sig[⟪वह्⟫]*: Vokativus Singular nemű/középnemű |
 | ⟪२५⟫. | ⟪अवोचम्⟫ | :sig[⟪वच्⟫] 2P: 1. Singular a-Aorisztum Aktiv (beszéltem) |
 | ⟪२६⟫. | ⟪दिक्⟫ | :sig[⟪दिश्⟫] nőnemű: Nominativus Singular (az irány) |
 | ⟪२७⟫. | ⟪शुनोः⟫ | :sig[⟪श्वन्⟫] nemű: Genitívusz / Lokatívus Dualis (a kutyák) |
@@ -112,7 +112,7 @@ Határozza meg és fordítsa le a következő alakokat:
 | ⟪५१⟫. | ⟪अमुत्र⟫ | ott (határozószó) |
 | ⟪५२⟫. | ⟪पत्युः⟫ | :sig[⟪पति⟫] m.: Abl. Gen. Sg. (a férjétől) |
 | ⟪५३⟫. | ⟪क्षेपीयन्⟫ | Komparativ zu :sig[⟪क्षिप्र⟫]: Vok. Sg. m. (Ó, nagyon gyors!) |
-| ⟪५४⟫. | ⟪आदिषि⟫ | *⟪आ⟫-⟪दा⟫* 3Ā: 1. Sg. s-Aor. Ā. (én vettem) |
+| ⟪५४⟫. | ⟪आदिषि⟫ | *⟪आ⟫-:sig[⟪दा⟫]* 3Ā: 1. Sg. s-Aor. Ā. (én vettem) |
 | ⟪५५⟫. | ⟪पाणी⟫ | :sig[⟪पाणि⟫] m.: Nom. Akk. Vok. Du. (mindkét kéz) |
 | ⟪५६⟫. | ⟪अस्प्राक्षम्⟫ | :sig[⟪स्पृश्⟫] 6P: 1. Sg. s-Aor. P. (én érintettem) |
 :::

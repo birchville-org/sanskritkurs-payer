@@ -47,7 +47,7 @@ Hasil: ⟪देवा⟫ ⟪अमृतमश्नन्ति⟫ "Para dewa 
 ![](/images/lekt2802.webp)
 Fig.: ⟪स⟫ ⟪नरान्प्रबन्धविज्ञानमध्यापयति⟫
 Kuil ISKCON Bangalore.
-(Sumber gambar: [Details](/en/licenses#lekt2801))
+(Sumber gambar: [Detail](/en/licenses#lekt2801))
 :::
 
 ::: grammar-box
@@ -82,7 +82,7 @@ Yang menempatkan bumi di dalam air.
 ![](/images/lekt2801.webp)
 Fig.: ⟪स⟫ ⟪मे⟫ ⟪श्रीहरिगतिः⟫
 Gedung manajemen Universitas Jadavpur.
-(Sumber gambar: [Details](/en/licenses#lekt2802))
+(Sumber gambar: [Detail](/en/licenses#lekt2802))
 :::
 
 ::: grammar-box
@@ -378,7 +378,7 @@ Vīṇā player.
 ![](/images/lekt2805.webp)
 Fig.: ⟪बाला⟫ ⟪भारं⟫ ⟪हरति⟫
 Girl carrying load. Near Ahmedabad.
-(Image source: [Details](/en/licenses#lekt2805))
+(Image source: [Detail](/en/licenses#lekt2805))
 :::
 **⟪भृत्य⟫** m.: subordinate, servant
 

@@ -157,7 +157,7 @@ Uti alia accusativi adhibentur postea tractabuntur.
   exempli gratia **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
 :::
 
-## 7.5. Athematische Präsensklassen
+## 7.5. Praesentia athematica
 
 Quinta praesentis classis athematicum praesentis radicem constituit, id est, praesentis radix non sicut in thematicis praesentis classibus (prima, quarta, sexta, decima classe) per vocalem thematicam **-a** terminat.
 

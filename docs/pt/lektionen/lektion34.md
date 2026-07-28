@@ -318,7 +318,7 @@ Explicações:
 
 ⟪चतुर्दश⟫ catorze
 
-⟪सप्त⟫ sete
+:sig[⟪सप्त⟫] sete
 
 ⟪जन्म⟫ Nom./Ac. sg. de **⟪जन्मन्⟫ n.** nascimento
 

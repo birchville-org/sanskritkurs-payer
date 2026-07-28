@@ -28,7 +28,7 @@ Notai che la desinenza secundaria da 2.pl.P. è identica a la desinenza secundar
 *   Singular: "du"
 *   Plural: "ihr" (plis che duas!)
 
-### 43.2.1. Thematische Stämme
+### 43.2.1. Temats
 
 ::: media
 ![](/images/lekt4301.jpg)

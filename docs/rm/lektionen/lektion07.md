@@ -157,7 +157,7 @@ Autras utilisaziuns da l’accusativ vegnan tractadas pli tard.
   ex. **phala** n. = ⟪फल⟫: Nom. / Akk. pl. **phalāni** = ⟪फलानि⟫
 :::
 
-## 7.5. Athematische Präsensklassen
+## 7.5. Classes da presens senza tema
 
 La 5. classa da prezens furma ina tala numnada radis da prezens athematica, è.d. la radis da prezens na finischa betg sco en las classas da prezens thematicas (1., 4., 6., 10. classa) cun il "vocal da tema" **-a**.
 

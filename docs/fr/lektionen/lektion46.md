@@ -347,14 +347,14 @@ dérivé :
 ⟪विषम⟫ 3 : inégal, débonnaire, méchant
 
 :::
-⟪ग्रह्⟫ 9U ***⟪गृ⟫***⟪ह्णाति⟫ (gṛh-ṇā-ti) : saisir, attraper, prendre
+⟪ग्रह्⟫ 9U **:sig[⟪गृ⟫]**⟪ह्णाति⟫ (gṛh-ṇā-ti) : saisir, attraper, prendre
 
 ::: indent
 Parfait Va (!) ⟪जग्राह⟫, ⟪जगृहुर्⟫  
-Futur ⟪ग्र⟫***⟪ही⟫***⟪ष्यति⟫  
+Futur ⟪ग्र⟫**:sig[⟪ही⟫]**⟪ष्यति⟫  
 Passif ⟪गृह्यते⟫  
 Causatif ⟪ग्राहयति⟫  
-PPP ⟪गृ⟫***⟪ही⟫***⟪त⟫  
+PPP :sig[⟪गृ⟫]**:sig[⟪ही⟫]**⟪त⟫  
 Infinitif ⟪ग्रहितुम्⟫  
 Absolutif -⟪ग्राह्य⟫
 dérivé :
@@ -430,8 +430,8 @@ Fig. : [⟪नारायण⟫ ⟪तुभ्यं⟫ ⟪नमामि⟫]
 Parfait. II ⟪रुरोह⟫, ⟪रुरुहे⟫  
 Futur ⟪रोक्ष्यति⟫  
 Passif ⟪रुह्यते⟫  
-Causatif ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫***⟪प⟫***⟪यति⟫  
-PPP. ***⟪रूढ⟫***  
+Causatif ⟪रोहयति⟫ ⟪।⟫ ⟪रो⟫**:sig[⟪प⟫]**⟪यति⟫  
+PPP. **:sig[⟪रूढ⟫]**  
 Infinitif ⟪रोढुम्⟫
 
 :::
@@ -466,14 +466,14 @@ Fig. : [⟪महामात्र⟫ ⟪कं⟫ ⟪चरिष्णुद�
 
 ⟪भ्रंश⟫ m. : la chute
 
-⟪श्रम्⟫ 4P ***⟪श्रा⟫***⟪म्यति⟫ : se fatiguer, devenir fatigué
+⟪श्रम्⟫ 4P **:sig[⟪श्रा⟫]**⟪म्यति⟫ : se fatiguer, devenir fatigué
 
 ::: indent
 Parfait. Vc ⟪शश्राम⟫, ⟪शश्रामुर्⟫  
 Futur ⟪श्रमिष्यति⟫  
 Passif ⟪श्रम्यते⟫  
 Causatif ⟪श्रमयति⟫ ⟪।⟫ ⟪श्रामयति⟫  
-PPP ***⟪श्रान्⟫***⟪त⟫  
+PPP **:sig[⟪श्रान्⟫]**⟪त⟫  
 Infinitif ⟪श्रमितुम्⟫  
 Absolutif ⟪श्रमित्वा⟫ ⟪।⟫ ⟪श्रान्त्वा⟫
 dérivé :
@@ -496,7 +496,7 @@ PPP ⟪श्रित⟫
 Inf. ⟪श्रयितुम्⟫
 
 :::
-⟪सञ्ज्⟫ 1P ***⟪सज⟫***⟪ति⟫ : attacher, se fixer à (⟪सप्तम्या⟫)
+⟪सञ्ज्⟫ 1P **:sig[⟪सज⟫]**⟪ति⟫ : attacher, se fixer à (⟪सप्तम्या⟫)
 
 ::: indent
 Perf. I ⟪ससञ्ज⟫, ⟪ससञ्जुर्⟫  
@@ -526,13 +526,13 @@ Inf. ⟪द्रोतुम्⟫
 Absol. -⟪द्रुत्य⟫
 
 :::
-⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P ***⟪भ्रा⟫***⟪म्यति⟫ : errer, vagabonder
+⟪भ्रम्⟫ 1P ⟪भ्रमति⟫ ⟪।⟫ 4P **:sig[⟪भ्रा⟫]**⟪म्यति⟫ : errer, vagabonder
 
 ::: indent
 Perf. Vc ⟪बभ्राम⟫, ⟪बभ्रमुर्⟫ ⟪।⟫ Vb ⟪भ्रेमुर्⟫  
 Fut. ⟪भ्रमिष्यति⟫  
 Caus. ⟪भ्रमयति⟫  
-PPP ***⟪भ्रा⟫***⟪न्त⟫  
+PPP **:sig[⟪भ्रा⟫]**⟪न्त⟫  
 Inf. ⟪भ्रमितुम्⟫  
 Absol. -⟪भ्रम्य⟫
 dont :
@@ -570,10 +570,10 @@ PPP ⟪परिभूत⟫ 3 : vaincu, humilié, abaissé
 
 ::: indent
 par ex.
-⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫***⟪षी⟫***⟪दति⟫ : s'asseoir
+⟪सद्⟫ + ⟪नि⟫ 1P ⟪नि⟫**:sig[⟪षी⟫]**⟪दति⟫ : s'asseoir
 
 :::
-⟪भोस्⟫ Particule vocative : exclamation d'appel, par ex. : hé, hola, oh, hé, bonjour, salut ! souvent non traduisible. Cette particule a un sandhi spécial : devant tous les sons sonores, il est ***⟪भो⟫***.
+⟪भोस्⟫ Particule vocative : exclamation d'appel, par ex. : hé, hola, oh, hé, bonjour, salut ! souvent non traduisible. Cette particule a un sandhi spécial : devant tous les sons sonores, il est **:sig[⟪भो⟫]**.
 
 ::: media
 ![](/images/lekt4611.webp)

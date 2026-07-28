@@ -9,7 +9,7 @@ status: stable
 
 # Lektion 45
 
-## 45.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung)
+## 45.1. Bildung der Verbalformen der 2. Person (⟪मध्यमः⟫) athematischer Stämme ohne vokalisch endendem Suffix (Fortsetzung) <!-- TODO: Fallback translation -->
 
 ### 45.1.1. 第三类现在时词干 (⟪जुहोत्यादि⟫)
 
@@ -38,7 +38,7 @@ status: stable
 ::: grammar-box
 **Wenn auslautendes k/g der Wurzel zwischen den Nasal ṅ und einen Dental der Endung zu stehen kommt, so kann wahlweise das k/g wegfallen** <!-- TODO: Fallback translation -->
 
-z.B. **⟪युज्⟫** 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ oder ⟪यु⟫***⟪ङ्ते⟫*** <!-- TODO: Fallback translation -->
+z.B. **⟪युज्⟫** 3.sg.Ind.Präs.Ā ⟪युङ्क्ते⟫ oder ⟪यु⟫***:sig[⟪ङ्ते⟫]*** <!-- TODO: Fallback translation -->
 :::
 ⟪युज्⟫ 7U <!-- TODO: Fallback translation -->
 

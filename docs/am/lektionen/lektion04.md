@@ -1,9 +1,9 @@
 ---
-title: ትምህርት 4
-subtitle: "የጥያቄ ተውላጠ ስሞች እና አመልካች ተውላጠ ስሞች በስም መደብ"
+title: Lektion 4
+subtitle: "Fragepronomina und Demonstrativpronomina im Nominativ"
 lesson_id: 4
 last_reconstructed: 2026-05-07
-category: "ሰዋስው"
+category: "Grammatik"
 status: stable
 ---
 
@@ -35,7 +35,7 @@ status: stable
 ::: grammar-box
 | **ግንዶች** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫:br"እሱ፣ እሷ፣ እሱ፤ ያ፣ ያቺ፣ ያ":br(የተጠቀሰው)** | **etad = ⟪एतद्⟫:br"ይህ፣ ይህች፣ ይህ":br(ለተናጋሪው በጣም የቀረበ)** | **idam = ⟪इदम्⟫:br"ይህ፣ ይህች፣ ይህ":br(የቀረበ)** |
+| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
 | **ነጠላ ስም** ||||
 | **ገለልተኛ ጾታ** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
 | **ተባዕታይ ጾታ** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
@@ -81,11 +81,11 @@ status: stable
 | | | | |
 | :--- | :--- | :--- | :--- |
 | **ነጠላ** | **ገለልተኛ ጾታ** | tat kim? /kiṃ tat?:br⟪तत्किम्⟫, ⟪किं⟫ ⟪तत्⟫:bretat kim? /kim etat?:br⟪एतत्किम्⟫, ⟪किमेतत्⟫:bridaṃ kim? / kim idam:br⟪इदं⟫ ⟪किम्⟫, ⟪किमिदम्⟫ | "ይህ ምንድን ነው?" |
-| ^^| **ተባዕታይ ጾታ** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "ይህ ማን ነው?":br"ይህ ምንድን ነው?" |
-| ^^| **ሴቴ ጾታ** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "ይህች ማን ናት?":br"ይህች ማን ናት?" |
+| ^^ | **ተባዕታይ ጾታ** | sa kaḥ? / kaḥ saḥ?:br⟪स⟫ ⟪कः⟫, ⟪कः⟫ ⟪सः⟫:breṣa kaḥ? / ka eṣaḥ:br⟪एष⟫ ⟪कः⟫, ⟪क⟫ ⟪एषः⟫:brayaṃ kaḥ? / ko 'yam?:br⟪अयं⟫ ⟪कः⟫, ⟪को⟫ ⟪ऽयम्⟫ | "ይህ ማን ነው?":br"ይህ ምንድን ነው?" |
+| ^^ | **ሴቴ ጾታ** | sā kā? / kā sā?:br⟪सा⟫ ⟪का⟫, ⟪का⟫ ⟪सा⟫:breṣā kā? / kaiṣā? (= kā + eṣā):br⟪एषा⟫ ⟪का⟫, ⟪कैषा⟫:briyaṃ kā? / keyam? (= kā + iyam):br⟪इयं⟫ ⟪का⟫, ⟪केयम्⟫ | "ይህች ማን ናት?":br"ይህች ማን ናት?" |
 | **ብዛት** | **ገለልተኛ ጾታ** | tāni kāni? / kāni tāni?:br⟪तानि⟫ ⟪कानि⟫, ⟪कानि⟫ ⟪तानि⟫:bretāni kāni? / kāny etāni?:br⟪एतानि⟫ ⟪कानि⟫, ⟪कान्येतानि⟫:brimāni kāni? / kānīmāni? (= kāni + imāni):br⟪इमानि⟫ ⟪कानि⟫, ⟪कानीमानि⟫ | |
-|^^ | **ተባዕታይ ጾታ** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
-| ^^| **ሴቴ ጾታ** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
+| ^^ | **ተባዕታይ ጾታ** | te ke? / ke te?:br⟪ते⟫ ⟪के⟫, ⟪के⟫ ⟪ते⟫:brete ke? / ka ete?:br⟪एते⟫ ⟪के⟫, ⟪क⟫ ⟪एते⟫:brime ke? / ka ime?:br⟪इमे⟫ ⟪के⟫, ⟪क⟫ ⟪इमे⟫ | |
+| ^^ | **ሴቴ ጾታ** | tāḥ kāḥ? / kās tāḥ?:br⟪ताः⟫ ⟪काः⟫, ⟪कास्ताः⟫:bretāḥ kāḥ? / kā etāḥ?:br⟪एताः⟫ ⟪काः⟫, ⟪का⟫ ⟪एताः⟫:brimāḥ kāḥ? / kā imāḥ?:br⟪इमाः⟫ ⟪काः⟫, ⟪का⟫ ⟪इमाः⟫ | |
 :::
 የሌሎች ጥያቄዎች ምሳሌ፦
 

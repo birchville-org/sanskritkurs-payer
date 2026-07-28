@@ -123,7 +123,7 @@ Optativus (⟪लिङ्⟫), Imperfectum (⟪लङ्⟫), Aoristus (⟪ल�
 :::
 ## 30.4. Formatio Optativi Praesentis (⟪लिङ्⟫)
 
-### 30.4.1. Thematische Präsensklassen
+### 30.4.1. Thematische praesentes classes
 
 ::: grammar-box
 **ante terminationes consonantes initiantes:**
@@ -180,7 +180,7 @@ Exempla:
 | **3. Person:brĀtmanepada** | ⟪चोरयेत⟫:br(coraya + i + ta) | ⟪चोरयेरन्⟫:br(coraya + i + ran) |
 
 :::
-### 30.4.2. Athematische Präsensklassen
+### 30.4.2. Classes praesentis athematicae
 
 ::: grammar-box
 **Parasmaipada:**

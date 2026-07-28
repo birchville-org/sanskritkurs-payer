@@ -71,7 +71,7 @@ par ex.
 - **gata** = ⟪गत⟫ = « allé » (actif) ; mais aussi : **gato mārgaḥ** = ⟪गतो⟫ ⟪मार्गः⟫ = « un chemin parcouru » (passif)
 - **āpta** = ⟪आप्त⟫ = « atteint (devenu) » (passif), « ayant atteint » (actif)
 
-## 12.3. Bildung des PPP
+## 12.3. Formation du PPP
 
 ::: grammar-box
 Les formations suivantes sont attestées (pour chaque racine, il convient d’apprendre son PPP correspondant) :

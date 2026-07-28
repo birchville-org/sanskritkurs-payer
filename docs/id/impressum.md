@@ -29,9 +29,9 @@ Teks ini merupakan bagian dari Departemen Sanskerta di **Perpustakaan Desa Globa
 
 **Terjemahan yang dihasilkan AI** (EN, IT, ES, FR, HI, BG, RU, UK, TA, PA, LA, RM, RO) dan **Pipeline Teknis** (skrip, penampil QA, konfigurasi VitePress):
 
-- Terjemahan: [![CC BY-SA 4.0](https://licensebuttons.net/l/by-sa/4.0/80x15.png)](https://creativecommons.org/licenses/by-sa/4.0/) [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Atribusi, berbagi dengan kondisi yang sama
-- Kode/Pipeline: [Lisensi MIT](https://opensource.org/licenses/MIT)
+- Terjemahan: [CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/) — Atribusi, berbagi dengan kondisi yang sama
+- Kode/Pipeline: [Lisensi MIT [<img src="/images/github.svg" alt="GitHub" class="inline-icon" />](https://github.com/marcodem/sanskritkurs-payer)](https://opensource.org/licenses/MIT)
 
 **Cara Mengutip untuk Terjemahan:**
-> Payer, Alois: Kursus Sanskerta. Diterjemahkan dengan bantuan AI. Marco Demarmels (ed.), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
+> Payer, Alois: Kursus Sanskerta. Diterjemahkan dengan bantuan AI. Marco Demarmels (ed. [<img src="/birchville_logo.png" alt="Birchville" class="inline-icon" style="height: 1.35em !important;" />](https://birchville.cc)), 2026. URL: https://payer.birchville.cc — CC BY-SA 4.0
 

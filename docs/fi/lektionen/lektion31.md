@@ -86,7 +86,7 @@ tästä:
 ![](/images/lekt3101.webp)
 Kuv.: ⟪योगः⟫
 Joogakuvaus.
-(Kuv lähde: [Details](/fi/licenses#lekt3101))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt3101))
 :::
 ⟪रुध्⟫ 7U ⟪रुणद्धि⟫ : pysäyttää, tuoda pysähdykseen, pidättää = sulkea, peittää
 ::: indent

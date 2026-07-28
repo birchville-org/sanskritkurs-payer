@@ -105,5 +105,5 @@ HUOMAUTUS: Vastaukset, joita voit antaa näihin kysymyksiin aiemman sanskritintu
 
 ::: media
 ![](/images/lekt0401.webp)
-(Kuv lähde: [Details](/fi/licenses#lekt0401))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt0401))
 :::

@@ -241,8 +241,8 @@ lesson_id: 53
 :::
 ::: media
 ![](/images/lekt5307.webp)
-Abb.: ⟪धेनू⟫
-(Képmegjelenítés: [Details](/hu/licenses#lekt5307))
+Ábra: :sig[⟪धेनू⟫]
+(Képmegjelenítés: [Részletek](/hu/licenses#lekt5307))
 :::
 **Stemmek -ā**
 
@@ -497,7 +497,7 @@ A mértékek meghatározása az alábbi okok miatt fontos:
 ::: media
 ![](/images/lekt5304.jpg)
 Ábr.: ⟪हर्मन्⟩-⟪ओल्डन्बेर्ग्⟩
-(Képmeghatározás: [Details](/hu/licenses#lekt5304))
+(Képmeghatározás: [Részletek](/hu/licenses#lekt5304))
 :::
 ### 53.10.2. A mértékek fajtái
 

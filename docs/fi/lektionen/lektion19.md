@@ -90,7 +90,7 @@ Huomautus: Yleisluonteisissa suhteellisissa lauseissa optatiivia käytetään mi
 ![](/images/lekt1809.webp)
 Kuva: ⟪कामः⟫
 Kuvitus teokseen ⟪कामसूत्र⟫
-(Kuvälähde: [Details](/fi/licenses#lekt1809))
+(Kuvälähde: [Tiedot](/fi/licenses#lekt1809))
 :::
 **⟪स्था⟫ 1 P ⟪तिष्ठति⟫ Pass. ⟪स्थीयते⟫ PPP. ⟪स्थित⟫ :** olla paikallaan, pysyä, jäädä voimaan, sijaita. (Perinteisesti luokiteltu ensimmäiseen preesensluokkaan, vaikka kyseessä on reduplikaatioinen temaatinen preesensluokka, kuten ⟪पा⟫ 1 ⟪पिबति⟫)
 
@@ -116,7 +116,7 @@ san ⟪स्था⟫ :
 ![](/images/lekt1901.webp)
 Kuva: ⟪गर्भगृहम्⟫
 Badami (ಬದಾಮಿ)
-(Kuv lähde: [Details](/fi/licenses#lekt1901))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1901))
 :::
 **⟪वारिद⟫ m.:** vesikannu = sadepilvi
 
@@ -124,7 +124,7 @@ Badami (ಬದಾಮಿ)
 ![](/images/lekt1902.jpg)
 Kuva: ⟪वारिदः⟫
 Goa (⟪गोंय⟫)
-(Kuv lähde: [Details](/fi/licenses#lekt1902))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1902))
 :::
 **⟪वा⟫ 2 P ⟪वाति⟫ Pass. ⟪वायते⟫ PPP. ⟪वान⟫ / ⟪वात⟫ :** puhaltaa
 
@@ -141,7 +141,7 @@ siitä:
 ![](/images/lekt1904.webp)
 Kuv.: ⟪छत्त्रम्⟫
 "_Onappottan_ (ഓണപ്പൊട്ടന്‍), perinteisessä asussa, on tapana Keralan eteläosissa. _Onappottan_ vierailee taloissa _onam_-juhlan aikana ja antaa siunausta. Viime aikoina _onappottan_ on harvinainen näky, rajoittuen kyliin."
-(Kuv lähde: [Details](/fi/licenses#lekt1904))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1904))
 :::
 **⟪पण्डित⟫ m.:** oppinut, viisas ; 3: älykäs, perehtynyt (johonkin)
 
@@ -149,7 +149,7 @@ Kuv.: ⟪छत्त्रम्⟫
 ![](/images/lekt1903.jpg)
 Kuv.: ⟪पण्डितः⟫ ⟪जवाहरलाल⟫ ⟪नेहरू⟫
 ⟪१९५९⟫
-(Kuv lähde: [Details](/fi/licenses#lekt1903))
+(Kuv lähde: [Tiedot](/fi/licenses#lekt1903))
 :::
 **⟪सेव्⟫ 1 Ā ⟪सेवते⟫ Pass. ⟪सेव्यते⟫ PPP ⟪सेवित⟫ :** asua jonkun luona, asuttaa (akk., lok.) ; vierailla, saapua johonkin (akk.) ; palvella, hoitaa, kunnioittaa ; harjoittaa, käyttää ; olla läsnä, harrastaa sukupuolisuhteita
 
