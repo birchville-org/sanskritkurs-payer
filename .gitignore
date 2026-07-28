@@ -97,3 +97,5 @@ docs/AUTHORS_GUIDE.md
 
 
 docs/public/downloads/*.pdf
+
+docs/.vitepress/.temp/

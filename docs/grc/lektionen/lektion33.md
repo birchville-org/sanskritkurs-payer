@@ -423,7 +423,7 @@ Die beiden wichtigsten Ablautreihen der ā-Gruppe sind:
 * Πηγὴ: http://en.wikipedia.org/wiki/Ghee (Πρόσβασις: 2008-12-26)
 
 **Κατάλογος Εικόνων & Άδειες:**
-* **Εικ. lekt3306 (γάμος, Τσένнай):** Πηγή εικόνας: http://www.pbase.com/chandra/image/62118318 (πρόσβαση 2008-12-27). Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Share Alike).
+* **Εικ. lekt3306 (γάμος, Τσέν):** Πηγή εικόνας: http://www.pbase.com/chandra/image/62118318 (πρόσβαση 2008-12-27). Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Share Alike).
 * **Εικ. lekt3307 (φορέας Udaipur):** Πηγή εικόνας: gscottie8 (http://www.flickr.com/photos/gscottie/2152543713/, πρόσβαση 2008-12-27). Άδεια Creative Commons (Αναφορά, Μη εμπορική χρήση, Όχι εξαγωγές).
 * **Εικ. lekt3305 (Samadhi yogini, Kaveripakkam):** Πηγή εικόνας: Quadell / Wikipedia (GNU FDLicense).
 * **Εικ. lekt3304 (φορέας bhaya, Μουμπάι):** Πηγή εικόνας: sameer5678in (http://www.flickr.com/photos/guptasameer/3080350405/, πρόσβαση 2008-12-26). Άδεια Creative Commons (Αναφορά).

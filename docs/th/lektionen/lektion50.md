@@ -21,7 +21,7 @@ status: stable
 ::: media
 ![](/images/lekt5007.webp)
 ภาพประกอบ: ⟪लोकस्योत्तमो⟫ ⟪गिरिः⟫
-⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = ภูเขาเอเวอเรสต์
+⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_  = ภูเขาเอเวอเรสต์
 (แหล่งที่มาของภาพ: [รายละเอียด](/th/licenses#lekt5007))
 :::
 
@@ -80,7 +80,7 @@ status: stable
 ::: media
 ![](/images/lekt5006.webp)
 ภาพประกอบ: ⟪का⟫ ⟪पचतितमाम्⟫
-Lisu = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫
+Lisu = , ⟪अरुणाचल⟫ ⟪प्रदेश⟫
 (แหล่งที่มาของภาพ: [รายละเอียด](/th/licenses#lekt5006))
 :::
 ## 50.2. รายการคำศัพท์
@@ -293,9 +293,9 @@ B) จงแปล:
 :::
 ::: deleteme-box
 
-**lekt5007:** ภาพประกอบ: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_ 珠穆朗玛峰 = ภูเขาเอเวอเรสต์ [แหล่งที่มาของภาพ: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- เข้าถึงเมื่อ 12 มกราคม 2009. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by/2.0/deed.de) (ให้เครดิต)]
+**lekt5007:** ภาพประกอบ: ⟪सगरमाथा⟫ = ཇོ་མོ་གླང་མ _=_  = ภูเขาเอเวอเรสต์ [แหล่งที่มาของภาพ: wonker. -- [http://www.flickr.com/photos/wonker/2385042288/](http://www.flickr.com/photos/wonker/2385042288/). -- เข้าถึงเมื่อ 12 มกราคม 2009. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by/2.0/deed.de) (ให้เครดิต)]
 
-**lekt5006:** ลису = 傈僳族, ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [แหล่งที่มาของภาพ: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- เข้าถึงเมื่อ 12 มกราคม 2009. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ให้เครดิต, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)]
+**lekt5006:** ล = , ⟪अरुणाचल⟫ ⟪प्रदेश⟫ [แหล่งที่มาของภาพ: parrothanging. -- [http://www.flickr.com/photos/biligiri/1857068925/](http://www.flickr.com/photos/biligiri/1857068925/). -- เข้าถึงเมื่อ 12 มกราคม 2009. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-nd/2.0/deed.de) (ให้เครดิต, ไม่ใช้เพื่อการค้า, ห้ามดัดแปลง)]
 
 **lekt5001:** Kapil Sibal (1948 -), รัฐมนตรีสหภาพในกระทรวงวิทยาศาสตร์และเทคโนโลยีและกระทรวงธรณีศาสตร์ (ตั้งแต่ปี 2006) [แหล่งที่มาของภาพ: World Economic Forum. -- [http://www.flickr.com/photos/worldeconomicforum/3038328904/](http://www.flickr.com/photos/worldeconomicforum/3038328904/). -- เข้าถึงเมื่อ 12 มกราคม 2009. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-sa/2.0/deed.de) (ให้เครดิต, แบ่งปันแบบเดียวกัน)]
 
@@ -310,4 +310,3 @@ B) จงแปล:
 **lekt5008:** Ganeshpuri, อยู่ห่างจากมุมไบ (⟪मुंबई⟫) 80 กม. [แหล่งที่มาของภาพ: Dey. -- [http://www.flickr.com/photos/dey/2691860037/](http://www.flickr.com/photos/dey/2691860037/). -- เข้าถึงเมื่อ 2009-01-13. -- [ใบอนุญาตครีเอทีฟคอมมอนส์](http://creativecommons.org/licenses/by-nc-sa/2.0/deed.de) (ให้เครดิต ไม่ใช้เพื่อการค้า แบบเดียวกัน)]
 
 :::
-

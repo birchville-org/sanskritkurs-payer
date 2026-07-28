@@ -41,7 +41,7 @@
   - No raw metadata blocks are allowed directly under images.
 
 ## 6. Migration & Build Integrity Rules
-- **TOTALBREMSE (DE Source Integrity Invariant)**: Schreibzugriff auf die DE Masterfiles (`docs/lektionen/*.md`) sind nur mit ausdrücklicher Genehmigung erlaubt. Das gilt auch für Skripten und Programme. Jeder Agent muss vor einer geplanten Änderung an diesen Dateien stoppen, den Plan präsentieren und die Erlaubnis einholen. All translations must branch from this protected master without touching it.
+- **TOTALBREMSE (Schreibschutz-Invariante für DE Master & Fertige Sprachen)**: Schreibzugriffe auf die DE Masterfiles (`docs/lektionen/*.md`) sowie ALLE als fertig eingestuften Sprachversionen (100% ohne Fallbacks: `en`, `it`, `es`, `fr`, `ru`, `uk`, `rm`, `ar`, `fi`, `ta`, `pa`, `la`, `id`, `th`, `hi`, `el`, `grc`, `ro`, `he`, `hu`, `zh-CN`) sind unter einer **absoluten Total-Sperre**. Schreibzugriffe, Re-Übersetzungen oder automatische Skript-Änderungen an diesen geschützten Sprachordnern sind strengstens verboten. Veränderungen an diesen Dateien dürfen ausschließlich nach vorheriger Rückfrage und ausdrücklicher Genehmigung des Users durchgeführt werden. Die Übersetzungs-Pipeline arbeitet ausschließlich auf verbleibenden unfertigen Zielsprachen.
 - **The Build Gate**: Every session MUST conclude with a successful `npm run docs:build`. A task is only "Done" if the build passes.
 - **Zero-HTML Invariant**: No raw HTML (tables, br, div, etc.) in Markdown. Use `scripts/purge_html.py` to sanitize content.
 - **Metadata Invisibility**: All scholarly metadata (citations, copyright) must be wrapped in `::: deleteme-box` containers.

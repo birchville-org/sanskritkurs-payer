@@ -6,16 +6,18 @@ if [ $STATUS -ne 0 ]; then
   exit $STATUS
 fi
 
-# Frage den User explizit nach Bestätigung, bevor gepusht wird
-exec < /dev/tty
-echo ""
-echo "============================================================"
-read -p "❓ Möchtest du diese Änderungen jetzt wirklich pushen? (y/N): " yn
-echo "============================================================"
+# Interactive confirmation prompt (only if TTY is available)
+if [ -t 0 ]; then
+  exec < /dev/tty
+  echo ""
+  echo "============================================================"
+  read -p "❓ Möchtest du diese Änderungen jetzt wirklich pushen? (y/N): " yn
+  echo "============================================================"
 
-if [ "$yn" != "y" ] && [ "$yn" != "Y" ]; then
-    echo "❌ Push vom Benutzer abgebrochen."
-    exit 1
+  if [ "$yn" != "y" ] && [ "$yn" != "Y" ]; then
+      echo "❌ Push vom Benutzer abgebrochen."
+      exit 1
+  fi
 fi
 
 echo "✅ Push bestätigt! Lade zu GitHub hoch..."

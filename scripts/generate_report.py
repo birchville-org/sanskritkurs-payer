@@ -181,16 +181,16 @@ def generate_report():
             "vorhanden": vorhanden, "sauber": sauber, "fallbacks": fallbacks, "pct": pct
         })
 
-    # Sort rows:
+    # Filter rows:
     # 1. 'de' (Master)
-    # 2. Strictly 100% finished languages (pct >= 100 and fallbacks == 0)
-    # 3. Unfinished languages sorted by pct descending
+    # 2. Unfinished languages sorted by pct descending
     de_row = [r for r in rows if r["code"] == "de"]
     finished_rows = [r for r in rows if r["code"] != "de" and r["pct"] >= 100.0 and r["fallbacks"] == 0]
     unfinished_rows = [r for r in rows if r["code"] != "de" and (r["pct"] < 100.0 or r["fallbacks"] > 0)]
     unfinished_rows.sort(key=lambda r: (r["pct"], -r["fallbacks"]), reverse=True)
     
-    sorted_rows = de_row + finished_rows + unfinished_rows
+    show_all = "--all" in sys.argv
+    display_rows = de_row + finished_rows + unfinished_rows if show_all else unfinished_rows
     
     # Active process details
     active_lang_code = active_proc["lang"] if active_proc else (unfinished_rows[0]["code"] if unfinished_rows else None)
@@ -200,6 +200,11 @@ def generate_report():
     lines = []
     lines.append("📊 Translation Status Report (Master-Basis: 137 Dateien)")
     lines.append(f"Timestamp: {timestamp}\n")
+    
+    if finished_rows:
+        fin_codes = ", ".join([f"`{r['code']}`" for r in finished_rows])
+        lines.append(f"✅ **{len(finished_rows)} Sprachen vollständig fertig (100%, 0 Fallbacks):** {fin_codes}\n")
+    
     lines.append("🎯 Aktuell in Übersetzung (Höchste Prozentzahl unter 100%):\n")
     
     if active_row:
@@ -216,10 +221,10 @@ def generate_report():
         lines.append(f"Aktuelle Datei / Chunk-Fortschritt: `{file_str}` (Sektion {curr_c}/{total_c} Chunks – {file_pct}% dieser Datei) | Gesamt: **{active_row['sauber']}/137 Dateien ({active_row['pct']}%)**")
         lines.append("Server: 100% KOSTENLOS über den lokalen Server (`nyx.local:8000`).\n")
     
-    lines.append("| Locale | Sprache | Vorhanden | Sauber | Fallbacks | Gesamt-Fortschritt | Delta (seit 22:00 CEST) | Status |")
+    lines.append("| Locale | Sprache | Vorhanden | Sauber | Fallbacks | Gesamt-Fortschritt | Delta | Status |")
     lines.append("| :--- | :--- | :---: | :---: | :---: | :---: | :---: | :--- |")
     
-    for idx, r in enumerate(sorted_rows):
+    for idx, r in enumerate(display_rows):
         if r["code"] == "de":
             status = "Master-Quelle"
         elif r["pct"] >= 100.0 and r["fallbacks"] == 0:
@@ -231,9 +236,9 @@ def generate_report():
             curr_c = chunk_info["curr_chunk"] if chunk_info else 1
             total_c = chunk_info["total_chunks"] if chunk_info else 1
             status = f"🎯 Aktiv in Übersetzung ({file_str} – Chunk {curr_c}/{total_c})"
-        elif not active_proc and idx == len(de_row) + len(finished_rows):
+        elif not active_proc and ((show_all and idx == len(de_row) + len(finished_rows)) or (not show_all and idx == 0)):
             status = f"⚠️ Lokale Ressourcen erschöpft ({TOTAL_MASTER - r['sauber']} Dateien offen – Wartet auf OpenRouter-Freigabe)"
-        elif idx == len(de_row) + len(finished_rows):
+        elif (show_all and idx == len(de_row) + len(finished_rows)) or (not show_all and idx == 0):
             status = "🔄 Nächste Sprache"
         else:
             status = "🔄 In Warteschlange" if r["sauber"] > 0 else "⌛ In Warteschlange"

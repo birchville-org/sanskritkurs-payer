@@ -40,7 +40,7 @@ Pāṇinin 2.3.67 mukaan PPP:n yhteydessä genetiivi esiintyy, jos PPP:llä on p
 > 
 > ⟪रामेणेष्टं⟫ ⟪फलम्⟫ "Hedelmä, jonka Rāma on toivonut"
 
-Luonnollisesti genetiivi sijaitsee silloin, kun PPP:n neutrin yksikköä käytetään verbali抽象tina eli substantiivina.
+Luonnollisesti genetiivi sijaitsee silloin, kun PPP:n neutrin yksikköä käytetään verbalitina eli substantiivina.
 :::
 ## 14.2. Genetiivimuotojen muodostus (ṣaṣṭhī f. = ⟪षष्ठी⟫)
 
