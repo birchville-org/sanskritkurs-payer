@@ -6,7 +6,7 @@
   "scripts": {
     "convert": "node scripts/convert.js",
     "docs:dev": "vitepress dev docs",
-    "docs:build": "NODE_OPTIONS=--max-old-space-size=16384 vitepress build docs",
+    "docs:build": "vitepress build docs",
     "postdocs:build": "node scripts/gen_locale_manifests.mjs",
     "docs:preview": "vitepress preview docs",
     "prepare": "husky"
