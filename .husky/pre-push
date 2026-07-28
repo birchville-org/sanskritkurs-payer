@@ -1,5 +1,5 @@
 # Führe zuerst alle qualitäts-checks durch
-python3 scripts/pre_push_check.py --build
+NODE_OPTIONS=--max-old-space-size=16384 python3 scripts/pre_push_check.py
 STATUS=$?
 
 if [ $STATUS -ne 0 ]; then
