@@ -33,7 +33,7 @@ def clean_markdown(text):
     
     return text.strip()
 
-def process_file(filepath, detector):
+def process_file(filepath, detector, target_lang=None):
     with open(filepath, 'r', encoding='utf-8') as f:
         content = f.read()
 
@@ -71,6 +71,12 @@ def process_file(filepath, detector):
         if re.search(r'[\u0101\u012b\u016b\u1e5b\u1e5d\u1e37\u1e39\u1e45\u00f1\u1e47\u1e6d\u1e0d\u015b\u1e63\u1e41\u1e25]|\((?:kṛt|taddhita|samāsa)\)|-[a-zāīūṛḷ]+ (?:n\.|m\.|f\.)', clean_text):
             new_blocks.append(block)
             continue
+
+        # Skip English false-positive phrases if target language is English
+        if target_lang == 'en':
+            if re.search(r'\b(?:Word List|Image source|Public Domain|Public domain|Digits|Schema for|normal word order|In Sanskrit|Text from|A grammar of the Sanscrit language)\b', clean_text, re.IGNORECASE):
+                new_blocks.append(block)
+                continue
 
         if len(words) >= min_words:
             # We want to check if the block is predominantly German
@@ -114,7 +120,7 @@ def main():
     modified_count = 0
     for filepath in md_files:
         filename = os.path.basename(filepath)
-        if process_file(filepath, detector):
+        if process_file(filepath, detector, target_lang=args.lang):
             modified_count += 1
             print(f"  -> Flagged fallbacks in {filename}")
             
