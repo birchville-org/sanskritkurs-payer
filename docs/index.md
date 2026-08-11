@@ -34,5 +34,6 @@ features:
 **Als Lektor oder Kurator mitwirken:** [onboarding@birchville.cc](mailto:onboarding@birchville.cc)
 
 - Für Autoren (und wer einen leichten Markdown Standalone-Editor nutzen möchte), steht ein Open-Source-Editor zur Verfügung auf https://github.com/marcodem/zentauri
+- **Technische System-Architektur & Entwickler-Wiki:** [GitHub Project Wiki](https://github.com/marcodem/sanskritkurs-payer/wiki)
 
 :::
