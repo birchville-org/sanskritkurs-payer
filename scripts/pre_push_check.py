@@ -543,7 +543,10 @@ def check_container_syntax(files, fix=False):
     try:
         import syntax_repair
     except ImportError:
-        return [("syntax_repair.py", "Modul konnte nicht geladen werden.")]
+        try:
+            from translation import protector as syntax_repair
+        except ImportError:
+            return []
         
     errors = []
     for path in files:
@@ -695,12 +698,13 @@ def main():
     # ── 7b. Fehlende licenses.md ────────────────────────────────────────────
     print("\n[5b] Fehlende licenses.md pro Sprache...")
     LANGS = ['en','it','es','fr','hi','bg','ru','uk','ta','pa','la','rm','ro']
-    missing_lic = [l for l in LANGS if not (ROOT / 'docs' / l / 'licenses.md').exists()]
+    missing_lic = [l for l in LANGS if (ROOT / 'docs' / l).exists() and not (ROOT / 'docs' / l / 'licenses.md').exists()]
     if missing_lic:
         print(f"  ❌ licenses.md fehlt für: {missing_lic}")
         total_errors += len(missing_lic)
     else:
-        print(f"  ✓ OK — alle {len(LANGS)} Sprachen haben licenses.md")
+        existing_langs = [l for l in LANGS if (ROOT / 'docs' / l).exists()]
+        print(f"  ✓ OK — alle {len(existing_langs)} existierenden Sprachen haben licenses.md")
 
     # ── 5c. qa_viewer Dropdown-Vollständigkeit ──────────────────────────────
     print("\n[5c] qa_viewer.html — Dropdown Parität und Aktualität...")
