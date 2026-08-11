@@ -1,4 +1,4 @@
-name: CI Quality Gate
+name: CI Quality Gate & Staging Suite
 
 on:
   push:
@@ -43,3 +43,23 @@ jobs:
       - name: Build VitePress (Author)
         run: |
           VITEPRESS_ENV=author npm run docs:build
+
+      - name: 1. Deploy Local Live-Staging Container (Port 8080)
+        run: |
+          docker stop payer-staging 2>/dev/null || true
+          docker rm payer-staging 2>/dev/null || true
+          docker run -d --name payer-staging --restart always -p 8080:80 -v $(pwd)/docs/.vitepress/dist-public:/usr/share/nginx/html:ro nginx:alpine || true
+
+      - name: 2. Run Background QA & German Remnant Scan
+        run: |
+          python3 scripts/qa_german_remnants.py || true
+
+      - name: 3. Update Vector Search Embedding Index
+        run: |
+          python3 scripts/build_vector_index.py || true
+
+      - name: 4. Backup Translation Memory & Vault
+        run: |
+          mkdir -p /home/marco/payer_backups
+          tar -czf /home/marco/payer_backups/tm_backup_$(date +%Y%m%d_%H%M%S).tar.gz .payer/tm/ 2>/dev/null || true
+          ls -dt /home/marco/payer_backups/tm_backup_*.tar.gz 2>/dev/null | tail -n +11 | xargs rm -f 2>/dev/null || true
