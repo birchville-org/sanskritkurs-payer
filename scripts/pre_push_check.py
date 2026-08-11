@@ -722,7 +722,8 @@ def main():
     if errs:
         for path, msg in errs:
             icon = '✓' if fix_mode else '❌'
-            print(f"  {icon} {path.relative_to(ROOT)}: {msg}")
+            rel_p = Path(path).relative_to(ROOT) if isinstance(path, (str, Path)) else path
+            print(f"  {icon} {rel_p}: {msg}")
         if not fix_mode:
             total_errors += len(errs)
     else:
