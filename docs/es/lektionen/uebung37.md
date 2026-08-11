@@ -119,11 +119,11 @@ C) Determinar y traducir los siguientes compuestos:
 | **⟪आमरणम्⟫** | hasta la muerte | ⟪आ⟫ ⟪मरणात्⟫ (hasta morir) |
 | **⟪उपवृक्षम्⟫** | junto al árbol | ⟪वृक्षस्य⟫ ⟪समीपे⟫ (cerca del árbol) |
 | **⟪यथास्थानम्⟫** | en el lugar correcto | ⟪स्थानमनतिक्रम्य⟫ (no excediendo el lugar) |
-:::: media
+:::
+::: media
 ![](/images/uebung062.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
 (Fuente de la imagen: [Detalles](/licenses#uebung062))
-::::
 :::
 ---
 

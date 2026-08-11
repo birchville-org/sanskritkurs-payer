@@ -10,7 +10,7 @@ last_reconstructed: 2026-05-15
 
 # Harjoitus 37
 
-A) Vastaa seuraaviin kysymyksiin sanskritiksi käyttämällä sulkuihin merkittyjä sanoja:
+A) Vastaa seuraaviin kysymyksiin sanskritiksi käyttämällä sulkuihin merkittyjä sanoja: <!-- TODO: Fallback translation -->
 
 ⟪१⟫. **⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
 - **⟪भिक्षवे⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫** (Tai monikko: **⟪भिक्षुभ्यो⟫ ...**)
@@ -82,7 +82,7 @@ A) Vastaa seuraaviin kysymyksiin sanskritiksi käyttämällä sulkuihin merkitty
 
 ---
 
-## Kysymyslauseet
+## Kysymyslauseet <!-- TODO: Fallback translation -->
 
 B) Käännä:
 
@@ -90,7 +90,7 @@ B) Käännä:
 Pitääkö ihm, jonka ymmärrys on vakiintunut, siirtyä kodittomaksi vai jäädä kotiin poikiensa luo?
 
 ⟪२⟫. **⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Tunteeko mestari myös totuuden?
+Tunteeko mestari myös totuuden? <!-- TODO: Fallback translation -->
 
 ⟪३⟫. **⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
 Eivätkö śūdrat ole kaksinkertaisesti syntyneiden palvelijoita?
@@ -100,9 +100,9 @@ Onko śūdra kantanut taakan?
 
 ---
 
-## Avyayībhāva (indeklinabeleiset yhdyssanat)
+## Avyayībhāva (indeklinabeleiset yhdyssanat) <!-- TODO: Fallback translation -->
 
-C) Määritä ja käännä seuraavat yhdyssanat:
+C) Määritä ja käännä seuraavat yhdyssanat: <!-- TODO: Fallback translation -->
 
 ::: grammar-box
 | Yhdyssana | Merkitys | Selitys |
@@ -130,9 +130,9 @@ Kuv.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सु�
 :::
 ---
 
-## Kertova perfekti (Vanhuksen tarina)
+## Kertova perfekti (Vanhuksen tarina) <!-- TODO: Fallback translation -->
 
-Käännä sanskritiksi käyttäen yksinomaan verbin perfektimuotoja:
+Käännä sanskritiksi käyttäen yksinomaan verbin perfektimuotoja: <!-- TODO: Fallback translation -->
 
 **⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪बभूव⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलं⟫ ⟪जगाम⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलानि⟫ ⟪ववृतिरे⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जज्ञे⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪न⟫ ⟪शेकुः⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪तस्थुः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪जगाम⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्रसिसिषे⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्रसिसिषुः⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪जगाम⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫**
 

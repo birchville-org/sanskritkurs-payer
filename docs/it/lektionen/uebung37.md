@@ -97,7 +97,7 @@ Lo Śūdra ha forse portato il peso?
 
 ---
 
-## Avyayībhāva (composti indeclinabili)
+## Avyayībhāva (composti indeclinabili) <!-- TODO: Fallback translation -->
 
 C) Determinare e tradurre i seguenti composti:
 
@@ -119,11 +119,11 @@ C) Determinare e tradurre i seguenti composti:
 | **⟪आमरणम्⟫** | fino alla morte | ⟪आ⟫ ⟪मरणात्⟫ (fino alla fine) |
 | **⟪उपवृक्षम्⟫** | presso l'albero | ⟪वृक्षस्य⟫ ⟪समीपे⟫ (vicino all'albero) |
 | **⟪यथास्थानम्⟫** | nel luogo giusto | ⟪स्थानमनतिक्रम्य⟫ (senza superare il luogo) |
-:::: media
+:::
+::: media
 ![](/images/uebung062.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
 (Fonte dell'immagine: [Dettagli](/it/licenses#uebung062))
-::::
 :::
 ---
 

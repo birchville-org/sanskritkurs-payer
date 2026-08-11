@@ -1,17 +1,17 @@
 ---
-title: "Exercice 37"
+title: "تمرین ۳۷"
 uebung_id: 37
-category: "Exercice"
+category: "تمرین"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Leçon 37
+# تمرین 37
 
-A) Répondez aux questions suivantes en sanskrit à l'aide des mots indiqués entre parenthèses :
+الف) به سوالات زیر را با استفاده از کلمات مشخص شده در پرانتز، به زبان سانسکریت پاسخ دهید:
 
 ⟪१⟫. **⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
-- **⟪भिक्षवे⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫** (Ou pluriel : **⟪भिक्षुभ्यो⟫ ...**)
+- **⟪भिक्षवे⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫** (Bzw. Plural: **⟪भिक्षुभ्यो⟫ ...**)
 - **⟪बालायै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫**
 - **⟪दासाय⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫**
 - **⟪भगवते⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫**
@@ -79,56 +79,57 @@ A) Répondez aux questions suivantes en sanskrit à l'aide des mots indiqués en
 
 ---
 
-## Phrases interrogatives
+## Interrogativsätze <!-- TODO: Fallback translation -->
 
-B) Traduisez :
+B) Übersetzen Sie:
 
 ⟪१⟫. **⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्रेषु⟫ ⟪वसेत्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Quelqu’un dont la compréhension est solidement établie devrait-il entrer dans la vie errante ou rester chez lui avec ses fils ?
+اگر کسی که بینش او استوار شده است، به بی‌خانگی برود یا در خانه نزد پسرانش بماند؟
 
 ⟪२⟫. **⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Le Maître connaît-il aussi la vérité ?
+آیا استاد نیز حقیقت را می‌شناسد؟
 
 ⟪३⟫. **⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Les Śūdras sont-ils donc les serviteurs des deux fois nés ?
+Sind die Śūdras etwa Diener der Zweimalgeborenen? <!-- TODO: Fallback translation -->
 
 ⟪४⟫. **⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Le Śūdra a-t-il donc porté le fardeau ?
+Hat der Śūdra etwa die Last getragen?
 
 ---
 
-## Avyayībhāva (Composés indeclinables)
+## Avyayībhāva (Indeklinable Komposita) <!-- TODO: Fallback translation -->
 
-C) Déterminez et traduisez les composés suivants :
+ج) ترکیب‌های زیر را تشخیص داده و ترجمه کنید:
 
 ::: grammar-box
-| Compoundé | Signification | Explication |
+| ترکیب | معنا | توضیح |
 | :--- | :--- | :--- |
-| **⟪अतिमात्रम्⟫** | excessivement | ⟪मात्रामतीत्य⟫ (au-delà de la mesure) |
-| **⟪अतिवसन्तम्⟫** | après le printemps | ⟪वसन्तमतीत्य⟫ (après la fin du printemps) |
-| **⟪अधिहरि⟫** | en Hari | ⟪हरौ⟫ (en Hari) |
-| **⟪अधिकेरलम्⟫** | en Kerala | ⟪केरेलेषु⟫ (en Kerala) |
-| **⟪अनुरूपम्⟫** | conformément | ⟪रूपस्य⟫ ⟪योग्यम्⟫ (conforme à la forme) |
-| **⟪अनुदिनम्⟫** | quotidiennement | ⟪दिने⟫ ⟪दिने⟫ (jour après jour) |
-| **⟪अनुगङ्गम्⟫** | le long du Gange | ⟪गङ्गाया⟫ ⟪अनु⟫ (le long du Gange) |
-| **⟪अनुविष्णुम्⟫** | après Viṣṇu | ⟪विष्णोः⟫ ⟪पश्चात्⟫ (derrière/après Viṣṇu) |
-| **⟪अपविष्णुम्⟫** | sans Viṣṇu | ⟪विष्णोः⟫ ⟪पृथक्⟫ (éloigné de Viṣṇu) |
-| **⟪अभिमुखम्⟫** | en face | ⟪मुखमभि⟫ (vers le visage) |
-| **⟪अभ्यग्नि⟫** | vers le feu | ⟪अग्निमभि⟫ (dans la direction du feu) |
-| **⟪आबालवृद्धम्⟫** | des enfants aux vieillards | ⟪आ⟫ ⟪बालेभ्यश्च⟫ ⟪वृद्धेभ्यश्च⟫ (incluant...) |
-| **⟪आमरणम्⟫** | jusqu'à la mort | ⟪आ⟫ ⟪मरणात्⟫ (jusqu'à mourir) |
-| **⟪उपवृक्षम्⟫** | près de l'arbre | ⟪वृक्षस्य⟫ ⟪समीपे⟫ (près de l'arbre) |
-| **⟪यथास्थानम्⟫** | au bon endroit | ⟪स्थानमनतिक्रम्य⟫ (ne dépassant pas l'endroit) |
+| ⟪अतिमात्रम्⟫ | بیش از حد | ⟪मात्रामतीत्य⟫ (فراتر از اندازه) |
+| ⟪अतिवसन्तम्⟫ | پس از بهار | ⟪वसन्तमतीत्य⟫ (پس از پایان بهار) |
+| ⟪अधिहरि⟫ | در هاری | ⟪हरौ⟫ (در هاری) |
+| ⟪अधिकेरलम्⟫ | در کرالا | ⟪केरेलेषु⟫ (در کرالا) |
+| ⟪अनुरूपम्⟫ | مطابق با | ⟪रूपस्य⟫ ⟪योग्यम्⟫ (مناسب با شکل) |
+| ⟪अनुदिनम्⟫ | روزانه | ⟪दिने⟫ ⟪दिने⟫ (روز به روز) |
+| ⟪अनुगङ्गम्⟫ | در امتداد گنگ | ⟪गङ्गाया⟫ ⟪अनु⟫ (در امتداد گنگ) |
+| ⟪अनुविष्णुम्⟫ | به سوی ویشنو | ⟪विष्णोः⟫ ⟪पश्चात्⟫ (پشت/به سوی ویشنو) |
+| ⟪अपविष्णुम्⟫ | بدون ویشنو | ⟪विष्णोः⟫ ⟪पृथक्⟫ (دور از ویشنو) |
+| ⟪अभिमुखम्⟫ | روبرو | ⟪मुखमभि⟫ (رو به صورت) |
+| ⟪अभ्यग्नि⟫ | به سوی آتش | ⟪अग्निमभि⟫ (در جهت آتش) |
+| ⟪आबालवृद्धम्⟫ | از کودکان تا پیران | ⟪आ⟫ ⟪बालेभ्यश्च⟫ ⟪वृद्धेभ्यश्च⟫ (شامل...) |
+| ⟪आमरणम्⟫ | تا مرگ | ⟪आ⟫ ⟪मरणात्⟫ (تا زمان مرگ) |
+| ⟪उपवृक्षम्⟫ | نزد درخت | ⟪वृक्षस्य⟫ ⟪समीपे⟫ (نزد درخت) |
+| ⟪यथास्थानम्⟫ | در جای درست | ⟪स्थानमनतिक्रम्य⟫ (بدون تجاوز از مکان) |
 :::
 ::: media
 ![](/images/uebung062.webp)
-Fig. : ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
-(Source de l'image : [Détails](/fr/licenses#uebung062))
+تصویر: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
+(منبع تصویر: [جزئیات](/licenses#uebung062))
 :::
 ---
 
-## Passé composé narratif (L’histoire du vieil homme)
+## Narratives Perfekt (Die Geschichte vom Greis) <!-- TODO: Fallback translation -->
 
-Traduisez en sanskrit en utilisant exclusivement des formes verbales du parfait :
+ترجمه به سانسکریت، صرفاً با استفاده از اشکال فعلی Perfekt:
 
 **⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪बभूव⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलं⟫ ⟪जगाम⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलानि⟫ ⟪ववृतिरे⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जज्ञे⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪न⟫ ⟪शेकुः⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪तस्थुः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪जगाम⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्रसिसिषे⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्रसिसिषुः⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪जगाम⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫**
+

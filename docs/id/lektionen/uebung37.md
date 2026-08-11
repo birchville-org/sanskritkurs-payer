@@ -119,11 +119,11 @@ C) Determine and translate the following compounds:
 | **⟪आमरणम्⟫** | hingga kematian | ⟪आ⟫ ⟪मरणात्⟫ (hingga mati) |
 | **⟪उपवृक्षम्⟫** | di pohon | ⟪वृक्षस्य⟫ ⟪समीपे⟫ (di dekat pohon) |
 | **⟪यथास्थानम्⟫** | di tempat yang benar | ⟪स्थानमनतिक्रम्य⟫ (tidak melebihi tempat) |
-:::: media
+:::
+::: media
 ![](/images/uebung062.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
 (Sumber gambar: [Rincian](/en/licenses#uebung062))
-::::
 :::
 ---
 

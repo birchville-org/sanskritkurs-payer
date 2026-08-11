@@ -1,17 +1,17 @@
 ---
-title: "Exercice 37"
+title: "Exercise 37"
 uebung_id: 37
-category: "Exercice"
+category: "Exercise"
 last_reconstructed: 2026-05-15
 ---
 
 
-# Leçon 37
+# Užduotis 37
 
-A) Répondez aux questions suivantes en sanskrit à l'aide des mots indiqués entre parenthèses :
+A) Beantworten Sie folgende Fragen auf Sanskrit mit Hilfe der in Klammern angegebenen Wörter:
 
 ⟪१⟫. **⟪कस्मै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫** (⟪भिक्षु⟫, ⟪बाला⟫, ⟪दास⟫, ⟪भगवन्त्⟫)
-- **⟪भिक्षवे⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫** (Ou pluriel : **⟪भिक्षुभ्यो⟫ ...**)
+- **⟪भिक्षवे⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫** (Bzw. Plural: **⟪भिक्षुभ्यो⟫ ...**)
 - **⟪बालायै⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫**
 - **⟪दासाय⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫**
 - **⟪भगवते⟫ ⟪ब्राह्मण्यन्नं⟫ ⟪ददौ⟫ ⟪।⟫**
@@ -79,56 +79,57 @@ A) Répondez aux questions suivantes en sanskrit à l'aide des mots indiqués en
 
 ---
 
-## Phrases interrogatives
+## Interrogativsätze
 
-B) Traduisez :
+B) Übersetzen Sie:
 
 ⟪१⟫. **⟪किं⟫ ⟪स्थितप्रज्ञः⟫ ⟪प्रव्रजेत्किमगारे⟫ ⟪पुत्रेषु⟫ ⟪वसेत्⟫ ⟪॥⟫ ⟪१⟫ ⟪॥⟫**
-Quelqu’un dont la compréhension est solidement établie devrait-il entrer dans la vie errante ou rester chez lui avec ses fils ?
+Soll jemand, dessen Einsicht festgegründet ist, in die Heimlosigkeit gehen oder soll er daheim bei seinen Söhnen bleiben?
 
 ⟪२⟫. **⟪अपि⟫ ⟪गुरुः⟫ ⟪सत्यं⟫ ⟪जानाति⟫ ⟪॥⟫ ⟪२⟫ ⟪॥⟫**
-Le Maître connaît-il aussi la vérité ?
+Kennt der Meister auch die Wahrheit?
 
 ⟪३⟫. **⟪कच्चिच्छुद्रा⟫ ⟪द्विजदासाः⟫ ⟪॥⟫ ⟪३⟫ ⟪॥⟫**
-Les Śūdras sont-ils donc les serviteurs des deux fois nés ?
+Sind die Śūdras etwa Diener der Zweimalgeborenen?
 
 ⟪४⟫. **⟪कच्छिच्छुद्रो⟫ ⟪भारमाबिभः⟫ ⟪॥⟫ ⟪४⟫ ⟪॥⟫**
-Le Śūdra a-t-il donc porté le fardeau ?
+Hat der Śūdra etwa die Last getragen?
 
 ---
 
-## Avyayībhāva (Composés indeclinables)
+## Avyayībhāva (Indeklinable Komposita)
 
-C) Déterminez et traduisez les composés suivants :
+C) Bestimmen und übersetzen Sie folgende Komposita:
 
 ::: grammar-box
-| Compoundé | Signification | Explication |
+| Kompositum | Bedeutung | Erläuterung |
 | :--- | :--- | :--- |
-| **⟪अतिमात्रम्⟫** | excessivement | ⟪मात्रामतीत्य⟫ (au-delà de la mesure) |
-| **⟪अतिवसन्तम्⟫** | après le printemps | ⟪वसन्तमतीत्य⟫ (après la fin du printemps) |
-| **⟪अधिहरि⟫** | en Hari | ⟪हरौ⟫ (en Hari) |
-| **⟪अधिकेरलम्⟫** | en Kerala | ⟪केरेलेषु⟫ (en Kerala) |
-| **⟪अनुरूपम्⟫** | conformément | ⟪रूपस्य⟫ ⟪योग्यम्⟫ (conforme à la forme) |
-| **⟪अनुदिनम्⟫** | quotidiennement | ⟪दिने⟫ ⟪दिने⟫ (jour après jour) |
-| **⟪अनुगङ्गम्⟫** | le long du Gange | ⟪गङ्गाया⟫ ⟪अनु⟫ (le long du Gange) |
-| **⟪अनुविष्णुम्⟫** | après Viṣṇu | ⟪विष्णोः⟫ ⟪पश्चात्⟫ (derrière/après Viṣṇu) |
-| **⟪अपविष्णुम्⟫** | sans Viṣṇu | ⟪विष्णोः⟫ ⟪पृथक्⟫ (éloigné de Viṣṇu) |
-| **⟪अभिमुखम्⟫** | en face | ⟪मुखमभि⟫ (vers le visage) |
-| **⟪अभ्यग्नि⟫** | vers le feu | ⟪अग्निमभि⟫ (dans la direction du feu) |
-| **⟪आबालवृद्धम्⟫** | des enfants aux vieillards | ⟪आ⟫ ⟪बालेभ्यश्च⟫ ⟪वृद्धेभ्यश्च⟫ (incluant...) |
-| **⟪आमरणम्⟫** | jusqu'à la mort | ⟪आ⟫ ⟪मरणात्⟫ (jusqu'à mourir) |
-| **⟪उपवृक्षम्⟫** | près de l'arbre | ⟪वृक्षस्य⟫ ⟪समीपे⟫ (près de l'arbre) |
-| **⟪यथास्थानम्⟫** | au bon endroit | ⟪स्थानमनतिक्रम्य⟫ (ne dépassant pas l'endroit) |
+| ⟪अतिमात्रम्⟫ | übermässig | ⟪मात्रामतीत्य⟫ (über das Mass hinaus) |
+| ⟪अतिवसन्तम्⟫ | nach dem Frühling | ⟪वसन्तमतीत्य⟫ (nach Ende des Frühlings) |
+| ⟪अधिहरि⟫ | in Hari | ⟪हरौ⟫ (in Hari) |
+| ⟪अधिकेरलम्⟫ | in Kerala | ⟪केरेलेषु⟫ (in Kerala) |
+| ⟪अनुरूपम्⟫ | entsprechend | ⟪रूपस्य⟫ ⟪योग्यम्⟫ (der Form angemessen) |
+| ⟪अनुदिनम्⟫ | täglich | ⟪दिने⟫ ⟪दिने⟫ (Tag für Tag) |
+| ⟪अनुगङ्गम्⟫ | entlang des Ganges | ⟪गङ्गाया⟫ ⟪अनु⟫ (entlang des Ganges) |
+| ⟪अनुविष्णुम्⟫ | nach Viṣṇu | ⟪विष्णोः⟫ ⟪पश्चात्⟫ (hinter/nach Viṣṇu) |
+| ⟪अपविष्णुम्⟫ | ohne Viṣṇu | ⟪विष्णोः⟫ ⟪पृथक्⟫ (fern von Viṣṇu) |
+| ⟪अभिमुखम्⟫ | gegenüber | ⟪मुखमभि⟫ (auf das Gesicht zu) |
+| ⟪अभ्यग्नि⟫ | zum Feuer hin | ⟪अग्निमभि⟫ (in Richtung des Feuers) |
+| ⟪आबालवृद्धम्⟫ | von Kindern bis zu Greisen | ⟪आ⟫ ⟪बालेभ्यश्च⟫ ⟪वृद्धेभ्यश्च⟫ (einschliesslich...) |
+| ⟪आमरणम्⟫ | bis zum Tod | ⟪आ⟫ ⟪मरणात्⟫ (bis zum Sterben) |
+| ⟪उपवृक्षम्⟫ | beim Baum | ⟪वृक्षस्य⟫ ⟪समीपे⟫ (nahe beim Baum) |
+| ⟪यथास्थानम्⟫ | am rechten Ort | ⟪स्थानमनतिक्रम्य⟫ (den Ort nicht überschreitend) |
 :::
 ::: media
 ![](/images/uebung062.webp)
-Fig. : ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
-(Source de l'image : [Détails](/fr/licenses#uebung062))
+Abb.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
+(Bildquelle: [Details](/licenses#uebung062))
 :::
 ---
 
-## Passé composé narratif (L’histoire du vieil homme)
+## Narratives Perfekt (Die Geschichte vom Greis)
 
-Traduisez en sanskrit en utilisant exclusivement des formes verbales du parfait :
+Übersetzen Sie ins Sanskrit, indem Sie ausschliesslich Verbformen des Perfekt verwenden:
 
 **⟪एकदा⟫ ⟪कश्चिद्वृद्धो⟫ ⟪ग्रामान्तरं⟫ ⟪गच्छन्पथि⟫ ⟪श्रान्तो⟫ ⟪बभूव⟫ ⟪।⟫ ⟪अतः⟫ ⟪स⟫ ⟪विश्रमाय⟫ ⟪पार्श्वस्थितस्य⟫ ⟪चूततरोर्मूलं⟫ ⟪जगाम⟫ ⟪॥⟫ ⟪तस्मिन्वृक्षे⟫ ⟪पचेलिमानि⟫ ⟪फलानि⟫ ⟪ववृतिरे⟫ ⟪।⟫ ⟪वृद्धस्य⟫ ⟪तेषु⟫ ⟪स्पृहा⟫ ⟪जज्ञे⟫ ⟪।⟫ ⟪परं⟫ ⟪स⟫ ⟪वृक्षमारुह्य⟫ ⟪तानि⟫ ⟪ग्रहीतुं⟫ ⟪न⟫ ⟪शेकुः⟫ ⟪॥⟫ ⟪दिष्ट्या⟫ ⟪तस्मिन्⟫ ⟪तरौ⟫ ⟪केचिद्वानराः⟫ ⟪फलानि⟫ ⟪खादन्तः⟫ ⟪तस्थुः⟫ ⟪।⟫ ⟪तानवलोक्य⟫ ⟪वृद्धः⟫ ⟪प्रहर्षं⟫ ⟪जगाम⟫ ⟪।⟫ ⟪स⟫ ⟪किमकरोत्⟫ ⟪।⟫ ⟪स⟫ ⟪कतिचिदुपलानादाय⟫ ⟪वानरांल्लक्ष्यीकृत्य⟫ ⟪प्रसिसिषे⟫ ⟪।⟫ ⟪वानराः⟫ ⟪कुपिताः⟫ ⟪कानिचित्फलान्यवचित्य⟫ ⟪वृद्धं⟫ ⟪प्रति⟫ ⟪प्रसिसिषुः⟫ ⟪।⟫ ⟪वृद्धः⟫ ⟪सहर्षं⟫ ⟪तान्यादाय⟫ ⟪स्वाभीष्टदेशं⟫ ⟪जगाम⟫ ⟪॥⟫ ⟪अहो⟫ ⟪वृद्धस्य⟫ ⟪कौशलम्⟫ ⟪॥⟫**
+

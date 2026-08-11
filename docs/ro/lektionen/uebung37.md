@@ -97,7 +97,7 @@ A purtat oare Śūdra povara?
 
 ---
 
-## Avyayībhāva (Compozite indeclinabile)
+## Avyayībhāva (Compozite indeclinabile) <!-- TODO: Fallback translation -->
 
 C) Determinați și traduceți următoarele compozite:
 
@@ -119,11 +119,11 @@ C) Determinați și traduceți următoarele compozite:
 | **⟪आमरणम्⟫** | până la moarte | ⟪आ⟫ ⟪मरणात्⟫ (până la moarte) |
 | **⟪उपवृक्षम्⟫** | lângă copac | ⟪वृक्षस्य⟫ ⟪समीपे⟫ (aproape de copac) |
 | **⟪यथास्थानम्⟫** | în locul potrivit | ⟪स्थानमनतिक्रम्य⟫ (fără a depăși locul) |
-:::: media
+:::
+::: media
 ![](/images/uebung062.webp)
 Fig.: ⟪पुत्रे⟫ ⟪जात⟫ ⟪आर्यः⟫ ⟪सुखमाप्नोति⟫
 (Sursa imaginii: [Detalii](/licenses#uebung062))
-::::
 :::
 ---
 
