@@ -57,8 +57,18 @@ def process_file(filepath, detector):
         
         min_words = 1 if is_heading else 4
         
+        # Skip if block is in deleteme-box or contains Quellen metadata
+        if 'deleteme-box' in block or '### Quellen' in block or 'Payer, Alois' in block:
+            new_blocks.append(block)
+            continue
+
         # Skip if block contains non-Latin target scripts (Cyrillic, Devanagari, Arabic, Hebrew, Thai, Tamil, Gurmukhi, Greek)
         if re.search(r'[\u0400-\u04FF\u0900-\u097F\u0600-\u06FF\u0590-\u05FF\u0E00-\u0E7F\u0B80-\u0BFF\u0A00-\u0A7F\u0370-\u03FF]', clean_text):
+            new_blocks.append(block)
+            continue
+
+        # Skip IAST Sanskrit grammatical terms, formulas, & transliteration (e.g. (kṛt), -ana n., āīūṛṝḷḹṅñṇṭḍśṣṃḥ)
+        if re.search(r'[\u0101\u012b\u016b\u1e5b\u1e5d\u1e37\u1e39\u1e45\u00f1\u1e47\u1e6d\u1e0d\u015b\u1e63\u1e41\u1e25]|\((?:kṛt|taddhita|samāsa)\)|-[a-zāīūṛḷ]+ (?:n\.|m\.|f\.)', clean_text):
             new_blocks.append(block)
             continue
 

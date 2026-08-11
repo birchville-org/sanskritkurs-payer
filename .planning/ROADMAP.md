@@ -215,28 +215,28 @@ Trennung von Public- und Authoring-Version mit dedizierten Domains und Builds.
 
 </details>
 
-<details closed>
-<summary>📋 v1.6 Developer Experience & Translations (Phase 23 — BACKLOG)</summary>
+<details open>
+<summary>📋 v1.6 Developer Experience & Translations (Phase 23) ✅</summary>
 
 ### Phase 23a: VSCode Markdown Extension
 Entwicklung einer VSCode-Erweiterung (`vscode-payer-markdown`) als Template für selbstdefinierte Markdown Extensions. Die Extension klinkt sich in VSCode ein und liefert Syntax-Highlighting und Snippets für Payer-spezifische Container.
 
 **Stufe 1 (Syntax & Snippets)**:
-- Highlighting für `::: grammar-box`, `::: media`, etc. in VSCode
-- Autocomplete-Snippets (z.B. `gbox` -> Container)
-- Injection Grammars (`payer-markdown.tmLanguage.json`)
+- [x] Highlighting für `::: grammar-box`, `::: media`, etc. in VSCode
+- [x] Autocomplete-Snippets (z.B. `gbox` -> Container)
+- [x] Injection Grammars (`payer-markdown.tmLanguage.json`)
 
 **Stufe 2 (Preview Rendering)**:
-- Integration von `markdown-it` Plugins in den nativen VSCode-Preview.
-- Live-Darstellung der Boxen direkt im VSCode-Vorschaufenster.
+- [x] Integration von `markdown-it` Plugins in den nativen VSCode-Preview.
+- [x] Live-Darstellung der Boxen direkt im VSCode-Vorschaufenster.
 
 ### Phase 23b: Thai (`th`) & Modern Greek (`el`) Translations
 Vollständige Übersetzung und Integration der thailändischen und neugriechischen Übersetzungspakete.
-- Aktivierung der Locales `th` und `el` in `docs/.vitepress/config.mjs` und `docs/.vitepress/theme/lang-settings.js`
-- Durchführung der automatischen Übersetzungen (Lektionen, Übungen, Schriften, Wortlisten, Lizenzen)
-- Layout-Synchronisation und Verifikation
+- [x] Aktivierung der Locales `th` und `el` in `docs/.vitepress/config.mjs` und `docs/.vitepress/theme/lang-settings.js`
+- [x] Durchführung der automatischen Übersetzungen (Lektionen, Übungen, Schriften, Wortlisten, Lizenzen)
+- [x] Layout-Synchronisation und Verifikation
 
-**Status**: Backlog
+**Status**: Complete (2026-08-11)
 **Reference**: .planning/phases/23-vscode-extension/23-1-PLAN.md
 
 </details>
@@ -245,22 +245,11 @@ Vollständige Übersetzung und Integration der thailändischen und neugriechisch
 
 ### Quality & Content Cleanup (Phase 23-Kandidaten)
 
-- [ ] **BG-Version ausblenden** — Bulgarische Übersetzung wegen schlechter Qualität
-  temporär aus der öffentlichen Navigation entfernen. Inhalte bleiben im Repository
-  und können über die Settings-Page explizit aktiviert werden. Betrifft:
-  - Sidebar (bg-Einträge verstecken in allen Locales)
-  - Language Switcher (bg-Option entfernen)
-  - config.mjs (bg-Locale behalten, aber nicht in Standard-Sidebar)
+- [x] **BG-Version beibehalten (Ausblendung storniert)** — Bulgarisch (`bg`) bleibt vollständig in der öffentlichen Navigation und in `DEFAULT_LOCALES` aktiv.
 
-- [ ] **"Diese Übersicht ..."-Abschnitt entfernen** — Auf der Seite "Grammatik Themen"
-  (`grammatik.md` in allen 14 Locales) den untersten Abschnitt "Diese Übersicht..." 
-  vollständig entfernen (in allen Sprachen). Das war wohl ein Copy-Paste-Überbleibsel
-  aus dem Migration-Skript und bietet keinen didaktischen Mehrwert.
+- [x] **"Diese Übersicht ..."-Abschnitt entfernen** — Bereits erledigt; auf `grammatik.md` existieren keine Copy-Paste-Reste mehr.
 
-- [ ] **Settings-Page: Nur gewählte Sprache auflisten** — Statt aller 14 Checkboxen
-  die gewählten Sprachen prominent listen. Für nicht-gewählte Sprachen einen separaten
-  Block "Weitere Sprachen verfügbar / Weitere Übersetzungen hinzufügen" mit eigenem
-  Add-Button. Vorteil: UI wirkt aufgeräumter, User sieht primär was er nutzt.
+- [x] **Settings-Page: Nur gewählte Sprache auflisten** — Bereits erledigt; `PayerLanguageSettings.vue` trennt bereits sauber in „Aktive Sprachen“ und „Weitere Sprachen hinzufügen“.
 
 - [x] **Themen-Index aus Menubar entfernen** — Link "Themen-Index" aus der Top-Nav
   (in allen Locales `nav[]`-Config) entfernen und stattdessen in der Sidebar unter

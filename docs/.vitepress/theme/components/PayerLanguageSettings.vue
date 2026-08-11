@@ -19,10 +19,9 @@
             :value="locale"
             v-model="selected"
             :disabled="locale === currentLocale"
-            @change="markDirty"
+            @change="save"
           />
           <span class="locale-name">
-            <span v-if="locale === 'bg'" class="quality-warning" title="Beta / Translation Quality Warning">⚠</span>
             {{ LOCALE_NAMES[locale] }}
           </span>
           <span class="locale-code">({{ locale }})</span>
@@ -43,10 +42,9 @@
             type="checkbox"
             :value="locale"
             v-model="selected"
-            @change="markDirty"
+            @change="save"
           />
           <span class="locale-name">
-            <span v-if="locale === 'bg'" class="quality-warning" title="Beta / Translation Quality Warning">⚠</span>
             {{ LOCALE_NAMES[locale] }}
           </span>
           <span class="locale-code">({{ locale }})</span>
@@ -54,16 +52,8 @@
       </div>
     </div>
 
-    <div class="settings-actions">
-      <button 
-        @click="save" 
-        :disabled="!dirty || saving || selected.length === 0" 
-        class="save-btn"
-      >
-        {{ saving ? t.saving : t.saveBtn }}
-      </button>
-      
-      <div v-if="selected.length === 0" class="validation-error">
+    <div class="settings-actions" v-if="selected.length === 0">
+      <div class="validation-error">
         ⚠ {{ t.validationError }}
       </div>
     </div>
@@ -89,34 +79,50 @@
       {{ progressMessage }}
     </div>
 
-    <div class="install-block">
-      <!-- State 1: Installierbar -->
-      <template v-if="installAvailable">
-        <button
-          @click="installApp"
-          :disabled="installing"
-          class="install-btn"
-        >
-          {{ installing ? t.installing : t.installBtn }}
-        </button>
-        <small v-if="!installing">{{ t.installHint }}</small>
-      </template>
+    <div class="settings-group install-section">
+      <h3 class="locale-group-title">{{ t.installSectionTitle || 'Offline-App & Installation' }}</h3>
+      
+      <div class="install-card">
+        <!-- State 1: Installierbar -->
+        <template v-if="installAvailable">
+          <div class="install-card-header">
+            <span class="install-card-icon">📱</span>
+            <div>
+              <div class="install-card-title">{{ t.installBtn }}</div>
+              <p class="install-card-hint">{{ t.installHint }}</p>
+            </div>
+          </div>
+          <button
+            @click="installApp"
+            :disabled="installing"
+            class="install-btn"
+          >
+            {{ installing ? t.installing : t.installBtn }}
+          </button>
+        </template>
 
-      <!-- State 2: Bereits installiert -->
-      <template v-else-if="alreadyInstalled">
-        <div class="install-status installed">
-          ✓ {{ t.installedStatus }}
-        </div>
-        <small>{{ t.installedHint }}</small>
-      </template>
+        <!-- State 2: Bereits installiert -->
+        <template v-else-if="alreadyInstalled">
+          <div class="install-card-header">
+            <span class="install-card-icon">✓</span>
+            <div>
+              <div class="install-status installed">{{ t.installedStatus }}</div>
+              <p class="install-card-hint">{{ t.installedHint }}</p>
+            </div>
+          </div>
+        </template>
 
-      <!-- State 3: Nicht installierbar -->
-      <template v-else>
-        <div class="install-status unavailable">
-          ℹ {{ t.unavailableStatus }}
-        </div>
-        <small>{{ t.unavailableHint }}</small>
-      </template>
+        <!-- State 3: Nicht installierbar / Web-Betrieb -->
+        <template v-else>
+          <div class="install-card-header">
+            <span class="install-card-icon">ℹ</span>
+            <div>
+              <div class="install-status unavailable">{{ t.unavailableStatus }}</div>
+              <p class="install-card-hint">{{ t.unavailableHint }}</p>
+            </div>
+          </div>
+        </template>
+      </div>
     </div>
 
     <!-- Install progress overlay (scoped to Settings page) -->
@@ -174,10 +180,11 @@ import { LOCALE_NAMES } from '../../languages.mjs'
 // currently selected locale — never bilingual.
 const LOCALE_TEXTS = {
   de: {
-        activeLanguages: 'Aktive Sprachen',
+    activeLanguages: 'Aktive Sprachen',
     availableLanguages: 'Weitere Sprachen hinzufügen',
+    installSectionTitle: 'Offline-App & Installation',
     title: 'Einstellungen',
-    hint: 'Wählen Sie die Sprachen aus, die in der Navigation sichtbar und offline verfügbar sein sollen.',
+    hint: 'Wählen Sie die Sprachen aus, die in der Navigation sichtbar und offline verfügbar sein sollen. Ihre Auswahl wird sofort automatisch gespeichert.',
     currentBadge: 'aktuell',
     saveBtn: 'Speichern',
     saving: 'Arbeite...',
@@ -192,10 +199,11 @@ const LOCALE_TEXTS = {
     preparingApp: 'App wird vorbereitet…',
   },
   en: {
-        activeLanguages: 'Active Languages',
+    activeLanguages: 'Active Languages',
     availableLanguages: 'Add more languages',
+    installSectionTitle: 'Offline App & Installation',
     title: 'Settings',
-    hint: 'Select the languages to display in navigation and make available offline.',
+    hint: 'Select the languages to display in navigation and make available offline. Your selection is saved automatically.',
     currentBadge: 'current',
     saveBtn: 'Save',
     saving: 'Working...',
@@ -914,29 +922,55 @@ async function installApp() {
   color: var(--vp-c-danger-1, #b40000);
 }
 
-/* Install-block within the Settings page */
-.install-block {
-  margin-top: 1.5rem;
-  padding: 1rem 1.25rem;
-  background: var(--vp-c-bg);
-  border-left: 3px solid #03192e;
-  border-radius: 4px;
-  display: flex;
-  flex-direction: column;
-  gap: 0.5rem;
-  align-items: flex-start;
+/* Install section styling */
+.install-section {
+  margin-top: 2rem;
 }
 
-.install-block small {
+.install-card {
+  padding: 1.25rem 1.5rem;
+  background: var(--vp-c-bg-soft, #f6f6f7);
+  border: 1px solid var(--vp-c-divider, #e2e8f0);
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  transition: border-color 200ms, background 200ms;
+}
+
+.dark .install-card {
+  background: var(--vp-c-bg-soft, #1e1e20);
+  border-color: var(--vp-c-divider, #2e2e32);
+}
+
+.install-card-header {
+  display: flex;
+  align-items: flex-start;
+  gap: 0.875rem;
+}
+
+.install-card-icon {
+  font-size: 1.35rem;
+  line-height: 1.2;
+}
+
+.install-card-title {
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--vp-c-text-1);
+}
+
+.install-card-hint {
+  margin: 0.25rem 0 0 0;
   color: var(--vp-c-text-2);
-  font-size: 0.8125rem;
+  font-size: 0.8438rem;
   line-height: 1.5;
 }
 
 .install-status {
   margin: 0;
   font-size: 0.9375rem;
-  font-weight: 500;
+  font-weight: 600;
 }
 
 .install-status.installed {
@@ -952,20 +986,21 @@ async function installApp() {
 }
 
 .install-btn {
-  margin: 0;
-  padding: 0.5rem 1rem;
-  font-size: 0.9375rem;
+  align-self: flex-start;
+  margin-top: 0.25rem;
+  padding: 0.5rem 1.25rem;
+  font-size: 0.9063rem;
   font-weight: 500;
   color: #fff;
-  background: #03192e;
+  background: var(--vp-c-brand, #03192e);
   border: none;
-  border-radius: 4px;
+  border-radius: 6px;
   cursor: pointer;
-  transition: background 200ms, transform 200ms;
+  transition: opacity 200ms, transform 200ms;
 }
 
 .install-btn:hover:not(:disabled) {
-  background: #0a2a44;
+  opacity: 0.9;
   transform: translateY(-1px);
 }
 

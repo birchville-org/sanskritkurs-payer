@@ -882,13 +882,7 @@ html[lang="ta-IN"] .VPDocFooter {
   display: none !important;
 }
 
-/* Phase 23: Hide Bulgarian (bg) from the language switcher */
-.VPNav a[href="/bg/"], 
-.VPFlyout a[href="/bg/"],
-.VPMenuLink a[href="/bg/"],
-a.VPLink[href="/bg/"] {
-  display: none !important;
-}
+
 
 /* Fix for Latin letters in tables inside grammar-boxes becoming red */
 .vp-doc .grammar-box table strong em:not(:has(.sanskrit-dev)),

@@ -1,12 +1,23 @@
 // Single Source of Truth for Payer Sanskritkurs languages config
 
+// EXCLUDED LANGUAGES & RATIONALE:
+// - Akkadian (akk), Aramaic/Syriac (arc), Elamite (elx): Extinct ancient languages. Insufficient digital corpora for LLM translation.
+//   Translating modern grammar textbooks into these languages forces artificial neologisms and heavy hallucination.
+// - Nahuatl (nah), Quechua (qu): Indigenous languages with sparse training data in open LLMs.
+//   Generates frequent fallbacks to Spanish/English and lacks scientific precision for Sanskrit terminology.
+
 export const ACTIVE_LOCALES = [
   'de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 
   'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc',
-  'fi', 'hu', 'zh', 'cop', 'fa', 'nl', 'am', 'af', 'lt', 'sh', 'sq', 'pt'
+  'fi', 'hu', 'zh', 'cop', 'fa', 'nl', 'am', 'af', 'lt', 'sh', 'sq', 'pt', 'bg',
+  'tr', 'vi', 'zu'
 ];
 
-export const DEFAULT_LOCALES = ['de', 'en', 'fr', 'it', 'rm', 'hi', 'he', 'zh-CN'];
+export const DEFAULT_LOCALES = [
+  'de', 'en', 'it', 'ru', 'uk', 'hi', 'fr', 'es', 'ta', 'pa', 
+  'la', 'rm', 'ro', 'id', 'zh-CN', 'he', 'ar', 'el', 'th', 'grc',
+  'fi', 'hu', 'am', 'bg'
+];
 
 export const LOCALE_FLAGS = {
   de: '🇩🇪',
@@ -40,7 +51,11 @@ export const LOCALE_FLAGS = {
   lt: '🇱🇹',
   sh: '🇷🇸',
   sq: '🇦🇱',
-  pt: '🇵🇹'
+  pt: '🇵🇹',
+  bg: '🇧🇬',
+  tr: '🇹🇷',
+  vi: '🇻🇳',
+  zu: '🇿🇦'
 };
 
 export const LOCALE_NAMES = {
@@ -75,7 +90,11 @@ export const LOCALE_NAMES = {
   lt: '🇱🇹 Lietuvių',
   sh: '🇷🇸 Srpsko-hrvatski',
   sq: '🇦🇱 Shqip',
-  pt: '🇵🇹 Português'
+  pt: '🇵🇹 Português',
+  bg: '🇧🇬 Български',
+  tr: '🇹🇷 Türkçe',
+  vi: '🇻🇳 Tiếng Việt',
+  zu: '🇿🇦 isiZulu'
 };
 
 export const FOOTER_LABELS = {
@@ -113,4 +132,7 @@ export const FOOTER_LABELS = {
   fa: { prev: 'درس قبلی', exercise: 'تمرین اضافی', next: 'درس بعدی' },
   nl: { prev: 'Vorige les', exercise: 'Aanvullende oefening', next: 'Volgende les' },
   zh: { prev: '上一課', exercise: '附加練習', next: '下一課' },
+  tr: { prev: 'Önceki Ders', exercise: 'Ek Egzersiz', next: 'Sonraki Ders' },
+  vi: { prev: 'Bài học trước', exercise: 'Bài tập bổ sung', next: 'Bài học tiếp theo' },
+  zu: { prev: 'Isifundo esedlule', exercise: 'Ukuzivocavoca okwengeziwe', next: 'Isifundo esilandelayo' }
 };

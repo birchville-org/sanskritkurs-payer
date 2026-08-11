@@ -5,7 +5,7 @@ import { de } from './locales/de.mjs'
 import { en } from './locales/en.mjs'
 import { fr } from './locales/fr.mjs'
 import { it } from './locales/it.mjs'
-// import { bg } from './locales/bg.mjs'
+import { bg } from './locales/bg.mjs'
 import { ru } from './locales/ru.mjs'
 import { uk } from './locales/uk.mjs'
 import { hi } from './locales/hi.mjs'
@@ -38,6 +38,9 @@ import { lt } from './locales/lt.mjs'
 import { sh } from './locales/sh.mjs'
 import { sq } from './locales/sq.mjs'
 import { pt } from './locales/pt.mjs'
+import { tr } from './locales/tr.mjs'
+import { vi } from './locales/vi.mjs'
+import { zu } from './locales/zu.mjs'
 import { createRequire } from 'module'
 const require = createRequire(import.meta.url)
 const multimd_table = require('markdown-it-multimd-table')
@@ -84,20 +87,18 @@ populateSidebar(lt, 'Pamoka', 'lt', 'Raštas', 'Pratimas');
 populateSidebar(sh, 'Lekcija', 'sh', 'Pismo', 'Vežba');
 populateSidebar(sq, 'Mësimi', 'sq', 'Shkrimi', 'Ushtrimi');
 populateSidebar(pt, 'Lição', 'pt', 'Escrita', 'Exercício');
+populateSidebar(bg, 'Урок', 'bg', 'Писмо', 'Упражнение');
+populateSidebar(tr, 'Ders', 'tr', 'Yazı', 'Egzersiz');
+populateSidebar(vi, 'Bài học', 'vi', 'Chữ viết', 'Bài tập');
+populateSidebar(zu, 'Isifundo', 'zu', 'Ukubhala', 'Ukuzivocavoca');
 
 const isAuthorBuild = process.env.VITEPRESS_ENV === 'author';
 const localeObjects = {
-  de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, cop, fa, nl, am, af, lt, sh, sq, pt
+  de, en, it, ru, uk, hi, fr, es, ta, pa, la, rm, ro, id, 'zh-CN': zhCN, he, ar, el, th, grc, fi, hu, zh, cop, fa, nl, am, af, lt, sh, sq, pt, bg, tr, vi, zu
 };
 const allLocales = ACTIVE_LOCALES.map(code => localeObjects[code]).filter(Boolean);
 
-if (!isAuthorBuild) {
-  for (const localeObj of allLocales) {
-    if (localeObj.themeConfig && localeObj.themeConfig.nav) {
-      localeObj.themeConfig.nav = localeObj.themeConfig.nav.filter(item => item.link !== '/qa_viewer.html');
-    }
-  }
-}
+// QA Viewer navbar link enabled for convenient testing
 
 export default defineConfig({
   title: "Sanskritkurs",
@@ -151,7 +152,8 @@ export default defineConfig({
     lt: { ...lt },
     sh: { ...sh },
     sq: { ...sq },
-    pt: { ...pt }
+    pt: { ...pt },
+    bg: { ...bg }
   },
   
   themeConfig: {
