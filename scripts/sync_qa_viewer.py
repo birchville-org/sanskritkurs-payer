@@ -44,6 +44,16 @@ LANG_NAMES = {
     'fa': 'Persian (FA)',
     'akk': 'Akkadian (AKK)',
     'cop': 'Coptic (COP)',
+    'fi': 'Suomi (FI)',
+    'hu': 'Magyar (HU)',
+    'zh': 'Traditional Chinese (ZH)',
+    'nl': 'Nederlands (NL)',
+    'am': 'Amharic (AM)',
+    'af': 'Afrikaans (AF)',
+    'lt': 'Lietuvių (LT)',
+    'sh': 'Srpsko-hrvatski (SH)',
+    'sq': 'Shqip (SQ)',
+    'pt': 'Português (PT)',
 }
 
 def generate_options(locales, default_lang='de'):

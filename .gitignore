@@ -4,11 +4,15 @@ docs/.vitepress/cache
 .DS_Store
 .vscode/Payer.code-workspace
 *.log
+.last_report_cache.json
+.payer/
 CLAUDE_REVIEW.md
 deleteme/
 docs/.zennotes/
 
 # Local tooling / dev artifacts
+__pycache__/
+*.pyc
 scratch/
 scripts/__pycache__/
 /.vitepress/

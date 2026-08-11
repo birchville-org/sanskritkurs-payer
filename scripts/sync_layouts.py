@@ -6,7 +6,7 @@ import sys
 LANGUAGES = [
     "en", "it", "es", "ru", "uk", "bg", "hi", "fr", "rm", "ta", "pa",
     "ar", "arc", "he", "zh", "zh-CN", "la", "grc", "el", "fa", "akk", "cop", "fi", "hu", "id", "ro", "th",
-    "am", "af", "lt", "sh", "sq", "pt"
+    "am", "af", "lt", "sh", "sq", "pt", "tr", "vi", "zu"
 ]
 
 # Base directories

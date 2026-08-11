@@ -6,7 +6,8 @@ import json
 
 # Add the scripts directory to the path so we can import from lan_translate
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-from lan_translate import log_failure, BASE_DIR, LANG_NAMES, SONNET_MODEL, SONNET_API_URL
+from translation.quality_control import log_failure
+from translation.config import BASE_DIR, LANG_NAMES, SONNET_MODEL, SONNET_API_URL
 
 _EN_RESIDUE_PATTERNS = re.compile(
     r'\b(?:stem(?:s)?|root(?:s)?|example(?:s)?|present class|present stem|'

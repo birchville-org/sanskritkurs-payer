@@ -56,6 +56,37 @@ FORBIDDEN_FOREIGN_GRAMMAR_TERMS = [
     r'\bWortbildung\b', r'\bAuslautendes\b', r'\bStammvokal\b', r'\bPassivsatz\b'
 ]
 
+# ── Pipeline-Logik-Invarianten-Prüfung ──────────────────────────────────────────
+
+def check_pipeline_logic_invariants():
+    """Wahrt die System-Invarianten der Übersetzungspipeline gegen versehentliche Code-Regressions."""
+    errors = []
+    
+    # 1. Prüfe run_all_translations.sh auf unerwünschtes --force
+    runner_script = ROOT / "scripts" / "run_all_translations.sh"
+    if runner_script.exists():
+        text = runner_script.read_text(encoding="utf-8", errors="ignore")
+        if "--force" in text:
+            errors.append("run_all_translations.sh enthält verbietenes '--force' Flag! Dies hebelt den TM-Cache aus.")
+    
+    # 2. Prüfe generate_report.py Import-Integrität
+    try:
+        sys.path.insert(0, str(ROOT / "scripts"))
+        from generate_report import get_top_unfinished_language, get_language_status, get_translation_queue
+        top_lang = get_top_unfinished_language()
+        if not top_lang:
+            errors.append("get_top_unfinished_language() lieferte leeres Ergebnis zurück.")
+    except Exception as e:
+        errors.append(f"Integritätsfehler in generate_report.py: {e}")
+
+    # 3. Prüfe Lock-Auto-Clearing in lock.py
+    try:
+        from translation.lock import acquire_nyx_lock, touch_nyx_lock_heartbeat
+    except Exception as e:
+        errors.append(f"Integritätsfehler in lock.py: {e}")
+
+    return errors
+
 # HTML-Tags die in Markdown nicht erlaubt sind (Zero-HTML Policy)
 # Erlaubte Inline-Tags: 'img', 'a' und Kommentare '!--'
 _HTML_ALLOWED = frozenset([
@@ -76,7 +107,19 @@ _HTML_BLOCK_TAGS = re.compile(
 
 # ── Hilfsfunktionen ────────────────────────────────────────────────────────────
 
-FINISHED_LANGS = {'de', 'en', 'it', 'es', 'fr', 'ru', 'uk', 'rm', 'ar', 'fi', 'am', 'ta', 'pa', 'la', 'id', 'th', 'hi', 'el', 'grc', 'ro', 'he', 'hu', 'zh-CN', 'pt'}
+from translation.session_manager import is_language_completed
+
+def get_finished_languages():
+    """Dynamically determine finished languages (136/136 clean files, 0 fallbacks)."""
+    finished = {'de'}
+    docs_dir = ROOT / "docs"
+    for p in docs_dir.iterdir():
+        if p.is_dir() and p.name not in ('.vitepress', 'public', 'de'):
+            if is_language_completed(p.name):
+                finished.add(p.name)
+    return finished
+
+FINISHED_LANGS = get_finished_languages()
 
 def get_diff_files():
     """Gibt Liste der seit origin/main geänderten .md-Dateien zurück."""
@@ -189,6 +232,54 @@ def check_yaml_frontmatter(files):
                         continue
                     errors.append((path, f'Frontmatter Zeile {i} ({key}): Unzitierter Wert beginnt mit YAML-Steuerzeichen "{val[0]}". String sollte komplett in einfache Anführungszeichen \'...\' gesetzt werden: {val[:60]}'))
                     continue
+    return errors
+
+def check_index_frontmatter_structural(fix=False):
+    """Prüft alle index.md Dateien auf gültige englische YAML-Strukturschlüssel und korrekte Sprachpräfixe."""
+    errors = []
+    valid_keys = {'hero', 'name', 'text', 'tagline', 'actions', 'theme', 'link', 'features', 'title', 'details', 'layout'}
+    for index_path in (ROOT / 'docs').glob('**/index.md'):
+        content = index_path.read_text(encoding='utf-8', errors='replace')
+        if not content.startswith('---'):
+            continue
+        parts = content.split('---', 2)
+        if len(parts) < 3:
+            continue
+        fm = parts[1]
+        code = index_path.parent.name
+
+        file_invalid_keys = []
+        for line in fm.splitlines():
+            trimmed = line.strip()
+            if not trimmed or trimmed.startswith('layout:'):
+                continue
+            clean = trimmed[1:].strip() if trimmed.startswith('-') else trimmed
+            match = re.match(r'^([^:\s]+):', clean)
+            if match:
+                key = match.group(1).strip()
+                if key not in valid_keys:
+                    file_invalid_keys.append(key)
+
+        missing_locale_prefix = False
+        if code not in ('docs', 'lektionen', 'index.md'):
+            if 'link: /lektionen/lektion01' in fm or 'link: /grammatik' in fm:
+                missing_locale_prefix = True
+
+        if file_invalid_keys or missing_locale_prefix:
+            if fix:
+                sys.path.insert(0, str(ROOT / "scripts"))
+                from translation.file_processor import fix_home_links
+                repaired = fix_home_links(content, code)
+                index_path.write_text(repaired, encoding='utf-8')
+                errors.append((index_path, f"[AUTO-FIXED] Ungültige YAML-Schlüssel ({file_invalid_keys}) oder Links repariert"))
+            else:
+                msg_parts = []
+                if file_invalid_keys:
+                    msg_parts.append(f"Ungültige/Übersetzte YAML-Schlüssel: {file_invalid_keys}")
+                if missing_locale_prefix:
+                    msg_parts.append("Fehlendes Sprach-Präfix in link:")
+                errors.append((index_path, " | ".join(msg_parts)))
+
     return errors
 
 def check_zero_html(files):
@@ -318,6 +409,34 @@ def check_html_arrow_entities(files, fix=False):
                 errors.append((path, f'Automatisch repariert / erkannt: {hits}'))
             else:
                 errors.append((path, f'HTML-Entity / DE-Rest: {hits}'))
+    return errors
+
+def check_untranslated_german_copies():
+    """Prüft ob in Zielsprachen 1:1 unübersetzte deutsche Kopien existieren."""
+    errors = []
+    docs = ROOT / 'docs'
+    de_files = {f.relative_to(docs): f.read_text(encoding='utf-8', errors='replace').strip() for f in docs.glob('*.md')}
+    de_files.update({f.relative_to(docs): f.read_text(encoding='utf-8', errors='replace').strip() for f in (docs / 'lektionen').glob('*.md')})
+
+    lang_mjs = ROOT / 'docs/.vitepress/languages.mjs'
+    if not lang_mjs.exists():
+        return errors
+    txt = lang_mjs.read_text(encoding='utf-8')
+    m = re.search(r'export const DEFAULT_LOCALES = \[(.*?)\];', txt, re.DOTALL)
+    if not m:
+        return errors
+    finished_langs = get_finished_languages() - {'de'}
+
+    for lang in finished_langs:
+        lang_dir = docs / lang
+        if not lang_dir.exists(): continue
+        for md_file in lang_dir.glob('**/*.md'):
+            if 'licenses' in md_file.name or 'qa' in str(md_file): continue
+            rel = md_file.relative_to(lang_dir)
+            if rel in de_files:
+                target_txt = md_file.read_text(encoding='utf-8', errors='replace').strip()
+                if target_txt == de_files[rel]:
+                    errors.append((md_file, f"Unübersetzte 1:1 deutsche Kopie in Sprache '{lang}' ({rel})"))
     return errors
 
 def check_licenses(files):
@@ -489,6 +608,18 @@ def main():
     else:
         print(f"  ✓ {len(files)} Dateien geprüft — OK")
 
+    # ── 3b. index.md Frontmatter & Links (global über alle Sprach-Startseiten)
+    print("\n[1b] index.md Frontmatter & Sprachpräfix-Links...")
+    errs = check_index_frontmatter_structural(fix=fix_mode)
+    if errs:
+        for path, msg in errs:
+            icon = '✓' if fix_mode else '❌'
+            print(f"  {icon} {path.relative_to(ROOT)}: {msg}")
+        if not fix_mode:
+            total_errors += len(errs)
+    else:
+        print(f"  ✓ Alle Startseiten (index.md) geparst und geprüft — OK")
+
     # ── 4. Zero-HTML ─────────────────────────────────────────────────────────
     print("\n[2/6] Zero-HTML (kein rohes HTML in .md)...")
     errs = check_zero_html(files)
@@ -524,6 +655,16 @@ def main():
     # ── 5. Platzhalter ───────────────────────────────────────────────────────
     print("\n[3/6] Übersetzungs-Platzhalter (DEVA_, TODO, ...)...")
     errs = check_placeholders(files)
+    if errs:
+        for path, msg in errs:
+            print(f"  ❌ {path.relative_to(ROOT)}: {msg}")
+        total_errors += len(errs)
+    else:
+        print(f"  ✓ OK")
+
+    # ── 5b. Unübersetzte 1:1 deutsche Kopien ──────────────────────────────────
+    print("\n[3b] Unübersetzte 1:1 deutsche Kopien in fertigen Sprachen...")
+    errs = check_untranslated_german_copies()
     if errs:
         for path, msg in errs:
             print(f"  ❌ {path.relative_to(ROOT)}: {msg}")
@@ -586,6 +727,16 @@ def main():
             total_errors += len(errs)
     else:
         print(f"  ✓ OK")
+
+    # ── 5e. Pipeline-Logik-Invarianten ──────────────────────────────────────
+    print("\n[5e] Pipeline-Logik-Invarianten (TM-Cache & Skript-Integrität)...")
+    p_errs = check_pipeline_logic_invariants()
+    if p_errs:
+        for msg in p_errs:
+            print(f"  ❌ {msg}")
+        total_errors += len(p_errs)
+    else:
+        print("  ✓ OK — TM-Cache, Skripte und Lock-Invarianten sind intakt")
 
     # ── 8. Lizenzen (nur bei --scope=all oder wenn DE-Dateien im Diff) ───────
     de_files = [f for f in files if lang_from_path(f) == 'de']

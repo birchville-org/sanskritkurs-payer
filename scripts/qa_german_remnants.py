@@ -52,9 +52,13 @@ def process_file(filepath, detector):
         words = [w.translate(translator) for w in clean_text.split()]
         words = [w for w in words if w.isalpha()]
         
-        # Lower threshold for headings since they are often short
         min_words = 1 if is_heading else 4
         
+        # Skip if block contains non-Latin target scripts (Cyrillic, Devanagari, Arabic, Hebrew, Thai, Tamil, Gurmukhi, Greek)
+        if re.search(r'[\u0400-\u04FF\u0900-\u097F\u0600-\u06FF\u0590-\u05FF\u0E00-\u0E7F\u0B80-\u0BFF\u0A00-\u0A7F\u0370-\u03FF]', clean_text):
+            new_blocks.append(block)
+            continue
+
         if len(words) >= min_words:
             # We want to check if the block is predominantly German
             lang = detector.detect_language_of(clean_text)

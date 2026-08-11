@@ -4,7 +4,8 @@ import time
 
 # Add the scripts directory to the path so we can import lan_translate
 sys.path.append(os.path.dirname(os.path.abspath(__file__)))
-from lan_translate import scan_german_residues, sonnet_patch_residues, log_failure, BASE_DIR
+from translation.quality_control import scan_german_residues, sonnet_patch_residues, log_failure
+from translation.config import BASE_DIR
 
 # The 8 languages that have residues
 langs = ['bg', 'uk', 'hi', 'ar', 'ta', 'la', 'rm', 'arc']
