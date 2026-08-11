@@ -72,7 +72,6 @@ async function exportVitePressMedia(lang = 'de') {
 
   console.log(`Injecting ${htmlFilePaths.length} rendered lesson pages with full CSS styling & images...`);
 
-  // Build Table of Contents entries dynamically
   let tocItemsHtml = '';
   const lessonsData = [];
 
@@ -81,15 +80,43 @@ async function exportVitePressMedia(lang = 'de') {
     const filename = path.basename(fullPath, '.html');
     const lessonNum = parseInt((filename.match(/\d+/) || [0])[0], 10);
 
-    // Extract lesson title from <h1> tag
-    const h1Match = content.match(/<h1[^>]*>([\s\S]*?)<\/h1>/i);
-    let title = `Lektion ${lessonNum}`;
-    if (h1Match) {
-      title = h1Match[1].replace(/<[^>]+>/g, '').trim();
+    // Extract exact subtitle from corresponding markdown source file
+    let displayTitle = `Lektion ${lessonNum}`;
+    const mdSubPath = lang === 'de'
+      ? path.join(ROOT, 'docs', 'lektionen', `${filename}.md`)
+      : path.join(ROOT, 'docs', lang, 'lektionen', `${filename}.md`);
+
+    if (fs.existsSync(mdSubPath)) {
+      const mdContent = fs.readFileSync(mdSubPath, 'utf-8');
+      const subMatch = mdContent.match(/^subtitle:\s*["']?([^"'\n]+)["']?/m);
+      if (subMatch && subMatch[1].trim()) {
+        displayTitle = `Lektion ${lessonNum}: ${subMatch[1].trim()}`;
+      }
     }
 
-    lessonsData.push({ lessonNum, title, fullPath });
-    tocItemsHtml += `<li style="margin-bottom: 8px;"><a href="#lektion-${lessonNum}" style="color: #03192e; text-decoration: none;"><strong>Lektion ${lessonNum}:</strong> ${title}</a></li>\n`;
+    // Extract main <h2> section topics inside HTML
+    const h2Matches = [...content.matchAll(/<h2[^>]*>([\s\S]*?)<\/h2>/gi)];
+    const subHeadings = [];
+    for (const m of h2Matches) {
+      const cleanH2 = m[1].replace(/<[^>]+>/g, '').replace(/#\s*$/, '').trim();
+      if (cleanH2 && cleanH2.length < 80 && !cleanH2.toLowerCase().includes('inhaltsverzeichnis')) {
+        subHeadings.push(cleanH2);
+      }
+    }
+
+    lessonsData.push({ lessonNum, displayTitle, subHeadings, fullPath });
+
+    let subListHtml = '';
+    if (subHeadings.length > 0) {
+      subListHtml = `<ul style="margin: 3px 0 10px 15px; padding-left: 10px; font-size: 12px; color: #48626e; list-style-type: disc;">` +
+        subHeadings.slice(0, 4).map(sh => `<li>${sh}</li>`).join('') +
+        `</ul>`;
+    }
+
+    tocItemsHtml += `<li style="margin-bottom: 12px; page-break-inside: avoid;">
+      <a href="#lektion-${lessonNum}" style="color: #03192e; text-decoration: none; font-weight: bold; font-size: 14px;">${displayTitle}</a>
+      ${subListHtml}
+    </li>\n`;
   }
 
   let combinedHtml = `<!DOCTYPE html>
@@ -132,10 +159,10 @@ async function exportVitePressMedia(lang = 'de') {
     </div>
   </div>
 
-  <!-- Page 3: Table of Contents / Inhaltsverzeichnis -->
+  <!-- Page 3: Detailed Table of Contents / Inhaltsverzeichnis -->
   <div style="padding: 40px; page-break-after: always;">
     <h2 style="font-size: 28px; color: #03192e; border-bottom: 2px solid #03192e; padding-bottom: 10px; margin-bottom: 25px;">Inhaltsverzeichnis / Table of Contents</h2>
-    <ol style="column-count: 2; column-gap: 40px; font-size: 14px; line-height: 1.6; list-style: none; padding-left: 0;">
+    <ol style="column-count: 2; column-gap: 40px; font-size: 13px; line-height: 1.5; list-style: none; padding-left: 0;">
       ${tocItemsHtml}
     </ol>
   </div>
