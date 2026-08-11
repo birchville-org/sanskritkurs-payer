@@ -25,8 +25,8 @@ CACHE_FILE = ROOT / ".last_report_cache.json"
 
 def get_top_unfinished_language():
     """Returns the language code of the next language to translate based on user directive or highest completion %."""
-    # User priority override (exceptionally process EN then BG next)
-    priority_override = ["en", "bg"]
+    # User priority override (process RU first to 100% clean, then EN, then BG)
+    priority_override = ["ru", "en", "bg"]
     for code in priority_override:
         queue = get_translation_queue(code)
         if len(queue) > 0:
