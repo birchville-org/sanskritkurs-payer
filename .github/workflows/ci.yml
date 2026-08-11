@@ -56,15 +56,23 @@ jobs:
           docker rm payer-author-staging 2>/dev/null || true
           docker run -d --name payer-author-staging --restart always -p 8081:80 -v $(pwd)/docs/.vitepress/dist-author:/usr/share/nginx/html:ro nginx:alpine || true
 
-      - name: 2. Run Background QA & German Remnant Scan
+      - name: 2. Run Mobile Layout & Internal Link Audit
+        run: |
+          python3 scripts/audit_mobile_links.py || true
+
+      - name: 3. Run Quality Scoring & Coherence Benchmark
+        run: |
+          python3 scripts/score_translation_quality.py || true
+
+      - name: 4. Run Background QA & German Remnant Scan
         run: |
           python3 scripts/qa_german_remnants.py || true
 
-      - name: 3. Update Vector Search Embedding Index
+      - name: 5. Update Vector Search Embedding Index
         run: |
           python3 scripts/build_vector_index.py || true
 
-      - name: 4. Backup Translation Memory & Vault
+      - name: 6. Backup Translation Memory & Vault
         run: |
           mkdir -p /home/marco/payer_backups
           tar -czf /home/marco/payer_backups/tm_backup_$(date +%Y%m%d_%H%M%S).tar.gz .payer/tm/ 2>/dev/null || true
