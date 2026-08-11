@@ -39,10 +39,14 @@ jobs:
       - name: Build VitePress (Public)
         run: |
           VITEPRESS_ENV=public npm run docs:build
+          rm -rf docs/.vitepress/dist-public
+          mv docs/.vitepress/dist docs/.vitepress/dist-public
 
       - name: Build VitePress (Author)
         run: |
           VITEPRESS_ENV=author npm run docs:build
+          rm -rf docs/.vitepress/dist-author
+          mv docs/.vitepress/dist docs/.vitepress/dist-author
 
       - name: 1. Deploy Local Live-Staging Container (Port 8080)
         run: |
