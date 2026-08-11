@@ -46,6 +46,29 @@ def get_top_unfinished_language():
     all_rows.sort(key=lambda r: (r["pct"], -r["queue_len"]), reverse=True)
     return all_rows[0]["code"]
 
+def get_next_queued_language(active_code=None):
+    """Returns the language code of the next language queued after active_code."""
+    priority_override = ["ru", "en", "bg"]
+    for code in priority_override:
+        if code == active_code:
+            continue
+        queue = get_translation_queue(code)
+        if len(queue) > 0:
+            return code
+
+    unfinished = []
+    for code, name, emoji in LANG_MAP:
+        if code == "de" or code == active_code:
+            continue
+        queue = get_translation_queue(code)
+        if len(queue) > 0:
+            pct = round(((TOTAL_MASTER - len(queue)) / TOTAL_MASTER) * 100.0, 1)
+            unfinished.append({"code": code, "pct": pct, "queue_len": len(queue)})
+    if unfinished:
+        unfinished.sort(key=lambda r: (r["pct"], -r["queue_len"]), reverse=True)
+        return unfinished[0]["code"]
+    return None
+
 def load_report_cache():
     if CACHE_FILE.exists():
         try:
@@ -429,6 +452,9 @@ def generate_report():
     lines.append("| Locale | Sprache | Sauber | Fallbacks | Pipeline Queue | Delta (Δ) | Fortschritt | Status |")
     lines.append("| :--- | :--- | :---: | :---: | :--- | :---: | :---: | :--- |")
     
+    active_code = active_proc["lang"] if active_proc else None
+    next_lang_code = get_next_queued_language(active_code)
+
     for idx, r in enumerate(display_rows):
         q = r["todo_queue"]
         if r["code"] == "de":
@@ -443,10 +469,10 @@ def generate_report():
             total_c = chunk_info["total_chunks"] if chunk_info else 1
             status = f"🎯 Aktiv (`{file_str}` Sektion {curr_c}/{total_c})"
             offen_str = f"{len(q)} ({', '.join([item[0] for item in q])})" if len(q) <= 3 and q else f"{len(q)} Dateien"
-        elif not active_proc and ((show_all and idx == len(de_row) + len(finished_rows)) or (not show_all and idx == 0)):
+        elif not active_proc and r["code"] == next_lang_code:
             status = f"⚠️ Nächste (Wartet auf Start)"
             offen_str = f"{len(q)} ({', '.join([item[0] for item in q])})" if len(q) <= 3 and q else f"{len(q)} Dateien"
-        elif (show_all and idx == len(de_row) + len(finished_rows)) or (not show_all and idx == 0):
+        elif r["code"] == next_lang_code:
             status = "🔄 Nächste Sprache"
             offen_str = f"{len(q)} ({', '.join([item[0] for item in q])})" if len(q) <= 3 and q else f"{len(q)} Dateien"
         else:
