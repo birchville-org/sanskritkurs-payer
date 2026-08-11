@@ -1,0 +1,45 @@
+name: CI Quality Gate
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+env:
+  NODE_OPTIONS: "--max-old-space-size=16384"
+
+jobs:
+  validate-and-build:
+    runs-on: [self-hosted, linux, x64]
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install Dependencies
+        run: |
+          npm install
+
+      - name: Run Pre-Push & Integrity Checks
+        run: |
+          python3 scripts/pre_push_check.py
+
+      - name: Build VitePress (Public)
+        run: |
+          VITEPRESS_ENV=public npm run docs:build
+
+      - name: Build VitePress (Author)
+        run: |
+          VITEPRESS_ENV=author npm run docs:build
