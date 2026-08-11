@@ -50,6 +50,12 @@ jobs:
           docker rm payer-staging 2>/dev/null || true
           docker run -d --name payer-staging --restart always -p 8080:80 -v $(pwd)/docs/.vitepress/dist-public:/usr/share/nginx/html:ro nginx:alpine || true
 
+      - name: 1b. Deploy Local Author-Staging Container (Port 8081)
+        run: |
+          docker stop payer-author-staging 2>/dev/null || true
+          docker rm payer-author-staging 2>/dev/null || true
+          docker run -d --name payer-author-staging --restart always -p 8081:80 -v $(pwd)/docs/.vitepress/dist-author:/usr/share/nginx/html:ro nginx:alpine || true
+
       - name: 2. Run Background QA & German Remnant Scan
         run: |
           python3 scripts/qa_german_remnants.py || true
