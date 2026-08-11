@@ -99,7 +99,7 @@ async function exportVitePressMedia(lang = 'de') {
     const subHeadings = [];
     for (const m of h2Matches) {
       const cleanH2 = m[1].replace(/<[^>]+>/g, '').replace(/#\s*$/, '').trim();
-      if (cleanH2 && cleanH2.length < 80 && !cleanH2.toLowerCase().includes('inhaltsverzeichnis')) {
+      if (cleanH2 && cleanH2.length < 80 && !cleanH2.toLowerCase().includes('inhaltsverzeichnis') && !cleanH2.toLowerCase().includes('payer')) {
         subHeadings.push(cleanH2);
       }
     }
@@ -171,13 +171,17 @@ async function exportVitePressMedia(lang = 'de') {
   for (const item of lessonsData) {
     let content = fs.readFileSync(item.fullPath, 'utf-8');
 
-    // Rewrite relative image src="/images/..." to absolute file:/// URLs
+    // Rewrite relative image src="xxx" to absolute file:/// URLs
     content = content.replace(/src="\/images\//g, `src="file://${DIST_DIR}/images/`);
+    content = content.replace(/src="(?!http|file|\/)([^"]+)"/g, `src="file://${DIST_DIR}/qa/$1"`);
 
-    const match = content.match(/<main[^>]*>([\s\S]*?)<\/main>/i) || content.match(/<div class="vp-doc[^"]*">([\s\S]*?)<\/div>/i);
-    if (match) {
-      combinedHtml += `<div id="lektion-${item.lessonNum}" class="page-break" style="padding: 30px 20px;">${match[1]}</div>`;
+    let bodyInner = content;
+    const bodyMatch = content.match(/<body[^>]*>([\s\S]*?)<\/body>/i);
+    if (bodyMatch) {
+      bodyInner = bodyMatch[1];
     }
+
+    combinedHtml += `<div id="lektion-${item.lessonNum}" class="page-break" style="padding: 30px 20px;">${bodyInner}</div>`;
   }
 
   combinedHtml += `</body></html>`;
