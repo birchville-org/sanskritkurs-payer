@@ -145,7 +145,7 @@ def translate_text(text, target_lang):
                 restored_lines = [None] * len(source_lines)
                 unmatched_lines = []
                 for r_line in result_lines:
-                    m = re.match(r'^\s*\[[LЛlл]?(\d+)\]\s*(.*)$', r_line)
+                    m = re.match(r'^\s*\[?[LЛlл]?\s*(\d+)\s*\]?[\s:\.\-]*\s*(.*)$', r_line, re.IGNORECASE)
                     if m:
                         idx = int(m.group(1))
                         content = m.group(2)
@@ -163,7 +163,7 @@ def translate_text(text, target_lang):
                     if src_l.strip():
                         if restored_lines[idx] is None:
                             if unmatched_idx < len(unmatched_lines):
-                                clean_line = re.sub(r'^\s*\[[LЛlл]?\d+\]\s*', '', unmatched_lines[unmatched_idx])
+                                clean_line = re.sub(r'^\s*\[?[LЛlл]?\s*\d+\s*\]?[\s:\.\-]*\s*', '', unmatched_lines[unmatched_idx], flags=re.IGNORECASE)
                                 restored_lines[idx] = clean_line
                                 unmatched_idx += 1
                             else:

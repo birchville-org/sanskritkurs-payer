@@ -8,18 +8,7 @@ import sys
 import json
 import datetime
 from .config import LANG_NAMES, SONNET_API_URL, SONNET_MODEL
-
-_DE_RESIDUE_PATTERNS = re.compile(
-    r'\b(d\.h\.|usw\.|vgl\.|z\.B\.|Bildung|Stamm[^s]|Stämme|Stammabstufung'
-    r'|auslautend|Formgleich|mehrsilbig|entweder|Dehnstufe|Hochstufe'
-    r'|Tiefst(?:ufe|\.)|Normalst(?:ufe|\.)|Schwundstufe|Merke:|Beachte:'
-    r'|Anmerkung:|Hinweis:|Beispiel:|Beispiele:|Präsensklasse|Aoristklasse'
-    r'|Perfektstamm|Desiderativstamm|Kausativstamm|Verbalwurzel'
-    r'|Kasusendung|Kasussystem|Deklinationsklasse|Konjugationsklasse'
-    r'|Sandhi-Regel|Lautgesetz|Stammvokal|Endung(?:en)?'
-    r'|Lektion|Übung|Wortliste|Inhaltsverzeichnis\b'
-    r')'
-)
+from .terms import DE_RESIDUE_REGEX as _DE_RESIDUE_PATTERNS
 
 FAILURE_LOG_PATH = os.path.join(
     os.path.dirname(os.path.dirname(os.path.dirname(os.path.abspath(__file__)))),
@@ -46,21 +35,16 @@ def scan_german_residues(content: str, target_lang: str = None) -> list:
         stripped = line.strip()
 
         # Track YAML frontmatter (first --- block)
-        if stripped == '---' and i < 5:
+        if stripped == '---' and frontmatter_count < 2:
             frontmatter_count += 1
-            in_frontmatter = frontmatter_count == 1
-            if frontmatter_count == 2:
-                in_frontmatter = False
+            in_frontmatter = (frontmatter_count == 1)
             continue
         if in_frontmatter:
             continue
 
-        # Track ::: deleteme-box containers
+        # Track ::: deleteme-box containers (spans to EOF at bottom of lesson)
         if '::: deleteme-box' in stripped or ':::deleteme-box' in stripped:
             in_deleteme = True
-        if in_deleteme and stripped == ':::':
-            in_deleteme = False
-            continue
         if in_deleteme:
             continue
 
@@ -79,8 +63,8 @@ def scan_german_residues(content: str, target_lang: str = None) -> list:
 
         # 2. Morphological Language ID (for target languages other than German)
         if target_lang and target_lang != 'de' and _lang_detect:
-            # Skip if line contains non-Latin scripts (Cyrillic, Devanagari, Arabic, Hebrew, Thai, Tamil, Gurmukhi, Greek)
-            if re.search(r'[\u0400-\u04FF\u0900-\u097F\u0600-\u06FF\u0590-\u05FF\u0E00-\u0E7F\u0B80-\u0BFF\u0A00-\u0A7F\u0370-\u03FF]', stripped):
+            # Skip if line contains non-Latin scripts (Cyrillic, Devanagari, Arabic, Hebrew, Amharic, Coptic, Chinese, etc.)
+            if any(ord(ch) > 0x024F for ch in stripped):
                 continue
 
             # Strip Devanāgarī tags, IAST brackets, URLs, markdown formatting for clean lang detection
@@ -172,7 +156,7 @@ def sonnet_patch_residues(content: str, flagged_lines: list, target_lang: str) -
     # Parse response and apply corrections
     patched_lines = list(lines)
     for resp_line in patched_text.split('\n'):
-        m = re.match(r'^\[[LЛlл]?(\d+)\](?:>>)?\s*(.*)', resp_line.strip())
+        m = re.match(r'^\s*\[?[LЛlл]?\s*(\d+)\s*\]?(?:>>)?[\s:\.\-]*\s*(.*)$', resp_line.strip(), re.IGNORECASE)
         if m:
             idx = int(m.group(1))
             corrected = m.group(2)

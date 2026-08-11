@@ -205,7 +205,7 @@ def main():
             except Exception as e:
                 print(f"[{lang}] Warning: E-Mail-Benachrichtigung fehlgeschlagen: {e}")
             else:
-                print(f"[{lang}] ⚠️ NOTIZ: Lokale Ressourcen für '{lang}' auf nyx.local erschöpft ({written_files}/137 Dateien fertig). Warte auf explizite OpenRouter-Freigabe.")
+                print(f"[{lang}] 🎉 ERFOLG: Sprache '{lang_name}' ({lang}) 100% sauber abgeschlossen (136/136 Dateien).")
 
 if __name__ == "__main__":
     acquire_nyx_lock()

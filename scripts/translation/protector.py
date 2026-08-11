@@ -7,9 +7,14 @@ from .config import _DEVA_RE
 
 _IAST_DIACRITICS_RE = re.compile(r'[āĀīĪūŪṛṚṝṜḷḶṭṬḍḌṇṆṣṢśŚñÑṅṄṃṂḥḤ]')
 _IAST_LINE_RE = re.compile(r'^[a-zA-ZāĀīĪūŪṛṚṝṜḷḶṭṬḍḌṇṆṣṢśŚñÑṅṄṃṂḥḤ\s\|.,;:!\-]+$')
-_GERMAN_CONNECTORS_RE = re.compile(r'\b(und|des|Abb)\b')
+_GERMAN_CONNECTORS_RE = re.compile(
+    r'\b(und|des|Abb|der|die|das|dem|den|ein|eine|einer|einem|einen|eines|oder|vor|nach|mit|durch|ohne|bei|aus|von|wird|werden|ist|sind|Stamm|Stämme|Starker|Schwacher|Form|Formen|Singular|Plural|Nominativ|Akkusativ|Genetiv|Dativ|Instrumentalis|Ablativ|Vokativ|Kausativ|Passiv|Aorist|Perfekt|Präsens)\b',
+    re.IGNORECASE
+)
 
 BR_PLACEHOLDER = '⟨BR⟩'
+
+_DEVA_RUN_RE = re.compile(r'[\u0900-\u097F]+(?:\s+[\u0900-\u097F]+)*')
 
 def protect_devanagari(text):
     """Replace every Devanāgarī run with a unique placeholder. Returns (protected_text, registry)."""
@@ -22,7 +27,7 @@ def protect_devanagari(text):
         registry[key] = m.group(0)
         counter[0] += 1
         return key
-    return _DEVA_RE.sub(_replace, text), registry
+    return _DEVA_RUN_RE.sub(_replace, text), registry
 
 def restore_devanagari(text, registry, mark_sanskrit=False):
     for key, original in registry.items():

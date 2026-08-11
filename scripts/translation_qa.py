@@ -13,23 +13,9 @@ ROOT = Path(__file__).parent.parent
 DOCS = ROOT / "docs"
 TOTAL_MASTER = 136
 
-# Languages where German is an allowed fallback
-DE_FALLBACK_ALLOWED = {"rm", "grc", "el", "la", "cop"}
-
-# Files excluded from lesson counts
-EXCLUDE_META = {
-    "licenses.md", "AUTHORS_GUIDE.md", "settings.md", "impressum.md", 
-    "grammatik.md", "themen.md", "qa_help.md"
-}
-
-# German keywords that leak into translated texts/headings/tables
-GERMAN_KEYWORDS = [
-    "Die Laute des Sanskrit", "Verehrung des", "Schriftübung", "Glückbringender Anfang", 
-    "Bildquelle:", "Jedes Konsonantenzeichen", "Materialien zum Sanskrit", "Zusätzliche Übung", 
-    "Auslautendes", "wird es zu", "Ersetzung durch", "in Pausa", "mit direktem Objekt",
-    "Der Passivsatz", "Doppelter Akkusativ", "Wortliste", "Fragepronomina", "Übung", 
-    "Nominativ", "Akkusativ", "Genetiv", "Instrumentalis", "Komposita", "Passiv", "Infinitiv"
-]
+from translation.terms import (
+    DE_FALLBACK_ALLOWED, EXCLUDE_META, GERMAN_KEYWORDS, STRICT_DE_GRAMMAR_KEYWORDS
+)
 
 # Lazy Lingua Detector Initialization
 _LINGUA_DETECTOR = None
@@ -57,7 +43,7 @@ def clean_markdown_for_lid(txt):
     """Clean markdown formatting, frontmatter, and metadata before language detection."""
     # Strip YAML frontmatter & deleteme-box metadata blocks
     txt_no_yaml = re.sub(r'^---.*?---\n', '', txt, flags=re.DOTALL)
-    txt_no_meta = re.sub(r':::\s*deleteme-box.*?:::', '', txt_no_yaml, flags=re.DOTALL)
+    txt_no_meta = re.sub(r':::\s*deleteme-box\b.*', '', txt_no_yaml, flags=re.DOTALL)
     clean_txt = re.sub(r'[\u0900-\u097F]+', '', txt_no_meta)  # Remove Devanagari
     clean_txt = re.sub(r'⟪.*?⟫', '', clean_txt)              # Remove Sanskrit brackets
     clean_txt = re.sub(r'!\[.*?\]\(.*?\)', '', clean_txt)     # Remove images
@@ -65,12 +51,7 @@ def clean_markdown_for_lid(txt):
     clean_txt = re.sub(r':::[^\n]+', '', clean_txt)           # Remove container tags
     return clean_txt
 
-STRICT_DE_GRAMMAR_KEYWORDS = [
-    "Akkusativ", "Instrumentalis", "Genetiv", "Vokativ", "Ablativ", "Nominativ",
-    "Präsensklasse", "Verschlusslaut", "stimmhaft", "stimmlose", "stimmlosem",
-    "Wortsandhi", "Wiederholungsübung", "Bildungen auf", "wird durch", "bleiben unverändert",
-    "bei Maskulina", "bei Neutra", "außer j", "entsprechenden"
-]
+
 
 def check_has_de_phrases(txt, code, fast=False):
     """Check if text contains unallowed German (or English) phrases/remnants."""

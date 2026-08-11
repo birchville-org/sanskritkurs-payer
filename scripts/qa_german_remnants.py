@@ -7,6 +7,9 @@ from lingua import Language, LanguageDetectorBuilder
 
 def clean_markdown(text):
     """Remove HTML, markdown tokens, and VitePress specific tags to get raw text for language detection."""
+    # Remove YAML frontmatter & ::: deleteme-box blocks (to end of file)
+    text = re.sub(r'^---.*?---\n', '', text, flags=re.DOTALL)
+    text = re.sub(r':::\s*deleteme-box\b.*', '', text, flags=re.DOTALL)
     # Remove HTML tags
     text = re.sub(r'<[^>]+>', '', text)
     # Remove VitePress containers (::: info, ::: indent, etc.)

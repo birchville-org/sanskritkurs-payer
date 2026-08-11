@@ -20,7 +20,7 @@ def chunk_content(content: str, max_chunk_size: int = 1500) -> list:
 
     for line in lines:
         is_header = line.startswith('## ') or line.startswith('### ')
-        is_safe_break = (not line.strip() or line.startswith(':::') or line.startswith('|'))
+        is_safe_break = (not line.strip() or line.startswith(':::')) and not line.startswith('|')
 
         if (is_header or is_safe_break) and current_chunk and current_size >= MAX_CHUNK:
             chunks.append('\n'.join(current_chunk))
@@ -31,9 +31,11 @@ def chunk_content(content: str, max_chunk_size: int = 1500) -> list:
         current_size += len(line) + 1
 
     if current_chunk:
-        chunks.append('\n'.join(current_chunk))
+        c_str = '\n'.join(current_chunk)
+        if c_str.strip():
+            chunks.append(c_str)
 
-    return chunks
+    return [c for c in chunks if c.strip()]
 
 def touch_progress_heartbeat(filename: str, chunk_idx: int, total_chunks: int, lang: str):
     """Write timestamp to /tmp/payer_progress_heartbeat.json ONLY when a chunk/file is successfully written."""

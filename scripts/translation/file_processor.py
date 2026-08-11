@@ -279,6 +279,9 @@ def translate_yaml_frontmatter(yaml_content, target_lang):
         return yaml_content
 
     translated_vals = [p.strip() for p in translated_text.split('\n\n') if p.strip()]
+    if len(translated_vals) != len(values):
+        translated_vals = [p.strip() for p in translated_text.split('\n') if p.strip()]
+
     if len(translated_vals) == len(values):
         for idx, new_val in zip(indices, translated_vals):
             m = re.match(r'^(\s*(?:-\s*)?[a-zA-Z0-9_-]+:\s*)(.+)$', lines[idx])

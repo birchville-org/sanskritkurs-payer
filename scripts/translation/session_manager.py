@@ -9,6 +9,7 @@ import time
 import datetime
 from .config import BASE_DIR
 from .quality_control import scan_german_residues
+from .terms import EXCLUDE_META
 
 def get_force_session_path(lang: str) -> str:
     """Return path to force session timestamp file."""
@@ -50,7 +51,7 @@ def is_language_completed(lang: str) -> bool:
     if not os.path.exists(lang_dir):
         return False
     md_files = glob.glob(os.path.join(lang_dir, "**/*.md"), recursive=True)
-    clean_files = [f for f in md_files if "qa_viewer" not in f and "deleteme" not in f]
+    clean_files = [f for f in md_files if os.path.basename(f) not in EXCLUDE_META and "qa_viewer" not in f and "deleteme" not in f]
     if len(clean_files) < 136:
         return False
     for fpath in clean_files:
