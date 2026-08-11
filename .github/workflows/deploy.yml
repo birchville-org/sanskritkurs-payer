@@ -115,11 +115,12 @@ jobs:
           cache-from: type=gha
           cache-to: type=gha,mode=max
 
-      - name: Generate & Upload PDF & EPUB Release Assets
+      - name: Generate & Upload VitePress PDF & EPUB Release Assets
         run: |
-          python3 scripts/export_pdf_epub.py de en || true
+          node scripts/export_vitepress_pdf.js de || true
+          node scripts/export_vitepress_pdf.js en || true
           if [ -d "dist_exports" ]; then
-            gh release upload "${{ github.ref_name }}" ./dist_exports/*.epub 2>/dev/null || true
+            gh release upload "${{ github.ref_name }}" ./dist_exports/*.pdf ./dist_exports/*.epub 2>/dev/null || true
           fi
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
