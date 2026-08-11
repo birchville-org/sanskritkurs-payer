@@ -21,7 +21,7 @@ flowchart TB
         GIT["Git Local Workspace & Control Scripts"]
     end
 
-    subgraph Nyx["🚀 Nyx (Dedicated LLM Engine - nyx.local - MacBook Air, 32GB VRAM)"]
+    subgraph Nyx["🚀 Nyx (Dedicated LLM Engine - nyx.local - MacBook Air M4, 32GB VRAM)"]
         MLX["mlx_lm.server (Port 8000)"]
         MODEL["Qwen3.6-35B-A3B-4bit-DWQ\n(24GB allocated)"]
     end
@@ -63,7 +63,7 @@ flowchart TB
 | Node | OS & Hardware | Primary Responsibilities | Network Endpoints |
 | :--- | :--- | :--- | :--- |
 | **nike.local** | macOS (Apple Silicon M2, 24GB Unified Memory/VRAM) | • Interactive Pair Programming with Antigravity IDE<br>• Code Editing & Git Control<br>• Translation Runner Trigger (`lan_translate.py`) | Local NVMe (`/Volumes/SanDisk1TB/proj/Payer`) |
-| **nyx.local** | macOS (MacBook Air Apple Silicon, 32GB Unified Memory/VRAM) | • Dedicated 35B Heavy LLM Mass Translation Server<br>• Zero-Cost Local Inference (~20 tokens/sec) | `http://nyx.local:8000` |
+| **nyx.local** | macOS (MacBook Air M4, 32GB Unified Memory/VRAM) | • Dedicated 35B Heavy LLM Mass Translation Server<br>• Zero-Cost Local Inference (~20 tokens/sec) | `http://nyx.local:8000` |
 | **nataraja.local** | Pop!_OS 24.04 Linux (Intel Core i7-8700B, 32GB RAM, NVMe SSD) | • GitHub Self-Hosted Runner (`nataraja`)<br>• VitePress 35-Locale Quality Gate & Build Server<br>• Local Live-Staging Container Host (Nginx)<br>• Auxiliary Ollama LLM & Vector Search Engine<br>• Automated TM & Session Vault Manager | • SSH: `marco@nataraja.local`<br>• Staging Web: `http://nataraja.local:8080`<br>• Ollama: `http://nataraja.local:11434` |
 
 ---
@@ -92,6 +92,7 @@ When code is pushed to `main`:
 
 | Date | Category | Description | Impact |
 | :--- | :--- | :--- | :--- |
+| **2026-08-11** | **Node Hardware** | Specified `nyx.local` as MacBook Air M4 (32GB Unified Memory/VRAM). | Documented exact M4 generation architecture. |
 | **2026-08-11** | **Node Hardware** | Updated `nyx.local` specs to MacBook Air (32GB Unified Memory/VRAM). | Documented exact hardware specs for LLM mass translation node. |
 | **2026-08-11** | **Workstation** | Identified primary Mac workstation as `nike.local` (M2, 24GB VRAM). | Documented node hostname and Apple Silicon M2 specs. |
 | **2026-08-11** | **Infrastructure** | Added `nataraja` (Pop!_OS Intel Mac 32GB RAM) as dedicated GitHub Self-Hosted Runner. | Shifted site builds and Docker multi-arch builds off Workstation Mac. |
