@@ -35,7 +35,7 @@ status: stable
 ::: grammar-box
 | **Basi** ||||
 | :--- | :---: | :---: | :---: |
-| | **tad = ⟪तद्⟫:br"er, sie, es; der, die, das":br(Erwähnte)** | **etad = ⟪एतद्⟫:br"dieser, diese, dieses":br(dem Sprechenden sehr Nahe)** | **idam = ⟪इदम्⟫:br"dieser, diese, dieses":br(Nahe)** |
+| | **tad = ⟪तद्⟫:br"egli, ella, esso; quello, quella, quello":br(Menzionato)** | **etad = ⟪एतद्⟫:br"questo, questa, questo":br(Molto vicino a chi parla)** | **idam = ⟪इदम्⟫:br"questo, questa, questo":br(Vicino)** |
 | **Nominativo singular** ||||
 | **Neutro** | **tad = ⟪तद्⟫** | **etad = ⟪एतद्⟫** | **idam = ⟪इदम्⟫** |
 | **Maschile** | **sa, so saḥ = ⟪स⟫ ⟪सो⟫ ⟪सः⟫** | **eṣa, eṣo, eṣaḥ = ⟪एष⟫ ⟪एषो⟫ ⟪एषः⟫** | **ayam = ⟪अयम्⟫** |
@@ -48,7 +48,7 @@ status: stable
 **Per il Nom. sg. masc.:**
 - **sa, eṣa** (⟪स⟫ ⟪एष⟫) sta davanti a tutti i suoni tranne la **-a** breve
 - **so, eṣo** (⟪सो⟫ ⟪एषो⟫) sta davanti a **-a**, che viene elisa con Avagraha (caduta)
-- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) sta solo in pausa (fine di frase, fine di verso)
+- **saḥ, eṣaḥ** (⟪सः⟫ ⟪एषः⟫) sta solo in pausa (fine di frase, fine di verso) <!-- TODO: Fallback translation -->
 
 Per poter formare frasi con questi pronomi (sarvanāman n.) è necessaria la conoscenza delle seguenti regole di Sandhi:
 
@@ -97,7 +97,7 @@ NOTA: Le risposte che si possono dare a tali domande con le conoscenze sanscrite
 
 **A) Formulate oralmente domande con le seguenti parole secondo lo schema viṣṇuḥ kaḥ (⟪विष्णुः⟫ ⟪कः⟫) e rispondete alle domande in sanscrito:**
 
-śruti, śiva, brāhmaṇa, dvija (Pluralee), indrāṇī, dhenu, tulādhara, kālidāsa
+śruti, śiva, brāhmaṇa, dvija (Pluraleeeee), indrāṇī, dhenu, tulādhara, kālidāsa
 
 = ⟪श्रुति⟫, ⟪शिव⟫, ⟪ब्राह्मण⟫, ⟪द्विज⟫ (⟪बहुवचनम्⟫), ⟪इन्द्राणी⟫, ⟪धेनु⟫, ⟪तुलाधर⟫, ⟪कालिदास⟫
 
